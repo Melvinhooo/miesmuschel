@@ -1,0 +1,386 @@
+// Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
+window.__MIESMUSCHEL_STAT = {
+  "letzte_berechnung": "2026-04-24T15:44:32+02:00",
+  "gesamt": {
+    "tipps": 22,
+    "gewonnen": 14,
+    "verloren": 8,
+    "push": 0,
+    "offen": 0,
+    "einsatz": 22.0,
+    "netto": 2.8,
+    "trefferquote": 63.6,
+    "roi_prozent": 12.7
+  },
+  "letzte_30_tage": {
+    "tipps": 22,
+    "gewonnen": 14,
+    "verloren": 8,
+    "push": 0,
+    "offen": 0,
+    "einsatz": 22.0,
+    "netto": 2.8,
+    "trefferquote": 63.6,
+    "roi_prozent": 12.7
+  },
+  "letzte_90_tage": {
+    "tipps": 22,
+    "gewonnen": 14,
+    "verloren": 8,
+    "push": 0,
+    "offen": 0,
+    "einsatz": 22.0,
+    "netto": 2.8,
+    "trefferquote": 63.6,
+    "roi_prozent": 12.7
+  },
+  "nach_liga": {
+    "NBA Playoffs R1 G2": {
+      "tipps": 8,
+      "gewonnen": 4,
+      "verloren": 4,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 8.0,
+      "netto": -0.6,
+      "trefferquote": 50.0,
+      "roi_prozent": -7.5
+    },
+    "DFB-Pokal Halbfinale": {
+      "tipps": 4,
+      "gewonnen": 3,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 4.0,
+      "netto": 1.85,
+      "trefferquote": 75.0,
+      "roi_prozent": 46.2
+    },
+    "NBA Playoffs R1 G3": {
+      "tipps": 6,
+      "gewonnen": 3,
+      "verloren": 3,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 6.0,
+      "netto": -0.35,
+      "trefferquote": 50.0,
+      "roi_prozent": -5.8
+    },
+    "LaLiga": {
+      "tipps": 4,
+      "gewonnen": 4,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 4.0,
+      "netto": 1.9,
+      "trefferquote": 100.0,
+      "roi_prozent": 47.5
+    }
+  },
+  "nach_markt": {
+    "Desmond Bane Mehr als 17.5 Punkte": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Jalen Williams Mehr als 18.5 Punkte": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.8,
+      "trefferquote": 100.0,
+      "roi_prozent": 80.0
+    },
+    "Franz Wagner Mehr als 15.5 Punkte": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Weniger als 218.5 Punkte gesamt": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.9,
+      "trefferquote": 100.0,
+      "roi_prozent": 90.0
+    },
+    "Cade Cunningham Mehr als 24.5 Punkte": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.85,
+      "trefferquote": 100.0,
+      "roi_prozent": 85.0
+    },
+    "Paolo Banchero Double-Double": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Weniger als 215.5 Punkte gesamt": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Shai Gilgeous-Alexander Mehr als 31.5 Punkte": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.85,
+      "trefferquote": 100.0,
+      "roi_prozent": 85.0
+    },
+    "Stuttgart weiter (inkl. Verlängerung/Elfmeter)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.55,
+      "trefferquote": 100.0,
+      "roi_prozent": 55.0
+    },
+    "Cleveland Cavaliers Sieg": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Stuttgart Sieg (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Deniz Undav trifft": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.3,
+      "trefferquote": 100.0,
+      "roi_prozent": 130.0
+    },
+    "Atlanta Hawks Sieg": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.85,
+      "trefferquote": 100.0,
+      "roi_prozent": 85.0
+    },
+    "Minnesota Timberwolves Sieg": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.05,
+      "trefferquote": 100.0,
+      "roi_prozent": 105.0
+    },
+    "Donovan Mitchell Mehr als 26.5 Punkte": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Jalen Brunson Mehr als 24.5 Punkte": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.75,
+      "trefferquote": 100.0,
+      "roi_prozent": 75.0
+    },
+    "Anthony Edwards Mehr als 27.5 Punkte": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Weniger als 2.5 Tore": {
+      "tipps": 2,
+      "gewonnen": 2,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 1.85,
+      "trefferquote": 100.0,
+      "roi_prozent": 92.5
+    },
+    "Rayo Vallecano Doppelte Chance (1X)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.3,
+      "trefferquote": 100.0,
+      "roi_prozent": 30.0
+    },
+    "Villarreal Doppelte Chance (X2)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.3,
+      "trefferquote": 100.0,
+      "roi_prozent": 30.0
+    },
+    "Levante Doppelte Chance (1X)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.45,
+      "trefferquote": 100.0,
+      "roi_prozent": 45.0
+    }
+  },
+  "nach_quoten_range": {
+    "1.50-2.00": {
+      "tipps": 14,
+      "gewonnen": 8,
+      "verloren": 6,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 14.0,
+      "netto": 0.4,
+      "trefferquote": 57.1,
+      "roi_prozent": 2.9
+    },
+    "2.00-3.00": {
+      "tipps": 5,
+      "gewonnen": 3,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 5.0,
+      "netto": 1.35,
+      "trefferquote": 60.0,
+      "roi_prozent": 27.0
+    },
+    "1.00-1.50": {
+      "tipps": 3,
+      "gewonnen": 3,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 1.05,
+      "trefferquote": 100.0,
+      "roi_prozent": 35.0
+    }
+  },
+  "nach_kategorie": {
+    "safe": {
+      "tipps": 8,
+      "gewonnen": 5,
+      "verloren": 3,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 8.0,
+      "netto": -0.6,
+      "trefferquote": 62.5,
+      "roi_prozent": -7.5
+    },
+    "value": {
+      "tipps": 13,
+      "gewonnen": 8,
+      "verloren": 5,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 13.0,
+      "netto": 2.4,
+      "trefferquote": 61.5,
+      "roi_prozent": 18.5
+    },
+    "wackel": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.0,
+      "trefferquote": 100.0,
+      "roi_prozent": 100.0
+    }
+  }
+};

@@ -1,0 +1,32 @@
+{
+  "notiz": "Beispiel wie statistik.json (bzw. die gerenderte statistik.js) aussieht nachdem scripts/statistik_berechnen.py gelaufen ist. Wird NICHT von Hand gepflegt.",
+  "letzte_berechnung": "2026-04-23T08:15:12+02:00",
+  "gesamt":        { "tipps": 5, "gewonnen": 3, "verloren": 2, "push": 0, "offen": 0, "trefferquote": 60.0, "einsatz": 5.0, "netto":  +1.05, "roi_prozent": 21.0 },
+  "letzte_30_tage":{ "tipps": 5, "gewonnen": 3, "verloren": 2, "push": 0, "offen": 0, "trefferquote": 60.0, "einsatz": 5.0, "netto":  +1.05, "roi_prozent": 21.0 },
+  "letzte_90_tage":{ "tipps": 5, "gewonnen": 3, "verloren": 2, "push": 0, "offen": 0, "trefferquote": 60.0, "einsatz": 5.0, "netto":  +1.05, "roi_prozent": 21.0 },
+  "nach_liga": {
+    "DFB-Pokal": { "tipps": 3, "gewonnen": 3, "verloren": 0, "push": 0, "trefferquote": 100.0, "roi_prozent": 43.3 },
+    "LaLiga":    { "tipps": 1, "gewonnen": 0, "verloren": 1, "push": 0, "trefferquote":   0.0, "roi_prozent": -100.0 },
+    "NBA":       { "tipps": 1, "gewonnen": 1, "verloren": 0, "push": 0, "trefferquote": 100.0, "roi_prozent":  75.0 }
+  },
+  "nach_markt": {
+    "Bayern Sieg (90 Min)":               { "tipps": 1, "gewonnen": 1, "verloren": 0, "push": 0, "trefferquote": 100.0, "roi_prozent": 110.0 },
+    "Harry Kane trifft":                  { "tipps": 1, "gewonnen": 1, "verloren": 0, "push": 0, "trefferquote": 100.0, "roi_prozent":  70.0 },
+    "Bayern weiter (inkl. Verl./Elfer)":  { "tipps": 1, "gewonnen": 1, "verloren": 0, "push": 0, "trefferquote": 100.0, "roi_prozent":  50.0 },
+    "Lewandowski trifft":                 { "tipps": 1, "gewonnen": 0, "verloren": 1, "push": 0, "trefferquote":   0.0, "roi_prozent": -100.0 },
+    "Jaylen Brown Mehr als 23.5 Punkte":  { "tipps": 1, "gewonnen": 1, "verloren": 0, "push": 0, "trefferquote": 100.0, "roi_prozent":  75.0 }
+  },
+  "nach_quoten_range": {
+    "1.00-1.50": { "tipps": 1, "gewonnen": 1, "verloren": 0, "push": 0, "trefferquote": 100.0, "roi_prozent": 50.0 },
+    "1.50-2.00": { "tipps": 3, "gewonnen": 2, "verloren": 1, "push": 0, "trefferquote":  66.7, "roi_prozent": 15.0 },
+    "2.00-3.00": { "tipps": 1, "gewonnen": 1, "verloren": 0, "push": 0, "trefferquote": 100.0, "roi_prozent": 110.0 },
+    "3.00+":     { "tipps": 0, "gewonnen": 0, "verloren": 0, "push": 0, "trefferquote":   0.0, "roi_prozent":  0.0 }
+  },
+  "nach_kategorie": {
+    "safe":     { "tipps": 3, "gewonnen": 3, "verloren": 0, "push": 0, "trefferquote": 100.0, "roi_prozent":  76.7 },
+    "value":    { "tipps": 2, "gewonnen": 1, "verloren": 1, "push": 0, "trefferquote":  50.0, "roi_prozent": -12.5 },
+    "wackel":   { "tipps": 0, "gewonnen": 0, "verloren": 0, "push": 0, "trefferquote":   0.0, "roi_prozent":   0.0 },
+    "risiko":   { "tipps": 0, "gewonnen": 0, "verloren": 0, "push": 0, "trefferquote":   0.0, "roi_prozent":   0.0 },
+    "moonshot": { "tipps": 0, "gewonnen": 0, "verloren": 0, "push": 0, "trefferquote":   0.0, "roi_prozent":   0.0 }
+  }
+}

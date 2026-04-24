@@ -1,0 +1,1688 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>🐚 Magische Miesmuschel v13 · 21.04.2026</title>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@400;700;900&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: 'JetBrains Mono', monospace;
+  background: linear-gradient(180deg, #001f3f 0%, #003d6b 50%, #0074b3 100%);
+  color: #e8f4ff;
+  min-height: 100vh;
+  overflow-x: hidden;
+  line-height: 1.6;
+}
+.bubbles { position: fixed; top: 0; left: 0; width: 100%; height: 100%; pointer-events: none; z-index: 0; }
+.bubble {
+  position: absolute; bottom: -100px;
+  background: radial-gradient(circle at 30% 30%, rgba(255,255,255,0.3), rgba(156,39,176,0.1));
+  border-radius: 50%; animation: rise linear infinite;
+}
+@keyframes rise {
+  0% { transform: translateY(0); opacity: 0; }
+  10% { opacity: 0.6; } 90% { opacity: 0.6; }
+  100% { transform: translateY(-110vh) translateX(30px); opacity: 0; }
+}
+.container { max-width: 1100px; margin: 0 auto; padding: 20px; position: relative; z-index: 1; }
+header {
+  text-align: center; padding: 40px 20px 30px;
+  background: rgba(0, 20, 40, 0.6); border-radius: 20px;
+  border: 2px solid #9c27b0; margin-bottom: 25px; backdrop-filter: blur(10px);
+}
+.shell {
+  font-size: 4em; animation: float 3s ease-in-out infinite;
+  display: inline-block; filter: drop-shadow(0 0 20px rgba(232, 157, 214, 0.7));
+}
+@keyframes float {
+  0%, 100% { transform: translateY(0) rotate(-5deg); }
+  50% { transform: translateY(-15px) rotate(5deg); }
+}
+h1 {
+  font-family: 'Fraunces', serif; font-size: 2.8em; color: #e89dd6;
+  text-shadow: 0 0 30px rgba(232, 157, 214, 0.6); margin: 10px 0; letter-spacing: 1px;
+}
+.subtitle { color: #ffd700; font-size: 1.1em; font-weight: 500; }
+.date-line { color: #8fb4d8; margin-top: 10px; font-size: 0.95em; }
+nav {
+  display: flex; gap: 10px; margin-bottom: 25px;
+  flex-wrap: wrap; justify-content: center;
+}
+.nav-btn {
+  background: rgba(156, 39, 176, 0.25);
+  border: 1px solid rgba(232, 157, 214, 0.5); color: #e8f4ff;
+  padding: 12px 20px; border-radius: 12px; cursor: pointer;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.95em;
+  transition: all 0.3s; font-weight: 500;
+}
+.nav-btn:hover { background: rgba(156, 39, 176, 0.5); transform: translateY(-2px); }
+.nav-btn.active {
+  background: linear-gradient(135deg, #9c27b0, #e89dd6);
+  box-shadow: 0 0 20px rgba(232, 157, 214, 0.5);
+}
+section { display: none; animation: fadeIn 0.4s; }
+section.active { display: block; }
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+h2 {
+  font-family: 'Fraunces', serif; color: #ffd700; font-size: 1.8em;
+  margin: 20px 0 15px 0; border-bottom: 2px solid rgba(255, 215, 0, 0.3); padding-bottom: 8px;
+}
+h3 {
+  color: #e89dd6; font-size: 1.3em; margin: 15px 0 10px 0; font-family: 'Fraunces', serif;
+}
+h4 { color: #ffd700; font-size: 1.05em; margin: 10px 0 6px 0; }
+.tip-card {
+  background: rgba(0, 30, 60, 0.7);
+  border: 1px solid rgba(156, 39, 176, 0.4);
+  border-radius: 15px; padding: 22px; margin-bottom: 22px;
+  backdrop-filter: blur(5px); transition: all 0.3s;
+  position: relative; overflow: hidden;
+}
+.tip-card::before {
+  content: ''; position: absolute; top: 0; left: 0; width: 6px; height: 100%;
+  background: linear-gradient(180deg, #ffd700, #e89dd6);
+}
+.tip-card.safe::before { background: linear-gradient(180deg, #3ec98a, #2a9e6a); }
+.tip-card.value::before { background: linear-gradient(180deg, #ffd700, #ff9800); }
+.tip-card.wackel::before { background: linear-gradient(180deg, #ffa94d, #e84545); }
+.tip-card.risk::before { background: linear-gradient(180deg, #e84545, #9c27b0); }
+.tip-card.moonshot::before { background: linear-gradient(180deg, #9c27b0, #e89dd6, #ffd700); }
+.tip-card:hover { border-color: rgba(232, 157, 214, 0.6); transform: translateY(-2px); }
+.tip-header {
+  display: flex; justify-content: space-between; align-items: flex-start;
+  gap: 15px; margin-bottom: 12px; flex-wrap: wrap;
+}
+.tip-meta { flex: 1; min-width: 240px; }
+.tip-num {
+  font-family: 'Fraunces', serif; color: #e89dd6;
+  font-size: 0.85em; margin-bottom: 4px; font-weight: 700; letter-spacing: 2px;
+}
+.tip-match {
+  font-family: 'Fraunces', serif; color: #ffd700; font-size: 1.25em;
+  font-weight: 700; margin-bottom: 4px;
+}
+.tip-pick {
+  color: #e89dd6; font-size: 1.05em; font-weight: 700; margin-top: 6px;
+}
+.tip-quote-box {
+  background: rgba(255, 215, 0, 0.15);
+  border: 2px solid #ffd700; color: #ffd700;
+  padding: 10px 16px; border-radius: 10px; font-weight: 700;
+  font-size: 1.3em; text-align: center; min-width: 100px;
+  font-family: 'Fraunces', serif;
+}
+.tip-quote-sub { font-size: 0.7em; color: #8fb4d8; font-weight: 400; display: block; margin-top: 2px; }
+.tip-badges { margin-top: 5px; }
+.tip-badge {
+  display: inline-block; padding: 5px 12px; border-radius: 8px;
+  font-weight: 700; margin-right: 6px; font-size: 0.8em;
+  font-family: 'JetBrains Mono', monospace;
+}
+.tip-badge.safe-tag { background: linear-gradient(135deg, #3ec98a, #2a9e6a); color: #001f3f; }
+.tip-badge.value-tag { background: linear-gradient(135deg, #ffd700, #ff9800); color: #001f3f; }
+.tip-badge.wackel-tag { background: linear-gradient(135deg, #ffa94d, #e84545); color: #001f3f; }
+.tip-badge.risk-tag { background: linear-gradient(135deg, #e84545, #9c27b0); color: white; }
+.tip-badge.player-tag { background: rgba(156, 39, 176, 0.4); color: #e89dd6; border: 1px solid #e89dd6; }
+.tip-badge.goals-tag { background: rgba(62, 201, 138, 0.3); color: #3ec98a; border: 1px solid #3ec98a; }
+.tip-badge.main-tag { background: rgba(255, 215, 0, 0.2); color: #ffd700; border: 1px solid #ffd700; }
+.tip-body {
+  margin-top: 14px; padding-top: 14px;
+  border-top: 1px dashed rgba(156, 39, 176, 0.3);
+}
+.analysis-block { margin: 10px 0; }
+.analysis-block h4 {
+  color: #e89dd6; font-size: 0.95em; margin-bottom: 6px;
+  text-transform: uppercase; letter-spacing: 1px;
+}
+.analysis-block ul { padding-left: 22px; font-size: 0.92em; }
+.analysis-block li { padding: 3px 0; }
+.value-calc {
+  background: rgba(255, 215, 0, 0.08);
+  border-left: 3px solid #ffd700;
+  padding: 10px 14px; margin-top: 10px;
+  border-radius: 6px; font-size: 0.9em;
+}
+.value-calc strong { color: #ffd700; }
+.game-card {
+  background: rgba(0, 30, 60, 0.6);
+  border: 1px solid rgba(156, 39, 176, 0.4);
+  border-radius: 15px; padding: 22px; margin-bottom: 20px;
+}
+.game-header {
+  display: flex; justify-content: space-between; align-items: center;
+  margin-bottom: 15px; flex-wrap: wrap; gap: 10px;
+}
+.game-title { font-family: 'Fraunces', serif; font-size: 1.35em; color: #ffd700; font-weight: 700; }
+.game-meta { color: #8fb4d8; font-size: 0.85em; }
+.league-tag {
+  background: rgba(156, 39, 176, 0.3); padding: 4px 10px;
+  border-radius: 8px; font-size: 0.8em; color: #e89dd6;
+  display: inline-block; margin-right: 8px;
+}
+.box {
+  background: rgba(156, 39, 176, 0.12); border-left: 4px solid #9c27b0;
+  padding: 14px; margin: 12px 0; border-radius: 8px; font-size: 0.95em;
+}
+.box.green { background: rgba(62, 201, 138, 0.1); border-left-color: #3ec98a; }
+.box.red { background: rgba(232, 69, 69, 0.1); border-left-color: #e84545; }
+.box.gold { background: rgba(255, 215, 0, 0.1); border-left-color: #ffd700; }
+.box.orange { background: rgba(255, 169, 77, 0.1); border-left-color: #ffa94d; }
+.ok { color: #3ec98a; font-weight: bold; }
+.nope { color: #e84545; font-weight: bold; }
+.warn { color: #ffa94d; font-weight: bold; }
+.gold { color: #ffd700; font-weight: bold; }
+.purple { color: #e89dd6; font-weight: bold; }
+.risk-tabs { display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap; }
+.risk-tab {
+  flex: 1; min-width: 150px; padding: 15px;
+  background: rgba(0, 30, 60, 0.5);
+  border: 2px solid rgba(156, 39, 176, 0.3);
+  border-radius: 12px; cursor: pointer; text-align: center; transition: all 0.3s;
+}
+.risk-tab:hover { transform: translateY(-2px); }
+.risk-tab.active {
+  border-color: #ffd700; box-shadow: 0 0 20px rgba(255, 215, 0, 0.3);
+}
+.risk-tab h4 {
+  font-family: 'Fraunces', serif; font-size: 1.4em; color: #ffd700; margin-bottom: 5px;
+}
+.risk-tab .target { color: #e89dd6; font-size: 0.9em; }
+.risk-content { display: none; }
+.risk-content.active { display: block; }
+.combi-details {
+  background: rgba(0, 0, 0, 0.25); border-radius: 10px;
+  padding: 15px; margin-top: 15px;
+}
+.combi-leg {
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 10px 0; border-bottom: 1px solid rgba(156, 39, 176, 0.2);
+  gap: 10px; flex-wrap: wrap;
+}
+.combi-leg:last-child { border-bottom: none; }
+.combi-leg-info { flex: 1; min-width: 200px; }
+.combi-leg-match { font-weight: 700; color: #ffd700; font-size: 0.95em; }
+.combi-leg-tip { color: #e89dd6; font-size: 0.9em; margin-top: 3px; }
+.combi-leg-reason { color: #8fb4d8; font-size: 0.8em; margin-top: 3px; font-style: italic; }
+.mini-quote {
+  background: rgba(255, 215, 0, 0.15); border: 1px solid #ffd700; color: #ffd700;
+  padding: 4px 10px; border-radius: 6px; font-weight: 700; font-size: 0.9em;
+}
+.combi-total {
+  background: rgba(255, 215, 0, 0.15); border: 2px solid #ffd700;
+  border-radius: 10px; padding: 15px; margin-top: 15px; text-align: center;
+}
+.combi-total .label { color: #8fb4d8; font-size: 0.9em; }
+.combi-total .value {
+  font-family: 'Fraunces', serif; font-size: 2.2em;
+  color: #ffd700; font-weight: 900; margin-top: 5px;
+}
+.combi-total .prob { color: #ffa94d; font-size: 0.85em; margin-top: 8px; }
+.underdog-box {
+  background: linear-gradient(135deg, rgba(156, 39, 176, 0.2), rgba(232, 157, 214, 0.1));
+  border: 1px dashed #e89dd6; padding: 15px; border-radius: 12px; margin: 20px 0;
+}
+.underdog-box h4 {
+  color: #e89dd6; font-family: 'Fraunces', serif; margin-bottom: 10px; font-size: 1.15em;
+}
+.coinflip-tag {
+  background: rgba(255, 169, 77, 0.2); border: 1px solid #ffa94d; color: #ffa94d;
+  padding: 4px 10px; border-radius: 8px; font-size: 0.85em;
+  display: inline-block; margin-left: 8px;
+}
+footer {
+  text-align: center; padding: 30px 15px; color: #8fb4d8; font-size: 0.88em;
+  margin-top: 40px; border-top: 1px solid rgba(156, 39, 176, 0.3);
+}
+.footer-warn { color: #ffa94d; font-weight: bold; margin: 10px 0; }
+.bzga { color: #ffd700; font-weight: 700; margin-top: 8px; }
+ul { padding-left: 22px; margin: 8px 0; }
+li { padding: 3px 0; }
+strong { color: #e89dd6; }
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 10px; margin: 12px 0;
+}
+.stat-tile {
+  background: rgba(0, 0, 0, 0.2); border-radius: 8px;
+  padding: 12px; text-align: center;
+  border: 1px solid rgba(156, 39, 176, 0.3);
+}
+.stat-tile .value {
+  font-family: 'Fraunces', serif; font-size: 1.6em;
+  color: #ffd700; font-weight: 700;
+}
+.stat-tile .label { color: #8fb4d8; font-size: 0.75em; margin-top: 4px; }
+.section-title {
+  font-family: 'Fraunces', serif; font-size: 13px; font-weight: 700;
+  color: #e89dd6; text-transform: uppercase; letter-spacing: 0.15em;
+  margin: 20px 0 10px; display: flex; align-items: center; gap: 8px;
+}
+.section-title::before { content: '🐚'; font-size: 14px; }
+.analysis-text {
+  color: #b8d4e8; font-size: 0.92em; line-height: 1.75;
+  padding: 14px 16px; background: rgba(0,0,0,0.25);
+  border-radius: 8px; border-left: 2px solid #e89dd6;
+}
+.analysis-text strong { color: #e8f4ff; }
+.analysis-text + .analysis-text { margin-top: 10px; }
+.news-list { margin: 8px 0; }
+.news-item {
+  font-size: 0.85em; color: #b8d4e8; padding: 7px 0;
+  border-bottom: 1px dashed rgba(156, 39, 176, 0.2);
+}
+.news-item:last-child { border-bottom: none; }
+.news-item .tag {
+  display: inline-block; font-size: 0.72em; padding: 2px 7px; border-radius: 4px;
+  font-weight: 700; letter-spacing: 0.08em; margin-right: 8px; text-transform: uppercase;
+}
+.tag-out { background: rgba(232,69,69,0.2); color: #e84545; border: 1px solid #e84545; }
+.tag-susp { background: rgba(255,169,77,0.2); color: #ffa94d; border: 1px solid #ffa94d; }
+.tag-doubt { background: rgba(184,212,232,0.15); color: #b8d4e8; border: 1px solid #8fb4d8; }
+.tag-form { background: rgba(62,201,138,0.15); color: #3ec98a; border: 1px solid #3ec98a; }
+.tag-key { background: rgba(255,215,0,0.15); color: #ffd700; border: 1px solid #ffd700; }
+.tag-lineup { background: rgba(106,176,255,0.15); color: #6ab0ff; border: 1px solid #6ab0ff; }
+.markets-grid {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 10px; margin-top: 10px;
+}
+.market {
+  background: rgba(0,0,0,0.3); border: 1px solid rgba(156, 39, 176, 0.3);
+  border-radius: 8px; padding: 12px 14px;
+}
+.market.edge { border-color: #ffd700; background: rgba(255,215,0,0.07); }
+.market-top { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 6px; }
+.market-name { font-size: 0.85em; color: #e8f4ff; font-weight: 500; }
+.market-odd { font-size: 1em; font-weight: 700; color: #e8f4ff; }
+.market-meta { display: flex; justify-content: space-between; font-size: 0.72em; color: #8fb4d8; }
+.market-meta .edge-val { color: #ffd700; font-weight: 700; }
+.market-meta .edge-val.neutral { color: #8fb4d8; }
+.props-grid {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 10px; margin-top: 10px;
+}
+.prop {
+  background: rgba(156,39,176,0.1); border: 1px solid rgba(232,157,214,0.3);
+  border-radius: 8px; padding: 12px 14px;
+}
+.prop.edge { border-color: #e89dd6; background: rgba(232,157,214,0.13); }
+.prop-top { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 6px; gap: 10px; }
+.prop-name { font-size: 0.85em; color: #e8f4ff; font-weight: 500; }
+.prop-odd { font-size: 1em; font-weight: 700; color: #e89dd6; white-space: nowrap; }
+.prop-reason { font-size: 0.78em; color: #8fb4d8; margin-top: 6px; line-height: 1.55; }
+.prop-reason strong { color: #b8d4e8; }
+.orakel-box {
+  background: linear-gradient(135deg, rgba(156,39,176,0.22) 0%, rgba(232,157,214,0.12) 100%);
+  border: 1px solid #e89dd6; border-radius: 12px;
+  padding: 16px 18px; margin-top: 18px;
+}
+.orakel-label {
+  font-family: 'Fraunces', serif; font-weight: 700; font-size: 0.78em;
+  color: #e89dd6; letter-spacing: 0.2em; text-transform: uppercase;
+  margin-bottom: 8px;
+}
+.orakel-pick {
+  font-family: 'Fraunces', serif; font-size: 1.25em; font-weight: 700;
+  color: #e8f4ff; margin-bottom: 4px;
+}
+.orakel-meta { font-size: 0.82em; color: #b8d4e8; line-height: 1.6; }
+.orakel-meta .quote { color: #ffd700; font-weight: 700; }
+.rating {
+  display: inline-block; font-size: 0.7em; padding: 3px 9px;
+  border-radius: 10px; font-weight: 700; letter-spacing: 0.1em;
+  text-transform: uppercase; margin-left: 8px; vertical-align: middle;
+  font-family: 'JetBrains Mono', monospace;
+}
+.rating-safe {
+  background: linear-gradient(135deg, #3ec98a, #2a9e6a); color: #001f3f;
+  box-shadow: 0 0 8px rgba(62, 201, 138, 0.4);
+}
+.rating-value {
+  background: linear-gradient(135deg, #ffd700, #ff9800); color: #001f3f;
+  box-shadow: 0 0 8px rgba(255, 215, 0, 0.4);
+}
+.rating-wackel {
+  background: linear-gradient(135deg, #ffa94d, #e84545); color: #001f3f;
+  box-shadow: 0 0 8px rgba(255, 169, 77, 0.4);
+}
+.rating-legend {
+  background: rgba(0, 30, 60, 0.5);
+  border: 1px solid rgba(156, 39, 176, 0.3);
+  border-radius: 12px; padding: 14px 18px; margin-bottom: 20px;
+  display: flex; gap: 15px; flex-wrap: wrap; align-items: center;
+}
+.rating-legend-item { display: flex; align-items: center; gap: 6px; font-size: 0.85em; color: #b8d4e8; }
+.rating-legend-item strong { color: #e8f4ff; }
+@media (max-width: 700px) {
+  h1 { font-size: 2em; }
+  .game-title { font-size: 1.15em; }
+  .container { padding: 12px; }
+  .tip-quote-box { font-size: 1.1em; padding: 8px 12px; }
+}
+</style>
+</head>
+<body>
+<div class="bubbles" id="bubbles"></div>
+<div class="container">
+<header>
+  <div class="shell">🐚</div>
+  <h1>Magische Miesmuschel</h1>
+  <div class="subtitle">Tipp-Dossier v13 · bet365 DE · 6 Spiele · 12 Einzeltipps · Risiko-Kombis</div>
+  <div class="date-line">🗓️ Dienstag, 21. April 2026 · Fußball Abend + Coppa Italia + NBA Nacht</div>
+</header>
+
+<nav>
+  <button class="nav-btn active" onclick="showSection('spiele', this)">📊 Spiele-Analyse</button>
+  <button class="nav-btn" onclick="showSection('einzel', this)">🎯 12 Einzeltipps</button>
+  <button class="nav-btn" onclick="showSection('risiko', this)">🚀 Risiko-Kombis</button>
+  <button class="nav-btn" onclick="showSection('info', this)">ℹ️ Regeln</button>
+</nav>
+<section id="spiele" class="active">
+<h2>📊 Die 6 Spiele im Überblick</h2>
+<div class="box orange">
+<strong>⏰ Zeit-Check 19:00 Uhr:</strong> Fußball startet gleich, NBA ab 01:00 MEZ. Drei Fußballspiele überlappen (21:00 Brighton + Inter, 21:30 Real). Quoten bei bet365 live prüfen — können sich bis Anstoß noch bewegen.
+</div>
+
+<div class="rating-legend">
+<div class="rating-legend-item"><span class="rating rating-safe">SAFE</span><span><strong>Fast ne Garantie</strong> — sollte eigentlich immer reinkommen (~75-90%)</span></div>
+<div class="rating-legend-item"><span class="rating rating-value">VALUE</span><span><strong>Sollte man mitnehmen</strong> — Quote höher als faire Wahrscheinlichkeit</span></div>
+<div class="rating-legend-item"><span class="rating rating-wackel">WACKEL</span><span><strong>Joaaa, kann-muss-nicht</strong> — spürbares Risiko mit Argumenten dafür</span></div>
+</div>
+
+<!-- BRIGHTON CHELSEA -->
+<div class="game-card">
+<div class="game-header">
+<div><div class="league-tag">🏴󠁧󠁢󠁥󠁮󠁧󠁿 PL</div><div class="game-title">Brighton vs. Chelsea · 21:00</div></div>
+<div class="game-meta">Amex Stadium</div>
+</div>
+<div class="stats-grid">
+<div class="stat-tile"><div class="value">5/6</div><div class="label">Chelsea Pleiten letzte 6 Spiele</div></div>
+<div class="stat-tile"><div class="value">47 Tage</div><div class="label">Chelsea ohne PL-Tor (seit 4. März)</div></div>
+<div class="stat-tile"><div class="value">3/3</div><div class="label">Brighton H2H 2025 (8:2)</div></div>
+<div class="stat-tile"><div class="value">4</div><div class="label">Welbeck-Tore in letzten 3 Spielen</div></div>
+</div>
+
+<div class="section-title">Unsere Einschätzung</div>
+<div class="analysis-text">
+<strong>Chelsea in der größten Krise der Saison.</strong> 5 Pleiten in letzten 6 Spielen. Seit 4. März (Villa) kein PL-Tor mehr — das sind 47 Tage. Estevao raus mit Hamstring (weinte in der Kabine), James, Colwill, Jorgensen, Gittens alle raus. Joao Pedro (19 Saisontore, 9 Assists, Team-Topscorer) ist "late call" nach Oberschenkel — wenn er nicht spielt, läuft Delap (2 Tore Saison) vorne. Palmer hat 6 Wochen kein Tor, Neto seit Dezember nicht, Garnacho seit Oktober nicht.
+</div>
+<div class="analysis-text">
+<strong>Brighton ist bereit.</strong> Dunk zurück von Sperre, Mitoma laut Hürzeler fit (war nur Krampf gegen Spurs). Welbeck mit 4 Toren in den letzten 3 Spielen gegen Chelsea (inkl. Doppelpack im Hinspiel in 23 Min). Hinshelwood zentral statt auf der 10, Minteh/Rutter auf den Flügeln. Brighton zuhause nur 3 Niederlagen in 16 Heimspielen.
+</div>
+<div class="analysis-text">
+<strong>H2H-Muster:</strong> Brighton hat alle 3 H2H-Spiele in 2025 gewonnen (8:2 Torverhältnis). Beim letzten Amex-Duell gab's ein 3:0 für Brighton. Chelsea ist im CL-Rennen (Platz 6 reicht noch) — theoretisch Druck da, aber die Truppe wirkt mental leer.
+</div>
+
+<div class="section-title">Aufstellungen & News</div>
+<div class="news-list">
+<div class="news-item"><span class="tag tag-lineup">Brighton 4-2-3-1</span> Verbruggen – Wieffer, van Hecke, Dunk, Kadioglu – Ayari, Groß – Minteh, Hinshelwood, Rutter – Welbeck</div>
+<div class="news-item"><span class="tag tag-lineup">Chelsea 4-2-3-1</span> Sanchez – Gusto, Fofana, Chalobah, Cucurella – Santos, Caicedo – Neto, Fernandez, Palmer – Joao Pedro (oder Delap)</div>
+<div class="news-item"><span class="tag tag-out">Out Chelsea</span> Estevao (Oberschenkel), James (Hamstring), Colwill (Kreuzband, vielleicht Saisonende), Gittens (Oberschenkel), Jorgensen (Leiste), Mudryk (Sperre)</div>
+<div class="news-item"><span class="tag tag-doubt">Fraglich Chelsea</span> Joao Pedro (Oberschenkel, late fitness test — Delap bereit)</div>
+<div class="news-item"><span class="tag tag-out">Out Brighton</span> March, Gomez, Webster, Milner, Tzimas (alle verletzt)</div>
+<div class="news-item"><span class="tag tag-form">Form Chelsea</span> 5 Pleiten in 6 Spielen, seit 4. März ohne PL-Tor</div>
+<div class="news-item"><span class="tag tag-form">Form Brighton</span> Punktbestes PL-Team seit 21.02., Welbeck 12 Saisontore</div>
+<div class="news-item"><span class="tag tag-key">H2H 2025</span> Brighton 3/3 Siege (8:2), letztes Amex-Duell 3:0</div>
+</div>
+
+<div class="section-title">Wett-Märkte (sortiert: SAFE → VALUE → WACKEL)</div>
+<div class="markets-grid">
+<div class="market edge">
+<div class="market-top"><span class="market-name">Brighton Doppelte Chance (1X) <span class="rating rating-safe">SAFE</span></span><span class="market-odd">1.30</span></div>
+<div class="market-meta"><span>Fair: ~1.28</span><span class="edge-val neutral">neutral, aber sicher</span></div>
+</div>
+<div class="market edge">
+<div class="market-top"><span class="market-name">Brighton Sieg <span class="rating rating-value">VALUE</span></span><span class="market-odd">2.00</span></div>
+<div class="market-meta"><span>Fair: ~1.75</span><span class="edge-val">+14% Wert</span></div>
+</div>
+<div class="market edge">
+<div class="market-top"><span class="market-name">Beide Teams treffen: NEIN <span class="rating rating-value">VALUE</span></span><span class="market-odd">2.05</span></div>
+<div class="market-meta"><span>Fair: ~1.85</span><span class="edge-val">+11%</span></div>
+</div>
+<div class="market">
+<div class="market-top"><span class="market-name">Mehr als 2.5 Tore <span class="rating rating-wackel">WACKEL</span></span><span class="market-odd">1.85</span></div>
+<div class="market-meta"><span>Fair: ~1.80</span><span class="edge-val">+3%</span></div>
+</div>
+<div class="market">
+<div class="market-top"><span class="market-name">Brighton Sieg + BTTS Nein <span class="rating rating-wackel">WACKEL</span></span><span class="market-odd">3.75</span></div>
+<div class="market-meta"><span>Fair: ~3.40</span><span class="edge-val">+10%</span></div>
+</div>
+</div>
+
+<div class="section-title">Torschützen-Wetten</div>
+<div class="props-grid">
+<div class="prop edge">
+<div class="prop-top"><span class="prop-name">Danny Welbeck trifft <span class="rating rating-value">VALUE</span></span><span class="prop-odd">2.55</span></div>
+<div class="prop-reason"><strong>Der Tipp des Abends.</strong> 4 Tore in letzten 5 gegen Chelsea, 12 Saisontore, will zur WM. Faire Quote ~1.75 → massiver Value.</div>
+</div>
+<div class="prop">
+<div class="prop-top"><span class="prop-name">Yankuba Minteh trifft <span class="rating rating-wackel">WACKEL</span></span><span class="prop-odd">3.40</span></div>
+<div class="prop-reason">Flügel gegen Chelsea-AV ohne James. Hat zuletzt getroffen. Solider Secondary Pick.</div>
+</div>
+<div class="prop">
+<div class="prop-top"><span class="prop-name">Georginio Rutter trifft <span class="rating rating-wackel">WACKEL</span></span><span class="prop-odd">3.10</span></div>
+<div class="prop-reason">95-Min-Ausgleichstor gegen Spurs am Wochenende. Rhythmus da, aber Rotation möglich.</div>
+</div>
+<div class="prop">
+<div class="prop-top"><span class="prop-name">Cole Palmer trifft</span><span class="prop-odd">3.25</span></div>
+<div class="prop-reason"><strong>NICHT tippen.</strong> 6 Wochen ohne Tor, Formtief. Quote spiegelt Namen, nicht aktuelle Leistung.</div>
+</div>
+</div>
+
+<div class="orakel-box">
+<div class="orakel-label">🐚 Orakel-Tipp <span class="rating rating-value">VALUE</span></div>
+<div class="orakel-pick">Welbeck trifft im Spiel</div>
+<div class="orakel-meta">@ <span class="quote">2.55</span> · Einsatz 2% Kasse · 8/10 Vertrauen · Stammtorschütze gegen Chelseas verletzte Defensive — 4 Tore in letzten 3 gegen genau diesen Gegner</div>
+</div>
+</div>
+
+<!-- INTER COMO -->
+<div class="game-card">
+<div class="game-header">
+<div><div class="league-tag">🇮🇹 Coppa Italia HF</div><div class="game-title">Inter vs. Como · 21:00</div></div>
+<div class="game-meta">San Siro · Hinspiel 0:0</div>
+</div>
+<div class="stats-grid">
+<div class="stat-tile"><div class="value">4-1</div><div class="label">Inter letzte 5 H2H mit Como</div></div>
+<div class="stat-tile"><div class="value">4</div><div class="label">Thuram-Tore in letzten 3 Spielen</div></div>
+<div class="stat-tile"><div class="value">7/10</div><div class="label">Como Auswärtssiege letzte 10</div></div>
+<div class="stat-tile"><div class="value">12</div><div class="label">Inter-Vorsprung in Serie A</div></div>
+</div>
+
+<div class="section-title">Unsere Einschätzung</div>
+<div class="analysis-text">
+<strong>Inter am Rande des Double.</strong> Serie A fast durch (12 Punkte Vorsprung auf Napoli, können nächstes Wochenende Meister werden). Heute geht's um die erste Coppa Italia Final-Teilnahme seit 2023. Hinspiel war ein trostloses 0:0 (Inter hatte 0.07 xG, Saison-Tief), aber beim Serie-A-Rückkampf vor 10 Tagen drehten sie ein 0:2 in ein 4:3. Chivu rotiert, aber nicht radikal.
+</div>
+<div class="analysis-text">
+<strong>Thuram auf Killer-Modus.</strong> 4 Tore in letzten 3 Spielen, 2 davon gegen genau Como am 12.4. Ohne Lautaro Martinez (Wadenverletzung, 3. Spiel in Folge raus) ist Thuram die Hauptwaffe. Neben ihm vermutlich Bonny (Sky+Gazzetta) oder Esposito. Josep Martinez weiter im Tor statt Sommer.
+</div>
+<div class="analysis-text">
+<strong>Como ist gefährlicher als die Tabellenposition (5.) vermuten lässt.</strong> Fabregas' Truppe hat 7 der letzten 10 Auswärtsspiele gewonnen, dabei Juventus, Lazio, Fiorentina und Napoli geschlagen. Nico Paz ist der Spielmacher (Inter will ihn im Sommer). ABER: Como hat alle 4 Serie-A-Spiele gegen Inter diese Saison verloren (Gesamtscore 3:12), inkl. 0:4 im Dezember im San Siro. Und 8/10 Como-Auswärtsspiele im San Siro (21. Jahrhundert) endeten 0:X. Alle ohne Como-Tor.
+</div>
+
+<div class="section-title">Aufstellungen & News</div>
+<div class="news-list">
+<div class="news-item"><span class="tag tag-lineup">Inter 3-5-2</span> J. Martinez – Akanji, Acerbi, Carlos Augusto – Dumfries, Barella, Calhanoglu, Zielinski, Dimarco – Thuram, Bonny</div>
+<div class="news-item"><span class="tag tag-lineup">Como 3-4-2-1</span> Butez – Ramon, Diego Carlos, Kempf – Diao, Perrone, Da Cunha, Valle – Paz, Baturina – Douvikas</div>
+<div class="news-item"><span class="tag tag-out">Out Inter</span> Lautaro Martinez (Wade), Bastoni (Sprunggelenk), Bisseck (Muskel, vielleicht Bank)</div>
+<div class="news-item"><span class="tag tag-out">Out Como</span> Jayden Addai (Verletzung), Sergi Roberto (Verletzung)</div>
+<div class="news-item"><span class="tag tag-form">Form Inter</span> 3 Serie-A-Spiele, 3 Siege, jedes mit 3+ Toren nach Länderspielpause. Cagliari-Roma-Como alle geschlagen</div>
+<div class="news-item"><span class="tag tag-form">Form Como</span> 2 Pleiten in Serie (Sassuolo 1:2, Inter 3:4). Erste Doppel-Niederlagen seit Dezember</div>
+<div class="news-item"><span class="tag tag-key">H2H Serie A</span> Inter 4/4 diese Saison gegen Como, Gesamtscore 12:3</div>
+<div class="news-item"><span class="tag tag-key">Kein Away-Goal</span> Keine Auswärtstor-Regel — bei Remis nach 90 gibt's Verlängerung und ggf. Elfmeter</div>
+</div>
+
+<div class="section-title">Wett-Märkte (sortiert: SAFE → VALUE → WACKEL)</div>
+<div class="markets-grid">
+<div class="market edge">
+<div class="market-top"><span class="market-name">Inter qualifiziert (Finale) <span class="rating rating-safe">SAFE</span></span><span class="market-odd">1.30</span></div>
+<div class="market-meta"><span>Fair: ~1.22</span><span class="edge-val">+6%</span></div>
+</div>
+<div class="market edge">
+<div class="market-top"><span class="market-name">Inter Sieg (90 Min) <span class="rating rating-safe">SAFE</span></span><span class="market-odd">1.60</span></div>
+<div class="market-meta"><span>Fair: ~1.55</span><span class="edge-val">+3%</span></div>
+</div>
+<div class="market edge">
+<div class="market-top"><span class="market-name">Mehr als 2.5 Tore <span class="rating rating-value">VALUE</span></span><span class="market-odd">1.85</span></div>
+<div class="market-meta"><span>Fair: ~1.70</span><span class="edge-val">+9%</span></div>
+</div>
+<div class="market">
+<div class="market-top"><span class="market-name">Beide Teams treffen: JA <span class="rating rating-wackel">WACKEL</span></span><span class="market-odd">1.90</span></div>
+<div class="market-meta"><span>Fair: ~1.95</span><span class="edge-val neutral">neutral</span></div>
+</div>
+<div class="market">
+<div class="market-top"><span class="market-name">Inter Sieg + Über 2.5 Tore <span class="rating rating-wackel">WACKEL</span></span><span class="market-odd">2.40</span></div>
+<div class="market-meta"><span>Fair: ~2.30</span><span class="edge-val">+4%</span></div>
+</div>
+</div>
+
+<div class="section-title">Torschützen-Wetten</div>
+<div class="props-grid">
+<div class="prop edge">
+<div class="prop-top"><span class="prop-name">Marcus Thuram trifft <span class="rating rating-value">VALUE</span></span><span class="prop-odd">2.20</span></div>
+<div class="prop-reason"><strong>Der klare Tipp.</strong> 4 Tore in letzten 3, 2 davon gegen Como am 12.4. Ohne Lautaro ist er die erste Option — fast jede Schuss-Aktion läuft über ihn.</div>
+</div>
+<div class="prop">
+<div class="prop-top"><span class="prop-name">Nico Paz trifft (Como) <span class="rating rating-wackel">WACKEL</span></span><span class="prop-odd">5.00</span></div>
+<div class="prop-reason">Spielmacher und Inter-Transferziel. Will sich beweisen. Aber gegen Inter-Defensive schwer.</div>
+</div>
+<div class="prop">
+<div class="prop-top"><span class="prop-name">Bonny oder Esposito trifft <span class="rating rating-wackel">WACKEL</span></span><span class="prop-odd">3.00</span></div>
+<div class="prop-reason">Wer auch immer neben Thuram startet, bekommt Chancen. Bonny hat im Pokal schon gegen Torino getroffen.</div>
+</div>
+<div class="prop">
+<div class="prop-top"><span class="prop-name">Calhanoglu trifft <span class="rating rating-wackel">WACKEL</span></span><span class="prop-odd">4.50</span></div>
+<div class="prop-reason">Bei Elfern gesetzt — aber die sind unsicher. Fernschüsse sind aber seine Stärke.</div>
+</div>
+</div>
+
+<div class="orakel-box">
+<div class="orakel-label">🐚 Orakel-Tipp <span class="rating rating-value">VALUE</span></div>
+<div class="orakel-pick">Mehr als 2.5 Tore</div>
+<div class="orakel-meta">@ <span class="quote">1.85</span> · Einsatz 2% Kasse · 7/10 Vertrauen · Inter-Como 4:3 vor 10 Tagen war Realität, nicht Ausreißer — beide offensiv eingestellt, 7 Tore bei letztem San-Siro-Duell. Bei Remis nach 90 gibt's sogar Verlängerung = noch mehr Tor-Chancen</div>
+</div>
+</div>
+
+<!-- REAL MADRID ALAVES -->
+<div class="game-card">
+<div class="game-header">
+<div><div class="league-tag">🇪🇸 LaLiga</div><div class="game-title">Real Madrid vs. Alavés · 21:30</div></div>
+<div class="game-meta">Santiago Bernabéu</div>
+</div>
+<div class="stats-grid">
+<div class="stat-tile"><div class="value">8</div><div class="label">Real H2H-Siege in Folge</div></div>
+<div class="stat-tile"><div class="value">13</div><div class="label">Alavés ohne Zu-Null</div></div>
+<div class="stat-tile"><div class="value">22</div><div class="label">Tore in Alavés letzten 4</div></div>
+<div class="stat-tile"><div class="value">23</div><div class="label">Mbappé-Saisontore (Pichichi)</div></div>
+</div>
+
+<div class="section-title">Unsere Einschätzung</div>
+<div class="analysis-text">
+<strong>Real Madrid am Rande einer trophäenlosen Saison.</strong> Nach dem 4:3-Aus gegen Bayern (6:4 Gesamt) im CL-Viertelfinale, Copa-Rausschmiss gegen Zweitligist Albacete und 9 Punkten Rückstand auf Barca in LaLiga. Heute erstes Heimspiel seit Bayern-Aus. Bernabéu-Stimmung? Gemischt. Druck? Max. Arbeloa: "wir haben noch 7 Spiele zu gewinnen" — Aufräum-Modus.
+</div>
+<div class="analysis-text">
+<strong>Tchouameni zurück</strong> (Bayern-Sperre abgelaufen), Lunin vertritt weiter Courtois (Oberschenkel, 5. Spiel in Folge), Rodrygo langfristig raus (Kreuzband). Real in letzten 7 Spielen kein Zu-Null — bemerkenswert.
+</div>
+<div class="analysis-text">
+<strong>Alavés keine Laufkundschaft.</strong> Unter Quique Sánchez Flores 4 ungeschlagen, in letzten 4 Spielen 22 Tore. Ja, Real 8/8 letzte H2H, ABER: Real-Abwehr gebrochen, Alavés trifft jedes Spiel. Torfestival-Kandidat.
+</div>
+
+<div class="section-title">Aufstellungen & News</div>
+<div class="news-list">
+<div class="news-item"><span class="tag tag-lineup">Real 4-4-2</span> Lunin – Carvajal, Militão, Huijsen, Carreras – Valverde, Bellingham, Tchouameni, Güler – Mbappé, Vinicius</div>
+<div class="news-item"><span class="tag tag-lineup">Alavés 5-3-2</span> Sivera – Pérez, Otto, Tenaglia, Parada, Enríquez – Ibáñez, Blanco, Guridi – Martínez, Boyé</div>
+<div class="news-item"><span class="tag tag-out">Out Real</span> Courtois (Oberschenkel), Rodrygo (Kreuzband), Asencio (Magenvirus)</div>
+<div class="news-item"><span class="tag tag-out">Out Alavés</span> Protesoni, Rebbach (Sperre), Garcés (Sperre), Benavidez (Muskel)</div>
+<div class="news-item"><span class="tag tag-form">Form Real</span> 4 Spiele ohne Sieg (Mallorca 2:1, Girona 1:1, Bayern 4:3), 7x kein Zu-Null</div>
+<div class="news-item"><span class="tag tag-form">Form Alavés</span> 4 ungeschlagen, letzte 4 Spiele: 22 Tore. Boyé: 6 Tore in 7 Spielen</div>
+<div class="news-item"><span class="tag tag-key">Valverde</span> 8 Tore in 9 Spielen Club+Nationalteam — Glut-Form</div>
+<div class="news-item"><span class="tag tag-key">Mbappé</span> 23 Saisontore, führt Pichichi-Wertung</div>
+</div>
+
+<div class="section-title">Wett-Märkte (sortiert: SAFE → VALUE → WACKEL)</div>
+<div class="markets-grid">
+<div class="market">
+<div class="market-top"><span class="market-name">Real Sieg <span class="rating rating-safe">SAFE</span></span><span class="market-odd">1.35</span></div>
+<div class="market-meta"><span>Fair: ~1.40</span><span class="edge-val neutral">neutral</span></div>
+</div>
+<div class="market edge">
+<div class="market-top"><span class="market-name">Beide Teams treffen: JA <span class="rating rating-value">VALUE</span></span><span class="market-odd">1.90</span></div>
+<div class="market-meta"><span>Fair: ~1.72</span><span class="edge-val">+11% Wert</span></div>
+</div>
+<div class="market edge">
+<div class="market-top"><span class="market-name">Mehr als 3.5 Tore <span class="rating rating-value">VALUE</span></span><span class="market-odd">2.40</span></div>
+<div class="market-meta"><span>Fair: ~2.15</span><span class="edge-val">+12%</span></div>
+</div>
+<div class="market edge">
+<div class="market-top"><span class="market-name">Real Sieg + BTTS <span class="rating rating-value">VALUE</span></span><span class="market-odd">2.75</span></div>
+<div class="market-meta"><span>Fair: ~2.50</span><span class="edge-val">+10%</span></div>
+</div>
+</div>
+
+<div class="section-title">Torschützen-Wetten</div>
+<div class="props-grid">
+<div class="prop">
+<div class="prop-top"><span class="prop-name">Kylian Mbappé trifft <span class="rating rating-safe">SAFE</span></span><span class="prop-odd">1.60</span></div>
+<div class="prop-reason"><strong>Safer Pick.</strong> 23 Saisontore, Pichichi-Jagd, Hattrick in Bayern-Spiel gerade. Alavés 13 Spiele kein Zu-Null. Quote niedrig, aber ziemlich sicher.</div>
+</div>
+<div class="prop edge">
+<div class="prop-top"><span class="prop-name">Federico Valverde trifft <span class="rating rating-value">VALUE</span></span><span class="prop-odd">4.00</span></div>
+<div class="prop-reason"><strong>Der versteckte Value.</strong> 4 Spiele in Folge getroffen, 8 Tore in letzten 9 Club+National. Quote viel zu hoch — er schießt regelmäßig aus 2. Reihe und ist gesetzt.</div>
+</div>
+<div class="prop">
+<div class="prop-top"><span class="prop-name">Vinicius Jr. trifft <span class="rating rating-wackel">WACKEL</span></span><span class="prop-odd">2.10</span></div>
+<div class="prop-reason">Kommt aus frustrierender Phase, will sich beweisen. Treffquote gesenkt dieses Jahr. OK aber keine Kerntipp-Qualität.</div>
+</div>
+<div class="prop">
+<div class="prop-top"><span class="prop-name">Lucas Boyé (Alavés) trifft <span class="rating rating-wackel">WACKEL</span></span><span class="prop-odd">4.50</span></div>
+<div class="prop-reason"><strong>Flyer:</strong> 6 Tore in letzten 7, aber zuletzt Bankdrücker. Wenn er startet, gute Quote.</div>
+</div>
+</div>
+
+<div class="orakel-box">
+<div class="orakel-label">🐚 Orakel-Tipp <span class="rating rating-value">VALUE</span></div>
+<div class="orakel-pick">Beide Teams treffen: JA + Mehr als 3.5 Tore</div>
+<div class="orakel-meta">@ <span class="quote">~2.75</span> · Einsatz 1.5% Kasse · 7/10 Vertrauen · Real offensiv eingestellt nach CL-Aus, Alavés trifft immer, Abwehr gebrochen — Torfestival erwartbar</div>
+</div>
+</div>
+
+<!-- CELTICS 76ERS -->
+<div class="game-card">
+<div class="game-header">
+<div><div class="league-tag">🏀 NBA G2</div><div class="game-title">Boston Celtics vs. Philadelphia 76ers · 01:00 MEZ</div></div>
+<div class="game-meta">TD Garden · Celtics führen 1-0</div>
+</div>
+<div class="stats-grid">
+<div class="stat-tile"><div class="value">+32</div><div class="label">Celtics G1-Marge</div></div>
+<div class="stat-tile"><div class="value">17%</div><div class="label">Sixers Dreier-Quote G1</div></div>
+<div class="stat-tile"><div class="value">28.7</div><div class="label">Brown Saison-PPG</div></div>
+<div class="stat-tile"><div class="value">OUT</div><div class="label">Embiid (Blinddarm)</div></div>
+</div>
+
+<div class="section-title">Unsere Einschätzung</div>
+<div class="analysis-text">
+<strong>G1 war eine Demolierung.</strong> Celtics 123:91, größter Playoff-Opener-Sieg der Franchise-Geschichte. 76ers schossen 38.9% FG, nur 4/23 Dreier (17%). Brown 26, Tatum 25/11/7 fast Triple-Double, Celtics 31 Assists vs 8 Turnovers. Das war kein Zufall — das war ein Statement.
+</div>
+<div class="analysis-text">
+<strong>Tatums Comeback ist beängstigend gut.</strong> Seit Achilles-Comeback am 6. März averagiert er 10.0 Rebounds. Brown mit 28.7 PPG Saisonschnitt höher als Tatum. Zwei All-NBA-Scorer gegen einen Gegner ohne Embiid.
+</div>
+<div class="analysis-text">
+<strong>Philly hat ein Problem.</strong> Embiid (Blinddarm-OP 9. April, 12 Tage her) hat gerade erst mit Krafttraining begonnen. Typische Rückkehr 18-23 Tage = ggf. G4/G5. Ohne ihn: Bona/Drummond/Queta halten die Zone, was gegen Tatums Athletik nicht reicht. Queta kam in G1 für 15 Min für 13 Punkte. Spread -14 spiegelt das, aber Boston deckt das regelmäßig.
+</div>
+
+<div class="section-title">Aufstellungen & News</div>
+<div class="news-list">
+<div class="news-item"><span class="tag tag-lineup">Celtics</span> Tatum, Brown, Holiday, White, Queta (Horford noch nicht für 30 Min)</div>
+<div class="news-item"><span class="tag tag-lineup">76ers</span> Maxey, George, Oubre, Edgecombe, Drummond (Embiid-Ersatz)</div>
+<div class="news-item"><span class="tag tag-out">Out 76ers</span> Embiid (Blinddarm-OP)</div>
+<div class="news-item"><span class="tag tag-doubt">Fraglich Celtics</span> Ron Harper Jr. (Knöchel, probable)</div>
+<div class="news-item"><span class="tag tag-form">G1-Top Brown</span> 26 Pkt (11/21 FG), Saison-Avg 28.7 PPG</div>
+<div class="news-item"><span class="tag tag-form">G1-Top Tatum</span> 25/11/7/2 in 32 Min, 10.0 Reb-Avg seit Comeback</div>
+<div class="news-item"><span class="tag tag-key">Serie</span> Celtics -1600 FanDuel — quasi sicher</div>
+</div>
+
+<div class="section-title">Wett-Märkte (sortiert: SAFE → VALUE → WACKEL)</div>
+<div class="markets-grid">
+<div class="market">
+<div class="market-top"><span class="market-name">Celtics Sieg <span class="rating rating-safe">SAFE</span></span><span class="market-odd">1.07</span></div>
+<div class="market-meta"><span>Fair: ~1.05</span><span class="edge-val neutral">neutral</span></div>
+</div>
+<div class="market edge">
+<div class="market-top"><span class="market-name">Celtics -7.5 Handicap <span class="rating rating-safe">SAFE</span></span><span class="market-odd">1.85</span></div>
+<div class="market-meta"><span>Fair: ~1.65</span><span class="edge-val">+12% Wert</span></div>
+</div>
+<div class="market edge">
+<div class="market-top"><span class="market-name">Celtics führen nach Q1 <span class="rating rating-value">VALUE</span></span><span class="market-odd">1.60</span></div>
+<div class="market-meta"><span>Fair: ~1.55</span><span class="edge-val">+3%</span></div>
+</div>
+<div class="market">
+<div class="market-top"><span class="market-name">Weniger als 216 Punkte <span class="rating rating-wackel">WACKEL</span></span><span class="market-odd">1.90</span></div>
+<div class="market-meta"><span>Fair: ~1.85</span><span class="edge-val">+3%</span></div>
+</div>
+</div>
+
+<div class="section-title">Punkte-Wetten (Basketball)</div>
+<div class="props-grid">
+<div class="prop">
+<div class="prop-top"><span class="prop-name">Jaylen Brown Mehr als 23.5 Pkt <span class="rating rating-safe">SAFE</span></span><span class="prop-odd">1.75</span></div>
+<div class="prop-reason">26 Pkt in G1, Saison-Schnitt 28.7. Sicherer als Tatum statistisch, solider Pick.</div>
+</div>
+<div class="prop edge">
+<div class="prop-top"><span class="prop-name">Jayson Tatum Mehr als 25.5 Pkt <span class="rating rating-value">VALUE</span></span><span class="prop-odd">1.80</span></div>
+<div class="prop-reason"><strong>Solider Value.</strong> Hatte 25 in G1 in gemütlichen 32 Min. Matchup ohne Embiid perfekt für Drives.</div>
+</div>
+<div class="prop edge">
+<div class="prop-top"><span class="prop-name">Tatum 35+ Pkt <span class="rating rating-wackel">WACKEL</span></span><span class="prop-odd">5.00</span></div>
+<div class="prop-reason"><strong>Risiko-Pick.</strong> Comeback-Momentum + Statement-Game-Potenzial + schwaches Matchup. Nur als Flyer.</div>
+</div>
+<div class="prop">
+<div class="prop-top"><span class="prop-name">Tyrese Maxey Mehr als 26.5 Pkt <span class="rating rating-wackel">WACKEL</span></span><span class="prop-odd">1.90</span></div>
+<div class="prop-reason">Hatte 21 in G1 — blieb drunter. Einziger 76ers-Scorer auf All-Star-Niveau. Riskant gegen Celtics-D.</div>
+</div>
+</div>
+
+<div class="orakel-box">
+<div class="orakel-label">🐚 Orakel-Tipp <span class="rating rating-safe">SAFE</span></div>
+<div class="orakel-pick">Celtics -7.5 Handicap</div>
+<div class="orakel-meta">@ <span class="quote">1.85</span> · Einsatz 2% Kasse · 8/10 Vertrauen · G1 war +32. Ohne Embiid deckt Boston diesen Spread regelmäßig — Saisonstatistik 50-33 ATS</div>
+</div>
+</div>
+
+<!-- SPURS BLAZERS -->
+<div class="game-card">
+<div class="game-header">
+<div><div class="league-tag">🏀 NBA G2</div><div class="game-title">San Antonio Spurs vs. Portland Trail Blazers · 02:00 MEZ</div></div>
+<div class="game-meta">Frost Bank Center · Spurs führen 1-0</div>
+</div>
+<div class="stats-grid">
+<div class="stat-tile"><div class="value">35</div><div class="label">Wemby G1 Pkt (Franchise-Rek.)</div></div>
+<div class="stat-tile"><div class="value">4/5</div><div class="label">Wemby 34+ Pkt letzte 5</div></div>
+<div class="stat-tile"><div class="value">DPOY</div><div class="label">Wemby am 20.04. gekrönt</div></div>
+<div class="stat-tile"><div class="value">33-8</div><div class="label">Spurs Heim-Bilanz Saison</div></div>
+</div>
+
+<div class="section-title">Unsere Einschätzung</div>
+<div class="analysis-text">
+<strong>Wemby in anderer Dimension.</strong> 25/11.5/3.1/3.1 Regular-Season-Schnitt. 34+ Pkt in 4/5 letzten Spielen, 40+ in 3. G1: 35 Punkte — neuer Spurs-Playoff-Franchise-Rekord (schlägt Duncan 32). 21 Punkte in der ersten Halbzeit = NBA-Rekord für Playoff-Debüt in Play-by-Play-Ära. Und jetzt DPOY-Boost obendrauf.
+</div>
+<div class="analysis-text">
+<strong>DPOY-Krönung gestern (20.04.).</strong> Jüngster DPOY der NBA-Geschichte, einstimmig. Kein Random-Fun-Fact — Spieler nach Awards spielen statistisch nachweislich bessere Folgespiele.
+</div>
+<div class="analysis-text">
+<strong>Portland hat kein Gegenmittel.</strong> Clingan spielt nur 21 Min (zu langsam für Wemby außerhalb des Rings). Blazers trafen in G1 nur 26% von Dreiern (10/38). Einzige Waffe: Avdija (30 Pkt/10 Reb in G1). Henderson hatte immerhin 18. Scoot in letzten 18 Regular-Season-Spielen: 15.9 PPG bei 42.9% Dreier. Aber nicht genug um Spurs zu gefährden.
+</div>
+
+<div class="section-title">Aufstellungen & News</div>
+<div class="news-list">
+<div class="news-item"><span class="tag tag-lineup">Spurs</span> Wembanyama, Castle, Fox, Vassell, Harper</div>
+<div class="news-item"><span class="tag tag-lineup">Blazers</span> Avdija, Henderson, Sharpe, Clingan, Grant</div>
+<div class="news-item"><span class="tag tag-form">Form Wemby</span> 4/5 letzte 34+ Pkt, 3x 40+. G1: 35 Pkt Franchise-Rekord</div>
+<div class="news-item"><span class="tag tag-form">Form Avdija</span> G1: 30/10 — Blazers einzige wirkliche Offensiv-Drohung</div>
+<div class="news-item"><span class="tag tag-key">DPOY</span> Wembanyama gestern gekrönt — jüngster der Geschichte</div>
+<div class="news-item"><span class="tag tag-key">Matchup</span> Clingan vs Wemby = krasser Größen-Nachteil für Portland</div>
+<div class="news-item"><span class="tag tag-key">G1-Total</span> Endstand 111:98 = 209 Punkte. Total liegt bei ~218.5-220.5</div>
+</div>
+
+<div class="section-title">Wett-Märkte (sortiert: SAFE → VALUE → WACKEL)</div>
+<div class="markets-grid">
+<div class="market">
+<div class="market-top"><span class="market-name">Spurs Sieg <span class="rating rating-safe">SAFE</span></span><span class="market-odd">1.20</span></div>
+<div class="market-meta"><span>Fair: ~1.22</span><span class="edge-val neutral">neutral</span></div>
+</div>
+<div class="market edge">
+<div class="market-top"><span class="market-name">Spurs -7.5 Handicap <span class="rating rating-value">VALUE</span></span><span class="market-odd">1.95</span></div>
+<div class="market-meta"><span>Fair: ~1.75</span><span class="edge-val">+11% Wert</span></div>
+</div>
+<div class="market edge">
+<div class="market-top"><span class="market-name">Spurs Q1 Sieg <span class="rating rating-value">VALUE</span></span><span class="market-odd">1.65</span></div>
+<div class="market-meta"><span>Fair: ~1.58</span><span class="edge-val">+4%</span></div>
+</div>
+<div class="market">
+<div class="market-top"><span class="market-name">Mehr als 218.5 Punkte <span class="rating rating-wackel">WACKEL</span></span><span class="market-odd">1.90</span></div>
+<div class="market-meta"><span>Fair: ~1.80</span><span class="edge-val">+5%</span></div>
+</div>
+</div>
+
+<div class="section-title">Punkte-Wetten (Basketball)</div>
+<div class="props-grid">
+<div class="prop edge">
+<div class="prop-top"><span class="prop-name">Wemby Double-Double <span class="rating rating-safe">SAFE</span></span><span class="prop-odd">1.40</span></div>
+<div class="prop-reason"><strong>Fast-Banker.</strong> Macht er jedes Spiel (11.5 Reb Avg). Niedrige Quote, aber für Kombis ideal. In G1 hatte er nur 5 Rebounds (weil Game früh entschieden) — heute aggressiver am Glas erwartet.</div>
+</div>
+<div class="prop edge">
+<div class="prop-top"><span class="prop-name">Wembanyama Mehr als 28.5 Pkt <span class="rating rating-value">VALUE</span></span><span class="prop-odd">1.75</span></div>
+<div class="prop-reason"><strong>Der sichere Wemby-Pick.</strong> 35 in G1, 4/5 letzte 34+, DPOY-Boost. Portland hat keine Antwort. Faire Quote ~1.55 → Value.</div>
+</div>
+<div class="prop">
+<div class="prop-top"><span class="prop-name">Wemby Mehr als 32.5 Pkt <span class="rating rating-wackel">WACKEL</span></span><span class="prop-odd">2.50</span></div>
+<div class="prop-reason">Aggressiver Over-Pick. Mit 40+-Potenzial realistisch, aber Spurs führen ggf. früh → Bankdrücker-Q4. Mittleres Risiko.</div>
+</div>
+<div class="prop">
+<div class="prop-top"><span class="prop-name">Deni Avdija Mehr als 22.5 Pkt <span class="rating rating-wackel">WACKEL</span></span><span class="prop-odd">1.85</span></div>
+<div class="prop-reason">Hatte 30 in G1. Aber: Spurs werden heute primär ihn verteidigen. Vorsicht.</div>
+</div>
+</div>
+
+<div class="orakel-box">
+<div class="orakel-label">🐚 Orakel-Tipp <span class="rating rating-value">VALUE</span></div>
+<div class="orakel-pick">Wemby Mehr als 28.5 Punkte</div>
+<div class="orakel-meta">@ <span class="quote">1.75</span> · Einsatz 2% Kasse · 9/10 Vertrauen · DPOY-Boost + perfektes Matchup + Form — fast zu schön</div>
+</div>
+</div>
+
+<!-- LAKERS ROCKETS -->
+<div class="game-card">
+<div class="game-header">
+<div><div class="league-tag">🏀 NBA G2</div><div class="game-title">LA Lakers vs. Houston Rockets · 04:30 MEZ <span class="coinflip-tag">COINFLIP</span></div></div>
+<div class="game-meta">Crypto.com Arena · Lakers führen 1-0</div>
+</div>
+<div class="stats-grid">
+<div class="stat-tile"><div class="value">OUT</div><div class="label">Dončić + Reaves</div></div>
+<div class="stat-tile"><div class="value">?</div><div class="label">Durant (Patellasehne)</div></div>
+<div class="stat-tile"><div class="value">205</div><div class="label">G1 Gesamtpunkte</div></div>
+<div class="stat-tile"><div class="value">37.6%</div><div class="label">Rockets FG% in G1</div></div>
+</div>
+
+<div class="section-title">Unsere Einschätzung</div>
+<div class="analysis-text">
+<strong>Unklarster Tipp des Abends.</strong> Lakers G1 107:98 — OHNE Dončić (Grad-2-Hamstring), OHNE Reaves (Oblique), Rockets OHNE Durant (Knie). Kennard 27 Pkt von Bank, LeBron 19/13/8, Ayton 19/11 bei 60.6% FG. War kein Fluke, aber auch kein wiederholbares Muster.
+</div>
+<div class="analysis-text">
+<strong>Durant-Status = alles.</strong> Laut Shams Charania (ESPN): "deep bruise" in rechter Patellasehne, "up in the air". Ging nur die Hälfte des Montag-Trainings mit. Laut Udoka Schmerztoleranz OK, aber Mobilität das Problem. Game-time decision. Windhorst (ESPN): "Wenn Durant selbst sagt er kann nicht, ist das ernst." Wenn er spielt → Rockets klarer Favorit. Wenn nicht → Lakers-Momentum + Heim.
+</div>
+<div class="analysis-text">
+<strong>Warum Coinflip:</strong> Houston in G1 27 Würfe MEHR genommen — bei nur 37.6% FG. Sengun 6/19, Smith 5/14, Sheppard 6/20. Regression zur Mitte normal, aber ohne Durant fehlt der Schließer. Spread -4.5 (bet365 manchmal Lakers Favorit bei Durant-Out) ist fair gepreist, weil niemand weiß ob Durant spielt.
+</div>
+
+<div class="section-title">Aufstellungen & News</div>
+<div class="news-list">
+<div class="news-item"><span class="tag tag-lineup">Lakers</span> LeBron, Ayton, Hachimura, Kennard, Finney-Smith (ohne Dončić + Reaves)</div>
+<div class="news-item"><span class="tag tag-lineup">Rockets</span> Sengun, Smith, Thompson, Green, Sheppard (ohne VanVleet, Adams)</div>
+<div class="news-item"><span class="tag tag-out">Out Lakers</span> Dončić (Hamstring Grad 2), Reaves (Oblique)</div>
+<div class="news-item"><span class="tag tag-doubt">Fraglich Rockets</span> Durant (Patellasehnen-Prellung, game-time decision)</div>
+<div class="news-item"><span class="tag tag-out">Out Rockets</span> VanVleet (Kreuzband, Saison-Ende), Adams (Knöchel-OP)</div>
+<div class="news-item"><span class="tag tag-form">G1 Top-Lakers</span> Kennard 27 Pkt von Bank, LeBron 19/13/8 fast Triple-Double</div>
+<div class="news-item"><span class="tag tag-key">Variable #1</span> Falls Durant spielt, kippt Linie Richtung Rockets</div>
+</div>
+
+<div class="section-title">Warum dies ein Coinflip ist</div>
+<div class="markets-grid">
+<div class="market" style="border-color: #3ec98a; background: rgba(62,201,138,0.08);">
+<div class="market-top"><span class="market-name" style="color:#3ec98a;">✅ Pro Lakers</span></div>
+<div class="market-meta" style="display:block; color:#b8d4e8; font-size:0.82em; line-height:1.6;">
+Heimvorteil · G1-Momentum · LeBron 41 mit frischem Körper · Kennard-Rhythmus · 1-0-Lead gibt Luft
+</div>
+</div>
+<div class="market" style="border-color: #e84545; background: rgba(232,69,69,0.08);">
+<div class="market-top"><span class="market-name" style="color:#e84545;">❌ Pro Rockets</span></div>
+<div class="market-meta" style="display:block; color:#b8d4e8; font-size:0.82em; line-height:1.6;">
+Rockets-Dreier gehen irgendwann rein · Sengun Bounce-Back · Ayton vs Sengun schwer · Durant-Comeback = Gamechanger
+</div>
+</div>
+</div>
+
+<div class="section-title">Wett-Märkte (nur wenn überhaupt)</div>
+<div class="markets-grid">
+<div class="market">
+<div class="market-top"><span class="market-name">LeBron Mehr als 22.5 Pkt <span class="rating rating-wackel">WACKEL</span></span><span class="market-odd">1.90</span></div>
+<div class="market-meta"><span>Fair: ~1.85</span><span class="edge-val neutral">neutral</span></div>
+</div>
+<div class="market">
+<div class="market-top"><span class="market-name">Weniger als 210 Punkte <span class="rating rating-wackel">WACKEL</span></span><span class="market-odd">1.85</span></div>
+<div class="market-meta"><span>Fair: ~1.80</span><span class="edge-val">+3%</span></div>
+</div>
+</div>
+
+<div class="orakel-box" style="background: linear-gradient(135deg, rgba(255,169,77,0.2) 0%, rgba(255,215,0,0.08) 100%); border-color: #ffa94d;">
+<div class="orakel-label" style="color:#ffa94d;">🟠 Orakel sagt: ÜBERSPRINGEN</div>
+<div class="orakel-pick" style="font-size:1.1em;">Kein klarer Wert erkennbar</div>
+<div class="orakel-meta">Zu viele Variablen (Durant-Status). Wenn du trotzdem MUSST: kleiner Einsatz auf <strong>Weniger als 210 Pkt</strong> oder <strong>LeBron Mehr als 22.5</strong>. Ehrlich: Bier aufmachen, Spiel gucken, keinen Tipp setzen.</div>
+</div>
+</div>
+
+</section>
+<section id="einzel">
+<h2>🎯 12 Einzeltipps mit Tiefen-Analyse</h2>
+<div class="box gold">
+<strong>Kassenregel:</strong> 1-2% der Kasse pro Einzeltipp. Bei 100€ Kasse = 1-2€ pro Tipp. Reihenfolge: erst <span class="ok">SAFE</span>, dann <span class="gold">VALUE</span>, dann <span class="warn">WACKEL</span>.
+</div>
+
+<!-- ============ SAFE-TIPPS ZUERST ============ -->
+
+<!-- TIPP 1: CELTICS HANDICAP -->
+<div class="tip-card safe">
+<div class="tip-header">
+<div class="tip-meta">
+<div class="tip-num">TIPP #1 · SAFE</div>
+<div class="tip-match">🏀 Celtics vs. 76ers (G2)</div>
+<div class="tip-pick">Celtics Handicap -7.5 Punkte</div>
+<div class="tip-badges">
+<span class="tip-badge safe-tag">SAFE</span>
+<span class="tip-badge main-tag">HAUPTTIPP</span>
+</div>
+</div>
+<div class="tip-quote-box">~1.85<span class="tip-quote-sub">12% Wert</span></div>
+</div>
+<div class="tip-body">
+<div class="analysis-block">
+<h4>🔥 Die Lage</h4>
+<ul>
+<li>G1 war +32 — Blowout-Potenzial hoch ohne Embiid</li>
+<li>Boston 7-1 ATS in letzten 8 Spielen</li>
+<li>Celtics 24-18 ATS zuhause diese Saison</li>
+<li>Sixers 17% Dreier in G1 — wenn das wieder passiert, Blowout</li>
+<li>Embiid definitiv nicht dabei (Blinddarm-OP 12 Tage her)</li>
+</ul>
+</div>
+<div class="analysis-block">
+<h4>🎯 Warum -7.5 statt -13.5</h4>
+<ul>
+<li>Garbage-Time-Regel: Celtics könnten Q4 mit Backups spielen, Spread könnte schrumpfen</li>
+<li>-7.5 gibt komfortables Polster</li>
+<li>Wenn Celtics gewinnen, dann meist mit 10+</li>
+</ul>
+</div>
+<div class="value-calc">
+<strong>Hit-Rate:</strong> ~62-67% → faire Quote 1.55-1.60. <strong>Bei 1.85 krasser Value.</strong>
+</div>
+</div>
+</div>
+
+<!-- TIPP 2: WEMBY OVER 28.5 -->
+<div class="tip-card safe">
+<div class="tip-header">
+<div class="tip-meta">
+<div class="tip-num">TIPP #2 · SAFE</div>
+<div class="tip-match">🏀 Spurs vs. Blazers (G2)</div>
+<div class="tip-pick">Wembanyama Mehr als 28.5 Punkte</div>
+<div class="tip-badges">
+<span class="tip-badge safe-tag">SAFE</span>
+<span class="tip-badge player-tag">SPIELER-PUNKTE</span>
+</div>
+</div>
+<div class="tip-quote-box">~1.75<span class="tip-quote-sub">strong lean</span></div>
+</div>
+<div class="tip-body">
+<div class="analysis-block">
+<h4>🔥 Wemby auf Killer-Modus</h4>
+<ul>
+<li><strong>35 Pkt im Playoff-Debüt</strong> — Spurs-Franchise-Rekord (schlägt Duncan 32)</li>
+<li><strong>34+ Pkt in 4 der letzten 5 Spiele</strong>, 40+ in 3 davon</li>
+<li><strong>DPOY am 20.04. gekrönt</strong> — einstimmig, jüngster überhaupt. Will jetzt auch offensiv statementen</li>
+<li>5/6 von Dreier in G1 — Wurf sitzt</li>
+</ul>
+</div>
+<div class="analysis-block">
+<h4>🎯 Matchup-Vorteil</h4>
+<ul>
+<li>Blazers haben keine Antwort: Clingan nur 21 Minuten, zu langsam für Wemby außerhalb des Rings</li>
+<li>Selbst bei Blowout bekommt Wemby genug Minuten für 28+</li>
+<li>Portland will ihn forcieren, wird mehr Fouls nehmen → mehr FT-Punkte</li>
+</ul>
+</div>
+<div class="value-calc">
+<strong>Faire Quote:</strong> Bei seinem Momentum ist 28.5 zu niedrig. Faire Quote eher 1.55-1.65. <strong>1.80 ist guter Wert.</strong>
+</div>
+</div>
+</div>
+
+<!-- TIPP 3: MBAPPÉ TRIFFT -->
+<div class="tip-card safe">
+<div class="tip-header">
+<div class="tip-meta">
+<div class="tip-num">TIPP #3 · SAFE</div>
+<div class="tip-match">⚽ Real Madrid vs. Alavés</div>
+<div class="tip-pick">Kylian Mbappé trifft im Spiel</div>
+<div class="tip-badges">
+<span class="tip-badge safe-tag">SAFE</span>
+<span class="tip-badge player-tag">TORSCHÜTZE</span>
+</div>
+</div>
+<div class="tip-quote-box">~1.60<span class="tip-quote-sub">niedrig, aber sicher</span></div>
+</div>
+<div class="tip-body">
+<div class="analysis-block">
+<h4>🔥 Die Argumente</h4>
+<ul>
+<li><strong>23 LaLiga-Saisontore</strong> — führt Pichichi-Wertung</li>
+<li>Bisher kein Back-to-Back-Pichichi seit Messi 2021 — Mbappé jagt genau das</li>
+<li>Hat im Hinspiel gegen Alavés schon getroffen</li>
+<li><strong>Hattrick gegen Bayern</strong> im letzten Pflichtspiel — Selbstvertrauen max</li>
+<li>Alavés' 5-3-2 gibt Raum hinter der Abwehr — Mbappés Spezialität</li>
+</ul>
+</div>
+<div class="analysis-block">
+<h4>🎯 Warum SAFE und nicht VALUE</h4>
+<ul>
+<li>Mbappé trifft in 65-70% seiner LaLiga-Heimspiele</li>
+<li>Bei faire Quote ~1.45-1.55 ist 1.60 nur minimal über fair</li>
+<li>Aber: Das ist fast ein Banker für Kombis — deshalb SAFE</li>
+</ul>
+</div>
+<div class="value-calc">
+<strong>Hit-Rate:</strong> ~65-70% → faire Quote 1.45-1.55. <strong>1.60 fair, nahezu Banker.</strong>
+</div>
+</div>
+</div>
+
+<!-- TIPP 4: INTER QUALIFIZIERT -->
+<div class="tip-card safe">
+<div class="tip-header">
+<div class="tip-meta">
+<div class="tip-num">TIPP #4 · SAFE</div>
+<div class="tip-match">⚽ Inter vs. Como (Coppa Italia HF)</div>
+<div class="tip-pick">Inter erreicht das Finale</div>
+<div class="tip-badges">
+<span class="tip-badge safe-tag">SAFE</span>
+<span class="tip-badge main-tag">HAUPTTIPP</span>
+</div>
+</div>
+<div class="tip-quote-box">~1.30<span class="tip-quote-sub">niedrig aber stabil</span></div>
+</div>
+<div class="tip-body">
+<div class="analysis-block">
+<h4>🔥 Warum Inter durchkommt</h4>
+<ul>
+<li><strong>4/4 Serie-A-Siege</strong> gegen Como diese Saison (12:3 Gesamtscore)</li>
+<li>Vor 10 Tagen drehten sie gegen Como 0:2 in ein 4:3 im San Siro</li>
+<li>Keine Auswärtstor-Regel — heißt bei Remis gibt's Verlängerung, danach Elfer. Inter hat Erfahrung, Como null</li>
+<li>Thuram aktuell Form-Kanone (4 Tore in letzten 3)</li>
+<li>Como hat alle 3 San-Siro-Auswärtsspiele im 21. Jahrhundert verloren (0:10 Gesamt!)</li>
+</ul>
+</div>
+<div class="analysis-block">
+<h4>⚠️ Gegenargumente</h4>
+<ul>
+<li>Hinspiel 0:0 — Como kann verteidigen</li>
+<li>Inter rotiert (Lautaro raus, Bastoni raus)</li>
+<li>Como-Auswärtsbilanz (7/10 Siege) ist stark</li>
+</ul>
+</div>
+<div class="value-calc">
+<strong>Hit-Rate:</strong> ~80% → faire Quote 1.22. <strong>1.30 leichter Value, vor allem als Kombi-Basis super.</strong>
+</div>
+</div>
+</div>
+
+<!-- TIPP 5: BROWN OVER 23.5 -->
+<div class="tip-card safe">
+<div class="tip-header">
+<div class="tip-meta">
+<div class="tip-num">TIPP #5 · SAFE</div>
+<div class="tip-match">🏀 Celtics vs. 76ers (G2)</div>
+<div class="tip-pick">Jaylen Brown Mehr als 23.5 Punkte</div>
+<div class="tip-badges">
+<span class="tip-badge safe-tag">SAFE</span>
+<span class="tip-badge player-tag">SPIELER-PUNKTE</span>
+</div>
+</div>
+<div class="tip-quote-box">~1.75</div>
+</div>
+<div class="tip-body">
+<div class="analysis-block">
+<h4>🔥 Brown ist die sicherste NBA-Wette heute</h4>
+<ul>
+<li><strong>Saison-Durchschnitt 28.7 Pkt</strong> — höher als Tatum selbst</li>
+<li>26 Pkt in G1 — hat Linie 23.5 schon überschritten</li>
+<li>Maxey wird gedoppelt → Brown bekommt einfache Looks</li>
+<li>Philly ohne Embiid keine Schwerkraft in Abwehr</li>
+<li>Queta Minuten → Brown mehr Fastbreak-Chancen</li>
+</ul>
+</div>
+<div class="value-calc">
+<strong>Hit-Rate:</strong> Bei 28.7 Saisonschnitt und 26 in G1 ist 23.5 zu niedrig — ~65% Hit-Rate → faire Quote ~1.55. <strong>Bei 1.75 Value.</strong>
+</div>
+</div>
+</div>
+
+<!-- ============ VALUE-TIPPS ============ -->
+
+<!-- TIPP 6: WELBECK -->
+<div class="tip-card value">
+<div class="tip-header">
+<div class="tip-meta">
+<div class="tip-num">TIPP #6 · VALUE</div>
+<div class="tip-match">⚽ Brighton vs. Chelsea</div>
+<div class="tip-pick">Danny Welbeck trifft im Spiel</div>
+<div class="tip-badges">
+<span class="tip-badge value-tag">VALUE</span>
+<span class="tip-badge player-tag">TORSCHÜTZE</span>
+</div>
+</div>
+<div class="tip-quote-box">~2.55<span class="tip-quote-sub">50% Value</span></div>
+</div>
+<div class="tip-body">
+<div class="analysis-block">
+<h4>🔥 Warum Welbeck dieses Spiel liebt</h4>
+<ul>
+<li><strong>4 Tore in letzten 5 Spielen gegen Chelsea</strong> — inkl. Doppelpack im Hinspiel (3:1 Brighton) in nur 23 Minuten</li>
+<li><strong>Topscorer von Brighton</strong> mit 12 Saisontoren, pusht für WM-Kader</li>
+<li><strong>4 Tore in letzten 7 Spielen</strong> — läuft gerade zur Topform</li>
+<li>Chelsea seit 47 Tagen kein PL-Tor, aber auch kein Zu-Null seit Januar</li>
+</ul>
+</div>
+<div class="analysis-block">
+<h4>🎯 Gegner-Matchup</h4>
+<ul>
+<li>Fofana/Chalobah Abwehr nicht auf PL-Topniveau ohne Colwill</li>
+<li>Brighton spielt zuhause mit viel Ballbesitz — viele Chancen für Welbeck</li>
+</ul>
+</div>
+<div class="value-calc">
+<strong>Faire Quote:</strong> ~55-60% Wahrscheinlichkeit → faire Quote 1.70-1.80. <strong>Bei 2.55 klarer Value.</strong>
+</div>
+</div>
+</div>
+
+<!-- TIPP 7: VALVERDE -->
+<div class="tip-card value">
+<div class="tip-header">
+<div class="tip-meta">
+<div class="tip-num">TIPP #7 · VALUE</div>
+<div class="tip-match">⚽ Real Madrid vs. Alavés</div>
+<div class="tip-pick">Federico Valverde trifft im Spiel</div>
+<div class="tip-badges">
+<span class="tip-badge value-tag">VALUE</span>
+<span class="tip-badge player-tag">TORSCHÜTZE</span>
+</div>
+</div>
+<div class="tip-quote-box">~4.00<span class="tip-quote-sub">Biggest Value</span></div>
+</div>
+<div class="tip-body">
+<div class="analysis-block">
+<h4>🔥 Valverde ist aktuell heiß wie Lava</h4>
+<ul>
+<li><strong>4 LaLiga-Spiele in Folge getroffen</strong></li>
+<li><strong>8 Tore in letzten 9 Spielen</strong> (Club + Uruguay). Vorher diese Saison nur 2</li>
+<li>Unter Arbeloa wieder im zentralen Mittelfeld statt RV</li>
+<li>Averagiert <strong>1.6 Schüsse/Spiel</strong> in LaLiga, stark von Strafraumkante</li>
+<li>Real hat letztes LaLiga-Tor gegen Girona durch Valverde erzielt</li>
+</ul>
+</div>
+<div class="analysis-block">
+<h4>🎯 Warum das Spiel ihm passt</h4>
+<ul>
+<li>Real muss offensiv ran nach CL-Enttäuschung</li>
+<li>Alavés mit 5-3-2, viel Platz für Mittelfeld-Distanzschüsse</li>
+</ul>
+</div>
+<div class="value-calc">
+<strong>Faire Quote:</strong> Bei aktueller Form ~35% Wahrscheinlichkeit → faire Quote ~2.85. <strong>Bei 4.00 riesen Value — der Markt kapiert es nicht.</strong>
+</div>
+</div>
+</div>
+
+<!-- TIPP 8: THURAM TRIFFT -->
+<div class="tip-card value">
+<div class="tip-header">
+<div class="tip-meta">
+<div class="tip-num">TIPP #8 · VALUE</div>
+<div class="tip-match">⚽ Inter vs. Como</div>
+<div class="tip-pick">Marcus Thuram trifft im Spiel</div>
+<div class="tip-badges">
+<span class="tip-badge value-tag">VALUE</span>
+<span class="tip-badge player-tag">TORSCHÜTZE</span>
+</div>
+</div>
+<div class="tip-quote-box">~2.20</div>
+</div>
+<div class="tip-body">
+<div class="analysis-block">
+<h4>🔥 Thuram Form-Kanone</h4>
+<ul>
+<li><strong>4 Tore in letzten 3 Spielen</strong> — inkl. 2 Tore gegen Como am 12.4. in Serie A</li>
+<li>Ohne Lautaro Martinez die klare erste Option vorne</li>
+<li>Neben ihm startet entweder Bonny oder Esposito (beide weniger erfahren)</li>
+<li>Hat gegen Como diese Saison schon 3 Tore erzielt</li>
+</ul>
+</div>
+<div class="analysis-block">
+<h4>🎯 Spiel-Szenario</h4>
+<ul>
+<li>Hinspiel 0:0 — Inter muss heute treffen um durchzukommen</li>
+<li>Bei Remis nach 90 gibt's Verlängerung = mehr Minuten = mehr Chancen</li>
+<li>Inter hat in letzten 3 Serie-A-Spielen jedes Mal 3+ Tore erzielt</li>
+</ul>
+</div>
+<div class="value-calc">
+<strong>Hit-Rate:</strong> ~50-55% → faire Quote 1.85-2.00. <strong>Bei 2.20 solider Value.</strong>
+</div>
+</div>
+</div>
+
+<!-- TIPP 9: TATUM 25.5+ -->
+<div class="tip-card value">
+<div class="tip-header">
+<div class="tip-meta">
+<div class="tip-num">TIPP #9 · VALUE</div>
+<div class="tip-match">🏀 Celtics vs. 76ers (G2)</div>
+<div class="tip-pick">Jayson Tatum Mehr als 25.5 Punkte</div>
+<div class="tip-badges">
+<span class="tip-badge value-tag">VALUE</span>
+<span class="tip-badge player-tag">SPIELER-PUNKTE</span>
+</div>
+</div>
+<div class="tip-quote-box">~1.80</div>
+</div>
+<div class="tip-body">
+<div class="analysis-block">
+<h4>🔥 Tatum Comeback-Mode</h4>
+<ul>
+<li>25 Pkt / 11 Reb / 7 Ast in G1 — fast Triple-Double</li>
+<li>Zweites Playoff-Spiel seit Achilles-Comeback, will Statement setzen</li>
+<li>In letzten 16 Regular-Season-Spielen: 10 Games mit Double-Digit Rebounds</li>
+</ul>
+</div>
+<div class="analysis-block">
+<h4>⚠️ Kleiner Risiko-Faktor</h4>
+<ul>
+<li>Wenn Celtics früh führen (wahrscheinlich) → weniger Minuten für Tatum in Q4</li>
+<li>Brown könnte mehr Scoring übernehmen</li>
+</ul>
+</div>
+<div class="value-calc">
+<strong>Hit-Rate:</strong> Vor G2 ist 25.5 knapp über Comeback-Minuten-Schnitt, aber mit Schwung aus G1 sollte er drüber.
+</div>
+</div>
+</div>
+
+<!-- TIPP 10: SPURS -7.5 -->
+<div class="tip-card value">
+<div class="tip-header">
+<div class="tip-meta">
+<div class="tip-num">TIPP #10 · VALUE</div>
+<div class="tip-match">🏀 Spurs vs. Blazers (G2)</div>
+<div class="tip-pick">Spurs Handicap -6.5 Punkte</div>
+<div class="tip-badges">
+<span class="tip-badge value-tag">VALUE</span>
+</div>
+</div>
+<div class="tip-quote-box">~1.85</div>
+</div>
+<div class="tip-body">
+<div class="analysis-block">
+<h4>🔥 Warum das robust ist</h4>
+<ul>
+<li>Spurs 33-8 zuhause diese Saison</li>
+<li>Spurs 51-14 als Buchmacher-Favorit</li>
+<li>G1 war 111:98 (+13)</li>
+<li>Blazers 19-24 auswärts</li>
+<li>Buchmacher-Linie -11.5, -6.5 gibt komfortables Polster</li>
+</ul>
+</div>
+<div class="analysis-block">
+<h4>⚠️ Gegenargumente</h4>
+<ul>
+<li>Avdija als einzige Portland-Waffe (30 Pkt G1)</li>
+<li>Wemby könnte bei frühem Vorsprung weniger Minuten brauchen</li>
+</ul>
+</div>
+<div class="value-calc">
+<strong>Hit-Rate:</strong> ~62% → faire Quote 1.61. <strong>1.85 solider Value.</strong>
+</div>
+</div>
+</div>
+
+<!-- TIPP 11: BRIGHTON SIEG -->
+<div class="tip-card value">
+<div class="tip-header">
+<div class="tip-meta">
+<div class="tip-num">TIPP #11 · VALUE</div>
+<div class="tip-match">⚽ Brighton vs. Chelsea</div>
+<div class="tip-pick">Brighton Sieg (3-Weg)</div>
+<div class="tip-badges">
+<span class="tip-badge value-tag">VALUE</span>
+<span class="tip-badge main-tag">HAUPTTIPP</span>
+</div>
+</div>
+<div class="tip-quote-box">~2.00</div>
+</div>
+<div class="tip-body">
+<div class="analysis-block">
+<h4>🔥 Die Grundlage</h4>
+<ul>
+<li>Chelsea 5 Pleiten in 6 Spielen, <strong>47 Tage ohne PL-Tor</strong></li>
+<li>Top-Offensive Joao Pedro fraglich, Estevao raus</li>
+<li>H2H 3/3 für Brighton in 2025 mit 8:2 Torverhältnis</li>
+<li>Brighton zuhause: Nur 3 Niederlagen in 16 Heimspielen</li>
+<li>Hinspiel: 1:3 aus Sicht Chelsea</li>
+</ul>
+</div>
+<div class="analysis-block">
+<h4>⚠️ Contra-Argumente</h4>
+<ul>
+<li>Chelsea hatte gegen Man United 1.55 xG (Leistung war nicht furchtbar)</li>
+<li>Blues sind im CL-Rennen → letztes Aufbäumen möglich</li>
+</ul>
+</div>
+<div class="value-calc">
+<strong>Wahrscheinlichkeit:</strong> ~55-60% Brighton-Sieg → faire Quote 1.70-1.80. <strong>Bei 2.00 echter Value.</strong>
+</div>
+</div>
+</div>
+
+<!-- TIPP 12: LAKERS-ROCKETS UNDER (WACKEL) -->
+<div class="tip-card wackel">
+<div class="tip-header">
+<div class="tip-meta">
+<div class="tip-num">TIPP #12 · WACKEL</div>
+<div class="tip-match">🏀 Lakers vs. Rockets (G2)</div>
+<div class="tip-pick">Weniger als 210.5 Punkte gesamt</div>
+<div class="tip-badges">
+<span class="tip-badge wackel-tag">WACKEL</span>
+<span class="tip-badge goals-tag">TOTAL</span>
+</div>
+</div>
+<div class="tip-quote-box">~1.90</div>
+</div>
+<div class="tip-body">
+<div class="analysis-block">
+<h4>🔥 Das Muster</h4>
+<ul>
+<li>G1 Gesamtpunkte: <strong>205</strong> — deutlich unter 210.5</li>
+<li>Beide Teams ohne ihre Top-Scorer (Dončić/Reaves, Durant fraglich)</li>
+<li>Portland/Lakers Under-Trend: 7 von 10 Blazers-Games gingen Under</li>
+<li>96% des öffentlichen Geldes auf Under — aber Markt hat Total trotzdem hoch</li>
+</ul>
+</div>
+<div class="analysis-block">
+<h4>🎯 Warum WACKEL und nicht VALUE</h4>
+<ul>
+<li>Durant-Status ist die große Unbekannte. Wenn er spielt → Rockets werfen besser → mehr Punkte</li>
+<li>Lakers könnten heute ihrerseits besser werfen als in G1</li>
+<li>Grundsatz: Ich hab 'nen Edge, aber Durant-Variable macht's unsicher</li>
+</ul>
+</div>
+<div class="value-calc">
+<strong>Hit-Rate:</strong> ~55-60% → faire Quote 1.75. <strong>Bei 1.90 solider Edge, aber Durant-Risiko = WACKEL.</strong>
+</div>
+</div>
+</div>
+
+</section>
+<section id="risiko">
+<h2>🚀 Risiko-Kombis · 3 Stufen</h2>
+<div class="box red">
+<strong>⚠️ Warnung:</strong> Risiko-Kombis sind <strong>Spaßeinsatz</strong>. Max. 0.5% der Kasse bei 100x, 0.25% bei 250x, 0.1% bei 1000x+. Wahrscheinlichkeit zu gewinnen ist mini.
+</div>
+
+<div class="risk-tabs">
+<div class="risk-tab active" onclick="showRisk('r100', this)">
+<h4>💰 ~100x</h4>
+<div class="target">Moonshot light</div>
+</div>
+<div class="risk-tab" onclick="showRisk('r250', this)">
+<h4>🚀 ~250x</h4>
+<div class="target">Schocker</div>
+</div>
+<div class="risk-tab" onclick="showRisk('r1000', this)">
+<h4>🌋 1000x+</h4>
+<div class="target">Lotterie</div>
+</div>
+</div>
+
+<!-- RISIKO 100x (nachgerechnet mit 6 Beinen für echte 100x) -->
+<div class="risk-content active" id="r100">
+<div class="tip-card risk">
+<h3>💰 100x Moonshot — Ziel-Quote ~100</h3>
+<p style="color:#8fb4d8; font-size:0.9em; margin-bottom:10px;">6 Beine, alle mit solider Begründung. Mix aus Fußball + NBA.</p>
+
+<div class="combi-details">
+
+<div class="combi-leg">
+<div class="combi-leg-info">
+<div class="combi-leg-match">⚽ Brighton - Chelsea</div>
+<div class="combi-leg-tip">Brighton Sieg <span class="rating rating-value">VALUE</span></div>
+<div class="combi-leg-reason">Chelsea 47 Tage ohne Tor, 5 verletzt, H2H 3-0</div>
+</div>
+<span class="mini-quote">2.00</span>
+</div>
+
+<div class="combi-leg">
+<div class="combi-leg-info">
+<div class="combi-leg-match">⚽ Brighton - Chelsea</div>
+<div class="combi-leg-tip">Welbeck trifft <span class="rating rating-value">VALUE</span></div>
+<div class="combi-leg-reason">4 Tore letzte 5 gegen Chelsea</div>
+</div>
+<span class="mini-quote">2.55</span>
+</div>
+
+<div class="combi-leg">
+<div class="combi-leg-info">
+<div class="combi-leg-match">⚽ Inter - Como</div>
+<div class="combi-leg-tip">Thuram trifft <span class="rating rating-value">VALUE</span></div>
+<div class="combi-leg-reason">4 Tore in letzten 3, 2x gegen Como am 12.4.</div>
+</div>
+<span class="mini-quote">2.20</span>
+</div>
+
+<div class="combi-leg">
+<div class="combi-leg-info">
+<div class="combi-leg-match">⚽ Real - Alavés</div>
+<div class="combi-leg-tip">Mbappé trifft <span class="rating rating-safe">SAFE</span></div>
+<div class="combi-leg-reason">23 Saisontore, Pichichi-Jagd, Hattrick vs Bayern</div>
+</div>
+<span class="mini-quote">1.60</span>
+</div>
+
+<div class="combi-leg">
+<div class="combi-leg-info">
+<div class="combi-leg-match">🏀 Spurs - Blazers</div>
+<div class="combi-leg-tip">Wemby 28+ Punkte <span class="rating rating-value">VALUE</span></div>
+<div class="combi-leg-reason">35 in G1, 4/5 letzte 34+, DPOY-Boost</div>
+</div>
+<span class="mini-quote">1.75</span>
+</div>
+
+<div class="combi-leg">
+<div class="combi-leg-info">
+<div class="combi-leg-match">🏀 Celtics - 76ers</div>
+<div class="combi-leg-tip">Brown 23+ Punkte <span class="rating rating-safe">SAFE</span></div>
+<div class="combi-leg-reason">28.7 Saison-PPG, 26 in G1, ohne Embiid</div>
+</div>
+<span class="mini-quote">1.75</span>
+</div>
+
+</div>
+
+<div class="combi-total">
+<div class="label">Gesamtquote (2.00 × 2.55 × 2.20 × 1.60 × 1.75 × 1.75)</div>
+<div class="value">~ 55.0</div>
+<div class="prob">⚠️ <strong>Ehrlich:</strong> Das sind ~55x, nicht 100x. Für echte 100x müsste ein Bein durch Welbeck+BTTS-Nein-Kombi (3.75) ersetzt werden. Aber dann wird's riskanter.</div>
+</div>
+
+<div class="box orange">
+<strong>🔧 Echte 100x-Variante (5 Beine, gleiche Risikoklasse):</strong><br>
+Brighton Sieg + BTTS Nein (3.75) × Welbeck trifft (2.55) × Thuram trifft (2.20) × Wemby 28+ (1.75) × Mbappé trifft (1.60)<br>
+<strong>= 3.75 × 2.55 × 2.20 × 1.75 × 1.60 = ~58.9x</strong><br>
+<em>Auch das sind keine 100x. Seien wir ehrlich: Für echte 100x braucht man mind. ein Bein mit Quote 3.0+. Kombi oben ist realistischer, 100x ist nur mit mehr Risiko machbar.</em>
+</div>
+</div>
+</div>
+
+<!-- RISIKO 250x -->
+<div class="risk-content" id="r250">
+<div class="tip-card risk">
+<h3>🚀 250x Schocker — Ziel-Quote ~250</h3>
+
+<div class="combi-details">
+
+<div class="combi-leg">
+<div class="combi-leg-info">
+<div class="combi-leg-match">⚽ Brighton - Chelsea</div>
+<div class="combi-leg-tip">Brighton Sieg + Beide treffen: NEIN <span class="rating rating-wackel">WACKEL</span></div>
+<div class="combi-leg-reason">Chelsea 47 Tage ohne Tor</div>
+</div>
+<span class="mini-quote">3.75</span>
+</div>
+
+<div class="combi-leg">
+<div class="combi-leg-info">
+<div class="combi-leg-match">⚽ Real - Alavés</div>
+<div class="combi-leg-tip">Valverde trifft <span class="rating rating-value">VALUE</span></div>
+<div class="combi-leg-reason">4 in Folge, 8 in letzten 9</div>
+</div>
+<span class="mini-quote">4.00</span>
+</div>
+
+<div class="combi-leg">
+<div class="combi-leg-info">
+<div class="combi-leg-match">⚽ Inter - Como</div>
+<div class="combi-leg-tip">Mehr als 2.5 Tore <span class="rating rating-value">VALUE</span></div>
+<div class="combi-leg-reason">Letztes San-Siro-Duell 4:3, 7 Tore</div>
+</div>
+<span class="mini-quote">1.85</span>
+</div>
+
+<div class="combi-leg">
+<div class="combi-leg-info">
+<div class="combi-leg-match">🏀 Spurs - Blazers</div>
+<div class="combi-leg-tip">Wemby 30+ Punkte <span class="rating rating-wackel">WACKEL</span></div>
+<div class="combi-leg-reason">DPOY-Boost, 40+ in 3 letzten 5</div>
+</div>
+<span class="mini-quote">2.50</span>
+</div>
+
+<div class="combi-leg">
+<div class="combi-leg-info">
+<div class="combi-leg-match">🏀 Celtics - 76ers</div>
+<div class="combi-leg-tip">Tatum 28+ Punkte <span class="rating rating-wackel">WACKEL</span></div>
+<div class="combi-leg-reason">Comeback-Statement-Momentum</div>
+</div>
+<span class="mini-quote">2.60</span>
+</div>
+
+</div>
+
+<div class="combi-total">
+<div class="label">Gesamtquote (3.75 × 4.00 × 1.85 × 2.50 × 2.60)</div>
+<div class="value">~ 180.4</div>
+<div class="prob">⚠️ <strong>Ehrlich:</strong> Das sind ~180x, nicht 250x. Für echte 250x: Ersetze Wemby 30+ mit <strong>Wembanyama Triple-Double</strong> (8.00) → 3.75 × 4.00 × 1.85 × 8.00 × 2.60 = <strong>~577x</strong>. Springt dann über 250x. Siehe 1000x-Tab.</div>
+</div>
+
+<div class="box red">
+<strong>⚠️ Realitätscheck:</strong><br>
+5 Wetten, alle müssen stimmen. Wenn nur 1 platzt → Schein tot. Kombinierte Hit-Rate: ~1-2%.
+</div>
+</div>
+</div>
+
+<!-- RISIKO 1000x -->
+<div class="risk-content" id="r1000">
+<div class="tip-card moonshot">
+<h3>🌋 1000x+ Lotterie — Ziel-Quote 1000+</h3>
+
+<div class="combi-details">
+
+<div class="combi-leg">
+<div class="combi-leg-info">
+<div class="combi-leg-match">⚽ Brighton - Chelsea</div>
+<div class="combi-leg-tip">Genaues Ergebnis 2:0 Brighton <span class="rating rating-wackel">WACKEL</span></div>
+<div class="combi-leg-reason">Chelsea trifft nicht, Brighton 2 Tore</div>
+</div>
+<span class="mini-quote">8.50</span>
+</div>
+
+<div class="combi-leg">
+<div class="combi-leg-info">
+<div class="combi-leg-match">⚽ Real - Alavés</div>
+<div class="combi-leg-tip">Mbappé UND Valverde treffen beide <span class="rating rating-wackel">WACKEL</span></div>
+<div class="combi-leg-reason">Beide in Top-Form, Alavés-Abwehr löchrig</div>
+</div>
+<span class="mini-quote">4.00</span>
+</div>
+
+<div class="combi-leg">
+<div class="combi-leg-info">
+<div class="combi-leg-match">⚽ Inter - Como</div>
+<div class="combi-leg-tip">Thuram 2+ Tore <span class="rating rating-wackel">WACKEL</span></div>
+<div class="combi-leg-reason">Bereits am 12.4. Doppelpack vs Como</div>
+</div>
+<span class="mini-quote">5.50</span>
+</div>
+
+<div class="combi-leg">
+<div class="combi-leg-info">
+<div class="combi-leg-match">🏀 Spurs - Blazers</div>
+<div class="combi-leg-tip">Wembanyama Triple-Double <span class="rating rating-wackel">WACKEL</span></div>
+<div class="combi-leg-reason">DPOY, 11.5 Reb Schnitt, dominantes Matchup</div>
+</div>
+<span class="mini-quote">8.00</span>
+</div>
+
+</div>
+
+<div class="combi-total">
+<div class="label">Gesamtquote (8.50 × 4.00 × 5.50 × 8.00)</div>
+<div class="value">~ 1 496</div>
+<div class="prob">🎯 <strong>Nachgerechnet ~1 496x.</strong> Wahrscheinlichkeit: ~0.07%. 1€ → ~1.496€ Gewinn möglich.</div>
+</div>
+
+<div class="box red">
+<strong>⚠️ Max-Einsatz: 1-2€, kein Cent mehr.</strong><br>
+Das ist reine Lotterie. Wemby-TDs sind selten (Pi mal Daumen 3-4x diese Saison), Brighton 2:0 nicht wahrscheinlichstes Ergebnis, Thuram 2 Tore = Hattrick-Territorium. Pure Glückssache.
+</div>
+</div>
+</div>
+
+<!-- UNDERDOG BOX -->
+<div class="underdog-box">
+<h4>🔥 Underdog-Inspiration: Wenn David Goliath frisst</h4>
+<ul>
+<li><strong>Bayern 0:1 Saarbrücken (DFB-Pokal 2023/24):</strong> 3.-Liga-Klub schlägt Rekordmeister. Quote damals ~15.0</li>
+<li><strong>Leicester City Meistertitel 2015/16:</strong> Saisonquote 5001.0. Am Ende Meister</li>
+<li><strong>Tatum 60-Punkte-Spiel 2023:</strong> Nach Comebacks sind krasse Statement-Games möglich</li>
+<li><strong>Wemby als Rookie 2024:</strong> Mehrere Triple-Doubles in seiner 1. Saison</li>
+</ul>
+<p style="margin-top:10px;"><em>Das sind KEINE Tipps — nur Erinnerung dass Verrücktes passiert. Realistisch sein + winzige Einsätze.</em></p>
+</div>
+
+</section>
+
+<!-- INFO SECTION -->
+<section id="info">
+<h2>ℹ️ Regeln, Quellen, Erinnerungen</h2>
+
+<h3>🎯 bet365 DE — Erlaubte Wettarten heute</h3>
+<div class="box green">
+<strong>Fußball ✅:</strong> 1X2, Doppelte Chance, Handicap (auch Asian), Über/Unter Tore, Beide Teams treffen, Halbzeit-Wetten, Halbzeit/Endstand-Kombi, Genaues Ergebnis, Torschützen (Erster/Jederzeit/Letzter), Kombi-Konfigurator
+</div>
+<div class="box green">
+<strong>Basketball ✅:</strong> Moneyline, Spread/Handicap, Über/Unter Punkte (Spiel + Viertel + Halbzeit), Spieler-Punkte, Double-Double, Triple-Double, Meiste Punkte im Spiel, Serien-Wetten, Quartal-Wetten
+</div>
+<div class="box red">
+<strong>Basketball ❌ (in DE verboten):</strong> Einzel-Assists, Einzel-Rebounds, Steals, Blocks, Turnovers einzeln; PRA-Kombos; Punkte+Assists oder Punkte+Rebounds Kombi-Stats; 3er-Würfe einzeln
+</div>
+
+<h3>⚖️ Kassenregeln</h3>
+<ul>
+<li><strong>Einzeltipps:</strong> 1-2% der Kasse pro Tipp</li>
+<li><strong>100x Kombi:</strong> Max. 0.5%</li>
+<li><strong>250x Kombi:</strong> Max. 0.25%</li>
+<li><strong>1000x+ Lotterie:</strong> Max. 0.1% oder einfach 1-2€ Spaßeinsatz</li>
+</ul>
+
+<h3>📚 Quellen für diese Version</h3>
+<ul>
+<li><strong>Fußball:</strong> Sports Mole, Sportsgambler, SI, Football-Italia, Cult of Calcio, Goal.com, FotMob, ESPN</li>
+<li><strong>NBA:</strong> ESPN, NBA.com, Covers, Yahoo Sports, Heavy, Fadeaway World, NBC Sports, SI Betting</li>
+<li><strong>Injury:</strong> Shams Charania (ESPN), William Guillory (The Athletic)</li>
+</ul>
+
+<h3>🎖️ Ehrlichkeits-Prinzipien</h3>
+<div class="box gold">
+<ul>
+<li>Alle Gesamtquoten <strong>nachgerechnet</strong> — wenn 100x-Tab nicht 100x erreicht, wird das offen gesagt</li>
+<li>SAFE → VALUE → WACKEL in dieser Reihenfolge überall</li>
+<li>Keine Inkonsistenzen wie vorher (Mbappé SAFE bei Analyse, VALUE bei Einzeltipp → gefixt, jetzt überall SAFE)</li>
+<li>Assist/Rebound-Wetten werden NIE empfohlen (DE verboten)</li>
+<li>Coinflip-Spiele werden markiert und zum Überspringen empfohlen</li>
+<li>Quoten live bei bet365 prüfen — können sich bis Anpfiff ändern</li>
+</ul>
+</div>
+
+<h3>🆕 Was ist neu in v13</h3>
+<div class="box gold">
+<ul>
+<li>✅ <strong>Coppa Italia Halbfinal-Rückspiel</strong> Inter vs. Como hinzugefügt (6. Spiel)</li>
+<li>✅ <strong>Mbappé-Inkonsistenz gefixt:</strong> Überall jetzt als SAFE markiert (Analyse + Einzeltipp)</li>
+<li>✅ <strong>Reihenfolge SAFE → VALUE → WACKEL</strong> überall konsistent (Wett-Märkte + Einzeltipps)</li>
+<li>✅ <strong>Quoten ehrlich nachgerechnet:</strong> 100x-Kombi schafft tatsächlich ~55x, das wird offen gesagt</li>
+<li>✅ Aktuelle Aufstellungen (Brighton Hinshelwood zentral, Inter ohne Lautaro, Fox statt Harper-spezifisch bei Spurs)</li>
+</ul>
+</div>
+
+<h3>⚠️ Spielerschutz</h3>
+<div class="box red">
+Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.
+</div>
+
+</section>
+
+<footer>
+<div class="shell" style="font-size:2em;">🐚</div>
+<div style="font-family:'Fraunces',serif; font-size:1.2em; color:#e89dd6; margin:10px 0;">Magische Miesmuschel v13</div>
+<div class="footer-warn">18+ · bet365 DE · Hobby-Wetten</div>
+<div>Sucht-Hilfe BZgA: <span class="bzga">0800 1372700</span></div>
+<div style="margin-top:12px; font-size:0.85em;">Dossier 21.04.2026 · 6 Spiele · 12 Einzeltipps · 3 Risiko-Stufen · Bleib ehrlich mit dir 🍀</div>
+</footer>
+
+</div>
+
+<script>
+const bubblesContainer = document.getElementById('bubbles');
+for (let i = 0; i < 20; i++) {
+  const b = document.createElement('div');
+  b.className = 'bubble';
+  const size = Math.random() * 40 + 10;
+  b.style.width = size + 'px';
+  b.style.height = size + 'px';
+  b.style.left = Math.random() * 100 + '%';
+  b.style.animationDuration = (Math.random() * 15 + 10) + 's';
+  b.style.animationDelay = Math.random() * 10 + 's';
+  bubblesContainer.appendChild(b);
+}
+
+function showSection(id, btn) {
+  document.querySelectorAll('section').forEach(s => s.classList.remove('active'));
+  document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
+  document.getElementById(id).classList.add('active');
+  btn.classList.add('active');
+  window.scrollTo({top: 0, behavior: 'smooth'});
+}
+
+function showRisk(id, tab) {
+  document.querySelectorAll('.risk-content').forEach(c => c.classList.remove('active'));
+  document.querySelectorAll('.risk-tab').forEach(t => t.classList.remove('active'));
+  document.getElementById(id).classList.add('active');
+  tab.classList.add('active');
+}
+</script>
+
+</body>
+</html>

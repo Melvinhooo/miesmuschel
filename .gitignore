@@ -1,0 +1,22 @@
+# API-Keys und lokale Konfig
+data/config.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Claude / temporäre Dateien (gesamter Ordner)
+.claude/
+
+# Backups
+*.bak
+*.tmp

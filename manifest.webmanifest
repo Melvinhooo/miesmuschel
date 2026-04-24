@@ -1,0 +1,16 @@
+{
+  "name": "Magische Miesmuschel",
+  "short_name": "Miesmuschel",
+  "description": "Privates Wett-Analyse-Tool für bet365 DE (Hobby). Spielerschutz BZgA 0800 1372700.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#001f3f",
+  "theme_color": "#001f3f",
+  "lang": "de",
+  "icons": [
+    { "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
