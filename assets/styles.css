@@ -373,12 +373,168 @@ strong { color: #e89dd6; }
 .rating-legend-item { display: flex; align-items: center; gap: 6px; font-size: 0.85em; color: #b8d4e8; }
 .rating-legend-item strong { color: #e8f4ff; }
 
-/* ---- Mobile Anpassungen ---- */
+/* ---- Mobile Anpassungen (iPhone-optimiert: kompakt + dicht) ---- */
 @media (max-width: 700px) {
-  h1 { font-size: 2em; }
-  .game-title { font-size: 1.15em; }
-  .container { padding: 12px; }
-  .tip-quote-box { font-size: 1.1em; padding: 8px 12px; }
+  body { font-size: 15px; }
+  .container { padding: 10px; }
+
+  /* Header deutlich kompakter */
+  header { padding: 18px 14px 14px; margin-bottom: 12px; border-radius: 16px; }
+  .shell { font-size: 2.6em; }
+  h1 { font-size: 1.55em; margin: 4px 0; letter-spacing: 0; }
+  .subtitle { font-size: 0.85em; }
+  .date-line { font-size: 0.78em; margin-top: 4px; }
+
+  /* Nav kompakter + horizontal-scroll falls zu viel */
+  nav {
+    gap: 5px; margin-bottom: 12px;
+    flex-wrap: nowrap; overflow-x: auto;
+    padding-bottom: 4px;
+    scrollbar-width: none;
+  }
+  nav::-webkit-scrollbar { display: none; }
+  .nav-btn {
+    padding: 8px 11px; font-size: 0.78em;
+    border-radius: 9px; flex-shrink: 0;
+  }
+
+  /* Headings */
+  h2 { font-size: 1.3em; margin: 14px 0 8px; padding-bottom: 5px; }
+  h3 { font-size: 1.05em; margin: 10px 0 6px; }
+  .section-title { font-size: 11px; margin: 14px 0 7px; }
+
+  /* Tip-Card kompakt */
+  .tip-card { padding: 13px; margin-bottom: 11px; border-radius: 11px; }
+  .tip-card::before { width: 4px; }
+  .tip-header { gap: 8px; margin-bottom: 8px; }
+  .tip-meta { min-width: 100%; }
+  .tip-num { font-size: 0.7em; letter-spacing: 1px; margin-bottom: 2px; }
+  .tip-match { font-size: 1em; margin-bottom: 2px; }
+  .tip-pick { font-size: 0.92em; margin-top: 4px; }
+  .tip-quote-box {
+    font-size: 1em; padding: 6px 10px;
+    min-width: 72px; border-width: 1.5px; border-radius: 8px;
+  }
+  .tip-quote-sub { font-size: 0.6em; margin-top: 1px; }
+  .tip-badge { padding: 3px 8px; font-size: 0.68em; border-radius: 6px; }
+  .tip-badges { margin-top: 3px; }
+  .tip-body { margin-top: 10px; padding-top: 10px; }
+  .analysis-block { margin: 6px 0; }
+  .analysis-block h4 { font-size: 0.82em; margin-bottom: 4px; }
+  .analysis-block ul { padding-left: 18px; font-size: 0.82em; }
+  .analysis-block li { padding: 2px 0; }
+  .value-calc { padding: 7px 10px; font-size: 0.8em; }
+
+  /* Game-Card */
+  .game-card { padding: 13px; margin-bottom: 11px; border-radius: 11px; }
+  .game-header { margin-bottom: 10px; gap: 6px; }
+  .game-title { font-size: 1.05em; }
+  .game-meta { font-size: 0.75em; }
+  .league-tag { padding: 2px 7px; font-size: 0.68em; margin-right: 5px; }
+
+  /* News */
+  .news-list { margin: 6px 0; }
+  .news-item { padding: 5px 0; font-size: 0.78em; line-height: 1.45; }
+  .news-item .tag { font-size: 0.6em; padding: 1px 5px; margin-right: 5px; letter-spacing: 0.05em; }
+
+  /* Markets / Props → 1 Spalte */
+  .markets-grid,
+  .props-grid { grid-template-columns: 1fr; gap: 7px; }
+  .market, .prop { padding: 9px 11px; border-radius: 7px; }
+  .market-name, .prop-name { font-size: 0.78em; }
+  .market-odd, .prop-odd { font-size: 0.92em; }
+  .market-meta { font-size: 0.65em; }
+  .prop-reason { font-size: 0.72em; margin-top: 4px; }
+
+  /* Stats-Grid: 2 Spalten kompakt */
+  .stats-grid { grid-template-columns: repeat(2, 1fr); gap: 6px; }
+  .stat-tile { padding: 8px 4px; border-radius: 7px; }
+  .stat-tile .value { font-size: 1.2em; }
+  .stat-tile .label { font-size: 0.64em; }
+
+  /* Orakel */
+  .orakel-box { padding: 11px 13px; margin-top: 12px; border-radius: 10px; }
+  .orakel-label { font-size: 0.72em; margin-bottom: 5px; letter-spacing: 0.15em; }
+  .orakel-pick { font-size: 1.05em; }
+  .orakel-meta { font-size: 0.75em; }
+
+  /* Boxes */
+  .box { padding: 9px 11px; font-size: 0.85em; margin: 8px 0; }
+
+  /* Rating-Pills + Legend */
+  .rating { font-size: 0.6em; padding: 2px 6px; margin-left: 5px; letter-spacing: 0.06em; }
+  .rating-legend {
+    padding: 9px 12px; gap: 6px;
+    flex-direction: column; align-items: flex-start;
+  }
+  .rating-legend-item { font-size: 0.75em; }
+
+  /* Risiko-Tabs */
+  .risk-tabs { gap: 5px; margin-bottom: 14px; }
+  .risk-tab { padding: 9px 6px; min-width: 78px; border-radius: 9px; }
+  .risk-tab h4 { font-size: 0.95em; margin-bottom: 2px; }
+  .risk-tab .target { font-size: 0.7em; }
+
+  /* Kombi-Details */
+  .combi-details { padding: 9px; margin-top: 10px; border-radius: 8px; }
+  .combi-leg { padding: 6px 0; gap: 6px; }
+  .combi-leg-info { min-width: calc(100% - 64px); }
+  .combi-leg-match { font-size: 0.82em; }
+  .combi-leg-tip { font-size: 0.78em; margin-top: 2px; }
+  .combi-leg-reason { font-size: 0.7em; margin-top: 2px; }
+  .mini-quote { padding: 2px 7px; font-size: 0.78em; }
+  .combi-total { padding: 11px; margin-top: 10px; border-radius: 8px; }
+  .combi-total .label { font-size: 0.78em; }
+  .combi-total .value { font-size: 1.7em; margin-top: 3px; }
+  .combi-total .prob { font-size: 0.72em; margin-top: 6px; }
+
+  /* Historie-Dashboard */
+  .historie-hero { padding: 12px; margin-bottom: 14px; border-radius: 12px; }
+  .historie-hero h3 { font-size: 0.92em; }
+  .historie-hero .sub { font-size: 0.74em; margin-bottom: 10px; }
+  .historie-kpis { grid-template-columns: repeat(2, 1fr); gap: 6px; }
+  .kpi-tile { padding: 9px 4px; border-radius: 8px; }
+  .kpi-tile .kpi-val { font-size: 1.15em; }
+  .kpi-tile .kpi-lbl { font-size: 0.62em; letter-spacing: 0.06em; }
+  .breakdown-grid { grid-template-columns: 1fr; gap: 10px; }
+  .breakdown-card { padding: 11px; border-radius: 9px; }
+  .breakdown-card h4 { font-size: 0.85em; margin-bottom: 7px; }
+  .breakdown-table { font-size: 0.75em; }
+  .breakdown-table th, .breakdown-table td { padding: 4px 3px; }
+
+  /* Stop-Signal */
+  .stop-signal { padding: 10px 12px; }
+  .stop-signal h4 { font-size: 0.85em; }
+  .stop-signal li { font-size: 0.78em; }
+
+  /* Lesson-Item */
+  .lesson-item { padding: 8px 11px; font-size: 0.8em; }
+  .lesson-item .lesson-date { font-size: 0.7em; }
+  .lesson-item .lesson-cat { font-size: 0.65em; padding: 1px 6px; margin-left: 6px; }
+
+  /* Underdog-Box */
+  .underdog-box { padding: 11px; margin: 14px 0; }
+  .underdog-box h4 { font-size: 1em; }
+
+  /* Analysis-Text */
+  .analysis-text { padding: 10px 12px; font-size: 0.84em; line-height: 1.6; }
+
+  /* Footer */
+  footer { padding: 20px 12px; font-size: 0.78em; margin-top: 24px; }
+  footer .shell { font-size: 1.5em !important; }
+  .footer-warn { font-size: 0.88em; }
+
+  /* Bubble-Animation im Hintergrund etwas dezenter bei wenig Platz */
+  .bubble { opacity: 0.75; }
+}
+
+/* Ganz kleine iPhones (SE, Mini) — noch einen Tick enger */
+@media (max-width: 380px) {
+  .nav-btn { padding: 7px 9px; font-size: 0.74em; }
+  h1 { font-size: 1.4em; }
+  .shell { font-size: 2.3em; }
+  .tip-card, .game-card { padding: 11px; }
+  .combi-total .value { font-size: 1.5em; }
 }
 
 /* ==========================================================================
