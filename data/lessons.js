@@ -49,6 +49,18 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "Playoff-Spielerpunkte scharfer",
       "lesson": "Nachgeschärfte Lesson: NBA-Playoff-Spielerpunkte max WACKEL (nicht VALUE), ausser der Spieler spielt in einem engen Spiel ohne Blowout-Gefahr UND die Linie ist nicht nach einem Hot-Hand-G2 hochgesetzt. 23.04.: Edwards 30->17 (Wolves gewannen 113:96 aber Blowout -> Q4 Bank), Mitchell -> 15 (Cavs Blowout verloren). 1/3 Hitrate heute trotz VALUE-Label zeigt: Varianz ueberschreibt Form.",
       "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-04-25",
+      "kategorie": "NBA-G3 Heim-Favorit unter Sweep-Druck",
+      "lesson": "Auch der HEIM-FAVORIT in Sweep-Abwehr (eigene Serie 0-2 hinten, G3 zuhause, Buchmacher-Favorit) ist NICHT zuverlaessig. 24.04.: Rockets -9.5 Heim-Favorit gegen Lakers (ohne Doncic + Reaves) verloren 108:112 OT, Lakers nun 3-0. LeBron 29 Pkt, Smart 21, Hachimura 22 trotz fehlender Stars. Komplementär zur 23.04.-'Sweep-Abwehr-Heimsieg'-Lesson (Heim-Underdog kann gewinnen). Regel: G3 mit Sweep-Druck = KEIN safer Sieg-Tipp egal welche Seite — Spread-Markt oder Live-Total bevorzugen, niemals SAFE.",
+      "bezug_spiel_id": "2026-04-25-rockets-lakers-g3"
+    },
+    {
+      "datum": "2026-04-25",
+      "kategorie": "SAFE-Trefferquote Reality-Check",
+      "lesson": "SAFE-Kategorie ueber alle bisherigen Tipps: 8/12 = 66.7% Trefferquote, ROI -3.3% — UNTER CLAUDE.md-Soll (75-90%). Ursachen: frueh labelten NBA-Player-Props als SAFE (Bane/Wagner/Banchero DD am 22.04.) + 24.04. Lautern DC verloren (0:2 Heim, Braunschweig-Befreiungsschlag). Regel: SAFE-Label NUR fuer 1X2/DC mit klarer Klassendifferenz + Topscorer fit + KEIN Sweep-Druck + KEIN Abstiegskampf-Underdog mit Backs-against-the-wall-Motivation. Bei SAFE-Quote 1.20-1.30 doppelt pruefen — knappe Margins erlauben keinen Schnitzer.",
+      "bezug_spiel_id": null
     }
   ]
 };

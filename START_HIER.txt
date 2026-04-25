@@ -1,0 +1,35 @@
+========================================================
+  MAGISCHE MIESMUSCHEL - START HIER
+========================================================
+
+Falls dieser Chat voll ist oder du in einem neuen Chat weitermachst:
+
+1. Oeffne Claude Code im Ordner "Magische Miesmuschel"
+
+2. Schick dem neuen Claude als ERSTE Nachricht genau das hier
+   (kopieren + einfuegen):
+
+----------------------------------------------------------
+Hi, ich bin Melvi. Wir arbeiten am Projekt "Magische Miesmuschel"
+(Wett-Analyse-Tool). Ein anderer Claude hat in einem vollen Chat
+schon viel aufgebaut.
+
+Bitte lies JETZT in dieser Reihenfolge:
+
+1. HANDOFF.md       (im Projekt-Root, fasst alles zusammen)
+2. CLAUDE.md        (verbindliche Regeln)
+3. README.md        (Workflow)
+4. data/lessons.json (bisherige Lessons)
+5. Die letzten 3 Dateien in data/ergebnisse/
+
+Dann sag mir wo wir stehen und ich erklaer dir was als naechstes an ist.
+----------------------------------------------------------
+
+3. Der neue Claude ist in 2-3 Minuten auf demselben Stand wie vorher.
+
+4. Autopilot laeuft in der Zwischenzeit eh autonom weiter
+   (Scheduled Tasks: 10:30 Analyse, 16:00 / 11:30 Tipps).
+
+========================================================
+  Dein Setup ist safe. Kein Panik wenn Chat voll wird.
+========================================================
