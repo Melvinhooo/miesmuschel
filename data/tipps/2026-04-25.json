@@ -1,5 +1,4 @@
-// Auto-generiert aus data/tipps/<datum>.json
-window.__MIESMUSCHEL_TIPPS = {
+{
   "datum": "2026-04-25",
   "erstellt_am": "2026-04-25T11:30:00+02:00",
   "hinweis": "Wochenend-Paket Samstag: 5x Bundesliga, 2x Premier League, 2x LaLiga, 1x Serie A + 4x NBA Playoffs G3/G4 (Nacht zu Sonntag). Lessons scharf angewandt: NBA-Spielerpunkte max WACKEL, G3 mit Sweep-Druck (egal welche Seite) NICHT SAFE, SAFE-Label nur bei Klassendifferenz + keine Backs-against-the-wall-Underdogs. Quoten bet365 live prüfen.",
@@ -335,4 +334,3 @@ window.__MIESMUSCHEL_TIPPS = {
   ],
   "footer": "18+ · BZgA Glücksspielsucht-Hotline: 0800 1372700"
 }
-;
