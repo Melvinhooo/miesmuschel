@@ -208,14 +208,15 @@
       "serienstand": "Hawks 2-1 (Hawks gewannen G3)",
       "news": [
         "⚠️ Knicks unter 1-3-Druck wenn G4 verloren — Must-Win-Modus",
-        "Hawks Heim G4, Trae Young in Top-Form",
+        "Hawks Heim G4, CJ McCollum als neuer Hawks-Star (G1: 26 / G2: 32 Pkt)",
+        "WICHTIG: Trae Young ist seit 09.01.2026 bei Washington Wizards (Trade gegen McCollum) + verletzt (Quadrizeps/Rücken) — spielt diese Saison nicht mehr",
         "Knicks-Klasse über die Serie eigentlich höher (3-Seed vs 6-Seed)",
         "Hawks G3 gewannen 107:106 — eng, Knicks knapp dran",
         "Towns/Brunson Klasse-Spieler, nicht zwei Spiele in Folge so kalt"
       ],
       "tipps": [
-        { "id": "t24", "markt": "New York Knicks Sieg",           "quote": 1.95, "faire_quote": 1.85, "edge_prozent": 5, "kategorie": "value",  "begruendung": "Klasse-Bounce-Back unter Must-Win-Druck, Brunson + Towns nicht zwei Spiele kalt. Quote bei 1.95 für besseres Team mit Druck-Edge ist Value.",                       "empfohlener_einsatz_prozent": 1.0 },
-        { "id": "t25", "markt": "Trae Young Mehr als 22.5 Pkt",   "quote": 1.85, "faire_quote": 1.85, "edge_prozent": 0, "kategorie": "wackel", "begruendung": "Trae zuhause Top-Form, Saisonschnitt 25+. Aber Lesson NBA-Player-Props max WACKEL — Varianz hoch.",                                                          "empfohlener_einsatz_prozent": 0.5 }
+        { "id": "t24", "markt": "New York Knicks Sieg",            "quote": 1.95, "faire_quote": 1.85, "edge_prozent": 5, "kategorie": "value",  "begruendung": "Klasse-Bounce-Back unter Must-Win-Druck, Brunson + Towns nicht zwei Spiele kalt. Quote bei 1.95 für besseres Team mit Druck-Edge ist Value.",                       "empfohlener_einsatz_prozent": 1.0 },
+        { "id": "t25", "markt": "CJ McCollum Mehr als 23.5 Pkt",   "quote": 1.85, "faire_quote": 1.80, "edge_prozent": 3, "kategorie": "wackel", "begruendung": "Hawks-Star seit Trae-Trade Januar. G1: 26 Pkt, G2: 32 Pkt — Volumen hoch. Lesson: NBA-Player-Props bleiben WACKEL wegen Playoff-Varianz.",                "empfohlener_einsatz_prozent": 0.5 }
       ],
       "ergebnis": null, "tipps_ergebnis": []
     },

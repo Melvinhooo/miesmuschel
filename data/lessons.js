@@ -61,6 +61,12 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "SAFE-Trefferquote Reality-Check",
       "lesson": "SAFE-Kategorie ueber alle bisherigen Tipps: 8/12 = 66.7% Trefferquote, ROI -3.3% — UNTER CLAUDE.md-Soll (75-90%). Ursachen: frueh labelten NBA-Player-Props als SAFE (Bane/Wagner/Banchero DD am 22.04.) + 24.04. Lautern DC verloren (0:2 Heim, Braunschweig-Befreiungsschlag). Regel: SAFE-Label NUR fuer 1X2/DC mit klarer Klassendifferenz + Topscorer fit + KEIN Sweep-Druck + KEIN Abstiegskampf-Underdog mit Backs-against-the-wall-Motivation. Bei SAFE-Quote 1.20-1.30 doppelt pruefen — knappe Margins erlauben keinen Schnitzer.",
       "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-04-25",
+      "kategorie": "Roster-Verifikation PFLICHT vor Player-Props",
+      "lesson": "KRITISCH: Vor JEDEM Spieler-Tipp (Punkte, Tor, DD, TD, Assists fuer Fussball) den aktuellen Kader via WebSearch verifizieren. LLM-Wissen ueber Spieler-Team-Zuordnungen ist oft outdated — Trades passieren mitten in der Saison. Beispiel 25.04.: Tipp 'Trae Young Mehr als 22.5 Pkt' fuer Hawks-Knicks G4 generiert, aber Trae Young wurde am 09.01.2026 zu Washington Wizards getradet (gegen CJ McCollum) UND ist seitdem verletzt (Quadrizeps + Ruecken, fertig fuer 25-26). Hawks-Star ist seit Januar McCollum (32 Pkt G2). Regel: Bei jedem Player-Prop ZUERST: 'Spielt X aktuell fuer Team Y? Ist X fit?' Erst dann Linie pruefen. Diese Lesson ist hoechste Prioritaet — sie betrifft Vertrauen ins ganze Tool.",
+      "bezug_spiel_id": "2026-04-25-hawks-knicks-g4"
     }
   ]
 };
