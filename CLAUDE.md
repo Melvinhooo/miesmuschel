@@ -94,6 +94,25 @@ Reihenfolge in jeder Sektion: **SAFE → VALUE → WACKEL → RISIKO → MOONSHO
 
 ---
 
+## Saison-Kontext-Pflicht-Analyse (für jeden Tipp)
+
+Vor JEDEM Tipp **diese 4 Faktoren** für beide Mannschaften prüfen + in `begruendung` einfließen lassen:
+
+1. **Parallele Wettbewerbe:** Spielt das Team in dieser Woche noch CL / EL / Conference League / Pokal-HF? → Rotations-Risiko bei Stammspielern
+2. **Saisonziel + Tabellenposition:**
+   - Meisterschaft / CL-Quali / EL-Quali / Conference-Quali / Klassenerhalt / Abstieg / „nur Spielbetrieb"
+3. **Motivations-Asymmetrie:**
+   - Wenn Team A noch Saisonziel hat (z.B. Klassenerhalt) und Team B nichts mehr (gerettet, Tabellen-Mittelfeld) → Team A meist Edge
+   - Champions können rotieren — Underdogs nutzen das
+4. **Recovery / Belastungs-Stand:**
+   - Wie viele Tage seit letztem Spiel?
+   - CL/EL/Pokal-Spiel diese Woche? → Müdigkeit
+   - Verletzungs-Druck im Kader?
+
+**Beispiel:** Mainz @ ~12.0 vs Bayern (25.04.) wäre VALUE gewesen, weil Bayern CL-Doppelbelastung + Mainz im Klassenerhalt-Modus. Plus 2:0-Insurance hätte ausgezahlt (HZ 3:0).
+
+---
+
 ## Tonalität
 
 - **Deutsche Sprache** überall. Keine englischen Wett-Begriffe ("over/under", "moneyline" usw.) außer wenn es in DE Standard ist.
