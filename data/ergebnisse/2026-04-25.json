@@ -1,0 +1,1271 @@
+{
+  "datum": "2026-04-25",
+  "erstellt_am": "2026-04-25T11:30:00+02:00",
+  "hinweis": "Wochenend-Paket Samstag: 5x Bundesliga, 2x Premier League, 2x LaLiga, 1x Serie A + 4x NBA Playoffs G3/G4 (Nacht zu Sonntag). Lessons scharf angewandt: NBA-Spielerpunkte max WACKEL, G3 mit Sweep-Druck (egal welche Seite) NICHT SAFE, SAFE-Label nur bei Klassendifferenz + keine Backs-against-the-wall-Underdogs. Quoten bet365 live prüfen.",
+  "spiele": [
+    {
+      "id": "2026-04-25-mainz-bayern",
+      "liga": "Bundesliga",
+      "heim": "1. FSV Mainz 05",
+      "gast": "FC Bayern München",
+      "anstoss": "2026-04-25T15:30:00+02:00",
+      "stadion": "Mewa Arena",
+      "news": [
+        "Bayern auf Meisterschaftskurs, klarer Klassenunterschied",
+        "Mainz im Mittelfeld, kein direkter Abstiegskampf-Underdog",
+        "Bayern in Top-Scorer-Form (Kane), klare offensive Übermacht",
+        "Mewa Arena historisch knifflig für Bayern, aber Klasse setzt sich meist durch"
+      ],
+      "tipps": [
+        {
+          "id": "t1",
+          "markt": "Bayern München Sieg",
+          "quote": 1.45,
+          "faire_quote": 1.4,
+          "edge_prozent": 4,
+          "kategorie": "safe",
+          "begruendung": "Klassendifferenz + Bayern in Meister-Form. Mainz keine echte Heimfestung, Bayern auswärts Spitze. Lesson 25.04. SAFE-Reality-Check: passt — Klassendifferenz, kein Backs-against-the-wall-Underdog.",
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "t2",
+          "markt": "Bayern Mehr als 1.5 Tore",
+          "quote": 1.4,
+          "faire_quote": 1.3,
+          "edge_prozent": 7,
+          "kategorie": "value",
+          "begruendung": "Bayern erzielt im Schnitt 2.5+ Tore/Spiel. Mainz-Defense Mittelmaß. Solide Quote.",
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "t3",
+          "markt": "Mehr als 3.5 Tore",
+          "quote": 2.0,
+          "faire_quote": 1.95,
+          "edge_prozent": 3,
+          "kategorie": "wackel",
+          "begruendung": "Bayern offensiv stark, Mainz versucht mitzuspielen. Aber Bayern auswärts manchmal kontrolliert nur ergebnisorientiert. Coinflip-nah.",
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "ergebnis": {
+        "heim_tore": 3,
+        "gast_tore": 4,
+        "halbzeit": {
+          "heim": 3,
+          "gast": 0
+        },
+        "quelle": "football-data.org",
+        "abgerufen_am": "2026-04-26T10:39:26+02:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.45,
+          "kommentar": "Bayern gewann 4:3 (Mainz fuehrte zur HZ 3:0, Bayern drehte das Spiel)"
+        },
+        {
+          "tipp_id": "t2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.4,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "t3",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.0,
+          "kommentar": ""
+        }
+      ]
+    },
+    {
+      "id": "2026-04-25-koeln-leverkusen",
+      "liga": "Bundesliga",
+      "heim": "1. FC Köln",
+      "gast": "Bayer 04 Leverkusen",
+      "anstoss": "2026-04-25T15:30:00+02:00",
+      "stadion": "RheinEnergieStadion",
+      "news": [
+        "Rheinisches Derby-Feeling — emotionale Aufladung",
+        "Köln Aufsteiger, Mittelfeld-Position",
+        "Leverkusen kämpft um Top-4-Plätze (CL-Quali)",
+        "Beide Teams offensiv ausgerichtet, defensiv mittelmäßig"
+      ],
+      "tipps": [
+        {
+          "id": "t4",
+          "markt": "Bayer Leverkusen Sieg",
+          "quote": 1.85,
+          "faire_quote": 1.75,
+          "edge_prozent": 5,
+          "kategorie": "value",
+          "begruendung": "Klassedifferenz + CL-Druck auf Leverkusen-Seite. Köln im Aufsteigermodus aber kein Heim-Festungsgegner. Quote ordentlich.",
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "t5",
+          "markt": "Leverkusen Doppelte Chance (X2)",
+          "quote": 1.3,
+          "faire_quote": 1.25,
+          "edge_prozent": 4,
+          "kategorie": "safe",
+          "begruendung": "Leverkusen darf nicht verlieren wegen CL-Quali. DC fängt auch Remis ab — sicherer als reiner Sieg. Klasse + Druck spricht für Werkself.",
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "t6",
+          "markt": "Beide Teams treffen: JA",
+          "quote": 1.6,
+          "faire_quote": 1.55,
+          "edge_prozent": 3,
+          "kategorie": "value",
+          "begruendung": "Köln trifft zuhause selten zu null, Leverkusen offensivstark mit Wirtz/Boniface. BTTS realistisch.",
+          "empfohlener_einsatz_prozent": 1.0
+        }
+      ],
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 2,
+        "halbzeit": {
+          "heim": 0,
+          "gast": 1
+        },
+        "quelle": "football-data.org",
+        "abgerufen_am": "2026-04-26T10:39:26+02:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t4",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.85,
+          "kommentar": "Leverkusen gewann 2:1 in Koeln (HZ 0:1, Werkself dominierte)"
+        },
+        {
+          "tipp_id": "t5",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.3,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "t6",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.6,
+          "kommentar": ""
+        }
+      ]
+    },
+    {
+      "id": "2026-04-25-hsv-hoffenheim",
+      "liga": "Bundesliga",
+      "heim": "Hamburger SV",
+      "gast": "TSG Hoffenheim",
+      "anstoss": "2026-04-25T18:30:00+02:00",
+      "stadion": "Volksparkstadion",
+      "news": [
+        "HSV Aufsteiger, Heimstärke + Volksparkstadion-Atmosphäre",
+        "Hoffenheim Mittelfeld, ohne CL-/Abstiegs-Druck",
+        "Beide Teams offensiv anfällig",
+        "Hoffenheim auswärts wacklig, HSV hat zuhause meist Punkte geholt"
+      ],
+      "tipps": [
+        {
+          "id": "t7",
+          "markt": "Beide Teams treffen: JA",
+          "quote": 1.65,
+          "faire_quote": 1.6,
+          "edge_prozent": 3,
+          "kategorie": "value",
+          "begruendung": "Beide Defensiven anfällig, beide schießen regelmäßig. BTTS-Quote bei 1.65 ist Value.",
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "t8",
+          "markt": "HSV Doppelte Chance (1X)",
+          "quote": 1.5,
+          "faire_quote": 1.5,
+          "edge_prozent": 0,
+          "kategorie": "wackel",
+          "begruendung": "HSV zuhause solide, aber Hoffenheim individuell stark. Coinflip-Tendenz Heim.",
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 2,
+        "halbzeit": {
+          "heim": 1,
+          "gast": 2
+        },
+        "quelle": "football-data.org",
+        "abgerufen_am": "2026-04-26T10:39:26+02:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t7",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.65,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "t8",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": ""
+        }
+      ]
+    },
+    {
+      "id": "2026-04-25-liverpool-cpalace",
+      "liga": "Premier League",
+      "heim": "Liverpool",
+      "gast": "Crystal Palace",
+      "anstoss": "2026-04-25T16:00:00+02:00",
+      "stadion": "Anfield",
+      "news": [
+        "Liverpool zuhause Top-Form, Anfield-Festung",
+        "Crystal Palace Mittelfeld, kein direkter Abstiegskampf",
+        "Liverpool offensiv stark (Salah, Diaz)",
+        "Palace verteidigt diszipliniert, aber gegen Liverpool zu Hause oft chancenlos"
+      ],
+      "tipps": [
+        {
+          "id": "t9",
+          "markt": "Liverpool Sieg",
+          "quote": 1.3,
+          "faire_quote": 1.25,
+          "edge_prozent": 4,
+          "kategorie": "safe",
+          "begruendung": "Anfield-Festung + Klassendifferenz. Lesson 25.04. SAFE-Reality-Check: Liverpool hat Topscorer fit, Palace kein Backs-against-the-wall-Underdog → SAFE-Label tragfähig.",
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "t10",
+          "markt": "Liverpool Mehr als 1.5 Tore",
+          "quote": 1.45,
+          "faire_quote": 1.35,
+          "edge_prozent": 7,
+          "kategorie": "value",
+          "begruendung": "Liverpool erzielt im Schnitt 2.4 Heim-Tore. Palace defensiv solide, aber 2+ Tore klar wahrscheinlich.",
+          "empfohlener_einsatz_prozent": 1.0
+        }
+      ],
+      "ergebnis": {
+        "heim_tore": 3,
+        "gast_tore": 1,
+        "halbzeit": {
+          "heim": 2,
+          "gast": 0
+        },
+        "quelle": "football-data.org",
+        "abgerufen_am": "2026-04-26T10:39:33+02:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t9",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.3,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "t10",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.45,
+          "kommentar": ""
+        }
+      ]
+    },
+    {
+      "id": "2026-04-25-arsenal-newcastle",
+      "liga": "Premier League",
+      "heim": "Arsenal",
+      "gast": "Newcastle United",
+      "anstoss": "2026-04-25T18:30:00+02:00",
+      "stadion": "Emirates Stadium",
+      "news": [
+        "Arsenal Top-3-Position, Heim-Festung Emirates",
+        "Newcastle Top-6-Kampf, gefährlicher Auswärtsgegner",
+        "Arsenal offensiv konstant (Saka, Martinelli)",
+        "Newcastle mit Isak/Gordon Konterstärke"
+      ],
+      "tipps": [
+        {
+          "id": "t11",
+          "markt": "Arsenal Sieg",
+          "quote": 1.65,
+          "faire_quote": 1.6,
+          "edge_prozent": 3,
+          "kategorie": "safe",
+          "begruendung": "Emirates-Heimstärke + Klassendifferenz. Newcastle gefährlich aber auswärts inkonsistent. SAFE-Reality-Check passt.",
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "t12",
+          "markt": "Mehr als 2.5 Tore",
+          "quote": 1.75,
+          "faire_quote": 1.65,
+          "edge_prozent": 6,
+          "kategorie": "value",
+          "begruendung": "Beide Teams offensiv, Arsenal trifft zuhause durchschnittlich 2.3 Tore, Newcastle kontert. Ü2.5 hat Value.",
+          "empfohlener_einsatz_prozent": 1.0
+        }
+      ],
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 0,
+        "halbzeit": {
+          "heim": 1,
+          "gast": 0
+        },
+        "quelle": "football-data.org",
+        "abgerufen_am": "2026-04-26T10:39:33+02:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t11",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.65,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "t12",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": ""
+        }
+      ]
+    },
+    {
+      "id": "2026-04-25-getafe-barcelona",
+      "liga": "LaLiga",
+      "heim": "Getafe",
+      "gast": "FC Barcelona",
+      "anstoss": "2026-04-25T17:15:00+02:00",
+      "stadion": "Coliseum Alfonso Pérez",
+      "news": [
+        "Barcelona Tabellenführer (82 Pkt), Getafe 8. (41 Pkt)",
+        "⚠️ Barca-OUT: Lamine Yamal (Hamstring, Saison-Ende), Raphinha, Christensen, Bernal",
+        "Getafe ist taktisch zäh, oft kompakte Auswärtsspiele auch bei Heimspielen gegen Top-Teams",
+        "Barcelona zuletzt 4 Siege in 5 Spielen",
+        "Lewandowski als Mittelstürmer Topscorer"
+      ],
+      "tipps": [
+        {
+          "id": "t13",
+          "markt": "Barcelona Doppelte Chance (X2)",
+          "quote": 1.2,
+          "faire_quote": 1.15,
+          "edge_prozent": 4,
+          "kategorie": "safe",
+          "begruendung": "Getafe zähe Bude, daher reine Sieg-Quote zu eng — DC fängt Remis ab. Trotz Yamal-Ausfall klar Barca-Übergewicht. SAFE-Reality-Check: Klassendifferenz extrem.",
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "t14",
+          "markt": "Lewandowski trifft",
+          "quote": 1.85,
+          "faire_quote": 1.7,
+          "edge_prozent": 8,
+          "kategorie": "value",
+          "begruendung": "Ohne Yamal liegt Last auf Lewa. Getafe-Defense diszipliniert aber nicht Top-Abwehr-Liga. Quote bei 1.85 hat Value.",
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "t15",
+          "markt": "Weniger als 3.5 Tore",
+          "quote": 1.45,
+          "faire_quote": 1.4,
+          "edge_prozent": 3,
+          "kategorie": "value",
+          "begruendung": "Getafe absoluter Defensiv-Block. Barca ohne Yamal weniger Tor-Festival-Risiko. U3.5 sehr wahrscheinlich.",
+          "empfohlener_einsatz_prozent": 1.0
+        }
+      ],
+      "ergebnis": {
+        "heim_tore": 0,
+        "gast_tore": 2,
+        "halbzeit": {
+          "heim": 0,
+          "gast": 1
+        },
+        "quelle": "football-data.org",
+        "abgerufen_am": "2026-04-26T10:39:40+02:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t13",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.2,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "t14",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Lewandowski blieb torlos (hatte Assist auf Rashford). Tore: Fermin Lopez + Marcus Rashford."
+        },
+        {
+          "tipp_id": "t15",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.45,
+          "kommentar": ""
+        }
+      ]
+    },
+    {
+      "id": "2026-04-25-atletico-athletic",
+      "liga": "LaLiga",
+      "heim": "Atlético Madrid",
+      "gast": "Athletic Bilbao",
+      "anstoss": "2026-04-25T22:00:00+02:00",
+      "stadion": "Riyadh Air Metropolitano",
+      "news": [
+        "Top-Spiel: Atlético Top-4, Athletic im CL-Quali-Kampf",
+        "Atlético zuhause Festung unter Simeone-Stil",
+        "Beide Teams defensiv geschult — Tor-armes Duell wahrscheinlich",
+        "Athletic auswärts solide, mit Williams-Brüdern Konterspiel"
+      ],
+      "tipps": [
+        {
+          "id": "t16",
+          "markt": "Atlético Doppelte Chance (1X)",
+          "quote": 1.3,
+          "faire_quote": 1.27,
+          "edge_prozent": 2,
+          "kategorie": "safe",
+          "begruendung": "Heimstärke + Defensiv-Solidität — Atlético verliert zuhause selten. DC fängt Remis ab. Athletic respektabel aber selten Sieger im Metropolitano.",
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "t17",
+          "markt": "Weniger als 2.5 Tore",
+          "quote": 1.95,
+          "faire_quote": 1.8,
+          "edge_prozent": 8,
+          "kategorie": "value",
+          "begruendung": "Beide Top-Defensen, Simeone-Stil + Athletic-Disziplin → Tor-armes Spiel klassisch. Quote bei 1.95 attraktiv.",
+          "empfohlener_einsatz_prozent": 1.5
+        }
+      ],
+      "ergebnis": {
+        "heim_tore": 3,
+        "gast_tore": 2,
+        "halbzeit": {
+          "heim": 0,
+          "gast": 1
+        },
+        "quelle": "football-data.org",
+        "abgerufen_am": "2026-04-26T10:39:40+02:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t16",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.3,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "t17",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": ""
+        }
+      ]
+    },
+    {
+      "id": "2026-04-25-bologna-roma",
+      "liga": "Serie A",
+      "heim": "Bologna",
+      "gast": "AS Roma",
+      "anstoss": "2026-04-25T18:00:00+02:00",
+      "stadion": "Stadio Renato Dall'Ara",
+      "news": [
+        "Bologna 8., Roma 6. — knappes Tabellenduell",
+        "Bologna 3 von 4 Pflichtspielen verloren, aber 2 von 3 letzten Serie-A-Spielen gewonnen",
+        "Roma zuletzt 1:1 gegen Atalanta, ungeschlagen in letzten 2",
+        "Beide Teams um Europa-Plätze",
+        "Italo-Klassiker, oft enge Spiele und wenige Tore"
+      ],
+      "tipps": [
+        {
+          "id": "t18",
+          "markt": "Roma Doppelte Chance (X2)",
+          "quote": 1.4,
+          "faire_quote": 1.35,
+          "edge_prozent": 4,
+          "kategorie": "value",
+          "begruendung": "Roma in besserer Form, defensiv stabiler. Bologna-Heimvorteil greift, daher DC statt reiner Sieg. Solide Value.",
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "t19",
+          "markt": "Weniger als 2.5 Tore",
+          "quote": 1.85,
+          "faire_quote": 1.8,
+          "edge_prozent": 3,
+          "kategorie": "wackel",
+          "begruendung": "Italo-Klassiker traditionell torarm. Beide Teams defensiv organisiert. Aber Bologna offensiv unberechenbar — Coinflip-Charakter.",
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "ergebnis": {
+        "heim_tore": 0,
+        "gast_tore": 2,
+        "halbzeit": {
+          "heim": 0,
+          "gast": 2
+        },
+        "quelle": "football-data.org",
+        "abgerufen_am": "2026-04-26T10:39:47+02:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t18",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.4,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "t19",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.85,
+          "kommentar": ""
+        }
+      ]
+    },
+    {
+      "id": "2026-04-25-magic-pistons-g3",
+      "liga": "NBA Playoffs R1 G3",
+      "heim": "Orlando Magic",
+      "gast": "Detroit Pistons",
+      "anstoss": "2026-04-25T19:00:00+02:00",
+      "serienstand": "Serie 1-1 (G2: Pistons gewannen)",
+      "news": [
+        "Magic zuhause nach G2-Niederlage, Heimvorteil + Energie",
+        "Pistons offensiv mit Cunningham/Ivey schwer zu stoppen",
+        "Ausgeglichene Serie, beide Teams können gewinnen",
+        "Banchero-Gesundheit nach harter G2 zu beobachten"
+      ],
+      "tipps": [
+        {
+          "id": "t20",
+          "markt": "Orlando Magic Sieg",
+          "quote": 1.85,
+          "faire_quote": 1.85,
+          "edge_prozent": 0,
+          "kategorie": "wackel",
+          "begruendung": "Heim-Bounce-Back + Serie 1-1 → Magic mit leichtem Vorteil. Aber Pistons in Top-Form, Coinflip mit Heim-Edge. Max WACKEL.",
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "ergebnis": {
+        "heim_tore": 113,
+        "gast_tore": 105,
+        "halbzeit": null,
+        "quelle": "balldontlie.io",
+        "abgerufen_am": "2026-04-26T10:39:50+02:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t20",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.85,
+          "kommentar": ""
+        }
+      ]
+    },
+    {
+      "id": "2026-04-25-suns-thunder-g3",
+      "liga": "NBA Playoffs R1 G3",
+      "heim": "Phoenix Suns",
+      "gast": "Oklahoma City Thunder",
+      "anstoss": "2026-04-25T21:30:00+02:00",
+      "serienstand": "Thunder 2-0",
+      "news": [
+        "⚠️ Suns Sweep-Druck zuhause — 0-2 Deficit, G3 zuhause",
+        "Lesson 25.04. (Rockets-Lakers): G3 mit Sweep-Druck egal welche Seite NICHT als SAFE",
+        "Thunder mit MVP SGA klar überlegen, Klassendifferenz groß",
+        "Lesson 22.04. (Thunder-Suns): Suns als Underdog spielen offen → Über-Tipps haben Tendenz",
+        "Booker einer der besten Iso-Scorer, bei Heim-Bounce-Back gefährlich"
+      ],
+      "tipps": [
+        {
+          "id": "t21",
+          "markt": "Oklahoma City Thunder Sieg",
+          "quote": 1.55,
+          "faire_quote": 1.5,
+          "edge_prozent": 3,
+          "kategorie": "value",
+          "begruendung": "Klassendifferenz + SGA-Form. ABER NICHT SAFE wegen Sweep-Abwehr-Heim-Underdog-Lesson. Suns spielen befreit aufs Maximum, das kann kippen. Max VALUE.",
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "t22",
+          "markt": "Mehr als 225.5 Punkte gesamt",
+          "quote": 1.9,
+          "faire_quote": 1.8,
+          "edge_prozent": 5,
+          "kategorie": "value",
+          "begruendung": "OKC schnellster Pace + Suns als Underdog spielen All-Out (Lesson 22.04.). Heim-Energie pusht Tempo. Über mit Edge.",
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "t23",
+          "markt": "Devin Booker Mehr als 28.5 Pkt",
+          "quote": 1.85,
+          "faire_quote": 1.85,
+          "edge_prozent": 0,
+          "kategorie": "wackel",
+          "begruendung": "Booker zuhause + Sweep-Abwehr-Modus = Heavy-Usage erwartbar. Aber Lesson NBA-Player-Props max WACKEL — Varianz schlägt Form.",
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "ergebnis": {
+        "heim_tore": 109,
+        "gast_tore": 121,
+        "halbzeit": null,
+        "quelle": "balldontlie.io",
+        "abgerufen_am": "2026-04-26T10:39:51+02:00",
+        "spieler_stats": {
+          "Devin Booker (PHX)": "16 Pkt, 7 Ast, 4 Reb (6/16 FG)",
+          "Dillon Brooks (PHX)": "33 Pkt",
+          "Jalen Green (PHX)": "26 Pkt",
+          "Shai Gilgeous-Alexander (OKC)": "42 Pkt (Playoff-Career-High)"
+        }
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t21",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.55,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "t22",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.9,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "t23",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Booker nur 16 Pkt (6/16 FG), 7 Ast, 4 Reb. OKC-Defense versperrte alle Wege. Linie 28.5 klar verfehlt."
+        }
+      ]
+    },
+    {
+      "id": "2026-04-26-hawks-knicks-g4",
+      "liga": "NBA Playoffs R1 G4",
+      "heim": "Atlanta Hawks",
+      "gast": "New York Knicks",
+      "anstoss": "2026-04-26T00:00:00+02:00",
+      "serienstand": "Hawks 2-1 (Hawks gewannen G3)",
+      "news": [
+        "⚠️ Knicks unter 1-3-Druck wenn G4 verloren — Must-Win-Modus",
+        "Hawks Heim G4, CJ McCollum als neuer Hawks-Star (G1: 26 / G2: 32 Pkt)",
+        "WICHTIG: Trae Young ist seit 09.01.2026 bei Washington Wizards (Trade gegen McCollum) + verletzt (Quadrizeps/Rücken) — spielt diese Saison nicht mehr",
+        "Knicks-Klasse über die Serie eigentlich höher (3-Seed vs 6-Seed)",
+        "Hawks G3 gewannen 107:106 — eng, Knicks knapp dran",
+        "Towns/Brunson Klasse-Spieler, nicht zwei Spiele in Folge so kalt"
+      ],
+      "tipps": [
+        {
+          "id": "t24",
+          "markt": "New York Knicks Sieg",
+          "quote": 1.95,
+          "faire_quote": 1.85,
+          "edge_prozent": 5,
+          "kategorie": "value",
+          "begruendung": "Klasse-Bounce-Back unter Must-Win-Druck, Brunson + Towns nicht zwei Spiele kalt. Quote bei 1.95 für besseres Team mit Druck-Edge ist Value.",
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "t25",
+          "markt": "CJ McCollum Mehr als 23.5 Pkt",
+          "quote": 1.85,
+          "faire_quote": 1.8,
+          "edge_prozent": 3,
+          "kategorie": "wackel",
+          "begruendung": "Hawks-Star seit Trae-Trade Januar. G1: 26 Pkt, G2: 32 Pkt — Volumen hoch. Lesson: NBA-Player-Props bleiben WACKEL wegen Playoff-Varianz.",
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "ergebnis": {
+        "heim_tore": 98,
+        "gast_tore": 114,
+        "halbzeit": null,
+        "quelle": "balldontlie.io",
+        "abgerufen_am": "2026-04-26T10:39:51+02:00",
+        "spieler_stats": {
+          "CJ McCollum (ATL)": "17 Pkt (Top-Scorer Hawks, 0/X aus 3er)",
+          "Brunson + Towns (NYK)": "Knicks-Bounce-Back wie erwartet — Serie 2-2"
+        }
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t24",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.95,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "t25",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "McCollum 17 Pkt (Top-Scorer Hawks). Knicks-Defense hielt ihn jenseits der 3er-Linie scoreless. Linie 23.5 verfehlt."
+        }
+      ]
+    },
+    {
+      "id": "2026-04-26-wolves-nuggets-g4",
+      "liga": "NBA Playoffs R1 G4",
+      "heim": "Minnesota Timberwolves",
+      "gast": "Denver Nuggets",
+      "anstoss": "2026-04-26T02:30:00+02:00",
+      "serienstand": "Wolves gewannen G3",
+      "news": [
+        "Wolves zuhause G4 mit Momentum nach G3-Sieg",
+        "Nuggets mit Jokić immer Klasse-Tipp, aber auswärts in Hot-Crowd schwer",
+        "Edwards in Heimspielen oft Top-Performance",
+        "Wolves Defense kann Jokić limitieren",
+        "Klassiker im Playoff-Rhythmus, beide Teams kennen sich gut"
+      ],
+      "tipps": [
+        {
+          "id": "t26",
+          "markt": "Minnesota Timberwolves Sieg",
+          "quote": 1.75,
+          "faire_quote": 1.7,
+          "edge_prozent": 3,
+          "kategorie": "value",
+          "begruendung": "Heim + G3-Momentum + Edwards-Heim-Form. Jokić bleibt Risiko, aber Wolves-Defense plus Crowd geben Edge.",
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "t27",
+          "markt": "Anthony Edwards Mehr als 25.5 Pkt",
+          "quote": 1.85,
+          "faire_quote": 1.85,
+          "edge_prozent": 0,
+          "kategorie": "wackel",
+          "begruendung": "Edwards zuhause Saisonschnitt 27. Aber Lesson NBA-Player-Props max WACKEL — auch nach Hot-Hand kann es kippen.",
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "ergebnis": {
+        "heim_tore": 112,
+        "gast_tore": 96,
+        "halbzeit": null,
+        "quelle": "balldontlie.io",
+        "abgerufen_am": "2026-04-26T10:39:52+02:00",
+        "spieler_stats": {
+          "Anthony Edwards (MIN)": "5 Pkt, 3 Reb (1/8 FG, 18 Min) — verletzt raus Q2 (linkes Knie)",
+          "Donte DiVincenzo (MIN)": "Verletzt raus, gleiche Aktion",
+          "Ayo Dosunmu (MIN)": "43 Pkt — uebernahm fuer Edwards/DiVincenzo"
+        }
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t26",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.75,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "t27",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Edwards nur 5 Pkt (1/8 FG, 18 Min) — verletzt ausgeschieden in Q2 (linkes Knie). Dosunmu uebernahm mit 43 Pkt."
+        }
+      ]
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "e1",
+      "tipp_id": "t1",
+      "spiel_id": "2026-04-25-mainz-bayern",
+      "markt": "Bayern München Sieg",
+      "quote": 1.45,
+      "kategorie": "safe",
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "e2",
+      "tipp_id": "t9",
+      "spiel_id": "2026-04-25-liverpool-cpalace",
+      "markt": "Liverpool Sieg",
+      "quote": 1.3,
+      "kategorie": "safe",
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "e3",
+      "tipp_id": "t11",
+      "spiel_id": "2026-04-25-arsenal-newcastle",
+      "markt": "Arsenal Sieg",
+      "quote": 1.65,
+      "kategorie": "safe",
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "e4",
+      "tipp_id": "t13",
+      "spiel_id": "2026-04-25-getafe-barcelona",
+      "markt": "Barcelona Doppelte Chance (X2)",
+      "quote": 1.2,
+      "kategorie": "safe",
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "e5",
+      "tipp_id": "t16",
+      "spiel_id": "2026-04-25-atletico-athletic",
+      "markt": "Atlético Doppelte Chance (1X)",
+      "quote": 1.3,
+      "kategorie": "safe",
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "e6",
+      "tipp_id": "t5",
+      "spiel_id": "2026-04-25-koeln-leverkusen",
+      "markt": "Leverkusen Doppelte Chance (X2)",
+      "quote": 1.3,
+      "kategorie": "safe",
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "e7",
+      "tipp_id": "t4",
+      "spiel_id": "2026-04-25-koeln-leverkusen",
+      "markt": "Bayer Leverkusen Sieg",
+      "quote": 1.85,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "e8",
+      "tipp_id": "t12",
+      "spiel_id": "2026-04-25-arsenal-newcastle",
+      "markt": "Arsenal-Newcastle: Mehr als 2.5 Tore",
+      "quote": 1.75,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "e9",
+      "tipp_id": "t14",
+      "spiel_id": "2026-04-25-getafe-barcelona",
+      "markt": "Lewandowski trifft",
+      "quote": 1.85,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "e10",
+      "tipp_id": "t17",
+      "spiel_id": "2026-04-25-atletico-athletic",
+      "markt": "Atlético-Athletic: Weniger als 2.5 Tore",
+      "quote": 1.95,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "e11",
+      "tipp_id": "t18",
+      "spiel_id": "2026-04-25-bologna-roma",
+      "markt": "Roma Doppelte Chance (X2)",
+      "quote": 1.4,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "e12",
+      "tipp_id": "t10",
+      "spiel_id": "2026-04-25-liverpool-cpalace",
+      "markt": "Liverpool: Mehr als 1.5 Tore",
+      "quote": 1.45,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "e13",
+      "tipp_id": "t21",
+      "spiel_id": "2026-04-25-suns-thunder-g3",
+      "markt": "Oklahoma City Thunder Sieg",
+      "quote": 1.55,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "e14",
+      "tipp_id": "t24",
+      "spiel_id": "2026-04-26-hawks-knicks-g4",
+      "markt": "New York Knicks Sieg",
+      "quote": 1.95,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "e15",
+      "tipp_id": "t26",
+      "spiel_id": "2026-04-26-wolves-nuggets-g4",
+      "markt": "Minnesota Timberwolves Sieg",
+      "quote": 1.75,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0
+    }
+  ],
+  "kombis": [
+    {
+      "id": "k_safe",
+      "name": "Safe-Vierer (4 Ligen, keine NBA, keine Player-Props)",
+      "kategorie": "safe",
+      "beine": [
+        {
+          "tipp_id": "t1",
+          "spiel_id": "2026-04-25-mainz-bayern",
+          "markt": "Bayern Sieg",
+          "quote": 1.45
+        },
+        {
+          "tipp_id": "t9",
+          "spiel_id": "2026-04-25-liverpool-cpalace",
+          "markt": "Liverpool Sieg",
+          "quote": 1.3
+        },
+        {
+          "tipp_id": "t13",
+          "spiel_id": "2026-04-25-getafe-barcelona",
+          "markt": "Barcelona DC (X2)",
+          "quote": 1.2
+        },
+        {
+          "tipp_id": "t16",
+          "spiel_id": "2026-04-25-atletico-athletic",
+          "markt": "Atlético DC (1X)",
+          "quote": 1.3
+        }
+      ],
+      "gesamtquote": 2.94,
+      "rechnung": "1.45 × 1.30 × 1.20 × 1.30 = 2.94",
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Vier Top-Klubs aus vier verschiedenen Ligen, alle mit Klassendifferenz oder DC-Absicherung. Keine NBA wegen Sweep-Druck-Lessons. Keine Spielerprops. Ehrliche ~3x — passt zur Safe-Kombi-Anforderung."
+    },
+    {
+      "id": "k_balance",
+      "name": "Balance-Vierer (Sieg + Tor + Top-Liga + NBA Bounce-Back)",
+      "kategorie": "value",
+      "beine": [
+        {
+          "tipp_id": "t11",
+          "spiel_id": "2026-04-25-arsenal-newcastle",
+          "markt": "Arsenal Sieg",
+          "quote": 1.65
+        },
+        {
+          "tipp_id": "t4",
+          "spiel_id": "2026-04-25-koeln-leverkusen",
+          "markt": "Leverkusen Sieg",
+          "quote": 1.85
+        },
+        {
+          "tipp_id": "t17",
+          "spiel_id": "2026-04-25-atletico-athletic",
+          "markt": "Atlético-Athletic U2.5",
+          "quote": 1.95
+        },
+        {
+          "tipp_id": "t26",
+          "spiel_id": "2026-04-26-wolves-nuggets-g4",
+          "markt": "Timberwolves Sieg",
+          "quote": 1.75
+        }
+      ],
+      "gesamtquote": 10.42,
+      "rechnung": "1.65 × 1.85 × 1.95 × 1.75 = 10.42",
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Sieg-Anker + Auswärts-Sieg + Defensiv-Total + NBA-Heim-Sieg. Keine Spieler-Stacks doppelt, keine korrelierten Beine. Ehrliche ~10x."
+    },
+    {
+      "id": "k_risiko",
+      "name": "Risiko-Sechser",
+      "kategorie": "risk",
+      "beine": [
+        {
+          "tipp_id": "t10",
+          "spiel_id": "2026-04-25-liverpool-cpalace",
+          "markt": "Liverpool Mehr als 1.5 Tore",
+          "quote": 1.45
+        },
+        {
+          "tipp_id": "t12",
+          "spiel_id": "2026-04-25-arsenal-newcastle",
+          "markt": "Arsenal-Newcastle Ü2.5 Tore",
+          "quote": 1.75
+        },
+        {
+          "tipp_id": "t14",
+          "spiel_id": "2026-04-25-getafe-barcelona",
+          "markt": "Lewandowski trifft",
+          "quote": 1.85
+        },
+        {
+          "tipp_id": "t18",
+          "spiel_id": "2026-04-25-bologna-roma",
+          "markt": "Roma DC (X2)",
+          "quote": 1.4
+        },
+        {
+          "tipp_id": "t24",
+          "spiel_id": "2026-04-26-hawks-knicks-g4",
+          "markt": "Knicks Sieg",
+          "quote": 1.95
+        },
+        {
+          "tipp_id": "t26",
+          "spiel_id": "2026-04-26-wolves-nuggets-g4",
+          "markt": "Timberwolves Sieg",
+          "quote": 1.75
+        }
+      ],
+      "gesamtquote": 22.55,
+      "rechnung": "1.45 × 1.75 × 1.85 × 1.40 × 1.95 × 1.75 = 22.55",
+      "empfohlener_einsatz_prozent": 0.25,
+      "begruendung": "Sechs Beine, ein Player-Prop (Lewa), zwei NBA-Bounce-Backs. Knicks + Wolves beide must-wins → leichte Korrelation Spielausgang-Druck akzeptabel. Ehrliche ~22x."
+    },
+    {
+      "id": "k_moonshot",
+      "name": "Moonshot",
+      "kategorie": "moonshot",
+      "beine": [
+        {
+          "tipp_id": "m1",
+          "spiel_id": "2026-04-25-mainz-bayern",
+          "markt": "Mainz Doppelte Chance (X2)",
+          "quote": 2.8
+        },
+        {
+          "tipp_id": "m2",
+          "spiel_id": "2026-04-25-koeln-leverkusen",
+          "markt": "1. FC Köln Sieg",
+          "quote": 5.5
+        },
+        {
+          "tipp_id": "m3",
+          "spiel_id": "2026-04-25-arsenal-newcastle",
+          "markt": "Newcastle Sieg",
+          "quote": 5.0
+        },
+        {
+          "tipp_id": "m4",
+          "spiel_id": "2026-04-25-bologna-roma",
+          "markt": "Bologna Sieg",
+          "quote": 3.5
+        },
+        {
+          "tipp_id": "m5",
+          "spiel_id": "2026-04-25-suns-thunder-g3",
+          "markt": "Phoenix Suns Sieg",
+          "quote": 2.4
+        }
+      ],
+      "gesamtquote": 646.8,
+      "rechnung": "2.80 × 5.50 × 5.00 × 3.50 × 2.40 = 646.80",
+      "empfohlener_einsatz_prozent": 0.1,
+      "begruendung": "Lottoschein: Mainz hält Bayern, Köln-Derbysieg, Newcastle-Auswärtscoup im Emirates, Bologna-Heimsieg gegen Roma, Suns-Sweep-Abwehr. Hit-Wahrscheinlichkeit < 1%. Spaßeinsatz 1-2 €."
+    }
+  ],
+  "lessons_angewandt": [
+    "NBA-Player-Props max WACKEL (Booker, Trae, Edwards): alle WACKEL statt VALUE — kein einziger als SAFE/VALUE in Einzeltipps",
+    "G3 mit Sweep-Druck egal welche Seite (Suns 0-2 Heim-Underdog) → Thunder-Sieg max VALUE, nicht SAFE trotz Klassendifferenz",
+    "Knicks-Sieg unter 1-3-Druck VALUE, aber nicht SAFE — Lesson 24.04. Sweep-Abwehr-Heim-Underdog auch für Auswärts-Bounce-Back gefährlich",
+    "SAFE-Reality-Check: Bayern/Liverpool/Arsenal/Barca-DC/Atlético-DC alle mit Klassendifferenz + Topscorer fit + kein Backs-against-the-wall-Underdog",
+    "Keine NBA-Spieler-Props in SAFE-Kombi (Safe-Vierer aus 4 Fußballligen)",
+    "Keine Spielerdopplung über mehrere Kombis — Lewandowski nur in Risiko-Kombi",
+    "Über-Tipp Suns-Thunder begründet mit Lesson 22.04. (Underdog spielt offen, OKC-Pace), nicht blind",
+    "Keine bet365-DE-verbotenen Wetten (keine Eckbälle/Karten/Einzel-Reb-Ast-Stl/PRA-Kombos)"
+  ],
+  "footer": "18+ · BZgA Glücksspielsucht-Hotline: 0800 1372700",
+  "einzeltipps_ergebnis": [
+    {
+      "id": "e1",
+      "tipp_id": "t1",
+      "spiel_id": "2026-04-25-mainz-bayern",
+      "markt": "Bayern München Sieg",
+      "quote": 1.45,
+      "kategorie": "safe",
+      "empfohlener_einsatz_prozent": 1.5,
+      "status": "gewonnen"
+    },
+    {
+      "id": "e2",
+      "tipp_id": "t9",
+      "spiel_id": "2026-04-25-liverpool-cpalace",
+      "markt": "Liverpool Sieg",
+      "quote": 1.3,
+      "kategorie": "safe",
+      "empfohlener_einsatz_prozent": 1.5,
+      "status": "gewonnen"
+    },
+    {
+      "id": "e3",
+      "tipp_id": "t11",
+      "spiel_id": "2026-04-25-arsenal-newcastle",
+      "markt": "Arsenal Sieg",
+      "quote": 1.65,
+      "kategorie": "safe",
+      "empfohlener_einsatz_prozent": 1.5,
+      "status": "gewonnen"
+    },
+    {
+      "id": "e4",
+      "tipp_id": "t13",
+      "spiel_id": "2026-04-25-getafe-barcelona",
+      "markt": "Barcelona Doppelte Chance (X2)",
+      "quote": 1.2,
+      "kategorie": "safe",
+      "empfohlener_einsatz_prozent": 1.5,
+      "status": "gewonnen"
+    },
+    {
+      "id": "e5",
+      "tipp_id": "t16",
+      "spiel_id": "2026-04-25-atletico-athletic",
+      "markt": "Atlético Doppelte Chance (1X)",
+      "quote": 1.3,
+      "kategorie": "safe",
+      "empfohlener_einsatz_prozent": 1.5,
+      "status": "gewonnen"
+    },
+    {
+      "id": "e6",
+      "tipp_id": "t5",
+      "spiel_id": "2026-04-25-koeln-leverkusen",
+      "markt": "Leverkusen Doppelte Chance (X2)",
+      "quote": 1.3,
+      "kategorie": "safe",
+      "empfohlener_einsatz_prozent": 1.5,
+      "status": "gewonnen"
+    },
+    {
+      "id": "e7",
+      "tipp_id": "t4",
+      "spiel_id": "2026-04-25-koeln-leverkusen",
+      "markt": "Bayer Leverkusen Sieg",
+      "quote": 1.85,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0,
+      "status": "gewonnen"
+    },
+    {
+      "id": "e8",
+      "tipp_id": "t12",
+      "spiel_id": "2026-04-25-arsenal-newcastle",
+      "markt": "Arsenal-Newcastle: Mehr als 2.5 Tore",
+      "quote": 1.75,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0,
+      "status": "verloren"
+    },
+    {
+      "id": "e9",
+      "tipp_id": "t14",
+      "spiel_id": "2026-04-25-getafe-barcelona",
+      "markt": "Lewandowski trifft",
+      "quote": 1.85,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0,
+      "status": "verloren"
+    },
+    {
+      "id": "e10",
+      "tipp_id": "t17",
+      "spiel_id": "2026-04-25-atletico-athletic",
+      "markt": "Atlético-Athletic: Weniger als 2.5 Tore",
+      "quote": 1.95,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.5,
+      "status": "verloren"
+    },
+    {
+      "id": "e11",
+      "tipp_id": "t18",
+      "spiel_id": "2026-04-25-bologna-roma",
+      "markt": "Roma Doppelte Chance (X2)",
+      "quote": 1.4,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0,
+      "status": "gewonnen"
+    },
+    {
+      "id": "e12",
+      "tipp_id": "t10",
+      "spiel_id": "2026-04-25-liverpool-cpalace",
+      "markt": "Liverpool: Mehr als 1.5 Tore",
+      "quote": 1.45,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0,
+      "status": "gewonnen"
+    },
+    {
+      "id": "e13",
+      "tipp_id": "t21",
+      "spiel_id": "2026-04-25-suns-thunder-g3",
+      "markt": "Oklahoma City Thunder Sieg",
+      "quote": 1.55,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0,
+      "status": "gewonnen"
+    },
+    {
+      "id": "e14",
+      "tipp_id": "t24",
+      "spiel_id": "2026-04-26-hawks-knicks-g4",
+      "markt": "New York Knicks Sieg",
+      "quote": 1.95,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0,
+      "status": "gewonnen"
+    },
+    {
+      "id": "e15",
+      "tipp_id": "t26",
+      "spiel_id": "2026-04-26-wolves-nuggets-g4",
+      "markt": "Minnesota Timberwolves Sieg",
+      "quote": 1.75,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0,
+      "status": "gewonnen"
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "k_safe",
+      "status": "gewonnen",
+      "gesamtquote": 2.94,
+      "kommentar": "Alle 4 Beine: Bayern Sieg + Liverpool Sieg + Barca DC + Atletico DC. Saubere Safe-Kombi-Trefferquote."
+    },
+    {
+      "kombi_id": "k_balance",
+      "status": "verloren",
+      "gesamtquote": 10.42,
+      "kommentar": "Atletico-Athletic U2.5 verloren (3:2 = 5 Tore). Alle anderen 3 Beine getroffen."
+    },
+    {
+      "kombi_id": "k_risiko",
+      "status": "verloren",
+      "gesamtquote": 22.55,
+      "kommentar": "Arsenal-Newcastle U2.5 (1:0 -> Ue2.5 verloren) + Lewandowski trifft (kein Tor) verloren. 4/6 Beine getroffen."
+    },
+    {
+      "kombi_id": "k_moonshot",
+      "status": "verloren",
+      "gesamtquote": 646.8,
+      "kommentar": "Mainz verlor 3:4, Koeln verlor, Newcastle verlor in Emirates, Bologna verlor 0:2, Suns verloren. 0/5 — komplett gerissen."
+    }
+  ],
+  "ausgewertet_am": "2026-04-26T10:39:52+02:00"
+}

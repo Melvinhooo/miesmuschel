@@ -66,6 +66,12 @@
       "kategorie": "Roster-Verifikation PFLICHT vor Player-Props",
       "lesson": "KRITISCH: Vor JEDEM Spieler-Tipp (Punkte, Tor, DD, TD, Assists fuer Fussball) den aktuellen Kader via WebSearch verifizieren. LLM-Wissen ueber Spieler-Team-Zuordnungen ist oft outdated — Trades passieren mitten in der Saison. Beispiel 25.04.: Tipp 'Trae Young Mehr als 22.5 Pkt' fuer Hawks-Knicks G4 generiert, aber Trae Young wurde am 09.01.2026 zu Washington Wizards getradet (gegen CJ McCollum) UND ist seitdem verletzt (Quadrizeps + Ruecken, fertig fuer 25-26). Hawks-Star ist seit Januar McCollum (32 Pkt G2). Regel: Bei jedem Player-Prop ZUERST: 'Spielt X aktuell fuer Team Y? Ist X fit?' Erst dann Linie pruefen. Diese Lesson ist hoechste Prioritaet — sie betrifft Vertrauen ins ganze Tool.",
       "bezug_spiel_id": "2026-04-25-hawks-knicks-g4"
+    },
+    {
+      "datum": "2026-04-26",
+      "kategorie": "NBA-Playoff-Player-Punkte: Markt-Boykott",
+      "lesson": "HARTE EVIDENZ ueber 4 Spieltage (22.-26.04.): NBA-Playoff-Spielerpunkte/DD haben 5/17 Trefferquote = 29.4%, ROI -46.2% bei 17 Tipps. Selbst als WACKEL gelabelt am 25./26.04. alle 4/4 verloren (Booker 16, McCollum 17, Edwards 5+raus, Brown). Gruende: G3/G4-Defensiv-Adjustments (Knicks neutralisieren McCollum, OKC versperrt Booker), Verletzungspech (Edwards Q2 raus, Booker Knoechel), Blowout-Q4-Bank (Wolves +16). Regel: NBA-Playoff-Player-Punkte/DD ab sofort KOMPLETT aus Einzeltipps streichen. Wenn ueberhaupt — nur als optionales Bein in Risiko/Moonshot-Kombi mit Mini-Einsatz, nie als eigenstaendiger Tipp. Spielergebnis-Markete (Sieg, Spread, Total) sind faktisch +ROI, Player-Punkte ein Verlustbringer.",
+      "bezug_spiel_id": null
     }
   ]
 }
