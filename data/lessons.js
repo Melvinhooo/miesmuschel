@@ -82,6 +82,12 @@ window.__MIESMUSCHEL_LESSONS = {
     },
     {
       "datum": "2026-04-26",
+      "kategorie": "Edge-Strategie: bet365 2:0 + Einwechslung als VALUE-Filter",
+      "lesson": "STRATEGISCHE NUTZUNG der bet365-Sonderregeln (nicht nur defensive Auswertung): (1) Bei BL/CL: Heim-Underdogs gegen Top-Favoriten mit Sieg-Quote 4.0-15.0 sind ueberproportional wertvoll, weil 2:0-Insurance auch bei spaeterer Niederlage zahlt. Suche nach Spielen wo Underdog hohe HZ-Fuehrungs-Wahrscheinlichkeit hat: junges/aggressives Heim-Team + Favorit mit Doppelbelastung (CL/EL Mittwoch/Donnerstag) + Heim-Anfangsphasen-Statistik. Beispiel-Risiko verpasst 25.04.: Mainz Sieg @ ~12.0 gegen Bayern, HZ-Stand 3:0 -> waere ueber 2:0-Regel gewonnen trotz 3:4-Niederlage. (2) Torschuetzen: Spieler mit hoher Quote (10x+) wie Verteidiger/Mittelfeld → IMMER Backup-Stuermer-Qualitaet pruefen. Wenn auf Bank ein Volumen-9er sitzt der oft eingewechselt wird, ist Tipp ueber Einwechslungs-Boost wertvoller als Quote suggeriert. Anekdote: Kim Min-jae als Torschuetze @ 12.0, in Spiel ausgewechselt fuer Gnabry, Gnabry trifft → Tipp gewonnen. ABER: Risiko ist beidseitig — wenn auf Bank kein Volumen-Spieler sitzt, kein Edge. Tipps-Generierung soll diese Muster aktiv suchen, nicht nur defensiv anwenden.",
+      "bezug_spiel_id": "2026-04-25-mainz-bayern"
+    },
+    {
+      "datum": "2026-04-26",
       "kategorie": "bet365 Einwechslungs-Boost bei Torschuetzen (Auswertung + Strategie)",
       "lesson": "BET365-SPEZIFISCH: Bei Torschuetzen-Tipps (Erster/Jederzeit/Letzter/Doppelpack/Hattrick) zaehlen Tore des direkten Ersatzspielers NACH Auswechslung dem urspruenglichen Tipp-Spieler dazu. Beispiel: Fabio Silva (BVB) als Torschuetze getippt, wird in 60. Min fuer Guirassy ausgewechselt, Guirassy trifft -> Silva-Tipp gewonnen. Bei Doppelpack/Hattrick werden Tore beider Spieler summiert (Silva 1x + Guirassy 2x = Hattrick fuer Silva-Tipp). Auswertung: wenn Torschuetzen-Tipp 'offen' ist, IMMER pruefen ob Tipp-Spieler ausgewechselt wurde + Ersatzspieler getroffen hat. Strategie-Implikation: Volumen-Stuermer von Mannschaften mit guten Backup-Stuermern (z.B. Mainz/Stuttgart/Frankfurt mit zweitem Top-9er auf der Bank) sind sicherer als die Quote suggeriert. Lesson hat hoechste Prioritaet bei Torschuetzen-Tipp-Auswertung.",
       "bezug_spiel_id": null
