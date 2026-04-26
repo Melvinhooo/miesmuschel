@@ -69,6 +69,18 @@
     },
     {
       "datum": "2026-04-26",
+      "kategorie": "bet365 2:0-Insurance-Regel (PFLICHT bei Auswertung)",
+      "lesson": "BET365-SPEZIFISCH: Bei direktem Sieg-Tipp (1X2 / Moneyline) auf Mannschaft X gilt der Tipp als GEWONNEN, sobald X im Spiel mindestens 2:0 in Fuehrung lag — egal was danach passiert. Auch wenn das Spiel 4:3 verloren wird, der 2:0-Vorsprung loest die Insurance aus. Gilt NUR fuer: 1. Bundesliga + Champions League. Gilt NUR fuer: direkter Sieg-Tipp. Gilt NICHT fuer: Doppelte Chance, Handicap, Ueber/Unter, Beide treffen, Genaues Ergebnis, Halbzeit-Wetten. Beispiel 25.04.: Mainz 05 fuehrte zur HZ 3:0, verlor 3:4 gegen Bayern - 'Mainz Sieg'-Tipp waere bei bet365 als gewonnen ausgezahlt. Bei Auswertung: wenn HZ-Stand zeigt 2:0+ fuer Sieg-Tipp-Team und Endstand zeigt Niederlage, dann Status 'gewonnen' setzen mit Kommentar '2:0-Insurance'.",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-04-26",
+      "kategorie": "Quoten-Recherche PFLICHT vor Tipp-Generierung",
+      "lesson": "FEHLERMUSTER: Quoten in Tipps oft willkuerlich geschaetzt (z.B. 1.85 angegeben, real bei bet365 1.22). Das verfaelscht Edge-Berechnung und Kasseneinsatz-Empfehlung. Regel: VOR jedem Tipp die Quote auf Aggregator-Seite verifizieren — Oddschecker, Sportsgambler, BetExplorer, Sky Bet (alle haben aktuelle bet365-Quoten). WebSearch: '[Heim] vs [Gast] odds [Datum]' oder direkt WebFetch auf Oddschecker. Wenn Aggregator nicht erreichbar: Quote als 'geschaetzt' markieren mit '~' davor. Niemals SAFE/VALUE-Label vergeben ohne verifizierte Quote, sonst ist Edge-Prozent fiktiv.",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-04-26",
       "kategorie": "NBA-Playoff-Player-Punkte: Markt-Boykott",
       "lesson": "HARTE EVIDENZ ueber 4 Spieltage (22.-26.04.): NBA-Playoff-Spielerpunkte/DD haben 5/17 Trefferquote = 29.4%, ROI -46.2% bei 17 Tipps. Selbst als WACKEL gelabelt am 25./26.04. alle 4/4 verloren (Booker 16, McCollum 17, Edwards 5+raus, Brown). Gruende: G3/G4-Defensiv-Adjustments (Knicks neutralisieren McCollum, OKC versperrt Booker), Verletzungspech (Edwards Q2 raus, Booker Knoechel), Blowout-Q4-Bank (Wolves +16). Regel: NBA-Playoff-Player-Punkte/DD ab sofort KOMPLETT aus Einzeltipps streichen. Wenn ueberhaupt — nur als optionales Bein in Risiko/Moonshot-Kombi mit Mini-Einsatz, nie als eigenstaendiger Tipp. Spielergebnis-Markete (Sieg, Spread, Total) sind faktisch +ROI, Player-Punkte ein Verlustbringer.",
       "bezug_spiel_id": null

@@ -268,20 +268,39 @@ class Spielergebnis:
         return self.status in ("FINISHED", "Final") and self.heim_tore is not None
 
 
-def bewerte_tipp(tipp: dict, heim_name: str, gast_name: str, erg: Spielergebnis) -> dict:
+def bewerte_tipp(tipp: dict, heim_name: str, gast_name: str, erg: Spielergebnis, liga: str = "") -> dict:
     """Liefert {"tipp_id", "status", "gewinn_faktor", "kommentar"}.
 
     status in {"gewonnen", "verloren", "push", "offen"}
     gewinn_faktor: Quote-1 bei gewonnen, -1 bei verloren, 0 bei push/offen
+
+    Beruecksichtigt bet365 2:0-Insurance-Regel:
+    - Nur in 1. Bundesliga + Champions League
+    - Nur fuer direkte Sieg-Tipps (1X2, Heim/Gast Sieg)
+    - Wenn Halbzeitstand 2:0+ fuer Sieg-Tipp-Team, gilt der Tipp als gewonnen
+      auch wenn das Endspiel-Ergebnis eine Niederlage ist.
     """
     tipp_id = tipp.get("id")
     quote   = float(tipp.get("quote") or 0)
     markt   = (tipp.get("markt") or "").lower()
+    liga_l  = (liga or "").lower()
 
-    def won():  return {"tipp_id": tipp_id, "status": "gewonnen", "gewinn_faktor": round(quote - 1, 4), "kommentar": ""}
+    def won(km=""):  return {"tipp_id": tipp_id, "status": "gewonnen", "gewinn_faktor": round(quote - 1, 4), "kommentar": km}
     def lost(): return {"tipp_id": tipp_id, "status": "verloren", "gewinn_faktor": -1.0,              "kommentar": ""}
     def push(): return {"tipp_id": tipp_id, "status": "push",     "gewinn_faktor":  0.0,              "kommentar": ""}
     def offen(k=""): return {"tipp_id": tipp_id, "status": "offen", "gewinn_faktor": 0.0, "kommentar": k or "manuell eintragen"}
+
+    # bet365 2:0-Insurance: gilt nur in 1. Bundesliga + Champions League
+    insurance_ligen = ("bundesliga", "champions league", "uefa champions")
+    is_insurance_liga = any(x in liga_l for x in insurance_ligen) and "2." not in liga_l
+
+    def insurance_check(team_war_heim: bool) -> bool:
+        """True, wenn 2:0-Regel den Sieg-Tipp absichert."""
+        if not is_insurance_liga: return False
+        if erg.ht_heim is None or erg.ht_gast is None: return False
+        if team_war_heim and (erg.ht_heim - erg.ht_gast) >= 2: return True
+        if (not team_war_heim) and (erg.ht_gast - erg.ht_heim) >= 2: return True
+        return False
 
     if not erg.final:
         return offen("Spiel laut API noch nicht final")
@@ -289,12 +308,16 @@ def bewerte_tipp(tipp: dict, heim_name: str, gast_name: str, erg: Spielergebnis)
     h, g = erg.heim_tore, erg.gast_tore
     summe = (h or 0) + (g or 0)
 
-    # 1X2 / Sieg-Tipps
+    # 1X2 / Sieg-Tipps (mit 2:0-Insurance)
     if "sieg" in markt or "1x2" in markt or markt in ("heimsieg", "auswaertssieg"):
         if heim_name.lower() in markt or "heim" in markt:
-            return won() if h > g else lost()
+            if h > g: return won()
+            if insurance_check(team_war_heim=True): return won("2:0-Insurance: Heim fuehrte zur HZ 2:0+, Endstand verloren — bet365 zahlt aus")
+            return lost()
         if gast_name.lower() in markt or "auswaerts" in markt or "gast" in markt:
-            return won() if g > h else lost()
+            if g > h: return won()
+            if insurance_check(team_war_heim=False): return won("2:0-Insurance: Gast fuehrte zur HZ 2:0+, Endstand verloren — bet365 zahlt aus")
+            return lost()
         if "unentschieden" in markt or "remis" in markt or markt.strip() == "x":
             return won() if h == g else lost()
 
@@ -468,7 +491,7 @@ def verarbeite_tag(pfad: Path, config: dict) -> bool:
                 for s in spieler if s["punkte"] > 0
             ]
 
-        ergebnisse = [bewerte_tipp(t, spiel.get("heim",""), spiel.get("gast",""), erg) for t in spiel.get("tipps", [])]
+        ergebnisse = [bewerte_tipp(t, spiel.get("heim",""), spiel.get("gast",""), erg, spiel.get("liga","")) for t in spiel.get("tipps", [])]
         spiel["tipps_ergebnis"] = ergebnisse
         n_gewonnen = sum(1 for e in ergebnisse if e["status"] == "gewonnen")
         n_offen    = sum(1 for e in ergebnisse if e["status"] == "offen")

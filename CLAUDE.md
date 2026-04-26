@@ -57,6 +57,18 @@ Reihenfolge in jeder Sektion: **SAFE → VALUE → WACKEL → RISIKO → MOONSHO
 
 ---
 
+## bet365-spezifische Sonderregeln
+
+### 2:0-Insurance-Regel (WICHTIG bei Auswertung)
+- Bei einem **direkten Sieg-Tipp** (1X2 / Moneyline) auf Mannschaft X gilt der Tipp als **gewonnen**, sobald X im Spiel mind. **2:0** in Führung lag.
+- Egal was danach passiert — auch bei 4:3-Niederlage am Ende, der Tipp ist durch.
+- **Gilt NUR für:** 1. Bundesliga + Champions League
+- **Gilt NUR für:** direkter Sieg-Tipp (Heim oder Gast)
+- **Gilt NICHT für:** Doppelte Chance, Handicap, Über/Unter, BTTS, Genaues Ergebnis, Halbzeit-Wetten
+- Bei Auswertung: wenn Halbzeitstand **2:0+ für Sieg-Tipp-Team** UND Endstand zeigt Niederlage → Status `gewonnen` mit Kommentar `"2:0-Insurance"`.
+
+---
+
 ## Rechtlich (bet365 DE — Stand 2026)
 
 ### Erlaubt
