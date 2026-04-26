@@ -185,6 +185,10 @@ $json = [System.IO.File]::ReadAllText($src, $utf8NoBom)
 - Fußball: Eckbälle, Karten
 - NBA: Einzel-Rebounds, Assists, Steals, Blocks, Turnovers, PRA-Kombos, Pkt+Reb/Ast-Kombos, Einzel-3er
 
+**bet365-Sonderregeln (kennen + anwenden):**
+- **2:0-Insurance:** Direkter Sieg-Tipp in BL/CL gilt als gewonnen, sobald Tipp-Team 2:0 führte (auch bei späterer Niederlage). NICHT für DC/Handicap/U/O. Auswertungs-Skript macht's automatisch über Halbzeitstand.
+- **Einwechslungs-Boost:** Bei Torschützen-Tipps zählen Tore des direkten Ersatzspielers für den Tipp-Spieler. Beispiel: Silva getippt → Silva ausgewechselt → Guirassy trifft → Silva-Tipp gewonnen. Auch bei Doppelpack/Hattrick (Tore werden summiert). Analyse-Task prüft das via WebSearch bei offenen Torschützen-Tipps.
+
 **Einsatz-Limits:**
 - Einzel SAFE/VALUE: 1–2 % Kasse
 - Einzel WACKEL: 0,5–1 %

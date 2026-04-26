@@ -67,6 +67,17 @@ Reihenfolge in jeder Sektion: **SAFE → VALUE → WACKEL → RISIKO → MOONSHO
 - **Gilt NICHT für:** Doppelte Chance, Handicap, Über/Unter, BTTS, Genaues Ergebnis, Halbzeit-Wetten
 - Bei Auswertung: wenn Halbzeitstand **2:0+ für Sieg-Tipp-Team** UND Endstand zeigt Niederlage → Status `gewonnen` mit Kommentar `"2:0-Insurance"`.
 
+### Einwechslungs-Boost bei Torschützen-Tipps (WICHTIG bei Auswertung)
+- Bei Torschützen-Tipps („Spieler X trifft", „Doppelpack X", „Hattrick X") zählen Tore des **direkten Ersatzspielers nach Auswechslung von X** zum Tipp dazu.
+- **Beispiel:** Fabio Silva (Dortmund) als Torschütze getippt → in 60. Min ausgewechselt für Guirassy → Guirassy trifft → der Tipp **„Silva trifft" gilt als gewonnen**.
+- **Bei Doppelpack/Hattrick:** Tore von X + Tore seines Ersatzes werden **summiert**. Beispiel: X trifft 1×, wird ausgewechselt, Y trifft 2× → für „X Hattrick" gewonnen.
+- **Bei Auswertung:** wenn Torschützen-Tipp auf X = noch offen, prüfen:
+  1. Wurde X im Spiel ausgewechselt? Wer kam rein?
+  2. Hat der Ersatzspieler nach Einwechslung getroffen?
+  3. Wenn ja → Status `gewonnen` mit Kommentar `"Einwechslungs-Boost: Tor von [Ersatz] zählt für [X]"`
+- **Gilt für:** alle Torschützen-Märkte bei bet365 (Erster, Jederzeit, Letzter, Doppelpack, Hattrick, 2+ Tore, 3+ Tore)
+- Praktische Implikation: **Volumen-Stürmer von Mannschaften mit Backup-Stürmer-Qualität sind dadurch sicherer als die nominale Quote suggeriert.**
+
 ---
 
 ## Rechtlich (bet365 DE — Stand 2026)
