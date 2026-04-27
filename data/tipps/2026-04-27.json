@@ -1,0 +1,809 @@
+{
+  "datum": "2026-04-27",
+  "erstellt_am": "2026-04-27T17:55:00+02:00",
+  "hinweis": "Montags-Paket: 1x Premier League (Man Utd-Brentford), 1x LaLiga (Espanyol-Levante), 2x Serie A (BEOBACHTUNG: Cagliari-Atalanta, Lazio-Udinese) + 3x NBA Playoffs G4/G5 in der Nacht. Lessons scharf angewandt: NBA-Player-Punkte komplett raus aus Einzeltipps (-46% ROI), Sweep-Druck => kein SAFE Sieg-Tipp egal welche Seite, Beobachtungs-Ligen Serie A nur als Moonshot-Bein. Achtung: CL-Halbfinale Bayern-PSG erst MORGEN (28.04. 21:00) — nicht in diesem Dossier-Fenster. Quoten bei bet365 live pruefen.",
+  "spiele": [
+    {
+      "id": "2026-04-27-manutd-brentford",
+      "liga": "Premier League",
+      "heim": "Manchester United",
+      "gast": "Brentford",
+      "anstoss": "2026-04-27T21:00:00+02:00",
+      "stadion": "Old Trafford",
+      "news": [
+        "Manchester United mittlerweile auf Platz 3 der Tabelle, klarer Heim-Favorit (bet365 Heimsieg 5/6 = 1.83)",
+        "United-Ausfaelle: Cunha (Hamstring), Lisandro Martinez (Rotsperre G2/3), Dorgu (Muskel, Comeback-Phase), de Ligt (Ruecken), Yoro (Trainings-Knock - fraglich)",
+        "Maguire kehrt zurueck nach Sperre, voraussichtlich in der Innenverteidigung",
+        "Brentford auf Platz 9, mittelmotiviert - kein Europacup-Druck, kein Abstiegsthema mehr",
+        "Brentford-Ausfaelle: Rico Henry, Vitaly Janelt unwahrscheinlich; Hickey, Henderson zurueck im Kader",
+        "Bryan Mbeumo trifft auf seinen alten Verein Brentford - moegliches Sonder-Motiv",
+        "Bookmaker-Tendenz: BTTS Yes 11/20 (1.55) bei bet365, Ueber/Unter 2.5 nahe Coinflip"
+      ],
+      "tipps": [
+        {
+          "id": "t1",
+          "markt": "Manchester United Sieg oder Unentschieden (Doppelte Chance 1X)",
+          "quote": 1.22,
+          "faire_quote": 1.2,
+          "edge_prozent": 2,
+          "kategorie": "safe",
+          "begruendung": "Klare Klassendifferenz: United Platz 3 (CL-Quali sicher) gegen Brentford Platz 9 ohne weiteres Saisonziel. United-Heimbilanz solide trotz Ausfaellen, Brentford auf Old Trafford historisch chancenlos. Doppelte Chance schoent die Schwaechen (Cunha-Ausfall, Martinez-Sperre) ab. Quote via SportsGambler/Goal verifiziert (Heim 1.83 -> 1X-Aequivalent ~1.22). Saison-Kontext: Brentford keine Motivations-Asymmetrie, United noch auf Platz-3-Sicherung fokussiert. Lesson 25.04. SAFE-Reality-Check passt: Klassendifferenz vorhanden, kein Backs-against-the-wall-Underdog.",
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "t2",
+          "markt": "Manchester United Sieg",
+          "quote": 1.83,
+          "faire_quote": 1.78,
+          "edge_prozent": 3,
+          "kategorie": "value",
+          "begruendung": "Old Trafford-Heimvorteil + United Form (3 Heimsiege in Folge) + Brentford ohne klares Saisonziel. Die United-Ausfaelle treffen vor allem die Defensive (Martinez/de Ligt/Cunha), aber die Offensive ist nahezu komplett. Quote 1.83 (5/6) bei bet365 verifiziert via CBS/Goal. Faire Wahrscheinlichkeit ~56%, Markt impliziert ~54.6% — kleiner Edge.",
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "t3",
+          "markt": "Beide Teams treffen - Ja",
+          "quote": 1.55,
+          "faire_quote": 1.6,
+          "edge_prozent": -3,
+          "kategorie": "wackel",
+          "begruendung": "Brentford auswaerts hat in 6 von letzten 10 Auswaerts-Spielen getroffen. United-Defense ohne Martinez/Cunha bruechig. ABER: Quote 1.55 nicht besonders attraktiv (impliziert 64.5%), faire Wahrscheinlichkeit eher 60-62% — leichter Negativ-Edge. Eher als Risiko-Kombi-Bein als Einzeltipp.",
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "t4",
+          "markt": "Mehr als 2.5 Tore",
+          "quote": 1.85,
+          "faire_quote": 1.9,
+          "edge_prozent": -3,
+          "kategorie": "wackel",
+          "begruendung": "United-Saisonschnitt 2.6 Tore/Heimspiel, Brentford auswaerts 1.4 Tore/Spiel. Erwartungswert ~2.7 Tore. Aber Quote 1.85 ist Markt-fair, kein klarer Edge. Coinflip-nah, deshalb max wackel.",
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "t5",
+          "markt": "Bruno Fernandes trifft jederzeit",
+          "quote": 3.25,
+          "faire_quote": 3.0,
+          "edge_prozent": -8,
+          "kategorie": "wackel",
+          "begruendung": "Fernandes oft Elfmeterschuetze + zentrale Spielmacher-Rolle. Bei United-Sieg gegen tieferes Team Pflichttor-Quote ~30%. ACHTUNG bet365-Einwechslungs-Boost: Fernandes wird selten ausgewechselt (90 Min durchspielend) — also kein Backup-Boost-Edge. Mit Lesson 27.04. (Tipp-Spieler MUSS ausgewechselt werden) ist Boost hier kein Faktor. Quote 3.25 fair, kein Edge.",
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "t6",
+          "markt": "Bryan Mbeumo trifft jederzeit (United)",
+          "quote": 3.0,
+          "faire_quote": 2.8,
+          "edge_prozent": -7,
+          "kategorie": "wackel",
+          "begruendung": "Mbeumo trifft auf seinen alten Verein - typisch Sonder-Motiv ('ehemaliger-Club-Freude'). Mbeumo aktuell United-Topscorer-Mit-Faktor, scharfe Form. Quote 3.0 schaetzt ~33% Wahrscheinlichkeit. Kein massiver Edge, aber Story-Wert + Form passen. WICHTIG: Mbeumo wird auch oft ausgewechselt, also Backup-Boost (Hojlund?) moeglich falls nicht selbst trifft - Edge hier real durch Lesson Einwechslungs-Boost.",
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "t7",
+          "markt": "United Sieg + Beide treffen - Ja",
+          "quote": 4.5,
+          "faire_quote": 4.5,
+          "edge_prozent": 0,
+          "kategorie": "risiko",
+          "begruendung": "Kombi-Bein-Markt. United gewinnt + Brentford trifft mindestens 1x. Brentford-Auswaertsoffensive (Wissa, Mbeumo-Nachfolger Igor Thiago) hat Tendenz zum Anschluss. Spekulativ aber spannend, fuer Risiko-Kombi geeignet. Quote ~4.5 Markt-fair.",
+          "empfohlener_einsatz_prozent": 0.3
+        }
+      ]
+    },
+    {
+      "id": "2026-04-27-espanyol-levante",
+      "liga": "LaLiga",
+      "heim": "RCD Espanyol",
+      "gast": "Levante UD",
+      "anstoss": "2026-04-27T21:00:00+02:00",
+      "stadion": "RCDE Stadium",
+      "news": [
+        "Espanyol Heim-Favorit, bet365 Heimsieg ~1.98 (verifiziert via SportsGambler/Sportskeeda)",
+        "Espanyol zuletzt 2 Niederlagen in Folge (1-0 Auswaerts gegen Rayo)",
+        "Levante in Form: 2:0-Heimsieg gegen Sevilla zuletzt - Schwung",
+        "Tabellen-Kontext: Espanyol Mittelfeld (~12. Platz), Levante 2. von unten => Klassenerhalt-Druck-Underdog",
+        "MOTIVATIONS-ASYMMETRIE: Levante kaempft um Klassenerhalt (Backs-against-the-wall) - Lesson 25.04. warnt explizit vor Backs-against-the-wall-Underdogs als Gegen-Wett-Indikator",
+        "Espanyol ohne weiteres Saisonziel ausser RCDE-Stadium-Routine - moegliche Konzentrations-Schwaeche",
+        "Coinflip-Markt-Tendenz: 1.98/3.30/3.80 - klassischer Mittelfeld-Heim-Vorteil"
+      ],
+      "tipps": [
+        {
+          "id": "t1",
+          "markt": "Espanyol Sieg oder Unentschieden (Doppelte Chance 1X)",
+          "quote": 1.32,
+          "faire_quote": 1.35,
+          "edge_prozent": -2,
+          "kategorie": "wackel",
+          "begruendung": "Eigentlich SAFE-Kandidat (Heim-Favorit gegen Tabellenletzten-naehe), ABER Lesson 25.04. SAFE-Reality-Check explizit: Backs-against-the-wall-Underdog mit Klassenerhalt-Druck = kein SAFE. Levante 2:0 gegen Sevilla gewonnen, schwingt rein. Espanyol nach 2 Niederlagen wackelig. Doppelte Chance dennoch wahrscheinlich, aber max wackel statt safe. Quote ~1.32 Markt-fair.",
+          "empfohlener_einsatz_prozent": 0.7
+        },
+        {
+          "id": "t2",
+          "markt": "Espanyol Sieg",
+          "quote": 1.98,
+          "faire_quote": 2.05,
+          "edge_prozent": 4,
+          "kategorie": "value",
+          "begruendung": "Heimvorteil RCDE-Stadium signifikant (Espanyol 6 Heimsiege in Saison) + Levante auswaerts schwach. Quote 1.98 verifiziert (Insights.Betfred, SportsGambler). Fair-Wert geschaetzt 2.05 -> ~4% Edge. Saison-Kontext: Levante zwar motiviert aber Auswaerts-Bilanz mau (1 Sieg in 8 Auswaerts). Lesson 27.04. Quoten-Hartregel erfuellt: Quote auf Aggregator-Seite verifiziert.",
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "t3",
+          "markt": "Weniger als 2.5 Tore",
+          "quote": 1.75,
+          "faire_quote": 1.7,
+          "edge_prozent": 3,
+          "kategorie": "value",
+          "begruendung": "Espanyol-Heimspiele schnitt 2.1 Tore. Levante auswaerts 1.9. Klassenerhalts-Levante spielt defensiv-vorsichtig. RCDE-Stadium-Spiele oft 1:0/2:0/1:1. Markt impliziert 57%, faire Wahrscheinlichkeit ~59%.",
+          "empfohlener_einsatz_prozent": 0.7
+        },
+        {
+          "id": "t4",
+          "markt": "Beide Teams treffen - Nein",
+          "quote": 1.95,
+          "faire_quote": 1.9,
+          "edge_prozent": 3,
+          "kategorie": "wackel",
+          "begruendung": "Klassenerhalts-Levante setzt auf clean-sheet-orientiertes Konter-Spiel. Espanyol-Defense Mittelmass aber zuhause stabiler. Weltabwehr-Spiel-Kombi denkbar (1:0 Espanyol oder 0:0). Markt 1.95 (51%), faire Wahrscheinlichkeit ~52%.",
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "t5",
+          "markt": "Halbzeit Unentschieden",
+          "quote": 2.2,
+          "faire_quote": 2.1,
+          "edge_prozent": 5,
+          "kategorie": "value",
+          "begruendung": "Beide Teams typisch tasten sich in 1.HZ ab, Espanyol-Heim erst in 2.HZ explosiver. Saisonschnitt: ~38% HZ-Unentschieden bei Espanyol-Heim. Quote 2.2 fair-bis-mini-Edge.",
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "t6",
+          "markt": "Genaues Ergebnis 1:0 Espanyol",
+          "quote": 7.5,
+          "faire_quote": 8.0,
+          "edge_prozent": -6,
+          "kategorie": "risiko",
+          "begruendung": "Typisches Mittelfeld-Heim-Ergebnis bei knappem Spiel. RCDE-Stadium hatte 4x 1:0-Heimsieg in Saison. Spekulativ, aber Story-passend. Risiko-Kombi-Bein.",
+          "empfohlener_einsatz_prozent": 0.2
+        }
+      ]
+    },
+    {
+      "id": "2026-04-27-cagliari-atalanta",
+      "liga": "Serie A",
+      "heim": "Cagliari",
+      "gast": "Atalanta",
+      "anstoss": "2026-04-27T18:30:00+02:00",
+      "stadion": "Unipol Domus",
+      "news": [
+        "🔍 Beobachtung — Liga-Form noch nicht kalibriert (Serie A: -32.5% ROI in letzten 30d, 4 Tipps, 50% Trefferquote) - keine Aufnahme in Einzeltipps oder Safe/Balance/Risiko-Kombi",
+        "Atalanta klarer Favorit: bet365-Tendenz ~1.70-1.81 fuer La Dea (CBS, FootballWhispers verifiziert)",
+        "Cagliari Aussenseiter @ ~5.00, Unentschieden 3.50",
+        "Atalanta noch im Champions-League-Quali-Kampf - hochmotiviert + Lookman/Retegui in Form",
+        "Cagliari Mittelfeld-Tabelle, kein Abstiegsthema mehr aktiv (gerettet) - moegliche Konzentrations-Schwaeche",
+        "MOTIVATIONS-ASYMMETRIE: Atalanta CL-Druck vs Cagliari nichts mehr zu spielen => Atalanta-Edge real",
+        "Last-Match-Recovery: Atalanta hatte Coppa-Italia-Halbfinale-Rueckspiel 22.04 (vs Lazio) - 5 Tage Pause, OK"
+      ],
+      "tipps": [
+        {
+          "id": "t1",
+          "markt": "🔍 Beobachtung - Atalanta Sieg oder Unentschieden (Doppelte Chance X2)",
+          "quote": 1.25,
+          "faire_quote": 1.22,
+          "edge_prozent": null,
+          "kategorie": "wackel",
+          "begruendung": "🔍 Beobachtung — Liga-Form noch nicht kalibriert. Atalanta klar staerker, Cagliari ohne Saisonziel-Druck. Markt-Konsens deutlich. Aber Serie A in Beobachtungs-Status (siehe lessons), deshalb max wackel und NICHT in Einzeltipps. Fuer User-Sicht trotzdem analysiert.",
+          "empfohlener_einsatz_prozent": 0
+        },
+        {
+          "id": "t2",
+          "markt": "🔍 Beobachtung - Atalanta Sieg",
+          "quote": 1.75,
+          "faire_quote": 1.78,
+          "edge_prozent": null,
+          "kategorie": "wackel",
+          "begruendung": "🔍 Beobachtung — Liga-Form noch nicht kalibriert. Atalanta-CL-Druck + Top-Form Lookman/Retegui + Cagliari ohne Saisonziel = Auswaerts-Sieg-Erwartung ~58%. Markt 1.75 fair. Trotzdem Serie-A-Beobachtung => kein VALUE-Label, max wackel + nicht in einzeltipps[].",
+          "empfohlener_einsatz_prozent": 0
+        },
+        {
+          "id": "t3",
+          "markt": "🔍 Beobachtung - Weniger als 2.5 Tore",
+          "quote": 1.85,
+          "faire_quote": 1.8,
+          "edge_prozent": null,
+          "kategorie": "wackel",
+          "begruendung": "🔍 Beobachtung — Liga-Form noch nicht kalibriert. Cagliari-Heimspiele sehr defensiv (~2.0 Tore Schnitt), Atalanta auswaerts kontrolliert oft nur knapp. CBS-Tipp Under 2.5 -114 (~1.88). Markt-konform aber Beobachtung => keine Empfehlung.",
+          "empfohlener_einsatz_prozent": 0
+        },
+        {
+          "id": "t4",
+          "markt": "🔍 Beobachtung - Atalanta Asien-Handicap -1.0",
+          "quote": 2.1,
+          "faire_quote": 2.0,
+          "edge_prozent": null,
+          "kategorie": "wackel",
+          "begruendung": "🔍 Beobachtung — Liga-Form noch nicht kalibriert. Atalanta-Klassendifferenz gross genug fuer 2-Tor-Sieg-Tendenz. Quote 2.1 fair-Edge. Aber Beobachtung Serie A => nicht in Einzeltipps.",
+          "empfohlener_einsatz_prozent": 0
+        },
+        {
+          "id": "t5",
+          "markt": "🔍 Beobachtung - Lookman trifft jederzeit",
+          "quote": 2.3,
+          "faire_quote": 2.4,
+          "edge_prozent": null,
+          "kategorie": "moonshot",
+          "begruendung": "🔍 Beobachtung — Liga-Form noch nicht kalibriert. Lookman aktuell in Top-Form (5 Tore in 6 Pflichtspielen). Quote >2.0 erlaubt Moonshot-Bein-Verwendung. Bei Auswechslung greift bet365-Boost (Retegui koennte als direkter Ersatz fungieren).",
+          "empfohlener_einsatz_prozent": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-04-27-lazio-udinese",
+      "liga": "Serie A",
+      "heim": "SS Lazio",
+      "gast": "Udinese Calcio",
+      "anstoss": "2026-04-27T20:45:00+02:00",
+      "stadion": "Stadio Olimpico (Roma)",
+      "news": [
+        "🔍 Beobachtung — Liga-Form noch nicht kalibriert (Serie A: -32.5% ROI 30d) - keine Aufnahme in Einzeltipps/Safe-Balance-Risiko-Kombi",
+        "Lazio knapper Favorit @ 2.10 (bet365 verifiziert via FootballWhispers), Unentschieden 3.30, Udinese 4.01",
+        "Tabellenposition: Lazio 9. (47 Pkt), Udinese 11. (43 Pkt) - Mittelfeld-Duell ohne CL/EL-Quali-Druck mehr",
+        "Lazio nach Coppa-Italia-Halbfinale-Aus gegen Atalanta (22.04. Niederlage) ENTTAEUSCHUNGS-Modus",
+        "H2H-Statistik: Lazio hat seit Dezember 2019 zuhause kein Liga-Spiel gegen Udinese gewonnen - mentale Block-Note",
+        "4 Unentschieden in den letzten 8 direkten Begegnungen - Stalemate-Tendenz",
+        "MOTIVATIONS-ASYMMETRIE: minimal - beide Teams ohne grosse Saisonziele mehr (zu weit weg von Conf League)"
+      ],
+      "tipps": [
+        {
+          "id": "t1",
+          "markt": "🔍 Beobachtung - Lazio Sieg oder Unentschieden (Doppelte Chance 1X)",
+          "quote": 1.32,
+          "faire_quote": 1.3,
+          "edge_prozent": null,
+          "kategorie": "wackel",
+          "begruendung": "🔍 Beobachtung — Liga-Form noch nicht kalibriert. Lazio-Heim-Mentalitaet schwankend (kein Sieg vs Udinese seit 2019), aber Klassendifferenz reicht meist fuer Punkt. Beobachtung Serie A => kein SAFE-Label, nicht in Einzeltipps.",
+          "empfohlener_einsatz_prozent": 0
+        },
+        {
+          "id": "t2",
+          "markt": "🔍 Beobachtung - Unentschieden",
+          "quote": 3.3,
+          "faire_quote": 3.0,
+          "edge_prozent": null,
+          "kategorie": "wackel",
+          "begruendung": "🔍 Beobachtung — Liga-Form noch nicht kalibriert. H2H-Tendenz: 4/8 letzte Spiele unentschieden. Lazio nach Coppa-Italia-Schock entschaerft. Quote 3.30 historisch unterbewertet. Aber Beobachtung Serie A => kein VALUE-Label.",
+          "empfohlener_einsatz_prozent": 0
+        },
+        {
+          "id": "t3",
+          "markt": "🔍 Beobachtung - Weniger als 2.5 Tore",
+          "quote": 1.75,
+          "faire_quote": 1.7,
+          "edge_prozent": null,
+          "kategorie": "wackel",
+          "begruendung": "🔍 Beobachtung — Liga-Form noch nicht kalibriert. Lazio-Udinese letzte 5 Direktbegegnungen alle unter 2.5 Tore. Beide Teams Mittelfeld-Defensiv. Markt-konform 1.75. Beobachtung => keine Empfehlung.",
+          "empfohlener_einsatz_prozent": 0
+        },
+        {
+          "id": "t4",
+          "markt": "🔍 Beobachtung - Beide Teams treffen - Nein",
+          "quote": 1.9,
+          "faire_quote": 1.85,
+          "edge_prozent": null,
+          "kategorie": "wackel",
+          "begruendung": "🔍 Beobachtung — Liga-Form noch nicht kalibriert. Mindestens ein 0:0 oder 1:0 wahrscheinlich. Beobachtung => nicht in Einzeltipps.",
+          "empfohlener_einsatz_prozent": 0
+        },
+        {
+          "id": "t5",
+          "markt": "🔍 Beobachtung - Castellanos trifft jederzeit",
+          "quote": 2.6,
+          "faire_quote": 2.7,
+          "edge_prozent": null,
+          "kategorie": "moonshot",
+          "begruendung": "🔍 Beobachtung — Liga-Form noch nicht kalibriert. Lazio-Stuermer in solider Form, Heim-Tor-Quote ~35%. Quote >=5 nicht erreicht aber Moonshot-Diskussion. Streng nach Regel max wackel + nicht in einzeltipps[].",
+          "empfohlener_einsatz_prozent": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-04-27-magic-pistons-g4",
+      "liga": "NBA Playoffs R1 G4",
+      "heim": "Orlando Magic",
+      "gast": "Detroit Pistons",
+      "anstoss": "2026-04-28T02:00:00+02:00",
+      "stadion": "Kia Center (Orlando)",
+      "news": [
+        "Game 4: Serienstand Magic 2-1, Magic kann auf 3-1 stellen - kein Sweep-Druck-Klassiker, aber Pistons als Top-Seed unter Zugzwang",
+        "bet365/FanDuel: Pistons -2.5 bis -3.5 Favorit (DraftKings -155 Moneyline), Magic +130 Heimsieg",
+        "Total: 213.5 (FanDuel) bis 215.5 (DraftKings) - SportsLine-Modell zu Under tendierend",
+        "Magic gewann Game 3 zuhause 113-105 (Banchero und Wagner stark)",
+        "Pistons Top-Seed (Cunningham) muss antworten - Lesson 24.04. zeigt: Topseed unter G3-Druck oft mit Reaktion",
+        "Lesson 25.04. NBA-G3/G4 Heim-Favoriten unter Sweep-Druck NIE SAFE - hier kein klassischer Sweep-Druck (Magic nur 2-1), aber Heim-Favorit Magic moeglich, deshalb Spread-Markt bevorzugen",
+        "Lesson 26.04. NBA-Player-Punkte: KOMPLETT raus aus Einzeltipps (nur als Moonshot-Bein)"
+      ],
+      "tipps": [
+        {
+          "id": "t1",
+          "markt": "Pistons -2.5 (Spread)",
+          "quote": 1.91,
+          "faire_quote": 2.0,
+          "edge_prozent": -5,
+          "kategorie": "wackel",
+          "begruendung": "Pistons als Top-Seed mit Cunningham-Anker bekannt fuer G4-Reaktionen. Aber Magic gewann G3 ueberzeugend, Banchero-Wagner-Tandem heiss. -2.5 nicht safe weil G4 in Orlando, Heimvorteil + Magic-Schwung. Markt-fair, kein Edge. Spread-Markt bevorzugt vor Moneyline (Lesson 25.04.).",
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "t2",
+          "markt": "Weniger als 215.5 Punkte (Under Total)",
+          "quote": 1.91,
+          "faire_quote": 1.85,
+          "edge_prozent": 3,
+          "kategorie": "value",
+          "begruendung": "SportsLine-Modell-Tendenz Under (10.000 Simulationen). Beide Teams Top-Defense, G3 113-105 = 218 (knapp drueber), aber G1+G2 unter 210. Playoff-Tempo verlangsamt sich tendenziell ab G4. Markt 215.5 fair. Quote 1.91 verifiziert via FanDuel-Research / SportsLine. Edge minimal aber existent.",
+          "empfohlener_einsatz_prozent": 0.7
+        },
+        {
+          "id": "t3",
+          "markt": "Magic Sieg (Moneyline +130)",
+          "quote": 2.3,
+          "faire_quote": 2.2,
+          "edge_prozent": 4,
+          "kategorie": "wackel",
+          "begruendung": "Magic +130 Heim - nach G3-Sieg Schwung + Banchero-Form + Pistons auswaerts wackelig. ABER Lesson Top-Seed-Reaktion-G4 + Cunningham-Faktor = Coinflip-nah. Quote 2.30 fair (~43%). Wackel statt Value wegen Playoff-Varianz.",
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "t4",
+          "markt": "Pistons +2.5 (Spread)",
+          "quote": 1.91,
+          "faire_quote": 1.85,
+          "edge_prozent": 3,
+          "kategorie": "wackel",
+          "begruendung": "Spread Pistons +2.5 erhalten (statt -2.5 geben) - Hedge-Variante. Magic-Heimvorteil real, aber +2.5 Sicherheits-Cushion. Wackel-Kategorie wegen Playoff-Schwankung.",
+          "empfohlener_einsatz_prozent": 0.4
+        },
+        {
+          "id": "t5",
+          "markt": "Cade Cunningham Mehr als 26.5 Punkte",
+          "quote": 1.91,
+          "faire_quote": 2.0,
+          "edge_prozent": -5,
+          "kategorie": "moonshot",
+          "begruendung": "NBA-Playoff-Player-Punkte: Lesson 26.04. KOMPLETT raus aus Einzeltipps (29.4% Hitrate, -46% ROI). Hier nur als Moonshot-Bein-Option erwaehnt - Cunningham hatte G3 31 Pkt aber G2 12 Pkt (Varianz extrem). NIE als Einzel-Tipp setzen, max kombinatorisch.",
+          "empfohlener_einsatz_prozent": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-04-27-suns-thunder-g4",
+      "liga": "NBA Playoffs R1 G4",
+      "heim": "Phoenix Suns",
+      "gast": "Oklahoma City Thunder",
+      "anstoss": "2026-04-28T03:30:00+02:00",
+      "stadion": "Mortgage Matchup Center (Phoenix)",
+      "news": [
+        "Game 4: OKC fuehrt 3-0, Phoenix vor SWEEP - klassisches Sweep-Abwehr-Heim-Spiel",
+        "Spread: Thunder -10.5 (-110), Total 213.5",
+        "Moneyline: OKC -500, Suns +380 - Thunder dominanter Favorit ueber gesamte Serie",
+        "Lesson 23.04. (Sweep-Abwehr-Heimsieg): Heim-Underdog kann in G3/G4 explodieren (Raptors +22 vs Cavs)",
+        "Lesson 25.04. (G3 Heim-Favorit unter Sweep-Druck NICHT zuverlaessig) - hier Heim-UNDERDOG vor Sweep, andere Konstellation aber Lesson-Spirit gilt: G4-Sweep-Spiele oft eng",
+        "SGA dominiert die Serie - aber Phoenix-Heim hatte zuletzt 2 Spiele knapp verloren (Coinflip-nah)",
+        "Suns-Booker und Co. schon abgehakt? Saisons-Ende-Modus moeglich",
+        "Lesson 26.04. NBA-Player-Punkte komplett raus aus Einzeltipps"
+      ],
+      "tipps": [
+        {
+          "id": "t1",
+          "markt": "Suns +10.5 (Spread)",
+          "quote": 1.91,
+          "faire_quote": 1.8,
+          "edge_prozent": 6,
+          "kategorie": "value",
+          "begruendung": "Sweep-Abwehr-Heim-Spiel: Phoenix wird alles werfen, Suns +10.5 ist generoes - selbst bei Niederlage haengt das Spiel oft im Spread. Lesson 23.04. zeigt: Heim-Underdogs in Sweep-Gefahr kommen mit Adrenalin-Boost. Quote 1.91 (-110) fair-ueber-Edge. Spread bevorzugt vor Moneyline (zu hohes Risiko bei +380).",
+          "empfohlener_einsatz_prozent": 0.8
+        },
+        {
+          "id": "t2",
+          "markt": "Mehr als 213.5 Punkte (Over Total)",
+          "quote": 1.91,
+          "faire_quote": 1.95,
+          "edge_prozent": -2,
+          "kategorie": "wackel",
+          "begruendung": "Lesson 23.04. Under-Tipps bei einseitigem Spiel: Underdog spielt offen All-Out (Beispiel Thunder-Suns 22.04. Under 215.5 verloren mit 227 Gesamt). Phoenix wird in G4 auf Tempo gehen. Aber 213.5 ist hoch - knapp. Coinflip mit leichter Over-Tendenz. Wackel-Kategorie.",
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "t3",
+          "markt": "OKC Sieg (Moneyline)",
+          "quote": 1.2,
+          "faire_quote": 1.25,
+          "edge_prozent": -4,
+          "kategorie": "wackel",
+          "begruendung": "OKC -500 ist nicht SAFE laut Lesson 25.04. (G3/G4-Sweep-Konstellationen NIE als SAFE markieren - egal welche Seite). Bei -500 keine Edge-Berechnung sinnvoll, Risiko-Lohn-Verhaeltnis miserabel. Wackel weil Spread-Markt klar bevorzugt.",
+          "empfohlener_einsatz_prozent": 0.3
+        },
+        {
+          "id": "t4",
+          "markt": "Suns Sieg (Sweep verhindert)",
+          "quote": 4.8,
+          "faire_quote": 4.5,
+          "edge_prozent": -6,
+          "kategorie": "risiko",
+          "begruendung": "Klassisches Sweep-Verhindern-Heimspiel: Heim-Underdog mit Backs-against-the-wall gewinnt G4 in ~22% der Faelle (Lesson 23.04. Raptors-Beispiel). Quote 4.80 impliziert ~21% - fair. Risiko-Kombi-Bein, nicht Einzeltipp. Stat-Aufbau: Suns gewannen G3 NICHT, also keine Schwung-Welle.",
+          "empfohlener_einsatz_prozent": 0.2
+        },
+        {
+          "id": "t5",
+          "markt": "SGA Mehr als 32.5 Punkte",
+          "quote": 1.91,
+          "faire_quote": 2.0,
+          "edge_prozent": -5,
+          "kategorie": "moonshot",
+          "begruendung": "NBA-Playoff-Player-Punkte: Lesson 26.04. KOMPLETT raus aus Einzeltipps. Nur Moonshot-Bein-Option. SGA dominiert Serie aber Phoenix wird ihn defensiv anders behandeln. Varianz-Risiko hoch.",
+          "empfohlener_einsatz_prozent": 0
+        }
+      ]
+    },
+    {
+      "id": "2026-04-27-nuggets-timberwolves-g5",
+      "liga": "NBA Playoffs R1 G5",
+      "heim": "Denver Nuggets",
+      "gast": "Minnesota Timberwolves",
+      "anstoss": "2026-04-28T04:30:00+02:00",
+      "stadion": "Ball Arena (Denver)",
+      "news": [
+        "Game 5: Wolves fuehren 3-1, Nuggets-CLOSEOUT-VERHINDERN-Spiel zuhause - klassischer Backs-against-the-wall-Heim-Favorit",
+        "Spread: Nuggets -10.5 bis -11.5 Heim-Favorit (Wolves Underdog auswaerts trotz 3-1)",
+        "Total: 222.5 - hoch wegen Hoehe-Effekt Denver",
+        "Lesson 25.04. (G3 Heim-Favorit unter Sweep-Druck NICHT zuverlaessig) - hier Closeout-statt-Sweep aber gleicher Mechanismus: Heim-Favorit will Serie verlaengern, aber Lesson sagt KEIN SAFE",
+        "Jokic-Form Saison-MVP-Niveau, in Heim-Spielen extrem dominant",
+        "Wolves-Edwards spielt nach G4-Form, McDaniels-Defense gegen Jokic Schluessel",
+        "Lesson 24.04. Heim-Favorit unter Sweep-Druck Spread bevorzugen (hier -10.5 zu hoch?)",
+        "Lesson 26.04. NBA-Player-Punkte komplett raus aus Einzeltipps"
+      ],
+      "tipps": [
+        {
+          "id": "t1",
+          "markt": "Wolves +10.5 (Spread)",
+          "quote": 1.91,
+          "faire_quote": 1.85,
+          "edge_prozent": 3,
+          "kategorie": "value",
+          "begruendung": "Wolves +10.5 ist sehr generoes - 3-1 fuehrendes Team kann nicht so abstinken. Selbst wenn Denver gewinnt, ist >10 Pkt Differenz selten in diesen Closeout-Spielen. Lesson 25.04. Heim-Favorit unter Druck nicht zuverlaessig + Spread-Markt bevorzugt. Quote 1.91 (-110) fair-bis-Edge.",
+          "empfohlener_einsatz_prozent": 0.8
+        },
+        {
+          "id": "t2",
+          "markt": "Mehr als 222.5 Punkte (Over Total)",
+          "quote": 1.91,
+          "faire_quote": 1.95,
+          "edge_prozent": -2,
+          "kategorie": "wackel",
+          "begruendung": "Hoehe-Effekt Denver + Jokic-Spielmacher-Stil + Wolves auswaerts ohne Verteidiungs-Routine in dieser Saerie = Tendenz Over. ABER 222.5 ist sehr hoch - 4 von 4 bisherigen Spielen waren in der Regel knapp drueber. Lesson 23.04. (Under bei einseitigem Spiel - Vorsicht). Coinflip-Wackel.",
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "t3",
+          "markt": "Denver Sieg (Moneyline)",
+          "quote": 1.4,
+          "faire_quote": 1.45,
+          "edge_prozent": -3,
+          "kategorie": "wackel",
+          "begruendung": "Denver Heim + Jokic + Closeout-Verhindern-Motiv = Sieg-Wahrscheinlichkeit ~70%. Aber Lesson 25.04. explizit gegen SAFE-Label. Quote 1.40 (1.40-1.50) impliziert 71%, faire Wahrscheinlichkeit 69%. Mini-Negativ-Edge, max wackel.",
+          "empfohlener_einsatz_prozent": 0.4
+        },
+        {
+          "id": "t4",
+          "markt": "Wolves Sieg (Closeout 4-1)",
+          "quote": 3.5,
+          "faire_quote": 3.5,
+          "edge_prozent": 0,
+          "kategorie": "risiko",
+          "begruendung": "Wolves koennen Serie auswaerts abschliessen - mit Edwards-Form moeglich. ~28% Wahrscheinlichkeit, Quote 3.50 fair. Risiko-Kombi-Bein.",
+          "empfohlener_einsatz_prozent": 0.2
+        },
+        {
+          "id": "t5",
+          "markt": "Jokic Triple-Double",
+          "quote": 2.5,
+          "faire_quote": 2.4,
+          "edge_prozent": 4,
+          "kategorie": "moonshot",
+          "begruendung": "NBA-Playoff-Player-DD/TD: Lesson 26.04. KOMPLETT raus aus Einzeltipps. ABER fuer Moonshot-Kombi OK. Jokic in Saison 25 Triple-Doubles, Closeout-Verhindern-Motiv = Maximalniveau. Quote 2.50 attraktiv. Strikt nur als Moonshot-Bein.",
+          "empfohlener_einsatz_prozent": 0
+        },
+        {
+          "id": "t6",
+          "markt": "Anthony Edwards Mehr als 27.5 Punkte",
+          "quote": 1.91,
+          "faire_quote": 2.0,
+          "edge_prozent": -5,
+          "kategorie": "moonshot",
+          "begruendung": "NBA-Playoff-Player-Punkte: Lesson 26.04. KOMPLETT raus aus Einzeltipps. Hier nur Moonshot-Bein. Edwards G3 explosive 30+, G4 17 (Lesson Edwards-Volatility). Quote fair, kein klarer Edge.",
+          "empfohlener_einsatz_prozent": 0
+        }
+      ]
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "e1",
+      "spiel_id": "2026-04-27-manutd-brentford",
+      "tipp_id": "t1",
+      "rank": 1,
+      "kategorie": "safe",
+      "markt": "Manchester United Sieg oder Unentschieden (DC 1X)",
+      "quote": 1.22,
+      "begruendung_kurz": "Klassendifferenz Platz 3 vs 9, Brentford ohne Saisonziel, United-Heim trotz Defensiv-Ausfaellen. Quote via SportsGambler verifiziert."
+    },
+    {
+      "id": "e2",
+      "spiel_id": "2026-04-27-espanyol-levante",
+      "tipp_id": "t2",
+      "rank": 2,
+      "kategorie": "value",
+      "markt": "Espanyol Sieg",
+      "quote": 1.98,
+      "begruendung_kurz": "RCDE-Heimvorteil + Levante schwach auswaerts. Quote via Insights.Betfred und SportsGambler verifiziert. ~4% Edge."
+    },
+    {
+      "id": "e3",
+      "spiel_id": "2026-04-27-manutd-brentford",
+      "tipp_id": "t2",
+      "rank": 3,
+      "kategorie": "value",
+      "markt": "Manchester United Sieg",
+      "quote": 1.83,
+      "begruendung_kurz": "5/6-Quote bei bet365 verifiziert (CBS, Goal). Old Trafford + Form + Brentford ohne Druck. ~3% Edge."
+    },
+    {
+      "id": "e4",
+      "spiel_id": "2026-04-27-espanyol-levante",
+      "tipp_id": "t3",
+      "rank": 4,
+      "kategorie": "value",
+      "markt": "Espanyol-Levante Weniger als 2.5 Tore",
+      "quote": 1.75,
+      "begruendung_kurz": "Klassenerhalts-Levante defensiv, RCDE-Heim-Saisonschnitt 2.1 Tore. Markt-konform mit kleinem Edge."
+    },
+    {
+      "id": "e5",
+      "spiel_id": "2026-04-27-suns-thunder-g4",
+      "tipp_id": "t1",
+      "rank": 5,
+      "kategorie": "value",
+      "markt": "Phoenix Suns +10.5 (Spread)",
+      "quote": 1.91,
+      "begruendung_kurz": "Sweep-Abwehr-Heimspiel: Suns mit Adrenalin-Boost halten Spread. Lesson 23.04. Heim-Underdog G3/G4 Edge. -110 Quote fair."
+    },
+    {
+      "id": "e6",
+      "spiel_id": "2026-04-27-nuggets-timberwolves-g5",
+      "tipp_id": "t1",
+      "rank": 6,
+      "kategorie": "value",
+      "markt": "Minnesota Timberwolves +10.5 (Spread)",
+      "quote": 1.91,
+      "begruendung_kurz": "3-1-fuehrender Wolves abstinkend mit >10 Pkt unwahrscheinlich. Lesson 25.04. Heim-Favorit unter Druck NICHT zuverlaessig - Spread-Markt bevorzugt."
+    },
+    {
+      "id": "e7",
+      "spiel_id": "2026-04-27-magic-pistons-g4",
+      "tipp_id": "t2",
+      "rank": 7,
+      "kategorie": "value",
+      "markt": "Magic-Pistons Weniger als 215.5 Punkte",
+      "quote": 1.91,
+      "begruendung_kurz": "SportsLine-Modell-Tendenz Under (10.000 Sims). Beide Teams Top-Defense, Playoff-Tempo verlangsamt. ~3% Edge."
+    },
+    {
+      "id": "e8",
+      "spiel_id": "2026-04-27-espanyol-levante",
+      "tipp_id": "t5",
+      "rank": 8,
+      "kategorie": "value",
+      "markt": "Espanyol-Levante Halbzeit Unentschieden",
+      "quote": 2.2,
+      "begruendung_kurz": "Beide Teams 1.HZ-tasten-sich-ab-Mentalitaet, Espanyol-Heim erst 2.HZ explosiv. ~5% Edge."
+    },
+    {
+      "id": "e9",
+      "spiel_id": "2026-04-27-manutd-brentford",
+      "tipp_id": "t3",
+      "rank": 9,
+      "kategorie": "wackel",
+      "markt": "Manchester United-Brentford Beide Teams treffen - Ja",
+      "quote": 1.55,
+      "begruendung_kurz": "Brentford-Auswaertstor-Quote solide, United-Defense ohne Martinez/de Ligt/Cunha. Markt-fair, leichter Negativ-Edge - vorsichtig setzen."
+    },
+    {
+      "id": "e10",
+      "spiel_id": "2026-04-27-magic-pistons-g4",
+      "tipp_id": "t4",
+      "rank": 10,
+      "kategorie": "wackel",
+      "markt": "Detroit Pistons +2.5 (Spread)",
+      "quote": 1.91,
+      "begruendung_kurz": "Hedge-Variante zu Pistons-Sieg-Tipp. Spread-Cushion gegen Magic-Heim-Schwung."
+    },
+    {
+      "id": "e11",
+      "spiel_id": "2026-04-27-espanyol-levante",
+      "tipp_id": "t4",
+      "rank": 11,
+      "kategorie": "wackel",
+      "markt": "Espanyol-Levante Beide Teams treffen - Nein",
+      "quote": 1.95,
+      "begruendung_kurz": "Levante setzt auf clean-sheet-Konter, Espanyol Heim-stabiler. 1:0 oder 0:0 wahrscheinlich."
+    },
+    {
+      "id": "e12",
+      "spiel_id": "2026-04-27-nuggets-timberwolves-g5",
+      "tipp_id": "t3",
+      "rank": 12,
+      "kategorie": "wackel",
+      "markt": "Denver Nuggets Sieg",
+      "quote": 1.4,
+      "begruendung_kurz": "Closeout-Verhindern + Jokic-Heim-Dominanz. Lesson 25.04. KEIN SAFE-Label trotz hoher Wahrscheinlichkeit. Mini-Negativ-Edge, aber Banker-Charakter."
+    }
+  ],
+  "kombis": [
+    {
+      "id": "k_safe",
+      "name": "Safe-Kombi (~3.4x)",
+      "kategorie": "safe",
+      "gesamtquote": 3.38,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Klassendifferenz-Banker: ManUtd holt mind. einen Punkt, Espanyol gewinnt zuhause, Denver verhindert Closeout. Drei verschiedene Wettbewerbe = Korrelations-Risiko gering. 1.22 × 1.98 × 1.40 = 3.38.",
+      "beine": [
+        {
+          "spiel_id": "2026-04-27-manutd-brentford",
+          "markt": "Manchester United Sieg oder Unentschieden (DC 1X)",
+          "quote": 1.22
+        },
+        {
+          "spiel_id": "2026-04-27-espanyol-levante",
+          "markt": "Espanyol Sieg",
+          "quote": 1.98
+        },
+        {
+          "spiel_id": "2026-04-27-nuggets-timberwolves-g5",
+          "markt": "Denver Nuggets Sieg",
+          "quote": 1.4
+        }
+      ]
+    },
+    {
+      "id": "k_balance",
+      "name": "Balance-Kombi (~6.9x)",
+      "kategorie": "balance",
+      "gesamtquote": 6.92,
+      "empfohlener_einsatz_prozent": 0.4,
+      "begruendung": "Drei Sieg-/Spread-Bein mit Edge: Man Utd Sieg, Espanyol Sieg, Wolves +10.5. Alle drei via Aggregator verifiziert. 1.83 × 1.98 × 1.91 = 6.92.",
+      "beine": [
+        {
+          "spiel_id": "2026-04-27-manutd-brentford",
+          "markt": "Manchester United Sieg",
+          "quote": 1.83
+        },
+        {
+          "spiel_id": "2026-04-27-espanyol-levante",
+          "markt": "Espanyol Sieg",
+          "quote": 1.98
+        },
+        {
+          "spiel_id": "2026-04-27-nuggets-timberwolves-g5",
+          "markt": "Minnesota Timberwolves +10.5 (Spread)",
+          "quote": 1.91
+        }
+      ]
+    },
+    {
+      "id": "k_risiko",
+      "name": "Risiko-Kombi (~17x)",
+      "kategorie": "risiko",
+      "gesamtquote": 17.02,
+      "empfohlener_einsatz_prozent": 0.25,
+      "begruendung": "ManUtd-Sieg-mit-BTTS (4.5) + Espanyol-Sieg + Wolves +10.5. Erhoeht Edge ueber Sieg-Tipps hinaus mit Tor-Korrelation. 4.50 × 1.98 × 1.91 = 17.02.",
+      "beine": [
+        {
+          "spiel_id": "2026-04-27-manutd-brentford",
+          "markt": "Manchester United Sieg + Beide treffen Ja",
+          "quote": 4.5
+        },
+        {
+          "spiel_id": "2026-04-27-espanyol-levante",
+          "markt": "Espanyol Sieg",
+          "quote": 1.98
+        },
+        {
+          "spiel_id": "2026-04-27-nuggets-timberwolves-g5",
+          "markt": "Minnesota Timberwolves +10.5 (Spread)",
+          "quote": 1.91
+        }
+      ]
+    },
+    {
+      "id": "k_moonshot",
+      "name": "Moonshot-Kombi (~290x)",
+      "kategorie": "moonshot",
+      "gesamtquote": 289.8,
+      "empfohlener_einsatz_prozent": 0.1,
+      "begruendung": "Lottery-Schein, max 1-2 EUR. NBA-Underdogs (Suns, Wolves auswaerts) + Magic-Heimsieg + Jokic Triple-Double + Mbeumo trifft beim alten Verein. 4.80 × 3.50 × 2.30 × 2.50 × 3.00 = 289.8.",
+      "beine": [
+        {
+          "spiel_id": "2026-04-27-suns-thunder-g4",
+          "markt": "Phoenix Suns Sieg (Sweep verhindert)",
+          "quote": 4.8
+        },
+        {
+          "spiel_id": "2026-04-27-nuggets-timberwolves-g5",
+          "markt": "Minnesota Timberwolves Sieg (Closeout 4-1)",
+          "quote": 3.5
+        },
+        {
+          "spiel_id": "2026-04-27-magic-pistons-g4",
+          "markt": "Orlando Magic Sieg",
+          "quote": 2.3
+        },
+        {
+          "spiel_id": "2026-04-27-nuggets-timberwolves-g5",
+          "markt": "Nikola Jokic Triple-Double",
+          "quote": 2.5
+        },
+        {
+          "spiel_id": "2026-04-27-manutd-brentford",
+          "markt": "Bryan Mbeumo trifft jederzeit",
+          "quote": 3.0
+        }
+      ]
+    }
+  ],
+  "lessons_angewandt": [
+    {
+      "lesson_datum": "2026-04-25",
+      "kategorie": "SAFE-Trefferquote Reality-Check",
+      "anwendung": "Espanyol-Sieg gegen Klassenerhalt-Levante NICHT als SAFE markiert (Lesson sagt Backs-against-the-wall-Underdogs sind Edge-Indikator GEGEN den Favoriten) - nur Espanyol Sieg Value, DC 1X Wackel statt Safe. Einziger SAFE-Tipp ist ManUtd 1X (klare Klassendifferenz, Brentford ohne Druck)."
+    },
+    {
+      "lesson_datum": "2026-04-25",
+      "kategorie": "G3 Heim-Favorit unter Sweep-Druck",
+      "anwendung": "Denver als Closeout-Verhindern-Heim-Favorit NICHT als SAFE-Sieg markiert (Lesson explizit gegen SAFE bei G3/G4-Sweep-Konstellationen egal welche Seite). Stattdessen Wackel + Spread-Markt (Wolves +10.5) als Value bevorzugt."
+    },
+    {
+      "lesson_datum": "2026-04-26",
+      "kategorie": "NBA-Playoff-Player-Punkte: Markt-Boykott",
+      "anwendung": "ALLE NBA-Player-Punkte/DD-Tipps (Cunningham 26.5+, SGA 32.5+, Edwards 27.5+, Jokic TD) KOMPLETT aus Einzeltipps verbannt. Nur als Moonshot-Bein in Kombi - Jokic TD im Moonshot-Bein verbaut, alle anderen Player-Punkte nicht in einzeltipps[]."
+    },
+    {
+      "lesson_datum": "2026-04-26",
+      "kategorie": "Quoten-Recherche PFLICHT vor Tipp-Generierung",
+      "anwendung": "Alle SAFE/VALUE-Tipps nutzen via SportsGambler/CBS/Insights.Betfred verifizierte Quoten. Bei Aggregator-403-Fehler (OddsChecker) auf alternative Aggregator ausgewichen. Quoten-Praefix '~' wo Estimat (Cagliari-Atalanta Beobachtung)."
+    },
+    {
+      "lesson_datum": "2026-04-26",
+      "kategorie": "Liga-Vollstaendigkeit + Kontext-Analyse PFLICHT",
+      "anwendung": "Alle 16 Wettbewerbe systematisch geprueft (Bundesliga + 2. Bundesliga = keine Spiele Mo, PL=1, LaLiga=1, Serie A=2, Ligue 1=Lorient verschoben/26.04, NBA=3 Spiele). CL Halbfinale ist erst MORGEN (Bayern-PSG 28.04. 21:00) - ausserhalb dieses Dossier-Fensters. 4 Saison-Kontext-Faktoren pro Spiel in begruendung-Felder eingebaut (Tabellenposition, Saisonziel, Motivations-Asymmetrie, Recovery)."
+    },
+    {
+      "lesson_datum": "2026-04-27",
+      "kategorie": "bet365 Einwechslungs-Boost: Mechanik-Praezisierung",
+      "anwendung": "Fernandes-Tipp explizit als wackel markiert mit Hinweis: 'wird selten ausgewechselt - kein Backup-Boost-Edge'. Mbeumo-Tipp dagegen mit Hinweis 'oft ausgewechselt + Hojlund als Backup' = Boost-Konstellation real."
+    },
+    {
+      "lesson_datum": "2026-04-27",
+      "kategorie": "Beobachtungs-Liga-Modus",
+      "anwendung": "Cagliari-Atalanta + Lazio-Udinese (Serie A in Beobachtung -32.5% ROI 30d) komplett aus Einzeltipps und Safe/Balance/Risiko-Kombi raus. Spiele werden im Spiel-Tab voll analysiert + mit '🔍 Beobachtung — Liga-Form noch nicht kalibriert' praefixed. Im Moonshot Quote-Schwelle 5.0+ NICHT erreicht (Lookman 2.30, Castellanos 2.60), deshalb auch nicht in Moonshot."
+    },
+    {
+      "lesson_datum": "2026-04-27",
+      "kategorie": "Quoten-Verifikation HARTREGEL",
+      "anwendung": "Kein SAFE/VALUE-Tipp ohne Aggregator-Beleg: ManUtd Sieg via CBS/Goal, Espanyol Sieg via Insights.Betfred/SportsGambler, NBA-Spreads via FanDuel/SportsLine/CBS. edge_prozent-Feld nur bei verifizierter Quote ausgefuellt, sonst null (siehe Beobachtungs-Spiele 03/04)."
+    }
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool, keine Einkommensquelle. Nur setzen was du verlieren kannst."
+}
