@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-04-27T17:33:44+02:00",
+  "letzte_berechnung": "2026-04-27T17:42:33+02:00",
   "gesamt": {
     "tipps": 65,
     "gewonnen": 39,
@@ -855,5 +855,21 @@ window.__MIESMUSCHEL_STAT = {
       "trefferquote": 100.0,
       "roi_prozent": 100.0
     }
+  },
+  "clv_gesamt": {
+    "gesamt": {
+      "n": 0,
+      "durchschnitt": 0.0,
+      "median": 0.0
+    },
+    "nach_liga": {}
+  },
+  "clv_30_tage": {
+    "gesamt": {
+      "n": 0,
+      "durchschnitt": 0.0,
+      "median": 0.0
+    },
+    "nach_liga": {}
   }
 };

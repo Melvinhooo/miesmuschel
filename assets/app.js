@@ -43,6 +43,39 @@ function showSection(id, btn) {
   if (id === 'historie') renderHistorie();
 }
 
+/* ---- Dynamischer Header + Footer aus aktuellem tipps.json ---- */
+(function renderHeaderAndFooter() {
+  const data = window.__MIESMUSCHEL_TIPPS;
+  if (!data) return;
+
+  const subtitle   = document.getElementById('header-subtitle');
+  const dateLine   = document.getElementById('header-dateline');
+  const footerMeta = document.getElementById('footer-meta');
+
+  const n_spiele = (data.spiele || []).length;
+  const n_einzel = (data.einzeltipps || []).length;
+  const n_kombi  = (data.kombis || []).length;
+
+  if (subtitle) {
+    subtitle.textContent =
+      `Tipp-Dossier ${data.datum || ''} · bet365 DE · ${n_spiele} Spiele · ${n_einzel} Einzeltipps · ${n_kombi} Kombis`;
+  }
+
+  if (dateLine && data.datum) {
+    const d = new Date(data.datum + 'T12:00:00');
+    const wochentage = ['Sonntag','Montag','Dienstag','Mittwoch','Donnerstag','Freitag','Samstag'];
+    const monate = ['Januar','Februar','März','April','Mai','Juni','Juli','August','September','Oktober','November','Dezember'];
+    let txt = `🗓️ ${wochentage[d.getDay()]}, ${d.getDate()}. ${monate[d.getMonth()]} ${d.getFullYear()}`;
+    if (data.hinweis) txt += ` · ${data.hinweis}`;
+    dateLine.textContent = txt;
+  }
+
+  if (footerMeta) {
+    footerMeta.textContent =
+      `Dossier ${data.datum || ''} · ${n_spiele} Spiele · ${n_einzel} Einzeltipps · ${n_kombi} Kombi-Stufen · Bleib ehrlich mit dir 🍀`;
+  }
+})();
+
 /* ---- Risiko-Kombi-Tabs ---- */
 function showRisk(id, tab) {
   document.querySelectorAll('.risk-content').forEach(c => c.classList.remove('active'));

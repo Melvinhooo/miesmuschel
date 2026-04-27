@@ -35,6 +35,13 @@ DATA_LES_JSON  = ROOT / "data" / "lessons.json"
 DATA_STAT_JSON = ROOT / "data" / "statistik.json"
 DATA_STAT_JS   = ROOT / "data" / "statistik.js"
 DATA_LES_JS    = ROOT / "data" / "lessons.js"
+DATA_BEOB_JSON = ROOT / "data" / "beobachtungs_ligen.json"
+
+# Beobachtungs-Liga-Schwellen
+BEOB_MIN_TIPPS = 4
+BEOB_MAX_ROI   = -30.0   # ROI schlechter als -30% -> Beobachtung
+BEOB_EXIT_ROI  = -10.0   # ROI besser als -10% -> raus aus Beobachtung
+POKAL_MARKER   = ("pokal", "cup", "copa", "coppa", "coupe")
 
 
 # =========================================================================
@@ -121,6 +128,11 @@ def lade_entries() -> list[dict]:
             )
             status = (erg_eintrag or {}).get("status") or et.get("status") or "offen"
             gewinn = float((erg_eintrag or {}).get("gewinn_faktor") or 0.0)
+            clv = (erg_eintrag or {}).get("clv_prozent")
+            try:
+                clv_val = float(clv) if clv is not None else None
+            except (ValueError, TypeError):
+                clv_val = None
             entries.append({
                 "datum":     datum,
                 "liga":      spiel.get("liga", "?"),
@@ -129,8 +141,69 @@ def lade_entries() -> list[dict]:
                 "kategorie": (tipp.get("kategorie") or "?").lower(),
                 "status":    status,
                 "gewinn":    gewinn,
+                "clv":       clv_val,
             })
     return entries
+
+
+def berechne_beobachtungs_ligen(entries: list[dict], ab_datum: str) -> list[dict]:
+    """Findet Ligen mit rolling 30d ROI < BEOB_MAX_ROI bei mind. BEOB_MIN_TIPPS Tipps.
+    Pokale werden ausgeschlossen.
+    """
+    by_liga: dict[str, dict] = {}
+    for e in entries:
+        if e["datum"] < ab_datum:
+            continue
+        liga = e["liga"] or "?"
+        if liga not in by_liga:
+            by_liga[liga] = make_group()
+        update_group(by_liga[liga], e["status"], e["gewinn"])
+
+    beobachtung: list[dict] = []
+    for liga, g in by_liga.items():
+        finalize(g)
+        if any(p in liga.lower() for p in POKAL_MARKER):
+            continue
+        if g["tipps"] >= BEOB_MIN_TIPPS and g["roi_prozent"] < BEOB_MAX_ROI:
+            beobachtung.append({
+                "liga":              liga,
+                "tipps_30d":         g["tipps"],
+                "roi_30d_prozent":   g["roi_prozent"],
+                "trefferquote_30d":  g["trefferquote"],
+                "netto_30d":         g["netto"],
+            })
+    return sorted(beobachtung, key=lambda x: x["roi_30d_prozent"])
+
+
+def clv_aggregat(entries: list[dict], ab_datum: str | None = None) -> dict:
+    """Aggregiert CLV-Werte ueber alle Tipps mit clv-Wert."""
+    werte: list[float] = []
+    by_liga: dict[str, list[float]] = {}
+    for e in entries:
+        if ab_datum and e["datum"] < ab_datum:
+            continue
+        if e.get("clv") is None:
+            continue
+        werte.append(e["clv"])
+        liga = e["liga"] or "?"
+        by_liga.setdefault(liga, []).append(e["clv"])
+
+    def stats(vals: list[float]) -> dict:
+        if not vals:
+            return {"n": 0, "durchschnitt": 0.0, "median": 0.0}
+        s = sorted(vals)
+        n = len(s)
+        med = s[n // 2] if n % 2 else (s[n // 2 - 1] + s[n // 2]) / 2
+        return {
+            "n":             n,
+            "durchschnitt":  round(sum(vals) / len(vals), 2),
+            "median":        round(med, 2),
+        }
+
+    return {
+        "gesamt":    stats(werte),
+        "nach_liga": {liga: stats(vals) for liga, vals in by_liga.items()},
+    }
 
 
 # =========================================================================
@@ -189,6 +262,9 @@ def main() -> int:
     agg_30     = aggregiere(entries, c30)
     agg_90     = aggregiere(entries, c90)
 
+    clv_gesamt = clv_aggregat(entries)
+    clv_30d    = clv_aggregat(entries, c30)
+
     stat = {
         "letzte_berechnung": datetime.now(timezone.utc).astimezone().isoformat(timespec="seconds"),
         "gesamt":            gesamt_agg["gesamt"],
@@ -198,7 +274,22 @@ def main() -> int:
         "nach_markt":        gesamt_agg["nach_markt"],
         "nach_quoten_range": gesamt_agg["nach_quoten_range"],
         "nach_kategorie":    gesamt_agg["nach_kategorie"],
+        "clv_gesamt":        clv_gesamt,
+        "clv_30_tage":       clv_30d,
     }
+
+    # Beobachtungs-Liga-Liste schreiben (separates File, von Tipps-Routinen gelesen)
+    beob_ligen = berechne_beobachtungs_ligen(entries, c30)
+    beob_payload = {
+        "stand":                datetime.now(timezone.utc).astimezone().isoformat(timespec="seconds"),
+        "kriterium":            f"rolling 30 Tage ROI < {BEOB_MAX_ROI}% bei min. {BEOB_MIN_TIPPS} Tipps",
+        "ausstiegs_kriterium":  f"rolling 30 Tage ROI > {BEOB_EXIT_ROI}% -> Liga wieder voll bespielbar",
+        "ligen":                beob_ligen,
+    }
+    DATA_BEOB_JSON.write_text(
+        json.dumps(beob_payload, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
 
     # Rohdaten (maschinen-lesbar)
     DATA_STAT_JSON.write_text(
@@ -233,9 +324,12 @@ def main() -> int:
     print(f"     -> {DATA_STAT_JSON}")
     print(f"     -> {DATA_STAT_JS}")
     print(f"     -> {DATA_LES_JS}")
+    print(f"     -> {DATA_BEOB_JSON} ({len(beob_ligen)} Beobachtungs-Liga(s))")
     if entries:
         g = stat["gesamt"]
         print(f"     Gesamt: {g['tipps']} Tipps, Trefferquote {g['trefferquote']}%, ROI {g['roi_prozent']:+.1f}%")
+        if clv_gesamt["gesamt"]["n"] > 0:
+            print(f"     CLV (n={clv_gesamt['gesamt']['n']}): Durchschnitt {clv_gesamt['gesamt']['durchschnitt']:+.2f}%")
     return 0
 
 

@@ -1,0 +1,21 @@
+{
+  "stand": "2026-04-27T17:42:33+02:00",
+  "kriterium": "rolling 30 Tage ROI < -30.0% bei min. 4 Tipps",
+  "ausstiegs_kriterium": "rolling 30 Tage ROI > -10.0% -> Liga wieder voll bespielbar",
+  "ligen": [
+    {
+      "liga": "2. Bundesliga",
+      "tipps_30d": 5,
+      "roi_30d_prozent": -40.0,
+      "trefferquote_30d": 60.0,
+      "netto_30d": -2.0
+    },
+    {
+      "liga": "Serie A",
+      "tipps_30d": 4,
+      "roi_30d_prozent": -32.5,
+      "trefferquote_30d": 50.0,
+      "netto_30d": -1.3
+    }
+  ]
+}
