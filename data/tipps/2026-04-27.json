@@ -844,5 +844,6 @@
       "anwendung_heute": "Pro Spiel die 4 Faktoren in 'news' eingeflossen: parallele Wettbewerbe, Saisonziel/Tabellenposition, Motivations-Asymmetrie, Recovery/Belastung. Beste Anwendung bei PSG-Bayern (Bayern Doppelbelastung Pokal+Liga) und Man Utd-Brentford (CL-Quali vs Mittelfeld-Spielbetrieb)."
     }
   ],
-  "footer": "18+ · BZgA Glücksspielsucht-Hotline: 0800 1372700 · Hobby-Tool, keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
+  "footer": "18+ · BZgA Glücksspielsucht-Hotline: 0800 1372700 · Hobby-Tool, keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "_test_trigger": "github_actions_test"
 }
