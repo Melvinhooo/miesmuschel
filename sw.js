@@ -3,7 +3,7 @@
  * So hast du offline die letzte App-Version + die letzten Daten.
  */
 
-const CACHE = 'miesmuschel-v2';
+const CACHE = 'miesmuschel-v3';
 const SHELL = [
   './',
   './index.html',
@@ -51,5 +51,37 @@ self.addEventListener('fetch', event => {
       caches.open(CACHE).then(c => c.put(req, clone));
       return res;
     }))
+  );
+});
+
+// Web Push: Notification anzeigen wenn ein Push reinkommt
+self.addEventListener('push', event => {
+  let data = { title: '🐚 Magische Miesmuschel', body: 'Update verfuegbar', url: '/' };
+  if (event.data) {
+    try { data = Object.assign(data, event.data.json()); }
+    catch (e) { data.body = event.data.text(); }
+  }
+  event.waitUntil(
+    self.registration.showNotification(data.title, {
+      body: data.body,
+      icon: 'assets/icon.svg',
+      badge: 'assets/icon.svg',
+      tag: data.tag || 'miesmuschel',
+      data: { url: data.url || '/' }
+    })
+  );
+});
+
+// Klick auf die Notification: PWA oeffnen / fokussieren
+self.addEventListener('notificationclick', event => {
+  event.notification.close();
+  const targetUrl = (event.notification.data && event.notification.data.url) || '/';
+  event.waitUntil(
+    clients.matchAll({ type: 'window', includeUncontrolled: true }).then(list => {
+      for (const c of list) {
+        if (c.url.includes(targetUrl) && 'focus' in c) return c.focus();
+      }
+      if (clients.openWindow) return clients.openWindow(targetUrl);
+    })
   );
 });

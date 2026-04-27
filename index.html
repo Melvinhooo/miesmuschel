@@ -1312,6 +1312,18 @@ Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress �
 <footer>
 <div class="shell" style="font-size:2em;">🐚</div>
 <div style="font-family:'Fraunces',serif; font-size:1.2em; color:#e89dd6; margin:10px 0;">Magische Miesmuschel</div>
+
+<!-- Push-Notification-Button -->
+<div style="margin:14px 0;">
+  <button id="push-btn" onclick="window.miesmuschelPushSubscribe()" style="background:linear-gradient(135deg,#9c27b0,#e89dd6);color:#fff;border:none;padding:10px 18px;border-radius:24px;font-family:'JetBrains Mono',monospace;font-size:0.9em;cursor:pointer;box-shadow:0 2px 8px rgba(156,39,176,0.4);">🔔 Push aktivieren</button>
+  <div id="push-status" style="margin-top:8px;font-size:0.8em;color:#8fb4d8;"></div>
+  <div id="push-subscription" style="display:none;margin-top:14px;text-align:left;">
+    <div style="color:#ffd700;font-size:0.85em;margin-bottom:6px;">📋 Subscription-Code (an Claude im Chat senden):</div>
+    <textarea id="push-sub-text" readonly style="width:100%;height:120px;background:rgba(0,0,0,0.5);color:#3ec98a;border:1px solid #9c27b0;border-radius:6px;padding:8px;font-family:'JetBrains Mono',monospace;font-size:0.7em;"></textarea>
+    <button onclick="window.miesmuschelPushCopy()" style="margin-top:6px;background:#3ec98a;color:#001f3f;border:none;padding:6px 14px;border-radius:16px;font-family:'JetBrains Mono',monospace;font-size:0.8em;cursor:pointer;">📋 Kopieren</button>
+  </div>
+</div>
+
 <div class="footer-warn">18+ · bet365 DE · Hobby-Wetten</div>
 <div>Sucht-Hilfe BZgA: <span class="bzga">0800 1372700</span></div>
 <div style="margin-top:12px; font-size:0.85em;">Dossier 22.04.2026 · 7 Spiele · 10 Einzeltipps · 4 Risiko-Stufen · Bleib ehrlich mit dir 🍀</div>
@@ -1324,5 +1336,82 @@ Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress �
 <script src="data/statistik.js"></script>
 <script src="data/lessons.js"></script>
 <script src="assets/app.js"></script>
+
+<!-- Web-Push-Subscribe-Logik -->
+<script>
+(function(){
+  const VAPID_PUBLIC = 'BGRHNXEZffoJW9Rq--Fxf4sProWUziGTTvyLq9KlxDetD2qoYqwGhy_xNkovgEgiOvTeM2ABjzaYyOv0PbzcHds';
+  const btn = document.getElementById('push-btn');
+  const status = document.getElementById('push-status');
+  const subBox = document.getElementById('push-subscription');
+  const subText = document.getElementById('push-sub-text');
+
+  function urlBase64ToUint8Array(b64){
+    const pad = '='.repeat((4 - b64.length % 4) % 4);
+    const norm = (b64 + pad).replace(/-/g,'+').replace(/_/g,'/');
+    const raw = atob(norm);
+    const out = new Uint8Array(raw.length);
+    for (let i=0;i<raw.length;i++) out[i] = raw.charCodeAt(i);
+    return out;
+  }
+
+  function setStatus(msg, color){
+    status.textContent = msg;
+    if (color) status.style.color = color;
+  }
+
+  // Beim Laden: Status prüfen
+  if (!('serviceWorker' in navigator) || !('PushManager' in window)){
+    btn.disabled = true; btn.style.opacity = '0.5';
+    setStatus('Dein Browser unterstuetzt keine Push-Notifications.', '#ffa94d');
+    return;
+  }
+
+  navigator.serviceWorker.ready.then(reg => reg.pushManager.getSubscription()).then(sub => {
+    if (sub){
+      btn.textContent = '🔔 Push aktiv ✓';
+      btn.style.background = 'linear-gradient(135deg,#3ec98a,#2a9e6a)';
+      setStatus('Du bekommst Notifications wenn neue Tipps oder Auswertungen reinkommen.', '#3ec98a');
+      subText.value = JSON.stringify(sub.toJSON(), null, 2);
+      subBox.style.display = 'block';
+    }
+  }).catch(()=>{});
+
+  window.miesmuschelPushSubscribe = async function(){
+    try {
+      setStatus('Frage iOS um Erlaubnis...', '#ffd700');
+      const perm = await Notification.requestPermission();
+      if (perm !== 'granted'){
+        setStatus('Erlaubnis abgelehnt. Schalte Notifications in iOS-Einstellungen an, dann Seite neu laden.', '#e84545');
+        return;
+      }
+      const reg = await navigator.serviceWorker.ready;
+      const sub = await reg.pushManager.subscribe({
+        userVisibleOnly: true,
+        applicationServerKey: urlBase64ToUint8Array(VAPID_PUBLIC)
+      });
+      btn.textContent = '🔔 Push aktiv ✓';
+      btn.style.background = 'linear-gradient(135deg,#3ec98a,#2a9e6a)';
+      setStatus('Geschafft! Kopier den Code unten und schick ihn Claude im Chat.', '#3ec98a');
+      subText.value = JSON.stringify(sub.toJSON(), null, 2);
+      subBox.style.display = 'block';
+    } catch(e){
+      setStatus('Fehler: ' + (e.message || e), '#e84545');
+      console.error(e);
+    }
+  };
+
+  window.miesmuschelPushCopy = async function(){
+    try {
+      await navigator.clipboard.writeText(subText.value);
+      setStatus('In die Zwischenablage kopiert. Jetzt im Claude-Chat einfuegen.', '#3ec98a');
+    } catch(e){
+      subText.select();
+      document.execCommand('copy');
+      setStatus('Kopiert (Fallback). Im Claude-Chat einfuegen.', '#3ec98a');
+    }
+  };
+})();
+</script>
 </body>
 </html>
