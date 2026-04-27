@@ -24,49 +24,61 @@ window.__MIESMUSCHEL_TIPPS = {
           "markt": "Doppelte Chance",
           "auswahl": "PSG oder Unentschieden (DC 1X)",
           "quote": 1.45,
-          "label": "SAFE",
           "edge_prozent": 5,
-          "begruendung": "PSG zuhause im CL-HF mit Heim-Pressing-Vorteil, Bayern-Lazarett (Guerreiro, Gnabry, Bischof, Karl) plus Mini-Belastung durch Pokal+Liga in 6 Tagen, dagegen PSG mit ruhiger Liga-Lage. Der Doppelte-Chance-Markt sichert gegen das eine knappe Bayern-Konterspiel ab — gemäß CLAUDE.md SAFE-Regel: klare Klassendifferenz im Hinspiel + Topscorer fit + kein Sweep-Druck. Quote via SportsGambler verifiziert (PSG-Sieg @ +135 / 2.35, X @ +290 / 3.90 → DC 1X rechnerisch ~1.45). Zur 2:0-Insurance: gilt NICHT in der CL-Vorrunde der Knockout-Stage? — Doch, CL ist eingeschlossen — aber DC ist nicht im Insurance-Katalog. Trotzdem sicherer Pfad."
+          "begruendung": "PSG zuhause im CL-HF mit Heim-Pressing-Vorteil, Bayern-Lazarett (Guerreiro, Gnabry, Bischof, Karl) plus Mini-Belastung durch Pokal+Liga in 6 Tagen, dagegen PSG mit ruhiger Liga-Lage. Der Doppelte-Chance-Markt sichert gegen das eine knappe Bayern-Konterspiel ab — gemäß CLAUDE.md SAFE-Regel: klare Klassendifferenz im Hinspiel + Topscorer fit + kein Sweep-Druck. Quote via SportsGambler verifiziert (PSG-Sieg @ +135 / 2.35, X @ +290 / 3.90 → DC 1X rechnerisch ~1.45). Zur 2:0-Insurance: gilt NICHT in der CL-Vorrunde der Knockout-Stage? — Doch, CL ist eingeschlossen — aber DC ist nicht im Insurance-Katalog. Trotzdem sicherer Pfad.",
+          "kategorie": "safe",
+          "faire_quote": 1.38,
+          "empfohlener_einsatz_prozent": 1.5
         },
         {
           "markt": "Beide Teams treffen",
           "auswahl": "Ja",
           "quote": 1.66,
-          "label": "VALUE",
           "edge_prozent": 6,
-          "begruendung": "BTTS @ -275 (≈1.36) bei US-Bookies, bei bet365 / Oddschecker eher 1.66-1.72 erwartet. Beide Teams haben elite Offensiven (PSG-Doué/Dembelé/Kvaratskhelia, Bayern-Kane/Olise/Diaz), beide gegen den Lauf der Form spielen sie offen. CL-HF-Hinspiele zwischen Top-Teams haben historisch hohe BTTS-Quote (>65%), und keiner der beiden steht defensiv aktuell wie eine Wand. Bayern-Schwäche links hinten (Guerreiro raus) + PSGs schnelle Außen → Tor garantiert. Andersherum trifft Bayern in 19 von 20 Saison-Pflichtspielen mindestens einmal."
+          "begruendung": "BTTS @ -275 (≈1.36) bei US-Bookies, bei bet365 / Oddschecker eher 1.66-1.72 erwartet. Beide Teams haben elite Offensiven (PSG-Doué/Dembelé/Kvaratskhelia, Bayern-Kane/Olise/Diaz), beide gegen den Lauf der Form spielen sie offen. CL-HF-Hinspiele zwischen Top-Teams haben historisch hohe BTTS-Quote (>65%), und keiner der beiden steht defensiv aktuell wie eine Wand. Bayern-Schwäche links hinten (Guerreiro raus) + PSGs schnelle Außen → Tor garantiert. Andersherum trifft Bayern in 19 von 20 Saison-Pflichtspielen mindestens einmal.",
+          "kategorie": "value",
+          "faire_quote": 1.57,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
           "markt": "Über/Unter Tore",
           "auswahl": "Über 2.5",
           "quote": 1.55,
-          "label": "VALUE",
           "edge_prozent": 4,
-          "begruendung": "Bookies-Total bei 3.5 mit Über knapp dahinter (-105 / ≈1.95) — PSG-Bayern-Direktduelle der letzten 3 Jahre haben Schnitt von 3.4 Toren. Beide Mannschaften pressen hoch, das produziert Räume in der zweiten Welle. Bayern-CL-Spiele 2025/26 hatten Schnitt 3.6 Tore (Real-Doppel mit 6:4 ist Indikator). PSG zuhause in der CL-KO-Phase 2025/26: 3.0 Tore Schnitt. Über 2.5 ist die solide Linie, Über 3.5 wäre die VALUE-Reach-Variante (~2.20). Quoten verifiziert via SportsGambler/Polymarket."
+          "begruendung": "Bookies-Total bei 3.5 mit Über knapp dahinter (-105 / ≈1.95) — PSG-Bayern-Direktduelle der letzten 3 Jahre haben Schnitt von 3.4 Toren. Beide Mannschaften pressen hoch, das produziert Räume in der zweiten Welle. Bayern-CL-Spiele 2025/26 hatten Schnitt 3.6 Tore (Real-Doppel mit 6:4 ist Indikator). PSG zuhause in der CL-KO-Phase 2025/26: 3.0 Tore Schnitt. Über 2.5 ist die solide Linie, Über 3.5 wäre die VALUE-Reach-Variante (~2.20). Quoten verifiziert via SportsGambler/Polymarket.",
+          "kategorie": "value",
+          "faire_quote": 1.49,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
           "markt": "Torschütze jederzeit",
           "auswahl": "Harry Kane trifft (Bayern)",
           "quote": 2.4,
-          "label": "VALUE",
           "edge_prozent": 4,
-          "begruendung": "Kane in CL 2025/26 in 9 von 11 KO-Phasen-Spielen getroffen, Saison gesamt 38 Tore (Bundesliga + CL). Gegen Real Madrid im VF doppelt getroffen (Hin- und Rückspiel). PSG-Innenverteidigung Pacho/Marquinhos stark, aber nicht unverwundbar, und Bayern wird Standards/Konter haben. Die bet365-Einwechslungs-Boost-Regel hilft hier wenig — Kane ist Stammspieler, wird 90 Min spielen, Auswechslung unwahrscheinlich. Reine Torschützen-Quote ohne Boost-Edge, aber 2.40 ist solide gegen Saison-Trefferrate. Bei Kane ALWAYS pre-match Aufstellung checken — 1h vorher."
+          "begruendung": "Kane in CL 2025/26 in 9 von 11 KO-Phasen-Spielen getroffen, Saison gesamt 38 Tore (Bundesliga + CL). Gegen Real Madrid im VF doppelt getroffen (Hin- und Rückspiel). PSG-Innenverteidigung Pacho/Marquinhos stark, aber nicht unverwundbar, und Bayern wird Standards/Konter haben. Die bet365-Einwechslungs-Boost-Regel hilft hier wenig — Kane ist Stammspieler, wird 90 Min spielen, Auswechslung unwahrscheinlich. Reine Torschützen-Quote ohne Boost-Edge, aber 2.40 ist solide gegen Saison-Trefferrate. Bei Kane ALWAYS pre-match Aufstellung checken — 1h vorher.",
+          "kategorie": "value",
+          "faire_quote": 2.31,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
           "markt": "Torschütze jederzeit",
           "auswahl": "Ousmane Dembélé trifft (PSG)",
           "quote": 2.3,
-          "label": "VALUE",
           "edge_prozent": 3,
-          "begruendung": "Dembélé in CL 2025/26 KO-Phase: 5 Tore in 6 Spielen, gegen Liverpool 2x. Bayerns Rechte-Verteidiger-Position mit Laimer/Kim/Stanisic-Rotation ist die Sollbruchstelle, Dembélé spielt typischerweise links und attackiert genau diese Seite. Heimspiel-Faktor zusätzlich. Backup-Stürmer Gonçalo Ramos sitzt auf der Bank — bet365-Einwechslungs-Boost-Mechanik: Wenn Dembélé in 75. Min raus für Ramos und Ramos trifft, zählt's für Dembélé-Tipp. Edge moderat (~3%), aber zusätzliche Insurance durch Backup-Quali."
+          "begruendung": "Dembélé in CL 2025/26 KO-Phase: 5 Tore in 6 Spielen, gegen Liverpool 2x. Bayerns Rechte-Verteidiger-Position mit Laimer/Kim/Stanisic-Rotation ist die Sollbruchstelle, Dembélé spielt typischerweise links und attackiert genau diese Seite. Heimspiel-Faktor zusätzlich. Backup-Stürmer Gonçalo Ramos sitzt auf der Bank — bet365-Einwechslungs-Boost-Mechanik: Wenn Dembélé in 75. Min raus für Ramos und Ramos trifft, zählt's für Dembélé-Tipp. Edge moderat (~3%), aber zusätzliche Insurance durch Backup-Quali.",
+          "kategorie": "value",
+          "faire_quote": 2.23,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
           "markt": "1X2",
           "auswahl": "PSG Sieg",
           "quote": 2.35,
-          "label": "VALUE",
           "edge_prozent": 5,
-          "begruendung": "Reiner Sieg-Tipp: PSG @ +135 (≈2.35) bei US-Books, Polymarket-Implied 50-52% PSG. Plus 2:0-Insurance bei bet365 für die CL — wenn PSG zwischenzeitlich 2:0 führt und am Ende verliert, gilt der Tipp trotzdem als gewonnen. Heimvorteil + Bayern-Belastungs-Stand + frischeres Bein-Alter machen PSG zum leichten Favoriten. Risiko: Bayern hat unter Kompany Mentalität für Auswärts-Comebacks (Real-VF), Spread-Nähe. Daher VALUE statt SAFE — Knock-Out-Spiele sind nie SAFE, dafür ist Insurance-Boost reizvoll."
+          "begruendung": "Reiner Sieg-Tipp: PSG @ +135 (≈2.35) bei US-Books, Polymarket-Implied 50-52% PSG. Plus 2:0-Insurance bei bet365 für die CL — wenn PSG zwischenzeitlich 2:0 führt und am Ende verliert, gilt der Tipp trotzdem als gewonnen. Heimvorteil + Bayern-Belastungs-Stand + frischeres Bein-Alter machen PSG zum leichten Favoriten. Risiko: Bayern hat unter Kompany Mentalität für Auswärts-Comebacks (Real-VF), Spread-Nähe. Daher VALUE statt SAFE — Knock-Out-Spiele sind nie SAFE, dafür ist Insurance-Boost reizvoll.",
+          "kategorie": "value",
+          "faire_quote": 2.24,
+          "empfohlener_einsatz_prozent": 1.0
         }
       ]
     },
@@ -90,57 +102,71 @@ window.__MIESMUSCHEL_TIPPS = {
           "markt": "Doppelte Chance",
           "auswahl": "United oder Unentschieden (DC 1X)",
           "quote": 1.13,
-          "label": "SAFE",
           "edge_prozent": 4,
-          "begruendung": "United @ Old Trafford gegen Brentford-Notformation (Mittelfeld komplett zerrissen) ist die definitive Klassen-Differenz, plus klare Motivations-Asymmetrie (CL-Quali vs Mittelfeld-Spielbetrieb). H2H 4 Heim-Siege in Folge unterstreicht die Heim-Dominanz. Quote @1.13 ist niedrig, aber genau die Form von SAFE die nach Lessons (24.04. Lautern, 25.04. Mainz) noch funktioniert: Heim-Klassen-Vorteil + komplettes Brentford-Lazarett + United-Form. Bei nominal 1.85-Sieg-Quote ergibt DC 1X mathematisch ~1.13. Quote via Oddschecker verifiziert (United Sieg 17/20 = 1.85 → DC 1X = 1.13)."
+          "begruendung": "United @ Old Trafford gegen Brentford-Notformation (Mittelfeld komplett zerrissen) ist die definitive Klassen-Differenz, plus klare Motivations-Asymmetrie (CL-Quali vs Mittelfeld-Spielbetrieb). H2H 4 Heim-Siege in Folge unterstreicht die Heim-Dominanz. Quote @1.13 ist niedrig, aber genau die Form von SAFE die nach Lessons (24.04. Lautern, 25.04. Mainz) noch funktioniert: Heim-Klassen-Vorteil + komplettes Brentford-Lazarett + United-Form. Bei nominal 1.85-Sieg-Quote ergibt DC 1X mathematisch ~1.13. Quote via Oddschecker verifiziert (United Sieg 17/20 = 1.85 → DC 1X = 1.13).",
+          "kategorie": "safe",
+          "faire_quote": 1.09,
+          "empfohlener_einsatz_prozent": 1.5
         },
         {
           "markt": "1X2",
           "auswahl": "United Sieg",
           "quote": 1.85,
-          "label": "VALUE",
           "edge_prozent": 6,
-          "begruendung": "Oddschecker / Racing Post: United -122 (1.82) bis 17/20 (1.85), Brentford 3/1 (4.00), X 14/5 (3.80). Sportsmodels schätzen United-Sieg-Wahrscheinlichkeit ~58%, fairer Wert wäre 1.72. Dass die Quote trotzdem bei 1.85 steht, liegt am Markt-Misstrauen gegen United-Konstanz, aber das Brentford-Mittelfeld-Lazarett ist ein klarer untergewichteter Faktor. CLAUDE.md-2:0-Insurance gilt hier nicht (nur BL+CL). Quoten via Oddschecker / Racing Post verifiziert."
+          "begruendung": "Oddschecker / Racing Post: United -122 (1.82) bis 17/20 (1.85), Brentford 3/1 (4.00), X 14/5 (3.80). Sportsmodels schätzen United-Sieg-Wahrscheinlichkeit ~58%, fairer Wert wäre 1.72. Dass die Quote trotzdem bei 1.85 steht, liegt am Markt-Misstrauen gegen United-Konstanz, aber das Brentford-Mittelfeld-Lazarett ist ein klarer untergewichteter Faktor. CLAUDE.md-2:0-Insurance gilt hier nicht (nur BL+CL). Quoten via Oddschecker / Racing Post verifiziert.",
+          "kategorie": "value",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
           "markt": "Über/Unter Tore",
           "auswahl": "Über 2.5",
           "quote": 1.65,
-          "label": "VALUE",
           "edge_prozent": 5,
-          "begruendung": "8 von 10 H2H mit Über 2.5, dazu Brentford defensiv mit Notformation (8 Spieler raus, Mittelfeld-Kettenglieder fehlen) — und United mit Cunha (8 PL-Tore in 12 Spielen unter Carrick) und Bruno Fernandes (18 Assists) plus Mainoo/Garnacho als U-Aktivierung. Brentford schafft historisch immer mind. ein Tor gegen United (BTTS in 9 der letzten 11 Direktduelle). Faire Linie eher 1.60, Quote 1.65 hat die 5%-Edge. Quoten via SportsGambler verifiziert."
+          "begruendung": "8 von 10 H2H mit Über 2.5, dazu Brentford defensiv mit Notformation (8 Spieler raus, Mittelfeld-Kettenglieder fehlen) — und United mit Cunha (8 PL-Tore in 12 Spielen unter Carrick) und Bruno Fernandes (18 Assists) plus Mainoo/Garnacho als U-Aktivierung. Brentford schafft historisch immer mind. ein Tor gegen United (BTTS in 9 der letzten 11 Direktduelle). Faire Linie eher 1.60, Quote 1.65 hat die 5%-Edge. Quoten via SportsGambler verifiziert.",
+          "kategorie": "value",
+          "faire_quote": 1.57,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
           "markt": "Beide Teams treffen",
           "auswahl": "Ja",
           "quote": 1.85,
-          "label": "VALUE",
           "edge_prozent": 4,
-          "begruendung": "BTTS-Quote im H2H letzte 11 Direktbegegnungen: 9 mal Ja. Brentford trifft historisch in allen 6 Old-Trafford-Reisen mind. einmal — Konter-Stärke trotz Lazarett, Wissa/Schade/Mbeumo bleiben gefährlich. United-Defensive ohne De Ligt + Martinez ist verwundbar, Mazraoui im Zentrum ist Notlösung. Faire Linie ~1.75, Quote 1.85 hat moderate Edge. Quoten via Oddschecker/SportsGambler verifiziert."
+          "begruendung": "BTTS-Quote im H2H letzte 11 Direktbegegnungen: 9 mal Ja. Brentford trifft historisch in allen 6 Old-Trafford-Reisen mind. einmal — Konter-Stärke trotz Lazarett, Wissa/Schade/Mbeumo bleiben gefährlich. United-Defensive ohne De Ligt + Martinez ist verwundbar, Mazraoui im Zentrum ist Notlösung. Faire Linie ~1.75, Quote 1.85 hat moderate Edge. Quoten via Oddschecker/SportsGambler verifiziert.",
+          "kategorie": "value",
+          "faire_quote": 1.78,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
           "markt": "Torschütze jederzeit",
           "auswahl": "Matheus Cunha (United) trifft",
           "quote": 2.1,
-          "label": "VALUE",
           "edge_prozent": 4,
-          "begruendung": "Cunha unter Carrick: 8 Tore in 12 PL-Spielen, drittes Heim-Spiel in Folge mit Tor (Bournemouth, Newcastle, City). Brentford-IV ohne Mittelfeld-Schutz lässt Räume — Cunha attackiert genau die Halbräume. Bet365-Einwechslungs-Boost-Mechanik: Cunha wird typischerweise 70-80 Min gespielt, Backup wäre Hojlund / Zirkzee — falls Wechsel, beide Volumen-9er, Tor zählt für Cunha. Saison-Strafraumberührung-Schnitt ~7/Spiel. Quote 2.10 fair, leichte Edge. Quote via Oddschecker verifiziert."
+          "begruendung": "Cunha unter Carrick: 8 Tore in 12 PL-Spielen, drittes Heim-Spiel in Folge mit Tor (Bournemouth, Newcastle, City). Brentford-IV ohne Mittelfeld-Schutz lässt Räume — Cunha attackiert genau die Halbräume. Bet365-Einwechslungs-Boost-Mechanik: Cunha wird typischerweise 70-80 Min gespielt, Backup wäre Hojlund / Zirkzee — falls Wechsel, beide Volumen-9er, Tor zählt für Cunha. Saison-Strafraumberührung-Schnitt ~7/Spiel. Quote 2.10 fair, leichte Edge. Quote via Oddschecker verifiziert.",
+          "kategorie": "value",
+          "faire_quote": 2.02,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
           "markt": "Torschütze jederzeit",
           "auswahl": "Bruno Fernandes (United) trifft",
           "quote": 3.0,
-          "label": "WACKEL",
           "edge_prozent": 0,
-          "begruendung": "Bruno Fernandes saisonal hoch (8 PL-Tore, 18 Assists), aber Tore eher von Marius/Cunha/Hojlund — Fernandes ist Verteiler, nicht Vollstrecker. Quote 3.00 ist nicht günstig, fair wäre eher 2.80. Trotzdem WACKEL für Tipper die auf Standard-/Elfmeter-Variante hoffen — Fernandes nimmt fast alle Standards/Elfer. Bei Elfmeter-Pfiff und Tor sicher dabei. Risiko-Tipp ohne Edge — eher ein Nice-to-have für die Risiko-Kombi. Quote via Oddschecker."
+          "begruendung": "Bruno Fernandes saisonal hoch (8 PL-Tore, 18 Assists), aber Tore eher von Marius/Cunha/Hojlund — Fernandes ist Verteiler, nicht Vollstrecker. Quote 3.00 ist nicht günstig, fair wäre eher 2.80. Trotzdem WACKEL für Tipper die auf Standard-/Elfmeter-Variante hoffen — Fernandes nimmt fast alle Standards/Elfer. Bei Elfmeter-Pfiff und Tor sicher dabei. Risiko-Tipp ohne Edge — eher ein Nice-to-have für die Risiko-Kombi. Quote via Oddschecker.",
+          "kategorie": "wackel",
+          "faire_quote": 3.0,
+          "empfohlener_einsatz_prozent": 0.5
         },
         {
           "markt": "Spielausgang HZ/ES",
           "auswahl": "United/United",
           "quote": 2.8,
-          "label": "WACKEL",
           "edge_prozent": 2,
-          "begruendung": "United heim mit kompletter Halbzeit-Führung als Standard: 7 von 12 Carrick-Heim-Spielen so beendet. Brentford-Notformation lädt ein zu früher Führung. Quote 2.80 ist solid gegen die ~33% historische Wahrscheinlichkeit dieses Spielausgangs. WACKEL-Label weil HZ-Stand offen — falls 0:0 zur Pause, Tipp tot. Aber für Risiko-Kombi ein gutes Bein. Quote via Oddschecker."
+          "begruendung": "United heim mit kompletter Halbzeit-Führung als Standard: 7 von 12 Carrick-Heim-Spielen so beendet. Brentford-Notformation lädt ein zu früher Führung. Quote 2.80 ist solid gegen die ~33% historische Wahrscheinlichkeit dieses Spielausgangs. WACKEL-Label weil HZ-Stand offen — falls 0:0 zur Pause, Tipp tot. Aber für Risiko-Kombi ein gutes Bein. Quote via Oddschecker.",
+          "kategorie": "wackel",
+          "faire_quote": 2.75,
+          "empfohlener_einsatz_prozent": 0.5
         }
       ]
     },
@@ -164,41 +190,51 @@ window.__MIESMUSCHEL_TIPPS = {
           "markt": "Doppelte Chance",
           "auswahl": "Espanyol oder Unentschieden (DC 1X)",
           "quote": 1.45,
-          "label": "VALUE",
           "edge_prozent": 4,
-          "begruendung": "Espanyol heim ist 15 Spiele ohne Sieg — aber auch nur 4 Heim-Niederlagen die ganze Saison. Heim-Punkt-Wahrscheinlichkeit ist weiterhin überdurchschnittlich. Levante muss aktiv was machen für Klassenerhalt → öffnet die Räume → Espanyol kann mindestens kontern für Punkt. Quote @1.45 mit ~70% impliziter Wahrscheinlichkeit. Pinnacle-Vergleich: SportsGambler-Linie ähnlich, kein klares Pinnacle-VALUE-Zeichen. Daher VALUE statt SAFE. Quoten via SportsGambler verifiziert (Espanyol Sieg @ 1.98 / 2.12 → DC 1X ~1.45)."
+          "begruendung": "Espanyol heim ist 15 Spiele ohne Sieg — aber auch nur 4 Heim-Niederlagen die ganze Saison. Heim-Punkt-Wahrscheinlichkeit ist weiterhin überdurchschnittlich. Levante muss aktiv was machen für Klassenerhalt → öffnet die Räume → Espanyol kann mindestens kontern für Punkt. Quote @1.45 mit ~70% impliziter Wahrscheinlichkeit. Pinnacle-Vergleich: SportsGambler-Linie ähnlich, kein klares Pinnacle-VALUE-Zeichen. Daher VALUE statt SAFE. Quoten via SportsGambler verifiziert (Espanyol Sieg @ 1.98 / 2.12 → DC 1X ~1.45).",
+          "kategorie": "value",
+          "faire_quote": 1.39,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
           "markt": "Über/Unter Tore",
           "auswahl": "Unter 2.5",
           "quote": 1.85,
-          "label": "WACKEL",
           "edge_prozent": 2,
-          "begruendung": "Beide Teams im unteren LaLiga-Drittel was Tore-pro-Spiel angeht (Espanyol ~1.0/Heim, Levante ~1.1/Auswärts). H2H letzte 5 Direktduelle: 3 Spiele mit ≤2 Toren. Quote 1.85 für Unter ist jeweils Wert wenn man die defensive Form (Levante 0:0 gegen Getafe und 1:0 gegen Sevilla zuletzt) berücksichtigt. WACKEL weil Levantes Offensive in Form ist und 1 frühes Tor reicht für Über-Risiko. Quote via Sportsgambler verifiziert."
+          "begruendung": "Beide Teams im unteren LaLiga-Drittel was Tore-pro-Spiel angeht (Espanyol ~1.0/Heim, Levante ~1.1/Auswärts). H2H letzte 5 Direktduelle: 3 Spiele mit ≤2 Toren. Quote 1.85 für Unter ist jeweils Wert wenn man die defensive Form (Levante 0:0 gegen Getafe und 1:0 gegen Sevilla zuletzt) berücksichtigt. WACKEL weil Levantes Offensive in Form ist und 1 frühes Tor reicht für Über-Risiko. Quote via Sportsgambler verifiziert.",
+          "kategorie": "wackel",
+          "faire_quote": 1.81,
+          "empfohlener_einsatz_prozent": 0.5
         },
         {
           "markt": "Beide Teams treffen",
           "auswahl": "Nein",
           "quote": 2.05,
-          "label": "WACKEL",
           "edge_prozent": 1,
-          "begruendung": "Espanyol-Heim: in 14 von 17 Spielen mind. 1 Tor — aber 8 davon Niederlagen 0:1 oder 1:2. Levante hat 3 Auswärts-Spiele in Folge ohne Gegentor (Sevilla 0:0, Las Palmas 0:0, Getafe 0:1). Wenn Levante hinten zumacht und Espanyol kein Tor schafft, ist BTTS Nein. Quote 2.05 fair, kleine Edge möglich. WACKEL — Coinflip-Charakter."
+          "begruendung": "Espanyol-Heim: in 14 von 17 Spielen mind. 1 Tor — aber 8 davon Niederlagen 0:1 oder 1:2. Levante hat 3 Auswärts-Spiele in Folge ohne Gegentor (Sevilla 0:0, Las Palmas 0:0, Getafe 0:1). Wenn Levante hinten zumacht und Espanyol kein Tor schafft, ist BTTS Nein. Quote 2.05 fair, kleine Edge möglich. WACKEL — Coinflip-Charakter.",
+          "kategorie": "wackel",
+          "faire_quote": 2.03,
+          "empfohlener_einsatz_prozent": 0.5
         },
         {
           "markt": "Torschütze jederzeit",
           "auswahl": "Iván Romero (Levante) trifft",
           "quote": 3.5,
-          "label": "WACKEL",
           "edge_prozent": 1,
-          "begruendung": "Romero ist Levantes Topscorer (12 LaLiga-Tore Saison), getroffen in den letzten 2 Spielen (Sevilla, Las Palmas). Quote 3.50 ist hoch für einen Torschützen-Tipp — trotz Form. Bet365-Einwechslungs-Boost-Mechanik: Romero wird oft 70-80 Min gespielt, Backup De Frutos / Etta Eyong sind Volumen-Backups — Boost-Setup theoretisch da. Aber: Auswärts-Spiel + Reise-Müdigkeit reduzieren Trefferwahrscheinlichkeit. WACKEL-Tipp für Risiko-Kombi-Bein."
+          "begruendung": "Romero ist Levantes Topscorer (12 LaLiga-Tore Saison), getroffen in den letzten 2 Spielen (Sevilla, Las Palmas). Quote 3.50 ist hoch für einen Torschützen-Tipp — trotz Form. Bet365-Einwechslungs-Boost-Mechanik: Romero wird oft 70-80 Min gespielt, Backup De Frutos / Etta Eyong sind Volumen-Backups — Boost-Setup theoretisch da. Aber: Auswärts-Spiel + Reise-Müdigkeit reduzieren Trefferwahrscheinlichkeit. WACKEL-Tipp für Risiko-Kombi-Bein.",
+          "kategorie": "wackel",
+          "faire_quote": 3.47,
+          "empfohlener_einsatz_prozent": 0.5
         },
         {
           "markt": "Anzahl Tore exakt",
           "auswahl": "1-2 Tore im Spiel",
           "quote": 2.1,
-          "label": "WACKEL",
           "edge_prozent": 2,
-          "begruendung": "Beide Teams in defensiver Verfassung, Espanyol 15 winless = überwiegend 0:0/1:0/0:1. Bracket 1-2 Tore deckt: 0:1, 1:0, 0:2, 2:0, 1:1 — historisch ~50% der LaLiga-Underdog-Spiele. Quote 2.10 hat moderate Edge wenn Linie 'Unter 2.5' wirklich 1.85 ist (entspricht 1-2 Tore + 0 Tore). Risiko: 0:0 zerstört den Tipp."
+          "begruendung": "Beide Teams in defensiver Verfassung, Espanyol 15 winless = überwiegend 0:0/1:0/0:1. Bracket 1-2 Tore deckt: 0:1, 1:0, 0:2, 2:0, 1:1 — historisch ~50% der LaLiga-Underdog-Spiele. Quote 2.10 hat moderate Edge wenn Linie 'Unter 2.5' wirklich 1.85 ist (entspricht 1-2 Tore + 0 Tore). Risiko: 0:0 zerstört den Tipp.",
+          "kategorie": "wackel",
+          "faire_quote": 2.06,
+          "empfohlener_einsatz_prozent": 0.5
         }
       ]
     },
@@ -222,33 +258,41 @@ window.__MIESMUSCHEL_TIPPS = {
           "markt": "1X2",
           "auswahl": "Atalanta Sieg",
           "quote": 1.81,
-          "label": "WACKEL",
           "edge_prozent": null,
-          "begruendung": "🔍 Beobachtung — Liga-Form noch nicht kalibriert. Atalanta klare Markt-Favoriten @1.81, CL-Quali-Druck als Motivation, gegen Cagliari-Defensive (3 Gegentore zuletzt bei Inter). Tipp wird zur Beobachtung gezeigt aber NICHT in Einzeltipp/Safe-Balance-Risiko-Kombi. Atalanta-Auswärts ist OK, aber Cagliari heim hat die Insel-Karte. Quote via Sportsgambler verifiziert."
+          "begruendung": "🔍 Beobachtung — Liga-Form noch nicht kalibriert. Atalanta klare Markt-Favoriten @1.81, CL-Quali-Druck als Motivation, gegen Cagliari-Defensive (3 Gegentore zuletzt bei Inter). Tipp wird zur Beobachtung gezeigt aber NICHT in Einzeltipp/Safe-Balance-Risiko-Kombi. Atalanta-Auswärts ist OK, aber Cagliari heim hat die Insel-Karte. Quote via Sportsgambler verifiziert.",
+          "kategorie": "wackel",
+          "faire_quote": 1.81,
+          "empfohlener_einsatz_prozent": 0.5
         },
         {
           "markt": "Über/Unter Tore",
           "auswahl": "Unter 2.5",
           "quote": 1.85,
-          "label": "WACKEL",
           "edge_prozent": null,
-          "begruendung": "🔍 Beobachtung. H2H bei Cagliari heim sehr defensiv geprägt (4 von 5 mit ≤2 Toren), häufigster Score 0:1. Quote 1.85 für Unter ist OK. Tipp wird gezeigt aber NICHT in Einzeltipp-Liste."
+          "begruendung": "🔍 Beobachtung. H2H bei Cagliari heim sehr defensiv geprägt (4 von 5 mit ≤2 Toren), häufigster Score 0:1. Quote 1.85 für Unter ist OK. Tipp wird gezeigt aber NICHT in Einzeltipp-Liste.",
+          "kategorie": "wackel",
+          "faire_quote": 1.85,
+          "empfohlener_einsatz_prozent": 0.5
         },
         {
           "markt": "Beide Teams treffen",
           "auswahl": "Nein",
           "quote": 2.1,
-          "label": "WACKEL",
           "edge_prozent": null,
-          "begruendung": "🔍 Beobachtung. Cagliari hat in 5 von 7 Heim-Spielen kein Tor erzielt. Atalanta-Defense fester geworden zuletzt (3 Spiele in Folge max 1 Gegentor). 0:1 oder 0:2 Cagliari-Niederlage realistisch. Tipp gezeigt — nicht in Einzeltipp."
+          "begruendung": "🔍 Beobachtung. Cagliari hat in 5 von 7 Heim-Spielen kein Tor erzielt. Atalanta-Defense fester geworden zuletzt (3 Spiele in Folge max 1 Gegentor). 0:1 oder 0:2 Cagliari-Niederlage realistisch. Tipp gezeigt — nicht in Einzeltipp.",
+          "kategorie": "wackel",
+          "faire_quote": 2.1,
+          "empfohlener_einsatz_prozent": 0.5
         },
         {
           "markt": "Torschütze jederzeit",
           "auswahl": "Gianluca Scamacca (Atalanta) trifft",
           "quote": 2.5,
-          "label": "WACKEL",
           "edge_prozent": null,
-          "begruendung": "🔍 Beobachtung. Scamacca nach Verletzungs-Comeback wieder als 9er in der Aufstellung gemeldet — 7 Saisontore, Cagliari-Defensive im freien Fall. Backup Retegui ebenfalls Volumen-9er. Bet365-Einwechslungs-Boost-Mechanik aktiv falls Scamacca rotiert wird (60-70 Min realistisch). Tipp gezeigt — nicht in Einzeltipp."
+          "begruendung": "🔍 Beobachtung. Scamacca nach Verletzungs-Comeback wieder als 9er in der Aufstellung gemeldet — 7 Saisontore, Cagliari-Defensive im freien Fall. Backup Retegui ebenfalls Volumen-9er. Bet365-Einwechslungs-Boost-Mechanik aktiv falls Scamacca rotiert wird (60-70 Min realistisch). Tipp gezeigt — nicht in Einzeltipp.",
+          "kategorie": "wackel",
+          "faire_quote": 2.5,
+          "empfohlener_einsatz_prozent": 0.5
         }
       ]
     },
@@ -272,33 +316,41 @@ window.__MIESMUSCHEL_TIPPS = {
           "markt": "Doppelte Chance",
           "auswahl": "Lazio oder Unentschieden (DC 1X)",
           "quote": 1.3,
-          "label": "WACKEL",
           "edge_prozent": null,
-          "begruendung": "🔍 Beobachtung — Liga-Form noch nicht kalibriert. Lazio-Form auswärts nicht heim, dazu Coppa-Müdigkeit + H2H-Stigma (kein Heimsieg gegen Udinese seit 6 Jahren). DC 1X @1.30 ist klassischer 'sicher aussehender' Tipp der laut H2H wackelt. Tipp gezeigt — NICHT in Einzeltipp."
+          "begruendung": "🔍 Beobachtung — Liga-Form noch nicht kalibriert. Lazio-Form auswärts nicht heim, dazu Coppa-Müdigkeit + H2H-Stigma (kein Heimsieg gegen Udinese seit 6 Jahren). DC 1X @1.30 ist klassischer 'sicher aussehender' Tipp der laut H2H wackelt. Tipp gezeigt — NICHT in Einzeltipp.",
+          "kategorie": "wackel",
+          "faire_quote": 1.3,
+          "empfohlener_einsatz_prozent": 0.5
         },
         {
           "markt": "Über/Unter Tore",
           "auswahl": "Unter 2.5",
           "quote": 1.75,
-          "label": "WACKEL",
           "edge_prozent": null,
-          "begruendung": "🔍 Beobachtung. H2H letzte 4 Lazio heim vs Udinese: 4 Remis, 3 davon 1:1 oder 0:0. Quote 1.75 ist OK. Beobachtung — nicht in Einzeltipp."
+          "begruendung": "🔍 Beobachtung. H2H letzte 4 Lazio heim vs Udinese: 4 Remis, 3 davon 1:1 oder 0:0. Quote 1.75 ist OK. Beobachtung — nicht in Einzeltipp.",
+          "kategorie": "wackel",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 0.5
         },
         {
           "markt": "1X2",
           "auswahl": "Unentschieden",
           "quote": 3.3,
-          "label": "WACKEL",
           "edge_prozent": null,
-          "begruendung": "🔍 Beobachtung. H2H Stadio-Olimpico-Stigma: 4 von 5 Remis. Lazio-Coppa-Müdigkeit + Udinese-Auswärts-Form bedeutet ein Punkt für jeden ist realistisch. Quote 3.30 fair. Beobachtung — nicht in Einzeltipp / Safe-Balance-Risiko-Kombi."
+          "begruendung": "🔍 Beobachtung. H2H Stadio-Olimpico-Stigma: 4 von 5 Remis. Lazio-Coppa-Müdigkeit + Udinese-Auswärts-Form bedeutet ein Punkt für jeden ist realistisch. Quote 3.30 fair. Beobachtung — nicht in Einzeltipp / Safe-Balance-Risiko-Kombi.",
+          "kategorie": "wackel",
+          "faire_quote": 3.3,
+          "empfohlener_einsatz_prozent": 0.5
         },
         {
           "markt": "Torschütze jederzeit",
           "auswahl": "Pedro (Lazio) trifft",
           "quote": 3.2,
-          "label": "WACKEL",
           "edge_prozent": null,
-          "begruendung": "🔍 Beobachtung. Pedro ist mit 38 Jahren erstaunlich treffsicher (8 Saisontore), getroffen gegen Napoli zuletzt. Aber Lazio-Müdigkeit könnte zu früher Auswechslung (60-65 Min) führen — bet365-Einwechslungs-Boost-Mechanik aktiviert wenn Castellanos / Maldini reinkommen. Beobachtung — nicht in Einzeltipp."
+          "begruendung": "🔍 Beobachtung. Pedro ist mit 38 Jahren erstaunlich treffsicher (8 Saisontore), getroffen gegen Napoli zuletzt. Aber Lazio-Müdigkeit könnte zu früher Auswechslung (60-65 Min) führen — bet365-Einwechslungs-Boost-Mechanik aktiviert wenn Castellanos / Maldini reinkommen. Beobachtung — nicht in Einzeltipp.",
+          "kategorie": "wackel",
+          "faire_quote": 3.2,
+          "empfohlener_einsatz_prozent": 0.5
         }
       ]
     },
@@ -322,33 +374,41 @@ window.__MIESMUSCHEL_TIPPS = {
           "markt": "Spread",
           "auswahl": "Magic +3.5",
           "quote": 1.91,
-          "label": "VALUE",
           "edge_prozent": 4,
-          "begruendung": "Magic heim mit 4 Siegen in Folge im Kia Center — der Heimvorteil-Faktor wird im Spread mit nur 2.5-3.5 unterschätzt. G3 hat Magic gewonnen, wodurch sie Momentum + Selbstvertrauen + Heim-Atmosphäre bündeln. Pistons müssen anpassen, was 1-2 Quartale dauert. +3.5 deckt enge Niederlagen UND Magic-Sieg ab — auch wenn Pistons gewinnen, dürfen sie nicht mit ≥4 Punkten gewinnen. Lesson 25.04. (G3 Heim-Favorit unter Sweep-Druck unzuverlässig) gilt nicht 1:1 hier — Magic ist nicht Favorit, sondern Underdog. Quote via Sportsline / FanDuel verifiziert."
+          "begruendung": "Magic heim mit 4 Siegen in Folge im Kia Center — der Heimvorteil-Faktor wird im Spread mit nur 2.5-3.5 unterschätzt. G3 hat Magic gewonnen, wodurch sie Momentum + Selbstvertrauen + Heim-Atmosphäre bündeln. Pistons müssen anpassen, was 1-2 Quartale dauert. +3.5 deckt enge Niederlagen UND Magic-Sieg ab — auch wenn Pistons gewinnen, dürfen sie nicht mit ≥4 Punkten gewinnen. Lesson 25.04. (G3 Heim-Favorit unter Sweep-Druck unzuverlässig) gilt nicht 1:1 hier — Magic ist nicht Favorit, sondern Underdog. Quote via Sportsline / FanDuel verifiziert.",
+          "kategorie": "value",
+          "faire_quote": 1.84,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
           "markt": "Spielausgang (Moneyline)",
           "auswahl": "Magic Sieg",
           "quote": 2.4,
-          "label": "WACKEL",
           "edge_prozent": 2,
-          "begruendung": "Magic gewinnen heim zur 2-2 Serien-Ausgleich mit ~40-43% Wahrscheinlichkeit (faire Quote ~2.30-2.40). Pistons sind tieferer Kader, aber Magic mit 4 Heim-Siegen + Banchero/Wagner als Topscorer kann jedes Game gewinnen. WACKEL passend nach Lessons (Sweep-Druck-Spiele unzuverlässig). Quote via DraftKings / FanDuel."
+          "begruendung": "Magic gewinnen heim zur 2-2 Serien-Ausgleich mit ~40-43% Wahrscheinlichkeit (faire Quote ~2.30-2.40). Pistons sind tieferer Kader, aber Magic mit 4 Heim-Siegen + Banchero/Wagner als Topscorer kann jedes Game gewinnen. WACKEL passend nach Lessons (Sweep-Druck-Spiele unzuverlässig). Quote via DraftKings / FanDuel.",
+          "kategorie": "wackel",
+          "faire_quote": 2.35,
+          "empfohlener_einsatz_prozent": 0.5
         },
         {
           "markt": "Über/Unter Punkte",
           "auswahl": "Unter 215.5",
           "quote": 1.91,
-          "label": "WACKEL",
           "edge_prozent": 1,
-          "begruendung": "G3-Score nicht öffentlich klar, aber NBA-Playoff-G4-Schnitt liegt bei ~211-216 wegen Defensiv-Adjustments. Magic sind defensiver Team (Top-10 Def-Rating Saison), Pistons mit Cade als Iso-Spieler werfen das Tempo etwas raus. Faire Linie ~213, Quote 1.91 leicht over. WACKEL — Tempo-Spike möglich. Quote via FanDuel."
+          "begruendung": "G3-Score nicht öffentlich klar, aber NBA-Playoff-G4-Schnitt liegt bei ~211-216 wegen Defensiv-Adjustments. Magic sind defensiver Team (Top-10 Def-Rating Saison), Pistons mit Cade als Iso-Spieler werfen das Tempo etwas raus. Faire Linie ~213, Quote 1.91 leicht over. WACKEL — Tempo-Spike möglich. Quote via FanDuel.",
+          "kategorie": "wackel",
+          "faire_quote": 1.89,
+          "empfohlener_einsatz_prozent": 0.5
         },
         {
           "markt": "Spieler-Punkte (NUR für Risiko/Moonshot, nicht Einzeltipps)",
           "auswahl": "Cade Cunningham Mehr als 27.5 Punkte",
           "quote": 1.91,
-          "label": "RISIKO",
           "edge_prozent": null,
-          "begruendung": "NACH NBA-PLAYOFF-PUNKTE-MARKT-BOYKOTT-LESSON: Markt 5/17 = 29% Trefferquote, ROI -46%. Player-Punkte werden NICHT mehr als Einzeltipps angeboten. Tipp wird hier nur dokumentiert für transparente Beobachtung — nicht in Einzeltipps[]. Cade hatte 33 in G2, 18 in G3 — Varianz hoch. RISIKO-Label."
+          "begruendung": "NACH NBA-PLAYOFF-PUNKTE-MARKT-BOYKOTT-LESSON: Markt 5/17 = 29% Trefferquote, ROI -46%. Player-Punkte werden NICHT mehr als Einzeltipps angeboten. Tipp wird hier nur dokumentiert für transparente Beobachtung — nicht in Einzeltipps[]. Cade hatte 33 in G2, 18 in G3 — Varianz hoch. RISIKO-Label.",
+          "kategorie": "risk",
+          "faire_quote": 1.91,
+          "empfohlener_einsatz_prozent": 0.5
         }
       ]
     },
@@ -372,33 +432,41 @@ window.__MIESMUSCHEL_TIPPS = {
           "markt": "Spread",
           "auswahl": "Thunder -10.5",
           "quote": 1.91,
-          "label": "WACKEL",
           "edge_prozent": null,
-          "begruendung": "Thunder-Sweep-Spiel auswärts: historisch oft 8-12 Punkte Sieg, der 10.5er Spread ist die genaue Mitte. Thunder gewinnen wahrscheinlich mit 105-94 oder 115-105. Aber: Sweep-Reflex von Underdog-Suns kann engen Endspurt produzieren. WACKEL — keine klare Edge."
+          "begruendung": "Thunder-Sweep-Spiel auswärts: historisch oft 8-12 Punkte Sieg, der 10.5er Spread ist die genaue Mitte. Thunder gewinnen wahrscheinlich mit 105-94 oder 115-105. Aber: Sweep-Reflex von Underdog-Suns kann engen Endspurt produzieren. WACKEL — keine klare Edge.",
+          "kategorie": "wackel",
+          "faire_quote": 1.91,
+          "empfohlener_einsatz_prozent": 0.5
         },
         {
           "markt": "Über/Unter Punkte",
           "auswahl": "Über 213.5",
           "quote": 1.91,
-          "label": "VALUE",
           "edge_prozent": 4,
-          "begruendung": "Lesson 23.04. (Suns als Sweep-Underdog spielten 22.04. offen → Über 215.5 verloren mit 227 Total) gilt erneut. Suns ohne Druck spielen All-Out auf Tempo, mit Booker (29 Punkte/G2) + Beal + Durant + KAT. Thunder-Defense Top-3, aber gegen offene Suns kommt das Tempo durch. Erwarteter Score 117-103 = 220 → klar Über. Faire Linie ~217, Quote 1.91 hat 4% Edge. Quote via Sportsline."
+          "begruendung": "Lesson 23.04. (Suns als Sweep-Underdog spielten 22.04. offen → Über 215.5 verloren mit 227 Total) gilt erneut. Suns ohne Druck spielen All-Out auf Tempo, mit Booker (29 Punkte/G2) + Beal + Durant + KAT. Thunder-Defense Top-3, aber gegen offene Suns kommt das Tempo durch. Erwarteter Score 117-103 = 220 → klar Über. Faire Linie ~217, Quote 1.91 hat 4% Edge. Quote via Sportsline.",
+          "kategorie": "value",
+          "faire_quote": 1.84,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
           "markt": "Spielausgang (Moneyline)",
           "auswahl": "Thunder Sieg",
           "quote": 1.2,
-          "label": "SAFE",
           "edge_prozent": 1,
-          "begruendung": "Thunder zum Sweep heißer Markt-Favorit (-500 → 1.20). 3-0 mit Champion-Form, SGA dominant — nicht zuletzt 121-109 in Phoenix. Faire Wahrscheinlichkeit ~83%, Quote 1.20 deckt das. SAFE-Label vorsichtig — gemäß Lesson 25.04. (SAFE-Quote 1.20-1.30 = doppelt prüfen) — hier ist die Klassendifferenz im Verlauf der Serie eindeutig, kein Sweep-Druck-Underdog-Bias-Risiko."
+          "begruendung": "Thunder zum Sweep heißer Markt-Favorit (-500 → 1.20). 3-0 mit Champion-Form, SGA dominant — nicht zuletzt 121-109 in Phoenix. Faire Wahrscheinlichkeit ~83%, Quote 1.20 deckt das. SAFE-Label vorsichtig — gemäß Lesson 25.04. (SAFE-Quote 1.20-1.30 = doppelt prüfen) — hier ist die Klassendifferenz im Verlauf der Serie eindeutig, kein Sweep-Druck-Underdog-Bias-Risiko.",
+          "kategorie": "safe",
+          "faire_quote": 1.19,
+          "empfohlener_einsatz_prozent": 1.5
         },
         {
           "markt": "Spieler-Punkte (RISIKO/MOONSHOT-Optionsbein, nicht Einzeltipp)",
           "auswahl": "Shai Gilgeous-Alexander Mehr als 31.5",
           "quote": 1.91,
-          "label": "RISIKO",
           "edge_prozent": null,
-          "begruendung": "Markt-Boykott NBA-Playoff-Player-Punkte (Lesson 26.04.). SGA hatte 38, 31, 28 in G1-G3 — Schnitt 32.3. Linie 31.5 ist enge Coinflip. NICHT in Einzeltipps. Nur für Info / Risiko-Kombi-Wagnis."
+          "begruendung": "Markt-Boykott NBA-Playoff-Player-Punkte (Lesson 26.04.). SGA hatte 38, 31, 28 in G1-G3 — Schnitt 32.3. Linie 31.5 ist enge Coinflip. NICHT in Einzeltipps. Nur für Info / Risiko-Kombi-Wagnis.",
+          "kategorie": "risk",
+          "faire_quote": 1.91,
+          "empfohlener_einsatz_prozent": 0.5
         }
       ]
     },
@@ -422,41 +490,51 @@ window.__MIESMUSCHEL_TIPPS = {
           "markt": "Spielausgang (Moneyline)",
           "auswahl": "Nuggets Sieg",
           "quote": 1.2,
-          "label": "SAFE",
           "edge_prozent": 2,
-          "begruendung": "Edwards OUT ist der entscheidende Faktor: Wolves ohne ihren Top-Scorer + ohne DiVincenzo (Bench-Energy) gegen Jokic-Murray-Heim mit Elimination-Mode. Faire Wahrscheinlichkeit Nuggets ~85%, Quote 1.20 deckt. SAFE gemäß CLAUDE.md (klare Klassendifferenz auf den Tag, Topscorer Joker fit, kein Sweep-Druck-Underdog-Risiko — hier ist Nuggets Heim-Favorit OHNE Sweep-Druck weil sie führen müssen, nicht aufholen). Quote via FanDuel verifiziert (-521)."
+          "begruendung": "Edwards OUT ist der entscheidende Faktor: Wolves ohne ihren Top-Scorer + ohne DiVincenzo (Bench-Energy) gegen Jokic-Murray-Heim mit Elimination-Mode. Faire Wahrscheinlichkeit Nuggets ~85%, Quote 1.20 deckt. SAFE gemäß CLAUDE.md (klare Klassendifferenz auf den Tag, Topscorer Joker fit, kein Sweep-Druck-Underdog-Risiko — hier ist Nuggets Heim-Favorit OHNE Sweep-Druck weil sie führen müssen, nicht aufholen). Quote via FanDuel verifiziert (-521).",
+          "kategorie": "safe",
+          "faire_quote": 1.18,
+          "empfohlener_einsatz_prozent": 1.5
         },
         {
           "markt": "Spread",
           "auswahl": "Nuggets -11.5",
           "quote": 1.91,
-          "label": "WACKEL",
           "edge_prozent": null,
-          "begruendung": "11.5 ist ein hoher Spread — Wolves haben Tiefe (Reid, Conley, McDaniels, Randle), die auch ohne Edwards Punkte produziert. Nuggets-Sieg wahrscheinlich, aber 12+ Punkte Differenz Niederlage ist nicht garantiert. WACKEL — keine klare Edge."
+          "begruendung": "11.5 ist ein hoher Spread — Wolves haben Tiefe (Reid, Conley, McDaniels, Randle), die auch ohne Edwards Punkte produziert. Nuggets-Sieg wahrscheinlich, aber 12+ Punkte Differenz Niederlage ist nicht garantiert. WACKEL — keine klare Edge.",
+          "kategorie": "wackel",
+          "faire_quote": 1.91,
+          "empfohlener_einsatz_prozent": 0.5
         },
         {
           "markt": "Über/Unter Punkte",
           "auswahl": "Unter 221.5",
           "quote": 1.91,
-          "label": "VALUE",
           "edge_prozent": 4,
-          "begruendung": "Edwards aus = Wolves-Offensiv-Power -25%. Wolves ohne Edwards typischerweise 100-105 Punkte (Saison-Schnitt mit ihm 116). Nuggets heim ~115-118. Erwarteter Total ~217-220 → Unter 221.5 hat klare Edge. Lesson 23.04. (Under bei Spread > 10 wegen Tempo) gilt umgekehrt: hier ist der Underdog Wolves OHNE Top-Scorer = Tempo geht runter, nicht hoch. Quote via FanDuel."
+          "begruendung": "Edwards aus = Wolves-Offensiv-Power -25%. Wolves ohne Edwards typischerweise 100-105 Punkte (Saison-Schnitt mit ihm 116). Nuggets heim ~115-118. Erwarteter Total ~217-220 → Unter 221.5 hat klare Edge. Lesson 23.04. (Under bei Spread > 10 wegen Tempo) gilt umgekehrt: hier ist der Underdog Wolves OHNE Top-Scorer = Tempo geht runter, nicht hoch. Quote via FanDuel.",
+          "kategorie": "value",
+          "faire_quote": 1.84,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
           "markt": "Tipp-Spieler Punkte (RISIKO/MOONSHOT)",
           "auswahl": "Nikola Jokic Mehr als 32.5 Punkte",
           "quote": 1.91,
-          "label": "RISIKO",
           "edge_prozent": null,
-          "begruendung": "NBA-Playoff-Player-Punkte Markt-Boykott (Lesson 26.04.) — NICHT in Einzeltipps. Jokic Closeout-Mode mit Murray-Hilfe, gegen Wolves-Defense ohne McDaniels (?) und ohne Edwards-Switch-Faktor: 30+ realistisch. RISIKO-Label, Optionsbein für Moonshot."
+          "begruendung": "NBA-Playoff-Player-Punkte Markt-Boykott (Lesson 26.04.) — NICHT in Einzeltipps. Jokic Closeout-Mode mit Murray-Hilfe, gegen Wolves-Defense ohne McDaniels (?) und ohne Edwards-Switch-Faktor: 30+ realistisch. RISIKO-Label, Optionsbein für Moonshot.",
+          "kategorie": "risk",
+          "faire_quote": 1.91,
+          "empfohlener_einsatz_prozent": 0.5
         },
         {
           "markt": "Beide Teams 100+ Punkte",
           "auswahl": "Ja",
           "quote": 1.4,
-          "label": "WACKEL",
           "edge_prozent": null,
-          "begruendung": "Standard-NBA-Bracket: in 90%+ aller Spiele schaffen beide Teams 100. Wolves ohne Edwards aber 5+ Spieler die 15+ Punkte schaffen können. Quote 1.40 ist nicht günstig. WACKEL für Risiko-Kombi."
+          "begruendung": "Standard-NBA-Bracket: in 90%+ aller Spiele schaffen beide Teams 100. Wolves ohne Edwards aber 5+ Spieler die 15+ Punkte schaffen können. Quote 1.40 ist nicht günstig. WACKEL für Risiko-Kombi.",
+          "kategorie": "wackel",
+          "faire_quote": 1.4,
+          "empfohlener_einsatz_prozent": 0.5
         }
       ]
     }
@@ -470,10 +548,10 @@ window.__MIESMUSCHEL_TIPPS = {
       "markt": "Doppelte Chance",
       "auswahl": "PSG oder Unentschieden (DC 1X)",
       "quote": 1.45,
-      "label": "SAFE",
       "edge_prozent": 5,
-      "einsatz_empfehlung_kasse_prozent": 1.5,
-      "begruendung": "Highlight-Tipp der Woche. Heimstärke + Bayern-Lazarett (Guerreiro, Gnabry, Bischof, Karl) + Mini-Belastung Bayern (Pokal-HF + Liga-Spiel in 6 Tagen). Selbst wenn Bayern gewinnt, deckt das DC den Punkt ab — was im CL-HF-Hinspiel vor dem Auswärts-Rückspiel statistisch wahrscheinlich ist. Quote @1.45 fair gegen ~70% Wahrscheinlichkeit."
+      "begruendung": "Highlight-Tipp der Woche. Heimstärke + Bayern-Lazarett (Guerreiro, Gnabry, Bischof, Karl) + Mini-Belastung Bayern (Pokal-HF + Liga-Spiel in 6 Tagen). Selbst wenn Bayern gewinnt, deckt das DC den Punkt ab — was im CL-HF-Hinspiel vor dem Auswärts-Rückspiel statistisch wahrscheinlich ist. Quote @1.45 fair gegen ~70% Wahrscheinlichkeit.",
+      "kategorie": "safe",
+      "empfohlener_einsatz_prozent": 1.5
     },
     {
       "rang": 2,
@@ -483,10 +561,10 @@ window.__MIESMUSCHEL_TIPPS = {
       "markt": "Doppelte Chance",
       "auswahl": "United oder Unentschieden (DC 1X)",
       "quote": 1.13,
-      "label": "SAFE",
       "edge_prozent": 4,
-      "einsatz_empfehlung_kasse_prozent": 1.5,
-      "begruendung": "Brentford komplett dezimiert (8 Spieler raus, Mittelfeld zerlegt), United Heim 4-Heim-Sieg-Serie gegen Brentford, klare Motivations-Asymmetrie (CL-Quali vs nichts). Quote sehr niedrig, aber genau die Art SAFE die nach 24./25.04. noch funktioniert: Klassen-Differenz + Lazarett-Verschiebung."
+      "begruendung": "Brentford komplett dezimiert (8 Spieler raus, Mittelfeld zerlegt), United Heim 4-Heim-Sieg-Serie gegen Brentford, klare Motivations-Asymmetrie (CL-Quali vs nichts). Quote sehr niedrig, aber genau die Art SAFE die nach 24./25.04. noch funktioniert: Klassen-Differenz + Lazarett-Verschiebung.",
+      "kategorie": "safe",
+      "empfohlener_einsatz_prozent": 1.5
     },
     {
       "rang": 3,
@@ -496,10 +574,10 @@ window.__MIESMUSCHEL_TIPPS = {
       "markt": "Spielausgang (Moneyline)",
       "auswahl": "Nuggets Sieg",
       "quote": 1.2,
-      "label": "SAFE",
       "edge_prozent": 2,
-      "einsatz_empfehlung_kasse_prozent": 1.5,
-      "begruendung": "Edwards OUT + DiVincenzo Saison-Aus = Wolves entkernt. Jokic-Murray heim im Elimination-Mode. Quote 1.20 deckt die ~85%-Wahrscheinlichkeit. SAFE-Label per CLAUDE.md: klare Klassendifferenz heute, Topscorer fit (Jokic), kein Sweep-Druck-Underdog-Bias (Nuggets sind Sweep-Abwehr, nicht Sweep-Verfolger)."
+      "begruendung": "Edwards OUT + DiVincenzo Saison-Aus = Wolves entkernt. Jokic-Murray heim im Elimination-Mode. Quote 1.20 deckt die ~85%-Wahrscheinlichkeit. SAFE-Label per CLAUDE.md: klare Klassendifferenz heute, Topscorer fit (Jokic), kein Sweep-Druck-Underdog-Bias (Nuggets sind Sweep-Abwehr, nicht Sweep-Verfolger).",
+      "kategorie": "safe",
+      "empfohlener_einsatz_prozent": 1.5
     },
     {
       "rang": 4,
@@ -509,10 +587,10 @@ window.__MIESMUSCHEL_TIPPS = {
       "markt": "Spielausgang (Moneyline)",
       "auswahl": "Thunder Sieg",
       "quote": 1.2,
-      "label": "SAFE",
       "edge_prozent": 1,
-      "einsatz_empfehlung_kasse_prozent": 1.0,
-      "begruendung": "Thunder-Sweep-Spiel als Champion: 3-0 mit klarer SGA-Dominanz, 121-109 in Phoenix in G3. Quote 1.20 deckt ~83% Wahrscheinlichkeit. Vorsichtig nach Lesson 25.04. (SAFE-Quote 1.20 doppelt prüfen) — hier eindeutig dominante Serie."
+      "begruendung": "Thunder-Sweep-Spiel als Champion: 3-0 mit klarer SGA-Dominanz, 121-109 in Phoenix in G3. Quote 1.20 deckt ~83% Wahrscheinlichkeit. Vorsichtig nach Lesson 25.04. (SAFE-Quote 1.20 doppelt prüfen) — hier eindeutig dominante Serie.",
+      "kategorie": "safe",
+      "empfohlener_einsatz_prozent": 1.0
     },
     {
       "rang": 5,
@@ -522,10 +600,10 @@ window.__MIESMUSCHEL_TIPPS = {
       "markt": "1X2",
       "auswahl": "United Sieg",
       "quote": 1.85,
-      "label": "VALUE",
       "edge_prozent": 6,
-      "einsatz_empfehlung_kasse_prozent": 1.5,
-      "begruendung": "Faire Sieg-Wahrscheinlichkeit ~58%, Quote 1.85 implied ~54% — Edge ~6%. Brentford-Lazarett wird vom Markt unterschätzt. CLAUDE.md-2:0-Insurance gilt nicht (PL nicht eingeschlossen)."
+      "begruendung": "Faire Sieg-Wahrscheinlichkeit ~58%, Quote 1.85 implied ~54% — Edge ~6%. Brentford-Lazarett wird vom Markt unterschätzt. CLAUDE.md-2:0-Insurance gilt nicht (PL nicht eingeschlossen).",
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.5
     },
     {
       "rang": 6,
@@ -535,10 +613,10 @@ window.__MIESMUSCHEL_TIPPS = {
       "markt": "Beide Teams treffen",
       "auswahl": "Ja",
       "quote": 1.66,
-      "label": "VALUE",
       "edge_prozent": 6,
-      "einsatz_empfehlung_kasse_prozent": 1.5,
-      "begruendung": "BTTS in PSG-Bayern-Direktduellen historisch >65%. Beide Offensiven elite, beide pressen hoch (= Räume). Bayern-Schwäche links hinten + PSGs schnelle Außen → Tor garantiert. Bayern selbst trifft in 19 von 20 Pflichtspielen Saison."
+      "begruendung": "BTTS in PSG-Bayern-Direktduellen historisch >65%. Beide Offensiven elite, beide pressen hoch (= Räume). Bayern-Schwäche links hinten + PSGs schnelle Außen → Tor garantiert. Bayern selbst trifft in 19 von 20 Pflichtspielen Saison.",
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.5
     },
     {
       "rang": 7,
@@ -548,10 +626,10 @@ window.__MIESMUSCHEL_TIPPS = {
       "markt": "Über/Unter Punkte",
       "auswahl": "Über 213.5",
       "quote": 1.91,
-      "label": "VALUE",
       "edge_prozent": 4,
-      "einsatz_empfehlung_kasse_prozent": 1.0,
-      "begruendung": "Lesson 23.04. greift: Suns als Sweep-Underdog spielen all-out. 22.04. Suns-Spiel ging 227 (über 215.5). G4 Sweep-Modus mit Booker/Beal/Durant/KAT All-In = Tempo hoch."
+      "begruendung": "Lesson 23.04. greift: Suns als Sweep-Underdog spielen all-out. 22.04. Suns-Spiel ging 227 (über 215.5). G4 Sweep-Modus mit Booker/Beal/Durant/KAT All-In = Tempo hoch.",
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0
     },
     {
       "rang": 8,
@@ -561,10 +639,10 @@ window.__MIESMUSCHEL_TIPPS = {
       "markt": "Über/Unter Punkte",
       "auswahl": "Unter 221.5",
       "quote": 1.91,
-      "label": "VALUE",
       "edge_prozent": 4,
-      "einsatz_empfehlung_kasse_prozent": 1.0,
-      "begruendung": "Wolves ohne Edwards = -15-20 Punkte Offensiv-Power. Erwarteter Total ~217. Quote 1.91 hat ~4% Edge. Lesson 23.04. gilt hier umgekehrt — Underdog ohne Top-Scorer = Tempo geht runter."
+      "begruendung": "Wolves ohne Edwards = -15-20 Punkte Offensiv-Power. Erwarteter Total ~217. Quote 1.91 hat ~4% Edge. Lesson 23.04. gilt hier umgekehrt — Underdog ohne Top-Scorer = Tempo geht runter.",
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0
     },
     {
       "rang": 9,
@@ -574,10 +652,10 @@ window.__MIESMUSCHEL_TIPPS = {
       "markt": "Über/Unter Tore",
       "auswahl": "Über 2.5",
       "quote": 1.65,
-      "label": "VALUE",
       "edge_prozent": 5,
-      "einsatz_empfehlung_kasse_prozent": 1.0,
-      "begruendung": "8 von 10 H2H-Direktduelle mit Über 2.5. Brentford-Lazarett im Mittelfeld + United-Cunha-Form (8 in 12) = klare Tor-Wahrscheinlichkeit."
+      "begruendung": "8 von 10 H2H-Direktduelle mit Über 2.5. Brentford-Lazarett im Mittelfeld + United-Cunha-Form (8 in 12) = klare Tor-Wahrscheinlichkeit.",
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0
     },
     {
       "rang": 10,
@@ -587,10 +665,10 @@ window.__MIESMUSCHEL_TIPPS = {
       "markt": "Spread",
       "auswahl": "Magic +3.5",
       "quote": 1.91,
-      "label": "VALUE",
       "edge_prozent": 4,
-      "einsatz_empfehlung_kasse_prozent": 1.0,
-      "begruendung": "Magic 4 Heimsiege Folge, Kia-Center-Vorteil + G3-Momentum. +3.5 deckt jede enge Niederlage UND alle Magic-Siege. Spread im Heim-Underdog-Markt unterschätzt."
+      "begruendung": "Magic 4 Heimsiege Folge, Kia-Center-Vorteil + G3-Momentum. +3.5 deckt jede enge Niederlage UND alle Magic-Siege. Spread im Heim-Underdog-Markt unterschätzt.",
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0
     },
     {
       "rang": 11,
@@ -600,10 +678,10 @@ window.__MIESMUSCHEL_TIPPS = {
       "markt": "Torschütze jederzeit",
       "auswahl": "Matheus Cunha trifft",
       "quote": 2.1,
-      "label": "VALUE",
       "edge_prozent": 4,
-      "einsatz_empfehlung_kasse_prozent": 1.0,
-      "begruendung": "Cunha 8 Tore in 12 PL-Spielen unter Carrick. Brentford-IV ohne Mittelfeld-Schutz, Räume in Halbräumen. Bet365-Einwechslungs-Boost-Mechanik möglich (Backup Hojlund/Zirkzee, beide Volumen-9er — falls Cunha rotiert wird)."
+      "begruendung": "Cunha 8 Tore in 12 PL-Spielen unter Carrick. Brentford-IV ohne Mittelfeld-Schutz, Räume in Halbräumen. Bet365-Einwechslungs-Boost-Mechanik möglich (Backup Hojlund/Zirkzee, beide Volumen-9er — falls Cunha rotiert wird).",
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0
     },
     {
       "rang": 12,
@@ -613,199 +691,194 @@ window.__MIESMUSCHEL_TIPPS = {
       "markt": "Doppelte Chance",
       "auswahl": "Espanyol oder Unentschieden (DC 1X)",
       "quote": 1.45,
-      "label": "VALUE",
       "edge_prozent": 4,
-      "einsatz_empfehlung_kasse_prozent": 1.0,
-      "begruendung": "Heim-Punkt-Tipp gegen Levante das die Reise + Klassenerhalt-Druck hat. Espanyol 15 Spiele winless ist Stigma, aber Heim-Niederlagen-Quote nur ~25%. Quote 1.45 hat moderate Edge. Coinflip-Charakter aber Edge >0."
+      "begruendung": "Heim-Punkt-Tipp gegen Levante das die Reise + Klassenerhalt-Druck hat. Espanyol 15 Spiele winless ist Stigma, aber Heim-Niederlagen-Quote nur ~25%. Quote 1.45 hat moderate Edge. Coinflip-Charakter aber Edge >0.",
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0
     }
   ],
   "kombis": [
     {
       "name": "Safe-Kombi",
-      "ziel_quote": "~3.0",
-      "tatsaechliche_quote": 2.99,
-      "label": "SAFE",
-      "einsatz_empfehlung_kasse_prozent": 0.5,
       "beine": [
         {
-          "spiel": "PSG vs Bayern München (CL HF Hinspiel)",
-          "auswahl": "PSG oder Unentschieden (DC 1X)",
           "quote": 1.45,
-          "label": "SAFE"
+          "label": "SAFE",
+          "markt": "PSG oder Unentschieden (DC 1X)",
+          "spiel_titel": "PSG vs Bayern München (CL HF Hinspiel)"
         },
         {
-          "spiel": "Manchester United vs Brentford (PL)",
-          "auswahl": "United oder Unentschieden (DC 1X)",
           "quote": 1.13,
-          "label": "SAFE"
+          "label": "SAFE",
+          "markt": "United oder Unentschieden (DC 1X)",
+          "spiel_titel": "Manchester United vs Brentford (PL)"
         },
         {
-          "spiel": "Phoenix Suns vs OKC Thunder G4 (NBA)",
-          "auswahl": "Thunder Sieg (Moneyline)",
           "quote": 1.2,
-          "label": "SAFE"
+          "label": "SAFE",
+          "markt": "Thunder Sieg (Moneyline)",
+          "spiel_titel": "Phoenix Suns vs OKC Thunder G4 (NBA)"
         },
         {
-          "spiel": "Denver Nuggets vs Minnesota Timberwolves G5 (NBA)",
-          "auswahl": "Nuggets Sieg (Moneyline)",
           "quote": 1.2,
-          "label": "SAFE"
+          "label": "SAFE",
+          "markt": "Nuggets Sieg (Moneyline)",
+          "spiel_titel": "Denver Nuggets vs Minnesota Timberwolves G5 (NBA)"
         }
       ],
-      "rechen_check": "1.45 × 1.13 × 1.20 × 1.20 = 2.36 — niedriger als Ziel 3.0. Korrektur unten ↓",
-      "begruendung": "Kombi aus 4 SAFE-Tipps mit niedrigen Quoten. Tatsächlich gerechnet: 1.45 × 1.13 × 1.20 × 1.20 = 2.36. Wenn Ziel ~3.0 gewünscht: ein Bein durch VALUE ersetzen (z.B. United-Sieg @ 1.85 statt DC) → 1.45 × 1.85 × 1.20 × 1.20 = 3.86. Empfehlung: bei 0.5% der Kasse spielen."
+      "begruendung": "Kombi aus 4 SAFE-Tipps mit niedrigen Quoten. Tatsächlich gerechnet: 1.45 × 1.13 × 1.20 × 1.20 = 2.36. Wenn Ziel ~3.0 gewünscht: ein Bein durch VALUE ersetzen (z.B. United-Sieg @ 1.85 statt DC) → 1.45 × 1.85 × 1.20 × 1.20 = 3.86. Empfehlung: bei 0.5% der Kasse spielen.",
+      "kategorie": "safe",
+      "gesamtquote": 2.99,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rechnung": "1.45 × 1.13 × 1.20 × 1.20 = 2.36 — niedriger als Ziel 3.0. Korrektur unten ↓"
     },
     {
       "name": "Safe-Kombi-V2 (auf ~3.5x getrimmt)",
-      "ziel_quote": "~3.5",
-      "tatsaechliche_quote": 3.86,
-      "label": "SAFE",
-      "einsatz_empfehlung_kasse_prozent": 0.5,
       "beine": [
         {
-          "spiel": "PSG vs Bayern München (CL HF Hinspiel)",
-          "auswahl": "PSG oder Unentschieden (DC 1X)",
           "quote": 1.45,
-          "label": "SAFE"
+          "label": "SAFE",
+          "markt": "PSG oder Unentschieden (DC 1X)",
+          "spiel_titel": "PSG vs Bayern München (CL HF Hinspiel)"
         },
         {
-          "spiel": "Manchester United vs Brentford (PL)",
-          "auswahl": "United Sieg (1)",
           "quote": 1.85,
-          "label": "VALUE"
+          "label": "VALUE",
+          "markt": "United Sieg (1)",
+          "spiel_titel": "Manchester United vs Brentford (PL)"
         },
         {
-          "spiel": "Phoenix Suns vs OKC Thunder G4 (NBA)",
-          "auswahl": "Thunder Sieg (Moneyline)",
           "quote": 1.2,
-          "label": "SAFE"
+          "label": "SAFE",
+          "markt": "Thunder Sieg (Moneyline)",
+          "spiel_titel": "Phoenix Suns vs OKC Thunder G4 (NBA)"
         },
         {
-          "spiel": "Denver Nuggets vs Minnesota Timberwolves G5 (NBA)",
-          "auswahl": "Nuggets Sieg (Moneyline)",
           "quote": 1.2,
-          "label": "SAFE"
+          "label": "SAFE",
+          "markt": "Nuggets Sieg (Moneyline)",
+          "spiel_titel": "Denver Nuggets vs Minnesota Timberwolves G5 (NBA)"
         }
       ],
-      "rechen_check": "1.45 × 1.85 × 1.20 × 1.20 = 3.86",
-      "begruendung": "Ein VALUE-Bein (United-Sieg) ersetzt das DC, Gesamtquote auf 3.86. Riskoprofil bleibt sehr niedrig: alle 4 Tipps mit ≥58% impliziter Wahrscheinlichkeit, Kombi-Trefferquote ~30% (1.45×1.85×1.20×1.20). Empfehlung: 0.5% der Kasse."
+      "begruendung": "Ein VALUE-Bein (United-Sieg) ersetzt das DC, Gesamtquote auf 3.86. Riskoprofil bleibt sehr niedrig: alle 4 Tipps mit ≥58% impliziter Wahrscheinlichkeit, Kombi-Trefferquote ~30% (1.45×1.85×1.20×1.20). Empfehlung: 0.5% der Kasse.",
+      "kategorie": "safe",
+      "gesamtquote": 3.86,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rechnung": "1.45 × 1.85 × 1.20 × 1.20 = 3.86"
     },
     {
       "name": "Balance-Kombi",
-      "ziel_quote": "~6-10x",
-      "tatsaechliche_quote": 7.13,
-      "label": "VALUE",
-      "einsatz_empfehlung_kasse_prozent": 0.5,
       "beine": [
         {
-          "spiel": "PSG vs Bayern München (CL HF Hinspiel)",
-          "auswahl": "Beide Teams treffen Ja",
           "quote": 1.66,
-          "label": "VALUE"
+          "label": "VALUE",
+          "markt": "Beide Teams treffen Ja",
+          "spiel_titel": "PSG vs Bayern München (CL HF Hinspiel)"
         },
         {
-          "spiel": "Manchester United vs Brentford (PL)",
-          "auswahl": "Über 2.5 Tore",
           "quote": 1.65,
-          "label": "VALUE"
+          "label": "VALUE",
+          "markt": "Über 2.5 Tore",
+          "spiel_titel": "Manchester United vs Brentford (PL)"
         },
         {
-          "spiel": "Phoenix Suns vs OKC Thunder G4 (NBA)",
-          "auswahl": "Über 213.5 Punkte",
           "quote": 1.91,
-          "label": "VALUE"
+          "label": "VALUE",
+          "markt": "Über 213.5 Punkte",
+          "spiel_titel": "Phoenix Suns vs OKC Thunder G4 (NBA)"
         },
         {
-          "spiel": "Denver Nuggets vs Minnesota Timberwolves G5 (NBA)",
-          "auswahl": "Unter 221.5 Punkte",
           "quote": 1.91,
-          "label": "VALUE"
+          "label": "VALUE",
+          "markt": "Unter 221.5 Punkte",
+          "spiel_titel": "Denver Nuggets vs Minnesota Timberwolves G5 (NBA)"
         }
       ],
-      "rechen_check": "1.66 × 1.65 × 1.91 × 1.91 = 9.99 — hochgerechnet auf grobe Edge",
-      "begruendung": "Tatsächlich: 1.66 × 1.65 × 1.91 × 1.91 = 9.99. Klar im 6-10x Ziel-Range. Vier VALUE-Tipps mit jeweils ~4-6% Edge. BTTS-PSG-Bayern + Über-Goals-United + Über-Suns-Thunder + Unter-Wolves-Edwards-Aus. Risiko: ein 0:0 in PSG-Bayern oder ein Magic-vs-Pistons-G4-Stil Tempo-Spike kippt einzelne Beine. Empfehlung: 0.5% der Kasse."
+      "begruendung": "Tatsächlich: 1.66 × 1.65 × 1.91 × 1.91 = 9.99. Klar im 6-10x Ziel-Range. Vier VALUE-Tipps mit jeweils ~4-6% Edge. BTTS-PSG-Bayern + Über-Goals-United + Über-Suns-Thunder + Unter-Wolves-Edwards-Aus. Risiko: ein 0:0 in PSG-Bayern oder ein Magic-vs-Pistons-G4-Stil Tempo-Spike kippt einzelne Beine. Empfehlung: 0.5% der Kasse.",
+      "kategorie": "value",
+      "gesamtquote": 7.13,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rechnung": "1.66 × 1.65 × 1.91 × 1.91 = 9.99 — hochgerechnet auf grobe Edge"
     },
     {
       "name": "Risiko-Kombi",
-      "ziel_quote": "~15-30x",
-      "tatsaechliche_quote": 22.39,
-      "label": "RISIKO",
-      "einsatz_empfehlung_kasse_prozent": 0.25,
       "beine": [
         {
-          "spiel": "PSG vs Bayern München (CL HF Hinspiel)",
-          "auswahl": "Über 2.5 Tore + BTTS-Ja (Markt 'Tor-Festival')",
           "quote": 2.2,
-          "label": "VALUE"
+          "label": "VALUE",
+          "markt": "Über 2.5 Tore + BTTS-Ja (Markt 'Tor-Festival')",
+          "spiel_titel": "PSG vs Bayern München (CL HF Hinspiel)"
         },
         {
-          "spiel": "Manchester United vs Brentford (PL)",
-          "auswahl": "Matheus Cunha trifft (Torschütze)",
           "quote": 2.1,
-          "label": "VALUE"
+          "label": "VALUE",
+          "markt": "Matheus Cunha trifft (Torschütze)",
+          "spiel_titel": "Manchester United vs Brentford (PL)"
         },
         {
-          "spiel": "PSG vs Bayern München (CL HF Hinspiel)",
-          "auswahl": "Harry Kane trifft (Torschütze)",
           "quote": 2.4,
-          "label": "VALUE"
+          "label": "VALUE",
+          "markt": "Harry Kane trifft (Torschütze)",
+          "spiel_titel": "PSG vs Bayern München (CL HF Hinspiel)"
         },
         {
-          "spiel": "Espanyol vs Levante (LaLiga)",
-          "auswahl": "Espanyol DC 1X",
           "quote": 1.45,
-          "label": "VALUE"
+          "label": "VALUE",
+          "markt": "Espanyol DC 1X",
+          "spiel_titel": "Espanyol vs Levante (LaLiga)"
         },
         {
-          "spiel": "Phoenix Suns vs OKC Thunder G4 (NBA)",
-          "auswahl": "Über 213.5 Punkte",
           "quote": 1.91,
-          "label": "VALUE"
+          "label": "VALUE",
+          "markt": "Über 213.5 Punkte",
+          "spiel_titel": "Phoenix Suns vs OKC Thunder G4 (NBA)"
         }
       ],
-      "rechen_check": "2.20 × 2.10 × 2.40 × 1.45 × 1.91 = 30.71 — über Ziel-Range",
-      "begruendung": "Tatsächlich: 2.20 × 2.10 × 2.40 × 1.45 × 1.91 = 30.71. Knapp über Ziel-Range, aber Tor-Festival + 2 Torschützen + DC-Bein + NBA-Über sind alle gut begründet. Beine sind bewusst nicht parallel — 2 verschiedene Liga-Topspiele + 1 NBA. Empfehlung: 0.25% der Kasse. Hinweis: enthält 2 Beine aus PSG-Bayern (Over+BTTS und Kane), Korrelation positiv falls Tor-Festival eintritt."
+      "begruendung": "Tatsächlich: 2.20 × 2.10 × 2.40 × 1.45 × 1.91 = 30.71. Knapp über Ziel-Range, aber Tor-Festival + 2 Torschützen + DC-Bein + NBA-Über sind alle gut begründet. Beine sind bewusst nicht parallel — 2 verschiedene Liga-Topspiele + 1 NBA. Empfehlung: 0.25% der Kasse. Hinweis: enthält 2 Beine aus PSG-Bayern (Over+BTTS und Kane), Korrelation positiv falls Tor-Festival eintritt.",
+      "kategorie": "risk",
+      "gesamtquote": 22.39,
+      "empfohlener_einsatz_prozent": 0.25,
+      "rechnung": "2.20 × 2.10 × 2.40 × 1.45 × 1.91 = 30.71 — über Ziel-Range"
     },
     {
       "name": "Moonshot-Kombi (Lotterie)",
-      "ziel_quote": "~300x+",
-      "tatsaechliche_quote": 459.84,
-      "label": "MOONSHOT",
-      "einsatz_empfehlung_kasse_prozent": 0.1,
       "beine": [
         {
-          "spiel": "PSG vs Bayern München (CL HF Hinspiel)",
-          "auswahl": "Genaues Ergebnis 3:2 für PSG",
           "quote": 25.0,
-          "label": "MOONSHOT"
+          "label": "MOONSHOT",
+          "markt": "Genaues Ergebnis 3:2 für PSG",
+          "spiel_titel": "PSG vs Bayern München (CL HF Hinspiel)"
         },
         {
-          "spiel": "Manchester United vs Brentford (PL)",
-          "auswahl": "Bruno Fernandes trifft (Torschütze)",
           "quote": 3.0,
-          "label": "WACKEL"
+          "label": "WACKEL",
+          "markt": "Bruno Fernandes trifft (Torschütze)",
+          "spiel_titel": "Manchester United vs Brentford (PL)"
         },
         {
-          "spiel": "Cagliari vs Atalanta (Serie A 🔍 Beobachtung — Moonshot ok ab 5.0)",
-          "auswahl": "Scamacca Doppelpack",
           "quote": 8.5,
-          "label": "MOONSHOT"
+          "label": "MOONSHOT",
+          "markt": "Scamacca Doppelpack",
+          "spiel_titel": "Cagliari vs Atalanta (Serie A 🔍 Beobachtung — Moonshot ok ab 5.0)"
         },
         {
-          "spiel": "Lazio vs Udinese (Serie A 🔍 Beobachtung — Moonshot ok ab 5.0)",
-          "auswahl": "Pedro trifft + Lazio gewinnt",
           "quote": 5.0,
-          "label": "MOONSHOT"
+          "label": "MOONSHOT",
+          "markt": "Pedro trifft + Lazio gewinnt",
+          "spiel_titel": "Lazio vs Udinese (Serie A 🔍 Beobachtung — Moonshot ok ab 5.0)"
         },
         {
-          "spiel": "Denver Nuggets vs Minnesota Timberwolves G5 (NBA)",
-          "auswahl": "Jokic Triple-Double + Nuggets Sieg",
           "quote": 4.5,
-          "label": "MOONSHOT"
+          "label": "MOONSHOT",
+          "markt": "Jokic Triple-Double + Nuggets Sieg",
+          "spiel_titel": "Denver Nuggets vs Minnesota Timberwolves G5 (NBA)"
         }
       ],
-      "rechen_check": "25.0 × 3.0 × 8.5 × 5.0 × 4.5 = 14343 — extrem hoch, manueller Adjust auf realistisches Buchmacher-Capping",
-      "begruendung": "Tatsächlich: 25.0 × 3.0 × 8.5 × 5.0 × 4.5 = 14343 (theoretisch). Bookies cappen üblicherweise bei ~1000x. Ziel-Range ~300x+ ist gegeben. Reine Lotterie-Kombi: PSG-Wirkungs-Score + Bruno-Tor + Atalanta-Top-9er-Doppelpack + Lazio-Pedro-Tor + Jokic-TD. 5 Beine mit unabhängigen Ausgängen. Beobachtungs-Liga-Spiele (Cagliari, Lazio) sind hier OK weil >=5.0 Quote. Empfehlung: 1-2 € Spaßeinsatz, max 0.1% Kasse — eher 'gewonnen wäre lustig'."
+      "begruendung": "Tatsächlich: 25.0 × 3.0 × 8.5 × 5.0 × 4.5 = 14343 (theoretisch). Bookies cappen üblicherweise bei ~1000x. Ziel-Range ~300x+ ist gegeben. Reine Lotterie-Kombi: PSG-Wirkungs-Score + Bruno-Tor + Atalanta-Top-9er-Doppelpack + Lazio-Pedro-Tor + Jokic-TD. 5 Beine mit unabhängigen Ausgängen. Beobachtungs-Liga-Spiele (Cagliari, Lazio) sind hier OK weil >=5.0 Quote. Empfehlung: 1-2 € Spaßeinsatz, max 0.1% Kasse — eher 'gewonnen wäre lustig'.",
+      "kategorie": "moonshot",
+      "gesamtquote": 459.84,
+      "empfohlener_einsatz_prozent": 0.1,
+      "rechnung": "25.0 × 3.0 × 8.5 × 5.0 × 4.5 = 14343 — extrem hoch, manueller Adjust auf realistisches Buchmacher-Capping"
     }
   ],
   "lessons_angewandt": [

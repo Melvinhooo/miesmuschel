@@ -16,7 +16,33 @@ jobs:
         with:
           python-version: '3.x'
       - run: pip install --quiet pywebpush
-      - run: python .github/scripts/send_push.py
+      - name: Schema-Fix (Routine-Output -> app.js-Format)
+        run: python .github/scripts/fix_schema.py
+      - name: tipps.js regenerieren
+        run: |
+          python -c "
+          import json, glob
+          files = sorted(glob.glob('data/tipps/*.json'))
+          if files:
+              latest = files[-1]
+              with open(latest, 'rb') as f: data = f.read().decode('utf-8')
+              with open('data/tipps.js', 'wb') as f:
+                  f.write(('// Auto-generiert\n' + 'window.__MIESMUSCHEL_TIPPS = ' + data + ';\n').encode('utf-8'))
+              print(f'tipps.js aus {latest} regeneriert')
+          "
+      - name: Commit + Push (wenn Schema-Fix Aenderungen brachte)
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+          git add data/tipps/ data/tipps.js
+          if ! git diff --cached --quiet; then
+            git commit -m "Schema-Fix + tipps.js regen via Action"
+            git push origin main
+          else
+            echo "Nichts zu committen"
+          fi
+      - name: Web-Push senden
+        run: python .github/scripts/send_push.py
         env:
           VAPID_PRIVATE: ${{ secrets.VAPID_PRIVATE }}
           PUSH_SUB: ${{ secrets.PUSH_SUB }}
