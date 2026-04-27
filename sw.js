@@ -3,7 +3,7 @@
  * So hast du offline die letzte App-Version + die letzten Daten.
  */
 
-const CACHE = 'miesmuschel-v6';
+const CACHE = 'miesmuschel-v7';
 const SHELL = [
   './',
   './index.html',

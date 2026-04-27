@@ -97,6 +97,10 @@ def fix(path):
     for et in d.get('einzeltipps', []):
         remap(et, EINZEL_RENAMES)
         normalize_kategorie(et)
+        # markt+auswahl mergen wie bei tipps[]
+        if et.get('auswahl'):
+            et['markt'] = et['auswahl']
+            et.pop('auswahl', None)
         if 'empfohlener_einsatz_prozent' not in et:
             kat = et.get('kategorie', '')
             et['empfohlener_einsatz_prozent'] = {'safe': 1.5, 'value': 1.0, 'wackel': 0.5}.get(kat, 0.5)
@@ -115,6 +119,23 @@ def fix(path):
             if bein.get('auswahl') and not bein.get('markt'):
                 bein['markt'] = bein['auswahl']
                 bein.pop('auswahl', None)
+            # spiel_id aus spiel_titel ableiten (matching auf heim/gast in spiele[])
+            if not bein.get('spiel_id') and bein.get('spiel_titel'):
+                titel = bein['spiel_titel'].lower()
+                for spiel in d.get('spiele', []):
+                    h = (spiel.get('heim') or '').lower()
+                    g = (spiel.get('gast') or '').lower()
+                    # Heuristik: heim und gast Substring im Titel
+                    if h and g and h in titel and g in titel:
+                        bein['spiel_id'] = spiel['id']
+                        break
+                    # Schwaechere Heuristik: nur kurzformen
+                    if h and g:
+                        h_short = h.split()[0] if ' ' in h else h
+                        g_short = g.split()[0] if ' ' in g else g
+                        if h_short in titel and g_short in titel:
+                            bein['spiel_id'] = spiel['id']
+                            break
 
     # Schlechte Markt-Typen droppen (Lottery, exotisch, doppelt)
     # Routine entscheidet selbst wie viele Tipps - nur Muell rauswerfen

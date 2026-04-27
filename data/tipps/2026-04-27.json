@@ -505,8 +505,7 @@
       "spiel_id": "2026-04-28-psg-bayern",
       "spiel": "PSG vs Bayern München (CL HF Hinspiel)",
       "anstoss": "2026-04-28T21:00:00+02:00",
-      "markt": "Doppelte Chance",
-      "auswahl": "PSG oder Unentschieden (DC 1X)",
+      "markt": "PSG oder Unentschieden (DC 1X)",
       "quote": 1.45,
       "edge_prozent": 5,
       "begruendung": "Highlight-Tipp der Woche. Heimstärke + Bayern-Lazarett (Guerreiro, Gnabry, Bischof, Karl) + Mini-Belastung Bayern (Pokal-HF + Liga-Spiel in 6 Tagen). Selbst wenn Bayern gewinnt, deckt das DC den Punkt ab — was im CL-HF-Hinspiel vor dem Auswärts-Rückspiel statistisch wahrscheinlich ist. Quote @1.45 fair gegen ~70% Wahrscheinlichkeit.",
@@ -518,8 +517,7 @@
       "spiel_id": "2026-04-27-manutd-brentford",
       "spiel": "Manchester United vs Brentford",
       "anstoss": "2026-04-27T21:00:00+02:00",
-      "markt": "Doppelte Chance",
-      "auswahl": "United oder Unentschieden (DC 1X)",
+      "markt": "United oder Unentschieden (DC 1X)",
       "quote": 1.13,
       "edge_prozent": 4,
       "begruendung": "Brentford komplett dezimiert (8 Spieler raus, Mittelfeld zerlegt), United Heim 4-Heim-Sieg-Serie gegen Brentford, klare Motivations-Asymmetrie (CL-Quali vs nichts). Quote sehr niedrig, aber genau die Art SAFE die nach 24./25.04. noch funktioniert: Klassen-Differenz + Lazarett-Verschiebung.",
@@ -531,8 +529,7 @@
       "spiel_id": "2026-04-28-nuggets-wolves-g5",
       "spiel": "Denver Nuggets vs Minnesota Timberwolves G5",
       "anstoss": "2026-04-28T04:30:00+02:00",
-      "markt": "Spielausgang (Moneyline)",
-      "auswahl": "Nuggets Sieg",
+      "markt": "Nuggets Sieg",
       "quote": 1.2,
       "edge_prozent": 2,
       "begruendung": "Edwards OUT + DiVincenzo Saison-Aus = Wolves entkernt. Jokic-Murray heim im Elimination-Mode. Quote 1.20 deckt die ~85%-Wahrscheinlichkeit. SAFE-Label per CLAUDE.md: klare Klassendifferenz heute, Topscorer fit (Jokic), kein Sweep-Druck-Underdog-Bias (Nuggets sind Sweep-Abwehr, nicht Sweep-Verfolger).",
@@ -544,8 +541,7 @@
       "spiel_id": "2026-04-28-suns-thunder-g4",
       "spiel": "Phoenix Suns vs OKC Thunder G4",
       "anstoss": "2026-04-28T03:30:00+02:00",
-      "markt": "Spielausgang (Moneyline)",
-      "auswahl": "Thunder Sieg",
+      "markt": "Thunder Sieg",
       "quote": 1.2,
       "edge_prozent": 1,
       "begruendung": "Thunder-Sweep-Spiel als Champion: 3-0 mit klarer SGA-Dominanz, 121-109 in Phoenix in G3. Quote 1.20 deckt ~83% Wahrscheinlichkeit. Vorsichtig nach Lesson 25.04. (SAFE-Quote 1.20 doppelt prüfen) — hier eindeutig dominante Serie.",
@@ -557,8 +553,7 @@
       "spiel_id": "2026-04-27-manutd-brentford",
       "spiel": "Manchester United vs Brentford",
       "anstoss": "2026-04-27T21:00:00+02:00",
-      "markt": "1X2",
-      "auswahl": "United Sieg",
+      "markt": "United Sieg",
       "quote": 1.85,
       "edge_prozent": 6,
       "begruendung": "Faire Sieg-Wahrscheinlichkeit ~58%, Quote 1.85 implied ~54% — Edge ~6%. Brentford-Lazarett wird vom Markt unterschätzt. CLAUDE.md-2:0-Insurance gilt nicht (PL nicht eingeschlossen).",
@@ -570,8 +565,7 @@
       "spiel_id": "2026-04-28-psg-bayern",
       "spiel": "PSG vs Bayern München (CL HF Hinspiel)",
       "anstoss": "2026-04-28T21:00:00+02:00",
-      "markt": "Beide Teams treffen",
-      "auswahl": "Ja",
+      "markt": "Ja",
       "quote": 1.66,
       "edge_prozent": 6,
       "begruendung": "BTTS in PSG-Bayern-Direktduellen historisch >65%. Beide Offensiven elite, beide pressen hoch (= Räume). Bayern-Schwäche links hinten + PSGs schnelle Außen → Tor garantiert. Bayern selbst trifft in 19 von 20 Pflichtspielen Saison.",
@@ -583,8 +577,7 @@
       "spiel_id": "2026-04-28-suns-thunder-g4",
       "spiel": "Phoenix Suns vs OKC Thunder G4",
       "anstoss": "2026-04-28T03:30:00+02:00",
-      "markt": "Über/Unter Punkte",
-      "auswahl": "Über 213.5",
+      "markt": "Über 213.5",
       "quote": 1.91,
       "edge_prozent": 4,
       "begruendung": "Lesson 23.04. greift: Suns als Sweep-Underdog spielen all-out. 22.04. Suns-Spiel ging 227 (über 215.5). G4 Sweep-Modus mit Booker/Beal/Durant/KAT All-In = Tempo hoch.",
@@ -596,8 +589,7 @@
       "spiel_id": "2026-04-28-nuggets-wolves-g5",
       "spiel": "Denver Nuggets vs Minnesota Timberwolves G5",
       "anstoss": "2026-04-28T04:30:00+02:00",
-      "markt": "Über/Unter Punkte",
-      "auswahl": "Unter 221.5",
+      "markt": "Unter 221.5",
       "quote": 1.91,
       "edge_prozent": 4,
       "begruendung": "Wolves ohne Edwards = -15-20 Punkte Offensiv-Power. Erwarteter Total ~217. Quote 1.91 hat ~4% Edge. Lesson 23.04. gilt hier umgekehrt — Underdog ohne Top-Scorer = Tempo geht runter.",
@@ -609,8 +601,7 @@
       "spiel_id": "2026-04-27-manutd-brentford",
       "spiel": "Manchester United vs Brentford",
       "anstoss": "2026-04-27T21:00:00+02:00",
-      "markt": "Über/Unter Tore",
-      "auswahl": "Über 2.5",
+      "markt": "Über 2.5",
       "quote": 1.65,
       "edge_prozent": 5,
       "begruendung": "8 von 10 H2H-Direktduelle mit Über 2.5. Brentford-Lazarett im Mittelfeld + United-Cunha-Form (8 in 12) = klare Tor-Wahrscheinlichkeit.",
@@ -622,8 +613,7 @@
       "spiel_id": "2026-04-28-magic-pistons-g4",
       "spiel": "Orlando Magic vs Detroit Pistons G4",
       "anstoss": "2026-04-28T02:00:00+02:00",
-      "markt": "Spread",
-      "auswahl": "Magic +3.5",
+      "markt": "Magic +3.5",
       "quote": 1.91,
       "edge_prozent": 4,
       "begruendung": "Magic 4 Heimsiege Folge, Kia-Center-Vorteil + G3-Momentum. +3.5 deckt jede enge Niederlage UND alle Magic-Siege. Spread im Heim-Underdog-Markt unterschätzt.",
@@ -635,8 +625,7 @@
       "spiel_id": "2026-04-27-manutd-brentford",
       "spiel": "Manchester United vs Brentford",
       "anstoss": "2026-04-27T21:00:00+02:00",
-      "markt": "Torschütze jederzeit",
-      "auswahl": "Matheus Cunha trifft",
+      "markt": "Matheus Cunha trifft",
       "quote": 2.1,
       "edge_prozent": 4,
       "begruendung": "Cunha 8 Tore in 12 PL-Spielen unter Carrick. Brentford-IV ohne Mittelfeld-Schutz, Räume in Halbräumen. Bet365-Einwechslungs-Boost-Mechanik möglich (Backup Hojlund/Zirkzee, beide Volumen-9er — falls Cunha rotiert wird).",
@@ -648,8 +637,7 @@
       "spiel_id": "2026-04-27-espanyol-levante",
       "spiel": "Espanyol vs Levante",
       "anstoss": "2026-04-27T21:00:00+02:00",
-      "markt": "Doppelte Chance",
-      "auswahl": "Espanyol oder Unentschieden (DC 1X)",
+      "markt": "Espanyol oder Unentschieden (DC 1X)",
       "quote": 1.45,
       "edge_prozent": 4,
       "begruendung": "Heim-Punkt-Tipp gegen Levante das die Reise + Klassenerhalt-Druck hat. Espanyol 15 Spiele winless ist Stigma, aber Heim-Niederlagen-Quote nur ~25%. Quote 1.45 hat moderate Edge. Coinflip-Charakter aber Edge >0.",
@@ -671,7 +659,8 @@
           "quote": 1.13,
           "label": "SAFE",
           "markt": "United oder Unentschieden (DC 1X)",
-          "spiel_titel": "Manchester United vs Brentford (PL)"
+          "spiel_titel": "Manchester United vs Brentford (PL)",
+          "spiel_id": "2026-04-27-manutd-brentford"
         },
         {
           "quote": 1.2,
@@ -683,7 +672,8 @@
           "quote": 1.2,
           "label": "SAFE",
           "markt": "Nuggets Sieg (Moneyline)",
-          "spiel_titel": "Denver Nuggets vs Minnesota Timberwolves G5 (NBA)"
+          "spiel_titel": "Denver Nuggets vs Minnesota Timberwolves G5 (NBA)",
+          "spiel_id": "2026-04-28-nuggets-wolves-g5"
         }
       ],
       "begruendung": "Kombi aus 4 SAFE-Tipps mit niedrigen Quoten. Tatsächlich gerechnet: 1.45 × 1.13 × 1.20 × 1.20 = 2.36. Wenn Ziel ~3.0 gewünscht: ein Bein durch VALUE ersetzen (z.B. United-Sieg @ 1.85 statt DC) → 1.45 × 1.85 × 1.20 × 1.20 = 3.86. Empfehlung: bei 0.5% der Kasse spielen.",
@@ -705,7 +695,8 @@
           "quote": 1.85,
           "label": "VALUE",
           "markt": "United Sieg (1)",
-          "spiel_titel": "Manchester United vs Brentford (PL)"
+          "spiel_titel": "Manchester United vs Brentford (PL)",
+          "spiel_id": "2026-04-27-manutd-brentford"
         },
         {
           "quote": 1.2,
@@ -717,7 +708,8 @@
           "quote": 1.2,
           "label": "SAFE",
           "markt": "Nuggets Sieg (Moneyline)",
-          "spiel_titel": "Denver Nuggets vs Minnesota Timberwolves G5 (NBA)"
+          "spiel_titel": "Denver Nuggets vs Minnesota Timberwolves G5 (NBA)",
+          "spiel_id": "2026-04-28-nuggets-wolves-g5"
         }
       ],
       "begruendung": "Ein VALUE-Bein (United-Sieg) ersetzt das DC, Gesamtquote auf 3.86. Riskoprofil bleibt sehr niedrig: alle 4 Tipps mit ≥58% impliziter Wahrscheinlichkeit, Kombi-Trefferquote ~30% (1.45×1.85×1.20×1.20). Empfehlung: 0.5% der Kasse.",
@@ -739,7 +731,8 @@
           "quote": 1.65,
           "label": "VALUE",
           "markt": "Über 2.5 Tore",
-          "spiel_titel": "Manchester United vs Brentford (PL)"
+          "spiel_titel": "Manchester United vs Brentford (PL)",
+          "spiel_id": "2026-04-27-manutd-brentford"
         },
         {
           "quote": 1.91,
@@ -751,7 +744,8 @@
           "quote": 1.91,
           "label": "VALUE",
           "markt": "Unter 221.5 Punkte",
-          "spiel_titel": "Denver Nuggets vs Minnesota Timberwolves G5 (NBA)"
+          "spiel_titel": "Denver Nuggets vs Minnesota Timberwolves G5 (NBA)",
+          "spiel_id": "2026-04-28-nuggets-wolves-g5"
         }
       ],
       "begruendung": "Tatsächlich: 1.66 × 1.65 × 1.91 × 1.91 = 9.99. Klar im 6-10x Ziel-Range. Vier VALUE-Tipps mit jeweils ~4-6% Edge. BTTS-PSG-Bayern + Über-Goals-United + Über-Suns-Thunder + Unter-Wolves-Edwards-Aus. Risiko: ein 0:0 in PSG-Bayern oder ein Magic-vs-Pistons-G4-Stil Tempo-Spike kippt einzelne Beine. Empfehlung: 0.5% der Kasse.",
@@ -773,7 +767,8 @@
           "quote": 2.1,
           "label": "VALUE",
           "markt": "Matheus Cunha trifft (Torschütze)",
-          "spiel_titel": "Manchester United vs Brentford (PL)"
+          "spiel_titel": "Manchester United vs Brentford (PL)",
+          "spiel_id": "2026-04-27-manutd-brentford"
         },
         {
           "quote": 2.4,
@@ -813,25 +808,29 @@
           "quote": 3.0,
           "label": "WACKEL",
           "markt": "Bruno Fernandes trifft (Torschütze)",
-          "spiel_titel": "Manchester United vs Brentford (PL)"
+          "spiel_titel": "Manchester United vs Brentford (PL)",
+          "spiel_id": "2026-04-27-manutd-brentford"
         },
         {
           "quote": 8.5,
           "label": "MOONSHOT",
           "markt": "Scamacca Doppelpack",
-          "spiel_titel": "Cagliari vs Atalanta (Serie A 🔍 Beobachtung — Moonshot ok ab 5.0)"
+          "spiel_titel": "Cagliari vs Atalanta (Serie A 🔍 Beobachtung — Moonshot ok ab 5.0)",
+          "spiel_id": "2026-04-27-cagliari-atalanta"
         },
         {
           "quote": 5.0,
           "label": "MOONSHOT",
           "markt": "Pedro trifft + Lazio gewinnt",
-          "spiel_titel": "Lazio vs Udinese (Serie A 🔍 Beobachtung — Moonshot ok ab 5.0)"
+          "spiel_titel": "Lazio vs Udinese (Serie A 🔍 Beobachtung — Moonshot ok ab 5.0)",
+          "spiel_id": "2026-04-27-lazio-udinese"
         },
         {
           "quote": 4.5,
           "label": "MOONSHOT",
           "markt": "Jokic Triple-Double + Nuggets Sieg",
-          "spiel_titel": "Denver Nuggets vs Minnesota Timberwolves G5 (NBA)"
+          "spiel_titel": "Denver Nuggets vs Minnesota Timberwolves G5 (NBA)",
+          "spiel_id": "2026-04-28-nuggets-wolves-g5"
         }
       ],
       "begruendung": "Tatsächlich: 25.0 × 3.0 × 8.5 × 5.0 × 4.5 = 14343 (theoretisch). Bookies cappen üblicherweise bei ~1000x. Ziel-Range ~300x+ ist gegeben. Reine Lotterie-Kombi: PSG-Wirkungs-Score + Bruno-Tor + Atalanta-Top-9er-Doppelpack + Lazio-Pedro-Tor + Jokic-TD. 5 Beine mit unabhängigen Ausgängen. Beobachtungs-Liga-Spiele (Cagliari, Lazio) sind hier OK weil >=5.0 Quote. Empfehlung: 1-2 € Spaßeinsatz, max 0.1% Kasse — eher 'gewonnen wäre lustig'.",
