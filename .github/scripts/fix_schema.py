@@ -119,23 +119,17 @@ def fix(path):
             if bein.get('auswahl') and not bein.get('markt'):
                 bein['markt'] = bein['auswahl']
                 bein.pop('auswahl', None)
-            # spiel_id aus spiel_titel ableiten (matching auf heim/gast in spiele[])
-            if not bein.get('spiel_id') and bein.get('spiel_titel'):
-                titel = bein['spiel_titel'].lower()
-                for spiel in d.get('spiele', []):
-                    h = (spiel.get('heim') or '').lower()
-                    g = (spiel.get('gast') or '').lower()
-                    # Heuristik: heim und gast Substring im Titel
-                    if h and g and h in titel and g in titel:
-                        bein['spiel_id'] = spiel['id']
-                        break
-                    # Schwaechere Heuristik: nur kurzformen
-                    if h and g:
-                        h_short = h.split()[0] if ' ' in h else h
-                        g_short = g.split()[0] if ' ' in g else g
-                        if h_short in titel and g_short in titel:
-                            bein['spiel_id'] = spiel['id']
-                            break
+            # Match-Info ins markt-Feld einbauen damit app.js es zeigt (split via ':')
+            # app.js zeigt vor ":" als Match-Header, danach als Pick
+            if bein.get('spiel_titel'):
+                import re
+                titel = bein['spiel_titel']
+                # Klammer-Suffixe wie "(CL HF Hinspiel)" / "(NBA)" entfernen
+                clean_titel = re.sub(r'\s*\([^)]*\)\s*$', '', titel).strip()
+                cur_markt = bein.get('markt', '')
+                # Nur praependen wenn Markt nicht schon mit Titel anfaengt
+                if cur_markt and not cur_markt.startswith(clean_titel):
+                    bein['markt'] = f"{clean_titel}: {cur_markt}"
 
     # Schlechte Markt-Typen droppen (Lottery, exotisch, doppelt)
     # Routine entscheidet selbst wie viele Tipps - nur Muell rauswerfen

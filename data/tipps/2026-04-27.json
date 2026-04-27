@@ -652,26 +652,26 @@
         {
           "quote": 1.45,
           "label": "SAFE",
-          "markt": "PSG oder Unentschieden (DC 1X)",
+          "markt": "PSG vs Bayern München: PSG oder Unentschieden (DC 1X)",
           "spiel_titel": "PSG vs Bayern München (CL HF Hinspiel)"
         },
         {
           "quote": 1.13,
           "label": "SAFE",
-          "markt": "United oder Unentschieden (DC 1X)",
+          "markt": "Manchester United vs Brentford: United oder Unentschieden (DC 1X)",
           "spiel_titel": "Manchester United vs Brentford (PL)",
           "spiel_id": "2026-04-27-manutd-brentford"
         },
         {
           "quote": 1.2,
           "label": "SAFE",
-          "markt": "Thunder Sieg (Moneyline)",
+          "markt": "Phoenix Suns vs OKC Thunder G4: Thunder Sieg (Moneyline)",
           "spiel_titel": "Phoenix Suns vs OKC Thunder G4 (NBA)"
         },
         {
           "quote": 1.2,
           "label": "SAFE",
-          "markt": "Nuggets Sieg (Moneyline)",
+          "markt": "Denver Nuggets vs Minnesota Timberwolves G5: Nuggets Sieg (Moneyline)",
           "spiel_titel": "Denver Nuggets vs Minnesota Timberwolves G5 (NBA)",
           "spiel_id": "2026-04-28-nuggets-wolves-g5"
         }
@@ -688,26 +688,26 @@
         {
           "quote": 1.45,
           "label": "SAFE",
-          "markt": "PSG oder Unentschieden (DC 1X)",
+          "markt": "PSG vs Bayern München: PSG oder Unentschieden (DC 1X)",
           "spiel_titel": "PSG vs Bayern München (CL HF Hinspiel)"
         },
         {
           "quote": 1.85,
           "label": "VALUE",
-          "markt": "United Sieg (1)",
+          "markt": "Manchester United vs Brentford: United Sieg (1)",
           "spiel_titel": "Manchester United vs Brentford (PL)",
           "spiel_id": "2026-04-27-manutd-brentford"
         },
         {
           "quote": 1.2,
           "label": "SAFE",
-          "markt": "Thunder Sieg (Moneyline)",
+          "markt": "Phoenix Suns vs OKC Thunder G4: Thunder Sieg (Moneyline)",
           "spiel_titel": "Phoenix Suns vs OKC Thunder G4 (NBA)"
         },
         {
           "quote": 1.2,
           "label": "SAFE",
-          "markt": "Nuggets Sieg (Moneyline)",
+          "markt": "Denver Nuggets vs Minnesota Timberwolves G5: Nuggets Sieg (Moneyline)",
           "spiel_titel": "Denver Nuggets vs Minnesota Timberwolves G5 (NBA)",
           "spiel_id": "2026-04-28-nuggets-wolves-g5"
         }
@@ -724,26 +724,26 @@
         {
           "quote": 1.66,
           "label": "VALUE",
-          "markt": "Beide Teams treffen Ja",
+          "markt": "PSG vs Bayern München: Beide Teams treffen Ja",
           "spiel_titel": "PSG vs Bayern München (CL HF Hinspiel)"
         },
         {
           "quote": 1.65,
           "label": "VALUE",
-          "markt": "Über 2.5 Tore",
+          "markt": "Manchester United vs Brentford: Über 2.5 Tore",
           "spiel_titel": "Manchester United vs Brentford (PL)",
           "spiel_id": "2026-04-27-manutd-brentford"
         },
         {
           "quote": 1.91,
           "label": "VALUE",
-          "markt": "Über 213.5 Punkte",
+          "markt": "Phoenix Suns vs OKC Thunder G4: Über 213.5 Punkte",
           "spiel_titel": "Phoenix Suns vs OKC Thunder G4 (NBA)"
         },
         {
           "quote": 1.91,
           "label": "VALUE",
-          "markt": "Unter 221.5 Punkte",
+          "markt": "Denver Nuggets vs Minnesota Timberwolves G5: Unter 221.5 Punkte",
           "spiel_titel": "Denver Nuggets vs Minnesota Timberwolves G5 (NBA)",
           "spiel_id": "2026-04-28-nuggets-wolves-g5"
         }
@@ -760,32 +760,32 @@
         {
           "quote": 2.2,
           "label": "VALUE",
-          "markt": "Über 2.5 Tore + BTTS-Ja (Markt 'Tor-Festival')",
+          "markt": "PSG vs Bayern München: Über 2.5 Tore + BTTS-Ja (Markt 'Tor-Festival')",
           "spiel_titel": "PSG vs Bayern München (CL HF Hinspiel)"
         },
         {
           "quote": 2.1,
           "label": "VALUE",
-          "markt": "Matheus Cunha trifft (Torschütze)",
+          "markt": "Manchester United vs Brentford: Matheus Cunha trifft (Torschütze)",
           "spiel_titel": "Manchester United vs Brentford (PL)",
           "spiel_id": "2026-04-27-manutd-brentford"
         },
         {
           "quote": 2.4,
           "label": "VALUE",
-          "markt": "Harry Kane trifft (Torschütze)",
+          "markt": "PSG vs Bayern München: Harry Kane trifft (Torschütze)",
           "spiel_titel": "PSG vs Bayern München (CL HF Hinspiel)"
         },
         {
           "quote": 1.45,
           "label": "VALUE",
-          "markt": "Espanyol DC 1X",
+          "markt": "Espanyol vs Levante: Espanyol DC 1X",
           "spiel_titel": "Espanyol vs Levante (LaLiga)"
         },
         {
           "quote": 1.91,
           "label": "VALUE",
-          "markt": "Über 213.5 Punkte",
+          "markt": "Phoenix Suns vs OKC Thunder G4: Über 213.5 Punkte",
           "spiel_titel": "Phoenix Suns vs OKC Thunder G4 (NBA)"
         }
       ],
@@ -801,34 +801,34 @@
         {
           "quote": 25.0,
           "label": "MOONSHOT",
-          "markt": "Genaues Ergebnis 3:2 für PSG",
+          "markt": "PSG vs Bayern München: Genaues Ergebnis 3:2 für PSG",
           "spiel_titel": "PSG vs Bayern München (CL HF Hinspiel)"
         },
         {
           "quote": 3.0,
           "label": "WACKEL",
-          "markt": "Bruno Fernandes trifft (Torschütze)",
+          "markt": "Manchester United vs Brentford: Bruno Fernandes trifft (Torschütze)",
           "spiel_titel": "Manchester United vs Brentford (PL)",
           "spiel_id": "2026-04-27-manutd-brentford"
         },
         {
           "quote": 8.5,
           "label": "MOONSHOT",
-          "markt": "Scamacca Doppelpack",
+          "markt": "Cagliari vs Atalanta: Scamacca Doppelpack",
           "spiel_titel": "Cagliari vs Atalanta (Serie A 🔍 Beobachtung — Moonshot ok ab 5.0)",
           "spiel_id": "2026-04-27-cagliari-atalanta"
         },
         {
           "quote": 5.0,
           "label": "MOONSHOT",
-          "markt": "Pedro trifft + Lazio gewinnt",
+          "markt": "Lazio vs Udinese: Pedro trifft + Lazio gewinnt",
           "spiel_titel": "Lazio vs Udinese (Serie A 🔍 Beobachtung — Moonshot ok ab 5.0)",
           "spiel_id": "2026-04-27-lazio-udinese"
         },
         {
           "quote": 4.5,
           "label": "MOONSHOT",
-          "markt": "Jokic Triple-Double + Nuggets Sieg",
+          "markt": "Denver Nuggets vs Minnesota Timberwolves G5: Jokic Triple-Double + Nuggets Sieg",
           "spiel_titel": "Denver Nuggets vs Minnesota Timberwolves G5 (NBA)",
           "spiel_id": "2026-04-28-nuggets-wolves-g5"
         }
