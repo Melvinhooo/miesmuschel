@@ -1,262 +1,260 @@
 # 🐚 HANDOFF — Magische Miesmuschel
 
 > **Wenn du neu in diesen Chat kommst: lies dieses Dokument ZUERST.**
-> Es fasst alles zusammen was ein Vor-Claude in diesem Projekt aufgebaut hat und
-> bringt dich in ~3 Minuten auf denselben Kontext-Stand.
+> Stand: 27.04.2026 abends — komplett ueberarbeitet nach Migration zu Cloud-Routines + Web-Push + neuen Profit-Hebeln.
 
 ---
 
-## 0. Was du als erstes tust (Pflicht-Reihenfolge)
+## 0. Pflicht-Reihenfolge zum Einlesen
 
-1. **`CLAUDE.md`** (im Projekt-Root) — alle Regeln, verbotenen Wettarten, Tonalität
-2. **`README.md`** — Bedienungsanleitung (was der User macht, welche Scripts)
-3. **`data/lessons.json`** — alle Wett-Lessons aus vergangenen Tagen
-4. **Letzte 3 Dateien in `data/ergebnisse/`** — aktuelle Form-Trends
-5. **`data/statistik.json`** — aktuelle Bilanz-Kennzahlen
-6. **Dieses Dokument hier** — Projekt-Meta-Wissen + Stolperfallen
+1. **`CLAUDE.md`** — alle Regeln, verbotenen Wettarten, Tonalitaet
+2. **`README.md`** — Bedienungsanleitung fuer den User
+3. **`data/lessons.json`** — alle Wett-Lessons (16 Eintraege, Stand 27.04.)
+4. **`data/beobachtungs_ligen.json`** — aktuelle Liga-Bluter (auto-generiert)
+5. **letzte 3 `data/ergebnisse/*.json`** — aktuelle Form
+6. **`data/statistik.json`** — Bilanz inkl. CLV-Aggregation
+7. **Dieses Dokument** — Architektur + Stolperfallen
 
-Dann fragst du den User „Wo sollen wir weitermachen?" und bist auf Stand.
+Dann fragst du Melvi: "Wo sollen wir weitermachen?"
 
 ---
 
 ## 1. Projekt in einem Satz
 
-Privates Hobby-Tool für **bet365 DE** von **Melvi**: strukturierte Wett-Vorbereitung
-für Fußball (BL, 2.BL, PL, LaLiga, Serie A, Ligue 1, CL, EL, nationale Pokale)
-und NBA (Regular Season, Play-In, Playoffs). **Keine Einnahmequelle.** Spielerschutz
-ist Pflicht (BZgA 0800 1372700 im Footer).
+Privates Hobby-Tool fuer **bet365 DE** von **Melvi**: strukturierte Wett-Vorbereitung
+fuer Fussball (BL, 2.BL, PL, LaLiga, Serie A, Ligue 1, CL, EL, Conference, nationale Pokale)
+und NBA. **Hobby, keine Einkommensquelle laut UI** — intern wird aber auf echten Profit hingearbeitet.
 
 ---
 
-## 2. Technischer Stack (Stand ~April 2026)
+## 2. Technischer Stack (Stand 27.04.2026)
 
 ### Hauptdateien
 ```
 Magische Miesmuschel/
-├── index.html                   (App-Schale)
+├── index.html                   (App-Schale, jetzt mit dynamischem Header + Push-Button)
 ├── assets/
-│   ├── styles.css               (Design: Tiefsee, Muschel, Blasen — NICHT ändern)
-│   ├── app.js                   (Vanilla JS, rendert tipps.js + statistik.js)
-│   └── icon.svg                 (PWA-Icon)
-├── manifest.webmanifest         (PWA-Manifest)
-├── sw.js                        (Service Worker für Offline/Cache)
+│   ├── styles.css
+│   ├── app.js                   (rendert Tipps + Historie + dynamischen Header)
+│   └── icon.svg
+├── manifest.webmanifest
+├── sw.js                        (Service Worker v4 — Cache + Web Push)
 ├── data/
-│   ├── tipps/YYYY-MM-DD.json    (ein Dossier pro Tag)
-│   ├── ergebnisse/YYYY-MM-DD.json (ein Auswertungs-File pro Tag)
-│   ├── tipps.js                 (auto-generiert aus aktuellster tipps/*.json)
-│   ├── lessons.json             (Lessons Learned — ergänzt durch Analyse-Task)
-│   ├── lessons.js               (auto-generiert aus lessons.json)
-│   ├── statistik.json           (aggregierte Bilanz)
-│   ├── statistik.js             (auto-generiert, für App)
-│   └── config.json              (API-Keys, GITIGNORED, NIE committen)
+│   ├── tipps/YYYY-MM-DD.json    (von Tipps-Routinen geschrieben)
+│   ├── ergebnisse/YYYY-MM-DD.json (von Auswertungs-Routine geschrieben, mit CLV)
+│   ├── tipps.js                 (auto-generiert)
+│   ├── lessons.json             (von Routinen + Hand gepflegt)
+│   ├── lessons.js               (auto-generiert)
+│   ├── statistik.json           (auto-generiert mit CLV-Aggregation)
+│   ├── statistik.js             (auto-generiert)
+│   ├── beobachtungs_ligen.json  (NEU: auto-generierte Liga-Bluter-Liste)
+│   └── config.json              (API-Keys, GITIGNORED)
 ├── scripts/
-│   ├── ergebnisse_holen.py      (holt Fußball-APIs + NBA + wertet Tipps aus)
-│   ├── ergebnisse_holen.bat     (Windows-Doppelklick-Starter)
-│   ├── statistik_berechnen.py   (aggregiert ergebnisse -> statistik)
+│   ├── ergebnisse_holen.py      (holt Fussball + NBA APIs, wertet Tipps aus)
+│   ├── statistik_berechnen.py   (NEU: rechnet auch CLV + schreibt beobachtungs_ligen.json)
+│   ├── ergebnisse_holen.bat
 │   └── statistik_berechnen.bat
-├── archiv/                      (alte HTML-Versionen v13, v22)
+├── archiv/                      (alte HTML-Versionen)
 ├── .claude/                     (GITIGNORED, lokal only)
-│   ├── github_token.txt         (Fine-grained PAT, 1 Jahr gültig, repo-only)
-│   ├── push.ps1                 (Git commit + push Helper — ASCII only!)
-│   ├── build_index.ps1          (baut index.html aus altem v22 — nur noch selten nötig)
-│   ├── make-icon.ps1            (generiert muschel.ico)
-│   └── muschel.ico              (Windows-Icon für Desktop-Shortcut)
-├── CLAUDE.md                    (VERBINDLICHE Regeln)
-├── README.md                    (User-Bedienungsanleitung)
+│   ├── github_token.txt         (Fine-grained PAT)
+│   ├── push.ps1                 (Git push Helper, ASCII only)
+│   ├── vapid_keys.txt           (NEU: Web-Push VAPID Public + Private Keys)
+│   ├── push_subscription.json   (NEU: Melvis aktuelle iPhone Push-Subscription)
+│   └── ...
+├── CLAUDE.md
+├── README.md
 ├── HANDOFF.md                   (diese Datei)
-└── .gitignore                   (schließt .claude/, config.json aus)
+└── .gitignore
 ```
 
-### Externe Services
-| Service | Zweck | Zugriff |
+### Externe Services / Stack
+| Service | Zweck | Zugriff / Status |
 |---|---|---|
-| **GitHub** | Hosting (Pages) + Version | Repo: `Melvinhooo/miesmuschel` (public) · Token in `.claude/github_token.txt` |
-| **GitHub Pages** | Live-App | URL: `https://melvinhooo.github.io/miesmuschel/` |
-| **football-data.org** | Fußball-Ergebnisse | Key in `data/config.json` (`football_data_key`) · Free-Tier 10 req/min · BL, 2.BL, PL, PD, SA, CL, FL1 verfügbar · DFB-Pokal + Coppa Italia NICHT im Free-Tier |
-| **balldontlie.io** | NBA-Spiele | Key in `data/config.json` (`balldontlie_key`) · Free-Tier nur /games + /teams · `/stats` (Spielerpunkte) braucht GOAT-Abo ($9/Monat, aktuell NICHT gebucht) |
-| **Python 3.14** | Scripts lokal | Installiert unter `py`-Launcher. `requests` wird von .bat auto-installiert |
-| **PowerShell 5.1** | Windows-System | Wichtig: liest .ps1 ohne BOM als Windows-1252 → nur ASCII in .ps1 verwenden |
+| **GitHub** | Hosting + Version | `Melvinhooo/miesmuschel` public · Token in `.claude/github_token.txt` |
+| **GitHub Pages** | Live-App | https://melvinhooo.github.io/miesmuschel/ |
+| **football-data.org** | Fussball-Ergebnisse | Free Tier, Key in `data/config.json` |
+| **balldontlie.io** | NBA-Spiele | Free Tier (nur /games + /teams), Key in `data/config.json` |
+| **Anthropic Cloud Routines** | Autopilot | `/schedule`-Routines, im Max-Plan inklusive |
+| **Apple Push Notification Service** | Web-Push aufs iPhone | VAPID-basiert, kostenlos |
+| **Python 3** | Lokale Scripts + Cloud-Sandbox | `requests`, `pywebpush` |
 
 ---
 
-## 3. Scheduled Tasks (Autopilot)
+## 3. Cloud-Routines (Autopilot)
 
-Drei Tasks laufen automatisch auf Melvi's Laptop (wenn er eingeschaltet ist):
+Drei Routines laufen in Anthropic-Cloud (NICHT auf Melvis Laptop). IDs:
 
-| Task-ID | Cron | Was |
-|---|---|---|
-| `miesmuschel-daily-tipps` | `30 10 * * *` (täglich 10:30) | Holt gestrige Ergebnisse via API + WebSearch, analysiert Muster, ergänzt `data/lessons.json` wenn >10 Tipps klares Muster zeigen, pusht |
-| `miesmuschel-tipps-mo-fr` | `0 16 * * 1-5` (Mo-Fr 16:00) | Generiert neues Dossier für **heute 16:00 bis morgen 06:00** (inkl. NBA-Nacht), pusht |
-| `miesmuschel-tipps-sa-so` | `30 11 * * 6,0` (Sa+So 11:30) | Generiert neues Dossier für **heute 11:30 bis morgen 06:00**, pusht |
+| Routine | Cron (UTC) | Berlin (MESZ) | Trigger-ID |
+|---|---|---|---|
+| `miesmuschel-auswertung-daily` | `30 8 * * *` | taeglich 10:30 | `trig_01BP9meTHCX6R5mgAJf3QT94` |
+| `miesmuschel-tipps-mo-fr` | `0 14 * * 1-5` | Mo-Fr 16:00 | `trig_011ps7wgfJwnLX18nUeZV3nu` |
+| `miesmuschel-tipps-sa-so` | `30 9 * * 6,0` | Sa+So 11:30 | `trig_01MPfUoxZbHYUA4K6CdQb6G3` |
 
-Gespeichert unter `C:\Users\melvi\.claude\scheduled-tasks\<task-id>\SKILL.md`.
-Mit `mcp__scheduled-tasks__list_scheduled_tasks` sieht man den Zustand, mit
-`mcp__scheduled-tasks__update_scheduled_task` kann man Prompts/Zeiten anpassen.
+Verwalten via `RemoteTrigger`-Tool (list/get/update/run) oder UI: https://claude.ai/code/routines
 
-**Wichtig:** Tasks laufen lokal. Wenn Laptop aus → kein Autopilot.
+**⚠️ DST-PFLICHT Ende Oktober 2026:** Cron laueft in UTC. Ende Oktober Zeitumstellung -> alle 3 Cron-Strings um +1h anpassen, sonst laufen Routines 1h zu frueh.
+- Auswertung: `30 8 * * *` -> `30 9 * * *`
+- Tipps Mo-Fr: `0 14 * * 1-5` -> `0 15 * * 1-5`
+- Tipps Sa-So: `30 9 * * 6,0` -> `30 10 * * 6,0`
 
----
+**Lokale alte Tasks** (`mcp__scheduled-tasks__*`) sind alle `enabled=false` als Fallback erhalten. Wenn Cloud-Routines stabil laufen (1+ Woche), koennen sie geloescht werden.
 
-## 4. Der Mensch — Melvi
-
-- Deutsch. Kommuniziert locker, „bro"-Style, Kumpel-Ton.
-- Claude Max-Abo (inkl. Scheduled Tasks + iPhone-App).
-- Kein Entwickler — vermeidet Komplexität. Klare Schritt-für-Schritt-Anleitungen ohne Fachjargon.
-- Nutzt das Tool primär **auf dem iPhone** (PWA auf Home-Screen installiert).
-- Laptop = Autopilot-Server, meistens zugeklappt am Netz.
-- Hasst Verkacken. Will lieber klar „los" sagen und dich machen lassen.
-- E-Mail: `msejdiu@b-dhilden.de` · GitHub: `Melvinhooo`
+### Was die Routines tun
+- **Auswertung (taeglich):** ergebnisse_holen.py → CLV-Erfassung via WebFetch (oddsportal/betexplorer) → statistik_berechnen.py → beobachtungs_ligen.json wird auto-aktualisiert → Lessons-Analyse → git push → Web-Push an Melvi
+- **Tipps (Mo-Fr 16:00 + Sa-So 11:30):** Liga-Checkliste komplett → Beobachtungs-Filter aus `data/beobachtungs_ligen.json` → Quoten-Hartregel + Pinnacle-Vergleich → Tipps schreiben → tipps.js regenerieren → git push → Web-Push an Melvi
 
 ---
 
-## 5. Design-Regeln (NICHT anfassen!)
+## 4. Web Push Notifications (seit 27.04.)
 
-- **Gradient** Tiefsee `#001f3f → #003d6b → #0074b3`
-- **Schriften** Fraunces (Headlines) + JetBrains Mono (Body)
-- **Muschel** 🐚 mit Float-Animation
-- **Bubbles** steigen im Hintergrund
-- **Kategorie-Farben:** safe=grün, value=gold, wackel=orange, risk=rot/lila, moonshot=lila/gold
-- Mobile-CSS (iPhone) ist seit April 2026 stark kompaktiert — siehe `@media (max-width: 700px)`
+Echte iOS-PWA-Notifications direkt aus der Miesmuschel-PWA, kein Drittanbieter.
 
-Wenn Design-Änderungen nötig: nur Größen/Abstände, nie Farben/Schriften/Layout-Philosophie.
+**Setup:**
+- VAPID Public Key ist in `index.html` einkompiliert (im inline-Script am Ende)
+- VAPID Private Key in jedem Routine-Prompt embedded (nicht im Repo)
+- Subscription liegt in `.claude/push_subscription.json` (lokal) + in jedem Routine-Prompt embedded
+- Service Worker `sw.js` v4 hat `push`- und `notificationclick`-Handler
+
+**Wenn Subscription kaputt geht** (Melvi loescht PWA, wechselt iPhone):
+1. Melvi tippt im PWA-Footer auf "🔔 Push aktivieren" → neue Subscription wird angezeigt
+2. Melvi gibt JSON an Claude im Chat
+3. Claude updated alle 3 Routine-Prompts via `RemoteTrigger update`
+4. Claude updated `.claude/push_subscription.json` als Backup
 
 ---
 
-## 6. Workflow — wie das System läuft
+## 5. Profit-Hebel (Stand 27.04. abend)
 
-### A) Ein Tag im Leben
+Drei Hartregeln im System die zusammen +8 bis +13% ROI bringen sollten:
+
+### A) Quoten-Verifikation (PFLICHT 2 in Tipps-Routinen)
+Kein SAFE/VALUE ohne via Aggregator (oddschecker, sportsgambler, betexplorer, oddsshark, oddstrader) verifizierte bet365-Quote. Sonst max WACKEL mit `~`-Praefix.
+
+### B) Pinnacle-Fair-Line (PFLICHT 2b in Tipps-Routinen)
+Pinnacle ist der schaerfste Buchmacher. Edge nur wenn bet365-Quote spuerbar besser:
+- `>=3%` ueber Pinnacle: SAFE/VALUE OK
+- `0-3%`: max VALUE
+- `<0%`: max WACKEL
+Gilt nur fuer Standard-Maerkte (1X2, DC, Handicap, U/O, BTTS). Player-Props sind ausgenommen.
+
+### C) Beobachtungs-Liga-Modus (PFLICHT 0a in Tipps-Routinen)
+Liga mit rolling 30-Tage-ROI < -30% bei min. 4 Tipps -> in `data/beobachtungs_ligen.json`. Auto-generiert von `statistik_berechnen.py`. Spiele werden trotzdem in Spiel-Analyse-Tab gezeigt mit 🔍-Markierung, aber **NICHT in einzeltipps[]** und **NICHT in Safe/Balance/Risiko-Kombi**. Im Moonshot OK ab Quote ≥5x. Pokale sind nie betroffen.
+
+Ausstiegs-Kriterium: rolling 30d-ROI > -10% -> Liga faellt automatisch aus der Liste.
+
+### CLV-Tracking (Closing Line Value)
+Auswertungs-Routine versucht via WebFetch fuer jeden Tipp die Closing-Quote zu finden, berechnet `clv_prozent`, schreibt in `tipps_ergebnis`. statistik_berechnen.py aggregiert Durchschnitts-CLV. Positive CLV ueber 100+ Tipps = wir sind scharf, langfristig +ROI wahrscheinlich. Anfangs viele `null`-Werte, das ist OK.
+
+---
+
+## 6. Der Mensch — Melvi
+
+- Deutsch, locker, "bro"-Style
+- Claude Max-Abo
+- Kein Entwickler — vermeidet Komplexitaet
+- Nutzt Tool primaer auf iPhone (PWA)
+- E-Mail: msejdiu@b-dhilden.de · GitHub: Melvinhooo
+- Will ernsthaft Profit aus dem Hobby machen, nicht nur tracken
+- Constraint: KEINE zusaetzlichen Kosten ueber Max Plan hinaus (kein Cloud-VM, kein Premium-API)
+
+---
+
+## 7. Design (NICHT anfassen)
+- Gradient Tiefsee `#001f3f → #003d6b → #0074b3`
+- Fraunces (Headlines) + JetBrains Mono (Body)
+- Muschel 🐚 Float-Animation
+- Bubbles im Hintergrund
+- Mobile-CSS kompakt seit April 2026
+
+---
+
+## 8. Workflow (taeglich)
+
 ```
-10:30  Analyse-Task: Ergebnisse gestern, Lessons-Check, GitHub-Push
-16:00 (Mo-Fr) oder 11:30 (Sa-So): Tipps-Task schreibt Dossier für heute→morgen 06:00
-       Push zu GitHub
-       iPhone-App zeigt neue Tipps
+10:30  Auswertungs-Routine: Ergebnisse + CLV + Lessons + statistik + beobachtungs_ligen
+       -> Push aufs iPhone
+16:00 (Mo-Fr) / 11:30 (Sa-So): Tipps-Routine generiert Dossier
+       -> Push aufs iPhone
 Abends Melvi tippt bei bet365
-Spiele laufen
-Nächster Morgen 10:30: Kreis schließt sich
-```
-
-### B) Wenn Melvi im Chat was will
-
-**„Neue Tipps für heute"** →
-1. CLAUDE.md + lessons.json + letzte Ergebnisse lesen
-2. WebSearch: Spiele heute in CLAUDE.md-Ligen
-3. `data/tipps/YYYY-MM-DD.json` schreiben (5-10 Spiele, 10-14 Einzeltipps, 4 Kombis)
-4. `data/tipps.js` regenerieren (PowerShell-Wrapper)
-5. `.claude/push.ps1 "Commit-Message"` aufrufen
-
-**„Push neue Ergebnisse"** → `.claude/push.ps1 "Nachricht"`
-
-**„Ergebnisse holen"** → `py -3 scripts/ergebnisse_holen.py YYYY-MM-DD` (optional Datum; ohne = alle offenen Tage)
-
-### C) tipps.js regenerieren (PowerShell-Snippet)
-```powershell
-$src = 'C:\Users\melvi\Downloads\Magische Miesmuschel\data\tipps\YYYY-MM-DD.json'
-$dst = 'C:\Users\melvi\Downloads\Magische Miesmuschel\data\tipps.js'
-$utf8NoBom = New-Object System.Text.UTF8Encoding($false)
-$json = [System.IO.File]::ReadAllText($src, $utf8NoBom)
-[System.IO.File]::WriteAllText($dst, ("// Auto-generiert`nwindow.__MIESMUSCHEL_TIPPS = " + $json + ";`n"), $utf8NoBom)
+Naechster Morgen 10:30: Kreis schliesst sich
 ```
 
 ---
 
-## 7. Stolperfallen — erlittene, nicht wiederholen
+## 9. Stolperfallen
 
-1. **PowerShell 5.1 + .ps1 ohne BOM** → Non-ASCII-Zeichen (Em-Dash —, Umlaute in Kommentaren) zerschießen das Parsing. **Regel: .ps1-Scripts ASCII-only schreiben.**
-
-2. **UTF-8-Double-Encoding** beim HTML-Build: Wenn man v22.html mit `Get-Content -Encoding UTF8` liest und Output ohne BOM schreibt, kann passieren dass Emojis doppelt encoded werden. Lösung: `[System.IO.File]::ReadAllText($path, [System.Text.UTF8Encoding]::new($false))`.
-
-3. **Windows-Explorer versteckt Dateiendungen** → User hat `config.json` zu `config.json.json` umbenannt. Script hat Fallback, User-README warnt jetzt.
-
-4. **balldontlie Free-Tier** kann keine Spieler-Stats. Daher: alle NBA-Player-Props (Punkte, DD, TD) bleiben nach `ergebnisse_holen.py` „offen" → Analyse-Task (10:30) muss per WebSearch (ESPN, Kicker, Sofascore) manuell ergänzen.
-
-5. **DFB-Pokal + Coppa Italia** nicht im football-data-Free-Tier → bleiben auch offen, müssen manuell oder via WebSearch eingetragen werden.
-
-6. **fetch() auf file:// geht nicht** → daher das `statistik.json` auch als `statistik.js` geschrieben wird (setzt `window.__MIESMUSCHEL_STAT`). Nie die .json direkt in index.html laden.
-
-7. **Service-Worker-Cache** → CSS/JS-Änderungen werden nicht sofort am iPhone sichtbar. Bei Layout-Änderungen: `CACHE` Version in `sw.js` hochdrehen (`miesmuschel-v1` → `v2` → `v3`...), sonst bleibt Nutzer bei alter Version.
-
-8. **Keine Browser-Storage-APIs** verwenden (localStorage/sessionStorage) → alle Persistenz läuft über JSON-Dateien. CLAUDE.md sagt das.
+1. **PowerShell 5.1 .ps1 ohne BOM** → ASCII-only in .ps1-Files
+2. **UTF-8-Double-Encoding** beim HTML-Build → `[System.IO.File]::ReadAllText`
+3. **Windows-Explorer versteckt Dateiendungen** → config.json.json-Falle
+4. **balldontlie Free-Tier** kann keine Spieler-Stats → Routinen ergaenzen via WebSearch
+5. **DFB-Pokal/Coppa/FA Cup** nicht im football-data Free-Tier → Routinen via WebSearch
+6. **fetch() auf file:// geht nicht** → daher `statistik.js` als Script statt JSON
+7. **Service-Worker-Cache** → bei Layout-Aenderungen `CACHE` Version in `sw.js` hochdrehen (aktuell v4). Sonst sieht User alte Version.
+8. **Keine Browser-Storage-APIs** (CLAUDE.md verbietet localStorage)
+9. **iOS-PWA-Push** funktioniert NUR wenn PWA via "Zum Home-Bildschirm" installiert. Aus Safari-Tab raus blockiert iOS die Permission-API.
+10. **Cron in UTC** → Ende Oktober 2026 alle Cron-Strings +1h fuer DST anpassen.
 
 ---
 
-## 8. Wett-Regel-Kurzfassung (Details in CLAUDE.md)
+## 10. Wett-Regel-Kurzfassung (Details in CLAUDE.md)
 
 **Verboten** (nie empfehlen):
-- Fußball: Eckbälle, Karten
+- Fussball: Eckbaelle, Karten
 - NBA: Einzel-Rebounds, Assists, Steals, Blocks, Turnovers, PRA-Kombos, Pkt+Reb/Ast-Kombos, Einzel-3er
 
-**bet365-Sonderregeln (kennen + anwenden):**
-- **2:0-Insurance:** Direkter Sieg-Tipp in BL/CL gilt als gewonnen, sobald Tipp-Team 2:0 führte (auch bei späterer Niederlage). NICHT für DC/Handicap/U/O. Auswertungs-Skript macht's automatisch über Halbzeitstand.
-- **Einwechslungs-Boost:** Bei Torschützen-Tipps zählen Tore des direkten Ersatzspielers für den Tipp-Spieler. Beispiel: Silva getippt → Silva ausgewechselt → Guirassy trifft → Silva-Tipp gewonnen. Auch bei Doppelpack/Hattrick (Tore werden summiert). Analyse-Task prüft das via WebSearch bei offenen Torschützen-Tipps.
+**bet365-Sonderregeln:**
+- **2:0-Insurance** (BL+CL nur, nur Sieg-Tipps): Sieg-Tipp gilt als gewonnen sobald Tipp-Team 2:0 fuehrte
+- **Einwechslungs-Boost** (Torschuetzen): Tor des direkten Ersatzspielers zaehlt fuer Tipp-Spieler — aber NUR wenn Tipp-Spieler X selbst ausgewechselt wurde
 
-**Einsatz-Limits:**
-- Einzel SAFE/VALUE: 1–2 % Kasse
-- Einzel WACKEL: 0,5–1 %
-- Safe-Kombi: 1–2 % · Balance: 0,5–1 % · Risiko: max 0,25 % · Moonshot: max 0,1 %
+**NBA-Player-Punkte/DD:** seit Lesson 26.04. Markt-Boykott: nicht in Einzeltipps, nur als optionales Bein in Risiko/Moonshot-Kombi.
 
-**Kombi-Grundsätze:**
-- NBA-Player-Props **NIE als SAFE** (Playoff-Varianz)
-- Safe-Kombi: nur SAFE-Beine
-- Risiko-Kombi: 3–5 Beine mit Quote 3.0+, keine Banker-Füller
-- Keine Spieler-Stacks über mehrere Kombis (Wemby-Lesson)
-- Gesamtquote IMMER nachrechnen — „~8" wenn 5.4 rauskommt ist verboten
+**Einsatz-Limits:** Einzel SAFE/VALUE 1-2%, Einzel WACKEL 0,5-1%, Safe-Kombi 1-2%, Balance 0,5-1%, Risiko max 0,25%, Moonshot max 0,1%.
 
 ---
 
-## 9. Ton & Ehrlichkeit
+## 11. Ton & Ehrlichkeit
 
 - Deutsch, locker, Kumpel-Analyst
-- Keine englischen Wettbegriffe („Beide Teams treffen", nicht „BTTS")
-- „Sieht nach Wert aus" statt „Jackpot winkt"
-- Coinflip-Spiele markieren und zum Überspringen empfehlen
+- "Sieht nach Wert aus" statt "Jackpot winkt"
+- Coinflip-Spiele markieren und zum Ueberspringen empfehlen
 - Bei Fehlern: sofort zugeben, nicht rausreden
-- User-Ideen nicht als eigene Analyse verkaufen
+- User-Ideen nicht als eigene verkaufen
+- Kombi-Quoten IMMER nachrechnen
 
 ---
 
-## 10. Was gerade im Fluss ist (Stand 27.04.2026)
+## 12. Was gerade laeuft (Stand 27.04. abend)
 
-- ✅ Autopilot (3 Scheduled Tasks) läuft
-- ✅ iPhone-PWA installiert und kompakt
-- ✅ Fine-grained Token in `.claude/github_token.txt`, 1 Jahr gültig
-- ✅ Mobile-CSS kompakt
-- ✅ Service Worker v2
-- ✅ 14 Lessons in lessons.json
-- ✅ bet365-Sonderregeln (2:0-Insurance + Einwechslungs-Boost) in CLAUDE.md + ergebnisse_holen.py auto
-- ✅ Liga-Checkliste (16 Wettbewerbe) als Pflicht-Block in beiden Tipps-Tasks
-- ✅ Saison-Kontext (4 Faktoren) als Pflicht
-- ✅ Roster-Verifikation Pflicht (kein Trae-Young-Fail mehr)
-- ✅ Quoten-Verifikation via Aggregator Pflicht
-- ✅ NBA-Player-Punkte/DD/TD aus Einzeltipps raus, in Spiel-Analyse als WACKEL, in Moonshot erlaubt
-- 🔄 Lessons wachsen automatisch durch 10:30-Task
-- 🔄 Melvi nutzt Tool vor allem auf iPhone
+- ✅ Cloud-Autopilot via /schedule (3 Routines)
+- ✅ iOS-Web-Push direkt aus PWA
+- ✅ Quoten-Hartregel + Pinnacle-Edge-Filter + Beobachtungs-Liga-Filter
+- ✅ Auto-generierte Beobachtungs-Liga-Liste
+- ✅ CLV-Tracking-Pipeline (initial leer, fuellt sich auf)
+- ✅ Dynamischer PWA-Header aus aktuellem tipps.json
+- ✅ 16 Lessons in lessons.json
+- ✅ Service Worker v4
 
-### ⚠️ Performance-Stand 27.04.
+### Performance-Stand 27.04.
+**65 Tipps · 60% Trefferquote · ROI -2,5% · Netto -1,61 U**
 
-**65 Tipps · 60 % Trefferquote · ROI −2,5 % · Netto −1,61 U**
+Erwartete Wirkung der heute eingebauten Hebel: ROI sollte sich Richtung +3 bis +8% bewegen ueber die naechsten 1-2 Wochen. Erste Validierung morgen 16:00 (erster Tipps-Run unter neuen Regeln). Echte Bewertung in 7-14 Tagen.
 
-Trend: schlechter geworden seit Liga-Vollständigkeit eingebaut wurde (vorher 65,3 % / +6,9 % bei 49 Tipps). Ursachen:
-- 2. Bundesliga (5 Tipps, ROI −40 %), Ligue 1 (2/2 verloren), Serie A (−32 %) — der Agent hatte für diese Ligen kein Form-Wissen
-- Bundesliga (+13,5 %) und NBA G4 (+26,5 %) performen weiterhin gut
-- LaLiga ist vom Plus ins Minus gerutscht
-
-**Empfehlung an den nächsten Claude:** Ligen-Form-Lessons gezielt aufbauen. Wenn Agent eine Liga schlecht trifft (≤40 % bei ≥10 Tipps), dann pro Liga ein Sub-Lessons-Set in lessons.json (Stil-Tendenzen, Heimstärken, typische Quoten-Fallen). Die neuen Ligen brauchen 2-3 Wochen bis das Tool für sie kalibriert ist.
-
-**Offene Themen / mögliche nächste Ausbaustufen:**
-- Langfristig: Cloud-Hosting damit PC nicht immer an sein muss (5 €/Monat, nicht dringend)
-- balldontlie GOAT ($9/Monat) für Auto-Spielerpunkte (nice-to-have)
-- Mehrere Kassen-Profile / verschiedene Einsatz-Strategien tracken (idee, nicht gebaut)
+### Naechste moegliche Ausbaustufen
+- **Stake-Sizing per Half-Kelly** (sobald CLV-Daten zeigen dass Edge real ist)
+- **Markt-Spezialisierung** (welche Markt-Typen sind bei uns +ROI? Datenanalyse nach 50+ neuen Tipps)
+- **bet365-Limit-Awareness** (wenn das Konto nach Wochen +ROI begrenzt wird, Routinen passen Stake-Empfehlungen an)
+- **Cloud-Hosting unabhaengig** (5€/Monat — nicht dringend, Routines laufen sowieso in Cloud)
 
 ---
 
-## 11. Erste Nachricht an Melvi nach Handoff
+## 13. Erste Nachricht an Melvi nach Handoff
 
-> „Ok, bin auf Stand. CLAUDE.md, lessons.json, letzte Ergebnisse gelesen.
-> Aktuell hast du [X] Tipps Historie, Trefferquote Y%, ROI Z%.
-> Autopilot läuft (nächster Run: ...).
+> "Ok, bin auf Stand. CLAUDE.md, lessons.json, beobachtungs_ligen.json, letzte Ergebnisse gelesen.
+> Aktuelle Bilanz: [X] Tipps, Trefferquote Y%, ROI Z%.
+> Beobachtungs-Ligen aktuell: [Liste].
+> Naechster Auto-Run: [Zeit].
 > Was soll ich machen?"
 
 ---
 
-**Viel Glück, neuer Claude. Sei ehrlich, rechne Kombis nach, respektiere die Regeln.
-Das Tool lebt von Konsistenz — nicht von Hype.** 🐚
+**Sei ehrlich, rechne Kombis nach, respektiere die Regeln. Das Tool lebt von Konsistenz — nicht von Hype.** 🐚
