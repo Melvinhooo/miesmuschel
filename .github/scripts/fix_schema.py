@@ -67,6 +67,17 @@ def fix(path):
         for tipp in spiel.get('tipps', []):
             remap(tipp, TIPP_RENAMES)
             normalize_kategorie(tipp)
+            # markt+auswahl kombinieren (Routine schreibt oft markt=Typ, auswahl=Pick)
+            if tipp.get('auswahl'):
+                # Wenn auswahl verständlicher als markt allein → ersetze
+                tipp['markt'] = tipp['auswahl']
+                tipp.pop('auswahl', None)
+            # Markt-Typ-Praefixe in eckigen Klammern entfernen die Routine manchmal anhaengt
+            for prefix in ['Spieler-Punkte (NUR für Risiko/Moonshot, nicht Einzeltipps)',
+                          'Spieler-Punkte (RISIKO/MOONSHOT-Optionsbein, nicht Einzeltipp)',
+                          'Tipp-Spieler Punkte (RISIKO/MOONSHOT)']:
+                if tipp.get('markt') == prefix:
+                    tipp['markt'] = 'Spieler-Punkte (Risiko/Moonshot)'
             # faire_quote default falls fehlt
             if 'faire_quote' not in tipp or tipp['faire_quote'] is None:
                 if tipp.get('quote') and tipp.get('edge_prozent'):
@@ -100,6 +111,31 @@ def fix(path):
         # Beine
         for bein in k.get('beine', []):
             remap(bein, BEIN_RENAMES)
+            # auswahl in markt mergen wenn vorhanden
+            if bein.get('auswahl') and not bein.get('markt'):
+                bein['markt'] = bein['auswahl']
+                bein.pop('auswahl', None)
+
+    # Schlechte Markt-Typen droppen (Lottery, exotisch, doppelt)
+    # Routine entscheidet selbst wie viele Tipps - nur Muell rauswerfen
+    DROP_PATTERNS = [
+        'exakt',                   # "Anzahl Tore exakt" - Lottery
+        'spielausgang hz',         # HZ/ES-Kombi - sehr unzuverlaessig
+        'hz/es',
+        'halbzeit/endstand',
+        '100+ punkte',             # Quasi sicher bei NBA, kein Edge
+        'genaues ergebnis',        # Lottery
+        'erste karte',             # Karten verboten in DE eh
+        'eckball',                 # verboten
+    ]
+    for spiel in d.get('spiele', []):
+        kept = []
+        for tipp in spiel.get('tipps', []):
+            markt = (tipp.get('markt') or '').lower()
+            if any(p in markt for p in DROP_PATTERNS):
+                continue
+            kept.append(tipp)
+        spiel['tipps'] = kept
 
     # _test_trigger Cleanup
     d.pop('_test_trigger', None)
