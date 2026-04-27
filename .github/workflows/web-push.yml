@@ -1,0 +1,22 @@
+name: Web Push on Tipps Update
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/tipps/*.json'
+  workflow_dispatch:
+
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - run: pip install --quiet pywebpush
+      - run: python .github/scripts/send_push.py
+        env:
+          VAPID_PRIVATE: ${{ secrets.VAPID_PRIVATE }}
+          PUSH_SUB: ${{ secrets.PUSH_SUB }}
