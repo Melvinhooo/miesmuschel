@@ -214,15 +214,33 @@ $json = [System.IO.File]::ReadAllText($src, $utf8NoBom)
 
 ---
 
-## 10. Was gerade im Fluss ist (Stand bei Handoff-Schreibzeit)
+## 10. Was gerade im Fluss ist (Stand 27.04.2026)
 
 - ✅ Autopilot (3 Scheduled Tasks) läuft
 - ✅ iPhone-PWA installiert und kompakt
 - ✅ Fine-grained Token in `.claude/github_token.txt`, 1 Jahr gültig
-- ✅ Mobile-CSS seit April 2026 kompakt
+- ✅ Mobile-CSS kompakt
 - ✅ Service Worker v2
+- ✅ 14 Lessons in lessons.json
+- ✅ bet365-Sonderregeln (2:0-Insurance + Einwechslungs-Boost) in CLAUDE.md + ergebnisse_holen.py auto
+- ✅ Liga-Checkliste (16 Wettbewerbe) als Pflicht-Block in beiden Tipps-Tasks
+- ✅ Saison-Kontext (4 Faktoren) als Pflicht
+- ✅ Roster-Verifikation Pflicht (kein Trae-Young-Fail mehr)
+- ✅ Quoten-Verifikation via Aggregator Pflicht
+- ✅ NBA-Player-Punkte/DD/TD aus Einzeltipps raus, in Spiel-Analyse als WACKEL, in Moonshot erlaubt
 - 🔄 Lessons wachsen automatisch durch 10:30-Task
 - 🔄 Melvi nutzt Tool vor allem auf iPhone
+
+### ⚠️ Performance-Stand 27.04.
+
+**65 Tipps · 60 % Trefferquote · ROI −2,5 % · Netto −1,61 U**
+
+Trend: schlechter geworden seit Liga-Vollständigkeit eingebaut wurde (vorher 65,3 % / +6,9 % bei 49 Tipps). Ursachen:
+- 2. Bundesliga (5 Tipps, ROI −40 %), Ligue 1 (2/2 verloren), Serie A (−32 %) — der Agent hatte für diese Ligen kein Form-Wissen
+- Bundesliga (+13,5 %) und NBA G4 (+26,5 %) performen weiterhin gut
+- LaLiga ist vom Plus ins Minus gerutscht
+
+**Empfehlung an den nächsten Claude:** Ligen-Form-Lessons gezielt aufbauen. Wenn Agent eine Liga schlecht trifft (≤40 % bei ≥10 Tipps), dann pro Liga ein Sub-Lessons-Set in lessons.json (Stil-Tendenzen, Heimstärken, typische Quoten-Fallen). Die neuen Ligen brauchen 2-3 Wochen bis das Tool für sie kalibriert ist.
 
 **Offene Themen / mögliche nächste Ausbaustufen:**
 - Langfristig: Cloud-Hosting damit PC nicht immer an sein muss (5 €/Monat, nicht dringend)
