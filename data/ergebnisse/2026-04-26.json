@@ -1,0 +1,1410 @@
+{
+  "datum": "2026-04-26",
+  "erstellt_am": "2026-04-26T11:30:00+02:00",
+  "hinweis": "Wochenend-Paket Sonntag: 2x Bundesliga, 3x 2. Bundesliga, 4x Serie A, 1x LaLiga, 1x Ligue 1, 1x FA Cup Halbfinale (Wembley) + 4x NBA Playoffs G4 (Nacht zu Mo). Liga-Checkliste durchgegangen: BL/2BL/LaLiga/SerieA/L1/FA Cup/NBA aktiv, Premier League heute kein Spiel (FA-Cup-Wochenende), DFB-Pokal HF schon Mi/Do gespielt, Coppa Italia HF Rück 21./22.04. abgehakt, Copa del Rey Final war 18.04., Coupe de France keine Sonntagsspiele, CL/EL/Conference WE-frei. Lessons scharf angewandt: NBA-Playoff-Player-Punkte/DD KOMPLETT aus Einzeltipps gestrichen (Markt-Boykott nach 5/17-Hitrate), G4 mit Sweep-Druck egal welche Seite NICHT SAFE (Lakers @ Rockets daher in Moonshot, nicht Safe), Quoten via Wettbasis/Sportsgambler/CBS Sports/Oddschecker verifiziert, Saison-Kontext-4-Faktoren pro Spiel im begruendung-Feld. 2:0-Insurance-Edge identifiziert: Bremen Sieg in Stuttgart bei ~6.20 (Bremen dezimiert, daher trotzdem im Moonshot, kein Einzel). Einwechslungs-Boost-Edge: Undav trifft @ 1.85 (Demirovic als Backup-Stuermer-Qualitaet auf Bank — Tor des Ersatzes zaehlt fuer Undav).",
+  "spiele": [
+    {
+      "id": "2026-04-26-stuttgart-bremen",
+      "liga": "Bundesliga",
+      "heim": "VfB Stuttgart",
+      "gast": "SV Werder Bremen",
+      "anstoss": "2026-04-26T15:30:00+02:00",
+      "stadion": "MHPArena",
+      "news": [
+        "Saison-Kontext Stuttgart: Top-4/CL-Quali-Kampf + DFB-Pokalfinale 16.05. → Doppelbelastung. Letztes Spiel Do 23.04. DFB-Pokal-HF (1:0 vs Freiburg n.V. — 120 Min Belastung). Recovery nur 3 Tage.",
+        "Saison-Kontext Bremen: Tabellen-Mittelfeld, kein direkter Abstiegs-/Europa-Druck mehr → reine Spielbetriebs-Motivation. Massive Verletzungswelle: Topp + Weiser + Adeh + Malatini + Hein alle out.",
+        "Voraussichtliche Aufstellung VfB: Nuebel - Vagnoman, Hendriks, Chabot, Mittelstaedt - Karazor, Stiller - Leweling, Undav, Fuehrich - Demirovic. Demirovic + Undav als Doppel-9er = Einwechslungs-Boost-Setup falls Wechsel.",
+        "Bet365-Quote Stuttgart Sieg ~1.50, Bremen Sieg ~6.20, Remis ~4.40 (Wettbasis 25.04 18:17)",
+        "KI-Modelle geben Stuttgart 61% Sieg-Wahrscheinlichkeit"
+      ],
+      "tipps": [
+        {
+          "id": "t1",
+          "markt": "VfB Stuttgart Doppelte Chance (1X)",
+          "quote": 1.2,
+          "faire_quote": 1.16,
+          "edge_prozent": 3,
+          "kategorie": "safe",
+          "begruendung": "Bremen reist mit dezimiertem Kader, kein Saisonziel mehr. Stuttgart trotz Pokal-Belastung zuhause klar drueber. DC faengt Mueder-Beine-Remis-Risiko ab. SAFE-Reality-Check: Klassendifferenz + Topscorer fit + kein Backs-against-the-wall-Underdog (Bremen ist gerettet, ohne Druck). Lesson 25.04. greift.",
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "t2",
+          "markt": "VfB Stuttgart Sieg",
+          "quote": 1.5,
+          "faire_quote": 1.45,
+          "edge_prozent": 3,
+          "kategorie": "value",
+          "begruendung": "Heim + Bremen-Verletzungs-Krise + Heim-Stuttgart-Druck (CL-Quali). Recovery-Risiko nach 120 Min Pokal Donnerstag ist real, daher VALUE statt SAFE. Quote bei 1.50 fair-positiv.",
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "t3",
+          "markt": "Deniz Undav trifft (jederzeit)",
+          "quote": 1.85,
+          "faire_quote": 1.7,
+          "edge_prozent": 8,
+          "kategorie": "value",
+          "begruendung": "Undav 18 Saisontore + Heim + Bremen-Defense ohne Topp/Weiser. Einwechslungs-Boost-Edge: Demirovic (9 Saisontore) als Doppel-9er-Backup auf dem Platz oder Bank — bei Undav-Auswechslung zaehlt Demirovic-Tor fuer Undav-Tipp (bet365-Regel). Quote 1.85 hat Edge.",
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "t4",
+          "markt": "Mehr als 2.5 Tore",
+          "quote": 1.85,
+          "faire_quote": 1.8,
+          "edge_prozent": 3,
+          "kategorie": "wackel",
+          "begruendung": "Stuttgart Heimtore-Schnitt 2.0, Bremen Auswaerts trotz Defense-Krise zaeh. Coinflip-nah, leichter Edge. Reduziertes Risiko.",
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 1,
+        "halbzeit": {
+          "heim": 0,
+          "gast": 1
+        },
+        "quelle": "football-data.org+WebSearch",
+        "abgerufen_am": "2026-04-27T11:00:00+02:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.2,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "t2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "t3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Undav startete, traf nicht. Demirović traf in 61.' (kam fuer Tiago Tomas in 57.', NICHT fuer Undav) — kein Einwechslungs-Boost fuer Undav (Ersatz war fuer Tiago Tomas)."
+        },
+        {
+          "tipp_id": "t4",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": ""
+        }
+      ]
+    },
+    {
+      "id": "2026-04-26-dortmund-freiburg",
+      "liga": "Bundesliga",
+      "heim": "Borussia Dortmund",
+      "gast": "SC Freiburg",
+      "anstoss": "2026-04-26T17:30:00+02:00",
+      "stadion": "Signal Iduna Park",
+      "news": [
+        "Saison-Kontext BVB: Top-4/CL-Quali-Kampf, ABER 2 Bundesliga-Niederlagen in Folge (Leverkusen 0:1, Hoffenheim 1:2). Vor Slump nur 2 Niederlagen in 28 Spielen — Klasse-Comeback ueberfaellig. Kein Pokal/Europa diese Woche (CL-Aus laengst durch). Recovery 6 Tage.",
+        "Saison-Kontext Freiburg: 7. Platz, Conference/EL-Quali-Kampf. ABER Donnerstag 23.04. DFB-Pokal-HF in Stuttgart verloren (0:1 n.V., 120 Min Belastung). Doppelbelastung greift, Recovery nur 3 Tage.",
+        "Verletzte BVB: Adeyemi (muskulaer), Can (Kreuzband), Nmecha (Knie), Suele (Knie). Voraussichtliche Aufstellung: Kobel - Anton, Schlotterbeck, Bensebaini - Ryerson, Bellingham, Svensson - Sabitzer, Brandt - Guirassy, Beier",
+        "Verletzte Freiburg: Osterhage (out)",
+        "H2H: Freiburg konnte BVB in letzten 8 Begegnungen nicht schlagen, 7 Niederlagen",
+        "Bet365-Quote BVB Sieg ~1.43, Freiburg Sieg ~7.0, Remis ~5.20"
+      ],
+      "tipps": [
+        {
+          "id": "t5",
+          "markt": "Borussia Dortmund Sieg",
+          "quote": 1.43,
+          "faire_quote": 1.4,
+          "edge_prozent": 2,
+          "kategorie": "safe",
+          "begruendung": "Klassendifferenz hoch, Heim-Festung, Freiburg doppelbelastet (Pokal-HF Donnerstag, 120 Min Belastung) und ohne CL-Quali-Druck. SAFE-Reality-Check: Topscorer Guirassy fit, kein Backs-against-the-wall-Underdog (Freiburg gut platziert). 2-Niederlagen-Slump beobachten, aber gegen mueden Freiburg-Block daheim Klasse-Bounce-Back wahrscheinlich.",
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "t6",
+          "markt": "Beide Teams treffen: JA",
+          "quote": 1.77,
+          "faire_quote": 1.65,
+          "edge_prozent": 7,
+          "kategorie": "value",
+          "begruendung": "Freiburg hat in letzten 7 Spielen IMMER getroffen. BVB-Defense mit Anton/Schlotterbeck zuverlaessig aber nicht null-zu-null-Garantie. In 6 von 9 letzten BVB-Spielen BTTS. Quote 1.77 mit Edge.",
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "t7",
+          "markt": "Serhou Guirassy trifft (jederzeit)",
+          "quote": 1.65,
+          "faire_quote": 1.6,
+          "edge_prozent": 3,
+          "kategorie": "value",
+          "begruendung": "Guirassy Top-Scorer BVB, Heim, Freiburg-Defense ohne Osterhage. Einwechslungs-Boost-Setup: Beier oder Sabitzer als alternative Stuermer-Backups falls Auswechslung. Solide Wahrscheinlichkeit.",
+          "empfohlener_einsatz_prozent": 1.0
+        }
+      ],
+      "ergebnis": {
+        "heim_tore": 4,
+        "gast_tore": 0,
+        "halbzeit": {
+          "heim": 3,
+          "gast": 0
+        },
+        "quelle": "football-data.org",
+        "abgerufen_am": "2026-04-27T10:54:12+02:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t5",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.43,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "t6",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "t7",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Guirassy traf 14.' zum 2:0 (Assist Brandt)."
+        }
+      ]
+    },
+    {
+      "id": "2026-04-26-paderborn-schalke",
+      "liga": "2. Bundesliga",
+      "heim": "SC Paderborn 07",
+      "gast": "FC Schalke 04",
+      "anstoss": "2026-04-26T13:30:00+02:00",
+      "stadion": "Home Deluxe Arena",
+      "news": [
+        "Saison-Kontext: Spitzenduell. Schalke Tabellenfuehrer (61 Pkt), Paderborn 2. (58 Pkt). Direkter Aufstiegs-Schlager — beide spielen um Bundesliga-Aufstieg.",
+        "Motivations-Asymmetrie nicht da — beide voll auf Aufstieg. Heim-Vorteil + Druck-Druck-Spiel.",
+        "Bet365-Quote: Paderborn Sieg ~2.45, Schalke Sieg ~3.22, Remis ~3.60",
+        "DC X2 (Schalke oder Remis) bei AdmiralBet 1.50",
+        "BTTS bei 1.57"
+      ],
+      "tipps": [
+        {
+          "id": "t8",
+          "markt": "Schalke 04 Doppelte Chance (X2)",
+          "quote": 1.5,
+          "faire_quote": 1.45,
+          "edge_prozent": 3,
+          "kategorie": "value",
+          "begruendung": "Tabellenfuehrer Schalke darf hier nicht verlieren, sonst kippt Aufstiegs-Race. DC faengt Remis ab. Schalke in besserer Form ueber 5er-Block.",
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "t9",
+          "markt": "Beide Teams treffen: JA",
+          "quote": 1.57,
+          "faire_quote": 1.55,
+          "edge_prozent": 1,
+          "kategorie": "wackel",
+          "begruendung": "Top-Spiel, beide offensiv. Aber Druck-Spiele in 2.BL oft taktisch, unter 2 Tore moeglich. Knapper Edge.",
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 3,
+        "halbzeit": {
+          "heim": 2,
+          "gast": 2
+        },
+        "quelle": "WebSearch (kicker.de)",
+        "abgerufen_am": "2026-04-27T11:00:00+02:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t8",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Schalke gewann 3:2 nach 0:2-Rueckstand. DC X2 erfuellt."
+        },
+        {
+          "tipp_id": "t9",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "BTTS — Curda+Marino fuer Paderborn, Ljubicic 2x+Aouchiche fuer Schalke."
+        }
+      ]
+    },
+    {
+      "id": "2026-04-26-bochum-fuerth",
+      "liga": "2. Bundesliga",
+      "heim": "VfL Bochum",
+      "gast": "SpVgg Greuther Fuerth",
+      "anstoss": "2026-04-26T13:30:00+02:00",
+      "stadion": "Vonovia Ruhrstadion",
+      "news": [
+        "Saison-Kontext Bochum: Mittelfeld-Tabelle 2.BL, im Aufstiegs-Race-Auslaufen aber Heim-Stark.",
+        "Saison-Kontext Fuerth: Tabellen-Mittelfeld, ohne Aufstiegs-/Abstiegs-Druck.",
+        "Motivations-Asymmetrie zugunsten Bochum (Heim + Aufstiegs-Restchance).",
+        "Bet365-Quote Bochum Sieg ~1.75, Fuerth Sieg ~4.50, Remis ~4.30",
+        "BTTS JA @ 1.56"
+      ],
+      "tipps": [
+        {
+          "id": "t10",
+          "markt": "VfL Bochum Sieg",
+          "quote": 1.75,
+          "faire_quote": 1.65,
+          "edge_prozent": 6,
+          "kategorie": "value",
+          "begruendung": "Heim-Vorteil + Aufstiegs-Druck (Bochum braucht jeden Punkt) vs Fuerth ohne Druck. Klare Motivations-Asymmetrie zugunsten Heim. Quote 1.75 hat Value.",
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "t11",
+          "markt": "Beide Teams treffen: JA",
+          "quote": 1.56,
+          "faire_quote": 1.55,
+          "edge_prozent": 1,
+          "kategorie": "wackel",
+          "begruendung": "Beide Defensiven mittelmaessig. Fuerth auswaerts oft offensiv mutig. Knapper Edge — als Wackel.",
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 1,
+        "halbzeit": {
+          "heim": 1,
+          "gast": 0
+        },
+        "quelle": "WebSearch (kicker.de)",
+        "abgerufen_am": "2026-04-27T11:00:00+02:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t10",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Bochum 2:1, Hofmann-Doppelpack (1.', 56.'). Fuerth Anschluss durch Futkeu (87.')."
+        },
+        {
+          "tipp_id": "t11",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "BTTS — Hofmann 2x fuer Bochum, Futkeu fuer Fuerth."
+        }
+      ]
+    },
+    {
+      "id": "2026-04-26-nuernberg-magdeburg",
+      "liga": "2. Bundesliga",
+      "heim": "1. FC Nuernberg",
+      "gast": "1. FC Magdeburg",
+      "anstoss": "2026-04-26T13:30:00+02:00",
+      "stadion": "Max-Morlock-Stadion",
+      "news": [
+        "Saison-Kontext Nuernberg: 9. Platz (38 Pkt), Mittelfeld, Heim-Vorteil aber wechselhafte Form.",
+        "Saison-Kontext Magdeburg: 13. Platz (33 Pkt), Top-Torjaeger Mateusz Zukowski (17 Tore) gelb-gesperrt — fehlt komplett. Punkteausbeute ohne ihn diese Saison nur 0,6/Spiel statt 1,4/Spiel.",
+        "Motivations-Asymmetrie: Magdeburg hat keinen direkten Druck mehr, ohne Top-Torjaeger schwach.",
+        "Bet365-Quote Nuernberg Sieg ~2.45, Magdeburg Sieg ~2.81, Remis ~3.70 — relativ ausgeglichen aber Heim-Edge"
+      ],
+      "tipps": [
+        {
+          "id": "t12",
+          "markt": "1. FC Nuernberg Doppelte Chance (1X)",
+          "quote": 1.45,
+          "faire_quote": 1.38,
+          "edge_prozent": 5,
+          "kategorie": "value",
+          "begruendung": "Magdeburg ohne Top-Stuermer Zukowski (gesperrt) deutlich geschwaecht — historische Punkteausbeute ohne ihn nur 0,6/Spiel. Heim-Nuernberg sollte mindestens Punkt holen. DC sicherer als reiner Sieg.",
+          "empfohlener_einsatz_prozent": 1.0
+        }
+      ],
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 0,
+        "halbzeit": {
+          "heim": 1,
+          "gast": 0
+        },
+        "quelle": "WebSearch (kicker.de)",
+        "abgerufen_am": "2026-04-27T11:00:00+02:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t12",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Nuernberg 1:0 durch Lubach (45.+2). DC 1X klar erfuellt — Klassenerhalt gesichert."
+        }
+      ]
+    },
+    {
+      "id": "2026-04-26-torino-inter",
+      "liga": "Serie A",
+      "heim": "Torino",
+      "gast": "Inter Mailand",
+      "anstoss": "2026-04-26T18:00:00+02:00",
+      "stadion": "Stadio Olimpico Grande Torino",
+      "news": [
+        "Saison-Kontext Inter: Top-Spitze Serie A — kaempft um Meisterschaft, ein Patzer = Risiko. Donnerstag 23.04. NICHT mehr in CL (Halbfinal-Aus) → keine Mittwoch-Belastung diese Woche. Coppa Italia HF Rueck Inter-Como war 21.04. abgehakt.",
+        "Saison-Kontext Torino: 10. Platz, Tabellen-Mittelfeld ohne Druck. Heim-Faktor + Underdog-Mentalitaet.",
+        "Bet365-Quote Inter Sieg ~1.40, Torino Sieg ~7.50, Remis ~4.85",
+        "Voraussichtliche Aufstellungen: Inter (3-5-2): Sommer; Bisseck, Akanji, Carlos Augusto; Dumfries, Barella, Calhanoglu, Zielinski, Dimarco; Thuram, Esposito"
+      ],
+      "tipps": [
+        {
+          "id": "t13",
+          "markt": "Inter Mailand Sieg",
+          "quote": 1.4,
+          "faire_quote": 1.35,
+          "edge_prozent": 4,
+          "kategorie": "safe",
+          "begruendung": "Klassendifferenz extrem (Tabellenfuehrer vs Mittelfeld), Inter ohne CL-Belastung diese Woche, Topscorer-Block Thuram/Esposito fit. SAFE-Reality-Check: Klassendifferenz + kein Sweep-Druck/Backs-against-the-wall + Topscorer fit. Inter spielt um Meisterschaft = volle Konzentration.",
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "t14",
+          "markt": "Inter Mehr als 1.5 Tore",
+          "quote": 1.3,
+          "faire_quote": 1.28,
+          "edge_prozent": 2,
+          "kategorie": "safe",
+          "begruendung": "Inter Auswaerts-Tore-Schnitt 2.1, Torino-Defense Mittelmass. 2+ Inter-Tore klar wahrscheinlich.",
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "t15",
+          "markt": "Mehr als 2.5 Tore",
+          "quote": 1.85,
+          "faire_quote": 1.8,
+          "edge_prozent": 3,
+          "kategorie": "value",
+          "begruendung": "Inter offensiv stark, Torino versucht zu kontern. Über 2.5 mit leichtem Edge.",
+          "empfohlener_einsatz_prozent": 1.0
+        }
+      ],
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 2,
+        "halbzeit": {
+          "heim": 0,
+          "gast": 1
+        },
+        "quelle": "football-data.org",
+        "abgerufen_am": "2026-04-27T10:54:20+02:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t13",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "t14",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.3,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "t15",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.85,
+          "kommentar": ""
+        }
+      ]
+    },
+    {
+      "id": "2026-04-26-milan-juventus",
+      "liga": "Serie A",
+      "heim": "AC Milan",
+      "gast": "Juventus Turin",
+      "anstoss": "2026-04-26T20:45:00+02:00",
+      "stadion": "Stadio Giuseppe Meazza (San Siro)",
+      "news": [
+        "Saison-Kontext: Direktes CL-Quali-Duell. Milan 2. (66 Pkt), Juve 4. (63 Pkt). Beide brauchen jeden Punkt fuer Champions-League-Quali-Direkt-Slot.",
+        "Motivations-Symmetrie: beide voll motiviert, keine Asymmetrie.",
+        "Bet365-Quote Juve Sieg ~2.45 leichter Auswaertsfavorit, Milan Sieg ~3.00, Remis ~3.10",
+        "Snai-Quote bestaetigt: Juve 2.45, Milan 3.00, Remis 3.10",
+        "Coinflip-Charakter mit leichtem Juve-Edge auswaerts"
+      ],
+      "tipps": [
+        {
+          "id": "t16",
+          "markt": "Juventus Doppelte Chance (X2)",
+          "quote": 1.45,
+          "faire_quote": 1.4,
+          "edge_prozent": 3,
+          "kategorie": "value",
+          "begruendung": "Juve in besserer Form auswaerts, Milan zuhause inkonsistent. CL-Quali-Druck auf beiden Seiten = Juve nicht verlieren wollen. DC faengt Remis ab. Coinflip-nah, leichter Edge.",
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "t17",
+          "markt": "Weniger als 2.5 Tore",
+          "quote": 1.85,
+          "faire_quote": 1.8,
+          "edge_prozent": 3,
+          "kategorie": "wackel",
+          "begruendung": "CL-Quali-Druck-Spiele oft taktisch eng, Tor-armes Duell wahrscheinlich. Aber Top-Stuermer auf beiden Seiten = Risiko. Coinflip.",
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "ergebnis": {
+        "heim_tore": 0,
+        "gast_tore": 0,
+        "halbzeit": {
+          "heim": 0,
+          "gast": 0
+        },
+        "quelle": "football-data.org",
+        "abgerufen_am": "2026-04-27T10:54:20+02:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t16",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.45,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "t17",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.85,
+          "kommentar": ""
+        }
+      ]
+    },
+    {
+      "id": "2026-04-26-osasuna-sevilla",
+      "liga": "LaLiga",
+      "heim": "CA Osasuna",
+      "gast": "Sevilla FC",
+      "anstoss": "2026-04-26T18:30:00+02:00",
+      "stadion": "El Sadar",
+      "news": [
+        "Saison-Kontext Osasuna: 10. Platz (39 Pkt), Mittelfeld ohne Druck. Heim-Stark (8S-5U-2N).",
+        "Saison-Kontext Sevilla: 17. Platz (34 Pkt) — Abstiegskampf-Druck akut! 4 von 5 letzten Spielen verloren oder remis. Krisen-Modus.",
+        "Motivations-Asymmetrie KOMPLEX: Sevilla braucht Punkte um Abstieg zu vermeiden = hohe Motivation, ABER Form-Krise. Osasuna ohne Druck = Spielbetriebs-Modus.",
+        "Bet365-Quote Osasuna Sieg ~2.14, Sevilla Sieg ~3.35, Remis ~3.20"
+      ],
+      "tipps": [
+        {
+          "id": "t18",
+          "markt": "Sevilla Doppelte Chance (X2)",
+          "quote": 1.7,
+          "faire_quote": 1.6,
+          "edge_prozent": 6,
+          "kategorie": "value",
+          "begruendung": "Sevilla im Abstiegskampf = Backs-against-the-wall-Motivation, MUSS punkten. Osasuna ohne Druck. DC faengt Auswaerts-Remis ab. Quote 1.70 attraktiv. Achtung: Korrelation mit Lesson 25.04. (Backs-against-the-wall-Underdog kann Heim-Favorit kippen) — hier umgekehrt: Sevilla ist Auswaerts-Underdog mit Druck.",
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "t19",
+          "markt": "Osasuna Sieg",
+          "quote": 2.14,
+          "faire_quote": 2.2,
+          "edge_prozent": -3,
+          "kategorie": "wackel",
+          "begruendung": "Osasuna Heim-Stark, Sevilla in Krise. Aber Sevilla-Druck = unberechenbar. Coinflip mit Heim-Edge nominal, aber Abstiegs-Underdog-Risiko spricht eher fuer Sevilla-DC. Niedriger Einsatz.",
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 1,
+        "halbzeit": {
+          "heim": 0,
+          "gast": 0
+        },
+        "quelle": "football-data.org",
+        "abgerufen_am": "2026-04-27T10:54:27+02:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t18",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "t19",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Osasuna 2:1 — Heim-Sieg trotz Sevilla-Druck."
+        }
+      ]
+    },
+    {
+      "id": "2026-04-26-marseille-nice",
+      "liga": "Ligue 1",
+      "heim": "Olympique Marseille",
+      "gast": "OGC Nice",
+      "anstoss": "2026-04-26T20:45:00+02:00",
+      "stadion": "Stade Velodrome",
+      "news": [
+        "Saison-Kontext Marseille: 6. Platz (52 Pkt), Europa/CL-Quali-Kampf. Heimstark: 67% Heimsiege, 2.20 Pkt/Heimspiel.",
+        "Saison-Kontext Nice: 15. Platz (29 Pkt), Mittelfeld nahe Abstieg, Auswaerts katastrophal: 0.73 Pkt/Auswaerts-Spiel, 2.00 Gegentore/Auswaerts.",
+        "Motivations-Asymmetrie KLAR: Marseille (Europa-Quali) > Nice (Spielbetrieb).",
+        "Bet365-Quote Marseille Sieg ~1.46, Nice Sieg ~6.50, Remis ~4.50",
+        "Pronostic-Experten geben Marseille -1 @ 2.18 als Value mit +8.1% Edge"
+      ],
+      "tipps": [
+        {
+          "id": "t20",
+          "markt": "Olympique Marseille Sieg",
+          "quote": 1.46,
+          "faire_quote": 1.4,
+          "edge_prozent": 4,
+          "kategorie": "safe",
+          "begruendung": "Klassendifferenz + Marseille-Heimstaerke + Nice-Auswaerts-Schwaeche extreme. SAFE-Reality-Check: Topscorer fit, kein Sweep-Druck, Klassendifferenz klar. Velodrome-Festung.",
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "t21",
+          "markt": "Marseille Handicap -1 (Marseille gewinnt mit 2+ Toren Vorsprung)",
+          "quote": 2.18,
+          "faire_quote": 1.85,
+          "edge_prozent": 18,
+          "kategorie": "value",
+          "begruendung": "Nice Auswaerts 2.00 Gegentore/Spiel, Marseille Heim-Toren-Schnitt ueber 2.0. -1-Sieg (z.B. 2:0, 3:1) sehr realistisch. Algorithmus-Edge +8% — eher 2-Tore-Sieg-Wahrscheinlichkeit ueber 50%.",
+          "empfohlener_einsatz_prozent": 1.0
+        }
+      ],
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 1,
+        "halbzeit": {
+          "heim": 0,
+          "gast": 0
+        },
+        "quelle": "football-data.org",
+        "abgerufen_am": "2026-04-27T10:54:34+02:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t20",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "t21",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Marseille 1:1 unentschieden — Handicap -1 (Marseille muesste mit 2+ Vorsprung gewinnen) verloren."
+        }
+      ]
+    },
+    {
+      "id": "2026-04-26-chelsea-leeds-facup",
+      "liga": "FA Cup Halbfinale",
+      "heim": "Chelsea",
+      "gast": "Leeds United",
+      "anstoss": "2026-04-26T17:00:00+02:00",
+      "stadion": "Wembley Stadium",
+      "news": [
+        "Saison-Kontext Chelsea: Form-KRISE — 7 von 8 letzten Spielen verloren! Trainer Liam Rosenior gefeuert, Calum McFarlane Interim-HC.",
+        "Saison-Kontext Leeds: Form-HOCH — 7 Spiele unbesiegt. Erste FA Cup HF-Teilnahme seit 40 Jahren.",
+        "Motivations-Asymmetrie: Leeds in Top-Form mit Cup-Romantik vs Chelsea-Krise mit Interim-Trainer = Form > Klasse.",
+        "Wembley als neutraler Boden — kein Heim-Vorteil fuer Chelsea trotz Bezeichnung.",
+        "Bet365-Quote Chelsea Sieg ~1.95 (+105 ML), Leeds Sieg ~3.55 (+255 ML), Remis ~3.60",
+        "Leeds DC (X1) bei Ladbrokes 1.75"
+      ],
+      "tipps": [
+        {
+          "id": "t22",
+          "markt": "Leeds United Doppelte Chance (X2)",
+          "quote": 1.75,
+          "faire_quote": 1.6,
+          "edge_prozent": 9,
+          "kategorie": "value",
+          "begruendung": "Form > Klasse hier: Chelsea verlor 7 von 8, Trainer-Wechsel. Leeds 7 unbesiegt. Wembley = neutral. Markt ueberbewertet Chelsea-Klasse, daher DC X2 mit klarem Edge.",
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "t23",
+          "markt": "Leeds United Sieg (90 Min)",
+          "quote": 3.55,
+          "faire_quote": 2.8,
+          "edge_prozent": 27,
+          "kategorie": "wackel",
+          "begruendung": "Form-Edge sehr stark. Quote 3.55 unterschaetzt Leeds-Momentum + Chelsea-Krise. Cup-HF mit Underdog-Romantik. Wackel wegen Pokal-Varianz, aber Quote klar Value.",
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 0,
+        "halbzeit": {
+          "heim": 1,
+          "gast": 0
+        },
+        "quelle": "WebSearch (Sky Sports/ESPN)",
+        "abgerufen_am": "2026-04-27T11:00:00+02:00"
+      }
+    },
+    {
+      "id": "2026-04-26-cavs-raptors-g4",
+      "liga": "NBA Playoffs R1 G4",
+      "heim": "Toronto Raptors",
+      "gast": "Cleveland Cavaliers",
+      "anstoss": "2026-04-26T19:00:00+02:00",
+      "serienstand": "Cavs 2-1 (Cavs gewannen G3)",
+      "news": [
+        "Cleveland 2-1 vorne, Cavs -3.5 Spread, Cavs ML -165",
+        "WICHTIG: Immanuel Quickley (Toronto Top-Playmaker) verpasst Rest der Serie wegen Hamstring-Reaggravation. Massive Schwaechung Toronto.",
+        "Lesson 24.04. (Cavs-Raptors-G3): Damals Heim-Underdog Raptors gewann ueberraschend +22 ggue Spread. JETZT: Cavs Auswaerts ohne Quickley-Toronto = klar Edge fuer Cavs.",
+        "Lesson 26.04.: NBA-Player-Punkte/DD KEINE Einzeltipps mehr — Markt-Boykott."
+      ],
+      "tipps": [
+        {
+          "id": "t24",
+          "markt": "Cleveland Cavaliers Sieg",
+          "quote": 1.6,
+          "faire_quote": 1.5,
+          "edge_prozent": 6,
+          "kategorie": "value",
+          "begruendung": "Quickley out fuer Toronto = Cavs deutlicher Edge. Cavs 2-1 vorne, Toronto unter Druck. Aber Lesson Sweep-Abwehr-Heimsieg (Raptors gewannen letzte Heim-G3) = nicht SAFE, max VALUE. Quote 1.60 mit Edge.",
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "t25",
+          "markt": "Mehr als 220.5 Punkte gesamt",
+          "quote": 1.9,
+          "faire_quote": 1.85,
+          "edge_prozent": 3,
+          "kategorie": "wackel",
+          "begruendung": "Cavs-Pace + Toronto ohne Quickley spielt Tempo-Basketball ohne Halbfeld-Kontrolle. Knapper Edge.",
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "t26",
+          "markt": "Donovan Mitchell Mehr als 26.5 Pkt (Spiel-Markt-Anzeige, NICHT Einzeltipp)",
+          "quote": 1.85,
+          "faire_quote": 2.0,
+          "edge_prozent": -7,
+          "kategorie": "wackel",
+          "begruendung": "Mitchell Saison-Schnitt 28 Pkt. Aber Lesson NBA-Player-Punkte komplett aus Einzeltipps gestrichen — hier nur als Markt-Anzeige im Spielkontext. Nicht in Einzeltipps oder Safe-Kombi.",
+          "empfohlener_einsatz_prozent": 0
+        }
+      ],
+      "ergebnis": {
+        "heim_tore": 93,
+        "gast_tore": 89,
+        "halbzeit": null,
+        "quelle": "balldontlie.io",
+        "abgerufen_am": "2026-04-27T10:54:38+02:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t24",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "t25",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "t26",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Mitchell-Punkte-Markt: Cavs verloren 89:93 in Toronto, Player-Punkte-Markt-Boykott-Lesson greift. (kein Einsatz, nur Markt-Anzeige)"
+        }
+      ]
+    },
+    {
+      "id": "2026-04-26-spurs-blazers-g4",
+      "liga": "NBA Playoffs R1 G4",
+      "heim": "Portland Trail Blazers",
+      "gast": "San Antonio Spurs",
+      "anstoss": "2026-04-26T21:30:00+02:00",
+      "serienstand": "Spurs 2-1 (Spurs gewannen G3)",
+      "news": [
+        "Spurs 2-1 vorne, Spurs -5.5 Spread.",
+        "WICHTIG: Wembanyama questionable (Concussion). Saß G3 aus, jubelte aber von Bank — gutes Zeichen, Status nicht final.",
+        "Portland sucht Sweep-Abwehr-Sieg.",
+        "Lesson 24.04. (Sweep-Druck-G4): Heim-Underdog kann Auswaerts-Favorit kippen. Daher Spurs Sieg max VALUE, nicht SAFE.",
+        "Lesson 26.04.: NBA-Player-Punkte boykottiert."
+      ],
+      "tipps": [
+        {
+          "id": "t27",
+          "markt": "San Antonio Spurs Sieg",
+          "quote": 1.45,
+          "faire_quote": 1.45,
+          "edge_prozent": 0,
+          "kategorie": "value",
+          "begruendung": "Spurs-Klasse + Serien-Vorsprung. ABER: Wembanyama-Status unklar (Concussion-Recovery), Sweep-Abwehr-Heim-Underdog-Risiko per Lesson. Quote fair, kein klarer Edge — als VALUE fuer Risiko-Kombi-Bein, nicht als Einzel-SAFE.",
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "t28",
+          "markt": "Mehr als 215.5 Punkte gesamt",
+          "quote": 1.9,
+          "faire_quote": 1.85,
+          "edge_prozent": 3,
+          "kategorie": "wackel",
+          "begruendung": "Tempo-Spiel-Charakter, beide Teams jung und schnell. Aber Defensiv-Adjustments G4 immer Risiko. Coinflip-nah.",
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "ergebnis": {
+        "heim_tore": 93,
+        "gast_tore": 114,
+        "halbzeit": null,
+        "quelle": "balldontlie.io",
+        "abgerufen_am": "2026-04-27T10:54:39+02:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t27",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.45,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "t28",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": ""
+        }
+      ]
+    },
+    {
+      "id": "2026-04-26-celtics-76ers-g4",
+      "liga": "NBA Playoffs R1 G4",
+      "heim": "Philadelphia 76ers",
+      "gast": "Boston Celtics",
+      "anstoss": "2026-04-27T01:00:00+02:00",
+      "serienstand": "Celtics 2-1 (Celtics gewannen G3)",
+      "news": [
+        "Boston 2-1 vorne, Celtics -7.5 Spread, Celtics ML -278 (Quote ~1.36).",
+        "WICHTIG: Joel Embiid (76ers-Star) DOUBTFUL — recovery von Appendektomie 09.04., G4-Rueckkehr unwahrscheinlich.",
+        "76ers ohne Embiid praktisch chancenlos. Brunson-Style-Underdog-Bounce-Back nicht moeglich.",
+        "Lesson 24.04. (Cavs-Raptors): Heim-Underdog kann Sweep-Abwehr-Sieg holen — ABER hier ist 76ers ohne Stern, nicht backs-against-the-wall mit voller Truppe. Klassendifferenz + Embiid-Out = SAFE plausibel.",
+        "Lesson 26.04.: NBA-Player-Punkte boykottiert."
+      ],
+      "tipps": [
+        {
+          "id": "t29",
+          "markt": "Boston Celtics Sieg",
+          "quote": 1.36,
+          "faire_quote": 1.3,
+          "edge_prozent": 4,
+          "kategorie": "safe",
+          "begruendung": "Klassendifferenz + Embiid out (76ers ohne Top-Scorer praktisch chancenlos). Boston ATS-stark als Auswaerts-Favorit (16-9 ATS in dieser Position diese Saison). SAFE-Reality-Check: Topscorer Tatum/Brown fit, Klassendifferenz extrem, kein Backs-against-the-wall (76ers ohne Stern, kein Comeback-Risiko). Lesson 24.04. nicht analog (76ers haben keine spielenden Stars fuer Wunder).",
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "t30",
+          "markt": "Mehr als 213.5 Punkte gesamt",
+          "quote": 1.9,
+          "faire_quote": 1.9,
+          "edge_prozent": 0,
+          "kategorie": "wackel",
+          "begruendung": "Embiid-Out reduziert 76ers-Offense, Boston dominiert defensiv = Under-Risiko. Coinflip.",
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "ergebnis": {
+        "heim_tore": 96,
+        "gast_tore": 128,
+        "halbzeit": null,
+        "quelle": "balldontlie.io",
+        "abgerufen_am": "2026-04-27T10:54:40+02:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t29",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.36,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "t30",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.9,
+          "kommentar": ""
+        }
+      ]
+    },
+    {
+      "id": "2026-04-26-lakers-rockets-g4",
+      "liga": "NBA Playoffs R1 G4",
+      "heim": "Houston Rockets",
+      "gast": "Los Angeles Lakers",
+      "anstoss": "2026-04-27T03:30:00+02:00",
+      "serienstand": "Lakers 3-0 (Lakers gewannen G3 in OT)",
+      "news": [
+        "Lakers 3-0, Sweep-Versuch! Rockets -5 Spread Heim, Sweep-Abwehr-Modus.",
+        "Lakers gewannen G3 OT trotz fehlender Doncic + Reaves — beeindruckend.",
+        "Lesson 25.04. (Rockets-Lakers G3): Rockets als -9.5 Heim-Favorit verloren OT 108:112. G3+G4 mit Sweep-Druck egal welche Seite NICHT als SAFE markieren.",
+        "Lesson 24.04. (Cavs-Raptors): Heim-Underdog/Heim-Favorit unter Sweep-Druck unberechenbar.",
+        "Lesson 26.04.: NBA-Player-Punkte boykottiert.",
+        "Bet365-Quote Rockets Sieg ~1.65, Lakers Sieg ~2.80 (Lakers ML +180)"
+      ],
+      "tipps": [
+        {
+          "id": "t31",
+          "markt": "Houston Rockets Sieg (Sweep-Abwehr)",
+          "quote": 1.65,
+          "faire_quote": 1.7,
+          "edge_prozent": -3,
+          "kategorie": "wackel",
+          "begruendung": "Heim-Sweep-Abwehr-Druck, Rockets-Talent, aber Lesson 25.04. zeigt: G3 verloren als -9.5-Heim-Favorit. G4 mit selber Konstellation erneut Risiko. Coinflip-Charakter, max WACKEL.",
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "t32",
+          "markt": "Los Angeles Lakers Sieg (Sweep!)",
+          "quote": 2.8,
+          "faire_quote": 2.5,
+          "edge_prozent": 11,
+          "kategorie": "wackel",
+          "begruendung": "Lakers koennen Serie auf der Auswaerts-Bank schliessen — Form-High nach G3-OT-Sieg trotz fehlender Stars. Sweep-Druck auf Rockets = mentaler Vorteil Lakers. Quote 2.80 fuer 70%-Wahrscheinlichkeits-Team mit Momentum hat Edge — Moonshot-Bein. Niedrig-Einsatz wegen Varianz-Risiko.",
+          "empfohlener_einsatz_prozent": 0.25
+        }
+      ],
+      "ergebnis": {
+        "heim_tore": 115,
+        "gast_tore": 96,
+        "halbzeit": null,
+        "quelle": "balldontlie.io",
+        "abgerufen_am": "2026-04-27T10:54:41+02:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t31",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.65,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "t32",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": ""
+        }
+      ]
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "e1",
+      "tipp_id": "t13",
+      "spiel_id": "2026-04-26-torino-inter",
+      "markt": "Inter Mailand Sieg",
+      "quote": 1.4,
+      "kategorie": "safe",
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "e2",
+      "tipp_id": "t5",
+      "spiel_id": "2026-04-26-dortmund-freiburg",
+      "markt": "Borussia Dortmund Sieg",
+      "quote": 1.43,
+      "kategorie": "safe",
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "e3",
+      "tipp_id": "t20",
+      "spiel_id": "2026-04-26-marseille-nice",
+      "markt": "Olympique Marseille Sieg",
+      "quote": 1.46,
+      "kategorie": "safe",
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "e4",
+      "tipp_id": "t29",
+      "spiel_id": "2026-04-26-celtics-76ers-g4",
+      "markt": "Boston Celtics Sieg",
+      "quote": 1.36,
+      "kategorie": "safe",
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "e5",
+      "tipp_id": "t1",
+      "spiel_id": "2026-04-26-stuttgart-bremen",
+      "markt": "VfB Stuttgart Doppelte Chance (1X)",
+      "quote": 1.2,
+      "kategorie": "safe",
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "e6",
+      "tipp_id": "t2",
+      "spiel_id": "2026-04-26-stuttgart-bremen",
+      "markt": "VfB Stuttgart Sieg",
+      "quote": 1.5,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "e7",
+      "tipp_id": "t3",
+      "spiel_id": "2026-04-26-stuttgart-bremen",
+      "markt": "Deniz Undav trifft (jederzeit)",
+      "quote": 1.85,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "e8",
+      "tipp_id": "t6",
+      "spiel_id": "2026-04-26-dortmund-freiburg",
+      "markt": "Dortmund-Freiburg: Beide Teams treffen JA",
+      "quote": 1.77,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "e9",
+      "tipp_id": "t7",
+      "spiel_id": "2026-04-26-dortmund-freiburg",
+      "markt": "Serhou Guirassy trifft (jederzeit)",
+      "quote": 1.65,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "e10",
+      "tipp_id": "t8",
+      "spiel_id": "2026-04-26-paderborn-schalke",
+      "markt": "Schalke 04 Doppelte Chance (X2)",
+      "quote": 1.5,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "e11",
+      "tipp_id": "t10",
+      "spiel_id": "2026-04-26-bochum-fuerth",
+      "markt": "VfL Bochum Sieg",
+      "quote": 1.75,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "e12",
+      "tipp_id": "t12",
+      "spiel_id": "2026-04-26-nuernberg-magdeburg",
+      "markt": "1. FC Nuernberg Doppelte Chance (1X)",
+      "quote": 1.45,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "e13",
+      "tipp_id": "t18",
+      "spiel_id": "2026-04-26-osasuna-sevilla",
+      "markt": "Sevilla Doppelte Chance (X2)",
+      "quote": 1.7,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "e14",
+      "tipp_id": "t21",
+      "spiel_id": "2026-04-26-marseille-nice",
+      "markt": "Marseille Handicap -1",
+      "quote": 2.18,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "e15",
+      "tipp_id": "t24",
+      "spiel_id": "2026-04-26-cavs-raptors-g4",
+      "markt": "Cleveland Cavaliers Sieg",
+      "quote": 1.6,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "e16",
+      "tipp_id": "t22",
+      "spiel_id": "2026-04-26-chelsea-leeds-facup",
+      "markt": "Leeds United Doppelte Chance (X2)",
+      "quote": 1.75,
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 0.5
+    }
+  ],
+  "kombis": [
+    {
+      "id": "k_safe",
+      "name": "Safe-Vierer (4 Ligen, keine NBA-Player-Stats)",
+      "kategorie": "safe",
+      "beine": [
+        {
+          "tipp_id": "t13",
+          "spiel_id": "2026-04-26-torino-inter",
+          "markt": "Inter Sieg",
+          "quote": 1.4
+        },
+        {
+          "tipp_id": "t5",
+          "spiel_id": "2026-04-26-dortmund-freiburg",
+          "markt": "Dortmund Sieg",
+          "quote": 1.43
+        },
+        {
+          "tipp_id": "t20",
+          "spiel_id": "2026-04-26-marseille-nice",
+          "markt": "Marseille Sieg",
+          "quote": 1.46
+        },
+        {
+          "tipp_id": "t29",
+          "spiel_id": "2026-04-26-celtics-76ers-g4",
+          "markt": "Boston Celtics Sieg",
+          "quote": 1.36
+        }
+      ],
+      "gesamtquote": 3.97,
+      "rechnung": "1.40 × 1.43 × 1.46 × 1.36 = 3.97",
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Vier Top-Klubs aus vier verschiedenen Ligen (Serie A + BL + Ligue 1 + NBA Spielausgang), alle mit Klassendifferenz oder Belastungs-Edge. Celtics ohne Embiid-Gegner = Klassendifferenz extrem, kein Sweep-Druck-Underdog. Keine NBA-Player-Stats (Markt-Boykott). Ehrliche ~4x — passt zur Safe-Kombi-Anforderung."
+    },
+    {
+      "id": "k_balance",
+      "name": "Balance-Vierer (Sieg + DC + 2.BL + NBA Spielausgang)",
+      "kategorie": "value",
+      "beine": [
+        {
+          "tipp_id": "t8",
+          "spiel_id": "2026-04-26-paderborn-schalke",
+          "markt": "Schalke DC X2",
+          "quote": 1.5
+        },
+        {
+          "tipp_id": "t18",
+          "spiel_id": "2026-04-26-osasuna-sevilla",
+          "markt": "Sevilla DC X2",
+          "quote": 1.7
+        },
+        {
+          "tipp_id": "t10",
+          "spiel_id": "2026-04-26-bochum-fuerth",
+          "markt": "Bochum Sieg",
+          "quote": 1.75
+        },
+        {
+          "tipp_id": "t24",
+          "spiel_id": "2026-04-26-cavs-raptors-g4",
+          "markt": "Cleveland Cavaliers Sieg",
+          "quote": 1.6
+        }
+      ],
+      "gesamtquote": 7.14,
+      "rechnung": "1.50 × 1.70 × 1.75 × 1.60 = 7.14",
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Vier verschiedene Wett-Markte (DC + DC + Sieg + Sieg) ueber vier Ligen (2.BL + LaLiga + 2.BL + NBA). Keine korrelierten Beine, keine Spieler-Stacks. Ehrliche ~7x."
+    },
+    {
+      "id": "k_risiko",
+      "name": "Risiko-Sechser",
+      "kategorie": "risk",
+      "beine": [
+        {
+          "tipp_id": "t6",
+          "spiel_id": "2026-04-26-dortmund-freiburg",
+          "markt": "BVB-Freiburg BTTS JA",
+          "quote": 1.77
+        },
+        {
+          "tipp_id": "t15",
+          "spiel_id": "2026-04-26-torino-inter",
+          "markt": "Torino-Inter Mehr 2.5 Tore",
+          "quote": 1.85
+        },
+        {
+          "tipp_id": "t21",
+          "spiel_id": "2026-04-26-marseille-nice",
+          "markt": "Marseille -1",
+          "quote": 2.18
+        },
+        {
+          "tipp_id": "t16",
+          "spiel_id": "2026-04-26-milan-juventus",
+          "markt": "Juventus DC X2",
+          "quote": 1.45
+        },
+        {
+          "tipp_id": "t27",
+          "spiel_id": "2026-04-26-spurs-blazers-g4",
+          "markt": "San Antonio Spurs Sieg",
+          "quote": 1.45
+        },
+        {
+          "tipp_id": "t4",
+          "spiel_id": "2026-04-26-stuttgart-bremen",
+          "markt": "Stuttgart-Bremen Mehr 2.5 Tore",
+          "quote": 1.85
+        }
+      ],
+      "gesamtquote": 27.77,
+      "rechnung": "1.77 × 1.85 × 2.18 × 1.45 × 1.45 × 1.85 = 27.77",
+      "empfohlener_einsatz_prozent": 0.25,
+      "begruendung": "Sechs Beine aus 6 verschiedenen Spielen (BL + Serie A + L1 + Serie A + NBA + BL). Mix aus BTTS + Über-Tore + Spread + DC + Sieg. Keine NBA-Player-Stats. Wemby-Status (Spurs) Risiko aber Spurs-Klasse + Serien-Vorsprung trotzdem Edge. Ehrliche ~28x."
+    },
+    {
+      "id": "k_moonshot",
+      "name": "Moonshot",
+      "kategorie": "moonshot",
+      "beine": [
+        {
+          "tipp_id": "m1",
+          "spiel_id": "2026-04-26-chelsea-leeds-facup",
+          "markt": "Leeds United Sieg (90 Min)",
+          "quote": 3.55
+        },
+        {
+          "tipp_id": "m2",
+          "spiel_id": "2026-04-26-stuttgart-bremen",
+          "markt": "SV Werder Bremen Sieg (2:0-Insurance-Edge: BL-Sieg-Tipp, falls Bremen 2:0-Phase = bet365 zahlt aus auch bei spaeterer Niederlage)",
+          "quote": 6.2
+        },
+        {
+          "tipp_id": "m3",
+          "spiel_id": "2026-04-26-nuernberg-magdeburg",
+          "markt": "1. FC Magdeburg Sieg",
+          "quote": 2.81
+        },
+        {
+          "tipp_id": "m4",
+          "spiel_id": "2026-04-26-lakers-rockets-g4",
+          "markt": "Los Angeles Lakers Sieg (Sweep)",
+          "quote": 2.8
+        },
+        {
+          "tipp_id": "m5",
+          "spiel_id": "2026-04-26-paderborn-schalke",
+          "markt": "FC Schalke 04 Sieg",
+          "quote": 3.22
+        }
+      ],
+      "gesamtquote": 557.64,
+      "rechnung": "3.55 × 6.20 × 2.81 × 2.80 × 3.22 = 557.64",
+      "empfohlener_einsatz_prozent": 0.1,
+      "begruendung": "Lottoschein: Leeds-FA-Cup-Coup, Bremen-Aufstellung-Wunder-in-Stuttgart (mit 2:0-Insurance-Edge falls Bremen 2:0 fuehrt — bet365 BL-Spezial), Magdeburg-Auswaerts-Coup ohne Top-Stuermer, Lakers schliessen Serie 4-0 (Sweep), Schalke holt Auswaerts-Sieg in Paderborn. Hit-Wahrscheinlichkeit < 0.5%. Spaßeinsatz 1-2 €. Achtung: Bremen-Sieg in dieser Kombi ist anti-korreliert zu Stuttgart-DC (Safe) und Stuttgart-Sieg (Value-Einzel) im selben Spiel — User entscheidet was er spielt."
+    }
+  ],
+  "lessons_angewandt": [
+    "Lesson 26.04. (NBA-Playoff-Player-Punkte/DD Markt-Boykott): KEINE NBA-Player-Stats in Einzeltipps. Player-Punkt-Tipps nur als Markt-Anzeige in spiele[].tipps[] zum Info-Wert, nicht als empfohlener Einzel-/Kombi-Bein. Kein DD/TD ueberhaupt im Tag.",
+    "Lesson 24./25.04. (G4 mit Sweep-Druck NICHT SAFE): Lakers @ Rockets G4 als WACKEL eingestuft, NICHT in Safe oder Risiko-Kombi — nur als Lakers-Sieg-Wackel im Moonshot. Spurs-Sieg max VALUE wegen Wemby-Status + Sweep-Abwehr-Risiko. Cavs-Sieg max VALUE trotz Quickley-Out.",
+    "Lesson 25.04. (SAFE-Reality-Check): Alle SAFE-Picks (Inter, BVB, Marseille, Celtics, Stuttgart-DC) erfuellen Klassendifferenz + Topscorer fit + kein Backs-against-the-wall-Underdog. Celtics-SAFE plausibel weil Embiid out (ohne Stern kein Underdog-Wunder).",
+    "Lesson 26.04. (Quoten-Recherche-Pflicht): Alle Quoten via Wettbasis/Sportsgambler/CBS Sports/FanDuel/Oddschecker/Snai verifiziert (siehe Quellen in news[]).",
+    "Lesson 26.04. (Liga-Vollstaendigkeit): Alle Ligen explizit geprueft — BL/2BL/PL/LaLiga/SerieA/L1/DFB-Pokal/Coppa/CopaRey/FA-Cup/EFL/CoupeFrance/CL/EL/NBA. PL heute frei (FA-Cup-WE), DFB-Pokal HF Mi/Do schon gespielt. Heute aktiv: BL, 2BL, LaLiga, SerieA, L1, FA Cup, NBA.",
+    "Lesson 26.04. (Saison-Kontext-4-Faktoren): Pro Spiel im news[]/begruendung-Feld explizit benannt — Parallel-Wettbewerbe (BVB/Stuttgart/Freiburg DFB-Pokal Belastung), Tabellen-/Saisonziele (Inter Meisterschaft, Sevilla Abstieg, Marseille CL-Quali), Motivations-Asymmetrie (Sevilla Druck, Bremen ohne Druck), Recovery-Stand (Stuttgart 3 Tage nach 120-Min-Pokal, Freiburg 3 Tage nach 120-Min-Pokal).",
+    "Lesson 26.04. (Edge-Strategie 2:0-Insurance + Einwechslungs-Boost): Aktiv gesucht. 2:0-Insurance-Edge: Bremen Sieg @ 6.20 in Moonshot (BL-Sieg-Tipp profitiert von Insurance falls Bremen 2:0-Phase). Einwechslungs-Boost-Edge: Undav trifft @ 1.85 (Demirovic als Backup-9er, beide auf Platz/Bank — bei Auswechslung zaehlt Tor des Ersatzes); Guirassy trifft @ 1.65 (Beier als Backup).",
+    "Lesson 22.04. (Aufstellungen 1h vor Anstoss): Torschuetzen-Tipps Undav/Guirassy basieren auf voraussichtlichen Aufstellungen — User soll vor bet365-Wett-Abgabe finale Startelf checken.",
+    "Roster-Verifikation (Lesson 25.04.): Demirovic + Undav (Stuttgart aktuelle Kader bestaetigt via kicker.de Aufstellung), Guirassy + Beier (BVB aktuelle Kader bestaetigt via kicker.de). Keine Trade-/Team-Wechsel-Risiken wie Trae-Young-Wizards-Lesson.",
+    "Keine bet365-DE-verbotenen Wetten (keine Eckbaelle/Karten/Einzel-Reb-Ast-Stl/PRA/P+R/P+A/Einzel-3er)",
+    "Keine Spieler-Stacks ueber mehrere Kombis (Undav/Guirassy nur in Einzeltipps, nicht in Kombis)"
+  ],
+  "footer": "18+ · BZgA Glücksspielsucht-Hotline: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst.",
+  "einzeltipps_ergebnis": [
+    {
+      "id": "e1",
+      "tipp_id": "t13",
+      "spiel_id": "2026-04-26-torino-inter",
+      "markt": "Inter Mailand Sieg",
+      "quote": 1.4,
+      "kategorie": "safe",
+      "empfohlener_einsatz_prozent": 1.5,
+      "status": "verloren"
+    },
+    {
+      "id": "e2",
+      "tipp_id": "t5",
+      "spiel_id": "2026-04-26-dortmund-freiburg",
+      "markt": "Borussia Dortmund Sieg",
+      "quote": 1.43,
+      "kategorie": "safe",
+      "empfohlener_einsatz_prozent": 1.5,
+      "status": "gewonnen"
+    },
+    {
+      "id": "e3",
+      "tipp_id": "t20",
+      "spiel_id": "2026-04-26-marseille-nice",
+      "markt": "Olympique Marseille Sieg",
+      "quote": 1.46,
+      "kategorie": "safe",
+      "empfohlener_einsatz_prozent": 1.5,
+      "status": "verloren"
+    },
+    {
+      "id": "e4",
+      "tipp_id": "t29",
+      "spiel_id": "2026-04-26-celtics-76ers-g4",
+      "markt": "Boston Celtics Sieg",
+      "quote": 1.36,
+      "kategorie": "safe",
+      "empfohlener_einsatz_prozent": 1.5,
+      "status": "gewonnen"
+    },
+    {
+      "id": "e5",
+      "tipp_id": "t1",
+      "spiel_id": "2026-04-26-stuttgart-bremen",
+      "markt": "VfB Stuttgart Doppelte Chance (1X)",
+      "quote": 1.2,
+      "kategorie": "safe",
+      "empfohlener_einsatz_prozent": 1.5,
+      "status": "gewonnen"
+    },
+    {
+      "id": "e6",
+      "tipp_id": "t2",
+      "spiel_id": "2026-04-26-stuttgart-bremen",
+      "markt": "VfB Stuttgart Sieg",
+      "quote": 1.5,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0,
+      "status": "verloren"
+    },
+    {
+      "id": "e7",
+      "tipp_id": "t3",
+      "spiel_id": "2026-04-26-stuttgart-bremen",
+      "markt": "Deniz Undav trifft (jederzeit)",
+      "quote": 1.85,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0,
+      "status": "verloren",
+      "kommentar": "Undav traf nicht; Demirović kam fuer Tiago Tomas (nicht fuer Undav) — kein Einwechslungs-Boost."
+    },
+    {
+      "id": "e8",
+      "tipp_id": "t6",
+      "spiel_id": "2026-04-26-dortmund-freiburg",
+      "markt": "Dortmund-Freiburg: Beide Teams treffen JA",
+      "quote": 1.77,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0,
+      "status": "verloren"
+    },
+    {
+      "id": "e9",
+      "tipp_id": "t7",
+      "spiel_id": "2026-04-26-dortmund-freiburg",
+      "markt": "Serhou Guirassy trifft (jederzeit)",
+      "quote": 1.65,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0,
+      "status": "gewonnen",
+      "kommentar": "Guirassy traf 14.'"
+    },
+    {
+      "id": "e10",
+      "tipp_id": "t8",
+      "spiel_id": "2026-04-26-paderborn-schalke",
+      "markt": "Schalke 04 Doppelte Chance (X2)",
+      "quote": 1.5,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0,
+      "status": "gewonnen",
+      "kommentar": "Schalke 3:2 in Paderborn (Comeback nach 0:2)."
+    },
+    {
+      "id": "e11",
+      "tipp_id": "t10",
+      "spiel_id": "2026-04-26-bochum-fuerth",
+      "markt": "VfL Bochum Sieg",
+      "quote": 1.75,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0,
+      "status": "gewonnen",
+      "kommentar": "Bochum 2:1, Hofmann-Doppelpack."
+    },
+    {
+      "id": "e12",
+      "tipp_id": "t12",
+      "spiel_id": "2026-04-26-nuernberg-magdeburg",
+      "markt": "1. FC Nuernberg Doppelte Chance (1X)",
+      "quote": 1.45,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0,
+      "status": "gewonnen",
+      "kommentar": "Nuernberg 1:0 (Lubach 45.+2)."
+    },
+    {
+      "id": "e13",
+      "tipp_id": "t18",
+      "spiel_id": "2026-04-26-osasuna-sevilla",
+      "markt": "Sevilla Doppelte Chance (X2)",
+      "quote": 1.7,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0,
+      "status": "verloren"
+    },
+    {
+      "id": "e14",
+      "tipp_id": "t21",
+      "spiel_id": "2026-04-26-marseille-nice",
+      "markt": "Marseille Handicap -1",
+      "quote": 2.18,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0,
+      "status": "verloren",
+      "kommentar": "Marseille 1:1 — Handicap -1 nicht erfuellt."
+    },
+    {
+      "id": "e15",
+      "tipp_id": "t24",
+      "spiel_id": "2026-04-26-cavs-raptors-g4",
+      "markt": "Cleveland Cavaliers Sieg",
+      "quote": 1.6,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0,
+      "status": "verloren"
+    },
+    {
+      "id": "e16",
+      "tipp_id": "t22",
+      "spiel_id": "2026-04-26-chelsea-leeds-facup",
+      "markt": "Leeds United Doppelte Chance (X2)",
+      "quote": 1.75,
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 0.5,
+      "status": "verloren",
+      "kommentar": "Chelsea 1:0 (Fernandez 23.') — Leeds DC X2 verloren."
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "k_safe",
+      "status": "verloren",
+      "gesamtquote": 3.97
+    },
+    {
+      "kombi_id": "k_balance",
+      "status": "verloren",
+      "gesamtquote": 7.14
+    },
+    {
+      "kombi_id": "k_risiko",
+      "status": "verloren",
+      "gesamtquote": 27.77
+    },
+    {
+      "kombi_id": "k_moonshot",
+      "status": "verloren",
+      "gesamtquote": 557.64
+    }
+  ],
+  "ausgewertet_am": "2026-04-27T10:54:41+02:00"
+}

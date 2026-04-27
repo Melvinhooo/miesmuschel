@@ -102,6 +102,12 @@
       "kategorie": "NBA-Playoff-Player-Punkte: Markt-Boykott",
       "lesson": "HARTE EVIDENZ ueber 4 Spieltage (22.-26.04.): NBA-Playoff-Spielerpunkte/DD haben 5/17 Trefferquote = 29.4%, ROI -46.2% bei 17 Tipps. Selbst als WACKEL gelabelt am 25./26.04. alle 4/4 verloren (Booker 16, McCollum 17, Edwards 5+raus, Brown). Gruende: G3/G4-Defensiv-Adjustments (Knicks neutralisieren McCollum, OKC versperrt Booker), Verletzungspech (Edwards Q2 raus, Booker Knoechel), Blowout-Q4-Bank (Wolves +16). Regel: NBA-Playoff-Player-Punkte/DD ab sofort KOMPLETT aus Einzeltipps streichen. Wenn ueberhaupt — nur als optionales Bein in Risiko/Moonshot-Kombi mit Mini-Einsatz, nie als eigenstaendiger Tipp. Spielergebnis-Markete (Sieg, Spread, Total) sind faktisch +ROI, Player-Punkte ein Verlustbringer.",
       "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-04-27",
+      "kategorie": "bet365 Einwechslungs-Boost: Mechanik-Praezisierung (Tipp-Spieler MUSS ausgewechselt werden)",
+      "lesson": "PRAEZISIERUNG der bet365-Einwechslungs-Boost-Regel nach Stuttgart-Bremen 26.04. (1:1): Der Boost greift NUR wenn der TIPP-SPIELER selbst ausgewechselt wird und sein direkter Ersatz trifft. Es reicht NICHT, dass irgendein Backup-Stuermer reinkommt und trifft, waehrend der Tipp-Spieler weiter mitspielt. Konkret-Fall: Tipp 'Undav trifft' @ 1.85 verloren, obwohl Demirović als Joker in 61.' den Ausgleich erzielte — Demirović kam fuer Tiago Tomas (NICHT fuer Undav), Undav blieb auf dem Platz und traf nicht. Im Dossier wurde irrefuehrend formuliert 'Demirovic + Undav als Doppel-9er = Einwechslungs-Boost-Setup falls Wechsel'. Korrekter Mechanismus: Boost = (Tipp-Spieler X wird ausgewechselt) UND (Y kommt fuer X) UND (Y trifft). Strategie-Implikation: Edge entsteht NUR bei spielzeit-limitierten Stuermern (Verletzungs-Comeback, Rotation-Druck, hohe Auswechslungs-Quote in 2. Hz), die mit hoher Wahrscheinlichkeit waehrend des Spiels rausgehen — nicht bei voll fitten Doppel-9er-Konstellationen wo der Tipp-Spieler 90 Min durchspielen kann. Vor Tipp-Generierung pruefen: 'Wie hoch ist Tipp-Spieler-Auswechslungs-Wahrscheinlichkeit?'",
+      "bezug_spiel_id": "2026-04-26-stuttgart-bremen"
     }
   ]
 }
