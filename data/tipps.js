@@ -141,26 +141,6 @@ window.__MIESMUSCHEL_TIPPS = {
           "kategorie": "wackel",
           "begruendung": "Musiala kommt nach langer Verletzungspause zurueck zu Form: 2 Tore + 4 Assists in letzten 5 Spielen. Spielt 10er hinter Kane, Volumen-Schuesse aus 16er-Mitte. Risiko: Bayern-CL-Aufstellung koennte Musiala ggf. nur als Joker bringen je nach Pavlovic-Form. Bei vollen 75-90 Min ist Musiala 3.20 fair, bei Joker-Risiko leicht ueber-priced. Quote via WebSearch verifiziert.",
           "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "id": "t13",
-          "markt": "Genaues Ergebnis 2:1 PSG",
-          "quote": 9.5,
-          "faire_quote": 8.5,
-          "edge_prozent": 12,
-          "kategorie": "wackel",
-          "begruendung": "Lotto-Bein. 2:1 ist statistisch das modale Ergebnis bei BTTS + Over 2.5 + Heim-Favorit. Risiko klar - jedes 3:1, 2:0, 3:2 entwertet. Aber 9.50-Quote bei stuetzenden Marker-Trends rechtfertigt einen Mini-Einsatz. Quote geschaetzt - keine direkte Aggregator-Verifikation moeglich, daher max WACKEL-Label.",
-          "empfohlener_einsatz_prozent": 0.3
-        },
-        {
-          "id": "t14",
-          "markt": "Genaues Ergebnis 2:1 Bayern",
-          "quote": 9.0,
-          "faire_quote": 11.0,
-          "edge_prozent": -18,
-          "kategorie": "moonshot",
-          "begruendung": "Markt schaetzt Bayern-2:1-Auswaerts auf 9.00 (verifiziert via Search) - das sind 11% implizit. Wir halten das fuer overpriced (PSG zuhause + Bayern-Lazarett), aber als Spass-Bein fuer Bayern-Believer mit 1-2 EUR-Einsatz erlaubbar. Im Moonshot-Kombi-Bein. Quote verifiziert.",
-          "empfohlener_einsatz_prozent": 0.1
         }
       ]
     },
@@ -612,7 +592,6 @@ window.__MIESMUSCHEL_TIPPS = {
   "kombis": [
     {
       "name": "Safe-Kombi",
-      "ziel_quote": "ca. 3x",
       "kategorie": "safe",
       "beine": [
         {
@@ -642,7 +621,6 @@ window.__MIESMUSCHEL_TIPPS = {
     },
     {
       "name": "Balance-Kombi",
-      "ziel_quote": "ca. 6-10x",
       "kategorie": "value",
       "beine": [
         {
@@ -672,8 +650,7 @@ window.__MIESMUSCHEL_TIPPS = {
     },
     {
       "name": "Risiko-Kombi",
-      "ziel_quote": "ca. 15-30x",
-      "kategorie": "risiko",
+      "kategorie": "risk",
       "beine": [
         {
           "spiel_id": "2026-04-28-psg-bayern",
@@ -702,7 +679,6 @@ window.__MIESMUSCHEL_TIPPS = {
     },
     {
       "name": "Moonshot-Kombi",
-      "ziel_quote": "ca. 350x+",
       "kategorie": "moonshot",
       "beine": [
         {
