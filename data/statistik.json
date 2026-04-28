@@ -1,37 +1,37 @@
 {
-  "letzte_berechnung": "2026-04-27T17:42:33+02:00",
+  "letzte_berechnung": "2026-04-28T08:37:19+00:00",
   "gesamt": {
-    "tipps": 65,
-    "gewonnen": 39,
-    "verloren": 26,
+    "tipps": 71,
+    "gewonnen": 44,
+    "verloren": 27,
     "push": 0,
     "offen": 0,
-    "einsatz": 65.0,
-    "netto": -1.61,
-    "trefferquote": 60.0,
-    "roi_prozent": -2.5
+    "einsatz": 71.0,
+    "netto": 0.52,
+    "trefferquote": 62.0,
+    "roi_prozent": 0.7
   },
   "letzte_30_tage": {
-    "tipps": 65,
-    "gewonnen": 39,
-    "verloren": 26,
+    "tipps": 71,
+    "gewonnen": 44,
+    "verloren": 27,
     "push": 0,
     "offen": 0,
-    "einsatz": 65.0,
-    "netto": -1.61,
-    "trefferquote": 60.0,
-    "roi_prozent": -2.5
+    "einsatz": 71.0,
+    "netto": 0.52,
+    "trefferquote": 62.0,
+    "roi_prozent": 0.7
   },
   "letzte_90_tage": {
-    "tipps": 65,
-    "gewonnen": 39,
-    "verloren": 26,
+    "tipps": 71,
+    "gewonnen": 44,
+    "verloren": 27,
     "push": 0,
     "offen": 0,
-    "einsatz": 65.0,
-    "netto": -1.61,
-    "trefferquote": 60.0,
-    "roi_prozent": -2.5
+    "einsatz": 71.0,
+    "netto": 0.52,
+    "trefferquote": 62.0,
+    "roi_prozent": 0.7
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -154,6 +154,28 @@
       "netto": 0.0,
       "trefferquote": 0.0,
       "roi_prozent": 0.0
+    },
+    "NBA Playoffs Round 1, Game 5": {
+      "tipps": 2,
+      "gewonnen": 1,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": -0.8,
+      "trefferquote": 50.0,
+      "roi_prozent": -40.0
+    },
+    "NBA Playoffs Round 1, Game 4": {
+      "tipps": 4,
+      "gewonnen": 4,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 4.0,
+      "netto": 2.93,
+      "trefferquote": 100.0,
+      "roi_prozent": 73.2
     }
   },
   "nach_markt": {
@@ -783,19 +805,85 @@
       "netto": 0.0,
       "trefferquote": 0.0,
       "roi_prozent": 0.0
+    },
+    "Nuggets Sieg (Moneyline)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.2,
+      "trefferquote": 100.0,
+      "roi_prozent": 20.0
+    },
+    "Magic +3.5 (Spread)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.91,
+      "trefferquote": 100.0,
+      "roi_prozent": 91.0
+    },
+    "Über 213.5 Punkte (Total)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.91,
+      "trefferquote": 100.0,
+      "roi_prozent": 91.0
+    },
+    "Unter 222.5 Punkte (Total)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Thunder Sieg (Moneyline)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.2,
+      "trefferquote": 100.0,
+      "roi_prozent": 20.0
+    },
+    "Unter 215.5 Punkte (Total)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.91,
+      "trefferquote": 100.0,
+      "roi_prozent": 91.0
     }
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 38,
-      "gewonnen": 20,
-      "verloren": 18,
+      "tipps": 42,
+      "gewonnen": 23,
+      "verloren": 19,
       "push": 0,
       "offen": 0,
-      "einsatz": 38.0,
-      "netto": -3.05,
-      "trefferquote": 52.6,
-      "roi_prozent": -8.0
+      "einsatz": 42.0,
+      "netto": -1.32,
+      "trefferquote": 54.8,
+      "roi_prozent": -3.1
     },
     "2.00-3.00": {
       "tipps": 7,
@@ -809,39 +897,39 @@
       "roi_prozent": 5.0
     },
     "1.00-1.50": {
-      "tipps": 20,
-      "gewonnen": 16,
+      "tipps": 22,
+      "gewonnen": 18,
       "verloren": 4,
       "push": 0,
       "offen": 0,
-      "einsatz": 20.0,
-      "netto": 1.09,
-      "trefferquote": 80.0,
-      "roi_prozent": 5.5
+      "einsatz": 22.0,
+      "netto": 1.49,
+      "trefferquote": 81.8,
+      "roi_prozent": 6.8
     }
   },
   "nach_kategorie": {
     "safe": {
-      "tipps": 23,
-      "gewonnen": 17,
+      "tipps": 24,
+      "gewonnen": 18,
       "verloren": 6,
       "push": 0,
       "offen": 0,
-      "einsatz": 23.0,
-      "netto": 0.79,
-      "trefferquote": 73.9,
-      "roi_prozent": 3.4
+      "einsatz": 24.0,
+      "netto": 0.99,
+      "trefferquote": 75.0,
+      "roi_prozent": 4.1
     },
     "value": {
-      "tipps": 41,
-      "gewonnen": 21,
-      "verloren": 20,
+      "tipps": 46,
+      "gewonnen": 25,
+      "verloren": 21,
       "push": 0,
       "offen": 0,
-      "einsatz": 41.0,
-      "netto": -3.4,
-      "trefferquote": 51.2,
-      "roi_prozent": -8.3
+      "einsatz": 46.0,
+      "netto": -1.47,
+      "trefferquote": 54.3,
+      "roi_prozent": -3.2
     },
     "wackel": {
       "tipps": 1,

@@ -1,0 +1,563 @@
+{
+  "datum": "2026-04-27",
+  "erstellt_am": "2026-04-27T23:30:00+02:00",
+  "hinweis": "Reine NBA-Playoff-Nacht: 3 Spiele in den Stunden ab 02:00 MEZ. CL-HF Halbfinale (PSG-Bayern) ist erst morgen Di 28.04. - separate Analyse. Heute Nacht alles Basketball.",
+  "spiele": [
+    {
+      "id": "2026-04-28-magic-pistons-g4",
+      "liga": "NBA Playoffs Round 1, Game 4",
+      "heim": "Orlando Magic",
+      "gast": "Detroit Pistons",
+      "anstoss": "2026-04-28T02:00:00+02:00",
+      "stadion": "Kia Center, Orlando",
+      "news": [
+        "Magic G3 gewann 107:106 - Serie ausgeglichen, jetzt G4 entscheidende Phase.",
+        "Cunningham (Pistons) bei 30+ Punkten in G3, Banchero (Magic) Volumen-Topscorer.",
+        "Pistons als Auswaerts-Favorit -3.5 (ungewohnt) - Buchmacher trauen Cunningham/Ivey-Backcourt zu, Magic aber im eigenen Hause meist gefaehrlich."
+      ],
+      "tipps": [
+        {
+          "id": "t1",
+          "markt": "Magic +3.5 (Spread)",
+          "quote": 1.91,
+          "faire_quote": 1.85,
+          "edge_prozent": 3,
+          "kategorie": "value",
+          "begruendung": "Magic zuhause nach G3-Sieg im Momentum. -3.5 fuer Auswaerts-Favorit ist ungewoehnlich gross - Magic-Heim-Bonus + Banchero-Form rechtfertigen Spread-Cover. Quote via Oddschecker verifiziert.",
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "t2",
+          "markt": "Unter 215.5 Punkte (Total)",
+          "quote": 1.91,
+          "faire_quote": 1.85,
+          "edge_prozent": 3,
+          "kategorie": "value",
+          "begruendung": "Magic-Defense Top-5 in der Liga, Pistons-Tempo nicht extrem. G3 endete 107:106 = 213 Punkte = unter Linie. Playoff-Defenses verschaerfen, Linie 215.5 ist hoch.",
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "t3",
+          "markt": "Cade Cunningham Mehr als 27.5 Punkte",
+          "quote": 1.91,
+          "faire_quote": 2.0,
+          "edge_prozent": -4,
+          "kategorie": "wackel",
+          "begruendung": "Cunningham G2 39 Pkt, G3 30+ Pkt - Hot-Hand. Aber Lesson: Playoff-Player-Punkte max WACKEL wegen Defensiv-Adjustments. Nur Risiko/Moonshot-Bein, nicht Einzeltipp.",
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "ergebnis": {
+        "heim_punkte": 94,
+        "gast_punkte": 88,
+        "endstand": "Magic 94:88 Pistons",
+        "kommentar": "Magic gewinnen knapp, Serie 3-1. Banchero 18/4-18 FG, Bane 22, Wagner 19. Cunningham 25, Harris 20. Quelle: NBA.com Boxscore."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.91,
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "kommentar": "Magic gewinnen mit 6 Pkt Vorsprung -> +3.5 Spread klar gedeckt."
+        },
+        {
+          "tipp_id": "t2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.91,
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "kommentar": "Total 182 Pkt - klar unter 215.5. Beide Teams mies aus dem Feld."
+        },
+        {
+          "tipp_id": "t3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "kommentar": "Cunningham 25 Pkt - knapp unter 27.5. Bestaetigt Lesson: Playoff-Player-Punkte volatil."
+        }
+      ]
+    },
+    {
+      "id": "2026-04-28-suns-thunder-g4",
+      "liga": "NBA Playoffs Round 1, Game 4",
+      "heim": "Phoenix Suns",
+      "gast": "Oklahoma City Thunder",
+      "anstoss": "2026-04-28T03:30:00+02:00",
+      "stadion": "PHX Arena, Phoenix",
+      "news": [
+        "Thunder fuehren Serie 3-0, koennen heute Sweep abschliessen - extreme Klassendifferenz.",
+        "SGA in G3 42 Pkt (Career-Playoff-High), MVP-Form. Suns-Booker in G3 nur 16 Pkt.",
+        "Suns-Sweep-Abwehr-Lage: Heim, Backs-against-the-wall - Lesson 24.04.: Sweep-Abwehr-Heim NICHT als SAFE bei Sieg-Tipps."
+      ],
+      "tipps": [
+        {
+          "id": "t1",
+          "markt": "Thunder Sieg (Moneyline)",
+          "quote": 1.2,
+          "faire_quote": 1.18,
+          "edge_prozent": 2,
+          "kategorie": "value",
+          "begruendung": "Klassendifferenz extrem (3-0 Serie spricht), SGA in MVP-Form. ABER nicht SAFE wegen Sweep-Abwehr-Underdog-Lesson - Suns spielen befreit, das kann kippen. Max VALUE.",
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "t2",
+          "markt": "Über 213.5 Punkte (Total)",
+          "quote": 1.91,
+          "faire_quote": 1.85,
+          "edge_prozent": 3,
+          "kategorie": "value",
+          "begruendung": "OKC schnellste Pace der Liga, Suns als Sweep-Abwehr-Underdog spielen All-Out-Tempo (Lesson 22.04. Thunder-Suns Underdog-Open). Heim-Energie pusht. Über mit Edge.",
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "t3",
+          "markt": "Shai Gilgeous-Alexander Mehr als 31.5 Punkte",
+          "quote": 1.91,
+          "faire_quote": 2.0,
+          "edge_prozent": -4,
+          "kategorie": "wackel",
+          "begruendung": "SGA in Sweep-Mode, Career-High in G3. Aber Player-Punkte max WACKEL (Lesson 26.04.: NBA-Player-Punkte 5/17 Hit-Rate). Nur Risiko/Moonshot-Bein.",
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "ergebnis": {
+        "heim_punkte": 122,
+        "gast_punkte": 131,
+        "endstand": "Suns 122:131 Thunder (Sweep, Serie 4-0)",
+        "kommentar": "OKC schliesst Serie ab. SGA 31 Pkt, Holmgren 24. Booker 24 (zweite Halbzeit stark). Quelle: NBA.com / SI / VAVEL."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.20,
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "kommentar": "Thunder Sweep abgeschlossen, klarer Auswaerts-Sieg."
+        },
+        {
+          "tipp_id": "t2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.91,
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "kommentar": "Total 253 Pkt - klar ueber 213.5. Suns-Underdog-All-Out-Pace bestaetigt."
+        },
+        {
+          "tipp_id": "t3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "kommentar": "SGA 31 Pkt - genau 0.5 unter 31.5er Linie. Knapp verloren, Linie war scharf."
+        }
+      ]
+    },
+    {
+      "id": "2026-04-28-nuggets-wolves-g5",
+      "liga": "NBA Playoffs Round 1, Game 5",
+      "heim": "Denver Nuggets",
+      "gast": "Minnesota Timberwolves",
+      "anstoss": "2026-04-28T04:30:00+02:00",
+      "stadion": "Ball Arena, Denver",
+      "news": [
+        "Wolves fuehren Serie 3-1, koennen heute Closeout-Sieg holen.",
+        "Edwards (Wolves) verletzt aus G4 raus (linkes Knie), DiVincenzo Saison-Aus - Wolves entkernt.",
+        "Jokic (Nuggets) MVP-Form, Murray dazu - Nuggets im Elimination-Modus zuhause.",
+        "Nuggets als -11.5 Heim-Favorit ungewoehnlich gross - Buchmacher rechnen mit Wolves-Knockout."
+      ],
+      "tipps": [
+        {
+          "id": "t1",
+          "markt": "Nuggets Sieg (Moneyline)",
+          "quote": 1.2,
+          "faire_quote": 1.15,
+          "edge_prozent": 4,
+          "kategorie": "safe",
+          "begruendung": "Wolves entkernt (Edwards + DiVincenzo OUT), Nuggets im Elimination-Modus zuhause mit Jokic-Murray. Klassendifferenz heute Nacht massiv. SAFE-Reality-Check passt: klar fitter Topscorer, Klassen-Differenz, Heim-Favorit ohne Sweep-Druck-Risiko.",
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "t2",
+          "markt": "Nuggets -11.5 (Spread)",
+          "quote": 1.91,
+          "faire_quote": 1.95,
+          "edge_prozent": -2,
+          "kategorie": "wackel",
+          "begruendung": "Spread sehr hoch fuer Playoff-Spiel - selbst wenn Wolves entkernt, Garbage-Time-Adjustments koennen Spread killen. Alternative zum Moneyline aber riskanter.",
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "t3",
+          "markt": "Unter 222.5 Punkte (Total)",
+          "quote": 1.91,
+          "faire_quote": 1.85,
+          "edge_prozent": 3,
+          "kategorie": "value",
+          "begruendung": "Wolves-Offense ohne Edwards limitiert (Dosunmu G4 43 Pkt war Anomalie). Nuggets kontrollierte Pace mit Jokic. Linie 222.5 hoch fuer dezimierte Wolves-Offense.",
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "t4",
+          "markt": "Nikola Jokic Triple-Double",
+          "quote": 3.5,
+          "faire_quote": 3.0,
+          "edge_prozent": 17,
+          "kategorie": "wackel",
+          "begruendung": "Jokic Saison-TD-Rate ~30%, in Elimination-Modus zuhause oft erhoeht. Nicht Einzeltipp wegen Player-Markt-Boykott - aber im Moonshot-Bein wertvoll.",
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "ergebnis": {
+        "heim_punkte": 125,
+        "gast_punkte": 113,
+        "endstand": "Nuggets 125:113 Wolves (Serie 3-2)",
+        "kommentar": "Nuggets staven Elimination ab. Jokic 27/16/12 (23. Playoff-Triple-Double, 3. all-time), Murray 24, Spencer Jones 20 (Backup fuer verletzten Gordon). Wolves ohne Edwards. Quelle: NBA.com / VAVEL."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.20,
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "kommentar": "Klassendifferenz wirkt - Nuggets klar zuhause."
+        },
+        {
+          "tipp_id": "t2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.91,
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "kommentar": "Vorsprung 12 Pkt - Spread -11.5 knapp gedeckt. Garbage-Time-Risiko gerade noch ueberlebt."
+        },
+        {
+          "tipp_id": "t3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "kommentar": "Total 238 Pkt - deutlich ueber 222.5. Nuggets pushten Pace, Wolves trafen 3er. Linie war zu niedrig."
+        },
+        {
+          "tipp_id": "t4",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.50,
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "kommentar": "Jokic 27/16/12 = klares Triple-Double. Elimination-Modus pusht TD-Rate, wie erwartet."
+        }
+      ]
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "e1",
+      "rang": 1,
+      "tipp_id": "t1",
+      "spiel_id": "2026-04-28-nuggets-wolves-g5",
+      "markt": "Nuggets Sieg (Moneyline)",
+      "quote": 1.2,
+      "kategorie": "safe",
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "e2",
+      "rang": 2,
+      "tipp_id": "t1",
+      "spiel_id": "2026-04-28-magic-pistons-g4",
+      "markt": "Magic +3.5 (Spread)",
+      "quote": 1.91,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "e3",
+      "rang": 3,
+      "tipp_id": "t2",
+      "spiel_id": "2026-04-28-suns-thunder-g4",
+      "markt": "Über 213.5 Punkte (Total)",
+      "quote": 1.91,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "e4",
+      "rang": 4,
+      "tipp_id": "t3",
+      "spiel_id": "2026-04-28-nuggets-wolves-g5",
+      "markt": "Unter 222.5 Punkte (Total)",
+      "quote": 1.91,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "e5",
+      "rang": 5,
+      "tipp_id": "t1",
+      "spiel_id": "2026-04-28-suns-thunder-g4",
+      "markt": "Thunder Sieg (Moneyline)",
+      "quote": 1.2,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "e6",
+      "rang": 6,
+      "tipp_id": "t2",
+      "spiel_id": "2026-04-28-magic-pistons-g4",
+      "markt": "Unter 215.5 Punkte (Total)",
+      "quote": 1.91,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0
+    }
+  ],
+  "kombis": [
+    {
+      "id": "k_safe",
+      "name": "Safe-Kombi (3 Sieg-Tipps)",
+      "kategorie": "safe",
+      "beine": [
+        {
+          "spiel_id": "2026-04-28-nuggets-wolves-g5",
+          "spiel_titel": "Denver Nuggets vs Minnesota Timberwolves G5",
+          "markt": "Denver Nuggets vs Minnesota Timberwolves G5: Nuggets Sieg (Moneyline)",
+          "quote": 1.2
+        },
+        {
+          "spiel_id": "2026-04-28-suns-thunder-g4",
+          "spiel_titel": "Phoenix Suns vs OKC Thunder G4",
+          "markt": "Phoenix Suns vs OKC Thunder G4: Thunder Sieg (Moneyline)",
+          "quote": 1.2
+        },
+        {
+          "spiel_id": "2026-04-28-magic-pistons-g4",
+          "spiel_titel": "Orlando Magic vs Detroit Pistons G4",
+          "markt": "Orlando Magic vs Detroit Pistons G4: Magic +3.5 (Spread)",
+          "quote": 1.91
+        }
+      ],
+      "gesamtquote": 2.75,
+      "rechnung": "1.20 × 1.20 × 1.91 = 2.75",
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Drei Picks aus drei Spielen: Nuggets klare Klassendifferenz, Thunder Sweep-Modus, Magic Spread im eigenen Haus. Saubere ~2.75x ohne Player-Props."
+    },
+    {
+      "id": "k_balance",
+      "name": "Balance-Kombi (Totals + Sieg)",
+      "kategorie": "value",
+      "beine": [
+        {
+          "spiel_id": "2026-04-28-nuggets-wolves-g5",
+          "spiel_titel": "Denver Nuggets vs Minnesota Timberwolves G5",
+          "markt": "Denver Nuggets vs Minnesota Timberwolves G5: Nuggets Sieg (Moneyline)",
+          "quote": 1.2
+        },
+        {
+          "spiel_id": "2026-04-28-suns-thunder-g4",
+          "spiel_titel": "Phoenix Suns vs OKC Thunder G4",
+          "markt": "Phoenix Suns vs OKC Thunder G4: Über 213.5 Punkte (Total)",
+          "quote": 1.91
+        },
+        {
+          "spiel_id": "2026-04-28-magic-pistons-g4",
+          "spiel_titel": "Orlando Magic vs Detroit Pistons G4",
+          "markt": "Orlando Magic vs Detroit Pistons G4: Unter 215.5 Punkte (Total)",
+          "quote": 1.91
+        }
+      ],
+      "gesamtquote": 4.38,
+      "rechnung": "1.20 × 1.91 × 1.91 = 4.38",
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Anker-Sieg + zwei Totals (eines Über bei Suns-Thunder Pace, eines Unter bei Magic-Pistons Defense). ~4.4x, sauberer Mix."
+    },
+    {
+      "id": "k_risiko",
+      "name": "Risiko-Kombi (5 Beine quer)",
+      "kategorie": "risk",
+      "beine": [
+        {
+          "spiel_id": "2026-04-28-nuggets-wolves-g5",
+          "spiel_titel": "Denver Nuggets vs Minnesota Timberwolves G5",
+          "markt": "Denver Nuggets vs Minnesota Timberwolves G5: Nuggets Sieg (Moneyline)",
+          "quote": 1.2
+        },
+        {
+          "spiel_id": "2026-04-28-magic-pistons-g4",
+          "spiel_titel": "Orlando Magic vs Detroit Pistons G4",
+          "markt": "Orlando Magic vs Detroit Pistons G4: Magic +3.5 (Spread)",
+          "quote": 1.91
+        },
+        {
+          "spiel_id": "2026-04-28-suns-thunder-g4",
+          "spiel_titel": "Phoenix Suns vs OKC Thunder G4",
+          "markt": "Phoenix Suns vs OKC Thunder G4: Über 213.5 Punkte (Total)",
+          "quote": 1.91
+        },
+        {
+          "spiel_id": "2026-04-28-magic-pistons-g4",
+          "spiel_titel": "Orlando Magic vs Detroit Pistons G4",
+          "markt": "Orlando Magic vs Detroit Pistons G4: Unter 215.5 Punkte (Total)",
+          "quote": 1.91
+        },
+        {
+          "spiel_id": "2026-04-28-nuggets-wolves-g5",
+          "spiel_titel": "Denver Nuggets vs Minnesota Timberwolves G5",
+          "markt": "Denver Nuggets vs Minnesota Timberwolves G5: Unter 222.5 Punkte (Total)",
+          "quote": 1.91
+        }
+      ],
+      "gesamtquote": 15.95,
+      "rechnung": "1.20 × 1.91 × 1.91 × 1.91 × 1.91 = 15.95",
+      "empfohlener_einsatz_prozent": 0.25,
+      "begruendung": "Fünf Beine: 1 Sieg-Anker + 4 Spread/Total-Picks. Nicht-korreliert weil verschiedene Spiele/Maerkte. Ehrliche ~16x."
+    },
+    {
+      "id": "k_moonshot",
+      "name": "Moonshot-Kombi (Lotterie)",
+      "kategorie": "moonshot",
+      "beine": [
+        {
+          "spiel_id": "2026-04-28-nuggets-wolves-g5",
+          "spiel_titel": "Denver Nuggets vs Minnesota Timberwolves G5",
+          "markt": "Denver Nuggets vs Minnesota Timberwolves G5: Jokic Triple-Double",
+          "quote": 3.5
+        },
+        {
+          "spiel_id": "2026-04-28-suns-thunder-g4",
+          "spiel_titel": "Phoenix Suns vs OKC Thunder G4",
+          "markt": "Phoenix Suns vs OKC Thunder G4: SGA Mehr als 31.5 Punkte",
+          "quote": 1.91
+        },
+        {
+          "spiel_id": "2026-04-28-magic-pistons-g4",
+          "spiel_titel": "Orlando Magic vs Detroit Pistons G4",
+          "markt": "Orlando Magic vs Detroit Pistons G4: Cunningham Mehr als 27.5 Punkte",
+          "quote": 1.91
+        },
+        {
+          "spiel_id": "2026-04-28-suns-thunder-g4",
+          "spiel_titel": "Phoenix Suns vs OKC Thunder G4",
+          "markt": "Phoenix Suns vs OKC Thunder G4: Booker Mehr als 25.5 Punkte",
+          "quote": 2.5
+        }
+      ],
+      "gesamtquote": 31.91,
+      "rechnung": "3.50 × 1.91 × 1.91 × 2.50 = 31.91",
+      "empfohlener_einsatz_prozent": 0.1,
+      "begruendung": "Lottoschein: alle drei Star-Scorer treffen ihre Linien + Jokic-TD. Hit-Wahrscheinlichkeit ~3-5%. Spass-Einsatz 1-2 €."
+    }
+  ],
+  "lessons_angewandt": [
+    "NBA-Playoff-Player-Punkte: NICHT in Einzeltipps - nur als Risiko/Moonshot-Bein (Lesson 26.04. - 5/17 Hit-Rate)",
+    "Sweep-Abwehr-Heim NICHT als SAFE bei Sieg-Tipps (Suns-Thunder G4) - max VALUE",
+    "Klassendifferenz + Verletzungs-Lazarett (Wolves ohne Edwards) rechtfertigt SAFE-Label fuer Nuggets-Sieg",
+    "Player-Punkte/DD/TD nur in Moonshot - Triple-Double von Jokic mit Hit-Wahrscheinlichkeit ~30% wertvoll fuer 3.50-Quote"
+  ],
+  "footer": "18+ · BZgA Glücksspielsucht-Hotline: 0800 1372700",
+  "einzeltipps_ergebnis": [
+    {
+      "id": "e1",
+      "rang": 1,
+      "tipp_id": "t1",
+      "spiel_id": "2026-04-28-nuggets-wolves-g5",
+      "markt": "Nuggets Sieg (Moneyline)",
+      "quote": 1.2,
+      "kategorie": "safe",
+      "empfohlener_einsatz_prozent": 1.5,
+      "status": "gewonnen"
+    },
+    {
+      "id": "e2",
+      "rang": 2,
+      "tipp_id": "t1",
+      "spiel_id": "2026-04-28-magic-pistons-g4",
+      "markt": "Magic +3.5 (Spread)",
+      "quote": 1.91,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0,
+      "status": "gewonnen"
+    },
+    {
+      "id": "e3",
+      "rang": 3,
+      "tipp_id": "t2",
+      "spiel_id": "2026-04-28-suns-thunder-g4",
+      "markt": "Über 213.5 Punkte (Total)",
+      "quote": 1.91,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0,
+      "status": "gewonnen"
+    },
+    {
+      "id": "e4",
+      "rang": 4,
+      "tipp_id": "t3",
+      "spiel_id": "2026-04-28-nuggets-wolves-g5",
+      "markt": "Unter 222.5 Punkte (Total)",
+      "quote": 1.91,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0,
+      "status": "verloren"
+    },
+    {
+      "id": "e5",
+      "rang": 5,
+      "tipp_id": "t1",
+      "spiel_id": "2026-04-28-suns-thunder-g4",
+      "markt": "Thunder Sieg (Moneyline)",
+      "quote": 1.2,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0,
+      "status": "gewonnen"
+    },
+    {
+      "id": "e6",
+      "rang": 6,
+      "tipp_id": "t2",
+      "spiel_id": "2026-04-28-magic-pistons-g4",
+      "markt": "Unter 215.5 Punkte (Total)",
+      "quote": 1.91,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0,
+      "status": "gewonnen"
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "k_safe",
+      "status": "gewonnen",
+      "gesamtquote": 2.75
+    },
+    {
+      "kombi_id": "k_balance",
+      "status": "gewonnen",
+      "gesamtquote": 4.38
+    },
+    {
+      "kombi_id": "k_risiko",
+      "status": "verloren",
+      "gesamtquote": 15.95
+    },
+    {
+      "kombi_id": "k_moonshot",
+      "status": "verloren",
+      "gesamtquote": 31.91
+    }
+  ],
+  "ausgewertet_am": "2026-04-28T08:33:46+00:00"
+}
