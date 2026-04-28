@@ -3,7 +3,14 @@
  * So hast du offline die letzte App-Version + die letzten Daten.
  */
 
-const CACHE = 'miesmuschel-v11';
+const CACHE = 'miesmuschel-v12';
+
+// Empfange SKIP_WAITING-Message vom Frontend und aktiviere neuen SW sofort
+self.addEventListener('message', event => {
+  if (event.data && event.data.type === 'SKIP_WAITING') {
+    self.skipWaiting();
+  }
+});
 const SHELL = [
   './',
   './index.html',

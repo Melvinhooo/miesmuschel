@@ -4,10 +4,31 @@
    Daten werden aus data/statistik.js gelesen (window.__MIESMUSCHEL_STAT).
    ========================================================================== */
 
-/* ---- Service Worker registrieren (PWA / Offline-Support auf iPhone) ---- */
+/* ---- Service Worker registrieren + Auto-Update bei jedem App-Start ---- */
 if ('serviceWorker' in navigator && location.protocol !== 'file:') {
   window.addEventListener('load', () => {
-    navigator.serviceWorker.register('sw.js').catch(err => {
+    navigator.serviceWorker.register('sw.js').then(reg => {
+      // Bei jedem App-Start auf SW-Update prüfen
+      reg.update();
+      // Wenn ein neuer SW gefunden wird: sofort aktivieren + reload
+      reg.addEventListener('updatefound', () => {
+        const newSW = reg.installing;
+        if (!newSW) return;
+        newSW.addEventListener('statechange', () => {
+          if (newSW.state === 'installed' && navigator.serviceWorker.controller) {
+            // Neuer SW ist installed (waiting). Sofort aktivieren.
+            newSW.postMessage({ type: 'SKIP_WAITING' });
+          }
+        });
+      });
+      // Wenn der aktivierte SW wechselt: einmal reload damit neue Daten geladen werden
+      let reloaded = false;
+      navigator.serviceWorker.addEventListener('controllerchange', () => {
+        if (reloaded) return;
+        reloaded = true;
+        window.location.reload();
+      });
+    }).catch(err => {
       console.warn('Service Worker konnte nicht registriert werden:', err);
     });
   });
