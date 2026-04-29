@@ -202,6 +202,61 @@ def fix(path):
             print(f"  Kombi gedroppt nach Cap: {k.get('name', k.get('id', '?'))}")
     d['kombis'] = kept_kombis
 
+    # Diversifikations-Regel: max 1 Bein pro Spiel pro Kombi.
+    # Lehre vom 28.04.2026 (Celtics-Embiid): wenn ein Spiel-Bein in mehreren Kombis steckt,
+    # toetet ein einzelner Spielausgang die ganze Kombi-Zeile. In einer SINGLE Kombi
+    # mehrere Beine vom selben Spiel zu haben ist die gleiche Falle in extrem.
+    # Wir behalten das stark-priorisierte Bein (SAFE > VALUE > WACKEL) pro Spiel.
+    BEIN_KAT_PRIORITY = {'safe': 0, 'value': 1, 'wackel': 2, 'risk': 3, 'moonshot': 4}
+    def _bein_score(b):
+        # Suche kategorie ueber tipp_id-Lookup im Spiele-Tipps-Array
+        sid, tid = b.get('spiel_id'), b.get('tipp_id')
+        for spiel in d.get('spiele', []):
+            if spiel.get('id') == sid:
+                for t in spiel.get('tipps', []):
+                    if t.get('id') == tid:
+                        kat = (t.get('kategorie') or 'wackel').lower()
+                        try:
+                            edge = float(t.get('edge_prozent') or 0)
+                        except (ValueError, TypeError):
+                            edge = 0
+                        return (BEIN_KAT_PRIORITY.get(kat, 5), -edge)
+        return (5, 0)  # Fallback: niedrigste Prio
+
+    for k in d.get('kombis', []):
+        beine = k.get('beine', [])
+        if len(beine) <= 1:
+            continue
+        # Gruppiere Beine pro Spiel-ID, behalte pro Spiel das beste Bein
+        seen_spiele = {}
+        sorted_beine = sorted(beine, key=_bein_score)
+        kept_beine = []
+        for b in sorted_beine:
+            sid = b.get('spiel_id')
+            if sid and sid in seen_spiele:
+                continue  # zweites Bein vom selben Spiel -> droppen
+            if sid:
+                seen_spiele[sid] = True
+            kept_beine.append(b)
+        if len(kept_beine) < len(beine):
+            # Reihenfolge wieder herstellen: nach urspruenglicher Position
+            orig_idx = {id(b): i for i, b in enumerate(beine)}
+            kept_beine.sort(key=lambda b: orig_idx.get(id(b), 999))
+            print(f"  Kombi '{k.get('name', k.get('id', '?'))}': Diversifikation, "
+                  f"{len(beine)} -> {len(kept_beine)} Beine (1 pro Spiel)")
+            k['beine'] = kept_beine
+            # Gesamtquote neu berechnen
+            try:
+                neue_quote = 1.0
+                for b in kept_beine:
+                    neue_quote *= float(b.get('quote') or 1.0)
+                k['gesamtquote'] = round(neue_quote, 2)
+                # Rechnung aktualisieren wenn vorhanden
+                quoten_str = ' × '.join(f"{float(b.get('quote') or 1.0):.2f}" for b in kept_beine)
+                k['rechnung'] = f"{quoten_str} = {k['gesamtquote']}"
+            except (ValueError, TypeError):
+                pass
+
     # _test_trigger Cleanup
     d.pop('_test_trigger', None)
 
