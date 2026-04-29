@@ -1,7 +1,7 @@
 // Auto-generiert
 window.__MIESMUSCHEL_TIPPS = {
   "datum": "2026-04-29",
-  "erstellt_am": "2026-04-29T10:00:00+02:00",
+  "erstellt_am": "2026-04-29T18:41:06",
   "hinweis": "Mittwoch im Zeichen des CL-Halbfinales: Atletico Madrid empfaengt Arsenal um 21:00 in Madrid - das einzige relevante Fussballspiel des Tages, weil Bundesliga, Premier League, LaLiga, Serie A und Ligue 1 wegen der CL-Woche pausieren (DFB-Pokal-HF war letzte Woche, EL/Conference League starten erst Donnerstag). Dazu drei NBA-Playoff-G5-Spiele in der Nacht: Pistons-Magic (Pistons in Sweep-Abwehr nach 1:3-Rueckstand!), Cavs-Raptors als echte Rubber-Game in Cleveland und Lakers koennen zuhause die Rockets-Serie zumachen. Schwerpunkt heute klar: CL-Hinspiel + NBA-Spielergebnis-Maerkte. Player-Punkte nur als Risiko-Bein, nicht als Einzeltipp - Lessons aus Apr 22-26 zeigen 5/17 Hitrate (29.4%, ROI -46%). Quoten via Aggregator nur teilweise verifizierbar (Oddschecker/Sportsgambler 403), bestimmte Quoten daher Praefix '~' und max WACKEL.",
   "spiele": [
     {
@@ -51,36 +51,6 @@ window.__MIESMUSCHEL_TIPPS = {
           "empfohlener_einsatz_prozent": 1.5
         },
         {
-          "id": "t4",
-          "markt": "Beide Teams treffen - Nein",
-          "quote": 2.05,
-          "faire_quote": 1.95,
-          "edge_prozent": 5,
-          "kategorie": "value",
-          "begruendung": "Komplementaer zum Unter-2.5: bei einem 1:0 oder 0:0 Atletico-Resultat (das wahrscheinlichste Szenario) trifft BTTS-NEIN sicher. Arsenal-Offensive ist mit Gyokeres-Solo + Saka-Comeback-Form tatsaechlich verwundbar - der 23-jaehrige hat in seinen letzten drei Auftritten gegen Top-Klassen-Defensiven nicht getroffen, und Atleticos Innenverteidigung Le Normand/Lenglet ist europaeische Topklasse. Quote von ~2.05 ist gut bezahlt - waehrend BTTS-JA bei 1.90 angeboten wird, also der Markt ist 50/50, aber die taktische Lage spricht eindeutig fuers NEIN.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t5",
-          "markt": "Arsenal Sieg (1X2)",
-          "quote": 2.32,
-          "faire_quote": 2.5,
-          "edge_prozent": -7,
-          "kategorie": "wackel",
-          "begruendung": "Arsenal hat individuelle Klasse vorne (Saka, Odegaard, Rice-Schaltzentrale), aber das Auswaerts-Halbfinale-Hinspiel in Madrid ohne Havertz/Merino ist genau die Situation, in der die Underdog-Formel nicht aufgeht. Saliba/Gabriel hinten Top-Klasse, doch Atleticos Volumen (Sorloth/Alvarez/Griezmann) muessen sie mit Hincapie als Linksverteidiger neutralisieren - Eingewoehnungs-Risiko. Quote ~2.32 ist marktgerecht, kein Edge. Eher Risiko-Bein als Einzeltipp.",
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "id": "t6",
-          "markt": "Antoine Griezmann Jederzeit Tor",
-          "quote": 3.2,
-          "faire_quote": 3.0,
-          "edge_prozent": 7,
-          "kategorie": "value",
-          "begruendung": "Griezmann in Form (Treffer gegen Bilbao am Samstag), spielt offensive Zehn neben Alvarez und ist bei Atleticos Standard-Setups (Eckstoesse, Freistoesse) der natuerliche Schuetze. Hinspiel-Halbfinal-Set-up ist uebrigens sein Lieblingsbuehne - 8 Tore in den letzten 12 CL-K.o.-Auftritten. Bet365 Einwechslungs-Boost-Regel: falls Griezmann doch frueh ausgewechselt wird (er ist 35 und Simeone rotiert spaet), zaehlt Backup-Treffer (vermutlich Sorloth oder Lino) fuer den Tipp - Edge-Boost. Quote 3.20 ist im Markt etabliert, faire Quote eher 3.00.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
           "id": "t7",
           "markt": "Alexander Sorloth Jederzeit Tor",
           "quote": 4.5,
@@ -98,36 +68,6 @@ window.__MIESMUSCHEL_TIPPS = {
           "edge_prozent": 7,
           "kategorie": "value",
           "begruendung": "Alvarez 100% fit nach Bank-Wochenende - er bestaetigte selbst die Einsatzbereitschaft. Frisch + ausgeruht + persoenliche Motivation (will sich beweisen nach Bankplatz Samstag) gegen eine Arsenal-Innenverteidigung Saliba/Gabriel, die WC-Klasse hat aber gegen schnelle Stuermer manchmal kippt. Argentinier mit 5 Toren in den letzten 6 CL-Auftritten. Quote 3.20 fair bis leicht generoes - VALUE-Tip mit hoher Treffer-Wahrscheinlichkeit.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t9",
-          "markt": "Bukayo Saka Jederzeit Tor",
-          "quote": 3.8,
-          "faire_quote": 4.2,
-          "edge_prozent": -10,
-          "kategorie": "wackel",
-          "begruendung": "Saka erst Comeback nach Verletzungspause, gegen Newcastle nur Joker-Einsatz - kein 90-Minuten-Spiel in den Beinen seit Wochen. Auswaerts in Madrid gegen Lenglet/Ruggeri-Flanke ist der Auftritt-Klassiker fuer rostige Spieler. Wenn Saka 60+ Minuten spielt und in Form kommt, dann ist Quote 3.80 fair - aber Stand jetzt eher 4.20. Wackel.",
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "id": "t10",
-          "markt": "Viktor Gyokeres Jederzeit Tor",
-          "quote": 3.4,
-          "faire_quote": 3.2,
-          "edge_prozent": 6,
-          "kategorie": "value",
-          "begruendung": "Gyokeres ist Arsenals einzige etablierte Spitze ohne Havertz, bekommt 90 Minuten und hat in der CL bereits 6 Tore in dieser Saison. Gegen Atleticos kompakte Defensive ist Tor schwer, aber bei jedem Standard + Konter ist er Adressat Nr 1. Bet365 Einwechslungs-Boost gilt: Falls Gyokeres rausgeht (75. Min wahrscheinlich), zaehlen Tore von Trossard oder Nwaneri - Backup-Volumen ist da. Quote 3.40 ist marktgerecht mit minimalem Edge.",
-          "empfohlener_einsatz_prozent": 0.75
-        },
-        {
-          "id": "t11",
-          "markt": "Asian Handicap Atletico +0,25 (Atletico oder Unentschieden gewinnt halb)",
-          "quote": 1.78,
-          "faire_quote": 1.7,
-          "edge_prozent": 5,
-          "kategorie": "value",
-          "begruendung": "Asian Handicap +0.25 fuer Atletico bedeutet: bei Atletico-Sieg voller Gewinn, bei Unentschieden halber Einsatz zurueck + halber Gewinn (wie 0.5 Push gewonnen). Nur bei Arsenal-Sieg verloren. Versicherte Variante des Atletico-Sieg-Tips - viele setzen auf diese Markttiefe wenn Quote ~1.78 erreicht ist. Verifiziert via Sportsgambler-Vorschau-Erwaehnung des Marktes (Quote nicht direkt geprueft, daher konservativ als VALUE).",
           "empfohlener_einsatz_prozent": 1.0
         }
       ]
@@ -197,16 +137,6 @@ window.__MIESMUSCHEL_TIPPS = {
           "kategorie": "wackel",
           "begruendung": "Banchero G4 nur 18 Pkt - keine Hot Hand. Saisonschnitt 21/8, Linie genau auf der Marge. In G5 mit Pistons-Aggro-Defense und Wagner/Bane als zweite Optionen verteilt sich Magic-Volumen breit - Banchero koennte 25 oder 16 machen. WACKEL, nicht Einzeltipp.",
           "empfohlener_einsatz_prozent": 0.0
-        },
-        {
-          "id": "t6",
-          "markt": "Pistons -7.5 (Spread)",
-          "quote": 2.1,
-          "faire_quote": 2.2,
-          "edge_prozent": -5,
-          "kategorie": "wackel",
-          "begruendung": "Alternative Spread-Linie: bei Pistons-Sieg mit 8-10 Pkt Vorsprung (mittleres Szenario) faellt Pistons -7.5 statt -10.5. Quote 2.10 ist generoes, aber das Risiko ist beidseitig - Magic kann auch ueberraschend gewinnen oder Pistons-Blowout (-15+) liefern. Wackel-Bein als Risiko-Kombi-Option.",
-          "empfohlener_einsatz_prozent": 0.0
         }
       ]
     },
@@ -267,16 +197,6 @@ window.__MIESMUSCHEL_TIPPS = {
           "empfohlener_einsatz_prozent": 0.0
         },
         {
-          "id": "t5",
-          "markt": "Evan Mobley Mehr als 17.5 Punkte",
-          "quote": 1.95,
-          "faire_quote": 2.1,
-          "edge_prozent": -7,
-          "kategorie": "wackel",
-          "begruendung": "Mobley 18.2 PPG Saison - Linie 17.5 marginal drueber. G3-Auftritt war mau (10 Pkt), G4 vermutlich besser. In Cleveland zuhause + Mitchell-Foul-Trouble-Szenario springt Mobley auf 20+. Aber Lesson: Player-Punkte volatil. Wackel.",
-          "empfohlener_einsatz_prozent": 0.0
-        },
-        {
           "id": "t6",
           "markt": "Erste Halbzeit Sieger Cavaliers",
           "quote": 1.65,
@@ -333,16 +253,6 @@ window.__MIESMUSCHEL_TIPPS = {
           "kategorie": "value",
           "begruendung": "Lakers-Heim-Closing + Reaves-Comeback + Houston ohne Durant = -4.5 ist eine niedrige Linie. In den drei Lakers-Sieg-Spielen der Serie waren die Vorspruenge alle 6+ Pkt. Closing-Out + ausgeruhte Bank vs Houston ohne Sterne ist genau das Profil fuer 8-12-Pkt-Vorspruenge. Quote 1.91 mit Edge zur fairen 1.80.",
           "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t4",
-          "markt": "LeBron James Mehr als 25.5 Punkte",
-          "quote": 1.91,
-          "faire_quote": 2.1,
-          "edge_prozent": -9,
-          "kategorie": "wackel",
-          "begruendung": "LeBron in der Serie konstant 25+, aber bei Closing-Out-Spielen mit fruehem Vorsprung oft Q4-Bankdruecker. Reaves-Rueckkehr = LeBron muss weniger machen. Lesson 26.04.: NBA-Playoff-Player-Punkte volatil. Wackel-Bein, nicht Einzeltipp.",
-          "empfohlener_einsatz_prozent": 0.0
         },
         {
           "id": "t5",
@@ -410,16 +320,6 @@ window.__MIESMUSCHEL_TIPPS = {
     },
     {
       "rang": 5,
-      "spiel_id": "2026-04-29-atletico-arsenal",
-      "tipp_id": "t11",
-      "markt": "Asian Handicap Atletico +0,25 - Atletico vs Arsenal",
-      "quote": 1.78,
-      "kategorie": "value",
-      "kurz": "Versicherte Heim-Variante: bei Atletico-Sieg voll, bei Remis halber Push + halber Gewinn. Deckt zwei Drittel des Marktes mit besserer Quote als reine Doppelte Chance.",
-      "empfohlener_einsatz_prozent": 1.0
-    },
-    {
-      "rang": 6,
       "spiel_id": "2026-04-29-pistons-magic-g5",
       "tipp_id": "t2",
       "markt": "Unter 211.5 Punkte (Total) - Pistons vs Magic G5",
@@ -429,7 +329,7 @@ window.__MIESMUSCHEL_TIPPS = {
       "empfohlener_einsatz_prozent": 1.5
     },
     {
-      "rang": 7,
+      "rang": 6,
       "spiel_id": "2026-04-29-atletico-arsenal",
       "tipp_id": "t3",
       "markt": "Atletico Madrid Sieg (1X2) - mit bet365 2:0-Insurance",
@@ -439,7 +339,7 @@ window.__MIESMUSCHEL_TIPPS = {
       "empfohlener_einsatz_prozent": 1.0
     },
     {
-      "rang": 8,
+      "rang": 7,
       "spiel_id": "2026-04-29-pistons-magic-g5",
       "tipp_id": "t1",
       "markt": "Magic +10.5 (Spread) - Pistons vs Magic G5",
@@ -449,7 +349,7 @@ window.__MIESMUSCHEL_TIPPS = {
       "empfohlener_einsatz_prozent": 1.0
     },
     {
-      "rang": 9,
+      "rang": 8,
       "spiel_id": "2026-04-29-lakers-rockets-g5",
       "tipp_id": "t3",
       "markt": "Lakers -4.5 (Spread) - Lakers vs Rockets G5",
@@ -459,7 +359,7 @@ window.__MIESMUSCHEL_TIPPS = {
       "empfohlener_einsatz_prozent": 1.0
     },
     {
-      "rang": 10,
+      "rang": 9,
       "spiel_id": "2026-04-29-atletico-arsenal",
       "tipp_id": "t7",
       "markt": "Alexander Sorloth Jederzeit Tor - Atletico vs Arsenal",
@@ -469,7 +369,7 @@ window.__MIESMUSCHEL_TIPPS = {
       "empfohlener_einsatz_prozent": 1.0
     },
     {
-      "rang": 11,
+      "rang": 10,
       "spiel_id": "2026-04-29-atletico-arsenal",
       "tipp_id": "t8",
       "markt": "Julian Alvarez Jederzeit Tor - Atletico vs Arsenal",
@@ -479,7 +379,7 @@ window.__MIESMUSCHEL_TIPPS = {
       "empfohlener_einsatz_prozent": 1.0
     },
     {
-      "rang": 12,
+      "rang": 11,
       "spiel_id": "2026-04-29-cavaliers-raptors-g5",
       "tipp_id": "t2",
       "markt": "Ueber 215.5 Punkte (Total) - Cavs vs Raptors G5",
