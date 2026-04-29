@@ -1,7 +1,31 @@
 # 🐚 HANDOFF — Magische Miesmuschel
 
 > **Wenn du neu in diesen Chat kommst: lies dieses Dokument ZUERST.**
-> Stand: 27.04.2026 abends — komplett ueberarbeitet nach Migration zu Cloud-Routines + Web-Push + neuen Profit-Hebeln.
+> Stand: 28.04.2026 abends nach langem Debug-Tag — Cloud-Routines + Web-Push via GitHub-Actions + Schema-Mapper.
+
+---
+
+## ⚡ TL;DR fuer den naechsten Claude
+
+**Was funktioniert (Pipeline-Ende-zu-Ende getestet 27.+28.04.):**
+- 5 Cloud-Routines auf claude-opus-4-7 (3 Tipps/Auswertung + 2 Watchdogs auf Haiku)
+- Auswertungs-Routine 10:30 hat erfolgreich gepusht (28.04. Bilanz fuer 27.04.)
+- Tipps-Routine 16:00 hat erfolgreich Tipps generiert (38 Tipps in 4 Spielen)
+- GitHub Actions sendet Web-Push (Apple blockt direct-from-Anthropic-Cloud)
+- Auto-SW-Update in PWA aktiv
+
+**KRITISCHE Lessons heute:**
+1. **`claude-opus-4-7-1m` existiert NICHT** als Modell — auf `claude-opus-4-7` bleiben.
+2. **Apple blockt Push aus Anthropic-Cloud** (HTTP 403). GitHub-Actions-Bridge ist Pflicht.
+3. **Routinen schreiben oft ZU VIELE Tipps** (Melvi will max ~4 pro Spiel) — Mapper droppt Lottery, hart begrenzen wenn er sich beschwert.
+4. **Routine schreibt eigene Schema-Feldnamen** (`label` statt `kategorie`, `auswahl` statt vollem `markt`, etc.) — `.github/scripts/fix_schema.py` mapt automatisch.
+5. **iOS PWA-Cache zickig** — Service Worker Cache Version bei jedem Daten-Update bumpen.
+
+**Memory-Files lesen** (in `~/.claude/projects/.../memory/`):
+- `reference_routines.md` — alles ueber die 5 Routines + Web-Push-Bridge + Schema-Mapper
+- Plus die anderen Memory-Files fuer User-Ziel + Kosten-Constraint
+
+---
 
 ---
 
