@@ -365,7 +365,8 @@
       "markt": "RB Leipzig Sieg",
       "quote": 1.55,
       "kategorie": "safe",
-      "empfohlener_einsatz_prozent": 1.5
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1
     },
     {
       "id": "e2",
@@ -374,7 +375,8 @@
       "markt": "Napoli Sieg",
       "quote": 1.3,
       "kategorie": "safe",
-      "empfohlener_einsatz_prozent": 1.5
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2
     },
     {
       "id": "e3",
@@ -383,7 +385,8 @@
       "markt": "Real Madrid Doppelte Chance (X2)",
       "quote": 1.35,
       "kategorie": "safe",
-      "empfohlener_einsatz_prozent": 1.5
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 3
     },
     {
       "id": "e4",
@@ -392,7 +395,8 @@
       "markt": "Kaiserslautern Doppelte Chance (1X)",
       "quote": 1.25,
       "kategorie": "safe",
-      "empfohlener_einsatz_prozent": 1.5
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 4
     },
     {
       "id": "e5",
@@ -401,7 +405,8 @@
       "markt": "Kaiserslautern Sieg",
       "quote": 2.0,
       "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 5
     },
     {
       "id": "e6",
@@ -410,7 +415,8 @@
       "markt": "Leipzig-Union: Mehr als 2.5 Tore",
       "quote": 1.7,
       "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.5
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 6
     },
     {
       "id": "e7",
@@ -419,7 +425,8 @@
       "markt": "Napoli-Cremonese: Weniger als 2.5 Tore",
       "quote": 1.87,
       "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 7
     },
     {
       "id": "e8",
@@ -428,7 +435,8 @@
       "markt": "Mbappé trifft",
       "quote": 1.8,
       "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 8
     },
     {
       "id": "e9",
@@ -437,7 +445,8 @@
       "markt": "Betis-Real: Beide Teams treffen",
       "quote": 1.7,
       "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 9
     },
     {
       "id": "e10",
@@ -446,7 +455,8 @@
       "markt": "Boston Celtics Sieg",
       "quote": 1.85,
       "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 10
     },
     {
       "id": "e11",
@@ -455,7 +465,8 @@
       "markt": "Houston Rockets Sieg",
       "quote": 1.45,
       "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.5
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 11
     },
     {
       "id": "e12",
@@ -464,7 +475,8 @@
       "markt": "Portland Trail Blazers Sieg",
       "quote": 1.85,
       "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 12
     }
   ],
   "kombis": [
@@ -556,12 +568,6 @@
           "quote": 1.7
         },
         {
-          "tipp_id": "t11",
-          "spiel_id": "2026-04-24-betis-realmadrid",
-          "markt": "Real Madrid Sieg",
-          "quote": 2.1
-        },
-        {
           "tipp_id": "t14",
           "spiel_id": "2026-04-25-celtics-76ers-g3",
           "markt": "Celtics Sieg",
@@ -574,45 +580,10 @@
           "quote": 1.85
         }
       ],
-      "gesamtquote": 24.75,
-      "rechnung": "2.00 × 1.70 × 2.10 × 1.85 × 1.85 = 24.75",
+      "gesamtquote": 11.64,
+      "rechnung": "2.00 × 1.70 × 1.85 × 1.85 = 11.64",
       "empfohlener_einsatz_prozent": 0.3,
       "begruendung": "Fünf Beine, davon 2 korrelierte Betis-Real-Tipps (Real Sieg + BTTS — wenn beide stimmen, muss Real zu 0 oder 2+ treffen UND Betis auch treffen). Leichte Korrelation = akzeptabel. Ehrliche ~25x."
-    },
-    {
-      "id": "k_moonshot",
-      "name": "Moonshot",
-      "kategorie": "moonshot",
-      "beine": [
-        {
-          "tipp_id": "m1",
-          "spiel_id": "2026-04-24-napoli-cremonese",
-          "markt": "Cremonese gewinnt oder Remis",
-          "quote": 4.0
-        },
-        {
-          "tipp_id": "m2",
-          "spiel_id": "2026-04-25-rockets-lakers-g3",
-          "markt": "LeBron Mehr als 27.5 Punkte",
-          "quote": 3.5
-        },
-        {
-          "tipp_id": "m3",
-          "spiel_id": "2026-04-24-betis-realmadrid",
-          "markt": "Genaues Ergebnis 2:2",
-          "quote": 15.0
-        },
-        {
-          "tipp_id": "m4",
-          "spiel_id": "2026-04-25-blazers-spurs-g3",
-          "markt": "Blazers Sieg mit -6.5 Spread",
-          "quote": 3.0
-        }
-      ],
-      "gesamtquote": 630.0,
-      "rechnung": "4.00 × 3.50 × 15.00 × 3.00 = 630.00",
-      "empfohlener_einsatz_prozent": 0.1,
-      "begruendung": "Lottoschein: Napoli schwach + Cremonese Punkt, LeBron-Explosion, Real-Betis offener Schlagabtausch 2:2, Blazers Heim-Blowout ohne Wemby. Spaßeinsatz 1-2 €."
     }
   ],
   "lessons_angewandt": [

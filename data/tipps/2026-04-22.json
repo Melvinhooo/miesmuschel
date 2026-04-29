@@ -21,46 +21,6 @@
       ],
       "tipps": [
         {
-          "id": "t1",
-          "markt": "Sieg Detroit Pistons",
-          "quote": 1.25,
-          "faire_quote": 1.33,
-          "edge_prozent": -6,
-          "kategorie": "safe",
-          "begruendung": "Klarer Favorit zuhause, Cade fit, Bounce-Back. Quote eingepreist, nur Kombi-Basis.",
-          "empfohlener_einsatz_prozent": 0
-        },
-        {
-          "id": "t2",
-          "markt": "Weniger als 218.5 Punkte gesamt",
-          "quote": 1.9,
-          "faire_quote": 1.75,
-          "edge_prozent": 8,
-          "kategorie": "value",
-          "begruendung": "G1 ging auf 213 - knapp drunter. Magic Dreier-Saison nur 34.3%, G1 sogar nur 29%. Pistons Top-3-Defense. Playoff-Tempo sinkt weiter.",
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "t3",
-          "markt": "Cade Cunningham Mehr als 24.5 Punkte",
-          "quote": 1.85,
-          "faire_quote": 1.65,
-          "edge_prozent": 12,
-          "kategorie": "value",
-          "begruendung": "39 Pkt in G1 ohne Minuten-Limit. Pistons spielen durch ihn wenn Rest kalt. 23.9 Saisonschnitt aber Playoff-Volumen höher.",
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "t4",
-          "markt": "Paolo Banchero Double-Double",
-          "quote": 2.1,
-          "faire_quote": 1.85,
-          "edge_prozent": 13,
-          "kategorie": "value",
-          "begruendung": "23/9 in G1 - knapp DD verpasst. 21.5+8.4 Saisonschnitt. Magic brauchen ihn als Eckpfeiler.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
           "id": "t5",
           "markt": "Desmond Bane Mehr als 17.5 Punkte",
           "quote": 1.7,
@@ -79,6 +39,36 @@
           "kategorie": "safe",
           "begruendung": "19 Pkt in G1. Letzte 5 Spiele konstant über 16. Solides Kombi-Bein.",
           "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "t1",
+          "markt": "Sieg Detroit Pistons",
+          "quote": 1.25,
+          "faire_quote": 1.33,
+          "edge_prozent": -6,
+          "kategorie": "safe",
+          "begruendung": "Klarer Favorit zuhause, Cade fit, Bounce-Back. Quote eingepreist, nur Kombi-Basis.",
+          "empfohlener_einsatz_prozent": 0
+        },
+        {
+          "id": "t4",
+          "markt": "Paolo Banchero Double-Double",
+          "quote": 2.1,
+          "faire_quote": 1.85,
+          "edge_prozent": 13,
+          "kategorie": "value",
+          "begruendung": "23/9 in G1 - knapp DD verpasst. 21.5+8.4 Saisonschnitt. Magic brauchen ihn als Eckpfeiler.",
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "t3",
+          "markt": "Cade Cunningham Mehr als 24.5 Punkte",
+          "quote": 1.85,
+          "faire_quote": 1.65,
+          "edge_prozent": 12,
+          "kategorie": "value",
+          "begruendung": "39 Pkt in G1 ohne Minuten-Limit. Pistons spielen durch ihn wenn Rest kalt. 23.9 Saisonschnitt aber Playoff-Volumen höher.",
+          "empfohlener_einsatz_prozent": 1.5
         }
       ],
       "ergebnis": null,
@@ -162,7 +152,8 @@
       "markt": "Desmond Bane Mehr als 17.5 Punkte",
       "quote": 1.7,
       "kategorie": "safe",
-      "empfohlener_einsatz_prozent": 1.5
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1
     },
     {
       "tipp_id": "t10",
@@ -170,7 +161,8 @@
       "markt": "Jalen Williams Mehr als 18.5 Punkte",
       "quote": 1.8,
       "kategorie": "safe",
-      "empfohlener_einsatz_prozent": 1.5
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2
     },
     {
       "tipp_id": "t6",
@@ -178,15 +170,8 @@
       "markt": "Franz Wagner Mehr als 15.5 Punkte",
       "quote": 1.65,
       "kategorie": "safe",
-      "empfohlener_einsatz_prozent": 1.0
-    },
-    {
-      "tipp_id": "t2",
-      "spiel_id": "2026-04-22-pistons-magic",
-      "markt": "Weniger als 218.5 Punkte gesamt",
-      "quote": 1.9,
-      "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.5
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 3
     },
     {
       "tipp_id": "t3",
@@ -194,7 +179,8 @@
       "markt": "Cade Cunningham Mehr als 24.5 Punkte",
       "quote": 1.85,
       "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.5
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 4
     },
     {
       "tipp_id": "t4",
@@ -202,7 +188,8 @@
       "markt": "Paolo Banchero Double-Double",
       "quote": 2.1,
       "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 5
     },
     {
       "tipp_id": "t8",
@@ -210,7 +197,8 @@
       "markt": "Weniger als 215.5 Punkte gesamt",
       "quote": 1.9,
       "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.5
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 6
     },
     {
       "tipp_id": "t9",
@@ -218,151 +206,11 @@
       "markt": "SGA Mehr als 31.5 Punkte",
       "quote": 1.85,
       "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0
-    }
-  ],
-  "kombis": [
-    {
-      "id": "k1",
-      "name": "Safe-Kombi (Under + Under)",
-      "kategorie": "safe",
-      "beine": [
-        {
-          "tipp_id": "t2",
-          "markt": "Pistons-Magic: Weniger als 218.5 Pkt",
-          "quote": 1.9
-        },
-        {
-          "tipp_id": "t8",
-          "markt": "Thunder-Suns: Weniger als 215.5 Pkt",
-          "quote": 1.9
-        }
-      ],
-      "gesamtquote": 3.61,
-      "gesamtquote_berechnet": 3.61,
-      "rechnung": "1.90 × 1.90 = 3.61",
-      "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Beide G1 gingen UNDER, beide Top-Defenses, beide Teams Shooting-Probleme. Zwei unkorrelierte Spiele mit gleichem Muster."
-    },
-    {
-      "id": "k2",
-      "name": "Safe-Kombi 2 (3 Spieler-Punkte SAFE)",
-      "kategorie": "safe",
-      "beine": [
-        {
-          "tipp_id": "t5",
-          "markt": "Bane Mehr als 17.5 Pkt",
-          "quote": 1.7
-        },
-        {
-          "tipp_id": "t6",
-          "markt": "Wagner Mehr als 15.5 Pkt",
-          "quote": 1.65
-        },
-        {
-          "tipp_id": "t10",
-          "markt": "Jalen Williams Mehr als 18.5 Pkt",
-          "quote": 1.8
-        }
-      ],
-      "gesamtquote": 5.05,
-      "gesamtquote_berechnet": 5.05,
-      "rechnung": "1.70 × 1.65 × 1.80 = 5.05",
       "empfohlener_einsatz_prozent": 1.0,
-      "begruendung": "Drei stabile Zweit-Scorer, alle knapp unter ihrem Saisonschnitt gepreist. Volumen-Anspruch gesichert."
-    },
-    {
-      "id": "k3",
-      "name": "Value-Kombi (Star-Scorer + Paolo DD)",
-      "kategorie": "value",
-      "beine": [
-        {
-          "tipp_id": "t3",
-          "markt": "Cunningham Mehr als 24.5 Pkt",
-          "quote": 1.85
-        },
-        {
-          "tipp_id": "t9",
-          "markt": "SGA Mehr als 31.5 Pkt",
-          "quote": 1.85
-        },
-        {
-          "tipp_id": "t4",
-          "markt": "Banchero Double-Double",
-          "quote": 2.1
-        }
-      ],
-      "gesamtquote": 7.19,
-      "gesamtquote_berechnet": 7.19,
-      "rechnung": "1.85 × 1.85 × 2.10 = 7.19",
-      "empfohlener_einsatz_prozent": 0.8,
-      "begruendung": "Drei Top-Spieler mit Volumen-Garantie. Cade One-Man-Show, SGA MVP-Modus, Paolo fast-DD-Routine."
-    },
-    {
-      "id": "k4",
-      "name": "Risiko-Kombi (5 Beine, ~26x)",
-      "kategorie": "risk",
-      "beine": [
-        {
-          "tipp_id": "t2",
-          "markt": "Pistons-Magic: Weniger als 218.5 Pkt",
-          "quote": 1.9
-        },
-        {
-          "tipp_id": "t3",
-          "markt": "Cunningham Mehr als 24.5 Pkt",
-          "quote": 1.85
-        },
-        {
-          "tipp_id": "t4",
-          "markt": "Banchero Double-Double",
-          "quote": 2.1
-        },
-        {
-          "tipp_id": "t8",
-          "markt": "Thunder-Suns: Weniger als 215.5 Pkt",
-          "quote": 1.9
-        },
-        {
-          "tipp_id": "t9",
-          "markt": "SGA Mehr als 31.5 Pkt",
-          "quote": 1.85
-        }
-      ],
-      "gesamtquote": 25.97,
-      "gesamtquote_berechnet": 25.97,
-      "rechnung": "1.90 × 1.85 × 2.10 × 1.90 × 1.85 = 25.97",
-      "empfohlener_einsatz_prozent": 0.3,
-      "begruendung": "Fünf unabhängige Value-Beine. ~26x ist ehrliche Risiko-Quote, keine Fantasie."
-    },
-    {
-      "id": "k5",
-      "name": "Moonshot (Triple-Double + Big Numbers)",
-      "kategorie": "moonshot",
-      "beine": [
-        {
-          "tipp_id": "m1",
-          "markt": "Banchero Triple-Double",
-          "quote": 17.0
-        },
-        {
-          "tipp_id": "m2",
-          "markt": "Cunningham Mehr als 34.5 Pkt",
-          "quote": 4.5
-        },
-        {
-          "tipp_id": "m3",
-          "markt": "SGA Mehr als 39.5 Pkt",
-          "quote": 6.0
-        }
-      ],
-      "gesamtquote": 459.0,
-      "gesamtquote_berechnet": 459.0,
-      "rechnung": "17.00 × 4.50 × 6.00 = 459.00",
-      "empfohlener_einsatz_prozent": 0.1,
-      "begruendung": "Echter Moonshot. Banchero 23/9 mit 3-4 Asts in G1 - TD möglich. Cade 39 in G1. SGA 40+ im Blowout. 1-2 Euro Spaßeinsatz. Quoten bei bet365 prüfen."
+      "rang": 7
     }
   ],
+  "kombis": [],
   "lessons_angewandt": [
     "Zeit-Check: 21:15 DE, beide Spiele starten nach Mitternacht - tippbar",
     "KEIN Wemby/Spurs - Spurs spielen heute nicht, Wemby in Concussion-Protocol",

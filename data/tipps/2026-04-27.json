@@ -293,22 +293,10 @@
           "spiel_titel": "Phoenix Suns vs OKC Thunder G4",
           "markt": "Phoenix Suns vs OKC Thunder G4: Über 213.5 Punkte (Total)",
           "quote": 1.91
-        },
-        {
-          "spiel_id": "2026-04-28-magic-pistons-g4",
-          "spiel_titel": "Orlando Magic vs Detroit Pistons G4",
-          "markt": "Orlando Magic vs Detroit Pistons G4: Unter 215.5 Punkte (Total)",
-          "quote": 1.91
-        },
-        {
-          "spiel_id": "2026-04-28-nuggets-wolves-g5",
-          "spiel_titel": "Denver Nuggets vs Minnesota Timberwolves G5",
-          "markt": "Denver Nuggets vs Minnesota Timberwolves G5: Unter 222.5 Punkte (Total)",
-          "quote": 1.91
         }
       ],
-      "gesamtquote": 15.95,
-      "rechnung": "1.20 × 1.91 × 1.91 × 1.91 × 1.91 = 15.95",
+      "gesamtquote": 4.38,
+      "rechnung": "1.20 × 1.91 × 1.91 = 4.38",
       "empfohlener_einsatz_prozent": 0.25,
       "begruendung": "Fünf Beine: 1 Sieg-Anker + 4 Spread/Total-Picks. Nicht-korreliert weil verschiedene Spiele/Maerkte. Ehrliche ~16x."
     },
@@ -334,16 +322,10 @@
           "spiel_titel": "Orlando Magic vs Detroit Pistons G4",
           "markt": "Orlando Magic vs Detroit Pistons G4: Cunningham Mehr als 27.5 Punkte",
           "quote": 1.91
-        },
-        {
-          "spiel_id": "2026-04-28-suns-thunder-g4",
-          "spiel_titel": "Phoenix Suns vs OKC Thunder G4",
-          "markt": "Phoenix Suns vs OKC Thunder G4: Booker Mehr als 25.5 Punkte",
-          "quote": 2.5
         }
       ],
-      "gesamtquote": 31.91,
-      "rechnung": "3.50 × 1.91 × 1.91 × 2.50 = 31.91",
+      "gesamtquote": 12.77,
+      "rechnung": "3.50 × 1.91 × 1.91 = 12.77",
       "empfohlener_einsatz_prozent": 0.1,
       "begruendung": "Lottoschein: alle drei Star-Scorer treffen ihre Linien + Jokic-TD. Hit-Wahrscheinlichkeit ~3-5%. Spass-Einsatz 1-2 €."
     }

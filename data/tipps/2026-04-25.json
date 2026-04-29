@@ -504,7 +504,8 @@
       "markt": "Bayern München Sieg",
       "quote": 1.45,
       "kategorie": "safe",
-      "empfohlener_einsatz_prozent": 1.5
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1
     },
     {
       "id": "e2",
@@ -513,7 +514,8 @@
       "markt": "Liverpool Sieg",
       "quote": 1.3,
       "kategorie": "safe",
-      "empfohlener_einsatz_prozent": 1.5
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2
     },
     {
       "id": "e3",
@@ -522,7 +524,8 @@
       "markt": "Arsenal Sieg",
       "quote": 1.65,
       "kategorie": "safe",
-      "empfohlener_einsatz_prozent": 1.5
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 3
     },
     {
       "id": "e4",
@@ -531,7 +534,8 @@
       "markt": "Barcelona Doppelte Chance (X2)",
       "quote": 1.2,
       "kategorie": "safe",
-      "empfohlener_einsatz_prozent": 1.5
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 4
     },
     {
       "id": "e5",
@@ -540,7 +544,8 @@
       "markt": "Atlético Doppelte Chance (1X)",
       "quote": 1.3,
       "kategorie": "safe",
-      "empfohlener_einsatz_prozent": 1.5
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 5
     },
     {
       "id": "e6",
@@ -549,7 +554,8 @@
       "markt": "Leverkusen Doppelte Chance (X2)",
       "quote": 1.3,
       "kategorie": "safe",
-      "empfohlener_einsatz_prozent": 1.5
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 6
     },
     {
       "id": "e7",
@@ -558,7 +564,8 @@
       "markt": "Bayer Leverkusen Sieg",
       "quote": 1.85,
       "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 7
     },
     {
       "id": "e8",
@@ -567,7 +574,8 @@
       "markt": "Arsenal-Newcastle: Mehr als 2.5 Tore",
       "quote": 1.75,
       "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 8
     },
     {
       "id": "e9",
@@ -576,7 +584,8 @@
       "markt": "Lewandowski trifft",
       "quote": 1.85,
       "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 9
     },
     {
       "id": "e10",
@@ -585,7 +594,8 @@
       "markt": "Atlético-Athletic: Weniger als 2.5 Tore",
       "quote": 1.95,
       "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.5
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 10
     },
     {
       "id": "e11",
@@ -594,7 +604,8 @@
       "markt": "Roma Doppelte Chance (X2)",
       "quote": 1.4,
       "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 11
     },
     {
       "id": "e12",
@@ -603,7 +614,8 @@
       "markt": "Liverpool: Mehr als 1.5 Tore",
       "quote": 1.45,
       "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 12
     },
     {
       "id": "e13",
@@ -612,7 +624,8 @@
       "markt": "Oklahoma City Thunder Sieg",
       "quote": 1.55,
       "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 13
     },
     {
       "id": "e14",
@@ -621,7 +634,8 @@
       "markt": "New York Knicks Sieg",
       "quote": 1.95,
       "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 14
     },
     {
       "id": "e15",
@@ -630,7 +644,8 @@
       "markt": "Minnesota Timberwolves Sieg",
       "quote": 1.75,
       "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 15
     }
   ],
   "kombis": [
@@ -750,47 +765,6 @@
       "rechnung": "1.45 × 1.75 × 1.85 × 1.40 × 1.95 × 1.75 = 22.55",
       "empfohlener_einsatz_prozent": 0.25,
       "begruendung": "Sechs Beine, ein Player-Prop (Lewa), zwei NBA-Bounce-Backs. Knicks + Wolves beide must-wins → leichte Korrelation Spielausgang-Druck akzeptabel. Ehrliche ~22x."
-    },
-    {
-      "id": "k_moonshot",
-      "name": "Moonshot",
-      "kategorie": "moonshot",
-      "beine": [
-        {
-          "tipp_id": "m1",
-          "spiel_id": "2026-04-25-mainz-bayern",
-          "markt": "Mainz Doppelte Chance (X2)",
-          "quote": 2.8
-        },
-        {
-          "tipp_id": "m2",
-          "spiel_id": "2026-04-25-koeln-leverkusen",
-          "markt": "1. FC Köln Sieg",
-          "quote": 5.5
-        },
-        {
-          "tipp_id": "m3",
-          "spiel_id": "2026-04-25-arsenal-newcastle",
-          "markt": "Newcastle Sieg",
-          "quote": 5.0
-        },
-        {
-          "tipp_id": "m4",
-          "spiel_id": "2026-04-25-bologna-roma",
-          "markt": "Bologna Sieg",
-          "quote": 3.5
-        },
-        {
-          "tipp_id": "m5",
-          "spiel_id": "2026-04-25-suns-thunder-g3",
-          "markt": "Phoenix Suns Sieg",
-          "quote": 2.4
-        }
-      ],
-      "gesamtquote": 646.8,
-      "rechnung": "2.80 × 5.50 × 5.00 × 3.50 × 2.40 = 646.80",
-      "empfohlener_einsatz_prozent": 0.1,
-      "begruendung": "Lottoschein: Mainz hält Bayern, Köln-Derbysieg, Newcastle-Auswärtscoup im Emirates, Bologna-Heimsieg gegen Roma, Suns-Sweep-Abwehr. Hit-Wahrscheinlichkeit < 1%. Spaßeinsatz 1-2 €."
     }
   ],
   "lessons_angewandt": [

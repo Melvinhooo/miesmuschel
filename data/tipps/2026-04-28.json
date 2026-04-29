@@ -378,12 +378,6 @@
           "quote": 2.3
         },
         {
-          "spiel_id": "2026-04-28-psg-bayern",
-          "spiel_titel": "PSG vs Bayern Muenchen (CL HF)",
-          "markt": "PSG vs Bayern Muenchen: Ousmane Dembele Jederzeit-Torschuetze",
-          "quote": 2.45
-        },
-        {
           "spiel_id": "2026-04-29-spurs-blazers-g5",
           "spiel_titel": "San Antonio Spurs vs Portland Trail Blazers G5",
           "markt": "San Antonio Spurs vs Portland Trail Blazers G5: Spurs Sieg & Unter 215.5",
@@ -402,8 +396,8 @@
           "quote": 1.85
         }
       ],
-      "gesamtquote": 33.81,
-      "rechnung": "2.30 × 2.45 × 2.10 × 1.55 × 1.85 = 33.81",
+      "gesamtquote": 13.85,
+      "rechnung": "2.30 × 2.10 × 1.55 × 1.85 = 13.85",
       "empfohlener_einsatz_prozent": 0.25,
       "begruendung": "Fuenf Beine: PSG Sieg-Anker + Dembele Torschuetze + Spurs-Sieg+Unter + Celtics-Spread + Knicks-Combo. ~34x mit klarer CL-HF-Edge plus NBA-Closeouts."
     },

@@ -569,7 +569,8 @@
       "markt": "Inter Mailand Sieg",
       "quote": 1.4,
       "kategorie": "safe",
-      "empfohlener_einsatz_prozent": 1.5
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1
     },
     {
       "id": "e2",
@@ -578,7 +579,8 @@
       "markt": "Borussia Dortmund Sieg",
       "quote": 1.43,
       "kategorie": "safe",
-      "empfohlener_einsatz_prozent": 1.5
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2
     },
     {
       "id": "e3",
@@ -587,7 +589,8 @@
       "markt": "Olympique Marseille Sieg",
       "quote": 1.46,
       "kategorie": "safe",
-      "empfohlener_einsatz_prozent": 1.5
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 3
     },
     {
       "id": "e4",
@@ -596,7 +599,8 @@
       "markt": "Boston Celtics Sieg",
       "quote": 1.36,
       "kategorie": "safe",
-      "empfohlener_einsatz_prozent": 1.5
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 4
     },
     {
       "id": "e5",
@@ -605,7 +609,8 @@
       "markt": "VfB Stuttgart Doppelte Chance (1X)",
       "quote": 1.2,
       "kategorie": "safe",
-      "empfohlener_einsatz_prozent": 1.5
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 5
     },
     {
       "id": "e6",
@@ -614,7 +619,8 @@
       "markt": "VfB Stuttgart Sieg",
       "quote": 1.5,
       "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 6
     },
     {
       "id": "e7",
@@ -623,7 +629,8 @@
       "markt": "Deniz Undav trifft (jederzeit)",
       "quote": 1.85,
       "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 7
     },
     {
       "id": "e8",
@@ -632,7 +639,8 @@
       "markt": "Dortmund-Freiburg: Beide Teams treffen JA",
       "quote": 1.77,
       "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 8
     },
     {
       "id": "e9",
@@ -641,7 +649,8 @@
       "markt": "Serhou Guirassy trifft (jederzeit)",
       "quote": 1.65,
       "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 9
     },
     {
       "id": "e10",
@@ -650,7 +659,8 @@
       "markt": "Schalke 04 Doppelte Chance (X2)",
       "quote": 1.5,
       "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 10
     },
     {
       "id": "e11",
@@ -659,7 +669,8 @@
       "markt": "VfL Bochum Sieg",
       "quote": 1.75,
       "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 11
     },
     {
       "id": "e12",
@@ -668,7 +679,8 @@
       "markt": "1. FC Nuernberg Doppelte Chance (1X)",
       "quote": 1.45,
       "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 12
     },
     {
       "id": "e13",
@@ -677,7 +689,8 @@
       "markt": "Sevilla Doppelte Chance (X2)",
       "quote": 1.7,
       "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 13
     },
     {
       "id": "e14",
@@ -686,7 +699,8 @@
       "markt": "Marseille Handicap -1",
       "quote": 2.18,
       "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 14
     },
     {
       "id": "e15",
@@ -695,7 +709,8 @@
       "markt": "Cleveland Cavaliers Sieg",
       "quote": 1.6,
       "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 15
     },
     {
       "id": "e16",
@@ -704,7 +719,8 @@
       "markt": "Leeds United Doppelte Chance (X2)",
       "quote": 1.75,
       "kategorie": "wackel",
-      "empfohlener_einsatz_prozent": 0.5
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 16
     }
   ],
   "kombis": [
@@ -824,47 +840,6 @@
       "rechnung": "1.77 × 1.85 × 2.18 × 1.45 × 1.45 × 1.85 = 27.77",
       "empfohlener_einsatz_prozent": 0.25,
       "begruendung": "Sechs Beine aus 6 verschiedenen Spielen (BL + Serie A + L1 + Serie A + NBA + BL). Mix aus BTTS + Über-Tore + Spread + DC + Sieg. Keine NBA-Player-Stats. Wemby-Status (Spurs) Risiko aber Spurs-Klasse + Serien-Vorsprung trotzdem Edge. Ehrliche ~28x."
-    },
-    {
-      "id": "k_moonshot",
-      "name": "Moonshot",
-      "kategorie": "moonshot",
-      "beine": [
-        {
-          "tipp_id": "m1",
-          "spiel_id": "2026-04-26-chelsea-leeds-facup",
-          "markt": "Leeds United Sieg (90 Min)",
-          "quote": 3.55
-        },
-        {
-          "tipp_id": "m2",
-          "spiel_id": "2026-04-26-stuttgart-bremen",
-          "markt": "SV Werder Bremen Sieg (2:0-Insurance-Edge: BL-Sieg-Tipp, falls Bremen 2:0-Phase = bet365 zahlt aus auch bei spaeterer Niederlage)",
-          "quote": 6.2
-        },
-        {
-          "tipp_id": "m3",
-          "spiel_id": "2026-04-26-nuernberg-magdeburg",
-          "markt": "1. FC Magdeburg Sieg",
-          "quote": 2.81
-        },
-        {
-          "tipp_id": "m4",
-          "spiel_id": "2026-04-26-lakers-rockets-g4",
-          "markt": "Los Angeles Lakers Sieg (Sweep)",
-          "quote": 2.8
-        },
-        {
-          "tipp_id": "m5",
-          "spiel_id": "2026-04-26-paderborn-schalke",
-          "markt": "FC Schalke 04 Sieg",
-          "quote": 3.22
-        }
-      ],
-      "gesamtquote": 557.64,
-      "rechnung": "3.55 × 6.20 × 2.81 × 2.80 × 3.22 = 557.64",
-      "empfohlener_einsatz_prozent": 0.1,
-      "begruendung": "Lottoschein: Leeds-FA-Cup-Coup, Bremen-Aufstellung-Wunder-in-Stuttgart (mit 2:0-Insurance-Edge falls Bremen 2:0 fuehrt — bet365 BL-Spezial), Magdeburg-Auswaerts-Coup ohne Top-Stuermer, Lakers schliessen Serie 4-0 (Sweep), Schalke holt Auswaerts-Sieg in Paderborn. Hit-Wahrscheinlichkeit < 0.5%. Spaßeinsatz 1-2 €. Achtung: Bremen-Sieg in dieser Kombi ist anti-korreliert zu Stuttgart-DC (Safe) und Stuttgart-Sieg (Value-Einzel) im selben Spiel — User entscheidet was er spielt."
     }
   ],
   "lessons_angewandt": [
