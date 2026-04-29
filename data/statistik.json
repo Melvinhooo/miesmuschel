@@ -1,37 +1,37 @@
 {
-  "letzte_berechnung": "2026-04-28T08:37:19+00:00",
+  "letzte_berechnung": "2026-04-29T16:31:21+00:00",
   "gesamt": {
-    "tipps": 71,
-    "gewonnen": 44,
-    "verloren": 27,
+    "tipps": 78,
+    "gewonnen": 49,
+    "verloren": 29,
     "push": 0,
     "offen": 0,
-    "einsatz": 71.0,
-    "netto": 0.52,
-    "trefferquote": 62.0,
-    "roi_prozent": 0.7
+    "einsatz": 78.0,
+    "netto": 1.93,
+    "trefferquote": 62.8,
+    "roi_prozent": 2.5
   },
   "letzte_30_tage": {
-    "tipps": 71,
-    "gewonnen": 44,
-    "verloren": 27,
+    "tipps": 78,
+    "gewonnen": 49,
+    "verloren": 29,
     "push": 0,
     "offen": 0,
-    "einsatz": 71.0,
-    "netto": 0.52,
-    "trefferquote": 62.0,
-    "roi_prozent": 0.7
+    "einsatz": 78.0,
+    "netto": 1.93,
+    "trefferquote": 62.8,
+    "roi_prozent": 2.5
   },
   "letzte_90_tage": {
-    "tipps": 71,
-    "gewonnen": 44,
-    "verloren": 27,
+    "tipps": 78,
+    "gewonnen": 49,
+    "verloren": 29,
     "push": 0,
     "offen": 0,
-    "einsatz": 71.0,
-    "netto": 0.52,
-    "trefferquote": 62.0,
-    "roi_prozent": 0.7
+    "einsatz": 78.0,
+    "netto": 1.93,
+    "trefferquote": 62.8,
+    "roi_prozent": 2.5
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -156,15 +156,15 @@
       "roi_prozent": 0.0
     },
     "NBA Playoffs Round 1, Game 5": {
-      "tipps": 2,
-      "gewonnen": 1,
-      "verloren": 1,
+      "tipps": 7,
+      "gewonnen": 4,
+      "verloren": 3,
       "push": 0,
       "offen": 0,
-      "einsatz": 2.0,
-      "netto": -0.8,
-      "trefferquote": 50.0,
-      "roi_prozent": -40.0
+      "einsatz": 7.0,
+      "netto": -1.24,
+      "trefferquote": 57.1,
+      "roi_prozent": -17.7
     },
     "NBA Playoffs Round 1, Game 4": {
       "tipps": 4,
@@ -176,6 +176,17 @@
       "netto": 2.93,
       "trefferquote": 100.0,
       "roi_prozent": 73.2
+    },
+    "Champions League Halbfinale Hinspiel": {
+      "tipps": 2,
+      "gewonnen": 2,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 1.85,
+      "trefferquote": 100.0,
+      "roi_prozent": 92.5
     }
   },
   "nach_markt": {
@@ -871,65 +882,142 @@
       "netto": 0.91,
       "trefferquote": 100.0,
       "roi_prozent": 91.0
+    },
+    "Spurs Sieg (Moneyline)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.1,
+      "trefferquote": 100.0,
+      "roi_prozent": 10.0
+    },
+    "Celtics Sieg (Moneyline)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Knicks Sieg (Moneyline)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.36,
+      "trefferquote": 100.0,
+      "roi_prozent": 36.0
+    },
+    "Doppelte Chance PSG oder Unentschieden (1X)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.4,
+      "trefferquote": 100.0,
+      "roi_prozent": 40.0
+    },
+    "Spurs Sieg & Unter 215.5 (Kombi-Single)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.1,
+      "trefferquote": 100.0,
+      "roi_prozent": 110.0
+    },
+    "Ousmane Dembele Jederzeit-Torschuetze": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.45,
+      "trefferquote": 100.0,
+      "roi_prozent": 145.0
+    },
+    "Beide Teams Mehr als 100 Punkte": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
     }
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 42,
+      "tipps": 43,
       "gewonnen": 23,
-      "verloren": 19,
+      "verloren": 20,
       "push": 0,
       "offen": 0,
-      "einsatz": 42.0,
-      "netto": -1.32,
-      "trefferquote": 54.8,
-      "roi_prozent": -3.1
+      "einsatz": 43.0,
+      "netto": -2.32,
+      "trefferquote": 53.5,
+      "roi_prozent": -5.4
     },
     "2.00-3.00": {
-      "tipps": 7,
-      "gewonnen": 3,
+      "tipps": 9,
+      "gewonnen": 5,
       "verloren": 4,
       "push": 0,
       "offen": 0,
-      "einsatz": 7.0,
-      "netto": 0.35,
-      "trefferquote": 42.9,
-      "roi_prozent": 5.0
+      "einsatz": 9.0,
+      "netto": 2.9,
+      "trefferquote": 55.6,
+      "roi_prozent": 32.2
     },
     "1.00-1.50": {
-      "tipps": 22,
-      "gewonnen": 18,
-      "verloren": 4,
+      "tipps": 26,
+      "gewonnen": 21,
+      "verloren": 5,
       "push": 0,
       "offen": 0,
-      "einsatz": 22.0,
-      "netto": 1.49,
-      "trefferquote": 81.8,
-      "roi_prozent": 6.8
+      "einsatz": 26.0,
+      "netto": 1.35,
+      "trefferquote": 80.8,
+      "roi_prozent": 5.2
     }
   },
   "nach_kategorie": {
     "safe": {
-      "tipps": 24,
-      "gewonnen": 18,
-      "verloren": 6,
+      "tipps": 28,
+      "gewonnen": 21,
+      "verloren": 7,
       "push": 0,
       "offen": 0,
-      "einsatz": 24.0,
-      "netto": 0.99,
+      "einsatz": 28.0,
+      "netto": 0.85,
       "trefferquote": 75.0,
-      "roi_prozent": 4.1
+      "roi_prozent": 3.0
     },
     "value": {
-      "tipps": 46,
-      "gewonnen": 25,
-      "verloren": 21,
+      "tipps": 49,
+      "gewonnen": 27,
+      "verloren": 22,
       "push": 0,
       "offen": 0,
-      "einsatz": 46.0,
-      "netto": -1.47,
-      "trefferquote": 54.3,
-      "roi_prozent": -3.2
+      "einsatz": 49.0,
+      "netto": 0.08,
+      "trefferquote": 55.1,
+      "roi_prozent": 0.2
     },
     "wackel": {
       "tipps": 1,

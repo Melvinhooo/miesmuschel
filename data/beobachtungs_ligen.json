@@ -1,5 +1,5 @@
 {
-  "stand": "2026-04-28T08:37:19+00:00",
+  "stand": "2026-04-29T16:31:21+00:00",
   "kriterium": "rolling 30 Tage ROI < -30.0% bei min. 4 Tipps",
   "ausstiegs_kriterium": "rolling 30 Tage ROI > -10.0% -> Liga wieder voll bespielbar",
   "ligen": [
