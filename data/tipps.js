@@ -1,8 +1,8 @@
 // Auto-generiert
 window.__MIESMUSCHEL_TIPPS = {
   "datum": "2026-04-29",
-  "erstellt_am": "2026-04-29T19:18:11",
-  "hinweis": "Mittwoch im Zeichen des CL-Halbfinales: Atletico Madrid empfaengt Arsenal um 21:00 in Madrid - das einzige relevante Fussballspiel des Tages, weil Bundesliga, Premier League, LaLiga, Serie A und Ligue 1 wegen der CL-Woche pausieren (DFB-Pokal-HF war letzte Woche, EL/Conference League starten erst Donnerstag). Dazu drei NBA-Playoff-G5-Spiele in der Nacht: Pistons-Magic (Pistons in Sweep-Abwehr nach 1:3-Rueckstand!), Cavs-Raptors als echte Rubber-Game in Cleveland und Lakers koennen zuhause die Rockets-Serie zumachen. Schwerpunkt heute klar: CL-Hinspiel + NBA-Spielergebnis-Maerkte. Player-Punkte nur als Risiko-Bein, nicht als Einzeltipp - Lessons aus Apr 22-26 zeigen 5/17 Hitrate (29.4%, ROI -46%). Quoten via Aggregator nur teilweise verifizierbar (Oddschecker/Sportsgambler 403), bestimmte Quoten daher Praefix '~' und max WACKEL. UPDATE 18:30: Tipps gegen Bilanz reality-gecheckt + Kombis diversifiziert (max 1 Bein pro Spiel). UPDATE 18:55: Lakers Sieg ML auf SAFE upgegradet (Closing-Out + Houston ohne Durant + Reaves zurueck = alle SAFE-Kriterien erfuellt). Heute 2 SAFE-Tipps.",
+  "erstellt_am": "2026-04-29T19:33:29",
+  "hinweis": "Mittwoch im Zeichen des CL-Halbfinales: Atletico Madrid empfaengt Arsenal um 21:00 in Madrid - das einzige relevante Fussballspiel des Tages, weil Bundesliga, Premier League, LaLiga, Serie A und Ligue 1 wegen der CL-Woche pausieren (DFB-Pokal-HF war letzte Woche, EL/Conference League starten erst Donnerstag). Dazu drei NBA-Playoff-G5-Spiele in der Nacht: Pistons-Magic (Pistons in Sweep-Abwehr nach 1:3-Rueckstand!), Cavs-Raptors als echte Rubber-Game in Cleveland und Lakers koennen zuhause die Rockets-Serie zumachen. Schwerpunkt heute klar: CL-Hinspiel + NBA-Spielergebnis-Maerkte. Player-Punkte nur als Risiko-Bein, nicht als Einzeltipp - Lessons aus Apr 22-26 zeigen 5/17 Hitrate (29.4%, ROI -46%). Quoten via Aggregator nur teilweise verifizierbar (Oddschecker/Sportsgambler 403), bestimmte Quoten daher Praefix '~' und max WACKEL. UPDATE 18:30: Tipps gegen Bilanz reality-gecheckt + Kombis diversifiziert (max 1 Bein pro Spiel). UPDATE 18:55: Lakers Sieg ML auf SAFE upgegradet (Closing-Out + Houston ohne Durant + Reaves zurueck = alle SAFE-Kriterien erfuellt). Heute 2 SAFE-Tipps. UPDATE 19:10: Kombis Layer-2-diversifiziert. Lakers-Sieg-Outcome nur noch in Safe-Kombi.",
   "spiele": [
     {
       "id": "2026-04-29-atletico-arsenal",
@@ -393,124 +393,140 @@ window.__MIESMUSCHEL_TIPPS = {
     {
       "name": "Safe-Kombi",
       "kategorie": "safe",
-      "gesamtquote": 2.81,
-      "empfohlener_einsatz_prozent": 0.5,
       "beine": [
         {
           "spiel_id": "2026-04-29-atletico-arsenal",
           "tipp_id": "t1",
-          "markt": "Atletico Madrid - Doppelte Chance 1X",
+          "spiel_titel": "Atletico Madrid vs Arsenal (CL HF)",
+          "markt": "Atletico Madrid vs Arsenal: Doppelte Chance Atletico oder Unentschieden (1X)",
           "quote": 1.45
         },
         {
           "spiel_id": "2026-04-29-cavaliers-raptors-g5",
           "tipp_id": "t1",
-          "markt": "Cleveland Cavaliers Sieg ML",
+          "spiel_titel": "Cleveland Cavaliers vs Toronto Raptors G5",
+          "markt": "Cleveland Cavaliers vs Toronto Raptors G5: Cleveland Cavaliers Sieg (Moneyline)",
           "quote": 1.25
         },
         {
           "spiel_id": "2026-04-29-lakers-rockets-g5",
           "tipp_id": "t1",
-          "markt": "Los Angeles Lakers Sieg ML",
+          "spiel_titel": "Los Angeles Lakers vs Houston Rockets G5",
+          "markt": "Los Angeles Lakers vs Houston Rockets G5: Los Angeles Lakers Sieg (Moneyline)",
           "quote": 1.55
         }
       ],
-      "begruendung": "Drei Heim-Vorteile: Atletico abgesichert per Doppelter Chance (auch Remis zaehlt), Cavs als G5-Heim-Decider in 2-2-Serie, Lakers Closing-Out gegen Houston ohne Durant. Gesamt 2.81x - knapp unter 3x-Ziel, aber alle Beine mit ueberdurchschnittlicher Heim-Hitrate. Einsatz konservativ 0.5% wegen drei abhaengiger Beine."
+      "gesamtquote": 2.81,
+      "rechnung": "1.45 x 1.25 x 1.55 = 2.81",
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Drei Heim-Sieg-Anker, jeder aus einem anderen Spiel: Atletico (per DC abgesichert + 2:0-Insurance bei CL), Cleveland Cavaliers ML (Heim-Decider in 2-2-Serie 73% Heim historisch), Los Angeles Lakers (Closing-Out + Houston ohne Durant). Quote 2.81x mit hoher Trefferwahrscheinlichkeit."
     },
     {
-      "name": "Balance-Kombi",
-      "kategorie": "balance",
-      "gesamtquote": 3.71,
-      "empfohlener_einsatz_prozent": 0.5,
+      "name": "Balance-Kombi (Total-Profil)",
+      "kategorie": "value",
       "beine": [
         {
           "spiel_id": "2026-04-29-atletico-arsenal",
-          "tipp_id": "t1",
-          "markt": "Atletico Madrid - DC 1X",
-          "quote": 1.45
-        },
-        {
-          "spiel_id": "2026-04-29-cavaliers-raptors-g5",
-          "tipp_id": "t6",
-          "markt": "Cavaliers - 1. Halbzeit Sieger",
-          "quote": 1.65
-        },
-        {
-          "spiel_id": "2026-04-29-lakers-rockets-g5",
-          "tipp_id": "t1",
-          "markt": "Los Angeles Lakers Sieg ML",
-          "quote": 1.55
-        }
-      ],
-      "begruendung": "Zwei Halbzeit-Wetten + Atletico-DC + Lakers-ML. HZ-Wetten greifen vor potenziellem Late-Comeback der Underdogs - sichern den Aufschlag. Atletico-DC bleibt als bewaehrter Anker. 1.45*1.65*1.75*1.55 = 6.49x = unter Ziel-8x aber klar im Balance-Bereich. Einsatz 0.5% konservativ.",
-      "rechnung": "1.45 × 1.65 × 1.55 = 3.71"
-    },
-    {
-      "name": "Risiko-Kombi",
-      "kategorie": "risk",
-      "gesamtquote": 21.59,
-      "empfohlener_einsatz_prozent": 0.25,
-      "beine": [
-        {
-          "spiel_id": "2026-04-29-atletico-arsenal",
-          "tipp_id": "t3",
-          "markt": "Atletico Madrid Sieg (1X2)",
-          "quote": 3.1
+          "tipp_id": "t2",
+          "spiel_titel": "Atletico Madrid vs Arsenal (CL HF)",
+          "markt": "Atletico Madrid vs Arsenal: Unter 2.5 Tore",
+          "quote": 1.95
         },
         {
           "spiel_id": "2026-04-29-pistons-magic-g5",
-          "tipp_id": "t1",
-          "markt": "Magic +10.5 (Spread)",
+          "tipp_id": "t2",
+          "spiel_titel": "Detroit Pistons vs Orlando Magic G5",
+          "markt": "Detroit Pistons vs Orlando Magic G5: Unter 211.5 Punkte (Total)",
           "quote": 1.91
         },
         {
           "spiel_id": "2026-04-29-cavaliers-raptors-g5",
           "tipp_id": "t2",
-          "markt": "Ueber 215.5 (Total)",
-          "quote": 1.91
-        },
-        {
-          "spiel_id": "2026-04-29-lakers-rockets-g5",
-          "tipp_id": "t3",
-          "markt": "Lakers -4.5 (Spread)",
+          "spiel_titel": "Cleveland Cavaliers vs Toronto Raptors G5",
+          "markt": "Cleveland Cavaliers vs Toronto Raptors G5: Ueber 215.5 Punkte (Total)",
           "quote": 1.91
         }
       ],
-      "begruendung": "3.10*1.91*1.91*1.91 = 21.59x. Atletico-Sieg-Anker mit bet365 2:0-Insurance + drei NBA-Spielergebnis-Wetten (alle Spielergebnis-Maerkte +ROI laut Lesson 26.04.). Magic-Spread profitiert vom Sweep-Druck-Modus, Cavs-Total vom Rubber-Game-Tempo, Lakers-Spread vom Closing-Out-Setup. Einsatz 0.25% wegen vier Beinen + Spread-Volatilitaet."
+      "gesamtquote": 7.11,
+      "rechnung": "1.95 x 1.91 x 1.91 = 7.11",
+      "empfohlener_einsatz_prozent": 0.75,
+      "begruendung": "Total-Wetten-Profil aus 3 verschiedenen Spielen (Lakers BEWUSST nicht enthalten - Lakers-Sieg-Outcome schon in Safe-Kombi, Layer-2-Diversifikation). NBA-Unter-Linien sind aktuell Goldgrube (4/5 = 80% Hitrate). Atletico Unter 2.5 passt zum CL-HF-Hinspiel-Pattern (Schnitt 1.9 Tore in letzten 10 HFs). 7.11x bei geringem Spiel-Outcome-Risiko."
+    },
+    {
+      "name": "Risiko-Kombi",
+      "kategorie": "risk",
+      "beine": [
+        {
+          "spiel_id": "2026-04-29-atletico-arsenal",
+          "tipp_id": "t3",
+          "spiel_titel": "Atletico Madrid vs Arsenal (CL HF)",
+          "markt": "Atletico Madrid vs Arsenal: Atletico Madrid Sieg (1X2) - mit 2:0-Insurance",
+          "quote": 3.1
+        },
+        {
+          "spiel_id": "2026-04-29-pistons-magic-g5",
+          "tipp_id": "t1",
+          "spiel_titel": "Detroit Pistons vs Orlando Magic G5",
+          "markt": "Detroit Pistons vs Orlando Magic G5: Magic +10.5 (Spread)",
+          "quote": 1.91
+        },
+        {
+          "spiel_id": "2026-04-29-cavaliers-raptors-g5",
+          "tipp_id": "t6",
+          "spiel_titel": "Cleveland Cavaliers vs Toronto Raptors G5",
+          "markt": "Cleveland Cavaliers vs Toronto Raptors G5: 1. Halbzeit Sieger Cavaliers",
+          "quote": 1.65
+        },
+        {
+          "spiel_id": "2026-04-29-lakers-rockets-g5",
+          "tipp_id": "t2",
+          "spiel_titel": "Los Angeles Lakers vs Houston Rockets G5",
+          "markt": "Los Angeles Lakers vs Houston Rockets G5: Unter 207.5 Punkte (Total)",
+          "quote": 1.91
+        }
+      ],
+      "gesamtquote": 18.66,
+      "rechnung": "3.10 x 1.91 x 1.65 x 1.91 = 18.66",
+      "empfohlener_einsatz_prozent": 0.25,
+      "begruendung": "4 verschiedene Spiele, Mix aus Sieg + Spread + HZ + Total. Lakers-Bein ist BEWUSST das Unter-207.5-Total (nicht Sieg/Spread) - reduziert Lakers-Outcome-Korrelation mit Safe-Kombi (Lakers ML schon dort). Atletico-Sieg-Variante mit 2:0-Insurance-Boost. Magic-Spread fuer Sweep-Druck-Pattern. Cavs-1.HZ-Energie-Spike. ~18.66x."
     },
     {
       "name": "Moonshot",
       "kategorie": "moonshot",
-      "gesamtquote": 30.04,
-      "empfohlener_einsatz_prozent": 0.1,
       "beine": [
         {
           "spiel_id": "2026-04-29-atletico-arsenal",
           "tipp_id": "t7",
-          "markt": "Sorloth Jederzeit Tor",
+          "spiel_titel": "Atletico Madrid vs Arsenal (CL HF)",
+          "markt": "Atletico Madrid vs Arsenal: Alexander Sorloth Jederzeit Tor",
           "quote": 4.5
         },
         {
           "spiel_id": "2026-04-29-pistons-magic-g5",
           "tipp_id": "t4",
-          "markt": "Cunningham Mehr 27.5 Pkt",
+          "spiel_titel": "Detroit Pistons vs Orlando Magic G5",
+          "markt": "Detroit Pistons vs Orlando Magic G5: Cade Cunningham Mehr als 27.5 Punkte",
           "quote": 1.91
         },
         {
           "spiel_id": "2026-04-29-cavaliers-raptors-g5",
           "tipp_id": "t4",
-          "markt": "Mitchell Mehr 26.5 Pkt",
+          "spiel_titel": "Cleveland Cavaliers vs Toronto Raptors G5",
+          "markt": "Cleveland Cavaliers vs Toronto Raptors G5: Donovan Mitchell Mehr als 26.5 Punkte",
           "quote": 1.83
         },
         {
           "spiel_id": "2026-04-29-lakers-rockets-g5",
           "tipp_id": "t5",
-          "markt": "Sengun Mehr 22.5 Pkt",
+          "spiel_titel": "Los Angeles Lakers vs Houston Rockets G5",
+          "markt": "Los Angeles Lakers vs Houston Rockets G5: Alperen Sengun Mehr als 22.5 Punkte",
           "quote": 1.91
         }
       ],
-      "begruendung": "Nachgerechnet: 3.10*4.50*1.91*1.83*1.91*1.83 = 170.43x - Lotterie-Bereich. Atletico-Sieg-Anker mit 2:0-Insurance + Sorloth-Doppelpack-Form + 4 NBA-Player-Punkte als Spass-Beine (Lesson 26.04. erlaubt sie ausschliesslich in Moonshot, nie eigenstaendig). Spass-Einsatz 0.1% = 1-2 Euro auf der Kasse. Realistische Trefferwahrscheinlichkeit bei 6 Beinen mit Schnitt-Quote 2.0 etwa 0.5% - daher klar Lotterie und nicht ROI-getrieben. Wenn auch nur eines der vier Player-Punkte-Beine spaet umkippt, ist die Kombi tot.",
-      "rechnung": "4.50 × 1.91 × 1.83 × 1.91 = 30.04"
+      "gesamtquote": 30.04,
+      "rechnung": "4.50 x 1.91 x 1.83 x 1.91 = 30.04",
+      "empfohlener_einsatz_prozent": 0.1,
+      "begruendung": "Lottoschein 30x: Sorloth-Tor + 3 NBA-Player-Punkte (Lesson 26.04. erlaubt sie ausschliesslich in Moonshot). 4 verschiedene Spiele, je 1 Bein. Bei nur 4 Spielen heute ist 30x das saubere Maximum mit Diversifikation - frueher hatten wir 170x mit 6 Beinen aber 2 Beine pro Spiel (Layer-1-Verstoss). Spass-Einsatz 1-2 Euro."
     }
   ],
   "lessons_angewandt": [
