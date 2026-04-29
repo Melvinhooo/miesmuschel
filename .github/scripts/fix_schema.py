@@ -257,6 +257,28 @@ def fix(path):
             except (ValueError, TypeError):
                 pass
 
+    # Layer-2-Diversifikations-Check: zaehle wie oft jedes Spiel in Sieg-Beinen vorkommt
+    # ueber alle Kombis. Wenn ein Spiel-Sieg-Outcome in >2 Kombis steckt, WARN
+    # (nicht hartcoded weil semantisch komplex - Routine soll selbst loesen).
+    sieg_marker = ('sieg', 'moneyline', 'spread', 'handicap', '1x2', 'doppelte chance')
+    spiel_in_sieg_kombis = {}
+    for k in d.get('kombis', []):
+        spiele_in_kombi_sieg = set()
+        for b in k.get('beine', []):
+            sid = b.get('spiel_id')
+            if not sid:
+                continue
+            markt = (b.get('markt') or '').lower()
+            if any(m in markt for m in sieg_marker):
+                spiele_in_kombi_sieg.add(sid)
+        for sid in spiele_in_kombi_sieg:
+            spiel_in_sieg_kombis[sid] = spiel_in_sieg_kombis.get(sid, 0) + 1
+    for sid, n in spiel_in_sieg_kombis.items():
+        if n > 2:
+            print(f"  WARN Layer-2: Spiel-Sieg-Outcome '{sid}' in {n} Kombis - "
+                  f"Diversifikations-Risiko (1 Spiel-Verlust killt {n} Kombis). "
+                  f"Routine soll bei naechstem Lauf andere Markttypen waehlen.")
+
     # _test_trigger Cleanup
     d.pop('_test_trigger', None)
 
