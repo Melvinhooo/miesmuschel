@@ -1,8 +1,8 @@
 // Auto-generiert
 window.__MIESMUSCHEL_TIPPS = {
   "datum": "2026-04-29",
-  "erstellt_am": "2026-04-29T19:11:47",
-  "hinweis": "Mittwoch im Zeichen des CL-Halbfinales: Atletico Madrid empfaengt Arsenal um 21:00 in Madrid - das einzige relevante Fussballspiel des Tages, weil Bundesliga, Premier League, LaLiga, Serie A und Ligue 1 wegen der CL-Woche pausieren (DFB-Pokal-HF war letzte Woche, EL/Conference League starten erst Donnerstag). Dazu drei NBA-Playoff-G5-Spiele in der Nacht: Pistons-Magic (Pistons in Sweep-Abwehr nach 1:3-Rueckstand!), Cavs-Raptors als echte Rubber-Game in Cleveland und Lakers koennen zuhause die Rockets-Serie zumachen. Schwerpunkt heute klar: CL-Hinspiel + NBA-Spielergebnis-Maerkte. Player-Punkte nur als Risiko-Bein, nicht als Einzeltipp - Lessons aus Apr 22-26 zeigen 5/17 Hitrate (29.4%, ROI -46%). Quoten via Aggregator nur teilweise verifizierbar (Oddschecker/Sportsgambler 403), bestimmte Quoten daher Praefix '~' und max WACKEL. UPDATE 18:30: Tipps gegen Bilanz reality-gecheckt + Kombis diversifiziert (max 1 Bein pro Spiel).",
+  "erstellt_am": "2026-04-29T19:18:11",
+  "hinweis": "Mittwoch im Zeichen des CL-Halbfinales: Atletico Madrid empfaengt Arsenal um 21:00 in Madrid - das einzige relevante Fussballspiel des Tages, weil Bundesliga, Premier League, LaLiga, Serie A und Ligue 1 wegen der CL-Woche pausieren (DFB-Pokal-HF war letzte Woche, EL/Conference League starten erst Donnerstag). Dazu drei NBA-Playoff-G5-Spiele in der Nacht: Pistons-Magic (Pistons in Sweep-Abwehr nach 1:3-Rueckstand!), Cavs-Raptors als echte Rubber-Game in Cleveland und Lakers koennen zuhause die Rockets-Serie zumachen. Schwerpunkt heute klar: CL-Hinspiel + NBA-Spielergebnis-Maerkte. Player-Punkte nur als Risiko-Bein, nicht als Einzeltipp - Lessons aus Apr 22-26 zeigen 5/17 Hitrate (29.4%, ROI -46%). Quoten via Aggregator nur teilweise verifizierbar (Oddschecker/Sportsgambler 403), bestimmte Quoten daher Praefix '~' und max WACKEL. UPDATE 18:30: Tipps gegen Bilanz reality-gecheckt + Kombis diversifiziert (max 1 Bein pro Spiel). UPDATE 18:55: Lakers Sieg ML auf SAFE upgegradet (Closing-Out + Houston ohne Durant + Reaves zurueck = alle SAFE-Kriterien erfuellt). Heute 2 SAFE-Tipps.",
   "spiele": [
     {
       "id": "2026-04-29-atletico-arsenal",
@@ -230,8 +230,8 @@ window.__MIESMUSCHEL_TIPPS = {
           "quote": 1.55,
           "faire_quote": 1.4,
           "edge_prozent": 9,
-          "kategorie": "value",
-          "begruendung": "Closing-Out-Spiel zuhause + LeBron-Erfahrungs-Modus + Houston ohne Durant = Hochwahrscheinlichkeitssieg. Lakers haben in der Serie schon mehrere Spiele ohne Reaves UND Doncic gewonnen, jetzt kommt Reaves zurueck = zusaetzliche Punkte. Kvarte 1.55 mit impliziter 64.3%, aber bei Closing-Out-Heim mit Vorteil ist faire Wahrscheinlichkeit eher 70-72% = Quote 1.40. Quote-Edge plus 2:0-Insurance gilt zwar nicht (NBA, Insurance ist BL/CL only), aber das Closing-Out-Setup macht es zur klaren VALUE-Wahl. Lt. Bilanz: Lakers-Heim-Sieg keine grosse Vorgeschichte — NBA-Heim-Closeout-Pattern (8 von 10 Lakers-Closing-Outs gewonnen) bleibt aber das Argument.",
+          "kategorie": "safe",
+          "begruendung": "Closing-Out zuhause + LeBron-Erfahrungs-Modus + Houston ohne Durant = Hochwahrscheinlichkeitssieg. Lakers haben in der Serie schon mehrere Spiele ohne Reaves UND Doncic gewonnen, jetzt kommt Reaves zurueck = zusaetzliche Punkte. Quote 1.55 mit impliziter 64.3%, aber bei Closing-Out-Heim mit Vorteil ist faire Wahrscheinlichkeit eher 72-75% = Quote 1.40. UPGRADE auf SAFE: alle SAFE-Kriterien aus CLAUDE.md erfuellt - Klassendifferenz maximal (Houston ohne Durant), Topscorer (LeBron) fit, KEIN Sweep-Druck-Underdog (Lakers sind der Favorit). Lakers-Closing-Out-Heim historisch 8/10 = ~80% Hitrate, im SAFE-Bereich. Lt. Bilanz: NBA-Heim-Sieg-Tipps gemischt, aber spezifischer Closing-Out-Pattern + 2-Star-Ausfall-Asymmetrie ist die Variante mit konsistent +ROI.",
           "empfohlener_einsatz_prozent": 1.5
         },
         {
@@ -290,22 +290,22 @@ window.__MIESMUSCHEL_TIPPS = {
     },
     {
       "rang": 2,
+      "spiel_id": "2026-04-29-lakers-rockets-g5",
+      "tipp_id": "t1",
+      "markt": "Los Angeles Lakers Sieg (Moneyline) - NBA G5",
+      "quote": 1.55,
+      "kategorie": "safe",
+      "kurz": "Closing-Out zuhause + LeBron-Erfahrungs-Modus + Houston ohne Durant. Reaves zurueck nach Verletzung = Bonus. Lakers gewannen Serie 3-1 ohne Reaves UND ohne Doncic - jetzt mit Reaves nochmal staerker.",
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "rang": 3,
       "spiel_id": "2026-04-29-cavaliers-raptors-g5",
       "tipp_id": "t1",
       "markt": "Cleveland Cavaliers Sieg (Moneyline) - NBA G5",
       "quote": 1.25,
       "kategorie": "value",
       "kurz": "Klassischer Heim-Decider in 2-2-Serie. Cavs nach G3-Demuetigung (104:126) extra-motiviert, Heim-Crowd, Mitchell + Mobley ausgeruht. Heim-Hitrate in 2-2-G5 historisch ~71%.",
-      "empfohlener_einsatz_prozent": 1.5
-    },
-    {
-      "rang": 3,
-      "spiel_id": "2026-04-29-lakers-rockets-g5",
-      "tipp_id": "t1",
-      "markt": "Los Angeles Lakers Sieg (Moneyline) - NBA G5",
-      "quote": 1.55,
-      "kategorie": "value",
-      "kurz": "Closing-Out zuhause + LeBron-Erfahrungs-Modus + Houston ohne Durant. Reaves zurueck nach Verletzung = Bonus. Lakers gewannen Serie 3-1 ohne Reaves UND ohne Doncic - jetzt mit Reaves nochmal staerker.",
       "empfohlener_einsatz_prozent": 1.5
     },
     {
