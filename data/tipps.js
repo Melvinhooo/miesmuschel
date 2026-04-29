@@ -493,7 +493,6 @@ window.__MIESMUSCHEL_TIPPS = {
     {
       "name": "Safe-Kombi",
       "kategorie": "safe",
-      "ziel_quote": 3.0,
       "gesamtquote": 2.81,
       "empfohlener_einsatz_prozent": 0.5,
       "beine": [
@@ -521,7 +520,6 @@ window.__MIESMUSCHEL_TIPPS = {
     {
       "name": "Balance-Kombi",
       "kategorie": "balance",
-      "ziel_quote": 8.0,
       "gesamtquote": 6.49,
       "empfohlener_einsatz_prozent": 0.5,
       "beine": [
@@ -554,8 +552,7 @@ window.__MIESMUSCHEL_TIPPS = {
     },
     {
       "name": "Risiko-Kombi",
-      "kategorie": "risiko",
-      "ziel_quote": 25.0,
+      "kategorie": "risk",
       "gesamtquote": 21.59,
       "empfohlener_einsatz_prozent": 0.25,
       "beine": [
@@ -589,7 +586,6 @@ window.__MIESMUSCHEL_TIPPS = {
     {
       "name": "Moonshot",
       "kategorie": "moonshot",
-      "ziel_quote": 300.0,
       "gesamtquote": 170.43,
       "empfohlener_einsatz_prozent": 0.1,
       "beine": [
