@@ -152,6 +152,56 @@ def fix(path):
             kept.append(tipp)
         spiel['tipps'] = kept
 
+    # Hard-Cap: max 5 Tipps pro Spiel, sortiert nach Kategorie-Prioritaet + Edge.
+    # SAFE > VALUE > WACKEL > RISIKO > MOONSHOT, innerhalb gleicher Kategorie nach edge_prozent absteigend.
+    KAT_PRIORITY = {'safe': 0, 'value': 1, 'wackel': 2, 'risk': 3, 'moonshot': 4}
+    def _score(t):
+        kat = (t.get('kategorie') or 'wackel').lower()
+        p = KAT_PRIORITY.get(kat, 5)
+        try:
+            edge = float(t.get('edge_prozent') or 0)
+        except (ValueError, TypeError):
+            edge = 0
+        return (p, -edge)
+    MAX_TIPPS_PRO_SPIEL = 5
+    for spiel in d.get('spiele', []):
+        tipps = spiel.get('tipps', [])
+        if len(tipps) > MAX_TIPPS_PRO_SPIEL:
+            spiel['tipps'] = sorted(tipps, key=_score)[:MAX_TIPPS_PRO_SPIEL]
+
+    # Konsistenz: einzeltipps[] und kombis[] bereinigen, falls ein Tipp gecappt wurde.
+    valid_refs = set()
+    for spiel in d.get('spiele', []):
+        sid = spiel.get('id')
+        for t in spiel.get('tipps', []):
+            tid = t.get('id')
+            if sid and tid:
+                valid_refs.add((sid, tid))
+
+    et_before = len(d.get('einzeltipps', []))
+    d['einzeltipps'] = [
+        e for e in d.get('einzeltipps', [])
+        if not e.get('tipp_id') or (e.get('spiel_id'), e.get('tipp_id')) in valid_refs
+    ]
+    for i, e in enumerate(d.get('einzeltipps', []), 1):
+        e['rang'] = i
+    if et_before != len(d.get('einzeltipps', [])):
+        print(f"  einzeltipps Cap-Cleanup: {et_before} -> {len(d['einzeltipps'])}")
+
+    kept_kombis = []
+    for k in d.get('kombis', []):
+        beine = k.get('beine', [])
+        # Nur Beine mit eindeutigem tipp_id pruefen; ohne tipp_id (nur Markt-String) drinlassen
+        all_valid = all(
+            (b.get('spiel_id'), b.get('tipp_id')) in valid_refs
+            for b in beine if b.get('tipp_id')
+        )
+        if all_valid:
+            kept_kombis.append(k)
+        else:
+            print(f"  Kombi gedroppt nach Cap: {k.get('name', k.get('id', '?'))}")
+    d['kombis'] = kept_kombis
+
     # _test_trigger Cleanup
     d.pop('_test_trigger', None)
 

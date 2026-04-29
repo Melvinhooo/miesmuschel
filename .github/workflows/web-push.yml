@@ -1,10 +1,11 @@
-name: Web Push on Tipps Update
+name: Web Push on Tipps/Auswertung Update
 
 on:
   push:
     branches: [main]
     paths:
       - 'data/tipps/*.json'
+      - 'data/ergebnisse/*.json'
   workflow_dispatch:
 
 permissions:
@@ -15,13 +16,36 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2  # damit wir HEAD~1 vergleichen koennen
       - uses: actions/setup-python@v5
         with:
           python-version: '3.x'
       - run: pip install --quiet pywebpush
-      - name: Schema-Fix (Routine-Output -> app.js-Format)
+
+      - name: Mode erkennen (tipps vs auswertung)
+        id: mode
+        run: |
+          # Geaenderte Dateien im letzten Commit
+          changed=$(git diff-tree --no-commit-id --name-only -r HEAD || true)
+          echo "Changed files:"
+          echo "$changed"
+          if echo "$changed" | grep -q "^data/ergebnisse/"; then
+            mode="auswertung"
+          elif echo "$changed" | grep -q "^data/tipps/"; then
+            mode="tipps"
+          else
+            mode="skip"
+          fi
+          echo "mode=$mode" >> $GITHUB_OUTPUT
+          echo "Mode: $mode"
+
+      - name: Schema-Fix (nur bei Tipps-Updates)
+        if: steps.mode.outputs.mode == 'tipps'
         run: python .github/scripts/fix_schema.py
-      - name: tipps.js regenerieren
+
+      - name: tipps.js regenerieren (nur bei Tipps-Updates)
+        if: steps.mode.outputs.mode == 'tipps'
         run: |
           python -c "
           import json, glob
@@ -33,7 +57,9 @@ jobs:
                   f.write(('// Auto-generiert\n' + 'window.__MIESMUSCHEL_TIPPS = ' + data + ';\n').encode('utf-8'))
               print(f'tipps.js aus {latest} regeneriert')
           "
+
       - name: Commit + Push (wenn Schema-Fix Aenderungen brachte)
+        if: steps.mode.outputs.mode == 'tipps'
         continue-on-error: true
         run: |
           git config user.email "actions@github.com"
@@ -45,9 +71,10 @@ jobs:
           else
             echo "Nichts zu committen"
           fi
+
       - name: Web-Push senden
-        if: ${{ always() && !contains(github.event.head_commit.message, 'Schema-Fix') }}
-        run: python .github/scripts/send_push.py
+        if: steps.mode.outputs.mode != 'skip' && !contains(github.event.head_commit.message, 'Schema-Fix')
+        run: python .github/scripts/send_push.py ${{ steps.mode.outputs.mode }}
         env:
           VAPID_PRIVATE: ${{ secrets.VAPID_PRIVATE }}
           PUSH_SUB: ${{ secrets.PUSH_SUB }}
