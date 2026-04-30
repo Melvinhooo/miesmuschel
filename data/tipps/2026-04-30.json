@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS = {
+{
   "datum": "2026-04-30",
   "erstellt_am": "2026-04-30T17:30:00+02:00",
   "hinweis": "Watchdog-Recovery 17:30: Hauptroutine 16:00 ist nicht durchgelaufen, daher Tipps jetzt automatisch nachgeholt. Donnerstags-Paket: 4 europaeische Halbfinal-Hinspiele (2x Europa League, 2x Conference League — alle 21:00) + 3 NBA Playoffs Game-6-Closeouts (Hawks@Knicks, 76ers@Celtics, Wolves@Nuggets — Nacht zu Fr 01:00-03:30 CEST). Liga-Checkliste vollstaendig: Bundesliga/2.Bundesliga/Serie A/LaLiga/Ligue 1/CL/Coppa Italia/DFB-Pokal/Copa del Rey/FA Cup/EFL Cup heute leer (Liga-Pause vor WE, CL-HF Mi 28.04. abgeschlossen, nationale Pokal-Finals erst Mai). Premier-League-'Leeds-Burnley' lt. Mehrheit der Quellen 01.05. Friday-Night, daher heute NICHT aufgenommen. Lessons scharf: NBA-Player-Punkte/DD bleibt KOMPLETT aus Einzeltipps (Markt-Boykott 5/17=29% seit 26.04.), G6-Closeouts NIE als SAFE (Sweep-Druck-Lesson 25.04. komplementaer fuer Closeout-Auswaerts), 2:0-Insurance heute NICHT anwendbar (gilt nur BL+CL — heute nur EL/Conference), Einwechslungs-Boost-Edge nur bei spielzeit-limitierten Stuermern. Saison-Kontext-4-Faktoren pro Spiel.",
@@ -624,4 +623,4 @@ window.__MIESMUSCHEL_TIPPS = {
     "2026-04-25 Mainz-Bayern-Edge-Lesson Layer-2-Kombi-Diversifikation — Sieg-Outcomes nur in Safe-Kombi (4 DCs in den europaeischen HF-Hinspielen), die anderen 3 Kombis (Balance/Risiko/Moonshot) nutzen ausschliesslich BTTS/Total — verhindert Layer-2-Korrelations-Verluste."
   ],
   "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool, keine Einkommensquelle. Nur setzen was du verlieren kannst."
-};
+}
