@@ -398,7 +398,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "markt": "Mehr als 1.5 Tore (Braga-Freiburg)",
       "quote": 1.3,
       "kategorie": "safe",
-      "begruendung_kurz": "EL-HF Hinspiel offen + beide Teams in QF mit Toren. Quoten-Range 1.00-1.50: 80% Bilanz."
+      "begruendung_kurz": "EL-HF Hinspiel offen + beide Teams in QF mit Toren. Quoten-Range 1.00-1.50: 80% Bilanz.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1
     },
     {
       "spiel_id": "2026-04-30-braga-freiburg",
@@ -406,7 +408,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "markt": "SC Braga Doppelte Chance (1X)",
       "quote": 1.32,
       "kategorie": "safe",
-      "begruendung_kurz": "Heim-Hinspiel + Estadio Municipal stark. Freiburg-Auswaerts-EL-Schwaeche."
+      "begruendung_kurz": "Heim-Hinspiel + Estadio Municipal stark. Freiburg-Auswaerts-EL-Schwaeche.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2
     },
     {
       "spiel_id": "2026-04-30-nottingham-forest-aston-villa",
@@ -414,7 +418,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "markt": "Mehr als 1.5 Tore (Forest-Villa)",
       "quote": 1.3,
       "kategorie": "safe",
-      "begruendung_kurz": "Letzte 5 H2H BTTS — Muster sehr stabil. PL-Style + Heim-Druck."
+      "begruendung_kurz": "Letzte 5 H2H BTTS — Muster sehr stabil. PL-Style + Heim-Druck.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 3
     },
     {
       "spiel_id": "2026-04-30-nottingham-forest-aston-villa",
@@ -422,7 +428,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "markt": "Nottingham Forest Doppelte Chance (1X)",
       "quote": 1.42,
       "kategorie": "safe",
-      "begruendung_kurz": "Hinspiel zuhause + Villa-Doppelbelastung CL-Quali-Kampf."
+      "begruendung_kurz": "Hinspiel zuhause + Villa-Doppelbelastung CL-Quali-Kampf.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 4
     },
     {
       "spiel_id": "2026-04-30-shakhtar-crystal-palace",
@@ -430,7 +438,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "markt": "Crystal Palace Doppelte Chance (X2)",
       "quote": 1.3,
       "kategorie": "safe",
-      "begruendung_kurz": "PL-Klasse > Ukrainischer Pokal + neutraler Boden in Krakow + Glasner-System."
+      "begruendung_kurz": "PL-Klasse > Ukrainischer Pokal + neutraler Boden in Krakow + Glasner-System.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 5
     },
     {
       "spiel_id": "2026-04-30-rayo-vallecano-strasbourg",
@@ -438,7 +448,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "markt": "Rayo Vallecano Doppelte Chance (1X)",
       "quote": 1.3,
       "kategorie": "safe",
-      "begruendung_kurz": "Vallecas-Heimstaerke + Bilanz-Goldgrube Markt 1/1 = 100%."
+      "begruendung_kurz": "Vallecas-Heimstaerke + Bilanz-Goldgrube Markt 1/1 = 100%.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 6
     },
     {
       "spiel_id": "2026-04-30-shakhtar-crystal-palace",
@@ -446,7 +458,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "markt": "Crystal Palace Sieg",
       "quote": 2.04,
       "kategorie": "value",
-      "begruendung_kurz": "PL-Klasse + neutraler Boden + Olise/Eze/Mateta-Trio = 49% impl. unterbewertet."
+      "begruendung_kurz": "PL-Klasse + neutraler Boden + Olise/Eze/Mateta-Trio = 49% impl. unterbewertet.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 7
     },
     {
       "spiel_id": "2026-04-30-rayo-vallecano-strasbourg",
@@ -454,7 +468,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "markt": "Rayo Vallecano Sieg",
       "quote": 2.14,
       "kategorie": "value",
-      "begruendung_kurz": "47% Sieg-Quote unterbewertet wegen Vallecas-Heimstaerke."
+      "begruendung_kurz": "47% Sieg-Quote unterbewertet wegen Vallecas-Heimstaerke.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 8
     },
     {
       "spiel_id": "2026-04-30-hawks-knicks-g6",
@@ -462,7 +478,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "markt": "New York Knicks Sieg",
       "quote": 1.68,
       "kategorie": "value",
-      "begruendung_kurz": "Form-Uebermacht (+29 G5, +16 G4). Closeout-Lesson 25.04. = nicht SAFE, aber VALUE."
+      "begruendung_kurz": "Form-Uebermacht (+29 G5, +16 G4). Closeout-Lesson 25.04. = nicht SAFE, aber VALUE.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 9
     },
     {
       "spiel_id": "2026-04-30-sixers-celtics-g6",
@@ -470,7 +488,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "markt": "Boston Celtics Sieg",
       "quote": 1.44,
       "kategorie": "value",
-      "begruendung_kurz": "Markt-Bilanz Goldgrube (2/2). Klassendifferenz vs 76ers ohne fitten Embiid."
+      "begruendung_kurz": "Markt-Bilanz Goldgrube (2/2). Klassendifferenz vs 76ers ohne fitten Embiid.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 10
     },
     {
       "spiel_id": "2026-04-30-wolves-nuggets-g6",
@@ -478,7 +498,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "markt": "Denver Nuggets Sieg",
       "quote": 1.46,
       "kategorie": "value",
-      "begruendung_kurz": "Wolves OHNE Edwards + DiVincenzo (beide Saison-OUT). Jokic-TripleDouble in G5 (125-113)."
+      "begruendung_kurz": "Wolves OHNE Edwards + DiVincenzo (beide Saison-OUT). Jokic-TripleDouble in G5 (125-113).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 11
     },
     {
       "spiel_id": "2026-04-30-nottingham-forest-aston-villa",
@@ -486,7 +508,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "markt": "Beide Teams treffen: JA (Forest-Villa)",
       "quote": 1.65,
       "kategorie": "value",
-      "begruendung_kurz": "5/5 letzte H2H BTTS — Muster sehr stabil. Beide Teams brauchen Tor fuer Rueckspiel-Aussicht."
+      "begruendung_kurz": "5/5 letzte H2H BTTS — Muster sehr stabil. Beide Teams brauchen Tor fuer Rueckspiel-Aussicht.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 12
     }
   ],
   "kombis": [
