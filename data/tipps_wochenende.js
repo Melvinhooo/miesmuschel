@@ -1,7 +1,7 @@
 // Auto-generiert
 window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
   "datum": "2026-05-02",
-  "erstellt_am": "2026-05-01T19:30:00+02:00",
+  "erstellt_am": "2026-05-01T19:48:34",
   "hinweis": "Wochenend-Vorschau Sa 2.5 + So 3.5 - Cloud-Routine 2x stumm gestorben, daher manuell. BL 32. Spieltag (6+3 Spiele), PL 36. SW (4+3), LaLiga 35. Spieltag (4+4), NBA Playoffs G7 Celtics-76ers Sa 2.5 (G6 von Pistons-Magic/Cavs-Raptors/Rockets-Lakers laeuft Fr Nacht - G7-Status haengt davon ab), 2.BL als Beobachtungs-Liga (KEINE Einzeltipps, nur Moonshot-Optionen), Serie A als Beobachtungs-Liga.",
   "spiele": [
     {
