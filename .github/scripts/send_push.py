@@ -1,10 +1,13 @@
 #!/usr/bin/env python3
-"""Sendet Web-Push wenn data/tipps/*.json oder data/ergebnisse/*.json aktualisiert wurde.
+"""Sendet Web-Push wenn data/tipps/*.json, data/ergebnisse/*.json,
+data/tipps_wochenende/*.json oder data/tipps_woche/*.json aktualisiert wurde.
 Wird via GitHub Actions getriggert (Bridge zwischen Cloud-Routine und Apple Push Service).
 
 Aufruf:
-  python send_push.py tipps        # Push fuer neue Tipps
+  python send_push.py tipps        # Push fuer neue Tages-Tipps
   python send_push.py auswertung   # Push fuer Tages-Auswertung
+  python send_push.py wochenende   # Push fuer Wochenend-Vorschau
+  python send_push.py woche        # Push fuer Wochen-Vorschau
 """
 import os, sys, json, glob
 from pywebpush import webpush, WebPushException
@@ -52,6 +55,67 @@ def build_tipps_payload():
         'body': body,
         'tag': 'miesmuschel-tipps',
     }
+
+
+def _build_dossier_payload(glob_pattern, title, label):
+    """Generischer Builder fuer Tipps-aehnliche Dossiers (Wochenende, Woche, Tag)."""
+    files = sorted(glob.glob(glob_pattern))
+    if not files:
+        return None
+    latest = files[-1]
+    print(f"Lese {label}: {latest}")
+    with open(latest, encoding='utf-8') as f:
+        data = json.load(f)
+
+    n_spiele = len(data.get('spiele', []))
+    n_einzel = len(data.get('einzeltipps', []))
+
+    risiko_quote = None
+    for k in data.get('kombis', []):
+        name_lower = (k.get('name', '') + k.get('id', '')).lower()
+        if 'risiko' in name_lower or 'risk' in name_lower:
+            risiko_quote = k.get('gesamtquote')
+            break
+
+    highlight = None
+    for e in data.get('einzeltipps', []):
+        if e.get('kategorie', '').lower() == 'safe':
+            highlight = f"{e.get('markt', '')} @{e.get('quote', '?')}"
+            break
+    if not highlight and data.get('einzeltipps'):
+        e = data['einzeltipps'][0]
+        highlight = f"{e.get('markt', '')} @{e.get('quote', '?')}"
+
+    parts = [f"{n_spiele} Spiele", f"{n_einzel} Tipps"]
+    if highlight:
+        parts.append(f"Top: {highlight}")
+    if risiko_quote:
+        parts.append(f"Risiko {risiko_quote}x")
+    body = " · ".join(parts)
+    if len(body) > 120:
+        body = body[:117] + "..."
+
+    return {
+        'title': title,
+        'body': body,
+        'tag': f"miesmuschel-{label}",
+    }
+
+
+def build_wochenende_payload():
+    return _build_dossier_payload(
+        'data/tipps_wochenende/*.json',
+        '🐚 Wochenend-Vorschau',
+        'wochenende',
+    )
+
+
+def build_woche_payload():
+    return _build_dossier_payload(
+        'data/tipps_woche/*.json',
+        '🐚 Wochen-Vorschau',
+        'woche',
+    )
 
 
 def build_auswertung_payload():
@@ -109,6 +173,10 @@ def main():
 
     if mode == 'auswertung':
         payload_dict = build_auswertung_payload()
+    elif mode == 'wochenende':
+        payload_dict = build_wochenende_payload()
+    elif mode == 'woche':
+        payload_dict = build_woche_payload()
     else:
         payload_dict = build_tipps_payload()
 

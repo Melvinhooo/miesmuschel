@@ -1,4 +1,4 @@
-name: Web Push on Tipps/Auswertung Update
+name: Web Push on Tipps/Auswertung/Wochenende/Woche Update
 
 on:
   push:
@@ -6,6 +6,8 @@ on:
     paths:
       - 'data/tipps/*.json'
       - 'data/ergebnisse/*.json'
+      - 'data/tipps_wochenende/*.json'
+      - 'data/tipps_woche/*.json'
   workflow_dispatch:
 
 permissions:
@@ -23,7 +25,7 @@ jobs:
           python-version: '3.x'
       - run: pip install --quiet pywebpush
 
-      - name: Mode erkennen (tipps vs auswertung)
+      - name: Mode erkennen
         id: mode
         run: |
           # Geaenderte Dateien im letzten Commit
@@ -32,6 +34,10 @@ jobs:
           echo "$changed"
           if echo "$changed" | grep -q "^data/ergebnisse/"; then
             mode="auswertung"
+          elif echo "$changed" | grep -q "^data/tipps_wochenende/"; then
+            mode="wochenende"
+          elif echo "$changed" | grep -q "^data/tipps_woche/"; then
+            mode="woche"
           elif echo "$changed" | grep -q "^data/tipps/"; then
             mode="tipps"
           else
@@ -40,11 +46,11 @@ jobs:
           echo "mode=$mode" >> $GITHUB_OUTPUT
           echo "Mode: $mode"
 
-      - name: Schema-Fix (nur bei Tipps-Updates)
-        if: steps.mode.outputs.mode == 'tipps'
+      - name: Schema-Fix (Tipps + Wochenende + Woche)
+        if: steps.mode.outputs.mode == 'tipps' || steps.mode.outputs.mode == 'wochenende' || steps.mode.outputs.mode == 'woche'
         run: python .github/scripts/fix_schema.py
 
-      - name: tipps.js regenerieren (nur bei Tipps-Updates)
+      - name: tipps.js regenerieren (Tag)
         if: steps.mode.outputs.mode == 'tipps'
         run: |
           python -c "
@@ -58,15 +64,43 @@ jobs:
               print(f'tipps.js aus {latest} regeneriert')
           "
 
+      - name: tipps_wochenende.js regenerieren
+        if: steps.mode.outputs.mode == 'wochenende'
+        run: |
+          python -c "
+          import json, glob
+          files = sorted(glob.glob('data/tipps_wochenende/*.json'))
+          if files:
+              latest = files[-1]
+              with open(latest, 'rb') as f: data = f.read().decode('utf-8')
+              with open('data/tipps_wochenende.js', 'wb') as f:
+                  f.write(('// Auto-generiert\n' + 'window.__MIESMUSCHEL_TIPPS_WOCHENENDE = ' + data + ';\n').encode('utf-8'))
+              print(f'tipps_wochenende.js aus {latest} regeneriert')
+          "
+
+      - name: tipps_woche.js regenerieren
+        if: steps.mode.outputs.mode == 'woche'
+        run: |
+          python -c "
+          import json, glob
+          files = sorted(glob.glob('data/tipps_woche/*.json'))
+          if files:
+              latest = files[-1]
+              with open(latest, 'rb') as f: data = f.read().decode('utf-8')
+              with open('data/tipps_woche.js', 'wb') as f:
+                  f.write(('// Auto-generiert\n' + 'window.__MIESMUSCHEL_TIPPS_WOCHE = ' + data + ';\n').encode('utf-8'))
+              print(f'tipps_woche.js aus {latest} regeneriert')
+          "
+
       - name: Commit + Push (wenn Schema-Fix Aenderungen brachte)
-        if: steps.mode.outputs.mode == 'tipps'
+        if: steps.mode.outputs.mode == 'tipps' || steps.mode.outputs.mode == 'wochenende' || steps.mode.outputs.mode == 'woche'
         continue-on-error: true
         run: |
           git config user.email "actions@github.com"
           git config user.name "GitHub Actions"
-          git add data/tipps/ data/tipps.js
+          git add data/tipps/ data/tipps.js data/tipps_wochenende/ data/tipps_wochenende.js data/tipps_woche/ data/tipps_woche.js 2>/dev/null || true
           if ! git diff --cached --quiet; then
-            git commit -m "Schema-Fix + tipps.js regen via Action"
+            git commit -m "Schema-Fix + .js regen via Action"
             git push origin main
           else
             echo "Nichts zu committen"

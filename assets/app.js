@@ -234,8 +234,8 @@ function fmtTime(iso) {
   catch (e) { return iso || ''; }
 }
 
-function renderSpieleTab(data) {
-  const sec = document.getElementById('spiele');
+function renderSpieleTab(data, targetId = 'spiele') {
+  const sec = document.getElementById(targetId);
   if (!sec) return;
   const tagDatum = new Date(data.datum + 'T00:00:00').toLocaleDateString('de-DE', { weekday: 'long', day: 'numeric', month: 'long' });
   let html = `<h2>📊 Spiele-Analyse — ${escapeHtml(tagDatum)}</h2>`;
@@ -285,8 +285,8 @@ function renderSpieleTab(data) {
   sec.innerHTML = html;
 }
 
-function renderEinzelTab(data) {
-  const sec = document.getElementById('einzel');
+function renderEinzelTab(data, targetId = 'einzel') {
+  const sec = document.getElementById(targetId);
   if (!sec) return;
   let html = `<h2>🎯 Einzeltipps</h2>
     <div class="box gold"><strong>Kassenregel:</strong> 1-2% der Kasse pro Einzeltipp. Reihenfolge: SAFE → VALUE → WACKEL.</div>`;
@@ -331,8 +331,8 @@ function renderEinzelTab(data) {
   sec.innerHTML = html;
 }
 
-function renderRisikoTab(data) {
-  const sec = document.getElementById('risiko');
+function renderRisikoTab(data, targetId = 'risiko') {
+  const sec = document.getElementById(targetId);
   if (!sec) return;
   const kombis = data.kombis || [];
   if (kombis.length === 0) {
@@ -341,14 +341,15 @@ function renderRisikoTab(data) {
   }
 
   const stufeEmoji = { safe: '🟢', value: '🟡', wackel: '🟠', risk: '🔴', moonshot: '🔥' };
+  const kombiContainerId = `${targetId}-kombi-wrap`;
 
-  let tabs = '<div class="risk-tabs">';
+  let tabs = `<div class="risk-tabs" data-scope="${targetId}">`;
   let contents = '';
   kombis.forEach((k, idx) => {
     const active = idx === 0 ? ' active' : '';
     const stufe = k.stufe || k.kategorie || 'value';
     const emoji = stufeEmoji[stufe] || '⚽';
-    tabs += `<div class="risk-tab${active}" onclick="showRiskKombi(${idx})">
+    tabs += `<div class="risk-tab${active}" onclick="showRiskKombi(${idx}, '${targetId}')">
       <h4>${emoji} ${fmtQuote(k.gesamtquote)}x</h4>
       <div class="target">${escapeHtml(k.name || '')}</div>
     </div>`;
@@ -386,7 +387,7 @@ function renderRisikoTab(data) {
     const legsHtml = legs || '<div class="combi-leg"><div class="combi-leg-info" style="color:#ffa94d;">Keine Beine in dieser Kombi (kombis[].beine fehlt in der JSON).</div></div>';
 
     contents += `
-      <div class="risk-content${active}" id="kombi-${idx}">
+      <div class="risk-content${active}" id="kombi-${targetId}-${idx}">
         <div class="tip-card ${escapeHtml(stufe)}">
           <h3>${escapeHtml(k.name || '')} — Gesamtquote ${fmtQuote(k.gesamtquote)}x</h3>
           <div class="combi-details">${legsHtml}</div>
@@ -406,9 +407,9 @@ function renderRisikoTab(data) {
   sec.innerHTML = `<h2>🚀 Risiko-Kombis</h2>${tabs}${contents}`;
 }
 
-function showRiskKombi(idx) {
-  document.querySelectorAll('#risiko .risk-tab').forEach((t, i) => t.classList.toggle('active', i === idx));
-  document.querySelectorAll('#risiko .risk-content').forEach((c, i) => c.classList.toggle('active', i === idx));
+function showRiskKombi(idx, scope = 'risiko') {
+  document.querySelectorAll(`#${scope} .risk-tab`).forEach((t, i) => t.classList.toggle('active', i === idx));
+  document.querySelectorAll(`#${scope} .risk-content`).forEach((c, i) => c.classList.toggle('active', i === idx));
 }
 
 function renderTagesdossier() {
@@ -428,8 +429,67 @@ function renderTagesdossier() {
   }
 }
 
+/* ==========================================================================
+   Wochenend-Dossier (Sa+So zusammen) und Wochen-Dossier (Mo-So zusammen)
+   Gleiches Schema wie Tagesdossier, drei Sub-Bloecke pro Section.
+   ========================================================================== */
+
+function _fmtDateShort(d) {
+  return d.toLocaleDateString('de-DE', { day: 'numeric', month: 'long' });
+}
+
+function renderWochenendDossier() {
+  const data = window.__MIESMUSCHEL_TIPPS_WOCHENENDE;
+  const sec = document.getElementById('wochenende');
+  if (!sec || !data || !Array.isArray(data.spiele) || data.spiele.length === 0) return;
+  try {
+    // Anker-Datum ist Samstag, +1 Tag = Sonntag
+    const samstag = new Date(data.datum + 'T00:00:00');
+    const sonntag = new Date(samstag.getTime() + 24 * 3600 * 1000);
+    const range = `${_fmtDateShort(samstag)} – ${_fmtDateShort(sonntag)}`;
+    sec.innerHTML = `
+      <h2 style="font-family:'Fraunces',serif;color:#e89dd6;">📅 Wochenend-Vorschau · ${escapeHtml(range)}</h2>
+      ${data.hinweis ? `<div class="box orange"><strong>⏰ ${data.spiele.length} Spiele Sa+So.</strong> ${escapeHtml(data.hinweis)}</div>` : ''}
+      <div id="wochenende-spiele"></div>
+      <div id="wochenende-einzel" style="margin-top:24px;"></div>
+      <div id="wochenende-risiko" style="margin-top:24px;"></div>
+    `;
+    renderSpieleTab(data, 'wochenende-spiele');
+    renderEinzelTab(data, 'wochenende-einzel');
+    renderRisikoTab(data, 'wochenende-risiko');
+  } catch (e) {
+    console.error('Wochenend-Render-Fehler:', e);
+  }
+}
+
+function renderWochenDossier() {
+  const data = window.__MIESMUSCHEL_TIPPS_WOCHE;
+  const sec = document.getElementById('woche');
+  if (!sec || !data || !Array.isArray(data.spiele) || data.spiele.length === 0) return;
+  try {
+    // Anker-Datum ist Montag, +6 Tage = Sonntag
+    const montag = new Date(data.datum + 'T00:00:00');
+    const sonntag = new Date(montag.getTime() + 6 * 24 * 3600 * 1000);
+    const range = `${_fmtDateShort(montag)} – ${_fmtDateShort(sonntag)}`;
+    sec.innerHTML = `
+      <h2 style="font-family:'Fraunces',serif;color:#e89dd6;">📆 Wochen-Vorschau · ${escapeHtml(range)}</h2>
+      ${data.hinweis ? `<div class="box orange"><strong>⏰ ${data.spiele.length} Spiele Mo-So.</strong> ${escapeHtml(data.hinweis)}</div>` : ''}
+      <div id="woche-spiele"></div>
+      <div id="woche-einzel" style="margin-top:24px;"></div>
+      <div id="woche-risiko" style="margin-top:24px;"></div>
+    `;
+    renderSpieleTab(data, 'woche-spiele');
+    renderEinzelTab(data, 'woche-einzel');
+    renderRisikoTab(data, 'woche-risiko');
+  } catch (e) {
+    console.error('Wochen-Render-Fehler:', e);
+  }
+}
+
 // Beim Laden automatisch rendern
 renderTagesdossier();
+renderWochenendDossier();
+renderWochenDossier();
 
 
 function renderHistorie() {

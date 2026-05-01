@@ -287,11 +287,20 @@ def fix(path):
     print(f"Schema-Fix OK: {path}")
 
 
+PFADE = [
+    'data/tipps/*.json',
+    'data/tipps_wochenende/*.json',
+    'data/tipps_woche/*.json',
+]
+
+
 def main():
     if len(sys.argv) > 1:
         files = sys.argv[1:]
     else:
-        files = sorted(glob.glob('data/tipps/*.json'))
+        files = []
+        for pattern in PFADE:
+            files.extend(sorted(glob.glob(pattern)))
     for f in files:
         fix(f)
 

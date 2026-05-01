@@ -144,13 +144,22 @@ Vor JEDEM Tipp **diese 4 Faktoren** für beide Mannschaften prüfen + in `begrue
 
 ## Datenstruktur
 
-Siehe Beispiel-JSONs in `/data/tipps/` und `/data/ergebnisse/`.
+Drei Dossier-Typen, **identisches Schema**, unterschiedliches Zeitfenster.
 
-- **Tipp-Tag:** `/data/tipps/YYYY-MM-DD.json`
+- **Tipp-Tag:** `/data/tipps/YYYY-MM-DD.json` — generiert Mo-Fr 16:00 + Sa-So 11:30
+- **Tipp-Wochenende:** `/data/tipps_wochenende/YYYY-MM-DD.json` — Anker = Samstag, generiert Donnerstag 18:00 als Vorschau auf Sa+So
+- **Tipp-Woche:** `/data/tipps_woche/YYYY-MM-DD.json` — Anker = Montag der Ziel-Woche, generiert Sonntag 18:00 als Vorschau für die kommende Mo-So-Woche
 - **Ergebnis-Tag:** `/data/ergebnisse/YYYY-MM-DD.json` (gleiche Struktur, Ergebnisse gefüllt)
 - **Lessons:** `/data/lessons.json`
 - **Statistik:** `/data/statistik.js` (Script-Datei, setzt `window.__MIESMUSCHEL_STAT`)
 - **API-Keys:** `/data/config.json` (NICHT committen, steht in `.gitignore`)
+
+Auto-generierte JS-Wrapper (vom GitHub-Action erzeugt nach jedem Push):
+- `data/tipps.js` → `window.__MIESMUSCHEL_TIPPS`
+- `data/tipps_wochenende.js` → `window.__MIESMUSCHEL_TIPPS_WOCHENENDE`
+- `data/tipps_woche.js` → `window.__MIESMUSCHEL_TIPPS_WOCHE`
+
+Alle drei Dossier-Typen verwenden identische Pflicht-Felder (datum, hinweis, spiele[], einzeltipps[], kombis[], lessons_angewandt[], footer) und identische Hartregeln (max 5 Tipps/Spiel, Layer-1 + Layer-2 Diversifikation, Reality-Check via statistik.json).
 
 ---
 
