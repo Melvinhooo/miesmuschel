@@ -525,6 +525,29 @@ function setMode(mode, btn) {
 // Beim Laden: standardmaessig Tagesmodus rendern
 setMode('taeglich');
 
+// Event-Delegation als robuste Fallback-Click-Logik (falls onclick-attribute auf
+// einigen iOS-Versionen zickt). Beide Wege fuehren zu setMode().
+document.addEventListener('DOMContentLoaded', () => {
+  const bar = document.querySelector('.mode-bar');
+  if (!bar) return;
+  bar.addEventListener('click', (e) => {
+    const btn = e.target.closest('.mode-btn');
+    if (!btn || !btn.dataset.mode) return;
+    setMode(btn.dataset.mode, btn);
+  });
+});
+// Falls DOMContentLoaded schon gefeuert hat (Script ist am Ende)
+(() => {
+  const bar = document.querySelector('.mode-bar');
+  if (!bar || bar.dataset.boundClick) return;
+  bar.dataset.boundClick = '1';
+  bar.addEventListener('click', (e) => {
+    const btn = e.target.closest('.mode-btn');
+    if (!btn || !btn.dataset.mode) return;
+    setMode(btn.dataset.mode, btn);
+  });
+})();
+
 
 function renderHistorie() {
   const root = document.getElementById('historie-content');

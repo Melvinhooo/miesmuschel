@@ -45,30 +45,40 @@ h1 {
 .subtitle { color: #ffd700; font-size: 1.1em; font-weight: 500; }
 .date-line { color: #8fb4d8; margin-top: 10px; font-size: 0.95em; }
 .mode-bar {
-  display: flex; gap: 8px; margin: 0 0 14px;
-  justify-content: center; flex-wrap: wrap;
-  padding: 6px;
-  background: rgba(0, 31, 63, 0.4);
-  border: 1px solid rgba(232, 157, 214, 0.25);
-  border-radius: 16px;
+  display: flex; gap: 6px; margin: 0 0 16px;
+  padding: 5px;
+  background: rgba(0, 31, 63, 0.55);
+  border: 1px solid rgba(232, 157, 214, 0.35);
+  border-radius: 14px;
+  position: relative; z-index: 2;
 }
 .mode-btn {
-  background: transparent;
-  border: 1px solid transparent; color: #8fb4d8;
-  padding: 8px 16px; border-radius: 10px; cursor: pointer;
-  font-family: 'Fraunces', serif; font-size: 0.95em; font-weight: 600;
+  flex: 1;
+  background: rgba(0, 116, 179, 0.15);
+  border: 1px solid rgba(143, 180, 216, 0.22);
+  color: #b8d4e8;
+  padding: 13px 14px; border-radius: 10px; cursor: pointer;
+  font-family: 'Fraunces', serif; font-size: 1em; font-weight: 600;
   letter-spacing: 0.3px;
-  transition: all 0.25s ease;
+  transition: all 0.22s ease;
+  text-align: center;
+  -webkit-tap-highlight-color: rgba(232, 157, 214, 0.25);
+  user-select: none;
+  white-space: nowrap;
 }
 .mode-btn:hover {
-  color: #e8f4ff;
-  background: rgba(156, 39, 176, 0.18);
-}
-.mode-btn.active {
-  background: linear-gradient(135deg, rgba(156, 39, 176, 0.85), rgba(232, 157, 214, 0.7));
   color: #fff;
-  border-color: rgba(255, 215, 0, 0.45);
-  box-shadow: 0 2px 12px rgba(232, 157, 214, 0.35);
+  background: rgba(156, 39, 176, 0.28);
+  border-color: rgba(232, 157, 214, 0.4);
+}
+.mode-btn:active { transform: scale(0.97); }
+.mode-btn.active {
+  background: linear-gradient(135deg, #9c27b0, #e89dd6);
+  color: #fff;
+  border-color: rgba(255, 215, 0, 0.6);
+  box-shadow: 0 4px 16px rgba(232, 157, 214, 0.5),
+              inset 0 0 0 1px rgba(255, 255, 255, 0.12);
+  font-weight: 700;
 }
 nav {
   display: flex; gap: 10px; margin-bottom: 25px;
@@ -411,14 +421,14 @@ strong { color: #e89dd6; }
   .subtitle { font-size: 0.85em; }
   .date-line { font-size: 0.78em; margin-top: 4px; }
 
-  /* Mode-Pill-Bar mobile: kompakter, voll-Breite */
+  /* Mode-Pill-Bar mobile: gleiche Breite, gut tappbar */
   .mode-bar {
-    margin: 0 0 10px; padding: 4px;
+    margin: 0 0 12px; padding: 4px;
     border-radius: 12px;
   }
   .mode-btn {
-    padding: 7px 12px; font-size: 0.85em;
-    flex: 1 1 30%;
+    padding: 12px 6px; font-size: 0.92em;
+    letter-spacing: 0.1px;
     border-radius: 9px;
   }
 
