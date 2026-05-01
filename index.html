@@ -25,12 +25,16 @@
   <div class="date-line" id="header-dateline">🗓️ Lade aktuelles Dossier ...</div>
 </header>
 
+<div class="mode-bar" role="tablist" aria-label="Zeitraum">
+  <button class="mode-btn active" data-mode="taeglich" onclick="setMode('taeglich', this)">📅 Täglich</button>
+  <button class="mode-btn" data-mode="wochenende" onclick="setMode('wochenende', this)">🌊 Wochenende</button>
+  <button class="mode-btn" data-mode="woche" onclick="setMode('woche', this)">📆 Woche</button>
+</div>
+
 <nav>
-  <button class="nav-btn active" onclick="showSection('spiele', this)">📊 Heute · Spiele</button>
-  <button class="nav-btn" onclick="showSection('einzel', this)">🎯 Heute · Einzel</button>
-  <button class="nav-btn" onclick="showSection('risiko', this)">🚀 Heute · Kombis</button>
-  <button class="nav-btn" onclick="showSection('wochenende', this)">📅 Wochenende</button>
-  <button class="nav-btn" onclick="showSection('woche', this)">📆 Woche</button>
+  <button class="nav-btn active" onclick="showSection('spiele', this)">📊 Spiele-Analyse</button>
+  <button class="nav-btn" onclick="showSection('einzel', this)">🎯 Einzeltipps</button>
+  <button class="nav-btn" onclick="showSection('risiko', this)">🚀 Risiko-Kombis</button>
   <button class="nav-btn" onclick="showSection('historie', this)">📈 Historie</button>
   <button class="nav-btn" onclick="showSection('info', this)">ℹ️ Regeln</button>
 </nav>
@@ -1225,24 +1229,6 @@ Das ist reine Lotterie. Alle 5 Beine müssen stimmen, wenn einer verletzt ausste
 <p style="margin-top:10px;"><em>Das sind KEINE Tipps — nur Erinnerung dass Verrücktes passiert. Realistisch sein + winzige Einsätze.</em></p>
 </div>
 
-</section>
-
-<!-- WOCHENEND-DOSSIER (wird von app.js dynamisch gefuellt) -->
-<section id="wochenende">
-  <div class="wochenende-empty" style="text-align:center;padding:40px 20px;color:#8fb4d8;">
-    <h2 style="font-family:'Fraunces',serif;color:#e89dd6;">📅 Wochenend-Vorschau</h2>
-    <p>Noch kein Wochenend-Dossier verfügbar.</p>
-    <p style="font-size:0.88em;margin-top:14px;">Wird automatisch jeden <strong>Donnerstag um 18:00</strong> generiert — Vorschau auf Sa+So mit allen Spielen, SAFE/VALUE/WACKEL-Tipps und 4 Kombi-Stufen, exakt im gleichen Schema wie das Tagesdossier.</p>
-  </div>
-</section>
-
-<!-- WOCHEN-DOSSIER (wird von app.js dynamisch gefuellt) -->
-<section id="woche">
-  <div class="woche-empty" style="text-align:center;padding:40px 20px;color:#8fb4d8;">
-    <h2 style="font-family:'Fraunces',serif;color:#e89dd6;">📆 Wochen-Vorschau</h2>
-    <p>Noch kein Wochen-Dossier verfügbar.</p>
-    <p style="font-size:0.88em;margin-top:14px;">Wird automatisch jeden <strong>Sonntag um 18:00</strong> für die kommende Mo-So-Woche generiert — gleiches Schema, längeres Zeitfenster.</p>
-  </div>
 </section>
 
 <!-- INFO SECTION -->

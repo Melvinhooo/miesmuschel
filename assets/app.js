@@ -412,84 +412,118 @@ function showRiskKombi(idx, scope = 'risiko') {
   document.querySelectorAll(`#${scope} .risk-content`).forEach((c, i) => c.classList.toggle('active', i === idx));
 }
 
-function renderTagesdossier() {
-  const data = window.__MIESMUSCHEL_TIPPS;
-  if (!data || !Array.isArray(data.spiele) || data.spiele.length === 0) return;
-  try {
-    renderSpieleTab(data);
-    renderEinzelTab(data);
-    renderRisikoTab(data);
-    // Header-Untertitel aktualisieren
-    const sub = document.querySelector('header .subtitle');
-    if (sub) sub.textContent = `Tipp-Dossier · ${data.spiele.length} Spiele · ${data.einzeltipps?.length||0} Einzeltipps · ${data.kombis?.length||0} Kombis`;
-    const dateLine = document.querySelector('header .date-line');
-    if (dateLine) dateLine.textContent = '🗓️ ' + new Date(data.datum+'T00:00:00').toLocaleDateString('de-DE',{weekday:'long',day:'numeric',month:'long',year:'numeric'});
-  } catch (e) {
-    console.error('Tipp-Render-Fehler:', e);
-  }
-}
-
 /* ==========================================================================
-   Wochenend-Dossier (Sa+So zusammen) und Wochen-Dossier (Mo-So zusammen)
-   Gleiches Schema wie Tagesdossier, drei Sub-Bloecke pro Section.
+   Mode-Switcher: Taeglich / Wochenende / Woche
+   Schaltet zwischen 3 Datensaetzen, rendert spiele/einzel/risiko jeweils neu.
+   Historie + Regeln sind modus-uebergreifend (gleicher Inhalt fuer alle).
    ========================================================================== */
 
 function _fmtDateShort(d) {
   return d.toLocaleDateString('de-DE', { day: 'numeric', month: 'long' });
 }
-
-function renderWochenendDossier() {
-  const data = window.__MIESMUSCHEL_TIPPS_WOCHENENDE;
-  const sec = document.getElementById('wochenende');
-  if (!sec || !data || !Array.isArray(data.spiele) || data.spiele.length === 0) return;
-  try {
-    // Anker-Datum ist Samstag, +1 Tag = Sonntag
-    const samstag = new Date(data.datum + 'T00:00:00');
-    const sonntag = new Date(samstag.getTime() + 24 * 3600 * 1000);
-    const range = `${_fmtDateShort(samstag)} – ${_fmtDateShort(sonntag)}`;
-    sec.innerHTML = `
-      <h2 style="font-family:'Fraunces',serif;color:#e89dd6;">📅 Wochenend-Vorschau · ${escapeHtml(range)}</h2>
-      ${data.hinweis ? `<div class="box orange"><strong>⏰ ${data.spiele.length} Spiele Sa+So.</strong> ${escapeHtml(data.hinweis)}</div>` : ''}
-      <div id="wochenende-spiele"></div>
-      <div id="wochenende-einzel" style="margin-top:24px;"></div>
-      <div id="wochenende-risiko" style="margin-top:24px;"></div>
-    `;
-    renderSpieleTab(data, 'wochenende-spiele');
-    renderEinzelTab(data, 'wochenende-einzel');
-    renderRisikoTab(data, 'wochenende-risiko');
-  } catch (e) {
-    console.error('Wochenend-Render-Fehler:', e);
-  }
+function _fmtDateLong(d) {
+  return d.toLocaleDateString('de-DE', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
 }
 
-function renderWochenDossier() {
-  const data = window.__MIESMUSCHEL_TIPPS_WOCHE;
-  const sec = document.getElementById('woche');
-  if (!sec || !data || !Array.isArray(data.spiele) || data.spiele.length === 0) return;
-  try {
-    // Anker-Datum ist Montag, +6 Tage = Sonntag
-    const montag = new Date(data.datum + 'T00:00:00');
-    const sonntag = new Date(montag.getTime() + 6 * 24 * 3600 * 1000);
-    const range = `${_fmtDateShort(montag)} – ${_fmtDateShort(sonntag)}`;
-    sec.innerHTML = `
-      <h2 style="font-family:'Fraunces',serif;color:#e89dd6;">📆 Wochen-Vorschau · ${escapeHtml(range)}</h2>
-      ${data.hinweis ? `<div class="box orange"><strong>⏰ ${data.spiele.length} Spiele Mo-So.</strong> ${escapeHtml(data.hinweis)}</div>` : ''}
-      <div id="woche-spiele"></div>
-      <div id="woche-einzel" style="margin-top:24px;"></div>
-      <div id="woche-risiko" style="margin-top:24px;"></div>
-    `;
-    renderSpieleTab(data, 'woche-spiele');
-    renderEinzelTab(data, 'woche-einzel');
-    renderRisikoTab(data, 'woche-risiko');
-  } catch (e) {
-    console.error('Wochen-Render-Fehler:', e);
+function _modeMeta(mode) {
+  if (mode === 'wochenende') {
+    const data = window.__MIESMUSCHEL_TIPPS_WOCHENENDE;
+    if (!data || !Array.isArray(data.spiele)) return null;
+    const sa = new Date(data.datum + 'T00:00:00');
+    const so = new Date(sa.getTime() + 24 * 3600 * 1000);
+    return {
+      data,
+      headerLabel: `Wochenend-Vorschau · ${_fmtDateShort(sa)} – ${_fmtDateShort(so)}`,
+      dateLineText: `📅 Wochenende ${_fmtDateShort(sa)} – ${_fmtDateShort(so)}`,
+      emptyMessage: 'Noch kein Wochenend-Dossier verfügbar — wird automatisch jeden <strong>Donnerstag um 18:00</strong> generiert (Vorschau auf Sa+So).',
+    };
   }
+  if (mode === 'woche') {
+    const data = window.__MIESMUSCHEL_TIPPS_WOCHE;
+    if (!data || !Array.isArray(data.spiele)) return null;
+    const mo = new Date(data.datum + 'T00:00:00');
+    const so = new Date(mo.getTime() + 6 * 24 * 3600 * 1000);
+    return {
+      data,
+      headerLabel: `Wochen-Vorschau · ${_fmtDateShort(mo)} – ${_fmtDateShort(so)}`,
+      dateLineText: `📆 Woche ${_fmtDateShort(mo)} – ${_fmtDateShort(so)}`,
+      emptyMessage: 'Noch kein Wochen-Dossier verfügbar — wird automatisch jeden <strong>Sonntag um 18:00</strong> für die kommende Mo–So-Woche generiert.',
+    };
+  }
+  // taeglich
+  const data = window.__MIESMUSCHEL_TIPPS;
+  if (!data || !Array.isArray(data.spiele)) return null;
+  const d = new Date(data.datum + 'T00:00:00');
+  return {
+    data,
+    headerLabel: `Tipp-Dossier ${data.datum}`,
+    dateLineText: '🗓️ ' + _fmtDateLong(d),
+    emptyMessage: 'Noch kein Tagesdossier verfügbar.',
+  };
 }
 
-// Beim Laden automatisch rendern
-renderTagesdossier();
-renderWochenendDossier();
-renderWochenDossier();
+let _currentMode = 'taeglich';
+
+function setMode(mode, btn) {
+  _currentMode = mode;
+
+  // Pill-Button-Status
+  document.querySelectorAll('.mode-btn').forEach(b => b.classList.remove('active'));
+  if (btn) btn.classList.add('active');
+  else {
+    const target = document.querySelector(`.mode-btn[data-mode="${mode}"]`);
+    if (target) target.classList.add('active');
+  }
+
+  const meta = _modeMeta(mode);
+  const dateLine = document.getElementById('header-dateline') || document.querySelector('header .date-line');
+  const subtitle = document.getElementById('header-subtitle') || document.querySelector('header .subtitle');
+
+  if (!meta || !meta.data || !meta.data.spiele || meta.data.spiele.length === 0) {
+    // Empty-State: alle 3 Tabs zeigen Hinweis
+    const emptyMsg = (meta && meta.emptyMessage) || 'Noch kein Dossier für diesen Zeitraum.';
+    const empty = `
+      <div style="text-align:center;padding:40px 20px;color:#8fb4d8;">
+        <h2 style="font-family:'Fraunces',serif;color:#e89dd6;">${mode === 'wochenende' ? '🌊 Wochenend-Vorschau' : mode === 'woche' ? '📆 Wochen-Vorschau' : '📊 Tagesdossier'}</h2>
+        <p style="margin-top:14px;font-size:0.95em;">${emptyMsg}</p>
+      </div>`;
+    ['spiele', 'einzel', 'risiko'].forEach(id => {
+      const el = document.getElementById(id);
+      if (el) el.innerHTML = empty;
+    });
+    if (dateLine) dateLine.textContent = '🗓️ —';
+    if (subtitle) subtitle.textContent = `${meta ? meta.headerLabel : 'Kein Dossier'}`;
+    return;
+  }
+
+  const data = meta.data;
+  try {
+    renderSpieleTab(data, 'spiele');
+    renderEinzelTab(data, 'einzel');
+    renderRisikoTab(data, 'risiko');
+  } catch (e) {
+    console.error('Render-Fehler bei Mode ' + mode + ':', e);
+  }
+
+  // Header aktualisieren
+  const n_spiele = (data.spiele || []).length;
+  const n_einzel = (data.einzeltipps || []).length;
+  const n_kombi = (data.kombis || []).length;
+  if (subtitle) {
+    subtitle.textContent = `${meta.headerLabel} · ${n_spiele} Spiele · ${n_einzel} Einzeltipps · ${n_kombi} Kombis`;
+  }
+  if (dateLine) {
+    let txt = meta.dateLineText;
+    if (data.hinweis) txt += ` · ${data.hinweis}`;
+    dateLine.textContent = txt;
+  }
+
+  // Ggf. zur Spiele-Section springen
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+// Beim Laden: standardmaessig Tagesmodus rendern
+setMode('taeglich');
 
 
 function renderHistorie() {
