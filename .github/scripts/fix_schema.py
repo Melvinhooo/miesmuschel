@@ -67,6 +67,11 @@ def fix(path):
         for tipp in spiel.get('tipps', []):
             remap(tipp, TIPP_RENAMES)
             normalize_kategorie(tipp)
+            # tipp_id -> id normalisieren (Routine schreibt mal so, mal so).
+            # Ohne diese Normalisierung droppt der Mapper spaeter alle einzeltipps/kombis,
+            # weil valid_refs mit `id` matched, aber Tipps nur `tipp_id` haben.
+            if 'id' not in tipp and 'tipp_id' in tipp:
+                tipp['id'] = tipp.pop('tipp_id')
             # markt+auswahl kombinieren (Routine schreibt oft markt=Typ, auswahl=Pick)
             if tipp.get('auswahl'):
                 # Wenn auswahl verständlicher als markt allein → ersetze
