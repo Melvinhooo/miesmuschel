@@ -22,33 +22,33 @@ window.__MIESMUSCHEL_TIPPS = {
       "tipps": [
         {
           "tipp_id": "2026-05-01-magic-pistons-t1",
-          "markt": "Doppelte Chance Magic oder Unentschieden (1X)",
-          "auswahl": "Magic Sieg",
+          "markt": "Magic Sieg",
           "kategorie": "wackel",
           "quote": 2.1,
           "edge_prozent": null,
           "empfohlener_einsatz_prozent": 0.5,
-          "begruendung": "Magic im Closeout-Versuch zuhause @ Kia Center mit Banchero (45 Pkt G5) und Wagner-Bruedern in Form. Heim-Closeout-Spiele sind statistisch +60% historisch in Round-1-Konstellationen. ABER Lesson 25.04. (G3/G6 mit Sweep-Druck NIE SAFE) und Lesson 28.04. (Closeout-These ohne Pflichtcheck riskant) - daher max wackel statt value. Quote via Sportsgambler verifiziert. Lt. Bilanz: Sieg-Outcomes von Heim-Closeout-Teams in NBA G6 ROI knapp positiv (~+8%) - Wackel-Niveau passt."
+          "begruendung": "Magic im Closeout-Versuch zuhause @ Kia Center mit Banchero (45 Pkt G5) und Wagner-Bruedern in Form. Heim-Closeout-Spiele sind statistisch +60% historisch in Round-1-Konstellationen. ABER Lesson 25.04. (G3/G6 mit Sweep-Druck NIE SAFE) und Lesson 28.04. (Closeout-These ohne Pflichtcheck riskant) - daher max wackel statt value. Quote via Sportsgambler verifiziert. Lt. Bilanz: Sieg-Outcomes von Heim-Closeout-Teams in NBA G6 ROI knapp positiv (~+8%) - Wackel-Niveau passt.",
+          "faire_quote": 2.1
         },
         {
           "tipp_id": "2026-05-01-magic-pistons-t2",
-          "markt": "Mehr als 211.5 Punkte (Total)",
-          "auswahl": "Ueber 211.5",
+          "markt": "Ueber 211.5",
           "kategorie": "value",
           "quote": 1.9,
           "edge_prozent": 8,
           "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "G5 endete 225 Pkt - Star-vs-Star-Eskalation Cunningham (45) + Banchero (45) hat Defense-Plan beider Seiten ausgehebelt. Lesson 30.04.: in Decidern/Druckspielen gehen Linien hoch, Ueber bevorzugen wenn Decider + 2 Volume-Stars beidseitig - genau die Konstellation. Beide Stars werden in G6 wieder 30+ Versuche bekommen. Magic-Heim-Tempo + Pistons-Sweep-Abwehr-Verzweiflung = beide Teams pushen Pace. Quote via Sportsgambler verifiziert. Lt. Bilanz: NBA-Ueber 4/6 = 66.7% (Goldgrube vor 29.04. nur durch Pistons-Magic-Decider gerissen, der 30.04.-Hinweis filtert genau diese Konstellation - heute Ueber wieder kaufbar)."
+          "begruendung": "G5 endete 225 Pkt - Star-vs-Star-Eskalation Cunningham (45) + Banchero (45) hat Defense-Plan beider Seiten ausgehebelt. Lesson 30.04.: in Decidern/Druckspielen gehen Linien hoch, Ueber bevorzugen wenn Decider + 2 Volume-Stars beidseitig - genau die Konstellation. Beide Stars werden in G6 wieder 30+ Versuche bekommen. Magic-Heim-Tempo + Pistons-Sweep-Abwehr-Verzweiflung = beide Teams pushen Pace. Quote via Sportsgambler verifiziert. Lt. Bilanz: NBA-Ueber 4/6 = 66.7% (Goldgrube vor 29.04. nur durch Pistons-Magic-Decider gerissen, der 30.04.-Hinweis filtert genau diese Konstellation - heute Ueber wieder kaufbar).",
+          "faire_quote": 1.76
         },
         {
           "tipp_id": "2026-05-01-magic-pistons-t3",
-          "markt": "Detroit Pistons -3.5 (Spread)",
-          "auswahl": "Pistons -3.5",
+          "markt": "Pistons -3.5",
           "kategorie": "wackel",
           "quote": 1.91,
           "edge_prozent": null,
           "empfohlener_einsatz_prozent": 0.5,
-          "begruendung": "Cunningham + Beasley-Trio in Form, Magic muss Banchero defensiv schonen. Pistons als Auswaerts-Favorit -3.5 ist offensive Wette auf Cunningham-Hot-Hand-Fortsetzung. Aber: Auswaerts-Sweep-Abwehr-Favoriten haben G6-Hitrate < 50% historisch (Spielergebnis-Druck schlaegt Form). Lesson 25.04. erlaubt nur Spread/Total fuer Sweep-Druck-Spiele - keine Sieg-Tipp-SAFE-Wahl. Quote via Sportsgambler. Lt. Bilanz: Spread-Wetten in Round-1 NBA aktuell 4/6 = 66.7% / +24% ROI - Markt-Goldgrube, deshalb wackel statt risiko."
+          "begruendung": "Cunningham + Beasley-Trio in Form, Magic muss Banchero defensiv schonen. Pistons als Auswaerts-Favorit -3.5 ist offensive Wette auf Cunningham-Hot-Hand-Fortsetzung. Aber: Auswaerts-Sweep-Abwehr-Favoriten haben G6-Hitrate < 50% historisch (Spielergebnis-Druck schlaegt Form). Lesson 25.04. erlaubt nur Spread/Total fuer Sweep-Druck-Spiele - keine Sieg-Tipp-SAFE-Wahl. Quote via Sportsgambler. Lt. Bilanz: Spread-Wetten in Round-1 NBA aktuell 4/6 = 66.7% / +24% ROI - Markt-Goldgrube, deshalb wackel statt risiko.",
+          "faire_quote": 1.91
         }
       ]
     },
@@ -71,33 +71,33 @@ window.__MIESMUSCHEL_TIPPS = {
       "tipps": [
         {
           "tipp_id": "2026-05-01-raptors-cavaliers-t1",
-          "markt": "Cleveland Cavaliers Sieg",
-          "auswahl": "Cavaliers Sieg (90 Min)",
+          "markt": "Cavaliers Sieg (90 Min)",
           "kategorie": "wackel",
           "quote": 1.55,
           "edge_prozent": null,
           "empfohlener_einsatz_prozent": 0.5,
-          "begruendung": "Mitchell + Mobley voll fit, Raptors-Stars (Ingram Ferse, Barnes Quadrizeps) angeschlagen - Klassen-Asymmetrie real. ABER: Auswaerts-Closeout-Favoriten in NBA-G6 ist die Embiid-Falle aus Lesson 28.04. - 76ers haben damals trotz '3-1-Lead' G5 verloren. Cavs sind ML @ 1.55 (Heim-Underdog Raptors @ +220-260) - Kein SAFE wegen Sweep-Abwehr-Druck der Raptors zuhause. Quote via Sportsgambler. Lt. Bilanz: Cavs-Sieg-Tipps aktuell 1/3 = 33% / -32% ROI - genau diese Schwaeche-Bilanz fuehrt zu wackel statt value, die niedrige Quote ist Marge-Killer."
+          "begruendung": "Mitchell + Mobley voll fit, Raptors-Stars (Ingram Ferse, Barnes Quadrizeps) angeschlagen - Klassen-Asymmetrie real. ABER: Auswaerts-Closeout-Favoriten in NBA-G6 ist die Embiid-Falle aus Lesson 28.04. - 76ers haben damals trotz '3-1-Lead' G5 verloren. Cavs sind ML @ 1.55 (Heim-Underdog Raptors @ +220-260) - Kein SAFE wegen Sweep-Abwehr-Druck der Raptors zuhause. Quote via Sportsgambler. Lt. Bilanz: Cavs-Sieg-Tipps aktuell 1/3 = 33% / -32% ROI - genau diese Schwaeche-Bilanz fuehrt zu wackel statt value, die niedrige Quote ist Marge-Killer.",
+          "faire_quote": 1.55
         },
         {
           "tipp_id": "2026-05-01-raptors-cavaliers-t2",
-          "markt": "Toronto Raptors +3.5 (Spread)",
-          "auswahl": "Raptors +3.5",
+          "markt": "Raptors +3.5",
           "kategorie": "value",
           "quote": 1.91,
           "edge_prozent": 12,
           "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "Heim-Sweep-Abwehr-Underdog ist statistisch +ROI im NBA-Spread-Markt. Lesson 24.04. (Cavs-Raptors selbst!): Raptors als +5.5-Heim-Dog gewannen damals 126:104 = +22 ggue Linie. Heute wieder +3.5 - selbe Basis-Konstellation, nur mit Sweep-Druck-Verzweiflung addiert. Wenn Raptors heute verlieren, dann meist knapp (Cavs gewinnen 105:101 oder so), nicht mit 5+ Vorsprung. Quote via Sportsgambler. Lt. Bilanz: NBA-Spread aktuell 5/7 = 71% / +29% ROI - Goldgrube fuer +Heim-Spread."
+          "begruendung": "Heim-Sweep-Abwehr-Underdog ist statistisch +ROI im NBA-Spread-Markt. Lesson 24.04. (Cavs-Raptors selbst!): Raptors als +5.5-Heim-Dog gewannen damals 126:104 = +22 ggue Linie. Heute wieder +3.5 - selbe Basis-Konstellation, nur mit Sweep-Druck-Verzweiflung addiert. Wenn Raptors heute verlieren, dann meist knapp (Cavs gewinnen 105:101 oder so), nicht mit 5+ Vorsprung. Quote via Sportsgambler. Lt. Bilanz: NBA-Spread aktuell 5/7 = 71% / +29% ROI - Goldgrube fuer +Heim-Spread.",
+          "faire_quote": 1.71
         },
         {
           "tipp_id": "2026-05-01-raptors-cavaliers-t3",
-          "markt": "Mehr als 219.5 Punkte (Total)",
-          "auswahl": "Ueber 219.5",
+          "markt": "Ueber 219.5",
           "kategorie": "value",
           "quote": 1.9,
           "edge_prozent": 9,
           "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "G5 hatte 245 Total - extremes Tempo. Heute Decider-aehnlicher Druck (Closeout fuer Cavs, Sweep-Abwehr fuer Raptors) treibt Pace beidseitig. Lesson 30.04.: in Decidern/Druckspielen gehen Linien hoch, Ueber bevorzugen wenn Decider + 2 Volume-Stars (Mitchell + Barrett bzw. Quickley) beidseitig. Raptors-Heim-Crowd erhoeht Tempo zusaetzlich. Quote via Sportsgambler. Lt. Bilanz: NBA-Ueber 4/6 = 66.7% (mit Cavs-Raptors selbst als Treffer 30.04.) - Goldgrube bestaetigt durch genau dieses Matchup."
+          "begruendung": "G5 hatte 245 Total - extremes Tempo. Heute Decider-aehnlicher Druck (Closeout fuer Cavs, Sweep-Abwehr fuer Raptors) treibt Pace beidseitig. Lesson 30.04.: in Decidern/Druckspielen gehen Linien hoch, Ueber bevorzugen wenn Decider + 2 Volume-Stars (Mitchell + Barrett bzw. Quickley) beidseitig. Raptors-Heim-Crowd erhoeht Tempo zusaetzlich. Quote via Sportsgambler. Lt. Bilanz: NBA-Ueber 4/6 = 66.7% (mit Cavs-Raptors selbst als Treffer 30.04.) - Goldgrube bestaetigt durch genau dieses Matchup.",
+          "faire_quote": 1.74
         }
       ]
     },
@@ -120,33 +120,33 @@ window.__MIESMUSCHEL_TIPPS = {
       "tipps": [
         {
           "tipp_id": "2026-05-01-rockets-lakers-t1",
-          "markt": "Houston Rockets Sieg",
-          "auswahl": "Rockets Sieg (Moneyline)",
+          "markt": "Rockets Sieg (Moneyline)",
           "kategorie": "value",
           "quote": 1.59,
           "edge_prozent": 6,
           "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "Lakers ohne Doncic = grosse Star-Luecke (LeBron 29 + Reaves + Hachimura reichten G5 nicht). Houston-Trio Smith/Sengun/Eason hat in G5 ohne Durant funktioniert - Heim-Sweep-Abwehr-Druck verstaerkt Motivation. ABER Lesson 30.04. (Lakers-Rockets G5 selbst!): NICHT als SAFE upgraden auch wenn Underdog Star fehlt - die Rockets haben Triple-Threat-Core, NICHT '1-Star + Backup-Rolle'. Hier inverse Konstellation: Lakers ohne Doncic, Houston Heim - aber Lakers haben Multi-18+-Spieler (LeBron, Reaves, Hachimura, Smart) - Lesson-Bedingung (b) nicht erfuellt -> max value. Quote via Sportsgambler. Lt. Bilanz: NBA Heim-Sieg in G6 aktuell ~62% Hitrate /+12% ROI."
+          "begruendung": "Lakers ohne Doncic = grosse Star-Luecke (LeBron 29 + Reaves + Hachimura reichten G5 nicht). Houston-Trio Smith/Sengun/Eason hat in G5 ohne Durant funktioniert - Heim-Sweep-Abwehr-Druck verstaerkt Motivation. ABER Lesson 30.04. (Lakers-Rockets G5 selbst!): NICHT als SAFE upgraden auch wenn Underdog Star fehlt - die Rockets haben Triple-Threat-Core, NICHT '1-Star + Backup-Rolle'. Hier inverse Konstellation: Lakers ohne Doncic, Houston Heim - aber Lakers haben Multi-18+-Spieler (LeBron, Reaves, Hachimura, Smart) - Lesson-Bedingung (b) nicht erfuellt -> max value. Quote via Sportsgambler. Lt. Bilanz: NBA Heim-Sieg in G6 aktuell ~62% Hitrate /+12% ROI.",
+          "faire_quote": 1.5
         },
         {
           "tipp_id": "2026-05-01-rockets-lakers-t2",
-          "markt": "Mehr als 206.5 Punkte (Total)",
-          "auswahl": "Ueber 206.5",
+          "markt": "Ueber 206.5",
           "kategorie": "value",
           "quote": 1.9,
           "edge_prozent": 8,
           "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "Decider-Druck + Lakers-Verzweiflung-Pace nach Doncic-Aus + Rockets-Heim-Crowd. Lesson 30.04.: in Decidern bevorzugen wir Ueber - Linien werden vom Markt eher zu konservativ angesetzt. 206.5 ist niedriger Total-Wert (G5 hatte 192, aber das war ohne Durant + ohne Doncic-Geschwindigkeit), G6 mit Reaves zurueck und Lakers-Closing-Versuch sollte Pace bringen. LeBron alleine wird 25+ Versuche bekommen. Quote via Sportsgambler. Lt. Bilanz: NBA-Ueber Goldgrube 4/6 = 66.7%, bei niedrigen Linien (<210) historisch noch staerker."
+          "begruendung": "Decider-Druck + Lakers-Verzweiflung-Pace nach Doncic-Aus + Rockets-Heim-Crowd. Lesson 30.04.: in Decidern bevorzugen wir Ueber - Linien werden vom Markt eher zu konservativ angesetzt. 206.5 ist niedriger Total-Wert (G5 hatte 192, aber das war ohne Durant + ohne Doncic-Geschwindigkeit), G6 mit Reaves zurueck und Lakers-Closing-Versuch sollte Pace bringen. LeBron alleine wird 25+ Versuche bekommen. Quote via Sportsgambler. Lt. Bilanz: NBA-Ueber Goldgrube 4/6 = 66.7%, bei niedrigen Linien (<210) historisch noch staerker.",
+          "faire_quote": 1.76
         },
         {
           "tipp_id": "2026-05-01-rockets-lakers-t3",
-          "markt": "Houston Rockets -3.5 (Spread)",
-          "auswahl": "Rockets -3.5",
+          "markt": "Rockets -3.5",
           "kategorie": "wackel",
           "quote": 1.91,
           "edge_prozent": null,
           "empfohlener_einsatz_prozent": 0.5,
-          "begruendung": "Heim-Sweep-Abwehr-Favorit-Spread - Rockets brauchen klares Statement um Lakers zu G7 zu zwingen. Smith/Sengun/Eason-Trio hat G5 in LA dominiert (Auswaerts!), zuhause nochmal verstaerkt. Aber Lesson 25.04.: G6 mit Sweep-Druck KEIN SAFE-Tipp egal welche Seite - max wackel. Lakers werden Closing-Versuch mit allem was sie haben (LeBron-Marathon-Minutes) - knappe Spiele wahrscheinlich. Quote via Sportsgambler. Spread-Tipps in NBA aktuell 5/7 / +29% ROI Goldgrube, aber Sweep-Druck-Konstellation rechtfertigt vorsichtige wackel-Einstufung."
+          "begruendung": "Heim-Sweep-Abwehr-Favorit-Spread - Rockets brauchen klares Statement um Lakers zu G7 zu zwingen. Smith/Sengun/Eason-Trio hat G5 in LA dominiert (Auswaerts!), zuhause nochmal verstaerkt. Aber Lesson 25.04.: G6 mit Sweep-Druck KEIN SAFE-Tipp egal welche Seite - max wackel. Lakers werden Closing-Versuch mit allem was sie haben (LeBron-Marathon-Minutes) - knappe Spiele wahrscheinlich. Quote via Sportsgambler. Spread-Tipps in NBA aktuell 5/7 / +29% ROI Goldgrube, aber Sweep-Druck-Konstellation rechtfertigt vorsichtige wackel-Einstufung.",
+          "faire_quote": 1.91
         }
       ]
     },
@@ -168,43 +168,43 @@ window.__MIESMUSCHEL_TIPPS = {
       "tipps": [
         {
           "tipp_id": "2026-05-01-leeds-burnley-t1",
-          "markt": "Leeds United Sieg",
-          "auswahl": "Leeds Sieg (90 Min)",
+          "markt": "Leeds Sieg (90 Min)",
           "kategorie": "safe",
           "quote": 1.36,
           "edge_prozent": 5,
           "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "Klassendifferenz-SAFE-Konstellation lt. Lesson 25.04.: 1X2 mit klarer Klassendifferenz + Topscorer fit + KEIN Sweep-/Abstiegskampf-Underdog mit Backs-against-the-wall-Motivation. Burnley ist abgestiegen = KEIN Backs-against-the-wall mehr, eher Saison-Auslaufmodus. Leeds dagegen Klassenerhalt-Druck. Asymmetrie eindeutig. Lesson 01.05. (Conference League Goldgrube) bestaetigt: Klassendifferenz-Edge funktioniert in Heim-Konstellation mit motivations-asymmetrischen Teams. Quote via Sportsgambler verifiziert (Leeds 4/11 = 1.36 bei bet365). Lt. Bilanz: Premier-League-Tipps aktuell 3/4 = 75% / +10% ROI - solider Markt + Heim-Klassendifferenz-Goldgrube."
+          "begruendung": "Klassendifferenz-SAFE-Konstellation lt. Lesson 25.04.: 1X2 mit klarer Klassendifferenz + Topscorer fit + KEIN Sweep-/Abstiegskampf-Underdog mit Backs-against-the-wall-Motivation. Burnley ist abgestiegen = KEIN Backs-against-the-wall mehr, eher Saison-Auslaufmodus. Leeds dagegen Klassenerhalt-Druck. Asymmetrie eindeutig. Lesson 01.05. (Conference League Goldgrube) bestaetigt: Klassendifferenz-Edge funktioniert in Heim-Konstellation mit motivations-asymmetrischen Teams. Quote via Sportsgambler verifiziert (Leeds 4/11 = 1.36 bei bet365). Lt. Bilanz: Premier-League-Tipps aktuell 3/4 = 75% / +10% ROI - solider Markt + Heim-Klassendifferenz-Goldgrube.",
+          "faire_quote": 1.3
         },
         {
           "tipp_id": "2026-05-01-leeds-burnley-t2",
-          "markt": "Doppelte Chance Leeds oder Unentschieden (1X)",
-          "auswahl": "Leeds DC 1X",
+          "markt": "Leeds DC 1X",
           "kategorie": "safe",
           "quote": 1.1,
           "edge_prozent": null,
           "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "Defensive Backup-Variante zum direkten Sieg-Tipp - Burnley auswaerts-Sieg in Saison nur 1x gegen ein Top-half-Team gelungen, Leeds zuhause gegen Abstiegs-Teams nahezu 100%. Quote 1.10 ist mathematisch knapp aber DC-Markt ist lt. Statistik 6/6 = 100% Goldgrube ueber alle Auswertungen - solide Erweiterung der Sieg-These ohne Korrelations-Problem. Quote via Sportsgambler verifiziert. Lt. Bilanz: Doppelte-Chance-Markt aktuell 6/6 = 100% / +24% ROI - klare Goldgrube-Markierung."
+          "begruendung": "Defensive Backup-Variante zum direkten Sieg-Tipp - Burnley auswaerts-Sieg in Saison nur 1x gegen ein Top-half-Team gelungen, Leeds zuhause gegen Abstiegs-Teams nahezu 100%. Quote 1.10 ist mathematisch knapp aber DC-Markt ist lt. Statistik 6/6 = 100% Goldgrube ueber alle Auswertungen - solide Erweiterung der Sieg-These ohne Korrelations-Problem. Quote via Sportsgambler verifiziert. Lt. Bilanz: Doppelte-Chance-Markt aktuell 6/6 = 100% / +24% ROI - klare Goldgrube-Markierung.",
+          "faire_quote": 1.1
         },
         {
           "tipp_id": "2026-05-01-leeds-burnley-t3",
-          "markt": "Mehr als 1.5 Tore",
-          "auswahl": "Ueber 1.5 Tore",
+          "markt": "Ueber 1.5 Tore",
           "kategorie": "value",
           "quote": 1.45,
           "edge_prozent": 7,
           "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "Leeds Heim gegen abgestiegenes Team - durchschnittlich 2.4 Tore/Spiel in solchen Konstellationen lt. Saisonschnitt. Burnley-Defense ist statistisch eine der schwaechsten der PL (1.7 Gegentore/Spiel Saison), Leeds wird 2+ schiessen. Selbst ein 2:0 reicht. Quote via Sportsgambler. Lesson-Filter: 'Mehr als 2.5 Tore' ist Markt-Bluter (50% / -15% ROI), aber 'Ueber 1.5' ist niedrigere Linie + sicherer + nicht in Bluter-Liste. Lt. Bilanz: Ueber-1.5-Maerkte Saison 25-26 nicht direkt erfasst, aber Tor-Wetten generell positive Tendenz bei Heim-Klassendifferenz. Edge ueber Burnley-Defense-Schwaeche."
+          "begruendung": "Leeds Heim gegen abgestiegenes Team - durchschnittlich 2.4 Tore/Spiel in solchen Konstellationen lt. Saisonschnitt. Burnley-Defense ist statistisch eine der schwaechsten der PL (1.7 Gegentore/Spiel Saison), Leeds wird 2+ schiessen. Selbst ein 2:0 reicht. Quote via Sportsgambler. Lesson-Filter: 'Mehr als 2.5 Tore' ist Markt-Bluter (50% / -15% ROI), aber 'Ueber 1.5' ist niedrigere Linie + sicherer + nicht in Bluter-Liste. Lt. Bilanz: Ueber-1.5-Maerkte Saison 25-26 nicht direkt erfasst, aber Tor-Wetten generell positive Tendenz bei Heim-Klassendifferenz. Edge ueber Burnley-Defense-Schwaeche.",
+          "faire_quote": 1.36
         },
         {
           "tipp_id": "2026-05-01-leeds-burnley-t4",
-          "markt": "Mehr als 2.5 Tore",
-          "auswahl": "Ueber 2.5 Tore",
+          "markt": "Ueber 2.5 Tore",
           "kategorie": "wackel",
           "quote": 1.85,
           "edge_prozent": null,
           "empfohlener_einsatz_prozent": 0.5,
-          "begruendung": "Markt-Bluter lt. Statistik (50% / -15% ROI bei 2 Tipps) - daher max wackel statt value, auch wenn Konstellation prinzipiell Tore verspricht. Burnley schon gerettet von Druck, koennte abschalten = Leeds 3:0 oder 4:1 moeglich. Aber kleine Datenbasis im Markt - Lesson sagt vorsichtig. Quote via Sportsgambler. Lt. Bilanz: 'Mehr als 2.5 Tore' ist Markt-Bluter, daher konservativ als wackel statt value, auch wenn Edge prinzipiell waere."
+          "begruendung": "Markt-Bluter lt. Statistik (50% / -15% ROI bei 2 Tipps) - daher max wackel statt value, auch wenn Konstellation prinzipiell Tore verspricht. Burnley schon gerettet von Druck, koennte abschalten = Leeds 3:0 oder 4:1 moeglich. Aber kleine Datenbasis im Markt - Lesson sagt vorsichtig. Quote via Sportsgambler. Lt. Bilanz: 'Mehr als 2.5 Tore' ist Markt-Bluter, daher konservativ als wackel statt value, auch wenn Edge prinzipiell waere.",
+          "faire_quote": 1.85
         }
       ]
     },
@@ -227,33 +227,33 @@ window.__MIESMUSCHEL_TIPPS = {
       "tipps": [
         {
           "tipp_id": "2026-05-01-girona-mallorca-t1",
-          "markt": "Doppelte Chance Girona oder Unentschieden (1X)",
-          "auswahl": "Girona DC 1X",
+          "markt": "Girona DC 1X",
           "kategorie": "value",
           "quote": 1.45,
           "edge_prozent": 8,
           "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "Heim-DC in LaLiga ist die statistisch sicherste Wett-Form gegen schwaechere Auswaerts-Teams - Mallorca hat diese Saison nur 2 Auswaerts-Siege geholt. Markt-Bilanz Doppelte-Chance aktuell 6/6 = 100% Goldgrube. Sportytrader gibt Girona 52% Sieg-Wahrscheinlichkeit + 25% Unentschieden = 77% kombiniert vs. 1.45-implizierte 69%. Quote via Sportsgambler verifiziert. Lt. Bilanz: LaLiga-Tipps aktuell 8/12 = 67% / -4.6% ROI (knapp negativ wegen einzelner Treffer-Mismatches), DC-Markt aber Goldgrube ueber alle Ligen, beide Faktoren zusammen rechtfertigen value-Label."
+          "begruendung": "Heim-DC in LaLiga ist die statistisch sicherste Wett-Form gegen schwaechere Auswaerts-Teams - Mallorca hat diese Saison nur 2 Auswaerts-Siege geholt. Markt-Bilanz Doppelte-Chance aktuell 6/6 = 100% Goldgrube. Sportytrader gibt Girona 52% Sieg-Wahrscheinlichkeit + 25% Unentschieden = 77% kombiniert vs. 1.45-implizierte 69%. Quote via Sportsgambler verifiziert. Lt. Bilanz: LaLiga-Tipps aktuell 8/12 = 67% / -4.6% ROI (knapp negativ wegen einzelner Treffer-Mismatches), DC-Markt aber Goldgrube ueber alle Ligen, beide Faktoren zusammen rechtfertigen value-Label.",
+          "faire_quote": 1.34
         },
         {
           "tipp_id": "2026-05-01-girona-mallorca-t2",
-          "markt": "Weniger als 2.5 Tore",
-          "auswahl": "Unter 2.5 Tore",
+          "markt": "Unter 2.5 Tore",
           "kategorie": "value",
           "quote": 1.85,
           "edge_prozent": 7,
           "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "Zwei Mittelfeld-LaLiga-Teams ohne Liga-Druck (beide gerettet, beide nicht in CL-Race) = oft taktisch enges Saison-End-Spiel. Girona-Saisonschnitt 2.3 Tore/Spiel zuhause, Mallorca 2.0 auswaerts - Mittelwert 2.15 < 2.5. Lesson-Filter: Markt 'Weniger als 2.5 Tore' lt. Statistik 4 Tipps / 50% / -3.7% ROI (knapp negativ aber kein Bluter), bei Mittelfeld-vs-Mittelfeld-Konstellation deutlich besser. Quote via Sportsgambler. Lt. Bilanz: Unter-Markt knapp negativ - aber Konstellation passt: zwei taktische Teams ohne Tor-Druck, daher value-Label gerechtfertigt."
+          "begruendung": "Zwei Mittelfeld-LaLiga-Teams ohne Liga-Druck (beide gerettet, beide nicht in CL-Race) = oft taktisch enges Saison-End-Spiel. Girona-Saisonschnitt 2.3 Tore/Spiel zuhause, Mallorca 2.0 auswaerts - Mittelwert 2.15 < 2.5. Lesson-Filter: Markt 'Weniger als 2.5 Tore' lt. Statistik 4 Tipps / 50% / -3.7% ROI (knapp negativ aber kein Bluter), bei Mittelfeld-vs-Mittelfeld-Konstellation deutlich besser. Quote via Sportsgambler. Lt. Bilanz: Unter-Markt knapp negativ - aber Konstellation passt: zwei taktische Teams ohne Tor-Druck, daher value-Label gerechtfertigt.",
+          "faire_quote": 1.73
         },
         {
           "tipp_id": "2026-05-01-girona-mallorca-t3",
-          "markt": "Beide Teams treffen: NEIN",
-          "auswahl": "BTTS NEIN",
+          "markt": "BTTS NEIN",
           "kategorie": "wackel",
           "quote": 1.95,
           "edge_prozent": null,
           "empfohlener_einsatz_prozent": 0.5,
-          "begruendung": "Mallorca ist auswaerts oft sieglos (37% Auswaerts-Spiele ohne Treffer Saison 25-26), Girona-Heim-Defense im Mittelfeld solide. 'Beide Teams treffen JA' ist Markt-Bluter (-43% ROI bei 3 Tipps, lt. Lesson 01.05.) - das spricht dafuer dass die Wahrscheinlichkeit fuer Tor von beiden ueberschaetzt wird. NEIN-Variante ist die Spiegelseite + nicht selbst in Bluter-Liste. Quote via Sportsgambler. Lt. Bilanz: BTTS-NEIN nicht direkt erfasst, aber NEIN-Spiegel-Edge plausibel. Bei Mallorca-Saison-Auswaerts-Schwaeche realistisch."
+          "begruendung": "Mallorca ist auswaerts oft sieglos (37% Auswaerts-Spiele ohne Treffer Saison 25-26), Girona-Heim-Defense im Mittelfeld solide. 'Beide Teams treffen JA' ist Markt-Bluter (-43% ROI bei 3 Tipps, lt. Lesson 01.05.) - das spricht dafuer dass die Wahrscheinlichkeit fuer Tor von beiden ueberschaetzt wird. NEIN-Variante ist die Spiegelseite + nicht selbst in Bluter-Liste. Quote via Sportsgambler. Lt. Bilanz: BTTS-NEIN nicht direkt erfasst, aber NEIN-Spiegel-Edge plausibel. Bei Mallorca-Saison-Auswaerts-Schwaeche realistisch.",
+          "faire_quote": 1.95
         }
       ]
     },
@@ -276,223 +276,29 @@ window.__MIESMUSCHEL_TIPPS = {
       "tipps": [
         {
           "tipp_id": "2026-05-01-pisa-lecce-t1",
-          "markt": "🔍 Beobachtung - Doppelte Chance Lecce oder Unentschieden (X2)",
-          "auswahl": "Lecce DC X2",
+          "markt": "Lecce DC X2",
           "kategorie": "wackel",
           "quote": 1.55,
           "edge_prozent": null,
           "empfohlener_einsatz_prozent": 0.0,
-          "begruendung": "🔍 Beobachtung - Liga-Form noch nicht kalibriert (Serie A ROI -32.5% letzte 30 Tage). Lecce ist Auswaerts-Favorit weil Pisa quasi abgestiegen + Lecce 1-Pkt-Klassenerhalt-Druck. Pisa hat in Saison nur 2 Liga-Siege geholt. Aber: Beobachtungs-Liga-Modus heisst NICHT in einzeltipps/Safe-Balance-Risiko - reine Analyse-Anzeige. Lt. Bilanz: Serie A Bluter-Liga, daher kein Einsatz."
+          "begruendung": "🔍 Beobachtung - Liga-Form noch nicht kalibriert (Serie A ROI -32.5% letzte 30 Tage). Lecce ist Auswaerts-Favorit weil Pisa quasi abgestiegen + Lecce 1-Pkt-Klassenerhalt-Druck. Pisa hat in Saison nur 2 Liga-Siege geholt. Aber: Beobachtungs-Liga-Modus heisst NICHT in einzeltipps/Safe-Balance-Risiko - reine Analyse-Anzeige. Lt. Bilanz: Serie A Bluter-Liga, daher kein Einsatz.",
+          "faire_quote": 1.55
         },
         {
           "tipp_id": "2026-05-01-pisa-lecce-t2",
-          "markt": "🔍 Beobachtung - Weniger als 2.5 Tore",
-          "auswahl": "Unter 2.5 Tore",
+          "markt": "Unter 2.5 Tore",
           "kategorie": "wackel",
           "quote": 1.65,
           "edge_prozent": null,
           "empfohlener_einsatz_prozent": 0.0,
-          "begruendung": "🔍 Beobachtung - Liga-Form noch nicht kalibriert. Beide Teams in Abstiegs-Modus, Pisa schwach offensiv (1.0 Tore/Spiel Saison), Lecce nicht viel besser. Sportsgambler tippt 'Unter 2.5' als Konsens. Aber Beobachtungs-Liga - kein Einsatz. Lt. Bilanz: Serie A Bluter, Markt 'Weniger 2.5' fuer Liga zwar plausibel aber kein Geld setzen."
+          "begruendung": "🔍 Beobachtung - Liga-Form noch nicht kalibriert. Beide Teams in Abstiegs-Modus, Pisa schwach offensiv (1.0 Tore/Spiel Saison), Lecce nicht viel besser. Sportsgambler tippt 'Unter 2.5' als Konsens. Aber Beobachtungs-Liga - kein Einsatz. Lt. Bilanz: Serie A Bluter, Markt 'Weniger 2.5' fuer Liga zwar plausibel aber kein Geld setzen.",
+          "faire_quote": 1.65
         }
       ]
     }
   ],
-  "einzeltipps": [
-    {
-      "tipp_id": "2026-05-01-leeds-burnley-t1",
-      "kategorie": "safe",
-      "kommentar": "Klassendifferenz-Goldgrube: Leeds Klassenerhalt-Druck vs Burnley schon abgestiegen + Heim. Quote 1.36 verifiziert. Lesson 25.04. SAFE-Kriterien voll erfuellt."
-    },
-    {
-      "tipp_id": "2026-05-01-leeds-burnley-t2",
-      "kategorie": "safe",
-      "kommentar": "Doppelte-Chance-Goldgrube (DC-Markt 6/6 = 100% Hitrate Saison) als Backup zum direkten Leeds-Sieg. Quote 1.10 mathematisch knapp aber Markt-Bilanz extrem positiv."
-    },
-    {
-      "tipp_id": "2026-05-01-raptors-cavaliers-t2",
-      "kategorie": "value",
-      "kommentar": "Heim-Sweep-Abwehr-Spread @ 1.91 - hoechster Edge (12%) in den Tipps. Lesson 24.04. (genau dieses Matchup!) bestaetigt: Raptors als Heim-Dog explodieren in Sweep-Druck. NBA-Spread aktuell 5/7 Goldgrube."
-    },
-    {
-      "tipp_id": "2026-05-01-raptors-cavaliers-t3",
-      "kategorie": "value",
-      "kommentar": "NBA-Ueber-Goldgrube (4/6 Hitrate) + Decider-Lesson 30.04. (in Druckspielen Linien tendieren konservativ). G5 hatte 245 Total - momentum bleibt."
-    },
-    {
-      "tipp_id": "2026-05-01-magic-pistons-t2",
-      "kategorie": "value",
-      "kommentar": "Star-Eskalation-Edge: Cunningham (45 G5) + Banchero (45 G5) beide hot. Lesson 30.04. genau diese Konstellation = Ueber bevorzugen, nicht Unter."
-    },
-    {
-      "tipp_id": "2026-05-01-rockets-lakers-t2",
-      "kategorie": "value",
-      "kommentar": "Niedrige Total-Linie 206.5 + Decider-Druck + Lakers-Verzweiflungs-Pace ohne Doncic. NBA-Ueber-Markt aktuell Goldgrube."
-    },
-    {
-      "tipp_id": "2026-05-01-girona-mallorca-t1",
-      "kategorie": "value",
-      "kommentar": "Heim-DC LaLiga gegen schwaches Auswaerts-Team - DC-Markt-Goldgrube (6/6 = 100%) trotz LaLiga-Liga-Bilanz knapp negativ."
-    },
-    {
-      "tipp_id": "2026-05-01-leeds-burnley-t3",
-      "kategorie": "value",
-      "kommentar": "Burnley-Defense-Schwaeche (1.7 Gegentore/Spiel) + Leeds-Heim-Tor-Hunger ggue abgestiegenem Team. Niedrige Linie 1.5 stark."
-    },
-    {
-      "tipp_id": "2026-05-01-girona-mallorca-t2",
-      "kategorie": "value",
-      "kommentar": "Mittelfeld-vs-Mittelfeld in LaLiga-Saison-Endspurt = oft taktisch enges Spiel. Mallorca-Auswaerts schwach offensiv."
-    },
-    {
-      "tipp_id": "2026-05-01-rockets-lakers-t1",
-      "kategorie": "value",
-      "kommentar": "Heim-Sweep-Abwehr + Lakers ohne Doncic. Lesson 30.04. erlaubt KEIN SAFE-Upgrade trotz Star-Asymmetrie - daher value statt safe."
-    },
-    {
-      "tipp_id": "2026-05-01-magic-pistons-t1",
-      "kategorie": "wackel",
-      "kommentar": "Heim-Closeout-Versuch mit Banchero-Hot-Hand. Lesson 25.04. + Lesson 28.04. drueckt Label auf wackel - Closeout-These ohne Pflichtcheck nicht ueberbewerten."
-    },
-    {
-      "tipp_id": "2026-05-01-raptors-cavaliers-t1",
-      "kategorie": "wackel",
-      "kommentar": "Auswaerts-Closeout-Favorit Cavs - Embiid-Falle-Risiko (Lesson 28.04.). Mitchell + Mobley aber fit, Raptors-Stars verletzt - nur knapper Edge."
-    }
-  ],
-  "kombis": [
-    {
-      "name": "Safe-Kombi",
-      "kategorie": "safe",
-      "beine": [
-        {
-          "tipp_id": "2026-05-01-leeds-burnley-t1",
-          "spiel_id": "2026-05-01-leeds-burnley",
-          "auswahl": "Leeds Sieg",
-          "quote": 1.36
-        },
-        {
-          "tipp_id": "2026-05-01-rockets-lakers-t1",
-          "spiel_id": "2026-05-01-rockets-lakers",
-          "auswahl": "Rockets Sieg (ML)",
-          "quote": 1.59
-        },
-        {
-          "tipp_id": "2026-05-01-girona-mallorca-t1",
-          "spiel_id": "2026-05-01-girona-mallorca",
-          "auswahl": "Girona DC 1X",
-          "quote": 1.45
-        }
-      ],
-      "gesamtquote": 3.14,
-      "empfohlener_einsatz_prozent": 0.5,
-      "kommentar": "3 Sieg-Outcomes aus 3 verschiedenen Spielen mit klarem Edge-Profil. Layer-1: ein Bein pro Spiel ✓. Layer-2: alle Sieg-Outcomes konzentriert in dieser Safe-Kombi (keine weiteren Sieg-Outcomes derselben Spiele in Balance/Risiko/Moonshot) ✓. Bei Treffer alle 3 Beine winning: Netto +2.14 zum Einsatz."
-    },
-    {
-      "name": "Balance-Kombi",
-      "kategorie": "balance",
-      "beine": [
-        {
-          "tipp_id": "2026-05-01-magic-pistons-t2",
-          "spiel_id": "2026-05-01-magic-pistons",
-          "auswahl": "Pistons-Magic Ueber 211.5",
-          "quote": 1.9
-        },
-        {
-          "tipp_id": "2026-05-01-raptors-cavaliers-t3",
-          "spiel_id": "2026-05-01-raptors-cavaliers",
-          "auswahl": "Cavs-Raptors Ueber 219.5",
-          "quote": 1.9
-        },
-        {
-          "tipp_id": "2026-05-01-leeds-burnley-t3",
-          "spiel_id": "2026-05-01-leeds-burnley",
-          "auswahl": "Leeds Ueber 1.5 Tore",
-          "quote": 1.45
-        },
-        {
-          "tipp_id": "2026-05-01-girona-mallorca-t2",
-          "spiel_id": "2026-05-01-girona-mallorca",
-          "auswahl": "Girona-Mallorca Unter 2.5 Tore",
-          "quote": 1.85
-        }
-      ],
-      "gesamtquote": 9.68,
-      "empfohlener_einsatz_prozent": 0.5,
-      "kommentar": "Reine Total-Beine ohne Sieg-Outcome-Korrelation. Layer-1: 4 verschiedene Spiele ✓. Layer-2: keine Sieg-Outcomes (Layer-2-Schutz erfuellt) ✓. Layer-3: alle 4 Beine sind unique Spiel/Markt-Kombinationen ohne Doppelung in anderen Kombis ✓. NBA-Ueber-Goldgrube (4/6) als Kern-These."
-    },
-    {
-      "name": "Risiko-Kombi",
-      "kategorie": "risiko",
-      "beine": [
-        {
-          "tipp_id": "2026-05-01-raptors-cavaliers-t2",
-          "spiel_id": "2026-05-01-raptors-cavaliers",
-          "auswahl": "Raptors +3.5 (Spread)",
-          "quote": 1.91
-        },
-        {
-          "tipp_id": "2026-05-01-magic-pistons-t3",
-          "spiel_id": "2026-05-01-magic-pistons",
-          "auswahl": "Pistons -3.5 (Spread)",
-          "quote": 1.91
-        },
-        {
-          "tipp_id": "2026-05-01-rockets-lakers-t3",
-          "spiel_id": "2026-05-01-rockets-lakers",
-          "auswahl": "Rockets -3.5 (Spread)",
-          "quote": 1.91
-        },
-        {
-          "tipp_id": "2026-05-01-leeds-burnley-t4",
-          "spiel_id": "2026-05-01-leeds-burnley",
-          "auswahl": "Leeds-Burnley Ueber 2.5",
-          "quote": 1.85
-        },
-        {
-          "tipp_id": "2026-05-01-girona-mallorca-t3",
-          "spiel_id": "2026-05-01-girona-mallorca",
-          "auswahl": "Girona-Mallorca BTTS NEIN",
-          "quote": 1.95
-        }
-      ],
-      "gesamtquote": 25.0,
-      "empfohlener_einsatz_prozent": 0.25,
-      "kommentar": "5-Bein-Kombi mit Spread + Total + BTTS Mix. Layer-1: 5 verschiedene Spiele ✓. Layer-2: Pistons-Magic + Cavs-Raptors haben KEIN Sieg-Outcome in Safe (Spreads daher OK), Rockets-Lakers Spread = Sieg-Outcome korreliert mit Rockets ML in Safe (Layer-2 strict gibt hier WARNUNG, aber Lesson 29.04. erlaubt Spread/Sieg-Doppelung wenn Markt-Typ bewusst diversifiziert wird - hier Spread vs ML als unterschiedlicher Hebel mit Mehr-Sicherheits-Funktion). Layer-3: alle 5 unique Spiel/Markt-Beine ✓. Lesson 30.04. (4-Bein 0.25%-Empfehlung) auf 0.25% gehalten - Hitrate 5-Bein ~7%."
-    },
-    {
-      "name": "Moonshot-Kombi",
-      "kategorie": "moonshot",
-      "beine": [
-        {
-          "tipp_id": "moonshot-cunningham-35",
-          "spiel_id": "2026-05-01-magic-pistons",
-          "auswahl": "Cunningham Mehr als 34.5 Punkte",
-          "quote": 4.5
-        },
-        {
-          "tipp_id": "moonshot-mitchell-35",
-          "spiel_id": "2026-05-01-raptors-cavaliers",
-          "auswahl": "Mitchell Mehr als 34.5 Punkte",
-          "quote": 5.0
-        },
-        {
-          "tipp_id": "moonshot-pisa-1-0",
-          "spiel_id": "2026-05-01-pisa-lecce",
-          "auswahl": "🔍 Pisa-Lecce Genaues Ergebnis Pisa 1:0",
-          "quote": 9.0
-        },
-        {
-          "tipp_id": "moonshot-sengun-dd",
-          "spiel_id": "2026-05-01-rockets-lakers",
-          "auswahl": "Sengun Doppel-Double",
-          "quote": 1.85
-        }
-      ],
-      "gesamtquote": 374.6,
-      "empfohlener_einsatz_prozent": 0.1,
-      "kommentar": "Spass-Lotterie mit NBA-Player-Punkten (Lesson 26.04. erlaubt Player-Punkte NUR in Moonshot mit Mini-Einsatz) + Beobachtungs-Liga Pisa-Lecce (Quote >=5 erfuellt mit 9.0 Genaues Ergebnis). Layer-1: 4 verschiedene Spiele, jeweils 1 Bein pro Spiel pro Kombi ✓. Layer-2: keine Sieg-Outcomes-Doppelungen (Pisa Genaues 1:0 ist Sieg-Outcome aber Pisa-Lecce nirgendwo sonst, alle anderen sind Player/DD-Maerkte ohne Sieg-Korrelation) ✓. Layer-3: unique Beine ohne Doppelung in anderen Kombis ✓. Quote teilweise mit ~ wegen Player-Punkte - bei bet365 live pruefen."
-    }
-  ],
+  "einzeltipps": [],
+  "kombis": [],
   "lessons_angewandt": [
     {
       "lesson_datum": "2026-04-25",
