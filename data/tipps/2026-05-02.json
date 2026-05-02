@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS = {
+{
   "datum": "2026-05-02",
   "erstellt_am": "2026-05-02T11:30:00+02:00",
   "hinweis": "Wochenend-Volume zum 32. BL-Spieltag plus 2 Premier-League-Goldgruben-Heimspiele, 4 LaLiga-Partien (Atletico rotiert vor CL-Rueckspiel) und drei NBA-Playoffs-Erstrunden-Game-7s. Laut Bilanz sind Bundesliga (+13.5% ROI) und Premier League (+18.7%) aktuell die staerksten Liga-Bilanzen ueberhaupt — dort wird heute gehebelt. Serie A (-32.5%) und 2. Bundesliga (-40%) sind im Beobachtungs-Modus, NBA Round 1 Game 6 ebenfalls; G7 wird konservativ behandelt, Player-Punkte-Markt nach 26.04.-Boykott-Lesson ausgeklammert.",
@@ -1575,4 +1574,4 @@ window.__MIESMUSCHEL_TIPPS = {
     }
   ],
   "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
-};
+}
