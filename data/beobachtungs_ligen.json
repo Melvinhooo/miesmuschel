@@ -1,8 +1,15 @@
 {
-  "stand": "2026-05-01T08:44:07+00:00",
+  "stand": "2026-05-02T07:44:26+00:00",
   "kriterium": "rolling 30 Tage ROI < -30.0% bei min. 4 Tipps",
   "ausstiegs_kriterium": "rolling 30 Tage ROI > -10.0% -> Liga wieder voll bespielbar",
   "ligen": [
+    {
+      "liga": "NBA Playoffs Round 1, Game 6",
+      "tipps_30d": 7,
+      "roi_30d_prozent": -45.6,
+      "trefferquote_30d": 28.6,
+      "netto_30d": -3.19
+    },
     {
       "liga": "2. Bundesliga",
       "tipps_30d": 5,

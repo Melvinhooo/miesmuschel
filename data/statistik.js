@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-05-01T08:44:07+00:00",
+  "letzte_berechnung": "2026-05-02T07:44:26+00:00",
   "gesamt": {
-    "tipps": 101,
-    "gewonnen": 63,
-    "verloren": 38,
+    "tipps": 113,
+    "gewonnen": 69,
+    "verloren": 44,
     "push": 0,
     "offen": 0,
-    "einsatz": 101.0,
-    "netto": 3.1,
-    "trefferquote": 62.4,
-    "roi_prozent": 3.1
+    "einsatz": 113.0,
+    "netto": 0.67,
+    "trefferquote": 61.1,
+    "roi_prozent": 0.6
   },
   "letzte_30_tage": {
-    "tipps": 101,
-    "gewonnen": 63,
-    "verloren": 38,
+    "tipps": 113,
+    "gewonnen": 69,
+    "verloren": 44,
     "push": 0,
     "offen": 0,
-    "einsatz": 101.0,
-    "netto": 3.1,
-    "trefferquote": 62.4,
-    "roi_prozent": 3.1
+    "einsatz": 113.0,
+    "netto": 0.67,
+    "trefferquote": 61.1,
+    "roi_prozent": 0.6
   },
   "letzte_90_tage": {
-    "tipps": 101,
-    "gewonnen": 63,
-    "verloren": 38,
+    "tipps": 113,
+    "gewonnen": 69,
+    "verloren": 44,
     "push": 0,
     "offen": 0,
-    "einsatz": 101.0,
-    "netto": 3.1,
-    "trefferquote": 62.4,
-    "roi_prozent": 3.1
+    "einsatz": 113.0,
+    "netto": 0.67,
+    "trefferquote": 61.1,
+    "roi_prozent": 0.6
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -69,15 +69,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -9.5
     },
     "LaLiga": {
-      "tipps": 12,
-      "gewonnen": 8,
-      "verloren": 4,
+      "tipps": 14,
+      "gewonnen": 9,
+      "verloren": 5,
       "push": 0,
       "offen": 0,
-      "einsatz": 12.0,
-      "netto": -0.55,
-      "trefferquote": 66.7,
-      "roi_prozent": -4.6
+      "einsatz": 14.0,
+      "netto": -0.7,
+      "trefferquote": 64.3,
+      "roi_prozent": -5.0
     },
     "Bundesliga": {
       "tipps": 11,
@@ -113,15 +113,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -40.0
     },
     "Premier League": {
-      "tipps": 4,
-      "gewonnen": 3,
+      "tipps": 7,
+      "gewonnen": 6,
       "verloren": 1,
       "push": 0,
       "offen": 0,
-      "einsatz": 4.0,
-      "netto": 0.4,
-      "trefferquote": 75.0,
-      "roi_prozent": 10.0
+      "einsatz": 7.0,
+      "netto": 1.31,
+      "trefferquote": 85.7,
+      "roi_prozent": 18.7
     },
     "NBA Playoffs R1 G4": {
       "tipps": 4,
@@ -232,6 +232,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": -1.32,
       "trefferquote": 33.3,
       "roi_prozent": -44.0
+    },
+    "NBA Playoffs Round 1, Game 6": {
+      "tipps": 7,
+      "gewonnen": 2,
+      "verloren": 5,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 7.0,
+      "netto": -3.19,
+      "trefferquote": 28.6,
+      "roi_prozent": -45.6
     }
   },
   "nach_markt": {
@@ -1039,15 +1050,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 25.0
     },
     "Unter 2.5 Tore": {
-      "tipps": 1,
-      "gewonnen": 1,
+      "tipps": 2,
+      "gewonnen": 2,
       "verloren": 0,
       "push": 0,
       "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.95,
+      "einsatz": 2.0,
+      "netto": 1.8,
       "trefferquote": 100.0,
-      "roi_prozent": 95.0
+      "roi_prozent": 90.0
     },
     "Unter 211.5 Punkte (Total)": {
       "tipps": 1,
@@ -1202,41 +1213,162 @@ window.__MIESMUSCHEL_STAT = {
       "netto": -1.0,
       "trefferquote": 0.0,
       "roi_prozent": -100.0
+    },
+    "Leeds Sieg (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.36,
+      "trefferquote": 100.0,
+      "roi_prozent": 36.0
+    },
+    "Leeds DC 1X": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.1,
+      "trefferquote": 100.0,
+      "roi_prozent": 10.0
+    },
+    "Girona DC 1X": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Raptors +3.5": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.91,
+      "trefferquote": 100.0,
+      "roi_prozent": 91.0
+    },
+    "Ueber 219.5": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.9,
+      "trefferquote": 100.0,
+      "roi_prozent": 90.0
+    },
+    "Ueber 211.5": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Rockets Sieg (Moneyline)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Ueber 206.5": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Ueber 1.5 Tore": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.45,
+      "trefferquote": 100.0,
+      "roi_prozent": 45.0
+    },
+    "Cavaliers Sieg (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Magic Sieg": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
     }
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 51,
-      "gewonnen": 27,
-      "verloren": 24,
+      "tipps": 58,
+      "gewonnen": 30,
+      "verloren": 28,
       "push": 0,
       "offen": 0,
-      "einsatz": 51.0,
-      "netto": -2.87,
-      "trefferquote": 52.9,
-      "roi_prozent": -5.6
+      "einsatz": 58.0,
+      "netto": -4.21,
+      "trefferquote": 51.7,
+      "roi_prozent": -7.3
     },
     "2.00-3.00": {
-      "tipps": 11,
+      "tipps": 12,
       "gewonnen": 7,
-      "verloren": 4,
+      "verloren": 5,
       "push": 0,
       "offen": 0,
-      "einsatz": 11.0,
-      "netto": 5.08,
-      "trefferquote": 63.6,
-      "roi_prozent": 46.2
+      "einsatz": 12.0,
+      "netto": 4.08,
+      "trefferquote": 58.3,
+      "roi_prozent": 34.0
     },
     "1.00-1.50": {
-      "tipps": 36,
-      "gewonnen": 28,
-      "verloren": 8,
+      "tipps": 40,
+      "gewonnen": 31,
+      "verloren": 9,
       "push": 0,
       "offen": 0,
-      "einsatz": 36.0,
-      "netto": 0.69,
-      "trefferquote": 77.8,
-      "roi_prozent": 1.9
+      "einsatz": 40.0,
+      "netto": 0.6,
+      "trefferquote": 77.5,
+      "roi_prozent": 1.5
     },
     "3.00+": {
       "tipps": 3,
@@ -1252,37 +1384,37 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_kategorie": {
     "safe": {
-      "tipps": 36,
-      "gewonnen": 27,
+      "tipps": 38,
+      "gewonnen": 29,
       "verloren": 9,
       "push": 0,
       "offen": 0,
-      "einsatz": 36.0,
-      "netto": 0.94,
-      "trefferquote": 75.0,
-      "roi_prozent": 2.6
+      "einsatz": 38.0,
+      "netto": 1.4,
+      "trefferquote": 76.3,
+      "roi_prozent": 3.7
     },
     "value": {
-      "tipps": 64,
-      "gewonnen": 35,
-      "verloren": 29,
+      "tipps": 72,
+      "gewonnen": 39,
+      "verloren": 33,
       "push": 0,
       "offen": 0,
-      "einsatz": 64.0,
-      "netto": 1.16,
-      "trefferquote": 54.7,
-      "roi_prozent": 1.8
+      "einsatz": 72.0,
+      "netto": 0.27,
+      "trefferquote": 54.2,
+      "roi_prozent": 0.4
     },
     "wackel": {
-      "tipps": 1,
+      "tipps": 3,
       "gewonnen": 1,
-      "verloren": 0,
+      "verloren": 2,
       "push": 0,
       "offen": 0,
-      "einsatz": 1.0,
-      "netto": 1.0,
-      "trefferquote": 100.0,
-      "roi_prozent": 100.0
+      "einsatz": 3.0,
+      "netto": -1.0,
+      "trefferquote": 33.3,
+      "roi_prozent": -33.3
     }
   },
   "clv_gesamt": {
