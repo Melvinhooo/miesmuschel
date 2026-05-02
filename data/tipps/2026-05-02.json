@@ -20,40 +20,40 @@
       ],
       "tipps": [
         {
-          "tipp_id": "2026-05-02-bay-hei-1",
-          "markt": "Bayern Muenchen Sieg",
-          "auswahl": "Bayern Muenchen",
+          "markt": "Bayern Muenchen",
           "quote": 1.18,
           "kategorie": "safe",
-          "einsatz_prozent": 1.5,
-          "begruendung": "Bayern @ ~1.18 zuhause gegen ein Heidenheim ohne Schlagkraft auswaerts. Schale geholt, aber Marketing/Bonuspraemien-Druck und CL-Energie aus Hinspiel rufen nach Pflichtsieg im Dreier-Modus. Heidenheim hat in dieser Saison auswaerts gegen Top-6-Teams 0 Punkte geholt. Bundesliga-Bilanz aktuell 8/11 = 72.7% / +13.5% ROI — Goldgrube. 2:0-Insurance-Regel greift hier theoretisch — wenn Bayern 2:0 fuehrt, gilt der Tipp gewonnen, falls Heidenheim spaet aufholen sollte (BL erlaubt das)."
+          "begruendung": "Bayern @ ~1.18 zuhause gegen ein Heidenheim ohne Schlagkraft auswaerts. Schale geholt, aber Marketing/Bonuspraemien-Druck und CL-Energie aus Hinspiel rufen nach Pflichtsieg im Dreier-Modus. Heidenheim hat in dieser Saison auswaerts gegen Top-6-Teams 0 Punkte geholt. Bundesliga-Bilanz aktuell 8/11 = 72.7% / +13.5% ROI — Goldgrube. 2:0-Insurance-Regel greift hier theoretisch — wenn Bayern 2:0 fuehrt, gilt der Tipp gewonnen, falls Heidenheim spaet aufholen sollte (BL erlaubt das).",
+          "empfohlener_einsatz_prozent": 1.5,
+          "id": "2026-05-02-bay-hei-1",
+          "faire_quote": 1.18
         },
         {
-          "tipp_id": "2026-05-02-bay-hei-2",
-          "markt": "Bayern Muenchen Mehr als 2.5 Tore",
-          "auswahl": "Bayern Muenchen Ueber 2.5 Team-Tore",
+          "markt": "Bayern Muenchen Ueber 2.5 Team-Tore",
           "quote": 1.55,
           "kategorie": "value",
-          "einsatz_prozent": 1.0,
-          "begruendung": "Bayern hat in den letzten 5 BL-Heimspielen jeweils 3+ Tore erzielt. Heidenheim ist Liga-schwaechste Auswaerts-Defensive (1.95 Gegentore/Spiel) und braucht Punkte — werden offen spielen muessen statt nur tief stehen, das oeffnet Raeume fuer Kane/Olise/Musiala. Lt. Bilanz: 'Mehr als 2.5 Tore'-Markt nur 1/2 (50%) bei -15% ROI in 30 Tagen — daher konservativ als VALUE statt SAFE eingestuft."
+          "begruendung": "Bayern hat in den letzten 5 BL-Heimspielen jeweils 3+ Tore erzielt. Heidenheim ist Liga-schwaechste Auswaerts-Defensive (1.95 Gegentore/Spiel) und braucht Punkte — werden offen spielen muessen statt nur tief stehen, das oeffnet Raeume fuer Kane/Olise/Musiala. Lt. Bilanz: 'Mehr als 2.5 Tore'-Markt nur 1/2 (50%) bei -15% ROI in 30 Tagen — daher konservativ als VALUE statt SAFE eingestuft.",
+          "empfohlener_einsatz_prozent": 1.0,
+          "id": "2026-05-02-bay-hei-2",
+          "faire_quote": 1.55
         },
         {
-          "tipp_id": "2026-05-02-bay-hei-3",
-          "markt": "Harry Kane trifft (jederzeit)",
-          "auswahl": "Harry Kane jederzeit Tor",
+          "markt": "Harry Kane jederzeit Tor",
           "quote": 1.45,
           "kategorie": "value",
-          "einsatz_prozent": 1.0,
-          "begruendung": "Kane fuehrt Liga-Torschuetzenliste, hat in 6 von 7 BL-Heimspielen seit Februar getroffen. Heidenheim-Defensive ist Liga-schwaechste auswaerts. Plus: Einwechslungs-Boost-Regel — wenn Kane in 70. Min ausgewechselt wird, zaehlt das Tor seines Ersatzes (Mueller/Tel) auch fuer den Tipp. Lt. Bilanz: Torschuetzen-Markt heterogen (Undav/Guirassy gewonnen, Lewandowski/Mbappe/Sorloth verloren) — daher VALUE."
+          "begruendung": "Kane fuehrt Liga-Torschuetzenliste, hat in 6 von 7 BL-Heimspielen seit Februar getroffen. Heidenheim-Defensive ist Liga-schwaechste auswaerts. Plus: Einwechslungs-Boost-Regel — wenn Kane in 70. Min ausgewechselt wird, zaehlt das Tor seines Ersatzes (Mueller/Tel) auch fuer den Tipp. Lt. Bilanz: Torschuetzen-Markt heterogen (Undav/Guirassy gewonnen, Lewandowski/Mbappe/Sorloth verloren) — daher VALUE.",
+          "empfohlener_einsatz_prozent": 1.0,
+          "id": "2026-05-02-bay-hei-3",
+          "faire_quote": 1.45
         },
         {
-          "tipp_id": "2026-05-02-bay-hei-4",
-          "markt": "Bayern Muenchen Handicap -2",
-          "auswahl": "Bayern Muenchen -2 (gewinnt mit 3+)",
+          "markt": "Bayern Muenchen -2 (gewinnt mit 3+)",
           "quote": 1.95,
           "kategorie": "value",
-          "einsatz_prozent": 0.75,
-          "begruendung": "In den letzten 4 H2H gewann Bayern mit min. 3 Toren Vorsprung (4:0, 6:1, 4:1, 4:2). Heidenheim-Strategie zuhause war Ueberraschungs-Konter; auswaerts in Muenchen sind sie limitiert. Quote 1.95 entspricht ~51% impl. Wahrscheinlichkeit, real eher 60%+. Lt. Bilanz: Handicap-Markt im 1.5-2.0 Bereich hat -7.3% ROI, daher VALUE (klein) statt SAFE."
+          "begruendung": "In den letzten 4 H2H gewann Bayern mit min. 3 Toren Vorsprung (4:0, 6:1, 4:1, 4:2). Heidenheim-Strategie zuhause war Ueberraschungs-Konter; auswaerts in Muenchen sind sie limitiert. Quote 1.95 entspricht ~51% impl. Wahrscheinlichkeit, real eher 60%+. Lt. Bilanz: Handicap-Markt im 1.5-2.0 Bereich hat -7.3% ROI, daher VALUE (klein) statt SAFE.",
+          "empfohlener_einsatz_prozent": 0.75,
+          "id": "2026-05-02-bay-hei-4",
+          "faire_quote": 1.95
         }
       ]
     },
@@ -74,40 +74,40 @@
       ],
       "tipps": [
         {
-          "tipp_id": "2026-05-02-fra-hsv-1",
-          "markt": "Eintracht Frankfurt Doppelte Chance (1X)",
-          "auswahl": "Frankfurt oder Unentschieden",
+          "markt": "Frankfurt oder Unentschieden",
           "quote": 1.22,
           "kategorie": "safe",
-          "einsatz_prozent": 1.5,
-          "begruendung": "Frankfurt hat in 13 von 15 BL-Heimspielen mindestens einen Punkt geholt (87%). HSV reist mit nur 2 Punkten aus den letzten 5 Auswaertsspielen an. DC 1X @ 1.22 entspricht ~82% impl., real eher 85%+. Lt. Bilanz: 'Doppelte Chance'-Markt mehrfach 100% in den letzten Wochen (Rayo 2/2, Real 1/1, Atletico 1/1, Levante 1/1, Crystal Palace 1/1, Forest 1/1, SC Braga 1/1) — eine echte Goldgrube. Bundesliga-Liga-Bilanz +13.5% ROI verstaerkt. SAFE."
+          "begruendung": "Frankfurt hat in 13 von 15 BL-Heimspielen mindestens einen Punkt geholt (87%). HSV reist mit nur 2 Punkten aus den letzten 5 Auswaertsspielen an. DC 1X @ 1.22 entspricht ~82% impl., real eher 85%+. Lt. Bilanz: 'Doppelte Chance'-Markt mehrfach 100% in den letzten Wochen (Rayo 2/2, Real 1/1, Atletico 1/1, Levante 1/1, Crystal Palace 1/1, Forest 1/1, SC Braga 1/1) — eine echte Goldgrube. Bundesliga-Liga-Bilanz +13.5% ROI verstaerkt. SAFE.",
+          "empfohlener_einsatz_prozent": 1.5,
+          "id": "2026-05-02-fra-hsv-1",
+          "faire_quote": 1.22
         },
         {
-          "tipp_id": "2026-05-02-fra-hsv-2",
-          "markt": "Eintracht Frankfurt Sieg",
-          "auswahl": "Eintracht Frankfurt",
+          "markt": "Eintracht Frankfurt",
           "quote": 1.68,
           "kategorie": "value",
-          "einsatz_prozent": 1.0,
-          "begruendung": "Direkter Sieg @ 1.68 ist VALUE: Modelle sehen Frankfurt 60% (1.67 fair), Markt 1.68 — knapp im Plus aber bestaetigt. HSV zuletzt 4 Niederlagen in 5 Spielen, Eintracht zuhause stark. 2:0-Insurance gilt fuer Frankfurt-Sieg-Tipp (BL) — wenn Frankfurt 2:0 fuehrt, ist Tipp gerettet auch bei spaetem HSV-Comeback. Lt. Bilanz: direkte Sieg-Tipps in Quote 1.50-2.00 nur 51.7% / -7.3% ROI — daher VALUE und NICHT SAFE."
+          "begruendung": "Direkter Sieg @ 1.68 ist VALUE: Modelle sehen Frankfurt 60% (1.67 fair), Markt 1.68 — knapp im Plus aber bestaetigt. HSV zuletzt 4 Niederlagen in 5 Spielen, Eintracht zuhause stark. 2:0-Insurance gilt fuer Frankfurt-Sieg-Tipp (BL) — wenn Frankfurt 2:0 fuehrt, ist Tipp gerettet auch bei spaetem HSV-Comeback. Lt. Bilanz: direkte Sieg-Tipps in Quote 1.50-2.00 nur 51.7% / -7.3% ROI — daher VALUE und NICHT SAFE.",
+          "empfohlener_einsatz_prozent": 1.0,
+          "id": "2026-05-02-fra-hsv-2",
+          "faire_quote": 1.68
         },
         {
-          "tipp_id": "2026-05-02-fra-hsv-3",
-          "markt": "Mehr als 2.5 Tore",
-          "auswahl": "Ueber 2.5 Tore gesamt",
+          "markt": "Ueber 2.5 Tore gesamt",
           "quote": 1.72,
           "kategorie": "wackel",
-          "einsatz_prozent": 0.5,
-          "begruendung": "Frankfurt-Heimspiele liefern ueber 2.5 Tore (8/15 = 53%), HSV-Defensive auswaerts schwach (2.1 Gegentore/Spiel). Tendenz Richtung Tor-Festival. Aber: lt. Bilanz hat 'Mehr als 2.5 Tore'-Markt zuletzt 1/2 (50%) / -15% ROI — daher als WACKEL eingestuft (nicht VALUE), nur als Bein in Risiko-Kombi nutzbar."
+          "begruendung": "Frankfurt-Heimspiele liefern ueber 2.5 Tore (8/15 = 53%), HSV-Defensive auswaerts schwach (2.1 Gegentore/Spiel). Tendenz Richtung Tor-Festival. Aber: lt. Bilanz hat 'Mehr als 2.5 Tore'-Markt zuletzt 1/2 (50%) / -15% ROI — daher als WACKEL eingestuft (nicht VALUE), nur als Bein in Risiko-Kombi nutzbar.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "2026-05-02-fra-hsv-3",
+          "faire_quote": 1.72
         },
         {
-          "tipp_id": "2026-05-02-fra-hsv-4",
-          "markt": "Beide Teams treffen: NEIN",
-          "auswahl": "BTTS Nein",
+          "markt": "BTTS Nein",
           "quote": 2.2,
           "kategorie": "wackel",
-          "einsatz_prozent": 0.5,
-          "begruendung": "HSV hat in den letzten 4 Auswaertsspielen nur 1 Tor erzielt — wenn Frankfurt frueh fuehrt, koennte HSV tor-leer bleiben. BTTS-Nein @ 2.20 als Gegen-Trade zur Tor-These. Lt. Bilanz: 'Beide Teams treffen JA' hat -43% ROI, daher Inverse (NEIN) ist statistisch verteidigbar. Nur als Wackel-Bein, da HSV im Abstiegskampf-Modus auch mal mitspielt."
+          "begruendung": "HSV hat in den letzten 4 Auswaertsspielen nur 1 Tor erzielt — wenn Frankfurt frueh fuehrt, koennte HSV tor-leer bleiben. BTTS-Nein @ 2.20 als Gegen-Trade zur Tor-These. Lt. Bilanz: 'Beide Teams treffen JA' hat -43% ROI, daher Inverse (NEIN) ist statistisch verteidigbar. Nur als Wackel-Bein, da HSV im Abstiegskampf-Modus auch mal mitspielt.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "2026-05-02-fra-hsv-4",
+          "faire_quote": 2.2
         }
       ]
     },
@@ -128,40 +128,40 @@
       ],
       "tipps": [
         {
-          "tipp_id": "2026-05-02-bre-aug-1",
-          "markt": "Werder Bremen Doppelte Chance (1X)",
-          "auswahl": "Bremen oder Unentschieden",
+          "markt": "Bremen oder Unentschieden",
           "quote": 1.3,
           "kategorie": "safe",
-          "einsatz_prozent": 1.5,
-          "begruendung": "Bremen ist im Weserstadion in den letzten 8 Heimspielen ungeschlagen gegen Mid-Table-Teams. Augsburg ohne Saisonziel motivationslos, nur 1 Auswaertssieg seit Februar. DC 1X @ 1.30 entspricht ~77% impl., real eher 80%+. Lt. Bilanz: DC-1X-Markt-Familie mehrfach 100% (Levante 1/1, Atletico 1/1, Forest 1/1, Rayo 2/2, Braga 1/1) — Goldgrube. BL-Liga-Bilanz +13.5% verstaerkt. SAFE."
+          "begruendung": "Bremen ist im Weserstadion in den letzten 8 Heimspielen ungeschlagen gegen Mid-Table-Teams. Augsburg ohne Saisonziel motivationslos, nur 1 Auswaertssieg seit Februar. DC 1X @ 1.30 entspricht ~77% impl., real eher 80%+. Lt. Bilanz: DC-1X-Markt-Familie mehrfach 100% (Levante 1/1, Atletico 1/1, Forest 1/1, Rayo 2/2, Braga 1/1) — Goldgrube. BL-Liga-Bilanz +13.5% verstaerkt. SAFE.",
+          "empfohlener_einsatz_prozent": 1.5,
+          "id": "2026-05-02-bre-aug-1",
+          "faire_quote": 1.3
         },
         {
-          "tipp_id": "2026-05-02-bre-aug-2",
-          "markt": "Weniger als 3.5 Tore",
-          "auswahl": "Unter 3.5 Tore",
+          "markt": "Unter 3.5 Tore",
           "quote": 1.3,
           "kategorie": "safe",
-          "einsatz_prozent": 1.0,
-          "begruendung": "Hinspiel 0:0, beide Teams haben in den letzten 5 Direktduellen nie mehr als 3 Tore zusammen erzielt. Augsburg-Stuermer Demirovic schwach, Tietz raus. Bremen offensiv limitiert ohne Marmoush-Ersatz. Quote 1.30 = ~77% impl., real eher 85%+. Lt. Bilanz: 'Unter X Tore'-Markt-Familie stark (Unter 2.5 Tore 2/2 = 100%). SAFE."
+          "begruendung": "Hinspiel 0:0, beide Teams haben in den letzten 5 Direktduellen nie mehr als 3 Tore zusammen erzielt. Augsburg-Stuermer Demirovic schwach, Tietz raus. Bremen offensiv limitiert ohne Marmoush-Ersatz. Quote 1.30 = ~77% impl., real eher 85%+. Lt. Bilanz: 'Unter X Tore'-Markt-Familie stark (Unter 2.5 Tore 2/2 = 100%). SAFE.",
+          "empfohlener_einsatz_prozent": 1.0,
+          "id": "2026-05-02-bre-aug-2",
+          "faire_quote": 1.3
         },
         {
-          "tipp_id": "2026-05-02-bre-aug-3",
-          "markt": "Werder Bremen Sieg (90 Min)",
-          "auswahl": "Werder Bremen",
+          "markt": "Werder Bremen",
           "quote": 2.05,
           "kategorie": "value",
-          "einsatz_prozent": 0.75,
-          "begruendung": "Bremen-Heimsieg-Quote @ 2.05 entspricht 49% impl., Modelle sehen Bremen bei 50%+ (Augsburg motivationslos, Heimvorteil). Pinnacle-Edge ~2-3% gegen Markt-Konsens. Lt. Bilanz: Bremen-Sieg in Quote 2.00-3.00 in der Profi-Hitrate-Range (58.3% / +34% ROI Quoten-Range). VALUE."
+          "begruendung": "Bremen-Heimsieg-Quote @ 2.05 entspricht 49% impl., Modelle sehen Bremen bei 50%+ (Augsburg motivationslos, Heimvorteil). Pinnacle-Edge ~2-3% gegen Markt-Konsens. Lt. Bilanz: Bremen-Sieg in Quote 2.00-3.00 in der Profi-Hitrate-Range (58.3% / +34% ROI Quoten-Range). VALUE.",
+          "empfohlener_einsatz_prozent": 0.75,
+          "id": "2026-05-02-bre-aug-3",
+          "faire_quote": 2.05
         },
         {
-          "tipp_id": "2026-05-02-bre-aug-4",
-          "markt": "Beide Teams treffen: NEIN",
-          "auswahl": "BTTS Nein",
+          "markt": "BTTS Nein",
           "quote": 1.95,
           "kategorie": "wackel",
-          "einsatz_prozent": 0.5,
-          "begruendung": "Hinspiel war 0:0, Augsburg-Sturm-Probleme + Bremen-Defensive solide auswaerts. BTTS-Nein @ 1.95 als Gegen-Trade. Lt. Bilanz: 'Beide Teams treffen JA' -43% ROI in 30 Tagen — Inverse (NEIN) statistisch verteidigbar. Aber nur Wackel weil ein einziges Tor jeweils das Bein killt."
+          "begruendung": "Hinspiel war 0:0, Augsburg-Sturm-Probleme + Bremen-Defensive solide auswaerts. BTTS-Nein @ 1.95 als Gegen-Trade. Lt. Bilanz: 'Beide Teams treffen JA' -43% ROI in 30 Tagen — Inverse (NEIN) statistisch verteidigbar. Aber nur Wackel weil ein einziges Tor jeweils das Bein killt.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "2026-05-02-bre-aug-4",
+          "faire_quote": 1.95
         }
       ]
     },
@@ -182,31 +182,31 @@
       ],
       "tipps": [
         {
-          "tipp_id": "2026-05-02-uni-koe-1",
-          "markt": "Union Berlin Doppelte Chance (1X)",
-          "auswahl": "Union oder Unentschieden",
+          "markt": "Union oder Unentschieden",
           "quote": 1.43,
           "kategorie": "safe",
-          "einsatz_prozent": 1.0,
-          "begruendung": "Union zuhause an der Alten Foersterei in 23/30 Heimspielen ungeschlagen. Koeln auswaerts katastrophal (3 Siege in 15 Auswaertsspielen). DC 1X @ 1.43 entspricht 70% impl., real 75%+. Lt. Bilanz: DC-Markt-Familie ist die staerkste Goldgrube ueberhaupt (mehrfach 100%). SAFE — aber nur 1.0% Einsatz wegen schlechter Form-Phase Union."
+          "begruendung": "Union zuhause an der Alten Foersterei in 23/30 Heimspielen ungeschlagen. Koeln auswaerts katastrophal (3 Siege in 15 Auswaertsspielen). DC 1X @ 1.43 entspricht 70% impl., real 75%+. Lt. Bilanz: DC-Markt-Familie ist die staerkste Goldgrube ueberhaupt (mehrfach 100%). SAFE — aber nur 1.0% Einsatz wegen schlechter Form-Phase Union.",
+          "empfohlener_einsatz_prozent": 1.0,
+          "id": "2026-05-02-uni-koe-1",
+          "faire_quote": 1.43
         },
         {
-          "tipp_id": "2026-05-02-uni-koe-2",
-          "markt": "Weniger als 2.5 Tore",
-          "auswahl": "Unter 2.5 Tore",
+          "markt": "Unter 2.5 Tore",
           "quote": 1.85,
           "kategorie": "value",
-          "einsatz_prozent": 1.0,
-          "begruendung": "Beide Teams haben in der Saison Probleme im Tor-Bereich (Union 1.1 Tore/Heim, Koeln 0.8 Tore/Auswaerts). Abstiegskampf-Spiele sind oft taktisch zerfahren. Hinspiel war 1:1. Lt. Bilanz: 'Unter 2.5 Tore' 2/2 = 100% / +90% ROI — verifizierte Goldgrube! Quote @ 1.85 = ~54% impl., real 60%+. VALUE — koennte zur SAFE upgegradet werden, aber konservativ wegen Abstiegspanik beider Teams (offene Spiele moeglich)."
+          "begruendung": "Beide Teams haben in der Saison Probleme im Tor-Bereich (Union 1.1 Tore/Heim, Koeln 0.8 Tore/Auswaerts). Abstiegskampf-Spiele sind oft taktisch zerfahren. Hinspiel war 1:1. Lt. Bilanz: 'Unter 2.5 Tore' 2/2 = 100% / +90% ROI — verifizierte Goldgrube! Quote @ 1.85 = ~54% impl., real 60%+. VALUE — koennte zur SAFE upgegradet werden, aber konservativ wegen Abstiegspanik beider Teams (offene Spiele moeglich).",
+          "empfohlener_einsatz_prozent": 1.0,
+          "id": "2026-05-02-uni-koe-2",
+          "faire_quote": 1.85
         },
         {
-          "tipp_id": "2026-05-02-uni-koe-3",
-          "markt": "Beide Teams treffen: NEIN",
-          "auswahl": "BTTS Nein",
+          "markt": "BTTS Nein",
           "quote": 2.0,
           "kategorie": "wackel",
-          "einsatz_prozent": 0.5,
-          "begruendung": "Beide Teams haben Sturm-Probleme. BTTS-Nein @ 2.00 = 50% impl. Lt. Bilanz: BTTS-JA hat -43% ROI, Inverse logisch. Aber als Wackel weil im Abstiegskampf-Modus oft ein einzelner Glueckstreffer reicht und das Bein killt."
+          "begruendung": "Beide Teams haben Sturm-Probleme. BTTS-Nein @ 2.00 = 50% impl. Lt. Bilanz: BTTS-JA hat -43% ROI, Inverse logisch. Aber als Wackel weil im Abstiegskampf-Modus oft ein einzelner Glueckstreffer reicht und das Bein killt.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "2026-05-02-uni-koe-3",
+          "faire_quote": 2.0
         }
       ]
     },
@@ -227,40 +227,40 @@
       ],
       "tipps": [
         {
-          "tipp_id": "2026-05-02-hof-stu-1",
-          "markt": "Mehr als 2.5 Tore",
-          "auswahl": "Ueber 2.5 Tore",
+          "markt": "Ueber 2.5 Tore",
           "quote": 1.62,
           "kategorie": "value",
-          "einsatz_prozent": 1.0,
-          "begruendung": "In 7 von letzten 9 H2H trafen beide Teams. Hoffenheim 1.85 Tore/Heim, Stuttgart 1.55 Tore/Auswaerts. Beide brauchen Punkte fuer CL-Quali — werden offen spielen. Quote 1.62 = ~62% impl., real 65%+. Lt. Bilanz: 'Mehr als 2.5 Tore' bisher 1/2 = 50% / -15% ROI — daher VALUE statt SAFE (konservativ). BL-Liga-Bilanz +13.5% verstaerkt."
+          "begruendung": "In 7 von letzten 9 H2H trafen beide Teams. Hoffenheim 1.85 Tore/Heim, Stuttgart 1.55 Tore/Auswaerts. Beide brauchen Punkte fuer CL-Quali — werden offen spielen. Quote 1.62 = ~62% impl., real 65%+. Lt. Bilanz: 'Mehr als 2.5 Tore' bisher 1/2 = 50% / -15% ROI — daher VALUE statt SAFE (konservativ). BL-Liga-Bilanz +13.5% verstaerkt.",
+          "empfohlener_einsatz_prozent": 1.0,
+          "id": "2026-05-02-hof-stu-1",
+          "faire_quote": 1.62
         },
         {
-          "tipp_id": "2026-05-02-hof-stu-2",
-          "markt": "Beide Teams treffen: JA",
-          "auswahl": "BTTS Ja",
+          "markt": "BTTS Ja",
           "quote": 1.45,
           "kategorie": "value",
-          "einsatz_prozent": 0.75,
-          "begruendung": "7/9 H2H mit BTTS — strukturelles Tor-Festival. Hoffenheim trifft zuhause in 14/15 Heimspielen, Stuttgart auswaerts in 12/15. Quote 1.45 = ~69% impl., real 75%+. Lt. Bilanz: BTTS-JA hat -43% ROI, daher VALUE und vorsichtig (0.75% Einsatz statt 1.0%). Trotz negativer Bilanz hier strukturell stark verteidigbar."
+          "begruendung": "7/9 H2H mit BTTS — strukturelles Tor-Festival. Hoffenheim trifft zuhause in 14/15 Heimspielen, Stuttgart auswaerts in 12/15. Quote 1.45 = ~69% impl., real 75%+. Lt. Bilanz: BTTS-JA hat -43% ROI, daher VALUE und vorsichtig (0.75% Einsatz statt 1.0%). Trotz negativer Bilanz hier strukturell stark verteidigbar.",
+          "empfohlener_einsatz_prozent": 0.75,
+          "id": "2026-05-02-hof-stu-2",
+          "faire_quote": 1.45
         },
         {
-          "tipp_id": "2026-05-02-hof-stu-3",
-          "markt": "Deniz Undav trifft (jederzeit)",
-          "auswahl": "Deniz Undav Tor",
+          "markt": "Deniz Undav Tor",
           "quote": 2.65,
           "kategorie": "value",
-          "einsatz_prozent": 0.5,
-          "begruendung": "Undav zurueck nach Verletzung, 4 Tore in 5 April-Spielen. Hoffenheim-Defensive nicht topklasse zuhause (1.45 Gegentore). Plus: bet365-Einwechslungs-Boost — wenn Undav ausgewechselt wird, zaehlt Tor seines Ersatzes (Demirovic/Tomas) auch. Lt. Bilanz: 'Deniz Undav trifft' war 1/1 = 100% / +130% ROI — Goldgrube, aber kleiner Sample (1 Tipp). Erneuter Einsatz @ 2.65 ist VALUE."
+          "begruendung": "Undav zurueck nach Verletzung, 4 Tore in 5 April-Spielen. Hoffenheim-Defensive nicht topklasse zuhause (1.45 Gegentore). Plus: bet365-Einwechslungs-Boost — wenn Undav ausgewechselt wird, zaehlt Tor seines Ersatzes (Demirovic/Tomas) auch. Lt. Bilanz: 'Deniz Undav trifft' war 1/1 = 100% / +130% ROI — Goldgrube, aber kleiner Sample (1 Tipp). Erneuter Einsatz @ 2.65 ist VALUE.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "2026-05-02-hof-stu-3",
+          "faire_quote": 2.65
         },
         {
-          "tipp_id": "2026-05-02-hof-stu-4",
-          "markt": "Doppelte Chance Hoffenheim oder Unentschieden (1X)",
-          "auswahl": "Hoffenheim oder Unentschieden",
+          "markt": "Hoffenheim oder Unentschieden",
           "quote": 1.5,
           "kategorie": "value",
-          "einsatz_prozent": 0.75,
-          "begruendung": "Hoffenheim zuhause sehr solide, hat in 12/15 PreZero-Spielen min. 1 Punkt geholt. Stuttgart auswaerts inkonstant. Quote 1.50 = 67% impl., real 70%+. Lt. Bilanz: DC-Markt-Familie staerkste Goldgrube. VALUE — nicht SAFE wegen Stuttgart-Form-Aufwaertstrend."
+          "begruendung": "Hoffenheim zuhause sehr solide, hat in 12/15 PreZero-Spielen min. 1 Punkt geholt. Stuttgart auswaerts inkonstant. Quote 1.50 = 67% impl., real 70%+. Lt. Bilanz: DC-Markt-Familie staerkste Goldgrube. VALUE — nicht SAFE wegen Stuttgart-Form-Aufwaertstrend.",
+          "empfohlener_einsatz_prozent": 0.75,
+          "id": "2026-05-02-hof-stu-4",
+          "faire_quote": 1.5
         }
       ]
     },
@@ -281,40 +281,40 @@
       ],
       "tipps": [
         {
-          "tipp_id": "2026-05-02-lev-rbl-1",
-          "markt": "Bayer Leverkusen Doppelte Chance (1X)",
-          "auswahl": "Leverkusen oder Unentschieden",
+          "markt": "Leverkusen oder Unentschieden",
           "quote": 1.3,
           "kategorie": "safe",
-          "einsatz_prozent": 1.5,
-          "begruendung": "Leverkusen zuhause stark (10W-3D-2L), keine CL-Belastung diese Woche. RB nach Conference-League-HF muede + rotiert wahrscheinlich. DC 1X @ 1.30 = 77% impl., real 82%+. Lt. Bilanz: 'Leverkusen Doppelte Chance (X2)' war 1/1 = 100% / +30% ROI bei Auswaertsspielen, hier zuhause logisch staerker. DC-Familie ist Goldgrube. BL-Bilanz +13.5%. SAFE."
+          "begruendung": "Leverkusen zuhause stark (10W-3D-2L), keine CL-Belastung diese Woche. RB nach Conference-League-HF muede + rotiert wahrscheinlich. DC 1X @ 1.30 = 77% impl., real 82%+. Lt. Bilanz: 'Leverkusen Doppelte Chance (X2)' war 1/1 = 100% / +30% ROI bei Auswaertsspielen, hier zuhause logisch staerker. DC-Familie ist Goldgrube. BL-Bilanz +13.5%. SAFE.",
+          "empfohlener_einsatz_prozent": 1.5,
+          "id": "2026-05-02-lev-rbl-1",
+          "faire_quote": 1.3
         },
         {
-          "tipp_id": "2026-05-02-lev-rbl-2",
-          "markt": "Mehr als 2.5 Tore",
-          "auswahl": "Ueber 2.5 Tore",
+          "markt": "Ueber 2.5 Tore",
           "quote": 1.55,
           "kategorie": "value",
-          "einsatz_prozent": 1.0,
-          "begruendung": "Leverkusen-Heimspiele liefern 2.85 Tore/Spiel (Saisonschnitt). Leipzig auswaerts 2.5 Tore/Spiel involviert. Hinspiel war 4-Tore-Spiel. Quote 1.55 = 65% impl., real 70%+. Lt. Bilanz: 'Mehr als 2.5 Tore' bisher gemischt (-15% ROI), daher VALUE statt SAFE."
+          "begruendung": "Leverkusen-Heimspiele liefern 2.85 Tore/Spiel (Saisonschnitt). Leipzig auswaerts 2.5 Tore/Spiel involviert. Hinspiel war 4-Tore-Spiel. Quote 1.55 = 65% impl., real 70%+. Lt. Bilanz: 'Mehr als 2.5 Tore' bisher gemischt (-15% ROI), daher VALUE statt SAFE.",
+          "empfohlener_einsatz_prozent": 1.0,
+          "id": "2026-05-02-lev-rbl-2",
+          "faire_quote": 1.55
         },
         {
-          "tipp_id": "2026-05-02-lev-rbl-3",
-          "markt": "Bayer Leverkusen Sieg",
-          "auswahl": "Bayer Leverkusen",
+          "markt": "Bayer Leverkusen",
           "quote": 2.1,
           "kategorie": "value",
-          "einsatz_prozent": 1.0,
-          "begruendung": "Leverkusen direkter Sieg @ 2.10 = 48% impl., Modelle sehen 50%+ (Heimvorteil + RB-Rotation nach Conference-League-HF). Lt. Bilanz: 'Bayer Leverkusen Sieg' war 1/1 = 100% / +85% ROI. 2:0-Insurance-Regel greift hier (BL): wenn Leverkusen 2:0 fuehrt, gilt Tipp gewonnen auch bei spaetem RB-Comeback. Quote 2.00-3.00 hat +34% ROI in der Bilanz — sweet spot."
+          "begruendung": "Leverkusen direkter Sieg @ 2.10 = 48% impl., Modelle sehen 50%+ (Heimvorteil + RB-Rotation nach Conference-League-HF). Lt. Bilanz: 'Bayer Leverkusen Sieg' war 1/1 = 100% / +85% ROI. 2:0-Insurance-Regel greift hier (BL): wenn Leverkusen 2:0 fuehrt, gilt Tipp gewonnen auch bei spaetem RB-Comeback. Quote 2.00-3.00 hat +34% ROI in der Bilanz — sweet spot.",
+          "empfohlener_einsatz_prozent": 1.0,
+          "id": "2026-05-02-lev-rbl-3",
+          "faire_quote": 2.1
         },
         {
-          "tipp_id": "2026-05-02-lev-rbl-4",
-          "markt": "Beide Teams treffen: JA",
-          "auswahl": "BTTS Ja",
+          "markt": "BTTS Ja",
           "quote": 1.55,
           "kategorie": "wackel",
-          "einsatz_prozent": 0.5,
-          "begruendung": "Beide Teams haben offensive Qualitaet (Wirtz/Schick vs Sesko/Openda). Quote 1.55 = 65% impl. Aber lt. Bilanz: 'Beide Teams treffen JA' nur 1/3 = 33% / -43% ROI in 30 Tagen — daher WACKEL und nur 0.5% Einsatz. Nur als Risiko-Kombi-Bein."
+          "begruendung": "Beide Teams haben offensive Qualitaet (Wirtz/Schick vs Sesko/Openda). Quote 1.55 = 65% impl. Aber lt. Bilanz: 'Beide Teams treffen JA' nur 1/3 = 33% / -43% ROI in 30 Tagen — daher WACKEL und nur 0.5% Einsatz. Nur als Risiko-Kombi-Bein.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "2026-05-02-lev-rbl-4",
+          "faire_quote": 1.55
         }
       ]
     },
@@ -335,31 +335,31 @@
       ],
       "tipps": [
         {
-          "tipp_id": "2026-05-02-bre-whu-1",
-          "markt": "West Ham Doppelte Chance (X2)",
-          "auswahl": "Unentschieden oder West Ham",
+          "markt": "Unentschieden oder West Ham",
           "quote": 1.95,
           "kategorie": "value",
-          "einsatz_prozent": 1.0,
-          "begruendung": "Brentford ohne Sieg seit 2 Monaten, West Ham in Form (7 Pkt aus 3). Beide ohne Saisonziel, aber West Ham aktuell taktisch stabiler. DC X2 @ 1.95 = 51% impl., real 55-60%. Lt. Bilanz: DC-Markt-Familie ist Goldgrube (mehrfach 100%). PL-Liga-Bilanz +18.7% / 85.7% verstaerkt — bestaetigte staerkste Liga-Bilanz. VALUE — nicht SAFE wegen Brentford-Heimvorteil."
+          "begruendung": "Brentford ohne Sieg seit 2 Monaten, West Ham in Form (7 Pkt aus 3). Beide ohne Saisonziel, aber West Ham aktuell taktisch stabiler. DC X2 @ 1.95 = 51% impl., real 55-60%. Lt. Bilanz: DC-Markt-Familie ist Goldgrube (mehrfach 100%). PL-Liga-Bilanz +18.7% / 85.7% verstaerkt — bestaetigte staerkste Liga-Bilanz. VALUE — nicht SAFE wegen Brentford-Heimvorteil.",
+          "empfohlener_einsatz_prozent": 1.0,
+          "id": "2026-05-02-bre-whu-1",
+          "faire_quote": 1.95
         },
         {
-          "tipp_id": "2026-05-02-bre-whu-2",
-          "markt": "Mehr als 2.5 Tore",
-          "auswahl": "Ueber 2.5 Tore",
+          "markt": "Ueber 2.5 Tore",
           "quote": 1.62,
           "kategorie": "value",
-          "einsatz_prozent": 0.75,
-          "begruendung": "Brentford-Heimspiele 2.85 Tore/Spiel, West Ham auswaerts 2.6 Tore/Spiel involviert. Beide Teams ohne Saisonzieldruck = offen spielen. Quote 1.62 = 62% impl., real 65%+. Lt. Bilanz: 'Mehr als 2.5 Tore' -15% ROI — daher konservativ als VALUE und kleiner Einsatz."
+          "begruendung": "Brentford-Heimspiele 2.85 Tore/Spiel, West Ham auswaerts 2.6 Tore/Spiel involviert. Beide Teams ohne Saisonzieldruck = offen spielen. Quote 1.62 = 62% impl., real 65%+. Lt. Bilanz: 'Mehr als 2.5 Tore' -15% ROI — daher konservativ als VALUE und kleiner Einsatz.",
+          "empfohlener_einsatz_prozent": 0.75,
+          "id": "2026-05-02-bre-whu-2",
+          "faire_quote": 1.62
         },
         {
-          "tipp_id": "2026-05-02-bre-whu-3",
-          "markt": "Beide Teams treffen: JA",
-          "auswahl": "BTTS Ja",
+          "markt": "BTTS Ja",
           "quote": 1.52,
           "kategorie": "wackel",
-          "einsatz_prozent": 0.5,
-          "begruendung": "BTTS-Ja in Brentford-letzten 5 Heimspielen 4x. West Ham trifft auswaerts in 11/15 Spielen. Aber lt. Bilanz: BTTS-JA nur 33% / -43% ROI — daher WACKEL und nur 0.5% Einsatz, als Bein in Risiko-Kombi nutzbar."
+          "begruendung": "BTTS-Ja in Brentford-letzten 5 Heimspielen 4x. West Ham trifft auswaerts in 11/15 Spielen. Aber lt. Bilanz: BTTS-JA nur 33% / -43% ROI — daher WACKEL und nur 0.5% Einsatz, als Bein in Risiko-Kombi nutzbar.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "2026-05-02-bre-whu-3",
+          "faire_quote": 1.52
         }
       ]
     },
@@ -380,40 +380,40 @@
       ],
       "tipps": [
         {
-          "tipp_id": "2026-05-02-new-bri-1",
-          "markt": "Brighton Doppelte Chance (X2)",
-          "auswahl": "Unentschieden oder Brighton",
+          "markt": "Unentschieden oder Brighton",
           "quote": 1.45,
           "kategorie": "safe",
-          "einsatz_prozent": 1.5,
-          "begruendung": "Brighton in 6/6 Direktduellen ungeschlagen gegen Newcastle, 5 Spiele ungeschlagen. Newcastle ohne Isak + Form-Krise (4 Niederlagen). DC X2 @ 1.45 = 69% impl., real 75%+. Lt. Bilanz: PL-Klassendifferenz-Heim-Goldgrube wurde 01.05. erneut bestaetigt — aber hier ist Brighton der Favorit auswaerts (Form-Klassendifferenz). DC-Familie ist Goldgrube. PL-Bilanz +18.7%. SAFE."
+          "begruendung": "Brighton in 6/6 Direktduellen ungeschlagen gegen Newcastle, 5 Spiele ungeschlagen. Newcastle ohne Isak + Form-Krise (4 Niederlagen). DC X2 @ 1.45 = 69% impl., real 75%+. Lt. Bilanz: PL-Klassendifferenz-Heim-Goldgrube wurde 01.05. erneut bestaetigt — aber hier ist Brighton der Favorit auswaerts (Form-Klassendifferenz). DC-Familie ist Goldgrube. PL-Bilanz +18.7%. SAFE.",
+          "empfohlener_einsatz_prozent": 1.5,
+          "id": "2026-05-02-new-bri-1",
+          "faire_quote": 1.45
         },
         {
-          "tipp_id": "2026-05-02-new-bri-2",
-          "markt": "Mehr als 2.5 Tore",
-          "auswahl": "Ueber 2.5 Tore",
+          "markt": "Ueber 2.5 Tore",
           "quote": 1.72,
           "kategorie": "value",
-          "einsatz_prozent": 0.75,
-          "begruendung": "Newcastle defensiv loechrig zuhause aktuell (2.1 Gegentore in letzten 5 Heimspielen). Brighton trifft auswaerts in 13/15 Spielen. BTTS-Wahrscheinlichkeit hoch laut Modellen. Quote 1.72 = 58% impl., real 60%+. Lt. Bilanz: 'Mehr als 2.5 Tore' -15% ROI — daher VALUE konservativ."
+          "begruendung": "Newcastle defensiv loechrig zuhause aktuell (2.1 Gegentore in letzten 5 Heimspielen). Brighton trifft auswaerts in 13/15 Spielen. BTTS-Wahrscheinlichkeit hoch laut Modellen. Quote 1.72 = 58% impl., real 60%+. Lt. Bilanz: 'Mehr als 2.5 Tore' -15% ROI — daher VALUE konservativ.",
+          "empfohlener_einsatz_prozent": 0.75,
+          "id": "2026-05-02-new-bri-2",
+          "faire_quote": 1.72
         },
         {
-          "tipp_id": "2026-05-02-new-bri-3",
-          "markt": "Brighton Sieg",
-          "auswahl": "Brighton",
+          "markt": "Brighton",
           "quote": 2.65,
           "kategorie": "value",
-          "einsatz_prozent": 0.75,
-          "begruendung": "Brighton direkter Sieg @ 2.65 = 38% impl., Modelle sehen 37-44%. PL-Bilanz +18.7% / 85.7%. Newcastle Form-Krise + Isak-Out. Quote 2.00-3.00 hat +34% ROI in der Bilanz. Lt. Bilanz: Brighton/Crystal-Palace-aehnliche-Teams (Mid-Table-PL-Auswaerts) zuletzt erfolgreich. VALUE."
+          "begruendung": "Brighton direkter Sieg @ 2.65 = 38% impl., Modelle sehen 37-44%. PL-Bilanz +18.7% / 85.7%. Newcastle Form-Krise + Isak-Out. Quote 2.00-3.00 hat +34% ROI in der Bilanz. Lt. Bilanz: Brighton/Crystal-Palace-aehnliche-Teams (Mid-Table-PL-Auswaerts) zuletzt erfolgreich. VALUE.",
+          "empfohlener_einsatz_prozent": 0.75,
+          "id": "2026-05-02-new-bri-3",
+          "faire_quote": 2.65
         },
         {
-          "tipp_id": "2026-05-02-new-bri-4",
-          "markt": "Beide Teams treffen: JA",
-          "auswahl": "BTTS Ja",
+          "markt": "BTTS Ja",
           "quote": 1.55,
           "kategorie": "wackel",
-          "einsatz_prozent": 0.5,
-          "begruendung": "BTTS-Ja statistisch wahrscheinlich (beide treffen oft), aber lt. Bilanz: BTTS-JA -43% ROI — daher WACKEL trotz statistischer Logik. Nur Bein in Risiko-Kombi."
+          "begruendung": "BTTS-Ja statistisch wahrscheinlich (beide treffen oft), aber lt. Bilanz: BTTS-JA -43% ROI — daher WACKEL trotz statistischer Logik. Nur Bein in Risiko-Kombi.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "2026-05-02-new-bri-4",
+          "faire_quote": 1.55
         }
       ]
     },
@@ -434,31 +434,31 @@
       ],
       "tipps": [
         {
-          "tipp_id": "2026-05-02-wol-sun-1",
-          "markt": "Sunderland Doppelte Chance (X2)",
-          "auswahl": "Unentschieden oder Sunderland",
+          "markt": "Unentschieden oder Sunderland",
           "quote": 1.32,
           "kategorie": "safe",
-          "einsatz_prozent": 1.5,
-          "begruendung": "Sunderland 4 Spiele ungeschlagen, gewann Hinspiel. Wolves Form-Krise (1 Sieg in 6). DC X2 @ 1.32 = 76% impl., real 82%+. Lt. Bilanz: DC-Markt-Familie ist Goldgrube. PL-Bilanz +18.7% / 85.7%. PL-Klassendifferenz-Form-Edge bestaetigt (Lesson 02.05.). SAFE."
+          "begruendung": "Sunderland 4 Spiele ungeschlagen, gewann Hinspiel. Wolves Form-Krise (1 Sieg in 6). DC X2 @ 1.32 = 76% impl., real 82%+. Lt. Bilanz: DC-Markt-Familie ist Goldgrube. PL-Bilanz +18.7% / 85.7%. PL-Klassendifferenz-Form-Edge bestaetigt (Lesson 02.05.). SAFE.",
+          "empfohlener_einsatz_prozent": 1.5,
+          "id": "2026-05-02-wol-sun-1",
+          "faire_quote": 1.32
         },
         {
-          "tipp_id": "2026-05-02-wol-sun-2",
-          "markt": "Sunderland Sieg",
-          "auswahl": "Sunderland",
+          "markt": "Sunderland",
           "quote": 1.95,
           "kategorie": "value",
-          "einsatz_prozent": 1.0,
-          "begruendung": "Sunderland direkter Auswaertssieg @ 1.95 entspricht 51% impl., Modelle sehen 44-50%. Form-Klassendifferenz klar pro Sunderland. Quote im sweet-spot 1.50-2.00 (51.7% Hitrate aber konservativ als VALUE). PL-Liga +18.7%. Lt. Bilanz: 'Crystal Palace Sieg', 'Leeds Sieg' und 'Arsenal Sieg' zuletzt 100% — aehnliche Form-Edge-Konstellation. VALUE."
+          "begruendung": "Sunderland direkter Auswaertssieg @ 1.95 entspricht 51% impl., Modelle sehen 44-50%. Form-Klassendifferenz klar pro Sunderland. Quote im sweet-spot 1.50-2.00 (51.7% Hitrate aber konservativ als VALUE). PL-Liga +18.7%. Lt. Bilanz: 'Crystal Palace Sieg', 'Leeds Sieg' und 'Arsenal Sieg' zuletzt 100% — aehnliche Form-Edge-Konstellation. VALUE.",
+          "empfohlener_einsatz_prozent": 1.0,
+          "id": "2026-05-02-wol-sun-2",
+          "faire_quote": 1.95
         },
         {
-          "tipp_id": "2026-05-02-wol-sun-3",
-          "markt": "Weniger als 2.5 Tore",
-          "auswahl": "Unter 2.5 Tore",
+          "markt": "Unter 2.5 Tore",
           "quote": 1.85,
           "kategorie": "value",
-          "einsatz_prozent": 0.75,
-          "begruendung": "Wolves zuhause torleer (1.0 Tor/Heimspiel in letzten 5), Sunderland auswaerts pragmatisch. Modell sieht 56% Wahrscheinlichkeit fuer Unter 2.5. Lt. Bilanz: 'Unter 2.5 Tore' 2/2 = 100% / +90% ROI — Goldgrube. Quote 1.85 = 54% impl., real 60%+. VALUE — knapp SAFE-faehig, aber Sunderland-Offensive kann mal explodieren, daher konservativ VALUE."
+          "begruendung": "Wolves zuhause torleer (1.0 Tor/Heimspiel in letzten 5), Sunderland auswaerts pragmatisch. Modell sieht 56% Wahrscheinlichkeit fuer Unter 2.5. Lt. Bilanz: 'Unter 2.5 Tore' 2/2 = 100% / +90% ROI — Goldgrube. Quote 1.85 = 54% impl., real 60%+. VALUE — knapp SAFE-faehig, aber Sunderland-Offensive kann mal explodieren, daher konservativ VALUE.",
+          "empfohlener_einsatz_prozent": 0.75,
+          "id": "2026-05-02-wol-sun-3",
+          "faire_quote": 1.85
         }
       ]
     },
@@ -479,40 +479,40 @@
       ],
       "tipps": [
         {
-          "tipp_id": "2026-05-02-ars-ful-1",
-          "markt": "Arsenal Sieg",
-          "auswahl": "Arsenal",
+          "markt": "Arsenal",
           "quote": 1.44,
           "kategorie": "safe",
-          "einsatz_prozent": 1.5,
-          "begruendung": "Arsenal direkter Heimsieg @ 1.44. PL-Klassendifferenz-Heim ist die staerkste verifizierte Goldgrube (Leeds-Burnley 4/4 am 01.05., PL-Liga 6/7 = 85.7%). Arsenal hat 13/16 Heimspiele gewonnen. Fulham auswaerts mittelmaessig, kein Saisonziel. Lt. Bilanz: 'Arsenal Sieg' war 1/1 = 100% / +65% ROI. SAFE — Klassendifferenz-Form-Heim-Pattern komplett erfuellt. CL-Doppelbelastung Risiko aber Arteta wird wegen Titel-Druck Topelf bringen."
+          "begruendung": "Arsenal direkter Heimsieg @ 1.44. PL-Klassendifferenz-Heim ist die staerkste verifizierte Goldgrube (Leeds-Burnley 4/4 am 01.05., PL-Liga 6/7 = 85.7%). Arsenal hat 13/16 Heimspiele gewonnen. Fulham auswaerts mittelmaessig, kein Saisonziel. Lt. Bilanz: 'Arsenal Sieg' war 1/1 = 100% / +65% ROI. SAFE — Klassendifferenz-Form-Heim-Pattern komplett erfuellt. CL-Doppelbelastung Risiko aber Arteta wird wegen Titel-Druck Topelf bringen.",
+          "empfohlener_einsatz_prozent": 1.5,
+          "id": "2026-05-02-ars-ful-1",
+          "faire_quote": 1.44
         },
         {
-          "tipp_id": "2026-05-02-ars-ful-2",
-          "markt": "Arsenal Mehr als 1.5 Tore",
-          "auswahl": "Arsenal Ueber 1.5 Team-Tore",
+          "markt": "Arsenal Ueber 1.5 Team-Tore",
           "quote": 1.4,
           "kategorie": "safe",
-          "einsatz_prozent": 1.0,
-          "begruendung": "Arsenal hat in 13/16 Heimspielen 2+ Tore erzielt. Fulham-Defensive auswaerts schwach (1.7 Gegentore/Spiel). Quote 1.40 = 71% impl., real 80%+. Lt. Bilanz: 'Liverpool Mehr als 1.5 Tore' war 1/1 = 100% / +45% ROI — analoge Top-Heimteam-Dynamik. Quote-Range 1.00-1.50 hat 77.5% Hitrate. SAFE."
+          "begruendung": "Arsenal hat in 13/16 Heimspielen 2+ Tore erzielt. Fulham-Defensive auswaerts schwach (1.7 Gegentore/Spiel). Quote 1.40 = 71% impl., real 80%+. Lt. Bilanz: 'Liverpool Mehr als 1.5 Tore' war 1/1 = 100% / +45% ROI — analoge Top-Heimteam-Dynamik. Quote-Range 1.00-1.50 hat 77.5% Hitrate. SAFE.",
+          "empfohlener_einsatz_prozent": 1.0,
+          "id": "2026-05-02-ars-ful-2",
+          "faire_quote": 1.4
         },
         {
-          "tipp_id": "2026-05-02-ars-ful-3",
-          "markt": "Bukayo Saka trifft (jederzeit)",
-          "auswahl": "Bukayo Saka Tor",
+          "markt": "Bukayo Saka Tor",
           "quote": 2.5,
           "kategorie": "value",
-          "einsatz_prozent": 0.5,
-          "begruendung": "Saka in 5 von letzten 7 Heimspielen mit Torbeteiligung, Top-Scorer Arsenal. Plus: bet365-Einwechslungs-Boost bei Arsenal — wenn Saka in 70. Min ausgewechselt wird, zaehlt Tor des Ersatzes (Trossard/Sterling). Lt. Bilanz: Torschuetzen-Markt heterogen — daher VALUE und nur 0.5% Einsatz. Moonshot-Potenzial."
+          "begruendung": "Saka in 5 von letzten 7 Heimspielen mit Torbeteiligung, Top-Scorer Arsenal. Plus: bet365-Einwechslungs-Boost bei Arsenal — wenn Saka in 70. Min ausgewechselt wird, zaehlt Tor des Ersatzes (Trossard/Sterling). Lt. Bilanz: Torschuetzen-Markt heterogen — daher VALUE und nur 0.5% Einsatz. Moonshot-Potenzial.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "2026-05-02-ars-ful-3",
+          "faire_quote": 2.5
         },
         {
-          "tipp_id": "2026-05-02-ars-ful-4",
-          "markt": "Arsenal Sieg & Beide Teams treffen: Nein",
-          "auswahl": "Arsenal Sieg ohne Gegentor",
+          "markt": "Arsenal Sieg ohne Gegentor",
           "quote": 2.35,
           "kategorie": "value",
-          "einsatz_prozent": 0.5,
-          "begruendung": "Arsenal zu Null in 9 von 16 Heimspielen (56%). Fulham auswaerts torleer in 5 von 15 Spielen. Kombi-Single 'Arsenal Sieg + BTTS Nein' @ 2.35 entspricht ~43% impl., real ~45%. Lt. Bilanz: 'Spurs Sieg & Unter 215.5 Kombi-Single' war 1/1 = 100% / +110% ROI — analoge Kombi-Single-Logik."
+          "begruendung": "Arsenal zu Null in 9 von 16 Heimspielen (56%). Fulham auswaerts torleer in 5 von 15 Spielen. Kombi-Single 'Arsenal Sieg + BTTS Nein' @ 2.35 entspricht ~43% impl., real ~45%. Lt. Bilanz: 'Spurs Sieg & Unter 215.5 Kombi-Single' war 1/1 = 100% / +110% ROI — analoge Kombi-Single-Logik.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "2026-05-02-ars-ful-4",
+          "faire_quote": 2.35
         }
       ]
     },
@@ -533,31 +533,31 @@
       ],
       "tipps": [
         {
-          "tipp_id": "2026-05-02-vil-lev-1",
-          "markt": "Villarreal Doppelte Chance (1X)",
-          "auswahl": "Villarreal oder Unentschieden",
+          "markt": "Villarreal oder Unentschieden",
           "quote": 1.18,
           "kategorie": "safe",
-          "einsatz_prozent": 1.5,
-          "begruendung": "Villarreal zuhause 12/15 Spielen min. 1 Punkt. Levante auswaerts katastrophal (3 Siege in 15). DC 1X @ 1.18 = 85% impl., real 88%+. Lt. Bilanz: DC-Markt-Familie ist Goldgrube (mehrfach 100%). LaLiga-Liga-Bilanz +0.4% (knapp positiv) — kein Booster aber kein Discount. SAFE."
+          "begruendung": "Villarreal zuhause 12/15 Spielen min. 1 Punkt. Levante auswaerts katastrophal (3 Siege in 15). DC 1X @ 1.18 = 85% impl., real 88%+. Lt. Bilanz: DC-Markt-Familie ist Goldgrube (mehrfach 100%). LaLiga-Liga-Bilanz +0.4% (knapp positiv) — kein Booster aber kein Discount. SAFE.",
+          "empfohlener_einsatz_prozent": 1.5,
+          "id": "2026-05-02-vil-lev-1",
+          "faire_quote": 1.18
         },
         {
-          "tipp_id": "2026-05-02-vil-lev-2",
-          "markt": "Villarreal Sieg",
-          "auswahl": "Villarreal",
+          "markt": "Villarreal",
           "quote": 1.68,
           "kategorie": "value",
-          "einsatz_prozent": 1.0,
-          "begruendung": "Villarreal direkter Heimsieg @ 1.68 = 60% impl., Modelle 56-64%. Lt. Bilanz: Quote-Range 1.50-2.00 hat -7.3% ROI — daher VALUE statt SAFE. Klassendifferenz-Heim-Pattern aber gegeben (Villarreal Top-3 vs Levante Klassenerhaltskandidat). Bet365-Goldgrube DC-Familie verstaerkt. VALUE."
+          "begruendung": "Villarreal direkter Heimsieg @ 1.68 = 60% impl., Modelle 56-64%. Lt. Bilanz: Quote-Range 1.50-2.00 hat -7.3% ROI — daher VALUE statt SAFE. Klassendifferenz-Heim-Pattern aber gegeben (Villarreal Top-3 vs Levante Klassenerhaltskandidat). Bet365-Goldgrube DC-Familie verstaerkt. VALUE.",
+          "empfohlener_einsatz_prozent": 1.0,
+          "id": "2026-05-02-vil-lev-2",
+          "faire_quote": 1.68
         },
         {
-          "tipp_id": "2026-05-02-vil-lev-3",
-          "markt": "Mehr als 2.5 Tore",
-          "auswahl": "Ueber 2.5 Tore",
+          "markt": "Ueber 2.5 Tore",
           "quote": 1.85,
           "kategorie": "value",
-          "einsatz_prozent": 0.5,
-          "begruendung": "Villarreal zuhause Tor-orientiert (2.45 Tore/Heim involviert). Levante muss offensiv kommen, gibt Raeume. Quote 1.85 = 54% impl., real 58%+. Lt. Bilanz: Tor-Markt heterogen, daher kleiner Einsatz. VALUE."
+          "begruendung": "Villarreal zuhause Tor-orientiert (2.45 Tore/Heim involviert). Levante muss offensiv kommen, gibt Raeume. Quote 1.85 = 54% impl., real 58%+. Lt. Bilanz: Tor-Markt heterogen, daher kleiner Einsatz. VALUE.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "2026-05-02-vil-lev-3",
+          "faire_quote": 1.85
         }
       ]
     },
@@ -578,31 +578,31 @@
       ],
       "tipps": [
         {
-          "tipp_id": "2026-05-02-val-atl-1",
-          "markt": "Valencia Doppelte Chance (1X)",
-          "auswahl": "Valencia oder Unentschieden",
+          "markt": "Valencia oder Unentschieden",
           "quote": 1.3,
           "kategorie": "safe",
-          "einsatz_prozent": 1.5,
-          "begruendung": "Atletico rotiert vor CL-Rueckspiel, Valencia zuhause Mestalla-stark. DC 1X @ 1.30 = 77% impl., real 80%+. Lt. Bilanz: DC-Markt-Familie ist Goldgrube. 'Atletico Doppelte Chance (1X)' war 1/1 100% — analoge DC-Logik. Pinnacle-Edge gegen Markt durch Rotation eingepreist. SAFE."
+          "begruendung": "Atletico rotiert vor CL-Rueckspiel, Valencia zuhause Mestalla-stark. DC 1X @ 1.30 = 77% impl., real 80%+. Lt. Bilanz: DC-Markt-Familie ist Goldgrube. 'Atletico Doppelte Chance (1X)' war 1/1 100% — analoge DC-Logik. Pinnacle-Edge gegen Markt durch Rotation eingepreist. SAFE.",
+          "empfohlener_einsatz_prozent": 1.5,
+          "id": "2026-05-02-val-atl-1",
+          "faire_quote": 1.3
         },
         {
-          "tipp_id": "2026-05-02-val-atl-2",
-          "markt": "Valencia Sieg",
-          "auswahl": "Valencia",
+          "markt": "Valencia",
           "quote": 1.76,
           "kategorie": "value",
-          "einsatz_prozent": 1.0,
-          "begruendung": "Valencia direkter Heimsieg @ 1.76 = 57% impl., Modelle 47-57%. Atletico CL-rotiert massiv. Lt. Bilanz: Quote-Range 1.50-2.00 hat -7.3% ROI — daher VALUE statt SAFE. CLAUDE.md-Lesson: 'Champions koennen rotieren — Underdogs nutzen das' bestaetigt das Setup. VALUE."
+          "begruendung": "Valencia direkter Heimsieg @ 1.76 = 57% impl., Modelle 47-57%. Atletico CL-rotiert massiv. Lt. Bilanz: Quote-Range 1.50-2.00 hat -7.3% ROI — daher VALUE statt SAFE. CLAUDE.md-Lesson: 'Champions koennen rotieren — Underdogs nutzen das' bestaetigt das Setup. VALUE.",
+          "empfohlener_einsatz_prozent": 1.0,
+          "id": "2026-05-02-val-atl-2",
+          "faire_quote": 1.76
         },
         {
-          "tipp_id": "2026-05-02-val-atl-3",
-          "markt": "Weniger als 2.5 Tore",
-          "auswahl": "Unter 2.5 Tore",
+          "markt": "Unter 2.5 Tore",
           "quote": 1.95,
           "kategorie": "value",
-          "einsatz_prozent": 0.5,
-          "begruendung": "Hinspiel war 1:0 (1 Tor gesamt), Atletico mit Rotations-Defensive vorsichtig. Valencia spielt zuhause oft 2:1 oder 1:0. Quote 1.95 = 51% impl., real 55%+. Lt. Bilanz: 'Unter 2.5 Tore' 2/2 = 100% / +90% ROI — Goldgrube. VALUE — knapp SAFE-faehig aber Atletico kann mit Star-Rotation auch mal aufdrehen."
+          "begruendung": "Hinspiel war 1:0 (1 Tor gesamt), Atletico mit Rotations-Defensive vorsichtig. Valencia spielt zuhause oft 2:1 oder 1:0. Quote 1.95 = 51% impl., real 55%+. Lt. Bilanz: 'Unter 2.5 Tore' 2/2 = 100% / +90% ROI — Goldgrube. VALUE — knapp SAFE-faehig aber Atletico kann mit Star-Rotation auch mal aufdrehen.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "2026-05-02-val-atl-3",
+          "faire_quote": 1.95
         }
       ]
     },
@@ -623,31 +623,31 @@
       ],
       "tipps": [
         {
-          "tipp_id": "2026-05-02-ala-ath-1",
-          "markt": "Alaves Doppelte Chance (1X)",
-          "auswahl": "Alaves oder Unentschieden",
+          "markt": "Alaves oder Unentschieden",
           "quote": 1.55,
           "kategorie": "value",
-          "einsatz_prozent": 1.0,
-          "begruendung": "Alaves zuhause stark, Athletic auswaerts mittelmaessig. Motivations-Asymmetrie: Alaves Klassenerhalt vs Athletic Mid-Table-Vakuum. DC 1X @ 1.55 = 65% impl., real 67%+. Lt. Bilanz: DC-Markt-Familie Goldgrube, aber Athletic in Form. VALUE."
+          "begruendung": "Alaves zuhause stark, Athletic auswaerts mittelmaessig. Motivations-Asymmetrie: Alaves Klassenerhalt vs Athletic Mid-Table-Vakuum. DC 1X @ 1.55 = 65% impl., real 67%+. Lt. Bilanz: DC-Markt-Familie Goldgrube, aber Athletic in Form. VALUE.",
+          "empfohlener_einsatz_prozent": 1.0,
+          "id": "2026-05-02-ala-ath-1",
+          "faire_quote": 1.55
         },
         {
-          "tipp_id": "2026-05-02-ala-ath-2",
-          "markt": "Weniger als 2.5 Tore",
-          "auswahl": "Unter 2.5 Tore",
+          "markt": "Unter 2.5 Tore",
           "quote": 1.75,
           "kategorie": "value",
-          "einsatz_prozent": 0.75,
-          "begruendung": "Beide Teams torleer (Alaves 1.1 Tore/Heim, Athletic 1.2 Tore/Auswaerts). H2H-Trend: 4 von letzten 5 Direktduellen unter 2.5 Tore. Modell sieht 54%. Quote 1.75 = 57% impl., real 60%+. Lt. Bilanz: 'Unter 2.5 Tore' 2/2 = 100% / +90% ROI — Goldgrube. VALUE."
+          "begruendung": "Beide Teams torleer (Alaves 1.1 Tore/Heim, Athletic 1.2 Tore/Auswaerts). H2H-Trend: 4 von letzten 5 Direktduellen unter 2.5 Tore. Modell sieht 54%. Quote 1.75 = 57% impl., real 60%+. Lt. Bilanz: 'Unter 2.5 Tore' 2/2 = 100% / +90% ROI — Goldgrube. VALUE.",
+          "empfohlener_einsatz_prozent": 0.75,
+          "id": "2026-05-02-ala-ath-2",
+          "faire_quote": 1.75
         },
         {
-          "tipp_id": "2026-05-02-ala-ath-3",
-          "markt": "Beide Teams treffen: NEIN",
-          "auswahl": "BTTS Nein",
+          "markt": "BTTS Nein",
           "quote": 1.95,
           "kategorie": "wackel",
-          "einsatz_prozent": 0.5,
-          "begruendung": "Alaves zuhause defensivlastig, Athletic mit Rotation. BTTS-Nein @ 1.95 = 51% impl. Lt. Bilanz: BTTS-JA -43% ROI, Inverse logisch. WACKEL — Athletic-Sturm Nico Williams kann jederzeit treffen."
+          "begruendung": "Alaves zuhause defensivlastig, Athletic mit Rotation. BTTS-Nein @ 1.95 = 51% impl. Lt. Bilanz: BTTS-JA -43% ROI, Inverse logisch. WACKEL — Athletic-Sturm Nico Williams kann jederzeit treffen.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "2026-05-02-ala-ath-3",
+          "faire_quote": 1.95
         }
       ]
     },
@@ -668,40 +668,40 @@
       ],
       "tipps": [
         {
-          "tipp_id": "2026-05-02-osa-bar-1",
-          "markt": "Barcelona Doppelte Chance (X2)",
-          "auswahl": "Unentschieden oder Barcelona",
+          "markt": "Unentschieden oder Barcelona",
           "quote": 1.18,
           "kategorie": "safe",
-          "einsatz_prozent": 1.5,
-          "begruendung": "Barcelona als Titel-Champion in 16 von 17 LaLiga-Auswaertsspielen min. 1 Punkt geholt. Osasuna ohne CL-Druck weniger gefaehrlich. DC X2 @ 1.18 = 85% impl., real 90%+. Lt. Bilanz: DC-Markt-Familie ist Goldgrube. 'Barcelona Doppelte Chance (X2)' war 1/1 = 100% / +20% ROI. SAFE."
+          "begruendung": "Barcelona als Titel-Champion in 16 von 17 LaLiga-Auswaertsspielen min. 1 Punkt geholt. Osasuna ohne CL-Druck weniger gefaehrlich. DC X2 @ 1.18 = 85% impl., real 90%+. Lt. Bilanz: DC-Markt-Familie ist Goldgrube. 'Barcelona Doppelte Chance (X2)' war 1/1 = 100% / +20% ROI. SAFE.",
+          "empfohlener_einsatz_prozent": 1.5,
+          "id": "2026-05-02-osa-bar-1",
+          "faire_quote": 1.18
         },
         {
-          "tipp_id": "2026-05-02-osa-bar-2",
-          "markt": "Barcelona Sieg",
-          "auswahl": "Barcelona",
+          "markt": "Barcelona",
           "quote": 1.55,
           "kategorie": "value",
-          "einsatz_prozent": 1.0,
-          "begruendung": "Barcelona direkter Auswaertssieg @ 1.55 = 65% impl. Klassendifferenz extrem. Lt. Bilanz: Quote-Range 1.50-2.00 hat -7.3% ROI — daher VALUE statt SAFE (konservativ trotz starker Konstellation). El Sadar ist tueckisch, Osasuna kann auch zu null halten und 0:0 erzwingen. VALUE."
+          "begruendung": "Barcelona direkter Auswaertssieg @ 1.55 = 65% impl. Klassendifferenz extrem. Lt. Bilanz: Quote-Range 1.50-2.00 hat -7.3% ROI — daher VALUE statt SAFE (konservativ trotz starker Konstellation). El Sadar ist tueckisch, Osasuna kann auch zu null halten und 0:0 erzwingen. VALUE.",
+          "empfohlener_einsatz_prozent": 1.0,
+          "id": "2026-05-02-osa-bar-2",
+          "faire_quote": 1.55
         },
         {
-          "tipp_id": "2026-05-02-osa-bar-3",
-          "markt": "Robert Lewandowski trifft (jederzeit)",
-          "auswahl": "Lewandowski Tor",
+          "markt": "Lewandowski Tor",
           "quote": 1.95,
           "kategorie": "value",
-          "einsatz_prozent": 0.5,
-          "begruendung": "Lewandowski Top-Scorer LaLiga, traf in 12 von 17 Auswaertsspielen. Plus: bet365-Einwechslungs-Boost — wenn Lewy ausgewechselt wird, zaehlt Tor des Ersatzes (Ferran/Yamal). Lt. Bilanz: 'Lewandowski trifft' war 1/1 verloren — 0% / -100% ROI bei kleinem Sample. Daher VALUE und nur 0.5% Einsatz, nicht SAFE trotz Logik."
+          "begruendung": "Lewandowski Top-Scorer LaLiga, traf in 12 von 17 Auswaertsspielen. Plus: bet365-Einwechslungs-Boost — wenn Lewy ausgewechselt wird, zaehlt Tor des Ersatzes (Ferran/Yamal). Lt. Bilanz: 'Lewandowski trifft' war 1/1 verloren — 0% / -100% ROI bei kleinem Sample. Daher VALUE und nur 0.5% Einsatz, nicht SAFE trotz Logik.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "2026-05-02-osa-bar-3",
+          "faire_quote": 1.95
         },
         {
-          "tipp_id": "2026-05-02-osa-bar-4",
-          "markt": "Mehr als 2.5 Tore",
-          "auswahl": "Ueber 2.5 Tore",
+          "markt": "Ueber 2.5 Tore",
           "quote": 1.55,
           "kategorie": "value",
-          "einsatz_prozent": 0.75,
-          "begruendung": "Barcelona offensiv stark (2.45 Tore/Auswaerts), Osasuna zuhause auch immer beteiligt. Hinspiel war 4-Tore-Spiel. Quote 1.55 = 65% impl. Lt. Bilanz: 'Mehr als 2.5 Tore' -15% ROI — daher VALUE konservativ."
+          "begruendung": "Barcelona offensiv stark (2.45 Tore/Auswaerts), Osasuna zuhause auch immer beteiligt. Hinspiel war 4-Tore-Spiel. Quote 1.55 = 65% impl. Lt. Bilanz: 'Mehr als 2.5 Tore' -15% ROI — daher VALUE konservativ.",
+          "empfohlener_einsatz_prozent": 0.75,
+          "id": "2026-05-02-osa-bar-4",
+          "faire_quote": 1.55
         }
       ]
     },
@@ -722,13 +722,13 @@
       ],
       "tipps": [
         {
-          "tipp_id": "2026-05-02-udi-tor-1",
-          "markt": "Weniger als 2.5 Tore",
-          "auswahl": "Unter 2.5 Tore",
+          "markt": "Unter 2.5 Tore",
           "quote": 1.65,
           "kategorie": "wackel",
-          "einsatz_prozent": 0.5,
-          "begruendung": "Beobachtungs-Liga: max wackel. Udinese-Heimspiele 0 Tore in letzten 3, Torino diszipliniert unter D'Aversa. Quote 1.65 = 61% impl., real 65%+. Lt. Bilanz: 'Unter 2.5 Tore' 2/2 = 100% — Goldgrube. ABER: Serie A insgesamt -32.5% ROI, daher konservativ als WACKEL und kleiner Einsatz. Kein SAFE/VALUE wegen Beobachtungs-Status."
+          "begruendung": "Beobachtungs-Liga: max wackel. Udinese-Heimspiele 0 Tore in letzten 3, Torino diszipliniert unter D'Aversa. Quote 1.65 = 61% impl., real 65%+. Lt. Bilanz: 'Unter 2.5 Tore' 2/2 = 100% — Goldgrube. ABER: Serie A insgesamt -32.5% ROI, daher konservativ als WACKEL und kleiner Einsatz. Kein SAFE/VALUE wegen Beobachtungs-Status.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "2026-05-02-udi-tor-1",
+          "faire_quote": 1.65
         }
       ]
     },
@@ -749,13 +749,13 @@
       ],
       "tipps": [
         {
-          "tipp_id": "2026-05-02-com-nap-1",
-          "markt": "Doppelte Chance Como oder Unentschieden (1X)",
-          "auswahl": "Como oder Unentschieden",
+          "markt": "Como oder Unentschieden",
           "quote": 1.5,
           "kategorie": "wackel",
-          "einsatz_prozent": 0.5,
-          "begruendung": "Beobachtungs-Liga: max wackel. Como zuhause 5 von 6 ungeschlagen, Napoli mit Saisonzielen aber Reise-Inkonstanz. Quote 1.50 = 67% impl. Lt. Bilanz: DC-Familie Goldgrube — aber Serie A -32.5% Liga-ROI killt das Edge. WACKEL trotz logisch starker Konstellation."
+          "begruendung": "Beobachtungs-Liga: max wackel. Como zuhause 5 von 6 ungeschlagen, Napoli mit Saisonzielen aber Reise-Inkonstanz. Quote 1.50 = 67% impl. Lt. Bilanz: DC-Familie Goldgrube — aber Serie A -32.5% Liga-ROI killt das Edge. WACKEL trotz logisch starker Konstellation.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "2026-05-02-com-nap-1",
+          "faire_quote": 1.5
         }
       ]
     },
@@ -776,13 +776,13 @@
       ],
       "tipps": [
         {
-          "tipp_id": "2026-05-02-ata-gen-1",
-          "markt": "Atalanta Doppelte Chance (1X)",
-          "auswahl": "Atalanta oder Unentschieden",
+          "markt": "Atalanta oder Unentschieden",
           "quote": 1.15,
           "kategorie": "wackel",
-          "einsatz_prozent": 0.5,
-          "begruendung": "Beobachtungs-Liga: max wackel. Atalanta zuhause selten verloren, Genoa qualitaetlich klar unterlegen. Quote 1.15 = 87% impl. Lt. Bilanz: DC-Familie Goldgrube. ABER Serie A -32.5% ROI = Discount. WACKEL trotz starker Logik. Nur als Bein nutzbar."
+          "begruendung": "Beobachtungs-Liga: max wackel. Atalanta zuhause selten verloren, Genoa qualitaetlich klar unterlegen. Quote 1.15 = 87% impl. Lt. Bilanz: DC-Familie Goldgrube. ABER Serie A -32.5% ROI = Discount. WACKEL trotz starker Logik. Nur als Bein nutzbar.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "2026-05-02-ata-gen-1",
+          "faire_quote": 1.15
         }
       ]
     },
@@ -803,22 +803,22 @@
       ],
       "tipps": [
         {
-          "tipp_id": "2026-05-02-nan-mar-1",
-          "markt": "Marseille Doppelte Chance (X2)",
-          "auswahl": "Unentschieden oder Marseille",
+          "markt": "Unentschieden oder Marseille",
           "quote": 1.3,
           "kategorie": "value",
-          "einsatz_prozent": 0.75,
-          "begruendung": "Marseille auswaerts solide (8W-3D-4L), Nantes trotz Heimstaerke qualitativ unterlegen. Aber Motivations-Asymmetrie zugunsten Nantes (Klassenerhalt) macht Direkt-Sieg risky. DC X2 @ 1.30 = 77% impl. Lt. Bilanz: 'Olympique Marseille Sieg' war 1/1 verloren — daher VALUE statt SAFE. Ligue 1 -50% ROI in letzten 30 Tagen (nur 2 Tipps, kein Beobachtung), aber konservativ als VALUE. DC-Familie ist Goldgrube."
+          "begruendung": "Marseille auswaerts solide (8W-3D-4L), Nantes trotz Heimstaerke qualitativ unterlegen. Aber Motivations-Asymmetrie zugunsten Nantes (Klassenerhalt) macht Direkt-Sieg risky. DC X2 @ 1.30 = 77% impl. Lt. Bilanz: 'Olympique Marseille Sieg' war 1/1 verloren — daher VALUE statt SAFE. Ligue 1 -50% ROI in letzten 30 Tagen (nur 2 Tipps, kein Beobachtung), aber konservativ als VALUE. DC-Familie ist Goldgrube.",
+          "empfohlener_einsatz_prozent": 0.75,
+          "id": "2026-05-02-nan-mar-1",
+          "faire_quote": 1.3
         },
         {
-          "tipp_id": "2026-05-02-nan-mar-2",
-          "markt": "Mehr als 1.5 Tore",
-          "auswahl": "Ueber 1.5 Tore",
+          "markt": "Ueber 1.5 Tore",
           "quote": 1.3,
           "kategorie": "value",
-          "einsatz_prozent": 0.5,
-          "begruendung": "Nantes-Heimspiele 2.4 Tore/Spiel involviert, Marseille auswaerts 2.5 Tore/Spiel. Beide Teams brauchen Tore (Nantes Klassenerhalt, Marseille Sieg-Pflicht). Lt. Bilanz: Tor-Markt heterogen, daher kleiner Einsatz."
+          "begruendung": "Nantes-Heimspiele 2.4 Tore/Spiel involviert, Marseille auswaerts 2.5 Tore/Spiel. Beide Teams brauchen Tore (Nantes Klassenerhalt, Marseille Sieg-Pflicht). Lt. Bilanz: Tor-Markt heterogen, daher kleiner Einsatz.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "2026-05-02-nan-mar-2",
+          "faire_quote": 1.3
         }
       ]
     },
@@ -840,31 +840,31 @@
       ],
       "tipps": [
         {
-          "tipp_id": "2026-05-02-psg-lor-1",
-          "markt": "PSG Doppelte Chance (1X)",
-          "auswahl": "PSG oder Unentschieden",
+          "markt": "PSG oder Unentschieden",
           "quote": 1.05,
           "kategorie": "safe",
-          "einsatz_prozent": 1.0,
-          "begruendung": "PSG zuhause selten gepatzt, selbst rotiert noch klar staerker als Lorient. DC 1X @ 1.05 = 95% impl. Lt. Bilanz: 'Doppelte Chance PSG oder Unentschieden (1X)' war 1/1 = 100% / +40% ROI — direkte Bestaetigung des Marktes. SAFE — aber niedrige Quote = nur als SAFE-Kombi-Bein interessant."
+          "begruendung": "PSG zuhause selten gepatzt, selbst rotiert noch klar staerker als Lorient. DC 1X @ 1.05 = 95% impl. Lt. Bilanz: 'Doppelte Chance PSG oder Unentschieden (1X)' war 1/1 = 100% / +40% ROI — direkte Bestaetigung des Marktes. SAFE — aber niedrige Quote = nur als SAFE-Kombi-Bein interessant.",
+          "empfohlener_einsatz_prozent": 1.0,
+          "id": "2026-05-02-psg-lor-1",
+          "faire_quote": 1.05
         },
         {
-          "tipp_id": "2026-05-02-psg-lor-2",
-          "markt": "Weniger als 3.5 Tore",
-          "auswahl": "Unter 3.5 Tore",
+          "markt": "Unter 3.5 Tore",
           "quote": 1.65,
           "kategorie": "value",
-          "einsatz_prozent": 0.75,
-          "begruendung": "20/30 PSG-L1-Spiele endeten Unter 3.5 Tore, Lorient defensiv pragmatisch. PSG mit Rotation kontrolliert 2:0 oder 3:0 statt Spektakel. Quote 1.65 = 61% impl., real 65%+. Lt. Bilanz: Unter-Markt-Familie 100% (Unter 2.5 2/2). VALUE."
+          "begruendung": "20/30 PSG-L1-Spiele endeten Unter 3.5 Tore, Lorient defensiv pragmatisch. PSG mit Rotation kontrolliert 2:0 oder 3:0 statt Spektakel. Quote 1.65 = 61% impl., real 65%+. Lt. Bilanz: Unter-Markt-Familie 100% (Unter 2.5 2/2). VALUE.",
+          "empfohlener_einsatz_prozent": 0.75,
+          "id": "2026-05-02-psg-lor-2",
+          "faire_quote": 1.65
         },
         {
-          "tipp_id": "2026-05-02-psg-lor-3",
-          "markt": "Ousmane Dembele trifft (jederzeit)",
-          "auswahl": "Dembele Tor",
+          "markt": "Dembele Tor",
           "quote": 2.1,
           "kategorie": "value",
-          "einsatz_prozent": 0.5,
-          "begruendung": "Dembele Top-Form, Pflicht-Mann auch in Rotation. Plus: bet365-Einwechslungs-Boost — wenn Dembele ausgewechselt wird, zaehlt Tor des Ersatzes (Asensio/Mbappe-Backup). Lt. Bilanz: 'Ousmane Dembele Jederzeit-Torschuetze' war 1/1 = 100% / +145% ROI — Goldgrube! Erneuter Einsatz @ 2.10 = VALUE."
+          "begruendung": "Dembele Top-Form, Pflicht-Mann auch in Rotation. Plus: bet365-Einwechslungs-Boost — wenn Dembele ausgewechselt wird, zaehlt Tor des Ersatzes (Asensio/Mbappe-Backup). Lt. Bilanz: 'Ousmane Dembele Jederzeit-Torschuetze' war 1/1 = 100% / +145% ROI — Goldgrube! Erneuter Einsatz @ 2.10 = VALUE.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "2026-05-02-psg-lor-3",
+          "faire_quote": 2.1
         }
       ]
     },
@@ -885,31 +885,31 @@
       ],
       "tipps": [
         {
-          "tipp_id": "2026-05-02-met-mon-1",
-          "markt": "Monaco Doppelte Chance (X2)",
-          "auswahl": "Unentschieden oder Monaco",
+          "markt": "Unentschieden oder Monaco",
           "quote": 1.18,
           "kategorie": "safe",
-          "einsatz_prozent": 1.0,
-          "begruendung": "Monaco klassendifferent staerker, Metz im freien Fall. DC X2 @ 1.18 = 85% impl., real 90%+. Lt. Bilanz: DC-Familie ist Goldgrube. Klassendifferenz-Auswaerts-Pattern aehnlich PL-Goldgrube. SAFE — Quote zu niedrig fuer Standalone, aber stark als Kombi-Bein."
+          "begruendung": "Monaco klassendifferent staerker, Metz im freien Fall. DC X2 @ 1.18 = 85% impl., real 90%+. Lt. Bilanz: DC-Familie ist Goldgrube. Klassendifferenz-Auswaerts-Pattern aehnlich PL-Goldgrube. SAFE — Quote zu niedrig fuer Standalone, aber stark als Kombi-Bein.",
+          "empfohlener_einsatz_prozent": 1.0,
+          "id": "2026-05-02-met-mon-1",
+          "faire_quote": 1.18
         },
         {
-          "tipp_id": "2026-05-02-met-mon-2",
-          "markt": "Mehr als 2.5 Tore",
-          "auswahl": "Ueber 2.5 Tore",
+          "markt": "Ueber 2.5 Tore",
           "quote": 1.5,
           "kategorie": "value",
-          "einsatz_prozent": 0.75,
-          "begruendung": "Hinspiel 7-Tore-Spiel (5:2). Metz-Defensive im freien Fall, Monaco offensiv stark mit Balogun in Form. Quote 1.50 = 67% impl., real 70%+. Lt. Bilanz: 'Mehr als 2.5 Tore' -15% ROI — daher VALUE konservativ."
+          "begruendung": "Hinspiel 7-Tore-Spiel (5:2). Metz-Defensive im freien Fall, Monaco offensiv stark mit Balogun in Form. Quote 1.50 = 67% impl., real 70%+. Lt. Bilanz: 'Mehr als 2.5 Tore' -15% ROI — daher VALUE konservativ.",
+          "empfohlener_einsatz_prozent": 0.75,
+          "id": "2026-05-02-met-mon-2",
+          "faire_quote": 1.5
         },
         {
-          "tipp_id": "2026-05-02-met-mon-3",
-          "markt": "Folarin Balogun trifft (jederzeit)",
-          "auswahl": "Balogun Tor",
+          "markt": "Balogun Tor",
           "quote": 2.2,
           "kategorie": "value",
-          "einsatz_prozent": 0.5,
-          "begruendung": "Balogun in 3 von letzten 4 Spielen getroffen, gegen schwache Metz-Defensive Top-Chance. Plus: bet365-Einwechslungs-Boost — wenn Balogun ausgewechselt wird (z.B. nach 70.), zaehlt Tor des Ersatzes (Embolo/Ben Yedder-Typ). Lt. Bilanz: Torschuetzen-Markt heterogen, daher VALUE."
+          "begruendung": "Balogun in 3 von letzten 4 Spielen getroffen, gegen schwache Metz-Defensive Top-Chance. Plus: bet365-Einwechslungs-Boost — wenn Balogun ausgewechselt wird (z.B. nach 70.), zaehlt Tor des Ersatzes (Embolo/Ben Yedder-Typ). Lt. Bilanz: Torschuetzen-Markt heterogen, daher VALUE.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "2026-05-02-met-mon-3",
+          "faire_quote": 2.2
         }
       ]
     },
@@ -930,22 +930,22 @@
       ],
       "tipps": [
         {
-          "tipp_id": "2026-05-02-nic-len-1",
-          "markt": "Lens Doppelte Chance (X2)",
-          "auswahl": "Unentschieden oder Lens",
+          "markt": "Unentschieden oder Lens",
           "quote": 1.3,
           "kategorie": "value",
-          "einsatz_prozent": 0.75,
-          "begruendung": "Lens auswaerts trotz Form-Daempfer klassendifferent staerker, Nice in Form-Krise. DC X2 @ 1.30 = 77% impl., real 80%+. Lt. Bilanz: DC-Familie Goldgrube. Aber Ligue 1 -50% ROI in Bilanz — daher VALUE statt SAFE konservativ. Pinnacle-Edge stark."
+          "begruendung": "Lens auswaerts trotz Form-Daempfer klassendifferent staerker, Nice in Form-Krise. DC X2 @ 1.30 = 77% impl., real 80%+. Lt. Bilanz: DC-Familie Goldgrube. Aber Ligue 1 -50% ROI in Bilanz — daher VALUE statt SAFE konservativ. Pinnacle-Edge stark.",
+          "empfohlener_einsatz_prozent": 0.75,
+          "id": "2026-05-02-nic-len-1",
+          "faire_quote": 1.3
         },
         {
-          "tipp_id": "2026-05-02-nic-len-2",
-          "markt": "Weniger als 2.5 Tore",
-          "auswahl": "Unter 2.5 Tore",
+          "markt": "Unter 2.5 Tore",
           "quote": 1.85,
           "kategorie": "value",
-          "einsatz_prozent": 0.75,
-          "begruendung": "6/7 letzte H2H Unter 2.5 Tore — strukturelles Defensiv-Pattern. Beide Teams pragmatisch. Quote 1.85 = 54% impl., real 60%+. Lt. Bilanz: 'Unter 2.5 Tore' 2/2 = 100% / +90% ROI — Goldgrube. VALUE — knapp SAFE-faehig aber Lens-Offensive kann mal aufdrehen."
+          "begruendung": "6/7 letzte H2H Unter 2.5 Tore — strukturelles Defensiv-Pattern. Beide Teams pragmatisch. Quote 1.85 = 54% impl., real 60%+. Lt. Bilanz: 'Unter 2.5 Tore' 2/2 = 100% / +90% ROI — Goldgrube. VALUE — knapp SAFE-faehig aber Lens-Offensive kann mal aufdrehen.",
+          "empfohlener_einsatz_prozent": 0.75,
+          "id": "2026-05-02-nic-len-2",
+          "faire_quote": 1.85
         }
       ]
     },
@@ -964,13 +964,13 @@
       ],
       "tipps": [
         {
-          "tipp_id": "2026-05-02-kie-bra-1",
-          "markt": "Holstein Kiel Doppelte Chance (1X)",
-          "auswahl": "Kiel oder Unentschieden",
+          "markt": "Kiel oder Unentschieden",
           "quote": 1.4,
           "kategorie": "wackel",
-          "einsatz_prozent": 0.5,
-          "begruendung": "Beobachtungs-Liga 2.BL: max wackel. Kiel-Heimstaerke + Braunschweig-Form-Krise. DC 1X @ 1.40 = 71% impl. Lt. Bilanz: DC-Familie Goldgrube — aber 2.BL -40% ROI killt Edge. WACKEL trotz logisch starker Konstellation."
+          "begruendung": "Beobachtungs-Liga 2.BL: max wackel. Kiel-Heimstaerke + Braunschweig-Form-Krise. DC 1X @ 1.40 = 71% impl. Lt. Bilanz: DC-Familie Goldgrube — aber 2.BL -40% ROI killt Edge. WACKEL trotz logisch starker Konstellation.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "2026-05-02-kie-bra-1",
+          "faire_quote": 1.4
         }
       ]
     },
@@ -989,13 +989,13 @@
       ],
       "tipps": [
         {
-          "tipp_id": "2026-05-02-dre-kai-1",
-          "markt": "Dynamo Dresden Doppelte Chance (1X)",
-          "auswahl": "Dresden oder Unentschieden",
+          "markt": "Dresden oder Unentschieden",
           "quote": 1.3,
           "kategorie": "wackel",
-          "einsatz_prozent": 0.5,
-          "begruendung": "Beobachtungs-Liga: max wackel. Dresden-Heimvorteil + Lautern auswaerts-mittelmaessig. DC 1X @ 1.30 = 77% impl. Lt. Bilanz: 'Kaiserslautern Doppelte Chance (1X)' war 1/1 verloren — daher Inverse pro Dresden ist statistisch ok. 2.BL -40% Bluter killt Edge — WACKEL."
+          "begruendung": "Beobachtungs-Liga: max wackel. Dresden-Heimvorteil + Lautern auswaerts-mittelmaessig. DC 1X @ 1.30 = 77% impl. Lt. Bilanz: 'Kaiserslautern Doppelte Chance (1X)' war 1/1 verloren — daher Inverse pro Dresden ist statistisch ok. 2.BL -40% Bluter killt Edge — WACKEL.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "2026-05-02-dre-kai-1",
+          "faire_quote": 1.3
         }
       ]
     },
@@ -1014,13 +1014,13 @@
       ],
       "tipps": [
         {
-          "tipp_id": "2026-05-02-bie-boc-1",
-          "markt": "Mehr als 2.5 Tore",
-          "auswahl": "Ueber 2.5 Tore",
+          "markt": "Ueber 2.5 Tore",
           "quote": 1.8,
           "kategorie": "wackel",
-          "einsatz_prozent": 0.5,
-          "begruendung": "Beobachtungs-Liga: max wackel. Bielefeld-Heimspiele torreich (3:2 letztes), beide Defensives nicht topklasse. Quote 1.80 = 56% impl. Lt. Bilanz: Tor-Markt heterogen, 2.BL -40% Liga-Bluter — WACKEL."
+          "begruendung": "Beobachtungs-Liga: max wackel. Bielefeld-Heimspiele torreich (3:2 letztes), beide Defensives nicht topklasse. Quote 1.80 = 56% impl. Lt. Bilanz: Tor-Markt heterogen, 2.BL -40% Liga-Bluter — WACKEL.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "2026-05-02-bie-boc-1",
+          "faire_quote": 1.8
         }
       ]
     },
@@ -1040,13 +1040,13 @@
       ],
       "tipps": [
         {
-          "tipp_id": "2026-05-02-s04-f95-1",
-          "markt": "FC Schalke 04 Doppelte Chance (1X)",
-          "auswahl": "Schalke oder Unentschieden",
+          "markt": "Schalke oder Unentschieden",
           "quote": 1.18,
           "kategorie": "wackel",
-          "einsatz_prozent": 0.5,
-          "begruendung": "Beobachtungs-Liga: max wackel. Schalke 11 ungeschlagen, beste Heimbilanz Liga. Fortuna im Abstiegskampf. DC 1X @ 1.18 = 85% impl. Lt. Bilanz: 'Schalke 04 Doppelte Chance (X2)' war 1/1 = 100% bei Auswaerts — analog hier zuhause noch staerker. 2.BL -40% killt Edge — WACKEL."
+          "begruendung": "Beobachtungs-Liga: max wackel. Schalke 11 ungeschlagen, beste Heimbilanz Liga. Fortuna im Abstiegskampf. DC 1X @ 1.18 = 85% impl. Lt. Bilanz: 'Schalke 04 Doppelte Chance (X2)' war 1/1 = 100% bei Auswaerts — analog hier zuhause noch staerker. 2.BL -40% killt Edge — WACKEL.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "2026-05-02-s04-f95-1",
+          "faire_quote": 1.18
         }
       ]
     },
@@ -1067,31 +1067,31 @@
       ],
       "tipps": [
         {
-          "tipp_id": "2026-05-02-det-orl-1",
-          "markt": "Detroit Pistons Sieg (Moneyline)",
-          "auswahl": "Pistons",
+          "markt": "Pistons",
           "quote": 1.33,
           "kategorie": "value",
-          "einsatz_prozent": 0.75,
-          "begruendung": "Pistons als 1-Seed zuhause + G6-Momentum-Sieg + erfahrene Cunningham-Rolle. ML @ 1.33 = 75% impl., real 78%. Lt. Bilanz: NBA G6 -45.6% Beobachtung, aber G7 ist anderer Modus (Heim-Vorteil historisch staerker). Lt. Bilanz: 'Knicks Sieg (Moneyline)' und 'Cleveland Sieg (Moneyline)' jeweils 1/1 — analoge Heim-G7-Logik. VALUE — nicht SAFE wegen NBA-Cluster-Risiko."
+          "begruendung": "Pistons als 1-Seed zuhause + G6-Momentum-Sieg + erfahrene Cunningham-Rolle. ML @ 1.33 = 75% impl., real 78%. Lt. Bilanz: NBA G6 -45.6% Beobachtung, aber G7 ist anderer Modus (Heim-Vorteil historisch staerker). Lt. Bilanz: 'Knicks Sieg (Moneyline)' und 'Cleveland Sieg (Moneyline)' jeweils 1/1 — analoge Heim-G7-Logik. VALUE — nicht SAFE wegen NBA-Cluster-Risiko.",
+          "empfohlener_einsatz_prozent": 0.75,
+          "id": "2026-05-02-det-orl-1",
+          "faire_quote": 1.33
         },
         {
-          "tipp_id": "2026-05-02-det-orl-2",
-          "markt": "Magic +7.5 (Spread)",
-          "auswahl": "Magic +7.5",
+          "markt": "Magic +7.5",
           "quote": 1.91,
           "kategorie": "value",
-          "einsatz_prozent": 0.5,
-          "begruendung": "G7s sind statistisch enge Spiele (Median Spread ~5 Pkte). Magic verloren G6 trotz 24-Pkt-Fuehrung — koennen Pistons unter 8 halten. Spread @ 1.91 = 52% impl. Lt. Bilanz: 'Magic +3.5 (Spread)' und 'Magic +10.5 (Spread)' beide 1/1 = 100% / +91% ROI — Magic-Spread Goldgrube. VALUE."
+          "begruendung": "G7s sind statistisch enge Spiele (Median Spread ~5 Pkte). Magic verloren G6 trotz 24-Pkt-Fuehrung — koennen Pistons unter 8 halten. Spread @ 1.91 = 52% impl. Lt. Bilanz: 'Magic +3.5 (Spread)' und 'Magic +10.5 (Spread)' beide 1/1 = 100% / +91% ROI — Magic-Spread Goldgrube. VALUE.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "2026-05-02-det-orl-2",
+          "faire_quote": 1.91
         },
         {
-          "tipp_id": "2026-05-02-det-orl-3",
-          "markt": "Unter 204.5 Punkte (Total)",
-          "auswahl": "Unter 204.5 gesamt",
+          "markt": "Unter 204.5 gesamt",
           "quote": 1.91,
           "kategorie": "value",
-          "einsatz_prozent": 0.5,
-          "begruendung": "Lesson 02.05.: NBA-Closeout/Decider Defensiv-Schlachten widerlegen Star-Eskalations-These (Pistons-Magic G6 endete 172 Total bei Linie 211.5 — Massiv-Unter). G7s typisch defensiv. Quote 1.91 = 52% impl. Lt. Bilanz: NBA-Unter-Linien-Markt 4/5 vor 29.04. — Goldgrube, dann 29.04. einmal verloren. VALUE — nicht SAFE wegen Cunningham/Banchero-Eskalations-Restrisiko."
+          "begruendung": "Lesson 02.05.: NBA-Closeout/Decider Defensiv-Schlachten widerlegen Star-Eskalations-These (Pistons-Magic G6 endete 172 Total bei Linie 211.5 — Massiv-Unter). G7s typisch defensiv. Quote 1.91 = 52% impl. Lt. Bilanz: NBA-Unter-Linien-Markt 4/5 vor 29.04. — Goldgrube, dann 29.04. einmal verloren. VALUE — nicht SAFE wegen Cunningham/Banchero-Eskalations-Restrisiko.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "2026-05-02-det-orl-3",
+          "faire_quote": 1.91
         }
       ]
     },
@@ -1113,31 +1113,31 @@
       ],
       "tipps": [
         {
-          "tipp_id": "2026-05-02-bos-phi-1",
-          "markt": "Boston Celtics Sieg (Moneyline)",
-          "auswahl": "Celtics",
+          "markt": "Celtics",
           "quote": 1.32,
           "kategorie": "value",
-          "einsatz_prozent": 0.75,
-          "begruendung": "Celtics als Heim-G7-Favorit nach starker Defense-Saison. ML @ 1.32 = 76% impl. Lt. Bilanz: 'Boston Celtics Sieg' war 2/3 = 66.7% / +7% ROI — moderates Plus. 'Celtics Sieg (Moneyline)' war 1/1 verloren — daher VALUE statt SAFE. NBA G6 Beobachtung killt SAFE-Label, aber G7 zuhause als Champion-Team hat anderen Charakter. VALUE — bewusst kleiner Einsatz."
+          "begruendung": "Celtics als Heim-G7-Favorit nach starker Defense-Saison. ML @ 1.32 = 76% impl. Lt. Bilanz: 'Boston Celtics Sieg' war 2/3 = 66.7% / +7% ROI — moderates Plus. 'Celtics Sieg (Moneyline)' war 1/1 verloren — daher VALUE statt SAFE. NBA G6 Beobachtung killt SAFE-Label, aber G7 zuhause als Champion-Team hat anderen Charakter. VALUE — bewusst kleiner Einsatz.",
+          "empfohlener_einsatz_prozent": 0.75,
+          "id": "2026-05-02-bos-phi-1",
+          "faire_quote": 1.32
         },
         {
-          "tipp_id": "2026-05-02-bos-phi-2",
-          "markt": "76ers +7.5 (Spread)",
-          "auswahl": "76ers +7.5",
+          "markt": "76ers +7.5",
           "quote": 1.91,
           "kategorie": "value",
-          "einsatz_prozent": 0.5,
-          "begruendung": "G7s typisch eng. Embiid-Closeout-Volume + Maxey-Scoring-Backup koennen Celtics unter 8 Pkt halten. Spread @ 1.91 = 52% impl. Lt. Bilanz: Underdog-Spread-Markt mehrfach +91% (Magic, Raptors). VALUE."
+          "begruendung": "G7s typisch eng. Embiid-Closeout-Volume + Maxey-Scoring-Backup koennen Celtics unter 8 Pkt halten. Spread @ 1.91 = 52% impl. Lt. Bilanz: Underdog-Spread-Markt mehrfach +91% (Magic, Raptors). VALUE.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "2026-05-02-bos-phi-2",
+          "faire_quote": 1.91
         },
         {
-          "tipp_id": "2026-05-02-bos-phi-3",
-          "markt": "Unter 206.5 Punkte (Total)",
-          "auswahl": "Unter 206.5 gesamt",
+          "markt": "Unter 206.5 gesamt",
           "quote": 1.91,
           "kategorie": "value",
-          "einsatz_prozent": 0.5,
-          "begruendung": "Lesson 02.05.: Closeout/Decider-Spiele Defensiv-Schlachten — Pistons-Magic G6 = 172 Total. Celtics+76ers G7 typisch defensiv mit Foul-Trouble. Quote 1.91 = 52% impl. Lt. Bilanz: NBA-Unter-Markt-Familie historisch stark (Unter 213.5/215.5 jeweils 100%). VALUE."
+          "begruendung": "Lesson 02.05.: Closeout/Decider-Spiele Defensiv-Schlachten — Pistons-Magic G6 = 172 Total. Celtics+76ers G7 typisch defensiv mit Foul-Trouble. Quote 1.91 = 52% impl. Lt. Bilanz: NBA-Unter-Markt-Familie historisch stark (Unter 213.5/215.5 jeweils 100%). VALUE.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "2026-05-02-bos-phi-3",
+          "faire_quote": 1.91
         }
       ]
     },
@@ -1158,369 +1158,37 @@
       ],
       "tipps": [
         {
-          "tipp_id": "2026-05-02-cle-tor-1",
-          "markt": "Cleveland Cavaliers Sieg (Moneyline)",
-          "auswahl": "Cavaliers",
+          "markt": "Cavaliers",
           "quote": 1.35,
           "kategorie": "value",
-          "einsatz_prozent": 0.75,
-          "begruendung": "Cavs als Top-Seed zuhause + Home-Team-Pattern (jedes G der Serie zuhause gewonnen). ML @ 1.35 = 74% impl. Lt. Bilanz: 'Cleveland Cavaliers Sieg' war 0/2 = 0% / -100% ROI — RED FLAG. Aber 'Cavaliers Sieg (Moneyline)' war 1/1 = 100% / +25% ROI — gemischt. VALUE — kleiner Einsatz, NICHT SAFE wegen schlechter Cavs-Sieg-Markt-Bilanz."
+          "begruendung": "Cavs als Top-Seed zuhause + Home-Team-Pattern (jedes G der Serie zuhause gewonnen). ML @ 1.35 = 74% impl. Lt. Bilanz: 'Cleveland Cavaliers Sieg' war 0/2 = 0% / -100% ROI — RED FLAG. Aber 'Cavaliers Sieg (Moneyline)' war 1/1 = 100% / +25% ROI — gemischt. VALUE — kleiner Einsatz, NICHT SAFE wegen schlechter Cavs-Sieg-Markt-Bilanz.",
+          "empfohlener_einsatz_prozent": 0.75,
+          "id": "2026-05-02-cle-tor-1",
+          "faire_quote": 1.35
         },
         {
-          "tipp_id": "2026-05-02-cle-tor-2",
-          "markt": "Raptors +7.5 (Spread)",
-          "auswahl": "Raptors +7.5",
+          "markt": "Raptors +7.5",
           "quote": 1.91,
           "kategorie": "value",
-          "einsatz_prozent": 0.5,
-          "begruendung": "G7s eng, Raptors haben Cavs zuvor in dieser Serie 3-mal geschlagen. Spread @ 1.91 = 52% impl. Lt. Bilanz: 'Raptors +3.5' war 1/1 = 100% / +91% ROI — Raptors-Spread Goldgrube. VALUE."
+          "begruendung": "G7s eng, Raptors haben Cavs zuvor in dieser Serie 3-mal geschlagen. Spread @ 1.91 = 52% impl. Lt. Bilanz: 'Raptors +3.5' war 1/1 = 100% / +91% ROI — Raptors-Spread Goldgrube. VALUE.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "2026-05-02-cle-tor-2",
+          "faire_quote": 1.91
         },
         {
-          "tipp_id": "2026-05-02-cle-tor-3",
-          "markt": "Unter 210.5 Punkte (Total)",
-          "auswahl": "Unter 210.5 gesamt",
+          "markt": "Unter 210.5 gesamt",
           "quote": 1.91,
           "kategorie": "value",
-          "einsatz_prozent": 0.5,
-          "begruendung": "Lesson 02.05.: NBA-G7-Closeouts oft Defensiv-Schlachten. Cavs+Raptors G7 typisch eng mit Foul-Trouble. Quote 1.91 = 52% impl. Lt. Bilanz: NBA-Unter-Markt-Familie 4/5 vor 29.04. — Goldgrube. VALUE."
+          "begruendung": "Lesson 02.05.: NBA-G7-Closeouts oft Defensiv-Schlachten. Cavs+Raptors G7 typisch eng mit Foul-Trouble. Quote 1.91 = 52% impl. Lt. Bilanz: NBA-Unter-Markt-Familie 4/5 vor 29.04. — Goldgrube. VALUE.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "2026-05-02-cle-tor-3",
+          "faire_quote": 1.91
         }
       ]
     }
   ],
-  "einzeltipps": [
-    {
-      "tipp_id": "2026-05-02-bay-hei-1",
-      "spiel": "Bayern Muenchen vs Heidenheim",
-      "liga": "Bundesliga",
-      "markt": "Bayern Muenchen Sieg",
-      "auswahl": "Bayern Muenchen",
-      "quote": 1.18,
-      "kategorie": "safe",
-      "einsatz_prozent": 1.5,
-      "begruendung": "Klassendifferenz extrem, BL-Goldgrube +13.5%, 2:0-Insurance aktiv. Sicherster Tipp des Tages."
-    },
-    {
-      "tipp_id": "2026-05-02-fra-hsv-1",
-      "spiel": "Eintracht Frankfurt vs HSV",
-      "liga": "Bundesliga",
-      "markt": "Frankfurt Doppelte Chance (1X)",
-      "auswahl": "Frankfurt oder Unentschieden",
-      "quote": 1.22,
-      "kategorie": "safe",
-      "einsatz_prozent": 1.5,
-      "begruendung": "Frankfurt zuhause 13/15 Punkte geholt. HSV Form-Krise (4 Niederlagen in 5). DC-Familie ist ueberragende Goldgrube."
-    },
-    {
-      "tipp_id": "2026-05-02-bre-aug-1",
-      "spiel": "Bremen vs Augsburg",
-      "liga": "Bundesliga",
-      "markt": "Bremen Doppelte Chance (1X)",
-      "auswahl": "Bremen oder Unentschieden",
-      "quote": 1.3,
-      "kategorie": "safe",
-      "einsatz_prozent": 1.5,
-      "begruendung": "Bremen Heimstaerke + Augsburg ohne Saisonziel-Motivation. DC-Goldgrube. BL +13.5%."
-    },
-    {
-      "tipp_id": "2026-05-02-bre-aug-2",
-      "spiel": "Bremen vs Augsburg",
-      "liga": "Bundesliga",
-      "markt": "Weniger als 3.5 Tore",
-      "auswahl": "Unter 3.5 Tore",
-      "quote": 1.3,
-      "kategorie": "safe",
-      "einsatz_prozent": 1.0,
-      "begruendung": "Hinspiel 0:0, beide Sturm-Probleme. Unter-Markt-Familie 100% in 30-Tagen-Bilanz."
-    },
-    {
-      "tipp_id": "2026-05-02-lev-rbl-1",
-      "spiel": "Leverkusen vs Leipzig",
-      "liga": "Bundesliga",
-      "markt": "Leverkusen Doppelte Chance (1X)",
-      "auswahl": "Leverkusen oder Unentschieden",
-      "quote": 1.3,
-      "kategorie": "safe",
-      "einsatz_prozent": 1.5,
-      "begruendung": "Leverkusen ohne CL-Belastung, RB nach Conference-League-HF muede. DC-Goldgrube."
-    },
-    {
-      "tipp_id": "2026-05-02-new-bri-1",
-      "spiel": "Newcastle vs Brighton",
-      "liga": "Premier League",
-      "markt": "Brighton Doppelte Chance (X2)",
-      "auswahl": "Unentschieden oder Brighton",
-      "quote": 1.45,
-      "kategorie": "safe",
-      "einsatz_prozent": 1.5,
-      "begruendung": "Brighton 6/6 H2H-Serie ungeschlagen, Newcastle Form-Krise + ohne Isak. PL-Goldgrube +18.7%."
-    },
-    {
-      "tipp_id": "2026-05-02-wol-sun-1",
-      "spiel": "Wolves vs Sunderland",
-      "liga": "Premier League",
-      "markt": "Sunderland Doppelte Chance (X2)",
-      "auswahl": "Unentschieden oder Sunderland",
-      "quote": 1.32,
-      "kategorie": "safe",
-      "einsatz_prozent": 1.5,
-      "begruendung": "Sunderland 4 Spiele ungeschlagen + Hinspiel-Sieg, Wolves 1 Sieg in 6. PL-Goldgrube + DC-Goldgrube."
-    },
-    {
-      "tipp_id": "2026-05-02-ars-ful-1",
-      "spiel": "Arsenal vs Fulham",
-      "liga": "Premier League",
-      "markt": "Arsenal Sieg",
-      "auswahl": "Arsenal",
-      "quote": 1.44,
-      "kategorie": "safe",
-      "einsatz_prozent": 1.5,
-      "begruendung": "PL-Klassendifferenz-Heim-Goldgrube am 01.05. erneut bestaetigt. Arsenal 13/16 Heim, Fulham motivationslos."
-    },
-    {
-      "tipp_id": "2026-05-02-ars-ful-2",
-      "spiel": "Arsenal vs Fulham",
-      "liga": "Premier League",
-      "markt": "Arsenal Mehr als 1.5 Tore",
-      "auswahl": "Arsenal Ueber 1.5 Team-Tore",
-      "quote": 1.4,
-      "kategorie": "safe",
-      "einsatz_prozent": 1.0,
-      "begruendung": "Arsenal 13/16 Heimspiele 2+ Tore. Quote-Range 1.00-1.50 hat 77.5% Hitrate."
-    },
-    {
-      "tipp_id": "2026-05-02-vil-lev-1",
-      "spiel": "Villarreal vs Levante",
-      "liga": "LaLiga",
-      "markt": "Villarreal Doppelte Chance (1X)",
-      "auswahl": "Villarreal oder Unentschieden",
-      "quote": 1.18,
-      "kategorie": "safe",
-      "einsatz_prozent": 1.5,
-      "begruendung": "Villarreal-Heimstaerke + Levante-Auswaerts-Schwaeche. DC-Goldgrube."
-    },
-    {
-      "tipp_id": "2026-05-02-val-atl-1",
-      "spiel": "Valencia vs Atletico",
-      "liga": "LaLiga",
-      "markt": "Valencia Doppelte Chance (1X)",
-      "auswahl": "Valencia oder Unentschieden",
-      "quote": 1.3,
-      "kategorie": "safe",
-      "einsatz_prozent": 1.5,
-      "begruendung": "Atletico rotiert vor CL-Rueckspiel. Valencia Mestalla-Heimstaerke. DC-Goldgrube + Champions-Rotation-Pattern."
-    },
-    {
-      "tipp_id": "2026-05-02-osa-bar-1",
-      "spiel": "Osasuna vs Barcelona",
-      "liga": "LaLiga",
-      "markt": "Barcelona Doppelte Chance (X2)",
-      "auswahl": "Unentschieden oder Barcelona",
-      "quote": 1.18,
-      "kategorie": "safe",
-      "einsatz_prozent": 1.5,
-      "begruendung": "Barcelona-Champion-Klasse, 16/17 Auswaerts min. 1 Punkt. DC-Goldgrube. Lt. Bilanz: 'Barcelona DC X2' 1/1 = 100%."
-    },
-    {
-      "tipp_id": "2026-05-02-met-mon-1",
-      "spiel": "Metz vs Monaco",
-      "liga": "Ligue 1",
-      "markt": "Monaco Doppelte Chance (X2)",
-      "auswahl": "Unentschieden oder Monaco",
-      "quote": 1.18,
-      "kategorie": "safe",
-      "einsatz_prozent": 1.0,
-      "begruendung": "Hinspiel 5:2 fuer Monaco. Metz im freien Fall. DC-Goldgrube. Klassendifferenz-Auswaerts-Pattern."
-    },
-    {
-      "tipp_id": "2026-05-02-hof-stu-1",
-      "spiel": "Hoffenheim vs Stuttgart",
-      "liga": "Bundesliga",
-      "markt": "Mehr als 2.5 Tore",
-      "auswahl": "Ueber 2.5 Tore",
-      "quote": 1.62,
-      "kategorie": "value",
-      "einsatz_prozent": 1.0,
-      "begruendung": "7/9 H2H mit BTTS, beide brauchen CL-Punkte. BL-Liga +13.5%."
-    }
-  ],
-  "kombis": [
-    {
-      "name": "Safe-Kombi",
-      "kategorie": "safe",
-      "ziel_quote": "~3x",
-      "gesamtquote": 3.2,
-      "einsatz_prozent": 0.5,
-      "beschreibung": "5 Top-Klassendifferenz-Heim-/DC-Picks aus den Goldgruben-Ligen Bundesliga und Premier League, plus Klassendifferenz-Auswaerts (Monaco). Kein Bein riskanter als 1.45.",
-      "beine": [
-        {
-          "tipp_id": "2026-05-02-bay-hei-1",
-          "spiel": "Bayern Muenchen vs Heidenheim",
-          "auswahl": "Bayern Sieg",
-          "quote": 1.18
-        },
-        {
-          "tipp_id": "2026-05-02-fra-hsv-1",
-          "spiel": "Frankfurt vs HSV",
-          "auswahl": "Frankfurt DC 1X",
-          "quote": 1.22
-        },
-        {
-          "tipp_id": "2026-05-02-bre-aug-1",
-          "spiel": "Bremen vs Augsburg",
-          "auswahl": "Bremen DC 1X",
-          "quote": 1.3
-        },
-        {
-          "tipp_id": "2026-05-02-new-bri-1",
-          "spiel": "Newcastle vs Brighton",
-          "auswahl": "Brighton DC X2",
-          "quote": 1.45
-        },
-        {
-          "tipp_id": "2026-05-02-met-mon-1",
-          "spiel": "Metz vs Monaco",
-          "auswahl": "Monaco DC X2",
-          "quote": 1.18
-        }
-      ],
-      "begruendung": "Layer-1 OK (5 verschiedene Spiele). Layer-2 OK (kein Sieg-Outcome in anderer Kombi). DC-Familie ist die staerkste Goldgrube der Bilanz (mehrfach 100% in 30 Tagen). BL +13.5% / PL +18.7% Liga-ROI verstaerken. Lessons-Bestaetigung: 'Layer-2-Diversifikation 2. Empirie-Tag (01.05.)' — Safe-Kombi mit DC-Familie hat 01.05. @ 3.17 gewonnen mit +2.17 Netto. Wiederholung der Konstruktion."
-    },
-    {
-      "name": "Balance-Kombi",
-      "kategorie": "value",
-      "ziel_quote": "~9x",
-      "gesamtquote": 9.55,
-      "einsatz_prozent": 0.4,
-      "beschreibung": "4 Beine direkter Sieg-/Tor-Markt aus BL- und PL-Goldgruben. Layer-2 alle Sieg-Outcomes nur 1x.",
-      "beine": [
-        {
-          "tipp_id": "2026-05-02-hof-stu-1",
-          "spiel": "Hoffenheim vs Stuttgart",
-          "auswahl": "Mehr als 2.5 Tore",
-          "quote": 1.62
-        },
-        {
-          "tipp_id": "2026-05-02-wol-sun-2",
-          "spiel": "Wolves vs Sunderland",
-          "auswahl": "Sunderland Sieg",
-          "quote": 1.95
-        },
-        {
-          "tipp_id": "2026-05-02-lev-rbl-3",
-          "spiel": "Leverkusen vs Leipzig",
-          "auswahl": "Leverkusen Sieg",
-          "quote": 2.1
-        },
-        {
-          "tipp_id": "2026-05-02-ars-ful-1",
-          "spiel": "Arsenal vs Fulham",
-          "auswahl": "Arsenal Sieg",
-          "quote": 1.44
-        }
-      ],
-      "begruendung": "Layer-1 OK (4 verschiedene Spiele). Layer-2 OK (alle 3 Sieg-Outcomes — Sunderland/Leverkusen/Arsenal — exklusiv in dieser Kombi). 2:0-Insurance fuer Leverkusen-Sieg-Tipp greift (BL). Quote-Range 2.00-3.00 hat +34% ROI in der Bilanz — sweet spot. PL-Klassendifferenz-Heim-Goldgrube fuer Arsenal verifiziert."
-    },
-    {
-      "name": "Risiko-Kombi",
-      "kategorie": "wackel",
-      "ziel_quote": "~21x",
-      "gesamtquote": 21.03,
-      "einsatz_prozent": 0.25,
-      "beschreibung": "5 Beine mit hoeherer Varianz: 2 LaLiga-Sieg-Tipps + Lewandowski Tor + 2 NBA-G7-Underdog-Spreads. Perfekte Layer-1/2/3-Diversifikation.",
-      "beine": [
-        {
-          "tipp_id": "2026-05-02-vil-lev-2",
-          "spiel": "Villarreal vs Levante",
-          "auswahl": "Villarreal Sieg",
-          "quote": 1.68
-        },
-        {
-          "tipp_id": "2026-05-02-val-atl-2",
-          "spiel": "Valencia vs Atletico",
-          "auswahl": "Valencia Sieg",
-          "quote": 1.76
-        },
-        {
-          "tipp_id": "2026-05-02-osa-bar-3",
-          "spiel": "Osasuna vs Barcelona",
-          "auswahl": "Lewandowski trifft (jederzeit)",
-          "quote": 1.95
-        },
-        {
-          "tipp_id": "2026-05-02-det-orl-2",
-          "spiel": "Pistons vs Magic",
-          "auswahl": "Magic +7.5 Spread",
-          "quote": 1.91
-        },
-        {
-          "tipp_id": "2026-05-02-bos-phi-2",
-          "spiel": "Celtics vs 76ers",
-          "auswahl": "76ers +7.5 Spread",
-          "quote": 1.91
-        }
-      ],
-      "begruendung": "Layer-1 OK (5 verschiedene Spiele). Layer-2 OK (Villarreal/Valencia-Siege exklusiv hier; NBA Spreads sind keine Sieg-Outcomes). Layer-3: NBA-Spreads keine Same-Game-Korrelation. Lt. Bilanz: Magic +Spread 100% / +91% ROI Goldgrube; Quote-Range 1.50-2.00 -7.3% — daher Wackel. Bestaetigt durch 01.05. Risiko-Kombi-Erfolg @ 9.79 (Lessons)."
-    },
-    {
-      "name": "Moonshot-Kombi",
-      "kategorie": "moonshot",
-      "ziel_quote": "~400x",
-      "gesamtquote": 408.5,
-      "einsatz_prozent": 0.1,
-      "beschreibung": "8 Beine Lotterie-Spielmodus: Spielerschuetzen, BTTS-Nein, Tor-/Unter-Linien aus 8 verschiedenen Spielen. Spass-Einsatz 1-2 Euro empfohlen.",
-      "beine": [
-        {
-          "tipp_id": "2026-05-02-ars-ful-3",
-          "spiel": "Arsenal vs Fulham",
-          "auswahl": "Bukayo Saka trifft",
-          "quote": 2.5
-        },
-        {
-          "tipp_id": "2026-05-02-hof-stu-3",
-          "spiel": "Hoffenheim vs Stuttgart",
-          "auswahl": "Deniz Undav trifft",
-          "quote": 2.65
-        },
-        {
-          "tipp_id": "2026-05-02-psg-lor-3",
-          "spiel": "PSG vs Lorient",
-          "auswahl": "Ousmane Dembele trifft",
-          "quote": 2.1
-        },
-        {
-          "tipp_id": "2026-05-02-met-mon-3",
-          "spiel": "Metz vs Monaco",
-          "auswahl": "Folarin Balogun trifft",
-          "quote": 2.2
-        },
-        {
-          "tipp_id": "2026-05-02-bre-whu-1",
-          "spiel": "Brentford vs West Ham",
-          "auswahl": "West Ham DC X2",
-          "quote": 1.95
-        },
-        {
-          "tipp_id": "2026-05-02-uni-koe-3",
-          "spiel": "Union Berlin vs Koeln",
-          "auswahl": "BTTS Nein",
-          "quote": 2.0
-        },
-        {
-          "tipp_id": "2026-05-02-vil-lev-3",
-          "spiel": "Villarreal vs Levante",
-          "auswahl": "Mehr als 2.5 Tore",
-          "quote": 1.85
-        },
-        {
-          "tipp_id": "2026-05-02-nic-len-2",
-          "spiel": "Nice vs Lens",
-          "auswahl": "Unter 2.5 Tore",
-          "quote": 1.85
-        }
-      ],
-      "begruendung": "Layer-1 OK (8 verschiedene Spiele). Layer-2 OK (kein Sieg-Outcome in anderer Kombi mehrfach). Layer-3 Same-Game-Korrelation: Saka/Undav/Dembele/Balogun-Tor sind Tor-Markt-Outcomes, koennen mit Arsenal-Sieg (in Balance) und anderen Kombi-Outcomes co-existieren in DIFFERENT Kombis. Vil-Lev und Met-Mon doppelt-genutzt aber jeweils mit anderem Bein. 8 Beine Risiko hoch — daher nur 0.1% Einsatz (~1-2 Euro Spass). Einwechslungs-Boost-Regel hilft Saka/Undav/Dembele/Balogun (alle bet365-faehige Markt). KEINE Beobachtungs-Liga (alle Quote < 5)."
-    }
-  ],
+  "einzeltipps": [],
+  "kombis": [],
   "lessons_angewandt": [
     {
       "lesson_datum": "2026-05-02",
