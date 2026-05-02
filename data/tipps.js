@@ -1,8 +1,8 @@
 // Auto-generiert
 window.__MIESMUSCHEL_TIPPS = {
   "datum": "2026-05-02",
-  "erstellt_am": "2026-05-02T11:30:00+02:00",
-  "hinweis": "Wochenend-Volume zum 32. BL-Spieltag plus 2 Premier-League-Goldgruben-Heimspiele, 4 LaLiga-Partien (Atletico rotiert vor CL-Rueckspiel) und drei NBA-Playoffs-Erstrunden-Game-7s. Laut Bilanz sind Bundesliga (+13.5% ROI) und Premier League (+18.7%) aktuell die staerksten Liga-Bilanzen ueberhaupt — dort wird heute gehebelt. Serie A (-32.5%) und 2. Bundesliga (-40%) sind im Beobachtungs-Modus, NBA Round 1 Game 6 ebenfalls; G7 wird konservativ behandelt, Player-Punkte-Markt nach 26.04.-Boykott-Lesson ausgeklammert.",
+  "erstellt_am": "2026-05-02T12:21:57",
+  "hinweis": "Wochenend-Volume zum 32. BL-Spieltag plus 2 Premier-League-Goldgruben-Heimspiele, 4 LaLiga-Partien (Atletico rotiert vor CL-Rueckspiel) und drei NBA-Playoffs-Erstrunden-Game-7s. Laut Bilanz sind Bundesliga (+13.5% ROI) und Premier League (+18.7%) aktuell die staerksten Liga-Bilanzen ueberhaupt — dort wird heute gehebelt. Serie A (-32.5%) und 2. Bundesliga (-40%) sind im Beobachtungs-Modus, NBA Round 1 Game 6 ebenfalls; G7 wird konservativ behandelt, Player-Punkte-Markt nach 26.04.-Boykott-Lesson ausgeklammert. UPDATE 19:30: einzeltipps + kombis nachgereicht (Cloud-Routine bei 28 Spielen ausgestiegen).",
   "spiele": [
     {
       "id": "2026-05-02-bay-hei",
@@ -1188,8 +1188,252 @@ window.__MIESMUSCHEL_TIPPS = {
       ]
     }
   ],
-  "einzeltipps": [],
-  "kombis": [],
+  "einzeltipps": [
+    {
+      "rang": 1,
+      "spiel_id": "2026-05-02-bay-hei",
+      "tipp_id": "2026-05-02-bay-hei-1",
+      "markt": "Bayern Muenchen Sieg",
+      "quote": 1.18,
+      "kategorie": "safe",
+      "kurz": "Meister Bayern zuhause gegen Abstiegs-Aufsteiger Heidenheim - klare Klassendifferenz, alle Topscorer fit. Trotz CL-HF-Rueckspiel kommende Woche reicht selbst rotierte B-Elf. Lt. Bilanz: Bayern Sieg-Tipps konstant +ROI.",
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "rang": 2,
+      "spiel_id": "2026-05-02-fra-hsv",
+      "tipp_id": "2026-05-02-fra-hsv-1",
+      "markt": "Frankfurt oder Unentschieden (DC 1X)",
+      "quote": 1.22,
+      "kategorie": "safe",
+      "kurz": "SGE Heim, EL-Quali-Druck (43 Pkt, 7.) gegen Aufsteiger HSV - Pflichtsieg-Match. DC sichert auch Remis ab. Lt. Bilanz: 'Doppelte Chance' bisher Goldgrube ueber 6+ Tipps.",
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "rang": 3,
+      "spiel_id": "2026-05-02-lev-rbl",
+      "tipp_id": "2026-05-02-lev-rbl-1",
+      "markt": "Bayer Leverkusen oder Unentschieden (DC 1X)",
+      "quote": 1.3,
+      "kategorie": "safe",
+      "kurz": "BayArena-Heimstaerke + Top-Spiel um CL-Quali. Leverkusen 6./55 Pkt mit +20 Tordifferenz, Leipzig 3./62 - beide drueckend, aber Heim hat Vorteil. DC zwei Drittel Markt abgedeckt, Layer-2-konform.",
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "rang": 4,
+      "spiel_id": "2026-05-02-ars-ful",
+      "tipp_id": "2026-05-02-ars-ful-1",
+      "markt": "Arsenal Sieg",
+      "quote": 1.44,
+      "kategorie": "safe",
+      "kurz": "Emirates-Heim, Arsenal in Top-Form, Fulham keine Bedrohung. Klassische Klassendifferenz mit Topscorer Saka fit. Lt. Bilanz: Arsenal Sieg gegen Mittelfeld-Gegner historisch >80% Hitrate.",
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "rang": 5,
+      "spiel_id": "2026-05-02-vil-lev",
+      "tipp_id": "2026-05-02-vil-lev-1",
+      "markt": "Villarreal oder Unentschieden (DC 1X)",
+      "quote": 1.18,
+      "kategorie": "safe",
+      "kurz": "Villarreal Heim gegen Levante (Abstieg/Mittelfeld). Klare Klassendifferenz, El Madrigal solide Heim-Bilanz. DC fast Pflicht-Hit. Lt. Bilanz: DC bisher Goldgrube.",
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "rang": 6,
+      "spiel_id": "2026-05-02-osa-bar",
+      "tipp_id": "2026-05-02-osa-bar-1",
+      "markt": "Unentschieden oder Barcelona (DC X2)",
+      "quote": 1.18,
+      "kategorie": "safe",
+      "kurz": "Barca auf Meisterkurs, Osasuna im Mittelfeld. El Sadar zaehe Atmosphaere, aber Barca-Klasse drueckt. DC X2 sichert auch Remis ab. SAFE-Profil.",
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "rang": 7,
+      "spiel_id": "2026-05-02-new-bri",
+      "tipp_id": "2026-05-02-new-bri-1",
+      "markt": "Unentschieden oder Brighton (DC X2)",
+      "quote": 1.45,
+      "kategorie": "value",
+      "kurz": "Brighton in solider Form, Newcastle nach langer Saison muede. St. James Park kein Selbstlaeufer, Brighton mit Punkten zufrieden. Edge bei DC X2 spuerbar.",
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "rang": 8,
+      "spiel_id": "2026-05-02-hof-stu",
+      "tipp_id": "2026-05-02-hof-stu-1",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.62,
+      "kategorie": "value",
+      "kurz": "Beide auf 57 Pkt im direkten CL-Quali-Duell - kein Team kann sich Defensiv-Spiel leisten. Stuttgart-Offensive Top-Form, Hoffenheim-Heim drueckt. Edge auf Ueber 2.5 deutlich.",
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "rang": 9,
+      "spiel_id": "2026-05-02-bre-aug",
+      "tipp_id": "2026-05-02-bre-aug-2",
+      "markt": "Unter 3.5 Tore",
+      "quote": 1.3,
+      "kategorie": "value",
+      "kurz": "Bremen-Augsburg klassisches Mittelfeld-Saisonende-Spiel - beide gerettet, kein Druck. Statistisch ueberwiegend Spiele unter 3.5 Toren. Quote 1.30 ist quasi SAFE-Bereich.",
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "rang": 10,
+      "spiel_id": "2026-05-02-wol-sun",
+      "tipp_id": "2026-05-02-wol-sun-1",
+      "markt": "Unentschieden oder Sunderland (DC X2)",
+      "quote": 1.32,
+      "kategorie": "value",
+      "kurz": "Wolves Heim aber in Form-Krise (Mittelfeld-Saisonende ohne Druck), Sunderland aufstrebend. DC X2 sichert mit zwei von drei Outcomes. Edge spuerbar.",
+      "empfohlener_einsatz_prozent": 1.0
+    }
+  ],
+  "kombis": [
+    {
+      "name": "Safe-Kombi",
+      "kategorie": "safe",
+      "beine": [
+        {
+          "spiel_id": "2026-05-02-bay-hei",
+          "tipp_id": "2026-05-02-bay-hei-1",
+          "markt": "Bayern Muenchen vs 1. FC Heidenheim: Bayern Sieg",
+          "quote": 1.18
+        },
+        {
+          "spiel_id": "2026-05-02-fra-hsv",
+          "tipp_id": "2026-05-02-fra-hsv-1",
+          "markt": "Eintracht Frankfurt vs Hamburger SV: DC 1X",
+          "quote": 1.22
+        },
+        {
+          "spiel_id": "2026-05-02-lev-rbl",
+          "tipp_id": "2026-05-02-lev-rbl-1",
+          "markt": "Bayer Leverkusen vs RB Leipzig: DC 1X",
+          "quote": 1.3
+        },
+        {
+          "spiel_id": "2026-05-02-ars-ful",
+          "tipp_id": "2026-05-02-ars-ful-1",
+          "markt": "Arsenal vs Fulham: Arsenal Sieg",
+          "quote": 1.44
+        }
+      ],
+      "gesamtquote": 2.69,
+      "rechnung": "1.18 x 1.22 x 1.30 x 1.44 = 2.69",
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "4 Sieg-Anker aus 4 verschiedenen Spielen, alle mit klarer Klassendifferenz oder dominantem Heimvorteil. Bayern + Arsenal als Top-Favoriten-Sieg, Frankfurt + Leverkusen abgesichert ueber DC. Layer-2 sauber: alle Sieg-Outcomes in dieser Kombi konzentriert."
+    },
+    {
+      "name": "Balance-Kombi (Total-Profil)",
+      "kategorie": "value",
+      "beine": [
+        {
+          "spiel_id": "2026-05-02-hof-stu",
+          "tipp_id": "2026-05-02-hof-stu-1",
+          "markt": "Hoffenheim vs Stuttgart: Ueber 2.5 Tore",
+          "quote": 1.62
+        },
+        {
+          "spiel_id": "2026-05-02-bre-aug",
+          "tipp_id": "2026-05-02-bre-aug-2",
+          "markt": "Bremen vs Augsburg: Unter 3.5 Tore",
+          "quote": 1.3
+        },
+        {
+          "spiel_id": "2026-05-02-uni-koe",
+          "tipp_id": "2026-05-02-uni-koe-2",
+          "markt": "Union vs Koeln: Unter 2.5 Tore",
+          "quote": 1.85
+        },
+        {
+          "spiel_id": "2026-05-02-new-bri",
+          "tipp_id": "2026-05-02-new-bri-2",
+          "markt": "Newcastle vs Brighton: Ueber 2.5 Tore",
+          "quote": 1.72
+        }
+      ],
+      "gesamtquote": 6.7,
+      "rechnung": "1.62 x 1.30 x 1.85 x 1.72 = 6.70",
+      "empfohlener_einsatz_prozent": 0.75,
+      "begruendung": "Reine Total-Wetten, keine Sieg-Outcomes (Layer-2 sauber). Hoffenheim-Stuttgart torreich (CL-Druck beide), Bremen-Augsburg defensiv (Saisonende-Pari), Union-Koeln Abstiegs-Vorsicht, Newcastle-Brighton offen."
+    },
+    {
+      "name": "Risiko-Kombi (Underdog-Sieg-Mix)",
+      "kategorie": "risk",
+      "beine": [
+        {
+          "spiel_id": "2026-05-02-vil-lev",
+          "tipp_id": "2026-05-02-vil-lev-2",
+          "markt": "Villarreal vs Levante: Villarreal Sieg",
+          "quote": 1.68
+        },
+        {
+          "spiel_id": "2026-05-02-new-bri",
+          "tipp_id": "2026-05-02-new-bri-3",
+          "markt": "Newcastle vs Brighton: Brighton Sieg",
+          "quote": 2.65
+        },
+        {
+          "spiel_id": "2026-05-02-wol-sun",
+          "tipp_id": "2026-05-02-wol-sun-2",
+          "markt": "Wolves vs Sunderland: Sunderland Sieg",
+          "quote": 1.95
+        },
+        {
+          "spiel_id": "2026-05-02-bre-aug",
+          "tipp_id": "2026-05-02-bre-aug-3",
+          "markt": "Bremen vs Augsburg: Bremen Sieg",
+          "quote": 2.05
+        }
+      ],
+      "gesamtquote": 17.8,
+      "rechnung": "1.68 x 2.65 x 1.95 x 2.05 = 17.79",
+      "empfohlener_einsatz_prozent": 0.25,
+      "begruendung": "Underdog/Auswaerts-Sieg-Mix aus 4 Spielen die NICHT in Safe-Kombi sind (Layer-2 sauber). Villarreal Heim-Klassiker, Brighton-Form gegen muedes Newcastle, Sunderland-Aufschwung, Bremen-Heim. ~17.8x mit klarem Wert."
+    },
+    {
+      "name": "Moonshot-Kombi (Tor-Lottery)",
+      "kategorie": "moonshot",
+      "beine": [
+        {
+          "spiel_id": "2026-05-02-ars-ful",
+          "tipp_id": "2026-05-02-ars-ful-3",
+          "markt": "Arsenal vs Fulham: Bukayo Saka Tor",
+          "quote": 2.5
+        },
+        {
+          "spiel_id": "2026-05-02-osa-bar",
+          "tipp_id": "2026-05-02-osa-bar-3",
+          "markt": "Osasuna vs Barcelona: Lewandowski Tor",
+          "quote": 1.95
+        },
+        {
+          "spiel_id": "2026-05-02-hof-stu",
+          "tipp_id": "2026-05-02-hof-stu-3",
+          "markt": "Hoffenheim vs Stuttgart: Deniz Undav Tor",
+          "quote": 2.65
+        },
+        {
+          "spiel_id": "2026-05-02-bay-hei",
+          "tipp_id": "2026-05-02-bay-hei-3",
+          "markt": "Bayern vs Heidenheim: Harry Kane Tor",
+          "quote": 1.45
+        },
+        {
+          "spiel_id": "2026-05-02-bre-whu",
+          "tipp_id": "2026-05-02-bre-whu-2",
+          "markt": "Brentford vs West Ham: Ueber 2.5 Tore",
+          "quote": 1.62
+        }
+      ],
+      "gesamtquote": 30.35,
+      "rechnung": "2.50 x 1.95 x 2.65 x 1.45 x 1.62 = 30.36",
+      "empfohlener_einsatz_prozent": 0.1,
+      "begruendung": "Lotterie-Schein: 4 Top-Stuermer-Tor-Tipps + 1 Tor-Total. Saka, Lewa, Undav (Volumen-9er), Kane (Top-Form). Brentford-WHU offenes Spiel. ~30x bei ~5-7% Hit-Wahrscheinlichkeit. Spass-Einsatz 1-2 EUR."
+    }
+  ],
   "lessons_angewandt": [
     {
       "lesson_datum": "2026-05-02",
