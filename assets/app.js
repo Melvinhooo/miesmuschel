@@ -256,6 +256,14 @@ function renderSpieleTab(data, targetId = 'spiele') {
           </div>
           <div class="game-meta">${fmtTime(s.anstoss)}</div>
         </div>
+        ${s.kontext_check_status === 'FAIL' ? `
+          <div style="background:rgba(232,69,69,0.15);border-left:3px solid #e84545;padding:10px 14px;margin:10px 0 4px;border-radius:6px;color:#ffb8b8;font-size:0.88em;">
+            🔍 <strong>Recherche unvollständig</strong> — keine Tipps gerendert. Fehlend: ${escapeHtml((s.kontext_check_fehler || []).join(', '))}
+          </div>` : ''}
+        ${s.kontext_check_status === 'WARN_QUELLE' ? `
+          <div style="background:rgba(255,217,0,0.12);border-left:3px solid #ffd700;padding:10px 14px;margin:10px 0 4px;border-radius:6px;color:#ffe580;font-size:0.88em;">
+            ⚠️ <strong>Quelle fehlt</strong> — Wettbewerbs-Erwähnung im Kontext, aber keine Verband-URL belegt sie. SAFE/VALUE-Tipps auf WACKEL degradiert.
+          </div>` : ''}
         <div class="section-title">News & Kontext</div>
         <div class="news-list">
           ${(s.news || []).map(n => `<div class="news-item">${escapeHtml(n)}</div>`).join('')}

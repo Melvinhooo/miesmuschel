@@ -111,6 +111,23 @@ Vor JEDEM Tipp **diese 4 Faktoren** für beide Mannschaften prüfen + in `begrue
 
 **Beispiel:** Mainz @ ~12.0 vs Bayern (25.04.) wäre VALUE gewesen, weil Bayern CL-Doppelbelastung + Mainz im Klassenerhalt-Modus. Plus 2:0-Insurance hätte ausgezahlt (HZ 3:0).
 
+### Mechanisch erzwungen via `saison_kontext{}`-Pflichtfeld
+
+Jedes Spiel im Tipps-JSON muss ein `saison_kontext`-Objekt mit allen 7 Feldern + `quellen[]` (≥1 URL) enthalten:
+- `parallel_heim`, `parallel_gast` (paralleler Wettbewerb dieser Woche oder "keine")
+- `saisonziel_heim`, `saisonziel_gast` (Platz, Pkt, Saisonziel)
+- `motivations_asymmetrie` (1-Satz-Synthese)
+- `recovery_heim`, `recovery_gast` (Tage seit letztem Spiel + Belastung)
+- `quellen[]` (URLs aus WebSearch/WebFetch — bei Erwähnung von CL/EL/Conference/Pokal MUSS eine Verband-URL dabei sein, sonst Tipps-Downgrade)
+
+**Reference-Implementation:** Spiel `2026-05-03-fre-wol` in `data/tipps/2026-05-03.json` zeigt das vollständig ausgefüllte Format.
+
+**Schema-Mapper-Verhalten** (`.github/scripts/fix_schema.py`, Funktion `validate_saison_kontext`):
+- **Hard-Mode (Default):** bei FAIL werden alle `tipps[]` des Spiels gedroppt (einzeltipps + kombis automatisch via valid_refs entfernt). Bei WARN_QUELLE werden SAFE/VALUE auf wackel degradiert. Recherche ist nicht optional.
+- **Soft-Mode** (Env `MIESMUSCHEL_KONTEXT_MODE=soft`): nur Logging, Tipps bleiben sichtbar. Nur für Bootstrap/Migration einer Datei.
+
+PWA zeigt rote Box "🔍 Recherche unvollständig" bei FAIL, gelbe Box "⚠️ Quelle fehlt" bei WARN_QUELLE direkt unter dem Spielheader.
+
 ---
 
 ## Tonalität

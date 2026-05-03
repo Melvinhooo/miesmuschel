@@ -58,6 +58,104 @@ def normalize_kategorie(d):
         d['kategorie'] = KAT_MAP.get(k, k)
 
 
+# Saison-Kontext-Pflichtfelder (Recherche-Hartregel).
+# Routine MUSS pro Spiel saison_kontext{} ausfuellen, sonst werden Tipps gedroppt.
+# Hintergrund: Routine erfindet sich oft Kontext zusammen (Bayern-CL-Rotation ignoriert,
+# Leipzig-Conference erfunden, Freiburg-EL uebersehen). Mechanische Erzwingung.
+PFLICHT_KONTEXT_FELDER = [
+    'parallel_heim',
+    'parallel_gast',
+    'saisonziel_heim',
+    'saisonziel_gast',
+    'motivations_asymmetrie',
+    'recovery_heim',
+    'recovery_gast',
+]
+WETTBEWERB_PATTERNS = ('cl', 'champions', 'el', 'europa', 'conference', 'pokal',
+                       'fa cup', 'coppa', 'copa', 'copa del rey')
+# Hosts die als Verband-/Liga-Quelle akzeptiert werden bei Wettbewerbs-Behauptungen.
+# Verbaende (UEFA/FIFA/DFB) + offizielle Liga-Sites + kicker/sofascore/espn als pragmatische
+# Cross-League-Quellen + grosse Klub-Sites.
+QUELLEN_HOSTS_VERBAND = (
+    'uefa.com', 'dfb.de', 'fifa.com',
+    'premierleague.com', 'bundesliga.com', 'laliga.com',
+    'legaseriea.it', 'lega-serie-a', 'ligue1.com',
+    'kicker.de', 'sofascore.com', 'flashscore', 'espn.com',
+    'transfermarkt', 'liverpoolfc.com', 'cpfc.co.uk', 'manutd.com',
+)
+
+
+def validate_saison_kontext(d):
+    """Pflichtfeld-Check fuer saison_kontext pro Spiel.
+
+    Modi via Env MIESMUSCHEL_KONTEXT_MODE:
+      "hard" (Default) - FAIL droppt tipps[], WARN_QUELLE downgraded SAFE/VALUE auf wackel.
+                         Recherche ist nicht optional, Halluzinationen werden ausgefiltert.
+      "soft"             - nur kontext_check_status + Logging, KEIN Tipps-Drop, KEIN Downgrade.
+                         Nur fuer Bootstrap/Migration einer Datei genutzt.
+    """
+    mode = os.environ.get('MIESMUSCHEL_KONTEXT_MODE', 'hard').strip().lower()
+    hart = (mode == 'hard')
+
+    for spiel in d.get('spiele', []):
+        kontext = spiel.get('saison_kontext') or {}
+        fehler = []
+        for f in PFLICHT_KONTEXT_FELDER:
+            v = kontext.get(f)
+            if not isinstance(v, str) or not v.strip():
+                fehler.append(f)
+        quellen = kontext.get('quellen') or []
+        gueltige_quellen = [q for q in quellen if isinstance(q, str) and q.strip()] if isinstance(quellen, list) else []
+        if not gueltige_quellen:
+            fehler.append('quellen[]')
+
+        if fehler:
+            spiel['kontext_check_status'] = 'FAIL'
+            spiel['kontext_check_fehler'] = fehler
+            n_tipps = len(spiel.get('tipps', []))
+            if hart:
+                spiel['tipps'] = []
+                print(f"  saison_kontext FAIL '{spiel.get('id', '?')}': fehlt {fehler} -> {n_tipps} Tipps gedroppt")
+            else:
+                print(f"  saison_kontext FAIL (soft) '{spiel.get('id', '?')}': fehlt {fehler} -> {n_tipps} Tipps WUERDEN gedroppt im hard-mode")
+            continue
+
+        # Quellen-Check fuer parallele Wettbewerbe (Verband-URL Pflicht wenn CL/EL/Pokal genannt).
+        nennt_wettbewerb = False
+        for f in ('parallel_heim', 'parallel_gast'):
+            v = (kontext.get(f) or '').lower().strip()
+            if v in ('', 'keine', 'nein', '-', 'keine doppelbelastung'):
+                continue
+            if any(p in v for p in WETTBEWERB_PATTERNS):
+                nennt_wettbewerb = True
+                break
+
+        if nennt_wettbewerb:
+            quellen_str = ' '.join(q.lower() for q in gueltige_quellen)
+            hat_verband_quelle = any(h in quellen_str for h in QUELLEN_HOSTS_VERBAND)
+            if not hat_verband_quelle:
+                spiel['kontext_check_status'] = 'WARN_QUELLE'
+                if hart:
+                    downgraded = 0
+                    for tipp in spiel.get('tipps', []):
+                        kat = (tipp.get('kategorie') or '').lower()
+                        if kat in ('safe', 'value'):
+                            tipp['kategorie'] = 'wackel'
+                            downgraded += 1
+                    if downgraded:
+                        print(f"  saison_kontext WARN_QUELLE '{spiel.get('id', '?')}': "
+                              f"Wettbewerb genannt aber keine Verband-URL in quellen[] -> "
+                              f"{downgraded} SAFE/VALUE-Tipps auf wackel degradiert")
+                else:
+                    print(f"  saison_kontext WARN_QUELLE (soft) '{spiel.get('id', '?')}': "
+                          f"Wettbewerb genannt aber keine Verband-URL in quellen[] -> "
+                          f"WUERDE SAFE/VALUE auf wackel degradieren im hard-mode")
+                continue
+
+        spiel['kontext_check_status'] = 'OK'
+        spiel.pop('kontext_check_fehler', None)
+
+
 def fix(path):
     with open(path, encoding='utf-8') as f:
         d = json.load(f)
@@ -156,6 +254,12 @@ def fix(path):
                 continue
             kept.append(tipp)
         spiel['tipps'] = kept
+
+    # Saison-Kontext-Pflichtcheck: Spiele ohne saison_kontext kriegen ihre Tipps gedroppt.
+    # Spiele mit unzureichender Quellen-Belegung werden auf wackel degradiert.
+    # Muss VOR dem Hard-Cap laufen, damit die einzeltipps/kombis-Bereinigung weiter unten
+    # die referenzierten Tipps nicht mehr findet und sie automatisch droppt.
+    validate_saison_kontext(d)
 
     # Hard-Cap: max 5 Tipps pro Spiel, sortiert nach Kategorie-Prioritaet + Edge.
     # SAFE > VALUE > WACKEL > RISIKO > MOONSHOT, innerhalb gleicher Kategorie nach edge_prozent absteigend.

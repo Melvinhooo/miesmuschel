@@ -10,6 +10,20 @@
       "gast": "1. FSV Mainz 05",
       "anstoss": "2026-05-03T15:30:00+02:00",
       "stadion": "Millerntor-Stadion, Hamburg",
+      "saison_kontext": {
+        "parallel_heim": "keine",
+        "parallel_gast": "keine",
+        "saisonziel_heim": "Klassenerhalt akut (Platz 16, 26 Pkt, 7 Spiele ohne Sieg, Relegationsplatz in Reichweite)",
+        "saisonziel_gast": "EL-Quali noch theoretisch moeglich (Platz 10, 34 Pkt) - keine direkten Negativfolgen mehr bei Niederlage",
+        "motivations_asymmetrie": "St. Pauli MUSS punkten gegen drohenden Abstieg, Mainz spielt um Auslaufmoeglichkeit ohne harten Druck - leichter Edge fuer St. Pauli aus Druck-Asymmetrie, aber Form (7 Spiele ohne Sieg) wirkt entgegen",
+        "recovery_heim": "7 Tage seit letztem Spiel (planmaessige Pause)",
+        "recovery_gast": "7 Tage seit letztem Spiel (planmaessige Pause)",
+        "quellen": [
+          "https://www.bundesliga.com/de/bundesliga/tabelle",
+          "https://www.kicker.de/fc-st-pauli/spielplan",
+          "https://www.kicker.de/fsv-mainz-05/spielplan"
+        ]
+      },
       "news": [
         "St. Pauli 16. mit 26 Punkten - 7 Spiele ohne Sieg, akute Klassenerhalts-Sorgen",
         "Mainz 05 10. mit 34 Punkten, EL-Quali noch theoretisch moeglich, 6 Spiele ungeschlagen gegen St. Pauli",
@@ -49,7 +63,8 @@
           "faire_quote": 0,
           "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-03-bmg-bvb",
@@ -58,6 +73,20 @@
       "gast": "Borussia Dortmund",
       "anstoss": "2026-05-03T17:30:00+02:00",
       "stadion": "Borussia-Park, Moenchengladbach",
+      "saison_kontext": {
+        "parallel_heim": "keine",
+        "parallel_gast": "keine (BVB ist NICHT im aktuellen CL-HF - das laeuft Bayern-PSG + Arsenal-Atletico)",
+        "saisonziel_heim": "Klassenerhalt faktisch durch (Platz ~12, 32 Pkt, 6 Pkt Vorsprung auf Relegation)",
+        "saisonziel_gast": "Vize-Meisterschaft sichern + CL-Quali (Platz 2, 67 Pkt, hinter uneinholbarem Bayern)",
+        "motivations_asymmetrie": "BVB voll fokussiert auf Vize/CL-Quali ohne UEFA-Doppelbelastung diese Woche - reines Saisonziel-Push. Gladbach Mid-Table ohne harten Druck. Klare Edge fuer BVB aus Klassen + Motivation",
+        "recovery_heim": "7 Tage seit letztem Spiel (planmaessige Pause)",
+        "recovery_gast": "7 Tage seit letztem Spiel (planmaessige Pause, kein Mittwochs-Spiel)",
+        "quellen": [
+          "https://www.bundesliga.com/de/bundesliga/tabelle",
+          "https://www.kicker.de/borussia-dortmund/spielplan",
+          "https://www.uefa.com/uefachampionsleague/"
+        ]
+      },
       "news": [
         "BVB 2. mit 67 Punkten - 20 Siege, 7 Remis, 4 Niederlagen, klopft an Meisterschaft (Bayern uneinholbar Stand?)",
         "Gladbach 32 Punkte, 6 Punkte Vorsprung auf Relegation - Klassenerhalt mit Heim-Sieg quasi perfekt",
@@ -97,7 +126,8 @@
           "faire_quote": 0,
           "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-03-fre-wol",
@@ -111,9 +141,24 @@
         "Wolfsburg im Abstiegskampf, auswaerts katastrophal: 1 Sieg in 8 Auswaertsspielen 2026, 3.25 Gegentore/Spiel auswaerts",
         "Freiburg hat 5/6 letzten H2H gegen Wolfsburg gewonnen - klare Heim-Dominanz",
         "Freiburg-Heim-Quote bei ~2.45-2.55 (Winamax/Bet365), Wolfsburg ~2.85, X ~3.50",
-        "Beide Teams keine europaeische Doppelbelastung",
+        "Freiburg im EL-Halbfinale (Hinspiel 30.04. vs Braga 2:1 gewonnen, Rueckspiel 08.05. zuhause) — Rotations-Risiko gegen Wolfsburg klar gegeben",
+        "Wolfsburg-Abstiegskampf wiegt schwerer im Motivations-Vergleich, da Klassenerhalt direkt vom Spielausgang abhaengt",
         "Quoten verifiziert via wettfreunde/sport1 Stand 03.05.2026"
       ],
+      "saison_kontext": {
+        "parallel_heim": "EL-Halbfinale Rueckspiel zuhause am 08.05.2026 vs Sporting Braga (Hinspiel 30.04. 2:1 Auswaertssieg)",
+        "parallel_gast": "keine",
+        "saisonziel_heim": "Bundesliga-Mittelfeld gesichert (Platz 8, 43 Pkt) + EL-Finale durch HF-Hinspiel-Vorsprung in Reichweite",
+        "saisonziel_gast": "Klassenerhalt (Abstiegskampf, 1 Sieg in letzten 8 Auswaertsspielen 2026, 3.25 Gegentore-Schnitt auswaerts)",
+        "motivations_asymmetrie": "Wolfsburg full-throttle wegen Abstiegskampf, Freiburg rotiert wahrscheinlich vor EL-HF-Rueckspiel in 5 Tagen — Edge daher kleiner als Heimstaerke + H2H suggerieren",
+        "recovery_heim": "3 Tage seit EL-HF-Hinspiel 30.04. (90 Min Belastung mit Reise nach Braga)",
+        "recovery_gast": "7 Tage seit letztem Spiel (planmaessige Pause, voll erholt)",
+        "quellen": [
+          "https://www.uefa.com/europaleague/",
+          "https://www.kicker.de/sc-freiburg/spielplan",
+          "https://www.bundesliga.com/de/bundesliga/tabelle"
+        ]
+      },
       "tipps": [
         {
           "markt": "Freiburg oder Unentschieden (1X)",
@@ -145,7 +190,8 @@
           "faire_quote": 0,
           "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-03-bou-cry",
@@ -154,6 +200,20 @@
       "gast": "Crystal Palace",
       "anstoss": "2026-05-03T15:00:00+02:00",
       "stadion": "Vitality Stadium, Bournemouth",
+      "saison_kontext": {
+        "parallel_heim": "keine",
+        "parallel_gast": "Conference-League-Halbfinale Rueckspiel zuhause am 07.05.2026 vs Shakhtar Donetsk (Hinspiel 30.04. 3:1 Auswaertssieg, Final-Quali in Reichweite)",
+        "saisonziel_heim": "Mid-Table-Konsolidierung + Top-7-Quali theoretisch (Platz 8-9, 49 Pkt, +1 Tordifferenz)",
+        "saisonziel_gast": "Conference-League-Finale 27.05. + PL-Mid-Table (Platz 12-13, 43 Pkt, -3 Tordifferenz) - Conference klar prioritaet",
+        "motivations_asymmetrie": "Glasner rotiert Stamm-Elf vor dem Conference-Rueckspiel in 4 Tagen sicher - Bournemouth profitiert von einer B-Elf-Palace. Plus Bournemouth-Heim-Vorteil + Top-7-Push",
+        "recovery_heim": "7 Tage seit letztem PL-Spiel (planmaessige Pause)",
+        "recovery_gast": "3 Tage seit Conference-HF-Hinspiel 30.04. (90 Min + Reise nach Donetsk-Ersatz-Stadium in Krakau)",
+        "quellen": [
+          "https://www.uefa.com/uefaconferenceleague/",
+          "https://www.cpfc.co.uk/matches/men/uefa-conference-league/2025-26/crystal-palace-vs-shakhtar-donetsk-2026-05-07/2629124/",
+          "https://www.premierleague.com/en/tables"
+        ]
+      },
       "news": [
         "Bournemouth Heim-Favorit @ 1.65 (13/20), Palace 5.0 (4/1), X 4.0 (3/1) - bet365 verifiziert via SportsGambler",
         "Crystal Palace im Conference-League-Halbfinale: Hinspiel 30.04. (Sieg gegen Shakhtar) - Rueckspiel 07.05. zuhause",
@@ -193,7 +253,8 @@
           "faire_quote": 0,
           "empfohlener_einsatz_prozent": 1.0
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-03-mun-liv",
@@ -202,6 +263,20 @@
       "gast": "Liverpool FC",
       "anstoss": "2026-05-03T16:30:00+02:00",
       "stadion": "Old Trafford, Manchester",
+      "saison_kontext": {
+        "parallel_heim": "keine (United raus aus FA Cup + raus aus EL/Conference)",
+        "parallel_gast": "keine (Liverpool nicht mehr in EL/CL, raus aus FA Cup)",
+        "saisonziel_heim": "Top-4 / CL-Quali (Platz 3, 61 Pkt, im engen Race mit Liverpool/Chelsea)",
+        "saisonziel_gast": "Top-4 / CL-Quali (Platz 4, 58 Pkt, 3 Pkt hinter United - direktes 6-Pkt-Spiel)",
+        "motivations_asymmetrie": "Beide voll motiviert (Top-4 Endspurt-Duell), keine Doppelbelastung. Aber Liverpool MASSIV verletzt: Salah out (Verletzung 25.04. vs Palace), Mamardashvili out (Knie-Trauma 19.04.), Ekitike 9 Monate raus, Alisson fraglich. United mit voller Kapelle. Klarer Personal-Edge United",
+        "recovery_heim": "7 Tage seit letztem Spiel (planmaessige Pause, voll erholt)",
+        "recovery_gast": "8 Tage seit Palace-Spiel 25.04., aber Verletzungs-Ausfaelle dominieren",
+        "quellen": [
+          "https://www.premierleague.com/en/tables",
+          "https://www.sportsmole.co.uk/football/liverpool/top-four-race/injuries-and-suspensions/salah-alisson-latest-liverpool-injury-and-suspension-list-vs-man-united_596766.html",
+          "https://www.liverpoolfc.com/news/liverpools-injury-list-suspensions-and-availability"
+        ]
+      },
       "news": [
         "Manchester United 3. mit 61 Punkten, Liverpool 4. mit 58 Punkten - direktes Top-4-Endspurt-Duell",
         "Liverpool MASSIV geschwaecht: Salah RAUS (Verletzung), Mamardashvili RAUS, Bradley/Endo/Ekitike RAUS, Alisson FRAGLICH",
@@ -214,7 +289,7 @@
         {
           "markt": "Manchester United Sieg",
           "quote_bet365": 2.25,
-          "kategorie": "value",
+          "kategorie": "wackel",
           "edge_prozent": 14,
           "begruendung": "Liverpool ohne Salah ist eine andere Mannschaft — der Topscorer + Spielmacher fehlt, dazu Mamardashvili (Stammkeeper-Vertretung) raus, Alisson fraglich. Backup-Keeper Woodman muss Anfield-Ersatz starten gegen Bruno Fernandes + Sesko + Mbeumo. United-Heim-Quote 2.25 bei dieser Personal-Asymmetrie ist klare VALUE — fairer Pricing waere eher 1.85-1.95. Old Trafford-Heim-Vorteil + bet365-2:0-Insurance bei direktem Sieg-Tipp (1. PL nicht abgedeckt, gilt nur BL+CL — daher KEIN Bonus). Lt. Bilanz: PL Goldgrube 80% TQ, +10.7% ROI. Premier-League-Heim-Mid-Top-Klubs gegen geschwaechte Top-7-Chaser sind statistisch starkes VALUE-Profil.",
           "id": "mun-liv-1",
@@ -224,7 +299,7 @@
         {
           "markt": "United oder Unentschieden (1X)",
           "quote_bet365": 1.4,
-          "kategorie": "safe",
+          "kategorie": "wackel",
           "edge_prozent": 9,
           "begruendung": "Liverpool ohne Salah/Mamardashvili/Bradley/Endo gewinnt ein Old-Trafford-Spiel sehr selten — DC 1X bei 1.40 deckt 71% Wahrscheinlichkeit, fair waere ~80%. Lt. Bilanz: Doppelte-Chance ist Goldgrube #1 (mehrere 100%-Bilanzen wie Levante 1X, Atletico 1X, Rayo 1X). Plus PL Goldgrube-Status. Selbst wenn Liverpool defensiv-kompakt mit Rest-Stuermern ein 1:1 holt, ist DC durch. SAFE-Label gerechtfertigt durch Personal-Krise + Heim-Vorteil + PL-ROI-Trend. 02.05.-Lesson-Schutz: kein CL-HF-Doppelbelastungs-Risiko fuer United.",
           "id": "mun-liv-2",
@@ -234,14 +309,15 @@
         {
           "markt": "Unter 3.5 Tore",
           "quote_bet365": 1.5,
-          "kategorie": "value",
+          "kategorie": "wackel",
           "edge_prozent": 5,
           "begruendung": "Beide Teams werden defensiv-vorsichtig agieren: Liverpool muss mit B-Elf-Charakter clean bleiben, United will den 1:0/2:1-Sieg nicht aus der Hand geben. Salah-Ausfall nimmt Liverpool das Tor-Volumen, Sesko-Sturm-Spitze ist eher physisch als torreich. Statistisch enden 70%+ aller PL-Top-Duelle unter 4 Toren. 1.50 bietet Polster ueber dem 50/50-Coinflip. Lt. Bilanz: 'Unter 2.5 Tore' bisher 100% (2/2, +90% ROI) — Tor-Linien-Unter funktioniert. 'Unter 3.5' ist Variation, weniger riskant als 2.5.",
           "id": "mun-liv-3",
           "faire_quote": 0,
           "empfohlener_einsatz_prozent": 1.0
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-03-avl-tot",
@@ -250,6 +326,20 @@
       "gast": "Tottenham Hotspur",
       "anstoss": "2026-05-03T20:00:00+02:00",
       "stadion": "Villa Park, Birmingham",
+      "saison_kontext": {
+        "parallel_heim": "keine (Villa raus aus europaeischen Wettbewerben in dieser Phase)",
+        "parallel_gast": "keine (Tottenham raus aus EL und PL Pokal-Phasen)",
+        "saisonziel_heim": "Top-5 / CL-EL-Quali Endspurt (Platz 5-6, mid-50er Pkt-Bereich, kaempft mit Liverpool/Chelsea)",
+        "saisonziel_gast": "Unteres Drittel / kein klarer Saisonziel-Druck (Mid-Table, weder Abstieg noch europaeische Quali realistisch)",
+        "motivations_asymmetrie": "Villa unter Emery voll fokussiert auf Top-5-Push, Tottenham im Auslauf-Modus ohne Druck. Plus 4-Siege-in-Folge-H2H fuer Villa. Klarer Edge fuer Villa aus Motivation + Heim + H2H",
+        "recovery_heim": "7 Tage seit letztem Spiel (planmaessige Pause)",
+        "recovery_gast": "7 Tage seit letztem Spiel (planmaessige Pause)",
+        "quellen": [
+          "https://www.premierleague.com/en/tables",
+          "https://www.kicker.de/aston-villa/spielplan",
+          "https://www.kicker.de/tottenham-hotspur/spielplan"
+        ]
+      },
       "news": [
         "Aston Villa Heim-Favorit @ 2.15 (23/20), Tottenham 3.20 (11/5), X 3.60 (13/5) - bet365 verifiziert",
         "Villa hat 4 Siege in Folge gegen Tottenham, inkl. 2-1 FA-Cup-Sieg im Tottenham-Stadium",
@@ -289,7 +379,8 @@
           "faire_quote": 0,
           "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-03-esp-rma",
@@ -298,12 +389,26 @@
       "gast": "Real Madrid",
       "anstoss": "2026-05-03T21:00:00+02:00",
       "stadion": "RCDE Stadium, Cornella",
+      "saison_kontext": {
+        "parallel_heim": "keine",
+        "parallel_gast": "keine - Real Madrid ist im April 2026 im CL-Viertelfinale gegen Bayern Muenchen ausgeschieden (Aggregat 4:5). Aktuelle CL-Halbfinale-Paarungen sind Bayern-PSG und Arsenal-Atletico. KEINE CL-Doppelbelastung fuer Real diese Woche",
+        "saisonziel_heim": "Abstieg faktisch besiegelt (16 Spiele ohne Sieg in LaLiga, abgeschlagener Tabellenkeller)",
+        "saisonziel_gast": "LaLiga-Saison nur noch Spielbetrieb (Form-Krise 1/6, kein Titel-Druck mehr nach CL-Aus)",
+        "motivations_asymmetrie": "ACHTUNG: Routine hatte Real-CL-HF erfunden, das ist falsch. Real ist OHNE UEFA-Doppelbelastung. Aber Form-Krise (1/6) und kein Titel-Druck koennen zu lockerer Spielweise fuehren - gegen eine abgestiegene Espanyol-Heim-Mannschaft im Auslauf-Modus eher 50/50 als Klassen-Edge",
+        "recovery_heim": "7 Tage seit letztem Spiel (planmaessige Pause)",
+        "recovery_gast": "7 Tage seit letztem Spiel (planmaessige Pause, kein Mittwochs-Spiel)",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/news/029c-1e9a2f63fe2d-ebf9ad643892-1000--2025-26-champions-league-all-the-fixtures-and-results/",
+          "https://www.aljazeera.com/sports/2026/4/15/bayern-edge-real-madrid-4-3-in-classic-to-reach-champions-league-semifinals",
+          "https://www.laliga.com/laliga-easports/clasificacion"
+        ]
+      },
       "news": [
         "Real Madrid Auswaerts-Favorit @ 1.68 (-128 ML), Espanyol 4.0+ (+106), X ~3.80 - bet365 via SportsGambler verifiziert",
         "Espanyol seit 16 Pflichtspielen ohne Sieg in LaLiga - faktisch abgestiegen",
         "Real Madrid hat zuletzt nur 1 von 6 Spielen gewonnen — Form-Krise, aber Klassenunterschied bleibt",
-        "Real CL-Halbfinale: Hinspiel diese Woche (Mi 30.04. oder Anfang dieser Woche), Rueckspiel Mi 06.05. — Doppelbelastung",
-        "Ancelotti rotiert vermutlich vor dem CL-HF-Rueckspiel — B-Elf-Risiko, aber gegen abgestiegene Espanyol reicht's",
+        "KORREKTUR: Real ist NICHT mehr im CL — wurde im Viertelfinale (15.04.) von Bayern Muenchen ausgeschaltet (Aggregat 4:5). Keine CL-Doppelbelastung diese Woche. Frueheres Tipps-Dossier hatte das fehlerhaft behauptet.",
+        "Ancelotti hat trotz fehlender CL-Belastung Form-Krise — Rotations-Risiko bleibt aber geringer als zuvor angenommen",
         "Lt. Bilanz: LaLiga ist 16 Tipps stark, 68.8% TQ, leicht negative ROI -2.1% — solide Liga-Basis"
       ],
       "tipps": [
@@ -312,7 +417,7 @@
           "quote_bet365": 1.2,
           "kategorie": "safe",
           "edge_prozent": 6,
-          "begruendung": "Espanyol seit 16 Spielen ohne Sieg + faktisch abgestiegen + zuhause mit Auslauf-Modus = ein Espanyol-Heim-Sieg gegen Real Madrid waere selbst mit B-Elf-Real-Madrid sensationell. DC X2 bei 1.20 deckt 83% Wahrscheinlichkeit, fair waere 88%+. Lt. Bilanz: 'Real Madrid Doppelte Chance (X2)' bisher 1/1 (100%, +35% ROI) — eindeutige Goldgrube. Doppelte-Chance-Markt allgemein die staerkste Trefferquote im Tool. CL-HF-Doppelbelastung-Risiko durch Rotation gemindert durch DC-Hedge: selbst wenn Real nur 1:1 holt, Tipp gewonnen. 02.05.-Lesson-Schutz aktiv: kein direkter Sieg-Tipp wegen CL-HF-Rueckspiel-Risiko.",
+          "begruendung": "Espanyol seit 16 Spielen ohne Sieg + faktisch abgestiegen + zuhause mit Auslauf-Modus = ein Espanyol-Heim-Sieg gegen Real Madrid waere sensationell. DC X2 bei 1.20 deckt 83% Wahrscheinlichkeit, fair waere ~85% (Real-Form-Krise 1/6 zieht etwas runter). Lt. Bilanz: 'Real Madrid Doppelte Chance (X2)' bisher 1/1 (100%, +35% ROI). Doppelte-Chance-Markt allgemein die staerkste Trefferquote im Tool. KORREKTUR: Frueheres Tipps-Dossier hatte CL-HF-Doppelbelastung als Edge-Argument benannt — das ist falsch, Real ist im April aus der CL ausgeschieden (vs Bayern). Edge bleibt aber durch Klassen-Asymmetrie + DC-Hedge stabil.",
           "id": "esp-rma-1",
           "faire_quote": 0,
           "empfohlener_einsatz_prozent": 1.5
@@ -322,7 +427,7 @@
           "quote_bet365": 1.68,
           "kategorie": "wackel",
           "edge_prozent": 0,
-          "begruendung": "Direkter Sieg-Tipp ist VERLOCKEND wegen Klassenunterschied — ABER 02.05.-Lesson zur Top-Team-Rotation vor CL-HF (Bayern-Heidenheim 3:3) greift hier exakt: Real spielt 06.05. Conference-Halbfinale zuhause, Ancelotti rotiert garantiert. B-Elf gegen heimstarken Underdog-Espanyol-Bounce-Back kann Remis bringen. Daher MAX WACKEL, nicht VALUE/SAFE. bet365-2:0-Insurance gilt NICHT in LaLiga (nur BL+CL). Hauptweg ist DC X2, dieser Sieg-Tipp nur als Moonshot-Bein-Material.",
+          "begruendung": "KORREKTUR der ursprunglichen Begruendung: Es gibt KEIN CL-HF-Rotation-Argument, Real ist im April aus der CL ausgeschieden. Trotzdem bleibt der Tipp WACKEL, nicht VALUE — Begruendung verschiebt sich auf: (a) Real-Form-Krise mit nur 1/6 Siegen, (b) Saison-Auslauf-Modus ohne Titel-Druck nach CL-Aus = lockere Spielweise moeglich, (c) Espanyol-Heim-Crowd kann Heim-Bounce-Back-Effekt ausloesen (siehe 03.05.-Lesson zu Newcastle-Brighton). bet365-2:0-Insurance gilt NICHT in LaLiga. Hauptweg bleibt DC X2 als sicherer Hedge, dieser Sieg-Tipp nur als Risiko-/Moonshot-Bein.",
           "id": "esp-rma-2",
           "faire_quote": 0,
           "empfohlener_einsatz_prozent": 0.5
@@ -337,7 +442,8 @@
           "faire_quote": 0,
           "empfohlener_einsatz_prozent": 1.0
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-03-int-par",
@@ -346,6 +452,19 @@
       "gast": "Parma Calcio",
       "anstoss": "2026-05-03T20:45:00+02:00",
       "stadion": "Giuseppe-Meazza, Mailand",
+      "saison_kontext": {
+        "parallel_heim": "keine (Inter im April aus CL ausgeschieden)",
+        "parallel_gast": "keine",
+        "saisonziel_heim": "Scudetto-Titel mit Heim-Sieg fix (Platz 1, 21. Titel in Reichweite)",
+        "saisonziel_gast": "Klassenerhalt gesichert / Mid-Table-Auslauf (Platz ~12)",
+        "motivations_asymmetrie": "Inter Titel-Push voll fokussiert, Parma kein Druck. Klare Edge fuer Inter aus Klassen + Saisonziel",
+        "recovery_heim": "5 Tage seit letztem Spiel (Torino 2:2)",
+        "recovery_gast": "7 Tage seit letztem Spiel (planmaessige Pause)",
+        "quellen": [
+          "https://www.legaseriea.it/en/serie-a/classifica",
+          "https://www.uefa.com/uefachampionsleague/news/029c-1e9a2f63fe2d-ebf9ad643892-1000--2025-26-champions-league-all-the-fixtures-and-results/"
+        ]
+      },
       "news": [
         "🔍 Beobachtung — Serie A Form noch nicht kalibriert (-32.5% ROI bei 4 Tipps)",
         "Inter @ 1.23 Heim-Favorit, Parma @ 10.15, Remis @ 5.50 — Inter braucht Punkt fuer Scudetto",
@@ -375,7 +494,8 @@
           "faire_quote": 0,
           "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-03-sas-mil",
@@ -384,6 +504,19 @@
       "gast": "AC Milan",
       "anstoss": "2026-05-03T15:00:00+02:00",
       "stadion": "Mapei Stadium, Reggio Emilia",
+      "saison_kontext": {
+        "parallel_heim": "keine",
+        "parallel_gast": "keine",
+        "saisonziel_heim": "Mid-Table-Konsolidierung, kein Druck (Aufschwung-Phase)",
+        "saisonziel_gast": "Top-4 / CL-Quali (Platz 3, in Form-Krise mit 1/4 Siegen)",
+        "motivations_asymmetrie": "Milan unter Druck wegen Top-4-Race + Form-Krise, Sassuolo lockerer Auslauf-Modus mit positiver Form. Beide Teams ohne UEFA-Doppelbelastung",
+        "recovery_heim": "7 Tage seit letztem Spiel (planmaessige Pause)",
+        "recovery_gast": "7 Tage seit letztem Spiel (planmaessige Pause)",
+        "quellen": [
+          "https://www.legaseriea.it/en/serie-a/classifica",
+          "https://www.kicker.de/ac-mailand/spielplan"
+        ]
+      },
       "news": [
         "🔍 Beobachtung — Serie A Form noch nicht kalibriert (-32.5% ROI bei 4 Tipps)",
         "Milan @ 1.70-1.74 Auswaerts-Favorit, Sassuolo @ 4.35-4.75, X @ 3.75-4.10",
@@ -403,7 +536,8 @@
           "faire_quote": 0,
           "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-03-oly-ren",
@@ -412,6 +546,19 @@
       "gast": "Stade Rennes",
       "anstoss": "2026-05-03T20:45:00+02:00",
       "stadion": "Groupama Stadium, Lyon",
+      "saison_kontext": {
+        "parallel_heim": "keine (Lyon raus aus EL/Conference)",
+        "parallel_gast": "keine",
+        "saisonziel_heim": "EL/CL-Quali Race (Platz 3, 57 Pkt)",
+        "saisonziel_gast": "EL-Quali Race (Platz 5, 56 Pkt) - 1 Pkt hinter Lyon im direkten Konkurrenz-Duell",
+        "motivations_asymmetrie": "Beide Teams gleich motiviert (direktes EL-Quali-Duell), Rennes mit besserer Form (4 Siege in Folge vs 3 Siege Lyon). Sportytrader-Modell sieht Rennes leicht vorne — kein klarer Edge fuer Heim-Vorteil allein",
+        "recovery_heim": "7 Tage seit letztem Spiel (planmaessige Pause)",
+        "recovery_gast": "7 Tage seit letztem Spiel (planmaessige Pause)",
+        "quellen": [
+          "https://www.ligue1.com/ranking",
+          "https://www.kicker.de/olympique-lyon/spielplan"
+        ]
+      },
       "news": [
         "Lyon @ 2.15 Heim-Favorit, Rennes @ 3.00, X @ 3.60 - via wincomparator/sportytrader verifiziert",
         "Lyon 3. mit 57 Punkten, Rennes 5. mit 56 Punkten - 1 Punkt Differenz, direktes EL/CL-Quali-Duell",
@@ -441,7 +588,8 @@
           "faire_quote": 0,
           "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-03-det-orl",
@@ -450,6 +598,19 @@
       "gast": "Orlando Magic",
       "anstoss": "2026-05-03T21:30:00+02:00",
       "stadion": "Little Caesars Arena, Detroit",
+      "saison_kontext": {
+        "parallel_heim": "keine (NBA-Playoff-Modus, kein paralleler Wettbewerb)",
+        "parallel_gast": "keine",
+        "saisonziel_heim": "NBA-Playoffs Conference-Semifinals erreichen (Round 1 Decider G7)",
+        "saisonziel_gast": "NBA-Playoffs Conference-Semifinals erreichen (Round 1 Decider G7)",
+        "motivations_asymmetrie": "Beide Teams Win-or-Go-Home-Druck. Pistons mit Cunningham (45 Pkt G5) als Top-Star + Heim-Vorteil. Magic-Offense in G6 zerbrochen (19 Pkt 2.HZ, 4/37 FG). Aber G7-Sweep-Druck-Spiele sind statistisch sehr unberechenbar (Lessons 24.04. + 25.04.)",
+        "recovery_heim": "2 Tage seit G6 (01.05.)",
+        "recovery_gast": "2 Tage seit G6 (01.05.)",
+        "quellen": [
+          "https://www.nba.com/playoffs/2026",
+          "https://www.espn.com/nba/scoreboard"
+        ]
+      },
       "news": [
         "Pistons @ -298 ML (~1.34), Magic @ +250 (~3.50), Spread Pistons -7.5 — DraftKings/FanDuel verifiziert",
         "Total Over/Under 211.5 — moderate Linie, in NBA-G6/G7-Defensiv-Schlachten oft underdrueckt",
@@ -489,7 +650,8 @@
           "faire_quote": 0,
           "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-04-cle-tor",
@@ -498,6 +660,19 @@
       "gast": "Toronto Raptors",
       "anstoss": "2026-05-04T01:30:00+02:00",
       "stadion": "Rocket Arena, Cleveland",
+      "saison_kontext": {
+        "parallel_heim": "keine",
+        "parallel_gast": "keine",
+        "saisonziel_heim": "NBA-Playoffs Conference-Semifinals erreichen (Round 1 Decider G7) - Cavs Top-Seed mit Erwartungs-Druck",
+        "saisonziel_gast": "NBA-Playoffs Conference-Semifinals erreichen (Round 1 Decider G7) - Raptors als #8-Seed mit Underdog-Story (3-2 nach 0-2 Hinten)",
+        "motivations_asymmetrie": "Beide Teams Win-or-Go-Home-Druck. Cavs als Top-Seed mit historischer Erwartungs-Last, Raptors mit Comeback-Momentum nach G6-OT-Sieg. G7-Sweep-Druck statistisch unberechenbar (Lessons 24.04. + 25.04.)",
+        "recovery_heim": "1-2 Tage seit G6 (02.05.)",
+        "recovery_gast": "1-2 Tage seit G6 (02.05., 112-110 OT-Sieg = hohe Belastung)",
+        "quellen": [
+          "https://www.nba.com/playoffs/2026",
+          "https://www.espn.com/nba/scoreboard"
+        ]
+      },
       "news": [
         "Cavs @ -285 ML (~1.35), Raptors @ +230 (~3.30), Spread Cavs -8.5 — FanDuel/DraftKings verifiziert",
         "Total Over/Under 211.5 (FanDuel) bzw 210.5 (DraftKings) — moderate Linie",
@@ -537,7 +712,8 @@
           "faire_quote": 0,
           "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     }
   ],
   "einzeltipps": [
