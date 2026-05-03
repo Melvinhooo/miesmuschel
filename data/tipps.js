@@ -1,7 +1,7 @@
 // Auto-generiert
 window.__MIESMUSCHEL_TIPPS = {
   "datum": "2026-05-03",
-  "erstellt_am": "2026-05-03T15:45:00+02:00",
+  "erstellt_am": "2026-05-03T16:05:00+02:00",
   "hinweis": "RE-GEN 15:45 — Aufstellungen fuer 4 Top-Spiele verifiziert + Saison-Kontext nachgeschaerft. WICHTIGE NEWS: Liverpool ohne Salah+Isak+Alisson (Backup-Keeper Woodman startet) — United-Edge groesser. Gladbach ohne Top-Stuermer Kleindienst + Castrop. Freiburg-Trainer Schuster rotiert vor EL-HF Rueckspiel (Kicker bestaetigt!) — Freiburg-Sieg-Quote 2.55 ist daher RISIKO statt Edge. Tottenham ohne Solanke+Simons — Villa-Edge verstaerkt. Real Madrid CL-HF-Erfindung der Routine korrigiert (Real seit 15.04. raus vs Bayern). Mega-Sonntag: 3 BL, 3 PL, Real Madrid LaLiga, 2 Serie-A (Beobachtung), Lyon-Rennes, 2 NBA G7s.",
   "spiele": [
     {
