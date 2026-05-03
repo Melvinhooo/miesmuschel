@@ -316,23 +316,48 @@ def fix(path):
             kat = k.get('kategorie', '')
             k['empfohlener_einsatz_prozent'] = {'safe': 1.5, 'value': 0.8, 'risk': 0.25, 'moonshot': 0.1}.get(kat, 0.5)
         # Beine
+        import re
         for bein in k.get('beine', []):
             remap(bein, BEIN_RENAMES)
             # auswahl in markt mergen wenn vorhanden
             if bein.get('auswahl') and not bein.get('markt'):
                 bein['markt'] = bein['auswahl']
                 bein.pop('auswahl', None)
+
+            # Bein-Pick auf den Original-Tipp-Markt ersetzen.
+            # Routine schreibt oft generic "1X2", "Spread", "Doppelte Chance", "Total" -
+            # der User sieht dann "Pistons - Magic G7: Spread" ohne zu wissen WELCHE Spread.
+            # Wir loesen via tipp_id auf und nehmen den Original-Tipp-Markt-String
+            # ("Pistons -7.5 (Spread)", "Borussia Dortmund Sieg", "Beide Teams treffen JA").
+            bein_tid = bein.get('tipp_id') or bein.get('id')
+            bein_sid = bein.get('spiel_id')
+            original_pick = None
+            if bein_tid and bein_sid:
+                for spiel in d.get('spiele', []):
+                    if spiel.get('id') == bein_sid:
+                        for t in spiel.get('tipps', []):
+                            if t.get('id') == bein_tid or t.get('tipp_id') == bein_tid:
+                                original_pick = t.get('markt')
+                                break
+                        # Match-Titel aus spiel-Daten konstruieren als Fallback
+                        if not bein.get('spiel_titel'):
+                            heim = spiel.get('heim', '')
+                            gast = spiel.get('gast', '')
+                            if heim and gast:
+                                bein['spiel_titel'] = f"{heim} - {gast}"
+                        break
+
             # Match-Info ins markt-Feld einbauen damit app.js es zeigt (split via ':')
-            # app.js zeigt vor ":" als Match-Header, danach als Pick
             if bein.get('spiel_titel'):
-                import re
                 titel = bein['spiel_titel']
-                # Klammer-Suffixe wie "(CL HF Hinspiel)" / "(NBA)" entfernen
                 clean_titel = re.sub(r'\s*\([^)]*\)\s*$', '', titel).strip()
-                cur_markt = bein.get('markt', '')
-                # Nur praependen wenn Markt nicht schon mit Titel anfaengt
-                if cur_markt and not cur_markt.startswith(clean_titel):
-                    bein['markt'] = f"{clean_titel}: {cur_markt}"
+                if original_pick:
+                    # Original-Tipp-Markt nutzen statt generic Routine-String
+                    bein['markt'] = f"{clean_titel}: {original_pick}"
+                else:
+                    cur_markt = bein.get('markt', '')
+                    if cur_markt and not cur_markt.startswith(clean_titel):
+                        bein['markt'] = f"{clean_titel}: {cur_markt}"
 
     # Schlechte Markt-Typen droppen (Lottery, exotisch, doppelt)
     # Routine entscheidet selbst wie viele Tipps - nur Muell rauswerfen

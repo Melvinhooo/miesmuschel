@@ -228,6 +228,35 @@ function renderTagesVerlauf(verlauf) {
     const sign = (g.roi_prozent || 0) > 0 ? '+' : '';
     const headerSummary = `${g.gewonnen||0}/${g.gewonnen+g.verloren||0} · ${(g.trefferquote||0).toFixed(0)}% · ${sign}${(g.roi_prozent||0).toFixed(1)}%`;
     const detailId = `tag-detail-${idx}`;
+    // Kombi-Schein-Sicht: was haben die Risiko-Scheine an dem Tag gemacht
+    const kombisHtml = (tag.kombis || []).length === 0 ? '' : `
+      <div style="margin:14px 0 10px;">
+        <div style="color:#ffd700;font-size:0.9em;font-weight:600;margin-bottom:8px;">🚀 Kombi-Scheine:</div>
+        ${(tag.kombis || []).map(k => {
+          const farbe = _statusFarbe(k.status);
+          const emoji = _statusEmoji(k.status);
+          const beineHtml = (k.beine || []).map(b => {
+            const bf = _statusFarbe(b.status);
+            const be = _statusEmoji(b.status);
+            return `<div style="display:flex;gap:8px;font-size:0.78em;color:#b8d4e8;padding:3px 0;border-left:2px solid ${bf};padding-left:8px;margin:3px 0;">
+              <span>${be}</span>
+              <span style="flex:1;overflow-wrap:anywhere;">${escapeHtml(b.markt || '')}</span>
+              <span style="color:#ffd700;flex-shrink:0;">${(b.quote || 0).toFixed(2)}x</span>
+            </div>`;
+          }).join('');
+          return `
+            <div style="margin:10px 0;padding:10px 12px;background:rgba(156,39,176,0.08);border-left:3px solid ${farbe};border-radius:4px;">
+              <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:6px;flex-wrap:wrap;gap:6px;">
+                <strong style="color:${farbe};font-size:0.88em;">${emoji} ${escapeHtml(k.name)} (${escapeHtml(k.kategorie.toUpperCase())})</strong>
+                <span style="color:#ffd700;font-weight:600;">${(k.gesamtquote || 0).toFixed(2)}x · ${(k.einsatz_prozent || 0).toFixed(2)}%</span>
+              </div>
+              ${beineHtml}
+            </div>
+          `;
+        }).join('')}
+      </div>
+    `;
+
     const spieleHtml = (tag.spiele || []).map(sp => {
       const tippsHtml = (sp.tipps || []).map(t => {
         const farbe = _statusFarbe(t.status);
@@ -262,7 +291,7 @@ function renderTagesVerlauf(verlauf) {
         <span class="lesson-date">${tag.datum}</span>
         <span class="lesson-cat" style="background:${roiCls === 'pos' ? '#3ec98a33' : roiCls === 'neg' ? '#e8454533' : '#8fb4d833'};color:${_statusFarbe(roiCls === 'pos' ? 'gewonnen' : roiCls === 'neg' ? 'verloren' : 'offen')};">${headerSummary}</span>
         <div class="lesson-txt"><strong>${headerDatum}</strong> — ${tag.spiele.length} Spiele · klick für Details</div>
-        <div id="${detailId}" style="display:none;margin-top:14px;">${spieleHtml}</div>
+        <div id="${detailId}" style="display:none;margin-top:14px;">${kombisHtml}${spieleHtml}</div>
       </div>
       <style>#${detailId}.open { display: block !important; }</style>
     `;

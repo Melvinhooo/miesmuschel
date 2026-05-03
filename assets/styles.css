@@ -340,7 +340,10 @@ strong { color: #e89dd6; }
   border-radius: 8px; padding: 12px 14px;
 }
 .market.edge { border-color: #ffd700; background: rgba(255,215,0,0.07); }
-.markets-grid > .market { min-width: 0; }
+.markets-grid > .market { min-width: 0; overflow-wrap: anywhere; word-break: break-word; }
+.market > div { overflow-wrap: anywhere; }
+.combi-leg { overflow-wrap: anywhere; }
+.combi-leg-match, .combi-leg-tip, .combi-leg-reason { overflow-wrap: anywhere; word-break: break-word; }
 .market-top { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 6px; gap: 8px; flex-wrap: wrap; }
 .market-name { font-size: 0.85em; color: #e8f4ff; font-weight: 500; flex: 1 1 auto; min-width: 0; word-break: break-word; }
 .market-odd { font-size: 1em; font-weight: 700; color: #e8f4ff; flex: 0 0 auto; white-space: nowrap; }

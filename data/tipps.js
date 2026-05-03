@@ -895,28 +895,28 @@ window.__MIESMUSCHEL_TIPPS = {
         {
           "tipp_id": "avl-tot-1",
           "spiel_id": "2026-05-03-avl-tot",
-          "markt": "Aston Villa - Tottenham: Doppelte Chance",
+          "markt": "Aston Villa - Tottenham: Villa oder Unentschieden (1X)",
           "quote": 1.45,
           "spiel_titel": "Aston Villa - Tottenham"
         },
         {
           "tipp_id": "mun-liv-2",
           "spiel_id": "2026-05-03-mun-liv",
-          "markt": "Manchester United - Liverpool: Doppelte Chance",
+          "markt": "Manchester United - Liverpool: United oder Unentschieden (1X)",
           "quote": 1.4,
           "spiel_titel": "Manchester United - Liverpool"
         },
         {
           "tipp_id": "esp-rma-1",
           "spiel_id": "2026-05-03-esp-rma",
-          "markt": "Espanyol - Real Madrid: Doppelte Chance",
+          "markt": "Espanyol - Real Madrid: Real Madrid oder Unentschieden (X2)",
           "quote": 1.2,
           "spiel_titel": "Espanyol - Real Madrid"
         },
         {
           "tipp_id": "bou-cry-1",
           "spiel_id": "2026-05-03-bou-cry",
-          "markt": "Bournemouth - Crystal Palace: Doppelte Chance",
+          "markt": "Bournemouth - Crystal Palace: Bournemouth oder Unentschieden (1X)",
           "quote": 1.22,
           "spiel_titel": "Bournemouth - Crystal Palace"
         }
@@ -932,14 +932,14 @@ window.__MIESMUSCHEL_TIPPS = {
         {
           "tipp_id": "bmg-bvb-1",
           "spiel_id": "2026-05-03-bmg-bvb",
-          "markt": "Gladbach - Borussia Dortmund: 1X2",
+          "markt": "Gladbach - Borussia Dortmund: Borussia Dortmund Sieg",
           "quote": 1.9,
           "spiel_titel": "Gladbach - Borussia Dortmund"
         },
         {
           "tipp_id": "fre-wol-2",
           "spiel_id": "2026-05-03-fre-wol",
-          "markt": "Freiburg - Wolfsburg: 1X2",
+          "markt": "Freiburg - Wolfsburg: Freiburg Sieg",
           "quote": 2.55,
           "spiel_titel": "Freiburg - Wolfsburg"
         },
@@ -983,14 +983,14 @@ window.__MIESMUSCHEL_TIPPS = {
         {
           "tipp_id": "cle-tor-2",
           "spiel_id": "2026-05-04-cle-tor",
-          "markt": "Cavaliers - Raptors G7: Spread",
+          "markt": "Cavaliers - Raptors G7: Toronto Raptors +8.5 (Spread)",
           "quote": 1.91,
           "spiel_titel": "Cavaliers - Raptors G7"
         },
         {
           "tipp_id": "det-orl-1",
           "spiel_id": "2026-05-03-det-orl",
-          "markt": "Pistons - Magic G7: Spread",
+          "markt": "Pistons - Magic G7: Pistons -7.5 (Spread)",
           "quote": 1.91,
           "spiel_titel": "Pistons - Magic G7"
         }
@@ -1006,35 +1006,35 @@ window.__MIESMUSCHEL_TIPPS = {
         {
           "tipp_id": "stp-mai-3",
           "spiel_id": "2026-05-03-stp-mai",
-          "markt": "St. Pauli - Mainz 05: Beide Teams treffen",
+          "markt": "St. Pauli - Mainz 05: Beide Teams treffen NEIN",
           "quote": 1.95,
           "spiel_titel": "St. Pauli - Mainz 05"
         },
         {
           "tipp_id": "fre-wol-3",
           "spiel_id": "2026-05-03-fre-wol",
-          "markt": "Freiburg - Wolfsburg: Beide Teams treffen",
+          "markt": "Freiburg - Wolfsburg: Beide Teams treffen JA",
           "quote": 1.65,
           "spiel_titel": "Freiburg - Wolfsburg"
         },
         {
           "tipp_id": "oly-ren-2",
           "spiel_id": "2026-05-03-oly-ren",
-          "markt": "Lyon - Rennes: Beide Teams treffen",
+          "markt": "Lyon - Rennes: Beide Teams treffen JA",
           "quote": 1.65,
           "spiel_titel": "Lyon - Rennes"
         },
         {
           "tipp_id": "det-orl-2",
           "spiel_id": "2026-05-03-det-orl",
-          "markt": "Pistons - Magic G7: Total",
+          "markt": "Pistons - Magic G7: Unter 211.5 Punkte",
           "quote": 1.91,
           "spiel_titel": "Pistons - Magic G7"
         },
         {
           "tipp_id": "cle-tor-3",
           "spiel_id": "2026-05-04-cle-tor",
-          "markt": "Cavaliers - Raptors G7: Total",
+          "markt": "Cavaliers - Raptors G7: Ueber 211.5 Punkte",
           "quote": 1.91,
           "spiel_titel": "Cavaliers - Raptors G7"
         },

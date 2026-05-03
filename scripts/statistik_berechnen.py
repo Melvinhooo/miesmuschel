@@ -403,12 +403,59 @@ def baue_tages_verlauf() -> list[dict]:
                     "endstand": (spiel.get("ergebnis") or {}).get("endstand", "—"),
                     "tipps":    tipps_view,
                 })
-        if spiele_view:
+        # Kombis-Sicht: pro Kombi-Schein die Beine + Status anzeigen
+        kombis_view = []
+        kombis_ergebnis = {ke.get("kombi_id"): ke for ke in daten.get("kombis_ergebnis", [])}
+        for kombi in daten.get("kombis", []):
+            ke = kombis_ergebnis.get(kombi.get("id"), {})
+            beine_view = []
+            for bein in kombi.get("beine", []):
+                # Pro Bein das Tipp-Ergebnis aus dem zugehoerigen Spiel finden
+                bein_status = "offen"
+                bein_kommentar = ""
+                bein_sid = bein.get("spiel_id")
+                bein_tid = bein.get("tipp_id") or bein.get("id")
+                if bein_sid and bein_tid:
+                    for spiel in daten.get("spiele", []):
+                        if spiel.get("id") == bein_sid:
+                            for te in spiel.get("tipps_ergebnis", []):
+                                if te.get("tipp_id") == bein_tid:
+                                    bein_status = te.get("status", "offen")
+                                    bein_kommentar = te.get("kommentar", "")
+                                    break
+                            break
+                beine_view.append({
+                    "markt":     bein.get("markt"),
+                    "quote":     float(bein.get("quote") or 0.0),
+                    "status":    bein_status,
+                    "kommentar": bein_kommentar,
+                })
+            # Kombi-Status: gewonnen wenn alle Beine gewonnen, sonst verloren wenn eins verloren, sonst offen
+            statuses = [b["status"] for b in beine_view]
+            if all(s == "gewonnen" for s in statuses) and statuses:
+                kombi_status = "gewonnen"
+            elif any(s == "verloren" for s in statuses):
+                kombi_status = "verloren"
+            elif statuses:
+                kombi_status = "offen"
+            else:
+                kombi_status = "offen"
+            kombis_view.append({
+                "name":            kombi.get("name", kombi.get("id", "?")),
+                "kategorie":       (kombi.get("kategorie") or "").lower(),
+                "gesamtquote":     float(kombi.get("gesamtquote") or 0.0),
+                "einsatz_prozent": float(kombi.get("empfohlener_einsatz_prozent") or 0.0),
+                "status":          kombi_status,
+                "beine":           beine_view,
+            })
+
+        if spiele_view or kombis_view:
             finalize(gesamt)
             verlauf.append({
                 "datum":  datum,
                 "gesamt": gesamt,
                 "spiele": spiele_view,
+                "kombis": kombis_view,
             })
     return verlauf
 
