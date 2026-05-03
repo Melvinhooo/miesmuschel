@@ -18,37 +18,17 @@
         "Bayern -2 Asian Handicap @ 1.94 - ein 3+-Tore-Sieg hat hohe Wahrscheinlichkeit.",
         "Anstoss 15:30 MESZ, Sky Bundesliga 1. Beide Teams ohne Doppelbelastung."
       ],
-      "tipps": [
-        {
-          "markt": "Bayern Sieg (90 Min)",
-          "kategorie": "safe",
-          "quote": 1.19,
-          "edge_prozent": 4,
-          "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "Klassendifferenz-SAFE-Konstellation lt. Lesson 25.04. (75-90% Soll): klare Klassen-Asymmetrie + Topscorer Kane fit + Heidenheim in keinem Backs-against-the-wall-Modus. Lesson 01.05. Conference-Goldgrube-Pattern: Heim-Top-Klub gegen klar unterlegene Liga-Konkurrenz = SAFE-Edge legitim. Quote via Sportsgambler verifiziert (1.19 = 84% implizit, real ~88-90%). 2:0-Insurance gilt fuer den Sieg-Tipp - bei BL ist das ein zusaetzlicher Edge-Kissen. Lt. Bilanz: Bayern-Sieg bisher 1/1 = 100% / +45% ROI, Bundesliga-Markt aktuell 8/11 = 72.7% / +13.5% ROI - klare Goldgrube.",
-          "faire_quote": 1.13,
-          "id": "2026-05-02-bayern-heidenheim-t1"
-        },
-        {
-          "markt": "Bayern Asian Handicap -2",
-          "kategorie": "value",
-          "quote": 1.94,
-          "edge_prozent": 7,
-          "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "Bayern -2 zahlt voll bei 3+ Tore Vorsprung, Geld-zurueck bei genau 2 Toren - praktisch eine 'Sieg mit 3 Toren oder ueberhaupt klar'-Wette. Heidenheim hat in der Saison gegen Top-Teams meist 3+ Tore kassiert, Allianz-Heimbilanz Bayern macht 3:0/4:1 Endstaende plausibel. Quote via Sportsgambler verifiziert. Lt. Bilanz: Quoten-Range 1.50-2.00 hat zwar -5.6% ROI insgesamt, aber bei klarer Klassen-Asymmetrie statistisch +ROI. Spread-aehnlicher Markt mit Insurance-Komponente - sicherer als reine 3+-Tore-Sieg-Wette.",
-          "faire_quote": 1.81,
-          "id": "2026-05-02-bayern-heidenheim-t2"
-        },
-        {
-          "markt": "Harry Kane trifft (jederzeit)",
-          "kategorie": "value",
-          "quote": 1.43,
-          "edge_prozent": 6,
-          "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "Kane Topscorer Saison, Bayern Heim gegen schwache Heidenheim-Defense = hohe Volumen-Wahrscheinlichkeit. Lesson 26.04. Einwechslungs-Boost-Strategie: wenn Kane in 65.-70. Min ausgewechselt fuer Mueller/Tel/Jackson-Backup, zaehlt Backup-Tor zum Tipp. Bei 3:0-Spielen ist das ein realistisches Szenario. Quote via Sportsgambler verifiziert. Lt. Bilanz: Lewandowski-Tor-Tipp letzte Bilanz verloren (Lewandowski-Markt 0/1) - aber Kane hat hoehere Saisonschnitt-Volumen (~0.85 Tore/Spiel) + Insurance-Boost. Hinweis: nicht in einzeltipps[] - Player-Tor-Markt zu volatil als Solo, nur als Kombi-Bein in Balance.",
-          "faire_quote": 1.35,
-          "id": "2026-05-02-bayern-heidenheim-t3"
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     },
     {
@@ -66,27 +46,17 @@
         "BTTS JA @ 1.57, Ueber 2.5 @ ~1.53 - Frankfurt-Heim historisch tor-stark.",
         "Anstoss 15:30 MESZ, Sky Bundesliga 2. Beide Teams ohne Doppelbelastung."
       ],
-      "tipps": [
-        {
-          "markt": "Frankfurt Doppelte Chance (1X)",
-          "kategorie": "safe",
-          "quote": 1.22,
-          "edge_prozent": 5,
-          "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "Frankfurt-Heim @ 1.68 Sieg-Favorit, Hamburg auswaerts winless 6 Spiele, abgestiegener-Aufsteiger-Modus = Klassen-Asymmetrie + Motivations-Asymmetrie (Frankfurt EL-Quali-Druck vs Hamburg Saison-Auslaufen). Lesson 25.04. SAFE-Reality-Check (75-90% Soll) erfuellt: klare Klassendifferenz + KEIN Backs-against-the-wall-Underdog (Hamburg gerettet von Nochnicht-Abstieg). DC 1X als Goldgrube-Markt (Bilanz 6/6 = 100% / +24% ROI). Quote via Sportsgambler/Easyodds verifiziert. Lt. Bilanz: Doppelte-Chance-Markt aktuell Goldgrube, Bundesliga +13.5% ROI - solide Konstellation.",
-          "faire_quote": 1.16,
-          "id": "2026-05-02-frankfurt-hamburg-t1"
-        },
-        {
-          "markt": "Ueber 2.5 Tore",
-          "kategorie": "wackel",
-          "quote": 1.53,
-          "edge_prozent": null,
-          "empfohlener_einsatz_prozent": 0.5,
-          "begruendung": "Frankfurt-Heim Saisonschnitt 2.6 Tore/Spiel, Hamburg defensiv schwach (1.6 Gegentore/Spiel auswaerts), Konstellation prinzipiell tor-traechtig. Aber Lesson-Filter: 'Mehr als 2.5 Tore' ist Markt-Bluter (50% / -15% ROI bei 2 Tipps) - daher max wackel statt value, vorsichtige Einstufung. Hamburg koennte in Auslauf-Modus auch defensiv-passiv 1:0/2:0 verlieren. Quote via Sportsgambler. Lt. Bilanz: Markt 'Ueber 2.5' aktuell Bluter, daher konservativ. Nur als Moonshot-Bein verwendet.",
-          "faire_quote": 1.53,
-          "id": "2026-05-02-frankfurt-hamburg-t2"
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     },
     {
@@ -103,27 +73,17 @@
         "Sportsgambler-Konsens: 1-1 als wahrscheinlichstes Ergebnis (Cote 7.5).",
         "Anstoss 15:30 MESZ. Beide Teams ohne Doppelbelastung."
       ],
-      "tipps": [
-        {
-          "markt": "Bremen Doppelte Chance (1X)",
-          "kategorie": "value",
-          "quote": 1.4,
-          "edge_prozent": 6,
-          "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "Heim-DC gegen schwaechere Auswaerts-Truppe = Goldgrube-Markt (DC 6/6 / +24% ROI lt. Bilanz). Bremen 54% Sieg-Implizit + 22% X = 76% kombiniert vs 1.40 = 71% impl. Markt unterschaetzt knapp. Augsburg auswaerts in der Saison nur 3 Siege geholt. Lesson 25.04.: keine SAFE-Klasse weil keine echte Klassen-Asymmetrie (beide Mittelfeld) - daher value statt SAFE. Quote via Sportsgambler verifiziert. Lt. Bilanz: BL-Markt 13.5% ROI, DC-Markt-Goldgrube. NICHT in einzeltipps[] - Pick'em-naher Charakter, nur als Risiko-Kombi-Bein.",
-          "faire_quote": 1.32,
-          "id": "2026-05-02-bremen-augsburg-t1"
-        },
-        {
-          "markt": "BTTS JA",
-          "kategorie": "wackel",
-          "quote": 1.52,
-          "edge_prozent": null,
-          "empfohlener_einsatz_prozent": 0.5,
-          "begruendung": "Beide Teams haben defensive Schwaechen Saison, Konstellation passt. Lesson 01.05.: 'BTTS JA' lt. Bilanz Bluter (1/3 = 33% / -43% ROI) - daher max wackel, keine value-Empfehlung trotz konstellations-passender Konstellation. Sportsgambler-Konsens 1-1 stuetzt BTTS-These. Quote via Sportsgambler. Lt. Bilanz: BTTS-JA-Bluter erkannt, daher vorsichtig.",
-          "faire_quote": 1.52,
-          "id": "2026-05-02-bremen-augsburg-t2"
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     },
     {
@@ -141,17 +101,17 @@
         "Ueber 3 Tore @ 1.53 - Stat-Empfehlung Sportsgambler.",
         "Stuttgart Asian Handicap +0.25 @ 1.80 - DC-aehnlich + Underdog-Wert."
       ],
-      "tipps": [
-        {
-          "markt": "Stuttgart Doppelte Chance (X2)",
-          "kategorie": "value",
-          "quote": 1.62,
-          "edge_prozent": 6,
-          "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "Pick'em-Spiel mit knapper Quote-Differenz - Stuttgart auswaerts mit klarem Quoten-Vorteil ueber X (1.62 = 62% implizit). Stuttgart-Defense diese Saison stabiler als Hoffenheim, letzte 3 Direktduelle alle remis (zuletzt 0:0). Lesson 25.04. SAFE nur bei klarer Klassen-Asymmetrie - hier gibt es keine, daher value statt SAFE. Quote via Sportsgambler. Lt. Bilanz: 'VfB Stuttgart Doppelte Chance (1X)' bisher 1/1 = 100% (allerdings andere Konstellation), DC-Markt allgemein Goldgrube. NICHT in einzeltipps[] - Pick'em-zu-knapp, nur als Moonshot-Bein.",
-          "faire_quote": 1.53,
-          "id": "2026-05-02-hoffenheim-stuttgart-t1"
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     },
     {
@@ -169,27 +129,17 @@
         "Unter 3.5 Tore @ 1.83 - 67% Leverkusen-Heim und 67% Leipzig-Auswaerts hatten <=3 Tore.",
         "BTTS JA @ 1.36 - Konsens-Erwartung."
       ],
-      "tipps": [
-        {
-          "markt": "Leverkusen Doppelte Chance (1X)",
-          "kategorie": "value",
-          "quote": 1.5,
-          "edge_prozent": 7,
-          "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "Motivations-Asymmetrie: Leverkusen kaempft um CL-Quali (volle Konzentration), Leipzig hat 3. Platz schon sicher (Rotations-Risiko). Heim-DC ist sicherer als direkter Sieg-Tipp + nutzt den Goldgrube-Markt (DC 6/6 / +24% ROI). Lesson 26.04. Saisonkontext-Pflicht: Champions-Position-Diff klar Heim-Edge. Quote via Sportsgambler verifiziert. Lt. Bilanz: Bayer Leverkusen Sieg 1/1 / +85% ROI, DC-Markt-Goldgrube. Konstellation rechtfertigt value, nicht SAFE wegen Auswaerts-Stark-Liga-Position Leipzig.",
-          "faire_quote": 1.4,
-          "id": "2026-05-02-leverkusen-leipzig-t1"
-        },
-        {
-          "markt": "Unter 3.5 Tore",
-          "kategorie": "value",
-          "quote": 1.83,
-          "edge_prozent": 8,
-          "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "Sportytrader-Statistik: 67% Leverkusen-Heim und 67% Leipzig-Auswaerts hatten <=3 Tore Saison. Konsens-Markt geht zwar von hohem Tor-Volumen aus (Ueber 3.0 @ 1.60), aber statistische Basis spricht eher dagegen. Leipzig-Auswaerts taktisch oft kompakt + Leverkusen bei CL-Druck nicht uebertrieben offen. Quote via Sportsgambler. Lt. Bilanz: Markt 'Mehr als 2.5 Tore' Bluter, das spricht fuer Unter-Variante als Spiegel-Edge. Nur als Balance-Kombi-Bein verwendet (Leverkusen-DC ist in einzeltipps - Layer-3 verlangt Markt-Diversifizierung).",
-          "faire_quote": 1.69,
-          "id": "2026-05-02-leverkusen-leipzig-t2"
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     },
     {
@@ -206,37 +156,17 @@
         "Unter 2.5 Tore @ 2.04 - Arsenal-Heim oft 1:0/2:0-Schmetter-Show.",
         "Anstoss 17:30 MESZ, Sky Sports Premier League."
       ],
-      "tipps": [
-        {
-          "markt": "Arsenal Sieg (90 Min)",
-          "kategorie": "safe",
-          "quote": 1.48,
-          "edge_prozent": 5,
-          "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "Klassendifferenz-SAFE: Arsenal Top-3-Klub, Fulham Mittelfeld. Vegasodds-Modell 71.5% Arsenal-Sieg vs 1.48 = 67.5% implizit = Edge 4-6%. Lesson 25.04. SAFE-Reality-Check erfuellt: klare Klassendifferenz + Topscorer fit + KEIN Backs-against-the-wall-Underdog (Fulham gerettet). Lesson 01.05. Conference-Goldgrube-Pattern: Heim-Top-PL-Klub gegen klar unterlegene Mid-Table-Truppe. Quote via Sportsgambler verifiziert. Lt. Bilanz: Arsenal Sieg 1/1 / +65% ROI, PL-Markt 3/4 = 75% / +10% ROI.",
-          "faire_quote": 1.41,
-          "id": "2026-05-02-arsenal-fulham-t1"
-        },
-        {
-          "markt": "Arsenal Doppelte Chance (1X)",
-          "kategorie": "safe",
-          "quote": 1.13,
-          "edge_prozent": null,
-          "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "Defensive Backup-Variante zum direkten Sieg-Tipp. Arsenal-Heim gegen Mid-PL-Team verliert sehr selten - DC ist 90%+ Hitrate-Konstellation. Quote 1.13 mathematisch knapp aber DC-Markt 6/6 = 100% Goldgrube. Komplementaer zum SAFE-Sieg-Tipp aber Layer-3 verbietet Doppelung in selben Spiel - daher nicht in Kombis genutzt. Quote via Sportsgambler. Hinweis: Backup-Info-Tipp, nicht in einzeltipps[].",
-          "faire_quote": 1.13,
-          "id": "2026-05-02-arsenal-fulham-t2"
-        },
-        {
-          "markt": "Unter 2.5 Tore",
-          "kategorie": "wackel",
-          "quote": 2.04,
-          "edge_prozent": null,
-          "empfohlener_einsatz_prozent": 0.5,
-          "begruendung": "Arsenal-Heim gegen Mid-PL oft 1:0/2:0-Spiele - Defense voll fokussiert. Aber Lesson-Filter: 'Mehr als 2.5 Tore' ist Bluter-Markt, 'Weniger als 2.5' aktuell -3.7% ROI bei 4 Tipps - knapp negativ aber nicht hart Bluter. Bei Arsenal-Heim-Konstellation prinzipiell value, aber Quote 2.04 zeigt Markt-Skepsis. Daher max wackel. Quote via Sportsgambler.",
-          "faire_quote": 2.04,
-          "id": "2026-05-02-arsenal-fulham-t3"
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     },
     {
@@ -254,27 +184,17 @@
         "Lesson 28.04. Embiid-Falle: Heim-Closeout-Annahmen mit Star-Out-These bei diesem Matchup nicht mehr anwendbar - Embiid ist da.",
         "Tipoff 19:30 ET (01:30 MESZ am 03.05.), Peacock/NBC."
       ],
-      "tipps": [
-        {
-          "markt": "Celtics Sieg (Moneyline)",
-          "kategorie": "value",
-          "quote": 1.29,
-          "edge_prozent": 4,
-          "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "Heim-G7 in NBA-Round-1 historisch ueber 80% Hitrate fuer Heim-Favoriten mit Quote <1.40. Tatum + Brown beide voll fit + Embiid trotz Comeback-Form noch nicht 100% (G6 erst zweite volle Belastung nach OP). Spread -7.5/-9.5 = Celtics werden mit Statement-Game antworten. ABER Lesson 28.04. (Embiid-Comeback-Falle): Celtics-SAFE-These war 28.04. ohne Embiid - heute Embiid da, Lesson lehrt dass solche Annahmen kippen koennen. Trotzdem Heim-G7 = Value, nicht SAFE wegen 76ers-Form letzte 2 Spiele. Quote via Sportsline/FanDuel. Lt. Bilanz: Celtics-Sieg 2/3 / +7% ROI, Knicks/Wolves Heim-G6/G7 alle 100% Hitrate. NICHT in einzeltipps[] - Embiid-Falle Lesson-Risiko + nur +7% Bilanz, lieber als Risiko-Kombi-Bein.",
-          "faire_quote": 1.24,
-          "id": "2026-05-02-celtics-76ers-g7-t1"
-        },
-        {
-          "markt": "Ueber 206.5 Punkte",
-          "kategorie": "wackel",
-          "quote": 1.91,
-          "edge_prozent": null,
-          "empfohlener_einsatz_prozent": 0.5,
-          "begruendung": "G7-Decider-Druck + Tatum/Brown vs Embiid/Maxey-Volumen-Stars. Lesson 30.04.: Decider mit 2 Volume-Stars beidseitig = Ueber-Edge (Cavs-Raptors G5 245 Total bestaetigt). Aber Celtics-Defense ist Top-3 Liga + G7 oft taktisch enger - max wackel statt value. SportsLine-Modell tendiert zu Ueber. Quote via Sportsgambler. Lt. Bilanz: NBA-Ueber-Markt aktuell 4/6 = 66.7% Goldgrube-Tendenz, aber knapp.",
-          "faire_quote": 1.91,
-          "id": "2026-05-02-celtics-76ers-g7-t2"
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     },
     {
@@ -292,17 +212,17 @@
         "El Sadar gilt als schwierigstes Auswaerts-Stadion der Liga (Osasuna-Heim-PPG ~1.6).",
         "Anstoss 21:00 MESZ, DAZN."
       ],
-      "tipps": [
-        {
-          "markt": "Barcelona Doppelte Chance (X2)",
-          "kategorie": "value",
-          "quote": 1.27,
-          "edge_prozent": 5,
-          "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "Auswaerts-DC fuer Top-Klub @ 1.27 = 79% impl - Modell 76.4% kombiniert (53.7 + 22.7). Knappe Edge ueber Markt. Lesson 25.04. SAFE-Filter: El Sadar als schwieriges Stadion + Barca koennte rotieren bei klarem Tabellenvorsprung -> NICHT SAFE, sondern value. DC-Markt-Goldgrube (6/6 / +24% ROI). Quote via Sportsgambler verifiziert. Lt. Bilanz: 'Barcelona Doppelte Chance (X2)' bisher 1/1 / +20% ROI - klare DC-Konstellation.",
-          "faire_quote": 1.21,
-          "id": "2026-05-02-osasuna-barcelona-t1"
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     },
     {
@@ -320,27 +240,17 @@
         "Markt: Mainz Auswaerts-Favorit (Sportsgambler-Konsens), Modelle teils Mainz-Sieg, teils BTTS+.",
         "Anstoss 15:30 MESZ, Sky."
       ],
-      "tipps": [
-        {
-          "markt": "Mainz Doppelte Chance (X2)",
-          "kategorie": "value",
-          "quote": 1.55,
-          "edge_prozent": 6,
-          "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "Mainz auswaerts solide Saison, St. Pauli akut im Form-Tief (67% Niederlagen letzte 6). Historisches H2H spricht klar fuer Mainz (80% Mainz-Vorteil letzte 5). Aber Lesson 25.04. SAFE-Filter: St. Pauli ist Backs-against-the-wall-Underdog (Abstiegskampf!) - daher KEIN SAFE-Label, max value. DC-Markt-Goldgrube. Quote via Sportsgambler. Lt. Bilanz: DC-Markt 6/6 / +24% ROI - solide Konstellation, aber Abstiegskampf-Bonus-Faktor von St. Pauli rechtfertigt vorsichtigere Einstufung.",
-          "faire_quote": 1.46,
-          "id": "2026-05-03-stpauli-mainz-t1"
-        },
-        {
-          "markt": "Unter 3.5 Tore",
-          "kategorie": "wackel",
-          "quote": 1.25,
-          "edge_prozent": null,
-          "empfohlener_einsatz_prozent": 0.5,
-          "begruendung": "Beide Teams keine offensiv-explosiven Mannschaften, St. Pauli-Heim oft enge Spiele. Quote 1.25 sehr knapp aber Markt-Konsens auf Unter 3.5. Konservativ als wackel statt SAFE wegen knapper Marge. Quote via Sportsgambler.",
-          "faire_quote": 1.25,
-          "id": "2026-05-03-stpauli-mainz-t2"
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     },
     {
@@ -357,27 +267,17 @@
         "Dortmund hat Pokal-Final-Doppelbelastung (?) - Rotations-Risiko zu pruefen.",
         "Anstoss 17:30 MESZ, Sky."
       ],
-      "tipps": [
-        {
-          "markt": "Dortmund Doppelte Chance (X2)",
-          "kategorie": "safe",
-          "quote": 1.25,
-          "edge_prozent": 5,
-          "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "Dortmund klarer Auswaerts-Favorit gegen Mittelfeld-Gladbach ohne Liga-Druck. Lesson 26.04. Saison-Kontext-Pflicht: Dortmund CL-Quali-Druck (volle Konzentration) vs Gladbach Mittelfeld-Auslauf-Modus = Motivations-Asymmetrie pro Dortmund. DC X2 nutzt Goldgrube-Markt (6/6 / +24% ROI), absorbed Remis-Risiko. Lesson 25.04. SAFE-Filter erfuellt: Klassendifferenz + Stuermer-Voll-Fokus + KEIN Backs-against-the-wall-Underdog. Quote via Sportsgambler. Lt. Bilanz: Dortmund Sieg 1/1 / +43% ROI, DC-Goldgrube + BVB-Form bestaetigt.",
-          "faire_quote": 1.19,
-          "id": "2026-05-03-mgladbach-dortmund-t1"
-        },
-        {
-          "markt": "Ueber 2.5 Tore",
-          "kategorie": "wackel",
-          "quote": 1.57,
-          "edge_prozent": null,
-          "empfohlener_einsatz_prozent": 0.5,
-          "begruendung": "Dortmund-Offensive gegen Gladbach-Defense oft tor-traechtig, Konstellation passt. Aber Lesson-Filter: 'Mehr als 2.5 Tore' Markt-Bluter (50% / -15% ROI) - max wackel. Quote via Sportsgambler.",
-          "faire_quote": 1.57,
-          "id": "2026-05-03-mgladbach-dortmund-t2"
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     },
     {
@@ -394,27 +294,17 @@
         "BTTS @ ~9/20 (1.45) - Top-Klub-Duell mit beidseitigem Tor-Druck.",
         "Anstoss 16:30 UK / 17:30 MESZ, Sky Sports Main Event."
       ],
-      "tipps": [
-        {
-          "markt": "Beide Teams Doppelte Chance Strategie - SKIP",
-          "kategorie": "wackel",
-          "quote": 2.3,
-          "edge_prozent": null,
-          "empfohlener_einsatz_prozent": 0.0,
-          "begruendung": "Coinflip-Top-4-Duell mit knapper Klassen-Symmetrie - Man Utd Heim-Vorteil, Liverpool Auswaerts-Hoehenflug. Lesson 25.04. SAFE-Filter NICHT erfuellt (keine Klassen-Asymmetrie + keine Motivations-Asymmetrie - beide brauchen Punkte). Coinflip-Kategorie - lt. Tonalitaet-Regel CLAUDE.md zum Ueberspringen empfohlen. Daher empfohlener_einsatz 0%. Quote via Easyodds.",
-          "faire_quote": 2.3,
-          "id": "2026-05-03-manutd-liverpool-t1"
-        },
-        {
-          "markt": "BTTS JA",
-          "kategorie": "wackel",
-          "quote": 1.45,
-          "edge_prozent": null,
-          "empfohlener_einsatz_prozent": 0.0,
-          "begruendung": "Top-Klub-Duell mit beidseitigem Tor-Druck = BTTS-prinzipiell-passend. Aber Lesson 01.05. BTTS-Bluter (1/3 / -43% ROI) + niedriger Quote 1.45 = nicht spielbar wegen Markt-Skepsis. Daher empfohlener_einsatz 0%. Quote via Easyodds. Nur als Moonshot-Spass-Bein.",
-          "faire_quote": 1.45,
-          "id": "2026-05-03-manutd-liverpool-t2"
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     },
     {
@@ -431,17 +321,17 @@
         "Tottenham winless extreme Form-Tiefstand letzte Saison-Hilfte.",
         "Anstoss 14:00 ET / 19:00 MESZ, Sky Sports."
       ],
-      "tipps": [
-        {
-          "markt": "Aston Villa Doppelte Chance (1X)",
-          "kategorie": "value",
-          "quote": 1.4,
-          "edge_prozent": 6,
-          "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "Villa-Heim Form-stark + EL-Quali-Druck, Tottenham im Form-Tiefstand + Trainer-Druck. Lesson 25.04. SAFE-Filter ABER: Tottenham 18. = Backs-against-the-wall-Underdog mit Abstiegs-Druck-Motivation - genau die Konstellation die Lesson lehrt 'NICHT als SAFE'. Daher max value statt SAFE. DC-Markt-Goldgrube. Quote via Easyodds. Lt. Bilanz: PL +10% ROI, DC-Goldgrube. Tottenham-Backs-Against-Wall-Faktor rechtfertigt value, nicht SAFE.",
-          "faire_quote": 1.32,
-          "id": "2026-05-03-villa-tottenham-t1"
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     },
     {
@@ -459,17 +349,17 @@
         "Polymarket: Espanyol 40% impl / X 32% / Real ~28% impl - Markt sehr unentschieden.",
         "Anstoss 21:00 MESZ."
       ],
-      "tipps": [
-        {
-          "markt": "Real Madrid Doppelte Chance (X2)",
-          "kategorie": "value",
-          "quote": 1.3,
-          "edge_prozent": 5,
-          "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "Real klarer Klassen-Favorit, Espanyol winless 16 Spiele - massive Form-Asymmetrie. ABER Lesson 26.04. Saison-Kontext: Real ohne Meister-Race-Druck (11 Pkt Rueckstand) + Verletzungs-Krise = Rotations-Risiko + Defense-Schwaeche. Daher max value statt SAFE. Lesson 22.04. (Real nach CL-Aus unberechenbar) - Real ist im aktuellen CL-Halbfinal-Modus, Liga koennte Auslauf-Charakter haben. DC-Goldgrube. Quote via Stake. Lt. Bilanz: 'Real Madrid Doppelte Chance (X2)' bisher 1/1 / +35% ROI - klare DC-Konstellation. NICHT in einzeltipps[] - LaLiga-Liga-Bilanz negativ (-4.6% ROI) + Real-Verletzungs-Krise + CL-Doppelbelastung = zu viele Risikofaktoren als Solo-Empfehlung, nur als Balance-Kombi-Bein.",
-          "faire_quote": 1.24,
-          "id": "2026-05-03-espanyol-realmadrid-t1"
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     },
     {
@@ -486,252 +376,22 @@
         "Markt-Konsens: Inter 77.5% impl Sieg, X 15%, Parma 8%.",
         "Anstoss 20:45 MESZ, DAZN. Inter hat CL-Halbfinal-Doppelbelastung."
       ],
-      "tipps": [
-        {
-          "markt": "Inter Sieg",
-          "kategorie": "wackel",
-          "quote": 1.3,
-          "edge_prozent": null,
-          "empfohlener_einsatz_prozent": 0.0,
-          "begruendung": "Beobachtung - Liga-Form noch nicht kalibriert (Serie A ROI -32.5% letzte 30 Tage). Inter klarer Favorit aber CL-Halbfinal-Doppelbelastung -> Rotations-Risiko. Beobachtungs-Liga-Modus heisst NICHT in einzeltipps/Safe-Balance-Risiko. Lt. Bilanz: 'Inter Mailand Sieg' bisher 0/1 / -100% ROI - genau die Schwaeche die zur Beobachtungs-Markierung fuehrte. Empfohlener Einsatz 0% - reine Analyse-Anzeige.",
-          "faire_quote": 1.3,
-          "id": "2026-05-03-inter-parma-t1"
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     }
   ],
-  "einzeltipps": [
-    {
-      "rang": 1,
-      "spiel_id": "2026-05-02-bayern-heidenheim",
-      "tipp_id": "2026-05-02-bayern-heidenheim-t1",
-      "markt": "Bayern Sieg (90 Min)",
-      "quote": 1.19,
-      "kategorie": "safe",
-      "kurz": "Allianz-Klassendifferenz pur + 2:0-Insurance. Bilanz Bayern 1/1 / +45% ROI, BL Goldgrube +13.5% ROI.",
-      "empfohlener_einsatz_prozent": 1.5
-    },
-    {
-      "rang": 2,
-      "spiel_id": "2026-05-02-arsenal-fulham",
-      "tipp_id": "2026-05-02-arsenal-fulham-t1",
-      "markt": "Arsenal Sieg (90 Min)",
-      "quote": 1.48,
-      "kategorie": "safe",
-      "kurz": "Klassendifferenz-Goldgrube. Modell 71.5%, Markt 67.5% impl. Bilanz Arsenal 1/1 / +65% ROI, PL 3/4 +10%.",
-      "empfohlener_einsatz_prozent": 1.5
-    },
-    {
-      "rang": 3,
-      "spiel_id": "2026-05-02-frankfurt-hamburg",
-      "tipp_id": "2026-05-02-frankfurt-hamburg-t1",
-      "markt": "Frankfurt Doppelte Chance (1X)",
-      "quote": 1.22,
-      "kategorie": "safe",
-      "kurz": "Frankfurt EL-Quali-Push vs Hamburg-Auslauf-Modus. DC-Markt 6/6 = 100% / +24% ROI Goldgrube.",
-      "empfohlener_einsatz_prozent": 1.5
-    },
-    {
-      "rang": 4,
-      "spiel_id": "2026-05-03-mgladbach-dortmund",
-      "tipp_id": "2026-05-03-mgladbach-dortmund-t1",
-      "markt": "Dortmund Doppelte Chance (X2)",
-      "quote": 1.25,
-      "kategorie": "safe",
-      "kurz": "BVB CL-Quali-Druck vs Gladbach-Auslauf. BVB-Sieg 1/1 / +43% ROI + DC-Goldgrube.",
-      "empfohlener_einsatz_prozent": 1.5
-    },
-    {
-      "rang": 5,
-      "spiel_id": "2026-05-02-osasuna-barcelona",
-      "tipp_id": "2026-05-02-osasuna-barcelona-t1",
-      "markt": "Barcelona Doppelte Chance (X2)",
-      "quote": 1.27,
-      "kategorie": "value",
-      "kurz": "Barca-Klassen-Edge + DC-Goldgrube. Barca-DC 1/1 / +20% ROI. El Sadar haerter, daher value statt SAFE.",
-      "empfohlener_einsatz_prozent": 1.5
-    },
-    {
-      "rang": 6,
-      "spiel_id": "2026-05-02-leverkusen-leipzig",
-      "tipp_id": "2026-05-02-leverkusen-leipzig-t1",
-      "markt": "Leverkusen Doppelte Chance (1X)",
-      "quote": 1.5,
-      "kategorie": "value",
-      "kurz": "Leverkusen CL-Quali-Druck vs Leipzig (3. Platz sicher, Rotation). Leverkusen-Sieg 1/1 / +85% ROI.",
-      "empfohlener_einsatz_prozent": 1.0
-    },
-    {
-      "rang": 7,
-      "spiel_id": "2026-05-03-stpauli-mainz",
-      "tipp_id": "2026-05-03-stpauli-mainz-t1",
-      "markt": "Mainz Doppelte Chance (X2)",
-      "quote": 1.55,
-      "kategorie": "value",
-      "kurz": "Mainz auswaerts solide vs St. Pauli Form-Tief. H2H 80% Mainz. DC-Goldgrube +24% ROI.",
-      "empfohlener_einsatz_prozent": 1.0
-    },
-    {
-      "rang": 8,
-      "spiel_id": "2026-05-03-villa-tottenham",
-      "tipp_id": "2026-05-03-villa-tottenham-t1",
-      "markt": "Aston Villa Doppelte Chance (1X)",
-      "quote": 1.4,
-      "kategorie": "value",
-      "kurz": "Villa-Heim EL-Quali-Druck vs Tottenham Form-Tiefstand. PL +10% ROI + DC-Goldgrube. Backs-Against-Wall-Filter laesst kein SAFE zu.",
-      "empfohlener_einsatz_prozent": 1.0
-    }
-  ],
-  "kombis": [
-    {
-      "name": "Safe-Kombi (4 Beine)",
-      "kategorie": "safe",
-      "beine": [
-        {
-          "spiel_id": "2026-05-02-bayern-heidenheim",
-          "tipp_id": "2026-05-02-bayern-heidenheim-t1",
-          "markt": "Bayern Sieg",
-          "quote": 1.19
-        },
-        {
-          "spiel_id": "2026-05-02-arsenal-fulham",
-          "tipp_id": "2026-05-02-arsenal-fulham-t1",
-          "markt": "Arsenal Sieg",
-          "quote": 1.48
-        },
-        {
-          "spiel_id": "2026-05-02-frankfurt-hamburg",
-          "tipp_id": "2026-05-02-frankfurt-hamburg-t1",
-          "markt": "Frankfurt DC 1X",
-          "quote": 1.22
-        },
-        {
-          "spiel_id": "2026-05-03-mgladbach-dortmund",
-          "tipp_id": "2026-05-03-mgladbach-dortmund-t1",
-          "markt": "Dortmund DC X2",
-          "quote": 1.25
-        }
-      ],
-      "gesamtquote": 2.69,
-      "rechnung": "1.19 x 1.48 x 1.22 x 1.25 = 2.69",
-      "empfohlener_einsatz_prozent": 1.0,
-      "begruendung": "Vier Klassendifferenz-Spiele aus BL/PL mit klarer Motivations-Asymmetrie. Layer-1: max 1 Bein pro Spiel ✓. Layer-2: alle Sieg-Outcomes konzentriert in Safe-Kombi (lesson-konform). Layer-3: jedes Spiel/Markt unique. Realistische Hitrate ~50% bei 4 Beinen mit je 75-85%."
-    },
-    {
-      "name": "Balance-Kombi (4 Beine, Total/Tor-Mix)",
-      "kategorie": "value",
-      "beine": [
-        {
-          "spiel_id": "2026-05-02-bayern-heidenheim",
-          "tipp_id": "2026-05-02-bayern-heidenheim-t3",
-          "markt": "Kane trifft",
-          "quote": 1.43
-        },
-        {
-          "spiel_id": "2026-05-02-leverkusen-leipzig",
-          "tipp_id": "2026-05-02-leverkusen-leipzig-t2",
-          "markt": "Unter 3.5 Tore",
-          "quote": 1.83
-        },
-        {
-          "spiel_id": "2026-05-02-osasuna-barcelona",
-          "tipp_id": "2026-05-02-osasuna-barcelona-t1",
-          "markt": "Barca DC X2",
-          "quote": 1.27
-        },
-        {
-          "spiel_id": "2026-05-03-espanyol-realmadrid",
-          "tipp_id": "2026-05-03-espanyol-realmadrid-t1",
-          "markt": "Real DC X2",
-          "quote": 1.3
-        }
-      ],
-      "gesamtquote": 4.32,
-      "rechnung": "1.43 x 1.83 x 1.27 x 1.30 = 4.32",
-      "empfohlener_einsatz_prozent": 0.5,
-      "begruendung": "Mix aus Tor-, Total- und DC-Outcomes - Layer-2 sauber: Bayern-Spiel hat Sieg in Safe + Kane-Tor hier (anderer Markttyp), Leverkusen-Spiel hat DC 1X als Einzeltipp + Total hier (anderer Markttyp), Barca/Real sind neue Spiele die NICHT in Safe-Kombi sind. Layer-1: jedes Bein anderes Spiel ✓. Layer-3: jedes Spiel/Markt-Bein unique ueber alle Kombis. Hitrate ~25-35%."
-    },
-    {
-      "name": "Risiko-Kombi (4 Beine)",
-      "kategorie": "risk",
-      "beine": [
-        {
-          "spiel_id": "2026-05-02-bayern-heidenheim",
-          "tipp_id": "2026-05-02-bayern-heidenheim-t2",
-          "markt": "Bayern AH -2",
-          "quote": 1.94
-        },
-        {
-          "spiel_id": "2026-05-02-celtics-76ers-g7",
-          "tipp_id": "2026-05-02-celtics-76ers-g7-t1",
-          "markt": "Celtics ML",
-          "quote": 1.29
-        },
-        {
-          "spiel_id": "2026-05-02-bremen-augsburg",
-          "tipp_id": "2026-05-02-bremen-augsburg-t1",
-          "markt": "Bremen DC 1X",
-          "quote": 1.4
-        },
-        {
-          "spiel_id": "2026-05-03-villa-tottenham",
-          "tipp_id": "2026-05-03-villa-tottenham-t1",
-          "markt": "Villa DC 1X",
-          "quote": 1.4
-        }
-      ],
-      "gesamtquote": 4.91,
-      "rechnung": "1.94 x 1.29 x 1.40 x 1.40 = 4.91",
-      "empfohlener_einsatz_prozent": 0.25,
-      "begruendung": "Mix aus AH/ML/DC. Layer-2: Bayern-AH-2 ist NICHT der Bayern-Sieg-Tipp aus Safe (anderer Markttyp). Celtics ML neu (NBA G7), Bremen + Villa neue Spiele ohne Doppelung mit Safe. Layer-3: jedes Spiel/Markt unique - Villa-DC ist auch in einzeltipps[] aber das ist nicht Kombi-Doppelung. Hitrate ~12-18%."
-    },
-    {
-      "name": "Moonshot-Kombi (6 Beine, Spass)",
-      "kategorie": "moonshot",
-      "beine": [
-        {
-          "spiel_id": "2026-05-02-frankfurt-hamburg",
-          "tipp_id": "2026-05-02-frankfurt-hamburg-t2",
-          "markt": "Ueber 2.5 FFM-HSV",
-          "quote": 1.53
-        },
-        {
-          "spiel_id": "2026-05-02-leverkusen-leipzig",
-          "tipp_id": "2026-05-02-leverkusen-leipzig-t1",
-          "markt": "Leverkusen DC 1X",
-          "quote": 1.5
-        },
-        {
-          "spiel_id": "2026-05-02-hoffenheim-stuttgart",
-          "tipp_id": "2026-05-02-hoffenheim-stuttgart-t1",
-          "markt": "Stuttgart DC X2",
-          "quote": 1.62
-        },
-        {
-          "spiel_id": "2026-05-03-stpauli-mainz",
-          "tipp_id": "2026-05-03-stpauli-mainz-t1",
-          "markt": "Mainz DC X2",
-          "quote": 1.55
-        },
-        {
-          "spiel_id": "2026-05-02-celtics-76ers-g7",
-          "tipp_id": "2026-05-02-celtics-76ers-g7-t2",
-          "markt": "Ueber 206.5",
-          "quote": 1.91
-        },
-        {
-          "spiel_id": "2026-05-03-manutd-liverpool",
-          "tipp_id": "2026-05-03-manutd-liverpool-t2",
-          "markt": "BTTS JA MUtd-Liverpool",
-          "quote": 1.45
-        }
-      ],
-      "gesamtquote": 15.96,
-      "rechnung": "1.53 x 1.50 x 1.62 x 1.55 x 1.91 x 1.45 = 15.96",
-      "empfohlener_einsatz_prozent": 0.1,
-      "begruendung": "6-Bein-Spasskombi. Ehrlicher Hinweis: 15.96x ist eher 'Hoch-Risk' als echte Moonshot (100x+) - der Tag liefert keine echten Lotto-Quoten, weil keine Mega-Underdogs im Programm. Best-of statt aufgeblasen. Layer-1: jedes Bein anderes Spiel ✓. Layer-2: keine Doppelung mit Safe-Kombi-Sieg-Outcomes (Bayern-Spiel hier nicht drin, Arsenal nicht drin, Frankfurt nutzt Total statt DC, BVB nicht drin). Layer-3: jedes Spiel/Markt unique - Leverkusen-DC ist auch als Einzeltipp aber nicht in anderer Kombi. Stuttgart-DC und Mainz-DC sind neue Spiel-Markt-Beine. Bayern-AH-2 raus aus Moonshot weil bereits in Risiko (Layer-3-Verletzung vermieden). MUtd-Liverpool BTTS bewusst trotz Bluter-Status als Spass-Bein. Hitrate ~5-8% wegen niedrigerer Quote."
-    }
-  ],
+  "einzeltipps": [],
+  "kombis": [],
   "lessons_angewandt": [
     {
       "lesson_datum": "2026-05-01",

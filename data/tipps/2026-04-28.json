@@ -17,47 +17,17 @@
         "PSG zuhause Parc des Princes Heim-Festung in CL 2024/25 (Triumph-Saison) - Atmosphaere + Heim-Pressing-Vorteil.",
         "Bayern reist nach DFB-Pokal-Halbfinale (22.04. 2:0 in Leverkusen) + Liga-Spiel (25.04. Mainz 4:3) - 6 Tage 3 harte Spiele = Belastungsdruck."
       ],
-      "tipps": [
-        {
-          "id": "t1",
-          "markt": "Doppelte Chance PSG oder Unentschieden (1X)",
-          "quote": 1.4,
-          "faire_quote": 1.31,
-          "edge_prozent": 7,
-          "kategorie": "safe",
-          "begruendung": "PSG-Heim-Pressing + Bayern-Lazarett (5 Schluesselspieler raus) + Bayern-Belastung (3 harte Spiele in 6 Tagen). 1X faengt selbst Bayern-Konter ab. Klassischer SAFE-Anker fuer den CL-HF-Tag - Quote via SportsGambler verifiziert.",
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "t2",
-          "markt": "Beide Teams treffen - Ja",
-          "quote": 1.36,
-          "faire_quote": 1.31,
-          "edge_prozent": 4,
-          "kategorie": "safe",
-          "begruendung": "Beide Top-Offensiven (PSG: Dembele/Kvara/Doue zurueck, Bayern: Kane in Top-Form mit 32 Saisontoren). PSG-Defense ohne Hakimi-Backup duenn, Bayern-Defense ohne Davies links. BTTS-Quote bei 1.36 ist solider SAFE-Anker.",
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "t3",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.4,
-          "faire_quote": 1.36,
-          "edge_prozent": 3,
-          "kategorie": "safe",
-          "begruendung": "Beide Defensen geschwaecht (PSG-Hakimi Bench, Bayern-Davies/Kim out), beide Offensen voll. Modell-Konsens ~2.85 erwartete Tore. SAFE-Tier weil ueber 2.5 fast die haelfte aller CL-HF-Hinspiele 2020-2025 traf.",
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "t4",
-          "markt": "Ousmane Dembele Jederzeit-Torschuetze",
-          "quote": 2.45,
-          "faire_quote": 2.22,
-          "edge_prozent": 10,
-          "kategorie": "value",
-          "begruendung": "Dembele in PSG-Form 2024/25 17 CL-Tore, gegen Bayern-Defense ohne Davies links = Dembele's Lieblingsseite. Bei Hakimi-Backup-Strategie wird Dembele Volumen-Stuermer. VALUE-Quote bei 2.45 - bester Torschuetzen-Edge des Tages.",
-          "empfohlener_einsatz_prozent": 1.0
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     },
     {
@@ -73,47 +43,17 @@
         "Embiid-Ausfall fuer 76ers (Blinddarm-OP) - Maxey/Edgecombe-Backcourt allein nicht genug gegen Boston-Defense.",
         "TD Garden Heim-Festung - Celtics seit Playoff-Start ungeschlagen zuhause."
       ],
-      "tipps": [
-        {
-          "id": "t1",
-          "markt": "Celtics Sieg (Moneyline)",
-          "quote": 1.18,
-          "faire_quote": 1.13,
-          "edge_prozent": 4,
-          "kategorie": "safe",
-          "begruendung": "Closeout-Heim-Spiel + Embiid OUT bei 76ers + Tatum/Brown Hot-Hand. Klassendifferenz im G5 maximal. SAFE per CLAUDE.md: Klassen-Differenz, Topscorer fit, kein Sweep-Druck-Underdog.",
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "t2",
-          "markt": "Celtics -8.5 Spread",
-          "quote": 1.55,
-          "faire_quote": 1.5,
-          "edge_prozent": 3,
-          "kategorie": "safe",
-          "begruendung": "Closeout-Spread bei -8.5 ist konservativ - Celtics zuhause ohne Embiid bei 76ers oft 12-15 Punkte Sieg. Kompromiss-Spread mit guter Quote.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t3",
-          "markt": "Beide Teams Mehr als 100 Punkte",
-          "quote": 1.65,
-          "faire_quote": 1.55,
-          "edge_prozent": 6,
-          "kategorie": "value",
-          "begruendung": "Celtics-Pace im Closeout hoch + 76ers ohne Embiid muss schiessen statt halten. Beide ueber 100 in 8 von 10 letzten Aufeinandertreffen. VALUE bei 1.65.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t4",
-          "markt": "Jaylen Brown Mehr als 25.5 Punkte",
-          "quote": 1.85,
-          "faire_quote": 2.0,
-          "edge_prozent": -7,
-          "kategorie": "wackel",
-          "begruendung": "Brown G4 36 Pkt, Closeout-Mode fuer Bostons No.2-Scorer. Aber Lesson: NBA-Playoff-Player-Punkte max WACKEL wegen 5/17-Hit-Rate. Nur Risiko/Moonshot-Bein, nicht Einzeltipp.",
-          "empfohlener_einsatz_prozent": 0.5
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     },
     {
@@ -129,47 +69,17 @@
         "Hawks ohne Trae Young (seit Trade Januar 2026 bei Wizards) - McCollum als neuer Top-Scorer auswaerts schwer.",
         "Pivot-G5 Heim-Statistik: in NBA-Playoffs 2020-2025 hat Heim-Team 2-2-Pivot-G5 in 73% gewonnen."
       ],
-      "tipps": [
-        {
-          "id": "t1",
-          "markt": "Knicks Sieg (Moneyline)",
-          "quote": 1.36,
-          "faire_quote": 1.31,
-          "edge_prozent": 4,
-          "kategorie": "safe",
-          "begruendung": "Pivot-G5 Heim-Statistik 73%, Knicks-Klassequalitaet (Brunson + Towns) ueber Hawks-McCollum-Solo. Hawks auswaerts gegen Top-Heimteam ohne Trae historisch schwach. SAFE-Reality-Check passt.",
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "t2",
-          "markt": "Knicks -3.5 Spread",
-          "quote": 1.45,
-          "faire_quote": 1.4,
-          "edge_prozent": 4,
-          "kategorie": "safe",
-          "begruendung": "Spread konservativ - Knicks zuhause im Pivot-G5 oft 7-10 Punkte Sieg. -3.5 ist sicherer Floor. Quote 1.45 mit Edge.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t3",
-          "markt": "Knicks Sieg & Beide Teams Mehr als 100 Punkte",
-          "quote": 1.85,
-          "faire_quote": 1.75,
-          "edge_prozent": 6,
-          "kategorie": "value",
-          "begruendung": "Knicks-Sieg-Wahrscheinlichkeit ~73%, Beide 100+ ~85% - Kombi-Wahrscheinlichkeit ~62%. Quote 1.85 ist VALUE. Pivot-G5s sind selten defensiv-Schlachten.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t4",
-          "markt": "CJ McCollum Mehr als 19.5 Punkte",
-          "quote": 1.85,
-          "faire_quote": 1.8,
-          "edge_prozent": 3,
-          "kategorie": "wackel",
-          "begruendung": "McCollum als Hawks-Solo-Topscorer in G3 32 Pkt, G2 26 Pkt. Auswaerts G5 bei Knicks Volumen wahrscheinlich da, aber Player-Punkte max WACKEL. Nur Risiko/Moonshot-Bein.",
-          "empfohlener_einsatz_prozent": 0.5
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     },
     {
@@ -185,122 +95,21 @@
         "Blazers ohne ihre G2-Held-Performance (107:103 Aufholjagd ohne Wemby damit) - mit Wemby zurueck Klassendifferenz wieder normal.",
         "Spurs-Heimstaerke + Wemby-Rueckkehr-Effekt = Massiv-Favorit -12.5 (Buchmacher)."
       ],
-      "tipps": [
-        {
-          "id": "t1",
-          "markt": "Spurs Sieg (Moneyline)",
-          "quote": 1.1,
-          "faire_quote": 1.08,
-          "edge_prozent": 2,
-          "kategorie": "safe",
-          "begruendung": "Wemby zurueck + Heim-Closeout + Blazers ohne Star-Power = Klassendifferenz extrem. Sicherster Sieg-Tipp des Tages bei 1.10.",
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "t2",
-          "markt": "Unter 215.5 Punkte (Total)",
-          "quote": 1.91,
-          "faire_quote": 1.8,
-          "edge_prozent": 6,
-          "kategorie": "value",
-          "begruendung": "Wemby zurueck = Defense Top-Tier (Block-King), Blazers-Offense limitiert. Linie 215.5 hoch fuer Defense-vs-Lite-Offense-Spiel. VALUE bei 1.91.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t3",
-          "markt": "Spurs Sieg & Unter 215.5 (Kombi-Single)",
-          "quote": 2.1,
-          "faire_quote": 1.95,
-          "edge_prozent": 8,
-          "kategorie": "value",
-          "begruendung": "Beide hochwahrscheinlich (Sieg ~91%, Unter ~52%) - korrelierte Kombi (Wemby-Defense druckt Total + sichert Sieg). Quote 2.10 mit klarem Edge.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t4",
-          "markt": "Wembanyama Triple-Double",
-          "quote": 7.5,
-          "faire_quote": 8.5,
-          "edge_prozent": -12,
-          "kategorie": "wackel",
-          "begruendung": "Wemby Saison-TD-Rate ~12%, in Closeout-Heim-Spiel mit Volumen oft erhoeht (~15-18%). Quote 7.50 etwas zu kurz - aber wertvoll fuer Moonshot-Bein.",
-          "empfohlener_einsatz_prozent": 0.5
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     }
   ],
-  "einzeltipps": [
-    {
-      "id": "e1",
-      "rang": 1,
-      "tipp_id": "t1",
-      "spiel_id": "2026-04-29-spurs-blazers-g5",
-      "markt": "Spurs Sieg (Moneyline)",
-      "quote": 1.1,
-      "kategorie": "safe",
-      "empfohlener_einsatz_prozent": 1.5
-    },
-    {
-      "id": "e2",
-      "rang": 2,
-      "tipp_id": "t1",
-      "spiel_id": "2026-04-29-celtics-76ers-g5",
-      "markt": "Celtics Sieg (Moneyline)",
-      "quote": 1.18,
-      "kategorie": "safe",
-      "empfohlener_einsatz_prozent": 1.5
-    },
-    {
-      "id": "e3",
-      "rang": 3,
-      "tipp_id": "t1",
-      "spiel_id": "2026-04-29-knicks-hawks-g5",
-      "markt": "Knicks Sieg (Moneyline)",
-      "quote": 1.36,
-      "kategorie": "safe",
-      "empfohlener_einsatz_prozent": 1.5
-    },
-    {
-      "id": "e4",
-      "rang": 4,
-      "tipp_id": "t1",
-      "spiel_id": "2026-04-28-psg-bayern",
-      "markt": "Doppelte Chance PSG oder Unentschieden (1X)",
-      "quote": 1.4,
-      "kategorie": "safe",
-      "empfohlener_einsatz_prozent": 1.5
-    },
-    {
-      "id": "e5",
-      "rang": 5,
-      "tipp_id": "t3",
-      "spiel_id": "2026-04-29-spurs-blazers-g5",
-      "markt": "Spurs Sieg & Unter 215.5 (Kombi-Single)",
-      "quote": 2.1,
-      "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0
-    },
-    {
-      "id": "e6",
-      "rang": 6,
-      "tipp_id": "t4",
-      "spiel_id": "2026-04-28-psg-bayern",
-      "markt": "Ousmane Dembele Jederzeit-Torschuetze",
-      "quote": 2.45,
-      "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0
-    },
-    {
-      "id": "e7",
-      "rang": 7,
-      "tipp_id": "t3",
-      "spiel_id": "2026-04-29-celtics-76ers-g5",
-      "markt": "Beide Teams Mehr als 100 Punkte",
-      "quote": 1.65,
-      "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0
-    }
-  ],
+  "einzeltipps": [],
   "kombis": [
     {
       "id": "k_safe",

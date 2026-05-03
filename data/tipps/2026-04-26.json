@@ -17,47 +17,17 @@
         "Bet365-Quote Stuttgart Sieg ~1.50, Bremen Sieg ~6.20, Remis ~4.40 (Wettbasis 25.04 18:17)",
         "KI-Modelle geben Stuttgart 61% Sieg-Wahrscheinlichkeit"
       ],
-      "tipps": [
-        {
-          "id": "t1",
-          "markt": "VfB Stuttgart Doppelte Chance (1X)",
-          "quote": 1.2,
-          "faire_quote": 1.16,
-          "edge_prozent": 3,
-          "kategorie": "safe",
-          "begruendung": "Bremen reist mit dezimiertem Kader, kein Saisonziel mehr. Stuttgart trotz Pokal-Belastung zuhause klar drueber. DC faengt Mueder-Beine-Remis-Risiko ab. SAFE-Reality-Check: Klassendifferenz + Topscorer fit + kein Backs-against-the-wall-Underdog (Bremen ist gerettet, ohne Druck). Lesson 25.04. greift.",
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "t2",
-          "markt": "VfB Stuttgart Sieg",
-          "quote": 1.5,
-          "faire_quote": 1.45,
-          "edge_prozent": 3,
-          "kategorie": "value",
-          "begruendung": "Heim + Bremen-Verletzungs-Krise + Heim-Stuttgart-Druck (CL-Quali). Recovery-Risiko nach 120 Min Pokal Donnerstag ist real, daher VALUE statt SAFE. Quote bei 1.50 fair-positiv.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t3",
-          "markt": "Deniz Undav trifft (jederzeit)",
-          "quote": 1.85,
-          "faire_quote": 1.7,
-          "edge_prozent": 8,
-          "kategorie": "value",
-          "begruendung": "Undav 18 Saisontore + Heim + Bremen-Defense ohne Topp/Weiser. Einwechslungs-Boost-Edge: Demirovic (9 Saisontore) als Doppel-9er-Backup auf dem Platz oder Bank — bei Undav-Auswechslung zaehlt Demirovic-Tor fuer Undav-Tipp (bet365-Regel). Quote 1.85 hat Edge.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t4",
-          "markt": "Mehr als 2.5 Tore",
-          "quote": 1.85,
-          "faire_quote": 1.8,
-          "edge_prozent": 3,
-          "kategorie": "wackel",
-          "begruendung": "Stuttgart Heimtore-Schnitt 2.0, Bremen Auswaerts trotz Defense-Krise zaeh. Coinflip-nah, leichter Edge. Reduziertes Risiko.",
-          "empfohlener_einsatz_prozent": 0.5
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     },
     {
@@ -75,37 +45,17 @@
         "H2H: Freiburg konnte BVB in letzten 8 Begegnungen nicht schlagen, 7 Niederlagen",
         "Bet365-Quote BVB Sieg ~1.43, Freiburg Sieg ~7.0, Remis ~5.20"
       ],
-      "tipps": [
-        {
-          "id": "t5",
-          "markt": "Borussia Dortmund Sieg",
-          "quote": 1.43,
-          "faire_quote": 1.4,
-          "edge_prozent": 2,
-          "kategorie": "safe",
-          "begruendung": "Klassendifferenz hoch, Heim-Festung, Freiburg doppelbelastet (Pokal-HF Donnerstag, 120 Min Belastung) und ohne CL-Quali-Druck. SAFE-Reality-Check: Topscorer Guirassy fit, kein Backs-against-the-wall-Underdog (Freiburg gut platziert). 2-Niederlagen-Slump beobachten, aber gegen mueden Freiburg-Block daheim Klasse-Bounce-Back wahrscheinlich.",
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "t6",
-          "markt": "Beide Teams treffen: JA",
-          "quote": 1.77,
-          "faire_quote": 1.65,
-          "edge_prozent": 7,
-          "kategorie": "value",
-          "begruendung": "Freiburg hat in letzten 7 Spielen IMMER getroffen. BVB-Defense mit Anton/Schlotterbeck zuverlaessig aber nicht null-zu-null-Garantie. In 6 von 9 letzten BVB-Spielen BTTS. Quote 1.77 mit Edge.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t7",
-          "markt": "Serhou Guirassy trifft (jederzeit)",
-          "quote": 1.65,
-          "faire_quote": 1.6,
-          "edge_prozent": 3,
-          "kategorie": "value",
-          "begruendung": "Guirassy Top-Scorer BVB, Heim, Freiburg-Defense ohne Osterhage. Einwechslungs-Boost-Setup: Beier oder Sabitzer als alternative Stuermer-Backups falls Auswechslung. Solide Wahrscheinlichkeit.",
-          "empfohlener_einsatz_prozent": 1.0
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     },
     {
@@ -122,27 +72,17 @@
         "DC X2 (Schalke oder Remis) bei AdmiralBet 1.50",
         "BTTS bei 1.57"
       ],
-      "tipps": [
-        {
-          "id": "t8",
-          "markt": "Schalke 04 Doppelte Chance (X2)",
-          "quote": 1.5,
-          "faire_quote": 1.45,
-          "edge_prozent": 3,
-          "kategorie": "value",
-          "begruendung": "Tabellenfuehrer Schalke darf hier nicht verlieren, sonst kippt Aufstiegs-Race. DC faengt Remis ab. Schalke in besserer Form ueber 5er-Block.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t9",
-          "markt": "Beide Teams treffen: JA",
-          "quote": 1.57,
-          "faire_quote": 1.55,
-          "edge_prozent": 1,
-          "kategorie": "wackel",
-          "begruendung": "Top-Spiel, beide offensiv. Aber Druck-Spiele in 2.BL oft taktisch, unter 2 Tore moeglich. Knapper Edge.",
-          "empfohlener_einsatz_prozent": 0.5
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     },
     {
@@ -159,27 +99,17 @@
         "Bet365-Quote Bochum Sieg ~1.75, Fuerth Sieg ~4.50, Remis ~4.30",
         "BTTS JA @ 1.56"
       ],
-      "tipps": [
-        {
-          "id": "t10",
-          "markt": "VfL Bochum Sieg",
-          "quote": 1.75,
-          "faire_quote": 1.65,
-          "edge_prozent": 6,
-          "kategorie": "value",
-          "begruendung": "Heim-Vorteil + Aufstiegs-Druck (Bochum braucht jeden Punkt) vs Fuerth ohne Druck. Klare Motivations-Asymmetrie zugunsten Heim. Quote 1.75 hat Value.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t11",
-          "markt": "Beide Teams treffen: JA",
-          "quote": 1.56,
-          "faire_quote": 1.55,
-          "edge_prozent": 1,
-          "kategorie": "wackel",
-          "begruendung": "Beide Defensiven mittelmaessig. Fuerth auswaerts oft offensiv mutig. Knapper Edge — als Wackel.",
-          "empfohlener_einsatz_prozent": 0.5
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     },
     {
@@ -195,17 +125,17 @@
         "Motivations-Asymmetrie: Magdeburg hat keinen direkten Druck mehr, ohne Top-Torjaeger schwach.",
         "Bet365-Quote Nuernberg Sieg ~2.45, Magdeburg Sieg ~2.81, Remis ~3.70 — relativ ausgeglichen aber Heim-Edge"
       ],
-      "tipps": [
-        {
-          "id": "t12",
-          "markt": "1. FC Nuernberg Doppelte Chance (1X)",
-          "quote": 1.45,
-          "faire_quote": 1.38,
-          "edge_prozent": 5,
-          "kategorie": "value",
-          "begruendung": "Magdeburg ohne Top-Stuermer Zukowski (gesperrt) deutlich geschwaecht — historische Punkteausbeute ohne ihn nur 0,6/Spiel. Heim-Nuernberg sollte mindestens Punkt holen. DC sicherer als reiner Sieg.",
-          "empfohlener_einsatz_prozent": 1.0
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     },
     {
@@ -221,37 +151,17 @@
         "Bet365-Quote Inter Sieg ~1.40, Torino Sieg ~7.50, Remis ~4.85",
         "Voraussichtliche Aufstellungen: Inter (3-5-2): Sommer; Bisseck, Akanji, Carlos Augusto; Dumfries, Barella, Calhanoglu, Zielinski, Dimarco; Thuram, Esposito"
       ],
-      "tipps": [
-        {
-          "id": "t13",
-          "markt": "Inter Mailand Sieg",
-          "quote": 1.4,
-          "faire_quote": 1.35,
-          "edge_prozent": 4,
-          "kategorie": "safe",
-          "begruendung": "Klassendifferenz extrem (Tabellenfuehrer vs Mittelfeld), Inter ohne CL-Belastung diese Woche, Topscorer-Block Thuram/Esposito fit. SAFE-Reality-Check: Klassendifferenz + kein Sweep-Druck/Backs-against-the-wall + Topscorer fit. Inter spielt um Meisterschaft = volle Konzentration.",
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "t14",
-          "markt": "Inter Mehr als 1.5 Tore",
-          "quote": 1.3,
-          "faire_quote": 1.28,
-          "edge_prozent": 2,
-          "kategorie": "safe",
-          "begruendung": "Inter Auswaerts-Tore-Schnitt 2.1, Torino-Defense Mittelmass. 2+ Inter-Tore klar wahrscheinlich.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t15",
-          "markt": "Mehr als 2.5 Tore",
-          "quote": 1.85,
-          "faire_quote": 1.8,
-          "edge_prozent": 3,
-          "kategorie": "value",
-          "begruendung": "Inter offensiv stark, Torino versucht zu kontern. Über 2.5 mit leichtem Edge.",
-          "empfohlener_einsatz_prozent": 1.0
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     },
     {
@@ -268,27 +178,17 @@
         "Snai-Quote bestaetigt: Juve 2.45, Milan 3.00, Remis 3.10",
         "Coinflip-Charakter mit leichtem Juve-Edge auswaerts"
       ],
-      "tipps": [
-        {
-          "id": "t16",
-          "markt": "Juventus Doppelte Chance (X2)",
-          "quote": 1.45,
-          "faire_quote": 1.4,
-          "edge_prozent": 3,
-          "kategorie": "value",
-          "begruendung": "Juve in besserer Form auswaerts, Milan zuhause inkonsistent. CL-Quali-Druck auf beiden Seiten = Juve nicht verlieren wollen. DC faengt Remis ab. Coinflip-nah, leichter Edge.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t17",
-          "markt": "Weniger als 2.5 Tore",
-          "quote": 1.85,
-          "faire_quote": 1.8,
-          "edge_prozent": 3,
-          "kategorie": "wackel",
-          "begruendung": "CL-Quali-Druck-Spiele oft taktisch eng, Tor-armes Duell wahrscheinlich. Aber Top-Stuermer auf beiden Seiten = Risiko. Coinflip.",
-          "empfohlener_einsatz_prozent": 0.5
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     },
     {
@@ -304,27 +204,17 @@
         "Motivations-Asymmetrie KOMPLEX: Sevilla braucht Punkte um Abstieg zu vermeiden = hohe Motivation, ABER Form-Krise. Osasuna ohne Druck = Spielbetriebs-Modus.",
         "Bet365-Quote Osasuna Sieg ~2.14, Sevilla Sieg ~3.35, Remis ~3.20"
       ],
-      "tipps": [
-        {
-          "id": "t18",
-          "markt": "Sevilla Doppelte Chance (X2)",
-          "quote": 1.7,
-          "faire_quote": 1.6,
-          "edge_prozent": 6,
-          "kategorie": "value",
-          "begruendung": "Sevilla im Abstiegskampf = Backs-against-the-wall-Motivation, MUSS punkten. Osasuna ohne Druck. DC faengt Auswaerts-Remis ab. Quote 1.70 attraktiv. Achtung: Korrelation mit Lesson 25.04. (Backs-against-the-wall-Underdog kann Heim-Favorit kippen) — hier umgekehrt: Sevilla ist Auswaerts-Underdog mit Druck.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t19",
-          "markt": "Osasuna Sieg",
-          "quote": 2.14,
-          "faire_quote": 2.2,
-          "edge_prozent": -3,
-          "kategorie": "wackel",
-          "begruendung": "Osasuna Heim-Stark, Sevilla in Krise. Aber Sevilla-Druck = unberechenbar. Coinflip mit Heim-Edge nominal, aber Abstiegs-Underdog-Risiko spricht eher fuer Sevilla-DC. Niedriger Einsatz.",
-          "empfohlener_einsatz_prozent": 0.5
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     },
     {
@@ -341,27 +231,17 @@
         "Bet365-Quote Marseille Sieg ~1.46, Nice Sieg ~6.50, Remis ~4.50",
         "Pronostic-Experten geben Marseille -1 @ 2.18 als Value mit +8.1% Edge"
       ],
-      "tipps": [
-        {
-          "id": "t20",
-          "markt": "Olympique Marseille Sieg",
-          "quote": 1.46,
-          "faire_quote": 1.4,
-          "edge_prozent": 4,
-          "kategorie": "safe",
-          "begruendung": "Klassendifferenz + Marseille-Heimstaerke + Nice-Auswaerts-Schwaeche extreme. SAFE-Reality-Check: Topscorer fit, kein Sweep-Druck, Klassendifferenz klar. Velodrome-Festung.",
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "t21",
-          "markt": "Marseille Handicap -1 (Marseille gewinnt mit 2+ Toren Vorsprung)",
-          "quote": 2.18,
-          "faire_quote": 1.85,
-          "edge_prozent": 18,
-          "kategorie": "value",
-          "begruendung": "Nice Auswaerts 2.00 Gegentore/Spiel, Marseille Heim-Toren-Schnitt ueber 2.0. -1-Sieg (z.B. 2:0, 3:1) sehr realistisch. Algorithmus-Edge +8% — eher 2-Tore-Sieg-Wahrscheinlichkeit ueber 50%.",
-          "empfohlener_einsatz_prozent": 1.0
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     },
     {
@@ -379,27 +259,17 @@
         "Bet365-Quote Chelsea Sieg ~1.95 (+105 ML), Leeds Sieg ~3.55 (+255 ML), Remis ~3.60",
         "Leeds DC (X1) bei Ladbrokes 1.75"
       ],
-      "tipps": [
-        {
-          "id": "t22",
-          "markt": "Leeds United Doppelte Chance (X2)",
-          "quote": 1.75,
-          "faire_quote": 1.6,
-          "edge_prozent": 9,
-          "kategorie": "value",
-          "begruendung": "Form > Klasse hier: Chelsea verlor 7 von 8, Trainer-Wechsel. Leeds 7 unbesiegt. Wembley = neutral. Markt ueberbewertet Chelsea-Klasse, daher DC X2 mit klarem Edge.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t23",
-          "markt": "Leeds United Sieg (90 Min)",
-          "quote": 3.55,
-          "faire_quote": 2.8,
-          "edge_prozent": 27,
-          "kategorie": "wackel",
-          "begruendung": "Form-Edge sehr stark. Quote 3.55 unterschaetzt Leeds-Momentum + Chelsea-Krise. Cup-HF mit Underdog-Romantik. Wackel wegen Pokal-Varianz, aber Quote klar Value.",
-          "empfohlener_einsatz_prozent": 0.5
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     },
     {
@@ -415,37 +285,17 @@
         "Lesson 24.04. (Cavs-Raptors-G3): Damals Heim-Underdog Raptors gewann ueberraschend +22 ggue Spread. JETZT: Cavs Auswaerts ohne Quickley-Toronto = klar Edge fuer Cavs.",
         "Lesson 26.04.: NBA-Player-Punkte/DD KEINE Einzeltipps mehr — Markt-Boykott."
       ],
-      "tipps": [
-        {
-          "id": "t24",
-          "markt": "Cleveland Cavaliers Sieg",
-          "quote": 1.6,
-          "faire_quote": 1.5,
-          "edge_prozent": 6,
-          "kategorie": "value",
-          "begruendung": "Quickley out fuer Toronto = Cavs deutlicher Edge. Cavs 2-1 vorne, Toronto unter Druck. Aber Lesson Sweep-Abwehr-Heimsieg (Raptors gewannen letzte Heim-G3) = nicht SAFE, max VALUE. Quote 1.60 mit Edge.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t25",
-          "markt": "Mehr als 220.5 Punkte gesamt",
-          "quote": 1.9,
-          "faire_quote": 1.85,
-          "edge_prozent": 3,
-          "kategorie": "wackel",
-          "begruendung": "Cavs-Pace + Toronto ohne Quickley spielt Tempo-Basketball ohne Halbfeld-Kontrolle. Knapper Edge.",
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "id": "t26",
-          "markt": "Donovan Mitchell Mehr als 26.5 Pkt (Spiel-Markt-Anzeige, NICHT Einzeltipp)",
-          "quote": 1.85,
-          "faire_quote": 2.0,
-          "edge_prozent": -7,
-          "kategorie": "wackel",
-          "begruendung": "Mitchell Saison-Schnitt 28 Pkt. Aber Lesson NBA-Player-Punkte komplett aus Einzeltipps gestrichen — hier nur als Markt-Anzeige im Spielkontext. Nicht in Einzeltipps oder Safe-Kombi.",
-          "empfohlener_einsatz_prozent": 0
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     },
     {
@@ -462,27 +312,17 @@
         "Lesson 24.04. (Sweep-Druck-G4): Heim-Underdog kann Auswaerts-Favorit kippen. Daher Spurs Sieg max VALUE, nicht SAFE.",
         "Lesson 26.04.: NBA-Player-Punkte boykottiert."
       ],
-      "tipps": [
-        {
-          "id": "t27",
-          "markt": "San Antonio Spurs Sieg",
-          "quote": 1.45,
-          "faire_quote": 1.45,
-          "edge_prozent": 0,
-          "kategorie": "value",
-          "begruendung": "Spurs-Klasse + Serien-Vorsprung. ABER: Wembanyama-Status unklar (Concussion-Recovery), Sweep-Abwehr-Heim-Underdog-Risiko per Lesson. Quote fair, kein klarer Edge — als VALUE fuer Risiko-Kombi-Bein, nicht als Einzel-SAFE.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t28",
-          "markt": "Mehr als 215.5 Punkte gesamt",
-          "quote": 1.9,
-          "faire_quote": 1.85,
-          "edge_prozent": 3,
-          "kategorie": "wackel",
-          "begruendung": "Tempo-Spiel-Charakter, beide Teams jung und schnell. Aber Defensiv-Adjustments G4 immer Risiko. Coinflip-nah.",
-          "empfohlener_einsatz_prozent": 0.5
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     },
     {
@@ -499,27 +339,17 @@
         "Lesson 24.04. (Cavs-Raptors): Heim-Underdog kann Sweep-Abwehr-Sieg holen — ABER hier ist 76ers ohne Stern, nicht backs-against-the-wall mit voller Truppe. Klassendifferenz + Embiid-Out = SAFE plausibel.",
         "Lesson 26.04.: NBA-Player-Punkte boykottiert."
       ],
-      "tipps": [
-        {
-          "id": "t29",
-          "markt": "Boston Celtics Sieg",
-          "quote": 1.36,
-          "faire_quote": 1.3,
-          "edge_prozent": 4,
-          "kategorie": "safe",
-          "begruendung": "Klassendifferenz + Embiid out (76ers ohne Top-Scorer praktisch chancenlos). Boston ATS-stark als Auswaerts-Favorit (16-9 ATS in dieser Position diese Saison). SAFE-Reality-Check: Topscorer Tatum/Brown fit, Klassendifferenz extrem, kein Backs-against-the-wall (76ers ohne Stern, kein Comeback-Risiko). Lesson 24.04. nicht analog (76ers haben keine spielenden Stars fuer Wunder).",
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "t30",
-          "markt": "Mehr als 213.5 Punkte gesamt",
-          "quote": 1.9,
-          "faire_quote": 1.9,
-          "edge_prozent": 0,
-          "kategorie": "wackel",
-          "begruendung": "Embiid-Out reduziert 76ers-Offense, Boston dominiert defensiv = Under-Risiko. Coinflip.",
-          "empfohlener_einsatz_prozent": 0.5
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     },
     {
@@ -537,311 +367,22 @@
         "Lesson 26.04.: NBA-Player-Punkte boykottiert.",
         "Bet365-Quote Rockets Sieg ~1.65, Lakers Sieg ~2.80 (Lakers ML +180)"
       ],
-      "tipps": [
-        {
-          "id": "t31",
-          "markt": "Houston Rockets Sieg (Sweep-Abwehr)",
-          "quote": 1.65,
-          "faire_quote": 1.7,
-          "edge_prozent": -3,
-          "kategorie": "wackel",
-          "begruendung": "Heim-Sweep-Abwehr-Druck, Rockets-Talent, aber Lesson 25.04. zeigt: G3 verloren als -9.5-Heim-Favorit. G4 mit selber Konstellation erneut Risiko. Coinflip-Charakter, max WACKEL.",
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "id": "t32",
-          "markt": "Los Angeles Lakers Sieg (Sweep!)",
-          "quote": 2.8,
-          "faire_quote": 2.5,
-          "edge_prozent": 11,
-          "kategorie": "wackel",
-          "begruendung": "Lakers koennen Serie auf der Auswaerts-Bank schliessen — Form-High nach G3-OT-Sieg trotz fehlender Stars. Sweep-Druck auf Rockets = mentaler Vorteil Lakers. Quote 2.80 fuer 70%-Wahrscheinlichkeits-Team mit Momentum hat Edge — Moonshot-Bein. Niedrig-Einsatz wegen Varianz-Risiko.",
-          "empfohlener_einsatz_prozent": 0.25
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     }
   ],
-  "einzeltipps": [
-    {
-      "id": "e1",
-      "tipp_id": "t13",
-      "spiel_id": "2026-04-26-torino-inter",
-      "markt": "Inter Mailand Sieg",
-      "quote": 1.4,
-      "kategorie": "safe",
-      "empfohlener_einsatz_prozent": 1.5,
-      "rang": 1
-    },
-    {
-      "id": "e2",
-      "tipp_id": "t5",
-      "spiel_id": "2026-04-26-dortmund-freiburg",
-      "markt": "Borussia Dortmund Sieg",
-      "quote": 1.43,
-      "kategorie": "safe",
-      "empfohlener_einsatz_prozent": 1.5,
-      "rang": 2
-    },
-    {
-      "id": "e3",
-      "tipp_id": "t20",
-      "spiel_id": "2026-04-26-marseille-nice",
-      "markt": "Olympique Marseille Sieg",
-      "quote": 1.46,
-      "kategorie": "safe",
-      "empfohlener_einsatz_prozent": 1.5,
-      "rang": 3
-    },
-    {
-      "id": "e4",
-      "tipp_id": "t29",
-      "spiel_id": "2026-04-26-celtics-76ers-g4",
-      "markt": "Boston Celtics Sieg",
-      "quote": 1.36,
-      "kategorie": "safe",
-      "empfohlener_einsatz_prozent": 1.5,
-      "rang": 4
-    },
-    {
-      "id": "e5",
-      "tipp_id": "t1",
-      "spiel_id": "2026-04-26-stuttgart-bremen",
-      "markt": "VfB Stuttgart Doppelte Chance (1X)",
-      "quote": 1.2,
-      "kategorie": "safe",
-      "empfohlener_einsatz_prozent": 1.5,
-      "rang": 5
-    },
-    {
-      "id": "e6",
-      "tipp_id": "t2",
-      "spiel_id": "2026-04-26-stuttgart-bremen",
-      "markt": "VfB Stuttgart Sieg",
-      "quote": 1.5,
-      "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 6
-    },
-    {
-      "id": "e7",
-      "tipp_id": "t3",
-      "spiel_id": "2026-04-26-stuttgart-bremen",
-      "markt": "Deniz Undav trifft (jederzeit)",
-      "quote": 1.85,
-      "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 7
-    },
-    {
-      "id": "e8",
-      "tipp_id": "t6",
-      "spiel_id": "2026-04-26-dortmund-freiburg",
-      "markt": "Dortmund-Freiburg: Beide Teams treffen JA",
-      "quote": 1.77,
-      "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 8
-    },
-    {
-      "id": "e9",
-      "tipp_id": "t7",
-      "spiel_id": "2026-04-26-dortmund-freiburg",
-      "markt": "Serhou Guirassy trifft (jederzeit)",
-      "quote": 1.65,
-      "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 9
-    },
-    {
-      "id": "e10",
-      "tipp_id": "t8",
-      "spiel_id": "2026-04-26-paderborn-schalke",
-      "markt": "Schalke 04 Doppelte Chance (X2)",
-      "quote": 1.5,
-      "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 10
-    },
-    {
-      "id": "e11",
-      "tipp_id": "t10",
-      "spiel_id": "2026-04-26-bochum-fuerth",
-      "markt": "VfL Bochum Sieg",
-      "quote": 1.75,
-      "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 11
-    },
-    {
-      "id": "e12",
-      "tipp_id": "t12",
-      "spiel_id": "2026-04-26-nuernberg-magdeburg",
-      "markt": "1. FC Nuernberg Doppelte Chance (1X)",
-      "quote": 1.45,
-      "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 12
-    },
-    {
-      "id": "e13",
-      "tipp_id": "t18",
-      "spiel_id": "2026-04-26-osasuna-sevilla",
-      "markt": "Sevilla Doppelte Chance (X2)",
-      "quote": 1.7,
-      "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 13
-    },
-    {
-      "id": "e14",
-      "tipp_id": "t21",
-      "spiel_id": "2026-04-26-marseille-nice",
-      "markt": "Marseille Handicap -1",
-      "quote": 2.18,
-      "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 14
-    },
-    {
-      "id": "e15",
-      "tipp_id": "t24",
-      "spiel_id": "2026-04-26-cavs-raptors-g4",
-      "markt": "Cleveland Cavaliers Sieg",
-      "quote": 1.6,
-      "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 15
-    },
-    {
-      "id": "e16",
-      "tipp_id": "t22",
-      "spiel_id": "2026-04-26-chelsea-leeds-facup",
-      "markt": "Leeds United Doppelte Chance (X2)",
-      "quote": 1.75,
-      "kategorie": "wackel",
-      "empfohlener_einsatz_prozent": 0.5,
-      "rang": 16
-    }
-  ],
-  "kombis": [
-    {
-      "id": "k_safe",
-      "name": "Safe-Vierer (4 Ligen, keine NBA-Player-Stats)",
-      "kategorie": "safe",
-      "beine": [
-        {
-          "tipp_id": "t13",
-          "spiel_id": "2026-04-26-torino-inter",
-          "markt": "Inter Sieg",
-          "quote": 1.4
-        },
-        {
-          "tipp_id": "t5",
-          "spiel_id": "2026-04-26-dortmund-freiburg",
-          "markt": "Dortmund Sieg",
-          "quote": 1.43
-        },
-        {
-          "tipp_id": "t20",
-          "spiel_id": "2026-04-26-marseille-nice",
-          "markt": "Marseille Sieg",
-          "quote": 1.46
-        },
-        {
-          "tipp_id": "t29",
-          "spiel_id": "2026-04-26-celtics-76ers-g4",
-          "markt": "Boston Celtics Sieg",
-          "quote": 1.36
-        }
-      ],
-      "gesamtquote": 3.97,
-      "rechnung": "1.40 × 1.43 × 1.46 × 1.36 = 3.97",
-      "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Vier Top-Klubs aus vier verschiedenen Ligen (Serie A + BL + Ligue 1 + NBA Spielausgang), alle mit Klassendifferenz oder Belastungs-Edge. Celtics ohne Embiid-Gegner = Klassendifferenz extrem, kein Sweep-Druck-Underdog. Keine NBA-Player-Stats (Markt-Boykott). Ehrliche ~4x — passt zur Safe-Kombi-Anforderung."
-    },
-    {
-      "id": "k_balance",
-      "name": "Balance-Vierer (Sieg + DC + 2.BL + NBA Spielausgang)",
-      "kategorie": "value",
-      "beine": [
-        {
-          "tipp_id": "t8",
-          "spiel_id": "2026-04-26-paderborn-schalke",
-          "markt": "Schalke DC X2",
-          "quote": 1.5
-        },
-        {
-          "tipp_id": "t18",
-          "spiel_id": "2026-04-26-osasuna-sevilla",
-          "markt": "Sevilla DC X2",
-          "quote": 1.7
-        },
-        {
-          "tipp_id": "t10",
-          "spiel_id": "2026-04-26-bochum-fuerth",
-          "markt": "Bochum Sieg",
-          "quote": 1.75
-        },
-        {
-          "tipp_id": "t24",
-          "spiel_id": "2026-04-26-cavs-raptors-g4",
-          "markt": "Cleveland Cavaliers Sieg",
-          "quote": 1.6
-        }
-      ],
-      "gesamtquote": 7.14,
-      "rechnung": "1.50 × 1.70 × 1.75 × 1.60 = 7.14",
-      "empfohlener_einsatz_prozent": 0.5,
-      "begruendung": "Vier verschiedene Wett-Markte (DC + DC + Sieg + Sieg) ueber vier Ligen (2.BL + LaLiga + 2.BL + NBA). Keine korrelierten Beine, keine Spieler-Stacks. Ehrliche ~7x."
-    },
-    {
-      "id": "k_risiko",
-      "name": "Risiko-Sechser",
-      "kategorie": "risk",
-      "beine": [
-        {
-          "tipp_id": "t6",
-          "spiel_id": "2026-04-26-dortmund-freiburg",
-          "markt": "BVB-Freiburg BTTS JA",
-          "quote": 1.77
-        },
-        {
-          "tipp_id": "t15",
-          "spiel_id": "2026-04-26-torino-inter",
-          "markt": "Torino-Inter Mehr 2.5 Tore",
-          "quote": 1.85
-        },
-        {
-          "tipp_id": "t21",
-          "spiel_id": "2026-04-26-marseille-nice",
-          "markt": "Marseille -1",
-          "quote": 2.18
-        },
-        {
-          "tipp_id": "t16",
-          "spiel_id": "2026-04-26-milan-juventus",
-          "markt": "Juventus DC X2",
-          "quote": 1.45
-        },
-        {
-          "tipp_id": "t27",
-          "spiel_id": "2026-04-26-spurs-blazers-g4",
-          "markt": "San Antonio Spurs Sieg",
-          "quote": 1.45
-        },
-        {
-          "tipp_id": "t4",
-          "spiel_id": "2026-04-26-stuttgart-bremen",
-          "markt": "Stuttgart-Bremen Mehr 2.5 Tore",
-          "quote": 1.85
-        }
-      ],
-      "gesamtquote": 27.77,
-      "rechnung": "1.77 × 1.85 × 2.18 × 1.45 × 1.45 × 1.85 = 27.77",
-      "empfohlener_einsatz_prozent": 0.25,
-      "begruendung": "Sechs Beine aus 6 verschiedenen Spielen (BL + Serie A + L1 + Serie A + NBA + BL). Mix aus BTTS + Über-Tore + Spread + DC + Sieg. Keine NBA-Player-Stats. Wemby-Status (Spurs) Risiko aber Spurs-Klasse + Serien-Vorsprung trotzdem Edge. Ehrliche ~28x."
-    }
-  ],
+  "einzeltipps": [],
+  "kombis": [],
   "lessons_angewandt": [
     "Lesson 26.04. (NBA-Playoff-Player-Punkte/DD Markt-Boykott): KEINE NBA-Player-Stats in Einzeltipps. Player-Punkt-Tipps nur als Markt-Anzeige in spiele[].tipps[] zum Info-Wert, nicht als empfohlener Einzel-/Kombi-Bein. Kein DD/TD ueberhaupt im Tag.",
     "Lesson 24./25.04. (G4 mit Sweep-Druck NICHT SAFE): Lakers @ Rockets G4 als WACKEL eingestuft, NICHT in Safe oder Risiko-Kombi — nur als Lakers-Sieg-Wackel im Moonshot. Spurs-Sieg max VALUE wegen Wemby-Status + Sweep-Abwehr-Risiko. Cavs-Sieg max VALUE trotz Quickley-Out.",

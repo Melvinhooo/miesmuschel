@@ -19,47 +19,17 @@
         "Heim-Faktor Braga: HF-Hinspiel zu Hause = traditionell Vorteil, Estadio Municipal mit lautem Publikum.",
         "Freiburg-Form: deklassierte Celta 6-1 — Tor-Maschine im Pokal aktiviert. Aber Auswaerts-EL-Performance schwankend."
       ],
-      "tipps": [
-        {
-          "id": "t1",
-          "markt": "Mehr als 1.5 Tore",
-          "quote": 1.3,
-          "faire_quote": 1.2,
-          "edge_prozent": 8,
-          "kategorie": "safe",
-          "begruendung": "Beide Teams in QF mit Toren ueberzeugt (Braga 5 Tore in 2 Spielen, Freiburg 6). HF-Hinspiele meist offen — ueber 1.5 Tore historisch ~85% in EL-HF. Bilanz: Markt 'Ueber 1.5' bisher nicht oft gespielt — laut Quoten-Range 1.00-1.50: 16/20 = 80% Trefferquote.",
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "t2",
-          "markt": "SC Braga Doppelte Chance (1X)",
-          "quote": 1.32,
-          "faire_quote": 1.25,
-          "edge_prozent": 6,
-          "kategorie": "safe",
-          "begruendung": "Heim-Hinspiel = Braga muss vor Rueckspiel nicht verlieren. Estadio Municipal Heimstark, Freiburg-Auswaerts-EL-Schwaeche. SAFE-Reality-Check: keine Sweep-Situation, kein Backs-against-the-wall-Underdog, Topscorer beider Teams fit. Quote 1.32 mit Edge.",
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "t3",
-          "markt": "Beide Teams treffen: JA",
-          "quote": 1.91,
-          "faire_quote": 1.7,
-          "edge_prozent": 11,
-          "kategorie": "value",
-          "begruendung": "Braga 5/2 Spiele BTTS in QF, Freiburg 6 Tore in 2 QF-Spielen. Beide offensiv druckvoll. Freiburg muss Auswaerts-Tor mitnehmen (Rueckspiel-Vorteil), Braga vor Heimkulisse offensiv. Bilanz: 'Beide Teams treffen: JA' 1/2 = 50% bisher (kleine Datenbasis).",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t4",
-          "markt": "Mehr als 2.5 Tore",
-          "quote": 2.2,
-          "faire_quote": 2.0,
-          "edge_prozent": 9,
-          "kategorie": "wackel",
-          "begruendung": "Beide Teams mit Tor-Form — aber HF-Hinspiele oft taktisch zurueckhaltend (Heim will nicht einen 3-Tore-Sturm-Lauf zulassen). Coinflip-nah, daher WACKEL. Bilanz: 'Mehr als 2.5 Tore' 1/2 = 50%.",
-          "empfohlener_einsatz_prozent": 0.5
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     },
     {
@@ -78,47 +48,17 @@
         "Doppelbelastung-Faktor: Villa CL-Quali-Kampf in PL, Forest reine EL-Saison — Forest theoretisch frischer + fokussierter.",
         "City Ground Heim-Faktor: enge Atmosphaere, Forest historisch stark zuhause."
       ],
-      "tipps": [
-        {
-          "id": "t1",
-          "markt": "Mehr als 1.5 Tore",
-          "quote": 1.3,
-          "faire_quote": 1.18,
-          "edge_prozent": 9,
-          "kategorie": "safe",
-          "begruendung": "Letzte 5 H2H BTTS — beide Defensive nicht dicht. Forest Heim-Druck + Villa muss Auswaerts-Tor mitnehmen fuer Rueckspiel. PL-Style-Spiel beider Mannschaften = Tempo + Tore. Bilanz: Quoten-Range 1.00-1.50 = 80% Trefferquote.",
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "t2",
-          "markt": "Nottingham Forest Doppelte Chance (1X)",
-          "quote": 1.42,
-          "faire_quote": 1.35,
-          "edge_prozent": 5,
-          "kategorie": "safe",
-          "begruendung": "Hinspiel zuhause = Forest darf nicht verlieren um Rueckspiel-Chance zu haben. Bookies haben Forest mit 41% Sieg-Quote und 25% Remis = 66% DC 1X. Villa-Doppelbelastung im CL-Kampf = leichte Rotation moeglich. Quote 1.42 fairer Edge.",
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "t3",
-          "markt": "Beide Teams treffen: JA",
-          "quote": 1.65,
-          "faire_quote": 1.5,
-          "edge_prozent": 9,
-          "kategorie": "value",
-          "begruendung": "5/5 letzte H2H mit BTTS — Muster sehr stabil. Beide Teams brauchen Auswaerts-/Heim-Tore fuer Rueckspiel-Aussichten. Forest mit Wood/Hudson-Odoi/Sangare offensiv stark, Villa mit Watkins/Rashford/Asensio. Bilanz Markt 'Beide treffen JA' 1/2 = 50% bisher (kleine Datenbasis).",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t4",
-          "markt": "Unter 3.5 Tore",
-          "quote": 1.5,
-          "faire_quote": 1.4,
-          "edge_prozent": 7,
-          "kategorie": "wackel",
-          "begruendung": "Trotz BTTS-Trend bleiben PL-EL-HFs taktisch — selten 4+-Tore-Festival. Aber Risiko bleibt da Forest-Heim offen. WACKEL als Hedge gegen Ueber-2.5-Wackel.",
-          "empfohlener_einsatz_prozent": 0.5
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     },
     {
@@ -137,47 +77,17 @@
         "PL-vs-Ukrainian-Pokal-Klassendifferenz: Crystal Palace im Glasner-Pressing-System klare Klasse hoeher. Olise/Eze/Mateta gegen Shakhtar-Defensive ueberproportional gefaehrlich.",
         "Motivations-Asymmetrie: Crystal Palace hat saisonale Final-Chance (erste UEFA-Titel-Chance der Klubhistorie), Shakhtar Routine-Pokal-Saison."
       ],
-      "tipps": [
-        {
-          "id": "t1",
-          "markt": "Crystal Palace Doppelte Chance (X2)",
-          "quote": 1.3,
-          "faire_quote": 1.2,
-          "edge_prozent": 8,
-          "kategorie": "safe",
-          "begruendung": "Klassendifferenz PL vs Ukrainischer Pokal-Wettbewerb = Crystal Palace klarer Edge. Kein echter Shakhtar-Heimvorteil (neutrale Polen-Buehne). SAFE-Reality-Check (Lesson 25.04.): klare Klassendifferenz, Topscorer fit (Olise/Eze/Mateta), kein Sweep-Druck. Quote 1.30 mit Edge.",
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "t2",
-          "markt": "Crystal Palace Sieg",
-          "quote": 2.04,
-          "faire_quote": 1.85,
-          "edge_prozent": 9,
-          "kategorie": "value",
-          "begruendung": "PL-Klasse + Glasner-System + neutraler Boden = Palace 49% implizite Quote unterbewertet. Olise-Eze-Mateta-Trio mit hoher xG, Shakhtar-Defensive nicht auf PL-Niveau. Motivations-Asymmetrie: Palace will erste UEFA-Trophaee der Klubgeschichte. VALUE-Edge.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t3",
-          "markt": "Mehr als 2.5 Tore",
-          "quote": 2.2,
-          "faire_quote": 2.0,
-          "edge_prozent": 9,
-          "kategorie": "wackel",
-          "begruendung": "Crystal Palace offensiv stark, Shakhtar muss Heim-Resultat liefern. Aber HF-Hinspiele oft 2-1/1-1 statt 3+. Coinflip-nah, daher WACKEL nicht VALUE. Bilanz Markt 'Mehr als 2.5 Tore' 1/2 = 50%.",
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "id": "t4",
-          "markt": "Beide Teams treffen: JA",
-          "quote": 1.91,
-          "faire_quote": 1.7,
-          "edge_prozent": 11,
-          "kategorie": "value",
-          "begruendung": "Shakhtar zuhause offensiv aktiv (5 Tore in QF aggregate), Crystal Palace muss Auswaerts-Tor fuer Rueckspiel-Sicherheit. Beide offensiv mit hoher Wahrscheinlichkeit. VALUE-Edge.",
-          "empfohlener_einsatz_prozent": 0.7
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     },
     {
@@ -196,47 +106,17 @@
         "Bilanz-Boost: 'Rayo Vallecano Doppelte Chance (1X)' war historisch 1/1 = 100% Goldgrube — Heim-Form bestaetigt.",
         "Motivations-Symmetrie: beide ohne Liga-Druck, beide voll auf Conference-Final fokussiert."
       ],
-      "tipps": [
-        {
-          "id": "t1",
-          "markt": "Rayo Vallecano Doppelte Chance (1X)",
-          "quote": 1.3,
-          "faire_quote": 1.2,
-          "edge_prozent": 8,
-          "kategorie": "safe",
-          "begruendung": "Vallecas-Heimstaerke + Hinspiel-Defensive (Rayo darf nicht verlieren). Bookies-Quote 47% Sieg + 23% Remis = 70% DC 1X. Bilanz: 'Rayo DC 1X' bisher 1/1 = 100% Goldgrube — Markt-Edge wiederholt sich. SAFE-Reality-Check: keine Sweep-Situation, Topscorer fit, kein Backs-against-the-wall-Underdog.",
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "t2",
-          "markt": "Rayo Vallecano Sieg",
-          "quote": 2.14,
-          "faire_quote": 1.95,
-          "edge_prozent": 9,
-          "kategorie": "value",
-          "begruendung": "47% implizite Sieg-Quote unterbewertet wegen Vallecas-Heimstaerke + Strasbourg-Auswaerts-Schwaeche in Pokal. Hinspiel = Rayo nimmt Initiative. VALUE-Quote 2.14.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t3",
-          "markt": "Beide Teams treffen: JA",
-          "quote": 1.76,
-          "faire_quote": 1.6,
-          "edge_prozent": 9,
-          "kategorie": "value",
-          "begruendung": "Strasbourg muss Auswaerts-Tor fuer Rueckspiel-Hoffnung. Rayo zuhause offensiv (Garcia/De Frutos/Embarba). Beide haben in QF mehrfach BTTS gespielt. VALUE-Edge.",
-          "empfohlener_einsatz_prozent": 0.7
-        },
-        {
-          "id": "t4",
-          "markt": "Mehr als 2.5 Tore",
-          "quote": 1.98,
-          "faire_quote": 1.85,
-          "edge_prozent": 7,
-          "kategorie": "wackel",
-          "begruendung": "Beide Teams offensiv, aber HF-Hinspiele tendenziell taktischer. 2.5 Tore Coinflip-nah. WACKEL.",
-          "empfohlener_einsatz_prozent": 0.5
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     },
     {
@@ -256,37 +136,17 @@
         "Hawks-Schwaechen: McCollum als Hauptscorer, Klassendifferenz-Aufstellung gegen Brunson/KAT-Knicks.",
         "Lessons-Anwendung: NBA-Player-Punkte/DD KOMPLETT raus aus Einzeltipps (Markt-Boykott seit 26.04. — 5/17=29% bisher)."
       ],
-      "tipps": [
-        {
-          "id": "t1",
-          "markt": "New York Knicks Sieg",
-          "quote": 1.68,
-          "faire_quote": 1.55,
-          "edge_prozent": 8,
-          "kategorie": "value",
-          "begruendung": "Form-Uebermacht (+29 in G5, +16 in G4), Brunson/KAT-Firepower, Hawks-Backs-against-wall-Druck. ABER Closeout-Auswaerts-Lesson 25.04. (Rockets G3 als Heim-Favorit verloren) komplementaer fuer Hawks-Heim — daher VALUE statt SAFE. Markt-Bilanz: 'New York Knicks Sieg' 1/1 = 100% bisher (kleine Datenbasis).",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t2",
-          "markt": "Knicks -2.5 (Spread)",
-          "quote": 1.91,
-          "faire_quote": 1.85,
-          "edge_prozent": 3,
-          "kategorie": "wackel",
-          "begruendung": "Form-Stats stuetzen klares Cover, aber 10-19 ATS Auswaerts-Favorit-Saisonbilanz mahnt zur Vorsicht. Closeout-Spiele oft enger als erwartet. WACKEL.",
-          "empfohlener_einsatz_prozent": 0.4
-        },
-        {
-          "id": "t3",
-          "markt": "Mehr als 213.5 Punkte gesamt",
-          "quote": 1.91,
-          "faire_quote": 1.85,
-          "edge_prozent": 3,
-          "kategorie": "wackel",
-          "begruendung": "Knicks-Hot-Hand (G5: 113er-Niveau), Hawks-Heim-Backs-against-wall = volles Tempo, kein langsames Defensiv-Spiel. ABER Closeout-Spiele oft mehr Defense-fokussiert. Coinflip-nah, daher WACKEL.",
-          "empfohlener_einsatz_prozent": 0.4
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     },
     {
@@ -306,37 +166,17 @@
         "Spread-Risiko: -5.5 ist massiv fuer Closeout-Auswaerts-Spiel — Linie sehr scharf.",
         "Lessons-Anwendung: NBA-Player-Punkte/DD KOMPLETT raus aus Einzeltipps."
       ],
-      "tipps": [
-        {
-          "id": "t1",
-          "markt": "Boston Celtics Sieg",
-          "quote": 1.44,
-          "faire_quote": 1.4,
-          "edge_prozent": 3,
-          "kategorie": "value",
-          "begruendung": "Markt-Bilanz: 'Boston Celtics Sieg' 2/2 = 100% Goldgrube. Klassendifferenz Celtics > 76ers ohne fitten Embiid. ABER Closeout-Auswaerts-Lesson 25.04. (Rockets G3 verloren) — daher VALUE nicht SAFE. Quote 1.44 mit minimalem Edge, aber Goldgrube-Markt rechtfertigt Pick.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t2",
-          "markt": "Boston Celtics -5.5 (Spread)",
-          "quote": 1.91,
-          "faire_quote": 2.05,
-          "edge_prozent": -7,
-          "kategorie": "wackel",
-          "begruendung": "Auch wenn Celtics gewinnen, -5.5 in Closeout-Auswaerts ist scharf — 76ers werden Heim mit 100% Energie spielen. Negative Edge laut Modellen. WACKEL als Hedge.",
-          "empfohlener_einsatz_prozent": 0.3
-        },
-        {
-          "id": "t3",
-          "markt": "Weniger als 212.5 Punkte gesamt",
-          "quote": 1.91,
-          "faire_quote": 1.85,
-          "edge_prozent": 3,
-          "kategorie": "wackel",
-          "begruendung": "76ers-Closeout-Heim oft mehr Defensiv-Fokus, Celtics-Methodik ueblich kontrolliertes Tempo. Bilanz Markt 'Weniger als 218.5' 1/1 = 100% (kleine Datenbasis). WACKEL wegen Closeout-Varianz.",
-          "empfohlener_einsatz_prozent": 0.3
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     },
     {
@@ -356,162 +196,21 @@
         "Closeout-Druck-Analogie: Wolves im Win-or-go-home als Heim — aber ohne Stars Probleme im 4. Quartal Energie zu liefern.",
         "Lessons-Anwendung: NBA-Player-Punkte/DD KOMPLETT raus."
       ],
-      "tipps": [
-        {
-          "id": "t1",
-          "markt": "Denver Nuggets Sieg",
-          "quote": 1.46,
-          "faire_quote": 1.4,
-          "edge_prozent": 4,
-          "kategorie": "value",
-          "begruendung": "Wolves OHNE Edwards + DiVincenzo (beide saisonbeendet) klar unterlegen — Jokic-Triple-Double + 125-113 in Minnesota letzter Beweis. Roster-Differenz krass. ABER Closeout-Heim-Druck Wolves im Win-or-go-home — daher VALUE statt SAFE. Markt-Bilanz Wolves NICHT anwendbar (Pre-Edwards-Out-Daten).",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t2",
-          "markt": "Minnesota +5.5 (Spread)",
-          "quote": 1.91,
-          "faire_quote": 1.95,
-          "edge_prozent": -2,
-          "kategorie": "wackel",
-          "begruendung": "Closeout-Heim-Spiele meist enger trotz Roster-Probleme — Edge-Defensive + Heim-Crowd. ABER ohne Stars Q4-Kollaps-Risiko hoch. WACKEL als Hedge gegen Nuggets-Sieg.",
-          "empfohlener_einsatz_prozent": 0.3
-        },
-        {
-          "id": "t3",
-          "markt": "Mehr als 224.5 Punkte gesamt",
-          "quote": 1.91,
-          "faire_quote": 1.95,
-          "edge_prozent": -2,
-          "kategorie": "wackel",
-          "begruendung": "G5: 125+113 = 238 Punkte. Trotz Wolves-Roster-Kollaps gehen Wolves Heim mit Tempo um zu kompensieren — aber Edwards-Punkte fehlen. Coinflip. WACKEL.",
-          "empfohlener_einsatz_prozent": 0.3
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     }
   ],
-  "einzeltipps": [
-    {
-      "spiel_id": "2026-04-30-braga-freiburg",
-      "tipp_id": "t1",
-      "markt": "Mehr als 1.5 Tore (Braga-Freiburg)",
-      "quote": 1.3,
-      "kategorie": "safe",
-      "begruendung_kurz": "EL-HF Hinspiel offen + beide Teams in QF mit Toren. Quoten-Range 1.00-1.50: 80% Bilanz.",
-      "empfohlener_einsatz_prozent": 1.5,
-      "rang": 1
-    },
-    {
-      "spiel_id": "2026-04-30-braga-freiburg",
-      "tipp_id": "t2",
-      "markt": "SC Braga Doppelte Chance (1X)",
-      "quote": 1.32,
-      "kategorie": "safe",
-      "begruendung_kurz": "Heim-Hinspiel + Estadio Municipal stark. Freiburg-Auswaerts-EL-Schwaeche.",
-      "empfohlener_einsatz_prozent": 1.5,
-      "rang": 2
-    },
-    {
-      "spiel_id": "2026-04-30-nottingham-forest-aston-villa",
-      "tipp_id": "t1",
-      "markt": "Mehr als 1.5 Tore (Forest-Villa)",
-      "quote": 1.3,
-      "kategorie": "safe",
-      "begruendung_kurz": "Letzte 5 H2H BTTS — Muster sehr stabil. PL-Style + Heim-Druck.",
-      "empfohlener_einsatz_prozent": 1.5,
-      "rang": 3
-    },
-    {
-      "spiel_id": "2026-04-30-nottingham-forest-aston-villa",
-      "tipp_id": "t2",
-      "markt": "Nottingham Forest Doppelte Chance (1X)",
-      "quote": 1.42,
-      "kategorie": "safe",
-      "begruendung_kurz": "Hinspiel zuhause + Villa-Doppelbelastung CL-Quali-Kampf.",
-      "empfohlener_einsatz_prozent": 1.5,
-      "rang": 4
-    },
-    {
-      "spiel_id": "2026-04-30-shakhtar-crystal-palace",
-      "tipp_id": "t1",
-      "markt": "Crystal Palace Doppelte Chance (X2)",
-      "quote": 1.3,
-      "kategorie": "safe",
-      "begruendung_kurz": "PL-Klasse > Ukrainischer Pokal + neutraler Boden in Krakow + Glasner-System.",
-      "empfohlener_einsatz_prozent": 1.5,
-      "rang": 5
-    },
-    {
-      "spiel_id": "2026-04-30-rayo-vallecano-strasbourg",
-      "tipp_id": "t1",
-      "markt": "Rayo Vallecano Doppelte Chance (1X)",
-      "quote": 1.3,
-      "kategorie": "safe",
-      "begruendung_kurz": "Vallecas-Heimstaerke + Bilanz-Goldgrube Markt 1/1 = 100%.",
-      "empfohlener_einsatz_prozent": 1.5,
-      "rang": 6
-    },
-    {
-      "spiel_id": "2026-04-30-shakhtar-crystal-palace",
-      "tipp_id": "t2",
-      "markt": "Crystal Palace Sieg",
-      "quote": 2.04,
-      "kategorie": "value",
-      "begruendung_kurz": "PL-Klasse + neutraler Boden + Olise/Eze/Mateta-Trio = 49% impl. unterbewertet.",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 7
-    },
-    {
-      "spiel_id": "2026-04-30-rayo-vallecano-strasbourg",
-      "tipp_id": "t2",
-      "markt": "Rayo Vallecano Sieg",
-      "quote": 2.14,
-      "kategorie": "value",
-      "begruendung_kurz": "47% Sieg-Quote unterbewertet wegen Vallecas-Heimstaerke.",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 8
-    },
-    {
-      "spiel_id": "2026-04-30-hawks-knicks-g6",
-      "tipp_id": "t1",
-      "markt": "New York Knicks Sieg",
-      "quote": 1.68,
-      "kategorie": "value",
-      "begruendung_kurz": "Form-Uebermacht (+29 G5, +16 G4). Closeout-Lesson 25.04. = nicht SAFE, aber VALUE.",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 9
-    },
-    {
-      "spiel_id": "2026-04-30-sixers-celtics-g6",
-      "tipp_id": "t1",
-      "markt": "Boston Celtics Sieg",
-      "quote": 1.44,
-      "kategorie": "value",
-      "begruendung_kurz": "Markt-Bilanz Goldgrube (2/2). Klassendifferenz vs 76ers ohne fitten Embiid.",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 10
-    },
-    {
-      "spiel_id": "2026-04-30-wolves-nuggets-g6",
-      "tipp_id": "t1",
-      "markt": "Denver Nuggets Sieg",
-      "quote": 1.46,
-      "kategorie": "value",
-      "begruendung_kurz": "Wolves OHNE Edwards + DiVincenzo (beide Saison-OUT). Jokic-TripleDouble in G5 (125-113).",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 11
-    },
-    {
-      "spiel_id": "2026-04-30-nottingham-forest-aston-villa",
-      "tipp_id": "t3",
-      "markt": "Beide Teams treffen: JA (Forest-Villa)",
-      "quote": 1.65,
-      "kategorie": "value",
-      "begruendung_kurz": "5/5 letzte H2H BTTS — Muster sehr stabil. Beide Teams brauchen Tor fuer Rueckspiel-Aussicht.",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 12
-    }
-  ],
+  "einzeltipps": [],
   "kombis": [
     {
       "name": "Safe-Kombi (~3x)",

@@ -18,40 +18,20 @@
         "Lautern 10/15 Heimsiege (Liga-Top bei Home-Goals 2.22/Spiel)",
         "Braunschweig kassiert 1.79 Auswärtstore/Spiel, 0.79 Auswärtspkt/Spiel"
       ],
-      "tipps": [
-        {
-          "id": "t1",
-          "markt": "Kaiserslautern Doppelte Chance (1X)",
-          "quote": 1.25,
-          "faire_quote": 1.22,
-          "edge_prozent": 2,
-          "kategorie": "safe",
-          "begruendung": "Lautern-Heimstärke klar, Braunschweig in Abstiegspanik. DC (Heim oder Remis) ist faktisch Banker trotz Prtajin-Ausfall.",
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "t2",
-          "markt": "Kaiserslautern Sieg",
-          "quote": 2.0,
-          "faire_quote": 1.8,
-          "edge_prozent": 11,
-          "kategorie": "value",
-          "begruendung": "10/15 Heimsiege, 2.22 Goals/Heim. Quote bei 2.00 überzahlt — ohne Prtajin immer noch stark genug gegen formschwaches Braunschweig.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t3",
-          "markt": "Mehr als 2.5 Tore",
-          "quote": 1.85,
-          "faire_quote": 1.85,
-          "edge_prozent": 0,
-          "kategorie": "wackel",
-          "begruendung": "Lautern 2.22 Heim-Goals + Braunschweig 1.79 Gegentore auswärts. ABER: Prtajin fehlt. Coinflip.",
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
+      "tipps": [],
       "ergebnis": null,
-      "tipps_ergebnis": []
+      "tipps_ergebnis": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
+      ]
     },
     {
       "id": "2026-04-24-leipzig-union",
@@ -68,40 +48,20 @@
         "Union 7 Gegentore in den letzten 2 Spielen — defensiv zerlegt",
         "Marie-Louise Eta (Union-Trainerin) unter Druck"
       ],
-      "tipps": [
-        {
-          "id": "t4",
-          "markt": "RB Leipzig Sieg",
-          "quote": 1.55,
-          "faire_quote": 1.45,
-          "edge_prozent": 7,
-          "kategorie": "safe",
-          "begruendung": "Leipzig Top-Form + Heimstärke, Union im freien Fall defensiv. Klarer Heimfavorit.",
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "t5",
-          "markt": "Mehr als 2.5 Tore",
-          "quote": 1.7,
-          "faire_quote": 1.55,
-          "edge_prozent": 10,
-          "kategorie": "value",
-          "begruendung": "Union kassiert 3.5 Tore/Spiel in letzten 2. Leipzig mit Openness in Angriff. Ü2.5 realistisch, Ü3.5 wäre gewagter.",
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "t6",
-          "markt": "Beide Teams treffen",
-          "quote": 1.85,
-          "faire_quote": 1.8,
-          "edge_prozent": 3,
-          "kategorie": "wackel",
-          "begruendung": "Union kann vorne mal was machen (Heimkeeper schützt nicht), aber Leipzig-Defensive auch nicht Elite.",
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
+      "tipps": [],
       "ergebnis": null,
-      "tipps_ergebnis": []
+      "tipps_ergebnis": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
+      ]
     },
     {
       "id": "2026-04-24-napoli-cremonese",
@@ -119,40 +79,20 @@
         "Cremonese-OUT: Vardy, Thorsby, Moumbagna, Collocolo",
         "Napoli 5/7 letzte Spiele ohne Zu-Null"
       ],
-      "tipps": [
-        {
-          "id": "t7",
-          "markt": "Napoli Sieg",
-          "quote": 1.3,
-          "faire_quote": 1.25,
-          "edge_prozent": 4,
-          "kategorie": "safe",
-          "begruendung": "Klasseunterschied riesig, Cremonese seit 3 Jahrzehnten sieglos gegen Napoli. Trotz Napoli-Formkrise pflichtsicher.",
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "t8",
-          "markt": "Weniger als 2.5 Tore",
-          "quote": 1.87,
-          "faire_quote": 1.7,
-          "edge_prozent": 10,
-          "kategorie": "value",
-          "begruendung": "Cremonese offensiv ausgedünnt (Vardy out), Napoli auch wacklig. 60% Unter-Wahrscheinlichkeit laut Modellen, Linie bei 2.5 gute Value-Zone.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t9",
-          "markt": "Beide Teams treffen: JA",
-          "quote": 2.2,
-          "faire_quote": 2.2,
-          "edge_prozent": 0,
-          "kategorie": "wackel",
-          "begruendung": "Napoli kassiert zuletzt viel, aber Cremonese vorne stumpf (ohne Vardy). Coinflip → nur Kombi-Baustein.",
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
+      "tipps": [],
       "ergebnis": null,
-      "tipps_ergebnis": []
+      "tipps_ergebnis": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
+      ]
     },
     {
       "id": "2026-04-24-betis-realmadrid",
@@ -170,50 +110,20 @@
         "Mbappé im Pichichi-Lauf, 23+ Saisontore",
         "Real-Aufstellung: Lunin; Trent, Huijsen, Rüdiger, Carreras; Tchouameni, Camavinga, Valverde, Bellingham; Mbappé, Vinicius"
       ],
-      "tipps": [
-        {
-          "id": "t10",
-          "markt": "Real Madrid Doppelte Chance (X2)",
-          "quote": 1.35,
-          "faire_quote": 1.3,
-          "edge_prozent": 4,
-          "kategorie": "safe",
-          "begruendung": "Klassenunterschied + H2H-Historie. Trotz Defensiv-Ausfällen und Betis-Heimstärke Real nicht auf Niederlage zu setzen.",
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "t11",
-          "markt": "Real Madrid Sieg",
-          "quote": 2.1,
-          "faire_quote": 2.0,
-          "edge_prozent": 5,
-          "kategorie": "value",
-          "begruendung": "Mbappé-Form + Real-Klasse auswärts auch bei Betis-Heimstärke stärker. Quote fair bis Value.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t12",
-          "markt": "Beide Teams treffen: JA",
-          "quote": 1.7,
-          "faire_quote": 1.6,
-          "edge_prozent": 6,
-          "kategorie": "value",
-          "begruendung": "Real-Defense ohne Militao angeschlagen, Betis trifft zuhause fast immer. Lesson (Real nach CL-Aus): Torfestival statt reiner Sieg.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t13",
-          "markt": "Kylian Mbappé trifft",
-          "quote": 1.8,
-          "faire_quote": 1.65,
-          "edge_prozent": 9,
-          "kategorie": "value",
-          "begruendung": "Pichichi-Jagd-Lauf, 23+ Saisontore, Betis-Defense ohne Topform. Safer Prop.",
-          "empfohlener_einsatz_prozent": 1.0
-        }
-      ],
+      "tipps": [],
       "ergebnis": null,
-      "tipps_ergebnis": []
+      "tipps_ergebnis": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
+      ]
     },
     {
       "id": "2026-04-25-celtics-76ers-g3",
@@ -230,40 +140,20 @@
         "Tatum + White zusammen 4/18 in G2 → zu schlecht um zu halten",
         "76ers Heim im Xfinity Mobile Arena, 19:00 ET Tip-Off"
       ],
-      "tipps": [
-        {
-          "id": "t14",
-          "markt": "Boston Celtics Sieg",
-          "quote": 1.85,
-          "faire_quote": 1.75,
-          "edge_prozent": 6,
-          "kategorie": "value",
-          "begruendung": "Bounce-Back nach G2-Demütigung, 3er-Regression hoch wahrscheinlich, Brown + Tatum nicht beide nochmal so kalt. Klassequalität da.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t15",
-          "markt": "Mehr als 211.5 Punkte gesamt",
-          "quote": 1.85,
-          "faire_quote": 1.85,
-          "edge_prozent": 0,
-          "kategorie": "wackel",
-          "begruendung": "G2 ging knapp über 208, offensive Regression mit Maxey/Edgecombe heiß + Tatum zurück. Aber: Playoff-Defense-Schlag möglich.",
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "id": "t16",
-          "markt": "Jaylen Brown Mehr als 25.5 Pkt",
-          "quote": 1.85,
-          "faire_quote": 1.85,
-          "edge_prozent": 0,
-          "kategorie": "wackel",
-          "begruendung": "36 in G2, Saisonschnitt 28.7, aber Lesson: Playoff-Player-Props max WACKEL — nach Hot-Hand kann G3 ganz anders aussehen.",
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
+      "tipps": [],
       "ergebnis": null,
-      "tipps_ergebnis": []
+      "tipps_ergebnis": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
+      ]
     },
     {
       "id": "2026-04-25-rockets-lakers-g3",
@@ -281,40 +171,20 @@
         "Laravia für Lakers fraglich (Bein)",
         "Computer-Modell Endstand: Rockets 116 - Lakers 111"
       ],
-      "tipps": [
-        {
-          "id": "t17",
-          "markt": "Houston Rockets Sieg",
-          "quote": 1.45,
-          "faire_quote": 1.35,
-          "edge_prozent": 7,
-          "kategorie": "value",
-          "begruendung": "Sweep-Abwehr-Lesson: Rockets Heim + 0-2 Deficit → Desperation-Modus. Klasseunterschied + Heim + Ausfälle-Symmetrie für Lakers ohne Dončić.",
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "t18",
-          "markt": "Rockets Handicap -5.5 Punkte",
-          "quote": 1.85,
-          "faire_quote": 1.8,
-          "edge_prozent": 3,
-          "kategorie": "wackel",
-          "begruendung": "Spread -9.5 bedeutet -5.5 ist das safere. Rockets sollten 6+ gewinnen. Aber Lakers-LeBron liefert in Playoff-Must-Win-Situationen.",
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "id": "t19",
-          "markt": "LeBron James Mehr als 20.5 Pkt",
-          "quote": 1.9,
-          "faire_quote": 1.95,
-          "edge_prozent": -3,
-          "kategorie": "wackel",
-          "begruendung": "19 in G2, ohne Dončić + Reaves Hauptscorer. Lesson: Playoff-Player-Props max WACKEL. Bei Blowout-Gefahr weniger Minuten möglich.",
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
+      "tipps": [],
       "ergebnis": null,
-      "tipps_ergebnis": []
+      "tipps_ergebnis": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
+      ]
     },
     {
       "id": "2026-04-25-blazers-spurs-g3",
@@ -331,261 +201,24 @@
         "G2 Blazers gewannen 106:103 in zweiter Halbzeit ohne Wemby",
         "Blazers Heim-Energy hoch nach G2-Upset"
       ],
-      "tipps": [
-        {
-          "id": "t20",
-          "markt": "Portland Trail Blazers Sieg",
-          "quote": 1.85,
-          "faire_quote": 1.75,
-          "edge_prozent": 6,
-          "kategorie": "value",
-          "begruendung": "Heim + G2-Momentum. Wenn Wemby aus → fast sicher. Wenn Wemby in → Blazers trotz Wemby-Rückkehr-Faktor zuhause stark. Aber: Wemby-Varianz = max VALUE.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t21",
-          "markt": "Weniger als 215.5 Punkte gesamt",
-          "quote": 1.9,
-          "faire_quote": 1.85,
-          "edge_prozent": 3,
-          "kategorie": "wackel",
-          "begruendung": "Beide Playoff-Defenses. G2 war 209. Aber: Wenn Wemby spielt = defensiver, wenn aus = Blazers schießen viel. Unklare Richtung.",
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
+      "tipps": [],
       "ergebnis": null,
-      "tipps_ergebnis": []
+      "tipps_ergebnis": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
+      ]
     }
   ],
-  "einzeltipps": [
-    {
-      "id": "e1",
-      "tipp_id": "t4",
-      "spiel_id": "2026-04-24-leipzig-union",
-      "markt": "RB Leipzig Sieg",
-      "quote": 1.55,
-      "kategorie": "safe",
-      "empfohlener_einsatz_prozent": 1.5,
-      "rang": 1
-    },
-    {
-      "id": "e2",
-      "tipp_id": "t7",
-      "spiel_id": "2026-04-24-napoli-cremonese",
-      "markt": "Napoli Sieg",
-      "quote": 1.3,
-      "kategorie": "safe",
-      "empfohlener_einsatz_prozent": 1.5,
-      "rang": 2
-    },
-    {
-      "id": "e3",
-      "tipp_id": "t10",
-      "spiel_id": "2026-04-24-betis-realmadrid",
-      "markt": "Real Madrid Doppelte Chance (X2)",
-      "quote": 1.35,
-      "kategorie": "safe",
-      "empfohlener_einsatz_prozent": 1.5,
-      "rang": 3
-    },
-    {
-      "id": "e4",
-      "tipp_id": "t1",
-      "spiel_id": "2026-04-24-lautern-braunschweig",
-      "markt": "Kaiserslautern Doppelte Chance (1X)",
-      "quote": 1.25,
-      "kategorie": "safe",
-      "empfohlener_einsatz_prozent": 1.5,
-      "rang": 4
-    },
-    {
-      "id": "e5",
-      "tipp_id": "t2",
-      "spiel_id": "2026-04-24-lautern-braunschweig",
-      "markt": "Kaiserslautern Sieg",
-      "quote": 2.0,
-      "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 5
-    },
-    {
-      "id": "e6",
-      "tipp_id": "t5",
-      "spiel_id": "2026-04-24-leipzig-union",
-      "markt": "Leipzig-Union: Mehr als 2.5 Tore",
-      "quote": 1.7,
-      "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.5,
-      "rang": 6
-    },
-    {
-      "id": "e7",
-      "tipp_id": "t8",
-      "spiel_id": "2026-04-24-napoli-cremonese",
-      "markt": "Napoli-Cremonese: Weniger als 2.5 Tore",
-      "quote": 1.87,
-      "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 7
-    },
-    {
-      "id": "e8",
-      "tipp_id": "t13",
-      "spiel_id": "2026-04-24-betis-realmadrid",
-      "markt": "Mbappé trifft",
-      "quote": 1.8,
-      "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 8
-    },
-    {
-      "id": "e9",
-      "tipp_id": "t12",
-      "spiel_id": "2026-04-24-betis-realmadrid",
-      "markt": "Betis-Real: Beide Teams treffen",
-      "quote": 1.7,
-      "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 9
-    },
-    {
-      "id": "e10",
-      "tipp_id": "t14",
-      "spiel_id": "2026-04-25-celtics-76ers-g3",
-      "markt": "Boston Celtics Sieg",
-      "quote": 1.85,
-      "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 10
-    },
-    {
-      "id": "e11",
-      "tipp_id": "t17",
-      "spiel_id": "2026-04-25-rockets-lakers-g3",
-      "markt": "Houston Rockets Sieg",
-      "quote": 1.45,
-      "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.5,
-      "rang": 11
-    },
-    {
-      "id": "e12",
-      "tipp_id": "t20",
-      "spiel_id": "2026-04-25-blazers-spurs-g3",
-      "markt": "Portland Trail Blazers Sieg",
-      "quote": 1.85,
-      "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 12
-    }
-  ],
-  "kombis": [
-    {
-      "id": "k_safe",
-      "name": "Safe-Vierer (4 Ligen, keine Player-Props)",
-      "kategorie": "safe",
-      "beine": [
-        {
-          "tipp_id": "t1",
-          "spiel_id": "2026-04-24-lautern-braunschweig",
-          "markt": "Kaiserslautern DC (1X)",
-          "quote": 1.25
-        },
-        {
-          "tipp_id": "t4",
-          "spiel_id": "2026-04-24-leipzig-union",
-          "markt": "RB Leipzig Sieg",
-          "quote": 1.55
-        },
-        {
-          "tipp_id": "t7",
-          "spiel_id": "2026-04-24-napoli-cremonese",
-          "markt": "Napoli Sieg",
-          "quote": 1.3
-        },
-        {
-          "tipp_id": "t10",
-          "spiel_id": "2026-04-24-betis-realmadrid",
-          "markt": "Real Madrid DC (X2)",
-          "quote": 1.35
-        }
-      ],
-      "gesamtquote": 3.4,
-      "rechnung": "1.25 × 1.55 × 1.30 × 1.35 = 3.40",
-      "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Vier Siege-/DC-Tipps aus vier verschiedenen Ligen. Keine Spieler-Props → keine Playoff-Varianz. Keine NBA drin (wegen Sweep-Abwehr-Lesson). Ehrliche ~3.4x."
-    },
-    {
-      "id": "k_balance",
-      "name": "Balance-Vierer",
-      "kategorie": "value",
-      "beine": [
-        {
-          "tipp_id": "t4",
-          "spiel_id": "2026-04-24-leipzig-union",
-          "markt": "RB Leipzig Sieg",
-          "quote": 1.55
-        },
-        {
-          "tipp_id": "t13",
-          "spiel_id": "2026-04-24-betis-realmadrid",
-          "markt": "Mbappé trifft",
-          "quote": 1.8
-        },
-        {
-          "tipp_id": "t8",
-          "spiel_id": "2026-04-24-napoli-cremonese",
-          "markt": "Napoli-Cremonese U2.5",
-          "quote": 1.87
-        },
-        {
-          "tipp_id": "t14",
-          "spiel_id": "2026-04-25-celtics-76ers-g3",
-          "markt": "Celtics Sieg",
-          "quote": 1.85
-        }
-      ],
-      "gesamtquote": 9.65,
-      "rechnung": "1.55 × 1.80 × 1.87 × 1.85 = 9.65",
-      "empfohlener_einsatz_prozent": 0.8,
-      "begruendung": "Sieg-Anker + Tor-Markt + Top-Torjäger + NBA-Bounce-Back. Keine Spieler-Stacks doppelt, keine korrelierten Beine."
-    },
-    {
-      "id": "k_risiko",
-      "name": "Risiko-Fünfer",
-      "kategorie": "risk",
-      "beine": [
-        {
-          "tipp_id": "t2",
-          "spiel_id": "2026-04-24-lautern-braunschweig",
-          "markt": "Kaiserslautern Sieg",
-          "quote": 2.0
-        },
-        {
-          "tipp_id": "t12",
-          "spiel_id": "2026-04-24-betis-realmadrid",
-          "markt": "Betis-Real BTTS: JA",
-          "quote": 1.7
-        },
-        {
-          "tipp_id": "t14",
-          "spiel_id": "2026-04-25-celtics-76ers-g3",
-          "markt": "Celtics Sieg",
-          "quote": 1.85
-        },
-        {
-          "tipp_id": "t20",
-          "spiel_id": "2026-04-25-blazers-spurs-g3",
-          "markt": "Blazers Sieg",
-          "quote": 1.85
-        }
-      ],
-      "gesamtquote": 11.64,
-      "rechnung": "2.00 × 1.70 × 1.85 × 1.85 = 11.64",
-      "empfohlener_einsatz_prozent": 0.3,
-      "begruendung": "Fünf Beine, davon 2 korrelierte Betis-Real-Tipps (Real Sieg + BTTS — wenn beide stimmen, muss Real zu 0 oder 2+ treffen UND Betis auch treffen). Leichte Korrelation = akzeptabel. Ehrliche ~25x."
-    }
-  ],
+  "einzeltipps": [],
+  "kombis": [],
   "lessons_angewandt": [
     "NBA-Player-Props max WACKEL (Brown, LeBron): alles WACKEL statt VALUE",
     "Sweep-Abwehr-Heimsieg → Rockets VALUE, nicht SAFE trotz -9.5 Spread + Desperation",

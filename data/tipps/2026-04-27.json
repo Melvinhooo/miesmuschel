@@ -15,37 +15,17 @@
         "Cunningham (Pistons) bei 30+ Punkten in G3, Banchero (Magic) Volumen-Topscorer.",
         "Pistons als Auswaerts-Favorit -3.5 (ungewohnt) - Buchmacher trauen Cunningham/Ivey-Backcourt zu, Magic aber im eigenen Hause meist gefaehrlich."
       ],
-      "tipps": [
-        {
-          "id": "t1",
-          "markt": "Magic +3.5 (Spread)",
-          "quote": 1.91,
-          "faire_quote": 1.85,
-          "edge_prozent": 3,
-          "kategorie": "value",
-          "begruendung": "Magic zuhause nach G3-Sieg im Momentum. -3.5 fuer Auswaerts-Favorit ist ungewoehnlich gross - Magic-Heim-Bonus + Banchero-Form rechtfertigen Spread-Cover. Quote via Oddschecker verifiziert.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t2",
-          "markt": "Unter 215.5 Punkte (Total)",
-          "quote": 1.91,
-          "faire_quote": 1.85,
-          "edge_prozent": 3,
-          "kategorie": "value",
-          "begruendung": "Magic-Defense Top-5 in der Liga, Pistons-Tempo nicht extrem. G3 endete 107:106 = 213 Punkte = unter Linie. Playoff-Defenses verschaerfen, Linie 215.5 ist hoch.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t3",
-          "markt": "Cade Cunningham Mehr als 27.5 Punkte",
-          "quote": 1.91,
-          "faire_quote": 2.0,
-          "edge_prozent": -4,
-          "kategorie": "wackel",
-          "begruendung": "Cunningham G2 39 Pkt, G3 30+ Pkt - Hot-Hand. Aber Lesson: Playoff-Player-Punkte max WACKEL wegen Defensiv-Adjustments. Nur Risiko/Moonshot-Bein, nicht Einzeltipp.",
-          "empfohlener_einsatz_prozent": 0.5
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     },
     {
@@ -60,37 +40,17 @@
         "SGA in G3 42 Pkt (Career-Playoff-High), MVP-Form. Suns-Booker in G3 nur 16 Pkt.",
         "Suns-Sweep-Abwehr-Lage: Heim, Backs-against-the-wall - Lesson 24.04.: Sweep-Abwehr-Heim NICHT als SAFE bei Sieg-Tipps."
       ],
-      "tipps": [
-        {
-          "id": "t1",
-          "markt": "Thunder Sieg (Moneyline)",
-          "quote": 1.2,
-          "faire_quote": 1.18,
-          "edge_prozent": 2,
-          "kategorie": "value",
-          "begruendung": "Klassendifferenz extrem (3-0 Serie spricht), SGA in MVP-Form. ABER nicht SAFE wegen Sweep-Abwehr-Underdog-Lesson - Suns spielen befreit, das kann kippen. Max VALUE.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t2",
-          "markt": "Über 213.5 Punkte (Total)",
-          "quote": 1.91,
-          "faire_quote": 1.85,
-          "edge_prozent": 3,
-          "kategorie": "value",
-          "begruendung": "OKC schnellste Pace der Liga, Suns als Sweep-Abwehr-Underdog spielen All-Out-Tempo (Lesson 22.04. Thunder-Suns Underdog-Open). Heim-Energie pusht. Über mit Edge.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t3",
-          "markt": "Shai Gilgeous-Alexander Mehr als 31.5 Punkte",
-          "quote": 1.91,
-          "faire_quote": 2.0,
-          "edge_prozent": -4,
-          "kategorie": "wackel",
-          "begruendung": "SGA in Sweep-Mode, Career-High in G3. Aber Player-Punkte max WACKEL (Lesson 26.04.: NBA-Player-Punkte 5/17 Hit-Rate). Nur Risiko/Moonshot-Bein.",
-          "empfohlener_einsatz_prozent": 0.5
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     },
     {
@@ -106,112 +66,21 @@
         "Jokic (Nuggets) MVP-Form, Murray dazu - Nuggets im Elimination-Modus zuhause.",
         "Nuggets als -11.5 Heim-Favorit ungewoehnlich gross - Buchmacher rechnen mit Wolves-Knockout."
       ],
-      "tipps": [
-        {
-          "id": "t1",
-          "markt": "Nuggets Sieg (Moneyline)",
-          "quote": 1.2,
-          "faire_quote": 1.15,
-          "edge_prozent": 4,
-          "kategorie": "safe",
-          "begruendung": "Wolves entkernt (Edwards + DiVincenzo OUT), Nuggets im Elimination-Modus zuhause mit Jokic-Murray. Klassendifferenz heute Nacht massiv. SAFE-Reality-Check passt: klar fitter Topscorer, Klassen-Differenz, Heim-Favorit ohne Sweep-Druck-Risiko.",
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "t2",
-          "markt": "Nuggets -11.5 (Spread)",
-          "quote": 1.91,
-          "faire_quote": 1.95,
-          "edge_prozent": -2,
-          "kategorie": "wackel",
-          "begruendung": "Spread sehr hoch fuer Playoff-Spiel - selbst wenn Wolves entkernt, Garbage-Time-Adjustments koennen Spread killen. Alternative zum Moneyline aber riskanter.",
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "id": "t3",
-          "markt": "Unter 222.5 Punkte (Total)",
-          "quote": 1.91,
-          "faire_quote": 1.85,
-          "edge_prozent": 3,
-          "kategorie": "value",
-          "begruendung": "Wolves-Offense ohne Edwards limitiert (Dosunmu G4 43 Pkt war Anomalie). Nuggets kontrollierte Pace mit Jokic. Linie 222.5 hoch fuer dezimierte Wolves-Offense.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t4",
-          "markt": "Nikola Jokic Triple-Double",
-          "quote": 3.5,
-          "faire_quote": 3.0,
-          "edge_prozent": 17,
-          "kategorie": "wackel",
-          "begruendung": "Jokic Saison-TD-Rate ~30%, in Elimination-Modus zuhause oft erhoeht. Nicht Einzeltipp wegen Player-Markt-Boykott - aber im Moonshot-Bein wertvoll.",
-          "empfohlener_einsatz_prozent": 0.5
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
       ]
     }
   ],
-  "einzeltipps": [
-    {
-      "id": "e1",
-      "rang": 1,
-      "tipp_id": "t1",
-      "spiel_id": "2026-04-28-nuggets-wolves-g5",
-      "markt": "Nuggets Sieg (Moneyline)",
-      "quote": 1.2,
-      "kategorie": "safe",
-      "empfohlener_einsatz_prozent": 1.5
-    },
-    {
-      "id": "e2",
-      "rang": 2,
-      "tipp_id": "t1",
-      "spiel_id": "2026-04-28-magic-pistons-g4",
-      "markt": "Magic +3.5 (Spread)",
-      "quote": 1.91,
-      "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0
-    },
-    {
-      "id": "e3",
-      "rang": 3,
-      "tipp_id": "t2",
-      "spiel_id": "2026-04-28-suns-thunder-g4",
-      "markt": "Über 213.5 Punkte (Total)",
-      "quote": 1.91,
-      "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0
-    },
-    {
-      "id": "e4",
-      "rang": 4,
-      "tipp_id": "t3",
-      "spiel_id": "2026-04-28-nuggets-wolves-g5",
-      "markt": "Unter 222.5 Punkte (Total)",
-      "quote": 1.91,
-      "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0
-    },
-    {
-      "id": "e5",
-      "rang": 5,
-      "tipp_id": "t1",
-      "spiel_id": "2026-04-28-suns-thunder-g4",
-      "markt": "Thunder Sieg (Moneyline)",
-      "quote": 1.2,
-      "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0
-    },
-    {
-      "id": "e6",
-      "rang": 6,
-      "tipp_id": "t2",
-      "spiel_id": "2026-04-28-magic-pistons-g4",
-      "markt": "Unter 215.5 Punkte (Total)",
-      "quote": 1.91,
-      "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0
-    }
-  ],
+  "einzeltipps": [],
   "kombis": [
     {
       "id": "k_safe",

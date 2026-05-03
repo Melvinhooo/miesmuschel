@@ -21,50 +21,20 @@
         "Stuttgart-Aufstellung erwartet: Nübel; Assignon, Hendriks, Chabot, Mittelstädt; Karazor, Stiller; Leweling, Undav, Führich",
         "Erstmals im Jahrtausend K.o.-Pokalspiel an einem Donnerstag (BL-Partien am Sonntag davor)"
       ],
-      "tipps": [
-        {
-          "id": "t1",
-          "markt": "Stuttgart weiter (inkl. Verlängerung/Elfmeter)",
-          "quote": 1.55,
-          "faire_quote": 1.5,
-          "edge_prozent": 3,
-          "kategorie": "safe",
-          "begruendung": "Heim-Titelverteidiger gegen EL-HF-Freiburg ist knapper als man denkt. Aber im Pokal mit Heim + Elfer-Kompetenz (Nübel stark bei Elfern) klarer Favorit fürs Weiterkommen.",
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "t2",
-          "markt": "Stuttgart Sieg (90 Min)",
-          "quote": 2.0,
-          "faire_quote": 1.95,
-          "edge_prozent": 3,
-          "kategorie": "value",
-          "begruendung": "Freiburg hat mit EL-HF Doppelbelastung (Mittwoch/Donnerstag Serie), Stuttgart voll fokussiert. Heimvorteil in K.o.-Spielen stark. Quote fair mit leichter Lean pro Stuttgart.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t3",
-          "markt": "Deniz Undav trifft",
-          "quote": 2.3,
-          "faire_quote": 2.1,
-          "edge_prozent": 9,
-          "kategorie": "value",
-          "begruendung": "VfB-Topscorer, zuhause in Pokal-K.o.-Spielen stark. Freiburg-Defense gut aber nicht überragend, Undav typisch in großen Spielen abgebrüht.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t4",
-          "markt": "Weniger als 2.5 Tore",
-          "quote": 2.0,
-          "faire_quote": 1.9,
-          "edge_prozent": 5,
-          "kategorie": "wackel",
-          "begruendung": "K.o.-Spiele nach Remis-Drohung oft taktisch. Beide Teams defensiv solide. Aber: wenn Tore fallen, fallen oft mehrere. Coinflip mit leichter Neigung zu wenig Toren.",
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
+      "tipps": [],
       "ergebnis": null,
-      "tipps_ergebnis": []
+      "tipps_ergebnis": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
+      ]
     },
     {
       "id": "2026-04-23-levante-sevilla",
@@ -81,40 +51,20 @@
         "Levante-OUT: Roger Brugue, Unai Elgezabal",
         "Letztes Heimspiel Levante: 1:0 gegen Getafe"
       ],
-      "tipps": [
-        {
-          "id": "t15",
-          "markt": "Levante Doppelte Chance (1X)",
-          "quote": 1.45,
-          "faire_quote": 1.35,
-          "edge_prozent": 7,
-          "kategorie": "safe",
-          "begruendung": "Levante zuhause unbeaten letzte 4, Sevilla katastrophal auswärts. Wenn Levante nicht verliert, reichts.",
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "t16",
-          "markt": "Levante Sieg",
-          "quote": 2.2,
-          "faire_quote": 2.0,
-          "edge_prozent": 9,
-          "kategorie": "value",
-          "begruendung": "Sevilla auswärts 1/11, Levante mit Abstiegsdruck + Heimstärke. Sieg realistisch.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t17",
-          "markt": "Weniger als 2.5 Tore",
-          "quote": 1.75,
-          "faire_quote": 1.7,
-          "edge_prozent": 3,
-          "kategorie": "wackel",
-          "begruendung": "Abstiegskracher: taktisch, viel Angst. Aber beide können offensiv Fehler machen. Leichter Lean pro Unter.",
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
+      "tipps": [],
       "ergebnis": null,
-      "tipps_ergebnis": []
+      "tipps_ergebnis": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
+      ]
     },
     {
       "id": "2026-04-23-rayo-espanyol",
@@ -130,40 +80,20 @@
         "Rayo Mittelfeld-Tabelle, Heimvorteil klar",
         "Dimers-Modell: 43.7% Rayo / 29.5% Espanyol / 26.8% Remis"
       ],
-      "tipps": [
-        {
-          "id": "t18",
-          "markt": "Rayo Vallecano Doppelte Chance (1X)",
-          "quote": 1.3,
-          "faire_quote": 1.25,
-          "edge_prozent": 4,
-          "kategorie": "safe",
-          "begruendung": "Rayo zuhause unbeaten letzte 5, Espanyol 14 ohne Sieg. DC ist faktisch Banker trotz kurioser H2H-Serie.",
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "t19",
-          "markt": "Rayo Vallecano Sieg",
-          "quote": 1.9,
-          "faire_quote": 1.8,
-          "edge_prozent": 6,
-          "kategorie": "value",
-          "begruendung": "Espanyol in Krise, keine Energie. Rayo zuhause Favorit. Kleiner aber echter Wert.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t20",
-          "markt": "Weniger als 2.5 Tore",
-          "quote": 1.8,
-          "faire_quote": 1.8,
-          "edge_prozent": 0,
-          "kategorie": "wackel",
-          "begruendung": "H2H-Duelle der letzten 4 Jahre wenig Tore. Aber Rayo offensiver jetzt. Fair gepreist.",
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
+      "tipps": [],
       "ergebnis": null,
-      "tipps_ergebnis": []
+      "tipps_ergebnis": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
+      ]
     },
     {
       "id": "2026-04-23-oviedo-villarreal",
@@ -180,40 +110,20 @@
         "Oviedo-OUT: Fores, Dendoncker, Ilic verletzt + Fonseca gesperrt (5. Gelbe)",
         "Viele Defensiv-Ausfälle beiderseits → taktisches Spiel erwartet"
       ],
-      "tipps": [
-        {
-          "id": "t21",
-          "markt": "Weniger als 2.5 Tore",
-          "quote": 1.85,
-          "faire_quote": 1.65,
-          "edge_prozent": 12,
-          "kategorie": "value",
-          "begruendung": "Viele Defensiv-Ausfälle beiderseits → Lager dicht. Experten-Modell 60% Unter-Wahrscheinlichkeit. Oviedo-Heimspiele meist eng.",
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "t22",
-          "markt": "Villarreal Doppelte Chance (X2)",
-          "quote": 1.3,
-          "faire_quote": 1.3,
-          "edge_prozent": 0,
-          "kategorie": "safe",
-          "begruendung": "Villarreal klar bessere Klasse, auch ohne Foyth/Costa. Oviedo-Heim stark zuletzt, aber DC bleibt solide.",
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "t23",
-          "markt": "Oviedo Sieg",
-          "quote": 3.5,
-          "faire_quote": 3.8,
-          "edge_prozent": -8,
-          "kategorie": "wackel",
-          "begruendung": "Oviedo mit Momentum (3/4 Siege), Villarreal-Ausfälle defensiv. Quote spiegelt das, leicht kontra. Moonshot-Baustein.",
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
+      "tipps": [],
       "ergebnis": null,
-      "tipps_ergebnis": []
+      "tipps_ergebnis": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
+      ]
     },
     {
       "id": "2026-04-23-cavs-raptors",
@@ -230,40 +140,20 @@
         "Cleveland moneyline -155, Spread -5.5, Total 221.5",
         "Scotiabank Arena: Toronto-Heimvorteil, aber Cavs auswärts stark"
       ],
-      "tipps": [
-        {
-          "id": "t5",
-          "markt": "Cleveland Cavaliers Sieg",
-          "quote": 1.65,
-          "faire_quote": 1.55,
-          "edge_prozent": 6,
-          "kategorie": "safe",
-          "begruendung": "Cavs klar bessere Truppe, Mitchell/Harden in Form. Raptors-Desperation könnte zwar Energie geben, aber Top-2 reicht nicht gegen Cavs-Tiefe. Sweep-Druck auf Toronto.",
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "t6",
-          "markt": "Donovan Mitchell Mehr als 26.5 Punkte",
-          "quote": 1.85,
-          "faire_quote": 1.8,
-          "edge_prozent": 3,
-          "kategorie": "value",
-          "begruendung": "30 in G2, volle Minuten, Raptors keine echte Stopper-Option. Lesson: Playoff-Player-Props max VALUE, daher reduzierter Einsatz.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t7",
-          "markt": "Mehr als 221.5 Punkte gesamt",
-          "quote": 1.9,
-          "faire_quote": 1.85,
-          "edge_prozent": 3,
-          "kategorie": "wackel",
-          "begruendung": "G2 ging auf 220 — knapp drunter. Raptors müssen offen spielen, Cavs schießen ohnehin viel. Coinflip mit leichter Tendenz drüber.",
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
+      "tipps": [],
       "ergebnis": null,
-      "tipps_ergebnis": []
+      "tipps_ergebnis": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
+      ]
     },
     {
       "id": "2026-04-23-knicks-hawks",
@@ -281,40 +171,20 @@
         "State Farm Arena — Hawks-Heim nach G2-Sieg",
         "Amazon Prime Video"
       ],
-      "tipps": [
-        {
-          "id": "t8",
-          "markt": "Atlanta Hawks Sieg",
-          "quote": 1.85,
-          "faire_quote": 1.8,
-          "edge_prozent": 3,
-          "kategorie": "value",
-          "begruendung": "Hawks Heim + G2-Momentum. McCollum heiß. Knicks hatten Q4-Zusammenbruch in G2, muss erst mal wieder kommen. Leichter Wert pro Heim.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t9",
-          "markt": "Jalen Brunson Mehr als 24.5 Punkte",
-          "quote": 1.75,
-          "faire_quote": 1.7,
-          "edge_prozent": 3,
-          "kategorie": "value",
-          "begruendung": "Knicks-Lebensader, wird noch mehr Volumen nehmen müssen nach G2. Saisonschnitt 28+, Hawks-Defense nicht elitär. Lesson: Player-Props max VALUE.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t10",
-          "markt": "CJ McCollum Mehr als 19.5 Punkte",
-          "quote": 1.85,
-          "faire_quote": 1.95,
-          "edge_prozent": -5,
-          "kategorie": "wackel",
-          "begruendung": "G1:26, G2:32 — aber Regression möglich. Linie von 17.5 auf 19.5 hochgesetzt. Volumen-Scorer kann regressen. Nur als Kombi-Baustein.",
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
+      "tipps": [],
       "ergebnis": null,
-      "tipps_ergebnis": []
+      "tipps_ergebnis": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
+      ]
     },
     {
       "id": "2026-04-23-wolves-nuggets",
@@ -332,289 +202,24 @@
         "Total 234.5 — beide Teams offensiv",
         "Target Center: Wolves-Heimrecht nach Road-Win"
       ],
-      "tipps": [
-        {
-          "id": "t11",
-          "markt": "Minnesota Timberwolves Sieg",
-          "quote": 2.05,
-          "faire_quote": 1.95,
-          "edge_prozent": 5,
-          "kategorie": "value",
-          "begruendung": "Wolves Heim nach G2-Road-Win, Edwards-Hot-Hand, Randle stabil. Denver auswärts in enger Serie nicht mehr Favorit. Kleiner aber echter Edge.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t12",
-          "markt": "Anthony Edwards Mehr als 27.5 Punkte",
-          "quote": 1.8,
-          "faire_quote": 1.75,
-          "edge_prozent": 3,
-          "kategorie": "value",
-          "begruendung": "30 in G2, Heimspiel, Rolle als Wolves-Hauptscorer. Nuggets-Defense ohne echten Edwards-Stopper. Lesson: max VALUE.",
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "t13",
-          "markt": "Nikola Jokic Mehr als 27.5 Punkte",
-          "quote": 1.85,
-          "faire_quote": 1.8,
-          "edge_prozent": 3,
-          "kategorie": "wackel",
-          "begruendung": "Jokic liefert Triple-Double-Stats in Playoffs regelmäßig aber Punkte schwanken mehr als man denkt (kann auch 22 werden wenn Wolves doppeln). Kombi-Baustein.",
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "id": "t14",
-          "markt": "Weniger als 234.5 Punkte gesamt",
-          "quote": 1.9,
-          "faire_quote": 1.85,
-          "edge_prozent": 3,
-          "kategorie": "wackel",
-          "begruendung": "Linie extrem hoch gepreist. Beide Teams laufen offensiv aber Playoff-Defenses greifen. Leichter Value pro Unter, aber echtes Coinflip.",
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
+      "tipps": [],
       "ergebnis": null,
-      "tipps_ergebnis": []
+      "tipps_ergebnis": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "parallel_heim",
+        "parallel_gast",
+        "saisonziel_heim",
+        "saisonziel_gast",
+        "motivations_asymmetrie",
+        "recovery_heim",
+        "recovery_gast",
+        "quellen[]"
+      ]
     }
   ],
-  "einzeltipps": [
-    {
-      "id": "e1",
-      "tipp_id": "t1",
-      "spiel_id": "2026-04-23-stuttgart-freiburg",
-      "markt": "Stuttgart weiter (inkl. Verl./Elfer)",
-      "quote": 1.55,
-      "kategorie": "safe",
-      "empfohlener_einsatz_prozent": 1.5,
-      "rang": 1
-    },
-    {
-      "id": "e2",
-      "tipp_id": "t5",
-      "spiel_id": "2026-04-23-cavs-raptors",
-      "markt": "Cleveland Cavaliers Sieg",
-      "quote": 1.65,
-      "kategorie": "safe",
-      "empfohlener_einsatz_prozent": 1.5,
-      "rang": 2
-    },
-    {
-      "id": "e3",
-      "tipp_id": "t2",
-      "spiel_id": "2026-04-23-stuttgart-freiburg",
-      "markt": "Stuttgart Sieg (90 Min)",
-      "quote": 2.0,
-      "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 3
-    },
-    {
-      "id": "e4",
-      "tipp_id": "t3",
-      "spiel_id": "2026-04-23-stuttgart-freiburg",
-      "markt": "Deniz Undav trifft",
-      "quote": 2.3,
-      "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 4
-    },
-    {
-      "id": "e5",
-      "tipp_id": "t8",
-      "spiel_id": "2026-04-23-knicks-hawks",
-      "markt": "Atlanta Hawks Sieg",
-      "quote": 1.85,
-      "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 5
-    },
-    {
-      "id": "e6",
-      "tipp_id": "t11",
-      "spiel_id": "2026-04-23-wolves-nuggets",
-      "markt": "Minnesota Timberwolves Sieg",
-      "quote": 2.05,
-      "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 6
-    },
-    {
-      "id": "e7",
-      "tipp_id": "t6",
-      "spiel_id": "2026-04-23-cavs-raptors",
-      "markt": "Donovan Mitchell Mehr als 26.5 Punkte",
-      "quote": 1.85,
-      "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 7
-    },
-    {
-      "id": "e8",
-      "tipp_id": "t9",
-      "spiel_id": "2026-04-23-knicks-hawks",
-      "markt": "Jalen Brunson Mehr als 24.5 Punkte",
-      "quote": 1.75,
-      "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 8
-    },
-    {
-      "id": "e9",
-      "tipp_id": "t12",
-      "spiel_id": "2026-04-23-wolves-nuggets",
-      "markt": "Anthony Edwards Mehr als 27.5 Punkte",
-      "quote": 1.8,
-      "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 9
-    },
-    {
-      "id": "e10",
-      "tipp_id": "t4",
-      "spiel_id": "2026-04-23-stuttgart-freiburg",
-      "markt": "Stuttgart-Freiburg: Weniger als 2.5 Tore",
-      "quote": 2.0,
-      "kategorie": "wackel",
-      "empfohlener_einsatz_prozent": 0.5,
-      "rang": 10
-    },
-    {
-      "id": "e11",
-      "tipp_id": "t18",
-      "spiel_id": "2026-04-23-rayo-espanyol",
-      "markt": "Rayo Vallecano Doppelte Chance (1X)",
-      "quote": 1.3,
-      "kategorie": "safe",
-      "empfohlener_einsatz_prozent": 1.5,
-      "rang": 11
-    },
-    {
-      "id": "e12",
-      "tipp_id": "t22",
-      "spiel_id": "2026-04-23-oviedo-villarreal",
-      "markt": "Villarreal Doppelte Chance (X2)",
-      "quote": 1.3,
-      "kategorie": "safe",
-      "empfohlener_einsatz_prozent": 1.5,
-      "rang": 12
-    },
-    {
-      "id": "e13",
-      "tipp_id": "t15",
-      "spiel_id": "2026-04-23-levante-sevilla",
-      "markt": "Levante Doppelte Chance (1X)",
-      "quote": 1.45,
-      "kategorie": "safe",
-      "empfohlener_einsatz_prozent": 1.5,
-      "rang": 13
-    },
-    {
-      "id": "e14",
-      "tipp_id": "t21",
-      "spiel_id": "2026-04-23-oviedo-villarreal",
-      "markt": "Oviedo-Villarreal: Weniger als 2.5 Tore",
-      "quote": 1.85,
-      "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.5,
-      "rang": 14
-    }
-  ],
-  "kombis": [
-    {
-      "id": "k_safe",
-      "name": "Safe-Vierer (DFB + LaLiga-DCs + NBA)",
-      "kategorie": "safe",
-      "beine": [
-        {
-          "tipp_id": "t1",
-          "spiel_id": "2026-04-23-stuttgart-freiburg",
-          "markt": "Stuttgart weiter (inkl. Verl./Elfer)",
-          "quote": 1.55
-        },
-        {
-          "tipp_id": "t18",
-          "spiel_id": "2026-04-23-rayo-espanyol",
-          "markt": "Rayo DC (1X)",
-          "quote": 1.3
-        },
-        {
-          "tipp_id": "t22",
-          "spiel_id": "2026-04-23-oviedo-villarreal",
-          "markt": "Villarreal DC (X2)",
-          "quote": 1.3
-        },
-        {
-          "tipp_id": "t5",
-          "spiel_id": "2026-04-23-cavs-raptors",
-          "markt": "Cleveland Sieg",
-          "quote": 1.65
-        }
-      ],
-      "gesamtquote": 4.32,
-      "rechnung": "1.55 × 1.30 × 1.30 × 1.65 = 4.32",
-      "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Vier konservative Beine aus 4 verschiedenen Wettbewerben (DFB + 2x LaLiga + NBA). Keine Spieler-Props → keine Playoff-Varianz. Ehrliche ~4.3x."
-    },
-    {
-      "id": "k_balance",
-      "name": "Balance-Vierer",
-      "kategorie": "value",
-      "beine": [
-        {
-          "tipp_id": "t1",
-          "spiel_id": "2026-04-23-stuttgart-freiburg",
-          "markt": "Stuttgart weiter",
-          "quote": 1.55
-        },
-        {
-          "tipp_id": "t5",
-          "spiel_id": "2026-04-23-cavs-raptors",
-          "markt": "Cleveland Sieg",
-          "quote": 1.65
-        },
-        {
-          "tipp_id": "t12",
-          "spiel_id": "2026-04-23-wolves-nuggets",
-          "markt": "Edwards >27.5 Pkt",
-          "quote": 1.8
-        }
-      ],
-      "gesamtquote": 4.6,
-      "rechnung": "1.55 × 1.65 × 1.80 = 4.6",
-      "empfohlener_einsatz_prozent": 0.8,
-      "begruendung": "Zwei Sieg-Banker + zwei Player-Props (Mitchell, Edwards) beide stark in G2. Keine Spieler-Dopplungen, keine korrelierten Tipps in anderen Kombis."
-    },
-    {
-      "id": "k_risiko",
-      "name": "Risiko-Vierer",
-      "kategorie": "risk",
-      "beine": [
-        {
-          "tipp_id": "t3",
-          "spiel_id": "2026-04-23-stuttgart-freiburg",
-          "markt": "Undav trifft",
-          "quote": 2.3
-        },
-        {
-          "tipp_id": "t8",
-          "spiel_id": "2026-04-23-knicks-hawks",
-          "markt": "Hawks Sieg",
-          "quote": 1.85
-        },
-        {
-          "tipp_id": "t11",
-          "spiel_id": "2026-04-23-wolves-nuggets",
-          "markt": "Wolves Sieg",
-          "quote": 2.05
-        }
-      ],
-      "gesamtquote": 8.72,
-      "rechnung": "2.30 × 1.85 × 2.05 = 8.72",
-      "empfohlener_einsatz_prozent": 0.5,
-      "begruendung": "Zwei Heim-Underdogs + zwei Spielerpunkte. Hawks UND Brunson im selben Spiel: wenn Knicks verlieren, nimmt Brunson oft mehr Schüsse (Desperation) → leicht korrelliert, aber beide können gleichzeitig treffen. ~15x ehrlich, nicht die Ziel-50x."
-    }
-  ],
+  "einzeltipps": [],
+  "kombis": [],
   "lessons_angewandt": [
     "NBA-Player-Props bleiben max VALUE, nicht SAFE",
     "Keine Player-Props von Underdog-Teams als SAFE (Edwards ist HEIM, daher OK)",
