@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-05-03T16:25:51+02:00",
+  "letzte_berechnung": "2026-05-03T16:46:41+02:00",
   "gesamt": {
     "tipps": 123,
     "gewonnen": 75,
@@ -1830,5 +1830,1957 @@ window.__MIESMUSCHEL_STAT = {
       "median": 0.0
     },
     "nach_liga": {}
-  }
+  },
+  "tages_verlauf": [
+    {
+      "datum": "2026-05-02",
+      "gesamt": {
+        "tipps": 10,
+        "gewonnen": 6,
+        "verloren": 4,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 10.0,
+        "netto": -1.96,
+        "trefferquote": 60.0,
+        "roi_prozent": -19.6
+      },
+      "spiele": [
+        {
+          "id": "2026-05-02-bay-hei",
+          "liga": "Bundesliga",
+          "heim": "Bayern Muenchen",
+          "gast": "1. FC Heidenheim",
+          "endstand": "3:3",
+          "tipps": [
+            {
+              "markt": "Bayern Muenchen",
+              "quote": 1.18,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Bayern Sieg verfehlt bei 3:3."
+            }
+          ]
+        },
+        {
+          "id": "2026-05-02-fra-hsv",
+          "liga": "Bundesliga",
+          "heim": "Eintracht Frankfurt",
+          "gast": "Hamburger SV",
+          "endstand": "1:2",
+          "tipps": [
+            {
+              "markt": "Frankfurt oder Unentschieden",
+              "quote": 1.22,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "DC 1X verfehlt bei 1:2."
+            }
+          ]
+        },
+        {
+          "id": "2026-05-02-bre-aug",
+          "liga": "Bundesliga",
+          "heim": "Werder Bremen",
+          "gast": "FC Augsburg",
+          "endstand": "1:3",
+          "tipps": [
+            {
+              "markt": "Unter 3.5 Tore",
+              "quote": 1.3,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "4 (1:3) ueber 3.5."
+            }
+          ]
+        },
+        {
+          "id": "2026-05-02-hof-stu",
+          "liga": "Bundesliga",
+          "heim": "TSG Hoffenheim",
+          "gast": "VfB Stuttgart",
+          "endstand": "3:3",
+          "tipps": [
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.62,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.62,
+              "kommentar": "6 (3:3) ueber 2.5."
+            }
+          ]
+        },
+        {
+          "id": "2026-05-02-lev-rbl",
+          "liga": "Bundesliga",
+          "heim": "Bayer 04 Leverkusen",
+          "gast": "RB Leipzig",
+          "endstand": "4:1",
+          "tipps": [
+            {
+              "markt": "Leverkusen oder Unentschieden",
+              "quote": 1.3,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.3,
+              "kommentar": "DC 1X erfuellt bei 4:1."
+            }
+          ]
+        },
+        {
+          "id": "2026-05-02-new-bri",
+          "liga": "Premier League",
+          "heim": "Newcastle United",
+          "gast": "Brighton & Hove Albion",
+          "endstand": "3:1",
+          "tipps": [
+            {
+              "markt": "Unentschieden oder Brighton",
+              "quote": 1.45,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "DC X2 verfehlt bei 3:1."
+            }
+          ]
+        },
+        {
+          "id": "2026-05-02-wol-sun",
+          "liga": "Premier League",
+          "heim": "Wolverhampton Wanderers",
+          "gast": "Sunderland",
+          "endstand": "1:1",
+          "tipps": [
+            {
+              "markt": "Unentschieden oder Sunderland",
+              "quote": 1.32,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.32,
+              "kommentar": "DC X2 erfuellt bei 1:1."
+            }
+          ]
+        },
+        {
+          "id": "2026-05-02-ars-ful",
+          "liga": "Premier League",
+          "heim": "Arsenal",
+          "gast": "Fulham",
+          "endstand": "3:0",
+          "tipps": [
+            {
+              "markt": "Arsenal",
+              "quote": 1.44,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.44,
+              "kommentar": "Arsenal Sieg erfuellt bei 3:0."
+            }
+          ]
+        },
+        {
+          "id": "2026-05-02-vil-lev",
+          "liga": "LaLiga",
+          "heim": "Villarreal CF",
+          "gast": "Levante UD",
+          "endstand": "5:1",
+          "tipps": [
+            {
+              "markt": "Villarreal oder Unentschieden",
+              "quote": 1.18,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.18,
+              "kommentar": "DC 1X erfuellt bei 5:1."
+            }
+          ]
+        },
+        {
+          "id": "2026-05-02-osa-bar",
+          "liga": "LaLiga",
+          "heim": "CA Osasuna",
+          "gast": "FC Barcelona",
+          "endstand": "1:2",
+          "tipps": [
+            {
+              "markt": "Unentschieden oder Barcelona",
+              "quote": 1.18,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.18,
+              "kommentar": "DC X2 erfuellt bei 1:2."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "datum": "2026-05-01",
+      "gesamt": {
+        "tipps": 12,
+        "gewonnen": 6,
+        "verloren": 6,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 12.0,
+        "netto": -2.43,
+        "trefferquote": 50.0,
+        "roi_prozent": -20.2
+      },
+      "spiele": [
+        {
+          "id": "2026-05-01-magic-pistons",
+          "liga": "NBA Playoffs Round 1, Game 6",
+          "heim": "Orlando Magic",
+          "gast": "Detroit Pistons",
+          "endstand": "79:93",
+          "tipps": [
+            {
+              "markt": "Magic Sieg",
+              "quote": 2.1,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Magic verloren 79:93 - Pistons-Comeback aus -22 in Q4 (16-2 Run)."
+            },
+            {
+              "markt": "Ueber 211.5",
+              "quote": 1.9,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Total 172 < 211.5 - Defensiv-Spektakel statt Star-Eskalation, beide Stars eingebremst."
+            }
+          ]
+        },
+        {
+          "id": "2026-05-01-raptors-cavaliers",
+          "liga": "NBA Playoffs Round 1, Game 6",
+          "heim": "Toronto Raptors",
+          "gast": "Cleveland Cavaliers",
+          "endstand": "112:110 OT",
+          "tipps": [
+            {
+              "markt": "Cavaliers Sieg (90 Min)",
+              "quote": 1.55,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Cavs verloren 110:112 in OT - RJ Barrett Game-Winner-3er 1.2 Sek vor Schluss OT."
+            },
+            {
+              "markt": "Raptors +3.5",
+              "quote": 1.91,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.91,
+              "kommentar": "Raptors gewannen sogar das Spiel +2 - Spread +3.5 deutlich covered."
+            },
+            {
+              "markt": "Ueber 219.5",
+              "quote": 1.9,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.9,
+              "kommentar": "Total 222 > 219.5 - Decider-Pace bestaetigt."
+            }
+          ]
+        },
+        {
+          "id": "2026-05-01-rockets-lakers",
+          "liga": "NBA Playoffs Round 1, Game 6",
+          "heim": "Houston Rockets",
+          "gast": "Los Angeles Lakers",
+          "endstand": "78:98",
+          "tipps": [
+            {
+              "markt": "Rockets Sieg (Moneyline)",
+              "quote": 1.59,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Rockets verloren 78:98 - Lakers eliminieren Houston, LeBron 28."
+            },
+            {
+              "markt": "Ueber 206.5",
+              "quote": 1.9,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Total 176 < 206.5 - Closeout-Druck = Lakers-Defense dominant."
+            }
+          ]
+        },
+        {
+          "id": "2026-05-01-leeds-burnley",
+          "liga": "Premier League",
+          "heim": "Leeds United",
+          "gast": "Burnley",
+          "endstand": "3:1",
+          "tipps": [
+            {
+              "markt": "Leeds Sieg (90 Min)",
+              "quote": 1.36,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.36,
+              "kommentar": "Leeds Sieg 3:1 - klare Klassendifferenz bestaetigt."
+            },
+            {
+              "markt": "Leeds DC 1X",
+              "quote": 1.1,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.1,
+              "kommentar": "Leeds DC 1X - Sieg 3:1."
+            },
+            {
+              "markt": "Ueber 1.5 Tore",
+              "quote": 1.45,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.45,
+              "kommentar": "4 Tore > 1.5 - locker covered."
+            }
+          ]
+        },
+        {
+          "id": "2026-05-01-girona-mallorca",
+          "liga": "LaLiga",
+          "heim": "Girona FC",
+          "gast": "RCD Mallorca",
+          "endstand": "0:1",
+          "tipps": [
+            {
+              "markt": "Girona DC 1X",
+              "quote": 1.45,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Girona DC 1X - Mallorca gewann 1:0 (Samu Costa 43.), Girona-Pech mit 2x Aluminium."
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.85,
+              "kommentar": "1 Tor < 2.5 - taktisch enges Mittelfeld-Spiel wie erwartet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "datum": "2026-04-30",
+      "gesamt": {
+        "tipps": 21,
+        "gewonnen": 14,
+        "verloren": 7,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 21.0,
+        "netto": 3.25,
+        "trefferquote": 66.7,
+        "roi_prozent": 15.5
+      },
+      "spiele": [
+        {
+          "id": "2026-04-30-braga-freiburg",
+          "liga": "Europa League Halbfinale",
+          "heim": "SC Braga",
+          "gast": "SC Freiburg",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Mehr als 1.5 Tore",
+              "quote": 1.3,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.3,
+              "kommentar": "3 Tore > 1.5"
+            },
+            {
+              "markt": "SC Braga Doppelte Chance (1X)",
+              "quote": 1.32,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.32,
+              "kommentar": "Braga Sieg 2-1"
+            },
+            {
+              "markt": "Beide Teams treffen: JA",
+              "quote": 1.91,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.91,
+              "kommentar": "Beide Teams trafen (Braga 2x, Freiburg 1x)"
+            }
+          ]
+        },
+        {
+          "id": "2026-04-30-nottingham-forest-aston-villa",
+          "liga": "Europa League Halbfinale",
+          "heim": "Nottingham Forest",
+          "gast": "Aston Villa",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Mehr als 1.5 Tore",
+              "quote": 1.3,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Nur 1 Tor (Wood-Elfmeter), unter 1.5"
+            },
+            {
+              "markt": "Nottingham Forest Doppelte Chance (1X)",
+              "quote": 1.42,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.42,
+              "kommentar": "Forest 1-0 Sieg"
+            },
+            {
+              "markt": "Beide Teams treffen: JA",
+              "quote": 1.65,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Villa traf nicht — kein BTTS"
+            }
+          ]
+        },
+        {
+          "id": "2026-04-30-shakhtar-crystal-palace",
+          "liga": "Conference League Halbfinale",
+          "heim": "Shakhtar Donetsk",
+          "gast": "Crystal Palace",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Crystal Palace Doppelte Chance (X2)",
+              "quote": 1.3,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.3,
+              "kommentar": "Crystal Palace 3-1 Sieg"
+            },
+            {
+              "markt": "Crystal Palace Sieg",
+              "quote": 2.04,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.04,
+              "kommentar": "Crystal Palace Auswaerts-Sieg"
+            },
+            {
+              "markt": "Mehr als 2.5 Tore",
+              "quote": 2.2,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.2,
+              "kommentar": "4 Tore > 2.5"
+            }
+          ]
+        },
+        {
+          "id": "2026-04-30-rayo-vallecano-strasbourg",
+          "liga": "Conference League Halbfinale",
+          "heim": "Rayo Vallecano",
+          "gast": "RC Strasbourg",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Rayo Vallecano Doppelte Chance (1X)",
+              "quote": 1.3,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.3,
+              "kommentar": "Rayo 1-0 Sieg"
+            },
+            {
+              "markt": "Rayo Vallecano Sieg",
+              "quote": 2.14,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.14,
+              "kommentar": "Rayo Sieg via Alemao-Kopfball 54'"
+            },
+            {
+              "markt": "Beide Teams treffen: JA",
+              "quote": 1.76,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Strasbourg traf nicht — kein BTTS"
+            }
+          ]
+        },
+        {
+          "id": "2026-04-30-hawks-knicks-g6",
+          "liga": "NBA Playoffs R1 G6",
+          "heim": "Atlanta Hawks",
+          "gast": "New York Knicks",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "New York Knicks Sieg",
+              "quote": 1.68,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.68,
+              "kommentar": "Knicks Sieg 140-89 (+51, Franchise-Playoff-Rekord)"
+            },
+            {
+              "markt": "Knicks -2.5 (Spread)",
+              "quote": 1.91,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.91,
+              "kommentar": "Knicks -2.5 cover (gewann mit +51)"
+            },
+            {
+              "markt": "Mehr als 213.5 Punkte gesamt",
+              "quote": 1.91,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.91,
+              "kommentar": "229 Total > 213.5"
+            }
+          ]
+        },
+        {
+          "id": "2026-04-30-sixers-celtics-g6",
+          "liga": "NBA Playoffs R1 G6",
+          "heim": "Philadelphia 76ers",
+          "gast": "Boston Celtics",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Boston Celtics Sieg",
+              "quote": 1.44,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "76ers 106-93 — Celtics-Sieg-Tipp verloren, Maxey 30 + Embiid 19 + George 23"
+            },
+            {
+              "markt": "Boston Celtics -5.5 (Spread)",
+              "quote": 1.91,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Celtics -5.5 verloren (haben um 13 verloren)"
+            },
+            {
+              "markt": "Weniger als 212.5 Punkte gesamt",
+              "quote": 1.91,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.91,
+              "kommentar": "199 Total < 212.5"
+            }
+          ]
+        },
+        {
+          "id": "2026-04-30-wolves-nuggets-g6",
+          "liga": "NBA Playoffs R1 G6",
+          "heim": "Minnesota Timberwolves",
+          "gast": "Denver Nuggets",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Denver Nuggets Sieg",
+              "quote": 1.46,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Wolves 110-98 trotz Edwards-Out — McDaniels 32+10, Shannon 24, Gobert 10/13/8"
+            },
+            {
+              "markt": "Minnesota +5.5 (Spread)",
+              "quote": 1.91,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.91,
+              "kommentar": "Wolves +5.5 cover (haben mit +12 gewonnen)"
+            },
+            {
+              "markt": "Mehr als 224.5 Punkte gesamt",
+              "quote": 1.91,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "208 Total < 224.5 (Murray-Kollaps 12 Pkt 4/17)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "datum": "2026-04-29",
+      "gesamt": {
+        "tipps": 14,
+        "gewonnen": 8,
+        "verloren": 6,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 14.0,
+        "netto": 0.83,
+        "trefferquote": 57.1,
+        "roi_prozent": 5.9
+      },
+      "spiele": [
+        {
+          "id": "2026-04-29-atletico-arsenal",
+          "liga": "Champions League Halbfinale, Hinspiel",
+          "heim": "Atletico Madrid",
+          "gast": "Arsenal",
+          "endstand": "1:1",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance Atletico oder Unentschieden (1X)",
+              "quote": 1.45,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.45,
+              "kommentar": "Endstand 1:1 = Unentschieden -> X gedeckt. DC 1X gewonnen."
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.95,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.95,
+              "kommentar": "1:1 = 2 Tore -> Unter 2.5 gewonnen."
+            },
+            {
+              "markt": "Atletico Madrid Sieg (1X2)",
+              "quote": 3.1,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "1:1 - Atletico nicht gewonnen. 2:0-Insurance NICHT angewandt (Atletico nie 2:0 voraus, Spielverlauf: 0:1 Gyokeres / 1:1 Alvarez)."
+            },
+            {
+              "markt": "Alexander Sorloth Jederzeit Tor",
+              "quote": 4.5,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Sorloth blieb auf der Bank (Aufstellung bestaetigt: Griezmann + Alvarez vorne, Lookman im LM, Sorloth Bank). Sorloth selbst nicht ausgewechselt (war nie auf dem Feld) -> Einwechslungs-Boost greift nicht. Tipp verloren."
+            },
+            {
+              "markt": "Julian Alvarez Jederzeit Tor",
+              "quote": 3.2,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 2.2,
+              "kommentar": "Alvarez traf vom Elfmeterpunkt zum 1:1 - Jederzeit-Tor erfuellt."
+            }
+          ]
+        },
+        {
+          "id": "2026-04-29-pistons-magic-g5",
+          "liga": "NBA Playoffs Round 1, Game 5",
+          "heim": "Detroit Pistons",
+          "gast": "Orlando Magic",
+          "endstand": "Pistons 116:109 Magic",
+          "tipps": [
+            {
+              "markt": "Magic +10.5 (Spread)",
+              "quote": 1.91,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.91,
+              "kommentar": "Pistons 116:109 = +7. Spread 10.5 zugunsten Magic gedeckt -> Magic +10.5 gewonnen."
+            },
+            {
+              "markt": "Unter 211.5 Punkte (Total)",
+              "quote": 1.91,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Total 225 (116+109) deutlich ueber 211.5 - Cunningham/Banchero-Duel (45/45) explodierte die Linie. Unter verloren."
+            },
+            {
+              "markt": "Pistons Sieg (Moneyline)",
+              "quote": 1.25,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.25,
+              "kommentar": "Pistons 116:109 - ML gewonnen (Sweep abgewehrt)."
+            }
+          ]
+        },
+        {
+          "id": "2026-04-29-cavaliers-raptors-g5",
+          "liga": "NBA Playoffs Round 1, Game 5",
+          "heim": "Cleveland Cavaliers",
+          "gast": "Toronto Raptors",
+          "endstand": "Cavaliers 125:120 Raptors",
+          "tipps": [
+            {
+              "markt": "Cleveland Cavaliers Sieg (Moneyline)",
+              "quote": 1.25,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.25,
+              "kommentar": "Cavs 125:120 - ML gewonnen (Q4-Comeback nach 74:67-HZ-Rueckstand)."
+            },
+            {
+              "markt": "Ueber 215.5 Punkte (Total)",
+              "quote": 1.91,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.91,
+              "kommentar": "Total 245 (125+120) deutlich ueber 215.5 - Rubber Game lieferte erwarteten Pace."
+            },
+            {
+              "markt": "Cavaliers -8.5 (Spread)",
+              "quote": 1.91,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Cavs +5 - Spread 8.5 nicht gedeckt. Verloren."
+            }
+          ]
+        },
+        {
+          "id": "2026-04-29-lakers-rockets-g5",
+          "liga": "NBA Playoffs Round 1, Game 5",
+          "heim": "Los Angeles Lakers",
+          "gast": "Houston Rockets",
+          "endstand": "Rockets 99:93 Lakers",
+          "tipps": [
+            {
+              "markt": "Los Angeles Lakers Sieg (Moneyline)",
+              "quote": 1.55,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Rockets 99:93 in LA - Lakers-ML verloren. SAFE-Upgrade auf Lakers war Fehler (alle 5 Rockets-Starter zweistellig trotz Durant-Ausfall, 14 Triples Houston)."
+            },
+            {
+              "markt": "Unter 207.5 Punkte (Total)",
+              "quote": 1.91,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.91,
+              "kommentar": "Total 192 (99+93) deutlich unter 207.5 - defensive Battle. Unter gewonnen."
+            },
+            {
+              "markt": "Lakers -4.5 (Spread)",
+              "quote": 1.91,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Lakers verloren mit 6 Pkt - Spread -4.5 verloren."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "datum": "2026-04-28",
+      "gesamt": {
+        "tipps": 12,
+        "gewonnen": 6,
+        "verloren": 6,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 12.0,
+        "netto": -2.19,
+        "trefferquote": 50.0,
+        "roi_prozent": -18.2
+      },
+      "spiele": [
+        {
+          "id": "2026-04-28-psg-bayern",
+          "liga": "Champions League Halbfinale Hinspiel",
+          "heim": "Paris Saint-Germain",
+          "gast": "FC Bayern Muenchen",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance PSG oder Unentschieden (1X)",
+              "quote": 1.4,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.4,
+              "kommentar": "PSG 5:4 - DC 1X durch."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.4,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.4,
+              "kommentar": "9 Tore - Ueber 2.5 deutlich."
+            },
+            {
+              "markt": "Ousmane Dembele Jederzeit-Torschuetze",
+              "quote": 2.45,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.45,
+              "kommentar": "Dembele Elfmeter Ende 1.HZ + spaeter zweites Tor - sicher Torschuetze."
+            }
+          ]
+        },
+        {
+          "id": "2026-04-29-celtics-76ers-g5",
+          "liga": "NBA Playoffs Round 1, Game 5",
+          "heim": "Boston Celtics",
+          "gast": "Philadelphia 76ers",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Celtics Sieg (Moneyline)",
+              "quote": 1.18,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Celtics 97:113 verloren - Embiid mit 33 Pkt zurueck (war als OUT gelistet, kam aber zurueck = News-Fehler)."
+            },
+            {
+              "markt": "Beide Teams Mehr als 100 Punkte",
+              "quote": 1.65,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Beide Teams Mehr als 100: Celtics 97 < 100 - knapp verloren."
+            },
+            {
+              "markt": "Jaylen Brown Mehr als 25.5 Punkte",
+              "quote": 1.85,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Brown 22 Pkt - unter 25.5 verloren."
+            }
+          ]
+        },
+        {
+          "id": "2026-04-29-knicks-hawks-g5",
+          "liga": "NBA Playoffs Round 1, Game 5",
+          "heim": "New York Knicks",
+          "gast": "Atlanta Hawks",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Knicks Sieg (Moneyline)",
+              "quote": 1.36,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.36,
+              "kommentar": "Knicks 126:97 - Brunson 39 Pkt, klarer Sieg."
+            },
+            {
+              "markt": "Knicks Sieg & Beide Teams Mehr als 100 Punkte",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Knicks-Sieg ja, aber Hawks 97 < 100 - Kombi knapp gerissen."
+            },
+            {
+              "markt": "CJ McCollum Mehr als 19.5 Punkte",
+              "quote": 1.85,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "McCollum nur 6 Pkt (Yahoo-Recap: 'shut down again') - klar unter 19.5."
+            }
+          ]
+        },
+        {
+          "id": "2026-04-29-spurs-blazers-g5",
+          "liga": "NBA Playoffs Round 1, Game 5",
+          "heim": "San Antonio Spurs",
+          "gast": "Portland Trail Blazers",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Spurs Sieg (Moneyline)",
+              "quote": 1.1,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.1,
+              "kommentar": "Spurs 114:95 - Closeout-Sieg, Wemby 17/14/6blk."
+            },
+            {
+              "markt": "Spurs Sieg & Unter 215.5 (Kombi-Single)",
+              "quote": 2.1,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.1,
+              "kommentar": "Sieg + Unter 215.5 beide eingetroffen."
+            },
+            {
+              "markt": "Wembanyama Triple-Double",
+              "quote": 7.5,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Wemby 17p/14r/3a/6blk - Doppel-Double aber kein Triple-Double (Assists 3, Blocks zaehlen nicht)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "datum": "2026-04-27",
+      "gesamt": {
+        "tipps": 9,
+        "gewonnen": 6,
+        "verloren": 3,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 9.0,
+        "netto": 1.04,
+        "trefferquote": 66.7,
+        "roi_prozent": 11.6
+      },
+      "spiele": [
+        {
+          "id": "2026-04-28-magic-pistons-g4",
+          "liga": "NBA Playoffs Round 1, Game 4",
+          "heim": "Orlando Magic",
+          "gast": "Detroit Pistons",
+          "endstand": "Magic 94:88 Pistons",
+          "tipps": [
+            {
+              "markt": "Magic +3.5 (Spread)",
+              "quote": 1.91,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.91,
+              "kommentar": "Magic gewinnen mit 6 Pkt Vorsprung -> +3.5 Spread klar gedeckt."
+            },
+            {
+              "markt": "Unter 215.5 Punkte (Total)",
+              "quote": 1.91,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.91,
+              "kommentar": "Total 182 Pkt - klar unter 215.5. Beide Teams mies aus dem Feld."
+            },
+            {
+              "markt": "Cade Cunningham Mehr als 27.5 Punkte",
+              "quote": 1.91,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Cunningham 25 Pkt - knapp unter 27.5. Bestaetigt Lesson: Playoff-Player-Punkte volatil."
+            }
+          ]
+        },
+        {
+          "id": "2026-04-28-suns-thunder-g4",
+          "liga": "NBA Playoffs Round 1, Game 4",
+          "heim": "Phoenix Suns",
+          "gast": "Oklahoma City Thunder",
+          "endstand": "Suns 122:131 Thunder (Sweep, Serie 4-0)",
+          "tipps": [
+            {
+              "markt": "Thunder Sieg (Moneyline)",
+              "quote": 1.2,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.2,
+              "kommentar": "Thunder Sweep abgeschlossen, klarer Auswaerts-Sieg."
+            },
+            {
+              "markt": "Über 213.5 Punkte (Total)",
+              "quote": 1.91,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.91,
+              "kommentar": "Total 253 Pkt - klar ueber 213.5. Suns-Underdog-All-Out-Pace bestaetigt."
+            },
+            {
+              "markt": "Shai Gilgeous-Alexander Mehr als 31.5 Punkte",
+              "quote": 1.91,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "SGA 31 Pkt - genau 0.5 unter 31.5er Linie. Knapp verloren, Linie war scharf."
+            }
+          ]
+        },
+        {
+          "id": "2026-04-28-nuggets-wolves-g5",
+          "liga": "NBA Playoffs Round 1, Game 5",
+          "heim": "Denver Nuggets",
+          "gast": "Minnesota Timberwolves",
+          "endstand": "Nuggets 125:113 Wolves (Serie 3-2)",
+          "tipps": [
+            {
+              "markt": "Nuggets Sieg (Moneyline)",
+              "quote": 1.2,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.2,
+              "kommentar": "Klassendifferenz wirkt - Nuggets klar zuhause."
+            },
+            {
+              "markt": "Nuggets -11.5 (Spread)",
+              "quote": 1.91,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.91,
+              "kommentar": "Vorsprung 12 Pkt - Spread -11.5 knapp gedeckt. Garbage-Time-Risiko gerade noch ueberlebt."
+            },
+            {
+              "markt": "Unter 222.5 Punkte (Total)",
+              "quote": 1.91,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Total 238 Pkt - deutlich ueber 222.5. Nuggets pushten Pace, Wolves trafen 3er. Linie war zu niedrig."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "datum": "2026-04-26",
+      "gesamt": {
+        "tipps": 16,
+        "gewonnen": 7,
+        "verloren": 8,
+        "push": 0,
+        "offen": 1,
+        "einsatz": 15.0,
+        "netto": -5.01,
+        "trefferquote": 46.7,
+        "roi_prozent": -33.4
+      },
+      "spiele": [
+        {
+          "id": "2026-04-26-stuttgart-bremen",
+          "liga": "Bundesliga",
+          "heim": "VfB Stuttgart",
+          "gast": "SV Werder Bremen",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "VfB Stuttgart Doppelte Chance (1X)",
+              "quote": 1.2,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.2,
+              "kommentar": ""
+            },
+            {
+              "markt": "VfB Stuttgart Sieg",
+              "quote": 1.5,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": ""
+            },
+            {
+              "markt": "Deniz Undav trifft (jederzeit)",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Undav startete, traf nicht. Demirović traf in 61.' (kam fuer Tiago Tomas in 57.', NICHT fuer Undav) — kein Einwechslungs-Boost fuer Undav (Ersatz war fuer Tiago Tomas)."
+            }
+          ]
+        },
+        {
+          "id": "2026-04-26-dortmund-freiburg",
+          "liga": "Bundesliga",
+          "heim": "Borussia Dortmund",
+          "gast": "SC Freiburg",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Borussia Dortmund Sieg",
+              "quote": 1.43,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.43,
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen: JA",
+              "quote": 1.77,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": ""
+            },
+            {
+              "markt": "Serhou Guirassy trifft (jederzeit)",
+              "quote": 1.65,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Guirassy traf 14.' zum 2:0 (Assist Brandt)."
+            }
+          ]
+        },
+        {
+          "id": "2026-04-26-paderborn-schalke",
+          "liga": "2. Bundesliga",
+          "heim": "SC Paderborn 07",
+          "gast": "FC Schalke 04",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Schalke 04 Doppelte Chance (X2)",
+              "quote": 1.5,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Schalke gewann 3:2 nach 0:2-Rueckstand. DC X2 erfuellt."
+            }
+          ]
+        },
+        {
+          "id": "2026-04-26-bochum-fuerth",
+          "liga": "2. Bundesliga",
+          "heim": "VfL Bochum",
+          "gast": "SpVgg Greuther Fuerth",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "VfL Bochum Sieg",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Bochum 2:1, Hofmann-Doppelpack (1.', 56.'). Fuerth Anschluss durch Futkeu (87.')."
+            }
+          ]
+        },
+        {
+          "id": "2026-04-26-nuernberg-magdeburg",
+          "liga": "2. Bundesliga",
+          "heim": "1. FC Nuernberg",
+          "gast": "1. FC Magdeburg",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "1. FC Nuernberg Doppelte Chance (1X)",
+              "quote": 1.45,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Nuernberg 1:0 durch Lubach (45.+2). DC 1X klar erfuellt — Klassenerhalt gesichert."
+            }
+          ]
+        },
+        {
+          "id": "2026-04-26-torino-inter",
+          "liga": "Serie A",
+          "heim": "Torino",
+          "gast": "Inter Mailand",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Inter Mailand Sieg",
+              "quote": 1.4,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "id": "2026-04-26-osasuna-sevilla",
+          "liga": "LaLiga",
+          "heim": "CA Osasuna",
+          "gast": "Sevilla FC",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Sevilla Doppelte Chance (X2)",
+              "quote": 1.7,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "id": "2026-04-26-marseille-nice",
+          "liga": "Ligue 1",
+          "heim": "Olympique Marseille",
+          "gast": "OGC Nice",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Olympique Marseille Sieg",
+              "quote": 1.46,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": ""
+            },
+            {
+              "markt": "Marseille Handicap -1 (Marseille gewinnt mit 2+ Toren Vorsprung)",
+              "quote": 2.18,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Marseille 1:1 unentschieden — Handicap -1 (Marseille muesste mit 2+ Vorsprung gewinnen) verloren."
+            }
+          ]
+        },
+        {
+          "id": "2026-04-26-chelsea-leeds-facup",
+          "liga": "FA Cup Halbfinale",
+          "heim": "Chelsea",
+          "gast": "Leeds United",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Leeds United Doppelte Chance (X2)",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "offen",
+              "gewinn_faktor": 0.0,
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "id": "2026-04-26-cavs-raptors-g4",
+          "liga": "NBA Playoffs R1 G4",
+          "heim": "Toronto Raptors",
+          "gast": "Cleveland Cavaliers",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Cleveland Cavaliers Sieg",
+              "quote": 1.6,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "id": "2026-04-26-celtics-76ers-g4",
+          "liga": "NBA Playoffs R1 G4",
+          "heim": "Philadelphia 76ers",
+          "gast": "Boston Celtics",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Boston Celtics Sieg",
+              "quote": 1.36,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.36,
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "datum": "2026-04-25",
+      "gesamt": {
+        "tipps": 15,
+        "gewonnen": 12,
+        "verloren": 3,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 15.0,
+        "netto": 3.15,
+        "trefferquote": 80.0,
+        "roi_prozent": 21.0
+      },
+      "spiele": [
+        {
+          "id": "2026-04-25-mainz-bayern",
+          "liga": "Bundesliga",
+          "heim": "1. FSV Mainz 05",
+          "gast": "FC Bayern München",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Bayern München Sieg",
+              "quote": 1.45,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.45,
+              "kommentar": "Bayern gewann 4:3 (Mainz fuehrte zur HZ 3:0, Bayern drehte das Spiel)"
+            }
+          ]
+        },
+        {
+          "id": "2026-04-25-koeln-leverkusen",
+          "liga": "Bundesliga",
+          "heim": "1. FC Köln",
+          "gast": "Bayer 04 Leverkusen",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Bayer Leverkusen Sieg",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.85,
+              "kommentar": "Leverkusen gewann 2:1 in Koeln (HZ 0:1, Werkself dominierte)"
+            },
+            {
+              "markt": "Leverkusen Doppelte Chance (X2)",
+              "quote": 1.3,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.3,
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "id": "2026-04-25-liverpool-cpalace",
+          "liga": "Premier League",
+          "heim": "Liverpool",
+          "gast": "Crystal Palace",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Liverpool Sieg",
+              "quote": 1.3,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.3,
+              "kommentar": ""
+            },
+            {
+              "markt": "Liverpool Mehr als 1.5 Tore",
+              "quote": 1.45,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.45,
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "id": "2026-04-25-arsenal-newcastle",
+          "liga": "Premier League",
+          "heim": "Arsenal",
+          "gast": "Newcastle United",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Arsenal Sieg",
+              "quote": 1.65,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.65,
+              "kommentar": ""
+            },
+            {
+              "markt": "Mehr als 2.5 Tore",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "id": "2026-04-25-getafe-barcelona",
+          "liga": "LaLiga",
+          "heim": "Getafe",
+          "gast": "FC Barcelona",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Barcelona Doppelte Chance (X2)",
+              "quote": 1.2,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.2,
+              "kommentar": ""
+            },
+            {
+              "markt": "Lewandowski trifft",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Lewandowski blieb torlos (hatte Assist auf Rashford). Tore: Fermin Lopez + Marcus Rashford."
+            }
+          ]
+        },
+        {
+          "id": "2026-04-25-atletico-athletic",
+          "liga": "LaLiga",
+          "heim": "Atlético Madrid",
+          "gast": "Athletic Bilbao",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Atlético Doppelte Chance (1X)",
+              "quote": 1.3,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.3,
+              "kommentar": ""
+            },
+            {
+              "markt": "Weniger als 2.5 Tore",
+              "quote": 1.95,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "id": "2026-04-25-bologna-roma",
+          "liga": "Serie A",
+          "heim": "Bologna",
+          "gast": "AS Roma",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Roma Doppelte Chance (X2)",
+              "quote": 1.4,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.4,
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "id": "2026-04-25-suns-thunder-g3",
+          "liga": "NBA Playoffs R1 G3",
+          "heim": "Phoenix Suns",
+          "gast": "Oklahoma City Thunder",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Oklahoma City Thunder Sieg",
+              "quote": 1.55,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.55,
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "id": "2026-04-26-hawks-knicks-g4",
+          "liga": "NBA Playoffs R1 G4",
+          "heim": "Atlanta Hawks",
+          "gast": "New York Knicks",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "New York Knicks Sieg",
+              "quote": 1.95,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.95,
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "id": "2026-04-26-wolves-nuggets-g4",
+          "liga": "NBA Playoffs R1 G4",
+          "heim": "Minnesota Timberwolves",
+          "gast": "Denver Nuggets",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Minnesota Timberwolves Sieg",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.75,
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "datum": "2026-04-24",
+      "gesamt": {
+        "tipps": 12,
+        "gewonnen": 6,
+        "verloren": 6,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 12.0,
+        "netto": -2.55,
+        "trefferquote": 50.0,
+        "roi_prozent": -21.3
+      },
+      "spiele": [
+        {
+          "id": "2026-04-24-lautern-braunschweig",
+          "liga": "2. Bundesliga",
+          "heim": "1. FC Kaiserslautern",
+          "gast": "Eintracht Braunschweig",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Kaiserslautern Doppelte Chance (1X)",
+              "quote": 1.25,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Lautern verlor 0:2 — DC 1X gescheitert (Auswaertssieg)"
+            },
+            {
+              "markt": "Kaiserslautern Sieg",
+              "quote": 2.0,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Lautern verlor 0:2 zuhause"
+            }
+          ]
+        },
+        {
+          "id": "2026-04-24-leipzig-union",
+          "liga": "Bundesliga",
+          "heim": "RB Leipzig",
+          "gast": "1. FC Union Berlin",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "RB Leipzig Sieg",
+              "quote": 1.55,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.55,
+              "kommentar": ""
+            },
+            {
+              "markt": "Mehr als 2.5 Tore",
+              "quote": 1.7,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.7,
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "id": "2026-04-24-napoli-cremonese",
+          "liga": "Serie A",
+          "heim": "Napoli",
+          "gast": "Cremonese",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Napoli Sieg",
+              "quote": 1.3,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.3,
+              "kommentar": ""
+            },
+            {
+              "markt": "Weniger als 2.5 Tore",
+              "quote": 1.87,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "id": "2026-04-24-betis-realmadrid",
+          "liga": "LaLiga",
+          "heim": "Real Betis",
+          "gast": "Real Madrid",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Real Madrid Doppelte Chance (X2)",
+              "quote": 1.35,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.35,
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen: JA",
+              "quote": 1.7,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.7,
+              "kommentar": ""
+            },
+            {
+              "markt": "Kylian Mbappé trifft",
+              "quote": 1.8,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Mbappé hat NICHT getroffen — Reals Tor durch Vinicius (17'), Mbappé musste mit Hamstring-Problem ausgewechselt werden"
+            }
+          ]
+        },
+        {
+          "id": "2026-04-25-celtics-76ers-g3",
+          "liga": "NBA Playoffs R1 G3",
+          "heim": "Philadelphia 76ers",
+          "gast": "Boston Celtics",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Boston Celtics Sieg",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.85,
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "id": "2026-04-25-rockets-lakers-g3",
+          "liga": "NBA Playoffs R1 G3",
+          "heim": "Houston Rockets",
+          "gast": "Los Angeles Lakers",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Houston Rockets Sieg",
+              "quote": 1.45,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "id": "2026-04-25-blazers-spurs-g3",
+          "liga": "NBA Playoffs R1 G3",
+          "heim": "Portland Trail Blazers",
+          "gast": "San Antonio Spurs",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Portland Trail Blazers Sieg",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "datum": "2026-04-23",
+      "gesamt": {
+        "tipps": 14,
+        "gewonnen": 10,
+        "verloren": 4,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 14.0,
+        "netto": 3.4,
+        "trefferquote": 71.4,
+        "roi_prozent": 24.3
+      },
+      "spiele": [
+        {
+          "id": "2026-04-23-stuttgart-freiburg",
+          "liga": "DFB-Pokal Halbfinale",
+          "heim": "VfB Stuttgart",
+          "gast": "SC Freiburg",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Stuttgart weiter (inkl. Verlängerung/Elfmeter)",
+              "quote": 1.55,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.55,
+              "kommentar": "Stuttgart weiter (2:1 nach Verl.)"
+            },
+            {
+              "markt": "Stuttgart Sieg (90 Min)",
+              "quote": 2.0,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Nach 90 Min 1:1 — Stuttgart-Sieg im 90-Min-Markt verloren"
+            },
+            {
+              "markt": "Deniz Undav trifft",
+              "quote": 2.3,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.3,
+              "kommentar": "Undav hat das 1:1 nach 90 Min erzielt"
+            },
+            {
+              "markt": "Weniger als 2.5 Tore",
+              "quote": 2.0,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.0,
+              "kommentar": "Nach 90 Min 2 Tore (1:1) — Under 2.5 getroffen"
+            }
+          ]
+        },
+        {
+          "id": "2026-04-23-levante-sevilla",
+          "liga": "LaLiga",
+          "heim": "Levante",
+          "gast": "Sevilla",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Levante Doppelte Chance (1X)",
+              "quote": 1.45,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.45,
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "id": "2026-04-23-rayo-espanyol",
+          "liga": "LaLiga",
+          "heim": "Rayo Vallecano",
+          "gast": "Espanyol",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Rayo Vallecano Doppelte Chance (1X)",
+              "quote": 1.3,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.3,
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "id": "2026-04-23-oviedo-villarreal",
+          "liga": "LaLiga",
+          "heim": "Real Oviedo",
+          "gast": "Villarreal",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Weniger als 2.5 Tore",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.85,
+              "kommentar": ""
+            },
+            {
+              "markt": "Villarreal Doppelte Chance (X2)",
+              "quote": 1.3,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.3,
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "id": "2026-04-23-cavs-raptors",
+          "liga": "NBA Playoffs R1 G3",
+          "heim": "Toronto Raptors",
+          "gast": "Cleveland Cavaliers",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Cleveland Cavaliers Sieg",
+              "quote": 1.65,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": ""
+            },
+            {
+              "markt": "Donovan Mitchell Mehr als 26.5 Punkte",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Mitchell 15 Pkt — Linie 26.5 deutlich verfehlt (Cavs blown out)"
+            }
+          ]
+        },
+        {
+          "id": "2026-04-23-knicks-hawks",
+          "liga": "NBA Playoffs R1 G3",
+          "heim": "Atlanta Hawks",
+          "gast": "New York Knicks",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Atlanta Hawks Sieg",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.85,
+              "kommentar": ""
+            },
+            {
+              "markt": "Jalen Brunson Mehr als 24.5 Punkte",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.75,
+              "kommentar": "Brunson 26 Pkt — Linie 24.5 getroffen"
+            }
+          ]
+        },
+        {
+          "id": "2026-04-23-wolves-nuggets",
+          "liga": "NBA Playoffs R1 G3",
+          "heim": "Minnesota Timberwolves",
+          "gast": "Denver Nuggets",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Minnesota Timberwolves Sieg",
+              "quote": 2.05,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.05,
+              "kommentar": ""
+            },
+            {
+              "markt": "Anthony Edwards Mehr als 27.5 Punkte",
+              "quote": 1.8,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Edwards 17 Pkt — Linie 27.5 deutlich verfehlt (trotz Blowout-Sieg)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "datum": "2026-04-22",
+      "gesamt": {
+        "tipps": 8,
+        "gewonnen": 4,
+        "verloren": 4,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 8.0,
+        "netto": -0.6,
+        "trefferquote": 50.0,
+        "roi_prozent": -7.5
+      },
+      "spiele": [
+        {
+          "id": "2026-04-22-pistons-magic",
+          "liga": "NBA Playoffs R1 G2",
+          "heim": "Detroit Pistons",
+          "gast": "Orlando Magic",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Weniger als 218.5 Punkte gesamt",
+              "quote": 1.9,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.9,
+              "kommentar": ""
+            },
+            {
+              "markt": "Cade Cunningham Mehr als 24.5 Punkte",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.85,
+              "kommentar": "Cunningham 27 Pkt -> ueber 24.5"
+            },
+            {
+              "markt": "Paolo Banchero Double-Double",
+              "quote": 2.1,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Banchero 18/6/8 - Double-Double verfehlt (6 Reb, 8 Ast, nur Punkte >=10)"
+            },
+            {
+              "markt": "Desmond Bane Mehr als 17.5 Punkte",
+              "quote": 1.7,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Bane 12 Pkt -> unter 17.5"
+            },
+            {
+              "markt": "Franz Wagner Mehr als 15.5 Punkte",
+              "quote": 1.65,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Wagner 12 Pkt -> unter 15.5"
+            }
+          ]
+        },
+        {
+          "id": "2026-04-22-thunder-suns",
+          "liga": "NBA Playoffs R1 G2",
+          "heim": "Oklahoma City Thunder",
+          "gast": "Phoenix Suns",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Weniger als 215.5 Punkte gesamt",
+              "quote": 1.9,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": ""
+            },
+            {
+              "markt": "Shai Gilgeous-Alexander Mehr als 31.5 Punkte",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.85,
+              "kommentar": "SGA 37 Pkt -> ueber 31.5"
+            },
+            {
+              "markt": "Jalen Williams Mehr als 18.5 Punkte",
+              "quote": 1.8,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.8,
+              "kommentar": "Jalen Williams 19 Pkt -> ueber 18.5"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 };

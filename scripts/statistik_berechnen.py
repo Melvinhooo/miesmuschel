@@ -342,6 +342,77 @@ def clv_aggregat(entries: list[dict], ab_datum: str | None = None) -> dict:
 # Aggregation
 # =========================================================================
 
+def baue_tages_verlauf() -> list[dict]:
+    """Liest alle data/ergebnisse/*.json und baut pro Tag eine Detail-Sicht fuer den
+    Historie-Tab: pro Spiel die Einzeltipps mit Markt + Quote + Kategorie + Status +
+    Kommentar + Endstand. Damit kann der User klick-fuer-klick zurueckschauen.
+
+    Resultat-Struktur:
+    [
+      {"datum": "2026-05-02", "gesamt": {...}, "spiele": [
+         {"heim":"X", "gast":"Y", "liga":"BL", "endstand":"3:3",
+          "tipps": [{"markt":"X Sieg", "quote":1.18, "kategorie":"safe",
+                    "status":"verloren", "kommentar":"3:3", "gewinn_faktor":-1.0}]
+         }
+      ]}, ...
+    ]
+    Sortiert nach Datum absteigend (juengste zuerst).
+    """
+    verlauf = []
+    if not DATA_ERG.exists():
+        return verlauf
+    for pfad in sorted(DATA_ERG.glob("*.json"), reverse=True):
+        try:
+            daten = json.loads(pfad.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            continue
+        datum = daten.get("datum") or pfad.stem
+        einzel_ids = set()
+        for et in daten.get("einzeltipps", []) or daten.get("einzeltipps_ergebnis", []):
+            tid = et.get("tipp_id") or et.get("id")
+            if tid:
+                einzel_ids.add(tid)
+
+        gesamt = make_group()
+        spiele_view = []
+        for spiel in daten.get("spiele", []):
+            tipps_view = []
+            tipps_ergebnis = {te.get("tipp_id"): te for te in spiel.get("tipps_ergebnis", [])}
+            for tipp in spiel.get("tipps", []):
+                tid = tipp.get("id")
+                if tid not in einzel_ids:
+                    continue  # Nur Einzeltipps zeigen, nicht alle Markt-Optionen
+                te = tipps_ergebnis.get(tid, {})
+                status = te.get("status", "offen")
+                gewinn = float(te.get("gewinn_faktor") or 0.0)
+                update_group(gesamt, status, gewinn)
+                tipps_view.append({
+                    "markt":      tipp.get("markt"),
+                    "quote":      float(tipp.get("quote") or tipp.get("quote_bet365") or 0.0),
+                    "kategorie":  (tipp.get("kategorie") or "").lower(),
+                    "status":     status,
+                    "gewinn_faktor": gewinn,
+                    "kommentar":  te.get("kommentar", ""),
+                })
+            if tipps_view:
+                spiele_view.append({
+                    "id":       spiel.get("id"),
+                    "liga":     spiel.get("liga"),
+                    "heim":     spiel.get("heim"),
+                    "gast":     spiel.get("gast"),
+                    "endstand": (spiel.get("ergebnis") or {}).get("endstand", "—"),
+                    "tipps":    tipps_view,
+                })
+        if spiele_view:
+            finalize(gesamt)
+            verlauf.append({
+                "datum":  datum,
+                "gesamt": gesamt,
+                "spiele": spiele_view,
+            })
+    return verlauf
+
+
 def aggregiere(entries: list[dict], ab_datum: str | None = None) -> dict:
     """Liefert alle Aggregate fuer den gefilterten Zeitraum."""
     gesamt = make_group()
@@ -412,6 +483,7 @@ def main() -> int:
         "nach_kategorie":    gesamt_agg["nach_kategorie"],
         "clv_gesamt":        clv_gesamt,
         "clv_30_tage":       clv_30d,
+        "tages_verlauf":     baue_tages_verlauf(),
     }
 
     # Beobachtungs-Liga-Liste schreiben (separates File, von Tipps-Routinen gelesen)

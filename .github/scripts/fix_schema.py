@@ -13,7 +13,11 @@ TIPP_RENAMES = {
     'einsatz_empfehlung_kasse_prozent': 'empfohlener_einsatz_prozent',
     'einsatz_prozent': 'empfohlener_einsatz_prozent',
     'einsatz': 'empfohlener_einsatz_prozent',
+    # Routine schreibt manchmal quote_bet365, app.js liest aber t.quote -> sonst 0.00 Anzeige
+    'quote_bet365': 'quote',
+    'bet365_quote': 'quote',
 }
+EINZEL_QUOTE_RENAMES = {'quote_bet365': 'quote', 'bet365_quote': 'quote'}
 KOMBI_RENAMES = {
     'label': 'kategorie',
     'stufe': 'kategorie',
@@ -26,12 +30,17 @@ KOMBI_RENAMES = {
 BEIN_RENAMES = {
     'auswahl': 'markt',
     'spiel': 'spiel_titel',  # nur Titel, falls keine ID; app.js nutzt spiel_id
+    'quote_bet365': 'quote',
+    'bet365_quote': 'quote',
 }
 EINZEL_RENAMES = {
     'label': 'kategorie',
     'einsatz_empfehlung_kasse_prozent': 'empfohlener_einsatz_prozent',
     'einsatz_prozent': 'empfohlener_einsatz_prozent',
+    'quote_bet365': 'quote',
+    'bet365_quote': 'quote',
 }
+BEIN_QUOTE_RENAMES = {'quote_bet365': 'quote', 'bet365_quote': 'quote'}
 
 # Kategorie-Normalisierung
 KAT_MAP = {

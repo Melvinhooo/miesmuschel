@@ -200,6 +200,75 @@ function renderStopSignals(stat) {
   `;
 }
 
+function _statusFarbe(status) {
+  if (status === 'gewonnen') return '#3ec98a';
+  if (status === 'verloren') return '#e84545';
+  if (status === 'push') return '#ffd700';
+  return '#8fb4d8';
+}
+
+function _statusEmoji(status) {
+  if (status === 'gewonnen') return '✅';
+  if (status === 'verloren') return '❌';
+  if (status === 'push') return '↩️';
+  return '⏳';
+}
+
+function renderTagesVerlauf(verlauf) {
+  if (!verlauf || verlauf.length === 0) {
+    return '<p style="color:#8fb4d8;font-size:0.9em;">Noch keine Tages-Daten.</p>';
+  }
+  const wochentage = ['Sonntag','Montag','Dienstag','Mittwoch','Donnerstag','Freitag','Samstag'];
+  const monate = ['Januar','Februar','März','April','Mai','Juni','Juli','August','September','Oktober','November','Dezember'];
+  return verlauf.map((tag, idx) => {
+    const d = new Date(tag.datum + 'T12:00:00');
+    const headerDatum = `${wochentage[d.getDay()]}, ${d.getDate()}. ${monate[d.getMonth()]}`;
+    const g = tag.gesamt || {};
+    const roiCls = (g.roi_prozent || 0) > 0 ? 'pos' : ((g.roi_prozent || 0) < 0 ? 'neg' : '');
+    const sign = (g.roi_prozent || 0) > 0 ? '+' : '';
+    const headerSummary = `${g.gewonnen||0}/${g.gewonnen+g.verloren||0} · ${(g.trefferquote||0).toFixed(0)}% · ${sign}${(g.roi_prozent||0).toFixed(1)}%`;
+    const detailId = `tag-detail-${idx}`;
+    const spieleHtml = (tag.spiele || []).map(sp => {
+      const tippsHtml = (sp.tipps || []).map(t => {
+        const farbe = _statusFarbe(t.status);
+        const emoji = _statusEmoji(t.status);
+        return `
+          <div style="display:flex;align-items:center;gap:10px;padding:8px 12px;border-left:3px solid ${farbe};background:rgba(255,255,255,0.03);margin:6px 0;border-radius:4px;">
+            <span style="font-size:1.1em;">${emoji}</span>
+            <div style="flex:1;min-width:0;">
+              <div style="color:#e0e6ed;font-size:0.88em;">${escapeHtml(t.markt || '')}</div>
+              <div style="color:#8fb4d8;font-size:0.78em;margin-top:2px;">${escapeHtml(t.kommentar || '')}</div>
+            </div>
+            <div style="text-align:right;flex-shrink:0;">
+              <div style="color:#ffd700;font-weight:600;">${(t.quote || 0).toFixed(2)}x</div>
+              <div style="color:${farbe};font-size:0.75em;text-transform:uppercase;">${escapeHtml((t.kategorie || ''))}</div>
+            </div>
+          </div>
+        `;
+      }).join('');
+      return `
+        <div style="margin:14px 0;padding:12px;background:rgba(0,116,179,0.08);border-radius:6px;">
+          <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:6px;">
+            <strong style="color:#e89dd6;font-size:0.92em;">${escapeHtml(sp.heim || '')} vs. ${escapeHtml(sp.gast || '')}</strong>
+            <span style="color:#ffd700;font-weight:600;">${escapeHtml(sp.endstand || '—')}</span>
+          </div>
+          <div style="font-size:0.78em;color:#8fb4d8;margin-bottom:4px;">${escapeHtml(sp.liga || '')}</div>
+          ${tippsHtml}
+        </div>
+      `;
+    }).join('');
+    return `
+      <div class="lesson-item" style="cursor:pointer;" onclick="document.getElementById('${detailId}').classList.toggle('open');">
+        <span class="lesson-date">${tag.datum}</span>
+        <span class="lesson-cat" style="background:${roiCls === 'pos' ? '#3ec98a33' : roiCls === 'neg' ? '#e8454533' : '#8fb4d833'};color:${_statusFarbe(roiCls === 'pos' ? 'gewonnen' : roiCls === 'neg' ? 'verloren' : 'offen')};">${headerSummary}</span>
+        <div class="lesson-txt"><strong>${headerDatum}</strong> — ${tag.spiele.length} Spiele · klick für Details</div>
+        <div id="${detailId}" style="display:none;margin-top:14px;">${spieleHtml}</div>
+      </div>
+      <style>#${detailId}.open { display: block !important; }</style>
+    `;
+  }).join('');
+}
+
 function renderLessons(lessons) {
   if (!lessons || lessons.length === 0) {
     return '<p style="color:#8fb4d8;font-size:0.9em;">Noch keine Lessons vermerkt.</p>';
@@ -597,6 +666,12 @@ function renderHistorie() {
       ${renderBreakdown('Nach Markt', stat.nach_markt)}
       ${renderBreakdown('Nach Quoten-Range', stat.nach_quoten_range)}
       ${renderBreakdown('Nach Kategorie', stat.nach_kategorie)}
+    </div>
+
+    <h3 style="margin-top:20px;">📅 Tages-Verlauf — was hast du wann getippt</h3>
+    <p style="color:#8fb4d8;font-size:0.85em;margin:6px 0 14px;">Klick auf einen Tag um Spiele + Tipps + Quoten + Ergebnisse zu sehen.</p>
+    <div class="lessons-list">
+      ${renderTagesVerlauf((stat && stat.tages_verlauf) || [])}
     </div>
 
     <h3 style="margin-top:20px;">📝 Lessons Learned</h3>

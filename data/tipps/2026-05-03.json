@@ -35,33 +35,33 @@
       "tipps": [
         {
           "markt": "Unter 2.5 Tore",
-          "quote_bet365": 1.75,
           "kategorie": "value",
           "edge_prozent": 8,
           "begruendung": "Klassisches Klassenerhalt-Hin-und-Her ohne Druck nach offensiver Spielweise. St. Pauli zuhause extrem torarm (17 Tore in 8 Spielen = 2.1 Schnitt, Tendenz Unter), Mainz auswaerts ebenfalls eher kontrolliert. Lt. Bilanz: Markt 'Weniger als 2.5 Tore' bisher 2/4 (50%) bei -3.7% ROI in 4 Tipps - kein klares Goldgrube-Signal aber bei dieser Konstellation klar VALUE. Beide Teams treffen JA wurde bewusst gemieden (Bluter -43% ROI). 1.75 ist faire Quote bei statistischen ~60% Hitrate-Erwartung.",
           "id": "stp-mai-1",
           "faire_quote": 0,
-          "empfohlener_einsatz_prozent": 1.0
+          "empfohlener_einsatz_prozent": 1.0,
+          "quote": 1.75
         },
         {
           "markt": "Mainz oder Unentschieden (X2)",
-          "quote_bet365": 1.3,
           "kategorie": "value",
           "edge_prozent": 6,
           "begruendung": "Mainz ist seit 6 Pflichtspielen ungeschlagen gegen St. Pauli — historischer H2H-Edge. Tabellarisch klar besser (Platz 10 vs 16), defensive Stabilitaet auswaerts ueberlegen. St. Pauli-Heim-Krise (7 Spiele ohne Sieg) macht Heim-Sieg unwahrscheinlich. DC X2 deckt Mainz-Sieg + Remis ab — bei einem 50/50-Spiel mit leichter Mainz-Tendenz ist 1.30 fair. Lt. Bilanz: Doppelte-Chance-Markt insgesamt sehr stark (mehrere 100%-Treffer), als Goldgrube etabliert. Keine bet365-2:0-Insurance bei DC, daher rein als Edge auf Mainz' H2H-Dominanz.",
           "id": "stp-mai-2",
           "faire_quote": 0,
-          "empfohlener_einsatz_prozent": 1.0
+          "empfohlener_einsatz_prozent": 1.0,
+          "quote": 1.3
         },
         {
           "markt": "Beide Teams treffen NEIN",
-          "quote_bet365": 1.95,
           "kategorie": "wackel",
           "edge_prozent": 3,
           "begruendung": "Komplementaer zu Unter 2.5: wenn das Spiel torarm wird, ist BTTS NEIN ein logischer Side-Pick. St. Pauli mit Heim-Tor-Krise, Mainz mit defensiver Stabilitaet auswaerts. Allerdings beide Teams hatten in den letzten Spielen meist noch ein Tor zustande gebracht — daher klar WACKEL, nicht VALUE. Lt. Bilanz: 'Beide Teams treffen JA' ist Bluter (-43% ROI in 3 Tipps) — der NEIN-Hedge spielt sich quasi automatisch wenn man JA meidet. Nur als Risiko-/Moonshot-Bein-Material gedacht.",
           "id": "stp-mai-3",
           "faire_quote": 0,
-          "empfohlener_einsatz_prozent": 0.5
+          "empfohlener_einsatz_prozent": 0.5,
+          "quote": 1.95
         }
       ],
       "kontext_check_status": "OK"
@@ -98,33 +98,33 @@
       "tipps": [
         {
           "markt": "Borussia Dortmund Sieg",
-          "quote_bet365": 1.9,
           "kategorie": "value",
           "edge_prozent": 8,
           "begruendung": "Klare Klassendifferenz (BVB Tabellenzweiter @ 67 Pkt vs Gladbach @ 32 Pkt), keine Doppelbelastung beim BVB diese Woche (anders als am 02.05.-Lesson zu Bayern-Heidenheim — kein CL-HF-Druck). Gladbach Klassenerhalt fast durch, Motivations-Kante eher beim BVB der Bayern noch jagen will. Plus: bet365-2:0-Insurance greift bei direktem Sieg-Tipp in der 1. BL — wenn BVB irgendwann mit 2:0 fuehrt, ist der Tipp durch (siehe 02.05. Mainz-Bayern HZ 3:0). Lt. Bilanz: Marktart 'Borussia Dortmund Sieg' historisch 100% (1/1, +43% ROI). 1.90 ist faire bis leicht verlockende Quote — Auswaertssieg gegen Mid-Table ist nicht Selbstgaenger, daher VALUE statt SAFE.",
           "id": "bmg-bvb-1",
           "faire_quote": 0,
-          "empfohlener_einsatz_prozent": 1.0
+          "empfohlener_einsatz_prozent": 1.0,
+          "quote": 1.9
         },
         {
           "markt": "BVB oder Unentschieden (X2)",
-          "quote_bet365": 1.3,
           "kategorie": "safe",
           "edge_prozent": 5,
           "begruendung": "AUFSTELLUNG BESTAETIGT (15:45): Gladbach OHNE Top-Stuermer Kleindienst (Knie-OP) + OHNE Castrop (Rotsperre). Tabakovic alleinige Spitze gegen N.Schlotterbeck/Anton. BVB voll mit Guirassy/Beier/Brandt/Bellingham/Sabitzer/Bensebaini. Gladbach-Sturm-Ausfall verstaerkt BVB-Edge. DC X2 deckt Auswaerts-Sieg + Remis. Gladbach hat zuhause gegen BVB historisch selten gewonnen + keine CL-HF-Comeback-These (Bayern-Heidenheim-Falle nicht aktiv). Lt. Bilanz: DC ist Goldgrube #1 (Rayo 1X 2/2, Levante 1X 1/1, Real Madrid X2 1/1). Quote 1.30 deckt 77%, fair waere mit Kleindienst-Ausfall eher 82%.",
           "id": "bmg-bvb-2",
           "faire_quote": 0,
-          "empfohlener_einsatz_prozent": 1.5
+          "empfohlener_einsatz_prozent": 1.5,
+          "quote": 1.3
         },
         {
           "markt": "Mehr als 2.5 Tore",
-          "quote_bet365": 1.75,
           "kategorie": "wackel",
           "edge_prozent": 0,
           "begruendung": "BVB-Spiele meist torreich, Gladbach offensiv schwankend aber zuhause oft offen. Allerdings: Lt. Bilanz ist 'Mehr als 2.5 Tore' aktuell -15% ROI (1/2) und 'Mehr als 1.5 Tore' -35% ROI (1/2) — die Tor-Maerkte sind kein Goldgrube. Daher bewusst nur WACKEL und NICHT in Hauptkombi. Markt eher fuer Risiko-/Moonshot-Bein bei diversifizierter Konstruktion gedacht.",
           "id": "bmg-bvb-3",
           "faire_quote": 0,
-          "empfohlener_einsatz_prozent": 0.5
+          "empfohlener_einsatz_prozent": 0.5,
+          "quote": 1.75
         }
       ],
       "kontext_check_status": "OK"
@@ -162,33 +162,33 @@
       "tipps": [
         {
           "markt": "Freiburg oder Unentschieden (1X)",
-          "quote_bet365": 1.3,
           "kategorie": "safe",
           "edge_prozent": 7,
           "begruendung": "AUFSTELLUNG (15:45): Trainer Schuster rotiert wahrscheinlich mehrere Positionen vor EL-HF Rueckspiel Donnerstag — Kicker bestaetigt explizit. Freiburg-Heim-Vorteil daher reduziert. ABER: DC 1X (Heim+Remis) ist auch bei B-Elf-Freiburg solide, weil Wolfsburg-Auswaerts-Trauerspiel weiterhin gilt: 1 Sieg aus 8 Spielen 2026, 3.25 Gegentore-Schnitt. Wolfsburg-Auswaerts-Sieg-Wahrscheinlichkeit ~21% Bookies. Selbst bei B-Elf-Freiburg ist DC 1X mit ~75% Wahrscheinlichkeit safe (Remis-Pufferweite gibt zusaetzliche Insurance bei Rotation). DC 1X 1.30 = 77% — fair. Lt. Bilanz: DC Goldgrube. SAFE-Label trotz Rotation OK durch Wolfsburg-Schwaeche.",
           "id": "fre-wol-1",
           "faire_quote": 0,
-          "empfohlener_einsatz_prozent": 1.5
+          "empfohlener_einsatz_prozent": 1.5,
+          "quote": 1.3
         },
         {
           "markt": "Freiburg Sieg",
-          "quote_bet365": 2.55,
           "kategorie": "wackel",
           "edge_prozent": 0,
           "begruendung": "DOWNGRADE auf WACKEL wegen Rotation (Aufstellung 15:45): Schuster rotiert vor EL-HF Rueckspiel — Kicker bestaetigt. Freiburg-Sieg-Quote 2.55 spiegelt H2H-Dominanz wider (5/6) ABER B-Elf-Freiburg gegen voll-motivierten Wolfsburg-Abstiegskampf-Gegner ist nicht VALUE sondern Coinflip mit Rotations-Risiko. Lesson 03.05. SAFE-Reality-Check #2: Top-Team-Rotation vor UEFA-HF macht direkten Sieg-Tipp tot. Daher max WACKEL, NICHT in Hauptkombi, nur als Risiko-Bein-Material. Wolfsburg-DC X2 (Wolfsburg+Remis) bei ~3.5 waere alternativ VALUE.",
           "id": "fre-wol-2",
           "faire_quote": 0,
-          "empfohlener_einsatz_prozent": 0.5
+          "empfohlener_einsatz_prozent": 0.5,
+          "quote": 2.55
         },
         {
           "markt": "Beide Teams treffen JA",
-          "quote_bet365": 1.65,
           "kategorie": "wackel",
           "edge_prozent": -5,
           "begruendung": "Wolfsburg hat in 12 von 15 Auswaertsspielen getroffen, Freiburg in 13 von 15 Heimspielen Tore kassiert — statistisch sehr wahrscheinlich. ABER: Lt. Bilanz ist 'Beide Teams treffen JA' der schwaerzeste Bluter im Tool (-43% ROI in 3 Tipps, 1/3 Hitrate). Daher trotz statistischer Unterstuetzung bewusst nur WACKEL und nicht in Hauptkombi-Beine. Maximal Material fuer Moonshot oder Risiko-Spass-Bein.",
           "id": "fre-wol-3",
           "faire_quote": 0,
-          "empfohlener_einsatz_prozent": 0.5
+          "empfohlener_einsatz_prozent": 0.5,
+          "quote": 1.65
         }
       ],
       "kontext_check_status": "OK"
@@ -225,33 +225,33 @@
       "tipps": [
         {
           "markt": "Bournemouth oder Unentschieden (1X)",
-          "quote_bet365": 1.22,
           "kategorie": "safe",
           "edge_prozent": 6,
           "begruendung": "Drei-Faktoren-Edge: (1) Bournemouth-Heim-Vorteil + bet365-Quote 1.65 spiegelt 60% Heim-Wahrscheinlichkeit, (2) Crystal Palace mit Conference-League-Doppelbelastung — Hinspiel 30.04. + Rueckspiel 07.05. = Glasner rotiert die Stamm-Elf garantiert, (3) Premier League ist lt. Bilanz Goldgrube (10 Tipps, 80% TQ, +10.7% ROI). DC 1X bei 1.22 deckt Heim-Sieg + Remis = ~83% Wahrscheinlichkeit. Lt. Bilanz: Doppelte-Chance-Markt insgesamt sehr stark (mehrere 100%-Bilanzen). 02.05.-Lesson zur Top-Team-Rotation greift hier umgekehrt: Palace ist der rotierende Favorit-Underdog, Bournemouth profitiert.",
           "id": "bou-cry-1",
           "faire_quote": 0,
-          "empfohlener_einsatz_prozent": 1.5
+          "empfohlener_einsatz_prozent": 1.5,
+          "quote": 1.22
         },
         {
           "markt": "Bournemouth Sieg",
-          "quote_bet365": 1.65,
           "kategorie": "value",
           "edge_prozent": 8,
           "begruendung": "Bournemouth Heim 1.65 = ~60% implizierte Wahrscheinlichkeit, gestuetzt durch Palace-Rotation vor dem Conference-Rueckspiel und Bournemouth-Heim-Form (PL Goldgrube 80% TQ). Direkter Sieg-Tipp greift bet365-2:0-Insurance NICHT (gilt nur BL+CL), aber Edge bleibt durch Klassen + Form-Differenz solide. Lt. Bilanz: Premier League ist bisher die stabilste Liga (+10.7% ROI). Crystal Palace im Auswaerts-Modus hat seit dem Glasner-System eher defensiver gespielt — 3-Punkte-Mission liegt heute klar bei den Cherries.",
           "id": "bou-cry-2",
           "faire_quote": 0,
-          "empfohlener_einsatz_prozent": 1.0
+          "empfohlener_einsatz_prozent": 1.0,
+          "quote": 1.65
         },
         {
           "markt": "Mehr als 1.5 Tore",
-          "quote_bet365": 1.3,
           "kategorie": "value",
           "edge_prozent": 4,
           "begruendung": "Bournemouth-Heim-Spiele mit Volumen-Sturmer (Solanke/Evanilson) vs Palace-Defense ohne ihre stabilste Aufstellung wegen Rotation = solide Tor-Wahrscheinlichkeit. Beide Teams haben in 2026 in 80%+ ihrer Spiele mind. 1 Tor erzielt. Lt. Bilanz: 'Mehr als 1.5 Tore' bisher 1/2 (50%, -35% ROI) — daher VALUE statt SAFE und mit Vorsicht. Stabiles Polster ueber dem 50/50-Coinflip.",
           "id": "bou-cry-3",
           "faire_quote": 0,
-          "empfohlener_einsatz_prozent": 1.0
+          "empfohlener_einsatz_prozent": 1.0,
+          "quote": 1.3
         }
       ],
       "kontext_check_status": "OK"
@@ -288,33 +288,33 @@
       "tipps": [
         {
           "markt": "Manchester United Sieg",
-          "quote_bet365": 2.25,
           "kategorie": "wackel",
           "edge_prozent": 14,
           "begruendung": "Liverpool ohne Salah ist eine andere Mannschaft — der Topscorer + Spielmacher fehlt, dazu Mamardashvili (Stammkeeper-Vertretung) raus, Alisson fraglich. Backup-Keeper Woodman muss Anfield-Ersatz starten gegen Bruno Fernandes + Sesko + Mbeumo. United-Heim-Quote 2.25 bei dieser Personal-Asymmetrie ist klare VALUE — fairer Pricing waere eher 1.85-1.95. Old Trafford-Heim-Vorteil + bet365-2:0-Insurance bei direktem Sieg-Tipp (1. PL nicht abgedeckt, gilt nur BL+CL — daher KEIN Bonus). Lt. Bilanz: PL Goldgrube 80% TQ, +10.7% ROI. Premier-League-Heim-Mid-Top-Klubs gegen geschwaechte Top-7-Chaser sind statistisch starkes VALUE-Profil.",
           "id": "mun-liv-1",
           "faire_quote": 0,
-          "empfohlener_einsatz_prozent": 1.0
+          "empfohlener_einsatz_prozent": 1.0,
+          "quote": 2.25
         },
         {
           "markt": "United oder Unentschieden (1X)",
-          "quote_bet365": 1.4,
           "kategorie": "wackel",
           "edge_prozent": 9,
           "begruendung": "AUFSTELLUNG BESTAETIGT (15:45): Liverpool startet mit Backup-Keeper Woodman (Alisson nicht fit), OHNE Salah, OHNE Isak (neue Trainings-Verletzung). Sturm: Gakpo, Wirtz, Frimpong — kein klarer 9er. United voll: Sesko, Cunha, Mbeumo. Personal-Asymmetrie noch klarer als angenommen. DC 1X bei 1.40 deckt 71% Wahrscheinlichkeit, fair waere ~82% (Liverpool-Sturm ohne Salah+Isak gewinnt selten in Old Trafford). Lt. Bilanz: Doppelte-Chance Goldgrube #1 (Levante/Atletico/Rayo 1X alle 100%). Plus PL Goldgrube +18.7% ROI. SAFE-Label gerechtfertigt durch Backup-Keeper + 2 Sturm-Ausfaelle + Heim-Vorteil. Kein CL-HF-Doppelbelastungs-Risiko fuer United.",
           "id": "mun-liv-2",
           "faire_quote": 0,
-          "empfohlener_einsatz_prozent": 1.5
+          "empfohlener_einsatz_prozent": 1.5,
+          "quote": 1.4
         },
         {
           "markt": "Unter 3.5 Tore",
-          "quote_bet365": 1.5,
           "kategorie": "wackel",
           "edge_prozent": 5,
           "begruendung": "Beide Teams werden defensiv-vorsichtig agieren: Liverpool muss mit B-Elf-Charakter clean bleiben, United will den 1:0/2:1-Sieg nicht aus der Hand geben. Salah-Ausfall nimmt Liverpool das Tor-Volumen, Sesko-Sturm-Spitze ist eher physisch als torreich. Statistisch enden 70%+ aller PL-Top-Duelle unter 4 Toren. 1.50 bietet Polster ueber dem 50/50-Coinflip. Lt. Bilanz: 'Unter 2.5 Tore' bisher 100% (2/2, +90% ROI) — Tor-Linien-Unter funktioniert. 'Unter 3.5' ist Variation, weniger riskant als 2.5.",
           "id": "mun-liv-3",
           "faire_quote": 0,
-          "empfohlener_einsatz_prozent": 1.0
+          "empfohlener_einsatz_prozent": 1.0,
+          "quote": 1.5
         }
       ],
       "kontext_check_status": "OK"
@@ -351,33 +351,33 @@
       "tipps": [
         {
           "markt": "Villa oder Unentschieden (1X)",
-          "quote_bet365": 1.45,
           "kategorie": "safe",
           "edge_prozent": 8,
           "begruendung": "AUFSTELLUNG (15:45): Tottenham OHNE Solanke (Hamstring) + OHNE Simons (ACL, ganze Saison) — Sturm reduziert auf Muani/Tel/Richarlison. Villa OHNE Onana + Kamara (langfristig), aber Watkins/Buendia/Rogers fit. Tottenham-Sturm-Krise verstaerkt Villa-Heim-Edge. H2H 4-0 fuer Villa zuletzt. DC 1X bei 1.45 deckt 69%, fair mit Solanke-Ausfall eher 78%. Lt. Bilanz: PL Goldgrube (10/10 80% TQ, +10.7% ROI) + DC Goldgrube #1. 02.05.-Lesson Top-Team-Rotation greift NICHT (keine CL-HF) — sauberes SAFE-Profil.",
           "id": "avl-tot-1",
           "faire_quote": 0,
-          "empfohlener_einsatz_prozent": 1.5
+          "empfohlener_einsatz_prozent": 1.5,
+          "quote": 1.45
         },
         {
           "markt": "Aston Villa Sieg",
-          "quote_bet365": 2.15,
           "kategorie": "value",
           "edge_prozent": 12,
           "begruendung": "H2H 4-0 fuer Villa in den letzten 4 Begegnungen + Heimvorteil + Top-5-Druck = Villa-Sieg-Wahrscheinlichkeit deutlich hoeher als die 47% impliziert von 2.15. Modelle geben Villa ~46% Win-Probability, aber das ignoriert den H2H-Edge. Tottenham-Form-Krise (Auswaerts wackelig, kein Druck) verstaerkt das. Lt. Bilanz: Premier League ist Goldgrube. Direkter Sieg-Tipp greift bet365-2:0-Insurance NICHT (gilt nur BL+CL). VALUE-Label durch H2H-Edge + Heim-Vorteil. Klarer Top-VALUE des Tages.",
           "id": "avl-tot-2",
           "faire_quote": 0,
-          "empfohlener_einsatz_prozent": 1.0
+          "empfohlener_einsatz_prozent": 1.0,
+          "quote": 2.15
         },
         {
           "markt": "Mehr als 2.5 Tore",
-          "quote_bet365": 1.7,
           "kategorie": "wackel",
           "edge_prozent": -3,
           "begruendung": "Villa-Heim oft offene Spiele (Watkins/Rashford-Sturm), Tottenham mit Solanke/Son-Risiko-Profil — Tor-Volumen historisch hoch. Allerdings: Lt. Bilanz ist 'Mehr als 2.5 Tore' bisher Bluter (-15% ROI), 'Mehr als 1.5 Tore' -35% ROI. Daher trotz statistischer Tendenz nur WACKEL und ausschliesslich als Risiko-/Moonshot-Bein-Material. Kein Einzeltipp.",
           "id": "avl-tot-3",
           "faire_quote": 0,
-          "empfohlener_einsatz_prozent": 0.5
+          "empfohlener_einsatz_prozent": 0.5,
+          "quote": 1.7
         }
       ],
       "kontext_check_status": "OK"
@@ -414,33 +414,33 @@
       "tipps": [
         {
           "markt": "Real Madrid oder Unentschieden (X2)",
-          "quote_bet365": 1.2,
           "kategorie": "safe",
           "edge_prozent": 6,
           "begruendung": "Espanyol seit 16 Spielen ohne Sieg + faktisch abgestiegen + zuhause mit Auslauf-Modus = ein Espanyol-Heim-Sieg gegen Real Madrid waere sensationell. DC X2 bei 1.20 deckt 83% Wahrscheinlichkeit, fair waere ~85% (Real-Form-Krise 1/6 zieht etwas runter). Lt. Bilanz: 'Real Madrid Doppelte Chance (X2)' bisher 1/1 (100%, +35% ROI). Doppelte-Chance-Markt allgemein die staerkste Trefferquote im Tool. KORREKTUR: Frueheres Tipps-Dossier hatte CL-HF-Doppelbelastung als Edge-Argument benannt — das ist falsch, Real ist im April aus der CL ausgeschieden (vs Bayern). Edge bleibt aber durch Klassen-Asymmetrie + DC-Hedge stabil.",
           "id": "esp-rma-1",
           "faire_quote": 0,
-          "empfohlener_einsatz_prozent": 1.5
+          "empfohlener_einsatz_prozent": 1.5,
+          "quote": 1.2
         },
         {
           "markt": "Real Madrid Sieg",
-          "quote_bet365": 1.68,
           "kategorie": "wackel",
           "edge_prozent": 0,
           "begruendung": "KORREKTUR der ursprunglichen Begruendung: Es gibt KEIN CL-HF-Rotation-Argument, Real ist im April aus der CL ausgeschieden. Trotzdem bleibt der Tipp WACKEL, nicht VALUE — Begruendung verschiebt sich auf: (a) Real-Form-Krise mit nur 1/6 Siegen, (b) Saison-Auslauf-Modus ohne Titel-Druck nach CL-Aus = lockere Spielweise moeglich, (c) Espanyol-Heim-Crowd kann Heim-Bounce-Back-Effekt ausloesen (siehe 03.05.-Lesson zu Newcastle-Brighton). bet365-2:0-Insurance gilt NICHT in LaLiga. Hauptweg bleibt DC X2 als sicherer Hedge, dieser Sieg-Tipp nur als Risiko-/Moonshot-Bein.",
           "id": "esp-rma-2",
           "faire_quote": 0,
-          "empfohlener_einsatz_prozent": 0.5
+          "empfohlener_einsatz_prozent": 0.5,
+          "quote": 1.68
         },
         {
           "markt": "Unter 3.5 Tore",
-          "quote_bet365": 1.4,
           "kategorie": "value",
           "edge_prozent": 4,
           "begruendung": "Real-B-Elf wird kontrolliert spielen + Espanyol offensiv harmlos (16 Spiele ohne Sieg = kaum Tore) = klar weniger als 4 Tore. Statistisch enden 75%+ aller Real-Auswaerts-Spiele dieser Saison unter 3.5 Toren. Lt. Bilanz: 'Unter 2.5 Tore' bisher 100% (2/2, +90% ROI) — Unter-Markt funktioniert. 1.40 ist faire Quote bei ~75% Wahrscheinlichkeit.",
           "id": "esp-rma-3",
           "faire_quote": 0,
-          "empfohlener_einsatz_prozent": 1.0
+          "empfohlener_einsatz_prozent": 1.0,
+          "quote": 1.4
         }
       ],
       "kontext_check_status": "OK"
@@ -476,23 +476,23 @@
       "tipps": [
         {
           "markt": "Inter Sieg",
-          "quote_bet365": 1.23,
           "kategorie": "wackel",
           "edge_prozent": 0,
           "begruendung": "🔍 Beobachtung — Serie A bisher -32.5% ROI bei 4 Tipps, daher KEIN Einzeltipp und NICHT in Hauptkombi. Quote 1.23 ist objektiv stark (Inter Scudetto-Druck + Heim + Parma Mid-Table), aber wegen Liga-Beobachtungs-Status nur als Anzeige dokumentiert. Spielausgang fliesst in die Liga-Auswertung ein, ohne dass Geld riskiert wird. Sobald Serie-A-30-Tage-ROI > -10% wird, faellt Filter wieder raus.",
           "id": "int-par-1",
           "faire_quote": 0,
-          "empfohlener_einsatz_prozent": 0.5
+          "empfohlener_einsatz_prozent": 0.5,
+          "quote": 1.23
         },
         {
           "markt": "Inter oder Unentschieden (1X)",
-          "quote_bet365": 1.05,
           "kategorie": "wackel",
           "edge_prozent": 0,
           "begruendung": "🔍 Beobachtung — Serie A. DC 1X bei 1.05 waere bilanziell sehr stark fuer ein Top-Team-Heim-Spiel mit Titel-Druck, aber Liga-Beobachtungs-Status verhindert Einzeltipp/Hauptkombi-Aufnahme. Der Inter-Titelgewinn-Druck wird statistisch verfolgt, fliesst aber nicht in tagesaktuelle Tipp-Strukturen ein. Reine Anzeige.",
           "id": "int-par-2",
           "faire_quote": 0,
-          "empfohlener_einsatz_prozent": 0.5
+          "empfohlener_einsatz_prozent": 0.5,
+          "quote": 1.05
         }
       ],
       "kontext_check_status": "OK"
@@ -528,13 +528,13 @@
       "tipps": [
         {
           "markt": "AC Milan Sieg",
-          "quote_bet365": 1.72,
           "kategorie": "wackel",
           "edge_prozent": 0,
           "begruendung": "🔍 Beobachtung — Serie A. Markt-Quote suggeriert Milan-Sieg bei 58% Wahrscheinlichkeit — fair gegen Mid-Table-Sassuolo, aber Milan-Form-Krise (1/4) macht das wackelig. Wegen Liga-Beobachtungs-Status weder Einzeltipp noch Hauptkombi-Bein.",
           "id": "sas-mil-1",
           "faire_quote": 0,
-          "empfohlener_einsatz_prozent": 0.5
+          "empfohlener_einsatz_prozent": 0.5,
+          "quote": 1.72
         }
       ],
       "kontext_check_status": "OK"
@@ -570,23 +570,23 @@
       "tipps": [
         {
           "markt": "Lyon oder Unentschieden (1X)",
-          "quote_bet365": 1.3,
           "kategorie": "wackel",
           "edge_prozent": 0,
           "begruendung": "Lyon Heim-Vorteil + 3-Siege-Form, aber Rennes ist 4-Siege-in-Form mit Modell-Edge. DC 1X deckt 77% — bei diesem 50/50-Spiel knapp ueber Markt. ABER: Lt. Bilanz ist Ligue 1 mit 2/2 Niederlagen ein Trauerspiel (-50% ROI). Daher trotz fairer Quote nur WACKEL und KEIN Einzeltipp / KEINE Hauptkombi-Aufnahme. Reine Anzeige bis Liga-Bilanz sich stabilisiert.",
           "id": "oly-ren-1",
           "faire_quote": 0,
-          "empfohlener_einsatz_prozent": 0.5
+          "empfohlener_einsatz_prozent": 0.5,
+          "quote": 1.3
         },
         {
           "markt": "Beide Teams treffen JA",
-          "quote_bet365": 1.65,
           "kategorie": "wackel",
           "edge_prozent": -5,
           "begruendung": "Beide Teams in Top-Form mit offensiver Spielweise, beide haben in 80%+ ihrer Spiele getroffen. Sportytrader-Pronostik 'beide Teams treffen' ja. ABER: Ligue 1 -50% ROI + 'Beide Teams treffen JA' Bilanz -43% ROI — doppelt blutiges Profil. Daher hart auf WACKEL gesetzt, nur Material fuer Moonshot-Spass-Bein wenn ueberhaupt.",
           "id": "oly-ren-2",
           "faire_quote": 0,
-          "empfohlener_einsatz_prozent": 0.5
+          "empfohlener_einsatz_prozent": 0.5,
+          "quote": 1.65
         }
       ],
       "kontext_check_status": "OK"
@@ -622,33 +622,33 @@
       "tipps": [
         {
           "markt": "Pistons -7.5 (Spread)",
-          "quote_bet365": 1.91,
           "kategorie": "wackel",
           "edge_prozent": 0,
           "begruendung": "Pistons als 7.5-Pkt-Heim-Favorit gegen geschockte Magic — SportsLine 77% Win-Probability suggeriert Spread-Cover ~55-60%. ABER: Lt. 28.04.-Lesson zu NBA-Closeout-Heim-SAFE und 30.04.-Embiid-Wiederholung muss man Underdog-Bench-Tiefe und Sweep-Druck-Variant einkalkulieren. NBA-G6/G7 ist allgemein sehr unberechenbar. Daher max WACKEL, nicht VALUE/SAFE. Kein direkter Spielausgang-Edge in einem Sweep-Druck-G7. NBA-Player-Punkte komplett gestrichen (Lessons-Boykott seit 26.04.).",
           "id": "det-orl-1",
           "faire_quote": 0,
-          "empfohlener_einsatz_prozent": 0.5
+          "empfohlener_einsatz_prozent": 0.5,
+          "quote": 1.91
         },
         {
           "markt": "Unter 211.5 Punkte",
-          "quote_bet365": 1.91,
           "kategorie": "wackel",
           "edge_prozent": -2,
           "begruendung": "G6 endete 93:79 = 172 Total (Linie 211.5 wurde um 39.5 verfehlt), Defensiv-Schlachten in NBA-Closeout-Druck-Spielen sind das Pattern (Lesson 02.05.). Magic-Offense in G6 zerbrochen — 19 Pkt 2.HZ. ABER: Lessons sagen 'Ueber-Linien bei < 215 NICHT spielen' — also auch Unter wird hier riskant, weil Cunningham mit 30+ Pkt-Comeback alles aufmischen kann. Daher hart auf WACKEL. Reines Bein-Material fuer Risiko-/Moonshot-Kombi mit Mini-Einsatz.",
           "id": "det-orl-2",
           "faire_quote": 0,
-          "empfohlener_einsatz_prozent": 0.5
+          "empfohlener_einsatz_prozent": 0.5,
+          "quote": 1.91
         },
         {
           "markt": "Pistons Sieg (Moneyline)",
-          "quote_bet365": 1.34,
           "kategorie": "wackel",
           "edge_prozent": 0,
           "begruendung": "Pistons-Heim-Sieg als 7.5-Punkte-Favorit + Magic-G6-Kollaps + Heim-Vorteil = klare Pistons-Wahrscheinlichkeit. ABER: Wegen NBA-G7-Sweep-Druck-Risiko (24.04.-Lesson zu Sweep-Abwehr-Heimsieg + 25.04.-G3-Heim-Favorit-unsicher) wird G7 nicht als SAFE/VALUE markiert — alle G7-Sieg-Tipps sind WACKEL. Pure Wahrscheinlichkeits-Quote, nicht in Hauptkombi (max 1 Bein in Risiko-Kombi mit Mini-Einsatz).",
           "id": "det-orl-3",
           "faire_quote": 0,
-          "empfohlener_einsatz_prozent": 0.5
+          "empfohlener_einsatz_prozent": 0.5,
+          "quote": 1.34
         }
       ],
       "kontext_check_status": "OK"
@@ -684,33 +684,33 @@
       "tipps": [
         {
           "markt": "Cleveland Cavaliers Sieg",
-          "quote_bet365": 1.35,
           "kategorie": "wackel",
           "edge_prozent": 0,
           "begruendung": "Cavs Top-Seed Heim-Vorteil + Mitchell-Form = klar wahrscheinlich, ABER: Sweep-Druck-G7 ist statistisch riskant (Cavs hat 3-2 gefuehrt, Serie verloren waere historisch traumatisch). Lt. 24.04.-Lesson sind Sweep-Abwehr-Heimsieg-Tipps NIE SAFE. Lt. 02.05.-Lesson ist NBA G6 generell Beobachtungs-Liga (G6 hatte -45.6% ROI) — G7 ist nicht in Beobachtung, aber Vorsicht uebertraegt sich. Daher MAX WACKEL, nicht VALUE/SAFE. Reines Bein-Material fuer Risiko-/Moonshot-Kombi mit Mini-Einsatz.",
           "id": "cle-tor-1",
           "faire_quote": 0,
-          "empfohlener_einsatz_prozent": 0.5
+          "empfohlener_einsatz_prozent": 0.5,
+          "quote": 1.35
         },
         {
           "markt": "Toronto Raptors +8.5 (Spread)",
-          "quote_bet365": 1.91,
           "kategorie": "wackel",
           "edge_prozent": 5,
           "begruendung": "Raptors haben Spread in den letzten 4 Serien-Spielen covered — sind statistisch ein Auswaerts-Pferd in dieser Konstellation. G6 OT-Sieg zeigt: enges Spielgeschehen ist Pattern. Spread +8.5 = 9-Punkte-Cushion ist grosszuegig. ABER: G7-NBA-Sweep-Druck = generelle Unberechenbarkeit, daher WACKEL nicht VALUE. Lt. 01.05.-Lesson: 'Raptors +3.5' bisher 1/1 (100%, +91% ROI) — Spread-Auswaerts-Maerkte funktionieren in der Serie. Bein-Material fuer Risiko-Kombi.",
           "id": "cle-tor-2",
           "faire_quote": 0,
-          "empfohlener_einsatz_prozent": 0.5
+          "empfohlener_einsatz_prozent": 0.5,
+          "quote": 1.91
         },
         {
           "markt": "Ueber 211.5 Punkte",
-          "quote_bet365": 1.91,
           "kategorie": "wackel",
           "edge_prozent": 3,
           "begruendung": "G6 endete 222 Total (mit OT) — Pattern offensiver Serie. SportsLine-Modell 68% Ueber. Lt. 02.05.-Lesson: 'NBA-G7-Ueber-Linien >= 219 noch OK, < 215 nicht spielbar' — hier 211.5 ist genau in der Vorsichts-Zone. Lt. 01.05.-Lesson: 'Ueber 219.5' bisher 1/1 (100%, +90% ROI). Daher hart WACKEL, nicht VALUE. Maximal Material fuer Moonshot-Bein.",
           "id": "cle-tor-3",
           "faire_quote": 0,
-          "empfohlener_einsatz_prozent": 0.5
+          "empfohlener_einsatz_prozent": 0.5,
+          "quote": 1.91
         }
       ],
       "kontext_check_status": "OK"
@@ -722,168 +722,168 @@
       "spiel_id": "2026-05-03-avl-tot",
       "spiel": "Aston Villa - Tottenham",
       "markt": "Villa oder Unentschieden (1X)",
-      "quote_bet365": 1.45,
       "kategorie": "safe",
       "edge_prozent": 8,
       "empfohlener_einsatz_prozent": 2.0,
       "begruendung": "Villa-Heim mit 4-Siegen-in-Folge-H2H gegen Tottenham + Top-5-Motivation + Goldgrube-Liga PL (+10.7% ROI). DC 1X Goldgrube-Markt. Tottenham auswaerts schwach + kein klares Saisonziel.",
-      "rang": 1
+      "rang": 1,
+      "quote": 1.45
     },
     {
       "tipp_id": "mun-liv-2",
       "spiel_id": "2026-05-03-mun-liv",
       "spiel": "Manchester United - Liverpool",
       "markt": "United oder Unentschieden (1X)",
-      "quote_bet365": 1.4,
       "kategorie": "safe",
       "edge_prozent": 9,
       "empfohlener_einsatz_prozent": 2.0,
       "begruendung": "Liverpool ohne Salah/Mamardashvili/Bradley/Endo gewinnt selten Old Trafford. DC 1X bei 1.40 deckt 71% — fair waere 80%+. PL Goldgrube + DC Goldgrube #1 = doppelte Edge.",
-      "rang": 2
+      "rang": 2,
+      "quote": 1.4
     },
     {
       "tipp_id": "bou-cry-1",
       "spiel_id": "2026-05-03-bou-cry",
       "spiel": "Bournemouth - Crystal Palace",
       "markt": "Bournemouth oder Unentschieden (1X)",
-      "quote_bet365": 1.22,
       "kategorie": "safe",
       "edge_prozent": 6,
       "empfohlener_einsatz_prozent": 2.0,
       "begruendung": "Palace im Conference-League-HF (Hinspiel 30.04. Sieg, Rueckspiel 07.05.) - 3 Spiele in 8 Tagen, Glasner rotiert garantiert. Bournemouth Heim + PL Goldgrube. DC 1X bei 1.22 = 83%.",
-      "rang": 3
+      "rang": 3,
+      "quote": 1.22
     },
     {
       "tipp_id": "esp-rma-1",
       "spiel_id": "2026-05-03-esp-rma",
       "spiel": "Espanyol - Real Madrid",
       "markt": "Real Madrid oder Unentschieden (X2)",
-      "quote_bet365": 1.2,
       "kategorie": "safe",
       "edge_prozent": 6,
       "empfohlener_einsatz_prozent": 2.0,
       "begruendung": "Espanyol seit 16 Spielen ohne Sieg + faktisch abgestiegen. 'Real Madrid DC X2' bisher 1/1 (+35% ROI). DC X2 hedget Real-CL-HF-Rotations-Risiko (Lesson 02.05.) ab. Quote 1.20 = 83%.",
-      "rang": 4
+      "rang": 4,
+      "quote": 1.2
     },
     {
       "tipp_id": "fre-wol-1",
       "spiel_id": "2026-05-03-fre-wol",
       "spiel": "Freiburg - Wolfsburg",
       "markt": "Freiburg oder Unentschieden (1X)",
-      "quote_bet365": 1.3,
       "kategorie": "safe",
       "edge_prozent": 7,
       "empfohlener_einsatz_prozent": 2.0,
       "begruendung": "Wolfsburg auswaerts katastrophal (1/8 Siege 2026, 3.25 Gegentore/Spiel). Freiburg 5/6 H2H. DC 1X 1.30 = 77%, fair waere 82%. Doppelte-Chance-Goldgrube + Heim-Stamm-Form.",
-      "rang": 5
+      "rang": 5,
+      "quote": 1.3
     },
     {
       "tipp_id": "bmg-bvb-2",
       "spiel_id": "2026-05-03-bmg-bvb",
       "spiel": "Gladbach - Borussia Dortmund",
       "markt": "BVB oder Unentschieden (X2)",
-      "quote_bet365": 1.3,
       "kategorie": "safe",
       "edge_prozent": 5,
       "empfohlener_einsatz_prozent": 2.0,
       "begruendung": "BVB ohne CL/Pokal-Doppelbelastung (kein 02.05.-Bayern-Heidenheim-Falle), klare Klassendifferenz. Gladbach Klassenerhalt fast durch (6 Pkt Polster). DC X2 deckt Sieg + Remis.",
-      "rang": 6
+      "rang": 6,
+      "quote": 1.3
     },
     {
       "tipp_id": "mun-liv-1",
       "spiel_id": "2026-05-03-mun-liv",
       "spiel": "Manchester United - Liverpool",
       "markt": "Manchester United Sieg",
-      "quote_bet365": 2.25,
       "kategorie": "value",
       "edge_prozent": 14,
       "empfohlener_einsatz_prozent": 1.5,
       "begruendung": "Liverpool ohne Salah, Mamardashvili, Bradley, Endo, Ekitike + Alisson fraglich. Backup-Keeper Woodman gegen Bruno+Sesko+Mbeumo. Quote 2.25 unterschaetzt die Personal-Asymmetrie. Top-VALUE.",
-      "rang": 7
+      "rang": 7,
+      "quote": 2.25
     },
     {
       "tipp_id": "avl-tot-2",
       "spiel_id": "2026-05-03-avl-tot",
       "spiel": "Aston Villa - Tottenham",
       "markt": "Aston Villa Sieg",
-      "quote_bet365": 2.15,
       "kategorie": "value",
       "edge_prozent": 12,
       "empfohlener_einsatz_prozent": 1.5,
       "begruendung": "H2H 4-0 Villa in den letzten 4 Begegnungen + Heim-Vorteil + Top-5-Druck = klare VALUE. Tottenham auswaerts wackelig, ohne Saisonziel-Druck.",
-      "rang": 8
+      "rang": 8,
+      "quote": 2.15
     },
     {
       "tipp_id": "bmg-bvb-1",
       "spiel_id": "2026-05-03-bmg-bvb",
       "spiel": "Gladbach - Borussia Dortmund",
       "markt": "Borussia Dortmund Sieg",
-      "quote_bet365": 1.9,
       "kategorie": "value",
       "edge_prozent": 8,
       "empfohlener_einsatz_prozent": 1.5,
       "begruendung": "BVB klar besser + KEINE Doppelbelastung diese Woche + bet365-2:0-Insurance bei direktem Sieg-Tipp (1. BL). Edge bei BVB-Fruehfuehrung.",
-      "rang": 9
+      "rang": 9,
+      "quote": 1.9
     },
     {
       "tipp_id": "fre-wol-2",
       "spiel_id": "2026-05-03-fre-wol",
       "spiel": "Freiburg - Wolfsburg",
       "markt": "Freiburg Sieg",
-      "quote_bet365": 2.55,
       "kategorie": "value",
       "edge_prozent": 12,
       "empfohlener_einsatz_prozent": 1.5,
       "begruendung": "Modelle geben Freiburg ~59% Win-Probability — Quote 2.55 unterschaetzt das. 5/6 H2H + Wolfsburg-Auswaerts-Krise. bet365-2:0-Insurance gilt.",
-      "rang": 10
+      "rang": 10,
+      "quote": 2.55
     },
     {
       "tipp_id": "bou-cry-2",
       "spiel_id": "2026-05-03-bou-cry",
       "spiel": "Bournemouth - Crystal Palace",
       "markt": "Bournemouth Sieg",
-      "quote_bet365": 1.65,
       "kategorie": "value",
       "edge_prozent": 8,
       "empfohlener_einsatz_prozent": 1.5,
       "begruendung": "Bournemouth-Heim 1.65 + Palace-Conference-HF-Rotation + PL Goldgrube. ~60% Heim-Wahrscheinlichkeit, faire VALUE-Konstellation.",
-      "rang": 11
+      "rang": 11,
+      "quote": 1.65
     },
     {
       "tipp_id": "stp-mai-1",
       "spiel_id": "2026-05-03-stp-mai",
       "spiel": "St. Pauli - Mainz 05",
       "markt": "Unter 2.5 Tore",
-      "quote_bet365": 1.75,
       "kategorie": "value",
       "edge_prozent": 8,
       "empfohlener_einsatz_prozent": 1.5,
       "begruendung": "St. Pauli zuhause 17 Tore in 8 Spielen (Schnitt 2.1). Klassenerhalt-Hin-und-Her ohne offensive Spielweise. Unter-Markt funktioniert (2/2 100% +90% ROI).",
-      "rang": 12
+      "rang": 12,
+      "quote": 1.75
     },
     {
       "tipp_id": "esp-rma-3",
       "spiel_id": "2026-05-03-esp-rma",
       "spiel": "Espanyol - Real Madrid",
       "markt": "Unter 3.5 Tore",
-      "quote_bet365": 1.4,
       "kategorie": "value",
       "edge_prozent": 4,
       "empfohlener_einsatz_prozent": 1.5,
       "begruendung": "Real B-Elf wegen CL-HF-Rueckspiel + Espanyol offensiv harmlos = ~75% Wahrscheinlichkeit Unter 3.5. Solides Polster ueber Coinflip.",
-      "rang": 13
+      "rang": 13,
+      "quote": 1.4
     },
     {
       "tipp_id": "mun-liv-3",
       "spiel_id": "2026-05-03-mun-liv",
       "spiel": "Manchester United - Liverpool",
       "markt": "Unter 3.5 Tore",
-      "quote_bet365": 1.5,
       "kategorie": "value",
       "edge_prozent": 5,
       "empfohlener_einsatz_prozent": 1.5,
       "begruendung": "Liverpool ohne Salah = weniger Tor-Volumen. Beide Teams defensiv-vorsichtig im Top-4-Endspurt. Statistisch 70%+ aller PL-Top-Duelle unter 4 Toren.",
-      "rang": 14
+      "rang": 14,
+      "quote": 1.5
     }
   ],
   "kombis": [
