@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-05-03T07:46:02+00:00",
+  "letzte_berechnung": "2026-05-03T16:25:51+02:00",
   "gesamt": {
     "tipps": 123,
     "gewonnen": 75,
@@ -1422,6 +1422,294 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.62,
       "trefferquote": 100.0,
       "roi_prozent": 62.0
+    },
+    "Unter 3.5 Tore": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Unentschieden oder Sunderland": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.32,
+      "trefferquote": 100.0,
+      "roi_prozent": 32.0
+    }
+  },
+  "nach_markt_typ": {
+    "Spieler-Punkte Ueber (NBA)": {
+      "tipps": 11,
+      "gewonnen": 6,
+      "verloren": 5,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 11.0,
+      "netto": 0.07,
+      "trefferquote": 54.5,
+      "roi_prozent": 0.6
+    },
+    "Spieler-Punkte Unter (NBA)": {
+      "tipps": 5,
+      "gewonnen": 2,
+      "verloren": 3,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 5.0,
+      "netto": -1.19,
+      "trefferquote": 40.0,
+      "roi_prozent": -23.8
+    },
+    "Paolo Banchero Double-Double": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Stuttgart weiter (inkl. Verlängerung/Elfmeter)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.55,
+      "trefferquote": 100.0,
+      "roi_prozent": 55.0
+    },
+    "Sieg (1X2 / ML)": {
+      "tipps": 42,
+      "gewonnen": 25,
+      "verloren": 17,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 42.0,
+      "netto": -2.68,
+      "trefferquote": 59.5,
+      "roi_prozent": -6.4
+    },
+    "Torschuetzen Jederzeit": {
+      "tipps": 8,
+      "gewonnen": 4,
+      "verloren": 4,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 8.0,
+      "netto": 1.95,
+      "trefferquote": 50.0,
+      "roi_prozent": 24.4
+    },
+    "Unter 2.5 Tore": {
+      "tipps": 6,
+      "gewonnen": 4,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 6.0,
+      "netto": 1.65,
+      "trefferquote": 66.7,
+      "roi_prozent": 27.5
+    },
+    "Doppelte Chance 1X": {
+      "tipps": 13,
+      "gewonnen": 11,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 13.0,
+      "netto": 1.24,
+      "trefferquote": 84.6,
+      "roi_prozent": 9.5
+    },
+    "Doppelte Chance X2": {
+      "tipps": 9,
+      "gewonnen": 7,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 9.0,
+      "netto": 0.85,
+      "trefferquote": 77.8,
+      "roi_prozent": 9.4
+    },
+    "Ueber 2.5 Tore": {
+      "tipps": 3,
+      "gewonnen": 2,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 0.32,
+      "trefferquote": 66.7,
+      "roi_prozent": 10.7
+    },
+    "Beide Teams treffen JA": {
+      "tipps": 3,
+      "gewonnen": 1,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": -1.3,
+      "trefferquote": 33.3,
+      "roi_prozent": -43.3
+    },
+    "Ueber 1.5 Tore": {
+      "tipps": 4,
+      "gewonnen": 3,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 4.0,
+      "netto": 0.2,
+      "trefferquote": 75.0,
+      "roi_prozent": 5.0
+    },
+    "Spread/Handicap": {
+      "tipps": 4,
+      "gewonnen": 2,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 4.0,
+      "netto": 0.82,
+      "trefferquote": 50.0,
+      "roi_prozent": 20.5
+    },
+    "Raptors +3.5": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.91,
+      "trefferquote": 100.0,
+      "roi_prozent": 91.0
+    },
+    "Ueber 219.5": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.9,
+      "trefferquote": 100.0,
+      "roi_prozent": 90.0
+    },
+    "Ueber 211.5": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Ueber 206.5": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Bayern Muenchen": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Frankfurt oder Unentschieden": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Leverkusen oder Unentschieden": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.3,
+      "trefferquote": 100.0,
+      "roi_prozent": 30.0
+    },
+    "Arsenal": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.44,
+      "trefferquote": 100.0,
+      "roi_prozent": 44.0
+    },
+    "Villarreal oder Unentschieden": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.18,
+      "trefferquote": 100.0,
+      "roi_prozent": 18.0
+    },
+    "Unentschieden oder Barcelona": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.18,
+      "trefferquote": 100.0,
+      "roi_prozent": 18.0
+    },
+    "Unentschieden oder Brighton": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
     },
     "Unter 3.5 Tore": {
       "tipps": 1,

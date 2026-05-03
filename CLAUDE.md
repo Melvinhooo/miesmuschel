@@ -140,6 +140,19 @@ PWA zeigt rote Box "🔍 Recherche unvollständig" bei FAIL, gelbe Box "⚠️ Q
 
 ---
 
+## Auto-Markt-Filter (Whitelist + Blacklist, seit 03.05.2026)
+
+`scripts/statistik_berechnen.py` erzeugt zwei Listen aus `nach_markt_typ`-Aggregat:
+
+- **`data/markt_bluter.json`**: Markt-Typen mit ROI < -25 % ODER (Hitrate < 40 % + ROI < -10 %) bei n ≥ 5 Tipps. Schema-Mapper (`fix_schema.py`) **degradiert** SAFE/VALUE-Tipps auf diesen Markt-Typen automatisch auf wackel. Routine MUSS diese Markt-Typen **NIE** als SAFE/VALUE setzen — Mapper greift sonst sowieso.
+- **`data/markt_goldgruben.json`**: Markt-Typen mit ROI > +15 % ODER (Hitrate > 75 % + ROI > 0) bei n ≥ 5 Tipps. Tipps-Routine soll diese **aktiv suchen** und priorisieren.
+
+Markt-Typ-Aggregation per Pattern-Matching (`markt_typ()` in `statistik_berechnen.py`): "Real Madrid DC X2", "Bayern DC X2" usw. werden zusammengeführt zu "Doppelte Chance X2". Damit haben wir genug Tipps pro Typ für stabile Statistik.
+
+**Aktuelle Goldgruben (Stand 03.05.):** Doppelte Chance 1X (84.6 % / +9.5 %), Doppelte Chance X2 (77.8 % / +9.4 %), Unter 2.5 Tore (66.7 % / +27.5 %), Torschützen Jederzeit (50 % / +24.4 %). Aktiv suchen.
+
+---
+
 ## Auswertung & Volle Spiel-Analyse (seit 03.05.2026)
 
 Die Auswertungs-Routinen schreiben pro Spiel zusätzlich zum bestehenden `ergebnis{}` und `tipps_ergebnis[]` einen Block `volle_analyse{}` mit:

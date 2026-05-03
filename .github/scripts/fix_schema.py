@@ -85,6 +85,97 @@ QUELLEN_HOSTS_VERBAND = (
 )
 
 
+def lade_markt_bluter():
+    """Liest data/markt_bluter.json (auto-generiert von statistik_berechnen.py).
+    Returns: liste der Markt-Typ-Strings (z.B. ['Beide Teams treffen JA', 'Spieler-Punkte Unter (NBA)'])
+    Bei Fehler: leere Liste (kein Filter aktiv).
+    """
+    pfad = os.path.join('data', 'markt_bluter.json')
+    if not os.path.exists(pfad):
+        return []
+    try:
+        with open(pfad, encoding='utf-8') as f:
+            d = json.load(f)
+        return [m.get('markt') for m in d.get('maerkte', []) if m.get('markt')]
+    except (json.JSONDecodeError, OSError, KeyError):
+        return []
+
+
+def markt_typ_pattern(markt):
+    """Mini-Replikat von scripts/statistik_berechnen.py:markt_typ() - nur die Aggregations-Logik
+    die wir hier brauchen um einen Tipp-Markt-String auf Markt-Typ zu mappen. Sonst muessten
+    wir das ganze Modul importieren - inline-Lookup ist robuster fuer Action-Umgebungen.
+    """
+    if not markt:
+        return 'Sonstige'
+    m = markt.lower()
+    if 'doppelte chance' in m or ' dc ' in f' {m} ' or ' dc-' in m:
+        if '(1x)' in m or ' 1x' in m: return 'Doppelte Chance 1X'
+        if '(x2)' in m or ' x2' in m: return 'Doppelte Chance X2'
+        if '(12)' in m: return 'Doppelte Chance 12'
+        return 'Doppelte Chance'
+    if 'beide teams treffen' in m or 'btts' in m:
+        if ' ja' in m or '(ja)' in m: return 'Beide Teams treffen JA'
+        if ' nein' in m or '(nein)' in m: return 'Beide Teams treffen NEIN'
+        return 'Beide Teams treffen'
+    if ('trifft' in m or 'torschuetz' in m or 'jederzeit tor' in m or 'tor (jederzeit)' in m) and 'punkte' not in m:
+        if 'doppelpack' in m: return 'Torschuetzen Doppelpack'
+        if 'hattrick' in m: return 'Torschuetzen Hattrick'
+        if 'erster' in m: return 'Torschuetzen Erster'
+        return 'Torschuetzen Jederzeit'
+    if 'tore' in m or ' tor ' in f' {m} ':
+        import re
+        zahl = re.search(r'(\d+\.5)', m)
+        zahl_str = zahl.group(1) if zahl else '?'
+        if 'mehr als' in m or 'ueber' in m or 'über' in m:
+            return f'Ueber {zahl_str} Tore'
+        if 'weniger als' in m or 'unter' in m:
+            return f'Unter {zahl_str} Tore'
+    if 'punkte' in m:
+        if 'mehr als' in m or 'ueber' in m or 'über' in m:
+            if 'gesamt' in m or 'total' in m: return 'Total Ueber (NBA)'
+            return 'Spieler-Punkte Ueber (NBA)'
+        if 'weniger als' in m or 'unter' in m:
+            if 'gesamt' in m or 'total' in m: return 'Total Unter (NBA)'
+            return 'Spieler-Punkte Unter (NBA)'
+        if 'double-double' in m: return 'Double-Double (NBA)'
+        if 'triple-double' in m: return 'Triple-Double (NBA)'
+    if 'spread' in m or 'handicap' in m:
+        return 'Spread/Handicap'
+    if 'moneyline' in m or '(ml)' in m or '(1x2)' in m or '1x2' in m or m.endswith(' sieg') or ' sieg ' in f' {m} ':
+        return 'Sieg (1X2 / ML)'
+    if '1.hz' in m or 'halbzeit-sieger' in m:
+        return '1.HZ Sieger'
+    return markt  # Fallback
+
+
+def validate_markt_bluter(d):
+    """Filtert Bluter-Maerkte: SAFE/VALUE-Tipps auf Markt-Typen die in data/markt_bluter.json
+    gelistet sind werden auf wackel degradiert. Damit wird die Lesson-Anwendung mechanisch
+    erzwungen statt in der Routine-Begruendung zu hoffen.
+
+    Analog zu Beobachtungs-Liga (jene filtert nach liga, hier nach markt_typ).
+    """
+    bluter_typen = lade_markt_bluter()
+    if not bluter_typen:
+        return  # Kein Bluter-File oder leer - kein Filter aktiv
+    bluter_set = set(bluter_typen)
+    downgraded_count = 0
+    for spiel in d.get('spiele', []):
+        for tipp in spiel.get('tipps', []):
+            kat = (tipp.get('kategorie') or '').lower()
+            if kat not in ('safe', 'value'):
+                continue
+            mtyp = markt_typ_pattern(tipp.get('markt', ''))
+            if mtyp in bluter_set:
+                tipp['kategorie'] = 'wackel'
+                tipp['_markt_bluter_downgrade'] = True
+                downgraded_count += 1
+    if downgraded_count:
+        print(f"  markt_bluter Filter: {downgraded_count} SAFE/VALUE-Tipps auf wackel degradiert "
+              f"(Markt-Typen in markt_bluter.json: {sorted(bluter_set)})")
+
+
 def validate_saison_kontext(d):
     """Pflichtfeld-Check fuer saison_kontext pro Spiel.
 
@@ -260,6 +351,12 @@ def fix(path):
     # Muss VOR dem Hard-Cap laufen, damit die einzeltipps/kombis-Bereinigung weiter unten
     # die referenzierten Tipps nicht mehr findet und sie automatisch droppt.
     validate_saison_kontext(d)
+
+    # Markt-Bluter-Filter: SAFE/VALUE-Tipps auf statistisch verbluteten Markt-Typen werden
+    # automatisch auf wackel degradiert. Die Liste kommt aus data/markt_bluter.json,
+    # auto-generiert von scripts/statistik_berechnen.py (analog Beobachtungs-Liga).
+    # Damit wird Lessons-Anwendung mechanisch erzwungen.
+    validate_markt_bluter(d)
 
     # Hard-Cap: max 5 Tipps pro Spiel, sortiert nach Kategorie-Prioritaet + Edge.
     # SAFE > VALUE > WACKEL > RISIKO > MOONSHOT, innerhalb gleicher Kategorie nach edge_prozent absteigend.
