@@ -140,6 +140,23 @@ PWA zeigt rote Box "🔍 Recherche unvollständig" bei FAIL, gelbe Box "⚠️ Q
 
 ---
 
+## Auswertung & Volle Spiel-Analyse (seit 03.05.2026)
+
+Die Auswertungs-Routinen schreiben pro Spiel zusätzlich zum bestehenden `ergebnis{}` und `tipps_ergebnis[]` einen Block `volle_analyse{}` mit:
+
+- `halbzeit_stand`, `endstand`
+- `tore[]` mit Minute + Schütze + Stand_danach pro Tor
+- `drehung{war_drehung, details}` — Algorithmus: Differenz zwischenzeitlich ≥ 2 Tore, Endstand andere Seite gewinnt/Remis
+- `markt_resultate{btts, ueber_1_5/2_5/3_5/..., halbzeit_endstand, kein_team_zu_null, ...}`
+- `rotation_highlights[]`, `einwechslungs_tor_highlights[]` (wenn Top-Spiele oder Tipp-Bezug)
+- `auffaellige_patterns[]` (1-3 Sätze Synthese)
+
+Lessons-Generierung scant nicht nur Tipp-Treffer, sondern auch `volle_analyse[]` über alle Spiele — Drehungs-Cluster, Markt-Pattern aus nicht-getippten Spielen, Rotation-Pattern, Einwechslungs-Boost-Trigger ohne Tipp.
+
+**Reference-Implementation:** `data/ergebnisse/2026-05-02.json`, Spiele `2026-05-02-bay-hei` (Drehung) und `2026-05-02-new-bri` (kein-Drehung-Vergleich).
+
+---
+
 ## Ehrlichkeits-Prinzipien
 
 - Jede Kombi-Gesamtquote wird **nachgerechnet**.

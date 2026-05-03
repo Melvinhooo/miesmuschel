@@ -99,7 +99,47 @@
           "opening_quote": null,
           "closing_quote": null
         }
-      ]
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:2",
+        "endstand": "3:3",
+        "tore": [
+          {"min": 22, "team": "gast", "spieler": "Zivzivadze", "stand_danach": "0:1"},
+          {"min": 31, "team": "gast", "spieler": "Dinkci", "stand_danach": "0:2"},
+          {"min": 44, "team": "heim", "spieler": "Goretzka (Freistoss)", "stand_danach": "1:2"},
+          {"min": 57, "team": "heim", "spieler": "Goretzka", "stand_danach": "2:2"},
+          {"min": 76, "team": "gast", "spieler": "Zivzivadze", "stand_danach": "2:3"},
+          {"min": "90+10", "team": "heim", "spieler": "Olise", "stand_danach": "3:3"}
+        ],
+        "drehung": {
+          "war_drehung": true,
+          "details": "Heidenheim fuehrte 0:2 (31.) und sogar 2:3 (76.) — fuer 2:0-Insurance haette ein Heidenheim-Sieg-Tipp/DC X2-Tipp gegolten (Heidenheim war ueber 30 Min mit 0:2 vorne). Ein Bayern-Sieg-Tipp greift bet365-2:0-Insurance NUR wenn Bayern selbst 2:0 fuehrte (war nicht der Fall) — daher korrekt verloren markiert."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": true,
+          "halbzeit_endstand": "Heidenheim/Unentschieden",
+          "kein_team_zu_null": true,
+          "siegtor_in_letzten_15min": false,
+          "ausgleich_in_letzten_15min": true
+        },
+        "rotation_highlights": [
+          {"team": "heim", "spieler": "Kane", "details": "Bank in 1.HZ wegen CL-HF-Rueckspiel-Vorbereitung 06.05. — eingewechselt 60. Min, traf nicht"},
+          {"team": "heim", "spieler": "Musiala", "details": "Rotations-Bank gesamtes Spiel"}
+        ],
+        "einwechslungs_tor_highlights": [
+          {"team": "heim", "ein": "Olise", "aus": "Sane", "minute": 65, "tor": true, "tor_minute": "90+10"}
+        ],
+        "auffaellige_patterns": [
+          "Klassisches Top-Team-Rotation-vor-CL-HF-Pattern (genau das Lesson 03.05. SAFE-Reality-Check #2): Heimstarker Underdog im Klassenerhalt-Modus, Top-Team mit B-Elf — Underdog ging 0:2 vorne, hielt sogar 1:3-Fuehrung bis 76.",
+          "Tor-Festival mit 6 Toren — bei BL-Top-Team-Rotation gegen Klassenerhalts-Druck-Underdog statistisch ueberproportional. Ueber 3.5/4.5/5.5 alle erreicht.",
+          "Kein Sieg-Tipp aus dem Heidenheim-Markt-Block in Tipps-Auswahl (Quote war ~14.0, von Routine als 'Lottery' eingestuft) — aber RUECKBLICKEND mit 2:0-Insurance haette Heidenheim DC X2 @ ~3.5 oder Sieg @ ~14.0 enormen Edge gehabt. Lesson-Pattern: bei Top-Team-Rotation + Heim-Underdog-Druck aktiv den Heim-Underdog-Markt fuer 2:0-Insurance scannen, nicht nur den Top-Team-Sieg-Markt absichern."
+        ]
+      }
     },
     {
       "id": "2026-05-02-fra-hsv",
@@ -749,7 +789,38 @@
           "opening_quote": null,
           "closing_quote": null
         }
-      ]
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "2:0",
+        "endstand": "3:1",
+        "tore": [
+          {"min": 12, "team": "heim", "spieler": "Osula", "stand_danach": "1:0"},
+          {"min": 24, "team": "heim", "spieler": "Burn (Kopfball, 150. PL-Spiel)", "stand_danach": "2:0"},
+          {"min": 61, "team": "gast", "spieler": "Hinshelwood", "stand_danach": "2:1"},
+          {"min": 80, "team": "heim", "spieler": "Barnes", "stand_danach": "3:1"}
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Newcastle dominierte durchgehend, fuehrte zur HZ 2:0 und liess kurzen Brighton-Anschluss kalt — kein Drehungs-Risiko."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Newcastle/Newcastle",
+          "kein_team_zu_null": true,
+          "siegtor_in_letzten_15min": false,
+          "fruehes_tor_unter_20min": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Heim-Bounce-Back-Effekt nach 5-Pleiten-Serie genau wie Lesson 03.05. zu PL-Klassen-Goldgrube-Praezisierung beschreibt — Newcastle (Mid-Table mit Form-Krise) schlaegt Top-7-Chaser Brighton zuhause klar.",
+          "bet365-2:0-Insurance haette gegolten fuer Newcastle-Sieg-Tipp (Newcastle fuehrte 2:0 zur HZ) — gilt aber NUR in BL+CL, NICHT in PL. Daher kein Insurance-Bonus, aber Tipp Newcastle-Sieg waere normal gewonnen worden — wurde nur als WACKEL/Brighton-Underdog bedient (Brighton-Sieg war der getippte Markt, verloren). Pattern-Lehre: bei Heim-Form-Krise UND Auswaerts-Top-Team mit Druck nicht automatisch das Auswaerts-Team setzen — Heim-Bounce-Back ist real."
+        ]
+      }
     },
     {
       "id": "2026-05-02-wol-sun",

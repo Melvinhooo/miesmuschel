@@ -1,7 +1,7 @@
 {
   "datum": "2026-05-03",
-  "erstellt_am": "2026-05-03T11:30:00+02:00",
-  "hinweis": "Mega-Sonntag: 3 Bundesliga, 3 Premier League, Real Madrid in LaLiga, 2 Serie-A-Krachers (Beobachtung), Lyon-Rennes (Ligue 1) sowie 2 NBA Game 7s. Schwerpunkt liegt auf der PL (Goldgrube +18% ROI letzte 30 Tage) und Doppelte-Chance-Maerkten — beide haben aktuell die staerkste Bilanz im Tool. NBA-Player-Punkte komplett gestrichen (Markt-Boykott seit 26.04.). Quoten via SportsGambler/Oddschecker verifiziert.",
+  "erstellt_am": "2026-05-03T15:45:00+02:00",
+  "hinweis": "RE-GEN 15:45 — Aufstellungen fuer 4 Top-Spiele verifiziert + Saison-Kontext nachgeschaerft. WICHTIGE NEWS: Liverpool ohne Salah+Isak+Alisson (Backup-Keeper Woodman startet) — United-Edge groesser. Gladbach ohne Top-Stuermer Kleindienst + Castrop. Freiburg-Trainer Schuster rotiert vor EL-HF Rueckspiel (Kicker bestaetigt!) — Freiburg-Sieg-Quote 2.55 ist daher RISIKO statt Edge. Tottenham ohne Solanke+Simons — Villa-Edge verstaerkt. Real Madrid CL-HF-Erfindung der Routine korrigiert (Real seit 15.04. raus vs Bayern). Mega-Sonntag: 3 BL, 3 PL, Real Madrid LaLiga, 2 Serie-A (Beobachtung), Lyon-Rennes, 2 NBA G7s.",
   "spiele": [
     {
       "id": "2026-05-03-stp-mai",
@@ -111,7 +111,7 @@
           "quote_bet365": 1.3,
           "kategorie": "safe",
           "edge_prozent": 5,
-          "begruendung": "Gladbach hat zuhause gegen den BVB historisch sehr selten gewonnen — Heim-Sieg @ 3.90 spiegelt das wider. DC X2 gibt Insurance gegen einen knappen Auswaertssieg ODER ein Remis (Gladbach-Heim-Bonus). Lt. Bilanz: Doppelte Chance ist die Goldgrube #1 im Tool (mehrere 100%-Bilanzen wie Rayo 1X 2/2, Levante 1X 1/1, Real Madrid X2 1/1). Gladbach hat keinen Klassenerhalts-Druck mehr (6 Pkt Polster), keine CL-HF-Comeback-These — dadurch keine Bayern-Heidenheim-Falle (Lesson 03.05.). Quote 1.30 deckt 77% Wahrscheinlichkeit, Markt-Erwartung passt.",
+          "begruendung": "AUFSTELLUNG BESTAETIGT (15:45): Gladbach OHNE Top-Stuermer Kleindienst (Knie-OP) + OHNE Castrop (Rotsperre). Tabakovic alleinige Spitze gegen N.Schlotterbeck/Anton. BVB voll mit Guirassy/Beier/Brandt/Bellingham/Sabitzer/Bensebaini. Gladbach-Sturm-Ausfall verstaerkt BVB-Edge. DC X2 deckt Auswaerts-Sieg + Remis. Gladbach hat zuhause gegen BVB historisch selten gewonnen + keine CL-HF-Comeback-These (Bayern-Heidenheim-Falle nicht aktiv). Lt. Bilanz: DC ist Goldgrube #1 (Rayo 1X 2/2, Levante 1X 1/1, Real Madrid X2 1/1). Quote 1.30 deckt 77%, fair waere mit Kleindienst-Ausfall eher 82%.",
           "id": "bmg-bvb-2",
           "faire_quote": 0,
           "empfohlener_einsatz_prozent": 1.5
@@ -165,7 +165,7 @@
           "quote_bet365": 1.3,
           "kategorie": "safe",
           "edge_prozent": 7,
-          "begruendung": "Wolfsburg auswaerts ist 2026 ein Trauerspiel: 1 Sieg aus 8 Spielen, 3.25 Gegentore-Schnitt. Freiburg-Heim mit 5 Siegen aus 6 letzten H2H + 8. Tabellenposition ist klar dominanter. Selbst bei einem schlechten Tag von Freiburg ist ein Wolfsburg-Auswaertssieg unwahrscheinlich (~21% laut Bookies). DC 1X bei 1.30 deckt rund 77% Wahrscheinlichkeit ab — solide SAFE-Quote. Lt. Bilanz: Doppelte Chance generell Goldgrube (Levante 1X 100%, Atletico 1X 100%, Rayo 1X 100% etc.). Quoten via wettfreunde Stand heute verifiziert.",
+          "begruendung": "AUFSTELLUNG (15:45): Trainer Schuster rotiert wahrscheinlich mehrere Positionen vor EL-HF Rueckspiel Donnerstag — Kicker bestaetigt explizit. Freiburg-Heim-Vorteil daher reduziert. ABER: DC 1X (Heim+Remis) ist auch bei B-Elf-Freiburg solide, weil Wolfsburg-Auswaerts-Trauerspiel weiterhin gilt: 1 Sieg aus 8 Spielen 2026, 3.25 Gegentore-Schnitt. Wolfsburg-Auswaerts-Sieg-Wahrscheinlichkeit ~21% Bookies. Selbst bei B-Elf-Freiburg ist DC 1X mit ~75% Wahrscheinlichkeit safe (Remis-Pufferweite gibt zusaetzliche Insurance bei Rotation). DC 1X 1.30 = 77% — fair. Lt. Bilanz: DC Goldgrube. SAFE-Label trotz Rotation OK durch Wolfsburg-Schwaeche.",
           "id": "fre-wol-1",
           "faire_quote": 0,
           "empfohlener_einsatz_prozent": 1.5
@@ -173,12 +173,12 @@
         {
           "markt": "Freiburg Sieg",
           "quote_bet365": 2.55,
-          "kategorie": "value",
-          "edge_prozent": 12,
-          "begruendung": "Freiburg-Sieg-Quote 2.55 unterschaetzt die Heim-Dominanz: 5/6 letzte H2H gewonnen, Wolfsburg auswaerts 1/8 in 2026. SportsMole-Modelle geben Freiburg ~59% Win-Probability — bei 2.55 Quote bedeutet das +13% Edge. bet365-2:0-Insurance gilt zusaetzlich. Volume-Stuermer Freiburg (Gregoritsch/Hoeler/Doan) gegen Wolfsburg-Defense mit 3.25 Gegentoren auswaerts — Tor-Wahrscheinlichkeit hoch. Lt. Bilanz: Bundesliga-Liga insgesamt -3.7% ROI bei 16 Tipps, daher konservativ als VALUE statt SAFE — Heimsiege gegen Mid-Table-Auswaertsteams haben in BL nicht 100%-Hitrate.",
+          "kategorie": "wackel",
+          "edge_prozent": 0,
+          "begruendung": "DOWNGRADE auf WACKEL wegen Rotation (Aufstellung 15:45): Schuster rotiert vor EL-HF Rueckspiel — Kicker bestaetigt. Freiburg-Sieg-Quote 2.55 spiegelt H2H-Dominanz wider (5/6) ABER B-Elf-Freiburg gegen voll-motivierten Wolfsburg-Abstiegskampf-Gegner ist nicht VALUE sondern Coinflip mit Rotations-Risiko. Lesson 03.05. SAFE-Reality-Check #2: Top-Team-Rotation vor UEFA-HF macht direkten Sieg-Tipp tot. Daher max WACKEL, NICHT in Hauptkombi, nur als Risiko-Bein-Material. Wolfsburg-DC X2 (Wolfsburg+Remis) bei ~3.5 waere alternativ VALUE.",
           "id": "fre-wol-2",
           "faire_quote": 0,
-          "empfohlener_einsatz_prozent": 1.0
+          "empfohlener_einsatz_prozent": 0.5
         },
         {
           "markt": "Beide Teams treffen JA",
@@ -301,7 +301,7 @@
           "quote_bet365": 1.4,
           "kategorie": "wackel",
           "edge_prozent": 9,
-          "begruendung": "Liverpool ohne Salah/Mamardashvili/Bradley/Endo gewinnt ein Old-Trafford-Spiel sehr selten — DC 1X bei 1.40 deckt 71% Wahrscheinlichkeit, fair waere ~80%. Lt. Bilanz: Doppelte-Chance ist Goldgrube #1 (mehrere 100%-Bilanzen wie Levante 1X, Atletico 1X, Rayo 1X). Plus PL Goldgrube-Status. Selbst wenn Liverpool defensiv-kompakt mit Rest-Stuermern ein 1:1 holt, ist DC durch. SAFE-Label gerechtfertigt durch Personal-Krise + Heim-Vorteil + PL-ROI-Trend. 02.05.-Lesson-Schutz: kein CL-HF-Doppelbelastungs-Risiko fuer United.",
+          "begruendung": "AUFSTELLUNG BESTAETIGT (15:45): Liverpool startet mit Backup-Keeper Woodman (Alisson nicht fit), OHNE Salah, OHNE Isak (neue Trainings-Verletzung). Sturm: Gakpo, Wirtz, Frimpong — kein klarer 9er. United voll: Sesko, Cunha, Mbeumo. Personal-Asymmetrie noch klarer als angenommen. DC 1X bei 1.40 deckt 71% Wahrscheinlichkeit, fair waere ~82% (Liverpool-Sturm ohne Salah+Isak gewinnt selten in Old Trafford). Lt. Bilanz: Doppelte-Chance Goldgrube #1 (Levante/Atletico/Rayo 1X alle 100%). Plus PL Goldgrube +18.7% ROI. SAFE-Label gerechtfertigt durch Backup-Keeper + 2 Sturm-Ausfaelle + Heim-Vorteil. Kein CL-HF-Doppelbelastungs-Risiko fuer United.",
           "id": "mun-liv-2",
           "faire_quote": 0,
           "empfohlener_einsatz_prozent": 1.5
@@ -354,7 +354,7 @@
           "quote_bet365": 1.45,
           "kategorie": "safe",
           "edge_prozent": 8,
-          "begruendung": "Villa-Heim mit 4-Siegen-in-Folge-H2H gegen Tottenham + Top-5-Motivation + stabiler Heim-Form unter Emery. Tottenham auswaerts schwach + kein klares Saisonziel + im unteren Tabellen-Drittel. DC 1X bei 1.45 deckt rund 69% Wahrscheinlichkeit, fair waere eher 75%. Lt. Bilanz: PL Goldgrube (10/10 80% TQ, +10.7% ROI) + Doppelte Chance Goldgrube #1 — Kombination beider Trends macht den Tipp zur staerksten SAFE-Position des Tages. 02.05.-Lesson zur Top-Team-Rotation greift NICHT (keine CL-HF) — sauberes SAFE-Profil.",
+          "begruendung": "AUFSTELLUNG (15:45): Tottenham OHNE Solanke (Hamstring) + OHNE Simons (ACL, ganze Saison) — Sturm reduziert auf Muani/Tel/Richarlison. Villa OHNE Onana + Kamara (langfristig), aber Watkins/Buendia/Rogers fit. Tottenham-Sturm-Krise verstaerkt Villa-Heim-Edge. H2H 4-0 fuer Villa zuletzt. DC 1X bei 1.45 deckt 69%, fair mit Solanke-Ausfall eher 78%. Lt. Bilanz: PL Goldgrube (10/10 80% TQ, +10.7% ROI) + DC Goldgrube #1. 02.05.-Lesson Top-Team-Rotation greift NICHT (keine CL-HF) — sauberes SAFE-Profil.",
           "id": "avl-tot-1",
           "faire_quote": 0,
           "empfohlener_einsatz_prozent": 1.5
