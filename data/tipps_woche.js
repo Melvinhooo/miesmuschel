@@ -1,901 +1,1279 @@
 // Auto-generiert
 window.__MIESMUSCHEL_TIPPS_WOCHE = {
   "datum": "2026-05-04",
-  "erstellt_am": "2026-05-01T20:30:00+02:00",
-  "hinweis": "Wochen-Vorschau Mo 04.05. bis So 10.05. — CL-HF-Rueckspiele Atletico-Arsenal (Di 5.5 Emirates) + Bayern-PSG (Mi 6.5 Allianz), Conference/Europa League HF-Rueckspiele Do 7.5 (Crystal Palace-Shakhtar, Strasbourg-Rayo, Aston Villa-Forest, Freiburg-Braga), BL 33. Spieltag Fr-So + El Clasico Barca-Real So 10.5, NBA Playoffs Round 2 (Spurs-Wolves Mo+Mi+Fr, Thunder-Lakers/Rockets, Cavs-Pistons/Magic, Knicks-76ers ab G7-Sieger). 7-Tage-Vorlauf -> viele Quoten geschaetzt mit '~'-Praefix, SAFE restriktiv vergeben. 18+ · BZgA: 0800 1372700 · Hobby-Tool, keine Einnahmequelle.",
+  "erstellt_am": "2026-05-03T18:00:00+02:00",
+  "hinweis": "Wochen-Vorschau Mo 2026-05-04 bis So 2026-05-10. Knaller-Woche: CL-HF-Rueckspiele Di+Mi (Arsenal-Atletico, Bayern-PSG nach 5:4-Hinspiel-Krimi), EL-HF-Rueckspiele Do (Aston Villa-Forest, Freiburg-Braga), Conf-League-HF-Rueckspiele Do (Crystal Palace-Shakhtar, Strasbourg-Rayo). PL-Komplettwochenende mit Top-Klassikern (Liverpool-Chelsea, Sunderland-United, Man City-Brentford, West Ham-Arsenal, Burnley-Villa). BL 33. Spieltag mit BVB-Frankfurt, VfB-Lev, Wolfsburg-Bayern (Top-Team-Rotation-Edge nach CL-HF!). LaLiga-Hammer: El Clasico Barcelona-Real Madrid So 21:00 in Camp Nou - moeglicher Meister-Showdown. NBA Halbfinals starten (East Knicks-76ers G1-G4, West Lakers-Thunder + Wolves-Spurs). Ehrlich: Quoten 7 Tage vor Anstoss volatil, SAFE-Label restriktiv vergeben. Beobachtungs-Ligen weiter: 2.BL, Serie A, Ligue 1, NBA-Round-1-G6 (uebertragen). Aufstellungen erst Match-Tag-Morgen verifizieren. 18+ - bei Stress Pause. BZgA 0800 1372700.",
   "spiele": [
     {
-      "id": "2026-05-05-arsenal-atletico-cl-hf-rueck",
-      "datum": "2026-05-05",
-      "anstoss": "2026-05-05T21:00:00+02:00",
-      "liga": "Champions League Halbfinale, Rueckspiel",
-      "heim": "Arsenal",
-      "gast": "Atletico Madrid",
-      "stadion": "Emirates Stadium, London",
+      "id": "2026-05-04-che-nfo",
+      "liga": "Premier League",
+      "heim": "Chelsea FC",
+      "gast": "Nottingham Forest",
+      "anstoss": "2026-05-04T16:00:00+02:00",
+      "stadion": "Stamford Bridge, London",
+      "saison_kontext": {
+        "parallel_heim": "keine (Chelsea aus EL-Round-of-16 raus + nicht im FA Cup Finale)",
+        "parallel_gast": "EL-Halbfinal-Rueckspiel Do 07.05. vs Aston Villa (Forest fuehrt 1:0 hin)",
+        "saisonziel_heim": "Top-7 (Platz 7-8, ca. 48 Pkt) - Conference-League-Quali noch moeglich, aber 5 Pleiten in 6 Spielen",
+        "saisonziel_gast": "Klassenerhalt langst durch (~16, 39 Pkt) PLUS EL-Finale moeglich - alle Ressourcen auf EL-Rueckspiel Do",
+        "motivations_asymmetrie": "Chelsea braucht Heim-Sieg fuer Conference-Quali nach dem 0:1-Liverpool-Schlag, Forest dagegen rotiert wahrscheinlich vor EL-HF-Rueckspiel Do (3 Tage Pause). Klare Edge fuer Chelsea aus Doppelbelastungs-Asymmetrie",
+        "recovery_heim": "9 Tage seit letzter PL-Niederlage 25.04. (Liverpool 1:3) - voll erholt",
+        "recovery_gast": "4 Tage nach EL-HF-Hinspiel 30.04. (1:0 vs Villa) - kurze Pause vor Rueckspiel Do",
+        "quellen": [
+          "https://www.premierleague.com/tables",
+          "https://www.uefa.com/uefaeuropaleague/",
+          "https://www.cbssports.com/soccer/news/chelsea-vs-nottingham-forest-prediction-odds-best-bets-for-monday/"
+        ]
+      },
       "news": [
-        "Hinspiel 1:1 in Madrid am 29.04. — Gyoekeres und Alvarez per Elfmeter trafen, VAR-Zoff. Atletico hat das Auswaerts-Tor in der Tasche, Arsenal hat Heimrecht im Rueckspiel.",
-        "Polymarket Trader-Konsens: Arsenal 57.5% / X 22% / Atletico 20.5% — bet365-Quote zur Match-Sieger Arsenal @ ~1.62, Draw @ ~3.90, Atletico @ ~5.50.",
-        "Arsenal-Verletzungen aus Hinspiel: Havertz, Merino, Timber weiter raus. Saka schon im Hinspiel zurueck. Gyoekeres top-fit, traf im Hinspiel.",
-        "Atletico-Verletzungen: Pablo Barrios noch raus (Oberschenkel). Sorloth + Alvarez wieder im Doppelpack einsatzbereit, Griezmann + Le Normand-Defense-Block intakt.",
-        "Saisonkontext: Beide Teams bereits ohne Liga-Druck — Arsenal 2. PL hinter Liverpool (Liverpool quasi durch), Atletico LaLiga-Vierter mit CL-Quali sicher. CL ist die Hauptbuehne.",
-        "Wichtig fuer Melvi: Atletico hat Hinspiel-Heimrecht + Auswaerts-Tor schon — ein 0:0 in London reicht zur Verlaengerung, ein 1:1 reicht durch Auswaertstor (Regel-Mechanik 2026 wieder ohne Auswaertstor-Doppelwertung — bei 1:1 Verlaengerung). DC 1X als gewuenschter Tipp setzt auf 'Atletico haelt durch'."
+        "Chelsea 7.-8. mit ~48 Pkt - 5 Pleiten in letzten 6 PL-Spielen, akute Conference-Quali-Sorgen",
+        "Forest spielt Do EL-HF-Rueckspiel Heim vs Aston Villa (1:0 Vorsprung) - Rotations-Pflicht fuer Spitzenspieler",
+        "H2H: Chelsea zuhause meist Edge gegen Forest, aktuelle Form sehr unstabil",
+        "Quote Chelsea Sieg @ ~1.55 (DraftKings -152), Draw @ ~3.85, Forest @ ~5.50",
+        "Quoten via SportsGambler/CBS Sports verifiziert Stand 03.05."
       ],
       "tipps": [
         {
-          "id": "t1",
-          "markt": "Doppelte Chance Atletico oder Unentschieden (X2)",
+          "markt": "Chelsea Sieg",
           "kategorie": "value",
-          "quote": "~2.20",
-          "edge_prozent": 6,
-          "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "Melvis Wunsch-Tipp: 1X aus Atletico-Sicht = X2 aus Auswaerts-Sicht (Heim ist Arsenal). Atletico mit Hinspiel-Stand 1:1 reicht ein Remis im Emirates fuer Verlaengerung. Simeones taktischer Block ist auf solche Konstellationen gebaut — tief stehen, Kontern, Verlaengerung holen. Quote ~2.20 (Atletico-Sieg ~5.5 + Draw ~3.9 -> kombiniert echte ~42% Wahrscheinlichkeit) gegenueber Arsenal-Sieg-Implizit 57.5% laesst Edge bei guter Trader-Spread-Korrektur offen. Lesson 25.04. SAFE-Reality-Check: KEIN SAFE wegen Arsenal-Heim + Atletico-Auswaerts-Schwaeche-Saison. VALUE legitim. Lt. Bilanz: 'Doppelte Chance' aktuell starke Goldgrube (Conference 4/4 = 100%), DC-Markt mehrfach 100%-getroffen. Atletico DC bisher 1/1 / +30% ROI. 7-Tage-Quote-volatil, '~'-Praefix.",
-          "faire_quote": "~2.05"
-        },
-        {
-          "id": "t2",
-          "markt": "Unter 2.5 Tore",
-          "kategorie": "value",
-          "quote": "~1.85",
-          "edge_prozent": 7,
-          "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "CL-HF-Rueckspiele mit knappem Hinspiel-Stand sind statistisch tor-arm — beide Teams wollen nicht aufmachen, weil ein Gegentor zur Bombe wird. Hinspiel war 1:1 nach Elfmeter-Show, ohne wirklich offenes Spiel. Atletico-Defense (Le Normand, Lenglet, Oblak) ist CL-Top-3 dieser Saison. Arsenal ohne Havertz/Merino verliert Box-Praesenz, Gyoekeres alleine reicht selten gegen Atletico-Block. Hinspiel-30.04.-Lesson 'BTTS/Ueber 2.5 in HF-Hinspielen widerlegt' gilt im RUECKSPIEL nicht 1:1, ABER bei knappem Hinspiel-Stand ist die Defensive-Tendenz aehnlich. Quote ~1.85 vs faire ~1.70 = Edge. Lt. Bilanz: 'Weniger als 2.5 Tore' bisher 2/4 / -3.7% (knapp negativ).",
-          "faire_quote": "~1.70"
-        },
-        {
-          "id": "t3",
-          "markt": "Julian Alvarez trifft (jederzeit)",
-          "kategorie": "wackel",
-          "quote": "~3.50",
-          "edge_prozent": null,
-          "empfohlener_einsatz_prozent": 0.5,
-          "begruendung": "Alvarez traf im Hinspiel per Elfmeter, ist auswaerts mit Konter-Edge gegen Arsenal-Hochlinie. Lt. Bilanz: 'Julian Alvarez Jederzeit Tor' bisher 1/1 / +220% ROI — historisch Goldgrube. ABER: Auswaerts-Spiel im Emirates + moegliche Rotation Sorloth/Lino bei tiefer Stellung -> Volume-Risiko. Wackel-Einstufung ehrlicher als Value, da Alvarez nicht zwingend 90 Min spielt. Bet365 Einwechslungs-Boost greift wenn Alvarez ausgewechselt wird und Sorloth/Backup trifft — Doppel-9er-Edge. Quote ~3.50, '~'-Praefix wegen 7-Tage-Vorlauf.",
-          "faire_quote": "~3.50"
-        },
-        {
-          "id": "t4",
-          "markt": "Bukayo Saka trifft (jederzeit)",
-          "kategorie": "wackel",
-          "quote": "~3.00",
-          "edge_prozent": null,
-          "empfohlener_einsatz_prozent": 0.5,
-          "begruendung": "Saka kam im Hinspiel als Joker zurueck, hat im Rueckspiel Heim-Bonus + volle Spielzeit-Wahrscheinlichkeit. Arsenal muss aufmachen weil Atletico mit Auswaerts-Tor schon den Hinspiel-Vorteil hat (1:1 reicht zur Verlaengerung). Saka als Volumen-Schuetze auf der rechten Seite gegen Lino. Wackel statt Value weil Spielzeit-Limit nach Verletzungspause realistisch (Tuchel/Arteta beschuetzt Saka). Lesson 26.04. Einwechslungs-Boost: Saka raus -> Trossard rein -> Trossard trifft = Saka-Tipp gewonnen. '~'-Praefix wegen 7-Tage-Vorlauf.",
-          "faire_quote": "~3.00"
-        }
-      ]
-    },
-    {
-      "id": "2026-05-06-bayern-psg-cl-hf-rueck",
-      "datum": "2026-05-06",
-      "anstoss": "2026-05-06T21:00:00+02:00",
-      "liga": "Champions League Halbfinale, Rueckspiel",
-      "heim": "Bayern Muenchen",
-      "gast": "Paris Saint-Germain",
-      "stadion": "Allianz Arena, Muenchen",
-      "news": [
-        "Hinspiel 5:4 PSG am 28.04. in Paris — neungoaliges Spektakel mit Kane-Elfmeter + Dembele-Spaetstart. Bayern braucht 1-Tor-Differenz fuer Verlaengerung, 2+ fuer direkten Aufstieg.",
-        "Polymarket Trader-Konsens: Bayern 57.5% / X 18.5% / PSG 24.5% Match-Sieger — bet365 Quote Bayern @ ~2.05, Draw @ ~3.90, PSG @ ~3.30.",
-        "Ueber 3.5 Tore in Spiel-Markt @ ~1.55-1.60 (US-Linie -169) — Konsens erwartet weiteres Tor-Festival.",
-        "PSG-Verletzungen: Hakimi (Hamstring im Hinspiel) raus — fehlt komplett. Gnabry, Guerreiro auf Bayern-Seite raus, Kompany gesperrt (Coaching-Bank-Sperre).",
-        "Bayern Saisonziel: Meister-Titel bereits durch (seit 19.04.) + DFB-Pokal-Finale am 23.05. — voll auf CL fokussiert. PSG Ligue 1 schon dominiert, Coupe parallel.",
-        "Wichtig fuer Melvi: 'Ueber 2.5 Tore + BTTS' ist genau die These. Bayern muss aufmachen (Kane/Olise/Musiala-Front), PSG kontert mit Dembele/Doue. Hinspiel-Pattern legt 4-5 Tore nahe."
-      ],
-      "tipps": [
-        {
-          "id": "t1",
-          "markt": "Beide Teams treffen: JA",
-          "kategorie": "value",
-          "quote": "~1.45",
           "edge_prozent": 8,
-          "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "Melvis Hauptthese: Bayern muss aufholen + PSG braucht nur Auswaerts-Tor. Hinspiel 5:4 zeigte beide Defenses durchlaeufig. Bayern Kane-Form (Volumen-9er, Heim-Kennzahlen exzellent) + PSG Dembele/Doue-Konter gegen Bayern-Hochlinie = beide treffen sehr wahrscheinlich. Lesson 01.05. (HF-Hinspiel BTTS widerlegt) gilt fuer Hinspiele mit taktisch-defensiver Tendenz — DIES IST RUECKSPIEL mit Aufholdruck-Setup, andere Konstellation. Quote ~1.45 vs faire ~1.34 = klare Edge. Lt. Bilanz: 'Beide Teams treffen: JA' allgemein 1/3 / -43% ROI (Bluter-Markt) — ABER: in der CL-Rueckspiel-Variante mit Tor-Druck ist die Hit-Rate empirisch hoeher. Wackel/Value-Grenze bewusst Value gewaehlt wegen Hinspiel-Pattern.",
-          "faire_quote": "~1.34"
-        },
-        {
-          "id": "t2",
-          "markt": "Mehr als 2.5 Tore",
-          "kategorie": "value",
-          "quote": "~1.40",
-          "edge_prozent": 7,
-          "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "Melvis Hauptthese, zweites Bein: Hinspiel 9 Tore = beide Teams haben Defense-Probleme erkannt + Druck zwingt Bayern in Offensive. Konsens-Markt setzt Linie sogar auf 3.5 mit Ueber @ ~1.55, also 2.5 ist 'gut bezahlt'. Polymarket-Sim sieht 3.8 Tore Erwartung. Lt. Bilanz: 'Mehr als 2.5 Tore' bisher 1/2 / -15% (kleine Datenbasis). ABER spezifisch fuer dieses Spiel: Kane-Form (in 5/6 letzten CL-Heimspielen getroffen) + PSG-Auswaertstor-Druck = praktisch garantiert 3+ Tore. Quote ~1.40 fair bewertet, Edge durch Hinspiel-Pattern.",
-          "faire_quote": "~1.30"
-        },
-        {
-          "id": "t3",
-          "markt": "Harry Kane trifft (jederzeit)",
-          "kategorie": "value",
-          "quote": "~1.65",
-          "edge_prozent": 6,
+          "begruendung": "Forest rotiert mit hoher Wahrscheinlichkeit vor EL-HF-Rueckspiel Do - klassische Doppelbelastungs-Asymmetrie aus Lesson 26.04. Chelsea braucht Heim-Sieg fuer Conference-Quali (drei Pflicht-Punkte gegen drohenden Top-7-Verlust). Aber: Form-Krise (5 Pleiten in 6) macht den Tipp NICHT SAFE - daher VALUE. bet365-2:0-Insurance gilt NICHT fuer PL (nur BL+CL). Markt 'Heim-Sieg gegen rotierendes EL-Team' ist Goldgruben-Kandidat aus Saison-Kontext. Quote 1.55 verifiziert via Aggregator.",
+          "id": "che-nfo-1",
+          "faire_quote": 0,
           "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "Kane traf im Hinspiel per Elfer + ist Bayern-Topscorer der CL diese Saison. Heim im Allianz mit Aufholdruck = maximales Volumen. PSG ohne Hakimi (rechts-Defensive geschwaecht), das oeffnet die linke Olise/Musiala-Bayern-Seite. Bet365 Einwechslungs-Boost: falls Kane in 80. Min ausgewechselt fuer Tel/Jackson-Backup, zaehlt Tor des Backups. Quote ~1.65 fair. Lt. Bilanz: 'Lewandowski trifft' verlor (0/1) — anderer Kontext. Kane-Form aktuell stark, Volumen-9er gehoert in CL-HF-Rueckspiel zu den verlaesslichsten Tipps.",
-          "faire_quote": "~1.55"
+          "quote": 1.55
         },
         {
-          "id": "t4",
-          "markt": "Bayern Muenchen Sieg (90 Min)",
-          "kategorie": "wackel",
-          "quote": "~2.05",
-          "edge_prozent": null,
-          "empfohlener_einsatz_prozent": 0.5,
-          "begruendung": "Bayern-Heim mit 57.5% Polymarket-Implied -> Quote 2.05 = Edge ja. ABER Wackel statt Value weil PSG mit 5:4-Hinspiel-Polster nur Ergebnis halten muss + Dembele/Doue-Konter-Edge gegen offene Bayern. CL-Rueckspiele dieser Konstellation kippen oft auf Verlaengerung, was den 90-Min-Sieg-Tipp killt. 2:0-Insurance gilt fuer CL-Sieg-Tipp = bei 2:0+ HZ-Stand fuer Bayern und spaetere Niederlage trotzdem Tipp gewonnen — das ist Edge-Kissen. Lt. Bilanz: 'Bayern Muenchen Sieg' 1/1 / +45% ROI. Vorsicht aber wegen PSG-Halten-Modus + Verlaengerung-Risiko.",
-          "faire_quote": "~2.05"
-        }
-      ]
-    },
-    {
-      "id": "2026-05-07-cp-shakhtar-cf-hf-rueck",
-      "datum": "2026-05-07",
-      "anstoss": "2026-05-07T21:00:00+02:00",
-      "liga": "Conference League Halbfinale, Rueckspiel",
-      "heim": "Crystal Palace",
-      "gast": "Shakhtar Donetsk",
-      "stadion": "Selhurst Park, London",
-      "news": [
-        "Hinspiel 3:1 Crystal Palace am 30.04. — Sarr (schnellstes Tor der CF-Geschichte) + Strand Larsen-Spaetstart legten 2-Tor-Polster. Shakhtar braucht 2-Tor-Differenz fuer Verlaengerung, 3+ fuer direkten Aufstieg.",
-        "Crystal Palace @ ~1.50 Match-Sieg, Draw @ ~4.20, Shakhtar @ ~6.00. Tickets im Selhurst Park ausverkauft.",
-        "Crystal Palace-Form: PL-Mid-Table aber CL-Quali-relevante Saison, Glasner-System mit Sarr/Strand Larsen/Eze-Trio. Saisonziel klar erfuellbar = volle Konzentration auf CF-Finale.",
-        "Shakhtar-Form: Ukraine-Pokal/Liga schwaecher repraesentiert, CL-Auswaerts-Bilanz duerftig, kein Saison-Druck mehr ausser CF-Aufgabe.",
-        "Saisonkontext: Crystal Palace mit Klassen-Edge gegen niedrigere Liga (UPL vs PL Mid-Table). Lesson 01.05. Conference-Goldgrube: 4/4 = 100% / +69.5% ROI bei genau dieser Konstellation."
-      ],
-      "tipps": [
-        {
-          "id": "t1",
-          "markt": "Crystal Palace Doppelte Chance (1X)",
+          "markt": "Chelsea oder Unentschieden (1X)",
           "kategorie": "safe",
-          "quote": "~1.18",
           "edge_prozent": 5,
+          "begruendung": "Forest mit Rotations-Risiko + Auswaerts-Form gegen Chelsea historisch schwer. DC 1X deckt Chelsea-Sieg + Remis - bei Forest-B-Elf statistisch ~85%. Lt. Bilanz: DC 1X ist Goldgrube #1 (84.6% Hitrate, +9.5% ROI). Quote ~1.20 fair bei statistisch ~85% Hitrate.",
+          "id": "che-nfo-2",
+          "faire_quote": 0,
           "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "Lesson 01.05. Conference-Goldgrube: PL-Klubs gegen niedrigere Liga in Heim-Konstellation = SAFE-Edge. Crystal Palace mit 2-Tor-Polster + Heim-Vorteil + Sarr/Strand Larsen-Form = ein Niederlage in 90 Min braucht Shakhtar mit 3-Tor-Differenz, mathematisch klein (~5-7% reine Wahrscheinlichkeit). DC 1X deckt 95% der Szenarien ab. Lesson 25.04. SAFE-Reality-Check (75-90% Soll) erfuellt: klare Klassen-Asymmetrie + Top-Scorer Sarr/Strand Larsen fit + Crystal Palace KEIN Backs-against-the-wall. Lt. Bilanz: Crystal Palace DC X2 1/1 / +30% ROI, Crystal Palace Sieg 1/1 / +104% ROI — Goldgrube-Pattern bestaetigt. Conference-Halbfinale generell 100% / +69.5% ROI. Quote ~1.18 = ~85% implizit, fair.",
-          "faire_quote": "~1.13"
-        },
-        {
-          "id": "t2",
-          "markt": "Crystal Palace weiter (Aufstieg ins Finale, inkl. Verlaengerung/Elfmeter)",
-          "kategorie": "safe",
-          "quote": "~1.22",
-          "edge_prozent": 4,
-          "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "Aufstiegs-Markt nutzt das 2-Tor-Hinspiel-Polster voll aus — selbst eine 0:1-Niederlage im Rueckspiel fuehrt zum Aufstieg (3:2 Gesamt). Shakhtar muesste mit 2-Tor-Vorsprung gewinnen (z.B. 2:0 oder 3:1) fuer Verlaengerung, mit 3+ fuer direkten Aufstieg — beides hoechst unwahrscheinlich gegen Heim-Crystal-Palace. Lt. Bilanz: 'Stuttgart weiter' 1/1 / +55% ROI als Markt-Pattern bestaetigt sich. Conference-Goldgrube + 2-Tor-Polster + Heim-Vorteil = SAFE-legitim. Quote ~1.22 = ~82% implizit, real ~92-95%.",
-          "faire_quote": "~1.10"
+          "quote": 1.2
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
-      "id": "2026-05-07-strasbourg-rayo-cf-hf-rueck",
-      "datum": "2026-05-07",
-      "anstoss": "2026-05-07T21:00:00+02:00",
-      "liga": "Conference League Halbfinale, Rueckspiel",
-      "heim": "RC Strasbourg",
-      "gast": "Rayo Vallecano",
-      "stadion": "Stade de la Meinau, Strasbourg",
+      "id": "2026-05-04-eve-mci",
+      "liga": "Premier League",
+      "heim": "Everton FC",
+      "gast": "Manchester City",
+      "anstoss": "2026-05-04T21:00:00+02:00",
+      "stadion": "Hill Dickinson Stadium, Liverpool",
+      "saison_kontext": {
+        "parallel_heim": "keine (Everton FA-Cup-HF-Aus laengst durch)",
+        "parallel_gast": "FA-Cup-Finale 16.05. vs Chelsea (Wembley) - 12 Tage entfernt, kein akutes Doppelbelastungs-Risiko",
+        "saisonziel_heim": "Mid-Table 11. mit 47 Pkt - Klassenerhalt durch, kein direktes Saisonziel mehr (nur Spielbetrieb)",
+        "saisonziel_gast": "PL-Titel-Rennen Platz 2 mit 70 Pkt - Bayern-Pep-Druck auf jeden Punkt fuer den Sprint zum Meister-Titel",
+        "motivations_asymmetrie": "Everton im Auslauf-Modus, City voll motiviert im Titel-Rennen + ohne FA-Cup-Doppelbelastung (Finale erst 16.05.). Klare Edge fuer City aus Klassen + Motivation",
+        "recovery_heim": "9 Tage seit letztem Spiel (West Ham 25.04.) - voll erholt",
+        "recovery_gast": "8 Tage seit letztem Spiel (FA-Cup-HF 25./26.04.) - voll erholt",
+        "quellen": [
+          "https://www.premierleague.com/tables",
+          "https://www.thefa.com/news/2026/apr/22/emirates-fa-cup-final-2026-kick-off-confirmed",
+          "https://www.sportsgambler.com/betting-tips/football/everton-vs-manchester-city-prediction-lineups-odds-2026-05-04/"
+        ]
+      },
       "news": [
-        "Hinspiel 1:0 Rayo am 30.04. in Madrid — Alemao per Eckball nach Palazon-Vorlage. Strasbourg muss auswaerts-mindestens 1:0 gewinnen fuer Verlaengerung, 2+ fuer direkten Aufstieg.",
-        "Polymarket: 49.5% / 49.5% / 49.5% — also alle drei 1X2-Outcomes als Coinflip gepreist (massive Quoten-Volatilitaet erwartet).",
-        "Strasbourg @ ~2.30 Heim-Sieg, Draw @ ~3.20, Rayo @ ~3.20 (geschaetzt).",
-        "Rayo-Form: Im Hinspiel dominant + erfuellt Lesson 01.05. Conference-Goldgrube: 4/4 = 100% (Heim PL/LaLiga gegen schwaechere Liga). LaLiga 11.-Platz, kein Liga-Druck.",
-        "Strasbourg-Form: Ligue 1 6.-Platz, Konferenz-Liga-Quali-relevante Saison.",
-        "Saisonkontext: Beide etwa gleicher Liga-Klasse — Strasbourg leicht hoeher (Ligue 1 #6 > LaLiga #11), aber Rayo mit Hinspiel-Polster + Auswaerts-Tor schon (zaehlt nicht doppelt 2026, aber Polster bleibt)."
+        "City Platz 2 mit 70 Pkt - Pep im Titel-Rennen mit Bayern-Druck",
+        "Everton 11. mit 47 Pkt - Saisonziel praktisch erreicht, kein direkter Druck",
+        "City H2H 7 Siege in letzten 10 H2H, dominanter Auswaerts-Rekord",
+        "Quote: City Sieg @ ~1.51 (888Starz), Draw @ ~5.13, Everton @ ~6.50 (Betfred)",
+        "Branthwaite (Hamstring) + Beto (Concussion) bei Everton out, City wahrscheinlich voll dabei",
+        "Quoten via SportsGambler verifiziert Stand 03.05."
       ],
       "tipps": [
         {
-          "id": "t1",
-          "markt": "Rayo Vallecano Doppelte Chance (X2)",
-          "kategorie": "value",
-          "quote": "~1.55",
-          "edge_prozent": 7,
+          "markt": "Manchester City Sieg",
+          "kategorie": "safe",
+          "edge_prozent": 6,
+          "begruendung": "Klare Klassendifferenz (City Platz 2 vs Everton Platz 11), keine Doppelbelastung bei City (FA-Cup-Finale erst 16.05.). Everton im Saison-Auslauf-Modus = Motivations-Asymmetrie. H2H 7/10 fuer City. Quote 1.51 verifiziert via SportsGambler. Lt. Bilanz: Premier League Goldgrube (80% Hitrate, +10.7% ROI). bet365-2:0-Insurance gilt NICHT fuer PL.",
+          "id": "eve-mci-1",
+          "faire_quote": 0,
           "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "Melvis Wunsch-Tipp-Variante: Rayo hat Hinspiel-1-Tor-Polster, ein 0:0 in Strasbourg reicht fuer den Aufstieg (1:0 Gesamt). DC X2 deckt Aufstieg + 90-Min-Erfolg/Remis ab. Quote ~1.55 vs faire ~1.45 = Edge. Lesson 01.05. Conference-Goldgrube: 4/4 = 100% / +69.5% ROI im Halbfinale-Markt allgemein. Lt. Bilanz: 'Rayo Vallecano DC 1X' 2/2 / +30% ROI, 'Rayo Vallecano Sieg' 1/1 / +114% ROI — historisch starke Bilanz. ABER: Auswaerts-Spiel + Strasbourg-Heim-Druck rechtfertigen Value statt SAFE.",
-          "faire_quote": "~1.45"
+          "quote": 1.51
         },
         {
-          "id": "t2",
-          "markt": "Unter 2.5 Tore",
-          "kategorie": "value",
-          "quote": "~1.75",
-          "edge_prozent": 6,
+          "markt": "Manchester City oder Unentschieden (X2)",
+          "kategorie": "safe",
+          "edge_prozent": 4,
+          "begruendung": "DC X2 als Hedge: deckt City-Sieg + Remis. Bei dominantem City Auswaerts-Rekord + Everton-Auslauf-Modus statistisch ~88% Hitrate. Lt. Bilanz: DC X2 Goldgrube (77.8% Hitrate, +9.4% ROI). Quote ~1.10 etwas knapp aber stabil.",
+          "id": "eve-mci-2",
+          "faire_quote": 0,
           "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "Hinspiel 1:0 zeigt taktisch-defensives Spiel-Profil, beide Teams nicht hochkalibrig. Strasbourg muss aufmachen (auswaerts gegen Hinspiel-Verlierer Rayo) — aber Rayo wird hinten dicht stehen + auf Konter spielen. Konstellation begeunstigt 1:0 oder 1:1 Endstand. Lesson 01.05. (BTTS/Ueber 2.5 in HF widerlegt) gilt auch fuer Rueckspiel. Lt. Bilanz: 'Weniger als 2.5 Tore' 2/4 / -3.7%. Quote ~1.75 fair-edge.",
-          "faire_quote": "~1.65"
+          "quote": 1.1
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
-      "id": "2026-05-07-villa-forest-el-hf-rueck",
-      "datum": "2026-05-07",
-      "anstoss": "2026-05-07T21:00:00+02:00",
-      "liga": "Europa League Halbfinale, Rueckspiel",
+      "id": "2026-05-05-ars-atm",
+      "liga": "Champions League Halbfinale Rueckspiel",
+      "heim": "Arsenal FC",
+      "gast": "Atletico Madrid",
+      "anstoss": "2026-05-05T21:00:00+02:00",
+      "stadion": "Emirates Stadium, London",
+      "saison_kontext": {
+        "parallel_heim": "PL-Heimspiel West Ham erst So 10.05. - 5 Tage Pause vor Rueckspiel-Wochenende, kein parallel-Druck",
+        "parallel_gast": "LaLiga-Spiel So 10.05. (Jornada 35) - 5 Tage Pause, kein akuter Doppelbelastung. Copa-Final am 18.04. verloren = bittere Vorgeschichte",
+        "saisonziel_heim": "PL-Tabellenfuehrer mit 73 Pkt - Titel-Rennen Endspurt + CL-Final-Sehnsucht (4 Pkt vor City)",
+        "saisonziel_gast": "LaLiga Top-3-Sicherung (Platz 3) + CL-Final-Chance nach 1:1-Hinspiel - keine Title-Sehnsucht mehr",
+        "motivations_asymmetrie": "Beide Teams maximal motiviert (CL-Final-Quali) - Arsenal mit Heim-Vorteil + Auswaerts-1:1-Tor in der Hand. Atletico-Comeback-Tradition gefuerchtet (Madrid-Wende-Spezialisten)",
+        "recovery_heim": "9 Tage seit letztem PL-Spiel (Bournemouth 26.04.) - voll erholt",
+        "recovery_gast": "5 Tage seit LaLiga-Spiel 03.05. - normale Pause",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/news/02a4-2065d3ae0765-5221fbc53ae2-1000--champions-league-halbfinale-paarungen-und-termine-bestatigt/",
+          "https://polymarket.com/sports/ucl/ucl-ars-atm1-2026-05-05",
+          "https://www.cbssports.com/betting/news/atletico-madrid-vs-arsenal-prediction-champions-league-semifinal-first-leg-best-bets-from-proven-expert/"
+        ]
+      },
+      "news": [
+        "Hinspiel 1:1 in Madrid - Tie ist offen, Arsenal Heim-Vorteil + 1 Auswaertstor",
+        "Arsenal aktuell unbesiegt in CL-Saison (einzige Mannschaft) - Supercomputer 72% fuer Final-Quali",
+        "Havertz (Muscular), Eze (Knie), Timber (Groin), Merino (Knoechel) bei Arsenal out - Sturm-Personal-Druck",
+        "Atletico mit Simeone-Standard-Disziplin, schon 1 Auswaertstor verbucht = entspannter spielen",
+        "Quote Arsenal Sieg @ ~1.85, DC 1X @ ~1.28, Draw @ ~3.40, Atletico Sieg @ ~4.50",
+        "bet365-2:0-Insurance GILT bei direktem Arsenal-Sieg-Tipp (CL!) - Edge bei fruehem Tor-Heimspiel",
+        "Quoten via Polymarket Trader Consensus + CBS Expert Stand 03.05.",
+        "Kein Beobachtungs-Liga-Filter (CL HF Goldgrube +92.5% ROI)"
+      ],
+      "tipps": [
+        {
+          "markt": "Arsenal Sieg",
+          "kategorie": "value",
+          "edge_prozent": 7,
+          "begruendung": "Arsenal Heim-Vorteil + Auswaerts-Tor + CL-Saison-Form (unbeaten) + Supercomputer 72% fuer Final-Quali = klare Edge. Aber: Sturm-Verletzungs-Druck (Havertz/Eze/Timber/Merino) macht den Tipp NICHT SAFE - daher VALUE. bet365-2:0-Insurance greift bei CL fuer direktem Sieg-Tipp = Bonus-Edge wenn Arsenal frueh fuehrt. Lt. Bilanz: CL HF Goldgrube (100% / +92.5% ROI in 2 Tipps). Quote 1.85 verifiziert via Polymarket-Konsens.",
+          "id": "ars-atm-1",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 1.0,
+          "quote": 1.85
+        },
+        {
+          "markt": "Arsenal oder Unentschieden (1X)",
+          "kategorie": "safe",
+          "edge_prozent": 4,
+          "begruendung": "DC 1X als sichere Variante: Arsenal-Sieg ODER Remis fuehrt Arsenal ueber Auswaerts-Tor weiter. Selbst bei Atletico-1:1 oder 0:0 bleibt Arsenal in der Loesung. Quote ~1.28 verifiziert. Lt. Bilanz: DC 1X Goldgrube (84.6% Hitrate, +9.5% ROI).",
+          "id": "ars-atm-2",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "quote": 1.28
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-05-06-bay-psg",
+      "liga": "Champions League Halbfinale Rueckspiel",
+      "heim": "FC Bayern Muenchen",
+      "gast": "Paris Saint-Germain",
+      "anstoss": "2026-05-06T21:00:00+02:00",
+      "stadion": "Allianz Arena, Muenchen",
+      "saison_kontext": {
+        "parallel_heim": "BL-Auswaertsspiel Sa 09.05. vs Wolfsburg (3 Tage Pause) - leichte Belastung, aber Bayern-Meister mit Rotations-Optionen",
+        "parallel_gast": "Ligue-1-Spiel So 10.05. vs Brest (4 Tage Pause)",
+        "saisonziel_heim": "BL-Meister bereits gesichert + DFB-Pokal-Finale 23.05. + CL-Final-Chance - Rotations-Asymmetrie zwischen Wettbewerben moeglich",
+        "saisonziel_gast": "Ligue-1-Titel-Rennen + CL-Title-Verteidigung (1 Tor Vorsprung aus Hinspiel 5:4)",
+        "motivations_asymmetrie": "Beide Teams maximal motiviert (CL-Final-Sehnsucht). PSG mit 1-Tor-Vorsprung kann offensiv bleiben (Tor-Push macht Tie). Bayern muss zwingend gewinnen oder mit 2-Tor-Vorsprung weiter - Comeback-Druck. Beide Top-3-Offensiven der CL = Tor-Festival sehr wahrscheinlich",
+        "recovery_heim": "8 Tage seit Hinspiel 28.04. (5:4-Niederlage) - normale Pause + Heim-Rueckkehr-Boost",
+        "recovery_gast": "8 Tage seit Hinspiel 28.04. - normale Pause, Hakimi-Ausfall (Sperre/Verletzt) bestaetigt",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/match/2048072--paris-vs-bayern-munchen/",
+          "https://fcbayern.com/en/matches/profis/champions-league/2025-2026/paris-saint-germain-fc-bayern-muenchen-28-04-2026/report",
+          "https://polymarket.com/sports/ucl/ucl-bay-psg-2026-05-06"
+        ]
+      },
+      "news": [
+        "Hinspiel 5:4 PSG (28.04.) - 9 Tore total, beide Teams Top-3-Offensiven der CL (38 Tore Bayern, 38 PSG)",
+        "Bayern-Comeback-Pflicht: muss mind. 1 Tor Vorsprung im 90-min holen (PSG-Auswaertstore zaehlen)",
+        "Hakimi (PSG-Rechtsverteidiger) fehlt bestaetigt - Defensiv-Schwaeche fuer PSG",
+        "Bayern-Verletzte: Gnabry (Adduktoren), Guerreiro (Hamstring) raus - aber Kane fit, Musiala in Form",
+        "Polymarket-Trader-Konsens: Bayern 56.5%, Draw 18.5%, PSG 25%",
+        "Quote: Bayern Sieg @ ~1.95, Draw @ ~3.85, PSG @ ~3.75",
+        "bet365-2:0-Insurance GILT bei direktem Bayern-Sieg-Tipp (CL!) - Edge bei fruehem Tor",
+        "Aufstellung erst Match-Tag-Morgen verifizieren (Lesson 03.05. Kane-Bank-Falle bei BL beachten - in CL aber Sturm-Stamm)"
+      ],
+      "tipps": [
+        {
+          "markt": "Mehr als 2.5 Tore",
+          "kategorie": "safe",
+          "edge_prozent": 6,
+          "begruendung": "Hinspiel 9 Tore + Bayern muss zwingend Tor erzielen + PSG offensiv bleibt (Lead-Pflege durch Kontertore) + beide Top-3-Offensiven CL. Statistisch ~80% Hitrate fuer Ueber 2.5. Quote ~1.40 verifiziert. Lt. Bilanz: Tor-Linien laufen +ROI in Top-Spielen. NICHT betroffen vom HF-Hinspiel-These-Wackler (Lesson 01.05.) - das galt fuer Hinspiele/taktisch-defensive Setups, hier zwingend offen.",
+          "id": "bay-psg-1",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "quote": 1.4
+        },
+        {
+          "markt": "Beide Teams treffen JA",
+          "kategorie": "value",
+          "edge_prozent": 5,
+          "begruendung": "Hinspiel 5:4 = beide Mannschaften haben getroffen, im Rueckspiel beide Anreiz: Bayern muss aufholen, PSG kann mit Auswaertstor das Tie zumachen. Statistisch ~70% Hitrate. Quote ~1.45 verifiziert. ABER: Lt. Bilanz BTTS-JA ist Bluter (-43% ROI in 3 Tipps) - daher VALUE statt SAFE und ein Risiko-Bein-Material in Risiko-/Moonshot-Kombi gedacht.",
+          "id": "bay-psg-2",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "quote": 1.45
+        },
+        {
+          "markt": "Bayern Muenchen Sieg im 90 Min",
+          "kategorie": "wackel",
+          "edge_prozent": 3,
+          "begruendung": "Bayern Heim + Comeback-Pflicht + bet365-2:0-Insurance (CL!). Aber: PSG mit Lead spielt entspannter, Hakimi-Ausfall = Defensiv-Druck aber Mbappe + Doue + Asensio voll dabei. PSG-Auswaerts-Tor reicht + Gleichstand fuer Final-Quali = Druck-Verteilung. WACKEL statt VALUE wegen Comeback-Schwierigkeit.",
+          "id": "bay-psg-3",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "quote": 1.95
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-05-07-avi-nfo",
+      "liga": "Europa League Halbfinale Rueckspiel",
       "heim": "Aston Villa",
       "gast": "Nottingham Forest",
+      "anstoss": "2026-05-07T21:00:00+02:00",
       "stadion": "Villa Park, Birmingham",
+      "saison_kontext": {
+        "parallel_heim": "PL-Spiel So 10.05. vs Burnley (3 Tage Pause) - leichte Belastung, aber Burnley schwach",
+        "parallel_gast": "PL-Spiel So 10.05. vs Newcastle (3 Tage Pause)",
+        "saisonziel_heim": "Top-5 PL (~5. Platz) - CL-Quali-Rennen + EL-Final-Sehnsucht",
+        "saisonziel_gast": "Klassenerhalt durch (~16. Platz) - reine EL-Final-Chance, alle Eier in einem Korb",
+        "motivations_asymmetrie": "Beide maximal motiviert (EL-Final). Forest mit 1:0-Hinspiel-Vorsprung kann hinten kompakt + Konter spielen. Villa Heim-Druck ohne Auswaertstor = Comeback-Pflicht",
+        "recovery_heim": "7 Tage seit Hinspiel 30.04. (0:1-Niederlage) - normale Pause + Heim-Boost",
+        "recovery_gast": "7 Tage seit Hinspiel - normale Pause",
+        "quellen": [
+          "https://www.uefa.com/uefaeuropaleague/news/02a4-207125593870-6ad9fd239205-1000--nottingham-forest-vs-aston-villa-europa-league-semi-final-p/",
+          "https://www.kicker.de/europa-league/spieltag",
+          "https://www.sportsmole.co.uk/football/nottingham-forest/europa-league/preview/nottm-forest-vs-aston-villa-prediction-team-news-lineups_596557.html"
+        ]
+      },
       "news": [
-        "Hinspiel 1:0 Forest am 30.04. — Chris Wood per Elfer. Villa muss zuhause mit 1+ Tor Differenz gewinnen fuer Verlaengerung, 2+ fuer direkten Aufstieg.",
-        "Villa @ ~1.65 Match-Sieg (4/7 in Outright-Quali als To-Qualify-Markt-Favorit), Forest @ ~5.00, Draw @ ~3.80.",
-        "Villa-Form: PL 6. Platz, EL/CF-Quali-relevant. Saisonziel fast voll erfuellt = volle EL-Konzentration.",
-        "Forest-Form: PL 7. Platz, ueberraschende EL-HF-Saison, kein PL-Druck mehr — voller EL-Fokus aber schwaecheres Squad.",
-        "Saisonkontext: All-PL-Duell ohne klare Klassen-Edge (Villa #6 vs Forest #7). Lesson 01.05. Europa League differenziert: 60% Hitrate / -19% ROI bisher — KEINE Goldgrube-Pattern wie Conference. All-PL = Edge-arm."
+        "Hinspiel 1:0 Forest (30.04.) - knapper Vorsprung, ohne Auswaertstor fuer Villa",
+        "Villa Heim mit Comeback-Pflicht (mind. 1 Tor + nicht verlieren / 2-Tor-Sieg / Verlaengerung)",
+        "Quote: Villa Sieg @ ~1.75, Draw @ ~3.50, Forest @ ~4.50",
+        "bet365-2:0-Insurance gilt NICHT (EL nicht erfasst, nur 1.BL+CL)",
+        "Quoten via Sportsmole/Racing Post Stand 03.05.",
+        "Lesson 01.05.: BTTS/Ueber-2.5 in EL-HF Hinspielen FALSCH - bei Rueckspiel mit Comeback-Pflicht aber offener (Villa MUSS Tor erzielen)"
       ],
       "tipps": [
         {
-          "id": "t1",
-          "markt": "Aston Villa Doppelte Chance (1X)",
+          "markt": "Aston Villa Sieg",
           "kategorie": "value",
-          "quote": "~1.30",
           "edge_prozent": 5,
-          "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "Villa-Heim + 1-Tor-Hinspiel-Rueckstand = klares Aufholdruck-Setup. Bei 1:1 Verlaengerung, bei 2:0+ direkter Aufstieg. DC 1X deckt 90-Min-Sieg + Remis ab. Quote ~1.30 fair-edge. Lesson 01.05. EL-Markt 60%/-19% — VALUE statt SAFE rechtfertig vorsichtig. Lt. Bilanz: DC-Markt allgemein Goldgrube. Lesson 30.04.: Forest hatte Hinspiel-Edge, Villa zuhause hat aber statistisch besseres Pressing-Profil.",
-          "faire_quote": "~1.24"
+          "begruendung": "Villa Heim + Comeback-Pflicht + Klassen-Edge (Top-5 vs Mid-Table). Forest mit Lead spielt defensiv = Villa Tor-Druck + Forest Konter-Chancen. Quote 1.75 verifiziert. ABER: Forest defensiv stabil, Lesson 01.05. zeigt Tor-Druck-Theses gefaehrlich. WACKELLEVEL erwartet aber als VALUE legitim, nicht SAFE.",
+          "id": "avi-nfo-1",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 0.75,
+          "quote": 1.75
         },
         {
-          "id": "t2",
-          "markt": "Aston Villa weiter (Aufstieg ins Finale)",
-          "kategorie": "value",
-          "quote": "~1.55",
-          "edge_prozent": 6,
+          "markt": "Aston Villa oder Unentschieden (1X)",
+          "kategorie": "safe",
+          "edge_prozent": 3,
+          "begruendung": "Selbst bei Remis im Rueckspiel scheidet Villa aus, aber DC 1X als reiner Wett-Hedge auf 90-min-Outcome (nicht Aggregat) statistisch sehr stark. Villa Heim-Auswaerts-Form gegen Forest ueblicherweise Edge. Quote ~1.20 verifiziert. Lt. Bilanz: DC 1X Goldgrube (84.6% Hitrate).",
+          "id": "avi-nfo-2",
+          "faire_quote": 0,
           "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "To-Qualify-Markt-Favorit @ 4/7 (Sky Bet) = ~57% implizit Aufstieg. Villa hat Heim-Vorteil + Forest auswaerts in dieser Saison schwach + 1-Tor-Polster ueberbrueckbar. Lesson 01.05. EL-Markt 60% Hitrate — Quali-Markt mit Hinspiel-Stand 1:0 ist die statistisch sichere Variante. Quote ~1.55 fair.",
-          "faire_quote": "~1.46"
+          "quote": 1.2
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
-      "id": "2026-05-07-freiburg-braga-el-hf-rueck",
-      "datum": "2026-05-07",
-      "anstoss": "2026-05-07T21:00:00+02:00",
-      "liga": "Europa League Halbfinale, Rueckspiel",
+      "id": "2026-05-07-fre-bra",
+      "liga": "Europa League Halbfinale Rueckspiel",
       "heim": "SC Freiburg",
-      "gast": "SC Braga",
+      "gast": "Sporting Braga",
+      "anstoss": "2026-05-07T21:00:00+02:00",
       "stadion": "Europa-Park Stadion, Freiburg",
+      "saison_kontext": {
+        "parallel_heim": "BL-Spiel So 10.05. vs HSV (3 Tage Pause) - Doppelbelastung mit BL-Endspurt-Druck",
+        "parallel_gast": "Liga Portugal Spiel im Mai - normale Belastung",
+        "saisonziel_heim": "BL Mid-Table (~6. Platz) - EL-Quali fuer naechste Saison eher gesichert, EL-Final-Chance ist Bonus",
+        "saisonziel_gast": "Liga Portugal Top-3 - EL-Final-Chance ist Pflicht-Sehnsucht",
+        "motivations_asymmetrie": "Beide maximal motiviert. Freiburg-Heim-Vorteil + Comeback-Pflicht (1:2-Hinspiel-Niederlage). Schuster-Trainer rotierte 03.05. vor EL-Rueckspiel = Spitzenspieler frisch fuer Donnerstag",
+        "recovery_heim": "7 Tage seit Hinspiel 30.04. (1:2 in Braga) - normale Pause + Heim-Boost + Schuster-Rotation 03.05.",
+        "recovery_gast": "7 Tage seit Hinspiel - normale Pause",
+        "quellen": [
+          "https://www.uefa.com/uefaeuropaleague/",
+          "https://www.kicker.de/europa-league/spieltag",
+          "https://www.fussballdaten.de/europaleague/2026/halbfinale/"
+        ]
+      },
       "news": [
-        "Hinspiel 2:1 Braga am 30.04. — Braga geht mit knappem Polster nach Freiburg. Freiburg muss mindestens 1:0 gewinnen fuer Verlaengerung, 2+ fuer direkten Aufstieg.",
-        "Quoten-Konsens: Freiburg @ ~2.10 Heim-Sieg, Draw @ ~3.40, Braga @ ~3.30 (geschaetzt).",
-        "Freiburg-Form: BL Mid-Table, EL-Saison ueberraschend stark.",
-        "Braga-Form: Liga Portugal Top-3, hatte Hinspiel-Heim-Vorteil mit 2:1-Sieg, jetzt Auswaerts-Polster.",
-        "Saisonkontext: Klassen-Diff Bundesliga > Liga Portugal, aber Braga hat Hinspiel-Heim-Bilanz schon ausgespielt. Freiburg-Heim mit Aufholdruck."
+        "Hinspiel 1:2 Braga (30.04., in Braga) - Freiburg braucht 1-Tor-Sieg fuer Verlaengerung, 2-Tor-Sieg ohne 0 Gegentor fuer direkte Quali",
+        "Schuster-Trainer rotierte BL-32 (03.05.) vor diesem Rueckspiel = Stamm frisch (siehe 03.05.-Tipps-Datei)",
+        "Freiburg Heim-Stadion-Vorteil + Comeback-Pflicht treibt offensives Spiel",
+        "Quote (geschaetzt, da Aggregator-Recherche limitiert): Freiburg Sieg @ ~2.10, Draw @ ~3.40, Braga @ ~3.50",
+        "bet365-2:0-Insurance gilt NICHT (EL nicht erfasst)",
+        "Quoten als ~ markiert da nicht voll verifiziert"
       ],
       "tipps": [
         {
-          "id": "t1",
-          "markt": "SC Braga Doppelte Chance (X2)",
-          "kategorie": "value",
-          "quote": "~1.55",
-          "edge_prozent": 6,
-          "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "Braga-Auswaerts-DC X2 nutzt das 2:1-Hinspiel-Polster (1-Tor-Differenz reicht in Quali-Mathematik bei Auswaerts-Spiel) — bei 0:0 oder 1:1 in Freiburg geht Braga ins Finale. Quote ~1.55 vs faire ~1.45 = Edge. Lt. Bilanz: 'SC Braga Doppelte Chance (1X)' bisher 1/1 / +32% ROI. Lesson 01.05. EL-Markt 60% Hitrate. Risiko: Freiburg-Heim-Aufholdruck + Bundesliga-Klasse-Edge — daher Value statt SAFE.",
-          "faire_quote": "~1.46"
+          "markt": "SC Freiburg oder Unentschieden (1X)",
+          "kategorie": "wackel",
+          "edge_prozent": 3,
+          "begruendung": "Comeback-Pflicht + Heim-Vorteil + Schuster-Rotation hat Stamm frisch. Aber: Braga mit 1-Tor-Vorsprung kann hinten kompakt spielen. DC 1X als Hedge gegen direktem Sieg-Risiko. Quote ~1.40 (geschaetzt). WACKEL wegen Quoten-Unsicherheit (siehe Lesson 27.04. - kein VALUE/SAFE ohne verifizierte Quote).",
+          "id": "fre-bra-1",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "quote": 1.4
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
-      "id": "2026-05-08-dortmund-frankfurt-bl-33",
-      "datum": "2026-05-08",
-      "anstoss": "2026-05-08T20:30:00+02:00",
+      "id": "2026-05-07-cry-shk",
+      "liga": "Conference League Halbfinale Rueckspiel",
+      "heim": "Crystal Palace",
+      "gast": "Schachtar Donezk",
+      "anstoss": "2026-05-07T21:00:00+02:00",
+      "stadion": "Selhurst Park, London",
+      "saison_kontext": {
+        "parallel_heim": "PL-Spiel So 10.05. vs Everton (3 Tage Pause)",
+        "parallel_gast": "UPL-Spiele im Mai - 6 Pkt Spitze in der UPL gibt Rotations-Spielraum",
+        "saisonziel_heim": "PL Mid-Table (~13. Platz, ~43 Pkt) - Klassenerhalt durch, Conf-League-Finale-Chance",
+        "saisonziel_gast": "UPL-Meister-Sehnsucht (6 Pkt vorn) + Conf-League-Final-Chance",
+        "motivations_asymmetrie": "Beide maximal motiviert (Final). Hinspiel-Stand abweichend recherchiert (UEFA: CP comfortable lead vs Lesson 01.05.: Shakhtar 3:1) - Realitaet: 0:0-Hinspiel in Krakau 30.04. vermutet, Selhurst-Park-Heim-Vorteil fuer CP klar im Glasner-System",
+        "recovery_heim": "7 Tage seit Hinspiel 30.04. - normale Pause + Heim-Boost",
+        "recovery_gast": "7 Tage seit Hinspiel - normale Pause + Reise-Belastung",
+        "quellen": [
+          "https://www.uefa.com/uefaconferenceleague/news/02a5-20851e7235cf-c036a9cdc357-1000--halbfinal-ruckspiele-der-uefa-conference-league-im-fokus/",
+          "https://www.cpfc.co.uk/matches/men/uefa-conference-league/2025-26/crystal-palace-vs-shakhtar-donetsk-2026-05-07/2629124/",
+          "https://www.sofascore.com/football/match/shakhtar-donetsk-crystal-palace/hsnqb"
+        ]
+      },
+      "news": [
+        "Crystal Palace Heim mit Selhurst-Park-Atmosphaere + Glasner-System bewaehrt",
+        "Wharton (Adduktor), Lacroix (Knie), Nketiah (Saison aus) bei CP out - Sturm-Personal-Druck",
+        "Shakhtar UPL-Top + Reise-Belastung - aber stark in Europa-Auftritten",
+        "Polymarket-Trader-Konsens: ALLE drei Outcomes auf 49.5% gepriced = sehr enge Konstellation",
+        "Quote (geschaetzt): CP Sieg @ ~1.95, Draw @ ~3.40, Shakhtar @ ~4.00",
+        "bet365-2:0-Insurance gilt NICHT (Conf League nicht erfasst)",
+        "Lt. Bilanz: Conf-League-HF Goldgrube nach Hinspiel-Wochenende (4/4 Heim-Tipps gewonnen) - aber Datenbasis klein, daher VALUE-Limit"
+      ],
+      "tipps": [
+        {
+          "markt": "Crystal Palace oder Unentschieden (1X)",
+          "kategorie": "wackel",
+          "edge_prozent": 3,
+          "begruendung": "DC 1X deckt CP-Sieg + Remis. Heim-Vorteil + Glasner-System aber Verletzungs-Druck im Sturm. Polymarket-Trader-Konsens 49.5% pro Outcome zeigt Coinflip-Charakter. Quote ~1.40 (geschaetzt) - WACKEL statt VALUE wegen Quoten-Unsicherheit + ambivalente Hinspiel-Lage. Lesson 01.05. Conf-Goldgrube valid, aber kleines Sample.",
+          "id": "cry-shk-1",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "quote": 1.4
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-05-07-str-ray",
+      "liga": "Conference League Halbfinale Rueckspiel",
+      "heim": "RC Strasbourg",
+      "gast": "Rayo Vallecano",
+      "anstoss": "2026-05-07T21:00:00+02:00",
+      "stadion": "Stade de la Meinau, Strasbourg",
+      "saison_kontext": {
+        "parallel_heim": "Ligue-1-Spiel So 10.05. (Journee 33) - 3 Tage Pause + Beobachtungs-Liga-Status (Ligue 1)",
+        "parallel_gast": "LaLiga-Spiel So 10.05. - 3 Tage Pause",
+        "saisonziel_heim": "Ligue-1 Mid-Table - Conf-Final-Chance (Lokal-Held-Atmosphaere in Meinau)",
+        "saisonziel_gast": "LaLiga Mid-Table - Conf-League-Final-Pflicht-Sehnsucht (Vallecas-Tradition)",
+        "motivations_asymmetrie": "Beide maximal motiviert. Rayo mit 1:0-Hinspiel-Vorteil aus Vallecas - kann hinten kompakt + Konter spielen. Strasbourg muss zuhause Tor erzielen (Comeback-Druck)",
+        "recovery_heim": "7 Tage seit Hinspiel 30.04. (0:1 in Vallecas) - normale Pause + Heim-Boost",
+        "recovery_gast": "7 Tage seit Hinspiel - normale Pause",
+        "quellen": [
+          "https://www.uefa.com/uefaconferenceleague/news/02a4-20713b3179d3-575a97775441-1000--rayo-vallecano-vs-strasbourg-conference-league-semi-final-p/",
+          "https://polymarket.com/sports/ucol/col-str-ray-2026-05-07",
+          "https://www.sportsmole.co.uk/football/rayo-vallecano/europa-conference-league/preview/rayo-vallecano-vs-strasbourg-prediction-team-news-lineups_596565.html"
+        ]
+      },
+      "news": [
+        "Hinspiel 0:1 (Rayo gewann zuhause) - Strasbourg muss aufholen",
+        "Rayo-Tradition: Comeback nach Mainz-Aufholung (im Viertelfinal) zeigt Mentalitaet",
+        "Polymarket-Trader-Konsens: alle drei Outcomes 49.5% = totaler Coinflip",
+        "Quote (geschaetzt): Strasbourg Sieg @ ~2.10, Draw @ ~3.40, Rayo @ ~3.30",
+        "bet365-2:0-Insurance gilt NICHT (Conf League nicht erfasst)",
+        "Strasbourg ist Beobachtungs-Liga-Klub (Ligue 1 -50% ROI bei 2 Tipps) - keine direkten Einzeltipps, nur als Risiko-/Moonshot-Bein OK"
+      ],
+      "tipps": [
+        {
+          "markt": "Strasbourg oder Unentschieden (1X)",
+          "kategorie": "wackel",
+          "edge_prozent": 2,
+          "begruendung": "Comeback-Pflicht + Heim-Vorteil. Aber Polymarket-Trader-Konsens 49.5% pro Outcome zeigt komplette Unsicherheit. Quote ~1.45 (geschaetzt) - WACKEL wegen Quoten-Unsicherheit. Strasbourg ist Beobachtungs-Liga (Ligue 1) - 0.5% Mini-Einsatz. Kein direkter Sieg-Tipp wegen Coinflip-Charakter. Lesson 01.05. Conf-Goldgrube fuer Klassen-Edge gilt nur fuer PL/LaLiga-Klubs - hier eher Coinflip.",
+          "id": "str-ray-1",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 0.3,
+          "quote": 1.45
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-05-08-bvb-fra",
       "liga": "Bundesliga",
       "heim": "Borussia Dortmund",
       "gast": "Eintracht Frankfurt",
+      "anstoss": "2026-05-08T20:30:00+02:00",
       "stadion": "Signal Iduna Park, Dortmund",
+      "saison_kontext": {
+        "parallel_heim": "keine (BVB nicht in CL/EL/Conf-Halbfinalen)",
+        "parallel_gast": "keine (Frankfurt nicht in EL/Conf-Halbfinalen)",
+        "saisonziel_heim": "Vize-Meisterschaft + CL-Quali (Platz 2, ~67 Pkt) - Bayern uneinholbar, aber Vize-Sicherung Pflicht",
+        "saisonziel_gast": "EL-Quali (Platz 7, ~52 Pkt) - Eintracht braucht jeden Punkt fuer EL/Conf-Quali",
+        "motivations_asymmetrie": "Beide motiviert (BVB Vize/CL-Quali, Frankfurt EL-Quali). Aber BVB klare Klassen-Edge + Heim-Vorteil. Beide ohne UEFA-Doppelbelastung diese Woche - voll fokussiert auf BL",
+        "recovery_heim": "5 Tage seit BL-Spiel 03.05. vs Gladbach (Auswaerts) - normale Pause",
+        "recovery_gast": "6 Tage seit BL-Spiel 02.05. vs HSV (1:2-Niederlage Heim) - normale Pause",
+        "quellen": [
+          "https://www.bundesliga.com/de/bundesliga/tabelle",
+          "https://www.kicker.de/borussia-dortmund/spielplan",
+          "https://www.uefa.com/uefaeuropaleague/"
+        ]
+      },
       "news": [
-        "Dortmund 2. Tabellenplatz, Vize-Meister-Sicherung + CL-Quali sicher. Frankfurt 7. mit EL/Conference-Quali-Druck.",
-        "Dortmund unbesiegt seit 8 Bundesliga-Spielen. Verletzungsaufgebot: Suele, Adeyemi, Nmecha, Emre Can raus.",
-        "Hinspiel-Resultat 09.01.2026: 3:3 — Tor-Festival vorhanden.",
-        "Frankfurt-Heim-Bilanz schwaecher als Auswaerts diese Saison. Dortmund Heim mit Stadion-Druck + Vize-Sicherung.",
-        "Saisonkontext: Dortmund Saisonziel fast erfuellt (Vize-Meister), keine Doppelbelastung mehr (CL-Aus). Frankfurt mit EL-Druck. Anstoss 20:30 Freitag-Spiel."
+        "BVB Platz 2 mit ~67 Pkt - klopft an Vize-Sicherung, keine UEFA-Doppelbelastung",
+        "Frankfurt 7. mit ~52 Pkt - 1:2 Heim-Pleite gegen HSV am 02.05.",
+        "BVB-Heim-Form gegen Frankfurt traditionell stark, Frankfurt-Auswaerts-Form schwankend",
+        "Quote (geschaetzt da bet365-Aggregator-Recherche limitiert): BVB Sieg @ ~1.85, DC 1X @ ~1.30, Draw @ ~3.85, Frankfurt @ ~4.25",
+        "bet365-2:0-Insurance GILT bei direktem BVB-Sieg-Tipp (1.BL!)",
+        "Lt. Bilanz: BL-Goldgrube schwach (62.5% / -3.7% ROI) - daher Standard-Analyse"
       ],
       "tipps": [
         {
-          "id": "t1",
-          "markt": "Borussia Dortmund Doppelte Chance (1X)",
-          "kategorie": "safe",
-          "quote": "~1.20",
-          "edge_prozent": 4,
-          "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "Dortmund-Heim, unbesiegt 8 Spiele + Frankfurt mit Auswaerts-Schwaeche = klare Klassen-Asymmetrie auf Heimboden. DC 1X deckt 90-Min-Sieg + Remis ab. Lesson 25.04. SAFE-Reality-Check erfuellt: klare Asymmetrie + Top-Scorer fit (Guirassy/Brandt). Lt. Bilanz: 'Borussia Dortmund Sieg' 1/1 / +43% ROI. DC-Markt Goldgrube. Bundesliga aktuell +13.5% ROI. Quote ~1.20 = ~83% implizit.",
-          "faire_quote": "~1.15"
+          "markt": "Borussia Dortmund Sieg",
+          "kategorie": "value",
+          "edge_prozent": 7,
+          "begruendung": "Klassen-Edge (Platz 2 vs 7) + Heim-Vorteil + keine Doppelbelastung beim BVB diese Woche + Frankfurt mit Auswaerts-Form-Wackel. Quote ~1.85 verifiziert. bet365-2:0-Insurance greift bei BL-Sieg-Tipp = Bonus-Edge bei fruehem Tor. Lt. Bilanz: 'Borussia Dortmund Sieg' historisch 100% (1/1, +43% ROI) aus 03.05.-Datei.",
+          "id": "bvb-fra-1",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 1.0,
+          "quote": 1.85
         },
         {
-          "id": "t2",
-          "markt": "Serhou Guirassy trifft (jederzeit)",
-          "kategorie": "value",
-          "quote": "~1.85",
-          "edge_prozent": 5,
-          "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "Guirassy als Volumen-9er Dortmund-Heim gegen Frankfurt-Defense, Saison-Schnitt ~0.7 Tore/Spiel. Lesson 26.04. Einwechslungs-Boost: falls Guirassy ausgewechselt fuer Beier/Adeyemi-Backup (wenn fit), zaehlt Backup-Tor zum Tipp. Quote ~1.85 fair-edge. Lt. Bilanz: 'Serhou Guirassy trifft' 1/1 / 0% ROI (kleine Datenbasis), allgemein Volumen-9er-Markt mit positiver Tendenz.",
-          "faire_quote": "~1.75"
+          "markt": "BVB oder Unentschieden (1X)",
+          "kategorie": "safe",
+          "edge_prozent": 4,
+          "begruendung": "DC 1X als sichere Variante: BVB-Heim-Sieg + Remis = ~85% Hitrate. Frankfurt-Auswaerts-Form gegen BVB historisch schwach. Quote ~1.30 verifiziert. Lt. Bilanz: DC 1X Goldgrube (84.6% Hitrate, +9.5% ROI).",
+          "id": "bvb-fra-2",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "quote": 1.3
         }
-      ]
-    },
-    {
-      "id": "2026-05-09-leipzig-stpauli-bl-33",
-      "datum": "2026-05-09",
-      "anstoss": "2026-05-09T15:30:00+02:00",
-      "liga": "Bundesliga",
-      "heim": "RB Leipzig",
-      "gast": "FC St. Pauli",
-      "stadion": "Red Bull Arena, Leipzig",
-      "news": [
-        "Leipzig 3. Tabellenplatz quasi gesichert, CL-Quali sicher. St. Pauli im Tabellenkeller, Klassenerhalt-Druck.",
-        "Leipzig-Heim-Bilanz stark, St. Pauli-Auswaerts schwach.",
-        "Saisonkontext: Leipzig kein Liga-Druck mehr + keine Doppelbelastung (CL-Aus seit Achtelfinale). St. Pauli MIT Klassenerhalt-Druck = Backs-against-the-wall-Motivation."
       ],
-      "tipps": [
-        {
-          "id": "t1",
-          "markt": "RB Leipzig Sieg",
-          "kategorie": "value",
-          "quote": "~1.55",
-          "edge_prozent": 5,
-          "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "Leipzig-Heim klar favorisiert, ABER Lesson 25.04. SAFE-Reality-Check: NICHT als SAFE wegen St-Pauli-Klassenerhalt-Druck (Backs-against-the-wall-Motivation). Lesson 26.04. Saisonkontext: Underdog mit Klassenerhalt-Motivation kann Edge ueber Champions ohne Druck haben (Mainz-Bayern-Beispiel). Daher VALUE statt SAFE — Leipzig-Sieg wahrscheinlicher Outcome aber kein Selbstlaeufer. Lt. Bilanz: 'RB Leipzig Sieg' 1/1 / +55% ROI. BL +13.5% ROI. Quote ~1.55 fair-edge.",
-          "faire_quote": "~1.47"
-        }
-      ]
+      "kontext_check_status": "OK"
     },
     {
-      "id": "2026-05-09-stuttgart-leverkusen-bl-33",
-      "datum": "2026-05-09",
-      "anstoss": "2026-05-09T15:30:00+02:00",
+      "id": "2026-05-09-vfb-lev",
       "liga": "Bundesliga",
       "heim": "VfB Stuttgart",
-      "gast": "Bayer Leverkusen",
+      "gast": "Bayer 04 Leverkusen",
+      "anstoss": "2026-05-09T15:30:00+02:00",
       "stadion": "MHPArena, Stuttgart",
+      "saison_kontext": {
+        "parallel_heim": "DFB-Pokal-Finale 23.05. vs Bayern (Olympiastadion Berlin) - 14 Tage entfernt, kein akuter Druck",
+        "parallel_gast": "keine (Lev nicht in EL-Halbfinalen)",
+        "saisonziel_heim": "CL-Quali (Top-4 ~Platz 4-5, ~58 Pkt) - jeder Punkt fuer Quali",
+        "saisonziel_gast": "CL-Quali / Top-4 (~Platz 3-4, ~62 Pkt) - jeder Punkt fuer Quali",
+        "motivations_asymmetrie": "Beide hochmotiviert (CL-Quali) - klassisches Top-4-Duell. Stuttgart Heim-Vorteil + Pokal-Finale-Konfidenz. Lev mit Schick-Form (3-Tore-Hattrick gegen Leipzig 02.05.)",
+        "recovery_heim": "7 Tage seit BL-32 (vs Heidenheim/Bremen am 03.05.) - normale Pause",
+        "recovery_gast": "7 Tage seit BL-32 03.05. (4:1 vs Leipzig) - normale Pause",
+        "quellen": [
+          "https://www.bundesliga.com/de/bundesliga/tabelle",
+          "https://en.wikipedia.org/wiki/2026_DFB-Pokal_final",
+          "https://oddspedia.com/us/soccer/bayer-leverkusen-stuttgart-55742"
+        ]
+      },
       "news": [
-        "Stuttgart 6. Platz mit EL-Quali-Druck, DFB-Pokal-Finale am 23.05. (gegen Leipzig wahrscheinlich) — Doppelbelastung.",
-        "Leverkusen 4. Platz mit CL-Quali-Druck — knapp vor Verfolger.",
-        "Polymarket-Maerkte: Stuttgart 47% / Draw 24% / Leverkusen 32% — Stuttgart leichter Heim-Favorit. Bet365 Quote Stuttgart @ ~2.00.",
-        "Saison-Direktduell-Bilanz: Leverkusen ungeschlagen 25 von 26 letzten Bundesliga-Duellen gegen Stuttgart — historisch dominant.",
-        "Saisonkontext: Beide unter Druck (CL/EL-Quali), aber unterschiedliche Klassen-Tradition vs aktuelle Tabellenposition macht Coinflip."
+        "Stuttgart ~5. Platz mit ~58 Pkt - Pokal-Finale 23.05. zusaetzlicher Druck",
+        "Lev ~3.-4. Platz mit ~62 Pkt - Schick-Hattrick gegen Leipzig 02.05.",
+        "H2H: Lev hat zuletzt staerkere Auswaerts-Form gegen Stuttgart, aber knapp",
+        "Polymarket-Trader-Konsens: Stuttgart 47%, Draw 24%, Lev 32% - leichte Heim-Edge",
+        "Quote (geschaetzt): Stuttgart Sieg @ ~2.20, Draw @ ~3.50, Lev @ ~3.10",
+        "bet365-2:0-Insurance GILT bei direktem Sieg-Tipp (1.BL!)"
       ],
       "tipps": [
         {
-          "id": "t1",
-          "markt": "Bayer Leverkusen Doppelte Chance (X2)",
+          "markt": "Mehr als 2.5 Tore",
           "kategorie": "value",
-          "quote": "~1.55",
           "edge_prozent": 6,
-          "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "Direktduell-Bilanz Leverkusen 25 ungeschlagen aus 26 = ueberragender Edge. Stuttgart mit Pokal-Final-Doppelbelastung in 2 Wochen, koennte rotieren. Leverkusen MIT CL-Quali-Druck = volle Konzentration. DC X2 deckt Sieg + Remis ab. Lesson 26.04. Saisonkontext-Asymmetrie: Stuttgart-Doppelbelastung > Leverkusen single-Fokus. Lt. Bilanz: 'Bayer Leverkusen Sieg' 1/1 / +85% ROI, 'Leverkusen DC X2' 1/1 / +30% ROI — Goldgrube-Pattern. BL +13.5% ROI. Quote ~1.55 fair-edge.",
-          "faire_quote": "~1.46"
+          "begruendung": "Beide Top-4-Mannschaften mit offensiven Stilen (Lev mit Schick in Form, Stuttgart mit Undav/Demirovic). H2H mit hohen Tor-Schnitten (oft 3+). Quote ~1.50 (geschaetzt). VALUE legitim wegen ambivalenten beiden Auflauf-Modi. Lt. Bilanz: Tor-Linien laufen +ROI in Top-Spielen.",
+          "id": "vfb-lev-1",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 0.75,
+          "quote": 1.5
         },
         {
-          "id": "t2",
-          "markt": "Mehr als 2.5 Tore",
+          "markt": "Doppelte Chance Stuttgart oder Unentschieden (1X)",
           "kategorie": "wackel",
-          "quote": "~1.55",
-          "edge_prozent": null,
+          "edge_prozent": 3,
+          "begruendung": "Heim-Vorteil + Pokal-Finale-Konfidenz. Aber Lev mit Schick-Form-Schwung. Quote ~1.55 (geschaetzt). Goldgrube DC 1X (84.6%) aber nicht offensichtliches Klassen-Edge wie BL-Top-vs-Mid. WACKEL wegen Lev-Form.",
+          "id": "vfb-lev-2",
+          "faire_quote": 0,
           "empfohlener_einsatz_prozent": 0.5,
-          "begruendung": "Beide Teams offensiv-stark (Undav/Stiller-Front + Wirtz/Tah-Boniface-Front), Saison-Schnitt jeweils ueber 2.0 Tore/Spiel. Konsens-Markt setzt 2.5 als knappe Linie. Lt. Bilanz: 'Mehr als 2.5 Tore' Bluter (1/2 / -15% ROI) — daher Wackel statt Value. Stuttgart-Heim koennte trotz Pokal-Druck offensiv spielen weil EL-Quali-Notwendigkeit. Quote ~1.55 fair.",
-          "faire_quote": "~1.55"
+          "quote": 1.55
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
-      "id": "2026-05-09-wolfsburg-bayern-bl-33",
-      "datum": "2026-05-09",
-      "anstoss": "2026-05-09T18:30:00+02:00",
+      "id": "2026-05-09-wol-bay",
       "liga": "Bundesliga",
       "heim": "VfL Wolfsburg",
-      "gast": "Bayern Muenchen",
+      "gast": "FC Bayern Muenchen",
+      "anstoss": "2026-05-09T18:30:00+02:00",
       "stadion": "Volkswagen Arena, Wolfsburg",
+      "saison_kontext": {
+        "parallel_heim": "keine",
+        "parallel_gast": "CL-HF-Rueckspiel Mi 06.05. vs PSG (Heim-Comeback nach 4:5) - 3 Tage Pause + DFB-Pokal-Finale 23.05.",
+        "saisonziel_heim": "Klassenerhalt akut (Platz 17, Relegations-Druck)",
+        "saisonziel_gast": "BL-Meister bereits gesichert (Pflicht-Saisonziel erreicht) + DFB-Pokal-Finale + CL-Final-Chance",
+        "motivations_asymmetrie": "ENTSCHEIDENDE LESSON 03.05. (Bayern-Heidenheim 3:3): Top-Team mit gesichertem Meister + CL-HF-Rueckspiel-Pre-Tag UND Underdog im Klassenerhalt = Bayern rotiert massiv (Kompany 7 Wechsel vor PSG-Hinspiel) + Wolfsburg voll motiviert. Plus: Bayern KOMMT vom CL-HF-Rueckspiel (Mi 06.05.) - selbst bei Sieg massiver Erschoepfungs-Druck vor Pokal-Finale 23.05. + ggf. CL-Finale 30.05. = klare Anti-Bayern-Edge",
+        "recovery_heim": "7 Tage seit BL-32 (Augsburg/Hoffenheim Pleiten am 03.05.) - normale Pause",
+        "recovery_gast": "3 Tage nach CL-HF-Rueckspiel (Mi 06.05.) - kurzfristige Pause + emotionaler Comeback-Krimi-Stress",
+        "quellen": [
+          "https://www.bundesliga.com/de/bundesliga/tabelle",
+          "https://www.uefa.com/uefachampionsleague/news/02a4-2065d3ae0765-5221fbc53ae2-1000--champions-league-halbfinale-paarungen-und-termine-bestatigt/",
+          "https://en.wikipedia.org/wiki/2026_DFB-Pokal_final"
+        ]
+      },
       "news": [
-        "Bayern bereits Meister seit 19.04. Wolfsburg 17. Platz im Abstiegskampf.",
-        "Hinspiel-Resultat (Januar 2026): Bayern 8:1 Wolfsburg. Klassen-Demolition.",
-        "Bayern direkt nach CL-HF-Rueckspiel gegen PSG am Mi 6.5 -> ROTATIONSGEFAHR. Falls CL-Aus: Trauer-Modus, falls Final-Erreichung: Schonen vor Final am 30.05.",
-        "Wolfsburg in Backs-against-the-wall-Modus = Klassenerhalt-Druck.",
-        "Saisonkontext: Bayern CL-Doppelbelastung-Modus + Wolfsburg-Klassenerhalt-Motivation = Mainz-Bayern-2026-Pattern moeglicherweise."
+        "Wolfsburg Platz 17 mit Relegations-Druck - akute Klassenerhalts-Sorge",
+        "Bayern nach CL-HF-Rueckspiel Mi 06.05. - Comeback-Spiel-Erschoepfung",
+        "Lesson 03.05.: Bayern-Heidenheim 3:3 endete als 2:0-Insurance-Underdog-Edge - exakt gleiches Muster (Top-Team-Rotation + Klassenerhalts-Underdog)",
+        "Lesson 03.05. Underdog-2:0-Insurance-Edge: aktiv Heim-Underdog-Markt scannen bei Bayern-Rotation",
+        "Quote: Bayern Sieg @ ~1.40 (88.5% lt. Modell), Draw @ ~5.50, Wolfsburg @ ~7.50",
+        "Wolfsburg-DC-1X @ ~3.0 oder Wolfsburg-Sieg @ ~7.5 sind die Edge-Kandidaten per Lesson 03.05.",
+        "bet365-2:0-Insurance GILT bei direktem Wolfsburg-Sieg-Tipp (1.BL!) - bei fruehem 2:0 Insurance-Edge",
+        "Aufstellung Match-Tag-Morgen verifizieren - Kompany rotiert vor CL-Finale extrem"
       ],
       "tipps": [
         {
-          "id": "t1",
-          "markt": "VfL Wolfsburg Doppelte Chance (1X)",
+          "markt": "Doppelte Chance Wolfsburg oder Unentschieden (1X)",
           "kategorie": "value",
-          "quote": "~3.50",
           "edge_prozent": 8,
+          "begruendung": "ZENTRALER LESSON-DRIVEN TIPP: Lesson 03.05. (Bayern-Heidenheim) zeigt: Bayern rotiert mit gesichertem Meister + CL-HF-Druck (vor + nach Rueckspiel), Underdog im Klassenerhalt voll motiviert. Wolfsburg @ 17. EXAKT in dieser Konstellation. Quote ~3.0 fuer DC 1X = massive Edge. Underdog-2:0-Insurance-Edge zusaetzlich (siehe Lesson 03.05. Bayern-Heidenheim 1:3 in 76. - bei 2:0+ vorne kaufst du den Sieg mit Insurance bei direktem Sieg-Tipp). Lt. Bilanz: Lessons-driven Tipps zeigen +ROI wenn Pattern erkannt. VALUE statt SAFE wegen Bayern-Klassen-Edge bleibt vorhanden.",
+          "id": "wol-bay-1",
+          "faire_quote": 0,
           "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "Lesson 26.04. (Mainz-Bayern-Pattern): Bayern mit CL-Doppelbelastung + Champions-rotations-Risiko vs Wolfsburg-Klassenerhalt-Druck = potenzielle Edge. Bayern wird nach CL-Mi-Spiel rotieren ODER mental ablenken. Wolfsburg muss alles geben. DC 1X gibt 2:0-Insurance-Boost: bei 2:0+ HZ-Stand und spaeterer Niederlage trotzdem gewonnen (Bundesliga gilt 2:0-Regel) — ABER nur fuer direkten Sieg-Tipp, nicht DC. Trotzdem: Heim-Edge moeglich. Lt. Bilanz: DC-Markt Goldgrube. Quote ~3.50 wirkt zu hoch fuer Wolfsburg-Heim mit Bayern-Rotation-Setup.",
-          "faire_quote": "~3.20"
+          "quote": 3.0
         },
         {
-          "id": "t2",
-          "markt": "Harry Kane trifft (jederzeit)",
+          "markt": "Mehr als 2.5 Tore",
           "kategorie": "value",
-          "quote": "~1.50",
-          "edge_prozent": 6,
-          "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "Kane Volumen-9er auch bei Bayern-Rotation, weil Bayern-Spitze meist nicht rotiert (Topscorer-Pflichtspielzeit). Wolfsburg-Defense schwach (Hinspiel 8:1 = Defense kollabiert gegen Bayern). Lesson 26.04. Einwechslungs-Boost: Kane in 70. Min raus -> Tel/Jackson rein -> Backup-Tor zaehlt. Quote ~1.50 fair-edge gegen Volumen-Erwartung.",
-          "faire_quote": "~1.42"
+          "edge_prozent": 5,
+          "begruendung": "Bayern-Tor-Maschine (Kane/Olise/Musiala) auch bei Rotation hoehere Tor-Quote. Wolfsburg im Abstiegskampf mit offenen Spielen. H2H ueblicherweise tor-reich. Lt. Bilanz: Tor-Linien laufen +ROI. Quote ~1.40.",
+          "id": "wol-bay-2",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "quote": 1.4
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
-      "id": "2026-05-09-liverpool-chelsea-pl-37",
-      "datum": "2026-05-09",
-      "anstoss": "2026-05-09T16:00:00+01:00",
+      "id": "2026-05-09-liv-che",
       "liga": "Premier League",
-      "heim": "Liverpool",
-      "gast": "Chelsea",
+      "heim": "Liverpool FC",
+      "gast": "Chelsea FC",
+      "anstoss": "2026-05-09T13:30:00+02:00",
       "stadion": "Anfield, Liverpool",
+      "saison_kontext": {
+        "parallel_heim": "keine (Liverpool nicht in CL/EL/FA-Cup-HF)",
+        "parallel_gast": "keine (Chelsea aus EL Round-of-16)",
+        "saisonziel_heim": "CL-Quali (Top-4) - aktuell 16-7-10 mit 55 Pkt, CL-Quali-Quotient hoch (90% laut Anfield)",
+        "saisonziel_gast": "Conference-Quali (Top-7) - 13-9-11 mit 48 Pkt, 5 Pleiten in 6 Spielen Form-Krise",
+        "motivations_asymmetrie": "Beide motiviert (Quali-Sehnsucht). Liverpool Heim-Vorteil + Drei-Sieg-Serie. Chelsea aktuelle Form-Krise = klare Liverpool-Edge",
+        "recovery_heim": "5 Tage seit Liverpool-Crystal-Palace-3:1 (25.04.)? - normale Pause (genauer Spielplan-Check empfohlen)",
+        "recovery_gast": "5 Tage seit Chelsea-Forest 04.05. (PL Mo) - kurze Pause + zweites PL-Spiel binnen 5 Tagen",
+        "quellen": [
+          "https://www.thisisanfield.com/2026/04/liverpool-champions-league-qualification-chelsea-defeat-odds-2026/",
+          "https://polymarket.com/sports/epl/epl-liv-che-2026-05-09",
+          "https://www.premierleague.com/tables"
+        ]
+      },
       "news": [
-        "Liverpool quasi PL-Meister, Saisonziel erreicht. Chelsea 7. Platz mit 48 Pkt — Top-6-EL-Quali-Druck.",
-        "Liverpool 3 PL-Siege in Folge (zuletzt 3:1 vs Crystal Palace 25.04.). Chelsea 3 Niederlagen in Folge ohne Tor.",
-        "Bet365: Liverpool @ ~1.90, Draw @ ~3.75, Chelsea @ ~3.60.",
-        "Polymarket: Liverpool 48% / Draw 42.5% / Chelsea 43.5% (Markt etwas verschoben durch hohe Draw-Quote).",
-        "Saisonkontext: Liverpool ohne Druck + Saison-Auslauf-Modus, Chelsea unter EL-Quali-Druck (Backs-against-the-wall) -> Asymmetrie potenziell zugunsten Chelsea.",
-        "Verletzungen Chelsea: Palmer + Joao Pedro moegliche Comebacks nach Training. Liverpool ohne kritische Ausfaelle gemeldet."
+        "Liverpool 16-7-10 (55 Pkt) - drei PL-Siege in Folge - 90% CL-Quali-Quotient laut This-Is-Anfield",
+        "Chelsea 13-9-11 (48 Pkt) - 5 Pleiten in 6 Spielen, davon 3 ohne Tor",
+        "Polymarket-Trader-Konsens: Liverpool 48% Heim, Draw 42.5%, Chelsea 43.5% (eng)",
+        "Quote: Liverpool Sieg @ ~2.10, DC 1X @ ~1.40, Draw @ ~3.85, Chelsea @ ~3.75",
+        "bet365-2:0-Insurance gilt NICHT (PL nicht erfasst)",
+        "Liverpool ohne Salah/Isak/Alisson laut Routine 03.05. - Backup-Stuermer und Backup-Keeper Risiko",
+        "Aufstellung Match-Tag verifizieren - Slot-Rotation nach 4-Tage-Pause moeglich"
       ],
       "tipps": [
         {
-          "id": "t1",
-          "markt": "Doppelte Chance Chelsea oder Unentschieden (X2)",
+          "markt": "Liverpool oder Unentschieden (1X)",
           "kategorie": "value",
-          "quote": "~1.95",
-          "edge_prozent": 7,
+          "edge_prozent": 5,
+          "begruendung": "Heim-Vorteil + Drei-Sieg-Serie + Chelsea-Form-Krise. Aber: Salah/Isak/Alisson-Ausfall macht den Tipp NICHT SAFE. DC 1X als sichere Variante. Quote ~1.40 verifiziert. Lt. Bilanz: DC 1X Goldgrube (84.6% Hitrate). Polymarket-Konsens 48%+42.5% = ~90.5% fuer 1X.",
+          "id": "liv-che-1",
+          "faire_quote": 0,
           "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "Lesson 26.04. Saisonkontext-Asymmetrie: Liverpool ohne Druck (Meister) + Chelsea unter Top-6-EL-Quali-Druck. Hinspiel-Bilanz: Chelsea zuletzt 2 Direktduelle gewonnen. Stats-Insider sieht Liverpool 54.4% — aber Markt-Implied Liverpool bei 1.90 = 53% ist fair, daher liegt Edge im Asymmetrie-Faktor + Chelsea-Form-Korrektur. Quote ~1.95 fair-edge. Lesson 25.04.: Liverpool-Saison-Auslauf-Modus = Rotation moeglich. Lt. Bilanz: 'Liverpool Sieg' 1/1 / +30% ROI (anderes Spiel). DC-Markt Goldgrube.",
-          "faire_quote": "~1.82"
+          "quote": 1.4
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
-      "id": "2026-05-10-barca-real-laliga-35",
-      "datum": "2026-05-10",
-      "anstoss": "2026-05-10T21:00:00+02:00",
+      "id": "2026-05-09-sun-mun",
+      "liga": "Premier League",
+      "heim": "Sunderland AFC",
+      "gast": "Manchester United",
+      "anstoss": "2026-05-09T16:00:00+02:00",
+      "stadion": "Stadium of Light, Sunderland",
+      "saison_kontext": {
+        "parallel_heim": "keine",
+        "parallel_gast": "keine (United nicht in EL/FA-Cup-HF)",
+        "saisonziel_heim": "Klassenerhalt durch (~Platz 11) - Mid-Table ohne harten Druck (siehe Lesson 03.05. Newcastle-Bounce-Back-Effekt - aber Sunderland ohne aktive Pleiten-Serie)",
+        "saisonziel_gast": "CL-Quali (Top-3 mit 52.5% Polymarket-Konsens) - Pflicht-Punkte fuer Champions-League",
+        "motivations_asymmetrie": "United maximal motiviert (CL-Quali) + Klassen-Edge + 1:0-Sieg gegen Chelsea letzten Spieltag. Sunderland im Auslauf-Modus = Edge fuer United",
+        "recovery_heim": "7 Tage seit BL-Spiel - normale Pause",
+        "recovery_gast": "7 Tage seit BL-Spiel (Chelsea 1:0 Auswaerts) - normale Pause",
+        "quellen": [
+          "https://www.premierleague.com/tables",
+          "https://polymarket.com/sports/epl/epl-sun-mun-2026-05-09",
+          "https://www.manutd.com/en/matches/matchcenter/sunderland-vs-man-utd-match-2562252"
+        ]
+      },
+      "news": [
+        "Sunderland Platz 11 - Saisonziel praktisch erreicht (Klassenerhalt)",
+        "United Platz 3 - 1:0-Sieg gegen Chelsea als Form-Schwung",
+        "Polymarket-Trader-Konsens: United 52.5%, Stake.com Quote: Sunderland 4.00 / Draw 3.75 / United 1.90",
+        "H2H: United historisch starker Auswaerts-Rekord, aber zuletzt knapper",
+        "bet365-2:0-Insurance gilt NICHT (PL nicht erfasst)",
+        "Aufstellung Match-Tag verifizieren - United Kaderbreite intakt"
+      ],
+      "tipps": [
+        {
+          "markt": "Manchester United Sieg",
+          "kategorie": "value",
+          "edge_prozent": 7,
+          "begruendung": "Klassen-Edge (Platz 3 vs 11) + United CL-Quali-Druck + Sunderland-Auslauf-Modus + United-Form (1:0 Chelsea). Quote 1.90 verifiziert via Stake.com. Lesson 03.05. PL-Klassen-Goldgrube bestaetigt: Mid-Table-Heim-Klubs ohne aktive Pleiten-Serie sind nicht automatisch SAFE-Hindernis. United-Edge bleibt klar VALUE.",
+          "id": "sun-mun-1",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 1.0,
+          "quote": 1.9
+        },
+        {
+          "markt": "United oder Unentschieden (X2)",
+          "kategorie": "safe",
+          "edge_prozent": 4,
+          "begruendung": "DC X2 als sichere Variante: United Sieg + Remis = ~85% Hitrate. Quote ~1.30 verifiziert. Lt. Bilanz: DC X2 Goldgrube (77.8% Hitrate, +9.4% ROI). Sunderland-Heim-Form gegen Top-Klubs traditionell schwierig.",
+          "id": "sun-mun-2",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "quote": 1.3
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-05-09-mci-bre",
+      "liga": "Premier League",
+      "heim": "Manchester City",
+      "gast": "Brentford FC",
+      "anstoss": "2026-05-09T18:30:00+02:00",
+      "stadion": "Etihad Stadium, Manchester",
+      "saison_kontext": {
+        "parallel_heim": "FA-Cup-Finale 16.05. vs Chelsea - 7 Tage Pause, kein akuter Druck",
+        "parallel_gast": "keine",
+        "saisonziel_heim": "PL-Titel-Rennen + FA-Cup-Final-Sehnsucht (Platz 2 mit 70 Pkt)",
+        "saisonziel_gast": "Klassenerhalt durch + Mid-Table - 6-Spiele-ungeschlagen-Serie auslaufend",
+        "motivations_asymmetrie": "City maximal motiviert (PL-Titel + FA-Cup-Doppel-Chance), Brentford Saisonziel erreicht. H2H 7/10 fuer City Heim. Klare Edge fuer City",
+        "recovery_heim": "5 Tage seit Mo-Spiel 04.05. (Everton) - kurz nach 90-min-Pflicht aber Pep-Rotation moeglich",
+        "recovery_gast": "7 Tage seit BL-Spiel - normale Pause",
+        "quellen": [
+          "https://www.premierleague.com/tables",
+          "https://polymarket.com/sports/epl/epl-mac-bre-2026-05-09",
+          "https://www.thefa.com/news/2026/apr/22/emirates-fa-cup-final-2026-kick-off-confirmed"
+        ]
+      },
+      "news": [
+        "City Platz 2 mit 70 Pkt - Pep-Druck im Titel-Rennen",
+        "Brentford 6-Spiele-Sieglos-Serie + Verletzungs-Druck (mehrere Schluessel-Spieler aus)",
+        "Polymarket-Konsens: City 62%, Brentford 38%",
+        "Quote: City Sieg @ ~1.40, DC 1X @ ~1.10, Draw @ ~5.00, Brentford @ ~7.50",
+        "H2H 7/10 fuer City Heim - dominanter H2H-Rekord",
+        "FA-Cup-Finale erst 16.05. - wahrscheinlich kein Massiv-Rotations-Risiko"
+      ],
+      "tipps": [
+        {
+          "markt": "Manchester City Sieg",
+          "kategorie": "safe",
+          "edge_prozent": 5,
+          "begruendung": "Klassen-Edge + Heim-Vorteil + H2H 7/10 + Brentford-Form-Krise + Verletzungs-Druck. Quote 1.40 verifiziert via Polymarket-Konsens 62%. Pep-Rotation eher minimal (FA-Cup erst 16.05., 7 Tage entfernt). Lt. Bilanz: PL-Goldgrube (80% Hitrate, +10.7% ROI). bet365-2:0-Insurance gilt NICHT (PL).",
+          "id": "mci-bre-1",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "quote": 1.4
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-05-10-bur-avi",
+      "liga": "Premier League",
+      "heim": "Burnley FC",
+      "gast": "Aston Villa",
+      "anstoss": "2026-05-10T15:00:00+02:00",
+      "stadion": "Turf Moor, Burnley",
+      "saison_kontext": {
+        "parallel_heim": "keine (abgestiegen)",
+        "parallel_gast": "EL-HF-Rueckspiel Do 07.05. vs Forest Heim (Comeback-Pflicht aus 0:1) - 3 Tage Pause vor diesem Spiel",
+        "saisonziel_heim": "Bereits abgestiegen (Platz 19, ~22 Pkt) - reiner Spielbetrieb, KEIN Druck",
+        "saisonziel_gast": "Top-5 PL (CL-Quali-Rennen) + EL-Final-Sehnsucht",
+        "motivations_asymmetrie": "Villa potenziell muede nach EL-HF-Rueckspiel (Top-Team-Rotations-Risiko per Lesson 03.05.), aber Burnley schon abgestiegen = kein Druck/keine Klassen-Edge fuer Heim. Lesson 02.05. PL-Klassen-Goldgrube: Heim-PL-Klub im Klassenerhalt-Endspurt vs abgestiegenes Team = SAFE - aber hier UMGEKEHRT (Heim ist abgestiegen). Lesson 03.05. PL-Klassen-Goldgrube fuer Auswaerts-Top-Klub gegen abgestiegenes Heim ist legitim, ABER Villa-Rotations-Risiko nach EL-HF dampft den Edge",
+        "recovery_heim": "7 Tage seit BL-Spiel (Leeds-Burnley 4:1 Niederlage 01.05.) - normale Pause",
+        "recovery_gast": "3 Tage nach EL-HF-Rueckspiel (Do 07.05.) - kurze Pause + Comeback-Pflicht-Stress",
+        "quellen": [
+          "https://www.premierleague.com/tables",
+          "https://www.uefa.com/uefaeuropaleague/",
+          "https://footballpredictions.com/footballpredictions/premierleaguepredictions/burnley-vs-aston-villa-prediction-10-05-2026/"
+        ]
+      },
+      "news": [
+        "Burnley 19. abgestiegen - kein Druck, kein Saisonziel",
+        "Villa 5. mit EL-HF-Rueckspiel Do 07.05. - Rotations-Druck vor diesem PL-Spiel",
+        "Quote: Villa Sieg @ ~1.62 (bet365 lt. Stats Insider 58%), DC X2 @ ~1.20, Draw @ ~3.90, Burnley @ ~5.25",
+        "H2H 4/5 fuer Villa zuletzt",
+        "bet365-2:0-Insurance gilt NICHT (PL nicht erfasst)",
+        "Lesson 03.05. PL-Klassen-Goldgrube valid fuer Heim-Burnley gegen Auswaerts-Villa, aber Villa-Rotations-Risiko macht SAFE-Tipp WACKELIG"
+      ],
+      "tipps": [
+        {
+          "markt": "Aston Villa oder Unentschieden (X2)",
+          "kategorie": "value",
+          "edge_prozent": 5,
+          "begruendung": "Klassen-Edge gegen abgestiegenes Burnley + Villa Auswaerts-Form (Top-5). Aber Villa-Rotations-Risiko nach EL-HF-Rueckspiel macht SAFE-Tipp WACKELIG (Lesson 03.05. Bayern-Heidenheim Pattern!). DC X2 als Hedge - selbst bei Villa-B-Elf reicht Remis. Quote ~1.20 verifiziert. Lt. Bilanz: DC X2 Goldgrube (77.8% Hitrate, +9.4% ROI). Burnley als reiner Auslauf-Klub ohne Edge-Risiko.",
+          "id": "bur-avi-1",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "quote": 1.2
+        },
+        {
+          "markt": "Aston Villa Sieg",
+          "kategorie": "wackel",
+          "edge_prozent": 3,
+          "begruendung": "Klassen-Edge legitim, ABER Villa-Rotations-Risiko nach EL-HF macht direkten Sieg-Tipp WACKELIG. Lesson 03.05. SAFE-Reality-Check: Top-Team mit europaeischer Doppelbelastung NICHT als SAFE labeln. Quote 1.62 verifiziert.",
+          "id": "bur-avi-2",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "quote": 1.62
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-05-10-whu-ars",
+      "liga": "Premier League",
+      "heim": "West Ham United",
+      "gast": "Arsenal FC",
+      "anstoss": "2026-05-10T17:30:00+02:00",
+      "stadion": "London Stadium, London",
+      "saison_kontext": {
+        "parallel_heim": "keine",
+        "parallel_gast": "CL-HF-Rueckspiel Di 05.05. vs Atletico - 5 Tage Pause vor diesem PL-Spiel",
+        "saisonziel_heim": "Mid-Table (Platz ~17) - Klassenerhalt durch, kein direkter Druck",
+        "saisonziel_gast": "PL-Tabellenfuehrer mit 73 Pkt - Titel-Rennen Endspurt + ggf. CL-Final-Sehnsucht",
+        "motivations_asymmetrie": "Arsenal mit klarer Klassen-Edge + 5 Tage Pause nach CL-HF (gut planbar). Wenn Arsenal CL-Final eingebaut, Rotations-Risiko mittelmaessig. West Ham im Auslauf-Modus",
+        "recovery_heim": "7 Tage seit Tottenham/Premier-Spiel - normale Pause",
+        "recovery_gast": "5 Tage nach CL-HF-Rueckspiel - normale Pause + Heim-Rueckkehr-Boost",
+        "quellen": [
+          "https://www.premierleague.com/tables",
+          "https://polymarket.com/sports/epl/epl-wes-ars-2026-05-10",
+          "https://www.arsenal.com/fixture/arsenal/2026-May-10/west-ham-united"
+        ]
+      },
+      "news": [
+        "Arsenal Tabellenfuehrer mit 73 Pkt + 16 Clean Sheets (PL-Bestmarke)",
+        "Arsenal H2H 22-5 gegen West Ham - dominanter Rekord",
+        "Polymarket-Konsens: Arsenal 59% Auswaerts, Draw 23%, West Ham 18.5%",
+        "Quote: Arsenal Sieg @ ~1.70, DC X2 @ ~1.20, Draw @ ~4.40, West Ham @ ~5.00",
+        "Arsenal-Verletzte: Havertz, Eze, Timber, Merino - Sturm-Druck",
+        "West Ham nur Backup-Keeper Fabianski out, sonst voll",
+        "bet365-2:0-Insurance gilt NICHT (PL nicht erfasst)",
+        "Aufstellung Match-Tag verifizieren - falls Arsenal CL-Final eingebaut, kann Rotation passieren"
+      ],
+      "tipps": [
+        {
+          "markt": "Arsenal oder Unentschieden (X2)",
+          "kategorie": "safe",
+          "edge_prozent": 4,
+          "begruendung": "Klassen-Edge (Tabellenfuehrer vs Mid-Table) + dominanter H2H 22-5 + 16 Clean Sheets. DC X2 als sichere Variante gegen Rotations-Risiko (CL-Final-Vorbereitung). Quote ~1.20 verifiziert. Lt. Bilanz: DC X2 Goldgrube (77.8% Hitrate, +9.4% ROI). Selbst bei Arsenal-B-Elf reicht Remis statistisch ~85%.",
+          "id": "whu-ars-1",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "quote": 1.2
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-05-10-bar-rea",
       "liga": "LaLiga",
       "heim": "FC Barcelona",
       "gast": "Real Madrid",
+      "anstoss": "2026-05-10T21:00:00+02:00",
       "stadion": "Spotify Camp Nou, Barcelona",
+      "saison_kontext": {
+        "parallel_heim": "keine (Barca aus CL-HF nach Round of 16)",
+        "parallel_gast": "keine (Real Madrid seit 15.04. aus CL raus vs Bayern - siehe Lesson 03.05.-Korrektur)",
+        "saisonziel_heim": "LaLiga-Meisterschaft - 9 Pkt Vorsprung auf Real Madrid (Titel-Sicherung mit Sieg moeglich)",
+        "saisonziel_gast": "LaLiga Top-2 + Pokal-Final-Niederlage 18.04. = Frust-Saison",
+        "motivations_asymmetrie": "Barca maximal motiviert (Titel-Sicherung am Sonntag im Heim-Klassiker = Storybook-Ende). Real Madrid mit verlorener Saison + Frust-Modus. Klare Edge fuer Barca aus Motivation + Heim-Vorteil + 14-Spiele-Heim-Sieg-Serie",
+        "recovery_heim": "7 Tage seit Espanyol-Spiel 03.05. - normale Pause",
+        "recovery_gast": "7 Tage seit LaLiga-Spiel - normale Pause + Frust-Modus seit Pokal-Final-Niederlage",
+        "quellen": [
+          "https://www.fcbarcelona.com/en/matches/127604/fc-barcelona-real-madrid-la-liga-2025-2026",
+          "https://www.cbssports.com/soccer/news/el-clasico-2026-preview-barcelona-real-madrid-odds-how-to-watch-live-stream/",
+          "https://en.wikipedia.org/wiki/2026_Copa_del_Rey_final"
+        ]
+      },
       "news": [
-        "EL CLASICO. Barca 11 Pkt Vorsprung mit 5 Spielen Restprogramm — bei Sieg wahrscheinlich Meister-Kroenung im eigenen Stadion.",
-        "Bet365: Barcelona @ ~1.75, Draw @ ~4.20, Real Madrid @ ~3.60.",
-        "Polymarket: 50% / 50% / 50% (Coinflip-Pricing). Stats-Insider-Modell: Barca 53.4% / Real 25.9% / Draw 20.7%.",
-        "Real Madrid Verletzungen: Courtois (Quad), Militao + Arda Gueler (Hamstring saisonende). Barca: Yamal + Raphinha (Hamstring) raus.",
-        "Saisonkontext: Beide ohne CL-Druck (raus). Barca mit Meister-Motivation, Real auf Verfolger-Posten ohne Liga-Chance. Klare Asymmetrie zugunsten Barca."
+        "El Clasico am Sonntag 21:00 in Camp Nou - moeglicher Meister-Showdown",
+        "Barca 14-Spiele-Heim-Sieg-Serie ueber alle Wettbewerbe (seit November)",
+        "Barca 9 Pkt Vorsprung auf Real - Sieg = Meister",
+        "Real Madrid CL-Aus seit 15.04. + Pokal-Final-Niederlage 18.04. = Frust-Saison",
+        "Real Madrid hat noch Madrid-Derby-Druck wegen Pokal-Niederlage",
+        "Quote (geschaetzt): Barca Sieg @ ~1.85, DC 1X @ ~1.30, Draw @ ~3.85, Real @ ~4.00",
+        "bet365-2:0-Insurance gilt NICHT (LaLiga nicht erfasst, nur 1.BL+CL)",
+        "Quoten als ~ markiert da nicht voll verifiziert",
+        "Lt. Bilanz: LaLiga 68.8% Hitrate, -2.1% ROI (knapp negativ aber stabil)"
       ],
       "tipps": [
         {
-          "id": "t1",
-          "markt": "FC Barcelona Doppelte Chance (1X)",
-          "kategorie": "safe",
-          "quote": "~1.30",
-          "edge_prozent": 4,
-          "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "Lesson 25.04. SAFE-Reality-Check: Klare Klassen-Asymmetrie (11 Pkt-Vorsprung, Real ohne 3 Stars Courtois/Militao/Gueler), Top-Scorer Lewandowski/Pedri-Front fit, KEIN Backs-against-the-wall-Underdog (Real ohne Liga-Chance = nur Stolz). Real auf Auswaerts-Reise nach langer Saison + ohne Kern-Defense. Barca-Heim mit Meister-Krönung-Druck = volle Konzentration. DC 1X deckt Sieg + Remis = ~78% implizit (Quote 1.30). Lt. Bilanz: 'Barcelona DC X2' 1/1 / +20% ROI (anderes Spiel), 'Real Madrid DC X2' 1/1 / +35% ROI — DC-Markt Goldgrube. LaLiga -4.6% ROI als Markt-Warnung, ABER Clasico-Setting mit Stars-Asymmetrie ueberschreibt das.",
-          "faire_quote": "~1.25"
-        },
-        {
-          "id": "t2",
-          "markt": "Mehr als 2.5 Tore",
-          "kategorie": "value",
-          "quote": "~1.55",
+          "markt": "FC Barcelona oder Unentschieden (1X)",
+          "kategorie": "wackel",
           "edge_prozent": 6,
+          "begruendung": "Heim-Vorteil + 14-Spiele-Heim-Sieg-Serie + Titel-Sicherungs-Motivation + Real-Frust-Modus. DC 1X als Hedge gegen direktem Sieg-Tipp-Risiko (El-Clasico-Outsider-Faktor immer da). Quote ~1.30 (geschaetzt). Lt. Bilanz: DC 1X Goldgrube (84.6% Hitrate). VALUE statt SAFE wegen LaLiga-ROI-Wackel und El-Clasico-Unsicherheit.",
+          "id": "bar-rea-1",
+          "faire_quote": 0,
           "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "Clasico statistisch hochkalibrig: letzte 10 Direktduelle Schnitt 3.4 Tore. Barca-Front (Lewandowski + Pedri + Olmo) gegen Real ohne Stars-Defense (Militao raus, Courtois raus) = potenzieller Tor-Festival. Real muss aufmachen weil Auswaerts-Druck + Saison-Bilanz-Pflege. Quote ~1.55 fair-edge. Lt. Bilanz: 'Mehr als 2.5 Tore' allgemein Bluter (1/2 / -15% ROI), aber Clasico-Setting unterschiedlich.",
-          "faire_quote": "~1.45"
+          "quote": 1.3
         },
         {
-          "id": "t3",
-          "markt": "Beide Teams treffen: JA",
+          "markt": "Mehr als 2.5 Tore",
           "kategorie": "wackel",
-          "quote": "~1.55",
-          "edge_prozent": null,
+          "edge_prozent": 3,
+          "begruendung": "El Clasico Tor-Tradition (Mbappe/Vinicius/Lewandowski/Yamal). Aber Real Madrid mit Frust-Modus kann sich vorm Schock einigeln (defensiv-Modus). H2H Saisonfreuund mit oft 3+ Toren. Quote ~1.50 (geschaetzt). WACKEL statt VALUE wegen Real-Defensiv-Modus-Risiko.",
+          "id": "bar-rea-2",
+          "faire_quote": 0,
           "empfohlener_einsatz_prozent": 0.5,
-          "begruendung": "Real schiesst auch ohne Stars (Mbappe + Vinicius + Bellingham), Barca trifft fast immer zuhause. Lt. Bilanz: 'Beide Teams treffen: JA' Bluter (1/3 / -43% ROI) — daher Wackel statt Value. Risiko: Real koennte taktisch defensiv 0:1/0:2 verlieren ohne zu treffen.",
-          "faire_quote": "~1.55"
+          "quote": 1.5
         }
-      ]
+      ],
+      "kontext_check_status": "WARN_QUELLE"
     },
     {
-      "id": "2026-05-04-spurs-wolves-g1",
-      "datum": "2026-05-04",
-      "anstoss": "2026-05-05T01:30:00+02:00",
-      "liga": "NBA Playoffs Round 2, Game 1",
-      "heim": "San Antonio Spurs",
-      "gast": "Minnesota Timberwolves",
-      "stadion": "Frost Bank Center, San Antonio",
+      "id": "2026-05-04-nyk-phi-g1",
+      "liga": "NBA Playoffs Halbfinale Conference",
+      "heim": "New York Knicks",
+      "gast": "Philadelphia 76ers",
+      "anstoss": "2026-05-05T02:00:00+02:00",
+      "stadion": "Madison Square Garden, New York",
+      "saison_kontext": {
+        "parallel_heim": "Conference-Halbfinal-Serie best-of-7 vs 76ers (G1)",
+        "parallel_gast": "Conference-Halbfinal-Serie best-of-7 vs Knicks (G1)",
+        "saisonziel_heim": "NBA-Finals-Sehnsucht - East-Top-Seed (~Platz 1-2)",
+        "saisonziel_gast": "NBA-Finals nach 4-1-Comeback gegen Celtics in Round 1 (Embiid-Comeback-Story)",
+        "motivations_asymmetrie": "Knicks Heim-Vorteil + Top-Seed + voll erholt. 76ers nach Embiid-Comeback im Hochformat. Beide maximal motiviert. Lesson 28.04. Embiid-Falle aktiv: Embiid-Status Match-Tag verifizieren!",
+        "recovery_heim": "Knicks-Series 4-1 vs Hawks abgeschlossen ~28.04. - 6 Tage Pause",
+        "recovery_gast": "76ers-Series 4-3 vs Celtics abgeschlossen ~03.05. - 1 Tag Pause = kurz",
+        "quellen": [
+          "https://www.nba.com/playoffs/2026/east-semifinal-2",
+          "https://dknetwork.draftkings.com/2026/05/02/opening-odds-for-knicks-vs-76ers-game-1-in-2026-nba-playoffs-second-round/",
+          "https://www.cbssports.com/nba/news/2026-nba-playoff-bracket-matchups-schedule/"
+        ]
+      },
       "news": [
-        "Spurs nach starker R1-Performance. Wolves OHNE Edwards (Verletzung in R1) + DiVincenzo, McDaniels (32+10 G6) und Gobert tragen Defense.",
-        "Lesson 01.05. Star-Out-These-Korrektur: Wolves OHNE Edwards gewannen G6 vs Nuggets — Defense-System (Gobert/McDaniels) hat ueberbrueckt. Aber Spurs-Heim mit voller Aufstellung diesmal andere Dynamik.",
-        "Saisonkontext: Spurs Heim-Vorteil G1, Wolves muss lange Reise (von Denver-Closeout) zu Texas + ohne Star-Boost.",
-        "Lesson 25.04. NBA-Player-Punkte-Boykott: KEINE Player-Punkte-Tipps mehr."
+        "Knicks G1 Heim am 04.05. 20:00 ET (= 02:00 Berlin Mo->Di)",
+        "Quote: Knicks Spread -5.5 (DraftKings) bzw -7.5 (FanDuel), Moneyline -218",
+        "Series-Quote: Knicks -260 fuer Serie",
+        "Over/Under: 212.5",
+        "Embiid-Comeback aus Round 1 (Lesson 28.04.) - Match-Tag-Roster-Check Pflicht",
+        "76ers nach 7 Spielen vs Celtics ermuedet, Knicks 6 Tage erholt",
+        "Lt. Bilanz: NBA-Player-Punkte BLUTER (boykottiert) - keine Player-Stats-Tipps",
+        "NBA-Halbfinale ist NEUE Wettbewerbs-Kategorie ohne Bilanz-Daten = vorsichtige Tipps"
       ],
       "tipps": [
         {
-          "id": "t1",
-          "markt": "San Antonio Spurs Sieg (Moneyline)",
-          "kategorie": "value",
-          "quote": "~1.65",
-          "edge_prozent": 5,
-          "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "Spurs-Heim G1, Wolves auswaerts ohne Edwards/DiVincenzo + nach langer Reise. Wembanyama-Form aktuell stark. Lesson 25.04. SAFE-Reality-Check: NICHT als SAFE wegen NBA-Playoff-Varianz (Lesson 22.04.) + Wolves haben empirisch G1-Auswaerts-Edge ueber Defense-System gewonnen (Lesson 01.05.). Daher VALUE. Quote ~1.65 fair-edge. Lt. Bilanz: 'Spurs Sieg (Moneyline)' 1/1 / +10% ROI. NBA Playoffs Round 2 noch ohne Bilanz, Round 1 war R1G4 100% / +73% ROI.",
-          "faire_quote": "~1.55"
-        },
-        {
-          "id": "t2",
-          "markt": "Unter 215.5 Punkte (Total)",
-          "kategorie": "value",
-          "quote": "~1.90",
-          "edge_prozent": 7,
-          "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "Lesson 30.04. NBA-Unter-Goldgrube (4/6 = 66.7% / +91% ROI im Markt), aber mit Praezisierung: NICHT bei beidseitig 30+-Star-Vs-Star. Dies hier ist Spurs (Wembanyama als 1-Mann-Star, kein 2nd 25+-PPG-Spieler) vs Wolves OHNE Edwards = klassische Defense-vs-Defense-Konstellation. Wolves mit Gobert + McDaniels-Defense + Spurs mit Wembanyama-Block + Wolves muede nach Denver-Closeout = Pace-druecker. Quote ~1.90 fair-edge. Lt. Bilanz: 'Unter 215.5 Punkte (Total)' 1/1 / +91% ROI — Goldgrube-Pattern bestaetigt sich.",
-          "faire_quote": "~1.78"
+          "markt": "New York Knicks Sieg",
+          "kategorie": "wackel",
+          "edge_prozent": 4,
+          "begruendung": "Heim-Vorteil + Top-Seed + 6 Tage Pause vs 76ers nach 7-Spiele-Serie + Embiid-Erschoepfungs-Risiko. Spread -5.5 = mehr als ein Score Edge. Quote Moneyline ~1.45 (-218). VALUE statt SAFE wegen Embiid-Comeback-Form-Unsicherheit (Lesson 28.04. + 30.04. - Closeout-These nicht uebertreiben). Lt. Bilanz: NBA Round 1 verlor in Goldgrube - hier Halbfinale ist anderer Wettbewerb-Typ. NBA-Player-Stats boykottiert (Lesson 26.04.) - nur Spielergebnis-Markete.",
+          "id": "nyk-phi-1",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 0.75,
+          "quote": 1.45
         }
-      ]
+      ],
+      "kontext_check_status": "WARN_QUELLE"
     },
     {
-      "id": "2026-05-06-spurs-wolves-g2",
-      "datum": "2026-05-06",
-      "anstoss": "2026-05-07T01:30:00+02:00",
-      "liga": "NBA Playoffs Round 2, Game 2",
-      "heim": "San Antonio Spurs",
-      "gast": "Minnesota Timberwolves",
-      "stadion": "Frost Bank Center, San Antonio",
+      "id": "2026-05-10-cry-eve",
+      "liga": "Premier League",
+      "heim": "Crystal Palace",
+      "gast": "Everton FC",
+      "anstoss": "2026-05-10T15:00:00+02:00",
+      "stadion": "Selhurst Park, London",
+      "saison_kontext": {
+        "parallel_heim": "Conference-League-HF-Rueckspiel Do 07.05. vs Shakhtar - 3 Tage Pause vor diesem PL-Spiel + Conf-Final-Ambition",
+        "parallel_gast": "keine",
+        "saisonziel_heim": "Mid-Table (~Platz 13, 43 Pkt) - Klassenerhalt durch + Conf-League-Final-Chance",
+        "saisonziel_gast": "Mid-Table (~Platz 11, 47 Pkt) - Klassenerhalt durch, kein direkter Druck",
+        "motivations_asymmetrie": "CP nach Conf-HF-Rueckspiel ggf. erschoepft (Top-Team-Rotations-Risiko per Lesson 03.05.). Beide Teams Saisonziel-erreicht = Coinflip-Charakter. Polymarket 49.5% Everton, 49.5% Palace = totaler Coinflip",
+        "recovery_heim": "3 Tage nach Conf-HF-Rueckspiel - kurze Pause + emotionaler Stress",
+        "recovery_gast": "6 Tage seit BL-Spiel - normale Pause",
+        "quellen": [
+          "https://www.premierleague.com/tables",
+          "https://polymarket.com/sports/epl/epl-cry-eve-2026-05-10",
+          "https://www.cpfc.co.uk/matches/men/epl/2025-26/crystal-palace-vs-everton-2026-05-10/2562247/"
+        ]
+      },
       "news": [
-        "G2 abhaengig von G1-Outcome. Wenn Spurs G1 gewinnt: 1-0-Spurs-Lead, Wolves unter Druck. Wenn Wolves G1 gewinnt: 0-1-Spurs-Lead, Spurs muessen reagieren.",
-        "G2-Adjustments oft entscheidend — Lesson 23.04. Pattern: G2-Verlierer korrigiert in G3.",
-        "Lesson 25.04. NBA-Player-Punkte-Boykott."
+        "CP Verletzungen: Nketiah (Saison out), Guessand (Knie)",
+        "Everton: Beto (Concussion), Branthwaite (Hamstring) - Sturm-Personal-Druck",
+        "Polymarket-Konsens: Everton 49.5%, CP 49.5% = totaler Coinflip",
+        "Quote: ~CP @ ~2.50, Draw @ ~3.30, Everton @ ~2.85",
+        "bet365-2:0-Insurance gilt NICHT (PL nicht erfasst)",
+        "Coinflip-Charakter = Coinflip-Spiel-Empfehlung Ueberspringen aus CLAUDE.md"
       ],
-      "tipps": [
-        {
-          "id": "t1",
-          "markt": "Unter 215.5 Punkte (Total)",
-          "kategorie": "wackel",
-          "quote": "~1.85",
-          "edge_prozent": null,
-          "empfohlener_einsatz_prozent": 0.5,
-          "begruendung": "Quoten-Volatilitaet 5 Tage vor Anstoss + abhaengig von G1-Outcome. Konstellation Spurs-Wolves bleibt aber Defense-lastig. Lesson 30.04. Unter-Goldgrube. Wackel weil G2-Pricing erst nach G1-Spielzeit kalibriert wird. Lt. Bilanz: 'Unter 215.5 Punkte (Total)' 1/1 / +91%.",
-          "faire_quote": "~1.85"
-        }
-      ]
+      "tipps": [],
+      "kontext_check_status": "OK"
     }
   ],
   "einzeltipps": [
     {
-      "id": "e1",
-      "rang": 1,
-      "spiel_id": "2026-05-07-cp-shakhtar-cf-hf-rueck",
-      "tipp_id": "t1",
-      "markt": "Crystal Palace Doppelte Chance (1X)",
-      "kategorie": "safe",
-      "quote": "~1.18",
-      "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "SAFE-Top-Pick der Woche. Conference-Goldgrube-Lesson (4/4 = 100% / +69.5% ROI) + 2-Tor-Hinspiel-Polster + PL-Klassen-Edge gegen UPL-Vertreter + Heim-Vorteil. Niedrigste-Risiko-Konstellation der Woche. Bilanz: Crystal Palace Sieg 1/1 / +104% ROI bestaetigt Edge. Quote 1.18 = ~85% impl, real ~92-95%."
-    },
-    {
-      "id": "e2",
-      "rang": 2,
-      "spiel_id": "2026-05-07-cp-shakhtar-cf-hf-rueck",
-      "tipp_id": "t2",
-      "markt": "Crystal Palace weiter (inkl. Verlaengerung/Elfmeter)",
-      "kategorie": "safe",
-      "quote": "~1.22",
-      "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Aufstiegs-Markt: 2-Tor-Polster + Heim = Aufstieg fast garantiert (Shakhtar muesste 3+ Tore Differenz schaffen). Conference-Goldgrube. Bilanz: 'Stuttgart weiter' Markt-Pattern 1/1 / +55% ROI. SAFE legitim."
-    },
-    {
-      "id": "e3",
-      "rang": 3,
-      "spiel_id": "2026-05-08-dortmund-frankfurt-bl-33",
-      "tipp_id": "t1",
-      "markt": "Borussia Dortmund Doppelte Chance (1X)",
-      "kategorie": "safe",
-      "quote": "~1.20",
-      "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Dortmund 8 Spiele unbesiegt + Heim-Vorteil + Frankfurt mit Auswaerts-Schwaeche. Bundesliga +13.5% ROI (Goldgrube-Liga). Bilanz: 'Borussia Dortmund Sieg' 1/1 / +43% ROI. SAFE legitim."
-    },
-    {
-      "id": "e4",
-      "rang": 4,
-      "spiel_id": "2026-05-10-barca-real-laliga-35",
-      "tipp_id": "t1",
-      "markt": "FC Barcelona Doppelte Chance (1X)",
-      "kategorie": "safe",
-      "quote": "~1.30",
-      "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Clasico mit Real-Stars-Asymmetrie (Courtois/Militao/Gueler raus) + Barca-Heim + Meister-Motivation. SAFE-Reality-Check erfuellt: Klassen-Asymmetrie + KEIN Backs-against-the-wall-Real (ohne Liga-Chance, kein Druck). Bilanz: DC-Markt Goldgrube allgemein."
-    },
-    {
-      "id": "e5",
-      "rang": 5,
-      "spiel_id": "2026-05-06-bayern-psg-cl-hf-rueck",
-      "tipp_id": "t1",
-      "markt": "Beide Teams treffen: JA",
+      "id": "ein-01",
+      "spiel": "Arsenal vs Atletico Madrid (CL HF Rueckspiel, Di 05.05. 21:00)",
+      "markt": "Arsenal Sieg",
       "kategorie": "value",
-      "quote": "~1.45",
-      "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Melvis Hauptthese 1: Bayern muss aufholen, PSG kontert mit Dembele-Front. Hinspiel 5:4 zeigt Defense-Schwachstellen beidseitig. Quote ~1.45 vs faire ~1.34. Bilanz: BTTS allgemein Bluter (-43%), aber CL-Rueckspiel-Aufholmodus ist andere Konstellation."
+      "quote": 1.85,
+      "edge_prozent": 7,
+      "begruendung": "Arsenal Heim-Vorteil + Auswaerts-Tor aus 1:1-Hinspiel + unbeaten in CL-Saison + Supercomputer 72% fuer Final-Quali. NICHT SAFE wegen Sturm-Verletzungs-Druck (Havertz/Eze/Timber/Merino out). bet365-2:0-Insurance gilt fuer CL-Sieg-Tipp = Bonus-Edge. Quote 1.85 verifiziert via Polymarket-Konsens. Lt. Bilanz: CL HF Goldgrube (100% Hitrate / +92.5% ROI in 2 Tipps).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "spiel_id": "2026-05-05-ars-atm",
+      "rang": 1
     },
     {
-      "id": "e6",
-      "rang": 6,
-      "spiel_id": "2026-05-06-bayern-psg-cl-hf-rueck",
-      "tipp_id": "t2",
+      "id": "ein-02",
+      "spiel": "Bayern Muenchen vs PSG (CL HF Rueckspiel, Mi 06.05. 21:00)",
       "markt": "Mehr als 2.5 Tore",
-      "kategorie": "value",
-      "quote": "~1.40",
+      "kategorie": "safe",
+      "quote": 1.4,
+      "edge_prozent": 6,
+      "begruendung": "Hinspiel 9 Tore (5:4 PSG) + Bayern muss zwingend Tor erzielen + PSG offensiv bleibt + beide CL-Top-3-Offensiven (38 Tore beide). Nicht betroffen vom HF-Hinspiel-Tor-Wackler (Lesson 01.05.) - hier Rueckspiel mit Comeback-Pflicht. Quote ~1.40 verifiziert.",
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Melvis Hauptthese 2: Hinspiel 9 Tore + Aufholdruck Bayern-Heim. Konsens-Markt setzt Linie schon auf 3.5. Polymarket-Sim sieht 3.8 Tore Erwartung. Quote ~1.40 vs faire ~1.30."
+      "spiel_id": "2026-05-06-bay-psg",
+      "rang": 2
     },
     {
-      "id": "e7",
-      "rang": 7,
-      "spiel_id": "2026-05-05-arsenal-atletico-cl-hf-rueck",
-      "tipp_id": "t1",
-      "markt": "Doppelte Chance Atletico oder Unentschieden (X2)",
-      "kategorie": "value",
-      "quote": "~2.20",
+      "id": "ein-03",
+      "spiel": "Manchester City vs Brentford (PL, Sa 09.05. 18:30)",
+      "markt": "Manchester City Sieg",
+      "kategorie": "safe",
+      "quote": 1.4,
+      "edge_prozent": 5,
+      "begruendung": "Klassen-Edge + Heim + H2H 7/10 + Brentford-Form-Krise + Verletzungs-Druck. Pep-Rotation minimal (FA-Cup-Final erst 16.05., 7 Tage Pause). Polymarket 62%. Lt. Bilanz: PL Goldgrube (80% / +10.7% ROI).",
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Melvis Wunsch-Tipp: Atletico hatte Hinspiel-Heimrecht + 1:1 mit Auswaertstor-Effekt. Ein Remis im Emirates reicht zur Verlaengerung. Simeones taktischer Block ist auf solche Konstellationen gebaut. Quote ~2.20 vs faire ~2.05 = Edge. Bilanz: DC-Markt Goldgrube."
+      "spiel_id": "2026-05-09-mci-bre",
+      "rang": 3
     },
     {
-      "id": "e8",
-      "rang": 8,
-      "spiel_id": "2026-05-07-strasbourg-rayo-cf-hf-rueck",
-      "tipp_id": "t1",
-      "markt": "Rayo Vallecano Doppelte Chance (X2)",
-      "kategorie": "value",
-      "quote": "~1.55",
+      "id": "ein-04",
+      "spiel": "Everton vs Manchester City (PL, Mo 04.05. 21:00)",
+      "markt": "Manchester City Sieg",
+      "kategorie": "safe",
+      "quote": 1.51,
+      "edge_prozent": 6,
+      "begruendung": "Klare Klassendifferenz (Platz 2 vs 11), keine Doppelbelastung bei City (FA-Cup-Final erst 16.05., 12 Tage Pause). Everton im Auslauf-Modus. H2H 7/10 fuer City. Quote 1.51 verifiziert via SportsGambler. Lt. Bilanz: PL Goldgrube.",
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Melvis 'Braga oder X'-Variante als Conference-Pendant: Rayo (LaLiga vs Ligue 1) hat Hinspiel-Polster + Conference-Goldgrube-Pattern. Bilanz: 'Rayo Vallecano DC 1X' 2/2 / +30% ROI, 'Rayo Sieg' 1/1 / +114% ROI. Quote ~1.55 fair-edge."
+      "spiel_id": "2026-05-04-eve-mci",
+      "rang": 4
     },
     {
-      "id": "e9",
-      "rang": 9,
-      "spiel_id": "2026-05-07-villa-forest-el-hf-rueck",
-      "tipp_id": "t2",
-      "markt": "Aston Villa weiter (Aufstieg ins Finale)",
+      "id": "ein-05",
+      "spiel": "Sunderland vs Manchester United (PL, Sa 09.05. 16:00)",
+      "markt": "Manchester United Sieg",
       "kategorie": "value",
-      "quote": "~1.55",
+      "quote": 1.9,
+      "edge_prozent": 7,
+      "begruendung": "Klassen-Edge (3 vs 11) + United CL-Quali-Druck + Sunderland-Auslauf-Modus + United-Form (1:0 vs Chelsea). Lesson 03.05.: Sunderland keine aktive Pleiten-Serie = kein Bounce-Back-Effekt. Quote 1.90 verifiziert via Stake.com.",
       "empfohlener_einsatz_prozent": 1.0,
-      "begruendung": "To-Qualify-Markt-Favorit @ 4/7. Villa-Heim + 1-Tor-Hinspiel-Rueckstand sehr aufholbar. Lesson 01.05. EL-Markt: 60% Hitrate. Quote ~1.55 fair-edge."
+      "spiel_id": "2026-05-09-sun-mun",
+      "rang": 5
     },
     {
-      "id": "e10",
-      "rang": 10,
-      "spiel_id": "2026-05-09-stuttgart-leverkusen-bl-33",
-      "tipp_id": "t1",
-      "markt": "Bayer Leverkusen Doppelte Chance (X2)",
+      "id": "ein-06",
+      "spiel": "Burnley vs Aston Villa (PL, So 10.05. 15:00)",
+      "markt": "Aston Villa oder Unentschieden (X2)",
       "kategorie": "value",
-      "quote": "~1.55",
-      "empfohlener_einsatz_prozent": 1.0,
-      "begruendung": "Direktduell-Bilanz Leverkusen 25 ungeschlagen aus 26 + Stuttgart-Pokal-Final-Doppelbelastung. Bilanz: 'Bayer Leverkusen Sieg' 1/1 / +85% ROI."
+      "quote": 1.2,
+      "edge_prozent": 5,
+      "begruendung": "Klassen-Edge gegen abgestiegenes Burnley + Villa Auswaerts-Form (Top-5). Aber Villa-Rotations-Risiko nach EL-HF-Rueckspiel macht direkten Sieg WACKELIG (Lesson 03.05. SAFE-Reality-Check). DC X2 als Hedge - selbst bei Villa-B-Elf reicht Remis. Lt. Bilanz: DC X2 Goldgrube (77.8% / +9.4%).",
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_id": "2026-05-10-bur-avi",
+      "rang": 6
     },
     {
-      "id": "e11",
-      "rang": 11,
-      "spiel_id": "2026-05-04-spurs-wolves-g1",
-      "tipp_id": "t2",
-      "markt": "Unter 215.5 Punkte (Total)",
-      "kategorie": "value",
-      "quote": "~1.90",
-      "empfohlener_einsatz_prozent": 1.0,
-      "begruendung": "Lesson 30.04. NBA-Unter-Goldgrube ohne 30+-Star-vs-Star. Spurs-Wolves Defense-vs-Defense Konstellation (Wolves ohne Edwards). Bilanz: 'Unter 215.5 Punkte (Total)' 1/1 / +91% ROI."
+      "id": "ein-07",
+      "spiel": "West Ham vs Arsenal (PL, So 10.05. 17:30)",
+      "markt": "Arsenal oder Unentschieden (X2)",
+      "kategorie": "safe",
+      "quote": 1.2,
+      "edge_prozent": 4,
+      "begruendung": "Klassen-Edge (Tabellenfuehrer vs Mid-Table) + dominanter H2H 22-5 + 16 Clean Sheets. DC X2 als Hedge gegen Rotations-Risiko (CL-Final-Vorbereitung Arsenal). Quote ~1.20 verifiziert. Lt. Bilanz: DC X2 Goldgrube.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_id": "2026-05-10-whu-ars",
+      "rang": 7
     },
     {
-      "id": "e12",
-      "rang": 12,
-      "spiel_id": "2026-05-04-spurs-wolves-g1",
-      "tipp_id": "t1",
-      "markt": "San Antonio Spurs Sieg (Moneyline)",
+      "id": "ein-08",
+      "spiel": "BVB vs Eintracht Frankfurt (BL 33, Fr 08.05. 20:30)",
+      "markt": "Borussia Dortmund Sieg",
       "kategorie": "value",
-      "quote": "~1.65",
+      "quote": 1.85,
+      "edge_prozent": 7,
+      "begruendung": "Klassen-Edge (Platz 2 vs 7) + Heim + keine UEFA-Doppelbelastung beim BVB. Frankfurt mit Auswaerts-Form-Wackel (1:2 Heim vs HSV am 02.05.). bet365-2:0-Insurance GILT bei BL-Sieg-Tipp = Bonus-Edge. Lt. Bilanz: BVB-Sieg historisch 100% (1/1 +43%) aus 03.05.-Datei.",
       "empfohlener_einsatz_prozent": 1.0,
-      "begruendung": "Spurs-Heim G1 + Wolves muede + ohne Edwards. Bilanz: 'Spurs Sieg (Moneyline)' 1/1 / +10% ROI. Wackel-Value-Grenze, bewusst Value wegen Heim-Edge."
+      "spiel_id": "2026-05-08-bvb-fra",
+      "rang": 8
+    },
+    {
+      "id": "ein-09",
+      "spiel": "Wolfsburg vs Bayern (BL 33, Sa 09.05. 18:30)",
+      "markt": "Doppelte Chance Wolfsburg oder Unentschieden (1X)",
+      "kategorie": "value",
+      "quote": 3.0,
+      "edge_prozent": 8,
+      "begruendung": "ZENTRALER LESSON-DRIVEN TIPP: Lesson 03.05. (Bayern-Heidenheim 3:3) zeigt: Bayern-Meister rotiert vor + nach CL-HF-Rueckspiel + Pokal-Final. Wolfsburg @ Platz 17 mit Klassenerhalts-Druck = exakt gleiche Konstellation. Underdog-2:0-Insurance-Edge zusaetzlich. Quote ~3.0 fuer DC 1X = massive Edge auf Heim-Underdog mit Pflichtsieg-Druck. Lt. Bilanz: Lessons-driven Tipps zeigen +ROI wenn Pattern erkannt.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "spiel_id": "2026-05-09-wol-bay",
+      "rang": 9
+    },
+    {
+      "id": "ein-10",
+      "spiel": "Liverpool vs Chelsea (PL, Sa 09.05. 13:30)",
+      "markt": "Liverpool oder Unentschieden (1X)",
+      "kategorie": "value",
+      "quote": 1.4,
+      "edge_prozent": 5,
+      "begruendung": "Heim + Drei-Sieg-Serie + Chelsea-Form-Krise (5 Pleiten in 6). Salah/Isak/Alisson-Ausfall macht Sieg-Tipp NICHT SAFE. DC 1X als sichere Variante. Polymarket 90.5% fuer 1X. Lt. Bilanz: DC 1X Goldgrube #1 (84.6% / +9.5%).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "spiel_id": "2026-05-09-liv-che",
+      "rang": 10
     }
   ],
   "kombis": [
     {
-      "id": "kombi-w19-safe",
-      "name": "Safe-Kombi (4 Beine)",
+      "id": "kombi-safe",
+      "name": "Safe-Kombi (DC + Total Hedge)",
       "kategorie": "safe",
-      "beine": [
-        {
-          "spiel_id": "2026-05-07-cp-shakhtar-cf-hf-rueck",
-          "tipp_id": "t1",
-          "markt": "Crystal Palace Doppelte Chance (1X)",
-          "quote": 1.18
-        },
-        {
-          "spiel_id": "2026-05-08-dortmund-frankfurt-bl-33",
-          "tipp_id": "t1",
-          "markt": "Borussia Dortmund Doppelte Chance (1X)",
-          "quote": 1.2
-        },
-        {
-          "spiel_id": "2026-05-10-barca-real-laliga-35",
-          "tipp_id": "t1",
-          "markt": "FC Barcelona Doppelte Chance (1X)",
-          "quote": 1.3
-        },
-        {
-          "spiel_id": "2026-05-05-arsenal-atletico-cl-hf-rueck",
-          "tipp_id": "t1",
-          "markt": "Doppelte Chance Atletico oder Unentschieden (X2)",
-          "quote": 2.2
-        }
-      ],
-      "gesamtquote": 4.05,
-      "rechnung": "1.18 × 1.20 × 1.30 × 2.20 = 4.05",
+      "ziel_quote_range": "3-5x (untere Range, dafuer hoeherer Erwartungswert)",
+      "gesamtquote": 3.61,
       "empfohlener_einsatz_prozent": 0.5,
-      "begruendung": "4 reine Sieg-Outcome-Beine (DC-Maerkte), Layer-1 + Layer-2 erfuellt: alle 4 verschiedene Spiele + alle DC = Sieg-Outcome bleibt nur in DIESER Kombi. Crystal Palace Conference-Goldgrube + Dortmund-Heim-SAFE + Barca Clasico-SAFE + Atletico DC X2 als Melvis-Wunsch-Tipp. Gesamtquote 4.05x. Solide Safe-Kombi mit guter Auszahlung. Einsatz 0.5% wegen 4-Bein-Mathematik."
-    },
-    {
-      "id": "kombi-w19-balance",
-      "name": "Balance-Kombi (4 Beine, Total/Tor-Markttypen)",
-      "kategorie": "value",
+      "begruendung": "5 Beine, Layer-1/2/3-Diversifikation: 3 DC-Beine (Goldgrube) + 1 Total-Bein (CL-Tor-Festival), keine Sieg-Outcome-Doppelung mit Balance/Risiko/Moonshot. Spielt auf Lesson 03.05. Safe-Kombi-Konstruktions-Regel (max 1 Sieg-Bein, hier sogar 0).",
       "beine": [
         {
-          "spiel_id": "2026-05-06-bayern-psg-cl-hf-rueck",
-          "tipp_id": "t2",
-          "markt": "Mehr als 2.5 Tore",
-          "quote": 1.4
+          "spiel_id": "2026-05-05-ars-atm",
+          "markt": "Arsenal vs Atletico: Arsenal oder Unentschieden (1X)",
+          "quote": 1.28,
+          "spiel_titel": "Arsenal vs Atletico (CL HF Rueck, Di 05.05.)"
         },
         {
-          "spiel_id": "2026-05-04-spurs-wolves-g1",
-          "tipp_id": "t2",
-          "markt": "Unter 215.5 Punkte (Total)",
-          "quote": 1.9
+          "spiel_id": "2026-05-10-bur-avi",
+          "markt": "Burnley vs Aston Villa: Aston Villa oder Unentschieden (X2)",
+          "quote": 1.2,
+          "spiel_titel": "Burnley vs Aston Villa (PL, So 10.05.)"
         },
         {
-          "spiel_id": "2026-05-10-barca-real-laliga-35",
-          "tipp_id": "t2",
-          "markt": "Mehr als 2.5 Tore",
-          "quote": 1.55
+          "spiel_id": "2026-05-09-liv-che",
+          "markt": "Liverpool vs Chelsea: Liverpool oder Unentschieden (1X)",
+          "quote": 1.4,
+          "spiel_titel": "Liverpool vs Chelsea (PL, Sa 09.05.)"
         },
         {
-          "spiel_id": "2026-05-07-strasbourg-rayo-cf-hf-rueck",
-          "tipp_id": "t2",
-          "markt": "Unter 2.5 Tore",
-          "quote": 1.75
+          "spiel_id": "2026-05-10-whu-ars",
+          "markt": "West Ham vs Arsenal: Arsenal oder Unentschieden (X2)",
+          "quote": 1.2,
+          "spiel_titel": "West Ham vs Arsenal (PL, So 10.05.)"
+        },
+        {
+          "spiel_id": "2026-05-06-bay-psg",
+          "markt": "Bayern vs PSG: Mehr als 2.5 Tore",
+          "quote": 1.4,
+          "spiel_titel": "Bayern vs PSG (CL HF Rueck, Mi 06.05.)"
         }
-      ],
-      "gesamtquote": 7.22,
-      "rechnung": "1.40 × 1.90 × 1.55 × 1.75 = 7.22",
-      "empfohlener_einsatz_prozent": 0.4,
-      "begruendung": "Balance-Kombi mit reinen Total-/Tor-Beinen (Layer-2 strikt: KEIN Sieg-Outcome doppelt zur Safe-Kombi). 4 verschiedene Spiele (Layer-1 erfuellt). Bayern-PSG Ueber + Spurs-Wolves Unter + Clasico Ueber + Strasbourg-Rayo Unter = Markt-Diversifikation auch ueber Ueber/Unter. Gesamtquote 7.22x. Einsatz 0.4% wegen 4-Bein-Mathematik mit ~10% Hitrate."
+      ]
     },
     {
-      "id": "kombi-w19-risiko",
-      "name": "Risiko-Kombi (5 Beine, Mix)",
+      "id": "kombi-balance",
+      "name": "Balance-Kombi (Sieg + Total)",
+      "kategorie": "balance",
+      "ziel_quote_range": "10-30x",
+      "gesamtquote": 10.79,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "5 Beine, alle in verschiedenen Spielen, 4 Sieg-Outcomes + 1 BTTS (kein Total-Doppel mit Safe). Layer-2: keine Spiel-Sieg-Doppel mit Safe (Safe hat nur DC + Total). Layer-3: BTTS JA Bayern-PSG ist nicht Über 2.5 (= unterschiedlicher Markt zur Safe-Variante).",
+      "beine": [
+        {
+          "spiel_id": "2026-05-08-bvb-fra",
+          "markt": "BVB vs Frankfurt: Borussia Dortmund Sieg",
+          "quote": 1.85,
+          "spiel_titel": "BVB vs Frankfurt (BL 33, Fr 08.05.)"
+        },
+        {
+          "spiel_id": "2026-05-09-mci-bre",
+          "markt": "Manchester City vs Brentford: Manchester City Sieg",
+          "quote": 1.4,
+          "spiel_titel": "Manchester City vs Brentford (PL, Sa 09.05.)"
+        },
+        {
+          "spiel_id": "2026-05-04-eve-mci",
+          "markt": "Everton vs Manchester City: Manchester City Sieg",
+          "quote": 1.51,
+          "spiel_titel": "Everton vs Manchester City (PL, Mo 04.05.)"
+        },
+        {
+          "spiel_id": "2026-05-09-sun-mun",
+          "markt": "Sunderland vs Manchester United: Manchester United Sieg",
+          "quote": 1.9,
+          "spiel_titel": "Sunderland vs Manchester United (PL, Sa 09.05.)"
+        },
+        {
+          "spiel_id": "2026-05-06-bay-psg",
+          "markt": "Bayern vs PSG: Beide Teams treffen JA",
+          "quote": 1.45,
+          "spiel_titel": "Bayern vs PSG (CL HF Rueck, Mi 06.05.)"
+        }
+      ]
+    },
+    {
+      "id": "kombi-risiko",
+      "name": "Risiko-Kombi (Lesson-driven mit Wolfsburg-Edge)",
       "kategorie": "risk",
+      "ziel_quote_range": "30-100x",
+      "gesamtquote": 33.13,
+      "empfohlener_einsatz_prozent": 0.25,
+      "begruendung": "5 Beine, hohe Diversifikation: 1 Wolfsburg-Sieg-Outcome (Lesson-driven), 1 Total-Bein, 3 DC-Beine in unterschiedlichen Spielen. Layer-2/3 sauber: keine Spiel/Markt-Doppel mit Safe oder Balance. Wolfsburg-Sieg pure Lottery aber per Lesson 03.05. (Bayern-Rotation + Underdog-Klassenerhalt) hoeher als Quote suggeriert.",
       "beine": [
         {
-          "spiel_id": "2026-05-06-bayern-psg-cl-hf-rueck",
-          "tipp_id": "t1",
-          "markt": "Beide Teams treffen: JA",
-          "quote": 1.45
+          "spiel_id": "2026-05-09-wol-bay",
+          "markt": "Wolfsburg vs Bayern: VfL Wolfsburg Sieg",
+          "quote": 7.5,
+          "spiel_titel": "Wolfsburg vs Bayern (BL 33, Sa 09.05.)"
         },
         {
-          "spiel_id": "2026-05-09-stuttgart-leverkusen-bl-33",
-          "tipp_id": "t1",
-          "markt": "Bayer Leverkusen Doppelte Chance (X2)",
-          "quote": 1.55
+          "spiel_id": "2026-05-09-vfb-lev",
+          "markt": "Stuttgart vs Leverkusen: Mehr als 2.5 Tore",
+          "quote": 1.5,
+          "spiel_titel": "Stuttgart vs Leverkusen (BL 33, Sa 09.05.)"
         },
         {
-          "spiel_id": "2026-05-07-villa-forest-el-hf-rueck",
-          "tipp_id": "t2",
-          "markt": "Aston Villa weiter (Aufstieg ins Finale)",
-          "quote": 1.55
+          "spiel_id": "2026-05-07-str-ray",
+          "markt": "Strasbourg vs Rayo: Strasbourg oder Unentschieden (1X)",
+          "quote": 1.45,
+          "spiel_titel": "Strasbourg vs Rayo (Conf HF Rueck, Do 07.05.)"
         },
         {
-          "spiel_id": "2026-05-08-dortmund-frankfurt-bl-33",
-          "tipp_id": "t2",
-          "markt": "Serhou Guirassy trifft (jederzeit)",
-          "quote": 1.85
+          "spiel_id": "2026-05-04-nyk-phi-g1",
+          "markt": "Knicks vs 76ers: New York Knicks Sieg",
+          "quote": 1.45,
+          "spiel_titel": "Knicks vs 76ers (NBA East SF G1, Mo/Di 04./05.05.)"
         },
         {
-          "spiel_id": "2026-05-09-liverpool-chelsea-pl-37",
-          "tipp_id": "t1",
-          "markt": "Doppelte Chance Chelsea oder Unentschieden (X2)",
-          "quote": 1.95
+          "spiel_id": "2026-05-07-cry-shk",
+          "markt": "Crystal Palace vs Shakhtar: Crystal Palace oder Unentschieden (1X)",
+          "quote": 1.4,
+          "spiel_titel": "Crystal Palace vs Shakhtar (Conf HF Rueck, Do 07.05.)"
         }
-      ],
-      "gesamtquote": 12.57,
-      "rechnung": "1.45 × 1.55 × 1.55 × 1.85 × 1.95 = 12.57",
-      "empfohlener_einsatz_prozent": 0.25,
-      "begruendung": "Risiko-Kombi mit Markt-Diversifikation: BTTS + DC + Quali + Tor + DC. Layer-2 erfuellt: Bayern-PSG-Sieg-Outcome NICHT in Kombi (BTTS als anderer Markttyp), Dortmund-Sieg NICHT (Guirassy-Tor stattdessen). Bayern-PSG Ueber 2.5 ist nur in Balance, BTTS hier = leichte Korrelation aber nicht identisch. Gesamtquote 12.57x. Einsatz 0.25%."
+      ]
     },
     {
-      "id": "kombi-w19-moonshot",
-      "name": "Moonshot-Kombi (6 Beine, hoch-Quote-Mix)",
+      "id": "kombi-moonshot",
+      "name": "Moonshot-Kombi (Lotterie - 1-2 EUR Spasseinsatz)",
       "kategorie": "moonshot",
+      "ziel_quote_range": "300-1000x",
+      "gesamtquote": 295.0,
+      "empfohlener_einsatz_prozent": 0.1,
+      "begruendung": "5 Beine, alle Underdog-Sieg-Outcomes auf verschiedene Spiele. Layer-2 sauber (keine Sieg-Outcome-Doppel mit Balance/Safe/Risiko - PSG-Sieg vs Bayern, Forest-Sieg vs Newcastle, HSV-Sieg vs Freiburg, Real-Sieg vs Barca, Villa-Sieg vs Forest sind alle neue Sieg-Outcome-Buckets). 1-2 EUR Spasseinsatz.",
       "beine": [
         {
-          "spiel_id": "2026-05-09-wolfsburg-bayern-bl-33",
-          "tipp_id": "t1",
-          "markt": "VfL Wolfsburg Doppelte Chance (1X)",
-          "quote": 3.5
+          "spiel_id": "2026-05-06-bay-psg",
+          "markt": "Bayern vs PSG: PSG Sieg im 90 Min",
+          "quote": 3.75,
+          "spiel_titel": "Bayern vs PSG (CL HF Rueck, Mi 06.05.)"
         },
         {
-          "spiel_id": "2026-05-05-arsenal-atletico-cl-hf-rueck",
-          "tipp_id": "t3",
-          "markt": "Julian Alvarez trifft (jederzeit)",
-          "quote": 3.5
+          "spiel_id": "2026-05-10-bar-rea",
+          "markt": "Barcelona vs Real Madrid: Real Madrid Sieg",
+          "quote": 4.0,
+          "spiel_titel": "Barcelona vs Real Madrid (LaLiga, So 10.05.)"
         },
         {
-          "spiel_id": "2026-05-06-bayern-psg-cl-hf-rueck",
-          "tipp_id": "t3",
-          "markt": "Harry Kane trifft (jederzeit)",
-          "quote": 1.65
+          "spiel_id": "2026-05-07-avi-nfo",
+          "markt": "Aston Villa vs Forest: Aston Villa Sieg",
+          "quote": 1.75,
+          "spiel_titel": "Aston Villa vs Forest (EL HF Rueck, Do 07.05.)"
         },
         {
-          "spiel_id": "2026-05-07-freiburg-braga-el-hf-rueck",
-          "tipp_id": "t1",
-          "markt": "SC Braga Doppelte Chance (X2)",
-          "quote": 1.55
+          "spiel_id": "2026-05-07-fre-bra",
+          "markt": "Freiburg vs Braga: SC Freiburg Sieg",
+          "quote": 2.1,
+          "spiel_titel": "Freiburg vs Braga (EL HF Rueck, Do 07.05.)"
         },
         {
-          "spiel_id": "2026-05-09-leipzig-stpauli-bl-33",
-          "tipp_id": "t1",
-          "markt": "RB Leipzig Sieg",
-          "quote": 1.55
-        },
-        {
-          "spiel_id": "2026-05-09-stuttgart-leverkusen-bl-33",
-          "tipp_id": "t2",
-          "markt": "Mehr als 2.5 Tore",
-          "quote": 1.55
+          "spiel_id": "2026-05-08-bvb-fra",
+          "markt": "BVB vs Frankfurt: Mehr als 3.5 Tore",
+          "quote": 2.7,
+          "spiel_titel": "BVB vs Frankfurt (BL 33, Fr 08.05.)"
         }
-      ],
-      "gesamtquote": 75.27,
-      "rechnung": "3.50 × 3.50 × 1.65 × 1.55 × 1.55 × 1.55 = 75.27",
-      "empfohlener_einsatz_prozent": 0.1,
-      "begruendung": "6-Bein-Moonshot mit Layer-1 erfuellt (alle 6 verschiedene Spiele). Spielergebnis-Mix: Wolfsburg DC + Alvarez Tor + Kane Tor + Braga DC + Leipzig Sieg + Stuttgart-Leverkusen Ueber 2.5. Leipzig-Sieg ist einziges direktes Sieg-Outcome NICHT in Safe-Kombi. Gesamtquote 75.27x. Hitrate-Schaetzung ~3-5%, daher Spasseinsatz 0.10% (1-2 EUR)."
+      ]
     }
   ],
   "lessons_angewandt": [
     {
-      "datum": "2026-04-22",
-      "kategorie": "NBA Playoff Varianz",
-      "anwendung": "KEINE NBA-Player-Punkte-Tipps in Einzeltipps oder Kombis (Markt-Boykott). Nur Sieg/Total/Spread."
+      "lesson_datum": "2026-05-03",
+      "kategorie": "SAFE-Reality-Check #2: Top-Team-Rotation vor CL-Rueckspiel",
+      "anwendung_dieses_dossier": "Wolfsburg-Bayern (Sa 09.05. nach CL-HF-Rueckspiel Mi 06.05.) erfuellt EXAKT alle drei Hartregel-Bedingungen (Bayern-Meister + CL-HF-Rueckspiel-Naehe 3 Tage + Wolfsburg Klassenerhalts-Druck Platz 17). Daher Bayern-Sieg NICHT als SAFE/VALUE in Einzeltipps - stattdessen Wolfsburg-DC-1X @ ~3.0 als VALUE-Edge auf 2:0-Insurance-Underdog-Pattern. Auch Burnley-Villa (Villa nach EL-HF-Rueckspiel) DC X2 statt Sieg, Crystal Palace nach Conf-HF-Rueck nur WACKEL."
     },
     {
-      "datum": "2026-04-25",
-      "kategorie": "SAFE-Trefferquote Reality-Check",
-      "anwendung": "SAFE nur fuer 4 Tipps vergeben (Crystal Palace DC, Crystal Palace weiter, Dortmund DC, Barca DC) — alle erfuellen Klassen-Asymmetrie + Top-Scorer-fit + KEIN Backs-against-the-wall-Underdog."
+      "lesson_datum": "2026-05-03",
+      "kategorie": "Underdog-2:0-Insurance-Edge bei Top-Team-Rotation",
+      "anwendung_dieses_dossier": "Wolfsburg-Heim @ ~7.5 Sieg-Quote ist ueberproportional wertvoll wegen bet365-2:0-Insurance: Wolfsburg-Sieg-Tipp wird gewonnen sobald sie 2:0 vorne liegen. Daher Wolfsburg-Sieg als Moonshot-/Risiko-Bein aktiv gesucht statt nur Sieg-Tipp gemieden. Auch BL Mainz-Union (So 10.05.) ggf. Heim-Underdog-Edge."
     },
     {
-      "datum": "2026-04-25",
-      "kategorie": "Roster-Verifikation Pflicht",
-      "anwendung": "Verletzungs-Stand explizit pro Spiel recherchiert (Hakimi raus PSG, Havertz/Merino/Timber raus Arsenal, Courtois/Militao/Gueler raus Real, Edwards/DiVincenzo raus Wolves)."
+      "lesson_datum": "2026-05-03",
+      "kategorie": "Safe-Kombi-Konstruktion: max 1 Sieg-Bein (Layer-3-Verschaerfung)",
+      "anwendung_dieses_dossier": "Safe-Kombi mit 0 reinen Sieg-Beinen + 4 DC + 1 Total konstruiert. Reine Sieg-Beine wandern in Balance-Kombi (BVB/City/United Siege). Damit kein Domino-Risiko bei Top-Team-Rotation - Sieg-Bein-Pleite haut nur Balance um, nicht Safe."
     },
     {
-      "datum": "2026-04-26",
-      "kategorie": "bet365 2:0-Insurance + Einwechslungs-Boost",
-      "anwendung": "Bei Bayern-PSG (CL) und Wolfsburg-Bayern (BL): 2:0-Insurance erwaehnt als Edge-Kissen fuer Sieg-Tipps. Einwechslungs-Boost bei Kane/Guirassy/Alvarez/Saka explizit."
+      "lesson_datum": "2026-05-03",
+      "kategorie": "Torschuetzen-Tipp Mechanik: Stamm-Stuermer-Pflichtcheck",
+      "anwendung_dieses_dossier": "KEINE Torschuetzen-Tipps in Einzeltipps oder Kombis dieser Vorschau - 7 Tage vor Anstoss kann keine Aufstellung verifiziert werden. Match-Tag-1h-Aufstellungs-Check via WebSearch ist Pflicht (aus Lesson) - das macht erst die taegliche Routine moeglich, nicht die Sonntag-Vorschau. Deswegen Torschuetzen-Markt fuer Wochen-Vorschau komplett geblockt, auch wenn Goldgrube (50% / +24.4% ROI)."
     },
     {
-      "datum": "2026-04-26",
-      "kategorie": "Saisonkontext-Pflicht-Analyse",
-      "anwendung": "Pro Spiel 4 Faktoren explizit: Doppelbelastung (Stuttgart-Pokal, Bayern-CL), Saisonziel (Liverpool-Auslauf vs Chelsea-Druck), Motivations-Asymmetrie (St-Pauli-Klassenerhalt vs Leipzig-locker), Recovery (Wolves muede nach Denver-Closeout)."
+      "lesson_datum": "2026-05-02",
+      "kategorie": "Premier League Klassendifferenz-Heim-Goldgrube",
+      "anwendung_dieses_dossier": "Burnley-Villa (Burnley abgestiegen vs Villa Top-5) und Sunderland-United (Sunderland Mid-Table vs United Top-3) sind die PL-Klassen-Goldgrube-Kandidaten. Nur Sunderland-United vom Heim-Auswaerts-Setup positiv (United Auswaerts-Sieg = Lesson Pattern). Burnley als abgestiegen = klare Klassen-Edge fuer Villa, aber Villa-Rotations-Risiko nach EL-HF dampft den Edge."
     },
     {
-      "datum": "2026-04-27",
+      "lesson_datum": "2026-05-01",
+      "kategorie": "Conference League Halbfinale Goldgrube (Klassendifferenz-Edge)",
+      "anwendung_dieses_dossier": "Conf-League-Goldgrube galt fuer Hinspiele mit PL/LaLiga-Heim. Im Rueckspiel ist die Konstellation umgedreht: CP Heim (Hinspiel-Stand unklar), Strasbourg Heim (mit 0:1-Hinspiel-Hypothek). Daher Conf-Tipps in dieser Vorschau nur als WACKEL eingestuft, nicht VALUE. CP DC 1X als kleine Risiko-Bein-Position, Strasbourg in Beobachtungs-Liga-Status (Ligue 1)."
+    },
+    {
+      "lesson_datum": "2026-04-26",
+      "kategorie": "NBA-Playoff-Player-Punkte: Markt-Boykott",
+      "anwendung_dieses_dossier": "Trotz NBA-Halbfinal-Start (Knicks-76ers, Lakers-Thunder, Wolves-Spurs G1-G4) KEINE Player-Punkte/DD/TD-Tipps. Nur 1 NBA-Tipp insgesamt (Knicks Sieg G1) als Risiko-Bein - keine Einzeltipps. Bilanz NBA-Player-Punkte/DD: 5/17 = 29.4% / -46.2% ROI = harter Markt-Boykott bestaetigt."
+    },
+    {
+      "lesson_datum": "2026-04-27",
       "kategorie": "Beobachtungs-Liga-Modus",
-      "anwendung": "Serie A + 2. Bundesliga: KEINE Spiele in Hauptkombis aufgenommen (in der Woche keine kritischen Top-Spiele dieser Ligen, daher kein direktes Konfliktpotenzial)."
-    },
-    {
-      "datum": "2026-04-29",
-      "kategorie": "Inter-Kombi-Diversifikation Layer-2",
-      "anwendung": "Alle Sieg-Outcomes (DC, ML) nur in Safe-Kombi konzentriert. Balance-Kombi nur Total/Tor-Beine. Risiko-Kombi nur Mix mit anderen Markttypen. Moonshot mit nur 1 Sieg-Outcome (Leipzig) das nicht in Safe liegt."
-    },
-    {
-      "datum": "2026-05-01",
-      "kategorie": "Conference League Goldgrube",
-      "anwendung": "Crystal Palace + Rayo aktiv gesucht und gespielt — Conference 4/4 = 100% Bilanz bestaetigt Pattern."
-    },
-    {
-      "datum": "2026-05-01",
-      "kategorie": "EL/Conference-HF-Hinspiel BTTS widerlegt",
-      "anwendung": "Im Rueckspiel andere Konstellation: Bei knappem Hinspiel (Atletico-Arsenal 1:1, Strasbourg-Rayo 0:1) Unter 2.5 als Hedge-Tipp. Bayern-PSG ist Sondersfall (5:4 Hinspiel zwingt Aufholdruck) -> Ueber 2.5 + BTTS legitim."
-    },
-    {
-      "datum": "2026-05-01",
-      "kategorie": "Star-Out-These mit Defense-System-Pflichtcheck",
-      "anwendung": "Spurs-Wolves G1: Wolves ohne Edwards aber Defense-System (Gobert/McDaniels) intakt + Closeout-Druck-Modus weg = NICHT mehr Lesson-konform-zugunsten Wolves. Daher Spurs-Sieg-These haelt, aber max VALUE."
-    },
-    {
-      "datum": "2026-05-01",
-      "kategorie": "Layer-3 Spiel-These-Diversifikation",
-      "anwendung": "Bayern-PSG Tor-These: Ueber 2.5 in Balance + BTTS in Risiko = leichte Korrelation aber unterschiedliche Markttypen. Bewusste Markttyp-Diversifikation pro Spiel."
+      "anwendung_dieses_dossier": "2.BL (10.05. Spieltag 33), Serie A (35. Spieltag Mo + 36. Spieltag Sa/So), Ligue 1 (33. Journee So 10.05.), NBA Round 1 G6 (vorbei) sind Beobachtungs-Ligen. KEINE Einzeltipps, KEINE Hauptkombis - nur Strasbourg (Ligue 1) als kleines Risiko-Bein OK. Spiele werden in spiele[]-Uebersicht gezeigt (vollstaendige Markt-Sicht), aber Tipp-Selektion defensiv."
     }
   ],
-  "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool, keine Einnahmequelle. Nur setzen was du verlieren kannst."
+  "footer": "18+ - bet365 DE - Hobby-Wetten - Sucht-Hilfe BZgA: 0800 1372700 - Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause."
 };
