@@ -652,6 +652,73 @@ def validate_markt_mix(d):
               f"(Spiel ohne Sieg/Torschuetzen-Tipp = rein defensiv)")
 
 
+def validate_dossier_quality(d):
+    """Pre-Push-Quality-Check (Hebel Q 04.05.2026): scannt das gesamte Dossier
+    GANZHEITLICH und warnt vor strukturellen Problemen die einzelne Validatoren
+    nicht sehen. Loggt Warnungen - Mapper kann nichts anfuegen, nur User soll
+    es beim Lesen merken + Routine kann es beim naechsten Lauf vermeiden.
+
+    Quality-Checks:
+    1. Markt-Mix in einzeltipps[]: max 40% DC, mindestens 25% Torschuetzen ODER Sieg
+    2. Pro Spiel mit Heim-Sieg-Quote < 1.80: warne wenn KEIN Torschuetzen-Tipp dabei
+       (Goldgrube +24% ROI ignoriert)
+    3. Wenn Dossier nur 0-1 SAFE-Tipps enthaelt: warne wenn auch viele VALUE-Tipps
+       (Routine zoegert oder Mapper hat alles gefiltert)
+    """
+    einzel = d.get('einzeltipps') or []
+    if not einzel:
+        return
+    n_dc = n_torschuetze = n_sieg = n_total_off = 0
+    for e in einzel:
+        markt = (e.get('markt') or '').lower()
+        if 'doppelte chance' in markt or 'oder unentschieden' in markt or '(1x)' in markt or '(x2)' in markt:
+            n_dc += 1
+        if any(k in markt for k in ('trifft', 'torschuetz', 'jederzeit tor', 'doppelpack', 'hattrick')) and 'punkte' not in markt:
+            n_torschuetze += 1
+            n_total_off += 1
+        if any(k in markt for k in ('sieg', 'moneyline', '(ml)', 'spread', 'handicap')):
+            n_sieg += 1
+            n_total_off += 1
+    n = len(einzel)
+    dc_pct = n_dc / n * 100 if n else 0
+    off_pct = n_total_off / n * 100 if n else 0
+
+    # 1. DC-Inflations-Check
+    if dc_pct > 40:
+        print(f"  Pre-Push-Quality WARN: {n_dc}/{n} Einzeltipps sind DC ({dc_pct:.0f}%) - "
+              f"zu defensiv. Routine soll mehr Torschuetzen/Sieg-Tipps suchen.")
+
+    # 2. Offensiv-Anteil-Check
+    if n >= 5 and off_pct < 25:
+        print(f"  Pre-Push-Quality WARN: nur {n_total_off}/{n} offensive Tipps ({off_pct:.0f}%) - "
+              f"Goldgrube Torschuetzen Jederzeit (+24% ROI) wird ignoriert.")
+
+    # 3. Pro Heim-Favorit-Spiel: kein Torschuetze = WARN
+    fehlende_torschuetzen_spiele = []
+    for spiel in d.get('spiele', []):
+        spiel_tipps = spiel.get('tipps', [])
+        # Heuristik: Heim-Favorit-Spiel = mindestens 1 Tipp mit Quote < 1.80 auf Heim
+        ist_heim_favorit = False
+        hat_torschuetze = False
+        for t in spiel_tipps:
+            quote = t.get('quote') or 0
+            try:
+                quote = float(quote)
+            except (TypeError, ValueError):
+                quote = 0
+            markt = (t.get('markt') or '').lower()
+            heim = (spiel.get('heim') or '').lower()
+            if quote < 1.80 and heim and heim in markt and ('sieg' in markt or 'oder unentschieden' in markt):
+                ist_heim_favorit = True
+            if any(k in markt for k in ('trifft', 'torschuetz', 'doppelpack', 'hattrick')) and 'punkte' not in markt:
+                hat_torschuetze = True
+        if ist_heim_favorit and not hat_torschuetze:
+            fehlende_torschuetzen_spiele.append(f"{spiel.get('heim')} - {spiel.get('gast')}")
+    if fehlende_torschuetzen_spiele:
+        print(f"  Pre-Push-Quality WARN: {len(fehlende_torschuetzen_spiele)} Heim-Favorit-Spiel(e) "
+              f"OHNE Torschuetzen-Tipp: {fehlende_torschuetzen_spiele[:3]}{'...' if len(fehlende_torschuetzen_spiele)>3 else ''}")
+
+
 def validate_saison_kontext(d):
     """Pflichtfeld-Check fuer saison_kontext pro Spiel.
 
@@ -887,6 +954,12 @@ def fix(path):
     # hat (rein defensives Set), wird SAFE-DC auf VALUE degradiert - kein offensives
     # Edge-Signal = kein SAFE.
     validate_markt_mix(d)
+
+    # Pre-Push-Quality-Check (Hebel Q 04.05.): ganzheitlicher Dossier-Check.
+    # Warnt vor zu hoher DC-Inflation, fehlenden Torschuetzen bei Heim-Favoriten,
+    # zu wenig offensive Tipps. Mapper droppt nichts hier - nur Logging fuer User
+    # + Routine soll beim naechsten Lauf nachbessern.
+    validate_dossier_quality(d)
 
     # Beobachtungs-Liga-Filter (NEU 04.05. ROI-Sanierung): Tipps aus Beobachtungs-Ligen
     # (z.B. 2.BL, Serie A) werden HARTCODED aus einzeltipps[] und Safe/Balance/Risiko-Kombis

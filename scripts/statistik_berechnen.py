@@ -658,6 +658,15 @@ def main() -> int:
     print(f"     -> {DATA_BLUTER_JSON} ({len(bluter)} Markt-Bluter)")
     print(f"     -> {DATA_GOLDGRUBEN_JSON} ({len(goldgruben)} Markt-Goldgrube(n))")
     print(f"     -> {DATA_LIGA_GOLDGRUBEN_JSON} ({len(liga_goldgruben)} Liga-Goldgrube(n))")
+
+    # Auto-Pattern-Analyzer: scant Verluste + erzeugt Lesson-Vorschlaege.
+    # Loest Pattern dass User stundenlang manuell diagnostizieren musste -
+    # System macht das jetzt selbst, schreibt nach data/lessons_pending.json.
+    try:
+        import pattern_analyzer
+        pattern_analyzer.main()
+    except Exception as exc:
+        print(f"     [WARN] pattern_analyzer fehlgeschlagen: {exc}")
     if entries:
         g = stat["gesamt"]
         print(f"     Gesamt: {g['tipps']} Tipps, Trefferquote {g['trefferquote']}%, ROI {g['roi_prozent']:+.1f}%")
