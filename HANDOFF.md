@@ -364,8 +364,13 @@ Sonntag zusätzlich:
 - ✅ Reminder am 18.05. für Vorschau-Performance-Review
 - ✅ Reparatur-Mechanik für Stream-Timeout-Failures (manuell, sub-agent oder direkt)
 
-### Stats
-**~85+ Tipps · 62% Trefferquote · ROI ~+3-4%.**
+### Stats Stand 04.05.2026 morgens
+**137 Tipps · 59,9% Trefferquote · ROI -3,6% · Netto -4,87 U.**
+ROI-Drop in 2 Tagen von ~+3% → -3,6% wegen NBA-Playoffs G5/G6 (-16 bis -45%) + 2. Bundesliga (-40%) + Bundesliga 32. Spieltag (-20%).
+
+### ROI-Sanierungs-Maßnahmen (04.05. Nachmittag — Plan in `.claude/plans/das-design-ist-mega-wise-sifakis.md`)
+- **A) ✅ Beobachtungs-Liga-Filter im Schema-Mapper hartgecoded** — `validate_beobachtungs_liga(d)` droppt jetzt einzeltipps + Safe/Balance/Risiko-Beine aus 2.BL, Serie A, NBA G6 etc. Moonshot-Bein ab Quote 5x erlaubt. Verhindert dass Beobachtungs-Liga-Tipps trotz Status reinrutschen.
+- **B-F) TODO im neuen Chat:** NBA-Playoff-Lesson verschärfen (alle Sieg/Spread/Total max VALUE bei G5+), SAFE-Confirm-Validator (Markt + Liga müssen Goldgrube sein), Quoten-Range-1.50-2.00-Squeeze, max 8 Einzeltipps Cap, Auswertungs-Routine pro Verlust-Tipp eine Lesson generieren lassen.
 
 ### Known Issues / TODOs für nächsten Chat
 1. **Stream-Timeout bei großen Spielmengen** — passiert bei Sa-So-Tipps wenn 25+ Spiele. Routine schreibt `spiele[].tipps[]` aber NICHT `einzeltipps[]` + `kombis[]`. **TODO:** Routine-Prompt anpassen damit sie zuerst die Mini-Files für einzeltipps + kombis schreibt (kleinere Token-Last) und Spiele danach. Oder Spiel-Anzahl auf max 15-20 begrenzen mit ehrlicher Auswahl der wichtigsten Ligen.

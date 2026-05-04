@@ -110,6 +110,94 @@ def lade_markt_bluter():
         return []
 
 
+def lade_beobachtungs_ligen():
+    """Liest data/beobachtungs_ligen.json (auto-generiert von statistik_berechnen.py).
+    Returns: liste der Liga-Strings die in Beobachtungs-Status sind.
+    Bei Fehler: leere Liste.
+    """
+    pfad = os.path.join('data', 'beobachtungs_ligen.json')
+    if not os.path.exists(pfad):
+        return []
+    try:
+        with open(pfad, encoding='utf-8') as f:
+            d = json.load(f)
+        return [l.get('liga') for l in d.get('ligen', []) if l.get('liga')]
+    except (json.JSONDecodeError, OSError, KeyError):
+        return []
+
+
+def validate_beobachtungs_liga(d):
+    """ROI-SANIERUNG 04.05.2026: Beobachtungs-Liga-Tipps HARTCODED aus
+    einzeltipps[] und Safe/Balance/Risiko-Kombis droppen. Moonshot-Kombi
+    erlaubt sie als Spass-Bein ab Quote >= 5.
+
+    Hintergrund: 04.05. Statistik zeigte 2. Bundesliga -40% ROI bei 5 Tipps
+    obwohl seit 27.04. in beobachtungs_ligen.json. Routine-Prompt-Anweisung
+    reicht nicht - mechanische Erzwingung noetig.
+    """
+    beob_ligen = set(lade_beobachtungs_ligen())
+    if not beob_ligen:
+        return  # Keine Beobachtungs-Ligen aktiv
+
+    # Sammle spiel_ids in Beobachtungs-Ligen
+    beob_spiel_ids = set()
+    for spiel in d.get('spiele', []):
+        liga = spiel.get('liga', '')
+        if liga in beob_ligen:
+            sid = spiel.get('id')
+            if sid:
+                beob_spiel_ids.add(sid)
+
+    if not beob_spiel_ids:
+        return
+
+    # 1. einzeltipps[] aus Beobachtungs-Liga-Spielen droppen
+    et_before = len(d.get('einzeltipps', []))
+    d['einzeltipps'] = [e for e in d.get('einzeltipps', [])
+                       if e.get('spiel_id') not in beob_spiel_ids]
+    et_dropped = et_before - len(d['einzeltipps'])
+    if et_dropped:
+        # Rang neu durchnummerieren
+        for i, e in enumerate(d['einzeltipps'], 1):
+            e['rang'] = i
+        print(f"  Beobachtungs-Liga: {et_dropped} Einzeltipps gedroppt (Spiele in {beob_ligen})")
+
+    # 2. Kombis: Beobachtungs-Liga-Beine droppen aus Safe/Balance/Risiko
+    #    Moonshot-Kombi ueberlebt mit Beob-Beinen wenn Quote >= 5.0
+    for k in d.get('kombis', []):
+        kategorie = (k.get('kategorie') or '').lower()
+        ist_moonshot = kategorie == 'moonshot' or 'moonshot' in (k.get('name') or '').lower()
+        beine = k.get('beine', [])
+        kept = []
+        for b in beine:
+            sid = b.get('spiel_id')
+            quote = b.get('quote', 0)
+            try:
+                quote = float(quote)
+            except (TypeError, ValueError):
+                quote = 0
+            if sid in beob_spiel_ids:
+                if ist_moonshot and quote >= 5.0:
+                    kept.append(b)  # Moonshot-Bein ab 5x erlaubt
+                else:
+                    print(f"  Beobachtungs-Liga: Kombi-Bein gedroppt aus '{k.get('name','?')}' "
+                          f"(spiel_id {sid}, Quote {quote})")
+                    continue
+            else:
+                kept.append(b)
+        if len(kept) < len(beine):
+            k['beine'] = kept
+            # Gesamtquote neu berechnen
+            try:
+                neue_quote = 1.0
+                for b in kept:
+                    neue_quote *= float(b.get('quote') or 1.0)
+                k['gesamtquote'] = round(neue_quote, 2)
+                k['rechnung'] = ' x '.join(f"{float(b.get('quote') or 1.0):.2f}" for b in kept) + f" = {k['gesamtquote']}"
+            except (ValueError, TypeError):
+                pass
+
+
 def markt_typ_pattern(markt):
     """Mini-Replikat von scripts/statistik_berechnen.py:markt_typ() - nur die Aggregations-Logik
     die wir hier brauchen um einen Tipp-Markt-String auf Markt-Typ zu mappen. Sonst muessten
@@ -391,6 +479,12 @@ def fix(path):
     # auto-generiert von scripts/statistik_berechnen.py (analog Beobachtungs-Liga).
     # Damit wird Lessons-Anwendung mechanisch erzwungen.
     validate_markt_bluter(d)
+
+    # Beobachtungs-Liga-Filter (NEU 04.05. ROI-Sanierung): Tipps aus Beobachtungs-Ligen
+    # (z.B. 2.BL, Serie A) werden HARTCODED aus einzeltipps[] und Safe/Balance/Risiko-Kombis
+    # gedroppt. Moonshot ab Quote 5x erlaubt. Routine-Prompt-Anweisung allein hat nicht
+    # gehalten - 04.05. zeigte 2.BL noch -40% ROI bei 5 Tipps trotz Beobachtungs-Status.
+    validate_beobachtungs_liga(d)
 
     # Hard-Cap: max 5 Tipps pro Spiel, sortiert nach Kategorie-Prioritaet + Edge.
     # SAFE > VALUE > WACKEL > RISIKO > MOONSHOT, innerhalb gleicher Kategorie nach edge_prozent absteigend.
