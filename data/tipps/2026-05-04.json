@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS = {
+{
   "datum": "2026-05-04",
   "erstellt_am": "2026-05-04T15:25:00+02:00",
   "hinweis": "WATCHDOG-RECOVERY 15:25 - Hauptroutine 16:00 nicht durchgelaufen, Watchdog hat komplett neu generiert. Mo-Schmal-Tag: 2 PL (Chelsea-Forest, Everton-City), 1 LaLiga (Sevilla-Sociedad), 2 Serie-A (Cremonese-Lazio + Roma-Fiorentina = BEOBACHTUNG), 2 NBA Round 2 G1 (Knicks-76ers, Spurs-Wolves). Aktive Lessons heute: SAFE-Konstruktion #3 (Heim-Top-Sieg ohne SAFE wenn Auswaerts-Underdog Saisonziel hat), Markt-Mix-Pflicht (max 1 DC/Spiel + Torschuetzen-Pflicht bei Heim-/Auswaerts-Favorit), NBA-Round-2-G1-Frei (kein Decider = G1-G4 freigegeben laut Lesson 04.05.). Kasse 550 Stufe-1.",
@@ -755,4 +754,4 @@ window.__MIESMUSCHEL_TIPPS = {
     "PL-Klassen-Heim-Bounce-Back-Effekt (Lesson 03.05.): Chelsea-Heim trotz 5-Pleiten-Serie ist PL-Mid-Top-Klub - DC 1X als VALUE legitim weil Forest mit EL-Doppelbelastung 4 Tage spaeter rotieren koennte (= Heim-Crowd-Bounce-Back-Setup PASSEND mit Lesson)."
   ],
   "footer": "18+ - bet365 DE - Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool, keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause."
-};
+}
