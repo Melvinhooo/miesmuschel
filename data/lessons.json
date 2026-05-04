@@ -294,6 +294,24 @@
       "kategorie": "PFLICHT-PROFILE pro Spiel: Backup-Spieler + Form-Edge (Hebel-MIX 04.05.)",
       "lesson": "BEFEHL an die Tipps-Routine, kein Vorschlag. Pro Spiel folgendes pruefen + tippen:\n(1) Wenn Heim-Sieg-Quote < 1.80 ODER Auswaerts-Sieg-Quote < 2.20: MIN 1 Torschuetzen-Tipp auf den Top-Stuermer mit aktueller Form ist PFLICHT. Goldgrube Torschuetzen Jederzeit hat 50% Hitrate / +24.4% ROI - ist der profitabelste Markt im System.\n(2) Wenn Top-Stuermer ausfaellt (Verletzung/CL-Aus): BACKUP-Stuermer-Torschuetzen-Tipp ist PFLICHT. Beispiele: Real Madrid ohne Mbappe -> Vinicius. Bayern ohne Kane -> Mueller/Sane. Leverkusen -> Schick (Form). BVB Backup -> Adeyemi/Brandt. (3) Form-Recherche pro Heim-/Auswaerts-Favorit: WebSearch 'Spielername letzte Spiele Tore' oder kicker.de Spieler-Profil. 3+ Tore in 5 Spielen ODER 2+ in 3 -> Torschuetzen-Tipp Pflicht.\n(4) DC-CAP: max 1 DC pro Spiel, max 2-3 DC im gesamten Dossier. Wenn dein Set 4+ DCs hat, ersetze die schwaechsten durch Torschuetzen.\n(5) Coinflip-Spiele (alle 1X2-Quoten 2.40-3.50): KEIN SAFE moeglich.\nHintergrund Lehre 03.05.: Vinicius-Tipp komplett uebersehen obwohl Mbappe seit CL-Aus weg, St.Pauli-Mainz mit 3 defensiven Tipps -2 Units bei klarem Mainz-Sieg, BVB-DC SAFE obwohl Routine selbst 'uneinholbar Bayern + Mid-Table ohne Druck' schrieb. Die Tipps die GEFEHLT haben waren Sieg + Torschuetze + Backup-Spieler. Mapper-Hebel M downgraded jetzt SAFE-DC wenn kein Sieg- und kein Torschuetzen-Tipp im Spiel ist.",
       "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "META: Differenziertes Lernen statt Markt-Boykott",
+      "lesson": "User-Feedback 04.05.2026 (wichtig fuer Stil): Wenn ein Markt-Typ ueber 2-3 Tage schlecht laeuft, ist die Lehre NICHT 'Markt-Typ komplett aus Einzeltipps streichen'. Das ist Loeschen, nicht Lernen. Differenzierte Auswertung erforderlich. Beispiele:\n(1) NBA-Player-Punkte 22.-26.04. -46% ROI -> falsche Lehre 'Player-Punkte komplett raus'. Richtige Lehre: 'Underdog-Player bei Spread > 8 max WACKEL (Blowout-Q4-Bank); Heim-Top-Stars bei Spread < 5 + Form-Edge bleiben SAFE/VALUE-faehig'.\n(2) DD/TD nach Banchero-Beispiel 22.04. -> falsche Lehre 'DD raus aus Einzeltipps'. Richtige Lehre: 'DD nur wenn beide Stats (meist Pkt + Reb) realistisch 10+ Schnitt in letzten 5 Spielen, nicht bei Saisonschnitt-Streuung'.\n(3) NBA-Playoffs Round 1 -> falsche Lehre 'NBA-Playoffs nie SAFE'. Richtige Lehre: 'Decider G5/G6/G7 - Sieg/Spread/Total/DC max WACKEL (Closeout-Varianz). G1-G4 + Conference Finals + NBA Finals SAFE-faehig wenn klare Edge (Form, Spread, Defense-Match-up).'\nGenerelles Prinzip: Verlust-Pattern analysieren (welche Sub-Kategorie blutet?) statt pauschal blockieren. Mapper-Hebel B v2 04.05.: NBA-Playoff-Filter differenziert - nur Decider gefiltert, G1-G4 frei.",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "NBA Player-Punkte: Differenzierte Regel statt Boykott",
+      "lesson": "Korrektur des 26.04.-Boykott. Player-Punkte sind nicht generell raus, sondern differenziert nach Spielsituation:\nERLAUBT als VALUE/SAFE-faehig: Heim-Top-Stuermer eines Top-Teams bei Spread <= 5 Pkt UND Form-Edge (15+ Pkt in 3 von 5 letzten Spielen). Beispiel: Tatum @ Boston vs Underdog -3.5 Heim, letzte 5 mit 24/22/19/27/21 Pkt -> Ueber 21.5 SAFE/VALUE OK.\nMAX WACKEL bei: Underdog-Team-Player bei Spread > 8 (Blowout-Q4-Bankdruecker), Star-Out-Backup ohne Form-Beleg, Player vor Decider G5/G6/G7 (Defense-Adjustments).\nKOMPLETT RAUS bei: Player-Props ueber Saison-Schnitt-Linien des Underdogs in Auswaerts-Spielen (Underdog-Risiko + Auswaerts-Risiko + Saison-Linien-Bias = kombinierter Bluter-Pattern, war 23.04.-Lesson Bane/Wagner).",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "NBA DD/TD: Differenzierte Regel statt Boykott",
+      "lesson": "Korrektur. DD/TD nicht pauschal in Risiko/Moonshot abschieben, sondern: Erlaubt als VALUE wenn BEIDE Stats des DD-Markts (meist Pkt + Reb oder Pkt + Ast) in den letzten 5 Spielen Schnitt 10+ haben. Beispiel: Jokic Pkt+Reb DD - wenn letzte 5 Pkt-Schnitt 28 + Reb-Schnitt 12 -> DD VALUE OK. Wenn nur eine Stat konsistent (z.B. 25 Pkt aber Reb-Range 4-15 mit Schnitt 8) -> DD max WACKEL. Reference Lesson 23.04. Banchero 18/6/8: Schnitt 21/8 fuehrt nicht zu konsistentem DD weil Reb-Streuung zu gross. Triple-Double identisch + ALLE drei Stats geprueft.",
+      "bezug_spiel_id": null
     }
   ]
 }

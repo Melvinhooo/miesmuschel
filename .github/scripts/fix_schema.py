@@ -350,59 +350,55 @@ def _sync_einzeltipp_kategorie(d, sid, tid, neue_kat):
 
 
 def validate_nba_playoff(d):
-    """ROI-SANIERUNG Hebel B 04.05.2026: NBA-Playoff-Tipps mechanisch eindampfen.
+    """ROI-SANIERUNG Hebel B 04.05.2026 (v2 differenziert): NBA-Playoff-Decider haerten.
 
     Bilanz Stand 04.05.: NBA Playoffs Round 1 Game 6 = -45.6% ROI bei 7 Tipps,
-    Game 5 = -16.7% ROI bei 13 Tipps. Lesson 26.04. (Player-Punkte-Boykott)
-    greift zu schmal - auch Sieg/Spread/Total bluten.
+    Game 5 = -16.7% ROI bei 13 Tipps. Game 1-4 + Conference Finals + NBA Finals
+    nicht im Bluter-Pattern - dort SAFE bleibt erlaubt.
 
-    Regeln:
-    1. Alle NBA-Playoff-Spiele: Kategorie SAFE -> VALUE.
-       Begruendung: Defense-Adjustments, Verletzungspech, Blowout-Q4-Bank machen
-       SAFE-Niveau (75-90% Hitrate) unrealistisch.
-    2. Decider-Spiele (Game 5/6/7): Sieg/Spread/Total/DC -> WACKEL.
-       Begruendung: Closeout/Decider-Varianz extrem - Ueberraschungs-Sweeps,
-       Star-Out-Lineup-Wechsel, Defensiv-Schlachten. Markt-Bluter-Filter nimmt
-       Player-Punkte/DD eh mit (seit Apr-26-Boykott).
+    LEHRE 04.05. (User-Feedback): "Statt Markt-Boykott differenziert lernen."
+    Frueher: alle NBA-Playoff-Tipps SAFE -> VALUE pauschal. Das war Loeschen,
+    nicht Lernen. Neu: nur Decider (G5/G6/G7) trifft die Bluter-Phase, dort
+    Sieg/Spread/Total/DC max WACKEL. G1-G4 + Conference Finals + NBA Finals
+    sind SAFE-faehig wenn Edge da ist.
+
+    Regel: Decider-Spiele (Game 5/6/7) - Sieg/Spread/Total/DC -> WACKEL.
+    Begruendung: Closeout/Decider-Varianz extrem (Ueberraschungs-Sweeps,
+    Star-Out-Lineup-Wechsel, Defensiv-Schlachten). Player-Punkte/DD/TD im
+    Decider werden vom Markt-Bluter-Filter erfasst falls sie negativ
+    aufgefallen sind.
     """
     decider_keywords = (
         'sieg', 'spread', 'handicap', 'moneyline', 'ml',
         'total', 'gesamt', 'ueber', 'über', 'unter',
         'doppelte chance', ' dc ', '(1x)', '(x2)',
     )
-    downgrades_safe_value = 0
     downgrades_to_wackel = 0
     for spiel in d.get('spiele', []):
         liga = spiel.get('liga') or ''
         if 'nba playoffs' not in liga.lower():
             continue
         ist_decider = bool(NBA_DECIDER_PATTERN.search(liga))
+        if not ist_decider:
+            # G1-G4 oder Conference Finals oder NBA Finals - keine Auto-Filter,
+            # Routine entscheidet selbst basierend auf Edge.
+            continue
         sid = spiel.get('id')
         for tipp in spiel.get('tipps', []):
             kat = (tipp.get('kategorie') or '').lower()
             tid = tipp.get('id')
-            # Regel 1: SAFE -> VALUE fuer alle NBA-Playoff-Tipps
-            if kat == 'safe':
-                tipp['kategorie'] = 'value'
-                tipp['_nba_playoff_downgrade'] = True
+            if kat not in ('safe', 'value'):
+                continue
+            markt_lower = (tipp.get('markt') or '').lower()
+            if any(k in markt_lower for k in decider_keywords):
+                tipp['kategorie'] = 'wackel'
+                tipp['_nba_decider_downgrade'] = True
                 begr = tipp.get('begruendung') or ''
-                tipp['begruendung'] = (begr + ' [Auto: NBA-Playoffs nie SAFE - Varianz zu hoch]').strip()
-                _sync_einzeltipp_kategorie(d, sid, tid, 'value')
-                downgrades_safe_value += 1
-                kat = 'value'
-            # Regel 2: Decider + Sieg/Spread/Total/DC -> WACKEL
-            if ist_decider and kat in ('safe', 'value'):
-                markt_lower = (tipp.get('markt') or '').lower()
-                if any(k in markt_lower for k in decider_keywords):
-                    tipp['kategorie'] = 'wackel'
-                    tipp['_nba_decider_downgrade'] = True
-                    begr = tipp.get('begruendung') or ''
-                    tipp['begruendung'] = (begr + ' [Auto: NBA G5+/Decider - max WACKEL]').strip()
-                    _sync_einzeltipp_kategorie(d, sid, tid, 'wackel')
-                    downgrades_to_wackel += 1
-    if downgrades_safe_value or downgrades_to_wackel:
-        print(f"  NBA-Playoff-Filter: SAFE->VALUE x{downgrades_safe_value}, "
-              f"Sieg/Spread/Total in Decider -> WACKEL x{downgrades_to_wackel}")
+                tipp['begruendung'] = (begr + ' [Auto: NBA G5+/Decider Sieg/Spread/Total - max WACKEL wegen Closeout-Varianz]').strip()
+                _sync_einzeltipp_kategorie(d, sid, tid, 'wackel')
+                downgrades_to_wackel += 1
+    if downgrades_to_wackel:
+        print(f"  NBA-Decider-Filter: {downgrades_to_wackel} Sieg/Spread/Total in Decider (G5-7) -> WACKEL")
 
 
 def validate_safe_confirm(d):

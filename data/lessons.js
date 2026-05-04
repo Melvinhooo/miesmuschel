@@ -277,6 +277,42 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "SAFE-Reality-Check: Mapper-Confirm (Hebel C ROI-Sanierung)",
       "lesson": "SAFE-Trefferquote war 04.05. nur 71.2% bei 52 Tipps - 4 Punkte unter Soll-Untergrenze von 75-90%. ROI auf SAFE -4.7%. SAFE-Label wurde von der Routine zu locker vergeben. Schema-Mapper validate_safe_confirm() bestaetigt SAFE jetzt nur wenn: (a) Markt-Typ in markt_goldgruben.json (z.B. Doppelte Chance 1X/X2, Torschuetzen Jederzeit) ODER (b) Liga in der neuen liga_goldgruben.json (aktuell Premier League, LaLiga, CL Halbfinale Hinspiel) ODER (c) Liga-Sample <5 Tipps (Datenmangel - z.B. DFB-Pokal HF mit n=4 und +46% ROI sollen nicht bestraft werden). Sonst SAFE -> VALUE. Liga-Goldgrube-Kriterium: ROI > 15% ODER (Trefferquote >= 65% UND ROI > 0%) bei n >= 5. Auto-generiert in scripts/statistik_berechnen.py:berechne_liga_goldgruben(). Damit haben SAFE-Tipps wieder echte Substanz statt 'fuehlt sich sicher an'-Label.",
       "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "Saison-Kontext-Sanity: Mapper-Hebel S",
+      "lesson": "Lehre aus 03.05. BMG-BVB (Endstand 1:0 fuer BMG) + Freiburg-Wolfsburg (1:1): Routine recherchiert saison_kontext{} korrekt, ignoriert ihn dann bei der Kategorie-Vergabe. BMG-BVB: Routine schrieb selbst 'Klassenerhalt faktisch durch fuer BMG + Vize hinter uneinholbarem Bayern fuer BVB' und labelte trotzdem SAFE auf BVB-DC. Freiburg-Wolfsburg: Routine schrieb 'Edge daher kleiner als Heimstaerke suggeriert' und labelte trotzdem SAFE auf Freiburg-DC. Schema-Mapper validate_saison_kontext_sanity() degradiert jetzt SAFE/VALUE auf Sieg/DC/Spread eine Stufe runter wenn (a) saisonziel_heim/gast Komfort-Pattern enthaelt (gerettet, uneinholbar, ohne druck, klassenerhalt durch, mid-table gesichert, saisonziel erreicht), (b) motivations_asymmetrie Asymmetrie-Warnung (rotiert, edge kleiner als, doppelbelastung) oder (c) recovery-Felder Belastungs-Pattern (mude, ermuedung, recovery kritisch). Tor-Maerkte sind ausgenommen. Damit zwingt der Mapper die Routine-eigene Recherche in die Kategorie-Vergabe.",
+      "bezug_spiel_id": "2026-05-03-bmg-bvb"
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "Markt-Mix-Pflicht pro Spiel: Mapper-Hebel M",
+      "lesson": "Lehre aus 03.05. St.Pauli-Mainz (1:2 Mainz-Sieg auswaerts): Routine packte 3 rein defensive Tipps auf das Spiel - 'Unter 2.5 Tore' (verloren, 3 Tore), 'Mainz oder Unentschieden' (gewonnen aber Quote 1.30), 'Beide Teams treffen NEIN' (verloren). Bilanz Spiel: -2 Units in einem Spiel das Mainz klar gewann. Was gefehlt hat: Mainz-Sieg @ 2.0 (gewonnen), BTTS-Ja @ 1.65 (gewonnen), Mainz-Torschuetze (Goldgrube +24% ROI, ignoriert). Routine ist DC-suechtig, packt zu defensive Maerkte zusammen. Schema-Mapper validate_markt_mix() macht jetzt: (1) max 1 DC pro Spiel - mehrere DC-Tipps werden auf den hoechstpriorisierten reduziert. (2) Wenn ein Spiel KEINEN Sieg- und KEINEN Torschuetzen-Tipp hat (also nur DC/Total/BTTS-Defensiv-Mix), wird SAFE-DC auf VALUE downgegradet - kein offensives Edge-Signal = kein SAFE. Damit haben SAFE-DC-Tipps nur dann Substanz wenn die Routine im selben Spiel auch ein offensives Bein gefunden hat.",
+      "bezug_spiel_id": "2026-05-03-stp-mai"
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "PFLICHT-PROFILE pro Spiel: Backup-Spieler + Form-Edge (Hebel-MIX 04.05.)",
+      "lesson": "BEFEHL an die Tipps-Routine, kein Vorschlag. Pro Spiel folgendes pruefen + tippen:\n(1) Wenn Heim-Sieg-Quote < 1.80 ODER Auswaerts-Sieg-Quote < 2.20: MIN 1 Torschuetzen-Tipp auf den Top-Stuermer mit aktueller Form ist PFLICHT. Goldgrube Torschuetzen Jederzeit hat 50% Hitrate / +24.4% ROI - ist der profitabelste Markt im System.\n(2) Wenn Top-Stuermer ausfaellt (Verletzung/CL-Aus): BACKUP-Stuermer-Torschuetzen-Tipp ist PFLICHT. Beispiele: Real Madrid ohne Mbappe -> Vinicius. Bayern ohne Kane -> Mueller/Sane. Leverkusen -> Schick (Form). BVB Backup -> Adeyemi/Brandt. (3) Form-Recherche pro Heim-/Auswaerts-Favorit: WebSearch 'Spielername letzte Spiele Tore' oder kicker.de Spieler-Profil. 3+ Tore in 5 Spielen ODER 2+ in 3 -> Torschuetzen-Tipp Pflicht.\n(4) DC-CAP: max 1 DC pro Spiel, max 2-3 DC im gesamten Dossier. Wenn dein Set 4+ DCs hat, ersetze die schwaechsten durch Torschuetzen.\n(5) Coinflip-Spiele (alle 1X2-Quoten 2.40-3.50): KEIN SAFE moeglich.\nHintergrund Lehre 03.05.: Vinicius-Tipp komplett uebersehen obwohl Mbappe seit CL-Aus weg, St.Pauli-Mainz mit 3 defensiven Tipps -2 Units bei klarem Mainz-Sieg, BVB-DC SAFE obwohl Routine selbst 'uneinholbar Bayern + Mid-Table ohne Druck' schrieb. Die Tipps die GEFEHLT haben waren Sieg + Torschuetze + Backup-Spieler. Mapper-Hebel M downgraded jetzt SAFE-DC wenn kein Sieg- und kein Torschuetzen-Tipp im Spiel ist.",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "META: Differenziertes Lernen statt Markt-Boykott",
+      "lesson": "User-Feedback 04.05.2026 (wichtig fuer Stil): Wenn ein Markt-Typ ueber 2-3 Tage schlecht laeuft, ist die Lehre NICHT 'Markt-Typ komplett aus Einzeltipps streichen'. Das ist Loeschen, nicht Lernen. Differenzierte Auswertung erforderlich. Beispiele:\n(1) NBA-Player-Punkte 22.-26.04. -46% ROI -> falsche Lehre 'Player-Punkte komplett raus'. Richtige Lehre: 'Underdog-Player bei Spread > 8 max WACKEL (Blowout-Q4-Bank); Heim-Top-Stars bei Spread < 5 + Form-Edge bleiben SAFE/VALUE-faehig'.\n(2) DD/TD nach Banchero-Beispiel 22.04. -> falsche Lehre 'DD raus aus Einzeltipps'. Richtige Lehre: 'DD nur wenn beide Stats (meist Pkt + Reb) realistisch 10+ Schnitt in letzten 5 Spielen, nicht bei Saisonschnitt-Streuung'.\n(3) NBA-Playoffs Round 1 -> falsche Lehre 'NBA-Playoffs nie SAFE'. Richtige Lehre: 'Decider G5/G6/G7 - Sieg/Spread/Total/DC max WACKEL (Closeout-Varianz). G1-G4 + Conference Finals + NBA Finals SAFE-faehig wenn klare Edge (Form, Spread, Defense-Match-up).'\nGenerelles Prinzip: Verlust-Pattern analysieren (welche Sub-Kategorie blutet?) statt pauschal blockieren. Mapper-Hebel B v2 04.05.: NBA-Playoff-Filter differenziert - nur Decider gefiltert, G1-G4 frei.",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "NBA Player-Punkte: Differenzierte Regel statt Boykott",
+      "lesson": "Korrektur des 26.04.-Boykott. Player-Punkte sind nicht generell raus, sondern differenziert nach Spielsituation:\nERLAUBT als VALUE/SAFE-faehig: Heim-Top-Stuermer eines Top-Teams bei Spread <= 5 Pkt UND Form-Edge (15+ Pkt in 3 von 5 letzten Spielen). Beispiel: Tatum @ Boston vs Underdog -3.5 Heim, letzte 5 mit 24/22/19/27/21 Pkt -> Ueber 21.5 SAFE/VALUE OK.\nMAX WACKEL bei: Underdog-Team-Player bei Spread > 8 (Blowout-Q4-Bankdruecker), Star-Out-Backup ohne Form-Beleg, Player vor Decider G5/G6/G7 (Defense-Adjustments).\nKOMPLETT RAUS bei: Player-Props ueber Saison-Schnitt-Linien des Underdogs in Auswaerts-Spielen (Underdog-Risiko + Auswaerts-Risiko + Saison-Linien-Bias = kombinierter Bluter-Pattern, war 23.04.-Lesson Bane/Wagner).",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "NBA DD/TD: Differenzierte Regel statt Boykott",
+      "lesson": "Korrektur. DD/TD nicht pauschal in Risiko/Moonshot abschieben, sondern: Erlaubt als VALUE wenn BEIDE Stats des DD-Markts (meist Pkt + Reb oder Pkt + Ast) in den letzten 5 Spielen Schnitt 10+ haben. Beispiel: Jokic Pkt+Reb DD - wenn letzte 5 Pkt-Schnitt 28 + Reb-Schnitt 12 -> DD VALUE OK. Wenn nur eine Stat konsistent (z.B. 25 Pkt aber Reb-Range 4-15 mit Schnitt 8) -> DD max WACKEL. Reference Lesson 23.04. Banchero 18/6/8: Schnitt 21/8 fuehrt nicht zu konsistentem DD weil Reb-Streuung zu gross. Triple-Double identisch + ALLE drei Stats geprueft.",
+      "bezug_spiel_id": null
     }
   ]
 };
