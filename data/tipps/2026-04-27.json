@@ -88,12 +88,6 @@
       "kategorie": "safe",
       "beine": [
         {
-          "spiel_id": "2026-04-28-nuggets-wolves-g5",
-          "spiel_titel": "Denver Nuggets vs Minnesota Timberwolves G5",
-          "markt": "Denver Nuggets vs Minnesota Timberwolves G5: Nuggets Sieg (Moneyline)",
-          "quote": 1.2
-        },
-        {
           "spiel_id": "2026-04-28-suns-thunder-g4",
           "spiel_titel": "Phoenix Suns vs OKC Thunder G4",
           "markt": "Phoenix Suns vs OKC Thunder G4: Thunder Sieg (Moneyline)",
@@ -106,8 +100,8 @@
           "quote": 1.91
         }
       ],
-      "gesamtquote": 2.75,
-      "rechnung": "1.20 × 1.20 × 1.91 = 2.75",
+      "gesamtquote": 2.29,
+      "rechnung": "1.20 x 1.91 = 2.29",
       "empfohlener_einsatz_prozent": 1.5,
       "begruendung": "Drei Picks aus drei Spielen: Nuggets klare Klassendifferenz, Thunder Sweep-Modus, Magic Spread im eigenen Haus. Saubere ~2.75x ohne Player-Props."
     },
@@ -116,12 +110,6 @@
       "name": "Balance-Kombi (Totals + Sieg)",
       "kategorie": "value",
       "beine": [
-        {
-          "spiel_id": "2026-04-28-nuggets-wolves-g5",
-          "spiel_titel": "Denver Nuggets vs Minnesota Timberwolves G5",
-          "markt": "Denver Nuggets vs Minnesota Timberwolves G5: Nuggets Sieg (Moneyline)",
-          "quote": 1.2
-        },
         {
           "spiel_id": "2026-04-28-suns-thunder-g4",
           "spiel_titel": "Phoenix Suns vs OKC Thunder G4",
@@ -135,8 +123,8 @@
           "quote": 1.91
         }
       ],
-      "gesamtquote": 4.38,
-      "rechnung": "1.20 × 1.91 × 1.91 = 4.38",
+      "gesamtquote": 3.65,
+      "rechnung": "1.91 x 1.91 = 3.65",
       "empfohlener_einsatz_prozent": 1.0,
       "begruendung": "Anker-Sieg + zwei Totals (eines Über bei Suns-Thunder Pace, eines Unter bei Magic-Pistons Defense). ~4.4x, sauberer Mix."
     },
@@ -145,12 +133,6 @@
       "name": "Risiko-Kombi (5 Beine quer)",
       "kategorie": "risk",
       "beine": [
-        {
-          "spiel_id": "2026-04-28-nuggets-wolves-g5",
-          "spiel_titel": "Denver Nuggets vs Minnesota Timberwolves G5",
-          "markt": "Denver Nuggets vs Minnesota Timberwolves G5: Nuggets Sieg (Moneyline)",
-          "quote": 1.2
-        },
         {
           "spiel_id": "2026-04-28-magic-pistons-g4",
           "spiel_titel": "Orlando Magic vs Detroit Pistons G4",
@@ -164,8 +146,8 @@
           "quote": 1.91
         }
       ],
-      "gesamtquote": 4.38,
-      "rechnung": "1.20 × 1.91 × 1.91 = 4.38",
+      "gesamtquote": 3.65,
+      "rechnung": "1.91 x 1.91 = 3.65",
       "empfohlener_einsatz_prozent": 0.25,
       "begruendung": "Fünf Beine: 1 Sieg-Anker + 4 Spread/Total-Picks. Nicht-korreliert weil verschiedene Spiele/Maerkte. Ehrliche ~16x."
     },
@@ -174,12 +156,6 @@
       "name": "Moonshot-Kombi (Lotterie)",
       "kategorie": "moonshot",
       "beine": [
-        {
-          "spiel_id": "2026-04-28-nuggets-wolves-g5",
-          "spiel_titel": "Denver Nuggets vs Minnesota Timberwolves G5",
-          "markt": "Denver Nuggets vs Minnesota Timberwolves G5: Jokic Triple-Double",
-          "quote": 3.5
-        },
         {
           "spiel_id": "2026-04-28-suns-thunder-g4",
           "spiel_titel": "Phoenix Suns vs OKC Thunder G4",
@@ -193,8 +169,8 @@
           "quote": 1.91
         }
       ],
-      "gesamtquote": 12.77,
-      "rechnung": "3.50 × 1.91 × 1.91 = 12.77",
+      "gesamtquote": 3.65,
+      "rechnung": "1.91 x 1.91 = 3.65",
       "empfohlener_einsatz_prozent": 0.1,
       "begruendung": "Lottoschein: alle drei Star-Scorer treffen ihre Linien + Jokic-TD. Hit-Wahrscheinlichkeit ~3-5%. Spass-Einsatz 1-2 €."
     }

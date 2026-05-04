@@ -453,13 +453,14 @@
         },
         {
           "markt": "BVB oder Unentschieden (1X)",
-          "kategorie": "safe",
+          "kategorie": "value",
           "edge_prozent": 4,
-          "begruendung": "DC 1X als sichere Variante: BVB-Heim-Sieg + Remis = ~85% Hitrate. Frankfurt-Auswaerts-Form gegen BVB historisch schwach. Quote ~1.30 verifiziert. Lt. Bilanz: DC 1X Goldgrube (84.6% Hitrate, +9.5% ROI).",
+          "begruendung": "DC 1X als sichere Variante: BVB-Heim-Sieg + Remis = ~85% Hitrate. Frankfurt-Auswaerts-Form gegen BVB historisch schwach. Quote ~1.30 verifiziert. Lt. Bilanz: DC 1X Goldgrube (84.6% Hitrate, +9.5% ROI). [Auto: SAFE-Confirm fehlt - weder Markt- noch Liga-Goldgrube]",
           "id": "bvb-fra-2",
           "faire_quote": 0,
           "empfohlener_einsatz_prozent": 1.5,
-          "quote": 1.3
+          "quote": 1.3,
+          "_safe_confirm_downgrade": true
         }
       ],
       "kontext_check_status": "OK"
@@ -799,13 +800,14 @@
       "tipps": [
         {
           "markt": "Arsenal oder Unentschieden (X2)",
-          "kategorie": "safe",
+          "kategorie": "value",
           "edge_prozent": 4,
-          "begruendung": "Klassen-Edge (Tabellenfuehrer vs Mid-Table) + dominanter H2H 22-5 + 16 Clean Sheets. DC X2 als sichere Variante gegen Rotations-Risiko (CL-Final-Vorbereitung). Quote ~1.20 verifiziert. Lt. Bilanz: DC X2 Goldgrube (77.8% Hitrate, +9.4% ROI). Selbst bei Arsenal-B-Elf reicht Remis statistisch ~85%.",
+          "begruendung": "Klassen-Edge (Tabellenfuehrer vs Mid-Table) + dominanter H2H 22-5 + 16 Clean Sheets. DC X2 als sichere Variante gegen Rotations-Risiko (CL-Final-Vorbereitung). Quote ~1.20 verifiziert. Lt. Bilanz: DC X2 Goldgrube (77.8% Hitrate, +9.4% ROI). Selbst bei Arsenal-B-Elf reicht Remis statistisch ~85%. [Auto: Markt-Mix - kein Sieg/Torschuetzen-Tipp im Spiel, also kein offensives Edge-Signal -> SAFE-DC nicht legitim]",
           "id": "whu-ars-1",
           "faire_quote": 0,
           "empfohlener_einsatz_prozent": 1.5,
-          "quote": 1.2
+          "quote": 1.2,
+          "_markt_mix_dc_downgrade": true
         }
       ],
       "kontext_check_status": "OK"

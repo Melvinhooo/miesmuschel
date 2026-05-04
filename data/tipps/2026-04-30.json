@@ -244,7 +244,7 @@
     {
       "name": "Balance-Kombi (~6x)",
       "kategorie": "value",
-      "gesamtquote": 6.02,
+      "gesamtquote": 3.15,
       "empfohlener_einsatz_prozent": 0.4,
       "beine": [
         {
@@ -256,19 +256,15 @@
           "spiel_id": "2026-04-30-nottingham-forest-aston-villa",
           "markt": "Beide Teams treffen: JA (Forest-Villa)",
           "quote": 1.65
-        },
-        {
-          "spiel_id": "2026-04-30-hawks-knicks-g6",
-          "markt": "Mehr als 213.5 Punkte gesamt (Hawks-Knicks)",
-          "quote": 1.91
         }
       ],
-      "begruendung": "Layer-2 erfuellt: 0 Sieg-Outcomes (nur BTTS + Total). Beide BTTS-Picks haben starkes Form-Argument (5/5 Forest-Villa H2H, beide Braga/Freiburg in QF mit Toren). Hawks-Knicks Total durch Knicks-Hot-Hand-Form + Hawks-Backs-against-wall-Tempo gestuetzt. Rechenkontrolle: 1.91 * 1.65 * 1.91 = 6.02."
+      "begruendung": "Layer-2 erfuellt: 0 Sieg-Outcomes (nur BTTS + Total). Beide BTTS-Picks haben starkes Form-Argument (5/5 Forest-Villa H2H, beide Braga/Freiburg in QF mit Toren). Hawks-Knicks Total durch Knicks-Hot-Hand-Form + Hawks-Backs-against-wall-Tempo gestuetzt. Rechenkontrolle: 1.91 * 1.65 * 1.91 = 6.02.",
+      "rechnung": "1.91 x 1.65 = 3.15"
     },
     {
       "name": "Risiko-Kombi (~18x)",
       "kategorie": "wackel",
-      "gesamtquote": 18.3,
+      "gesamtquote": 9.58,
       "empfohlener_einsatz_prozent": 0.25,
       "beine": [
         {
@@ -285,19 +281,15 @@
           "spiel_id": "2026-04-30-rayo-vallecano-strasbourg",
           "markt": "Mehr als 2.5 Tore (Rayo-Strasbourg)",
           "quote": 1.98
-        },
-        {
-          "spiel_id": "2026-04-30-wolves-nuggets-g6",
-          "markt": "Mehr als 224.5 Punkte gesamt (Wolves-Nuggets)",
-          "quote": 1.91
         }
       ],
-      "begruendung": "Layer-2 erfuellt: 0 Sieg-Outcomes (nur Totals). Tor/Punkte-Festival in 4 Spielen — drei Fussball-EL/Conference-HFs mit beidseitigem Tor-Druck (HF-Hinspiele mit Auswaerts-Tor-Logik) + Wolves-Nuggets-Total nach G5-Hochskorer (125+113=238). Rechenkontrolle: 2.20 * 2.20 * 1.98 * 1.91 = 18.31."
+      "begruendung": "Layer-2 erfuellt: 0 Sieg-Outcomes (nur Totals). Tor/Punkte-Festival in 4 Spielen — drei Fussball-EL/Conference-HFs mit beidseitigem Tor-Druck (HF-Hinspiele mit Auswaerts-Tor-Logik) + Wolves-Nuggets-Total nach G5-Hochskorer (125+113=238). Rechenkontrolle: 2.20 * 2.20 * 1.98 * 1.91 = 18.31.",
+      "rechnung": "2.20 x 2.20 x 1.98 = 9.58"
     },
     {
       "name": "Moonshot-Kombi (~39x)",
       "kategorie": "moonshot",
-      "gesamtquote": 38.64,
+      "gesamtquote": 10.59,
       "empfohlener_einsatz_prozent": 0.1,
       "beine": [
         {
@@ -319,19 +311,10 @@
           "spiel_id": "2026-04-30-rayo-vallecano-strasbourg",
           "markt": "Beide Teams treffen: JA (Rayo-Strasbourg)",
           "quote": 1.76
-        },
-        {
-          "spiel_id": "2026-04-30-hawks-knicks-g6",
-          "markt": "Mehr als 213.5 Punkte gesamt (Hawks-Knicks)",
-          "quote": 1.91
-        },
-        {
-          "spiel_id": "2026-04-30-wolves-nuggets-g6",
-          "markt": "Mehr als 224.5 Punkte gesamt (Wolves-Nuggets)",
-          "quote": 1.91
         }
       ],
-      "begruendung": "Layer-2 erfuellt: 0 Sieg-Outcomes — nur BTTS + NBA-Totals. Vier-Kontinents-Tor-Festival: 4x BTTS in den europaeischen HF-Hinspielen (alle haben Auswaerts-Tor-Logik fuer Rueckspiel) + 2 Hochskorer-NBA-Closeouts. Lotterie-Charakter, Spasseinsatz. Rechenkontrolle: 1.91 * 1.65 * 1.91 * 1.76 * 1.91 * 1.91 = 38.64."
+      "begruendung": "Layer-2 erfuellt: 0 Sieg-Outcomes — nur BTTS + NBA-Totals. Vier-Kontinents-Tor-Festival: 4x BTTS in den europaeischen HF-Hinspielen (alle haben Auswaerts-Tor-Logik fuer Rueckspiel) + 2 Hochskorer-NBA-Closeouts. Lotterie-Charakter, Spasseinsatz. Rechenkontrolle: 1.91 * 1.65 * 1.91 * 1.76 * 1.91 * 1.91 = 38.64.",
+      "rechnung": "1.91 x 1.65 x 1.91 x 1.76 = 10.59"
     }
   ],
   "lessons_angewandt": [

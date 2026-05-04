@@ -108,13 +108,14 @@
         },
         {
           "markt": "BVB oder Unentschieden (X2)",
-          "kategorie": "safe",
+          "kategorie": "value",
           "edge_prozent": 5,
-          "begruendung": "AUFSTELLUNG BESTAETIGT (15:45): Gladbach OHNE Top-Stuermer Kleindienst (Knie-OP) + OHNE Castrop (Rotsperre). Tabakovic alleinige Spitze gegen N.Schlotterbeck/Anton. BVB voll mit Guirassy/Beier/Brandt/Bellingham/Sabitzer/Bensebaini. Gladbach-Sturm-Ausfall verstaerkt BVB-Edge. DC X2 deckt Auswaerts-Sieg + Remis. Gladbach hat zuhause gegen BVB historisch selten gewonnen + keine CL-HF-Comeback-These (Bayern-Heidenheim-Falle nicht aktiv). Lt. Bilanz: DC ist Goldgrube #1 (Rayo 1X 2/2, Levante 1X 1/1, Real Madrid X2 1/1). Quote 1.30 deckt 77%, fair waere mit Kleindienst-Ausfall eher 82%.",
+          "begruendung": "AUFSTELLUNG BESTAETIGT (15:45): Gladbach OHNE Top-Stuermer Kleindienst (Knie-OP) + OHNE Castrop (Rotsperre). Tabakovic alleinige Spitze gegen N.Schlotterbeck/Anton. BVB voll mit Guirassy/Beier/Brandt/Bellingham/Sabitzer/Bensebaini. Gladbach-Sturm-Ausfall verstaerkt BVB-Edge. DC X2 deckt Auswaerts-Sieg + Remis. Gladbach hat zuhause gegen BVB historisch selten gewonnen + keine CL-HF-Comeback-These (Bayern-Heidenheim-Falle nicht aktiv). Lt. Bilanz: DC ist Goldgrube #1 (Rayo 1X 2/2, Levante 1X 1/1, Real Madrid X2 1/1). Quote 1.30 deckt 77%, fair waere mit Kleindienst-Ausfall eher 82%. [Auto: SAFE-Confirm fehlt - weder Markt- noch Liga-Goldgrube]",
           "id": "bmg-bvb-2",
           "faire_quote": 0,
           "empfohlener_einsatz_prozent": 1.5,
-          "quote": 1.3
+          "quote": 1.3,
+          "_safe_confirm_downgrade": true
         },
         {
           "markt": "Mehr als 2.5 Tore",
@@ -162,13 +163,15 @@
       "tipps": [
         {
           "markt": "Freiburg oder Unentschieden (1X)",
-          "kategorie": "safe",
+          "kategorie": "wackel",
           "edge_prozent": 7,
-          "begruendung": "AUFSTELLUNG (15:45): Trainer Schuster rotiert wahrscheinlich mehrere Positionen vor EL-HF Rueckspiel Donnerstag — Kicker bestaetigt explizit. Freiburg-Heim-Vorteil daher reduziert. ABER: DC 1X (Heim+Remis) ist auch bei B-Elf-Freiburg solide, weil Wolfsburg-Auswaerts-Trauerspiel weiterhin gilt: 1 Sieg aus 8 Spielen 2026, 3.25 Gegentore-Schnitt. Wolfsburg-Auswaerts-Sieg-Wahrscheinlichkeit ~21% Bookies. Selbst bei B-Elf-Freiburg ist DC 1X mit ~75% Wahrscheinlichkeit safe (Remis-Pufferweite gibt zusaetzliche Insurance bei Rotation). DC 1X 1.30 = 77% — fair. Lt. Bilanz: DC Goldgrube. SAFE-Label trotz Rotation OK durch Wolfsburg-Schwaeche.",
+          "begruendung": "AUFSTELLUNG (15:45): Trainer Schuster rotiert wahrscheinlich mehrere Positionen vor EL-HF Rueckspiel Donnerstag — Kicker bestaetigt explizit. Freiburg-Heim-Vorteil daher reduziert. ABER: DC 1X (Heim+Remis) ist auch bei B-Elf-Freiburg solide, weil Wolfsburg-Auswaerts-Trauerspiel weiterhin gilt: 1 Sieg aus 8 Spielen 2026, 3.25 Gegentore-Schnitt. Wolfsburg-Auswaerts-Sieg-Wahrscheinlichkeit ~21% Bookies. Selbst bei B-Elf-Freiburg ist DC 1X mit ~75% Wahrscheinlichkeit safe (Remis-Pufferweite gibt zusaetzliche Insurance bei Rotation). DC 1X 1.30 = 77% — fair. Lt. Bilanz: DC Goldgrube. SAFE-Label trotz Rotation OK durch Wolfsburg-Schwaeche. [Auto: SAFE-Confirm fehlt - weder Markt- noch Liga-Goldgrube] [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
           "id": "fre-wol-1",
           "faire_quote": 0,
           "empfohlener_einsatz_prozent": 1.5,
-          "quote": 1.3
+          "quote": 1.3,
+          "_safe_confirm_downgrade": true,
+          "_saison_kontext_sanity_downgrade": true
         },
         {
           "markt": "Freiburg Sieg",
@@ -414,13 +417,14 @@
       "tipps": [
         {
           "markt": "Real Madrid oder Unentschieden (X2)",
-          "kategorie": "safe",
+          "kategorie": "value",
           "edge_prozent": 6,
-          "begruendung": "Espanyol seit 16 Spielen ohne Sieg + faktisch abgestiegen + zuhause mit Auslauf-Modus = ein Espanyol-Heim-Sieg gegen Real Madrid waere sensationell. DC X2 bei 1.20 deckt 83% Wahrscheinlichkeit, fair waere ~85% (Real-Form-Krise 1/6 zieht etwas runter). Lt. Bilanz: 'Real Madrid Doppelte Chance (X2)' bisher 1/1 (100%, +35% ROI). Doppelte-Chance-Markt allgemein die staerkste Trefferquote im Tool. KORREKTUR: Frueheres Tipps-Dossier hatte CL-HF-Doppelbelastung als Edge-Argument benannt — das ist falsch, Real ist im April aus der CL ausgeschieden (vs Bayern). Edge bleibt aber durch Klassen-Asymmetrie + DC-Hedge stabil.",
+          "begruendung": "Espanyol seit 16 Spielen ohne Sieg + faktisch abgestiegen + zuhause mit Auslauf-Modus = ein Espanyol-Heim-Sieg gegen Real Madrid waere sensationell. DC X2 bei 1.20 deckt 83% Wahrscheinlichkeit, fair waere ~85% (Real-Form-Krise 1/6 zieht etwas runter). Lt. Bilanz: 'Real Madrid Doppelte Chance (X2)' bisher 1/1 (100%, +35% ROI). Doppelte-Chance-Markt allgemein die staerkste Trefferquote im Tool. KORREKTUR: Frueheres Tipps-Dossier hatte CL-HF-Doppelbelastung als Edge-Argument benannt — das ist falsch, Real ist im April aus der CL ausgeschieden (vs Bayern). Edge bleibt aber durch Klassen-Asymmetrie + DC-Hedge stabil. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> safe->value]",
           "id": "esp-rma-1",
           "faire_quote": 0,
           "empfohlener_einsatz_prozent": 1.5,
-          "quote": 1.2
+          "quote": 1.2,
+          "_saison_kontext_sanity_downgrade": true
         },
         {
           "markt": "Real Madrid Sieg",
@@ -758,7 +762,7 @@
       "spiel_id": "2026-05-03-esp-rma",
       "spiel": "Espanyol - Real Madrid",
       "markt": "Real Madrid oder Unentschieden (X2)",
-      "kategorie": "safe",
+      "kategorie": "value",
       "edge_prozent": 6,
       "empfohlener_einsatz_prozent": 2.0,
       "begruendung": "Espanyol seit 16 Spielen ohne Sieg + faktisch abgestiegen. 'Real Madrid DC X2' bisher 1/1 (+35% ROI). DC X2 hedget Real-CL-HF-Rotations-Risiko (Lesson 02.05.) ab. Quote 1.20 = 83%.",
@@ -770,7 +774,7 @@
       "spiel_id": "2026-05-03-fre-wol",
       "spiel": "Freiburg - Wolfsburg",
       "markt": "Freiburg oder Unentschieden (1X)",
-      "kategorie": "safe",
+      "kategorie": "wackel",
       "edge_prozent": 7,
       "empfohlener_einsatz_prozent": 2.0,
       "begruendung": "Wolfsburg auswaerts katastrophal (1/8 Siege 2026, 3.25 Gegentore/Spiel). Freiburg 5/6 H2H. DC 1X 1.30 = 77%, fair waere 82%. Doppelte-Chance-Goldgrube + Heim-Stamm-Form.",
@@ -782,7 +786,7 @@
       "spiel_id": "2026-05-03-bmg-bvb",
       "spiel": "Gladbach - Borussia Dortmund",
       "markt": "BVB oder Unentschieden (X2)",
-      "kategorie": "safe",
+      "kategorie": "value",
       "edge_prozent": 5,
       "empfohlener_einsatz_prozent": 2.0,
       "begruendung": "BVB ohne CL/Pokal-Doppelbelastung (kein 02.05.-Bayern-Heidenheim-Falle), klare Klassendifferenz. Gladbach Klassenerhalt fast durch (6 Pkt Polster). DC X2 deckt Sieg + Remis.",
@@ -978,25 +982,12 @@
           "markt": "Espanyol - Real Madrid: Unter 3.5 Tore",
           "quote": 1.4,
           "spiel_titel": "Espanyol - Real Madrid"
-        },
-        {
-          "tipp_id": "cle-tor-2",
-          "spiel_id": "2026-05-04-cle-tor",
-          "markt": "Cavaliers - Raptors G7: Toronto Raptors +8.5 (Spread)",
-          "quote": 1.91,
-          "spiel_titel": "Cavaliers - Raptors G7"
-        },
-        {
-          "tipp_id": "det-orl-1",
-          "spiel_id": "2026-05-03-det-orl",
-          "markt": "Pistons - Magic G7: Pistons -7.5 (Spread)",
-          "quote": 1.91,
-          "spiel_titel": "Pistons - Magic G7"
         }
       ],
-      "gesamtquote": 15.2,
+      "gesamtquote": 4.17,
       "empfohlener_einsatz_prozent": 0.25,
-      "begruendung": "5-Bein-Risiko mit perfekter Layer-3-Diversifikation: 3 Tor-Linien (2x Ueber 2.5, 1x Unter 3.5 — gegensaetzliche Polung) + 2 NBA-Spreads (G7-Decider). Lt. 02.05.-Lesson: 5-Bein-Risiko ideal bei 5+ Spielen. Erfolgs-Vorlage von 01.05. (9.79x gewann komplett mit 4 verschiedenen Markttypen). Keine Sieg-Outcome-Konzentration mit Safe oder Balance — alle Beine markt-typ-getrennt."
+      "begruendung": "5-Bein-Risiko mit perfekter Layer-3-Diversifikation: 3 Tor-Linien (2x Ueber 2.5, 1x Unter 3.5 — gegensaetzliche Polung) + 2 NBA-Spreads (G7-Decider). Lt. 02.05.-Lesson: 5-Bein-Risiko ideal bei 5+ Spielen. Erfolgs-Vorlage von 01.05. (9.79x gewann komplett mit 4 verschiedenen Markttypen). Keine Sieg-Outcome-Konzentration mit Safe oder Balance — alle Beine markt-typ-getrennt.",
+      "rechnung": "1.75 x 1.70 x 1.40 = 4.17"
     },
     {
       "name": "Moonshot-Kombi",
@@ -1024,20 +1015,6 @@
           "spiel_titel": "Lyon - Rennes"
         },
         {
-          "tipp_id": "det-orl-2",
-          "spiel_id": "2026-05-03-det-orl",
-          "markt": "Pistons - Magic G7: Unter 211.5 Punkte",
-          "quote": 1.91,
-          "spiel_titel": "Pistons - Magic G7"
-        },
-        {
-          "tipp_id": "cle-tor-3",
-          "spiel_id": "2026-05-04-cle-tor",
-          "markt": "Cavaliers - Raptors G7: Ueber 211.5 Punkte",
-          "quote": 1.91,
-          "spiel_titel": "Cavaliers - Raptors G7"
-        },
-        {
           "tipp_id": "mun-liv-3",
           "spiel_id": "2026-05-03-mun-liv",
           "markt": "Manchester United - Liverpool: Unter 3.5 Tore",
@@ -1045,9 +1022,10 @@
           "spiel_titel": "Manchester United - Liverpool"
         }
       ],
-      "gesamtquote": 29.13,
+      "gesamtquote": 7.96,
       "empfohlener_einsatz_prozent": 0.1,
-      "begruendung": "6-Bein-Moonshot ohne 1000x weil Quoten heute keine Lotterie hergeben (alle Sieg-Outcomes mit hoeheren Quoten waeren Layer-2-Verletzungen mit Safe/Balance). Stattdessen ~30x mit 0.1% Mini-Einsatz. Bewusst gegensaetzliche NBA-Totals (G7-Decider — Pistons-Magic Defensiv-Schlacht-These vs Cavs-Raptors Hot-Hand-These) als Hedge in beide NBA-Spiele. BTTS-Beine sind statistisch riskant (Lessons-Bluter), passen aber nur als Spass-Bein hier. Lt. Lesson 02.05.: 4-Bein-Risiko 0.25%, daher Moonshot 6-Bein 0.1%."
+      "begruendung": "6-Bein-Moonshot ohne 1000x weil Quoten heute keine Lotterie hergeben (alle Sieg-Outcomes mit hoeheren Quoten waeren Layer-2-Verletzungen mit Safe/Balance). Stattdessen ~30x mit 0.1% Mini-Einsatz. Bewusst gegensaetzliche NBA-Totals (G7-Decider — Pistons-Magic Defensiv-Schlacht-These vs Cavs-Raptors Hot-Hand-These) als Hedge in beide NBA-Spiele. BTTS-Beine sind statistisch riskant (Lessons-Bluter), passen aber nur als Spass-Bein hier. Lt. Lesson 02.05.: 4-Bein-Risiko 0.25%, daher Moonshot 6-Bein 0.1%.",
+      "rechnung": "1.95 x 1.65 x 1.65 x 1.50 = 7.96"
     }
   ],
   "lessons_angewandt": [

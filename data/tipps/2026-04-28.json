@@ -117,32 +117,14 @@
       "kategorie": "safe",
       "beine": [
         {
-          "spiel_id": "2026-04-29-spurs-blazers-g5",
-          "spiel_titel": "San Antonio Spurs vs Portland Trail Blazers G5",
-          "markt": "San Antonio Spurs vs Portland Trail Blazers G5: Spurs Sieg (Moneyline)",
-          "quote": 1.1
-        },
-        {
-          "spiel_id": "2026-04-29-celtics-76ers-g5",
-          "spiel_titel": "Boston Celtics vs Philadelphia 76ers G5",
-          "markt": "Boston Celtics vs Philadelphia 76ers G5: Celtics Sieg (Moneyline)",
-          "quote": 1.18
-        },
-        {
-          "spiel_id": "2026-04-29-knicks-hawks-g5",
-          "spiel_titel": "New York Knicks vs Atlanta Hawks G5",
-          "markt": "New York Knicks vs Atlanta Hawks G5: Knicks Sieg (Moneyline)",
-          "quote": 1.36
-        },
-        {
           "spiel_id": "2026-04-28-psg-bayern",
           "spiel_titel": "PSG vs Bayern Muenchen (CL HF)",
           "markt": "PSG vs Bayern Muenchen: Doppelte Chance PSG oder Unentschieden (1X)",
           "quote": 1.4
         }
       ],
-      "gesamtquote": 2.47,
-      "rechnung": "1.10 × 1.18 × 1.36 × 1.40 = 2.47",
+      "gesamtquote": 1.4,
+      "rechnung": "1.40 = 1.4",
       "empfohlener_einsatz_prozent": 1.5,
       "begruendung": "Vier Closeout/Pivot-Sieg-Anker plus PSG-DC mit Bayern-Lazarett-Edge. Saubere ~2.5x ohne Player-Props."
     },
@@ -156,22 +138,10 @@
           "spiel_titel": "PSG vs Bayern Muenchen (CL HF)",
           "markt": "PSG vs Bayern Muenchen: Beide Teams treffen - Ja",
           "quote": 1.36
-        },
-        {
-          "spiel_id": "2026-04-29-spurs-blazers-g5",
-          "spiel_titel": "San Antonio Spurs vs Portland Trail Blazers G5",
-          "markt": "San Antonio Spurs vs Portland Trail Blazers G5: Unter 215.5 Punkte (Total)",
-          "quote": 1.91
-        },
-        {
-          "spiel_id": "2026-04-29-celtics-76ers-g5",
-          "spiel_titel": "Boston Celtics vs Philadelphia 76ers G5",
-          "markt": "Boston Celtics vs Philadelphia 76ers G5: Beide Teams Mehr als 100 Punkte",
-          "quote": 1.65
         }
       ],
-      "gesamtquote": 4.29,
-      "rechnung": "1.36 × 1.91 × 1.65 = 4.29",
+      "gesamtquote": 1.36,
+      "rechnung": "1.36 = 1.36",
       "empfohlener_einsatz_prozent": 1.0,
       "begruendung": "PSG-Bayern BTTS + Spurs-Defense Unter + Celtics-76ers Hochscore. Drei verschiedene Markttypen, nicht-korreliert. ~4.3x."
     },
@@ -185,28 +155,10 @@
           "spiel_titel": "PSG vs Bayern Muenchen (CL HF)",
           "markt": "PSG vs Bayern Muenchen: PSG Sieg (1)",
           "quote": 2.3
-        },
-        {
-          "spiel_id": "2026-04-29-spurs-blazers-g5",
-          "spiel_titel": "San Antonio Spurs vs Portland Trail Blazers G5",
-          "markt": "San Antonio Spurs vs Portland Trail Blazers G5: Spurs Sieg & Unter 215.5",
-          "quote": 2.1
-        },
-        {
-          "spiel_id": "2026-04-29-celtics-76ers-g5",
-          "spiel_titel": "Boston Celtics vs Philadelphia 76ers G5",
-          "markt": "Boston Celtics vs Philadelphia 76ers G5: Celtics -8.5 Spread",
-          "quote": 1.55
-        },
-        {
-          "spiel_id": "2026-04-29-knicks-hawks-g5",
-          "spiel_titel": "New York Knicks vs Atlanta Hawks G5",
-          "markt": "New York Knicks vs Atlanta Hawks G5: Knicks Sieg & Beide Mehr als 100 Punkte",
-          "quote": 1.85
         }
       ],
-      "gesamtquote": 13.85,
-      "rechnung": "2.30 × 2.10 × 1.55 × 1.85 = 13.85",
+      "gesamtquote": 2.3,
+      "rechnung": "2.30 = 2.3",
       "empfohlener_einsatz_prozent": 0.25,
       "begruendung": "Fuenf Beine: PSG Sieg-Anker + Dembele Torschuetze + Spurs-Sieg+Unter + Celtics-Spread + Knicks-Combo. ~34x mit klarer CL-HF-Edge plus NBA-Closeouts."
     },
@@ -222,26 +174,14 @@
           "quote": 7.5
         },
         {
-          "spiel_id": "2026-04-29-celtics-76ers-g5",
-          "spiel_titel": "Boston Celtics vs Philadelphia 76ers G5",
-          "markt": "Boston Celtics vs Philadelphia 76ers G5: Jaylen Brown Mehr als 25.5 Punkte",
-          "quote": 1.85
-        },
-        {
-          "spiel_id": "2026-04-29-knicks-hawks-g5",
-          "spiel_titel": "New York Knicks vs Atlanta Hawks G5",
-          "markt": "New York Knicks vs Atlanta Hawks G5: CJ McCollum Mehr als 19.5 Punkte",
-          "quote": 1.85
-        },
-        {
           "spiel_id": "2026-04-28-psg-bayern",
           "spiel_titel": "PSG vs Bayern Muenchen (CL HF)",
           "markt": "PSG vs Bayern Muenchen: Ousmane Dembele Jederzeit-Torschuetze",
           "quote": 2.45
         }
       ],
-      "gesamtquote": 62.85,
-      "rechnung": "7.50 × 1.85 × 1.85 × 2.45 = 62.85",
+      "gesamtquote": 18.38,
+      "rechnung": "7.50 x 2.45 = 18.38",
       "empfohlener_einsatz_prozent": 0.1,
       "begruendung": "Lottoschein: Wemby-TD + zwei NBA-Player-Punkte + Dembele Torschuetze. Hit-Wahrscheinlichkeit ~3-4%. Spass-Einsatz 1-2 Euro."
     }
