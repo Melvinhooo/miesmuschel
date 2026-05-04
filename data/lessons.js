@@ -265,6 +265,18 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "SAFE-Konstruktion #3: kein Heim-Top-7-Sieg-Outcome SAFE wenn Auswaerts-Underdog Saisonziel hat (Verschaerfung)",
       "lesson": "EMPIRISCHE VERSCHAERFUNG der Lessons 03.05. (SAFE-Reality-Check #2 + Safe-Kombi-Konstruktion): Heute Safe-Kombi @ 2.97 verloren NUR wegen avl-tot-1 (Villa 1X @ 1.45) — andere 3 Beine (United 1X, Madrid X2, Bournemouth 1X) gewannen alle. Diagnose: Villa 1X war Heim-Top-7-Outcome gegen Tottenham-Abstiegszone-Underdog. Das ist genau die Anti-SAFE-Konstellation. SAFE-Trefferquote nach 03.05. weiter 71.2% (Soll 75-90%, ROI -4.7%) — der Hauptverlustquelle bleibt 'Heim-Top-7-DC oder -Sieg gegen voll-motivierten Auswaerts-Underdog'. NEUE HARTREGEL fuer SAFE-Label (additiv zu 03.05.-SAFE-Reality-Check #2): Heim-Team-DC oder -Sieg darf NUR dann SAFE sein, wenn (a) Heim-Team voll motiviertes Saisonziel (Titel/CL-Quali/Klassenerhalt-Druck) UND (b) Auswaerts-Team kein scharfes Saisonziel mehr (gerettet/Mid-Table) UND (c) keine UEFA-Doppelbelastung beim Heim-Team. Wenn EINER der drei Faktoren nicht erfuellt: max VALUE oder ueberspringen. Praktisch fuer naechste 4 Spieltage Mai 26: Heim-Team mit erreichtem Saisonziel + Auswaerts-Underdog mit Druck = Anti-SAFE. Spiegel-Edge (Auswaerts-Underdog DC X2 @ Quote 2.5+) als VALUE markieren. Diese Lesson ist hoechste Prioritaet fuer Tipps-Routine — sie loest die wiederholte SAFE-Unterperformance strukturell.",
       "bezug_spiel_id": "2026-05-03-avl-tot"
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "NBA-Playoffs: Mapper-Haerter (Hebel B ROI-Sanierung)",
+      "lesson": "Bilanz Stand 04.05. NBA Playoffs Round 1: Game 6 = 7 Tipps / 28.6% Trefferquote / -45.6% ROI. Game 5 = 13 Tipps / 53.8% / -16.7% ROI. Lesson 26.04. (Player-Punkte-Boykott) greift zu schmal - auch Sieg/Spread/Total bluten. Schema-Mapper validate_nba_playoff() macht jetzt: (1) jedes NBA-Playoff-Spiel Kategorie SAFE automatisch auf VALUE. (2) Decider-Spiele (Game 5/6/7) Sieg/Spread/Total/DC automatisch auf WACKEL. Plus erweiterte validate_beobachtungs_liga(): Decider-Ligas (Regex 'NBA Playoffs ... Game 5/6/7' oder 'G5/G6/G7') werden IMMER als Beobachtungs-Liga behandelt - auch wenn die Auto-Erkennung wegen Sample-Groesse oder Liga-String-Variation versagt. Hintergrund: Defense-Adjustments, Verletzungspech, Blowout-Q4-Bank, Sweep-Druck und Ueberraschungs-Closeouts machen Decider-Varianz extrem. Routine-Disziplin allein hat versagt (siehe Lesson 26.04. - trotz Boykott rutschten Sieg/Spread-Tipps auf G6 durch).",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "SAFE-Reality-Check: Mapper-Confirm (Hebel C ROI-Sanierung)",
+      "lesson": "SAFE-Trefferquote war 04.05. nur 71.2% bei 52 Tipps - 4 Punkte unter Soll-Untergrenze von 75-90%. ROI auf SAFE -4.7%. SAFE-Label wurde von der Routine zu locker vergeben. Schema-Mapper validate_safe_confirm() bestaetigt SAFE jetzt nur wenn: (a) Markt-Typ in markt_goldgruben.json (z.B. Doppelte Chance 1X/X2, Torschuetzen Jederzeit) ODER (b) Liga in der neuen liga_goldgruben.json (aktuell Premier League, LaLiga, CL Halbfinale Hinspiel) ODER (c) Liga-Sample <5 Tipps (Datenmangel - z.B. DFB-Pokal HF mit n=4 und +46% ROI sollen nicht bestraft werden). Sonst SAFE -> VALUE. Liga-Goldgrube-Kriterium: ROI > 15% ODER (Trefferquote >= 65% UND ROI > 0%) bei n >= 5. Auto-generiert in scripts/statistik_berechnen.py:berechne_liga_goldgruben(). Damit haben SAFE-Tipps wieder echte Substanz statt 'fuehlt sich sicher an'-Label.",
+      "bezug_spiel_id": null
     }
   ]
 };

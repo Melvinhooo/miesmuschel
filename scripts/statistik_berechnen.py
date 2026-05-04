@@ -38,6 +38,7 @@ DATA_LES_JS    = ROOT / "data" / "lessons.js"
 DATA_BEOB_JSON     = ROOT / "data" / "beobachtungs_ligen.json"
 DATA_BLUTER_JSON   = ROOT / "data" / "markt_bluter.json"
 DATA_GOLDGRUBEN_JSON = ROOT / "data" / "markt_goldgruben.json"
+DATA_LIGA_GOLDGRUBEN_JSON = ROOT / "data" / "liga_goldgruben.json"
 
 # Beobachtungs-Liga-Schwellen
 BEOB_MIN_TIPPS = 4
@@ -53,6 +54,13 @@ BLUTER_MAX_HITRATE = 40.0  # Trefferquote unter 40% -> Bluter
 GOLDGRUBE_MIN_TIPPS = 5
 GOLDGRUBE_MIN_ROI    = 15.0   # ROI besser als +15% bei n>=5 -> Goldgrube
 GOLDGRUBE_MIN_HITRATE = 75.0  # Trefferquote ueber 75% -> Goldgrube
+
+# Liga-Goldgruben-Schwellen (auto-generated Liga-Whitelist fuer SAFE-Confirm in fix_schema.py)
+# Niedrigere Schwellen als Markt-Goldgruben: Ligen aggregieren ueber alle Markttypen,
+# +1-3% ROI ueber 17-18 Tipps ist schon ein konsistentes Edge-Signal.
+LIGA_GOLDGRUBE_MIN_TIPPS    = 5
+LIGA_GOLDGRUBE_MIN_HITRATE  = 65.0  # gepaart mit ROI > 0
+LIGA_GOLDGRUBE_HIGH_ROI     = 15.0  # alleinstehend reicht +15% (z.B. CL-HF +32%)
 
 
 # =========================================================================
@@ -299,6 +307,36 @@ def berechne_markt_goldgruben(by_markt: dict[str, dict]) -> list[dict]:
         if ist_roi_gold or ist_hit_gold:
             goldgruben.append({
                 "markt":         markt,
+                "tipps":         g["tipps"],
+                "trefferquote":  g["trefferquote"],
+                "roi_prozent":   g["roi_prozent"],
+                "netto":         g["netto"],
+            })
+    return sorted(goldgruben, key=lambda x: -x["roi_prozent"])
+
+
+def berechne_liga_goldgruben(by_liga: dict[str, dict]) -> list[dict]:
+    """Findet Liga-Goldgruben fuer den SAFE-Confirm-Filter in fix_schema.py.
+
+    Hintergrund Hebel C ROI-Sanierung 04.05.2026: SAFE-Hitrate war 71.2% statt
+    Soll 75-90%. Schema-Mapper bestaetigt SAFE jetzt nur wenn Markt- ODER Liga-
+    Goldgrube. Diese Funktion baut die Liga-Whitelist.
+
+    Kriterien (OR-Verknuepfung, n>=LIGA_GOLDGRUBE_MIN_TIPPS):
+    - ROI > LIGA_GOLDGRUBE_HIGH_ROI (+15%): alleinstehend reicht ein klarer ROI-Sprung
+      (z.B. CL Halbfinale Hinspiel mit +32% ROI bei n=5).
+    - Trefferquote >= LIGA_GOLDGRUBE_MIN_HITRATE (65%) UND ROI > 0: konsistente
+      Treffer + Profit (z.B. Premier League 70.6% / +3.5%, LaLiga 72.2% / +1.4%).
+    """
+    goldgruben = []
+    for liga, g in by_liga.items():
+        if g["tipps"] < LIGA_GOLDGRUBE_MIN_TIPPS:
+            continue
+        ist_high_roi = g["roi_prozent"] > LIGA_GOLDGRUBE_HIGH_ROI
+        ist_konsist  = g["trefferquote"] >= LIGA_GOLDGRUBE_MIN_HITRATE and g["roi_prozent"] > 0
+        if ist_high_roi or ist_konsist:
+            goldgruben.append({
+                "liga":          liga,
                 "tipps":         g["tipps"],
                 "trefferquote":  g["trefferquote"],
                 "roi_prozent":   g["roi_prozent"],
@@ -554,6 +592,7 @@ def main() -> int:
     # weil sie spielspezifisch sind ("Real Madrid DC X2" != "Bayern DC X2").
     bluter = berechne_markt_bluter(gesamt_agg["nach_markt_typ"])
     goldgruben = berechne_markt_goldgruben(gesamt_agg["nach_markt_typ"])
+    liga_goldgruben = berechne_liga_goldgruben(gesamt_agg["nach_liga"])
     DATA_BLUTER_JSON.write_text(
         json.dumps({
             "stand":     datetime.now(timezone.utc).astimezone().isoformat(timespec="seconds"),
@@ -569,6 +608,15 @@ def main() -> int:
             "kriterium": f"Hitrate > {GOLDGRUBE_MIN_HITRATE}% UND ROI > {GOLDGRUBE_MIN_ROI}% bei min. {GOLDGRUBE_MIN_TIPPS} Tipps",
             "wirkung":   "Tipps-Routinen sollen diese Maerkte aktiv suchen. Schema-Mapper warnt wenn Spiel im Dossier ist und der Markt nicht als Tipp gesetzt wurde.",
             "maerkte":   goldgruben,
+        }, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    DATA_LIGA_GOLDGRUBEN_JSON.write_text(
+        json.dumps({
+            "stand":     datetime.now(timezone.utc).astimezone().isoformat(timespec="seconds"),
+            "kriterium": f"ROI > {LIGA_GOLDGRUBE_HIGH_ROI}% ODER (Trefferquote >= {LIGA_GOLDGRUBE_MIN_HITRATE}% UND ROI > 0%) bei min. {LIGA_GOLDGRUBE_MIN_TIPPS} Tipps",
+            "wirkung":   "Schema-Mapper bestaetigt SAFE-Tipps in diesen Ligen. Andere SAFE-Tipps werden auf VALUE downgegradet wenn der Markt-Typ nicht in markt_goldgruben.json ist (Hebel C ROI-Sanierung 04.05.).",
+            "ligen":     liga_goldgruben,
         }, ensure_ascii=False, indent=2),
         encoding="utf-8",
     )
@@ -609,6 +657,7 @@ def main() -> int:
     print(f"     -> {DATA_BEOB_JSON} ({len(beob_ligen)} Beobachtungs-Liga(s))")
     print(f"     -> {DATA_BLUTER_JSON} ({len(bluter)} Markt-Bluter)")
     print(f"     -> {DATA_GOLDGRUBEN_JSON} ({len(goldgruben)} Markt-Goldgrube(n))")
+    print(f"     -> {DATA_LIGA_GOLDGRUBEN_JSON} ({len(liga_goldgruben)} Liga-Goldgrube(n))")
     if entries:
         g = stat["gesamt"]
         print(f"     Gesamt: {g['tipps']} Tipps, Trefferquote {g['trefferquote']}%, ROI {g['roi_prozent']:+.1f}%")

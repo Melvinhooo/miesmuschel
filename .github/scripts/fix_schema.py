@@ -126,6 +126,69 @@ def lade_beobachtungs_ligen():
         return []
 
 
+def lade_markt_goldgruben():
+    """Liest data/markt_goldgruben.json (auto-generiert von statistik_berechnen.py).
+    Returns: liste der Markt-Typ-Strings die in Goldgrube-Status sind.
+    Bei Fehler: leere Liste.
+    """
+    pfad = os.path.join('data', 'markt_goldgruben.json')
+    if not os.path.exists(pfad):
+        return []
+    try:
+        with open(pfad, encoding='utf-8') as f:
+            d = json.load(f)
+        return [m.get('markt') for m in d.get('maerkte', []) if m.get('markt')]
+    except (json.JSONDecodeError, OSError, KeyError):
+        return []
+
+
+def lade_liga_goldgruben():
+    """Liest data/liga_goldgruben.json (auto-generiert von statistik_berechnen.py).
+    Returns: dict {liga -> stat-dict mit 'tipps', 'trefferquote', 'roi_prozent', 'netto'}.
+    Bei Fehler: leeres dict. Brauchen das volle Dict (nicht nur die Liga-Strings),
+    weil validate_safe_confirm() unterscheiden muss zwischen "Liga in Goldgrube"
+    (n>=5, ROI>0, Hitrate>=65) und "Liga zu wenig Daten" (n<5, dann SAFE bleibt).
+    """
+    pfad = os.path.join('data', 'liga_goldgruben.json')
+    if not os.path.exists(pfad):
+        return {}
+    try:
+        with open(pfad, encoding='utf-8') as f:
+            d = json.load(f)
+        return {l.get('liga'): l for l in d.get('ligen', []) if l.get('liga')}
+    except (json.JSONDecodeError, OSError, KeyError):
+        return {}
+
+
+def lade_liga_stats():
+    """Liest data/statistik.json -> nach_liga{} fuer Liga-Sample-Check.
+    Returns: dict {liga -> {'tipps': n, 'trefferquote': %, 'roi_prozent': %}}.
+    Bei Fehler: leeres dict. Damit kann validate_safe_confirm() unterscheiden:
+    Liga existiert nicht oder n<5 -> liga_unbekannt=True -> SAFE bleibt (Datenmangel
+    ist kein Strafgrund, sonst killen wir z.B. DFB-Pokal HF mit +46% ROI bei n=4).
+    """
+    pfad = os.path.join('data', 'statistik.json')
+    if not os.path.exists(pfad):
+        return {}
+    try:
+        with open(pfad, encoding='utf-8') as f:
+            d = json.load(f)
+        return d.get('nach_liga') or {}
+    except (json.JSONDecodeError, OSError, KeyError):
+        return {}
+
+
+# Regex-Floor: NBA Playoff Decider (G5/G6/G7) immer als Beobachtungs-Liga behandeln,
+# auch wenn die Statistik sie nicht auto-erkennt (zu wenig Sample, oder Liga-String
+# anders geschrieben). 04.05.: G6 = -45.6% ROI, G5 = -16.7% ROI -> klare Bluter.
+# Match auf "NBA Playoffs ... G5/G6/G7" oder "NBA Playoffs ... Game 5/6/7" case-insensitive.
+import re as _re_nba
+NBA_DECIDER_PATTERN = _re_nba.compile(
+    r'nba\s*playoffs.*\b(?:game\s*[567]|g[567])\b',
+    _re_nba.IGNORECASE,
+)
+
+
 def validate_beobachtungs_liga(d):
     """ROI-SANIERUNG 04.05.2026: Beobachtungs-Liga-Tipps HARTCODED aus
     einzeltipps[] und Safe/Balance/Risiko-Kombis droppen. Moonshot-Kombi
@@ -136,17 +199,20 @@ def validate_beobachtungs_liga(d):
     reicht nicht - mechanische Erzwingung noetig.
     """
     beob_ligen = set(lade_beobachtungs_ligen())
-    if not beob_ligen:
-        return  # Keine Beobachtungs-Ligen aktiv
+    # ROI-Sanierung Hebel B 04.05.: NBA-Playoff-Decider (G5/G6/G7) zaehlen IMMER als
+    # Beobachtungs-Liga, auch ohne Auto-Erkennung. Selbst wenn der Statistik-Sample
+    # zu klein ist oder der Liga-String nicht in beobachtungs_ligen.json steht.
 
-    # Sammle spiel_ids in Beobachtungs-Ligen
+    # Sammle spiel_ids in Beobachtungs-Ligen (Liste-Match ODER NBA-Decider-Regex)
     beob_spiel_ids = set()
+    matched_ligen = set()
     for spiel in d.get('spiele', []):
         liga = spiel.get('liga', '')
-        if liga in beob_ligen:
+        if liga in beob_ligen or NBA_DECIDER_PATTERN.search(liga):
             sid = spiel.get('id')
             if sid:
                 beob_spiel_ids.add(sid)
+                matched_ligen.add(liga)
 
     if not beob_spiel_ids:
         return
@@ -160,7 +226,7 @@ def validate_beobachtungs_liga(d):
         # Rang neu durchnummerieren
         for i, e in enumerate(d['einzeltipps'], 1):
             e['rang'] = i
-        print(f"  Beobachtungs-Liga: {et_dropped} Einzeltipps gedroppt (Spiele in {beob_ligen})")
+        print(f"  Beobachtungs-Liga: {et_dropped} Einzeltipps gedroppt (Spiele in {sorted(matched_ligen)})")
 
     # 2. Kombis: Beobachtungs-Liga-Beine droppen aus Safe/Balance/Risiko
     #    Moonshot-Kombi ueberlebt mit Beob-Beinen wenn Quote >= 5.0
@@ -271,6 +337,323 @@ def validate_markt_bluter(d):
     if downgraded_count:
         print(f"  markt_bluter Filter: {downgraded_count} SAFE/VALUE-Tipps auf wackel degradiert "
               f"(Markt-Typen in markt_bluter.json: {sorted(bluter_set)})")
+
+
+def _sync_einzeltipp_kategorie(d, sid, tid, neue_kat):
+    """Wenn ein spiele[].tipps[]-Eintrag downgegraded wurde, halte das passende
+    einzeltipps[]-Element in Sync. Sonst zeigt das UI noch die alte Kategorie an
+    obwohl die kanonische Quelle (spiele.tipps) bereits downgegraded ist.
+    """
+    for e in d.get('einzeltipps', []):
+        if e.get('spiel_id') == sid and e.get('tipp_id') == tid:
+            e['kategorie'] = neue_kat
+
+
+def validate_nba_playoff(d):
+    """ROI-SANIERUNG Hebel B 04.05.2026: NBA-Playoff-Tipps mechanisch eindampfen.
+
+    Bilanz Stand 04.05.: NBA Playoffs Round 1 Game 6 = -45.6% ROI bei 7 Tipps,
+    Game 5 = -16.7% ROI bei 13 Tipps. Lesson 26.04. (Player-Punkte-Boykott)
+    greift zu schmal - auch Sieg/Spread/Total bluten.
+
+    Regeln:
+    1. Alle NBA-Playoff-Spiele: Kategorie SAFE -> VALUE.
+       Begruendung: Defense-Adjustments, Verletzungspech, Blowout-Q4-Bank machen
+       SAFE-Niveau (75-90% Hitrate) unrealistisch.
+    2. Decider-Spiele (Game 5/6/7): Sieg/Spread/Total/DC -> WACKEL.
+       Begruendung: Closeout/Decider-Varianz extrem - Ueberraschungs-Sweeps,
+       Star-Out-Lineup-Wechsel, Defensiv-Schlachten. Markt-Bluter-Filter nimmt
+       Player-Punkte/DD eh mit (seit Apr-26-Boykott).
+    """
+    decider_keywords = (
+        'sieg', 'spread', 'handicap', 'moneyline', 'ml',
+        'total', 'gesamt', 'ueber', 'über', 'unter',
+        'doppelte chance', ' dc ', '(1x)', '(x2)',
+    )
+    downgrades_safe_value = 0
+    downgrades_to_wackel = 0
+    for spiel in d.get('spiele', []):
+        liga = spiel.get('liga') or ''
+        if 'nba playoffs' not in liga.lower():
+            continue
+        ist_decider = bool(NBA_DECIDER_PATTERN.search(liga))
+        sid = spiel.get('id')
+        for tipp in spiel.get('tipps', []):
+            kat = (tipp.get('kategorie') or '').lower()
+            tid = tipp.get('id')
+            # Regel 1: SAFE -> VALUE fuer alle NBA-Playoff-Tipps
+            if kat == 'safe':
+                tipp['kategorie'] = 'value'
+                tipp['_nba_playoff_downgrade'] = True
+                begr = tipp.get('begruendung') or ''
+                tipp['begruendung'] = (begr + ' [Auto: NBA-Playoffs nie SAFE - Varianz zu hoch]').strip()
+                _sync_einzeltipp_kategorie(d, sid, tid, 'value')
+                downgrades_safe_value += 1
+                kat = 'value'
+            # Regel 2: Decider + Sieg/Spread/Total/DC -> WACKEL
+            if ist_decider and kat in ('safe', 'value'):
+                markt_lower = (tipp.get('markt') or '').lower()
+                if any(k in markt_lower for k in decider_keywords):
+                    tipp['kategorie'] = 'wackel'
+                    tipp['_nba_decider_downgrade'] = True
+                    begr = tipp.get('begruendung') or ''
+                    tipp['begruendung'] = (begr + ' [Auto: NBA G5+/Decider - max WACKEL]').strip()
+                    _sync_einzeltipp_kategorie(d, sid, tid, 'wackel')
+                    downgrades_to_wackel += 1
+    if downgrades_safe_value or downgrades_to_wackel:
+        print(f"  NBA-Playoff-Filter: SAFE->VALUE x{downgrades_safe_value}, "
+              f"Sieg/Spread/Total in Decider -> WACKEL x{downgrades_to_wackel}")
+
+
+def validate_safe_confirm(d):
+    """ROI-SANIERUNG Hebel C 04.05.2026: SAFE-Label nur wenn Markt-Goldgrube ODER
+    Liga-Goldgrube ODER Liga-Sample zu klein (Datenmangel ist kein Strafgrund).
+
+    Bilanz Stand 04.05.: SAFE-Hitrate 71.2% statt Soll 75-90%. SAFE-Label wird
+    von der Routine zu locker vergeben. Mapper haerter machen.
+
+    Logik:
+    - markt_typ in markt_goldgruben.json -> SAFE bleibt
+    - liga in liga_goldgruben.json -> SAFE bleibt
+    - liga existiert nicht in statistik nach_liga ODER tipps<5 -> SAFE bleibt
+      (Datenmangel - z.B. DFB-Pokal HF mit 4 Tipps und +46% ROI sollen nicht
+      bestraft werden)
+    - sonst: SAFE -> VALUE
+    """
+    markt_gold = set(lade_markt_goldgruben())
+    liga_gold  = set(lade_liga_goldgruben().keys())
+    liga_stats = lade_liga_stats()
+    # Bootstrap-Sicherheit: wenn ueberhaupt keine Daten ladbar -> Validator passt
+    if not markt_gold and not liga_gold and not liga_stats:
+        return
+    downgrades = 0
+    for spiel in d.get('spiele', []):
+        liga = spiel.get('liga') or ''
+        sid  = spiel.get('id')
+        for tipp in spiel.get('tipps', []):
+            kat = (tipp.get('kategorie') or '').lower()
+            if kat != 'safe':
+                continue
+            mtyp = markt_typ_pattern(tipp.get('markt') or '')
+            markt_ok = mtyp in markt_gold
+            liga_ok  = liga in liga_gold
+            stats = liga_stats.get(liga) or {}
+            try:
+                liga_n = int(stats.get('tipps') or 0)
+            except (TypeError, ValueError):
+                liga_n = 0
+            liga_unbekannt = (liga not in liga_stats) or (liga_n < 5)
+            if markt_ok or liga_ok or liga_unbekannt:
+                continue
+            tipp['kategorie'] = 'value'
+            tipp['_safe_confirm_downgrade'] = True
+            begr = tipp.get('begruendung') or ''
+            tipp['begruendung'] = (begr + ' [Auto: SAFE-Confirm fehlt - weder Markt- noch Liga-Goldgrube]').strip()
+            _sync_einzeltipp_kategorie(d, sid, tipp.get('id'), 'value')
+            downgrades += 1
+    if downgrades:
+        print(f"  SAFE-Confirm Filter: {downgrades} SAFE-Tipps auf VALUE downgegradet "
+              f"(weder Markt-Goldgrube {sorted(markt_gold)} noch Liga-Goldgrube {sorted(liga_gold)})")
+
+
+# Pattern fuer Hebel S (validate_saison_kontext_sanity).
+# Es werden NUR die Synthese-Felder motivations_asymmetrie + recovery_heim/gast
+# gescannt - nicht die saisonziel-Felder. Saisonziel ist Fakt; ob das Edge-Implikation
+# hat, schreibt die Routine selbst in motivations_asymmetrie. Damit halluziniert
+# der Mapper keine Edge-Reduzierung wo die Routine selbst klare Edge sieht
+# (z.B. BOU-CRY 03.05.: Routine sagt 'Bournemouth profitiert von B-Elf-Palace' -
+# das ist Edge PRO Bournemouth, nicht gegen).
+
+# Direkte Edge-Reduzierungs-Aussagen in motivations_asymmetrie.
+NEGATIVE_EDGE_PATTERNS = (
+    'edge kleiner als', 'edge daher kleiner', 'edge geringer als',
+    'kleiner als suggeriert', 'kleiner als die heim',
+    'eher 50/50', 'eher coinflip', 'eher remis', 'eher 50:50',
+    'moeglicherweise nicht', 'edge unklar', 'edge schwer',
+    'achtung', 'vorsicht', 'ueberraschungs-risiko',
+    'klassen-edge schwankt', 'klassen-edge kleiner',
+    'kein klarer favorit', 'unklarer favorit',
+)
+# Direkte Belastungs-Aussagen in recovery-Feldern (nicht generisch '3 Tage Pause').
+RECOVERY_WARNUNG_PATTERNS = (
+    'muede', 'mude', 'ermuedet', 'ermuedung', 'belastung hoch', 'belastung sehr hoch',
+    'recovery kritisch', 'spielt halbtags',
+    'cl-doppelbelastung', 'el-doppelbelastung', 'pokal-doppelbelastung',
+    'rotiert vor', 'starke rotation', 'rotation erwartet',
+)
+
+
+def validate_saison_kontext_sanity(d):
+    """ROI-SANIERUNG Hebel S 04.05.2026: Saison-Kontext-Sanity-Check.
+
+    Lehre aus 03.05.2026 BMG-BVB + Freiburg-Wolfsburg: Routine recherchiert den
+    saison_kontext{}-Block korrekt, ignoriert ihn dann aber bei Kategorie-Vergabe.
+    BMG-BVB: Routine schrieb 'Klassenerhalt faktisch durch + Vize hinter
+    uneinholbarem Bayern' und labelte SAFE auf BVB-DC -> Endstand 1:0 fuer BMG.
+    Freiburg-Wolfsburg: Routine schrieb 'Edge daher kleiner als Heimstaerke
+    suggeriert' und labelte trotzdem SAFE auf Freiburg-DC -> 1:1.
+
+    Logik: SAFE/VALUE auf Sieg/DC/Spread werden eine Stufe runter wenn die
+    Routine in motivations_asymmetrie SELBST Edge-Reduzierung formuliert
+    ('edge kleiner als suggeriert', 'eher 50/50', 'achtung', 'vorsicht') ODER
+    in recovery_heim/gast explizite Belastungs-Pattern stehen
+    ('mude', 'ermuedet', 'CL-doppelbelastung', 'rotiert vor').
+
+    Pattern wurden bewusst eng gehalten - nur direkte Edge-Reduzierungs-Aussagen,
+    keine breiten Komfort-Wortfelder. Saisonziel-Felder werden gar nicht gescannt
+    (Routine kann Komfort-Status auf der Underdog-Seite haben und das ist Edge
+    PRO Tipp-Team, nicht gegen). Tor-Maerkte (BTTS, Ueber/Unter, Torschuetzen)
+    sind ausgenommen - das sind keine Sieg-Tipps.
+    """
+    sieg_marker_lower = ('sieg', 'moneyline', '(ml)', '(1x2)', '1x2',
+                         'doppelte chance', '(1x)', '(x2)', '(12)',
+                         ' 1x', ' x2', ' 12', 'spread', 'handicap')
+    downgrades = 0
+    for spiel in d.get('spiele', []):
+        sk = spiel.get('saison_kontext') or {}
+        asym   = (sk.get('motivations_asymmetrie') or '').lower()
+        recov_h = (sk.get('recovery_heim') or '').lower()
+        recov_g = (sk.get('recovery_gast') or '').lower()
+
+        asym_match      = any(p in asym for p in NEGATIVE_EDGE_PATTERNS)
+        belastung_match = any(p in recov_h for p in RECOVERY_WARNUNG_PATTERNS) \
+                       or any(p in recov_g for p in RECOVERY_WARNUNG_PATTERNS)
+
+        if not (asym_match or belastung_match):
+            continue
+
+        # Trigger-Grund fuers Logging
+        gruende = []
+        if asym_match:       gruende.append('Asymmetrie-Warnung (Routine sagt selbst Edge kleiner)')
+        if belastung_match:  gruende.append('Belastungs-Warnung (Recovery)')
+        grund_str = ' / '.join(gruende)
+
+        sid = spiel.get('id')
+        for tipp in spiel.get('tipps', []):
+            kat = (tipp.get('kategorie') or '').lower()
+            if kat not in ('safe', 'value'):
+                continue
+            markt_lower = (tipp.get('markt') or '').lower()
+            # Nur Sieg/DC/Spread-Tipps degradieren - Tor-Maerkte sind unabhaengig
+            ist_sieg_tipp = any(m in markt_lower for m in sieg_marker_lower)
+            if not ist_sieg_tipp:
+                continue
+            neue_kat = 'value' if kat == 'safe' else 'wackel'
+            tipp['kategorie'] = neue_kat
+            tipp['_saison_kontext_sanity_downgrade'] = True
+            begr = tipp.get('begruendung') or ''
+            tipp['begruendung'] = (begr + f' [Auto: Saison-Kontext-Sanity - {grund_str} -> {kat}->{neue_kat}]').strip()
+            _sync_einzeltipp_kategorie(d, sid, tipp.get('id'), neue_kat)
+            downgrades += 1
+    if downgrades:
+        print(f"  Saison-Kontext-Sanity Filter: {downgrades} Sieg/DC-Tipps eine Stufe runter "
+              f"(Komfort-Status/Asymmetrie/Belastungs-Pattern in saison_kontext erkannt)")
+
+
+# Markt-Klassifikation fuer Hebel M (validate_markt_mix).
+def _klass_markt(markt):
+    """Returns: 'dc', 'sieg', 'torschuetze', 'tor_total', 'btts', 'spread', 'spieler', 'sonstige'"""
+    if not markt:
+        return 'sonstige'
+    m = markt.lower()
+    if 'doppelte chance' in m or '(1x)' in m or '(x2)' in m or '(12)' in m \
+       or ' dc ' in f' {m} ' or 'oder unentschieden' in m or 'unentschieden oder' in m:
+        return 'dc'
+    if ('trifft' in m or 'torschuetz' in m or 'jederzeit tor' in m
+            or 'tor (jederzeit)' in m or 'doppelpack' in m or 'hattrick' in m) \
+       and 'punkte' not in m:
+        return 'torschuetze'
+    if ('tore' in m or ' tor ' in f' {m} ') \
+       and ('ueber' in m or 'über' in m or 'unter' in m or 'mehr als' in m or 'weniger als' in m):
+        return 'tor_total'
+    if 'beide teams treffen' in m or 'btts' in m:
+        return 'btts'
+    if 'spread' in m or 'handicap' in m:
+        return 'spread'
+    if 'punkte' in m and ('ueber' in m or 'über' in m or 'unter' in m or 'mehr als' in m or 'weniger als' in m):
+        return 'spieler'
+    if m.endswith(' sieg') or ' sieg ' in f' {m} ' or 'moneyline' in m or '(ml)' in m or '1x2' in m:
+        return 'sieg'
+    return 'sonstige'
+
+
+def validate_markt_mix(d):
+    """ROI-SANIERUNG Hebel M 04.05.2026: Markt-Mix-Pflicht pro Spiel.
+
+    Lehre aus 03.05.2026 St.Pauli-Mainz: Routine packte 3 defensive Tipps
+    (Unter 2.5, Mainz-DC, BTTS-NEIN) auf ein Spiel das Mainz 1:2 auswaerts
+    gewann. Mainz-Sieg + BTTS-Ja + Ueber 1.5 + Mainz-Torschuetze waeren alle
+    rein - alles ignoriert. Bilanz Spiel: -2 Units.
+
+    Regeln:
+    1. Max 1 DC-Tipp pro Spiel. Mehrfach-DC ist Konfidenz-Theater - droppe
+       alle bis auf den hoechstpriorisierten (Kategorie + Edge).
+    2. Wenn ein Spiel KEINEN Sieg-Tipp UND KEINEN Torschuetzen-Tipp hat
+       (also nur DC/Total/BTTS/Spread/Spieler/Sonstige): die Routine hat sich
+       auf rein defensive Maerkte beschraenkt -> kein offensives Edge-Signal.
+       SAFE-DC-Tipps in solchen Spielen werden auf VALUE downgegradet.
+    """
+    drops_doppel_dc = 0
+    safe_dc_downgrades = 0
+    for spiel in d.get('spiele', []):
+        tipps = spiel.get('tipps', [])
+        if not tipps:
+            continue
+        # Klassifizierung pro Tipp
+        klass = [(t, _klass_markt(t.get('markt') or '')) for t in tipps]
+
+        # Regel 1: max 1 DC-Tipp pro Spiel
+        dc_tipps = [(t, k) for t, k in klass if k == 'dc']
+        if len(dc_tipps) > 1:
+            # Sortiere nach Kategorie-Prio (safe vor value vor wackel) + edge_prozent
+            kat_prio = {'safe': 0, 'value': 1, 'wackel': 2, 'risk': 3, 'moonshot': 4}
+            def _score(item):
+                t, k = item
+                kat = (t.get('kategorie') or 'wackel').lower()
+                try:
+                    e = float(t.get('edge_prozent') or 0)
+                except (ValueError, TypeError):
+                    e = 0
+                return (kat_prio.get(kat, 5), -e)
+            dc_sorted = sorted(dc_tipps, key=_score)
+            kept_dc = dc_sorted[0][0]
+            drop_ids = {id(t) for t, _ in dc_sorted[1:]}
+            sid = spiel.get('id')
+            new_tipps = []
+            for t in tipps:
+                if id(t) in drop_ids:
+                    drops_doppel_dc += 1
+                    print(f"  Markt-Mix: DC-Doppel '{t.get('markt')}' aus Spiel '{sid}' gedroppt "
+                          f"(behalte '{kept_dc.get('markt')}')")
+                    # Auch aus einzeltipps[] entfernen
+                    tid = t.get('id')
+                    d['einzeltipps'] = [e for e in d.get('einzeltipps', [])
+                                        if not (e.get('spiel_id') == sid and e.get('tipp_id') == tid)]
+                else:
+                    new_tipps.append(t)
+            spiel['tipps'] = new_tipps
+            klass = [(t, _klass_markt(t.get('markt') or '')) for t in spiel['tipps']]
+
+        # Regel 2: kein Sieg + kein Torschuetze = defensives Spiel
+        # -> SAFE auf DC ist nicht legitim (kein offensives Edge-Signal)
+        klassen_set = {k for _, k in klass}
+        hat_offensive_signal = ('sieg' in klassen_set) or ('torschuetze' in klassen_set)
+        if not hat_offensive_signal:
+            sid = spiel.get('id')
+            for t, k in klass:
+                if k == 'dc' and (t.get('kategorie') or '').lower() == 'safe':
+                    t['kategorie'] = 'value'
+                    t['_markt_mix_dc_downgrade'] = True
+                    begr = t.get('begruendung') or ''
+                    t['begruendung'] = (begr + ' [Auto: Markt-Mix - kein Sieg/Torschuetzen-Tipp '
+                                        'im Spiel, also kein offensives Edge-Signal -> SAFE-DC nicht legitim]').strip()
+                    _sync_einzeltipp_kategorie(d, sid, t.get('id'), 'value')
+                    safe_dc_downgrades += 1
+    if drops_doppel_dc:
+        print(f"  Markt-Mix: {drops_doppel_dc} DC-Doppel-Tipps gedroppt (max 1 DC pro Spiel)")
+    if safe_dc_downgrades:
+        print(f"  Markt-Mix: {safe_dc_downgrades} SAFE-DC-Tipps auf VALUE downgegradet "
+              f"(Spiel ohne Sieg/Torschuetzen-Tipp = rein defensiv)")
 
 
 def validate_saison_kontext(d):
@@ -479,6 +862,35 @@ def fix(path):
     # auto-generiert von scripts/statistik_berechnen.py (analog Beobachtungs-Liga).
     # Damit wird Lessons-Anwendung mechanisch erzwungen.
     validate_markt_bluter(d)
+
+    # NBA-Playoff-Haerter (Hebel B 04.05. ROI-Sanierung):
+    # 1. Alle NBA-Playoff-Spiele: SAFE -> VALUE (Varianz zu hoch fuer SAFE-Niveau).
+    # 2. Decider (G5/G6/G7) + Sieg/Spread/Total: SAFE/VALUE -> WACKEL.
+    # Vor SAFE-Confirm laufen lassen, weil B1 erst safe->value, danach hat C nichts mehr
+    # zu downgraden.
+    validate_nba_playoff(d)
+
+    # SAFE-Confirm-Filter (Hebel C 04.05. ROI-Sanierung):
+    # SAFE-Hitrate war 71.2% statt 75-90%. Mapper bestaetigt SAFE nur wenn Markt-Typ
+    # in markt_goldgruben ODER Liga in liga_goldgruben ODER Liga-Sample <5 (Datenmangel).
+    # Sonst SAFE -> VALUE.
+    validate_safe_confirm(d)
+
+    # Saison-Kontext-Sanity (Hebel S 04.05. ROI-Sanierung):
+    # Lehre BMG-BVB + Freiburg-Wolfsburg 03.05.: Routine recherchiert saison_kontext{}
+    # korrekt, ignoriert ihn dann bei Kategorie-Vergabe. Mapper degradiert SAFE/VALUE
+    # auf Sieg/DC/Spread eine Stufe runter wenn Komfort-Pattern (uneinholbar, gerettet),
+    # Asymmetrie-Warnung (rotiert, edge kleiner als) oder Belastungs-Pattern (mude,
+    # ermuedung) im Block stehen.
+    validate_saison_kontext_sanity(d)
+
+    # Markt-Mix-Pflicht (Hebel M 04.05. ROI-Sanierung):
+    # Lehre St.Pauli-Mainz 03.05.: Routine packte 3 defensive Tipps (Unter, DC, BTTS-NEIN)
+    # auf ein Spiel das der Auswaerts-Underdog 1:2 gewann. (1) Max 1 DC pro Spiel,
+    # restliche DC-Tipps gedroppt. (2) Wenn Spiel kein Sieg- und kein Torschuetzen-Tipp
+    # hat (rein defensives Set), wird SAFE-DC auf VALUE degradiert - kein offensives
+    # Edge-Signal = kein SAFE.
+    validate_markt_mix(d)
 
     # Beobachtungs-Liga-Filter (NEU 04.05. ROI-Sanierung): Tipps aus Beobachtungs-Ligen
     # (z.B. 2.BL, Serie A) werden HARTCODED aus einzeltipps[] und Safe/Balance/Risiko-Kombis

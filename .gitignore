@@ -20,3 +20,6 @@ Thumbs.db
 # Backups
 *.bak
 *.tmp
+
+# Temporaere Mini-Files der Tipps-Routine + lokale Scripts
+data/_temp/
