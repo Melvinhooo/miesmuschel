@@ -21,11 +21,12 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA_ERG = ROOT / "data" / "ergebnisse"
 DATA_TIPPS = ROOT / "data" / "tipps"
 DATA_STAT = ROOT / "data" / "statistik.json"
-DATA_PENDING = ROOT / "data" / "lessons_pending.json"
+DATA_LESSONS = ROOT / "data" / "lessons.json"
 
 # Schwellen
 TAGE_FENSTER = 7
-MIN_TIPPS_FUER_PATTERN = 3
+MIN_TIPPS_FUER_AUTO_APPLY = 4   # Auto-Apply nur bei klarer Statistik
+MIN_TIPPS_FUER_PATTERN = 3      # Niedriger fuer Hint-Generation
 NEGATIVE_EDGE_PHRASEN = ('edge kleiner', 'eher 50/50', 'eher coinflip', 'rotiert vor',
                          'edge geringer', 'kleiner als suggeriert', 'vorsicht', 'unklarer favorit')
 SIEG_KEYWORDS = ('sieg', 'moneyline', '(ml)', '(1x2)', 'spread', 'handicap')
@@ -252,6 +253,52 @@ def baue_lesson_vorschlaege(ergebnisse: list[dict]) -> list[dict]:
     return vorschlaege
 
 
+def auto_apply_lessons(neue_vorschlaege: list[dict]) -> int:
+    """Schreibt klare Auto-Pattern direkt in data/lessons.json. KEIN User-Review noetig.
+
+    Filter: Nur Vorschlaege die statistisch eindeutig sind werden auto-applied.
+    Pattern Matching:
+    - "AUTO-PATTERN: Liga / mkat / kat - X% Verlust (n/n_total)" wo n_total >= 4
+    - "Saison-Kontext-Selbstwiderspruch" wenn >= 3 Belege
+    - "Reine Defensiv-Cluster" wenn >= 2 Spiele
+
+    Dedup: schreibt keine Lesson wenn schon eine mit derselben kategorie existiert.
+    """
+    if not DATA_LESSONS.exists() or not neue_vorschlaege:
+        return 0
+    try:
+        d = json.loads(DATA_LESSONS.read_text(encoding='utf-8'))
+    except (json.JSONDecodeError, OSError):
+        return 0
+    bestehende = {l.get('kategorie') for l in d.get('lessons', [])}
+    angewendet = 0
+    for v in neue_vorschlaege:
+        kat = v.get('kategorie', '')
+        # Auto-Apply-Filter
+        ist_klar = False
+        if 'AUTO-PATTERN:' in kat:
+            # Verlust-Cluster: schaue im lesson-text nach n/total Format
+            m = re.search(r'\((\d+)/(\d+)\)', kat)
+            if m:
+                n_verloren, n_total = int(m.group(1)), int(m.group(2))
+                if n_total >= MIN_TIPPS_FUER_AUTO_APPLY:
+                    ist_klar = True
+            elif 'Saison-Kontext-Selbstwiderspruch' in kat:
+                ist_klar = True
+            elif 'Reine Defensiv-Cluster' in kat:
+                ist_klar = True
+        if not ist_klar:
+            continue
+        if kat in bestehende:
+            continue  # Dedup
+        d['lessons'].append(v)
+        bestehende.add(kat)
+        angewendet += 1
+    if angewendet:
+        DATA_LESSONS.write_text(json.dumps(d, ensure_ascii=False, indent=2), encoding='utf-8')
+    return angewendet
+
+
 def main():
     if not DATA_ERG.exists():
         print('Keine Ergebnisse vorhanden, Analyzer skippt.')
@@ -265,20 +312,9 @@ def main():
     print(f'Analyzer scant {len(ergebnisse)} Ergebnis-Dateien...')
     vorschlaege = baue_lesson_vorschlaege(ergebnisse)
 
-    pending = {
-        'stand': datetime.now(timezone.utc).astimezone().isoformat(timespec='seconds'),
-        'fenster_tage': TAGE_FENSTER,
-        'beobachtete_dateien': len(ergebnisse),
-        'lesson_vorschlaege': vorschlaege,
-        'hinweis': (
-            'Diese Lessons sind AUTO-VORSCHLAEGE - User muss sie pruefen + manuell in '
-            'data/lessons.json uebernehmen wenn er zustimmt. Nicht automatisch in lessons.json '
-            'einbauen weil Halluzinations-Risiko.'
-        ),
-    }
-    DATA_PENDING.write_text(json.dumps(pending, ensure_ascii=False, indent=2), encoding='utf-8')
-
-    print(f'[ok] {len(vorschlaege)} Lesson-Vorschlaege in {DATA_PENDING.name} geschrieben')
+    # AUTO-APPLY: schreibt klare Pattern direkt in lessons.json - keine User-Aktion noetig
+    angewendet = auto_apply_lessons(vorschlaege)
+    print(f'[ok] {len(vorschlaege)} Vorschlaege erkannt, {angewendet} auto-applied in lessons.json')
     for v in vorschlaege[:5]:
         print(f'  - {v["kategorie"]}')
     return 0

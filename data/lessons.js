@@ -313,6 +313,32 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "NBA DD/TD: Differenzierte Regel statt Boykott",
       "lesson": "Korrektur. DD/TD nicht pauschal in Risiko/Moonshot abschieben, sondern: Erlaubt als VALUE wenn BEIDE Stats des DD-Markts (meist Pkt + Reb oder Pkt + Ast) in den letzten 5 Spielen Schnitt 10+ haben. Beispiel: Jokic Pkt+Reb DD - wenn letzte 5 Pkt-Schnitt 28 + Reb-Schnitt 12 -> DD VALUE OK. Wenn nur eine Stat konsistent (z.B. 25 Pkt aber Reb-Range 4-15 mit Schnitt 8) -> DD max WACKEL. Reference Lesson 23.04. Banchero 18/6/8: Schnitt 21/8 fuehrt nicht zu konsistentem DD weil Reb-Streuung zu gross. Triple-Double identisch + ALLE drei Stats geprueft.",
       "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "Kasse-Stand: 550€ (zentral in data/kasse.json)",
+      "lesson": "Aktuelle Kasse bei bet365: 550€ (Stand 04.05.2026). Zentral in data/kasse.json gepflegt - bei jeder Aenderung dort updaten. Routinen sollen vor jedem Lauf data/kasse.json lesen und konkrete Euro-Werte in begruendung einbauen.\nStandard-Einsatz-Prozente x 550€:\n- SAFE/VALUE einzeln (1.5-2%): 8,25-11€\n- WACKEL einzeln (0.5%): 2,75€\n- Safe-Kombi (2%): 11€\n- Balance-Kombi (0.8%): 4,40€\n- Risiko-Kombi (0.25%): 1,40€\n- Moonshot-Kombi (0.1%): 0,55€ (oder 1-2€ Spasseinsatz wenn Quote 1000x+)\nDie Routine darf in begruendung schreiben 'Empfohlener Einsatz: 8,25€ (1,5% der 550€-Kasse)'. NIE mit veralteten 100€-Beispielen rechnen.",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "Kasse-Stufen-Modell + Auszahlungs-Strategie (User-Plan 04.05.)",
+      "lesson": "User-Plan 04.05.2026: Kasse-Aufbau in 2 Stufen + Profit-Skim.\nSTUFE 1 (Kasse < 1000€, aktuell 550€): Konservativ 1-2% pro Einzeltipp. Aufbau-Phase, kein Risiko. Routinen empfehlen 5,50-11€ pro SAFE/VALUE-Einzel.\nSTUFE 2 (Kasse >= 1000€): User will 100€-Einzeltipps auf solide 1.80-2.30-Quoten (=10% bei 1000€ Kasse, =5% bei 2000€ Kasse). Half-Kelly bei ~60% Trefferquote. VORAUSSETZUNG: rolling 30 Tage ROI > +5% laut statistik.json. Bei -3% ROI bleibt Stufe 1 aktiv selbst bei 2000€ Kasse - Aggressivitaet ohne Edge = Selbstmord.\nAUSZAHLUNGS-TRIGGER: jedes Mal wenn Kasse >= 1000€ + 200€ -> 200€ auszahlen, Basis bleibt 1000€. Sichert echten Profit, kein Papier-Geld im Konto.\nRoutinen MUESSEN: (1) data/kasse.json vor jedem Lauf lesen, (2) aktuelle_stufe bestimmen (Kasse + 30d-ROI), (3) Einsatz-Empfehlung je Stufe in begruendung schreiben mit konkreten Euros, (4) Auszahlungs-Hinweis im Dossier-hinweis-Feld wenn Kasse >= 1200€.",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "AUTO-PATTERN: NBA Playoffs Round 1, Game 5 / NBA-Player-Punkte / value - 75% Verlust (3/4)",
+      "lesson": "Auto-erkannter Verlust-Cluster Stand 2026-05-04: in Liga 'NBA Playoffs Round 1, Game 5' wurden 4 VALUE-Tipps auf Markt-Kat 'NBA-Player-Punkte' platziert, davon 3 verloren (75%). Empfehlung: diesen Cluster in den naechsten Lauefen NICHT mehr als VALUE - max eine Stufe runter (safe->value, value->wackel) bis Verlust-Quote < 50%. Beispiele: 2026-04-27 Denver Nuggets - Minnesota Timberwolves (Unter 222.5 Punkte (Total)) -> Nuggets 125:113 Wolves (Serie 3-2); 2026-04-28 Boston Celtics - Philadelphia 76ers (Beide Teams Mehr als 100 Punkte) -> ?; 2026-04-29 Detroit Pistons - Orlando Magic (Unter 211.5 Punkte (Total)) -> Pistons 116:109 Magic",
+      "bezug_spiel_id": null,
+      "auto_generiert": true
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "AUTO-PATTERN: Reine Defensiv-Cluster trotz Hebel M",
+      "lesson": "4 Spiele in den letzten 7 Tagen mit 3+ defensiven Tipps (DC/Total/BTTS) und 0 offensiven Tipps (Sieg/Torschuetze). Hebel M sollte das eigentlich abfangen - Mapper-Pattern erweitern oder Routine-Disziplin verschaerfen. Beispiele: 2026-04-30 Nottingham Forest - Aston Villa (3x defensiv, 0 offensiv) -> 2 verloren (?); 2026-05-02 Werder Bremen - FC Augsburg (3x defensiv, 0 offensiv) -> 4 verloren (1:3); 2026-05-02 1. FC Union Berlin - 1. FC Koeln (3x defensiv, 0 offensiv) -> 2 verloren (2:2)",
+      "bezug_spiel_id": null,
+      "auto_generiert": true
     }
   ]
 };
