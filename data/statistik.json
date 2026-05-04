@@ -1,37 +1,37 @@
 {
-  "letzte_berechnung": "2026-05-03T17:01:15+02:00",
+  "letzte_berechnung": "2026-05-04T06:51:40+00:00",
   "gesamt": {
-    "tipps": 123,
-    "gewonnen": 75,
-    "verloren": 48,
+    "tipps": 137,
+    "gewonnen": 82,
+    "verloren": 55,
     "push": 0,
     "offen": 0,
-    "einsatz": 123.0,
-    "netto": -1.29,
-    "trefferquote": 61.0,
-    "roi_prozent": -1.0
+    "einsatz": 137.0,
+    "netto": -4.87,
+    "trefferquote": 59.9,
+    "roi_prozent": -3.6
   },
   "letzte_30_tage": {
-    "tipps": 123,
-    "gewonnen": 75,
-    "verloren": 48,
+    "tipps": 137,
+    "gewonnen": 82,
+    "verloren": 55,
     "push": 0,
     "offen": 0,
-    "einsatz": 123.0,
-    "netto": -1.29,
-    "trefferquote": 61.0,
-    "roi_prozent": -1.0
+    "einsatz": 137.0,
+    "netto": -4.87,
+    "trefferquote": 59.9,
+    "roi_prozent": -3.6
   },
   "letzte_90_tage": {
-    "tipps": 123,
-    "gewonnen": 75,
-    "verloren": 48,
+    "tipps": 137,
+    "gewonnen": 82,
+    "verloren": 55,
     "push": 0,
     "offen": 0,
-    "einsatz": 123.0,
-    "netto": -1.29,
-    "trefferquote": 61.0,
-    "roi_prozent": -1.0
+    "einsatz": 137.0,
+    "netto": -4.87,
+    "trefferquote": 59.9,
+    "roi_prozent": -3.6
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -68,26 +68,26 @@
       "roi_prozent": -9.5
     },
     "LaLiga": {
-      "tipps": 16,
-      "gewonnen": 11,
+      "tipps": 18,
+      "gewonnen": 13,
       "verloren": 5,
       "push": 0,
       "offen": 0,
-      "einsatz": 16.0,
-      "netto": -0.34,
-      "trefferquote": 68.8,
-      "roi_prozent": -2.1
+      "einsatz": 18.0,
+      "netto": 0.26,
+      "trefferquote": 72.2,
+      "roi_prozent": 1.4
     },
     "Bundesliga": {
-      "tipps": 16,
-      "gewonnen": 10,
-      "verloren": 6,
+      "tipps": 21,
+      "gewonnen": 11,
+      "verloren": 10,
       "push": 0,
       "offen": 0,
-      "einsatz": 16.0,
-      "netto": -0.6,
-      "trefferquote": 62.5,
-      "roi_prozent": -3.7
+      "einsatz": 21.0,
+      "netto": -4.3,
+      "trefferquote": 52.4,
+      "roi_prozent": -20.5
     },
     "Serie A": {
       "tipps": 4,
@@ -112,15 +112,15 @@
       "roi_prozent": -40.0
     },
     "Premier League": {
-      "tipps": 10,
-      "gewonnen": 8,
-      "verloren": 2,
+      "tipps": 17,
+      "gewonnen": 12,
+      "verloren": 5,
       "push": 0,
       "offen": 0,
-      "einsatz": 10.0,
-      "netto": 1.07,
-      "trefferquote": 80.0,
-      "roi_prozent": 10.7
+      "einsatz": 17.0,
+      "netto": 0.59,
+      "trefferquote": 70.6,
+      "roi_prozent": 3.5
     },
     "NBA Playoffs R1 G4": {
       "tipps": 4,
@@ -741,15 +741,15 @@
       "roi_prozent": -100.0
     },
     "Borussia Dortmund Sieg": {
-      "tipps": 1,
+      "tipps": 2,
       "gewonnen": 1,
-      "verloren": 0,
+      "verloren": 1,
       "push": 0,
       "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.43,
-      "trefferquote": 100.0,
-      "roi_prozent": 43.0
+      "einsatz": 2.0,
+      "netto": -0.57,
+      "trefferquote": 50.0,
+      "roi_prozent": -28.5
     },
     "Olympique Marseille Sieg": {
       "tipps": 1,
@@ -1049,15 +1049,15 @@
       "roi_prozent": 25.0
     },
     "Unter 2.5 Tore": {
-      "tipps": 2,
+      "tipps": 3,
       "gewonnen": 2,
-      "verloren": 0,
+      "verloren": 1,
       "push": 0,
       "offen": 0,
-      "einsatz": 2.0,
-      "netto": 1.8,
-      "trefferquote": 100.0,
-      "roi_prozent": 90.0
+      "einsatz": 3.0,
+      "netto": 0.8,
+      "trefferquote": 66.7,
+      "roi_prozent": 26.7
     },
     "Unter 211.5 Punkte (Total)": {
       "tipps": 1,
@@ -1423,15 +1423,15 @@
       "roi_prozent": 62.0
     },
     "Unter 3.5 Tore": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
+      "tipps": 3,
+      "gewonnen": 1,
+      "verloren": 2,
       "push": 0,
       "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
+      "einsatz": 3.0,
+      "netto": -1.6,
+      "trefferquote": 33.3,
+      "roi_prozent": -53.3
     },
     "Unentschieden oder Sunderland": {
       "tipps": 1,
@@ -1443,6 +1443,116 @@
       "netto": 0.32,
       "trefferquote": 100.0,
       "roi_prozent": 32.0
+    },
+    "Villa oder Unentschieden (1X)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "United oder Unentschieden (1X)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.4,
+      "trefferquote": 100.0,
+      "roi_prozent": 40.0
+    },
+    "Bournemouth oder Unentschieden (1X)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.22,
+      "trefferquote": 100.0,
+      "roi_prozent": 22.0
+    },
+    "Real Madrid oder Unentschieden (X2)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.2,
+      "trefferquote": 100.0,
+      "roi_prozent": 20.0
+    },
+    "Freiburg oder Unentschieden (1X)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.3,
+      "trefferquote": 100.0,
+      "roi_prozent": 30.0
+    },
+    "BVB oder Unentschieden (X2)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Manchester United Sieg": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.25,
+      "trefferquote": 100.0,
+      "roi_prozent": 125.0
+    },
+    "Aston Villa Sieg": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Freiburg Sieg": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Bournemouth Sieg": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.65,
+      "trefferquote": 100.0,
+      "roi_prozent": 65.0
     }
   },
   "nach_markt_typ": {
@@ -1491,15 +1601,15 @@
       "roi_prozent": 55.0
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 42,
-      "gewonnen": 25,
-      "verloren": 17,
+      "tipps": 47,
+      "gewonnen": 27,
+      "verloren": 20,
       "push": 0,
       "offen": 0,
-      "einsatz": 42.0,
-      "netto": -2.68,
-      "trefferquote": 59.5,
-      "roi_prozent": -6.4
+      "einsatz": 47.0,
+      "netto": -3.78,
+      "trefferquote": 57.4,
+      "roi_prozent": -8.0
     },
     "Torschuetzen Jederzeit": {
       "tipps": 8,
@@ -1513,15 +1623,15 @@
       "roi_prozent": 24.4
     },
     "Unter 2.5 Tore": {
-      "tipps": 6,
+      "tipps": 7,
       "gewonnen": 4,
-      "verloren": 2,
+      "verloren": 3,
       "push": 0,
       "offen": 0,
-      "einsatz": 6.0,
-      "netto": 1.65,
-      "trefferquote": 66.7,
-      "roi_prozent": 27.5
+      "einsatz": 7.0,
+      "netto": 0.65,
+      "trefferquote": 57.1,
+      "roi_prozent": 9.3
     },
     "Doppelte Chance 1X": {
       "tipps": 13,
@@ -1711,15 +1821,15 @@
       "roi_prozent": -100.0
     },
     "Unter 3.5 Tore": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
+      "tipps": 3,
+      "gewonnen": 1,
+      "verloren": 2,
       "push": 0,
       "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
+      "einsatz": 3.0,
+      "netto": -1.6,
+      "trefferquote": 33.3,
+      "roi_prozent": -53.3
     },
     "Unentschieden oder Sunderland": {
       "tipps": 1,
@@ -1731,41 +1841,107 @@
       "netto": 0.32,
       "trefferquote": 100.0,
       "roi_prozent": 32.0
+    },
+    "Villa oder Unentschieden (1X)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "United oder Unentschieden (1X)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.4,
+      "trefferquote": 100.0,
+      "roi_prozent": 40.0
+    },
+    "Bournemouth oder Unentschieden (1X)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.22,
+      "trefferquote": 100.0,
+      "roi_prozent": 22.0
+    },
+    "Real Madrid oder Unentschieden (X2)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.2,
+      "trefferquote": 100.0,
+      "roi_prozent": 20.0
+    },
+    "Freiburg oder Unentschieden (1X)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.3,
+      "trefferquote": 100.0,
+      "roi_prozent": 30.0
+    },
+    "BVB oder Unentschieden (X2)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
     }
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 59,
-      "gewonnen": 31,
-      "verloren": 28,
+      "tipps": 63,
+      "gewonnen": 32,
+      "verloren": 31,
       "push": 0,
       "offen": 0,
-      "einsatz": 59.0,
-      "netto": -3.59,
-      "trefferquote": 52.5,
-      "roi_prozent": -6.1
+      "einsatz": 63.0,
+      "netto": -5.94,
+      "trefferquote": 50.8,
+      "roi_prozent": -9.4
     },
     "2.00-3.00": {
-      "tipps": 12,
-      "gewonnen": 7,
-      "verloren": 5,
+      "tipps": 15,
+      "gewonnen": 8,
+      "verloren": 7,
       "push": 0,
       "offen": 0,
-      "einsatz": 12.0,
-      "netto": 4.08,
-      "trefferquote": 58.3,
-      "roi_prozent": 34.0
+      "einsatz": 15.0,
+      "netto": 3.33,
+      "trefferquote": 53.3,
+      "roi_prozent": 22.2
     },
     "1.00-1.50": {
-      "tipps": 49,
-      "gewonnen": 36,
-      "verloren": 13,
+      "tipps": 56,
+      "gewonnen": 41,
+      "verloren": 15,
       "push": 0,
       "offen": 0,
-      "einsatz": 49.0,
-      "netto": -1.98,
-      "trefferquote": 73.5,
-      "roi_prozent": -4.0
+      "einsatz": 56.0,
+      "netto": -2.46,
+      "trefferquote": 73.2,
+      "roi_prozent": -4.4
     },
     "3.00+": {
       "tipps": 3,
@@ -1781,37 +1957,37 @@
   },
   "nach_kategorie": {
     "safe": {
-      "tipps": 47,
-      "gewonnen": 34,
-      "verloren": 13,
+      "tipps": 52,
+      "gewonnen": 37,
+      "verloren": 15,
       "push": 0,
       "offen": 0,
-      "einsatz": 47.0,
-      "netto": -1.18,
-      "trefferquote": 72.3,
-      "roi_prozent": -2.5
+      "einsatz": 52.0,
+      "netto": -2.46,
+      "trefferquote": 71.2,
+      "roi_prozent": -4.7
     },
     "value": {
-      "tipps": 73,
-      "gewonnen": 40,
-      "verloren": 33,
+      "tipps": 78,
+      "gewonnen": 42,
+      "verloren": 36,
       "push": 0,
       "offen": 0,
-      "einsatz": 73.0,
-      "netto": 0.89,
-      "trefferquote": 54.8,
-      "roi_prozent": 1.2
+      "einsatz": 78.0,
+      "netto": -1.06,
+      "trefferquote": 53.8,
+      "roi_prozent": -1.4
     },
     "wackel": {
-      "tipps": 3,
-      "gewonnen": 1,
-      "verloren": 2,
+      "tipps": 7,
+      "gewonnen": 3,
+      "verloren": 4,
       "push": 0,
       "offen": 0,
-      "einsatz": 3.0,
-      "netto": -1.0,
-      "trefferquote": 33.3,
-      "roi_prozent": -33.3
+      "einsatz": 7.0,
+      "netto": -1.35,
+      "trefferquote": 42.9,
+      "roi_prozent": -19.3
     }
   },
   "clv_gesamt": {
@@ -1831,6 +2007,343 @@
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-05-03",
+      "gesamt": {
+        "tipps": 14,
+        "gewonnen": 7,
+        "verloren": 7,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 14.0,
+        "netto": -3.58,
+        "trefferquote": 50.0,
+        "roi_prozent": -25.6
+      },
+      "spiele": [
+        {
+          "id": "2026-05-03-stp-mai",
+          "liga": "Bundesliga",
+          "heim": "FC St. Pauli",
+          "gast": "1. FSV Mainz 05",
+          "endstand": "1:2",
+          "tipps": [
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Unter 2.5 verfehlt bei 3 Toren (Tietz 6', Mwene 40', Ceesay 87')."
+            }
+          ]
+        },
+        {
+          "id": "2026-05-03-bmg-bvb",
+          "liga": "Bundesliga",
+          "heim": "Borussia Moenchengladbach",
+          "gast": "Borussia Dortmund",
+          "endstand": "1:0",
+          "tipps": [
+            {
+              "markt": "Borussia Dortmund Sieg",
+              "quote": 1.9,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "BVB-Sieg verfehlt — Gladbach gewann 1:0."
+            },
+            {
+              "markt": "BVB oder Unentschieden (X2)",
+              "quote": 1.3,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "BVB DC X2 verfehlt — Gladbach gewann 1:0 (88. Tabakovic)."
+            }
+          ]
+        },
+        {
+          "id": "2026-05-03-fre-wol",
+          "liga": "Bundesliga",
+          "heim": "SC Freiburg",
+          "gast": "VfL Wolfsburg",
+          "endstand": "1:1",
+          "tipps": [
+            {
+              "markt": "Freiburg oder Unentschieden (1X)",
+              "quote": 1.3,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.3,
+              "kommentar": "Freiburg DC 1X erfuellt — Remis 1:1."
+            },
+            {
+              "markt": "Freiburg Sieg",
+              "quote": 2.55,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Freiburg-Sieg verfehlt bei 1:1."
+            }
+          ]
+        },
+        {
+          "id": "2026-05-03-bou-cry",
+          "liga": "Premier League",
+          "heim": "AFC Bournemouth",
+          "gast": "Crystal Palace",
+          "endstand": "3:0",
+          "tipps": [
+            {
+              "markt": "Bournemouth oder Unentschieden (1X)",
+              "quote": 1.22,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.22,
+              "kommentar": "Bournemouth DC 1X — Sieg 3:0."
+            },
+            {
+              "markt": "Bournemouth Sieg",
+              "quote": 1.65,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.65,
+              "kommentar": "Bournemouth Sieg 3:0."
+            }
+          ]
+        },
+        {
+          "id": "2026-05-03-mun-liv",
+          "liga": "Premier League",
+          "heim": "Manchester United",
+          "gast": "Liverpool FC",
+          "endstand": "3:2",
+          "tipps": [
+            {
+              "markt": "Manchester United Sieg",
+              "quote": 2.25,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.25,
+              "kommentar": "United Sieg 3:2."
+            },
+            {
+              "markt": "United oder Unentschieden (1X)",
+              "quote": 1.4,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.4,
+              "kommentar": "United DC 1X erfuellt — United gewann."
+            },
+            {
+              "markt": "Unter 3.5 Tore",
+              "quote": 1.5,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Unter 3.5 verfehlt bei 5 Toren."
+            }
+          ]
+        },
+        {
+          "id": "2026-05-03-avl-tot",
+          "liga": "Premier League",
+          "heim": "Aston Villa",
+          "gast": "Tottenham Hotspur",
+          "endstand": "1:2",
+          "tipps": [
+            {
+              "markt": "Villa oder Unentschieden (1X)",
+              "quote": 1.45,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Villa DC 1X verfehlt — Tottenham gewann 2:1."
+            },
+            {
+              "markt": "Aston Villa Sieg",
+              "quote": 2.15,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Villa-Sieg verfehlt — Tottenham gewann 2:1."
+            }
+          ]
+        },
+        {
+          "id": "2026-05-03-esp-rma",
+          "liga": "LaLiga",
+          "heim": "RCD Espanyol",
+          "gast": "Real Madrid",
+          "endstand": "0:2",
+          "tipps": [
+            {
+              "markt": "Real Madrid oder Unentschieden (X2)",
+              "quote": 1.2,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.2,
+              "kommentar": "Madrid DC X2 — 0:2 Sieg."
+            },
+            {
+              "markt": "Unter 3.5 Tore",
+              "quote": 1.4,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.4,
+              "kommentar": "Unter 3.5 erfuellt bei 2 Toren."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi",
+          "kategorie": "safe",
+          "gesamtquote": 2.97,
+          "einsatz_prozent": 0.5,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Aston Villa - Tottenham: Villa oder Unentschieden (1X)",
+              "quote": 1.45,
+              "status": "verloren",
+              "kommentar": "Villa DC 1X verfehlt — Tottenham gewann 2:1."
+            },
+            {
+              "markt": "Manchester United - Liverpool: United oder Unentschieden (1X)",
+              "quote": 1.4,
+              "status": "gewonnen",
+              "kommentar": "United DC 1X erfuellt — United gewann."
+            },
+            {
+              "markt": "Espanyol - Real Madrid: Real Madrid oder Unentschieden (X2)",
+              "quote": 1.2,
+              "status": "gewonnen",
+              "kommentar": "Madrid DC X2 — 0:2 Sieg."
+            },
+            {
+              "markt": "Bournemouth - Crystal Palace: Bournemouth oder Unentschieden (1X)",
+              "quote": 1.22,
+              "status": "gewonnen",
+              "kommentar": "Bournemouth DC 1X — Sieg 3:0."
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi",
+          "kategorie": "balance",
+          "gesamtquote": 8.48,
+          "einsatz_prozent": 0.5,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Gladbach - Borussia Dortmund: Borussia Dortmund Sieg",
+              "quote": 1.9,
+              "status": "verloren",
+              "kommentar": "BVB-Sieg verfehlt — Gladbach gewann 1:0."
+            },
+            {
+              "markt": "Freiburg - Wolfsburg: Freiburg Sieg",
+              "quote": 2.55,
+              "status": "verloren",
+              "kommentar": "Freiburg-Sieg verfehlt bei 1:1."
+            },
+            {
+              "markt": "St. Pauli - Mainz 05: Unter 2.5 Tore",
+              "quote": 1.75,
+              "status": "verloren",
+              "kommentar": "Unter 2.5 verfehlt bei 3 Toren (Tietz 6', Mwene 40', Ceesay 87')."
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi",
+          "kategorie": "risk",
+          "gesamtquote": 15.2,
+          "einsatz_prozent": 0.25,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Gladbach - Borussia Dortmund: Mehr als 2.5 Tore",
+              "quote": 1.75,
+              "status": "verloren",
+              "kommentar": "Ueber 2.5 verfehlt bei nur 1 Tor."
+            },
+            {
+              "markt": "Aston Villa - Tottenham: Mehr als 2.5 Tore",
+              "quote": 1.7,
+              "status": "gewonnen",
+              "kommentar": "Ueber 2.5 erfuellt bei 3 Toren."
+            },
+            {
+              "markt": "Espanyol - Real Madrid: Unter 3.5 Tore",
+              "quote": 1.4,
+              "status": "gewonnen",
+              "kommentar": "Unter 3.5 erfuellt bei 2 Toren."
+            },
+            {
+              "markt": "Cavaliers - Raptors G7: Toronto Raptors +8.5 (Spread)",
+              "quote": 1.91,
+              "status": "verloren",
+              "kommentar": "Raptors +8.5 - Diff 12 Punkte > 8.5."
+            },
+            {
+              "markt": "Pistons - Magic G7: Pistons -7.5 (Spread)",
+              "quote": 1.91,
+              "status": "gewonnen",
+              "kommentar": "Pistons -7.5 - Diff 22."
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi",
+          "kategorie": "moonshot",
+          "gesamtquote": 29.13,
+          "einsatz_prozent": 0.1,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "St. Pauli - Mainz 05: Beide Teams treffen NEIN",
+              "quote": 1.95,
+              "status": "verloren",
+              "kommentar": "Beide Teams trafen (Mainz 2x, St. Pauli 1x) - BTTS NEIN verfehlt."
+            },
+            {
+              "markt": "Freiburg - Wolfsburg: Beide Teams treffen JA",
+              "quote": 1.65,
+              "status": "gewonnen",
+              "kommentar": "BTTS JA — beide trafen je 1x."
+            },
+            {
+              "markt": "Lyon - Rennes: Beide Teams treffen JA",
+              "quote": 1.65,
+              "status": "gewonnen",
+              "kommentar": "BTTS JA - beide trafen."
+            },
+            {
+              "markt": "Pistons - Magic G7: Unter 211.5 Punkte",
+              "quote": 1.91,
+              "status": "gewonnen",
+              "kommentar": "Unter 211.5 - 210 Total."
+            },
+            {
+              "markt": "Cavaliers - Raptors G7: Ueber 211.5 Punkte",
+              "quote": 1.91,
+              "status": "gewonnen",
+              "kommentar": "Ueber 211.5 - 216 Total."
+            },
+            {
+              "markt": "Manchester United - Liverpool: Unter 3.5 Tore",
+              "quote": 1.5,
+              "status": "verloren",
+              "kommentar": "Unter 3.5 verfehlt bei 5 Toren."
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-05-02",
       "gesamt": {
