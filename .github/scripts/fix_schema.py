@@ -452,6 +452,293 @@ def validate_safe_confirm(d):
               f"(weder Markt-Goldgrube {sorted(markt_gold)} noch Liga-Goldgrube {sorted(liga_gold)})")
 
 
+# =============================================================================
+# Hartregeln aus User-Review v23 (04.05.2026): Chelsea-Forest 1:3-Lehre
+# =============================================================================
+
+def _team_kern(team_name):
+    """Extrahiert das Kern-Wort aus einem Team-Namen fuer Pattern-Match.
+    'Chelsea FC' -> 'chelsea'. 'Borussia Moenchengladbach' -> 'moenchengladbach' (laengstes Wort).
+    'AS Roma' -> 'roma'. 'AC Milan' -> 'milan'. 'New York Knicks' -> 'knicks'.
+    Generic-Suffixe FC/AC/AS/SC/SV/CF werden ignoriert."""
+    if not team_name:
+        return ''
+    GENERIC = {'fc', 'ac', 'as', 'sc', 'sv', 'cf', 'fk', 'kk', 'rcd', 'us', 'fce', 'ssc', 'ssv',
+               'tsg', 'vfb', 'vfl', '1.', '04', '05', '07', '09', '96', '98',
+               'borussia', 'real', 'inter', 'athletic', 'atletico', 'olympic', 'olympique',
+               'new', 'old', 'royal', 'rcd', 'real'}
+    woerter = [w.lower().strip('.()') for w in team_name.split() if len(w) >= 3]
+    # Filter generic
+    kandidaten = [w for w in woerter if w not in GENERIC]
+    if not kandidaten:
+        kandidaten = woerter or [team_name.lower()]
+    # Laengstes uebrig
+    return max(kandidaten, key=len) if kandidaten else team_name.lower()
+
+
+# HR2 (Anti-Heim-Bias): Pattern fuer Heim-Form-Krise im saison_kontext.
+HEIM_KRISE_PATTERNS = (
+    'heim-pleite', 'heim pleite', 'heimpleite', 'heim-niederlage',
+    'pleiten serie', 'pleiten-serie', 'niederlagen-serie', 'niederlagen serie',
+    'heim-krise', 'heim krise', 'heimkrise',
+    'spielen ohne sieg', 'spiele ohne sieg',
+    'spielen ohne tor', 'spiele ohne tor',
+    'sturm-krise', 'sturm krise', 'tor-flaute', 'torflaute',
+    '5 heim', '6 heim', '4 heim',  # "5 Heimpleiten in Folge" etc.
+)
+
+# HR3 (Joker-Stuermer): Pattern fuer Doppelbelastungs-Rotation.
+ROTATION_PATTERNS = (
+    'rotier', 'rotation wahrscheinlich', 'rotation moeglich',
+    'b-elf', 'reservisten', 'stamm-elf koennte ruhen',
+    'auswechslungs-wahrscheinlichkeit', 'koennte rotiert', 'koennte ausgewechselt',
+)
+
+# HR4 (Story-Konflikt v2) - Konflikt-Tokens pro Markt-Familie.
+KONFLIKT_HEIM_TIPPEN = HEIM_KRISE_PATTERNS  # Heim-Tipps blockieren wenn Heim-Krise erwaehnt
+KONFLIKT_TOPSTUERMER_TIPPEN = ROTATION_PATTERNS  # Top-Stuermer-Tipps blockieren bei Rotation
+KONFLIKT_SAFE_KOMFORT_PATTERNS = (
+    'saisonziel erreicht', 'saisonziel durch', 'gerettet', 'uneinholbar',
+    'kein druck mehr', 'nichts mehr zu spielen', 'klassenerhalt durch',
+    'mid-table-auslauf', 'spielbetrieb ohne ziel',
+)
+
+# HR6 (Auswaerts-Auto-VALUE): Schwellen.
+AUSWAERTS_AUTOSAFE_MIN_UNBESIEGT = 6
+AUSWAERTS_AUTOSAFE_MIN_TORSERIE = 6
+
+
+def validate_heim_form(d):
+    """HR2: Anti-Heim-Bias bei Form-Realitaet (User-Review v23 04.05.2026).
+
+    EMPIRIE Chelsea-Forest 1:3: Chelsea Heim-Favorit @ 1.73 mit 5 Heim-Pleiten Serie
+    + Sturm-Krise. App labelte trotzdem Chelsea-DC + Palmer-Tor als VALUE. Beide tot.
+    Forest auswaerts 9 Spiele unbesiegt - Spiegel-Tipp (Forest-Sieg @ 7.00) komplett
+    uebersehen.
+
+    Hartregel: Wenn saison_kontext erwaehnt 'Heim-Krise'/'Pleiten-Serie'/'Sturm-Krise'
+    -> Heim-Sieg/-DC/-Top-Stuermer-Tipps werden auf wackel gedroppt (nicht VALUE/SAFE).
+    Tor-Aggregat-Tipps (BTTS, Ueber/Unter Tore-Total) bleiben unberuehrt.
+    """
+    sieg_dc_marker = ('sieg', '(ml)', 'moneyline', '1x2',
+                      'doppelte chance', '(1x)', '(x2)', '(12)',
+                      ' 1x', ' x2', ' 12', 'oder unentschieden',
+                      'spread', 'handicap')
+    torschuetze_marker = ('trifft', 'torschuetz', 'jederzeit tor',
+                          'doppelpack', 'hattrick', 'tor (jederzeit)')
+    downgrades = 0
+    for spiel in d.get('spiele', []):
+        sk = spiel.get('saison_kontext') or {}
+        # Suche Heim-Krise in allen relevanten Text-Feldern
+        scan_text = ' '.join([
+            (sk.get('saisonziel_heim') or ''),
+            (sk.get('motivations_asymmetrie') or ''),
+            (sk.get('heim_form_letzte_5') or ''),
+            (sk.get('heim_serie') or ''),
+        ]).lower()
+        if not any(p in scan_text for p in HEIM_KRISE_PATTERNS):
+            continue
+        heim_kern = _team_kern(spiel.get('heim') or '')
+        sid = spiel.get('id')
+        for tipp in spiel.get('tipps', []):
+            kat = (tipp.get('kategorie') or '').lower()
+            if kat not in ('safe', 'value'):
+                continue
+            markt = (tipp.get('markt') or '').lower()
+            # Heim-Sieg/-DC-Tipp = enthaelt Heim-Kern-Wort + Sieg-Marker
+            ist_heim_sieg_dc = heim_kern and heim_kern in markt and any(s in markt for s in sieg_dc_marker)
+            # Heim-Torschuetze = Torschuetzen-Markt mit Heim-Bezug (heuristisch)
+            # Wir nehmen an: jeder Torschuetzen-Tipp ohne Gast-Erwaehnung ist Heim-Spieler.
+            # Genauer: spielt das Heim-Team auf den Top-Stuermer? Pruefe ob markt-Spieler
+            # im saison_kontext heim-bezogen.
+            ist_torschuetze = any(t in markt for t in torschuetze_marker)
+            # Konservativ: Torschuetzen-Tipps werden nur dann gedroppt wenn explizit
+            # Heim-Sturm-Krise erwaehnt wird (heim_tore_letzte_5<4 oder 'sturm-krise').
+            heim_sturm_krise = ('sturm-krise' in scan_text or 'sturm krise' in scan_text
+                                or 'tor-flaute' in scan_text or 'torflaute' in scan_text
+                                or 'spielen ohne tor' in scan_text or 'spiele ohne tor' in scan_text)
+            if not (ist_heim_sieg_dc or (ist_torschuetze and heim_sturm_krise)):
+                continue
+            tipp['kategorie'] = 'wackel'
+            tipp['_heim_form_block'] = True
+            begr = tipp.get('begruendung') or ''
+            tipp['begruendung'] = (begr + ' [Auto HR2: Heim-Krise/Sturm-Krise erkannt - Heim-Sieg/-DC/-Top-Stuermer max WACKEL]').strip()
+            _sync_einzeltipp_kategorie(d, sid, tipp.get('id'), 'wackel')
+            downgrades += 1
+    if downgrades:
+        print(f"  HR2 Heim-Form-Block: {downgrades} Heim-Sieg/DC/Torschuetzen-Tipps auf WACKEL "
+              f"(Heim-Krise/Pleiten-Serie/Sturm-Krise im saison_kontext erkannt)")
+
+
+def validate_doppelbelastung_joker(d):
+    """HR3: Joker-Stuermer statt Top-Stuermer bei UEFA-Doppelbelastung.
+
+    EMPIRIE Chelsea-Forest 04.05.: App-Begruendung schrieb selbst 'Wood koennte rotiert
+    werden wegen EL-Rueckspiel'. Trotzdem Wood @ 3.50 als WACKEL getippt. Awoniyi
+    (Backup) traf doppelt @ 4.00.
+
+    Hartregel: Wenn parallel_heim/gast UEFA-Spiel innerhalb 4 Tagen UND
+    motivations_asymmetrie 'rotier'-Token enthaelt -> Top-Stuermer-Torschuetzen-Tipp
+    auf max WACKEL (kein VALUE/SAFE moeglich, weil Auswechslungs-Risiko nicht ignorierbar).
+    """
+    torschuetze_marker = ('trifft', 'torschuetz', 'jederzeit tor',
+                          'doppelpack', 'hattrick', 'tor (jederzeit)')
+    uefa_marker = ('cl-', 'cl ', 'champions league', 'el-', 'el ', 'europa league',
+                   'conference', 'uefa')
+    downgrades = 0
+    for spiel in d.get('spiele', []):
+        sk = spiel.get('saison_kontext') or {}
+        parallel_heim = (sk.get('parallel_heim') or '').lower()
+        parallel_gast = (sk.get('parallel_gast') or '').lower()
+        asym = (sk.get('motivations_asymmetrie') or '').lower()
+        recov_text = ((sk.get('recovery_heim') or '') + ' ' + (sk.get('recovery_gast') or '')).lower()
+        # Doppelbelastung erkannt?
+        hat_uefa_parallel = any(u in parallel_heim for u in uefa_marker) \
+                         or any(u in parallel_gast for u in uefa_marker)
+        # Tage-Schwelle: '4 tage', '3 tage', '2 tage' bei recovery oder parallel
+        eng_takt = any(t in recov_text or t in parallel_heim or t in parallel_gast
+                       for t in ('2 tage', '3 tage', '4 tage'))
+        rotation_erwartet = any(p in asym for p in ROTATION_PATTERNS) \
+                         or any(p in recov_text for p in ROTATION_PATTERNS)
+        if not (hat_uefa_parallel and eng_takt and rotation_erwartet):
+            continue
+        sid = spiel.get('id')
+        for tipp in spiel.get('tipps', []):
+            kat = (tipp.get('kategorie') or '').lower()
+            if kat not in ('safe', 'value'):
+                continue
+            markt = (tipp.get('markt') or '').lower()
+            if not any(t in markt for t in torschuetze_marker):
+                continue
+            # Top-Stuermer (heuristisch: niedrige Quote = wahrscheinlich Top-Stuermer)
+            try:
+                quote = float(tipp.get('quote') or 99)
+            except (TypeError, ValueError):
+                quote = 99
+            if quote >= 3.5:
+                # Backup-Stuermer-Quote-Range - nicht runter, evtl. sogar VALUE-faehig
+                continue
+            tipp['kategorie'] = 'wackel'
+            tipp['_joker_top_stuermer_block'] = True
+            begr = tipp.get('begruendung') or ''
+            tipp['begruendung'] = (begr + ' [Auto HR3: UEFA-Doppelbelastung + Rotation - Top-Stuermer max WACKEL, Joker-Tipp suchen]').strip()
+            _sync_einzeltipp_kategorie(d, sid, tipp.get('id'), 'wackel')
+            downgrades += 1
+    if downgrades:
+        print(f"  HR3 Joker-Trigger: {downgrades} Top-Stuermer-Torschuetzen-Tipps auf WACKEL "
+              f"(UEFA-Doppelbelastung + Rotation erkannt)")
+
+
+def validate_story_konflikt_v2(d):
+    """HR4: Story-Konflikt-Check v2 (Erweiterung Hebel S aus User-Review v23).
+
+    Bestehender Hebel S faengt nur 'edge kleiner als'/'eher 50/50' ab. v2 scannt
+    konkrete Pattern in begruendung[] selbst:
+    - Tipp Heim-Sieg/-DC + Begruendung 'Pleiten-Serie'/'Heim-Krise' -> max WACKEL
+    - Tipp Top-Stuermer-Tor + Begruendung 'rotier'/'ausgewechselt' -> max WACKEL
+    - SAFE + Begruendung 'Saisonziel erreicht'/'gerettet'/'uneinholbar' -> max VALUE
+    """
+    sieg_dc_marker = ('sieg', '(ml)', 'moneyline', '1x2',
+                      'doppelte chance', '(1x)', '(x2)', '(12)',
+                      ' 1x', ' x2', 'oder unentschieden')
+    torschuetze_marker = ('trifft', 'torschuetz', 'jederzeit tor',
+                          'doppelpack', 'hattrick')
+    downgrades = 0
+    for spiel in d.get('spiele', []):
+        sid = spiel.get('id')
+        heim_kern = _team_kern(spiel.get('heim') or '')
+        for tipp in spiel.get('tipps', []):
+            kat = (tipp.get('kategorie') or '').lower()
+            if kat not in ('safe', 'value'):
+                continue
+            markt = (tipp.get('markt') or '').lower()
+            begr = (tipp.get('begruendung') or '').lower()
+            if not begr:
+                continue
+            ist_heim_sieg_dc = heim_kern and heim_kern in markt and any(s in markt for s in sieg_dc_marker)
+            ist_torschuetze = any(t in markt for t in torschuetze_marker)
+            try:
+                quote = float(tipp.get('quote') or 99)
+            except (TypeError, ValueError):
+                quote = 99
+            ist_top_stuermer = ist_torschuetze and quote < 3.5
+            grund = None
+            if ist_heim_sieg_dc and any(p in begr for p in KONFLIKT_HEIM_TIPPEN):
+                grund = 'Heim-Krise-Token in eigener Begruendung'
+            elif ist_top_stuermer and any(p in begr for p in KONFLIKT_TOPSTUERMER_TIPPEN):
+                grund = 'Rotations-Token bei Top-Stuermer-Tipp'
+            elif kat == 'safe' and any(p in begr for p in KONFLIKT_SAFE_KOMFORT_PATTERNS):
+                grund = 'Komfort-Pattern bei SAFE'
+            if not grund:
+                continue
+            neue_kat = 'wackel' if kat in ('safe', 'value') and grund.startswith(('Heim-Krise', 'Rotations')) else 'value'
+            tipp['kategorie'] = neue_kat
+            tipp['_story_konflikt_v2'] = True
+            tipp['begruendung'] = (tipp.get('begruendung','') + f' [Auto HR4: Story-Konflikt v2 ({grund}) -> {kat}->{neue_kat}]').strip()
+            _sync_einzeltipp_kategorie(d, sid, tipp.get('id'), neue_kat)
+            downgrades += 1
+    if downgrades:
+        print(f"  HR4 Story-Konflikt v2: {downgrades} Tipps eine Stufe runter "
+              f"(eigene Begruendung widerspricht der Kategorie)")
+
+
+def validate_auswaerts_auto_value(d):
+    """HR6: Auswaerts-Form-Auto-VALUE-Detektor (User-Review v23 04.05.).
+
+    EMPIRIE Forest 04.05.: 9 Spiele unbesiegt + 8/8 Auswaerts-Tor-Serie + EL-Druck.
+    App hat KEINEN Forest-Sieg-Tipp gesetzt. Forest-Sieg @ 7.00 traf.
+
+    Hartregel: Wenn gast_form-Pflichtfelder anzeigen >=6 Unbesiegt UND >=6 Auswaerts-
+    Tor-Serie UND saisonziel_gast Druck-Token enthaelt -> warnung-Log dass Auswaerts-
+    VALUE-Tipp fehlen koennte. Mapper kann nichts hinzufuegen aber warnt.
+    """
+    druck_tokens = ('cl-quali', 'champions-league-quali', 'el-quali', 'europa-league-quali',
+                    'klassenerhalt', 'abstiegskampf', 'pflichtsieg', 'must-win',
+                    'titel-rennen', 'meister', 'aufstieg')
+    fehlende_auto_value = []
+    for spiel in d.get('spiele', []):
+        sk = spiel.get('saison_kontext') or {}
+        # Pflichtfelder-Heuristik: aus Strings parsen
+        unbesiegt_serie = (sk.get('gast_serie') or '').lower()
+        tor_serie = (sk.get('gast_auswaerts_tor_serie') or '').lower() if isinstance(sk.get('gast_auswaerts_tor_serie'), str) else ''
+        ziel = (sk.get('saisonziel_gast') or '').lower()
+        # int-Felder (neuere Routinen)
+        try:
+            unbesiegt_int = int(sk.get('gast_unbesiegt_serie') or 0)
+        except (TypeError, ValueError):
+            unbesiegt_int = 0
+        try:
+            tor_int = int(sk.get('gast_auswaerts_tor_serie_int') or 0)
+        except (TypeError, ValueError):
+            tor_int = 0
+        # String-Heuristik
+        unbesiegt_match = any(s in unbesiegt_serie for s in ('6 spiele unbesiegt', '7 spiele unbesiegt',
+                                                              '8 spiele unbesiegt', '9 spiele unbesiegt',
+                                                              '10 spiele unbesiegt'))
+        tor_match = any(s in tor_serie for s in ('6/', '7/', '8/', '9/', '10/'))
+        druck_match = any(t in ziel for t in druck_tokens)
+        kriterium_erfuellt = (unbesiegt_match or unbesiegt_int >= 6) \
+                          and (tor_match or tor_int >= 6) \
+                          and druck_match
+        if not kriterium_erfuellt:
+            continue
+        # Pruefe ob ein Auswaerts-Sieg/-DC-Tipp existiert
+        gast_kern = _team_kern(spiel.get('gast') or '')
+        hat_gast_value = False
+        for t in spiel.get('tipps', []):
+            kat = (t.get('kategorie') or '').lower()
+            markt = (t.get('markt') or '').lower()
+            if kat in ('safe', 'value') and gast_kern and gast_kern in markt and ('sieg' in markt or 'oder unentschieden' in markt or 'x2' in markt):
+                hat_gast_value = True
+                break
+        if not hat_gast_value:
+            fehlende_auto_value.append(f"{spiel.get('heim')}-{spiel.get('gast')}")
+    if fehlende_auto_value:
+        print(f"  HR6 Auswaerts-Auto-VALUE WARN: {len(fehlende_auto_value)} Spiele mit "
+              f"klarem Gast-Form-Edge OHNE Gast-VALUE-Tipp: {fehlende_auto_value[:3]}"
+              f"{'...' if len(fehlende_auto_value)>3 else ''}")
+
+
 # Pattern fuer Hebel S (validate_saison_kontext_sanity).
 # Es werden NUR die Synthese-Felder motivations_asymmetrie + recovery_heim/gast
 # gescannt - nicht die saisonziel-Felder. Saisonziel ist Fakt; ob das Edge-Implikation
@@ -960,6 +1247,26 @@ def fix(path):
     # zu wenig offensive Tipps. Mapper droppt nichts hier - nur Logging fuer User
     # + Routine soll beim naechsten Lauf nachbessern.
     validate_dossier_quality(d)
+
+    # === User-Review v23 (Chelsea-Forest 1:3 Lehrbuch-Fall) ===
+    # HR2: Anti-Heim-Bias bei Form-Realitaet. Heim-Sieg/-DC/-Top-Stuermer-Tipps
+    # werden auf wackel gedroppt wenn saison_kontext Heim-Krise/Pleiten-Serie/
+    # Sturm-Krise erwaehnt.
+    validate_heim_form(d)
+
+    # HR3: Joker-Stuermer bei UEFA-Doppelbelastung. Top-Stuermer-Torschuetzen-Tipps
+    # bei UEFA-Spiel <4 Tage + Rotation erwartet -> max WACKEL. Routine soll
+    # Backup-Stuermer (Quote 3.5+) als VALUE setzen.
+    validate_doppelbelastung_joker(d)
+
+    # HR4: Story-Konflikt-Check v2. Scannt begruendung[] auf konkrete Konflikt-Tokens
+    # (Heim-Krise bei Heim-Sieg-Tipp, Rotation bei Top-Stuermer-Tipp, Komfort bei SAFE).
+    validate_story_konflikt_v2(d)
+
+    # HR6: Auswaerts-Form-Auto-VALUE-Detektor. Warnt wenn Gast-Team Form-Edge hat
+    # aber kein Auswaerts-VALUE-Tipp gesetzt wurde (Mapper kann nicht hinzufuegen,
+    # nur warnen + Routine beim naechsten Lauf nachbessern).
+    validate_auswaerts_auto_value(d)
 
     # Beobachtungs-Liga-Filter (NEU 04.05. ROI-Sanierung): Tipps aus Beobachtungs-Ligen
     # (z.B. 2.BL, Serie A) werden HARTCODED aus einzeltipps[] und Safe/Balance/Risiko-Kombis

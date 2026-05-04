@@ -339,6 +339,54 @@ window.__MIESMUSCHEL_LESSONS = {
       "lesson": "4 Spiele in den letzten 7 Tagen mit 3+ defensiven Tipps (DC/Total/BTTS) und 0 offensiven Tipps (Sieg/Torschuetze). Hebel M sollte das eigentlich abfangen - Mapper-Pattern erweitern oder Routine-Disziplin verschaerfen. Beispiele: 2026-04-30 Nottingham Forest - Aston Villa (3x defensiv, 0 offensiv) -> 2 verloren (?); 2026-05-02 Werder Bremen - FC Augsburg (3x defensiv, 0 offensiv) -> 4 verloren (1:3); 2026-05-02 1. FC Union Berlin - 1. FC Koeln (3x defensiv, 0 offensiv) -> 2 verloren (2:2)",
       "bezug_spiel_id": null,
       "auto_generiert": true
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "HR1: bet365-Quote PFLICHT direkt verifiziert (nicht Aggregator)",
+      "lesson": "EMPIRIE 04.05. Chelsea-Forest 1:3: App rechnete Aggregator-Quote 1.73 fuer Chelsea-Sieg, bet365 hatte aber 1.39 (-25% Differenz). Phantom-VALUE auf Chelsea-DC, Forest-Sieg @ 7.00 (Aggregator nur 4.50) komplett uebersehen. Verlust 16.66 Euro bei einem Spiel das mit korrektem Quoten-Check Gewinn 80 Euro+ gewesen waere. HARTREGEL: Vor jedem Tipp bet365-Quote DIREKT verifizieren via WebSearch 'bet365 [heim] vs [gast] odds' oder WebFetch bet365-Mobile. JSON-Pflichtfelder pro Tipp: quote_bet365, quote_aggregator, quote_diff_prozent, quote_source. Wenn |quote_diff_prozent|>10%: (a) Sieg-Markt: bet365=Wahrheit, Edge neu rechnen. (b) Tor/Total: max WACKEL. (c) Begruendung MUSS beide Quoten + Differenz nennen. bet365 DE hat oft Heim-Favoriten-Bias - das ist die EDGE-QUELLE wenn man bet365-Quote echt kennt.",
+      "bezug_spiel_id": "2026-05-04-che-nfo"
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "HR2: Anti-Heim-Bias bei Form-Realitaet (Mapper-Hebel HF)",
+      "lesson": "EMPIRIE 04.05. Chelsea-Forest 1:3 Heim-Pleite: Chelsea Heim-Favorit @ 1.73 mit 5 Heim-Pleiten Serie + 8 Pleiten in 12 + 5 Heimspielen ohne eigenes Tor. Forest auswaerts 9 Spiele unbesiegt + 8/8 PL-Auswaertsspielen mit eigenem Tor. App labelte trotzdem Chelsea-DC VALUE + Palmer-Tor VALUE. Beide tot. HARTREGEL validate_heim_form(): Wenn heim_form_letzte_5 enthaelt 3+ Niederlagen ODER heim_serie 3+ Heimpleiten Folge ODER heim_tore_letzte_5<4 (Sturm-Krise) -> Heim-Sieg/-DC/-Torschuetzen-Tipp KOMPLETT SKIPPEN (nicht downgrade), Spiegel-Tipp Underdog-Auswaerts-DC/-Sieg als VALUE generieren. Tor-Aggregat-Tipps (BTTS/Ueber/Unter) bleiben unberuehrt. Pflichtfelder im saison_kontext: heim_form_letzte_5, gast_form_letzte_5, heim_serie, gast_serie, heim_tore_letzte_5, gast_tore_letzte_5.",
+      "bezug_spiel_id": "2026-05-04-che-nfo"
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "HR3: Joker-Stuermer statt Top-Stuermer bei UEFA-Doppelbelastung",
+      "lesson": "EMPIRIE 04.05. Chelsea-Forest: App-Begruendung schrieb SELBST 'Wood koennte rotiert werden wegen EL-Rueckspiel 4 Tage spaeter'. Trotzdem Wood @ 3.50 als WACKEL getippt, NICHT der Joker. Awoniyi (Forest-Backup-Stuermer in Doppelspitze mit Igor Jesus) NICHT als Tipp-Kandidat. Awoniyi traf DOPPELT @ 4.00. HARTREGEL: Wenn parallel_heim/gast UEFA-Spiel <4 Tage UND motivations_asymmetrie 'rotier'-Token UND recovery-Belastung: (1) Top-Stuermer-Tipp max WACKEL, NIE VALUE/SAFE. (2) WebSearch 'predicted XI [Team] [Datum]' aktiv suchen. (3) Backup-Stuermer Quote 3.5-6.0 -> VALUE-Label, Begruendung 'Boost-Setup ueber bet365-Auswechslungs-Mechanik'. (4) Bei Doppelspitze: den unbeliebteren (= hoehere Quote) als VALUE. Ausnahme: Final-Spiele/Decider ohne Rueckspiel-Druck.",
+      "bezug_spiel_id": "2026-05-04-che-nfo"
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "HR4: Story-Konflikt-Check verschaerft (Hebel S v2)",
+      "lesson": "EMPIRIE 04.05. Chelsea-Forest + 03.05. BMG-BVB + Freiburg-Wolfsburg: Routine schreibt Begruendung mit klaren Konflikt-Tokens, labelt Tipp trotzdem hoch. Bestehender Hebel S faengt nur 'edge kleiner als'/'eher 50/50' ab - nicht konkrete Pattern. HARTREGEL validate_story_konflikt() Erweiterung scannt begruendung[]: (a) Tipp Heim-Sieg/-DC + Begruendung enthaelt 'Pleiten-Serie'/'Heim-Krise'/'X Spiele ohne Sieg'/'rotier' -> max WACKEL. (b) Tipp Top-Stuermer-Tor + Begruendung enthaelt 'rotier'/'ausgewechselt'/'Auswechslungs-Wahrscheinlichkeit hoch' -> max WACKEL. (c) Tipp Auswaerts-Underdog-Niederlage (kein Underdog-Tipp gesetzt) + Gast-Begruendung '9 Spiele unbesiegt'/'Form-Edge' -> Spiegel-Tipp pruefen. (d) SAFE + Begruendung 'Saisonziel erreicht'/'gerettet'/'uneinholbar'/'kein Druck mehr' beim getippten Team -> max VALUE. Keine Ausnahme.",
+      "bezug_spiel_id": "2026-05-04-che-nfo"
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "HR5: Markt-Familie-Diversitaet pro Spiel (max 2 pro Familie)",
+      "lesson": "EMPIRIE 04.05. Chelsea-Forest hatte 4 Tipps - 3 davon Tor-bezogen (Palmer, Wood, BTTS). Wenn Chelsea nicht trifft sterben 2-3 Tipps gleichzeitig. Korrelations-Risiko in einem Spiel. HARTREGEL validate_markt_familie() pro Spiel max 2 Tipps aus derselben Markt-Familie: A: Sieg/DC/Doppelchance/Handicap (Outcome). B: Tor jederzeit/1.Torschuetze (Spieler-Tor). C: BTTS/Ueber-Unter Tore-Total/HZ-Tore (Tore-Aggregat). D: HZ-Sieger/HZ-ES-Kombi/Erste-Halbzeit-Tore (HZ). E: NBA Player-Punkte/DD/TD. F: NBA Spread/Quarter. Bei 4 Tipps pro Spiel: 1A+1B+1C+1D (oder NBA E/F). Bei <4 Spielen am Tag (Schmal-Tag): Diversitaets-Regel auf 3 pro Familie aufweichen.",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "HR6: Auswaerts-Form-Auto-VALUE-Detektor",
+      "lesson": "EMPIRIE 04.05.: Forest 9 Spiele unbesiegt + 8/8 PL-Auswaertsspielen mit eigenem Tor + 6 Auswaertssiege Saison. App hat Forest-Sieg-Tipp NICHT gesetzt. Stattdessen Chelsea-DC. Forest-Sieg @ 7.00 endete als Treffer. HARTREGEL validate_auswaerts_auto_value(): Wenn gast_form (a) >=6 Spiele unbesiegt UND (b) >=6 Auswaertsspiele mit eigenem Tor UND (c) Saisonziel-Druck (CL-Quali/EL-Quali/Klassenerhalts-Pflicht) -> AUTO-VALUE-Tipp Gast-Sieg ODER Gast-DC X2 ODER Gast-Top-Stuermer-Tor mit Quote 2.5+ generieren, Einsatz 0.5-1.0%, in einzeltipps[] + Risiko-Kombi. Pflichtfelder: gast_unbesiegt_serie (int), gast_auswaerts_tor_serie (int), gast_saisonziel_druck (bool). Ausnahme: Top-vs-Top wo beide Kriterien erfuellen.",
+      "bezug_spiel_id": "2026-05-04-che-nfo"
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "HR7: NBA Player-Punkte mit Verletzungs-Realismus + Spread-Cap",
+      "lesson": "EMPIRIE Player-Punkte historisch -46.2% ROI / 29.4% Hitrate. Lesson 04.05. fr Boykott aufgehoben mit 'differenziert erlaubt' bei Heim-Top + Form + Spread<=8. Aber Wemby-Tipp 'Mehr als 24.5' bei Spread -13.5 = klares Blowout-Risiko. Im aktuellen Set als VALUE gelabelt - widerspricht der Lesson. HARTREGEL: Player-Punkte nur bei ALLEN Bedingungen: (a) Spread <=7.5 Pkt (kein Blowout-Risiko ab 8+). (b) Spieler in Round-1-Serie konstant 80%+ Linie ueberschritten. (c) Linie = Saison-Schnitt -2.0 oder niedriger (Markt unterschaetzt). (d) Keiner der 3 Top-Defender matchup-spezifisch. (e) Spieler-Status aktiv/startet verifiziert <2h vor Tip-off. Wenn nicht ALLE erfuellt -> max WACKEL, Einsatz max 0.25%. Player-Punkte NIE in Safe-Kombi, max 1x in Risiko-Kombi. Konkret heute: Wemby Spread -13.5 = max WACKEL nicht VALUE. Brunson Spread 7.5 = grenzwertig WACKEL OK.",
+      "bezug_spiel_id": "2026-05-05-spu-min"
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "HR8: NBA Round-2-G1 Spread-Cap bei extremen Spreads",
+      "lesson": "EMPIRIE NBA G6/G7-Bilanz: G6 -45.6% ROI (Decider-Druck), G7 +49% ROI (Heim-Court). G1 Round 2 'frei' aber problematisch bei extremen Spreads. Bei Spread >=10 ist Sieg-Hitrate hoch (75%+) ABER Spread-Cover unsicher (50-55%) - Underdog-Spread oft VALUE. HARTREGEL G1 Round 2 Spread >=10: (a) Heim-Sieg ML max VALUE (oft Quote 1.20-1.25 = wenig Edge bei 75% Hitrate, Einsatz reduziert 0.5-1.0%). (b) Heim-Spread NIE SAFE/VALUE bei Spread >=10. (c) Ueber/Unter Total wackelig bei Garbage-Time. (d) Spurs-Wolves heute: Spurs ML @ 1.22 = OK VALUE 1%, aber Spurs -13.5 waere WACKEL nicht VALUE. Konsistent. Ausnahme: G1 ohne extreme Spread (<8) = normale Regeln.",
+      "bezug_spiel_id": "2026-05-05-spu-min"
     }
   ]
 };
