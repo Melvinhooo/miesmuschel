@@ -312,6 +312,12 @@
       "kategorie": "NBA DD/TD: Differenzierte Regel statt Boykott",
       "lesson": "Korrektur. DD/TD nicht pauschal in Risiko/Moonshot abschieben, sondern: Erlaubt als VALUE wenn BEIDE Stats des DD-Markts (meist Pkt + Reb oder Pkt + Ast) in den letzten 5 Spielen Schnitt 10+ haben. Beispiel: Jokic Pkt+Reb DD - wenn letzte 5 Pkt-Schnitt 28 + Reb-Schnitt 12 -> DD VALUE OK. Wenn nur eine Stat konsistent (z.B. 25 Pkt aber Reb-Range 4-15 mit Schnitt 8) -> DD max WACKEL. Reference Lesson 23.04. Banchero 18/6/8: Schnitt 21/8 fuehrt nicht zu konsistentem DD weil Reb-Streuung zu gross. Triple-Double identisch + ALLE drei Stats geprueft.",
       "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "Kasse-Stand: 550€ (zentral in data/kasse.json)",
+      "lesson": "Aktuelle Kasse bei bet365: 550€ (Stand 04.05.2026). Zentral in data/kasse.json gepflegt - bei jeder Aenderung dort updaten. Routinen sollen vor jedem Lauf data/kasse.json lesen und konkrete Euro-Werte in begruendung einbauen.\nStandard-Einsatz-Prozente x 550€:\n- SAFE/VALUE einzeln (1.5-2%): 8,25-11€\n- WACKEL einzeln (0.5%): 2,75€\n- Safe-Kombi (2%): 11€\n- Balance-Kombi (0.8%): 4,40€\n- Risiko-Kombi (0.25%): 1,40€\n- Moonshot-Kombi (0.1%): 0,55€ (oder 1-2€ Spasseinsatz wenn Quote 1000x+)\nDie Routine darf in begruendung schreiben 'Empfohlener Einsatz: 8,25€ (1,5% der 550€-Kasse)'. NIE mit veralteten 100€-Beispielen rechnen.",
+      "bezug_spiel_id": null
     }
   ]
 }

@@ -50,9 +50,11 @@ Reihenfolge in jeder Sektion: **SAFE → VALUE → WACKEL → RISIKO → MOONSHO
 
 ## Einsatz-Limits (immer einhalten, im Dossier sichtbar machen)
 
-- **Einzeltipps:** 1–2 % der Kasse
-- **Kombi ~50–100x:** max. 0,5 %
-- **Kombi ~250x:** max. 0,25 %
+**Aktuelle Kasse: siehe `data/kasse.json`** (Stand 04.05.2026: **550€**). Bei Änderung dort zentral updaten — Routinen lesen das File vor jedem Lauf und rechnen konkrete Euro-Beträge in `begruendung` aus. NIE mit veralteten 100€-Beispielen rechnen.
+
+- **Einzeltipps:** 1–2 % der Kasse → bei 550€: 5,50–11€
+- **Kombi ~50–100x:** max. 0,5 % → bei 550€: 2,75€
+- **Kombi ~250x:** max. 0,25 % → bei 550€: 1,40€
 - **Lotterie 1000x+:** max. 0,1 % — besser 1–2 € Spaßeinsatz
 
 ---

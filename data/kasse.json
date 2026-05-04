@@ -1,0 +1,14 @@
+{
+  "kasse_euro": 550,
+  "stand": "2026-05-04",
+  "hinweis": "Aktueller bet365-Kontostand. Pro Tipp werden alle Einsatz-Prozente auf diese Kasse multipliziert. Bei Aenderung HIER zentral updaten - Routinen lesen es vor jedem Lauf.",
+  "einsatz_beispiele": {
+    "einzeltipp_safe_value_2_prozent": 11.0,
+    "einzeltipp_safe_value_1_5_prozent": 8.25,
+    "einzeltipp_wackel_0_5_prozent": 2.75,
+    "kombi_safe_2_prozent": 11.0,
+    "kombi_balance_0_8_prozent": 4.40,
+    "kombi_risiko_0_25_prozent": 1.40,
+    "kombi_moonshot_0_1_prozent": 0.55
+  }
+}
