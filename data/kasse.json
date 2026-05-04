@@ -1,14 +1,46 @@
 {
   "kasse_euro": 550,
   "stand": "2026-05-04",
-  "hinweis": "Aktueller bet365-Kontostand. Pro Tipp werden alle Einsatz-Prozente auf diese Kasse multipliziert. Bei Aenderung HIER zentral updaten - Routinen lesen es vor jedem Lauf.",
-  "einsatz_beispiele": {
-    "einzeltipp_safe_value_2_prozent": 11.0,
-    "einzeltipp_safe_value_1_5_prozent": 8.25,
-    "einzeltipp_wackel_0_5_prozent": 2.75,
-    "kombi_safe_2_prozent": 11.0,
-    "kombi_balance_0_8_prozent": 4.40,
-    "kombi_risiko_0_25_prozent": 1.40,
-    "kombi_moonshot_0_1_prozent": 0.55
-  }
+  "basis_kasse_euro": 1000,
+  "auszahlungs_schwelle_euro": 200,
+  "hinweis": "Aktueller bet365-Kontostand. Bei Aenderung HIER zentral updaten - Routinen lesen es vor jedem Lauf und passen Einsatz-Empfehlungen je nach Kasse-Stufe an.",
+
+  "stufen_modell": {
+    "stufe_1_aufbau": {
+      "kasse_min": 0,
+      "kasse_max": 999,
+      "modus": "Standard 1-2% pro Tipp",
+      "einzel_safe_value_prozent": [1.0, 2.0],
+      "einzel_wackel_prozent": 0.5,
+      "kombi_safe_prozent": 2.0,
+      "kombi_balance_prozent": 0.8,
+      "kombi_risiko_prozent": 0.25,
+      "kombi_moonshot_prozent": 0.1,
+      "kommentar": "Bankroll-Aufbau-Phase. Konservativ. Aktuell bei 550€."
+    },
+    "stufe_2_skim": {
+      "kasse_min": 1000,
+      "kasse_max": null,
+      "modus": "Aggressiv 3-5% bei Quoten 1.80-2.30 (Half-Kelly)",
+      "voraussetzung": "rolling 30 Tage ROI > +5% laut data/statistik.json. Sonst bleibt Stufe 1 aktiv egal wie hoch die Kasse ist.",
+      "einzel_safe_value_prozent": [3.0, 5.0],
+      "einzel_safe_value_quoten_zielrange": [1.80, 2.30],
+      "einzel_wackel_prozent": 1.0,
+      "kombi_safe_prozent": 2.0,
+      "kombi_balance_prozent": 0.8,
+      "kombi_risiko_prozent": 0.25,
+      "kombi_moonshot_prozent": 0.1,
+      "kommentar": "User-Strategie 04.05.: bei 1000€ Kasse 100€-Einzeltipps auf solide 1.80-2.30-Quoten setzen. Half-Kelly bei 60% Hitrate."
+    }
+  },
+
+  "auszahlungs_strategie": {
+    "trigger": "Jedes Mal wenn Kasse >= basis_kasse_euro + auszahlungs_schwelle_euro -> auszahlungs_schwelle_euro auszahlen",
+    "beispiel": "Basis 1000€, Schwelle 200€. Bei Kasse 1200€ -> 200€ auszahlen, neue Basis bleibt 1000€. Bei 1400€ wieder 200€ auszahlen.",
+    "ziel": "Profit-Skim. Sicherstellen dass realer Gewinn rauskommt statt im Spiel verbleibt."
+  },
+
+  "aktuelle_stufe": 1,
+  "naechster_meilenstein_euro": 1000,
+  "fortschritt_zur_stufe_2_prozent": 55.0
 }

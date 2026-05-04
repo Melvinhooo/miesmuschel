@@ -318,6 +318,12 @@
       "kategorie": "Kasse-Stand: 550€ (zentral in data/kasse.json)",
       "lesson": "Aktuelle Kasse bei bet365: 550€ (Stand 04.05.2026). Zentral in data/kasse.json gepflegt - bei jeder Aenderung dort updaten. Routinen sollen vor jedem Lauf data/kasse.json lesen und konkrete Euro-Werte in begruendung einbauen.\nStandard-Einsatz-Prozente x 550€:\n- SAFE/VALUE einzeln (1.5-2%): 8,25-11€\n- WACKEL einzeln (0.5%): 2,75€\n- Safe-Kombi (2%): 11€\n- Balance-Kombi (0.8%): 4,40€\n- Risiko-Kombi (0.25%): 1,40€\n- Moonshot-Kombi (0.1%): 0,55€ (oder 1-2€ Spasseinsatz wenn Quote 1000x+)\nDie Routine darf in begruendung schreiben 'Empfohlener Einsatz: 8,25€ (1,5% der 550€-Kasse)'. NIE mit veralteten 100€-Beispielen rechnen.",
       "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "Kasse-Stufen-Modell + Auszahlungs-Strategie (User-Plan 04.05.)",
+      "lesson": "User-Plan 04.05.2026: Kasse-Aufbau in 2 Stufen + Profit-Skim.\nSTUFE 1 (Kasse < 1000€, aktuell 550€): Konservativ 1-2% pro Einzeltipp. Aufbau-Phase, kein Risiko. Routinen empfehlen 5,50-11€ pro SAFE/VALUE-Einzel.\nSTUFE 2 (Kasse >= 1000€): User will 100€-Einzeltipps auf solide 1.80-2.30-Quoten (=10% bei 1000€ Kasse, =5% bei 2000€ Kasse). Half-Kelly bei ~60% Trefferquote. VORAUSSETZUNG: rolling 30 Tage ROI > +5% laut statistik.json. Bei -3% ROI bleibt Stufe 1 aktiv selbst bei 2000€ Kasse - Aggressivitaet ohne Edge = Selbstmord.\nAUSZAHLUNGS-TRIGGER: jedes Mal wenn Kasse >= 1000€ + 200€ -> 200€ auszahlen, Basis bleibt 1000€. Sichert echten Profit, kein Papier-Geld im Konto.\nRoutinen MUESSEN: (1) data/kasse.json vor jedem Lauf lesen, (2) aktuelle_stufe bestimmen (Kasse + 30d-ROI), (3) Einsatz-Empfehlung je Stufe in begruendung schreiben mit konkreten Euros, (4) Auszahlungs-Hinweis im Dossier-hinweis-Feld wenn Kasse >= 1200€.",
+      "bezug_spiel_id": null
     }
   ]
 }

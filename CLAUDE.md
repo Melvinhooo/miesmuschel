@@ -48,14 +48,30 @@ Reihenfolge in jeder Sektion: **SAFE → VALUE → WACKEL → RISIKO → MOONSHO
 
 ---
 
-## Einsatz-Limits (immer einhalten, im Dossier sichtbar machen)
+## Einsatz-Limits + Kasse-Stufen-Modell (immer einhalten, im Dossier sichtbar machen)
 
-**Aktuelle Kasse: siehe `data/kasse.json`** (Stand 04.05.2026: **550€**). Bei Änderung dort zentral updaten — Routinen lesen das File vor jedem Lauf und rechnen konkrete Euro-Beträge in `begruendung` aus. NIE mit veralteten 100€-Beispielen rechnen.
+**Aktuelle Kasse: siehe `data/kasse.json`** (Stand 04.05.2026: **550€**, Basis-Ziel 1000€). Bei Änderung dort zentral updaten — Routinen lesen das File vor jedem Lauf, bestimmen die aktuelle Stufe und rechnen konkrete Euro-Beträge in `begruendung` aus.
 
-- **Einzeltipps:** 1–2 % der Kasse → bei 550€: 5,50–11€
-- **Kombi ~50–100x:** max. 0,5 % → bei 550€: 2,75€
-- **Kombi ~250x:** max. 0,25 % → bei 550€: 1,40€
-- **Lotterie 1000x+:** max. 0,1 % — besser 1–2 € Spaßeinsatz
+### Stufe 1 — Aufbau-Phase (Kasse < 1000€)
+Konservativ. Bei 550€-Stand ist das die aktive Stufe.
+- **Einzeltipps:** 1–2 % → 5,50–11€
+- **Wackel-Einzel:** 0,5 % → 2,75€
+- **Kombi Safe ~3x:** 2 % → 11€
+- **Kombi Balance ~6–10x:** 0,8 % → 4,40€
+- **Kombi Risiko ~15–30x:** 0,25 % → 1,40€
+- **Moonshot 300x+:** 0,1 % → 0,55€ (oder 1–2€ Spaßeinsatz)
+
+### Stufe 2 — Profit-Skim (Kasse ≥ 1000€)
+**Voraussetzung**: rolling 30-Tage-ROI > +5 % laut `data/statistik.json`. Sonst bleibt Stufe 1 aktiv egal wie hoch die Kasse — Aggressivität ohne Edge ist Selbstmord.
+
+- **Einzeltipps SAFE/VALUE:** 3–5 % bei Quoten 1.80–2.30 (Half-Kelly bei ~60 % Hitrate). Bei 1000€ Kasse: 30–50€. Ziel 100€-Tipps wenn Kasse Richtung 2000€+ wächst.
+- **Wackel-Einzel:** 1 % → 10€
+- **Kombi-Limits gleich wie Stufe 1** (Kombis bleiben konservativ)
+
+### Auszahlungs-Strategie (Profit-Skim)
+- Bei Kasse ≥ Basis + 200€ → **200€ auszahlen**, Kasse zurück auf Basis
+- Beispiel: Basis 1000€, bei Stand 1200€ → 200€ raus → neue Kasse 1000€
+- Sichert echten Gewinn statt "Papier-Profit im Konto rumdümpelt"
 
 ---
 
