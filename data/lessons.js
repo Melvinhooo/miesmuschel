@@ -387,6 +387,30 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "HR8: NBA Round-2-G1 Spread-Cap bei extremen Spreads",
       "lesson": "EMPIRIE NBA G6/G7-Bilanz: G6 -45.6% ROI (Decider-Druck), G7 +49% ROI (Heim-Court). G1 Round 2 'frei' aber problematisch bei extremen Spreads. Bei Spread >=10 ist Sieg-Hitrate hoch (75%+) ABER Spread-Cover unsicher (50-55%) - Underdog-Spread oft VALUE. HARTREGEL G1 Round 2 Spread >=10: (a) Heim-Sieg ML max VALUE (oft Quote 1.20-1.25 = wenig Edge bei 75% Hitrate, Einsatz reduziert 0.5-1.0%). (b) Heim-Spread NIE SAFE/VALUE bei Spread >=10. (c) Ueber/Unter Total wackelig bei Garbage-Time. (d) Spurs-Wolves heute: Spurs ML @ 1.22 = OK VALUE 1%, aber Spurs -13.5 waere WACKEL nicht VALUE. Konsistent. Ausnahme: G1 ohne extreme Spread (<8) = normale Regeln.",
       "bezug_spiel_id": "2026-05-05-spu-min"
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "HR9: Drehungs-Cluster-Tag-Filter (Quelle 8f)",
+      "lesson": "EMPIRIE 04.05.: 3 Drehungen am Tag aus volle_analyse[]: Everton-City (City 0:1->3:1->3:3 Doppel-Drehung via Doku 90+7'), Cremonese-Lazio (Heim 1:0->1:2 in Stoppzeit), Spurs-Wolves G1 (19 Lead-Wechsel + Auswaerts-Knapp-Sieg trotz -13.5-Heim-Spread). Bei Kurz-Quoten-Sieg-Tipps an dem Tag: City-Sieg @ 1.51 verloren (3:3 Remis), Spurs-ML @ 1.22 verloren (Wolves 104:102) = 0/2 Hit bei Quote <=1.55. HARTREGEL validate_drehung_cluster() (taeglich nach Auswertung): Wenn drehung.war_drehung==True bei >=3 Spielen am Tag (ueber alle volle_analyse[]), dann fuer naechste 3 Tage werden alle Sieg-Tipps mit Quote <=1.55 + Spread >=10 von SAFE/VALUE auf wackel degradiert. Auch: 'Top-Team-Auswaerts-Sieg-Quote <=1.55' triggert pre-game-Drehungs-Sanity-Check (Heim-Form letzte 3 Spiele, Heim-eigenes-Tor-Quote). Drehungen sind nicht random sondern Edge-Indiz fuer ueberbewertete Favoriten.",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "HR10: Top-Team-Auswaerts-Krise-Heim-Klub-Falle (Quelle 8g)",
+      "lesson": "EMPIRIE 04.05. Everton-City (Beobachtung aus volle_analyse): City Auswaerts-Favorit @ 1.51 vs Everton (Mid-Table, kein Saisonziel mehr) - City fuehrte 0:1 zur Pause, Everton drehte auf 3:1 in 13 Minuten via Barry-Doppelpack. Klassisches 'Top-Klub-Auswaerts-mit-Liga-Druck-vs-Mid-Table-Heim-Befreit-Aufspielen'-Pattern. Annahme 'Mid-Table-Heim-Klub ohne Saisonziel = leichter Gegner' war Markt-Falle - vor eigenem Publikum spielen sie befreit auf, oft offensiver als wenn sie noch Punkte brauchen. HARTREGEL validate_top_team_auswaerts(): Top-Team-Auswaerts-Sieg-Tipp mit Quote <=1.55 nur SAFE/VALUE wenn ALLE: (a) Heim-Klub <= 35 Punkte ODER Heim-Form-Niederlagen-Serie >= 3 ODER kein eigenes Tor in letzten 3 Heim-Spielen. Sonst max WACKEL. Mid-Table-Heim-Klub vor Saisonende = AUTO-WACKEL bei Top-Team-Auswaerts-Sieg-Tipp <=1.55. Boostet auch Auswaerts-DC X2-Profile als VALUE statt reinem Sieg-Tipp.",
+      "bezug_spiel_id": "2026-05-04-eve-mci"
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "HR11: Beobachtungs-Liga Soft-VALUE bei klarem Klassen-Edge (Quelle 8g)",
+      "lesson": "EMPIRIE 04.05. Roma-Fiorentina (BEOBACHTUNGS-LIGA, 0 Stake): Roma 4:0 zur Pause (3:0 nach 34 Min, Tor-Schuetzen Mancini, Wesley, Hermoso, Pisilli) - klassisches Heim-EL-Druck-Klub vs Mid-Table-ohne-Saisonziel-Klub-Pattern. Auto-Markt-Resultate: BTTS NEIN, Ueber 3.5 erreicht, Heim-zu-null. Tipps-Routine hatte das Spiel als 0-Stake gesetzt (Beobachtung), aber das Pattern war so klar dass ein 0.5%-Stake gerechtfertigt waere. HARTREGEL validate_beobachtung_soft_value(): Auch in Beobachtungs-Liga 1 VALUE-Tipp mit max 0.5% Stake erlaubt wenn ALLE: (a) Heim-Klub Top-6 mit aktivem CL-/EL-Quali-Druck (Pflicht-Sieg-Konstellation), (b) Gast-Klub Mid-Table-/Bottom-Half OHNE eigenes Saisonziel + ohne UEFA-Doppelbelastung, (c) Heim-Form letzte 3 mit Sieg + eigenem Tor. Tipp dann in einzeltipps[]+kombis[]-Set mit Beobachtungs-Marker. Damit beobachtungs_ligen.json-Filter nicht alle EV-Quellen aus Bluter-Ligen abschneidet - selektive Reaktivierung statt totaler Sperre.",
+      "bezug_spiel_id": "2026-05-04-rom-fio"
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "HR12: Joker-Stuermer-Profil bei Klassenerhalts-Heim-Spielen (Quelle 8i)",
+      "lesson": "EMPIRIE 04.05. Sevilla-Sociedad (volle_analyse einwechslungs_tor_highlights[]): Alexis Sanchez (37J, etablierter Joker) kam HZ-Pause rein, schoss 50. Min das einzige Tor zum 1:0-Klassenerhalts-Sieg fuer Sevilla. Tipps-Routine hatte Torschuetzen-Tipp auf OYARZABAL (Sociedad-Auswaerts) gesetzt - kein Sevilla-Spieler. Joker-Trigger AKTIV ohne Tipp drauf - genau das Pattern Lesson 8i. HARTREGEL validate_joker_profile(): Bei Klassenerhalts-Heim-Spielen (Heim-Klub Abstiegszone bzw <=2 Punkte ueber Strich, MUSS-Sieg) wenn Kader etablierten Joker-Stuermer hat (z.B. Sanchez bei Sevilla, Pellegri-Profil bei Empoli, Choupo-Moting-Profil bei Bayern, Origi-Profil) -> AUTO-Torschuetzen-Tipp Joker-Spieler Quote >=4.0 als wackel mit 0.25% Stake. Pflichtfeld im saison_kontext: 'joker_profile_heim'/'joker_profile_gast' (Spieler-Name + Saisontore + erwartete Bookies-Quote). Wenn n>=3 Joker-Tipps zukuenftig getrackt -> Markt-Aggregat 'Klassenerhalt-Joker' eigenes Bilanz-Aggregat in statistik.json.",
+      "bezug_spiel_id": "2026-05-04-sev-rso"
     }
   ]
 };

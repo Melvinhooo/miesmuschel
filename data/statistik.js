@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-05-04T14:16:28+02:00",
+  "letzte_berechnung": "2026-05-05T06:10:47+00:00",
   "gesamt": {
     "tipps": 137,
     "gewonnen": 82,
@@ -2008,6 +2008,285 @@ window.__MIESMUSCHEL_STAT = {
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-05-04",
+      "gesamt": {
+        "tipps": 12,
+        "gewonnen": 5,
+        "verloren": 7,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 12.0,
+        "netto": 7.97,
+        "trefferquote": 41.7,
+        "roi_prozent": 66.4
+      },
+      "spiele": [
+        {
+          "id": "2026-05-04-che-nfo",
+          "liga": "Premier League",
+          "heim": "Chelsea FC",
+          "gast": "Nottingham Forest",
+          "endstand": "1:3",
+          "tipps": [
+            {
+              "markt": "Chelsea oder Unentschieden (DC 1X)",
+              "quote": 1.25,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Chelsea verloren 1:3 - DC 1X verfehlt (Forest-Sieg)"
+            },
+            {
+              "markt": "Cole Palmer Tor jederzeit",
+              "quote": 2.2,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Palmer hat NICHT getroffen - vergab sogar Foulelfmeter (Sels parierte). Boost greift nicht: Joao Pedro startete (kein Ersatz fuer Palmer)"
+            },
+            {
+              "markt": "Beide Teams treffen JA",
+              "quote": 1.85,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.85,
+              "kommentar": "BTTS JA: Forest 3 (Awoniyi 2', Igor Jesus 15' Pen, Awoniyi 52'), Chelsea 1 (Joao Pedro 90' Bicycle)"
+            },
+            {
+              "markt": "Chris Wood Tor jederzeit",
+              "quote": 3.5,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Wood NICHT in Startelf (Forest startete mit Awoniyi statt Wood) - kein Tor + kein Boost moeglich da Wood selbst nicht ausgewechselt wurde"
+            }
+          ]
+        },
+        {
+          "id": "2026-05-04-eve-mci",
+          "liga": "Premier League",
+          "heim": "FC Everton",
+          "gast": "Manchester City",
+          "endstand": "3:3",
+          "tipps": [
+            {
+              "markt": "Manchester City Sieg",
+              "quote": 1.51,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "City Remis 3:3 - keine Sieg. 2:0-Insurance gilt NICHT fuer PL (nur BL+CL). Doku 90+7' Equalizer + Haaland 83' rettete den Punkt"
+            },
+            {
+              "markt": "Erling Haaland Tor jederzeit",
+              "quote": 1.65,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.65,
+              "kommentar": "Haaland traf 83' (25. PL-Saisontor) - SAFE-Bein gewonnen"
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.65,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.65,
+              "kommentar": "Ueber 2.5 Tore klar erfuellt: 6 Tore (Doku 43', Barry 68'+81', O'Brien 73', Haaland 83', Doku 90+7')"
+            }
+          ]
+        },
+        {
+          "id": "2026-05-04-sev-rso",
+          "liga": "LaLiga",
+          "heim": "Sevilla FC",
+          "gast": "Real Sociedad",
+          "endstand": "1:0",
+          "tipps": [
+            {
+              "markt": "Sevilla oder Unentschieden (DC 1X)",
+              "quote": 1.4,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.4,
+              "kommentar": "Sevilla 1:0 - DC 1X klar erfuellt"
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.91,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Nur 1 Tor - Ueber 2.5 verfehlt (Schwellen-Tipp knapp verloren)"
+            }
+          ]
+        },
+        {
+          "id": "2026-05-04-nyk-phi",
+          "liga": "NBA Playoffs Round 2, Game 1",
+          "heim": "New York Knicks",
+          "gast": "Philadelphia 76ers",
+          "endstand": "137:98",
+          "tipps": [
+            {
+              "markt": "Knicks Sieg (Moneyline)",
+              "quote": 1.42,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.42,
+              "kommentar": "Knicks 137:98 - 39-Punkte-Blowout"
+            }
+          ]
+        },
+        {
+          "id": "2026-05-04-sas-min",
+          "liga": "NBA Playoffs Round 2, Game 1",
+          "heim": "San Antonio Spurs",
+          "gast": "Minnesota Timberwolves",
+          "endstand": "102:104",
+          "tipps": [
+            {
+              "markt": "Spurs Sieg (Moneyline)",
+              "quote": 1.22,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Spurs verloren 102:104 - knapper Auswaerts-Sieg fuer Wolves trotz Edwards-Knee + DiVincenzo-OUT"
+            },
+            {
+              "markt": "Victor Wembanyama Mehr als 24.5 Punkte",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Wemby NUR 11 Pkt (5/17 FG) - klar UNTER 24.5. NBA-Postseason-Block-Rekord (12 Blocks!) aber offensiv ineffizient"
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi (~2.6x)",
+          "kategorie": "safe",
+          "gesamtquote": 0.0,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Everton vs Manchester City: Manchester City Sieg",
+              "quote": 1.51,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Chelsea vs Nottingham Forest: Chelsea oder Unentschieden (DC 1X)",
+              "quote": 1.25,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sevilla vs Real Sociedad: Sevilla oder Unentschieden (DC 1X)",
+              "quote": 1.4,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi (~7x)",
+          "kategorie": "balance",
+          "gesamtquote": 0.0,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Everton vs Manchester City: Erling Haaland Tor jederzeit",
+              "quote": 1.65,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Chelsea vs Nottingham Forest: Cole Palmer Tor jederzeit",
+              "quote": 2.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sevilla vs Real Sociedad: Ueber 2.5 Tore",
+              "quote": 1.91,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi (~20x)",
+          "kategorie": "risk",
+          "gesamtquote": 0.0,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Chelsea vs Nottingham Forest: Chris Wood Tor jederzeit",
+              "quote": 3.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Everton vs Manchester City: Ueber 2.5 Tore",
+              "quote": 1.65,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Spurs vs Timberwolves: Victor Wembanyama Mehr als 24.5 Punkte",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Knicks vs 76ers: Jalen Brunson Mehr als 27.5 Punkte",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot (~200x)",
+          "kategorie": "moonshot",
+          "gesamtquote": 0.0,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Chelsea vs Nottingham Forest: Nottingham Forest Sieg",
+              "quote": 4.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sevilla vs Real Sociedad: Real Sociedad Sieg",
+              "quote": 2.7,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Knicks vs 76ers: Philadelphia 76ers Sieg",
+              "quote": 3.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Spurs vs Timberwolves: Minnesota Timberwolves Sieg",
+              "quote": 5.5,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-05-03",
       "gesamt": {

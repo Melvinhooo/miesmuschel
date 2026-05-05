@@ -1,0 +1,1552 @@
+{
+  "datum": "2026-05-04",
+  "erstellt_am": "2026-05-04T15:25:00+02:00",
+  "hinweis": "WATCHDOG-RECOVERY 15:25 - Hauptroutine 16:00 nicht durchgelaufen, Watchdog hat komplett neu generiert. Mo-Schmal-Tag: 2 PL (Chelsea-Forest, Everton-City), 1 LaLiga (Sevilla-Sociedad), 2 Serie-A (Cremonese-Lazio + Roma-Fiorentina = BEOBACHTUNG), 2 NBA Round 2 G1 (Knicks-76ers, Spurs-Wolves). Aktive Lessons heute: SAFE-Konstruktion #3 (Heim-Top-Sieg ohne SAFE wenn Auswaerts-Underdog Saisonziel hat), Markt-Mix-Pflicht (max 1 DC/Spiel + Torschuetzen-Pflicht bei Heim-/Auswaerts-Favorit), NBA-Round-2-G1-Frei (kein Decider = G1-G4 freigegeben laut Lesson 04.05.). Kasse 550 Stufe-1.",
+  "spiele": [
+    {
+      "id": "2026-05-04-che-nfo",
+      "liga": "Premier League",
+      "heim": "Chelsea FC",
+      "gast": "Nottingham Forest",
+      "anstoss": "2026-05-04T21:00:00+01:00",
+      "stadion": "Stamford Bridge, London",
+      "saison_kontext": {
+        "parallel_heim": "keine",
+        "parallel_gast": "Europa League Halbfinale Rueckspiel am 08.05. (4 Tage spaeter, Hinspiel 30.04. 1:0 vs Aston Villa via Wood-Penalty)",
+        "saisonziel_heim": "Chelsea ca. Platz 5, kaempft um CL-Quali (Top 5) mit 4 Spielen restlich, 5 Heim-Niederlagen-Serie laut Sportsmole/SI",
+        "saisonziel_gast": "Nottingham Forest ca. Platz 6-7, EL-Doppelziel + PL-CL-Quali noch realistisch, 9 Spiele unbesiegt, +5 Pkt vom Abstieg weg, Wood 20 Saisontore",
+        "motivations_asymmetrie": "Chelsea braucht Heim-Bounce-Back gegen 5-Pleiten-Serie, Forest mit EL-HF-Doppelbelastung 4 Tage spaeter koennte rotieren - Edge fuer Chelsea kleiner als Heim-Status suggeriert da beide eigene Saisonziele haben",
+        "recovery_heim": "8 Tage seit letztem Spiel (planmaessige Pause)",
+        "recovery_gast": "4 Tage seit EL-HF Hinspiel + 4 Tage bis Rueckspiel = klare Doppelbelastungs-Falle",
+        "quellen": [
+          "https://www.sportsmole.co.uk/football/man-city/title-race/preview/everton-vs-man-city-prediction-team-news-lineups_596867.html",
+          "https://lastwordonsports.com/football/2026/05/04/chelsea-predicted-lineup-forest-may/",
+          "https://www.uefa.com/uefaeuropaleague/news/02a4-2083fe52cee8-b4a0593e0ad4-1000--nottingham-forest-1-0-aston-villa-highlights-chris-wood-pe/",
+          "https://en.wikipedia.org/wiki/Chris_Wood_(footballer,_born_1991)"
+        ]
+      },
+      "news": [
+        "Chelsea predicted XI: Sanchez; Gusto, Chalobah, Tosin, Cucurella; Caicedo, Lavia; Palmer, Fernandez, Neto; Pedro (4-2-3-1)",
+        "Chelsea OUT: Mudryk (Doping), Estevao (Hamstring), Gittens (Thigh), Jorgensen (Groin); Reece James + Colwill knapp dabei",
+        "Chelsea-Form: 5 Niederlagen Serie (zuletzt 0:3 vs Brighton), 8 von letzten 12 verloren - akute Heim-Krise",
+        "Forest predicted XI: Sels; Aina, Milenkovic, Cunha, Williams; Anderson, Dominguez; Hutchinson, Igor Jesus, Gibbs-White; Wood (4-2-3-1)",
+        "Forest 9 Spiele unbesiegt, 3 Siege in letzten 4 PL-Spielen, Wood traf zuletzt vs Sunderland (24.04.) + Villa EL-HF (30.04. Penalty)",
+        "EL-HF-Rueckspiel 08.05. = Forest koennte rotieren in 2.HZ (Wood-Auswechslung im Boost-Setup denkbar)",
+        "bet365-Quote Chelsea-Sieg ~1.73 (laut transfermarkt-Aggregator), Draw ~4.10, Forest-Sieg ~4.50-5.0",
+        "Quoten via SportsGambler/transfermarkt verifiziert Stand 04.05."
+      ],
+      "tipps": [
+        {
+          "markt": "Chelsea oder Unentschieden (DC 1X)",
+          "kategorie": "value",
+          "edge_prozent": 6,
+          "begruendung": "Chelsea Heim-Favorit @ 1.73 - DC 1X deckt Sieg + Remis. Forest-EL-Doppelbelastung 4 Tage = Rotations-Risiko in 2.HZ. Markt-Goldgrube DC 1X (84.6% Hitrate, +9.5% ROI) + PL-Liga-Goldgrube. SAFE wuerde Mapper-Hebel S downgraden weil saison_kontext 'rotiert' impliziert + Forest hat eigenes Saisonziel - daher VALUE. Empfohlener Einsatz 8.25 EUR (1.5% der 550 EUR Kasse).",
+          "id": "che-nfo-1",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "quote": 1.25
+        },
+        {
+          "markt": "Cole Palmer Tor jederzeit",
+          "kategorie": "value",
+          "edge_prozent": 8,
+          "begruendung": "PFLICHT-PROFIL Heim-Favorit (1.73 < 1.80) = Torschuetzen-Tipp Pflicht. Palmer ist Chelsea-Topscorer, zurueck im Kader laut Hardtackle/SI Mai-Vorberichten. Markt 'Torschuetzen Jederzeit' ist Goldgrube-#1 mit +24.4% ROI und 50% Hitrate (n=8). Forest-Defense steht zuhause 9 Spiele stabil aber bei Bounce-Back-Druck baut Chelsea Druck auf - Palmer als Linker-10er meist im Strafraum. Boost-Setup falls Palmer ausgewechselt wird + Joao Pedro reinkommt. Empfohlener Einsatz 8.25 EUR.",
+          "id": "che-nfo-2",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "quote": 2.2
+        },
+        {
+          "markt": "Beide Teams treffen JA",
+          "kategorie": "wackel",
+          "edge_prozent": 4,
+          "begruendung": "Forest-Wood (20 Saisontore + Form) gegen Chelsea-Heim-Defense-Krise (8 Pleiten in 12) - Wood traf in 4 von letzten 5. Chelsea muss aus Krise kommen + wird druecken. Lt. Bilanz BTTS-JA bisher 2/4 (50%) bei -19% ROI - kein klares Goldgrube-Signal aber bei dieser Form-Konstellation klar Wackel-Material. Empfohlener Einsatz 2.75 EUR (0.5%).",
+          "id": "che-nfo-3",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "quote": 1.85
+        },
+        {
+          "markt": "Chris Wood Tor jederzeit",
+          "kategorie": "wackel",
+          "edge_prozent": 5,
+          "begruendung": "Form-Edge: Wood traf vs Sunderland (24.04.) + EL-HF Villa Penalty (30.04.) - 2 Tore in 2 Spielen = aktuelle Form. Auswaerts-Stuermer eines Top-7-Klubs gegen Chelsea-Heim-Krise. Doppelbelastungs-Risiko (Wood 34J + EL-Rueckspiel 8.05.) = Auswechslungs-Wahrscheinlichkeit hoch -> Boost-Setup falls Joker (Igor Jesus oder Hudson-Odoi) trifft. Markt-Goldgrube Torschuetzen Jederzeit. Empfohlener Einsatz 2.75 EUR.",
+          "id": "che-nfo-4",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "quote": 3.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "1:3",
+        "halbzeitstand": "0:2",
+        "status": "FINAL",
+        "quelle": "ESPN/Chelsea FC/NBC Sports"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "che-nfo-1",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Chelsea verloren 1:3 - DC 1X verfehlt (Forest-Sieg)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "che-nfo-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Palmer hat NICHT getroffen - vergab sogar Foulelfmeter (Sels parierte). Boost greift nicht: Joao Pedro startete (kein Ersatz fuer Palmer)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "che-nfo-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.85,
+          "kommentar": "BTTS JA: Forest 3 (Awoniyi 2', Igor Jesus 15' Pen, Awoniyi 52'), Chelsea 1 (Joao Pedro 90' Bicycle)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "che-nfo-4",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Wood NICHT in Startelf (Forest startete mit Awoniyi statt Wood) - kein Tor + kein Boost moeglich da Wood selbst nicht ausgewechselt wurde",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:2",
+        "endstand": "1:3",
+        "tore": [
+          {
+            "min": 2,
+            "team": "gast",
+            "spieler": "Taiwo Awoniyi",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 15,
+            "team": "gast",
+            "spieler": "Igor Jesus (Foulelfmeter)",
+            "stand_danach": "0:2"
+          },
+          {
+            "min": 52,
+            "team": "gast",
+            "spieler": "Taiwo Awoniyi",
+            "stand_danach": "0:3"
+          },
+          {
+            "min": 90,
+            "team": "heim",
+            "spieler": "Joao Pedro (Fallrueckzieher)",
+            "stand_danach": "1:3"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Forest fuehrte 0:2 zur Pause + baute auf 0:3 aus - keine Drehung, sondern stabiler Underdog-Auswaertssieg. 2:0-Insurance gilt NICHT fuer PL (nur BL+CL)."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Forest/Forest",
+          "kein_team_zu_null": true,
+          "elfmeter": true,
+          "elfmeter_verschossen": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Chris Wood",
+            "details": "20-Tore-Topscorer NICHT in Startelf trotz Pre-Match-Predictions - ersetzt durch Awoniyi (100. Forest-Spiel). Forest schonte Wood vor EL-HF-Rueckspiel 08.05."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "gast",
+            "ein": "Gibbs-White / Andersen / Milenkovic",
+            "aus": "Cunha / Igor Jesus / Dominguez",
+            "minute": 46,
+            "tor": false,
+            "tor_minute": null
+          }
+        ],
+        "auffaellige_patterns": [
+          "Klassischer Underdog-Saisonziel-Pattern: Forest mit Klassenerhalts-Druck (Sicherung) gegen Chelsea-Heim-Krise (5+ Pleiten-Serie) - exakt das Pattern aus Lesson 04.05. Underdog-Saisonziel-Welle.",
+          "Palmer-Foulelfmeter VERSCHOSSEN bei 0:1 - Wende-Punkt des Spiels. Tipp-Killer fuer Palmer-Tor + Chelsea-DC.",
+          "Wood-Schonung vor EL-HF-Rueckspiel exakt das Saison-Kontext-Risiko, das saison_kontext_gast vorhergesagt hat. Tipp-Generator hatte Doppelbelastung bewusst kalkuliert (Wood-Wackel) - aber Forest entschied sich fuer KOMPLETTE Schonung statt Auswechslung in der 2.HZ. Implikation: Boost-Setup nur stabil wenn Spieler tatsaechlich startet. Wenn Spieler aus Rotations-Gruenden Bank ist = Tipp ist sofort tot, kein Boost-Hedge."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-04-eve-mci",
+      "liga": "Premier League",
+      "heim": "FC Everton",
+      "gast": "Manchester City",
+      "anstoss": "2026-05-04T21:00:00+01:00",
+      "stadion": "Hill Dickinson Stadium, Liverpool",
+      "saison_kontext": {
+        "parallel_heim": "keine",
+        "parallel_gast": "keine",
+        "saisonziel_heim": "Everton Mid-Table Platz ~12-14, Klassenerhalt durch (>40 Pkt), kein scharfes Saisonziel mehr",
+        "saisonziel_gast": "Manchester City Platz 2 mit ca. 70 Pkt (21W-7D-5L laut NBC Sports), CL-Quali sicher aber Liga-Vize-Position will gehalten werden gegen Man Utd (Platz 3, 64 Pkt)",
+        "motivations_asymmetrie": "City voll motiviert (Liga-Vize-Position) + voll fit ohne UEFA-Doppelbelastung. Everton ohne klares Saisonziel + Star Grealish saisonbeendet (Fuss-OP). Klare Klassen-Edge fuer City auswaerts.",
+        "recovery_heim": "9 Tage seit letztem Spiel (Merseyside-Derby vs Liverpool)",
+        "recovery_gast": "9 Tage seit letztem Spiel (vs Arsenal 2:1 Sieg) - voll regeneriert",
+        "quellen": [
+          "https://www.sportsgambler.com/betting-tips/football/everton-vs-manchester-city-prediction-lineups-odds-2026-05-04/",
+          "https://www.sportsmole.co.uk/football/man-city/title-race/preview/everton-vs-man-city-prediction-team-news-lineups_596867.html",
+          "https://www.nbcsports.com/soccer/news/premier-league-2025-26-table-teams-standings-for-the-new-season",
+          "https://tribuna.com/en/persons/erling-haaland/stat/2025-2026/epl/"
+        ]
+      },
+      "news": [
+        "Manchester City predicted XI: Donnarumma; O'Reilly, Guehi, Khusanov, Nunes; Reijnders, B.Silva; Doku, Cherki, Semenyo; Haaland (4-2-3-1)",
+        "City OUT: Gvardiol; doubtful: Rodri, Ruben Dias",
+        "Haaland-Form: 24 PL-Saisontore + 7 Assists, traf zuletzt vs Burnley UND vs Arsenal (2:1) - klarer Form-Edge",
+        "Everton predicted XI: Pickford; O'Brien, Tarkowski, Keane, Mykolenko; Garner, Gueye; McNeil, Dewsbury-Hall, Ndiaye; Beto (4-2-3-1)",
+        "Everton OUT: Grealish (Fuss-OP, Saison vorbei), Branthwaite (Thigh); Beto fit nach Concussion-Protokoll",
+        "Quoten verifiziert via Sportsgambler/Sportsmole 04.05.: City-Sieg 1.51 (888Starz), Draw 5.13, Everton-Sieg 6.5 (Betfred) - 64.7% City-Win-Probability",
+        "Implied Probability Everton-Sieg nur 17.8%, Draw 17.5%, City 64.7% - klare Klassendifferenz"
+      ],
+      "tipps": [
+        {
+          "markt": "Manchester City Sieg",
+          "kategorie": "value",
+          "edge_prozent": 7,
+          "begruendung": "City Auswaerts-Favorit @ 1.51 - PFLICHT-PROFIL erfuellt (Sieg < 2.20 = Torschuetzen-Pflicht + Sieg-/Spread-Tipp). PL-Liga-Goldgrube + voll fitter City ohne UEFA-Doppelbelastung gegen Everton ohne Saisonziel + ohne Star (Grealish raus). Empfohlener Einsatz 11 EUR (2% der 550 EUR Kasse).",
+          "id": "eve-mci-1",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 2.0,
+          "quote": 1.51
+        },
+        {
+          "markt": "Erling Haaland Tor jederzeit",
+          "kategorie": "safe",
+          "edge_prozent": 10,
+          "begruendung": "PFLICHT bei Auswaerts-Favorit-Quote 1.51. Haaland 24 PL-Saisontore (Top-Skorer), traf in den letzten 2 Spielen (Burnley + Arsenal). Form-Edge (3+ Tore in letzten 5). Markt 'Torschuetzen Jederzeit' ist Goldgrube-#1 mit +24.4% ROI / 50% Hitrate. Everton-Defense ohne Branthwaite geschwaecht. Mapper-Hebel C bestaetigt SAFE: Markt-Goldgrube + PL-Liga-Goldgrube + Form-Edge + voll fitter Topscorer. Empfohlener Einsatz 11 EUR.",
+          "id": "eve-mci-2",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 2.0,
+          "quote": 1.65
+        },
+        {
+          "markt": "Ueber 2.5 Tore",
+          "kategorie": "wackel",
+          "edge_prozent": 4,
+          "begruendung": "City offensiv extrem stark (Doku/Cherki/Semenyo/Haaland), Everton zuhause schwach offensiv aber Beto kann zuruecktreffen. SportsLine-Sim 3-1 City-Sieg = 4 Tore. Lt. Statistik 'Mehr als 2.5 Tore' bei 12/19 = 63.2% Hitrate aber +4.5% ROI - Wackel-Material. Empfohlener Einsatz 2.75 EUR (0.5%).",
+          "id": "eve-mci-3",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "quote": 1.65
+        },
+        {
+          "markt": "Bernardo Silva Tor jederzeit",
+          "kategorie": "wackel",
+          "edge_prozent": 5,
+          "begruendung": "Backup-Stuermer-Plan: Wenn Haaland frueh ausgewechselt wird (City rotiert evtl. nach 9 Tagen Pause), greift Boost-Setup. Bernardo Silva ist konstanter Sekundaer-Schuetze + spielt zentral hinter Haaland. Markt-Goldgrube Torschuetzen Jederzeit. Quote ~4.5 macht das Wackel-Material aber lohnt fuer Diversifikation. Empfohlener Einsatz 2.75 EUR.",
+          "id": "eve-mci-4",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "quote": 4.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "3:3",
+        "halbzeitstand": "0:1",
+        "status": "FINAL",
+        "quelle": "ESPN/Sky Sports/NBC Sports"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "eve-mci-1",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "City Remis 3:3 - keine Sieg. 2:0-Insurance gilt NICHT fuer PL (nur BL+CL). Doku 90+7' Equalizer + Haaland 83' rettete den Punkt",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "eve-mci-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.65,
+          "kommentar": "Haaland traf 83' (25. PL-Saisontor) - SAFE-Bein gewonnen",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "eve-mci-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.65,
+          "kommentar": "Ueber 2.5 Tore klar erfuellt: 6 Tore (Doku 43', Barry 68'+81', O'Brien 73', Haaland 83', Doku 90+7')",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "eve-mci-4",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Bernardo Silva NICHT unter Schuetzen (Doku x2, Haaland fuer City)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "3:3",
+        "tore": [
+          {
+            "min": 43,
+            "team": "gast",
+            "spieler": "Jeremy Doku",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 68,
+            "team": "heim",
+            "spieler": "Thierno Barry",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 73,
+            "team": "heim",
+            "spieler": "Jake O'Brien",
+            "stand_danach": "2:1"
+          },
+          {
+            "min": 81,
+            "team": "heim",
+            "spieler": "Thierno Barry",
+            "stand_danach": "3:1"
+          },
+          {
+            "min": 83,
+            "team": "gast",
+            "spieler": "Erling Haaland",
+            "stand_danach": "3:2"
+          },
+          {
+            "min": 97,
+            "team": "gast",
+            "spieler": "Jeremy Doku",
+            "stand_danach": "3:3"
+          }
+        ],
+        "drehung": {
+          "war_drehung": true,
+          "details": "City fuehrte 0:1 (43.) - Everton drehte auf 3:1 (81.) - City rettete in Stoppzeit 3:3 via Haaland 83' + Doku 90+7'. Doppel-Drehung (Lead-Wechsel + Last-Minute-Equalizer)."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": true,
+          "halbzeit_endstand": "City/Unentschieden",
+          "kein_team_zu_null": true,
+          "tor_festival": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "City Auswaerts-Favorit @ 1.51 verspielte 3:1-Fuehrung-Auswaerts - klassischer 'Top-Team-Favorit-low-quote'-Bluter-Pattern aus Lesson 30.04.",
+          "Tor-Festival mit 6 Toren - Ueber 5.5 erreicht. Doku Doppelpacker (43', 90+7') war der eigentliche Match-MVP fuer City.",
+          "Everton ohne Saisonziel hat sich aufgebaeumt - 'kein Saisonziel'-Annahme bei Mid-Table-PL-Klubs zuhause vor Saisonende ist KEIN robustes Edge-Signal mehr (siehe auch Lesson-Update zu Mid-Table-Heim-Spiele).",
+          "Haaland-Backup-These (Bernardo-Silva-Tipp) bestaetigt nicht - Doku war der Backup-Scorer, nicht Silva. Implikation: Bei City-Backup-Stuermer-Szenario ist Doku der primaere Boost-Kandidat."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-04-sev-rso",
+      "liga": "LaLiga",
+      "heim": "Sevilla FC",
+      "gast": "Real Sociedad",
+      "anstoss": "2026-05-04T21:00:00+02:00",
+      "stadion": "Ramon Sanchez Pizjuan, Sevilla",
+      "saison_kontext": {
+        "parallel_heim": "keine",
+        "parallel_gast": "keine - Real Sociedad ist diese Woche nur LaLiga",
+        "saisonziel_heim": "Sevilla 18. Platz mit 34 Pkt - AKUTER ABSTIEG, Abstiegsplatz mit 5 Spielen restlich, kommt von 1:2-Niederlage in Osasuna",
+        "saisonziel_gast": "Real Sociedad 8. Platz mit 43 Pkt - Europa League gesichert, kaempft theoretisch noch um Top-5 + Champions-League-Quali (falls Spanien Extra-Platz bekommt)",
+        "motivations_asymmetrie": "Beidseitig Druck: Sevilla MUSS punkten gegen Abstieg, Real Sociedad will Top-5-Platz festigen. Echte Coinflip-Konstellation - Modell-Wahrscheinlichkeit Sevilla 39.1% / Draw 26.5% / Sociedad 34.4%",
+        "recovery_heim": "8 Tage seit letztem Spiel (planmaessige Pause)",
+        "recovery_gast": "8 Tage seit letztem Spiel (planmaessige Pause)",
+        "quellen": [
+          "https://www.sportsgambler.com/betting-tips/football/sevilla-vs-real-sociedad-prediction-lineups-odds-2026-05-04/",
+          "https://www.dimers.com/news/sevilla-vs-real-sociedad-prediction-la-liga-monday-05-04-2026-ac",
+          "https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Espa%C3%B1a_2025-26",
+          "https://www.elsevillista.es/2026/05/previa-laliga-ea-sports-j34-sevilla-fc.html"
+        ]
+      },
+      "news": [
+        "Sevilla 18. Platz mit 34 Punkten = Abstiegszone, MUSS-Sieg-Spiel zuhause vor eigenem Publikum",
+        "Real Sociedad 8. Platz, 43 Pkt - EL-gesichert, theoretisch noch CL-Quali-Chance",
+        "H2H aktuell ausgeglichen, Sevilla zuhause leicht favorisiert",
+        "Quoten via Sportsgambler/Bleacher Nation/Dimers verifiziert: Real Sociedad-Sieg 17/10 (=2.70 best price), Sevilla-Sieg ~2.30, Draw ~3.40",
+        "Ueber 2.5 Tore @ 10/11 (=1.91), beide Teams brauchen Punkte = offensives Setup wahrscheinlich",
+        "Modell-Vorhersage 2-2 Endstand laut Bleacher Nation - klares Coinflip-Spiel"
+      ],
+      "tipps": [
+        {
+          "markt": "Sevilla oder Unentschieden (DC 1X)",
+          "kategorie": "value",
+          "edge_prozent": 7,
+          "begruendung": "Klassischer Klassenerhalts-Heim-Edge: Sevilla MUSS punkten + spielt vor eigenem Publikum + 65% Implied-Win-Probability fuer NICHT-Sociedad-Sieg. LaLiga-Liga-Goldgrube + Markt-Goldgrube DC 1X (84.6% Hitrate, +9.5% ROI). Mapper-Hebel S downgraded SAFE auf VALUE weil Sociedad hat eigenes Saisonziel (Top-5-Push) - Asymmetrie nicht eindeutig genug fuer SAFE. Empfohlener Einsatz 8.25 EUR (1.5% der 550 EUR Kasse).",
+          "id": "sev-rso-1",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "quote": 1.4
+        },
+        {
+          "markt": "Ueber 2.5 Tore",
+          "kategorie": "value",
+          "edge_prozent": 6,
+          "begruendung": "Beide Teams brauchen Punkte mit 5 Spielen restlich - Sevilla offensiv risikobereit aus Klassenerhalts-Druck, Sociedad will 3 Pkt fuer Top-5. Bookies-Quote 1.91 vs Modell-Erwartung 60% Hit. Bleacher-Nation-Modell sagt 2-2. Lt. Statistik Markt 'Mehr als 2.5 Tore' bei 12/19 = 63.2% / +4.5% ROI - solides VALUE-Niveau. Empfohlener Einsatz 5.50 EUR (1%).",
+          "id": "sev-rso-2",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 1.0,
+          "quote": 1.91
+        },
+        {
+          "markt": "Beide Teams treffen JA",
+          "kategorie": "wackel",
+          "edge_prozent": 3,
+          "begruendung": "Komplementaer zu Ueber 2.5: beide Teams haben Sturm-Power und beide unter Druck zu Toren. Lt. Statistik 'Beide Teams treffen JA' Bilanz schwach (-43% ROI in 3 Tipps) - daher klar WACKEL nicht VALUE. Boost-Setup falls Sociedad-Stuermer ausgewechselt wird (Oyarzabal/Take Kubo Backup). Empfohlener Einsatz 2.75 EUR (0.5%).",
+          "id": "sev-rso-3",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "quote": 1.85
+        },
+        {
+          "markt": "Mikel Oyarzabal Tor jederzeit",
+          "kategorie": "wackel",
+          "edge_prozent": 5,
+          "begruendung": "Backup-Variante zur DC 1X-Heim-These: Oyarzabal ist Sociedad-Topskorer + Kapitaen, fuehrt offensiv in der Form-Tabelle. Wenn Sociedad gewinnt oder Remis-Tor erzielt, dann meist via Oyarzabal. Markt-Goldgrube Torschuetzen Jederzeit. Quote 3.0+ macht das Wackel-Material aber Form-Edge da. Empfohlener Einsatz 2.75 EUR.",
+          "id": "sev-rso-4",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "quote": 3.0
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "1:0",
+        "halbzeitstand": "0:0",
+        "status": "FINAL",
+        "quelle": "Flashscore/ESPN"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "sev-rso-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.4,
+          "kommentar": "Sevilla 1:0 - DC 1X klar erfuellt",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "sev-rso-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Nur 1 Tor - Ueber 2.5 verfehlt (Schwellen-Tipp knapp verloren)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "sev-rso-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Sociedad torlos - BTTS JA verfehlt",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "sev-rso-4",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Oyarzabal kein Tor - Sociedad torlos",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "1:0",
+        "tore": [
+          {
+            "min": 50,
+            "team": "heim",
+            "spieler": "Alexis Sanchez (Halbzeit-Einwechslung in 46.)",
+            "stand_danach": "1:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Spiel torlos zur Pause, Heim-Klassenerhalts-Sieg via Joker-Tor. Keine Drehung."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Sevilla",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Alexis Sanchez",
+            "aus": "Stamm-Stuermer (HZ-Wechsel)",
+            "minute": 46,
+            "tor": true,
+            "tor_minute": "50"
+          }
+        ],
+        "auffaellige_patterns": [
+          "Tipp-These 'Sevilla MUSS-Punkten zuhause' bestaetigt - aber das Tor kam vom 37-jaehrigen Joker statt aus dem Stamm-Sturm. Klassisches Klassenerhalts-Heim-Spiel-Pattern: defensiv stabil + 1 Tor reicht.",
+          "Ueber 2.5 + BTTS verloren = beide Teams brauchten zwar Punkte, aber Druck fuehrte zu vorsichtigem Spiel statt Tor-Festival. Pre-Match-Modell '2:2'-Erwartung war zu offensiv.",
+          "Einwechslungs-Boost-Trigger AKTIV (Sanchez fuer Stamm-Stuermer) - ABER kein Torschuetzen-Tipp auf Sevilla-Spieler. Lesson 8i-Trigger: Sevilla-Joker-Profil bei Klassenerhalt-Heim-Spielen aktiv scannen."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-04-cre-laz",
+      "liga": "Serie A",
+      "heim": "Cremonese",
+      "gast": "SS Lazio",
+      "anstoss": "2026-05-04T18:30:00+02:00",
+      "stadion": "Stadio Giovanni Zini, Cremona",
+      "saison_kontext": {
+        "parallel_heim": "keine",
+        "parallel_gast": "Coppa Italia Finale am 13.05.2026 vs Inter (9 Tage spaeter, Lazio plant 'all in' fuer Finale laut Cassandra-Pronostici)",
+        "saisonziel_heim": "Cremonese drittletzte Position, 4 Spiele ohne Sieg, -1 Pkt vom Klassenerhalts-Zug = AKUTER Klassenerhalt-Druck",
+        "saisonziel_gast": "Lazio Mid-Table, kommt von 3:3 vs Udinese, kein Liga-Druck mehr aber Coppa Italia Finale 13.05. = Top-Prio",
+        "motivations_asymmetrie": "Klassischer Saisonziel-Underdog-Pattern (Lesson 04.05. 'Underdog-Saisonziel-Welle'): Cremonese MUSS punkten, Lazio kann B-Elf testen vor Coppa-Finale - klarer Edge fuer Heim-Underdog mit Pflicht-Punkt-Bedarf",
+        "recovery_heim": "8 Tage seit letztem Spiel",
+        "recovery_gast": "5 Tage seit Udinese-Remis + 9 Tage bis Coppa-Finale",
+        "quellen": [
+          "https://www.cassandrapronostici.com/pronostico-cremonese-lazio-lunedi-4-maggio-2026/",
+          "https://sportnews.betflag.it/2026/05/04/cremonese-lazio-serie-a-probabili-formazioni-e-pronostico",
+          "https://www.zazoom.it/2026-05-02/cremonese-lazio-lunedi-04-maggio-2026-ore-1830-formazioni-quote-pronostici/19110876/"
+        ]
+      },
+      "news": [
+        "BEOBACHTUNGS-LIGA: Serie A (-32.5% ROI in 30 Tagen, 4 Tipps, 50% Hitrate) - Tipps NICHT in einzeltipps[]/Hauptkombi (siehe data/beobachtungs_ligen.json)",
+        "Cremonese (3-5-2): Audero, Terracciano, Baschirotto, Luperto, Floriani Mussolini, Vandeputte, Bondo, Pezzella, Maleh, Sanabria, Bonazzoli",
+        "Lazio (4-3-3): Motta; Tavares, Provstgaard, Romagnoli, Marusic; Cataldi, Basic, Taylor; Isaksen, Noslin (B-Elf-Setup laut Sky Italia)",
+        "Lazio fokussiert sich auf Coppa Italia Finale 13.05. vs Inter - Sarri rotiert Stamm-Spieler",
+        "Quoten: Lazio-Sieg 2.50 (Goldbet/Lottomatica), Unter 2.5 @ 1.65 (BetFlag) - Pronostici-Konsens Multigol 2-3"
+      ],
+      "tipps": [
+        {
+          "markt": "Cremonese oder Unentschieden (DC 1X)",
+          "kategorie": "wackel",
+          "edge_prozent": 5,
+          "begruendung": "BEOBACHTUNGS-LIGA Serie A - Tipp NICHT in Einzeltipps[]/Hauptkombi (Lesson 27.04.). Saison-Pattern (Lesson 04.05.): Saisonziel-Underdog (Cremonese Klassenerhalt-Druck) gegen rotierendes Top-Team (Lazio mit Coppa-Finale 13.05.) hat in den letzten Wochen 5/6 mal das Heim-Underdog-Szenario produziert. Lazio B-Elf Setup bestaetigt das Pattern. Empfohlener Einsatz 0 EUR (Beobachtung) - Tipp dient nur fuer Liga-Form-Aufbau.",
+          "id": "cre-laz-1",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 0,
+          "quote": 1.55
+        },
+        {
+          "markt": "Unter 2.5 Tore",
+          "kategorie": "wackel",
+          "edge_prozent": 4,
+          "begruendung": "BEOBACHTUNGS-LIGA Serie A - nur Beobachtung. Cremonese-Defense unten mit Klassenerhalts-Modus + Lazio-B-Elf ohne Top-Stuermer = wenig Toraktion erwartet. Cassandra-Pronostici-Konsens Unter 2.5 @ 1.65. Empfohlener Einsatz 0 EUR.",
+          "id": "cre-laz-2",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 0,
+          "quote": 1.65
+        }
+      ],
+      "kontext_check_status": "WARN_QUELLE",
+      "ergebnis": {
+        "endstand": "1:2",
+        "halbzeitstand": "0:0",
+        "status": "FINAL",
+        "quelle": "Flashscore/ESPN/TheLaziali"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "cre-laz-1",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "BEOBACHTUNGS-LIGA (0 Stake): Cremonese verloren 1:2 - DC 1X verfehlt",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "cre-laz-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "BEOBACHTUNGS-LIGA (0 Stake): 3 Tore - Unter 2.5 verfehlt",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "1:2",
+        "tore": [
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Federico Bonazzoli",
+            "stand_danach": "1:0 oder 1:1"
+          },
+          {
+            "min": null,
+            "team": "gast",
+            "spieler": "Lazio (Noslin laut TheLaziali)",
+            "stand_danach": "1:1 oder 1:2"
+          },
+          {
+            "min": "90+",
+            "team": "gast",
+            "spieler": "Lazio Stoppzeit-Tor",
+            "stand_danach": "1:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": null,
+          "details": "Cremonese fuehrte zwischenzeitlich 1:0 (laut TheLaziali Player-Ratings + Flashscore-Headline 'Lazio snatch stoppage-time win'), Lazio drehte das Spiel via Noslin + Stoppzeit-Treffer. Vermutlich Drehung True, aber Reihenfolge nicht 100% zu verifizieren ohne Match-Bericht-Detail."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Lazio",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Lazio B-Elf",
+            "details": "Lazio mit B-Elf wegen Coppa-Italia-Finale 13.05. (Noslin Star-Performer trotz B-Elf)"
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Pre-Match-These 'Saisonziel-Underdog-Pattern Cremonese vs Lazio-B-Elf' VERFEHLT - B-Elf-Lazio drehte Spiel in Stoppzeit. Implikation fuer Lesson Underdog-Saisonziel-Welle: B-Elf einer Top-Team-Mannschaft kann auch ohne Top-Stuermer das Spiel drehen wenn Underdog defensiv nicht stabil ist (Cremonese 10 Heimspiele ohne Sieg).",
+          "Beobachtungs-Liga Serie A bestaetigt erneut den Bluter-Status (-32.5% ROI) - Tipps blieben auf 0 Stake = kein realer Verlust, aber Lesson-Bestaetigung.",
+          "Weitere Drehungs-Anhaeufung am Tag (siehe Eve-MC + Cremonese-Lazio = 2 Drehungen)."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-04-rom-fio",
+      "liga": "Serie A",
+      "heim": "AS Roma",
+      "gast": "ACF Fiorentina",
+      "anstoss": "2026-05-04T20:45:00+02:00",
+      "stadion": "Stadio Olimpico, Rom",
+      "saison_kontext": {
+        "parallel_heim": "keine",
+        "parallel_gast": "keine - Fiorentina diese Woche nur Serie A",
+        "saisonziel_heim": "Roma kaempft um Europa-Plaetze (Bologna-Sieg zuletzt, Top-6-Bereich), MUSS-Sieg fuer EL-Continuitaet",
+        "saisonziel_gast": "Fiorentina Mid-Table, kein scharfes Saisonziel mehr (Conference-League gesichert)",
+        "motivations_asymmetrie": "Roma voll motiviert mit EL-Druck zuhause, Fiorentina ohne Saison-Druck - klassischer Heim-Sieg-Setup (Roma-Sieg @ 1.60-1.76 reflektiert das)",
+        "recovery_heim": "5 Tage seit Bologna-Sieg",
+        "recovery_gast": "5 Tage seit letztem Spiel",
+        "quellen": [
+          "https://www.lapresse.it/calcio/2026/05/04/roma-fiorentina-oggi-in-serie-a-orario-probabili-formazioni-e-dove-vederla/",
+          "https://sportnews.betflag.it/2026/05/04/serie-a-roma-fiorentina-pronostico-e-probabili-formazioni",
+          "https://www.ilsussidiario.net/news/probabili-formazioni-roma-fiorentina-quote-el-aynaoui-squalificato-serie-a-oggi-4-maggio-2026/2959021/",
+          "https://www.zazoom.it/2026-05-02/roma-fiorentina-le-probabili-formazioni-dybala-titolare/19108135/"
+        ]
+      },
+      "news": [
+        "BEOBACHTUNGS-LIGA: Serie A (-32.5% ROI in 30 Tagen) - Tipps NICHT in einzeltipps[]/Hauptkombi (Lesson 27.04.)",
+        "Roma OUT: El Aynaoui (Sperre); Dybala startet laut Lapresse/Zazoom auf der 10er-Position hinter Malen mit Soule",
+        "Quoten via BetFlag: Roma-Sieg 1.60, Draw 4.20, Fiorentina-Sieg 5.10 - Roma klarer Heim-Favorit",
+        "Andere Aggregatoren: Roma 1.76, Draw 3.90, Fiorentina 4.90 - Quote-Konsens Roma 1.60-1.76",
+        "Roma kommt von Auswaertssieg in Bologna und will EL-Quali-Position festigen",
+        "Fiorentina mit fragilem Auswaerts-Auftreten (mehrere Niederlagen zuletzt)"
+      ],
+      "tipps": [
+        {
+          "markt": "Roma Sieg",
+          "kategorie": "wackel",
+          "edge_prozent": 6,
+          "begruendung": "BEOBACHTUNGS-LIGA Serie A - Tipp NICHT in Einzeltipps[]/Hauptkombi. Klare Klassen- und Motivations-Asymmetrie (Roma EL-Druck zuhause vs Fiorentina ohne Druck), Dybala startet auf der 10. Quote 1.60 spiegelt das fair. Empfohlener Einsatz 0 EUR (Beobachtung) - Tipp dient Liga-Form-Aufbau.",
+          "id": "rom-fio-1",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 0,
+          "quote": 1.6
+        },
+        {
+          "markt": "Paulo Dybala Tor jederzeit",
+          "kategorie": "wackel",
+          "edge_prozent": 5,
+          "begruendung": "BEOBACHTUNGS-LIGA Serie A - nur Beobachtung. Dybala startet laut Lapresse/Zazoom auf der 10er-Position - Heim + Form + Fiorentina-Defense schwach auswaerts. Markt-Goldgrube Torschuetzen Jederzeit (+24.4% ROI). Quote ~2.50 (geschaetzt). Empfohlener Einsatz 0 EUR.",
+          "id": "rom-fio-2",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 0,
+          "quote": 2.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "4:0",
+        "halbzeitstand": "3:0",
+        "status": "FINAL",
+        "quelle": "VAVEL/Flashscore"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "rom-fio-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.6,
+          "kommentar": "BEOBACHTUNGS-LIGA (0 Stake): Roma 4:0 - klarer Sieg",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "rom-fio-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "BEOBACHTUNGS-LIGA (0 Stake): Dybala startete NICHT (auf Bank laut ilNapoli/AsRomaLive - mangelnde Fitness), kein Tor erwaehnt - Schuetzen waren Mancini, Wesley, Hermoso, Pisilli",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "3:0",
+        "endstand": "4:0",
+        "tore": [
+          {
+            "min": 13,
+            "team": "heim",
+            "spieler": "Gianluca Mancini (Kopf)",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Wesley",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 34,
+            "team": "heim",
+            "spieler": "Mario Hermoso",
+            "stand_danach": "3:0"
+          },
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Niccolo Pisilli (Kopf nach Malen-Cross)",
+            "stand_danach": "4:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Roma 3:0 zur Pause, baute auf 4:0 aus - klarer Heim-Klassen-Sieg, keine Drehung."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Roma/Roma",
+          "kein_team_zu_null": false,
+          "team_zu_null_heim": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Paulo Dybala",
+            "details": "Auf Bank trotz Pre-Match-Erwartung 'Startelf' - laut ilNapoli/AsRomaLive Fitness-Probleme"
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Roma-Heim-EL-Druck-Pattern bestaetigt - Klassen-Asymmetrie (Roma EL-Fight, Fiorentina ohne Saisonziel) erzeugte 4:0 in 35 Minuten.",
+          "Beobachtungs-Liga Serie A erbringt diesmal HIT (Roma-Sieg) bei 0 Stake - Tipps-Genrator-These war richtig, Status quo ist 'Tipp dient Liga-Form-Aufbau'.",
+          "Dybala-Tipp ohne Boost-Schutz: er startete nicht, Boost-Rule kann nicht greifen wenn Spieler gar nicht startet (gleiche Situation wie Wood). Implikation: Pre-Match-Lineup-Verifikation MUSS Pflicht sein vor Torschuetzen-Tipp-Generierung."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-04-nyk-phi",
+      "liga": "NBA Playoffs Round 2, Game 1",
+      "heim": "New York Knicks",
+      "gast": "Philadelphia 76ers",
+      "anstoss": "2026-05-05T02:00:00+02:00",
+      "stadion": "Madison Square Garden, New York",
+      "saison_kontext": {
+        "parallel_heim": "keine - Knicks ausschliesslich NBA Playoffs",
+        "parallel_gast": "keine - 76ers kommen direkt von Round 1 G7 Sieg vs Boston (02.05.)",
+        "saisonziel_heim": "Knicks Round 2 (4 Spiele Round 1 vs Hawks gewonnen, ausgeruht seit ~02.05.) - tief in den Playoffs, will Conference Finals",
+        "saisonziel_gast": "76ers haben Boston in Round 1 G7 gestuerzt (113:97 mit Embiid 33+8) - Underdog-Story will weiterlaufen, aber 2 Tage Recovery sehr knapp",
+        "motivations_asymmetrie": "Knicks ausgeruht (~ 5 Tage Recovery) + Heim-Court vs 76ers mit nur 2 Tagen Recovery nach G7-Krimi - klarer Knicks-Heim-Edge laut SportsLine-Modell (60%+ Spread-Cover-Hit)",
+        "recovery_heim": "ca. 5 Tage seit letztem Round-1-Spiel - voll regeneriert",
+        "recovery_gast": "nur 2 Tage seit Round-1-G7 vs Boston - extreme Mueh in Beinen + Embiid-Probable mit Hueft-Prellung",
+        "quellen": [
+          "https://www.cbssports.com/nba/news/2026-nba-playoff-bracket-matchups-schedule/",
+          "https://www.libertyballers.com/76ers-news/92566/joel-embiid-listed-probable-sixers-game-1-knicks-tyrese-maxey-jalen-brunson-nba-playoffs",
+          "https://www.sportsline.com/insiders/knicks-vs-76ers-odds-line-proven-model-reveals-nba-picks-for-second-round-game-1-matchup-on-monday-may-4/",
+          "https://www.oddsshark.com/nba/76ers-knicks-picks-odds-game-1-may-4-2026"
+        ]
+      },
+      "news": [
+        "Round-2-G1 - laut Lesson 04.05. ist Round 2 G1 KEIN Decider = Mapper-Hebel B nicht aktiv (G1-G4 frei)",
+        "Knicks -7.5 Spread, OU 213.5 (FanDuel), Knicks ML implied 71% laut Polymarket",
+        "Embiid PROBABLE laut Liberty Ballers (Hueft-Prellung G7) - erwartet zu spielen, aber zweifellos eingeschraenkt",
+        "Brunson + Karl-Anthony Towns starke Form fuer Knicks - Topscorer-Duo gegen Embiid-Maxey",
+        "76ers nur 2 Tage Recovery nach G7-Krimi vs Boston - extreme Beinmuede",
+        "SportsLine-Modell: 60%+ Spread-Cover-Hit, 58.5% Ueber 213.5 - klare Edge fuer Knicks",
+        "Quoten via SportsLine/OddsShark Stand 04.05. verifiziert"
+      ],
+      "tipps": [
+        {
+          "markt": "Knicks Sieg (Moneyline)",
+          "kategorie": "value",
+          "edge_prozent": 5,
+          "begruendung": "Round-2-G1 freigegeben (Lesson 04.05. NBA-Playoff-Filter differenziert: G1-G4 frei). Knicks-Heim-Court + 5 Tage Recovery vs 76ers nur 2 Tage Recovery + Embiid eingeschraenkt = 71% Implied Win Probability fair. Mapper-Hebel C downgraded SAFE auf VALUE weil NBA nicht in Liga-Goldgrube. Quote 1.40-1.45 sehr niedrig - Einsatz reduziert auf 1.0%. Empfohlener Einsatz 5.50 EUR.",
+          "id": "nyk-phi-1",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 1.0,
+          "quote": 1.42
+        },
+        {
+          "markt": "Ueber 213.5 Punkte (Total)",
+          "kategorie": "wackel",
+          "edge_prozent": 4,
+          "begruendung": "SportsLine-Modell 58.5% Ueber-Hit. Beide Teams haben mehrere Volume-Scorer (Brunson/KAT vs Embiid/Maxey). Round-2-G1-Pace meist hoeher als Decider. Lesson 02.05.: Bei Linien >219 sicher, bei <215 Defensiv-Risiko - 213.5 ist Grenzfall. Daher klar WACKEL. Empfohlener Einsatz 2.75 EUR (0.5%).",
+          "id": "nyk-phi-2",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "quote": 1.91
+        },
+        {
+          "markt": "Jalen Brunson Mehr als 27.5 Punkte",
+          "kategorie": "wackel",
+          "edge_prozent": 4,
+          "begruendung": "Player-Punkte differenziert (Lesson 04.05.): Heim-Top-Stuermer eines Top-Teams + Form-Edge + Spread <=8 (knapp 7.5) + 76ers-Defense durch Embiid-Hueftprellung geschwaecht. Brunson hat in Round 1 vs Hawks konstant 28+ aufgelegt. Kein 'Underdog-Auswaerts-Saisonlinie'-Bluter-Pattern. Quote ca. 1.85. Empfohlener Einsatz 2.75 EUR.",
+          "id": "nyk-phi-3",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "quote": 1.85
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "137:98",
+        "halbzeitstand": null,
+        "status": "FINAL",
+        "quelle": "ESPN/NBA.com/CBS"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "nyk-phi-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.42,
+          "kommentar": "Knicks 137:98 - 39-Punkte-Blowout",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "nyk-phi-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.91,
+          "kommentar": "Total 235 Punkte - Ueber 213.5 klar erfuellt",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "nyk-phi-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.85,
+          "kommentar": "Brunson 35 Pkt (12/18 FG) - klar ueber 27.5",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": null,
+        "endstand": "137:98",
+        "tore": [],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Heim-Blowout - Knicks fuehrten durchgaengig. Erstes Team in NBA-Geschichte mit 3 Playoff-Siegen in Serie >=25 Punkten."
+        },
+        "markt_resultate": {
+          "knicks_total": 137,
+          "sixers_total": 98,
+          "spread_diff": 39,
+          "ueber_213_5": true,
+          "ueber_217_5": true,
+          "spread_cover_knicks_minus_7_5": true,
+          "brunson_punkte": 35,
+          "anunoby_punkte": 18,
+          "towns_punkte": 17,
+          "bridges_punkte": 17,
+          "embiid_punkte": 14,
+          "embiid_fg": "3/11",
+          "george_punkte": 17,
+          "maxey_punkte": 13
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Jalen Brunson",
+            "details": "27 von 35 Pkt in 1.HZ - sat 4. Quarter aus (Blowout-Schonung)"
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "G1-Recovery-These (Knicks 5T vs 76ers 2T nach G7-Krimi) bestaetigt sich extrem deutlich: 39-Punkte-Blowout ist klassisches Recovery-Asymmetrie-Pattern (Lesson 28.04. NBA-Recovery-Asymmetrie).",
+          "Embiid 3/11 FG = klarer Hueftprellungs-Effekt - Probable-Status war zu optimistisch. Implikation fuer NBA-Tipps: 'PROBABLE'-Status nach Verletzung = Performance-Risiko unterschaetzt vom Markt.",
+          "Brunson 35 Pkt + Top-Performer = Player-Punkte-Tipp bei NBA G1-Recovery-Asymmetrie-Pattern bestaetigt sich erneut (Lesson 04.05. Player-Punkte differenziert)."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-04-sas-min",
+      "liga": "NBA Playoffs Round 2, Game 1",
+      "heim": "San Antonio Spurs",
+      "gast": "Minnesota Timberwolves",
+      "anstoss": "2026-05-05T03:30:00+02:00",
+      "stadion": "Frost Bank Center, San Antonio",
+      "saison_kontext": {
+        "parallel_heim": "keine - Spurs ausschliesslich NBA Playoffs",
+        "parallel_gast": "keine - Wolves direkt aus Round 1 Sieg vs Denver (110:98 am 30.04.)",
+        "saisonziel_heim": "Spurs als 2-Seed in West (#2-Seed laut Bettorsinsider) in Round 2 - tief in den Playoffs, Wembanyama Top-Form (34 PPG vs Minnesota Saison)",
+        "saisonziel_gast": "Wolves haben Round 1 6-Game-Serie vs Nuggets gewonnen ohne Edwards (Wolves-Verteidigung 30.04. McDaniels 32+10) - kommen ohne Edwards/DiVincenzo",
+        "motivations_asymmetrie": "Spurs voll fit + Heim + Wemby-Form-Edge gegen Wolves mit DiVincenzo OUT (Achilles, Saison vorbei) + Edwards QUESTIONABLE (Knee-Hyperextension) - klarer Spurs-Edge",
+        "recovery_heim": "5 Tage seit Round-1-Closeout vs Portland (29.04. 114:95)",
+        "recovery_gast": "4 Tage seit Round-1-G6 Sieg vs Denver - Reise-Stress + Verletzungs-Druck",
+        "quellen": [
+          "https://www.lineups.com/betting/minnesota-timberwolves-vs-san-antonio-spurs-game-1-preview-picks-odds-for-may-4-2026/",
+          "https://www.cbssports.com/nba/news/spurs-timberwolves-odds-prediction-spread-time-2026-nba-playoff-picks-game-1-best-bets/",
+          "https://bettorsinsider.com/nba/2026/05/04/timberwolves-vs-spurs-game-1-prediction-wembanyama-leads-san-antonio-in-west-semifinals-opener/",
+          "https://www.essentiallysports.com/nba-active-basketball-news-nba-playoffs-preview-injury-report-predicted-lineup-odds-for-may-fourth-games-feat-minnesota-timberwolves-san-antonio-spurs-philadelphia-76ers-and-new-york-knicks/"
+        ]
+      },
+      "news": [
+        "Round-2-G1 - laut Lesson 04.05. KEIN Decider, Mapper-Hebel B nicht aktiv (G1-G4 frei)",
+        "Spurs -13.5 (!) Spread, OU 217.5 (FanDuel) - sehr aggressives Spread, 85% Implied Spurs-Win laut Polymarket",
+        "Wembanyama-Form: 34 PPG vs Minnesota Saison-Schnitt (laut Greenfield Reporter), in Round 1 dominant gegen Portland",
+        "Wolves OUT: DiVincenzo (Achilles, Playoffs vorbei); Edwards QUESTIONABLE (Knee Hyperextension), Dosunmu QUESTIONABLE (Calf)",
+        "Wolves-McDaniels war in Round-1-G6 mit 32+10 unter den Punkten Star ohne Edwards - kann als Backup fungieren",
+        "Spurs Carter Bryant questionable (Foot), Coach erwartet alle anderen verfuegbar",
+        "Quoten verifiziert via Lineups/CBS/Bettorsinsider 04.05."
+      ],
+      "tipps": [
+        {
+          "markt": "Spurs Sieg (Moneyline)",
+          "kategorie": "value",
+          "edge_prozent": 6,
+          "begruendung": "Round-2-G1 freigegeben (Lesson 04.05.: G1-G4 frei). Spurs-Heim-Court + Wemby-Form-Edge (34 PPG vs Wolves Saison) + Wolves-Verletzungs-Mehrfach (DiVincenzo OUT, Edwards questionable, Dosunmu questionable) + Wolves nur 4 Tage Recovery nach 6-Game-Series. ML-Quote 1.20-1.25 sehr niedrig daher Einsatz reduziert. Mapper-Hebel C downgraded SAFE auf VALUE weil NBA nicht in Liga-Goldgrube. Empfohlener Einsatz 5.50 EUR (1%).",
+          "id": "sas-min-1",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 1.0,
+          "quote": 1.22
+        },
+        {
+          "markt": "Ueber 217.5 Punkte (Total)",
+          "kategorie": "wackel",
+          "edge_prozent": 4,
+          "begruendung": "Round-2-G1-Pace + Wemby + Wolves-Schmerzlevel = offensives Tempo. Linie 217.5 hoch genug fuer sicheres Ueber-Pattern (Lesson 02.05.: Linien >=219 Ueber-Edge, <215 Defensiv-Risiko - 217.5 Grenzfall). Lt. Statistik NBA-Ueber 5/9 = 55.6% nach Korrektur. Empfohlener Einsatz 2.75 EUR (0.5%).",
+          "id": "sas-min-2",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "quote": 1.91
+        },
+        {
+          "markt": "Victor Wembanyama Mehr als 24.5 Punkte",
+          "kategorie": "value",
+          "edge_prozent": 7,
+          "begruendung": "Player-Punkte differenziert ERLAUBT (Lesson 04.05.): Heim-Top-Stuermer + voll fit + Form-Edge (34 PPG vs Minnesota Saison-Schnitt!) + Spread -13.5 weit ueber 5 (aber Wemby ist Heim-Star nicht Underdog-Risiko-Profil). Bettorsinsider-Modell 25.3 Pkt projiziert. Linie 24.5 niedrig fuer Wemby - er hat Wolves konstant abgeschlachtet. Quote ~1.85. Empfohlener Einsatz 5.50 EUR (1%).",
+          "id": "sas-min-3",
+          "faire_quote": 0,
+          "empfohlener_einsatz_prozent": 1.0,
+          "quote": 1.85
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "102:104",
+        "halbzeitstand": null,
+        "status": "FINAL",
+        "quelle": "ESPN/NBA.com/CBS"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "sas-min-1",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Spurs verloren 102:104 - knapper Auswaerts-Sieg fuer Wolves trotz Edwards-Knee + DiVincenzo-OUT",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "sas-min-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Total 206 - Ueber 217.5 klar verfehlt (Defensiv-Schlacht trotz NBA-G1)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "sas-min-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Wemby NUR 11 Pkt (5/17 FG) - klar UNTER 24.5. NBA-Postseason-Block-Rekord (12 Blocks!) aber offensiv ineffizient",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": null,
+        "endstand": "102:104",
+        "tore": [],
+        "drehung": {
+          "war_drehung": true,
+          "details": "Spiel ging bis zur letzten Possession - 19 Lead Wechsel. Wolves haben in 4. Quarter geliefert (Edwards 11 Pkt im 4.). Klassisches Heim-Underdog-Aufzug-Pattern."
+        },
+        "markt_resultate": {
+          "spurs_total": 102,
+          "wolves_total": 104,
+          "spread_diff": -2,
+          "ueber_213_5": false,
+          "ueber_217_5": false,
+          "spread_cover_spurs_minus_13_5": false,
+          "wemby_punkte": 11,
+          "wemby_rebounds": 15,
+          "wemby_blocks": 12,
+          "wemby_fg": "5/17",
+          "edwards_punkte": 18,
+          "edwards_4thq": 11,
+          "lead_wechsel": 19
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Anthony Edwards",
+            "details": "Trotz Knee-Hyperextension von 25.04. doch gespielt + 11 Pkt im 4. Quarter geliefert - Status 'questionable' war Markt-Falle"
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "EXTREME Spurs-Falle: -13.5-Spread bei 85% Implied-Win waren WAY-overpriced - Wolves-Verletzungs-These (DiVincenzo OUT + Edwards questionable + 4 Tage Recovery) hat sich UMGEKEHRT in Wolves-Edge verwandelt (Edwards spielte trotzdem + 11 Pkt im 4.).",
+          "Wemby 11 Pkt = brutaler Underperform vs 24.5-Linie + 34-PPG-Saisonschnitt vs Wolves. Implikation: Player-Punkte-Tipps bei Heim-Top-Star sind NICHT immun gegen Defensiv-Plan-Attacken (Wolves-McDaniels neutralisierte Wemby auf 5/17 FG).",
+          "Player-Punkte-Lesson 04.05. ('Heim-Top-Star + Spread <=8 + Form-Edge') - der Spread war HIER -13.5 (>8) - das war ein Filter-Verstoss! Wemby-Tipp haette nach strikter Filter-Logik AUSGESCHLOSSEN sein muessen. KORREKTUR-LESSON noetig.",
+          "Drehungs-Anhaeufung am Tag (Spurs-Wolves G1 + Eve-MC + Cremonese-Lazio = 3 Spiele mit Drehung) - Drehungs-Cluster bestaetigt."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "eve-mci-2",
+      "spiel_id": "2026-05-04-eve-mci",
+      "spiel": "Everton vs Manchester City",
+      "markt": "Erling Haaland Tor jederzeit",
+      "kategorie": "safe",
+      "quote": 1.65,
+      "edge_prozent": 10,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "Markt-Goldgrube #1 Torschuetzen Jederzeit (50% Hitrate, +24.4% ROI) + PL-Liga-Goldgrube + Form-Edge (Tore in letzten 2 Spielen vs Burnley + Arsenal) + Everton-Defense ohne Branthwaite. PFLICHT-Tipp bei Auswaerts-Favorit-Quote 1.51. Empfohlener Einsatz 11 EUR (2% von 550 EUR Kasse Stufe 1).",
+      "rang": 1
+    },
+    {
+      "id": "eve-mci-1",
+      "spiel_id": "2026-05-04-eve-mci",
+      "spiel": "Everton vs Manchester City",
+      "markt": "Manchester City Sieg",
+      "kategorie": "value",
+      "quote": 1.51,
+      "edge_prozent": 7,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "City Auswaerts-Favorit @ 1.51 - PFLICHT-PROFIL erfuellt. PL-Liga-Goldgrube + voll fitter City ohne CL-Doppelbelastung gegen Everton ohne Saisonziel + ohne Star (Grealish raus). Empfohlener Einsatz 11 EUR (2%).",
+      "rang": 2
+    },
+    {
+      "id": "che-nfo-1",
+      "spiel_id": "2026-05-04-che-nfo",
+      "spiel": "Chelsea vs Nottingham Forest",
+      "markt": "Chelsea oder Unentschieden (DC 1X)",
+      "kategorie": "value",
+      "quote": 1.25,
+      "edge_prozent": 6,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Chelsea Heim-Favorit @ 1.73 - DC 1X als Hedge. Forest-EL-Doppelbelastung 4 Tage = Rotations-Risiko. Markt-Goldgrube DC 1X (84.6% Hitrate, +9.5% ROI) + PL-Liga-Goldgrube. Empfohlener Einsatz 8.25 EUR (1.5%).",
+      "rang": 3
+    },
+    {
+      "id": "che-nfo-2",
+      "spiel_id": "2026-05-04-che-nfo",
+      "spiel": "Chelsea vs Nottingham Forest",
+      "markt": "Cole Palmer Tor jederzeit",
+      "kategorie": "value",
+      "quote": 2.2,
+      "edge_prozent": 8,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "PFLICHT-PROFIL Heim-Favorit (1.73 < 1.80). Palmer Chelsea-Topscorer + zurueck. Markt-Goldgrube #1 Torschuetzen Jederzeit + Forest-Doppelbelastungs-Defense. Empfohlener Einsatz 8.25 EUR (1.5%).",
+      "rang": 4
+    },
+    {
+      "id": "sev-rso-1",
+      "spiel_id": "2026-05-04-sev-rso",
+      "spiel": "Sevilla vs Real Sociedad",
+      "markt": "Sevilla oder Unentschieden (DC 1X)",
+      "kategorie": "value",
+      "quote": 1.4,
+      "edge_prozent": 7,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Sevilla Klassenerhalts-MUSS-Sieg-Spiel zuhause + 65% Implied-NICHT-Sociedad-Win-Probability. LaLiga-Liga-Goldgrube + Markt-Goldgrube DC 1X. Empfohlener Einsatz 8.25 EUR (1.5%).",
+      "rang": 5
+    },
+    {
+      "id": "sev-rso-2",
+      "spiel_id": "2026-05-04-sev-rso",
+      "spiel": "Sevilla vs Real Sociedad",
+      "markt": "Ueber 2.5 Tore",
+      "kategorie": "value",
+      "quote": 1.91,
+      "edge_prozent": 6,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Beide Teams brauchen Punkte (Sevilla Abstieg, Sociedad Top-5). Bookies-Quote 1.91 vs Modell-Erwartung 60% Hit. Bleacher-Nation-Modell sagt 2-2. Empfohlener Einsatz 5.50 EUR (1%).",
+      "rang": 6
+    },
+    {
+      "id": "nyk-phi-1",
+      "spiel_id": "2026-05-04-nyk-phi",
+      "spiel": "Knicks vs 76ers (Round 2 G1)",
+      "markt": "Knicks Sieg (Moneyline)",
+      "kategorie": "value",
+      "quote": 1.42,
+      "edge_prozent": 5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Round-2-G1 freigegeben (Lesson 04.05.: G1-G4 frei). Knicks-Heim-Court + 5 Tage Recovery vs 76ers nur 2 Tage Recovery + Embiid eingeschraenkt. Empfohlener Einsatz 5.50 EUR (1%).",
+      "rang": 7
+    },
+    {
+      "id": "sas-min-1",
+      "spiel_id": "2026-05-04-sas-min",
+      "spiel": "Spurs vs Timberwolves (Round 2 G1)",
+      "markt": "Spurs Sieg (Moneyline)",
+      "kategorie": "value",
+      "quote": 1.22,
+      "edge_prozent": 6,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Round-2-G1 freigegeben. Spurs Heim + Wemby-Form-Edge + Wolves DiVincenzo OUT + Edwards questionable. Quote 1.22 niedrig daher Einsatz reduziert. Empfohlener Einsatz 5.50 EUR (1%).",
+      "rang": 8
+    },
+    {
+      "id": "sas-min-3",
+      "spiel_id": "2026-05-04-sas-min",
+      "spiel": "Spurs vs Timberwolves (Round 2 G1)",
+      "markt": "Victor Wembanyama Mehr als 24.5 Punkte",
+      "kategorie": "value",
+      "quote": 1.85,
+      "edge_prozent": 7,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Player-Punkte differenziert ERLAUBT (Lesson 04.05.): Heim-Top-Star + Form-Edge (34 PPG vs Minnesota Saison) + Wolves geschwaecht. Linie 24.5 niedrig fuer Wemby. Empfohlener Einsatz 5.50 EUR (1%).",
+      "rang": 9
+    },
+    {
+      "id": "eve-mci-3",
+      "spiel_id": "2026-05-04-eve-mci",
+      "spiel": "Everton vs Manchester City",
+      "markt": "Ueber 2.5 Tore",
+      "kategorie": "wackel",
+      "quote": 1.65,
+      "edge_prozent": 4,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "City offensiv stark, Everton schwach. SportsLine-Sim 3-1 City-Sieg. Lt. Statistik Markt 'Mehr als 2.5 Tore' bei 12/19 = 63.2% / +4.5% ROI. Empfohlener Einsatz 2.75 EUR (0.5%).",
+      "rang": 10
+    },
+    {
+      "id": "che-nfo-3",
+      "spiel_id": "2026-05-04-che-nfo",
+      "spiel": "Chelsea vs Nottingham Forest",
+      "markt": "Beide Teams treffen JA",
+      "kategorie": "wackel",
+      "quote": 1.85,
+      "edge_prozent": 4,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Forest-Wood (20 Saisontore + Form) gegen Chelsea-Heim-Defense-Krise. Chelsea muss aus Krise kommen + wird druecken. Empfohlener Einsatz 2.75 EUR (0.5%).",
+      "rang": 11
+    },
+    {
+      "id": "che-nfo-4",
+      "spiel_id": "2026-05-04-che-nfo",
+      "spiel": "Chelsea vs Nottingham Forest",
+      "markt": "Chris Wood Tor jederzeit",
+      "kategorie": "wackel",
+      "quote": 3.5,
+      "edge_prozent": 5,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Form-Edge: Wood traf 2x in letzten 2 Spielen + Chelsea-Heim-Krise. Doppelbelastungs-Setup = Auswechslungs-Wahrscheinlichkeit hoch -> Boost-Setup. Markt-Goldgrube. Empfohlener Einsatz 2.75 EUR (0.5%).",
+      "rang": 12
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-safe-2026-05-04",
+      "name": "Safe-Kombi (~2.6x)",
+      "kategorie": "safe",
+      "beine": [
+        {
+          "spiel_id": "2026-05-04-eve-mci",
+          "markt": "Everton vs Manchester City: Manchester City Sieg",
+          "quote": 1.51,
+          "spiel_titel": "Everton vs Manchester City"
+        },
+        {
+          "spiel_id": "2026-05-04-che-nfo",
+          "markt": "Chelsea vs Nottingham Forest: Chelsea oder Unentschieden (DC 1X)",
+          "quote": 1.25,
+          "spiel_titel": "Chelsea vs Nottingham Forest"
+        },
+        {
+          "spiel_id": "2026-05-04-sev-rso",
+          "markt": "Sevilla vs Real Sociedad: Sevilla oder Unentschieden (DC 1X)",
+          "quote": 1.4,
+          "spiel_titel": "Sevilla vs Real Sociedad"
+        }
+      ],
+      "gesamt_quote": 2.64,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 11.0,
+      "begruendung": "3-Bein-Konstruktion mit max 1 reinem Sieg-Bein (Lesson 03.05. Safe-Kombi-Konstruktion). City-Auswaerts-Sieg = klarer Klassen-Edge ohne UEFA-Doppelbelastung. Chelsea-DC 1X bei Forest-EL-Doppelbelastung. Sevilla-DC 1X bei Klassenerhalts-Druck zuhause. Layer-1 ✓ (3 verschiedene Spiele). Layer-2 ✓ (max 1 Sieg). Layer-3 ✓ (alle Beine einzigartig im Kombi-Set). Empfohlener Einsatz 11 EUR (2% von 550 EUR Kasse)."
+    },
+    {
+      "id": "kombi-balance-2026-05-04",
+      "name": "Balance-Kombi (~7x)",
+      "kategorie": "balance",
+      "beine": [
+        {
+          "spiel_id": "2026-05-04-eve-mci",
+          "markt": "Everton vs Manchester City: Erling Haaland Tor jederzeit",
+          "quote": 1.65,
+          "spiel_titel": "Everton vs Manchester City"
+        },
+        {
+          "spiel_id": "2026-05-04-che-nfo",
+          "markt": "Chelsea vs Nottingham Forest: Cole Palmer Tor jederzeit",
+          "quote": 2.2,
+          "spiel_titel": "Chelsea vs Nottingham Forest"
+        },
+        {
+          "spiel_id": "2026-05-04-sev-rso",
+          "markt": "Sevilla vs Real Sociedad: Ueber 2.5 Tore",
+          "quote": 1.91,
+          "spiel_titel": "Sevilla vs Real Sociedad"
+        }
+      ],
+      "gesamt_quote": 6.93,
+      "empfohlener_einsatz_prozent": 0.8,
+      "empfohlener_einsatz_euro": 4.4,
+      "begruendung": "3-Bein-Konstruktion mit Markt-Mix: 2x Torschuetzen (Goldgrube #1 mit +24.4% ROI) + 1x Tor-Total. Layer-2 ✓ - keine Sieg-Outcomes (Safe hat City Sieg, Chelsea DC, Sevilla DC; hier andere Markt-Profile in den gleichen Spielen). Layer-3 ✓ (alle Beine einzigartig). Form-Edge auf Haaland (2 Tore in 2 Spielen) + Palmer (Chelsea-Topscorer zurueck). Empfohlener Einsatz 4.40 EUR (0.8%)."
+    },
+    {
+      "id": "kombi-risiko-2026-05-04",
+      "name": "Risiko-Kombi (~20x)",
+      "kategorie": "risk",
+      "beine": [
+        {
+          "spiel_id": "2026-05-04-che-nfo",
+          "markt": "Chelsea vs Nottingham Forest: Chris Wood Tor jederzeit",
+          "quote": 3.5,
+          "spiel_titel": "Chelsea vs Nottingham Forest"
+        },
+        {
+          "spiel_id": "2026-05-04-eve-mci",
+          "markt": "Everton vs Manchester City: Ueber 2.5 Tore",
+          "quote": 1.65,
+          "spiel_titel": "Everton vs Manchester City"
+        },
+        {
+          "spiel_id": "2026-05-04-sas-min",
+          "markt": "Spurs vs Timberwolves: Victor Wembanyama Mehr als 24.5 Punkte",
+          "quote": 1.85,
+          "spiel_titel": "Spurs vs Timberwolves"
+        },
+        {
+          "spiel_id": "2026-05-04-nyk-phi",
+          "markt": "Knicks vs 76ers: Jalen Brunson Mehr als 27.5 Punkte",
+          "quote": 1.85,
+          "spiel_titel": "Knicks vs 76ers"
+        }
+      ],
+      "gesamt_quote": 19.79,
+      "empfohlener_einsatz_prozent": 0.25,
+      "empfohlener_einsatz_euro": 1.4,
+      "begruendung": "4-Bein-Konstruktion (Lesson 30.04.: 4-Bein-Risiko-Kombi mit 0.25% Einsatz lohnt im EV bei perfekter Diversifikation). Markt-Mix: 1x Spieler-Tor + 1x Tor-Total + 2x Player-Punkte (NBA G1-G4 frei). Layer-2 ✓ (keine Sieg-Outcomes, alle Risiko-Maerkte). Layer-3 ✓ - eve-mci hat Sieg in Safe + Tor in Balance + Total in Risiko (3 verschiedene Markt-Profile = OK). Wood-Boost-Setup (Forest-Doppelbelastung). Empfohlener Einsatz 1.40 EUR (0.25%)."
+    },
+    {
+      "id": "kombi-moonshot-2026-05-04",
+      "name": "Moonshot (~200x)",
+      "kategorie": "moonshot",
+      "beine": [
+        {
+          "spiel_id": "2026-05-04-che-nfo",
+          "markt": "Chelsea vs Nottingham Forest: Nottingham Forest Sieg",
+          "quote": 4.5,
+          "spiel_titel": "Chelsea vs Nottingham Forest"
+        },
+        {
+          "spiel_id": "2026-05-04-sev-rso",
+          "markt": "Sevilla vs Real Sociedad: Real Sociedad Sieg",
+          "quote": 2.7,
+          "spiel_titel": "Sevilla vs Real Sociedad"
+        },
+        {
+          "spiel_id": "2026-05-04-nyk-phi",
+          "markt": "Knicks vs 76ers: Philadelphia 76ers Sieg",
+          "quote": 3.0,
+          "spiel_titel": "Knicks vs 76ers"
+        },
+        {
+          "spiel_id": "2026-05-04-sas-min",
+          "markt": "Spurs vs Timberwolves: Minnesota Timberwolves Sieg",
+          "quote": 5.5,
+          "spiel_titel": "Spurs vs Timberwolves"
+        }
+      ],
+      "gesamt_quote": 200.48,
+      "empfohlener_einsatz_prozent": 0.1,
+      "empfohlener_einsatz_euro": 0.55,
+      "begruendung": "4-Bein-Underdog-Sieg-Massaker als Lotto-Kombi. Alle 4 Beine sind GEGENLAEUFIG zu Safe-Beinen (Forest gegen Chelsea-DC, Sociedad gegen Sevilla-DC, 76ers gegen Knicks-ML, Wolves gegen Spurs-ML) - das ist Hedge, kein Kombi-Verstaerker, schlimmster-Tag-Insurance. Layer-2 ✓ (alle Sieg-Outcomes nur in dieser Kombi). Quote 200x. Empfohlener Einsatz 0.55 EUR (0.1%) - reine Spass-Wette."
+    }
+  ],
+  "lessons_angewandt": [
+    "Markt-Mix-Pflicht (Lesson 04.05. Hebel M): max 1 DC pro Spiel, in jedem Heim-/Auswaerts-Favorit-Spiel min 1 Torschuetzen-Tipp. Heute 2 DC im Set (Chelsea 1X, Sevilla 1X) + 4 Torschuetzen-Tipps (Haaland SAFE, Palmer, Wood, plus Wemby/Brunson Player-Punkte als Player-Total).",
+    "SAFE-Konstruktion #3 (Lesson 04.05. Hebel S+C): SAFE nur bei (a) Markt-Goldgrube ODER Liga-Goldgrube, (b) klarer Saisonziel-Asymmetrie. Heute nur 1 SAFE-Bein (Haaland Tor jederzeit) - Markt-Goldgrube Torschuetzen + PL-Liga-Goldgrube + Form-Edge.",
+    "PFLICHT-PROFILE (Lesson 04.05. Hebel-MIX): bei Heim-Favorit (<1.80) ODER Auswaerts-Favorit (<2.20) Torschuetzen-Tipp PFLICHT. Heute erfuellt: Chelsea Heim-Favorit @ 1.73 -> Palmer-Tor; City Auswaerts-Favorit @ 1.51 -> Haaland-Tor; Spurs Heim-Favorit -> Wemby Player-Punkte; Knicks Heim-Favorit -> Brunson Player-Punkte.",
+    "Saison-Kontext-Sanity (Lesson 04.05. Hebel S): saison_kontext-Komfort-Pattern triggert SAFE-Downgrade. Beispiel heute: Sevilla-Sociedad - beide Teams haben Saisonziel = Mapper-Hebel S downgraded SAFE auf VALUE da kein klarer Komfort-Asymmetrie-Pattern.",
+    "NBA-Round-2-G1 freigegeben (Lesson 04.05. Differenzierung): G1-G4 frei, nur Decider G5/G6/G7 gefiltert. Heute Knicks-76ers G1 + Spurs-Wolves G1 = beide spielbar als VALUE. Mapper-Hebel C downgraded SAFE auf VALUE weil NBA nicht in Liga-Goldgrube.",
+    "Beobachtungs-Liga Serie A (Lesson 27.04.): Cremonese-Lazio + Roma-Fiorentina sind in Beobachtung (-32.5% ROI 30 Tage), Tipps NICHT in Einzeltipps[]/Hauptkombi - nur Kontext-Recherche fuer Liga-Form-Aufbau, Moonshot-Beine OK ab Quote >=5.0 (heute keine zulaessige Quote).",
+    "Layer-3-Diversifikation (Lesson 01.05.): Spiel/Markt-Bein max 1x ueber alle Kombis. Heute Konstruktion: Safe = nur Sieg/DC, Balance = nur Spieler-Tor/Tor-Total, Risiko = Mix Spieler-Tor + Tor-Total + Player-Punkte, Moonshot = Underdog-Sieg-Massaker (Hedge zu Safe). Keine Markt-Doppelung pro Spiel-Kombi-Achse.",
+    "Player-Punkte differenziert ERLAUBT (Lesson 04.05. NBA Player-Punkte): Heim-Top-Star bei Spread <=8 + Form-Edge OK fuer VALUE. Heute Wemby (Spurs Heim, Form 34 PPG vs Wolves) + Brunson (Knicks Heim, Form Round 1 28+ PPG) = beide qualifizieren als VALUE.",
+    "Kasse-Stand 550 EUR Stufe 1 (Lesson 04.05. kasse.json): Standard-Einsatz 1-2% pro Tipp = 5.50-11 EUR. Aggregierte heutige Stake-Empfehlung: 12 Einzeltipps mit Total-Einsatz ca. 64 EUR (~12% Kasse), plus 4 Kombis 17.35 EUR = ca. 81 EUR Tagesvolumen.",
+    "PL-Klassen-Heim-Bounce-Back-Effekt (Lesson 03.05.): Chelsea-Heim trotz 5-Pleiten-Serie ist PL-Mid-Top-Klub - DC 1X als VALUE legitim weil Forest mit EL-Doppelbelastung 4 Tage spaeter rotieren koennte (= Heim-Crowd-Bounce-Back-Setup PASSEND mit Lesson)."
+  ],
+  "footer": "18+ - bet365 DE - Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool, keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause.",
+  "einzeltipps_ergebnis": [
+    {
+      "id": "eve-mci-2",
+      "spiel_id": "2026-05-04-eve-mci",
+      "spiel": "Everton vs Manchester City",
+      "markt": "Erling Haaland Tor jederzeit",
+      "kategorie": "safe",
+      "quote": 1.65,
+      "edge_prozent": 10,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "Markt-Goldgrube #1 Torschuetzen Jederzeit (50% Hitrate, +24.4% ROI) + PL-Liga-Goldgrube + Form-Edge (Tore in letzten 2 Spielen vs Burnley + Arsenal) + Everton-Defense ohne Branthwaite. PFLICHT-Tipp bei Auswaerts-Favorit-Quote 1.51. Empfohlener Einsatz 11 EUR (2% von 550 EUR Kasse Stufe 1).",
+      "rang": 1,
+      "status": "offen"
+    },
+    {
+      "id": "eve-mci-1",
+      "spiel_id": "2026-05-04-eve-mci",
+      "spiel": "Everton vs Manchester City",
+      "markt": "Manchester City Sieg",
+      "kategorie": "value",
+      "quote": 1.51,
+      "edge_prozent": 7,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "City Auswaerts-Favorit @ 1.51 - PFLICHT-PROFIL erfuellt. PL-Liga-Goldgrube + voll fitter City ohne CL-Doppelbelastung gegen Everton ohne Saisonziel + ohne Star (Grealish raus). Empfohlener Einsatz 11 EUR (2%).",
+      "rang": 2,
+      "status": "offen"
+    },
+    {
+      "id": "che-nfo-1",
+      "spiel_id": "2026-05-04-che-nfo",
+      "spiel": "Chelsea vs Nottingham Forest",
+      "markt": "Chelsea oder Unentschieden (DC 1X)",
+      "kategorie": "value",
+      "quote": 1.25,
+      "edge_prozent": 6,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Chelsea Heim-Favorit @ 1.73 - DC 1X als Hedge. Forest-EL-Doppelbelastung 4 Tage = Rotations-Risiko. Markt-Goldgrube DC 1X (84.6% Hitrate, +9.5% ROI) + PL-Liga-Goldgrube. Empfohlener Einsatz 8.25 EUR (1.5%).",
+      "rang": 3,
+      "status": "offen"
+    },
+    {
+      "id": "che-nfo-2",
+      "spiel_id": "2026-05-04-che-nfo",
+      "spiel": "Chelsea vs Nottingham Forest",
+      "markt": "Cole Palmer Tor jederzeit",
+      "kategorie": "value",
+      "quote": 2.2,
+      "edge_prozent": 8,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "PFLICHT-PROFIL Heim-Favorit (1.73 < 1.80). Palmer Chelsea-Topscorer + zurueck. Markt-Goldgrube #1 Torschuetzen Jederzeit + Forest-Doppelbelastungs-Defense. Empfohlener Einsatz 8.25 EUR (1.5%).",
+      "rang": 4,
+      "status": "offen"
+    },
+    {
+      "id": "sev-rso-1",
+      "spiel_id": "2026-05-04-sev-rso",
+      "spiel": "Sevilla vs Real Sociedad",
+      "markt": "Sevilla oder Unentschieden (DC 1X)",
+      "kategorie": "value",
+      "quote": 1.4,
+      "edge_prozent": 7,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Sevilla Klassenerhalts-MUSS-Sieg-Spiel zuhause + 65% Implied-NICHT-Sociedad-Win-Probability. LaLiga-Liga-Goldgrube + Markt-Goldgrube DC 1X. Empfohlener Einsatz 8.25 EUR (1.5%).",
+      "rang": 5,
+      "status": "offen"
+    },
+    {
+      "id": "sev-rso-2",
+      "spiel_id": "2026-05-04-sev-rso",
+      "spiel": "Sevilla vs Real Sociedad",
+      "markt": "Ueber 2.5 Tore",
+      "kategorie": "value",
+      "quote": 1.91,
+      "edge_prozent": 6,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Beide Teams brauchen Punkte (Sevilla Abstieg, Sociedad Top-5). Bookies-Quote 1.91 vs Modell-Erwartung 60% Hit. Bleacher-Nation-Modell sagt 2-2. Empfohlener Einsatz 5.50 EUR (1%).",
+      "rang": 6,
+      "status": "offen"
+    },
+    {
+      "id": "nyk-phi-1",
+      "spiel_id": "2026-05-04-nyk-phi",
+      "spiel": "Knicks vs 76ers (Round 2 G1)",
+      "markt": "Knicks Sieg (Moneyline)",
+      "kategorie": "value",
+      "quote": 1.42,
+      "edge_prozent": 5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Round-2-G1 freigegeben (Lesson 04.05.: G1-G4 frei). Knicks-Heim-Court + 5 Tage Recovery vs 76ers nur 2 Tage Recovery + Embiid eingeschraenkt. Empfohlener Einsatz 5.50 EUR (1%).",
+      "rang": 7,
+      "status": "offen"
+    },
+    {
+      "id": "sas-min-1",
+      "spiel_id": "2026-05-04-sas-min",
+      "spiel": "Spurs vs Timberwolves (Round 2 G1)",
+      "markt": "Spurs Sieg (Moneyline)",
+      "kategorie": "value",
+      "quote": 1.22,
+      "edge_prozent": 6,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Round-2-G1 freigegeben. Spurs Heim + Wemby-Form-Edge + Wolves DiVincenzo OUT + Edwards questionable. Quote 1.22 niedrig daher Einsatz reduziert. Empfohlener Einsatz 5.50 EUR (1%).",
+      "rang": 8,
+      "status": "offen"
+    },
+    {
+      "id": "sas-min-3",
+      "spiel_id": "2026-05-04-sas-min",
+      "spiel": "Spurs vs Timberwolves (Round 2 G1)",
+      "markt": "Victor Wembanyama Mehr als 24.5 Punkte",
+      "kategorie": "value",
+      "quote": 1.85,
+      "edge_prozent": 7,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Player-Punkte differenziert ERLAUBT (Lesson 04.05.): Heim-Top-Star + Form-Edge (34 PPG vs Minnesota Saison) + Wolves geschwaecht. Linie 24.5 niedrig fuer Wemby. Empfohlener Einsatz 5.50 EUR (1%).",
+      "rang": 9,
+      "status": "offen"
+    },
+    {
+      "id": "eve-mci-3",
+      "spiel_id": "2026-05-04-eve-mci",
+      "spiel": "Everton vs Manchester City",
+      "markt": "Ueber 2.5 Tore",
+      "kategorie": "wackel",
+      "quote": 1.65,
+      "edge_prozent": 4,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "City offensiv stark, Everton schwach. SportsLine-Sim 3-1 City-Sieg. Lt. Statistik Markt 'Mehr als 2.5 Tore' bei 12/19 = 63.2% / +4.5% ROI. Empfohlener Einsatz 2.75 EUR (0.5%).",
+      "rang": 10,
+      "status": "offen"
+    },
+    {
+      "id": "che-nfo-3",
+      "spiel_id": "2026-05-04-che-nfo",
+      "spiel": "Chelsea vs Nottingham Forest",
+      "markt": "Beide Teams treffen JA",
+      "kategorie": "wackel",
+      "quote": 1.85,
+      "edge_prozent": 4,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Forest-Wood (20 Saisontore + Form) gegen Chelsea-Heim-Defense-Krise. Chelsea muss aus Krise kommen + wird druecken. Empfohlener Einsatz 2.75 EUR (0.5%).",
+      "rang": 11,
+      "status": "offen"
+    },
+    {
+      "id": "che-nfo-4",
+      "spiel_id": "2026-05-04-che-nfo",
+      "spiel": "Chelsea vs Nottingham Forest",
+      "markt": "Chris Wood Tor jederzeit",
+      "kategorie": "wackel",
+      "quote": 3.5,
+      "edge_prozent": 5,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Form-Edge: Wood traf 2x in letzten 2 Spielen + Chelsea-Heim-Krise. Doppelbelastungs-Setup = Auswechslungs-Wahrscheinlichkeit hoch -> Boost-Setup. Markt-Goldgrube. Empfohlener Einsatz 2.75 EUR (0.5%).",
+      "rang": 12,
+      "status": "offen"
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "kombi-safe-2026-05-04",
+      "status": "offen",
+      "gesamtquote": null
+    },
+    {
+      "kombi_id": "kombi-balance-2026-05-04",
+      "status": "offen",
+      "gesamtquote": null
+    },
+    {
+      "kombi_id": "kombi-risiko-2026-05-04",
+      "status": "offen",
+      "gesamtquote": null
+    },
+    {
+      "kombi_id": "kombi-moonshot-2026-05-04",
+      "status": "offen",
+      "gesamtquote": null
+    }
+  ],
+  "ausgewertet_am": "2026-05-05T06:03:16+00:00"
+}
