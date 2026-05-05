@@ -38,13 +38,14 @@
       "tipps": [
         {
           "markt": "Chelsea oder Unentschieden (DC 1X)",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "edge_prozent": 6,
-          "begruendung": "Chelsea Heim-Favorit @ 1.73 - DC 1X deckt Sieg + Remis. Forest-EL-Doppelbelastung 4 Tage = Rotations-Risiko in 2.HZ. Markt-Goldgrube DC 1X (84.6% Hitrate, +9.5% ROI) + PL-Liga-Goldgrube. SAFE wuerde Mapper-Hebel S downgraden weil saison_kontext 'rotiert' impliziert + Forest hat eigenes Saisonziel - daher VALUE. Empfohlener Einsatz 8.25 EUR (1.5% der 550 EUR Kasse).",
+          "begruendung": "Chelsea Heim-Favorit @ 1.73 - DC 1X deckt Sieg + Remis. Forest-EL-Doppelbelastung 4 Tage = Rotations-Risiko in 2.HZ. Markt-Goldgrube DC 1X (84.6% Hitrate, +9.5% ROI) + PL-Liga-Goldgrube. SAFE wuerde Mapper-Hebel S downgraden weil saison_kontext 'rotiert' impliziert + Forest hat eigenes Saisonziel - daher VALUE. Empfohlener Einsatz 8.25 EUR (1.5% der 550 EUR Kasse). [Auto HR2: Heim-Krise/Sturm-Krise erkannt - Heim-Sieg/-DC/-Top-Stuermer max WACKEL]",
           "id": "che-nfo-1",
           "faire_quote": 0,
           "empfohlener_einsatz_prozent": 1.5,
-          "quote": 1.25
+          "quote": 1.25,
+          "_heim_form_block": true
         },
         {
           "markt": "Cole Palmer Tor jederzeit",

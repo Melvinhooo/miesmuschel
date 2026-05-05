@@ -417,9 +417,9 @@
       "tipps": [
         {
           "markt": "Real Madrid oder Unentschieden (X2)",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "edge_prozent": 6,
-          "begruendung": "Espanyol seit 16 Spielen ohne Sieg + faktisch abgestiegen + zuhause mit Auslauf-Modus = ein Espanyol-Heim-Sieg gegen Real Madrid waere sensationell. DC X2 bei 1.20 deckt 83% Wahrscheinlichkeit, fair waere ~85% (Real-Form-Krise 1/6 zieht etwas runter). Lt. Bilanz: 'Real Madrid Doppelte Chance (X2)' bisher 1/1 (100%, +35% ROI). Doppelte-Chance-Markt allgemein die staerkste Trefferquote im Tool. KORREKTUR: Frueheres Tipps-Dossier hatte CL-HF-Doppelbelastung als Edge-Argument benannt — das ist falsch, Real ist im April aus der CL ausgeschieden (vs Bayern). Edge bleibt aber durch Klassen-Asymmetrie + DC-Hedge stabil. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> safe->value]",
+          "begruendung": "Espanyol seit 16 Spielen ohne Sieg + faktisch abgestiegen + zuhause mit Auslauf-Modus = ein Espanyol-Heim-Sieg gegen Real Madrid waere sensationell. DC X2 bei 1.20 deckt 83% Wahrscheinlichkeit, fair waere ~85% (Real-Form-Krise 1/6 zieht etwas runter). Lt. Bilanz: 'Real Madrid Doppelte Chance (X2)' bisher 1/1 (100%, +35% ROI). Doppelte-Chance-Markt allgemein die staerkste Trefferquote im Tool. KORREKTUR: Frueheres Tipps-Dossier hatte CL-HF-Doppelbelastung als Edge-Argument benannt — das ist falsch, Real ist im April aus der CL ausgeschieden (vs Bayern). Edge bleibt aber durch Klassen-Asymmetrie + DC-Hedge stabil. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> safe->value] [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
           "id": "esp-rma-1",
           "faire_quote": 0,
           "empfohlener_einsatz_prozent": 1.5,
@@ -762,7 +762,7 @@
       "spiel_id": "2026-05-03-esp-rma",
       "spiel": "Espanyol - Real Madrid",
       "markt": "Real Madrid oder Unentschieden (X2)",
-      "kategorie": "value",
+      "kategorie": "wackel",
       "edge_prozent": 6,
       "empfohlener_einsatz_prozent": 2.0,
       "begruendung": "Espanyol seit 16 Spielen ohne Sieg + faktisch abgestiegen. 'Real Madrid DC X2' bisher 1/1 (+35% ROI). DC X2 hedget Real-CL-HF-Rotations-Risiko (Lesson 02.05.) ab. Quote 1.20 = 83%.",
