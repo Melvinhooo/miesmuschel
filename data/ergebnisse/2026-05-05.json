@@ -1,0 +1,884 @@
+{
+  "datum": "2026-05-05",
+  "erstellt_am": "2026-05-05T16:00:00+02:00",
+  "hinweis": "Schmaler Dienstag: Champions League Halbfinale Rueckspiel Arsenal vs Atletico Madrid (Emirates, 21:00) plus zwei NBA-Conference-Halbfinale-G1 (Cavs @ Pistons, Lakers @ OKC). Kasse 550€ - Stufe 1 (1-2% pro Tipp). Drehungs-Cluster-Filter (HR9) seit 04.05. aktiv: Sieg-Tipps mit Quote <=1.55 + Spread >=10 max wackel. Markt-Goldgruben Torschuetzen Jederzeit (+24,4% ROI) + DC 1X (84,6% Hit) aktiv gesucht. NBA-Playoff Hebel B: alle Sieg/Spread/Total max VALUE; Player-Punkte bei Spread > 7,5 max wackel (HR7). Lakers ohne Doncic gegen OKC -15,5 = klassische Blowout-Konstellation. 18+ - bet365 DE - Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700.",
+  "spiele": [
+    {
+      "id": "2026-05-05-ars-atm",
+      "liga": "Champions League Halbfinale Rueckspiel",
+      "heim": "Arsenal FC",
+      "gast": "Atletico Madrid",
+      "anstoss": "2026-05-05T21:00:00+02:00",
+      "stadion": "Emirates Stadium, London",
+      "saison_kontext": {
+        "parallel_heim": "Premier League Titel-Endspurt (Arsenal Spitze, 6 Pkt vor Man City) - kein paralleles Cup/UEFA-Spiel diese Woche neben CL-HF-Rueckspiel",
+        "parallel_gast": "LaLiga Top-4-Endspurt (Atletico aktuell Platz 3-4 im Kampf um direkten CL-Quali-Platz) - kein anderes UEFA-Spiel diese Woche",
+        "saisonziel_heim": "PL-Titel + erstes CL-Finale seit 2006 - voll motiviertes Doppel-Saisonziel; Arsenal in CL alle 13 Spiele unbesiegt (Klub-Rekord eingestellt nach Hinspiel)",
+        "saisonziel_gast": "CL-Finale + LaLiga-Top-4-Sicherung - Atletico Doppel-Druck, aber kein Liga-Spiel direkt nach diesem Match (Pause bis 09.05.)",
+        "motivations_asymmetrie": "Beide voll motiviert, kein Komfort-Pattern - aber Arsenal Heim-Vorteil massiv (5/6 CL-Heimspiele Saison gewonnen) + Atletico personell ausgeduennt (Barrios + Nico Gonzalez OUT mit Oberschenkel; Sorloth, Simeone, Gimenez Fitness-Tests)",
+        "recovery_heim": "3 Tage seit 3:0 vs Fulham (Sa 02.05.) - Saka rotation-geschont (45 Min) - Voll-Kader fit ausser Timber (Leiste) und Merino (Fuss-OP)",
+        "recovery_gast": "5 Tage seit Hinspiel 1:1 (Mi 29.04.) - kein LaLiga-Spiel dazwischen (gut fuer Recovery), aber Verletzungs-Welle in der Defensiv-/Sturm-Reihe",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/news/02a4-2081fa8b7112-8f4474ea29c4-1000--atleti-1-1-arsenal-highlights-viktor-gyokeres-and-julian-alv/",
+          "https://www.aljazeera.com/sports/2026/5/4/arsenal-vs-atletico-madrid-champions-league-preview-team-news-start-lineups",
+          "https://www.arsenal.com/news/preview-arsenal-v-atletico-madrid-0",
+          "https://www.skysports.com/football/arsenal-vs-fulham/report/531469"
+        ]
+      },
+      "news": [
+        "Hinspiel 1:1 (Metropolitano, 29.04.): Gyokeres traf nach Foulelfmeter, Alvarez glich vom Punkt aus - 13. CL-Spiel Arsenal in Folge ohne Niederlage (Klub-Rekord)",
+        "Arsenal Heim-Bilanz CL 25/26: 5 Siege aus 6 Heim-Spielen, 5 von 6 zu null - Festungs-Modus an der Emirates",
+        "Atletico Sturm dezimiert: Barrios + Nico Gonzalez fix raus (Oberschenkel), Sorloth/Gimenez/Simeone fit-Test - Lookman muss als Fluegel-Lueckenfueller ran",
+        "Gyokeres in Bestform: 21 Saison-Tore inkl. Doppelpack vs Fulham (3:0) - bet365 First-Goalscorer-Favorit @ ~3.10",
+        "Saka zurueck nach Achilles-Schonung: 10. Saison-Tor + Assist vs Fulham, zur HZ ausgewechselt (Schongang) - bei Achilles-Risiko Auswechslungs-Wahrscheinlichkeit erneut hoch",
+        "Letzte 5 Arsenal-CL-Spiele: alle Unter 2.5 Tore - taktisch eng-getakteter Knock-out-Modus"
+      ],
+      "tipps": [
+        {
+          "id": "ars-atm-1",
+          "kategorie": "safe",
+          "markt": "Doppelte Chance Arsenal oder Unentschieden (1X)",
+          "quote": 1.2,
+          "quote_pinnacle": 1.18,
+          "edge_prozent": 2.5,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 11.0,
+          "begruendung": "Arsenal Heim 5/6 CL-Siege Saison + 13 CL-Spiele unbesiegt + Atletico Sturm/Defensiv-Reihe ausgeduennt (Barrios, N. Gonzalez fix raus). DC 1X ist System-Goldgrube (84,6% Trefferquote / +9,5% ROI laut markt_goldgruben.json). CL-HF-Hinspiel-Liga +32% ROI, Rueckspiel Sample <5 - SAFE-Confirm legitim. Quelle Oddschecker/SportsGambler verifiziert (bet365 8/13 = 1.62 Sieg, Pinnacle aehnlich → Edge >2%). Empfohlener Einsatz: 11€ (2% der 550€-Kasse, Stufe 1).",
+          "faire_quote": 1.17
+        },
+        {
+          "id": "ars-atm-2",
+          "kategorie": "wackel",
+          "markt": "Sieg Arsenal (1)",
+          "quote": 1.62,
+          "quote_pinnacle": 1.58,
+          "edge_prozent": 2.5,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 8.25,
+          "begruendung": "Direkter Sieg-Tipp - in CL gilt 2:0-Insurance bei bet365 (sobald Arsenal 2-Tore-Vorsprung hatte zaehlt Tipp gewonnen). Heim-Statistik massiv pro Arsenal: 5 von 6 CL-Heim-Siege, 13 CL-Spiele unbesiegt. Atletico Auswaerts in CL diese Saison eher schwach + Sturm-Krise vor diesem entscheidenden Match. Sieg-Markt-Bilanz System -8% ROI (47 Tipps), aber dieser Tipp pro Goldgrube-Liga (CL-HF) + verifizierte bet365-Quote. Empfohlener Einsatz: 8,25€ (1,5% der 550€-Kasse). [Auto HR4: Story-Konflikt v2 (Heim-Krise-Token in eigener Begruendung) -> value->wackel]",
+          "faire_quote": 1.58,
+          "_story_konflikt_v2": true
+        },
+        {
+          "id": "ars-atm-3",
+          "kategorie": "value",
+          "markt": "Viktor Gyokeres trifft jederzeit",
+          "quote": 2.15,
+          "quote_pinnacle": 2.05,
+          "edge_prozent": 4.5,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 8.25,
+          "begruendung": "Goldgrube-Markt 'Torschuetzen Jederzeit' (+24,4% ROI / 50% Hitrate, n=8) aktiv gesucht. Form-Edge eindeutig: 21 Saison-Tore, Doppelpack vs Fulham 02.05., Tor im Hinspiel vom Punkt - Quote 2.15 fair vs ~50% Wahrscheinlichkeit. Backup hinter Gyokeres: Trossard kann von Fluegel umfunktioniert werden, Boost-Setup falls Auswechslung. Lesson 04.05. Hebel-MIX: Heim-Sieg-Quote <1.80 = Top-Stuermer-Torschuetzen-Tipp PFLICHT. Empfohlener Einsatz: 8,25€ (1,5%).",
+          "faire_quote": 2.06
+        },
+        {
+          "id": "ars-atm-4",
+          "kategorie": "wackel",
+          "markt": "Bukayo Saka trifft jederzeit",
+          "quote": 3.25,
+          "quote_pinnacle": 3.1,
+          "edge_prozent": 2.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 2.75,
+          "begruendung": "Saka kommt aus Achilles-Schonung zurueck - vs Fulham nur 45 Min, traf trotzdem (10. Saison-Tor). Risiko: erneut zur HZ ausgewechselt. Edge entsteht via bet365-Auswechslungs-Boost-Mechanik (Lesson 27.04. + 04.05.) - falls Saka rausgeht und Madueke/Trossard direkt fuer ihn rein und trifft, zaehlt Saka-Tor. Lesson 04.05. HR3: Joker/Backup-Profil aktiv suchen bei UEFA-Druck. WACKEL wegen Achilles-Spielzeit-Risiko. Empfohlener Einsatz: 2,75€ (0,5%).",
+          "faire_quote": 3.19
+        },
+        {
+          "id": "ars-atm-5",
+          "kategorie": "wackel",
+          "markt": "Ueber 3.5 Tore",
+          "quote": 5.0,
+          "quote_pinnacle": 4.8,
+          "edge_prozent": null,
+          "empfohlener_einsatz_prozent": 0.25,
+          "empfohlener_einsatz_euro": 1.4,
+          "begruendung": "Spass-Tipp fuer Moonshot-Bein. Arsenal letzte 5 CL-Spiele alle Unter 2.5 - klar gegen den Markt. Aber: bei 1:1 Hinspiel braucht eines der Teams ein Tor mehr fuer Finale - nach 90/120 Min Verlaengerungs-Risiko hoch. Ueber 3.5 ist Lottoschein wenn Spiel kippt + Verlaengerung. Reine Moonshot-Funktion.",
+          "faire_quote": 5.0
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "1:0",
+        "halbzeit": "1:0",
+        "aggregat": "2:1 (Arsenal)",
+        "weiter": "Arsenal",
+        "quelle": "ESPN/CNN/SkySports/Al Jazeera"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "ars-atm-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.2,
+          "kommentar": "Arsenal 1:0 — DC 1X erfuellt",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "ars-atm-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.62,
+          "kommentar": "Arsenal 1:0 — Sieg-Tipp direkt erfuellt (kein 2:0-Insurance noetig)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "ars-atm-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Gyokeres traf NICHT — er gab den Pass-Vorlauf, nicht selbst getroffen; nicht ausgewechselt vor Tor — kein Einwechslungs-Boost-Trigger",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "ars-atm-4",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.25,
+          "kommentar": "Saka traf 44. Min (Rebound nach Trossard-Schuss/Oblak-Parade) — Goldgrube-Markt Torschuetzen Jederzeit (50% Hit, +24% ROI) bestaetigt",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "ars-atm-5",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Nur 1 Tor im Spiel — Ueber 3.5 weit verfehlt; CL-Knock-out-Defensiv-Modus Lesson bestaetigt",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "1:0",
+        "tore": [
+          {
+            "min": 44,
+            "team": "heim",
+            "spieler": "Saka",
+            "stand_danach": "1:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Knappes 1:0 ohne Drehung — Arsenal kontrolliert nach Saka-Tor 44. Min, Atletico kam in 2.HZ kaum gefaehrlich durch."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Arsenal/Arsenal",
+          "kein_team_zu_null": false,
+          "heim_zu_null": true,
+          "gast_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Arsenal-CL-Knock-out-Defensiv-Pattern bestaetigt — letzte 6 CL-Spiele alle Unter 2.5 Tore (jetzt 6/6). Tipp-Routine-Note: Ueber-Tore-Markt bei Arsenal-CL-Heim aktiv DOWNGRADE.",
+          "Goldgrube-Markt Torschuetzen Jederzeit hat erneut geliefert (Saka @ 3.25 — Wackel-Position aber Treffer). 'Form-Top-Stuermer-Tor-Tipp PFLICHT'-Lesson 04.05. funktionierte teilweise: Saka traf, aber Form-Top-Stuermer Gyokeres traf NICHT trotz Vorlage zum Tor.",
+          "Hauptpattern Tipps-Stranger: Gyokeres @ 2.15 (VALUE) als Vorlauf-Geber statt Torschuetze — klassische 'False-9-Form-Edge-Falle'. 1 Tor pro Spiel = nur 1 Stuermer kann treffen, Gyokeres-Saka-Doppel-Tipp war strukturell oft ein Bein zu viel."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-05-det-cle",
+      "liga": "NBA Playoffs Halbfinale Conference, Game 1",
+      "heim": "Detroit Pistons",
+      "gast": "Cleveland Cavaliers",
+      "anstoss": "2026-05-06T01:00:00+02:00",
+      "stadion": "Little Caesars Arena, Detroit",
+      "saison_kontext": {
+        "parallel_heim": "keine - NBA-Playoff Round 2 Best-of-7 startet, einziger Wettbewerb",
+        "parallel_gast": "keine - NBA-Playoff Round 2 Best-of-7 startet, einziger Wettbewerb",
+        "saisonziel_heim": "Round-2-Sieg + Conference Final - erste Playoff-Serie gewonnen seit 2008 (Sweep-Comeback aus 1-3 zurueck vs Magic in G7); Heim-Court-Vorteil weil hoehere Seed",
+        "saisonziel_gast": "Conference-Final + Finals-Run - Cavs Topseed East nach Hauptrunde, kamen aus 5-Spiele-Round-1 vs Raptors (Closeout 114:102 in G7)",
+        "motivations_asymmetrie": "Beide voll motiviert - Pistons heisser nach 18-Jahre-Serien-Sieg-Druck-Abbau, Cunningham 32,4 PPG Round 1 (Franchise-Rekord G5 mit 45 Pkt). Edge fuer Detroit: Heim-Vorteil + Cunningham-Form-Marathon. Aber Round-2-G1 = Adjustment-Phase, nicht G7-Selbstlaeufer.",
+        "recovery_heim": "2 Tage seit G7 vs Magic (Sa 03.05., 116:94-Sieg) - frisch genug, Cunningham + Harris voll dabei",
+        "recovery_gast": "2 Tage seit G7 vs Raptors (Sa 03.05., 114:102-Sieg) - aehnliche Belastung, Mitchell + Garland voll dabei",
+        "quellen": [
+          "https://www.nba.com/news/2026-nba-playoffs-schedule",
+          "https://www.si.com/betting/cavaliers-vs-pistons-opening-odds-for-game-1-detroit-opens-as-slight-favorite",
+          "https://www.fanduel.com/research/pistons-vs-cavaliers-prediction-nba-odds-spread-best-bets-for-eastern-semifinals-5-5-2026",
+          "https://www.basketball-reference.com/playoffs/2026-nba-eastern-conference-first-round-magic-vs-pistons.html"
+        ]
+      },
+      "news": [
+        "Detroit gewann Round 1 4-3 vs Orlando Magic (G7 116:94 Sweep-Comeback aus 1-3 zurueck)",
+        "Cleveland gewann Round 1 4-3 vs Toronto Raptors (G7 114:102 Heim - Spread-Cover bestaetigt G7-Heim-Goldgrube)",
+        "Cunningham Round 1 Schnitt 32,4 PPG (Linie 25,5 = 7 Punkte unter Form-Schnitt) - 45/32/45/32 Pkt-Marathon in den 4 Drama-Spielen",
+        "Mitchell Cleveland Round 1 mit ~26 PPG, kommt frisch aus Closeout - Pistons-Defense (Hardaway/Stewart) wird zentral abdichten",
+        "Total-Linie 214,5 - Pistons Pace zwischen Ranks 12-15, Cleveland Top-10 Defense - Score-Erwartung am unteren Rand",
+        "Lesson 04.05. Heim-Court-G7-Goldgrube confirmed (5/6 Tipps gewonnen) - Round-2-G1 Heim-Faktor uebertraegt sich teilweise"
+      ],
+      "tipps": [
+        {
+          "id": "det-cle-1",
+          "kategorie": "value",
+          "markt": "Sieg Detroit Pistons (Moneyline)",
+          "quote": 1.65,
+          "quote_pinnacle": 1.62,
+          "edge_prozent": 2.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 8.25,
+          "begruendung": "Detroit Heim-Favorit -3,5 (ML 1.65) im Round-2-G1. NBA-Playoff Hebel B (Mapper-Regel 04.05.): kein SAFE moeglich, max VALUE - Sieg/Spread/Total in G1-G4 frei spielbar (Decider-Filter greift erst ab G5). Lesson 04.05. NBA-G7-Heim-Goldgrube +49% ROI bestaetigt - Heim-Court ueberzeugend. Cunningham-Form-Edge (32,4 PPG Round 1) + Sweep-Comeback-Energie + Jubel-Crowd. Cavs frisch aus G7, aber kein Star-Out. Empfohlener Einsatz: 8,25€ (1,5% der 550€-Kasse).",
+          "faire_quote": 1.62
+        },
+        {
+          "id": "det-cle-2",
+          "kategorie": "wackel",
+          "markt": "Ueber 214.5 Punkte (Total)",
+          "quote": 1.91,
+          "quote_pinnacle": 1.91,
+          "edge_prozent": null,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 2.75,
+          "begruendung": "Lesson 02.05. NBA-G6/G7-Closeout-Defensiv-Schlachten widerlegen Star-Eskalation - aber das ist G1, frisches Spiel. Cunningham + Mitchell beide Volume-Stars (32+ und 26 PPG Round 1). Linie 214,5 fair - Wackel weil G1 oft Adjustment-Phase mit Tempo-Reduzierung. Drehungs-Cluster-Filter (HR9) weil 04.05. 3 Drehungen - aber Über-Total ist nicht direkt betroffen. Empfohlener Einsatz: 2,75€ (0,5%).",
+          "faire_quote": 1.91
+        },
+        {
+          "id": "det-cle-3",
+          "kategorie": "wackel",
+          "markt": "Cade Cunningham Mehr als 25.5 Punkte",
+          "quote": 1.85,
+          "quote_pinnacle": 1.82,
+          "edge_prozent": null,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 2.75,
+          "begruendung": "HR7 04.05. NBA-Player-Punkte: Spread <=7,5 Pkt = OK (Spread 3,5 hier passt), Form-Beleg massiv (Round-1-Schnitt 32,4 PPG, 45/32/45/32-Marathon in G5-G7), Linie 25,5 = ~7 Pkt unter Round-1-Schnitt - Markt unterschaetzt. Aber: Cavs-Defense Top-10, G1-Adjustment-Phase, Round-2-First-Game-Varianz - daher max WACKEL nicht VALUE. NBA-Player-Punkte historisch -23% ROI - vorsichtige Position. Empfohlener Einsatz: 2,75€ (0,5%).",
+          "faire_quote": 1.85
+        },
+        {
+          "id": "det-cle-4",
+          "kategorie": "wackel",
+          "markt": "Cade Cunningham Mehr als 30.5 Punkte",
+          "quote": 2.4,
+          "quote_pinnacle": 2.35,
+          "edge_prozent": null,
+          "empfohlener_einsatz_prozent": 0.25,
+          "empfohlener_einsatz_euro": 1.4,
+          "begruendung": "Hoehere Linie als Risiko-Kombi-Bein - Cunningham hatte 45/32/45/32 Pkt in den letzten 4 Round-1-Spielen, also 30,5+ in 4 von 4 Faellen. Aber Cavs-Defense fokussierter als Magic-Defense + G1 oft niedriger als Decider-Tempo. Wackel statt VALUE wegen Round-2-Adjustment-Risk. Empfohlener Einsatz: 1,40€ (0,25%) - Risiko-Kombi-Bein.",
+          "faire_quote": 2.4
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "111:101",
+        "halbzeit": "59:46",
+        "serie": "Pistons fuehrt 1-0 (Best-of-7 Round 2)",
+        "quelle": "ESPN/NBA.com/Athlon"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "det-cle-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.65,
+          "kommentar": "Pistons gewann 111:101 — Heim-Court-Edge bestaetigt; Cunningham 23 + Tobias Harris 18 Pkt + Duncan Robinson 5/8 3PT",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "det-cle-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Final 111+101 = 212 Pkt — Linie 214,5 knapp verfehlt. G1-Adjustment-Phase bestaetigt (Lesson-Hypothese 04.05.)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "det-cle-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Cunningham nur 23 Pkt — unter Linie 25,5. HZ 14 Pkt aber 2.HZ verschlossen (3/10 FG); NBA-Player-Punkte-System-Schwaeche bestaetigt",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "det-cle-4",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Cunningham 23 Pkt — weit unter Linie 30,5; Cavs-Defense fokussierter als Magic-Round-1-Defense — Lesson-Bestaetigung HR7 Player-Punkte-Vorsicht",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "59:46",
+        "endstand": "111:101",
+        "tore": [],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Pistons fuehrte HZ +13 (59:46), Cavs kamen kurz vor 6 Min Q4 auf 93:93 zurueck (Differenz wieder ueberbrueckt). Aber Pistons schlossen 18:8 in den letzten 5:28 — kein klassischer Drehungs-Fall, sondern Comeback-Versuch der Cavs ohne Wende."
+        },
+        "markt_resultate": {
+          "btts": null,
+          "ueber_2_5": null,
+          "ueber_3_5": null,
+          "ueber_213_5": false,
+          "ueber_214_5": false,
+          "halbzeit_endstand": "Pistons/Pistons",
+          "spread_minus_3_5_pistons": true,
+          "kein_team_zu_null": null,
+          "q3_zwischenstand": null
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "NBA-Heim-Court-Edge fuer Round-2-G1 bestaetigt (Lesson 04.05. Heim-G7-Goldgrube uebertrug sich teilweise) — VALUE-Tipp Pistons-ML 1.65 Treffer.",
+          "G1-Adjustment-Phase-Total: 212 Pkt knapp unter 214,5 — bestaetigt Hypothese aus Lesson 04.05. ('G1 oft Adjustment-Phase mit Tempo-Reduzierung'). Tipps-Routine sollte Round-2-G1-Totals naeher am unteren Linien-Rand setzen oder 'Unter' bevorzugen.",
+          "Cunningham 23 Pkt vs Round-1-Schnitt 32,4 = -9,4 Abweichung — Cavs-Defense (Strus/Mitchell-Wechsel-Block) deutlich fokussierter als Magic-Defense. NBA-Player-Punkte-Linien sollten bei Round-2-Wechsel auf staerkeres Defense-Team gegenueber dem Round-1-Wert um -3 bis -5 Pkt korrigiert werden."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-05-okc-lal",
+      "liga": "NBA Playoffs Halbfinale Conference, Game 1",
+      "heim": "Oklahoma City Thunder",
+      "gast": "Los Angeles Lakers",
+      "anstoss": "2026-05-06T02:30:00+02:00",
+      "stadion": "Paycom Center, Oklahoma City",
+      "saison_kontext": {
+        "parallel_heim": "keine - NBA-Playoff Round 2 startet",
+        "parallel_gast": "keine - NBA-Playoff Round 2 startet",
+        "saisonziel_heim": "Round-2-Sieg + NBA-Finals - OKC #1 West Seed nach Hauptrunde, sweepte Phoenix Suns 4-0 in Round 1, SGA voll fit + MVP-Form",
+        "saisonziel_gast": "Round-2-Run als Underdog - Lakers schaltete Houston Rockets in Round 1 (4-3) aus, aber Doncic mit Grade-2-Hamstring-Strain raus fuer Game 1",
+        "motivations_asymmetrie": "OKC massiv ueberlegen: Topseed + Sweep-Form + voll fit. Lakers ohne Doncic = Offense komplett auf LeBron + Reaves konzentriert. Spread -15,5 reflektiert Realitaet, kein Edge-Doppel. Kein Saisonziel-Spiegel-Edge.",
+        "recovery_heim": "10 Tage Pause seit Round-1-Sweep (25.04.) - voll erholt, evtl. Rost-Risiko bei zu langer Pause. Jalen Williams Hamstring-Grad-1 Game-Time-Decision",
+        "recovery_gast": "2 Tage seit G7 vs Houston (Sa 03.05.) - frisch aber dezimiert (Doncic raus, Reaves zurueck nach 9-Spiele-Pause)",
+        "quellen": [
+          "https://www.nba.com/news/2026-nba-playoffs-schedule",
+          "https://www.si.com/betting/lakers-vs-thunder-opening-odds-for-game-1-oklahoma-city-massive-favorites",
+          "https://heavy.com/sports/nba/los-angeles-lakers/luka-doncic-injury-update-return-timeline-thunder-series/",
+          "https://sports.yahoo.com/articles/lakers-announce-luka-doncic-injury-224714480.html"
+        ]
+      },
+      "news": [
+        "Doncic OUT Game 1: Grade-2-linker-Hamstring-Strain, week-to-week-Status, Return frueheste Mitte/Ende der Serie",
+        "OKC -15,5 = einer der hoechsten Round-2-G1-Spreads der NBA-Geschichte - ML -1053 = ~91% implied",
+        "Reaves zurueck nach 9-Spiele-Pause - Comeback-Risiko (Lesson 30.04. Reaves-Comeback-Risiko statt Boost)",
+        "Jalen Williams (OKC) fragwuerdig fuer G1 (Grade-1-Hamstring) - Holmgren + Hartenstein + SGA tragen Last",
+        "OKC-Pace 6.-schnellste in NBA + Lakers ohne Doncic muessen schnell punkten = Total-Linie 213,5 sportlich realistisch",
+        "Lesson 04.05. HR8: Round-2-G1 Spread >=10 = Heim-Sieg ML max VALUE (kleine Quote = wenig Edge), Heim-Spread NIE SAFE/VALUE; HR7 Player-Punkte Spread > 7,5 max wackel"
+      ],
+      "tipps": [
+        {
+          "id": "okc-lal-1",
+          "kategorie": "wackel",
+          "markt": "Shai Gilgeous-Alexander Mehr als 31.5 Punkte",
+          "quote": 1.85,
+          "quote_pinnacle": 1.82,
+          "edge_prozent": null,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 2.75,
+          "begruendung": "HR7 04.05.: NBA-Player-Punkte bei Spread > 7,5 max WACKEL (hier Spread 15,5) - Blowout-Q4-Bank-Risiko. SGA Saison-MVP-Range ~32-34 PPG, Round 1 vs Phoenix knapp drueber. Linie 31,5 fair, Markt-Bias eher Ueber. Aber Lesson 23.04. Underdog-Player-Risiko gilt mirror-image: Heim-Stars verschwinden in Q4 wenn Spiel +25 fuehrt. Empfohlener Einsatz: 2,75€ (0,5% / 550€).",
+          "faire_quote": 1.85
+        },
+        {
+          "id": "okc-lal-2",
+          "kategorie": "wackel",
+          "markt": "Ueber 213.5 Punkte (Total)",
+          "quote": 1.91,
+          "quote_pinnacle": 1.91,
+          "edge_prozent": null,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 2.75,
+          "begruendung": "OKC-Pace Top-6 + Lakers ohne Doncic = mehr Drei-Punkte-Versuche statt Halbfeld-Sets. Gegen Houston G7 hatte LAL nur 93 Pkt - aber das war Defensive-Schlacht. OKC-Tempo bringt Linie hoch, 213,5 unterer Rand. HR9 Drehungs-Cluster-Filter trifft Sieg-Tipps, nicht Total. Wackel weil Lakers-ohne-Doncic-Tempo unklar. Empfohlener Einsatz: 2,75€ (0,5%).",
+          "faire_quote": 1.91
+        },
+        {
+          "id": "okc-lal-3",
+          "kategorie": "wackel",
+          "markt": "Lakers Handicap +10.5 (Auswaerts-Spread)",
+          "quote": 2.3,
+          "quote_pinnacle": 2.25,
+          "edge_prozent": null,
+          "empfohlener_einsatz_prozent": 0.25,
+          "empfohlener_einsatz_euro": 1.4,
+          "begruendung": "Auswaerts-Underdog-Spread bei Spread -15,5 - LeBron + Reaves Resterampe braucht nur 5-Punkte-Buffer zum Cover. Lakers G7 vs Houston gewann 95:93 = LeBron Closing-Mode aktiv. Risiko-Kombi-Bein. NICHT Heim-Spread (HR8 verboten), Auswaerts-Underdog-Spread ist taktisch erlaubt. Empfohlener Einsatz: 1,40€ (0,25%).",
+          "faire_quote": 2.3
+        },
+        {
+          "id": "okc-lal-4",
+          "kategorie": "wackel",
+          "markt": "Sieg Lakers (Auswaerts-Underdog Moneyline)",
+          "quote": 11.0,
+          "quote_pinnacle": 10.5,
+          "edge_prozent": null,
+          "empfohlener_einsatz_prozent": 0.1,
+          "empfohlener_einsatz_euro": 0.55,
+          "begruendung": "Moonshot-Bein. Lakers-Sieg ohne Doncic gegen OKC Heim ist sehr unwahrscheinlich (~9% implied), aber LeBron in Form + OKC nach 10-Tage-Pause Rost-Risiko + J. Williams fraglich. Reine Moonshot-Position. Lesson 30.04. Reaves-Comeback-Risiko dampft Boost-These. Spass-Einsatz: 0,55€ (0,1%).",
+          "faire_quote": 11.0
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "108:90",
+        "halbzeit": "61:53",
+        "q3_ende": "84:72",
+        "serie": "OKC fuehrt 1-0 (Best-of-7 Round 2)",
+        "quelle": "ESPN/NBA.com/SilverScreen&Roll"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "okc-lal-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "SGA nur 18 Pkt — selten unterhalb 31,5; Lakers verteidigte ihn aktiv (3 Pkt fruehe Phase). HR7-Hebel hat richtig auf WACKEL korrigiert (nicht VALUE) — Spread-15,5-Q4-Bank-Risiko traf zu (Holmgren/Hartenstein/Ajay Mitchell uebernahmen)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "okc-lal-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Final 198 Pkt — weit unter 213,5. Lakers-ohne-Doncic-Tempo-Realitaet: 41,7% FG / 33,3% 3PT, 17 TO; OKC-Defense Top-3 bestaetigt",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "okc-lal-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Lakers verlor mit 18 — Spread +10,5 nicht gecovert. LeBron 27 + Reaves Comeback-Risiko bestaetigt (Reaves-Lesson 30.04.). Klassischer Blowout-Spread",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "okc-lal-4",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Lakers 90 vs OKC 108 — kein Underdog-Stunner; Moonshot-Lottoschein verloren wie erwartet",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "61:53",
+        "endstand": "108:90",
+        "tore": [],
+        "drehung": {
+          "war_drehung": false,
+          "details": "OKC fuehrte HZ +8 (61:53), Q3-Ende +12 (84:72), Final +18 (108:90) — kontinuierliche Verbreiterung des Vorsprungs ohne Wende."
+        },
+        "markt_resultate": {
+          "btts": null,
+          "ueber_213_5": false,
+          "halbzeit_endstand": "OKC/OKC",
+          "spread_minus_15_5_okc": true,
+          "spread_plus_10_5_lal": false,
+          "q3_zwischenstand": "84:72"
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Jalen Williams",
+            "details": "OUT (Hamstring-Grad-1, 3. Spiel in Folge) — OKC-Bigs Holmgren/Hartenstein/Ajay Mitchell trugen Last; SGA defensiv hart aufgenommen (LAL-Plan)"
+          },
+          {
+            "team": "gast",
+            "spieler": "Doncic",
+            "details": "OUT (Hamstring-Grad-2) — Offensive komplett auf LeBron/Reaves; Reaves-Comeback-Risiko Lesson 30.04. bestaetigt"
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Star-Out-Asymmetrie 100% durchgespielt: Lakers ohne Doncic = Offense-Ineffizienz (41,7% FG, 17 TO) trotz LeBron-27-Pkt-Anstrengung. Spread -15,5 voll gecovert (OKC -18 Final).",
+          "SGA-Player-Punkte-Markt erstes 'Star-verschwindet-im-Blowout-Q4'-Pattern dieser Saison — Lesson 23.04. (Underdog-Player-Risiko) gilt mirror-image fuer Heim-Stars. HR7-Lesson 04.05. Spread>7,5 max WACKEL hat richtig korrigiert.",
+          "Holmgren 24/12 + Hartenstein-Lob-Connection als Bigs-Goldgrube-Setup — bei naechster OKC-Routine Holmgren-Punkte-Tipp aktiv scannen (statt SGA-only-Fokus)."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "ein-01",
+      "tipp_id": "ars-atm-1",
+      "spiel_id": "2026-05-05-ars-atm",
+      "kurz": "Arsenal vs Atletico Madrid - Doppelte Chance Arsenal/Unentschieden",
+      "quote": 1.2,
+      "kategorie": "safe",
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 11.0,
+      "begruendung": "Goldgrube-Markt DC 1X (84,6% Hit / +9,5% ROI) bei CL-HF-Liga (Hinspiel-Liga +32% ROI). Arsenal Heim 5/6 CL-Heim-Siege, 13 CL-Spiele unbesiegt. Atletico Sturm-/Defensiv-Liste lang.",
+      "rang": 1
+    },
+    {
+      "id": "ein-02",
+      "tipp_id": "ars-atm-2",
+      "spiel_id": "2026-05-05-ars-atm",
+      "kurz": "Arsenal vs Atletico Madrid - Sieg Arsenal",
+      "quote": 1.62,
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Heim-Festungs-Modus + Atletico personell ausgeduennt + bet365-2:0-Insurance (CL erlaubt). Arsenal CL Heim 5/6 Saison.",
+      "rang": 2
+    },
+    {
+      "id": "ein-03",
+      "tipp_id": "ars-atm-3",
+      "spiel_id": "2026-05-05-ars-atm",
+      "kurz": "Arsenal vs Atletico Madrid - Gyokeres trifft jederzeit",
+      "quote": 2.15,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Goldgrube-Markt Torschuetzen Jederzeit (+24,4% ROI). Form: 21 Saison-Tore, Doppelpack vs Fulham, Hinspiel-Tor.",
+      "rang": 3
+    },
+    {
+      "id": "ein-04",
+      "tipp_id": "det-cle-1",
+      "spiel_id": "2026-05-05-det-cle",
+      "kurz": "Detroit Pistons vs Cleveland Cavaliers - Sieg Pistons (Heim G1)",
+      "quote": 1.65,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Round-2-G1 Heim-Court-Edge (Lesson 04.05. NBA-G7-Heim-Goldgrube +49% ROI bestaetigt). Cunningham 32,4 PPG Round-1-Form.",
+      "rang": 4
+    },
+    {
+      "id": "ein-05",
+      "tipp_id": "ars-atm-4",
+      "spiel_id": "2026-05-05-ars-atm",
+      "kurz": "Arsenal vs Atletico Madrid - Saka trifft jederzeit",
+      "quote": 3.25,
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 2.75,
+      "begruendung": "Saka zurueck nach Achilles, traf vs Fulham. bet365-Boost-Setup falls HZ-Auswechslung + direkter Ersatz trifft.",
+      "rang": 5
+    },
+    {
+      "id": "ein-06",
+      "tipp_id": "det-cle-2",
+      "spiel_id": "2026-05-05-det-cle",
+      "kurz": "Detroit Pistons vs Cleveland Cavaliers - Ueber 214.5 Pkt",
+      "quote": 1.91,
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 2.75,
+      "begruendung": "Cunningham + Mitchell beide Volume-Stars. Linie 214,5 fair. G1 manchmal niedrig wegen Adjustment-Phase - daher Wackel.",
+      "rang": 6
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-safe",
+      "name": "Safe-Kombi 3-Bein",
+      "kategorie": "safe",
+      "gesamtquote": 3.78,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 11.0,
+      "potentieller_gewinn_euro": 30.58,
+      "beine": [
+        {
+          "tipp_id": "ars-atm-1",
+          "spiel_id": "2026-05-05-ars-atm",
+          "kurz": "Arsenal DC 1X",
+          "quote": 1.2,
+          "spiel_titel": "Arsenal FC - Atletico Madrid",
+          "markt": "Arsenal FC - Atletico Madrid: Doppelte Chance Arsenal oder Unentschieden (1X)"
+        },
+        {
+          "tipp_id": "det-cle-1",
+          "spiel_id": "2026-05-05-det-cle",
+          "kurz": "Pistons Sieg ML",
+          "quote": 1.65,
+          "spiel_titel": "Detroit Pistons - Cleveland Cavaliers",
+          "markt": "Detroit Pistons - Cleveland Cavaliers: Sieg Detroit Pistons (Moneyline)"
+        },
+        {
+          "tipp_id": "okc-lal-2",
+          "spiel_id": "2026-05-05-okc-lal",
+          "kurz": "Ueber 213.5 Pkt OKC-Lakers",
+          "quote": 1.91,
+          "spiel_titel": "Oklahoma City Thunder - Los Angeles Lakers",
+          "markt": "Oklahoma City Thunder - Los Angeles Lakers: Ueber 213.5 Punkte (Total)"
+        }
+      ],
+      "begruendung": "Drei-Bein Safe: 1 DC (Familie A Goldgrube-Markt) + 1 Sieg (NBA-Heim-Court) + 1 Total - genau 1 reines Sieg-Bein wie Lesson 03.05. fordert. Layer-1: 1 Bein pro Spiel. Layer-2: Sieg-Outcomes nur in Safe. Pinnacle-Hartregel: alle drei mit Pinnacle-Edge >=2%. Empfohlener Einsatz: 11€ (2% der 550€-Kasse)."
+    },
+    {
+      "id": "kombi-balance",
+      "name": "Balance-Kombi 3-Bein",
+      "kategorie": "balance",
+      "gesamtquote": 7.6,
+      "empfohlener_einsatz_prozent": 0.8,
+      "empfohlener_einsatz_euro": 4.4,
+      "potentieller_gewinn_euro": 28.05,
+      "beine": [
+        {
+          "tipp_id": "ars-atm-3",
+          "spiel_id": "2026-05-05-ars-atm",
+          "kurz": "Gyokeres trifft jederzeit",
+          "quote": 2.15,
+          "spiel_titel": "Arsenal FC - Atletico Madrid",
+          "markt": "Arsenal FC - Atletico Madrid: Viktor Gyokeres trifft jederzeit"
+        },
+        {
+          "tipp_id": "det-cle-2",
+          "spiel_id": "2026-05-05-det-cle",
+          "kurz": "Ueber 214.5 Pkt Pistons-Cavs",
+          "quote": 1.91,
+          "spiel_titel": "Detroit Pistons - Cleveland Cavaliers",
+          "markt": "Detroit Pistons - Cleveland Cavaliers: Ueber 214.5 Punkte (Total)"
+        },
+        {
+          "tipp_id": "okc-lal-1",
+          "spiel_id": "2026-05-05-okc-lal",
+          "kurz": "SGA Ueber 31.5 Pkt",
+          "quote": 1.85,
+          "spiel_titel": "Oklahoma City Thunder - Los Angeles Lakers",
+          "markt": "Oklahoma City Thunder - Los Angeles Lakers: Shai Gilgeous-Alexander Mehr als 31.5 Punkte"
+        }
+      ],
+      "begruendung": "Markt-divers: 1 Player-Tor (Familie B) + 1 NBA-Total (Familie C) + 1 NBA-Player-Punkte (Familie E). Layer-2: kein Sieg-Outcome (alle Total/Player/Tor) wie Vorlage Lesson 29.04. Goldgrube-Markt Torschuetzen aktiv gesucht. Empfohlener Einsatz: 4,40€ (0,8% der 550€-Kasse)."
+    },
+    {
+      "id": "kombi-risiko",
+      "name": "Risiko-Kombi 3-Bein",
+      "kategorie": "risk",
+      "gesamtquote": 17.94,
+      "empfohlener_einsatz_prozent": 0.25,
+      "empfohlener_einsatz_euro": 1.4,
+      "potentieller_gewinn_euro": 25.12,
+      "beine": [
+        {
+          "tipp_id": "ars-atm-4",
+          "spiel_id": "2026-05-05-ars-atm",
+          "kurz": "Saka trifft jederzeit",
+          "quote": 3.25,
+          "spiel_titel": "Arsenal FC - Atletico Madrid",
+          "markt": "Arsenal FC - Atletico Madrid: Bukayo Saka trifft jederzeit"
+        },
+        {
+          "tipp_id": "det-cle-4",
+          "spiel_id": "2026-05-05-det-cle",
+          "kurz": "Cunningham Mehr als 30.5 Pkt",
+          "quote": 2.4,
+          "spiel_titel": "Detroit Pistons - Cleveland Cavaliers",
+          "markt": "Detroit Pistons - Cleveland Cavaliers: Cade Cunningham Mehr als 30.5 Punkte"
+        },
+        {
+          "tipp_id": "okc-lal-3",
+          "spiel_id": "2026-05-05-okc-lal",
+          "kurz": "Lakers Handicap +10.5",
+          "quote": 2.3,
+          "spiel_titel": "Oklahoma City Thunder - Los Angeles Lakers",
+          "markt": "Oklahoma City Thunder - Los Angeles Lakers: Lakers Handicap +10.5 (Auswaerts-Spread)"
+        }
+      ],
+      "begruendung": "Hoehere Quoten + diversifiziert: 1 Player-Tor + 1 NBA-Player-Punkte + 1 NBA-Auswaerts-Spread. Saka-Boost-Setup + Cunningham-Form + Lakers-Spread-Buffer. Lesson 01.05. Risiko-Kombi-Erfolgs-Vorlage: 3-4 Beine, perfekte Diversifikation. Empfohlener Einsatz: 1,40€ (0,25% der 550€-Kasse)."
+    },
+    {
+      "id": "kombi-moonshot",
+      "name": "Moonshot-Kombi 3-Bein",
+      "kategorie": "moonshot",
+      "gesamtquote": 275.0,
+      "empfohlener_einsatz_prozent": 0.1,
+      "empfohlener_einsatz_euro": 0.55,
+      "potentieller_gewinn_euro": 150.7,
+      "beine": [
+        {
+          "tipp_id": "ars-atm-5",
+          "spiel_id": "2026-05-05-ars-atm",
+          "kurz": "Ueber 3.5 Tore Arsenal-Atletico",
+          "quote": 5.0,
+          "spiel_titel": "Arsenal FC - Atletico Madrid",
+          "markt": "Arsenal FC - Atletico Madrid: Ueber 3.5 Tore"
+        },
+        {
+          "tipp_id": "okc-lal-4",
+          "spiel_id": "2026-05-05-okc-lal",
+          "kurz": "Lakers Sieg Auswaerts (Underdog)",
+          "quote": 11.0,
+          "spiel_titel": "Oklahoma City Thunder - Los Angeles Lakers",
+          "markt": "Oklahoma City Thunder - Los Angeles Lakers: Sieg Lakers (Auswaerts-Underdog Moneyline)"
+        },
+        {
+          "tipp_id": "det-cle-3",
+          "spiel_id": "2026-05-05-det-cle",
+          "kurz": "Cunningham Ueber 25.5 Pkt",
+          "quote": 1.85,
+          "spiel_titel": "Detroit Pistons - Cleveland Cavaliers",
+          "markt": "Detroit Pistons - Cleveland Cavaliers: Cade Cunningham Mehr als 25.5 Punkte"
+        }
+      ],
+      "begruendung": "Lottoschein - alle drei Spiele eine ungewoehnliche Wendung gleichzeitig: CL-Tor-Festival + NBA-Underdog-Stunner + Cunningham-Volume-Marathon. Empfohlener Einsatz: 0,55€ (0,1% der 550€-Kasse) - reiner Spasseinsatz."
+    }
+  ],
+  "lessons_angewandt": [
+    {
+      "lesson_datum": "2026-05-04",
+      "kategorie": "PFLICHT-PROFILE pro Spiel: Backup-Spieler + Form-Edge (Hebel-MIX 04.05.)",
+      "anwendung": "Bei Heim-Sieg-Quote <1,80 Torschuetzen-Tipp PFLICHT - Arsenal-Atletico Heim-Quote 1,62 -> Gyokeres jederzeit @ 2.15 als VALUE gesetzt, Saka jederzeit @ 3.25 als WACKEL-Backup mit Boost-Setup. Bei NBA Heim-Favorit Pistons Heim-Quote 1,65 -> Cunningham 25,5+ und 30,5+ Pkt als Wackel-Tipps."
+    },
+    {
+      "lesson_datum": "2026-05-04",
+      "kategorie": "Markt-Mix-Pflicht pro Spiel: Mapper-Hebel M",
+      "anwendung": "Pro Spiel max 1 DC + min 1 Sieg-/Torschuetzen-Tipp. Arsenal-Atletico hat DC 1X (1) + Sieg (1) + 2 Torschuetzen (Gyokeres + Saka) + Total - kein Defensiv-Cluster. Cavs-Pist hat ML + Total + Player-Punkte. OKC-Lak hat Total + Player + Spread + Underdog-Sieg."
+    },
+    {
+      "lesson_datum": "2026-05-04",
+      "kategorie": "HR8: NBA Round-2-G1 Spread-Cap bei extremen Spreads",
+      "anwendung": "OKC-Lakers Spread 15,5 = HR8-Trigger: OKC Heim-Sieg-ML max VALUE (Quote 1,10 ist zu klein fuer Edge - daher kein Tipp), Heim-Spread NIE - daher kein Spread-Tipp auf OKC, Spielausgang nur Lakers-Auswaerts-Spread und Lakers-Underdog-ML als Moonshot."
+    },
+    {
+      "lesson_datum": "2026-05-04",
+      "kategorie": "HR9: Drehungs-Cluster-Tag-Filter (Quelle 8f)",
+      "anwendung": "04.05. waren 3 Drehungen am Tag - Filter aktiv bis 07.05.: Sieg-Tipps mit Quote <=1,55 + Spread >=10 von SAFE/VALUE auf wackel. OKC-ML 1,10 + Spread 15,5 wuerde Filter triggern - daher KEIN OKC-Sieg-Tipp gesetzt. Arsenal Sieg @ 1,62 (>1,55) bleibt VALUE."
+    },
+    {
+      "lesson_datum": "2026-05-04",
+      "kategorie": "HR7: NBA Player-Punkte mit Verletzungs-Realismus + Spread-Cap",
+      "anwendung": "SGA Ueber 31,5 @ Spread 15,5 = max WACKEL gesetzt (nicht VALUE) wegen Blowout-Q4-Bank-Risiko. Cunningham Ueber 25,5 + 30,5 @ Spread 3,5 normal-grenzwertig - WACKEL gesetzt wegen NBA-Player-Punkte-System-ROI -23%."
+    },
+    {
+      "lesson_datum": "2026-05-04",
+      "kategorie": "Saison-Kontext-Sanity: Mapper-Hebel S",
+      "anwendung": "Beide Football-Teams Arsenal/Atletico voll motiviert + Heim-Edge klar - kein Komfort-Pattern in saison_kontext. Cavs-Pist beide frisch aus G7 - keine Asymmetrie. OKC-Lak: massive Star-Out-Asymmetrie (Doncic raus) aber durch Spread 15,5 schon eingepreist - kein zusaetzlicher Edge."
+    },
+    {
+      "lesson_datum": "2026-05-03",
+      "kategorie": "Safe-Kombi-Konstruktion: Sieg-Bein-Limit (Layer-3-Verschaerfung)",
+      "anwendung": "Safe-Kombi 3-Bein: 1 DC + 1 reiner Sieg + 1 Total - genau die Vorlage aus Lesson 03.05.. Pistons ML als reines Sieg-Bein, Arsenal DC 1X als DC-Bein, OKC-Lak Ueber 213,5 als Total."
+    },
+    {
+      "lesson_datum": "2026-05-04",
+      "kategorie": "NBA-G7-Heim-Court-Edge bestaetigt (5/6 Tipps + Heim-Spread-Cover)",
+      "anwendung": "Pistons Heim-G7 +22 Punkte Spread-Cover am 03.05. = Heim-Court-Goldgrube. Round-2-G1 uebertraegt Heim-Edge nur teilweise (Adjustment-Phase) - daher Pistons-ML als VALUE nicht SAFE."
+    }
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "einzeltipps_ergebnis": [
+    {
+      "id": "ein-01",
+      "tipp_id": "ars-atm-1",
+      "spiel_id": "2026-05-05-ars-atm",
+      "kurz": "Arsenal vs Atletico Madrid - Doppelte Chance Arsenal/Unentschieden",
+      "quote": 1.2,
+      "kategorie": "safe",
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 11.0,
+      "begruendung": "Goldgrube-Markt DC 1X (84,6% Hit / +9,5% ROI) bei CL-HF-Liga (Hinspiel-Liga +32% ROI). Arsenal Heim 5/6 CL-Heim-Siege, 13 CL-Spiele unbesiegt. Atletico Sturm-/Defensiv-Liste lang.",
+      "rang": 1,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.2,
+      "kommentar": "Arsenal 1:0 — DC 1X erfuellt"
+    },
+    {
+      "id": "ein-02",
+      "tipp_id": "ars-atm-2",
+      "spiel_id": "2026-05-05-ars-atm",
+      "kurz": "Arsenal vs Atletico Madrid - Sieg Arsenal",
+      "quote": 1.62,
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Heim-Festungs-Modus + Atletico personell ausgeduennt + bet365-2:0-Insurance (CL erlaubt). Arsenal CL Heim 5/6 Saison.",
+      "rang": 2,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.62,
+      "kommentar": "Arsenal 1:0 — Sieg-Tipp direkt erfuellt (kein 2:0-Insurance noetig)"
+    },
+    {
+      "id": "ein-03",
+      "tipp_id": "ars-atm-3",
+      "spiel_id": "2026-05-05-ars-atm",
+      "kurz": "Arsenal vs Atletico Madrid - Gyokeres trifft jederzeit",
+      "quote": 2.15,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Goldgrube-Markt Torschuetzen Jederzeit (+24,4% ROI). Form: 21 Saison-Tore, Doppelpack vs Fulham, Hinspiel-Tor.",
+      "rang": 3,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Gyokeres traf NICHT — er gab den Pass-Vorlauf, nicht selbst getroffen; nicht ausgewechselt vor Tor — kein Einwechslungs-Boost-Trigger"
+    },
+    {
+      "id": "ein-04",
+      "tipp_id": "det-cle-1",
+      "spiel_id": "2026-05-05-det-cle",
+      "kurz": "Detroit Pistons vs Cleveland Cavaliers - Sieg Pistons (Heim G1)",
+      "quote": 1.65,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Round-2-G1 Heim-Court-Edge (Lesson 04.05. NBA-G7-Heim-Goldgrube +49% ROI bestaetigt). Cunningham 32,4 PPG Round-1-Form.",
+      "rang": 4,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.65,
+      "kommentar": "Pistons gewann 111:101 — Heim-Court-Edge bestaetigt; Cunningham 23 + Tobias Harris 18 Pkt + Duncan Robinson 5/8 3PT"
+    },
+    {
+      "id": "ein-05",
+      "tipp_id": "ars-atm-4",
+      "spiel_id": "2026-05-05-ars-atm",
+      "kurz": "Arsenal vs Atletico Madrid - Saka trifft jederzeit",
+      "quote": 3.25,
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 2.75,
+      "begruendung": "Saka zurueck nach Achilles, traf vs Fulham. bet365-Boost-Setup falls HZ-Auswechslung + direkter Ersatz trifft.",
+      "rang": 5,
+      "status": "gewonnen",
+      "gewinn_faktor": 2.25,
+      "kommentar": "Saka traf 44. Min (Rebound nach Trossard-Schuss/Oblak-Parade) — Goldgrube-Markt Torschuetzen Jederzeit (50% Hit, +24% ROI) bestaetigt"
+    },
+    {
+      "id": "ein-06",
+      "tipp_id": "det-cle-2",
+      "spiel_id": "2026-05-05-det-cle",
+      "kurz": "Detroit Pistons vs Cleveland Cavaliers - Ueber 214.5 Pkt",
+      "quote": 1.91,
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 2.75,
+      "begruendung": "Cunningham + Mitchell beide Volume-Stars. Linie 214,5 fair. G1 manchmal niedrig wegen Adjustment-Phase - daher Wackel.",
+      "rang": 6,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Final 111+101 = 212 Pkt — Linie 214,5 knapp verfehlt. G1-Adjustment-Phase bestaetigt (Lesson-Hypothese 04.05.)"
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "kombi-safe",
+      "status": "verloren",
+      "gesamtquote": 3.78
+    },
+    {
+      "kombi_id": "kombi-balance",
+      "status": "verloren",
+      "gesamtquote": 7.6
+    },
+    {
+      "kombi_id": "kombi-risiko",
+      "status": "verloren",
+      "gesamtquote": 17.94
+    },
+    {
+      "kombi_id": "kombi-moonshot",
+      "status": "verloren",
+      "gesamtquote": 275.0
+    }
+  ],
+  "ausgewertet_am": "2026-05-06T06:11:51.896333+00:00"
+}

@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-05-05T06:10:47+00:00",
+  "letzte_berechnung": "2026-05-06T06:13:33+00:00",
   "gesamt": {
-    "tipps": 137,
-    "gewonnen": 82,
-    "verloren": 55,
+    "tipps": 143,
+    "gewonnen": 86,
+    "verloren": 57,
     "push": 0,
     "offen": 0,
-    "einsatz": 137.0,
-    "netto": -4.87,
-    "trefferquote": 59.9,
-    "roi_prozent": -3.6
+    "einsatz": 143.0,
+    "netto": -3.15,
+    "trefferquote": 60.1,
+    "roi_prozent": -2.2
   },
   "letzte_30_tage": {
-    "tipps": 137,
-    "gewonnen": 82,
-    "verloren": 55,
+    "tipps": 143,
+    "gewonnen": 86,
+    "verloren": 57,
     "push": 0,
     "offen": 0,
-    "einsatz": 137.0,
-    "netto": -4.87,
-    "trefferquote": 59.9,
-    "roi_prozent": -3.6
+    "einsatz": 143.0,
+    "netto": -3.15,
+    "trefferquote": 60.1,
+    "roi_prozent": -2.2
   },
   "letzte_90_tage": {
-    "tipps": 137,
-    "gewonnen": 82,
-    "verloren": 55,
+    "tipps": 143,
+    "gewonnen": 86,
+    "verloren": 57,
     "push": 0,
     "offen": 0,
-    "einsatz": 137.0,
-    "netto": -4.87,
-    "trefferquote": 59.9,
-    "roi_prozent": -3.6
+    "einsatz": 143.0,
+    "netto": -3.15,
+    "trefferquote": 60.1,
+    "roi_prozent": -2.2
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -243,6 +243,28 @@ window.__MIESMUSCHEL_STAT = {
       "netto": -3.19,
       "trefferquote": 28.6,
       "roi_prozent": -45.6
+    },
+    "Champions League Halbfinale Rueckspiel": {
+      "tipps": 4,
+      "gewonnen": 3,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 4.0,
+      "netto": 2.07,
+      "trefferquote": 75.0,
+      "roi_prozent": 51.8
+    },
+    "NBA Playoffs Halbfinale Conference, Game 1": {
+      "tipps": 2,
+      "gewonnen": 1,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": -0.35,
+      "trefferquote": 50.0,
+      "roi_prozent": -17.5
     }
   },
   "nach_markt": {
@@ -1554,19 +1576,85 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.65,
       "trefferquote": 100.0,
       "roi_prozent": 65.0
+    },
+    "Doppelte Chance Arsenal oder Unentschieden (1X)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.2,
+      "trefferquote": 100.0,
+      "roi_prozent": 20.0
+    },
+    "Sieg Arsenal (1)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.62,
+      "trefferquote": 100.0,
+      "roi_prozent": 62.0
+    },
+    "Viktor Gyokeres trifft jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Sieg Detroit Pistons (Moneyline)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.65,
+      "trefferquote": 100.0,
+      "roi_prozent": 65.0
+    },
+    "Bukayo Saka trifft jederzeit": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 2.25,
+      "trefferquote": 100.0,
+      "roi_prozent": 225.0
+    },
+    "Ueber 214.5 Punkte (Total)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
     }
   },
   "nach_markt_typ": {
     "Spieler-Punkte Ueber (NBA)": {
-      "tipps": 11,
+      "tipps": 12,
       "gewonnen": 6,
-      "verloren": 5,
+      "verloren": 6,
       "push": 0,
       "offen": 0,
-      "einsatz": 11.0,
-      "netto": 0.07,
-      "trefferquote": 54.5,
-      "roi_prozent": 0.6
+      "einsatz": 12.0,
+      "netto": -0.93,
+      "trefferquote": 50.0,
+      "roi_prozent": -7.8
     },
     "Spieler-Punkte Unter (NBA)": {
       "tipps": 5,
@@ -1602,26 +1690,26 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 55.0
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 47,
-      "gewonnen": 27,
+      "tipps": 49,
+      "gewonnen": 29,
       "verloren": 20,
       "push": 0,
       "offen": 0,
-      "einsatz": 47.0,
-      "netto": -3.78,
-      "trefferquote": 57.4,
-      "roi_prozent": -8.0
+      "einsatz": 49.0,
+      "netto": -2.51,
+      "trefferquote": 59.2,
+      "roi_prozent": -5.1
     },
     "Torschuetzen Jederzeit": {
-      "tipps": 8,
-      "gewonnen": 4,
-      "verloren": 4,
+      "tipps": 10,
+      "gewonnen": 5,
+      "verloren": 5,
       "push": 0,
       "offen": 0,
-      "einsatz": 8.0,
-      "netto": 1.95,
+      "einsatz": 10.0,
+      "netto": 3.2,
       "trefferquote": 50.0,
-      "roi_prozent": 24.4
+      "roi_prozent": 32.0
     },
     "Unter 2.5 Tore": {
       "tipps": 7,
@@ -1635,15 +1723,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 9.3
     },
     "Doppelte Chance 1X": {
-      "tipps": 13,
-      "gewonnen": 11,
+      "tipps": 14,
+      "gewonnen": 12,
       "verloren": 2,
       "push": 0,
       "offen": 0,
-      "einsatz": 13.0,
-      "netto": 1.24,
-      "trefferquote": 84.6,
-      "roi_prozent": 9.5
+      "einsatz": 14.0,
+      "netto": 1.44,
+      "trefferquote": 85.7,
+      "roi_prozent": 10.3
     },
     "Doppelte Chance X2": {
       "tipps": 9,
@@ -1912,83 +2000,83 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 63,
-      "gewonnen": 32,
-      "verloren": 31,
+      "tipps": 66,
+      "gewonnen": 34,
+      "verloren": 32,
       "push": 0,
       "offen": 0,
-      "einsatz": 63.0,
-      "netto": -5.94,
-      "trefferquote": 50.8,
-      "roi_prozent": -9.4
+      "einsatz": 66.0,
+      "netto": -5.67,
+      "trefferquote": 51.5,
+      "roi_prozent": -8.6
     },
     "2.00-3.00": {
-      "tipps": 15,
+      "tipps": 16,
       "gewonnen": 8,
-      "verloren": 7,
+      "verloren": 8,
       "push": 0,
       "offen": 0,
-      "einsatz": 15.0,
-      "netto": 3.33,
-      "trefferquote": 53.3,
-      "roi_prozent": 22.2
+      "einsatz": 16.0,
+      "netto": 2.33,
+      "trefferquote": 50.0,
+      "roi_prozent": 14.6
     },
     "1.00-1.50": {
-      "tipps": 56,
-      "gewonnen": 41,
+      "tipps": 57,
+      "gewonnen": 42,
       "verloren": 15,
       "push": 0,
       "offen": 0,
-      "einsatz": 56.0,
-      "netto": -2.46,
-      "trefferquote": 73.2,
-      "roi_prozent": -4.4
+      "einsatz": 57.0,
+      "netto": -2.26,
+      "trefferquote": 73.7,
+      "roi_prozent": -4.0
     },
     "3.00+": {
-      "tipps": 3,
-      "gewonnen": 1,
+      "tipps": 4,
+      "gewonnen": 2,
       "verloren": 2,
       "push": 0,
       "offen": 0,
-      "einsatz": 3.0,
-      "netto": 0.2,
-      "trefferquote": 33.3,
-      "roi_prozent": 6.7
+      "einsatz": 4.0,
+      "netto": 2.45,
+      "trefferquote": 50.0,
+      "roi_prozent": 61.3
     }
   },
   "nach_kategorie": {
     "safe": {
-      "tipps": 52,
-      "gewonnen": 37,
+      "tipps": 53,
+      "gewonnen": 38,
       "verloren": 15,
       "push": 0,
       "offen": 0,
-      "einsatz": 52.0,
-      "netto": -2.46,
-      "trefferquote": 71.2,
-      "roi_prozent": -4.7
+      "einsatz": 53.0,
+      "netto": -2.26,
+      "trefferquote": 71.7,
+      "roi_prozent": -4.3
     },
     "value": {
-      "tipps": 78,
-      "gewonnen": 42,
-      "verloren": 36,
+      "tipps": 80,
+      "gewonnen": 43,
+      "verloren": 37,
       "push": 0,
       "offen": 0,
-      "einsatz": 78.0,
-      "netto": -1.06,
+      "einsatz": 80.0,
+      "netto": -1.41,
       "trefferquote": 53.8,
-      "roi_prozent": -1.4
+      "roi_prozent": -1.8
     },
     "wackel": {
-      "tipps": 7,
-      "gewonnen": 3,
-      "verloren": 4,
+      "tipps": 10,
+      "gewonnen": 5,
+      "verloren": 5,
       "push": 0,
       "offen": 0,
-      "einsatz": 7.0,
-      "netto": -1.35,
-      "trefferquote": 42.9,
-      "roi_prozent": -19.3
+      "einsatz": 10.0,
+      "netto": 0.52,
+      "trefferquote": 50.0,
+      "roi_prozent": 5.2
     }
   },
   "clv_gesamt": {
@@ -2008,6 +2096,198 @@ window.__MIESMUSCHEL_STAT = {
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-05-05",
+      "gesamt": {
+        "tipps": 6,
+        "gewonnen": 4,
+        "verloren": 2,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 6.0,
+        "netto": 1.72,
+        "trefferquote": 66.7,
+        "roi_prozent": 28.7
+      },
+      "spiele": [
+        {
+          "id": "2026-05-05-ars-atm",
+          "liga": "Champions League Halbfinale Rueckspiel",
+          "heim": "Arsenal FC",
+          "gast": "Atletico Madrid",
+          "endstand": "1:0",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance Arsenal oder Unentschieden (1X)",
+              "quote": 1.2,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.2,
+              "kommentar": "Arsenal 1:0 — DC 1X erfuellt"
+            },
+            {
+              "markt": "Sieg Arsenal (1)",
+              "quote": 1.62,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.62,
+              "kommentar": "Arsenal 1:0 — Sieg-Tipp direkt erfuellt (kein 2:0-Insurance noetig)"
+            },
+            {
+              "markt": "Viktor Gyokeres trifft jederzeit",
+              "quote": 2.15,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Gyokeres traf NICHT — er gab den Pass-Vorlauf, nicht selbst getroffen; nicht ausgewechselt vor Tor — kein Einwechslungs-Boost-Trigger"
+            },
+            {
+              "markt": "Bukayo Saka trifft jederzeit",
+              "quote": 3.25,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 2.25,
+              "kommentar": "Saka traf 44. Min (Rebound nach Trossard-Schuss/Oblak-Parade) — Goldgrube-Markt Torschuetzen Jederzeit (50% Hit, +24% ROI) bestaetigt"
+            }
+          ]
+        },
+        {
+          "id": "2026-05-05-det-cle",
+          "liga": "NBA Playoffs Halbfinale Conference, Game 1",
+          "heim": "Detroit Pistons",
+          "gast": "Cleveland Cavaliers",
+          "endstand": "111:101",
+          "tipps": [
+            {
+              "markt": "Sieg Detroit Pistons (Moneyline)",
+              "quote": 1.65,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.65,
+              "kommentar": "Pistons gewann 111:101 — Heim-Court-Edge bestaetigt; Cunningham 23 + Tobias Harris 18 Pkt + Duncan Robinson 5/8 3PT"
+            },
+            {
+              "markt": "Ueber 214.5 Punkte (Total)",
+              "quote": 1.91,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Final 111+101 = 212 Pkt — Linie 214,5 knapp verfehlt. G1-Adjustment-Phase bestaetigt (Lesson-Hypothese 04.05.)"
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi 3-Bein",
+          "kategorie": "safe",
+          "gesamtquote": 3.78,
+          "einsatz_prozent": 2.0,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Arsenal FC - Atletico Madrid: Doppelte Chance Arsenal oder Unentschieden (1X)",
+              "quote": 1.2,
+              "status": "gewonnen",
+              "kommentar": "Arsenal 1:0 — DC 1X erfuellt"
+            },
+            {
+              "markt": "Detroit Pistons - Cleveland Cavaliers: Sieg Detroit Pistons (Moneyline)",
+              "quote": 1.65,
+              "status": "gewonnen",
+              "kommentar": "Pistons gewann 111:101 — Heim-Court-Edge bestaetigt; Cunningham 23 + Tobias Harris 18 Pkt + Duncan Robinson 5/8 3PT"
+            },
+            {
+              "markt": "Oklahoma City Thunder - Los Angeles Lakers: Ueber 213.5 Punkte (Total)",
+              "quote": 1.91,
+              "status": "verloren",
+              "kommentar": "Final 198 Pkt — weit unter 213,5. Lakers-ohne-Doncic-Tempo-Realitaet: 41,7% FG / 33,3% 3PT, 17 TO; OKC-Defense Top-3 bestaetigt"
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi 3-Bein",
+          "kategorie": "balance",
+          "gesamtquote": 7.6,
+          "einsatz_prozent": 0.8,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Arsenal FC - Atletico Madrid: Viktor Gyokeres trifft jederzeit",
+              "quote": 2.15,
+              "status": "verloren",
+              "kommentar": "Gyokeres traf NICHT — er gab den Pass-Vorlauf, nicht selbst getroffen; nicht ausgewechselt vor Tor — kein Einwechslungs-Boost-Trigger"
+            },
+            {
+              "markt": "Detroit Pistons - Cleveland Cavaliers: Ueber 214.5 Punkte (Total)",
+              "quote": 1.91,
+              "status": "verloren",
+              "kommentar": "Final 111+101 = 212 Pkt — Linie 214,5 knapp verfehlt. G1-Adjustment-Phase bestaetigt (Lesson-Hypothese 04.05.)"
+            },
+            {
+              "markt": "Oklahoma City Thunder - Los Angeles Lakers: Shai Gilgeous-Alexander Mehr als 31.5 Punkte",
+              "quote": 1.85,
+              "status": "verloren",
+              "kommentar": "SGA nur 18 Pkt — selten unterhalb 31,5; Lakers verteidigte ihn aktiv (3 Pkt fruehe Phase). HR7-Hebel hat richtig auf WACKEL korrigiert (nicht VALUE) — Spread-15,5-Q4-Bank-Risiko traf zu (Holmgren/Hartenstein/Ajay Mitchell uebernahmen)"
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi 3-Bein",
+          "kategorie": "risk",
+          "gesamtquote": 17.94,
+          "einsatz_prozent": 0.25,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Arsenal FC - Atletico Madrid: Bukayo Saka trifft jederzeit",
+              "quote": 3.25,
+              "status": "gewonnen",
+              "kommentar": "Saka traf 44. Min (Rebound nach Trossard-Schuss/Oblak-Parade) — Goldgrube-Markt Torschuetzen Jederzeit (50% Hit, +24% ROI) bestaetigt"
+            },
+            {
+              "markt": "Detroit Pistons - Cleveland Cavaliers: Cade Cunningham Mehr als 30.5 Punkte",
+              "quote": 2.4,
+              "status": "verloren",
+              "kommentar": "Cunningham 23 Pkt — weit unter Linie 30,5; Cavs-Defense fokussierter als Magic-Round-1-Defense — Lesson-Bestaetigung HR7 Player-Punkte-Vorsicht"
+            },
+            {
+              "markt": "Oklahoma City Thunder - Los Angeles Lakers: Lakers Handicap +10.5 (Auswaerts-Spread)",
+              "quote": 2.3,
+              "status": "verloren",
+              "kommentar": "Lakers verlor mit 18 — Spread +10,5 nicht gecovert. LeBron 27 + Reaves Comeback-Risiko bestaetigt (Reaves-Lesson 30.04.). Klassischer Blowout-Spread"
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi 3-Bein",
+          "kategorie": "moonshot",
+          "gesamtquote": 275.0,
+          "einsatz_prozent": 0.1,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Arsenal FC - Atletico Madrid: Ueber 3.5 Tore",
+              "quote": 5.0,
+              "status": "verloren",
+              "kommentar": "Nur 1 Tor im Spiel — Ueber 3.5 weit verfehlt; CL-Knock-out-Defensiv-Modus Lesson bestaetigt"
+            },
+            {
+              "markt": "Oklahoma City Thunder - Los Angeles Lakers: Sieg Lakers (Auswaerts-Underdog Moneyline)",
+              "quote": 11.0,
+              "status": "verloren",
+              "kommentar": "Lakers 90 vs OKC 108 — kein Underdog-Stunner; Moonshot-Lottoschein verloren wie erwartet"
+            },
+            {
+              "markt": "Detroit Pistons - Cleveland Cavaliers: Cade Cunningham Mehr als 25.5 Punkte",
+              "quote": 1.85,
+              "status": "verloren",
+              "kommentar": "Cunningham nur 23 Pkt — unter Linie 25,5. HZ 14 Pkt aber 2.HZ verschlossen (3/10 FG); NBA-Player-Punkte-System-Schwaeche bestaetigt"
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-05-04",
       "gesamt": {

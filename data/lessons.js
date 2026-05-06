@@ -411,6 +411,30 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "HR12: Joker-Stuermer-Profil bei Klassenerhalts-Heim-Spielen (Quelle 8i)",
       "lesson": "EMPIRIE 04.05. Sevilla-Sociedad (volle_analyse einwechslungs_tor_highlights[]): Alexis Sanchez (37J, etablierter Joker) kam HZ-Pause rein, schoss 50. Min das einzige Tor zum 1:0-Klassenerhalts-Sieg fuer Sevilla. Tipps-Routine hatte Torschuetzen-Tipp auf OYARZABAL (Sociedad-Auswaerts) gesetzt - kein Sevilla-Spieler. Joker-Trigger AKTIV ohne Tipp drauf - genau das Pattern Lesson 8i. HARTREGEL validate_joker_profile(): Bei Klassenerhalts-Heim-Spielen (Heim-Klub Abstiegszone bzw <=2 Punkte ueber Strich, MUSS-Sieg) wenn Kader etablierten Joker-Stuermer hat (z.B. Sanchez bei Sevilla, Pellegri-Profil bei Empoli, Choupo-Moting-Profil bei Bayern, Origi-Profil) -> AUTO-Torschuetzen-Tipp Joker-Spieler Quote >=4.0 als wackel mit 0.25% Stake. Pflichtfeld im saison_kontext: 'joker_profile_heim'/'joker_profile_gast' (Spieler-Name + Saisontore + erwartete Bookies-Quote). Wenn n>=3 Joker-Tipps zukuenftig getrackt -> Markt-Aggregat 'Klassenerhalt-Joker' eigenes Bilanz-Aggregat in statistik.json.",
       "bezug_spiel_id": "2026-05-04-sev-rso"
+    },
+    {
+      "datum": "2026-05-05",
+      "kategorie": "HR13: NBA Round-2-G1 Total-Adjustment-Phase (Quelle 8g — Markt-Pattern aus volle_analyse)",
+      "lesson": "EMPIRIE 05.05. (volle_analyse markt_resultate[]): Beide Round-2-G1-Spiele klar UNTER der Markt-Erwartung. Pistons-Cavs Final 212 Pkt vs Linie 214,5 (knapp unter, war Tipp 'Ueber 214,5' VERLOREN). OKC-Lakers Final 198 Pkt vs Linie 213,5 (-15,5 Pkt unter, war Tipp 'Ueber 213,5' im kombi-safe VERLOREN — Killer-Bein). Pattern: G1-Adjustment-Phase mit Defense-Fokus dampft Pace systematisch. HARTREGEL: Bei NBA-Round-2-G1 (also Best-of-7-Auftakt nach Round-1) Total-Tipps NUR auf 'Unter' als VALUE moeglich, 'Ueber' wird auf max wackel degradiert. Mapper-Hebel B-Erweiterung: round_2_g1_total_only_under(). Wenn n>=3 Round-2-G1-Total-Tipps getrackt -> eigenes Bilanz-Aggregat 'NBA-G1-Total' fuer Anpassungs-Empirie.",
+      "bezug_spiel_id": "2026-05-05-okc-lal"
+    },
+    {
+      "datum": "2026-05-05",
+      "kategorie": "HR14: Korrelations-Klumpung Star-Out-Spiel ueber mehrere Kombis (Quelle 8a — Korrelations-Analyse)",
+      "lesson": "EMPIRIE 05.05.: Alle 4 Kombis verloren — Klumpung im OKC-Lakers-G1-Spiel (Doncic-OUT, Spread 15,5). kombi-safe-Kill-Bein war 'Ueber 213,5' (verloren), kombi-balance-Kill-Bein war 'SGA Ueber 31,5' (verloren), kombi-risiko enthielt 'Lakers +10,5 Spread' (verloren). 3 von 4 Kombis hatten ein OKC-Lakers-Bein, davon 3 verloren — das Star-Out-Spiel hat keine Total/Player/Spread-Stabilitaet (Blowout-Realitaet). HARTREGEL: Bei Spielen mit Star-Out-Asymmetrie (Quote-impliziter Spread >= 15) maximal 1 Kombi-Bein aus dem Spiel ueber alle Kombis hinweg setzen — sonst Klumpungs-Risiko. Mapper-Hebel V (Variance-Cluster): pruefe pro Spiel die Anzahl Kombi-Beine, wenn >=2 Kombis ein Bein im selben Star-Out-Spiel haben -> ein Bein ersetzen mit Bein aus diversifiziertem Markt.",
+      "bezug_spiel_id": "2026-05-05-okc-lal"
+    },
+    {
+      "datum": "2026-05-05",
+      "kategorie": "HR15: Arsenal-CL-Heim-Defensiv-Mauer Goldgrube 'Unter 2.5' (Quelle 8g — markt_resultate ueber Spiel-Reihe)",
+      "lesson": "EMPIRIE 05.05. + 7 vorherige CL-Spiele: Arsenal hat nun 6/6 letzte CL-Heimspiele Unter 2.5 (5/6 zu null, 5/6 Heim-Sieg + 1 1:0 heute). Pattern volle_analyse markt_resultate[] zeigt Arsenal-CL-Heim als Defensiv-Goldgrube. Tipps-Routine hatte heute 'Ueber 3.5 Tore' @ 5.0 als Moonshot gesetzt (verloren) — strukturell falsch fuer Arsenal-CL-Heim-Pattern. HARTREGEL: Bei naechstem Arsenal-CL-Heimspiel (CL-Finale 30.05. wenn Heim-Status, ggf. ab CL-Saison 26/27) 'Unter 2.5 Tore' als VALUE/SAFE-Goldgrube setzen + 'Ueber X' Markt komplett DOWNGRADE. Allgemein: bei Klubs mit dokumentiertem 'Wettbewerbs-spezifisches-Defensiv-Pattern' (n>=5 Spiele Unter X im selben Wettbewerb) MUSS Tipps-Routine das in saison_kontext-Block 'wettbewerbs_pattern' ausweisen + Mapper triggert auto-DOWNGRADE Ueber-Tipps.",
+      "bezug_spiel_id": "2026-05-05-ars-atm"
+    },
+    {
+      "datum": "2026-05-05",
+      "kategorie": "HR16: NBA-Player-Punkte Round-Wechsel-Defensiv-Korrektur (Quelle 8c — Markt-Bilanz-Cluster)",
+      "lesson": "EMPIRIE 05.05.: 3/3 NBA-Player-Punkte-Tipps verloren — SGA 18 vs Linie 31,5 (-13,5), Cunningham 23 vs Linie 25,5 (-2,5) + 30,5 (-7,5). System-Aggregat 'Spieler-Punkte Ueber (NBA)' jetzt n=12 / 50% Hit / -7,8% ROI (vor 05.05.: 9 / ~67% / +14%). Cunningham Round-1-Schnitt 32,4 PPG vs heute 23 = -9 Pkt; Cavs-Defense Top-10 vs Magic-Defense Bottom-10 in Round 1 = klassische Round-Wechsel-Defensiv-Korrektur. HARTREGEL: NBA-Player-Punkte-Linie bei Round-Wechsel auf staerkeres Defense-Team gegen Round-1-Wert um -3 bis -5 Pkt korrigieren BEVOR der Markt-Punkte-Tipp erwogen wird. Wenn Linie nicht mindestens -3 Pkt unter Round-1-Schnitt steht -> kein Tipp setzen (Linie zu hoch). Mapper-Hebel P-Erweiterung: round_wechsel_defense_korrektur(spieler, round1_avg, gegner_def_rang) -> wenn delta < 3 -> Tipp drop.",
+      "bezug_spiel_id": "2026-05-05-det-cle"
     }
   ]
 };
