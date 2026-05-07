@@ -1,37 +1,37 @@
 {
-  "letzte_berechnung": "2026-05-06T06:13:33+00:00",
+  "letzte_berechnung": "2026-05-07T06:12:57+00:00",
   "gesamt": {
-    "tipps": 143,
-    "gewonnen": 86,
-    "verloren": 57,
+    "tipps": 153,
+    "gewonnen": 90,
+    "verloren": 63,
     "push": 0,
     "offen": 0,
-    "einsatz": 143.0,
-    "netto": -3.15,
-    "trefferquote": 60.1,
-    "roi_prozent": -2.2
+    "einsatz": 153.0,
+    "netto": 2.96,
+    "trefferquote": 58.8,
+    "roi_prozent": 1.9
   },
   "letzte_30_tage": {
-    "tipps": 143,
-    "gewonnen": 86,
-    "verloren": 57,
+    "tipps": 153,
+    "gewonnen": 90,
+    "verloren": 63,
     "push": 0,
     "offen": 0,
-    "einsatz": 143.0,
-    "netto": -3.15,
-    "trefferquote": 60.1,
-    "roi_prozent": -2.2
+    "einsatz": 153.0,
+    "netto": 2.96,
+    "trefferquote": 58.8,
+    "roi_prozent": 1.9
   },
   "letzte_90_tage": {
-    "tipps": 143,
-    "gewonnen": 86,
-    "verloren": 57,
+    "tipps": 153,
+    "gewonnen": 90,
+    "verloren": 63,
     "push": 0,
     "offen": 0,
-    "einsatz": 143.0,
-    "netto": -3.15,
-    "trefferquote": 60.1,
-    "roi_prozent": -2.2
+    "einsatz": 153.0,
+    "netto": 2.96,
+    "trefferquote": 58.8,
+    "roi_prozent": 1.9
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -264,6 +264,28 @@
       "netto": -0.35,
       "trefferquote": 50.0,
       "roi_prozent": -17.5
+    },
+    "Champions League Halbfinale, Rueckspiel": {
+      "tipps": 4,
+      "gewonnen": 1,
+      "verloren": 3,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 4.0,
+      "netto": 1.61,
+      "trefferquote": 25.0,
+      "roi_prozent": 40.2
+    },
+    "NBA Playoffs Round 2, Game 2": {
+      "tipps": 6,
+      "gewonnen": 3,
+      "verloren": 3,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 6.0,
+      "netto": 4.5,
+      "trefferquote": 50.0,
+      "roi_prozent": 75.0
     }
   },
   "nach_markt": {
@@ -554,15 +576,15 @@
       "roi_prozent": -100.0
     },
     "Mehr als 2.5 Tore": {
-      "tipps": 2,
+      "tipps": 3,
       "gewonnen": 1,
-      "verloren": 1,
+      "verloren": 2,
       "push": 0,
       "offen": 0,
-      "einsatz": 2.0,
+      "einsatz": 3.0,
       "netto": -0.3,
-      "trefferquote": 50.0,
-      "roi_prozent": -15.0
+      "trefferquote": 33.3,
+      "roi_prozent": -10.0
     },
     "Kylian Mbappé trifft": {
       "tipps": 1,
@@ -950,15 +972,15 @@
       "roi_prozent": 20.0
     },
     "Unter 215.5 Punkte (Total)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
+      "tipps": 3,
+      "gewonnen": 2,
+      "verloren": 1,
       "push": 0,
       "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.91,
-      "trefferquote": 100.0,
-      "roi_prozent": 91.0
+      "einsatz": 3.0,
+      "netto": 2.82,
+      "trefferquote": 66.7,
+      "roi_prozent": 94.0
     },
     "Spurs Sieg (Moneyline)": {
       "tipps": 1,
@@ -1641,6 +1663,83 @@
       "netto": -1.0,
       "trefferquote": 0.0,
       "roi_prozent": -100.0
+    },
+    "Harry Kane trifft jederzeit": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.61,
+      "trefferquote": 100.0,
+      "roi_prozent": 161.0
+    },
+    "Sieg FC Bayern Muenchen": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Michael Olise trifft jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Sieg New York Knicks (Moneyline)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.37,
+      "trefferquote": 100.0,
+      "roi_prozent": 137.0
+    },
+    "Knicks Handicap -6.5 (Spread)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Sieg San Antonio Spurs (Moneyline)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.22,
+      "trefferquote": 100.0,
+      "roi_prozent": 122.0
+    },
+    "Wolves Handicap +9.5 (Spread)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt_typ": {
@@ -1656,15 +1755,15 @@
       "roi_prozent": -7.8
     },
     "Spieler-Punkte Unter (NBA)": {
-      "tipps": 5,
-      "gewonnen": 2,
-      "verloren": 3,
+      "tipps": 7,
+      "gewonnen": 3,
+      "verloren": 4,
       "push": 0,
       "offen": 0,
-      "einsatz": 5.0,
-      "netto": -1.19,
-      "trefferquote": 40.0,
-      "roi_prozent": -23.8
+      "einsatz": 7.0,
+      "netto": 0.72,
+      "trefferquote": 42.9,
+      "roi_prozent": 10.3
     },
     "Paolo Banchero Double-Double": {
       "tipps": 1,
@@ -1689,26 +1788,26 @@
       "roi_prozent": 55.0
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 49,
-      "gewonnen": 29,
-      "verloren": 20,
+      "tipps": 52,
+      "gewonnen": 31,
+      "verloren": 21,
       "push": 0,
       "offen": 0,
-      "einsatz": 49.0,
-      "netto": -2.51,
-      "trefferquote": 59.2,
-      "roi_prozent": -5.1
+      "einsatz": 52.0,
+      "netto": 0.08,
+      "trefferquote": 59.6,
+      "roi_prozent": 0.2
     },
     "Torschuetzen Jederzeit": {
-      "tipps": 10,
-      "gewonnen": 5,
-      "verloren": 5,
+      "tipps": 12,
+      "gewonnen": 6,
+      "verloren": 6,
       "push": 0,
       "offen": 0,
-      "einsatz": 10.0,
-      "netto": 3.2,
+      "einsatz": 12.0,
+      "netto": 4.81,
       "trefferquote": 50.0,
-      "roi_prozent": 32.0
+      "roi_prozent": 40.1
     },
     "Unter 2.5 Tore": {
       "tipps": 7,
@@ -1744,15 +1843,15 @@
       "roi_prozent": 9.4
     },
     "Ueber 2.5 Tore": {
-      "tipps": 3,
+      "tipps": 4,
       "gewonnen": 2,
-      "verloren": 1,
+      "verloren": 2,
       "push": 0,
       "offen": 0,
-      "einsatz": 3.0,
+      "einsatz": 4.0,
       "netto": 0.32,
-      "trefferquote": 66.7,
-      "roi_prozent": 10.7
+      "trefferquote": 50.0,
+      "roi_prozent": 8.0
     },
     "Beide Teams treffen JA": {
       "tipps": 3,
@@ -1777,15 +1876,15 @@
       "roi_prozent": 5.0
     },
     "Spread/Handicap": {
-      "tipps": 4,
+      "tipps": 6,
       "gewonnen": 2,
-      "verloren": 2,
+      "verloren": 4,
       "push": 0,
       "offen": 0,
-      "einsatz": 4.0,
+      "einsatz": 6.0,
       "netto": 0.82,
-      "trefferquote": 50.0,
-      "roi_prozent": 20.5
+      "trefferquote": 33.3,
+      "roi_prozent": 13.7
     },
     "Raptors +3.5": {
       "tipps": 1,
@@ -1999,15 +2098,15 @@
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 66,
-      "gewonnen": 34,
-      "verloren": 32,
+      "tipps": 72,
+      "gewonnen": 36,
+      "verloren": 36,
       "push": 0,
       "offen": 0,
-      "einsatz": 66.0,
-      "netto": -5.67,
-      "trefferquote": 51.5,
-      "roi_prozent": -8.6
+      "einsatz": 72.0,
+      "netto": -2.15,
+      "trefferquote": 50.0,
+      "roi_prozent": -3.0
     },
     "2.00-3.00": {
       "tipps": 16,
@@ -2021,26 +2120,26 @@
       "roi_prozent": 14.6
     },
     "1.00-1.50": {
-      "tipps": 57,
-      "gewonnen": 42,
-      "verloren": 15,
+      "tipps": 60,
+      "gewonnen": 44,
+      "verloren": 16,
       "push": 0,
       "offen": 0,
-      "einsatz": 57.0,
-      "netto": -2.26,
-      "trefferquote": 73.7,
-      "roi_prozent": -4.0
+      "einsatz": 60.0,
+      "netto": 0.33,
+      "trefferquote": 73.3,
+      "roi_prozent": 0.5
     },
     "3.00+": {
-      "tipps": 4,
+      "tipps": 5,
       "gewonnen": 2,
-      "verloren": 2,
+      "verloren": 3,
       "push": 0,
       "offen": 0,
-      "einsatz": 4.0,
+      "einsatz": 5.0,
       "netto": 2.45,
-      "trefferquote": 50.0,
-      "roi_prozent": 61.3
+      "trefferquote": 40.0,
+      "roi_prozent": 49.0
     }
   },
   "nach_kategorie": {
@@ -2056,26 +2155,26 @@
       "roi_prozent": -4.3
     },
     "value": {
-      "tipps": 80,
-      "gewonnen": 43,
-      "verloren": 37,
+      "tipps": 84,
+      "gewonnen": 44,
+      "verloren": 40,
       "push": 0,
       "offen": 0,
-      "einsatz": 80.0,
-      "netto": -1.41,
-      "trefferquote": 53.8,
-      "roi_prozent": -1.8
+      "einsatz": 84.0,
+      "netto": -0.04,
+      "trefferquote": 52.4,
+      "roi_prozent": -0.0
     },
     "wackel": {
-      "tipps": 10,
-      "gewonnen": 5,
-      "verloren": 5,
+      "tipps": 16,
+      "gewonnen": 8,
+      "verloren": 8,
       "push": 0,
       "offen": 0,
-      "einsatz": 10.0,
-      "netto": 0.52,
+      "einsatz": 16.0,
+      "netto": 5.26,
       "trefferquote": 50.0,
-      "roi_prozent": 5.2
+      "roi_prozent": 32.9
     }
   },
   "clv_gesamt": {
@@ -2095,6 +2194,239 @@
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-05-06",
+      "gesamt": {
+        "tipps": 10,
+        "gewonnen": 4,
+        "verloren": 6,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 10.0,
+        "netto": 6.11,
+        "trefferquote": 40.0,
+        "roi_prozent": 61.1
+      },
+      "spiele": [
+        {
+          "id": "2026-05-06-bay-psg",
+          "liga": "Champions League Halbfinale, Rueckspiel",
+          "heim": "FC Bayern Muenchen",
+          "gast": "Paris Saint-Germain",
+          "endstand": "1:1",
+          "tipps": [
+            {
+              "markt": "Harry Kane trifft jederzeit",
+              "quote": 1.61,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.61,
+              "kommentar": "Kane traf in 90+4 (left-footed strike, Stoppage Time) — direkter Treffer, kein Einwechslungs-Boost noetig."
+            },
+            {
+              "markt": "Mehr als 2.5 Tore",
+              "quote": 1.4,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Nur 2 Tore (Dembele 3', Kane 90+4'). Hinspiel-9-Tore-Festival hat sich im Rueckspiel NICHT wiederholt."
+            },
+            {
+              "markt": "Sieg FC Bayern Muenchen",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Endstand 1:1, Bayern lag NIE 2:0 in Fuehrung — bet365-2:0-Insurance greift nicht. PSG ging fruh 0:1 in Fuehrung, Kane glich erst 90+4' aus."
+            },
+            {
+              "markt": "Michael Olise trifft jederzeit",
+              "quote": 3.5,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Olise traf nicht. Olise war Starter (kein Sane in Startelf). Kein Einwechslungs-Boost-Trigger ableitbar (Bayerns einziges Tor von Kane in 90+4', Kane Starter, nicht Olise-Ersatz)."
+            }
+          ]
+        },
+        {
+          "id": "2026-05-06-nyk-phi",
+          "liga": "NBA Playoffs Round 2, Game 2",
+          "heim": "New York Knicks",
+          "gast": "Philadelphia 76ers",
+          "endstand": "108:102",
+          "tipps": [
+            {
+              "markt": "Sieg New York Knicks (Moneyline)",
+              "quote": 1.37,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.37,
+              "kommentar": "Knicks 108-102 — Brunson 26 Pkt, Anunoby 24, Towns 20. Spaete 9:0-Q4-Run entschied. Embiid OUT (Verletzung)."
+            },
+            {
+              "markt": "Knicks Handicap -6.5 (Spread)",
+              "quote": 1.91,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Knicks gewannen exakt mit 6 Punkten (108:102) — Spread -6.5 missed um 0.5 Punkte. Knappstes mögliches Push-Niveau."
+            },
+            {
+              "markt": "Unter 215.5 Punkte (Total)",
+              "quote": 1.91,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.91,
+              "kommentar": "Total 210 Pkt (108+102) — klar unter 215.5. HR13-Round-2-Defensiv-Pattern bestaetigt fuer dieses Spiel."
+            }
+          ]
+        },
+        {
+          "id": "2026-05-06-sas-min",
+          "liga": "NBA Playoffs Round 2, Game 2",
+          "heim": "San Antonio Spurs",
+          "gast": "Minnesota Timberwolves",
+          "endstand": "133:95",
+          "tipps": [
+            {
+              "markt": "Sieg San Antonio Spurs (Moneyline)",
+              "quote": 1.22,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.22,
+              "kommentar": "Spurs 133:95 dominiert — Wembanyama 19/15, Castle 21, Fox 16. Bigger-Postseason-Win seit 1983."
+            },
+            {
+              "markt": "Wolves Handicap +9.5 (Spread)",
+              "quote": 1.91,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Wolves verloren mit 38 Punkten (95:133) — Spread +9.5 weit verfehlt. Wolves-Hedge-Idee gescheitert."
+            },
+            {
+              "markt": "Unter 215.5 Punkte (Total)",
+              "quote": 1.91,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Total 228 Pkt (133+95) — klar UEBER 215.5. G2-Reaktions-Spike: Spurs eskalierten offensiv nach G1-Heim-Pleite."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi (~3.10x)",
+          "kategorie": "safe",
+          "gesamtquote": 0.0,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Bayern Muenchen vs PSG: Bayern vs PSG: Sieg FC Bayern Muenchen",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Knicks vs 76ers G2: Knicks vs Sixers: Sieg New York Knicks (Moneyline)",
+              "quote": 1.37,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Spurs vs Timberwolves G2: Spurs vs Wolves: Sieg San Antonio Spurs (Moneyline)",
+              "quote": 1.22,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi (~5.87x)",
+          "kategorie": "balance",
+          "gesamtquote": 0.0,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Bayern Muenchen vs PSG: Bayern vs PSG: Harry Kane trifft jederzeit",
+              "quote": 1.61,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Knicks vs 76ers G2: Knicks vs Sixers: Knicks Handicap -6.5 (Spread)",
+              "quote": 1.91,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Spurs vs Timberwolves G2: Spurs vs Wolves: Unter 215.5 Punkte (Total)",
+              "quote": 1.91,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi (~18.9x)",
+          "kategorie": "risk",
+          "gesamtquote": 0.0,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Bayern Muenchen vs PSG: Bayern vs PSG: Mehr als 2.5 Tore",
+              "quote": 1.4,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Knicks vs 76ers G2: Knicks vs Sixers: Sieg Philadelphia 76ers (Moneyline)",
+              "quote": 3.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Spurs vs Timberwolves G2: Spurs vs Wolves: Sieg Minnesota Timberwolves (Moneyline)",
+              "quote": 4.5,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi (~46.6x)",
+          "kategorie": "moonshot",
+          "gesamtquote": 0.0,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Bayern Muenchen vs PSG: Bayern vs PSG: Michael Olise trifft jederzeit",
+              "quote": 3.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Knicks vs 76ers G2: Knicks vs Sixers: 76ers Handicap +5.5 (Spread Cover)",
+              "quote": 3.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Spurs vs Timberwolves G2: Spurs vs Wolves: Wolves Handicap +12 (Spread Cover)",
+              "quote": 3.8,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-05-05",
       "gesamt": {

@@ -1,8 +1,15 @@
 {
-  "stand": "2026-05-06T06:13:33+00:00",
+  "stand": "2026-05-07T06:12:57+00:00",
   "kriterium": "ROI > 15.0% ODER (Trefferquote >= 65.0% UND ROI > 0%) bei min. 5 Tipps",
   "wirkung": "Schema-Mapper bestaetigt SAFE-Tipps in diesen Ligen. Andere SAFE-Tipps werden auf VALUE downgegradet wenn der Markt-Typ nicht in markt_goldgruben.json ist (Hebel C ROI-Sanierung 04.05.).",
   "ligen": [
+    {
+      "liga": "NBA Playoffs Round 2, Game 2",
+      "tipps": 6,
+      "trefferquote": 50.0,
+      "roi_prozent": 75.0,
+      "netto": 4.5
+    },
     {
       "liga": "Champions League Halbfinale, Hinspiel",
       "tipps": 5,

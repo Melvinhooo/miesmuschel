@@ -435,6 +435,30 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "HR16: NBA-Player-Punkte Round-Wechsel-Defensiv-Korrektur (Quelle 8c — Markt-Bilanz-Cluster)",
       "lesson": "EMPIRIE 05.05.: 3/3 NBA-Player-Punkte-Tipps verloren — SGA 18 vs Linie 31,5 (-13,5), Cunningham 23 vs Linie 25,5 (-2,5) + 30,5 (-7,5). System-Aggregat 'Spieler-Punkte Ueber (NBA)' jetzt n=12 / 50% Hit / -7,8% ROI (vor 05.05.: 9 / ~67% / +14%). Cunningham Round-1-Schnitt 32,4 PPG vs heute 23 = -9 Pkt; Cavs-Defense Top-10 vs Magic-Defense Bottom-10 in Round 1 = klassische Round-Wechsel-Defensiv-Korrektur. HARTREGEL: NBA-Player-Punkte-Linie bei Round-Wechsel auf staerkeres Defense-Team gegen Round-1-Wert um -3 bis -5 Pkt korrigieren BEVOR der Markt-Punkte-Tipp erwogen wird. Wenn Linie nicht mindestens -3 Pkt unter Round-1-Schnitt steht -> kein Tipp setzen (Linie zu hoch). Mapper-Hebel P-Erweiterung: round_wechsel_defense_korrektur(spieler, round1_avg, gegner_def_rang) -> wenn delta < 3 -> Tipp drop.",
       "bezug_spiel_id": "2026-05-05-det-cle"
+    },
+    {
+      "datum": "2026-05-07",
+      "kategorie": "HR17: Safe-Kombi-Korrelations-Falle bei 3 Sieg-Beinen (Quelle 8a — Korrelations-Analyse)",
+      "lesson": "EMPIRIE 06.05.: Safe-Kombi mit 3 reinen Sieg-Beinen (Bayern + Knicks ML + Spurs ML) verloren — 1 Bein (Bayern 1:1) reichte zum Komplett-Verlust trotz 2/3 Sieg-Beinen Treffer. Bayern war hoechstes Risiko-Quote-Bein (1.85 vs Knicks 1.37 / Spurs 1.22) und exakt das ist ausgefallen. Gesamt-Quote 3.09 wurde zu 0.0. Pattern: 3 Sieg-Beine in Safe-Kombi sind ueber-korreliert auf das schwaechste-impliziert-Wahrscheinlichkeits-Bein. HARTREGEL: Safe-Kombi maximal 2 Sieg-Beine + 1 abweichende Outcome (Total/DC/Spread/Torschuetze). Wenn nur 2 Sieg-Beine verfuegbar reicht das. Pflicht-Diversifikation Layer-2-Stufung: nicht 3x gleicher Outcome-Typ. Mapper-Hebel S (Safe-Kombi-Builder): max_sieg_beine=2, fallback_outcome={'DC','Total_Unter','Torschuetzen_Top'} priorisiert.",
+      "bezug_spiel_id": "2026-05-06-bay-psg"
+    },
+    {
+      "datum": "2026-05-07",
+      "kategorie": "HR18: NBA G2-Reaktions-Spike kippt Round-2-Total-Defensiv-Pattern (Quelle 8g — Markt-Pattern aus volle_analyse)",
+      "lesson": "EMPIRIE 06.05. (volle_analyse markt_resultate[]): Spurs-Wolves G2 Total 228 Pkt (133:95) — weit UEBER 215.5-Linie und +22 Pkt vs G1-Total (206). Spurs verloren G1 zuhause 102:104, kamen mit Reaktions-Spike-Eskalation zurueck. HR13-Defensiv-Pattern (G1-Adjustment) loesst sich auf, sobald Heim-Favorit Reaktions-Pflicht hat. Knicks-76ers G2 mit 210 Pkt knapp unter 215.5 (HR13 hielt da, weil Knicks bereits G1 dominierten — kein Reaktions-Druck). HARTREGEL: G2-Total-Tipps differenziert: (a) wenn Heim-Favorit G1 verloren hat -> 'Unter'-Linie NICHT setzen, max 'Ueber' als Wackel oder kein Total-Tipp; (b) wenn Heim-Favorit G1 gewonnen hat -> HR13 weiter aktiv, 'Unter' als VALUE moeglich. Mapper-Hebel T (Total-G2): pruefe G1-Heim-Outcome; wenn loss -> reaktions_spike_aktiv=True -> Unter-Tipp drop, Ueber max wackel.",
+      "bezug_spiel_id": "2026-05-06-sas-min"
+    },
+    {
+      "datum": "2026-05-07",
+      "kategorie": "HR19: NBA-Spread-Cover knappes Margin-Risiko (Quelle 8b — Knappe Verluste)",
+      "lesson": "EMPIRIE 06.05.: Knicks -6.5 Spread @ 1.91 verloren — Knicks gewannen exakt mit 6 Punkten (108:102), 0.5 unter der Linie. Spread-Aggregat 'Spread/Handicap' bleibt zwar Goldgrube (+20.5% historisch), aber 0.5-Margen-Niederlagen haben einen kumulativen Effekt: 2 von 5 letzten -6.5/-7.5-Spread-Tipps verloren mit weniger als 1.0 Punkt Margin. HARTREGEL: NBA-Playoff-Spread bei -6.5 oder -7.5 zusaetzlicher Risiko-Check: pre-game G1-Spread-Margin pruefen — wenn G1 mit weniger als 7 Pkt entschieden wurde, ist G2-Spread-Cover ueber 6.5 fragil. Stattdessen ML mit reduziertem Stake oder -3.5/-4.5-Linie bevorzugen. Mapper-Hebel F-Erweiterung: spread_margin_check(g1_margin) -> wenn g1_margin < 7 und g2_spread_linie >= 6.5 -> Tipp auf wackel statt VALUE.",
+      "bezug_spiel_id": "2026-05-06-nyk-phi"
+    },
+    {
+      "datum": "2026-05-07",
+      "kategorie": "HR20: CL-K.O.-Rueckspiel-Tor-Reduzierung nach Hinspiel-Festival (Quelle 8g — Markt-Pattern)",
+      "lesson": "EMPIRIE 06.05.: Bayern-PSG Hinspiel 4:5 (9 Tore), Rueckspiel 1:1 (2 Tore). 'Mehr 2.5 Tore'-Tipp 1.40 verloren — Hinspiel-Tor-Festival war KEIN Indikator fuer Rueckspiel. Pattern: Bei CL-K.O.-Rueckspielen mit grossem Hinspiel-Total (>=7 Tore) korrigiert sich das Rueckspiel-Total nach UNTEN — Final-Phase-Druck + Defense-Adjustment + 'wer fuehrt schliesst zu' wirken zusammen. Historie hat n=2 jetzt (auch Bayer 04 vs Inter im April: Hinspiel 3:2, Rueckspiel 0:0). HARTREGEL: Bei CL-K.O.-Rueckspielen wenn Hinspiel-Total >= 7 Tore -> 'Mehr 2.5/3.5'-Tipp DOWNGRADE auf max wackel mit reduziertem Stake; 'Unter 2.5/3.5'-Tipp als VALUE moeglich. Pflichtfeld saison_kontext bei CL-K.O.-Rueckspielen: 'hinspiel_total_tore' + 'rueckspiel_total_korrektur_aktiv'. Mapper-Hebel U (UEFA-K.O.-Rueckspiel): if hinspiel_total >= 7 -> ueber_tipp_downgrade()=true.",
+      "bezug_spiel_id": "2026-05-06-bay-psg"
     }
   ]
 };

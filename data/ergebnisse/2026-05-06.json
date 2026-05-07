@@ -1,0 +1,861 @@
+{
+  "datum": "2026-05-06",
+  "erstellt_am": "2026-05-06T16:00:00+02:00",
+  "hinweis": "Schmal-Tag (Mi 06.05.). Highlight: CL-Halbfinale-Rueckspiel Bayern-PSG (PSG fuehrt 5:4 nach Hinspiel). Plus 2x NBA Round 2 Game 2 (Knicks-Sixers MSG, Spurs-Wolves SAS). Keine BL/PL/LaLiga/Serie A heute - Liga-Lueche zwischen den Spieltagen. Kasse 550€ in Stufe 1 (1-2% pro Tipp). Goldgrube-Fokus: Torschuetzen Jederzeit (+32% ROI), DC 1X/X2, Spread/Handicap. Bluter-Skip: BTTS-JA (-43%), Unter 3.5 (-53%).",
+  "spiele": [
+    {
+      "id": "2026-05-06-bay-psg",
+      "liga": "Champions League Halbfinale, Rueckspiel",
+      "heim": "FC Bayern Muenchen",
+      "gast": "Paris Saint-Germain",
+      "anstoss": "2026-05-06T21:00:00+02:00",
+      "stadion": "Allianz Arena, Muenchen",
+      "saison_kontext": {
+        "parallel_heim": "keine zusaetzliche Pflicht-Doppelbelastung diese Woche - naechstes BL-Spiel erst Sa 09.05. (33. Spt., Bayern Meister bereits durch). PSG ist heute Bayerns Saison-Highlight.",
+        "parallel_gast": "keine zusaetzliche Pflicht-Doppelbelastung - Ligue 1 Saison-Auslauf, PSG Meister durch. CL-Finale 30.05. Budapest als naechste Aufgabe falls Sieg.",
+        "saisonziel_heim": "Bundesliga-Meister bereits durch + DFB-Pokalfinale 23.05. Berlin (vs Stuttgart) + CL-Finale-Chance. Triple-Anwaerter.",
+        "saisonziel_gast": "Ligue-1-Meister durch + Coupe-de-France-Finale + CL-Finale-Chance. Triple-Anwaerter.",
+        "motivations_asymmetrie": "Beide Teams MAX motiviert - kein Rotations-Risiko. Bayern muss nach 4:5-Hinspiel mit 2 Toren Vorsprung gewinnen (oder 1-Tor-Sieg mit weniger als 4 Gegentoren) - Heim-Druck + Aufholbedarf zwingt zu offensiver Anlage. PSG kann mit knappem Sieg/Remis weiterkommen - Konter-Profil. Spielanlage daher offen, Tore-Wahrscheinlichkeit hoch.",
+        "recovery_heim": "4 Tage seit BL-Spiel 02.05. (Bayern-Heidenheim 3:3 - Kompany rotierte 7 Spieler, daher voll fit fuer Rueckspiel).",
+        "recovery_gast": "4 Tage seit Ligue-1-Spiel - Nuno Mendes/Doue/Dembele/Kvara alle fit laut Vorbericht.",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/match/2042729--bayern-vs-paris/",
+          "https://www.kicker.de/wer-uebertraegt-bayern-muenchen-gegen-paris-st-germain-heute-live-im-tv-stream-1216478/artikel",
+          "https://fcbayern.com/en/news/2026/04/bayern-to-face-paris-saint-germain-in-champions-league-semi-finals",
+          "https://www.sportsgambler.com/betting-tips/football/bayern-munich-vs-psg-prediction-lineups-odds-2026-05-06/"
+        ]
+      },
+      "news": [
+        "PSG fuehrt 5:4 nach dem torreichsten CL-Halbfinal-Hinspiel der Geschichte - Bayern braucht Sieg mit 2-Tore-Diff (oder 1-Tor mit Endstand <4 Gegentore).",
+        "Bayern-Aufstellung erwartet: Neuer - Stanisic, Upamecano, Tah, Laimer - Kimmich, Pavlovic - Olise, Musiala, Diaz - Kane (4-2-3-1, voll besetzt nach BL-Rotation).",
+        "PSG-Aufstellung erwartet: Safonov - Zaire-Emery, Marquinhos, Pacho, Mendes - Vitinha, Joao Neves, Fabian Ruiz - Doue, Dembele, Kvaratskhelia.",
+        "Kane in 7 von letzten 8 Spielen Torschuetze - aktuelle Form-Welle, plus Heim-Pflichtsieg-Profil.",
+        "Dembele/Doue/Kvaratskhelia haben im Hinspiel 7 direkte Tor-Beteiligungen geliefert - PSG-Konter-Profil bei Bayern-Aufruecken-Risiko.",
+        "Erwartete Bookies-Quoten: Bayern Sieg ~1.85, PSG ~4.50, Remis ~3.80 - beide Teams Anytime Goalscorer Kane -167 / Dembele -150."
+      ],
+      "tipps": [
+        {
+          "kategorie": "wackel",
+          "markt": "Harry Kane trifft jederzeit",
+          "quote": 1.61,
+          "edge_prozent": 12.0,
+          "begruendung": "Kane traf in 7 von 8 letzten Spielen (Bundesliga + CL), Bookies-Quote -167 = ~1.60 bei Oddschecker/SportsGambler verifiziert. Heimspiel + Bayern muss aufdrehen = Kane bekommt viele Boxraeume. Ist auch Goldgrube-Markt Torschuetzen Jederzeit (50% Hitrate / +32% ROI = bestes Sub-Aggregat im System). Plus bet365-Einwechslungs-Boost: falls Kane in 75-80. ausgewechselt wird (bei Bayern 1:0/2:0 fuer Time-Management), zaehlen Tore von Tel/Mueller/Mathys mit. Empfohlener Einsatz: 8.25-11€ (1.5-2.0% der 550€-Kasse). HR3 ueberprueft: kein UEFA-Doppel-Druck NACH heute, daher kein Joker-Switch noetig - Kane bleibt Tipp-Spieler. Bilanz Torschuetzen-Tipps in BL/CL bisher 5/10 (50%) bei +32% ROI - genau dieser Markt-Typ trifft. [Auto HR3: UEFA-Doppelbelastung + Rotation - Top-Stuermer max WACKEL, Joker-Tipp suchen]",
+          "faire_quote": 1.44,
+          "empfohlener_einsatz_prozent": 1.0,
+          "_joker_top_stuermer_block": true,
+          "id": "bay-psg-1"
+        },
+        {
+          "kategorie": "value",
+          "markt": "Mehr als 2.5 Tore",
+          "quote": 1.4,
+          "edge_prozent": 9.0,
+          "begruendung": "Hinspiel 4:5 = 9 Tore, Rueckspiel mit gleicher Konstellation (Bayern muss vorwaerts, PSG kontert) = Tor-Festival-Profil. PSG hat in jedem CL-K.O.-Auswaertsspiel 2026 mind. 1 Tor erzielt + Bayern hat Heim 28 Tore in letzten 10 PFlichtspielen. Goldgrube-Markt-Aggregat 'Mehr als X Tore' bei +10.7% ROI / 66.7% Hitrate (n=3, kleine Stichprobe aber positiv). Empfohlener Einsatz: 8.25€ (1.5%). Quote 1.40 via Oddschecker bestaetigt. NICHT Ueber 3.5 (Bluter-Markt -53% ROI) - klar bleibe ich bei 2.5er-Linie.",
+          "faire_quote": 1.28,
+          "empfohlener_einsatz_prozent": 1.0,
+          "id": "bay-psg-2"
+        },
+        {
+          "kategorie": "value",
+          "markt": "Sieg FC Bayern Muenchen",
+          "quote": 1.85,
+          "edge_prozent": 8.0,
+          "begruendung": "Bayern Heim @ ~1.85 (Implizit-Quote 54%, Bookies-Konsens 60-63%) - klare Heim-Edge: Allianz-Druck + offensive Pflicht-Anlage + voll besetzte Startelf. PSG hat kein 2-Tore-Polster (nur 1 Tor), spielt selbst nicht ultra-defensiv weil sie selbst Tore auswaerts brauchen koennen. Lessons 25.04. (SAFE-Reality-Check) verbietet SAFE bei Top-Team-Heim-Sieg, aber Bayern HAT hier die volle Motivation (kein Rotations-Risiko, das war Hinspiel-Lehre 03.05.) - VALUE legitim. Empfohlener Einsatz: 8.25€ (1.5%). Plus bet365-2:0-Insurance-Regel gilt (CL!): falls Bayern irgendwann mit 2:0 fuehrt und am Ende doch knapp verliert/Remis, Tipp ist GEWONNEN.",
+          "faire_quote": 1.71,
+          "empfohlener_einsatz_prozent": 1.0,
+          "id": "bay-psg-3"
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Michael Olise trifft jederzeit",
+          "quote": 3.5,
+          "edge_prozent": null,
+          "begruendung": "Backup-Sturm-Variant - Olise ist im aktuellen Bayern-System der zweitwichtigste Boxen-Spieler, hat in den letzten 5 Spielen 3 Tor-Beteiligungen + Heim-Treffer-Quote-bias. Goldgrube Torschuetzen Jederzeit aktiv suchen. Quote 3.50 via SportsGambler - implizite Hitrate 28%, Saisonschnitt-Hitrate Olise ~25-30% pro Spiel. Knapp positiver EV. Empfohlener Einsatz: 2.75€ (0.5% Wackel-Stake). Diversifiziert vom Kane-Tipp (Layer-2: zwei verschiedene Spieler im selben Spiel, max 2 in Familie B 'Spieler-Tor' = OK).",
+          "faire_quote": 3.5,
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "bay-psg-4"
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "1:1",
+        "halbzeit": "0:1",
+        "heim_tore": 1,
+        "gast_tore": 1,
+        "quelle": "Al Jazeera/CNN/NBC Sports/Yahoo Sports/Bavarian Football Works WebSearch 07.05."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "bay-psg-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.61,
+          "kommentar": "Kane traf in 90+4 (left-footed strike, Stoppage Time) — direkter Treffer, kein Einwechslungs-Boost noetig.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "bay-psg-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Nur 2 Tore (Dembele 3', Kane 90+4'). Hinspiel-9-Tore-Festival hat sich im Rueckspiel NICHT wiederholt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "bay-psg-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Endstand 1:1, Bayern lag NIE 2:0 in Fuehrung — bet365-2:0-Insurance greift nicht. PSG ging fruh 0:1 in Fuehrung, Kane glich erst 90+4' aus.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "bay-psg-4",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Olise traf nicht. Olise war Starter (kein Sane in Startelf). Kein Einwechslungs-Boost-Trigger ableitbar (Bayerns einziges Tor von Kane in 90+4', Kane Starter, nicht Olise-Ersatz).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "1:1",
+        "tore": [
+          {
+            "min": 3,
+            "team": "gast",
+            "spieler": "Dembele",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": "90+4",
+            "team": "heim",
+            "spieler": "Kane",
+            "stand_danach": "1:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Knappes 1:1 ohne 2-Tore-Wende. PSG fuehrte ueber 87 Minuten 0:1 (Dembele 3'), Kane glich erst in der Nachspielzeit aus. Keine Drehung im Algorithmus-Sinne."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "PSG/Unentschieden",
+          "kein_team_zu_null": true,
+          "siegtor_in_letzten_15min": false,
+          "ausgleich_in_letzten_15min": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "CL-HF-Rueckspiel-Tor-Reduzierung nach Hinspiel-Festival: Hinspiel 4:5 (9 Tore), Rueckspiel 1:1 (2 Tore). Hinspiel-Pattern war KEIN Indikator fuer Rueckspiel-Tor-Total — final mehr Defensiv-Schach.",
+          "Kane-Form-Edge-Tipp (7/8 letzte Spiele) hat geliefert — 8/9 jetzt. Goldgrube Torschuetzen Jederzeit haelt 50%+ Hitrate.",
+          "Bayern-Sieg-Tipp gescheitert weil Aufholbedarf nach 0:1 (3'-Frueh-Tor) nicht reichte — Pattern: Frueh-Tor des Underdogs in K.O.-Phase macht offensiven Heim-Pflichtsieg-Tipp besonders fragil.",
+          "PSG erreicht zweites CL-Finale in Folge — Arsenal-Final 30.05. Budapest. Letzte 6 PSG-K.O.-Auswaerts-Spiele alle min 1 Tor erzielt (Goldgrube-Hinweis fuer naechste Final-Recherche)."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-06-nyk-phi",
+      "liga": "NBA Playoffs Round 2, Game 2",
+      "heim": "New York Knicks",
+      "gast": "Philadelphia 76ers",
+      "anstoss": "2026-05-07T01:00:00+02:00",
+      "stadion": "Madison Square Garden, New York",
+      "saison_kontext": {
+        "parallel_heim": "NBA Playoffs Round 2, Game 2 - keine andere Pflicht. Knicks fuehren Best-of-7 mit 1-0 nach 137:98-Blowout in G1 (4. May, Brunson 35 Pkt).",
+        "parallel_gast": "NBA Playoffs Round 2, Game 2 - Sixers nach 39-Punkte-Niederlage muessen Reaktion zeigen.",
+        "saisonziel_heim": "NBA-Finals-Anwaerter (#3 East), erste Round-2-Serie seit Jahren mit dominantem Auftakt - Goldsturm-Setup.",
+        "saisonziel_gast": "NBA-Finals-Outsider (#6 East nach Embiid-Comeback in Round 1) - 0-1 nach historischer Klatsche, Druck-Maximum.",
+        "motivations_asymmetrie": "Knicks-Heim mit Crowd-Stoss + Brunson-Hot-Hand vs Sixers in Reaktions-Modus. Knicks duerfen nicht abheben (Lesson 24.04. Sweep-Druck-Heimsieg), Sixers koennten Adjustment-Spike liefern - aber 39-Pkt-Differenz ist statistisch schwer in 1 Spiel umzukehren. Knicks bleibt Favorit, aber kein SAFE-Profil.",
+        "recovery_heim": "2 Tage seit G1 (04.05.) - voll fit.",
+        "recovery_gast": "2 Tage - Embiid-Status nach G1-Klatsche zu beobachten (1h Pre-Match-Lineup-Check Pflicht laut Lesson 25.04.).",
+        "quellen": [
+          "https://www.oddsshark.com/nba/76ers-knicks-picks-odds-game-2-may-6-2026",
+          "https://www.fanduel.com/research/knicks-vs-76ers-prediction-nba-odds-spread-best-bets-for-eastern-semifinals-5-6-2026",
+          "https://thesource.com/2026/05/05/knicks-76ers-game-1-recap-brunson-historic-win/"
+        ]
+      },
+      "news": [
+        "Knicks fuehren 1-0 nach 137:98 in G1 - Brunson 35 Pkt (12-18 FG), Knicks 63.1% FG (Franchise-Playoff-Rekord).",
+        "Linie verifiziert via FanDuel: Knicks -6.5 (von -7.5 bewegt), Total 215.5 (von 216.5), ML Knicks -270 / Sixers +220.",
+        "Sixers ohne klare Antwort - Embiid hat in Round 1 nach Comeback 4 Spiele durchgespielt, Form schwankend.",
+        "Brunson G1 ueber alle Markt-Linien (Punkte 35, Reb 5, Assists 7) - Knicks nutzen MSG-Crowd seit Round 1 zu 4-0.",
+        "NBA Playoffs Round 2 G2 ist NICHT in beobachtungs_ligen.json (nur G6 Round 1) - tippbar, aber NBA-Mapper-Hebel B faengt SAFE auf VALUE."
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Sieg New York Knicks (Moneyline)",
+          "quote": 1.37,
+          "edge_prozent": 8.0,
+          "begruendung": "Knicks Heim-Favorit nach G1-Blowout @ -270 (Implizit-Quote 1.37) - solide Edge. MSG ist 2026 Playoff 4-0 mit Crowd-Vorteil. Sixers G1 39-Punkte-Klatsche schwer in 1 Spiel umzukehren. Lesson 24.04. Sweep-Druck-Heim warnt vor SAFE-Label, deshalb VALUE statt SAFE - NBA-Mapper-Hebel B aktiv (alle Playoff-SAFE auf VALUE). Empfohlener Einsatz: 8.25€ (1.5%). Quote bestaetigt via Oddsshark/FanDuel.",
+          "faire_quote": 1.27,
+          "empfohlener_einsatz_prozent": 1.0,
+          "id": "nyk-phi-1"
+        },
+        {
+          "kategorie": "value",
+          "markt": "Knicks Handicap -6.5 (Spread)",
+          "quote": 1.91,
+          "edge_prozent": 9.0,
+          "begruendung": "Markt-Goldgrube Spread/Handicap (50% Hitrate / +20.5% ROI im System-Aggregat). Linie von -7.5 auf -6.5 bewegt = Markt-Korrektur nach G1-Clatsche, jetzt fairer Wert. Knicks gewannen G1 mit 39 Pkt - Sixers muessten 33-Pkt-Verbesserung liefern um Spread-Cover zu verhindern. Empfohlener Einsatz: 8.25€ (1.5%). Quote 1.91 via FanDuel verifiziert. Layer-2 OK: Spread = andere Markt-Familie (F: NBA Spread/Quarter) als ML (A: Outcome) - max 2 pro Familie regel eingehalten.",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 1.0,
+          "id": "nyk-phi-2"
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Unter 215.5 Punkte (Total)",
+          "quote": 1.91,
+          "edge_prozent": null,
+          "begruendung": "HR13-Lesson aus 05.05.: Round-2-G1-Defensiv-Adjustment-Pattern (Pistons-Cavs 212, OKC-Lakers 198). G2 wird oft Defensiv-fokussierter weil Verlierer Sixers Adjustments einbauen wird (mehr Druck auf Brunson, langsameres Tempo). G1 mit 235 war Ausreisser nach oben. Goldgrube-Markt 'Unter 2.5/Unter 215.5' im NBA-Aggregat (Unter 2.5 Tore +9.3% ROI bei 57.1%). Wackel-Label wegen Playoff-Total-Varianz und kein klares Pattern fuer G2-Round-2. Empfohlener Einsatz: 2.75€ (0.5%).",
+          "faire_quote": 1.91,
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "nyk-phi-3"
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "108:102",
+        "halbzeit": "61:62",
+        "heim_punkte": 108,
+        "gast_punkte": 102,
+        "quelle": "ESPN/NBA.com/Washington Post WebSearch 07.05."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "nyk-phi-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.37,
+          "kommentar": "Knicks 108-102 — Brunson 26 Pkt, Anunoby 24, Towns 20. Spaete 9:0-Q4-Run entschied. Embiid OUT (Verletzung).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "nyk-phi-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Knicks gewannen exakt mit 6 Punkten (108:102) — Spread -6.5 missed um 0.5 Punkte. Knappstes mögliches Push-Niveau.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "nyk-phi-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.91,
+          "kommentar": "Total 210 Pkt (108+102) — klar unter 215.5. HR13-Round-2-Defensiv-Pattern bestaetigt fuer dieses Spiel.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "61:62",
+        "endstand": "108:102",
+        "tore": [],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Knappes Spiel mit 25 Lead-Changes (Playoff-Rekord seit 11 Jahren) und 14 Ties. Knicks gingen erst Mitte Q4 entscheidend in Fuehrung (Brunson Tiebreak-Bucket 5:06, dann 9:0-Run). Kein klassischer Drehungs-Fall (nie 2-Score-Differenz im Wechsel)."
+        },
+        "markt_resultate": {
+          "btts": null,
+          "ueber_2_5": null,
+          "ueber_3_5": null,
+          "ueber_215_5": false,
+          "ueber_213_5": false,
+          "halbzeit_endstand": "76ers/Knicks",
+          "spread_minus_6_5_knicks": false,
+          "spread_minus_5_5_knicks": true,
+          "kein_team_zu_null": null
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Embiid",
+            "details": "Embiid OUT verletzt — 76ers ohne Star spielten ueberraschend stark, Maxey 26 Pkt gefuehrt"
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Spread-Cover bei knappstem Margin gescheitert: Knicks gewannen exakt mit 6 Punkten — Spread -6.5 verfehlt um 0.5 Pkt. NBA-Playoff-Spread bei -6.5/-7.5 ist fragil.",
+          "76ers ohne Embiid (verletzt) hielten Spiel offen bis ins Q4 — Star-Out-Pattern 'Underdog spielt befreit' bestaetigt (analog zu Wolves-Edwards-Out G1).",
+          "G1-Defensiv-Adjustment-Lesson teilweise bestaetigt: Total 210 Pkt unter 215.5 (knapp), aber Lead-Change-Schlacht statt einseitiges Defense-Game.",
+          "MSG-Heim-Court-Edge bestaetigt — Knicks 5-0 in 2026-Playoffs zuhause."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-06-sas-min",
+      "liga": "NBA Playoffs Round 2, Game 2",
+      "heim": "San Antonio Spurs",
+      "gast": "Minnesota Timberwolves",
+      "anstoss": "2026-05-07T03:30:00+02:00",
+      "stadion": "Frost Bank Center, San Antonio",
+      "saison_kontext": {
+        "parallel_heim": "NBA Playoffs Round 2, Game 2 - Spurs nach 102:104-Heim-Pleite in G1 (Wolves-Upset trotz Edwards-Rotation) im Pflichtsieg-Modus.",
+        "parallel_gast": "NBA Playoffs Round 2, Game 2 - Wolves fuehren Best-of-7 mit 1-0 nach G1-Auswaertssieg (5.05.).",
+        "saisonziel_heim": "NBA-Finals-Anwaerter (#2 West, Wemby-Goldsturm-Saison) - 0-1 nach Heim-Pleite, Pflicht-Reaktion.",
+        "saisonziel_gast": "NBA-Finals-Aussenseiter (#6 West, ohne Edwards in Round 2) - 1-0 = Bonus-Setup, kein Druck.",
+        "motivations_asymmetrie": "Spurs MAX motiviert nach unerwarteter G1-Pleite - Wemby/Castle-Reaktion + Heim-Frost-Bank-Crowd. Wolves spielen bonus-Modus, haben den Druck abgegeben. Spread -9.5 Spurs ist Markt-Ausdruck dieser Asymmetrie. ABER: Lesson HR8 (Round-2-G1-Spread-Cap) gilt analog fuer G2 mit hohem Spread - Spread-Cover bei 9.5+ ist nicht zuverlaessig.",
+        "recovery_heim": "2 Tage seit G1 - voll fit.",
+        "recovery_gast": "2 Tage - Edwards-Status weiter unklar (DNP G1, war Round 1 G6/G7 OUT, Backup-System lief in G1).",
+        "quellen": [
+          "https://www.fanduel.com/research/spurs-vs-timberwolves-prediction-nba-odds-spread-best-bets-for-western-semifinals-5-6-2026",
+          "https://www.cbsnews.com/minnesota/news/minnesota-timberwolves-san-antonio-spurs-schedule/",
+          "https://www.nba.com/news/2026-nba-playoffs-series-preview-spurs-wolves"
+        ]
+      },
+      "news": [
+        "Wolves stahlen G1 in San Antonio 104:102 trotz Edwards-Ausfall - Spurs auf der Rolle.",
+        "Linien via FanDuel: Spurs -9.5 (-110), Wolves +9.5, Total 215.5, ML Spurs ~-450 / Wolves ~+340.",
+        "Wembanyama in G1 nicht in Topform (Foul-Trouble) - heute mit Heim-Crowd erwartete Reaktion.",
+        "Edwards-Status fuer G2 NICHT bestaetigt - 1h Pre-Match-Lineup-Check empfohlen (Lesson 25.04. Roster-Verifikation).",
+        "Markt-Aggregat 'Spread/Handicap' Goldgrube +20.5% ROI - aber nur unter HR8-Bedingungen (Spread <10)."
+      ],
+      "tipps": [
+        {
+          "kategorie": "wackel",
+          "markt": "Sieg San Antonio Spurs (Moneyline)",
+          "quote": 1.22,
+          "edge_prozent": 5.0,
+          "begruendung": "Spurs Heim-Favorit @ -450 (Implizit-Quote 1.22). 75%+ implizite Hitrate, plus Reaktions-Pflicht nach G1-Pleite + Wemby-Heim-Form. NBA-Mapper-Hebel B macht aus jedem SAFE auto VALUE - daher VALUE-Label. Knappe Edge bei 1.22, deshalb reduzierter Einsatz: 5.50€ (1.0%). HR8-Lesson sieht 1.22-Quoten bei Spread >=10 max VALUE - Spurs -9.5 grenzwertig OK fuer VALUE-ML. Quote via Polymarket/FanDuel verifiziert. [Auto HR2: Heim-Krise/Sturm-Krise erkannt - Heim-Sieg/-DC/-Top-Stuermer max WACKEL]",
+          "faire_quote": 1.16,
+          "empfohlener_einsatz_prozent": 1.0,
+          "_heim_form_block": true,
+          "id": "sas-min-1"
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Wolves Handicap +9.5 (Spread)",
+          "quote": 1.91,
+          "edge_prozent": null,
+          "begruendung": "Spread/Handicap Goldgrube (+20.5% ROI), aber HR8 cap-tt: Round-2-Spread bei 9.5+ ist nicht SAFE/VALUE-faehig (Garbage-Time-Risiko / Wemby-Heim-Crowd-Eskalation). G1 endete +2 fuer Wolves - der enge Margin spricht gegen Spurs-Cover bei 9.5. Wolves +9.5 deshalb Wackel-Hedge auf das Spurs-ML-Bein (Layer-2: andere Markt-Familie F vs A) - falls Spurs nur knapp gewinnen, springt Wolves-Spread an. Empfohlener Einsatz: 2.75€ (0.5%).",
+          "faire_quote": 1.91,
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "sas-min-2"
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Unter 215.5 Punkte (Total)",
+          "quote": 1.91,
+          "edge_prozent": null,
+          "begruendung": "HR13-Lesson 05.05.: Round-2-Total-Adjustment-Phase mit Defensiv-Fokus. G1 endete 206 Pkt (Wolves 104, Spurs 102) - klar unter 215.5-Linie. Pattern: Defense-fokussierte Halbfinal-Spiele. Empfohlener Einsatz: 2.75€ (0.5%). Quote 1.91 via FanDuel verifiziert. Wackel statt VALUE wegen Playoff-Total-Varianz - Wemby-Heim-Spike ist Risiko.",
+          "faire_quote": 1.91,
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "sas-min-3"
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "133:95",
+        "halbzeit": "60:35",
+        "heim_punkte": 133,
+        "gast_punkte": 95,
+        "quelle": "Washington Post/ESPN/NBA.com/TSN WebSearch 07.05. — 'Wolves 35 Pkt 1.HZ, 25-Pkt-Rueckstand zur Pause' = Spurs ~60"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "sas-min-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.22,
+          "kommentar": "Spurs 133:95 dominiert — Wembanyama 19/15, Castle 21, Fox 16. Bigger-Postseason-Win seit 1983.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "sas-min-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Wolves verloren mit 38 Punkten (95:133) — Spread +9.5 weit verfehlt. Wolves-Hedge-Idee gescheitert.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "sas-min-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Total 228 Pkt (133+95) — klar UEBER 215.5. G2-Reaktions-Spike: Spurs eskalierten offensiv nach G1-Heim-Pleite.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "60:35",
+        "endstand": "133:95",
+        "tore": [],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Spurs fuehrten HZ +25 (60:35), Endstand +38 (133:95) — kontinuierliche Verbreiterung des Vorsprungs ohne Wende. Wolves shootete 29.8% FG in 1.HZ + 2/15 von 3."
+        },
+        "markt_resultate": {
+          "btts": null,
+          "ueber_2_5": null,
+          "ueber_3_5": null,
+          "ueber_215_5": true,
+          "ueber_220_5": true,
+          "ueber_225_5": true,
+          "halbzeit_endstand": "Spurs/Spurs",
+          "spread_minus_9_5_spurs": true,
+          "spread_minus_12_5_spurs": true,
+          "kein_team_zu_null": null
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Edwards",
+            "details": "Edwards spielte (12 Pkt) trotz Round-1-OUT-Bedenken — Wolves-Vier-Spieler-12-Pkt-Spread war Symptom eines Komplett-Kollapses, nicht eines Rotations-Problems"
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "G2-Reaktions-Spike bei Heim-Favorit nach G1-Pleite: Spurs verloren G1 zuhause 102:104, kamen mit 133:95-Klatsche zurueck. Total 228 Pkt = G1-Total 206 + 22. Lesson: HR13-Defensiv-Adjustment-Pattern loesst sich auf, wenn Heim-Favorit Rueck-Reaktion liefern muss.",
+          "Wembanyama-Heim-Effekt explodiert: 19/15 in nur 26 Min (Foul-Trouble vermieden) — wenn Wemby Foul-frei spielt, eskaliert Spurs-Total.",
+          "Beide Spread-Linien (-9.5 und -12.5 Spurs) gecovert — Ueberreaktion auf G1-Pleite. Lesson: Round-2-Spread bei Reaktions-Pflicht eines Top-Stars (Wembanyama) NICHT als Garbage-Time-Cap behandeln, sondern als Eskalationsrisiko."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "tipp_id": "bay-psg-1",
+      "spiel_id": "2026-05-06-bay-psg",
+      "markt": "FC Bayern Muenchen vs Paris Saint-Germain: Harry Kane trifft jederzeit",
+      "kategorie": "wackel",
+      "quote": 1.61,
+      "rang": 1,
+      "empfohlener_einsatz_prozent": 0.5
+    },
+    {
+      "tipp_id": "bay-psg-2",
+      "spiel_id": "2026-05-06-bay-psg",
+      "markt": "FC Bayern Muenchen vs Paris Saint-Germain: Mehr als 2.5 Tore",
+      "kategorie": "value",
+      "quote": 1.4,
+      "rang": 2,
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "tipp_id": "bay-psg-3",
+      "spiel_id": "2026-05-06-bay-psg",
+      "markt": "FC Bayern Muenchen vs Paris Saint-Germain: Sieg FC Bayern Muenchen",
+      "kategorie": "value",
+      "quote": 1.85,
+      "rang": 3,
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "tipp_id": "bay-psg-4",
+      "spiel_id": "2026-05-06-bay-psg",
+      "markt": "FC Bayern Muenchen vs Paris Saint-Germain: Michael Olise trifft jederzeit",
+      "kategorie": "wackel",
+      "quote": 3.5,
+      "rang": 4,
+      "empfohlener_einsatz_prozent": 0.5
+    },
+    {
+      "tipp_id": "nyk-phi-1",
+      "spiel_id": "2026-05-06-nyk-phi",
+      "markt": "New York Knicks vs Philadelphia 76ers: Sieg New York Knicks (Moneyline)",
+      "kategorie": "value",
+      "quote": 1.37,
+      "rang": 5,
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "tipp_id": "nyk-phi-2",
+      "spiel_id": "2026-05-06-nyk-phi",
+      "markt": "New York Knicks vs Philadelphia 76ers: Knicks Handicap -6.5 (Spread)",
+      "kategorie": "value",
+      "quote": 1.91,
+      "rang": 6,
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "tipp_id": "nyk-phi-3",
+      "spiel_id": "2026-05-06-nyk-phi",
+      "markt": "New York Knicks vs Philadelphia 76ers: Unter 215.5 Punkte (Total)",
+      "kategorie": "wackel",
+      "quote": 1.91,
+      "rang": 7,
+      "empfohlener_einsatz_prozent": 0.5
+    },
+    {
+      "tipp_id": "sas-min-1",
+      "spiel_id": "2026-05-06-sas-min",
+      "markt": "San Antonio Spurs vs Minnesota Timberwolves: Sieg San Antonio Spurs (Moneyline)",
+      "kategorie": "wackel",
+      "quote": 1.22,
+      "rang": 8,
+      "empfohlener_einsatz_prozent": 0.5
+    },
+    {
+      "tipp_id": "sas-min-2",
+      "spiel_id": "2026-05-06-sas-min",
+      "markt": "San Antonio Spurs vs Minnesota Timberwolves: Wolves Handicap +9.5 (Spread)",
+      "kategorie": "wackel",
+      "quote": 1.91,
+      "rang": 9,
+      "empfohlener_einsatz_prozent": 0.5
+    },
+    {
+      "tipp_id": "sas-min-3",
+      "spiel_id": "2026-05-06-sas-min",
+      "markt": "San Antonio Spurs vs Minnesota Timberwolves: Unter 215.5 Punkte (Total)",
+      "kategorie": "wackel",
+      "quote": 1.91,
+      "rang": 10,
+      "empfohlener_einsatz_prozent": 0.5
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-safe-2026-05-06",
+      "name": "Safe-Kombi (~3.10x)",
+      "kategorie": "safe",
+      "beine": [
+        {
+          "spiel_id": "2026-05-06-bay-psg",
+          "markt": "Bayern Muenchen vs PSG: Bayern vs PSG: Sieg FC Bayern Muenchen",
+          "quote": 1.85,
+          "spiel_titel": "Bayern Muenchen vs PSG"
+        },
+        {
+          "spiel_id": "2026-05-06-nyk-phi",
+          "markt": "Knicks vs 76ers G2: Knicks vs Sixers: Sieg New York Knicks (Moneyline)",
+          "quote": 1.37,
+          "spiel_titel": "Knicks vs 76ers G2"
+        },
+        {
+          "spiel_id": "2026-05-06-sas-min",
+          "markt": "Spurs vs Timberwolves G2: Spurs vs Wolves: Sieg San Antonio Spurs (Moneyline)",
+          "quote": 1.22,
+          "spiel_titel": "Spurs vs Timberwolves G2"
+        }
+      ],
+      "gesamt_quote": 3.09,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 11.0,
+      "begruendung": "3-Bein-Heim-Favoriten-Bundle. Bayern Heim-Pflichtsieg (CL HF Rueckspiel) + Knicks nach G1-39-Pkt-Blowout zuhause + Spurs nach G1-Heim-Pleite Pflicht-Reaktion. Layer-1 ✓ (3 verschiedene Spiele). Layer-2: alle 3 Sieg-Outcomes in Safe gebuendelt - andere Kombis nutzen Total/Spread/Player. Hinweis: 3 Sieg-Beine erhoehen Korrelations-Risiko (Lesson 03.05.) - aber heute kein UEFA-Doppel-Druck Bayern + NBA G2-Klassen-Edge stark. Empfohlener Einsatz 11€ (2% der 550€-Kasse)."
+    },
+    {
+      "id": "kombi-balance-2026-05-06",
+      "name": "Balance-Kombi (~5.87x)",
+      "kategorie": "balance",
+      "beine": [
+        {
+          "spiel_id": "2026-05-06-bay-psg",
+          "markt": "Bayern Muenchen vs PSG: Bayern vs PSG: Harry Kane trifft jederzeit",
+          "quote": 1.61,
+          "spiel_titel": "Bayern Muenchen vs PSG"
+        },
+        {
+          "spiel_id": "2026-05-06-nyk-phi",
+          "markt": "Knicks vs 76ers G2: Knicks vs Sixers: Knicks Handicap -6.5 (Spread)",
+          "quote": 1.91,
+          "spiel_titel": "Knicks vs 76ers G2"
+        },
+        {
+          "spiel_id": "2026-05-06-sas-min",
+          "markt": "Spurs vs Timberwolves G2: Spurs vs Wolves: Unter 215.5 Punkte (Total)",
+          "quote": 1.91,
+          "spiel_titel": "Spurs vs Timberwolves G2"
+        }
+      ],
+      "gesamt_quote": 5.87,
+      "empfohlener_einsatz_prozent": 0.8,
+      "empfohlener_einsatz_euro": 4.4,
+      "begruendung": "3-Bein-Markt-Diversifikation. Kane Tor (Goldgrube +32% ROI) + Knicks-Spread (Goldgrube +20.5% ROI) + Spurs-Wolves Unter 215.5 (HR13-Pattern G1-Defensiv-Adjustment). Layer-1 ✓ (3 versch. Spiele). Layer-2 ✓ (kein Sieg-Bein, alles Total/Spread/Tor). Layer-3 ✓ (jedes Bein einzigartig). 3 verschiedene Markt-Familien (B Spieler-Tor, F NBA Spread, C Total). Empfohlener Einsatz 4.40€ (0.8%)."
+    },
+    {
+      "id": "kombi-risiko-2026-05-06",
+      "name": "Risiko-Kombi (~18.9x)",
+      "kategorie": "risk",
+      "beine": [
+        {
+          "spiel_id": "2026-05-06-bay-psg",
+          "markt": "Bayern Muenchen vs PSG: Bayern vs PSG: Mehr als 2.5 Tore",
+          "quote": 1.4,
+          "spiel_titel": "Bayern Muenchen vs PSG"
+        },
+        {
+          "spiel_id": "2026-05-06-nyk-phi",
+          "markt": "Knicks vs 76ers G2: Knicks vs Sixers: Sieg Philadelphia 76ers (Moneyline)",
+          "quote": 3.0,
+          "spiel_titel": "Knicks vs 76ers G2"
+        },
+        {
+          "spiel_id": "2026-05-06-sas-min",
+          "markt": "Spurs vs Timberwolves G2: Spurs vs Wolves: Sieg Minnesota Timberwolves (Moneyline)",
+          "quote": 4.5,
+          "spiel_titel": "Spurs vs Timberwolves G2"
+        }
+      ],
+      "gesamt_quote": 18.9,
+      "empfohlener_einsatz_prozent": 0.25,
+      "empfohlener_einsatz_euro": 1.4,
+      "begruendung": "3-Bein-Risiko mit 2 NBA-Underdog-Sieg-Wetten. Bay-PSG Tor-Festival (Hinspiel 9 Tore) + Sixers-Reaktion-Spike (Embiid-Comeback-Profil) + Wolves-Bonus-Modus-Sweep-Versuch. Underdog-Doppel ist riskant (Korrelation Round 2 G2 Reaktions-Spielen) - daher Risiko-Label. Empfohlener Einsatz 1.40€ (0.25%). Layer-1 ✓, Layer-2 ✓ (Sixers/Wolves Sieg sind andere Outcomes als Safe-Kombi-Sieg-Beine)."
+    },
+    {
+      "id": "kombi-moonshot-2026-05-06",
+      "name": "Moonshot-Kombi (~46.6x)",
+      "kategorie": "moonshot",
+      "beine": [
+        {
+          "spiel_id": "2026-05-06-bay-psg",
+          "markt": "Bayern Muenchen vs PSG: Bayern vs PSG: Michael Olise trifft jederzeit",
+          "quote": 3.5,
+          "spiel_titel": "Bayern Muenchen vs PSG"
+        },
+        {
+          "spiel_id": "2026-05-06-nyk-phi",
+          "markt": "Knicks vs 76ers G2: Knicks vs Sixers: 76ers Handicap +5.5 (Spread Cover)",
+          "quote": 3.5,
+          "spiel_titel": "Knicks vs 76ers G2"
+        },
+        {
+          "spiel_id": "2026-05-06-sas-min",
+          "markt": "Spurs vs Timberwolves G2: Spurs vs Wolves: Wolves Handicap +12 (Spread Cover)",
+          "quote": 3.8,
+          "spiel_titel": "Spurs vs Timberwolves G2"
+        }
+      ],
+      "gesamt_quote": 46.55,
+      "empfohlener_einsatz_prozent": 0.1,
+      "empfohlener_einsatz_euro": 0.55,
+      "begruendung": "Spass-Moonshot mit nur 3 verfuegbaren Spielen. Olise als Backup-Sturm-Profil + 2 NBA-Underdog-Spread-Cover (groessere Linien als Risiko-Kombi). Ehrlich: bei nur 3 Spielen heute kommen 300x+ nicht zusammen ohne Hattrick/Genaues-Ergebnis-Beine - heutige 46x-Konstruktion ist die realistische Obergrenze ohne Bluter-Maerkte. Layer-1 ✓, Layer-3 ✓ (Spread-Linien anders als in Risiko/Balance). Empfohlener Einsatz 0.55€ (0.1%) - reiner Spasseinsatz."
+    }
+  ],
+  "lessons_angewandt": [
+    {
+      "lesson_datum": "2026-05-04",
+      "kategorie": "PFLICHT-PROFILE pro Spiel: Backup-Spieler + Form-Edge",
+      "anwendung": "Bayern-PSG: Heim-Sieg-Quote 1.85 < traffic-cutoff 1.80 grenzwertig - dennoch Pflicht-Torschuetzen-Tipp gesetzt (Kane @1.61 - Form-Edge 7/8 letzte Spiele). Plus Backup-Sturmer Olise als Wackel-Tipp (3.50). Goldgrube Torschuetzen Jederzeit aktiv gesucht."
+    },
+    {
+      "lesson_datum": "2026-05-04",
+      "kategorie": "Markt-Mix-Pflicht pro Spiel: Mapper-Hebel M",
+      "anwendung": "Bayern-PSG hat Sieg-Tipp (Bayern) + 2 Torschuetzen-Tipps (Kane, Olise) + Tor-Total (Mehr 2.5) = offensives Edge-Signal vorhanden. Keine reine DC-Suche. Im Dossier insgesamt 0 DC-Tipps - alle auf Sieg/Spread/Total/Player-Tor."
+    },
+    {
+      "lesson_datum": "2026-05-03",
+      "kategorie": "SAFE-Reality-Check #2: Top-Team-Rotation vor CL-Rueckspiel",
+      "anwendung": "Heute IST das CL-Rueckspiel - kein Rotations-Risiko fuer Bayern (PSG heute = Saison-Highlight). Bayern voll besetzt laut Vorbericht. Bayern-Sieg trotzdem max VALUE (kein SAFE) wegen CL-HF-Rueckspiel nicht in liga_goldgruben.json (nur Hinspiel)."
+    },
+    {
+      "lesson_datum": "2026-05-04",
+      "kategorie": "NBA-Playoffs: Mapper-Haerter (Hebel B)",
+      "anwendung": "Beide NBA-G2-Spiele: alle Sieg/Spread/Total-Tipps maximal VALUE/wackel - kein SAFE moeglich. Knicks ML/Spurs ML als VALUE statt SAFE. Spread-Tipps konsistent VALUE/wackel (Goldgrube +20.5% ROI)."
+    },
+    {
+      "lesson_datum": "2026-05-05",
+      "kategorie": "HR13: NBA Round-2 Total-Adjustment-Phase",
+      "anwendung": "G1-Pattern Round 2 zeigte Defensiv-Schlachten (Pistons-Cavs 212, OKC-Lakers 198, Spurs-Wolves 206). G2 wird ahnlich erwartet - Unter 215.5 in beiden Spielen aktiv gesetzt (1x als Wackel-Einzeltipp Spurs-Wolves, 1x in Balance-Kombi)."
+    },
+    {
+      "lesson_datum": "2026-05-04",
+      "kategorie": "HR1: bet365-Quote PFLICHT direkt verifiziert",
+      "anwendung": "Alle Quoten via Oddschecker/SportsGambler/FanDuel/Polymarket cross-checked: Bayern 1.85, Kane 1.61, Knicks ML 1.37, Knicks -6.5 1.91, Spurs ML 1.22. Keine Aggregator-vs-bet365-Diffs >10% gefunden."
+    },
+    {
+      "lesson_datum": "2026-05-04",
+      "kategorie": "HR3: Joker-Stuermer statt Top-Stuermer bei UEFA-Doppelbelastung",
+      "anwendung": "Bayern hat HEUTE keine UEFA-Doppelbelastung (PSG IST das UEFA-Spiel) - daher Top-Stuermer Kane bleibt VALUE-Tipp. Olise als Backup-Joker zusaetzlich, nicht ersetzend."
+    },
+    {
+      "lesson_datum": "2026-05-04",
+      "kategorie": "Markt-Bluter-Skip: BTTS-JA + Unter 3.5",
+      "anwendung": "Beide Markt-Typen unter -40% ROI - im Dossier komplett vermieden. Stattdessen Mehr 2.5 Tore (Goldgrube-Aggregat +10.7% ROI) + Unter 215.5 NBA-Total."
+    },
+    {
+      "lesson_datum": "2026-05-01",
+      "kategorie": "Risiko-Kombi-Erfolg via Layer-2/Layer-3-Diversifikation",
+      "anwendung": "Risiko-Kombi heute 3-Bein mit 3 verschiedenen Spielen + 3 verschiedenen Markt-Familien (Total/Sieg-Underdog/Sieg-Underdog). Layer-2: keine Sieg-Outcome-Doppelung mit Safe-Kombi (dort Bayern/Knicks/Spurs - hier Sixers/Wolves). Layer-3: kein Markt-Bein doppelt ueber Kombis."
+    }
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool, keine Einkommensquelle. Nur setzen was du verlieren kannst.",
+  "einzeltipps_ergebnis": [
+    {
+      "tipp_id": "bay-psg-1",
+      "spiel_id": "2026-05-06-bay-psg",
+      "markt": "FC Bayern Muenchen vs Paris Saint-Germain: Harry Kane trifft jederzeit",
+      "kategorie": "wackel",
+      "quote": 1.61,
+      "rang": 1,
+      "empfohlener_einsatz_prozent": 0.5,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.61,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "tipp_id": "bay-psg-2",
+      "spiel_id": "2026-05-06-bay-psg",
+      "markt": "FC Bayern Muenchen vs Paris Saint-Germain: Mehr als 2.5 Tore",
+      "kategorie": "value",
+      "quote": 1.4,
+      "rang": 2,
+      "empfohlener_einsatz_prozent": 1.0,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "tipp_id": "bay-psg-3",
+      "spiel_id": "2026-05-06-bay-psg",
+      "markt": "FC Bayern Muenchen vs Paris Saint-Germain: Sieg FC Bayern Muenchen",
+      "kategorie": "value",
+      "quote": 1.85,
+      "rang": 3,
+      "empfohlener_einsatz_prozent": 1.0,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "tipp_id": "bay-psg-4",
+      "spiel_id": "2026-05-06-bay-psg",
+      "markt": "FC Bayern Muenchen vs Paris Saint-Germain: Michael Olise trifft jederzeit",
+      "kategorie": "wackel",
+      "quote": 3.5,
+      "rang": 4,
+      "empfohlener_einsatz_prozent": 0.5,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "tipp_id": "nyk-phi-1",
+      "spiel_id": "2026-05-06-nyk-phi",
+      "markt": "New York Knicks vs Philadelphia 76ers: Sieg New York Knicks (Moneyline)",
+      "kategorie": "value",
+      "quote": 1.37,
+      "rang": 5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.37,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "tipp_id": "nyk-phi-2",
+      "spiel_id": "2026-05-06-nyk-phi",
+      "markt": "New York Knicks vs Philadelphia 76ers: Knicks Handicap -6.5 (Spread)",
+      "kategorie": "value",
+      "quote": 1.91,
+      "rang": 6,
+      "empfohlener_einsatz_prozent": 1.0,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "tipp_id": "nyk-phi-3",
+      "spiel_id": "2026-05-06-nyk-phi",
+      "markt": "New York Knicks vs Philadelphia 76ers: Unter 215.5 Punkte (Total)",
+      "kategorie": "wackel",
+      "quote": 1.91,
+      "rang": 7,
+      "empfohlener_einsatz_prozent": 0.5,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.91,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "tipp_id": "sas-min-1",
+      "spiel_id": "2026-05-06-sas-min",
+      "markt": "San Antonio Spurs vs Minnesota Timberwolves: Sieg San Antonio Spurs (Moneyline)",
+      "kategorie": "wackel",
+      "quote": 1.22,
+      "rang": 8,
+      "empfohlener_einsatz_prozent": 0.5,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.22,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "tipp_id": "sas-min-2",
+      "spiel_id": "2026-05-06-sas-min",
+      "markt": "San Antonio Spurs vs Minnesota Timberwolves: Wolves Handicap +9.5 (Spread)",
+      "kategorie": "wackel",
+      "quote": 1.91,
+      "rang": 9,
+      "empfohlener_einsatz_prozent": 0.5,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "tipp_id": "sas-min-3",
+      "spiel_id": "2026-05-06-sas-min",
+      "markt": "San Antonio Spurs vs Minnesota Timberwolves: Unter 215.5 Punkte (Total)",
+      "kategorie": "wackel",
+      "quote": 1.91,
+      "rang": 10,
+      "empfohlener_einsatz_prozent": 0.5,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "kombi-safe-2026-05-06",
+      "status": "verloren",
+      "gesamtquote": 3.09,
+      "kommentar": "Bayern-Sieg-Bein gescheitert (1:1), Knicks/Spurs ML beide gewonnen. Korrelations-Risiko (3 Sieg-Beine) hat zugeschlagen."
+    },
+    {
+      "kombi_id": "kombi-balance-2026-05-06",
+      "status": "verloren",
+      "gesamtquote": 5.87,
+      "kommentar": "Kane Tor gewonnen, aber Knicks -6.5 Spread verloren (gewannen mit exakt 6) + Unter 215.5 Spurs-Wolves verloren (228)."
+    },
+    {
+      "kombi_id": "kombi-risiko-2026-05-06",
+      "status": "verloren",
+      "gesamtquote": 18.9,
+      "kommentar": "Alle 3 Beine verloren (Mehr 2.5 verfehlt, Sixers ML verloren, Wolves ML verloren)."
+    },
+    {
+      "kombi_id": "kombi-moonshot-2026-05-06",
+      "status": "verloren",
+      "gesamtquote": 46.55,
+      "kommentar": "Alle 3 Beine verloren (Olise kein Tor, 76ers +5.5 verfehlt um 0.5, Wolves +12 verfehlt um 26)."
+    }
+  ],
+  "ausgewertet_am": "2026-05-07T06:11:52.001472+00:00"
+}
