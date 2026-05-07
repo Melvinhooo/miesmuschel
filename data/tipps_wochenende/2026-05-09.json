@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
+{
   "datum": "2026-05-09",
   "erstellt_am": "2026-05-07T18:00:00+02:00",
   "hinweis": "Wochenend-Vorschau Sa 09.05. bis So 10.05.2026 — vorletzter Spieltag in BL/LaLiga/PL/Serie A, Saisonfinale-Druck pur. Quoten Stand Donnerstag-Abend, bei bet365 vor Anstoss live pruefen — koennen sich bewegen. Kasse-Stand: 550€ (Stufe 1 Aufbau, 1-2% pro Tipp = 5,50-11€ pro SAFE/VALUE-Einzel, 2,75€ pro WACKEL). Bayern + Forest + Villa + City raus aus CL bzw rein in EL/CL-Finals -> Saisonziel-Mathematik wichtig. NBA Round 2 G3/G4 sind keine Decider — normale Regeln, aber Beobachtungs-Liga-Vorsicht. Gamble responsible, BZgA 0800 1372700.",
@@ -36,30 +35,39 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "quote": 2.2,
           "kategorie": "value",
           "begruendung": "Klassische Anti-Top-Team-Rotations-These (Lessons 03.05. + 04.05. SAFE-Konstruktion #3): Bayern Saisonziel durch + CL-Aus + 3 Tage Recovery vs Wolfsburg Klassenerhalt-Pflicht. DC 1X ist Markt-Goldgrube (84.6% Hit / +9.5% ROI). Empfohlener Einsatz: 8,25€ (1.5% der 550€-Kasse). Quote via Squawka/EasyOdds, bet365 vor Anstoss verifizieren — bet365 hat oft Heim-Underdog-Bias bei Top-Team-Auswaerts.",
-          "edge_prozent": 14
+          "edge_prozent": 14,
+          "faire_quote": 1.93,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
           "markt": "Wolfsburg Sieg",
           "quote": 4.8,
           "kategorie": "wackel",
           "begruendung": "Spiegel-Edge zur Anti-Bayern-Rotations-These + bet365 2:0-Insurance (Bundesliga, direkter Sieg-Tipp) — wenn Wolfsburg im Spiel ueber 2:0 fuehrt zaehlt der Sieg-Tipp auch bei spaeterem Comeback. Lesson 03.05. (Underdog-2:0-Insurance bei Top-Team-Rotation). Empfohlener Einsatz: 2,75€ (0.5% Kasse).",
-          "edge_prozent": 10
+          "edge_prozent": 10,
+          "faire_quote": 4.36,
+          "empfohlener_einsatz_prozent": 0.5
         },
         {
           "markt": "Olise (Bayern) trifft jederzeit",
           "quote": 3.1,
           "kategorie": "wackel",
           "begruendung": "Backup-Stuermer-These bei UEFA-Doppelbelastung (Lessons 27.04. + 04.05. HR3): Olise hat 7 von 12 letzten Pflichtspielen 30+ Min, bei CL-HF-Rotation kommt er als Joker rein. Boost-Mechanik (bet365): wenn Kane ausgewechselt wird und Olise trifft, zaehlt der Tipp ueber bet365-Auswechslungs-Boost. Goldgrube-Markt 'Torschuetzen Jederzeit' (50% Hit / +24.4% ROI). Empfohlener Einsatz: 2,75€ (0.5% Kasse).",
-          "edge_prozent": 12
+          "edge_prozent": 12,
+          "faire_quote": 2.77,
+          "empfohlener_einsatz_prozent": 0.5
         },
         {
           "markt": "Beide Teams treffen Ja",
           "quote": 1.8,
           "kategorie": "wackel",
           "begruendung": "Bayern hat in den letzten 8 Pflichtspielen 8x getroffen (auch in Rotations-Setups), Wolfsburg trifft zuhause unter Klassenerhalt-Druck (3 von 4 letzten Heim-Spielen 1+ Tor). Tipp keine Goldgrube, daher bewusst nur WACKEL trotz hoher Wahrscheinlichkeit. Einsatz: 2,75€ (0.5%).",
-          "edge_prozent": 5
+          "edge_prozent": 5,
+          "faire_quote": 1.71,
+          "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-09-fca-bmg",
@@ -91,23 +99,30 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "quote": 1.5,
           "kategorie": "value",
           "begruendung": "Heim-Vorteil + Goldgrube-Markt DC 1X (84.6% Hit / +9.5% ROI). Beide Teams ohne Pflichtsieg-Druck = niedriges Tor-Risiko, Heim-DC oft sicher. Saison-Kontext warnt aber vor 'beide Mid-Table ohne Druck' — daher VALUE statt SAFE. Empfohlener Einsatz: 8,25€ (1.5% Kasse). Quote via Sport.de, bet365 verifizieren.",
-          "edge_prozent": 8
+          "edge_prozent": 8,
+          "faire_quote": 1.39,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
           "markt": "Unter 3.5 Tore",
           "quote": 1.3,
           "kategorie": "value",
           "begruendung": "Beide Teams ohne Tor-Festival-Charakter (Augsburg im Schnitt 2.5 Tore/Heim-Spiel, Gladbach 2.3 Tore/Spiel). Saisonende ohne Druck reduziert Tempo. Markt nicht in Goldgrube aber Reality-Check: Unter 3.5 Tore generell solide ROI. Einsatz: 8,25€ (1.5%).",
-          "edge_prozent": 7
+          "edge_prozent": 7,
+          "faire_quote": 1.21,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
           "markt": "Tabakovic (Gladbach) trifft jederzeit",
           "quote": 4.2,
           "kategorie": "wackel",
           "begruendung": "Backup-Stuermer-Form (Lesson 04.05. Goldgrube Torschuetzen Jederzeit +24.4% ROI). Tabakovic hat in den letzten 5 Spielen 2 Tore inkl. Game-Winner BVB. Boost-Setup ueber bet365 wenn er ausgewechselt wird. Einsatz: 2,75€ (0.5%).",
-          "edge_prozent": 6
+          "edge_prozent": 6,
+          "faire_quote": 3.96,
+          "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-09-tsg-svw",
@@ -139,23 +154,30 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "quote": 1.4,
           "kategorie": "value",
           "begruendung": "Heim-Conference-Quali-Druck + Goldgrube-Markt DC 1X. Polymarket Coinflip 50/50 ist trader-konsens, aber Heim-Form (BVB-Sieg) und Bremen-Defensiv-Probleme tippen Edge. Saison-Kontext: BEIDE Teams haben Druck, daher VALUE statt SAFE (Lesson 04.05. SAFE-Konstruktion #3 — wenn Auswaerts-Underdog volles Saisonziel hat ist kein SAFE moeglich). Einsatz: 8,25€ (1.5%).",
-          "edge_prozent": 6
+          "edge_prozent": 6,
+          "faire_quote": 1.32,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
           "markt": "Kramaric (Hoffenheim) trifft jederzeit",
           "quote": 2.8,
           "kategorie": "value",
           "begruendung": "Goldgrube Torschuetzen Jederzeit +24.4% ROI. Kramaric Form-Edge: 3 Tore in 4 Spielen, davon 2 zuhause. Stamm-Stuermer Pflichtcheck (Lesson 03.05.) — Kramaric voll fit + Startelf wahrscheinlich. Einsatz: 5,50€ (1%).",
-          "edge_prozent": 11
+          "edge_prozent": 11,
+          "faire_quote": 2.52,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
           "markt": "Beide Teams treffen Ja",
           "quote": 1.65,
           "kategorie": "wackel",
           "begruendung": "Bremen 8 Gegentore in 4 Spielen + 3 Tore vs HSV — beide trafen in 6 von 8 letzten Bremen-Spielen. Hoffenheim trifft zuhause durchgehend. Tipp ist nicht Goldgrube — bewusst WACKEL. Einsatz: 2,75€ (0.5%).",
-          "edge_prozent": 5
+          "edge_prozent": 5,
+          "faire_quote": 1.57,
+          "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-09-liv-che",
@@ -189,23 +211,30 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "quote": 1.3,
           "kategorie": "safe",
           "begruendung": "DOPPEL-Goldgrube: PL ist Liga-Goldgrube (Trefferquote 70.6%, ROI +3.5%) UND Markt DC 1X ist Markt-Goldgrube (84.6%/+9.5%). Liverpool Anfield-Festung 14-3-0 + Chelsea Auswaerts-Schwaeche + CL-Quali-Pflichtspiel-Druck = klassisches SAFE-Setup. Lesson 04.05. SAFE-Konstruktion #3 erfuellt: Heim hat Saisonziel-Druck, Gast nicht, keine UEFA-Doppelbelastung. Einsatz: 8,25€ (1.5%).",
-          "edge_prozent": 12
+          "edge_prozent": 12,
+          "faire_quote": 1.16,
+          "empfohlener_einsatz_prozent": 1.5
         },
         {
           "markt": "Salah (Liverpool) trifft jederzeit",
           "quote": 1.85,
           "kategorie": "value",
           "begruendung": "Goldgrube Torschuetzen Jederzeit (+24.4% ROI). Salah-Form 4/5, Heim-Stamm, Anfield-Auswaerts-Schwaeche von Chelsea. PFLICHT-Tipp gemaess Lesson 04.05. PFLICHT-PROFILE (Heim-Sieg-Quote < 1.80 = Torschuetzen-Tipp Pflicht). Einsatz: 8,25€ (1.5%).",
-          "edge_prozent": 14
+          "edge_prozent": 14,
+          "faire_quote": 1.62,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
           "markt": "Liverpool Sieg",
           "quote": 1.85,
           "kategorie": "value",
           "begruendung": "Direkter Sieg-Tipp (PL hat KEINE 2:0-Insurance, gilt nur BL+CL — Lesson 26.04.). Liverpool Heim-Bilanz + Salah-Form + Chelsea-Form-Krise. Liga-Goldgrube. Einsatz: 8,25€ (1.5%).",
-          "edge_prozent": 8
+          "edge_prozent": 8,
+          "faire_quote": 1.71,
+          "empfohlener_einsatz_prozent": 1.0
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-09-mci-bre",
@@ -238,23 +267,30 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "quote": 1.1,
           "kategorie": "safe",
           "begruendung": "PL Liga-Goldgrube + DC 1X Markt-Goldgrube = SAFE-bestaetigt. Klassendifferenz extrem (City Top-2 vs Brentford Mid-Table), Heim-Vorteil + Form. Quote sehr niedrig, deshalb eher als Kombi-Bein als Einzeltipp. Einsatz als Einzel: 5,50€ (1%).",
-          "edge_prozent": 5
+          "edge_prozent": 5,
+          "faire_quote": 1.05,
+          "empfohlener_einsatz_prozent": 1.5
         },
         {
           "markt": "Haaland (City) trifft jederzeit",
           "quote": 1.5,
           "kategorie": "safe",
           "begruendung": "Goldgrube-Pflicht (Lesson 04.05. PFLICHT-PROFILE Heim-Favorit < 1.80): Top-Stuermer-Form-Edge 5/5 + Klassendifferenz-Heim. Markt-Goldgrube Torschuetzen Jederzeit (50%/+24.4%). Stamm-Stuermer voll fit. Einsatz: 8,25€ (1.5%).",
-          "edge_prozent": 18
+          "edge_prozent": 18,
+          "faire_quote": 1.27,
+          "empfohlener_einsatz_prozent": 1.5
         },
         {
           "markt": "Manchester City Sieg",
           "quote": 1.36,
           "kategorie": "value",
           "begruendung": "Sieg-Tipp als Diversifikation neben DC. Liga-Goldgrube + dominantes City-Heim. Einsatz: 8,25€ (1.5%).",
-          "edge_prozent": 7
+          "edge_prozent": 7,
+          "faire_quote": 1.27,
+          "empfohlener_einsatz_prozent": 1.0
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-09-sun-mun",
@@ -285,18 +321,24 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
         {
           "markt": "Manchester United oder Unentschieden (Doppelte Chance X2)",
           "quote": 1.3,
-          "kategorie": "safe",
-          "begruendung": "PL Liga-Goldgrube + DC X2 Markt-Goldgrube (77.8%/+9.4%). Klassendifferenz-Edge + Auswaerts-Saisonziel-Druck (Lesson 04.05. SAFE-Konstruktion #3 erfuellt). Heim-Sunderland gerettet ohne Pflicht, Auswaerts-United CL-Quali-Pflicht. Einsatz: 8,25€ (1.5%).",
-          "edge_prozent": 9
+          "kategorie": "value",
+          "begruendung": "PL Liga-Goldgrube + DC X2 Markt-Goldgrube (77.8%/+9.4%). Klassendifferenz-Edge + Auswaerts-Saisonziel-Druck (Lesson 04.05. SAFE-Konstruktion #3 erfuellt). Heim-Sunderland gerettet ohne Pflicht, Auswaerts-United CL-Quali-Pflicht. Einsatz: 8,25€ (1.5%). [Auto HR4: Story-Konflikt v2 (Komfort-Pattern bei SAFE) -> safe->value]",
+          "edge_prozent": 9,
+          "faire_quote": 1.19,
+          "empfohlener_einsatz_prozent": 1.5,
+          "_story_konflikt_v2": true
         },
         {
           "markt": "Manchester United Sieg",
           "quote": 1.85,
           "kategorie": "value",
           "begruendung": "Auswaerts-Form 3/5 + Saisonziel-Druck + Sunderland-Heim-Wackel. PL Liga-Goldgrube. Einsatz: 8,25€ (1.5%).",
-          "edge_prozent": 8
+          "edge_prozent": 8,
+          "faire_quote": 1.71,
+          "empfohlener_einsatz_prozent": 1.0
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-09-atm-cel",
@@ -329,23 +371,30 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "quote": 1.25,
           "kategorie": "safe",
           "begruendung": "DOPPEL-Goldgrube: LaLiga Liga-Goldgrube (72.2%/+1.4%) UND DC 1X Markt-Goldgrube. H2H 14 Spiele unbesiegt. CL-Quali-Druck + Heim-Vorteil + Klassendifferenz. Lesson 04.05. SAFE-Konstruktion #3 erfuellt. Einsatz: 8,25€ (1.5%).",
-          "edge_prozent": 7
+          "edge_prozent": 7,
+          "faire_quote": 1.17,
+          "empfohlener_einsatz_prozent": 1.5
         },
         {
           "markt": "Julian Alvarez (Atletico) trifft jederzeit",
           "quote": 2.1,
           "kategorie": "value",
           "begruendung": "Goldgrube Torschuetzen Jederzeit (+24.4% ROI). Form-Edge 3/4 + Heim-Stamm + schwache Celta-Defense (1.4 Gegentore/Spiel). PFLICHT gemaess Lesson 04.05. PFLICHT-PROFILE (Heim-Quote ~2.0). Einsatz: 8,25€ (1.5%).",
-          "edge_prozent": 13
+          "edge_prozent": 13,
+          "faire_quote": 1.86,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
           "markt": "Atletico Madrid Sieg",
           "quote": 2.05,
           "kategorie": "value",
           "begruendung": "CL-Quali-Pflicht-Sieg vs entspannten Mid-Table-Gegner. Liga-Goldgrube. Einsatz: 8,25€ (1.5%).",
-          "edge_prozent": 9
+          "edge_prozent": 9,
+          "faire_quote": 1.88,
+          "empfohlener_einsatz_prozent": 1.0
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-09-sev-esp",
@@ -377,16 +426,21 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "quote": 1.4,
           "kategorie": "value",
           "begruendung": "LaLiga Liga-Goldgrube + DC 1X Markt-Goldgrube. ABER Lesson 04.05. SAFE-Konstruktion #3: Heim-Sevilla ohne klares Saisonziel + Espanyol Klassenerhalt-Druck = max VALUE statt SAFE. Quoten-Differenz Sevilla-Sieg vs Espanyol-Sieg signalisiert klares Heim-Edge. Einsatz: 8,25€ (1.5%).",
-          "edge_prozent": 7
+          "edge_prozent": 7,
+          "faire_quote": 1.31,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
           "markt": "Unter 2.5 Tore",
           "quote": 1.72,
           "kategorie": "wackel",
           "begruendung": "Espanyol-Klassenerhalt-Modus = defensiv. Sevilla nicht offensiv-dominant. Markt-Bilanz zeigt Unter-Tipps generell solid. Bewusst WACKEL wegen Liga-Saisonende-Volatilitaet. Einsatz: 2,75€ (0.5%).",
-          "edge_prozent": 6
+          "edge_prozent": 6,
+          "faire_quote": 1.62,
+          "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-10-hsv-scf",
@@ -418,16 +472,21 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "quote": 1.85,
           "kategorie": "wackel",
           "begruendung": "Beide Teams ohne Druck = niedriges Tempo erwartet. Freiburg Auswaerts-defensiv eingestellt. Lesson 04.05. SAFE-Konstruktion #3 verbietet SAFE. Einsatz: 2,75€ (0.5%).",
-          "edge_prozent": 5
+          "edge_prozent": 5,
+          "faire_quote": 1.76,
+          "empfohlener_einsatz_prozent": 0.5
         },
         {
           "markt": "Beide Teams treffen Nein",
           "quote": 2.1,
           "kategorie": "wackel",
           "begruendung": "Saisonende-Coinflip mit defensivem Charakter. Freiburg-Auswaerts trifft schwach (3 von 5 Auswaertsspielen ohne Tor). Bewusst WACKEL. Einsatz: 2,75€ (0.5%).",
-          "edge_prozent": 4
+          "edge_prozent": 4,
+          "faire_quote": 2.02,
+          "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-10-koe-hei",
@@ -458,18 +517,24 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
         {
           "markt": "Koeln oder Unentschieden (Doppelte Chance 1X)",
           "quote": 1.4,
-          "kategorie": "value",
-          "begruendung": "Goldgrube-Markt DC 1X. Heim-Pflichtsieg-Druck + Heidenheim-Sturm-Schwaeche. Saison-Kontext: BEIDE haben Druck, daher VALUE statt SAFE (Lesson 04.05.). Bundesliga ist NICHT Liga-Goldgrube, daher max VALUE moeglich. Einsatz: 8,25€ (1.5%).",
-          "edge_prozent": 9
+          "kategorie": "wackel",
+          "begruendung": "Goldgrube-Markt DC 1X. Heim-Pflichtsieg-Druck + Heidenheim-Sturm-Schwaeche. Saison-Kontext: BEIDE haben Druck, daher VALUE statt SAFE (Lesson 04.05.). Bundesliga ist NICHT Liga-Goldgrube, daher max VALUE moeglich. Einsatz: 8,25€ (1.5%). [Auto HR2: Heim-Krise/Sturm-Krise erkannt - Heim-Sieg/-DC/-Top-Stuermer max WACKEL]",
+          "edge_prozent": 9,
+          "faire_quote": 1.28,
+          "empfohlener_einsatz_prozent": 1.0,
+          "_heim_form_block": true
         },
         {
           "markt": "Unter 2.5 Tore",
           "quote": 1.75,
           "kategorie": "wackel",
           "begruendung": "Heidenheim schwacher Sturm + Koeln-Defensiv-Probleme = Tor-Aggregat-Wahl unsicher. Klassenerhalt-Druck-Spiele oft eng (1:0/1:1). Bewusst WACKEL. Einsatz: 2,75€ (0.5%).",
-          "edge_prozent": 6
+          "edge_prozent": 6,
+          "faire_quote": 1.65,
+          "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-10-mai-uni",
@@ -502,16 +567,21 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "quote": 1.85,
           "kategorie": "wackel",
           "begruendung": "Defensiv-eingestellte Saisonende-Mid-Table-Begegnung. Union-Auswaerts traditionell defensiv. Markt klar unter Linie. Bewusst WACKEL. Einsatz: 2,75€ (0.5%).",
-          "edge_prozent": 6
+          "edge_prozent": 6,
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 0.5
         },
         {
           "markt": "Burkardt (Mainz) trifft jederzeit",
           "quote": 3.5,
           "kategorie": "wackel",
           "begruendung": "Goldgrube Torschuetzen Jederzeit. Burkardt aktiv, in den letzten 5 Spielen 2 Tore. Quote spiegelt Form-Unsicherheit, daher WACKEL. Einsatz: 2,75€ (0.5%).",
-          "edge_prozent": 5
+          "edge_prozent": 5,
+          "faire_quote": 3.33,
+          "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-10-nfo-new",
@@ -542,25 +612,34 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
         {
           "markt": "Forest oder Unentschieden (Doppelte Chance 1X)",
           "quote": 1.45,
-          "kategorie": "value",
-          "begruendung": "PL Liga-Goldgrube + DC 1X Markt-Goldgrube. Form-Edge 5/5 Siege + Newcastle Form-Krise + Heim-Vorteil. Saisonziel-Mathematik nicht scharf (beide gerettet) daher VALUE statt SAFE (Lesson 04.05. SAFE-Konstruktion #3). Einsatz: 8,25€ (1.5%).",
-          "edge_prozent": 8
+          "kategorie": "wackel",
+          "begruendung": "PL Liga-Goldgrube + DC 1X Markt-Goldgrube. Form-Edge 5/5 Siege + Newcastle Form-Krise + Heim-Vorteil. Saisonziel-Mathematik nicht scharf (beide gerettet) daher VALUE statt SAFE (Lesson 04.05. SAFE-Konstruktion #3). Einsatz: 8,25€ (1.5%). [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
+          "edge_prozent": 8,
+          "faire_quote": 1.34,
+          "empfohlener_einsatz_prozent": 1.0,
+          "_saison_kontext_sanity_downgrade": true
         },
         {
           "markt": "Awoniyi (Forest) trifft jederzeit",
           "quote": 3.2,
           "kategorie": "value",
           "begruendung": "Goldgrube Torschuetzen Jederzeit (+24.4% ROI). Backup-Stuermer-Form-Edge (Doppelpack vs Chelsea 04.05.) — wenn er startet hat er Volume, wenn er als Joker reinkommt hat er Boost-Mechanik. Einsatz: 5,50€ (1%).",
-          "edge_prozent": 12
+          "edge_prozent": 12,
+          "faire_quote": 2.86,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
           "markt": "Forest Sieg",
           "quote": 2.4,
-          "kategorie": "value",
-          "begruendung": "Form-Welle 5/5 + Newcastle 4/5 Pleiten + Heim-Vorteil. PL Liga-Goldgrube. Einsatz: 8,25€ (1.5%).",
-          "edge_prozent": 13
+          "kategorie": "wackel",
+          "begruendung": "Form-Welle 5/5 + Newcastle 4/5 Pleiten + Heim-Vorteil. PL Liga-Goldgrube. Einsatz: 8,25€ (1.5%). [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
+          "edge_prozent": 13,
+          "faire_quote": 2.12,
+          "empfohlener_einsatz_prozent": 1.0,
+          "_saison_kontext_sanity_downgrade": true
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-10-whu-ars",
@@ -593,16 +672,21 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "quote": 1.2,
           "kategorie": "value",
           "begruendung": "PL Liga-Goldgrube + DC X2 Markt-Goldgrube. Klassendifferenz-Edge + Arsenal Titel-Druck. ABER (Lesson 04.05.): West Ham hat Klassenerhalt-Saisonziel, daher max VALUE statt SAFE. Quote sehr knapp daher v.a. Kombi-Bein. Einsatz als Einzel: 5,50€ (1%).",
-          "edge_prozent": 4
+          "edge_prozent": 4,
+          "faire_quote": 1.15,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
           "markt": "Saka (Arsenal) trifft jederzeit",
           "quote": 2.1,
           "kategorie": "value",
           "begruendung": "Goldgrube Torschuetzen Jederzeit (+24.4% ROI). Form-Edge 4/6 + Auswaerts-Form stark + West Ham-Defensiv-Schwaeche. PFLICHT-Tipp gemaess Lesson 04.05. PFLICHT-PROFILE (Auswaerts-Quote ~1.68). Einsatz: 8,25€ (1.5%).",
-          "edge_prozent": 11
+          "edge_prozent": 11,
+          "faire_quote": 1.89,
+          "empfohlener_einsatz_prozent": 1.0
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-10-bur-avl",
@@ -635,30 +719,39 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "quote": 1.18,
           "kategorie": "safe",
           "begruendung": "PL Liga-Goldgrube + DC X2 Markt-Goldgrube. Klassendifferenz extrem + Villa-Form 4/5 + Burnley-Auslauf-Modus. Lesson 04.05. SAFE-Konstruktion #3 erfuellt: Villa volles Saisonziel (CL-Quali) vs Burnley kein Saisonziel + keine UEFA-Doppelbelastung-Krise. Klassische Goldgrube-Vorlage (Lesson 02.05. Leeds-Burnley 4/4). Einsatz: 8,25€ (1.5%).",
-          "edge_prozent": 9
+          "edge_prozent": 9,
+          "faire_quote": 1.08,
+          "empfohlener_einsatz_prozent": 1.5
         },
         {
           "markt": "Watkins (Villa) trifft jederzeit",
           "quote": 1.85,
           "kategorie": "value",
           "begruendung": "Goldgrube Torschuetzen Jederzeit (+24.4% ROI). Form-Edge extrem (5 Tore in 6) + Klassendifferenz-Heim. PFLICHT gemaess Lesson 04.05. PFLICHT-PROFILE (Auswaerts-Sieg-Quote 1.62). Einsatz: 8,25€ (1.5%).",
-          "edge_prozent": 14
+          "edge_prozent": 14,
+          "faire_quote": 1.62,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
           "markt": "Aston Villa Sieg",
           "quote": 1.62,
           "kategorie": "value",
           "begruendung": "Direkter Sieg-Tipp diversifiziert neben DC. Liga-Goldgrube + Klassendifferenz. Einsatz: 8,25€ (1.5%).",
-          "edge_prozent": 8
+          "edge_prozent": 8,
+          "faire_quote": 1.5,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
           "markt": "Ueber 2.5 Tore",
           "quote": 1.65,
           "kategorie": "wackel",
           "begruendung": "Villa offensive Form (Ueber 2.5 in 4 von 5 letzten PL-Auswaertsspielen) + Burnley defensiv-mau in der Saison (1.8 Gegentore/Heim-Spiel). Markt nicht Goldgrube, daher WACKEL. Einsatz: 2,75€ (0.5%).",
-          "edge_prozent": 6
+          "edge_prozent": 6,
+          "faire_quote": 1.56,
+          "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-10-bar-rma",
@@ -693,30 +786,39 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "quote": 1.2,
           "kategorie": "safe",
           "begruendung": "LaLiga Liga-Goldgrube + DC 1X Markt-Goldgrube. Heim-Titel-Match-Motivation + Real Verletzungs-Crisis (5 Stamm-Spieler raus) + Camp-Nou-Festung. Lesson 04.05. SAFE-Konstruktion #3 erfuellt: Barcelona scharfes Saisonziel (Titel) + Real diffuses Saisonziel + keine UEFA-Doppelbelastung. Quote knapp daher v.a. Kombi-Bein. Einsatz: 8,25€ (1.5%).",
-          "edge_prozent": 8
+          "edge_prozent": 8,
+          "faire_quote": 1.11,
+          "empfohlener_einsatz_prozent": 1.5
         },
         {
           "markt": "Vinicius (Real) trifft jederzeit",
           "quote": 2.5,
           "kategorie": "value",
           "begruendung": "PFLICHT gemaess Lesson 04.05. STAR-AUSFALL → BACKUP-PFLICHT — wenn Mbappe out, Vinicius uebernimmt Volume. Goldgrube Torschuetzen Jederzeit (+24.4% ROI). Vini hat in den letzten 4 Clasicos 2 Tore. Real wird gegen Barca offensiv spielen (muessen). Einsatz: 5,50€ (1%).",
-          "edge_prozent": 13
+          "edge_prozent": 13,
+          "faire_quote": 2.21,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
           "markt": "Lewandowski (Barcelona) trifft jederzeit",
           "quote": 1.85,
           "kategorie": "value",
           "begruendung": "Goldgrube Torschuetzen Jederzeit. Lewandowski Stamm + Real ohne Militao = Defensiv-Lecks. PFLICHT gemaess Lesson 04.05. PFLICHT-PROFILE (Heim-Quote ~1.75). Einsatz: 8,25€ (1.5%).",
-          "edge_prozent": 12
+          "edge_prozent": 12,
+          "faire_quote": 1.65,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
           "markt": "Beide Teams treffen Ja",
           "quote": 1.55,
           "kategorie": "value",
           "begruendung": "El-Clasico-Klassiker BTTS-Pattern (4 von 5 letzten 1+ Tor pro Seite) + Real-Defensiv-Lecks (ohne Militao/Courtois/Mendy) + Vini/Bellingham koennen jederzeit treffen. Markt nicht Goldgrube aber Reality-Check positiv. Einsatz: 5,50€ (1%).",
-          "edge_prozent": 7
+          "edge_prozent": 7,
+          "faire_quote": 1.45,
+          "empfohlener_einsatz_prozent": 1.0
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     }
   ],
   "einzeltipps": [
@@ -725,77 +827,99 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
       "markt": "Liverpool oder Unentschieden (Doppelte Chance 1X)",
       "quote": 1.3,
       "kategorie": "safe",
-      "begruendung": "DOPPEL-Goldgrube: PL Liga-Goldgrube + DC 1X Markt-Goldgrube. Liverpool Anfield-Festung 14-3-0, Chelsea Auswaerts-Schwaeche, CL-Quali-Pflichtsieg. Lesson 04.05. SAFE-Konstruktion #3 erfuellt. Empfohlener Einsatz: 8,25€ (1.5% von 550€)."
+      "begruendung": "DOPPEL-Goldgrube: PL Liga-Goldgrube + DC 1X Markt-Goldgrube. Liverpool Anfield-Festung 14-3-0, Chelsea Auswaerts-Schwaeche, CL-Quali-Pflichtsieg. Lesson 04.05. SAFE-Konstruktion #3 erfuellt. Empfohlener Einsatz: 8,25€ (1.5% von 550€).",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1
     },
     {
       "spiel_id": "2026-05-09-sun-mun",
       "markt": "Manchester United oder Unentschieden (Doppelte Chance X2)",
       "quote": 1.3,
-      "kategorie": "safe",
-      "begruendung": "PL Liga-Goldgrube + DC X2 Markt-Goldgrube (77.8%/+9.4%). United CL-Quali-Pflichtsieg, Sunderland gerettet ohne Druck. Klassendifferenz-Edge. Empfohlener Einsatz: 8,25€ (1.5%)."
+      "kategorie": "value",
+      "begruendung": "PL Liga-Goldgrube + DC X2 Markt-Goldgrube (77.8%/+9.4%). United CL-Quali-Pflichtsieg, Sunderland gerettet ohne Druck. Klassendifferenz-Edge. Empfohlener Einsatz: 8,25€ (1.5%).",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2
     },
     {
       "spiel_id": "2026-05-09-atm-cel",
       "markt": "Atletico oder Unentschieden (Doppelte Chance 1X)",
       "quote": 1.25,
       "kategorie": "safe",
-      "begruendung": "LaLiga Liga-Goldgrube + DC 1X Markt-Goldgrube. H2H 14 Spiele unbesiegt + CL-Quali-Druck + Heim. Empfohlener Einsatz: 8,25€ (1.5%)."
+      "begruendung": "LaLiga Liga-Goldgrube + DC 1X Markt-Goldgrube. H2H 14 Spiele unbesiegt + CL-Quali-Druck + Heim. Empfohlener Einsatz: 8,25€ (1.5%).",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 3
     },
     {
       "spiel_id": "2026-05-09-mci-bre",
       "markt": "Haaland (Manchester City) trifft jederzeit",
       "quote": 1.5,
       "kategorie": "safe",
-      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (50%/+24.4% ROI). Form 5/5 Tore + Klassendifferenz-Heim + PL Liga-Goldgrube. PFLICHT-Tipp gemaess Lesson 04.05. PFLICHT-PROFILE. Empfohlener Einsatz: 8,25€ (1.5%)."
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (50%/+24.4% ROI). Form 5/5 Tore + Klassendifferenz-Heim + PL Liga-Goldgrube. PFLICHT-Tipp gemaess Lesson 04.05. PFLICHT-PROFILE. Empfohlener Einsatz: 8,25€ (1.5%).",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 4
     },
     {
       "spiel_id": "2026-05-09-liv-che",
       "markt": "Salah (Liverpool) trifft jederzeit",
       "quote": 1.85,
       "kategorie": "value",
-      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+24.4% ROI). Form 4/5 + Heim-Stamm + Chelsea Auswaerts-Schwaeche. Empfohlener Einsatz: 8,25€ (1.5%)."
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+24.4% ROI). Form 4/5 + Heim-Stamm + Chelsea Auswaerts-Schwaeche. Empfohlener Einsatz: 8,25€ (1.5%).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 5
     },
     {
       "spiel_id": "2026-05-10-bur-avl",
       "markt": "Watkins (Aston Villa) trifft jederzeit",
       "quote": 1.85,
       "kategorie": "value",
-      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Form-Edge 5/6 Tore + Klassendifferenz vs Burnley (abgestiegen). PFLICHT gemaess Lesson 04.05. PFLICHT-PROFILE. Empfohlener Einsatz: 8,25€ (1.5%)."
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Form-Edge 5/6 Tore + Klassendifferenz vs Burnley (abgestiegen). PFLICHT gemaess Lesson 04.05. PFLICHT-PROFILE. Empfohlener Einsatz: 8,25€ (1.5%).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 6
     },
     {
       "spiel_id": "2026-05-10-bar-rma",
       "markt": "Lewandowski (Barcelona) trifft jederzeit",
       "quote": 1.85,
       "kategorie": "value",
-      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Lewandowski Heim-Stamm + Real ohne Militao = Defensiv-Lecks. Titel-Match-Motivation Barcelona. Empfohlener Einsatz: 8,25€ (1.5%)."
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Lewandowski Heim-Stamm + Real ohne Militao = Defensiv-Lecks. Titel-Match-Motivation Barcelona. Empfohlener Einsatz: 8,25€ (1.5%).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 7
     },
     {
       "spiel_id": "2026-05-09-atm-cel",
       "markt": "Julian Alvarez (Atletico) trifft jederzeit",
       "quote": 2.1,
       "kategorie": "value",
-      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Form 3/4 + LaLiga-Goldgrube + schwache Celta-Defense. Empfohlener Einsatz: 8,25€ (1.5%)."
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Form 3/4 + LaLiga-Goldgrube + schwache Celta-Defense. Empfohlener Einsatz: 8,25€ (1.5%).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 8
     },
     {
       "spiel_id": "2026-05-10-whu-ars",
       "markt": "Saka (Arsenal) trifft jederzeit",
       "quote": 2.1,
       "kategorie": "value",
-      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Form 4/6 + Auswaerts-Form stark + WHU-Defensiv-Schwaeche + PL Liga-Goldgrube. Empfohlener Einsatz: 8,25€ (1.5%)."
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Form 4/6 + Auswaerts-Form stark + WHU-Defensiv-Schwaeche + PL Liga-Goldgrube. Empfohlener Einsatz: 8,25€ (1.5%).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 9
     },
     {
       "spiel_id": "2026-05-10-nfo-new",
       "markt": "Forest Sieg",
       "quote": 2.4,
-      "kategorie": "value",
-      "begruendung": "PL Liga-Goldgrube. Form-Welle 5/5 (inkl. 3:1 Chelsea 04.05.) + Newcastle 4/5 Pleiten + Heim-Vorteil. Empfohlener Einsatz: 8,25€ (1.5%)."
+      "kategorie": "wackel",
+      "begruendung": "PL Liga-Goldgrube. Form-Welle 5/5 (inkl. 3:1 Chelsea 04.05.) + Newcastle 4/5 Pleiten + Heim-Vorteil. Empfohlener Einsatz: 8,25€ (1.5%).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 10
     },
     {
       "spiel_id": "2026-05-10-bar-rma",
       "markt": "Vinicius (Real Madrid) trifft jederzeit",
       "quote": 2.5,
       "kategorie": "value",
-      "begruendung": "PFLICHT gemaess Lesson 04.05. STAR-AUSFALL → BACKUP-PFLICHT (Mbappe Hamstring out). Vini Volume-Stuermer + Markt-Goldgrube. Real muss offensiv spielen wegen Punkte-Bedarf. Empfohlener Einsatz: 5,50€ (1%)."
+      "begruendung": "PFLICHT gemaess Lesson 04.05. STAR-AUSFALL → BACKUP-PFLICHT (Mbappe Hamstring out). Vini Volume-Stuermer + Markt-Goldgrube. Real muss offensiv spielen wegen Punkte-Bedarf. Empfohlener Einsatz: 5,50€ (1%).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 11
     }
   ],
   "kombis": [
@@ -866,7 +990,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
     },
     {
       "name": "Risiko-Kombi 4er Mix Saisonende-Edge",
-      "kategorie": "risiko",
+      "kategorie": "risk",
       "beine": [
         {
           "spiel_id": "2026-05-10-nfo-new",
@@ -973,4 +1097,4 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
     }
   ],
   "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool, keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause."
-};
+}
