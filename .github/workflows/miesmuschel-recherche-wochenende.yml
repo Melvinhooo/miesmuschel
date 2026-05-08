@@ -1,0 +1,45 @@
+name: Miesmuschel Recherche Wochenend-Vorschau (Donnerstag)
+
+on:
+  schedule:
+    # Donnerstag 16:30 Berlin (UTC+2 MESZ) -> 14:30 UTC
+    - cron: '30 14 * * 4'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: read
+
+jobs:
+  recherche:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Wochenend-Recherche via Claude Code Action
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          prompt: |
+            Du bist Recherche-Cloud-Routine für die WOCHENEND-VORSCHAU. Lies `.github/scripts/subagent_prompts/recherche_routine.md` als Master-Prompt.
+
+            Modus: "wochenende"
+            Anker-Datum: kommender Samstag = $(TZ=Europe/Berlin date -d "next Saturday" +%Y-%m-%d)
+            Output-Pfad: `data/recherche_wochenende/<samstag-datum>.json`
+
+            Sammle ALLE Spiele Sa+So (BL/PL/LaLiga/Serie A/Ligue 1/CL/EL/Conference/2.BL/Pokale + NBA-Playoffs).
+
+            Am Ende: git add + commit "Auto-Recherche Wochenende <samstag> (Vorschau)" + git push origin main.
+
+            KEINE Tipps - nur Daten.
+          claude_args: |
+            --allowed-tools "Bash(git:*) Bash(python3:*) Bash(date:*) Bash(curl:*) Bash(mkdir:*) Bash(ls:*) Bash(cat:*) Read Write Edit Glob Grep WebSearch WebFetch"
+            --max-turns 60
+            --model claude-opus-4-7

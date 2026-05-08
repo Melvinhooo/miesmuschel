@@ -1,0 +1,44 @@
+name: Miesmuschel Recherche Mo-Fr (Pre-Tipps Datenbasis)
+
+on:
+  schedule:
+    # Mo-Fr 10:30 Berlin (UTC+2 MESZ Sommer / UTC+1 MEZ Winter)
+    # Cron in UTC: 30 8 (Sommer) / 30 9 (Winter)
+    # Aktuell MESZ (bis 25.10.2026): 30 8 = 10:30 Berlin
+    - cron: '30 8 * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: read
+
+jobs:
+  recherche:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Recherche-Routine via Claude Code Action
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          prompt: |
+            Du bist Recherche-Cloud-Routine in der Magische-Miesmuschel-Pipeline. Lies vollständig den Recherche-Prompt aus `.github/scripts/subagent_prompts/recherche_routine.md` und führe die Recherche für HEUTE aus.
+
+            Output-Pfad: `data/recherche/<HEUTE>.json` wo HEUTE = $(TZ=Europe/Berlin date +%Y-%m-%d)
+            Modus: "tag"
+
+            Am Ende: git add + commit "Auto-Recherche <HEUTE> (Pre-Tipps Datenbasis)" + git push origin main.
+
+            KEINE Tipps generieren - NUR Daten. Strict-Format laut recherche_routine.md.
+          claude_args: |
+            --allowed-tools "Bash(git:*) Bash(python3:*) Bash(date:*) Bash(curl:*) Bash(mkdir:*) Bash(ls:*) Bash(cat:*) Read Write Edit Glob Grep WebSearch WebFetch"
+            --max-turns 50
+            --model claude-opus-4-7

@@ -1,0 +1,45 @@
+name: Miesmuschel Recherche Wochen-Vorschau (Sonntag)
+
+on:
+  schedule:
+    # Sonntag 16:30 Berlin (UTC+2 MESZ) -> 14:30 UTC
+    - cron: '30 14 * * 0'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: read
+
+jobs:
+  recherche:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Wochen-Recherche via Claude Code Action
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          prompt: |
+            Du bist Recherche-Cloud-Routine für die WOCHEN-VORSCHAU. Lies `.github/scripts/subagent_prompts/recherche_routine.md` als Master-Prompt.
+
+            Modus: "woche"
+            Anker-Datum: kommender Montag = $(TZ=Europe/Berlin date -d "next Monday" +%Y-%m-%d)
+            Output-Pfad: `data/recherche_woche/<montag-datum>.json`
+
+            Sammle ALLE Spiele Mo-So der kommenden Woche. Token-Budget: 120 Min Limit, fokussiere auf Top-Ligen wenn knapp.
+
+            Am Ende: git add + commit "Auto-Recherche Woche <montag> (Vorschau)" + git push origin main.
+
+            KEINE Tipps - nur Daten.
+          claude_args: |
+            --allowed-tools "Bash(git:*) Bash(python3:*) Bash(date:*) Bash(curl:*) Bash(mkdir:*) Bash(ls:*) Bash(cat:*) Read Write Edit Glob Grep WebSearch WebFetch"
+            --max-turns 70
+            --model claude-opus-4-7
