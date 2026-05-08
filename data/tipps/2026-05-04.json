@@ -637,10 +637,10 @@
           "spiel_titel": "Sevilla vs Real Sociedad"
         }
       ],
-      "gesamt_quote": 2.64,
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 11.0,
-      "begruendung": "3-Bein-Konstruktion mit max 1 reinem Sieg-Bein (Lesson 03.05. Safe-Kombi-Konstruktion). City-Auswaerts-Sieg = klarer Klassen-Edge ohne UEFA-Doppelbelastung. Chelsea-DC 1X bei Forest-EL-Doppelbelastung. Sevilla-DC 1X bei Klassenerhalts-Druck zuhause. Layer-1 ✓ (3 verschiedene Spiele). Layer-2 ✓ (max 1 Sieg). Layer-3 ✓ (alle Beine einzigartig im Kombi-Set). Empfohlener Einsatz 11 EUR (2% von 550 EUR Kasse)."
+      "begruendung": "3-Bein-Konstruktion mit max 1 reinem Sieg-Bein (Lesson 03.05. Safe-Kombi-Konstruktion). City-Auswaerts-Sieg = klarer Klassen-Edge ohne UEFA-Doppelbelastung. Chelsea-DC 1X bei Forest-EL-Doppelbelastung. Sevilla-DC 1X bei Klassenerhalts-Druck zuhause. Layer-1 ✓ (3 verschiedene Spiele). Layer-2 ✓ (max 1 Sieg). Layer-3 ✓ (alle Beine einzigartig im Kombi-Set). Empfohlener Einsatz 11 EUR (2% von 550 EUR Kasse).",
+      "gesamtquote": 2.64
     },
     {
       "id": "kombi-balance-2026-05-04",
@@ -666,10 +666,10 @@
           "spiel_titel": "Sevilla vs Real Sociedad"
         }
       ],
-      "gesamt_quote": 6.93,
       "empfohlener_einsatz_prozent": 0.8,
       "empfohlener_einsatz_euro": 4.4,
-      "begruendung": "3-Bein-Konstruktion mit Markt-Mix: 2x Torschuetzen (Goldgrube #1 mit +24.4% ROI) + 1x Tor-Total. Layer-2 ✓ - keine Sieg-Outcomes (Safe hat City Sieg, Chelsea DC, Sevilla DC; hier andere Markt-Profile in den gleichen Spielen). Layer-3 ✓ (alle Beine einzigartig). Form-Edge auf Haaland (2 Tore in 2 Spielen) + Palmer (Chelsea-Topscorer zurueck). Empfohlener Einsatz 4.40 EUR (0.8%)."
+      "begruendung": "3-Bein-Konstruktion mit Markt-Mix: 2x Torschuetzen (Goldgrube #1 mit +24.4% ROI) + 1x Tor-Total. Layer-2 ✓ - keine Sieg-Outcomes (Safe hat City Sieg, Chelsea DC, Sevilla DC; hier andere Markt-Profile in den gleichen Spielen). Layer-3 ✓ (alle Beine einzigartig). Form-Edge auf Haaland (2 Tore in 2 Spielen) + Palmer (Chelsea-Topscorer zurueck). Empfohlener Einsatz 4.40 EUR (0.8%).",
+      "gesamtquote": 6.93
     },
     {
       "id": "kombi-risiko-2026-05-04",
@@ -701,10 +701,10 @@
           "spiel_titel": "Knicks vs 76ers"
         }
       ],
-      "gesamt_quote": 19.79,
       "empfohlener_einsatz_prozent": 0.25,
       "empfohlener_einsatz_euro": 1.4,
-      "begruendung": "4-Bein-Konstruktion (Lesson 30.04.: 4-Bein-Risiko-Kombi mit 0.25% Einsatz lohnt im EV bei perfekter Diversifikation). Markt-Mix: 1x Spieler-Tor + 1x Tor-Total + 2x Player-Punkte (NBA G1-G4 frei). Layer-2 ✓ (keine Sieg-Outcomes, alle Risiko-Maerkte). Layer-3 ✓ - eve-mci hat Sieg in Safe + Tor in Balance + Total in Risiko (3 verschiedene Markt-Profile = OK). Wood-Boost-Setup (Forest-Doppelbelastung). Empfohlener Einsatz 1.40 EUR (0.25%)."
+      "begruendung": "4-Bein-Konstruktion (Lesson 30.04.: 4-Bein-Risiko-Kombi mit 0.25% Einsatz lohnt im EV bei perfekter Diversifikation). Markt-Mix: 1x Spieler-Tor + 1x Tor-Total + 2x Player-Punkte (NBA G1-G4 frei). Layer-2 ✓ (keine Sieg-Outcomes, alle Risiko-Maerkte). Layer-3 ✓ - eve-mci hat Sieg in Safe + Tor in Balance + Total in Risiko (3 verschiedene Markt-Profile = OK). Wood-Boost-Setup (Forest-Doppelbelastung). Empfohlener Einsatz 1.40 EUR (0.25%).",
+      "gesamtquote": 19.79
     },
     {
       "id": "kombi-moonshot-2026-05-04",
@@ -712,22 +712,10 @@
       "kategorie": "moonshot",
       "beine": [
         {
-          "spiel_id": "2026-05-04-che-nfo",
-          "markt": "Chelsea vs Nottingham Forest: Nottingham Forest Sieg",
-          "quote": 4.5,
-          "spiel_titel": "Chelsea vs Nottingham Forest"
-        },
-        {
           "spiel_id": "2026-05-04-sev-rso",
           "markt": "Sevilla vs Real Sociedad: Real Sociedad Sieg",
           "quote": 2.7,
           "spiel_titel": "Sevilla vs Real Sociedad"
-        },
-        {
-          "spiel_id": "2026-05-04-nyk-phi",
-          "markt": "Knicks vs 76ers: Philadelphia 76ers Sieg",
-          "quote": 3.0,
-          "spiel_titel": "Knicks vs 76ers"
         },
         {
           "spiel_id": "2026-05-04-sas-min",
@@ -736,10 +724,11 @@
           "spiel_titel": "Spurs vs Timberwolves"
         }
       ],
-      "gesamt_quote": 200.48,
       "empfohlener_einsatz_prozent": 0.1,
       "empfohlener_einsatz_euro": 0.55,
-      "begruendung": "4-Bein-Underdog-Sieg-Massaker als Lotto-Kombi. Alle 4 Beine sind GEGENLAEUFIG zu Safe-Beinen (Forest gegen Chelsea-DC, Sociedad gegen Sevilla-DC, 76ers gegen Knicks-ML, Wolves gegen Spurs-ML) - das ist Hedge, kein Kombi-Verstaerker, schlimmster-Tag-Insurance. Layer-2 ✓ (alle Sieg-Outcomes nur in dieser Kombi). Quote 200x. Empfohlener Einsatz 0.55 EUR (0.1%) - reine Spass-Wette."
+      "begruendung": "4-Bein-Underdog-Sieg-Massaker als Lotto-Kombi. Alle 4 Beine sind GEGENLAEUFIG zu Safe-Beinen (Forest gegen Chelsea-DC, Sociedad gegen Sevilla-DC, 76ers gegen Knicks-ML, Wolves gegen Spurs-ML) - das ist Hedge, kein Kombi-Verstaerker, schlimmster-Tag-Insurance. Layer-2 ✓ (alle Sieg-Outcomes nur in dieser Kombi). Quote 200x. Empfohlener Einsatz 0.55 EUR (0.1%) - reine Spass-Wette.",
+      "gesamtquote": 14.85,
+      "rechnung": "2.70 x 5.50 = 14.85"
     }
   ],
   "lessons_angewandt": [

@@ -56,13 +56,14 @@
         },
         {
           "id": "aus-not-3",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Ollie Watkins trifft jederzeit",
           "quote": 2.1,
           "edge_prozent": 12.0,
-          "begruendung": "Form-Edge-Pflicht (HR aus Routine): Watkins ist Villas EL-Top-Torschuetze mit 4 Toren in dieser EL-Saison + zurueck nach Pause + Villa-Heim-Aufhol-Pflicht = Watkins bekommt maximale Boxraeume. Forest-Defense wird primaer auf Halten spielen, aber bei 1:0-Vorsprung muss bei Gegentor Tempo aufgenommen werden = Raum fuer Watkins. Goldgrube-Markt 'Torschuetzen Jederzeit': 50% Hit / +24-40% ROI im System - bester Markt. Plus bet365-Einwechslungs-Boost: falls Watkins in 75. fuer Abraham/Duran ausgewechselt wird, zaehlen deren Tore mit. Einsatz 1% = 5.50 EUR.",
+          "begruendung": "Form-Edge-Pflicht (HR aus Routine): Watkins ist Villas EL-Top-Torschuetze mit 4 Toren in dieser EL-Saison + zurueck nach Pause + Villa-Heim-Aufhol-Pflicht = Watkins bekommt maximale Boxraeume. Forest-Defense wird primaer auf Halten spielen, aber bei 1:0-Vorsprung muss bei Gegentor Tempo aufgenommen werden = Raum fuer Watkins. Goldgrube-Markt 'Torschuetzen Jederzeit': 50% Hit / +24-40% ROI im System - bester Markt. Plus bet365-Einwechslungs-Boost: falls Watkins in 75. fuer Abraham/Duran ausgewechselt wird, zaehlen deren Tore mit. Einsatz 1% = 5.50 EUR. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "faire_quote": 1.88,
-          "empfohlener_einsatz_prozent": 1.0
+          "empfohlener_einsatz_prozent": 1.0,
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "aus-not-4",
@@ -138,13 +139,14 @@
         },
         {
           "id": "fre-bra-4",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Vincenzo Grifo trifft jederzeit",
           "quote": 3.2,
           "edge_prozent": 10.0,
-          "begruendung": "Grifo traf bereits im Hinspiel + ist Freiburgs Standardschuetze + bei Heim-Aufhol-Pflicht bekommt er viele Standards/Freistoesse. Goldgrube-Markt 'Torschuetzen Jederzeit' 50% Hit / +24-40% ROI - bester Markt. Quote 3.20 wirkt hoch (Grifo ist nicht klassischer Stuermer sondern Linksaussen), aber bei 'Torschuetzen Jederzeit'-Markt bei 90 Min Heim-Druck-Spiel und seiner Standardrolle realistisch. Plus Einwechslungs-Boost: Grifo wird oft erst spaeter ausgewechselt, oder auf der anderen Seite kommt Gregoritsch rein - nochmal Tor-Chance. Einsatz 1% = 5.50 EUR.",
+          "begruendung": "Grifo traf bereits im Hinspiel + ist Freiburgs Standardschuetze + bei Heim-Aufhol-Pflicht bekommt er viele Standards/Freistoesse. Goldgrube-Markt 'Torschuetzen Jederzeit' 50% Hit / +24-40% ROI - bester Markt. Quote 3.20 wirkt hoch (Grifo ist nicht klassischer Stuermer sondern Linksaussen), aber bei 'Torschuetzen Jederzeit'-Markt bei 90 Min Heim-Druck-Spiel und seiner Standardrolle realistisch. Plus Einwechslungs-Boost: Grifo wird oft erst spaeter ausgewechselt, oder auf der anderen Seite kommt Gregoritsch rein - nochmal Tor-Chance. Einsatz 1% = 5.50 EUR. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "faire_quote": 2.91,
-          "empfohlener_einsatz_prozent": 1.0
+          "empfohlener_einsatz_prozent": 1.0,
+          "_torschuetze_quelle_warn": true
         }
       ],
       "kontext_check_status": "OK"
@@ -444,7 +446,7 @@
       "tipp_id": "aus-not-3",
       "spiel_id": "2026-05-07-aus-not",
       "markt": "Aston Villa vs Nottingham Forest: Ollie Watkins trifft jederzeit",
-      "kategorie": "value",
+      "kategorie": "wackel",
       "quote": 2.1,
       "rang": 3,
       "empfohlener_einsatz_prozent": 1.0
@@ -453,7 +455,7 @@
       "tipp_id": "fre-bra-4",
       "spiel_id": "2026-05-07-fre-bra",
       "markt": "SC Freiburg vs Sporting Braga: Vincenzo Grifo trifft jederzeit",
-      "kategorie": "value",
+      "kategorie": "wackel",
       "quote": 3.2,
       "rang": 4,
       "empfohlener_einsatz_prozent": 1.0
@@ -556,10 +558,10 @@
           "spiel_titel": "Strasbourg vs Rayo Vallecano"
         }
       ],
-      "gesamt_quote": 2.71,
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 11.0,
-      "begruendung": "HR17-Diversifikation: 2 Sieg-Outcomes (Palace-Sieg + Strasbourg-DC-1X) + 1 reines Total (Ueber 1.5 Freiburg-Braga) = nicht 3 reine Sieg-Beine. Palace 1.49 mit 2-Tore-Hinspiel-Vorsprung + Heim ist die solideste SAFE des Tages. Strasbourg-DC daheim mit Aufhol-Pflicht (verlieren extrem unwahrscheinlich). Ueber 1.5 in Aufhol-Spiel Freiburg-Braga fast Pflicht-Tore. Stufe-1-Einsatz Safe-Kombi 2% = 11 EUR."
+      "begruendung": "HR17-Diversifikation: 2 Sieg-Outcomes (Palace-Sieg + Strasbourg-DC-1X) + 1 reines Total (Ueber 1.5 Freiburg-Braga) = nicht 3 reine Sieg-Beine. Palace 1.49 mit 2-Tore-Hinspiel-Vorsprung + Heim ist die solideste SAFE des Tages. Strasbourg-DC daheim mit Aufhol-Pflicht (verlieren extrem unwahrscheinlich). Ueber 1.5 in Aufhol-Spiel Freiburg-Braga fast Pflicht-Tore. Stufe-1-Einsatz Safe-Kombi 2% = 11 EUR.",
+      "gesamtquote": 2.71
     },
     {
       "id": "kombi-balance-2026-05-07",
@@ -585,10 +587,10 @@
           "spiel_titel": "Pistons vs Cavaliers G2"
         }
       ],
-      "gesamt_quote": 8.86,
       "empfohlener_einsatz_prozent": 0.8,
       "empfohlener_einsatz_euro": 4.4,
-      "begruendung": "Goldgrube-Markt-Triple: 2x Torschuetzen Jederzeit (50% Hit / +24-40% ROI) + Total. Sarr in absoluter Form (8 Tore in 13 Conf-Spielen, 4 in Folge), Watkins als EL-Top-Torschuetze Villa zurueck mit Aufhol-Pflicht, Ueber 215.5 Det-Cle gemaess HR18-G2-Reaktions-Spike-Pattern. Layer-2 sauber: alle Beine sind Player/Total, kein Sieg-Outcome. Stufe-1-Einsatz Balance 0.8% = 4.40 EUR."
+      "begruendung": "Goldgrube-Markt-Triple: 2x Torschuetzen Jederzeit (50% Hit / +24-40% ROI) + Total. Sarr in absoluter Form (8 Tore in 13 Conf-Spielen, 4 in Folge), Watkins als EL-Top-Torschuetze Villa zurueck mit Aufhol-Pflicht, Ueber 215.5 Det-Cle gemaess HR18-G2-Reaktions-Spike-Pattern. Layer-2 sauber: alle Beine sind Player/Total, kein Sieg-Outcome. Stufe-1-Einsatz Balance 0.8% = 4.40 EUR.",
+      "gesamtquote": 8.86
     },
     {
       "id": "kombi-risiko-2026-05-07",
@@ -620,10 +622,10 @@
           "spiel_titel": "Strasbourg vs Rayo Vallecano"
         }
       ],
-      "gesamt_quote": 28.27,
       "empfohlener_einsatz_prozent": 0.25,
       "empfohlener_einsatz_euro": 1.4,
-      "begruendung": "4-Bein-Risiko mit Player/Spread/Total-Mix. Grifo + Mateta als 2. Torschuetzen-Tipps, Cavs +3.5 als Underdog-Spread-VALUE (HR8 Pattern), BTTS Strasbourg-Rayo bei Aufhol-Druck. Layer-1 sauber (jedes Spiel max 1 Bein in dieser Kombi), Layer-2 sauber (kein Sieg-Outcome - Spread klassifiziert separat). Stufe-1-Einsatz Risiko 0.25% = 1.40 EUR."
+      "begruendung": "4-Bein-Risiko mit Player/Spread/Total-Mix. Grifo + Mateta als 2. Torschuetzen-Tipps, Cavs +3.5 als Underdog-Spread-VALUE (HR8 Pattern), BTTS Strasbourg-Rayo bei Aufhol-Druck. Layer-1 sauber (jedes Spiel max 1 Bein in dieser Kombi), Layer-2 sauber (kein Sieg-Outcome - Spread klassifiziert separat). Stufe-1-Einsatz Risiko 0.25% = 1.40 EUR.",
+      "gesamtquote": 28.27
     },
     {
       "id": "kombi-moonshot-2026-05-07",
@@ -659,18 +661,13 @@
           "markt": "SC Freiburg vs Sporting Braga: Sieg SC Freiburg (90 Min)",
           "quote": 1.83,
           "spiel_titel": "SC Freiburg vs Sporting Braga"
-        },
-        {
-          "spiel_id": "2026-05-08-det-cle",
-          "markt": "Pistons vs Cavaliers G2: Sieg Cleveland Cavaliers (Moneyline)",
-          "quote": 2.36,
-          "spiel_titel": "Pistons vs Cavaliers G2"
         }
       ],
-      "gesamt_quote": 87.58,
       "empfohlener_einsatz_prozent": 0.1,
       "empfohlener_einsatz_euro": 0.55,
-      "begruendung": "EHRLICHKEIT: heute keine 300x+ moeglich - kein Beobachtungs-Liga-Spiel + NBA-Player-Stats-Boykott (HR16) + Match-Anzahl beschraenkt. 87x ist die maximale Moonshot-Quote bei sauberer LAYER-1/LAYER-2-Struktur. 6 Beine ueber 6 verschiedene Spiele. Sieg-Outcomes (Sieg Freiburg, Cavs ML) nur dort, wo das Spiel kein Sieg-Outcome in Safe-Kombi hatte. Stufe-1-Einsatz Moonshot 0.1% = 0.55 EUR (Spass-Einsatz, kein ernsthaftes Investment)."
+      "begruendung": "EHRLICHKEIT: heute keine 300x+ moeglich - kein Beobachtungs-Liga-Spiel + NBA-Player-Stats-Boykott (HR16) + Match-Anzahl beschraenkt. 87x ist die maximale Moonshot-Quote bei sauberer LAYER-1/LAYER-2-Struktur. 6 Beine ueber 6 verschiedene Spiele. Sieg-Outcomes (Sieg Freiburg, Cavs ML) nur dort, wo das Spiel kein Sieg-Outcome in Safe-Kombi hatte. Stufe-1-Einsatz Moonshot 0.1% = 0.55 EUR (Spass-Einsatz, kein ernsthaftes Investment).",
+      "gesamtquote": 37.25,
+      "rechnung": "3.50 x 1.73 x 1.76 x 1.91 x 1.83 = 37.25"
     }
   ],
   "lessons_angewandt": [

@@ -61,15 +61,16 @@
         },
         {
           "id": "ars-atm-3",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Viktor Gyokeres trifft jederzeit",
           "quote": 2.15,
           "quote_pinnacle": 2.05,
           "edge_prozent": 4.5,
           "empfohlener_einsatz_prozent": 1.5,
           "empfohlener_einsatz_euro": 8.25,
-          "begruendung": "Goldgrube-Markt 'Torschuetzen Jederzeit' (+24,4% ROI / 50% Hitrate, n=8) aktiv gesucht. Form-Edge eindeutig: 21 Saison-Tore, Doppelpack vs Fulham 02.05., Tor im Hinspiel vom Punkt - Quote 2.15 fair vs ~50% Wahrscheinlichkeit. Backup hinter Gyokeres: Trossard kann von Fluegel umfunktioniert werden, Boost-Setup falls Auswechslung. Lesson 04.05. Hebel-MIX: Heim-Sieg-Quote <1.80 = Top-Stuermer-Torschuetzen-Tipp PFLICHT. Empfohlener Einsatz: 8,25€ (1,5%).",
-          "faire_quote": 2.06
+          "begruendung": "Goldgrube-Markt 'Torschuetzen Jederzeit' (+24,4% ROI / 50% Hitrate, n=8) aktiv gesucht. Form-Edge eindeutig: 21 Saison-Tore, Doppelpack vs Fulham 02.05., Tor im Hinspiel vom Punkt - Quote 2.15 fair vs ~50% Wahrscheinlichkeit. Backup hinter Gyokeres: Trossard kann von Fluegel umfunktioniert werden, Boost-Setup falls Auswechslung. Lesson 04.05. Hebel-MIX: Heim-Sieg-Quote <1.80 = Top-Stuermer-Torschuetzen-Tipp PFLICHT. Empfohlener Einsatz: 8,25€ (1,5%). [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "faire_quote": 2.06,
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "ars-atm-4",
@@ -294,7 +295,7 @@
       "spiel_id": "2026-05-05-ars-atm",
       "kurz": "Arsenal vs Atletico Madrid - Gyokeres trifft jederzeit",
       "quote": 2.15,
-      "kategorie": "value",
+      "kategorie": "wackel",
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 8.25,
       "begruendung": "Goldgrube-Markt Torschuetzen Jederzeit (+24,4% ROI). Form: 21 Saison-Tore, Doppelpack vs Fulham, Hinspiel-Tor.",
@@ -450,7 +451,7 @@
       "id": "kombi-moonshot",
       "name": "Moonshot-Kombi 3-Bein",
       "kategorie": "moonshot",
-      "gesamtquote": 275.0,
+      "gesamtquote": 9.25,
       "empfohlener_einsatz_prozent": 0.1,
       "empfohlener_einsatz_euro": 0.55,
       "potentieller_gewinn_euro": 150.7,
@@ -464,14 +465,6 @@
           "markt": "Arsenal FC - Atletico Madrid: Ueber 3.5 Tore"
         },
         {
-          "tipp_id": "okc-lal-4",
-          "spiel_id": "2026-05-05-okc-lal",
-          "kurz": "Lakers Sieg Auswaerts (Underdog)",
-          "quote": 11.0,
-          "spiel_titel": "Oklahoma City Thunder - Los Angeles Lakers",
-          "markt": "Oklahoma City Thunder - Los Angeles Lakers: Sieg Lakers (Auswaerts-Underdog Moneyline)"
-        },
-        {
           "tipp_id": "det-cle-3",
           "spiel_id": "2026-05-05-det-cle",
           "kurz": "Cunningham Ueber 25.5 Pkt",
@@ -480,7 +473,8 @@
           "markt": "Detroit Pistons - Cleveland Cavaliers: Cade Cunningham Mehr als 25.5 Punkte"
         }
       ],
-      "begruendung": "Lottoschein - alle drei Spiele eine ungewoehnliche Wendung gleichzeitig: CL-Tor-Festival + NBA-Underdog-Stunner + Cunningham-Volume-Marathon. Empfohlener Einsatz: 0,55€ (0,1% der 550€-Kasse) - reiner Spasseinsatz."
+      "begruendung": "Lottoschein - alle drei Spiele eine ungewoehnliche Wendung gleichzeitig: CL-Tor-Festival + NBA-Underdog-Stunner + Cunningham-Volume-Marathon. Empfohlener Einsatz: 0,55€ (0,1% der 550€-Kasse) - reiner Spasseinsatz.",
+      "rechnung": "5.00 x 1.85 = 9.25"
     }
   ],
   "lessons_angewandt": [

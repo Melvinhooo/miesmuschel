@@ -146,23 +146,6 @@
       "begruendung": "PSG-Bayern BTTS + Spurs-Defense Unter + Celtics-76ers Hochscore. Drei verschiedene Markttypen, nicht-korreliert. ~4.3x."
     },
     {
-      "id": "k_risiko",
-      "name": "Risiko-Kombi (5 Beine quer)",
-      "kategorie": "risk",
-      "beine": [
-        {
-          "spiel_id": "2026-04-28-psg-bayern",
-          "spiel_titel": "PSG vs Bayern Muenchen (CL HF)",
-          "markt": "PSG vs Bayern Muenchen: PSG Sieg (1)",
-          "quote": 2.3
-        }
-      ],
-      "gesamtquote": 2.3,
-      "rechnung": "2.30 = 2.3",
-      "empfohlener_einsatz_prozent": 0.25,
-      "begruendung": "Fuenf Beine: PSG Sieg-Anker + Dembele Torschuetze + Spurs-Sieg+Unter + Celtics-Spread + Knicks-Combo. ~34x mit klarer CL-HF-Edge plus NBA-Closeouts."
-    },
-    {
       "id": "k_moonshot",
       "name": "Moonshot-Kombi (Lotterie)",
       "kategorie": "moonshot",

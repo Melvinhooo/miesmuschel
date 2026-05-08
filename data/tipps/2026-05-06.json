@@ -321,10 +321,10 @@
           "spiel_titel": "Spurs vs Timberwolves G2"
         }
       ],
-      "gesamt_quote": 3.09,
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 11.0,
-      "begruendung": "3-Bein-Heim-Favoriten-Bundle. Bayern Heim-Pflichtsieg (CL HF Rueckspiel) + Knicks nach G1-39-Pkt-Blowout zuhause + Spurs nach G1-Heim-Pleite Pflicht-Reaktion. Layer-1 ✓ (3 verschiedene Spiele). Layer-2: alle 3 Sieg-Outcomes in Safe gebuendelt - andere Kombis nutzen Total/Spread/Player. Hinweis: 3 Sieg-Beine erhoehen Korrelations-Risiko (Lesson 03.05.) - aber heute kein UEFA-Doppel-Druck Bayern + NBA G2-Klassen-Edge stark. Empfohlener Einsatz 11€ (2% der 550€-Kasse)."
+      "begruendung": "3-Bein-Heim-Favoriten-Bundle. Bayern Heim-Pflichtsieg (CL HF Rueckspiel) + Knicks nach G1-39-Pkt-Blowout zuhause + Spurs nach G1-Heim-Pleite Pflicht-Reaktion. Layer-1 ✓ (3 verschiedene Spiele). Layer-2: alle 3 Sieg-Outcomes in Safe gebuendelt - andere Kombis nutzen Total/Spread/Player. Hinweis: 3 Sieg-Beine erhoehen Korrelations-Risiko (Lesson 03.05.) - aber heute kein UEFA-Doppel-Druck Bayern + NBA G2-Klassen-Edge stark. Empfohlener Einsatz 11€ (2% der 550€-Kasse).",
+      "gesamtquote": 3.09
     },
     {
       "id": "kombi-balance-2026-05-06",
@@ -338,22 +338,17 @@
           "spiel_titel": "Bayern Muenchen vs PSG"
         },
         {
-          "spiel_id": "2026-05-06-nyk-phi",
-          "markt": "Knicks vs 76ers G2: Knicks vs Sixers: Knicks Handicap -6.5 (Spread)",
-          "quote": 1.91,
-          "spiel_titel": "Knicks vs 76ers G2"
-        },
-        {
           "spiel_id": "2026-05-06-sas-min",
           "markt": "Spurs vs Timberwolves G2: Spurs vs Wolves: Unter 215.5 Punkte (Total)",
           "quote": 1.91,
           "spiel_titel": "Spurs vs Timberwolves G2"
         }
       ],
-      "gesamt_quote": 5.87,
       "empfohlener_einsatz_prozent": 0.8,
       "empfohlener_einsatz_euro": 4.4,
-      "begruendung": "3-Bein-Markt-Diversifikation. Kane Tor (Goldgrube +32% ROI) + Knicks-Spread (Goldgrube +20.5% ROI) + Spurs-Wolves Unter 215.5 (HR13-Pattern G1-Defensiv-Adjustment). Layer-1 ✓ (3 versch. Spiele). Layer-2 ✓ (kein Sieg-Bein, alles Total/Spread/Tor). Layer-3 ✓ (jedes Bein einzigartig). 3 verschiedene Markt-Familien (B Spieler-Tor, F NBA Spread, C Total). Empfohlener Einsatz 4.40€ (0.8%)."
+      "begruendung": "3-Bein-Markt-Diversifikation. Kane Tor (Goldgrube +32% ROI) + Knicks-Spread (Goldgrube +20.5% ROI) + Spurs-Wolves Unter 215.5 (HR13-Pattern G1-Defensiv-Adjustment). Layer-1 ✓ (3 versch. Spiele). Layer-2 ✓ (kein Sieg-Bein, alles Total/Spread/Tor). Layer-3 ✓ (jedes Bein einzigartig). 3 verschiedene Markt-Familien (B Spieler-Tor, F NBA Spread, C Total). Empfohlener Einsatz 4.40€ (0.8%).",
+      "gesamtquote": 3.08,
+      "rechnung": "1.61 x 1.91 = 3.08"
     },
     {
       "id": "kombi-risiko-2026-05-06",
@@ -367,22 +362,17 @@
           "spiel_titel": "Bayern Muenchen vs PSG"
         },
         {
-          "spiel_id": "2026-05-06-nyk-phi",
-          "markt": "Knicks vs 76ers G2: Knicks vs Sixers: Sieg Philadelphia 76ers (Moneyline)",
-          "quote": 3.0,
-          "spiel_titel": "Knicks vs 76ers G2"
-        },
-        {
           "spiel_id": "2026-05-06-sas-min",
           "markt": "Spurs vs Timberwolves G2: Spurs vs Wolves: Sieg Minnesota Timberwolves (Moneyline)",
           "quote": 4.5,
           "spiel_titel": "Spurs vs Timberwolves G2"
         }
       ],
-      "gesamt_quote": 18.9,
       "empfohlener_einsatz_prozent": 0.25,
       "empfohlener_einsatz_euro": 1.4,
-      "begruendung": "3-Bein-Risiko mit 2 NBA-Underdog-Sieg-Wetten. Bay-PSG Tor-Festival (Hinspiel 9 Tore) + Sixers-Reaktion-Spike (Embiid-Comeback-Profil) + Wolves-Bonus-Modus-Sweep-Versuch. Underdog-Doppel ist riskant (Korrelation Round 2 G2 Reaktions-Spielen) - daher Risiko-Label. Empfohlener Einsatz 1.40€ (0.25%). Layer-1 ✓, Layer-2 ✓ (Sixers/Wolves Sieg sind andere Outcomes als Safe-Kombi-Sieg-Beine)."
+      "begruendung": "3-Bein-Risiko mit 2 NBA-Underdog-Sieg-Wetten. Bay-PSG Tor-Festival (Hinspiel 9 Tore) + Sixers-Reaktion-Spike (Embiid-Comeback-Profil) + Wolves-Bonus-Modus-Sweep-Versuch. Underdog-Doppel ist riskant (Korrelation Round 2 G2 Reaktions-Spielen) - daher Risiko-Label. Empfohlener Einsatz 1.40€ (0.25%). Layer-1 ✓, Layer-2 ✓ (Sixers/Wolves Sieg sind andere Outcomes als Safe-Kombi-Sieg-Beine).",
+      "gesamtquote": 6.3,
+      "rechnung": "1.40 x 4.50 = 6.3"
     },
     {
       "id": "kombi-moonshot-2026-05-06",
@@ -396,22 +386,17 @@
           "spiel_titel": "Bayern Muenchen vs PSG"
         },
         {
-          "spiel_id": "2026-05-06-nyk-phi",
-          "markt": "Knicks vs 76ers G2: Knicks vs Sixers: 76ers Handicap +5.5 (Spread Cover)",
-          "quote": 3.5,
-          "spiel_titel": "Knicks vs 76ers G2"
-        },
-        {
           "spiel_id": "2026-05-06-sas-min",
           "markt": "Spurs vs Timberwolves G2: Spurs vs Wolves: Wolves Handicap +12 (Spread Cover)",
           "quote": 3.8,
           "spiel_titel": "Spurs vs Timberwolves G2"
         }
       ],
-      "gesamt_quote": 46.55,
       "empfohlener_einsatz_prozent": 0.1,
       "empfohlener_einsatz_euro": 0.55,
-      "begruendung": "Spass-Moonshot mit nur 3 verfuegbaren Spielen. Olise als Backup-Sturm-Profil + 2 NBA-Underdog-Spread-Cover (groessere Linien als Risiko-Kombi). Ehrlich: bei nur 3 Spielen heute kommen 300x+ nicht zusammen ohne Hattrick/Genaues-Ergebnis-Beine - heutige 46x-Konstruktion ist die realistische Obergrenze ohne Bluter-Maerkte. Layer-1 ✓, Layer-3 ✓ (Spread-Linien anders als in Risiko/Balance). Empfohlener Einsatz 0.55€ (0.1%) - reiner Spasseinsatz."
+      "begruendung": "Spass-Moonshot mit nur 3 verfuegbaren Spielen. Olise als Backup-Sturm-Profil + 2 NBA-Underdog-Spread-Cover (groessere Linien als Risiko-Kombi). Ehrlich: bei nur 3 Spielen heute kommen 300x+ nicht zusammen ohne Hattrick/Genaues-Ergebnis-Beine - heutige 46x-Konstruktion ist die realistische Obergrenze ohne Bluter-Maerkte. Layer-1 ✓, Layer-3 ✓ (Spread-Linien anders als in Risiko/Balance). Empfohlener Einsatz 0.55€ (0.1%) - reiner Spasseinsatz.",
+      "gesamtquote": 13.3,
+      "rechnung": "3.50 x 3.80 = 13.3"
     }
   ],
   "lessons_angewandt": [

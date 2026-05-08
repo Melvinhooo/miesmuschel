@@ -134,20 +134,14 @@
       "kategorie": "risk",
       "beine": [
         {
-          "spiel_id": "2026-04-28-magic-pistons-g4",
-          "spiel_titel": "Orlando Magic vs Detroit Pistons G4",
-          "markt": "Orlando Magic vs Detroit Pistons G4: Magic +3.5 (Spread)",
-          "quote": 1.91
-        },
-        {
           "spiel_id": "2026-04-28-suns-thunder-g4",
           "spiel_titel": "Phoenix Suns vs OKC Thunder G4",
           "markt": "Phoenix Suns vs OKC Thunder G4: Über 213.5 Punkte (Total)",
           "quote": 1.91
         }
       ],
-      "gesamtquote": 3.65,
-      "rechnung": "1.91 x 1.91 = 3.65",
+      "gesamtquote": 1.91,
+      "rechnung": "1.91 = 1.91",
       "empfohlener_einsatz_prozent": 0.25,
       "begruendung": "Fünf Beine: 1 Sieg-Anker + 4 Spread/Total-Picks. Nicht-korreliert weil verschiedene Spiele/Maerkte. Ehrliche ~16x."
     },

@@ -866,7 +866,7 @@
           "quote": 1.5
         }
       ],
-      "kontext_check_status": "WARN_QUELLE"
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-04-nyk-phi-g1",
@@ -911,7 +911,7 @@
           "quote": 1.45
         }
       ],
-      "kontext_check_status": "WARN_QUELLE"
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-10-cry-eve",
@@ -1197,7 +1197,7 @@
       "name": "Moonshot-Kombi (Lotterie - 1-2 EUR Spasseinsatz)",
       "kategorie": "moonshot",
       "ziel_quote_range": "300-1000x",
-      "gesamtquote": 295.0,
+      "gesamtquote": 148.84,
       "empfohlener_einsatz_prozent": 0.1,
       "begruendung": "5 Beine, alle Underdog-Sieg-Outcomes auf verschiedene Spiele. Layer-2 sauber (keine Sieg-Outcome-Doppel mit Balance/Safe/Risiko - PSG-Sieg vs Bayern, Forest-Sieg vs Newcastle, HSV-Sieg vs Freiburg, Real-Sieg vs Barca, Villa-Sieg vs Forest sind alle neue Sieg-Outcome-Buckets). 1-2 EUR Spasseinsatz.",
       "beine": [
@@ -1231,7 +1231,8 @@
           "quote": 2.7,
           "spiel_titel": "BVB vs Frankfurt (BL 33, Fr 08.05.)"
         }
-      ]
+      ],
+      "rechnung": "3.75 x 4.00 x 1.75 x 2.10 x 2.70 = 148.84"
     }
   ],
   "lessons_angewandt": [
