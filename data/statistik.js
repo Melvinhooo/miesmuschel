@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-05-07T06:12:57+00:00",
+  "letzte_berechnung": "2026-05-08T06:14:06+00:00",
   "gesamt": {
-    "tipps": 153,
-    "gewonnen": 90,
-    "verloren": 63,
+    "tipps": 165,
+    "gewonnen": 98,
+    "verloren": 67,
     "push": 0,
     "offen": 0,
-    "einsatz": 153.0,
-    "netto": 2.96,
-    "trefferquote": 58.8,
-    "roi_prozent": 1.9
+    "einsatz": 165.0,
+    "netto": 17.4,
+    "trefferquote": 59.4,
+    "roi_prozent": 10.5
   },
   "letzte_30_tage": {
-    "tipps": 153,
-    "gewonnen": 90,
-    "verloren": 63,
+    "tipps": 165,
+    "gewonnen": 98,
+    "verloren": 67,
     "push": 0,
     "offen": 0,
-    "einsatz": 153.0,
-    "netto": 2.96,
-    "trefferquote": 58.8,
-    "roi_prozent": 1.9
+    "einsatz": 165.0,
+    "netto": 17.4,
+    "trefferquote": 59.4,
+    "roi_prozent": 10.5
   },
   "letzte_90_tage": {
-    "tipps": 153,
-    "gewonnen": 90,
-    "verloren": 63,
+    "tipps": 165,
+    "gewonnen": 98,
+    "verloren": 67,
     "push": 0,
     "offen": 0,
-    "einsatz": 153.0,
-    "netto": 2.96,
-    "trefferquote": 58.8,
-    "roi_prozent": 1.9
+    "einsatz": 165.0,
+    "netto": 17.4,
+    "trefferquote": 59.4,
+    "roi_prozent": 10.5
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -278,15 +278,37 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 40.2
     },
     "NBA Playoffs Round 2, Game 2": {
-      "tipps": 6,
+      "tipps": 8,
       "gewonnen": 3,
-      "verloren": 3,
+      "verloren": 5,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 8.0,
+      "netto": 4.5,
+      "trefferquote": 37.5,
+      "roi_prozent": 56.2
+    },
+    "Conference League Halbfinale Rueckspiel": {
+      "tipps": 4,
+      "gewonnen": 3,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 4.0,
+      "netto": 5.46,
+      "trefferquote": 75.0,
+      "roi_prozent": 136.5
+    },
+    "Europa League Halbfinale Rueckspiel": {
+      "tipps": 6,
+      "gewonnen": 5,
+      "verloren": 1,
       "push": 0,
       "offen": 0,
       "einsatz": 6.0,
-      "netto": 4.5,
-      "trefferquote": 50.0,
-      "roi_prozent": 75.0
+      "netto": 8.98,
+      "trefferquote": 83.3,
+      "roi_prozent": 149.7
     }
   },
   "nach_markt": {
@@ -1347,15 +1369,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -100.0
     },
     "Ueber 1.5 Tore": {
-      "tipps": 1,
-      "gewonnen": 1,
+      "tipps": 2,
+      "gewonnen": 2,
       "verloren": 0,
       "push": 0,
       "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.45,
+      "einsatz": 2.0,
+      "netto": 1.85,
       "trefferquote": 100.0,
-      "roi_prozent": 45.0
+      "roi_prozent": 92.5
     },
     "Cavaliers Sieg (90 Min)": {
       "tipps": 1,
@@ -1457,15 +1479,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -100.0
     },
     "Ueber 2.5 Tore": {
-      "tipps": 1,
-      "gewonnen": 1,
+      "tipps": 3,
+      "gewonnen": 3,
       "verloren": 0,
       "push": 0,
       "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.62,
+      "einsatz": 3.0,
+      "netto": 4.23,
       "trefferquote": 100.0,
-      "roi_prozent": 62.0
+      "roi_prozent": 141.0
     },
     "Unter 3.5 Tore": {
       "tipps": 3,
@@ -1741,19 +1763,118 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.0,
       "trefferquote": 0.0,
       "roi_prozent": 0.0
+    },
+    "Sieg Crystal Palace (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.49,
+      "trefferquote": 100.0,
+      "roi_prozent": 149.0
+    },
+    "Ismaila Sarr trifft jederzeit": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 2.21,
+      "trefferquote": 100.0,
+      "roi_prozent": 221.0
+    },
+    "Ollie Watkins trifft jederzeit": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 2.1,
+      "trefferquote": 100.0,
+      "roi_prozent": 210.0
+    },
+    "Vincenzo Grifo trifft jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Ueber 215.5 Punkte (Spiel-Total)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Sieg SC Freiburg (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.83,
+      "trefferquote": 100.0,
+      "roi_prozent": 183.0
+    },
+    "Sieg Aston Villa (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.8,
+      "trefferquote": 100.0,
+      "roi_prozent": 180.0
+    },
+    "Sieg RC Strasbourg (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Cleveland Cavaliers +3.5 Spread Cover": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt_typ": {
     "Spieler-Punkte Ueber (NBA)": {
-      "tipps": 12,
+      "tipps": 13,
       "gewonnen": 6,
-      "verloren": 6,
+      "verloren": 7,
       "push": 0,
       "offen": 0,
-      "einsatz": 12.0,
+      "einsatz": 13.0,
       "netto": -0.93,
-      "trefferquote": 50.0,
-      "roi_prozent": -7.8
+      "trefferquote": 46.2,
+      "roi_prozent": -7.2
     },
     "Spieler-Punkte Unter (NBA)": {
       "tipps": 7,
@@ -1789,26 +1910,26 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 55.0
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 52,
-      "gewonnen": 31,
-      "verloren": 21,
+      "tipps": 56,
+      "gewonnen": 34,
+      "verloren": 22,
       "push": 0,
       "offen": 0,
-      "einsatz": 52.0,
-      "netto": 0.08,
-      "trefferquote": 59.6,
-      "roi_prozent": 0.2
+      "einsatz": 56.0,
+      "netto": 5.2,
+      "trefferquote": 60.7,
+      "roi_prozent": 9.3
     },
     "Torschuetzen Jederzeit": {
-      "tipps": 12,
-      "gewonnen": 6,
-      "verloren": 6,
+      "tipps": 15,
+      "gewonnen": 8,
+      "verloren": 7,
       "push": 0,
       "offen": 0,
-      "einsatz": 12.0,
-      "netto": 4.81,
-      "trefferquote": 50.0,
-      "roi_prozent": 40.1
+      "einsatz": 15.0,
+      "netto": 9.12,
+      "trefferquote": 53.3,
+      "roi_prozent": 60.8
     },
     "Unter 2.5 Tore": {
       "tipps": 7,
@@ -1844,15 +1965,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 9.4
     },
     "Ueber 2.5 Tore": {
-      "tipps": 4,
-      "gewonnen": 2,
+      "tipps": 6,
+      "gewonnen": 4,
       "verloren": 2,
       "push": 0,
       "offen": 0,
-      "einsatz": 4.0,
-      "netto": 0.32,
-      "trefferquote": 50.0,
-      "roi_prozent": 8.0
+      "einsatz": 6.0,
+      "netto": 3.93,
+      "trefferquote": 66.7,
+      "roi_prozent": 65.5
     },
     "Beide Teams treffen JA": {
       "tipps": 3,
@@ -1866,26 +1987,26 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -43.3
     },
     "Ueber 1.5 Tore": {
-      "tipps": 4,
-      "gewonnen": 3,
+      "tipps": 5,
+      "gewonnen": 4,
       "verloren": 1,
       "push": 0,
       "offen": 0,
-      "einsatz": 4.0,
-      "netto": 0.2,
-      "trefferquote": 75.0,
-      "roi_prozent": 5.0
+      "einsatz": 5.0,
+      "netto": 1.6,
+      "trefferquote": 80.0,
+      "roi_prozent": 32.0
     },
     "Spread/Handicap": {
-      "tipps": 6,
+      "tipps": 7,
       "gewonnen": 2,
-      "verloren": 4,
+      "verloren": 5,
       "push": 0,
       "offen": 0,
-      "einsatz": 6.0,
+      "einsatz": 7.0,
       "netto": 0.82,
-      "trefferquote": 33.3,
-      "roi_prozent": 13.7
+      "trefferquote": 28.6,
+      "roi_prozent": 11.7
     },
     "Raptors +3.5": {
       "tipps": 1,
@@ -2099,83 +2220,83 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 72,
-      "gewonnen": 36,
-      "verloren": 36,
+      "tipps": 79,
+      "gewonnen": 40,
+      "verloren": 39,
       "push": 0,
       "offen": 0,
-      "einsatz": 72.0,
-      "netto": -2.15,
-      "trefferquote": 50.0,
-      "roi_prozent": -3.0
+      "einsatz": 79.0,
+      "netto": 5.09,
+      "trefferquote": 50.6,
+      "roi_prozent": 6.4
     },
     "2.00-3.00": {
-      "tipps": 16,
-      "gewonnen": 8,
+      "tipps": 18,
+      "gewonnen": 10,
       "verloren": 8,
       "push": 0,
       "offen": 0,
-      "einsatz": 16.0,
-      "netto": 2.33,
-      "trefferquote": 50.0,
-      "roi_prozent": 14.6
+      "einsatz": 18.0,
+      "netto": 6.64,
+      "trefferquote": 55.6,
+      "roi_prozent": 36.9
     },
     "1.00-1.50": {
-      "tipps": 60,
-      "gewonnen": 44,
+      "tipps": 62,
+      "gewonnen": 46,
       "verloren": 16,
       "push": 0,
       "offen": 0,
-      "einsatz": 60.0,
-      "netto": 0.33,
-      "trefferquote": 73.3,
-      "roi_prozent": 0.5
+      "einsatz": 62.0,
+      "netto": 3.22,
+      "trefferquote": 74.2,
+      "roi_prozent": 5.2
     },
     "3.00+": {
-      "tipps": 5,
+      "tipps": 6,
       "gewonnen": 2,
-      "verloren": 3,
+      "verloren": 4,
       "push": 0,
       "offen": 0,
-      "einsatz": 5.0,
+      "einsatz": 6.0,
       "netto": 2.45,
-      "trefferquote": 40.0,
-      "roi_prozent": 49.0
+      "trefferquote": 33.3,
+      "roi_prozent": 40.8
     }
   },
   "nach_kategorie": {
     "safe": {
-      "tipps": 53,
-      "gewonnen": 38,
+      "tipps": 54,
+      "gewonnen": 39,
       "verloren": 15,
       "push": 0,
       "offen": 0,
-      "einsatz": 53.0,
-      "netto": -2.26,
-      "trefferquote": 71.7,
-      "roi_prozent": -4.3
+      "einsatz": 54.0,
+      "netto": -0.77,
+      "trefferquote": 72.2,
+      "roi_prozent": -1.4
     },
     "value": {
-      "tipps": 84,
-      "gewonnen": 44,
-      "verloren": 40,
+      "tipps": 94,
+      "gewonnen": 50,
+      "verloren": 44,
       "push": 0,
       "offen": 0,
-      "einsatz": 84.0,
-      "netto": -0.04,
-      "trefferquote": 52.4,
-      "roi_prozent": -0.0
+      "einsatz": 94.0,
+      "netto": 11.11,
+      "trefferquote": 53.2,
+      "roi_prozent": 11.8
     },
     "wackel": {
-      "tipps": 16,
-      "gewonnen": 8,
+      "tipps": 17,
+      "gewonnen": 9,
       "verloren": 8,
       "push": 0,
       "offen": 0,
-      "einsatz": 16.0,
-      "netto": 5.26,
-      "trefferquote": 50.0,
-      "roi_prozent": 32.9
+      "einsatz": 17.0,
+      "netto": 7.06,
+      "trefferquote": 52.9,
+      "roi_prozent": 41.5
     }
   },
   "clv_gesamt": {
@@ -2195,6 +2316,297 @@ window.__MIESMUSCHEL_STAT = {
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-05-07",
+      "gesamt": {
+        "tipps": 12,
+        "gewonnen": 8,
+        "verloren": 4,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 12.0,
+        "netto": 14.44,
+        "trefferquote": 66.7,
+        "roi_prozent": 120.3
+      },
+      "spiele": [
+        {
+          "id": "2026-05-07-aus-not",
+          "liga": "Europa League Halbfinale Rueckspiel",
+          "heim": "Aston Villa",
+          "gast": "Nottingham Forest",
+          "endstand": "4:0",
+          "tipps": [
+            {
+              "markt": "Sieg Aston Villa (90 Min)",
+              "quote": 1.8,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.8,
+              "kommentar": "Aston Villa 4:0 - Heim-Aufhol-Sieg klar."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.85,
+              "kommentar": "4 Tore (4:0) - Ueber 2.5 deutlich."
+            },
+            {
+              "markt": "Ollie Watkins trifft jederzeit",
+              "quote": 2.1,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 2.1,
+              "kommentar": "Watkins traf 36. Min nach Buendia-Assist - direkt."
+            }
+          ]
+        },
+        {
+          "id": "2026-05-07-fre-bra",
+          "liga": "Europa League Halbfinale Rueckspiel",
+          "heim": "SC Freiburg",
+          "gast": "Sporting Braga",
+          "endstand": "3:1",
+          "tipps": [
+            {
+              "markt": "Sieg SC Freiburg (90 Min)",
+              "quote": 1.83,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.83,
+              "kommentar": "Freiburg 3:1 - direkter Sieg."
+            },
+            {
+              "markt": "Ueber 1.5 Tore",
+              "quote": 1.4,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.4,
+              "kommentar": "4 Tore (3:1) - Ueber 1.5 sicher."
+            },
+            {
+              "markt": "Vincenzo Grifo trifft jederzeit",
+              "quote": 3.2,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Grifo lieferte zwar Assist auf 3:0-Kuebler-Kopfball aber kein eigenes Tor. Am Spielende ausgewechselt fuer Holer, der NICHT traf - Einwechslungs-Boost nicht ausgeloest."
+            }
+          ]
+        },
+        {
+          "id": "2026-05-07-pal-sha",
+          "liga": "Conference League Halbfinale Rueckspiel",
+          "heim": "Crystal Palace",
+          "gast": "Shakhtar Donetsk",
+          "endstand": "2:1",
+          "tipps": [
+            {
+              "markt": "Sieg Crystal Palace (90 Min)",
+              "quote": 1.49,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.49,
+              "kommentar": "Palace 2:1 (5:2 gesamt) - Heim-Sieg klar."
+            },
+            {
+              "markt": "Ismaila Sarr trifft jederzeit",
+              "quote": 2.21,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 2.21,
+              "kommentar": "Sarr traf in 52. Min - 9. Conf-Tor in 14 Spielen."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.76,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.76,
+              "kommentar": "3 Tore (2:1) - Ueber 2.5 durch."
+            }
+          ]
+        },
+        {
+          "id": "2026-05-07-str-ray",
+          "liga": "Conference League Halbfinale Rueckspiel",
+          "heim": "RC Strasbourg",
+          "gast": "Rayo Vallecano",
+          "endstand": "0:1",
+          "tipps": [
+            {
+              "markt": "Sieg RC Strasbourg (90 Min)",
+              "quote": 1.9,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Strasbourg 0:1 verloren."
+            }
+          ]
+        },
+        {
+          "id": "2026-05-08-det-cle",
+          "liga": "NBA Playoffs Round 2, Game 2",
+          "heim": "Detroit Pistons",
+          "gast": "Cleveland Cavaliers",
+          "endstand": "107:97",
+          "tipps": [
+            {
+              "markt": "Ueber 215.5 Punkte (Spiel-Total)",
+              "quote": 1.91,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Total 204 deutlich UNTER 215.5. HR18-G2-Spike-Pattern blieb aus."
+            },
+            {
+              "markt": "Cleveland Cavaliers +3.5 Spread Cover",
+              "quote": 1.91,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Pistons gewannen mit 10 (107:97), Cavs +3.5 Cover gerissen."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi (~2.71x)",
+          "kategorie": "safe",
+          "gesamtquote": 0.0,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Crystal Palace vs Shakhtar Donetsk: Sieg Crystal Palace (90 Min)",
+              "quote": 1.49,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "SC Freiburg vs Sporting Braga: Ueber 1.5 Tore",
+              "quote": 1.4,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Strasbourg vs Rayo Vallecano: Doppelte Chance Strasbourg oder Unentschieden (1X)",
+              "quote": 1.3,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi (~8.86x)",
+          "kategorie": "balance",
+          "gesamtquote": 0.0,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Crystal Palace vs Shakhtar Donetsk: Ismaila Sarr trifft jederzeit",
+              "quote": 2.21,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Aston Villa vs Nottingham Forest: Ollie Watkins trifft jederzeit",
+              "quote": 2.1,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Pistons vs Cavaliers G2: Ueber 215.5 Punkte (Spiel-Total)",
+              "quote": 1.91,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi (~28.27x)",
+          "kategorie": "risk",
+          "gesamtquote": 0.0,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "SC Freiburg vs Sporting Braga: Vincenzo Grifo trifft jederzeit",
+              "quote": 3.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Crystal Palace vs Shakhtar Donetsk: Jean-Philippe Mateta trifft jederzeit",
+              "quote": 2.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Pistons vs Cavaliers G2: Cleveland Cavaliers +3.5 Spread Cover",
+              "quote": 1.91,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Strasbourg vs Rayo Vallecano: Beide Teams treffen JA",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi (~87.58x)",
+          "kategorie": "moonshot",
+          "gesamtquote": 0.0,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Strasbourg vs Rayo Vallecano: Emanuel Emegha trifft jederzeit",
+              "quote": 3.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Aston Villa vs Nottingham Forest: Beide Teams treffen JA",
+              "quote": 1.73,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Crystal Palace vs Shakhtar Donetsk: Ueber 2.5 Tore",
+              "quote": 1.76,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Thunder vs Lakers G2: Los Angeles Lakers +15.5 Spread Cover",
+              "quote": 1.91,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "SC Freiburg vs Sporting Braga: Sieg SC Freiburg (90 Min)",
+              "quote": 1.83,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Pistons vs Cavaliers G2: Sieg Cleveland Cavaliers (Moneyline)",
+              "quote": 2.36,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-05-06",
       "gesamt": {

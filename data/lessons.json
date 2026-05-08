@@ -458,6 +458,30 @@
       "kategorie": "HR20: CL-K.O.-Rueckspiel-Tor-Reduzierung nach Hinspiel-Festival (Quelle 8g — Markt-Pattern)",
       "lesson": "EMPIRIE 06.05.: Bayern-PSG Hinspiel 4:5 (9 Tore), Rueckspiel 1:1 (2 Tore). 'Mehr 2.5 Tore'-Tipp 1.40 verloren — Hinspiel-Tor-Festival war KEIN Indikator fuer Rueckspiel. Pattern: Bei CL-K.O.-Rueckspielen mit grossem Hinspiel-Total (>=7 Tore) korrigiert sich das Rueckspiel-Total nach UNTEN — Final-Phase-Druck + Defense-Adjustment + 'wer fuehrt schliesst zu' wirken zusammen. Historie hat n=2 jetzt (auch Bayer 04 vs Inter im April: Hinspiel 3:2, Rueckspiel 0:0). HARTREGEL: Bei CL-K.O.-Rueckspielen wenn Hinspiel-Total >= 7 Tore -> 'Mehr 2.5/3.5'-Tipp DOWNGRADE auf max wackel mit reduziertem Stake; 'Unter 2.5/3.5'-Tipp als VALUE moeglich. Pflichtfeld saison_kontext bei CL-K.O.-Rueckspielen: 'hinspiel_total_tore' + 'rueckspiel_total_korrektur_aktiv'. Mapper-Hebel U (UEFA-K.O.-Rueckspiel): if hinspiel_total >= 7 -> ueber_tipp_downgrade()=true.",
       "bezug_spiel_id": "2026-05-06-bay-psg"
+    },
+    {
+      "datum": "2026-05-08",
+      "kategorie": "HR21: G2-Reaktions-Spike NUR bei beidseitig-gesunden Schuetzen-Aufstellungen (HR18-Falsifikation, Quelle 8g)",
+      "lesson": "HR18-PATTERN-EINGRENZUNG: G2-Total-Spike-Pattern (Cavs/Pistons G2 erwartet ueber 215.5) wurde am 07.05. teilweise FALSIFIZIERT - bei Pistons-Cavs Total NUR 204 (deutlich unter 215.5), weil Cavs-Strus 4 verfehlte 3-Pkt-Wuerfe + Cavs 0/11 aus 3-Pkt-Distanz im 4. Viertel. Bei Thunder-Lakers dagegen 232 Total (G1 198 -> G2 +34) voll Spike-aktiv trotz Doncic-OUT. Lesson: G2-Reaktions-Spike-These NUR ansetzen wenn (a) keine Top-3-Pkt-Schuetzen verletzt UND (b) keine Wurf-Krise-Form aus G1 erkennbar. Bei Wurfkrise-Risiko-Team (z.B. Cavs 0/11 Q4) eher Unter spielen. HR18 wird zu HR18-modifiziert: Spike-Empfehlung mit Wurf-Form-Check.",
+      "bezug_spiel_id": "2026-05-08-det-cle"
+    },
+    {
+      "datum": "2026-05-08",
+      "kategorie": "HR22: Star-OUT-Aufhol-Pflicht-Implosion (Quelle 8h — Rotation-Pattern)",
+      "lesson": "STAR-OUT-PATTERN-VERSCHAERFUNG: Strasbourg ohne Emegha (Top-Stuermer verletzt, Enciso als Notloesung) implodierte komplett - 0:1 verloren, kein eigenes Tor, alle 4 Strasbourg-Beine kaputt (Sieg + DC1X + BTTS-JA + Emegha-Tor (push)). Pattern-Wiederholung von Lakers-Doncic-OUT (29.04.) und Mainz-Bayern-Druck-Loesung (25.04.) - aber hier auf Strasbourg-Aufhol-Pflicht-Seite gespiegelt. Regel mechanisch: Bei Top-Stuermer-OUT in einem Heim-Aufhol-Pflicht-Rueckspiel SAFE/VALUE-Sieg-Tipps + DC + BTTS auf Heim-Seite ALLE STREICHEN (oder max wackel). Stattdessen Gegner-Sieg-Tipp ODER Total-Unter-Tipp setzen. Strasbourg-Cluster heute war Layer-3-Korrelations-Falle ueber 3 Kombis hinweg.",
+      "bezug_spiel_id": "2026-05-07-str-ray"
+    },
+    {
+      "datum": "2026-05-08",
+      "kategorie": "HR23: Layer-3-Diversifikation (max 1 Bein pro Spiel ueber ALLE Kombis hinweg, Quelle 8a — Korrelations-Analyse)",
+      "lesson": "KORRELATIONS-FALLE NEUE EBENE: Strasbourg-Spiel (Star-OUT Emegha) war heute in 3 von 4 Kombis (Safe-Kombi: DC1X, Risiko-Kombi: BTTS, Moonshot-Kombi: Emegha-Tor + Sieg-Freiburg). Bei Strasbourg-Komplettausfall (0:1, kein Tor) verloren alle 3 Kombis automatisch durch ein einziges Spiel. HR17 verbietet bislang nur 3 reine Sieg-Beine in EINER Safe-Kombi - das ist zu schwach. Neue Hartregel HR23: max 1 BEIN PRO SPIEL ueber ALLE Kombis hinweg (Layer-3-Diversifikation). Wenn ein Spiel ein Bein in Safe-Kombi hat, darf es kein Bein in Balance/Risiko/Moonshot haben. Ausnahme: Moonshot kann zusaetzlich 1 Bein haben, wenn es klar entkoppelter Markt ist (z.B. Heim-Sieg in Safe + reiner Total in Moonshot - keine Korrelation).",
+      "bezug_spiel_id": "2026-05-07-str-ray"
+    },
+    {
+      "datum": "2026-05-08",
+      "kategorie": "HR24: Form-Edge-Pflicht-Eingrenzung fuer Torschuetzen-Goldgrube (Quelle 8c — Markt-Bilanz)",
+      "lesson": "GOLDGRUBE-MARKT TORSCHUETZEN-JEDERZEIT (53.3% Hit / +60.8% ROI / n=15) bestaetigt sich weiter — Sarr (9. Conf-Tor in 14 Spielen, 5 Spiele in Folge getroffen) und Watkins (EL-Top-Torschuetze Villa) trafen heute beide. ABER: Mateta (Pfostentreffer + 66. ausgewechselt fuer Strand Larsen, kein Boost) und Grifo (Assist statt Tor, Standardschuetze, kein Volumen-9er) trafen NICHT. Pattern: 'Form-Edge-Pflicht' muss mechanisch eingeengt werden: NUR Goalscorer-Tipps SAFE/VALUE setzen wenn Spieler EINE der drei Bedingungen erfuellt: (a) 4+ Spiele in Folge getroffen, ODER (b) 5+ Tore in den letzten 10 Spielen, ODER (c) klassischer Mittelstuermer mit Volumen-Backup hinter sich (Einwechslungs-Boost). Standardschuetzen/Setpiece-Spezialisten (Grifo, Lijnders-Typ) max WACKEL. Mittelstuermer mit Pfostentreffer-Pech (Mateta) bleiben WACKEL. Aktualisiert HR12 (Joker-Stuermer-Profil).",
+      "bezug_spiel_id": "2026-05-07-pal-sha"
     }
   ]
 }

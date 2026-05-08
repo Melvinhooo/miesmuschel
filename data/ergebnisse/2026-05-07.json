@@ -1,0 +1,1445 @@
+{
+  "datum": "2026-05-07",
+  "erstellt_am": "2026-05-07T16:00:00+02:00",
+  "hinweis": "Donnerstag-Doppelpack: 2 EL-Halbfinal-Rückspiele (Aston Villa-Forest, Freiburg-Braga) + 2 Conference-Halbfinal-Rückspiele (Crystal Palace-Shakhtar, Strasbourg-Rayo) + NBA Round 2 Game 2 (Cavs@Pistons, Lakers@Thunder). Schwerpunkt diesmal: Crystal Palace mit 2-Tore-Hinspielvorsprung & Sarr in Goldgrubenform (8 Tore in 13 Conf-Spielen). Reaktions-Spike-Pattern (HR18) bei Cavs-Pistons G2 aktiv beachtet. Kasse-Stand 550€ → Stufe 1, konservative Einsätze.",
+  "spiele": [
+    {
+      "id": "2026-05-07-aus-not",
+      "liga": "Europa League Halbfinale Rueckspiel",
+      "heim": "Aston Villa",
+      "gast": "Nottingham Forest",
+      "anstoss": "2026-05-07T21:00:00+02:00",
+      "stadion": "Villa Park, Birmingham",
+      "saison_kontext": {
+        "parallel_heim": "Premier League Restprogramm (3 Spieltage), Villa So 10.05. vs Bournemouth - rotationskritisch",
+        "parallel_gast": "Premier League Klassenerhaltskampf, Forest 42 Pkt knapp ueber Strich, So 10.05. vs Brentford",
+        "saisonziel_heim": "Platz 5 PL (58 Pkt), CL-Quali noch erreichbar (6 Pkt vor Bournemouth) - PLUS EL-Finale Istanbul 20.05. greifbar",
+        "saisonziel_gast": "Klassenerhalt PL (42 Pkt) - akut gefaehrdet, dazu erstes Europa-Halbfinale seit 42 Jahren, doppelter Druck",
+        "motivations_asymmetrie": "Beide haben maximalen Druck: Villa muss aufholen + will CL/EL-Finale, Forest will Sensation halten + ist im 9-Spiele-unbesiegt-Lauf (zuletzt 3:1 in Chelsea) - kein Klassen-Edge sondern Form-Equilibrium, eher 50/50",
+        "recovery_heim": "5 Tage Pause seit 2:1 vs Bournemouth (02.05.), kein Mittwoch-Spiel, voll regeneriert",
+        "recovery_gast": "5 Tage Pause seit 3:1 in Chelsea (02.05.), gleiche Voraussetzung, frisch",
+        "quellen": [
+          "https://www.uefa.com/uefaeuropaleague/match/2048146--aston-villa-vs-nott-m-forest/",
+          "https://www.avfc.co.uk/news/2026/april/30/report-nottingham-forest-v-aston-villa/",
+          "https://www.sportsmole.co.uk/football/nottingham-forest/europa-league/preview/nottm-forest-vs-aston-villa-prediction-team-news-lineups_596557.html"
+        ]
+      },
+      "news": [
+        "Hinspiel: Forest 1:0 (Wood-Elfmeter 71. Min nach Digne-Handspiel) - Forest hat Vorsprung",
+        "Forest 9 Spiele unbesiegt + 5 Siege in Folge zuletzt, exzellente Form vor dem Rueckspiel",
+        "Watkins (Villas EL-Top-Torschuetze, 4 Tore) zurueck und startbereit; McGinn fraglich (Hamstring); Onana doubt",
+        "Villa muss fuer das Finale mind. 1:0 gewinnen (Verlaengerung) oder 2:0+ (direkt durch); 2:0-Insurance gilt hier NICHT (nur Bundesliga + Champions League)",
+        "Villa Park 42'000 Zuschauer ausverkauft, Heim-Atmosphaere maximaler Druck-Faktor",
+        "Beide Teams im All-English-EL-Halbfinale - das Finale Istanbul am 20.05. wartet auf den Sieger"
+      ],
+      "tipps": [
+        {
+          "id": "aus-not-1",
+          "kategorie": "wackel",
+          "markt": "Sieg Aston Villa (90 Min)",
+          "quote": 1.8,
+          "edge_prozent": 8.0,
+          "begruendung": "Villa Heim @ 1.80 ist VALUE - Heimvorteil + Aufhol-Pflicht + Watkins fit + 5 Tage Recovery + Villa Park ausverkauft. Forest in Top-Form aber kommt mit Klassenerhalts-Doppelbelastung am So vs Brentford - Rotation auch hier denkbar. Bookies sehen 53% Hit, ich tippe 58%. ABER kein SAFE: Forest 9 unbesiegt + Auswaerts-Tor in 8/8 PL-Auswaerts (HR6-Auswaerts-Form-Edge wirkt fuer Forest-Tor), und Hinspielvorsprung gibt Forest defensives Polster. Markt 'Sieg (1X2 / ML)' Aggregat 59.6% Hit / 0.2% ROI - genau VALUE-Range. Einsatz 1% (Stufe 1) = 5.50 EUR. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
+          "faire_quote": 1.67,
+          "empfohlener_einsatz_prozent": 1.0,
+          "_saison_kontext_sanity_downgrade": true
+        },
+        {
+          "id": "aus-not-2",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.85,
+          "edge_prozent": 9.0,
+          "begruendung": "K.O.-Rueckspiel mit Heim-Aufhol-Pflicht produziert historisch oft 3+ Tore - Villa MUSS offensiv kommen, kann sich kein 0:0 leisten. Forest kontert auswaerts hochkaraetig (3:1 in Chelsea zuletzt, 8/8 Auswaertsspiele mit eigenem Tor). Mehrere Predictions-Quellen empfehlen Ueber 2.5 + BTTS uebereinstimmend. ACHTUNG HR20: CL-K.O.-Rueckspiele mit grossem Hinspiel-Total korrigieren nach unten - hier aber Hinspiel nur 1:0, also keine Ueberkorrektur-Falle. Markt 'Ueber 2.5 Tore' Aggregat 50% Hit / +8% ROI - solide VALUE. Einsatz 1% = 5.50 EUR.",
+          "faire_quote": 1.7,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "aus-not-3",
+          "kategorie": "value",
+          "markt": "Ollie Watkins trifft jederzeit",
+          "quote": 2.1,
+          "edge_prozent": 12.0,
+          "begruendung": "Form-Edge-Pflicht (HR aus Routine): Watkins ist Villas EL-Top-Torschuetze mit 4 Toren in dieser EL-Saison + zurueck nach Pause + Villa-Heim-Aufhol-Pflicht = Watkins bekommt maximale Boxraeume. Forest-Defense wird primaer auf Halten spielen, aber bei 1:0-Vorsprung muss bei Gegentor Tempo aufgenommen werden = Raum fuer Watkins. Goldgrube-Markt 'Torschuetzen Jederzeit': 50% Hit / +24-40% ROI im System - bester Markt. Plus bet365-Einwechslungs-Boost: falls Watkins in 75. fuer Abraham/Duran ausgewechselt wird, zaehlen deren Tore mit. Einsatz 1% = 5.50 EUR.",
+          "faire_quote": 1.88,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "aus-not-4",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.73,
+          "edge_prozent": 5.0,
+          "begruendung": "BTTS-JA hat schwaches Aggregat (33% Hit / -43% ROI) - bewusst nur WACKEL. Aber spezifischer Edge hier: Villa muss kommen, Forest schiesst auswaerts staendig (8/8 PL-Auswaerts mit Tor). Wahrscheinlich 1:1, 2:1 oder 2:2-Szenario. Wackel weil BTTS-NEIN bei knappem Forest-Halten (1:0 Villa wuerde reichen fuer Forest-Aus, aber Verlaengerung) auch denkbar. Einsatz 0.5% (Stufe-1-Wackel) = 2.75 EUR.",
+          "faire_quote": 1.65,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "4:0",
+        "halbzeit": "1:0",
+        "sieger": "heim",
+        "aggregat": "Villa 4-1 Forest gesamt"
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "4:0",
+        "tore": [
+          {
+            "min": 36,
+            "team": "heim",
+            "spieler": "Ollie Watkins",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 58,
+            "team": "heim",
+            "spieler": "Emi Buendia (Elfmeter)",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 77,
+            "team": "heim",
+            "spieler": "John McGinn",
+            "stand_danach": "3:0"
+          },
+          {
+            "min": 80,
+            "team": "heim",
+            "spieler": "John McGinn",
+            "stand_danach": "4:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Villa fuehrt von 36. an, Forest brauchte Tor um Aggregat zu drehen, kassierte stattdessen 4-0. Klassischer Heim-Rueckspiel-Aufhol-Sieg ohne Wendung."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Villa/Villa",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Villa Heim-Aufhol-Pflicht voll erfuellt: 4 Tore, 0 Gegentor - Forest defensiv komplett auseinander gefallen.",
+          "McGinn-Brace nach Hamstring-Frage zeigt Heim-Edge bei EL-Finalspielen - Joker-Edge bestaetigt.",
+          "Buendia-Penalty-Pattern: Standard-Druck im Heim-Aufhol-Rueckspiel zwingt Foul-Risiko."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "aus-not-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.8,
+          "kommentar": "Aston Villa 4:0 - Heim-Aufhol-Sieg klar.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "aus-not-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.85,
+          "kommentar": "4 Tore (4:0) - Ueber 2.5 deutlich.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "aus-not-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.1,
+          "kommentar": "Watkins traf 36. Min nach Buendia-Assist - direkt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "aus-not-4",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Forest 0 Tore (4:0). BTTS-NEIN. Kein Boost.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ]
+    },
+    {
+      "id": "2026-05-07-fre-bra",
+      "liga": "Europa League Halbfinale Rueckspiel",
+      "heim": "SC Freiburg",
+      "gast": "Sporting Braga",
+      "anstoss": "2026-05-07T21:00:00+02:00",
+      "stadion": "Europa-Park Stadion, Freiburg",
+      "saison_kontext": {
+        "parallel_heim": "Bundesliga 33. Spieltag - Freiburg spielt Sa 09.05. (kein konkretes Heim/Auswaerts-Detail aus Search), Mid-Table-Auslauf 7. Platz",
+        "parallel_gast": "Liga Portugal Endspurt - Braga 6. Tabelle, kaempft um Conference-League-Quali kommende Saison, Spiel So gegen Santa Clara",
+        "saisonziel_heim": "Bundesliga Platz 7 (44 Pkt) - Conference-League-Quali ueber Liga oder Pokalweg moeglich; EL-Finale Istanbul 20.05. die grosse Belohnung",
+        "saisonziel_gast": "Liga Portugal Conference-Quali (6. Pos), gewann zuletzt 2:1 vs Santa Clara - Saisonziel ist EL-Finale + Europa-Quali kommende Saison",
+        "motivations_asymmetrie": "Freiburg muss kommen (0:1 Tor-Defizit nach Hinspiel) und hat 9 Heim-Siege in Folge in Europa = riesiger Heim-Edge; Braga gewann nur 2 letzte Spiele und reist zu psychologisch schwerem Aufenthalt - klarer Heim-Klassen-Edge fuer Freiburg",
+        "recovery_heim": "5 Tage seit letztem Bundesliga-Spiel, voll regeneriert",
+        "recovery_gast": "5 Tage seit Santa-Clara-Sieg + lange Reise nach Freiburg = leichter Belastungsnachteil",
+        "quellen": [
+          "https://www.uefa.com/uefaeuropaleague/match/2048145--freiburg-vs-braga/",
+          "https://www.flashscore.com/news/uefa-europa-league-braga-freiburg-semi-final-first-leg-report-april-30/M5ZwLg75/",
+          "https://www.mightytips.com/football-predictions/freiburg-vs-braga-prediction-07-05-2026/"
+        ]
+      },
+      "news": [
+        "Hinspiel: Braga 2:1 (Tiknaz, Grifo, Dorgeles in 90+2.) - Freiburg braucht 1:0 (Verlaengerung) oder 2:0/3:1+ direkt",
+        "Freiburg 9 Heim-Siege in Folge in Europa - hoehere Macht im Europa-Park-Stadion",
+        "Grifo (Hinspiel-Torschuetze) ist offensiver Schluesselspieler, voraussichtlich Aufstellung",
+        "Braga gewann zuletzt nur 2 von letzten 5 Spielen - aber wurde im Hinspiel hoecheffizient (Dorgeles-Lategoal entscheidend)",
+        "Bookies sehen Freiburg ueber 90 Min als Favoriten (~1.83), Braga 4.20, Draw 3.60 - typische Halbfinal-Rueckspiel-Quoten"
+      ],
+      "tipps": [
+        {
+          "id": "fre-bra-1",
+          "kategorie": "value",
+          "markt": "Doppelte Chance Freiburg oder Unentschieden (1X)",
+          "quote": 1.3,
+          "edge_prozent": 7.0,
+          "begruendung": "Freiburg-Heim-Edge bei Aufhol-Pflicht: 9 Heim-Siege in Folge in Europa + Heimvorteil + Hinspiel-Tor-Mitnahme. DC 1X mit 84.6% Hit / +9.5% ROI ist Goldgrube-Markt. ABER: Mapper-Hebel C dropped SAFE-DC in Liga ohne Goldgrube-Status - Europa League Halbfinale Rueckspiel ist NICHT Liga-Goldgrube (vs Hinspiel der CL ist es), darum nur VALUE statt SAFE. Freiburg verliert nicht oft daheim in Europa - aber ggf. nicht hoch genug fuer direktes Weiterkommen. Einsatz 1% = 5.50 EUR.",
+          "faire_quote": 1.21,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "fre-bra-2",
+          "kategorie": "value",
+          "markt": "Sieg SC Freiburg (90 Min)",
+          "quote": 1.83,
+          "edge_prozent": 8.0,
+          "begruendung": "Freiburg muss kommen + 9 Heim-Siege in Folge in Europa + Braga reist mit Reisestress. Bookies @ 1.83 = ~55%, ich tippe 60%+ Hit-Wahrscheinlichkeit. Aggregat 'Sieg (1X2 / ML)' 59.6% Hit - solide Range fuer VALUE. Risiko: Braga kommt mit Hinspiel-Vorsprung defensiver, ein 0:0 oder 1:1 wuerde reichen, dann Verlaengerung. Einsatz 1% = 5.50 EUR.",
+          "faire_quote": 1.69,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "fre-bra-3",
+          "kategorie": "value",
+          "markt": "Ueber 1.5 Tore",
+          "quote": 1.4,
+          "edge_prozent": 7.0,
+          "begruendung": "Aggregat 'Ueber 1.5 Tore' 75% Hit / +5% ROI - Goldgrubenkandidat. K.O.-Rueckspiel mit Aufhol-Pflicht produziert fast immer 2+ Tore (Freiburg muss kommen, Braga schiesst auswaerts trotzdem). Hinspiel hatte 3 Tore, Erwartung hier 2-3 Tore realistisch. Niedrige Quote aber sehr verlaesslich. Einsatz 1% = 5.50 EUR.",
+          "faire_quote": 1.31,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "fre-bra-4",
+          "kategorie": "value",
+          "markt": "Vincenzo Grifo trifft jederzeit",
+          "quote": 3.2,
+          "edge_prozent": 10.0,
+          "begruendung": "Grifo traf bereits im Hinspiel + ist Freiburgs Standardschuetze + bei Heim-Aufhol-Pflicht bekommt er viele Standards/Freistoesse. Goldgrube-Markt 'Torschuetzen Jederzeit' 50% Hit / +24-40% ROI - bester Markt. Quote 3.20 wirkt hoch (Grifo ist nicht klassischer Stuermer sondern Linksaussen), aber bei 'Torschuetzen Jederzeit'-Markt bei 90 Min Heim-Druck-Spiel und seiner Standardrolle realistisch. Plus Einwechslungs-Boost: Grifo wird oft erst spaeter ausgewechselt, oder auf der anderen Seite kommt Gregoritsch rein - nochmal Tor-Chance. Einsatz 1% = 5.50 EUR.",
+          "faire_quote": 2.91,
+          "empfohlener_einsatz_prozent": 1.0
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "3:1",
+        "halbzeit": "2:0",
+        "sieger": "heim",
+        "aggregat": "Freiburg 4-3 Braga gesamt"
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "2:0",
+        "endstand": "3:1",
+        "tore": [
+          {
+            "min": 19,
+            "team": "heim",
+            "spieler": "Lukas Kuebler",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 41,
+            "team": "heim",
+            "spieler": "Johan Manzambi",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 72,
+            "team": "heim",
+            "spieler": "Lukas Kuebler (Kopfball, Grifo-Freistoss)",
+            "stand_danach": "3:0"
+          },
+          {
+            "min": 79,
+            "team": "gast",
+            "spieler": "Pau Victor",
+            "stand_danach": "3:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": true,
+          "details": "AGGREGAT-DREHUNG: Freiburg lag nach Hinspiel 1-2 zurueck, drehte 3-1 daheim (4-3 gesamt). Kein klassischer In-Game-Comeback aber Tie-Drehung, also fuer 2:0-Insurance haette Freiburg-Sieg (BL/CL-only, hier EL = nicht relevant) gegolten."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Freiburg/Freiburg",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Grifo",
+            "details": "Spielt Standards, liefert Assist auf 3:0-Kuebler-Kopfball. Zum Spielende ausgewechselt fuer Holer."
+          },
+          {
+            "team": "gast",
+            "spieler": "Mario Dorgeles",
+            "details": "Rote Karte 7. Min (Last-Man-Foul auf Beste) - Spielentscheidender Frueh-Platzverweis."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Frueher-Platzverweis-Trigger (Dorgeles 7.) entkoppelt das Spiel komplett - Standardtor-Pattern bei 10-Mann-Defense.",
+          "Freiburg-Heim-Edge in Europa bestaetigt (10. Heim-Sieg in Folge in Europa) - Heim-Festung-Pattern.",
+          "Grifo-Tipp scheitert obwohl er der Standardschuetze ist - Assist statt Tor; Einwechslung erst zum Spielende, Holer trifft NICHT - kein Boost-Trigger."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "fre-bra-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.3,
+          "kommentar": "Freiburg 3:1 - DC 1X durch.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "fre-bra-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.83,
+          "kommentar": "Freiburg 3:1 - direkter Sieg.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "fre-bra-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.4,
+          "kommentar": "4 Tore (3:1) - Ueber 1.5 sicher.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "fre-bra-4",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Grifo lieferte zwar Assist auf 3:0-Kuebler-Kopfball aber kein eigenes Tor. Am Spielende ausgewechselt fuer Holer, der NICHT traf - Einwechslungs-Boost nicht ausgeloest.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ]
+    },
+    {
+      "id": "2026-05-07-pal-sha",
+      "liga": "Conference League Halbfinale Rueckspiel",
+      "heim": "Crystal Palace",
+      "gast": "Shakhtar Donetsk",
+      "anstoss": "2026-05-07T21:00:00+02:00",
+      "stadion": "Selhurst Park, London",
+      "saison_kontext": {
+        "parallel_heim": "Premier League Restprogramm, Palace Mid-Table-Klassenerhalt-faktisch-durch (kein direkter Druck), So 10.05. Liga-Spiel",
+        "parallel_gast": "Ukrainische Premier League Liga-Endspurt, Shakhtar im Liga-Titelrennen aber als Krieg-Exilklub im polnischen Krakau spielend",
+        "saisonziel_heim": "PL Mid-Table (Klassenerhalt erreicht) + ERSTES Conference-League-Halbfinale der Klubgeschichte = das Final-Ticket Leipzig 27.05. ist die Saison-Belohnung, maximaler Fokus",
+        "saisonziel_gast": "Ukrainischer Liga-Titel + Conference-Finale - aber Hinspielpolster verloren (3:1 Niederlage), schwerer psychologischer Schaden",
+        "motivations_asymmetrie": "Palace mit 2-Tore-Vorsprung zuhause + erstem Europa-Halbfinale-Triumph in Reichweite + Sarr in absoluter Form (8 Tore in 13 Conf-Spielen, 4 Spiele in Folge getroffen) = riesiger Klassen- und Form-Edge. Shakhtar muss aufholen + reist als Gast OHNE Heim-Atmosphaere (Krakau-Heim) - klarer Edge fuer Palace",
+        "recovery_heim": "5 Tage seit 2:1-PL-Niederlage in Bournemouth (Mateta + Sarr Bank, kommen frisch zurueck)",
+        "recovery_gast": "5 Tage seit Hinspiel + lange Reise von Polen nach London (Standardroute)",
+        "quellen": [
+          "https://www.uefa.com/uefaconferenceleague/news/02a4-208402ca2999-b68cb593563e-1000--shakhtar-donetsk-1-3-crystal-palace-highlights-palace-take-a/",
+          "https://www.cpfc.co.uk/news/first-team/team-news-bournemouth-crystal-palace-may-2026/",
+          "https://www.sportsgambler.com/betting-tips/football/crystal-palace-vs-shakhtar-donetsk-prediction-lineups-odds-2026-05-07/"
+        ]
+      },
+      "news": [
+        "Hinspiel: Palace 3:1 in Krakau (Sarr 1. Min schnellstes Conference-Tor jemals, Kamada 58., Strand Larsen 84.; Ocheretko 47. fuer Shakhtar) - 2-Tore-Vorsprung",
+        "Sarr 8 Tore in 13 Conf-Spielen, hat in jeden der letzten 4 Conf-Spiele in Folge getroffen - Top-Torschuetze des Wettbewerbs",
+        "Mateta + Sarr nach Bank in Bournemouth zurueck in Startelf, Adam Wharton ebenfalls",
+        "Bookies sehen Palace klar @ 1.49, Shakhtar @ 6.50, Draw @ 4.50 - klassische Heim-Favoriten-Quote",
+        "Selhurst Park Heimspiel mit erstem Conference-Finale in Reichweite = enormer Heim-Druck-Bonus",
+        "Conference-League-Final Leipzig 27.05.2026 - der Sieger trifft auf den Strasbourg/Rayo-Sieger"
+      ],
+      "tipps": [
+        {
+          "id": "pal-sha-1",
+          "kategorie": "safe",
+          "markt": "Sieg Crystal Palace (90 Min)",
+          "quote": 1.49,
+          "edge_prozent": 6.0,
+          "begruendung": "SAFE-Begruendung: Palace 1.49 @ Heim + 2-Tore-Hinspiel-Vorsprung + Sarr in Top-Form + Mateta zurueck + Heim-Atmosphaere bei erstem Europa-Halbfinal-Triumph. Sieg-Markt nicht von DC-Goldgrube-Falle betroffen (HR Hebel C). Reality-Check: 'Sieg (1X2 / ML)' Aggregat 59.6% Hit, bei Quote 1.49 (impliziert 67%) liegt das im erwartbaren SAFE-Bereich. Plus klares Klassen-Edge (PL vs ukrainischer Liga + Shakhtar als Exilklub in 1-Mann-Tabelle). Einsatz 1.5% (Stufe 1, SAFE 1-2%) = 8.25 EUR.",
+          "faire_quote": 1.41,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "pal-sha-2",
+          "kategorie": "value",
+          "markt": "Ismaila Sarr trifft jederzeit",
+          "quote": 2.21,
+          "edge_prozent": 18.0,
+          "begruendung": "FORM-EDGE-PFLICHT (Routinen-Hartregel): Sarr 8 Tore in 13 Conf-Spielen + 4 Tore in 4 Spielen in Folge = absolute Goldgrube-Konstellation. Goldgrube-Markt 'Torschuetzen Jederzeit' 50% Hit / +24-40% ROI im System - bester Markt. Quote 2.21 impliziert 45%, aber bei Sarrs Form + Heim + Aufhol-Druck Shakhtar (Palace bekommt mehr Konter-Raum) sehe ich 55-60% Hit. Klar bester Tipp im Dossier. Einsatz 1.5% = 8.25 EUR. PLUS bet365-Einwechslungs-Boost: falls Sarr ausgewechselt wird (gegen Pino o.ae.), zaehlen deren Tore mit.",
+          "faire_quote": 1.87,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "pal-sha-3",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.76,
+          "edge_prozent": 7.0,
+          "begruendung": "Hinspiel hatte 4 Tore, Shakhtar muss aufholen + Palace bekommt Konter-Raeume - 3+ Tore plausibel. ABER: HR20-Pattern (CL-Rueckspiel-Tor-Reduzierung nach Hinspiel-Festival) wirkt warnend, hier ist es Conference-Rueckspiel nach 4-Tore-Hinspiel - schwaches Risiko-Signal. Aggregat 'Ueber 2.5 Tore' 50% Hit / +8% ROI - solide aber nicht stark. Lieber als VALUE statt SAFE. Einsatz 1% = 5.50 EUR.",
+          "faire_quote": 1.64,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "pal-sha-4",
+          "kategorie": "wackel",
+          "markt": "Jean-Philippe Mateta trifft jederzeit",
+          "quote": 2.5,
+          "edge_prozent": 6.0,
+          "begruendung": "Mateta zurueck in Startelf nach Bank-Rotation - frisch + Heim-Druck-Spiel + bekommt als Mittelstuermer beste Chancen. Hat zwar im Hinspiel nicht getroffen, aber Form generell wieder OK seit Rueckkehr. Wackel weil Mateta dieses Jahr nicht so konstant wie Sarr, aber als 2. Torschuetzen-Tipp im Spiel okay diversifizierend. Einsatz 0.5% (Wackel) = 2.75 EUR.",
+          "faire_quote": 2.36,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "2:1",
+        "halbzeit": "1:1",
+        "sieger": "heim",
+        "aggregat": "Palace 5-2 Shakhtar gesamt"
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "1:1",
+        "endstand": "2:1",
+        "tore": [
+          {
+            "min": 37,
+            "team": "heim",
+            "spieler": "Pedro Henrique (Eigentor, nach Munoz-Flanke)",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 46,
+            "team": "gast",
+            "spieler": "Eguinaldo",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 52,
+            "team": "heim",
+            "spieler": "Ismaila Sarr (Mitchell-Flanke)",
+            "stand_danach": "2:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Differenz nie >= 2 Tore in der Live-Phase. Knappes Spiel, Palace zog erst 52. Min entscheidend an. Nominale Heim-Klassen-Edge nicht so klar wie Quote suggeriert."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Palace",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Mateta",
+            "details": "Pfostentreffer kurz vor HZ, in 66. Min ausgewechselt fuer Strand Larsen. Strand Larsen blieb tor-los."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Sarr-Form-Edge bestaetigt: 9. Conf-Tor in 14 Spielen, in 5 Conf-Spielen in Folge getroffen - Goldgrube-Markt-Pflicht.",
+          "Mateta-Boost-Trigger NICHT aktiviert: er ging zwar raus (66.), Strand Larsen traf nicht. Verloren obwohl Pfostentreffer aktiv.",
+          "Eigentor-Boost als Heim-Tor zaehlt (klassische Druck-Auswirkung im Aufhol-Spiel des Gegners)."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "pal-sha-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.49,
+          "kommentar": "Palace 2:1 (5:2 gesamt) - Heim-Sieg klar.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "pal-sha-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.21,
+          "kommentar": "Sarr traf in 52. Min - 9. Conf-Tor in 14 Spielen.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "pal-sha-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.76,
+          "kommentar": "3 Tore (2:1) - Ueber 2.5 durch.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "pal-sha-4",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Mateta Pfostentreffer kurz vor HZ + 66. Min ausgewechselt fuer Strand Larsen, Strand Larsen kein Tor - Einwechslungs-Boost nicht ausgeloest.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ]
+    },
+    {
+      "id": "2026-05-07-str-ray",
+      "liga": "Conference League Halbfinale Rueckspiel",
+      "heim": "RC Strasbourg",
+      "gast": "Rayo Vallecano",
+      "anstoss": "2026-05-07T21:00:00+02:00",
+      "stadion": "Stade de la Meinau, Strasbourg",
+      "saison_kontext": {
+        "parallel_heim": "Ligue 1 Restprogramm, Strasbourg So 10.05. vs Angers - Liga noch wichtig fuer EL-Quali",
+        "parallel_gast": "LaLiga Endspurt, Rayo So 10.05. vs Athletic Bilbao (laut Soccerway-Recherche unklar, evtl Sa) - Saisonende 24.05.",
+        "saisonziel_heim": "Ligue 1 Mittelfeld + Conference-Quali ueber Liga, ERSTES Conference-Halbfinale - Final-Ticket Leipzig die Saisonbelohnung",
+        "saisonziel_gast": "LaLiga Platz 11 (Mid-Table-Auslauf, 42 Pkt) - kein direkter Liga-Druck mehr; Conference-Final ist zentrale Saisonchance",
+        "motivations_asymmetrie": "Beide haben starkes Final-Interesse, aber Strasbourg hat Heimvorteil + Aufhol-Pflicht (0:1) + frische Top-Form. Rayo verteidigt knappes 1:0-Polster auswaerts mit moderater Form - Heim-Klassen-Edge fuer Strasbourg, aber Rayo's defensive LaLiga-Schule ist ernst zu nehmen",
+        "recovery_heim": "5 Tage seit Hinspiel + Liga-Pause, frisch",
+        "recovery_gast": "5 Tage + Reise nach Frankreich, leichter Belastungsnachteil",
+        "quellen": [
+          "https://www.uefa.com/uefaconferenceleague/news/02a4-208409ac3844-3b9ca9221a05-1000--rayo-vallecano-1-0-strasbourg-highlights-set-piece-stunner-/",
+          "https://www.sportsgambler.com/betting-tips/football/strasbourg-vs-rayo-vallecano-prediction-lineups-odds-2026-05-07/",
+          "https://insights.betfred.com/football/conference-league/strasbourg-vs-rayo-vallecano-prediction-betting-tips-odds-thursday-7-may-2026/"
+        ]
+      },
+      "news": [
+        "Hinspiel: Rayo 1:0 (Alemão Kopfball 54. Min nach Palazon-Eckball) - Strasbourg braucht 1:0 (Verlaengerung) oder 2:0+ direkt",
+        "Strasbourg-Top-Stuermer Emegha gerade zurueck nach langer Pause, ist Kapitaen + Chelsea-Wechsel 2026 fix - hoechste Motivation",
+        "Bakwa fraglich (Kniebeschwerden), Panichelli + Barco verletzt - Strasbourg-Offensive-Limit",
+        "Bookies sehen Strasbourg @ 1.90 Heim-Favorit, Rayo @ 4.00, Draw @ 3.60 - relativ enger Markt",
+        "Stade de la Meinau 26'000 Plaetze ausverkauft, Strasbourg erstes Conference-Final-Ticket der Klubgeschichte erreichbar"
+      ],
+      "tipps": [
+        {
+          "id": "str-ray-1",
+          "kategorie": "value",
+          "markt": "Doppelte Chance Strasbourg oder Unentschieden (1X)",
+          "quote": 1.3,
+          "edge_prozent": 6.0,
+          "begruendung": "Goldgrube-Markt 'Doppelte Chance 1X' 84.6% Hit / +9.5% ROI im System. Strasbourg wird daheim nicht verlieren bei aufgeladener Atmosphaere. ABER: HR Goldgrube-Liga-DC-Falle - Conference League ist NICHT Liga-Goldgrube, Mapper degraded SAFE-DC auf VALUE. Bewusst nur VALUE. Reicht aber nicht zwingend zum Weiterkommen (1X bedeutet 0:0 oder 1:1 = Verlaengerung). Einsatz 1% = 5.50 EUR.",
+          "faire_quote": 1.23,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "str-ray-2",
+          "kategorie": "value",
+          "markt": "Sieg RC Strasbourg (90 Min)",
+          "quote": 1.9,
+          "edge_prozent": 7.0,
+          "begruendung": "Strasbourg muss kommen + Heimvorteil + Emegha zurueck + ausverkauftes Stadion. Bookies @ 1.90 = 53%, ich tippe 58%. Aber Rayos defensive LaLiga-Schule (1:0-Sieg im Hinspiel zeigt Defensiv-Qualitaet) ist nicht zu unterschaetzen. Markt 'Sieg (1X2 / ML)' 59.6% Hit Aggregat - VALUE-Range. Einsatz 1% = 5.50 EUR.",
+          "faire_quote": 1.78,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "str-ray-3",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.85,
+          "edge_prozent": 5.0,
+          "begruendung": "Strasbourg muss aufholen + Rayo schiesst trotzdem auswaerts (Hinspiel hat Rayo's Standard-Qualitaet gezeigt mit Alemão-Kopfball). Wahrscheinlich 1:1 oder 2:1-Szenario. Schwaches Aggregat (BTTS-JA: 33% Hit historisch -43% ROI), darum nur VALUE und kein hoeherer Einsatz. Einsatz 1% = 5.50 EUR.",
+          "faire_quote": 1.76,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "str-ray-4",
+          "kategorie": "wackel",
+          "markt": "Emanuel Emegha trifft jederzeit",
+          "quote": 3.5,
+          "edge_prozent": 8.0,
+          "begruendung": "Form-Edge-Pflicht-Antwort: Strasbourg-Top-Stuermer Emegha (26G/64Spiele Karriere) gerade zurueck + Kapitaen + Chelsea-Wechsel-Motivation + Heim-Druck-Spiel. Goldgrube 'Torschuetzen Jederzeit' 50% Hit / +24% ROI. Wackel weil noch nicht voll fit (langer Ausfall) und Rayo's Defense im Hinspiel sehr stabil. Quote 3.50 reflektiert Unsicherheit, aber bei Strasbourg-Heim-Druck mit Aufhol-Pflicht klar interessantester Goalscorer. Einsatz 0.5% = 2.75 EUR.",
+          "faire_quote": 3.24,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "0:1",
+        "halbzeit": "0:1",
+        "sieger": "gast",
+        "aggregat": "Rayo 2-0 Strasbourg gesamt"
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "0:1",
+        "tore": [
+          {
+            "min": 42,
+            "team": "gast",
+            "spieler": "Alemao (Volley nach Penders-Abpraller, Lejeune-Volley)",
+            "stand_danach": "0:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Strasbourg konnte trotz Heim-Aufhol-Pflicht keinen einzigen Treffer setzen. Ohne Emegha (verletzt, Enciso als Notloesung) war die Offensive zahnlos."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Rayo/Rayo",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Emegha",
+            "details": "NICHT im Kader (verletzt) - Enciso als Mittelfeld-zentrierter Stuermer-Notloesung gestartet. Strasbourg-Offensive entkernt."
+          },
+          {
+            "team": "heim",
+            "spieler": "Chilwell",
+            "details": "In HZ ausgewechselt, Nanasi rein - Trainer-Reaktion auf desolate erste HZ."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Star-Out-Pattern bei Aufhol-Pflicht-Spiel (analog Lakers-Doncic-OUT) - Top-Stuermer raus = Offensive zahnlos = Aufhol-Sieg-Tipp implodiert.",
+          "Standard-Tor-Setpiece-Pattern (Eckball-Recycling) reicht fuer LaLiga-Defense-Verteidiger - Rayo-Effizienz-Edge.",
+          "Beide Sieg-Tipps + DC1X + BTTS-JA verloren = Korrelations-Cluster im Strasbourg-Spiel (4 Beine geclustert auf einem Spiel)."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "str-ray-1",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Strasbourg 0:1 verloren - DC 1X gerissen.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "str-ray-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Strasbourg 0:1 verloren.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "str-ray-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Strasbourg 0 Tore - BTTS-NEIN.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "str-ray-4",
+          "status": "push",
+          "gewinn_faktor": 1.0,
+          "kommentar": "Emegha NICHT im Kader (verletzt) - bet365 annulliert Torschuetzen-Tipp, Einsatz zurueck. Enciso spielte stattdessen.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ]
+    },
+    {
+      "id": "2026-05-08-det-cle",
+      "liga": "NBA Playoffs Round 2, Game 2",
+      "heim": "Detroit Pistons",
+      "gast": "Cleveland Cavaliers",
+      "anstoss": "2026-05-08T01:00:00+02:00",
+      "stadion": "Little Caesars Arena, Detroit",
+      "saison_kontext": {
+        "parallel_heim": "keine - NBA-Playoffs sind exklusiver Wettbewerb",
+        "parallel_gast": "keine - NBA-Playoffs sind exklusiver Wettbewerb",
+        "saisonziel_heim": "NBA-Conference-Finale - Pistons fuehren Serie 1:0 nach 111:101-G1-Sieg, koennen mit 2:0 grosse Statement-Setzung machen",
+        "saisonziel_gast": "NBA-Conference-Finale - Cavaliers (Top-Seed) brauchen DRINGEND G2-Sieg um Serie nicht 0:2 zu verlieren bevor Heim verloren wird",
+        "motivations_asymmetrie": "Reaktions-Pflicht-Druck Cavs maximaler Fokus: nach unerwarteter G1-Niederlage muessen Mitchell + Co. zwingend reagieren - HR18-Pattern (NBA G2-Reaktions-Spike) wirkt aktiv. Pistons koennen ohne Druck spielen mit Serie-Lead - aber Heim-Atmosphaere und 12-Spiele-Verlust-Streak-gegen-Cavs-gebrochen-Power",
+        "recovery_heim": "2 Tage seit G1-Sieg (05.05.) - Standard-Playoff-Rhythmus",
+        "recovery_gast": "2 Tage seit G1-Niederlage - gleiche Voraussetzung",
+        "quellen": [
+          "https://www.nba.com/news/cavaliers-pistons-2026-playoffs-game-1-takeaways",
+          "https://www.cbssports.com/nba/news/pistons-cavaliers-odds-spread-line-prediction-start-time-2026-nba-playoff-picks-game-1-best-bets/",
+          "https://www.fanduel.com/research/pistons-vs-cavaliers-prediction-nba-odds-spread-best-bets-for-eastern-semifinals-5-7-2026"
+        ]
+      },
+      "news": [
+        "Pistons fuehren Serie 1:0 nach 111:101-G1-Sieg in Detroit (snapped 12-Game-Verlust-Streak gegen Cavs)",
+        "Cavs-G1-Schwachpunkt: 19 Turnovers + Free-Throw-Defizit 16:35 - klar adressierbar in G2",
+        "Cunningham 23 Pkt + 7 Ast in G1, Mitchell 23 Pkt fuer Cavs",
+        "Bookies: Pistons -3.5 Heim-Favorit, Total 215.5, ML Pistons -162 / Cavs +136",
+        "Cavs sind regular-season-Top-Seed - reagieren historisch stark nach G1-Schock-Niederlagen",
+        "HR18-Pattern aktiv: G2-Reaktions-Spike kippt G1-Defensiv-Pattern (Spurs-Wolves G2 hatte 228 vs G1-206) - Total-Spike erwartbar"
+      ],
+      "tipps": [
+        {
+          "id": "det-cle-1",
+          "kategorie": "value",
+          "markt": "Ueber 215.5 Punkte (Spiel-Total)",
+          "quote": 1.91,
+          "edge_prozent": 9.0,
+          "begruendung": "HR18-Pattern PFLICHTANWENDUNG: NBA-G2-Reaktions-Spike kippt G1-Defensiv-Pattern - empirisch verifiziert (Spurs-Wolves G2 228 Pkt vs G1 206 = +22 Pkt; Knicks-Sixers aehnlich). Cavs muessen offensiv kommen nach G1-Niederlage = Tempo-Spike. G1 Total war 212 (knapp unter 215.5), G2 koennte 220-225 hitten. Reality-Check: das wird genau die Frage des Tages, Pattern hat 2/2 letzte G2-Hits. Einsatz 1% = 5.50 EUR. WICHTIG: Bewusst KEIN Player-Punkte-Tipp wegen HR16-Boykott (-7.8% ROI).",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "det-cle-2",
+          "kategorie": "value",
+          "markt": "Cleveland Cavaliers +3.5 Spread Cover",
+          "quote": 1.91,
+          "edge_prozent": 7.0,
+          "begruendung": "Cavs als Top-Seed mit Reaktions-Pflicht-Druck + adressierbare G1-Schwaechen (Turnovers, Free-Throws) - +3.5 als Underdog-Spread oft VALUE bei knappen Spielen. Goldgrube-Markt 'Spread/Handicap' 33% Hit / +13.7% ROI im System (knapp positiv). HR19-Warnung: NBA-Playoff-Spread-Tipps mit 0.5-Margin-Risiko, +3.5 ist sicherer als +6.5/-7.5. Auch als Pure-Underdog-ML-Bein in Wackel-Variante denkbar. Einsatz 1% = 5.50 EUR.",
+          "faire_quote": 1.79,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "det-cle-3",
+          "kategorie": "wackel",
+          "markt": "Sieg Cleveland Cavaliers (Moneyline)",
+          "quote": 2.36,
+          "edge_prozent": 8.0,
+          "begruendung": "Cavs-Reaktions-Spike + Top-Seed-Status + Mitchell + Mobley + adressierbare Schwaechen aus G1 = realistische 50/50-Chance (Bookies 42% impliziert). Wackel weil G1-Verlust auch echte Pistons-Edge zeigt (Hardcore Defense, Heim-Druck). Aggregat 'Sieg' 59.6% Hit / 0.2% ROI - genau ML-Range-Wert. Einsatz 0.5% (Wackel) = 2.75 EUR. NBA-Playoffs-Verbot (Mapper-Hebel B): kein SAFE moeglich, Wackel passt.",
+          "faire_quote": 2.19,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "107:97",
+        "halbzeit": "54:43",
+        "sieger": "heim",
+        "aggregat": "Pistons fuehren Serie 2:0"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "det-cle-1",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Total 204 deutlich UNTER 215.5. HR18-G2-Spike-Pattern blieb aus.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "det-cle-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Pistons gewannen mit 10 (107:97), Cavs +3.5 Cover gerissen.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "det-cle-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Cavs verloren 97:107 ML.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "54:43",
+        "endstand": "107:97",
+        "tore": [],
+        "top_scorer": [
+          {
+            "team": "heim",
+            "spieler": "Cade Cunningham",
+            "punkte": 25,
+            "extras": "10 Assists"
+          },
+          {
+            "team": "heim",
+            "spieler": "Tobias Harris",
+            "punkte": 21,
+            "extras": ""
+          },
+          {
+            "team": "gast",
+            "spieler": "Donovan Mitchell",
+            "punkte": 31,
+            "extras": ""
+          },
+          {
+            "team": "gast",
+            "spieler": "Jarrett Allen",
+            "punkte": 22,
+            "extras": ""
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Pistons fuehrten zur Halbzeit 54-43 (11 Pkt), bauten aus auf 10 Punkte am Ende. Cavaliers konnten zwar in 3. Viertel verkuerzen, aber 0/11 aus 3-Pkt-Distanz im 4. Viertel kostete. Kein 2-Klassen-Stand kippte um."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "total_punkte": 204,
+          "ueber_209_5": false,
+          "ueber_215_5": false,
+          "spread_pistons_minus_3_5_cover": true,
+          "halbzeit_endstand": "Pistons/Pistons"
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Strus",
+            "details": "4 verfehlte 3-Pkt-Wuerfe im 4. Viertel - Cold-Hand-Spike loescht Spielreaktion."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "HR18-PATTERN GEFAELSCHT: G2-Reaktions-Spike-These war FALSCH - Total 204 deutlich UNTER 215.5, Mitchell+Allen lieferten zwar besser, aber Team-Total kollabiert weil Cavs 0/11 3-Pkt-Q4. Cavs-Reaktion war individuell, nicht systemisch.",
+          "Sweep-Druck Cavs G3 zuhause: Top-Seed jetzt 0:2 zuhause-final - HR-Pattern (24.04. Cavs-Raptors G3-Heim-Underdog-Sieg) wirkt potenziell aktiv fuer G3.",
+          "Cunningham 25/10 Ast - Detroit dominiert systematisch durch Point-of-Attack-Production, Pistons-Edge ist real (kein Glueckssieg)."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-08-okc-lal",
+      "liga": "NBA Playoffs Round 2, Game 2",
+      "heim": "Oklahoma City Thunder",
+      "gast": "Los Angeles Lakers",
+      "anstoss": "2026-05-08T03:30:00+02:00",
+      "stadion": "Paycom Center, Oklahoma City",
+      "saison_kontext": {
+        "parallel_heim": "keine - NBA-Playoffs sind exklusiver Wettbewerb",
+        "parallel_gast": "keine - NBA-Playoffs sind exklusiver Wettbewerb",
+        "saisonziel_heim": "NBA-Conference-Finale - Thunder fuehren Serie 1:0 nach 108:90-G1-Sieg, MVP-Kandidat SGA + Holmgren in Top-Form",
+        "saisonziel_gast": "NBA-Conference-Finale - Lakers brauchen G2 fuer Serie-Lebensfaehigkeit, aber Doncic OUT (Hamstring) + Vanderbilt fraglich (Pinkie-Ausrenkung) = massive Star-Krise",
+        "motivations_asymmetrie": "Star-Out-Spiel: Doncic raus = Lakers-Hauptcreator weg, LeBron + Hachimura muessen alleine tragen. Thunder mit voller Mannschaft + MVP-Form-SGA + Holmgren-G1-Dominanz (24P/12R) klar im Vorteil. KEIN ECHTER WETTKAMPF. HR14-Warnung: Star-Out-Spiele fuehren zu Korrelations-Klumpung in Kombis - max 1 Bein aus diesem Spiel pro Kombi",
+        "recovery_heim": "2 Tage seit G1-Sieg (05.05.) - Standard-Playoff-Rhythmus",
+        "recovery_gast": "2 Tage seit G1-Niederlage + Reise OKC, Doncic fehlt seit Tagen schon",
+        "quellen": [
+          "https://www.nba.com/news/lakers-thunder-2026-playoffs-game-1-takeaways",
+          "https://www.totalprosports.com/nba/oklahoma-city-thunder/lakers-vs-thunder-2026-nba-playoffs-preview-odds-injury-updates-may-7/",
+          "https://www.covers.com/nba/lakers-vs-thunder-prediction-picks-best-bets-sgp-thursday-5-7-2026"
+        ]
+      },
+      "news": [
+        "Thunder fuehren Serie 1:0 nach 108:90-G1-Sieg in OKC (Holmgren 24P/12R, SGA balanced)",
+        "Doncic OUT mit Hamstring-Verletzung (seit 02.04. Problem) - Lakers ohne Hauptcreator",
+        "Vanderbilt fraglich (Pinkie-Ausrenkung non-shooting hand) - weitere Lakers-Personal-Sorge",
+        "LeBron 27P + Hachimura 18P in G1, aber ohne Doncic limitiert sekundaeres Scoring",
+        "Bookies: Thunder -15.5 (extrem hoch), Total 209.5, Thunder ML ~1.10 = Heim-Klar-Favorit",
+        "HR8-Pattern: NBA-G1-Spread >=10 Underdog-Spread oft VALUE, ML max VALUE (kein SAFE bei NBA-Playoffs)"
+      ],
+      "tipps": [
+        {
+          "id": "okc-lal-1",
+          "kategorie": "wackel",
+          "markt": "Los Angeles Lakers +15.5 Spread Cover",
+          "quote": 1.91,
+          "edge_prozent": 9.0,
+          "begruendung": "HR8-Pattern: bei extremen Spreads >=10 ist Underdog-Spread oft VALUE - Sieg-Hitrate hoch (75%+) ABER Spread-Cover unsicher (50-55%), darum Quote 1.91. Lakers ohne Doncic werden voraussichtlich verlieren, aber 15.5 Punkte ist ein riesiges Polster - LeBron schiesst kein Game unter 20 Pkt einfach so, plus Bookies-Adjustment nach G1-Blowout uebertrieben. Aggregat 'Spread/Handicap' 33% Hit / +13.7% ROI - Goldgrubenrandkandidat. HR19-Warnung: 0.5-Punkt-Margin-Risiko bei NBA-Spread - hier aber 15.5 fast unwahrscheinlich knapp. Einsatz 0.5% (Wackel) = 2.75 EUR.",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "okc-lal-2",
+          "kategorie": "wackel",
+          "markt": "Unter 209.5 Punkte (Spiel-Total)",
+          "quote": 1.91,
+          "edge_prozent": 6.0,
+          "begruendung": "G1-Total war 198 Pkt (klar unter 209.5), Lakers ohne Doncic produzieren weniger Punkte (G1-Hauptkrise: nicht der Score sondern Punkte-Generierung), Thunder defensiv Top-3-Liga. ABER: HR18-Pattern (G2-Reaktions-Spike) kippt das normalerweise nach oben - bei Doncic-OUT ist Reaktions-Spike aber abgeschnitten. Konflikt der Patterns - darum nur Wackel. Lieber Lakers-Spread (Volumen-Stabiler) als Total-Tipp, aber als Diversifikation OK. Einsatz 0.5% = 2.75 EUR.",
+          "faire_quote": 1.8,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "okc-lal-3",
+          "kategorie": "value",
+          "markt": "Sieg Oklahoma City Thunder (Moneyline)",
+          "quote": 1.1,
+          "edge_prozent": 4.0,
+          "begruendung": "Thunder als Heim-Mega-Favorit @ 1.10 - sehr kurze Quote, aber bei Doncic-OUT + G1-Dominanz + MVP-SGA-Form fast Garantie. Aggregat 'Sieg (1X2 / ML)' 59.6% Hit reicht nicht fuer SAFE bei dieser Quote, aber Hit-Wahrscheinlichkeit hier 90%+. NBA-Playoffs-Verbot (Mapper-Hebel B): kein SAFE moeglich - VALUE als Maximum. Eher als Kombi-Bein interessant als Einzeltipp wegen niedriger Quote. Einsatz 0.5% = 2.75 EUR (klein wegen Niedrig-Quote-Fluch).",
+          "faire_quote": 1.06,
+          "empfohlener_einsatz_prozent": 1.0
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "125:107",
+        "halbzeit": "57:58",
+        "sieger": "heim",
+        "aggregat": "Thunder fuehren Serie 2:0"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "okc-lal-1",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Lakers verloren mit 18 Pkt (107:125), Spread +15.5 Cover gerissen.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "okc-lal-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Total 232 deutlich UEBER 209.5 - HR18-Spike voll aktiv (G1 198 → G2 232 = +34).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "okc-lal-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.1,
+          "kommentar": "Thunder 125:107 - Heim-Mega-Favorit-Sieg.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "57:58",
+        "endstand": "125:107",
+        "tore": [],
+        "top_scorer": [
+          {
+            "team": "heim",
+            "spieler": "Chet Holmgren",
+            "punkte": 22,
+            "extras": ""
+          },
+          {
+            "team": "heim",
+            "spieler": "Shai Gilgeous-Alexander",
+            "punkte": 22,
+            "extras": ""
+          },
+          {
+            "team": "heim",
+            "spieler": "Ajay Mitchell",
+            "punkte": 20,
+            "extras": ""
+          },
+          {
+            "team": "heim",
+            "spieler": "Jaren McCain",
+            "punkte": 18,
+            "extras": ""
+          },
+          {
+            "team": "gast",
+            "spieler": "Austin Reaves",
+            "punkte": 31,
+            "extras": "10/16 FG"
+          },
+          {
+            "team": "gast",
+            "spieler": "LeBron James",
+            "punkte": 23,
+            "extras": ""
+          }
+        ],
+        "drehung": {
+          "war_drehung": true,
+          "details": "Lakers fuehrten zur HZ 58-57 (1 Pkt) - bei Doncic-OUT! - dann Q3-Lawine: OKC outscored Lakers 32-15 waehrend SGA SOGAR Bank sass, Holmgren+Mitchell+McCain trugen. Klassisches NBA-2-Halbzeiten-Spiel mit Bank-Edge-Drehung."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "total_punkte": 232,
+          "ueber_209_5": true,
+          "ueber_215_5": true,
+          "ueber_220_5": true,
+          "spread_thunder_minus_15_5_cover": true,
+          "halbzeit_endstand": "Lakers/Thunder"
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Shai Gilgeous-Alexander",
+            "details": "In Q3 zeitweise auf der Bank, Thunder spielten +17 ohne ihn - Bank-Tiefe demonstriert."
+          },
+          {
+            "team": "gast",
+            "spieler": "Austin Reaves",
+            "details": "31 Pkt 10/16 FG - Lakers-One-Man-Show ohne Doncic."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "BANK-EDGE-DREHUNGS-PATTERN: HZ-Lakers-Lead von 1 wurde durch Thunder-Bench (McCain 18, Mitchell 20) komplett ueberrollt - Tiefe-Edge-Pattern bei Star-Out-Gegner.",
+          "HR18-PATTERN HIER VERIFIZIERT: G2-Total 232 vs G1-Total 198 = +34 Punkte = klares G2-Reaktions-Spike (Pistons-Cavs Spiel hatte das nicht). Doncic-OUT-Modifier nicht ausreichend, um Spike zu verhindern.",
+          "Reaves 31 Pkt als Joker-Stuermer-Pattern (Lakers-Bench wurde Star) - Player-Punkte-Wert auf Reaves bei naechster Routine pruefen.",
+          "Thunder -15.5 Cover-Hit trotz HZ-1-Pkt-Rueckstand zeigt Spread-Adjustment-Risiko bei Star-Out-Spiel: Bookies-Linie war GENAU richtig."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "tipp_id": "pal-sha-1",
+      "spiel_id": "2026-05-07-pal-sha",
+      "markt": "Crystal Palace vs Shakhtar Donetsk: Sieg Crystal Palace (90 Min)",
+      "kategorie": "safe",
+      "quote": 1.49,
+      "rang": 1,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "tipp_id": "pal-sha-2",
+      "spiel_id": "2026-05-07-pal-sha",
+      "markt": "Crystal Palace vs Shakhtar Donetsk: Ismaila Sarr trifft jederzeit",
+      "kategorie": "value",
+      "quote": 2.21,
+      "rang": 2,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "tipp_id": "aus-not-3",
+      "spiel_id": "2026-05-07-aus-not",
+      "markt": "Aston Villa vs Nottingham Forest: Ollie Watkins trifft jederzeit",
+      "kategorie": "value",
+      "quote": 2.1,
+      "rang": 3,
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "tipp_id": "fre-bra-4",
+      "spiel_id": "2026-05-07-fre-bra",
+      "markt": "SC Freiburg vs Sporting Braga: Vincenzo Grifo trifft jederzeit",
+      "kategorie": "value",
+      "quote": 3.2,
+      "rang": 4,
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "tipp_id": "aus-not-2",
+      "spiel_id": "2026-05-07-aus-not",
+      "markt": "Aston Villa vs Nottingham Forest: Ueber 2.5 Tore",
+      "kategorie": "value",
+      "quote": 1.85,
+      "rang": 5,
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "tipp_id": "det-cle-1",
+      "spiel_id": "2026-05-08-det-cle",
+      "markt": "Pistons vs Cavaliers G2: Ueber 215.5 Punkte (Spiel-Total)",
+      "kategorie": "value",
+      "quote": 1.91,
+      "rang": 6,
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "tipp_id": "fre-bra-2",
+      "spiel_id": "2026-05-07-fre-bra",
+      "markt": "SC Freiburg vs Sporting Braga: Sieg SC Freiburg (90 Min)",
+      "kategorie": "value",
+      "quote": 1.83,
+      "rang": 7,
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "tipp_id": "aus-not-1",
+      "spiel_id": "2026-05-07-aus-not",
+      "markt": "Aston Villa vs Nottingham Forest: Sieg Aston Villa (90 Min)",
+      "kategorie": "wackel",
+      "quote": 1.8,
+      "rang": 8,
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "tipp_id": "str-ray-2",
+      "spiel_id": "2026-05-07-str-ray",
+      "markt": "Strasbourg vs Rayo Vallecano: Sieg RC Strasbourg (90 Min)",
+      "kategorie": "value",
+      "quote": 1.9,
+      "rang": 9,
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "tipp_id": "det-cle-2",
+      "spiel_id": "2026-05-08-det-cle",
+      "markt": "Pistons vs Cavaliers G2: Cleveland Cavaliers +3.5 Spread Cover",
+      "kategorie": "value",
+      "quote": 1.91,
+      "rang": 10,
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "tipp_id": "fre-bra-3",
+      "spiel_id": "2026-05-07-fre-bra",
+      "markt": "SC Freiburg vs Sporting Braga: Ueber 1.5 Tore",
+      "kategorie": "value",
+      "quote": 1.4,
+      "rang": 11,
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "tipp_id": "pal-sha-3",
+      "spiel_id": "2026-05-07-pal-sha",
+      "markt": "Crystal Palace vs Shakhtar Donetsk: Ueber 2.5 Tore",
+      "kategorie": "value",
+      "quote": 1.76,
+      "rang": 12,
+      "empfohlener_einsatz_prozent": 1.0
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-safe-2026-05-07",
+      "name": "Safe-Kombi (~2.71x)",
+      "kategorie": "safe",
+      "beine": [
+        {
+          "spiel_id": "2026-05-07-pal-sha",
+          "markt": "Crystal Palace vs Shakhtar Donetsk: Sieg Crystal Palace (90 Min)",
+          "quote": 1.49,
+          "spiel_titel": "Crystal Palace vs Shakhtar Donetsk"
+        },
+        {
+          "spiel_id": "2026-05-07-fre-bra",
+          "markt": "SC Freiburg vs Sporting Braga: Ueber 1.5 Tore",
+          "quote": 1.4,
+          "spiel_titel": "SC Freiburg vs Sporting Braga"
+        },
+        {
+          "spiel_id": "2026-05-07-str-ray",
+          "markt": "Strasbourg vs Rayo Vallecano: Doppelte Chance Strasbourg oder Unentschieden (1X)",
+          "quote": 1.3,
+          "spiel_titel": "Strasbourg vs Rayo Vallecano"
+        }
+      ],
+      "gesamt_quote": 2.71,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 11.0,
+      "begruendung": "HR17-Diversifikation: 2 Sieg-Outcomes (Palace-Sieg + Strasbourg-DC-1X) + 1 reines Total (Ueber 1.5 Freiburg-Braga) = nicht 3 reine Sieg-Beine. Palace 1.49 mit 2-Tore-Hinspiel-Vorsprung + Heim ist die solideste SAFE des Tages. Strasbourg-DC daheim mit Aufhol-Pflicht (verlieren extrem unwahrscheinlich). Ueber 1.5 in Aufhol-Spiel Freiburg-Braga fast Pflicht-Tore. Stufe-1-Einsatz Safe-Kombi 2% = 11 EUR."
+    },
+    {
+      "id": "kombi-balance-2026-05-07",
+      "name": "Balance-Kombi (~8.86x)",
+      "kategorie": "balance",
+      "beine": [
+        {
+          "spiel_id": "2026-05-07-pal-sha",
+          "markt": "Crystal Palace vs Shakhtar Donetsk: Ismaila Sarr trifft jederzeit",
+          "quote": 2.21,
+          "spiel_titel": "Crystal Palace vs Shakhtar Donetsk"
+        },
+        {
+          "spiel_id": "2026-05-07-aus-not",
+          "markt": "Aston Villa vs Nottingham Forest: Ollie Watkins trifft jederzeit",
+          "quote": 2.1,
+          "spiel_titel": "Aston Villa vs Nottingham Forest"
+        },
+        {
+          "spiel_id": "2026-05-08-det-cle",
+          "markt": "Pistons vs Cavaliers G2: Ueber 215.5 Punkte (Spiel-Total)",
+          "quote": 1.91,
+          "spiel_titel": "Pistons vs Cavaliers G2"
+        }
+      ],
+      "gesamt_quote": 8.86,
+      "empfohlener_einsatz_prozent": 0.8,
+      "empfohlener_einsatz_euro": 4.4,
+      "begruendung": "Goldgrube-Markt-Triple: 2x Torschuetzen Jederzeit (50% Hit / +24-40% ROI) + Total. Sarr in absoluter Form (8 Tore in 13 Conf-Spielen, 4 in Folge), Watkins als EL-Top-Torschuetze Villa zurueck mit Aufhol-Pflicht, Ueber 215.5 Det-Cle gemaess HR18-G2-Reaktions-Spike-Pattern. Layer-2 sauber: alle Beine sind Player/Total, kein Sieg-Outcome. Stufe-1-Einsatz Balance 0.8% = 4.40 EUR."
+    },
+    {
+      "id": "kombi-risiko-2026-05-07",
+      "name": "Risiko-Kombi (~28.27x)",
+      "kategorie": "risk",
+      "beine": [
+        {
+          "spiel_id": "2026-05-07-fre-bra",
+          "markt": "SC Freiburg vs Sporting Braga: Vincenzo Grifo trifft jederzeit",
+          "quote": 3.2,
+          "spiel_titel": "SC Freiburg vs Sporting Braga"
+        },
+        {
+          "spiel_id": "2026-05-07-pal-sha",
+          "markt": "Crystal Palace vs Shakhtar Donetsk: Jean-Philippe Mateta trifft jederzeit",
+          "quote": 2.5,
+          "spiel_titel": "Crystal Palace vs Shakhtar Donetsk"
+        },
+        {
+          "spiel_id": "2026-05-08-det-cle",
+          "markt": "Pistons vs Cavaliers G2: Cleveland Cavaliers +3.5 Spread Cover",
+          "quote": 1.91,
+          "spiel_titel": "Pistons vs Cavaliers G2"
+        },
+        {
+          "spiel_id": "2026-05-07-str-ray",
+          "markt": "Strasbourg vs Rayo Vallecano: Beide Teams treffen JA",
+          "quote": 1.85,
+          "spiel_titel": "Strasbourg vs Rayo Vallecano"
+        }
+      ],
+      "gesamt_quote": 28.27,
+      "empfohlener_einsatz_prozent": 0.25,
+      "empfohlener_einsatz_euro": 1.4,
+      "begruendung": "4-Bein-Risiko mit Player/Spread/Total-Mix. Grifo + Mateta als 2. Torschuetzen-Tipps, Cavs +3.5 als Underdog-Spread-VALUE (HR8 Pattern), BTTS Strasbourg-Rayo bei Aufhol-Druck. Layer-1 sauber (jedes Spiel max 1 Bein in dieser Kombi), Layer-2 sauber (kein Sieg-Outcome - Spread klassifiziert separat). Stufe-1-Einsatz Risiko 0.25% = 1.40 EUR."
+    },
+    {
+      "id": "kombi-moonshot-2026-05-07",
+      "name": "Moonshot-Kombi (~87.58x)",
+      "kategorie": "moonshot",
+      "beine": [
+        {
+          "spiel_id": "2026-05-07-str-ray",
+          "markt": "Strasbourg vs Rayo Vallecano: Emanuel Emegha trifft jederzeit",
+          "quote": 3.5,
+          "spiel_titel": "Strasbourg vs Rayo Vallecano"
+        },
+        {
+          "spiel_id": "2026-05-07-aus-not",
+          "markt": "Aston Villa vs Nottingham Forest: Beide Teams treffen JA",
+          "quote": 1.73,
+          "spiel_titel": "Aston Villa vs Nottingham Forest"
+        },
+        {
+          "spiel_id": "2026-05-07-pal-sha",
+          "markt": "Crystal Palace vs Shakhtar Donetsk: Ueber 2.5 Tore",
+          "quote": 1.76,
+          "spiel_titel": "Crystal Palace vs Shakhtar Donetsk"
+        },
+        {
+          "spiel_id": "2026-05-08-okc-lal",
+          "markt": "Thunder vs Lakers G2: Los Angeles Lakers +15.5 Spread Cover",
+          "quote": 1.91,
+          "spiel_titel": "Thunder vs Lakers G2"
+        },
+        {
+          "spiel_id": "2026-05-07-fre-bra",
+          "markt": "SC Freiburg vs Sporting Braga: Sieg SC Freiburg (90 Min)",
+          "quote": 1.83,
+          "spiel_titel": "SC Freiburg vs Sporting Braga"
+        },
+        {
+          "spiel_id": "2026-05-08-det-cle",
+          "markt": "Pistons vs Cavaliers G2: Sieg Cleveland Cavaliers (Moneyline)",
+          "quote": 2.36,
+          "spiel_titel": "Pistons vs Cavaliers G2"
+        }
+      ],
+      "gesamt_quote": 87.58,
+      "empfohlener_einsatz_prozent": 0.1,
+      "empfohlener_einsatz_euro": 0.55,
+      "begruendung": "EHRLICHKEIT: heute keine 300x+ moeglich - kein Beobachtungs-Liga-Spiel + NBA-Player-Stats-Boykott (HR16) + Match-Anzahl beschraenkt. 87x ist die maximale Moonshot-Quote bei sauberer LAYER-1/LAYER-2-Struktur. 6 Beine ueber 6 verschiedene Spiele. Sieg-Outcomes (Sieg Freiburg, Cavs ML) nur dort, wo das Spiel kein Sieg-Outcome in Safe-Kombi hatte. Stufe-1-Einsatz Moonshot 0.1% = 0.55 EUR (Spass-Einsatz, kein ernsthaftes Investment)."
+    }
+  ],
+  "lessons_angewandt": [
+    {
+      "lesson": "HR15: Arsenal-CL-Heim-Defensiv-Mauer-Pattern - Goldgrube-Markt-Suche aktiv",
+      "anwendung": "Im Conference-Spiel Crystal Palace-Shakhtar wird die SAFE-Sieg-Quote @ 1.49 mit Heim-Klassen-Edge + Sarr-Form (Goldgrube-Markt 'Torschuetzen Jederzeit' 50% Hit / +24-40% ROI) priorisiert statt Heimstark-Total-Tipp."
+    },
+    {
+      "lesson": "HR18: NBA G2-Reaktions-Spike kippt G1-Defensiv-Pattern",
+      "anwendung": "Im Spiel Pistons-Cavaliers G2 (Det) wird Ueber 215.5 als VALUE-Tipp gesetzt - Cavs muessen reagieren nach G1-Niederlage, G2-Total-Spike erwartbar (Spurs-Wolves G2 hatte +22 Pkt vs G1). Bewusst kein Pistons-Sieg-SAFE wegen NBA-Playoffs-Verbot."
+    },
+    {
+      "lesson": "HR16: NBA-Player-Punkte-Boykott (Round-Wechsel-Defensiv-Korrektur)",
+      "anwendung": "Im gesamten Dossier 0 Player-Punkte-Tipps fuer NBA. Player-Punkte-Aggregat ist auf -7.8% ROI gesunken nach 05.05.-Welle (3/3 verloren). Auch keine Player-Punkte in Kombis."
+    },
+    {
+      "lesson": "HR17: Safe-Kombi-Korrelations-Falle bei 3 reinen Sieg-Beinen",
+      "anwendung": "Safe-Kombi heute mit 2 Sieg-Outcomes (Palace Sieg + Strasbourg DC 1X) + 1 reines Total (Ueber 1.5 Freiburg-Braga) - bewusst diversifiziert. Keine 3 reinen Sieg-Beine wie am 06.05. (Bayern + Knicks ML + Spurs ML)."
+    },
+    {
+      "lesson": "HR8: NBA Round-2-G1 Spread-Cap bei extremen Spreads",
+      "anwendung": "Im Lakers-Thunder-G2-Spiel: Spread -15.5 ist extrem - Lakers +15.5 als Underdog-Spread VALUE/WACKEL gesetzt (HR8 sagt: bei Spread >=10 ist Cover unsicher). Thunder-ML max VALUE @ 1.10 (kein SAFE wegen NBA-Playoffs-Verbot Hebel B)."
+    },
+    {
+      "lesson": "HR14: Korrelations-Klumpung Star-Out-Spiel ueber mehrere Kombis",
+      "anwendung": "Lakers-Thunder-G2 (Doncic OUT) wird in nur 1 Kombi (Moonshot, Lakers +15.5) verwendet - kein Mehrfach-Belegen wie am 05.05. mit OKC-Lakers-G1 in 3 von 4 Kombis."
+    },
+    {
+      "lesson": "HR12: Joker-Stuermer-Profil + Form-Edge-Pflicht bei Heim-Favorit",
+      "anwendung": "Bei jedem Fussball-Spiel mind. 1 Torschuetzen-Tipp auf Top-/Form-Stuermer: Watkins (Aus), Grifo (Fre), Sarr (Pal), Emegha (Str). Bei Mateta zusaetzlich als 2. Optionsbein (Pal) wegen Heim-Aufhol-Druck."
+    },
+    {
+      "lesson": "HR Mapper-Hebel C: Goldgrube-Liga-DC-Falle",
+      "anwendung": "DC 1X bei Freiburg + Strasbourg bewusst als VALUE statt SAFE eingestuft - Europa League Halbfinale Rueckspiel und Conference League Halbfinale Rueckspiel sind NICHT in Liga-Goldgrube-Liste. Mapper haette sonst eh downgegradet."
+    },
+    {
+      "lesson": "HR20: CL-K.O.-Rueckspiel-Tor-Reduzierung nach Hinspiel-Festival",
+      "anwendung": "Bei Crystal Palace-Shakhtar (Hinspiel 4 Tore) wird Ueber 2.5 nur als VALUE statt SAFE gesetzt - HR20-Pattern: Rueckspiele nach hohen Hinspiel-Totals korrigieren oft nach unten. Bei Aston Villa-Forest mit Hinspiel nur 1 Tor wirkt das Pattern NICHT - dort Ueber 2.5 voll als VALUE."
+    }
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA Glücksspielsucht-Hotline: 0800 1372700 · Hobby-Tool, keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause.",
+  "einzeltipps_ergebnis": [
+    {
+      "tipp_id": "pal-sha-1",
+      "spiel_id": "2026-05-07-pal-sha",
+      "markt": "Crystal Palace vs Shakhtar Donetsk: Sieg Crystal Palace (90 Min)",
+      "kategorie": "safe",
+      "quote": 1.49,
+      "rang": 1,
+      "empfohlener_einsatz_prozent": 1.5,
+      "status": "offen"
+    },
+    {
+      "tipp_id": "pal-sha-2",
+      "spiel_id": "2026-05-07-pal-sha",
+      "markt": "Crystal Palace vs Shakhtar Donetsk: Ismaila Sarr trifft jederzeit",
+      "kategorie": "value",
+      "quote": 2.21,
+      "rang": 2,
+      "empfohlener_einsatz_prozent": 1.5,
+      "status": "offen"
+    },
+    {
+      "tipp_id": "aus-not-3",
+      "spiel_id": "2026-05-07-aus-not",
+      "markt": "Aston Villa vs Nottingham Forest: Ollie Watkins trifft jederzeit",
+      "kategorie": "value",
+      "quote": 2.1,
+      "rang": 3,
+      "empfohlener_einsatz_prozent": 1.0,
+      "status": "offen"
+    },
+    {
+      "tipp_id": "fre-bra-4",
+      "spiel_id": "2026-05-07-fre-bra",
+      "markt": "SC Freiburg vs Sporting Braga: Vincenzo Grifo trifft jederzeit",
+      "kategorie": "value",
+      "quote": 3.2,
+      "rang": 4,
+      "empfohlener_einsatz_prozent": 1.0,
+      "status": "offen"
+    },
+    {
+      "tipp_id": "aus-not-2",
+      "spiel_id": "2026-05-07-aus-not",
+      "markt": "Aston Villa vs Nottingham Forest: Ueber 2.5 Tore",
+      "kategorie": "value",
+      "quote": 1.85,
+      "rang": 5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "status": "offen"
+    },
+    {
+      "tipp_id": "det-cle-1",
+      "spiel_id": "2026-05-08-det-cle",
+      "markt": "Pistons vs Cavaliers G2: Ueber 215.5 Punkte (Spiel-Total)",
+      "kategorie": "value",
+      "quote": 1.91,
+      "rang": 6,
+      "empfohlener_einsatz_prozent": 1.0,
+      "status": "offen"
+    },
+    {
+      "tipp_id": "fre-bra-2",
+      "spiel_id": "2026-05-07-fre-bra",
+      "markt": "SC Freiburg vs Sporting Braga: Sieg SC Freiburg (90 Min)",
+      "kategorie": "value",
+      "quote": 1.83,
+      "rang": 7,
+      "empfohlener_einsatz_prozent": 1.0,
+      "status": "offen"
+    },
+    {
+      "tipp_id": "aus-not-1",
+      "spiel_id": "2026-05-07-aus-not",
+      "markt": "Aston Villa vs Nottingham Forest: Sieg Aston Villa (90 Min)",
+      "kategorie": "wackel",
+      "quote": 1.8,
+      "rang": 8,
+      "empfohlener_einsatz_prozent": 1.0,
+      "status": "offen"
+    },
+    {
+      "tipp_id": "str-ray-2",
+      "spiel_id": "2026-05-07-str-ray",
+      "markt": "Strasbourg vs Rayo Vallecano: Sieg RC Strasbourg (90 Min)",
+      "kategorie": "value",
+      "quote": 1.9,
+      "rang": 9,
+      "empfohlener_einsatz_prozent": 1.0,
+      "status": "offen"
+    },
+    {
+      "tipp_id": "det-cle-2",
+      "spiel_id": "2026-05-08-det-cle",
+      "markt": "Pistons vs Cavaliers G2: Cleveland Cavaliers +3.5 Spread Cover",
+      "kategorie": "value",
+      "quote": 1.91,
+      "rang": 10,
+      "empfohlener_einsatz_prozent": 1.0,
+      "status": "offen"
+    },
+    {
+      "tipp_id": "fre-bra-3",
+      "spiel_id": "2026-05-07-fre-bra",
+      "markt": "SC Freiburg vs Sporting Braga: Ueber 1.5 Tore",
+      "kategorie": "value",
+      "quote": 1.4,
+      "rang": 11,
+      "empfohlener_einsatz_prozent": 1.0,
+      "status": "offen"
+    },
+    {
+      "tipp_id": "pal-sha-3",
+      "spiel_id": "2026-05-07-pal-sha",
+      "markt": "Crystal Palace vs Shakhtar Donetsk: Ueber 2.5 Tore",
+      "kategorie": "value",
+      "quote": 1.76,
+      "rang": 12,
+      "empfohlener_einsatz_prozent": 1.0,
+      "status": "offen"
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "kombi-safe-2026-05-07",
+      "status": "offen",
+      "gesamtquote": null
+    },
+    {
+      "kombi_id": "kombi-balance-2026-05-07",
+      "status": "offen",
+      "gesamtquote": null
+    },
+    {
+      "kombi_id": "kombi-risiko-2026-05-07",
+      "status": "offen",
+      "gesamtquote": null
+    },
+    {
+      "kombi_id": "kombi-moonshot-2026-05-07",
+      "status": "offen",
+      "gesamtquote": null
+    }
+  ],
+  "ausgewertet_am": "2026-05-08T06:03:38+00:00"
+}

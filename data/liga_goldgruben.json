@@ -1,13 +1,20 @@
 {
-  "stand": "2026-05-07T06:12:57+00:00",
+  "stand": "2026-05-08T06:14:06+00:00",
   "kriterium": "ROI > 15.0% ODER (Trefferquote >= 65.0% UND ROI > 0%) bei min. 5 Tipps",
   "wirkung": "Schema-Mapper bestaetigt SAFE-Tipps in diesen Ligen. Andere SAFE-Tipps werden auf VALUE downgegradet wenn der Markt-Typ nicht in markt_goldgruben.json ist (Hebel C ROI-Sanierung 04.05.).",
   "ligen": [
     {
-      "liga": "NBA Playoffs Round 2, Game 2",
+      "liga": "Europa League Halbfinale Rueckspiel",
       "tipps": 6,
-      "trefferquote": 50.0,
-      "roi_prozent": 75.0,
+      "trefferquote": 83.3,
+      "roi_prozent": 149.7,
+      "netto": 8.98
+    },
+    {
+      "liga": "NBA Playoffs Round 2, Game 2",
+      "tipps": 8,
+      "trefferquote": 37.5,
+      "roi_prozent": 56.2,
       "netto": 4.5
     },
     {
