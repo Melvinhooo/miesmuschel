@@ -2,9 +2,6 @@ name: Miesmuschel Recherche Mo-Fr (Pre-Tipps Datenbasis)
 
 on:
   schedule:
-    # Mo-Fr 10:30 Berlin (UTC+2 MESZ Sommer / UTC+1 MEZ Winter)
-    # Cron in UTC: 30 8 (Sommer) / 30 9 (Winter)
-    # Aktuell MESZ (bis 25.10.2026): 30 8 = 10:30 Berlin
     - cron: '30 8 * * 1-5'
   workflow_dispatch:
   push:
@@ -13,8 +10,6 @@ on:
 
 permissions:
   contents: write
-  pull-requests: read
-  id-token: write
 
 jobs:
   recherche:
@@ -22,27 +17,50 @@ jobs:
     timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
         with:
-          fetch-depth: 1
+          node-version: '20'
 
       - uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
-      - name: Recherche-Routine via Claude Code Action
-        uses: anthropics/claude-code-action@v1
-        with:
-          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
-          prompt: |
-            Du bist Recherche-Cloud-Routine in der Magische-Miesmuschel-Pipeline. Lies vollständig den Recherche-Prompt aus `.github/scripts/subagent_prompts/recherche_routine.md` und führe die Recherche für HEUTE aus.
+      - name: Install Claude Code CLI
+        run: npm install -g @anthropic-ai/claude-code
 
-            Output-Pfad: `data/recherche/<HEUTE>.json` wo HEUTE = $(TZ=Europe/Berlin date +%Y-%m-%d)
-            Modus: "tag"
+      - name: Configure Git
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "Miesmuschel Cloud Routine"
 
-            Am Ende: git add + commit "Auto-Recherche <HEUTE> (Pre-Tipps Datenbasis)" + git push origin main.
+      - name: Run Claude (Recherche)
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          export HEUTE=$(TZ=Europe/Berlin date +%Y-%m-%d)
+          echo "Recherche fuer: $HEUTE"
 
-            KEINE Tipps generieren - NUR Daten. Strict-Format laut recherche_routine.md.
-          claude_args: |
-            --allowed-tools "Bash(git:*) Bash(python3:*) Bash(date:*) Bash(curl:*) Bash(mkdir:*) Bash(ls:*) Bash(cat:*) Read Write Edit Glob Grep WebSearch WebFetch"
-            --max-turns 50
-            --model claude-opus-4-7
+          claude --print \
+            --model claude-opus-4-7 \
+            --allowedTools "Bash,Read,Write,Edit,Glob,Grep,WebSearch,WebFetch" \
+            --permission-mode acceptEdits \
+            "Du bist Recherche-Cloud-Routine in der Magische-Miesmuschel-Pipeline.
+
+          Lies vollstaendig den Master-Prompt aus .github/scripts/subagent_prompts/recherche_routine.md.
+
+          AUFGABE: Recherche-File fuer HEUTE ($HEUTE) erstellen unter data/recherche/$HEUTE.json (Modus: tag).
+
+          Pflicht-Schritte:
+          1. football-data.org API + balldontlie API + WebSearch fuer Spielplan
+          2. Pro Spiel: Squad via Transfermarkt + Kicker + ESPN (Position-Genauigkeit Pflicht!)
+          3. Verletzungen + Sperren via WebSearch
+          4. Parallele Wettbewerbe (Verband-URL Pflicht wenn nicht 'keine')
+          5. bet365-Quoten via Aggregator
+          6. News kompakt 3-5 pro Spiel
+
+          KEINE Tipps generieren - nur Daten.
+          NIE Spielernamen erfinden.
+          POSITION-Genauigkeit Pflicht (DM != ST, Hojlund-Bug-Schutz).
+
+          Am Ende: git add + commit 'Auto-Recherche $HEUTE (Pre-Tipps Datenbasis Mo-Fr)' + git push origin main."
