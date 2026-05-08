@@ -2,14 +2,14 @@ name: Miesmuschel Tipps Mo-Fr (ersetzt kaputte Cloud-Routine)
 
 on:
   schedule:
-    # Mo-Fr 13:30 Berlin (UTC+2 MESZ) -> 11:30 UTC
     - cron: '30 11 * * 1-5'
   workflow_dispatch:
+  push:
+    paths:
+      - '.github/triggers/tipps-mo-fr.trigger'
 
 permissions:
   contents: write
-  pull-requests: read
-  id-token: write
 
 jobs:
   tipps:
@@ -17,33 +17,38 @@ jobs:
     timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
-          fetch-depth: 1
-
+          node-version: '20'
       - uses: actions/setup-python@v5
         with:
           python-version: '3.x'
+      - run: npm install -g @anthropic-ai/claude-code
+      - run: |
+          git config user.email "actions@github.com"
+          git config user.name "Miesmuschel Cloud Routine"
 
-      - name: Master-Tipps-Routine via Claude Code Action
-        uses: anthropics/claude-code-action@v1
-        with:
-          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
-          prompt: |
-            Du bist Master-Tipps-Routine in der Magische-Miesmuschel-Pipeline. Lies vollständig den Master-Prompt aus `.github/scripts/subagent_prompts/master_tipps_routine.md`.
+      - name: Run Claude (Master-Tipps Mo-Fr)
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          export HEUTE=$(TZ=Europe/Berlin date +%Y-%m-%d)
+          claude --print \
+            --model claude-opus-4-7 \
+            --allowedTools "Bash,Read,Write,Edit,Glob,Grep,WebSearch,WebFetch" \
+            --permission-mode acceptEdits \
+            "Du bist Master-Tipps-Routine in der Magische-Miesmuschel-Pipeline. Lies .github/scripts/subagent_prompts/master_tipps_routine.md vollstaendig.
 
-            HEUTE = $(TZ=Europe/Berlin date +%Y-%m-%d)
-            Modus: "tag" (Mo-Fr)
+          HEUTE = $HEUTE (Mo-Fr).
 
-            Phase 1: lies `data/recherche/$HEUTE.json` - wenn fehlt, mache Recherche selbst (Fallback-Modus, recherche_routine.md als Vorlage)
-            Phase 2: pro Spiel saison_kontext + 3-5 Tipps generieren (Fußball-Pattern aus fussball_analyse.md, NBA aus nba_analyse.md)
-            Phase 3: Dossier zusammenbauen mit Layer-1+2+3 Diversifikation, 4 Kombis (Safe ~3-5x / Balance ~6-10x / Risiko ~15-30x / Moonshot ~100x+)
-            Phase 4: interne Verifikation laut verifikation.md - Halluzinations-Drops, Selbstwidersprüche, Layer-Cross-Check
-            Phase 5: Output `data/tipps/$HEUTE.json`
+          Phase 1: lies data/recherche/$HEUTE.json (wenn fehlt: Fallback-Recherche selbst machen via recherche_routine.md)
+          Phase 2: pro Spiel saison_kontext + 3-5 Tipps generieren (Fussball-Pattern aus fussball_analyse.md, NBA aus nba_analyse.md)
+          Phase 3: Dossier zusammenbauen mit Layer-1+2+3 Diversifikation, 4 Kombis Safe ~3-5x / Balance ~6-10x / Risiko ~15-30x / Moonshot ~100x+
+          Phase 4: interne Verifikation laut verifikation.md (Halluzinations-Drops, Selbstwidersprueche, Layer-Cross-Check, _verifikations_report{})
+          Phase 5: Output data/tipps/$HEUTE.json
 
-            Am Ende: git add + commit "Auto-Tipps $HEUTE (Pipeline via GitHub Action Mo-Fr)" + git push origin main.
+          HARTREGELN: max 5 Tipps/Spiel, Layer-2 hart, gesamtquote PFLICHT, NIE Halluzinationen.
 
-            HARTREGELN siehe master_tipps_routine.md - max 5 Tipps/Spiel, Layer-2 hart, gesamtquote PFLICHT, _verifikations_report{} am Ende.
-          claude_args: |
-            --allowed-tools "Bash(git:*) Bash(python3:*) Bash(date:*) Bash(curl:*) Bash(mkdir:*) Bash(ls:*) Bash(cat:*) Bash(rm:*) Read Write Edit Glob Grep WebSearch WebFetch"
-            --max-turns 80
-            --model claude-opus-4-7
+          Am Ende: git add + commit 'Auto-Tipps $HEUTE (Pipeline via GitHub Action Mo-Fr)' + git push origin main.
+
+          GitHub-Action web-push.yml triggert dann automatisch Schema-Fix + JS-Wrapper + iOS-Push."

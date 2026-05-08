@@ -2,14 +2,14 @@ name: Miesmuschel Recherche Wochen-Vorschau (Sonntag)
 
 on:
   schedule:
-    # Sonntag 16:30 Berlin (UTC+2 MESZ) -> 14:30 UTC
     - cron: '30 14 * * 0'
   workflow_dispatch:
+  push:
+    paths:
+      - '.github/triggers/recherche-woche.trigger'
 
 permissions:
   contents: write
-  pull-requests: read
-  id-token: write
 
 jobs:
   recherche:
@@ -17,30 +17,32 @@ jobs:
     timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
-          fetch-depth: 1
-
+          node-version: '20'
       - uses: actions/setup-python@v5
         with:
           python-version: '3.x'
+      - run: npm install -g @anthropic-ai/claude-code
+      - run: |
+          git config user.email "actions@github.com"
+          git config user.name "Miesmuschel Cloud Routine"
 
-      - name: Wochen-Recherche via Claude Code Action
-        uses: anthropics/claude-code-action@v1
-        with:
-          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
-          prompt: |
-            Du bist Recherche-Cloud-Routine für die WOCHEN-VORSCHAU. Lies `.github/scripts/subagent_prompts/recherche_routine.md` als Master-Prompt.
+      - name: Run Claude (Recherche Wochen-Vorschau)
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          export ANKER=$(TZ=Europe/Berlin date -d "next Monday" +%Y-%m-%d)
+          claude --print \
+            --model claude-opus-4-7 \
+            --allowedTools "Bash,Read,Write,Edit,Glob,Grep,WebSearch,WebFetch" \
+            --permission-mode acceptEdits \
+            "Du bist Recherche-Cloud-Routine fuer die WOCHEN-VORSCHAU. Lies .github/scripts/subagent_prompts/recherche_routine.md.
 
-            Modus: "woche"
-            Anker-Datum: kommender Montag = $(TZ=Europe/Berlin date -d "next Monday" +%Y-%m-%d)
-            Output-Pfad: `data/recherche_woche/<montag-datum>.json`
+          AUFGABE: data/recherche_woche/$ANKER.json (Modus: woche, Anker = kommender Montag $ANKER).
 
-            Sammle ALLE Spiele Mo-So der kommenden Woche. Token-Budget: 120 Min Limit, fokussiere auf Top-Ligen wenn knapp.
+          Sammle ALLE Mo-So-Spiele der kommenden Woche. Token-Budget 120 Min, fokussiere auf Top-Ligen wenn knapp.
 
-            Am Ende: git add + commit "Auto-Recherche Woche <montag> (Vorschau)" + git push origin main.
+          KEINE Tipps - nur Daten.
 
-            KEINE Tipps - nur Daten.
-          claude_args: |
-            --allowed-tools "Bash(git:*) Bash(python3:*) Bash(date:*) Bash(curl:*) Bash(mkdir:*) Bash(ls:*) Bash(cat:*) Read Write Edit Glob Grep WebSearch WebFetch"
-            --max-turns 70
-            --model claude-opus-4-7
+          Am Ende: git add + commit 'Auto-Recherche Woche $ANKER (Vorschau)' + git push origin main."

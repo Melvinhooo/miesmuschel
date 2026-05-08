@@ -2,14 +2,14 @@ name: Miesmuschel Maintenance (Wöchentlich Sonntag 21:00)
 
 on:
   schedule:
-    # Sonntag 21:00 Berlin (UTC+2 MESZ) -> 19:00 UTC
     - cron: '0 19 * * 0'
   workflow_dispatch:
+  push:
+    paths:
+      - '.github/triggers/maintenance.trigger'
 
 permissions:
   contents: write
-  pull-requests: read
-  id-token: write
 
 jobs:
   maintenance:
@@ -17,33 +17,35 @@ jobs:
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
-          fetch-depth: 1
-
+          node-version: '20'
       - uses: actions/setup-python@v5
         with:
           python-version: '3.x'
-
       - run: pip install --quiet pywebpush
+      - run: npm install -g @anthropic-ai/claude-code
+      - run: |
+          git config user.email "actions@github.com"
+          git config user.name "Miesmuschel Cloud Routine"
 
-      - name: Maintenance-Routine via Claude Code Action
-        uses: anthropics/claude-code-action@v1
-        with:
-          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
-          prompt: |
-            Du bist Maintenance-Routine. Lies `.github/scripts/subagent_prompts/maintenance_routine.md` und führe alle Aufgaben aus:
-
-            1. Schema-Migration: data/lessons.json + beobachtungs_ligen.json + markt_*.json + statistik.json + kasse.json valide?
-            2. Stale-File-Detection: data/tipps/ + data/recherche/ älter als 30 Tage -> archiv/
-            3. Statistik-Plausibilität: rolling 7d vs 30d Sprünge identifizieren
-            4. Health-Report aufs iPhone via send_push (PUSH_SUB + VAPID_PRIVATE Secrets)
-            5. git commit + push
-
-            Phase 1 (Push-Sub-Test) und Phase 2 (Cron-Health) skippen - das macht die Action selbst.
-          claude_args: |
-            --allowed-tools "Bash(git:*) Bash(python3:*) Bash(date:*) Bash(curl:*) Bash(mkdir:*) Bash(mv:*) Bash(ls:*) Bash(cat:*) Read Write Edit Glob Grep WebSearch"
-            --max-turns 30
-            --model claude-opus-4-7
+      - name: Run Claude (Maintenance)
         env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           VAPID_PRIVATE: ${{ secrets.VAPID_PRIVATE }}
           PUSH_SUB: ${{ secrets.PUSH_SUB }}
+        run: |
+          claude --print \
+            --model claude-opus-4-7 \
+            --allowedTools "Bash,Read,Write,Edit,Glob,Grep,WebSearch" \
+            --permission-mode acceptEdits \
+            "Du bist Maintenance-Routine. Lies .github/scripts/subagent_prompts/maintenance_routine.md vollstaendig.
+
+          AUFGABEN:
+          1. Schema-Migration Check (data/lessons.json + beobachtungs_ligen.json + markt_*.json + statistik.json + kasse.json valide?)
+          2. Stale-File-Detection (data/tipps/ + data/recherche/ aelter als 30 Tage -> archiv/)
+          3. Statistik-Plausibilitaet (rolling 7d vs 30d Spruenge)
+          4. Health-Report aufs iPhone via .github/scripts/send_push.py
+          5. git commit + push
+
+          KEIN Routinen-Loeschen. Stale-Files werden ARCHIVIERT, nie geloescht."

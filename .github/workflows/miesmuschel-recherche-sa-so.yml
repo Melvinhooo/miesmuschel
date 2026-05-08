@@ -2,14 +2,14 @@ name: Miesmuschel Recherche Sa+So (Pre-Tipps Datenbasis)
 
 on:
   schedule:
-    # Sa+So 07:00 Berlin (UTC+2 MESZ) -> 05:00 UTC
     - cron: '0 5 * * 6,0'
   workflow_dispatch:
+  push:
+    paths:
+      - '.github/triggers/recherche-sa-so.trigger'
 
 permissions:
   contents: write
-  pull-requests: read
-  id-token: write
 
 jobs:
   recherche:
@@ -17,28 +17,34 @@ jobs:
     timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
-          fetch-depth: 1
-
+          node-version: '20'
       - uses: actions/setup-python@v5
         with:
           python-version: '3.x'
+      - run: npm install -g @anthropic-ai/claude-code
+      - run: |
+          git config user.email "actions@github.com"
+          git config user.name "Miesmuschel Cloud Routine"
 
-      - name: Recherche-Routine via Claude Code Action
-        uses: anthropics/claude-code-action@v1
-        with:
-          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
-          prompt: |
-            Du bist Recherche-Cloud-Routine in der Magische-Miesmuschel-Pipeline. Lies vollständig den Recherche-Prompt aus `.github/scripts/subagent_prompts/recherche_routine.md` und führe die Recherche für HEUTE aus.
+      - name: Run Claude (Recherche Sa-So)
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          export HEUTE=$(TZ=Europe/Berlin date +%Y-%m-%d)
+          claude --print \
+            --model claude-opus-4-7 \
+            --allowedTools "Bash,Read,Write,Edit,Glob,Grep,WebSearch,WebFetch" \
+            --permission-mode acceptEdits \
+            "Du bist Recherche-Cloud-Routine (Sa-So Variante). Lies .github/scripts/subagent_prompts/recherche_routine.md vollstaendig.
 
-            Output-Pfad: `data/recherche/<HEUTE>.json` wo HEUTE = $(TZ=Europe/Berlin date +%Y-%m-%d)
-            Modus: "tag"
-            Wochenend-Modus: heute ist Sa oder So → erwartete Spielmenge größer (BL Sa-Spieltag, PL Sa-Spieltag, NBA-Playoffs etc.)
+          AUFGABE: data/recherche/$HEUTE.json (Modus: tag, Wochenende = mehr Spielmenge BL/PL/NBA-Playoffs).
 
-            Am Ende: git add + commit "Auto-Recherche <HEUTE> (Pre-Tipps Datenbasis Sa-So)" + git push origin main.
+          Recherche-Workflow:
+          1. Spielplan via football-data + balldontlie + WebSearch fuer Pokal/Cup
+          2. Pro Spiel: Squad via Transfermarkt + Kicker (Position-Genauigkeit Pflicht!)
+          3. Verletzungen + Sperren + parallele Wettbewerbe + bet365-Quoten
+          4. NIE Spielernamen erfinden, NIE Quoten erfinden
 
-            KEINE Tipps generieren - NUR Daten.
-          claude_args: |
-            --allowed-tools "Bash(git:*) Bash(python3:*) Bash(date:*) Bash(curl:*) Bash(mkdir:*) Bash(ls:*) Bash(cat:*) Read Write Edit Glob Grep WebSearch WebFetch"
-            --max-turns 60
-            --model claude-opus-4-7
+          Am Ende: git add + commit 'Auto-Recherche $HEUTE (Sa-So)' + git push origin main."
