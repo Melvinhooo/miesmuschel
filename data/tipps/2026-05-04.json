@@ -712,12 +712,6 @@
       "kategorie": "moonshot",
       "beine": [
         {
-          "spiel_id": "2026-05-04-sev-rso",
-          "markt": "Sevilla vs Real Sociedad: Real Sociedad Sieg",
-          "quote": 2.7,
-          "spiel_titel": "Sevilla vs Real Sociedad"
-        },
-        {
           "spiel_id": "2026-05-04-sas-min",
           "markt": "Spurs vs Timberwolves: Minnesota Timberwolves Sieg",
           "quote": 5.5,
@@ -727,8 +721,8 @@
       "empfohlener_einsatz_prozent": 0.1,
       "empfohlener_einsatz_euro": 0.55,
       "begruendung": "4-Bein-Underdog-Sieg-Massaker als Lotto-Kombi. Alle 4 Beine sind GEGENLAEUFIG zu Safe-Beinen (Forest gegen Chelsea-DC, Sociedad gegen Sevilla-DC, 76ers gegen Knicks-ML, Wolves gegen Spurs-ML) - das ist Hedge, kein Kombi-Verstaerker, schlimmster-Tag-Insurance. Layer-2 ✓ (alle Sieg-Outcomes nur in dieser Kombi). Quote 200x. Empfohlener Einsatz 0.55 EUR (0.1%) - reine Spass-Wette.",
-      "gesamtquote": 14.85,
-      "rechnung": "2.70 x 5.50 = 14.85"
+      "gesamtquote": 5.5,
+      "rechnung": "5.50 = 5.5"
     }
   ],
   "lessons_angewandt": [
