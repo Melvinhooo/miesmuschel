@@ -871,6 +871,19 @@ def finalize_kombi_quoten(d):
             quoten_str = ' x '.join(f"{q:.2f}" for q in quoten)
             k['rechnung'] = f"{quoten_str} = {neu}"
             fixed += 1
+        # Kombi-Name an finale Quote anpassen falls Name "(~Xx)"-Suffix hat aber Quote anders
+        # Beispiel: 'Risiko-Kombi (~15.30x)' bei gesamtquote=22.63 -> 'Risiko-Kombi (~22.63x)'
+        import re as _re_kn
+        name = k.get('name', '')
+        name_match = _re_kn.match(r'^(.+?)\s*\(~([\d.]+)x\)\s*$', name)
+        if name_match:
+            base_name = name_match.group(1)
+            try:
+                name_quote = float(name_match.group(2))
+                if abs(name_quote - neu) > 0.5:
+                    k['name'] = f"{base_name} (~{neu:.2f}x)"
+            except (ValueError, TypeError):
+                pass
         kept.append(k)
     d['kombis'] = kept
     if fixed:
