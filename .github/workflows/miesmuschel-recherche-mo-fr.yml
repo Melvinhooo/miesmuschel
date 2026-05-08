@@ -7,6 +7,9 @@ on:
     # Aktuell MESZ (bis 25.10.2026): 30 8 = 10:30 Berlin
     - cron: '30 8 * * 1-5'
   workflow_dispatch:
+  push:
+    paths:
+      - '.github/triggers/recherche-mo-fr.trigger'
 
 permissions:
   contents: write
