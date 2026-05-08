@@ -642,6 +642,194 @@ def validate_torschuetze_quelle(d):
               f"(keine Verein-Verifikations-URL in quellen[] - Halluzinations-Schutz)")
 
 
+def lade_recherche(datum):
+    """Lese data/recherche/<datum>.json wenn existiert.
+    Returns: dict mit spielen oder None wenn File fehlt.
+    """
+    pfad = os.path.join('data', 'recherche', f'{datum}.json')
+    if not os.path.exists(pfad):
+        # Fallback fuer Vorschau-Files
+        for sub in ('recherche_wochenende', 'recherche_woche'):
+            alt = os.path.join('data', sub, f'{datum}.json')
+            if os.path.exists(alt):
+                pfad = alt
+                break
+        else:
+            return None
+    try:
+        with open(pfad, encoding='utf-8') as f:
+            return json.load(f)
+    except (json.JSONDecodeError, OSError):
+        return None
+
+
+def _normalize_spielername(name):
+    """Normalisiert Spielernamen fuer Squad-Match. Entfernt Sonderzeichen + lowercase.
+    'Jonathan Burkardt' -> 'jonathan burkardt'. 'Højlund' -> 'hojlund' (oe-Variante).
+    """
+    if not name:
+        return ''
+    # Diakritika-Behandlung simpel: Hoejlund/Højlund/Hojlund -> hojlund
+    s = name.lower().strip()
+    repl = {'ø': 'o', 'ö': 'o', 'ü': 'u', 'ä': 'a', 'ß': 'ss',
+            'é': 'e', 'è': 'e', 'á': 'a', 'à': 'a', 'í': 'i', 'ó': 'o', 'ú': 'u',
+            'ñ': 'n', 'ç': 'c'}
+    for old, new in repl.items():
+        s = s.replace(old, new)
+    # Punkte und Bindestriche entfernen
+    s = s.replace('.', '').replace('-', ' ')
+    return ' '.join(s.split())
+
+
+def validate_recherche_completeness(d):
+    """Prueft ob fuer das Tipps-File ein passendes data/recherche/<datum>.json existiert.
+    Wenn ja: pro Spiel im Tipps-File pruefen ob es im Recherche-File ist.
+    Spiele OHNE Recherche bekommen ihre Tipps gedroppt (kein Datenfundament).
+
+    Wenn das Recherche-File komplett fehlt: nur WARN, kein Drop (Bootstrap-Phase).
+    Spaeter (nach 7 Tagen Live-Betrieb) sollte das Verhalten verschaerft werden.
+    """
+    datum = d.get('datum')
+    if not datum:
+        return
+    recherche = lade_recherche(datum)
+    if not recherche:
+        print(f"  Recherche-Completeness: data/recherche/{datum}.json fehlt - Skip "
+              f"(Bootstrap-Phase, spaeter verschaerfen)")
+        return
+    recherche_spiele = {s.get('id'): s for s in recherche.get('spiele', []) if s.get('id')}
+    drops = 0
+    for spiel in d.get('spiele', []):
+        sid = spiel.get('id')
+        if sid in recherche_spiele:
+            continue
+        # Spiel im Tipps aber nicht in Recherche - Tipps droppen
+        n_tipps = len(spiel.get('tipps', []))
+        if n_tipps:
+            spiel['tipps'] = []
+            spiel['_recherche_fehlt'] = True
+            print(f"  Recherche-Completeness: Spiel '{sid}' nicht in recherche/{datum}.json "
+                  f"-> {n_tipps} Tipps gedroppt")
+            drops += n_tipps
+    if drops:
+        print(f"  Recherche-Completeness: {drops} Tipps insgesamt gedroppt (ohne Datenbasis)")
+
+
+def validate_spieler_squad_match(d):
+    """Halluzinations-Schutz Stufe 2 (Recherche-File-basiert):
+    Pro Spielertor-Tipp pruefen ob Spielername in squad_heim ODER squad_gast des
+    entsprechenden Spiels im Recherche-File steht. Bei Mismatch:
+    - Tipp gedropped + Lesson-Eintrag generiert
+    - Position-Mismatch (z.B. Spieler in squad mit Position DM/IV/AV/TW als Stuermer-Tipp):
+      Tipp downgegraded auf wackel
+
+    Stuermer-Positionen (akzeptabel fuer Torschuetzen-Tipp): ST, MS, LF, RF, ZS, OM,
+    LS, RS, RW, LW, LM (Fluegel), CF.
+    Defensiv-Positionen (Mismatch fuer Torschuetzen-Tipp): TW, IV, LV, RV, AV, DM, DMF.
+
+    Bootstrap: wenn Recherche-File fehlt, kein Drop - validate_torschuetze_quelle()
+    ist die Fallback-Schutz-Stufe.
+    """
+    datum = d.get('datum')
+    if not datum:
+        return
+    recherche = lade_recherche(datum)
+    if not recherche:
+        return  # Fallback auf validate_torschuetze_quelle (URL-basiert)
+    recherche_spiele = {s.get('id'): s for s in recherche.get('spiele', []) if s.get('id')}
+    if not recherche_spiele:
+        return
+
+    OFFENSIV_POS = {'st', 'ms', 'lf', 'rf', 'zs', 'om', 'ls', 'rs', 'rw', 'lw',
+                    'cf', 'fw', 'attacker', 'striker', 'forward', 'second striker',
+                    'centre-forward', 'center-forward', 'wing', 'left wing', 'right wing'}
+    # Mittelfeld-Spieler koennen treffen, aber sind Wackel-Material fuer Tor-Tipps
+    MITTELFELD_OFFENSIV = {'om', 'zom', 'aom', 'attacking midfielder', 'no.10', '10er',
+                           'amf', 'cam', 'lm', 'rm'}
+    DEFENSIV_POS = {'tw', 'gk', 'iv', 'cb', 'lv', 'lb', 'rv', 'rb', 'av',
+                    'dm', 'dmf', 'cdm', '6er', 'sechser', 'defensive midfielder',
+                    'goalkeeper', 'centre-back', 'center-back', 'left-back', 'right-back'}
+
+    TORSCHUETZE_TOKENS = ('trifft', 'torschuetz', 'jederzeit tor', 'tor (jederzeit)',
+                          'doppelpack', 'hattrick')
+    drops = 0
+    downgrades = 0
+    for spiel in d.get('spiele', []):
+        sid = spiel.get('id')
+        recherche_spiel = recherche_spiele.get(sid)
+        if not recherche_spiel:
+            continue
+        squad = (recherche_spiel.get('squad_heim') or []) + (recherche_spiel.get('squad_gast') or [])
+        squad_index = {}
+        for sp in squad:
+            n = _normalize_spielername(sp.get('name', ''))
+            if n:
+                squad_index[n] = sp
+
+        for tipp in list(spiel.get('tipps', [])):
+            markt = (tipp.get('markt') or '').lower()
+            if 'punkte' in markt:  # NBA-Player-Punkte, andere Logik
+                continue
+            if not any(t in markt for t in TORSCHUETZE_TOKENS):
+                continue
+            kat = (tipp.get('kategorie') or '').lower()
+            if kat not in ('safe', 'value', 'wackel'):
+                continue
+
+            # Spieler-Name aus markt extrahieren — heuristisch: erstes/zweites Eigennamen-Token
+            # vor "trifft"/"Tor"/"Doppelpack". Wir versuchen: alle Wort-Tokens vor diesen Keywords.
+            import re as _re
+            name_part = _re.split(r'\b(trifft|torschuetz|jederzeit|tor|doppelpack|hattrick|2\+)\b',
+                                  tipp.get('markt', ''), flags=_re.IGNORECASE)[0]
+            # Markt kann mit "Spielname: Spielername " starten - Doppelpunkt-Split
+            if ':' in name_part:
+                name_part = name_part.rsplit(':', 1)[-1]
+            spielername = _normalize_spielername(name_part)
+            if not spielername or len(spielername) < 3:
+                continue  # Konnte Namen nicht parsen, kein Drop
+
+            # Squad-Match (toleriert Teilnamen-Match: 'jonathan burkardt' -> 'burkardt' in squad)
+            squad_match = None
+            for sname, sdata in squad_index.items():
+                if spielername == sname:
+                    squad_match = sdata
+                    break
+                # Teilnamen: letztes Wort des Tipps in squad-Name oder umgekehrt
+                tipp_tokens = spielername.split()
+                squad_tokens = sname.split()
+                if tipp_tokens and squad_tokens:
+                    if tipp_tokens[-1] == squad_tokens[-1] and len(tipp_tokens[-1]) >= 4:
+                        squad_match = sdata
+                        break
+
+            if not squad_match:
+                # Halluzination - Spieler nicht im Squad
+                spiel['tipps'].remove(tipp)
+                tid = tipp.get('id')
+                if tid:
+                    d['einzeltipps'] = [e for e in d.get('einzeltipps', [])
+                                       if not (e.get('spiel_id') == sid and e.get('tipp_id') == tid)]
+                print(f"  Spieler-Squad-Match: Tipp '{tipp.get('markt')}' gedroppt - "
+                      f"Spieler '{spielername}' nicht in squad_heim/gast von {sid}")
+                drops += 1
+                continue
+
+            # Position-Check
+            pos = (squad_match.get('position') or '').lower().strip()
+            if pos in DEFENSIV_POS and kat in ('safe', 'value'):
+                tipp['kategorie'] = 'wackel'
+                tipp['_squad_position_downgrade'] = True
+                begr = tipp.get('begruendung') or ''
+                tipp['begruendung'] = (begr + f" [Auto: Squad-Pos '{pos}' (defensiv) - "
+                                       f"Torschuetzen-Tipp max wackel]").strip()
+                _sync_einzeltipp_kategorie(d, sid, tipp.get('id'), 'wackel')
+                downgrades += 1
+    if drops:
+        print(f"  Spieler-Squad-Match: {drops} Halluzinations-Tipps gedroppt")
+    if downgrades:
+        print(f"  Spieler-Squad-Match: {downgrades} Tipps wegen Defensiv-Position auf wackel")
+
+
 def finalize_kombi_quoten(d):
     """Berechne gesamtquote + rechnung fuer alle Kombis neu falls leer/inkonsistent.
     Droppe Kombis ohne Beine (z.B. wenn Layer-3 alle Beine entfernt hat).
@@ -1470,6 +1658,16 @@ def fix(path):
     # Tipps auf Spielertor benoetigen Vereins-Verifikations-URL in quellen[]
     # (transfermarkt/kicker/espn/bundesliga player-Seite). Sonst max wackel.
     validate_torschuetze_quelle(d)
+
+    # Recherche-File-Validators (NEU 08.05. Pipeline-Architektur):
+    # Wenn data/recherche/<datum>.json existiert (von Recherche-Cloud-Routine 3h vor
+    # Tipps-Slot geschrieben), dann pruefen wir Pipeline-Konsistenz:
+    # - validate_recherche_completeness: Spiele im Tipps-File muessen im Recherche-File sein
+    # - validate_spieler_squad_match: Torschuetzen-Tipps muessen Spieler im Squad haben,
+    #   Position-Check (DM/IV/TW als Sturm-Tipp = Downgrade)
+    # Bootstrap-tolerant: wenn Recherche-File fehlt, kein Drop - nur Logging.
+    validate_recherche_completeness(d)
+    validate_spieler_squad_match(d)
 
     # Saison-Kontext-Sanity (Hebel S 04.05. ROI-Sanierung):
     # Lehre BMG-BVB + Freiburg-Wolfsburg 03.05.: Routine recherchiert saison_kontext{}
