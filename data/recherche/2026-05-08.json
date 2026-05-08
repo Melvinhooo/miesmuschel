@@ -1,0 +1,628 @@
+{
+  "datum": "2026-05-08",
+  "erstellt_am": "2026-05-08T16:30:00+00:00",
+  "modus": "tag",
+  "hinweis": "Recherche-Daten fuer 8 Spiele am 08./09.05.2026 (6 Fussball + 2 NBA Playoffs G3). KEINE Tipps - nur strukturierte Datensammlung. Squad-Verifikation via Bundesliga.com/eintracht.de Squad-Pages sowie Yahoo/SportsMole Vorschauen. Quoten-Aggregator: sportsgambler.com + mightytips.com + oddsshark.com (FanDuel) als bet365-Naeherung; bet365-Original-Quoten zur Wett-Zeit live pruefen.",
+  "spiele": [
+    {
+      "id": "2026-05-08-bvb-fra",
+      "liga": "Bundesliga",
+      "heim": "Borussia Dortmund",
+      "gast": "Eintracht Frankfurt",
+      "anstoss": "2026-05-08T20:30:00+02:00",
+      "stadion": "Signal Iduna Park, Dortmund",
+      "squad_heim": [
+        {"name": "Gregor Kobel", "nummer": 1, "position": "TW", "saison_tore": 0, "verifiziert_via": "https://www.bvb.de/de/en/news/news-overview/news.html/2025/8/7/The-shirt-numbers-for-the-2025-26-season-Bellingham-to-wear-7.html"},
+        {"name": "Serhou Guirassy", "nummer": 9, "position": "ST", "saison_tore": 11, "verifiziert_via": "https://www.bundesliga.com/en/bundesliga/player/serhou-guirassy"},
+        {"name": "Julian Brandt", "nummer": 10, "position": "OM", "saison_tore": null, "verifiziert_via": "https://www.bundesliga.com/en/bundesliga/clubs/borussia-dortmund/squad"},
+        {"name": "Jobe Bellingham", "nummer": 7, "position": "ZM", "saison_tore": null, "verifiziert_via": "https://www.bvb.de/de/en/news/news-overview/news.html/2025/8/7/The-shirt-numbers-for-the-2025-26-season-Bellingham-to-wear-7.html"},
+        {"name": "Maximilian Beier", "nummer": 14, "position": "ST", "saison_tore": null, "verifiziert_via": "https://www.bundesliga.com/en/bundesliga/clubs/borussia-dortmund/squad"},
+        {"name": "Marcel Sabitzer", "nummer": null, "position": "ZM", "saison_tore": null, "verifiziert_via": "https://www.bundesliga.com/en/bundesliga/clubs/borussia-dortmund/squad"},
+        {"name": "Daniel Svensson", "nummer": null, "position": "LV", "saison_tore": null, "verifiziert_via": "https://www.bundesliga.com/en/bundesliga/clubs/borussia-dortmund/squad"},
+        {"name": "Fabio Silva", "nummer": null, "position": "ST", "saison_tore": null, "verifiziert_via": "https://www.bundesliga.com/en/bundesliga/clubs/borussia-dortmund/squad"},
+        {"name": "Luca Reggiani", "nummer": null, "position": "AV", "saison_tore": null, "verifiziert_via": "https://www.bundesliga.com/en/bundesliga/clubs/borussia-dortmund/squad"}
+      ],
+      "squad_gast": [
+        {"name": "Jonathan Burkardt", "nummer": 9, "position": "ST", "saison_tore": 10, "verifiziert_via": "https://en.eintracht.de/squad/"},
+        {"name": "Jean-Mattéo Bahoya", "nummer": 19, "position": "LF", "saison_tore": null, "verifiziert_via": "https://en.eintracht.de/squad/"},
+        {"name": "Ritsu Doan", "nummer": 20, "position": "RF", "saison_tore": null, "verifiziert_via": "https://en.eintracht.de/squad/"},
+        {"name": "Can Uzun", "nummer": 42, "position": "OM", "saison_tore": null, "verifiziert_via": "https://en.eintracht.de/squad/"},
+        {"name": "Hugo Larsson", "nummer": 16, "position": "ZM", "saison_tore": null, "verifiziert_via": "https://en.eintracht.de/squad/"},
+        {"name": "Oscar Højlund", "nummer": 6, "position": "ZM/DM", "saison_tore": null, "verifiziert_via": "https://en.wikipedia.org/wiki/Oscar_H%C3%B8jlund", "hinweis": "WICHTIG: defensiver/zentraler Mittelfeldspieler, NICHT Stuermer. Bruder Rasmus Hojlund spielt bei ManUtd, nicht hier."},
+        {"name": "Ansgar Knauff", "nummer": 7, "position": "RF", "saison_tore": null, "verifiziert_via": "https://en.eintracht.de/squad/"},
+        {"name": "Arnaud Kalimuendo", "nummer": 25, "position": "ST", "saison_tore": null, "verifiziert_via": "https://en.eintracht.de/squad/"},
+        {"name": "Michy Batshuayi", "nummer": 30, "position": "ST", "saison_tore": null, "verifiziert_via": "https://en.eintracht.de/squad/"},
+        {"name": "Mario Götze", "nummer": 27, "position": "OM", "saison_tore": null, "verifiziert_via": "https://en.eintracht.de/squad/"},
+        {"name": "Robin Koch", "nummer": 4, "position": "IV", "saison_tore": null, "verifiziert_via": "https://en.eintracht.de/squad/"}
+      ],
+      "injuries_heim": [
+        "Niklas Süle (Verletzung)",
+        "Karim Adeyemi (Verletzung)",
+        "Emre Can (Kreuzbandriss, Saisonende)",
+        "Ramy Bensebaini (schwere Sprunggelenksverletzung, vermutl. Saisonende)",
+        "Felix Nmecha (Verletzung)"
+      ],
+      "injuries_gast": [
+        "Rasmus Kristensen (gesperrt nach Roter Karte vs HSV)",
+        "Nnamdi Collins (Sprunggelenk)",
+        "Jens Grahl (Oberschenkel)",
+        "Michy Batshuayi (Fitness fraglich, Einsatz unsicher)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - BVB nach CL-Achtelfinal-Aus vs Atalanta (Mar 2026, 4-3 agg.) raus, kein DFB-Pokal-Halbfinale mehr",
+        "gast": "keine - Frankfurt nach CL-League-Phase Platz 33 (4 Pkt) raus seit Januar 2026, kein Conference League Pflicht-Spiel diese Woche",
+        "quellen": [
+          "https://en.wikipedia.org/wiki/2025%E2%80%9326_Borussia_Dortmund_season",
+          "https://en.wikipedia.org/wiki/2025%E2%80%9326_Eintracht_Frankfurt_season",
+          "https://www.uefa.com/uefachampionsleague/clubs/50072--frankfurt/standings/"
+        ]
+      },
+      "saisonziel_heim": "Platz 2 (67 Pkt nach 32 Sp), kann mit Sieg Vize-Meisterschaft fixieren - Champions League schon sicher",
+      "saisonziel_gast": "Platz 8 (43 Pkt nach 32 Sp), Mitte-Tabelle ohne realistische Europa-Chance, nur noch Spielbetrieb",
+      "tabellenstand": {"heim_platz": 2, "heim_pkt": 67, "gast_platz": 8, "gast_pkt": 43},
+      "form_heim_letzte_5": "S-N-N-S-N (2 Siege, 3 Niederlagen)",
+      "form_gast_letzte_5": "S-U-U-N-N (1 Sieg, 2 Unentschieden, 2 Niederlagen, zuletzt 1-2 vs HSV)",
+      "recovery_heim": "7 Tage seit letztem Spiel (1.5. Mainz vs Heidenheim ueblich, BVB-Spiel 2.5.), keine Doppelbelastung",
+      "recovery_gast": "6 Tage seit 1-2 vs HSV (2.5.), keine Doppelbelastung",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 1.62,
+          "draw": 4.35,
+          "sieg_gast": 4.60,
+          "ueber_2_5": 1.40,
+          "unter_2_5": null,
+          "btts_ja": 1.42,
+          "btts_nein": null,
+          "dc_1x": null,
+          "dc_x2": null,
+          "torschuetzen": {}
+        },
+        "_quelle": "sportsgambler.com Stand 7.5.2026 - bet365 live pruefen"
+      },
+      "news_kompakt": [
+        "Bayern bereits Meister seit 19.4. nach 4-2 vs Stuttgart - BVB kann mit Sieg Vize-Meisterschaft fixieren",
+        "BVB-Heimserie unklar; H2H-Bilanz: Frankfurt unbesiegt in letzten 3 Begegnungen (zuletzt 3-3)",
+        "Frankfurt-Coach Albert Riera, BVB-Coach Niko Kovac (Ex-Frankfurt)",
+        "Kein Adeyemi/Bensebaini fuer BVB; Burkardt Frankfurt-Topscorer mit ~10 Bundesliga-Toren",
+        "BVB Form schwach (5W-4L letzte 10), aber zuhause stark - Dortmund 1.62 starker Favorit"
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/borussia-dortmund-vs-eintracht-frankfurt-prediction-lineups-odds-2026-05-08/",
+        "https://www.fotmob.com/matches/borussia-dortmund-vs-eintracht-frankfurt/36cxvu",
+        "https://www.bundesliga.com/en/bundesliga/news/serhou-guirassy-goals-fuel-borussia-dortmund-title-charge-35887",
+        "https://en.eintracht.de/squad/",
+        "https://www.bundesliga.com/en/bundesliga/table"
+      ]
+    },
+    {
+      "id": "2026-05-08-pad-ksc",
+      "liga": "2. Bundesliga",
+      "heim": "SC Paderborn 07",
+      "gast": "Karlsruher SC",
+      "anstoss": "2026-05-08T18:30:00+02:00",
+      "stadion": "Home Deluxe Arena (Benteler-Arena), Paderborn",
+      "squad_heim": [
+        {"name": "Pelle Boevink", "nummer": null, "position": "TW", "saison_tore": null, "verifiziert_via": "https://www.kicker.de/paderborn-gegen-karlsruhe-2026-bundesliga-5051338/aufstellung", "hinweis": "Als 'Seimen' im Sports Mole-Lineup; alternativ als Stand-In, da Original-Stamm-TW unklar"},
+        {"name": "Felix Götze", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.kicker.de/paderborn-gegen-karlsruhe-2026-bundesliga-5051338/aufstellung"},
+        {"name": "Filip Bilbija", "nummer": null, "position": "OM/RF", "saison_tore": null, "verifiziert_via": "https://www.kicker.de/paderborn-gegen-karlsruhe-2026-bundesliga-5051338/aufstellung"},
+        {"name": "Adriano Marino", "nummer": null, "position": "ST", "saison_tore": null, "verifiziert_via": "https://www.kicker.de/paderborn-gegen-karlsruhe-2026-bundesliga-5051338/aufstellung"},
+        {"name": "Sirlord Conteh", "nummer": null, "position": "LF", "saison_tore": null, "verifiziert_via": "https://www.kicker.de/paderborn-gegen-karlsruhe-2026-bundesliga-5051338/aufstellung", "hinweis": "alternativ; Müller in projected XI"},
+        {"name": "Mattes Hansen", "nummer": null, "position": "AV", "saison_tore": null, "verifiziert_via": "https://www.kicker.de/paderborn-gegen-karlsruhe-2026-bundesliga-5051338/aufstellung", "hinweis": "Squad-Personalfraglich - 'Müller' in mehreren Quellen genannt"}
+      ],
+      "squad_gast": [
+        {"name": "Max Weiß", "nummer": null, "position": "TW", "saison_tore": null, "verifiziert_via": "https://www.fotmob.com/matches/paderborn-vs-karlsruher-sc/", "hinweis": "Sports-Mole nennt 'Bernat'; im KSC-Stamm ist Max Weiss langjaehrig - Lineup-Quelle unklar"},
+        {"name": "Marvin Wanitzek", "nummer": 10, "position": "OM", "saison_tore": null, "verifiziert_via": "https://www.kicker.de/karlsruher-sc/kader"},
+        {"name": "Lars Stindl", "nummer": null, "position": "OM/ST", "saison_tore": null, "verifiziert_via": "https://www.kicker.de/karlsruher-sc/kader", "hinweis": "Position frei - im Lineup nicht direkt bestaetigt"},
+        {"name": "Budu Zivzivadze", "nummer": null, "position": "ST", "saison_tore": null, "verifiziert_via": "https://www.kicker.de/karlsruher-sc/kader", "hinweis": "Position frei - in einigen Quellen 'Ben Farhat / Fukuda' im Sturm"},
+        {"name": "Sebastian Jung", "nummer": null, "position": "RV", "saison_tore": null, "verifiziert_via": "https://www.kicker.de/karlsruher-sc/kader"}
+      ],
+      "injuries_heim": [
+        "Steffen Tigges (gesperrt - Rote Karte)",
+        "Raphael Obermair (Verletzung)",
+        "Marcel Hoffmeier (Verletzung)",
+        "Lilian Egloff (Reha)",
+        "Marcel Beifus (langfristig Reha)",
+        "Eymen Laghrissi (langfristig Reha)",
+        "Ali Eren Ersungur (langfristig Reha)",
+        "Leon Opitz (zurueck im Training nach Sprunggelenk)"
+      ],
+      "injuries_gast": [
+        "Fabian Schleusener (Wechsel-Modus, vermutl. Bank statt Start)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - kein DFB-Pokal-Spiel diese Woche",
+        "gast": "keine - kein DFB-Pokal-Spiel diese Woche",
+        "quellen": [
+          "https://www.scp07.de/Spieltag.html",
+          "https://www.kicker.de/2-bundesliga/tabelle"
+        ]
+      },
+      "saisonziel_heim": "Platz 4 (58 Pkt nach 32 Sp), Aufstiegs-Relegation moeglich (1 Pkt hinter 2. Elversberg)",
+      "saisonziel_gast": "Platz 8 (43 Pkt nach 32 Sp), gerettet, kein Aufstieg-Druck mehr - Coach Eichner-Abschied bestaetigt",
+      "tabellenstand": {"heim_platz": 4, "heim_pkt": 58, "gast_platz": 8, "gast_pkt": 43},
+      "form_heim_letzte_5": "Zuletzt 2 Niederlagen in Serie (Schalke 2-3, Elversberg 1-5), davor stabil",
+      "form_gast_letzte_5": "Zuletzt 3 Auswaerts-Niederlagen ohne eigenes Tor; daheim 2-1 vs Darmstadt",
+      "recovery_heim": "5 Tage seit 1-5 bei Elversberg (3.5.), keine Doppelbelastung",
+      "recovery_gast": "5 Tage seit 2-1 vs Darmstadt (3.5.), keine Doppelbelastung",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": null,
+          "draw": null,
+          "sieg_gast": null,
+          "ueber_2_5": null,
+          "unter_2_5": null,
+          "btts_ja": null,
+          "btts_nein": null,
+          "dc_1x": null,
+          "dc_x2": null,
+          "torschuetzen": {},
+          "asian_handicap_ksc_plus_1": 2.06
+        },
+        "_quelle": "sportsgambler.com - 1X2 nicht direkt extrahiert, nur Asian-Handicap+1.0 fuer KSC. bet365 live pruefen.",
+        "_skip_grund": "1X2-Hauptquoten in keiner Aggregator-Vorschau mit konkreten Zahlen genannt - bei Tipps-Erstellung bet365 direkt"
+      },
+      "news_kompakt": [
+        "Paderborn nach 2 Niederlagen unter Druck, will Aufstiegs-Relegation halten (1 Pkt hinter Elversberg)",
+        "KSC ohne Saisonziel mehr; Coach Eichner-Abgang fix nach Saison",
+        "Tigges-Sperre + Hoffmeier/Obermair-Ausfall = Paderborn ohne Stammbesetzung",
+        "KSC zuletzt 3 Auswaerts-Niederlagen ohne eigenes Tor (kritischer Trend)",
+        "H2H: Paderborn dominierte zuletzt mit 4-0 auswaerts vs KSC"
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/paderborn-vs-karlsruher-prediction-lineups-odds-2026-05-08/",
+        "https://www.liga-zwei.de/vorschau-sc-paderborn-vs-ksc/",
+        "https://www.kicker.de/2-bundesliga/tabelle"
+      ]
+    },
+    {
+      "id": "2026-05-08-kai-bie",
+      "liga": "2. Bundesliga",
+      "heim": "1. FC Kaiserslautern",
+      "gast": "DSC Arminia Bielefeld",
+      "anstoss": "2026-05-08T18:30:00+02:00",
+      "stadion": "Fritz-Walter-Stadion, Kaiserslautern",
+      "squad_heim": [
+        {"name": "Almog Cohen", "nummer": null, "position": "DM", "saison_tore": null, "verifiziert_via": "https://www.fckaiserslautern.de/", "hinweis": "Lineup-Daten 32. ST stammen primaer aus mightytips/sportsgambler-Vorschau, kein vollstaendiger Squad-Sheet ladbar (transfermarkt blocked)"},
+        {"name": "Boris Tomiak", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.fckaiserslautern.de/"},
+        {"name": "Ragnar Ache", "nummer": null, "position": "ST", "saison_tore": null, "verifiziert_via": "https://www.fckaiserslautern.de/", "hinweis": "Topscorer-Kandidat, da Prtajin (11 Tore) langfristig out"},
+        {"name": "Filip Kaloc", "nummer": null, "position": "ZM", "saison_tore": null, "verifiziert_via": "https://www.fckaiserslautern.de/"},
+        {"name": "Jan Elvedi", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.fckaiserslautern.de/"}
+      ],
+      "squad_gast": [
+        {"name": "Marius Wörl", "nummer": null, "position": "ZM", "saison_tore": null, "verifiziert_via": "https://www.arminia.de/profis/kader", "hinweis": "Squad-Daten primaer aus arminia.de Squad-Page (nicht aktiv geladen wegen Pipeline-Limits)"},
+        {"name": "Maël Corboz", "nummer": null, "position": "ZM", "saison_tore": null, "verifiziert_via": "https://www.arminia.de/profis/kader"},
+        {"name": "Joel Grodowski", "nummer": null, "position": "ST", "saison_tore": null, "verifiziert_via": "https://www.arminia.de/profis/kader"},
+        {"name": "Marc Schuster", "nummer": null, "position": "AV", "saison_tore": null, "verifiziert_via": "https://www.arminia.de/profis/kader"}
+      ],
+      "injuries_heim": [
+        "Ivan Prtajin (Achillessehne, langfristig out - Topscorer mit 11 Toren in 14 Sp)",
+        "Mika Haas (Verletzung)",
+        "Naatan Skyttä (Verletzung)",
+        "Daniel Hanslik (Verletzung)",
+        "Mahir Emreli (Verletzung)",
+        "Kenny-Prince Redondo (Verletzung)",
+        "Dion Hofmeister (Verletzung)",
+        "Fabian Kunze (Gelb-Sperre)",
+        "Paul Joly (Gelb-Sperre)"
+      ],
+      "injuries_gast": [],
+      "parallele_wettbewerbe": {
+        "heim": "keine - kein DFB-Pokal mehr",
+        "gast": "keine - kein DFB-Pokal mehr",
+        "quellen": [
+          "https://www.kicker.de/2-bundesliga/tabelle",
+          "https://www.roteteufel.de/2026/05/06/vorbericht-2-bundesliga-33-spieltag-1-fc-kaiserslautern-arminia-bielefeld-fr-08-05-2026-1830-uhr/"
+        ]
+      },
+      "saisonziel_heim": "Platz 7 (46 Pkt nach 32 Sp), Mitte-Tabelle, kein Aufstieg + kein Abstiegs-Druck mehr",
+      "saisonziel_gast": "Platz 13 (36 Pkt nach 32 Sp), Klassenerhalt fast sicher, im Aufwind (8 Pkt aus letzten 5)",
+      "tabellenstand": {"heim_platz": 7, "heim_pkt": 46, "gast_platz": 13, "gast_pkt": 36},
+      "form_heim_letzte_5": "3 Niederlagen in Folge zuletzt - kritisch ohne Prtajin (Achillessehne) und 7 Verletzte/Gesperrte",
+      "form_gast_letzte_5": "Aufschwung mit 8 Pkt aus letzten 5; zuletzt 1-1 vs Bochum",
+      "recovery_heim": "6 Tage seit Dynamo Dresden auswaerts (2.5.), keine Doppelbelastung",
+      "recovery_gast": "6 Tage seit 1-1 vs Bochum (2.5.), keine Doppelbelastung",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 3.15,
+          "draw": 3.55,
+          "sieg_gast": 2.05,
+          "ueber_2_5": 1.56,
+          "unter_2_5": null,
+          "btts_ja": 1.45,
+          "btts_nein": null,
+          "dc_1x": null,
+          "dc_x2": null,
+          "torschuetzen": {"Semih Sahin": 4.90}
+        },
+        "_quelle": "sportsgambler.com Stand 7.5.2026 - bet365 live pruefen"
+      },
+      "news_kompakt": [
+        "Bielefeld ist Quoten-Favorit auswaerts (2.05) - Lautern wegen Verletzungs-Krise klar geschwaecht",
+        "Kaiserslautern Stuermer-Krise: Topscorer Prtajin (11 Tore) langfristig raus, dazu 6 weitere Verletzte",
+        "Bielefeld auf Aufschwung mit 8 Pkt aus letzten 5 Spielen",
+        "Lautern zuhause traditionell hohe Tore-Schnitte (3.25 ToreØ in letzten 16 Heimspielen) - aber aktuell 3 Niederlagen Serie",
+        "H2H: Bielefeld 5 Siege vs Lautern 2 in 11 Begegnungen seit 2010"
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/kaiserslautern-vs-arminia-bielefeld-prediction-lineups-odds-2026-05-08/",
+        "https://www.mightytips.com/football-predictions/kaiserslautern-vs-arminia-bielefeld-prediction-08-05-2026/",
+        "https://www.roteteufel.de/2026/05/06/vorbericht-2-bundesliga-33-spieltag-1-fc-kaiserslautern-arminia-bielefeld-fr-08-05-2026-1830-uhr/"
+      ]
+    },
+    {
+      "id": "2026-05-08-lev-osa",
+      "liga": "LaLiga",
+      "heim": "Levante UD",
+      "gast": "CA Osasuna",
+      "anstoss": "2026-05-08T21:00:00+02:00",
+      "stadion": "Estadi Ciutat de València, Valencia",
+      "squad_heim": [
+        {"name": "Carlos Espí", "nummer": null, "position": "ST", "saison_tore": 8, "verifiziert_via": "https://www.sofascore.com/football/team/levante-ud/2849", "hinweis": "Topscorer Levante mit 8 Tor"},
+        {"name": "Iván Romero", "nummer": null, "position": "ST", "saison_tore": null, "verifiziert_via": "https://www.sofascore.com/football/team/levante-ud/2849", "hinweis": "Verletzt - aus injuries_heim"},
+        {"name": "José Luis Morales", "nummer": null, "position": "OM", "saison_tore": null, "verifiziert_via": "https://www.sofascore.com/football/team/levante-ud/2849", "hinweis": "im Lineup als 'Martinez'"},
+        {"name": "Manu Sánchez", "nummer": null, "position": "LV", "saison_tore": null, "verifiziert_via": "https://www.sofascore.com/football/team/levante-ud/2849"},
+        {"name": "Jeremy Toljan", "nummer": null, "position": "RV", "saison_tore": null, "verifiziert_via": "https://www.sofascore.com/football/team/levante-ud/2849"}
+      ],
+      "squad_gast": [
+        {"name": "Ante Budimir", "nummer": 17, "position": "ST", "saison_tore": null, "verifiziert_via": "https://www.osasuna.es/", "hinweis": "Topscorer-Kandidat Osasuna, im projected XI"},
+        {"name": "Ruben Garcia", "nummer": null, "position": "OM/LF", "saison_tore": null, "verifiziert_via": "https://www.osasuna.es/"},
+        {"name": "Aimar Oroz", "nummer": null, "position": "OM", "saison_tore": null, "verifiziert_via": "https://www.osasuna.es/"},
+        {"name": "Lucas Torró", "nummer": null, "position": "ZM", "saison_tore": null, "verifiziert_via": "https://www.osasuna.es/"},
+        {"name": "Jon Moncayola", "nummer": null, "position": "ZM", "saison_tore": null, "verifiziert_via": "https://www.osasuna.es/"}
+      ],
+      "injuries_heim": [
+        "Kervin Arriaga (gesperrt)",
+        "Iván Romero (Verletzung)",
+        "Carlos Álvarez (Verletzung)",
+        "Unai Vencedor (Verletzung)",
+        "Álex Primo (Verletzung)",
+        "Adrián De La Fuente (Verletzung)",
+        "Unai Elgezabal (Verletzung)"
+      ],
+      "injuries_gast": [
+        "V. Munoz (Verletzung)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Levante kein Copa del Rey mehr",
+        "gast": "keine - Osasuna kein Copa del Rey mehr",
+        "quellen": [
+          "https://www.laliga.com/en-GB/laliga-easports/standing"
+        ]
+      },
+      "saisonziel_heim": "Platz 19 (33 Pkt), AKUT IN ABSTIEGSGEFAHR - Klassenerhalt-Modus, jeder Pkt zaehlt",
+      "saisonziel_gast": "Platz 10 (42 Pkt), Mitte-Tabelle, gerettet aber Europa unrealistisch",
+      "tabellenstand": {"heim_platz": 19, "heim_pkt": 33, "gast_platz": 10, "gast_pkt": 42},
+      "form_heim_letzte_5": "S-S-U-S-N (3 Heimsiege in Folge zuletzt; dann 1-5 Klatsche bei Villarreal)",
+      "form_gast_letzte_5": "S-U-U-N-N (1W-2D-2L; zuletzt 1-2 vs Barcelona, kein Auswaertssieg in letzten 5)",
+      "recovery_heim": "6 Tage seit 1-5 bei Villarreal (2.5.), keine Doppelbelastung",
+      "recovery_gast": "6 Tage seit 1-2 vs Barcelona (2.5.), keine Doppelbelastung",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 2.50,
+          "draw": 3.20,
+          "sieg_gast": 2.90,
+          "ueber_2_5": 1.95,
+          "unter_2_5": 1.82,
+          "btts_ja": 1.67,
+          "btts_nein": 2.10,
+          "dc_1x": null,
+          "dc_x2": null,
+          "torschuetzen": {}
+        },
+        "_quelle": "sportsgambler.com Stand 7.5.2026 - bet365 live pruefen"
+      },
+      "news_kompakt": [
+        "Motivations-Asymmetrie KLAR: Levante bei 33 Pkt auf Abstiegsplatz (19) vs Osasuna gerettet (Platz 10) - klassischer Klassenerhalt-vs-saturierter-Mittelfeld-Konstellation",
+        "Levante 7 Verletzte/Gesperrte (Arriaga gesperrt, 6 verletzt) - massive Schwaechung des Kaders",
+        "Levante zuhause stark zuletzt (3 Heimsiege Serie) trotz Tabellen-Position",
+        "Osasuna kein Auswaertssieg in letzten 5 Auswaerts-Spielen",
+        "Carlos Espí Levante-Topscorer (8 Tore); Budimir Osasuna-Stuermer mit Erfahrung"
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/levante-vs-osasuna-prediction-lineups-odds-2026-05-08/",
+        "https://www.fotmob.com/matches/osasuna-vs-levante/2dk1c1",
+        "https://www.whoscored.com/matches/1914201/preview/spain-laliga-2025-2026-levante-osasuna"
+      ]
+    },
+    {
+      "id": "2026-05-08-tor-sas",
+      "liga": "Serie A",
+      "heim": "Torino FC",
+      "gast": "US Sassuolo",
+      "anstoss": "2026-05-08T20:45:00+02:00",
+      "stadion": "Stadio Olimpico Grande Torino",
+      "squad_heim": [
+        {"name": "Giovanni Simeone", "nummer": null, "position": "ST", "saison_tore": 10, "verifiziert_via": "https://www.fcrosanero.com/", "hinweis": "Torino-Topscorer 2025-26 Saison mit 10 Toren"},
+        {"name": "Nikola Vlasic", "nummer": null, "position": "OM", "saison_tore": null, "verifiziert_via": "https://www.torinofc.it/squadra/prima-squadra"},
+        {"name": "Cesare Casadei", "nummer": null, "position": "ZM", "saison_tore": null, "verifiziert_via": "https://www.torinofc.it/squadra/prima-squadra"},
+        {"name": "Valentino Lazaro", "nummer": null, "position": "RM/RV", "saison_tore": null, "verifiziert_via": "https://www.torinofc.it/squadra/prima-squadra"},
+        {"name": "Gvidas Gineitis", "nummer": null, "position": "ZM", "saison_tore": null, "verifiziert_via": "https://www.torinofc.it/squadra/prima-squadra"}
+      ],
+      "squad_gast": [
+        {"name": "Domenico Berardi", "nummer": 25, "position": "RF", "saison_tore": null, "verifiziert_via": "https://www.sassuolocalcio.it/", "hinweis": "Topscorer-Kandidat Sassuolo - Status fraglich (kleinerer Muskel-Bobble), Berardi traf zuletzt vs Milan"},
+        {"name": "Mbala Nzola", "nummer": null, "position": "ST", "saison_tore": null, "verifiziert_via": "https://www.sassuolocalcio.it/"},
+        {"name": "Armand Lauriente", "nummer": null, "position": "LF", "saison_tore": null, "verifiziert_via": "https://www.sassuolocalcio.it/"},
+        {"name": "Kristian Thorstvedt", "nummer": null, "position": "ZM", "saison_tore": null, "verifiziert_via": "https://www.sassuolocalcio.it/"},
+        {"name": "Cristian Volpato", "nummer": null, "position": "OM/RF", "saison_tore": null, "verifiziert_via": "https://www.sassuolocalcio.it/", "hinweis": "Backup fuer Berardi falls verletzt"},
+        {"name": "Nemanja Matic", "nummer": null, "position": "DM", "saison_tore": null, "verifiziert_via": "https://www.sassuolocalcio.it/"}
+      ],
+      "injuries_heim": [
+        "Ardian Ismajli (Verletzung)",
+        "Marcus Holmgren Pedersen (Verletzung)",
+        "Tino Anjorin (Verletzung)",
+        "Zakaria Aboukhlal (Verletzung)",
+        "Ché Adams (Oberschenkel)",
+        "Duván Zapata (Oberschenkel)"
+      ],
+      "injuries_gast": [
+        "Domenico Berardi (Muskel-Problem, fraglich)",
+        "Jacopo Idzes (Verletzung)",
+        "Edoardo Pieragnolo (Verletzung)",
+        "Flavius Cande (Verletzung)",
+        "Domagoj Boloca (Verletzung)",
+        "Destiny Bakola (Verletzung)",
+        "Armand Fadera (gesperrt)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Torino kein Coppa Italia mehr",
+        "gast": "keine - Sassuolo kein Coppa Italia mehr",
+        "quellen": [
+          "https://www.skysports.com/serie-a-table"
+        ]
+      },
+      "saisonziel_heim": "Platz 13 (41 Pkt), Mitte-Tabelle, kein Saisonziel mehr - reine Spielbetrieb-Mentalitaet",
+      "saisonziel_gast": "Platz 10 (49 Pkt), Top-8-Chance fuer Conference League Quali noch realistisch (nur knapp dahinter)",
+      "tabellenstand": {"heim_platz": 13, "heim_pkt": 41, "gast_platz": 10, "gast_pkt": 49},
+      "form_heim_letzte_5": "1S-2U-2N (8 Pkt aus 5; zuletzt 0-2 N bei Udinese; davor 4 Spiele unbesiegt)",
+      "form_gast_letzte_5": "3S-1U-1N (10 Pkt aus 5; zuletzt 2-0 vs AC Milan zuhause - Topform)",
+      "recovery_heim": "6 Tage seit 0-2 bei Udinese (2.5.), keine Doppelbelastung",
+      "recovery_gast": "6 Tage seit 2-0 vs Milan (2.5.), keine Doppelbelastung",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 2.50,
+          "draw": 3.15,
+          "sieg_gast": 2.88,
+          "ueber_2_5": 1.92,
+          "unter_2_5": 1.85,
+          "btts_ja": null,
+          "btts_nein": null,
+          "dc_1x": null,
+          "dc_x2": null,
+          "torschuetzen": {}
+        },
+        "_quelle": "sportsgambler.com Stand 7.5.2026 - bet365 live pruefen"
+      },
+      "news_kompakt": [
+        "Sassuolo in starker Form (3 Siege aus 5, zuletzt 2-0 vs Milan); Torino zuletzt 0-2 bei Udinese",
+        "Sassuolo Berardi-Status fraglich (Muskel) - Backup Volpato moeglich",
+        "Torino gleich 6 Verletzte inkl. beider Stamm-Stuermer Adams + Zapata - Simeone Solo-Stuermer",
+        "Motivation: Sassuolo Top-8-Chance vs Torino bedeutungslos im Mitte-Tabellen-Niemandsland",
+        "Sassuolo +0.25 Asian Handicap @1.80 als sportsgambler-Top-Pick"
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/torino-vs-sassuolo-prediction-lineups-odds-2026-05-08/",
+        "https://www.fotmob.com/matches/sassuolo-vs-torino/2lrp7u",
+        "https://www.sportsmole.co.uk/football/torino/preview/torino-vs-sassuolo-prediction-team-news-lineups_597045.html"
+      ]
+    },
+    {
+      "id": "2026-05-08-len-nan",
+      "liga": "Ligue 1",
+      "heim": "RC Lens",
+      "gast": "FC Nantes",
+      "anstoss": "2026-05-08T20:45:00+02:00",
+      "stadion": "Stade Bollaert-Delelis, Lens",
+      "squad_heim": [
+        {"name": "Odsonne Édouard", "nummer": null, "position": "ST", "saison_tore": null, "verifiziert_via": "https://www.rclens.fr/equipes/effectif", "hinweis": "Topscorer-Kandidat Lens; 4 Tore in letzten 5 Heimspielen Ligue 1"},
+        {"name": "Florian Sotoca", "nummer": null, "position": "ST/RF", "saison_tore": null, "verifiziert_via": "https://www.rclens.fr/equipes/effectif"},
+        {"name": "Abdallah Sima", "nummer": null, "position": "LF", "saison_tore": null, "verifiziert_via": "https://www.rclens.fr/equipes/effectif"},
+        {"name": "Florian Thauvin", "nummer": null, "position": "RF/OM", "saison_tore": null, "verifiziert_via": "https://www.rclens.fr/equipes/effectif", "hinweis": "Status fraglich - 'physical alert' laut Pierre Sage; war Coupe-Held mit Tor + Vorlage im HF"},
+        {"name": "Allan Saint-Maximin", "nummer": null, "position": "LF/OM", "saison_tore": null, "verifiziert_via": "https://www.rclens.fr/equipes/effectif", "hinweis": "Status fraglich - 'physical alert'"},
+        {"name": "Amadou Haidara", "nummer": null, "position": "ZM", "saison_tore": null, "verifiziert_via": "https://www.rclens.fr/equipes/effectif"}
+      ],
+      "squad_gast": [
+        {"name": "Ignatius Ganago", "nummer": null, "position": "ST", "saison_tore": null, "verifiziert_via": "https://www.fcnantes.com/equipe-pro/", "hinweis": "Stamm-Stuermer Nantes"},
+        {"name": "Mostafa Mohamed", "nummer": null, "position": "ST", "saison_tore": null, "verifiziert_via": "https://www.fcnantes.com/equipe-pro/", "hinweis": "Topscorer-Kandidat Nantes 2025-26"},
+        {"name": "Johann Lepenant", "nummer": null, "position": "ZM", "saison_tore": null, "verifiziert_via": "https://www.fcnantes.com/equipe-pro/"},
+        {"name": "Francis Coquelin", "nummer": null, "position": "DM", "saison_tore": null, "verifiziert_via": "https://www.fcnantes.com/equipe-pro/"}
+      ],
+      "injuries_heim": [
+        "Saud Abdulhamid (gesperrt)",
+        "Mamadou Sangaré (gesperrt)",
+        "Adrien Thomasson (gesperrt)",
+        "Régis Gurtner (Oberschenkel-Anriss)",
+        "Kyllian Antonio (Fuss)",
+        "Jonathan Gradit (Unterschenkel-Bruch)",
+        "Nidal Celik (Verletzung)",
+        "Florian Thauvin (Status unsicher - physical alert)",
+        "Allan Saint-Maximin (Status unsicher - physical alert)"
+      ],
+      "injuries_gast": [
+        "Tylel Tati (Pferdekuss)",
+        "Kelvin Amian (Pubalgie)",
+        "Fabien Centonze (Baender-Problem)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "Coupe de France Finale 22.05.2026 vs OGC Nice (am Stade de France) - Lens hat Pokal-Endspiel-Mentalitaet, Rotation Top-Spieler moeglich um Verletzungen zu vermeiden",
+        "gast": "keine - Nantes nicht im Pokal-Endspurt mehr",
+        "quellen": [
+          "https://en.wikipedia.org/wiki/2026_Coupe_de_France_final",
+          "https://www.beinsports.com/en-us/soccer/coupe-de-france/articles/im-already-focused-on-the-coupe-de-france-final-says-lens-boss-pierre-sage-2026-04-22"
+        ]
+      },
+      "saisonziel_heim": "Platz 2 (64 Pkt nach 31 Sp), Vize-Meisterschaft + Champions League hinter PSG - DAZU Coupe de France Finale",
+      "saisonziel_gast": "Platz 17 (23 Pkt nach 32 Sp), AKUT IN ABSTIEGSGEFAHR - Klassenerhalt-Modus zwingend",
+      "tabellenstand": {"heim_platz": 2, "heim_pkt": 64, "gast_platz": 17, "gast_pkt": 23},
+      "form_heim_letzte_5": "2 Siege aus letzten 5 (gemischte Form trotz Tabellen-2; Coach Sage rief offentlich Respekt-Defizit nach Brest-Spiel)",
+      "form_gast_letzte_5": "7 Auswaerts-Niederlagen in Serie, 0.60 ToreØ auswaerts - katastrophale Auswaerts-Form",
+      "recovery_heim": "4 Tage seit Brest-Niederlage (4.5.), keine Doppelbelastung diese Woche - aber Coupe-Finale 14 Tage entfernt = Rotations-Risiko",
+      "recovery_gast": "4 Tage seit letztem Spiel (4.5.), keine Doppelbelastung",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 1.42,
+          "draw": 4.75,
+          "sieg_gast": 6.75,
+          "ueber_2_5": 1.49,
+          "unter_2_5": null,
+          "btts_ja": 1.65,
+          "btts_nein": null,
+          "dc_1x": null,
+          "dc_x2": null,
+          "torschuetzen": {"Odsonne Édouard": 2.08},
+          "asian_handicap_lens_minus_1_25": 1.92
+        },
+        "_quelle": "sportsgambler.com Stand 7.5.2026 - bet365 live pruefen"
+      },
+      "news_kompakt": [
+        "Lens klarer Heim-Favorit (1.42) vs Nantes mit 7 Auswaerts-Niederlagen Serie und nur 0.60 ToreØ auswaerts",
+        "WICHTIG: Lens Coupe de France Finale 22.05. - Rotations-Risiko bei Top-Spielern (Thauvin/Saint-Maximin schon 'physical alert')",
+        "Lens 9 Heimsiege aus letzten 10 Heimspielen",
+        "Édouard 4 Tore aus letzten 5 Heimspielen Ligue 1 - Anytime-Goalscorer @2.08",
+        "Lens 3 Spieler gesperrt + 4 verletzt (inkl. evtl. Thauvin + Saint-Maximin)"
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/lens-vs-nantes-prediction-lineups-odds-2026-05-08/",
+        "https://www.getfootballnewsfrance.com/2026/lens-predicted-xi-v-nantes-suspensions-deprive-pierre-sage-of-key-players/",
+        "https://www.fotmob.com/matches/lens-vs-nantes/2szrnl"
+      ]
+    },
+    {
+      "id": "2026-05-09-nyk-phi",
+      "liga": "NBA Playoffs Round 2 (Eastern Semifinals)",
+      "heim": "Philadelphia 76ers",
+      "gast": "New York Knicks",
+      "anstoss": "2026-05-09T01:00:00+02:00",
+      "stadion": "Wells Fargo Center, Philadelphia (Spiel 3 von 7, Serien-Stand 0-2 fuer NYK)",
+      "squad_heim": [
+        {"name": "Joel Embiid", "nummer": 21, "position": "C", "ppg_playoffs": null, "verifiziert_via": "https://www.nba.com/sixers/roster", "hinweis": "STATUS FRAGLICH (questionable) - Knöchelverstauchung + Hüftproblem; verpasste schon Game 2"},
+        {"name": "Tyrese Maxey", "nummer": 0, "position": "PG", "ppg_playoffs": 28.3, "verifiziert_via": "https://www.nba.com/player/1630178/tyrese-maxey", "hinweis": "Topscorer 76ers, 26 Pkt in G2 (47 Min); Finger-Strain aber spielt"},
+        {"name": "Paul George", "nummer": 8, "position": "SF", "ppg_playoffs": null, "verifiziert_via": "https://www.nba.com/sixers/roster", "hinweis": "Veteran-Co-Star; 19 Pkt in G2 inkl. 2 Blocks; 52.5% von 3-Punkte-Linie in Playoffs"},
+        {"name": "VJ Edgecombe", "nummer": null, "position": "SG", "ppg_playoffs": null, "verifiziert_via": "https://www.nba.com/sixers/roster", "hinweis": "Rookie-Sensation, im G2 Starting-Lineup"}
+      ],
+      "squad_gast": [
+        {"name": "Jalen Brunson", "nummer": 11, "position": "PG", "ppg_playoffs": 27.1, "verifiziert_via": "https://www.nba.com/player/1628973/jalen-brunson", "hinweis": "Knicks-Star; 26 Pkt in G2, 35 Pkt in G1; 28.2 PPG R1, 26.0 PPG R2-Schnitt bisher"},
+        {"name": "Karl-Anthony Towns", "nummer": 32, "position": "C/PF", "ppg_playoffs": null, "verifiziert_via": "https://www.nba.com/player/1626157/karl-anthony-towns", "hinweis": "20 Pkt + 10 Reb + 7 Ast in G2 trotz Fehltritt-Probleme"},
+        {"name": "OG Anunoby", "nummer": 8, "position": "SF", "ppg_playoffs": 21.4, "verifiziert_via": "https://www.nba.com/player/1628384/og-anunoby", "hinweis": "STATUS FRAGLICH (questionable) - Hamstring; verließ G2 mit 2:31 in Q4; 24 Pkt vorm Ausstieg"},
+        {"name": "Josh Hart", "nummer": 3, "position": "SG/SF", "ppg_playoffs": null, "verifiziert_via": "https://www.nba.com/player/1628404/josh-hart", "hinweis": "STATUS FRAGLICH - linker Daumen verstaucht"},
+        {"name": "Mitchell Robinson", "nummer": 23, "position": "C", "ppg_playoffs": null, "verifiziert_via": "https://www.nba.com/player/1629011/mitchell-robinson", "hinweis": "STATUS WAHRSCHEINLICH (probable) - Krankheit"}
+      ],
+      "injuries_heim": [
+        "Joel Embiid (questionable - Sprunggelenk + Hüfte; verpasste G2)",
+        "Tyrese Maxey (verfügbar mit rechtem Finger-Strain)"
+      ],
+      "injuries_gast": [
+        "OG Anunoby (questionable - rechter Hamstring)",
+        "Josh Hart (questionable - linker Daumen verstaucht)",
+        "Mitchell Robinson (probable - Krankheit)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - NBA exklusiv, nur Playoffs-Serie",
+        "gast": "keine - NBA exklusiv",
+        "quellen": [
+          "https://www.nba.com/news/live-updates-2026-nba-playoffs-conference-semifinals-knicks-look-to-defend-home-court-versus-76ers"
+        ]
+      },
+      "saisonziel_heim": "Conference Semifinals - 0-2 zurück, MUSS gewinnen sonst Sweep-Risiko",
+      "saisonziel_gast": "Conference Semifinals - 2-0 vorne, kann auf 3-0 stellen und Serie quasi entscheiden",
+      "tabellenstand": {"serien_stand": "0-2 PHI", "heim_position": "down 0-2 must-win", "gast_position": "leading 2-0"},
+      "form_heim_letzte_5": "Playoffs-Form: starke G1-Serie R1 (Hawks-Sieg), aber jetzt 2 Niederlagen in Folge gegen Knicks - Embiid-Ausfall trifft hart",
+      "form_gast_letzte_5": "Playoffs-Form: 5-0 in eigener Halle, Knicks dominant - Brunson + Towns + Anunoby bisher overmatching Sixers",
+      "recovery_heim": "1 Tag seit G2-Niederlage (7.5.), Heim-Vorteil bei knappen Recovery",
+      "recovery_gast": "1 Tag seit G2-Sieg (7.5.), Reise von NYC nach Philly aber kurzer Trip",
+      "quoten": {
+        "bet365_naeherung": {
+          "moneyline_heim": -120,
+          "moneyline_gast": 102,
+          "spread_heim": -1.0,
+          "spread_gast": 1.0,
+          "ueber_total": 213.5,
+          "unter_total": 213.5,
+          "torschuetzen_props": {"Paul George Over 2.5 made 3-pointers": -106}
+        },
+        "_quelle": "FanDuel/oddsshark Stand 7.5.2026 - bet365 live pruefen"
+      },
+      "news_kompakt": [
+        "76ers 0-2 down, MUST WIN Game 3 bei eigener Halle - klassisch hohe Spannung",
+        "Embiid-Status zentrale Frage: questionable; spielte in G2 nicht; ohne Embiid auch G3 unwahrscheinlich",
+        "Anunoby ebenfalls fraglich (Hamstring) - könnte Knicks Defense-Star fehlen",
+        "Maxey playoffs Topform mit 28.3 PPG, Brunson 26-28 PPG",
+        "Spread eng (-1) wegen zentraler Star-Verfügbarkeits-Fragen"
+      ],
+      "quellen_aggregator": [
+        "https://www.nba.com/sixers/news/philadelphia-76ers-vs-new-york-knicks-05-08-2026",
+        "https://www.oddsshark.com/nba/knicks-76ers-picks-odds-game-3-may-8-2026",
+        "https://www.fanduel.com/research/76ers-vs-knicks-prediction-nba-odds-spread-best-bets-for-eastern-semifinals-5-8-2026",
+        "https://www.cbssports.com/nba/news/og-anunoby-knicks-injury-timeline/",
+        "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-vs-knicks-injuries-game-3-joel-embiid-og-anunoby/732113/"
+      ]
+    },
+    {
+      "id": "2026-05-09-min-sas",
+      "liga": "NBA Playoffs Round 2 (Western Semifinals)",
+      "heim": "Minnesota Timberwolves",
+      "gast": "San Antonio Spurs",
+      "anstoss": "2026-05-09T03:30:00+02:00",
+      "stadion": "Target Center, Minneapolis (Spiel 3 von 7, Serien-Stand 1-1)",
+      "squad_heim": [
+        {"name": "Anthony Edwards", "nummer": 5, "position": "SG", "ppg_playoffs": null, "verifiziert_via": "https://www.nba.com/timberwolves/roster", "hinweis": "Star, kommt als 'Eingewechselter' zurueck nach hyperextended left knee + bone bruise (25.4. verletzt). 18 Pkt in G1; G2 als Bench, nicht Starter. Form-Risiko."},
+        {"name": "Karl-Anthony Towns", "nummer": null, "position": "C", "ppg_playoffs": null, "verifiziert_via": "https://www.nba.com/timberwolves/roster", "hinweis": "Hinweis: Karl-Anthony Towns wurde getradet zu NYK; Wolves-Kontext anders. Auf Wolves: Rudy Gobert C-Star"},
+        {"name": "Rudy Gobert", "nummer": 27, "position": "C", "ppg_playoffs": null, "verifiziert_via": "https://www.nba.com/timberwolves/roster"},
+        {"name": "Mike Conley", "nummer": 10, "position": "PG", "ppg_playoffs": null, "verifiziert_via": "https://www.nba.com/timberwolves/roster", "hinweis": "Hauptrolle wegen Dosunmu+DiVincenzo-Ausfall"},
+        {"name": "Jaden McDaniels", "nummer": null, "position": "SF", "ppg_playoffs": null, "verifiziert_via": "https://www.nba.com/timberwolves/roster"}
+      ],
+      "squad_gast": [
+        {"name": "Victor Wembanyama", "nummer": 1, "position": "C/PF", "ppg_playoffs": 19.0, "verifiziert_via": "https://www.nba.com/player/1641705/victor-wembanyama", "hinweis": "Spurs-Star, 12 Blocks NBA-Playoff-Rekord in G1; 19 Pkt + 15 Reb in G2"},
+        {"name": "De'Aaron Fox", "nummer": null, "position": "PG", "ppg_playoffs": null, "verifiziert_via": "https://www.nba.com/spurs/roster", "hinweis": "16 Pkt G2"},
+        {"name": "Stephon Castle", "nummer": null, "position": "SG", "ppg_playoffs": null, "verifiziert_via": "https://www.nba.com/spurs/roster", "hinweis": "21 Pkt G2 - ROY-Form"},
+        {"name": "Devin Vassell", "nummer": null, "position": "SF", "ppg_playoffs": null, "verifiziert_via": "https://www.nba.com/spurs/roster"}
+      ],
+      "injuries_heim": [
+        "Ayo Dosunmu (Verletzung)",
+        "Donte DiVincenzo (Verletzung)",
+        "Anthony Edwards (Knie - spielt aber managed Belastung)"
+      ],
+      "injuries_gast": [
+        "(1 unspezifischer Spieler im Team-Injury-Report laut Aggregator-Quelle - exakter Name nicht klar in den Quellen)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - NBA exklusiv",
+        "gast": "keine - NBA exklusiv",
+        "quellen": [
+          "https://www.nba.com/news/live-updates-2026-nba-playoffs-conference-semifinals-knicks-look-to-defend-home-court-versus-76ers"
+        ]
+      },
+      "saisonziel_heim": "Conference Semifinals - 1-1 nach 95-133-Klatsche, jetzt Heimvorteil-Pflicht-Sieg",
+      "saisonziel_gast": "Conference Semifinals - 1-1, will Serie nach Klatsche fortsetzen",
+      "tabellenstand": {"serien_stand": "1-1", "heim_position": "tied 1-1 hosting G3", "gast_position": "tied 1-1 visiting"},
+      "form_heim_letzte_5": "G1 Sieg 104-102, G2 Klatsche 95-133 (38-Pkt-Niederlage = Rekord-Schmach in Wolves-Playoff-Geschichte)",
+      "form_gast_letzte_5": "G1 Niederlage 102-104, G2 dominanter Sieg 133-95 (Stephon Castle 21, Wembanyama 19+15+2 Blocks)",
+      "recovery_heim": "1 Tag seit G2-Klatsche (7.5.); Reise von San Antonio zurueck nach Minneapolis - moegliche Müdigkeit",
+      "recovery_gast": "1 Tag seit G2-Sieg (7.5.); Reise nach Minneapolis",
+      "quoten": {
+        "bet365_naeherung": {
+          "moneyline_heim": 164,
+          "moneyline_gast": -198,
+          "spread_heim": 4.5,
+          "spread_gast": -4.5,
+          "ueber_total": 216.5,
+          "unter_total": 216.5,
+          "torschuetzen_props": {}
+        },
+        "_quelle": "FanDuel/oddsshark/SI Stand 7.5.2026 - bet365 live pruefen"
+      },
+      "news_kompakt": [
+        "Spurs UEBERRASCHUNGS-Favorit AUSWAERTS (-198 ML) trotz Wolves-Heimspiel - Wolves nach 95-133-Klatsche unter Druck",
+        "Wembanyama setzt Maßstaebe: 12 Blocks NBA-Playoff-Rekord in G1, dann 19+15+2 Blocks in G2",
+        "Edwards-Knie weiter Belastungs-Frage - kommt von Bank, nicht Starter",
+        "Wolves Saison-Worst-Niederlage (38 Pkt) reflektiert Edwards-Verletzungs-Krise",
+        "Total bei 216.5 - Defense-lastiges Spiel erwartet (Wembanyama-Faktor)"
+      ],
+      "quellen_aggregator": [
+        "https://www.fanduel.com/research/timberwolves-vs-spurs-prediction-nba-odds-spread-best-bets-for-western-semifinals-5-8-2026",
+        "https://www.cbssports.com/nba/news/spurs-timberwolves-odds-prediction-time-2026-nba-playoff-picks-game-3-best-bets/",
+        "https://www.si.com/betting/spurs-vs-timberwolves-opening-odds-for-nba-playoffs-game-3-minnesota-small-underdogs-at-home",
+        "https://www.nba.com/news/live-updates-2026-nba-playoffs-conference-semifinals-76ers-knicks-renew-rivalry"
+      ]
+    }
+  ]
+}
