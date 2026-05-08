@@ -242,7 +242,7 @@
       "begruendung": "4 DC-Picks aus den europaeischen HF-Hinspielen — alle 4 Heim-DC bzw. Crystal Palace Auswaerts-DC. Klassendifferenz/Heim-Hinspiel-Logik in jedem Bein. Layer-1 OK (4 verschiedene Spiele), Layer-2: Safe-Kombi ist die EINE Kombi mit Sieg-Outcomes — andere Kombis nutzen Total/BTTS. Rechenkontrolle: 1.32 * 1.42 * 1.30 * 1.30 = 3.17."
     },
     {
-      "name": "Balance-Kombi (~6x)",
+      "name": "Balance-Kombi (~3.15x)",
       "kategorie": "value",
       "gesamtquote": 3.15,
       "empfohlener_einsatz_prozent": 0.4,
@@ -262,7 +262,7 @@
       "rechnung": "1.91 x 1.65 = 3.15"
     },
     {
-      "name": "Risiko-Kombi (~18x)",
+      "name": "Risiko-Kombi (~9.58x)",
       "kategorie": "wackel",
       "gesamtquote": 9.58,
       "empfohlener_einsatz_prozent": 0.25,
@@ -287,7 +287,7 @@
       "rechnung": "2.20 x 2.20 x 1.98 = 9.58"
     },
     {
-      "name": "Moonshot-Kombi (~39x)",
+      "name": "Moonshot-Kombi (~10.59x)",
       "kategorie": "moonshot",
       "gesamtquote": 10.59,
       "empfohlener_einsatz_prozent": 0.1,

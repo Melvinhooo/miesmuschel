@@ -328,7 +328,7 @@
     },
     {
       "id": "kombi-balance-2026-05-06",
-      "name": "Balance-Kombi (~5.87x)",
+      "name": "Balance-Kombi (~3.08x)",
       "kategorie": "balance",
       "beine": [
         {
@@ -352,7 +352,7 @@
     },
     {
       "id": "kombi-risiko-2026-05-06",
-      "name": "Risiko-Kombi (~18.9x)",
+      "name": "Risiko-Kombi (~1.40x)",
       "kategorie": "risk",
       "beine": [
         {
@@ -370,7 +370,7 @@
     },
     {
       "id": "kombi-moonshot-2026-05-06",
-      "name": "Moonshot-Kombi (~46.6x)",
+      "name": "Moonshot-Kombi (~3.50x)",
       "kategorie": "moonshot",
       "beine": [
         {

@@ -629,7 +629,7 @@ window.__MIESMUSCHEL_TIPPS = {
     },
     {
       "id": "kombi-balance-2026-05-08",
-      "name": "Balance-Kombi (~6.85x)",
+      "name": "Balance-Kombi (~9.52x)",
       "kategorie": "balance",
       "beine": [
         {
@@ -661,7 +661,7 @@ window.__MIESMUSCHEL_TIPPS = {
     },
     {
       "id": "kombi-risiko-2026-05-08",
-      "name": "Risiko-Kombi (~15.30x)",
+      "name": "Risiko-Kombi (~22.63x)",
       "kategorie": "risk",
       "beine": [
         {
@@ -694,7 +694,7 @@ window.__MIESMUSCHEL_TIPPS = {
     },
     {
       "id": "kombi-moonshot-2026-05-08",
-      "name": "Moonshot-Kombi (~145x)",
+      "name": "Moonshot-Kombi (~211.75x)",
       "kategorie": "moonshot",
       "beine": [
         {
