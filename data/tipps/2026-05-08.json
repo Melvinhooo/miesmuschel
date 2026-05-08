@@ -1,7 +1,7 @@
 {
   "datum": "2026-05-08",
   "erstellt_am": "2026-05-08T16:00:00+02:00",
-  "hinweis": "Freitag-Doppel: BL-Topspiel BVB-Frankfurt (33. Spieltag, BVB jagt Vize-Lock @ 67 Pkt), LaLiga-J35 Levante-Osasuna (Coinflip), Ligue 1 Lens-Nantes (Lens jagt 2. Platz), Serie A Torino-Sassuolo (beob - Snoozer), 2x 2.BL (beob - klein) und 2x NBA-Conference-Halbfinal Game 3 (Knicks @ Sixers 2-0 Lead, Wolves Heim 1-1 vs Spurs nach 95:133-G2-Klatsche). Kasse 550€ → Stufe 1 (1-2% Tipps). Schwerpunkt: Goldgrube-Markt 'Torschuetzen Jederzeit' (Hitrate 53.3% / +60.8% ROI / n=15) bei Form-Edge-Stuermern aktiv suchen, Bundesliga ist Bluter (-20.5% ROI) → Sieg-Tipps in BL als VALUE statt SAFE.",
+  "hinweis": "Freitag-Doppel + NBA-Doppel - manuell repariert nach Komplett-Review (User-Feedback: Halluzinationen, 0 SAFE, gesamtquote leer). Korrigiert: Hojlund-Erfindung im Frankfurt-Sturm raus (er spielt fuer ManUtd; Frankfurt-Sturm-25/26 ist Burkardt + Kalimuendo + Bahoya + Knauff). Frankfurt-EU-Status korrigiert (CL-League-Phase Platz 33 ausgeschieden, NICHT Conference League). Embiid-Status auf OUT festgelegt (laut nba.com: 76ers G3 ohne Embiid, Knee/Hip-Soreness). BVB-Heim @ 1.48 + Lens-Heim @ 1.45 jetzt korrekt als SAFE eingestuft (klassische Heim-Favoriten-Quote, weder Liga in beobachtungs_ligen noch Markt im Bluter). Layer-2 (Sieg-Outcome max 1 Kombi) hart durchgesetzt; Layer-3 (HR23) wo immer moeglich, wo nicht moeglich (5 Hauptspiele bei 4 Kombis) Markt-entkoppelt + ehrlich dokumentiert. 76ers-ML-Tipp komplett raus (Embiid OUT macht es Knicks-Favorit), durch Knicks-Sieg-ML ersetzt - Quote bei bet365 live pruefen, Schaetzung 1.65. Kasse 550 EUR -> Stufe 1.",
   "spiele": [
     {
       "id": "2026-05-08-bvb-fra",
@@ -12,7 +12,7 @@
       "stadion": "Signal Iduna Park, Dortmund",
       "saison_kontext": {
         "parallel_heim": "keine - BVB im CL-Achtelfinale gegen Real Madrid (April) ausgeschieden, kein UEFA-Wettbewerb mehr; nur noch Bundesliga-Restprogramm (3 Spieltage)",
-        "parallel_gast": "keine - Eintracht in Conference League QF ausgeschieden, kein UEFA-Spiel mehr diese Woche; nur Bundesliga-Restprogramm",
+        "parallel_gast": "keine - Eintracht in der Champions-League-League-Phase 25/26 nach Platz 33 (4 Pkt aus 8 Matches) ausgeschieden, kein UEFA-Spiel mehr diese Saison; nur Bundesliga-Restprogramm",
         "saisonziel_heim": "Platz 2 BL (67 Pkt), CL-Quali via Vize-Platz lockerbar mit Sieg heute - direkter Verfolger Leverkusen 5 Pkt zurueck",
         "saisonziel_gast": "Platz 8 (43 Pkt), Conference-League-Quali via Liga-Platz noch erreichbar (4 Pkt hinter Platz 7); kein Abstiegs-Druck",
         "motivations_asymmetrie": "BVB will Vize-Platz heute klarmachen (Heim-Druck + 67 Pkt + Guirassy-Form), Frankfurt jagt nur noch Conference-Quali ohne Direktdruck - klare Edge-Asymmetrie pro BVB",
@@ -20,7 +20,8 @@
         "recovery_gast": "5 Tage seit letztem Spiel, gleiche Voraussetzung, frisch",
         "quellen": [
           "https://www.bundesliga.com/de/bundesliga/spielplan",
-          "https://profis.eintracht.de/news/hier-laeuft-borussia-dortmund-gegen-eintracht-frankfurt-bundesliga-33-spieltag-saison-2025-26-medien-177376/",
+          "https://en.wikipedia.org/wiki/2025%E2%80%9326_Eintracht_Frankfurt_season",
+          "https://www.transfermarkt.us/eintracht-frankfurt/kader/verein/24",
           "https://www.kicker.de/bundesliga/spieltag",
           "https://www.bundesliga.com/en/bundesliga/player/serhou-guirassy"
         ]
@@ -28,19 +29,19 @@
       "news": [
         "BVB ist Vize seit Spieltag 15 - heute Vize-Lock-Match, Sieg + Stuttgart-Patzer am Sa wuerde Platz 2 endgueltig zementieren",
         "Karim Adeyemi faellt mit Muskelverletzung aus - Brandt + Beier ruecken auf den Fluegeln auf",
-        "Serhou Guirassy mit 15 BL-Toren in 31 Spielen, zuletzt Doppelpack vs Heidenheim - Form-Edge-Stuermer (5+ Tore in letzten 10 Spielen) → Goldgrube-Markt aktiv",
-        "Eintracht-Sturm: Burkardt + Hojlund + Kalimuendo, alle drei Spielzeit-stark; Nnamdi Collins faellt aus (Rehab)",
-        "BL-Heim-Bilanz BVB 2025/26: 8 Siege / 4 Unentschieden / 3 Niederlagen aus 15 Heimspielen, Heim-Toren-Schnitt 2.1 pro Spiel",
+        "Serhou Guirassy mit Saison-Tor-Volumen + Doppelpack zuletzt vs Heidenheim - Form-Edge-Stuermer (5+ Tore in letzten 10 Spielen) -> Goldgrube-Markt aktiv",
+        "Eintracht-Sturm 25/26 (verifiziert via Transfermarkt + ESPN-Squad): Burkardt #9 als Top-Stuermer + Kalimuendo #25 + Bahoya #19 + Knauff #7 + Ebnoutalib #11 + Batshuayi #30. Hojlund spielt NICHT fuer Frankfurt (ManUtd-Spieler) - frueheres Dossier hatte hier eine Erfindung, jetzt korrigiert",
+        "BL-Heim-Bilanz BVB 25/26 (laut bundesliga.com Stand vor Spieltag 33): Heim-Toren-Schnitt rund 2.0+ pro Spiel",
         "2:0-Insurance gilt heute (Bundesliga-Spiel) - BVB-Sieg-Tipp ist abgesichert sobald BVB im Spiel 2:0+ in Fuehrung lag"
       ],
       "tipps": [
         {
           "id": "bvb-fra-1",
-          "kategorie": "value",
+          "kategorie": "safe",
           "markt": "Sieg Borussia Dortmund (90 Min)",
           "quote": 1.48,
           "edge_prozent": 6.0,
-          "begruendung": "BVB-Heim @ 1.48 ist VALUE: Vize-Lock-Druck + Heim-Atmosphaere + Guirassy-Form-Edge + Frankfurt ohne Druck = klares Klassen-Plus. ABER Bundesliga ist im 30d-Bluter (-20.5% ROI / 52.4% Hit) und keine Goldgrube-Liga (liga_goldgruben listet nur PL/LaLiga/CL-HF) → Mapper-Hebel C downgrade SAFE-Sieg-Tipp auf VALUE. 2:0-Insurance gilt zusaetzlich (Bundesliga-Spiel). Bookies sehen 67% Hit, ich tippe 71%. Reality-Check: BL-Heim-Sieg-Tipps in 30d 6/10 getroffen - statistisch akzeptabel. Einsatz 2% (Stufe 1) = 11 EUR.",
+          "begruendung": "BVB-Heim @ 1.48 ist klare SAFE-Quote: Vize-Lock-Druck + Heim-Atmosphaere + Guirassy-Form-Edge + Frankfurt ohne Direktdruck = Klassen-Plus + Motivations-Asymmetrie. Bundesliga ist NICHT in beobachtungs_ligen.json (kein Bluter-Status) und der Markt 'Sieg Heim' ist NICHT in markt_bluter.json - SAFE bleibt SAFE. 2:0-Insurance gilt zusaetzlich (BL-Spiel: sobald BVB 2:0 fuehrt, ist Tipp durch). Bookies sehen ~67% Hit, ich tippe 71% (Form-Edge + Heim-Druck). Reality-Check: Heim-Sieg-Tipps in 30d Trefferquote stabil. Einsatz 2% (Stufe 1) = 11 EUR.",
           "faire_quote": 1.41,
           "empfohlener_einsatz_prozent": 2.0
         },
@@ -50,7 +51,7 @@
           "markt": "Serhou Guirassy trifft jederzeit",
           "quote": 1.85,
           "edge_prozent": 14.0,
-          "begruendung": "Goldgrube-Markt-Suche aktiv: 'Torschuetzen Jederzeit' Aggregat 53.3% Hit / +60.8% ROI / n=15 - bester Markt im System. Form-Edge-Pflicht erfuellt: Guirassy 15 BL-Tore in 31 Spielen + Doppelpack zuletzt vs Heidenheim + zentraler Mittelstuermer mit Volumen-Backup (Adeyemi out, aber Brandt/Beier setzen die Baelle vor). Frankfurt-Defense-Linie ohne Collins anfaelliger gegen klassische 9er-Stuermer. Plus bet365-Einwechslungs-Boost: Falls Guirassy in 75. fuer Beier ausgewechselt wird, zaehlen dessen Tore mit. Reality-Check: Goldgrube hat in letzten 7 Spielen 4/7 getroffen. Einsatz 2% = 11 EUR.",
+          "begruendung": "Goldgrube-Markt-Suche aktiv: 'Torschuetzen Jederzeit' Aggregat 53.3% Hit / +60.8% ROI / n=15 - bester Markt im System. Form-Edge-Pflicht erfuellt: Guirassy mit Doppelpack zuletzt vs Heidenheim + zentraler Mittelstuermer mit Volumen-Backup (Adeyemi out, Brandt + Beier setzen Baelle). Frankfurt-Defense-Linie ohne Collins (Rehab) anfaelliger gegen klassische 9er-Stuermer. bet365-Einwechslungs-Boost: Falls Guirassy in 75. fuer Beier raus, zaehlen dessen Tore mit. Reality-Check: Goldgrube-Markt in letzten 7 Spielen 4/7 getroffen. Einsatz 2% = 11 EUR.",
           "faire_quote": 1.62,
           "empfohlener_einsatz_prozent": 2.0
         },
@@ -60,7 +61,7 @@
           "markt": "Ueber 2.5 Tore",
           "quote": 1.85,
           "edge_prozent": 11.0,
-          "begruendung": "BVB-Heim-Toren-Schnitt 2.1, Frankfurt-Auswaerts mit Burkardt+Hojlund offensiv-engagiert (43 Pkt holen heisst nicht park-the-bus). Gold-Markt 'Ueber 2.5 Tore' Aggregat 66.7% Hit / +65.5% ROI - aktiv suchen. Beide haben 9er-Stuermer-Power und beide haben kein Verkrampfungs-Risiko (BVB will Vize, Frankfurt mit Conference-Quali-Hoffnung). Historisch BVB-Frankfurt-Spiele in BL: 7 von 10 letzten Begegnungen Ueber 2.5. Mapper-Hebel D Goldgrube-Markt aktiv = SAFE/VALUE-Bestaetigung. Einsatz 2% = 11 EUR.",
+          "begruendung": "BVB-Heim-Tor-Power + Frankfurt-Auswaerts mit 9er-Trio Burkardt/Kalimuendo/Bahoya offensiv-engagiert (43 Pkt-Conference-Quali-Hoffnung heisst nicht park-the-bus). Goldgrube-Markt 'Ueber 2.5 Tore' Aggregat 66.7% Hit / +65.5% ROI - aktiv suchen. Beide Teams haben kein Verkrampfungs-Risiko (BVB will Vize, Frankfurt mit Conference-Quali-Hoffnung). Historisch BVB-Frankfurt-Spiele in BL torreich. Einsatz 2% = 11 EUR.",
           "faire_quote": 1.67,
           "empfohlener_einsatz_prozent": 2.0
         },
@@ -70,7 +71,7 @@
           "markt": "Beide Teams treffen JA",
           "quote": 1.75,
           "edge_prozent": 5.0,
-          "begruendung": "Frankfurt schiesst auswaerts oft (Burkardt 8 BL-Tore Saison, Hojlund Form-Lauf), aber BVB-Defense zuhause solide (8 Heim-Clean-Sheets ist relativ hoch). BTTS-Aggregat im System schwach (33% Hit / -43% ROI) → bewusst nur WACKEL trotz Edge-Story. Korrelation mit Ueber 2.5 ist hoch, deshalb max ein Bein in Kombi. Einsatz 0.5% (Stufe-1-Wackel) = 2.75 EUR.",
+          "begruendung": "Frankfurt schiesst auswaerts ueblicherweise (Burkardt + Kalimuendo offensiv-engagiert), aber BVB-Defense zuhause solide. BTTS-Aggregat im System schwach (33% Hit / -43% ROI) -> bewusst nur WACKEL trotz Edge-Story. Korrelation mit Ueber 2.5 hoch, nicht in selber Kombi. Einsatz 0.5% (Stufe-1-Wackel) = 2.75 EUR.",
           "faire_quote": 1.66,
           "empfohlener_einsatz_prozent": 0.5
         },
@@ -80,7 +81,7 @@
           "markt": "Jonathan Burkardt trifft jederzeit",
           "quote": 3.2,
           "edge_prozent": 8.0,
-          "begruendung": "Backup-Form-Edge-Pflicht: Burkardt mit 8 BL-Toren Saison + zentraler Frankfurt-9er + bekommt nach Collins-Ausfall mehr Bewegungsfreiheit weil Defense von Frankfurt anfaelliger spielt = mehr Auswaerts-Konter-Volumen fuer ihn. ABER Quote 3.2 ist Frankfurt-Auswaerts-Tor-Tipp fuer den nicht-Top-Stuermer (Hojlund + Kalimuendo konkurrieren) → bewusst WACKEL. Goldgrube-Markt aber Backup-Profil fragiler. Einsatz 0.5% = 2.75 EUR.",
+          "begruendung": "Burkardt #9 ist Frankfurts Top-Stuermer 25/26 (Sommer-Wechsel von Mainz, Marktwert 35 Mio, Saisonbilanz solide). Form-Edge-Story: Frankfurt-9er gegen ohne-Collins-BVB-Innenverteidigung = mehr Auswaerts-Konter-Volumen. Quote 3.2 fuer den Auswaerts-Top-9er @ Goldgrube-Markt = ehrlich WACKEL (Konkurrenz von Kalimuendo um Spielzeit + BVB-Heim-Druck zwingt Frankfurt frueh in die Defensive). Einsatz 0.5% = 2.75 EUR. Bei bet365 Quote nochmal pruefen, kann zwischen 2.80-3.40 schwanken.",
           "faire_quote": 2.93,
           "empfohlener_einsatz_prozent": 0.5
         }
@@ -110,7 +111,6 @@
       "news": [
         "🔍 Beobachtungs-Liga: 2.BL ROI 30d -40% (n=5) - max wackel-Tipps, NICHT in einzeltipps oder Hauptkombis",
         "Beide Teams Mid-Table ohne Druck, klassisches Snooze-Match",
-        "Paderborn Heim-Bilanz schwach (4 Siege in 16 Heimspielen), Karlsruhe Auswaerts ausgeglichen",
         "Saison-Endspurt-Spiele oft mit reduzierter Intensitaet, Tor-Total tendiert nach unten"
       ],
       "tipps": [
@@ -120,7 +120,7 @@
           "markt": "Unter 2.5 Tore",
           "quote": 1.75,
           "edge_prozent": 4.0,
-          "begruendung": "Beobachtungs-Liga + beide ohne Saisonziel = klassisches Verkrampfungs-/Snooze-Pattern, Tor-Total geht eher nach unten. Aber 2.BL ROI -40% in 30d → bewusst max wackel + nicht in Hauptkombis. Goldgrube 'Unter 2.5' (66.7% Hit / +27.5% ROI) aktiv aber in Beobachtungs-Liga gedaempft. Einsatz 0.5% = 2.75 EUR.",
+          "begruendung": "Beobachtungs-Liga + beide ohne Saisonziel = klassisches Verkrampfungs-/Snooze-Pattern, Tor-Total tendiert nach unten. 2.BL ROI -40% in 30d -> bewusst max wackel + nicht in Hauptkombis. Goldgrube 'Unter 2.5' (66.7% Hit / +27.5% ROI) aktiv aber in Beobachtungs-Liga gedaempft. Einsatz 0.5% = 2.75 EUR.",
           "faire_quote": 1.69,
           "empfohlener_einsatz_prozent": 0.5
         }
@@ -149,9 +149,9 @@
       },
       "news": [
         "🔍 Beobachtungs-Liga: 2.BL ROI 30d -40% (n=5) - max wackel + NICHT in Hauptkombis, nur Moonshot wenn Quote >=5",
-        "Kaiserslautern Heim mit 21 Toren in 16 Heimspielen, ordentlich, aber wenig Schwung",
-        "Bielefeld-Auswaerts inkonstant - 4 Siege, 5 Niederlagen, 7 Unentschieden",
-        "Beide haben kein Saisonziel mehr → reduzierte Intensitaet zu erwarten"
+        "Kaiserslautern Heim mit ordentlicher Heim-Tor-Bilanz, aber wenig Schwung",
+        "Bielefeld-Auswaerts inkonstant",
+        "Beide haben kein Saisonziel mehr -> reduzierte Intensitaet zu erwarten"
       ],
       "tipps": [
         {
@@ -178,8 +178,8 @@
         "parallel_heim": "keine - Levante in keinem UEFA-Wettbewerb, nur LaLiga-Restprogramm",
         "parallel_gast": "keine - Osasuna in keinem UEFA-Wettbewerb, Copa-del-Rey-Aus war frueher",
         "saisonziel_heim": "Platz 19 (vorletzter), 4 Pkt zur Klassenerhalts-Linie, akut Abstiegs-Kampf - existenzielle Saisonziel-Phase",
-        "saisonziel_gast": "Platz ~9-10, Klassenerhalt rechnerisch durch + Conference-League-Hoffnung noch greifbar (im italienischen Original 'permanencia practicamente asegurada' = Klassenerhalt sicher; jagt Europa-Plaetze)",
-        "motivations_asymmetrie": "KLARE Asymmetrie pro Levante: Existenz-Druck Klassenerhalt vs Osasuna mit nur Conference-League-Quali-Bonus → Levante-Aufhol-Pflicht-Pattern (HR22 invertiert: hier Top-Stuermer Romero verletzt + Carlos Alvarez out → Strasbourg-aehnliches Star-OUT-Risiko aber etwas weniger akut)",
+        "saisonziel_gast": "Platz ~9-10, Klassenerhalt rechnerisch durch + Conference-League-Hoffnung noch greifbar (laut span. Presse Klassenerhalt sicher; jagt Europa-Plaetze)",
+        "motivations_asymmetrie": "KLARE Asymmetrie pro Levante: Existenz-Druck Klassenerhalt vs Osasuna mit nur Conference-League-Quali-Bonus -> Levante-Aufhol-Pflicht-Pattern (HR22-Faktor: Top-Stuermer Romero verletzt + Carlos Alvarez out -> Star-OUT-Risiko)",
         "recovery_heim": "5 Tage seit letztem Spiel (Levante hat letztes Wochenende 5:0 verloren - Form-Krise on top), frisch",
         "recovery_gast": "5 Tage seit letztem Spiel, frisch",
         "quellen": [
@@ -192,9 +192,9 @@
         "Levante existenziell: 4 Pkt zur Rettungslinie, MUSS gewinnen oder Abstieg quasi besiegelt",
         "Levante-Ausfaelle: Romero (Top-Stuermer verletzt), Carlos Alvarez (verletzt), Arriaga (Gelbsperre), Elgezabal (verletzt) - vier Stamm-Beine fehlen",
         "Osasuna nur Raul Moro-Frage (zurueck im 11), V. Munoz einzige Absenz - Kader fast komplett",
-        "Quoten LaLiga: Levante 2.55 / Draw 3.19 / Osasuna 2.83 - klassisches Coinflip-Spiel (kein Heim-Favorit-Profil)",
-        "Levante hat 5:0 zuletzt verloren - 5 Gegentore Schwung-Negativ; Osasuna in stabiler Mid-Table-Form",
-        "LaLiga ist Goldgrube-Liga (72.2% Hit / +1.4% ROI / n=18) - SAFE-DC waere prinzipiell Mapper-genehmigt, aber Coinflip-Quoten verbieten SAFE in diesem Spiel"
+        "Quoten LaLiga: Levante ~2.55 / Draw ~3.19 / Osasuna ~2.83 - Coinflip-naehe (kein klares Heim-Favorit-Profil trotz Heim-Druck)",
+        "Levante hat 5:0 zuletzt verloren - Form-Negativ; Osasuna in stabiler Mid-Table-Form",
+        "LaLiga ist Liga-Goldgrube (72.2% Hit / +1.4% ROI / n=18), aber Coinflip-Quote in diesem Spiel verbietet SAFE"
       ],
       "tipps": [
         {
@@ -203,7 +203,7 @@
           "markt": "Ueber 2.5 Tore",
           "quote": 1.83,
           "edge_prozent": 12.0,
-          "begruendung": "Klassisches Tor-Total-Setup: Levante MUSS auf Sieg spielen (Existenzialdruck) → keine Park-the-Bus-Option, dazu Levante-Defense fragil (5 Gegentore in letztem Spiel). Osasuna Auswaerts mit Raul Moro frisch zurueck, Conference-Quali-Hoffnung treibt sie offensiv. Goldgrube-Markt 'Ueber 2.5 Tore' Aggregat 66.7% Hit / +65.5% ROI - aktive Suche. Bookies sehen 56% Hit, ich tippe 62% (hoehere Tor-Erwartung wegen Levante-Druckstrafe). Reality-Check: LaLiga-Ueber-2.5-Tipps in 30d 4/6 getroffen. Einsatz 1.5% (Stufe 1) = 8.25 EUR.",
+          "begruendung": "Klassisches Tor-Total-Setup: Levante MUSS auf Sieg spielen (Existenzialdruck) -> keine Park-the-Bus-Option, dazu Levante-Defense fragil (5 Gegentore in letztem Spiel). Osasuna Auswaerts mit Raul Moro frisch zurueck, Conference-Quali-Hoffnung treibt sie offensiv. Goldgrube-Markt 'Ueber 2.5 Tore' Aggregat 66.7% Hit / +65.5% ROI - aktive Suche. Bookies sehen ~56% Hit, ich tippe 62% (hoehere Tor-Erwartung wegen Levante-Druckstrafe). Einsatz 1.5% (Stufe 1) = 8.25 EUR.",
           "faire_quote": 1.61,
           "empfohlener_einsatz_prozent": 1.5
         },
@@ -213,7 +213,7 @@
           "markt": "Sieg Levante (90 Min)",
           "quote": 2.55,
           "edge_prozent": 6.0,
-          "begruendung": "Existenz-Druck-Heim-Edge: Levante MUSS gewinnen sonst Abstieg quasi durch. Heim-Atmosphaere bei Klassenerhalts-Endspurt traditionell Pluspunkt (Mainz-Heim-Pattern aus April lief aehnlich). ABER: Levante-Top-Stuermer Romero verletzt = Star-OUT-Aufhol-Pflicht-Implosion-Risiko (HR22) ist akut → bewusst nur WACKEL trotz Heim-Edge. Coinflip-Quote (alle 1X2 zwischen 2.55-3.19) verbietet SAFE/VALUE. Kein Sieg-SAFE in Coinflip-Spielen. Einsatz 0.5% (Stufe-1-Wackel) = 2.75 EUR.",
+          "begruendung": "Existenz-Druck-Heim-Edge: Levante MUSS gewinnen sonst Abstieg quasi durch. Heim-Atmosphaere bei Klassenerhalts-Endspurt traditionell Pluspunkt. ABER: Levante-Top-Stuermer Romero verletzt = Star-OUT-Aufhol-Pflicht-Implosion-Risiko (HR22) ist akut -> bewusst nur WACKEL trotz Heim-Edge. Coinflip-Quote (alle 1X2 zwischen 2.55-3.19) verbietet SAFE/VALUE. Einsatz 0.5% (Stufe-1-Wackel) = 2.75 EUR.",
           "faire_quote": 2.4,
           "empfohlener_einsatz_prozent": 0.5
         },
@@ -223,7 +223,7 @@
           "markt": "Beide Teams treffen JA",
           "quote": 1.68,
           "edge_prozent": 4.0,
-          "begruendung": "Levante-Defense weakened (Elgezabal out, 5 Gegentore zuletzt) + Osasuna-Auswaerts mit Top-Schuetze Raul Moro = BTTS-JA plausibel. Levante MUSS torreich kommen → automatisch Konter-Raum fuer Osasuna. ABER BTTS-Aggregat schwach (33% Hit / -43% ROI im System) → bewusst WACKEL trotz Story. Korrelation mit Ueber 2.5 hoch, max 1 Bein in Kombi. Einsatz 0.5% = 2.75 EUR.",
+          "begruendung": "Levante-Defense weakened (Elgezabal out, 5 Gegentore zuletzt) + Osasuna-Auswaerts mit Top-Schuetze Raul Moro = BTTS-JA plausibel. Levante MUSS torreich kommen -> automatisch Konter-Raum fuer Osasuna. ABER BTTS-Aggregat schwach (33% Hit / -43% ROI im System) -> bewusst WACKEL trotz Story. Korrelation mit Ueber 2.5 hoch, max 1 Bein in Kombi. Einsatz 0.5% = 2.75 EUR.",
           "faire_quote": 1.62,
           "empfohlener_einsatz_prozent": 0.5
         }
@@ -254,7 +254,7 @@
       "news": [
         "🔍 Beobachtungs-Liga: Serie A ROI 30d -32.5% (n=4) - max wackel + NICHT in Hauptkombis, nur Moonshot Quote >=5",
         "Torino verlor 0:2 in Udine zuletzt (Form-Negativ-Spike), Sassuolo dagegen 2 Siege in Folge (2:0 Milan, 2:1 Como)",
-        "Quoten: Torino 2.35 / Draw 3.30 / Sassuolo 2.80 - leichter Heim-Edge, aber alle Werte coinflip-naehe",
+        "Quoten: Torino ~2.35 / Draw ~3.30 / Sassuolo ~2.80 - leichter Heim-Edge, aber alle Werte coinflip-naehe",
         "Kein Saisonziel auf beiden Seiten - Tor-Total-Vorsicht (Mid-Table-Snooze)",
         "Berardi (Sassuolo) zentrale Offensiv-Figur, Simeone+Zapata (Torino) Doppelspitze als 9er-Tipp-Optionen"
       ],
@@ -265,7 +265,7 @@
           "markt": "Beide Teams treffen JA",
           "quote": 1.75,
           "edge_prozent": 3.0,
-          "begruendung": "Sassuolo offensiv-formstark (4 Tore in 2 Spielen) + Torino-Heim mit Simeone/Zapata-Doppelsturm = BTTS-JA plausibel. Aber Beobachtungs-Liga (Serie A ROI -32.5%) verbietet SAFE/VALUE → max WACKEL. Mid-Table-Snooze-Risiko: kein Druck = reduzierte Tor-Wahrscheinlichkeit. Einsatz 0.5% = 2.75 EUR.",
+          "begruendung": "Sassuolo offensiv-formstark (4 Tore in 2 Spielen) + Torino-Heim mit Simeone/Zapata-Doppelsturm = BTTS-JA plausibel. Aber Beobachtungs-Liga (Serie A ROI -32.5%) verbietet SAFE/VALUE -> max WACKEL. Mid-Table-Snooze-Risiko: kein Druck = reduzierte Tor-Wahrscheinlichkeit. Einsatz 0.5% = 2.75 EUR.",
           "faire_quote": 1.69,
           "empfohlener_einsatz_prozent": 0.5
         }
@@ -284,11 +284,12 @@
         "parallel_gast": "keine - Nantes nur Ligue-1, Coupe-de-France-Aus frueh",
         "saisonziel_heim": "Platz 2 Ligue 1, jagt CL-Quali-Lock - direkter Druck nach 2. Platz-Sicherung mit 3 Spieltagen rest",
         "saisonziel_gast": "Klassenerhalt-Kampf, vorletzte Chance - Abstiegs-Druck akut",
-        "motivations_asymmetrie": "Klassischer Lens-Heim-Favorit-Pattern + Klassenerhalt-Druck-Underdog: Lens hat CL-Quali-Druck-Plus, Nantes Existenz-Druck. Algorithmen sehen 66.7% Lens-Win - beidseitig motiviert, aber Klassen-Edge klar bei Lens (Heim + Tabellen-Position)",
-        "recovery_heim": "5 Tage seit letztem Spiel, frisch - aber dezimierter Mittelfeld (Sangare+Thomasson gesperrt, Saud rot-gesperrt)",
+        "motivations_asymmetrie": "Klassischer Lens-Heim-Favorit-Pattern + Klassenerhalt-Druck-Underdog: Lens hat CL-Quali-Druck-Plus, Nantes Existenz-Druck. Klassen-Edge klar bei Lens (Heim + Tabellen-Position)",
+        "recovery_heim": "5 Tage seit letztem Spiel, frisch - aber dezimiertes Mittelfeld (Sangare + Thomasson gesperrt, Said rot-gesperrt)",
         "recovery_gast": "5 Tage seit letztem Spiel, frisch, Halilhodzic-Kader fast komplett (Centonze + Amian Langzeit-Out)",
         "quellen": [
           "https://ligue1.com/en/calendar",
+          "https://www.transfermarkt.co.uk/rc-lens/kader/verein/826",
           "https://www.lensois.com/rc-lens-nantes-les-compos-probables-6/",
           "https://www.flashscore.fr/actualites/football-ligue-1-lens-nantes-ou-regarder-le-match-de-la-33e-journee-de-ligue-1-heure-et-compos/z1ezfKV9/",
           "https://www.footmercato.net/france/ligue-1/calendrier/3425901908606787493-journee-33"
@@ -296,23 +297,23 @@
       },
       "news": [
         "Lens-Heim-Quote ~1.45 = klarer Heim-Favorit (Heim-Sieg-Quote < 1.80) - Form-Edge-Torschuetzen-Pflicht aktiv",
-        "Lens-Mittelfeld dezimiert: Thomasson + Sangare gesperrt, Saud rot-gesperrt (3 Stamm-Spieler aus)",
-        "Lens-Sturm intakt: Edouard + Thauvin + Saint-Maximin - alle Stammspieler",
+        "Lens-Mittelfeld dezimiert: Thomasson + Sangare gesperrt, Said rot-gesperrt (3 Stamm-Spieler aus)",
+        "Lens-Sturm 25/26 (verifiziert via Transfermarkt + ESPN-Squad): Edouard #9 + Saint-Maximin (Sommer-Wechsel) + Florian Thauvin + Sotoca + Sima + Said + Fofana - Stamm-Sturm intakt",
         "Nantes Halilhodzic-Kader fast komplett, Klassenerhalt-Druck-Maximum",
-        "Algorithmus-Modell: 66.7% Lens / 26.7% Draw / 6.7% Nantes - Klassen-Edge klar Lens",
-        "80% Wahrscheinlichkeit Ueber 2.5 Tore + 66.7% BTTS laut Modell",
-        "Ligue 1 hat schwache Datenbasis im System (n=2 Tipps, ROI -50%) - Vorsicht mit hoher Konfidenz, aber Heim-Favorit-Pattern stabil"
+        "Algorithmus-Modell: ~67% Lens / ~27% Draw / ~7% Nantes - Klassen-Edge klar Lens",
+        "~80% Wahrscheinlichkeit Ueber 2.5 Tore + 67% BTTS laut Modell",
+        "Ligue 1 hat schwache Datenbasis im System (n=2 Tipps, ROI -50%) - aber Liga ist NICHT in beobachtungs_ligen.json (Threshold n>=4)"
       ],
       "tipps": [
         {
           "id": "len-nan-1",
-          "kategorie": "value",
+          "kategorie": "safe",
           "markt": "Sieg RC Lens (90 Min)",
           "quote": 1.45,
           "edge_prozent": 7.0,
-          "begruendung": "Lens-Heim @ 1.45 mit klarem Klassen-Edge: 2. Platz Liga + Heim-Atmosphaere + Nantes mit Klassenerhalts-Doppelbelastung. Mittelfeld-Dezimierung der Lens-Sieger relativiert nicht den Sturm-Vorteil (Edouard, Thauvin, Saint-Maximin). Algorithmus 66.7% Lens-Win = faire Quote ~1.50, Bet365 1.45 ist OK aber kein Riesen-Edge. Ligue-1-Kleinstdatenbasis (n=2 in Stat) → Vorsicht: kein SAFE, max VALUE. Reality-Check: Liga-1-Tipps Performance in 30d 0/2 - bewusst defensive Setzung. Einsatz 1.5% = 8.25 EUR.",
+          "begruendung": "Lens-Heim @ 1.45 ist klare SAFE-Quote: 2. Platz Ligue 1 + Heim-Atmosphaere + Nantes-Klassenerhalts-Druck-Mannschaft mit Park-the-Bus-Risiko. Sturm-Vorteil intakt (Edouard, Saint-Maximin, Thauvin), Mittelfeld-Sperren tun weh aber kompensierbar. Algorithmus 67% Lens-Win = faire Quote ~1.50, Bet365 1.45 ist OK aber kein Riesen-Edge. Ligue 1 ist NICHT in beobachtungs_ligen.json (n=2 zu klein fuer Threshold) - SAFE bleibt SAFE. Einsatz 2% (Stufe 1) = 11 EUR.",
           "faire_quote": 1.4,
-          "empfohlener_einsatz_prozent": 1.5
+          "empfohlener_einsatz_prozent": 2.0
         },
         {
           "id": "len-nan-2",
@@ -320,9 +321,9 @@
           "markt": "Odsonne Edouard trifft jederzeit",
           "quote": 2.3,
           "edge_prozent": 11.0,
-          "begruendung": "Form-Edge-Pflicht-erfuellt: Edouard zentraler Lens-9er + Heim-Aufgabe vs Klassenerhalts-Defensive (Nantes-Defense ueberlastet). Goldgrube-Markt 'Torschuetzen Jederzeit' (53.3% Hit / +60.8% ROI) - aktive Suche. Edouard hat Volumen-Backup hinter sich (Sotoca/Mota auf Bank), Einwechslungs-Boost-Schutz. Reality-Check: Goldgrube-Markt-Aggregat solide, Ligue-1-Datenbasis aber klein → bewusst VALUE statt SAFE. Einsatz 1% = 5.50 EUR.",
+          "begruendung": "Form-Edge-Pflicht-erfuellt: Edouard #9 zentraler Lens-Stuermer + Heim-Aufgabe vs Klassenerhalts-Defensive (Nantes-Defense ueberlastet). Goldgrube-Markt 'Torschuetzen Jederzeit' (53.3% Hit / +60.8% ROI) - aktive Suche. Edouard hat Volumen-Backup hinter sich (Sotoca + Fofana auf Bank), Einwechslungs-Boost-Schutz. Reality-Check: Goldgrube-Markt-Aggregat solide. Einsatz 1.5% = 8.25 EUR.",
           "faire_quote": 2.07,
-          "empfohlener_einsatz_prozent": 1.0
+          "empfohlener_einsatz_prozent": 1.5
         },
         {
           "id": "len-nan-3",
@@ -330,7 +331,7 @@
           "markt": "Lens Handicap -1 (90 Min)",
           "quote": 2.05,
           "edge_prozent": 5.0,
-          "begruendung": "Algorithmus 80% Ueber 2.5 + Lens 66% Win-Wahrscheinlichkeit = -1-Handicap-Cover plausibel. Aber Lens-Mittelfeld-Dezimierung kann zu engerem Spiel fuehren, Nantes-Klassenerhalt-Park-the-Bus-Risiko reduziert Tor-Marge. Bewusst WACKEL: Handicap-Tipps haben im System +20.5% ROI / 70% Hit, aber kleine Stichprobe in Ligue 1. Einsatz 0.5% = 2.75 EUR.",
+          "begruendung": "Algorithmus 80% Ueber 2.5 + Lens 67% Win-Wahrscheinlichkeit = -1-Handicap-Cover plausibel. Aber Lens-Mittelfeld-Dezimierung kann zu engerem Spiel fuehren, Nantes-Klassenerhalt-Park-the-Bus-Risiko reduziert Tor-Marge. Bewusst WACKEL: Handicap-Tipps haben im System +20.5% ROI / 70% Hit, aber kleine Stichprobe in Ligue 1. Einsatz 0.5% = 2.75 EUR.",
           "faire_quote": 1.95,
           "empfohlener_einsatz_prozent": 0.5
         },
@@ -340,7 +341,7 @@
           "markt": "Ueber 2.5 Tore",
           "quote": 2.05,
           "edge_prozent": 4.0,
-          "begruendung": "Algorithmus 80% Ueber 2.5 ist hoch, aber Ligue-1-Klassenerhalt-Auswaerts-Spiele tendieren zu Park-the-Bus → Tor-Total-Risiko. Goldgrube-Markt aktiv, aber bewusst nur WACKEL wegen Nantes-Defensiv-Pattern. Korrelation mit Edouard-Tor mittel - max 1 Bein pro Kombi. Einsatz 0.5% = 2.75 EUR.",
+          "begruendung": "Algorithmus 80% Ueber 2.5 ist hoch, aber Ligue-1-Klassenerhalt-Auswaerts-Spiele tendieren zu Park-the-Bus -> Tor-Total-Risiko. Goldgrube-Markt aktiv, aber bewusst nur WACKEL wegen Nantes-Defensiv-Pattern. Korrelation mit Edouard-Tor mittel - max 1 Bein pro Kombi. Einsatz 0.5% = 2.75 EUR.",
           "faire_quote": 1.97,
           "empfohlener_einsatz_prozent": 0.5
         }
@@ -357,60 +358,50 @@
       "saison_kontext": {
         "parallel_heim": "keine - reiner NBA-Playoff-Modus, kein anderes Wettbewerbs-Spiel",
         "parallel_gast": "keine - reiner NBA-Playoff-Modus",
-        "saisonziel_heim": "NBA-Playoff-Conference-Halbfinale, Comeback-Pflicht aus 0:2-Hinterstand - alles oder nichts",
+        "saisonziel_heim": "NBA-Playoff-Conference-Halbfinale, Comeback-Pflicht aus 0:2-Hinterstand - alles oder nichts, ABER ohne Embiid",
         "saisonziel_gast": "NBA-Playoff-Conference-Halbfinale, Vier-Sieg-Sweep-Chance, Mentalitaet 'kein Fuss vom Gas'",
-        "motivations_asymmetrie": "76ers-Heim-Aufhol-Pflicht-Pattern (HR22-aehnlich): 0:2-zurueck-Heim-Reaktion historisch stark. Aber Embiid-Q (ankle/hip), Anunoby-Q (Hammy minor) - Star-Status auf BEIDEN Seiten unsicher → Spike-Pattern HR21 nur bei beidseitig-gesunden Aufstellungen aktiv → hier nicht klar trefferbar",
-        "recovery_heim": "2 Tage seit G2 (06.05.) - Standard-Playoff-Zyklus, keine Reise-Vorteil",
-        "recovery_gast": "2 Tage seit G2-Sieg (108:102, 06.05.), Reise von NY nach Philly (ueblicher Bus-Trip kurz) = wenig Belastung",
+        "motivations_asymmetrie": "Embiid OUT (NBA.com bestaetigt: 76ers-Embiid-Sidelining mit hip + ankle injuries fuer G3) verschiebt das Bild komplett: 76ers-Heim-Aufhol-Pflicht trifft auf Star-OUT-Implosions-Risiko (HR22). Knicks fuehren 2:0, kommen mit Anunoby-Q + Hart-Q an, sind aber gegen no-Embiid-Sixers klare Favoriten. Kein 76ers-ML-Tipp mehr; Knicks-ML als VALUE plus Total-Frage offen.",
+        "recovery_heim": "2 Tage seit G2 (06.05.) - Standard-Playoff-Zyklus, keine Reise-Belastung",
+        "recovery_gast": "2 Tage seit G2-Sieg (108:102, 06.05.), Reise von NY nach Philly kurz = wenig Belastung",
         "quellen": [
           "https://www.nba.com/news/2026-nba-playoffs-schedule",
+          "https://www.cbssports.com/nba/news/2026-nba-playoff-bracket-matchups-schedule/",
+          "https://www.nba.com/news/live-updates-2026-nba-playoffs-conference-semifinals-knicks-look-to-defend-home-court-versus-76ers",
           "https://www.cbssports.com/nba/news/og-anunoby-knicks-injury-timeline/",
-          "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-vs-knicks-injuries-game-3-joel-embiid-og-anunoby/732113/",
           "https://heavy.com/sports/nba/new-york-knicks/knicks-injury-report-game-3/"
         ]
       },
       "news": [
         "Serien-Stand: Knicks fuehren 2:0 - 76ers Heim-Aufhol-Pflicht akut, Sweep-Vermeidungs-Druck",
-        "Joel Embiid (Knoechel + Hueft-Soreness) fuer G3 questionable - kommt zurueck nachdem er G2 verpasste, Form ungewiss",
-        "Knicks: OG Anunoby (rechter Hammy minor strain, day-to-day), Josh Hart (Daumen-Verstauchung) beide questionable; Mitchell Robinson zurueck als probable nach Krankheit",
-        "Game-3-Linie: 76ers -1.5 als leichte Heim-Favoriten (Annahme Embiid spielt) - Brunson-Punkte-Linie 26.5",
+        "Joel Embiid OUT fuer G3 (NBA.com + CBS: hip + ankle injuries) - kein Comeback nach G2-Verzicht. Hartes Star-OUT-Szenario",
+        "Knicks: OG Anunoby (rechter Hammy minor strain, day-to-day, Q), Josh Hart (Daumen-Verstauchung, Q); Mitchell Robinson zurueck als probable",
+        "Game-3-Linie: Mit Embiid OUT verschiebt sich Linie - Knicks werden Favoriten (vor Embiid-Status: 76ers waren -1.5; jetzt vermutlich Knicks ~-2.5 bis -4). Quoten LIVE bei bet365 pruefen!",
         "HR16-Player-Punkte-Boykott aktiv: KEIN Player-Punkte-Tipp im Dossier (3/3 verloren am 05.05., Aggregat -7.8% ROI)",
-        "HR19 NBA-Spread-Margen-Risiko: G2 Knicks -6.5 cover gescheitert mit 6 Pkt Sieg (108:102) - 0.5-Pkt-Marge - bei niedriger G2-Marge keine grossen Spreads",
-        "HR21 G2-Reaktions-Spike-Eingrenzung: bei Wurf-Krise eines Teams (Cavs G2 Q4 0/11 von 3pt) Total-Spike-These nicht automatisch - 76ers-Wurf-Form unklar"
+        "HR21 G2-Reaktions-Spike-Eingrenzung: 76ers ohne Embiid haben Wurf-/Volumen-Krisen-Risiko -> Total-Spike-These NICHT automatisch. Total-Tipp daher nur WACKEL"
       ],
       "tipps": [
         {
           "id": "nyk-phi-1",
           "kategorie": "wackel",
-          "markt": "Ueber 211.5 Punkte (Total)",
-          "quote": 1.91,
+          "markt": "Sieg New York Knicks (Moneyline)",
+          "quote": 1.65,
           "edge_prozent": 8.0,
-          "begruendung": "76ers-Heim-Aufhol-Pflicht-Pattern → Tempo-Spike erwartbar (kein Park-the-Bus moeglich, MUSS angreifen). G2 Total war 210 Pkt knapp unter 215.5 - aber ohne Embiid; mit Embiid retour Embiid-Spielzeit + erhoehte Aktivitaet beider Teams = Tor-Spike-These greift. HR21-Eingrenzung: 76ers haben kein Wurf-Krisen-Profil (Maxey solide). Total-Aggregat 'Ueber X Punkte' im NBA-Round-2 stabil, Mapper-Hebel U Reaktions-Spike aktiviert (Heim verlor G1+G2). NBA-Playoffs-Verbot SAFE → max VALUE. Reality-Check: NBA-Round-2-Total-Tipps in 30d 1/3 getroffen aber ROI +56%. Einsatz 1% = 5.50 EUR.",
-          "faire_quote": 1.77,
-          "empfohlener_einsatz_prozent": 1.0
+          "begruendung": "Knicks-ML als VALUE neu eingefuegt nach 76ers-Embiid-OUT-Bestaetigung: Knicks fuehren 2:0, kommen ohne wesentlichen Stamm-Ausfall an (Anunoby + Hart Q aber day-to-day, Brunson + Towns + Bridges fit), 76ers ohne Embiid + ohne Comeback-Mentalitaets-Aussicht. Knicks-Sweep-Chance + 76ers-Star-OUT-Implosions-Risiko HR22 = klare Knicks-Edge. Quote ~1.65 ist Schaetzung (nach Embiid-OUT-News bewegen sich die Linien, bei bet365 LIVE pruefen - kann zwischen 1.55-1.80 liegen). NBA-Playoffs-Verbot SAFE -> max VALUE. Reality-Check: NBA-Round-2-Tipps in 30d Goldgrube-Performance. Einsatz 1.5% = 8.25 EUR. WICHTIG: bei bet365 vor Wette die finale Knicks-ML-Quote pruefen!",
+          "faire_quote": 1.53,
+          "empfohlener_einsatz_prozent": 1.5
         },
         {
           "id": "nyk-phi-2",
           "kategorie": "wackel",
-          "markt": "Sieg Philadelphia 76ers (Moneyline)",
+          "markt": "Unter 211.5 Punkte (Total)",
           "quote": 1.91,
-          "edge_prozent": 5.0,
-          "begruendung": "76ers-Heim @ -1.5 / 1.91 = 0:2-Heim-Aufhol-Pflicht-Pattern historisch ~70% Heim-Reaktions-Sieg, aber Embiid-Status fragil (Knoechel + Hueft questionable). Wenn Embiid OUT haette das Spiel ein Star-OUT-Implosions-Risiko (HR22 Pattern) - bewusst nur WACKEL bis Aufstellungs-Bestaetigung. NBA-Playoffs-Verbot SAFE, hier max wackel weil Star-Status ungewiss. Einsatz 0.5% = 2.75 EUR.",
-          "faire_quote": 1.82,
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "id": "nyk-phi-3",
-          "kategorie": "wackel",
-          "markt": "Knicks Handicap +4.5",
-          "quote": 1.85,
           "edge_prozent": 6.0,
-          "begruendung": "Knicks +4.5 als Schutz-Tipp gegen 76ers-Heim-Reaktion: selbst wenn 76ers gewinnen, ist 5+ Pkt Marge bei verletzungsgeschwaechten Knicks-Bench (Anunoby-Q, Hart-Q) plausibel aber nicht gewiss. HR19 (Margen-Risiko): G1+G2 hatten beide enge Margen (Knicks won 108:102), aehnliche enge Spiele wahrscheinlich. Spread/Handicap-Aggregat: +20.5% ROI / 70% Hit - Goldgrube. Aber NBA-Playoffs-Verbot SAFE → max wackel. Einsatz 0.5% = 2.75 EUR.",
-          "faire_quote": 1.75,
+          "begruendung": "76ers ohne Embiid haben offensives Volumen-Defizit (Embiid 25-30 Pkt-Avg) - Total-Erwartung sinkt. G2 ohne Embiid = 210 Pkt (knapp unter 215.5). Mit Embiid weiter OUT = aehnlicher oder niedrigerer Wert plausibel. Knicks-2:0-Lead-Mentalitaet weniger Wurf-Risiko-Bereitschaft. HR21-Eingrenzung: 76ers haben ohne Embiid Wurf-Krisen-Profil -> Total-Spike-These greift NICHT. Bewusst WACKEL weil Total-Tipps NBA-G3 schwankungsanfaellig. Korrigiert von urspruenglich 'Ueber 211.5' (selbstwidersprueche Embiid-in/out gefixt). Einsatz 0.5% = 2.75 EUR.",
+          "faire_quote": 1.8,
           "empfohlener_einsatz_prozent": 0.5
         }
       ],
-      "kontext_check_status": "WARN_QUELLE"
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-09-min-sas",
@@ -424,11 +415,12 @@
         "parallel_gast": "keine - NBA-Playoff-Conference-Halbfinale-Modus exklusiv",
         "saisonziel_heim": "NBA-Conference-Halbfinale, Serie 1:1 nach G2 95:133-Klatsche - Heim-Comeback-Pflicht aus 38-Pkt-Beat",
         "saisonziel_gast": "NBA-Conference-Halbfinale, Serie 1:1 nach G2-Blowout - Auswaerts-Lead-Holding-Modus, Wemby-Voll-Praesenz",
-        "motivations_asymmetrie": "Klare Wolves-Heim-Reaktions-Druck-Asymmetrie: 95:133 ist 'worst postseason loss in franchise history' (lt. ESPN), Heim-Reaktion 1:1-Match. Edwards muss zurueck in voller Form. HR18 Reaktions-Spike-Pattern: G2-Heim-Verlierer-Wolves muessten G3-Heim Tempo hochfahren - genau das Pattern, das in 04.-05. Spurs-Wolves G2 +22 Pkt Total bewirkte (von 206 G1 auf 228 G2)",
+        "motivations_asymmetrie": "Klare Wolves-Heim-Reaktions-Druck-Asymmetrie: 95:133 ist 'worst postseason loss in franchise history' (lt. ESPN), Heim-Reaktion 1:1-Match. Edwards muss zurueck in voller Form. HR18 Reaktions-Spike-Pattern aktiv (G2-Heim-Verlierer Reaktion historisch stark)",
         "recovery_heim": "2 Tage seit G2-Niederlage (06.05.), Heim-Reise vorbei, voll regeneriert + Reaktions-Wut aktiviert",
         "recovery_gast": "2 Tage seit G2-Sieg (06.05.), Auswaerts-Trip MIN angetreten, Wembanyama gesund (G1+G2 voll gespielt nach April-Concussion)",
         "quellen": [
           "https://www.nba.com/news/2026-nba-playoffs-schedule",
+          "https://www.cbssports.com/nba/news/nba-playoff-winners-and-losers-knicks-76ers-spurs-timberwolves/",
           "https://www.espn.com/nba/story/_/id/48700056/spurs-rebound-game-2-hand-timberwolves-their-worst-postseason-loss-franchise-history",
           "https://sports.yahoo.com/articles/spurs-vs-timberwolves-schedule-dates-183848846.html",
           "https://www.si.com/betting/spurs-vs-timberwolves-opening-odds-for-nba-playoffs-game-3-minnesota-small-underdogs-at-home"
@@ -450,7 +442,7 @@
           "markt": "Sieg Minnesota Timberwolves (Moneyline)",
           "quote": 1.85,
           "edge_prozent": 9.0,
-          "begruendung": "Wolves-Heim-Reaktions-Pattern: nach 95:133 Worst-Loss-in-Franchise-History MUSS das Heim antworten, klassisches Bounce-Back-Setup. Edwards-Form-Druck + Heim-Atmosphaere + Spurs-Reise-Belastung. Bookies sehen Wolves als slight Dog (1.85-1.95) was die Worst-Loss-Reaktion unterbewertet. NBA-Playoffs-Verbot SAFE → max VALUE. HR18-Reaktions-Spike-Pattern aktiv (Heim-G2-Verlierer Reaktion historisch stark). Reality-Check: NBA Round-2 G2-Spiele waren Goldgrube (37.5% Hit / +56.2% ROI), G3-Bounce-Back-Edge erwartet. Einsatz 1% = 5.50 EUR.",
+          "begruendung": "Wolves-Heim-Reaktions-Pattern: nach 95:133 Worst-Loss-in-Franchise-History MUSS das Heim antworten, klassisches Bounce-Back-Setup. Edwards-Form-Druck + Heim-Atmosphaere + Spurs-Reise-Belastung. Bookies sehen Wolves als slight Dog (1.85-1.95) was die Worst-Loss-Reaktion unterbewertet. NBA-Playoffs-Verbot SAFE -> max VALUE. HR18-Reaktions-Spike-Pattern aktiv. Reality-Check: NBA Round-2 G2-Spiele waren Goldgrube (37.5% Hit / +56.2% ROI). Einsatz 1% = 5.50 EUR.",
           "faire_quote": 1.7,
           "empfohlener_einsatz_prozent": 1.0
         },
@@ -460,7 +452,7 @@
           "markt": "Ueber 220.5 Punkte (Total)",
           "quote": 1.91,
           "edge_prozent": 10.0,
-          "begruendung": "HR18-Reaktions-Spike voll aktiv: Wolves-Heim nach 38-Pkt-Klatsche MUSS Tempo hochfahren (kein Park-the-Bus, kein langsames Spiel-Toleranzfenster). Spurs-G2 hatte 133 Pkt - hoechster Wert der Serie - Wemby-Form intakt. Beide Teams haben Top-Wurf-Schuetzen ohne Wurf-Krise (HR21-Eingrenzung erfuellt). G1 = 206 Pkt, G2 = 228 Pkt → G3-Heim-Reaktion ueblich >220 Pkt. Goldgrube G2-Round-2 wirkt fort. Mapper-Hebel U Reaktions-Spike aktiviert. Einsatz 1% = 5.50 EUR.",
+          "begruendung": "HR18-Reaktions-Spike voll aktiv: Wolves-Heim nach 38-Pkt-Klatsche MUSS Tempo hochfahren (kein Park-the-Bus, kein langsames Spiel-Toleranzfenster). Spurs-G2 hatte 133 Pkt - hoechster Wert der Serie - Wemby-Form intakt. Beide Teams haben Top-Wurf-Schuetzen ohne Wurf-Krise (HR21-Eingrenzung erfuellt). G1 = 206 Pkt, G2 = 228 Pkt -> G3-Heim-Reaktion ueblich >220 Pkt. Goldgrube G2-Round-2 wirkt fort. Einsatz 1% = 5.50 EUR.",
           "faire_quote": 1.74,
           "empfohlener_einsatz_prozent": 1.0
         },
@@ -480,22 +472,31 @@
   ],
   "einzeltipps": [
     {
+      "tipp_id": "bvb-fra-1",
+      "spiel_id": "2026-05-08-bvb-fra",
+      "markt": "Borussia Dortmund vs Eintracht Frankfurt: Sieg Borussia Dortmund (90 Min)",
+      "kategorie": "safe",
+      "quote": 1.48,
+      "rang": 1,
+      "empfohlener_einsatz_prozent": 2.0
+    },
+    {
+      "tipp_id": "len-nan-1",
+      "spiel_id": "2026-05-08-len-nan",
+      "markt": "RC Lens vs FC Nantes: Sieg RC Lens (90 Min)",
+      "kategorie": "safe",
+      "quote": 1.45,
+      "rang": 2,
+      "empfohlener_einsatz_prozent": 2.0
+    },
+    {
       "tipp_id": "bvb-fra-2",
       "spiel_id": "2026-05-08-bvb-fra",
       "markt": "Borussia Dortmund vs Eintracht Frankfurt: Serhou Guirassy trifft jederzeit",
       "kategorie": "value",
       "quote": 1.85,
-      "rang": 1,
+      "rang": 3,
       "empfohlener_einsatz_prozent": 2.0
-    },
-    {
-      "tipp_id": "lev-osa-1",
-      "spiel_id": "2026-05-08-lev-osa",
-      "markt": "Levante UD vs CA Osasuna: Ueber 2.5 Tore",
-      "kategorie": "value",
-      "quote": 1.83,
-      "rang": 2,
-      "empfohlener_einsatz_prozent": 1.5
     },
     {
       "tipp_id": "bvb-fra-3",
@@ -503,7 +504,7 @@
       "markt": "Borussia Dortmund vs Eintracht Frankfurt: Ueber 2.5 Tore",
       "kategorie": "value",
       "quote": 1.85,
-      "rang": 3,
+      "rang": 4,
       "empfohlener_einsatz_prozent": 2.0
     },
     {
@@ -512,7 +513,34 @@
       "markt": "RC Lens vs FC Nantes: Odsonne Edouard trifft jederzeit",
       "kategorie": "value",
       "quote": 2.3,
-      "rang": 4,
+      "rang": 5,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "tipp_id": "lev-osa-1",
+      "spiel_id": "2026-05-08-lev-osa",
+      "markt": "Levante UD vs CA Osasuna: Ueber 2.5 Tore",
+      "kategorie": "value",
+      "quote": 1.83,
+      "rang": 6,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "tipp_id": "nyk-phi-1",
+      "spiel_id": "2026-05-09-nyk-phi",
+      "markt": "Philadelphia 76ers vs New York Knicks: Sieg New York Knicks (Moneyline)",
+      "kategorie": "value",
+      "quote": 1.65,
+      "rang": 7,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "tipp_id": "min-sas-1",
+      "spiel_id": "2026-05-09-min-sas",
+      "markt": "Minnesota Timberwolves vs San Antonio Spurs: Sieg Minnesota Timberwolves (Moneyline)",
+      "kategorie": "value",
+      "quote": 1.85,
+      "rang": 8,
       "empfohlener_einsatz_prozent": 1.0
     },
     {
@@ -521,50 +549,14 @@
       "markt": "Minnesota Timberwolves vs San Antonio Spurs: Ueber 220.5 Punkte (Total)",
       "kategorie": "value",
       "quote": 1.91,
-      "rang": 5,
-      "empfohlener_einsatz_prozent": 1.0
-    },
-    {
-      "tipp_id": "min-sas-1",
-      "spiel_id": "2026-05-09-min-sas",
-      "markt": "Minnesota Timberwolves vs San Antonio Spurs: Sieg Minnesota Timberwolves (Moneyline)",
-      "kategorie": "value",
-      "quote": 1.85,
-      "rang": 6,
-      "empfohlener_einsatz_prozent": 1.0
-    },
-    {
-      "tipp_id": "nyk-phi-1",
-      "spiel_id": "2026-05-09-nyk-phi",
-      "markt": "Philadelphia 76ers vs New York Knicks: Ueber 211.5 Punkte (Total)",
-      "kategorie": "value",
-      "quote": 1.91,
-      "rang": 7,
-      "empfohlener_einsatz_prozent": 1.0
-    },
-    {
-      "tipp_id": "len-nan-1",
-      "spiel_id": "2026-05-08-len-nan",
-      "markt": "RC Lens vs FC Nantes: Sieg RC Lens (90 Min)",
-      "kategorie": "value",
-      "quote": 1.45,
-      "rang": 8,
-      "empfohlener_einsatz_prozent": 1.5
-    },
-    {
-      "tipp_id": "bvb-fra-1",
-      "spiel_id": "2026-05-08-bvb-fra",
-      "markt": "Borussia Dortmund vs Eintracht Frankfurt: Sieg Borussia Dortmund (90 Min)",
-      "kategorie": "value",
-      "quote": 1.48,
       "rang": 9,
-      "empfohlener_einsatz_prozent": 2.0
+      "empfohlener_einsatz_prozent": 1.0
     }
   ],
   "kombis": [
     {
       "id": "kombi-safe-2026-05-08",
-      "name": "Safe-Kombi (~4.10x)",
+      "name": "Safe-Kombi (~3.54x)",
       "kategorie": "safe",
       "beine": [
         {
@@ -581,14 +573,15 @@
         },
         {
           "spiel_id": "2026-05-09-nyk-phi",
-          "markt": "Philadelphia 76ers vs New York Knicks: Ueber 211.5 Punkte (Total)",
-          "quote": 1.91,
+          "markt": "Philadelphia 76ers vs New York Knicks: Sieg New York Knicks (Moneyline)",
+          "quote": 1.65,
           "spiel_titel": "Philadelphia 76ers vs New York Knicks"
         }
       ],
-      "gesamt_quote": 4.1,
+      "gesamtquote": 3.54,
+      "rechnung": "1.48 x 1.45 x 1.65 = 3.54",
       "empfohlener_einsatz_prozent": 2.0,
-      "begruendung": "Safe-Kombi nutzt 3 verschiedene Spiele (Layer-1+2+3 OK), HR17-konform: 2 Sieg-Beine + 1 Total-Bein (kein 3x-Sieg-Korrelations-Risiko). BVB-Heim-Vize-Lock-Druck + Lens-Heim-Klassen-Edge + 76ers-Heim-Aufhol-Pflicht-Total-Spike. Quote 4.10 = Stufe-1-Safe-Range (~3-5x). Einsatz 2% Kasse = 11 EUR."
+      "begruendung": "Safe-Kombi mit 3 verschiedenen Spielen (Layer-1+2+3 alle OK): BVB-Heim-Vize-Lock, Lens-Heim-Klassen-Edge, Knicks-Sieg-ML nach Embiid-OUT-News (Quote-Schaetzung 1.65, bei bet365 live pruefen, kann 1.55-1.80 sein). 3 unabhaengige Spiele -> kein Korrelations-Risiko. Quote 3.54 = solide Safe-Range. Einsatz 2% Kasse = 11 EUR."
     },
     {
       "id": "kombi-balance-2026-05-08",
@@ -614,15 +607,22 @@
           "spiel_titel": "Borussia Dortmund vs Eintracht Frankfurt"
         }
       ],
-      "gesamt_quote": 6.26,
+      "gesamtquote": 6.26,
+      "rechnung": "1.85 x 1.83 x 1.85 = 6.26",
       "empfohlener_einsatz_prozent": 0.8,
-      "begruendung": "Balance-Kombi: 3 Beine, 2 neue Spiele (Min-Sas + Lev-Osa) + 1 Markt-entkoppeltes Bein im BVB-Spiel (Guirassy-Spielertor vs BVB-Mannschafts-Sieg in Safe - unterschiedliche Outcomes, kann beides eintreten oder Spielertor ohne Mannschafts-Sieg). HR23-Layer-3-Hinweis: BVB-Spiel doppelt; pragmatisch akzeptiert weil nur 5 Hauptspiele heute verfuegbar und Markt-Entkopplung Sieg vs Torschuetze klar dekoreliert. Quote 6.26 = Stufe-1-Balance-Range (~6-10x). Einsatz 0.8% = 4.40 EUR."
+      "begruendung": "Balance-Kombi: 3 Beine, 2 neue Spiele (Min-Sas + Lev-Osa) + 1 Markt-entkoppeltes Bein im BVB-Spiel (Guirassy-Spielertor vs BVB-Mannschafts-Sieg in Safe = klarer Markt-Wechsel, kann beides ohne Korrelation eintreten). Layer-2 OK (kein Sieg-Outcome 2x), Layer-3 weichgestellt im BVB-Spiel weil Markt-Entkopplung Sieg vs Torschuetze. Quote 6.26 = Balance-Range. Einsatz 0.8% = 4.40 EUR."
     },
     {
       "id": "kombi-risiko-2026-05-08",
-      "name": "Risiko-Kombi (~26.00x)",
+      "name": "Risiko-Kombi (~14.06x)",
       "kategorie": "risk",
       "beine": [
+        {
+          "spiel_id": "2026-05-09-min-sas",
+          "markt": "Minnesota Timberwolves vs San Antonio Spurs: Ueber 220.5 Punkte (Total)",
+          "quote": 1.91,
+          "spiel_titel": "Minnesota Timberwolves vs San Antonio Spurs"
+        },
         {
           "spiel_id": "2026-05-08-bvb-fra",
           "markt": "Borussia Dortmund vs Eintracht Frankfurt: Jonathan Burkardt trifft jederzeit",
@@ -634,23 +634,13 @@
           "markt": "RC Lens vs FC Nantes: Odsonne Edouard trifft jederzeit",
           "quote": 2.3,
           "spiel_titel": "RC Lens vs FC Nantes"
-        },
-        {
-          "spiel_id": "2026-05-09-min-sas",
-          "markt": "Minnesota Timberwolves vs San Antonio Spurs: Ueber 220.5 Punkte (Total)",
-          "quote": 1.91,
-          "spiel_titel": "Minnesota Timberwolves vs San Antonio Spurs"
-        },
-        {
-          "spiel_id": "2026-05-09-nyk-phi",
-          "markt": "Philadelphia 76ers vs New York Knicks: Knicks Handicap +4.5",
-          "quote": 1.85,
-          "spiel_titel": "Philadelphia 76ers vs New York Knicks"
         }
       ],
-      "gesamt_quote": 26.0,
+      "gesamtquote": 14.06,
+      "rechnung": "1.91 x 3.20 x 2.30 = 14.06",
       "empfohlener_einsatz_prozent": 0.25,
-      "begruendung": "Risiko-Kombi: 4 Markt-entkoppelte Beine zu Safe/Balance: Frankfurt-Spielertor (BVB-Spiel, vs BVB-Sieg-Bein in Safe), Lens-Edouard-Tor (Lens-Spiel, vs Lens-Sieg in Safe - Spielertor schwaecher korreliert), Spurs-Wolves Total Ueber (vs Wolves-Sieg in Balance, anderer Markt), Knicks-Spread (vs NYK-Phi-Total in Safe). HR23 mehrfach pragmatisch aufgeweicht via Markt-Entkopplung; alternative ware Skip-Risiko, Vorgabe ist 4 Kombis. Edouard-Tor + Burkardt-Tor sind Goldgrube-Markt-Beine. Quote 26.00 = Stufe-1-Risiko-Range (~15-30x). Einsatz 0.25% = 1.40 EUR."
+      "begruendung": "Risiko-Kombi: 3 Beine, alle Markt-entkoppelt zu Safe/Balance: Min-Sas Total Ueber (vs Wolves-ML in Balance, anderer Markt = Layer-2 OK), Burkardt-Tor (vs BVB-Sieg in Safe + vs Guirassy-Tor in Balance, Layer-1 OK weil andere Kombi und auch im BVB-Spiel ist Burkardt anderer Spieler als Guirassy), Edouard-Tor (vs Lens-Sieg in Safe, anderer Markt). Edouard-Tor + Burkardt-Tor sind Goldgrube-Markt-Beine (Torschuetzen Jederzeit 53.3% Hit / +60.8% ROI). Quote 14.06 = unteres Risiko-Range. Bewusst nur 3 Beine fuer ehrliche Diversifikation - 4. Bein wuerde Layer-2 oder Layer-3 verletzen ohne echten Markt-Wechsel. Einsatz 0.25% = 1.40 EUR.",
+      "diversifikation_check": "Layer-1 OK, Layer-2 OK (kein Sieg-Outcome doppelt), Layer-3 weichgestellt im BVB-Spiel via Markt-Entkopplung Sieg vs Spielertor"
     },
     {
       "id": "kombi-moonshot-2026-05-08",
@@ -671,49 +661,49 @@
         },
         {
           "spiel_id": "2026-05-08-pad-ksc",
-          "markt": "SC Paderborn 07 vs Karlsruher SC: 🔍 Beobachtung - SC Paderborn 07 vs Karlsruher SC: Sieg Karlsruher SC + Beide Teams treffen JA",
+          "markt": "SC Paderborn 07 vs Karlsruher SC: Sieg Karlsruher SC + Beide Teams treffen JA",
           "quote": 6.0,
           "spiel_titel": "SC Paderborn 07 vs Karlsruher SC"
         }
       ],
-      "gesamt_quote": 210.0,
+      "gesamtquote": 210.0,
+      "rechnung": "5.00 x 7.00 x 6.00 = 210.0",
       "empfohlener_einsatz_prozent": 0.1,
-      "begruendung": "Moonshot rebuild nach Mapper-Drop: 3 Beine alle mit Quote >=5 (Moonshot-Beob-Schwelle erfuellt). Guirassy-Doppelpack @ 5.0 als BVB-Form-Edge-Wette (Doppelpack vs Heidenheim zuletzt zeigt Mehrfach-Tor-Tag-Potential). Edouard-2+Tore @ 7.0 als Lens-Heim-Aufgabe vs Nantes-Klassenerhalts-Defensive (Volumen-Stuermer + Backup). Karlsruhe-Auswaerts-Sieg + BTTS-JA in Beob-Spiel @ 6.0 als hoher-Quoten-Beob-Schuss. HR23-Hinweis: BVB + Lens haben je 1 Bein in Safe/Risiko + 1 Extra hier (Markt-Entkopplung 1+ Tor vs 2+ Tore plus Spieler-Markt). Stufe-1-Einsatz 0.1% = 0.55 EUR Spass-Tipp.",
-      "rechnung": "5.00 x 7.00 x 6.00 = 210.0"
+      "begruendung": "Moonshot: 3 Beine alle mit Quote >=5 (Beob-Schwelle erfuellt). Guirassy-Doppelpack @ 5.0 als BVB-Form-Edge-Wette (Doppelpack vs Heidenheim zuletzt zeigt Mehrfach-Tor-Tag-Potential). Edouard-2+Tore @ 7.0 als Lens-Heim-Aufgabe vs Nantes-Klassenerhalts-Defensive (Volumen-Stuermer + Backup). Karlsruhe-Auswaerts-Sieg + BTTS-JA in Beob-Spiel @ 6.0 als hoher-Quoten-Beob-Schuss. Stufe-1-Einsatz 0.1% = 0.55 EUR Spass-Tipp."
     }
   ],
   "lessons_angewandt": [
     {
+      "lesson": "Manuelle Komplett-Reparatur 2026-05-08 nach User-Feedback",
+      "anwendung": "Original-Cloud-Routine-Output enthielt: (1) Hojlund-Halluzination im Frankfurt-Sturm (er spielt fuer ManUtd, nicht Frankfurt - jetzt entfernt), (2) Frankfurt-EU-Status falsch (Conference League QF) - korrigiert zu CL-League-Phase-Ausscheidung Platz 33, (3) 0 SAFE-Tipps trotz BVB+Lens in klarer Heim-Favoriten-Quote (Mapper-Hebel C zu hart bei nicht-Goldgrube-Liga + nicht-Bluter-Liga; jetzt manuell als SAFE gesetzt), (4) gesamtquote-Feld leer in allen Kombis - korrigiert + Rechnung ausgewiesen, (5) Embiid-Status fehlerhaft als 'questionable' obwohl OUT laut nba.com - 76ers-ML-Tipp entfernt, durch Knicks-ML-VALUE ersetzt, Total-Tipp von Ueber auf Unter geaendert (Embiid OUT senkt Total-Erwartung), (6) Layer-2-Verstoesse in Risiko-Kombi (Burkardt + Knicks-Spread doppelt mit anderen Kombis) - Risiko-Kombi auf 3 saubere Beine reduziert."
+    },
+    {
       "lesson": "HR24: Form-Edge-Pflicht-Eingrenzung fuer Torschuetzen-Goldgrube",
-      "anwendung": "Bei BVB-Frankfurt wird Guirassy-Tor (15 BL-Tore + Doppelpack zuletzt vs Heidenheim - 5+ Tore in 10 Spielen UND Volumen-9er mit Backup-Stuermer = 2 von 3 HR24-Bedingungen erfuellt) als VALUE gesetzt. Bei Lens-Nantes Edouard (zentraler 9er mit Volumen-Backup Sotoca/Mota) erfuellt 1 von 3 Bedingungen, daher VALUE. Burkardt + Edouard auch in Goldgrube-Aktiv-Suche."
+      "anwendung": "Bei BVB-Frankfurt wird Guirassy-Tor (Doppelpack zuletzt vs Heidenheim - 5+ Tore in 10 Spielen UND Volumen-9er mit Backup-Stuermer = 2 von 3 HR24-Bedingungen erfuellt) als VALUE gesetzt. Bei Lens-Nantes Edouard (zentraler 9er mit Volumen-Backup Sotoca/Fofana) erfuellt 1 von 3 Bedingungen, daher VALUE."
     },
     {
       "lesson": "HR23: Layer-3-Diversifikation (max 1 Bein pro Spiel ueber alle Kombis)",
-      "anwendung": "Heute nur 5 Hauptspiele verfuegbar (BVB, Levante, Lens, NYK-Phi, Min-Sas) + 3 Beobachtungs-Liga-Spiele. Strikte HR23 ergibt zu wenig Material fuer 4 Kombis. Pragmatisch: Safe nutzt 3 verschiedene Spiele (HR23 OK), Balance + Risiko + Moonshot mit Markt-entkoppelten Doppelungen (Sieg vs Torschuetze, ML vs Total, ML vs Spread). Aufweichung explizit dokumentiert - bei groesserem Spieltag (Sa/So) ist HR23 strikt einhaltbar. Eingrenzung: Nur Outcome-typ-Wechsel (Mannschafts-Sieg <-> Spielertor <-> Total) erlaubt Aufweichung."
+      "anwendung": "Heute nur 5 Hauptspiele verfuegbar (BVB, Levante, Lens, NYK-Phi, Min-Sas) + 3 Beobachtungs-Liga-Spiele. Strikte HR23 ergibt zu wenig Material fuer 4 Kombis. Pragmatisch: Safe nutzt 3 verschiedene Spiele (HR23 OK), Balance + Risiko mit Markt-entkoppelten Doppelungen (Sieg vs Torschuetze, ML vs Total). Aufweichung explizit dokumentiert - bei groesserem Spieltag (Sa/So) ist HR23 strikt einhaltbar."
     },
     {
       "lesson": "HR22: Star-OUT-Aufhol-Pflicht-Implosion-Risiko",
-      "anwendung": "Levante mit Romero (Top-Stuermer) + Carlos Alvarez out + Klassenerhalt-Druck = HR22-aktivierungsfaehig. Daher kein Levante-Sieg-SAFE/VALUE (max wackel @ 2.55), stattdessen Ueber-2.5-VALUE als torreiches Aufhol-Pflicht-Pattern - das funktioniert auch wenn Levante implodiert (Osasuna trifft, Total geht ueber 2.5). 76ers G3: Embiid-Q + 0:2-Heim-Aufhol = aehnliche Falle, bewusst kein Sixers-Sieg-VALUE, Total-Ueber-VALUE als robusteres Pattern."
+      "anwendung": "76ers G3 mit Embiid OUT = klassische Star-OUT-Aufhol-Pflicht-Falle. Daher kein Sixers-Sieg-Tipp, stattdessen Knicks-ML als VALUE (Knicks 2:0 Lead, Embiid OUT, Sweep-Chance). Levante mit Romero (Top-Stuermer) + Carlos Alvarez out + Klassenerhalt-Druck = HR22-aktivierungsfaehig - daher kein Levante-Sieg-SAFE/VALUE (max wackel @ 2.55), stattdessen Ueber-2.5-VALUE als torreiches Aufhol-Pflicht-Pattern."
     },
     {
       "lesson": "HR16: NBA-Player-Punkte-Boykott (Round-Wechsel-Defensiv-Korrektur)",
-      "anwendung": "0 Player-Punkte-Tipps im gesamten Dossier fuer beide NBA-G3-Spiele. Brunson-Punkte-Linie 26.5 reizvoll, aber Aggregat -7.8% ROI (3/3 verloren am 05.05.) → kompletter Verzicht. Auch keine Player-Punkte in Kombis. Stattdessen: Spread, Total, Moneyline."
+      "anwendung": "0 Player-Punkte-Tipps im gesamten Dossier fuer beide NBA-G3-Spiele. Brunson-Punkte-Linie reizvoll, aber Aggregat -7.8% ROI -> kompletter Verzicht. Auch keine Player-Punkte in Kombis."
     },
     {
       "lesson": "HR18 (modifiziert HR21): G2-Reaktions-Spike nur bei beidseitig-gesunden Aufstellungen",
-      "anwendung": "Min-Sas G3: Wolves-Heim nach 95:133-Klatsche = klassisches G2-Reaktions-Spike-Pattern. HR21-Eingrenzung erfuellt: keine Wurf-Krise-Anzeichen bei Wolves (Edwards/Randle/DiVincenzo gesund). Daher Total Ueber 220.5 als VALUE. NYK-Phi G3: Embiid-Q + Anunoby-Q = beidseitige Star-Unsicherheit → HR21-Eingrenzung NICHT voll erfuellt → Total Ueber 211.5 nur leichter VALUE-Edge, nicht volle Spike-These."
+      "anwendung": "Min-Sas G3: Wolves-Heim nach 95:133-Klatsche = klassisches G2-Reaktions-Spike-Pattern. HR21-Eingrenzung erfuellt: keine Wurf-Krise-Anzeichen bei Wolves (Edwards/Randle/DiVincenzo gesund). Daher Total Ueber 220.5 als VALUE. NYK-Phi G3: Embiid OUT = KEINE volle Aufstellung -> HR21 NICHT erfuellt -> Total auf Unter 211.5 (statt urspruenglich Ueber) als WACKEL."
     },
     {
-      "lesson": "HR-Bluter-Liga (Bundesliga ROI -20.5%): Sieg-Tipps in BL als VALUE statt SAFE",
-      "anwendung": "BVB-Sieg @ 1.48 ist klarer Heim-Favorit aber Bundesliga ist 30d-Bluter (-20.5% ROI / 52.4% Hit) und KEINE Goldgrube-Liga (liga_goldgruben listet PL, LaLiga, CL-HF). Mapper-Hebel C downgraded SAFE-DC auf VALUE - hier auch direkter-Sieg-Tipp bewusst als VALUE statt SAFE gesetzt. Stattdessen Goldgrube-Markt-Suche aktiv (Guirassy-Tor + Ueber 2.5)."
-    },
-    {
-      "lesson": "Goldgrube-Markt-Aktiv-Suche (Torschuetzen + Tor-Total)",
-      "anwendung": "Torschuetzen Jederzeit 53.3% / +60.8% ROI: Guirassy + Edouard als VALUE-Tipps, Burkardt als WACKEL-Backup, Guirassy-Doppelpack als Moonshot-Bein. Ueber 2.5 Tore 66.7% / +65.5% ROI: BVB-Frankfurt + Levante-Osasuna VALUE. Doppelte Chance 1X/X2 (~80% Hit / ~+10% ROI) heute NICHT genutzt - keines der Spiele hat klares DC-Profil ohne Sieg-Konflikt."
+      "lesson": "Bluter-Liga + Goldgrube-Markt-Aktiv-Suche",
+      "anwendung": "BL nicht in beobachtungs_ligen.json (Threshold n>=4 fuer Auto-Listing nicht erreicht), daher SAFE-Tipps in BL erlaubt - BVB-Heim @ 1.48 als SAFE eingestuft. Torschuetzen Jederzeit 53.3% / +60.8% ROI: Guirassy + Edouard als VALUE-Tipps, Burkardt als WACKEL-Backup. Ueber 2.5 Tore 66.7% / +65.5% ROI: BVB-Frankfurt + Levante-Osasuna VALUE."
     },
     {
       "lesson": "Beobachtungs-Liga-Filter (2.BL ROI -40%, Serie A ROI -32.5%, NBA-R1-G6 ROI -45.6%)",
-      "anwendung": "3 Spiele heute beobachtungspflichtig (Paderborn-Karlsruhe, K-lautern-Bielefeld, Torino-Sassuolo) - Praefix '🔍 Beobachtung' + max wackel-Tipps + NICHT in einzeltipps oder Safe-/Balance-/Risiko-Kombi, nur Moonshot. Aktuelle NBA-Round-2 NICHT in beobachtungs (nur R1-G6), daher G3-Spiele voll bespielbar. Schmaleres Spielangebot heute (5 Hauptspiele) macht HR23 schwerer einhaltbar - dokumentiert."
+      "anwendung": "3 Spiele heute beobachtungspflichtig (Paderborn-Karlsruhe, K-lautern-Bielefeld, Torino-Sassuolo) - Praefix '🔍 Beobachtung' + max wackel-Tipps + NICHT in einzeltipps oder Safe-/Balance-/Risiko-Kombi, nur Moonshot. Aktuelle NBA-Round-2 NICHT in beobachtungs (nur R1-G6), daher G3-Spiele voll bespielbar."
     }
   ],
   "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700"

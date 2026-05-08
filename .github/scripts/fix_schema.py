@@ -22,6 +22,7 @@ KOMBI_RENAMES = {
     'label': 'kategorie',
     'stufe': 'kategorie',
     'tatsaechliche_quote': 'gesamtquote',
+    'gesamt_quote': 'gesamtquote',  # Underscore-Variante (Routine schreibt mal so, mal so)
     'ziel_quote': None,  # entfernen, redundant
     'einsatz_empfehlung_kasse_prozent': 'empfohlener_einsatz_prozent',
     'einsatz_prozent': 'empfohlener_einsatz_prozent',
@@ -80,8 +81,18 @@ PFLICHT_KONTEXT_FELDER = [
     'recovery_heim',
     'recovery_gast',
 ]
-WETTBEWERB_PATTERNS = ('cl', 'champions', 'el', 'europa', 'conference', 'pokal',
-                       'fa cup', 'coppa', 'copa', 'copa del rey')
+# Wettbewerb-Patterns: nur LANGE/EINDEUTIGE Tokens. Frueher waren 'cl' und 'el'
+# als Substring-Match drin - das traf in deutschen Texten auf 'Spiel', 'Mehl' etc.
+# (08.05.: false positive im NBA-Spiel weil 'el' in 'Spiel' matched). Jetzt nur
+# eindeutige Multi-Char-Tokens, plus die kurzen Tokens nur als Bindestrich-Variante
+# (cl-spiel, el-rueckspiel, cl-quali etc).
+WETTBEWERB_PATTERNS = ('champions league', 'champions-league', 'cl-spiel', 'cl-quali',
+                       'cl-doppelbelastung', 'cl-halbfinale', 'cl-achtelfinale',
+                       'europa league', 'europa-league', 'el-spiel', 'el-quali',
+                       'el-doppelbelastung', 'el-halbfinale', 'el-rueckspiel', 'el-hinspiel',
+                       'conference league', 'conference-league', 'conference-quali',
+                       'dfb-pokal', 'pokal-halbfinale', 'pokal-finale', 'pokal-spiel',
+                       'fa cup', 'coppa italia', 'copa del rey', 'coupe de france')
 # Hosts die als Verband-/Liga-Quelle akzeptiert werden bei Wettbewerbs-Behauptungen.
 # Verbaende (UEFA/FIFA/DFB) + offizielle Liga-Sites + kicker/sofascore/espn als pragmatische
 # Cross-League-Quellen + grosse Klub-Sites.
@@ -402,54 +413,282 @@ def validate_nba_playoff(d):
 
 
 def validate_safe_confirm(d):
-    """ROI-SANIERUNG Hebel C 04.05.2026: SAFE-Label nur wenn Markt-Goldgrube ODER
-    Liga-Goldgrube ODER Liga-Sample zu klein (Datenmangel ist kein Strafgrund).
+    """SAFE-Confirm-Validator (entschaerft 08.05.2026 nach User-Feedback):
+    SAFE-Label bleibt erhalten WENN nicht aktiv negative Signale gegen den Tipp stehen.
 
-    Bilanz Stand 04.05.: SAFE-Hitrate 71.2% statt Soll 75-90%. SAFE-Label wird
-    von der Routine zu locker vergeben. Mapper haerter machen.
+    Vorgaenger-Version (04.05.) war zu hart: SAFE -> VALUE wenn Liga NICHT in
+    liga_goldgruben.json. Effekt: BVB / Lens / Bayern etc. nie SAFE weil ihre Liga
+    nicht in der kleinen Goldgruben-Liste ist (PL/LaLiga/CL-HF/EL-HF/NBA-G2). Das hat
+    bei BVB-Frankfurt 08.05. dazu gefuehrt dass 0 SAFE-Tipps mehr generiert wurden
+    obwohl BVB-Heim @ 1.48 + Lens-Heim @ 1.45 klassische SAFE-Quoten sind.
 
-    Logik:
-    - markt_typ in markt_goldgruben.json -> SAFE bleibt
-    - liga in liga_goldgruben.json -> SAFE bleibt
-    - liga existiert nicht in statistik nach_liga ODER tipps<5 -> SAFE bleibt
-      (Datenmangel - z.B. DFB-Pokal HF mit 4 Tipps und +46% ROI sollen nicht
-      bestraft werden)
-    - sonst: SAFE -> VALUE
+    Neue Logik: SAFE wird auf VALUE downgegradet NUR WENN aktive Negativ-Signale:
+    - Liga in beobachtungs_ligen.json (wirklicher Bluter, schon dort gefiltert)
+      ODER
+    - Markt-Typ in markt_bluter.json (wirklicher Bluter-Markt)
+      ODER
+    - SAFE-Quote zu hoch (>1.65 = unsichere SAFE-Range, normaler SAFE liegt 1.30-1.60)
+      UND
+      keine kompensierenden Goldgrube-Signale (Markt ODER Liga in Goldgrube-Liste)
+    Sonst: SAFE bleibt SAFE.
+
+    Effekt: Heim-Sieg-Tipps in BL/Ligue1/Serie A bei klarer Quote bleiben SAFE.
+    Fragwuerdige SAFEs (z.B. SAFE auf 2.0-Quote in Beobachtungs-Liga) werden weiter
+    ausgefiltert.
     """
+    beob_ligen = set(lade_beobachtungs_ligen())
+    markt_bluter = set(lade_markt_bluter())
     markt_gold = set(lade_markt_goldgruben())
-    liga_gold  = set(lade_liga_goldgruben().keys())
-    liga_stats = lade_liga_stats()
-    # Bootstrap-Sicherheit: wenn ueberhaupt keine Daten ladbar -> Validator passt
-    if not markt_gold and not liga_gold and not liga_stats:
-        return
+    liga_gold = set(lade_liga_goldgruben().keys())
+    SAFE_QUOTEN_FLOOR = 1.65  # SAFE ist normalerweise 1.30-1.60, ueber 1.65 wird's wackelig
+
     downgrades = 0
     for spiel in d.get('spiele', []):
         liga = spiel.get('liga') or ''
-        sid  = spiel.get('id')
+        sid = spiel.get('id')
+        liga_in_beob = liga in beob_ligen or NBA_DECIDER_PATTERN.search(liga)
         for tipp in spiel.get('tipps', []):
             kat = (tipp.get('kategorie') or '').lower()
             if kat != 'safe':
                 continue
             mtyp = markt_typ_pattern(tipp.get('markt') or '')
-            markt_ok = mtyp in markt_gold
-            liga_ok  = liga in liga_gold
-            stats = liga_stats.get(liga) or {}
             try:
-                liga_n = int(stats.get('tipps') or 0)
+                quote = float(tipp.get('quote') or 0)
             except (TypeError, ValueError):
-                liga_n = 0
-            liga_unbekannt = (liga not in liga_stats) or (liga_n < 5)
-            if markt_ok or liga_ok or liga_unbekannt:
+                quote = 0
+            grund = None
+            if liga_in_beob:
+                grund = f"Liga '{liga}' in beobachtungs_ligen"
+            elif mtyp in markt_bluter:
+                grund = f"Markt-Typ '{mtyp}' in markt_bluter"
+            elif quote > SAFE_QUOTEN_FLOOR:
+                # Hohe Quote = SAFE darf nur bestehen wenn kompensierende Goldgrube-Signale
+                hat_goldgrube = (mtyp in markt_gold) or (liga in liga_gold)
+                if not hat_goldgrube:
+                    grund = f"Quote {quote} > {SAFE_QUOTEN_FLOOR} ohne Goldgrube-Kompensation"
+            if not grund:
                 continue
             tipp['kategorie'] = 'value'
             tipp['_safe_confirm_downgrade'] = True
             begr = tipp.get('begruendung') or ''
-            tipp['begruendung'] = (begr + ' [Auto: SAFE-Confirm fehlt - weder Markt- noch Liga-Goldgrube]').strip()
+            tipp['begruendung'] = (begr + f' [Auto: SAFE-Confirm fehlt - {grund}]').strip()
             _sync_einzeltipp_kategorie(d, sid, tipp.get('id'), 'value')
             downgrades += 1
     if downgrades:
         print(f"  SAFE-Confirm Filter: {downgrades} SAFE-Tipps auf VALUE downgegradet "
-              f"(weder Markt-Goldgrube {sorted(markt_gold)} noch Liga-Goldgrube {sorted(liga_gold)})")
+              f"(aktive Negativ-Signale: Beobachtungs-Liga / Markt-Bluter / Quote-Floor)")
+
+
+# =============================================================================
+# Layer-3-Diversifikation + Torschuetzen-Quelle-Validator (08.05.2026)
+# =============================================================================
+
+# HR23 (08.05.): max 1 Bein pro Spiel ueber alle Kombis hinweg.
+# Layer-1 ist innerhalb 1 Kombi, Layer-2 fuer Sieg-Outcomes, Layer-3 ist die strikteste
+# Stufe. Bei Sieg-Outcomes wird hart gedroppt; bei Markt-entkoppelten Doppelungen
+# (Tor + Total + BTTS im selben Spiel ueber verschiedene Kombis) nur WARN, weil
+# bei wenigen Spielen 4 Kombis sonst nicht baubar sind.
+
+SIEG_MARKT_TOKENS = ('sieg', 'moneyline', '(ml)', '1x2',
+                     'doppelte chance', '(1x)', '(x2)', '(12)',
+                     ' 1x', ' x2', ' 12', 'oder unentschieden',
+                     'spread', 'handicap', '1.hz sieger', 'halbzeit-sieger')
+
+
+def _markt_ist_sieg_typ(markt):
+    if not markt:
+        return False
+    m = markt.lower()
+    return any(t in m for t in SIEG_MARKT_TOKENS)
+
+
+def validate_layer3(d):
+    """HR23 Layer-3 hart erzwingen fuer Sieg-Outcomes.
+
+    Bilanz Stand 08.05.: HR23 wurde heute morgen vom Pattern-Hunter generiert,
+    aber das 13:33-Tipps-Routine-Output hatte BVB-Frankfurt-Spiel mit 4 Beinen
+    in 4 Kombis. Routine-Prompt ignoriert die Lesson - Mapper muss zwingen.
+
+    Hart-Mode: Sieg-Outcome (Sieg/DC/Spread/Handicap) eines Spiels darf nur in
+    1 einziger Kombi sein. Doppelte Sieg-Outcomes droppen wir aus der niedriger
+    priorisierten Kombi.
+
+    Soft-Mode: Markt-entkoppelte Doppelungen (Spielertor + Mannschaftssieg in
+    verschiedenen Kombis) bleiben drin, nur WARN. Bei wenigen Spielen ist das
+    unausweichlich.
+    """
+    KAT_PRIO = {'safe': 0, 'balance': 1, 'value': 1, 'wackel': 2, 'risk': 3, 'risiko': 3, 'moonshot': 4}
+    # spiel_id -> [(kombi-Index, bein-Index, kategorie-prio)]
+    sieg_outcome_map = {}
+    kombis = d.get('kombis', [])
+    for ki, k in enumerate(kombis):
+        kat = (k.get('kategorie') or 'value').lower()
+        prio = KAT_PRIO.get(kat, 5)
+        for bi, b in enumerate(k.get('beine', [])):
+            sid = b.get('spiel_id')
+            if not sid:
+                continue
+            if not _markt_ist_sieg_typ(b.get('markt') or ''):
+                continue
+            sieg_outcome_map.setdefault(sid, []).append((ki, bi, prio))
+
+    # Hart-Drop: pro Spiel-ID alle Sieg-Outcomes ausser dem mit hoechster Prio droppen
+    drops = 0
+    for sid, eintraege in sieg_outcome_map.items():
+        if len(eintraege) <= 1:
+            continue
+        # Sortiere nach Kategorie-Prio aufsteigend (safe < value < wackel ...)
+        eintraege_sorted = sorted(eintraege, key=lambda x: x[2])
+        keep_ki = eintraege_sorted[0][0]
+        for ki, bi, _ in eintraege_sorted[1:]:
+            kombi = kombis[ki]
+            beine = kombi.get('beine', [])
+            if bi < len(beine):
+                bein_str = beine[bi].get('markt', '?')
+                kombi_name = kombi.get('name', kombi.get('id', '?'))
+                kept_kombi = kombis[keep_ki].get('name', kombis[keep_ki].get('id', '?'))
+                print(f"  HR23 Layer-3: Sieg-Outcome '{bein_str}' (Spiel {sid}) aus '{kombi_name}' "
+                      f"gedroppt - bleibt nur in '{kept_kombi}' (hoehere Kategorie-Prio)")
+                kombi['beine'] = [b for j, b in enumerate(beine) if j != bi]
+                # Indizes der nachfolgenden Eintraege im selben Kombi anpassen
+                for j, (kj, bj, pj) in enumerate(eintraege_sorted):
+                    if kj == ki and bj > bi:
+                        eintraege_sorted[j] = (kj, bj - 1, pj)
+                drops += 1
+    if drops:
+        print(f"  HR23 Layer-3: {drops} Sieg-Outcome-Doppelungen ueber Kombis hart gedroppt")
+        # Gesamtquote nachziehen passiert in finalize_kombi_quoten() spaeter
+
+    # Soft-WARN: alle Spiele die in mehr als 1 Kombi vorkommen (auch nicht-Sieg)
+    spiel_in_kombis = {}
+    for ki, k in enumerate(kombis):
+        seen = set()
+        for b in k.get('beine', []):
+            sid = b.get('spiel_id')
+            if sid and sid not in seen:
+                spiel_in_kombis.setdefault(sid, 0)
+                spiel_in_kombis[sid] += 1
+                seen.add(sid)
+    for sid, n in spiel_in_kombis.items():
+        if n > 1:
+            print(f"  HR23 Layer-3 WARN: Spiel '{sid}' in {n} Kombis (Markt-entkoppelt - "
+                  f"OK bei wenig Spielen, Routine soll bei groesserem Spieltag strikter sein)")
+
+
+def validate_torschuetze_quelle(d):
+    """Halluzinations-Schutz fuer Spielertor-Tipps (08.05.2026 nach Hojlund-Bug).
+
+    Bilanz Stand 08.05.: Routine erfindet Spieler die NICHT zum Verein gehoeren -
+    klassisch 'Hojlund' im Frankfurt-Sturm (er spielt fuer ManUtd). Mapper kann
+    den Verein nicht selbst pruefen, aber er kann pruefen ob in quellen[] eine
+    Verein-Verifikations-URL steht (transfermarkt, kicker, espn-soccer-team,
+    bundesliga.com player-Seite). Wenn nicht: WARN-Flag setzen + Tipp auf
+    wackel droppen damit er nicht in einzeltipps[] / Hauptkombis steht.
+
+    Quelle-Hosts die als Verein-Verifikation gelten:
+    - transfermarkt.com / .de / .us / .co.uk
+    - kicker.de
+    - espn.com/soccer/team/squad
+    - bundesliga.com/.../player/
+    - en.eintracht.de/squad oder analog
+    - tribuna.com/clubs/.../squad
+    - aiscore.com/team-...
+
+    Hartmode: kein Hard-Drop weil False-Positives moeglich (Quellen koennten
+    indirekt Spieler bestaetigen). Soft: Tipp auf wackel + Flag.
+    """
+    QUELLEN_VEREIN = (
+        'transfermarkt.com', 'transfermarkt.de', 'transfermarkt.us', 'transfermarkt.co.uk',
+        'kicker.de', 'kicker.com',
+        'espn.com/soccer/team', 'espn.co.uk/football/team',
+        'bundesliga.com', 'premierleague.com', 'laliga.com',
+        'eintracht.de/squad', 'fcbayern.com', 'bvb.de', 'cpfc.co.uk', 'manutd.com',
+        'tribuna.com/en/clubs', 'aiscore.com/team', 'goal.com/en/team',
+        'fotmob.com/teams', 'besoccer.com/team',
+    )
+    TORSCHUETZE_TOKENS = ('trifft', 'torschuetz', 'jederzeit tor', 'tor (jederzeit)',
+                          'doppelpack', 'hattrick')
+    downgrades = 0
+    for spiel in d.get('spiele', []):
+        sk = spiel.get('saison_kontext') or {}
+        quellen = sk.get('quellen') or []
+        if not isinstance(quellen, list):
+            quellen = []
+        quellen_str = ' '.join(str(q).lower() for q in quellen)
+        hat_verein_quelle = any(h in quellen_str for h in QUELLEN_VEREIN)
+        if hat_verein_quelle:
+            continue
+        # Keine Verein-Verifikations-Quelle vorhanden - alle Torschuetzen-Tipps in
+        # diesem Spiel werden wackel (kein Halluzinations-Schutz moeglich)
+        sid = spiel.get('id')
+        for tipp in spiel.get('tipps', []):
+            markt = (tipp.get('markt') or '').lower()
+            kat = (tipp.get('kategorie') or '').lower()
+            if kat not in ('safe', 'value'):
+                continue
+            if 'punkte' in markt:  # NBA-Player-Punkte ausnehmen
+                continue
+            if not any(t in markt for t in TORSCHUETZE_TOKENS):
+                continue
+            tipp['kategorie'] = 'wackel'
+            tipp['_torschuetze_quelle_warn'] = True
+            begr = tipp.get('begruendung') or ''
+            tipp['begruendung'] = (begr + ' [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/'
+                                   'espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]').strip()
+            _sync_einzeltipp_kategorie(d, sid, tipp.get('id'), 'wackel')
+            downgrades += 1
+    if downgrades:
+        print(f"  Torschuetze-Quelle-Filter: {downgrades} Torschuetzen-Tipps auf wackel "
+              f"(keine Verein-Verifikations-URL in quellen[] - Halluzinations-Schutz)")
+
+
+def finalize_kombi_quoten(d):
+    """Berechne gesamtquote + rechnung fuer alle Kombis neu falls leer/inkonsistent.
+    Droppe Kombis ohne Beine (z.B. wenn Layer-3 alle Beine entfernt hat).
+
+    Routine schreibt das Feld manchmal als 'gesamt_quote' (Underscore - jetzt via
+    KOMBI_RENAMES gemappt) oder gar nicht. Dieser Validator stellt sicher dass nach
+    allen Validators (die Beine droppen koennen) die finale Quote stimmt UND
+    leere Kombi-Eintraege nicht im UI als Geister-Zeile auftauchen.
+    """
+    fixed = 0
+    kept = []
+    dropped_empty = 0
+    for k in d.get('kombis', []):
+        beine = k.get('beine', [])
+        if not beine:
+            dropped_empty += 1
+            print(f"  Kombi '{k.get('name', k.get('id', '?'))}' gedroppt: keine Beine mehr "
+                  f"(z.B. nach Layer-3-Filter)")
+            continue
+        try:
+            quoten = [float(b.get('quote') or 0) for b in beine]
+            if any(q <= 0 for q in quoten):
+                kept.append(k)  # Quote-Bug - nicht recalculiert aber Kombi bleibt
+                continue
+            neu = 1.0
+            for q in quoten:
+                neu *= q
+            neu = round(neu, 2)
+        except (ValueError, TypeError):
+            kept.append(k)
+            continue
+        alt = k.get('gesamtquote')
+        try:
+            alt_float = float(alt) if alt is not None else None
+        except (ValueError, TypeError):
+            alt_float = None
+        if alt_float is None or abs(alt_float - neu) > 0.05:
+            k['gesamtquote'] = neu
+            quoten_str = ' x '.join(f"{q:.2f}" for q in quoten)
+            k['rechnung'] = f"{quoten_str} = {neu}"
+            fixed += 1
+        kept.append(k)
+    d['kombis'] = kept
+    if fixed:
+        print(f"  Gesamtquote-Auto-Compute: {fixed} Kombis neu berechnet")
+    if dropped_empty:
+        print(f"  Leere Kombis gedroppt: {dropped_empty}")
 
 
 # =============================================================================
@@ -1220,11 +1459,17 @@ def fix(path):
     # zu downgraden.
     validate_nba_playoff(d)
 
-    # SAFE-Confirm-Filter (Hebel C 04.05. ROI-Sanierung):
-    # SAFE-Hitrate war 71.2% statt 75-90%. Mapper bestaetigt SAFE nur wenn Markt-Typ
-    # in markt_goldgruben ODER Liga in liga_goldgruben ODER Liga-Sample <5 (Datenmangel).
-    # Sonst SAFE -> VALUE.
+    # SAFE-Confirm-Filter (Hebel C 04.05. -> entschaerft 08.05. nach User-Feedback):
+    # Vorher: SAFE -> VALUE wenn Liga nicht in liga_goldgruben (zu hart, kastrierte
+    # alle BL/Ligue1/Serie-A SAFEs). Jetzt: SAFE -> VALUE nur bei aktiven
+    # Negativ-Signalen (Liga in beobachtungs_ligen, Markt in markt_bluter, oder
+    # Quote >1.65 ohne Goldgrube-Kompensation).
     validate_safe_confirm(d)
+
+    # Halluzinations-Schutz fuer Torschuetzen-Tipps (08.05. nach Hojlund-Bug):
+    # Tipps auf Spielertor benoetigen Vereins-Verifikations-URL in quellen[]
+    # (transfermarkt/kicker/espn/bundesliga player-Seite). Sonst max wackel.
+    validate_torschuetze_quelle(d)
 
     # Saison-Kontext-Sanity (Hebel S 04.05. ROI-Sanierung):
     # Lehre BMG-BVB + Freiburg-Wolfsburg 03.05.: Routine recherchiert saison_kontext{}
@@ -1379,27 +1624,13 @@ def fix(path):
             except (ValueError, TypeError):
                 pass
 
-    # Layer-2-Diversifikations-Check: zaehle wie oft jedes Spiel in Sieg-Beinen vorkommt
-    # ueber alle Kombis. Wenn ein Spiel-Sieg-Outcome in >2 Kombis steckt, WARN
-    # (nicht hartcoded weil semantisch komplex - Routine soll selbst loesen).
-    sieg_marker = ('sieg', 'moneyline', 'spread', 'handicap', '1x2', 'doppelte chance')
-    spiel_in_sieg_kombis = {}
-    for k in d.get('kombis', []):
-        spiele_in_kombi_sieg = set()
-        for b in k.get('beine', []):
-            sid = b.get('spiel_id')
-            if not sid:
-                continue
-            markt = (b.get('markt') or '').lower()
-            if any(m in markt for m in sieg_marker):
-                spiele_in_kombi_sieg.add(sid)
-        for sid in spiele_in_kombi_sieg:
-            spiel_in_sieg_kombis[sid] = spiel_in_sieg_kombis.get(sid, 0) + 1
-    for sid, n in spiel_in_sieg_kombis.items():
-        if n > 2:
-            print(f"  WARN Layer-2: Spiel-Sieg-Outcome '{sid}' in {n} Kombis - "
-                  f"Diversifikations-Risiko (1 Spiel-Verlust killt {n} Kombis). "
-                  f"Routine soll bei naechstem Lauf andere Markttypen waehlen.")
+    # Layer-3-Diversifikation (HR23 08.05.): Sieg-Outcome max 1 Kombi - hartes Drop
+    # bei Verstoss; Markt-entkoppelte Doppelungen nur WARN.
+    validate_layer3(d)
+
+    # Gesamtquote final berechnen + rechnung fuellen.
+    # Muss als allerletztes laufen, weil alle Validators darueber Beine droppen koennen.
+    finalize_kombi_quoten(d)
 
     # _test_trigger Cleanup
     d.pop('_test_trigger', None)
