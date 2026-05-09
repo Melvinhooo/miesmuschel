@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS = {
+{
   "datum": "2026-05-09",
   "erstellt_am": "2026-05-09T12:30:00+02:00",
   "hinweis": "Watchdog-Recovery 12:30 (Hauptroutine 11:50 nicht gelaufen). 8 Spiele Sa 09.05.: Wolfsburg-Bayern (Anti-Top-Team-Rotation, Bayern CL-Aus 06.05. + Saisonziel durch), 2 BL-Coinflips (Augsburg-Gladbach + Hoffenheim-Bremen), 3 PL Goldgrube-Setups (Liverpool-Chelsea Anfield-Festung, City-Brentford Klassendifferenz, Sunderland-ManU Auswaerts-Fav), 2 LaLiga (Atletico-Celta CL-Quali-Druck + H2H 14 unbesiegt, Sevilla-Espanyol mit Klassenerhalt-Asymmetrie). DC-Cap aktiv: nur 3 SAFE-DC im Dossier (alle PL/LaLiga = Liga-Goldgrube). Kasse 550€, Stufe 1, 1-2% Einzel SAFE/VALUE = 5,50-11€. Quoten via oddschecker/sportsgambler/Wochenend-Vorschau, bei bet365 vor Anstoss live verifizieren.",
@@ -719,4 +718,4 @@ window.__MIESMUSCHEL_TIPPS = {
     "Lesson 04.05.: DC-Cap max 2-3 im Dossier — 3 SAFE-DC eingehalten (Liverpool, City, Atletico). BL-DCs entfernt, durch Sieg-/Torschuetzen-Tipps ersetzt."
   ],
   "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700"
-};
+}
