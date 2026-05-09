@@ -483,6 +483,30 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "HR24: Form-Edge-Pflicht-Eingrenzung fuer Torschuetzen-Goldgrube (Quelle 8c — Markt-Bilanz)",
       "lesson": "GOLDGRUBE-MARKT TORSCHUETZEN-JEDERZEIT (53.3% Hit / +60.8% ROI / n=15) bestaetigt sich weiter — Sarr (9. Conf-Tor in 14 Spielen, 5 Spiele in Folge getroffen) und Watkins (EL-Top-Torschuetze Villa) trafen heute beide. ABER: Mateta (Pfostentreffer + 66. ausgewechselt fuer Strand Larsen, kein Boost) und Grifo (Assist statt Tor, Standardschuetze, kein Volumen-9er) trafen NICHT. Pattern: 'Form-Edge-Pflicht' muss mechanisch eingeengt werden: NUR Goalscorer-Tipps SAFE/VALUE setzen wenn Spieler EINE der drei Bedingungen erfuellt: (a) 4+ Spiele in Folge getroffen, ODER (b) 5+ Tore in den letzten 10 Spielen, ODER (c) klassischer Mittelstuermer mit Volumen-Backup hinter sich (Einwechslungs-Boost). Standardschuetzen/Setpiece-Spezialisten (Grifo, Lijnders-Typ) max WACKEL. Mittelstuermer mit Pfostentreffer-Pech (Mateta) bleiben WACKEL. Aktualisiert HR12 (Joker-Stuermer-Profil).",
       "bezug_spiel_id": "2026-05-07-pal-sha"
+    },
+    {
+      "datum": "2026-05-09",
+      "kategorie": "HR3 + HR12: Einwechslungs-Boost-Schutz nur bei DIREKTEM Ersatz — Squad-Backup-Liste reicht NICHT (Quelle 8i — Boost-Trigger ohne Tipp-Treffer)",
+      "lesson": "BOOST-FALLE LENS-EDOUARD: Edouard-Anytime-Goalscorer @ 2.08 wurde mit 'Sotoca/Sima/Fofana als Backup-Stuermer = Einwechslungs-Boost-Schutz' begruendet. Tatsaechlich: Lens nahm Edouard in Pokal-Final-Schon-Modus AUS, aber das siegbringende Tor erzielte der 16-jaehrige Debuetant Mezian Mesloub - der fuer SIMA reinkam (NICHT fuer Edouard). Boost greift bet365-mechanisch NUR fuer den DIREKTEN Ersatz von X auf der Position. Konsequenz: Bei rotations-gefaehrdeten Top-Stuermern (HR3-Joker) MUSS die Recherche die konkrete Bank-Aufstellung + erwartete Wechsel-Reihenfolge dokumentieren — nicht nur 'es gibt Backup-Stuermer'. Wenn das Team unter Schon-Druck steht (Cup-Finale <14 Tage), Tor-Tipp auf Top-9er max WACKEL, nicht VALUE. HR3 wird verschaerft: bei Cup-Finale-Schon-Risiko KEIN Anytime-Goalscorer-VALUE auf den Top-9er, auch wenn Backup nominal da ist.",
+      "bezug_spiel_id": "2026-05-08-len-nan"
+    },
+    {
+      "datum": "2026-05-09",
+      "kategorie": "HR23: Spielertor-Stack-Korrelation ueber Druck-/Schon-Profile (Quelle 8a — Korrelations-Analyse)",
+      "lesson": "RISIKO-KOMBI 0:3 ALLE TOR-BEINE: Edouard (Lens-Coupe-Schon-Spiel), Burkardt (Frankfurt-Auswaerts-Defensiv-erstickt vom BVB-Heim-Druck), Espi (Levante-Star-OUT-Krise) - drei verschiedene Spiele, drei verschiedene Ligen, aber ALLE in Profilen mit aktivem Druck/Schon-Mechanismus, der Top-Stuermern Spielzeit/Volumen klaut. Layer-1+2-Diversifikation greift hier nicht, weil das gemeinsame Profil 'Druck-/Schon-Spiel' nicht als Layer aufgelistet ist. Neue Mechanik HR23-PROFIL-LAYER: bei Spielertor-Stack-Kombi (3+ Anytime-Goalscorer-Beine) maximal 1 Bein aus einem 'Druck-/Schon-Profil' (HR3-Joker aktiv ODER Klassenerhalt-Star-OUT-HR22 aktiv ODER Heim-Druck-Auswaerts-Defensive-Lock) - die anderen Beine MUESSEN aus stabilen Profilen ohne Druck-/Schon-Trigger kommen. Sonst korreliert der Stack heimlich auf einem Faktor, der nicht als Layer gefuehrt wird.",
+      "bezug_spiel_id": "2026-05-08-len-nan"
+    },
+    {
+      "datum": "2026-05-09",
+      "kategorie": "Beobachtungs-Liga-Bestaetigung 2.BL + Serie A (Quelle 8d — Liga-Performance)",
+      "lesson": "BEOBACHTUNGS-LIGA-LOGIK FUNKTIONIERT: 2.BL Bielefeld-Auswaerts-Sieg @ 2.05 (Bookies-Favorit + Aufwind-Form + Lautern-Verletzungs-Krise) verlor 0:2 - klassischer 2.BL-Bias-Verlust. Serie-A Sassuolo-Sieg @ 2.88 (Topform + Conference-Hoffnung + Torino 6 Verletzte inkl. beide Stamm-Stuermer) verlor 1:2 in Rimonta. Beide Beobachtungs-Ligen lieferten den 4. + 5. Bias-Verlust am Stueck — Filter 'max wackel + nicht in Hauptkombis' war heute korrekt und sparte ~14 EUR (haetten als VALUE/SAFE 4-7% Kasse gekostet). Erweiterung der Regel: Wenn Beobachtungs-Liga 6+ aufeinanderfolgende Bias-Verluste produziert (= Bookies-Favorit-Logik systematisch falsch), Liga-Hard-Block aktivieren (NUR Moonshot-Beine ab Quote 5, KEIN normaler wackel-Tipp mehr). Nach +14 Bookies-Favorit-Niederlagen-Streak zaehlt 'Edge-Story' nicht mehr.",
+      "bezug_spiel_id": "2026-05-08-kai-bie"
+    },
+    {
+      "datum": "2026-05-09",
+      "kategorie": "HR18 + HR21: Reaktions-Spike-Deaktivierung bei Gegner-Star in historischer Form (Quelle 8h — Rotation/Form-Pattern)",
+      "lesson": "WOLVES-G3-REAKTIONS-SPIKE-NIEDERLAGE: nach 95-133-Worst-Loss-in-Franchise-History-Klatsche war Wolves-Heim-ML @ 2.64 als HR18-Reaktions-Spike-VALUE gesetzt. Wolves verloren 108-115 trotz Edwards 32/14/6 weil Wembanyama 39 Pkt + 15 Reb + 5 Blk lieferte (4. Spieler aller Zeiten mit 35/15/5+ in einem Playoff-Spiel, neben Shaq/Kareem/Olajuwon). Lesson: Reaktions-Spike-These (HR18) ist eine *Heim-Faktor-These*, aber Gegner-Star in historischer Form ueberlagert sie. Neue Eingrenzung HR21+: Reaktions-Spike-VALUE NUR setzen wenn (a) Gegner-Top-Star NICHT in den letzten 2 Spielen jeweils 35+/15+ ODER 12+ Blk geliefert hat UND (b) Heim-Star (Edwards) ohne Knee-Strain-Risiko ist. Sonst max WACKEL. Triple-Bestaetigung mit Mainz-Bayern (CL-Last) und Cavs-Strus-Wurf-Krise: HR18 ist nicht universell, sondern braucht Gegner-Form-Filter.",
+      "bezug_spiel_id": "2026-05-09-min-sas"
     }
   ]
 };

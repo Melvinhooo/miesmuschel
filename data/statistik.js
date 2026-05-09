@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-05-08T15:26:26+02:00",
+  "letzte_berechnung": "2026-05-09T06:09:39+00:00",
   "gesamt": {
-    "tipps": 165,
-    "gewonnen": 98,
-    "verloren": 67,
+    "tipps": 176,
+    "gewonnen": 104,
+    "verloren": 72,
     "push": 0,
     "offen": 0,
-    "einsatz": 165.0,
-    "netto": 17.4,
-    "trefferquote": 59.4,
-    "roi_prozent": 10.5
+    "einsatz": 176.0,
+    "netto": 27.59,
+    "trefferquote": 59.1,
+    "roi_prozent": 15.7
   },
   "letzte_30_tage": {
-    "tipps": 165,
-    "gewonnen": 98,
-    "verloren": 67,
+    "tipps": 176,
+    "gewonnen": 104,
+    "verloren": 72,
     "push": 0,
     "offen": 0,
-    "einsatz": 165.0,
-    "netto": 17.4,
-    "trefferquote": 59.4,
-    "roi_prozent": 10.5
+    "einsatz": 176.0,
+    "netto": 27.59,
+    "trefferquote": 59.1,
+    "roi_prozent": 15.7
   },
   "letzte_90_tage": {
-    "tipps": 165,
-    "gewonnen": 98,
-    "verloren": 67,
+    "tipps": 176,
+    "gewonnen": 104,
+    "verloren": 72,
     "push": 0,
     "offen": 0,
-    "einsatz": 165.0,
-    "netto": 17.4,
-    "trefferquote": 59.4,
-    "roi_prozent": 10.5
+    "einsatz": 176.0,
+    "netto": 27.59,
+    "trefferquote": 59.1,
+    "roi_prozent": 15.7
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -69,26 +69,26 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -9.5
     },
     "LaLiga": {
-      "tipps": 18,
-      "gewonnen": 13,
-      "verloren": 5,
+      "tipps": 20,
+      "gewonnen": 14,
+      "verloren": 6,
       "push": 0,
       "offen": 0,
-      "einsatz": 18.0,
-      "netto": 0.26,
-      "trefferquote": 72.2,
-      "roi_prozent": 1.4
+      "einsatz": 20.0,
+      "netto": 2.21,
+      "trefferquote": 70.0,
+      "roi_prozent": 11.1
     },
     "Bundesliga": {
-      "tipps": 21,
-      "gewonnen": 11,
-      "verloren": 10,
+      "tipps": 25,
+      "gewonnen": 14,
+      "verloren": 11,
       "push": 0,
       "offen": 0,
-      "einsatz": 21.0,
-      "netto": -4.3,
-      "trefferquote": 52.4,
-      "roi_prozent": -20.5
+      "einsatz": 25.0,
+      "netto": 0.57,
+      "trefferquote": 56.0,
+      "roi_prozent": 2.3
     },
     "Serie A": {
       "tipps": 4,
@@ -135,15 +135,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 26.5
     },
     "Ligue 1": {
-      "tipps": 2,
-      "gewonnen": 0,
-      "verloren": 2,
+      "tipps": 5,
+      "gewonnen": 1,
+      "verloren": 4,
       "push": 0,
       "offen": 0,
-      "einsatz": 2.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -50.0
+      "einsatz": 5.0,
+      "netto": 0.42,
+      "trefferquote": 20.0,
+      "roi_prozent": 8.4
     },
     "FA Cup Halbfinale": {
       "tipps": 1,
@@ -309,6 +309,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 8.98,
       "trefferquote": 83.3,
       "roi_prozent": 149.7
+    },
+    "NBA Playoffs Round 2, Game 3": {
+      "tipps": 2,
+      "gewonnen": 1,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 1.95,
+      "trefferquote": 50.0,
+      "roi_prozent": 97.5
     }
   },
   "nach_markt": {
@@ -1479,15 +1490,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -100.0
     },
     "Ueber 2.5 Tore": {
-      "tipps": 3,
-      "gewonnen": 3,
-      "verloren": 0,
+      "tipps": 6,
+      "gewonnen": 5,
+      "verloren": 1,
       "push": 0,
       "offen": 0,
-      "einsatz": 3.0,
-      "netto": 4.23,
-      "trefferquote": 100.0,
-      "roi_prozent": 141.0
+      "einsatz": 6.0,
+      "netto": 7.58,
+      "trefferquote": 83.3,
+      "roi_prozent": 126.3
     },
     "Unter 3.5 Tore": {
       "tipps": 3,
@@ -1721,15 +1732,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 0.0
     },
     "Sieg New York Knicks (Moneyline)": {
-      "tipps": 1,
-      "gewonnen": 1,
+      "tipps": 2,
+      "gewonnen": 2,
       "verloren": 0,
       "push": 0,
       "offen": 0,
-      "einsatz": 1.0,
-      "netto": 1.37,
+      "einsatz": 2.0,
+      "netto": 3.32,
       "trefferquote": 100.0,
-      "roi_prozent": 137.0
+      "roi_prozent": 166.0
     },
     "Knicks Handicap -6.5 (Spread)": {
       "tipps": 1,
@@ -1862,6 +1873,83 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.0,
       "trefferquote": 0.0,
       "roi_prozent": 0.0
+    },
+    "Sieg Borussia Dortmund (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.62,
+      "trefferquote": 100.0,
+      "roi_prozent": 162.0
+    },
+    "Serhou Guirassy trifft jederzeit": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.85,
+      "trefferquote": 100.0,
+      "roi_prozent": 185.0
+    },
+    "Odsonne Edouard trifft jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Sieg RC Lens (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.42,
+      "trefferquote": 100.0,
+      "roi_prozent": 142.0
+    },
+    "Sieg Minnesota Timberwolves (Moneyline)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Jonathan Burkardt trifft jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Carlos Espí trifft jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt_typ": {
@@ -1910,26 +1998,26 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 55.0
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 56,
-      "gewonnen": 34,
-      "verloren": 22,
+      "tipps": 60,
+      "gewonnen": 37,
+      "verloren": 23,
       "push": 0,
       "offen": 0,
-      "einsatz": 56.0,
-      "netto": 5.2,
-      "trefferquote": 60.7,
-      "roi_prozent": 9.3
+      "einsatz": 60.0,
+      "netto": 10.19,
+      "trefferquote": 61.7,
+      "roi_prozent": 17.0
     },
     "Torschuetzen Jederzeit": {
-      "tipps": 15,
-      "gewonnen": 8,
-      "verloren": 7,
+      "tipps": 19,
+      "gewonnen": 9,
+      "verloren": 10,
       "push": 0,
       "offen": 0,
-      "einsatz": 15.0,
-      "netto": 9.12,
-      "trefferquote": 53.3,
-      "roi_prozent": 60.8
+      "einsatz": 19.0,
+      "netto": 10.97,
+      "trefferquote": 47.4,
+      "roi_prozent": 57.7
     },
     "Unter 2.5 Tore": {
       "tipps": 7,
@@ -1965,15 +2053,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 9.4
     },
     "Ueber 2.5 Tore": {
-      "tipps": 6,
-      "gewonnen": 4,
-      "verloren": 2,
+      "tipps": 9,
+      "gewonnen": 6,
+      "verloren": 3,
       "push": 0,
       "offen": 0,
-      "einsatz": 6.0,
-      "netto": 3.93,
+      "einsatz": 9.0,
+      "netto": 7.28,
       "trefferquote": 66.7,
-      "roi_prozent": 65.5
+      "roi_prozent": 80.9
     },
     "Beide Teams treffen JA": {
       "tipps": 3,
@@ -2220,83 +2308,83 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 79,
-      "gewonnen": 40,
+      "tipps": 83,
+      "gewonnen": 44,
       "verloren": 39,
       "push": 0,
       "offen": 0,
-      "einsatz": 79.0,
-      "netto": 5.09,
-      "trefferquote": 50.6,
-      "roi_prozent": 6.4
+      "einsatz": 83.0,
+      "netto": 12.46,
+      "trefferquote": 53.0,
+      "roi_prozent": 15.0
     },
     "2.00-3.00": {
-      "tipps": 18,
+      "tipps": 20,
       "gewonnen": 10,
-      "verloren": 8,
+      "verloren": 10,
       "push": 0,
       "offen": 0,
-      "einsatz": 18.0,
+      "einsatz": 20.0,
       "netto": 6.64,
-      "trefferquote": 55.6,
-      "roi_prozent": 36.9
+      "trefferquote": 50.0,
+      "roi_prozent": 33.2
     },
     "1.00-1.50": {
-      "tipps": 62,
-      "gewonnen": 46,
-      "verloren": 16,
+      "tipps": 65,
+      "gewonnen": 48,
+      "verloren": 17,
       "push": 0,
       "offen": 0,
-      "einsatz": 62.0,
-      "netto": 3.22,
-      "trefferquote": 74.2,
-      "roi_prozent": 5.2
+      "einsatz": 65.0,
+      "netto": 6.04,
+      "trefferquote": 73.8,
+      "roi_prozent": 9.3
     },
     "3.00+": {
-      "tipps": 6,
+      "tipps": 8,
       "gewonnen": 2,
-      "verloren": 4,
+      "verloren": 6,
       "push": 0,
       "offen": 0,
-      "einsatz": 6.0,
+      "einsatz": 8.0,
       "netto": 2.45,
-      "trefferquote": 33.3,
-      "roi_prozent": 40.8
+      "trefferquote": 25.0,
+      "roi_prozent": 30.6
     }
   },
   "nach_kategorie": {
     "safe": {
-      "tipps": 54,
-      "gewonnen": 39,
+      "tipps": 55,
+      "gewonnen": 40,
       "verloren": 15,
       "push": 0,
       "offen": 0,
-      "einsatz": 54.0,
-      "netto": -0.77,
-      "trefferquote": 72.2,
-      "roi_prozent": -1.4
+      "einsatz": 55.0,
+      "netto": 0.85,
+      "trefferquote": 72.7,
+      "roi_prozent": 1.5
     },
     "value": {
-      "tipps": 94,
-      "gewonnen": 50,
-      "verloren": 44,
+      "tipps": 102,
+      "gewonnen": 55,
+      "verloren": 47,
       "push": 0,
       "offen": 0,
-      "einsatz": 94.0,
-      "netto": 11.11,
-      "trefferquote": 53.2,
-      "roi_prozent": 11.8
+      "einsatz": 102.0,
+      "netto": 19.68,
+      "trefferquote": 53.9,
+      "roi_prozent": 19.3
     },
     "wackel": {
-      "tipps": 17,
+      "tipps": 19,
       "gewonnen": 9,
-      "verloren": 8,
+      "verloren": 10,
       "push": 0,
       "offen": 0,
-      "einsatz": 17.0,
+      "einsatz": 19.0,
       "netto": 7.06,
-      "trefferquote": 52.9,
-      "roi_prozent": 41.5
+      "trefferquote": 47.4,
+      "roi_prozent": 37.2
     }
   },
   "clv_gesamt": {
@@ -2316,6 +2404,265 @@ window.__MIESMUSCHEL_STAT = {
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-05-08",
+      "gesamt": {
+        "tipps": 11,
+        "gewonnen": 6,
+        "verloren": 5,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 11.0,
+        "netto": 10.19,
+        "trefferquote": 54.5,
+        "roi_prozent": 92.6
+      },
+      "spiele": [
+        {
+          "id": "2026-05-08-bvb-fra",
+          "liga": "Bundesliga",
+          "heim": "Borussia Dortmund",
+          "gast": "Eintracht Frankfurt",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Sieg Borussia Dortmund (90 Min)",
+              "quote": 1.62,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.62,
+              "kommentar": "BVB-Sieg 3:2 - Heim-Vize-Lock geliefert. 2:0-Insurance NICHT gegriffen (BVB nie 2 Tore Vorsprung)."
+            },
+            {
+              "markt": "Serhou Guirassy trifft jederzeit",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.85,
+              "kommentar": "Guirassy traf in der 42. Minute zum 1:1."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.4,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.4,
+              "kommentar": "5 Tore - klar ueber 2.5."
+            },
+            {
+              "markt": "Jonathan Burkardt trifft jederzeit",
+              "quote": 3.2,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Burkardt traf nicht; keine bestaetigte Auswechslung mit Ersatz-Tor (Frankfurt-Tore von Uzun + Bahoya)."
+            }
+          ]
+        },
+        {
+          "id": "2026-05-08-lev-osa",
+          "liga": "LaLiga",
+          "heim": "Levante UD",
+          "gast": "CA Osasuna",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.95,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.95,
+              "kommentar": "5 Tore - Ueber 2.5 klar."
+            },
+            {
+              "markt": "Carlos Espí trifft jederzeit",
+              "quote": 3.4,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Carlos Espí traf nicht - Levante-Tore von Toljan-OG (Osasuna) + Víctor García (2x) + Etta Eyong."
+            }
+          ]
+        },
+        {
+          "id": "2026-05-08-len-nan",
+          "liga": "Ligue 1",
+          "heim": "RC Lens",
+          "gast": "FC Nantes",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Sieg RC Lens (90 Min)",
+              "quote": 1.42,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.42,
+              "kommentar": "Lens-Heim-Sieg 1:0 - HR3-Doppelbelastungs-Joker-Degradierung war konservativ richtig (Quote held), Sieg dennoch geliefert."
+            },
+            {
+              "markt": "Odsonne Edouard trifft jederzeit",
+              "quote": 2.08,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Edouard traf nicht; Edouard wurde laut Berichten ausgewechselt (79.), aber das einzige Lens-Tor erzielte Mezian Mesloub als Ersatz fuer Sima (NICHT fuer Edouard) - Einwechslungs-Boost greift NICHT."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.49,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Nur 1 Tor (Mesloub 79.) - klar Unter 2.5, Ueber 2.5 verloren."
+            }
+          ]
+        },
+        {
+          "id": "2026-05-09-nyk-phi",
+          "liga": "NBA Playoffs Round 2, Game 3",
+          "heim": "Philadelphia 76ers",
+          "gast": "New York Knicks",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Sieg New York Knicks (Moneyline)",
+              "quote": 1.95,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.95,
+              "kommentar": "Knicks ML 108-94 gewonnen - 3-0 Lead in Serie, Brunson 33 Pkt + Bridges 23."
+            }
+          ]
+        },
+        {
+          "id": "2026-05-09-min-sas",
+          "liga": "NBA Playoffs Round 2, Game 3",
+          "heim": "Minnesota Timberwolves",
+          "gast": "San Antonio Spurs",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Sieg Minnesota Timberwolves (Moneyline)",
+              "quote": 2.64,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Wolves verloren 108-115 - Reaktions-Spike-These nicht ausreichend, Wembanyama 39/15/5 dominant."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi (~4.50x)",
+          "kategorie": "safe",
+          "gesamtquote": 4.49,
+          "einsatz_prozent": 2.0,
+          "status": "gewonnen",
+          "beine": [
+            {
+              "markt": "Borussia Dortmund vs Eintracht Frankfurt: Sieg Borussia Dortmund (90 Min)",
+              "quote": 1.62,
+              "status": "gewonnen",
+              "kommentar": "BVB-Sieg 3:2 - Heim-Vize-Lock geliefert. 2:0-Insurance NICHT gegriffen (BVB nie 2 Tore Vorsprung)."
+            },
+            {
+              "markt": "RC Lens vs FC Nantes: Sieg RC Lens (90 Min)",
+              "quote": 1.42,
+              "status": "gewonnen",
+              "kommentar": "Lens-Heim-Sieg 1:0 - HR3-Doppelbelastungs-Joker-Degradierung war konservativ richtig (Quote held), Sieg dennoch geliefert."
+            },
+            {
+              "markt": "Philadelphia 76ers vs New York Knicks: Sieg New York Knicks (Moneyline)",
+              "quote": 1.95,
+              "status": "gewonnen",
+              "kommentar": "Knicks ML 108-94 gewonnen - 3-0 Lead in Serie, Brunson 33 Pkt + Bridges 23."
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi (~9.52x)",
+          "kategorie": "balance",
+          "gesamtquote": 9.52,
+          "einsatz_prozent": 0.8,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Minnesota Timberwolves vs San Antonio Spurs: Sieg Minnesota Timberwolves (Moneyline)",
+              "quote": 2.64,
+              "status": "verloren",
+              "kommentar": "Wolves verloren 108-115 - Reaktions-Spike-These nicht ausreichend, Wembanyama 39/15/5 dominant."
+            },
+            {
+              "markt": "Levante UD vs CA Osasuna: Ueber 2.5 Tore",
+              "quote": 1.95,
+              "status": "gewonnen",
+              "kommentar": "5 Tore - Ueber 2.5 klar."
+            },
+            {
+              "markt": "Borussia Dortmund vs Eintracht Frankfurt: Serhou Guirassy trifft jederzeit",
+              "quote": 1.85,
+              "status": "gewonnen",
+              "kommentar": "Guirassy traf in der 42. Minute zum 1:1."
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi (~22.63x)",
+          "kategorie": "risk",
+          "gesamtquote": 22.63,
+          "einsatz_prozent": 0.25,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "RC Lens vs FC Nantes: Odsonne Edouard trifft jederzeit",
+              "quote": 2.08,
+              "status": "verloren",
+              "kommentar": "Edouard traf nicht; Edouard wurde laut Berichten ausgewechselt (79.), aber das einzige Lens-Tor erzielte Mezian Mesloub als Ersatz fuer Sima (NICHT fuer Edouard) - Einwechslungs-Boost greift NICHT."
+            },
+            {
+              "markt": "Borussia Dortmund vs Eintracht Frankfurt: Jonathan Burkardt trifft jederzeit",
+              "quote": 3.2,
+              "status": "verloren",
+              "kommentar": "Burkardt traf nicht; keine bestaetigte Auswechslung mit Ersatz-Tor (Frankfurt-Tore von Uzun + Bahoya)."
+            },
+            {
+              "markt": "Levante UD vs CA Osasuna: Carlos Espí trifft jederzeit",
+              "quote": 3.4,
+              "status": "verloren",
+              "kommentar": "Carlos Espí traf nicht - Levante-Tore von Toljan-OG (Osasuna) + Víctor García (2x) + Etta Eyong."
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi (~211.75x)",
+          "kategorie": "moonshot",
+          "gesamtquote": 211.75,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Borussia Dortmund vs Eintracht Frankfurt: Serhou Guirassy 2+ Tore (Doppelpack)",
+              "quote": 5.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "RC Lens vs FC Nantes: Odsonne Edouard 2+ Tore",
+              "quote": 7.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "1. FC Kaiserslautern vs DSC Arminia Bielefeld: Kaiserslautern vs Bielefeld: Bielefeld-Sieg + Beide Teams treffen",
+              "quote": 5.5,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-05-07",
       "gesamt": {
