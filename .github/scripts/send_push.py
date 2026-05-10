@@ -8,6 +8,7 @@ Aufruf:
   python send_push.py auswertung   # Push fuer Tages-Auswertung
   python send_push.py wochenende   # Push fuer Wochenend-Vorschau
   python send_push.py woche        # Push fuer Wochen-Vorschau
+  python send_push.py maintenance  # Health-Report (Body via Env MAINTENANCE_BODY)
 """
 import os, sys, json, glob
 from pywebpush import webpush, WebPushException
@@ -167,6 +168,21 @@ def build_auswertung_payload():
     }
 
 
+def build_maintenance_payload():
+    """Health-Report Push fuer wöchentliche Maintenance-Routine.
+    Body wird per Env MAINTENANCE_BODY uebergeben (gekuerzt auf 200 Zeichen)."""
+    body = os.environ.get('MAINTENANCE_BODY', '').strip()
+    if not body:
+        body = 'Maintenance OK'
+    if len(body) > 200:
+        body = body[:197] + '...'
+    return {
+        'title': '🐚 Maintenance-Report',
+        'body': body,
+        'tag': 'miesmuschel-maintenance',
+    }
+
+
 def main():
     mode = sys.argv[1] if len(sys.argv) > 1 else 'tipps'
     print(f"Mode: {mode}")
@@ -177,6 +193,8 @@ def main():
         payload_dict = build_wochenende_payload()
     elif mode == 'woche':
         payload_dict = build_woche_payload()
+    elif mode == 'maintenance':
+        payload_dict = build_maintenance_payload()
     else:
         payload_dict = build_tipps_payload()
 
