@@ -42,16 +42,6 @@
           "empfohlener_einsatz_prozent": 2.0
         },
         {
-          "id": "wob-bay-2",
-          "kategorie": "wackel",
-          "markt": "Olise (Bayern) trifft jederzeit",
-          "quote": 3.1,
-          "edge_prozent": 10,
-          "begruendung": "Backup-Stuermer-These bei UEFA-Doppelbelastung (Lessons 27.04. + 04.05. HR3): Olise hat 7 von 12 letzten Pflichtspielen 30+ Min, bei CL-HF-Rotation kommt er als Joker rein. Boost-Mechanik (bet365): wenn Kane ausgewechselt wird und Olise trifft, zaehlt der Tipp ueber bet365-Auswechslungs-Boost. Goldgrube-Markt 'Torschuetzen Jederzeit' (50% Hit / +24.4% ROI). Einsatz 0,5% = 2,75€.",
-          "faire_quote": 2.82,
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
           "id": "wob-bay-3",
           "kategorie": "wackel",
           "markt": "Wolfsburg Sieg",
@@ -100,16 +90,6 @@
           "empfohlener_einsatz_prozent": 1.5
         },
         {
-          "id": "fca-bmg-2",
-          "kategorie": "wackel",
-          "markt": "Tabakovic (Gladbach) trifft jederzeit",
-          "quote": 4.2,
-          "edge_prozent": 6,
-          "begruendung": "Backup-Stuermer-Form (Lesson 04.05. Goldgrube Torschuetzen Jederzeit +24.4% ROI). Tabakovic hat in den letzten 5 Spielen 2 Tore inkl. Game-Winner BVB. Boost-Setup ueber bet365 wenn er ausgewechselt wird. Einsatz 0,5% = 2,75€.",
-          "faire_quote": 3.96,
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
           "id": "fca-bmg-3",
           "kategorie": "wackel",
           "markt": "Augsburg Sieg",
@@ -148,16 +128,6 @@
         "2:0-Insurance gilt (BL-Spiel) — Hoffenheim-Sieg-Tipp abgesichert ab 2:0+ Fuehrung"
       ],
       "tipps": [
-        {
-          "id": "tsg-svw-1",
-          "kategorie": "value",
-          "markt": "Kramaric (Hoffenheim) trifft jederzeit",
-          "quote": 2.8,
-          "edge_prozent": 11,
-          "begruendung": "Goldgrube Torschuetzen Jederzeit +24.4% ROI. Kramaric Form-Edge: 3 Tore in 4 Spielen, davon 2 zuhause. Stamm-Stuermer Pflichtcheck (Lesson 03.05.) — Kramaric voll fit + Startelf wahrscheinlich. Bremen-Defense wackelig (8 Gegentore in 4 Spielen). PFLICHT gemaess Lesson 04.05. PFLICHT-PROFILE Heim-Favorit. Einsatz 1.5% = 8,25€.",
-          "faire_quote": 2.52,
-          "empfohlener_einsatz_prozent": 1.5
-        },
         {
           "id": "tsg-svw-2",
           "kategorie": "value",
@@ -219,16 +189,6 @@
           "empfohlener_einsatz_prozent": 1.5
         },
         {
-          "id": "liv-che-2",
-          "kategorie": "value",
-          "markt": "Salah (Liverpool) trifft jederzeit",
-          "quote": 1.85,
-          "edge_prozent": 14,
-          "begruendung": "Goldgrube Torschuetzen Jederzeit (+24.4% ROI). Salah-Form 4/5, Heim-Stamm, Anfield-Auswaerts-Schwaeche von Chelsea. PFLICHT gemaess Lesson 04.05. PFLICHT-PROFILE (Heim-Sieg-Quote < 1.80 = Torschuetzen-Tipp Pflicht). Einsatz 1.5% = 8,25€.",
-          "faire_quote": 1.62,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
           "id": "liv-che-3",
           "kategorie": "value",
           "markt": "Liverpool Sieg",
@@ -267,16 +227,6 @@
         "Brentford Auswaerts mit 4 Niederlagen in 5"
       ],
       "tipps": [
-        {
-          "id": "mci-bre-1",
-          "kategorie": "safe",
-          "markt": "Haaland (City) trifft jederzeit",
-          "quote": 1.5,
-          "edge_prozent": 18,
-          "begruendung": "Goldgrube-Pflicht (Lesson 04.05. PFLICHT-PROFILE Heim-Favorit < 1.80): Top-Stuermer-Form-Edge 5/5 + Klassendifferenz-Heim. Markt-Goldgrube Torschuetzen Jederzeit (50%/+24.4%). Stamm-Stuermer voll fit. Einsatz 1.5% = 8,25€.",
-          "faire_quote": 1.27,
-          "empfohlener_einsatz_prozent": 1.5
-        },
         {
           "id": "mci-bre-2",
           "kategorie": "safe",
@@ -337,16 +287,6 @@
           "begruendung": "Auswaerts-Form 3/5 + Saisonziel-Druck + Sunderland-Heim-Wackel. PL Liga-Goldgrube. Direkter Sieg-Tipp — keine 2:0-Insurance in PL aber Klassendifferenz-Edge ueber 90 Min sollte halten. Einsatz 1.5% = 8,25€.",
           "faire_quote": 1.71,
           "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "sun-mun-2",
-          "kategorie": "value",
-          "markt": "Mbeumo (Manchester United) trifft jederzeit",
-          "quote": 2.8,
-          "edge_prozent": 10,
-          "begruendung": "STAR-AUSFALL-PROTOKOLL (Lesson 04.05.): Sesko angeschlagen, Mbeumo wahrscheinlich Startelf als Stuermer. Mbeumo hat Saison-Tor-Volumen (Goldgrube Torschuetzen Jederzeit +24.4% ROI). Backup-Pflicht-Tipp bei Star-Ausfall. bet365-Einwechslungs-Boost-Schutz. Einsatz 1.0% = 5,50€.",
-          "faire_quote": 2.55,
-          "empfohlener_einsatz_prozent": 1.0
         }
       ],
       "kontext_check_status": "OK"
@@ -385,16 +325,6 @@
           "edge_prozent": 7,
           "begruendung": "DOPPEL-Goldgrube: LaLiga Liga-Goldgrube (70.0% Hit / +11.1% ROI) UND DC 1X Markt-Goldgrube. H2H 14 Spiele unbesiegt. CL-Quali-Druck + Heim-Vorteil + Klassendifferenz. Lesson 04.05. SAFE-Konstruktion #3 erfuellt. Einsatz 1.5% = 8,25€.",
           "faire_quote": 1.17,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "atm-cel-2",
-          "kategorie": "value",
-          "markt": "Julian Alvarez (Atletico) trifft jederzeit",
-          "quote": 2.1,
-          "edge_prozent": 13,
-          "begruendung": "Goldgrube Torschuetzen Jederzeit (+24.4% ROI). Form-Edge 3/4 + Heim-Stamm + schwache Celta-Defense (1.4 Gegentore/Spiel). PFLICHT gemaess Lesson 04.05. PFLICHT-PROFILE (Heim-Quote ~2.0). Einsatz 1.5% = 8,25€.",
-          "faire_quote": 1.86,
           "empfohlener_einsatz_prozent": 1.5
         },
         {
@@ -470,21 +400,12 @@
       "empfohlener_einsatz_prozent": 1.5
     },
     {
-      "tipp_id": "mci-bre-1",
-      "spiel_id": "2026-05-09-mci-bre",
-      "markt": "Manchester City vs Brentford FC: Haaland (City) trifft jederzeit",
-      "kategorie": "safe",
-      "quote": 1.5,
-      "rang": 2,
-      "empfohlener_einsatz_prozent": 1.5
-    },
-    {
       "tipp_id": "atm-cel-1",
       "spiel_id": "2026-05-09-atm-cel",
       "markt": "Atletico Madrid vs Celta Vigo: Atletico oder Unentschieden (Doppelte Chance 1X)",
       "kategorie": "safe",
       "quote": 1.25,
-      "rang": 3,
+      "rang": 2,
       "empfohlener_einsatz_prozent": 1.5
     },
     {
@@ -493,17 +414,8 @@
       "markt": "Manchester City vs Brentford FC: Manchester City oder Unentschieden (Doppelte Chance 1X)",
       "kategorie": "safe",
       "quote": 1.1,
-      "rang": 4,
+      "rang": 3,
       "empfohlener_einsatz_prozent": 1.0
-    },
-    {
-      "tipp_id": "liv-che-2",
-      "spiel_id": "2026-05-09-liv-che",
-      "markt": "Liverpool FC vs Chelsea FC: Salah (Liverpool) trifft jederzeit",
-      "kategorie": "value",
-      "quote": 1.85,
-      "rang": 5,
-      "empfohlener_einsatz_prozent": 1.5
     },
     {
       "tipp_id": "sun-mun-1",
@@ -511,25 +423,7 @@
       "markt": "Sunderland AFC vs Manchester United: Manchester United Sieg",
       "kategorie": "value",
       "quote": 1.85,
-      "rang": 6,
-      "empfohlener_einsatz_prozent": 1.5
-    },
-    {
-      "tipp_id": "atm-cel-2",
-      "spiel_id": "2026-05-09-atm-cel",
-      "markt": "Atletico Madrid vs Celta Vigo: Julian Alvarez (Atletico) trifft jederzeit",
-      "kategorie": "value",
-      "quote": 2.1,
-      "rang": 7,
-      "empfohlener_einsatz_prozent": 1.5
-    },
-    {
-      "tipp_id": "tsg-svw-1",
-      "spiel_id": "2026-05-09-tsg-svw",
-      "markt": "TSG Hoffenheim vs SV Werder Bremen: Kramaric (Hoffenheim) trifft jederzeit",
-      "kategorie": "value",
-      "quote": 2.8,
-      "rang": 8,
+      "rang": 4,
       "empfohlener_einsatz_prozent": 1.5
     },
     {
@@ -538,7 +432,7 @@
       "markt": "VfL Wolfsburg vs FC Bayern Muenchen: Beide Teams treffen Ja",
       "kategorie": "value",
       "quote": 1.75,
-      "rang": 9,
+      "rang": 5,
       "empfohlener_einsatz_prozent": 2.0
     },
     {
@@ -547,17 +441,8 @@
       "markt": "TSG Hoffenheim vs SV Werder Bremen: Hoffenheim Sieg",
       "kategorie": "value",
       "quote": 2.0,
-      "rang": 10,
+      "rang": 6,
       "empfohlener_einsatz_prozent": 1.5
-    },
-    {
-      "tipp_id": "sun-mun-2",
-      "spiel_id": "2026-05-09-sun-mun",
-      "markt": "Sunderland AFC vs Manchester United: Mbeumo (Manchester United) trifft jederzeit",
-      "kategorie": "value",
-      "quote": 2.8,
-      "rang": 11,
-      "empfohlener_einsatz_prozent": 1.0
     }
   ],
   "kombis": [
@@ -599,111 +484,6 @@
       "rechnung": "1.30 x 1.10 x 1.25 x 1.85 = 3.31",
       "empfohlener_einsatz_prozent": 2.0,
       "begruendung": "Safe-Kombi 4 Beine in 4 verschiedenen Spielen (Layer-1 OK). Alle Beine aus Liga-Goldgruben (PL + LaLiga). 3 DC (alle Goldgrube-Liga-konform) + 1 Sieg-Outcome (ManU). Layer-2: Sieg-Outcomes (Liv-DC, City-DC, Atletico-DC, ManU-Sieg) - jeweils nur in dieser Kombi. Quote 3.31x = solide Safe-Range. Stufe-1-Einsatz 2% Kasse = 11€."
-    },
-    {
-      "id": "kombi-balance-2026-05-09",
-      "name": "Balance-Kombi (~5.83x)",
-      "kategorie": "value",
-      "beine": [
-        {
-          "spiel_id": "2026-05-09-liv-che",
-          "tipp_id": "liv-che-2",
-          "markt": "Liverpool FC vs Chelsea FC: Salah (Liverpool) trifft jederzeit",
-          "quote": 1.85,
-          "spiel_titel": "Liverpool FC vs Chelsea FC"
-        },
-        {
-          "spiel_id": "2026-05-09-mci-bre",
-          "tipp_id": "mci-bre-1",
-          "markt": "Manchester City vs Brentford FC: Haaland (City) trifft jederzeit",
-          "quote": 1.5,
-          "spiel_titel": "Manchester City vs Brentford FC"
-        },
-        {
-          "spiel_id": "2026-05-09-atm-cel",
-          "tipp_id": "atm-cel-2",
-          "markt": "Atletico Madrid vs Celta Vigo: Julian Alvarez (Atletico) trifft jederzeit",
-          "quote": 2.1,
-          "spiel_titel": "Atletico Madrid vs Celta Vigo"
-        }
-      ],
-      "gesamtquote": 5.83,
-      "rechnung": "1.85 x 1.50 x 2.10 = 5.83",
-      "empfohlener_einsatz_prozent": 0.8,
-      "begruendung": "Pure Goldgrube-Markt-Kombi (3x Torschuetzen Jederzeit, +24.4% ROI Markt). 3 Beine in 3 verschiedenen Spielen (Layer-1 OK). Alle 3 Stuermer mit Form-Edge: Salah 4/5 Tore, Haaland 5/5 Tore, Alvarez 3/4 Tore. Keine Sieg-Outcomes -> keine Layer-2-Konflikte mit anderen Kombis. Quote 5.83x knapp ueber Balance-Untergrenze. Einsatz 0.8% = 4,40€."
-    },
-    {
-      "id": "kombi-risiko-2026-05-09",
-      "name": "Risiko-Kombi (~15.68x)",
-      "kategorie": "wackel",
-      "beine": [
-        {
-          "spiel_id": "2026-05-09-tsg-svw",
-          "tipp_id": "tsg-svw-1",
-          "markt": "TSG Hoffenheim vs SV Werder Bremen: Kramaric (Hoffenheim) trifft jederzeit",
-          "quote": 2.8,
-          "spiel_titel": "TSG Hoffenheim vs SV Werder Bremen"
-        },
-        {
-          "spiel_id": "2026-05-09-sun-mun",
-          "tipp_id": "sun-mun-2",
-          "markt": "Sunderland AFC vs Manchester United: Mbeumo (Manchester United) trifft jederzeit",
-          "quote": 2.8,
-          "spiel_titel": "Sunderland AFC vs Manchester United"
-        },
-        {
-          "spiel_id": "2026-05-09-sev-esp",
-          "tipp_id": "sev-esp-2",
-          "markt": "Sevilla FC vs RCD Espanyol: Sevilla Sieg",
-          "quote": 2.0,
-          "spiel_titel": "Sevilla FC vs RCD Espanyol"
-        }
-      ],
-      "gesamtquote": 15.68,
-      "rechnung": "2.80 x 2.80 x 2.00 = 15.68",
-      "empfohlener_einsatz_prozent": 0.25,
-      "begruendung": "Risiko-Kombi 3 Beine in 3 verschiedenen Spielen (Layer-1 OK). Mix: 2x Torschuetzen-Goldgrube (Kramaric Form 3/4, Mbeumo Backup-Pflicht bei Sesko-Ausfall) + 1 Sieg-Outcome (Sevilla Sieg, neuer Outcome nur in dieser Kombi -> Layer-2 OK). Quote 15.68x = Risiko untere Grenze. Einsatz 0.25% = 1,40€.",
-      "warnung": "WACKEL-Kategorie - Kann reinkommen, aber jedes Bein hat realen Verlust-Risk. Saison-Endspiel-Volatilitaet beachten."
-    },
-    {
-      "id": "kombi-moonshot-2026-05-09",
-      "name": "Moonshot-Kombi (~112.90x)",
-      "kategorie": "wackel",
-      "beine": [
-        {
-          "spiel_id": "2026-05-09-wob-bay",
-          "tipp_id": "wob-bay-3",
-          "markt": "VfL Wolfsburg vs FC Bayern Muenchen: Wolfsburg Sieg",
-          "quote": 4.8,
-          "spiel_titel": "VfL Wolfsburg vs FC Bayern Muenchen"
-        },
-        {
-          "spiel_id": "2026-05-09-fca-bmg",
-          "tipp_id": "fca-bmg-2",
-          "markt": "FC Augsburg vs Borussia Moenchengladbach: Tabakovic (Gladbach) trifft jederzeit",
-          "quote": 4.2,
-          "spiel_titel": "FC Augsburg vs Borussia Moenchengladbach"
-        },
-        {
-          "spiel_id": "2026-05-09-tsg-svw",
-          "tipp_id": "tsg-svw-2",
-          "markt": "TSG Hoffenheim vs SV Werder Bremen: Hoffenheim Sieg",
-          "quote": 2.0,
-          "spiel_titel": "TSG Hoffenheim vs SV Werder Bremen"
-        },
-        {
-          "spiel_id": "2026-05-09-sun-mun",
-          "tipp_id": "sun-mun-2",
-          "markt": "Sunderland AFC vs Manchester United: Mbeumo (Manchester United) trifft jederzeit",
-          "quote": 2.8,
-          "spiel_titel": "Sunderland AFC vs Manchester United"
-        }
-      ],
-      "gesamtquote": 112.9,
-      "rechnung": "4.80 x 4.20 x 2.00 x 2.80 = 112.90",
-      "empfohlener_einsatz_prozent": 0.1,
-      "begruendung": "Moonshot 4 Beine in 4 verschiedenen Spielen (Layer-1 OK). Wolfsburg-Sieg @ 4.80 mit 2:0-Insurance-Schutz (BL) + Tabakovic Backup-Stuermer-Form + Hoffenheim Conference-Quali-Druck + Mbeumo Star-Ausfall-Backup-Pflicht. Layer-2: Wolfsburg-Sieg + Hoffenheim-Sieg sind verschiedene Sieg-Outcomes (verschiedene Spiele, beide nur in dieser Kombi -> OK). Mbeumo Tor-Outcome in Risiko UND Moonshot zulaessig (Layer-2 limitiert nur Sieg-Outcomes). Quote 112.9x = Spass-Lotterie. Einsatz 0.1% = 0,55€.",
-      "warnung": "MOONSHOT - Lotterie-Einsatz, max 0,55€. Realistische Hit-Chance < 2%. Reiner Spass."
     }
   ],
   "lessons_angewandt": [
