@@ -1,5 +1,5 @@
 {
-  "stand": "2026-05-09T06:09:39+00:00",
+  "stand": "2026-05-10T06:20:12+00:00",
   "kriterium": "ROI > 15.0% ODER (Trefferquote >= 65.0% UND ROI > 0%) bei min. 5 Tipps",
   "wirkung": "Schema-Mapper bestaetigt SAFE-Tipps in diesen Ligen. Andere SAFE-Tipps werden auf VALUE downgegradet wenn der Markt-Typ nicht in markt_goldgruben.json ist (Hebel C ROI-Sanierung 04.05.).",
   "ligen": [
@@ -23,20 +23,6 @@
       "trefferquote": 60.0,
       "roi_prozent": 32.0,
       "netto": 1.6
-    },
-    {
-      "liga": "LaLiga",
-      "tipps": 20,
-      "trefferquote": 70.0,
-      "roi_prozent": 11.1,
-      "netto": 2.21
-    },
-    {
-      "liga": "Premier League",
-      "tipps": 17,
-      "trefferquote": 70.6,
-      "roi_prozent": 3.5,
-      "netto": 0.59
     }
   ]
 }

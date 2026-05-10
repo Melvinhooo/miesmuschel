@@ -1,0 +1,1506 @@
+{
+  "datum": "2026-05-09",
+  "erstellt_am": "2026-05-09T12:30:00+02:00",
+  "hinweis": "Watchdog-Recovery 12:30 (Hauptroutine 11:50 nicht gelaufen). 8 Spiele Sa 09.05.: Wolfsburg-Bayern (Anti-Top-Team-Rotation, Bayern CL-Aus 06.05. + Saisonziel durch), 2 BL-Coinflips (Augsburg-Gladbach + Hoffenheim-Bremen), 3 PL Goldgrube-Setups (Liverpool-Chelsea Anfield-Festung, City-Brentford Klassendifferenz, Sunderland-ManU Auswaerts-Fav), 2 LaLiga (Atletico-Celta CL-Quali-Druck + H2H 14 unbesiegt, Sevilla-Espanyol mit Klassenerhalt-Asymmetrie). DC-Cap aktiv: nur 3 SAFE-DC im Dossier (alle PL/LaLiga = Liga-Goldgrube). Kasse 550€, Stufe 1, 1-2% Einzel SAFE/VALUE = 5,50-11€. Quoten via oddschecker/sportsgambler/Wochenend-Vorschau, bei bet365 vor Anstoss live verifizieren.",
+  "spiele": [
+    {
+      "id": "2026-05-09-wob-bay",
+      "liga": "Bundesliga",
+      "heim": "VfL Wolfsburg",
+      "gast": "FC Bayern Muenchen",
+      "anstoss": "2026-05-09T18:30:00+02:00",
+      "stadion": "Volkswagen Arena, Wolfsburg",
+      "saison_kontext": {
+        "parallel_heim": "keine",
+        "parallel_gast": "keine — CL-HF-Rueckspiel 06.05. (Mi) verloren 1:1 vs PSG (5:6 agg), Bayern raus aus dem Wettbewerb, kein Final-Termin",
+        "saisonziel_heim": "Platz 16 mit 26 Pkt — Klassenerhalt-Pflicht, 3 Pkt vor Heidenheim, akute Abstiegs-Gefahr",
+        "saisonziel_gast": "Platz 1 mit 83 Pkt — Meister durch (uneinholbar), Saisonziel mathematisch erreicht, kein PL-Druck mehr + CL-Aus = Motivations-Flaute",
+        "motivations_asymmetrie": "Wolfsburg muss Punkte holen wegen Klassenerhalt-Druck, Bayern hat NICHTS mehr zu spielen + frische Niederlage CL-HF gegen PSG vor 3 Tagen — Kompany rotiert vorhersehbar, mentale Erschoepfung. KEIN SAFE auf Bayern-Seite.",
+        "recovery_heim": "5 Tage Pause seit 03.05. (Bochum-Auswaerts), regulaere Belastung, keine UEFA-Last",
+        "recovery_gast": "3 Tage seit CL-HF-Rueckspiel 06.05. — knappe Recovery + emotionaler Tiefschlag nach CL-Aus. 90+ Min in Allianz Arena gespielt, Erschoepfung real",
+        "quellen": [
+          "https://www.bundesliga.com/en/bundesliga/matchday",
+          "https://www.uefa.com/uefachampionsleague/match/2046267--bayern-vs-paris/",
+          "https://www.kicker.de/bundesliga/tabelle"
+        ]
+      },
+      "news": [
+        "Bayern-Stuermer Kane spielte volle 90 Min CL-HF Rueckspiel mit Tor — koennte rotiert werden, Olise/Mueller/Tel als Backup auf der Bank",
+        "Wolfsburg ohne nominelle Top-Stuermer (Wind verletzt), aber Heimstaerke bei Klassenerhalt-Druck — letzte 3 Heim-Spiele 1S/2U/0N",
+        "Bayern hat 7 Pflichtspielen 30+ Minuten Olise-Anteil — bei Rotation Pflicht-Backup-Tipp",
+        "2:0-Insurance gilt heute (BL-Spiel) — Wolfsburg-Sieg-Tipp ist abgesichert sobald Wolfsburg im Spiel 2:0+ in Fuehrung lag"
+      ],
+      "tipps": [
+        {
+          "id": "wob-bay-1",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen Ja",
+          "quote": 1.75,
+          "edge_prozent": 9,
+          "begruendung": "Wolfsburg muss vorne kommen (Klassenerhalt-Pflicht, Heim-Druck, kein Park-the-Bus moeglich), Bayern trifft fast immer (Kane/Olise + Tor-Volumen). Bayern-Defensive nach CL-Aus-Erschoepfung anfaelliger. Coinflip-Spiel mit klarer Tor-Tendenz auf beiden Seiten. Markt nicht in Goldgrube aber Reality-Check zeigt solide ROI bei Top-Team-Auswaerts-Spielen. Einsatz 2% Kasse Stufe 1 = 11€.",
+          "faire_quote": 1.6,
+          "empfohlener_einsatz_prozent": 2.0
+        },
+        {
+          "id": "wob-bay-2",
+          "kategorie": "wackel",
+          "markt": "Olise (Bayern) trifft jederzeit",
+          "quote": 3.1,
+          "edge_prozent": 10,
+          "begruendung": "Backup-Stuermer-These bei UEFA-Doppelbelastung (Lessons 27.04. + 04.05. HR3): Olise hat 7 von 12 letzten Pflichtspielen 30+ Min, bei CL-HF-Rotation kommt er als Joker rein. Boost-Mechanik (bet365): wenn Kane ausgewechselt wird und Olise trifft, zaehlt der Tipp ueber bet365-Auswechslungs-Boost. Goldgrube-Markt 'Torschuetzen Jederzeit' (50% Hit / +24.4% ROI). Einsatz 0,5% = 2,75€.",
+          "faire_quote": 2.82,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "wob-bay-3",
+          "kategorie": "wackel",
+          "markt": "Wolfsburg Sieg",
+          "quote": 4.8,
+          "edge_prozent": 10,
+          "begruendung": "Spiegel-Edge zur Anti-Bayern-Rotations-These + bet365 2:0-Insurance (Bundesliga, direkter Sieg-Tipp) — wenn Wolfsburg im Spiel ueber 2:0 fuehrt zaehlt der Sieg-Tipp auch bei spaeterem Comeback. Lesson 03.05. (Underdog-2:0-Insurance bei Top-Team-Rotation). Einsatz 0,5% = 2,75€.",
+          "faire_quote": 4.36,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 0,
+        "gast_tore": 1,
+        "halbzeit": "0:0",
+        "endstand": "0:1",
+        "status": "beendet"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "wob-bay-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "BTTS NEIN — nur Bayern traf (Olise 56'), Wolfsburg 0 Tore",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "wob-bay-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.1,
+          "kommentar": "Olise traf zum 0:1 in der 56. Minute",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "wob-bay-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Wolfsburg verlor 0:1, fuehrte nie 2:0 — keine 2:0-Insurance auslösbar",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "0:1",
+        "tore": [
+          {
+            "min": 56,
+            "team": "gast",
+            "spieler": "Michael Olise",
+            "stand_danach": "0:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Knapper 0:1-Sieg fuer Bayern, kein 2-Tore-Vorsprung im Spiel — keine Drehung. Kane verschoss Elfer in der 36. Min (erstes verschossenes BL-Elfmeter ueberhaupt)."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Bayern",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Kane",
+            "details": "Trotz CL-HF 90 Min am 06.05. Startelf — Anti-Rotations-These widerlegt"
+          },
+          {
+            "team": "gast",
+            "spieler": "Olise",
+            "details": "Startelf, schoss das Goldtor und wurde direkt nach dem Treffer (56') fuer Laimer ausgewechselt"
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Anti-Top-Team-Rotation-These (Bayern CL-Aus 06.05. + Saisonziel durch) ging NICHT auf — Kane Startelf, Olise Startelf, Kompany rotierte praktisch nicht.",
+          "Sehr defensives Spiel (1 Tor) trotz Klassenerhalt-Pflicht des Heim-Teams — Wolfsburg blieb torlos, BTTS-Tipp futsch.",
+          "Olise-Backup-Stuermer-Tipp zog trotzdem (Stamm-Spieler statt Sub) — Form-Edge griff auch ohne Rotation."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-09-fca-bmg",
+      "liga": "Bundesliga",
+      "heim": "FC Augsburg",
+      "gast": "Borussia Moenchengladbach",
+      "anstoss": "2026-05-09T15:30:00+02:00",
+      "stadion": "WWK Arena, Augsburg",
+      "saison_kontext": {
+        "parallel_heim": "keine",
+        "parallel_gast": "keine",
+        "saisonziel_heim": "Platz 9 mit 40 Pkt — Klassenerhalt durch, Top-7-EL/Conference-Quali rechnerisch noch moeglich aber 3 Pkt zur Top 7, kein Pflichtspiel",
+        "saisonziel_gast": "Platz 11 mit 35 Pkt — Klassenerhalt rechnerisch durch (9 Pkt Vorsprung auf Platz 16), Saisonziel erreicht",
+        "motivations_asymmetrie": "Beide Teams Mid-Table ohne scharfen Druck, Augsburg hat minimal mehr Heim-Motivation wegen rest-Conference-Hoffnung — aber kein klares Edge-Signal. Coinflip-Tendenz mit Heim-Vorteil. Kein SAFE-Setup.",
+        "recovery_heim": "6 Tage Pause seit 03.05. (Heim-Niederlage gegen Stuttgart) — voll erholt",
+        "recovery_gast": "6 Tage Pause seit 03.05. (Heim-Sieg 1:0 vs BVB) — voll erholt + Selbstvertrauen-Boost",
+        "quellen": [
+          "https://www.bundesliga.com/en/bundesliga/matchday",
+          "https://www.kicker.de/bundesliga/tabelle"
+        ]
+      },
+      "news": [
+        "Augsburg seit 4 Spielen ohne Heimsieg, davor 3 Heimsiege in Folge — wackelige Heim-Form",
+        "Gladbach mit Sieg-Schwung nach 1:0 vs BVB, Tabakovic (88. Min) als Backup-Stuermer aktiv (Lesson 04.05. Goldgrube)"
+      ],
+      "tipps": [
+        {
+          "id": "fca-bmg-1",
+          "kategorie": "value",
+          "markt": "Unter 3.5 Tore",
+          "quote": 1.3,
+          "edge_prozent": 7,
+          "begruendung": "Beide Teams ohne Tor-Festival-Charakter (Augsburg im Schnitt 2.5 Tore/Heim-Spiel, Gladbach 2.3 Tore/Spiel). Saisonende ohne Druck reduziert Tempo. Markt nicht in Goldgrube aber Reality-Check: Unter-Tipps generell solide ROI. Einsatz 1.5% = 8,25€.",
+          "faire_quote": 1.21,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "fca-bmg-2",
+          "kategorie": "wackel",
+          "markt": "Tabakovic (Gladbach) trifft jederzeit",
+          "quote": 4.2,
+          "edge_prozent": 6,
+          "begruendung": "Backup-Stuermer-Form (Lesson 04.05. Goldgrube Torschuetzen Jederzeit +24.4% ROI). Tabakovic hat in den letzten 5 Spielen 2 Tore inkl. Game-Winner BVB. Boost-Setup ueber bet365 wenn er ausgewechselt wird. Einsatz 0,5% = 2,75€.",
+          "faire_quote": 3.96,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "fca-bmg-3",
+          "kategorie": "wackel",
+          "markt": "Augsburg Sieg",
+          "quote": 2.5,
+          "edge_prozent": 5,
+          "begruendung": "Heim-Vorteil + Gladbach-Motivations-Mangel. Coinflip-Spiel mit leichtem Heim-Edge, daher WACKEL statt VALUE. Einsatz 0,5% = 2,75€.",
+          "faire_quote": 2.38,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 3,
+        "gast_tore": 1,
+        "halbzeit": "2:0",
+        "endstand": "3:1",
+        "status": "beendet"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "fca-bmg-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Unter 3.5 Tore verloren — Endstand 3:1 (4 Tore total)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "fca-bmg-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Tabakovic auf der Bank, traf nicht. Kein einwechslungs-boost (Reyna kam fuer anderen Spieler)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "fca-bmg-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.5,
+          "kommentar": "Augsburg gewann 3:1 — Heim-Sieg-Tipp aufgegangen",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "2:0",
+        "endstand": "3:1",
+        "tore": [
+          {
+            "min": 24,
+            "team": "heim",
+            "spieler": "Gregoritsch",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 42,
+            "team": "heim",
+            "spieler": "Fellhauer",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 72,
+            "team": "heim",
+            "spieler": "Gregoritsch",
+            "stand_danach": "3:0"
+          },
+          {
+            "min": 92,
+            "team": "gast",
+            "spieler": "Reyna",
+            "stand_danach": "3:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Augsburg fuehrte ab 24' und baute Vorsprung aus, keine Drehung."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Augsburg/Augsburg",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Tabakovic",
+            "details": "Bank-Alternative — Machino startete als 9er statt Tabakovic, Tabakovic-Tipp damit ohne Stamm-Status"
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "gast",
+            "ein": "Reyna",
+            "aus": "unbekannt",
+            "minute": null,
+            "tor": true,
+            "tor_minute": "90+2"
+          }
+        ],
+        "auffaellige_patterns": [
+          "Ueber-3.5-Tipp gerissen durch Mid-Table-Coinflip mit Tor-Festival — gegenlaeufig zur 'Saisonende-Tor-Flaute'-Erwartung.",
+          "Gregoritsch-Doppelpack als 'Saison-Ende ohne Druck'-Spiel mit Klassenerhalt durch zeigt: Stamm-Stuermer-Volume bleibt — aber Tabakovic-Backup-Wette schlug fehl, weil Backup-Status nicht erzwungen wurde."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-09-tsg-svw",
+      "liga": "Bundesliga",
+      "heim": "TSG Hoffenheim",
+      "gast": "SV Werder Bremen",
+      "anstoss": "2026-05-09T15:30:00+02:00",
+      "stadion": "PreZero Arena, Sinsheim",
+      "saison_kontext": {
+        "parallel_heim": "keine",
+        "parallel_gast": "keine",
+        "saisonziel_heim": "Platz 6 mit 58 Pkt — Conference-League-Quali in Reichweite, 4 Pkt vor Platz 8, Pflicht-Punkt-Bedarf fuer Europa",
+        "saisonziel_gast": "Platz 15 mit 32 Pkt — Klassenerhalt akut umkaempft, nur 6 Pkt vor Platz 16 (Wolfsburg), Pflichtsieg-Bedarf",
+        "motivations_asymmetrie": "BEIDE Teams motiviert — Hoffenheim Conference-Quali-Druck vs Bremen Klassenerhalt-Pflicht. Heim-Vorteil + Hoffenheim-Form-Stark (jueng. 2:1 vs BVB) gibt Hoffenheim Edge, aber Bremen mit Sieg-Schwung 3:1 vs HSV (18.04.). Coinflip mit Heim-Tendenz. Kein SAFE moeglich.",
+        "recovery_heim": "6 Tage Pause seit 03.05. (Auswaerts-Sieg vs Heidenheim) — voll erholt",
+        "recovery_gast": "5 Tage Pause seit 04.05. (Heim-Niederlage 1:3 Augsburg) — voll erholt aber gemischter Form",
+        "quellen": [
+          "https://www.bundesliga.com/en/bundesliga/matchday",
+          "https://www.kicker.de/bundesliga/tabelle"
+        ]
+      },
+      "news": [
+        "Hoffenheim ohne Becker (Adduktorenverletzung), Kramaric in Form (3 Tore in 4 Spielen)",
+        "Bremen Stuermer Ducksch + Schmid fit, defensive Probleme (8 Gegentore in 4 Spielen)",
+        "2:0-Insurance gilt (BL-Spiel) — Hoffenheim-Sieg-Tipp abgesichert ab 2:0+ Fuehrung"
+      ],
+      "tipps": [
+        {
+          "id": "tsg-svw-1",
+          "kategorie": "value",
+          "markt": "Kramaric (Hoffenheim) trifft jederzeit",
+          "quote": 2.8,
+          "edge_prozent": 11,
+          "begruendung": "Goldgrube Torschuetzen Jederzeit +24.4% ROI. Kramaric Form-Edge: 3 Tore in 4 Spielen, davon 2 zuhause. Stamm-Stuermer Pflichtcheck (Lesson 03.05.) — Kramaric voll fit + Startelf wahrscheinlich. Bremen-Defense wackelig (8 Gegentore in 4 Spielen). PFLICHT gemaess Lesson 04.05. PFLICHT-PROFILE Heim-Favorit. Einsatz 1.5% = 8,25€.",
+          "faire_quote": 2.52,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "tsg-svw-2",
+          "kategorie": "value",
+          "markt": "Hoffenheim Sieg",
+          "quote": 2.0,
+          "edge_prozent": 8,
+          "begruendung": "Conference-Quali-Druck + Heim-Form-Stark + Bremen-Defensive-Probleme. 2:0-Insurance gilt (BL-Spiel, direkter Sieg-Tipp). Lesson 04.05.: SAFE-DC in BL automatisch zu VALUE downgegradet (Hebel C) — daher direkter Sieg-Tipp solider. Einsatz 1.5% = 8,25€.",
+          "faire_quote": 1.85,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "tsg-svw-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen Ja",
+          "quote": 1.65,
+          "edge_prozent": 5,
+          "begruendung": "Bremen 8 Gegentore in 4 Spielen + 3 Tore vs HSV — beide trafen in 6 von 8 letzten Bremen-Spielen. Hoffenheim trifft zuhause durchgehend. Tipp ist nicht Goldgrube — bewusst WACKEL. Einsatz 0,5% = 2,75€.",
+          "faire_quote": 1.57,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 0,
+        "halbzeit": "1:0",
+        "endstand": "1:0",
+        "status": "beendet"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "tsg-svw-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Kramaric assistierte das 1:0 (Touré 26'), traf aber nicht selbst. Kramaric in der 89. Min fuer Proemel ausgewechselt — Proemel traf nicht. Kein Einwechslungs-Boost.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "tsg-svw-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.0,
+          "kommentar": "Hoffenheim gewann 1:0",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "tsg-svw-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "BTTS NEIN — Bremen blieb ohne Tor, zudem Sugawara fruehe Rote Karte",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "1:0",
+        "tore": [
+          {
+            "min": 26,
+            "team": "heim",
+            "spieler": "Bazoumana Touré",
+            "stand_danach": "1:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Hoffenheim fuehrte ab 26' und brachte den Sieg nach Hause, keine Drehung."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Hoffenheim/Hoffenheim",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Proemel",
+            "aus": "Kramaric",
+            "minute": 89,
+            "tor": false,
+            "tor_minute": null
+          }
+        ],
+        "auffaellige_patterns": [
+          "Frueh-Rote-Karte Bremen (Sugawara, ~5. Min) drueckte BTTS — Bremen mit 10 Mann im Defensiv-Modus, kein Aushol-Volumen.",
+          "Kramaric-Tipp scheiterte trotz aktiver Spielbeteiligung (Assist) — Stamm-Stuermer-Pflichtcheck war fit, aber Tor-Output blieb aus.",
+          "Tor-armes Spiel (1 Tor) trotz Top-vs-Klassenerhalts-Asymmetrie — Saisonende-Tor-Flaute Pattern."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-09-liv-che",
+      "liga": "Premier League",
+      "heim": "Liverpool FC",
+      "gast": "Chelsea FC",
+      "anstoss": "2026-05-09T13:30:00+02:00",
+      "stadion": "Anfield, Liverpool",
+      "saison_kontext": {
+        "parallel_heim": "keine — kein UEFA-Wettbewerb mehr",
+        "parallel_gast": "keine — kein UEFA-Wettbewerb mehr",
+        "saisonziel_heim": "Platz 4 mit 58 Pkt nach 35 Spielen — CL-Quali-Kampf, gleichauf mit Aston Villa (Platz 5) auf 58 Pkt. JEDER Punkt zaehlt fuer Top-4",
+        "saisonziel_gast": "Mid-Table (Platz 6-9, ca. 53-55 Pkt) — kein klares Pflichtspiel, EL-Quali theoretisch noch moeglich aber Auswaerts-Bilanz schlecht",
+        "motivations_asymmetrie": "Liverpool DEUTLICH motivierter — CL-Quali Heim-Pflichtsieg, Chelsea Auswaerts-Form historisch schwach @ Anfield (5 Niederlagen in letzten 6). Klares Heim-Edge, SAFE-Setup erfuellt.",
+        "recovery_heim": "5-7 Tage Pause seit letztem PL-Spiel — voll erholt",
+        "recovery_gast": "5 Tage seit Heim-Niederlage 1:3 vs Forest (04.05.) — psychologisch angeknackst",
+        "quellen": [
+          "https://www.premierleague.com/news/4324511",
+          "https://www.skysports.com/premier-league-table",
+          "https://sports.betmgm.com/en/blog/premier-league/liverpool-vs-chelsea-prediction-odds-preview-epl-may-9-bm16/"
+        ]
+      },
+      "news": [
+        "Liverpool Heim-Bilanz Saison: 14S/3U/0N — eine der staerksten Heim-Bilanzen der PL",
+        "Chelsea Auswaerts-Form letzte 6 PL: 1S/1U/4N",
+        "Salah aktiv, Form-Edge mit 4 Toren in 5 Spielen — Goldgrube-Tipp-Kandidat (Lesson 04.05.)"
+      ],
+      "tipps": [
+        {
+          "id": "liv-che-1",
+          "kategorie": "safe",
+          "markt": "Liverpool oder Unentschieden (Doppelte Chance 1X)",
+          "quote": 1.3,
+          "edge_prozent": 12,
+          "begruendung": "DOPPEL-Goldgrube: PL ist Liga-Goldgrube (70.6% Hit / +3.5% ROI) UND Markt DC 1X ist Markt-Goldgrube (84.6% / +9.5%). Liverpool Anfield-Festung 14-3-0 + Chelsea Auswaerts-Schwaeche + CL-Quali-Pflichtspiel-Druck = klassisches SAFE-Setup. Lesson 04.05. SAFE-Konstruktion #3 erfuellt: Heim hat Saisonziel-Druck, Gast nicht, keine UEFA-Doppelbelastung. Einsatz 1.5% = 8,25€.",
+          "faire_quote": 1.16,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "liv-che-2",
+          "kategorie": "value",
+          "markt": "Salah (Liverpool) trifft jederzeit",
+          "quote": 1.85,
+          "edge_prozent": 14,
+          "begruendung": "Goldgrube Torschuetzen Jederzeit (+24.4% ROI). Salah-Form 4/5, Heim-Stamm, Anfield-Auswaerts-Schwaeche von Chelsea. PFLICHT gemaess Lesson 04.05. PFLICHT-PROFILE (Heim-Sieg-Quote < 1.80 = Torschuetzen-Tipp Pflicht). Einsatz 1.5% = 8,25€.",
+          "faire_quote": 1.62,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "liv-che-3",
+          "kategorie": "value",
+          "markt": "Liverpool Sieg",
+          "quote": 1.85,
+          "edge_prozent": 8,
+          "begruendung": "Direkter Sieg-Tipp (PL hat KEINE 2:0-Insurance, gilt nur BL+CL — Lesson 26.04.). Liverpool Heim-Bilanz + Salah-Form + Chelsea-Form-Krise. Liga-Goldgrube. Einsatz 1.0% = 5,50€.",
+          "faire_quote": 1.71,
+          "empfohlener_einsatz_prozent": 1.0
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 1,
+        "halbzeit": "1:1",
+        "endstand": "1:1",
+        "status": "beendet"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "liv-che-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.3,
+          "kommentar": "Doppelte Chance 1X — Liverpool spielte Unentschieden 1:1",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "liv-che-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Salah verletzungsbedingt nicht im Kader (Aufstellungs-Verifikation 1h vorher haette gewarnt). Kein Einwechslungs-Boost (Salah nicht im Spiel).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "liv-che-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Liverpool spielte 1:1 — kein Sieg. PL hat keine 2:0-Insurance.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:1",
+        "endstand": "1:1",
+        "tore": [
+          {
+            "min": 6,
+            "team": "heim",
+            "spieler": "Gravenberch",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 35,
+            "team": "gast",
+            "spieler": "Enzo Fernandez",
+            "stand_danach": "1:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Maximal 1 Tor Differenz, Endstand Remis — keine Drehung im Sinne des Algorithmus."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Unentschieden",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Salah",
+            "details": "AUSFALL kurz vor Anstoss (Verletzung) — wurde nicht in Pre-Match-Quellen vermerkt, fehlende Aufstellungs-Verifikation."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Anfield-Festung 14-3-0 gebrochen durch Star-Ausfall (Salah verletzt). DOPPEL-Goldgrube-SAFE (PL Liga + DC-Markt) hielt nur knapp via Remis — Liverpool-Sieg-Tipp + Salah-Tor-Tipp beide verloren.",
+          "Star-Ausfall-Aufstellungs-Verifikation nicht erfolgt — Lesson 22.04. (Roster-Verifikation Pflicht) wurde verletzt, beide Stuermer-Tipps (Salah Liv + Alvarez Atletico) gleichzeitig.",
+          "Schnelle Tore (6.+35.) deuten auf hohes Tempo, dann Ablattung im 2. Hz — beide Defensivreihen hielten nach Pause."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-09-mci-bre",
+      "liga": "Premier League",
+      "heim": "Manchester City",
+      "gast": "Brentford FC",
+      "anstoss": "2026-05-09T16:00:00+02:00",
+      "stadion": "Etihad Stadium, Manchester",
+      "saison_kontext": {
+        "parallel_heim": "keine — kein UEFA-Wettbewerb mehr (Round 16 raus)",
+        "parallel_gast": "keine",
+        "saisonziel_heim": "Platz 2 mit 71 Pkt nach 34 Spielen — CL-Quali fix, theoretischer Titel-Restchance bei Arsenal-Niederlage, hohe Motivation",
+        "saisonziel_gast": "Platz 13-14 mit ~42 Pkt — Klassenerhalt durch, Mid-Table ohne Druck",
+        "motivations_asymmetrie": "City Heim-Druck + theoretische Titel-Restchance, Brentford ohne Saisonziel — klassische Klassendifferenz-Goldgrube (Lesson 02.05.). KEIN Anti-SAFE-Faktor. SAFE-Setup voll erfuellt.",
+        "recovery_heim": "5+ Tage Pause — voll erholt",
+        "recovery_gast": "5+ Tage Pause — voll erholt",
+        "quellen": [
+          "https://www.premierleague.com/news/4324511",
+          "https://www.mancity.com/matchday/fixtures/mens/2025/premier-league/man-city-v-brentford-9-may-2026"
+        ]
+      },
+      "news": [
+        "City Heim-Bilanz: 13-3-1, dominante Etihad-Festung",
+        "Haaland Form-Stark: 5 Tore in 5 Spielen — Goldgrube-Pflicht-Tipp",
+        "Brentford Auswaerts mit 4 Niederlagen in 5"
+      ],
+      "tipps": [
+        {
+          "id": "mci-bre-1",
+          "kategorie": "safe",
+          "markt": "Haaland (City) trifft jederzeit",
+          "quote": 1.5,
+          "edge_prozent": 18,
+          "begruendung": "Goldgrube-Pflicht (Lesson 04.05. PFLICHT-PROFILE Heim-Favorit < 1.80): Top-Stuermer-Form-Edge 5/5 + Klassendifferenz-Heim. Markt-Goldgrube Torschuetzen Jederzeit (50%/+24.4%). Stamm-Stuermer voll fit. Einsatz 1.5% = 8,25€.",
+          "faire_quote": 1.27,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "mci-bre-2",
+          "kategorie": "safe",
+          "markt": "Manchester City oder Unentschieden (Doppelte Chance 1X)",
+          "quote": 1.1,
+          "edge_prozent": 5,
+          "begruendung": "PL Liga-Goldgrube + DC 1X Markt-Goldgrube = SAFE-bestaetigt. Klassendifferenz extrem (City Top-2 vs Brentford Mid-Table), Heim-Vorteil + Form. Quote sehr niedrig — eher Kombi-Bein als Einzeltipp. Einsatz 1.0% = 5,50€.",
+          "faire_quote": 1.05,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "mci-bre-3",
+          "kategorie": "value",
+          "markt": "Manchester City Sieg",
+          "quote": 1.36,
+          "edge_prozent": 7,
+          "begruendung": "Sieg-Tipp als Diversifikation neben DC. Liga-Goldgrube + dominantes City-Heim. Einsatz 1.0% = 5,50€.",
+          "faire_quote": 1.27,
+          "empfohlener_einsatz_prozent": 1.0
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 3,
+        "gast_tore": 0,
+        "halbzeit": "0:0",
+        "endstand": "3:0",
+        "status": "beendet"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "mci-bre-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.5,
+          "kommentar": "Haaland traf in der 75. Min zum 2:0",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "mci-bre-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.1,
+          "kommentar": "City gewann 3:0 — DC 1X aufgegangen",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "mci-bre-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.36,
+          "kommentar": "City Sieg 3:0",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "3:0",
+        "tore": [
+          {
+            "min": 60,
+            "team": "heim",
+            "spieler": "Doku",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 75,
+            "team": "heim",
+            "spieler": "Haaland",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 92,
+            "team": "heim",
+            "spieler": "Marmoush",
+            "stand_danach": "3:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "City fuehrte ab 60' kontinuierlich, keine Drehung."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/City",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Klassendifferenz-SAFE-Setup voll bestaetigt — alle 3 Tipps des Spiels gewonnen (Haaland, City-DC, City-Sieg).",
+          "Tor-Schwemme erst ab 60' nach 0:0-Halbzeit — Brentford-Block hielt 60 Min, dann Doku-Tor und Dammbruch. Haaland-Form-Edge (5/5 Tore in 5 Spielen) hielt."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-09-sun-mun",
+      "liga": "Premier League",
+      "heim": "Sunderland AFC",
+      "gast": "Manchester United",
+      "anstoss": "2026-05-09T16:00:00+02:00",
+      "stadion": "Stadium of Light, Sunderland",
+      "saison_kontext": {
+        "parallel_heim": "keine",
+        "parallel_gast": "keine — kein UEFA-Wettbewerb mehr (EL Round 16 raus)",
+        "saisonziel_heim": "Platz 12 mit 47 Pkt — Klassenerhalt durch, Mid-Table-ende ohne Pflichtspiel",
+        "saisonziel_gast": "Platz 3 mit 64 Pkt nach 35 Spielen — CL-Quali umkaempft (Liverpool/Villa 58 Pkt verfolgen), Pflicht-Punkt-Bedarf zur Absicherung",
+        "motivations_asymmetrie": "ManUnited DEUTLICH motivierter — CL-Quali-Sicherung. Sunderland gerettet ohne Druck. Klare Klassendifferenz-Edge fuer Auswaerts-Favorit. Heim-Auswaerts-Quote ~1.85, kein Anti-SAFE-Faktor aber max VALUE da Auswaerts-Sieg statistisch volatiler.",
+        "recovery_heim": "5+ Tage Pause — voll erholt",
+        "recovery_gast": "5+ Tage Pause — voll erholt (Sesko angeschlagen, Mbeumo Backup-Fall)",
+        "quellen": [
+          "https://www.premierleague.com/news/4324511",
+          "https://www.skysports.com/premier-league-table",
+          "https://www.sportsmole.co.uk/football/man-utd/top-four-race/predicted-lineups/martinez-boost-sesko-uncertainty-predicted-man-utd-lineup-vs-sunderland_597083.html"
+        ]
+      },
+      "news": [
+        "Manchester United Auswaerts-Form letzte 5 PL: 3S/1U/1N",
+        "Sunderland Heim-Form letzte 5: 1S/2U/2N — wackelig",
+        "Sesko angeschlagen (Schienbein), Mbeumo als Backup-Stuermer verfuegbar — Backup-Pflicht-Tipp (Lesson 04.05. STAR-AUSFALL)",
+        "Mainoo nach Lesson 04.05. (Game-Winner Pattern) als Volume-Backup auf der Bank"
+      ],
+      "tipps": [
+        {
+          "id": "sun-mun-1",
+          "kategorie": "value",
+          "markt": "Manchester United Sieg",
+          "quote": 1.85,
+          "edge_prozent": 8,
+          "begruendung": "Auswaerts-Form 3/5 + Saisonziel-Druck + Sunderland-Heim-Wackel. PL Liga-Goldgrube. Direkter Sieg-Tipp — keine 2:0-Insurance in PL aber Klassendifferenz-Edge ueber 90 Min sollte halten. Einsatz 1.5% = 8,25€.",
+          "faire_quote": 1.71,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "sun-mun-2",
+          "kategorie": "value",
+          "markt": "Mbeumo (Manchester United) trifft jederzeit",
+          "quote": 2.8,
+          "edge_prozent": 10,
+          "begruendung": "STAR-AUSFALL-PROTOKOLL (Lesson 04.05.): Sesko angeschlagen, Mbeumo wahrscheinlich Startelf als Stuermer. Mbeumo hat Saison-Tor-Volumen (Goldgrube Torschuetzen Jederzeit +24.4% ROI). Backup-Pflicht-Tipp bei Star-Ausfall. bet365-Einwechslungs-Boost-Schutz. Einsatz 1.0% = 5,50€.",
+          "faire_quote": 2.55,
+          "empfohlener_einsatz_prozent": 1.0
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 0,
+        "gast_tore": 0,
+        "halbzeit": "0:0",
+        "endstand": "0:0",
+        "status": "beendet"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "sun-mun-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "0:0 — kein ManU-Sieg. PL hat keine 2:0-Insurance.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "sun-mun-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Mbeumo kam von der Bank, traf nicht. Mbeumo wurde nicht ausgewechselt sondern eingewechselt — Boost greift nicht.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "0:0",
+        "tore": [],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Torloses Remis."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Unentschieden",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Sesko",
+            "details": "Angeschlagen — Mbeumo Backup. Beide blieben torlos."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Saisonziel-Asymmetrie (CL-Quali-Druck ManU vs Mid-Table Sunderland) griff NICHT — Mid-Table ohne Druck heimstark.",
+          "STAR-AUSFALL-Backup-Pflicht-Tipp (Mbeumo) zweimal hintereinander gefloppt (heute + Sesko-Variante). Lesson 04.05. STAR-AUSFALL braucht weiteren Filter.",
+          "PL Auswaerts-Sieg-Tipp ohne 2:0-Insurance bei Coinflip-Form-Asymmetrie ist Variance-Falle."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-09-atm-cel",
+      "liga": "LaLiga",
+      "heim": "Atletico Madrid",
+      "gast": "Celta Vigo",
+      "anstoss": "2026-05-09T18:30:00+02:00",
+      "stadion": "Riyadh Air Metropolitano, Madrid",
+      "saison_kontext": {
+        "parallel_heim": "keine — CL Achtelfinale raus",
+        "parallel_gast": "keine",
+        "saisonziel_heim": "Platz 4 mit 63 Pkt — CL-Quali absichern, 5 Pkt vor Platz 5, jeder Punkt fuer Champions League wichtig",
+        "saisonziel_gast": "Platz 9-10 mit ~50 Pkt — Mid-Table, EL-Quali theoretisch noch moeglich aber unwahrscheinlich, kein scharfes Saisonziel mehr",
+        "motivations_asymmetrie": "Atletico DEUTLICH motivierter — CL-Quali Pflicht. Celta entspannte Mittelfeld-Position. H2H Atletico unbesiegt 14 Spiele in Folge gegen Celta. Heim-Edge, SAFE-Setup erfuellt.",
+        "recovery_heim": "5+ Tage Pause — voll erholt",
+        "recovery_gast": "5+ Tage Pause — voll erholt",
+        "quellen": [
+          "https://www.laliga.com/en-GB/laliga-easports/standing",
+          "https://www.espn.com/soccer/match/_/gameId/748487/celta-vigo-atletico-madrid"
+        ]
+      },
+      "news": [
+        "Atletico-Defensiv-Stuermer Gimenez (Knie) + Mittelfeld Barrios (Sehnenverletzung) raus",
+        "Julian Alvarez in Form — 3 Tore in 4 Spielen, Goldgrube-Tipp-Kandidat",
+        "Atletico H2H 9S/5U/0N gegen Celta letzte 14 Begegnungen"
+      ],
+      "tipps": [
+        {
+          "id": "atm-cel-1",
+          "kategorie": "safe",
+          "markt": "Atletico oder Unentschieden (Doppelte Chance 1X)",
+          "quote": 1.25,
+          "edge_prozent": 7,
+          "begruendung": "DOPPEL-Goldgrube: LaLiga Liga-Goldgrube (70.0% Hit / +11.1% ROI) UND DC 1X Markt-Goldgrube. H2H 14 Spiele unbesiegt. CL-Quali-Druck + Heim-Vorteil + Klassendifferenz. Lesson 04.05. SAFE-Konstruktion #3 erfuellt. Einsatz 1.5% = 8,25€.",
+          "faire_quote": 1.17,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "atm-cel-2",
+          "kategorie": "value",
+          "markt": "Julian Alvarez (Atletico) trifft jederzeit",
+          "quote": 2.1,
+          "edge_prozent": 13,
+          "begruendung": "Goldgrube Torschuetzen Jederzeit (+24.4% ROI). Form-Edge 3/4 + Heim-Stamm + schwache Celta-Defense (1.4 Gegentore/Spiel). PFLICHT gemaess Lesson 04.05. PFLICHT-PROFILE (Heim-Quote ~2.0). Einsatz 1.5% = 8,25€.",
+          "faire_quote": 1.86,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "atm-cel-3",
+          "kategorie": "value",
+          "markt": "Atletico Madrid Sieg",
+          "quote": 2.05,
+          "edge_prozent": 9,
+          "begruendung": "CL-Quali-Pflicht-Sieg vs entspannten Mid-Table-Gegner. Liga-Goldgrube. Diversifikation neben DC (verschiedener Markt). Einsatz 1.0% = 5,50€.",
+          "faire_quote": 1.88,
+          "empfohlener_einsatz_prozent": 1.0
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 0,
+        "gast_tore": 1,
+        "halbzeit": "0:0",
+        "endstand": "0:1",
+        "status": "beendet"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "atm-cel-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Atletico verlor 0:1 — DC 1X gerissen",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "atm-cel-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Julian Alvarez verletzungsbedingt NICHT im Kader (Aufstellungs-Verifikation fehlte).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "atm-cel-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Atletico verlor 0:1",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "0:1",
+        "tore": [
+          {
+            "min": 62,
+            "team": "gast",
+            "spieler": "Borja Iglesias",
+            "stand_danach": "0:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Knapp 0:1 fuer Underdog Celta, max 1 Tor Differenz — keine Drehung. H2H 14 unbesiegt von Atletico gegen Celta gerissen."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Celta",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Julian Alvarez",
+            "details": "AUSFALL kurz vor Anstoss (Verletzung) — wurde nicht in Pre-Match-Quellen vermerkt. Pflicht-Stuermer-Tipp wurde sinnlos."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "DOPPEL-Goldgrube-SAFE (LaLiga Liga + DC-Markt) komplett gebrochen — alle 3 Atletico-Tipps verloren.",
+          "Star-Ausfall (Alvarez) ohne Aufstellungs-Verifikation — gleicher Tag wie Salah-Ausfall, dasselbe systemische Problem.",
+          "H2H 14 unbesiegt = Mean-Reversion-Risiko statt Edge-Verstaerker (analog Lesson 25.04. Sweep-Abwehr)."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-09-sev-esp",
+      "liga": "LaLiga",
+      "heim": "Sevilla FC",
+      "gast": "RCD Espanyol",
+      "anstoss": "2026-05-09T16:15:00+02:00",
+      "stadion": "Estadio Ramon Sanchez Pizjuan, Sevilla",
+      "saison_kontext": {
+        "parallel_heim": "keine",
+        "parallel_gast": "keine",
+        "saisonziel_heim": "Platz 11-12 mit ~46 Pkt — Mid-Table, kein klares Saisonziel mehr (sicher in 1. Liga, EL-Quali unwahrscheinlich)",
+        "saisonziel_gast": "Platz 16-17 mit ~36 Pkt — Klassenerhalt akut umkaempft, Pflicht-Punkt-Bedarf zur Rettung",
+        "motivations_asymmetrie": "Espanyol DEUTLICH motivierter — Klassenerhalt-Pflicht-Punkt. Sevilla Heim-Vorteil aber kein Saisonziel-Druck. Lesson 04.05. SAFE-Konstruktion #3 NICHT erfuellt fuer Heim-SAFE — Sevilla-Tipps max WACKEL. Coinflip mit Heim-Tendenz.",
+        "recovery_heim": "5+ Tage Pause — voll erholt",
+        "recovery_gast": "5+ Tage Pause — voll erholt",
+        "quellen": [
+          "https://www.laliga.com/en-GB/laliga-easports/standing",
+          "https://www.sofascore.com/football/match/sevilla-espanyol/ogbsIgb"
+        ]
+      },
+      "news": [
+        "Sevilla Heim-Form Saison: 7S/4U/4N — solid aber nicht dominant",
+        "Espanyol mit Klassenerhalt-Modus, defensiv-eingestellt"
+      ],
+      "tipps": [
+        {
+          "id": "sev-esp-1",
+          "kategorie": "wackel",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.72,
+          "edge_prozent": 6,
+          "begruendung": "Espanyol-Klassenerhalt-Modus = defensiv. Sevilla nicht offensiv-dominant. Markt-Bilanz zeigt Unter-Tipps generell solid. Bewusst WACKEL wegen Liga-Saisonende-Volatilitaet. Einsatz 0,5% = 2,75€.",
+          "faire_quote": 1.62,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "sev-esp-2",
+          "kategorie": "wackel",
+          "markt": "Sevilla Sieg",
+          "quote": 2.0,
+          "edge_prozent": 5,
+          "begruendung": "Heim-Vorteil + Klassenerhalt-Espanyol oft ueber-defensiv. Direkter Sieg-Tipp ohne SAFE-Anspruch (Sevilla kein Saisonziel-Druck = max WACKEL). Einsatz 0,5% = 2,75€.",
+          "faire_quote": 1.9,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 1,
+        "halbzeit": "0:0",
+        "endstand": "2:1",
+        "status": "beendet"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "sev-esp-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "3 Tore — Unter 2.5 verloren",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "sev-esp-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.0,
+          "kommentar": "Sevilla gewann 2:1 mit Last-Gasp-Tor (Adams 90+1') nach Espanyol-Fuehrung",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "2:1",
+        "tore": [
+          {
+            "min": 56,
+            "team": "gast",
+            "spieler": "Tyrhys Dolan",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 82,
+            "team": "heim",
+            "spieler": "Andres Castrin",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 91,
+            "team": "heim",
+            "spieler": "Akor Adams",
+            "stand_danach": "2:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Espanyol fuehrte 0:1, Sevilla drehte zum 2:1 — max 1 Tor Differenz, technisch keine Drehung im Algorithmus, aber Last-Gasp-Comeback."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Sevilla",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Akor Adams",
+            "aus": "unbekannt",
+            "minute": 76,
+            "tor": true,
+            "tor_minute": "90+1"
+          }
+        ],
+        "auffaellige_patterns": [
+          "Klassenerhalt-Asymmetrie-These (Espanyol motivierter) ging anfangs auf (Dolan 56'), aber Heim-Druck + Joker-Adams drehten — Sevilla-Sieg-Tipp gewonnen (WACKEL korrekt gelabelt).",
+          "Joker-Tor von Adams nach 76'-Einwechslung in 90+1' = klassisches 'Volume-Backup-Stuermer'-Pattern — bestaetigt Lesson 04.05. Goldgrube Torschuetzen Jederzeit.",
+          "Unter-2.5-Tipp wider Erwarten gerissen — Klassenerhalt-Druck erzwingt offene 2. Hz."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "tipp_id": "liv-che-1",
+      "spiel_id": "2026-05-09-liv-che",
+      "markt": "Liverpool FC vs Chelsea FC: Liverpool oder Unentschieden (Doppelte Chance 1X)",
+      "kategorie": "safe",
+      "quote": 1.3,
+      "rang": 1,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "tipp_id": "mci-bre-1",
+      "spiel_id": "2026-05-09-mci-bre",
+      "markt": "Manchester City vs Brentford FC: Haaland (City) trifft jederzeit",
+      "kategorie": "safe",
+      "quote": 1.5,
+      "rang": 2,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "tipp_id": "atm-cel-1",
+      "spiel_id": "2026-05-09-atm-cel",
+      "markt": "Atletico Madrid vs Celta Vigo: Atletico oder Unentschieden (Doppelte Chance 1X)",
+      "kategorie": "safe",
+      "quote": 1.25,
+      "rang": 3,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "tipp_id": "mci-bre-2",
+      "spiel_id": "2026-05-09-mci-bre",
+      "markt": "Manchester City vs Brentford FC: Manchester City oder Unentschieden (Doppelte Chance 1X)",
+      "kategorie": "safe",
+      "quote": 1.1,
+      "rang": 4,
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "tipp_id": "liv-che-2",
+      "spiel_id": "2026-05-09-liv-che",
+      "markt": "Liverpool FC vs Chelsea FC: Salah (Liverpool) trifft jederzeit",
+      "kategorie": "value",
+      "quote": 1.85,
+      "rang": 5,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "tipp_id": "sun-mun-1",
+      "spiel_id": "2026-05-09-sun-mun",
+      "markt": "Sunderland AFC vs Manchester United: Manchester United Sieg",
+      "kategorie": "value",
+      "quote": 1.85,
+      "rang": 6,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "tipp_id": "atm-cel-2",
+      "spiel_id": "2026-05-09-atm-cel",
+      "markt": "Atletico Madrid vs Celta Vigo: Julian Alvarez (Atletico) trifft jederzeit",
+      "kategorie": "value",
+      "quote": 2.1,
+      "rang": 7,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "tipp_id": "tsg-svw-1",
+      "spiel_id": "2026-05-09-tsg-svw",
+      "markt": "TSG Hoffenheim vs SV Werder Bremen: Kramaric (Hoffenheim) trifft jederzeit",
+      "kategorie": "value",
+      "quote": 2.8,
+      "rang": 8,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "tipp_id": "wob-bay-1",
+      "spiel_id": "2026-05-09-wob-bay",
+      "markt": "VfL Wolfsburg vs FC Bayern Muenchen: Beide Teams treffen Ja",
+      "kategorie": "value",
+      "quote": 1.75,
+      "rang": 9,
+      "empfohlener_einsatz_prozent": 2.0
+    },
+    {
+      "tipp_id": "tsg-svw-2",
+      "spiel_id": "2026-05-09-tsg-svw",
+      "markt": "TSG Hoffenheim vs SV Werder Bremen: Hoffenheim Sieg",
+      "kategorie": "value",
+      "quote": 2.0,
+      "rang": 10,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "tipp_id": "sun-mun-2",
+      "spiel_id": "2026-05-09-sun-mun",
+      "markt": "Sunderland AFC vs Manchester United: Mbeumo (Manchester United) trifft jederzeit",
+      "kategorie": "value",
+      "quote": 2.8,
+      "rang": 11,
+      "empfohlener_einsatz_prozent": 1.0
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-safe-2026-05-09",
+      "name": "Safe-Kombi (~3.31x)",
+      "kategorie": "safe",
+      "beine": [
+        {
+          "spiel_id": "2026-05-09-liv-che",
+          "tipp_id": "liv-che-1",
+          "markt": "Liverpool FC vs Chelsea FC: Liverpool oder Unentschieden (Doppelte Chance 1X)",
+          "quote": 1.3,
+          "spiel_titel": "Liverpool FC vs Chelsea FC"
+        },
+        {
+          "spiel_id": "2026-05-09-mci-bre",
+          "tipp_id": "mci-bre-2",
+          "markt": "Manchester City vs Brentford FC: Manchester City oder Unentschieden (Doppelte Chance 1X)",
+          "quote": 1.1,
+          "spiel_titel": "Manchester City vs Brentford FC"
+        },
+        {
+          "spiel_id": "2026-05-09-atm-cel",
+          "tipp_id": "atm-cel-1",
+          "markt": "Atletico Madrid vs Celta Vigo: Atletico oder Unentschieden (Doppelte Chance 1X)",
+          "quote": 1.25,
+          "spiel_titel": "Atletico Madrid vs Celta Vigo"
+        },
+        {
+          "spiel_id": "2026-05-09-sun-mun",
+          "tipp_id": "sun-mun-1",
+          "markt": "Sunderland AFC vs Manchester United: Manchester United Sieg",
+          "quote": 1.85,
+          "spiel_titel": "Sunderland AFC vs Manchester United"
+        }
+      ],
+      "gesamtquote": 3.31,
+      "rechnung": "1.30 x 1.10 x 1.25 x 1.85 = 3.31",
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "Safe-Kombi 4 Beine in 4 verschiedenen Spielen (Layer-1 OK). Alle Beine aus Liga-Goldgruben (PL + LaLiga). 3 DC (alle Goldgrube-Liga-konform) + 1 Sieg-Outcome (ManU). Layer-2: Sieg-Outcomes (Liv-DC, City-DC, Atletico-DC, ManU-Sieg) - jeweils nur in dieser Kombi. Quote 3.31x = solide Safe-Range. Stufe-1-Einsatz 2% Kasse = 11€."
+    },
+    {
+      "id": "kombi-balance-2026-05-09",
+      "name": "Balance-Kombi (~5.83x)",
+      "kategorie": "value",
+      "beine": [
+        {
+          "spiel_id": "2026-05-09-liv-che",
+          "tipp_id": "liv-che-2",
+          "markt": "Liverpool FC vs Chelsea FC: Salah (Liverpool) trifft jederzeit",
+          "quote": 1.85,
+          "spiel_titel": "Liverpool FC vs Chelsea FC"
+        },
+        {
+          "spiel_id": "2026-05-09-mci-bre",
+          "tipp_id": "mci-bre-1",
+          "markt": "Manchester City vs Brentford FC: Haaland (City) trifft jederzeit",
+          "quote": 1.5,
+          "spiel_titel": "Manchester City vs Brentford FC"
+        },
+        {
+          "spiel_id": "2026-05-09-atm-cel",
+          "tipp_id": "atm-cel-2",
+          "markt": "Atletico Madrid vs Celta Vigo: Julian Alvarez (Atletico) trifft jederzeit",
+          "quote": 2.1,
+          "spiel_titel": "Atletico Madrid vs Celta Vigo"
+        }
+      ],
+      "gesamtquote": 5.83,
+      "rechnung": "1.85 x 1.50 x 2.10 = 5.83",
+      "empfohlener_einsatz_prozent": 0.8,
+      "begruendung": "Pure Goldgrube-Markt-Kombi (3x Torschuetzen Jederzeit, +24.4% ROI Markt). 3 Beine in 3 verschiedenen Spielen (Layer-1 OK). Alle 3 Stuermer mit Form-Edge: Salah 4/5 Tore, Haaland 5/5 Tore, Alvarez 3/4 Tore. Keine Sieg-Outcomes -> keine Layer-2-Konflikte mit anderen Kombis. Quote 5.83x knapp ueber Balance-Untergrenze. Einsatz 0.8% = 4,40€."
+    },
+    {
+      "id": "kombi-risiko-2026-05-09",
+      "name": "Risiko-Kombi (~15.68x)",
+      "kategorie": "wackel",
+      "beine": [
+        {
+          "spiel_id": "2026-05-09-tsg-svw",
+          "tipp_id": "tsg-svw-1",
+          "markt": "TSG Hoffenheim vs SV Werder Bremen: Kramaric (Hoffenheim) trifft jederzeit",
+          "quote": 2.8,
+          "spiel_titel": "TSG Hoffenheim vs SV Werder Bremen"
+        },
+        {
+          "spiel_id": "2026-05-09-sun-mun",
+          "tipp_id": "sun-mun-2",
+          "markt": "Sunderland AFC vs Manchester United: Mbeumo (Manchester United) trifft jederzeit",
+          "quote": 2.8,
+          "spiel_titel": "Sunderland AFC vs Manchester United"
+        },
+        {
+          "spiel_id": "2026-05-09-sev-esp",
+          "tipp_id": "sev-esp-2",
+          "markt": "Sevilla FC vs RCD Espanyol: Sevilla Sieg",
+          "quote": 2.0,
+          "spiel_titel": "Sevilla FC vs RCD Espanyol"
+        }
+      ],
+      "gesamtquote": 15.68,
+      "rechnung": "2.80 x 2.80 x 2.00 = 15.68",
+      "empfohlener_einsatz_prozent": 0.25,
+      "begruendung": "Risiko-Kombi 3 Beine in 3 verschiedenen Spielen (Layer-1 OK). Mix: 2x Torschuetzen-Goldgrube (Kramaric Form 3/4, Mbeumo Backup-Pflicht bei Sesko-Ausfall) + 1 Sieg-Outcome (Sevilla Sieg, neuer Outcome nur in dieser Kombi -> Layer-2 OK). Quote 15.68x = Risiko untere Grenze. Einsatz 0.25% = 1,40€.",
+      "warnung": "WACKEL-Kategorie - Kann reinkommen, aber jedes Bein hat realen Verlust-Risk. Saison-Endspiel-Volatilitaet beachten."
+    },
+    {
+      "id": "kombi-moonshot-2026-05-09",
+      "name": "Moonshot-Kombi (~112.90x)",
+      "kategorie": "wackel",
+      "beine": [
+        {
+          "spiel_id": "2026-05-09-wob-bay",
+          "tipp_id": "wob-bay-3",
+          "markt": "VfL Wolfsburg vs FC Bayern Muenchen: Wolfsburg Sieg",
+          "quote": 4.8,
+          "spiel_titel": "VfL Wolfsburg vs FC Bayern Muenchen"
+        },
+        {
+          "spiel_id": "2026-05-09-fca-bmg",
+          "tipp_id": "fca-bmg-2",
+          "markt": "FC Augsburg vs Borussia Moenchengladbach: Tabakovic (Gladbach) trifft jederzeit",
+          "quote": 4.2,
+          "spiel_titel": "FC Augsburg vs Borussia Moenchengladbach"
+        },
+        {
+          "spiel_id": "2026-05-09-tsg-svw",
+          "tipp_id": "tsg-svw-2",
+          "markt": "TSG Hoffenheim vs SV Werder Bremen: Hoffenheim Sieg",
+          "quote": 2.0,
+          "spiel_titel": "TSG Hoffenheim vs SV Werder Bremen"
+        },
+        {
+          "spiel_id": "2026-05-09-sun-mun",
+          "tipp_id": "sun-mun-2",
+          "markt": "Sunderland AFC vs Manchester United: Mbeumo (Manchester United) trifft jederzeit",
+          "quote": 2.8,
+          "spiel_titel": "Sunderland AFC vs Manchester United"
+        }
+      ],
+      "gesamtquote": 112.9,
+      "rechnung": "4.80 x 4.20 x 2.00 x 2.80 = 112.90",
+      "empfohlener_einsatz_prozent": 0.1,
+      "begruendung": "Moonshot 4 Beine in 4 verschiedenen Spielen (Layer-1 OK). Wolfsburg-Sieg @ 4.80 mit 2:0-Insurance-Schutz (BL) + Tabakovic Backup-Stuermer-Form + Hoffenheim Conference-Quali-Druck + Mbeumo Star-Ausfall-Backup-Pflicht. Layer-2: Wolfsburg-Sieg + Hoffenheim-Sieg sind verschiedene Sieg-Outcomes (verschiedene Spiele, beide nur in dieser Kombi -> OK). Mbeumo Tor-Outcome in Risiko UND Moonshot zulaessig (Layer-2 limitiert nur Sieg-Outcomes). Quote 112.9x = Spass-Lotterie. Einsatz 0.1% = 0,55€.",
+      "warnung": "MOONSHOT - Lotterie-Einsatz, max 0,55€. Realistische Hit-Chance < 2%. Reiner Spass."
+    }
+  ],
+  "lessons_angewandt": [
+    "Lesson 03.05.: Anti-DC-Sucht — nur 3 SAFE-DC im Dossier (alle PL/LaLiga = Liga-Goldgrube). Keine Bundesliga-DC als SAFE.",
+    "Lesson 03.05.: SAFE-Konstruktion #3 — kein SAFE wenn Heim ohne Saisonziel + Auswaerts mit Klassenerhalt-Druck. Sevilla-Espanyol max WACKEL.",
+    "Lesson 04.05.: PFLICHT-PROFILE Heim-Favorit < 1.80 = Torschuetzen-Tipp Pflicht. Liv (Salah), City (Haaland), Atletico (Alvarez), Hoffenheim (Kramaric) eingebaut.",
+    "Lesson 04.05.: STAR-AUSFALL Backup-Pflicht — Sesko angeschlagen -> Mbeumo Torschuetze als Pflicht-Tipp.",
+    "Lesson 04.05.: Goldgrube Torschuetzen Jederzeit aktiv suchen (+24.4% ROI) — 5 Torschuetzen-Tipps im Dossier.",
+    "Lesson 27.04.+04.05.: HR3 Doppelbelastungs-Joker — Bayern nach CL-HF-Aus 06.05. + Saisonziel durch = Anti-SAFE auf Bayern. Wolfsburg-DC/Sieg + Olise Backup-Tor-Tipp.",
+    "Lesson 26.04.: 2:0-Insurance gilt nur BL+CL. Wolfsburg-Sieg und Hoffenheim-Sieg in BL profitieren. Liverpool/ManU/Sevilla nicht abgesichert.",
+    "Lesson 03.05.: Saison-Kontext-Selbst-Widerspruch vermeiden — Wolfsburg-Bayern motivations_asymmetrie sagt 'KEIN SAFE auf Bayern' -> kein Bayern-Sieg/DC im Dossier.",
+    "Lesson 04.05.: DC-Cap max 2-3 im Dossier — 3 SAFE-DC eingehalten (Liverpool, City, Atletico). BL-DCs entfernt, durch Sieg-/Torschuetzen-Tipps ersetzt."
+  ],
+  "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700",
+  "einzeltipps_ergebnis": [
+    {
+      "tipp_id": "liv-che-1",
+      "spiel_id": "2026-05-09-liv-che",
+      "markt": "Liverpool FC vs Chelsea FC: Liverpool oder Unentschieden (Doppelte Chance 1X)",
+      "kategorie": "safe",
+      "quote": 1.3,
+      "rang": 1,
+      "empfohlener_einsatz_prozent": 1.5,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.3
+    },
+    {
+      "tipp_id": "mci-bre-1",
+      "spiel_id": "2026-05-09-mci-bre",
+      "markt": "Manchester City vs Brentford FC: Haaland (City) trifft jederzeit",
+      "kategorie": "safe",
+      "quote": 1.5,
+      "rang": 2,
+      "empfohlener_einsatz_prozent": 1.5,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.5
+    },
+    {
+      "tipp_id": "atm-cel-1",
+      "spiel_id": "2026-05-09-atm-cel",
+      "markt": "Atletico Madrid vs Celta Vigo: Atletico oder Unentschieden (Doppelte Chance 1X)",
+      "kategorie": "safe",
+      "quote": 1.25,
+      "rang": 3,
+      "empfohlener_einsatz_prozent": 1.5,
+      "status": "verloren",
+      "gewinn_faktor": -1.0
+    },
+    {
+      "tipp_id": "mci-bre-2",
+      "spiel_id": "2026-05-09-mci-bre",
+      "markt": "Manchester City vs Brentford FC: Manchester City oder Unentschieden (Doppelte Chance 1X)",
+      "kategorie": "safe",
+      "quote": 1.1,
+      "rang": 4,
+      "empfohlener_einsatz_prozent": 1.0,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.1
+    },
+    {
+      "tipp_id": "liv-che-2",
+      "spiel_id": "2026-05-09-liv-che",
+      "markt": "Liverpool FC vs Chelsea FC: Salah (Liverpool) trifft jederzeit",
+      "kategorie": "value",
+      "quote": 1.85,
+      "rang": 5,
+      "empfohlener_einsatz_prozent": 1.5,
+      "status": "verloren",
+      "gewinn_faktor": -1.0
+    },
+    {
+      "tipp_id": "sun-mun-1",
+      "spiel_id": "2026-05-09-sun-mun",
+      "markt": "Sunderland AFC vs Manchester United: Manchester United Sieg",
+      "kategorie": "value",
+      "quote": 1.85,
+      "rang": 6,
+      "empfohlener_einsatz_prozent": 1.5,
+      "status": "verloren",
+      "gewinn_faktor": -1.0
+    },
+    {
+      "tipp_id": "atm-cel-2",
+      "spiel_id": "2026-05-09-atm-cel",
+      "markt": "Atletico Madrid vs Celta Vigo: Julian Alvarez (Atletico) trifft jederzeit",
+      "kategorie": "value",
+      "quote": 2.1,
+      "rang": 7,
+      "empfohlener_einsatz_prozent": 1.5,
+      "status": "verloren",
+      "gewinn_faktor": -1.0
+    },
+    {
+      "tipp_id": "tsg-svw-1",
+      "spiel_id": "2026-05-09-tsg-svw",
+      "markt": "TSG Hoffenheim vs SV Werder Bremen: Kramaric (Hoffenheim) trifft jederzeit",
+      "kategorie": "value",
+      "quote": 2.8,
+      "rang": 8,
+      "empfohlener_einsatz_prozent": 1.5,
+      "status": "verloren",
+      "gewinn_faktor": -1.0
+    },
+    {
+      "tipp_id": "wob-bay-1",
+      "spiel_id": "2026-05-09-wob-bay",
+      "markt": "VfL Wolfsburg vs FC Bayern Muenchen: Beide Teams treffen Ja",
+      "kategorie": "value",
+      "quote": 1.75,
+      "rang": 9,
+      "empfohlener_einsatz_prozent": 2.0,
+      "status": "verloren",
+      "gewinn_faktor": -1.0
+    },
+    {
+      "tipp_id": "tsg-svw-2",
+      "spiel_id": "2026-05-09-tsg-svw",
+      "markt": "TSG Hoffenheim vs SV Werder Bremen: Hoffenheim Sieg",
+      "kategorie": "value",
+      "quote": 2.0,
+      "rang": 10,
+      "empfohlener_einsatz_prozent": 1.5,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.0
+    },
+    {
+      "tipp_id": "sun-mun-2",
+      "spiel_id": "2026-05-09-sun-mun",
+      "markt": "Sunderland AFC vs Manchester United: Mbeumo (Manchester United) trifft jederzeit",
+      "kategorie": "value",
+      "quote": 2.8,
+      "rang": 11,
+      "empfohlener_einsatz_prozent": 1.0,
+      "status": "verloren",
+      "gewinn_faktor": -1.0
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "kombi-safe-2026-05-09",
+      "status": "verloren",
+      "gesamtquote": 3.31,
+      "gewinn_faktor": -1.0
+    },
+    {
+      "kombi_id": "kombi-balance-2026-05-09",
+      "status": "verloren",
+      "gesamtquote": 5.83,
+      "gewinn_faktor": -1.0
+    },
+    {
+      "kombi_id": "kombi-risiko-2026-05-09",
+      "status": "verloren",
+      "gesamtquote": 15.68,
+      "gewinn_faktor": -1.0
+    },
+    {
+      "kombi_id": "kombi-moonshot-2026-05-09",
+      "status": "verloren",
+      "gesamtquote": 112.9,
+      "gewinn_faktor": -1.0
+    }
+  ],
+  "ausgewertet_am": "2026-05-10T06:08:33+00:00"
+}

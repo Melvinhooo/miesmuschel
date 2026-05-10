@@ -506,6 +506,37 @@
       "kategorie": "HR18 + HR21: Reaktions-Spike-Deaktivierung bei Gegner-Star in historischer Form (Quelle 8h — Rotation/Form-Pattern)",
       "lesson": "WOLVES-G3-REAKTIONS-SPIKE-NIEDERLAGE: nach 95-133-Worst-Loss-in-Franchise-History-Klatsche war Wolves-Heim-ML @ 2.64 als HR18-Reaktions-Spike-VALUE gesetzt. Wolves verloren 108-115 trotz Edwards 32/14/6 weil Wembanyama 39 Pkt + 15 Reb + 5 Blk lieferte (4. Spieler aller Zeiten mit 35/15/5+ in einem Playoff-Spiel, neben Shaq/Kareem/Olajuwon). Lesson: Reaktions-Spike-These (HR18) ist eine *Heim-Faktor-These*, aber Gegner-Star in historischer Form ueberlagert sie. Neue Eingrenzung HR21+: Reaktions-Spike-VALUE NUR setzen wenn (a) Gegner-Top-Star NICHT in den letzten 2 Spielen jeweils 35+/15+ ODER 12+ Blk geliefert hat UND (b) Heim-Star (Edwards) ohne Knee-Strain-Risiko ist. Sonst max WACKEL. Triple-Bestaetigung mit Mainz-Bayern (CL-Last) und Cavs-Strus-Wurf-Krise: HR18 ist nicht universell, sondern braucht Gegner-Form-Filter.",
       "bezug_spiel_id": "2026-05-09-min-sas"
+    },
+    {
+      "datum": "2026-05-10",
+      "kategorie": "AUTO-PATTERN: Premier League / Sieg/Spread / value - 75% Verlust (3/4)",
+      "lesson": "Auto-erkannter Verlust-Cluster Stand 2026-05-10: in Liga 'Premier League' wurden 4 VALUE-Tipps auf Markt-Kat 'Sieg/Spread' platziert, davon 3 verloren (75%). Empfehlung: diesen Cluster in den naechsten Lauefen NICHT mehr als VALUE - max eine Stufe runter (safe->value, value->wackel) bis Verlust-Quote < 50%. Beispiele: 2026-05-03 Aston Villa - Tottenham Hotspur (Aston Villa Sieg) -> 1:2; 2026-05-04 FC Everton - Manchester City (Manchester City Sieg) -> 3:3; 2026-05-09 Sunderland AFC - Manchester United (Manchester United Sieg) -> 0:0",
+      "bezug_spiel_id": null,
+      "auto_generiert": true
+    },
+    {
+      "datum": "2026-05-10",
+      "kategorie": "Star-Stuermer-Aufstellungs-Verifikation 1-2h vor Anstoss (Quelle 8h — Rotation/Verletzung)",
+      "lesson": "DOPPEL-AUSFALL 09.05. — Salah (Liverpool, Tipp @ 1.85) UND Julian Alvarez (Atletico, Tipp @ 2.10) BEIDE am Spieltag verletzungsbedingt aus dem Kader gestrichen. Beide waren PFLICHT-PROFILE-Heim-Favorit-Tipps (Lesson 04.05.) und beide gefloppt obwohl sie laut Pre-Match-Quellen 'voll fit' waren. Lesson 22.04. (Roster-Verifikation) griff nicht — sie wurde nur fuer Trade-Risiko angewandt, nicht fuer kurzfristige Verletzungen. NEUE HARTREGEL: Bei JEDEM Stuermer-Torschuetzen-Tipp mit Quote unter 2.30 muss 1-2h vor Anstoss eine Aufstellungs-Verifikation per WebSearch ('[Spieler] starting lineup [Datum]' oder Vereinsseite) erfolgen. Bis zur Bestaetigung max 0.5% Einsatz, nach Bestaetigung Upgrade auf 1.5%. Ohne Verifikation: Tipp wird zu wackel degradiert ODER ganz gestrichen. Konsequenz heute: -3.0% Kasse (-16.50€) durch beide Tipps. Bezugsspiele: 2026-05-09-liv-che (Salah-Tor-Tipp) + 2026-05-09-atm-cel (Alvarez-Tor-Tipp).",
+      "bezug_spiel_id": "2026-05-09-liv-che"
+    },
+    {
+      "datum": "2026-05-10",
+      "kategorie": "Korrelations-Tag — alle 4 Kombis floppten gleichzeitig (Quelle 8a — Korrelations-Analyse)",
+      "lesson": "KORRELATIONS-CRASH 09.05.: ALLE 4 Kombis (Safe 3.31x / Balance 5.83x / Risiko 15.68x / Moonshot 112.9x) verloren am gleichen Tag. Killer-Beine: Safe = atm-cel-1 (Atletico-DC, Star-Ausfall) + sun-mun-1 (ManU-Sieg, 0:0). Balance = liv-che-2 (Salah Tor, Star-Ausfall) + atm-cel-2 (Alvarez Tor, Star-Ausfall). Risiko = tsg-svw-1 (Kramaric Tor) + sun-mun-2 (Mbeumo Tor). Moonshot = wob-bay-3 (Wolfsburg-Sieg) + fca-bmg-2 (Tabakovic). Pattern: 5 Stuermer-Tipps + 3 DC-Tipps + 3 Sieg-Tipps stammen alle aus EINER Edge-Logik (PFLICHT-PROFILE-Lesson 04.05. + DC-Cap-Lesson 04.05. + Star-Stuermer-Goldgrube-Lesson). Wenn diese Logik liga-weit kippt (Saisonende-Tor-Flaute + Star-Ausfaelle), bricht ALLES gleichzeitig. NEUE REGEL: max 2 Kombi-Beine duerfen aus DERSELBEN Lesson-Quelle stammen. Wenn 3+ Beine aus einer Quelle: Kombi neu konstruieren mit Beinen aus heterogenen Edge-Quellen (z.B. 1× DC-Goldgrube + 1× Stuermer-Goldgrube + 1× saison_kontext-Edge + 1× Markt-Goldgrube). Tagesbilanz: -3.15% Kasse aus Kombis allein.",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-05-10",
+      "kategorie": "HR3 Doppelbelastungs-Joker greift NICHT bei abgeschlossenem CL-Aus (Quelle 8h — Rotation-Pattern aus volle_analyse)",
+      "lesson": "ANTI-TOP-TEAM-ROTATION-THESE WIDERLEGT: Wolfsburg-Bayern 09.05. — Bayern-CL-HF-Aus 06.05. + Saisonziel-durch + 3 Tage Recovery = klassischer HR3-Doppelbelastungs-Setup. Tipp-Setup: Wolfsburg-Sieg @ 4.80 + BTTS @ 1.75 + Olise (Backup) @ 3.10. Resultat: Bayern gewann 0:1, Kane STARTELF + Olise STARTELF (NICHT Backup), Kompany rotierte praktisch nicht. Wolfsburg-Sieg + BTTS verloren, nur Olise-Tor traf (aber als Stamm, nicht als Joker). Lesson: HR3 (Lesson 27.04.+04.05.) greift nur bei BEVORSTEHENDEM Top-Wettkampf in der Folgewoche (z.B. CL-Finale), NICHT bei abgeschlossenem CL-Aus + Saisonziel-erreicht. Bei diesem Setup spielt Top-Team mit Stamm-Elf, weil Stolz/Form/Saisonende-Routine. NEUE REGEL: HR3-Doppelbelastungs-Joker nur aktivieren wenn (a) Top-Team noch Wettbewerb in <=7 Tagen vor sich hat ODER (b) Verletzungs-Druck konkret bestaetigt ist. CL-Aus alleine reicht NICHT.",
+      "bezug_spiel_id": "2026-05-09-wob-bay"
+    },
+    {
+      "datum": "2026-05-10",
+      "kategorie": "Saisonende-Tor-Flaute Mai 2026 (Quelle 8g — Markt-Pattern aus volle_analyse aller Spiele)",
+      "lesson": "MARKT-PATTERN AUS NICHT-GETIPPTEN ANALYSEN 09.05.: Acht Spiele Tor-Bilanz Wolfsburg-Bayern 1, Augsburg-Gladbach 4, Hoffenheim-Bremen 1, Liverpool-Chelsea 2, City-Brentford 3, Sunderland-ManU 0, Atletico-Celta 1, Sevilla-Espanyol 3 = 15 Tore in 8 Spielen = 1.88 Tore/Spiel. Saisonende-Schiene mit vielen Mid-Table-Begegnungen = TORARM. 5/8 Spiele unter 2.5 Tore. Aktive Implikation: Unsere fca-bmg-1 (Unter 3.5 Tore @ 1.30) und sev-esp-1 (Unter 2.5 @ 1.72) sind genau richtig konstruiert gewesen, aber haben VERLOREN — beide Spiele waren die torreichsten der Schiene (Augsburg 4, Sevilla 3). Lesson: Saisonende-Tor-Flaute ist real, ABER die Ausreisser-Spiele (Tor-Festival mit 3+ Toren) sind die mid-table-Spiele OHNE Klassenerhalt-Druck (Augsburg 9.Pl + Gladbach 11.Pl) — das passt zur 'Routine-Spiel ohne Druck = mehr Risiko'-Logik. NEUE REGEL: Unter-2.5/3.5 Tipps in Saisonende-Schiene NUR bei mind. einem Klassenerhalts- oder Pflicht-Sieg-Team (defensive Disziplin erzwungen). Bei Mid-vs-Mid ohne Druck: Coinflip, max wackel.",
+      "bezug_spiel_id": "2026-05-09-fca-bmg"
     }
   ]
 }

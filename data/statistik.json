@@ -1,37 +1,37 @@
 {
-  "letzte_berechnung": "2026-05-09T06:09:39+00:00",
+  "letzte_berechnung": "2026-05-10T06:20:12+00:00",
   "gesamt": {
-    "tipps": 176,
-    "gewonnen": 104,
-    "verloren": 72,
+    "tipps": 187,
+    "gewonnen": 108,
+    "verloren": 79,
     "push": 0,
     "offen": 0,
-    "einsatz": 176.0,
-    "netto": 27.59,
-    "trefferquote": 59.1,
-    "roi_prozent": 15.7
+    "einsatz": 187.0,
+    "netto": 22.49,
+    "trefferquote": 57.8,
+    "roi_prozent": 12.0
   },
   "letzte_30_tage": {
-    "tipps": 176,
-    "gewonnen": 104,
-    "verloren": 72,
+    "tipps": 187,
+    "gewonnen": 108,
+    "verloren": 79,
     "push": 0,
     "offen": 0,
-    "einsatz": 176.0,
-    "netto": 27.59,
-    "trefferquote": 59.1,
-    "roi_prozent": 15.7
+    "einsatz": 187.0,
+    "netto": 22.49,
+    "trefferquote": 57.8,
+    "roi_prozent": 12.0
   },
   "letzte_90_tage": {
-    "tipps": 176,
-    "gewonnen": 104,
-    "verloren": 72,
+    "tipps": 187,
+    "gewonnen": 108,
+    "verloren": 79,
     "push": 0,
     "offen": 0,
-    "einsatz": 176.0,
-    "netto": 27.59,
-    "trefferquote": 59.1,
-    "roi_prozent": 15.7
+    "einsatz": 187.0,
+    "netto": 22.49,
+    "trefferquote": 57.8,
+    "roi_prozent": 12.0
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -68,26 +68,26 @@
       "roi_prozent": -9.5
     },
     "LaLiga": {
-      "tipps": 20,
+      "tipps": 22,
       "gewonnen": 14,
-      "verloren": 6,
+      "verloren": 8,
       "push": 0,
       "offen": 0,
-      "einsatz": 20.0,
-      "netto": 2.21,
-      "trefferquote": 70.0,
-      "roi_prozent": 11.1
+      "einsatz": 22.0,
+      "netto": 0.21,
+      "trefferquote": 63.6,
+      "roi_prozent": 1.0
     },
     "Bundesliga": {
-      "tipps": 25,
-      "gewonnen": 14,
-      "verloren": 11,
+      "tipps": 28,
+      "gewonnen": 15,
+      "verloren": 13,
       "push": 0,
       "offen": 0,
-      "einsatz": 25.0,
-      "netto": 0.57,
-      "trefferquote": 56.0,
-      "roi_prozent": 2.3
+      "einsatz": 28.0,
+      "netto": -0.43,
+      "trefferquote": 53.6,
+      "roi_prozent": -1.5
     },
     "Serie A": {
       "tipps": 4,
@@ -112,15 +112,15 @@
       "roi_prozent": -40.0
     },
     "Premier League": {
-      "tipps": 17,
-      "gewonnen": 12,
-      "verloren": 5,
+      "tipps": 23,
+      "gewonnen": 15,
+      "verloren": 8,
       "push": 0,
       "offen": 0,
-      "einsatz": 17.0,
-      "netto": 0.59,
-      "trefferquote": 70.6,
-      "roi_prozent": 3.5
+      "einsatz": 23.0,
+      "netto": -1.51,
+      "trefferquote": 65.2,
+      "roi_prozent": -6.6
     },
     "NBA Playoffs R1 G4": {
       "tipps": 4,
@@ -1588,15 +1588,15 @@
       "roi_prozent": -100.0
     },
     "Manchester United Sieg": {
-      "tipps": 1,
+      "tipps": 2,
       "gewonnen": 1,
-      "verloren": 0,
+      "verloren": 1,
       "push": 0,
       "offen": 0,
-      "einsatz": 1.0,
-      "netto": 1.25,
-      "trefferquote": 100.0,
-      "roi_prozent": 125.0
+      "einsatz": 2.0,
+      "netto": 0.25,
+      "trefferquote": 50.0,
+      "roi_prozent": 12.5
     },
     "Aston Villa Sieg": {
       "tipps": 1,
@@ -1949,6 +1949,116 @@
       "netto": 0.0,
       "trefferquote": 0.0,
       "roi_prozent": 0.0
+    },
+    "Liverpool oder Unentschieden (Doppelte Chance 1X)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.3,
+      "trefferquote": 100.0,
+      "roi_prozent": 30.0
+    },
+    "Haaland (City) trifft jederzeit": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.5,
+      "trefferquote": 100.0,
+      "roi_prozent": 50.0
+    },
+    "Atletico oder Unentschieden (Doppelte Chance 1X)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Manchester City oder Unentschieden (Doppelte Chance 1X)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.1,
+      "trefferquote": 100.0,
+      "roi_prozent": 10.0
+    },
+    "Salah (Liverpool) trifft jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Julian Alvarez (Atletico) trifft jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Kramaric (Hoffenheim) trifft jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Beide Teams treffen Ja": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Hoffenheim Sieg": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.0,
+      "trefferquote": 100.0,
+      "roi_prozent": 100.0
+    },
+    "Mbeumo (Manchester United) trifft jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
     }
   },
   "nach_markt_typ": {
@@ -1997,26 +2107,26 @@
       "roi_prozent": 55.0
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 60,
-      "gewonnen": 37,
-      "verloren": 23,
+      "tipps": 62,
+      "gewonnen": 38,
+      "verloren": 24,
       "push": 0,
       "offen": 0,
-      "einsatz": 60.0,
+      "einsatz": 62.0,
       "netto": 10.19,
-      "trefferquote": 61.7,
-      "roi_prozent": 17.0
+      "trefferquote": 61.3,
+      "roi_prozent": 16.4
     },
     "Torschuetzen Jederzeit": {
-      "tipps": 19,
-      "gewonnen": 9,
-      "verloren": 10,
+      "tipps": 24,
+      "gewonnen": 10,
+      "verloren": 14,
       "push": 0,
       "offen": 0,
-      "einsatz": 19.0,
-      "netto": 10.97,
-      "trefferquote": 47.4,
-      "roi_prozent": 57.7
+      "einsatz": 24.0,
+      "netto": 7.47,
+      "trefferquote": 41.7,
+      "roi_prozent": 31.1
     },
     "Unter 2.5 Tore": {
       "tipps": 7,
@@ -2030,15 +2140,15 @@
       "roi_prozent": 9.3
     },
     "Doppelte Chance 1X": {
-      "tipps": 14,
-      "gewonnen": 12,
-      "verloren": 2,
+      "tipps": 17,
+      "gewonnen": 14,
+      "verloren": 3,
       "push": 0,
       "offen": 0,
-      "einsatz": 14.0,
-      "netto": 1.44,
-      "trefferquote": 85.7,
-      "roi_prozent": 10.3
+      "einsatz": 17.0,
+      "netto": 0.84,
+      "trefferquote": 82.4,
+      "roi_prozent": 4.9
     },
     "Doppelte Chance X2": {
       "tipps": 9,
@@ -2063,15 +2173,15 @@
       "roi_prozent": 80.9
     },
     "Beide Teams treffen JA": {
-      "tipps": 3,
+      "tipps": 4,
       "gewonnen": 1,
-      "verloren": 2,
+      "verloren": 3,
       "push": 0,
       "offen": 0,
-      "einsatz": 3.0,
-      "netto": -1.3,
-      "trefferquote": 33.3,
-      "roi_prozent": -43.3
+      "einsatz": 4.0,
+      "netto": -2.3,
+      "trefferquote": 25.0,
+      "roi_prozent": -57.5
     },
     "Ueber 1.5 Tore": {
       "tipps": 5,
@@ -2307,37 +2417,37 @@
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 83,
-      "gewonnen": 44,
-      "verloren": 39,
+      "tipps": 87,
+      "gewonnen": 45,
+      "verloren": 42,
       "push": 0,
       "offen": 0,
-      "einsatz": 83.0,
-      "netto": 12.46,
-      "trefferquote": 53.0,
-      "roi_prozent": 15.0
+      "einsatz": 87.0,
+      "netto": 9.96,
+      "trefferquote": 51.7,
+      "roi_prozent": 11.4
     },
     "2.00-3.00": {
-      "tipps": 20,
-      "gewonnen": 10,
-      "verloren": 10,
+      "tipps": 24,
+      "gewonnen": 11,
+      "verloren": 13,
       "push": 0,
       "offen": 0,
-      "einsatz": 20.0,
-      "netto": 6.64,
-      "trefferquote": 50.0,
-      "roi_prozent": 33.2
+      "einsatz": 24.0,
+      "netto": 4.64,
+      "trefferquote": 45.8,
+      "roi_prozent": 19.3
     },
     "1.00-1.50": {
-      "tipps": 65,
-      "gewonnen": 48,
-      "verloren": 17,
+      "tipps": 68,
+      "gewonnen": 50,
+      "verloren": 18,
       "push": 0,
       "offen": 0,
-      "einsatz": 65.0,
-      "netto": 6.04,
-      "trefferquote": 73.8,
-      "roi_prozent": 9.3
+      "einsatz": 68.0,
+      "netto": 5.44,
+      "trefferquote": 73.5,
+      "roi_prozent": 8.0
     },
     "3.00+": {
       "tipps": 8,
@@ -2353,26 +2463,26 @@
   },
   "nach_kategorie": {
     "safe": {
-      "tipps": 55,
-      "gewonnen": 40,
-      "verloren": 15,
+      "tipps": 59,
+      "gewonnen": 43,
+      "verloren": 16,
       "push": 0,
       "offen": 0,
-      "einsatz": 55.0,
-      "netto": 0.85,
-      "trefferquote": 72.7,
-      "roi_prozent": 1.5
+      "einsatz": 59.0,
+      "netto": 0.75,
+      "trefferquote": 72.9,
+      "roi_prozent": 1.3
     },
     "value": {
-      "tipps": 102,
-      "gewonnen": 55,
-      "verloren": 47,
+      "tipps": 109,
+      "gewonnen": 56,
+      "verloren": 53,
       "push": 0,
       "offen": 0,
-      "einsatz": 102.0,
-      "netto": 19.68,
-      "trefferquote": 53.9,
-      "roi_prozent": 19.3
+      "einsatz": 109.0,
+      "netto": 14.68,
+      "trefferquote": 51.4,
+      "roi_prozent": 13.5
     },
     "wackel": {
       "tipps": 19,
@@ -2403,6 +2513,286 @@
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-05-09",
+      "gesamt": {
+        "tipps": 11,
+        "gewonnen": 4,
+        "verloren": 7,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 11.0,
+        "netto": -5.1,
+        "trefferquote": 36.4,
+        "roi_prozent": -46.4
+      },
+      "spiele": [
+        {
+          "id": "2026-05-09-wob-bay",
+          "liga": "Bundesliga",
+          "heim": "VfL Wolfsburg",
+          "gast": "FC Bayern Muenchen",
+          "endstand": "0:1",
+          "tipps": [
+            {
+              "markt": "Beide Teams treffen Ja",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "BTTS NEIN — nur Bayern traf (Olise 56'), Wolfsburg 0 Tore"
+            }
+          ]
+        },
+        {
+          "id": "2026-05-09-tsg-svw",
+          "liga": "Bundesliga",
+          "heim": "TSG Hoffenheim",
+          "gast": "SV Werder Bremen",
+          "endstand": "1:0",
+          "tipps": [
+            {
+              "markt": "Kramaric (Hoffenheim) trifft jederzeit",
+              "quote": 2.8,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Kramaric assistierte das 1:0 (Touré 26'), traf aber nicht selbst. Kramaric in der 89. Min fuer Proemel ausgewechselt — Proemel traf nicht. Kein Einwechslungs-Boost."
+            },
+            {
+              "markt": "Hoffenheim Sieg",
+              "quote": 2.0,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.0,
+              "kommentar": "Hoffenheim gewann 1:0"
+            }
+          ]
+        },
+        {
+          "id": "2026-05-09-liv-che",
+          "liga": "Premier League",
+          "heim": "Liverpool FC",
+          "gast": "Chelsea FC",
+          "endstand": "1:1",
+          "tipps": [
+            {
+              "markt": "Liverpool oder Unentschieden (Doppelte Chance 1X)",
+              "quote": 1.3,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.3,
+              "kommentar": "Doppelte Chance 1X — Liverpool spielte Unentschieden 1:1"
+            },
+            {
+              "markt": "Salah (Liverpool) trifft jederzeit",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Salah verletzungsbedingt nicht im Kader (Aufstellungs-Verifikation 1h vorher haette gewarnt). Kein Einwechslungs-Boost (Salah nicht im Spiel)."
+            }
+          ]
+        },
+        {
+          "id": "2026-05-09-mci-bre",
+          "liga": "Premier League",
+          "heim": "Manchester City",
+          "gast": "Brentford FC",
+          "endstand": "3:0",
+          "tipps": [
+            {
+              "markt": "Haaland (City) trifft jederzeit",
+              "quote": 1.5,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.5,
+              "kommentar": "Haaland traf in der 75. Min zum 2:0"
+            },
+            {
+              "markt": "Manchester City oder Unentschieden (Doppelte Chance 1X)",
+              "quote": 1.1,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.1,
+              "kommentar": "City gewann 3:0 — DC 1X aufgegangen"
+            }
+          ]
+        },
+        {
+          "id": "2026-05-09-sun-mun",
+          "liga": "Premier League",
+          "heim": "Sunderland AFC",
+          "gast": "Manchester United",
+          "endstand": "0:0",
+          "tipps": [
+            {
+              "markt": "Manchester United Sieg",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "0:0 — kein ManU-Sieg. PL hat keine 2:0-Insurance."
+            },
+            {
+              "markt": "Mbeumo (Manchester United) trifft jederzeit",
+              "quote": 2.8,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Mbeumo kam von der Bank, traf nicht. Mbeumo wurde nicht ausgewechselt sondern eingewechselt — Boost greift nicht."
+            }
+          ]
+        },
+        {
+          "id": "2026-05-09-atm-cel",
+          "liga": "LaLiga",
+          "heim": "Atletico Madrid",
+          "gast": "Celta Vigo",
+          "endstand": "0:1",
+          "tipps": [
+            {
+              "markt": "Atletico oder Unentschieden (Doppelte Chance 1X)",
+              "quote": 1.25,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Atletico verlor 0:1 — DC 1X gerissen"
+            },
+            {
+              "markt": "Julian Alvarez (Atletico) trifft jederzeit",
+              "quote": 2.1,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Julian Alvarez verletzungsbedingt NICHT im Kader (Aufstellungs-Verifikation fehlte)."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi (~3.31x)",
+          "kategorie": "safe",
+          "gesamtquote": 3.31,
+          "einsatz_prozent": 2.0,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Liverpool FC vs Chelsea FC: Liverpool oder Unentschieden (Doppelte Chance 1X)",
+              "quote": 1.3,
+              "status": "gewonnen",
+              "kommentar": "Doppelte Chance 1X — Liverpool spielte Unentschieden 1:1"
+            },
+            {
+              "markt": "Manchester City vs Brentford FC: Manchester City oder Unentschieden (Doppelte Chance 1X)",
+              "quote": 1.1,
+              "status": "gewonnen",
+              "kommentar": "City gewann 3:0 — DC 1X aufgegangen"
+            },
+            {
+              "markt": "Atletico Madrid vs Celta Vigo: Atletico oder Unentschieden (Doppelte Chance 1X)",
+              "quote": 1.25,
+              "status": "verloren",
+              "kommentar": "Atletico verlor 0:1 — DC 1X gerissen"
+            },
+            {
+              "markt": "Sunderland AFC vs Manchester United: Manchester United Sieg",
+              "quote": 1.85,
+              "status": "verloren",
+              "kommentar": "0:0 — kein ManU-Sieg. PL hat keine 2:0-Insurance."
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi (~5.83x)",
+          "kategorie": "value",
+          "gesamtquote": 5.83,
+          "einsatz_prozent": 0.8,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Liverpool FC vs Chelsea FC: Salah (Liverpool) trifft jederzeit",
+              "quote": 1.85,
+              "status": "verloren",
+              "kommentar": "Salah verletzungsbedingt nicht im Kader (Aufstellungs-Verifikation 1h vorher haette gewarnt). Kein Einwechslungs-Boost (Salah nicht im Spiel)."
+            },
+            {
+              "markt": "Manchester City vs Brentford FC: Haaland (City) trifft jederzeit",
+              "quote": 1.5,
+              "status": "gewonnen",
+              "kommentar": "Haaland traf in der 75. Min zum 2:0"
+            },
+            {
+              "markt": "Atletico Madrid vs Celta Vigo: Julian Alvarez (Atletico) trifft jederzeit",
+              "quote": 2.1,
+              "status": "verloren",
+              "kommentar": "Julian Alvarez verletzungsbedingt NICHT im Kader (Aufstellungs-Verifikation fehlte)."
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi (~15.68x)",
+          "kategorie": "wackel",
+          "gesamtquote": 15.68,
+          "einsatz_prozent": 0.25,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "TSG Hoffenheim vs SV Werder Bremen: Kramaric (Hoffenheim) trifft jederzeit",
+              "quote": 2.8,
+              "status": "verloren",
+              "kommentar": "Kramaric assistierte das 1:0 (Touré 26'), traf aber nicht selbst. Kramaric in der 89. Min fuer Proemel ausgewechselt — Proemel traf nicht. Kein Einwechslungs-Boost."
+            },
+            {
+              "markt": "Sunderland AFC vs Manchester United: Mbeumo (Manchester United) trifft jederzeit",
+              "quote": 2.8,
+              "status": "verloren",
+              "kommentar": "Mbeumo kam von der Bank, traf nicht. Mbeumo wurde nicht ausgewechselt sondern eingewechselt — Boost greift nicht."
+            },
+            {
+              "markt": "Sevilla FC vs RCD Espanyol: Sevilla Sieg",
+              "quote": 2.0,
+              "status": "gewonnen",
+              "kommentar": "Sevilla gewann 2:1 mit Last-Gasp-Tor (Adams 90+1') nach Espanyol-Fuehrung"
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi (~112.90x)",
+          "kategorie": "wackel",
+          "gesamtquote": 112.9,
+          "einsatz_prozent": 0.1,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "VfL Wolfsburg vs FC Bayern Muenchen: Wolfsburg Sieg",
+              "quote": 4.8,
+              "status": "verloren",
+              "kommentar": "Wolfsburg verlor 0:1, fuehrte nie 2:0 — keine 2:0-Insurance auslösbar"
+            },
+            {
+              "markt": "FC Augsburg vs Borussia Moenchengladbach: Tabakovic (Gladbach) trifft jederzeit",
+              "quote": 4.2,
+              "status": "verloren",
+              "kommentar": "Tabakovic auf der Bank, traf nicht. Kein einwechslungs-boost (Reyna kam fuer anderen Spieler)"
+            },
+            {
+              "markt": "TSG Hoffenheim vs SV Werder Bremen: Hoffenheim Sieg",
+              "quote": 2.0,
+              "status": "gewonnen",
+              "kommentar": "Hoffenheim gewann 1:0"
+            },
+            {
+              "markt": "Sunderland AFC vs Manchester United: Mbeumo (Manchester United) trifft jederzeit",
+              "quote": 2.8,
+              "status": "verloren",
+              "kommentar": "Mbeumo kam von der Bank, traf nicht. Mbeumo wurde nicht ausgewechselt sondern eingewechselt — Boost greift nicht."
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-05-08",
       "gesamt": {
