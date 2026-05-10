@@ -91,39 +91,9 @@
         "Heidenheim hat unter der Saison wiederholt Punkte aus Druck-Spielen geholt (Underdog-Mentalitaet).",
         "Koeln teilt mit HSV laengste Gegentor-Serie der Liga (12 Spiele am Stueck mit Gegentor)."
       ],
-      "tipps": [
-        {
-          "id": "koe-hdh-1",
-          "kategorie": "value",
-          "markt": "JA",
-          "quote": 1.46,
-          "edge_prozent": 5,
-          "begruendung": "Koeln 12 Spiele Gegentor-Serie (Defensive offen) + Heidenheim mit Klassenerhalts-Existenz-Druck wird offensiv pressen. Heidenheim hat in 4 von letzten 6 Auswaertsspielen mindestens 1 Tor erzielt, Koeln traf in 8/10 letzten Heimspielen. Goldgrube-Liga BL nicht aktiv, deshalb DC-SAFE waere Falle - aber BTTS hier vom Profil her sehr stimmig. Markt-Bilanz BTTS allerdings 25%/ROI -57% (Bluter) - nur VALUE weil Setup hier outlier-strong ist. Quote via SportsGambler verifiziert.",
-          "faire_quote": 1.39,
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "koe-hdh-2",
-          "kategorie": "wackel",
-          "markt": "Ueber 2.5",
-          "quote": 1.85,
-          "edge_prozent": 4,
-          "begruendung": "Goldgrube-Markt Ueber 2.5 (67% / +80.9% ROI). Koeln-Defense leaky + Heidenheim muss attackieren (Klassenerhalts-All-In). 9 von 12 letzten Koeln-Heimspielen mit 2.5+ Toren. Saisonende-Tor-Flaute Mai 2026 wirkt aber gegen die These - daher wackel statt VALUE. Quote via Tipico verifiziert.",
-          "faire_quote": 1.78,
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "id": "koe-hdh-3",
-          "kategorie": "wackel",
-          "markt": "Koeln Sieg",
-          "quote": 1.87,
-          "edge_prozent": 3,
-          "begruendung": "Koeln Heim-Favorit @ 1.87 ist mathematisch nicht sicher genug fuer VALUE (Implied 53.5%, fair eher 55-58%). Heidenheim als Auswaerts-Underdog mit Existenz-Druck hat im Saisonschnitt 1.1 Auswaertspunkte, aber die Druck-Wins kamen oft. Auto-Pattern PL-Sieg/Spread VALUE downgrade gilt nicht direkt fuer BL, aber generelle Vorsicht bei Sieg-Tipps in Saisonende-Modus-Begegnungen sinnvoll. Quote via Tipico verifiziert.",
-          "faire_quote": 1.82,
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-05-10-m05-fcu",
@@ -358,39 +328,9 @@
         "Coinflip-Quoten: Forest 2.27 / Remis 3.70 / Newcastle 2.67.",
         "Sportytrader-Modell: Forest 49% / Remis 17% / Newcastle 34%."
       ],
-      "tipps": [
-        {
-          "id": "nfo-new-1",
-          "kategorie": "wackel",
-          "markt": "Unter 2.5",
-          "quote": 2.07,
-          "edge_prozent": 4,
-          "begruendung": "Newcastle defensiv oft solide trotz Verletzungs-Druck (Schar fraglich aber Botman/Lascelles+Burn als Backup). Forest psychisch angeschlagen nach 4:0-EL-Aus = wenig offensiv. Saisonende-Tor-Flaute Mai 2026 (Lesson 10.05.) wirkt klar - 5/8 Spiele am 09.05. unter 2.5 Tore. Coinflip-Profil = kein VALUE moeglich. Markt 'Unter 2.5' Saisonbilanz 57% / +9.3% ROI. Quote via OddsChecker.",
-          "faire_quote": 1.99,
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "id": "nfo-new-2",
-          "kategorie": "wackel",
-          "markt": "Forest oder Remis (1X)",
-          "quote": 1.4,
-          "edge_prozent": 3,
-          "begruendung": "Forest Heim @ 2.27 ist nicht klar genug fuer DC-VALUE in Coinflip-Profil. DC 1X = Goldgrube (82% / +4.9% ROI). Newcastle-Verletzungen koennten helfen aber Forest nach EL-Aus mental gerupft. PL Liga-Goldgrube-Filter aktiv aber Auto-Pattern PL-VALUE-Verlust-Cluster mahnt zur Vorsicht. Quote via OddsChecker.",
-          "faire_quote": 1.36,
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "id": "nfo-new-3",
-          "kategorie": "wackel",
-          "markt": "NEIN",
-          "quote": 2.05,
-          "edge_prozent": 3,
-          "begruendung": "Newcastle wenig offensiv ohne Top-Form-Sturm + Forest gerupft. Beide tun sich schwer im Tor. Saisonende-Schiene mit Mid-Table-Profil meist BTTS-NEIN-Tendenz aktuell. Quote via OddsChecker. Klein gehalten - Markt nicht in Goldgrube.",
-          "faire_quote": 1.99,
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-05-10-whu-ars",
@@ -442,16 +382,6 @@
           "empfohlener_einsatz_prozent": 0.5
         },
         {
-          "id": "whu-ars-3",
-          "kategorie": "wackel",
-          "markt": "Gabriel Martinelli trifft",
-          "quote": 3.2,
-          "edge_prozent": 4,
-          "begruendung": "Form-Edge-Pflicht (HR24): Martinelli koennte als Backup fuer Saka starten falls Arteta rotiert. Backup-Tipp-Logik analog Real-Madrid-Vinicius-Pattern (Lesson 04.05.). Aber Form-Edge selbst nicht super-stark (3 Tore in 8 Spielen) und Aufstellung ungewiss. Daher wackel. Quote via OddsChecker.",
-          "faire_quote": 3.08,
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
           "id": "whu-ars-4",
           "kategorie": "wackel",
           "markt": "Ueber 2.5",
@@ -490,29 +420,9 @@
         "Mallorca-Heim historisch zaeh - selbst gegen Bayern in CL ein 1:1 letzte Saison.",
         "Mallorca seit 4 Heimspielen ohne Niederlage."
       ],
-      "tipps": [
-        {
-          "id": "mal-vil-1",
-          "kategorie": "wackel",
-          "markt": "Villarreal oder Remis (X2)",
-          "quote": 1.4,
-          "edge_prozent": 3,
-          "begruendung": "DC X2 = Goldgrube (78% / +9.4% ROI). LaLiga = Liga-Goldgrube aktiv = SAFE-DC moeglich. Aber Mallorca-Heim-Stark-Faktor + Villarreal nicht 100% formstark = Pinnacle ~1.35 vs bet365 1.40 nur leichter Edge. Coinflip-naehere Profilierung = max wackel. Quote via SportsGambler.",
-          "faire_quote": 1.36,
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "id": "mal-vil-2",
-          "kategorie": "wackel",
-          "markt": "JA",
-          "quote": 1.65,
-          "edge_prozent": 2,
-          "begruendung": "Villarreal-Offensive (Pino/Yeremy) + Mallorca-Heim trifft fast immer. ABER BTTS-Markt-Bilanz Bluter (25% / ROI -57.5%) = wackel statt VALUE. Quote via OddsChecker.",
-          "faire_quote": 1.62,
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-05-10-ath-val",
@@ -732,19 +642,9 @@
         "Quoten Coinflip: Milan 2.10-2.18 / Remis 3.30-3.60 / Atalanta 3.50-3.72.",
         "Atalanta sitzt 7 Pkt hinter Top-6 (Conference-Quali), Auswaertsform akzeptabel."
       ],
-      "tipps": [
-        {
-          "id": "acm-ata-1",
-          "kategorie": "wackel",
-          "markt": "JA",
-          "quote": 1.55,
-          "edge_prozent": 0,
-          "begruendung": "🔍 Beobachtung - Liga-Form noch nicht kalibriert. Beide Teams offensiv mit Atalanta-Gasperini-System. BTTS-Markt allerdings Bluter (25% / -57% ROI) - daher max wackel und nicht in Hauptkombi. Saisonende-Tor-Flaute auch Faktor. Quote via OddsChecker.",
-          "faire_quote": 1.55,
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-05-10-par-rom",
@@ -853,16 +753,6 @@
           "begruendung": "Goldgrube Ueber 2.5 (67% / +80.9% ROI). PSG B-Elf trifft normalerweise auch (Kang-In Lee, Goncalo Ramos, Barcola). Brest defensiv loechrig. Aber Saisonende-Tor-Flaute + Schon-Modus-Tempo = wackel. Quote via OddsChecker.",
           "faire_quote": 1.37,
           "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "id": "psg-bre-4",
-          "kategorie": "wackel",
-          "markt": "Goncalo Ramos trifft",
-          "quote": 2.3,
-          "edge_prozent": 4,
-          "begruendung": "Goldgrube Torschuetzen Jederzeit (42% / +31.1% ROI). Backup-Stuermer-Logik (Lesson 04.05.): wenn Dembele/Barcola geschont werden, Ramos wird Top-9er. 8 Saisontore in begrenzter Spielzeit. Form-Edge passabel. Quote via OddsChecker. Aber Aufstellungs-Verifikation 1-2h vor Anstoss PFLICHT (Lesson 10.05.) - bis dahin reduzierter Stake.",
-          "faire_quote": 2.21,
-          "empfohlener_einsatz_prozent": 0.5
         }
       ],
       "kontext_check_status": "OK"
@@ -955,39 +845,9 @@
         "Spread-Linie nur 1.5 Pkt fuer Knicks - extrem eng.",
         "NBA-Playoff-Spielerpunkte komplett aus Einzeltipps (Boykott seit 26.04. Lesson)."
       ],
-      "tipps": [
-        {
-          "id": "phi-nyk-g4-1",
-          "kategorie": "wackel",
-          "markt": "76ers Sieg",
-          "quote": 2.05,
-          "edge_prozent": 5,
-          "begruendung": "NBA-Playoffs-Verbot SAFE (CLAUDE.md). Sweep-Abwehr-Heimsieg ist klassisches Pattern (Lesson 24.04.: Raptors als -5.5-Dog gewannen 22 Pkt-Upset; Lesson 25.04.: G3 Sweep-Druck = unzuverlaessig egal welche Seite). 76ers Heim G4 mit Embiid-Comeback-Hot-Hand-Risiko + Maxey-Volumen = realistische Sweep-Abwehr. Knicks Closeout-Druck wirkt selten zuverlaessig. Quote 2.05 attraktiv. Quote via ESPN.",
-          "faire_quote": 1.95,
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "id": "phi-nyk-g4-2",
-          "kategorie": "wackel",
-          "markt": "76ers +1.5",
-          "quote": 1.83,
-          "edge_prozent": 4,
-          "begruendung": "Spread/Handicap = Goldgrube (29% / +11.7% ROI). Spread nur 1.5 Pkt = sehr eng. Sweep-Abwehr-Heim-Energie + Embiid-Comeback-Risiko = 76ers oft cover bei knappen Spreads. Quote via ESPN.",
-          "faire_quote": 1.76,
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "id": "phi-nyk-g4-3",
-          "kategorie": "wackel",
-          "markt": "Ueber 213.5",
-          "quote": 1.91,
-          "edge_prozent": 3,
-          "begruendung": "Lesson 02.05. NBA-G6/G7-Closeout-Druck oft Defensiv-Schlachten - aber dies ist G4 (mehr Tempo erwartet). Bei Linien >=215 Ueber legitim, hier 213.5 mittelmaessig. NBA-Round-2-G2-Total-Adjustment-Phase (HR13) gilt nicht in G4. Quote via ESPN.",
-          "faire_quote": 1.85,
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-05-10-min-sas-g4",
@@ -1017,29 +877,9 @@
         "Wolves-Sweep-Druck aber Castle/Wembanyama-Defense top.",
         "NBA-Playoff-Spielerpunkte komplett aus Einzeltipps (Boykott)."
       ],
-      "tipps": [
-        {
-          "id": "min-sas-g4-1",
-          "kategorie": "wackel",
-          "markt": "Wolves Sieg",
-          "quote": 1.95,
-          "edge_prozent": 4,
-          "begruendung": "NBA-Playoffs-Verbot SAFE. Sweep-Abwehr-Heim-Druck Wolves real (24.04.-Pattern), aber Lesson 09.05.: Wembanyama-Form ueberlagert Heim-Faktor. Klassisches Druck-vs-Form-Duell. Edwards G3 mit 32 Pkt zeigt Wolves-Star bereit. Quote 1.95 als Heim-Underdog mit Sweep-Druck attraktiv. Quote via ESPN.",
-          "faire_quote": 1.88,
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "id": "min-sas-g4-2",
-          "kategorie": "wackel",
-          "markt": "Wolves +4.5",
-          "quote": 1.83,
-          "edge_prozent": 3,
-          "begruendung": "Spread/Handicap = Goldgrube (29% / +11.7% ROI). 4.5-Pkt-Spread Heim = ueblicherweise gute Cover-Wahrscheinlichkeit fuer Sweep-Abwehr-Heim. HR8 (Round-2-G1-Spread-Cap bei extremen Spreads) hier nicht aktiv weil G4. Quote via ESPN.",
-          "faire_quote": 1.78,
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-05-10-mun-dar",
@@ -1233,17 +1073,6 @@
       "empfohlener_einsatz_prozent": 1.0,
       "begruendung": "Selbst PSG-B-Elf qualitativ ueber Brest-Form-Tief (6 ohne Sieg, 0:4 letzte Begegnung). Quote knapp aber Edge da. Empfohlener Einsatz: 1.0% Kasse = 5.50€.",
       "rang": 10
-    },
-    {
-      "tipp_id": "koe-hdh-1",
-      "spiel_id": "2026-05-10-koe-hdh",
-      "spiel_label": "Koeln - Heidenheim",
-      "markt": "JA",
-      "quote": 1.46,
-      "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0,
-      "begruendung": "Koeln 12 Spiele Gegentor-Serie + Heidenheim Existenz-Druck offensiv. BTTS-Markt-Bilanz Bluter aber Setup hier outlier-stark. Empfohlener Einsatz: 1.0% Kasse = 5.50€.",
-      "rang": 11
     }
   ],
   "kombis": [
@@ -1289,135 +1118,6 @@
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 11.0,
       "begruendung": "4-Bein Safe-Kombi mit 4 verschiedenen Edge-Quellen (Barca Heim-Festung 17/17 + Real-Verletzungs-Hammer; Burnley relegated Klassendifferenz; Athletic Heim + Valencia Form-Krise; Mainz Conference-Quali-Druck). 2 Sieg-Beine + 2 DC. Layer-2 OK (Sieg-Outcomes nur in Safe). Layer-3 OK (jedes Spiel nur 1x ueber alle Kombis). DC-Cap-Total: 2 (im Limit). Lesson-Quellen diversifiziert (kein 3+ aus einer Quelle). Markt-Familien-Diversifikation OK. Kasse-Stufe 1 -> 2.0% Kasse = 11.00 EUR."
-    },
-    {
-      "id": "kombi-balance",
-      "name": "Balance ~10.6x",
-      "kategorie": "balance",
-      "beine": [
-        {
-          "tipp_id": "hsv-scf-3",
-          "spiel_id": "2026-05-10-hsv-scf",
-          "spiel_label": "Hamburg - Freiburg",
-          "quote": 1.96,
-          "markt": "Hamburger SV - SC Freiburg: Ueber 2.5",
-          "spiel_titel": "Hamburger SV - SC Freiburg"
-        },
-        {
-          "tipp_id": "cry-eve-1",
-          "spiel_id": "2026-05-10-cry-eve",
-          "spiel_label": "Crystal Palace - Everton",
-          "quote": 2.0,
-          "markt": "Crystal Palace - Everton FC: Ueber 2.5",
-          "spiel_titel": "Crystal Palace - Everton FC"
-        },
-        {
-          "tipp_id": "mon-lil-1",
-          "spiel_id": "2026-05-10-mon-lil",
-          "spiel_label": "Monaco - Lille",
-          "quote": 1.85,
-          "markt": "AS Monaco - LOSC Lille: Ueber 2.5",
-          "spiel_titel": "AS Monaco - LOSC Lille"
-        },
-        {
-          "tipp_id": "koe-hdh-1",
-          "spiel_id": "2026-05-10-koe-hdh",
-          "spiel_label": "Koeln - Heidenheim",
-          "quote": 1.46,
-          "markt": "1. FC Koeln - 1. FC Heidenheim: JA",
-          "spiel_titel": "1. FC Koeln - 1. FC Heidenheim"
-        }
-      ],
-      "gesamtquote": 10.59,
-      "empfohlener_einsatz_prozent": 0.8,
-      "empfohlener_einsatz_euro": 4.4,
-      "begruendung": "4-Bein Balance-Kombi - alle Tor-Maerkte ohne Sieg-Outcomes (Layer-2 OK). 3x Ueber 2.5 Tore (Goldgrube-Markt 67% Hit + 80.9% ROI) plus 1 BTTS. Distinct Spiele (Layer-3 OK). Lesson-Risiko: Saisonende-Tor-Flaute Mai 2026 wirkt gegen alle Beine - daher Stake reduziert auf 0.8%. Kasse-Stufe 1 -> 4.40 EUR."
-    },
-    {
-      "id": "kombi-risiko",
-      "name": "Risiko ~17.7x",
-      "kategorie": "risk",
-      "beine": [
-        {
-          "tipp_id": "nfo-new-1",
-          "spiel_id": "2026-05-10-nfo-new",
-          "spiel_label": "Forest - Newcastle",
-          "quote": 2.07,
-          "markt": "Nottingham Forest - Newcastle United: Unter 2.5",
-          "spiel_titel": "Nottingham Forest - Newcastle United"
-        },
-        {
-          "tipp_id": "ovi-get-1",
-          "spiel_id": "2026-05-10-ovi-get",
-          "spiel_label": "Oviedo - Getafe",
-          "quote": 1.62,
-          "markt": "Real Oviedo - Getafe CF: Unter 2.5",
-          "spiel_titel": "Real Oviedo - Getafe CF"
-        },
-        {
-          "tipp_id": "mal-vil-2",
-          "spiel_id": "2026-05-10-mal-vil",
-          "spiel_label": "Mallorca - Villarreal",
-          "quote": 1.65,
-          "markt": "RCD Mallorca - Villarreal CF: JA",
-          "spiel_titel": "RCD Mallorca - Villarreal CF"
-        },
-        {
-          "tipp_id": "whu-ars-3",
-          "spiel_id": "2026-05-10-whu-ars",
-          "spiel_label": "West Ham - Arsenal",
-          "quote": 3.2,
-          "markt": "West Ham United - Arsenal FC: Gabriel Martinelli trifft",
-          "spiel_titel": "West Ham United - Arsenal FC"
-        }
-      ],
-      "gesamtquote": 17.71,
-      "empfohlener_einsatz_prozent": 0.25,
-      "empfohlener_einsatz_euro": 1.4,
-      "begruendung": "4-Bein Risiko-Kombi mit Tor-Unter (defensive Spiele Forest-Newcastle + Oviedo-Getafe Klassenerhalt-Disziplin) + BTTS Mallorca-Villarreal + Backup-Stuermer Martinelli (Arsenal-CL-Final-Rotation moeglich). Distinct Spiele (Layer-3 OK). Lesson-Quellen: 2 Saisonende-Flaute + 1 BTTS-Markt + 1 Star-Backup. Diversifiziert. Kasse-Stufe 1 -> 0.25% = 1.40 EUR."
-    },
-    {
-      "id": "kombi-moonshot",
-      "name": "Moonshot ~67x",
-      "kategorie": "moonshot",
-      "beine": [
-        {
-          "tipp_id": "bar-rma-3",
-          "spiel_id": "2026-05-10-bar-rma",
-          "spiel_label": "Barcelona - Real Madrid",
-          "quote": 2.4,
-          "markt": "FC Barcelona - Real Madrid: Vinicius Junior trifft",
-          "spiel_titel": "FC Barcelona - Real Madrid"
-        },
-        {
-          "tipp_id": "phi-nyk-g4-1",
-          "spiel_id": "2026-05-10-phi-nyk-g4",
-          "spiel_label": "76ers - Knicks G4",
-          "quote": 2.05,
-          "markt": "Philadelphia 76ers - New York Knicks: 76ers Sieg",
-          "spiel_titel": "Philadelphia 76ers - New York Knicks"
-        },
-        {
-          "tipp_id": "min-sas-g4-1",
-          "spiel_id": "2026-05-10-min-sas-g4",
-          "spiel_label": "Wolves - Spurs G4",
-          "quote": 1.95,
-          "markt": "Minnesota Timberwolves - San Antonio Spurs: Wolves Sieg",
-          "spiel_titel": "Minnesota Timberwolves - San Antonio Spurs"
-        },
-        {
-          "tipp_id": "par-rom-2",
-          "spiel_id": "2026-05-10-par-rom",
-          "spiel_label": "Parma - Roma",
-          "quote": 7.0,
-          "markt": "Parma Calcio - AS Roma: Parma Sieg",
-          "spiel_titel": "Parma Calcio - AS Roma"
-        }
-      ],
-      "gesamtquote": 67.16,
-      "empfohlener_einsatz_prozent": 0.1,
-      "empfohlener_einsatz_euro": 0.55,
-      "begruendung": "4-Bein Moonshot-Spass-Kombi. Layer-3-Ausnahme: bar-rma-3 (Vinicius-Tor) ist entkoppelt von bar-rma-2 (Barca-Sieg) in Safe-Kombi - Vinicius kann bei Real-Niederlage trefffen, deshalb keine Volle-Korrelation. NBA-Sweep-Abwehr-Heim-Underdog-Spiele (76ers Heim G4 nach 0-3, Wolves Heim G4 nach 1-2) klassisches Pattern (Lesson 24.04.). Parma-Sieg @ 7.00 als Beobachtungs-Liga-Moonshot-Bein (Quote >= 5 erlaubt). Kasse-Stufe 1 -> 0.10% = 0.55 EUR."
     }
   ],
   "lessons_angewandt": [

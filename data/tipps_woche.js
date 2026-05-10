@@ -39,34 +39,36 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
         {
           "id": "mil-bol-1",
           "kategorie": "value",
-          "markt": "Sieg (1X2 / ML)",
-          "auswahl": "AC Milan",
+          "markt": "AC Milan",
           "quote": 1.75,
-          "einsatz_prozent": 1.5,
           "begruendung": "Milan klar im Form-Vorteil (4 Siege in 5 + 3:1-Liga-Direktduell vs Bologna), Bologna 'burning out' (1 Sieg in 6 Liga). Sieg/ML ist Markt-Goldgrube ROI +16.4% (62 Tipps). Cup-Finale neutraler Boden -> Form-Edge entscheidend. Quote 1.75 = 57% implied; faire Wkt eher 60-65%. Stufe 1 1.5%-Einsatz = 8,25€. KEIN SAFE weil Cup-Finale-Volatilitaet + Coppa nicht in Liga-Goldgrube + max VALUE bis Aufstellung verifiziert. Bei bet365 live pruefen.",
-          "status": "offen"
+          "status": "offen",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.75
         },
         {
           "id": "mil-bol-2",
-          "kategorie": "value",
-          "markt": "Torschuetzen Jederzeit",
-          "auswahl": "Christian Pulisic trifft",
+          "kategorie": "wackel",
+          "markt": "Christian Pulisic trifft",
           "quote": 2.7,
-          "einsatz_prozent": 1.0,
-          "begruendung": "Pulisic Form-Spitze (5 Tore in 7 Spielen, Cup-Final-Stuermer-Jollyrolle), Goldgrube-Markt 'Torschuetzen Jederzeit' ROI +31.1% (24 Tipps, 41.7% Hitrate). PFLICHT-PROFILE-Lesson 04.05. Heim-Favorit-Pflicht-Torschuetzen-Tipp greift. Stufe 1 1.0%-Einsatz = 5,50€.",
-          "status": "offen"
+          "begruendung": "Pulisic Form-Spitze (5 Tore in 7 Spielen, Cup-Final-Stuermer-Jollyrolle), Goldgrube-Markt 'Torschuetzen Jederzeit' ROI +31.1% (24 Tipps, 41.7% Hitrate). PFLICHT-PROFILE-Lesson 04.05. Heim-Favorit-Pflicht-Torschuetzen-Tipp greift. Stufe 1 1.0%-Einsatz = 5,50€. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "status": "offen",
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 2.7,
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "mil-bol-3",
           "kategorie": "value",
-          "markt": "Ueber 2.5 Tore",
-          "auswahl": "Mehr als 2.5 Tore",
+          "markt": "Mehr als 2.5 Tore",
           "quote": 2.1,
-          "einsatz_prozent": 1.5,
           "begruendung": "Tor-Total Goldgrube-Markt: Ueber 2.5 Tore ROI +80.9% (9 Tipps, 66.7% Hitrate) - bester ROI im System. Liga-Direktduell endete 4:1 (3:1 + Hin), Milan-Bologna mit beidseitig offensiver Ausrichtung; Goal/Tribuna erwarten 'open match with goals from both ends'. Trophaeen-Finale = Milan offensiv. Stufe 1 1.5%-Einsatz = 8,25€.",
-          "status": "offen"
+          "status": "offen",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 2.1
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-16-che-mci",
@@ -103,24 +105,25 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
         {
           "id": "che-mci-1",
           "kategorie": "wackel",
-          "markt": "Sieg (1X2 / ML)",
-          "auswahl": "Manchester City (90 Min)",
+          "markt": "Manchester City (90 Min)",
           "quote": 2.0,
-          "einsatz_prozent": 0.5,
           "begruendung": "Form-Edge klar pro City (Chelsea 5 PL-Niederlagen, City Aufschwung), aber FA-Cup-Finale ist neutraler Boden + Endspiel-Volatilitaet (City verlor letzte 2 FA-Cup-Finals!). Lesson 10.05. PL-Cluster-Vorsicht: trotz FA-Cup-Wettbewerb beide Teams PL = max wackel statt VALUE. Stufe 1 0.5%-Einsatz = 2,75€. Konservativer Probestein, kein Top-Pick fuer einzeltipps[].",
-          "status": "offen"
+          "status": "offen",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 2.0
         },
         {
           "id": "che-mci-2",
           "kategorie": "wackel",
-          "markt": "Torschuetzen Jederzeit",
-          "auswahl": "Erling Haaland trifft",
+          "markt": "Erling Haaland trifft",
           "quote": 2.0,
-          "einsatz_prozent": 0.5,
           "begruendung": "Goldgrube-Markt + Cup-Finale + Form-Aufschwung (Tor vs Leicester nach 4-Spiel-Pause, dann staendig). Aber Lesson 10.05. Salah-Doppel-Ausfall: Aufstellungs-Verifikation 1-2h vor Anstoss zwingend, sonst Tipp streichen oder degradieren. Bis Verifikation max wackel mit 0.5%-Einsatz = 2,75€. Bei Bestaetigung Upgrade auf 1.5% moeglich.",
-          "status": "offen"
+          "status": "offen",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 2.0
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-16-bay-koe",
@@ -157,34 +160,35 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
         {
           "id": "bay-koe-1",
           "kategorie": "safe",
-          "markt": "Torschuetzen Jederzeit",
-          "auswahl": "Harry Kane trifft",
+          "markt": "Harry Kane trifft",
           "quote": 1.4,
-          "einsatz_prozent": 2.0,
           "begruendung": "Goldgrube-Markt 'Torschuetzen Jederzeit' ROI +31.1% (24 Tipps) + extreme Form (5 von 5 letzten BL-Spielen Tor!) + Heim-Favorit-Pflicht-Profile-Lesson 04.05. + Bayern-Anti-Rotations-These Lesson 10.05. (Kane Stamm). Quote 1.40 = 71% implied; mit 71%+ Hitrate-Erwartung Edge. Stufe 1 SAFE 2.0%-Einsatz = 11€. EINZIGER SAFE im Dossier diese Woche.",
-          "status": "offen"
+          "status": "offen",
+          "empfohlener_einsatz_prozent": 2.0,
+          "faire_quote": 1.4
         },
         {
           "id": "bay-koe-2",
           "kategorie": "value",
-          "markt": "Sieg (1X2 / ML)",
-          "auswahl": "FC Bayern Muenchen",
+          "markt": "FC Bayern Muenchen",
           "quote": 1.3,
-          "einsatz_prozent": 1.0,
           "begruendung": "Sieg/ML Markt-Goldgrube ROI +16.4% (62 Tipps), aber Bundesliga nicht Liga-Goldgrube (Mapper-Hebel C) -> max VALUE. Bayern Heim-Favorit + Anti-Rotations-These + Form-Klasse. Quote 1.30 niedrig aber legitim VALUE bei ~78%-Hitrate-Erwartung. Stufe 1 1.0%-Einsatz = 5,50€.",
-          "status": "offen"
+          "status": "offen",
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 1.3
         },
         {
           "id": "bay-koe-3",
           "kategorie": "value",
-          "markt": "Ueber 2.5 Tore",
-          "auswahl": "Mehr als 2.5 Tore",
+          "markt": "Mehr als 2.5 Tore",
           "quote": 1.5,
-          "einsatz_prozent": 1.5,
           "begruendung": "Tor-Total-Goldgrube ROI +80.9% (Hitrate 66.7%) - bester Markt-Edge. Bayern hat in jedem letzten 5 BL-Spielen 2+ Tore erzielt; Koeln in der Defensive porose. Saisonende-Tor-Flaute-Lesson trifft NICHT (Bayern verlaesslich offensiv unabhaengig vom Saisonziel). Stufe 1 1.5%-Einsatz = 8,25€.",
-          "status": "offen"
+          "status": "offen",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-16-sge-vfb",
@@ -221,34 +225,36 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
         {
           "id": "sge-vfb-1",
           "kategorie": "value",
-          "markt": "Sieg (1X2 / ML)",
-          "auswahl": "Eintracht Frankfurt",
+          "markt": "Eintracht Frankfurt",
           "quote": 2.0,
-          "einsatz_prozent": 1.5,
           "begruendung": "saison_kontext-Edge: HR3-Trigger STARK aktiv (Stuttgart Pokal 7 Tage spaeter, Lesson 10.05.-Bedingung erfuellt). Stuttgart muss B-Elf einsetzen. Frankfurt Heim-Stamm + Form-Stabilitaet. Sieg/ML ist Markt-Goldgrube ROI +16.4%. Quote 2.00 = 50% implied; faire Wkt 55-60% bei Stuttgart-Schon. Stufe 1 1.5%-Einsatz = 8,25€.",
-          "status": "offen"
+          "status": "offen",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 2.0
         },
         {
           "id": "sge-vfb-2",
-          "kategorie": "value",
-          "markt": "Torschuetzen Jederzeit",
-          "auswahl": "Jonathan Burkardt trifft",
+          "kategorie": "wackel",
+          "markt": "Jonathan Burkardt trifft",
           "quote": 2.5,
-          "einsatz_prozent": 1.0,
-          "begruendung": "Goldgrube-Markt 'Torschuetzen Jederzeit' ROI +31.1%. Burkardt Frankfurt-Stuermer in Saison-Form (~10 BL-Tore + Top-3-Bundesliga-Torschuetzenliste lt. Bundesliga-Top-Scorers-Artikel); Stuttgart-Defensive ggf. mit B-Elf-Innenverteidigung wegen Pokal-Schon. Lesson 09.05. Mahnung: Burkardt war auch Bein in Risiko-Kombi 09.05. die verlor (Frankfurt-Defensiv-erstickt-vom-BVB) - Vorsicht-Reminder, aber heute Heim + Stuttgart-Schon-Setup ist umgekehrtes Setup. 1.0% = 5,50€.",
-          "status": "offen"
+          "begruendung": "Goldgrube-Markt 'Torschuetzen Jederzeit' ROI +31.1%. Burkardt Frankfurt-Stuermer in Saison-Form (~10 BL-Tore + Top-3-Bundesliga-Torschuetzenliste lt. Bundesliga-Top-Scorers-Artikel); Stuttgart-Defensive ggf. mit B-Elf-Innenverteidigung wegen Pokal-Schon. Lesson 09.05. Mahnung: Burkardt war auch Bein in Risiko-Kombi 09.05. die verlor (Frankfurt-Defensiv-erstickt-vom-BVB) - Vorsicht-Reminder, aber heute Heim + Stuttgart-Schon-Setup ist umgekehrtes Setup. 1.0% = 5,50€. [Auto HR4: Story-Konflikt v2 (Rotations-Token bei Top-Stuermer-Tipp) -> value->wackel]",
+          "status": "offen",
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 2.5,
+          "_story_konflikt_v2": true
         },
         {
           "id": "sge-vfb-3",
           "kategorie": "value",
-          "markt": "Ueber 2.5 Tore",
-          "auswahl": "Mehr als 2.5 Tore",
+          "markt": "Mehr als 2.5 Tore",
           "quote": 1.85,
-          "einsatz_prozent": 1.0,
           "begruendung": "Tor-Total-Goldgrube ROI +80.9%. Frankfurt offensiv zu Hause (~2 Tore/Heim-Schnitt); Stuttgart-B-Elf defensiv anfaelliger -> 3+ Tore wahrscheinlich. Lesson 10.05. (Saisonende-Tor-Flaute Mid-vs-Mid -> max wackel) trifft hier NICHT in voller Strenge: Stuttgart hat noch EL-Quali-Druck via Liga-Position 5./6. + Frankfurt um Conf-Quali -> Druck-Setup beidseitig. Stufe 1 1.0%-Einsatz = 5,50€.",
-          "status": "offen"
+          "status": "offen",
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 1.85
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-16-scf-rbl",
@@ -285,34 +291,36 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
         {
           "id": "scf-rbl-1",
           "kategorie": "value",
-          "markt": "Sieg (1X2 / ML)",
-          "auswahl": "RB Leipzig",
+          "markt": "RB Leipzig",
           "quote": 2.7,
-          "einsatz_prozent": 1.5,
           "begruendung": "saison_kontext-Edge: Freiburg unter EL-Finale-Schon-Druck (4 Tage spaeter, Lesson 10.05.-HR3-Bedingung erfuellt), Leipzig CL-Quali-Pflicht-Sieg + Stamm-Elf. Sieg/ML Markt-Goldgrube ROI +16.4%. Quote 2.70 = 37% implied; faire Wkt mit Schon-Setup eher 45-50%. Stufe 1 1.5%-Einsatz = 8,25€.",
-          "status": "offen"
+          "status": "offen",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 2.7
         },
         {
           "id": "scf-rbl-2",
           "kategorie": "value",
-          "markt": "Doppelte Chance X2",
-          "auswahl": "Unentschieden oder RB Leipzig",
+          "markt": "Unentschieden oder RB Leipzig",
           "quote": 1.5,
-          "einsatz_prozent": 1.0,
           "begruendung": "DC X2 Goldgrube-Markt ROI +9.4% (9 Tipps, 77.8% Hitrate). Bundesliga nicht Liga-Goldgrube -> Mapper-Hebel C downgradet SAFE auf VALUE. DC-Cap max 1 pro Spiel eingehalten. Backup falls Leipzig-Sieg knapp; Risk-Hedge fuer das HR3-Setup. Stufe 1 1.0%-Einsatz = 5,50€.",
-          "status": "offen"
+          "status": "offen",
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 1.5
         },
         {
           "id": "scf-rbl-3",
-          "kategorie": "value",
-          "markt": "Torschuetzen Jederzeit",
-          "auswahl": "Benjamin Sesko trifft",
+          "kategorie": "wackel",
+          "markt": "Benjamin Sesko trifft",
           "quote": 2.2,
-          "einsatz_prozent": 1.0,
-          "begruendung": "Goldgrube-Markt + Pflicht-Profile-Lesson 04.05. Auswaerts-Favorit-Pflicht-Torschuetze. Sesko in Form-Lauf 2026 (~12 BL-Tore Saison), Freiburg-B-Elf-Defensive verwundbar. Aufstellungs-Verifikation 1-2h vor Anstoss zwingend (Lesson 10.05. Salah/Alvarez-Doppel-Ausfall) -> bei Bestaetigung Upgrade auf 1.5%; bis dahin 1.0% = 5,50€.",
-          "status": "offen"
+          "begruendung": "Goldgrube-Markt + Pflicht-Profile-Lesson 04.05. Auswaerts-Favorit-Pflicht-Torschuetze. Sesko in Form-Lauf 2026 (~12 BL-Tore Saison), Freiburg-B-Elf-Defensive verwundbar. Aufstellungs-Verifikation 1-2h vor Anstoss zwingend (Lesson 10.05. Salah/Alvarez-Doppel-Ausfall) -> bei Bestaetigung Upgrade auf 1.5%; bis dahin 1.0% = 5,50€. [Auto HR3: UEFA-Doppelbelastung + Rotation - Top-Stuermer max WACKEL, Joker-Tipp suchen]",
+          "status": "offen",
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 2.2,
+          "_joker_top_stuermer_block": true
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-16-wer-bvb",
@@ -346,14 +354,15 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
         {
           "id": "wer-bvb-1",
           "kategorie": "value",
-          "markt": "Ueber 2.5 Tore",
-          "auswahl": "Mehr als 2.5 Tore",
+          "markt": "Mehr als 2.5 Tore",
           "quote": 1.65,
-          "einsatz_prozent": 1.0,
           "begruendung": "Tor-Total-Goldgrube ROI +80.9% (66.7% Hitrate). Lesson 10.05. Mid-vs-Mid ohne Druck-Pattern: 5/8 Spiele am 09.05. unter 2.5, ABER Ausreisser-Spiele sind genau Mid-vs-Mid (Augsburg-Gladbach 4 Tore, Sevilla-Espanyol 3) - Druck-Lockerheit produziert Tor-Festivals. Werder-BVB ohne Druck = potenzielles Festival, BVB-Offensive mit Guirassy intakt. Quote 1.65 = 60% implied; faire Wkt 60-65%. Stufe 1 1.0%-Einsatz = 5,50€. NUR 1 TIPP IM SPIEL (Coinflip-Lesson, kein SAFE-DC).",
-          "status": "offen"
+          "status": "offen",
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 1.65
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-16-b04-hsv",
@@ -389,24 +398,25 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
         {
           "id": "b04-hsv-1",
           "kategorie": "value",
-          "markt": "Sieg (1X2 / ML)",
-          "auswahl": "Bayer 04 Leverkusen",
+          "markt": "Bayer 04 Leverkusen",
           "quote": 1.45,
-          "einsatz_prozent": 1.0,
           "begruendung": "Leverkusen-Heim-Favorit + CL-Quali-Pflicht-Sieg-Druck + Form-Vorteil vs HSV-Aufsteiger. Sieg/ML Markt-Goldgrube ROI +16.4%. Quote 1.45 = 69% implied; faire Wkt 70-72%. Bundesliga nicht Liga-Goldgrube -> max VALUE. Stufe 1 1.0%-Einsatz = 5,50€.",
-          "status": "offen"
+          "status": "offen",
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 1.45
         },
         {
           "id": "b04-hsv-2",
           "kategorie": "value",
-          "markt": "Torschuetzen Jederzeit",
-          "auswahl": "Patrik Schick trifft",
+          "markt": "Patrik Schick trifft",
           "quote": 2.2,
-          "einsatz_prozent": 1.0,
           "begruendung": "Goldgrube-Markt 'Torschuetzen Jederzeit' ROI +31.1% + PFLICHT-PROFILE-Lesson 04.05. (Heim-Favorit-Pflicht-Stuermer). Schick BL-Top-Scorer-Liste, Form-Lauf seit Wirtz-Verletzung. HSV-Aufsteiger-Defensive verwundbar. Aufstellungs-Verifikation Lesson 10.05. zwingend -> 1.0% bis Bestaetigung = 5,50€.",
-          "status": "offen"
+          "status": "offen",
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 2.2
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-16-sev-rma",
@@ -442,24 +452,25 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
         {
           "id": "sev-rma-1",
           "kategorie": "value",
-          "markt": "Doppelte Chance X2",
-          "auswahl": "Unentschieden oder Real Madrid",
+          "markt": "Unentschieden oder Real Madrid",
           "quote": 1.2,
-          "einsatz_prozent": 1.0,
           "begruendung": "DC X2 Goldgrube-Markt ROI +9.4% (77.8% Hitrate). LaLiga ist KEINE aktuell aktive Liga-Goldgrube laut data/liga_goldgruben.json (nur EL-HF-Rueck, NBA-PO-R2-G2, CL-HF-Hin gelistet, alle vorbei) -> SAFE-DC wuerde vom Mapper-Hebel C downgegradet -> direkt VALUE. Real Auswaerts-Favorit, Sevilla Saison-Aus. DC-Cap max 1 pro Spiel eingehalten. Stufe 1 1.0%-Einsatz = 5,50€.",
-          "status": "offen"
+          "status": "offen",
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 1.2
         },
         {
           "id": "sev-rma-2",
           "kategorie": "value",
-          "markt": "Torschuetzen Jederzeit",
-          "auswahl": "Vinicius Junior trifft",
+          "markt": "Vinicius Junior trifft",
           "quote": 1.85,
-          "einsatz_prozent": 1.5,
           "begruendung": "PFLICHT-Backup-Stuermer-Tipp bei Mbappe-Out (Lesson 03.05.+04.05. STAR-AUSFALL -> BACKUP-PFLICHT). Vinicius 16 Tore in 26 Spielen 2026, beste Real-Form 2026. Goldgrube-Markt ROI +31.1%. Lesson 10.05. Aufstellungs-Verifikation: bei Mbappe out + Vinicius Stamm bestaetigt -> Upgrade auf 2.0%; aktuell 1.5% = 8,25€. Wenn Mbappe wider Erwarten zurueck -> degradieren auf wackel oder streichen.",
-          "status": "offen"
+          "status": "offen",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.85
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-17-bar-bet",
@@ -495,34 +506,35 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
         {
           "id": "bar-bet-1",
           "kategorie": "value",
-          "markt": "Torschuetzen Jederzeit",
-          "auswahl": "Robert Lewandowski trifft",
+          "markt": "Robert Lewandowski trifft",
           "quote": 1.65,
-          "einsatz_prozent": 1.5,
           "begruendung": "Goldgrube-Markt 'Torschuetzen Jederzeit' ROI +31.1% + PFLICHT-PROFILE-Lesson 04.05. (Heim-Favorit-Pflicht-Stuermer). Lewandowski Top-Form (~25 LaLiga-Tore), Betis-Auswaerts-Defensive verwundbar. Aufstellungs-Verifikation 1-2h vor Anstoss zwingend (Lesson 10.05.) -> bei Bestaetigung 1.5%, sonst max wackel-degradieren. 1.5% = 8,25€.",
-          "status": "offen"
+          "status": "offen",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.65
         },
         {
           "id": "bar-bet-2",
           "kategorie": "value",
-          "markt": "Doppelte Chance 1X",
-          "auswahl": "FC Barcelona oder Unentschieden",
+          "markt": "FC Barcelona oder Unentschieden",
           "quote": 1.1,
-          "einsatz_prozent": 1.0,
           "begruendung": "DC 1X Goldgrube-Markt ROI +4.9% (82.4% Hitrate, 17 Tipps). LaLiga aktuell nicht in liga_goldgruben.json -> SAFE wird Mapper-degradiert -> direkt VALUE. Quote 1.10 enge Marge aber Hitrate-Edge. DC-Cap max 1 pro Spiel ✓. Stufe 1 1.0%-Einsatz = 5,50€.",
-          "status": "offen"
+          "status": "offen",
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 1.1
         },
         {
           "id": "bar-bet-3",
           "kategorie": "value",
-          "markt": "Ueber 2.5 Tore",
-          "auswahl": "Mehr als 2.5 Tore",
+          "markt": "Mehr als 2.5 Tore",
           "quote": 1.55,
-          "einsatz_prozent": 1.0,
           "begruendung": "Tor-Total-Goldgrube ROI +80.9% (66.7% Hitrate). Barca verlaesslich offensiv (3+ Tore Heim-Schnitt), Betis defensiv anfaellig. Stufe 1 1.0%-Einsatz = 5,50€.",
-          "status": "offen"
+          "status": "offen",
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 1.55
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-17-atm-gir",
@@ -556,24 +568,25 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
         {
           "id": "atm-gir-1",
           "kategorie": "wackel",
-          "markt": "Sieg (1X2 / ML)",
-          "auswahl": "Atletico Madrid",
+          "markt": "Atletico Madrid",
           "quote": 1.45,
-          "einsatz_prozent": 0.5,
           "begruendung": "Atletico-Heim-Favorit + CL-Quali-Druck. Sieg/ML Goldgrube-Markt. ABER Lesson 09.05. Korrelations-Crash + Alvarez-Ausfall + Saisonende-Volatilitaet -> max wackel statt VALUE bis Aufstellungs-Verifikation. Stufe 1 0.5%-Einsatz = 2,75€. Konservativer Probestein, kein Top-Pick fuer einzeltipps[].",
-          "status": "offen"
+          "status": "offen",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.45
         },
         {
           "id": "atm-gir-2",
           "kategorie": "wackel",
-          "markt": "Torschuetzen Jederzeit",
-          "auswahl": "Alexander Sorloth trifft",
+          "markt": "Alexander Sorloth trifft",
           "quote": 2.3,
-          "einsatz_prozent": 0.5,
           "begruendung": "Sorloth wahrscheinlich Stamm-Stuermer (Alvarez verletzt lt. Lesson 09.05.) -> Direkter-Ersatz-Boost laut Lesson 09.05. Lens-Edouard greift NUR wenn Sorloth tatsaechlich fuer Alvarez einlaeuft. Aufstellungs-Verifikation 1-2h vor Anstoss zwingend. Bis dahin max wackel 0.5% = 2,75€. Goldgrube-Markt + PFLICHT-PROFILE-Lesson 04.05.",
-          "status": "offen"
+          "status": "offen",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 2.3
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     }
   ],
   "einzeltipps": [
@@ -581,122 +594,122 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       "id": "wo-top-1",
       "spiel_id": "2026-05-16-bay-koe",
       "kategorie": "safe",
-      "markt": "Torschuetzen Jederzeit",
-      "auswahl": "Harry Kane trifft (Bayern - Koeln, BL34)",
+      "markt": "Harry Kane trifft (Bayern - Koeln, BL34)",
       "quote": 1.4,
-      "einsatz_prozent": 2.0,
       "einsatz_euro": 11.0,
-      "begruendung": "EINZIGER SAFE im Dossier diese Woche. Goldgrube-Markt 'Torschuetzen Jederzeit' ROI +31.1% (24 Tipps). Kane Tor in 5 von 5 letzten BL-Spielen + Bundesliga-Topscorer (33 Tore in 29 Spielen). Lesson 10.05. Anti-Bayern-Rotation-These bestaetigt: Bayern spielt voll mit Stamm trotz Pokal-Finale 7 Tage spaeter. Quote 1.40 = 71% implied bei 71%+ Hitrate-Erwartung."
+      "begruendung": "EINZIGER SAFE im Dossier diese Woche. Goldgrube-Markt 'Torschuetzen Jederzeit' ROI +31.1% (24 Tipps). Kane Tor in 5 von 5 letzten BL-Spielen + Bundesliga-Topscorer (33 Tore in 29 Spielen). Lesson 10.05. Anti-Bayern-Rotation-These bestaetigt: Bayern spielt voll mit Stamm trotz Pokal-Finale 7 Tage spaeter. Quote 1.40 = 71% implied bei 71%+ Hitrate-Erwartung.",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 1
     },
     {
       "id": "wo-top-2",
       "spiel_id": "2026-05-17-bar-bet",
       "kategorie": "value",
-      "markt": "Torschuetzen Jederzeit",
-      "auswahl": "Robert Lewandowski trifft (Barcelona - Betis, LaLiga J37)",
+      "markt": "Robert Lewandowski trifft (Barcelona - Betis, LaLiga J37)",
       "quote": 1.65,
-      "einsatz_prozent": 1.5,
       "einsatz_euro": 8.25,
-      "begruendung": "Goldgrube-Markt + PFLICHT-PROFILE-Heim-Favorit-Pflicht-Stuermer. Lewa ~25 LaLiga-Tore Saison + Form-Lauf. Aufstellungs-Verifikation Lesson 10.05. zwingend; bei Bestaetigung 1.5%."
+      "begruendung": "Goldgrube-Markt + PFLICHT-PROFILE-Heim-Favorit-Pflicht-Stuermer. Lewa ~25 LaLiga-Tore Saison + Form-Lauf. Aufstellungs-Verifikation Lesson 10.05. zwingend; bei Bestaetigung 1.5%.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2
     },
     {
       "id": "wo-top-3",
       "spiel_id": "2026-05-16-sev-rma",
       "kategorie": "value",
-      "markt": "Torschuetzen Jederzeit",
-      "auswahl": "Vinicius Junior trifft (Sevilla - Real Madrid, LaLiga J37)",
+      "markt": "Vinicius Junior trifft (Sevilla - Real Madrid, LaLiga J37)",
       "quote": 1.85,
-      "einsatz_prozent": 1.5,
       "einsatz_euro": 8.25,
-      "begruendung": "PFLICHT-Backup-Stuermer-Tipp bei Mbappe-Verletzungs-Out (Lesson 03.05.+04.05. STAR-AUSFALL -> BACKUP-PFLICHT). Vinicius 16 Tore in 26 Spielen 2026. Goldgrube-Markt ROI +31.1%."
+      "begruendung": "PFLICHT-Backup-Stuermer-Tipp bei Mbappe-Verletzungs-Out (Lesson 03.05.+04.05. STAR-AUSFALL -> BACKUP-PFLICHT). Vinicius 16 Tore in 26 Spielen 2026. Goldgrube-Markt ROI +31.1%.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 3
     },
     {
       "id": "wo-top-4",
       "spiel_id": "2026-05-16-b04-hsv",
       "kategorie": "value",
-      "markt": "Torschuetzen Jederzeit",
-      "auswahl": "Patrik Schick trifft (Leverkusen - HSV, BL34)",
+      "markt": "Patrik Schick trifft (Leverkusen - HSV, BL34)",
       "quote": 2.2,
-      "einsatz_prozent": 1.0,
       "einsatz_euro": 5.5,
-      "begruendung": "Goldgrube-Markt + PFLICHT-PROFILE-Heim-Favorit-Pflicht-Stuermer. Schick BL-Top-Scorer-Liste, Form-Lauf seit Wirtz-Verletzung. HSV-Aufsteiger-Defensive verwundbar."
+      "begruendung": "Goldgrube-Markt + PFLICHT-PROFILE-Heim-Favorit-Pflicht-Stuermer. Schick BL-Top-Scorer-Liste, Form-Lauf seit Wirtz-Verletzung. HSV-Aufsteiger-Defensive verwundbar.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 4
     },
     {
       "id": "wo-top-5",
       "spiel_id": "2026-05-14-mil-bol",
       "kategorie": "value",
-      "markt": "Torschuetzen Jederzeit",
-      "auswahl": "Christian Pulisic trifft (Milan - Bologna, Coppa Italia FINALE)",
+      "markt": "Christian Pulisic trifft (Milan - Bologna, Coppa Italia FINALE)",
       "quote": 2.7,
-      "einsatz_prozent": 1.0,
       "einsatz_euro": 5.5,
-      "begruendung": "Cup-Finale-Form-Spitze (5 Tore in 7 Spielen lt. fbref). Goldgrube-Markt 'Torschuetzen Jederzeit' ROI +31.1%. PFLICHT-PROFILE-Heim-Favorit-Pflicht-Stuermer."
+      "begruendung": "Cup-Finale-Form-Spitze (5 Tore in 7 Spielen lt. fbref). Goldgrube-Markt 'Torschuetzen Jederzeit' ROI +31.1%. PFLICHT-PROFILE-Heim-Favorit-Pflicht-Stuermer.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 5
     },
     {
       "id": "wo-top-6",
       "spiel_id": "2026-05-14-mil-bol",
       "kategorie": "value",
-      "markt": "Sieg (1X2 / ML)",
-      "auswahl": "AC Milan gewinnt (Coppa Italia FINALE)",
+      "markt": "AC Milan gewinnt (Coppa Italia FINALE)",
       "quote": 1.75,
-      "einsatz_prozent": 1.5,
       "einsatz_euro": 8.25,
-      "begruendung": "Form-Edge klar: 4 Siege in 5 + 3:1-Liga-Direktduell vs Bologna im April; Bologna 'burning out' (1 Sieg in 6 Liga). Sieg/ML Goldgrube-Markt ROI +16.4%. Coppa nicht Liga-Goldgrube -> max VALUE."
+      "begruendung": "Form-Edge klar: 4 Siege in 5 + 3:1-Liga-Direktduell vs Bologna im April; Bologna 'burning out' (1 Sieg in 6 Liga). Sieg/ML Goldgrube-Markt ROI +16.4%. Coppa nicht Liga-Goldgrube -> max VALUE.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 6
     },
     {
       "id": "wo-top-7",
       "spiel_id": "2026-05-16-sge-vfb",
       "kategorie": "value",
-      "markt": "Sieg (1X2 / ML)",
-      "auswahl": "Eintracht Frankfurt (Frankfurt - Stuttgart, BL34)",
+      "markt": "Eintracht Frankfurt (Frankfurt - Stuttgart, BL34)",
       "quote": 2.0,
-      "einsatz_prozent": 1.5,
       "einsatz_euro": 8.25,
-      "begruendung": "saison_kontext-EDGE: HR3-Trigger STARK aktiv (Stuttgart Pokal-Finale 23.05. = 7 Tage spaeter, Lesson 10.05.-Bedingung erfuellt). Stuttgart muss B-Elf einsetzen. Sieg/ML Markt-Goldgrube."
+      "begruendung": "saison_kontext-EDGE: HR3-Trigger STARK aktiv (Stuttgart Pokal-Finale 23.05. = 7 Tage spaeter, Lesson 10.05.-Bedingung erfuellt). Stuttgart muss B-Elf einsetzen. Sieg/ML Markt-Goldgrube.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 7
     },
     {
       "id": "wo-top-8",
       "spiel_id": "2026-05-16-scf-rbl",
       "kategorie": "value",
-      "markt": "Sieg (1X2 / ML)",
-      "auswahl": "RB Leipzig (Freiburg - Leipzig, BL34)",
+      "markt": "RB Leipzig (Freiburg - Leipzig, BL34)",
       "quote": 2.7,
-      "einsatz_prozent": 1.5,
       "einsatz_euro": 8.25,
-      "begruendung": "saison_kontext-EDGE: HR3-Trigger SEHR STARK (Freiburg EL-Finale 20.05. = 4 Tage spaeter); Freiburg B-Elf Schon-Modus. Leipzig CL-Quali-Pflicht-Sieg-Druck mit Stamm-Elf."
+      "begruendung": "saison_kontext-EDGE: HR3-Trigger SEHR STARK (Freiburg EL-Finale 20.05. = 4 Tage spaeter); Freiburg B-Elf Schon-Modus. Leipzig CL-Quali-Pflicht-Sieg-Druck mit Stamm-Elf.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 8
     },
     {
       "id": "wo-top-9",
       "spiel_id": "2026-05-16-bay-koe",
       "kategorie": "value",
-      "markt": "Ueber 2.5 Tore",
-      "auswahl": "Mehr als 2.5 Tore (Bayern - Koeln, BL34)",
+      "markt": "Mehr als 2.5 Tore (Bayern - Koeln, BL34)",
       "quote": 1.5,
-      "einsatz_prozent": 1.5,
       "einsatz_euro": 8.25,
-      "begruendung": "Tor-Total-Goldgrube ROI +80.9% (Hitrate 66.7%) - bester Markt-Edge. Bayern verlaesslich offensiv (2+ Tore in 5/5 letzten BL-Spielen)."
+      "begruendung": "Tor-Total-Goldgrube ROI +80.9% (Hitrate 66.7%) - bester Markt-Edge. Bayern verlaesslich offensiv (2+ Tore in 5/5 letzten BL-Spielen).",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 9
     },
     {
       "id": "wo-top-10",
       "spiel_id": "2026-05-16-sev-rma",
       "kategorie": "value",
-      "markt": "Doppelte Chance X2",
-      "auswahl": "Unentschieden oder Real Madrid (Sevilla - Real, LaLiga J37)",
+      "markt": "Unentschieden oder Real Madrid (Sevilla - Real, LaLiga J37)",
       "quote": 1.2,
-      "einsatz_prozent": 1.0,
       "einsatz_euro": 5.5,
-      "begruendung": "DC X2 Goldgrube-Markt 77.8% Hitrate. LaLiga aktuell nicht in Liga-Goldgruben -> max VALUE. DC-Cap max 1 ✓."
+      "begruendung": "DC X2 Goldgrube-Markt 77.8% Hitrate. LaLiga aktuell nicht in Liga-Goldgruben -> max VALUE. DC-Cap max 1 ✓.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 10
     },
     {
       "id": "wo-top-11",
       "spiel_id": "2026-05-16-bay-koe",
       "kategorie": "value",
-      "markt": "Sieg (1X2 / ML)",
-      "auswahl": "FC Bayern Muenchen (Bayern - Koeln, BL34)",
+      "markt": "FC Bayern Muenchen (Bayern - Koeln, BL34)",
       "quote": 1.3,
-      "einsatz_prozent": 1.0,
       "einsatz_euro": 5.5,
-      "begruendung": "Sieg/ML Markt-Goldgrube ROI +16.4%. Bayern Heim-Favorit + Anti-Rotations-These Lesson 10.05. + Form-Klasse. Bundesliga nicht Liga-Goldgrube -> max VALUE."
+      "begruendung": "Sieg/ML Markt-Goldgrube ROI +16.4%. Bayern Heim-Favorit + Anti-Rotations-These Lesson 10.05. + Form-Klasse. Bundesliga nicht Liga-Goldgrube -> max VALUE.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 11
     }
   ],
   "kombis": [
@@ -705,154 +718,133 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       "name": "Safe-Kombi",
       "kategorie": "safe",
       "gesamtquote": 5.13,
-      "einsatz_prozent": 2.0,
       "einsatz_euro": 11.0,
       "potenzieller_gewinn_euro": 56.43,
       "beine": [
         {
           "spiel_id": "2026-05-16-bay-koe",
-          "auswahl": "Harry Kane trifft",
           "markt": "Torschuetzen Jederzeit",
           "quote": 1.4
         },
         {
           "spiel_id": "2026-05-17-bar-bet",
-          "auswahl": "Robert Lewandowski trifft",
           "markt": "Torschuetzen Jederzeit",
           "quote": 1.65
         },
         {
           "spiel_id": "2026-05-16-sev-rma",
-          "auswahl": "Unentschieden oder Real Madrid",
           "markt": "Doppelte Chance X2",
           "quote": 1.2
         },
         {
           "spiel_id": "2026-05-16-sge-vfb",
-          "auswahl": "Mehr als 2.5 Tore",
           "markt": "Ueber 2.5 Tore",
           "quote": 1.85
         }
       ],
       "begruendung": "4 Beine, alle aus Goldgrube-Maerkten (Torschuetzen Jederzeit ROI +31.1%, Doppelte Chance X2 ROI +9.4%, Ueber 2.5 Tore ROI +80.9%). Heterogenitaet erfuellt: 2x Stuermer-Goldgrube + 1x DC-Sieg-Outcome + 1x Tor-Total. Layer-1 (4 Spiele) ✓. Layer-2 (1 Sieg-Outcome) ✓. Lesson 10.05.-max-2-aus-EINER-Quelle ✓. Stufe 1 2.0%-Einsatz = 11€. Quote 5.13x = 71% combined-implied; bei 65-70% combined-Hitrate-Erwartung leichter Edge.",
-      "status": "offen"
+      "status": "offen",
+      "empfohlener_einsatz_prozent": 2.0
     },
     {
       "id": "kombi-balance",
       "name": "Balance-Kombi",
       "kategorie": "value",
       "gesamtquote": 13.43,
-      "einsatz_prozent": 0.8,
       "einsatz_euro": 4.4,
       "potenzieller_gewinn_euro": 54.71,
       "beine": [
         {
           "spiel_id": "2026-05-16-sge-vfb",
-          "auswahl": "Eintracht Frankfurt",
           "markt": "Sieg (1X2 / ML)",
           "quote": 2.0
         },
         {
           "spiel_id": "2026-05-16-b04-hsv",
-          "auswahl": "Patrik Schick trifft",
           "markt": "Torschuetzen Jederzeit",
           "quote": 2.2
         },
         {
           "spiel_id": "2026-05-16-sev-rma",
-          "auswahl": "Vinicius Junior trifft",
           "markt": "Torschuetzen Jederzeit",
           "quote": 1.85
         },
         {
           "spiel_id": "2026-05-16-wer-bvb",
-          "auswahl": "Mehr als 2.5 Tore",
           "markt": "Ueber 2.5 Tore",
           "quote": 1.65
         }
       ],
       "begruendung": "Heterogen-Konstruktion (Lesson 10.05. max 2 aus einer Quelle): 1x saison_kontext-HR3-Edge (Frankfurt-Sieg / Stuttgart-Pokal-Schon) + 2x Stuermer-Goldgrube + 1x Tor-Total-Goldgrube. Layer-1 (4 Spiele) ✓. Layer-2 (1 Sieg-Outcome) ✓. Stufe 1 0.8%-Einsatz = 4,40€. Quote 13.43x = 7.4% combined-implied; faire Wkt 9-12% bei akkumulierten Edges.",
-      "status": "offen"
+      "status": "offen",
+      "empfohlener_einsatz_prozent": 0.8
     },
     {
       "id": "kombi-risiko",
       "name": "Risiko-Kombi",
       "kategorie": "wackel",
       "gesamtquote": 45.56,
-      "einsatz_prozent": 0.25,
       "einsatz_euro": 1.4,
       "potenzieller_gewinn_euro": 62.38,
       "beine": [
         {
           "spiel_id": "2026-05-16-scf-rbl",
-          "auswahl": "RB Leipzig",
           "markt": "Sieg (1X2 / ML)",
           "quote": 2.7
         },
         {
           "spiel_id": "2026-05-14-mil-bol",
-          "auswahl": "Christian Pulisic trifft",
           "markt": "Torschuetzen Jederzeit",
           "quote": 2.7
         },
         {
           "spiel_id": "2026-05-16-sge-vfb",
-          "auswahl": "Jonathan Burkardt trifft",
           "markt": "Torschuetzen Jederzeit",
           "quote": 2.5
         },
         {
           "spiel_id": "2026-05-16-bay-koe",
-          "auswahl": "Mehr als 3.5 Tore",
           "markt": "Ueber 3.5 Tore",
           "quote": 2.5
         }
       ],
       "begruendung": "Heterogen: 1x saison_kontext-HR3-Freiburg-Schon (Leipzig) + 2x Stuermer-Goldgrube (Pulisic, Burkardt) + 1x Tor-Total. Layer-1 (4 Spiele) ✓. Layer-2 (1 Sieg-Outcome) ✓. Stufe 1 0.25%-Einsatz = 1,40€. Quote 45.56x = 2.2% combined-implied. Echtes Risiko-Spiel - hat genau die Stuermer-Anti-Korrelation-Falle (Lesson 10.05.) wenn beide Stuermer floppen.",
-      "status": "offen"
+      "status": "offen",
+      "empfohlener_einsatz_prozent": 0.25
     },
     {
       "id": "kombi-moonshot",
       "name": "Moonshot-Kombi",
       "kategorie": "moonshot",
-      "gesamtquote": 396.0,
-      "einsatz_prozent": 0.1,
+      "gesamtquote": 198.0,
       "einsatz_euro": 0.55,
       "potenzieller_gewinn_euro": 217.25,
       "beine": [
         {
           "spiel_id": "2026-05-14-mil-bol",
-          "auswahl": "Christian Pulisic Doppelpack",
           "markt": "Torschuetzen Doppelpack",
           "quote": 8.0
         },
         {
           "spiel_id": "2026-05-16-sev-rma",
-          "auswahl": "Vinicius Junior Doppelpack",
           "markt": "Torschuetzen Doppelpack",
           "quote": 6.0
         },
         {
-          "spiel_id": "2026-05-16-sge-vfb",
-          "auswahl": "Eintracht Frankfurt",
-          "markt": "Sieg (1X2 / ML)",
-          "quote": 2.0
-        },
-        {
           "spiel_id": "2026-05-16-bay-koe",
-          "auswahl": "Mehr als 3.5 Tore",
           "markt": "Ueber 3.5 Tore",
           "quote": 2.5
         },
         {
           "spiel_id": "2026-05-16-wer-bvb",
-          "auswahl": "Mehr als 2.5 Tore",
           "markt": "Ueber 2.5 Tore",
           "quote": 1.65
         }
       ],
       "begruendung": "Heterogen: 2x Stuermer-Doppelpack-Goldgrube (Pulisic + Vinicius bei Cup-Finale + Mbappe-Out) + 1x saison_kontext-HR3 (Frankfurt) + 2x Tor-Total. Layer-1 (5 Spiele) ✓. Layer-2 (1 Sieg-Outcome) ✓. Lesson 10.05.-max-2-aus-EINER-Quelle ✓. Stufe 1 0.1%-Einsatz = 0,55€ (Spasseinsatz). Quote 396x = 0.25% combined-implied; reine Lotterie wie alle Moonshots.",
-      "status": "offen"
+      "status": "offen",
+      "empfohlener_einsatz_prozent": 0.1,
+      "rechnung": "8.00 x 6.00 x 2.50 x 1.65 = 198.0"
     }
   ],
   "lessons_angewandt": [
