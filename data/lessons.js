@@ -538,6 +538,30 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "Saisonende-Tor-Flaute Mai 2026 (Quelle 8g — Markt-Pattern aus volle_analyse aller Spiele)",
       "lesson": "MARKT-PATTERN AUS NICHT-GETIPPTEN ANALYSEN 09.05.: Acht Spiele Tor-Bilanz Wolfsburg-Bayern 1, Augsburg-Gladbach 4, Hoffenheim-Bremen 1, Liverpool-Chelsea 2, City-Brentford 3, Sunderland-ManU 0, Atletico-Celta 1, Sevilla-Espanyol 3 = 15 Tore in 8 Spielen = 1.88 Tore/Spiel. Saisonende-Schiene mit vielen Mid-Table-Begegnungen = TORARM. 5/8 Spiele unter 2.5 Tore. Aktive Implikation: Unsere fca-bmg-1 (Unter 3.5 Tore @ 1.30) und sev-esp-1 (Unter 2.5 @ 1.72) sind genau richtig konstruiert gewesen, aber haben VERLOREN — beide Spiele waren die torreichsten der Schiene (Augsburg 4, Sevilla 3). Lesson: Saisonende-Tor-Flaute ist real, ABER die Ausreisser-Spiele (Tor-Festival mit 3+ Toren) sind die mid-table-Spiele OHNE Klassenerhalt-Druck (Augsburg 9.Pl + Gladbach 11.Pl) — das passt zur 'Routine-Spiel ohne Druck = mehr Risiko'-Logik. NEUE REGEL: Unter-2.5/3.5 Tipps in Saisonende-Schiene NUR bei mind. einem Klassenerhalts- oder Pflicht-Sieg-Team (defensive Disziplin erzwungen). Bei Mid-vs-Mid ohne Druck: Coinflip, max wackel.",
       "bezug_spiel_id": "2026-05-09-fca-bmg"
+    },
+    {
+      "datum": "2026-05-11",
+      "kategorie": "Star-Backup-Annahme widerlegt - Pre-Match-Reports nicht garantiebindend (Quelle 8a + STAR-AUSFALL)",
+      "lesson": "STAR-AUSFALL-BACKUP-PFLICHT NICHT IMMER VERLAESSLICH: Vinicius @ 2.40 als VALUE (Mbappe-Bank-Annahme aus SI/Yahoo-Reports 07-09.05.) verloren - Mbappe stand El Clasico tatsaechlich in der Startelf, Vinicius spielte 72 Min, traf nicht (in 72. fuer Rodrygo ausgewechselt, Rodrygo traf auch nicht = kein Boost). Pre-Match-Star-Status-Reports sind Wahrscheinlichkeits-Indikatoren, nicht Garantien. NEUE HARTREGEL: Bei Tipp-Quote unter 2.50, der auf Star-Ausfall-These des Backup-Stuermers basiert, ist Confirmed-Lineup-Pruefung (offizielle Aufstellung 30-60 Min vor Anstoss) PFLICHT. Ohne Lineup-Bestaetigung max wackel mit reduziertem Stake (0.5%). Verschaerfung der 04.05.-Lesson 'STAR-AUSFALL Backup-Pflicht'.",
+      "bezug_spiel_id": "2026-05-10-bar-rma"
+    },
+    {
+      "datum": "2026-05-11",
+      "kategorie": "BL-Sieg-Cluster Saisonende analog PL-Lesson 10.05. (Quelle 8c + 8e)",
+      "lesson": "VALIDIERUNG BL-SEITE: Mainz-Sieg @ 1.75 (VALUE / Goldgrube-Markt 'Sieg') verloren bei Union-Comeback 1:3 (88. + 90+1 Tore Burke + Juranovic). Conference-Quali-Druck-These (Mainz braucht Punkte) schlug nicht durch - Union-Eta-Erstsieg unter neuer Trainerin. Plus Whu-Ars (Arsenal-Sieg @ 1.56 - gewann nur 0:1 via Joker-Trossard 82.) und Bur-Avl (Villa-Sieg @ 1.62 - Remis 2:2). PATTERN: Saisonende-Mid-Table-Conference/Europa-Quali-Druck als Sieg-VALUE-Begruendung max wackel im Mai. Liga-Bilanz Bundesliga heute: 8 Tipps / 4 gewonnen / 4 verloren = 50% Hitrate trotz 'Goldgrube-Markt'. Lesson: Goldgrube-Markt 'Sieg (1X2)' wird im Saisonende durch Motivations-Asymmetrie-Verschiebung neutralisiert. Bei Mai-Spielen explizit Saisonende-Filter aktiv schalten.",
+      "bezug_spiel_id": "2026-05-10-m05-fcu"
+    },
+    {
+      "datum": "2026-05-11",
+      "kategorie": "EL/CL-Final-10-Tage-Vorbereitung Schon-Cluster (Quelle 8h + Rotation-Pattern)",
+      "lesson": "EL-FINAL-VORBEREITUNG-PATTERN ZWEIFACH HEUTE BESTAETIGT: Freiburg (EL-Final 20.05. = 10 Tage spaeter) verlor 3:2 in Hamburg trotz Matanovic-Doppelpack. Aston Villa (EL-Final 20.05. gegen Freiburg) holte nur 2:2 bei abgestiegenem Burnley. Beide Spiele waren der Goldgrube-Liga-DC-Logik nach Klassen-Edge - aber UEFA-Final-Schon-Modus (Streich/Emery rotierten) machte aus klaren Edges nur Remis/Niederlagen. Nicht-getipptes Spiel WHU-Arsenal hingegen (Arsenal CL-Final 30.05. = 20 Tage spaeter, mehr Zeit) gewann 0:1 via Joker. PATTERN-PRAEZISIERUNG: 7-12 Tage vor UEFA-Final = Top-Team-Sieg/DC-1X-Tipps NICHT mehr SAFE/VALUE, max wackel. 13-25 Tage vor Final = Sieg-VALUE noch OK aber mit Joker-Tor-Erwartung (Arsenal-Trossard-Pattern, PSG-Doue-Pattern). Verschaerft 'HR3 Doppelbelastungs-Joker'-Lesson 10.05.",
+      "bezug_spiel_id": "2026-05-10-bur-avl"
+    },
+    {
+      "datum": "2026-05-11",
+      "kategorie": "Schluss-Minuten-Tor-Cluster Mai - Live-Cash-Out-Empfehlung (Quelle 8f + 8g aus volle_analyse)",
+      "lesson": "SCHLUSSMINUTEN-DRAMA-CLUSTER 10.05.: Drei Spiele mit entscheidenden Toren in Minute 88+ -> Mainz-Union (Burke 88., Juranovic 90+1 = Mainz-Crash 1:3), Forest-Newcastle (Anderson 88. = Remis), Parma-Roma (Rensch 94., Malen 101 Pen = Roma-Drehung 2:3 nach 1:2-Parma-Fuehrung). Drehungs-Quote heute 1/19 Spiele (5%) - knapp unter Drehungs-Anhaeufungs-Schwelle, aber der Schluss-Minuten-Tor-Cluster ist deutlich (3+ Spiele mit 88+-Toren). PATTERN: Saisonende-Mai = hohe Schluss-Minuten-Volatilitaet, weil Teams mit Saison-Druck (Quali-Hoffnung / Klassenerhalt) bis zur letzten Sekunde pushen. EMPFEHLUNG: Wenn Sieg-Tipp auf Halbzeit-/3.Viertel-Fuehrung basiert (z.B. Mainz fuehrte 1:1 nach 48. = Conference-Quali-Aussicht), Live-Cash-Out bei 80%-Wert pruefen. Naechste Routine: Mainz-aehnliche Sieg-Tipps haben 'Saisonende-Schlussdrucks-Risiko' im begruendung-Feld zu vermerken, max wackel statt VALUE.",
+      "bezug_spiel_id": "2026-05-10-par-rom"
     }
   ]
 };

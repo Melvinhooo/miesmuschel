@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-05-10T06:20:12+00:00",
+  "letzte_berechnung": "2026-05-11T06:19:00+00:00",
   "gesamt": {
-    "tipps": 187,
-    "gewonnen": 108,
-    "verloren": 79,
+    "tipps": 197,
+    "gewonnen": 115,
+    "verloren": 82,
     "push": 0,
     "offen": 0,
-    "einsatz": 187.0,
-    "netto": 22.49,
-    "trefferquote": 57.8,
-    "roi_prozent": 12.0
+    "einsatz": 197.0,
+    "netto": 21.92,
+    "trefferquote": 58.4,
+    "roi_prozent": 11.1
   },
   "letzte_30_tage": {
-    "tipps": 187,
-    "gewonnen": 108,
-    "verloren": 79,
+    "tipps": 197,
+    "gewonnen": 115,
+    "verloren": 82,
     "push": 0,
     "offen": 0,
-    "einsatz": 187.0,
-    "netto": 22.49,
-    "trefferquote": 57.8,
-    "roi_prozent": 12.0
+    "einsatz": 197.0,
+    "netto": 21.92,
+    "trefferquote": 58.4,
+    "roi_prozent": 11.1
   },
   "letzte_90_tage": {
-    "tipps": 187,
-    "gewonnen": 108,
-    "verloren": 79,
+    "tipps": 197,
+    "gewonnen": 115,
+    "verloren": 82,
     "push": 0,
     "offen": 0,
-    "einsatz": 187.0,
-    "netto": 22.49,
-    "trefferquote": 57.8,
-    "roi_prozent": 12.0
+    "einsatz": 197.0,
+    "netto": 21.92,
+    "trefferquote": 58.4,
+    "roi_prozent": 11.1
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -69,26 +69,26 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -9.5
     },
     "LaLiga": {
-      "tipps": 22,
-      "gewonnen": 14,
-      "verloren": 8,
+      "tipps": 26,
+      "gewonnen": 16,
+      "verloren": 10,
       "push": 0,
       "offen": 0,
-      "einsatz": 22.0,
-      "netto": 0.21,
-      "trefferquote": 63.6,
-      "roi_prozent": 1.0
+      "einsatz": 26.0,
+      "netto": -0.9,
+      "trefferquote": 61.5,
+      "roi_prozent": -3.5
     },
     "Bundesliga": {
-      "tipps": 28,
-      "gewonnen": 15,
-      "verloren": 13,
+      "tipps": 30,
+      "gewonnen": 16,
+      "verloren": 14,
       "push": 0,
       "offen": 0,
-      "einsatz": 28.0,
-      "netto": -0.43,
-      "trefferquote": 53.6,
-      "roi_prozent": -1.5
+      "einsatz": 30.0,
+      "netto": -0.6,
+      "trefferquote": 53.3,
+      "roi_prozent": -2.0
     },
     "Serie A": {
       "tipps": 4,
@@ -113,15 +113,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -40.0
     },
     "Premier League": {
-      "tipps": 23,
-      "gewonnen": 15,
+      "tipps": 26,
+      "gewonnen": 18,
       "verloren": 8,
       "push": 0,
       "offen": 0,
-      "einsatz": 23.0,
-      "netto": -1.51,
-      "trefferquote": 65.2,
-      "roi_prozent": -6.6
+      "einsatz": 26.0,
+      "netto": -0.85,
+      "trefferquote": 69.2,
+      "roi_prozent": -3.3
     },
     "NBA Playoffs R1 G4": {
       "tipps": 4,
@@ -135,15 +135,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 26.5
     },
     "Ligue 1": {
-      "tipps": 5,
-      "gewonnen": 1,
+      "tipps": 6,
+      "gewonnen": 2,
       "verloren": 4,
       "push": 0,
       "offen": 0,
-      "einsatz": 5.0,
-      "netto": 0.42,
-      "trefferquote": 20.0,
-      "roi_prozent": 8.4
+      "einsatz": 6.0,
+      "netto": 0.47,
+      "trefferquote": 33.3,
+      "roi_prozent": 7.8
     },
     "FA Cup Halbfinale": {
       "tipps": 1,
@@ -2060,6 +2060,116 @@ window.__MIESMUSCHEL_STAT = {
       "netto": -1.0,
       "trefferquote": 0.0,
       "roi_prozent": -100.0
+    },
+    "Barcelona oder Remis (1X)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.18,
+      "trefferquote": 100.0,
+      "roi_prozent": 18.0
+    },
+    "Barcelona Sieg": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.71,
+      "trefferquote": 100.0,
+      "roi_prozent": 71.0
+    },
+    "Vinicius Junior trifft": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Mainz Sieg": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Ueber 2.5": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.83,
+      "trefferquote": 100.0,
+      "roi_prozent": 83.0
+    },
+    "Aston Villa oder Remis (X2)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.18,
+      "trefferquote": 100.0,
+      "roi_prozent": 18.0
+    },
+    "Ueber 1.5": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.3,
+      "trefferquote": 100.0,
+      "roi_prozent": 30.0
+    },
+    "Arsenal oder Remis (X2)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.18,
+      "trefferquote": 100.0,
+      "roi_prozent": 18.0
+    },
+    "Athletic oder Remis (1X)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "PSG oder Remis (1X)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.05,
+      "trefferquote": 100.0,
+      "roi_prozent": 5.0
     }
   },
   "nach_markt_typ": {
@@ -2108,26 +2218,26 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 55.0
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 62,
-      "gewonnen": 38,
-      "verloren": 24,
+      "tipps": 64,
+      "gewonnen": 39,
+      "verloren": 25,
       "push": 0,
       "offen": 0,
-      "einsatz": 62.0,
-      "netto": 10.19,
-      "trefferquote": 61.3,
-      "roi_prozent": 16.4
+      "einsatz": 64.0,
+      "netto": 9.9,
+      "trefferquote": 60.9,
+      "roi_prozent": 15.5
     },
     "Torschuetzen Jederzeit": {
-      "tipps": 24,
+      "tipps": 25,
       "gewonnen": 10,
-      "verloren": 14,
+      "verloren": 15,
       "push": 0,
       "offen": 0,
-      "einsatz": 24.0,
-      "netto": 7.47,
-      "trefferquote": 41.7,
-      "roi_prozent": 31.1
+      "einsatz": 25.0,
+      "netto": 6.47,
+      "trefferquote": 40.0,
+      "roi_prozent": 25.9
     },
     "Unter 2.5 Tore": {
       "tipps": 7,
@@ -2414,41 +2524,118 @@ window.__MIESMUSCHEL_STAT = {
       "netto": -1.0,
       "trefferquote": 0.0,
       "roi_prozent": -100.0
+    },
+    "Barcelona oder Remis (1X)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.18,
+      "trefferquote": 100.0,
+      "roi_prozent": 18.0
+    },
+    "Ueber 2.5": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.83,
+      "trefferquote": 100.0,
+      "roi_prozent": 83.0
+    },
+    "Aston Villa oder Remis (X2)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.18,
+      "trefferquote": 100.0,
+      "roi_prozent": 18.0
+    },
+    "Ueber 1.5": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.3,
+      "trefferquote": 100.0,
+      "roi_prozent": 30.0
+    },
+    "Arsenal oder Remis (X2)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.18,
+      "trefferquote": 100.0,
+      "roi_prozent": 18.0
+    },
+    "Athletic oder Remis (1X)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "PSG oder Remis (1X)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.05,
+      "trefferquote": 100.0,
+      "roi_prozent": 5.0
     }
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 87,
-      "gewonnen": 45,
-      "verloren": 42,
+      "tipps": 90,
+      "gewonnen": 47,
+      "verloren": 43,
       "push": 0,
       "offen": 0,
-      "einsatz": 87.0,
-      "netto": 9.96,
-      "trefferquote": 51.7,
-      "roi_prozent": 11.4
+      "einsatz": 90.0,
+      "netto": 10.5,
+      "trefferquote": 52.2,
+      "roi_prozent": 11.7
     },
     "2.00-3.00": {
-      "tipps": 24,
+      "tipps": 25,
       "gewonnen": 11,
-      "verloren": 13,
+      "verloren": 14,
       "push": 0,
       "offen": 0,
-      "einsatz": 24.0,
-      "netto": 4.64,
-      "trefferquote": 45.8,
-      "roi_prozent": 19.3
+      "einsatz": 25.0,
+      "netto": 3.64,
+      "trefferquote": 44.0,
+      "roi_prozent": 14.6
     },
     "1.00-1.50": {
-      "tipps": 68,
-      "gewonnen": 50,
-      "verloren": 18,
+      "tipps": 74,
+      "gewonnen": 55,
+      "verloren": 19,
       "push": 0,
       "offen": 0,
-      "einsatz": 68.0,
-      "netto": 5.44,
-      "trefferquote": 73.5,
-      "roi_prozent": 8.0
+      "einsatz": 74.0,
+      "netto": 5.33,
+      "trefferquote": 74.3,
+      "roi_prozent": 7.2
     },
     "3.00+": {
       "tipps": 8,
@@ -2464,26 +2651,26 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_kategorie": {
     "safe": {
-      "tipps": 59,
-      "gewonnen": 43,
+      "tipps": 60,
+      "gewonnen": 44,
       "verloren": 16,
       "push": 0,
       "offen": 0,
-      "einsatz": 59.0,
-      "netto": 0.75,
-      "trefferquote": 72.9,
-      "roi_prozent": 1.3
+      "einsatz": 60.0,
+      "netto": 0.93,
+      "trefferquote": 73.3,
+      "roi_prozent": 1.6
     },
     "value": {
-      "tipps": 109,
-      "gewonnen": 56,
-      "verloren": 53,
+      "tipps": 118,
+      "gewonnen": 62,
+      "verloren": 56,
       "push": 0,
       "offen": 0,
-      "einsatz": 109.0,
-      "netto": 14.68,
-      "trefferquote": 51.4,
-      "roi_prozent": 13.5
+      "einsatz": 118.0,
+      "netto": 13.93,
+      "trefferquote": 52.5,
+      "roi_prozent": 11.8
     },
     "wackel": {
       "tipps": 19,
@@ -2514,6 +2701,191 @@ window.__MIESMUSCHEL_STAT = {
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-05-10",
+      "gesamt": {
+        "tipps": 10,
+        "gewonnen": 7,
+        "verloren": 3,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 10.0,
+        "netto": -0.57,
+        "trefferquote": 70.0,
+        "roi_prozent": -5.7
+      },
+      "spiele": [
+        {
+          "id": "2026-05-10-m05-fcu",
+          "liga": "Bundesliga",
+          "heim": "1. FSV Mainz 05",
+          "gast": "1. FC Union Berlin",
+          "endstand": "1:3",
+          "tipps": [
+            {
+              "markt": "Mainz Sieg",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Mainz verlor 1:3 - kein 2:0-Insurance (Mainz nie 2:0+ vorne)"
+            },
+            {
+              "markt": "Ueber 2.5",
+              "quote": 1.83,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.83,
+              "kommentar": "Ueber 2.5 - 4 Tore"
+            }
+          ]
+        },
+        {
+          "id": "2026-05-10-bur-avl",
+          "liga": "Premier League",
+          "heim": "Burnley FC",
+          "gast": "Aston Villa",
+          "endstand": "2:2",
+          "tipps": [
+            {
+              "markt": "Aston Villa oder Remis (X2)",
+              "quote": 1.18,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.18,
+              "kommentar": "Remis 2:2 - X2 eingetreten"
+            },
+            {
+              "markt": "Ueber 1.5",
+              "quote": 1.3,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.3,
+              "kommentar": "Ueber 1.5 - 4 Tore"
+            }
+          ]
+        },
+        {
+          "id": "2026-05-10-whu-ars",
+          "liga": "Premier League",
+          "heim": "West Ham United",
+          "gast": "Arsenal FC",
+          "endstand": "0:1",
+          "tipps": [
+            {
+              "markt": "Arsenal oder Remis (X2)",
+              "quote": 1.18,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.18,
+              "kommentar": "Arsenal gewann 1:0 - X2 eingetreten"
+            }
+          ]
+        },
+        {
+          "id": "2026-05-10-ath-val",
+          "liga": "LaLiga",
+          "heim": "Athletic Bilbao",
+          "gast": "Valencia CF",
+          "endstand": "0:1",
+          "tipps": [
+            {
+              "markt": "Athletic oder Remis (1X)",
+              "quote": 1.12,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Athletic verlor 0:1 - 1X nicht eingetreten"
+            }
+          ]
+        },
+        {
+          "id": "2026-05-10-bar-rma",
+          "liga": "LaLiga",
+          "heim": "FC Barcelona",
+          "gast": "Real Madrid",
+          "endstand": "2:0",
+          "tipps": [
+            {
+              "markt": "Barcelona oder Remis (1X)",
+              "quote": 1.18,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.18,
+              "kommentar": "Barca gewann 2:0 - 1X eingetreten"
+            },
+            {
+              "markt": "Barcelona Sieg",
+              "quote": 1.71,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.71,
+              "kommentar": "Barca Sieg 2:0 (Rashford 9., Torres 18.)"
+            },
+            {
+              "markt": "Vinicius Junior trifft",
+              "quote": 2.4,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Vinicius in 72. fuer Rodrygo ausgewechselt - Rodrygo traf NICHT (Real 0 Tore). Kein Boost-Auszahlung"
+            }
+          ]
+        },
+        {
+          "id": "2026-05-10-psg-bre",
+          "liga": "Ligue 1",
+          "heim": "Paris Saint-Germain",
+          "gast": "Stade Brest",
+          "endstand": "1:0",
+          "tipps": [
+            {
+              "markt": "PSG oder Remis (1X)",
+              "quote": 1.05,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.05,
+              "kommentar": "PSG gewann 1:0 - 1X eingetreten"
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe ~4x",
+          "kategorie": "safe",
+          "gesamtquote": 3.95,
+          "einsatz_prozent": 2.0,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "FC Barcelona - Real Madrid: Barcelona Sieg",
+              "quote": 1.71,
+              "status": "gewonnen",
+              "kommentar": "Barca Sieg 2:0 (Rashford 9., Torres 18.)"
+            },
+            {
+              "markt": "Burnley FC - Aston Villa: Aston Villa oder Remis (X2)",
+              "quote": 1.18,
+              "status": "gewonnen",
+              "kommentar": "Remis 2:2 - X2 eingetreten"
+            },
+            {
+              "markt": "Athletic Bilbao - Valencia CF: Athletic oder Remis (1X)",
+              "quote": 1.12,
+              "status": "verloren",
+              "kommentar": "Athletic verlor 0:1 - 1X nicht eingetreten"
+            },
+            {
+              "markt": "1. FSV Mainz 05 - 1. FC Union Berlin: Mainz Sieg",
+              "quote": 1.75,
+              "status": "verloren",
+              "kommentar": "Mainz verlor 1:3 - kein 2:0-Insurance (Mainz nie 2:0+ vorne)"
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-05-09",
       "gesamt": {

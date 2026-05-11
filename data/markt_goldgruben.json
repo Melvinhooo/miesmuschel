@@ -1,5 +1,5 @@
 {
-  "stand": "2026-05-10T06:20:12+00:00",
+  "stand": "2026-05-11T06:19:00+00:00",
   "kriterium": "Hitrate > 75.0% UND ROI > 15.0% bei min. 5 Tipps",
   "wirkung": "Tipps-Routinen sollen diese Maerkte aktiv suchen. Schema-Mapper warnt wenn Spiel im Dossier ist und der Markt nicht als Tipp gesetzt wurde.",
   "maerkte": [
@@ -19,17 +19,17 @@
     },
     {
       "markt": "Torschuetzen Jederzeit",
-      "tipps": 24,
-      "trefferquote": 41.7,
-      "roi_prozent": 31.1,
-      "netto": 7.47
+      "tipps": 25,
+      "trefferquote": 40.0,
+      "roi_prozent": 25.9,
+      "netto": 6.47
     },
     {
       "markt": "Sieg (1X2 / ML)",
-      "tipps": 62,
-      "trefferquote": 61.3,
-      "roi_prozent": 16.4,
-      "netto": 10.19
+      "tipps": 64,
+      "trefferquote": 60.9,
+      "roi_prozent": 15.5,
+      "netto": 9.9
     },
     {
       "markt": "Doppelte Chance X2",
