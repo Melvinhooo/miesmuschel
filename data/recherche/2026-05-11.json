@@ -1,0 +1,414 @@
+{
+  "datum": "2026-05-11",
+  "erstellt_am": "2026-05-11T17:45:00+00:00",
+  "modus": "tag",
+  "hinweis": "Recherche-Daten Montag (Mo-Fr Variante): nur 3 europaeische Top-Liga-Spiele heute (alle ~21:00 Berlin) + 2 NBA Playoff-Spiele. KRITISCHE PARALLEL-WETTBEWERBS-FLAGS: (1) Bologna spielt 14.05.2026 Coppa-Italia-Finale vs AC Milan in Rom — nur 3 Tage entfernt — MASSIVES Rotations-Risiko in Napoli-Bologna fuer Stamm-Bolognesi. (2) Rayo Vallecano spielt 27.05.2026 Conference-League-Finale vs Crystal Palace in Leipzig — 16 Tage entfernt + 4 Tage seit Conference-SF-Rueckspiel — Rotation moeglich, aber weniger akut als Bologna. (3) Tottenham + Leeds keine UEFA-Wettbewerbe. (4) Napoli kein europaeisches Spiel diese Saison. NBA: Lakers-Thunder G4 (Thunder fuehrt 3-0, Sweep-Match) + Pistons-Cavaliers G4 (Pistons fuehren 2-1). KEINE Tipp-Bewertung — nur Datenbasis. bet365-Quoten als Aggregator-Naeherung (sportsgambler.com); zur Wett-Zeit live pruefen.",
+  "spiele": [
+    {
+      "id": "2026-05-11-tot-lee",
+      "liga": "Premier League",
+      "heim": "Tottenham Hotspur",
+      "gast": "Leeds United",
+      "anstoss": "2026-05-11T21:00:00+02:00",
+      "stadion": "Tottenham Hotspur Stadium, London",
+      "squad_heim": [
+        {"name": "Antonin Kinsky", "nummer": null, "position": "TW", "saison_tore": 0, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/tottenham-vs-leeds-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Pedro Porro", "nummer": null, "position": "RV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/tottenham-vs-leeds-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Kevin Danso", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/tottenham-vs-leeds-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Micky van de Ven", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/tottenham-vs-leeds-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Destiny Udogie", "nummer": null, "position": "LV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/tottenham-vs-leeds-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Joao Palhinha", "nummer": null, "position": "DM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/tottenham-vs-leeds-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Rodrigo Bentancur", "nummer": null, "position": "DM/ZM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/tottenham-vs-leeds-prediction-lineups-odds-2026-05-11/", "hinweis": "Zurueck nach Verletzung — verfuegbar"},
+        {"name": "Randal Kolo Muani", "nummer": null, "position": "OM/LF", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/tottenham-vs-leeds-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Conor Gallagher", "nummer": null, "position": "OM/ZM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/tottenham-vs-leeds-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Mathys Tel", "nummer": null, "position": "OM/RF", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/tottenham-vs-leeds-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Richarlison", "nummer": null, "position": "ST", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/tottenham-vs-leeds-prediction-lineups-odds-2026-05-11/", "hinweis": "Zurueck nach Verletzung — verfuegbar. Solanke und Kudus weiter OUT, Richarlison ist Stamm-9er heute. Anytime-Goalscorer-Quote +380."}
+      ],
+      "squad_gast": [
+        {"name": "Karl Darlow", "nummer": null, "position": "TW", "saison_tore": 0, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/tottenham-vs-leeds-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Joe Rodon", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/tottenham-vs-leeds-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Jaka Bijol", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/tottenham-vs-leeds-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Pascal Struijk", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/tottenham-vs-leeds-prediction-lineups-odds-2026-05-11/", "hinweis": "Hueftprellung — fitness check"},
+        {"name": "Jayden Bogle", "nummer": null, "position": "RV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/tottenham-vs-leeds-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Ethan Ampadu", "nummer": null, "position": "DM/IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/tottenham-vs-leeds-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Ao Tanaka", "nummer": null, "position": "ZM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/tottenham-vs-leeds-prediction-lineups-odds-2026-05-11/"},
+        {"name": "James Justin", "nummer": null, "position": "RM/RV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/tottenham-vs-leeds-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Anton Stach", "nummer": null, "position": "ZM/DM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/tottenham-vs-leeds-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Brenden Aaronson", "nummer": null, "position": "OM/LF", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/tottenham-vs-leeds-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Dominic Calvert-Lewin", "nummer": null, "position": "ST", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/tottenham-vs-leeds-prediction-lineups-odds-2026-05-11/", "hinweis": "Nominal-9er Leeds — Stamm-Stuermer ohne Backup-Konkurrenz (Okafor verletzt)"}
+      ],
+      "injuries_heim": [
+        "Guglielmo Vicario (Rueckenbeschwerden)",
+        "Dominic Solanke (Oberschenkel, Hamstring)",
+        "Ben Davies (Unterschenkel)",
+        "Xavi Simons (Kreuzband)",
+        "Mohammed Kudus (Oberschenkel)",
+        "Cristian Romero (Knie)",
+        "Dejan Kulusevski (Knie)",
+        "Wilson Odobert (Knie)"
+      ],
+      "injuries_gast": [
+        "Noah Okafor (Wadenzerrung)",
+        "Gabriel Gudmundsson (Oberschenkel)",
+        "Ilia Gruev (Meniskus)",
+        "Pascal Struijk (Hueftprellung, fraglich)",
+        "Joseph (Knoechel)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine — Tottenham nicht in UEFA-Wettbewerben 2025/26",
+        "gast": "keine — Leeds nicht in UEFA-Wettbewerben, FA-Cup-HF gegen Chelsea 26.04. verloren (raus)",
+        "quellen": [
+          "https://en.wikipedia.org/wiki/2025-26_Premier_League",
+          "https://www.premierleague.com/en/match/2562253/tottenham-hotspur-vs-leeds-united"
+        ]
+      },
+      "saisonziel_heim": "Platz 17 mit 37 Pkt (1 Pkt vor West Ham), zwei Spieltage verbleibend — Klassenerhalt-Pflicht. Sieg = 4 Pkt vor Relegationszone",
+      "saisonziel_gast": "Platz 14-16 mit 43 Pkt, 7 Pkt vor West Ham, drei Spieltage — praktisch gesichert, kein Druck mehr",
+      "tabellenstand": {"heim_platz": 17, "heim_pkt": 37, "gast_platz": 16, "gast_pkt": 43},
+      "form_heim_letzte_5": "N-S-N-S-S (zuletzt 2-1 in Aston Villa, 0-1 in Wolverhampton, beide auswaerts gewonnen — Momentum nach 0:3 vs Nottingham)",
+      "form_gast_letzte_5": "S-N(FA-Cup)-U-S-S (zuletzt 3-1 vs Burnley, davor unbeaten in 6 Liga-Auswaertsspielen aber 8 von 10 unentschieden)",
+      "recovery_heim": "8 Tage seit 03.05. — sehr frische Mannschaft, Bentancur+Richarlison aus Verletzung zurueck",
+      "recovery_gast": "10 Tage seit 01.05. — sehr frisch, kein FA-Cup-Druck mehr seit 26.04.",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 1.76,
+          "draw": 3.95,
+          "sieg_gast": 4.35,
+          "ueber_2_5": 1.71,
+          "unter_2_5": 2.10,
+          "btts_ja": 1.64,
+          "btts_nein": 2.15,
+          "dc_1x": 1.21,
+          "dc_x2": 2.02,
+          "torschuetzen": {"Richarlison": 4.80, "Kolo Muani": null, "Calvert-Lewin": null}
+        },
+        "_quelle": "sportsgambler.com Stand 10./11.05.2026 — US-Format-Konversion (Tottenham -132 → 1.76, Leeds +335 → 4.35, Draw +295 → 3.95, Over 2.5 -141 → 1.71, Under 2.5 +110 → 2.10, BTTS Yes -156 → 1.64, BTTS No +115 → 2.15, DC 1X -476 → 1.21, DC X2 +102 → 2.02, Richarlison +380 → 4.80). bet365 live pruefen."
+      },
+      "news_kompakt": [
+        "Tottenham 17. (37 Pkt), 1 Pkt vor West Ham — Klassenerhalt-Pflichtspiel mit 8 Tagen Recovery, Bentancur+Richarlison zurueck aus Verletzung",
+        "Leeds 7 Pkt vor West Ham (16.), praktisch gesichert — minimaler Drucknachteil, frischer aus 10 Tagen Pause",
+        "Beide ohne UEFA-Belastung — Tottenham + Leeds nicht in Europa 2025/26, Leeds FA-Cup raus seit 26.04.",
+        "Tottenham hat 8 Stammspieler OUT (Vicario, Solanke, Davies, Simons, Kudus, Romero, Kulusevski, Odobert) — Lazarett-Aufstellung",
+        "2:0-Insurance gilt NICHT (PL ist nicht BL/CL) — bei Tipp-Auswertung normaler 90-Min-Endstand zaehlt"
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/tottenham-vs-leeds-prediction-lineups-odds-2026-05-11/",
+        "https://www.premierleague.com/en/match/2562253/tottenham-hotspur-vs-leeds-united",
+        "https://lastwordonsports.com/football/2026/05/11/tottenham-vs-leeds-lineup/"
+      ]
+    },
+    {
+      "id": "2026-05-11-ray-gir",
+      "liga": "LaLiga",
+      "heim": "Rayo Vallecano",
+      "gast": "Girona FC",
+      "anstoss": "2026-05-11T21:00:00+02:00",
+      "stadion": "Estadio de Vallecas, Madrid",
+      "squad_heim": [
+        {"name": "Augusto Batalla", "nummer": null, "position": "TW", "saison_tore": 0, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/rayo-vallecano-vs-girona-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Ivan Balliu", "nummer": null, "position": "RV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/rayo-vallecano-vs-girona-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Florian Lejeune", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/rayo-vallecano-vs-girona-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Nobel Mendy", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/rayo-vallecano-vs-girona-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Jozhua Vertrouwd", "nummer": null, "position": "LV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/rayo-vallecano-vs-girona-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Pathe Ciss", "nummer": null, "position": "DM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/rayo-vallecano-vs-girona-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Gerard Gumbau", "nummer": null, "position": "ZM/DM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/rayo-vallecano-vs-girona-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Jorge de Frutos", "nummer": null, "position": "RF/OM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/rayo-vallecano-vs-girona-prediction-lineups-odds-2026-05-11/", "hinweis": "First-Goalscorer-Quote +550 (7.50 dezimal) — Rayo Volumen-Fluegel"},
+        {"name": "Sergio Camello", "nummer": null, "position": "ST", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/rayo-vallecano-vs-girona-prediction-lineups-odds-2026-05-11/", "hinweis": "Anytime-Goalscorer-Quote +210 (3.10 dezimal) — Stamm-9er bei Palazon-Sperre"},
+        {"name": "Alfonso Espino", "nummer": null, "position": "LV/LM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/rayo-vallecano-vs-girona-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Alexandre Zurawski", "nummer": null, "position": "OM/LF", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/rayo-vallecano-vs-girona-prediction-lineups-odds-2026-05-11/"}
+      ],
+      "squad_gast": [
+        {"name": "Paulo Gazzaniga", "nummer": null, "position": "TW", "saison_tore": 0, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/rayo-vallecano-vs-girona-prediction-lineups-odds-2026-05-11/", "hinweis": "ter Stegen verletzt — Gazzaniga im Tor"},
+        {"name": "Arnau Martinez", "nummer": null, "position": "RV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/rayo-vallecano-vs-girona-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Alejandro Frances", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/rayo-vallecano-vs-girona-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Vitor Reis", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/rayo-vallecano-vs-girona-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Daley Blind", "nummer": null, "position": "LV/IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/rayo-vallecano-vs-girona-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Fran Beltran", "nummer": null, "position": "DM/ZM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/rayo-vallecano-vs-girona-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Axel Witsel", "nummer": null, "position": "DM/IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/rayo-vallecano-vs-girona-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Viktor Tsigankov", "nummer": null, "position": "RF/OM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/rayo-vallecano-vs-girona-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Azzedine Ounahi", "nummer": null, "position": "OM/ZM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/rayo-vallecano-vs-girona-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Joel Roca", "nummer": null, "position": "LF/OM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/rayo-vallecano-vs-girona-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Claudio Echeverri", "nummer": null, "position": "ST/OM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/rayo-vallecano-vs-girona-prediction-lineups-odds-2026-05-11/", "hinweis": "Stamm-9er bei Abel-Ruiz-Verletzung + Vanat-OUT — einziger nominaler Stuermer-Tipp"}
+      ],
+      "injuries_heim": [
+        "Isi Palazon (Sperre, Rote Karte)",
+        "Luis Felipe (Verletzung)"
+      ],
+      "injuries_gast": [
+        "Vladyslav Vanat (Oberschenkel, OUT)",
+        "Portu (OUT)",
+        "Juan Carlos (OUT)",
+        "Marc-Andre ter Stegen (OUT, Rueckenproblem)",
+        "Abel Ruiz (Oberschenkel, fraglich)",
+        "Donny van de Beek (Kreuzband, OUT)",
+        "Bryan Gil (Gelbsperre)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "Conference-League-FINALE 27.05.2026 in Leipzig vs Crystal Palace — 16 Tage entfernt, 4 Tage seit Conference-SF-Rueckspiel 07.05. vs Strasbourg (1-0). Trainer Inigo Perez koennte heute leicht rotieren um Frische zu sparen, aber zwischen Spiel und Finale liegen noch 3 LaLiga-Spiele",
+        "gast": "keine — Girona ohne UEFA-Wettbewerb 2025/26",
+        "quellen": [
+          "https://es.uefa.com/uefaconferenceleague/match/2047744--crystal-palace-vs-rayo-vallecano/final/",
+          "https://www.football-espana.net/2026/05/07/strasbourg-rayo-vallecano-report",
+          "https://onefootball.com/en/news/rayo-vallecano-reach-conference-league-final-spain-clinch-second-in-uefa-coefficient-42837138"
+        ]
+      },
+      "saisonziel_heim": "Platz 11 mit 42 Pkt (2 Pkt hinter Getafe auf Platz 7), kein Abstiegs-/Europa-Druck mehr in LaLiga — Hauptziel ist jetzt Conference-Finale 27.05.",
+      "saisonziel_gast": "Platz 17 mit 38 Pkt, 2 Pkt ueber Abstiegszone — Klassenerhalt-Pflichtspiel, jeder Punkt zaehlt",
+      "tabellenstand": {"heim_platz": 11, "heim_pkt": 42, "gast_platz": 17, "gast_pkt": 38},
+      "form_heim_letzte_5": "S-S-S-U-S (zuletzt 1-0 vs Strasbourg Conference-SF-2 + 2-0 in Getafe, 4 Siege aus 5)",
+      "form_gast_letzte_5": "N-N-N-U-S (0-1 vs Mallorca, 0-2 vs Valencia, 0-3 vs Betis — 3 Niederlagen in Folge, Tor-Krise)",
+      "recovery_heim": "4 Tage seit Conference-SF 07.05. (Strasbourg 1-0) — knappe Recovery + Final-Schonung-Risiko",
+      "recovery_gast": "10 Tage seit 01.05. (0-1 Mallorca) — sehr frisch, aber Tor-Problem nicht behoben",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 2.48,
+          "draw": 3.25,
+          "sieg_gast": 2.90,
+          "ueber_2_5": 1.86,
+          "unter_2_5": 1.90,
+          "btts_ja": 1.63,
+          "btts_nein": 2.16,
+          "dc_1x": 1.40,
+          "dc_x2": 1.52,
+          "torschuetzen": {"de Frutos": 7.50, "Camello": 3.10}
+        },
+        "_quelle": "sportsgambler.com Stand 10./11.05.2026 — US-Format-Konversion (Rayo +148 → 2.48, Draw +225 → 3.25, Girona +190 → 2.90, Over 2.5 -116 → 1.86, Under 2.5 -111 → 1.90, BTTS Yes -159 → 1.63, BTTS No +116 → 2.16, DC 1X -250 → 1.40, DC X2 -192 → 1.52, de Frutos +550 → 7.50, Camello +210 → 3.10). bet365 live pruefen."
+      },
+      "news_kompakt": [
+        "Rayo macht Geschichte: Erstes Conference-League-Finale 27.05. in Leipzig vs Crystal Palace — beide Teams erstes europ. Finale ueberhaupt",
+        "Rayo 4 Tage nach Conference-SF (1-0 Strasbourg) — Trainer Inigo Perez koennte leicht rotieren, aber Mannschaft hat Momentum (4 Siege aus 5)",
+        "Girona auf 17. (38 Pkt), 2 Pkt ueber Abstiegszone — 3 Niederlagen in Folge, Tor-Krise (0 Tore in 3 Spielen), keine Tor-Form",
+        "Girona-Lazarett massiv: ter Stegen + van de Beek (Kreuzband) + Vanat + Abel Ruiz + Portu + Bryan Gil (Sperre) — Echeverri einziger nominaler Stuermer",
+        "Rayo ohne Isi Palazon (Sperre) + Luis Felipe — Camello + de Frutos tragen Offensive",
+        "Quoten nahe Coinflip mit leichtem Rayo-Edge (Heimspiel + Form + Girona-Lazarett) — Conference-Final-Schonung kann das aber drehen"
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/rayo-vallecano-vs-girona-prediction-lineups-odds-2026-05-11/",
+        "https://es.uefa.com/uefaconferenceleague/match/2047744--crystal-palace-vs-rayo-vallecano/final/",
+        "https://onefootball.com/en/news/rayo-vallecano-reach-conference-league-final-spain-clinch-second-in-uefa-coefficient-42837138"
+      ]
+    },
+    {
+      "id": "2026-05-11-nap-bol",
+      "liga": "Serie A",
+      "heim": "SSC Napoli",
+      "gast": "Bologna FC",
+      "anstoss": "2026-05-11T20:45:00+02:00",
+      "stadion": "Stadio Diego Armando Maradona, Neapel",
+      "squad_heim": [
+        {"name": "Vanja Milinkovic-Savic", "nummer": null, "position": "TW", "saison_tore": 0, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-bologna-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Giovanni Di Lorenzo", "nummer": null, "position": "RV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-bologna-prediction-lineups-odds-2026-05-11/", "hinweis": "Fitness-Check spaet"},
+        {"name": "Amir Rrahmani", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-bologna-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Alessandro Buongiorno", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-bologna-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Matteo Politano", "nummer": null, "position": "RM/RF", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-bologna-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Scott McTominay", "nummer": null, "position": "ZM/OM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-bologna-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Stanislav Lobotka", "nummer": null, "position": "DM/ZM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-bologna-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Miguel Gutierrez", "nummer": null, "position": "LV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-bologna-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Kevin De Bruyne", "nummer": null, "position": "OM/ZM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-bologna-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Alisson Santos", "nummer": null, "position": "ST/LF", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-bologna-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Rasmus Hojlund", "nummer": null, "position": "ST", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-bologna-prediction-lineups-odds-2026-05-11/", "hinweis": "Stamm-9er bei Lukaku-Sperre — First-Goalscorer-Quote +135 (2.35 dezimal). Position ST (NICHT Oscar Hoejlund vom Mainz-Bug — Rasmus Hojlund ist der Napoli-Stuermer von ManUnited geliehen)"}
+      ],
+      "squad_gast": [
+        {"name": "Lukasz Skorupski", "nummer": null, "position": "TW", "saison_tore": 0, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-bologna-prediction-lineups-odds-2026-05-11/", "hinweis": "Oberschenkel-Problem, fraglich"},
+        {"name": "Joao Mario", "nummer": null, "position": "RV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-bologna-prediction-lineups-odds-2026-05-11/", "hinweis": "fraglich"},
+        {"name": "Torbjorn Heggem (Lysaker Heggem)", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-bologna-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Jhon Lucumi", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-bologna-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Juan Miranda", "nummer": null, "position": "LV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-bologna-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Remo Freuler", "nummer": null, "position": "DM/ZM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-bologna-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Lewis Ferguson", "nummer": null, "position": "ZM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-bologna-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Riccardo Orsolini", "nummer": null, "position": "RF/OM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-bologna-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Federico Bernardeschi", "nummer": null, "position": "OM/LF", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-bologna-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Jonathan Rowe", "nummer": null, "position": "LF/OM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-bologna-prediction-lineups-odds-2026-05-11/"},
+        {"name": "Santiago Castro", "nummer": null, "position": "ST", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-bologna-prediction-lineups-odds-2026-05-11/", "hinweis": "First-Goalscorer-Quote +310 (4.10 dezimal) — Stamm-9er. Coppa-Italia-Finale 14.05. wahrscheinliche Schonung Stammelf-weit"}
+      ],
+      "injuries_heim": [
+        "David Neres (Knoechel, OUT)",
+        "Romelu Lukaku (Sperre)",
+        "Cyril Ngonge (Knie)",
+        "Mathias Olivera (Muskel)",
+        "Juan Jesus (Sonstiges)",
+        "Antonio Vergara (Fitness-Test spaet)"
+      ],
+      "injuries_gast": [
+        "Martin Vitik (Knoechel)",
+        "Nicolo Casale (Knoechel)",
+        "Andrea Cambiaghi (Oberschenkel)",
+        "Thijs Dallinga (Muskel)",
+        "Lukasz Skorupski (Oberschenkel, fraglich)",
+        "Joao Mario (fraglich)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine — Napoli nicht in UEFA-Wettbewerben 2025/26 (Conte-Comeback-Saison aus 10. Platz vorige Saison)",
+        "gast": "COPPA-ITALIA-FINALE 14.05.2026 in Rom (Stadio Olimpico) vs AC Milan — 3 TAGE entfernt, MASSIVES Rotations- und Schonung-Risiko fuer Stamm-Bologna heute (erstes Coppa-Finale seit 1974)",
+        "quellen": [
+          "https://en.wikipedia.org/wiki/2025%E2%80%9326_Coppa_Italia",
+          "https://football-italia.net/coppa-italia-bologna-1st-final-51-years-milan/",
+          "https://sempremilan.com/ac-milan-bologna-coppa-italia-date-time-paths"
+        ]
+      },
+      "saisonziel_heim": "Platz 2 mit 70 Pkt — Titel an Inter verloren, Vize-Pokal-Sicherung mit Sieg heute (3 Spiele verbleibend, knapp), Conte-Motivation: Silber sichern",
+      "saisonziel_gast": "Platz 10 mit 49 Pkt — Liga-Mittelfeld komplett, Conference-Quali-Hoffnung quasi weg, FOKUS 100% auf Coppa-Finale 14.05.",
+      "tabellenstand": {"heim_platz": 2, "heim_pkt": 70, "gast_platz": 10, "gast_pkt": 49},
+      "form_heim_letzte_5": "U-S-N-U-S (0-0 Como, 4-0 Cremonese, 0-2 Lazio, 1-1 Parma, 1-0 Milan — solide, 2 Clean Sheets in Folge)",
+      "form_gast_letzte_5": "U-N-N-N-S (0-0 Cagliari, 0-2 Roma, 0-2 Juve, 0-4 Aston Villa Europa, 2-0 Lecce — winless 4, 0 Tore in letzten 3)",
+      "recovery_heim": "9 Tage seit 02.05. — sehr frisch",
+      "recovery_gast": "9 Tage seit 02.05. — frisch, aber Coppa-Finale in 3 Tagen → Trainer Italiano wird rotieren",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 1.52,
+          "draw": 4.10,
+          "sieg_gast": 6.25,
+          "ueber_2_5": 1.86,
+          "unter_2_5": 1.90,
+          "btts_ja": 1.92,
+          "btts_nein": 1.83,
+          "dc_1x": 1.12,
+          "dc_x2": 2.40,
+          "torschuetzen": {"Hojlund": 2.35, "Castro": 4.10, "De Bruyne": null}
+        },
+        "_quelle": "sportsgambler.com Stand 10./11.05.2026 — US-Format-Konversion (Napoli -192 → 1.52, Draw +310 → 4.10, Bologna +525 → 6.25, Over 2.5 -116 → 1.86, Under 2.5 -111 → 1.90, BTTS Yes -109 → 1.92, BTTS No -120 → 1.83, DC 1X -833 → 1.12, DC X2 +140 → 2.40, Hojlund +135 → 2.35, Castro +310 → 4.10). bet365 live pruefen."
+      },
+      "news_kompakt": [
+        "Bologna spielt 14.05.2026 (3 TAGE!) Coppa-Italia-Finale vs AC Milan in Rom — erstes Coppa-Finale seit 1974 — MASSIVE Rotation/Schonung in Neapel erwartbar",
+        "Napoli kaempft um Platz 2 (Vize), Inter hat Titel sicher — Conte will Silbermedaillen-Sicherung, Heim-Druck hoch",
+        "Bologna ohne 4-5 Stamm-Verteidiger (Vitik, Casale OUT + Skorupski + Joao Mario fraglich) — Defensive geschwaecht zusaetzlich zur Rotation",
+        "Hojlund (Napoli-9er von ManU geliehen, NICHT der Mainz-DM Oscar Hojlund) = Stamm-Stuermer, First-Goalscorer 2.35 — Position ST eindeutig",
+        "Napoli 2 Clean Sheets in Folge, Bologna 0 Tore in letzten 3 Liga-Spielen — Unter-2.5 + 1-0/2-0 Heim-Sieg-Profile plausibel",
+        "Quote Napoli 1.52 = relativ knappe Quote, Sieg-Heim mit Insurance-Schutz NICHT verfuegbar (Serie A, nicht BL/CL)"
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/napoli-vs-bologna-prediction-lineups-odds-2026-05-11/",
+        "https://en.wikipedia.org/wiki/2025%E2%80%9326_Coppa_Italia",
+        "https://football-italia.net/coppa-italia-bologna-1st-final-51-years-milan/"
+      ]
+    },
+    {
+      "id": "2026-05-11-lal-okc",
+      "liga": "NBA Playoffs",
+      "heim": "Los Angeles Lakers",
+      "gast": "Oklahoma City Thunder",
+      "anstoss": "2026-05-12T04:30:00+02:00",
+      "stadion": "Crypto.com Arena, Los Angeles",
+      "squad_heim": [
+        {"name": "LeBron James", "nummer": 23, "position": "SF/PF", "saison_tore": null, "verifiziert_via": "https://www.nba.com/game/okc-vs-lal-0042500224"},
+        {"name": "Austin Reaves", "nummer": 15, "position": "SG", "saison_tore": null, "verifiziert_via": "https://www.totalprosports.com/nba/los-angeles-lakers/thunder-vs-lakers-2026-nba-playoffs-preview-odds-injury-updates-may-11/", "hinweis": "Zurueck nach Oblique-Verletzung Saisonende — fitness-fraglich"},
+        {"name": "Rui Hachimura", "nummer": 28, "position": "PF/SF", "saison_tore": null, "verifiziert_via": "https://www.nba.com/game/okc-vs-lal-0042500224"},
+        {"name": "Jaxson Hayes", "nummer": null, "position": "C", "saison_tore": null, "verifiziert_via": "https://www.nba.com/game/okc-vs-lal-0042500224"},
+        {"name": "Gabe Vincent", "nummer": null, "position": "PG", "saison_tore": null, "verifiziert_via": "https://www.nba.com/game/okc-vs-lal-0042500224"}
+      ],
+      "squad_gast": [
+        {"name": "Shai Gilgeous-Alexander", "nummer": 2, "position": "PG", "saison_tore": null, "verifiziert_via": "https://www.nba.com/game/okc-vs-lal-0042500223", "hinweis": "23 Pkt + 9 Ast in G3 — MVP-Form"},
+        {"name": "Chet Holmgren", "nummer": null, "position": "C/PF", "saison_tore": null, "verifiziert_via": "https://www.nba.com/game/okc-vs-lal-0042500223"},
+        {"name": "Isaiah Hartenstein", "nummer": null, "position": "C", "saison_tore": null, "verifiziert_via": "https://www.nba.com/game/okc-vs-lal-0042500223"},
+        {"name": "Luguentz Dort", "nummer": null, "position": "SG/SF", "saison_tore": null, "verifiziert_via": "https://www.nba.com/game/okc-vs-lal-0042500223"},
+        {"name": "Cason Wallace", "nummer": null, "position": "PG/SG", "saison_tore": null, "verifiziert_via": "https://www.nba.com/game/okc-vs-lal-0042500223"}
+      ],
+      "injuries_heim": [
+        "Luka Doncic (OUT, Saisonende-Verletzung)",
+        "Austin Reaves (Oblique, Rueckkehr fraglich)"
+      ],
+      "injuries_gast": [
+        "Jalen Williams (OUT, Verletzung)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine — Game 4 West Semifinals (Thunder fuehren 3-0, Lakers vor Sweep)",
+        "gast": "keine — Game 4 West Semifinals (Sweep-Chance, danach West-Finals)",
+        "quellen": [
+          "https://www.nba.com/playoffs/2026/west-semifinal-1",
+          "https://www.nba.com/game/okc-vs-lal-0042500224"
+        ]
+      },
+      "saisonziel_heim": "Sweep-Vermeidung — Pflicht-Ueberlebensspiel mit Doncic OUT",
+      "saisonziel_gast": "Sweep-Match → West Conference Finals, 7-0 Playoff-Bilanz fortsetzen",
+      "tabellenstand": {"heim_platz": null, "heim_pkt": null, "gast_platz": null, "gast_pkt": null},
+      "form_heim_letzte_5": "0-3 in Series — drei Niederlagen, G3 verloren 107-125",
+      "form_gast_letzte_5": "3-0 in Series + 7-0 in Playoffs gesamt, G3 gewonnen 131-108",
+      "recovery_heim": "2 Tage seit G3 09.05.",
+      "recovery_gast": "2 Tage seit G3 09.05.",
+      "quoten": {
+        "bet365_naeherung": {"sieg_heim": null, "draw": null, "sieg_gast": null, "ueber_2_5": null, "unter_2_5": null, "btts_ja": null, "btts_nein": null, "dc_1x": null, "dc_x2": null, "torschuetzen": {}},
+        "_quelle": "NBA-Playoff-Quoten (FanDuel): Thunder ML -520, Lakers ML +390, Spread Thunder -10.5, Total Over/Under 214.5. bet365-Spread/Total/ML aequivalent, zur Wett-Zeit live pruefen. KEINE 1X2-Logik (kein Draw in NBA).",
+        "spread_punkte": -10.5,
+        "spread_favorit": "OKC",
+        "total_over_under": 214.5,
+        "ml_favorit_dezimal": 1.19,
+        "ml_underdog_dezimal": 4.90
+      },
+      "news_kompakt": [
+        "Thunder fuehrt 3-0, Sweep-Match — 7-0 in Playoffs gesamt, ueberragende Form (G3: 131-108)",
+        "Lakers ohne Luka Doncic (Saisonende) — Reaves Rueckkehr fraglich, LeBron einziger Anker",
+        "Thunder Spread -10.5 / Total 214.5 (FanDuel) — bet365-Wett-Limits: Punkte+Ueber/Unter Spiel/Viertel/Halbzeit + Spieler-Punkte erlaubt, KEINE PRA-Combos / Einzel-Assists / Einzel-Rebounds",
+        "Shai Gilgeous-Alexander 23/9-Form in G3 — Spieler-Punkte-Tipps SGA primaer",
+        "Tipoff 04:30 Berlin-Zeit (10:30 PM ET) — spaeter Abend, Quoten-Veranderung bis dahin moeglich"
+      ],
+      "quellen_aggregator": [
+        "https://www.nba.com/game/okc-vs-lal-0042500224",
+        "https://www.fanduel.com/research/lakers-vs-thunder-prediction-nba-odds-spread-best-bets-for-western-semifinals-5-11-2026",
+        "https://www.totalprosports.com/nba/los-angeles-lakers/thunder-vs-lakers-2026-nba-playoffs-preview-odds-injury-updates-may-11/"
+      ]
+    },
+    {
+      "id": "2026-05-11-cle-det",
+      "liga": "NBA Playoffs",
+      "heim": "Cleveland Cavaliers",
+      "gast": "Detroit Pistons",
+      "anstoss": "2026-05-12T02:00:00+02:00",
+      "stadion": "Rocket Arena, Cleveland",
+      "squad_heim": [
+        {"name": "Donovan Mitchell", "nummer": 45, "position": "SG", "saison_tore": null, "verifiziert_via": "https://www.nba.com/game/det-vs-cle-0042500204"},
+        {"name": "Darius Garland", "nummer": 10, "position": "PG", "saison_tore": null, "verifiziert_via": "https://www.nba.com/game/det-vs-cle-0042500204"},
+        {"name": "Evan Mobley", "nummer": 4, "position": "PF/C", "saison_tore": null, "verifiziert_via": "https://www.nba.com/game/det-vs-cle-0042500204"},
+        {"name": "Jarrett Allen", "nummer": 31, "position": "C", "saison_tore": null, "verifiziert_via": "https://www.nba.com/game/det-vs-cle-0042500204"},
+        {"name": "De'Andre Hunter", "nummer": null, "position": "SF/PF", "saison_tore": null, "verifiziert_via": "https://www.nba.com/game/det-vs-cle-0042500204"}
+      ],
+      "squad_gast": [
+        {"name": "Cade Cunningham", "nummer": 2, "position": "PG", "saison_tore": null, "verifiziert_via": "https://www.nba.com/game/det-vs-cle-0042500204", "hinweis": "Detroit-Anker, Series-Fuehrungs-Stuetze"},
+        {"name": "Jalen Duren", "nummer": null, "position": "C", "saison_tore": null, "verifiziert_via": "https://www.nba.com/game/det-vs-cle-0042500204"},
+        {"name": "Tobias Harris", "nummer": null, "position": "SF/PF", "saison_tore": null, "verifiziert_via": "https://www.nba.com/game/det-vs-cle-0042500204"},
+        {"name": "Ausar Thompson", "nummer": null, "position": "SF", "saison_tore": null, "verifiziert_via": "https://www.nba.com/game/det-vs-cle-0042500204"},
+        {"name": "Jaden Ivey", "nummer": null, "position": "SG", "saison_tore": null, "verifiziert_via": "https://www.nba.com/game/det-vs-cle-0042500204"}
+      ],
+      "injuries_heim": [],
+      "injuries_gast": [
+        "Kevin Huerter (fraglich, 6 Spiele verpasst)",
+        "Caris LeVert (fraglich)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine — Game 4 East Semifinals (Pistons fuehren 2-1)",
+        "gast": "keine — Game 4 East Semifinals (Pistons vor 3-1-Lead)",
+        "quellen": [
+          "https://www.nba.com/playoffs/2026/east-semifinal-1",
+          "https://www.nba.com/game/det-vs-cle-0042500204"
+        ]
+      },
+      "saisonziel_heim": "Series-Ausgleich auf 2-2 erzwingen — 5-0 zuhause in Playoffs 2026 mit +8.4 Net-Rating-Vorteil",
+      "saisonziel_gast": "3-1 Series-Fuehrung holen, Schritt Richtung East-Finals",
+      "tabellenstand": {"heim_platz": null, "heim_pkt": null, "gast_platz": null, "gast_pkt": null},
+      "form_heim_letzte_5": "1-2 in Series — G1 + G2 verloren, G3 gewonnen 116-109",
+      "form_gast_letzte_5": "2-1 in Series — G1 111-101 + G2 107-97 gewonnen, G3 109-116 verloren",
+      "recovery_heim": "2-3 Tage seit G3",
+      "recovery_gast": "2-3 Tage seit G3",
+      "quoten": {
+        "bet365_naeherung": {"sieg_heim": null, "draw": null, "sieg_gast": null, "ueber_2_5": null, "unter_2_5": null, "btts_ja": null, "btts_nein": null, "dc_1x": null, "dc_x2": null, "torschuetzen": {}},
+        "_quelle": "NBA-Playoff-Quoten: Cavaliers ML -170, Pistons ML +145, Cavaliers Spread -3.5, Total Over/Under 213.5. bet365-Spread/Total/ML aequivalent, zur Wett-Zeit live pruefen. KEINE 1X2-Logik (kein Draw in NBA).",
+        "spread_punkte": -3.5,
+        "spread_favorit": "CLE",
+        "total_over_under": 213.5,
+        "ml_favorit_dezimal": 1.59,
+        "ml_underdog_dezimal": 2.45
+      },
+      "news_kompakt": [
+        "Pistons fuehren Series 2-1 — Cavs G3-Gewinner (116-109) mit Heimvorteil-Push, 5-0 zuhause in Playoffs 2026 mit +8.4 Net-Rating",
+        "Pistons Backcourt-Depth angeschlagen — Huerter (6 Spiele verpasst) + LeVert beide fraglich",
+        "Cavs voll besetzt, kein Lazarett — Mitchell + Garland + Mobley + Allen Stammelf",
+        "Spread Cavs -3.5, Total 213.5 — bet365-Wett-Limits: Punkte+Ueber/Unter Spiel/Viertel/Halbzeit + Spieler-Punkte erlaubt, KEINE PRA-Combos / Einzel-Assists / Einzel-Rebounds / Einzel-3er",
+        "Tipoff 02:00 Berlin-Zeit (8:00 PM ET) — bei Eurozeit-Wetten nachts laufen Quoten weniger schnell"
+      ],
+      "quellen_aggregator": [
+        "https://www.nba.com/game/det-vs-cle-0042500204",
+        "https://www.fanduel.com/research/cavaliers-vs-pistons-prediction-nba-odds-spread-best-bets-for-eastern-semifinals-5-11-2026",
+        "https://www.oddsshark.com/nba/pistons-cavaliers-picks-odds-game-4-may-11-2026"
+      ]
+    }
+  ]
+}
