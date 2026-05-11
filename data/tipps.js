@@ -345,9 +345,10 @@ window.__MIESMUSCHEL_TIPPS = {
       "kategorie": "value",
       "markt": "Cleveland Cavaliers Sieg",
       "quote": 1.62,
-      "einsatz_prozent": 1.0,
       "einsatz_euro": 5.5,
-      "kurz_begruendung": "MUST-WIN-Druck + Cavs Playoffs-Heim 5-0 mit +8.4 Net + Pistons Stars (Huerter/LeVert) questionable + Pistons noch ohne Auswaerts-Sieg Postseason. Mapper-Hebel B: NBA nie SAFE -> max VALUE. Reality-Check Sieg 60.9% / +15.5% saisonal."
+      "kurz_begruendung": "MUST-WIN-Druck + Cavs Playoffs-Heim 5-0 mit +8.4 Net + Pistons Stars (Huerter/LeVert) questionable + Pistons noch ohne Auswaerts-Sieg Postseason. Mapper-Hebel B: NBA nie SAFE -> max VALUE. Reality-Check Sieg 60.9% / +15.5% saisonal.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 1
     },
     {
       "id": "et-2",
@@ -356,9 +357,10 @@ window.__MIESMUSCHEL_TIPPS = {
       "kategorie": "value",
       "markt": "Oklahoma City Thunder Sieg",
       "quote": 1.2,
-      "einsatz_prozent": 1.0,
       "einsatz_euro": 5.5,
-      "kurz_begruendung": "Lakers ohne Doncic (Hamstring) + OKC dominant + Sweep-Druck-Profitabel-Setup. NBA nie SAFE -> VALUE. Implied 83.6%. Lesson Wolves-G3: Heim-Reaktion greift nicht gegen dominanten Gegner-Star (SGA)."
+      "kurz_begruendung": "Lakers ohne Doncic (Hamstring) + OKC dominant + Sweep-Druck-Profitabel-Setup. NBA nie SAFE -> VALUE. Implied 83.6%. Lesson Wolves-G3: Heim-Reaktion greift nicht gegen dominanten Gegner-Star (SGA).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 2
     },
     {
       "id": "et-3",
@@ -367,9 +369,10 @@ window.__MIESMUSCHEL_TIPPS = {
       "kategorie": "value",
       "markt": "Tottenham oder Remis (DC 1X)",
       "quote": 1.3,
-      "einsatz_prozent": 1.0,
       "einsatz_euro": 5.5,
-      "kurz_begruendung": "Goldgrube DC 1X 82.4% / +4.9%. PL nicht in Liga-Goldgrube -> Mapper-Hebel C macht ohnehin VALUE statt SAFE. Spurs Abstiegs-Druck + H2H 8/9 + Leeds saisonende-modus. DC schuetzt vor Verletzungs-Krise-Risiko."
+      "kurz_begruendung": "Goldgrube DC 1X 82.4% / +4.9%. PL nicht in Liga-Goldgrube -> Mapper-Hebel C macht ohnehin VALUE statt SAFE. Spurs Abstiegs-Druck + H2H 8/9 + Leeds saisonende-modus. DC schuetzt vor Verletzungs-Krise-Risiko.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 3
     },
     {
       "id": "et-4",
@@ -378,9 +381,10 @@ window.__MIESMUSCHEL_TIPPS = {
       "kategorie": "value",
       "markt": "Ueber 1.5 Tore",
       "quote": 1.3,
-      "einsatz_prozent": 1.0,
       "einsatz_euro": 5.5,
-      "kurz_begruendung": "Goldgrube Ueber 1.5 (80% / +32% ROI). H2H 2.8 Tore/Spiel + Leeds saisonende offen + Spurs offensiv noch funktional. Saisonende-Tor-Flaute-Gegenfaktor minor bei 1.5-Schwelle."
+      "kurz_begruendung": "Goldgrube Ueber 1.5 (80% / +32% ROI). H2H 2.8 Tore/Spiel + Leeds saisonende offen + Spurs offensiv noch funktional. Saisonende-Tor-Flaute-Gegenfaktor minor bei 1.5-Schwelle.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 4
     },
     {
       "id": "et-5",
@@ -389,9 +393,10 @@ window.__MIESMUSCHEL_TIPPS = {
       "kategorie": "value",
       "markt": "Ueber 2.5 Tore",
       "quote": 1.91,
-      "einsatz_prozent": 1.0,
       "einsatz_euro": 5.5,
-      "kurz_begruendung": "Goldgrube Ueber 2.5 (66.7% / +80.9% ROI = Topmarkt). Rayo Heim 2.4 Tore/Spiel-Schnitt, Girona-Defense ohne ter Stegen anfaellig. Saisonende-Flaute-Gegenfaktor da aber LaLiga Goldgrube-Liga."
+      "kurz_begruendung": "Goldgrube Ueber 2.5 (66.7% / +80.9% ROI = Topmarkt). Rayo Heim 2.4 Tore/Spiel-Schnitt, Girona-Defense ohne ter Stegen anfaellig. Saisonende-Flaute-Gegenfaktor da aber LaLiga Goldgrube-Liga.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 5
     },
     {
       "id": "et-6",
@@ -400,9 +405,10 @@ window.__MIESMUSCHEL_TIPPS = {
       "kategorie": "wackel",
       "markt": "Tottenham Sieg",
       "quote": 1.85,
-      "einsatz_prozent": 0.5,
       "einsatz_euro": 2.75,
-      "kurz_begruendung": "Abstiegs-Druck + H2H 8/9 Edge, aber Verletzungs-Krise (8 Stamm-Ausfaelle) + Lesson 11.05. Saisonende-Druck-Sieg max wackel. Mapper-Hebel S: Selbst-Widerspruch-Risiko (Krise vs Sieg-Tipp)."
+      "kurz_begruendung": "Abstiegs-Druck + H2H 8/9 Edge, aber Verletzungs-Krise (8 Stamm-Ausfaelle) + Lesson 11.05. Saisonende-Druck-Sieg max wackel. Mapper-Hebel S: Selbst-Widerspruch-Risiko (Krise vs Sieg-Tipp).",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 6
     },
     {
       "id": "et-7",
@@ -411,9 +417,10 @@ window.__MIESMUSCHEL_TIPPS = {
       "kategorie": "wackel",
       "markt": "Richarlison trifft (Torschuetze jederzeit)",
       "quote": 3.2,
-      "einsatz_prozent": 0.5,
       "einsatz_euro": 2.75,
-      "kurz_begruendung": "Pflicht-Profile-Heim-Favorit Torschuetzen-Pflicht. Solanke + Kudus out -> Richarlison alleiniger Stamm-Stuermer. Goldgrube Torschuetzen Jederzeit (40% / +24.4%). Plus Einwechslungs-Boost."
+      "kurz_begruendung": "Pflicht-Profile-Heim-Favorit Torschuetzen-Pflicht. Solanke + Kudus out -> Richarlison alleiniger Stamm-Stuermer. Goldgrube Torschuetzen Jederzeit (40% / +24.4%). Plus Einwechslungs-Boost.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 7
     },
     {
       "id": "et-8",
@@ -422,9 +429,10 @@ window.__MIESMUSCHEL_TIPPS = {
       "kategorie": "wackel",
       "markt": "Rayo Vallecano Sieg",
       "quote": 2.53,
-      "einsatz_prozent": 0.5,
       "einsatz_euro": 2.75,
-      "kurz_begruendung": "Coinflip-Quote 2.53 - Mapper-Hebel kein SAFE. Rayo 4/5 Siege + Girona-Krise mit Abel-Ruiz-Ausfall. Gegen-Edge: Conf-Final-Schon-Risk 16 Tage davor + 4 Tage Recovery nach Auswaerts-Conf-Reise."
+      "kurz_begruendung": "Coinflip-Quote 2.53 - Mapper-Hebel kein SAFE. Rayo 4/5 Siege + Girona-Krise mit Abel-Ruiz-Ausfall. Gegen-Edge: Conf-Final-Schon-Risk 16 Tage davor + 4 Tage Recovery nach Auswaerts-Conf-Reise.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 8
     },
     {
       "id": "et-9",
@@ -433,9 +441,10 @@ window.__MIESMUSCHEL_TIPPS = {
       "kategorie": "wackel",
       "markt": "Ueber 213.5 Punkte",
       "quote": 1.91,
-      "einsatz_prozent": 0.5,
       "einsatz_euro": 2.75,
-      "kurz_begruendung": "Serie bisher 3 Spiele alle >210 Punkte, Cavs Heim hochskoring. Aber NBA-Playoffs nie SAFE + non-Decider-Total nicht klares Edge-Signal -> max wackel."
+      "kurz_begruendung": "Serie bisher 3 Spiele alle >210 Punkte, Cavs Heim hochskoring. Aber NBA-Playoffs nie SAFE + non-Decider-Total nicht klares Edge-Signal -> max wackel.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 9
     },
     {
       "id": "et-10",
@@ -444,9 +453,10 @@ window.__MIESMUSCHEL_TIPPS = {
       "kategorie": "wackel",
       "markt": "OKC -10.5 (Spread)",
       "quote": 1.91,
-      "einsatz_prozent": 0.5,
       "einsatz_euro": 2.75,
-      "kurz_begruendung": "Closeout + Doncic-Ausfall + Lakers-0-3-Resignation. Aber NBA-Sweep-Druck-Lesson: Closeout-Spiele oft enger als Spread. Spread/Handicap saisonal 28.6% / +11.7%. NBA nie SAFE."
+      "kurz_begruendung": "Closeout + Doncic-Ausfall + Lakers-0-3-Resignation. Aber NBA-Sweep-Druck-Lesson: Closeout-Spiele oft enger als Spread. Spread/Handicap saisonal 28.6% / +11.7%. NBA nie SAFE.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 10
     }
   ],
   "kombis": [
@@ -454,140 +464,128 @@ window.__MIESMUSCHEL_TIPPS = {
       "id": "kombi-safe",
       "name": "Safe ~3x",
       "kategorie": "safe",
-      "gesamt_quote": 2.98,
-      "einsatz_prozent": 2.0,
       "einsatz_euro": 11.0,
       "moeglicher_gewinn_euro": 32.78,
       "beine": [
         {
-          "spiel": "Tottenham Hotspur - Leeds United",
           "spiel_id": "2026-05-11-tot-lee",
-          "markt": "Tottenham oder Remis (DC 1X)",
+          "markt": "Tottenham Hotspur - Leeds United: Tottenham oder Remis (DC 1X)",
           "quote": 1.3,
-          "begruendung": "Goldgrube DC 1X 82.4% / +4.9%. Spurs Abstiegs-Druck + H2H 8/9 Edge. DC schuetzt vor Verletzungs-Krise-Risiko."
+          "begruendung": "Goldgrube DC 1X 82.4% / +4.9%. Spurs Abstiegs-Druck + H2H 8/9 Edge. DC schuetzt vor Verletzungs-Krise-Risiko.",
+          "spiel_titel": "Tottenham Hotspur - Leeds United"
         },
         {
-          "spiel": "Rayo Vallecano - Girona FC",
           "spiel_id": "2026-05-11-ray-gir",
-          "markt": "Ueber 2.5 Tore",
+          "markt": "Rayo Vallecano - Girona FC: Ueber 2.5 Tore",
           "quote": 1.91,
-          "begruendung": "Goldgrube Ueber 2.5 (66.7% / +80.9% ROI). Rayo Heim 2.4 Tore/Schnitt, Girona-Defense ohne ter Stegen anfaellig."
+          "begruendung": "Goldgrube Ueber 2.5 (66.7% / +80.9% ROI). Rayo Heim 2.4 Tore/Schnitt, Girona-Defense ohne ter Stegen anfaellig.",
+          "spiel_titel": "Rayo Vallecano - Girona FC"
         },
         {
-          "spiel": "Oklahoma City Thunder - Los Angeles Lakers",
           "spiel_id": "2026-05-12-lal-okc",
-          "markt": "Oklahoma City Thunder Sieg",
+          "markt": "Oklahoma City Thunder - Los Angeles Lakers: Oklahoma City Thunder Sieg",
           "quote": 1.2,
-          "begruendung": "Doncic out, OKC dominant. Implied 83.6%. NBA nie SAFE -> als Kombi-Bein VALUE."
+          "begruendung": "Doncic out, OKC dominant. Implied 83.6%. NBA nie SAFE -> als Kombi-Bein VALUE.",
+          "spiel_titel": "Oklahoma City Thunder - Los Angeles Lakers"
         }
       ],
-      "layer_check": "Layer-1 OK (3 verschiedene Spiele), Layer-2 OK (OKC-Sieg nur in dieser Kombi), 3 verschiedene Maerkte/Edge-Quellen."
+      "layer_check": "Layer-1 OK (3 verschiedene Spiele), Layer-2 OK (OKC-Sieg nur in dieser Kombi), 3 verschiedene Maerkte/Edge-Quellen.",
+      "gesamtquote": 2.98,
+      "empfohlener_einsatz_prozent": 2.0
     },
     {
       "id": "kombi-balance",
       "name": "Balance ~6.5x",
       "kategorie": "balance",
-      "gesamt_quote": 6.54,
-      "einsatz_prozent": 0.8,
       "einsatz_euro": 4.4,
       "moeglicher_gewinn_euro": 28.78,
       "beine": [
         {
-          "spiel": "Tottenham Hotspur - Leeds United",
-          "spiel_id": "2026-05-11-tot-lee",
-          "markt": "Tottenham Sieg",
-          "quote": 1.85,
-          "begruendung": "Abstiegs-Druck-Edge + H2H + Lesson Risk (Verletzungs-Krise) -> wackel-Bein in Kombi statt SAFE."
-        },
-        {
-          "spiel": "Rayo Vallecano - Girona FC",
           "spiel_id": "2026-05-11-ray-gir",
-          "markt": "Beide Teams treffen (BTTS)",
+          "markt": "Rayo Vallecano - Girona FC: Beide Teams treffen (BTTS)",
           "quote": 1.85,
-          "begruendung": "Rayo Heim trifft jedes der letzten 5, Girona auswaerts schoss in 3/4 letzten - korreliert mit Ueber 2.5 (Safe-Kombi nutzt Ueber 2.5)."
+          "begruendung": "Rayo Heim trifft jedes der letzten 5, Girona auswaerts schoss in 3/4 letzten - korreliert mit Ueber 2.5 (Safe-Kombi nutzt Ueber 2.5).",
+          "spiel_titel": "Rayo Vallecano - Girona FC"
         },
         {
-          "spiel": "Cleveland Cavaliers - Detroit Pistons",
           "spiel_id": "2026-05-12-cle-det",
-          "markt": "Ueber 213.5 Punkte",
+          "markt": "Cleveland Cavaliers - Detroit Pistons: Ueber 213.5 Punkte",
           "quote": 1.91,
-          "begruendung": "Serie 3/3 Spiele >210, Cavs Heim hochskoring - Total-Bein zur Diversifikation gegen reine Sieg-These."
+          "begruendung": "Serie 3/3 Spiele >210, Cavs Heim hochskoring - Total-Bein zur Diversifikation gegen reine Sieg-These.",
+          "spiel_titel": "Cleveland Cavaliers - Detroit Pistons"
         }
       ],
-      "layer_check": "Layer-1 OK (TOT-LEE, RAY-GIR, CLE-DET), Layer-2 OK (Tottenham-Sieg nur hier; Cavs-Sieg nirgends, Pistons-Sieg in Risiko)."
+      "layer_check": "Layer-1 OK (TOT-LEE, RAY-GIR, CLE-DET), Layer-2 OK (Tottenham-Sieg nur hier; Cavs-Sieg nirgends, Pistons-Sieg in Risiko).",
+      "gesamtquote": 3.53,
+      "empfohlener_einsatz_prozent": 0.8,
+      "rechnung": "1.85 x 1.91 = 3.53"
     },
     {
       "id": "kombi-risiko",
       "name": "Risiko ~19x",
-      "kategorie": "risiko",
-      "gesamt_quote": 19.1,
-      "einsatz_prozent": 0.25,
+      "kategorie": "risk",
       "einsatz_euro": 1.4,
       "moeglicher_gewinn_euro": 26.74,
       "beine": [
         {
-          "spiel": "Tottenham Hotspur - Leeds United",
           "spiel_id": "2026-05-11-tot-lee",
-          "markt": "Richarlison trifft (Torschuetze jederzeit)",
+          "markt": "Tottenham Hotspur - Leeds United: Richarlison trifft (Torschuetze jederzeit)",
           "quote": 3.2,
-          "begruendung": "Pflicht-Profile Heim-Favorit Torschuetzen. Solanke + Kudus out -> Richarlison alleiniger Stamm. Goldgrube Torschuetzen Jederzeit."
+          "begruendung": "Pflicht-Profile Heim-Favorit Torschuetzen. Solanke + Kudus out -> Richarlison alleiniger Stamm. Goldgrube Torschuetzen Jederzeit.",
+          "spiel_titel": "Tottenham Hotspur - Leeds United"
         },
         {
-          "spiel": "Rayo Vallecano - Girona FC",
           "spiel_id": "2026-05-11-ray-gir",
-          "markt": "Rayo Vallecano Sieg",
+          "markt": "Rayo Vallecano - Girona FC: Rayo Vallecano Sieg",
           "quote": 2.53,
-          "begruendung": "Coinflip-Quote, Rayo 4/5-Lauf, Girona-Krise + Abel-Ruiz-Ausfall. Gegen-Edge: Conf-Final-Schon (16 Tage)."
+          "begruendung": "Coinflip-Quote, Rayo 4/5-Lauf, Girona-Krise + Abel-Ruiz-Ausfall. Gegen-Edge: Conf-Final-Schon (16 Tage).",
+          "spiel_titel": "Rayo Vallecano - Girona FC"
         },
         {
-          "spiel": "Cleveland Cavaliers - Detroit Pistons",
           "spiel_id": "2026-05-12-cle-det",
-          "markt": "Detroit Pistons Sieg (ML)",
+          "markt": "Cleveland Cavaliers - Detroit Pistons: Detroit Pistons Sieg (ML)",
           "quote": 2.36,
-          "begruendung": "Pistons fuehren 2-1, Cunningham/Duren in Form, koennten auf 3-1 stellen. Anti-These zu Safe/Balance-Cavs-These - Diversifikation."
+          "begruendung": "Pistons fuehren 2-1, Cunningham/Duren in Form, koennten auf 3-1 stellen. Anti-These zu Safe/Balance-Cavs-These - Diversifikation.",
+          "spiel_titel": "Cleveland Cavaliers - Detroit Pistons"
         }
       ],
-      "layer_check": "Layer-1 OK, Layer-2 OK (Richarlison Tor / Rayo-Sieg / Pistons-Sieg - alle nur hier). Anti-Korrelation zur Balance (Cavs-Total) und Safe."
+      "layer_check": "Layer-1 OK, Layer-2 OK (Richarlison Tor / Rayo-Sieg / Pistons-Sieg - alle nur hier). Anti-Korrelation zur Balance (Cavs-Total) und Safe.",
+      "gesamtquote": 19.1,
+      "empfohlener_einsatz_prozent": 0.25
     },
     {
       "id": "kombi-moonshot",
       "name": "Moonshot ~460x",
       "kategorie": "moonshot",
-      "gesamt_quote": 460.0,
-      "einsatz_prozent": 0.1,
       "einsatz_euro": 0.55,
       "moeglicher_gewinn_euro": 253.0,
       "beine": [
         {
-          "spiel": "SSC Napoli - Bologna FC",
           "spiel_id": "2026-05-11-nap-bol",
-          "markt": "Bologna FC Sieg",
+          "markt": "SSC Napoli - Bologna FC: Bologna FC Sieg",
           "quote": 5.75,
-          "begruendung": "Serie A in Beobachtungs-Liga (Moonshot-OK ab 5.0). Bologna im Coppa-Italia-Final-Schon-Modus aber Napoli 2.-Platz-Druck = unlikely. Pure Lotterie."
+          "begruendung": "Serie A in Beobachtungs-Liga (Moonshot-OK ab 5.0). Bologna im Coppa-Italia-Final-Schon-Modus aber Napoli 2.-Platz-Druck = unlikely. Pure Lotterie.",
+          "spiel_titel": "SSC Napoli - Bologna FC"
         },
         {
-          "spiel": "Oklahoma City Thunder - Los Angeles Lakers",
-          "spiel_id": "2026-05-12-lal-okc",
-          "markt": "Los Angeles Lakers Sieg",
-          "quote": 5.0,
-          "begruendung": "Lakers 0-3, Doncic out, LeBron-Stolz-Spiel - sehr unwahrscheinlich. Sweep-Spiel-Free-Roll-Mentalitaet."
-        },
-        {
-          "spiel": "Tottenham Hotspur - Leeds United",
           "spiel_id": "2026-05-11-tot-lee",
-          "markt": "Mathys Tel trifft (Torschuetze jederzeit)",
+          "markt": "Tottenham Hotspur - Leeds United: Mathys Tel trifft (Torschuetze jederzeit)",
           "quote": 4.0,
-          "begruendung": "Backup-Optionen-Tipp - Tel kommt in Verletzungs-Krise-Aufstellung in linker Sturm-Position, kann ueber Einwechslungs-Boost via Richarlison gehen."
+          "begruendung": "Backup-Optionen-Tipp - Tel kommt in Verletzungs-Krise-Aufstellung in linker Sturm-Position, kann ueber Einwechslungs-Boost via Richarlison gehen.",
+          "spiel_titel": "Tottenham Hotspur - Leeds United"
         },
         {
-          "spiel": "Rayo Vallecano - Girona FC",
           "spiel_id": "2026-05-11-ray-gir",
-          "markt": "Cristian Echeverri trifft (Torschuetze jederzeit)",
+          "markt": "Rayo Vallecano - Girona FC: Cristian Echeverri trifft (Torschuetze jederzeit)",
           "quote": 4.0,
-          "begruendung": "Girona-Backup-Stuermer (Abel Ruiz out) - Echeverri primary front line. Hohe Quote weil Girona-Krise."
+          "begruendung": "Girona-Backup-Stuermer (Abel Ruiz out) - Echeverri primary front line. Hohe Quote weil Girona-Krise.",
+          "spiel_titel": "Rayo Vallecano - Girona FC"
         }
       ],
-      "layer_check": "Layer-1 OK (4 verschiedene Spiele), Layer-2 OK (Bologna-Sieg + Lakers-Sieg + 2 Torschuetzen-Tipps - jedes Sieg-Outcome nur 1x). Beobachtungs-Liga (Serie A) korrekt nur in Moonshot mit Quote >= 5.0."
+      "layer_check": "Layer-1 OK (4 verschiedene Spiele), Layer-2 OK (Bologna-Sieg + Lakers-Sieg + 2 Torschuetzen-Tipps - jedes Sieg-Outcome nur 1x). Beobachtungs-Liga (Serie A) korrekt nur in Moonshot mit Quote >= 5.0.",
+      "gesamtquote": 92.0,
+      "empfohlener_einsatz_prozent": 0.1,
+      "rechnung": "5.75 x 4.00 x 4.00 = 92.0"
     }
   ],
   "lessons_angewandt": [
