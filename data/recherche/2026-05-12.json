@@ -1,0 +1,395 @@
+{
+  "datum": "2026-05-12",
+  "erstellt_am": "2026-05-12T16:45:00+00:00",
+  "modus": "tag",
+  "hinweis": "Recherche-Daten Dienstag (Mo-Fr Variante): LaLiga MD36 Tuesday-Triple (Celta-Levante 19:00, Betis-Elche 20:00, Osasuna-Atletico 21:30 Berlin) + NBA R2 G5 Spurs-Wolves (02:00 Mittwoch Berlin, Spielbeginn 13.05.00:00 UTC). KRITISCHE PARALLEL-WETTBEWERBS-FLAGS: (1) Atletico Madrid am 05.05. aus CL-Halbfinale ausgeschieden (0:1 bei Arsenal nach 1:1 daheim) — 7 Tage Recovery, KEINE aktive UEFA-Belastung mehr, ABER emotionaler/Kraft-Nachlauf + Saison-Endphase. Copa-del-Rey-Finale 18.04. gegen Real Sociedad im Elfmeterschiessen verloren — keine Pokal-Belastung mehr. (2) Real Betis im April aus Europa-League-Viertelfinale ausgeschieden (3:5 aggregate gegen Braga, 16.04.) — KEINE laufende UEFA-Belastung. (3) Celta + Levante + Osasuna + Elche: kein europaeisches Geschaeft 2025/26. (4) NBA: Wembanyama nach erstem-Karriere-Ejection in G4 ohne weitere Sperre verfuegbar; Series 2-2; Fox QUESTIONABLE (Knoechel-Soreness aus G4). NBA-Player-Punkte-Boykott seit 26.04. aktiv. KEINE Tipp-Bewertung — nur Datenbasis. bet365-Quoten als Aggregator-Naeherung (sportsgambler.com mit US-Format-Konversion); zur Wett-Zeit live pruefen.",
+  "spiele": [
+    {
+      "id": "2026-05-12-cel-lev",
+      "liga": "LaLiga",
+      "matchday": 36,
+      "heim": "RC Celta de Vigo",
+      "gast": "Levante UD",
+      "anstoss": "2026-05-12T19:00:00+02:00",
+      "stadion": "Estadio de Balaidos, Vigo",
+      "squad_heim": [
+        {"name": "Ionut Andrei Radu", "nummer": null, "position": "TW", "saison_tore": 0, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/celta-vigo-vs-levante-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Javi Rodriguez", "nummer": null, "position": "RV/IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/celta-vigo-vs-levante-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Yoel Lago", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/celta-vigo-vs-levante-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Marcos Alonso", "nummer": null, "position": "IV/LV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/celta-vigo-vs-levante-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Javi Rueda", "nummer": null, "position": "LV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/celta-vigo-vs-levante-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Fran Lopez", "nummer": null, "position": "DM/ZM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/celta-vigo-vs-levante-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Hugo Sotelo", "nummer": null, "position": "DM/ZM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/celta-vigo-vs-levante-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Sergio Carreira", "nummer": null, "position": "OM/ZM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/celta-vigo-vs-levante-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Iago Aspas", "nummer": 10, "position": "OM/LF", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/celta-vigo-vs-levante-prediction-lineups-odds-2026-05-12/", "hinweis": "Wahrscheinlicher zweiter-Sturm-Schatten — kombiniert mit Iglesias / Jutgla Front Line"},
+        {"name": "Borja Iglesias", "nummer": null, "position": "ST", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/celta-vigo-vs-levante-prediction-lineups-odds-2026-05-12/", "hinweis": "Hat in 3 LaLiga-Spielen in Folge getroffen vor diesem Spiel — Form-Top-Stuermer. Backup: Jutgla + Aspas (Einwechslungs-Boost-Schutz)"},
+        {"name": "Ferran Jutgla", "nummer": null, "position": "ST/LF", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/celta-vigo-vs-levante-prediction-lineups-odds-2026-05-12/", "hinweis": "Backup-Stuermer / Sturm-Tandem-Partner"},
+        {"name": "Ilaix Moriba", "nummer": null, "position": "ZM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/celta-vigo-vs-levante-prediction-lineups-odds-2026-05-12/"}
+      ],
+      "squad_gast": [
+        {"name": "Mathew Ryan", "nummer": null, "position": "TW", "saison_tore": 0, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/celta-vigo-vs-levante-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Jeremy Toljan", "nummer": null, "position": "RV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/celta-vigo-vs-levante-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Adrian De La Fuente", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/celta-vigo-vs-levante-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Matias Moreno", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/celta-vigo-vs-levante-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Diego Pampin", "nummer": null, "position": "LV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/celta-vigo-vs-levante-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Kervin Arriaga", "nummer": null, "position": "DM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/celta-vigo-vs-levante-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Jon Olasagasti", "nummer": null, "position": "DM/ZM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/celta-vigo-vs-levante-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Victor Garcia", "nummer": null, "position": "RM/OM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/celta-vigo-vs-levante-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Pablo Martinez", "nummer": null, "position": "OM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/celta-vigo-vs-levante-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Roger Brugue", "nummer": null, "position": "LM/OM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/celta-vigo-vs-levante-prediction-lineups-odds-2026-05-12/", "hinweis": "Alternative: Tunde laut anderer Aufstellungs-Quelle als Aussenstuermer"},
+        {"name": "Carlos Espi", "nummer": null, "position": "ST", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/celta-vigo-vs-levante-prediction-lineups-odds-2026-05-12/", "hinweis": "Nominal-9er Levante; backups (Romero, C.Alvarez) verletzt — kein direkter Einwechslungs-Boost-Kandidat"}
+      ],
+      "injuries_heim": [
+        "Matias Vecino (Leistenverletzung, return 16.05.)",
+        "Carl Starfelt (out)",
+        "Miguel Roman (out)"
+      ],
+      "injuries_gast": [
+        "Carlos Alvarez (Knoechel, wichtige Offensiv-Option fehlt)",
+        "Ivan Romero (Unterschenkel)",
+        "Elgezabal (Knie)",
+        "Alejandro Primo (out)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine — Celta Vigo nicht in UEFA-Wettbewerben 2025/26, kein Pokal mehr aktiv (Copa-del-Rey fruehzeitig raus)",
+        "gast": "keine — Levante nicht in UEFA-Wettbewerben 2025/26 (Aufsteiger), Klassenerhalt-Pflichtspiel-Modus statt Pokal",
+        "quellen": [
+          "https://en.wikipedia.org/wiki/2025%E2%80%9326_La_Liga",
+          "https://www.laliga.com/en-GB/laliga-easports/standing"
+        ]
+      },
+      "saisonziel_heim": "Platz 6 mit 50 Pkt nach 35 Spielen (13W-11D-11L), kaempft um Europa-Plaetze (Conference-Quali realistisch via Platz 7-8, Europa-League-Quali bei Sprint auf Platz 5-6). Form: 2 Siege in Folge (1:0 Auswaerts bei Atletico Madrid 09.05., 3:1 vs Elche).",
+      "saisonziel_gast": "Platz 19 mit 36 Pkt nach 35 Spielen (9W-9D-17L), 6 Pkt hinter Rettungsplatz (Osasuna 11. mit 42 Pkt), 3 Spiele zu spielen — backs-against-the-wall Klassenerhalt-Modus, ohne Sieg mathematisch fast erledigt. 7 Niederlagen in letzten 10 Auswaertsspielen.",
+      "tabellenstand": {"heim_platz": 6, "heim_pkt": 50, "gast_platz": 19, "gast_pkt": 36},
+      "form_heim_letzte_5": "S-S (zuletzt 1:0 Auswaerts bei Atletico Madrid 09.05., davor 3:1 vs Elche) — Erfolgs-Momentum",
+      "form_gast_letzte_5": "S (zuletzt 3:2 Heimsieg vs Osasuna 09.05. — Schluss-Motivation-Spike, aber davor 7N in 10 Auswaerts)",
+      "recovery_heim": "3 Tage seit Auswaertssieg 1:0 in Madrid bei Atletico (09.05.) — Reise + 90 Min Belastung, aber Erfolgs-Momentum",
+      "recovery_gast": "3 Tage seit 3:2-Heimsieg gegen Osasuna (09.05.) — Erfolgs-Schub + Hoffnungs-Boost",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 1.84,
+          "draw": 3.75,
+          "sieg_gast": 4.10,
+          "ueber_2_5": 1.80,
+          "unter_2_5": 1.96,
+          "btts_ja": 1.70,
+          "btts_nein": 2.05,
+          "dc_1x": null,
+          "dc_x2": null,
+          "torschuetzen": {"Borja Iglesias": null, "Carlos Espi": null}
+        },
+        "_quelle": "sportsgambler.com Stand 11./12.05.2026 — US-Format-Konversion (Celta -119 -> 1.84, Draw +275 -> 3.75, Levante +310 -> 4.10, Over 2.5 -125 -> 1.80, Under 2.5 -104 -> 1.96, BTTS Yes -143 -> 1.70, BTTS No +105 -> 2.05). 22bet-Vergleich: Celta 1.94 / Draw 3.81 / Levante 4.22 (Aggregator-Mittel). bet365 live pruefen."
+      },
+      "news_kompakt": [
+        "Celta 6. Platz (50 Pkt) im Europa-Sprint, 2 Siege in Folge inkl. 1:0 bei Atletico am 09.05.",
+        "Levante 19. (36 Pkt), 6 Pkt hinter Rettungsplatz — Klassenerhalt-Existenz-Druck, aber 3:2 vs Osasuna am 09.05. zeigt Schluss-Motivation",
+        "Borja Iglesias hat in 3 LaLiga-Spielen in Folge getroffen — Form-Edge Top-Stuermer-Tipp; Backup-Tandem Aspas+Jutgla schuetzt vor Einwechslungs-Boost-Verlust",
+        "Beide ohne UEFA-Belastung — keine Rotation-Risiken durch parallele Wettbewerbe",
+        "2:0-Insurance gilt NICHT (LaLiga ist nicht BL/CL) — bei Tipp-Auswertung normaler 90-Min-Endstand zaehlt"
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/celta-vigo-vs-levante-prediction-lineups-odds-2026-05-12/",
+        "https://www.mightytips.com/football-predictions/celta-vigo-vs-levante-prediction-12-05-2026/",
+        "https://www.sofascore.com/news/balaidos-test-levantes-relegation-battle-continues-against-celta",
+        "https://en.wikipedia.org/wiki/2025%E2%80%9326_La_Liga"
+      ]
+    },
+    {
+      "id": "2026-05-12-bet-elc",
+      "liga": "LaLiga",
+      "matchday": 36,
+      "heim": "Real Betis Balompie",
+      "gast": "Elche CF",
+      "anstoss": "2026-05-12T20:00:00+02:00",
+      "stadion": "Estadio de La Cartuja, Sevilla",
+      "squad_heim": [
+        {"name": "Alvaro Valles", "nummer": null, "position": "TW", "saison_tore": 0, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-betis-vs-elche-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Hector Bellerin", "nummer": null, "position": "RV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-betis-vs-elche-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Diego Llorente", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-betis-vs-elche-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Valentin Gomez", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-betis-vs-elche-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Ricardo Rodriguez", "nummer": null, "position": "LV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-betis-vs-elche-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Sofyan Amrabat", "nummer": null, "position": "DM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-betis-vs-elche-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Pablo Fornals", "nummer": null, "position": "ZM/OM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-betis-vs-elche-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Antony", "nummer": null, "position": "RF/OM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-betis-vs-elche-prediction-lineups-odds-2026-05-12/", "hinweis": "Leihspieler-Stammkraft, Hauptkreativ-Spieler im Sturm-Drittel"},
+        {"name": "Giovani Lo Celso", "nummer": null, "position": "OM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-betis-vs-elche-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Abdessamad Ezzalzouli", "nummer": null, "position": "LF/OM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-betis-vs-elche-prediction-lineups-odds-2026-05-12/", "hinweis": "Anytime-Quote +500 (~6.00) bet365-Naeherung"},
+        {"name": "Juan Hernandez", "nummer": null, "position": "ST", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-betis-vs-elche-prediction-lineups-odds-2026-05-12/", "hinweis": "Falscher Neuner / Sturm-Spitze, Cucho Hernandez als Backup-Stuermer (Anytime +430 ~5.30)"},
+        {"name": "Cucho Hernandez", "nummer": null, "position": "ST", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-betis-vs-elche-prediction-lineups-odds-2026-05-12/", "hinweis": "Bench-Stuermer, hoechste Anytime-Goalscorer-Quote (+430 First, +155 Anytime — wait Bleibtreu: First +155, Anytime +430). Einwechslungs-Boost-Kandidat fuer J.Hernandez."}
+      ],
+      "squad_gast": [
+        {"name": "Matias Dituro", "nummer": null, "position": "TW", "saison_tore": 0, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-betis-vs-elche-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Buba Sangare", "nummer": null, "position": "RV/IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-betis-vs-elche-prediction-lineups-odds-2026-05-12/"},
+        {"name": "David Affengruber", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-betis-vs-elche-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Leo Petrot", "nummer": null, "position": "IV/LV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-betis-vs-elche-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Hector Fort", "nummer": null, "position": "RV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-betis-vs-elche-prediction-lineups-odds-2026-05-12/"},
+        {"name": "German Valera", "nummer": null, "position": "LV/LM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-betis-vs-elche-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Gonzalo Villar", "nummer": null, "position": "ZM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-betis-vs-elche-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Marc Aguado", "nummer": null, "position": "DM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-betis-vs-elche-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Aleix Febas", "nummer": null, "position": "OM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-betis-vs-elche-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Alvaro Rodriguez", "nummer": null, "position": "ST", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-betis-vs-elche-prediction-lineups-odds-2026-05-12/", "hinweis": "Sturm-Tandem-Partner"},
+        {"name": "Andre Silva", "nummer": null, "position": "ST", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-betis-vs-elche-prediction-lineups-odds-2026-05-12/", "hinweis": "Erfahrener Stuermer, Anytime-Goalscorer +600 (~7.00) bet365-Naeherung"}
+      ],
+      "injuries_heim": [
+        "Aitor Ruibal (Rote Karte aus Vorspiel, gesperrt — return 17.05.)",
+        "Marc Bartra (Fussverletzung, return 20.06.)"
+      ],
+      "injuries_gast": [
+        "Matia Barzic (Rote Karte, gesperrt — return 24.05.)",
+        "Yago Santiago (Knieverletzung, Status offen)",
+        "Adam Boayar (Muskelverletzung, return 16.05.)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine aktiv — Real Betis am 16.04.2026 aus Europa-League-Viertelfinale ausgeschieden (3:5 aggregate gegen SC Braga, 2:4 im Rueckspiel). Copa-del-Rey im Viertelfinale 05.02. mit 0:5 gegen Atletico raus. Keine UEFA-/Pokal-Belastung mehr.",
+        "gast": "keine — Elche nicht in UEFA-Wettbewerben 2025/26 (Aufsteiger), keine Pokal-Belastung mehr",
+        "quellen": [
+          "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Europa_League",
+          "https://www.uefa.com/uefaeuropaleague/clubs/52265--real-betis/",
+          "https://en.wikipedia.org/wiki/2025%E2%80%9326_La_Liga"
+        ]
+      },
+      "saisonziel_heim": "Platz 5-6 LaLiga, Hauptkampf um Europa-League-Direktquali (Top-5) vs. Conference-Quali (Platz 7-8) — drei Spieltage Druck. Sevilla-Stadt-Konstellation: La Cartuja als Heim wegen Benito-Villamarin-Bauarbeiten.",
+      "saisonziel_gast": "Platz 12-15, vermutlich Klassenerhalt rechnerisch sicher (Cushion ueber Drop-Zone), aber kein praktisches Saisonziel mehr — Aufsteiger-Standard-Endspurt ohne Druck.",
+      "tabellenstand": {"heim_platz": 5, "heim_pkt": null, "gast_platz": 13, "gast_pkt": null},
+      "form_heim_letzte_5": "uneinheitlich — Betis hat klare Heim-Edge in La Cartuja, kommt aus Europa-League-Aus aber 4 Wochen Reset-Zeit",
+      "form_gast_letzte_5": "stabil unterhalb — Elche keine grossen Schlagzeilen, durchwachsene Schlussphase",
+      "recovery_heim": "Frische Mannschaft seit Europa-League-Aus (16.04.) — ueber 3 Wochen ausschliesslich LaLiga-Fokus",
+      "recovery_gast": "Standard-LaLiga-Rhythmus, keine Doppelbelastung",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 1.62,
+          "draw": 4.10,
+          "sieg_gast": 5.30,
+          "ueber_2_5": 1.66,
+          "unter_2_5": 2.17,
+          "btts_ja": 1.67,
+          "btts_nein": 2.10,
+          "dc_1x": 1.23,
+          "dc_x2": 2.30,
+          "torschuetzen": {
+            "Cucho Hernandez_first": 2.55,
+            "Cucho Hernandez_anytime": 5.30,
+            "Ezzalzouli_first": 2.80,
+            "Ezzalzouli_anytime": 6.00,
+            "Andre Silva_first": 3.10,
+            "Andre Silva_anytime": 7.00
+          }
+        },
+        "_quelle": "sportsgambler.com Stand 11./12.05.2026 — US-Format-Konversion (Betis -161 -> 1.62, Draw +310 -> 4.10, Elche +430 -> 5.30, Over 2.5 -152 -> 1.66, Under 2.5 +117 -> 2.17, BTTS Yes -149 -> 1.67, BTTS No +110 -> 2.10, DC 1 -435 -> 1.23, DC 2 +260 -> 2.30, Cucho First +155 -> 2.55 / Anytime +430 -> 5.30, Ezzalzouli First +180 -> 2.80 / Anytime +500 -> 6.00, A.Silva First +210 -> 3.10 / Anytime +600 -> 7.00). bet365 live pruefen."
+      },
+      "news_kompakt": [
+        "Betis 5. Platz LaLiga, kaempft um Europa-League-Direktquali in den letzten 3 Spieltagen",
+        "Betis seit 16.04. ohne UEFA-Belastung (Europa-League-Aus gegen Braga im Viertelfinale) — frische Mannschaft, kein Rotation-Risiko",
+        "Aitor Ruibal nach Roter Karte gesperrt; Bartra (Fuss) langzeit out — Bellerin als Stamm-RV gesetzt",
+        "Cucho Hernandez als Backup-Stuermer hinter J.Hernandez: Einwechslungs-Boost-Kandidat fuer Stuermer-Tipps, dieser First-Quote +155 (~2.55) interessant",
+        "Elche-Stuermer Andre Silva bringt Erfahrung, aber Anytime-Quote +600 (~7.00) zeigt Markt-Skepsis",
+        "2:0-Insurance gilt NICHT (LaLiga ist nicht BL/CL)"
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/real-betis-vs-elche-prediction-lineups-odds-2026-05-12/",
+        "https://ratingbet.com/predictions/betis-vs-elche-prediction-teams-form-analysis-possible-lineups-on-may-12-2026/",
+        "https://www.sofascore.com/football/match/elche-real-betis/qgbsWgb",
+        "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Europa_League"
+      ]
+    },
+    {
+      "id": "2026-05-12-osa-atm",
+      "liga": "LaLiga",
+      "matchday": 36,
+      "heim": "CA Osasuna",
+      "gast": "Club Atletico de Madrid",
+      "anstoss": "2026-05-12T21:30:00+02:00",
+      "stadion": "Estadio El Sadar, Pamplona",
+      "squad_heim": [
+        {"name": "Aitor Fernandez", "nummer": null, "position": "TW", "saison_tore": 0, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/osasuna-vs-atletico-madrid-prediction-lineups-odds-2026-05-12/", "hinweis": "Ersatzmann fuer den gesperrten Sergio Herrera"},
+        {"name": "Valentin Rosier", "nummer": null, "position": "RV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/osasuna-vs-atletico-madrid-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Alejandro Catena", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/osasuna-vs-atletico-madrid-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Flavien Boyomo", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/osasuna-vs-atletico-madrid-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Javi Galan", "nummer": null, "position": "LV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/osasuna-vs-atletico-madrid-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Jon Moncayola", "nummer": null, "position": "DM/ZM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/osasuna-vs-atletico-madrid-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Lucas Torro", "nummer": null, "position": "DM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/osasuna-vs-atletico-madrid-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Ruben Garcia", "nummer": null, "position": "OM/LM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/osasuna-vs-atletico-madrid-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Aimar Oroz", "nummer": null, "position": "OM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/osasuna-vs-atletico-madrid-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Raul Moro", "nummer": null, "position": "RM/RF", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/osasuna-vs-atletico-madrid-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Ante Budimir", "nummer": null, "position": "ST", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/osasuna-vs-atletico-madrid-prediction-lineups-odds-2026-05-12/", "hinweis": "Stamm-Stuermer, Anytime-Quote +135 (~2.35) bet365-Naeherung — Top-Quote-Tor-Kandidat dieses Spiels"}
+      ],
+      "squad_gast": [
+        {"name": "Jan Oblak", "nummer": 13, "position": "TW", "saison_tore": 0, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/osasuna-vs-atletico-madrid-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Marc Pubill", "nummer": null, "position": "RV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/osasuna-vs-atletico-madrid-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Robin Le Normand", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/osasuna-vs-atletico-madrid-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Clement Lenglet", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/osasuna-vs-atletico-madrid-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Julio Diaz", "nummer": null, "position": "LV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/osasuna-vs-atletico-madrid-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Marcos Llorente", "nummer": null, "position": "DM/RV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/osasuna-vs-atletico-madrid-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Rodrigo Mendoza", "nummer": null, "position": "ZM/OM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/osasuna-vs-atletico-madrid-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Obed Vargas", "nummer": null, "position": "DM/ZM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/osasuna-vs-atletico-madrid-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Thiago Almada", "nummer": null, "position": "OM/LF", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/osasuna-vs-atletico-madrid-prediction-lineups-odds-2026-05-12/"},
+        {"name": "Alexander Soerloth", "nummer": null, "position": "ST", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/osasuna-vs-atletico-madrid-prediction-lineups-odds-2026-05-12/", "hinweis": "Sturm-Tandem-Partner mit Lookman; Anytime-Quote +140 (~2.40) — Top-Quote-Tor-Kandidat fuer Atletico"},
+        {"name": "Ademola Lookman", "nummer": null, "position": "LF/ST", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/osasuna-vs-atletico-madrid-prediction-lineups-odds-2026-05-12/", "hinweis": "Linker Sturmpartner / falscher 9er; Julian Alvarez verletzt — Lookman + Soerloth ohne Backup-Konkurrenz"}
+      ],
+      "injuries_heim": [
+        "Sergio Herrera (Rote Karte, gesperrt)",
+        "Victor Munoz (Wadenverletzung seit Ende April, OUT)"
+      ],
+      "injuries_gast": [
+        "Julian Alvarez (Knoechelverletzung, OUT)",
+        "Giuliano Simeone (Hueftverletzung, OUT)",
+        "Pablo Barrios (Oberschenkel, OUT)",
+        "Jose Maria Gimenez (OUT)",
+        "Nahuel Molina (OUT)",
+        "Nico Gonzalez (OUT)",
+        "Johnny Cardoso (OUT)",
+        "Alex Baena (Sperre)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine — Osasuna nicht in UEFA-Wettbewerben 2025/26, Copa-del-Rey fruehzeitig raus",
+        "gast": "keine aktiv — Atletico am 05.05.2026 aus CL-Halbfinale ausgeschieden (0:1 bei Arsenal, 2:1 aggregate fuer Arsenal; 1:1 daheim 29.04. mit Alvarez-Elfer). Copa-del-Rey-Finale 18.04.2026 gegen Real Sociedad im Elfmeterschiessen verloren (2:2 nach Verlaengerung, 3:4 i.E.). Beides 1-2 Wochen alt — EMOTIONAL-/KRAFT-NACHLAUF von 2 Wettbewerbs-Endphasen, kein direktes Spiel mehr.",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/match/2048071--atleti-vs-arsenal/",
+          "https://en.wikipedia.org/wiki/2025%E2%80%9326_Atl%C3%A9tico_Madrid_season",
+          "https://en.wikipedia.org/wiki/2026_Copa_del_Rey_final"
+        ]
+      },
+      "saisonziel_heim": "Platz 11 mit 42 Pkt nach 35 Spielen — Klassenerhalt mathematisch praktisch sicher, kein direkter Saison-Druck. Tabellen-Mittelfeld-Modus.",
+      "saisonziel_gast": "Platz 4 mit 63 Pkt nach 35 Spielen — CL-Quali via Top-4 zu 95% sicher (Villarreal 5. mit Abstand), aber Druck auf Platz 3 Real Madrid noch realistisch. KEINE Pokal-/UEFA-Spiele mehr — Saisonende-Modus.",
+      "tabellenstand": {"heim_platz": 11, "heim_pkt": 42, "gast_platz": 4, "gast_pkt": 63},
+      "form_heim_letzte_5": "uneinheitlich — Osasuna 3:2 Niederlage in Levante am 09.05., davor durchwachsen; Mittelfeld-Standard",
+      "form_gast_letzte_5": "schwach: 0:1 Heim-Niederlage gegen Celta am 09.05. (!), davor CL-SF-Aus, Copa-Aus — emotional + Kader-Lazarett",
+      "recovery_heim": "3 Tage seit 2:3-Auswaerts-Niederlage in Levante (09.05.) — Standard-Pause",
+      "recovery_gast": "3 Tage seit 0:1-Heimspiel-Niederlage gegen Celta Vigo (09.05.) UND 7 Tage seit CL-SF-Aus bei Arsenal (05.05.) — kumulative Kader+Emotional-Belastung. Massive Verletzten-Liste limitiert Rotations-Optionen.",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 2.60,
+          "draw": 3.50,
+          "sieg_gast": 2.60,
+          "ueber_2_5": 1.78,
+          "unter_2_5": 2.00,
+          "btts_ja": 1.62,
+          "btts_nein": 2.18,
+          "dc_1x": null,
+          "dc_x2": null,
+          "torschuetzen": {
+            "Budimir_first": 4.60,
+            "Budimir_anytime": 2.35,
+            "Soerloth_first": 2.40,
+            "Soerloth_anytime": 4.90
+          }
+        },
+        "_quelle": "sportsgambler.com Stand 10./12.05.2026 — US-Format-Konversion (Osasuna +160 -> 2.60, Draw +250 -> 3.50, Atletico +160 -> 2.60, Over 2.5 -128 -> 1.78, Under 2.5 -100 -> 2.00, BTTS Yes -161 -> 1.62, BTTS No +118 -> 2.18, Budimir First +360 -> 4.60 / Anytime +135 -> 2.35, Soerloth First +140 -> 2.40 / Anytime +390 -> 4.90). Vergleich Tonybet/888Starz: Osasuna 2.65 / Atletico 2.73 — bestaetigt Pick'em-Charakter trotz nominaler Atletico-Favoritenstellung. bet365 live pruefen."
+      },
+      "news_kompakt": [
+        "Atletico Madrid mit massivem Lazarett: J.Alvarez (Knoechel), Simeone (Hueft), Barrios (Oberschenkel), Gimenez, Molina, N.Gonzalez, Cardoso alle OUT + Baena gesperrt — Sturm-Tandem Soerloth+Lookman ohne Konkurrenz, aber Mittelfeld duenn",
+        "Atletico-Form schwach: 0:1 Heimspiel-Niederlage gegen Celta Vigo am 09.05., 7 Tage nach CL-Halbfinal-Aus bei Arsenal (05.05.) — emotional+kondionell ausgelaugt",
+        "Quoten-Markt zeigt Pick'em-Charakter (+160/+160) trotz 4-vs-11-Platz-Differenz — Markt liest Rotation+Saisonziel-Lockerung bei Atletico ein",
+        "Osasuna Klassenerhalt durch, Tabellen-Mittelfeld-Modus ohne Druck — Heim-Edge in El Sadar als einziger struktureller Vorteil",
+        "Atletico hat KEINE Pokal-/UEFA-Spiele mehr — Saisonende-Modus + reduzierte Motivation moeglich (CL-Quali via Top-4 fast sicher)",
+        "Top-Stuermer-Tipps: Budimir Anytime ~2.35, Soerloth Anytime ~4.90, Lookman als linker Sturmpartner (Quote nicht ausgewiesen, vergleichbar)",
+        "2:0-Insurance gilt NICHT (LaLiga ist nicht BL/CL)"
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/osasuna-vs-atletico-madrid-prediction-lineups-odds-2026-05-12/",
+        "https://www.sportsmole.co.uk/football/osasuna/preview/osasuna-vs-atletico-prediction-team-news-lineups_597317.html",
+        "https://scores24.live/en/soccer/m-13-05-2026-osasuna-atletico-madrid-prediction",
+        "https://en.wikipedia.org/wiki/2025%E2%80%9326_Atl%C3%A9tico_Madrid_season"
+      ]
+    },
+    {
+      "id": "2026-05-13-sas-min",
+      "liga": "NBA Playoffs Round 2, Game 5",
+      "heim": "San Antonio Spurs",
+      "gast": "Minnesota Timberwolves",
+      "anstoss": "2026-05-13T02:00:00+02:00",
+      "stadion": "Frost Bank Center, San Antonio (TX)",
+      "squad_heim": [
+        {"name": "Victor Wembanyama", "nummer": 1, "position": "C/PF", "saison_tore": null, "verifiziert_via": "https://www.espn.com/nba/story/_/id/48736940/spurs-victor-wembanyama-ejected-game-4-career-first-elbowing-timberwolves-naz-reid", "hinweis": "Erstes Karriere-Ejection in G4 (Ellbogen gg Naz Reid 2. Q), keine weitere Sperre — verfuegbar fuer G5. 19,9 PPG letzte 20 Spiele. Projiziert 25.2 Pkt fuer G5."},
+        {"name": "De'Aaron Fox", "nummer": null, "position": "PG", "saison_tore": null, "verifiziert_via": "https://clutchpoints.com/nba/san-antonio-spurs/spurs-news-deaaron-foxquestionable-game-5-timberwolves", "hinweis": "QUESTIONABLE (Knoechel-Soreness aus G4-Loose-Ball-Sequenz mit Ayo Dosunmu). Hat G4 zu Ende gespielt — erwartet verfuegbar fuer G5. 16,4 PPG Serie. 24 Pkt in G4."},
+        {"name": "Stephon Castle", "nummer": null, "position": "SG/PG", "saison_tore": null, "verifiziert_via": "https://www.espn.com/nba/recap?gameId=401871155", "hinweis": "20 Pkt in G4"},
+        {"name": "Dylan Harper", "nummer": null, "position": "SG", "saison_tore": null, "verifiziert_via": "https://www.espn.com/nba/recap?gameId=401871155", "hinweis": "Top-Rookie Pick 2025; 24 Pkt in G4"},
+        {"name": "Devin Vassell", "nummer": null, "position": "SF/SG", "saison_tore": null, "verifiziert_via": "https://www.totalprosports.com/nba/san-antonio-spurs/timberwolves-vs-spurs-2026-nba-playoffs-preview-odds-injury-updates-may-12/"},
+        {"name": "Harrison Barnes", "nummer": null, "position": "PF/SF", "saison_tore": null, "verifiziert_via": "https://www.totalprosports.com/nba/san-antonio-spurs/timberwolves-vs-spurs-2026-nba-playoffs-preview-odds-injury-updates-may-12/"},
+        {"name": "Jeremy Sochan", "nummer": null, "position": "PF", "saison_tore": null, "verifiziert_via": "https://www.totalprosports.com/nba/san-antonio-spurs/timberwolves-vs-spurs-2026-nba-playoffs-preview-odds-injury-updates-may-12/"}
+      ],
+      "squad_gast": [
+        {"name": "Anthony Edwards", "nummer": null, "position": "SG/SF", "saison_tore": null, "verifiziert_via": "https://www.espn.com/nba/recap?gameId=401871155", "hinweis": "Wolves Top-Scorer. 36 Pkt in G4 inkl. 16 im 4. Quarter. 28,8 PPG juengst. Projiziert 26.7 Pkt fuer G5."},
+        {"name": "Julius Randle", "nummer": null, "position": "PF", "saison_tore": null, "verifiziert_via": "https://kfan.iheart.com/content/2026-05-12-timberwolves-vs-spurs-western-semifinals-game-5-injury-report-may-12/", "hinweis": "16,2 PPG juengste Spiele"},
+        {"name": "Naz Reid", "nummer": null, "position": "C/PF", "saison_tore": null, "verifiziert_via": "https://www.espn.com/nba/story/_/id/48736940/spurs-victor-wembanyama-ejected-game-4-career-first-elbowing-timberwolves-naz-reid"},
+        {"name": "Rudy Gobert", "nummer": null, "position": "C", "saison_tore": null, "verifiziert_via": "https://www.totalprosports.com/nba/san-antonio-spurs/timberwolves-vs-spurs-2026-nba-playoffs-preview-odds-injury-updates-may-12/"},
+        {"name": "Mike Conley", "nummer": null, "position": "PG", "saison_tore": null, "verifiziert_via": "https://www.totalprosports.com/nba/san-antonio-spurs/timberwolves-vs-spurs-2026-nba-playoffs-preview-odds-injury-updates-may-12/"},
+        {"name": "Jaden McDaniels", "nummer": null, "position": "SF", "saison_tore": null, "verifiziert_via": "https://www.totalprosports.com/nba/san-antonio-spurs/timberwolves-vs-spurs-2026-nba-playoffs-preview-odds-injury-updates-may-12/"},
+        {"name": "Ayo Dosunmu", "nummer": null, "position": "SG/PG", "saison_tore": null, "verifiziert_via": "https://clutchpoints.com/nba/san-antonio-spurs/spurs-news-deaaron-foxquestionable-game-5-timberwolves", "hinweis": "Loose-Ball-Sequenz mit Fox in G4 verursachte Fox-Knoechel-Tweak"}
+      ],
+      "injuries_heim": [
+        "David Jones (Knoechel, OUT FOR SEASON)",
+        "De'Aaron Fox (Knoechel-Soreness, QUESTIONABLE — sehr wahrscheinlich verfuegbar)"
+      ],
+      "injuries_gast": [
+        "Donte DiVincenzo (Bein, OUT FOR SEASON)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "NBA-Playoff-Modus — keine parallelen Wettbewerbe, Series 2-2, Spurs Heimvorteil in G5",
+        "gast": "NBA-Playoff-Modus — keine parallelen Wettbewerbe, Wolves auswaerts in San Antonio nach G4-Heimsieg",
+        "quellen": [
+          "https://www.nba.com/playoffs/2026/west-semifinal-2",
+          "https://www.espn.com/nba/game/_/gameId/401871156/timberwolves-spurs"
+        ]
+      },
+      "saisonziel_heim": "Western Conference Semifinals — Series 2-2, G5 als Schluessel zum Heimvorteil in einer entscheidenden Phase. Bei Win: 3-2-Fuehrung in San Antonio fuer G6 in Minneapolis.",
+      "saisonziel_gast": "Western Conference Semifinals — Series 2-2 nach G4-Heimsieg, Auswaerts-Steal in San Antonio = 3-2-Fuehrung mit G6 daheim.",
+      "tabellenstand": {"series_score": "2-2", "heim_record_series": "2W-2L", "gast_record_series": "2W-2L"},
+      "form_heim_letzte_5": "G1 W (Heim), G2 W (Heim), G3 L (Aus), G4 L (Aus) — Heimvorteil bisher bestaetigt fuer beide Teams",
+      "form_gast_letzte_5": "G1 L (Aus), G2 L (Aus), G3 W (Heim), G4 W (Heim) — Heimvorteil bisher bestaetigt fuer beide Teams",
+      "recovery_heim": "2 Tage seit G4 (10.05.) — Standard-Playoff-Rhythmus, voraussichtlich keine Belastung",
+      "recovery_gast": "2 Tage seit G4 (10.05.) — Standard-Playoff-Rhythmus, voraussichtlich keine Belastung",
+      "quoten": {
+        "bet365_naeherung": {
+          "moneyline_heim": 1.25,
+          "moneyline_gast": 4.15,
+          "spread_heim": "-10.5",
+          "spread_gast": "+10.5",
+          "spread_heim_quote": null,
+          "spread_gast_quote": null,
+          "total_punkte": 218.5,
+          "ueber_total_quote": null,
+          "unter_total_quote": null
+        },
+        "_quelle": "fanduel.com Stand 12.05.2026 — Moneyline Spurs -400 -> 1.25, Wolves +315 -> 4.15. Spread Spurs -10.5, Total O/U 218.5. bet365 live pruefen. CBS Sports proven model bestaetigt Spurs als 10.5-Punkt-Favorit.",
+        "player_props_note": "NBA-Player-Punkte-Boykott seit 26.04. aktiv — keine Single-Player-Points-Tipps mehr (Lesson NBA Playoff Varianz). Nur Sieg/Spread/Total-Maerkte sind erlaubt."
+      },
+      "news_kompakt": [
+        "Series 2-2 nach G4-Heimsieg Wolves 114-109 in Minneapolis am 10.05.",
+        "Wembanyama nach erstem-Karriere-Ejection in G4 (Ellbogen Naz Reid, 2. Q) OHNE weitere Sperre — verfuegbar fuer G5",
+        "Fox QUESTIONABLE (Knoechel aus G4-Sequenz mit Dosunmu) aber Erwartung: verfuegbar (hat G4 zu Ende gespielt)",
+        "Edwards 36 Pkt in G4 inkl. 16 im 4. Quarter — Wolves-Star bleibt heisser Faktor",
+        "Spurs -10.5 Spread + Total 218.5 — Markt-Erwartung deutlicher Heim-Sieg + mittleres Tempo",
+        "Player-Props NICHT erlaubt im Miesmuschel-System: NBA-Player-Punkte-Boykott seit 26.04. (Lesson Playoff-Varianz)"
+      ],
+      "quellen_aggregator": [
+        "https://www.fanduel.com/research/spurs-vs-timberwolves-prediction-nba-odds-spread-best-bets-for-western-semifinals-5-12-2026",
+        "https://www.cbssports.com/nba/news/timberwolves-spurs-odds-spread-prediction-time-2026-nba-playoff-picks-game-5-best-bets-from-proven-model/",
+        "https://kfan.iheart.com/content/2026-05-12-timberwolves-vs-spurs-western-semifinals-game-5-injury-report-may-12/",
+        "https://www.espn.com/nba/recap?gameId=401871155",
+        "https://www.nba.com/news/spurs-timberwolves-2026-playoffs-game-4-takeaways"
+      ]
+    }
+  ],
+  "anzahl_spiele": 4,
+  "skipped_due_to_token_budget": [],
+  "kasse_stufe_hinweis": "Kasse 550€ (Stufe 1 Aufbau) — Routine soll bei Tipps-Konvertierung 1-2% Einzel-Einsaetze (5.50-11€), 0.5% Wackel (2.75€), 2% Kombi-Safe (11€), 0.8% Kombi-Balance (4.40€) anwenden.",
+  "lessons_relevant_heute": [
+    "LaLiga-Saisonende-Tor-Flaute (Lesson 10./12.05.) — Ueber-2.5 vorsichtig setzen",
+    "LaLiga NICHT in markt_goldgruben.json fuer DC SAFE — Mapper degradiert SAFE-DC zu wackel",
+    "NBA Playoff Player-Punkte-Boykott (Lesson 26.04. NBA Playoff Varianz) — nur Sieg/Spread/Total",
+    "Einwechslungs-Boost: Borja Iglesias hat Aspas+Jutgla als Backup — Torschuetzen-Tipp geschuetzt; J.Hernandez hat Cucho Hernandez als Backup — Torschuetzen-Tipp geschuetzt",
+    "Atletico-Madrid-Lazarett: 7 Stammspieler OUT + Baena gesperrt — Rotation/Form-Defizit-Risiko fuer 'Atletico Sieg'-Tipps, Quoten-Markt zeigt das mit +160 statt klassischem -150 Favoriten-Niveau"
+  ],
+  "footer": {
+    "spielerschutz": "18+ - bet365 DE - Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool, keine Einkommensquelle.",
+    "datenquellen": [
+      "football-data.org API (LaLiga MD36 Spielplan + IDs)",
+      "balldontlie.io API (NBA G5 Datum + Spielinfo)",
+      "sportsgambler.com (Aufstellungen + bet365-Naeherungsquoten)",
+      "UEFA.com (CL/EL/Conference Status-Verifikation)",
+      "Wikipedia LaLiga 25-26 + Atletico Madrid Season 25-26",
+      "ESPN NBA Game Recaps + Injury Reports",
+      "fanduel.com / cbssports.com (NBA G5 Odds)"
+    ]
+  }
+}
