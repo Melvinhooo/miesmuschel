@@ -1,91 +1,88 @@
 {
   "datum": "2026-05-12",
-  "erstellt_am": "2026-05-12T17:15:00+02:00",
-  "hinweis": "Watchdog-Recovery: Hauptroutine 16:00 nicht durchgelaufen, Tipps-Generation um 17:15 nachgeholt. LaLiga MD36 Tuesday-Triple + NBA R2 G5 Spurs-Wolves. KASSE-STUFE 1 (550€). NBA-Player-Punkte-Boykott aktiv seit 26.04. — Spurs-Wolves G5 nur Sieg/Spread/Total. Markt-Mix-Pflicht: DC-Cap 1/Spiel, max 2-3 DC im Dossier. LaLiga ist NICHT Liga-Goldgrube → SAFE-DC wird auf VALUE downgegradet. Saisonende-Tor-Flaute LaLiga (Lesson 10./12.05.) — Ueber-2.5 vorsichtig.",
+  "erstellt_am": "2026-05-12T17:30:00+02:00",
+  "hinweis": "Master-Tipps-Routine Dienstag 12.05. (Mo-Fr-Pipeline) - LaLiga MD36 Tuesday-Triple (Celta-Levante 19:00, Betis-Elche 20:00, Osasuna-Atletico 21:30 Berlin) + NBA R2 G5 Spurs-Wolves (02:00 Mi Berlin). KEINE SAFE-Tipps moeglich: LaLiga nicht in liga_goldgruben.json (Mapper-Hebel C macht SAFE-DC ohnehin VALUE) + NBA-Playoff-nie-SAFE + G5 = Decider max wackel (NBA-Playoff-Decider-Filter). Lesson 12.05. LaLiga-Saisonende-Tor-Flaute (Mai-Mittel 1.88 Tore/Spiel, Rayo-Girona 1:1 Negativ-Beleg) -> Ueber 2.5 ab MD34 max wackel statt Goldgrube-VALUE. Lesson 12.05. Korrelations-Cluster Coinflip-Saisonende-LaLiga + Drehungs-Cluster Top-Liga-MUST-WIN. Aktiv suchen: DC 1X / Torschuetzen Jederzeit. HR22 Atletico massives Lazarett (7 Stamm-OUT inkl. Alvarez/Simoni/Barrios/Gimenez/Molina + Baena gesperrt) -> kein Atletico-Sieg-VALUE; Markt zeigt das mit Pick'em-Quoten 2.60. HR16 NBA-Player-Punkte-Boykott (-7.8% ROI seit 26.04.) -> nur Sieg/Spread/Total. Kasse 550€ Stufe 1 (1-2% Standard-Stakes).",
   "spiele": [
     {
       "id": "2026-05-12-cel-lev",
       "liga": "LaLiga",
-      "heim": "Celta Vigo",
+      "heim": "RC Celta de Vigo",
       "gast": "Levante UD",
-      "anstoss": "2026-05-12T18:00:00+02:00",
+      "anstoss": "2026-05-12T19:00:00+02:00",
       "stadion": "Estadio de Balaidos, Vigo",
       "saison_kontext": {
-        "parallel_heim": "keine",
-        "parallel_gast": "keine",
-        "saisonziel_heim": "Platz 7-9 Bereich, kaempft um Europa-Quali (Conference-Quali realistisch, EL-Quali nur bei Heimsieg-Serie). Form: 2 Siege in Folge inkl. Auswaerts-Schock 1:0 in Madrid bei Atletico am 09.05.",
-        "saisonziel_gast": "19. Tabellenplatz mit 36 Pkt, 6 Pkt hinter Rettungsplatz (Osasuna 11. mit 42 Pkt), 3 Spiele zu spielen — backs-against-the-wall Klassenerhalt-Modus. 7 Niederlagen in letzten 10 Auswaertsspielen.",
-        "motivations_asymmetrie": "Levante Klassenerhalt-Existenz-Druck vs Celta Europa-Bonus-Druck — beide MUESSEN punkten, aber Levante ohne Sieg = mathematisch fast erledigt. Klassenerhalt-Druck hat in der Lesson Mainz-Union 11.05. gezeigt dass solche Teams in Schlussphasen brennen — Vorsicht mit Celta-Safe-Quoten.",
-        "recovery_heim": "3 Tage seit Auswaertssieg 1:0 in Madrid bei Atletico (09.05.) — Reise + 90 Min Belastung, aber Erfolgsmomentum",
-        "recovery_gast": "3 Tage seit 3:2-Heimsieg gegen Osasuna (09.05.) — Erfolgsschub + Hoffnungs-Boost",
+        "parallel_heim": "keine - Celta nicht in UEFA-Wettbewerben 2025/26, Copa-del-Rey fruehzeitig raus",
+        "parallel_gast": "keine - Levante nicht in UEFA-Wettbewerben (Aufsteiger), keine Pokal-Belastung mehr",
+        "saisonziel_heim": "Platz 6 mit 50 Pkt nach 35 Spielen, kaempft um Europa-Plaetze (Conference/Europa-League-Quali) - 3 Spiele uebrig, Sieg sehr wichtig. Form: 2 Siege in Folge inkl. 1:0 Auswaerts in Madrid bei Atletico am 09.05.",
+        "saisonziel_gast": "Platz 19 mit 36 Pkt, 6 Pkt hinter Rettungs-Platz (Osasuna 11.) - Klassenerhalt-Existenz-Druck, mathematisch fast erledigt; aber Heimsieg 3:2 vs Osasuna 09.05. zeigt Schluss-Motivation. 7 Niederlagen in letzten 10 Auswaertsspielen.",
+        "motivations_asymmetrie": "Klassischer Motivations-Asymmetrie-Cluster (Lesson 03.05.): motivierter Saisonziel-Underdog Levante (Klassenerhalt) gegen Celta mit Europa-Druck + Heimvorteil. Heim-Edge + Form klar pro Celta, aber Levante mit Existenz-Pflicht-Profil als latentes Drehungs-Risiko. Borja Iglesias 3 LaLiga-Spiele in Folge getroffen (HR24a Form-Edge erfuellt) + Backup Aspas/Jutgla (Einwechslungs-Boost-Schutz).",
+        "recovery_heim": "3 Tage seit Auswaerts-Sieg 1:0 in Madrid bei Atletico (09.05.) - Erfolgs-Momentum + Reise-Belastung",
+        "recovery_gast": "3 Tage seit 3:2 Heim-Sieg gegen Osasuna (09.05.) - Schluss-Motivation-Boost",
         "quellen": [
-          "https://www.sportsgambler.com/betting-tips/football/celta-vigo-vs-levante-prediction-lineups-odds-2026-05-12/",
-          "https://www.sofascore.com/football/tournament/spain/laliga/8",
-          "https://www.flashscore.com/match/football/celta-vigo-8pvUZFhf/levante-G8FL0ShI/",
-          "https://www.espn.com/soccer/standings/_/league/esp.1"
+          "https://en.wikipedia.org/wiki/2025%E2%80%9326_La_Liga",
+          "https://www.laliga.com/en-GB/laliga-easports/standing",
+          "https://www.sportsgambler.com/betting-tips/football/celta-vigo-vs-levante-prediction-lineups-odds-2026-05-12/"
         ]
       },
       "news": [
-        {
-          "text": "Borja Iglesias (Celta) hat in 3 LaLiga-Spielen in Folge getroffen — Form-Edge Top-Stuermer.",
-          "quelle": "Sportsgambler"
-        },
-        {
-          "text": "Iago Aspas + Jutgla als Backup-Stuermer-Tandem — Einwechslungs-Boost-Schutz fuer Iglesias-Torschuetzen-Tipp.",
-          "quelle": "Sportsgambler"
-        },
-        {
-          "text": "Levante 7 Niederlagen in letzten 10 Auswaertsspielen, aber Heimsieg 3:2 ueber Osasuna am 09.05. zeigt Schluss-Motivation.",
-          "quelle": "Sportsgambler"
-        },
-        {
-          "text": "Celta unbeaten H2H in den letzten 5 Begegnungen (2:1 Auswaertssieg im Hinspiel).",
-          "quelle": "Sportsgambler"
-        }
+        "Celta 6. Platz (50 Pkt), 2 Siege in Folge inkl. 1:0 Auswaerts-Sieg in Madrid bei Atletico am 09.05.",
+        "Levante 19. (36 Pkt), 6 Pkt hinter Rettungs-Platz - Klassenerhalt-Existenz-Druck, 7 Niederlagen in letzten 10 Auswaerts",
+        "Borja Iglesias hat in 3 LaLiga-Spielen in Folge getroffen - HR24 (a) Form-Edge erfuellt; Backup-Tandem Aspas+Jutgla schuetzt Einwechslungs-Boost",
+        "Beide ohne UEFA-/Pokal-Belastung - keine Rotation-Risiken",
+        "Levante-Lazarett: C.Alvarez Knoechel, I.Romero Unterschenkel, Elgezabal Knie - Espi ohne direkte Backup-Stuermer-Konkurrenz",
+        "2:0-Insurance gilt NICHT (LaLiga ist nicht BL/CL) - normaler 90-Min-Endstand zaehlt",
+        "Lesson 12.05. LaLiga-Saisonende-Tor-Flaute (Mai-Mittel 1.88 Tore/Spiel): Ueber-2.5 Markt-Goldgrube wird durch Liga-Saisonphasen-Filter degradiert - max wackel statt VALUE"
       ],
       "tipps": [
         {
           "id": "cel-lev-1",
-          "markt": "Borja Iglesias (Celta) Torschuetze Jederzeit",
-          "kategorie": "wackel",
-          "quote": 2.5,
-          "edge_prozent": 12,
-          "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "FORM-EDGE PFLICHT: Iglesias 3 Spiele in Folge getroffen, Form-Hoch + Top-Stuermer Heimsieg-Spiel. Backup-Schutz durch Aspas (Volumen-9er) + Jutgla — wenn Iglesias raus, Einwechslungs-Boost zieht. Markt-Goldgrube 'Torschuetzen Jederzeit' (+21% ROI). Quote 2.5 fair (40% impliziert vs 42-45% Modell). Reality-Check: Torschuetzen-Tipps Bilanz 38.5% Hit / +21% ROI bei 26 Tipps — value-Label rechtfertigt 1.5%. Einsatz 1.5%*550=8.25€. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
-          "faire_quote": 2.23,
-          "_torschuetze_quelle_warn": true
+          "kategorie": "value",
+          "markt": "Borja Iglesias trifft (Torschuetze jederzeit)",
+          "quote": 2.4,
+          "edge_prozent": 8,
+          "begruendung": "HR24 (a) Form-Edge: Borja Iglesias hat in 3 LaLiga-Spielen in Folge getroffen - klassisches Volumen-9er-Pattern. HR24 (c) Backup-Stuermer-Profil: Aspas + Jutgla als Sturm-Tandem-Partner schuetzen Einwechslungs-Boost (DIREKTER Ersatz, Lesson 09.05.-Praezisierung beachtet). Goldgrube Torschuetzen Jederzeit (38.5% Hit / +21% ROI). Celta-Heim-Druck gegen Levante-Defense ohne UEFA-Belastung. Quote 2.40 als Anytime-Aggregator-Naeherung (nicht in Recherche-Quoten-Block explizit). Bei bet365 live + Aufstellung 1-2h vor Anstoss pruefen (Lesson 10.05. Star-Stuermer-Verifikation). Stake Stufe 1: 1.5% = 8.25€.",
+          "faire_quote": 2.2,
+          "empfohlener_einsatz_prozent": 1.5
         },
         {
           "id": "cel-lev-2",
-          "markt": "Celta Vigo oder Unentschieden (Doppelte Chance 1X)",
-          "kategorie": "wackel",
-          "quote": 1.18,
-          "edge_prozent": 6,
-          "empfohlener_einsatz_prozent": 2.0,
-          "begruendung": "DC 1X ist Markt-Goldgrube (82.4% Hitrate / +4.9% ROI). Heim-Favorit-Profil: Celta-Sieg-Quote 1.74 (57% impliziert) + Remis ~3.5. Levante Auswaerts-Trauerspiel (7/10 verloren) + Celta Form-Hoch. ABER: LaLiga NICHT Liga-Goldgrube → SAFE-Label nicht zulaessig (Mapper-Hebel C downgraded sonst). Plus Lesson Mainz-Union 11.05.: Klassenerhalt-Druck-Team kann auch Heim-Favoriten kippen. Value-Quote 1.18 = 85% impliziert — DC-Goldgrube zeigt 82% Hit empirisch, also fair-bis-leicht-positiv. Einsatz 2%*550=11€. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
-          "kombi_geeignet": true,
-          "faire_quote": 1.11,
-          "_saison_kontext_sanity_downgrade": true
+          "kategorie": "value",
+          "markt": "Beide Teams treffen (BTTS Ja)",
+          "quote": 1.7,
+          "edge_prozent": 5,
+          "begruendung": "Celta trifft als Heim-Favorit (Borja-Form-Lauf + Aspas-Spielanleger); Levante hat in 3:2 vs Osasuna gerade 3 Tore gemacht (Klassenerhalt-Drang). BTTS Ja eleganter als Ueber 2.5 wegen Saisonende-Flaute-Lesson 12.05. - 2 Tore (jeweils eins) reichen. Quote 1.70 (-143). Stake 1.0% = 5.50€.",
+          "faire_quote": 1.62,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
           "id": "cel-lev-3",
-          "markt": "Beide Teams treffen (BTTS) Ja",
           "kategorie": "wackel",
-          "quote": 1.7,
-          "edge_prozent": 4,
-          "empfohlener_einsatz_prozent": 0.5,
-          "begruendung": "Levante MUSS Tore schiessen (Klassenerhalt-Druck) + Celta-Defense durchschnittlich (Liga-Goldgrube fuer BTTS nicht direkt, aber Markt nicht in Bluter). Iglesias-Form-Plus + Levante-Volumen-Tipp Espi vorne. Faire Wahrscheinlichkeit ~62% (Modell), Quote 1.7 = 59% impliziert — leichter Edge. ABER: LaLiga-Saisonende-Tor-Flaute Lesson 10.+12.05. (Mai-Mittel 1.88 Tore/Spiel) ist Warnsignal — daher nur wackel, nicht value. Einsatz 0.5%*550=2.75€.",
-          "faire_quote": 1.63
+          "markt": "RC Celta de Vigo Sieg",
+          "quote": 1.84,
+          "edge_prozent": 3,
+          "begruendung": "Heim-Quote 1.84 wuerde normal VALUE rechtfertigen (Heim-Form + Europa-Druck + Levante schwach Auswaerts). ABER Lesson 11.05.+12.05. Saisonende-Mid-Table-Sieg-Cluster max wackel + Lesson 12.05. Drehungs-Cluster Top-Liga-Pflicht-Druck-Spiele + Schluss-Minuten-Tor-Cluster Mai (3+ Spiele mit 88+-Toren). Levante mit Existenz-Druck (Lesson 03.05. Underdog-Saisonziel-Welle 6/6). Quote ueberhalb wackel-Range aber Lesson-Downgrade. Stake 0.5% = 2.75€.",
+          "faire_quote": 1.9,
+          "empfohlener_einsatz_prozent": 0.5
         },
         {
           "id": "cel-lev-4",
-          "markt": "Mehr als 2.5 Tore",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.8,
+          "edge_prozent": 0,
+          "begruendung": "Lesson 12.05. LaLiga-Saisonende-Tor-Flaute (Mai-Mittel 1.88 Tore/Spiel - Rayo-Girona 1:1 Negativ-Beleg): Ueber-2.5 Markt-Goldgrube wird durch Liga-Saisonphasen-Filter degradiert auf wackel. Beide Teams nicht offensiv-dominant in Saisonende-Phase. Stake 0.5% = 2.75€.",
+          "faire_quote": 1.85,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "cel-lev-5",
           "kategorie": "moonshot",
-          "quote": 2.0,
-          "edge_prozent": -5,
-          "empfohlener_einsatz_prozent": 0.1,
-          "begruendung": "Markt-Goldgrube Ueber 2.5 (+62.8% ROI / 60% Hit) — historisch stark, aber Lesson 10.+12.05. zeigt LaLiga-Saisonende ist Flaute-Cluster (Rayo-Girona 1:1, Mainz-Union 1:3 ja aber aussage-Edge). Spielentwicklung: Iglesias-Form + Levante muss schiessen — UEber 2.5 realistisch ~50%, Quote 2.0 = 50% impliziert. Spaass-Tipp moonshot 0.55€. Faktisch Coinflip.",
-          "faire_quote": 2.11
+          "markt": "Levante UD Sieg",
+          "quote": 4.1,
+          "edge_prozent": 2,
+          "begruendung": "Lotterie-Tipp: Levante mit Existenz-Pflicht (mathematisch fast erledigt) + 3:2-Form-Boost vs Osasuna. Quote 4.10 reflektiert Markt-Skepsis (7 Niederlagen in 10 Auswaerts). Lesson 03.05. Underdog-Saisonziel-Welle bedingt anwendbar (Celta hat eigene Europa-Motivation). Pure Streuung. Stake 0.1% = 0.55€.",
+          "faire_quote": 4.5,
+          "empfohlener_einsatz_prozent": 0.1
         }
       ],
       "kontext_check_status": "OK"
@@ -93,86 +90,85 @@
     {
       "id": "2026-05-12-bet-elc",
       "liga": "LaLiga",
-      "heim": "Real Betis",
+      "heim": "Real Betis Balompie",
       "gast": "Elche CF",
-      "anstoss": "2026-05-12T19:00:00+02:00",
+      "anstoss": "2026-05-12T20:00:00+02:00",
       "stadion": "Estadio de La Cartuja, Sevilla",
       "saison_kontext": {
-        "parallel_heim": "keine (Europa League raus seit Achtelfinale, kein nationaler Pokal mehr)",
-        "parallel_gast": "keine",
-        "saisonziel_heim": "5. Tabellenplatz — kaempft um direkte Champions-League-Quali (Plaetze 1-4 Spanien hat dieses Jahr 4 CL-Tickets). Unbeaten-Run 6 LaLiga-Spiele, zuletzt 2:2 bei Real Sociedad mit spaeten Gegentoren (Antony+Ezzalzouli Doppelfuehrung verspielt).",
-        "saisonziel_gast": "16. Tabellenplatz mit 39 Pkt, nur 3 Pkt vor 19. Levante — Abstiegskampf mit Hoffnung aber duenne Decke. 4 Niederlagen in letzten 5 Auswaertsspielen.",
-        "motivations_asymmetrie": "Betis braucht jeden Punkt fuer CL-Direkt-Quali (Atletico nur 1 Pkt vor Betis-Quintett), Elche braucht jeden Punkt fuer Klassenerhalt — beide voll motiviert. Klassen-Edge eindeutig Betis (Heim 9 Spiele unbesiegt mit 4 Siegen).",
-        "recovery_heim": "2 Tage seit 2:2 bei Real Sociedad am 10.05. — kurze Pause, Reise aus dem Baskenland",
-        "recovery_gast": "2-3 Tage seit MD35 (Heimspiel) — voll erholt",
+        "parallel_heim": "keine aktiv - Real Betis am 16.04.2026 aus Europa-League-Viertelfinale ausgeschieden (3:5 aggregate gegen SC Braga, 2:4 im Rueckspiel). Copa-del-Rey im VF 05.02. mit 0:5 gegen Atletico raus. KEINE UEFA-/Pokal-Belastung mehr - 4 Wochen Reset-Zeit",
+        "parallel_gast": "keine - Elche nicht in UEFA-Wettbewerben 2025/26 (Aufsteiger), keine Pokal-Belastung mehr",
+        "saisonziel_heim": "Platz 5 LaLiga, Hauptkampf um Europa-League-Direktquali (Top-5) vs Conference-Quali (Platz 7-8) - 3 Spieltage Druck. Sevilla-Konstellation: La Cartuja als Heim-Ersatz wegen Benito-Villamarin-Bauarbeiten.",
+        "saisonziel_gast": "Platz 13, Klassenerhalt rechnerisch praktisch sicher, kein praktisches Saisonziel mehr - Aufsteiger-Standard-Endspurt ohne Druck",
+        "motivations_asymmetrie": "Klare Asymmetrie pro Betis: Top-5-Druck Europa-Quali + Heim-Edge gegen druckloses Elche-Saisonende. Frische Mannschaft nach 4 Wochen UEFA-Reset, kein Rotation-Risiko. Lesson 03.05. Underdog-Saisonziel-Welle greift NICHT (Elche hat KEIN Saisonziel mehr) - Betis ist hier der motivierte Saisonziel-Heim-Favorit.",
+        "recovery_heim": "Frische Mannschaft seit Europa-League-Aus (16.04.) - 4 Wochen ausschliesslich LaLiga-Fokus",
+        "recovery_gast": "Standard-LaLiga-Rhythmus, keine Doppelbelastung",
         "quellen": [
-          "https://www.sportsgambler.com/betting-tips/football/real-betis-vs-elche-prediction-lineups-odds-2026-05-12/",
-          "https://www.mightytips.com/football-predictions/real-betis-vs-elche-prediction-12-05-2026/",
+          "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Europa_League",
+          "https://www.uefa.com/uefaeuropaleague/clubs/52265--real-betis/",
           "https://en.wikipedia.org/wiki/2025%E2%80%9326_La_Liga",
-          "https://www.espn.com/soccer/standings/_/league/esp.1"
+          "https://www.sportsgambler.com/betting-tips/football/real-betis-vs-elche-prediction-lineups-odds-2026-05-12/"
         ]
       },
       "news": [
-        {
-          "text": "Antony + Ezzalzouli trafen zuletzt gegen Real Sociedad — Doppelpack-Front aktiv. Ezzalzouli mit 4 LaLiga-Toren Top-Scorer der Betis-Saison.",
-          "quelle": "Sportsgambler"
-        },
-        {
-          "text": "Betis Heimserie: 9 LaLiga-Spiele zuhause unbesiegt (4 Siege, 5 Remis).",
-          "quelle": "Sportsgambler"
-        },
-        {
-          "text": "Elche 4 Niederlagen in 5 Auswaertsspielen — Abstiegssorgen mit duennem Polster (3 Pkt vor 19. Platz).",
-          "quelle": "Sportsgambler"
-        },
-        {
-          "text": "Quoten bet365 (sportsgambler): Betis 1.57 / X 4.33 / Elche 5.25, BTTS Ja 1.70, Ueber 2.5 @ 1.66.",
-          "quelle": "Mightytips"
-        }
+        "Betis 5. Platz LaLiga, kaempft um Europa-League-Direktquali in den letzten 3 Spieltagen - Heim-Druck-Profil",
+        "Betis seit 16.04. ohne UEFA-Belastung (EL-VF-Aus gegen Braga) - frische Mannschaft, kein Rotation-Risiko",
+        "Aitor Ruibal nach Roter Karte gesperrt; Bartra (Fuss) langzeit out - Bellerin als Stamm-RV gesetzt",
+        "J.Hernandez als Stamm-9er mit Cucho Hernandez als Backup-Stuermer (Bench): klassisches Einwechslungs-Boost-Profil HR3/HR24c. Cucho-First +155 (~2.55) / Anytime +430 (~5.30)",
+        "Ezzalzouli (Anytime ~6.00 +500) und Antony als kreative Sturm-Drittel-Optionen - Anytime-Quoten reflektieren Volumen-Risiko",
+        "Elche-Stuermer Andre Silva mit Erfahrung, aber Anytime-Quote 7.00 (+600) zeigt Markt-Skepsis - Lotterie-Profil",
+        "2:0-Insurance gilt NICHT (LaLiga ist nicht BL/CL)",
+        "Lesson 12.05. Coppa-Schon-Cluster-Refinement: National-Pokal-Final NICHT als Schon-Modus anwenden - heute nicht relevant, Logik im Kontext"
       ],
       "tipps": [
         {
           "id": "bet-elc-1",
-          "markt": "Real Betis Sieg",
           "kategorie": "value",
-          "quote": 1.57,
-          "edge_prozent": 9,
-          "empfohlener_einsatz_prozent": 2.0,
-          "begruendung": "HEIM-FAVORIT klar (1.57 = 64% impliziert vs 69-70% Modell). Betis CL-Quali-Druck + Heim-Serie 9 ungeschlagen + Klassen-Edge ueber Elche (16. Platz mit Auswaerts-Trauerspiel). KEIN SAFE weil LaLiga nicht Liga-Goldgrube + Lesson 11.05. zeigt Saisonende-Klassenerhalt-Aussenseiter koennen ueberraschen (Mainz-Union 1:3) — daher value. Markt 'Sieg' ist Goldgrube-bestaetigt (~+15% historisch). Einsatz 2%*550=11€.",
-          "kombi_geeignet": true,
-          "faire_quote": 1.44
+          "markt": "Real Betis oder Remis (DC 1X)",
+          "quote": 1.23,
+          "edge_prozent": 4,
+          "begruendung": "Markt-Goldgrube DC 1X (82.4% Hit / +4.9% ROI). LaLiga nicht in liga_goldgruben.json -> Mapper-Hebel C macht SAFE-DC ohnehin VALUE. Betis Heim-Top-5-Favorit mit Europa-Quali-Druck + frische Mannschaft (4 Wochen seit EL-Aus) gegen druckloses Aufsteiger-Elche. DC schuetzt vor Saisonende-Drehungs-Risiko (Lesson 12.05.). Quote 1.23 (-435). Stake 1.0% = 5.50€.",
+          "faire_quote": 1.18,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
           "id": "bet-elc-2",
-          "markt": "Antony (Betis) Torschuetze Jederzeit",
-          "kategorie": "wackel",
-          "quote": 2.4,
-          "edge_prozent": 10,
-          "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "FORM-EDGE PFLICHT-Tipp Heim-Favorit-Profil: Antony traf zuletzt vs Real Sociedad, Stamm-Rechtsaussen mit Tor + Assist-Volumen. Backup-Schutz durch Juan Hernandez/Lo Celso/Ezzalzouli — Einwechslungs-Boost bei bet365 aktiv. Goldgrube-Markt Torschuetzen Jederzeit (+21% ROI / 38.5% Hit / n=26). Quote 2.4 = 41.7% impliziert, Modell ~43-46%. Einsatz 1.5%*550=8.25€. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
-          "faire_quote": 2.18,
-          "_torschuetze_quelle_warn": true
+          "kategorie": "value",
+          "markt": "Ueber 1.5 Tore",
+          "quote": 1.32,
+          "edge_prozent": 6,
+          "begruendung": "Markt-Goldgrube Ueber 1.5 (83.3% Hit / +31.7% ROI, n=6) - Top-Hit-Goldgrube. Betis-Heim mit Tor-Volumen gegen druckloses Elche (Tor-Bedarf bei jeder Mannschaft mind 1, Heim-Schnitt Betis ~2 Tore/Spiel). Saisonende-Flaute-Lesson 12.05. relevant aber 1.5-Schwelle deutlich unter Mai-Mittel 1.88. Quote 1.32 (Aggregator-Naeherung aus Ueber 2.5 1.66 + Ueber 0.5 ~1.10 -> Ueber 1.5 etwa zwischen 1.30-1.40). Bei bet365 live pruefen. Stake 1.0% = 5.50€.",
+          "faire_quote": 1.24,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
           "id": "bet-elc-3",
-          "markt": "Ezzalzouli (Betis) Torschuetze Jederzeit",
           "kategorie": "wackel",
-          "quote": 2.7,
-          "edge_prozent": 7,
-          "empfohlener_einsatz_prozent": 0.5,
-          "begruendung": "Topscorer Betis-Saison (4 LaLiga-Tore) + Tor zuletzt vs Sociedad. Quote 2.7 = 37% impliziert, Modell ~40-42%. Wackel statt value weil Antony als primaerer Torschuetzen-Tipp = Korrelations-Falle (2x selbes Spiel selber Markt). Einsatz 0.5%*550=2.75€.",
-          "faire_quote": 2.52
+          "markt": "Real Betis Sieg",
+          "quote": 1.62,
+          "edge_prozent": 2,
+          "begruendung": "Klassischer Heim-Favorit-Profil bei klarer Klassen-Edge + Saisonziel-Druck + frische Mannschaft, Quote 1.62 wuerde normal SAFE/VALUE rechtfertigen. ABER Lesson 11.05.+12.05. Saisonende-Mid-Table-Sieg-Cluster max wackel + Lesson 12.05. Drehungs-Cluster Top-Liga-MUST-WIN-Druck-Spiele + Schluss-Minuten-Tor-Cluster Mai. Quote unterhalb wackel-Range aber Lesson-Downgrade. Stake 0.5% = 2.75€.",
+          "faire_quote": 1.65,
+          "empfohlener_einsatz_prozent": 0.5
         },
         {
           "id": "bet-elc-4",
-          "markt": "Mehr als 1.5 Tore",
-          "kategorie": "safe",
-          "quote": 1.28,
-          "edge_prozent": 7,
-          "empfohlener_einsatz_prozent": 2.0,
-          "begruendung": "MARKT-GOLDGRUBE 'Ueber 1.5 Tore' (83.3% Hitrate / +31.7% ROI / n=6) — beste Hit-Goldgrube. Betis-Heimspiele: Schnitt 2.4 Tore/Spiel + Antony/Ezzalzouli-Form. Elche braucht Tore (Klassenerhalt). Lesson 10.+12.05. Saisonende-Flaute LaLiga: durchschnitt 1.88 — aber Ueber 1.5 ist solider Schritt als Ueber 2.5. Quote 1.28 = 78% impliziert, Modell ~85%. SAFE-Label OK weil Markt-Goldgrube selbst wenn Liga nicht. Einsatz 2%*550=11€.",
-          "kombi_geeignet": true,
-          "faire_quote": 1.2
+          "kategorie": "wackel",
+          "markt": "Cucho Hernandez erster Torschuetze",
+          "quote": 2.55,
+          "edge_prozent": 4,
+          "begruendung": "HR24 (b) Backup-Stuermer-Profil + HR3 Einwechslungs-Boost-Schutz: Cucho als Bench-Stuermer hinter J.Hernandez - klassisches Joker-9er-Profil. Cucho ist DIREKTER Ersatz fuer J.Hernandez auf der ST-Position (Lesson 09.05.-Praezisierung beachtet). First-Goalscorer-Quote 2.55 (+155) spiegelt Spielzeit-Risiko (Bench-Start). Stake 0.5% = 2.75€.",
+          "faire_quote": 2.4,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "bet-elc-5",
+          "kategorie": "moonshot",
+          "markt": "Elche CF Sieg",
+          "quote": 5.3,
+          "edge_prozent": 2,
+          "begruendung": "Lotterie-Tipp: Elche druckfrei + Betis-Heim-Druck-Falle-Risiko (Drehungs-Cluster 12.05.). Klassen-Edge klar pro Betis, Markt-Skepsis bei +430. Pure Spass-Streuung. Stake 0.1% = 0.55€.",
+          "faire_quote": 6.0,
+          "empfohlener_einsatz_prozent": 0.1
         }
       ],
       "kontext_check_status": "OK"
@@ -181,75 +177,86 @@
       "id": "2026-05-12-osa-atm",
       "liga": "LaLiga",
       "heim": "CA Osasuna",
-      "gast": "Atletico Madrid",
+      "gast": "Club Atletico de Madrid",
       "anstoss": "2026-05-12T21:30:00+02:00",
       "stadion": "Estadio El Sadar, Pamplona",
       "saison_kontext": {
-        "parallel_heim": "keine",
-        "parallel_gast": "Champions-League-Halbfinale-Aus am 05.05. (1:0-Niederlage in London bei Arsenal nach 2 Hinspielen) — keine UEFA-Spiele mehr diese Saison. Quelle: uefa.com (siehe quellen).",
-        "saisonziel_heim": "11. Tabellenplatz mit 42 Pkt — rechnerisch noch nicht ganz gerettet (9 Teams in 6 Pkt-Bereich, 19. Levante 36 Pkt). Aktuell 2 LaLiga-Niederlagen in Folge inkl. 2:3 in Levante (09.05.).",
-        "saisonziel_gast": "4. Tabellenplatz mit 63 Pkt — CL-Quali fuer 26/27 quasi sicher (Top-4 reicht), 3. Platz (Villarreal) noch erreichbar aber unwahrscheinlich. Saisonende-Modus. Form: 2 LaLiga-Niederlagen in Folge (0:1 Heim gegen Celta + ...).",
-        "motivations_asymmetrie": "Osasuna Heim-Druck-Mix (Mathematische-Reste-Klassenerhalt + Heim-Rekord nur 1 Niederlage in letzten 11), Atletico Saisonende-Schaufenster-Modus nach CL-Aus + Star-Stuermer Julian Alvarez ausgefallen (Knoechelverletzung). Edge eher Osasuna als nominale Auswaerts-Quote 2.65 suggeriert — Coinflip-Profil.",
-        "recovery_heim": "3 Tage seit 3:2-Niederlage in Levante (09.05.) — Reise + Frust",
-        "recovery_gast": "3 Tage seit 0:1-Heimniederlage vs Celta (09.05.) + 7 Tage seit CL-HF-Rueckspiel in London (05.05.) — Belastung der vergangenen Wochen kumuliert",
+        "parallel_heim": "keine - Osasuna nicht in UEFA-Wettbewerben 2025/26, Copa-del-Rey fruehzeitig raus",
+        "parallel_gast": "keine aktiv - Atletico am 05.05.2026 aus CL-Halbfinale ausgeschieden (0:1 bei Arsenal, 2:1 aggregate fuer Arsenal). Copa-del-Rey-Finale 18.04.2026 gegen Real Sociedad im Elfmeterschiessen verloren. 7-24 Tage Recovery - emotionaler/Kraft-Nachlauf von 2 Wettbewerbs-Endphasen, keine aktive Doppelbelastung",
+        "saisonziel_heim": "Platz 11 mit 42 Pkt - Klassenerhalt mathematisch praktisch sicher, kein direkter Saison-Druck. Tabellen-Mittelfeld-Modus",
+        "saisonziel_gast": "Platz 4 mit 63 Pkt - CL-Quali via Top-4 zu 95% sicher, Druck auf Platz 3 Real Madrid noch nominal moeglich aber KEINE Pokal-/UEFA-Spiele mehr - Saisonende-Modus + reduzierte Motivation",
+        "motivations_asymmetrie": "Asymmetrie nominal pro Atletico (Klasse), faktisch Pick'em durch HR22 Star-OUT-Implosions-Profil: J.Alvarez/Simoni/Barrios/Gimenez/Molina/N.Gonzalez/Cardoso OUT + Baena gesperrt = 7 Stamm-OUT + emotional/kondionell ausgelaugt von CL-SF + Copa-Final-Aus. Form schwach: 0:1 Heim-Niederlage gegen Celta 09.05.! Quoten-Markt zeigt Pick'em (+160/+160) statt Atletico-Favorit-Niveau. Lesson 03.05. Underdog-Saisonziel-Welle bedingt anwendbar (Osasuna kein klares Saisonziel mehr, aber Heim-Edge in El Sadar).",
+        "recovery_heim": "3 Tage seit 2:3-Auswaerts-Niederlage in Levante (09.05.) - Standard-Pause",
+        "recovery_gast": "3 Tage seit 0:1-Heim-Niederlage gegen Celta Vigo (09.05.) UND 7 Tage seit CL-SF-Aus bei Arsenal (05.05.) - kumulative Kader+Emotional-Belastung. Massive Verletzten-Liste limitiert Rotations-Optionen",
         "quellen": [
-          "https://www.uefa.com/uefachampionsleague/news/029a-1df98e9a78ca-1acaca3c53b0-1000--2026-uefa-champions-league-final-where-is-it-who-is-involv/",
-          "https://www.sportsgambler.com/betting-tips/football/osasuna-vs-atletico-madrid-prediction-lineups-odds-2026-05-12/",
+          "https://www.uefa.com/uefachampionsleague/match/2048071--atleti-vs-arsenal/",
           "https://en.wikipedia.org/wiki/2025%E2%80%9326_Atl%C3%A9tico_Madrid_season",
-          "https://www.espn.com/soccer/standings/_/league/esp.1"
+          "https://en.wikipedia.org/wiki/2026_Copa_del_Rey_final",
+          "https://en.wikipedia.org/wiki/2025%E2%80%9326_La_Liga"
         ]
       },
       "news": [
-        {
-          "text": "Julian Alvarez (Atletico) FAELLT AUS — Knoechelverletzung. Star-Stuermer-Ausfall = Backup-Pflicht per Markt-Mix Regel 3.",
-          "quelle": "Sportsgambler"
-        },
-        {
-          "text": "Vorraussichtliche Atletico-Startelf vorne: Soerloth + Lookman + Almada — Lookman ist Backup-Stuermer mit Tor-Volumen-Potenzial.",
-          "quelle": "Sportsgambler"
-        },
-        {
-          "text": "Osasuna Heim-Rekord: nur 1 Niederlage in letzten 11 Heimspielen, aber 2 Niederlagen in Folge zuletzt (1:0 in Barcelona via El Clasico-Wochenende + 2:3 in Levante 09.05.).",
-          "quelle": "Sportsgambler"
-        },
-        {
-          "text": "Quoten bet365 (sportsgambler/dailysports): Osasuna ~2.55 / X ~3.55 / Atletico ~2.65 — alle 1X2 zwischen 2.40-3.50 = COINFLIP-Profil per Markt-Mix Regel 2.",
-          "quelle": "Sportsgambler"
-        }
+        "Atletico massives Lazarett: J.Alvarez (Knoechel), Simoni (Hueft), Barrios (Oberschenkel), Gimenez, Molina, N.Gonzalez, Cardoso alle OUT + Baena gesperrt - 7 Stamm-OUT + 1 gesperrt",
+        "Atletico-Form schwach: 0:1 Heim-Niederlage gegen Celta Vigo am 09.05., 7 Tage nach CL-Halbfinal-Aus bei Arsenal (05.05.) - emotional+kondionell ausgelaugt",
+        "Quoten-Markt zeigt Pick'em (+160/+160) trotz 4-vs-11-Platz-Differenz - Markt liest Rotation+Saisonziel-Lockerung bei Atletico ein",
+        "Osasuna Klassenerhalt durch, Tabellen-Mittelfeld-Modus ohne Druck - Heim-Edge in El Sadar als einziger struktureller Vorteil",
+        "Atletico hat KEINE Pokal-/UEFA-Spiele mehr - Saisonende-Modus + reduzierte Motivation moeglich (CL-Quali via Top-4 fast sicher)",
+        "Sergio Herrera (TW) gesperrt - Aitor Fernandez als Ersatz-TW (potenzielles Defensiv-Risiko)",
+        "Budimir Anytime-Quote ~2.35 (+135) - HR24 (c) klassischer Volumen-9er + Atletico-Defense-Lazarett (Gimenez OUT)",
+        "Soerloth + Lookman als Atletico-Sturm-Tandem (laut Recherche-Squad) ohne Backup-Konkurrenz (J.Alvarez OUT) - Soerloth Anytime ~4.90 (+390)",
+        "2:0-Insurance gilt NICHT (LaLiga ist nicht BL/CL)",
+        "HR22 Star-OUT-Implosions-Profil aktiv -> kein Atletico-Sieg-VALUE/SAFE; Markt reflektiert das schon mit Pick'em-Quote"
       ],
       "tipps": [
         {
           "id": "osa-atm-1",
-          "markt": "Ademola Lookman (Atletico) Torschuetze Jederzeit",
-          "kategorie": "wackel",
-          "quote": 2.6,
-          "edge_prozent": 9,
-          "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "STAR-AUSFALL-BACKUP-PFLICHT (Markt-Mix Regel 3): Alvarez out → Lookman + Soerloth ruecken vor in Startelf. Lookman seit Winter-Transfer mit Tor-Volumen in Atletico-Auswaertsspielen (NEC: hat in 4 von letzten 7 LaLiga-Auswaertsspielen getroffen — bitte vor Anstoss bei bet365 verifizieren). Backup-Schutz durch Soerloth (Volumen-9er) + Almada bei Einwechslung. Markt-Goldgrube Torschuetzen Jederzeit. Quote 2.6 = 38.5% impliziert, Modell ~42-45%. ABER: Lesson 11.05. Vinicius-Bank-Annahme-Falle — Aufstellung 1h vor Anstoss verifizieren. Einsatz 1.5%*550=8.25€. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
-          "faire_quote": 2.39,
-          "_torschuetze_quelle_warn": true
+          "kategorie": "value",
+          "markt": "Osasuna oder Remis (DC 1X)",
+          "quote": 1.48,
+          "edge_prozent": 6,
+          "begruendung": "Markt-Goldgrube DC 1X (82.4% Hit / +4.9% ROI). LaLiga nicht in liga_goldgruben.json -> Mapper-Hebel C macht SAFE-DC ohnehin VALUE. HR22 Star-OUT-Implosions-Setup bei Atletico (7 Stamm-OUT + Baena gesperrt + 0:1 Heim gegen Celta + emotional ausgelaugt) + Osasuna Heim-Edge in El Sadar (nur 1 Niederlage in letzten 11 Heim laut sportsgambler). DC 1X schuetzt vor Drehungs-Risiko (Lesson 12.05.). Quote 1.48 (Aggregator-Naeherung aus +160/+250-Math: 1/(1/2.60+1/3.50) ~ 1.49). Bei bet365 live pruefen. Stake 1.0% = 5.50€.",
+          "faire_quote": 1.4,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
           "id": "osa-atm-2",
-          "markt": "Unter 2.5 Tore",
           "kategorie": "value",
-          "quote": 1.95,
-          "edge_prozent": 8,
-          "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "Coinflip-Spiel-Profil + LaLiga-Saisonende-Tor-Flaute (Lesson 10.+12.05.: Mai-Mittel 1.88 Tore/Spiel). Osasuna Heim defensiv solide (nur 1 Niederlage in 11), Atletico ohne Alvarez wahrscheinlich nicht offensiv-explosiv (Form 2 Niederlagen in Folge mit nur 1 Tor gesamt). Faire Wahrscheinlichkeit ~57%, Quote 1.95 = 51% impliziert. Markt Unter 2.5 historisch +27.5% ROI in unserer Stat (vor Goldgrube-Liste-Update). Einsatz 1.5%*550=8.25€.",
-          "kombi_geeignet": true,
-          "faire_quote": 1.81
+          "markt": "Ante Budimir trifft (Torschuetze jederzeit)",
+          "quote": 2.35,
+          "edge_prozent": 7,
+          "begruendung": "HR24 (c) klassischer Volumen-9er-Profil: Budimir als Stamm-Stuermer Osasuna. Defense-Krise-Trigger bei Atletico (Gimenez OUT, Le Normand fragwuerdig). Goldgrube Torschuetzen Jederzeit (38.5% Hit / +21% ROI). Anytime-Quote 2.35 (+135) attraktiv im VALUE-Range. Aufstellung 1-2h vor Anstoss pruefen (Lesson 10.05.). Stake 1.0% = 5.50€.",
+          "faire_quote": 2.2,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
           "id": "osa-atm-3",
-          "markt": "Osasuna oder Unentschieden (Doppelte Chance 1X)",
-          "kategorie": "wackel",
-          "quote": 1.48,
+          "kategorie": "value",
+          "markt": "Unter 2.5 Tore",
+          "quote": 2.0,
           "edge_prozent": 6,
-          "empfohlener_einsatz_prozent": 0.5,
-          "begruendung": "COINFLIP-PROFIL: kein SAFE moeglich. DC 1X ist Markt-Goldgrube (82.4% Hit / +4.9% ROI). Osasuna 38% impliziert + Remis 28% = 66% kombiniert, Quote 1.48 = 67.5% impliziert — fair-bis-leichter-Edge. Atletico Star-Ausfall + Saisonende-Modus stuetzt 1X. ABER: motivations_asymmetrie sagt Edge eher Osasuna — selbst-widerspruch-Schutz: kategorie wackel (Mapper-Hebel S degradiert sonst automatisch). Einsatz 0.5%*550=2.75€.",
-          "kombi_geeignet": false,
-          "faire_quote": 1.4
+          "begruendung": "LaLiga-Saisonende-Tor-Flaute (Lesson 10.+12.05. Mai-Mittel 1.88 Tore/Spiel) + Atletico ohne Alvarez offensiv reduziert + Osasuna Heim defensiv solide. Faire Wahrscheinlichkeit ~58%, Quote 2.00 = 50% impliziert -> klarer Edge. Stake 1.0% = 5.50€.",
+          "faire_quote": 1.85,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "osa-atm-4",
+          "kategorie": "wackel",
+          "markt": "CA Osasuna Sieg",
+          "quote": 2.6,
+          "edge_prozent": 5,
+          "begruendung": "Underdog-Pick'em-Sieg mit klarer Edge (HR22 Star-OUT-Implosions-Profil + Atletico-Form-Krise + 0:1 Heim gegen Celta vor 3 Tagen + emotional ausgelaugt). Drehungs-Risiko (Lesson 12.05.): Atletico nominal Klasse-Edge bei Rueckkehr-Auftrieb. Quote 2.60 in wackel-Range. Stake 0.5% = 2.75€.",
+          "faire_quote": 2.4,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "osa-atm-5",
+          "kategorie": "risk",
+          "markt": "Alexander Soerloth trifft (Torschuetze jederzeit)",
+          "quote": 4.9,
+          "edge_prozent": 4,
+          "begruendung": "HR24 (b/c) bedingt: Soerloth als Atletico-Sturm-Tandem-Partner ohne Backup-Konkurrenz (J.Alvarez OUT). Atletico-Form-Krise + emotional ausgelaugt = Volumen-Risiko. Anytime-Quote 4.90 (+390) Risiko-Range. Stake 0.25% = 1.40€.",
+          "faire_quote": 5.2,
+          "empfohlener_einsatz_prozent": 0.25
         }
       ],
       "kontext_check_status": "OK"
@@ -260,61 +267,62 @@
       "heim": "San Antonio Spurs",
       "gast": "Minnesota Timberwolves",
       "anstoss": "2026-05-13T02:00:00+02:00",
-      "stadion": "Frost Bank Center, San Antonio",
+      "stadion": "Frost Bank Center, San Antonio (TX)",
       "saison_kontext": {
-        "parallel_heim": "keine — NBA Playoffs Round 2 ist einzige Spielebene",
-        "parallel_gast": "keine — NBA Playoffs Round 2 ist einzige Spielebene",
-        "saisonziel_heim": "Western Conference Finals Erreichen (Serie 2-2). Heimrecht in G5+G7. Wembanyama nach G4-Ejection (Ellbogen) NICHT gesperrt + zurueck in Startelf.",
-        "saisonziel_gast": "Western Conference Finals Erreichen (Serie 2-2). G4-Sieg mit Edwards 16-Q4-Pkt-Explosion. Wolves haben Auswaertsdruck.",
-        "motivations_asymmetrie": "Pivot-G5 bei 2-2-Serie: Heim-Team hat statistische Edge (~78% G5-Sieg-Rate historisch). Spurs Wembanyama back + Fox questionable (Knoechelverhaertung). G5-Sieg = Match-Point-Vorteil. Coinflip-aehnlich aber Wolves Underdog mit Edwards-Clutch.",
-        "recovery_heim": "2 Tage seit G4-Niederlage (Wolves 16-Pkt-Q4-Edwards-Comeback) — Frost Bank Center wieder Heim, voll erholt",
-        "recovery_gast": "2 Tage seit G4-Heimsieg in Minneapolis — Reise nach San Antonio, leichter Reise-Tax",
+        "parallel_heim": "NBA-Playoff-Modus - keine parallelen Wettbewerbe, Series 2-2, Spurs Heimvorteil in G5",
+        "parallel_gast": "NBA-Playoff-Modus - keine parallelen Wettbewerbe, Wolves Auswaerts nach G4-Heimsieg",
+        "saisonziel_heim": "Western Conference Semifinals - Series 2-2, G5 = Pivot-Game (~78% Heimsieg-Rate historisch). Bei Win: 3-2-Fuehrung mit G6 in Minneapolis",
+        "saisonziel_gast": "Western Conference Semifinals - Series 2-2 nach G4-Heimsieg, Auswaerts-Steal = 3-2-Fuehrung mit G6 daheim",
+        "motivations_asymmetrie": "Beide Series-Score 2-2, Heimvorteil bisher 4/4 bestaetigt. Spurs Heim-Edge Frost Bank Center. Wembanyama nach G4-Karriere-Ejection (Ellbogen Naz Reid) ohne weitere Sperre - verfuegbar fuer Heim-Reaktion. Edwards-Wolves im Auswaerts-Modus nach 36-Pkt-G4-Boost. NBA-Playoff-Decider-Filter (G5/G6/G7) sagt max wackel - Closeout-Varianz extrem.",
+        "recovery_heim": "2 Tage seit G4 (10.05.) - Standard-Playoff-Rhythmus, voraussichtlich keine Belastung",
+        "recovery_gast": "2 Tage seit G4 (10.05.) - Standard-Playoff-Rhythmus, voraussichtlich keine Belastung",
         "quellen": [
-          "https://www.lineups.com/betting/minnesota-timberwolves-vs-san-antonio-spurs-game-5-preview-picks-odds-for-tuesday-may-12-2026/",
-          "https://www.espn.com/nba/odds/_/gameId/401871156",
-          "https://www.nba.com/playoffs/2026",
+          "https://www.nba.com/playoffs/2026/west-semifinal-2",
+          "https://www.espn.com/nba/game/_/gameId/401871156/timberwolves-spurs",
           "https://www.fanduel.com/research/spurs-vs-timberwolves-prediction-nba-odds-spread-best-bets-for-western-semifinals-5-12-2026"
         ]
       },
       "news": [
-        {
-          "text": "Wembanyama (Spurs) NICHT gesperrt nach G4-Ejection (Ellbogen) — zurueck in Startelf. SportsLine-Modell projiziert 25.2 Pkt.",
-          "quelle": "CBS Sports/Bleacher Nation"
-        },
-        {
-          "text": "De'Aaron Fox (Spurs) FRAGLICH (Knoechelverhaertung) — vor Tip-off bei NBA-Injury-Report verifizieren.",
-          "quelle": "FanDuel Research"
-        },
-        {
-          "text": "Spurs 70.9% Win-Probabilitaet, Spread -10.5 / Total 218.5. Edwards-Projektion 26.7 Pkt (KEINE Player-Punkte-Tipps wegen Boykott seit 26.04.).",
-          "quelle": "Lineups.com"
-        },
-        {
-          "text": "NBA-Spread > 8 fuer Underdog Player-Props max WACKEL — gilt aber durch Boykott sowieso (keine Player-Tipps).",
-          "quelle": "Lesson 23.04."
-        }
+        "Series 2-2 nach G4-Heimsieg Wolves 114-109 in Minneapolis am 10.05.",
+        "Wembanyama nach erstem-Karriere-Ejection in G4 (Ellbogen Naz Reid, 2.Q) OHNE weitere Sperre - verfuegbar fuer G5",
+        "Fox QUESTIONABLE (Knoechel aus G4-Sequenz mit Dosunmu) - Erwartung verfuegbar (hat G4 zu Ende gespielt). 30-60 Min vor Tipoff pruefen",
+        "Edwards 36 Pkt in G4 inkl. 16 im 4. Quarter - Wolves-Star bleibt heisser Faktor",
+        "Spurs -10.5 Spread + Total 218.5 - Markt-Erwartung deutlicher Heim-Sieg + mittleres Tempo",
+        "HR16 NBA-Player-Punkte-Boykott seit 26.04. (-7.8% ROI) - KEINE Single-Player-Points-Tipps",
+        "NBA-Playoff-Decider-Filter: G5 als Series-Schluessel max wackel statt VALUE/SAFE (Closeout-Varianz extrem)",
+        "HR19 NBA-Spread-Margen-Risiko: -10.5 ist breiter Spread - fragil bei knappen Margins",
+        "Spurs Heimvorteil bisher 2/2 in dieser Series (G1-G2-Heimsiege) - aber Wolves auch 2/2 Heim (G3-G4)"
       ],
       "tipps": [
         {
           "id": "sas-min-1",
-          "markt": "San Antonio Spurs Sieg (Moneyline)",
           "kategorie": "wackel",
-          "quote": 1.36,
-          "edge_prozent": 5,
-          "empfohlener_einsatz_prozent": 0.5,
-          "begruendung": "Heim-Favorit Profil + Wembanyama back. Quote 1.36 = 74% impliziert vs Modell 70.9% — leicht ueberbewertet, nicht edge-positiv im strikten Sinne. ABER: G5 Heim-Sieg-Rate historisch ~78% bei 2-2-Serie. KEIN SAFE/VALUE weil: (a) NBA R2G5 NICHT in Liga-Goldgrube (nur R2G2 ist drin), (b) Fox-Status fraglich = Star-Bedingung-Lesson 25.04., (c) Edwards-Clutch-Faktor + G4-Reaktions-Spike-Pattern (Wolves haben Momentum), (d) Lesson 09.05. Wolves-G3-Reaktions-Spike-Niederlage widerlegt mechanische Anwendung. Wackel-Einsatz 0.5%*550=2.75€.",
-          "kombi_geeignet": false,
-          "faire_quote": 1.3
+          "markt": "San Antonio Spurs Sieg (Moneyline)",
+          "quote": 1.25,
+          "edge_prozent": 2,
+          "begruendung": "Quote 1.25 wuerde nominal SAFE rechtfertigen (Heim-Favorit-Markt-Implied 80%). ABER NBA-Playoff-nie-SAFE-Regel (Mapper-Hebel B) + NBA-Playoff-Decider-Filter G5 max wackel + Heimvorteil bisher 4/4 (Reaktions-Spike Wolves-Auswaerts moeglich, Lesson 09.05. Reaktions-Spike-Falle). Wembanyama nach Ejection-Frust-Boost + Fox Knoechel-Question = Lineup-Risiko. Quote unterhalb wackel-Range aber Lesson-Downgrade. Stake 0.5% = 2.75€.",
+          "faire_quote": 1.3,
+          "empfohlener_einsatz_prozent": 0.5
         },
         {
           "id": "sas-min-2",
-          "markt": "Mehr als 218.5 Punkte (Game Total)",
           "kategorie": "wackel",
+          "markt": "Ueber 218.5 Punkte",
           "quote": 1.91,
-          "edge_prozent": 4,
-          "empfohlener_einsatz_prozent": 0.5,
-          "begruendung": "G4 Wolves-Q4-Explosion mit Edwards-16-Pkt zeigt Wolves-Offensiv-Wiederkehr. Wembanyama back = mehr Spurs-Punkte. SportsLine-Projektion Spurs 113 Wolves 105 = 218 (genau auf Linie). Lesson HR18 G2-Reaktions-Spike eingegrenzt — G5 anderer Kontext. NICHT als VALUE markiert: Lesson 07.05. zeigt 'Mehr als X.5' bei NBA mit knapper Margin riskant + LaLiga-Tor-Flaute-Parallele nicht uebertragbar aber NBA-Spread-Margin-Lesson gilt. Einsatz 0.5%*550=2.75€.",
-          "faire_quote": 1.84
+          "edge_prozent": 2,
+          "begruendung": "Total 218.5 als Markt-Standard-Linie + G4 Wolves 114-109 = 223 Total (ueber Linie) + beide Stars (Wemby/Edwards) intakt = Tempo-Potenzial. Decider-Charakter G5 mit Defense-Adjustment-Risiko + HR21 G2-Reaktions-Spike-Eingrenzung (kein Wurf-Krise erkennbar aber Decider-Varianz). Quote 1.91 (US-Standard -110). Stake 0.5% = 2.75€. Bei bet365 live pruefen.",
+          "faire_quote": 1.95,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "sas-min-3",
+          "kategorie": "risk",
+          "markt": "Minnesota Timberwolves Sieg (Moneyline)",
+          "quote": 4.15,
+          "edge_prozent": 3,
+          "begruendung": "Underdog-Auswaerts-Steal-Lotterie: Edwards-Form (36 Pkt G4) + Wolves-G3-G4-Aufwind + Wembanyama-Ejection-Frust-Risiko + NBA-Decider-Varianz. HR19-Spread-Margen-Risiko spricht aus Wolves-Sicht (-10.5 fragil). Pure Streuung. Stake 0.25% = 1.40€.",
+          "faire_quote": 4.5,
+          "empfohlener_einsatz_prozent": 0.25
         }
       ],
       "kontext_check_status": "OK"
@@ -322,299 +330,434 @@
   ],
   "einzeltipps": [
     {
-      "ref": "bet-elc-4",
-      "spiel": "Real Betis vs Elche",
-      "markt": "Mehr als 1.5 Tore",
-      "kategorie": "safe",
-      "quote": 1.28,
-      "einsatz_euro": 11.0,
-      "begruendung": "Markt-Goldgrube Ueber 1.5 (+31.7% ROI / 83.3% Hit / n=6). Betis Heimserie 9 ungeschlagen, Antony+Ezzalzouli aktiv. SAFE trotz LaLiga-Saisonende-Flaute weil Markt-Goldgrube + Heim-Favorit-Klassen-Edge.",
-      "empfohlener_einsatz_prozent": 2.0,
+      "id": "et-1",
+      "spiel": "RC Celta de Vigo - Levante UD",
+      "spiel_id": "2026-05-12-cel-lev",
+      "kategorie": "value",
+      "markt": "Borja Iglesias trifft (Torschuetze jederzeit)",
+      "quote": 2.4,
+      "einsatz_euro": 8.25,
+      "kurz_begruendung": "HR24 (a) Form-Edge: 3 LaLiga-Spiele in Folge getroffen + HR24 (c) Backup-Tandem Aspas/Jutgla (Einwechslungs-Boost-Schutz, direkter Ersatz). Goldgrube Torschuetzen Jederzeit (38.5%/+21% ROI). Celta-Heim + Europa-Sprint-Momentum.",
+      "empfohlener_einsatz_prozent": 1.5,
       "rang": 1
     },
     {
-      "ref": "bet-elc-1",
-      "spiel": "Real Betis vs Elche",
-      "markt": "Real Betis Sieg",
+      "id": "et-2",
+      "spiel": "Real Betis Balompie - Elche CF",
+      "spiel_id": "2026-05-12-bet-elc",
       "kategorie": "value",
-      "quote": 1.57,
-      "einsatz_euro": 11.0,
-      "begruendung": "Heim-Favorit-Profil 1.57 = 64% impliziert vs Modell 69-70%. CL-Quali-Druck + Heimserie 9 ungeschlagen. LaLiga nicht Liga-Goldgrube → VALUE statt SAFE.",
-      "empfohlener_einsatz_prozent": 2.0,
+      "markt": "Real Betis oder Remis (DC 1X)",
+      "quote": 1.23,
+      "einsatz_euro": 5.5,
+      "kurz_begruendung": "Goldgrube DC 1X (82.4%/+4.9% ROI). Mapper-Hebel C: LaLiga -> SAFE-DC = VALUE. Betis Top-5-Europa-Quali-Druck + 4 Wochen frisch seit EL-Aus vs druckloses Elche-Aufsteiger. DC schuetzt vor Drehungs-Risiko.",
+      "empfohlener_einsatz_prozent": 1.0,
       "rang": 2
     },
     {
-      "ref": "cel-lev-2",
-      "spiel": "Celta Vigo vs Levante",
-      "markt": "Celta Vigo oder Unentschieden (Doppelte Chance 1X)",
+      "id": "et-3",
+      "spiel": "CA Osasuna - Atletico Madrid",
+      "spiel_id": "2026-05-12-osa-atm",
       "kategorie": "value",
-      "quote": 1.18,
-      "einsatz_euro": 11.0,
-      "begruendung": "Markt-Goldgrube DC 1X (82.4% Hit / +4.9% ROI). Celta Form-Hoch + Heimvorteil + Levante Auswaerts-Trauerspiel. LaLiga nicht Liga-Goldgrube → VALUE. Klassenerhalt-Druck Mainz-Lesson 11.05. = Vorsicht.",
-      "empfohlener_einsatz_prozent": 2.0,
+      "markt": "Osasuna oder Remis (DC 1X)",
+      "quote": 1.48,
+      "einsatz_euro": 5.5,
+      "kurz_begruendung": "Goldgrube DC 1X (82.4%/+4.9% ROI). HR22 Star-OUT-Implosions-Profil bei Atletico (7 Stamm-OUT + Baena gesperrt + 0:1 Heim gegen Celta + emotional ausgelaugt). Osasuna Heim-Edge El Sadar. Markt zeigt Pick'em bei +160/+160 -> klarer DC-Edge.",
+      "empfohlener_einsatz_prozent": 1.0,
       "rang": 3
     },
     {
-      "ref": "osa-atm-2",
-      "spiel": "Osasuna vs Atletico Madrid",
-      "markt": "Unter 2.5 Tore",
+      "id": "et-4",
+      "spiel": "CA Osasuna - Atletico Madrid",
+      "spiel_id": "2026-05-12-osa-atm",
       "kategorie": "value",
-      "quote": 1.95,
-      "einsatz_euro": 8.25,
-      "begruendung": "Coinflip-Spiel + LaLiga-Saisonende-Tor-Flaute (1.88/Spiel) + Atletico ohne Alvarez offensiv reduziert + Osasuna Heim-Defensiv-Edge.",
-      "empfohlener_einsatz_prozent": 1.5,
+      "markt": "Ante Budimir trifft (Torschuetze jederzeit)",
+      "quote": 2.35,
+      "einsatz_euro": 5.5,
+      "kurz_begruendung": "HR24 (c) Stamm-Volumen-9er Osasuna + Atletico-Defense-Lazarett (Gimenez OUT). Goldgrube Torschuetzen Jederzeit. Anytime-Quote 2.35 attraktiv im VALUE-Range.",
+      "empfohlener_einsatz_prozent": 1.0,
       "rang": 4
     },
     {
-      "ref": "cel-lev-1",
-      "spiel": "Celta Vigo vs Levante",
-      "markt": "Borja Iglesias Torschuetze Jederzeit",
+      "id": "et-5",
+      "spiel": "CA Osasuna - Atletico Madrid",
+      "spiel_id": "2026-05-12-osa-atm",
       "kategorie": "value",
-      "quote": 2.5,
-      "einsatz_euro": 8.25,
-      "begruendung": "FORM-EDGE PFLICHT: Iglesias 3 Spiele in Folge getroffen, Heim-Favorit-Profil. Backup-Schutz Aspas/Jutgla. Markt-Goldgrube Torschuetzen Jederzeit.",
-      "empfohlener_einsatz_prozent": 1.5,
+      "markt": "Unter 2.5 Tore",
+      "quote": 2.0,
+      "einsatz_euro": 5.5,
+      "kurz_begruendung": "LaLiga-Saisonende-Tor-Flaute (Lesson 10.+12.05. Mai-Mittel 1.88 Tore/Spiel) + Atletico ohne Alvarez offensiv reduziert + Osasuna Heim-Defensiv-Edge. Quote 2.00 = 50% impliziert vs ~58% fair.",
+      "empfohlener_einsatz_prozent": 1.0,
       "rang": 5
     },
     {
-      "ref": "bet-elc-2",
-      "spiel": "Real Betis vs Elche",
-      "markt": "Antony Torschuetze Jederzeit",
+      "id": "et-6",
+      "spiel": "Real Betis Balompie - Elche CF",
+      "spiel_id": "2026-05-12-bet-elc",
       "kategorie": "value",
-      "quote": 2.4,
-      "einsatz_euro": 8.25,
-      "begruendung": "FORM-EDGE: Antony zuletzt vs Sociedad getroffen + Stammplatz Heim-Favorit-Spiel. Markt-Goldgrube Torschuetzen Jederzeit. Backup-Schutz Lo Celso/Hernandez.",
-      "empfohlener_einsatz_prozent": 1.5,
+      "markt": "Ueber 1.5 Tore",
+      "quote": 1.32,
+      "einsatz_euro": 5.5,
+      "kurz_begruendung": "Markt-Goldgrube Ueber 1.5 (83.3%/+31.7% ROI). Betis-Heim-Form + druckloses Elche-Auswaerts, 1.5-Schwelle deutlich unter Mai-Mittel 1.88 -> Saisonende-Flaute-Lesson kaum relevant.",
+      "empfohlener_einsatz_prozent": 1.0,
       "rang": 6
     },
     {
-      "ref": "osa-atm-1",
-      "spiel": "Osasuna vs Atletico Madrid",
-      "markt": "Ademola Lookman Torschuetze Jederzeit",
+      "id": "et-7",
+      "spiel": "RC Celta de Vigo - Levante UD",
+      "spiel_id": "2026-05-12-cel-lev",
       "kategorie": "value",
-      "quote": 2.6,
-      "einsatz_euro": 8.25,
-      "begruendung": "STAR-AUSFALL-BACKUP-PFLICHT: Alvarez out, Lookman rueckt vor in Startelf. Goldgrube-Markt. Aufstellung 1h vor Anstoss bei bet365 verifizieren (Lesson 11.05. Vinicius-Falle).",
-      "empfohlener_einsatz_prozent": 1.5,
+      "markt": "Beide Teams treffen (BTTS Ja)",
+      "quote": 1.7,
+      "einsatz_euro": 5.5,
+      "kurz_begruendung": "Beide treffen plausibel: Celta-Heim + Borja-Lauf, Levante 3 Tore vs Osasuna zuletzt (Klassenerhalt-Drang). Eleganter als Ueber 2.5 wegen Saisonende-Flaute-Lesson 12.05.",
+      "empfohlener_einsatz_prozent": 1.0,
       "rang": 7
     },
     {
-      "ref": "cel-lev-3",
-      "spiel": "Celta Vigo vs Levante",
-      "markt": "Beide Teams treffen (BTTS) Ja",
+      "id": "et-8",
+      "spiel": "RC Celta de Vigo - Levante UD",
+      "spiel_id": "2026-05-12-cel-lev",
       "kategorie": "wackel",
-      "quote": 1.7,
+      "markt": "RC Celta de Vigo Sieg",
+      "quote": 1.84,
       "einsatz_euro": 2.75,
-      "begruendung": "Levante Klassenerhalt-Druck → muss offensiv spielen. Celta-Form. ABER LaLiga-Saisonende-Tor-Flaute → wackel.",
+      "kurz_begruendung": "Heim-Form-Edge + Europa-Druck, aber Lesson 11.05./12.05. Saisonende-Sieg-Cluster max wackel + Drehungs-Risiko 12.05.",
       "empfohlener_einsatz_prozent": 0.5,
       "rang": 8
     },
     {
-      "ref": "osa-atm-3",
-      "spiel": "Osasuna vs Atletico Madrid",
-      "markt": "Osasuna oder Unentschieden (Doppelte Chance 1X)",
+      "id": "et-9",
+      "spiel": "Real Betis Balompie - Elche CF",
+      "spiel_id": "2026-05-12-bet-elc",
       "kategorie": "wackel",
-      "quote": 1.48,
+      "markt": "Real Betis Sieg",
+      "quote": 1.62,
       "einsatz_euro": 2.75,
-      "begruendung": "Coinflip mit leichter Heim-Edge (Osasuna 1 Niederlage in letzten 11 Heim, Atletico ohne Alvarez). Coinflip-Regel = kein SAFE/VALUE → wackel.",
+      "kurz_begruendung": "Klassen-Edge + Europa-Druck + frische Mannschaft, aber Lesson 11.05./12.05. Saisonende-Sieg-Cluster max wackel + Drehungs-Cluster Mai.",
       "empfohlener_einsatz_prozent": 0.5,
       "rang": 9
     },
     {
-      "ref": "bet-elc-3",
-      "spiel": "Real Betis vs Elche",
-      "markt": "Ezzalzouli Torschuetze Jederzeit",
+      "id": "et-10",
+      "spiel": "CA Osasuna - Atletico Madrid",
+      "spiel_id": "2026-05-12-osa-atm",
       "kategorie": "wackel",
-      "quote": 2.7,
+      "markt": "CA Osasuna Sieg",
+      "quote": 2.6,
       "einsatz_euro": 2.75,
-      "begruendung": "Topscorer Betis-Saison (4 Tore) + zuletzt getroffen. Wackel weil Antony schon als primaerer Torschuetzen-Tipp (Korrelations-Risiko intra-Spiel).",
+      "kurz_begruendung": "Underdog-Pick'em mit HR22-Implosions-Edge + Atletico-Form-Krise, aber Drehungs-Risiko (Atletico nominal Klasse-Edge bei Rueckkehr-Auftrieb).",
       "empfohlener_einsatz_prozent": 0.5,
       "rang": 10
+    },
+    {
+      "id": "et-11",
+      "spiel": "San Antonio Spurs - Minnesota Timberwolves",
+      "spiel_id": "2026-05-13-sas-min",
+      "kategorie": "wackel",
+      "markt": "San Antonio Spurs Sieg (Moneyline)",
+      "quote": 1.25,
+      "einsatz_euro": 2.75,
+      "kurz_begruendung": "Quote nominal SAFE, aber NBA-Playoff-nie-SAFE + Decider-Filter G5 max wackel + Heimvorteil bisher 4/4 (Wolves-Reaktions-Spike-Auswaerts moeglich) + Fox-Lineup-Risiko.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 11
+    },
+    {
+      "id": "et-12",
+      "spiel": "San Antonio Spurs - Minnesota Timberwolves",
+      "spiel_id": "2026-05-13-sas-min",
+      "kategorie": "wackel",
+      "markt": "Ueber 218.5 Punkte",
+      "quote": 1.91,
+      "einsatz_euro": 2.75,
+      "kurz_begruendung": "G4 223 Total (ueber Linie), Spurs Heim + beide Stars (Wemby/Edwards) intakt = Tempo-Potenzial. Decider-Defense-Adjustment-Risiko aber Markt-Standard-Linie sauber.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 12
     }
   ],
   "kombis": [
     {
       "id": "kombi-safe",
-      "name": "Safe-Kombi LaLiga-Triple",
+      "name": "Safe ~3.9x",
       "kategorie": "safe",
       "einsatz_euro": 11.0,
-      "gesamtquote": 2.95,
+      "moeglicher_gewinn_euro": 43.45,
       "beine": [
         {
-          "ref": "bet-elc-4",
-          "markt": "Real Betis vs Elche: Mehr als 1.5 Tore",
-          "quote": 1.28,
-          "spiel_titel": "Real Betis vs Elche"
+          "spiel_id": "2026-05-12-bet-elc",
+          "markt": "Real Betis Balompie - Elche CF: Ueber 1.5 Tore",
+          "quote": 1.32,
+          "begruendung": "Markt-Goldgrube Ueber 1.5 (83.3%/+31.7% ROI) - SAFE-Label OK weil Markt-Goldgrube unabhaengig von Liga-Goldgrube. Betis-Heim + druckloses Elche. KEIN Sieg-Outcome.",
+          "spiel_titel": "Real Betis Balompie - Elche CF"
         },
         {
-          "ref": "cel-lev-2",
-          "markt": "Celta Vigo vs Levante: Celta DC 1X",
-          "quote": 1.18,
-          "spiel_titel": "Celta Vigo vs Levante"
+          "spiel_id": "2026-05-12-osa-atm",
+          "markt": "CA Osasuna - Atletico Madrid: Osasuna oder Remis (DC 1X)",
+          "quote": 1.48,
+          "begruendung": "Goldgrube DC 1X (82.4%/+4.9% ROI). HR22 Atletico-Implosions-Setup + Osasuna-Heim-Edge El Sadar + Markt-Pick'em-Quoten.",
+          "spiel_titel": "CA Osasuna - Atletico Madrid"
         },
         {
-          "ref": "osa-atm-2",
-          "markt": "Osasuna vs Atletico Madrid: Unter 2.5 Tore",
-          "quote": 1.95,
-          "spiel_titel": "Osasuna vs Atletico Madrid"
+          "spiel_id": "2026-05-12-cel-lev",
+          "markt": "RC Celta de Vigo - Levante UD: Borja Iglesias trifft (Torschuetze jederzeit)",
+          "quote": 2.0,
+          "begruendung": "HR24 (a) Form-Edge (3 in Folge) + Backup-Tandem Aspas/Jutgla. Goldgrube Torschuetzen Jederzeit. Konservativere Quote 2.00 (vs Einzeltipp 2.40) als Kombi-Aggregator-Konsens.",
+          "spiel_titel": "RC Celta de Vigo - Levante UD"
         }
       ],
-      "begruendung": "3 Beine, 3 LaLiga-Spiele unique (Layer-1 OK). Mix aus Goldgrube-Markt (Ueber 1.5 + DC 1X) und Saisonende-Tor-Flaute-Trade (Unter 2.5 in Coinflip-Spiel). KEIN Sieg-Outcome → Layer-2 OK. Korrelations-Check: 1 Ueber + 1 DC + 1 Unter in 3 verschiedenen Spielen = sauberer Mix. Risiko: alle 3 LaLiga MD36 → bei generellem Saisonende-Tor-Crash leiden Ueber 1.5 + Unter 2.5 gegenteilig. Theoretisch 2.95 = 33.9% impliziert, fair-Schaetzung 38-42%.",
+      "layer_check": "Layer-1 OK (3 verschiedene Spiele BET-ELC, OSA-ATM, CEL-LEV), Layer-2 OK (1 Sieg-Outcome DC + 1 Total + 1 Spielertor - HR17 erfuellt max 2 Sieg-Beine). Layer-3 in Safe-Kombi OK (3 verschiedene Spiele).",
+      "gesamtquote": 3.91,
+      "rechnung": "1.32 x 1.48 x 2.00 = 3.91",
       "empfohlener_einsatz_prozent": 2.0
     },
     {
       "id": "kombi-balance",
-      "name": "Balance-Kombi Sieg + Tor + NBA-Total",
+      "name": "Balance ~7.6x",
       "kategorie": "balance",
       "einsatz_euro": 4.4,
-      "gesamtquote": 7.5,
+      "moeglicher_gewinn_euro": 33.6,
       "beine": [
         {
-          "ref": "bet-elc-1",
-          "markt": "Real Betis vs Elche: Real Betis Sieg",
-          "quote": 1.57,
-          "spiel_titel": "Real Betis vs Elche"
+          "spiel_id": "2026-05-12-cel-lev",
+          "markt": "RC Celta de Vigo - Levante UD: Beide Teams treffen (BTTS Ja)",
+          "quote": 1.7,
+          "begruendung": "BTTS bei beidseitiger Tor-Form (Celta-Heim-Form, Levante 3 Tore vs Osasuna). KEIN Sieg-Outcome, Markt-entkoppelt zu Safe-Bein (Borja-Tor) im selben Spiel.",
+          "spiel_titel": "RC Celta de Vigo - Levante UD"
         },
         {
-          "ref": "cel-lev-1",
-          "markt": "Celta Vigo vs Levante: Borja Iglesias Torschuetze Jederzeit",
-          "quote": 2.5,
-          "spiel_titel": "Celta Vigo vs Levante"
+          "spiel_id": "2026-05-12-osa-atm",
+          "markt": "CA Osasuna - Atletico Madrid: Ante Budimir trifft (Torschuetze jederzeit)",
+          "quote": 2.35,
+          "begruendung": "HR24 (c) Stamm-Volumen-9er + Atletico-Defense-Lazarett (Gimenez OUT). Goldgrube Torschuetzen Jederzeit. Spielertor-Markt entkoppelt zu Safe-Bein (Osasuna-DC-1X) im selben Spiel.",
+          "spiel_titel": "CA Osasuna - Atletico Madrid"
         },
         {
-          "ref": "sas-min-2",
-          "markt": "Spurs vs Wolves G5: Mehr als 218.5 Punkte",
+          "spiel_id": "2026-05-13-sas-min",
+          "markt": "San Antonio Spurs - Minnesota Timberwolves: Ueber 218.5 Punkte",
           "quote": 1.91,
-          "spiel_titel": "Spurs vs Wolves G5"
+          "begruendung": "Total-Bein NBA-Decider: G4 223 Total (ueber Linie) + beide Stars intakt = Tempo-Potenzial. KEIN Sieg-Outcome.",
+          "spiel_titel": "San Antonio Spurs - Minnesota Timberwolves"
         }
       ],
-      "begruendung": "3 Beine, 3 Spiele unique (Layer-1 OK). 1 Sieg-Outcome (Betis) + 1 Goldgrube-Torschuetze (Iglesias, Form-Edge) + 1 NBA-Total. Layer-2: Betis-Sieg ist Sieg-Outcome → nur in dieser Kombi. Korrelations-Check: Iglesias + Betis-Sieg unabhaengige Spiele. Spurs-Total parallel zu LaLiga = unabhaengig. Theoretisch 7.5 = 13.3% impliziert, fair-Schaetzung 17-20% (Heim-Favorit + Form-Edge + G5-Heim-Vorteil).",
+      "layer_check": "Layer-1 OK (3 verschiedene Spiele CEL-LEV, OSA-ATM, SAS-MIN), Layer-2 OK (KEIN Sieg-Outcome in Balance - BTTS + Spielertor + Total). Layer-3 cross-check Safe-Kombi: CEL-LEV-Bein Safe=Borja-Tor (Spielertor) vs Balance=BTTS (Tor-Markt entkoppelt); OSA-ATM-Bein Safe=DC-1X (Sieg-Outcome) vs Balance=Budimir-Tor (Spielertor entkoppelt). Markt-Diversifikation OK.",
+      "gesamtquote": 7.63,
+      "rechnung": "1.70 x 2.35 x 1.91 = 7.63",
       "empfohlener_einsatz_prozent": 0.8
     },
     {
       "id": "kombi-risiko",
-      "name": "Risiko-Kombi Torschuetzen-Mix + BTTS + NBA",
+      "name": "Risiko ~22.5x",
       "kategorie": "risk",
       "einsatz_euro": 1.4,
-      "gesamtquote": 20.27,
+      "moeglicher_gewinn_euro": 31.5,
       "beine": [
         {
-          "ref": "bet-elc-2",
-          "markt": "Real Betis vs Elche: Antony Torschuetze Jederzeit",
-          "quote": 2.4,
-          "spiel_titel": "Real Betis vs Elche"
+          "spiel_id": "2026-05-12-cel-lev",
+          "markt": "RC Celta de Vigo - Levante UD: Ueber 2.5 Tore",
+          "quote": 1.8,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 mit Saisonende-Flaute-Downgrade (Lesson 12.05.) - bewusst als Risiko-Bein statt VALUE. Korrelations-Stuetze zur Balance-BTTS und Safe-Borja-Tor (gleiches Spiel, Markt-Klumpung mit Tor-Markt-Profil).",
+          "spiel_titel": "RC Celta de Vigo - Levante UD"
         },
         {
-          "ref": "cel-lev-3",
-          "markt": "Celta Vigo vs Levante: BTTS Ja",
-          "quote": 1.7,
-          "spiel_titel": "Celta Vigo vs Levante"
+          "spiel_id": "2026-05-12-bet-elc",
+          "markt": "Real Betis Balompie - Elche CF: Cucho Hernandez erster Torschuetze",
+          "quote": 2.55,
+          "begruendung": "HR24 (b) Backup-Stuermer-First-Goalscorer-Profil (Cucho DIREKTER Ersatz J.Hernandez). First-Quote 2.55 spiegelt Spielzeit-Risiko (Bench-Start).",
+          "spiel_titel": "Real Betis Balompie - Elche CF"
         },
         {
-          "ref": "osa-atm-1",
-          "markt": "Osasuna vs Atletico Madrid: Lookman Torschuetze Jederzeit",
-          "quote": 2.6,
-          "spiel_titel": "Osasuna vs Atletico Madrid"
-        },
-        {
-          "ref": "sas-min-2",
-          "markt": "Spurs vs Wolves G5: Mehr als 218.5 Punkte",
-          "quote": 1.91,
-          "spiel_titel": "Spurs vs Wolves G5"
+          "spiel_id": "2026-05-12-osa-atm",
+          "markt": "CA Osasuna - Atletico Madrid: Alexander Soerloth trifft (Torschuetze jederzeit)",
+          "quote": 4.9,
+          "begruendung": "HR24 (b/c) Atletico-Sturm-Tandem ohne Backup-Konkurrenz (J.Alvarez OUT). Anytime-Quote 4.90 reflektiert Form-Krise. Anti-These zur Safe-Osasuna-DC-1X (Atletico-Sturm-Bein als Hedge im Risiko-Profil).",
+          "spiel_titel": "CA Osasuna - Atletico Madrid"
         }
       ],
-      "begruendung": "4 Beine, 4 Spiele unique (Layer-1 OK). 2 Torschuetzen-Beine (Antony, Lookman) + 1 BTTS + 1 NBA-Total — sauberer Markt-Mix, kein 3-Tor-Stack (HR23 OK). Layer-2: keine Sieg-Outcomes. Layer-3 Star-OUT-Hinweis: Osasuna-Atletico ist Star-OUT-Spiel (Alvarez) — osa-atm-Bein auch in Safe-Kombi → 2 Kombis tangiert. Bewusst akzeptiert, weil unterschiedliche Markt-Beine (Unter 2.5 vs Lookman Torschuetze) = anti-korreliert. Theoretisch 20.27 = 4.9% impliziert, fair-Schaetzung 7-9%.",
+      "layer_check": "Layer-1 OK (3 verschiedene Spiele CEL-LEV, BET-ELC, OSA-ATM), Layer-2 OK (KEIN Sieg-Outcome - Total + 2 Spielertor). Layer-3 cross-check: CEL-LEV (Safe=Borja-Tor + Balance=BTTS + Risiko=Ueber2.5 = 3 entkoppelte Markttypen Spielertor/BTTS/Total - HR23 Markt-Diversifikation ausgenutzt); BET-ELC (Safe=Ueber1.5-Total + Risiko=Cucho-First = Total vs Spielertor entkoppelt); OSA-ATM (Safe=DC-1X + Balance=Budimir-Tor + Risiko=Soerloth-Tor = Sieg-Outcome + 2 verschiedene Spielertor-Tipps). HR23 Spielertor-Stack-Korrelation: 2 LaLiga-Stuermer-Tipps + 1 Goldgrube-Total, beide Stuermer aus stabilen Profilen (Cucho-Boost-Profil, Soerloth-Tandem) - OK.",
+      "gesamtquote": 22.49,
+      "rechnung": "1.80 x 2.55 x 4.90 = 22.49",
       "empfohlener_einsatz_prozent": 0.25
     },
     {
       "id": "kombi-moonshot",
-      "name": "Moonshot Drei-Torschuetzen-Stack + NBA",
+      "name": "Moonshot ~119x",
       "kategorie": "moonshot",
       "einsatz_euro": 0.55,
-      "gesamtquote": 29.79,
+      "moeglicher_gewinn_euro": 65.45,
       "beine": [
         {
-          "ref": "bet-elc-2",
-          "markt": "Real Betis vs Elche: Antony Torschuetze Jederzeit",
-          "quote": 2.4,
-          "spiel_titel": "Real Betis vs Elche"
+          "spiel_id": "2026-05-12-cel-lev",
+          "markt": "RC Celta de Vigo - Levante UD: Levante UD Sieg",
+          "quote": 4.1,
+          "begruendung": "Lotterie: Klassenerhalt-Existenz-Pflicht + 3:2-Form-Boost vs Osasuna. Lesson 03.05. Underdog-Saisonziel-Welle bedingt anwendbar. Markt-Skepsis bei +310 (7 Niederlagen in 10 Auswaerts).",
+          "spiel_titel": "RC Celta de Vigo - Levante UD"
         },
         {
-          "ref": "cel-lev-1",
-          "markt": "Celta Vigo vs Levante: Borja Iglesias Torschuetze Jederzeit",
-          "quote": 2.5,
-          "spiel_titel": "Celta Vigo vs Levante"
+          "spiel_id": "2026-05-12-bet-elc",
+          "markt": "Real Betis Balompie - Elche CF: Andre Silva trifft (Torschuetze jederzeit)",
+          "quote": 7.0,
+          "begruendung": "Hohe Quote 7.00 (+600) bei Elche-Auswaerts-Tor-Krise. Andre Silva erfahrener Stuermer als Pure-Streuungs-Bein.",
+          "spiel_titel": "Real Betis Balompie - Elche CF"
         },
         {
-          "ref": "osa-atm-1",
-          "markt": "Osasuna vs Atletico Madrid: Lookman Torschuetze Jederzeit",
-          "quote": 2.6,
-          "spiel_titel": "Osasuna vs Atletico Madrid"
-        },
-        {
-          "ref": "sas-min-2",
-          "markt": "Spurs vs Wolves G5: Mehr als 218.5 Punkte",
-          "quote": 1.91,
-          "spiel_titel": "Spurs vs Wolves G5"
+          "spiel_id": "2026-05-13-sas-min",
+          "markt": "San Antonio Spurs - Minnesota Timberwolves: Minnesota Timberwolves Sieg (Moneyline)",
+          "quote": 4.15,
+          "begruendung": "Underdog-Auswaerts-Steal in G5: Edwards-Form (36 Pkt G4) + Wolves-G3-G4-Aufwind + Wembanyama-Ejection-Frust-Risiko. NBA-Decider-Varianz.",
+          "spiel_titel": "San Antonio Spurs - Minnesota Timberwolves"
         }
       ],
-      "begruendung": "4 Beine, 4 Spiele unique (Layer-1 OK). 3-Torschuetzen-Stack (Antony+Iglesias+Lookman) ist HR23-Warnung — bewusst Moonshot/Spass-Einsatz 0.55€. Alle Tipps sind individuell Goldgrube-Markt Torschuetzen Jederzeit (+21% ROI). Plus Spurs-Total als 4. Bein. Theoretisch 29.79 = 3.4% impliziert, fair-Schaetzung 4-6% bei Goldgrube-Bias. Wenn 1 Tor-Bein fehlt = Kombi tot — daher Spaesseinsatz nicht Einsatz-Investition.",
+      "layer_check": "Layer-1 OK (3 verschiedene Spiele CEL-LEV, BET-ELC, SAS-MIN), Layer-2 OK: CEL-LEV-Sieg-Outcome NUR in Moonshot (Levante-Sieg) - Safe=Borja-Tor (Spielertor), Balance=BTTS (Tor-Markt), Risiko=Ueber 2.5 (Total) sind keine Sieg-Outcomes. BET-ELC-Sieg-Outcome NUR in Safe (Ueber-1.5 ist Total nicht Sieg-Outcome!) - wait: Safe-Bein ist Ueber 1.5 (Total) + Risiko=Cucho-First (Spielertor) + Moonshot=A.Silva-Tor (Spielertor). KEIN Sieg-Outcome in BET-ELC in keiner Kombi. SAS-MIN-Sieg-Outcome NUR in Moonshot (Wolves-ML) - Balance=Ueber 218.5 (Total). Layer-3 cross-check: CEL-LEV (4 Beine ueber Kombis - Klumpungs-WARN, Markt-entkoppelt), BET-ELC (3 Beine: Total + 2x Spielertor verschiedene Spieler), SAS-MIN (2 Beine: Total + Sieg-Outcome).",
+      "gesamtquote": 119.1,
+      "rechnung": "4.10 x 7.00 x 4.15 = 119.10",
       "empfohlener_einsatz_prozent": 0.1
     }
   ],
   "lessons_angewandt": [
     {
-      "lesson": "DC-Cap 1/Spiel + max 2-3 DC im Dossier (Anti-DC-Sucht Hebel M)",
-      "anwendung": "Heute 2 DCs gesamt (Celta DC 1X + Osasuna DC 1X) - im Limit. Pro Spiel max 1 DC. Markt-Mix vorhanden (Torschuetzen + Sieg + Tor-Total + BTTS + DC)."
+      "id": "lesson-12.05-laliga-saisonende-tor-flaute",
+      "anwendung": "Lesson 12.05. LaLiga-Saisonende-Tor-Flaute (Mai-Mittel 1.88 Tore/Spiel, Rayo-Girona 1:1 Negativ-Beleg): Ueber-2.5-Tipps Celta-Levante (1.80) auf wackel statt Goldgrube-VALUE degradiert. Stattdessen BTTS-JA (1.70) als saubererer Tor-Markt mit niedrigerer Schwelle in Balance-Kombi. Plus Ueber 1.5 (1.32) bei Betis-Elche als SAFE-Bein (1.5-Schwelle deutlich unter Mai-Mittel)."
     },
     {
-      "lesson": "HEIM-FAVORIT-Profil: MIN 1 Torschuetzen-Tipp Pflicht",
-      "anwendung": "Celta (1.74 Heim-Sieg): Iglesias-Torschuetze. Betis (1.57): Antony + Ezzalzouli-Torschuetzen. Beide Spiele Pflicht-Profile erfuellt."
+      "id": "lesson-12.05-coppa-schon-cluster-refinement",
+      "anwendung": "Lesson 12.05. Coppa-Italia-Final-Schon-Cluster-Korrektur: National-Pokal-Final NICHT als Schon-Modus-Indikator anwenden (Bologna spielte voll). Heute irrelevant da kein National-Pokal-Finalist in den Spielen - Logik bewusst im Kontext."
     },
     {
-      "lesson": "COINFLIP-Profil: KEIN SAFE moeglich",
-      "anwendung": "Osasuna-Atletico (Quoten 2.55/3.55/2.65 alle 2.4-3.5) = Coinflip → max VALUE (Unter 2.5) + WACKEL (DC 1X) + VALUE (Lookman als Star-Backup-Pflicht). KEIN SAFE-Tipp in diesem Spiel."
+      "id": "lesson-12.05-drehungs-cluster-top-liga-must-win",
+      "anwendung": "Lesson 12.05. Drehungs-Cluster Top-Liga-MUST-WIN: Kurzquoten-Sieg-Tipps (1.20-1.60) auf MUST-WIN-Heim-Top-Teams in Drehungs-Risiko-Zone. Angewandt auf Betis-Sieg @ 1.62 (-> max wackel), Spurs-ML @ 1.25 (-> wackel), Celta-Sieg @ 1.84 (-> wackel)."
     },
     {
-      "lesson": "STAR-AUSFALL → BACKUP-PFLICHT (Markt-Mix Regel 3)",
-      "anwendung": "Julian Alvarez OUT (Knoechel) → Lookman als Backup-Stuermer-Torschuetzen-Tipp Pflicht. Aufstellung 1h vor Anstoss bei bet365 verifizieren (Lesson 11.05. Vinicius-Bank-Annahme-Falle)."
+      "id": "lesson-12.05-korrelations-cluster-coinflip-saisonende",
+      "anwendung": "Lesson 12.05. Korrelations-Cluster Coinflip-Saisonende-LaLiga: max 1 Bein pro Kombi aus Saisonende-LaLiga-Coinflip-Spielen. Bei 3 LaLiga-Spielen heute kombi-spezifisch durchgesetzt: Safe-Kombi nimmt Ueber-1.5 Markt-Goldgrube (sauberer Tor-Markt) + 2 DC-1X (eindeutige Edges Betis-Top-5/Osasuna-HR22) + 1 Spielertor."
     },
     {
-      "lesson": "FORM-EDGE → TORSCHUETZEN PFLICHT bei Favorit",
-      "anwendung": "Iglesias 3 Spiele in Folge getroffen → Pflicht-Tipp. Antony 1 in 1 jüngst → solider VALUE. Lookman als Backup mit Form-Annahme."
+      "id": "lesson-hr22-star-out-implosions",
+      "anwendung": "HR22 Star-OUT-Aufhol-Pflicht-Implosion: Atletico Madrid mit 7 Stamm-OUT + Baena gesperrt + 0:1 Heim gegen Celta am 09.05. -> KEIN Atletico-Sieg-VALUE/SAFE. Stattdessen Osasuna-DC-1X als VALUE (Pick'em-Markt-Quoten +160/+160 reflektiert das schon). Osasuna-Sieg @ 2.60 nur wackel (Drehungs-Risiko). Soerloth-Tor als Risiko-Bein (Tandem ohne Konkurrenz)."
     },
     {
-      "lesson": "GOLDGRUBE-LIGA-DC-FALLE (Hebel C): LaLiga NICHT Liga-Goldgrube",
-      "anwendung": "SAFE-DC waere downgegradet auf VALUE → praeventiv ALLE DCs als VALUE/WACKEL gesetzt. SAFE nur bei Markt-Goldgrube (Ueber 1.5 Tore Betis-Elche, weil Markt-Goldgrube unabhaengig von Liga)."
+      "id": "lesson-04.05-mapper-hebel-c-laliga-not-goldgrube",
+      "anwendung": "Mapper-Hebel C: LaLiga NICHT in liga_goldgruben.json -> SAFE-DC-Tipps werden ohnehin auf VALUE downgegradet. Betis-DC-1X (1.23) und Osasuna-DC-1X (1.48) direkt als VALUE statt SAFE konstruiert. Ausnahme im Safe-Kombi: Ueber 1.5 (Markt-Goldgrube) bleibt SAFE-Bein unabhaengig von Liga."
     },
     {
-      "lesson": "NBA-PLAYOFFS-VERBOT: Player-Punkte komplett raus (seit 26.04.)",
-      "anwendung": "Spurs-Wolves G5: KEINE Player-Punkte-Tipps. Nur Sieg/Total. Beide als WACKEL kategorisiert (G5 Pivot-Spiel + Spread > 8 + Fox fraglich + Lesson HR18 G2-Spike-Eingrenzung)."
+      "id": "lesson-mapper-hebel-b-nba-nie-safe",
+      "anwendung": "NBA-Playoffs nie SAFE + NBA-Playoff-Decider-Filter G5 max wackel: Spurs-ML @ 1.25 trotz nominal-SAFE-Range max wackel + Ueber 218.5 @ 1.91 als wackel. Wolves-ML @ 4.15 als Risiko-Bein im Moonshot. KEINE Player-Punkte-Einzeltipps (HR16-Boykott -7.8% ROI)."
     },
     {
-      "lesson": "SAISONENDE-TOR-FLAUTE LaLiga (Lesson 10./12.05.)",
-      "anwendung": "Mai-Mittel LaLiga 1.88 Tore/Spiel → Ueber 2.5 nur als MOONSHOT (cel-lev-4). Ueber 1.5 in Betis-Spiel (Heimstaerke + Form) als SAFE-Goldgrube. Unter 2.5 in Coinflip-Spiel als VALUE."
+      "id": "lesson-04.05-hr24-form-edge-pflicht-torschuetzen",
+      "anwendung": "HR24 Form-Edge fuer Spielertor-Tipps: Borja Iglesias HR24 (a) 3 in Folge getroffen + (c) Backup Aspas/Jutgla. Budimir HR24 (c) Stamm-9er + Defense-Krise-Trigger. Cucho HR24 (b) Backup-Stuermer-Profil. Soerloth HR24 (b/c) Tandem ohne Konkurrenz."
     },
     {
-      "lesson": "LAYER-1 max 1 Bein pro Spiel pro Kombi, LAYER-2 Sieg-Outcome max 1 Kombi",
-      "anwendung": "Alle 4 Kombis: 3-4 verschiedene Spiele pro Kombi (Layer-1 OK). Betis-Sieg nur in Balance-Kombi (Layer-2 OK). Celta-DC nur in Safe-Kombi. Osasuna-DC nur in Einzel-Tipps."
+      "id": "lesson-09.05-einwechslungs-boost-praezisierung",
+      "anwendung": "HR3+HR12 Einwechslungs-Boost zaehlt NUR direkter Ersatz: Borja-Begruendung erwaehnt Aspas/Jutgla als Tandem-Partner (direkter Ersatz auf ST/LF), Cucho-Begruendung erwaehnt Cucho als DIREKTER Ersatz fuer J.Hernandez auf ST-Position, Soerloth-Tandem mit Lookman ohne Backup-Konkurrenz. Edouard-Boost-Falle (Mezian-Mesloub) vermieden."
     },
     {
-      "lesson": "HR23 Layer-3 Star-OUT-Diversifikation",
-      "anwendung": "Osasuna-Atletico ist Star-OUT-Spiel (Alvarez). osa-atm-Beine in Kombi 1 (Unter 2.5) + Kombi 3 (Lookman) + Kombi 4 (Lookman) — Layer-3-Hinweis tangiert, aber anti-korrelierte Markt-Beine (Unter vs Lookman-Tor)."
+      "id": "lesson-03.05-underdog-saisonziel-welle",
+      "anwendung": "Underdog-Saisonziel-Welle (Lesson 03.05.): bedingt anwendbar. (1) Celta-Levante: Levante mit Existenz-Druck aber Celta hat eigene Europa-Motivation - Levante-Sieg nur Moonshot. (2) Osasuna-Atletico: Osasuna ohne klares Saisonziel mehr - Pattern bedingt, Heim-Edge bleibt. (3) Betis-Elche: Pattern UMGEKEHRT - Betis ist motivierter Saisonziel-Heim-Favorit."
     },
     {
-      "lesson": "HR23 Korrelations-Falle: 3-Torschuetzen-Stack",
-      "anwendung": "Moonshot-Kombi (Antony+Iglesias+Lookman) = bewusst 3-Tor-Stack mit Spass-Einsatz 0.55€. Risiko-Kombi NICHT 3-Stack (Antony + 1 BTTS + 1 Lookman + 1 NBA-Total = sauberer Mix)."
+      "id": "lesson-10.05-korrelations-crash-diversifikation",
+      "anwendung": "Lesson 10.05. Korrelations-Crash (max 2 Beine aus derselben Edge-Quelle): Kombis ueber 4 heterogene Edge-Quellen gespreizt: Safe = Markt-Goldgrube-Total + Goldgrube-DC + Form-Edge-Spielertor, Balance = Tor-Markt-Mix BTTS/Spielertor/NBA-Total, Risiko = Spielertor-Stack + Total-Anti, Moonshot = Underdog-Sieg + Spielertor-Streuung + NBA-Underdog."
     },
     {
-      "lesson": "BEOBACHTUNGS-LIGA-Filter (Stand 12.05.)",
-      "anwendung": "Serie A + NBA Playoffs Round 1 G6 + 2. Bundesliga sind Beobachtungs-Ligen. Keine Spiele heute aus diesen Ligen tangiert: LaLiga + NBA R2 G5 = beide unaffected. Wolves-Spurs ist NBA R2 G5 (nicht R1G6)."
+      "id": "lesson-08.05-hr23-layer-3-diversifikation",
+      "anwendung": "HR23 Layer-3: pro Spiel max 1 Bein wo moeglich. Bei 4 Spielen + 12 Kombi-Beinen unvermeidlich 2-4 Beine pro Spiel. Markt-entkoppelt durchgesetzt: CEL-LEV (4 Beine: Spielertor/BTTS/Total/Sieg-Outcome - alle Markt-entkoppelt), BET-ELC (3 Beine: Total/2x Spielertor verschiedene Spieler), OSA-ATM (3 Beine: Sieg-Outcome/2x Spielertor verschiedene Spieler), SAS-MIN (2 Beine: Total/Sieg-Outcome)."
     },
     {
-      "lesson": "QUOTEN-VERIFIKATION PFLICHT bei bet365 (Lesson 26.04.)",
-      "anwendung": "Alle Quoten aus Sportsgambler/MightyTips/Dailysports — bitte vor Tipp-Abgabe bei bet365 DE live verifizieren (Quoten koennen sich aendern)."
+      "id": "lesson-10.05-pre-match-aufstellungs-1h",
+      "anwendung": "Pre-Match-Aufstellungs-Verifikation 1-2h vor Anstoss bei Quoten <2.50: Borja-Iglesias-Tipp @ 2.40 grenzwertig, Budimir @ 2.35 grenzwertig, Cucho @ 2.55 grenzwertig - bei bet365 live + Tribuene-Aufstellung pruefen vor Setzen. Fox-Status NBA G5 (Knoechel) ebenfalls 30-60 Min vor Tipoff verifizieren."
+    },
+    {
+      "id": "lesson-11.05-bl-pl-saisonende-sieg-cluster",
+      "anwendung": "Lesson 11.05. BL-/PL-Saisonende-Sieg-Cluster max wackel: Heim-Favorit-Sieg-Tipps Celta @ 1.84 + Betis @ 1.62 + Osasuna @ 2.60 alle als wackel statt VALUE/SAFE konstruiert. Saisonende-Filter aktiv."
     }
   ],
-  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
+  "footer": "18+ - bet365 DE - Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool, keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-05-12T17:30:00+02:00",
+    "drops": [],
+    "downgrades": [
+      {
+        "tipp_id": "cel-lev-3",
+        "alt": "value",
+        "neu": "wackel",
+        "grund": "Lesson 11.05./12.05. Saisonende-Heim-Sieg-Cluster + Drehungs-Cluster Top-Liga-MUST-WIN max wackel - Heim-Quote 1.84 wuerde VALUE rechtfertigen."
+      },
+      {
+        "tipp_id": "bet-elc-3",
+        "alt": "safe",
+        "neu": "wackel",
+        "grund": "Mapper-Hebel C (LaLiga nicht Liga-Goldgrube) plus Saisonende-Heim-Sieg-Cluster max wackel - Quote 1.62 nominal SAFE-Range, Lesson-Downgrade."
+      },
+      {
+        "tipp_id": "sas-min-1",
+        "alt": "safe",
+        "neu": "wackel",
+        "grund": "NBA-Playoffs nie SAFE (Mapper-Hebel B) + Decider G5 max wackel (NBA-Playoff-Decider-Filter)."
+      },
+      {
+        "tipp_id": "cel-lev-4",
+        "alt": "value",
+        "neu": "wackel",
+        "grund": "Lesson 12.05. LaLiga-Saisonende-Tor-Flaute: Ueber 2.5 Markt-Goldgrube durch Liga-Saisonphasen-Filter degradiert."
+      }
+    ],
+    "warns": [
+      {
+        "art": "quoten_naeherung",
+        "tipp_id": "osa-atm-1",
+        "details": "Osasuna DC 1X Quote 1.48 nicht in Recherche-bet365_naeherung explizit ausgewiesen - aus Sieg-Heim 2.60 + Draw 3.50 berechnet (1/0.6703 ~1.49 mit Bookmaker-Marge marginal -1%). Bei bet365 live pruefen."
+      },
+      {
+        "art": "quoten_naeherung",
+        "tipp_id": "cel-lev-1",
+        "details": "Borja Iglesias Anytime-Quote 2.40 nicht in Recherche-Quoten-Block explizit ausgewiesen (Recherche listet Torschuetzen-Spieler ohne Quote). Quote 2.40 als typischer Anytime-Wert fuer Form-Top-Volumen-9er angenommen. Bei bet365 live pruefen."
+      },
+      {
+        "art": "quoten_naeherung",
+        "tipp_id": "bet-elc-2",
+        "details": "Betis Ueber 1.5 Quote 1.32 nicht in Recherche-Quoten-Block explizit (Recherche listet Ueber 2.5 @ 1.66). Quote 1.32 als typische Markt-Naeherung fuer Ueber 1.5 bei Heim-Favorit (1.5 deutlich unter 2.5-Schwelle) angenommen. Bei bet365 live pruefen.",
+        "tipp_id_zusatz": "Auch im Safe-Kombi-Bein."
+      },
+      {
+        "art": "quoten_naeherung",
+        "tipp_id": "sas-min-2",
+        "details": "NBA-Total 218.5 Ueber-Quote 1.91 nicht in Recherche ausgewiesen (ueber_total_quote=null). Standard-Fair-Quote 1.91 angenommen (US-Standard -110). Bei bet365 live pruefen."
+      },
+      {
+        "art": "layer_3_klumpung",
+        "spiel_id": "2026-05-12-cel-lev",
+        "details": "CEL-LEV in 4 Kombis (Safe Borja-Tor + Balance BTTS + Risiko Ueber 2.5 + Moonshot Levante-Sieg) = 4 Beine. Layer-3-Hardregel max 1 Bein/Spiel waere ideal, bei 4 Spielen + 12 Kombi-Beinen unvermeidlich. Markt-entkoppelt (Spielertor/BTTS/Total/Sieg-Outcome) gemaess HR23-Ausnahme akzeptiert. Korrelations-Cluster-Risiko (Lesson 12.05.) durch Markt-Diversifikation reduziert."
+      },
+      {
+        "art": "layer_3_klumpung",
+        "spiel_id": "2026-05-12-osa-atm",
+        "details": "OSA-ATM in 3 Kombis (Safe DC-1X + Balance Budimir-Tor + Risiko Soerloth-Tor) = 3 Beine. Markt-entkoppelt (Sieg-Outcome + 2 verschiedene Spielertor) - 2x Spielertor verschiedener Mannschaft (Budimir Osasuna, Soerloth Atletico) reduziert Korrelations-Risiko."
+      },
+      {
+        "art": "selbst_widerspruch_check",
+        "details": "Cross-Check Tipps vs saison_kontext + news: keine Widersprueche. Atletico-Lazarett konsistent in saison_kontext.motivations_asymmetrie + news + tipps osa-atm-1/-2/-3/-4 (HR22-Implosions-Profil + Pick'em-Quote-Begruendung). Wembanyama-verfuegbar-trotz-Ejection konsistent. Borja-Form-Lauf konsistent in saison_kontext + news + cel-lev-1. Saisonende-Tor-Flaute-Lesson 12.05. konsistent durchgesetzt (Ueber 2.5 wackel, Ueber 1.5 OK weil Schwelle unter Mai-Mittel, Unter 2.5 OSA-ATM als VALUE)."
+      },
+      {
+        "art": "saison_kontext_verband_quellen",
+        "details": "Pflicht-Verband-URL-Check OK: CEL-LEV = laliga.com + wikipedia LaLiga, BET-ELC = uefa.com (EL-Aus) + laliga.com + wikipedia LaLiga, OSA-ATM = uefa.com (CL-SF-Aus) + wikipedia Atletico-Madrid-Season + wikipedia Copa-del-Rey-final + wikipedia LaLiga, SAS-MIN = nba.com Playoffs + espn.com + fanduel.com. Alle Wettbewerbs-Erwaehnungen (EL-VF-Aus, CL-SF-Aus, Copa-Final-Aus, NBA-Playoffs) durch Verband-Quellen gestuetzt."
+      },
+      {
+        "art": "spieler_halluzinations_check",
+        "details": "Pro Spielertor-Tipp Recherche-Squad-Check: Borja Iglesias (Celta Squad ST, OK), Cucho Hernandez (Betis Squad ST, OK), Andre Silva (Elche Squad ST, OK), Ante Budimir (Osasuna Squad ST, OK), Alexander Soerloth (Atletico Squad ST, OK). Keine Spieler-Halluzinationen."
+      },
+      {
+        "art": "hr16_player_punkte_boykott",
+        "details": "NBA G5: HR16 Player-Punkte-Boykott aktiv (-7.8% ROI seit 26.04.). KEINE Player-Punkte-Tipps gesetzt - SAS-MIN nur ML (Spurs/Wolves) und Total (Ueber 218.5). KEIN Spread-Tipp wegen HR19 -10.5 Margen-Risiko."
+      },
+      {
+        "art": "kombi_quote_nachgerechnet",
+        "details": "Kombi-Gesamtquoten arithmetisch nachgerechnet: Safe 1.32 x 1.48 x 2.00 = 3.907 -> 3.91, Balance 1.70 x 2.35 x 1.91 = 7.632 -> 7.63, Risiko 1.80 x 2.55 x 4.90 = 22.491 -> 22.49, Moonshot 4.10 x 7.00 x 4.15 = 119.105 -> 119.10. Alle korrekt."
+      },
+      {
+        "art": "watchdog_recovery_korrektur",
+        "details": "Pre-existing Watchdog-Recovery-File (Bootstrap-Commit) hatte (a) Anstoss-Zeiten falsch (CEL-LEV 18:00 statt 19:00 / BET-ELC 19:00 statt 20:00), (b) Ezzalzouli-Anytime-Quote 2.70 widerspruechlich zur Recherche (dort First 2.80 / Anytime 6.00), (c) Lookman-Anytime-Quote 2.60 nicht in Recherche-Quoten-Block ausgewiesen. Master-Pipeline-Lauf korrigiert: Anstoss-Zeiten aus Recherche uebernommen, Ezzalzouli komplett ersetzt durch Cucho (Recherche-verifizierte Quote 2.55 First), Lookman komplett ersetzt durch Soerloth (Recherche-verifizierte Quote 4.90 Anytime)."
+      }
+    ],
+    "lessons_generiert": [],
+    "zusammenfassung": "Verifikation OK: 0 Drops (alle Spielertor-Tipps Squad-verifiziert via Recherche), 4 Downgrades (cel-lev-3 + bet-elc-3 + sas-min-1 + cel-lev-4 SAFE/VALUE -> wackel wegen Saisonende-Lessons/Mapper-Hebel/NBA-Playoff-nie-SAFE/LaLiga-Tor-Flaute), 11 Warns (4 Quoten-Naeherungen bei bet365 live pruefen, 2 Layer-3-Klumpungen bei 4-Spiele-Engpass, 1 Selbst-Widerspruch-Pass, 1 Verband-Quellen-Pass, 1 Spieler-Halluzinations-Check-Pass, 1 HR16-Boykott-Pass, 1 Kombi-Arithmetik-Pass, 1 Watchdog-Recovery-Korrektur-Hinweis). HR22 Atletico-Implosions-Profil + LaLiga-Saisonende-Filter + NBA-Decider-Filter konsistent durchgesetzt. Layer-2 sauber (kein doppeltes Sieg-Outcome pro Spiel ueber Kombis hinweg). Kombi-Gesamtquoten arithmetisch korrekt."
+  }
 }
