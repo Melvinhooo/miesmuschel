@@ -1,8 +1,15 @@
 {
-  "stand": "2026-05-11T06:19:00+00:00",
+  "stand": "2026-05-12T06:20:33+00:00",
   "kriterium": "rolling 30 Tage ROI < -30.0% bei min. 4 Tipps",
   "ausstiegs_kriterium": "rolling 30 Tage ROI > -10.0% -> Liga wieder voll bespielbar",
   "ligen": [
+    {
+      "liga": "Serie A",
+      "tipps_30d": 5,
+      "roi_30d_prozent": -46.0,
+      "trefferquote_30d": 40.0,
+      "netto_30d": -2.3
+    },
     {
       "liga": "NBA Playoffs Round 1, Game 6",
       "tipps_30d": 7,
@@ -16,13 +23,6 @@
       "roi_30d_prozent": -40.0,
       "trefferquote_30d": 60.0,
       "netto_30d": -2.0
-    },
-    {
-      "liga": "Serie A",
-      "tipps_30d": 4,
-      "roi_30d_prozent": -32.5,
-      "trefferquote_30d": 50.0,
-      "netto_30d": -1.3
     }
   ]
 }

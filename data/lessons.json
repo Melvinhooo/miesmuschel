@@ -561,6 +561,34 @@
       "kategorie": "Schluss-Minuten-Tor-Cluster Mai - Live-Cash-Out-Empfehlung (Quelle 8f + 8g aus volle_analyse)",
       "lesson": "SCHLUSSMINUTEN-DRAMA-CLUSTER 10.05.: Drei Spiele mit entscheidenden Toren in Minute 88+ -> Mainz-Union (Burke 88., Juranovic 90+1 = Mainz-Crash 1:3), Forest-Newcastle (Anderson 88. = Remis), Parma-Roma (Rensch 94., Malen 101 Pen = Roma-Drehung 2:3 nach 1:2-Parma-Fuehrung). Drehungs-Quote heute 1/19 Spiele (5%) - knapp unter Drehungs-Anhaeufungs-Schwelle, aber der Schluss-Minuten-Tor-Cluster ist deutlich (3+ Spiele mit 88+-Toren). PATTERN: Saisonende-Mai = hohe Schluss-Minuten-Volatilitaet, weil Teams mit Saison-Druck (Quali-Hoffnung / Klassenerhalt) bis zur letzten Sekunde pushen. EMPFEHLUNG: Wenn Sieg-Tipp auf Halbzeit-/3.Viertel-Fuehrung basiert (z.B. Mainz fuehrte 1:1 nach 48. = Conference-Quali-Aussicht), Live-Cash-Out bei 80%-Wert pruefen. Naechste Routine: Mainz-aehnliche Sieg-Tipps haben 'Saisonende-Schlussdrucks-Risiko' im begruendung-Feld zu vermerken, max wackel statt VALUE.",
       "bezug_spiel_id": "2026-05-10-par-rom"
+    },
+    {
+      "datum": "2026-05-12",
+      "kategorie": "Korrelations-Cluster Coinflip-Spiele (Quelle 8a Korrelations-Analyse + 8e SAFE-Reality)",
+      "lesson": "KOMBI-AUSLOESCHUNG-DURCH-COINFLIP-SPIEL 11.05.: Spiel Rayo-Girona (1:1 mit Toren 86./90.) toetete 2 von 4 Kombis (Safe via Ueber-2.5-Bein, Risiko via Rayo-Sieg-Bein) und half Balance via BTTS - kombi-Korrelation -50% Verlust an einem Coinflip-Saisonende-LaLiga-Spiel. Plus Napoli-Bologna 2:3 toetete Balance (Unter-2.5-Bein) und half Moonshot (Bologna-Sieg-Bein). PATTERN: Wenn ein Spiel >=2 Kombi-Beine traegt UND es ein Coinflip-Saisonende-Spiel ist (Beobachtungs-Liga + Goldgrube-Markt-Argument zerbroeselt bei Saison-Ende), Diversifikations-Hartregel verschaerfen: max 1 Bein aus Saisonende-LaLiga/SerieA-Spielen pro Kombi.",
+      "bezug_spiel_id": "2026-05-11-ray-gir",
+      "anwenden_ab": "2026-05-12"
+    },
+    {
+      "datum": "2026-05-12",
+      "kategorie": "LaLiga-Saisonende-Tor-Flaute (Quelle 8g Markt-Pattern aus nicht-getippten + getippten Spielen)",
+      "lesson": "UEBER-2.5-IN-LALIGA-SAISONENDE WIEDER VERFEHLT: Rayo-Girona @ Ueber-2.5 (1.86 VALUE/Goldgrube) verloren bei 1:1 (beide Tore in 86./90.). Lesson 10.05. (Mai-Mittel LaLiga 1.88 Tore/Spiel) hat genau dieses Pattern dokumentiert - Routine wandte trotz Goldgrube-Markt-Stempel kein Saisonende-Downgrade an. PATTERN: Goldgrube-Markt-Logik MUSS Liga-Saisonphasen-Filter haben - Ueber-2.5 ab LaLiga-Spieltag 34 aktiv degradieren auf wackel oder skippen. Beobachtungs-Liga-Logik (LaLiga ist KEINE Beobachtungs-Liga gemaess Stand 12.05.) reicht nicht aus - Markt-spezifischer Saisonende-Filter zusaetzlich noetig.",
+      "bezug_spiel_id": "2026-05-11-ray-gir",
+      "anwenden_ab": "2026-05-12"
+    },
+    {
+      "datum": "2026-05-12",
+      "kategorie": "Coppa-Italia-Final-Schon-Cluster-Refinement (Quelle 8h Rotation-Pattern Korrektur)",
+      "lesson": "LESSON-11.05.-FEHLERWEITERUNG-KORREKTUR: Bologna spielte VOLL in Neapel (gewann 3:2 mit Rowe-91.-Semi-Rovesciata) trotz Coppa-Italia-Final in 3 Tagen (14.05.). Lesson 11.05. EL/CL-Final-Schon-Cluster wurde mechanisch auf Coppa-Italia-Final ausgedehnt - die Routine setzte Napoli Sieg + Unter-2.5 mit Italiano-Schon-These als Edge. Realitaet: Mid-Table-Cup-Finalist (Bologna Mid-Table SerieA) = Cup-Final ist Saison-Highlight, Schon-Modus NICHT plausibel. PATTERN: Schon-Cluster-Logik NUR auf UEFA-Finals (EL/CL/Conference) - National-Pokal-Finals NICHT als Schon-Modus-Indikator. Mid-Table-Pokalfinalisten EHER gegnerisches Top-Team gefaehrlich als geschont.",
+      "bezug_spiel_id": "2026-05-11-nap-bol",
+      "anwenden_ab": "2026-05-12"
+    },
+    {
+      "datum": "2026-05-12",
+      "kategorie": "Drehungs-Cluster Top-Liga MUST-WIN-Cluster (Quelle 8f Drehungs-Cluster aus volle_analyse)",
+      "lesson": "ZWEI-DREHUNGEN-AN-EINEM-TAG: (1) NBA-Playoffs CLE-DET 112:103 (HZ 52:56 Pistons fuehrend -> Cavs 24:0-Run zur HZ2-Eroeffnung, laengster Playoff-Run seit Wolves G6 2024) und (2) SerieA Napoli-Bologna 2:3 (Bologna fuehrte 0:2 in 34. -> Napoli 2:2 in 48. -> Bologna 3:2 in 91.). Drehungs-Cluster aus volle_analyse-Bloecken hat sich vom 02.05.-BL-Pattern jetzt auf Top-Ligen-MUST-WIN/Pflicht-Druck-Spiele ausgeweitet. PATTERN: Kurzquoten-Sieg-Tipps (1.20-1.60) auf MUST-WIN-Heim-Top-Teams + auf Pflicht-Druck-Heim-Champions-Quali-Teams gegen Underdog-mit-Eigen-Termin (Coppa-Vorbereitung) -> HZ-Stand ist KEIN Indikator (CLE lag HZ zurueck, Bologna fuehrte HZ 0:2 dann verloren -> dann wieder gewonnen). Drehungs-Risiko bleibt latent bis 90. Min - Kombi-Beine in solchen Cluster-Spielen reduzieren.",
+      "bezug_spiel_id": "2026-05-12-cle-det",
+      "anwenden_ab": "2026-05-12"
     }
   ]
 }

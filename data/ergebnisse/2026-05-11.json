@@ -1,0 +1,1344 @@
+{
+  "datum": "2026-05-11",
+  "erstellt_am": "2026-05-11T19:55:00+02:00",
+  "hinweis": "Master-Tipps-Routine 11.05.2026 (Mo-Fr-Pipeline) - duenner Montag mit 5 Spielen: Tottenham-Leeds (PL, Spurs-Abstiegskampf!), Napoli-Bologna (Serie A = BEOBACHTUNGS-LIGA, max wackel + Soft-VALUE HR11), Rayo-Girona (LaLiga, Coinflip mit Rayo Conf-Final-Schon 16 Tage), NBA R2 Game 4 Doppel (DET@CLE Cavs MUST-WIN + OKC@LAL Sweep-Match Doncic-OUT). KEINE SAFE-Tipps: NBA-Playoffs-NIE-SAFE-Regel + Serie-A-Beobachtungs + LaLiga-Coinflip + Lesson 11.05. Saisonende-Sieg-Cluster max wackel + Spurs-8-Stamm-OUT-Krise. Goldgruben aktiv: Sieg/ML (60.9% Hit, +15.5% ROI), Torschuetzen Jederzeit (40% Hit, +24.4% ROI), Ueber 2.5 (66.7% Hit, +80.9% ROI), Ueber 1.5 (80% Hit, +32% ROI), DC 1X (82.4% Hit, +4.9% ROI). Kasse 550€ Stufe 1 (1-2% Standard-Stakes).",
+  "spiele": [
+    {
+      "id": "2026-05-11-tot-lee",
+      "liga": "Premier League",
+      "heim": "Tottenham Hotspur",
+      "gast": "Leeds United",
+      "anstoss": "2026-05-11T21:00:00+02:00",
+      "stadion": "Tottenham Hotspur Stadium, London",
+      "saison_kontext": {
+        "parallel_heim": "keine - Tottenham nicht in UEFA-Wettbewerben 2025/26, FA-Cup raus",
+        "parallel_gast": "keine - Leeds nicht in UEFA-Wettbewerben, FA-Cup-HF 26.04. gegen Chelsea verloren (raus)",
+        "saisonziel_heim": "Platz 17 mit 37 Pkt, 1 Pkt vor West Ham, 2 Spieltage uebrig - KLASSENERHALTS-PFLICHT, Sieg = 4 Pkt-Polster zur Abstiegszone",
+        "saisonziel_gast": "Platz 16 mit 43 Pkt, 7 Pkt-Polster zu West Ham, 3 Spieltage - praktisch gesichert, kein Druck mehr",
+        "motivations_asymmetrie": "Spurs mit Abstiegs-EXISTENZ-Druck (Abstieg waere historisch erst seit 1976) gegen Leeds in komplettem Saisonende-Modus - aber Spurs gegen Verletzungs-Krise (8 Stamm-Ausfaelle: Vicario/Solanke/Davies/Simons/Kudus/Romero/Kulusevski/Odobert) faktisch B-Elf-Niveau. Edge per Heim-Druck + H2H (Spurs 8/9 letzte) klar bei Spurs, aber Klassen-Edge durch Lazarett gedaempft.",
+        "recovery_heim": "8 Tage seit 03.05. (2:1 in Aston Villa) - sehr frische Mannschaft, Bentancur + Richarlison aus Verletzung zurueck",
+        "recovery_gast": "10 Tage seit 01.05. - sehr frisch, keine FA-Cup-Last seit 26.04.",
+        "quellen": [
+          "https://www.premierleague.com/en/match/2562253/tottenham-hotspur-vs-leeds-united",
+          "https://en.wikipedia.org/wiki/2025-26_Premier_League",
+          "https://www.sportsgambler.com/betting-tips/football/tottenham-vs-leeds-prediction-lineups-odds-2026-05-11/",
+          "https://lastwordonsports.com/football/2026/05/11/tottenham-vs-leeds-lineup/"
+        ]
+      },
+      "news": [
+        "Spurs Verletzungs-Krise: Solanke + Kudus + Kulusevski + Romero + Davies + Vicario + Simons + Odobert alle out - praktisch B-Team mit Kinsky im Tor, Richarlison als einzige etablierte Sturm-Option.",
+        "Spurs voraussichtliche Aufstellung: Kinsky - Porro, Danso, van de Ven, Udogie - Palhinha, Bentancur - Kolo Muani, Gallagher, Tel - Richarlison.",
+        "Leeds nur Okafor + Gudmundsson + Gruev verletzt, Struijk fraglich - sonst voller Kader.",
+        "Spurs H2H stark gegen Leeds: 8 Siege in den letzten 9 direkten Begegnungen, 5 in Folge.",
+        "Leeds gewann 02.05. 3:0 gegen Burnley (Klassenerhalt-Bestaetigung) - voller Saisonende-Modus.",
+        "2:0-Insurance gilt NICHT (PL ist nicht BL/CL) - normaler 90-Min-Endstand zaehlt.",
+        "Lesson 11.05. Saisonende-Mid-Table-Sieg-Cluster max wackel - hier aber Existenz-Druck-Heim statt Conf/Europa-Druck-Cluster, anderes Profil."
+      ],
+      "tipps": [
+        {
+          "id": "tot-lee-1",
+          "kategorie": "value",
+          "markt": "Tottenham oder Remis (DC 1X)",
+          "quote": 1.21,
+          "edge_prozent": 4,
+          "begruendung": "Goldgrube-Markt DC 1X (82.4% Hit / +4.9% ROI saisonal). PL nicht in Liga-Goldgrube -> Mapper-Hebel C macht aus SAFE-DC ohnehin VALUE. Spurs als Heim-Favorit bei Abstiegs-Druck + H2H 8/9 + Leeds-Saisonende-Modus. DC 1X = Spurs gewinnen oder Remis, schuetzt vor Verletzungs-Krise-Risiko. Lesson 11.05. greift nicht direkt (Abstiegs-Druck statt Conf/Europa-Cluster). Stake Stufe 1: 1.0%=5.50€. Quote via SportsGambler (US -476 -> 1.21).",
+          "faire_quote": 1.16,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "tot-lee-2",
+          "kategorie": "value",
+          "markt": "Ueber 1.5 Tore",
+          "quote": 1.3,
+          "edge_prozent": 6,
+          "begruendung": "Goldgrube-Markt Ueber 1.5 (80% Hit / +32% ROI saisonal). H2H-Schnitt 2.8 Tore/Spiel (Spurs-Leeds), Spurs offensiv noch funktional auch ohne Solanke, Leeds-Auswaerts nicht abgeschottet. Saisonende-Tor-Flaute-Lesson 10.05. (1.88 Tore/Spiel Mai-Mittel) als Gegenfaktor, aber 1.5-Schwelle nahezu immer rein bei zwei nicht-defensiv-orientierten Teams. Stake 1.0%=5.50€. Quote via OddsChecker.",
+          "faire_quote": 1.22,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "tot-lee-3",
+          "kategorie": "wackel",
+          "markt": "Tottenham Hotspur Sieg",
+          "quote": 1.76,
+          "edge_prozent": 3,
+          "begruendung": "Heim-Quote 1.76 wuerde normal SAFE oder VALUE rechtfertigen. ABER: 8 Stamm-Ausfaelle = B-Elf-Niveau (Mapper-Hebel S Selbst-Widerspruch greift sonst). Plus Lesson 11.05. Saisonende-Druck-Sieg-Pattern max wackel + Lesson 10.05. PL-Sieg/Spread-VALUE-Cluster 75% Verlust. Reality-Check: Goldgrube Sieg 60.9%/+15.5%, aber Spurs ist hier kein klassischer Goldgrube-Sieg-Kandidat. Stake 0.5%=2.75€. Quote SportsGambler (US -132 -> 1.76).",
+          "faire_quote": 1.81,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "tot-lee-4",
+          "kategorie": "wackel",
+          "markt": "Richarlison trifft (Torschuetze jederzeit)",
+          "quote": 4.8,
+          "edge_prozent": 4,
+          "begruendung": "HR24 Form-Edge-Pflicht: Richarlison ist DER alleinige etablierte Stamm-9er bei Solanke + Kudus OUT (Punkt b = zentraler 9er mit Backup Kolo Muani). Plus Einwechslungs-Boost (bet365): falls Richarlison ausgewechselt fuer Kolo Muani/Tel, zaehlt Tor des direkten Ersatzes mit. Goldgrube Torschuetzen Jederzeit (40%/+24.4%). Quote 4.80 spiegelt Form-Unsicherheit (gerade aus Verletzung zurueck) - daher wackel statt VALUE trotz Volumen-Edge. Quote > 2.50, daher Pre-Match-Verifikation nicht streng Pflicht aber empfohlen. Stake 0.5%=2.75€. Quote SportsGambler (US +380 -> 4.80).",
+          "faire_quote": 4.4,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 1,
+        "halbzeit": "0:0",
+        "endstand": "1:1",
+        "status": "beendet"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "tot-lee-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.21,
+          "kommentar": "Tottenham oder Remis (DC 1X) — Remis 1:1, eingetreten.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "tot-lee-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.3,
+          "kommentar": "Ueber 1.5 Tore — 2 Tore (Tel 50., Calvert-Lewin 74.).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "tot-lee-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Spurs nur 1:1 — kein Sieg, kein 2:0-Insurance (Tottenham fuehrte nie 2:0).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "tot-lee-4",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Richarlison kein Tor; Tel (Mitstarter) traf — kein Boost-Trigger fuer Richarlison nachweisbar.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "tot-lee-k1",
+          "status": "gewonnen",
+          "gewinn_faktor": 3.0,
+          "kommentar": "Tel traf in 50. zum 1:0 — Moonshot-Bein eingetreten.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "1:1",
+        "tore": [
+          {
+            "min": 50,
+            "team": "heim",
+            "spieler": "Mathys Tel",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 74,
+            "team": "gast",
+            "spieler": "Dominic Calvert-Lewin (Foulelfmeter, Foul Tel an Ampadu)",
+            "stand_danach": "1:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Tottenham fuehrte nur 1:0 — keine 2-Tore-Differenz; Leeds glich aus, kein Sieg-Drehung-Pattern."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Unentschieden",
+          "kein_team_zu_null": true,
+          "siegtor_in_letzten_15min": false,
+          "ausgleich_in_letzten_15min": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "PL-Saisonend-Ausgleich-Pattern: Spurs (Abstiegs-Druck) liessen Tel-1:0 nach eigenem Foul (Tel an Ampadu) per Foulelfmeter wieder zerfallen. Abstiegs-Druck-Team-Solo-Sieg ohne klare Star-Form bleibt unreliable als Sieg-Tipp-Quelle — DC 1X war richtige Wahl.",
+          "Richarlison-Torschuetzen-Tipp (4.8) ohne Boost-Trigger verfehlt — Spurs-Tor kam von Mitstarter Tel. Boost-Logik greift NUR wenn Tipp-Spieler selbst raus geht und sein Ersatz trifft.",
+          "Maddison erstes Saisonspiel von der Bank — Comeback ohne Tor-Impact, aber Tottenham-Profil-Wechsel kuendigt sich an."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-11-nap-bol",
+      "liga": "Serie A",
+      "heim": "SSC Napoli",
+      "gast": "Bologna FC",
+      "anstoss": "2026-05-11T20:45:00+02:00",
+      "stadion": "Stadio Diego Armando Maradona, Neapel",
+      "saison_kontext": {
+        "parallel_heim": "keine - Napoli nicht in UEFA-Wettbewerben 2025/26 (Conte-Comeback-Saison nach 10. Platz)",
+        "parallel_gast": "COPPA-ITALIA-FINALE 14.05.2026 in Rom (Olimpico) gegen AC Milan - 3 TAGE entfernt, MASSIVES Rotations- und Schonungs-Risiko fuer Stamm-Bologna heute (erstes Coppa-Finale seit 1974)",
+        "saisonziel_heim": "Platz 2 mit 70 Pkt - Scudetto an Inter verloren, Vize-Sicherung mit Sieg heute (3 Spiele uebrig), Conte-Motivation: CL-Quali + Silbermedaille",
+        "saisonziel_gast": "Platz 10 mit 49 Pkt - Conference-Quali-Distanz zu gross, Saisonende-Modus aber Coppa-Italia-Finale 14.05. der grosse Saison-Hebel -> Italiano rotiert garantiert Stammkraefte",
+        "motivations_asymmetrie": "Napoli mit 2.-Platz-/CL-Quali-Druck (Conte-Stolz) gegen Bologna in komplettem Coppa-Italia-Final-Vorbereitungs-Modus 3 Tage vor Rom. Klassen-Edge Napoli plus Bologna-Schon-Modus = klares Heim-Favorit-Signal, aber Serie A = BEOBACHTUNGS-LIGA (-32.5% ROI) -> max wackel. HR11 Soft-VALUE-Trigger (Top-Klub Pflicht-Sieg + Gast Mid-Table ohne UEFA-Last) erfuellt -> 1 Tipp max 0.5% Stake.",
+        "recovery_heim": "9 Tage seit 02.05. - sehr frisch",
+        "recovery_gast": "9 Tage seit 02.05. - frisch, aber Coppa-Finale in 3 Tagen -> Italiano-Rotation",
+        "quellen": [
+          "https://www.legaseriea.it/en/serie-a/schedule",
+          "https://en.wikipedia.org/wiki/2025%E2%80%9326_Coppa_Italia",
+          "https://football-italia.net/coppa-italia-bologna-1st-final-51-years-milan/",
+          "https://www.sportsgambler.com/betting-tips/football/napoli-vs-bologna-prediction-lineups-odds-2026-05-11/"
+        ]
+      },
+      "news": [
+        "Napoli Verletzungen: Lukaku (Sperre) + Neres (Knoechel) + Ngonge + Olivera + Jesus out - Hojlund startet als Stamm-9er.",
+        "Bologna Lazarett-Block: Vitik + Casale + Cambiaghi + Dallinga out, Skorupski + Joao Mario fraglich - Defensive geschwaecht + Rotation auf Coppa-Finale erwartbar.",
+        "Napoli voraussichtliche Aufstellung: Milinkovic-Savic - Di Lorenzo, Rrahmani, Buongiorno, Gutierrez - Lobotka, McTominay - Politano, De Bruyne, Alisson Santos - Hojlund.",
+        "Bologna kann mit Coppa-Italia-Rotation deutlich abweichen (Italiano-Schonung) - voraussichtlich Skorupski - Joao Mario, Heggem, Lucumi, Miranda - Freuler, Ferguson - Orsolini, Bernardeschi, Rowe - Castro.",
+        "Napoli 2 Clean Sheets in Folge (1:0 Milan, 4:0 Cremonese - Conte-Defensive), Bologna 0 Tore in letzten 3 Liga-Spielen.",
+        "Hojlund (Napoli-9er, von ManU geliehen - NICHT Oscar Hojlund vom Mainz-DM-Bug, Position ST eindeutig) First-Goalscorer 2.35, Anytime ca. 1.60.",
+        "Serie A BEOBACHTUNGS-LIGA seit 03.05.: -32.5% ROI / 50% Hitrate / 4 Tipps -> max wackel, NICHT in Hauptkombis-Safe/Balance/Risiko; Moonshot OK ab Quote 5.0. HR11 Soft-VALUE-Ausnahme (Top-Klub Pflicht + Mid-Klub ohne UEFA-Last) erlaubt 1 Tipp mit max 0.5% Stake."
+      ],
+      "tipps": [
+        {
+          "id": "nap-bol-1",
+          "kategorie": "value",
+          "markt": "SSC Napoli Sieg",
+          "quote": 1.52,
+          "edge_prozent": 5,
+          "begruendung": "HR11 SOFT-VALUE BEOBACHTUNGS-LIGA (Napoli Top-2 mit CL-Quali-Pflicht + Bologna Mid-Table ohne UEFA-Last + Bologna im Coppa-Final-Vorbereitungs-Modus 3 Tage davor + Italiano-Rotation garantiert). Klassen-Edge sonst klar SAFE, aber Serie A Beobachtungs-Liga deckelt -> Soft-VALUE mit max 0.5% Stake (statt 1-2% Standard). Reality-Check Goldgrube Sieg 60.9%/+15.5%. Lesson 11.05. EL/CL-Final-Schon-Cluster (10-Tage-Warnung) - Bologna ist Coppa-Final-Schon-Partei, Napoli profitiert. Stake 0.5%=2.75€. Quote SportsGambler (US -192 -> 1.52).",
+          "faire_quote": 1.45,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "nap-bol-2",
+          "kategorie": "wackel",
+          "markt": "Rasmus Hojlund trifft (Torschuetze jederzeit)",
+          "quote": 2.5,
+          "edge_prozent": 5,
+          "begruendung": "HR24 Form-Edge: Hojlund einziger Stamm-9er bei Lukaku-Sperre + Neres-OUT (Punkt b erfuellt: zentraler 9er mit Backup Lucca/Raspadori auf Bank fuer Einwechslungs-Boost). Goldgrube Torschuetzen Jederzeit (40%/+24.4%). Aber Serie A Beobachtungs-Liga -> max wackel, nicht VALUE. Plus Lesson 10.05. Star-Stuermer-Verifikation-Pflicht (Quote < 2.50 Grenzbereich): Hojlund laut SportsGambler/SportsMole voll fit fuer Startelf - aber Pre-Match-Reports keine Garantie (Lesson 11.05.). Achtung: NICHT mit Oscar Hojlund (Mainz-DM) verwechseln, Rasmus Hojlund Position ST eindeutig. Stake 0.5%=2.75€. Quote OddsChecker.",
+          "faire_quote": 2.3,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "nap-bol-3",
+          "kategorie": "wackel",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.9,
+          "edge_prozent": 4,
+          "begruendung": "Napoli 2 Clean Sheets in Folge (Conte-Defensive: 1:0 Milan, 4:0 ohne Gegentor Cremonese), Bologna 0 Tore in letzten 3 Liga-Spielen + Coppa-Final-Schon-Modus mit B-Elf moeglich. Saisonende-Tor-Flaute Mai 2026 (Lesson 10.05., 1.88 Tore/Spiel) als Verstaerker. Gegen-Edge: bet365-Goldgrube ist Ueber 2.5 (+80.9% ROI) - Unter-Tipps brauchen Sondersignal, hier Bologna-Schon-Modus + Conte-Mauer als doppeltes Signal. Serie A Beobachtungs -> max wackel. Stake 0.5%=2.75€. Quote SportsGambler (US -111 -> 1.90).",
+          "faire_quote": 1.82,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 3,
+        "halbzeit": "1:2",
+        "endstand": "2:3",
+        "status": "beendet"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "nap-bol-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Napoli verlor 2:3 zuhause — Champions-Quali-Schlappe; Conte +2-zur-Juve-Vorsprung beim Posticipo verspielt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "nap-bol-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Hojlund kein Tor; lieferte Vorlage zum 2:2 (Alisson Santos), das zaehlt nicht als Torschuetze. Kein nachweisbarer Boost-Trigger.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "nap-bol-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Unter 2.5 verfehlt — 5 Tore total (3 in HZ1). Lesson 11.05. EL/CL-Final-Schon-Cluster fehlinterpretiert — Bologna spielte voll trotz Coppa-Final in 3 Tagen.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "nap-bol-k1",
+          "status": "gewonnen",
+          "gewinn_faktor": 4.75,
+          "kommentar": "Bologna gewann 3:2 in Neapel (Rowe-Tor 91. Semi-Rovesciata) — Moonshot-Bein eingetreten.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:2",
+        "endstand": "2:3",
+        "tore": [
+          {
+            "min": 9,
+            "team": "gast",
+            "spieler": "Bernardeschi",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 34,
+            "team": "gast",
+            "spieler": "Orsolini (Foulelfmeter)",
+            "stand_danach": "0:2"
+          },
+          {
+            "min": "45+2",
+            "team": "heim",
+            "spieler": "Di Lorenzo",
+            "stand_danach": "1:2"
+          },
+          {
+            "min": 48,
+            "team": "heim",
+            "spieler": "Alisson Santos (Vorlage Hojlund)",
+            "stand_danach": "2:2"
+          },
+          {
+            "min": "90+1",
+            "team": "gast",
+            "spieler": "Rowe (Semi-Rovesciata)",
+            "stand_danach": "2:3"
+          }
+        ],
+        "drehung": {
+          "war_drehung": true,
+          "details": "Bologna fuehrte 0:2 (34.), Napoli glich aus zu 2:2 (48.), Rowe-Siegtor in 91. — 2:0-Vorsprung weg, aber Bologna gewann am Ende doch noch. 2:0-Insurance greift NICHT in Serie A (laut CLAUDE.md nur BL + CL)."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Bologna/Bologna",
+          "kein_team_zu_null": true,
+          "siegtor_in_letzten_15min": true,
+          "ausgleich_in_letzten_15min": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Italiano-Plan",
+            "details": "Italiano-Bologna voll im Modus trotz Coppa-Final 14.05. (3 Tage) — Italiano-Schon-Modus-Annahme der Routine widerlegt."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Lesson 11.05. EL/CL-Final-Schon-Cluster FALSCH ANGEWANDT auf Coppa-Final: Bologna spielte trotz Coppa-Final in 3 Tagen voll und gewann 3:2 in Neapel. Lesson-Refinement: Coppa-Italia-Final-Vorgaenger-Spiele KEIN automatischer Schon-Modus-Trigger — Coppa-Final ist Pokal-Highlight, Mid-Table-Teams werfen ALLES rein bevor sie schonen.",
+          "Top-Team-Heim-Sieg-Pflicht-Druck (Conte-Napoli Champions-Quali-Hoch-Druck) als Edge-Quelle WIEDER VERFEHLT — bei eigenem Cup-Motivations-Gegner (Bologna Coppa-Final-Eve) wird der Druck eher Vorteil fuer den Gegner. Lesson-Pattern verschaerfen: Pflicht-Druck-Heim NICHT SAFE/VALUE setzen bei Underdog mit eigenem grossen Termin.",
+          "Tor-Festival mit Drehung im Aufstiegs-Cluster (BL/CL-Drehungs-Lesson-Pattern aus 02.05.) jetzt auch in Serie A — Drehungs-Cluster-Anhaeufung dokumentiert."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-11-ray-gir",
+      "liga": "LaLiga",
+      "heim": "Rayo Vallecano",
+      "gast": "Girona FC",
+      "anstoss": "2026-05-11T21:00:00+02:00",
+      "stadion": "Estadio de Vallecas, Madrid",
+      "saison_kontext": {
+        "parallel_heim": "CONFERENCE-LEAGUE-FINALE 27.05.2026 in Leipzig gegen Crystal Palace - 16 Tage entfernt + 4 Tage seit Conference-SF-Rueckspiel 07.05. (1:0 vs Strasbourg). Trainer Inigo Perez koennte leicht rotieren, aber zwischen heute und Finale liegen noch 3 LaLiga-Spiele = moderates (NICHT 10-Tage-Schon-Cluster wie Freiburg/Villa 10.05.)",
+        "parallel_gast": "keine - Girona ohne UEFA-Wettbewerb 2025/26",
+        "saisonziel_heim": "Platz 11 mit 42 Pkt - LaLiga-Saison im Mid-Table-Komfort, kein Abstiegs-/Europa-Liga-Druck mehr -> Conference-Finale 27.05. ist Saison-Hebel (Trophy-Slot = CL-Quali bei Sieg)",
+        "saisonziel_gast": "Platz 17 mit 38 Pkt, nur 2 Pkt ueber Abstiegszone - KLASSENERHALTS-PFLICHT, jeder Punkt zaehlt",
+        "motivations_asymmetrie": "Rayo mit gespaltener Agenda (Conference-Final 16 Tage entfernt -> Star-Schon-Versuchung, aber NICHT im akuten 7-12-Tage-Schon-Cluster) vs Girona im KLASSENERHALTS-Existenzkampf - aber Girona aktuell in Riesen-Krise (3 Niederlagen in Folge, 0 Tore in 3 Spielen, Lazarett-Block ter Stegen + van de Beek + Vanat + Abel Ruiz + Portu). Edge fuer Rayo per Heim-Form (4/5 Siege) + Girona-Krise, aber Coinflip-Quote-Bereich.",
+        "recovery_heim": "4 Tage seit Conference-SF-Rueckspiel 07.05. (1:0 Strasbourg) - knappe Recovery + Final-Schon-Risiko fuer Stammspieler",
+        "recovery_gast": "10 Tage seit 01.05. (0:1 Mallorca) - sehr frisch, aber Tor-Problem nicht behoben",
+        "quellen": [
+          "https://www.laliga.com/en-GB/laliga-easports/calendar",
+          "https://es.uefa.com/uefaconferenceleague/match/2047744--crystal-palace-vs-rayo-vallecano/final/",
+          "https://onefootball.com/en/news/rayo-vallecano-reach-conference-league-final-spain-clinch-second-in-uefa-coefficient-42837138",
+          "https://www.sportsgambler.com/betting-tips/football/rayo-vallecano-vs-girona-prediction-lineups-odds-2026-05-11/"
+        ]
+      },
+      "news": [
+        "Rayo macht Geschichte: Erstes Conference-League-Finale 27.05. in Leipzig vs Crystal Palace - beide Teams erstes europ. Finale ueberhaupt.",
+        "Rayo Verletzungen: Palazon (Rote-Karten-Sperre) + Luis Felipe out - Camello + de Frutos tragen Offensive.",
+        "Rayo voraussichtliche Aufstellung: Batalla - Balliu, Lejeune, Mendy, Espino - Ciss, Gumbau - de Frutos, Zurawski, Vertrouwd - Camello.",
+        "Girona Riesen-Lazarett: Vanat + Portu + Juan Carlos + ter Stegen (Ruecken) + Abel Ruiz (fraglich) + van de Beek (Kreuzband) + Bryan Gil (Sperre) - Echeverri einziger nominaler Stuermer im Kader.",
+        "Girona voraussichtliche Aufstellung: Gazzaniga - Martinez, Frances, Reis, Blind - Beltran, Witsel - Tsigankov, Ounahi, Roca - Echeverri.",
+        "Rayo Form: 4 Siege in 5 (1:0 Strasbourg Conf-SF, 2:0 Getafe LaLiga). Girona Form: 3 Niederlagen am Stueck (0:1 Mallorca, 0:2 Valencia, 0:3 Betis) - 0 Tore in 3 Spielen.",
+        "Lesson 11.05. EL/CL-Final-Schon-Cluster: 7-12 Tage = max wackel. Rayo 16 Tage = im 13-25-Tage-Puffer mit Joker-Tor-Erwartung (analog Arsenal-Trossard-Pattern), Sieg-VALUE noch OK aber mit Schon-Risiko-Vermerk.",
+        "Coinflip-Profil-Tendenz mit Heim-Edge (Rayo 2.48 / Draw 3.25 / Girona 2.90)."
+      ],
+      "tipps": [
+        {
+          "id": "ray-gir-1",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.86,
+          "edge_prozent": 7,
+          "begruendung": "Goldgrube-Markt Ueber 2.5 (66.7% Hit / +80.9% ROI saisonal = TOPMARKT). Rayo Heim offensiv (4 Siege in 5 mit Tor in jedem Spiel), Girona-Defense ohne ter Stegen + Reis/Frances als Mid-Tier-IV + Tsigankov-Roca-Druck. Saisonende-Tor-Flaute-Lesson 10.05. (Mai-Mittel 1.88) als Gegenfaktor, aber Rayo-Heim-Trend deutlich darueber. Reality-Check via LaLiga-Bilanz positiv. Stake 1.0%=5.50€. Quote SportsGambler (US -116 -> 1.86).",
+          "faire_quote": 1.72,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "ray-gir-2",
+          "kategorie": "wackel",
+          "markt": "Rayo Vallecano Sieg",
+          "quote": 2.48,
+          "edge_prozent": 4,
+          "begruendung": "Coinflip-Heim-Edge: Rayo 4/5-Lauf + Girona-Krise + Girona-Top-Stuermer Abel Ruiz fraglich + Girona-Tor-Krise. Gegen-Edge: Conf-Final-Schon-Risiko (Lesson 11.05.) - Inigo Perez koennte Camello/de Frutos schonen. Plus 4-Tage-Recovery nach Conf-SF = Mueller. Quote 2.48 Coinflip-Bereich -> max wackel (kein SAFE moeglich), nicht VALUE wegen Schon-Risiko. Goldgrube Sieg 60.9%/+15.5% aber Bedingung Klassen-Edge nicht voll erfuellt. Stake 0.5%=2.75€. Quote SportsGambler (US +148 -> 2.48).",
+          "faire_quote": 2.38,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "ray-gir-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen (BTTS)",
+          "quote": 1.63,
+          "edge_prozent": 3,
+          "begruendung": "Korrelations-Stuetze zum Ueber-2.5-Tipp - beide Teams offensiv aber Defense-Probleme. Rayo Heim trifft in jedem letzten 5 Heim-Spielen, Girona auswaerts schoss bisher meist 1+ aber zuletzt 0 Tore in 3. Tor-Krise Girona kontert die BTTS-These -> max wackel, nicht VALUE. Stake 0.5%=2.75€. Quote SportsGambler (US -159 -> 1.63).",
+          "faire_quote": 1.58,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "ray-gir-4",
+          "kategorie": "wackel",
+          "markt": "Sergio Camello trifft (Torschuetze jederzeit)",
+          "quote": 3.1,
+          "edge_prozent": 4,
+          "begruendung": "HR24 Form-Edge: Camello Stamm-9er bei Palazon-Sperre + Vertrauter Vallecas-Heim-Volumen-Stuermer. Backup de Frutos auf Bank -> Einwechslungs-Boost theoretisch (bei Auswechslung Camello). Goldgrube Torschuetzen Jederzeit (40%/+24.4%). Aber Conf-Final-Schon-Risiko-Gegenfaktor + Quote 3.10 oben in wackel-Range = Volumen-Realitaet. Stake 0.5%=2.75€. Quote SportsGambler (US +210 -> 3.10).",
+          "faire_quote": 2.85,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 1,
+        "halbzeit": "0:0",
+        "endstand": "1:1",
+        "status": "beendet"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "ray-gir-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Ueber 2.5 verfehlt — nur 2 Tore (Alemão 86., Stuani 90.). LaLiga-Saisonende-Tor-Flaute-Pattern (Lesson 10.05.) bestaetigt — Routine ueberging es.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "ray-gir-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Rayo Sieg verpasst — 1:1 nach Stuani-90.-Ausgleich.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "ray-gir-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.63,
+          "kommentar": "BTTS JA — Rayo (Alemão 86.) und Girona (Stuani 90.) trafen je 1x.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "ray-gir-4",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Camello startete, kein Tor; Torschuetze Rayo war Alemão. Kein nachweisbarer Boost-Trigger fuer Camello.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "ray-gir-k1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Echeverri startete fuer Girona, traf nicht. Girona-Torschuetze war Stuani.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "1:1",
+        "tore": [
+          {
+            "min": 86,
+            "team": "heim",
+            "spieler": "Alemão",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 90,
+            "team": "gast",
+            "spieler": "Cristhian Stuani",
+            "stand_danach": "1:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Kein 2-Tore-Vorsprung; Rayo fuehrte 86.-90. (4 Min) mit 1:0, Stuani glich in 90. aus."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Unentschieden",
+          "kein_team_zu_null": true,
+          "siegtor_in_letzten_15min": false,
+          "ausgleich_in_letzten_15min": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Goldgrube-Markt Ueber 2.5 als VALUE-Tipp WIEDER VERFEHLT bei LaLiga-Saisonende — Lesson 10.05. (Mai-Mittel LaLiga 1.88 Tore/Spiel) ignoriert. Ueber-2.5 in LaLiga-Saisonende-Spielen aktiv degradieren.",
+          "BTTS @ 1.63 als wackel-Tipp lieferte — bei low-Tor-Spielen ist BTTS spaet-Tor-anfaellig (beide Tore in 86./90.), funktionierte aber hier.",
+          "Ausgleich in 90. — klassisches LaLiga-Saisonende-Defensiv-Pattern. Sieg-Tipps auf Einzelteams (Rayo 2.48) bleiben riskanter als Quote suggeriert.",
+          "Camello-Torschuetzen-Tipp ohne Boost-Trigger verfehlt — Torschuetzen-Tipp-Volumen weiter reduzieren wenn kein nominaler Volume-Stuermer-Profil + kein Backup-Stuermer-mit-Boost-Potenzial."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-12-cle-det",
+      "liga": "NBA Playoffs Round 2, Game 4",
+      "heim": "Cleveland Cavaliers",
+      "gast": "Detroit Pistons",
+      "anstoss": "2026-05-12T02:00:00+02:00",
+      "stadion": "Rocket Arena, Cleveland",
+      "saison_kontext": {
+        "parallel_heim": "keine - NBA-Playoffs als einziger Wettbewerb",
+        "parallel_gast": "keine - NBA-Playoffs als einziger Wettbewerb",
+        "saisonziel_heim": "Eastern-Conference-Finale - Stand: trailing 1-2, Game 4 zuhause = MUST-WIN um nicht in 1-3-Loch zu fallen. 5-0 Playoffs-Heim-Bilanz mit +8.4 Net-Rating-Vorteil",
+        "saisonziel_gast": "Eastern-Conference-Finale - Stand: fuehrend 2-1, Game 4 in Cleveland = Chance auf 3-1-Fuehrung mit Heimrecht-Vorteil",
+        "motivations_asymmetrie": "Cavs mit MUST-WIN-Druck zuhause (5-0 Playoffs-Heim, +8.4 Net) gegen Pistons mit Schluss-Chance auf 3-1. Druck-Edge Cavs, aber Pistons mit Series-Schwung aus G1+G2-Auswaerts-Siegen. Pistons Backcourt-Depth angeschlagen (Huerter + LeVert fraglich) = Edge-Plus Cavs.",
+        "recovery_heim": "2-3 Tage Recovery (Game 3 09.05. in Detroit gewonnen 116:109)",
+        "recovery_gast": "2-3 Tage Recovery + lange Auswaerts-Reise von Detroit - Huerter (6 Spiele verpasst) + LeVert beide questionable (Lesson 11.05. Star-Ausfall-Verifikation greift)",
+        "quellen": [
+          "https://www.nba.com/playoffs/2026/east-semifinal-1",
+          "https://www.nba.com/game/det-vs-cle-0042500204",
+          "https://www.fanduel.com/research/cavaliers-vs-pistons-prediction-nba-odds-spread-best-bets-for-eastern-semifinals-5-11-2026",
+          "https://www.oddsshark.com/nba/pistons-cavaliers-picks-odds-game-4-may-11-2026"
+        ]
+      },
+      "news": [
+        "Cavs trailing 1-2, MUST-WIN Game 4 zuhause - Verlust = 1-3-Loch nahe Series-Ende.",
+        "Cavs Playoffs-Heim-Bilanz 5-0 mit +8.4 Net-Rating - massiver Heim-Edge.",
+        "Pistons noch ohne Auswaerts-Sieg in dieser Postseason - aber G1+G2 in Cleveland gewonnen, also Auswaerts in Cleveland geht (Korrektur: Cavs Heim 1-2 in Series, Pistons mit 2 Cleveland-Siegen).",
+        "Pistons Verletzungs-Bedenken: Kevin Huerter + Caris LeVert beide questionable - Backcourt-Depth-Risiko, Cavs profitieren in Halftime-Lineup-Tiefe.",
+        "Cavs voll besetzt: Mitchell + Garland + Mobley + Allen + Hunter Stammelf, kein Lazarett.",
+        "Spread Cavs -3.5 (knapp, HR19-konform), Total 213.5, Cavs ML 1.59, Pistons ML 2.45 (FanDuel/Konsens).",
+        "NBA-Playoffs-Regel (Mapper-Hebel B): NIE SAFE. Game 4 ist non-Decider (G5/G6/G7) -> Sieg/Spread/Total max VALUE/wackel; KEINE Player-Punkte-Einzeltipps (HR16-Boykott)."
+      ],
+      "tipps": [
+        {
+          "id": "cle-det-1",
+          "kategorie": "value",
+          "markt": "Cleveland Cavaliers Sieg (Moneyline)",
+          "quote": 1.59,
+          "edge_prozent": 6,
+          "begruendung": "MUST-WIN-Druck zuhause + Playoffs-Heim 5-0 mit +8.4 Net + Pistons-Backcourt-Depth fragil (Huerter + LeVert questionable) + Cavs voll besetzt. NBA-Playoffs sind NIE SAFE (Mapper-Hebel B) -> max VALUE. Reality-Check Goldgrube Sieg 60.9%/+15.5% saisonal. Lesson 11.05. Star-Ausfall greift HIER zu Gunsten Cavs (Pistons-Stars fraglich, nicht Cavs-Stars). Implied 62.9% bei Quote 1.59 - faire Quote ca. 1.50 (66.7% implied) -> Edge ca. 6%. Stake 1.0%=5.50€ (1.5%=8.25€ waere im Stufe-2-Modus). Quote via Konsens FanDuel/DraftKings.",
+          "faire_quote": 1.5,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "cle-det-2",
+          "kategorie": "wackel",
+          "markt": "Ueber 213.5 Punkte",
+          "quote": 1.91,
+          "edge_prozent": 3,
+          "begruendung": "Serie bisher 3 Spiele alle >210 Punkte, Cavs Heim hochskoring (Mitchell + Garland + Mobley). Aber NBA-Round-2-G4-Defense-Anpassungen koennten Total druecken. HR18 G2-Reaktions-Spike nicht aktiv (G4, nicht G2). HR21 Wurf-Krise-Eingrenzung: Cavs G2 hatten 0/11 3pt Q4 - aktuelle Form-Lage unklar. Reality-Check Spread/Handicap-Markt saisonal +20.5% ROI. Max wackel weil NBA-Playoffs-Regel + kein klares Total-Signal. Stake 0.5%=2.75€. Quote Konsens.",
+          "faire_quote": 1.85,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "cle-det-3",
+          "kategorie": "wackel",
+          "markt": "Detroit Pistons +3.5 (Spread/Handicap)",
+          "quote": 1.91,
+          "edge_prozent": 2,
+          "begruendung": "Hedge gegen Cavs-Sieg-Hauptthese: Pistons fuehren 2-1, Cunningham + Duren in Form, koennten knapp verlieren (innerhalb 3.5) oder gewinnen. HR19 Spread-Margin-Risiko: Spread bei 3.5 (nicht 6.5+) ist im konservativen Bereich, akzeptabel. Spread/Handicap saisonal 28.6% Hitrate / +11.7% ROI (kleine Stichprobe). Plus Pistons-Backcourt-Lazarett als Gegen-Edge. NBA nie SAFE -> max wackel. Stake 0.5%=2.75€. Quote Konsens.",
+          "faire_quote": 1.87,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 112,
+        "gast_tore": 103,
+        "halbzeit": "52:56",
+        "endstand": "112:103",
+        "status": "beendet"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "cle-det-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.59,
+          "kommentar": "Cavs 112:103 — Mitchell 43 Pkt (4 zur HZ, 39 in 2.HZ). 24:0-Run zur 2.HZ-Eroeffnung.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "cle-det-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.91,
+          "kommentar": "Ueber 213.5 — 215 Punkte gesamt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "cle-det-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "DET +3.5 verfehlt — verloren mit 9 Punkten Differenz (112-103).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "52:56",
+        "endstand": "112:103",
+        "tore": [],
+        "drehung": {
+          "war_drehung": true,
+          "details": "Cavs lagen 52:56 zur HZ zurueck, starteten 2.HZ mit 24:0-Run (laengster Playoff-Run seit Wolves G6 vs Denver 2024) — komplette Drehung in 3.Quarter."
+        },
+        "markt_resultate": {
+          "total_punkte": 215,
+          "ueber_213_5": true,
+          "ueber_215_5": false,
+          "spread_endwert": "CLE -9 (112:103) — DET +3.5 verfehlt, CLE -3.5 erreicht",
+          "halbzeit_endstand": "Detroit/Cleveland"
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "MUST-WIN-Heim-Top-Team-Response-Pattern: Cavs lagen 2-1 zurueck, brauchten den Sieg — 24:0-Run zur 2.HZ-Eroeffnung. Lesson 09.05. Wolves-G3 (dominanter Gegner negiert Heim-Reaktion) hier widerlegt — Heim-Reaktion war massiv, Pistons-Star-Issues (Huerter/LeVert q.) plus Cavs-Heim-Form 5-0 lieferten.",
+          "Mitchell-43-Pkt-Spiel mit 4-Pkt-HZ — Star-Reaktion-zu-HZ-2-Pattern: HZ-Schwaeche eines Star-Spielers KEIN Indiz fuer Endergebnis, eher Aufhol-Trigger.",
+          "Ueber 213.5 als wackel-Tipp eingetreten — NBA-Playoffs-Total-wackel-Goldgrube bestaetigt sich weiter (auch bei Defensiv-HZ 52:56=108er-Pace)."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-12-lal-okc",
+      "liga": "NBA Playoffs Round 2, Game 4",
+      "heim": "Los Angeles Lakers",
+      "gast": "Oklahoma City Thunder",
+      "anstoss": "2026-05-12T04:30:00+02:00",
+      "stadion": "Crypto.com Arena, Los Angeles",
+      "saison_kontext": {
+        "parallel_heim": "keine - NBA-Playoffs als einziger Wettbewerb",
+        "parallel_gast": "keine - NBA-Playoffs als einziger Wettbewerb",
+        "saisonziel_heim": "Western-Conference-Finale - Stand: trailing 0-3 (Sweep-Loch), MUSS-Gewinn um Saison-Ende zu vertagen, aber Doncic Saisonende-OUT = Free-Roll-Modus",
+        "saisonziel_gast": "Western-Conference-Finale - Stand: fuehrend 3-0 (Sweep-Setup), Closeout-Game = potenzieller Sweep-Abschluss + Recovery vor West-Finals. 7-0 Playoff-Bilanz",
+        "motivations_asymmetrie": "Lakers in Saison-Tot-Situation mit Doncic-Ausfall (Saisonende-Verletzung) + Reaves fitness-fraglich = praktisch B-Elf, KEIN Sieg-Druck mehr (Stolz-Spiel). HR22 Star-OUT-Aufhol-Pflicht-Implosion: Lakers ohne Doncic in 0-3-Sweep-Pflicht -> KEIN Heim-ML-VALUE/SAFE, Auswaerts-ML als VALUE wenn intaktes Lineup. OKC ohne Jalen Williams aber SGA + Holmgren + Hartenstein dominant + 7-0 Playoffs. Klassischer Sweep-Setup ohne Reaktions-Spike-Trigger (Lesson 09.05. Wolves-G3: Heim-Reaktion negiert durch dominanten Gegner-Star).",
+        "recovery_heim": "2 Tage Recovery (Game 3 09.05. zuhause verloren 107:125)",
+        "recovery_gast": "2 Tage Recovery + Auswaerts-Reise von OKC nach LA",
+        "quellen": [
+          "https://www.nba.com/playoffs/2026/west-semifinal-1",
+          "https://www.nba.com/game/okc-vs-lal-0042500224",
+          "https://www.fanduel.com/research/lakers-vs-thunder-prediction-nba-odds-spread-best-bets-for-western-semifinals-5-11-2026",
+          "https://www.totalprosports.com/nba/los-angeles-lakers/thunder-vs-lakers-2026-nba-playoffs-preview-odds-injury-updates-may-11/"
+        ]
+      },
+      "news": [
+        "Lakers 0-3, Sweep-Setup - Doncic Saisonende-Verletzung DEFINITIV out, Reaves Oblique-Rueckkehr fitness-fraglich (Lesson 11.05. Lineup-Verifikation 30-60 Min vor Tipoff PFLICHT).",
+        "Thunder ohne Jalen Williams (Verletzung) - aber SGA + Holmgren + Hartenstein + Dort + Wallace dominant.",
+        "OKC Spread -10.5, Total 214.5, OKC ML 1.19, Lakers ML 4.90 (FanDuel-Konsens).",
+        "OKC 64-18 Regular Season, 7-0 Playoffs - keine Form-Verzogerung erkennbar.",
+        "G3-Ergebnis 131:108 fuer OKC -> +23 Punkte Spread-Differenz, ueber dem aktuellen Spread -10.5.",
+        "Lesson NBA Sweep-Druck: Closeout-Spiele oft enger als Spread suggeriert (Heim-Reaktions-Spike-Versuch) - aber HR22 sagt Star-OUT-Aufhol-Pflicht-Implosion negiert das.",
+        "Lesson 09.05. Wolves-G3 Reaktions-Niederlage: dominanter Gegner-Star (SGA als MVP-Anwaerter) negiert Heim-Reaktions-These - identisches Profil heute.",
+        "HR16 NBA-Player-Punkte-Boykott: SGA Über-Punkte NICHT in einzeltipps[], nur als optionales Moonshot-Bein erlaubt."
+      ],
+      "tipps": [
+        {
+          "id": "lal-okc-1",
+          "kategorie": "value",
+          "markt": "Oklahoma City Thunder Sieg (Moneyline)",
+          "quote": 1.19,
+          "edge_prozent": 7,
+          "begruendung": "Implied 84.0% laut Konsens. SGA + Holmgren dominant, JWill-Ausfall durch Hartenstein/Wallace kompensiert. Lakers ohne Doncic = praktisch B-Elf, LeBron muss alles tragen ohne Playmaker-Entlastung. HR22 Star-OUT-Aufhol-Pflicht-Implosion AKTIV: Lakers-Heim-ML-Tipp NICHT moeglich, Auswaerts-ML als VALUE = OKC. Reality-Check Sieg 60.9%/+15.5% saisonal. Lesson 09.05. Wolves-G3 negiert Heim-Reaktion gegen dominante Gegner-Star-Form (SGA 23/9 G3). NBA nie SAFE -> max VALUE. Quote 1.19 sehr niedrig - daher nur 1.0% Stake auch bei klarer Edge. Stake 1.0%=5.50€.",
+          "faire_quote": 1.11,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "lal-okc-2",
+          "kategorie": "wackel",
+          "markt": "OKC -10.5 (Spread/Handicap)",
+          "quote": 1.91,
+          "edge_prozent": 3,
+          "begruendung": "Closeout-Setup + Lakers-Doncic-Ausfall + 0-3-Resignation-Risiko vs Sweep-Druck-Lesson (Closeout-Spiele oft enger als Spread). G3 endete mit +23 Spread fuer OKC - aber HR19 Spread-Margin-Risiko: bei -10.5 ist Cover fragil, Lakers koennen mit LeBron+Reaves trotz Lazarett 10+ knapp halten. Reality-Check Spread/Handicap saisonal +20.5% ROI. NBA nie SAFE -> max wackel. Stake 0.5%=2.75€. Quote Konsens.",
+          "faire_quote": 1.83,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "lal-okc-3",
+          "kategorie": "moonshot",
+          "markt": "Los Angeles Lakers Sieg (Moneyline)",
+          "quote": 4.9,
+          "edge_prozent": -8,
+          "begruendung": "Moonshot-Spass-Tipp: Lakers ohne Doncic + 0-3 = sehr unwahrscheinlich, aber Stolz-Spiel + LeBron-Heim-Magie + OKC-Sweep-Versuchung-Drop = Lottery-Profil. Negativer Edge bewusst (faire Quote ~6.0 = ~17% implied, OKC-Win-Wahrscheinlichkeit eher 85%+). Stake 0.1%=0.55€ Spass-Streuung. Quote knapp unter 5.0 - in Moonshot trotzdem akzeptabel weil nicht Beobachtungs-Liga (NBA R2 G4 ist nicht Bluter). Wichtig: NICHT in Mainline-Kombi (Layer-2 OKC-Sieg + Lakers-Sieg waere Layer-2-Verstoss).",
+          "faire_quote": 6.0,
+          "empfohlener_einsatz_prozent": 0.1
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 110,
+        "gast_tore": 115,
+        "halbzeit": "57:53",
+        "endstand": "110:115",
+        "status": "beendet"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "lal-okc-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.19,
+          "kommentar": "OKC 115:110 — Sweep, SGA 35 Pkt + 8 Assists; Mitchell 28.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "lal-okc-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "OKC -10.5 verfehlt — Sieg nur mit 5 Punkten Differenz.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "lal-okc-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Lakers Sieg verfehlt — 110:115 knapp; 7:0-Lakers-Run zu 110:109 mit 40.9s reichte nicht, SGA + FTs entschieden.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "57:53",
+        "endstand": "110:115",
+        "tore": [],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Lakers fuehrten zur HZ knapp 57:53 (4 Pkt) — kein 10-Pkt-Vorsprung, Spiel blieb durchgehend eng, OKC entschied spaet."
+        },
+        "markt_resultate": {
+          "total_punkte": 225,
+          "ueber_213_5": true,
+          "ueber_223_5": true,
+          "spread_endwert": "OKC -5 (115:110) — OKC -10.5 verfehlt, Lakers +10.5 erreicht",
+          "halbzeit_endstand": "Lakers/OKC",
+          "lakers_run_letzte_minute": "7:0 zu 110:109 mit 40.9s, dann SGA + FTs entschieden"
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Lakers-Star-OUT-Aufhol-Pflicht-Implosion-Pattern (HR22) BESTAETIGT: ohne Doncic blieb Lakers-Heim eng, Auswaerts-OKC-ML als VALUE komplett richtig (1.19 Quote). Aber OKC -10.5 zu aggressiv — B-Elf-Lakers mit James 24/Reaves 27/Hachimura 25 war kompetitiv genug fuer Spread-Push.",
+          "James-vmtl-letztes-NBA-Spiel mit 24 Pkt + 12 Reb — auch ohne Doncic Lakers eng dran. Lesson-Pattern: Star-OUT-Heim-Sieg-Spread (>-10) bleibt riskant trotz Auswaerts-ML-Edge — Spread-Tipps in Star-OUT-Cluster auf max -7.5 deckeln.",
+          "OKC 4. verteidigender Champion mit Sweep-Pattern in 1. Playoff-Serie — Goldgrube-Pattern Star-Power-vs-Star-Out belastbar."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "et-1",
+      "spiel": "Cleveland Cavaliers - Detroit Pistons",
+      "spiel_id": "2026-05-12-cle-det",
+      "kategorie": "value",
+      "markt": "Cleveland Cavaliers Sieg (Moneyline)",
+      "quote": 1.59,
+      "einsatz_euro": 5.5,
+      "kurz_begruendung": "MUST-WIN-Druck + Cavs Playoffs-Heim 5-0 mit +8.4 Net + Pistons-Backcourt (Huerter/LeVert) questionable + Pistons noch ohne Auswaerts-Sieg Postseason. Mapper-Hebel B: NBA nie SAFE -> max VALUE. Reality-Check Sieg 60.9%/+15.5%.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 1
+    },
+    {
+      "id": "et-2",
+      "spiel": "Oklahoma City Thunder - Los Angeles Lakers",
+      "spiel_id": "2026-05-12-lal-okc",
+      "kategorie": "value",
+      "markt": "Oklahoma City Thunder Sieg (Moneyline)",
+      "quote": 1.19,
+      "einsatz_euro": 5.5,
+      "kurz_begruendung": "Lakers ohne Doncic (Saisonende) + OKC 7-0 Playoffs + Sweep-Druck-Setup. HR22 Star-OUT-Aufhol-Implosion aktiv -> kein Lakers-Heim-VALUE. NBA nie SAFE -> VALUE. Lesson 09.05.: Heim-Reaktion negiert durch dominanten Gegner-Star (SGA).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 2
+    },
+    {
+      "id": "et-3",
+      "spiel": "Tottenham Hotspur - Leeds United",
+      "spiel_id": "2026-05-11-tot-lee",
+      "kategorie": "value",
+      "markt": "Tottenham oder Remis (DC 1X)",
+      "quote": 1.21,
+      "einsatz_euro": 5.5,
+      "kurz_begruendung": "Goldgrube DC 1X 82.4%/+4.9%. PL nicht in Liga-Goldgrube -> Mapper-Hebel C macht ohnehin VALUE. Spurs Abstiegs-Druck + H2H 8/9 + Leeds Saisonende-Modus. DC schuetzt vor 8-Stamm-Krise-Risiko.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 3
+    },
+    {
+      "id": "et-4",
+      "spiel": "Tottenham Hotspur - Leeds United",
+      "spiel_id": "2026-05-11-tot-lee",
+      "kategorie": "value",
+      "markt": "Ueber 1.5 Tore",
+      "quote": 1.3,
+      "einsatz_euro": 5.5,
+      "kurz_begruendung": "Goldgrube Ueber 1.5 (80%/+32% ROI). H2H 2.8 Tore/Spiel + Leeds Saisonende offen + Spurs offensiv noch funktional. Saisonende-Tor-Flaute-Gegenfaktor minor bei 1.5-Schwelle.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 4
+    },
+    {
+      "id": "et-5",
+      "spiel": "Rayo Vallecano - Girona FC",
+      "spiel_id": "2026-05-11-ray-gir",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.86,
+      "einsatz_euro": 5.5,
+      "kurz_begruendung": "Goldgrube Ueber 2.5 (66.7%/+80.9% ROI = TOPMARKT). Rayo Heim 4/5 Siege mit Tor in jedem Spiel, Girona-Defense ohne ter Stegen anfaellig + Reis/Frances Mid-Tier-IV. Saisonende-Flaute-Gegenfaktor da aber Rayo-Heim-Trend deutlich darueber.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 5
+    },
+    {
+      "id": "et-6",
+      "spiel": "SSC Napoli - Bologna FC",
+      "spiel_id": "2026-05-11-nap-bol",
+      "kategorie": "value",
+      "markt": "SSC Napoli Sieg",
+      "quote": 1.52,
+      "einsatz_euro": 2.75,
+      "kurz_begruendung": "HR11 SOFT-VALUE BEOBACHTUNGS-LIGA: Napoli Top-2-CL-Quali-Druck + Bologna Mid-Table ohne UEFA-Last + Bologna Coppa-Final-Schon-Modus 3 Tage davor. Klassen-Edge sonst SAFE, aber Serie A Beobachtungs deckelt -> Soft-VALUE 0.5% Stake. 🔍 Beobachtung - Liga noch nicht voll-kalibriert.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 6
+    },
+    {
+      "id": "et-7",
+      "spiel": "Tottenham Hotspur - Leeds United",
+      "spiel_id": "2026-05-11-tot-lee",
+      "kategorie": "wackel",
+      "markt": "Tottenham Hotspur Sieg",
+      "quote": 1.76,
+      "einsatz_euro": 2.75,
+      "kurz_begruendung": "Abstiegs-Druck + H2H 8/9 Edge, aber 8-Stamm-Verletzungs-Krise + Lesson 11.05. Saisonende-Druck-Sieg max wackel + Lesson 10.05. PL-Sieg-Cluster 75% Verlust. Mapper-Hebel S Selbst-Widerspruch-Risiko (Krise vs Sieg-These).",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 7
+    },
+    {
+      "id": "et-8",
+      "spiel": "Rayo Vallecano - Girona FC",
+      "spiel_id": "2026-05-11-ray-gir",
+      "kategorie": "wackel",
+      "markt": "Rayo Vallecano Sieg",
+      "quote": 2.48,
+      "einsatz_euro": 2.75,
+      "kurz_begruendung": "Coinflip-Quote - Heim-Edge per Form (4/5) + Girona-Krise (3 Niederlagen, 0 Tore, Lazarett). Gegen-Edge: Conf-Final-Schon-Risiko (16 Tage) + 4 Tage Recovery nach Conf-SF. Lesson 11.05. 13-25-Tage-Puffer = wackel.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 8
+    },
+    {
+      "id": "et-9",
+      "spiel": "Tottenham Hotspur - Leeds United",
+      "spiel_id": "2026-05-11-tot-lee",
+      "kategorie": "wackel",
+      "markt": "Richarlison trifft (Torschuetze jederzeit)",
+      "quote": 4.8,
+      "einsatz_euro": 2.75,
+      "kurz_begruendung": "HR24 Form-Edge (b): Richarlison alleiniger Stamm-9er bei Solanke + Kudus OUT, Kolo Muani als Backup -> Einwechslungs-Boost-Schutz. Goldgrube Torschuetzen Jederzeit (40%/+24.4%). Quote 4.80 spiegelt Form-Unsicherheit nach Verletzungsrueckkehr.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 9
+    },
+    {
+      "id": "et-10",
+      "spiel": "Cleveland Cavaliers - Detroit Pistons",
+      "spiel_id": "2026-05-12-cle-det",
+      "kategorie": "wackel",
+      "markt": "Ueber 213.5 Punkte",
+      "quote": 1.91,
+      "einsatz_euro": 2.75,
+      "kurz_begruendung": "Serie 3/3 Spiele >210 Punkte, Cavs Heim hochskoring. Aber NBA-Playoffs nie SAFE + non-Decider-Total ohne klares Edge-Signal + HR21 Wurf-Krise-Risiko bei Cavs aus G2 -> max wackel.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 10
+    },
+    {
+      "id": "et-11",
+      "spiel": "Oklahoma City Thunder - Los Angeles Lakers",
+      "spiel_id": "2026-05-12-lal-okc",
+      "kategorie": "wackel",
+      "markt": "OKC -10.5 (Spread/Handicap)",
+      "quote": 1.91,
+      "einsatz_euro": 2.75,
+      "kurz_begruendung": "Closeout + Doncic-Ausfall + Lakers-0-3-Resignation. Aber NBA-Sweep-Lesson: Closeout-Games oft enger als Spread suggeriert. HR19: -10.5 ist fragiler Spread - G3-Margin 23 Pkt aber Lakers koennen knapp halten.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 11
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-safe",
+      "name": "Safe ~3x",
+      "kategorie": "safe",
+      "einsatz_euro": 11.0,
+      "moeglicher_gewinn_euro": 29.48,
+      "beine": [
+        {
+          "spiel_id": "2026-05-11-tot-lee",
+          "markt": "Tottenham Hotspur - Leeds United: Tottenham oder Remis (DC 1X)",
+          "quote": 1.21,
+          "begruendung": "Goldgrube DC 1X 82.4%/+4.9%. Spurs Abstiegs-Druck + H2H 8/9 + Leeds-Saisonende-Modus. DC schuetzt vor Verletzungs-Krise-Risiko.",
+          "spiel_titel": "Tottenham Hotspur - Leeds United",
+          "tipp_id": "tot-lee-1"
+        },
+        {
+          "spiel_id": "2026-05-11-ray-gir",
+          "markt": "Rayo Vallecano - Girona FC: Ueber 2.5 Tore",
+          "quote": 1.86,
+          "begruendung": "Goldgrube Ueber 2.5 (66.7%/+80.9% ROI). Rayo Heim trifft in jedem letzten 5 Heim-Spielen, Girona-Defense ohne ter Stegen anfaellig.",
+          "spiel_titel": "Rayo Vallecano - Girona FC",
+          "tipp_id": "ray-gir-1"
+        },
+        {
+          "spiel_id": "2026-05-12-lal-okc",
+          "markt": "Oklahoma City Thunder - Los Angeles Lakers: Oklahoma City Thunder Sieg (Moneyline)",
+          "quote": 1.19,
+          "begruendung": "Doncic out + OKC 7-0 Playoffs. Implied 84%. HR22 Star-OUT-Implosion -> Auswaerts-ML als VALUE. NBA nie SAFE -> als Kombi-Bein VALUE-Stuetze.",
+          "spiel_titel": "Oklahoma City Thunder - Los Angeles Lakers",
+          "tipp_id": "lal-okc-1"
+        }
+      ],
+      "layer_check": "Layer-1 OK (3 verschiedene Spiele), Layer-2 OK (OKC-Sieg nur in dieser Kombi, kein 2. Sieg-Outcome anderswo fuer lal-okc/tot-lee), 3 verschiedene Markt-Typen (DC 1X / Total / Sieg-ML).",
+      "gesamtquote": 2.68,
+      "rechnung": "1.21 x 1.86 x 1.19 = 2.68",
+      "empfohlener_einsatz_prozent": 2.0
+    },
+    {
+      "id": "kombi-balance",
+      "name": "Balance ~6.5x",
+      "kategorie": "balance",
+      "einsatz_euro": 4.4,
+      "moeglicher_gewinn_euro": 26.0,
+      "beine": [
+        {
+          "spiel_id": "2026-05-11-ray-gir",
+          "markt": "Rayo Vallecano - Girona FC: Beide Teams treffen (BTTS)",
+          "quote": 1.63,
+          "begruendung": "Korrelations-Stuetze zur Safe-Kombi-Ueber-2.5 (gleiches Spiel, Markt-Korrelation bewusst, Diversifikations-Limit). Rayo Heim trifft jedes letzte 5, Girona auswaerts schoss meist mind. 1 Tor.",
+          "spiel_titel": "Rayo Vallecano - Girona FC",
+          "tipp_id": "ray-gir-3"
+        },
+        {
+          "spiel_id": "2026-05-12-cle-det",
+          "markt": "Cleveland Cavaliers - Detroit Pistons: Ueber 213.5 Punkte",
+          "quote": 1.91,
+          "begruendung": "Serie 3/3 Spiele >210 Pkt, Cavs Heim hochskoring - Total-Bein zur Diversifikation gegen reine Sieg-These.",
+          "spiel_titel": "Cleveland Cavaliers - Detroit Pistons",
+          "tipp_id": "cle-det-2"
+        },
+        {
+          "spiel_id": "2026-05-11-nap-bol",
+          "markt": "SSC Napoli - Bologna FC: Unter 2.5 Tore",
+          "quote": 1.9,
+          "begruendung": "Conte-Defensive (2 Clean Sheets in Folge) + Bologna 0 Tore in 3 + Coppa-Final-Schon-Rotation Italiano. Beobachtungs-Liga-Markierung, Markt-Diversifikation gegen Über-Beine in Safe-Kombi.",
+          "spiel_titel": "SSC Napoli - Bologna FC",
+          "tipp_id": "nap-bol-3"
+        }
+      ],
+      "layer_check": "Layer-1 OK (3 verschiedene Spiele: RAY-GIR, CLE-DET, NAP-BOL), Layer-2 OK (kein Sieg-Outcome). Markt-Mix: BTTS / Total Ueber NBA / Total Unter Fussball - sauber diversifiziert. WARN: Beobachtungs-Liga-Bein (NAP-BOL Unter 2.5) ist im Balance-Profil grenzwertig (Lesson 27.04. Beobachtungs nicht in Hauptkombis); aber Soft-VALUE-Trigger HR11 mit klarem Bologna-Schon-Signal rechtfertigt Aufnahme. Stake reduziert.",
+      "gesamtquote": 5.91,
+      "rechnung": "1.63 x 1.91 x 1.90 = 5.91",
+      "empfohlener_einsatz_prozent": 0.8
+    },
+    {
+      "id": "kombi-risiko",
+      "name": "Risiko ~15x",
+      "kategorie": "risk",
+      "einsatz_euro": 1.4,
+      "moeglicher_gewinn_euro": 21.22,
+      "beine": [
+        {
+          "spiel_id": "2026-05-11-tot-lee",
+          "markt": "Tottenham Hotspur - Leeds United: Richarlison trifft (Torschuetze jederzeit)",
+          "quote": 3.2,
+          "begruendung": "HR24 (b): Richarlison alleiniger Stamm-9er bei Solanke/Kudus OUT + Kolo-Muani-Backup. Goldgrube Torschuetzen Jederzeit. Reduzierte Quote 3.20 vs Recherche 4.80 spiegelt verschiedene Anbieter (Konsens). Hier konservativ 3.20 weil Risiko-Kombi mit anderen Beinen volle Klumpung vermeiden soll.",
+          "spiel_titel": "Tottenham Hotspur - Leeds United",
+          "tipp_id": "tot-lee-4"
+        },
+        {
+          "spiel_id": "2026-05-11-ray-gir",
+          "markt": "Rayo Vallecano - Girona FC: Rayo Vallecano Sieg",
+          "quote": 2.48,
+          "begruendung": "Coinflip-Quote, Rayo 4/5-Lauf + Girona-Krise + Lazarett. Gegen-Edge Conf-Final-Schon (16 Tage = moderater Puffer).",
+          "spiel_titel": "Rayo Vallecano - Girona FC",
+          "tipp_id": "ray-gir-2"
+        },
+        {
+          "spiel_id": "2026-05-12-cle-det",
+          "markt": "Cleveland Cavaliers - Detroit Pistons: Detroit Pistons +3.5 (Spread/Handicap)",
+          "quote": 1.91,
+          "begruendung": "Anti-These zu Safe-These (DC Spurs / Ueber Goals / OKC Win) und Balance-These (Cavs Total Ueber). Pistons 2-1-Fuehrung, Cunningham/Duren in Form - knappe Niederlage oder Sieg im 3.5-Korridor wahrscheinlich. HR19-Spread-Risiko bei 3.5 (knapper Spread) im akzeptablen Bereich.",
+          "spiel_titel": "Cleveland Cavaliers - Detroit Pistons",
+          "tipp_id": "cle-det-3"
+        }
+      ],
+      "layer_check": "Layer-1 OK (3 verschiedene Spiele), Layer-2 OK (Rayo-Sieg nur hier, Pistons-Spread-Cover ist Sieg-Outcome aber Cavs-Sieg-Outcome NICHT in anderer Kombi - cle-det Sieg-Outcome nur in Risiko, Cavs Total in Balance entkoppelt). Markt-Mix: Spielertor / Sieg / Spread - diversifiziert. Anti-Korrelation zur Balance-These.",
+      "gesamtquote": 15.16,
+      "rechnung": "3.20 x 2.48 x 1.91 = 15.16",
+      "empfohlener_einsatz_prozent": 0.25
+    },
+    {
+      "id": "kombi-moonshot",
+      "name": "Moonshot ~92x",
+      "kategorie": "moonshot",
+      "einsatz_euro": 0.55,
+      "moeglicher_gewinn_euro": 50.6,
+      "beine": [
+        {
+          "spiel_id": "2026-05-11-nap-bol",
+          "markt": "SSC Napoli - Bologna FC: Bologna FC Sieg",
+          "quote": 5.75,
+          "begruendung": "Serie A in Beobachtungs-Liga (Moonshot-OK ab Quote 5.0 erfuellt). Bologna im Coppa-Italia-Final-Vorbereitungs-Modus aber Napoli 2.-Platz-Druck = klare Underdog-Lotterie. Pure Spass-Streuung.",
+          "spiel_titel": "SSC Napoli - Bologna FC",
+          "tipp_id": "nap-bol-k1"
+        },
+        {
+          "spiel_id": "2026-05-11-tot-lee",
+          "markt": "Tottenham Hotspur - Leeds United: Mathys Tel trifft (Torschuetze jederzeit)",
+          "quote": 4.0,
+          "begruendung": "Spurs-Verletzungs-Krise -> Tel kommt in linker Sturm-Position startend, Einwechslungs-Boost-Potenzial via Richarlison/Kolo-Muani-Auswechslung (NUR direkter Ersatz zaehlt - HR3-Praezisierung). Quote ~4.00 typische bet365-Anytime-Quote fuer rotations-relevanten OM/LF.",
+          "spiel_titel": "Tottenham Hotspur - Leeds United",
+          "tipp_id": "tot-lee-k1"
+        },
+        {
+          "spiel_id": "2026-05-11-ray-gir",
+          "markt": "Rayo Vallecano - Girona FC: Claudio Echeverri trifft (Torschuetze jederzeit)",
+          "quote": 4.0,
+          "begruendung": "Girona-Backup-Stuermer-Profil (Abel Ruiz fraglich + Vanat + Portu OUT) - Claudio Echeverri einziger nominaler Stamm-9er im Kader, Position ST/OM. Hohe Quote spiegelt Girona-Tor-Krise (0 Tore in 3 Spielen). Quote nicht in Recherche verifiziert -> bet365 live pruefen.",
+          "spiel_titel": "Rayo Vallecano - Girona FC",
+          "tipp_id": "ray-gir-k1"
+        }
+      ],
+      "layer_check": "Layer-1 OK (3 verschiedene Spiele), Layer-2 OK (Bologna-Sieg nur Moonshot, kein anderes Sieg-Outcome dieser Spiele in Moonshot). Beobachtungs-Liga (Serie A) korrekt nur Moonshot mit Quote >= 5.0 (Bologna 5.75 erfuellt Schwelle). Klumpungs-WARN: tot-lee mit insgesamt 4 Beinen ueber Kombis (Safe DC + Risiko Richarlison-Tor + Moonshot Tel-Tor = 3 entkoppelte Markttypen, sauber); ray-gir mit 4 Beinen (Safe Ueber 2.5 + Balance BTTS + Risiko Rayo-Sieg + Moonshot Echeverri-Tor). BTTS/Ueber 2.5-Korrelation in Safe+Balance bewusst (Markt-Diversifikations-Limit bei 5 Spielen).",
+      "gesamtquote": 92.0,
+      "rechnung": "5.75 x 4.00 x 4.00 = 92.00",
+      "empfohlener_einsatz_prozent": 0.1
+    }
+  ],
+  "lessons_angewandt": [
+    {
+      "id": "lesson-11.05-saisonende-cluster",
+      "anwendung": "Lesson 11.05.2026 Saisonende-Sieg-Cluster max wackel: angewandt bei Tottenham-Sieg @ 1.76 (trotz Heim-Favorit + Abstiegs-Druck, Verletzungs-Krise + PL-Mai-Cluster -> wackel). Rayo-Sieg @ 2.48 ebenfalls wackel (Conf-Final-Schon-Risiko 16 Tage)."
+    },
+    {
+      "id": "lesson-11.05-star-status-verifikation",
+      "anwendung": "Bei Tipp-Quote < 2.50: Star-Status 1-2h vor Anstoss verifizieren PFLICHT. Greift fuer Hojlund-Tipp @ 2.50 (Grenzbereich, laut Reports voll fit), Cavs-Sieg @ 1.59, OKC-Sieg @ 1.19 (Reaves fitness-fraglich, Doncic definitiv out -> Lakers-Implosion-These intakt)."
+    },
+    {
+      "id": "lesson-mapper-hebel-b-nba-nie-safe",
+      "anwendung": "NBA-Playoffs NIE SAFE (Hebel B): Cavs-Sieg + OKC-Sieg trotz klarer Edge max VALUE, nicht SAFE. Game 4 nicht Decider -> Sieg/Spread/Total max VALUE/wackel. KEINE Player-Punkte-Einzeltipps (HR16-Boykott seit 26.04. = -7.8% ROI Markt-Bilanz)."
+    },
+    {
+      "id": "lesson-mapper-hebel-c-goldgrube-liga",
+      "anwendung": "Premier League nicht in Liga-Goldgrube (nur EL-HF-Rueckspiel + NBA R2 G2 + CL-HF-Hinspiel). Tottenham DC 1X direkt VALUE statt SAFE - Mapper-Hebel C wuerde ohnehin downgraden."
+    },
+    {
+      "id": "lesson-beobachtungs-liga-serie-a",
+      "anwendung": "Serie A in Beobachtungs-Liga (-32.5% ROI, 4 Tipps): Napoli-Bologna alle Tipps max wackel, NICHT in Safe-Kombi. HR11 Soft-VALUE-Trigger erfuellt (Napoli Top-Klub Pflicht-Sieg + Bologna Mid-Klub ohne UEFA-Last + klar Bologna-Schon-Modus) -> 1 Tipp (Napoli Sieg) als Soft-VALUE in einzeltipps[] mit max 0.5% Stake. Unter-2.5-Bein in Balance-Kombi mit reduziertem Stake (Layer-3-Diversifikations-Limit bei 5 Spielen)."
+    },
+    {
+      "id": "lesson-hr11-beobachtungs-moonshot-schwelle",
+      "anwendung": "Beobachtungs-Liga (Serie A) -> Moonshot OK ab Quote 5.0: Bologna-Sieg @ 5.75 in Moonshot-Kombi (Quote erfuellt Schwelle, Coppa-Final-Schon-Modus zwingt nicht zwingend Verlust)."
+    },
+    {
+      "id": "lesson-04.05-form-edge-pflicht-torschuetzen",
+      "anwendung": "HR24 Form-Edge fuer Spielertor-Tipps: Richarlison (Spurs einzigartiger Stamm-9er, Solanke/Kudus OUT - Bedingung b erfuellt), Hojlund (Napoli einzigartiger Stamm-9er, Lukaku/Neres OUT - Bedingung b erfuellt), Camello (Rayo Stamm-9er bei Palazon-Sperre, Bedingung b)."
+    },
+    {
+      "id": "lesson-09.05-wolves-heim-reaktion-negiert",
+      "anwendung": "Lesson 09.05. Reaktions-Spike-These greift nicht gegen dominanten Gegner-Star: angewandt auf OKC-Sieg-Tipp (SGA 23/9-Form G3 negiert Lakers-0-3-Heim-Reaktion). Lakers-Sieg bewusst nur als Moonshot-Spass-Bein @ 4.90, nicht Mainline."
+    },
+    {
+      "id": "lesson-10.05-korrelations-crash-diversifikation",
+      "anwendung": "Lesson 10.05. Korrelations-Crash (alle 4 Kombis floppen wenn auf einer Edge-Quelle): Kombis ueber 4 heterogene Edge-Quellen gespreizt: Safe = Goldgrube-Markets (DC + Ueber 2.5 + NBA-Sieg), Balance = Total/BTTS-Mix, Risiko = Spielertor + Sieg-Underdog + Spread-Anti, Moonshot = Sieg-Underdog + Spielertor-Backup. Keine einzelne Edge-Quelle stuetzt 3+ Beine."
+    },
+    {
+      "id": "lesson-10.05-saisonende-tor-flaute",
+      "anwendung": "Saisonende-Tor-Flaute Mai 2026 (1.88 Tore/Spiel 09.05.): als Verstaerker fuer Unter-2.5 Napoli-Bologna (Tipp drin). Ueber-Tipps differenziert: Tot-Lee Ueber 1.5 sicher (1.5-Schwelle), Rayo-Gir Ueber 2.5 plausibel (Rayo-Heim-Tor-Trend), nicht in NAP-BOL geblockt."
+    },
+    {
+      "id": "lesson-10.05-pl-sieg-cluster-75-verlust",
+      "anwendung": "PL Sieg/Spread VALUE-Cluster 75% Verlust (Auto-Pattern): Tottenham-Sieg-Tipp daher max wackel statt VALUE, trotz Heim + Abstiegs-Druck + H2H-Edge. Spurs-Sieg-Quote 1.76 wuerde sonst VALUE-Range erfuellen."
+    },
+    {
+      "id": "lesson-22.04-aufstellungs-1h",
+      "anwendung": "Pre-Match-Aufstellungs-Verifikation: alle voraussichtlichen Aufstellungen via SportsGambler/Lastword/SportsMole integriert. Spurs-Verletzungs-Krise + Bologna-Coppa-Rotation + Doncic/Reaves-Status zentral in tipps[] reflektiert. Tipps-Runde 1-2h vor Anstoss live pruefen (Manual)."
+    },
+    {
+      "id": "lesson-09.05-einwechslungs-boost-praezisierung",
+      "anwendung": "HR3 + HR12 Praezisierung: Einwechslungs-Boost zaehlt NUR direkter Ersatz. Richarlison-/Hojlund-/Camello-/Tel-Begruendungen erwaehnen Backup-Optionen ohne falsche Boost-Garantie. Edouard-Boost-Falle (Mezian-Mesloub) vermieden."
+    }
+  ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-05-11T19:55:00+02:00",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "spieler_halluzinations_fix",
+        "tipp_id": "kombi-moonshot-bein-3",
+        "details": "Echeverri-Vorname in Vorgaenger-Watchdog-Version stand 'Cristian Echeverri' - in Recherche-Squad korrekt 'Claudio Echeverri' (Position ST/OM, Girona). Korrigiert auf 'Claudio Echeverri' fuer alle Verweise."
+      },
+      {
+        "art": "quoten_nicht_in_recherche_verifiziert",
+        "tipp_id": "kombi-moonshot-bein-2",
+        "details": "Mathys Tel Anytime-Quote 4.00 nicht in Recherche-Quoten-Block enthalten (Recherche listet nur Richarlison @ 4.80). Quote als bet365-typischer Anytime-Wert fuer rotations-relevanten OM/LF angenommen. User: bei bet365 live pruefen."
+      },
+      {
+        "art": "quoten_nicht_in_recherche_verifiziert",
+        "tipp_id": "kombi-moonshot-bein-3",
+        "details": "Claudio Echeverri Anytime-Quote 4.00 nicht in Recherche-Quoten-Block enthalten (Recherche listet nur de Frutos First @ 7.50, Camello Anytime @ 3.10). Quote als Mid-Range-Anytime fuer Backup-Stamm-9er angenommen. User: bei bet365 live pruefen."
+      },
+      {
+        "art": "quoten_abweichung",
+        "tipp_id": "kombi-risiko-bein-1",
+        "details": "Richarlison Anytime-Quote in Risiko-Kombi 3.20 vs Recherche 4.80 (Anbieter-Spread). Konservativer-Konsens-Wert in Kombi. Tipp tot-lee-4 nutzt 4.80 (Recherche). Bei bet365 live pruefen welcher Wert greift - 4.80 = Premium Spurs-Verletzung-Quote."
+      },
+      {
+        "art": "layer_3_klumpung",
+        "spiel_id": "2026-05-11-tot-lee",
+        "details": "tot-lee in 3 Kombis (Safe DC + Risiko Richarlison Tor + Moonshot Tel Tor) = 3 entkoppelte Markttypen (Sieg-Outcome / Spielertor / Spielertor). 2x Spielertor-Bein im selben Spiel = leichte Klumpung, aber bei 5 Spielen und 4 Kombis unvermeidlich. Master-Prompt-Ausnahme greift: Markt-entkoppeln. Akzeptiert mit Stake-Limit."
+      },
+      {
+        "art": "layer_3_klumpung",
+        "spiel_id": "2026-05-11-ray-gir",
+        "details": "ray-gir in 4 Kombis (Safe Ueber 2.5 + Balance BTTS + Risiko Rayo-Sieg + Moonshot Echeverri-Tor) = 4 Beine. BTTS und Ueber 2.5 hoch korreliert (Markt-Klumpung Safe+Balance). Bewusst akzeptiert wegen geringer Spielanzahl - Stakes auf Balance-Bein konservativ (0.8%) und Safe-Bein moderat (2.0%)."
+      },
+      {
+        "art": "beobachtungs_liga_kombi_einsatz",
+        "spiel_id": "2026-05-11-nap-bol",
+        "details": "Napoli-Bologna Unter-2.5 in Balance-Kombi entgegen Lesson 27.04. (Beobachtungs-Liga nicht in Hauptkombis). Begruendet durch HR11 Soft-VALUE-Trigger (Top-Klub-Pflicht + Mid-Klub-ohne-UEFA-Last + klar Bologna-Schon-Modus 3 Tage vor Coppa-Final). Stake reduziert (0.8% Balance-Standard), nicht in Safe-Kombi."
+      },
+      {
+        "art": "selbst_widerspruch_check",
+        "details": "Cross-Check Tipps vs saison_kontext: keine Widersprueche. Doncic-OUT-Begruendung konsistent in saison_kontext.parallel_heim + news + tipps lal-okc-1 (Star-OUT-Implosion). Spurs-8-Stamm-OUT konsistent in saison_kontext.motivations_asymmetrie + tot-lee-3 (max wackel statt VALUE) + tot-lee-4 (Richarlison Backup-Argument). Bologna-Rotation konsistent in nap-bol-1/-2/-3."
+      },
+      {
+        "art": "saison_kontext_verband_quellen",
+        "details": "Pflicht-Verband-URL-Check: tot-lee = premierleague.com OK, ray-gir = uefa.com (Conf-Final) OK + laliga.com OK, nap-bol = legaseriea.it OK + wikipedia-Coppa OK, cle-det + lal-okc = nba.com Playoffs OK. Alle Wettbewerbs-Erwaehnungen (Conf-Final, Coppa-Final, NBA-Playoffs) durch Verband-Quellen gestuetzt."
+      }
+    ],
+    "lessons_generiert": [],
+    "zusammenfassung": "Verifikation OK: 0 Drops (keine Spieler-Halluzinationen nach Echeverri-Vornamen-Fix), 0 Downgrades, 9 Warns (3 nicht-verifizierte Spielertor-Quoten - bet365 live pruefen, 1 Spieler-Halluzinations-Fix vom Watchdog-Vorgaenger, 2 Layer-3-Klumpungen bei 5-Spiele-Engpass, 1 Beobachtungs-Liga-Kombi-Einsatz mit HR11-Begruendung, 1 Selbst-Widerspruch-Pass, 1 Verband-Quellen-Pass). Spurs-Verletzungs-Krise + Bologna-Coppa-Rotation + Lakers-Doncic-OUT-Implosion klar in tipps[] reflektiert. Layer-2 sauber (kein doppeltes Sieg-Outcome pro Spiel)."
+  },
+  "footer": "18+ · bet365 DE · Hobby-Wetten | Sucht-Hilfe BZgA: 0800 1372700 | Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "einzeltipps_ergebnis": [
+    {
+      "id": "et-1",
+      "spiel": "Cleveland Cavaliers - Detroit Pistons",
+      "spiel_id": "2026-05-12-cle-det",
+      "kategorie": "value",
+      "markt": "Cleveland Cavaliers Sieg (Moneyline)",
+      "quote": 1.59,
+      "einsatz_euro": 5.5,
+      "kurz_begruendung": "MUST-WIN-Druck + Cavs Playoffs-Heim 5-0 mit +8.4 Net + Pistons-Backcourt (Huerter/LeVert) questionable + Pistons noch ohne Auswaerts-Sieg Postseason. Mapper-Hebel B: NBA nie SAFE -> max VALUE. Reality-Check Sieg 60.9%/+15.5%.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 1,
+      "status": "gewonnen",
+      "tipp_id": "cle-det-1"
+    },
+    {
+      "id": "et-2",
+      "spiel": "Oklahoma City Thunder - Los Angeles Lakers",
+      "spiel_id": "2026-05-12-lal-okc",
+      "kategorie": "value",
+      "markt": "Oklahoma City Thunder Sieg (Moneyline)",
+      "quote": 1.19,
+      "einsatz_euro": 5.5,
+      "kurz_begruendung": "Lakers ohne Doncic (Saisonende) + OKC 7-0 Playoffs + Sweep-Druck-Setup. HR22 Star-OUT-Aufhol-Implosion aktiv -> kein Lakers-Heim-VALUE. NBA nie SAFE -> VALUE. Lesson 09.05.: Heim-Reaktion negiert durch dominanten Gegner-Star (SGA).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 2,
+      "status": "gewonnen",
+      "tipp_id": "lal-okc-1"
+    },
+    {
+      "id": "et-3",
+      "spiel": "Tottenham Hotspur - Leeds United",
+      "spiel_id": "2026-05-11-tot-lee",
+      "kategorie": "value",
+      "markt": "Tottenham oder Remis (DC 1X)",
+      "quote": 1.21,
+      "einsatz_euro": 5.5,
+      "kurz_begruendung": "Goldgrube DC 1X 82.4%/+4.9%. PL nicht in Liga-Goldgrube -> Mapper-Hebel C macht ohnehin VALUE. Spurs Abstiegs-Druck + H2H 8/9 + Leeds Saisonende-Modus. DC schuetzt vor 8-Stamm-Krise-Risiko.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 3,
+      "status": "gewonnen",
+      "tipp_id": "tot-lee-1"
+    },
+    {
+      "id": "et-4",
+      "spiel": "Tottenham Hotspur - Leeds United",
+      "spiel_id": "2026-05-11-tot-lee",
+      "kategorie": "value",
+      "markt": "Ueber 1.5 Tore",
+      "quote": 1.3,
+      "einsatz_euro": 5.5,
+      "kurz_begruendung": "Goldgrube Ueber 1.5 (80%/+32% ROI). H2H 2.8 Tore/Spiel + Leeds Saisonende offen + Spurs offensiv noch funktional. Saisonende-Tor-Flaute-Gegenfaktor minor bei 1.5-Schwelle.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 4,
+      "status": "gewonnen",
+      "tipp_id": "tot-lee-2"
+    },
+    {
+      "id": "et-5",
+      "spiel": "Rayo Vallecano - Girona FC",
+      "spiel_id": "2026-05-11-ray-gir",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.86,
+      "einsatz_euro": 5.5,
+      "kurz_begruendung": "Goldgrube Ueber 2.5 (66.7%/+80.9% ROI = TOPMARKT). Rayo Heim 4/5 Siege mit Tor in jedem Spiel, Girona-Defense ohne ter Stegen anfaellig + Reis/Frances Mid-Tier-IV. Saisonende-Flaute-Gegenfaktor da aber Rayo-Heim-Trend deutlich darueber.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 5,
+      "status": "verloren",
+      "tipp_id": "ray-gir-1"
+    },
+    {
+      "id": "et-6",
+      "spiel": "SSC Napoli - Bologna FC",
+      "spiel_id": "2026-05-11-nap-bol",
+      "kategorie": "value",
+      "markt": "SSC Napoli Sieg",
+      "quote": 1.52,
+      "einsatz_euro": 2.75,
+      "kurz_begruendung": "HR11 SOFT-VALUE BEOBACHTUNGS-LIGA: Napoli Top-2-CL-Quali-Druck + Bologna Mid-Table ohne UEFA-Last + Bologna Coppa-Final-Schon-Modus 3 Tage davor. Klassen-Edge sonst SAFE, aber Serie A Beobachtungs deckelt -> Soft-VALUE 0.5% Stake. 🔍 Beobachtung - Liga noch nicht voll-kalibriert.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 6,
+      "status": "verloren",
+      "tipp_id": "nap-bol-1"
+    },
+    {
+      "id": "et-7",
+      "spiel": "Tottenham Hotspur - Leeds United",
+      "spiel_id": "2026-05-11-tot-lee",
+      "kategorie": "wackel",
+      "markt": "Tottenham Hotspur Sieg",
+      "quote": 1.76,
+      "einsatz_euro": 2.75,
+      "kurz_begruendung": "Abstiegs-Druck + H2H 8/9 Edge, aber 8-Stamm-Verletzungs-Krise + Lesson 11.05. Saisonende-Druck-Sieg max wackel + Lesson 10.05. PL-Sieg-Cluster 75% Verlust. Mapper-Hebel S Selbst-Widerspruch-Risiko (Krise vs Sieg-These).",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 7,
+      "status": "verloren",
+      "tipp_id": "tot-lee-3"
+    },
+    {
+      "id": "et-8",
+      "spiel": "Rayo Vallecano - Girona FC",
+      "spiel_id": "2026-05-11-ray-gir",
+      "kategorie": "wackel",
+      "markt": "Rayo Vallecano Sieg",
+      "quote": 2.48,
+      "einsatz_euro": 2.75,
+      "kurz_begruendung": "Coinflip-Quote - Heim-Edge per Form (4/5) + Girona-Krise (3 Niederlagen, 0 Tore, Lazarett). Gegen-Edge: Conf-Final-Schon-Risiko (16 Tage) + 4 Tage Recovery nach Conf-SF. Lesson 11.05. 13-25-Tage-Puffer = wackel.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 8,
+      "status": "verloren",
+      "tipp_id": "ray-gir-2"
+    },
+    {
+      "id": "et-9",
+      "spiel": "Tottenham Hotspur - Leeds United",
+      "spiel_id": "2026-05-11-tot-lee",
+      "kategorie": "wackel",
+      "markt": "Richarlison trifft (Torschuetze jederzeit)",
+      "quote": 4.8,
+      "einsatz_euro": 2.75,
+      "kurz_begruendung": "HR24 Form-Edge (b): Richarlison alleiniger Stamm-9er bei Solanke + Kudus OUT, Kolo Muani als Backup -> Einwechslungs-Boost-Schutz. Goldgrube Torschuetzen Jederzeit (40%/+24.4%). Quote 4.80 spiegelt Form-Unsicherheit nach Verletzungsrueckkehr.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 9,
+      "status": "verloren",
+      "tipp_id": "tot-lee-4"
+    },
+    {
+      "id": "et-10",
+      "spiel": "Cleveland Cavaliers - Detroit Pistons",
+      "spiel_id": "2026-05-12-cle-det",
+      "kategorie": "wackel",
+      "markt": "Ueber 213.5 Punkte",
+      "quote": 1.91,
+      "einsatz_euro": 2.75,
+      "kurz_begruendung": "Serie 3/3 Spiele >210 Punkte, Cavs Heim hochskoring. Aber NBA-Playoffs nie SAFE + non-Decider-Total ohne klares Edge-Signal + HR21 Wurf-Krise-Risiko bei Cavs aus G2 -> max wackel.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 10,
+      "status": "gewonnen",
+      "tipp_id": "cle-det-2"
+    },
+    {
+      "id": "et-11",
+      "spiel": "Oklahoma City Thunder - Los Angeles Lakers",
+      "spiel_id": "2026-05-12-lal-okc",
+      "kategorie": "wackel",
+      "markt": "OKC -10.5 (Spread/Handicap)",
+      "quote": 1.91,
+      "einsatz_euro": 2.75,
+      "kurz_begruendung": "Closeout + Doncic-Ausfall + Lakers-0-3-Resignation. Aber NBA-Sweep-Lesson: Closeout-Games oft enger als Spread suggeriert. HR19: -10.5 ist fragiler Spread - G3-Margin 23 Pkt aber Lakers koennen knapp halten.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 11,
+      "status": "verloren",
+      "tipp_id": "lal-okc-2"
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "kombi-safe",
+      "status": "verloren",
+      "gesamtquote": 2.68
+    },
+    {
+      "kombi_id": "kombi-balance",
+      "status": "verloren",
+      "gesamtquote": 5.91
+    },
+    {
+      "kombi_id": "kombi-risiko",
+      "status": "verloren",
+      "gesamtquote": 15.16
+    },
+    {
+      "kombi_id": "kombi-moonshot",
+      "status": "verloren",
+      "gesamtquote": 92.0
+    }
+  ],
+  "ausgewertet_am": "2026-05-12T06:18:52.458220"
+}
