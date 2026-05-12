@@ -69,29 +69,9 @@
         "FA Cup ist NICHT Premier League, aber beide Klubs PL-Klubs - vorsichtshalber wackel-Limit eingehalten",
         "FA Cup ist NICHT in Liga-Goldgruben enthalten -> SAFE-DC waere downgegradet -> wir setzen wackel"
       ],
-      "tipps": [
-        {
-          "id": "che-mci-1",
-          "kategorie": "wackel",
-          "markt": "Manchester City (90 Min)",
-          "quote": 2.0,
-          "begruendung": "Form-Edge klar pro City (Chelsea 5 PL-Niederlagen, City Aufschwung), aber FA-Cup-Finale ist neutraler Boden + Endspiel-Volatilitaet (City verlor letzte 2 FA-Cup-Finals!). Lesson 10.05. PL-Cluster-Vorsicht: trotz FA-Cup-Wettbewerb beide Teams PL = max wackel statt VALUE. Stufe 1 0.5%-Einsatz = 2,75€. Konservativer Probestein, kein Top-Pick fuer einzeltipps[].",
-          "status": "offen",
-          "empfohlener_einsatz_prozent": 0.5,
-          "faire_quote": 2.0
-        },
-        {
-          "id": "che-mci-2",
-          "kategorie": "wackel",
-          "markt": "Erling Haaland trifft",
-          "quote": 2.0,
-          "begruendung": "Goldgrube-Markt + Cup-Finale + Form-Aufschwung (Tor vs Leicester nach 4-Spiel-Pause, dann staendig). Aber Lesson 10.05. Salah-Doppel-Ausfall: Aufstellungs-Verifikation 1-2h vor Anstoss zwingend, sonst Tipp streichen oder degradieren. Bis Verifikation max wackel mit 0.5%-Einsatz = 2,75€. Bei Bestaetigung Upgrade auf 1.5% moeglich.",
-          "status": "offen",
-          "empfohlener_einsatz_prozent": 0.5,
-          "faire_quote": 2.0
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-05-16-bay-koe",
@@ -159,29 +139,9 @@
         "Quoten 7 Tage vor Anstoss volatil: Frankfurt Sieg ~2.00-2.10, Unentschieden ~3.50, Stuttgart-Sieg ~3.20",
         "Bundesliga nicht Liga-Goldgrube -> SAFE-Limit, max VALUE im Dossier"
       ],
-      "tipps": [
-        {
-          "id": "sge-vfb-1",
-          "kategorie": "value",
-          "markt": "Eintracht Frankfurt",
-          "quote": 2.0,
-          "begruendung": "saison_kontext-Edge: HR3-Trigger STARK aktiv (Stuttgart Pokal 7 Tage spaeter, Lesson 10.05.-Bedingung erfuellt). Stuttgart muss B-Elf einsetzen. Frankfurt Heim-Stamm + Form-Stabilitaet. Sieg/ML ist Markt-Goldgrube ROI +16.4%. Quote 2.00 = 50% implied; faire Wkt 55-60% bei Stuttgart-Schon. Stufe 1 1.5%-Einsatz = 8,25€.",
-          "status": "offen",
-          "empfohlener_einsatz_prozent": 1.5,
-          "faire_quote": 2.0
-        },
-        {
-          "id": "sge-vfb-3",
-          "kategorie": "value",
-          "markt": "Mehr als 2.5 Tore",
-          "quote": 1.85,
-          "begruendung": "Tor-Total-Goldgrube ROI +80.9%. Frankfurt offensiv zu Hause (~2 Tore/Heim-Schnitt); Stuttgart-B-Elf defensiv anfaelliger -> 3+ Tore wahrscheinlich. Lesson 10.05. (Saisonende-Tor-Flaute Mid-vs-Mid -> max wackel) trifft hier NICHT in voller Strenge: Stuttgart hat noch EL-Quali-Druck via Liga-Position 5./6. + Frankfurt um Conf-Quali -> Druck-Setup beidseitig. Stufe 1 1.0%-Einsatz = 5,50€.",
-          "status": "offen",
-          "empfohlener_einsatz_prozent": 1.0,
-          "faire_quote": 1.85
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-05-16-scf-rbl",
@@ -214,29 +174,9 @@
         "Lesson 09.05. Boost-Falle: keine Freiburg-Torschuetzen-Tipps (B-Elf-Setup unklar wer einlaeuft)",
         "Bundesliga nicht Liga-Goldgrube -> max VALUE"
       ],
-      "tipps": [
-        {
-          "id": "scf-rbl-1",
-          "kategorie": "value",
-          "markt": "RB Leipzig",
-          "quote": 2.7,
-          "begruendung": "saison_kontext-Edge: Freiburg unter EL-Finale-Schon-Druck (4 Tage spaeter, Lesson 10.05.-HR3-Bedingung erfuellt), Leipzig CL-Quali-Pflicht-Sieg + Stamm-Elf. Sieg/ML Markt-Goldgrube ROI +16.4%. Quote 2.70 = 37% implied; faire Wkt mit Schon-Setup eher 45-50%. Stufe 1 1.5%-Einsatz = 8,25€.",
-          "status": "offen",
-          "empfohlener_einsatz_prozent": 1.5,
-          "faire_quote": 2.7
-        },
-        {
-          "id": "scf-rbl-2",
-          "kategorie": "value",
-          "markt": "Unentschieden oder RB Leipzig",
-          "quote": 1.5,
-          "begruendung": "DC X2 Goldgrube-Markt ROI +9.4% (9 Tipps, 77.8% Hitrate). Bundesliga nicht Liga-Goldgrube -> Mapper-Hebel C downgradet SAFE auf VALUE. DC-Cap max 1 pro Spiel eingehalten. Backup falls Leipzig-Sieg knapp; Risk-Hedge fuer das HR3-Setup. Stufe 1 1.0%-Einsatz = 5,50€.",
-          "status": "offen",
-          "empfohlener_einsatz_prozent": 1.0,
-          "faire_quote": 1.5
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-05-16-wer-bvb",
@@ -300,29 +240,9 @@
         "HSV als Aufsteiger Auswaerts-Underdog, Leverkusen-Heim-Sieg ~1.40-1.50",
         "Bundesliga nicht Liga-Goldgrube -> max VALUE statt SAFE"
       ],
-      "tipps": [
-        {
-          "id": "b04-hsv-1",
-          "kategorie": "value",
-          "markt": "Bayer 04 Leverkusen",
-          "quote": 1.45,
-          "begruendung": "Leverkusen-Heim-Favorit + CL-Quali-Pflicht-Sieg-Druck + Form-Vorteil vs HSV-Aufsteiger. Sieg/ML Markt-Goldgrube ROI +16.4%. Quote 1.45 = 69% implied; faire Wkt 70-72%. Bundesliga nicht Liga-Goldgrube -> max VALUE. Stufe 1 1.0%-Einsatz = 5,50€.",
-          "status": "offen",
-          "empfohlener_einsatz_prozent": 1.0,
-          "faire_quote": 1.45
-        },
-        {
-          "id": "b04-hsv-2",
-          "kategorie": "value",
-          "markt": "Patrik Schick trifft",
-          "quote": 2.2,
-          "begruendung": "Goldgrube-Markt 'Torschuetzen Jederzeit' ROI +31.1% + PFLICHT-PROFILE-Lesson 04.05. (Heim-Favorit-Pflicht-Stuermer). Schick BL-Top-Scorer-Liste, Form-Lauf seit Wirtz-Verletzung. HSV-Aufsteiger-Defensive verwundbar. Aufstellungs-Verifikation Lesson 10.05. zwingend -> 1.0% bis Bestaetigung = 5,50€.",
-          "status": "offen",
-          "empfohlener_einsatz_prozent": 1.0,
-          "faire_quote": 2.2
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-05-16-sev-rma",
@@ -388,39 +308,9 @@
         "Quoten ~7 Tage: Barcelona-Sieg ~1.40, Unentschieden ~5.00, Betis-Sieg ~7.00",
         "Saisonende-Tor-Flaute-Lesson: trifft NICHT auf Barcelona-Heim (Barca verlaesslich offensiv unabhaengig)"
       ],
-      "tipps": [
-        {
-          "id": "bar-bet-1",
-          "kategorie": "value",
-          "markt": "Robert Lewandowski trifft",
-          "quote": 1.65,
-          "begruendung": "Goldgrube-Markt 'Torschuetzen Jederzeit' ROI +31.1% + PFLICHT-PROFILE-Lesson 04.05. (Heim-Favorit-Pflicht-Stuermer). Lewandowski Top-Form (~25 LaLiga-Tore), Betis-Auswaerts-Defensive verwundbar. Aufstellungs-Verifikation 1-2h vor Anstoss zwingend (Lesson 10.05.) -> bei Bestaetigung 1.5%, sonst max wackel-degradieren. 1.5% = 8,25€.",
-          "status": "offen",
-          "empfohlener_einsatz_prozent": 1.5,
-          "faire_quote": 1.65
-        },
-        {
-          "id": "bar-bet-2",
-          "kategorie": "value",
-          "markt": "FC Barcelona oder Unentschieden",
-          "quote": 1.1,
-          "begruendung": "DC 1X Goldgrube-Markt ROI +4.9% (82.4% Hitrate, 17 Tipps). LaLiga aktuell nicht in liga_goldgruben.json -> SAFE wird Mapper-degradiert -> direkt VALUE. Quote 1.10 enge Marge aber Hitrate-Edge. DC-Cap max 1 pro Spiel ✓. Stufe 1 1.0%-Einsatz = 5,50€.",
-          "status": "offen",
-          "empfohlener_einsatz_prozent": 1.0,
-          "faire_quote": 1.1
-        },
-        {
-          "id": "bar-bet-3",
-          "kategorie": "value",
-          "markt": "Mehr als 2.5 Tore",
-          "quote": 1.55,
-          "begruendung": "Tor-Total-Goldgrube ROI +80.9% (66.7% Hitrate). Barca verlaesslich offensiv (3+ Tore Heim-Schnitt), Betis defensiv anfaellig. Stufe 1 1.0%-Einsatz = 5,50€.",
-          "status": "offen",
-          "empfohlener_einsatz_prozent": 1.0,
-          "faire_quote": 1.55
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-05-17-atm-gir",
@@ -450,29 +340,9 @@
         "Quoten ~7 Tage: Atletico-Sieg ~1.45, Unentschieden ~4.50, Girona-Sieg ~6.50",
         "Saisonende-Asymmetrie-Pflicht-vs-Aus = Edge fuer Atletico"
       ],
-      "tipps": [
-        {
-          "id": "atm-gir-1",
-          "kategorie": "wackel",
-          "markt": "Atletico Madrid",
-          "quote": 1.45,
-          "begruendung": "Atletico-Heim-Favorit + CL-Quali-Druck. Sieg/ML Goldgrube-Markt. ABER Lesson 09.05. Korrelations-Crash + Alvarez-Ausfall + Saisonende-Volatilitaet -> max wackel statt VALUE bis Aufstellungs-Verifikation. Stufe 1 0.5%-Einsatz = 2,75€. Konservativer Probestein, kein Top-Pick fuer einzeltipps[].",
-          "status": "offen",
-          "empfohlener_einsatz_prozent": 0.5,
-          "faire_quote": 1.45
-        },
-        {
-          "id": "atm-gir-2",
-          "kategorie": "wackel",
-          "markt": "Alexander Sorloth trifft",
-          "quote": 2.3,
-          "begruendung": "Sorloth wahrscheinlich Stamm-Stuermer (Alvarez verletzt lt. Lesson 09.05.) -> Direkter-Ersatz-Boost laut Lesson 09.05. Lens-Edouard greift NUR wenn Sorloth tatsaechlich fuer Alvarez einlaeuft. Aufstellungs-Verifikation 1-2h vor Anstoss zwingend. Bis dahin max wackel 0.5% = 2,75€. Goldgrube-Markt + PFLICHT-PROFILE-Lesson 04.05.",
-          "status": "offen",
-          "empfohlener_einsatz_prozent": 0.5,
-          "faire_quote": 2.3
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     }
   ],
   "einzeltipps": [
