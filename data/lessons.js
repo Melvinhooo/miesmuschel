@@ -590,6 +590,34 @@ window.__MIESMUSCHEL_LESSONS = {
       "lesson": "ZWEI-DREHUNGEN-AN-EINEM-TAG: (1) NBA-Playoffs CLE-DET 112:103 (HZ 52:56 Pistons fuehrend -> Cavs 24:0-Run zur HZ2-Eroeffnung, laengster Playoff-Run seit Wolves G6 2024) und (2) SerieA Napoli-Bologna 2:3 (Bologna fuehrte 0:2 in 34. -> Napoli 2:2 in 48. -> Bologna 3:2 in 91.). Drehungs-Cluster aus volle_analyse-Bloecken hat sich vom 02.05.-BL-Pattern jetzt auf Top-Ligen-MUST-WIN/Pflicht-Druck-Spiele ausgeweitet. PATTERN: Kurzquoten-Sieg-Tipps (1.20-1.60) auf MUST-WIN-Heim-Top-Teams + auf Pflicht-Druck-Heim-Champions-Quali-Teams gegen Underdog-mit-Eigen-Termin (Coppa-Vorbereitung) -> HZ-Stand ist KEIN Indikator (CLE lag HZ zurueck, Bologna fuehrte HZ 0:2 dann verloren -> dann wieder gewonnen). Drehungs-Risiko bleibt latent bis 90. Min - Kombi-Beine in solchen Cluster-Spielen reduzieren.",
       "bezug_spiel_id": "2026-05-12-cle-det",
       "anwenden_ab": "2026-05-12"
+    },
+    {
+      "datum": "2026-05-13",
+      "kategorie": "HR22 Star-OUT-Implosions-Profil WIDERLEGT bei LaLiga-Top-4 (Quelle 8h Rotation-Pattern + 8a Korrelations-Analyse)",
+      "lesson": "HR22-IMPLOSIONS-PROFIL-OVERRIDE-FAIL: Atletico Madrid mit 7 Stamm-OUT (J.Alvarez/Simoni/Barrios/Gimenez/Molina/N.Gonzalez/Cardoso) + Baena gesperrt + emotional ausgelaugt nach CL-SF-Aus (05.05.) + 0:1 Heim gegen Celta (09.05.) siegte 2:1 in Pamplona dank Lookman-FE 15. + Soerloth-HZ-Joker-Kopfball 71. - selbst nach Llorente-Gelb-Rot 79. hielt 10-Mann-Atletico durch. Osasuna-DC-1X-Tipp @ 1.48 (Markt-Goldgrube + HR22-Edge angenommen) VERLOREN. Markt-Pick'em-Quoten +160/+160 hatten zwar Klasse-Edge reduziert, aber Atletico-Sieg-Wahrscheinlichkeit weiter unterschaetzt. PATTERN: HR22 ist KEIN automatischer Implosions-Trigger gegen LaLiga-Top-4 (oder vergleichbare Top-Bench-Klubs) - Klasse-Edge + Top-Bench schluckt Lazarett. Lesson-Verfeinerung: HR22 nur als Edge-Modifier (Quote runter um 10-15%) NICHT als Sieg-Disqualifikator bei Top-4-LaLiga/Top-5-BL/Top-6-PL. Routine soll bei Star-OUT-Lazarett-Top-Teams Sieg-Markt weiter scannen statt nur DC-Gegner anbieten.",
+      "bezug_spiel_id": "2026-05-12-osa-atm",
+      "anwenden_ab": "2026-05-13"
+    },
+    {
+      "datum": "2026-05-13",
+      "kategorie": "Aufstellungs-Verifikations-PFLICHT bei Form-Edge-Spielertor-Tipps (Quelle 8h Rotation-Pattern + 8i Boost-Trigger ohne Tipp)",
+      "lesson": "FORM-EDGE-BENCH-FALLE BORJA IGLESIAS: Borja Iglesias 3-LaLiga-Spiele-in-Folge-getroffen Form-Edge (HR24 (a)) ueberholt durch Bench-Start - kam erst 64. fuer Hugo Alvarez (kein direkter Stuermer-Tausch, eher Mittelfeld-Wechsel) und traf in den verbleibenden ~25 Min nicht. Anytime-Quote 2.40 wurde wie ein Startelf-Volumen-9er bepreist, war faktisch ein Joker-Tipp. Tipp cel-lev-1 (1.5% Stake = 8.25€) VERLOREN als groesster Einsatz des Tages. Parallel: Soerloth gewann (4.90 Risiko-Bein) als HZ-Sub (46.) - bench-Sub mit ~45 Min Spielzeit traf 71. PATTERN: Anytime-Spielertor-Tipps mit 'Form-Edge'-Argument (HR24 (a)) BENOETIGEN zwingend Aufstellungs-Verifikation 1-2h vor Anstoss (Lesson 10.05. heute den 2. Tag in Folge verpasst). Wenn Aufstellungs-Verifikation nicht moeglich (Tipps-Routine 17:30 vs LaLiga-Anpfiff 19:00 = 90 Min Puffer reicht NICHT immer), HR24 (a) Form-Edge nur als VALUE-Argument falls Anytime-Quote >= 2.80 (Joker-Risiko-eingepreist).",
+      "bezug_spiel_id": "2026-05-12-cel-lev",
+      "anwenden_ab": "2026-05-13"
+    },
+    {
+      "datum": "2026-05-13",
+      "kategorie": "LaLiga-Saisonende-Tor-Flaute-Lesson WIDERLEGT (Quelle 8g Markt-Pattern aus volle_analyse + getippten Spielen)",
+      "lesson": "UEBER-2.5-LALIGA-MD36-DREI-VON-DREI-GETROFFEN: Celta-Levante 5 Tore (2:3), Betis-Elche 3 Tore (2:1), Osasuna-Atletico 3 Tore (1:2) - ALLE 3 LaLiga-Tuesday-MD36-Spiele lieferten Ueber 2.5. Lesson 10.05./12.05. LaLiga-Saisonende-Tor-Flaute (Mai-Mittel 1.88 Tore/Spiel, Rayo-Girona 1:1 Negativ-Beleg) war zu pauschal - 12.05. liefert 11 Tore in 3 Spielen (3.67 Tore/Spiel - DEUTLICH ueber Mai-Mittel). Markt-Statistik bestaetigt: Ueber 2.5 Tore Markt-Typ jetzt n=10 / 60% Hit / +62.8% ROI (Goldgrube auf Volldampf). PATTERN: Saisonende-Tor-Flaute-Filter NUR aktivieren bei (a) Beide-Mid-Table-ohne-Druck-Spiele (Rayo-Girona-Profil), NICHT bei (b) Klassenerhalts-Underdog vs Europa-Druck-Top-Team (Existenz-Pflicht-Tore!) oder (c) Top-4-Pflicht-Heimspiel (Druck-Tore). Lesson-Refinement: Saisonende-Flaute-Filter wird zu 'Saisonende-Coinflip-Mid-Table-Filter' - genaue Trigger-Bedingungen siehe Lesson-12.05.-Korrelations-Cluster.",
+      "bezug_spiel_id": "2026-05-12-cel-lev",
+      "anwenden_ab": "2026-05-13"
+    },
+    {
+      "datum": "2026-05-13",
+      "kategorie": "NBA-Playoff-G5-Heim-Pivot-Vengeance-SAFE (Quelle 8e Kategorie-Reality + 8h Rotation-Pattern)",
+      "lesson": "WEMBANYAMA-VENGEANCE-GAME PIVOT-G5: Wembanyama nach G4-Karriere-Ejection (Ellbogen Naz Reid) lieferte Career-High-Reaktion: 27P/17R/5A/3B, Q1 allein 18P/6R in 8 Min, Spurs 126:97 Wolves (Differenz +29). NBA-G5-Heimvorteil-Pattern in Series jetzt 5/5 bestaetigt (Spurs G1, G2, G5 Heim / Wolves G3, G4 Heim). Spurs-ML @ 1.25 (NBA-Playoff-nie-SAFE-Lesson hatte auf wackel degradiert) waere SAFE gerechtfertigt gewesen, Stake-Hebel von 0.5% auf 1.5% verpasst (~+11€ Brutto-Gewinn-Differenz). Ueber 218.5 @ 1.91 (auch nur wackel) ebenfalls gewonnen (Total 223). PATTERN: NBA-Playoff-nie-SAFE-Lesson zu konservativ in spezifischen Sub-Cluster: (a) Heim-G5-Pivot-Game mit Star-Vengeance-Trigger (Ejection/Suspension/Personal-Insult-Headline in G4), (b) Heim-G7-Decider mit klarem Klassen-Edge. Lesson-Refinement: NBA-Playoff-nie-SAFE BLEIBT default, ABER Heim-G5/G7-Pivot mit Vengeance-Star-Trigger ist explizite VALUE-Ausnahme (nicht SAFE - aber 1.0% Stake erlaubt statt 0.5%-wackel).",
+      "bezug_spiel_id": "2026-05-13-sas-min",
+      "anwenden_ab": "2026-05-13"
     }
   ]
 };
