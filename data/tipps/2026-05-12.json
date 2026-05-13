@@ -151,16 +151,6 @@
           "empfohlener_einsatz_prozent": 0.5
         },
         {
-          "id": "bet-elc-4",
-          "kategorie": "wackel",
-          "markt": "Cucho Hernandez erster Torschuetze",
-          "quote": 2.55,
-          "edge_prozent": 4,
-          "begruendung": "HR24 (b) Backup-Stuermer-Profil + HR3 Einwechslungs-Boost-Schutz: Cucho als Bench-Stuermer hinter J.Hernandez - klassisches Joker-9er-Profil. Cucho ist DIREKTER Ersatz fuer J.Hernandez auf der ST-Position (Lesson 09.05.-Praezisierung beachtet). First-Goalscorer-Quote 2.55 (+155) spiegelt Spielzeit-Risiko (Bench-Start). Stake 0.5% = 2.75€.",
-          "faire_quote": 2.4,
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
           "id": "bet-elc-5",
           "kategorie": "moonshot",
           "markt": "Elche CF Sieg",
@@ -210,23 +200,25 @@
       "tipps": [
         {
           "id": "osa-atm-1",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Osasuna oder Remis (DC 1X)",
           "quote": 1.48,
           "edge_prozent": 6,
-          "begruendung": "Markt-Goldgrube DC 1X (82.4% Hit / +4.9% ROI). LaLiga nicht in liga_goldgruben.json -> Mapper-Hebel C macht SAFE-DC ohnehin VALUE. HR22 Star-OUT-Implosions-Setup bei Atletico (7 Stamm-OUT + Baena gesperrt + 0:1 Heim gegen Celta + emotional ausgelaugt) + Osasuna Heim-Edge in El Sadar (nur 1 Niederlage in letzten 11 Heim laut sportsgambler). DC 1X schuetzt vor Drehungs-Risiko (Lesson 12.05.). Quote 1.48 (Aggregator-Naeherung aus +160/+250-Math: 1/(1/2.60+1/3.50) ~ 1.49). Bei bet365 live pruefen. Stake 1.0% = 5.50€.",
+          "begruendung": "Markt-Goldgrube DC 1X (82.4% Hit / +4.9% ROI). LaLiga nicht in liga_goldgruben.json -> Mapper-Hebel C macht SAFE-DC ohnehin VALUE. HR22 Star-OUT-Implosions-Setup bei Atletico (7 Stamm-OUT + Baena gesperrt + 0:1 Heim gegen Celta + emotional ausgelaugt) + Osasuna Heim-Edge in El Sadar (nur 1 Niederlage in letzten 11 Heim laut sportsgambler). DC 1X schuetzt vor Drehungs-Risiko (Lesson 12.05.). Quote 1.48 (Aggregator-Naeherung aus +160/+250-Math: 1/(1/2.60+1/3.50) ~ 1.49). Bei bet365 live pruefen. Stake 1.0% = 5.50€. [Auto HR2: Heim-Krise/Sturm-Krise erkannt - Heim-Sieg/-DC/-Top-Stuermer max WACKEL]",
           "faire_quote": 1.4,
-          "empfohlener_einsatz_prozent": 1.0
+          "empfohlener_einsatz_prozent": 1.0,
+          "_heim_form_block": true
         },
         {
           "id": "osa-atm-2",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Ante Budimir trifft (Torschuetze jederzeit)",
           "quote": 2.35,
           "edge_prozent": 7,
-          "begruendung": "HR24 (c) klassischer Volumen-9er-Profil: Budimir als Stamm-Stuermer Osasuna. Defense-Krise-Trigger bei Atletico (Gimenez OUT, Le Normand fragwuerdig). Goldgrube Torschuetzen Jederzeit (38.5% Hit / +21% ROI). Anytime-Quote 2.35 (+135) attraktiv im VALUE-Range. Aufstellung 1-2h vor Anstoss pruefen (Lesson 10.05.). Stake 1.0% = 5.50€.",
+          "begruendung": "HR24 (c) klassischer Volumen-9er-Profil: Budimir als Stamm-Stuermer Osasuna. Defense-Krise-Trigger bei Atletico (Gimenez OUT, Le Normand fragwuerdig). Goldgrube Torschuetzen Jederzeit (38.5% Hit / +21% ROI). Anytime-Quote 2.35 (+135) attraktiv im VALUE-Range. Aufstellung 1-2h vor Anstoss pruefen (Lesson 10.05.). Stake 1.0% = 5.50€. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "faire_quote": 2.2,
-          "empfohlener_einsatz_prozent": 1.0
+          "empfohlener_einsatz_prozent": 1.0,
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "osa-atm-3",
@@ -448,30 +440,6 @@
       "kurz_begruendung": "Underdog-Pick'em mit HR22-Implosions-Edge + Atletico-Form-Krise, aber Drehungs-Risiko (Atletico nominal Klasse-Edge bei Rueckkehr-Auftrieb).",
       "empfohlener_einsatz_prozent": 0.5,
       "rang": 10
-    },
-    {
-      "id": "et-11",
-      "spiel": "San Antonio Spurs - Minnesota Timberwolves",
-      "spiel_id": "2026-05-13-sas-min",
-      "kategorie": "wackel",
-      "markt": "San Antonio Spurs Sieg (Moneyline)",
-      "quote": 1.25,
-      "einsatz_euro": 2.75,
-      "kurz_begruendung": "Quote nominal SAFE, aber NBA-Playoff-nie-SAFE + Decider-Filter G5 max wackel + Heimvorteil bisher 4/4 (Wolves-Reaktions-Spike-Auswaerts moeglich) + Fox-Lineup-Risiko.",
-      "empfohlener_einsatz_prozent": 0.5,
-      "rang": 11
-    },
-    {
-      "id": "et-12",
-      "spiel": "San Antonio Spurs - Minnesota Timberwolves",
-      "spiel_id": "2026-05-13-sas-min",
-      "kategorie": "wackel",
-      "markt": "Ueber 218.5 Punkte",
-      "quote": 1.91,
-      "einsatz_euro": 2.75,
-      "kurz_begruendung": "G4 223 Total (ueber Linie), Spurs Heim + beide Stars (Wemby/Edwards) intakt = Tempo-Potenzial. Decider-Defense-Adjustment-Risiko aber Markt-Standard-Linie sauber.",
-      "empfohlener_einsatz_prozent": 0.5,
-      "rang": 12
     }
   ],
   "kombis": [
@@ -529,18 +497,11 @@
           "quote": 2.35,
           "begruendung": "HR24 (c) Stamm-Volumen-9er + Atletico-Defense-Lazarett (Gimenez OUT). Goldgrube Torschuetzen Jederzeit. Spielertor-Markt entkoppelt zu Safe-Bein (Osasuna-DC-1X) im selben Spiel.",
           "spiel_titel": "CA Osasuna - Atletico Madrid"
-        },
-        {
-          "spiel_id": "2026-05-13-sas-min",
-          "markt": "San Antonio Spurs - Minnesota Timberwolves: Ueber 218.5 Punkte",
-          "quote": 1.91,
-          "begruendung": "Total-Bein NBA-Decider: G4 223 Total (ueber Linie) + beide Stars intakt = Tempo-Potenzial. KEIN Sieg-Outcome.",
-          "spiel_titel": "San Antonio Spurs - Minnesota Timberwolves"
         }
       ],
       "layer_check": "Layer-1 OK (3 verschiedene Spiele CEL-LEV, OSA-ATM, SAS-MIN), Layer-2 OK (KEIN Sieg-Outcome in Balance - BTTS + Spielertor + Total). Layer-3 cross-check Safe-Kombi: CEL-LEV-Bein Safe=Borja-Tor (Spielertor) vs Balance=BTTS (Tor-Markt entkoppelt); OSA-ATM-Bein Safe=DC-1X (Sieg-Outcome) vs Balance=Budimir-Tor (Spielertor entkoppelt). Markt-Diversifikation OK.",
-      "gesamtquote": 7.63,
-      "rechnung": "1.70 x 2.35 x 1.91 = 7.63",
+      "gesamtquote": 4.0,
+      "rechnung": "1.70 x 2.35 = 4.0",
       "empfohlener_einsatz_prozent": 0.8
     },
     {
@@ -597,18 +558,11 @@
           "quote": 7.0,
           "begruendung": "Hohe Quote 7.00 (+600) bei Elche-Auswaerts-Tor-Krise. Andre Silva erfahrener Stuermer als Pure-Streuungs-Bein.",
           "spiel_titel": "Real Betis Balompie - Elche CF"
-        },
-        {
-          "spiel_id": "2026-05-13-sas-min",
-          "markt": "San Antonio Spurs - Minnesota Timberwolves: Minnesota Timberwolves Sieg (Moneyline)",
-          "quote": 4.15,
-          "begruendung": "Underdog-Auswaerts-Steal in G5: Edwards-Form (36 Pkt G4) + Wolves-G3-G4-Aufwind + Wembanyama-Ejection-Frust-Risiko. NBA-Decider-Varianz.",
-          "spiel_titel": "San Antonio Spurs - Minnesota Timberwolves"
         }
       ],
       "layer_check": "Layer-1 OK (3 verschiedene Spiele CEL-LEV, BET-ELC, SAS-MIN), Layer-2 OK: CEL-LEV-Sieg-Outcome NUR in Moonshot (Levante-Sieg) - Safe=Borja-Tor (Spielertor), Balance=BTTS (Tor-Markt), Risiko=Ueber 2.5 (Total) sind keine Sieg-Outcomes. BET-ELC-Sieg-Outcome NUR in Safe (Ueber-1.5 ist Total nicht Sieg-Outcome!) - wait: Safe-Bein ist Ueber 1.5 (Total) + Risiko=Cucho-First (Spielertor) + Moonshot=A.Silva-Tor (Spielertor). KEIN Sieg-Outcome in BET-ELC in keiner Kombi. SAS-MIN-Sieg-Outcome NUR in Moonshot (Wolves-ML) - Balance=Ueber 218.5 (Total). Layer-3 cross-check: CEL-LEV (4 Beine ueber Kombis - Klumpungs-WARN, Markt-entkoppelt), BET-ELC (3 Beine: Total + 2x Spielertor verschiedene Spieler), SAS-MIN (2 Beine: Total + Sieg-Outcome).",
-      "gesamtquote": 119.1,
-      "rechnung": "4.10 x 7.00 x 4.15 = 119.10",
+      "gesamtquote": 28.7,
+      "rechnung": "4.10 x 7.00 = 28.7",
       "empfohlener_einsatz_prozent": 0.1
     }
   ],
