@@ -1,0 +1,569 @@
+{
+  "datum": "2026-05-13",
+  "erstellt_am": "2026-05-13T16:45:00+00:00",
+  "modus": "tag",
+  "hinweis": "Recherche-Daten Mittwoch (Mo-Fr Variante). KRITISCHE PARALLEL-WETTBEWERBS-FLAGS: (1) Manchester City spielt 16.05. FA Cup Final gegen Chelsea (3 Tage post-Match) — massives Rotations-Risiko bei Pep, vor allem auf Khusanov (Knock aus Brentford-Sieg), Rodri (Leiste/ACL-Recovery), Gvardiol (Tibia-Bruch-Rueckkehr). Anti-City-Wert-Wette real, weil PL-Titel praktisch verloren (Arsenal +5 Pkt nach 35 vs City 35). (2) Crystal Palace spielt 27.05. UEFA Conference League Final gegen Rayo Vallecano in Leipzig (14 Tage post-Match) — leichteres Rotations-Risiko, aber Saison-Klassenerhalt+Europa-Quali laengst geklaert (15. Platz, 44 Pkt). (3) FC Barcelona hat LaLiga-Titel am 11.05. via El-Clasico-Sieg 2:0 geklaert + komplette Parade durch Barcelona am 12.05. — 13.05. in Alaves ist mathematisch Dead-Rubber, motivational komplett platt, Flick wird massiv rotieren. Yamal (Hamstring bis 06.06.), ter Stegen (Hamstring), Christensen (Kreuzband), Raphinha (Gelb-Sperre) alle nicht im Kader. Anti-Barca-Value gegen 19.-Tabellenletzten Alaves ist real. (4) Real Madrid (14.05. vs Real Oviedo) und Real Betis nicht heute. (5) NBA Pistons-Cavs G5 in Detroit (Series 2-2): NBA-Player-Punkte-Boykott seit 26.04. weiter aktiv (Lesson Playoff-Varianz) — nur Sieg/Spread/Total-Maerkte. KEINE Tipp-Bewertung — nur Datenbasis. bet365-Quoten als Aggregator-Naeherung (BetMGM/FanDuel mit US-Format-Konversion); zur Wett-Zeit live pruefen. football-data.org API liefert fuer 13.05. nur 1 PL + 4 LaLiga (Espanyol-Athletic, Villarreal-Sevilla, Alaves-Barca, Getafe-Mallorca, City-Palace). Ligue-1-Spiele (Brest-Strasbourg, Lens-PSG) NICHT im Miesmuschel-Scope laut CLAUDE.md. Bundesliga + Serie A heute kein Spielbetrieb. DFB-Pokal-Finale Bayern-Stuttgart erst 23.05.",
+  "spiele": [
+    {
+      "id": "2026-05-13-esp-ath",
+      "liga": "LaLiga",
+      "matchday": 36,
+      "heim": "RCD Espanyol",
+      "gast": "Athletic Club (Bilbao)",
+      "anstoss": "2026-05-13T19:00:00+02:00",
+      "stadion": "RCDE Stadium, Cornella-El Prat (Barcelona)",
+      "squad_heim": [
+        {"name": "Marko Dmitrovic", "nummer": null, "position": "TW", "saison_tore": 0, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/espanyol-vs-athletic-club-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Omar El Hilali", "nummer": null, "position": "RV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/espanyol-vs-athletic-club-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Clemens Riedel", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/espanyol-vs-athletic-club-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Leandro Cabrera", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/espanyol-vs-athletic-club-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Carlos Romero", "nummer": null, "position": "LV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/espanyol-vs-athletic-club-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Ruben Sanchez", "nummer": null, "position": "DM/ZM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/espanyol-vs-athletic-club-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Urko Gonzalez de Zarate", "nummer": null, "position": "ZM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/espanyol-vs-athletic-club-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Pol Lozano", "nummer": null, "position": "ZM/OM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/espanyol-vs-athletic-club-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Antoniu Roca", "nummer": null, "position": "RM/OM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/espanyol-vs-athletic-club-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Edu Exposito", "nummer": null, "position": "OM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/espanyol-vs-athletic-club-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Roberto Fernandez", "nummer": null, "position": "ST", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/espanyol-vs-athletic-club-prediction-lineups-odds-2026-05-13/", "hinweis": "Nominal-9er Espanyol — Puado out (Knie). Kein etablierter Backup-Stuermer; Einwechslungs-Boost-Risiko gering."}
+      ],
+      "squad_gast": [
+        {"name": "Unai Simon", "nummer": 1, "position": "TW", "saison_tore": 0, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/espanyol-vs-athletic-club-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Jesus Areso", "nummer": null, "position": "RV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/espanyol-vs-athletic-club-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Daniel Vivian", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/espanyol-vs-athletic-club-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Aymeric Laporte", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/espanyol-vs-athletic-club-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Adama Boiro", "nummer": null, "position": "LV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/espanyol-vs-athletic-club-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Inigo Ruiz de Galarreta", "nummer": null, "position": "DM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/espanyol-vs-athletic-club-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Alejandro Rego", "nummer": null, "position": "DM/ZM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/espanyol-vs-athletic-club-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Alex Berenguer", "nummer": null, "position": "RM/OM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/espanyol-vs-athletic-club-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Unai Gomez", "nummer": null, "position": "OM/ZM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/espanyol-vs-athletic-club-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Robert Navarro", "nummer": null, "position": "LM/OM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/espanyol-vs-athletic-club-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Inaki Williams", "nummer": 9, "position": "ST/LF", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/espanyol-vs-athletic-club-prediction-lineups-odds-2026-05-13/", "hinweis": "Nominal-9er bei Nico-Williams-Ausfall. Volumen-Stuermer. Backup-Stuermer: Gorka Guruzeta (Top-Scorer-Quote +475 = 5.75 deutet auf moegliche Einwechslung oder Start-Rotation hin)."},
+        {"name": "Gorka Guruzeta", "nummer": null, "position": "ST", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/espanyol-vs-athletic-club-prediction-lineups-odds-2026-05-13/", "hinweis": "Backup-Stuermer; BetMGM-Anytime-Quote +475 = 5.75 — typischer Einwechslungs-Kandidat. Bei Inaki-Williams-Tipp Einwechslungs-Boost-Schutz."}
+      ],
+      "injuries_heim": [
+        "Javier Puado (Knie, OUT)",
+        "Tyrhys Dolan (Gelb-Akku — verfuegbar)",
+        "Fernando Calero (Gelb-Akku — verfuegbar)"
+      ],
+      "injuries_gast": [
+        "Benat Prados (Knie, Rueckkehr ~16.05.)",
+        "Nico Williams (Oberschenkel/Hamstring, Status unklar — wahrscheinlich OUT)",
+        "Oihan Sancet (Status unklar — wahrscheinlich OUT)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine — Espanyol nicht in UEFA-Wettbewerben 2025/26 (Aufsteiger-Saison), keine Copa-del-Rey-Belastung mehr",
+        "gast": "keine — Athletic Bilbao ist in CL-League-Phase / Achtelfinale 2025/26 ausgeschieden (Gruppe mit Arsenal, Dortmund, Atalanta, Qarabag, Slavia Prag, Newcastle), keine laufende UEFA-Belastung mehr",
+        "quellen": [
+          "https://en.wikipedia.org/wiki/2025%E2%80%9326_Athletic_Bilbao_season",
+          "https://www.uefa.com/uefachampionsleague/clubs/50125--athletic-club/",
+          "https://www.laliga.com/en-GB/laliga-easports/standing"
+        ]
+      },
+      "saisonziel_heim": "Platz 17 mit 39 Pkt nach 35 Spielen (10W-9D-16L) — Klassenerhalt mathematisch wahrscheinlich gesichert, aber kein Polster (3 Pkt Vorsprung auf Abstiegszone). Calendar 2026: 6 Niederlagen + 4 Unentschieden in letzten 10. Heim: nur 2W-3D-5L in den letzten 10 (8 Heim-Spiele in Folge ohne Sieg).",
+      "saisonziel_gast": "Platz 9 mit 44 Pkt nach 35 Spielen (13W-5D-17L) — auf Tuchfuehlung zu Conference-Quali-Platz 7-8. Auswaerts schwach: 2W-2D-6L letzte 10. Letzte 3: L Valencia 0:1 (10.05.), S Alaves 4:2 (02.05.), L Atletico 2:3 (25.04.).",
+      "tabellenstand": {"heim_platz": 17, "heim_pkt": 39, "gast_platz": 9, "gast_pkt": 44},
+      "form_heim_letzte_5": "L-L-U (zuletzt L Sevilla 1:2 09.05., L Real 0:2 03.05., U Levante 0:0 27.04.) — Form unten",
+      "form_gast_letzte_5": "L-S-L (zuletzt L Valencia 0:1 10.05., S Alaves 4:2 02.05., L Atletico 2:3 25.04.) — wechselhaft mit Form-Loch auswaerts",
+      "recovery_heim": "4 Tage seit 1:2-Niederlage vs Sevilla (09.05.) — Standard-Rhythmus, daheim am RCDE",
+      "recovery_gast": "3 Tage seit 0:1-Niederlage vs Valencia (10.05.) — Standard-Rhythmus, Reise Barcelona ~1h",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 2.75,
+          "draw": 3.20,
+          "sieg_gast": 2.63,
+          "ueber_2_5": 2.12,
+          "unter_2_5": 1.70,
+          "btts_ja": 1.79,
+          "btts_nein": 1.93,
+          "dc_1x": null,
+          "dc_x2": null,
+          "torschuetzen": {
+            "Inaki Williams": null,
+            "Gorka Guruzeta": 5.75,
+            "Roberto Fernandez": null
+          }
+        },
+        "_quelle": "sportsgambler.com Stand 12.05.2026 + BetMGM US-Format-Konversion: Espanyol +175 -> 2.75, Draw +220 -> 3.20, Athletic +163 -> 2.63, Over 2.5 +112 -> 2.12, Under 2.5 -143 -> 1.70, BTTS Yes -127 -> 1.79, BTTS No -108 -> 1.93, Guruzeta Anytime +475 -> 5.75. Markt sehr eng — Coinflip-Charakteristik. bet365 live pruefen."
+      },
+      "news_kompakt": [
+        "Espanyol 8 Heim-Spiele in Folge ohne Sieg — Form-Loch daheim trotz Klassenerhalts-Polster",
+        "Athletic ohne Nico Williams + voraussichtlich Sancet — Offensiv-Tiefe reduziert; Inaki Williams + Backup Guruzeta tragen die Last",
+        "Beide ohne UEFA-Belastung — keine Rotation aus Doppel-Belastung, aber Saison-Endphase mit unterschiedlicher Motivations-Lage",
+        "Asiatic-Handicap-Edge laut Aggregator: Espanyol +0.25 als Wert (Heimvorteil + niedrige Erwartung); aber statistisch Coinflip mit U2.5-Tendenz",
+        "2:0-Insurance gilt NICHT (LaLiga, nicht BL/CL) — bei Auswertung normaler 90-Min-Endstand"
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/espanyol-vs-athletic-club-prediction-lineups-odds-2026-05-13/",
+        "https://www.sportytrader.com/en/betting-tips/espanyol-athletic-bilbao-348694/",
+        "https://www.fotmob.com/matches/athletic-club-vs-espanyol/2crecr",
+        "https://en.wikipedia.org/wiki/2025%E2%80%9326_La_Liga"
+      ]
+    },
+    {
+      "id": "2026-05-13-vil-sev",
+      "liga": "LaLiga",
+      "matchday": 36,
+      "heim": "Villarreal CF",
+      "gast": "Sevilla FC",
+      "anstoss": "2026-05-13T19:00:00+02:00",
+      "stadion": "Estadio de la Ceramica, Villarreal",
+      "squad_heim": [
+        {"name": "Arnau Tenas", "nummer": null, "position": "TW", "saison_tore": 0, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-sevilla-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Alex Freeman", "nummer": null, "position": "RV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-sevilla-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Pau Navarro", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-sevilla-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Renato Veiga", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-sevilla-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Alfonso Pedraza", "nummer": null, "position": "LV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-sevilla-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Nicolas Pepe", "nummer": null, "position": "RM/RF", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-sevilla-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Daniel Parejo", "nummer": null, "position": "ZM/DM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-sevilla-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Pape Gueye", "nummer": null, "position": "DM/ZM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-sevilla-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Alberto Moleiro", "nummer": null, "position": "LM/OM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-sevilla-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Gerard Moreno", "nummer": null, "position": "ST/LF", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-sevilla-prediction-lineups-odds-2026-05-13/", "hinweis": "Erfahrener Zweit-Stuermer / Backup; bietet Einwechslungs-Boost-Schutz fuer Mikautadze-Tipp."},
+        {"name": "Georges Mikautadze", "nummer": null, "position": "ST", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-sevilla-prediction-lineups-odds-2026-05-13/", "hinweis": "Top-Stuermer Villarreal; Anytime-Quote 5.00 (+400) / First-Scorer 2.50 (+150). Backup Gerard Moreno schuetzt vor Einwechslungs-Verlust."}
+      ],
+      "squad_gast": [
+        {"name": "Odysseas Vlachodimos", "nummer": null, "position": "TW", "saison_tore": 0, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-sevilla-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Jose Angel Carmona", "nummer": null, "position": "RV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-sevilla-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Cesar Azpilicueta", "nummer": null, "position": "IV/RV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-sevilla-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Kike Salas", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-sevilla-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Gabriel Suazo", "nummer": null, "position": "LV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-sevilla-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Ruben Vargas", "nummer": null, "position": "RM/LM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-sevilla-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Lucien Agoume", "nummer": null, "position": "DM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-sevilla-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Djibril Sow", "nummer": null, "position": "ZM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-sevilla-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Oso", "nummer": null, "position": "OM/RF", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-sevilla-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Akor Adams", "nummer": null, "position": "ST", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-sevilla-prediction-lineups-odds-2026-05-13/", "hinweis": "Anytime-Quote 6.75 (+575). Backup-Lage prekaer durch Isaac-Romero-Sperre + Rafa-Mir-Verletzung."},
+        {"name": "Neal Maupay", "nummer": null, "position": "ST/LF", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-sevilla-prediction-lineups-odds-2026-05-13/"}
+      ],
+      "injuries_heim": [
+        "Ayoze Perez (Muskel, OUT)",
+        "Ilias Akhomach (Muskel, Rueckkehr ~16.05.)",
+        "Juan Foyth (Kreuzband, Langzeit-OUT)"
+      ],
+      "injuries_gast": [
+        "Isaac Romero (Rot-Sperre)",
+        "Rafa Mir (Muskel, Rueckkehr ~16.05.)",
+        "Marcao (Fuss, OUT)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine — Villarreal nicht in UEFA-Wettbewerben 2025/26, Copa-del-Rey laengst raus",
+        "gast": "keine — Sevilla 2025/26 nicht in UEFA-Wettbewerben (Liga-Position vergangene Saison reichte nicht), Copa-del-Rey raus",
+        "quellen": [
+          "https://en.wikipedia.org/wiki/2025%E2%80%9326_La_Liga",
+          "https://www.uefa.com/uefaeuropaleague/clubs/52714--sevilla/"
+        ]
+      },
+      "saisonziel_heim": "Platz 3 mit 69 Pkt nach 35 Spielen (21W-6D-8L) — CL-Quali sehr wahrscheinlich gesichert (8 Pkt Vorsprung auf Platz 4 Atletico, 3 Spiele Rest). 6 Heim-Siege in Folge, daheim ungeschlagen in 6er-Serie.",
+      "saisonziel_gast": "Platz 13 mit 40 Pkt nach 35 Spielen (11W-7D-17L) — Mittelfeld-Ruhe, Klassenerhalt gesichert, keine Europa-Chance. Auswaerts schwach: 1 Sieg in den letzten 11, 5 sieglos in Serie, 4 Auswaerts-Niederlagen in Folge.",
+      "tabellenstand": {"heim_platz": 3, "heim_pkt": 69, "gast_platz": 13, "gast_pkt": 40},
+      "form_heim_letzte_5": "S-S-U-U-S — daheim 6 Siege in Folge, in den letzten 4 H2H-Spielen gegen Sevilla immer getroffen + alle 4 H2H mit O2.5",
+      "form_gast_letzte_5": "L-L-S-S-L — auswaerts 4 Niederlagen in Folge, kein Sieg in 5er-Serie auswaerts",
+      "recovery_heim": "Letztes Spiel 11.05 (LaLiga 35) — Standard-Rhythmus, kein UEFA",
+      "recovery_gast": "Letztes Spiel 11.05 — Standard-Rhythmus, ~4h Reise per Bus",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 1.95,
+          "draw": 3.40,
+          "sieg_gast": 4.00,
+          "ueber_2_5": 1.75,
+          "unter_2_5": 2.02,
+          "btts_ja": 1.62,
+          "btts_nein": 2.18,
+          "dc_1x": null,
+          "dc_x2": null,
+          "torschuetzen": {
+            "Georges Mikautadze (Anytime)": 5.00,
+            "Georges Mikautadze (First)": 2.50,
+            "Akor Adams (Anytime)": 6.75,
+            "Akor Adams (First)": 3.00
+          }
+        },
+        "_quelle": "sportsgambler.com Stand 12.05.2026 + BetMGM US-Format-Konversion: Villarreal -105 -> 1.95, Draw +240 -> 3.40, Sevilla +300 -> 4.00, Over 2.5 -133 -> 1.75, Under 2.5 +102 -> 2.02, BTTS Yes -161 -> 1.62, BTTS No +118 -> 2.18, Mikautadze Anytime +400 -> 5.00, Akor Adams Anytime +575 -> 6.75. bet365 live pruefen."
+      },
+      "news_kompakt": [
+        "Villarreal 3. Platz (69 Pkt) — CL-Quali quasi sicher; daheim ungeschlagen + 6 Siege in Folge",
+        "Sevilla 13. Platz (40 Pkt) — keine Saison-Motivation mehr (Mittelfeld-Ruhe), auswaerts 4 Niederlagen in Folge + Isaac-Romero-Sperre + Rafa-Mir-Ausfall belasten Offensive",
+        "H2H: Villarreal 4 Siege in Folge gegen Sevilla, alle 4 letzten H2H mit O2.5 Tore",
+        "Beide ohne UEFA-Belastung — kein Rotations-Risiko, klare Asymmetrie zwischen Saison-Ziel-Driver (Villarreal) und Lethargie (Sevilla)",
+        "2:0-Insurance gilt NICHT (LaLiga)"
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-sevilla-prediction-lineups-odds-2026-05-13/",
+        "https://www.sportytrader.com/en/betting-tips/villarreal-sevilla-348704/",
+        "https://www.fotmob.com/matches/sevilla-vs-villarreal/2tyyds",
+        "https://www.oddschecker.com/us/picks-parlays/soccer/20260513-villarreal-vs-sevilla-prediction-betting-pick-latest-la-liga-odds--wednesday-may-13th"
+      ]
+    },
+    {
+      "id": "2026-05-13-ala-bar",
+      "liga": "LaLiga",
+      "matchday": 36,
+      "heim": "Deportivo Alaves",
+      "gast": "FC Barcelona",
+      "anstoss": "2026-05-13T21:30:00+02:00",
+      "stadion": "Estadio Mendizorroza, Vitoria-Gasteiz",
+      "squad_heim": [
+        {"name": "Antonio Sivera", "nummer": null, "position": "TW", "saison_tore": 0, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/alaves-vs-barcelona-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Jonny Otto", "nummer": null, "position": "LV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/alaves-vs-barcelona-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Nahuel Tenaglia", "nummer": null, "position": "RV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/alaves-vs-barcelona-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Victor Parada", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/alaves-vs-barcelona-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Angel Perez", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/alaves-vs-barcelona-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Youssef Enriquez", "nummer": null, "position": "RV/LV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/alaves-vs-barcelona-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Pablo Ibanez", "nummer": null, "position": "DM/ZM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/alaves-vs-barcelona-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Antonio Blanco", "nummer": null, "position": "DM/ZM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/alaves-vs-barcelona-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Denis Suarez", "nummer": null, "position": "OM/ZM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/alaves-vs-barcelona-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Antonio Martinez", "nummer": null, "position": "ST/LF", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/alaves-vs-barcelona-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Ibrahim Diabate", "nummer": null, "position": "ST/RF", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/alaves-vs-barcelona-prediction-lineups-odds-2026-05-13/", "hinweis": "Top-Stuermer Alaves; Lucas Boye verletzt (Muskel, Rueckkehr 16.05.) reduziert Backup-Lage."}
+      ],
+      "squad_gast": [
+        {"name": "Joan Garcia", "nummer": null, "position": "TW", "saison_tore": 0, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/alaves-vs-barcelona-prediction-lineups-odds-2026-05-13/", "hinweis": "Wahrscheinlich Rotation — Pena oder Garcia als Backup-TW im Test"},
+        {"name": "Jules Kounde", "nummer": null, "position": "RV/IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/alaves-vs-barcelona-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Ronald Araujo", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/alaves-vs-barcelona-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Eric Garcia", "nummer": null, "position": "IV/DM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/alaves-vs-barcelona-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Alejandro Balde", "nummer": null, "position": "LV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/alaves-vs-barcelona-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Marc Bernal", "nummer": null, "position": "DM/ZM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/alaves-vs-barcelona-prediction-lineups-odds-2026-05-13/", "hinweis": "Junger Mittelfeld-Spieler — Rotation aus Stamm (Pedri / De Jong) wahrscheinlich"},
+        {"name": "Marc Casado", "nummer": null, "position": "ZM/OM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/alaves-vs-barcelona-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Roony Bardghji", "nummer": null, "position": "RM/RF", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/alaves-vs-barcelona-prediction-lineups-odds-2026-05-13/", "hinweis": "Jung-Talent — Rotations-Start; Yamal verletzt (Hamstring bis 06.06.)"},
+        {"name": "Dani Olmo", "nummer": null, "position": "OM/LF", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/alaves-vs-barcelona-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Marcus Rashford", "nummer": null, "position": "LF/ST", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/alaves-vs-barcelona-prediction-lineups-odds-2026-05-13/", "hinweis": "Saison-Leih-Verstaerkung von Man United"},
+        {"name": "Robert Lewandowski", "nummer": 9, "position": "ST", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/alaves-vs-barcelona-prediction-lineups-odds-2026-05-13/", "hinweis": "Anytime-Quote 5.30 (+430) — sehr hoch fuer Lewa; deutet auf Bench-Start oder kurzen Einsatz nach Parade-Tag hin. Backup: Ferran Torres, Rashford als falscher 9er."}
+      ],
+      "injuries_heim": [
+        "Lucas Boye (Muskel, Rueckkehr ~16.05.)"
+      ],
+      "injuries_gast": [
+        "Raphinha (Gelb-Akku-Sperre, Rueckkehr ~17.05.)",
+        "Andreas Christensen (Kreuzband, OUT laengere Zeit)",
+        "Lamine Yamal (Hamstring, OUT bis ~06.06.)",
+        "Marc-Andre ter Stegen (Hamstring, OUT)",
+        "POTENZIELLE ROTATION: Pedri, Frenkie de Jong, Pau Cubarsi, Yamal (verletzt) wahrscheinlich nicht im Start nach Parade-Tag 12.05."
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine — Alaves nicht in UEFA-Wettbewerben 2025/26, keine Pokal-Belastung",
+        "gast": "keine LAUFENDE Belastung mehr — Barcelona im CL-Viertelfinale am 16.04. ausgeschieden (3:2 aggregate vs Atletico Madrid, 2:0 Niederlage Hinspiel zuhause + 2:1 Sieg Rueckspiel auswaerts reichte nicht). Copa del Rey: Halbfinale-Aus gegen Atletico Madrid (Februar 2026). KEINE laufende UEFA/Pokal-Verpflichtung. ABER: Sieger LaLiga seit 11.05. + komplette Champions-Parade durch Barcelona am 12.05. mit Bus-Tour + Feier — emotionaler Nachlauf + Motivation komplett platt fuer 13.05.",
+        "quellen": [
+          "https://en.wikipedia.org/wiki/2025%E2%80%9326_FC_Barcelona_season",
+          "https://www.uefa.com/uefachampionsleague/match/2048067--atleti-vs-barcelona/",
+          "https://www.fcbarcelona.com/en/football/first-team/news/4502324/the-champions-parade-as-it-happened",
+          "https://www.barcablaugranes.com/barcelona-news/120076/fc-barcelona-news-12-may-2026-barca-celebrate-la-liga-title-parade-hansi-flick-agreement-renewal"
+        ]
+      },
+      "saisonziel_heim": "Platz 19 mit 37 Pkt nach 35 Spielen (9W-10D-16L) — Klassenerhalt mathematisch fast erledigt (6+ Pkt hinter Rettungsplatz), letztes Eigenheim-Spiel als Verabschiedungs-Stimmung. 20 LaLiga-Spiele in Folge ohne Zu-Null.",
+      "saisonziel_gast": "Platz 1 mit 91 Pkt nach 35 Spielen (30W-1D-4L) — LaLiga-Titel seit 11.05. (29. Liga-Titel der Vereinsgeschichte). Mathematisch nichts mehr zu spielen, 3 Spiele Rest = pure Pflichtaufgabe.",
+      "tabellenstand": {"heim_platz": 19, "heim_pkt": 37, "gast_platz": 1, "gast_pkt": 91},
+      "form_heim_letzte_5": "U-L-L-L (zuletzt U 1:1 bei Elche 10.05., L 2:4 vs Athletic 02.05.) — schwach aber Heim-Verabschiedung emotional",
+      "form_gast_letzte_5": "S-S-S-S-S (11 Liga-Siege in Folge inkl. 2:0 vs Real Madrid 11.05. zum Titel)",
+      "recovery_heim": "3 Tage seit 1:1 bei Elche (10.05.) — Standard-Rhythmus",
+      "recovery_gast": "2 Tage seit Champions-Parade am 12.05. + 3 Tage seit El-Clasico-Sieg 11.05. — KEIN echter Recovery-Schaden, ABER emotional komplett platt und Flick hat mehrfach angekuendigt zu rotieren (vgl. Yamal/Lewa-Quoten)",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": null,
+          "draw": null,
+          "sieg_gast": 2.07,
+          "ueber_2_5": 1.54,
+          "unter_2_5": 2.40,
+          "btts_ja": 1.46,
+          "btts_nein": 2.65,
+          "dc_1x": null,
+          "dc_x2": null,
+          "torschuetzen": {
+            "Robert Lewandowski (Anytime)": 5.30,
+            "Ferran Torres": null,
+            "Dani Olmo": null
+          }
+        },
+        "_quelle": "sportsgambler.com Stand 12.05.2026 + BetMGM US-Format-Konversion: Barcelona +107 -> 2.07 (ungewoehnlich hoch fuer Titel-Sieger wegen Rotations-Erwartung + Parade-Effekt), Over 2.5 -185 -> 1.54, BTTS Yes -217 -> 1.46, Lewandowski Anytime +430 -> 5.30 (sehr hoch — deutet auf Bench-Start hin). 1X2-Heimsieg + Draw-Quoten nicht klar im Aggregator; Sportytrader-Algo: Alaves ~36.4 %, Draw ~24.5 %, Barca ~39.1 %. bet365 live pruefen."
+      },
+      "news_kompakt": [
+        "Barcelona LaLiga-Titel am 11.05. via 2:0 vs Real Madrid in El Clasico geklaert (Camp Nou) — 29. Liga-Titel",
+        "Champions-Parade durch Barcelona am 12.05. mit Bus-Tour + Lewandowski/Szczesny/Yamal in Festtag-Modus — 13.05. ist 2 Tage spaeter",
+        "Yamal (Hamstring 06.06.), Raphinha (Gelb-Akku), Christensen (KB), ter Stegen (Hamstring) ALLE OUT — plus Rotations-Risiko bei Pedri/De Jong/Lewa",
+        "Alaves 19. (37 Pkt) — Abstieg mathematisch fast besiegelt, Heim-Verabschiedung emotional aber sportlich schwach (20 Spiele ohne Zu-Null)",
+        "Lewandowski-Anytime-Quote 5.30 (+430) ist ungewoehnlich hoch — Markt erwartet Bench-Start oder kurzen Einsatz; Ferran Torres als Falsche-9-Alternative wahrscheinlich",
+        "2:0-Insurance gilt NICHT (LaLiga) — kein Sondernutzen bei direktem Sieg-Tipp"
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/alaves-vs-barcelona-prediction-lineups-odds-2026-05-13/",
+        "https://www.goal.com/en-us/betting/tips/alaves-vs-barcelona-predictions-05-13/A:bltab849b096de2a909",
+        "https://www.fcbarcelona.com/en/football/first-team/news/4502324/the-champions-parade-as-it-happened",
+        "https://www.fotmob.com/matches/barcelona-vs-deportivo-alaves/2tw7n8"
+      ]
+    },
+    {
+      "id": "2026-05-13-get-mal",
+      "liga": "LaLiga",
+      "matchday": 36,
+      "heim": "Getafe CF",
+      "gast": "RCD Mallorca",
+      "anstoss": "2026-05-13T21:30:00+02:00",
+      "stadion": "Estadio Coliseum, Getafe",
+      "squad_heim": [
+        {"name": "David Soria", "nummer": null, "position": "TW", "saison_tore": 0, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/getafe-vs-mallorca-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Sebastian Boselli", "nummer": null, "position": "IV/RV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/getafe-vs-mallorca-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Domingos Duarte", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/getafe-vs-mallorca-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Zaid Abner Romero", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/getafe-vs-mallorca-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Juan Iglesias", "nummer": null, "position": "RV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/getafe-vs-mallorca-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Davinchi", "nummer": null, "position": "LV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/getafe-vs-mallorca-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Mauro Arambarri", "nummer": null, "position": "DM/ZM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/getafe-vs-mallorca-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Djene", "nummer": null, "position": "DM/IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/getafe-vs-mallorca-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Luis Milla", "nummer": null, "position": "OM/ZM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/getafe-vs-mallorca-prediction-lineups-odds-2026-05-13/", "hinweis": "Gelb-Sperren-Risiko"},
+        {"name": "Adrian Liso", "nummer": null, "position": "RF/LF", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/getafe-vs-mallorca-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Martin Satriano", "nummer": null, "position": "ST", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/getafe-vs-mallorca-prediction-lineups-odds-2026-05-13/", "hinweis": "Nominal-9er Getafe — Mannschaft hat in letzten 5 nur 1 Tor erzielt (Offensiv-Trockenheit)"}
+      ],
+      "squad_gast": [
+        {"name": "Leo Roman", "nummer": null, "position": "TW", "saison_tore": 0, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/getafe-vs-mallorca-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Pablo Maffeo", "nummer": null, "position": "RV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/getafe-vs-mallorca-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Martin Valjent", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/getafe-vs-mallorca-prediction-lineups-odds-2026-05-13/"},
+        {"name": "David Lopez", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/getafe-vs-mallorca-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Toni Lato", "nummer": null, "position": "LV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/getafe-vs-mallorca-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Omar Mascarell", "nummer": null, "position": "DM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/getafe-vs-mallorca-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Sergi Darder", "nummer": null, "position": "ZM/OM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/getafe-vs-mallorca-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Manu Morlanes", "nummer": null, "position": "ZM/DM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/getafe-vs-mallorca-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Pablo Torre", "nummer": null, "position": "OM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/getafe-vs-mallorca-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Vedat Muriqi", "nummer": 9, "position": "ST", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/getafe-vs-mallorca-prediction-lineups-odds-2026-05-13/", "hinweis": "Top-Stuermer Mallorca, Volumen-Spieler. Anytime 2.80 (+180). Saison-Tortor + Schlusszeit-Kopfballer."},
+        {"name": "Zito Luvumbo", "nummer": null, "position": "LF/ST", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/getafe-vs-mallorca-prediction-lineups-odds-2026-05-13/"}
+      ],
+      "injuries_heim": [
+        "Abdelkabir Abqar (Gelb-Akku, Rueckkehr ~17.05.)",
+        "Luis Milla (Gelb-Akku-Risiko)"
+      ],
+      "injuries_gast": [
+        "Samu (Gelb-Akku, Rueckkehr ~17.05.)",
+        "Johan Mojica (Oberschenkel, Langzeit-OUT)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine — Getafe nicht in UEFA-Wettbewerben 2025/26, keine Pokal-Belastung",
+        "gast": "keine — Mallorca nicht in UEFA-Wettbewerben 2025/26 (Mittelfeld-Saison), keine Pokal-Belastung mehr (Copa-Halbfinale-Aus, Copa-Sieger letztes Jahr nicht ausgeschlossen aber raus)",
+        "quellen": [
+          "https://en.wikipedia.org/wiki/2025%E2%80%9326_La_Liga",
+          "https://www.laliga.com/en-GB/laliga-easports/standing"
+        ]
+      },
+      "saisonziel_heim": "Platz 7 mit 45 Pkt nach 35 Spielen — auf Tuchfuehlung zu Conference-Quali-Platz 7 (durch Pokalsieger-Effekt eventuell verschoben). Letzte 5: 1 Sieg, 4 ohne, mit nur 1 erzieltem Tor. Heim-Offensiv-Notstand.",
+      "saisonziel_gast": "Platz 15 mit 39 Pkt nach 35 Spielen (10W-9D-16L) — Klassenerhalt gesichert, Mittelfeld-Ruhe. Hat in jedem Spiel seit Anfang Maerz getroffen (9-Spiele-Serie mit Tor).",
+      "tabellenstand": {"heim_platz": 7, "heim_pkt": 45, "gast_platz": 15, "gast_pkt": 39},
+      "form_heim_letzte_5": "U-L-L-S-L (1 Sieg in 5, nur 1 Tor erzielt, 10 von letzten 11 Spielen mit U2.5) — Offensiv-Lock-Down-Modus",
+      "form_gast_letzte_5": "U-U-S-U-S (in jedem der 9 letzten Spiele getroffen)",
+      "recovery_heim": "Letztes Spiel 11.05 — Standard-Rhythmus",
+      "recovery_gast": "Letztes Spiel 11.05 — Standard-Rhythmus, Reise per Flieger Mallorca → Madrid",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 2.28,
+          "draw": 2.95,
+          "sieg_gast": 3.65,
+          "ueber_2_5": 2.65,
+          "unter_2_5": 1.46,
+          "btts_ja": 2.12,
+          "btts_nein": 1.65,
+          "dc_1x": null,
+          "dc_x2": null,
+          "torschuetzen": {
+            "Vedat Muriqi (Anytime)": 2.80,
+            "Martin Satriano": null,
+            "Adrian Liso": null
+          }
+        },
+        "_quelle": "sportsgambler.com Stand 12.05.2026 + BetMGM US-Format-Konversion: Getafe +128 -> 2.28, Draw +195 -> 2.95, Mallorca +265 -> 3.65, Over 2.5 +165 -> 2.65, Under 2.5 -217 -> 1.46, BTTS Yes +112 -> 2.12, BTTS No -154 -> 1.65, Muriqi Anytime +180 -> 2.80. bet365 live pruefen."
+      },
+      "news_kompakt": [
+        "Getafe 7. (45 Pkt) im Conference-Quali-Sprint, aber letzte 5: 1 Sieg + nur 1 Tor — Offensiv-Trockenheit",
+        "Mallorca 15. (39 Pkt) — Klassenerhalt gesichert, Mittelfeld-Ruhe, ABER trifft seit 9 Spielen durchgehend (Muriqi-Volumen)",
+        "10 von Getafes letzten 11 Spielen mit U2.5 Tore — defensive Festung in beiden Richtungen",
+        "Asiatic-Wert laut Aggregator: Mallorca +0.25 (Lacha 7 von 10) — auswaerts robust",
+        "H2H: Mallorca in 5 von letzten 6 H2H gegen Getafe ungeschlagen",
+        "2:0-Insurance gilt NICHT (LaLiga)"
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/getafe-vs-mallorca-prediction-lineups-odds-2026-05-13/",
+        "https://www.sportskeeda.com/football/getafe-vs-mallorca-prediction-betting-tips-may-13th-2026",
+        "https://www.dimers.com/news/getafe-vs-mallorca-prediction-la-liga-wednesday-05-13-2026-ac",
+        "https://www.fotmob.com/matches/getafe-vs-mallorca/2dp4lm"
+      ]
+    },
+    {
+      "id": "2026-05-13-mci-cry",
+      "liga": "Premier League",
+      "matchday": 36,
+      "heim": "Manchester City",
+      "gast": "Crystal Palace",
+      "anstoss": "2026-05-13T21:00:00+02:00",
+      "stadion": "Etihad Stadium, Manchester",
+      "squad_heim": [
+        {"name": "Gianluigi Donnarumma", "nummer": null, "position": "TW", "saison_tore": 0, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-city-vs-crystal-palace-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Matheus Nunes", "nummer": null, "position": "RV/RM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-city-vs-crystal-palace-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Abdukodir Khusanov", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-city-vs-crystal-palace-prediction-lineups-odds-2026-05-13/", "hinweis": "Knock aus Everton-Spiel, Pep meldet 'besser' — wahrscheinlich verfuegbar. Rotations-Kandidat fuer FA-Cup-Final."},
+        {"name": "Marc Guehi", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-city-vs-crystal-palace-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Nico O'Reilly", "nummer": null, "position": "LV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-city-vs-crystal-palace-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Bernardo Silva", "nummer": null, "position": "ZM/OM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-city-vs-crystal-palace-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Nico Gonzalez", "nummer": null, "position": "DM/ZM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-city-vs-crystal-palace-prediction-lineups-odds-2026-05-13/", "hinweis": "Rotations-Kandidat falls Rodri zurueckkommt fuer Cup-Final"},
+        {"name": "Antoine Semenyo", "nummer": null, "position": "RF/LF", "saison_tore": 15, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-city-vs-crystal-palace-prediction-lineups-odds-2026-05-13/", "hinweis": "15 Liga-Tore, prominenter Torschuetze."},
+        {"name": "Rayan Cherki", "nummer": null, "position": "OM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-city-vs-crystal-palace-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Jeremy Doku", "nummer": null, "position": "LF/RF", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-city-vs-crystal-palace-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Erling Haaland", "nummer": 9, "position": "ST", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-city-vs-crystal-palace-prediction-lineups-odds-2026-05-13/", "hinweis": "Anytime 1.52 (-192). 4 Liga-Tore in den letzten 4 Spielen in Folge. H2H gegen Palace: in 5 von 5 PL-Spielen getroffen (8 Tore in 5 Spielen)."},
+        {"name": "Omar Marmoush", "nummer": null, "position": "ST/LF", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-city-vs-crystal-palace-prediction-lineups-odds-2026-05-13/", "hinweis": "Backup-Stuermer + falscher 9er — Einwechslungs-Boost-Kandidat fuer Haaland-Tipp"}
+      ],
+      "squad_gast": [
+        {"name": "Dean Henderson", "nummer": null, "position": "TW", "saison_tore": 0, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-city-vs-crystal-palace-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Chris Richards", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-city-vs-crystal-palace-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Maxence Lacroix", "nummer": null, "position": "IV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-city-vs-crystal-palace-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Jaydee Canvot", "nummer": null, "position": "IV/LV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-city-vs-crystal-palace-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Daniel Munoz", "nummer": null, "position": "RV", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-city-vs-crystal-palace-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Jefferson Lerma", "nummer": null, "position": "DM/ZM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-city-vs-crystal-palace-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Will Hughes", "nummer": null, "position": "ZM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-city-vs-crystal-palace-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Justin Devenny", "nummer": null, "position": "ZM/OM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-city-vs-crystal-palace-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Brennan Johnson", "nummer": null, "position": "RF/RM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-city-vs-crystal-palace-prediction-lineups-odds-2026-05-13/", "hinweis": "Saison-Leih oder Sommer-Transfer von Spurs"},
+        {"name": "Yeremy Pino", "nummer": null, "position": "LF/OM", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-city-vs-crystal-palace-prediction-lineups-odds-2026-05-13/"},
+        {"name": "Joergen Strand Larsen", "nummer": null, "position": "ST", "saison_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-city-vs-crystal-palace-prediction-lineups-odds-2026-05-13/", "hinweis": "Nominal-9er Palace; Backup-Lage durch Nketiah-Verletzung (Hamstring bis 06.06.) prekaer."}
+      ],
+      "injuries_heim": [
+        "Mateo Kovacic (direkter Rote-Karte-Sperre)",
+        "Abdukodir Khusanov (Knock, wahrscheinlich verfuegbar)",
+        "Kalvin Phillips (Muskel, OUT)",
+        "Jack Grealish (Fuss, OUT bis ~01.06.)",
+        "Rodri (Leiste / ACL-Recovery — Pep 'besser', Entscheidung kurzfristig)",
+        "Josko Gvardiol (Tibia-Bruch — zurueck im Mannschafts-Training, Kader-Entscheidung kurzfristig)"
+      ],
+      "injuries_gast": [
+        "Borna Sosa (Status unklar, Rueckkehr ~17.05.)",
+        "Eddie Nketiah (Hamstring, OUT bis ~06.06.)",
+        "Cheick Doucoure (Knie, OUT)",
+        "Evann Guessand (Knie, OUT)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "FA-Cup-Finale 16.05.2026 gegen Chelsea im Wembley Stadium (KICK-OFF 15:00 UK-Zeit, 16:00 Berlin). NUR 3 TAGE NACH DIESEM PALACE-SPIEL — Pep wird massiv rotieren. Quelle: SI-Artikel betont 'One Eye on FA Cup Final'. Champions-League-Aus 17.03.2026 vs Real Madrid (5:1 aggregate, R16). Kein UEFA mehr.",
+        "gast": "UEFA Conference League Final 27.05.2026 gegen Rayo Vallecano in Leipzig (Red Bull Arena). 14 TAGE NACH DIESEM SPIEL — geringeres Rotations-Risiko, aber Palace hat in PL nichts mehr zu spielen (Platz 15, 44 Pkt, mathematisch alles gesichert). FA-Cup als Titelverteidiger im 2025/26 frueh raus.",
+        "quellen": [
+          "https://www.thefa.com/news/2026/apr/22/emirates-fa-cup-final-2026-kick-off-confirmed",
+          "https://en.wikipedia.org/wiki/2026_FA_Cup_final",
+          "https://www.cpfc.co.uk/news/announcement/crystal-palace-reach-2025-26-uefa-conference-league-final/",
+          "https://www.uefa.com/uefaconferenceleague/match/2047744--crystal-palace-vs-rayo-vallecano/",
+          "https://www.si.com/soccer/man-city-xi-vs-crystal-palace-injury-news-predicted-lineup-5-13-26"
+        ]
+      },
+      "saisonziel_heim": "Platz 2 mit 74 Pkt nach 35 Spielen (22W-8D-5L, +40 GD) — Arsenal mit 79 Pkt + 4 Pkt Vorsprung praktisch uneinholbar (3 Spiele Rest, Arsenal nur noch 2 Spiele zu spielen). CL-Quali laengst gesichert. Hauptfokus: FA Cup Final am 16.05. (15. FA-Cup-Finale, 4. in Folge — Rekord).",
+      "saisonziel_gast": "Platz 15 mit 44 Pkt nach 35 Spielen — Klassenerhalt + UEFA-Quali (durch Conference-Final-Teilnahme) gesichert. Letztes 2:2 vs Everton. Hauptfokus: UECL Final am 27.05.",
+      "tabellenstand": {"heim_platz": 2, "heim_pkt": 74, "gast_platz": 15, "gast_pkt": 44},
+      "form_heim_letzte_5": "S-S (zuletzt 3:0 vs Brentford, davor PL-Heim-Siege en suite) — zuhause stark, aber Pep koennte Stammelf schonen",
+      "form_gast_letzte_5": "U-U (zuletzt 2:2 vs Everton) — Mittelfeld-Modus mit Blick auf Leipzig",
+      "recovery_heim": "Letztes Spiel 10.05 (PL vs Brentford 3:0) — 3 Tage seit; FA Cup Final 16.05 als naechster Termin (3 Tage post-Match)",
+      "recovery_gast": "Letztes Spiel ~10.05 (PL) — 3 Tage seit; UECL Final 27.05 als naechster Termin (14 Tage post-Match) — entspannt",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 1.18,
+          "draw": 7.00,
+          "sieg_gast": 12.50,
+          "ueber_2_5": 1.32,
+          "unter_2_5": 3.30,
+          "btts_ja": 1.79,
+          "btts_nein": 1.94,
+          "dc_1x": 1.09,
+          "dc_x2": null,
+          "torschuetzen": {
+            "Erling Haaland (Anytime)": 1.52,
+            "Antoine Semenyo (Anytime)": null,
+            "Omar Marmoush (Anytime)": null
+          }
+        },
+        "_quelle": "sportsgambler.com Stand 12.05.2026 + BetMGM US-Format-Konversion: Man City -556 -> 1.18, Draw +600 -> 7.00, Palace +1150 -> 12.50, Over 2.5 -313 -> 1.32, Under 2.5 +230 -> 3.30, BTTS Yes -127 -> 1.79, BTTS No -106 -> 1.94, Haaland Anytime -192 -> 1.52, AH City -2 -103 -> 1.97. ABER: bei Rodri/Khusanov-Bestaetigung im Kader plus Haaland-Start sind diese Quoten realistisch — bei massiver Rotation (Bench fuer FA-Cup-Final) muesste Markt nachgeben. bet365 live pruefen — gerade Lineups erst ~1h vor Anstoss verlaesslich.",
+        "rotations_warnung": "ENTSCHEIDEND: Lineup-Bestaetigung 1h vor Anstoss abwarten — Pep koennte Haaland/Doku/Bernardo Silva/Nico Gonzalez auf Bank setzen, da PL-Titel quasi verloren (Arsenal -5 mit 1 Spiel mehr) UND FA-Cup-Final 3 Tage spaeter."
+      },
+      "news_kompakt": [
+        "Manchester City: FA Cup Final 16.05. vs Chelsea (3 Tage post-Match) — Pep-Rotation HOCHWAHRSCHEINLICH; Stammspieler werden geschont",
+        "Premier-League-Titel-Rennen praktisch entschieden: Arsenal 79 Pkt + 4 Pkt Vorsprung mit nur 2 Spielen Rest gegen City 3 — Motivations-Asymmetrie",
+        "Crystal Palace: UECL Final 27.05. vs Rayo Vallecano (14 Tage post-Match) — geringeres Rotations-Risiko, aber sportliche Bedeutung gering",
+        "Haaland H2H gegen Palace: in 5 von 5 PL-Spielen getroffen, 8 Tore in 5 Spielen. Aktuelle Form: 4 Spiele in Folge in Liga getroffen",
+        "Rodri (ACL-Reha, 'besser') + Gvardiol (Tibia, Mannschafts-Training) Kader-Entscheidung kurzfristig — beide eher Schonung fuer Cup-Final wahrscheinlich",
+        "BTTS-Quote (Yes 1.79) ist hoch fuer City-Heimspiel — Markt rechnet mit Palace-Toren durch City-Rotations-Defensive UND Haaland-Volumen-Tor",
+        "2:0-Insurance gilt NICHT (PL ist nicht BL/CL)"
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/manchester-city-vs-crystal-palace-prediction-lineups-odds-2026-05-13/",
+        "https://www.si.com/soccer/man-city-xi-vs-crystal-palace-injury-news-predicted-lineup-5-13-26",
+        "https://www.sportsmole.co.uk/football/man-city/title-race/preview/man-city-vs-crystal-palace-prediction-team-news-lineups_597342.html",
+        "https://www.mancity.com/news/mens/man-city-v-crystal-palace-pep-guardiola-injury-update-63914182",
+        "https://www.cpfc.co.uk/crystal-palace-2026-uefa-conference-league-final-leipzig/"
+      ]
+    },
+    {
+      "id": "2026-05-14-det-cle",
+      "liga": "NBA Playoffs Round 2 (East Semifinals), Game 5",
+      "heim": "Detroit Pistons",
+      "gast": "Cleveland Cavaliers",
+      "anstoss": "2026-05-14T02:00:00+02:00",
+      "stadion": "Little Caesars Arena, Detroit (MI)",
+      "squad_heim": [
+        {"name": "Cade Cunningham", "nummer": null, "position": "PG", "saison_tore": null, "verifiziert_via": "https://www.cbssports.com/nba/news/pistons-cavaliers-odds-spread-prediction-time-2026-nba-playoff-picks-game-5-best-bets/", "hinweis": "Pistons-Top-Star. 31,8 PPG + 8,2 APG bei 50 % FG in 6 Playoff-Heim-Spielen. Series 2-2 Treiber."},
+        {"name": "Jalen Duren", "nummer": null, "position": "C", "saison_tore": null, "verifiziert_via": "https://www.espn.com/nba/story/_/id/48419498/nba-playoffs-2026-play-finals-schedule-scores-news-highlights-bracket-dates", "hinweis": "Center, Schluessel-X-Faktor gegen Mobley."},
+        {"name": "Jaden Ivey", "nummer": null, "position": "SG", "saison_tore": null, "verifiziert_via": "https://www.nba.com/playoffs/2026/east-semifinal-1"},
+        {"name": "Tobias Harris", "nummer": null, "position": "PF/SF", "saison_tore": null, "verifiziert_via": "https://www.nba.com/playoffs/2026/east-semifinal-1"},
+        {"name": "Ausar Thompson", "nummer": null, "position": "SF", "saison_tore": null, "verifiziert_via": "https://www.nba.com/playoffs/2026/east-semifinal-1"},
+        {"name": "Isaiah Stewart", "nummer": null, "position": "PF/C", "saison_tore": null, "verifiziert_via": "https://www.nba.com/playoffs/2026/east-semifinal-1"},
+        {"name": "Malik Beasley", "nummer": null, "position": "SG", "saison_tore": null, "verifiziert_via": "https://www.nba.com/playoffs/2026/east-semifinal-1"}
+      ],
+      "squad_gast": [
+        {"name": "Donovan Mitchell", "nummer": null, "position": "SG", "saison_tore": null, "verifiziert_via": "https://www.cbssports.com/nba/news/pistons-cavaliers-odds-spread-prediction-time-2026-nba-playoff-picks-game-5-best-bets/", "hinweis": "Cavs-Top-Scorer. 27,9 PPG (6. NBA insgesamt)."},
+        {"name": "Evan Mobley", "nummer": null, "position": "PF/C", "saison_tore": null, "verifiziert_via": "https://wncoam.iheart.com/content/2026-05-13-cavaliers-vs-pistons-eastern-semifinals-game-5-injury-report-may-13/", "hinweis": "Cavs-Defensive-Anker. 9 RPG (9. NBA). G4 Stat-Line: 17/8/5/3stl/5blk."},
+        {"name": "Darius Garland", "nummer": null, "position": "PG", "saison_tore": null, "verifiziert_via": "https://www.nba.com/playoffs/2026/east-semifinal-1"},
+        {"name": "Jarrett Allen", "nummer": null, "position": "C", "saison_tore": null, "verifiziert_via": "https://www.nba.com/playoffs/2026/east-semifinal-1"},
+        {"name": "Max Strus", "nummer": null, "position": "SF/SG", "saison_tore": null, "verifiziert_via": "https://www.nba.com/playoffs/2026/east-semifinal-1"},
+        {"name": "De'Andre Hunter", "nummer": null, "position": "SF/PF", "saison_tore": null, "verifiziert_via": "https://www.nba.com/playoffs/2026/east-semifinal-1"},
+        {"name": "Sam Merrill", "nummer": null, "position": "SG", "saison_tore": null, "verifiziert_via": "https://www.nba.com/playoffs/2026/east-semifinal-1"}
+      ],
+      "injuries_heim": [
+        "Duncan Robinson (Ruecken, QUESTIONABLE)",
+        "Kevin Huerter (Abduktor-Strain, QUESTIONABLE)",
+        "Caris LeVert (Ferse, QUESTIONABLE)"
+      ],
+      "injuries_gast": [
+        "KEINE — Cavs gehen ohne Injuries ins G5"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "NBA-Playoff-Modus — keine parallelen Wettbewerbe, Pistons mit Heimvorteil in G5, Series 2-2",
+        "gast": "NBA-Playoff-Modus — keine parallelen Wettbewerbe, Cavs auswaerts nach G3+G4-Heimsiegen",
+        "quellen": [
+          "https://www.nba.com/playoffs/2026/east-semifinal-1",
+          "https://www.espn.com/nba/game/_/gameId/401871337/cavaliers-pistons"
+        ]
+      },
+      "saisonziel_heim": "Eastern Conference Semifinals — Series 2-2 nach G1+G2-Heimsiegen (111-101, 107-97) und G3+G4-Auswaertsniederlagen (109-116, 103-112). G5 als Heim-Schluessel zum 3-2-Vorsprung. Bei Win: Series-Lead mit G6 in Cleveland.",
+      "saisonziel_gast": "Eastern Conference Semifinals — Series 2-2 nach G3+G4-Heimsiegen (Cavs drehten G4 nach 22:0-Lauf im 3. Quarter). Auswaerts-Steal in Detroit = 3-2-Vorsprung mit G6 daheim.",
+      "tabellenstand": {
+        "series_score": "2-2",
+        "heim_record_series": "2W-2L",
+        "gast_record_series": "2W-2L"
+      },
+      "form_heim_letzte_5": "W (G1 Heim 111-101), W (G2 Heim 107-97), L (G3 Aus 109-116), L (G4 Aus 103-112) — Heimvorteil-Pattern stabil",
+      "form_gast_letzte_5": "L (G1 Aus 101-111), L (G2 Aus 97-107), W (G3 Heim 116-109), W (G4 Heim 112-103) — Heimvorteil-Pattern stabil; G4 22:0-Run-Drehung",
+      "recovery_heim": "2 Tage seit G4 (11.05.) — Standard-Playoff-Rhythmus, daheim",
+      "recovery_gast": "2 Tage seit G4 (11.05.) — Standard-Playoff-Rhythmus, ~4h Reise Cleveland → Detroit",
+      "quoten": {
+        "bet365_naeherung": {
+          "moneyline_heim": 1.57,
+          "moneyline_gast": 2.45,
+          "spread_heim": "-4.5",
+          "spread_gast": "+4.5",
+          "spread_heim_quote": null,
+          "spread_gast_quote": null,
+          "total_punkte": 212.5,
+          "ueber_total_quote": null,
+          "unter_total_quote": null
+        },
+        "_quelle": "FanDuel Stand 13.05.2026 — Moneyline Pistons -175 -> 1.57, Cavaliers +145 -> 2.45. Spread Pistons -4.5 (urspruenglich -3.5 mit Total 211.5, leicht verschoben). Total O/U 212.5. SportsLine-Modell: Under hits 53 % der Simulationen, Pistons covern Spread bei ~70 % der Possessions-Simulationen. bet365 live pruefen.",
+        "player_props_note": "NBA-Player-Punkte-Boykott seit 26.04. weiterhin aktiv (Lesson NBA Playoff Varianz) — keine Single-Player-Points-Tipps. Nur Moneyline/Spread/Total-Maerkte erlaubt."
+      },
+      "news_kompakt": [
+        "Series 2-2 nach Cavs-G4-Heimsieg 112-103 am 11.05. mit 22:0-Lauf im 3. Quarter zur Drehung",
+        "Pistons -4.5 Spread daheim, Total 212.5 — Markt erwartet niedriges Tempo (U2.5-Trend in 3 von 4 H2H-Regular-Season)",
+        "Cunningham 31,8 PPG in Playoff-Heim-Spielen — Pistons-Heimvorteil mit Cade als Driver",
+        "Mitchell 27,9 PPG fuer Cavs (6. NBA insgesamt); Mobley defensiv mit 5 Blocks in G4 dominant",
+        "Pistons-Injuries: Robinson/Huerter/LeVert alle QUESTIONABLE — Rotations-Tiefe leicht angeknackst, aber alle drei Bench-Spieler",
+        "Cavs ohne Injuries — voller Kader verfuegbar",
+        "Player-Props NICHT erlaubt im Miesmuschel-System (NBA-Boykott seit 26.04.)"
+      ],
+      "quellen_aggregator": [
+        "https://www.cbssports.com/nba/news/pistons-cavaliers-odds-spread-prediction-time-2026-nba-playoff-picks-game-5-best-bets/",
+        "https://www.oddsshark.com/nba/cavaliers-pistons-picks-odds-game-5-may-13-2026",
+        "https://wncoam.iheart.com/content/2026-05-13-cavaliers-vs-pistons-eastern-semifinals-game-5-injury-report-may-13/",
+        "https://www.nba.com/game/cle-vs-det-0042500205",
+        "https://heavy.com/sports/nba/detroit-pistons/injury-report-game-5-cleveland-cavaliers/"
+      ]
+    }
+  ]
+}
