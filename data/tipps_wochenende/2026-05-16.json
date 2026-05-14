@@ -36,42 +36,46 @@
           "id": "bay-koe-1",
           "kategorie": "value",
           "markt": "FC Bayern Muenchen Sieg",
-          "quote_bet365": 1.22,
           "quote_aggregator": 1.22,
           "quote_quelle": "Squawka/Forebet/Goonersguide May 16 2026",
           "begruendung": "Bayern Heim-Saison-Highlight + Meisterehrung + 8 Spiele unbesiegt vs Koeln (5 Siege in Folge). Lesson 03.05. SAFE-Reality-Check #2 verhindert SAFE-Label trotz Klassendifferenz - DFB-Pokal-Final 24.05. ist 8 Tage spaeter (knapp ausserhalb 7-Tage-Cluster). Bilanz Markt 'Sieg (1X2/ML)': n=76 / Hit 60.5% / ROI +10.1% - Goldgrube-Markt. Empfohlener Einsatz: 8,25€ (1.5% der 550€-Kasse).",
           "edge_prozent": null,
           "empfohlener_einsatz_prozent": 1.5,
           "pinnacle_quote": 1.21,
-          "pinnacle_marge_prozent": 5.0
+          "pinnacle_marge_prozent": 5.0,
+          "quote": 1.22,
+          "faire_quote": 1.22
         },
         {
           "id": "bay-koe-2",
           "kategorie": "value",
           "markt": "Mehr als 2.5 Tore",
-          "quote_bet365": 1.36,
           "quote_aggregator": 1.36,
           "quote_quelle": "Forebet/Squawka aggregated",
           "begruendung": "Bayern 117 Tore in 33 Spielen (3.5/Spiel) + Heim-Saison-Finale ohne Tabellen-Druck = Tor-Festival-Wahrscheinlichkeit hoch. Koeln auswaerts defensiv anfaellig. bet365 Ueber 4.5 @ 1.80 + Ueber 5.5 @ 2.625 zeigt Markt rechnet mit hochkaratiger Bayern-Heim-Show. Markt-Goldgrube 'Ueber 2.5': n=10 / Hit 60% / ROI +62.8% - aktiv suchen-Pflicht. Einsatz: 8,25€ (1.5%).",
           "edge_prozent": null,
           "empfohlener_einsatz_prozent": 1.5,
           "pinnacle_quote": 1.34,
-          "pinnacle_marge_prozent": 3.5
+          "pinnacle_marge_prozent": 3.5,
+          "quote": 1.36,
+          "faire_quote": 1.36
         },
         {
           "id": "bay-koe-3",
           "kategorie": "wackel",
           "markt": "Michael Olise Torschuetze jederzeit",
-          "quote_bet365": 2.05,
           "quote_aggregator": 2.05,
           "quote_quelle": "Bet365 Markt-Schaetzung 14.05.",
           "begruendung": "Olise 14 BL-Tore Saison + Stammspieler (Squawka-Spekulation Startelf). Goldgrube-Markt 'Torschuetzen Jederzeit': n=26 / Hit 38.5% / ROI +21% - laut Mapper-Hebel-Logik PFLICHT-PROFILE bei Heim-Favorit (Bayern-Heim-Quote < 1.80). Pre-Match-Lineup-Verifikation 60min vor Anstoss empfohlen (Lesson 10.05./11.05.). Einsatz: 2,75€ (0.5%).",
           "edge_prozent": null,
           "empfohlener_einsatz_prozent": 0.5,
           "pinnacle_quote": 2.0,
-          "pinnacle_marge_prozent": 2.5
+          "pinnacle_marge_prozent": 2.5,
+          "quote": 2.05,
+          "faire_quote": 2.05
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-16-brm-bvb",
@@ -105,29 +109,32 @@
           "id": "brm-bvb-1",
           "kategorie": "value",
           "markt": "Borussia Dortmund Doppelte Chance X2 (Remis oder Auswaertssieg)",
-          "quote_bet365": 1.3,
           "quote_aggregator": 1.3,
           "quote_quelle": "Forebet/Squawka/oddspedia 16.05.",
           "begruendung": "Markt-Goldgrube 'Doppelte Chance X2' n=11 / Hit 63.6% / ROI +7.7%. Plus BVB unbeaten in letzten 6 H2H + 64% Saisonquote vs Bremen 24%. Mapper-Hebel S verhindert SAFE-Label (BVB hat Saisonziel laengst geklaert) - VALUE konservativ richtig. Einsatz: 8,25€ (1.5% der 550€-Kasse).",
           "edge_prozent": null,
           "empfohlener_einsatz_prozent": 1.5,
           "pinnacle_quote": 1.28,
-          "pinnacle_marge_prozent": 4.0
+          "pinnacle_marge_prozent": 4.0,
+          "quote": 1.3,
+          "faire_quote": 1.3
         },
         {
           "id": "brm-bvb-2",
           "kategorie": "value",
           "markt": "Serhou Guirassy Torschuetze jederzeit",
-          "quote_bet365": 2.05,
           "quote_aggregator": 2.05,
           "quote_quelle": "Dachbet 21/20 - Sport.de/Dailysports 16.05.",
           "begruendung": "Guirassy 16 BL-Tore, Top-9er, Form aktiv (Joker-Tor mit 100% Schuss-Genauigkeit zuletzt). Markt-Goldgrube 'Torschuetzen Jederzeit' n=26 / Hit 38.5% / ROI +21%. Bremen-Defense 35+ Gegentore - Edge klar. PFLICHT-PROFILE-Lesson 04.05.: bei Auswaerts-Sieg-Quote < 2.20 muss MIN 1 Torschuetzen-Tipp gesetzt sein. Einsatz: 5,50€ (1%).",
           "edge_prozent": null,
           "empfohlener_einsatz_prozent": 1.0,
           "pinnacle_quote": 2.0,
-          "pinnacle_marge_prozent": 2.5
+          "pinnacle_marge_prozent": 2.5,
+          "quote": 2.05,
+          "faire_quote": 2.05
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-16-sge-vfb",
@@ -161,29 +168,32 @@
           "id": "sge-vfb-1",
           "kategorie": "value",
           "markt": "VfB Stuttgart Sieg",
-          "quote_bet365": 1.98,
           "quote_aggregator": 1.98,
           "quote_quelle": "Betwinner/Betfair via Easyodds/Squawka 16.05.",
           "begruendung": "Pflichtsieg-Asymmetrie: Stuttgart CL-Quali-Pflicht in eigener Hand vs Frankfurt Mid-Table-Druck nur Fan-Erwartung. Stuttgart 3:1 vs Lev letzte Woche zeigt Hoeness's-Team in Topform. Markt-Goldgrube 'Sieg (1X2/ML)' n=76 / Hit 60.5% / ROI +10.1%. Lesson 04.05. Saison-Kontext: motivations_asymmetrie passt zur Kategorie. Einsatz: 8,25€ (1.5%).",
           "edge_prozent": null,
           "empfohlener_einsatz_prozent": 1.5,
           "pinnacle_quote": 1.95,
-          "pinnacle_marge_prozent": 3.5
+          "pinnacle_marge_prozent": 3.5,
+          "quote": 1.98,
+          "faire_quote": 1.98
         },
         {
           "id": "sge-vfb-2",
           "kategorie": "wackel",
           "markt": "Ermedin Demirovic Torschuetze jederzeit",
-          "quote_bet365": 2.3,
           "quote_aggregator": 2.3,
           "quote_quelle": "Easyodds/Predixsport 16.05.",
           "begruendung": "Demirovic Stuttgart-Topscorer in Form, profitiert von Pflichtsieg-Druck. Goldgrube-Markt Torschuetzen Jederzeit (+21% ROI). Aber Lesson 11.05. + 13.05.: Aufstellungs-Verifikation 60-90 Min vor Anstoss zwingend - Stuttgart-Hoeness rotiert ggf. nach 3:1-Sieg ueber Leverkusen. Daher WACKEL. Einsatz: 2,75€ (0.5%).",
           "edge_prozent": null,
           "empfohlener_einsatz_prozent": 0.5,
           "pinnacle_quote": 2.22,
-          "pinnacle_marge_prozent": 3.5
+          "pinnacle_marge_prozent": 3.5,
+          "quote": 2.3,
+          "faire_quote": 2.3
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-16-lev-hsv",
@@ -218,29 +228,32 @@
           "id": "lev-hsv-1",
           "kategorie": "value",
           "markt": "Bayer 04 Leverkusen Doppelte Chance 1X (Heimsieg oder Remis)",
-          "quote_bet365": 1.07,
           "quote_aggregator": 1.07,
           "quote_quelle": "Aggregator-Schaetzung basiert auf 1.30 Sieg-Quote und 5.50 Remis (Easyodds)",
           "begruendung": "Markt-Goldgrube 'Doppelte Chance 1X' n=17 / Hit 82.4% / ROI +4.9%. Lev klar Favorit zuhause + 76% implied (Sport.de/Easyodds) + HSV ohne Druck. Quote sehr niedrig 1.07 - aber Lesson 04.05. Markt-Mix-Pflicht: max 1 DC pro Spiel + DC-CAP-Logik. Plus Lesson 03.05. Safe-Kombi-Konstruktion: DC zu Klassendifferenz ist Edge. Einsatz: 5,50€ (1%).",
           "edge_prozent": null,
           "empfohlener_einsatz_prozent": 1.0,
           "pinnacle_quote": 1.05,
-          "pinnacle_marge_prozent": 4.0
+          "pinnacle_marge_prozent": 4.0,
+          "quote": 1.07,
+          "faire_quote": 1.07
         },
         {
           "id": "lev-hsv-2",
           "kategorie": "wackel",
           "markt": "Martin Terrier Torschuetze jederzeit",
-          "quote_bet365": 2.75,
           "quote_aggregator": 2.75,
           "quote_quelle": "Bet365 Markt-Schaetzung 14.05.",
           "begruendung": "Schick OUT -> Terrier Startelf-Pflicht-Stuermer Lev. Lesson 04.05. STAR-AUSFALL Backup-Pflicht: bei Schick-Ausfall ist Terrier-Backup-Tipp PFLICHT. Goldgrube Torschuetzen Jederzeit (+21% ROI). Aber Terrier nicht etablierter Top-Form-Spieler - daher WACKEL nicht VALUE. Lesson 11.05. Aufstellungs-Verifikation 60-90 Min vor Anstoss empfohlen. Einsatz: 2,75€ (0.5%).",
           "edge_prozent": null,
           "empfohlener_einsatz_prozent": 0.5,
           "pinnacle_quote": 2.65,
-          "pinnacle_marge_prozent": 3.5
+          "pinnacle_marge_prozent": 3.5,
+          "quote": 2.75,
+          "faire_quote": 2.75
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-16-fch-m05",
@@ -274,16 +287,18 @@
           "id": "fch-m05-1",
           "kategorie": "wackel",
           "markt": "1. FC Heidenheim Doppelte Chance 1X (Heimsieg oder Remis)",
-          "quote_bet365": 1.4,
           "quote_aggregator": 1.4,
           "quote_quelle": "Aggregator-Schaetzung aus 2.09 Heimsieg + 3.7 Remis (Sport.de)",
           "begruendung": "Motivations-Asymmetrie Lesson 04.05.: Heidenheim Klassenerhalts-Pflicht-Heim + 3 Spiele ungeschlagen vs Mainz motivations-arm. Markt-Goldgrube 'Doppelte Chance 1X' n=17 / Hit 82.4% / ROI +4.9%. Aber: Sieg-Quote 2.09 zeigt Markt sieht keinen klaren Heim-Favoriten (Saisonziel-Asymmetrie schon eingepreist) - daher WACKEL nicht VALUE. Einsatz: 2,75€ (0.5%).",
           "edge_prozent": null,
           "empfohlener_einsatz_prozent": 0.5,
           "pinnacle_quote": 1.37,
-          "pinnacle_marge_prozent": 4.0
+          "pinnacle_marge_prozent": 4.0,
+          "quote": 1.4,
+          "faire_quote": 1.4
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-16-stp-wob",
@@ -317,16 +332,18 @@
           "id": "stp-wob-1",
           "kategorie": "wackel",
           "markt": "Mehr als 2.5 Tore",
-          "quote_bet365": 1.95,
           "quote_aggregator": 1.95,
           "quote_quelle": "Aggregator-Schaetzung 16.05.",
           "begruendung": "Lesson 04.05. COINFLIP-Profil bei allen 1X2-Quoten 2.30-3.70 - KEIN Sieg-Tipp moeglich. Aber Abstiegs-Duell mit Druck-Spannung kann hektisch werden (Lesson 11.05. Schluss-Minuten-Tor-Cluster Mai - Saisonende-Pflicht-Spiele oft 88+ entschieden). Markt-Goldgrube 'Ueber 2.5' n=10 / Hit 60% / ROI +62.8%. ABER: Wolfsburg-St.Pauli H2H letzte 3 nur 5 Tore total in 3 Spielen = defensive Begegnungen. Daher WACKEL nicht VALUE. Einsatz: 2,75€ (0.5%).",
           "edge_prozent": null,
           "empfohlener_einsatz_prozent": 0.5,
           "pinnacle_quote": 1.92,
-          "pinnacle_marge_prozent": 1.5
+          "pinnacle_marge_prozent": 1.5,
+          "quote": 1.95,
+          "faire_quote": 1.95
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-16-scf-rbl",
@@ -361,16 +378,18 @@
           "id": "scf-rbl-1",
           "kategorie": "wackel",
           "markt": "RB Leipzig Doppelte Chance X2 (Remis oder Auswaertssieg)",
-          "quote_bet365": 1.5,
           "quote_aggregator": 1.5,
           "quote_quelle": "Aggregator aus Wincomparator/Bet365 16.05.",
           "begruendung": "Lesson 11.05.+14.05. EL/CL-Final-Schon-Cluster 7-Tage-Trigger: Freiburg-Final 4 Tage spaeter -> Schon-Modus, B-Elf wahrscheinlich. Markt-Goldgrube 'Doppelte Chance X2' n=11 / Hit 63.6% / ROI +7.7%. Leipzig nicht aktiv motiviert aber Klassendifferenz + Freiburg-B-Elf = Edge fuer Leipzig-Hedge. ABER Lesson 11.05. praezisiert: keine SAFE bei Schon-Spielen, max wackel. Plus Mapper-Hebel C (BL nicht in Liga-Goldgrube) downgraded SAFE auf VALUE automatisch. Einsatz: 2,75€ (0.5%).",
           "edge_prozent": null,
           "empfohlener_einsatz_prozent": 0.5,
           "pinnacle_quote": 1.46,
-          "pinnacle_marge_prozent": 4.0
+          "pinnacle_marge_prozent": 4.0,
+          "quote": 1.5,
+          "faire_quote": 1.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-16-bmg-tsg",
@@ -403,16 +422,18 @@
           "id": "bmg-tsg-1",
           "kategorie": "wackel",
           "markt": "TSG Hoffenheim Doppelte Chance X2 (Remis oder Auswaertssieg)",
-          "quote_bet365": 1.45,
           "quote_aggregator": 1.45,
           "quote_quelle": "Aggregator-Schaetzung 14.05.",
           "begruendung": "Saisonziel-Asymmetrie wie Hoffenheim Pflichtsieg-Druck CL-Quali vs BMG-Auslauf. Markt-Goldgrube 'Doppelte Chance X2' n=11 / Hit 63.6% / ROI +7.7%. Aber Lesson 14.05. Saisonende-Drehungs-Cluster + Lesson 11.05. BL-Sieg-Cluster-Saisonende: VALUE-Reduktion auf WACKEL. Mapper-Hebel C downgraded SAFE-DC sowieso (BL nicht Liga-Goldgrube). Einsatz: 2,75€ (0.5%).",
           "edge_prozent": null,
           "empfohlener_einsatz_prozent": 0.5,
           "pinnacle_quote": 1.42,
-          "pinnacle_marge_prozent": 3.5
+          "pinnacle_marge_prozent": 3.5,
+          "quote": 1.45,
+          "faire_quote": 1.45
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-16-che-mci",
@@ -448,29 +469,32 @@
           "id": "che-mci-1",
           "kategorie": "wackel",
           "markt": "Mehr als 2.5 Tore",
-          "quote_bet365": 1.85,
           "quote_aggregator": 1.85,
           "quote_quelle": "Aggregator-Schaetzung 14.05.",
           "begruendung": "Final-Setup mit hoher Tor-Erwartung (City-Angriff Top, Chelsea-Defense durchlaessig: 7 Pleiten in 7 PL-Spielen Form). Goldgrube-Markt 'Ueber 2.5' n=10 / Hit 60% / ROI +62.8%. ABER Final-Druck-Konstellation oft enger als erwartet (Lesson 01.05. EL/Conf-HF-Hinspiel widerlegte Tor-Festival-These) - Endspiel kann taktisch defensiv werden. Plus Lesson 11.05. CL-K.O.-Rueckspiel-Tor-Reduzierung. Daher WACKEL nicht VALUE. Einsatz: 2,75€ (0.5%).",
           "edge_prozent": null,
           "empfohlener_einsatz_prozent": 0.5,
           "pinnacle_quote": 1.8,
-          "pinnacle_marge_prozent": 5.5
+          "pinnacle_marge_prozent": 5.5,
+          "quote": 1.85,
+          "faire_quote": 1.85
         },
         {
           "id": "che-mci-2",
           "kategorie": "wackel",
           "markt": "Erling Haaland Torschuetze jederzeit",
-          "quote_bet365": 2.1,
           "quote_aggregator": 2.1,
           "quote_quelle": "Aggregator-Schaetzung 14.05.",
           "begruendung": "Haaland-Hatrick gegen Liverpool im VF + Top-Saisonform. Goldgrube-Markt 'Torschuetzen Jederzeit' +21% ROI. ABER Lesson 14.05. Haaland-Bench-Falle: Pep hat Haaland zuletzt FUER FA-Cup-Final auf der Bank geschont (gegen Crystal Palace 13.05.) - was Haaland-Start bestaetigt, aber Cup-Final-Pep-Rotation-Mechanik unberechenbar. Plus Lesson 09.05. Boost-Falle nur direkter Ersatz. WACKEL korrekt fuer Risiko-Kombi-Erwaegung. Einsatz: 2,75€ (0.5%).",
           "edge_prozent": null,
           "empfohlener_einsatz_prozent": 0.5,
           "pinnacle_quote": 2.05,
-          "pinnacle_marge_prozent": 2.5
+          "pinnacle_marge_prozent": 2.5,
+          "quote": 2.1,
+          "faire_quote": 2.1
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-17-atm-gir",
@@ -502,31 +526,35 @@
       "tipps": [
         {
           "id": "atm-gir-1",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Atletico Madrid Doppelte Chance 1X (Heimsieg oder Remis)",
-          "quote_bet365": 1.15,
           "quote_aggregator": 1.15,
           "quote_quelle": "Aggregator-Schaetzung aus Fotmob/Sofascore 14.05.",
-          "begruendung": "LaLiga im Bilanz-Heim-Mittelfeld, aber Liga-Goldgrube-Logik (PL/LaLiga sind Liga-Goldgruben fuer Klassendifferenz-Heim). Atletico-Bench-Tiefe schluckt Lazarett (Lesson 13.05. HR22-Override). Girona Mid-Table-Auslauf + viele Verletzte. Markt-Goldgrube 'Doppelte Chance 1X' n=17 / Hit 82.4% / ROI +4.9%. Mapper-Hebel C bestaetigt LaLiga als Liga-Goldgrube. Einsatz: 8,25€ (1.5%).",
+          "begruendung": "LaLiga im Bilanz-Heim-Mittelfeld, aber Liga-Goldgrube-Logik (PL/LaLiga sind Liga-Goldgruben fuer Klassendifferenz-Heim). Atletico-Bench-Tiefe schluckt Lazarett (Lesson 13.05. HR22-Override). Girona Mid-Table-Auslauf + viele Verletzte. Markt-Goldgrube 'Doppelte Chance 1X' n=17 / Hit 82.4% / ROI +4.9%. Mapper-Hebel C bestaetigt LaLiga als Liga-Goldgrube. Einsatz: 8,25€ (1.5%). [Auto HR2: Heim-Krise/Sturm-Krise erkannt - Heim-Sieg/-DC/-Top-Stuermer max WACKEL]",
           "edge_prozent": null,
           "empfohlener_einsatz_prozent": 1.5,
           "pinnacle_quote": 1.13,
-          "pinnacle_marge_prozent": 4.0
+          "pinnacle_marge_prozent": 4.0,
+          "quote": 1.15,
+          "faire_quote": 1.15,
+          "_heim_form_block": true
         },
         {
           "id": "atm-gir-2",
           "kategorie": "wackel",
           "markt": "Alexander Soerloth Torschuetze jederzeit",
-          "quote_bet365": 2.4,
           "quote_aggregator": 2.4,
           "quote_quelle": "Aggregator 14.05. Pre-Match-Schaetzung",
           "begruendung": "Sorloth Backup-Stuermer-Lazarett-Pflicht-Tipp (Lookman OUT, Lookman+Lookman-OUT). Goldgrube-Markt Torschuetzen Jederzeit +21% ROI. Sorloth-Form: HZ-Joker-Kopfball-Tor 71. in Pamplona-Sieg 12.05. (Lesson 13.05. validated als 'gewann als HZ-Sub'). Aber Lesson 11.05. + 13.05. Aufstellungs-Verifikation Pflicht - Tippen nur wenn Start-Bestaetigung. Einsatz: 2,75€ (0.5%).",
           "edge_prozent": null,
           "empfohlener_einsatz_prozent": 0.5,
           "pinnacle_quote": 2.3,
-          "pinnacle_marge_prozent": 4.0
+          "pinnacle_marge_prozent": 4.0,
+          "quote": 2.4,
+          "faire_quote": 2.4
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-17-sev-rma",
@@ -560,16 +588,18 @@
           "id": "sev-rma-1",
           "kategorie": "value",
           "markt": "Real Madrid Sieg",
-          "quote_bet365": 1.81,
           "quote_aggregator": 1.81,
           "quote_quelle": "888Starz/Bleacher Report 14.05.",
           "begruendung": "Klassen-Edge Real Auswaerts (Stolz-Reaktion nach Liga-Verlust). Hinrunde 2:0-Heimsieg Madrid. Markt-Goldgrube 'Sieg (1X2/ML)' n=76 / Hit 60.5% / ROI +10.1%. LaLiga ist Liga-Goldgrube laut data/liga_goldgruben.json. Aber Lesson 04.05. Saison-Kontext-Sanity: Real motivations-arm nach Liga-Verlust = Risiko-Eingrenzung auf VALUE nicht SAFE. Einsatz: 8,25€ (1.5%).",
           "edge_prozent": null,
           "empfohlener_einsatz_prozent": 1.5,
           "pinnacle_quote": 1.75,
-          "pinnacle_marge_prozent": 5.5
+          "pinnacle_marge_prozent": 5.5,
+          "quote": 1.81,
+          "faire_quote": 1.81
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-17-bar-bet",
@@ -603,16 +633,18 @@
           "id": "bar-bet-1",
           "kategorie": "value",
           "markt": "Mehr als 2.5 Tore",
-          "quote_bet365": 1.55,
           "quote_aggregator": 1.55,
           "quote_quelle": "Aggregator-Schaetzung 14.05. (LaLiga-Top-Klub-Heim-Spiel)",
           "begruendung": "Barca-Saison-Heimfinale + Betis offensiv-spielend (Abde+Antony). Markt-Goldgrube 'Ueber 2.5' n=10 / Hit 60% / ROI +62.8%. LaLiga ist Liga-Goldgrube laut data/liga_goldgruben.json. Lesson 13.05.: LaLiga-Saisonende-Tor-Flaute WIDERLEGT bei Klassenerhalt-Underdog vs Top-Team - aber hier Top-Team ohne Druck + Mid-Table-Underdog ohne Druck = Mittelweg. Daher VALUE statt SAFE. Einsatz: 5,50€ (1%).",
           "edge_prozent": null,
           "empfohlener_einsatz_prozent": 1.0,
           "pinnacle_quote": 1.5,
-          "pinnacle_marge_prozent": 5.0
+          "pinnacle_marge_prozent": 5.0,
+          "quote": 1.55,
+          "faire_quote": 1.55
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-17-mun-nfo",
@@ -647,121 +679,134 @@
           "id": "mun-nfo-1",
           "kategorie": "value",
           "markt": "Mehr als 2.5 Tore",
-          "quote_bet365": 1.62,
           "quote_aggregator": 1.62,
           "quote_quelle": "Bet365 via Statsinsider/Forebet 14.05.",
           "begruendung": "Markt-Goldgrube 'Ueber 2.5' n=10 / Hit 60% / ROI +62.8%. PL Liga-Goldgrube laut data/liga_goldgruben.json. BTTS-Tendenz in 7/9+6/9 letzten Spielen beider Teams. ManU-Defense durchlaessig + Forest-Offensiv-Form 8 unbeaten. Lesson 10.05. PL-Sieg/Spread-Cluster verbietet Sieg-VALUE, nicht Tor-VALUE. Einsatz: 8,25€ (1.5%).",
           "edge_prozent": null,
           "empfohlener_einsatz_prozent": 1.5,
           "pinnacle_quote": 1.58,
-          "pinnacle_marge_prozent": 4.0
+          "pinnacle_marge_prozent": 4.0,
+          "quote": 1.62,
+          "faire_quote": 1.62
         },
         {
           "id": "mun-nfo-2",
           "kategorie": "wackel",
           "markt": "Beide Teams treffen JA",
-          "quote_bet365": 1.65,
           "quote_aggregator": 1.65,
           "quote_quelle": "Aggregator-Schaetzung 14.05.",
           "begruendung": "Beide Teams trafen in 7/9 letzten ManU-Spielen + 6/9 letzten Forest-Spielen. ABER Markt-Bilanz 'Beide Teams treffen JA' n=4 / Hit 25% / ROI -57.5% = Bluter-Liste. Daher WACKEL nicht VALUE trotz Form-Indikator. Einsatz: 2,75€ (0.5%).",
           "edge_prozent": null,
           "empfohlener_einsatz_prozent": 0.5,
           "pinnacle_quote": 1.6,
-          "pinnacle_marge_prozent": 5.0
+          "pinnacle_marge_prozent": 5.0,
+          "quote": 1.65,
+          "faire_quote": 1.65
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     }
   ],
   "einzeltipps": [
     {
       "tipp_id": "atm-gir-1",
       "spiel_id": "2026-05-17-atm-gir",
-      "kategorie": "value",
+      "kategorie": "wackel",
       "markt": "Atletico Madrid Doppelte Chance 1X (Heimsieg oder Remis)",
-      "quote_bet365": 1.15,
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Goldgrube-Markt DC 1X (Hit 82.4%) + LaLiga-Liga-Goldgrube + Atletico-Bench-Tiefe schluckt Lazarett (HR22-Override Lesson 13.05.) + Girona Mid-Table-Auslauf + viele Verletzte. Einsatz: 8,25€ (1.5% der 550€-Kasse). Quote sehr niedrig - reiner Sicherheits-Tipp."
+      "begruendung": "Goldgrube-Markt DC 1X (Hit 82.4%) + LaLiga-Liga-Goldgrube + Atletico-Bench-Tiefe schluckt Lazarett (HR22-Override Lesson 13.05.) + Girona Mid-Table-Auslauf + viele Verletzte. Einsatz: 8,25€ (1.5% der 550€-Kasse). Quote sehr niedrig - reiner Sicherheits-Tipp.",
+      "quote": 1.15,
+      "rang": 1
     },
     {
       "tipp_id": "bay-koe-1",
       "spiel_id": "2026-05-16-bay-koe",
       "kategorie": "value",
       "markt": "FC Bayern Muenchen Sieg",
-      "quote_bet365": 1.22,
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Bayern Heim-Saison-Highlight + Meisterehrung + 8 H2H unbesiegt (5 Siege in Folge). DFB-Pokal-Final 8 Tage entfernt (keine 7-Tage-Schon-Logik laut Lesson 14.05.). Goldgrube-Markt Sieg-1X2 (+10.1% ROI). Einsatz: 8,25€."
+      "begruendung": "Bayern Heim-Saison-Highlight + Meisterehrung + 8 H2H unbesiegt (5 Siege in Folge). DFB-Pokal-Final 8 Tage entfernt (keine 7-Tage-Schon-Logik laut Lesson 14.05.). Goldgrube-Markt Sieg-1X2 (+10.1% ROI). Einsatz: 8,25€.",
+      "quote": 1.22,
+      "rang": 2
     },
     {
       "tipp_id": "bay-koe-2",
       "spiel_id": "2026-05-16-bay-koe",
       "kategorie": "value",
       "markt": "Mehr als 2.5 Tore",
-      "quote_bet365": 1.36,
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Markt-Goldgrube Ueber 2.5 (Hit 60% / ROI +62.8%). Bayern 117 Saisontore + Heim-Saisonfinale ohne Tabellen-Druck + bet365 Ueber 4.5 @ 1.80 zeigt Tor-Festival-Erwartung. Einsatz: 8,25€."
+      "begruendung": "Markt-Goldgrube Ueber 2.5 (Hit 60% / ROI +62.8%). Bayern 117 Saisontore + Heim-Saisonfinale ohne Tabellen-Druck + bet365 Ueber 4.5 @ 1.80 zeigt Tor-Festival-Erwartung. Einsatz: 8,25€.",
+      "quote": 1.36,
+      "rang": 3
     },
     {
       "tipp_id": "brm-bvb-1",
       "spiel_id": "2026-05-16-brm-bvb",
       "kategorie": "value",
       "markt": "Borussia Dortmund Doppelte Chance X2 (Remis oder Auswaertssieg)",
-      "quote_bet365": 1.3,
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Goldgrube-Markt DC X2 (Hit 63.6%) + BVB unbeaten in 6 H2H + 64% Saisonquote vs Bremen 24% + Guirassy Topform. Einsatz: 8,25€."
+      "begruendung": "Goldgrube-Markt DC X2 (Hit 63.6%) + BVB unbeaten in 6 H2H + 64% Saisonquote vs Bremen 24% + Guirassy Topform. Einsatz: 8,25€.",
+      "quote": 1.3,
+      "rang": 4
     },
     {
       "tipp_id": "brm-bvb-2",
       "spiel_id": "2026-05-16-brm-bvb",
       "kategorie": "value",
       "markt": "Serhou Guirassy Torschuetze jederzeit",
-      "quote_bet365": 2.05,
       "empfohlener_einsatz_prozent": 1.0,
-      "begruendung": "Guirassy 16 BL-Tore + 100% Schuss-Genauigkeit. Goldgrube-Markt Torschuetzen Jederzeit (+21% ROI). PFLICHT-PROFILE-Lesson 04.05. Heim-/Auswaerts-Favorit-Pflicht. Einsatz: 5,50€."
+      "begruendung": "Guirassy 16 BL-Tore + 100% Schuss-Genauigkeit. Goldgrube-Markt Torschuetzen Jederzeit (+21% ROI). PFLICHT-PROFILE-Lesson 04.05. Heim-/Auswaerts-Favorit-Pflicht. Einsatz: 5,50€.",
+      "quote": 2.05,
+      "rang": 5
     },
     {
       "tipp_id": "sge-vfb-1",
       "spiel_id": "2026-05-16-sge-vfb",
       "kategorie": "value",
       "markt": "VfB Stuttgart Sieg",
-      "quote_bet365": 1.98,
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Pflichtsieg-Asymmetrie Stuttgart CL-Quali-Druck vs Frankfurt Mid-Table-Auslauf. Stuttgart 3:1 vs Lev letzte Woche (Topform). Goldgrube-Markt Sieg-1X2 (+10.1% ROI). Einsatz: 8,25€."
+      "begruendung": "Pflichtsieg-Asymmetrie Stuttgart CL-Quali-Druck vs Frankfurt Mid-Table-Auslauf. Stuttgart 3:1 vs Lev letzte Woche (Topform). Goldgrube-Markt Sieg-1X2 (+10.1% ROI). Einsatz: 8,25€.",
+      "quote": 1.98,
+      "rang": 6
     },
     {
       "tipp_id": "lev-hsv-1",
       "spiel_id": "2026-05-16-lev-hsv",
       "kategorie": "value",
       "markt": "Bayer 04 Leverkusen Doppelte Chance 1X (Heimsieg oder Remis)",
-      "quote_bet365": 1.07,
       "empfohlener_einsatz_prozent": 1.0,
-      "begruendung": "Goldgrube-Markt DC 1X (Hit 82.4%) + Lev 76% Sieg-Implied (Squawka) + Klassendifferenz. Niedrige Quote - Sicherheits-Bein. Einsatz: 5,50€."
+      "begruendung": "Goldgrube-Markt DC 1X (Hit 82.4%) + Lev 76% Sieg-Implied (Squawka) + Klassendifferenz. Niedrige Quote - Sicherheits-Bein. Einsatz: 5,50€.",
+      "quote": 1.07,
+      "rang": 7
     },
     {
       "tipp_id": "sev-rma-1",
       "spiel_id": "2026-05-17-sev-rma",
       "kategorie": "value",
       "markt": "Real Madrid Sieg",
-      "quote_bet365": 1.81,
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "LaLiga-Liga-Goldgrube + Goldgrube-Markt Sieg-1X2. Real-Auswaerts-Klassen-Edge + Stolz-Reaktion nach Liga-Verlust. Einsatz: 8,25€."
+      "begruendung": "LaLiga-Liga-Goldgrube + Goldgrube-Markt Sieg-1X2. Real-Auswaerts-Klassen-Edge + Stolz-Reaktion nach Liga-Verlust. Einsatz: 8,25€.",
+      "quote": 1.81,
+      "rang": 8
     },
     {
       "tipp_id": "bar-bet-1",
       "spiel_id": "2026-05-17-bar-bet",
       "kategorie": "value",
       "markt": "Mehr als 2.5 Tore",
-      "quote_bet365": 1.55,
       "empfohlener_einsatz_prozent": 1.0,
-      "begruendung": "Markt-Goldgrube Ueber 2.5 + LaLiga-Liga-Goldgrube. Barca-Saison-Heimfinale + Betis offensiv-spielend. Einsatz: 5,50€."
+      "begruendung": "Markt-Goldgrube Ueber 2.5 + LaLiga-Liga-Goldgrube. Barca-Saison-Heimfinale + Betis offensiv-spielend. Einsatz: 5,50€.",
+      "quote": 1.55,
+      "rang": 9
     },
     {
       "tipp_id": "mun-nfo-1",
       "spiel_id": "2026-05-17-mun-nfo",
       "kategorie": "value",
       "markt": "Mehr als 2.5 Tore",
-      "quote_bet365": 1.62,
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Markt-Goldgrube Ueber 2.5 (Hit 60% / ROI +62.8%) + BTTS-Tendenz in 7/9+6/9 letzten Spielen beider Teams + ManU-Defense durchlaessig. Einsatz: 8,25€."
+      "begruendung": "Markt-Goldgrube Ueber 2.5 (Hit 60% / ROI +62.8%) + BTTS-Tendenz in 7/9+6/9 letzten Spielen beider Teams + ManU-Defense durchlaessig. Einsatz: 8,25€.",
+      "quote": 1.62,
+      "rang": 10
     }
   ],
   "kombis": [
@@ -772,26 +817,30 @@
         {
           "tipp_id": "bay-koe-1",
           "spiel_id": "2026-05-16-bay-koe",
-          "markt": "Bayern Sieg",
-          "quote": 1.22
+          "markt": "FC Bayern Muenchen - 1. FC Koeln: FC Bayern Muenchen Sieg",
+          "quote": 1.22,
+          "spiel_titel": "FC Bayern Muenchen - 1. FC Koeln"
         },
         {
           "tipp_id": "brm-bvb-1",
           "spiel_id": "2026-05-16-brm-bvb",
-          "markt": "BVB DC X2",
-          "quote": 1.3
+          "markt": "SV Werder Bremen - Borussia Dortmund: Borussia Dortmund Doppelte Chance X2 (Remis oder Auswaertssieg)",
+          "quote": 1.3,
+          "spiel_titel": "SV Werder Bremen - Borussia Dortmund"
         },
         {
           "tipp_id": "atm-gir-1",
           "spiel_id": "2026-05-17-atm-gir",
-          "markt": "Atletico DC 1X",
-          "quote": 1.15
+          "markt": "Atletico Madrid - Girona FC: Atletico Madrid Doppelte Chance 1X (Heimsieg oder Remis)",
+          "quote": 1.15,
+          "spiel_titel": "Atletico Madrid - Girona FC"
         },
         {
           "tipp_id": "sge-vfb-1",
           "spiel_id": "2026-05-16-sge-vfb",
-          "markt": "Stuttgart Sieg",
-          "quote": 1.98
+          "markt": "Eintracht Frankfurt - VfB Stuttgart: VfB Stuttgart Sieg",
+          "quote": 1.98,
+          "spiel_titel": "Eintracht Frankfurt - VfB Stuttgart"
         }
       ],
       "gesamtquote": 3.61,
@@ -806,26 +855,30 @@
         {
           "tipp_id": "sev-rma-1",
           "spiel_id": "2026-05-17-sev-rma",
-          "markt": "Real Madrid Sieg",
-          "quote": 1.81
+          "markt": "Sevilla FC - Real Madrid: Real Madrid Sieg",
+          "quote": 1.81,
+          "spiel_titel": "Sevilla FC - Real Madrid"
         },
         {
           "tipp_id": "bar-bet-1",
           "spiel_id": "2026-05-17-bar-bet",
-          "markt": "Ueber 2.5 Tore Barca-Betis",
-          "quote": 1.55
+          "markt": "FC Barcelona - Real Betis: Mehr als 2.5 Tore",
+          "quote": 1.55,
+          "spiel_titel": "FC Barcelona - Real Betis"
         },
         {
           "tipp_id": "mun-nfo-1",
           "spiel_id": "2026-05-17-mun-nfo",
-          "markt": "Ueber 2.5 Tore ManU-Forest",
-          "quote": 1.62
+          "markt": "Manchester United - Nottingham Forest: Mehr als 2.5 Tore",
+          "quote": 1.62,
+          "spiel_titel": "Manchester United - Nottingham Forest"
         },
         {
           "tipp_id": "scf-rbl-1",
           "spiel_id": "2026-05-16-scf-rbl",
-          "markt": "RB Leipzig DC X2",
-          "quote": 1.5
+          "markt": "SC Freiburg - RB Leipzig: RB Leipzig Doppelte Chance X2 (Remis oder Auswaertssieg)",
+          "quote": 1.5,
+          "spiel_titel": "SC Freiburg - RB Leipzig"
         }
       ],
       "gesamtquote": 6.82,
@@ -835,31 +888,35 @@
     },
     {
       "name": "Risiko-Kombi",
-      "kategorie": "risiko",
+      "kategorie": "risk",
       "beine": [
         {
           "tipp_id": "brm-bvb-2",
           "spiel_id": "2026-05-16-brm-bvb",
-          "markt": "Guirassy Tor jederzeit",
-          "quote": 2.05
+          "markt": "SV Werder Bremen - Borussia Dortmund: Serhou Guirassy Torschuetze jederzeit",
+          "quote": 2.05,
+          "spiel_titel": "SV Werder Bremen - Borussia Dortmund"
         },
         {
           "tipp_id": "atm-gir-2",
           "spiel_id": "2026-05-17-atm-gir",
-          "markt": "Soerloth Tor jederzeit",
-          "quote": 2.4
+          "markt": "Atletico Madrid - Girona FC: Alexander Soerloth Torschuetze jederzeit",
+          "quote": 2.4,
+          "spiel_titel": "Atletico Madrid - Girona FC"
         },
         {
           "tipp_id": "che-mci-2",
           "spiel_id": "2026-05-16-che-mci",
-          "markt": "Haaland Tor jederzeit FA-Cup-Final",
-          "quote": 2.1
+          "markt": "Chelsea FC - Manchester City FC: Erling Haaland Torschuetze jederzeit",
+          "quote": 2.1,
+          "spiel_titel": "Chelsea FC - Manchester City FC"
         },
         {
           "tipp_id": "lev-hsv-2",
           "spiel_id": "2026-05-16-lev-hsv",
-          "markt": "Terrier Tor jederzeit (Schick-Backup)",
-          "quote": 2.75
+          "markt": "Bayer 04 Leverkusen - Hamburger SV: Martin Terrier Torschuetze jederzeit",
+          "quote": 2.75,
+          "spiel_titel": "Bayer 04 Leverkusen - Hamburger SV"
         }
       ],
       "gesamtquote": 28.4,
@@ -874,32 +931,37 @@
         {
           "tipp_id": "sge-vfb-2",
           "spiel_id": "2026-05-16-sge-vfb",
-          "markt": "Demirovic Tor jederzeit",
-          "quote": 2.3
+          "markt": "Eintracht Frankfurt - VfB Stuttgart: Ermedin Demirovic Torschuetze jederzeit",
+          "quote": 2.3,
+          "spiel_titel": "Eintracht Frankfurt - VfB Stuttgart"
         },
         {
           "tipp_id": "bay-koe-2",
           "spiel_id": "2026-05-16-bay-koe",
-          "markt": "Bayern Ueber 2.5 Tore",
-          "quote": 1.36
+          "markt": "FC Bayern Muenchen - 1. FC Koeln: Mehr als 2.5 Tore",
+          "quote": 1.36,
+          "spiel_titel": "FC Bayern Muenchen - 1. FC Koeln"
         },
         {
           "tipp_id": "stp-wob-1",
           "spiel_id": "2026-05-16-stp-wob",
-          "markt": "Ueber 2.5 Tore St.Pauli-Wolfsburg",
-          "quote": 1.95
+          "markt": "FC St. Pauli - VfL Wolfsburg: Mehr als 2.5 Tore",
+          "quote": 1.95,
+          "spiel_titel": "FC St. Pauli - VfL Wolfsburg"
         },
         {
           "tipp_id": "fch-m05-1",
           "spiel_id": "2026-05-16-fch-m05",
-          "markt": "Heidenheim DC 1X",
-          "quote": 1.4
+          "markt": "1. FC Heidenheim - 1. FSV Mainz 05: 1. FC Heidenheim Doppelte Chance 1X (Heimsieg oder Remis)",
+          "quote": 1.4,
+          "spiel_titel": "1. FC Heidenheim - 1. FSV Mainz 05"
         },
         {
           "tipp_id": "bmg-tsg-1",
           "spiel_id": "2026-05-16-bmg-tsg",
-          "markt": "Hoffenheim DC X2",
-          "quote": 1.45
+          "markt": "Borussia Moenchengladbach - TSG Hoffenheim: TSG Hoffenheim Doppelte Chance X2 (Remis oder Auswaertssieg)",
+          "quote": 1.45,
+          "spiel_titel": "Borussia Moenchengladbach - TSG Hoffenheim"
         }
       ],
       "gesamtquote": 12.39,
