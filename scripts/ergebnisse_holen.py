@@ -280,7 +280,7 @@ def bewerte_tipp(tipp: dict, heim_name: str, gast_name: str, erg: Spielergebnis,
     - Wenn Halbzeitstand 2:0+ fuer Sieg-Tipp-Team, gilt der Tipp als gewonnen
       auch wenn das Endspiel-Ergebnis eine Niederlage ist.
     """
-    tipp_id = tipp.get("id")
+    tipp_id = tipp.get("id") or tipp.get("_synth_id")
     quote   = float(tipp.get("quote") or 0)
     markt   = (tipp.get("markt") or "").lower()
     liga_l  = (liga or "").lower()
@@ -435,9 +435,9 @@ def verarbeite_tag(pfad: Path, config: dict) -> bool:
             print(f"   [SKIP] {spiel['id']}: {liga} nicht im Free-Tier -> manuell eintragen")
             spiel["ergebnis"] = None
             spiel["tipps_ergebnis"] = [
-                {"tipp_id": t["id"], "status": "offen", "gewinn_faktor": 0.0,
+                {"tipp_id": t.get("id") or f"{spiel['id']}-t{idx}", "status": "offen", "gewinn_faktor": 0.0,
                  "kommentar": f"{liga} nicht im API-Free-Tier"}
-                for t in spiel.get("tipps", [])
+                for idx, t in enumerate(spiel.get("tipps", []))
             ]
             continue
         elif code == "__UNBEKANNT__":
@@ -455,9 +455,9 @@ def verarbeite_tag(pfad: Path, config: dict) -> bool:
             print(f"   [OFFEN] {spiel['id']}: kein API-Match gefunden")
             spiel["ergebnis"] = None
             spiel["tipps_ergebnis"] = [
-                {"tipp_id": t["id"], "status": "offen", "gewinn_faktor": 0.0,
+                {"tipp_id": t.get("id") or f"{spiel['id']}-t{idx}", "status": "offen", "gewinn_faktor": 0.0,
                  "kommentar": "kein API-Match"}
-                for t in spiel.get("tipps", [])
+                for idx, t in enumerate(spiel.get("tipps", []))
             ]
             continue
 
@@ -491,7 +491,11 @@ def verarbeite_tag(pfad: Path, config: dict) -> bool:
                 for s in spieler if s["punkte"] > 0
             ]
 
-        ergebnisse = [bewerte_tipp(t, spiel.get("heim",""), spiel.get("gast",""), erg, spiel.get("liga","")) for t in spiel.get("tipps", [])]
+        ergebnisse = []
+        for idx, t in enumerate(spiel.get("tipps", [])):
+            if not t.get("id"):
+                t["_synth_id"] = f"{spiel['id']}-t{idx}"
+            ergebnisse.append(bewerte_tipp(t, spiel.get("heim",""), spiel.get("gast",""), erg, spiel.get("liga","")))
         spiel["tipps_ergebnis"] = ergebnisse
         n_gewonnen = sum(1 for e in ergebnisse if e["status"] == "gewonnen")
         n_offen    = sum(1 for e in ergebnisse if e["status"] == "offen")

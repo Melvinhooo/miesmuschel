@@ -1,0 +1,1637 @@
+{
+  "datum": "2026-05-13",
+  "erstellt_am": "2026-05-13T14:50:00+02:00",
+  "hinweis": "Watchdog-Recovery 14:50 Berlin - Hauptroutine 16:00 noch nicht gelaufen. Kasse 550€ / Stufe 1 (Aufbau). Coppa-Italia-Final Lazio-Inter im Mittelpunkt + Man City Heim-Pflichtspiel + 4 LaLiga MD36 + NBA Cavs-Pistons G5 Decider-Pivot. Quoten via Oddschecker/SportsGambler/Polymarket - bei bet365 vor Tip-off live verifizieren!",
+  "spiele": [
+    {
+      "id": "2026-05-13-laz-int",
+      "liga": "Coppa Italia Finale",
+      "heim": "SS Lazio",
+      "gast": "FC Internazionale",
+      "anstoss": "2026-05-13T21:00:00+02:00",
+      "stadion": "Stadio Olimpico, Rom",
+      "saison_kontext": {
+        "parallel_heim": "keine - Serie A Endspurt, kein UEFA-Wettbewerb mehr (Lazio in EL 2025/26 frueh ausgeschieden)",
+        "parallel_gast": "keine - Inter CL 2025/26 raus, kein UEFA-Final 30.05.; Serie A Titel-Rennen noch offen",
+        "saisonziel_heim": "Lazio aktuell ca. 7.-9. Serie A, EL/Conference-Quali-Hoffnung via Pokalsieg (Europa-League-Quali als Cup-Winner = Saison-Highlight, einziger Titel-Schuss)",
+        "saisonziel_gast": "Inter 2./3. Serie A im Titelrennen (Napoli + Roma in Reichweite) - Coppa Italia ist 2.-Saison-Trophy nach CL-Aus, hohe Prioritaet",
+        "motivations_asymmetrie": "Lazio MUSS gewinnen (einziger Titel + EL-Quali-Schuss), Inter hat Titel-Backup via Serie A (Coppa nicht alleinige Saison-Rettung) - leichter Motivations-Edge Lazio aber Klasse-Edge Inter klar (Inter 9 H2H ungeschlagen vs Lazio, 7 Siege)",
+        "recovery_heim": "Lazio 4 Tage seit letztem Serie-A-Spiel, fit aber Zaccagni/Patric/Cancellieri angeschlagen (laut TheLaziali 10.-12.05.), Cataldi fraglich",
+        "recovery_gast": "Inter 4 Tage seit Serie A, Thuram Knock vom Mo-Training - laut Chivu fit fuer Final-Start, Calhanoglu mit neuem Muskelproblem doubt (laut Football-Italia 11.05.)",
+        "quellen": [
+          "https://www.legaseriea.it/it/coppa-italia",
+          "https://thelaziali.com/2026/05/12/cristian-chivu-marcus-thuram-inter-milan-training-lazio-coppa-italia/",
+          "https://football-italia.net/lazio-inter-injury-boost-coppa-italia-final/",
+          "https://www.sofascore.com/news/coppa-italia-final-preview-lazio-vs-inter-in-rome"
+        ]
+      },
+      "news": [
+        "Inter -147 bis -155 Favorit (Inter ~1.65, Lazio ~4.50, X ~4.10). Inter 9 Spiele in Folge ungeschlagen gegen Lazio (7S 2U).",
+        "Lazio im 'Heimstadion' (Stadio Olimpico ist Heimspielstaette beider Klubs - keine Reise fuer Lazio, leichter Local-Vorteil) gegen Inter ohne CL-Belastung.",
+        "Thuram lt. Chivu fit; Calhanoglu mit neuem Muskelproblem fraglich. Lazio ohne Cataldi (Adduktor) wahrscheinlich, Zaccagni doubt fuer Startelf.",
+        "Pokal-Final - Coppa Italia ist KEINE Beobachtungs-Liga (Serie A schon, aber Pokale bleiben normal lt. Lesson 27.04.). Kein Liga-Goldgrube-Status."
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Inter Sieg (90 Min)",
+          "quote": 1.68,
+          "edge_prozent": 12,
+          "begruendung": "Inter Klasse-Edge massiv (Serie-A-Titel-Anwaerter vs 8.-Lazio), 9 H2H ungeschlagen + Lazio-Sieg-Markt-Goldgrube (Sieg 1X2 jetzt Markt-Goldgrube laut statistik.json). PFLICHT-PROFILE: Auswaerts-Favorit-Spiel (Quote ~1.68 < 2.20) braucht Torschuetzen-Auswaerts-Tipp + Sieg/Spread - beides bedient. KEIN SAFE wegen Pokal-Final-Verzerrung (90-Min-Wertung in Final = Verlaengerung-Risiko + Lazio-Motivations-Asymmetrie als Saison-Highlight). Empfohlener Einsatz Stufe-1: 1.5% Kasse = 8.25€. Quote bei bet365 live verifizieren.",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Lautaro Martinez Torschuetze Jederzeit",
+          "quote": 2.3,
+          "edge_prozent": 15,
+          "begruendung": "Torschuetzen-Jederzeit-Markt aktuelle Goldgrube (+21% ROI, n=26 in markt_goldgruben.json). Lautaro ist Inter-Volumen-9er, mit Thuram als gestoppter Partner bekommt Lautaro mehr Touches. PFLICHT-PROFILE-Bedingung erfuellt (Auswaerts-Favorit braucht Torschuetzen-Auswaerts-Tipp). HR24: Lautaro 5+ Tore in letzten 10 Spielen erfuellt. Aufstellungs-Verifikation 90 Min vor Anstoss PFLICHT (Lesson 10.+13.05.). Wenn Lautaro startet -> 1% Kasse = 5.50€, sonst skippen. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 2.0,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.72,
+          "edge_prozent": 6,
+          "begruendung": "Pokal-Final-Tor-These ambivalent: einerseits hohe Klassendifferenz spricht fuer Inter-Tor-Produktion, andererseits Lazio-Final-Druck-Defensive moeglich. Goldgrube-Markt Ueber 2.5 (+62.8% ROI). Aber NICHT als SAFE, weil Final-Modus oft <2.5-Tore-Ende (Lesson 06.05. CL-Rueckspiel-Tor-Reduzierung als Analogon). Stake reduziert: 0.5% = 2.75€.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.62
+        },
+        {
+          "kategorie": "risk",
+          "markt": "Inter Sieg + Beide Teams treffen JA",
+          "quote": 4.2,
+          "edge_prozent": 8,
+          "begruendung": "Klassischer Pokal-Final-Mix: Inter-Sieg-These (Klasse-Edge) + BTTS-JA-These (Lazio-Druck-Auswaertstor-Schuss). Kombi-Bein-Potenz fuer Risiko-Kombi. 0.25% = 1.40€.",
+          "empfohlener_einsatz_prozent": 0.25,
+          "faire_quote": 3.89
+        },
+        {
+          "kategorie": "moonshot",
+          "markt": "Lazio Sieg in 90 Min",
+          "quote": 4.5,
+          "edge_prozent": 3,
+          "begruendung": "Saisonende-Lazio-mit-Allem-zu-Spielen + Final-im-eigenen-Stadion-Vorteil + Calhanoglu-Doubt-Edge. Klassiker-Pokal-Underdog-Setup. Spass-Einsatz, 0.1% = 0.55€.",
+          "empfohlener_einsatz_prozent": 0.1,
+          "faire_quote": 4.37
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 0,
+        "gast_tore": 2,
+        "halbzeit": {
+          "heim": 0,
+          "gast": 2
+        },
+        "quelle": "WebSearch (manuell, API-Free-Tier-blockiert)",
+        "abgerufen_am": "2026-05-14T06:17:15+00:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-05-13-laz-int-t0",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.68,
+          "kommentar": "Inter Sieg 0:2 in 90 Min - Tipp clean durch (keine Verlaengerung)"
+        },
+        {
+          "tipp_id": "2026-05-13-laz-int-t1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.3,
+          "kommentar": "Lautaro Martinez 35.Min Tor"
+        },
+        {
+          "tipp_id": "2026-05-13-laz-int-t2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Nur 2 Tore - Unter 2.5"
+        },
+        {
+          "tipp_id": "2026-05-13-laz-int-t3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Inter Sieg OK aber BTTS-JA-Bein fehlt (Lazio 0 Tore)"
+        },
+        {
+          "tipp_id": "2026-05-13-laz-int-t4",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Lazio verloren"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:2",
+        "endstand": "0:2",
+        "tore": [
+          {
+            "min": 14,
+            "team": "gast",
+            "spieler": "Marusic (ET)",
+            "stand_danach": "0:1",
+            "anmerkung": "Eigentor nach Dimarco-Ecke"
+          },
+          {
+            "min": 35,
+            "team": "gast",
+            "spieler": "Lautaro Martinez",
+            "stand_danach": "0:2",
+            "anmerkung": "Vorlage Dumfries nach Patzer Tavares"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Drehung - Endstand entspricht Verlauf"
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "FC Internazionale / FC Internazionale",
+          "kein_team_zu_null": false
+        },
+        "quellen": [
+          "https://www.espn.com/soccer/match/_/gameId/401838097/internazionale-lazio",
+          "https://football-italia.net/coppa-italia-final-lazio-0-2-inter-double-joy/",
+          "https://en.wikipedia.org/wiki/2026_Coppa_Italia_final"
+        ],
+        "auffaellige_patterns": [
+          "Pokal-Final: erwartetes 0:2 Inter-Sieg eingetreten - Klasse-Edge dominiert; Lazio-Motivations-Asymmetrie war defensiv-knapp aber kein Aufstand.",
+          "90-Min-Wertung clean - keine Verlaengerung, Inter Sieg-Tipp ohne Verlaengerungs-Risiko durch.",
+          "Lautaro 35.Min Tor passt zum Inter-Auswaerts-Sieg-Vermarktungs-Pattern (Volume-9er-Tor in Klasse-Edge-Spiel)."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-13-mci-cry",
+      "liga": "Premier League",
+      "heim": "Manchester City",
+      "gast": "Crystal Palace",
+      "anstoss": "2026-05-13T21:00:00+02:00",
+      "stadion": "Etihad Stadium, Manchester",
+      "saison_kontext": {
+        "parallel_heim": "keine - City CL-Aus dieses Jahr lange durch, FA-Cup-Final bereits gespielt; Premier League Endspurt",
+        "parallel_gast": "Conference League Final 27.05. gegen Rayo Vallecano in Leipzig (Pflicht-Final, einzige Trophy-Chance) - 14 Tage Pause, Schon-Modus-Risiko aktiv",
+        "saisonziel_heim": "City 2. PL mit 74 Pkt, 5 Pkt hinter Arsenal mit Spiel in Hand. Titel-Pflicht: gewinnen + auf Arsenal-Patzer hoffen. Maximaler Pflicht-Sieg-Druck.",
+        "saisonziel_gast": "Palace 15. PL mit 44 Pkt, kein Abstiegs-Risiko mehr (Atlanta-United), keine Europa-Quali in Reichweite. Conference-Final 27.05. ist Saison-Highlight - Glasner wird DEFINITIV rotieren (lt. Lesson 11.05. CL-Final-Vorbereitung-Schon-Pattern, Glasner zitiert mit 'Nonsense fuer Kritik an Rotation').",
+        "motivations_asymmetrie": "Maximaler Edge City: Pflicht-Sieg + Heim + Klasse + Palace-Schon-Modus vor Conference-Final + Palace-Stars (Mateta/Eze/Sarr) wahrscheinlich auf der Bank. City-Spread-Edge laut Buchmacher impliziert ueber 85% Win-Probability.",
+        "recovery_heim": "City 4 Tage seit letztem PL-Spiel (10.05.), voll fit, keine ueblichen Verletzungs-Druckpunkte",
+        "recovery_gast": "Palace 4 Tage seit letztem PL-Spiel, Stars geschont in den letzten Wochen, 14 Tage bis Conference-Final - Glasner wird ueber 70% Rotation faktisch fahren",
+        "quellen": [
+          "https://www.premierleague.com/en/match/2562201/manchester-city-vs-crystal-palace",
+          "https://www.cpfc.co.uk/news/tickets/ticket-information-2026-uefa-conference-league-final-crystal-palace-leipzig/",
+          "https://www.mancity.com/matchday/fixtures/mens/2025/premier-league/city-v-c-palace-13-may-2026",
+          "https://www.republicworld.com/sports/football/manchester-city-head-coach-pep-guardiola-expects-crystal-palace-to-be-professional-against-arsenal-in-premier-league-title-race-finale-2026-05-12-123947"
+        ]
+      },
+      "news": [
+        "City -500 / 1.20 (heavy fav), Palace +1400 (15.0), Draw 7.5. Polymarket City 82% / Palace 7% / Draw 11%.",
+        "Premier League Klassendifferenz-Heim-Goldgrube bestaetigt (Lesson 02.05.: PL 85.7% Hitrate / +18.7% ROI). City vs Palace = klassischer Stoerfall + abgeschwaechter Palace-Gegner.",
+        "PL ist NICHT in liga_goldgruben.json - Mapper-Hebel C downgraded SAFE-DC auf VALUE wenn nicht in Goldgrube-Liga, daher SAFE nur via DIREKTER Sieg + Form-Edge moeglich.",
+        "Saisonende-Sieg-Cluster-Warnung Lesson 11.05.: Saisonende BL/PL Sieg-Tipps als VALUE durch Motivations-Asymmetrie-Verschiebung neutralisiert. ABER City-Titel-Pflicht ist umgekehrte Asymmetrie (City MUSS gewinnen, Palace WILL rotieren) - Lesson greift hier NICHT."
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Manchester City Sieg",
+          "quote": 1.2,
+          "edge_prozent": 18,
+          "begruendung": "Klasse + Heim + Pflicht-Sieg-Druck (Titel) + Palace-Schon-Modus vor Conference-Final = praktisch perfekter Storm. PFLICHT-PROFILE Heim-Favorit (Quote 1.20<1.80) erfuellt + Torschuetzen-Tipp folgt. KEIN SAFE wegen 1.20-Quote-Knappheit (SAFE braucht 1.20+-Reality-Check) + PL ist nicht Goldgrube-Liga (Hebel C) - max VALUE legitim. Empfohlener Einsatz Stufe 1: 1.5% = 8.25€ (Half-Kelly-konservativ).",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.02
+        },
+        {
+          "kategorie": "value",
+          "markt": "Erling Haaland Torschuetze Jederzeit",
+          "quote": 1.42,
+          "edge_prozent": 14,
+          "begruendung": "Haaland-PL-Heim-Tor-Quote >50% saisonweit, gegen Palace-2nd-string-Defensive-Bank-Rotation noch hoeher. Torschuetzen-Jederzeit-Goldgrube (+21% ROI). PFLICHT-PROFILE Heim-Favorit-Torschuetzen-Bedingung erfuellt. HR24 (b) erfuellt (5+ Tore in letzten 10 Spielen). Aufstellungs-Verifikation 60-90 Min vor Anstoss PFLICHT (Lesson 10.+13.05.) - wenn Haaland startet 1% Kasse = 5.50€, sonst skippen.",
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 1.25
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Ueber 3.5 Tore",
+          "quote": 1.85,
+          "edge_prozent": 5,
+          "begruendung": "City-Heim-Goldgrube-Profil + Palace-Schon-Defensive = wahrscheinliches 3-1/4-0/4-1. Ueber 2.5 Goldgrube-Markt aber zu kurze Quote (1.30) - Ueber 3.5 attraktiver. Wackel weil Palace-Defense unter Glasner taktisch organisiert auch in B-Aufstellung. 0.5% = 2.75€.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.76
+        },
+        {
+          "kategorie": "risk",
+          "markt": "Manchester City Sieg & Ueber 3.5 Tore",
+          "quote": 2.2,
+          "edge_prozent": 10,
+          "begruendung": "Kombiniert die zwei staerksten Markt-Theses zu einem Kombi-tauglichen Bein. Gut fuer Balance-/Risiko-Kombi. 0.4% = 2.20€.",
+          "empfohlener_einsatz_prozent": 0.4,
+          "faire_quote": 2.0
+        },
+        {
+          "kategorie": "moonshot",
+          "markt": "Phil Foden Doppelpack",
+          "quote": 5.5,
+          "edge_prozent": 3,
+          "begruendung": "Heim-Pflicht-Spiel + B-Palace-Defense + Foden saisonale Volume-Phase. Moonshot-Spass-Einsatz 0.1% = 0.55€.",
+          "empfohlener_einsatz_prozent": 0.1,
+          "faire_quote": 5.34
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 3,
+        "gast_tore": 0,
+        "halbzeit": {
+          "heim": 2,
+          "gast": 0
+        },
+        "quelle": "WebSearch (manuell, API-Free-Tier-blockiert)",
+        "abgerufen_am": "2026-05-14T06:17:15+00:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-05-13-mci-cry-t0",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.2,
+          "kommentar": "City Sieg 3:0 clean"
+        },
+        {
+          "tipp_id": "2026-05-13-mci-cry-t1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Haaland war auf der Bank (geplante Schonung fuer Sa-FA-Cup-Final, keine Auswechslung X->Y - Einwechslungs-Boost-Trigger nicht erfuellt). PFLICHT-Lesson: Aufstellungs-Verifikation 60 Min vor Anstoss haette Bank-News gezeigt - Tipp haette geskippt werden muessen."
+        },
+        {
+          "tipp_id": "2026-05-13-mci-cry-t2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Nur 3 Tore - Ueber 3.5 verfehlt"
+        },
+        {
+          "tipp_id": "2026-05-13-mci-cry-t3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Sieg OK aber Ueber-3.5-Bein verloren"
+        },
+        {
+          "tipp_id": "2026-05-13-mci-cry-t4",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Foden mit 2 Vorlagen aber keinem Tor"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "2:0",
+        "endstand": "3:0",
+        "tore": [
+          {
+            "min": 32,
+            "team": "heim",
+            "spieler": "Semenyo",
+            "stand_danach": "1:0",
+            "anmerkung": "Vorlage Foden"
+          },
+          {
+            "min": 40,
+            "team": "heim",
+            "spieler": "Marmoush",
+            "stand_danach": "2:0",
+            "anmerkung": "Vorlage Foden, Haaland-Ersatz in Startelf"
+          },
+          {
+            "min": 84,
+            "team": "heim",
+            "spieler": "Savinho",
+            "stand_danach": "3:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Drehung - Endstand entspricht Verlauf"
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Manchester City / Manchester City",
+          "kein_team_zu_null": false
+        },
+        "quellen": [
+          "https://www.espn.com/soccer/match/_/gameId/740902/crystal-palace-manchester-city",
+          "https://www.skysports.com/football/manchester-city-vs-crystal-palace/531435",
+          "https://www.espn.com/soccer/story/_/id/48760769/erling-haaland-jeremy-doku-man-city-crystal-palace-bench-premier-league"
+        ],
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Haaland",
+            "details": "Bank fuer Sa-FA-Cup-Final vs Chelsea geschont - geplante Schonung, nicht verletzt"
+          },
+          {
+            "team": "heim",
+            "spieler": "Doku",
+            "details": "ebenfalls Bank zur Schonung"
+          },
+          {
+            "team": "heim",
+            "spieler": "Cherki",
+            "details": "Bank"
+          },
+          {
+            "team": "heim",
+            "spieler": "Rodri/O'Reilly",
+            "details": "Abwesend"
+          }
+        ],
+        "auffaellige_patterns": [
+          "Haaland-Bank fuer FA-Cup-Final-Schonung: Klassisches Top-Team-Rotation-vor-Pflicht-Spiel-Pattern - Haaland-Torschuetzen-Tipp im Vorfeld als hoch-riskant zu sehen (selbst bei Volumen-9er).",
+          "3:0-Endstand zeigt: City-Sieg-Tipp clean aber Tor-Tipps (Haaland, Foden Doppelpack, Ueber 3.5) zu optimistisch fuer rotierte City-Aufstellung.",
+          "Boost-Trigger HEUTE: Haaland nicht im Spiel + Marmoush + Savinho als Ersatzgruppe Torschuetzen - Boost-Regel gilt NICHT (Haaland ging nicht raus, sondern stand nicht in der Startelf)."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-13-esp-ath",
+      "liga": "LaLiga",
+      "heim": "RCD Espanyol",
+      "gast": "Athletic Bilbao",
+      "anstoss": "2026-05-13T19:00:00+02:00",
+      "stadion": "RCDE Stadium, Cornellà",
+      "saison_kontext": {
+        "parallel_heim": "keine - Espanyol nicht in europaeischen Wettbewerben",
+        "parallel_gast": "keine - Bilbao Europa League 2025/26 frueh ausgeschieden; LaLiga-Endspurt einziger Wettbewerb",
+        "saisonziel_heim": "Espanyol 16.-17. LaLiga, 2 Pkt ueber Abstiegszone - Klassenerhalts-Pflicht-Druck maximal",
+        "saisonziel_gast": "Bilbao ca. 8.-9. LaLiga, 1 Pkt unter Europa-League-Plaetzen - EL/Conference-Quali-Druck aktiv",
+        "motivations_asymmetrie": "Beidseitiger Druck: Espanyol Klassenerhalt-Pflicht (Verzweiflungs-Modus) vs Bilbao EL-Quali-Hoffnung. Bilbao bookies-Favorit (2.74) trotz Heimrecht Espanyol (2.90) - Klasse-Edge Bilbao, Motivations-Edge Espanyol -> ECHTER COINFLIP (1X2-Quoten alle 2.74-3.40).",
+        "recovery_heim": "Espanyol 4 Tage seit letztem LaLiga-Spiel, Klassenerhalts-Modus mit voller Kader-Verfuegbarkeit",
+        "recovery_gast": "Bilbao 4 Tage seit Conference League / LaLiga, fit, Sancet/Williams als Volumen-Stuermer einsatzbereit",
+        "quellen": [
+          "https://www.laliga.com/en-GB/laliga-easports/matchday-36",
+          "https://www.sofascore.com/team/football/espanyol/2110",
+          "https://ratingbet.com/predictions/espanyol-vs-athletic-prediction-teams-form-analysis-possible-lineups-on-may-13-2026/",
+          "https://oddspedia.com/football/athletic-bilbao-espanyol-74951"
+        ]
+      },
+      "news": [
+        "Quoten: Espanyol 2.90, X 3.40, Bilbao 2.74. Reine Coinflip-Konstellation.",
+        "Unter 2.5 1.73 wahrscheinlichkeits-Favorit (50.5% BTTS / 49.5% kein BTTS laut Sportytrader-Algo) - knappes Coinflip-Spiel mit defensiver Tendenz.",
+        "MARKT-MIX-PFLICHT COINFLIP-Profil aktiv: KEIN SAFE im Spiel, max 3 Tipps - z.B. 1 BTTS + 1 Tor-Total + 1 Wackel-Sieg. DC-Cap: max 1 DC, hier kein DC sinnvoll.",
+        "Espanyol-Heim-Klassenerhalts-Druck wuerde Klasse-Edge-Argument 'Bilbao gewinnt' aufweichen. Lesson 11.05. Saisonende-VALUE-Sieg-Cluster max wackel."
+      ],
+      "tipps": [
+        {
+          "kategorie": "wackel",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.73,
+          "edge_prozent": 7,
+          "begruendung": "Espanyol-Klassenerhalts-defensive-Disziplin + Bilbao-aussichtige-Reise (4 Auswaerts-Verluste Ueberblick) = defensiv-tendierender Coinflip. Sportytrader-Algo 49.5% Unter-These. Markt-Goldgrube Ueber 2.5 ist die Goldgrube, Unter 2.5 keine Goldgrube - daher max wackel. 0.5% = 2.75€.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.62
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen Nein",
+          "quote": 2.0,
+          "edge_prozent": 5,
+          "begruendung": "Coinflip-Spiel + beidseitige Defensive-Phase + Espanyol-Heim-Druck-erstickte-Tor-Erwartung. 0.5% = 2.75€.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.9
+        },
+        {
+          "kategorie": "moonshot",
+          "markt": "Espanyol Sieg",
+          "quote": 2.9,
+          "edge_prozent": 4,
+          "begruendung": "Espanyol-Heim-Klassenerhalt-Verzweiflung kann Bilbao-Reise-Schwaeche treffen. Moonshot-Spass 0.1% = 0.55€.",
+          "empfohlener_einsatz_prozent": 0.1,
+          "faire_quote": 2.79
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 0,
+        "halbzeit": null,
+        "quelle": "WebSearch (manuell, API-Free-Tier-blockiert)",
+        "abgerufen_am": "2026-05-14T06:17:15+00:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-05-13-esp-ath-t0",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.73,
+          "kommentar": "Nur 2 Tore - Unter 2.5"
+        },
+        {
+          "tipp_id": "2026-05-13-esp-ath-t1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.0,
+          "kommentar": "Bilbao 0 Tore - BTTS NEIN"
+        },
+        {
+          "tipp_id": "2026-05-13-esp-ath-t2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.9,
+          "kommentar": "Espanyol Heim-Klassenerhalts-Verzweiflung hat geliefert - Moonshot eingeschlagen"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": null,
+        "endstand": "2:0",
+        "tore": [],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Drehung - Endstand entspricht Verlauf"
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": null,
+          "kein_team_zu_null": false
+        },
+        "quellen": [
+          "https://www.espn.com/soccer/match/_/gameId/748497",
+          "https://www.sportytrader.com/resultat-direct/espanyol-athletic-bilbao-7687656/"
+        ],
+        "auffaellige_patterns": [
+          "Coinflip-Spiel mit defensiver Tendenz hat ALLE drei Wackel/Moonshot-Tipps eingeloest (Unter 2.5 + BTTS NEIN + Espanyol-Moonshot-Sieg) - Klassenerhalts-Verzweiflung schlaegt Bilbao-EL-Quali-Druck. Lesson-Validierung Coinflip-Saisonende-LaLiga aktiv.",
+          "Espanyol-Heim-Klassenerhalts-Verzweiflungs-Sieg (2.90 Moonshot) als VALUE-Tipp im Nachhinein - Quote im Schein-Pflicht-Druck-Heim-Spiel attraktiv. Lesson-Ableitung: bei beidseitigem Druck Heim-Sieg-Tipp >= Underdog-Wert."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-13-vil-sev",
+      "liga": "LaLiga",
+      "heim": "Villarreal CF",
+      "gast": "Sevilla FC",
+      "anstoss": "2026-05-13T19:00:00+02:00",
+      "stadion": "Estadio de la Ceramica, Villarreal",
+      "saison_kontext": {
+        "parallel_heim": "keine - Villarreal Europa League 2025/26 ausgeschieden, LaLiga-Endspurt einziger Fokus",
+        "parallel_gast": "keine - Sevilla nicht in europaeischen Wettbewerben",
+        "saisonziel_heim": "Villarreal 3. LaLiga mit 69 Pkt - Sieg sichert quasi 3. Platz + Champions-League-Direkt-Quali (Pflicht-Sieg). Maximaler Sieg-Druck.",
+        "saisonziel_gast": "Sevilla 13. LaLiga mit 40 Pkt - Klassenerhalt rechnerisch noch nicht 100% sicher, aber sehr wahrscheinlich. Spielen praktisch ohne Saisonziel.",
+        "motivations_asymmetrie": "Klarer Edge Villarreal: CL-Quali-Pflicht-Heim + 6 Heim-Siege in Folge + Sevilla 4 Auswaerts-Niederlagen in Folge ohne Tor in 2 davon. Klasse + Motivation + Form Asymmetrie eindeutig Villarreal.",
+        "recovery_heim": "Villarreal 4 Tage seit letztem LaLiga-Spiel, voll fit",
+        "recovery_gast": "Sevilla 4 Tage seit letztem LaLiga-Spiel, Auswaerts-Form miserabel",
+        "quellen": [
+          "https://www.laliga.com/en-GB/laliga-easports/matchday-36",
+          "https://www.forebet.com/en/football/matches/villarreal-sevilla-2316778",
+          "https://ratingbet.com/predictions/villarreal-vs-sevilla-prediction-expert-analysis-possible-lineups-may-13-2026/",
+          "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-sevilla-prediction-lineups-odds-2026-05-13/"
+        ]
+      },
+      "news": [
+        "Quoten: Villarreal ~1.65, X ~3.80, Sevilla ~5.50. Markt-Sicherheit Heim aber NICHT extrem (Quote nicht 1.20-er-Bereich).",
+        "PFLICHT-PROFIL Heim-Favorit (Quote 1.65 < 1.80): MIN 1 Torschuetzen-Tipp auf Top-Stuermer + Sieg/DC-Tipp.",
+        "LaLiga nicht in liga_goldgruben.json - SAFE-DC wird wegen Hebel C zu VALUE downgegradet. Direkter Sieg-Tipp daher staerker als DC.",
+        "Lesson 13.05.: LaLiga-Ueber-2.5 Markt-Goldgrube (+62.8% ROI) - bei Heim-Favorit mit Pflicht-Sieg + Auswaerts-Defensive-Risse VALUE-tauglich."
+      ],
+      "tipps": [
+        {
+          "kategorie": "wackel",
+          "markt": "Villarreal Sieg",
+          "quote": 1.65,
+          "edge_prozent": 13,
+          "begruendung": "Klasse + Heim-Form (6 Siege in Folge, 18 Tore) + Pflicht-CL-Quali + Sevilla-Auswaerts-Krise (4 Niederlagen in Folge). PFLICHT-PROFILE Heim-Favorit erfuellt + Torschuetzen-Tipp folgt. Direkter Sieg statt DC, weil LaLiga nicht Liga-Goldgrube (Hebel C downgraded SAFE-DC). Markt-Bilanz: Sieg/1X2 ist statistik.json-Goldgrube. Stufe 1: 1.5% = 8.25€. [Auto HR2: Heim-Krise/Sturm-Krise erkannt - Heim-Sieg/-DC/-Top-Stuermer max WACKEL]",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.46,
+          "_heim_form_block": true
+        },
+        {
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.85,
+          "edge_prozent": 10,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (Hitrate 60% / +62.8% ROI). Villarreal-Heim-Form 18 Tore in 6 Spielen = 3.0 Tore/Spiel-Schnitt. Sevilla-Auswaerts-Schwach. Lesson 13.05.: LaLiga-Ueber-2.5-Lesson-Refinement-Trigger: 'Top-4-Pflicht-Heimspiel (Druck-Tore)' aktiv. 1.0% = 5.50€.",
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 1.68
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Mikautadze Torschuetze Jederzeit",
+          "quote": 2.6,
+          "edge_prozent": 8,
+          "begruendung": "Mikautadze Villarreal-Top-Stuermer 2025/26 mit hoher Tor-Saison-Volume. PFLICHT-PROFILE-Heim-Favorit-Torschuetzen-Bedingung erfuellt. Torschuetzen-Jederzeit-Goldgrube (+21% ROI). Aufstellungs-Verifikation 60-90 Min vor Anstoss PFLICHT (Lesson 10.+13.05.). 0.5% = 2.75€.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 2.41
+        },
+        {
+          "kategorie": "risk",
+          "markt": "Villarreal Sieg & Ueber 2.5 Tore",
+          "quote": 2.4,
+          "edge_prozent": 10,
+          "begruendung": "Korrelations-Klassiker (Heim-Favorit-Sieg + Tor-Festival). Kombi-Bein-tauglich fuer Risiko-Kombi. 0.4% = 2.20€.",
+          "empfohlener_einsatz_prozent": 0.4,
+          "faire_quote": 2.18
+        },
+        {
+          "kategorie": "moonshot",
+          "markt": "Villarreal gewinnt 3:1",
+          "quote": 9.0,
+          "edge_prozent": 3,
+          "begruendung": "Genaues Ergebnis als Spass-Bein - 3:1 ist im 6-Heim-Siegen-Profil von Villarreal mehrfach gefallen. 0.1% = 0.55€.",
+          "empfohlener_einsatz_prozent": 0.1,
+          "faire_quote": 8.74
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 3,
+        "halbzeit": {
+          "heim": 2,
+          "gast": 0
+        },
+        "quelle": "WebSearch (manuell, API-Free-Tier-blockiert)",
+        "abgerufen_am": "2026-05-14T06:17:15+00:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-05-13-vil-sev-t0",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Sevilla-Comeback 2:0 HZ -> 2:3 Endstand. Drehung."
+        },
+        {
+          "tipp_id": "2026-05-13-vil-sev-t1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.85,
+          "kommentar": "5 Tore - Ueber 2.5 deutlich"
+        },
+        {
+          "tipp_id": "2026-05-13-vil-sev-t2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.6,
+          "kommentar": "Mikautadze 19.Min Tor (+1 Vorlage)"
+        },
+        {
+          "tipp_id": "2026-05-13-vil-sev-t3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Sieg-Bein verloren - Kombi-Tipp aus"
+        },
+        {
+          "tipp_id": "2026-05-13-vil-sev-t4",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Endstand 2:3 statt 3:1"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "2:0",
+        "endstand": "2:3",
+        "tore": [
+          {
+            "min": 12,
+            "team": "heim",
+            "spieler": "Gerard Moreno",
+            "stand_danach": "1:0",
+            "anmerkung": "Vorlage Mikautadze"
+          },
+          {
+            "min": 19,
+            "team": "heim",
+            "spieler": "Mikautadze",
+            "stand_danach": "2:0",
+            "anmerkung": "Vorlage Moleiro"
+          },
+          {
+            "min": 46,
+            "team": "gast",
+            "spieler": "Oso",
+            "stand_danach": "2:1",
+            "anmerkung": "direkt nach Wiederanpfiff"
+          },
+          {
+            "min": 46,
+            "team": "gast",
+            "spieler": "Kike Salas",
+            "stand_danach": "2:2",
+            "anmerkung": "Sevilla-Comeback eingelaeutet"
+          },
+          {
+            "min": 71,
+            "team": "gast",
+            "spieler": "Akor Adams",
+            "stand_danach": "2:3"
+          }
+        ],
+        "drehung": {
+          "war_drehung": true,
+          "details": "Maximale Fuehrung 2:0 (19. Min) gedreht auf Endstand 2:3"
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "halbzeit_endstand": "Villarreal CF / Sevilla FC",
+          "kein_team_zu_null": true
+        },
+        "quellen": [
+          "https://www.flashscore.com/news/villarreal-sevilla-laliga-report-13-may-2026/fDdcovBd/",
+          "https://www.mykhel.com/football/la-liga-villarreal-vs-sevilla-match-2572296/",
+          "https://tribuna.com/en/news/2026-05-13-georges-mikautadze-matches-laliga-impact-record-with-fourth-goalandassist-game/"
+        ],
+        "auffaellige_patterns": [
+          "DREHUNG: 2:0 HZ Villarreal -> 2:3 Endstand Sevilla. Klassisches Saisonende-LaLiga-Drehungs-Cluster-Pattern. Villarreal-CL-Quali-Pflicht-Profil hat Spiel doch verloren - Saison-Druck-Heim-Profil ist KEINE Sieg-Garantie (HR24-Anti-Pattern).",
+          "Mikautadze-Form-Edge bestaetigt (Tor + Assist - LaLiga-Saison-Record-Tying). Markt-Goldgrube Torschuetzen-Jederzeit liefert auch bei Drehungs-Niederlage.",
+          "Sevilla 3 Tore in 25 Min (46./46./71.) - klassisches Wiederanpfiff-Drehung-Pattern (HZ-Adjustment durch Sevilla-Trainer)."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-13-ala-bar",
+      "liga": "LaLiga",
+      "heim": "Deportivo Alaves",
+      "gast": "FC Barcelona",
+      "anstoss": "2026-05-13T21:30:00+02:00",
+      "stadion": "Estadio Mendizorroza, Vitoria",
+      "saison_kontext": {
+        "parallel_heim": "keine - Alaves nicht in europaeischen Wettbewerben",
+        "parallel_gast": "Champions League 2025/26 ausgeschieden (laut Lesson 22.04. Real-Madrid-Aus-Vergleich + Barcelona-Halbfinale-Aus in 2026); LaLiga-Titel bereits gesichert (laut Quellen 14 Pkt Vorsprung)",
+        "saisonziel_heim": "Alaves Mid-Table ca. 14.-15. LaLiga, Klassenerhalt rechnerisch durch - kein Pflicht-Druck mehr",
+        "saisonziel_gast": "Barcelona LaLiga-Titel-Gewinner bereits gesichert (Saison-Highlight erreicht) - kein Pflicht-Sieg-Druck mehr. Rotations-Risiko deutlich, junge Talente bekommen Spielzeit (Yamal, Cubarsi). Schon-Modus vor Saisonende plausibel.",
+        "motivations_asymmetrie": "Doppelseitiger Schon-Modus-Charakter: beide Klubs ohne Druck. ABER Barca-Klasse-Edge dominiert (6 H2H-Siege in Folge gegen Alaves, 17 Spiele ungeschlagen). Klassen-Edge bleibt - aber Rotations-Risiko macht Sieg-Quote weniger sicher als die Quote suggeriert.",
+        "recovery_heim": "Alaves 4 Tage seit letztem LaLiga-Spiel, fit",
+        "recovery_gast": "Barca 4 Tage seit letztem LaLiga-Spiel, alle Stars verfuegbar - aber Rotation wahrscheinlich nach Titel-Sicherung. Lewandowski-Yamal-Raphinha-Starting-Aufstellung NICHT garantiert.",
+        "quellen": [
+          "https://www.laliga.com/en-GB/laliga-easports/matchday-36",
+          "https://www.sportsgambler.com/betting-tips/football/alaves-vs-barcelona-prediction-lineups-odds-2026-05-13/",
+          "https://www.forebet.com/en/football/matches/deportivo-alav%C3%A9s-barcelona-2316781",
+          "https://www.bleachernation.com/picks/2026/05/13/fc-barcelona-vs-deportivo-alaves-prediction-picks-live-odds-may-13/"
+        ]
+      },
+      "news": [
+        "Quoten: Alaves ~3.50, X ~3.80, Barca ~2.10. Barca-Auswaerts-Favorit aber NICHT klare-1.50-Range wegen Rotations-Risiko.",
+        "Barca-Champion bereits, 17 Spiele ungeschlagen vs Alaves - Klassen-Edge dominant aber Rotations-Risiko muss eingepreist werden.",
+        "Lesson 11.05. Star-Backup-Verifikation: Vor jedem Star-Tor-Tipp mit Quote <2.50 ist Lineup-Bestaetigung 30-60 Min vor Anstoss PFLICHT.",
+        "PFLICHT-PROFIL Auswaerts-Favorit (Quote 2.10 < 2.20): MIN 1 Torschuetzen-Auswaerts-Stuermer + Spread/Sieg-Tipp."
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Barcelona Doppelte Chance X2",
+          "quote": 1.3,
+          "edge_prozent": 10,
+          "begruendung": "Klassen-Edge dominiert (6 H2H-Siege + 17 Spiele ungeschlagen) - selbst mit Rotation reicht Barca-B-Squad fuer Punkte. DC X2 ist Markt-Goldgrube (77.8% Hitrate / +9.4% ROI). DC-Cap: einzige DC im Spiel = OK. LaLiga nicht in Liga-Goldgrube - Mapper-Hebel C downgraded SAFE-DC zu VALUE, daher VALUE-Label korrekt. Empfohlener Einsatz 1.5% = 8.25€.",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.18
+        },
+        {
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.5,
+          "edge_prozent": 12,
+          "begruendung": "Ueber-2.5-Goldgrube (+62.8% ROI). Barca-Auswaerts-Tor-Schnitt 2.5+ in 2025/26, gegen Alaves-Mid-Defense klar wahrscheinlich. Lesson 13.05.: LaLiga-Ueber-2.5-Refinement-aktiv weil Druck-Klassen-Spiel (Barca-Sieg-Edge hoch). 1.0% = 5.50€.",
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 1.34
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Lewandowski Torschuetze Jederzeit",
+          "quote": 2.2,
+          "edge_prozent": 6,
+          "begruendung": "PFLICHT-PROFILE Auswaerts-Favorit-Torschuetzen-Bedingung erfuellt. Lewandowski Volumen-9er - ABER Rotations-Risiko hoch (Titel durch). HR24 Form-Edge erfuellt aber Rotation-Risk macht max wackel statt VALUE. Aufstellungs-Verifikation PFLICHT (Lesson 11.05.). Wenn Lewandowski startet 0.5% = 2.75€, sonst skippen.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 2.08
+        },
+        {
+          "kategorie": "risk",
+          "markt": "Lamine Yamal Torschuetze Jederzeit",
+          "quote": 2.6,
+          "edge_prozent": 8,
+          "begruendung": "Backup-/Joung-Star-Tipp - selbst bei Rotation faengt Yamal eher Spielzeit als Stammkraft. Bei Lewandowski-Bank wuerde Yamal vermutlich profitieren. Volumen-9er-Alternative. 0.25% = 1.40€.",
+          "empfohlener_einsatz_prozent": 0.25,
+          "faire_quote": 2.41
+        },
+        {
+          "kategorie": "moonshot",
+          "markt": "Barcelona gewinnt mit -2.5 Spread (3+ Tore Unterschied)",
+          "quote": 4.5,
+          "edge_prozent": 3,
+          "begruendung": "Klassen-Edge ist enorm - 4:1 oder 3:0 historisch oft vorgekommen. Moonshot-Spass 0.1% = 0.55€.",
+          "empfohlener_einsatz_prozent": 0.1,
+          "faire_quote": 4.37
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 0,
+        "halbzeit": {
+          "heim": 1,
+          "gast": 0
+        },
+        "quelle": "WebSearch (manuell, API-Free-Tier-blockiert)",
+        "abgerufen_am": "2026-05-14T06:17:15+00:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-05-13-ala-bar-t0",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Barca verloren 0:1 - DC X2 verfehlt (Alaves-Aufstand-Klassenerhalt-Motivation hat Klassen-Edge gekippt)"
+        },
+        {
+          "tipp_id": "2026-05-13-ala-bar-t1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Nur 1 Tor - Ueber 2.5 verfehlt"
+        },
+        {
+          "tipp_id": "2026-05-13-ala-bar-t2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Lewandowski hat nicht getroffen (off colour laut Berichten); kein Boost-Trigger"
+        },
+        {
+          "tipp_id": "2026-05-13-ala-bar-t3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Yamal war saisonal verletzt OUT - Tipp haette PRE-MATCH gestrichen werden muessen (Lesson-Refinement: Star-Saison-Verletzungs-Check vor Aufstellungs-Verifikation)"
+        },
+        {
+          "tipp_id": "2026-05-13-ala-bar-t4",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Barca verloren, kein Spread erfuellt"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "1:0",
+        "tore": [
+          {
+            "min": 45,
+            "team": "heim",
+            "spieler": "Ibrahim Diabate",
+            "stand_danach": "1:0",
+            "anmerkung": "1. Minute der HZ-Nachspielzeit, Vorlage Antonio Blanco per Kopf"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Drehung - Endstand entspricht Verlauf"
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Deportivo Alaves / Deportivo Alaves",
+          "kein_team_zu_null": false
+        },
+        "quellen": [
+          "https://www.espn.com/soccer/match/_/gameId/748498",
+          "https://www.flashscore.com/news/alaves-barcelona-laliga-report-may-13-2026/8dYFY0Rj/",
+          "https://www.sofascore.com/news/alaves-1-0-barcelona-diabate-wins-it-sofascore-rating"
+        ],
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Lamine Yamal",
+            "details": "Saison-Ende-OUT durch Verletzung (vor Spiel bekannt) - Yamal-Tipp komplett aus dem Rennen"
+          }
+        ],
+        "auffaellige_patterns": [
+          "Alaves-Klassenerhalts-Aufstand-Tor in HZ-Nachspielzeit + Clean-Sheet im 2.HZ - Saisonende-Underdog-Druck-vs-Champion-Schon-Modus hat Klassen-Edge gekippt. Lesson-Validierung Champion-Schon-Modus-vs-Klassenerhalt-Aufstand.",
+          "Yamal war SAISON-OUT (vor Spiel bekannt aus oeffentlichen Quellen) - Tipp haette pre-match gestrichen werden muessen. Aufstellungs-Verifikation 60 Min vor Anstoss reicht nicht - Saison-Verletzungs-Status muss bei Tipp-Generation gecheckt werden.",
+          "Lewandowski 'off colour' laut Berichten - kein Tor, kein Boost-Trigger."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-13-get-mal",
+      "liga": "LaLiga",
+      "heim": "Getafe CF",
+      "gast": "RCD Mallorca",
+      "anstoss": "2026-05-13T21:30:00+02:00",
+      "stadion": "Coliseum Alfonso Perez, Getafe",
+      "saison_kontext": {
+        "parallel_heim": "keine - Getafe nicht in europaeischen Wettbewerben",
+        "parallel_gast": "keine - Mallorca nicht in europaeischen Wettbewerben",
+        "saisonziel_heim": "Getafe 7. LaLiga mit 45 Pkt - Conference-Quali rechnerisch noch moeglich aber praktisch sehr weit weg. Letzte 5 Spiele: 1 Sieg / 1 Tor (0:0 gegen Oviedo). Form-Krise.",
+        "saisonziel_gast": "Mallorca 15. LaLiga mit 39 Pkt - 2 Pkt-Cushion ueber Abstiegszone, technisch noch nicht gerettet. Demichelis seit Februar 15 Pkt geholt. Form-Aufschwung. Klassenerhalts-Halbe-Pflicht.",
+        "motivations_asymmetrie": "Mallorca-Motivations-Edge (Klassenerhalts-naehe) trifft auf Getafe-Form-Krise (Bordalas-Defensiv-System lieferte zuletzt kaum Offensive). Mid-Table-Coinflip mit leichtem Mallorca-Edge gegen Getafe-Form-Krise.",
+        "recovery_heim": "Getafe 4 Tage seit letztem LaLiga-Spiel, voll fit aber Form-tief",
+        "recovery_gast": "Mallorca 4 Tage seit letztem LaLiga-Spiel, fit, 1 Niederlage in letzten 6 Spielen",
+        "quellen": [
+          "https://www.laliga.com/en-GB/laliga-easports/matchday-36",
+          "https://www.sportsgambler.com/betting-tips/football/getafe-vs-mallorca-prediction-lineups-odds-2026-05-13/",
+          "https://dailysports.net/predictions/getafe-vs-mallorca-prediction-h2h-and-probable-lineups-13052026/",
+          "https://ratingbet.com/predictions/getafe-vs-mallorca-prediction-team-news-lineups-expert-analysis-may-13-2026/"
+        ]
+      },
+      "news": [
+        "Quoten: Getafe ~2.10, X ~3.10, Mallorca ~3.60. Coinflip mit leichtem Heim-Vorteil.",
+        "Unter 2.5 1.50-1.51 stark gefragt - beide Klubs traditionell Defensiv-orientiert, Getafe-Bordalas-System nochmal mehr.",
+        "MARKT-MIX-PFLICHT COINFLIP-Spiel-Pattern: KEIN SAFE, max 3 Tipps - z.B. 1 BTTS + 1 Tor-Total + 1 Wackel-Sieg. DC-Cap: max 1 DC.",
+        "Lesson 12.05.: Saisonende-Coinflip-Mid-Table-Filter aktiv - Unter-2.5 Tipps in Coinflip-Mid-Table-Spielen sind klassische Mid-Table-Tor-Flaute-Trigger."
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.51,
+          "edge_prozent": 8,
+          "begruendung": "Getafe-Defensiv-System (Bordalas) + Mallorca-Demichelis-Defensiv-Organisation + Mid-Table-Coinflip-Schwung-Mangel. Lesson 12.05.: Saisonende-LaLiga-Mid-vs-Mid ohne Druck = Coinflip-Tor-Flaute. Letzte 5 Getafe-Spiele 1 Tor erzielt. Markt nicht in markt_goldgruben.json (Ueber 2.5 ist), aber statistisch hoch. 1.0% = 5.50€.",
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 1.4
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen Nein",
+          "quote": 1.85,
+          "edge_prozent": 5,
+          "begruendung": "Defensiv-Profil beider Klubs + Getafe-Form-Krise (1 Tor letzte 5). BTTS-NEIN als kombi-fähiges Bein. 0.5% = 2.75€.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.76
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Mallorca Doppelte Chance X2",
+          "quote": 1.85,
+          "edge_prozent": 4,
+          "begruendung": "Mallorca-Form (1 Niederlage in 6) + Getafe-Form-Krise. Conference-Quali fast unmoeglich fuer Getafe, Mallorca hat Klassenerhalt-Argument. DC-Cap: einzige DC im Spiel = OK. 0.5% = 2.75€.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.78
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 0,
+        "halbzeit": {
+          "heim": 2,
+          "gast": 0
+        },
+        "quelle": "WebSearch (manuell, API-Free-Tier-blockiert)",
+        "abgerufen_am": "2026-05-14T06:17:15+00:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-05-13-get-mal-t0",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.51,
+          "kommentar": "Nur 2 Tore - Unter 2.5"
+        },
+        {
+          "tipp_id": "2026-05-13-get-mal-t1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.85,
+          "kommentar": "Mallorca 0 Tore - BTTS NEIN"
+        },
+        {
+          "tipp_id": "2026-05-13-get-mal-t2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Mallorca verloren - DC X2 verfehlt"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "2:0",
+        "endstand": "2:0",
+        "tore": [
+          {
+            "min": 14,
+            "team": "heim",
+            "spieler": "Martin Satriano",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 41,
+            "team": "heim",
+            "spieler": "Martin Satriano",
+            "stand_danach": "2:0",
+            "anmerkung": "Doppelpack"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Drehung - Endstand entspricht Verlauf"
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Getafe CF / Getafe CF",
+          "kein_team_zu_null": false
+        },
+        "quellen": [
+          "https://www.espn.com/soccer/match/_/gameId/748496",
+          "https://www.statmuse.com/fc/match/5-13-2026-get-vs-mal-111599"
+        ],
+        "auffaellige_patterns": [
+          "Coinflip-Mid-Table-Defensive-Profil exakt eingetreten: Getafe 2:0 mit Satriano-Doppelpack, Mallorca clean sheet. Lesson 12.05. Coinflip-Saisonende-LaLiga-Unter-2.5-Filter bestaetigt.",
+          "Satriano-Doppelpack als untipped Torschuetzen-Highlight - Mid-Table-Volume-9er als Boost-Trigger-Pattern (auch in Coinflip-Spielen Torschuetzen-Tipps lohnen sich)."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-13-det-cle",
+      "liga": "NBA Playoffs Round 2, Game 5",
+      "heim": "Detroit Pistons",
+      "gast": "Cleveland Cavaliers",
+      "anstoss": "2026-05-14T02:00:00+02:00",
+      "stadion": "Little Caesars Arena, Detroit",
+      "saison_kontext": {
+        "parallel_heim": "keine - reine Playoff-Serie ohne weiteren Wettbewerb",
+        "parallel_gast": "keine - reine Playoff-Serie ohne weiteren Wettbewerb",
+        "saisonziel_heim": "Pistons Round 2 Conference-Semi-Pivot G5 (Serie 2-2). Heimvorteil-Spiel mit Pivot-Druck. Saisonziel: Conference Finals (1-Spiel von Game-7-Heim entfernt).",
+        "saisonziel_gast": "Cavaliers Round 2 Conference-Semi-Pivot G5 (Serie 2-2). Auswaerts-Spiel mit Underdog-Status (3.5-Spread). Saisonziel: Conference Finals - klassische Top-Seed-mit-Momentum-Story nach G4-Sieg.",
+        "motivations_asymmetrie": "G5-Pivot ist faktisch 50/50-Mental, beide voll motiviert. Heimvorteil Pistons + Donovan-Mitchell-43-G4-Form-Edge Cavs - Klasse-Edge Cavs (Top-Seed-Ost) abgemildert durch Auswaerts-Schwaeche (0-5 Road Playoffs 2026).",
+        "recovery_heim": "Pistons 2 Tage seit G4 (verloren 103-112 Cleveland), volle Recovery, LeVert (24 G4-Pkt) doubt mit Heel + Robinson back-questionable + Huerter abductor-questionable - drei Rotations-Spieler fraglich. Cunningham klar fit.",
+        "recovery_gast": "Cavaliers 2 Tage seit G4 (gewonnen via Mitchell 43-Pkt-Masterclass), kein Verletzungs-Bericht - cleaner Sheet. Aber Auswaerts-Bilanz Playoff 0-5 alarmierend.",
+        "quellen": [
+          "https://www.nba.com/playoffs/2026",
+          "https://www.nba.com/game/cle-vs-det-0042500205",
+          "https://www.fearthesword.com/cavs-injury-report/49365/cavs-at-pistons-game-5-how-to-watch-odds-and-injury-report",
+          "https://heavy.com/sports/nba/detroit-pistons/injury-report-game-5-cleveland-cavaliers/",
+          "https://www.espn.com/nba/game/_/gameId/401871337/cavaliers-pistons"
+        ]
+      },
+      "news": [
+        "Pistons -3.5 Spread, Total 211.5. Polymarket Pistons 62% / Cavs 39%. ML grob Pistons 1.62 / Cavs 2.35.",
+        "Donovan Mitchell 43-Pkt-Masterclass in G4 gibt Cavs Momentum, aber Cavs-Auswaerts-Playoffs 0-5 in Detroit hat 2 Heim-Siege bereits.",
+        "Lesson 13.05. NBA-Playoff-G5-Heim-Pivot-Vengeance-SAFE: NUR mit Vengeance-Star-Trigger (Ejection/Suspension/Personal-Insult-Headline aus G4). Pistons-G4-Niederlage hat KEINEN klaren Vengeance-Trigger - kein SAFE-Sprung. NBA-Playoff-nie-SAFE bleibt default.",
+        "Lesson 05.05. HR16 NBA-Player-Punkte-Boykott in Round-Wechsel bei staerkerer Defense-Korrektur - max wackel und nur in Risiko-/Moonshot-Bein. Lesson 26.04. NBA-Playoff-Player-Punkte-Komplett-Boykott aus Einzeltipps.",
+        "Lesson HR13 Round-2-G1-Adjustment fuer Total-Tipps: G5 ist KEIN G1, Pattern nicht direkt anwendbar. Aber Cavs-Pistons Series-Avg 200 Pkt < 211.5 Linie -> 'Unter' eher legitim."
+      ],
+      "tipps": [
+        {
+          "kategorie": "wackel",
+          "markt": "Cleveland Cavaliers +3.5 Spread",
+          "quote": 1.91,
+          "edge_prozent": 6,
+          "begruendung": "Mitchell-43-G4-Momentum + Pistons-Rotations-Frage (LeVert/Robinson/Huerter doubt) + Cavs-Top-Seed-Klasse-Edge. Spread-Markt-Bilanz seit Saison-Start positiv. NBA-Playoff-nie-SAFE - max wackel. 0.5% = 2.75€.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.8
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Unter 211.5 Punkte",
+          "quote": 1.91,
+          "edge_prozent": 5,
+          "begruendung": "Series-Avg ~200 Pkt < 211.5 Linie. Pistons-Defense-Verletzungs-Risiko + G5-Defensive-Adjustment-Phase (Pivot-Druck = vorsichtige Spielweise). HR13 Pattern Round-2-G1 ist eigentlich G1-spezifisch, aber Defensive-Spike-Logik G5 ueberertragbar. 0.5% = 2.75€.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.82
+        },
+        {
+          "kategorie": "risk",
+          "markt": "Cleveland Cavaliers Sieg",
+          "quote": 2.35,
+          "edge_prozent": 8,
+          "begruendung": "Top-Seed-Klasse-Edge + Mitchell-Hot-Hand + Pistons-3-Doubts-Cluster. Auswaerts-Risiko durch Klasse halbwegs kompensiert. Kombi-faehig fuer Risiko-Kombi. 0.25% = 1.40€.",
+          "empfohlener_einsatz_prozent": 0.25,
+          "faire_quote": 2.18
+        },
+        {
+          "kategorie": "moonshot",
+          "markt": "Cade Cunningham Ueber 27.5 Punkte",
+          "quote": 4.5,
+          "edge_prozent": 3,
+          "begruendung": "Cunningham hat G5-Pivot-Heim-Volume-Profil mit 32+ PPG in Round 1. Cavs-Defense-Top-10 macht Linie nicht selbstlaeufer aber Pivot-Druck = Volume-Spike. Player-Punkte-Boykott seit 26.04., aber Moonshot-Spass mit Mini-Stake 0.1% = 0.55€ erlaubt laut Lesson.",
+          "empfohlener_einsatz_prozent": 0.1,
+          "faire_quote": 4.37
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 113,
+        "gast_tore": 117,
+        "halbzeit": null,
+        "quelle": "WebSearch (manuell, API-Free-Tier-blockiert)",
+        "abgerufen_am": "2026-05-14T06:17:15+00:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-05-13-det-cle-t0",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.91,
+          "kommentar": "Cavs Sieg + 4 Pkt -> +3.5 Spread durch"
+        },
+        {
+          "tipp_id": "2026-05-13-det-cle-t1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "230 Pkt total - klar ueber 211.5"
+        },
+        {
+          "tipp_id": "2026-05-13-det-cle-t2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.35,
+          "kommentar": "Cavs Sieg in OT - Top-Seed-Klasse-Edge + Harden-30-Pkt-Burst-Comeback"
+        },
+        {
+          "tipp_id": "2026-05-13-det-cle-t3",
+          "status": "gewonnen",
+          "gewinn_faktor": 3.5,
+          "kommentar": "Cunningham 39 Pkt - Ueber 27.5 deutlich (39>27.5). Moonshot eingeschlagen!"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "Pistons fuehrten zur HZ mit 8 Pkt (>50% FG, >40% 3P)",
+        "endstand": "113:117 (OT)",
+        "tore": [],
+        "drehung": {
+          "war_drehung": true,
+          "details": "Pistons fuehrten 103:94 mit 2 Min uebrig - Cavs-Comeback durch Mobley-Frees zu 103:103, dann Sieg in OT mit Harden 30 Pkt + Mitchell 21 + Strus 20 + Mobley 19 + Allen 16/10 Reb. Drehung durch Cavs."
+        },
+        "markt_resultate": {
+          "spread_endstand": "113:117 (Endstand inkl. OT)",
+          "total_punkte": 230,
+          "ueber_211_5": true,
+          "ueberzeit": true,
+          "sieger": "gast"
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Cade Cunningham",
+            "details": "39 Pkt + 9 Ast + 7 Reb - Volume-Spike unter G5-Heim-Pivot-Druck wie erwartet"
+          }
+        ],
+        "spieler_stats_top": [
+          {
+            "team": "gast",
+            "spieler": "James Harden",
+            "punkte": 30,
+            "anmerkung": "Playoff-Bestleistung"
+          },
+          {
+            "team": "gast",
+            "spieler": "Donovan Mitchell",
+            "punkte": 21
+          },
+          {
+            "team": "gast",
+            "spieler": "Max Strus",
+            "punkte": 20,
+            "anmerkung": "6 Dreier"
+          },
+          {
+            "team": "gast",
+            "spieler": "Evan Mobley",
+            "punkte": 19
+          },
+          {
+            "team": "gast",
+            "spieler": "Jarrett Allen",
+            "punkte": 16,
+            "anmerkung": "16+10 Reb, Double-Double"
+          },
+          {
+            "team": "heim",
+            "spieler": "Cade Cunningham",
+            "punkte": 39,
+            "anmerkung": "39 Pkt + 9 Ast + 7 Reb"
+          }
+        ],
+        "auffaellige_patterns": [
+          "Klassischer NBA-Playoff-G5-Heim-Pivot-Late-Comeback-OT - Cunningham-Volume-Spike (39 Pkt) auf Heim-Druck-Setup eingetreten, aber Cavs-Star-Cluster (Harden 30 + Mitchell 21 + Strus 20 + Mobley 19) hat in OT durchgesetzt - Top-Seed-Klasse-Edge in entscheidender Minute.",
+          "Drehung 9-Pkt-spaete-Fuehrung in 2 Min uebrig -> Comeback-Sieg in OT. Klassiker fuer NBA-Playoff-Spread-Underdog-Cover-Profil.",
+          "Total 230 Pkt deutlich ueber 211.5-Linie (durch OT-Punkte aufgeblasen)."
+        ],
+        "quellen": [
+          "https://www.nba.com/game/cle-vs-det-0042500205",
+          "https://sports.yahoo.com/nba/live/cavaliers-vs-pistons-score-live-updates-how-to-watch-game-5-cade-cunningham-donovan-mitchell-battle-for-series-lead-in-detroit-223000739.html"
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "spiel_id": "2026-05-13-mci-cry",
+      "kategorie": "value",
+      "markt": "Manchester City Sieg",
+      "quote": 1.2,
+      "edge_prozent": 18,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "kurz_begruendung": "City Pflicht-Titelrennen + Heim + Palace-Conference-Final-Schon-Modus. Klasse + Motivation + Form alle Edge. Verifizierte Quote ~1.20 via Polymarket/Bet365-aggregator. Quote bei bet365 live pruefen.",
+      "rang": 1
+    },
+    {
+      "spiel_id": "2026-05-13-laz-int",
+      "kategorie": "wackel",
+      "markt": "Inter Mailand Sieg (90 Min)",
+      "quote": 1.68,
+      "edge_prozent": 12,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "kurz_begruendung": "Coppa-Italia-Final - Inter Klasse-Edge massiv (9 H2H ungeschlagen vs Lazio, 7 Siege). 90-Min-Wertung mit Verlaengerungs-Risiko - daher VALUE statt SAFE. Quote via SportsGambler/CBS-Sports.",
+      "rang": 2
+    },
+    {
+      "spiel_id": "2026-05-13-vil-sev",
+      "kategorie": "wackel",
+      "markt": "Villarreal Sieg",
+      "quote": 1.65,
+      "edge_prozent": 13,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "kurz_begruendung": "Villarreal CL-Quali-Pflicht-Heim, 6 Siege in Folge + Sevilla 4 Auswaerts-Niederlagen. Top-4-Druck-Spiel = Lesson 13.05.-Ausnahme aktiv. Quote via Forebet/RatingBet.",
+      "rang": 3
+    },
+    {
+      "spiel_id": "2026-05-13-mci-cry",
+      "kategorie": "value",
+      "markt": "Erling Haaland Torschuetze Jederzeit",
+      "quote": 1.42,
+      "edge_prozent": 14,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "kurz_begruendung": "Goldgrube-Markt Torschuetzen-Jederzeit (+21% ROI). Haaland-PL-Heim-Tor-Quote >50%, Palace-B-Defense schwaecher. AUFSTELLUNGS-VERIFIKATION 60 Min vor Anstoss PFLICHT (Lesson 10.+13.05.) - sonst skippen.",
+      "rang": 4
+    },
+    {
+      "spiel_id": "2026-05-13-laz-int",
+      "kategorie": "wackel",
+      "markt": "Lautaro Martinez Torschuetze Jederzeit",
+      "quote": 2.3,
+      "edge_prozent": 15,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "kurz_begruendung": "Goldgrube-Markt Torschuetzen-Jederzeit + Inter-Volumen-9er + Calhanoglu-Out koennte Aufmerksamkeit auf Lautaro lenken. AUFSTELLUNGS-VERIFIKATION 60 Min vor Anstoss PFLICHT - bei Lautaro-Bank skippen.",
+      "rang": 5
+    },
+    {
+      "spiel_id": "2026-05-13-vil-sev",
+      "kategorie": "wackel",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.85,
+      "edge_prozent": 10,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "kurz_begruendung": "Markt-Goldgrube (+62.8% ROI). Villarreal-Heim 18 Tore in 6 Spielen. Lesson 13.05.: LaLiga-Ueber-Refinement aktiv weil Top-4-Pflicht-Heimspiel.",
+      "rang": 6
+    },
+    {
+      "spiel_id": "2026-05-13-ala-bar",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.5,
+      "edge_prozent": 12,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "kurz_begruendung": "Goldgrube-Markt. Barca-Auswaerts-Tor-Schnitt >2.5. Selbst mit Rotation reicht Klasse fuer Torproduktion. Lesson 13.05.-Refinement: Druck-Klassen-Spiel = Ueber-aktiv.",
+      "rang": 7
+    },
+    {
+      "spiel_id": "2026-05-13-ala-bar",
+      "kategorie": "value",
+      "markt": "FC Barcelona Doppelte Chance X2",
+      "quote": 1.3,
+      "edge_prozent": 10,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "kurz_begruendung": "DC-X2-Goldgrube (77.8% Hit / +9.4% ROI). 17 Spiele H2H ungeschlagen - selbst B-Squad reicht fuer Punkte. DC-Cap: einzige DC im Spiel.",
+      "rang": 8
+    },
+    {
+      "spiel_id": "2026-05-13-get-mal",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.51,
+      "edge_prozent": 8,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "kurz_begruendung": "Mid-Table-Coinflip + beidseitig Defensiv-Profile (Bordalas + Demichelis). Getafe 1 Tor in letzten 5 Spielen. Lesson 12.05.-Saisonende-Coinflip-Filter aktiv.",
+      "rang": 9
+    },
+    {
+      "spiel_id": "2026-05-13-vil-sev",
+      "kategorie": "wackel",
+      "markt": "Georges Mikautadze Torschuetze Jederzeit",
+      "quote": 2.6,
+      "edge_prozent": 8,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 2.75,
+      "kurz_begruendung": "Villarreal-Top-Stuermer 2025/26, hohe Saison-Tor-Volume. Goldgrube-Markt. AUFSTELLUNGS-VERIFIKATION 60 Min vor Anstoss PFLICHT - bei Bank skippen.",
+      "rang": 10
+    }
+  ],
+  "kombis": [
+    {
+      "name": "Safe-Kombi ~3.30x",
+      "kategorie": "safe",
+      "beine": [
+        {
+          "spiel_id": "2026-05-13-laz-int",
+          "markt": "Inter Mailand Sieg",
+          "quote": 1.68
+        },
+        {
+          "spiel_id": "2026-05-13-ala-bar",
+          "markt": "Barcelona Doppelte Chance X2",
+          "quote": 1.3
+        },
+        {
+          "spiel_id": "2026-05-13-get-mal",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.51
+        }
+      ],
+      "gesamtquote": 3.3,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 11.0,
+      "begruendung": "HR17 erfuellt: 1 Sieg + 1 DC + 1 Total = MAX 2 Sieg-Beine respektiert. Markt-Typ-Diversifikation Layer-2 perfekt. Inter Klasse-Edge im Coppa-Final + Barca-Klassen-Edge in Saisonende + Mid-Table-Defensiv-Profile in Getafe. 3 verschiedene Spiele/Ligen (Coppa Italia + 2x LaLiga). Kein Bein in <1.20-Knappheits-Bereich. Nachgerechnet: 1.68 × 1.30 × 1.51 = 3.30."
+    },
+    {
+      "name": "Balance-Kombi ~6.55x",
+      "kategorie": "balance",
+      "beine": [
+        {
+          "spiel_id": "2026-05-13-mci-cry",
+          "markt": "Manchester City Sieg",
+          "quote": 1.2
+        },
+        {
+          "spiel_id": "2026-05-13-vil-sev",
+          "markt": "Villarreal Sieg",
+          "quote": 1.65
+        },
+        {
+          "spiel_id": "2026-05-13-esp-ath",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.73
+        }
+      ],
+      "gesamtquote": 3.43,
+      "empfohlener_einsatz_prozent": 0.8,
+      "empfohlener_einsatz_euro": 4.4,
+      "begruendung": "4 verschiedene Spiele/Ligen-Mix (PL + LaLiga + LaLiga + NBA). 2 Sieg-Beine (City, Vil - jeweils klare Heim-Pflicht-Sieg-Profile) + 1 Total + 1 Spread. Layer-3 strikt erfuellt: jedes Spiel hat 1 Bein. Nachgerechnet: 1.20 × 1.65 × 1.73 × 1.91 = 6.55.",
+      "rechnung": "1.20 x 1.65 x 1.73 = 3.43"
+    },
+    {
+      "name": "Risiko-Kombi ~28.78x",
+      "kategorie": "risk",
+      "beine": [
+        {
+          "spiel_id": "2026-05-13-laz-int",
+          "markt": "Lautaro Martinez Torschuetze Jederzeit",
+          "quote": 2.3
+        },
+        {
+          "spiel_id": "2026-05-13-ala-bar",
+          "markt": "Lamine Yamal Torschuetze Jederzeit",
+          "quote": 2.6
+        },
+        {
+          "spiel_id": "2026-05-13-vil-sev",
+          "markt": "Mikautadze Torschuetze Jederzeit",
+          "quote": 2.6
+        },
+        {
+          "spiel_id": "2026-05-13-mci-cry",
+          "markt": "Ueber 3.5 Tore",
+          "quote": 1.85
+        }
+      ],
+      "gesamtquote": 28.78,
+      "empfohlener_einsatz_prozent": 0.25,
+      "empfohlener_einsatz_euro": 1.4,
+      "begruendung": "HR23-Pragmatik-Lockerung (dokumentiert in lessons_angewandt): jeder Bein nutzt EINEN klar entkoppelten Markt-Typ vs Safe/Balance-Bein im gleichen Spiel (Tor-Markt vs Sieg/DC-Markt = unabhaengig). 3 Torschuetzen-Beine + 1 Total - HR23-Profil-Layer: Yamal als einziges Schon-Modus-Profil (Barca-Champion-durch), Lautaro/Mikautadze in Pflicht-Druck-Profilen. Markt-Goldgrube-Cluster (Torschuetzen + Ueber-Tore). AUFSTELLUNGS-VERIFIKATION fuer alle 3 Stuermer PFLICHT. Nachgerechnet: 2.30 × 2.60 × 2.60 × 1.85 = 28.78."
+    },
+    {
+      "name": "Moonshot-Kombi ~91.6x",
+      "kategorie": "moonshot",
+      "beine": [
+        {
+          "spiel_id": "2026-05-13-vil-sev",
+          "markt": "Villarreal gewinnt 3:1 (Genaues Ergebnis)",
+          "quote": 9.0
+        },
+        {
+          "spiel_id": "2026-05-13-mci-cry",
+          "markt": "Phil Foden Doppelpack",
+          "quote": 5.5
+        },
+        {
+          "spiel_id": "2026-05-13-get-mal",
+          "markt": "Mallorca Doppelte Chance X2",
+          "quote": 1.85
+        }
+      ],
+      "gesamtquote": 91.6,
+      "empfohlener_einsatz_prozent": 0.1,
+      "empfohlener_einsatz_euro": 0.55,
+      "begruendung": "Spass-Lotterie. HR23-Moonshot-Ausnahme: zusaetzliche Beine in bereits genutzten Spielen mit klar entkoppeltem Markt (Genaues-Ergebnis vs Sieg, Doppelpack vs Sieg, Mallorca-DC vs Unter-2.5). Nachgerechnet: 9.00 × 5.50 × 1.85 = 91.6. 0.55€ Mini-Einsatz."
+    }
+  ],
+  "lessons_angewandt": [
+    {
+      "lesson_datum": "2026-04-26",
+      "kategorie": "Saison-Kontext-Pflicht-Analyse",
+      "angewandt": "Saison_kontext mit 7 Pflichtfeldern + quellen[] in allen 7 Spielen ausgefuellt - Parallele Wettbewerbe (Conference-Final Palace, CL-Aus Inter+Barca), Saisonziele (City-Titelpflicht, Villarreal-CL-Quali-Pflicht, Espanyol-Klassenerhalt, Lazio-EL-Quali-Schuss-Final), Motivations-Asymmetrie + Recovery."
+    },
+    {
+      "lesson_datum": "2026-04-27",
+      "kategorie": "Quoten-Verifikation-HARTREGEL",
+      "angewandt": "Alle Quoten via Oddschecker/SportsGambler/Polymarket/Sofascore-Aggregator-Quellen verifiziert (URLs in saison_kontext). KEIN Tipp ohne Aggregator-Beleg. Pinnacle-Vergleich in Watchdog-Recovery-Routine nicht durchgefuehrt - daher KEINE SAFE-Tipps im Dossier, max VALUE durchgehend."
+    },
+    {
+      "lesson_datum": "2026-04-27",
+      "kategorie": "Beobachtungs-Liga-Modus",
+      "angewandt": "Aktuelle Beobachtungs-Ligen Stand 13.05.: Serie A, 2.BL, NBA Round-1-G6. NICHT betroffen heute: Coppa Italia (Pokal, separat), LaLiga, Premier League, NBA Round-2-G5 (G6 ist beobachtet, G5 nicht). NBA-Spiel Cavs-Pistons ist Round-2-G5 = NICHT in Beobachtung."
+    },
+    {
+      "lesson_datum": "2026-04-26",
+      "kategorie": "NBA-Playoff-Player-Punkte-Boykott",
+      "angewandt": "Cunningham-Ueber-27.5-Pkt-Tipp NICHT als Einzeltipp im einzeltipps[], NUR als Moonshot-Bein im det-cle-Spiel-Tipps mit 0.1% Stake (Lesson-Konform)."
+    },
+    {
+      "lesson_datum": "2026-05-04",
+      "kategorie": "DC-Cap (HR Markt-Mix-Pflicht 1)",
+      "angewandt": "Max 1 DC-Tipp pro Spiel + max 2-3 DC ueber gesamtes Dossier: aktuell 2 DC im gesamten Dossier (Barca DC X2 in ala-bar, Mallorca DC X2 in get-mal) - regel-konform."
+    },
+    {
+      "lesson_datum": "2026-05-04",
+      "kategorie": "PFLICHT-PROFILE pro Spiel (HR Markt-Mix-Pflicht 2)",
+      "angewandt": "Heim-Favoriten (City 1.20, Villarreal 1.65): MIN 1 Torschuetzen-Tipp + Sieg-Tipp gesetzt (Haaland + Mikautadze). Auswaerts-Favorit (Barca 2.10): Torschuetzen-Tipp Lewandowski/Yamal + DC-X2 gesetzt. Coinflip-Spiele (Espanyol-Bilbao, Getafe-Mallorca): kein SAFE, max 3 Tipps (BTTS/Total/Sieg-Wackel). NBA-G5-Pivot (Cavs-Pistons): kein SAFE, Spread + Total."
+    },
+    {
+      "lesson_datum": "2026-05-04",
+      "kategorie": "STAR-AUSFALL Backup-Pflicht (HR Markt-Mix-Pflicht 3)",
+      "angewandt": "Coppa-Final: Calhanoglu-Out-Doubt aktiv - Lautaro+Thuram primaere Wahl. Barca-Rotation-Risiko: Yamal als Backup-Tipp gesetzt falls Lewandowski rotiert. Aufstellungs-Verifikation 60-90 Min vor Anstoss zwingend (Lesson 10.+13.05.)."
+    },
+    {
+      "lesson_datum": "2026-05-04",
+      "kategorie": "FORM-EDGE Torschuetzen-Pflicht (HR Markt-Mix-Pflicht 4)",
+      "angewandt": "Torschuetzen-Jederzeit-Goldgrube (+21% ROI) aktiv gesucht in 4 Spielen: Haaland, Lautaro, Mikautadze, Yamal/Lewandowski. Mikautadze als wackel statt VALUE wegen Aufstellungs-Unsicherheit."
+    },
+    {
+      "lesson_datum": "2026-05-04",
+      "kategorie": "GOLDGRUBE-LIGA-DC-FALLE (HR Markt-Mix-Pflicht 6)",
+      "angewandt": "Aktuelle Liga-Goldgruben: nur EL-Halbfinale-Rueckspiele + NBA-Round2-G2 + CL-Halbfinale-Hinspiel (laut liga_goldgruben.json) - HEUTE KEINER aktiv. Alle anderen Ligen Hebel-C-Downgrade: SAFE-DC -> VALUE. Daher KEINE SAFE-Tipps im Dossier."
+    },
+    {
+      "lesson_datum": "2026-05-07",
+      "kategorie": "HR17 Safe-Kombi-Korrelations-Schutz",
+      "angewandt": "Safe-Kombi enthaelt MAX 2 Sieg-Beine - aktuelle Safe-Kombi: 1 Sieg (Inter) + 1 DC (Barca) + 1 Total (Unter Get-Mal) = HR17 perfekt erfuellt."
+    },
+    {
+      "lesson_datum": "2026-05-08",
+      "kategorie": "HR23 Layer-3-Diversifikation",
+      "angewandt": "Pragmatische-Lockerung dokumentiert: Bei nur 7 Spielen und 4 Kombi-Slots ist strikte 1-Bein-pro-Spiel-Regel mathematisch nicht voll moeglich. Risiko-Kombi nutzt entkoppelte Markets (Tor vs Sieg/DC) in bereits belegten Spielen, Moonshot HR23-Ausnahme aktiv. Safe + Balance halten strikt 1-Bein-pro-Spiel-Regel."
+    },
+    {
+      "lesson_datum": "2026-05-09",
+      "kategorie": "Beobachtungs-Liga-Bestaetigung",
+      "angewandt": "Heute KEINE Tipps aus Beobachtungs-Ligen (Serie A, 2.BL, NBA Round-1-G6). Coppa Italia ist Pokal-Wettbewerb (separat). NBA Round-2-G5 ist NICHT Round-1-G6."
+    },
+    {
+      "lesson_datum": "2026-05-10",
+      "kategorie": "Aufstellungs-Verifikation 1-2h vor Anstoss",
+      "angewandt": "Alle Stuermer-Torschuetzen-Tipps mit Quote <2.30 (Haaland 1.42, Lewandowski 2.20, Lautaro 2.30) sind explizit als 'AUFSTELLUNGS-VERIFIKATION PFLICHT' markiert. Watchdog-Recovery-Routine kann nicht selbst verifizieren - User-Hinweis in jedem Tipp-begruendung enthalten."
+    },
+    {
+      "lesson_datum": "2026-05-11",
+      "kategorie": "EL/CL-Final-10-Tage-Vorbereitung Schon-Cluster",
+      "angewandt": "Crystal Palace ist 14 Tage vor Conference-Final (27.05.) - exakt im 7-12-Tage-Schon-Cluster-Bereich. Glasner-Rotation explizit als Edge-Beguendung fuer City-Sieg eingeflossen. Lazio/Inter haben kein UEFA-Final mehr (Inter CL-Aus, Lazio EL-Aus) - kein Schon-Modus-Risiko fuer Coppa-Final selbst."
+    },
+    {
+      "lesson_datum": "2026-05-12",
+      "kategorie": "Korrelations-Cluster Coinflip-Spiele",
+      "angewandt": "Espanyol-Bilbao + Getafe-Mallorca als Coinflip-Saisonende-LaLiga-Spiele identifiziert. Diversifiziert ueber Kombis: Getafe-Mallorca Unter 2.5 in Safe, Espanyol-Bilbao Unter 2.5 in Balance - jedes Coinflip-Spiel max 1 Hauptkombi-Bein."
+    },
+    {
+      "lesson_datum": "2026-05-13",
+      "kategorie": "HR22-Praezisierung Star-OUT bei LaLiga-Top-4",
+      "angewandt": "Barca-Rotations-Risiko ist Top-4-Bench-tief - DC X2 als VALUE statt SAFE wegen Saisonende-Rotation aber nicht als Sieg-Disqualifikator (gemaess Lesson 13.05.). Lewandowski-Tor als wackel wegen Rotation-Doubt, NICHT als Auto-Drop."
+    },
+    {
+      "lesson_datum": "2026-05-13",
+      "kategorie": "LaLiga-Saisonende-Tor-Flaute WIDERLEGT",
+      "angewandt": "Lesson 12.05. LaLiga-Saisonende-Flaute-Filter NICHT pauschal angewandt - nur bei Mid-vs-Mid-ohne-Druck (Getafe-Mallorca Unter 2.5 = aktiv). Bei Klassenerhalt-vs-Pflicht (Vil-Sev) + Druck-Saisonende-Top-vs-Mid (Ala-Bar) = Ueber-2.5 als VALUE laut Lesson-Refinement."
+    },
+    {
+      "lesson_datum": "2026-05-13",
+      "kategorie": "NBA-Playoff-G5-Heim-Pivot-Vengeance-SAFE",
+      "angewandt": "Cavs-Pistons G5: Pistons-Heim aber KEIN klarer Vengeance-Trigger nach G4 (kein Ejection/Suspension/Personal-Insult-Headline). Daher NBA-Playoff-nie-SAFE bleibt default - alle NBA-Tipps wackel/Risiko, kein SAFE. Cavs +3.5 als wackel statt VALUE."
+    }
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool, keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress = Pause.",
+  "einzeltipps_ergebnis": [
+    {
+      "spiel_id": "2026-05-13-mci-cry",
+      "kategorie": "value",
+      "markt": "Manchester City Sieg",
+      "quote": 1.2,
+      "edge_prozent": 18,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "kurz_begruendung": "City Pflicht-Titelrennen + Heim + Palace-Conference-Final-Schon-Modus. Klasse + Motivation + Form alle Edge. Verifizierte Quote ~1.20 via Polymarket/Bet365-aggregator. Quote bei bet365 live pruefen.",
+      "rang": 1,
+      "status": "gewonnen",
+      "kommentar": "City 3:0 Sieg",
+      "netto_euro": 1.65
+    },
+    {
+      "spiel_id": "2026-05-13-laz-int",
+      "kategorie": "wackel",
+      "markt": "Inter Mailand Sieg (90 Min)",
+      "quote": 1.68,
+      "edge_prozent": 12,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "kurz_begruendung": "Coppa-Italia-Final - Inter Klasse-Edge massiv (9 H2H ungeschlagen vs Lazio, 7 Siege). 90-Min-Wertung mit Verlaengerungs-Risiko - daher VALUE statt SAFE. Quote via SportsGambler/CBS-Sports.",
+      "rang": 2,
+      "status": "gewonnen",
+      "kommentar": "Inter 2:0 in 90 Min",
+      "netto_euro": 5.61
+    },
+    {
+      "spiel_id": "2026-05-13-vil-sev",
+      "kategorie": "wackel",
+      "markt": "Villarreal Sieg",
+      "quote": 1.65,
+      "edge_prozent": 13,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "kurz_begruendung": "Villarreal CL-Quali-Pflicht-Heim, 6 Siege in Folge + Sevilla 4 Auswaerts-Niederlagen. Top-4-Druck-Spiel = Lesson 13.05.-Ausnahme aktiv. Quote via Forebet/RatingBet.",
+      "rang": 3,
+      "status": "verloren",
+      "kommentar": "Sevilla 3:2 Comeback - Villarreal verloren",
+      "netto_euro": -8.25
+    },
+    {
+      "spiel_id": "2026-05-13-mci-cry",
+      "kategorie": "value",
+      "markt": "Erling Haaland Torschuetze Jederzeit",
+      "quote": 1.42,
+      "edge_prozent": 14,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "kurz_begruendung": "Goldgrube-Markt Torschuetzen-Jederzeit (+21% ROI). Haaland-PL-Heim-Tor-Quote >50%, Palace-B-Defense schwaecher. AUFSTELLUNGS-VERIFIKATION 60 Min vor Anstoss PFLICHT (Lesson 10.+13.05.) - sonst skippen.",
+      "rang": 4,
+      "status": "verloren",
+      "kommentar": "Haaland Bank zur Schonung - Lesson 10.05./13.05. Aufstellungs-Verifikation haette ihn als Skip markiert",
+      "netto_euro": -5.5
+    },
+    {
+      "spiel_id": "2026-05-13-laz-int",
+      "kategorie": "wackel",
+      "markt": "Lautaro Martinez Torschuetze Jederzeit",
+      "quote": 2.3,
+      "edge_prozent": 15,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "kurz_begruendung": "Goldgrube-Markt Torschuetzen-Jederzeit + Inter-Volumen-9er + Calhanoglu-Out koennte Aufmerksamkeit auf Lautaro lenken. AUFSTELLUNGS-VERIFIKATION 60 Min vor Anstoss PFLICHT - bei Lautaro-Bank skippen.",
+      "rang": 5,
+      "status": "gewonnen",
+      "kommentar": "Lautaro 35.Min Tor",
+      "netto_euro": 7.15
+    },
+    {
+      "spiel_id": "2026-05-13-vil-sev",
+      "kategorie": "wackel",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.85,
+      "edge_prozent": 10,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "kurz_begruendung": "Markt-Goldgrube (+62.8% ROI). Villarreal-Heim 18 Tore in 6 Spielen. Lesson 13.05.: LaLiga-Ueber-Refinement aktiv weil Top-4-Pflicht-Heimspiel.",
+      "rang": 6,
+      "status": "gewonnen",
+      "kommentar": "5 Tore total",
+      "netto_euro": 4.675
+    },
+    {
+      "spiel_id": "2026-05-13-ala-bar",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.5,
+      "edge_prozent": 12,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "kurz_begruendung": "Goldgrube-Markt. Barca-Auswaerts-Tor-Schnitt >2.5. Selbst mit Rotation reicht Klasse fuer Torproduktion. Lesson 13.05.-Refinement: Druck-Klassen-Spiel = Ueber-aktiv.",
+      "rang": 7,
+      "status": "verloren",
+      "kommentar": "Nur 1 Tor",
+      "netto_euro": -5.5
+    },
+    {
+      "spiel_id": "2026-05-13-ala-bar",
+      "kategorie": "value",
+      "markt": "FC Barcelona Doppelte Chance X2",
+      "quote": 1.3,
+      "edge_prozent": 10,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "kurz_begruendung": "DC-X2-Goldgrube (77.8% Hit / +9.4% ROI). 17 Spiele H2H ungeschlagen - selbst B-Squad reicht fuer Punkte. DC-Cap: einzige DC im Spiel.",
+      "rang": 8,
+      "status": "verloren",
+      "kommentar": "Barca verloren",
+      "netto_euro": -5.5
+    },
+    {
+      "spiel_id": "2026-05-13-get-mal",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.51,
+      "edge_prozent": 8,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "kurz_begruendung": "Mid-Table-Coinflip + beidseitig Defensiv-Profile (Bordalas + Demichelis). Getafe 1 Tor in letzten 5 Spielen. Lesson 12.05.-Saisonende-Coinflip-Filter aktiv.",
+      "rang": 9,
+      "status": "gewonnen",
+      "kommentar": "2 Tore",
+      "netto_euro": 2.805
+    },
+    {
+      "spiel_id": "2026-05-13-vil-sev",
+      "kategorie": "wackel",
+      "markt": "Georges Mikautadze Torschuetze Jederzeit",
+      "quote": 2.6,
+      "edge_prozent": 8,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 2.75,
+      "kurz_begruendung": "Villarreal-Top-Stuermer 2025/26, hohe Saison-Tor-Volume. Goldgrube-Markt. AUFSTELLUNGS-VERIFIKATION 60 Min vor Anstoss PFLICHT - bei Bank skippen.",
+      "rang": 10,
+      "status": "gewonnen",
+      "kommentar": "Mikautadze 19.Min Tor",
+      "netto_euro": 4.4
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "name": "Safe-Kombi ~3.30x",
+      "kategorie": "safe",
+      "status": "verloren",
+      "bein_statuses": [
+        "gewonnen",
+        "verloren",
+        "gewonnen"
+      ],
+      "gesamtquote": 3.3,
+      "einsatz_euro": 11.0,
+      "netto_euro": -11.0
+    },
+    {
+      "name": "Balance-Kombi ~6.55x",
+      "kategorie": "balance",
+      "status": "verloren",
+      "bein_statuses": [
+        "gewonnen",
+        "verloren",
+        "gewonnen"
+      ],
+      "gesamtquote": 3.43,
+      "einsatz_euro": 4.4,
+      "netto_euro": -4.4
+    },
+    {
+      "name": "Risiko-Kombi ~28.78x",
+      "kategorie": "risk",
+      "status": "verloren",
+      "bein_statuses": [
+        "gewonnen",
+        "verloren",
+        "gewonnen",
+        "verloren"
+      ],
+      "gesamtquote": 28.78,
+      "einsatz_euro": 1.4,
+      "netto_euro": -1.4
+    },
+    {
+      "name": "Moonshot-Kombi ~91.6x",
+      "kategorie": "moonshot",
+      "status": "verloren",
+      "bein_statuses": [
+        "verloren",
+        "verloren",
+        "verloren"
+      ],
+      "gesamtquote": 91.6,
+      "einsatz_euro": 0.55,
+      "netto_euro": -0.55
+    }
+  ],
+  "tagesbilanz": {
+    "einzeltipps_einsatz": 60.5,
+    "einzeltipps_netto": 1.54,
+    "kombis_einsatz": 17.35,
+    "kombis_netto": -17.35,
+    "gesamt_einsatz": 77.85,
+    "gesamt_netto": -15.81
+  },
+  "ausgewertet_am": "2026-05-14T06:17:15+00:00",
+  "auswertungs_quelle": "WebSearch (manuell - football-data.org/balldontlie API-Free-Tier-Host-Block, alternative Datenherkunft ueber ESPN/Flashscore/Football-Italia)"
+}

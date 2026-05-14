@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-05-13T06:19:06+00:00",
+  "letzte_berechnung": "2026-05-14T06:19:15+00:00",
   "gesamt": {
-    "tipps": 208,
-    "gewonnen": 120,
-    "verloren": 88,
+    "tipps": 218,
+    "gewonnen": 126,
+    "verloren": 92,
     "push": 0,
     "offen": 0,
-    "einsatz": 208.0,
+    "einsatz": 218.0,
     "netto": 18.12,
-    "trefferquote": 57.7,
-    "roi_prozent": 8.7
+    "trefferquote": 57.8,
+    "roi_prozent": 8.3
   },
   "letzte_30_tage": {
-    "tipps": 208,
-    "gewonnen": 120,
-    "verloren": 88,
+    "tipps": 218,
+    "gewonnen": 126,
+    "verloren": 92,
     "push": 0,
     "offen": 0,
-    "einsatz": 208.0,
+    "einsatz": 218.0,
     "netto": 18.12,
-    "trefferquote": 57.7,
-    "roi_prozent": 8.7
+    "trefferquote": 57.8,
+    "roi_prozent": 8.3
   },
   "letzte_90_tage": {
-    "tipps": 208,
-    "gewonnen": 120,
-    "verloren": 88,
+    "tipps": 218,
+    "gewonnen": 126,
+    "verloren": 92,
     "push": 0,
     "offen": 0,
-    "einsatz": 208.0,
+    "einsatz": 218.0,
     "netto": 18.12,
-    "trefferquote": 57.7,
-    "roi_prozent": 8.7
+    "trefferquote": 57.8,
+    "roi_prozent": 8.3
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -69,15 +69,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -9.5
     },
     "LaLiga": {
-      "tipps": 28,
-      "gewonnen": 16,
-      "verloren": 12,
+      "tipps": 34,
+      "gewonnen": 19,
+      "verloren": 15,
       "push": 0,
       "offen": 0,
-      "einsatz": 28.0,
+      "einsatz": 34.0,
       "netto": -2.9,
-      "trefferquote": 57.1,
-      "roi_prozent": -10.4
+      "trefferquote": 55.9,
+      "roi_prozent": -8.5
     },
     "Bundesliga": {
       "tipps": 30,
@@ -113,15 +113,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -40.0
     },
     "Premier League": {
-      "tipps": 30,
-      "gewonnen": 20,
-      "verloren": 10,
+      "tipps": 32,
+      "gewonnen": 21,
+      "verloren": 11,
       "push": 0,
       "offen": 0,
-      "einsatz": 30.0,
+      "einsatz": 32.0,
       "netto": -2.34,
-      "trefferquote": 66.7,
-      "roi_prozent": -7.8
+      "trefferquote": 65.6,
+      "roi_prozent": -7.3
     },
     "NBA Playoffs R1 G4": {
       "tipps": 4,
@@ -331,6 +331,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.69,
       "trefferquote": 75.0,
       "roi_prozent": 17.2
+    },
+    "Coppa Italia Finale": {
+      "tipps": 2,
+      "gewonnen": 2,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 0.0,
+      "trefferquote": 100.0,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt": {
@@ -1138,15 +1149,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 42.0
     },
     "Unter 2.5 Tore": {
-      "tipps": 3,
-      "gewonnen": 2,
+      "tipps": 4,
+      "gewonnen": 3,
       "verloren": 1,
       "push": 0,
       "offen": 0,
-      "einsatz": 3.0,
+      "einsatz": 4.0,
       "netto": 0.8,
-      "trefferquote": 66.7,
-      "roi_prozent": 26.7
+      "trefferquote": 75.0,
+      "roi_prozent": 20.0
     },
     "Unter 211.5 Punkte (Total)": {
       "tipps": 1,
@@ -2258,6 +2269,50 @@ window.__MIESMUSCHEL_STAT = {
       "netto": -1.0,
       "trefferquote": 0.0,
       "roi_prozent": -100.0
+    },
+    "Manchester City Sieg": {
+      "tipps": 2,
+      "gewonnen": 1,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 0.0,
+      "trefferquote": 50.0,
+      "roi_prozent": 0.0
+    },
+    "Inter Sieg (90 Min)": {
+      "tipps": 2,
+      "gewonnen": 2,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 0.0,
+      "trefferquote": 100.0,
+      "roi_prozent": 0.0
+    },
+    "Villarreal Sieg": {
+      "tipps": 3,
+      "gewonnen": 2,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 0.0,
+      "trefferquote": 66.7,
+      "roi_prozent": 0.0
+    },
+    "Barcelona Doppelte Chance X2": {
+      "tipps": 2,
+      "gewonnen": 0,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt_typ": {
@@ -2306,15 +2361,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 55.0
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 69,
-      "gewonnen": 41,
-      "verloren": 28,
+      "tipps": 76,
+      "gewonnen": 46,
+      "verloren": 30,
       "push": 0,
       "offen": 0,
-      "einsatz": 69.0,
+      "einsatz": 76.0,
       "netto": 7.68,
-      "trefferquote": 59.4,
-      "roi_prozent": 11.1
+      "trefferquote": 60.5,
+      "roi_prozent": 10.1
     },
     "Torschuetzen Jederzeit": {
       "tipps": 26,
@@ -2328,15 +2383,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 21.0
     },
     "Unter 2.5 Tore": {
-      "tipps": 7,
-      "gewonnen": 4,
+      "tipps": 8,
+      "gewonnen": 5,
       "verloren": 3,
       "push": 0,
       "offen": 0,
-      "einsatz": 7.0,
+      "einsatz": 8.0,
       "netto": 0.65,
-      "trefferquote": 57.1,
-      "roi_prozent": 9.3
+      "trefferquote": 62.5,
+      "roi_prozent": 8.1
     },
     "Doppelte Chance 1X": {
       "tipps": 17,
@@ -2350,15 +2405,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 4.9
     },
     "Doppelte Chance X2": {
-      "tipps": 9,
+      "tipps": 11,
       "gewonnen": 7,
-      "verloren": 2,
+      "verloren": 4,
       "push": 0,
       "offen": 0,
-      "einsatz": 9.0,
+      "einsatz": 11.0,
       "netto": 0.85,
-      "trefferquote": 77.8,
-      "roi_prozent": 9.4
+      "trefferquote": 63.6,
+      "roi_prozent": 7.7
     },
     "Ueber 2.5 Tore": {
       "tipps": 10,
@@ -2704,15 +2759,15 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 96,
-      "gewonnen": 49,
-      "verloren": 47,
+      "tipps": 102,
+      "gewonnen": 54,
+      "verloren": 48,
       "push": 0,
       "offen": 0,
-      "einsatz": 96.0,
+      "einsatz": 102.0,
       "netto": 8.0,
-      "trefferquote": 51.0,
-      "roi_prozent": 8.3
+      "trefferquote": 52.9,
+      "roi_prozent": 7.8
     },
     "2.00-3.00": {
       "tipps": 26,
@@ -2726,15 +2781,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 10.2
     },
     "1.00-1.50": {
-      "tipps": 77,
-      "gewonnen": 58,
-      "verloren": 19,
+      "tipps": 81,
+      "gewonnen": 59,
+      "verloren": 22,
       "push": 0,
       "offen": 0,
-      "einsatz": 77.0,
+      "einsatz": 81.0,
       "netto": 6.03,
-      "trefferquote": 75.3,
-      "roi_prozent": 7.8
+      "trefferquote": 72.8,
+      "roi_prozent": 7.4
     },
     "3.00+": {
       "tipps": 9,
@@ -2761,26 +2816,26 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 1.6
     },
     "value": {
-      "tipps": 124,
-      "gewonnen": 66,
-      "verloren": 58,
+      "tipps": 131,
+      "gewonnen": 70,
+      "verloren": 61,
       "push": 0,
       "offen": 0,
-      "einsatz": 124.0,
+      "einsatz": 131.0,
       "netto": 13.22,
-      "trefferquote": 53.2,
-      "roi_prozent": 10.7
+      "trefferquote": 53.4,
+      "roi_prozent": 10.1
     },
     "wackel": {
-      "tipps": 24,
-      "gewonnen": 10,
-      "verloren": 14,
+      "tipps": 27,
+      "gewonnen": 12,
+      "verloren": 15,
       "push": 0,
       "offen": 0,
-      "einsatz": 24.0,
+      "einsatz": 27.0,
       "netto": 3.97,
-      "trefferquote": 41.7,
-      "roi_prozent": 16.5
+      "trefferquote": 44.4,
+      "roi_prozent": 14.7
     }
   },
   "clv_gesamt": {
@@ -2800,6 +2855,137 @@ window.__MIESMUSCHEL_STAT = {
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-05-13",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "Safe-Kombi ~3.30x",
+          "kategorie": "safe",
+          "gesamtquote": 3.3,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Inter Mailand Sieg",
+              "quote": 1.68,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Barcelona Doppelte Chance X2",
+              "quote": 1.3,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.51,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi ~6.55x",
+          "kategorie": "balance",
+          "gesamtquote": 3.43,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Manchester City Sieg",
+              "quote": 1.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Villarreal Sieg",
+              "quote": 1.65,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.73,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi ~28.78x",
+          "kategorie": "risk",
+          "gesamtquote": 28.78,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Lautaro Martinez Torschuetze Jederzeit",
+              "quote": 2.3,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Lamine Yamal Torschuetze Jederzeit",
+              "quote": 2.6,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Mikautadze Torschuetze Jederzeit",
+              "quote": 2.6,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 3.5 Tore",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi ~91.6x",
+          "kategorie": "moonshot",
+          "gesamtquote": 91.6,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Villarreal gewinnt 3:1 (Genaues Ergebnis)",
+              "quote": 9.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Phil Foden Doppelpack",
+              "quote": 5.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Mallorca Doppelte Chance X2",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-05-12",
       "gesamt": {

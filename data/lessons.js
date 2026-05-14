@@ -1,6 +1,6 @@
 // Automatisch erzeugt aus data/lessons.json.
 window.__MIESMUSCHEL_LESSONS = {
-  "notiz": "Lessons werden von Claude im Chat gepflegt (oder per Hand). Chronologisch, jede Lesson auf ein konkretes Spiel beziehen wenn moeglich.",
+  "notiz": "Lessons werden von Claude im Chat gepflegt (oder per Hand). Chronologisch, jede Lesson auf ein konkretes Spiel beziehen wenn moeglich. | 2026-05-14: +4 Lessons (Drehungs-Cluster + Saison-Verletzungs-Check-Pre-Match + Coinflip-Saisonende-Validierung + Top-Team-Pflicht-Final-7d-Schon)",
   "lessons": [
     {
       "datum": "2026-04-22",
@@ -618,6 +618,34 @@ window.__MIESMUSCHEL_LESSONS = {
       "lesson": "WEMBANYAMA-VENGEANCE-GAME PIVOT-G5: Wembanyama nach G4-Karriere-Ejection (Ellbogen Naz Reid) lieferte Career-High-Reaktion: 27P/17R/5A/3B, Q1 allein 18P/6R in 8 Min, Spurs 126:97 Wolves (Differenz +29). NBA-G5-Heimvorteil-Pattern in Series jetzt 5/5 bestaetigt (Spurs G1, G2, G5 Heim / Wolves G3, G4 Heim). Spurs-ML @ 1.25 (NBA-Playoff-nie-SAFE-Lesson hatte auf wackel degradiert) waere SAFE gerechtfertigt gewesen, Stake-Hebel von 0.5% auf 1.5% verpasst (~+11€ Brutto-Gewinn-Differenz). Ueber 218.5 @ 1.91 (auch nur wackel) ebenfalls gewonnen (Total 223). PATTERN: NBA-Playoff-nie-SAFE-Lesson zu konservativ in spezifischen Sub-Cluster: (a) Heim-G5-Pivot-Game mit Star-Vengeance-Trigger (Ejection/Suspension/Personal-Insult-Headline in G4), (b) Heim-G7-Decider mit klarem Klassen-Edge. Lesson-Refinement: NBA-Playoff-nie-SAFE BLEIBT default, ABER Heim-G5/G7-Pivot mit Vengeance-Star-Trigger ist explizite VALUE-Ausnahme (nicht SAFE - aber 1.0% Stake erlaubt statt 0.5%-wackel).",
       "bezug_spiel_id": "2026-05-13-sas-min",
       "anwenden_ab": "2026-05-13"
+    },
+    {
+      "datum": "2026-05-14",
+      "kategorie": "Drehungs-Cluster Saisonende-Pflicht-Heim-Spiele (Quelle 8f Drehungs-Cluster + 8a Korrelations-Analyse)",
+      "lesson": "ZWEI DREHUNGEN AN EINEM TAG: Villarreal-Sevilla 2:0 HZ -> 2:3 Endstand (Sevilla 3 Tore in 25 Min Wiederanpfiff/46./46./71. - klassisches HZ-Pause-Coach-Adjustment-Drehungs-Pattern) + NBA Pistons-Cavs G5 (Pistons 103:94 mit 2 Min uebrig -> Cavs 117:113 OT-Comeback durch Harden 30 + Mitchell 21 + Strus 20 + Mobley 19). Saisonende-CL-Quali-Pflicht-Heim-Profil (Villarreal) ist KEINE Sieg-Garantie - 2:0 HZ kann durch Auswaerts-Druck-Reaktion gekippt werden. KORRELATIONS-Killer fuer Tag: Villarreal-Sieg-Bein zerstoerte Balance-Kombi, Barca-DC-X2-Bein zerstoerte Safe-Kombi (Alaves-Aufstand-Drehung-Light: 0:0 zu 1:0). KONSEQUENZ: (a) Saisonende-Sieg-Tipps bei Quote 1.40-1.85 in Pflicht-Heim-Spielen auf DC-1X-Cover statt direkter Sieg-Tipp setzen (verhindert Drehungs-Total-Verlust). (b) Bei 2:0-HZ-Profil-Tipps zusaetzlich BTTS-NEIN als korrelativer Hedge-Bein erwaegen. (c) Drehungs-Cluster pro Tag tracken - 2+ Drehungen = Tag fuer Sieg-Tipps risiko-erhoeht.",
+      "bezug_spiel_id": "2026-05-13-vil-sev",
+      "anwenden_ab": "2026-05-14"
+    },
+    {
+      "datum": "2026-05-14",
+      "kategorie": "Saison-Verletzungs-Check vor Tipp-Generation (Refinement Lesson 10.+13.05. Aufstellungs-Verifikation 8h Rotation-Pattern)",
+      "lesson": "YAMAL SAISON-OUT PRE-MATCH BEKANNT: Lamine Yamal war PRE-MATCH bereits offiziell Saison-OUT durch Verletzung (oeffentlich seit Tagen verfuegbar via transfermarkt/kicker/ESPN injury report). Aufstellungs-Verifikation 60-90 Min vor Anstoss kommt zu spaet wenn der Saison-Status klar ist - Tipp haette bei Tipp-Generation rausfallen muessen. NEUE PFLICHT-CHECK-REIHENFOLGE: 1. Saison-Verletzungs-Liste (transfermarkt 'Aktuelle Verletzte' / kicker / ESPN injury report) PRE-MATCH-PFLICHT vor jedem Torschuetzen-Tipp - sicherer Saison-OUT = Spieler komplett aus Pool. 2. Aufstellungs-Verifikation 60-90 Min vor Anstoss bleibt fuer Rotation-Risiko-Spieler (siehe Lesson 4). Yamal-Tipp gestern -1.40€ vermeidbar; trifft auch fuer Risiko-Kombi-Total-Verlust mit (Killer-Bein im Risiko-Kombi).",
+      "bezug_spiel_id": "2026-05-13-ala-bar",
+      "anwenden_ab": "2026-05-14"
+    },
+    {
+      "datum": "2026-05-14",
+      "kategorie": "Coinflip-Saisonende-LaLiga-Defensiv-Cluster bestaetigt (Quelle 8g Markt-Pattern aus nicht-getippten + getippten Resultaten)",
+      "lesson": "DOPPELTE COINFLIP-VALIDIERUNG LaLiga MD36: Espanyol-Bilbao 2:0 + Getafe-Mallorca 2:0 - beide Coinflip-Mid-Table-LaLiga-Saisonende-Spiele OHNE UEFA-Druck-Asymmetrie liefen klassisch defensiv-konform (Unter 2.5 + BTTS NEIN + Heim-Sieg). Lesson 12.05. Saisonende-Coinflip-Tor-Flaute-Filter und Lesson 13.05. LaLiga-Saisonende-Defensiv-These klar validiert. ZUSATZ-PATTERN entdeckt: Heim-Klassenerhalts-Verzweiflungs-Sieg ist neue Goldgrube-Kategorie - Espanyol-Heim-Sieg 2.90 als Moonshot eingeloest (+1.04€). KONSEQUENZ: In Coinflip-Saisonende-LaLiga-Spielen mit Heim-Klassenerhalts-Pflicht + Auswaerts-Mid-Table-ohne-Druck (Espanyol-Bilbao-Profil) Heim-Sieg-Tipp 2.50-3.00 als WACKEL statt MOONSHOT setzen - 3-Tipp-Cluster (Unter 2.5 + BTTS NEIN + Heim-Sieg-Wackel) ergibt Quasi-Hedge mit hoher 2-von-3-Quote.",
+      "bezug_spiel_id": "2026-05-13-esp-ath",
+      "anwenden_ab": "2026-05-14"
+    },
+    {
+      "datum": "2026-05-14",
+      "kategorie": "Top-Team-Rotation-vor-Pflicht-Final 7-Tage-Cluster (Refinement Lesson 11.05. EL/CL-Final-Schon-Cluster, Quelle 8h Rotation-Pattern)",
+      "lesson": "HAALAND BANK FUER FA-CUP-FINAL: Pep Guardiola hat Haaland + Doku + Cherki auf die Bank gesetzt um sie fuer Samstags-FA-Cup-Final vs Chelsea fit zu halten - obwohl es um den PL-Titel ging (City 5 Pkt hinter Arsenal). Volume-9er-Schonung trotz Pflicht-Sieg-Profil bei <2 Tagen bis Cup-Final ist staerker als Pflicht-Sieg-Profil. NEUE PFLICHT-AUSSCHLUSS-REGEL: Top-Team-Volume-Stuermer-Torschuetzen-Tipps werden GEDROPPED wenn Klub innerhalb der naechsten 7 Tage Final-Termin hat (FA-Cup / CL / EL / Conference / Pokal / EM/WM-Qualifikation-Decider) - unabhaengig von Heim/Auswaerts/Quote/Form-Edge. Die Schonung kommt schon bei 3-4 Tagen Pre-Final wenn Spieler 2 Spiele in 5 Tagen hatte. Refinement zu Lesson 11.05.: nicht nur EL/CL-Final-Naehe, sondern alle finalen Saison-Decider <=7 Tage. (Haaland-Tipp gestern -5.50€ vermeidbar; trifft auch fuer Risiko-Kombi-Bein-Verlust mit.)",
+      "bezug_spiel_id": "2026-05-13-mci-cry",
+      "anwenden_ab": "2026-05-14"
     }
   ]
 };
