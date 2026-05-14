@@ -1,0 +1,1911 @@
+{
+  "datum": "2026-05-16",
+  "erstellt_am": "2026-05-14T16:30:00+00:00",
+  "modus": "wochenende",
+  "hinweis": "Wochenend-Vorschau Sa 16.05. + So 17.05.2026 — SAISONFINALE-WOCHENENDE. Bundesliga 34. Spieltag alle Sa 15:30 (9 Spiele) - Abstiegs-Drama 3-Way punktgleich St.Pauli/Wolfsburg/Heidenheim mit 26 Pkt + CL-Quali-Pflichtsieg-Profile Stuttgart/Hoffenheim/Leverkusen punktgleich/dicht beieinander um Plaetze 4-6. 2. Bundesliga MD34 So 15:30 (8 Spiele) - Schalke Aufstieg sicher, 3-Way um Platz 2-4 (Elversberg/Hannover/Paderborn). FA-Cup-Final Sa 16:00 Chelsea-Man City in Wembley. Premier League MD37 So (6 Spiele) - mehrere Spiele wegen FA-Cup verlegt (Bournemouth-City + Chelsea-Spurs auf Di 19.05., Villa-Liverpool Fr 15.05., Arsenal-Burnley Mo 18.05.). LaLiga MD37 So 19:00 alle 10 Spiele simultan - Barca-Meister-Heim-Finale, Atletico CL gesichert, Oviedo abgestiegen, mehrere Klassenerhalts-Kaempfe. Serie A G37 So - Inter Scudetto-Feier vs Verona, Juve/Milan/Roma Champions-League-Plaetze umkaempft, Derby della Capitale Roma-Lazio. Ligue 1 MD34 So 19:00 alle 9 Spiele simultan - PSG-Saison-Ende vor CL-Final, Schon-Modus erwartet. NBA Sa-So G7s UNGEWISS (G6 Fr 15.05.): Pistons-Cavaliers + Spurs-Timberwolves jeweils 3:2 fuer Heim-Team. Kasse-Stand 04.05.: 550 EUR -> Stufe 1 (Aufbau-Phase). 2:0-Insurance-Regel: gilt nur BL+CL Sieg-Tipps (CL diese Woche keine, daher nur BL-Sieg-Tipps profitieren). Auto-Schon-Cluster: Freiburg-EL-Final 20.05. (4 Tage nach BL-Spiel) - AUTO-SCHON-Modus. Mehrere Top-Teams-Pflicht-Termine nach Saisonende: Real Madrid Pflicht-Klub-WM Juni, PSG CL-Final 30.05., Bayern DFB-Pokal-Final 24.05. (8 Tage = knapp ausserhalb 7-Tage-Cluster). Frischeste Information: Yamal Saison-OUT Barca, Schick Saison-OUT Leverkusen, Williams (Nico) Ankle-OUT Athletic. KEINE Tipp-Bewertung - reine Datenbasis fuer Wochenend-Vorschau-Tipps-Routine 18:00.",
+  "spiele": [
+    {
+      "id": "2026-05-16-bay-koe",
+      "liga": "Bundesliga",
+      "matchday": 34,
+      "heim": "FC Bayern Muenchen",
+      "gast": "1. FC Koeln",
+      "anstoss": "2026-05-16T15:30:00+02:00",
+      "stadion": "Allianz Arena, Muenchen",
+      "squad_heim": [
+        {"name": "Jonas Urbig", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.fcbayern.com/de/mannschaften/profis"},
+        {"name": "Josip Stanisic", "nummer": null, "position": "RV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.fcbayern.com/de/mannschaften/profis"},
+        {"name": "Min-jae Kim", "nummer": null, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.fcbayern.com/de/mannschaften/profis"},
+        {"name": "Hiroki Ito", "nummer": null, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.fcbayern.com/de/mannschaften/profis"},
+        {"name": "Tom Bischof", "nummer": null, "position": "LV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.fcbayern.com/de/mannschaften/profis"},
+        {"name": "Leon Goretzka", "nummer": null, "position": "ZM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.fcbayern.com/de/mannschaften/profis"},
+        {"name": "Joshua Kimmich", "nummer": null, "position": "DM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.fcbayern.com/de/mannschaften/profis"},
+        {"name": "Lennart Karl", "nummer": null, "position": "RM/OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.fcbayern.com/de/mannschaften/profis"},
+        {"name": "Michael Olise", "nummer": null, "position": "RF/OM", "saison_tore": 14, "letzte_5_spiele_tore": 3, "verifiziert_via": "https://www.fcbayern.com/de/mannschaften/profis", "hinweis": "Squawka-Aufstellungs-Spekulation Stammspieler. 14 BL-Tore Saison."},
+        {"name": "Luis Diaz", "nummer": null, "position": "LF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.fcbayern.com/de/mannschaften/profis"},
+        {"name": "Jamal Musiala", "nummer": null, "position": "OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.fcbayern.com/de/mannschaften/profis"},
+        {"name": "Mathys Tel / Jackson", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.fcbayern.com/de/mannschaften/profis", "hinweis": "Squawka berichtet Jackson + Kane als Startelf-Optionen. Lineup unsicher 60min vor Anstoss."},
+        {"name": "Harry Kane", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.fcbayern.com/de/mannschaften/profis", "hinweis": "Saison-Topscorer; Squawka-Bericht: kann starten oder gemanaget werden."}
+      ],
+      "squad_gast": [
+        {"name": "Marvin Schwaebe", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://fc.de/team"},
+        {"name": "Jan Thielmann", "nummer": null, "position": "RV/RM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://fc.de/team"},
+        {"name": "Timo Huebers", "nummer": null, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://fc.de/team"},
+        {"name": "Dejan Ljubicic", "nummer": null, "position": "ZM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://fc.de/team"},
+        {"name": "Damion Downs", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://fc.de/team"}
+      ],
+      "injuries_heim": ["Alphonso Davies (OUT)", "Serge Gnabry (OUT)", "Cassiano Kiala (OUT)", "David Santos (OUT)", "Wisdom Mike (OUT)"],
+      "injuries_gast": [],
+      "parallele_wettbewerbe": {
+        "heim": "keine direkten - CL-HF schon raus (06.05. vs PSG 3:3 gesamt nach Hin 4:5), DFB-Pokal-Final 24.05. (8 Tage spaeter - knapp ausserhalb 7-Tage-Cluster, Stamm-Elf wahrscheinlich)",
+        "gast": "keine",
+        "quellen": ["https://www.dfb.de/dfb-pokal/", "https://www.uefa.com/uefachampionsleague/news/", "https://www.bundesliga.com/de/bundesliga/news/abstiegskampf-34-spieltag-wolfsburg-heidenheim-st-pauli-22755"]
+      },
+      "saisonziel_heim": "Bayern 1. mit 86 Pkt - Meister seit Spieltag 30, Meisterehrung nach Spiel, Heim-Saison-Highlight + Saisonrekord-Tor-Jagd (117 Tore + 35 kassiert bisher)",
+      "saisonziel_gast": "Koeln 14. mit ca. 36 Pkt - laengst gerettet, kein Tabellen-Druck, Saison-Auslauf-Modus auswaerts",
+      "tabellenstand": {"heim_platz": 1, "heim_pkt": 86, "gast_platz": 14, "gast_pkt": 36},
+      "form_heim_letzte_5": "S-N-S-S-S (zuletzt 1:0 Wolfsburg 09.05., davor 3:3 vs PSG CL-HF, davor mehrere Liga-Siege)",
+      "form_gast_letzte_5": "N-S-N-?-? (zuletzt 1:3-Heim-Niederlage vs Heidenheim 10.05.)",
+      "recovery_heim": "Bayern 7 Tage seit 1:0 Wolfsburg-Auswaertssieg 09.05. - voll erholt, keine Pflicht-Termine die Woche",
+      "recovery_gast": "Koeln 6 Tage seit 1:3-Heim-Pleite vs Heidenheim 10.05.",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 1.22,
+          "draw": 7.5,
+          "sieg_gast": 13.0,
+          "ueber_2_5": 1.36,
+          "unter_2_5": 3.0,
+          "ueber_4_5": 1.80,
+          "btts_ja": 1.85,
+          "btts_nein": 1.85,
+          "dc_1x": 1.05,
+          "dc_x2": 4.5,
+          "torschuetzen": {"Olise": 2.05, "Kane": 1.65, "Jackson": 2.50}
+        },
+        "_quelle": "Squawka/Forebet/Goonersguide May 16 2026 Aggregat - bet365 live pruefen"
+      },
+      "news_kompakt": [
+        "Bayern Meisterehrung nach Spiel (35. Titel) - Heim-Saison-Highlight",
+        "DFB-Pokal-Final 24.05. = 8 Tage spaeter, knapp ausserhalb 7-Tage-Schon-Cluster (Stamm-Elf wahrscheinlich)",
+        "Koeln in letzten 8 H2H ohne Sieg gegen Bayern (5 Pleiten in Folge zuletzt)",
+        "Bayern 117 Tore in 33 Spielen (3.5/Spiel) - Tor-Festival-Potenzial",
+        "2:0-Insurance-Regel: gilt fuer Bayern-Sieg-Tipp (Bundesliga)"
+      ],
+      "quellen_aggregator": [
+        "https://www.bundesliga.com/de/bundesliga/news/abstiegskampf-34-spieltag-wolfsburg-heidenheim-st-pauli-22755",
+        "https://www.kicker.de/bundesliga/tabelle",
+        "https://www.fussballdaten.de/bundesliga/2026/34/"
+      ]
+    },
+    {
+      "id": "2026-05-16-brm-bvb",
+      "liga": "Bundesliga",
+      "matchday": 34,
+      "heim": "SV Werder Bremen",
+      "gast": "Borussia Dortmund",
+      "anstoss": "2026-05-16T15:30:00+02:00",
+      "stadion": "Weserstadion, Bremen",
+      "squad_heim": [
+        {"name": "Michael Zetterer", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.werder.de"},
+        {"name": "Marvin Ducksch", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.werder.de"},
+        {"name": "Romano Schmid", "nummer": null, "position": "OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.werder.de"},
+        {"name": "Mitchell Weiser", "nummer": null, "position": "RV/RM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.werder.de"}
+      ],
+      "squad_gast": [
+        {"name": "Gregor Kobel", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.bvb.de/Teams/Profis"},
+        {"name": "Serhou Guirassy", "nummer": 9, "position": "ST", "saison_tore": 16, "letzte_5_spiele_tore": 2, "verifiziert_via": "https://www.bvb.de/Teams/Profis", "hinweis": "Top-9er. Joker-Tor mit 100% Schuss-Genauigkeit zuletzt."},
+        {"name": "Julian Brandt", "nummer": null, "position": "OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.bvb.de/Teams/Profis"},
+        {"name": "Maximilian Beier", "nummer": null, "position": "ST/RF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.bvb.de/Teams/Profis"},
+        {"name": "Julian Ryerson", "nummer": null, "position": "RV", "saison_tore": null, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.bvb.de/Teams/Profis", "hinweis": "14 Assists Saison."},
+        {"name": "Karim Adeyemi", "nummer": null, "position": "LF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.bvb.de/Teams/Profis"}
+      ],
+      "injuries_heim": [],
+      "injuries_gast": [],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Bremen kein UEFA-Termin",
+        "gast": "keine - BVB CL-Achtelfinale (April) bereits ausgeschieden, kein Pflicht-Final-Termin in 14 Tagen",
+        "quellen": ["https://www.uefa.com/uefachampionsleague/", "https://www.kicker.de/bundesliga/tabelle"]
+      },
+      "saisonziel_heim": "Bremen 15. mit 32 Pkt - laengst gerettet ueber 16. Platz hinaus, kein Tabellen-Druck, Saison-Auslauf",
+      "saisonziel_gast": "BVB 2. mit ca. 70 Pkt - CL-Quali-Platz + Vize-Meister-Position mathematisch praktisch gesichert. Keine direkte Saisonziel-Pflicht-Bedingung",
+      "tabellenstand": {"heim_platz": 15, "heim_pkt": 32, "gast_platz": 2, "gast_pkt": 70},
+      "form_heim_letzte_5": "N-N-?-?-? (zuletzt 0:1 Heim vs Hoffenheim 09.05., 18 Niederlagen in 33 Spielen)",
+      "form_gast_letzte_5": "U-S-S-S-S (zuletzt 1:1 Heim vs Frankfurt 09.05., davor 3:2 in Frankfurt am 08.05.)",
+      "recovery_heim": "Bremen 7 Tage seit 0:1 Hoffenheim-Heim-Pleite 09.05.",
+      "recovery_gast": "BVB 7 Tage seit Heim 1:1 vs Frankfurt 09.05. - voll erholt",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 5.50,
+          "draw": 4.20,
+          "sieg_gast": 1.60,
+          "ueber_2_5": 1.65,
+          "unter_2_5": 2.20,
+          "btts_ja": 1.65,
+          "btts_nein": 2.20,
+          "dc_1x": 2.40,
+          "dc_x2": 1.30,
+          "torschuetzen": {"Guirassy": 2.05, "Brandt": 4.00, "Beier": 3.50, "Adeyemi": 4.50}
+        },
+        "_quelle": "Forebet/Squawka/oddspedia/Dailysports 16.05. (Dachbet 21/20 Guirassy)"
+      },
+      "news_kompakt": [
+        "Bremen 15.: 18 Niederlagen in 33 Spielen, 24% Saisonquote",
+        "BVB 2. mit Guirassy 16 BL-Tore + Ryerson 14 Assists",
+        "BVB unbeaten in letzten 6 BL-Spielen gegen Bremen (4 Siege, 2 Remis)",
+        "Beide Teams ohne UEFA-Doppelbelastung und ohne unmittelbares Final-Termin"
+      ],
+      "quellen_aggregator": [
+        "https://dailysports.net/predictions/werder-vs-borussia-dortmund-prediction-h2h-and-probable-lineups-may-16-2026/",
+        "https://www.bundesliga.com/de/bundesliga/news/abstiegskampf-34-spieltag-wolfsburg-heidenheim-st-pauli-22755",
+        "https://www.kicker.de/bundesliga/tabelle"
+      ]
+    },
+    {
+      "id": "2026-05-16-sge-vfb",
+      "liga": "Bundesliga",
+      "matchday": 34,
+      "heim": "Eintracht Frankfurt",
+      "gast": "VfB Stuttgart",
+      "anstoss": "2026-05-16T15:30:00+02:00",
+      "stadion": "Deutsche Bank Park, Frankfurt",
+      "squad_heim": [
+        {"name": "Kaua Santos", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://en.eintracht.de/"},
+        {"name": "Jonathan Burkardt", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.eintracht.de/"},
+        {"name": "Mario Goetze", "nummer": null, "position": "OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.eintracht.de/"},
+        {"name": "Hugo Ekitike", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.eintracht.de/"}
+      ],
+      "squad_gast": [
+        {"name": "Alexander Nuebel", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.vfb.de/"},
+        {"name": "Ermedin Demirovic", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.vfb.de/", "hinweis": "Stuttgart-Topscorer in Form. Torschuetzen-Quote 2.30 (Easyodds-Aggregat)."},
+        {"name": "Deniz Undav", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.vfb.de/"},
+        {"name": "Jamie Leweling", "nummer": null, "position": "LF/RF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.vfb.de/"},
+        {"name": "Enzo Millot", "nummer": null, "position": "OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.vfb.de/"}
+      ],
+      "injuries_heim": [],
+      "injuries_gast": [],
+      "parallele_wettbewerbe": {
+        "heim": "keine",
+        "gast": "keine - Stuttgart kein UEFA-Termin diese Saison",
+        "quellen": ["https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-2025-2026-vfb-stuttgart-bayer-leverkusen-duell-champions-league-100.html"]
+      },
+      "saisonziel_heim": "Frankfurt 8.-10. Mid-Table, Conference-Quali theoretisch noch moeglich aber unklar - flacher Druck",
+      "saisonziel_gast": "Stuttgart 4. - PFLICHTSIEG fuer CL-Quali in eigener Hand (vor Hoffenheim/Leverkusen punktgleich/dahinter). Klare Saisonziel-Asymmetrie",
+      "tabellenstand": {"heim_platz": 9, "heim_pkt": 43, "gast_platz": 4, "gast_pkt": 61},
+      "form_heim_letzte_5": "U-N-?-?-? (zuletzt 1:1 in BVB 09.05.)",
+      "form_gast_letzte_5": "S-N-?-?-? (zuletzt 3:1 Heim vs Leverkusen 09.05. - Sensations-Sieg, erster Heimsieg vs Lev seit 16 Jahren)",
+      "recovery_heim": "Frankfurt 7 Tage seit 1:1 in BVB - voll erholt",
+      "recovery_gast": "Stuttgart 7 Tage seit 3:1-Sieg vs Lev - Topform + voll erholt",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 3.50,
+          "draw": 3.60,
+          "sieg_gast": 1.98,
+          "ueber_2_5": 1.75,
+          "unter_2_5": 2.05,
+          "btts_ja": 1.60,
+          "btts_nein": 2.30,
+          "dc_1x": 1.75,
+          "dc_x2": 1.30,
+          "torschuetzen": {"Demirovic": 2.30, "Undav": 2.50, "Burkardt": 3.20, "Ekitike": 3.50}
+        },
+        "_quelle": "Betwinner/Betfair via Easyodds/Squawka 16.05."
+      },
+      "news_kompakt": [
+        "Stuttgart kann mit Sieg CL-Quali aus eigener Hand sichern (Pole Position nach 3:1 vs Lev)",
+        "Hoffenheim parallel BMG, Lev parallel HSV - 3-Way um Plaetze 4-6",
+        "Stuttgart 3:1 vs Lev = erster Heim-Sieg gegen Lev seit 16 Jahren",
+        "Frankfurt-Tabelle Mid-Top-Mittelfeld, flacher Druck"
+      ],
+      "quellen_aggregator": [
+        "https://en.eintracht.de/news/vorschau-die-entscheidung-eintracht-frankfurt-vfb-stuttgart-34-spieltag-177459/",
+        "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-2025-2026-vfb-stuttgart-bayer-leverkusen-duell-champions-league-100.html",
+        "https://easyodds.com/eintracht-frankfurt-vs-vfb-stuttgart-betting-odds-tips-predictions-preview-16th-may-2026"
+      ]
+    },
+    {
+      "id": "2026-05-16-lev-hsv",
+      "liga": "Bundesliga",
+      "matchday": 34,
+      "heim": "Bayer 04 Leverkusen",
+      "gast": "Hamburger SV",
+      "anstoss": "2026-05-16T15:30:00+02:00",
+      "stadion": "BayArena, Leverkusen",
+      "squad_heim": [
+        {"name": "Lukas Hradecky / Niklas Lomb", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.bayer04.de"},
+        {"name": "Martin Terrier", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.bayer04.de", "hinweis": "Schick-Saison-OUT Backup-Pflicht. Startelf-Stuermer erwartet."},
+        {"name": "Florian Wirtz", "nummer": null, "position": "OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.bayer04.de"},
+        {"name": "Alejandro Grimaldo", "nummer": null, "position": "LV/LF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.bayer04.de"}
+      ],
+      "squad_gast": [
+        {"name": "Daniel Heuer Fernandes", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.hsv.de"},
+        {"name": "Robert Glatzel", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.hsv.de"},
+        {"name": "Ransford Königsdörffer", "nummer": null, "position": "LF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.hsv.de"}
+      ],
+      "injuries_heim": ["Patrik Schick (Muskel, Saison-OUT)", "Eliesse Ben Seghir (Africa Cup, OUT)", "Exequiel Palacios (Leiste, OUT)"],
+      "injuries_gast": ["Aboubaka Soumahoro (OUT)", "Warmed Omari (OUT)", "Daniel Elfadli (Sperre, OUT)"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - kein UEFA-Termin (Lev EL-Vorrunde ausgeschieden)",
+        "gast": "keine",
+        "quellen": ["https://www.uefa.com/uefaeuropaleague/", "https://www.kicker.de/bundesliga/tabelle"]
+      },
+      "saisonziel_heim": "Leverkusen 6. mit 58 Pkt - CL-Quali-Hoffnung nur theoretisch (braucht Sieg + parallel Niederlagen Stuttgart UND Hoffenheim). EL-Platz garantiert via Vize-Vorjahr",
+      "saisonziel_gast": "HSV 11. Mid-Table, Aufsteiger-Saison, keine Quali-Pflicht, Saison-Auslauf-Modus",
+      "tabellenstand": {"heim_platz": 6, "heim_pkt": 58, "gast_platz": 11, "gast_pkt": 38},
+      "form_heim_letzte_5": "N-?-?-?-? (zuletzt 1:3 in Stuttgart 09.05.)",
+      "form_gast_letzte_5": "S-?-?-?-? (zuletzt 3:2 Heim vs Freiburg 10.05.)",
+      "recovery_heim": "Lev 7 Tage seit 1:3-Niederlage in Stuttgart - reagieren wollen",
+      "recovery_gast": "HSV 6 Tage seit 3:2-Sieg vs Freiburg",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 1.30,
+          "draw": 5.50,
+          "sieg_gast": 9.50,
+          "ueber_2_5": 1.65,
+          "unter_2_5": 2.20,
+          "btts_ja": 2.05,
+          "btts_nein": 1.65,
+          "dc_1x": 1.07,
+          "dc_x2": 3.50,
+          "torschuetzen": {"Terrier": 2.75, "Wirtz": 2.40, "Grimaldo": 4.50}
+        },
+        "_quelle": "Easyodds + Sportsmole + Sport.de 14.05. (76% implied Lev-Sieg)"
+      },
+      "news_kompakt": [
+        "Schick Saison-OUT (Muskel) bestaetigt - Terrier Startelf-Stuermer-Pflicht",
+        "Lev hat 76% Sieg-Implied-Quote nach Wahrscheinlichkeit (Sport.de)",
+        "BTTS-NEIN bei 13/10 - Lev-Defense + HSV-Toreschwierigkeiten sprechen fuer Heim-Zu-null",
+        "Lev braucht Pflichtsieg + Drittspiel-Hilfe fuer CL-Quali (3-Way mit Stuttgart/Hoffenheim)"
+      ],
+      "quellen_aggregator": [
+        "https://easyodds.com/bayer-leverkusen-vs-hamburger-sv-betting-odds-tips-predictions-preview-16th-may-2026",
+        "https://www.sportsmole.co.uk/football/hamburger-sv/preview/hamburger-sv-vs-b-leverkusen-prediction-team-news-lineups_589643.html",
+        "https://www.kicker.de/bundesliga/tabelle"
+      ]
+    },
+    {
+      "id": "2026-05-16-fch-m05",
+      "liga": "Bundesliga",
+      "matchday": 34,
+      "heim": "1. FC Heidenheim",
+      "gast": "1. FSV Mainz 05",
+      "anstoss": "2026-05-16T15:30:00+02:00",
+      "stadion": "Voith-Arena, Heidenheim",
+      "squad_heim": [
+        {"name": "Diant Ramaj / Mueller", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.fc-heidenheim.de"},
+        {"name": "Marvin Pieringer", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.fc-heidenheim.de"}
+      ],
+      "squad_gast": [
+        {"name": "Robin Zentner", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.mainz05.de"},
+        {"name": "Jonathan Burkardt / Lee Jae-sung", "nummer": null, "position": "ST/OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.mainz05.de"}
+      ],
+      "injuries_heim": [],
+      "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine", "gast": "keine", "quellen": ["https://www.kicker.de/bundesliga/tabelle"]},
+      "saisonziel_heim": "Heidenheim 17. mit 26 Pkt - PFLICHTSIEG fuer Klassenerhalt-Hoffnung (3-Way mit Wolfsburg/St.Pauli), schlechteste Tor-Differenz. Direkter Abstiegs-Showdown-Tag",
+      "saisonziel_gast": "Mainz 10. mit 37 Pkt - laengst gerettet, keine Quali-Pflicht, Saison-Auslauf-Modus",
+      "tabellenstand": {"heim_platz": 17, "heim_pkt": 26, "gast_platz": 10, "gast_pkt": 37},
+      "form_heim_letzte_5": "S-U-U-?-? (3 Spiele in Folge ohne Niederlage: 3:3 vs Bayern, 2:0 vs St.Pauli, 3:1 in Koeln auswaerts 10.05.)",
+      "form_gast_letzte_5": "N-?-?-?-? (zuletzt 1:3 Heim-Pleite vs Union Berlin 10.05.)",
+      "recovery_heim": "Heidenheim 6 Tage seit 3:1-Auswaertssieg in Koeln - laufen heiss vor Showdown",
+      "recovery_gast": "Mainz 6 Tage seit 1:3-Heim-Pleite vs Union",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 2.09,
+          "draw": 3.70,
+          "sieg_gast": 3.25,
+          "ueber_2_5": 2.00,
+          "unter_2_5": 1.80,
+          "btts_ja": 1.70,
+          "btts_nein": 2.10,
+          "dc_1x": 1.40,
+          "dc_x2": 1.65
+        },
+        "_quelle": "Sport.de Quoten-Aggregat 16.05.2026"
+      },
+      "news_kompakt": [
+        "3-Way Abstiegs-Konstellation noch nie dagewesen in BL: St.Pauli/Wolfsburg/Heidenheim alle 26 Pkt",
+        "Heidenheim 3 Spiele in Folge ungeschlagen (3:1 in Koeln auswaerts) - laufen heiss",
+        "Mainz klar gerettet, 1:3 Heim-Pleite vor 6 Tagen vs Union",
+        "Mainz letzte 2 H2H gegen Heidenheim gewonnen - aber andere Saisonphase"
+      ],
+      "quellen_aggregator": [
+        "https://www.sport.de/sportwetten/tipps/1-fc-heidenheim-1846-vs-mainz-05-wett-tipp-16-05-2026/",
+        "https://www.sport1.de/news/fussball/bundesliga/2026/05/sieg-in-koeln-heidenheim-sorgt-fuer-spannendes-abstiegsfinale",
+        "https://www.kicker.de/bundesliga/tabelle"
+      ]
+    },
+    {
+      "id": "2026-05-16-stp-wob",
+      "liga": "Bundesliga",
+      "matchday": 34,
+      "heim": "FC St. Pauli",
+      "gast": "VfL Wolfsburg",
+      "anstoss": "2026-05-16T15:30:00+02:00",
+      "stadion": "Millerntor-Stadion, Hamburg",
+      "squad_heim": [
+        {"name": "Nikola Vasilj", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.fcstpauli.com"},
+        {"name": "Oladapo Afolayan", "nummer": null, "position": "RF/ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.fcstpauli.com"}
+      ],
+      "squad_gast": [
+        {"name": "Kamil Grabara", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.vfl-wolfsburg.de"},
+        {"name": "Mohamed Amoura", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.vfl-wolfsburg.de"}
+      ],
+      "injuries_heim": [],
+      "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine", "gast": "keine", "quellen": ["https://www.bundesliga.com/de/bundesliga/news/abstiegskampf-34-spieltag-wolfsburg-heidenheim-st-pauli-22755"]},
+      "saisonziel_heim": "St.Pauli 18. mit 26 Pkt - 3-Way punktgleich Abstiegsplaetze, NUR Sieg rettet (sonst direkter Abstieg oder Relegation)",
+      "saisonziel_gast": "Wolfsburg 16. mit 26 Pkt - 3-Way punktgleich, Sieg sichert Klassenerhalt sicher (mind. Relegation bei Niederlage)",
+      "tabellenstand": {"heim_platz": 18, "heim_pkt": 26, "gast_platz": 16, "gast_pkt": 26},
+      "form_heim_letzte_5": "N-?-?-?-? (zuletzt 0:2 Heim vs Heidenheim, davor 1:2 in Leipzig 09.05.)",
+      "form_gast_letzte_5": "N-?-?-?-? (zuletzt 0:1 Heim-Pleite vs Bayern 09.05.)",
+      "recovery_heim": "St.Pauli 7 Tage seit 1:2 in Leipzig - im Druck-Modus",
+      "recovery_gast": "Wolfsburg 7 Tage seit 0:1 vs Bayern - im Druck-Modus",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 2.75,
+          "draw": 3.70,
+          "sieg_gast": 2.30,
+          "ueber_2_5": 1.95,
+          "unter_2_5": 1.85,
+          "btts_ja": 1.85,
+          "btts_nein": 1.95
+        },
+        "_quelle": "Wettfreunde/Wetttippsheute 16.05."
+      },
+      "news_kompakt": [
+        "DIREKTES ABSTIEGS-DUELL - beide muessen gewinnen",
+        "Coinflip-Profil 1X2-Quoten 2.30-3.70",
+        "Wolfsburg in letzten 3 H2H ungeschlagen (1 Sieg, 2 Remis) gegen St.Pauli",
+        "Wolfsburg-St.Pauli H2H letzte 3 nur 5 Tore total = defensive Begegnungen",
+        "Abstiegs-Endspiele oft hektisch + Schlussminuten-Drama"
+      ],
+      "quellen_aggregator": [
+        "https://www.wettfreunde.net/sportwetten-news/bundesliga-abstieg-szenarien-2026/",
+        "https://www.wetttippsheute.net/fc-st-pauli-vfl-wolfsburg-wett-tipp-quoten-16-05-2026/",
+        "https://www.bundesliga.com/de/bundesliga/news/abstiegskampf-34-spieltag-wolfsburg-heidenheim-st-pauli-22755"
+      ]
+    },
+    {
+      "id": "2026-05-16-scf-rbl",
+      "liga": "Bundesliga",
+      "matchday": 34,
+      "heim": "SC Freiburg",
+      "gast": "RB Leipzig",
+      "anstoss": "2026-05-16T15:30:00+02:00",
+      "stadion": "Europa-Park Stadion, Freiburg",
+      "squad_heim": [
+        {"name": "Noah Atubolu", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.scfreiburg.com"},
+        {"name": "Vincenzo Grifo", "nummer": null, "position": "LF/OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.scfreiburg.com", "hinweis": "Rotation wahrscheinlich vor EL-Final 20.05."},
+        {"name": "Michael Gregoritsch", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.scfreiburg.com", "hinweis": "Rotation wahrscheinlich vor EL-Final 20.05."}
+      ],
+      "squad_gast": [
+        {"name": "Peter Gulacsi / Maarten Vandevoordt", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.rbleipzig.com"},
+        {"name": "Loic Openda", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.rbleipzig.com"},
+        {"name": "Xavi Simons", "nummer": null, "position": "OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.rbleipzig.com"}
+      ],
+      "injuries_heim": [],
+      "injuries_gast": [],
+      "parallele_wettbewerbe": {
+        "heim": "Europa League FINALE 20.05.2026 (Mi) gegen Aston Villa in Istanbul = NUR 4 TAGE NACH DIESEM SPIEL - AUTO-SCHON-MODUS aktiviert",
+        "gast": "keine - Leipzig kein UEFA-Termin",
+        "quellen": [
+          "https://www.sportschau.de/regional/swr/swr-freiburgs-final-spagat-so-blickt-der-sc-auf-die-zwei-endspiele-100.html",
+          "https://de.uefa.com/uefaeuropaleague/match/2047743--freiburg-vs-aston-villa/final/"
+        ]
+      },
+      "saisonziel_heim": "Freiburg 7. mit ca. 47 Pkt - keine direkte Liga-Quali-Pflicht (EL-Final-Sieg waere alternative CL-Quali). Final ist ALLES, BL-Spiel ist NEBENSACHE",
+      "saisonziel_gast": "Leipzig 3. - CL-Quali bereits gesichert. Kein Tabellen-Druck",
+      "tabellenstand": {"heim_platz": 7, "heim_pkt": 47, "gast_platz": 3, "gast_pkt": 65},
+      "form_heim_letzte_5": "N-?-?-?-? (zuletzt 2:3 in Hamburg 10.05.)",
+      "form_gast_letzte_5": "S-?-?-?-? (zuletzt 2:1 Heim vs St.Pauli 09.05.)",
+      "recovery_heim": "Freiburg muss Topform-Spieler in Watte packen fuer Final - Rotation 5-7 Spieler erwartet",
+      "recovery_gast": "Leipzig 7 Tage seit letztem Spiel, voll erholt aber motivations-flat",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 2.60,
+          "draw": 4.10,
+          "sieg_gast": 2.47,
+          "ueber_2_5": 1.80,
+          "unter_2_5": 2.00,
+          "btts_ja": 1.65,
+          "btts_nein": 2.20,
+          "dc_1x": 1.65,
+          "dc_x2": 1.50
+        },
+        "_quelle": "Wincomparator/Bet365 16.05."
+      },
+      "news_kompakt": [
+        "Freiburg EL-Final 20.05.2026 vs Aston Villa in Istanbul - 4 Tage spaeter (AUTO-SCHON-Cluster)",
+        "Leipzig 3. Platz bereits sicher - motivations-frei",
+        "Lev/Hoffenheim/Stuttgart kaempfen parallel um CL-Quali - keine direkte Auswirkung auf Freiburg",
+        "Leipzig leicht Favorit (auch wegen Freiburg-Schon-These)"
+      ],
+      "quellen_aggregator": [
+        "https://www.sportschau.de/regional/swr/swr-freiburgs-final-spagat-so-blickt-der-sc-auf-die-zwei-endspiele-100.html",
+        "https://rbleipzig.com/de/news/spielvorschau-sc-freiburg-vs-rb-leipzig-bundesliga-am-16-mai-2026",
+        "https://de.uefa.com/uefaeuropaleague/match/2047743--freiburg-vs-aston-villa/final/",
+        "https://www.wincomparator.com/de/tipps/freiburg-leipzig-7680165/"
+      ]
+    },
+    {
+      "id": "2026-05-16-bmg-tsg",
+      "liga": "Bundesliga",
+      "matchday": 34,
+      "heim": "Borussia Moenchengladbach",
+      "gast": "TSG Hoffenheim",
+      "anstoss": "2026-05-16T15:30:00+02:00",
+      "stadion": "Borussia-Park, Moenchengladbach",
+      "squad_heim": [
+        {"name": "Moritz Nicolas", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.borussia.de"},
+        {"name": "Tim Kleindienst", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.borussia.de"}
+      ],
+      "squad_gast": [
+        {"name": "Oliver Baumann", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.achtzehn99.de"},
+        {"name": "Andrej Kramaric", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.achtzehn99.de"}
+      ],
+      "injuries_heim": [],
+      "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine", "gast": "keine", "quellen": ["https://www.kicker.de/bundesliga/tabelle"]},
+      "saisonziel_heim": "BMG 11. Mid-Table, laengst gerettet - keine Quali-Pflicht",
+      "saisonziel_gast": "Hoffenheim 5. mit 61 Pkt - CL-Quali-Pflichtsieg-Profil (punktgleich Stuttgart), abhaengig auch von Drittspielen aber Pflichtsieg eigener Anteil",
+      "tabellenstand": {"heim_platz": 11, "heim_pkt": 38, "gast_platz": 5, "gast_pkt": 61},
+      "form_heim_letzte_5": "N-?-?-?-? (zuletzt 1:3 in Augsburg 09.05.)",
+      "form_gast_letzte_5": "S-?-?-?-? (zuletzt 1:0 Heim vs Bremen 09.05.)",
+      "recovery_heim": "BMG 7 Tage seit 1:3 in Augsburg",
+      "recovery_gast": "Hoffenheim 7 Tage seit 2:0 Heimsieg vs Bremen - in Form (Quelle korrigiert: 1:0 laut fussballdaten)",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 3.00,
+          "draw": 3.50,
+          "sieg_gast": 2.30,
+          "ueber_2_5": 1.85,
+          "unter_2_5": 1.95,
+          "btts_ja": 1.65,
+          "btts_nein": 2.20,
+          "dc_1x": 1.65,
+          "dc_x2": 1.45
+        },
+        "_quelle": "Aggregator-Schaetzung 14.05."
+      },
+      "news_kompakt": [
+        "Hoffenheim braucht Sieg fuer CL-Quali-Hoffnung (gleichauf mit Stuttgart)",
+        "BMG laengst gerettet, motivations-arm Mid-Table-Auslauf",
+        "Hoffenheim 5. mit 61 Pkt, Stuttgart 4. mit 61 Pkt - direkter Plaetze-Tausch moeglich"
+      ],
+      "quellen_aggregator": [
+        "https://www.bundesliga.com/de/bundesliga/news/abstiegskampf-34-spieltag-wolfsburg-heidenheim-st-pauli-22755",
+        "https://www.kicker.de/bundesliga/tabelle",
+        "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-2025-2026-vfb-stuttgart-bayer-leverkusen-duell-champions-league-100.html"
+      ]
+    },
+    {
+      "id": "2026-05-16-fcu-fca",
+      "liga": "Bundesliga",
+      "matchday": 34,
+      "heim": "1. FC Union Berlin",
+      "gast": "FC Augsburg",
+      "anstoss": "2026-05-16T15:30:00+02:00",
+      "stadion": "Stadion An der Alten Foersterei, Berlin",
+      "squad_heim": [
+        {"name": "Frederik Roennow", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.fc-union-berlin.de"},
+        {"name": "Andrej Ilic", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.fc-union-berlin.de"}
+      ],
+      "squad_gast": [
+        {"name": "Nediljko Labrovic", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.fcaugsburg.de"},
+        {"name": "Phillip Tietz", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.fcaugsburg.de"}
+      ],
+      "injuries_heim": ["Woo-yeong Jeong (OUT)", "David Preu (OUT)", "Matheo Raab (OUT)", "Robert Skov (OUT)"],
+      "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine", "gast": "keine", "quellen": ["https://www.kicker.de/bundesliga/tabelle"]},
+      "saisonziel_heim": "Union 12. mit 36 Pkt - 3 Niederlagen in letzten 6 Spielen, kein Tabellen-Druck mehr",
+      "saisonziel_gast": "Augsburg 9. mit 43 Pkt - 1 Pkt hinter Freiburg im 7.-Platz-Kampf um Conference-Quali. Muss gewinnen + Freiburg-Niederlage = Pflichtsieg-Profil moeglich",
+      "tabellenstand": {"heim_platz": 12, "heim_pkt": 36, "gast_platz": 9, "gast_pkt": 43},
+      "form_heim_letzte_5": "S-?-?-?-? (zuletzt 3:1-Auswaertssieg in Mainz 10.05.)",
+      "form_gast_letzte_5": "S-?-?-?-? (zuletzt 3:1 Heim vs BMG 09.05.)",
+      "recovery_heim": "Union 6 Tage seit 3:1 in Mainz",
+      "recovery_gast": "Augsburg 7 Tage seit 3:1 vs BMG, leichter Saisonziel-Druck",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 2.30,
+          "draw": 3.50,
+          "sieg_gast": 2.95,
+          "ueber_2_5": 2.10,
+          "unter_2_5": 1.70,
+          "btts_ja": 1.85,
+          "btts_nein": 1.95,
+          "dc_1x": 1.45,
+          "dc_x2": 1.65
+        },
+        "_quelle": "Sportskeeda/Forebet/Fotmob 16.05."
+      },
+      "news_kompakt": [
+        "Augsburg 1 Pkt hinter Freiburg in 7.-Platz/Conference-Quali-Kampf - braucht Sieg + Freiburg-Niederlage",
+        "Augsburg ungeschlagen in letzten 5 Auswaerts-Vergleichen in Berlin (2W 3D, seit 2:0-Pleite Januar 2020)",
+        "Union 3 Niederlagen in letzten 6 - kein Druck mehr, Saison-Auslauf"
+      ],
+      "quellen_aggregator": [
+        "https://www.espn.com/soccer/match/_/gameId/747016/fc-augsburg-1-fc-union-berlin",
+        "https://www.fotmob.com/matches/union-berlin-vs-fc-augsburg/29lgzs",
+        "https://www.sportskeeda.com/football/union-berlin-vs-augsburg-prediction-betting-tips-may-16th-2026"
+      ]
+    },
+    {
+      "id": "2026-05-16-che-mci",
+      "liga": "FA Cup Finale",
+      "heim": "Chelsea FC",
+      "gast": "Manchester City FC",
+      "anstoss": "2026-05-16T17:00:00+02:00",
+      "stadion": "Wembley Stadium, London",
+      "squad_heim": [
+        {"name": "Robert Sanchez", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.chelseafc.com"},
+        {"name": "Malo Gusto", "nummer": null, "position": "RV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.chelseafc.com"},
+        {"name": "Trevoh Chalobah", "nummer": null, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.chelseafc.com"},
+        {"name": "Tosin Adarabioyo", "nummer": null, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.chelseafc.com"},
+        {"name": "Marc Cucurella", "nummer": null, "position": "LV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.chelseafc.com"},
+        {"name": "Moises Caicedo", "nummer": null, "position": "DM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.chelseafc.com"},
+        {"name": "Romeo Lavia", "nummer": null, "position": "DM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.chelseafc.com"},
+        {"name": "Pedro Neto", "nummer": null, "position": "RF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.chelseafc.com"},
+        {"name": "Enzo Fernandez", "nummer": null, "position": "OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.chelseafc.com", "hinweis": "Tor-Schuetze im SF gegen Leeds."},
+        {"name": "Alejandro Garnacho", "nummer": null, "position": "LF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.chelseafc.com"},
+        {"name": "Joao Pedro", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.chelseafc.com"}
+      ],
+      "squad_gast": [
+        {"name": "James Trafford", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.mancity.com"},
+        {"name": "Matheus Nunes", "nummer": null, "position": "RV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.mancity.com"},
+        {"name": "John Stones", "nummer": null, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.mancity.com"},
+        {"name": "Nathan Ake", "nummer": null, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.mancity.com"},
+        {"name": "Rayan Ait-Nouri", "nummer": null, "position": "LV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.mancity.com"},
+        {"name": "Nico Gonzalez", "nummer": null, "position": "DM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.mancity.com"},
+        {"name": "Mateo Kovacic", "nummer": null, "position": "ZM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.mancity.com"},
+        {"name": "Tijjani Reijnders", "nummer": null, "position": "ZM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.mancity.com"},
+        {"name": "Rayan Cherki", "nummer": null, "position": "OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.mancity.com"},
+        {"name": "Phil Foden", "nummer": null, "position": "OM/RF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.mancity.com"},
+        {"name": "Omar Marmoush", "nummer": null, "position": "LF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.mancity.com"},
+        {"name": "Erling Haaland", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": 4, "verifiziert_via": "https://www.mancity.com", "hinweis": "Hatrick gegen Liverpool im FA-Cup-VF (4:0). Status fuer Final unklar - Pep schonte zuletzt vor Crystal Palace 13.05."}
+      ],
+      "injuries_heim": [],
+      "injuries_gast": [],
+      "parallele_wettbewerbe": {
+        "heim": "Premier League MD37 19.05. (Spiel verlegt auf Di wegen FA-Cup-Final) - 3 Tage spaeter",
+        "gast": "Premier League MD37 19.05. (Bournemouth-City verlegt auf Di) - 3 Tage spaeter; PL-Titel-Verfolgung 2 Pkt hinter Arsenal mit 1-2 Spielen offen",
+        "quellen": [
+          "https://en.wikipedia.org/wiki/2026_FA_Cup_final",
+          "https://www.thefa.com/news/2026/may/11/emirates-fa-cup-final-chelsea-v-manchester-city-stats-20261105"
+        ]
+      },
+      "saisonziel_heim": "Chelsea PL-Top-6 - moegliche EL/Conf-Quali, aber FA-Cup-Final ist Saison-Highlight nach Conference-Sieg Vorjahr. Trophaen-Routine fortsetzen",
+      "saisonziel_gast": "Man City 2. mit 77 Pkt, kaempft um PL-Titel + FA-Cup (4. Cup-Final in Folge - Rekord!). Cup-Double + Saisonrettungs-Trophy",
+      "tabellenstand": {"heim_platz": 6, "heim_pkt": 53, "gast_platz": 2, "gast_pkt": 77},
+      "form_heim_letzte_5": "N-N-N-?-? (7 PL-Pleiten in letzten 7 Spielen Form)",
+      "form_gast_letzte_5": "S-S-?-?-? (Haaland Hatrick gegen Liverpool im VF, dann gegen Crystal Palace 13.05.)",
+      "recovery_heim": "Chelsea 1 Woche Pause vorm Final - voll konzentriert",
+      "recovery_gast": "City 1 Woche Pause vorm Final - voll konzentriert (Haaland-Status Final-relevant)",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 4.20,
+          "draw": 3.60,
+          "sieg_gast": 1.90,
+          "ueber_2_5": 1.85,
+          "unter_2_5": 1.95,
+          "btts_ja": 1.70,
+          "btts_nein": 2.10,
+          "dc_1x": 1.85,
+          "dc_x2": 1.27,
+          "torschuetzen": {"Haaland": 2.10, "Foden": 3.50, "Marmoush": 3.75, "Joao Pedro": 3.75, "Garnacho": 4.50}
+        },
+        "_quelle": "Williamhill/Dailysports/Bet365 14.05."
+      },
+      "news_kompakt": [
+        "Chelsea 17. FA-Cup-Final aller Zeiten + 1. seit 2022 (damals 3. Niederlage in Folge)",
+        "Man City 15. FA-Cup-Final + 4. in Folge (Rekord) - jagen 8. Titel",
+        "Haaland Hatrick gegen Liverpool im VF (4:0) - in Top-Form",
+        "Chelsea PL 7 Pleiten in 7 letzten Form - aber Cup-Form besser",
+        "2:0-Insurance-Regel: gilt NICHT (FA-Cup, nicht BL/CL)"
+      ],
+      "quellen_aggregator": [
+        "https://en.wikipedia.org/wiki/2026_FA_Cup_final",
+        "https://www.chelseafc.com/en/match/chelsea-vs-manchester-city-english-fa-cup-2026-05-16",
+        "https://www.thefa.com/news/2026/may/11/emirates-fa-cup-final-chelsea-v-manchester-city-stats-20261105"
+      ]
+    },
+    {
+      "id": "2026-05-17-mun-nfo",
+      "liga": "Premier League",
+      "matchday": 37,
+      "heim": "Manchester United",
+      "gast": "Nottingham Forest",
+      "anstoss": "2026-05-17T13:30:00+02:00",
+      "stadion": "Old Trafford, Manchester",
+      "squad_heim": [
+        {"name": "Andre Onana / Senne Lammens", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.manutd.com"},
+        {"name": "Bryan Mbeumo", "nummer": null, "position": "RF/ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.manutd.com"},
+        {"name": "Matheus Cunha", "nummer": null, "position": "ST/OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.manutd.com"},
+        {"name": "Benjamin Sesko", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.manutd.com"}
+      ],
+      "squad_gast": [
+        {"name": "Matz Sels", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.nottinghamforest.co.uk"},
+        {"name": "Chris Wood", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.nottinghamforest.co.uk"},
+        {"name": "Morgan Gibbs-White", "nummer": null, "position": "OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.nottinghamforest.co.uk"}
+      ],
+      "injuries_heim": [],
+      "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine", "gast": "keine - Forest kein UEFA-Termin diese Saison", "quellen": ["https://www.premierleague.com/"]},
+      "saisonziel_heim": "ManU 3. mit 65 Pkt - CL-Quali fast gesichert, kein scharfer Druck",
+      "saisonziel_gast": "Forest 16. mit 43 Pkt - Mid-Table gesichert, kein scharfer Druck",
+      "tabellenstand": {"heim_platz": 3, "heim_pkt": 65, "gast_platz": 16, "gast_pkt": 43},
+      "form_heim_letzte_5": "S-U-?-?-? (1 Niederlage in letzten 6: 3W 2D 1L)",
+      "form_gast_letzte_5": "S-U-?-?-? (unbeaten in letzten 8 PL: 4W 4D)",
+      "recovery_heim": "ManU 4 Tage seit letztem Spiel",
+      "recovery_gast": "Forest 4 Tage seit letztem Spiel",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 1.85,
+          "draw": 3.80,
+          "sieg_gast": 4.20,
+          "ueber_2_5": 1.62,
+          "unter_2_5": 2.30,
+          "btts_ja": 1.65,
+          "btts_nein": 2.20,
+          "dc_1x": 1.25,
+          "dc_x2": 2.05,
+          "torschuetzen": {"Sesko": 2.85, "Cunha": 2.75, "Mbeumo": 2.95, "Wood": 3.50}
+        },
+        "_quelle": "Bet365 via Statsinsider/Forebet 14.05."
+      },
+      "news_kompakt": [
+        "ManU 3. mit 65 Pkt, Forest 16. mit 43 Pkt - Tabellen-Differenz aber Form unterschiedlich",
+        "ManU Heim-Form: 1 Niederlage in 6 (3W 2D)",
+        "Forest Auswaerts-Form: unbeaten in letzten 8 (4W 4D)",
+        "Beide Teams trafen in 7/9 letzten ManU + 6/9 letzten Forest - klare BTTS-Tendenz",
+        "bet365 Ueber 2.5 Tore @ 1.62, Unter 2.5 @ 2.30"
+      ],
+      "quellen_aggregator": [
+        "https://www.premierleague.com/en/match/2562262",
+        "https://www.statsinsider.com.au/news/manchester-united-vs-nottingham-forest-prediction-and-tips-17-may-2026",
+        "https://www.forebet.com/en/football/matches/manchester-united-nottingham-forest-2316102"
+      ]
+    },
+    {
+      "id": "2026-05-17-bre-cry",
+      "liga": "Premier League",
+      "matchday": 37,
+      "heim": "Brentford FC",
+      "gast": "Crystal Palace",
+      "anstoss": "2026-05-17T16:00:00+02:00",
+      "stadion": "Gtech Community Stadium, London",
+      "squad_heim": [
+        {"name": "Mark Flekken / Caoimhin Kelleher", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.brentfordfc.com"},
+        {"name": "Igor Thiago", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.brentfordfc.com"}
+      ],
+      "squad_gast": [
+        {"name": "Dean Henderson", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.cpfc.co.uk"},
+        {"name": "Jean-Philippe Mateta", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.cpfc.co.uk"},
+        {"name": "Eberechi Eze", "nummer": null, "position": "OM/LF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.cpfc.co.uk"}
+      ],
+      "injuries_heim": [],
+      "injuries_gast": [],
+      "parallele_wettbewerbe": {
+        "heim": "keine",
+        "gast": "UEFA Conference League FINAL 27.05.2026 vs Rayo Vallecano in Leipzig - 10 Tage spaeter (knapp ausserhalb 7-Tage-Cluster, leichtes Rotations-Risiko)",
+        "quellen": [
+          "https://en.wikipedia.org/wiki/2026_UEFA_Conference_League_final",
+          "https://www.cpfc.co.uk/news/tickets/ticket-information-2026-uefa-conference-league-final-crystal-palace-leipzig/"
+        ]
+      },
+      "saisonziel_heim": "Brentford 9.-11. Mid-Table, keine Quali-Pflicht",
+      "saisonziel_gast": "Crystal Palace Mid-Table - Conference-Final 27.05. ist Saison-Highlight, EL-Quali via Sieger-Bonus",
+      "tabellenstand": {"heim_platz": 10, "heim_pkt": 50, "gast_platz": 12, "gast_pkt": 48},
+      "form_heim_letzte_5": "?",
+      "form_gast_letzte_5": "?",
+      "recovery_heim": "Brentford 7+ Tage seit letztem Spiel",
+      "recovery_gast": "Crystal Palace 4 Tage seit Spiel 13.05. (Haaland-Bench-Spiel)",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 2.20,
+          "draw": 3.50,
+          "sieg_gast": 3.10,
+          "ueber_2_5": 1.85,
+          "unter_2_5": 1.95,
+          "btts_ja": 1.75,
+          "btts_nein": 2.05
+        },
+        "_quelle": "Aggregator-Schaetzung 14.05."
+      },
+      "news_kompakt": [
+        "Crystal Palace mit Conference-Final 10 Tage spaeter - leichtes Rotations-Risiko",
+        "Beide Teams Mid-Table ohne Druck"
+      ],
+      "quellen_aggregator": [
+        "https://www.premierleague.com/",
+        "https://en.wikipedia.org/wiki/2026_UEFA_Conference_League_final"
+      ]
+    },
+    {
+      "id": "2026-05-17-eve-sun",
+      "liga": "Premier League",
+      "matchday": 37,
+      "heim": "Everton FC",
+      "gast": "Sunderland AFC",
+      "anstoss": "2026-05-17T16:00:00+02:00",
+      "stadion": "Hill Dickinson Stadium / Goodison Park, Liverpool",
+      "squad_heim": [
+        {"name": "Jordan Pickford", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.evertonfc.com"},
+        {"name": "Beto / Calvert-Lewin", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.evertonfc.com"}
+      ],
+      "squad_gast": [
+        {"name": "Anthony Patterson", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.safc.com"},
+        {"name": "Eliezer Mayenda", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.safc.com"}
+      ],
+      "injuries_heim": [],
+      "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine", "gast": "keine", "quellen": ["https://www.premierleague.com/"]},
+      "saisonziel_heim": "Everton Mid-Table, gerettet",
+      "saisonziel_gast": "Sunderland Aufsteiger-Saison, Mid-Bottom-Tabelle",
+      "tabellenstand": {"heim_platz": 13, "heim_pkt": 45, "gast_platz": 15, "gast_pkt": 42},
+      "form_heim_letzte_5": "?",
+      "form_gast_letzte_5": "?",
+      "recovery_heim": "Everton 7+ Tage seit letztem Spiel",
+      "recovery_gast": "Sunderland 4 Tage seit letztem Spiel",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 1.95,
+          "draw": 3.40,
+          "sieg_gast": 3.80,
+          "ueber_2_5": 2.10,
+          "unter_2_5": 1.70,
+          "btts_ja": 1.95,
+          "btts_nein": 1.85
+        },
+        "_quelle": "Aggregator-Schaetzung 14.05."
+      },
+      "news_kompakt": [
+        "Beide ohne Druck - Saison-Auslauf-Modus",
+        "Everton zuhause stark"
+      ],
+      "quellen_aggregator": ["https://www.premierleague.com/"]
+    },
+    {
+      "id": "2026-05-17-lee-bha",
+      "liga": "Premier League",
+      "matchday": 37,
+      "heim": "Leeds United",
+      "gast": "Brighton & Hove Albion",
+      "anstoss": "2026-05-17T16:00:00+02:00",
+      "stadion": "Elland Road, Leeds",
+      "squad_heim": [
+        {"name": "Lucas Perri / Karl Darlow", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.leedsunited.com"}
+      ],
+      "squad_gast": [
+        {"name": "Bart Verbruggen", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.brightonandhovealbion.com"},
+        {"name": "Joao Pedro / Welbeck", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.brightonandhovealbion.com"}
+      ],
+      "injuries_heim": [],
+      "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine", "gast": "keine", "quellen": ["https://www.premierleague.com/"]},
+      "saisonziel_heim": "Leeds Mid-Bottom, Aufsteiger-Saison",
+      "saisonziel_gast": "Brighton Mid-Table",
+      "tabellenstand": {"heim_platz": 14, "heim_pkt": 43, "gast_platz": 9, "gast_pkt": 51},
+      "form_heim_letzte_5": "?",
+      "form_gast_letzte_5": "?",
+      "recovery_heim": "Leeds 7+ Tage seit letztem Spiel",
+      "recovery_gast": "Brighton 7+ Tage seit letztem Spiel",
+      "quoten": {
+        "bet365_naeherung": {"sieg_heim": 2.40, "draw": 3.30, "sieg_gast": 2.80, "ueber_2_5": 1.85, "unter_2_5": 1.95, "btts_ja": 1.75, "btts_nein": 2.05},
+        "_quelle": "Aggregator-Schaetzung 14.05."
+      },
+      "news_kompakt": ["Beide Teams ohne scharfen Saisonziel-Druck"],
+      "quellen_aggregator": ["https://www.premierleague.com/"]
+    },
+    {
+      "id": "2026-05-17-wol-ful",
+      "liga": "Premier League",
+      "matchday": 37,
+      "heim": "Wolverhampton Wanderers",
+      "gast": "Fulham FC",
+      "anstoss": "2026-05-17T16:00:00+02:00",
+      "stadion": "Molineux, Wolverhampton",
+      "squad_heim": [
+        {"name": "Jose Sa", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.wolves.co.uk"}
+      ],
+      "squad_gast": [
+        {"name": "Bernd Leno", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.fulhamfc.com"},
+        {"name": "Raul Jimenez", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.fulhamfc.com"}
+      ],
+      "injuries_heim": [],
+      "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine", "gast": "keine", "quellen": ["https://www.premierleague.com/"]},
+      "saisonziel_heim": "Wolves Mid-Bottom",
+      "saisonziel_gast": "Fulham Mid-Table",
+      "tabellenstand": {"heim_platz": 17, "heim_pkt": 35, "gast_platz": 11, "gast_pkt": 49},
+      "form_heim_letzte_5": "?",
+      "form_gast_letzte_5": "?",
+      "recovery_heim": "Wolves 7+ Tage",
+      "recovery_gast": "Fulham 7+ Tage",
+      "quoten": {
+        "bet365_naeherung": {"sieg_heim": 2.50, "draw": 3.30, "sieg_gast": 2.70, "ueber_2_5": 1.95, "unter_2_5": 1.85, "btts_ja": 1.75, "btts_nein": 2.05},
+        "_quelle": "Aggregator-Schaetzung 14.05."
+      },
+      "news_kompakt": ["Saison-Auslauf-Spiel"],
+      "quellen_aggregator": ["https://www.premierleague.com/"]
+    },
+    {
+      "id": "2026-05-17-new-whu",
+      "liga": "Premier League",
+      "matchday": 37,
+      "heim": "Newcastle United",
+      "gast": "West Ham United",
+      "anstoss": "2026-05-17T18:30:00+02:00",
+      "stadion": "St. James' Park, Newcastle",
+      "squad_heim": [
+        {"name": "Nick Pope", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.nufc.co.uk"},
+        {"name": "Alexander Isak", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.nufc.co.uk"},
+        {"name": "Anthony Gordon", "nummer": null, "position": "LF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.nufc.co.uk"}
+      ],
+      "squad_gast": [
+        {"name": "Alphonse Areola", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.whufc.com"},
+        {"name": "Niclas Fuellkrug / Wilson", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.whufc.com"}
+      ],
+      "injuries_heim": [],
+      "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine - Newcastle CL-Quali-Konkurrenz mit ManU/City, kein UEFA-Termin diese Saison", "gast": "keine", "quellen": ["https://www.premierleague.com/"]},
+      "saisonziel_heim": "Newcastle 4.-5. - CL-Quali-Pflicht-Profil moeglich (Top-5)",
+      "saisonziel_gast": "West Ham Mid-Table, keine Quali-Pflicht",
+      "tabellenstand": {"heim_platz": 4, "heim_pkt": 62, "gast_platz": 13, "gast_pkt": 46},
+      "form_heim_letzte_5": "?",
+      "form_gast_letzte_5": "?",
+      "recovery_heim": "Newcastle 7+ Tage",
+      "recovery_gast": "West Ham 7+ Tage",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 1.55,
+          "draw": 4.20,
+          "sieg_gast": 5.50,
+          "ueber_2_5": 1.65,
+          "unter_2_5": 2.20,
+          "btts_ja": 1.85,
+          "btts_nein": 1.90,
+          "dc_1x": 1.15,
+          "dc_x2": 2.40,
+          "torschuetzen": {"Isak": 1.75, "Gordon": 2.85}
+        },
+        "_quelle": "Aggregator-Schaetzung 14.05."
+      },
+      "news_kompakt": ["Newcastle Heim-Favorit, CL-Quali-Position", "West Ham Mid-Table-Auslauf"],
+      "quellen_aggregator": ["https://www.premierleague.com/"]
+    },
+    {
+      "id": "2026-05-17-ath-cel",
+      "liga": "LaLiga",
+      "matchday": 37,
+      "heim": "Athletic Club Bilbao",
+      "gast": "RC Celta Vigo",
+      "anstoss": "2026-05-17T19:00:00+02:00",
+      "stadion": "San Mames, Bilbao",
+      "squad_heim": [
+        {"name": "Unai Simon", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.athletic-club.eus"},
+        {"name": "Yuri Berchiche", "nummer": null, "position": "LV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.athletic-club.eus"},
+        {"name": "Aymeric Laporte", "nummer": null, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.athletic-club.eus"},
+        {"name": "Yeray Alvarez", "nummer": null, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.athletic-club.eus"},
+        {"name": "Inaki Williams", "nummer": null, "position": "RF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.athletic-club.eus", "hinweis": "Stamm-Stuermer, da Bruder Nico verletzt."},
+        {"name": "Alex Berenguer", "nummer": null, "position": "OM/LF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.athletic-club.eus"},
+        {"name": "Gorka Guruzeta", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.athletic-club.eus"}
+      ],
+      "squad_gast": [
+        {"name": "Ionut Radu", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://rccelta.es"},
+        {"name": "Borja Iglesias", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://rccelta.es"},
+        {"name": "Jorgen Strand Larsen / Duran", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://rccelta.es"}
+      ],
+      "injuries_heim": ["Nico Williams (Ankle, OUT - Verletzung im Leganes-Spiel)"],
+      "injuries_gast": [],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Athletic EL-League-Phase ausgeschieden, Copa-Halbfinale Saison",
+        "gast": "keine",
+        "quellen": ["https://www.uefa.com/uefaeuropaleague/", "https://www.laliga.com/"]
+      },
+      "saisonziel_heim": "Athletic 5.-6. mit ca. 60 Pkt - EL-Quali via Liga moeglich, kein scharfer Druck mehr (Plaetze geklaert)",
+      "saisonziel_gast": "Celta 6.-7. mit 50 Pkt - EL/Conference-Quali-Hoffnung, Pflichtsieg-Profil moeglich",
+      "tabellenstand": {"heim_platz": 5, "heim_pkt": 60, "gast_platz": 6, "gast_pkt": 50},
+      "form_heim_letzte_5": "N-?-?-?-? (zuletzt 0:1 Heim vs Valencia 10.05.)",
+      "form_gast_letzte_5": "?",
+      "recovery_heim": "Athletic 7 Tage seit Valencia-Spiel",
+      "recovery_gast": "Celta 7 Tage",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 1.95,
+          "draw": 3.50,
+          "sieg_gast": 3.80,
+          "ueber_2_5": 1.90,
+          "unter_2_5": 1.90,
+          "btts_ja": 1.65,
+          "btts_nein": 2.20,
+          "dc_1x": 1.30,
+          "dc_x2": 1.80,
+          "torschuetzen": {"Inaki Williams": 2.60, "Guruzeta": 2.85, "Iglesias": 3.25}
+        },
+        "_quelle": "Wincomparator/Sportsmole/Bleacher Report 14.05."
+      },
+      "news_kompakt": [
+        "Nico Williams Ankle-Verletzung (Leganes-Match) - OUT",
+        "Athletic Win-Wahrscheinlichkeit 51.71% (Ratingbet)",
+        "Beide Teams kaempfen um EL/Conference-Plaetze"
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsmole.co.uk/football/celta-vigo/preview/celta-vigo-vs-athletic-bilbao-prediction-team-news-lineups_587716.html",
+        "https://ratingbet.com/predictions/athletic-vs-celta-prediction-expert-analysis-possible-lineups-may-17-2026/",
+        "https://bleacherreport.com/game/athletic-club-vs-celta-da-vigo-2026-5-17-20-00"
+      ]
+    },
+    {
+      "id": "2026-05-17-atm-gir",
+      "liga": "LaLiga",
+      "matchday": 37,
+      "heim": "Club Atletico de Madrid",
+      "gast": "Girona FC",
+      "anstoss": "2026-05-17T19:00:00+02:00",
+      "stadion": "Riyadh Air Metropolitano, Madrid",
+      "squad_heim": [
+        {"name": "Jan Oblak", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://en.atleticodemadrid.com"},
+        {"name": "Alexander Soerloth", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": 1, "verifiziert_via": "https://en.atleticodemadrid.com", "hinweis": "HZ-Joker-Kopfball-Tor 71. in Pamplona-Sieg 12.05."},
+        {"name": "Antoine Griezmann", "nummer": null, "position": "OM/ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.atleticodemadrid.com"},
+        {"name": "Julian Alvarez", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.atleticodemadrid.com"},
+        {"name": "Marcos Llorente", "nummer": null, "position": "RM/IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.atleticodemadrid.com", "hinweis": "Doubt nach Gelb-Rot in Pamplona 79."},
+        {"name": "Alex Baena", "nummer": null, "position": "OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.atleticodemadrid.com", "hinweis": "Doubt."}
+      ],
+      "squad_gast": [
+        {"name": "Paulo Gazzaniga", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.gironafc.cat"},
+        {"name": "Cristhian Stuani / Bryan Gil", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.gironafc.cat"}
+      ],
+      "injuries_heim": ["Pablo Barrios (OUT)", "Jose Gimenez (OUT)", "Ademola Lookman (OUT)"],
+      "injuries_gast": ["Abel Ruiz (OUT)", "Vladyslav Vanat (OUT)", "Marc-Andre ter Stegen (OUT)", "Portu (OUT)", "Donny van de Beek (OUT)", "Juan Carlos (OUT)"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - kein UEFA-Final-Termin im 7-Tage-Cluster",
+        "gast": "keine",
+        "quellen": ["https://www.uefa.com/uefachampionsleague/"]
+      },
+      "saisonziel_heim": "Atletico 3.-4. - CL-Quali bereits gesichert, kein Tabellen-Druck mehr",
+      "saisonziel_gast": "Girona 12. Mid-Table, keine Quali-Pflicht, Saison-Auslauf-Modus",
+      "tabellenstand": {"heim_platz": 4, "heim_pkt": 66, "gast_platz": 12, "gast_pkt": 41},
+      "form_heim_letzte_5": "S-N-S-?-? (2:1 Pamplona 12.05., 0:1 Heim vs Celta 09.05.)",
+      "form_gast_letzte_5": "?",
+      "recovery_heim": "Atletico 5 Tage seit 2:1 Pamplona-Sieg",
+      "recovery_gast": "Girona 7 Tage Pause",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 1.35,
+          "draw": 4.80,
+          "sieg_gast": 8.50,
+          "ueber_2_5": 1.65,
+          "unter_2_5": 2.20,
+          "btts_ja": 1.95,
+          "btts_nein": 1.85,
+          "dc_1x": 1.15,
+          "dc_x2": 3.50,
+          "torschuetzen": {"Soerloth": 2.40, "Griezmann": 2.50, "Julian Alvarez": 2.20}
+        },
+        "_quelle": "Fotmob/Sofascore/Whoscored 14.05."
+      },
+      "news_kompakt": [
+        "Atletico-Lazarett massiv: Barrios/Gimenez/Lookman OUT, Llorente+Baena Doubts",
+        "Atletico 2:1 in Pamplona 12.05. - trotz 7 Stamm-OUT + Llorente Gelb-Rot. Bench-Tiefe schluckt",
+        "Girona-Lazarett massiv (6+ OUT, ter Stegen Saison-Ende)",
+        "Soerloth Top-Sub-Form (HZ-Joker-Tor Pamplona)"
+      ],
+      "quellen_aggregator": [
+        "https://www.fotmob.com/matches/girona-vs-atletico-madrid/2kmd87",
+        "https://www.laliga.com/en-GB/match/temporada-2025-2026-laliga-ea-sports-atletico-de-madrid-girona-fc-37",
+        "https://www.whoscored.com/matches/1914048/preview/spain-laliga-2025-2026-girona-atletico-madrid"
+      ]
+    },
+    {
+      "id": "2026-05-17-bar-bet",
+      "liga": "LaLiga",
+      "matchday": 37,
+      "heim": "FC Barcelona",
+      "gast": "Real Betis Balompie",
+      "anstoss": "2026-05-17T19:00:00+02:00",
+      "stadion": "Spotify Camp Nou, Barcelona",
+      "squad_heim": [
+        {"name": "Wojciech Szczesny / Inaki Pena", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.fcbarcelona.com"},
+        {"name": "Robert Lewandowski", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.fcbarcelona.com"},
+        {"name": "Raphinha", "nummer": null, "position": "LF/OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.fcbarcelona.com"},
+        {"name": "Ferran Torres", "nummer": null, "position": "ST/RF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.fcbarcelona.com"},
+        {"name": "Dani Olmo", "nummer": null, "position": "OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.fcbarcelona.com"},
+        {"name": "Pedri", "nummer": null, "position": "ZM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.fcbarcelona.com"}
+      ],
+      "squad_gast": [
+        {"name": "Adrian / Rui Silva", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.realbetisbalompie.es"},
+        {"name": "Abde Ezzalzouli", "nummer": null, "position": "LF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.realbetisbalompie.es"},
+        {"name": "Antony", "nummer": null, "position": "RF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.realbetisbalompie.es"},
+        {"name": "Cedric Bakambu / Sergi Altimira", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.realbetisbalompie.es"}
+      ],
+      "injuries_heim": ["Lamine YAMAL (Saison-OUT)", "Frenkie De Jong (Q)", "Fermin Lopez (Q)"],
+      "injuries_gast": [],
+      "parallele_wettbewerbe": {
+        "heim": "keine - CL-HF 2025-26 verpasst, El Clasico letzte Woche bereits gewonnen",
+        "gast": "keine - Betis Conference-Quali-Saison aber kein Final",
+        "quellen": ["https://www.uefa.com/uefachampionsleague/", "https://www.uefa.com/uefaconferenceleague/"]
+      },
+      "saisonziel_heim": "Barcelona 1. Meister mit 91 Pkt - Liga seit 10.05. (2:0 vs Real) gesichert, 29. Titel. Saison-Highlight Heim-Finale als Meister",
+      "saisonziel_gast": "Betis 5. mit 57 Pkt - Quali-Plaetze geklaert, kein direkter Druck",
+      "tabellenstand": {"heim_platz": 1, "heim_pkt": 91, "gast_platz": 5, "gast_pkt": 57},
+      "form_heim_letzte_5": "S-S-S-S-S (5 Liga-Siege in Folge incl. Clean-Sheets gegen Real, Getafe, Celta)",
+      "form_gast_letzte_5": "?",
+      "recovery_heim": "Barca 7 Tage seit El Clasico-Sieg 10.05.",
+      "recovery_gast": "Betis 7 Tage Pause",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 1.30,
+          "draw": 5.50,
+          "sieg_gast": 9.00,
+          "ueber_2_5": 1.55,
+          "unter_2_5": 2.40,
+          "btts_ja": 1.65,
+          "btts_nein": 2.20,
+          "dc_1x": 1.07,
+          "dc_x2": 3.40,
+          "torschuetzen": {"Lewandowski": 1.75, "Raphinha": 2.30, "Olmo": 2.85, "Ferran Torres": 2.60}
+        },
+        "_quelle": "Aggregator-Schaetzung 14.05. (LaLiga-Top-Klub-Heim-Spiel)"
+      },
+      "news_kompakt": [
+        "Yamal Saison-OUT bestaetigt - Barca-Tor-Erwartung reduziert aber Lewa/Raphinha/Olmo/Ferran weiter da",
+        "Barca 5 Liga-Siege in Folge incl. Clean-Sheets",
+        "Betis offensiv-stark mit Abde + Antony",
+        "Barca unbeaten in letzten 10 H2H gegen Betis (8W 2D)",
+        "Saison-Highlight letzte Heim-Spiel als Meister"
+      ],
+      "quellen_aggregator": [
+        "https://www.fcbarcelona.com/en/matches/127624/fc-barcelona-betis-la-liga-2025-2026",
+        "https://www.myfootballfacts.com/match-preview/la-liga-match-previews/match-preview-fc-barcelona-real-betis-la-liga-gameweek-37/",
+        "https://www.fotmob.com/matches/real-betis-vs-barcelona/2gggox"
+      ]
+    },
+    {
+      "id": "2026-05-17-elc-get",
+      "liga": "LaLiga",
+      "matchday": 37,
+      "heim": "Elche CF",
+      "gast": "Getafe CF",
+      "anstoss": "2026-05-17T19:00:00+02:00",
+      "stadion": "Estadio Martinez Valero, Elche",
+      "squad_heim": [],
+      "squad_gast": [],
+      "injuries_heim": [],
+      "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine", "gast": "keine", "quellen": ["https://www.laliga.com/"]},
+      "saisonziel_heim": "Elche Mid-Table, kein Druck",
+      "saisonziel_gast": "Getafe 7. - EL/Conference-Quali theoretisch",
+      "tabellenstand": {"heim_platz": 14, "heim_pkt": 41, "gast_platz": 7, "gast_pkt": 48},
+      "form_heim_letzte_5": "?",
+      "form_gast_letzte_5": "?",
+      "recovery_heim": "?",
+      "recovery_gast": "?",
+      "quoten": {
+        "bet365_naeherung": {"sieg_heim": 2.50, "draw": 3.20, "sieg_gast": 2.85, "ueber_2_5": 2.10, "unter_2_5": 1.70},
+        "_quelle": "Aggregator-Schaetzung 14.05."
+      },
+      "news_kompakt": ["Beobachtungs-Status (Beobachtungs-Liga LaLiga-Mid-Table)"],
+      "quellen_aggregator": ["https://www.laliga.com/"]
+    },
+    {
+      "id": "2026-05-17-lev-mal",
+      "liga": "LaLiga",
+      "matchday": 37,
+      "heim": "Levante UD",
+      "gast": "RCD Mallorca",
+      "anstoss": "2026-05-17T19:00:00+02:00",
+      "stadion": "Estadi Ciutat de Valencia, Valencia",
+      "squad_heim": [],
+      "squad_gast": [],
+      "injuries_heim": [],
+      "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine", "gast": "keine", "quellen": ["https://www.laliga.com/"]},
+      "saisonziel_heim": "Levante - Abstiegs-Kampf, Klassenerhalt entscheidend",
+      "saisonziel_gast": "Mallorca - Abstiegs-Kampf, Klassenerhalt entscheidend",
+      "tabellenstand": {"heim_platz": 17, "heim_pkt": 35, "gast_platz": 18, "gast_pkt": 34},
+      "form_heim_letzte_5": "?",
+      "form_gast_letzte_5": "?",
+      "recovery_heim": "?",
+      "recovery_gast": "?",
+      "quoten": {
+        "bet365_naeherung": {"sieg_heim": 2.20, "draw": 3.30, "sieg_gast": 3.20, "ueber_2_5": 2.20, "unter_2_5": 1.65},
+        "_quelle": "Aggregator-Schaetzung 14.05."
+      },
+      "news_kompakt": [
+        "Levante-Mallorca als Klassenerhalts-Schluessel-Match angekuendigt (penultimate round Football-Espana)",
+        "Beide auf Klassenerhalts-Plaetzen 17-18"
+      ],
+      "quellen_aggregator": ["https://www.football-espana.net/2026/05/12/most-anticipated-schedule-predictions-may", "https://www.laliga.com/"]
+    },
+    {
+      "id": "2026-05-17-ray-vil",
+      "liga": "LaLiga",
+      "matchday": 37,
+      "heim": "Rayo Vallecano de Madrid",
+      "gast": "Villarreal CF",
+      "anstoss": "2026-05-17T19:00:00+02:00",
+      "stadion": "Estadio de Vallecas, Madrid",
+      "squad_heim": [
+        {"name": "Augusto Batalla", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.rayovallecano.es"},
+        {"name": "Florian Lejeune", "nummer": null, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.rayovallecano.es"},
+        {"name": "Sergio Camello", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.rayovallecano.es"}
+      ],
+      "squad_gast": [
+        {"name": "Luiz Junior / Pepe Reina", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.villarrealcf.es"},
+        {"name": "Gerard Moreno / Nicolas Pepe", "nummer": null, "position": "ST/RF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.villarrealcf.es"}
+      ],
+      "injuries_heim": ["Isi Palazon (Rote-Karte-Sperre bis 23.05., OUT)"],
+      "injuries_gast": [],
+      "parallele_wettbewerbe": {
+        "heim": "UEFA Conference League FINAL 27.05.2026 vs Crystal Palace in Leipzig - 10 Tage spaeter (knapp ausserhalb 7-Tage-Cluster, leichtes Rotations-Risiko)",
+        "gast": "keine",
+        "quellen": ["https://en.wikipedia.org/wiki/2026_UEFA_Conference_League_final"]
+      },
+      "saisonziel_heim": "Rayo 10.-11. mit ca. 43 Pkt - Conference-Final 27.05. sichert EL-Quali 2026-27 ueber Sieger-Bonus. LaLiga-Endspiel-Motivation reduziert",
+      "saisonziel_gast": "Villarreal 3. mit 69 Pkt - CL-Quali (Top-4) bereits gesichert. Saison-Auslauf",
+      "tabellenstand": {"heim_platz": 11, "heim_pkt": 43, "gast_platz": 3, "gast_pkt": 69},
+      "form_heim_letzte_5": "S-?-?-?-? (zuletzt 2:0-Sieg in Valencia 14.05.)",
+      "form_gast_letzte_5": "?",
+      "recovery_heim": "Rayo 3 Tage seit Valencia-Sieg",
+      "recovery_gast": "Villarreal 7+ Tage",
+      "quoten": {
+        "bet365_naeherung": {"sieg_heim": 2.75, "draw": 3.30, "sieg_gast": 2.40, "ueber_2_5": 1.85, "unter_2_5": 1.95, "btts_ja": 1.65, "btts_nein": 2.25},
+        "_quelle": "Aggregator-Schaetzung 14.05."
+      },
+      "news_kompakt": [
+        "Rayo Conference-Final 10 Tage spaeter - leichte Rotation moeglich",
+        "Villarreal CL-Quali gesichert (Platz 3) - motivations-arm",
+        "Palazon ohnehin gesperrt"
+      ],
+      "quellen_aggregator": ["https://www.laliga.com/", "https://en.wikipedia.org/wiki/2026_UEFA_Conference_League_final"]
+    },
+    {
+      "id": "2026-05-17-rso-val",
+      "liga": "LaLiga",
+      "matchday": 37,
+      "heim": "Real Sociedad",
+      "gast": "Valencia CF",
+      "anstoss": "2026-05-17T19:00:00+02:00",
+      "stadion": "Reale Arena, Donostia-San Sebastian",
+      "squad_heim": [
+        {"name": "Alex Remiro", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.realsociedad.eus"},
+        {"name": "Mikel Oyarzabal", "nummer": null, "position": "LF/ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.realsociedad.eus"}
+      ],
+      "squad_gast": [
+        {"name": "Stole Dimitrievski", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.valenciacf.com"},
+        {"name": "Hugo Duro", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.valenciacf.com"}
+      ],
+      "injuries_heim": [],
+      "injuries_gast": ["Mouctar Diakhaby (OUT)", "Thierry Correia (OUT)", "Dimitri Foulquier (OUT)", "Julen Agirrezabala (OUT)", "Jose Copete (OUT)"],
+      "parallele_wettbewerbe": {"heim": "keine - EL-League-Phase ausgeschieden, Copa-del-Rey-Sieger 2025 (EL-Quali 2026-27 gesichert)", "gast": "keine", "quellen": ["https://www.uefa.com/"]},
+      "saisonziel_heim": "Real Sociedad 8. mit 44 Pkt - EL-Quali 2026-27 ueber Copa-Sieg bereits gesichert, Saison-Auslauf",
+      "saisonziel_gast": "Valencia 12.-13. mit 42 Pkt - Klassenerhalt gesichert, kein Druck",
+      "tabellenstand": {"heim_platz": 8, "heim_pkt": 44, "gast_platz": 13, "gast_pkt": 42},
+      "form_heim_letzte_5": "?",
+      "form_gast_letzte_5": "N-?-?-?-? (zuletzt 0:2 Heim vs Rayo 14.05.)",
+      "recovery_heim": "Sociedad 7 Tage",
+      "recovery_gast": "Valencia 3 Tage seit Rayo-Pleite",
+      "quoten": {
+        "bet365_naeherung": {"sieg_heim": 1.85, "draw": 3.40, "sieg_gast": 4.20, "ueber_2_5": 2.00, "unter_2_5": 1.80, "btts_ja": 1.75, "btts_nein": 2.05},
+        "_quelle": "Aggregator-Schaetzung 14.05."
+      },
+      "news_kompakt": [
+        "Sociedad ueber Copa-Sieg EL-Quali 2026-27 schon gesichert",
+        "Valencia Lazarett massiv - Defense decimated"
+      ],
+      "quellen_aggregator": ["https://www.laliga.com/"]
+    },
+    {
+      "id": "2026-05-17-ovi-ala",
+      "liga": "LaLiga",
+      "matchday": 37,
+      "heim": "Real Oviedo",
+      "gast": "Deportivo Alaves",
+      "anstoss": "2026-05-17T19:00:00+02:00",
+      "stadion": "Estadio Carlos Tartiere, Oviedo",
+      "squad_heim": [],
+      "squad_gast": [],
+      "injuries_heim": [],
+      "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine", "gast": "keine", "quellen": ["https://www.laliga.com/"]},
+      "saisonziel_heim": "Real Oviedo 20. (LETZTER Platz) - bereits mathematisch ABGESTIEGEN. Dead-rubber-Motivation, 'spielt nur fuer Stolz'",
+      "saisonziel_gast": "Alaves Mid-Table-Bottom, Klassenerhalt gesichert/knapp",
+      "tabellenstand": {"heim_platz": 20, "heim_pkt": 28, "gast_platz": 16, "gast_pkt": 36},
+      "form_heim_letzte_5": "?",
+      "form_gast_letzte_5": "?",
+      "recovery_heim": "?",
+      "recovery_gast": "?",
+      "quoten": {
+        "bet365_naeherung": {"sieg_heim": 2.50, "draw": 3.20, "sieg_gast": 2.80, "ueber_2_5": 2.30, "unter_2_5": 1.60},
+        "_quelle": "Aggregator-Schaetzung 14.05."
+      },
+      "news_kompakt": ["Oviedo bereits abgestiegen - dead-rubber-Motivation", "Alaves im Klassenerhalt-Kampf"],
+      "quellen_aggregator": ["https://www.laliga.com/"]
+    },
+    {
+      "id": "2026-05-17-osa-esp",
+      "liga": "LaLiga",
+      "matchday": 37,
+      "heim": "CA Osasuna",
+      "gast": "RCD Espanyol",
+      "anstoss": "2026-05-17T19:00:00+02:00",
+      "stadion": "El Sadar, Pamplona",
+      "squad_heim": [],
+      "squad_gast": [],
+      "injuries_heim": [],
+      "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine", "gast": "keine", "quellen": ["https://www.laliga.com/"]},
+      "saisonziel_heim": "Osasuna Mid-Table",
+      "saisonziel_gast": "Espanyol Mid-Bottom, Klassenerhalt-Druck moeglich",
+      "tabellenstand": {"heim_platz": 9, "heim_pkt": 46, "gast_platz": 15, "gast_pkt": 39},
+      "form_heim_letzte_5": "N-?-?-?-? (zuletzt 1:2 Heim vs Atletico 12.05.)",
+      "form_gast_letzte_5": "?",
+      "recovery_heim": "Osasuna 5 Tage seit Atletico-Spiel",
+      "recovery_gast": "Espanyol 7 Tage",
+      "quoten": {
+        "bet365_naeherung": {"sieg_heim": 1.95, "draw": 3.30, "sieg_gast": 3.80, "ueber_2_5": 2.15, "unter_2_5": 1.70},
+        "_quelle": "Aggregator-Schaetzung 14.05."
+      },
+      "news_kompakt": ["Osasuna nach Atletico-Pleite zuhause", "Espanyol braucht ggf. Punkte fuer Klassenerhalt"],
+      "quellen_aggregator": ["https://www.laliga.com/"]
+    },
+    {
+      "id": "2026-05-17-sev-rma",
+      "liga": "LaLiga",
+      "matchday": 37,
+      "heim": "Sevilla FC",
+      "gast": "Real Madrid CF",
+      "anstoss": "2026-05-17T19:00:00+02:00",
+      "stadion": "Estadio Ramon Sanchez Pizjuan, Sevilla",
+      "squad_heim": [
+        {"name": "Orjan Nyland", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.sevillafc.es"},
+        {"name": "Dodi Lukebakio", "nummer": null, "position": "RF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sevillafc.es"}
+      ],
+      "squad_gast": [
+        {"name": "Thibaut Courtois", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.realmadrid.com"},
+        {"name": "Fran Garcia", "nummer": null, "position": "LV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.realmadrid.com"},
+        {"name": "Antonio Ruediger", "nummer": null, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.realmadrid.com"},
+        {"name": "Dean Huijsen", "nummer": null, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.realmadrid.com"},
+        {"name": "Trent Alexander-Arnold", "nummer": null, "position": "RV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.realmadrid.com"},
+        {"name": "Aurelien Tchouameni", "nummer": null, "position": "DM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.realmadrid.com"},
+        {"name": "Jude Bellingham", "nummer": null, "position": "ZM/OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.realmadrid.com"},
+        {"name": "Brahim Diaz", "nummer": null, "position": "RM/OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.realmadrid.com"},
+        {"name": "Vinicius Junior", "nummer": null, "position": "LF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.realmadrid.com"},
+        {"name": "Kylian Mbappe", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.realmadrid.com", "hinweis": "Sportsmole-Liste: Mbappe in unavailable list; jedoch Sports Mole-Lineup nennt Mbappe Startelf - widersprueche zw. Quellen, vor Anstoss verifizieren."}
+      ],
+      "injuries_heim": ["Marcao (Verletzung, OUT)"],
+      "injuries_gast": ["Ferland Mendy (OUT)", "Daniel Carvajal (OUT)", "Arda Gueler (OUT)", "Eder Militao (OUT)", "Rodrygo (Saison-OUT, ACL+Meniskus)", "Federico Valverde (Kopf, Q)"],
+      "parallele_wettbewerbe": {
+        "heim": "keine",
+        "gast": "keine - Real seit 15.04. aus CL raus, keine Pflicht-Termin in 7-14 Tagen. Klub-WM Juni 2026 (mehrere Wochen entfernt)",
+        "quellen": ["https://www.uefa.com/uefachampionsleague/"]
+      },
+      "saisonziel_heim": "Sevilla 13. mit ca. 40 Pkt - laengst gerettet, kein Tabellen-Druck, Saison-Auslauf-Modus aber Heim-Stimmung",
+      "saisonziel_gast": "Real 2. mit 77 Pkt - Liga an Barca verloren, keine Quali-Pflicht. Spielen fuer Stolz",
+      "tabellenstand": {"heim_platz": 13, "heim_pkt": 40, "gast_platz": 2, "gast_pkt": 77},
+      "form_heim_letzte_5": "S-?-?-?-? (zuletzt 1:0-Sieg vs Espanyol 09.05.)",
+      "form_gast_letzte_5": "N-?-?-?-? (zuletzt 0:2 in El Clasico vs Barca 10.05.)",
+      "recovery_heim": "Sevilla 7 Tage seit 1:0 vs Espanyol",
+      "recovery_gast": "Real 7 Tage seit Clasico-Pleite - Stolz-Reaktion moeglich",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 4.23,
+          "draw": 4.44,
+          "sieg_gast": 1.81,
+          "ueber_2_5": 1.65,
+          "unter_2_5": 2.20,
+          "btts_ja": 1.70,
+          "btts_nein": 2.10,
+          "dc_1x": 2.15,
+          "dc_x2": 1.32,
+          "torschuetzen": {"Mbappe": 1.85, "Vinicius": 2.20, "Bellingham": 2.85}
+        },
+        "_quelle": "888Starz/Bleacher Report/Wincomparator 14.05."
+      },
+      "news_kompakt": [
+        "Real verlor El Clasico 10.05. + Liga an Barca - Stolz-Reaktion moeglich",
+        "Real Lazarett massiv: Mendy/Carvajal/Gueler/Militao/Rodrygo/Valverde OUT/Q",
+        "Sevilla 0:2 in Hinrunde in Madrid verloren",
+        "Mbappe-Status fuer Sevilla unklar (Quellen widersprechen sich)"
+      ],
+      "quellen_aggregator": [
+        "https://www.bleacherreport.com/game/sevilla-vs-real-madrid-2026-5-17-20-00",
+        "https://www.wincomparator.com/predictions/sevilla-real-madrid-7687670/",
+        "https://www.sportsmole.co.uk/football/real-madrid/race-for-the-la-liga-title/team-news/real-madrid-vs-sevilla-injury-suspension-list-predicted-xis_588071.html",
+        "https://www.laliga.com/en-GB/match/temporada-2025-2026-laliga-ea-sports-sevilla-fc-real-madrid-37"
+      ]
+    },
+    {
+      "id": "2026-05-17-rom-laz",
+      "liga": "Serie A",
+      "matchday": 37,
+      "heim": "AS Roma",
+      "gast": "SS Lazio",
+      "anstoss": "2026-05-17T12:30:00+02:00",
+      "stadion": "Stadio Olimpico, Rome",
+      "squad_heim": [
+        {"name": "Mile Svilar", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.asroma.com"},
+        {"name": "Paulo Dybala", "nummer": null, "position": "OM/ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.asroma.com"},
+        {"name": "Manu Kone", "nummer": null, "position": "ZM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.asroma.com"}
+      ],
+      "squad_gast": [
+        {"name": "Ivan Provedel", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.sslazio.it"},
+        {"name": "Mattia Zaccagni", "nummer": null, "position": "LF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sslazio.it"}
+      ],
+      "injuries_heim": ["Bryan Zaragoza (OUT)", "Lorenzo Pellegrini (OUT)", "Evan Ferguson (OUT)", "Artem Dovbyk (OUT)"],
+      "injuries_gast": ["Samuel Gigot (Ankle, OUT)", "Patric (Hamstring, OUT)", "Manuel Lazzari (Thigh, OUT)", "Nicolo Rovella (Race to fit, Q)", "Valentin Castellanos (Race to fit, Q)"],
+      "parallele_wettbewerbe": {"heim": "keine - Roma EL-League-Phase ausgeschieden", "gast": "keine", "quellen": ["https://www.uefa.com/uefaeuropaleague/"]},
+      "saisonziel_heim": "Roma 5. mit 67 Pkt - EL-Quali / Conference-Quali umkaempft, Pflichtsieg-Profil moeglich",
+      "saisonziel_gast": "Lazio 9. mit 51 Pkt - EL/Conference-Quali-Hoffnung",
+      "tabellenstand": {"heim_platz": 5, "heim_pkt": 67, "gast_platz": 9, "gast_pkt": 51},
+      "form_heim_letzte_5": "?",
+      "form_gast_letzte_5": "?",
+      "recovery_heim": "Roma 7 Tage",
+      "recovery_gast": "Lazio 7 Tage",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 1.95,
+          "draw": 3.30,
+          "sieg_gast": 4.00,
+          "ueber_2_5": 2.10,
+          "unter_2_5": 1.70,
+          "btts_ja": 1.85,
+          "btts_nein": 1.95,
+          "dc_1x": 1.32,
+          "dc_x2": 1.75
+        },
+        "_quelle": "Forebet/Sportsmole/Leaguelane 14.05."
+      },
+      "news_kompakt": [
+        "Derby della Capitale - Saison-Highlight beider Klubs",
+        "Roma 50% Heim-Sieg-Quote letzte 6 Heim",
+        "Lazio 3W aus 6 Auswaerts",
+        "Lazio mehrere Doubts (Gigot/Patric/Lazzari OUT, Rovella+Castellanos Q)",
+        "Roma Sturm-Lazarett (Dovbyk/Ferguson OUT)"
+      ],
+      "quellen_aggregator": [
+        "https://www.fotmob.com/matches/lazio-vs-roma/2gdicp",
+        "https://www.forebet.com/en/football/matches/roma-lazio-2344574",
+        "https://www.espn.com/soccer/match/_/gameId/737148/lazio-as-roma",
+        "https://www.sportsmole.co.uk/football/lazio/rome-derby/preview/lazio-vs-roma-prediction-team-news-lineups_581845.html"
+      ]
+    },
+    {
+      "id": "2026-05-17-gen-mil",
+      "liga": "Serie A",
+      "matchday": 37,
+      "heim": "Genoa CFC",
+      "gast": "AC Milan",
+      "anstoss": "2026-05-17T12:30:00+02:00",
+      "stadion": "Stadio Luigi Ferraris, Genoa",
+      "squad_heim": [
+        {"name": "Nicola Leali", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.cfc1893.it"}
+      ],
+      "squad_gast": [
+        {"name": "Mike Maignan", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.acmilan.com"},
+        {"name": "Rafael Leao", "nummer": null, "position": "LF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.acmilan.com"},
+        {"name": "Christian Pulisic", "nummer": null, "position": "RF/OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.acmilan.com"}
+      ],
+      "injuries_heim": [],
+      "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine", "gast": "keine - Milan nicht in UEFA-Wettbewerben 2025-26", "quellen": ["https://www.legaseriea.it/"]},
+      "saisonziel_heim": "Genoa Mid-Bottom-Tabelle, Klassenerhalt gesichert",
+      "saisonziel_gast": "Milan 4. mit 68 Pkt - CL-Quali-Kampf 3-Way mit Juve/Roma (alle ~68 Pkt)",
+      "tabellenstand": {"heim_platz": 15, "heim_pkt": 38, "gast_platz": 4, "gast_pkt": 68},
+      "form_heim_letzte_5": "?",
+      "form_gast_letzte_5": "?",
+      "recovery_heim": "Genoa 7 Tage",
+      "recovery_gast": "Milan 7 Tage",
+      "quoten": {
+        "bet365_naeherung": {"sieg_heim": 4.20, "draw": 3.60, "sieg_gast": 1.85, "ueber_2_5": 1.75, "unter_2_5": 2.05, "btts_ja": 1.85, "btts_nein": 1.95, "dc_1x": 1.85, "dc_x2": 1.27},
+        "_quelle": "Aggregator-Schaetzung 14.05."
+      },
+      "news_kompakt": ["Milan kaempft um CL-Quali (3-Way mit Juve/Roma)", "Genoa ohne Druck"],
+      "quellen_aggregator": ["https://www.legaseriea.it/", "https://www.acmilan.com/en/news/articles/serie-a/2026-05-11/serie-a-2025-26-date-and-time-for-matchday-37"]
+    },
+    {
+      "id": "2026-05-17-com-par",
+      "liga": "Serie A",
+      "matchday": 37,
+      "heim": "Como 1907",
+      "gast": "Parma Calcio 1913",
+      "anstoss": "2026-05-17T12:30:00+02:00",
+      "stadion": "Stadio Giuseppe Sinigaglia, Como",
+      "squad_heim": [], "squad_gast": [],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine", "gast": "keine", "quellen": ["https://www.legaseriea.it/"]},
+      "saisonziel_heim": "Como Mid-Table",
+      "saisonziel_gast": "Parma Mid-Bottom, Klassenerhalt knapp",
+      "tabellenstand": {"heim_platz": 11, "heim_pkt": 44, "gast_platz": 16, "gast_pkt": 36},
+      "form_heim_letzte_5": "?", "form_gast_letzte_5": "?",
+      "recovery_heim": "7 Tage", "recovery_gast": "7 Tage",
+      "quoten": {"bet365_naeherung": {"sieg_heim": 2.00, "draw": 3.30, "sieg_gast": 3.60, "ueber_2_5": 2.20, "unter_2_5": 1.65}, "_quelle": "Aggregator-Schaetzung 14.05."},
+      "news_kompakt": ["Beobachtungs-Status Serie A"],
+      "quellen_aggregator": ["https://www.legaseriea.it/"]
+    },
+    {
+      "id": "2026-05-17-juv-fio",
+      "liga": "Serie A",
+      "matchday": 37,
+      "heim": "Juventus FC",
+      "gast": "ACF Fiorentina",
+      "anstoss": "2026-05-17T12:30:00+02:00",
+      "stadion": "Allianz Stadium, Turin",
+      "squad_heim": [
+        {"name": "Michele Di Gregorio", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.juventus.com"},
+        {"name": "Dusan Vlahovic", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.juventus.com"},
+        {"name": "Kenan Yildiz", "nummer": null, "position": "OM/LF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.juventus.com"}
+      ],
+      "squad_gast": [
+        {"name": "David De Gea", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.acffiorentina.com"},
+        {"name": "Moise Kean", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.acffiorentina.com"}
+      ],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine", "gast": "keine - Fiorentina Conference-Saison vorbei", "quellen": ["https://www.legaseriea.it/"]},
+      "saisonziel_heim": "Juve 3. mit 68 Pkt - CL-Quali-Kampf 3-Way mit Milan/Roma. Spalletti's Defense-Wand (nur 30 Gegentore in 36 Spielen)",
+      "saisonziel_gast": "Fiorentina 8.-9. - Conference-Quali-Hoffnung",
+      "tabellenstand": {"heim_platz": 3, "heim_pkt": 68, "gast_platz": 8, "gast_pkt": 52},
+      "form_heim_letzte_5": "?", "form_gast_letzte_5": "?",
+      "recovery_heim": "Juve 7 Tage", "recovery_gast": "Fiorentina 7 Tage",
+      "quoten": {
+        "bet365_naeherung": {"sieg_heim": 1.85, "draw": 3.40, "sieg_gast": 4.20, "ueber_2_5": 2.05, "unter_2_5": 1.75, "btts_ja": 1.85, "btts_nein": 1.95},
+        "_quelle": "Dailysports/Forebet 14.05."
+      },
+      "news_kompakt": [
+        "Juve 3., CL-Quali-Pflicht (3-Way mit Milan/Roma)",
+        "Spalletti's Defense: nur 30 Gegentore in 36 Spielen",
+        "Fiorentina Conference-Quali-Hoffnung"
+      ],
+      "quellen_aggregator": ["https://dailysports.net/predictions/juventus-vs-fiorentina-prediction-h2h-and-probable-lineups-may-17-2026/", "https://www.legaseriea.it/"]
+    },
+    {
+      "id": "2026-05-17-pis-nap",
+      "liga": "Serie A",
+      "matchday": 37,
+      "heim": "AC Pisa 1909",
+      "gast": "SSC Napoli",
+      "anstoss": "2026-05-17T12:30:00+02:00",
+      "stadion": "Arena Garibaldi, Pisa",
+      "squad_heim": [], "squad_gast": [],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine", "gast": "keine", "quellen": ["https://www.legaseriea.it/"]},
+      "saisonziel_heim": "Pisa Mid-Bottom (Aufsteiger), Klassenerhalt-Druck",
+      "saisonziel_gast": "Napoli Mid-Top, Champions-League-Quali-Profil moeglich",
+      "tabellenstand": {"heim_platz": 17, "heim_pkt": 33, "gast_platz": 6, "gast_pkt": 62},
+      "form_heim_letzte_5": "?", "form_gast_letzte_5": "?",
+      "recovery_heim": "?", "recovery_gast": "?",
+      "quoten": {"bet365_naeherung": {"sieg_heim": 5.50, "draw": 3.80, "sieg_gast": 1.60, "ueber_2_5": 1.95, "unter_2_5": 1.85}, "_quelle": "Aggregator-Schaetzung 14.05."},
+      "news_kompakt": ["Beobachtungs-Status Serie A"],
+      "quellen_aggregator": ["https://www.legaseriea.it/"]
+    },
+    {
+      "id": "2026-05-17-int-ver",
+      "liga": "Serie A",
+      "matchday": 37,
+      "heim": "FC Internazionale Milano",
+      "gast": "Hellas Verona FC",
+      "anstoss": "2026-05-17T15:00:00+02:00",
+      "stadion": "Stadio Giuseppe Meazza (San Siro), Milan",
+      "squad_heim": [
+        {"name": "Yann Sommer / Josep Martinez", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.inter.it"},
+        {"name": "Lautaro Martinez", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.inter.it", "hinweis": "Kapitaen, Trophy-Uebergabe-Empfaenger im Scudetto-Festakt nach Spiel."},
+        {"name": "Marcus Thuram", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.inter.it"}
+      ],
+      "squad_gast": [
+        {"name": "Lorenzo Montipo", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.hellasverona.it"}
+      ],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine - Inter 21. Scudetto schon sicher seit 3 Spielen", "gast": "keine", "quellen": ["https://www.legaseriea.it/", "https://en.wikipedia.org/wiki/2025%E2%80%9326_Inter_Milan_season"]},
+      "saisonziel_heim": "Inter 1. Meister - Scudetto schon sicher, Heim-Festakt + Pullman-Parade nach Spiel",
+      "saisonziel_gast": "Verona Mid-Bottom-Tabelle, Klassenerhalt knapp",
+      "tabellenstand": {"heim_platz": 1, "heim_pkt": 85, "gast_platz": 18, "gast_pkt": 30},
+      "form_heim_letzte_5": "?", "form_gast_letzte_5": "?",
+      "recovery_heim": "Inter 7 Tage", "recovery_gast": "Verona 7 Tage",
+      "quoten": {
+        "bet365_naeherung": {"sieg_heim": 1.20, "draw": 7.00, "sieg_gast": 14.0, "ueber_2_5": 1.45, "unter_2_5": 2.75, "btts_ja": 2.00, "btts_nein": 1.80, "dc_1x": 1.04, "dc_x2": 4.50},
+        "_quelle": "Aggregator-Schaetzung 14.05. (Scudetto-Heim-Show)"
+      },
+      "news_kompakt": [
+        "Inter Scudetto-Festakt nach Spiel - 21. Titel, Pullman-Parade durch Mailand bis Piazza Duomo ca. 22:30",
+        "Verona im Klassenerhalt-Kampf (18.), Pflichtsieg-Profil aber Klassen-Differenz brutal",
+        "Heim-Saison-Tor-Festival wahrscheinlich"
+      ],
+      "quellen_aggregator": [
+        "https://www.inter.it/en/news/inter-hellas-verona-schedule-matchday-37-serie-a-25-26",
+        "https://sport.sky.it/calcio/serie-a/2026/05/07/inter-festa-scudetto-17-maggio-verona-news",
+        "https://www.legaseriea.it/"
+      ]
+    },
+    {
+      "id": "2026-05-17-ata-bol",
+      "liga": "Serie A",
+      "matchday": 37,
+      "heim": "Atalanta BC",
+      "gast": "Bologna FC 1909",
+      "anstoss": "2026-05-17T18:00:00+02:00",
+      "stadion": "Gewiss Stadium, Bergamo",
+      "squad_heim": [], "squad_gast": [],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine", "gast": "keine", "quellen": ["https://www.legaseriea.it/"]},
+      "saisonziel_heim": "Atalanta Mid-Top, Conference/EL-Quali-Profil",
+      "saisonziel_gast": "Bologna 7. - EL-Quali-Profil moeglich",
+      "tabellenstand": {"heim_platz": 7, "heim_pkt": 58, "gast_platz": 10, "gast_pkt": 50},
+      "form_heim_letzte_5": "?", "form_gast_letzte_5": "?",
+      "recovery_heim": "?", "recovery_gast": "?",
+      "quoten": {"bet365_naeherung": {"sieg_heim": 1.85, "draw": 3.60, "sieg_gast": 4.20, "ueber_2_5": 1.85, "unter_2_5": 1.95, "btts_ja": 1.75, "btts_nein": 2.05}, "_quelle": "Ratingbet/Aggregator 14.05."},
+      "news_kompakt": ["Beide kaempfen um europ. Plaetze", "Bologna 10. 50 Pkt"],
+      "quellen_aggregator": ["https://ratingbet.com/predictions/atalanta-vs-bologna-prediction-teams-form-analysis-possible-lineups-on-may-17-2026/", "https://www.legaseriea.it/"]
+    },
+    {
+      "id": "2026-05-17-cag-tor",
+      "liga": "Serie A",
+      "matchday": 37,
+      "heim": "Cagliari Calcio",
+      "gast": "Torino FC",
+      "anstoss": "2026-05-17T20:45:00+02:00",
+      "stadion": "Unipol Domus, Cagliari",
+      "squad_heim": [], "squad_gast": [],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine", "gast": "keine", "quellen": ["https://www.legaseriea.it/"]},
+      "saisonziel_heim": "Cagliari 16. mit 37 Pkt - paar Stufen ueber Abstiegszone, Klassenerhalt-Druck moeglich",
+      "saisonziel_gast": "Torino Mid-Table, eine der organisiertesten Defensiven der Liga",
+      "tabellenstand": {"heim_platz": 16, "heim_pkt": 37, "gast_platz": 12, "gast_pkt": 41},
+      "form_heim_letzte_5": "?", "form_gast_letzte_5": "?",
+      "recovery_heim": "?", "recovery_gast": "?",
+      "quoten": {"bet365_naeherung": {"sieg_heim": 2.50, "draw": 3.10, "sieg_gast": 2.80, "ueber_2_5": 2.40, "unter_2_5": 1.55, "btts_ja": 2.00, "btts_nein": 1.80}, "_quelle": "Dailysports/Aggregator 14.05."},
+      "news_kompakt": ["Torino Top-Defense - Unter-2.5-Tendenz", "Cagliari knapp ueber Abstieg"],
+      "quellen_aggregator": ["https://dailysports.net/predictions/cagliari-vs-torino-prediction-h2h-and-probable-lineups-may-17-2026/", "https://www.legaseriea.it/"]
+    },
+    {
+      "id": "2026-05-17-sas-lec",
+      "liga": "Serie A",
+      "matchday": 37,
+      "heim": "US Sassuolo Calcio",
+      "gast": "US Lecce",
+      "anstoss": "2026-05-17T20:45:00+02:00",
+      "stadion": "Mapei Stadium, Reggio Emilia",
+      "squad_heim": [], "squad_gast": [],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine", "gast": "keine", "quellen": ["https://www.legaseriea.it/"]},
+      "saisonziel_heim": "Sassuolo Aufsteiger Mid-Bottom",
+      "saisonziel_gast": "Lecce Mid-Bottom, Klassenerhalt-Druck",
+      "tabellenstand": {"heim_platz": 13, "heim_pkt": 39, "gast_platz": 14, "gast_pkt": 38},
+      "form_heim_letzte_5": "?", "form_gast_letzte_5": "?",
+      "recovery_heim": "?", "recovery_gast": "?",
+      "quoten": {"bet365_naeherung": {"sieg_heim": 2.20, "draw": 3.30, "sieg_gast": 3.20, "ueber_2_5": 2.10, "unter_2_5": 1.70}, "_quelle": "Aggregator-Schaetzung 14.05."},
+      "news_kompakt": ["Beobachtungs-Status"],
+      "quellen_aggregator": ["https://www.legaseriea.it/"]
+    },
+    {
+      "id": "2026-05-17-udi-cre",
+      "liga": "Serie A",
+      "matchday": 37,
+      "heim": "Udinese Calcio",
+      "gast": "US Cremonese",
+      "anstoss": "2026-05-17T20:45:00+02:00",
+      "stadion": "Bluenergy Stadium, Udine",
+      "squad_heim": [], "squad_gast": [],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine", "gast": "keine", "quellen": ["https://www.legaseriea.it/"]},
+      "saisonziel_heim": "Udinese Mid-Table",
+      "saisonziel_gast": "Cremonese Aufsteiger, Klassenerhalt-Druck",
+      "tabellenstand": {"heim_platz": 9, "heim_pkt": 51, "gast_platz": 19, "gast_pkt": 28},
+      "form_heim_letzte_5": "?", "form_gast_letzte_5": "?",
+      "recovery_heim": "?", "recovery_gast": "?",
+      "quoten": {"bet365_naeherung": {"sieg_heim": 1.65, "draw": 3.80, "sieg_gast": 5.00, "ueber_2_5": 1.95, "unter_2_5": 1.85}, "_quelle": "Aggregator-Schaetzung 14.05."},
+      "news_kompakt": ["Cremonese Klassenerhalt-Pflicht"],
+      "quellen_aggregator": ["https://www.legaseriea.it/"]
+    },
+    {
+      "id": "2026-05-17-lor-leh",
+      "liga": "Ligue 1",
+      "matchday": 34,
+      "heim": "FC Lorient",
+      "gast": "Le Havre AC",
+      "anstoss": "2026-05-17T21:00:00+02:00",
+      "stadion": "Stade du Moustoir, Lorient",
+      "squad_heim": [], "squad_gast": [],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine", "gast": "keine", "quellen": ["https://www.ligue1.com/"]},
+      "saisonziel_heim": "Lorient Mid-Bottom, Klassenerhalt knapp",
+      "saisonziel_gast": "Le Havre Klassenerhalt-Kampf",
+      "tabellenstand": {"heim_platz": 14, "heim_pkt": 36, "gast_platz": 17, "gast_pkt": 30},
+      "form_heim_letzte_5": "?", "form_gast_letzte_5": "?",
+      "recovery_heim": "?", "recovery_gast": "?",
+      "quoten": {"bet365_naeherung": {"sieg_heim": 1.90, "draw": 3.40, "sieg_gast": 4.00, "ueber_2_5": 2.10, "unter_2_5": 1.70}, "_quelle": "Aggregator-Schaetzung 14.05."},
+      "news_kompakt": ["Beobachtungs-Status Ligue 1"],
+      "quellen_aggregator": ["https://ligue1.com/en/calendar"]
+    },
+    {
+      "id": "2026-05-17-nan-tfc",
+      "liga": "Ligue 1",
+      "matchday": 34,
+      "heim": "FC Nantes",
+      "gast": "Toulouse FC",
+      "anstoss": "2026-05-17T21:00:00+02:00",
+      "stadion": "Stade de la Beaujoire, Nantes",
+      "squad_heim": [], "squad_gast": [],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine", "gast": "keine", "quellen": ["https://www.ligue1.com/"]},
+      "saisonziel_heim": "Nantes Mid-Bottom",
+      "saisonziel_gast": "Toulouse Mid-Table",
+      "tabellenstand": {"heim_platz": 13, "heim_pkt": 37, "gast_platz": 9, "gast_pkt": 44},
+      "form_heim_letzte_5": "?", "form_gast_letzte_5": "?",
+      "recovery_heim": "?", "recovery_gast": "?",
+      "quoten": {"bet365_naeherung": {"sieg_heim": 2.50, "draw": 3.10, "sieg_gast": 2.85, "ueber_2_5": 2.10, "unter_2_5": 1.70}, "_quelle": "Aggregator-Schaetzung 14.05."},
+      "news_kompakt": ["Beobachtungs-Status Ligue 1"],
+      "quellen_aggregator": ["https://ligue1.com/en/calendar"]
+    },
+    {
+      "id": "2026-05-17-pfc-psg",
+      "liga": "Ligue 1",
+      "matchday": 34,
+      "heim": "Paris FC",
+      "gast": "Paris Saint-Germain",
+      "anstoss": "2026-05-17T21:00:00+02:00",
+      "stadion": "Stade Jean Bouin, Paris",
+      "squad_heim": [],
+      "squad_gast": [
+        {"name": "Gianluigi Donnarumma / Lucas Chevalier", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.psg.fr"},
+        {"name": "Bradley Barcola", "nummer": null, "position": "LF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.psg.fr"},
+        {"name": "Ousmane Dembele", "nummer": null, "position": "RF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.psg.fr"},
+        {"name": "Goncalo Ramos / Vitinha", "nummer": null, "position": "ST/OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.psg.fr"}
+      ],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {
+        "heim": "keine",
+        "gast": "Champions League FINAL 30.05.2026 vs Arsenal - 13 Tage spaeter (knapp ausserhalb 7-Tage-Cluster, leichte Rotation moeglich aber Ligue 1 Saison-Ende-Spiel)",
+        "quellen": ["https://en.parisfans.fr/psgs-schedule-this-week-the-end-of-ligue-1.html", "https://www.uefa.com/uefachampionsleague/final/"]
+      },
+      "saisonziel_heim": "Paris FC 13. Mid-Table-Aufsteiger - kein Druck mehr",
+      "saisonziel_gast": "PSG 1. Meister gesichert - Saison-Ende vor CL-Final 30.05. (13 Tage). Letztes Liga-Spiel = leichte Rotation aber konservativ",
+      "tabellenstand": {"heim_platz": 13, "heim_pkt": 39, "gast_platz": 1, "gast_pkt": 80},
+      "form_heim_letzte_5": "S-N-?-?-? (4:0 Brest, 1:2 in Rennes letzte Wochen)",
+      "form_gast_letzte_5": "S-S-S-S-S",
+      "recovery_heim": "Paris FC 7 Tage",
+      "recovery_gast": "PSG 7+ Tage, dann 13 Tage Pause vor CL-Final",
+      "quoten": {
+        "bet365_naeherung": {"sieg_heim": 7.50, "draw": 5.00, "sieg_gast": 1.52, "ueber_2_5": 1.45, "unter_2_5": 2.65, "btts_ja": 2.10, "btts_nein": 1.70, "dc_1x": 3.30, "dc_x2": 1.15},
+        "_quelle": "Feedinco/Forebet 14.05."
+      },
+      "news_kompakt": [
+        "PSG vor 2 Wochen Pause + CL-Final vs Arsenal 30.05.",
+        "PSG Sieg-Quote 1.52, Saison-Ende-Spiel ohne Tabellen-Druck - leichte Rotation moeglich",
+        "Paris FC 4:0 Brest aber 1:2 Rennes - inkonstante Saisonende-Form"
+      ],
+      "quellen_aggregator": [
+        "https://www.feedinco.com/predictions/2026-05-17/Paris-FC-vs-PSG-prediction",
+        "https://www.forebet.com/en/football/matches/paris-fc-psg-2316423",
+        "https://en.parisfans.fr/ligue-1-schedule-and-broadcast-of-matchday-34-multiplex-on-may-17.html"
+      ]
+    },
+    {
+      "id": "2026-05-17-nic-fcm",
+      "liga": "Ligue 1",
+      "matchday": 34,
+      "heim": "OGC Nice",
+      "gast": "FC Metz",
+      "anstoss": "2026-05-17T21:00:00+02:00",
+      "stadion": "Allianz Riviera, Nice",
+      "squad_heim": [], "squad_gast": [],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine", "gast": "keine", "quellen": ["https://www.ligue1.com/"]},
+      "saisonziel_heim": "Nice Mid-Table",
+      "saisonziel_gast": "Metz Aufsteiger, Klassenerhalt-Druck",
+      "tabellenstand": {"heim_platz": 7, "heim_pkt": 48, "gast_platz": 16, "gast_pkt": 32},
+      "form_heim_letzte_5": "?", "form_gast_letzte_5": "?",
+      "recovery_heim": "?", "recovery_gast": "?",
+      "quoten": {"bet365_naeherung": {"sieg_heim": 1.65, "draw": 3.80, "sieg_gast": 5.00, "ueber_2_5": 1.95, "unter_2_5": 1.85}, "_quelle": "Aggregator-Schaetzung 14.05."},
+      "news_kompakt": ["Beobachtungs-Status Ligue 1"],
+      "quellen_aggregator": ["https://ligue1.com/en/calendar"]
+    },
+    {
+      "id": "2026-05-17-lyo-len",
+      "liga": "Ligue 1",
+      "matchday": 34,
+      "heim": "Olympique Lyonnais",
+      "gast": "Racing Club de Lens",
+      "anstoss": "2026-05-17T21:00:00+02:00",
+      "stadion": "Groupama Stadium, Lyon",
+      "squad_heim": [], "squad_gast": [],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine - Lyon EL-Achtelfinale (April) ausgeschieden", "gast": "keine", "quellen": ["https://www.uefa.com/uefaeuropaleague/"]},
+      "saisonziel_heim": "Lyon Top-6 - EL/CL-Quali-Hoffnung",
+      "saisonziel_gast": "Lens Mid-Top - EL-Quali-Profil",
+      "tabellenstand": {"heim_platz": 5, "heim_pkt": 56, "gast_platz": 8, "gast_pkt": 46},
+      "form_heim_letzte_5": "?", "form_gast_letzte_5": "?",
+      "recovery_heim": "?", "recovery_gast": "?",
+      "quoten": {"bet365_naeherung": {"sieg_heim": 1.80, "draw": 3.50, "sieg_gast": 4.20, "ueber_2_5": 2.05, "unter_2_5": 1.75}, "_quelle": "Aggregator-Schaetzung 14.05."},
+      "news_kompakt": ["Lyon EL/CL-Quali-Hoffnung"],
+      "quellen_aggregator": ["https://ligue1.com/en/calendar"]
+    },
+    {
+      "id": "2026-05-17-mar-ren",
+      "liga": "Ligue 1",
+      "matchday": 34,
+      "heim": "Olympique de Marseille",
+      "gast": "Stade Rennais FC",
+      "anstoss": "2026-05-17T21:00:00+02:00",
+      "stadion": "Orange Velodrome, Marseille",
+      "squad_heim": [], "squad_gast": [],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine", "gast": "keine", "quellen": ["https://www.ligue1.com/"]},
+      "saisonziel_heim": "Marseille 2. - CL-Quali fast gesichert",
+      "saisonziel_gast": "Rennes Mid-Table",
+      "tabellenstand": {"heim_platz": 2, "heim_pkt": 65, "gast_platz": 10, "gast_pkt": 43},
+      "form_heim_letzte_5": "?", "form_gast_letzte_5": "?",
+      "recovery_heim": "?", "recovery_gast": "?",
+      "quoten": {"bet365_naeherung": {"sieg_heim": 1.55, "draw": 4.20, "sieg_gast": 5.50, "ueber_2_5": 1.85, "unter_2_5": 1.95}, "_quelle": "Aggregator-Schaetzung 14.05."},
+      "news_kompakt": ["Marseille 2. CL-Quali"],
+      "quellen_aggregator": ["https://ligue1.com/en/calendar"]
+    },
+    {
+      "id": "2026-05-17-lil-aux",
+      "liga": "Ligue 1",
+      "matchday": 34,
+      "heim": "Lille OSC",
+      "gast": "AJ Auxerre",
+      "anstoss": "2026-05-17T21:00:00+02:00",
+      "stadion": "Stade Pierre Mauroy, Lille",
+      "squad_heim": [], "squad_gast": [],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine - Lille nicht in K.O.-Phase EL diese Saison", "gast": "keine", "quellen": ["https://www.uefa.com/uefaeuropaleague/"]},
+      "saisonziel_heim": "Lille 4. - CL-Quali-Profil moeglich",
+      "saisonziel_gast": "Auxerre Mid-Bottom",
+      "tabellenstand": {"heim_platz": 4, "heim_pkt": 58, "gast_platz": 12, "gast_pkt": 39},
+      "form_heim_letzte_5": "?", "form_gast_letzte_5": "?",
+      "recovery_heim": "?", "recovery_gast": "?",
+      "quoten": {"bet365_naeherung": {"sieg_heim": 1.55, "draw": 4.10, "sieg_gast": 5.50, "ueber_2_5": 1.85, "unter_2_5": 1.95}, "_quelle": "Aggregator-Schaetzung 14.05."},
+      "news_kompakt": ["Lille CL-Quali-Hoffnung"],
+      "quellen_aggregator": ["https://ligue1.com/en/calendar"]
+    },
+    {
+      "id": "2026-05-17-rcs-mon",
+      "liga": "Ligue 1",
+      "matchday": 34,
+      "heim": "RC Strasbourg Alsace",
+      "gast": "AS Monaco",
+      "anstoss": "2026-05-17T21:00:00+02:00",
+      "stadion": "Stade de la Meinau, Strasbourg",
+      "squad_heim": [], "squad_gast": [],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine - Strasbourg Conference-SF gegen Rayo ausgeschieden", "gast": "keine", "quellen": ["https://www.uefa.com/uefaconferenceleague/"]},
+      "saisonziel_heim": "Strasbourg Mid-Table",
+      "saisonziel_gast": "Monaco 3. - CL-Quali-Profil moeglich",
+      "tabellenstand": {"heim_platz": 6, "heim_pkt": 51, "gast_platz": 3, "gast_pkt": 63},
+      "form_heim_letzte_5": "?", "form_gast_letzte_5": "?",
+      "recovery_heim": "?", "recovery_gast": "?",
+      "quoten": {"bet365_naeherung": {"sieg_heim": 2.40, "draw": 3.40, "sieg_gast": 2.70, "ueber_2_5": 1.85, "unter_2_5": 1.95}, "_quelle": "Aggregator-Schaetzung 14.05."},
+      "news_kompakt": ["Monaco CL-Quali-Hoffnung Top-3"],
+      "quellen_aggregator": ["https://ligue1.com/en/calendar"]
+    },
+    {
+      "id": "2026-05-17-bre-ang",
+      "liga": "Ligue 1",
+      "matchday": 34,
+      "heim": "Stade Brestois 29",
+      "gast": "Angers SCO",
+      "anstoss": "2026-05-17T21:00:00+02:00",
+      "stadion": "Stade Francis-Le Ble, Brest",
+      "squad_heim": [], "squad_gast": [],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine", "gast": "keine", "quellen": ["https://www.ligue1.com/"]},
+      "saisonziel_heim": "Brest Mid-Table",
+      "saisonziel_gast": "Angers Mid-Bottom",
+      "tabellenstand": {"heim_platz": 11, "heim_pkt": 42, "gast_platz": 15, "gast_pkt": 35},
+      "form_heim_letzte_5": "?", "form_gast_letzte_5": "?",
+      "recovery_heim": "?", "recovery_gast": "?",
+      "quoten": {"bet365_naeherung": {"sieg_heim": 1.85, "draw": 3.50, "sieg_gast": 4.20, "ueber_2_5": 1.95, "unter_2_5": 1.85}, "_quelle": "Aggregator-Schaetzung 14.05."},
+      "news_kompakt": ["Beobachtungs-Status Ligue 1"],
+      "quellen_aggregator": ["https://ligue1.com/en/calendar"]
+    },
+    {
+      "id": "2026-05-17-2bl-multi",
+      "liga": "2. Bundesliga",
+      "matchday": 34,
+      "heim": "(Multi-Spielzeitfenster - 8 Spiele)",
+      "gast": "(siehe details)",
+      "anstoss": "2026-05-17T15:30:00+02:00",
+      "stadion": "Multi-Stadien Deutschland",
+      "squad_heim": [], "squad_gast": [],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine", "gast": "keine", "quellen": ["https://www.fussballdaten.de/2liga/2026/34/"]},
+      "saisonziel_heim": "Saison-Finale 2.BL alle 8 Spiele simultan 15:30",
+      "saisonziel_gast": "siehe details_spiele",
+      "tabellenstand": {"heim_platz": null, "heim_pkt": null, "gast_platz": null, "gast_pkt": null},
+      "form_heim_letzte_5": "n/a", "form_gast_letzte_5": "n/a",
+      "recovery_heim": "n/a", "recovery_gast": "n/a",
+      "quoten": {"bet365_naeherung": null, "_quelle": "Beobachtungs-Liga: nicht Tipp-faehig"},
+      "news_kompakt": [
+        "FC Schalke 04 1. (67 Pkt, schon Aufstieg sicher) vs Eintracht Braunschweig 14.",
+        "Elversberg 2. vs Preussen Muenster 18. (Klassenerhalts-Pflicht Muenster)",
+        "Karlsruher SC 9. vs VfL Bochum 10.",
+        "Hannover 96 3. vs 1. FC Nuernberg 8.",
+        "SV Darmstadt 98 5. vs SC Paderborn 4.",
+        "SpVgg Greuther Fuerth 17. vs Fortuna Duesseldorf 15. (Klassenerhalts-Showdown)",
+        "Magdeburg 12. vs 1. FC Kaiserslautern 7.",
+        "Arminia Bielefeld 16. vs Hertha BSC 6. (BSC unter Doppelaufstiegs-Hoffnung?)",
+        "Aufstiegs-Konstellation: Schalke direkter Aufstieg sicher, 3-Way um Plaetze 2-4 (Elversberg/Hannover/Paderborn alle ~59-58 Pkt)",
+        "Klassenerhalts-Drama: Muenster 18. mit 30 Pkt vor Fuerth 17. + Bielefeld 16."
+      ],
+      "quellen_aggregator": [
+        "https://www.fussballdaten.de/2liga/2026/34/",
+        "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-2-bundesliga/kalender"
+      ],
+      "details_spiele": [
+        "Elversberg vs Preussen Muenster",
+        "Magdeburg vs 1. FC Kaiserslautern",
+        "Karlsruher SC vs VfL Bochum",
+        "Hannover 96 vs 1. FC Nuernberg",
+        "SV Darmstadt 98 vs SC Paderborn 07",
+        "SpVgg Greuther Fuerth vs Fortuna Duesseldorf",
+        "FC Schalke 04 vs Eintracht Braunschweig",
+        "Arminia Bielefeld vs Hertha BSC"
+      ]
+    },
+    {
+      "id": "2026-05-17-nba-spu-min",
+      "liga": "NBA Playoffs",
+      "matchday": null,
+      "heim": "San Antonio Spurs",
+      "gast": "Minnesota Timberwolves",
+      "anstoss": "2026-05-17T04:00:00+02:00",
+      "stadion": "Frost Bank Center, San Antonio (UNGEWISS - nur falls G7 noetig)",
+      "squad_heim": [
+        {"name": "Victor Wembanyama", "nummer": null, "position": "PF/C", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.nba.com/spurs"}
+      ],
+      "squad_gast": [
+        {"name": "Anthony Edwards", "nummer": null, "position": "SG", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.nba.com/timberwolves"}
+      ],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "Conference Finals nach Sieg - Spurs 3:2 Serien-Stand", "gast": "Conference Finals nach Sieg", "quellen": ["https://www.nba.com/playoffs/2026"]},
+      "saisonziel_heim": "Conference Finals Western - Heim-Vorteil",
+      "saisonziel_gast": "Conference Finals Western - muss Spurs auswaerts schlagen",
+      "tabellenstand": null,
+      "form_heim_letzte_5": "?", "form_gast_letzte_5": "?",
+      "recovery_heim": "2 Tage seit G6 (15.05.)", "recovery_gast": "2 Tage seit G6 (15.05.)",
+      "quoten": {"bet365_naeherung": null, "_quelle": "G7 unklar - falls G6 15.05. entscheidet, kein G7"},
+      "news_kompakt": [
+        "Spurs vs Timberwolves CSemifinal-Serie 3:2 (Spurs Heim-Vorteil G7)",
+        "G7 nur wenn G6 nicht entschieden",
+        "Anstoss vermutlich Sa-Abend US (Sonntag 04:00 Berlin)"
+      ],
+      "quellen_aggregator": [
+        "https://www.espn.com/nba/story/_/id/48419498/nba-playoffs-2026-play-finals-schedule-scores-news-highlights-bracket-dates",
+        "https://www.nbcsports.com/nba/news/2026-nba-playoffs-bracket-schedule-scores-matchups"
+      ]
+    },
+    {
+      "id": "2026-05-17-nba-det-cle",
+      "liga": "NBA Playoffs",
+      "matchday": null,
+      "heim": "Detroit Pistons",
+      "gast": "Cleveland Cavaliers",
+      "anstoss": "2026-05-17T04:00:00+02:00",
+      "stadion": "Little Caesars Arena, Detroit (UNGEWISS - nur falls G7 noetig)",
+      "squad_heim": [
+        {"name": "Cade Cunningham", "nummer": null, "position": "PG", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.nba.com/pistons"}
+      ],
+      "squad_gast": [
+        {"name": "Donovan Mitchell", "nummer": null, "position": "SG", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.nba.com/cavaliers"}
+      ],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "Conference Finals nach Sieg", "gast": "Conference Finals nach Sieg", "quellen": ["https://www.nba.com/playoffs/2026"]},
+      "saisonziel_heim": "Conference Finals Eastern - Heim-Vorteil",
+      "saisonziel_gast": "Conference Finals Eastern - muss Pistons auswaerts schlagen",
+      "tabellenstand": null,
+      "form_heim_letzte_5": "?", "form_gast_letzte_5": "?",
+      "recovery_heim": "2 Tage seit G6 (15.05.)", "recovery_gast": "2 Tage seit G6 (15.05.)",
+      "quoten": {"bet365_naeherung": null, "_quelle": "G7 unklar - falls G6 15.05. entscheidet, kein G7"},
+      "news_kompakt": [
+        "Pistons vs Cavaliers CSemifinal-Serie 3:2 (Pistons Heim-Vorteil G7)",
+        "G7 nur wenn G6 nicht entschieden",
+        "Anstoss vermutlich Sa-Abend US (Sonntag 04:00 Berlin)"
+      ],
+      "quellen_aggregator": [
+        "https://www.espn.com/nba/story/_/id/48419498/nba-playoffs-2026-play-finals-schedule-scores-news-highlights-bracket-dates",
+        "https://www.nbcsports.com/nba/news/2026-nba-playoffs-bracket-schedule-scores-matchups"
+      ]
+    }
+  ]
+}
