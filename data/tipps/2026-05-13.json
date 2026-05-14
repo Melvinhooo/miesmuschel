@@ -31,55 +31,9 @@
         "Thuram lt. Chivu fit; Calhanoglu mit neuem Muskelproblem fraglich. Lazio ohne Cataldi (Adduktor) wahrscheinlich, Zaccagni doubt fuer Startelf.",
         "Pokal-Final - Coppa Italia ist KEINE Beobachtungs-Liga (Serie A schon, aber Pokale bleiben normal lt. Lesson 27.04.). Kein Liga-Goldgrube-Status."
       ],
-      "tipps": [
-        {
-          "kategorie": "value",
-          "markt": "Inter Sieg (90 Min)",
-          "quote": 1.68,
-          "edge_prozent": 12,
-          "begruendung": "Inter Klasse-Edge massiv (Serie-A-Titel-Anwaerter vs 8.-Lazio), 9 H2H ungeschlagen + Lazio-Sieg-Markt-Goldgrube (Sieg 1X2 jetzt Markt-Goldgrube laut statistik.json). PFLICHT-PROFILE: Auswaerts-Favorit-Spiel (Quote ~1.68 < 2.20) braucht Torschuetzen-Auswaerts-Tipp + Sieg/Spread - beides bedient. KEIN SAFE wegen Pokal-Final-Verzerrung (90-Min-Wertung in Final = Verlaengerung-Risiko + Lazio-Motivations-Asymmetrie als Saison-Highlight). Empfohlener Einsatz Stufe-1: 1.5% Kasse = 8.25€. Quote bei bet365 live verifizieren.",
-          "empfohlener_einsatz_prozent": 1.5,
-          "faire_quote": 1.5
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Lautaro Martinez Torschuetze Jederzeit",
-          "quote": 2.3,
-          "edge_prozent": 15,
-          "begruendung": "Torschuetzen-Jederzeit-Markt aktuelle Goldgrube (+21% ROI, n=26 in markt_goldgruben.json). Lautaro ist Inter-Volumen-9er, mit Thuram als gestoppter Partner bekommt Lautaro mehr Touches. PFLICHT-PROFILE-Bedingung erfuellt (Auswaerts-Favorit braucht Torschuetzen-Auswaerts-Tipp). HR24: Lautaro 5+ Tore in letzten 10 Spielen erfuellt. Aufstellungs-Verifikation 90 Min vor Anstoss PFLICHT (Lesson 10.+13.05.). Wenn Lautaro startet -> 1% Kasse = 5.50€, sonst skippen. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
-          "empfohlener_einsatz_prozent": 1.0,
-          "faire_quote": 2.0,
-          "_torschuetze_quelle_warn": true
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.72,
-          "edge_prozent": 6,
-          "begruendung": "Pokal-Final-Tor-These ambivalent: einerseits hohe Klassendifferenz spricht fuer Inter-Tor-Produktion, andererseits Lazio-Final-Druck-Defensive moeglich. Goldgrube-Markt Ueber 2.5 (+62.8% ROI). Aber NICHT als SAFE, weil Final-Modus oft <2.5-Tore-Ende (Lesson 06.05. CL-Rueckspiel-Tor-Reduzierung als Analogon). Stake reduziert: 0.5% = 2.75€.",
-          "empfohlener_einsatz_prozent": 0.5,
-          "faire_quote": 1.62
-        },
-        {
-          "kategorie": "risk",
-          "markt": "Inter Sieg + Beide Teams treffen JA",
-          "quote": 4.2,
-          "edge_prozent": 8,
-          "begruendung": "Klassischer Pokal-Final-Mix: Inter-Sieg-These (Klasse-Edge) + BTTS-JA-These (Lazio-Druck-Auswaertstor-Schuss). Kombi-Bein-Potenz fuer Risiko-Kombi. 0.25% = 1.40€.",
-          "empfohlener_einsatz_prozent": 0.25,
-          "faire_quote": 3.89
-        },
-        {
-          "kategorie": "moonshot",
-          "markt": "Lazio Sieg in 90 Min",
-          "quote": 4.5,
-          "edge_prozent": 3,
-          "begruendung": "Saisonende-Lazio-mit-Allem-zu-Spielen + Final-im-eigenen-Stadion-Vorteil + Calhanoglu-Doubt-Edge. Klassiker-Pokal-Underdog-Setup. Spass-Einsatz, 0.1% = 0.55€.",
-          "empfohlener_einsatz_prozent": 0.1,
-          "faire_quote": 4.37
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-05-13-mci-cry",
@@ -118,15 +72,6 @@
           "begruendung": "Klasse + Heim + Pflicht-Sieg-Druck (Titel) + Palace-Schon-Modus vor Conference-Final = praktisch perfekter Storm. PFLICHT-PROFILE Heim-Favorit (Quote 1.20<1.80) erfuellt + Torschuetzen-Tipp folgt. KEIN SAFE wegen 1.20-Quote-Knappheit (SAFE braucht 1.20+-Reality-Check) + PL ist nicht Goldgrube-Liga (Hebel C) - max VALUE legitim. Empfohlener Einsatz Stufe 1: 1.5% = 8.25€ (Half-Kelly-konservativ).",
           "empfohlener_einsatz_prozent": 1.5,
           "faire_quote": 1.02
-        },
-        {
-          "kategorie": "value",
-          "markt": "Erling Haaland Torschuetze Jederzeit",
-          "quote": 1.42,
-          "edge_prozent": 14,
-          "begruendung": "Haaland-PL-Heim-Tor-Quote >50% saisonweit, gegen Palace-2nd-string-Defensive-Bank-Rotation noch hoeher. Torschuetzen-Jederzeit-Goldgrube (+21% ROI). PFLICHT-PROFILE Heim-Favorit-Torschuetzen-Bedingung erfuellt. HR24 (b) erfuellt (5+ Tore in letzten 10 Spielen). Aufstellungs-Verifikation 60-90 Min vor Anstoss PFLICHT (Lesson 10.+13.05.) - wenn Haaland startet 1% Kasse = 5.50€, sonst skippen.",
-          "empfohlener_einsatz_prozent": 1.0,
-          "faire_quote": 1.25
         },
         {
           "kategorie": "wackel",
@@ -266,15 +211,6 @@
           "faire_quote": 1.68
         },
         {
-          "kategorie": "wackel",
-          "markt": "Mikautadze Torschuetze Jederzeit",
-          "quote": 2.6,
-          "edge_prozent": 8,
-          "begruendung": "Mikautadze Villarreal-Top-Stuermer 2025/26 mit hoher Tor-Saison-Volume. PFLICHT-PROFILE-Heim-Favorit-Torschuetzen-Bedingung erfuellt. Torschuetzen-Jederzeit-Goldgrube (+21% ROI). Aufstellungs-Verifikation 60-90 Min vor Anstoss PFLICHT (Lesson 10.+13.05.). 0.5% = 2.75€.",
-          "empfohlener_einsatz_prozent": 0.5,
-          "faire_quote": 2.41
-        },
-        {
           "kategorie": "risk",
           "markt": "Villarreal Sieg & Ueber 2.5 Tore",
           "quote": 2.4,
@@ -341,15 +277,6 @@
           "begruendung": "Ueber-2.5-Goldgrube (+62.8% ROI). Barca-Auswaerts-Tor-Schnitt 2.5+ in 2025/26, gegen Alaves-Mid-Defense klar wahrscheinlich. Lesson 13.05.: LaLiga-Ueber-2.5-Refinement-aktiv weil Druck-Klassen-Spiel (Barca-Sieg-Edge hoch). 1.0% = 5.50€.",
           "empfohlener_einsatz_prozent": 1.0,
           "faire_quote": 1.34
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Lewandowski Torschuetze Jederzeit",
-          "quote": 2.2,
-          "edge_prozent": 6,
-          "begruendung": "PFLICHT-PROFILE Auswaerts-Favorit-Torschuetzen-Bedingung erfuellt. Lewandowski Volumen-9er - ABER Rotations-Risiko hoch (Titel durch). HR24 Form-Edge erfuellt aber Rotation-Risk macht max wackel statt VALUE. Aufstellungs-Verifikation PFLICHT (Lesson 11.05.). Wenn Lewandowski startet 0.5% = 2.75€, sonst skippen.",
-          "empfohlener_einsatz_prozent": 0.5,
-          "faire_quote": 2.08
         },
         {
           "kategorie": "risk",
@@ -461,45 +388,9 @@
         "Lesson 05.05. HR16 NBA-Player-Punkte-Boykott in Round-Wechsel bei staerkerer Defense-Korrektur - max wackel und nur in Risiko-/Moonshot-Bein. Lesson 26.04. NBA-Playoff-Player-Punkte-Komplett-Boykott aus Einzeltipps.",
         "Lesson HR13 Round-2-G1-Adjustment fuer Total-Tipps: G5 ist KEIN G1, Pattern nicht direkt anwendbar. Aber Cavs-Pistons Series-Avg 200 Pkt < 211.5 Linie -> 'Unter' eher legitim."
       ],
-      "tipps": [
-        {
-          "kategorie": "wackel",
-          "markt": "Cleveland Cavaliers +3.5 Spread",
-          "quote": 1.91,
-          "edge_prozent": 6,
-          "begruendung": "Mitchell-43-G4-Momentum + Pistons-Rotations-Frage (LeVert/Robinson/Huerter doubt) + Cavs-Top-Seed-Klasse-Edge. Spread-Markt-Bilanz seit Saison-Start positiv. NBA-Playoff-nie-SAFE - max wackel. 0.5% = 2.75€.",
-          "empfohlener_einsatz_prozent": 0.5,
-          "faire_quote": 1.8
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Unter 211.5 Punkte",
-          "quote": 1.91,
-          "edge_prozent": 5,
-          "begruendung": "Series-Avg ~200 Pkt < 211.5 Linie. Pistons-Defense-Verletzungs-Risiko + G5-Defensive-Adjustment-Phase (Pivot-Druck = vorsichtige Spielweise). HR13 Pattern Round-2-G1 ist eigentlich G1-spezifisch, aber Defensive-Spike-Logik G5 ueberertragbar. 0.5% = 2.75€.",
-          "empfohlener_einsatz_prozent": 0.5,
-          "faire_quote": 1.82
-        },
-        {
-          "kategorie": "risk",
-          "markt": "Cleveland Cavaliers Sieg",
-          "quote": 2.35,
-          "edge_prozent": 8,
-          "begruendung": "Top-Seed-Klasse-Edge + Mitchell-Hot-Hand + Pistons-3-Doubts-Cluster. Auswaerts-Risiko durch Klasse halbwegs kompensiert. Kombi-faehig fuer Risiko-Kombi. 0.25% = 1.40€.",
-          "empfohlener_einsatz_prozent": 0.25,
-          "faire_quote": 2.18
-        },
-        {
-          "kategorie": "moonshot",
-          "markt": "Cade Cunningham Ueber 27.5 Punkte",
-          "quote": 4.5,
-          "edge_prozent": 3,
-          "begruendung": "Cunningham hat G5-Pivot-Heim-Volume-Profil mit 32+ PPG in Round 1. Cavs-Defense-Top-10 macht Linie nicht selbstlaeufer aber Pivot-Druck = Volume-Spike. Player-Punkte-Boykott seit 26.04., aber Moonshot-Spass mit Mini-Stake 0.1% = 0.55€ erlaubt laut Lesson.",
-          "empfohlener_einsatz_prozent": 0.1,
-          "faire_quote": 4.37
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     }
   ],
   "einzeltipps": [

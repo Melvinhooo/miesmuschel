@@ -223,7 +223,8 @@ window.__MIESMUSCHEL_TIPPS = {
       "quote": 1.28,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 8.25,
-      "begruendung_kurz": "Top-3 vs abgestiegener Bottom-1, ~50 Pkt Diff. SAFE-Downgrade auf VALUE wegen Real Madrid 'kein Saisonziel' (HR4)."
+      "begruendung_kurz": "Top-3 vs abgestiegener Bottom-1, ~50 Pkt Diff. SAFE-Downgrade auf VALUE wegen Real Madrid 'kein Saisonziel' (HR4).",
+      "rang": 1
     },
     {
       "spiel_id": "2026-05-14-rma-rov",
@@ -233,7 +234,8 @@ window.__MIESMUSCHEL_TIPPS = {
       "quote": 2.01,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 8.25,
-      "begruendung_kurz": "Mbappe OUT + Vinicius 4 Tore letzte 5 Spiele (HR24 Form-Edge). Goldgrube-Markt (+24.4% ROI). Aufstellungs-Verifikation 60-90 Min vor Anstoss PFLICHT."
+      "begruendung_kurz": "Mbappe OUT + Vinicius 4 Tore letzte 5 Spiele (HR24 Form-Edge). Goldgrube-Markt (+24.4% ROI). Aufstellungs-Verifikation 60-90 Min vor Anstoss PFLICHT.",
+      "rang": 2
     },
     {
       "spiel_id": "2026-05-14-rma-rov",
@@ -243,7 +245,8 @@ window.__MIESMUSCHEL_TIPPS = {
       "quote": 1.4,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 8.25,
-      "begruendung_kurz": "Goldgrube-Markt (+62.8% ROI). Real Madrid Heim vs Bottom-Defense. LaLiga MD36 3/3 Ueber 2.5 (Lesson 13.05.)."
+      "begruendung_kurz": "Goldgrube-Markt (+62.8% ROI). Real Madrid Heim vs Bottom-Defense. LaLiga MD36 3/3 Ueber 2.5 (Lesson 13.05.).",
+      "rang": 3
     },
     {
       "spiel_id": "2026-05-14-rma-rov",
@@ -253,7 +256,8 @@ window.__MIESMUSCHEL_TIPPS = {
       "quote": 2.5,
       "empfohlener_einsatz_prozent": 1.0,
       "empfohlener_einsatz_euro": 5.5,
-      "begruendung_kurz": "Goldgrube Torschuetzen. Bellingham als 10er gegen Bottom-Defense. Aufstellungs-Verifikation PFLICHT."
+      "begruendung_kurz": "Goldgrube Torschuetzen. Bellingham als 10er gegen Bottom-Defense. Aufstellungs-Verifikation PFLICHT.",
+      "rang": 4
     },
     {
       "spiel_id": "2026-05-14-gir-rso",
@@ -263,7 +267,8 @@ window.__MIESMUSCHEL_TIPPS = {
       "quote": 1.45,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 8.25,
-      "begruendung_kurz": "Lesson 14.05. Heim-Klassenerhalts-Verzweiflungs-Sieg Goldgrube + Sociedad-Auswaerts-Krise. Goldgrube-Markt DC 1X (+4.9% ROI)."
+      "begruendung_kurz": "Lesson 14.05. Heim-Klassenerhalts-Verzweiflungs-Sieg Goldgrube + Sociedad-Auswaerts-Krise. Goldgrube-Markt DC 1X (+4.9% ROI).",
+      "rang": 5
     },
     {
       "spiel_id": "2026-05-14-gir-rso",
@@ -273,7 +278,8 @@ window.__MIESMUSCHEL_TIPPS = {
       "quote": 1.72,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 8.25,
-      "begruendung_kurz": "Goldgrube-Markt (+62.8% ROI). LaLiga MD36 3/3 Ueber 2.5 getroffen (Lesson 13.05.). Klassen-Halbwegs-Ausgeglichen + offene Saisonende-Spiele."
+      "begruendung_kurz": "Goldgrube-Markt (+62.8% ROI). LaLiga MD36 3/3 Ueber 2.5 getroffen (Lesson 13.05.). Klassen-Halbwegs-Ausgeglichen + offene Saisonende-Spiele.",
+      "rang": 6
     },
     {
       "spiel_id": "2026-05-14-gir-rso",
@@ -283,7 +289,8 @@ window.__MIESMUSCHEL_TIPPS = {
       "quote": 1.66,
       "empfohlener_einsatz_prozent": 1.0,
       "empfohlener_einsatz_euro": 5.5,
-      "begruendung_kurz": "Beide Krisen-Teams mit Tor-Volumen: Girona-Sturm Heim-Crowd + Oyarzabal Form-Edge bei Sociedad."
+      "begruendung_kurz": "Beide Krisen-Teams mit Tor-Volumen: Girona-Sturm Heim-Crowd + Oyarzabal Form-Edge bei Sociedad.",
+      "rang": 7
     },
     {
       "spiel_id": "2026-05-14-gir-rso",
@@ -293,7 +300,8 @@ window.__MIESMUSCHEL_TIPPS = {
       "quote": 2.6,
       "empfohlener_einsatz_prozent": 0.5,
       "empfohlener_einsatz_euro": 2.75,
-      "begruendung_kurz": "HR24 Form-Edge: 5 Tore in 5 letzten Spielen. Sociedad-Auswaerts schwach. Aufstellungs-Verifikation PFLICHT."
+      "begruendung_kurz": "HR24 Form-Edge: 5 Tore in 5 letzten Spielen. Sociedad-Auswaerts schwach. Aufstellungs-Verifikation PFLICHT.",
+      "rang": 8
     }
   ],
   "kombis": [
