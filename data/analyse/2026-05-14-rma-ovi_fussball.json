@@ -1,0 +1,70 @@
+{
+  "spiel_id": "2026-05-14-rma-ovi",
+  "saison_kontext": {
+    "parallel_heim": "keine - Real Madrid am 15.04.2026 im CL-Viertelfinale ausgeschieden (Aggregat 4:6 vs Bayern, Camavinga Rot 86.). LaLiga-Titel verloren nach 0:2 El Clasico 11.05. Platz 2 mit 8 Pkt-Vorsprung auf Villarreal sicher, CL-2026-27-Direkt-Quali bereits gesichert.",
+    "parallel_gast": "keine - Real Oviedo nicht in UEFA-Wettbewerben 2025/26 (Aufsteiger, Segunda-Niveau). Copa del Rey ausgeschieden.",
+    "saisonziel_heim": "Platz 2 mit ~78 Pkt nach 35 Spielen - Saisonziel Titel + CL verloren, Platz 2 sicher; faktisches Saisonende. Mbappe + Guler + Valverde alle OUT bis 16.05. (Verletzungen) + Bellingham Status unklar (sportsgambler-XI ohne ihn, Saison-Schonung wahrscheinlich) - massive Rotations-Loecher, Castilla-Stand-Ins (Pitarch, Gonzalo Garcia).",
+    "saisonziel_gast": "Platz 20 (Schlusslicht) mit ~25 Pkt nach 35 Spielen - bereits mathematisch abgestiegen seit Rayo-Girona 1:1 (12.05.). Spielt nur fuer Stolz/Profilierung; Auswaerts-Form schwach (1S-3U-6N letzte 10).",
+    "motivations_asymmetrie": "Klassen-Edge MASSIV (Top-2 vs Bottom-1, ~53 Pkt-Diff) - Motivation symmetrisch niedrig (Madrid Saison verloren, Oviedo abgestiegen). Heim-Bernabeu-Stolz-Faktor + Castilla-Test-Show bei 3+ Stamm-Stuermer-Ausfaellen. HR22 Star-OUT-Implosions-Caveat AKTIV: Mbappe+Guler+Valverde OUT -> kein Einzel-Sieg-VALUE/SAFE-Tipp; stattdessen Ueber-2.5-Hedge.",
+    "recovery_heim": "3 Tage seit 0:2 El Clasico (11.05.) - Standard-Rhythmus, Heim am Bernabeu, aber CL-Aus + Clasico-Niederlage + 3 Stamm-Stuermer raus = mentale Muede-Serie",
+    "recovery_gast": "3-4 Tage seit letztem LaLiga-Spiel - Standard. Reise Oviedo-Madrid ~4-5h. Sibo Rot-Sperre + Dendoncker Muskel OUT.",
+    "quellen": [
+      "https://en.wikipedia.org/wiki/2025%E2%80%9326_Real_Madrid_CF_season",
+      "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League",
+      "https://www.realmadrid.com/en-US/news/football/first-team/reports/bayern-rm-vuelta-cuartos-15-04-2026",
+      "https://www.sportsgambler.com/betting-tips/football/real-madrid-vs-real-oviedo-prediction-lineups-odds-2026-05-14/"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "rma-ovi-1",
+      "kategorie": "safe",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.41,
+      "edge_prozent": 10,
+      "faire_quote": 1.28,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Markt-Goldgrube Ueber 2.5 (60% Hit / +62.8% ROI, n=10) - aktiv gesucht. Real Madrid Heim-Offensive (Vinicius Form-Top + Brahim Diaz + Castilla-Stuermer-Boost) vs Oviedo-Bottom-Defense ohne Stamm-IV (Sibo gesperrt, Dendoncker OUT). HR22-Hedge: Madrid-Sieg-Tipp tabu wegen Mbappe/Guler/Valverde-Ausfaellen + Implosions-Risiko nach El-Clasico-Pleite; Ueber-2.5 ist explizit der HR22-Hedge-Markt. Lesson 2026-04-22: Real Madrid nach CL-Aus -> Heimspiele kippen zu BTTS/3+. Lesson 13.05.: LaLiga MD36 3/3 Ueber 2.5. Stake Stufe 1: 1.5% = 8,25€."
+    },
+    {
+      "id": "rma-ovi-2",
+      "kategorie": "value",
+      "markt": "Vinicius Junior Torschuetze Jederzeit",
+      "quote": 2.25,
+      "edge_prozent": 12,
+      "faire_quote": 2.00,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "HR24-Check ERFUELLT: (a) Vinicius mit 4 Toren in letzten 5 LaLiga-Spielen = Form-Edge-Top. (b) Zentraler LF/ST nach Mbappe-Ausfall + Castilla-Backup Gonzalo Garcia als Einwechslungs-Boost-Option (bet365-Spezialregel). 2/3 erfuellt. Goldgrube-Markt Torschuetzen Jederzeit (38.5% Hit / +21% ROI, n=26) - aktiv gesucht. Aufstellungs-Verifikation 60-90 Min vor Anstoss PFLICHT (Lesson 10.05.) - bei Bank-Start skippen. Stake Stufe 1: 1.5% = 8,25€."
+    },
+    {
+      "id": "rma-ovi-3",
+      "kategorie": "moonshot",
+      "markt": "Gonzalo Garcia Torschuetze Jederzeit",
+      "quote": 5.75,
+      "edge_prozent": 6,
+      "faire_quote": 5.40,
+      "empfohlener_einsatz_prozent": 0.1,
+      "begruendung": "Castilla-9er als Stand-In bei Mbappe-Ausfall (Predicted Startelf laut sportsgambler). Volumen-9er-Position vs Bottom-Defense - Lotterie-Tipp im Moonshot-Range. Aufstellungs-Verifikation 60-90 Min vor Anstoss PFLICHT. Stake 0.1% = 0,55€."
+    },
+    {
+      "id": "rma-ovi-4",
+      "kategorie": "moonshot",
+      "markt": "Brahim Diaz Torschuetze Jederzeit",
+      "quote": 8.00,
+      "edge_prozent": 4,
+      "faire_quote": 7.60,
+      "empfohlener_einsatz_prozent": 0.1,
+      "begruendung": "OM/LF im Predicted XI, Stamm-10er. Position OM theoretisch Verifikator-max-VALUE, hier aber Moonshot-Lotterie-Tipp ohne SAFE/VALUE-Beanspruchung. Brahim-Diaz hat in der Saison Kreativ-Boost-Profil, Quote 8.00 spiegelt seine Zentral-vs-Wing-Rolle wider. Spass-Einsatz 0.1% = 0,55€."
+    },
+    {
+      "id": "rma-ovi-5",
+      "kategorie": "safe",
+      "markt": "Real Madrid Sieg (1X2)",
+      "quote": 1.22,
+      "edge_prozent": 2,
+      "faire_quote": 1.20,
+      "empfohlener_einsatz_prozent": 0,
+      "begruendung": "Klasse-Edge MASSIV (Top-2 @ 78 Pkt vs Bottom-1 @ 25 Pkt, 53-Pkt-Diff) + Heim-Bernabeu + Oviedo abgestiegen ohne Motivation + Sibo+Dendoncker OUT. HR22-Caveat AKTIV (Mbappe+Guler+Valverde OUT, Bellingham Q): NICHT als Einzeltipp empfohlen - nur als Anker in Safe-Kombi nutzbar (Kombi-Verwertungs-Tipp, kein Einzel-Stake). Quote 1.22 sehr knapp, HR22-Risiko nicht ausgeschlossen aber Klassen-Edge ueberwiegt im Kombi-Kontext. Empfohlener Einzeleinsatz: 0% = kein Einzeltipp."
+    }
+  ]
+}

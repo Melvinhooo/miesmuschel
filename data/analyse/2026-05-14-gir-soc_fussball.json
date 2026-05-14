@@ -1,0 +1,70 @@
+{
+  "spiel_id": "2026-05-14-gir-soc",
+  "saison_kontext": {
+    "parallel_heim": "keine - Girona nicht in UEFA-Wettbewerben 2025/26, Copa del Rey ausgeschieden",
+    "parallel_gast": "keine laufende UEFA-Belastung 2025/26 (EL-League-Phase, nicht in K.o.-16 vorgedrungen). EL-Quali 2026-27 ueber Copa-del-Rey-Sieg bereits gesichert - LaLiga-Saisonziel praktisch erfuellt.",
+    "saisonziel_heim": "Platz 19 mit 39 Pkt nach 35 Spielen - Abstiegszone, 5-Spiele-winless-Serie, kritisches Klassenerhalts-Match daheim. Bei Niederlage praktisch abgestiegen (Oviedo schon raus). MAXIMALE Heim-Pflicht-Motivation am Montilivi.",
+    "saisonziel_gast": "Platz 8 mit 44 Pkt nach 35 Spielen - knapp ausserhalb Conference-Quali-Plaetze. Copa-Sieg sichert EL 2026-27 bereits - Liga-Saisonziel praktisch erfuellt, Motivation reduziert.",
+    "motivations_asymmetrie": "MASSIVE Asymmetrie zugunsten Girona: Klassenerhalts-Existenz-Match vs Pokal-Sieger-ohne-LaLiga-Druck. Klassische CLAUDE.md-Bayern-Mainz-Pattern (Champions-rotiert vs Underdog-mit-Saisonziel). Heimvorteil Montilivi verstaerkt - HR2-Form-Krise dokumentiert aber Motivations-Edge ueberschreibt.",
+    "recovery_heim": "2-3 Tage seit 1:1 vs Rayo (12.05.) - kurzes Fenster, aber Heimvorteil + maximale Adrenalin-Motivation kompensiert",
+    "recovery_gast": "3-4 Tage seit letztem LaLiga-Spiel - Standard-Rhythmus, Reise Donostia-Girona ~5h. Stuermer-Tiefe schwach (Karrikaburu OUT, Oskarsson Gelb-Sperre, Zubeldia Muskel OUT, Guedes Q)",
+    "quellen": [
+      "https://en.wikipedia.org/wiki/2025%E2%80%9326_Real_Sociedad_season",
+      "https://www.uefa.com/uefaeuropaleague/clubs/50123--real-sociedad/",
+      "https://www.sportsgambler.com/betting-tips/football/girona-vs-real-sociedad-prediction-lineups-odds-2026-05-14/",
+      "https://www.sportsmole.co.uk/football/girona/preview/girona-vs-real-sociedad-prediction-team-news-lineups_597416.html"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "gir-soc-1",
+      "kategorie": "safe",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.55,
+      "edge_prozent": 9,
+      "faire_quote": 1.42,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Markt-Goldgrube Ueber 2.5 (60% Hit / +62.8% ROI, n=10) - aktiv gesucht. Beidseitiger Tor-Druck (Girona MUSS Tore wegen Klassenerhalt; Sociedad-Sturm-Tiefe reduziert aber Oyarzabal-Penalty-Option). Lesson 13.05.: LaLiga MD36 (12.05.) hatte 3/3 Ueber 2.5 - LaLiga-Saisonende-Tor-Flaute-These widerlegt. Stake Stufe 1: 1.5% = 8,25€."
+    },
+    {
+      "id": "gir-soc-2",
+      "kategorie": "safe",
+      "markt": "Beide Teams treffen JA",
+      "quote": 1.57,
+      "edge_prozent": 6,
+      "faire_quote": 1.48,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Korreliert mit Ueber-2.5-Tipp, aber eigenstaendiger Markt. Girona-Heim-Volume (Tsigankov/Ounahi/Echeverri/Stuani) + Sociedad-Oyarzabal-Stamm-9er nach Karrikaburu-Ausfall + Penalty-Option. Beide Teams haben Tor-Volumen trotz Form-Krise. HR5-Markt-Familie: 2 Tor-Aggregat-Tipps im Spiel - im Limit. Stake 1.0% = 5,50€."
+    },
+    {
+      "id": "gir-soc-3",
+      "kategorie": "value",
+      "markt": "Sieg Girona (1X2)",
+      "quote": 1.91,
+      "edge_prozent": 7,
+      "faire_quote": 1.78,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Klassische CLAUDE.md-Bayern-Mainz-Pattern: Klassenerhalts-Heim-Pflichtsieg + Sociedad-Pokal-Sieger-ohne-Druck + Sturm-Tiefe-Reduktion Gast (Karrikaburu OUT, Oskarsson gesperrt, Zubeldia OUT). Motivations-Edge schaerfer als 1.91 suggeriert. HR2-Caveat: Girona 5 Spiele winless - aber Form-Krise erklaerbar durch Saisonend-Mid-Table-Phase, nicht Strukturkrise; Motivations-Asymmetrie hebt deutlich. Reality-Check: Sieg-1X2-Markt 60.5% Hit / +10.1% ROI (n=76). Stake Stufe 1: 1.5% = 8,25€."
+    },
+    {
+      "id": "gir-soc-4",
+      "kategorie": "wackel",
+      "markt": "Mikel Oyarzabal Torschuetze Jederzeit",
+      "quote": 2.70,
+      "edge_prozent": 5,
+      "faire_quote": 2.55,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "HR24-Check: (b) Oyarzabal als nominal 9er nach Karrikaburu-Ausfall (Knoechel) + Oskarsson-Gelb-Sperre - zentraler Stamm-Stuermer mit Penalty-Option erfuellt. (c) Girona-IV-Defense ohne van de Beek/Vanat-Tiefe schwaecher als Normalstand - leichte Offensiv-Lockerung. 2/3 erfuellt -> wackel-faehig. Markt-Goldgrube Torschuetzen Jederzeit (38.5% Hit / +21% ROI, n=26). Aufstellungs-Verifikation 60-90 Min vor Anstoss PFLICHT (Lesson 10.05.). Stake 0.5% = 2,75€."
+    },
+    {
+      "id": "gir-soc-5",
+      "kategorie": "wackel",
+      "markt": "Cristhian Stuani Torschuetze Jederzeit",
+      "quote": 2.65,
+      "edge_prozent": 3,
+      "faire_quote": 2.55,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "HR24-Check: (b) Veteran-9er + nominal-Backup-Stuermer bei Vanat/Portu-Ausfaellen (Kreuzbandriss/Oberschenkel) - Einwechslungs-Boost-Trigger. (c) Sociedad-IV ohne Zubeldia (Muskel OUT) + Pablo Marin-Newcomer in Defense - leichte Defensiv-Schwaeche. 2/3 erfuellt. Form-Edge (a) nicht in Recherche dokumentiert -> Wackel-Kategorie. Aufstellungs-Verifikation PFLICHT. Stake 0.5% = 2,75€."
+    }
+  ]
+}
