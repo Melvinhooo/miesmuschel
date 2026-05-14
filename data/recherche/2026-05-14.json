@@ -1,0 +1,299 @@
+{
+  "datum": "2026-05-14",
+  "erstellt_am": "2026-05-14T16:30:00+00:00",
+  "modus": "tag",
+  "hinweis": "Recherche-Daten Donnerstag (Mo-Fr Variante). KRITISCHE PARALLEL-WETTBEWERBS-FLAGS: (1) Rayo Vallecano spielt 27.05.2026 UEFA Conference League Final gegen Crystal Palace in Leipzig (13 Tage post-Match) - milde Rotations-Risiko, aber Rayo ist defensiv ausgerichtet und braucht Sieg-Edge fuer LaLiga-EU-Quali Backup. Iván Balliu / Lejeune / Mendy als Defensive-Kerne werden vermutlich nicht rotiert. (2) Real Madrid ist aus 2025-26 Champions League ausgeschieden (Viertelfinale 15.04.2026 in Muenchen 3:4 gegen Bayern, Aggregat 4:6, Camavinga Rote Karte 86.). Keine UEFA-Belastung mehr. Mbappe / Guler / Valverde alle OUT bis 16.05. (laut sportsgambler.com Recovery-Tags). Rotation aus Verletzungs-Loch, nicht aus Doppelbelastung. Vinicius traegt Sturm-Last. (3) Real Sociedad in EL 2025-26 ueber League-Phase nicht in K.o. weitergekommen (nicht in den 16 K.o.-Teams - Aston Villa/Bologna/Braga/Celta/Ferencvaros/Freiburg/Genk/Lille/Lyon/Midtjylland/Forest/Panathinaikos/Porto/Betis/Roma/Stuttgart). Sociedad hat sich aber via Copa-del-Rey-Sieg fuer EL 2026-27 qualifiziert - Saisonziel praktisch erfuellt, Motivation in LaLiga zurueckgenommen. (4) Valencia, Girona, Oviedo: keine UEFA-Belastung 2025-26. Girona war 2024-25 in CL-Group ausgeschieden, diese Saison nur LaLiga + Copa. (5) Real Oviedo bereits mathematisch abgestiegen (20. Platz nach 35 Spielen) - dead-rubber-Motivation, spielt 'nur fuer Stolz'. (6) Heute KEIN NBA-Playoff-Spiel (Cavs-Pistons G5 erst 15.05. 23:00 UTC = 16.05. 01:00 Berlin). KEIN BL/PL/SA/Ligue1-Spielbetrieb heute. KEINE Tipp-Bewertung - nur Datenbasis. bet365-Quoten als Aggregator-Naeherung (BetMGM/Bovada mit US-Format-Konversion); zur Wett-Zeit live pruefen. football-data.org API liefert fuer 14.05. genau 3 LaLiga-Spiele (Matchday 36): Valencia-Rayo, Girona-Sociedad, Real Madrid-Oviedo. Anstoss-Zeiten: 19:00 / 20:00 / 21:30 Berlin-Zeit (17:00 / 18:00 / 19:30 UTC). 2:0-Insurance-Regel gilt NICHT bei LaLiga (nur BL + CL). KASSE-Stand 04.05.: 550 EUR -> Stufe 1 (Aufbau-Phase) bleibt aktiv.",
+  "spiele": [
+    {
+      "id": "2026-05-14-val-ray",
+      "liga": "LaLiga",
+      "matchday": 36,
+      "heim": "Valencia CF",
+      "gast": "Rayo Vallecano",
+      "anstoss": "2026-05-14T19:00:00+02:00",
+      "stadion": "Estadio Mestalla, Valencia",
+      "squad_heim": [
+        {"name": "Stole Dimitrievski", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/valencia-vs-rayo-vallecano-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Cenk Ozkacar / Saravia", "nummer": null, "position": "RV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/valencia-vs-rayo-vallecano-prediction-lineups-odds-2026-05-14/", "hinweis": "Quellen widersprechen sich: sportsgambler nennt Saravia, Yahoo/Stats nennt Coemert/Tarrega-IV-Paar; Aufstellung wird vermutlich erst 1h vor Anstoss klar."},
+        {"name": "Eray Coemert", "nummer": null, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/valencia-vs-rayo-vallecano-prediction-lineups-odds-2026-05-14/", "hinweis": "Coemert hat aktuell Bauch-/Abdominalstrain laut Transfermarkt Stand 10.05. - Spielfaehigkeit unsicher."},
+        {"name": "Cristhian Mosquera / Tarrega", "nummer": null, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/valencia-vs-rayo-vallecano-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Jose Gaya", "nummer": null, "position": "LV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/valencia-vs-rayo-vallecano-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Pepelu", "nummer": null, "position": "DM/ZM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/valencia-vs-rayo-vallecano-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Javi Guerra", "nummer": null, "position": "ZM/OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/valencia-vs-rayo-vallecano-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Sergi Canos / D. Lopez (Diego Lopez)", "nummer": null, "position": "RM/OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/valencia-vs-rayo-vallecano-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Luis Rioja", "nummer": null, "position": "LM/RF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/valencia-vs-rayo-vallecano-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Hugo Duro", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/valencia-vs-rayo-vallecano-prediction-lineups-odds-2026-05-14/", "hinweis": "Nominal-9er bei Valencia. Anytime-Goalscorer Quote +480 = 5.80 - mittlere Wahrscheinlichkeit. Volumen-Stuermer."},
+        {"name": "Umar Sadiq", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": 1, "verifiziert_via": "https://ca.sports.yahoo.com/news/preview-valencia-vs-rayo-vallecano-170500859.html", "hinweis": "Match-Winner gegen Athletic 10.05. (72. Min). Alternative zu Duro - Backup-Stuermer mit Form-Schub. Bei Duro-Tipp Einwechslungs-Boost moeglich, falls Sadiq spaeter eingewechselt."}
+      ],
+      "squad_gast": [
+        {"name": "Augusto Batalla", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/valencia-vs-rayo-vallecano-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Ivan Balliu", "nummer": null, "position": "RV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/valencia-vs-rayo-vallecano-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Florian Lejeune", "nummer": null, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/valencia-vs-rayo-vallecano-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Abdul Mumin / Mendy", "nummer": null, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/valencia-vs-rayo-vallecano-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Pep Chavarria", "nummer": null, "position": "LV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/valencia-vs-rayo-vallecano-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Oscar Valentin", "nummer": null, "position": "DM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/valencia-vs-rayo-vallecano-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Pathe Ciss / Gumbau", "nummer": null, "position": "DM/ZM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/valencia-vs-rayo-vallecano-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Alvaro Garcia / Diaz", "nummer": null, "position": "LM/RF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/valencia-vs-rayo-vallecano-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Randy Nteka", "nummer": null, "position": "OM/RF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/valencia-vs-rayo-vallecano-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Jorge de Frutos / Perez", "nummer": null, "position": "RM/RF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/valencia-vs-rayo-vallecano-prediction-lineups-odds-2026-05-14/", "hinweis": "Sportsgambler-Prognose nennt 'Perez' nominell - Quellen widerspruechlich; de Frutos ist 2025-26 nominell Stamm-RF."},
+        {"name": "Sergio Camello / Espino", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/valencia-vs-rayo-vallecano-prediction-lineups-odds-2026-05-14/", "hinweis": "Anytime-Goalscorer Camello Quote +700 = 8.00 - niedrige Wahrscheinlichkeit. Rayo defensiv ausgerichtet, wenig Sturm-Tor-Erwartung."}
+      ],
+      "injuries_heim": [
+        "Mouctar Diakhaby (Muskel, OUT)",
+        "Thierry Correia (Muskel, OUT)",
+        "Dimitri Foulquier (Knie, OUT)",
+        "Julen Agirrezabala (Knie, OUT)",
+        "Jose Copete (Knoechel, OUT)",
+        "Eray Coemert (Bauch-/Abdominalstrain, Q)"
+      ],
+      "injuries_gast": [
+        "Isi Palazon (Rote-Karte-Sperre bis 23.05., OUT)",
+        "Andrei Ratiu (Status unklar, vermutlich Q)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Valencia nicht in UEFA-Wettbewerben 2025/26, keine Copa-del-Rey-Belastung mehr",
+        "gast": "UEFA Conference League FINAL am 27.05.2026 vs Crystal Palace in Leipzig - 13 Tage Vorlauf. Rayo qualifiziert nach SF-Sieg gegen Rayo Vallecano (entry via 2024-25 LaLiga 8.) - Saison-Highlight, aber 13-Tage-Puffer = leichtes Rotations-Risiko nur bei angeschlagenen Stammspielern (Palazon ohnehin gesperrt).",
+        "quellen": [
+          "https://en.wikipedia.org/wiki/2026_UEFA_Conference_League_final",
+          "https://www.uefa.com/uefaconferenceleague/news/029a-1df99126e9f6-36a9ff57d0cd-1000--2026-uefa-conference-league-final-where-is-it-who-is-involv/",
+          "https://www.cpfc.co.uk/news/tickets/ticket-information-2026-uefa-conference-league-final-crystal-palace-leipzig/"
+        ]
+      },
+      "saisonziel_heim": "Platz 12-13 mit 42 Pkt nach 35 Spielen - Klassenerhalt laengst gesichert, kein EU-Quali-Druck. Saison faktisch beendet, Motivation: Heimsieg-Bilanz fuer Saison-Ende.",
+      "saisonziel_gast": "Platz 10-11 mit 43 Pkt nach 35 Spielen - 6-Match-Ungeschlagen-Serie laut Yahoo. Conference-Final-Quali sichert EL-Platz 2026-27 (Conference-Sieger-Bonus). LaLiga-Endspiel-Motivation reduziert wegen 27.05.-Final-Fokus.",
+      "tabellenstand": {"heim_platz": 12, "heim_pkt": 42, "gast_platz": 11, "gast_pkt": 43},
+      "form_heim_letzte_5": "S-N-S-?-? (zuletzt S Athletic 1:0 10.05. Sadiq 72., N Atletico 0:2, S Girona 2:1) - Trend leicht aufwaerts",
+      "form_gast_letzte_5": "U-S-S-U-S (6 Spiele ungeschlagen laut Yahoo, zuletzt U Girona 1:1, S Strasbourg 1:0 in Conference-SF/QF) - Form-Stark, getragen von EU-Momentum",
+      "recovery_heim": "4 Tage seit 1:0 in Bilbao (10.05.) - Standard, daheim am Mestalla",
+      "recovery_gast": "2 Tage seit 1:1 vs Girona (12.05.) ODER 4 Tage seit Conference-SF gegen Strasbourg (10.05.) - kurzes Fenster, Belastung leicht erhoeht",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 2.25,
+          "draw": 3.10,
+          "sieg_gast": 3.50,
+          "ueber_2_5": 2.20,
+          "unter_2_5": 1.63,
+          "btts_ja": 1.86,
+          "btts_nein": 1.86,
+          "dc_1x": 1.30,
+          "dc_x2": 1.65,
+          "torschuetzen": {
+            "Hugo Duro": 5.80,
+            "Sergio Camello": 8.00,
+            "Umar Sadiq": null
+          }
+        },
+        "_quelle": "sportsgambler.com Stand 13.05.2026 + BetMGM US-Format-Konversion: Valencia +125 -> 2.25, Draw +210 -> 3.10, Rayo +250 -> 3.50, Over 2.5 +120 -> 2.20, Under 2.5 -159 -> 1.63, BTTS Yes -116 -> 1.86, BTTS No -116 -> 1.86, Duro Anytime +480 -> 5.80, Camello Anytime +700 -> 8.00. Markt eng - Unter-2.5-Trend dominiert (6 H2H letzten 6 Spiele unter 2.5). bet365 live pruefen."
+      },
+      "news_kompakt": [
+        "Rayo 6 Spiele ungeschlagen + Conference-League-Final-Fokus 27.05. - milde Rotations-Tendenz aber Defensive bleibt stark",
+        "Valencia mit Diakhaby/Correia/Foulquier/Agirrezabala/Copete-Loch in Abwehr-Linie - Coemert Q wegen Abdominalstrain",
+        "6 von letzten 6 H2H-Begegnungen Valencia-Rayo unter 2.5 Tore - klare Unter-2.5-Historie",
+        "Beide Teams ohne LaLiga-Tabellen-Druck (Mittelfeld geklaert, kein Abstieg, kein EU-Quali-Direkt-Druck)",
+        "2:0-Insurance gilt NICHT (LaLiga) - bei Auswertung normaler 90-Min-Endstand"
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/valencia-vs-rayo-vallecano-prediction-lineups-odds-2026-05-14/",
+        "https://ca.sports.yahoo.com/news/preview-valencia-vs-rayo-vallecano-170500859.html",
+        "https://www.thestatszone.com/valencia-vs-rayo-vallecano-preview-prediction-186406",
+        "https://www.oddschecker.com/us/picks-parlays/soccer/20260514-valencia-vs-rayo-vallecano-prediction-betting-pick-latest-la-liga-odds--thursday-may-14th",
+        "https://www.transfermarkt.us/fc-valencia/sperrenundverletzungen/verein/1049"
+      ]
+    },
+    {
+      "id": "2026-05-14-gir-soc",
+      "liga": "LaLiga",
+      "matchday": 36,
+      "heim": "Girona FC",
+      "gast": "Real Sociedad",
+      "anstoss": "2026-05-14T20:00:00+02:00",
+      "stadion": "Estadi Montilivi, Girona",
+      "squad_heim": [
+        {"name": "Paulo Gazzaniga", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/girona-vs-real-sociedad-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Arnau Martinez", "nummer": null, "position": "RV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/girona-vs-real-sociedad-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Vitor Reis", "nummer": null, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/girona-vs-real-sociedad-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Daley Blind", "nummer": null, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/girona-vs-real-sociedad-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Alex Moreno", "nummer": null, "position": "LV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/girona-vs-real-sociedad-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Axel Witsel", "nummer": null, "position": "DM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/girona-vs-real-sociedad-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Fran Beltran / Ivan Martin", "nummer": null, "position": "DM/ZM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/girona-vs-real-sociedad-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Viktor Tsigankov", "nummer": null, "position": "RM/RF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/girona-vs-real-sociedad-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Azzedine Ounahi", "nummer": null, "position": "OM/ZM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/girona-vs-real-sociedad-prediction-lineups-odds-2026-05-14/", "hinweis": "Anytime-Goalscorer-Quote +240 = 3.40 - mittlere Wahrscheinlichkeit aus Mittelfeld."},
+        {"name": "Claudio Echeverri", "nummer": null, "position": "OM/LM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/girona-vs-real-sociedad-prediction-lineups-odds-2026-05-14/", "hinweis": "Anvisierter Sturm-Spieler nach Vanat-/Portu-Ausfaellen."},
+        {"name": "Cristhian Stuani", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/girona-vs-real-sociedad-prediction-lineups-odds-2026-05-14/", "hinweis": "Anytime-Goalscorer-Quote +165 = 2.65 - Top-Quote bei Girona. Veteran-9er, Backup-Stuermer bei Vanat-Ausfall."}
+      ],
+      "squad_gast": [
+        {"name": "Alex Remiro", "nummer": 1, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/girona-vs-real-sociedad-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Jon Aramburu", "nummer": null, "position": "RV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/girona-vs-real-sociedad-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Jon Martin", "nummer": null, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/girona-vs-real-sociedad-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Duje Caleta-Car", "nummer": null, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/girona-vs-real-sociedad-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Sergio Gomez", "nummer": null, "position": "LV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/girona-vs-real-sociedad-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Benat Turrientes", "nummer": null, "position": "DM/ZM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/girona-vs-real-sociedad-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Pablo Marin", "nummer": null, "position": "DM/ZM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/girona-vs-real-sociedad-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Carlos Soler", "nummer": null, "position": "OM/ZM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/girona-vs-real-sociedad-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Luka Sucic", "nummer": null, "position": "OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/girona-vs-real-sociedad-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Ander Barrenetxea", "nummer": null, "position": "LM/RF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/girona-vs-real-sociedad-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Mikel Oyarzabal", "nummer": 10, "position": "ST/LF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/girona-vs-real-sociedad-prediction-lineups-odds-2026-05-14/", "hinweis": "Nominal-9er nach Oskarsson-Sperre + Karrikaburu-Verletzung. Anytime-Goalscorer-Quote +170 = 2.70 - Top-Quote bei Sociedad. Volumen-Stuermer mit Penalty-Optionen."}
+      ],
+      "injuries_heim": [
+        "Donny van de Beek (Kreuzbandriss, OUT)",
+        "Vladyslav Vanat (Oberschenkel, OUT)",
+        "Cristian Portu (Kreuzbandriss, OUT)"
+      ],
+      "injuries_gast": [
+        "Jon Karrikaburu (Knoechel, OUT)",
+        "Goncalo Guedes (koerperliches Unwohlsein, Q)",
+        "Igor Zubeldia (Muskel, OUT)",
+        "Orri Oskarsson (Gelb-Sperre, OUT)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Girona nicht in UEFA-Wettbewerben 2025/26, Copa del Rey ausgeschieden",
+        "gast": "keine laufende UEFA-Belastung 2025-26 (Europa-League League-Phase nicht in K.o.-16 vorgedrungen). EL-Quali 2026-27 ueber Copa-del-Rey-Sieg bereits gesichert - LaLiga-Saisonziel praktisch erfuellt, EL-Final-Termin entfaellt.",
+        "quellen": [
+          "https://en.wikipedia.org/wiki/2025%E2%80%9326_Real_Sociedad_season",
+          "https://www.uefa.com/uefaeuropaleague/clubs/50123--real-sociedad/",
+          "https://onefootball.com/en/news/real-sociedad-book-europa-league-spot-the-quick-way-via-copa-del-rey-42791133"
+        ]
+      },
+      "saisonziel_heim": "Platz 19 mit 39 Pkt nach 35 Spielen - Abstiegszone, kein Sieg in den letzten 5 Spielen, kritisches Klassenerhalts-Match. Bei Niederlage praktisch sicher abgestiegen (Oviedo bereits raus auf Platz 20). MAXIMALE Heim-Motivation. Letzte 5: U Rayo, N Mallorca, N Valencia (Sieg 2:1?), N Betis, U Real Madrid.",
+      "saisonziel_gast": "Platz 8 mit 44 Pkt nach 35 Spielen - knapp ausserhalb Conference-Quali-Plaetze 7-8. Copa-del-Rey-Sieg sichert EL 2026-27 bereits - Motivation reduziert. Letzte 5: U Betis, N Sevilla, U Rayo, N Getafe, S Copa-Final vs Atletico.",
+      "tabellenstand": {"heim_platz": 19, "heim_pkt": 39, "gast_platz": 8, "gast_pkt": 44},
+      "form_heim_letzte_5": "U-N-N-N-U (winless-Serie 5 Spiele, 2 Unentschieden + 3 Niederlagen) - Form-Tief in der Endphase",
+      "form_gast_letzte_5": "U-N-U-N-S (5 LaLiga ohne Sieg + Copa-Final-Sieg vs Atletico) - LaLiga schwach, Pokal-Fokus dominiert",
+      "recovery_heim": "2-3 Tage seit 1:1 vs Rayo (12.05.) - kurzes Fenster, Heimvorteil Montilivi",
+      "recovery_gast": "3-4 Tage seit letztem LaLiga-Spiel - Standard-Rhythmus, Reise Donostia-Girona ~5h Auto/Flug",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 1.91,
+          "draw": 3.70,
+          "sieg_gast": 3.80,
+          "ueber_2_5": 1.55,
+          "unter_2_5": 2.40,
+          "btts_ja": 1.57,
+          "btts_nein": 2.30,
+          "dc_1x": null,
+          "dc_x2": null,
+          "torschuetzen": {
+            "Mikel Oyarzabal": 2.70,
+            "Cristhian Stuani": 2.65,
+            "Azzedine Ounahi": 3.40
+          }
+        },
+        "_quelle": "sportsgambler.com Stand 13.05.2026 + BetMGM US-Format-Konversion: Girona -110 -> 1.91, Draw +270 -> 3.70, Sociedad +280 -> 3.80, Over 2.5 -167 -> 1.55, BTTS Yes -175 -> 1.57, Oyarzabal Anytime +170 -> 2.70, Stuani +165 -> 2.65, Ounahi +240 -> 3.40. Markt sieht Girona als Favorit wegen Klassenerhalts-Motivation + Heimvorteil. bet365 live pruefen."
+      },
+      "news_kompakt": [
+        "Girona 5 Spiele winless + 19. Tabellenplatz - Klassenerhalts-Final-Match daheim, Abstieg bei Niederlage praktisch besiegelt",
+        "Sociedad ohne Karrikaburu/Oskarsson/Zubeldia - Sturm-Tiefe reduziert; Oyarzabal traegt Last; Copa-Sieg + EL-2026-27-Quali sichern Saison",
+        "Sociedad Motivations-Asymmetrie deutlich UNTER Girona - Klassiker-Hindsight-Pattern (CLAUDE.md Bayern-Mainz-Beispiel)",
+        "Stuani-Veteran-Faktor bei Girona nach Vanat/Portu-Ausfaellen + Echeverri als kreativer Hub",
+        "Beide Teams ohne UEFA-Belastung - keine Rotations-Komplikation, aber Saison-Endphase mit klarem Druckunterschied",
+        "2:0-Insurance gilt NICHT (LaLiga) - bei Auswertung normaler 90-Min-Endstand"
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/girona-vs-real-sociedad-prediction-lineups-odds-2026-05-14/",
+        "https://www.sportsmole.co.uk/football/girona/preview/girona-vs-real-sociedad-prediction-team-news-lineups_597416.html",
+        "https://www.oddschecker.com/us/picks-parlays/soccer/20260514-girona-vs-real-sociedad-prediction-betting-pick-latest-la-liga-odds--thursday-may-14th",
+        "https://www.sportytrader.com/en/betting-tips/girona-real-sociedad-348855/",
+        "https://en.wikipedia.org/wiki/2025%E2%80%9326_Real_Sociedad_season"
+      ]
+    },
+    {
+      "id": "2026-05-14-rma-ovi",
+      "liga": "LaLiga",
+      "matchday": 36,
+      "heim": "Real Madrid",
+      "gast": "Real Oviedo",
+      "anstoss": "2026-05-14T21:30:00+02:00",
+      "stadion": "Santiago Bernabeu, Madrid",
+      "squad_heim": [
+        {"name": "Thibaut Courtois", "nummer": 1, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-madrid-vs-real-oviedo-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Trent Alexander-Arnold", "nummer": null, "position": "RV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-madrid-vs-real-oviedo-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Raul Asencio", "nummer": null, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-madrid-vs-real-oviedo-prediction-lineups-odds-2026-05-14/"},
+        {"name": "David Alaba / Antonio Ruediger", "nummer": null, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-madrid-vs-real-oviedo-prediction-lineups-odds-2026-05-14/", "hinweis": "Quellen widerspruechlich: sportsgambler nennt Alaba, Sportskeeda nennt Rudiger. Beide LaLiga-Stamm 2025-26."},
+        {"name": "Fran Garcia", "nummer": null, "position": "LV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-madrid-vs-real-oviedo-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Aurelien Tchouameni", "nummer": null, "position": "DM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-madrid-vs-real-oviedo-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Eduardo Camavinga", "nummer": null, "position": "DM/ZM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-madrid-vs-real-oviedo-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Pitarch", "nummer": null, "position": "ZM/OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-madrid-vs-real-oviedo-prediction-lineups-odds-2026-05-14/", "hinweis": "Castilla-Hochkomer, Stand 14.05. zur 1. Mannschaft eskaliert. Jugend-Rotation wegen Bellingham-Pause-Wahrscheinlichkeit."},
+        {"name": "Brahim Diaz", "nummer": 21, "position": "OM/LF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-madrid-vs-real-oviedo-prediction-lineups-odds-2026-05-14/", "hinweis": "Anytime-Goalscorer-Quote +700 = 8.00 - Backup-OM mit moderater Tor-Wahrscheinlichkeit."},
+        {"name": "Gonzalo Garcia", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-madrid-vs-real-oviedo-prediction-lineups-odds-2026-05-14/", "hinweis": "Castilla-Stuermer, Stand-In bei Mbappe-Ausfall. Anytime-Goalscorer-Quote +475 = 5.75. Bei Vinicius-Tipp Einwechslungs-Boost-Risiko gering, aber Position-Cluster ST/LF."},
+        {"name": "Vinicius Junior", "nummer": 7, "position": "LF/ST", "saison_tore": null, "letzte_5_spiele_tore": 4, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-madrid-vs-real-oviedo-prediction-lineups-odds-2026-05-14/", "hinweis": "4 Tore in letzten 5 LaLiga-Spielen - Form-Topspieler bei Mbappe-Ausfall. Anytime-Goalscorer-Quote +125 = 2.25 - Top-Quote bei Real Madrid."}
+      ],
+      "squad_gast": [
+        {"name": "Aaron Escandell", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-madrid-vs-real-oviedo-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Nacho Vidal", "nummer": null, "position": "RV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-madrid-vs-real-oviedo-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Eric Bailly / David Costas", "nummer": null, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-madrid-vs-real-oviedo-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Sergi Calvo / Costas", "nummer": null, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-madrid-vs-real-oviedo-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Rahim Alhassane", "nummer": null, "position": "LV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-madrid-vs-real-oviedo-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Santiago Colombatto", "nummer": null, "position": "DM/ZM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-madrid-vs-real-oviedo-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Sebastian Fonseca", "nummer": null, "position": "DM/ZM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-madrid-vs-real-oviedo-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Thiago Fernandez / Ilyas Chaira", "nummer": null, "position": "LM/RF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-madrid-vs-real-oviedo-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Reina", "nummer": null, "position": "OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-madrid-vs-real-oviedo-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Ilyas Chaira", "nummer": null, "position": "RM/RF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-madrid-vs-real-oviedo-prediction-lineups-odds-2026-05-14/"},
+        {"name": "Federico Vinas", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/real-madrid-vs-real-oviedo-prediction-lineups-odds-2026-05-14/", "hinweis": "Nominal-9er Oviedo. Anytime-Goalscorer-Quote +950 = 10.50 - sehr niedrige Wahrscheinlichkeit gegen Bernabeu."}
+      ],
+      "injuries_heim": [
+        "Kylian Mbappe (Muskel, Rueckkehr ~16.05., OUT)",
+        "Arda Guler (Hamstring, Rueckkehr ~16.05., OUT)",
+        "Federico Valverde (Kopfverletzung, Rueckkehr ~16.05., OUT)",
+        "Jude Bellingham (Status unklar - sportsgambler-Aufstellung ohne Bellingham; vermutlich Schonung wegen Saisonende)"
+      ],
+      "injuries_gast": [
+        "Kwasi Sibo (Rote-Karte-Sperre bis 17.05., OUT)",
+        "Leander Dendoncker (Muskel, Rueckkehr ~16.05., OUT)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Real Madrid am 15.04.2026 im CL-Viertelfinale ausgeschieden (Hinspiel 3:2 in Madrid, Rueckspiel 3:4 in Muenchen vs Bayern, Aggregat 4:6, Camavinga Rot 86.). Saisonziel CL = verfehlt; LaLiga Platz 2 mit 8 Pkt-Vorsprung auf Villarreal = sicher 2. Champions-League-Direkt-Quali 2026-27 schon gesichert.",
+        "gast": "keine - Oviedo nicht in UEFA-Wettbewerben 2025/26 (Aufsteiger, nominell Segunda-Niveau). Copa-del-Rey ausgeschieden.",
+        "quellen": [
+          "https://en.wikipedia.org/wiki/2025%E2%80%9326_Real_Madrid_CF_season",
+          "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League",
+          "https://www.realmadrid.com/en-US/news/football/first-team/reports/bayern-rm-vuelta-cuartos-15-04-2026"
+        ]
+      },
+      "saisonziel_heim": "Platz 2 mit ~78 Pkt nach 35 Spielen (5W-2D-3L letzte 10) - LaLiga-Titel verloren (Barca 2:0 El Clasico 11.05. besiegelt), aber Platz 2 sicher 8 Pkt vor Villarreal. Saison faktisch beendet, kein direkter Druck. Mbappe/Guler/Valverde alle bis 16.05. raus - massive Rotations-Loecher in der Sturm-/Mittelfeld-Linie. Gefahr: Castilla-Junior-Test-Sieg-Match.",
+      "saisonziel_gast": "Platz 20 (Schlusslicht) mit ~25 Pkt - bereits mathematisch abgestiegen seit Rayo-Girona 1:1 (12.05.). Spielt nur fuer Stolz/Saison-Profilierung der Einzelspieler. Maximale Motivation = null, Form-Indikator (Last 10 Auswaerts: 1W-3D-6L) sehr schwach.",
+      "tabellenstand": {"heim_platz": 2, "heim_pkt": 78, "gast_platz": 20, "gast_pkt": 25},
+      "form_heim_letzte_5": "5-3-2 letzte 10 (sportsgambler), zuletzt N Barca 0:2 (11.05.) im El Clasico - Form leicht angeknackst nach Klassiker-Pleite + CL-Aus",
+      "form_gast_letzte_5": "3-3-4 letzte 10 (sportsgambler), Auswaerts schwach (1W-3D-6L), Ueberlebens-Hoffnung Ende April beerdigt",
+      "recovery_heim": "3 Tage seit 0:2 vs Barca im Clasico (11.05.) - Standard-Rhythmus, Heim am Bernabeu",
+      "recovery_gast": "3-4 Tage seit letztem LaLiga-Spiel - Standard, lange Reise Oviedo-Madrid ~4-5h",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 1.22,
+          "draw": 6.50,
+          "sieg_gast": 11.00,
+          "ueber_2_5": 1.41,
+          "unter_2_5": 2.85,
+          "btts_ja": 1.84,
+          "btts_nein": 1.88,
+          "dc_1x": null,
+          "dc_x2": null,
+          "torschuetzen": {
+            "Vinicius Junior": 2.25,
+            "Gonzalo Garcia": 5.75,
+            "Brahim Diaz": 8.00,
+            "Federico Vinas": 10.50,
+            "Mbappe (OUT)": null
+          },
+          "asian_handicap": {"madrid_minus_1_75": 1.90, "oviedo_plus_1_75": 1.98}
+        },
+        "_quelle": "sportsgambler.com + Betfred Stand 13.05.2026 + BetMGM US-Format-Konversion: Madrid -435 -> 1.22 (auch 2/7 -> 1.29 bei Betfred), Draw +550 -> 6.50 (5/1 = 6.0), Oviedo +1000 -> 11.00 (8/1 = 9.0), Over 2.5 -244 -> 1.41, Under 2.5 +185 -> 2.85, BTTS Yes -119 -> 1.84, BTTS No -114 -> 1.88, Vinicius Anytime +125 -> 2.25, Gonzalo Garcia +475 -> 5.75, Brahim Diaz +700 -> 8.00, Vinas +950 -> 10.50. Asian Handicap Madrid -1.75 -122 -> 1.82-1.90, Oviedo +1.75 -102 -> 1.98. bet365 live pruefen."
+      },
+      "news_kompakt": [
+        "Madrid Mbappe + Guler + Valverde alle OUT bis 16.05. - massives Sturm-/Mittelfeld-Loch trotz Heim-Vorteil",
+        "Oviedo bereits mathematisch abgestiegen seit Rayo-Girona-Remis 12.05. - keine Motivations-Basis mehr",
+        "Vinicius mit 4 Toren in letzten 5 LaLiga-Spielen - Top-Form-Spieler bei Mbappe-Ausfall, ~2.25 Anytime",
+        "Pitarch (Castilla) und Gonzalo Garcia (Castilla) als Stand-Ins in der Startelf - Jugend-Test wegen Verletzungs-Loch",
+        "Asian Handicap Madrid -1.75 als Aggregator-Pick: 'Oviedo deckte +1.75 in 4 von 5 letzten Spielen' (sportsgambler) - signalisiert vorsichtige Erwartung trotz Quoten-Gap",
+        "El Clasico 0:2 Pleite + CL-Aus + 3 Stamm-Spieler raus = mentale Mueheserie; Heimsieg wahrscheinlich aber nicht garantiert hochskalierbar",
+        "2:0-Insurance gilt NICHT (LaLiga, nicht BL/CL) - bei Auswertung normaler 90-Min-Endstand"
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/real-madrid-vs-real-oviedo-prediction-lineups-odds-2026-05-14/",
+        "https://insights.betfred.com/football/la-liga/real-madrid-vs-real-oviedo-prediction-betting-tips-thursday-14-may-2026/",
+        "https://www.si.com/soccer/real-madrid-vs-real-oviedo-preview-predictions-lineups-5-14-26",
+        "https://www.oddschecker.com/us/picks-parlays/soccer/20260514-real-madrid-vs-real-oviedo-prediction-betting-pick-latest-la-liga-odds--thursday-may-14th",
+        "https://en.wikipedia.org/wiki/2025%E2%80%9326_Real_Madrid_CF_season"
+      ]
+    }
+  ]
+}
