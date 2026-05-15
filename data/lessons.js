@@ -646,6 +646,34 @@ window.__MIESMUSCHEL_LESSONS = {
       "lesson": "HAALAND BANK FUER FA-CUP-FINAL: Pep Guardiola hat Haaland + Doku + Cherki auf die Bank gesetzt um sie fuer Samstags-FA-Cup-Final vs Chelsea fit zu halten - obwohl es um den PL-Titel ging (City 5 Pkt hinter Arsenal). Volume-9er-Schonung trotz Pflicht-Sieg-Profil bei <2 Tagen bis Cup-Final ist staerker als Pflicht-Sieg-Profil. NEUE PFLICHT-AUSSCHLUSS-REGEL: Top-Team-Volume-Stuermer-Torschuetzen-Tipps werden GEDROPPED wenn Klub innerhalb der naechsten 7 Tage Final-Termin hat (FA-Cup / CL / EL / Conference / Pokal / EM/WM-Qualifikation-Decider) - unabhaengig von Heim/Auswaerts/Quote/Form-Edge. Die Schonung kommt schon bei 3-4 Tagen Pre-Final wenn Spieler 2 Spiele in 5 Tagen hatte. Refinement zu Lesson 11.05.: nicht nur EL/CL-Final-Naehe, sondern alle finalen Saison-Decider <=7 Tage. (Haaland-Tipp gestern -5.50€ vermeidbar; trifft auch fuer Risiko-Kombi-Bein-Verlust mit.)",
       "bezug_spiel_id": "2026-05-13-mci-cry",
       "anwenden_ab": "2026-05-14"
+    },
+    {
+      "datum": "2026-05-15",
+      "kategorie": "LaLiga MD36 Mid-Table-Saisonende-2-Tore-Cluster (Quelle 8f Markt-Pattern aus volle_analyse)",
+      "lesson": "LALIGA MD36 14.05.: 3/3 Spiele endeten mit GENAU 2 Toren (Val-Ray 1:1, Gir-Soc 1:1, RMA-Ovi 2:0). Ueber-2.5-Goldgrube-Stat (+62.8% ROI) ZURUECKZUNEHMEN fuer LaLiga-MD-Saisonende-Phasen mit Mid-Table-ohne-Druck-Profil: zwischen Klassenerhalt-Druck (eng, defensiv) und satten Mid-Table/Top-Teams (Schon-Modus, Energie-Mangel) ist das Tor-Volumen tagsystematisch reduziert. 2x Ueber-2.5-SAFE-Tipps verloren (-16.50€). NEUE FILTER-REGEL: Bei LaLiga-MD36-MD37-MD38-Spielen mit beidseitig 'kein hartes Saisonziel' (Mid-Table beider Teams ODER bereits abgestiegen/Champions-locked) UND keine spezielle Sturm-Edge-Daten Ueber 2.5 NICHT als SAFE einplanen. Lieber Unter 2.5 oder BTTS (2/3 erfuellt am 14.05.) als Alternative.",
+      "bezug_spiel_id": "2026-05-14-rma-ovi",
+      "anwenden_ab": "2026-05-15"
+    },
+    {
+      "datum": "2026-05-15",
+      "kategorie": "Castilla-Stand-In-Goldgrube bei Star-OUT-Cluster (Refinement HR24 + HR22, Quelle 8h Rotation-Pattern + 8i Einwechslungs-Boost)",
+      "lesson": "STAR-OUT-PATTERN UMGEDREHT: Real Madrid mit Mbappe + Guler + Valverde OUT → Gonzalo Garcia (Castilla-9er, Moonshot @ 5.75) WINNER (+5.20€), NICHT der verbliebene Star-Backup Vinicius @ 2.25 (-8.25€). HR24-Form-Edge-These ('Vinicius mit 4 Toren in 5 Spielen') versagte gegen Bottom-Defense weil Vinicius auf Doppel-Tor-Rolle ueberlastet wurde + Energie-Mangel post-Clasico. NEUE REGEL bei Top-Team mit 2+ Stamm-Stuermer-OUT: 1) den nominalen Castilla/B-Elf-Stand-In-9er als Torschuetzen-MOONSHOT/RISK (Quote 4.50-7.00) AKTIV scannen - er bekommt Startelf + alle Tor-Chancen weil Star aus dem Backup-Pool kommt. 2) den verbliebenen Star NICHT als VALUE/SAFE-Torschuetzen-Tipp - Doppel-Belastungs-Risiko + Tor-Festival-These greift bei diesen Konstellationen oft nicht (2:0 statt 4:0 typisch).",
+      "bezug_spiel_id": "2026-05-14-rma-ovi",
+      "anwenden_ab": "2026-05-15"
+    },
+    {
+      "datum": "2026-05-15",
+      "kategorie": "SAFE-Hitrate-Reality + Total-Einsatz-Disziplin bei Liga-ROI-Negativ-Cluster (Quelle 8e Kategorie-Reality + 8a Korrelation)",
+      "lesson": "TAGESBILANZ 14.05.: 75,10€ Total-Einsatz auf 550€-Kasse = 13.6% Kasse exponiert, ROI -56.3% (-42.28€). 4/4 Kombis verloren + 3/8 Einzel-WINs = SAFE-Hitrate 3/5 = 60% UNTER Soll 75-90%. Auswertung: Bei 3-Spiele-Tag MIT Liga-ROI-Negativ-Warnung (LaLiga -8.5% n=34) ist die Total-Einsatz-Disziplin zu lasch. NEUE HARDREGEL: Max 10% Kasse exponiert (statt aktuell 13.6%) wenn beide Bedingungen: (a) <=3 Spiele am Tag UND (b) Liga 30d-ROI < 0. Konkret: max 4 Kombis bei 3-Spiele-Tag NICHT, statt 4 nur 2-3 (Safe + Balance). Risiko + Moonshot nur dazunehmen wenn 5+ Spiele oder Liga-ROI positiv. Heutige Risiko (1,40€) + Moonshot (0,55€) = -1,95€ marginal, aber Safe-Kombi (-11€) + Balance-Kombi (-4,40€) als Hauptverlust waeren bei strikteren 10%-Limit ebenfalls reduziert.",
+      "bezug_spiel_id": "2026-05-14-gir-soc",
+      "anwenden_ab": "2026-05-15"
+    },
+    {
+      "datum": "2026-05-15",
+      "kategorie": "Stuani-Einwechslungs-Tor-Pattern bestaetigt: Backup-Veteran-9er-WACKEL ist eigene Goldgrube (Quelle 8i Einwechslungs-Boost-Trigger mit Tipp)",
+      "lesson": "STUANI-WACKEL @ 2.65 WON (+4.32€): Cristhian Stuani kam zur Halbzeit (46.) fuer Bryan Gil ALS Einwechslung rein und traf zum 1:1 (66.). Pattern-Bestaetigung: Veteran-9er als nominaler Backup bei jungen Vanat/Portu-Ausfaellen funktioniert besonders gut wenn das Heim-Team einen Klassenerhalts-Druck-Punkt erkaempfen MUSS und im 2. Durchgang offensiver wird. NEUE GOLDGRUBE-INDIKATION (n=1, beobachten): Veteran-Backup-9er-Torschuetzen-WACKEL/RISK-Tipps bei Heim-Team-Klassenerhalts-Pflichtspiel mit jungem Stamm-9er-Ausfall sind nicht-offensichtlich-WERT. ANWENDUNG: bei zukuenftigen Klassenerhalts-Heim-Spielen Veteran-Backup-9er (Stuani-Profil: 35+ Jahre, Karriere-Bonus, gewohnte Sub-Rolle) aktiv als WACKEL @ 2.30-2.80 scannen, NICHT als MOONSHOT abtun. Markt-Stat-Update: Goldgrube Torschuetzen Jederzeit (38.5% Hit / +21% ROI, n=26) profitiert auch von dieser Sub-Kategorie.",
+      "bezug_spiel_id": "2026-05-14-gir-soc",
+      "anwenden_ab": "2026-05-15"
     }
   ]
 };

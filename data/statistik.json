@@ -1,37 +1,37 @@
 {
-  "letzte_berechnung": "2026-05-14T06:19:15+00:00",
+  "letzte_berechnung": "2026-05-15T06:15:23+00:00",
   "gesamt": {
-    "tipps": 218,
-    "gewonnen": 126,
-    "verloren": 92,
+    "tipps": 225,
+    "gewonnen": 128,
+    "verloren": 97,
     "push": 0,
     "offen": 0,
-    "einsatz": 218.0,
-    "netto": 18.12,
-    "trefferquote": 57.8,
-    "roi_prozent": 8.3
+    "einsatz": 225.0,
+    "netto": 21.32,
+    "trefferquote": 56.9,
+    "roi_prozent": 9.5
   },
   "letzte_30_tage": {
-    "tipps": 218,
-    "gewonnen": 126,
-    "verloren": 92,
+    "tipps": 225,
+    "gewonnen": 128,
+    "verloren": 97,
     "push": 0,
     "offen": 0,
-    "einsatz": 218.0,
-    "netto": 18.12,
-    "trefferquote": 57.8,
-    "roi_prozent": 8.3
+    "einsatz": 225.0,
+    "netto": 21.32,
+    "trefferquote": 56.9,
+    "roi_prozent": 9.5
   },
   "letzte_90_tage": {
-    "tipps": 218,
-    "gewonnen": 126,
-    "verloren": 92,
+    "tipps": 225,
+    "gewonnen": 128,
+    "verloren": 97,
     "push": 0,
     "offen": 0,
-    "einsatz": 218.0,
-    "netto": 18.12,
-    "trefferquote": 57.8,
-    "roi_prozent": 8.3
+    "einsatz": 225.0,
+    "netto": 21.32,
+    "trefferquote": 56.9,
+    "roi_prozent": 9.5
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -68,15 +68,15 @@
       "roi_prozent": -9.5
     },
     "LaLiga": {
-      "tipps": 34,
-      "gewonnen": 19,
-      "verloren": 15,
+      "tipps": 41,
+      "gewonnen": 21,
+      "verloren": 20,
       "push": 0,
       "offen": 0,
-      "einsatz": 34.0,
-      "netto": -2.9,
-      "trefferquote": 55.9,
-      "roi_prozent": -8.5
+      "einsatz": 41.0,
+      "netto": 0.3,
+      "trefferquote": 51.2,
+      "roi_prozent": 0.7
     },
     "Bundesliga": {
       "tipps": 30,
@@ -1148,15 +1148,15 @@
       "roi_prozent": 42.0
     },
     "Unter 2.5 Tore": {
-      "tipps": 4,
-      "gewonnen": 3,
+      "tipps": 5,
+      "gewonnen": 4,
       "verloren": 1,
       "push": 0,
       "offen": 0,
-      "einsatz": 4.0,
-      "netto": 0.8,
-      "trefferquote": 75.0,
-      "roi_prozent": 20.0
+      "einsatz": 5.0,
+      "netto": 2.43,
+      "trefferquote": 80.0,
+      "roi_prozent": 48.6
     },
     "Unter 211.5 Punkte (Total)": {
       "tipps": 1,
@@ -1511,15 +1511,15 @@
       "roi_prozent": -100.0
     },
     "Ueber 2.5 Tore": {
-      "tipps": 7,
+      "tipps": 9,
       "gewonnen": 5,
-      "verloren": 2,
+      "verloren": 4,
       "push": 0,
       "offen": 0,
-      "einsatz": 7.0,
+      "einsatz": 9.0,
       "netto": 6.58,
-      "trefferquote": 71.4,
-      "roi_prozent": 94.0
+      "trefferquote": 55.6,
+      "roi_prozent": 73.1
     },
     "Unter 3.5 Tore": {
       "tipps": 3,
@@ -2312,6 +2312,50 @@
       "netto": 0.0,
       "trefferquote": 0.0,
       "roi_prozent": 0.0
+    },
+    "Beide Teams treffen JA": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.57,
+      "trefferquote": 100.0,
+      "roi_prozent": 157.0
+    },
+    "Sieg Girona (1X2)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Vinicius Junior Torschuetze Jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Mikel Oyarzabal Torschuetze Jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt_typ": {
@@ -2360,37 +2404,37 @@
       "roi_prozent": 55.0
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 76,
+      "tipps": 77,
       "gewonnen": 46,
-      "verloren": 30,
+      "verloren": 31,
       "push": 0,
       "offen": 0,
-      "einsatz": 76.0,
+      "einsatz": 77.0,
       "netto": 7.68,
-      "trefferquote": 60.5,
-      "roi_prozent": 10.1
+      "trefferquote": 59.7,
+      "roi_prozent": 10.0
     },
     "Torschuetzen Jederzeit": {
-      "tipps": 26,
+      "tipps": 28,
       "gewonnen": 10,
-      "verloren": 16,
+      "verloren": 18,
       "push": 0,
       "offen": 0,
-      "einsatz": 26.0,
+      "einsatz": 28.0,
       "netto": 5.47,
-      "trefferquote": 38.5,
-      "roi_prozent": 21.0
+      "trefferquote": 35.7,
+      "roi_prozent": 19.5
     },
     "Unter 2.5 Tore": {
-      "tipps": 8,
-      "gewonnen": 5,
+      "tipps": 9,
+      "gewonnen": 6,
       "verloren": 3,
       "push": 0,
       "offen": 0,
-      "einsatz": 8.0,
-      "netto": 0.65,
-      "trefferquote": 62.5,
-      "roi_prozent": 8.1
+      "einsatz": 9.0,
+      "netto": 2.28,
+      "trefferquote": 66.7,
+      "roi_prozent": 25.3
     },
     "Doppelte Chance 1X": {
       "tipps": 17,
@@ -2415,26 +2459,26 @@
       "roi_prozent": 7.7
     },
     "Ueber 2.5 Tore": {
-      "tipps": 10,
+      "tipps": 12,
       "gewonnen": 6,
-      "verloren": 4,
+      "verloren": 6,
       "push": 0,
       "offen": 0,
-      "einsatz": 10.0,
+      "einsatz": 12.0,
       "netto": 6.28,
-      "trefferquote": 60.0,
-      "roi_prozent": 62.8
+      "trefferquote": 50.0,
+      "roi_prozent": 52.3
     },
     "Beide Teams treffen JA": {
-      "tipps": 4,
-      "gewonnen": 1,
+      "tipps": 5,
+      "gewonnen": 2,
       "verloren": 3,
       "push": 0,
       "offen": 0,
-      "einsatz": 4.0,
-      "netto": -2.3,
-      "trefferquote": 25.0,
-      "roi_prozent": -57.5
+      "einsatz": 5.0,
+      "netto": -0.73,
+      "trefferquote": 40.0,
+      "roi_prozent": -14.6
     },
     "Ueber 1.5 Tore": {
       "tipps": 6,
@@ -2758,36 +2802,36 @@
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 102,
-      "gewonnen": 54,
-      "verloren": 48,
+      "tipps": 106,
+      "gewonnen": 56,
+      "verloren": 50,
       "push": 0,
       "offen": 0,
-      "einsatz": 102.0,
-      "netto": 8.0,
-      "trefferquote": 52.9,
-      "roi_prozent": 7.8
+      "einsatz": 106.0,
+      "netto": 11.2,
+      "trefferquote": 52.8,
+      "roi_prozent": 10.6
     },
     "2.00-3.00": {
-      "tipps": 26,
+      "tipps": 28,
       "gewonnen": 11,
-      "verloren": 15,
+      "verloren": 17,
       "push": 0,
       "offen": 0,
-      "einsatz": 26.0,
+      "einsatz": 28.0,
       "netto": 2.64,
-      "trefferquote": 42.3,
-      "roi_prozent": 10.2
+      "trefferquote": 39.3,
+      "roi_prozent": 9.4
     },
     "1.00-1.50": {
-      "tipps": 81,
+      "tipps": 82,
       "gewonnen": 59,
-      "verloren": 22,
+      "verloren": 23,
       "push": 0,
       "offen": 0,
-      "einsatz": 81.0,
+      "einsatz": 82.0,
       "netto": 6.03,
-      "trefferquote": 72.8,
+      "trefferquote": 72.0,
       "roi_prozent": 7.4
     },
     "3.00+": {
@@ -2804,37 +2848,37 @@
   },
   "nach_kategorie": {
     "safe": {
-      "tipps": 60,
-      "gewonnen": 44,
+      "tipps": 64,
+      "gewonnen": 46,
+      "verloren": 18,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 64.0,
+      "netto": 4.13,
+      "trefferquote": 71.9,
+      "roi_prozent": 6.5
+    },
+    "value": {
+      "tipps": 133,
+      "gewonnen": 70,
+      "verloren": 63,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 133.0,
+      "netto": 13.22,
+      "trefferquote": 52.6,
+      "roi_prozent": 9.9
+    },
+    "wackel": {
+      "tipps": 28,
+      "gewonnen": 12,
       "verloren": 16,
       "push": 0,
       "offen": 0,
-      "einsatz": 60.0,
-      "netto": 0.93,
-      "trefferquote": 73.3,
-      "roi_prozent": 1.6
-    },
-    "value": {
-      "tipps": 131,
-      "gewonnen": 70,
-      "verloren": 61,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 131.0,
-      "netto": 13.22,
-      "trefferquote": 53.4,
-      "roi_prozent": 10.1
-    },
-    "wackel": {
-      "tipps": 27,
-      "gewonnen": 12,
-      "verloren": 15,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 27.0,
+      "einsatz": 28.0,
       "netto": 3.97,
-      "trefferquote": 44.4,
-      "roi_prozent": 14.7
+      "trefferquote": 42.9,
+      "roi_prozent": 14.2
     }
   },
   "clv_gesamt": {
@@ -2854,6 +2898,215 @@
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-05-14",
+      "gesamt": {
+        "tipps": 7,
+        "gewonnen": 2,
+        "verloren": 5,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 7.0,
+        "netto": 3.2,
+        "trefferquote": 28.6,
+        "roi_prozent": 45.7
+      },
+      "spiele": [
+        {
+          "id": "2026-05-14-val-ray",
+          "liga": "LaLiga",
+          "heim": "Valencia CF",
+          "gast": "Rayo Vallecano",
+          "endstand": "1:1",
+          "tipps": [
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.63,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.63,
+              "kommentar": "Unter 2.5 Tore - genau 2 Tore (Lejeune 20', Diego Lopez 40'). Endstand 1:1."
+            }
+          ]
+        },
+        {
+          "id": "2026-05-14-gir-soc",
+          "liga": "LaLiga",
+          "heim": "Girona FC",
+          "gast": "Real Sociedad",
+          "endstand": "1:1",
+          "tipps": [
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.55,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Ueber 2.5 Tore verloren - genau 2 Tore (Jon Martin 28', Stuani 66'). Goldgrube-Markt zog hier nicht."
+            },
+            {
+              "markt": "Beide Teams treffen JA",
+              "quote": 1.57,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.57,
+              "kommentar": "BTTS Ja - beide Teams trafen (Sociedad 28', Girona 66')."
+            },
+            {
+              "markt": "Sieg Girona (1X2)",
+              "quote": 1.91,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Sieg Girona verloren - Endstand 1:1. Bayern-Mainz-Pattern erfuellte sich nur teilweise (Klassenerhalt-Punkt durch Remis, kein Sieg)."
+            },
+            {
+              "markt": "Mikel Oyarzabal Torschuetze Jederzeit",
+              "quote": 2.7,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Oyarzabal nicht getroffen. Nicht ausgewechselt - kein Einwechslungs-Boost moeglich."
+            }
+          ]
+        },
+        {
+          "id": "2026-05-14-rma-ovi",
+          "liga": "LaLiga",
+          "heim": "Real Madrid",
+          "gast": "Real Oviedo",
+          "endstand": "2:0",
+          "tipps": [
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.41,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Ueber 2.5 Tore verloren - nur 2 Tore (Gonzalo Garcia 44', Bellingham 80'). HR22-Hedge-These (Tor-Festival ohne Mbappe/Guler/Valverde) trat nicht ein - Madrid spielte sich nur muede zum Pflichtsieg."
+            },
+            {
+              "markt": "Vinicius Junior Torschuetze Jederzeit",
+              "quote": 2.25,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Vinicius nicht getroffen. Vinicius spielte, wurde durchgespielt - kein Einwechslungs-Boost auf seine Position dokumentiert. HR24-Form-Edge-These versagte gegen Bottom-Defense."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi (~3.0x)",
+          "kategorie": "safe",
+          "gesamtquote": 3.03,
+          "einsatz_prozent": 2.0,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Real Madrid Sieg (1X2)",
+              "quote": 1.22,
+              "status": "gewonnen",
+              "kommentar": "Real Madrid Sieg (1X2) - Endstand 2:0. Einsatz Einzeltipp war 0% (HR22-Caveat) - Tipp wirksam NUR als Kombi-Anker (Safe-Kombi)."
+            },
+            {
+              "markt": "Sieg Girona (1X2)",
+              "quote": 1.91,
+              "status": "verloren",
+              "kommentar": "Sieg Girona verloren - Endstand 1:1. Bayern-Mainz-Pattern erfuellte sich nur teilweise (Klassenerhalt-Punkt durch Remis, kein Sieg)."
+            },
+            {
+              "markt": "Valencia oder Unentschieden (DC 1X)",
+              "quote": 1.3,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi (~6.2x)",
+          "kategorie": "balance",
+          "gesamtquote": 6.21,
+          "einsatz_prozent": 0.8,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.41,
+              "status": "verloren",
+              "kommentar": "Ueber 2.5 Tore verloren - nur 2 Tore (Gonzalo Garcia 44', Bellingham 80'). HR22-Hedge-These (Tor-Festival ohne Mbappe/Guler/Valverde) trat nicht ein - Madrid spielte sich nur muede zum Pflichtsieg."
+            },
+            {
+              "markt": "Mikel Oyarzabal Torschuetze Jederzeit",
+              "quote": 2.7,
+              "status": "verloren",
+              "kommentar": "Oyarzabal nicht getroffen. Nicht ausgewechselt - kein Einwechslungs-Boost moeglich."
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.63,
+              "status": "gewonnen",
+              "kommentar": "Unter 2.5 Tore - genau 2 Tore (Lejeune 20', Diego Lopez 40'). Endstand 1:1."
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi (~20.5x)",
+          "kategorie": "risk",
+          "gesamtquote": 20.49,
+          "einsatz_prozent": 0.25,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Beide Teams treffen JA",
+              "quote": 1.57,
+              "status": "gewonnen",
+              "kommentar": "BTTS Ja - beide Teams trafen (Sociedad 28', Girona 66')."
+            },
+            {
+              "markt": "Hugo Duro Torschuetze Jederzeit",
+              "quote": 5.8,
+              "status": "verloren",
+              "kommentar": "Hugo Duro nicht getroffen. Einwechslungs-Boost greift nicht: kein dokumentiertes Sub-Tor des Backup nach Duro-Auswechslung."
+            },
+            {
+              "markt": "Vinicius Junior Torschuetze Jederzeit",
+              "quote": 2.25,
+              "status": "verloren",
+              "kommentar": "Vinicius nicht getroffen. Vinicius spielte, wurde durchgespielt - kein Einwechslungs-Boost auf seine Position dokumentiert. HR24-Form-Edge-These versagte gegen Bottom-Defense."
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi (~169x)",
+          "kategorie": "moonshot",
+          "gesamtquote": 169.6,
+          "einsatz_prozent": 0.1,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Sergio Camello Torschuetze Jederzeit",
+              "quote": 8.0,
+              "status": "verloren",
+              "kommentar": "Sergio Camello nicht getroffen."
+            },
+            {
+              "markt": "Cristhian Stuani Torschuetze Jederzeit",
+              "quote": 2.65,
+              "status": "gewonnen",
+              "kommentar": "Cristhian Stuani Torschuetze - Stuani kam zur Halbzeit (46.) fuer Bryan Gil rein und traf 66. zum 1:1-Ausgleich."
+            },
+            {
+              "markt": "Brahim Diaz Torschuetze Jederzeit",
+              "quote": 8.0,
+              "status": "verloren",
+              "kommentar": "Brahim Diaz nicht getroffen (assistierte aber Gonzalos Tor). Lotterie-Tipp - Kreativ-Profil bestaetigt, aber Tor-Quote 8.00 nicht eingeloest."
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-05-13",
       "gesamt": {

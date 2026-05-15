@@ -1,0 +1,1275 @@
+{
+  "datum": "2026-05-14",
+  "erstellt_am": "2026-05-14T17:00:00+02:00",
+  "hinweis": "Magerer Donnerstag mit 3 LaLiga-MD36-Spielen (Valencia-Rayo 19:00, Girona-Sociedad 20:00, Real Madrid-Oviedo 21:30). Keine NBA-Playoffs heute. Kern-These: Girona im Klassenerhalts-Pflicht-Heim vs. Pokal-Sieger-Sociedad ohne Druck (Bayern-Mainz-Pattern) + Real Madrid Tor-Festival ohne Mbappe/Guler/Valverde (HR22-Hedge via Ueber 2.5) + Valencia-Rayo defensives Coinflip-Match (6/6 H2H Unter 2.5). Kasse 550€ / Stufe 1 Aufbau-Phase. Quoten bei bet365 vor Anpfiff live pruefen.",
+  "spiele": [
+    {
+      "id": "2026-05-14-val-ray",
+      "liga": "LaLiga",
+      "heim": "Valencia CF",
+      "gast": "Rayo Vallecano",
+      "anstoss": "2026-05-14T19:00:00+02:00",
+      "stadion": "Estadio Mestalla, Valencia",
+      "saison_kontext": {
+        "parallel_heim": "keine - Valencia nicht in UEFA-Wettbewerben 2025/26, keine Copa-del-Rey-Belastung mehr",
+        "parallel_gast": "UEFA Conference League FINAL 27.05.2026 vs Crystal Palace in Leipzig (13 Tage Vorlauf) - milde Rotations-Tendenz, Defensive-Kerne (Balliu/Lejeune/Mendy) bleiben voraussichtlich stehen, Coach Inigo Perez priorisiert Final",
+        "saisonziel_heim": "Platz 12 mit 42 Pkt nach 35 Spielen - Klassenerhalt laengst gesichert, kein EU-Quali-Druck. Mid-Table-Auslauf.",
+        "saisonziel_gast": "Platz 11 mit 43 Pkt nach 35 Spielen - 6-Match-Ungeschlagen-Serie, Mid-Table-Liga-Auslauf, EL-2026-27 ueber Conference-Final-Sieg moeglich (Sieger-Bonus).",
+        "motivations_asymmetrie": "Klassisches Coinflip-Saisonende-Mid-Table-Spiel ohne harten Liga-Druck. Rayo-Cup-Final-Vorbereitung verzerrt leicht zu Rotation/Schon-Tendenz; Valencia-Heim-Edge-Light am Mestalla. Coinflip-Profil dominant - KEIN SAFE-Sieg moeglich.",
+        "recovery_heim": "4 Tage seit 1:0-Sieg in Bilbao (10.05.) - Standard-Rhythmus daheim am Mestalla, Defense-Loch (Diakhaby/Correia/Foulquier/Agirrezabala/Copete OUT + Coemert Abdominalstrain Q)",
+        "recovery_gast": "2 Tage seit 1:1 vs Girona (12.05.) - kurzes Fenster, Belastung leicht erhoeht. Palazon Rot-Sperre OUT.",
+        "quellen": [
+          "https://en.wikipedia.org/wiki/2026_UEFA_Conference_League_final",
+          "https://www.uefa.com/uefaconferenceleague/news/029a-1df99126e9f6-36a9ff57d0cd-1000--2026-uefa-conference-league-final-where-is-it-who-is-involv/",
+          "https://www.sportsgambler.com/betting-tips/football/valencia-vs-rayo-vallecano-prediction-lineups-odds-2026-05-14/",
+          "https://www.transfermarkt.us/fc-valencia/sperrenundverletzungen/verein/1049"
+        ]
+      },
+      "news": [
+        "Quoten (Aggregator): Valencia 2.25, Draw 3.10, Rayo 3.50. Unter 2.5 @ 1.63, BTTS Nein @ 1.86, DC 1X @ 1.30.",
+        "6 von 6 letzten H2H-Begegnungen Valencia-Rayo Unter 2.5 Tore - klares Defensiv-Pattern",
+        "Rayo 6 Spiele LaLiga ungeschlagen + Conference-Final 27.05. (13 Tage) - milde Rotations-Tendenz, Defensive bleibt stark",
+        "Valencia Defense-Lazarett: Diakhaby/Correia/Foulquier/Agirrezabala/Copete OUT + Coemert Abdominalstrain Q",
+        "2:0-Insurance gilt NICHT (LaLiga, nicht BL/CL) - bei Auswertung normaler 90-Min-Endstand"
+      ],
+      "tipps": [
+        {
+          "id": "val-ray-1",
+          "kategorie": "safe",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.63,
+          "edge_prozent": 5,
+          "faire_quote": 1.55,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "6 von 6 letzten H2H-Begegnungen Valencia-Rayo Unter 2.5 - klares Defensiv-Pattern. Beide Teams ohne Tabellen-Druck (Mid-Table geklaert) + Rayo-Final-Vorbereitung-Schon-Modus + Coemert-Defense-Q schraenkt Offensiv-Risiko ein. Markt-Stat (n=8) 62.5% / +8.1% ROI - kleine Datenbasis aber konsistent. Reality-Check: LaLiga -8.5% ROI letzte 30 Tage, daher kein Selbstlaeufer; H2H-Pattern hebt jedoch deutlich. Stake Stufe 1: 1.5% = 8,25€."
+        },
+        {
+          "id": "val-ray-2",
+          "kategorie": "safe",
+          "markt": "Valencia oder Unentschieden (Doppelte Chance 1X)",
+          "quote": 1.3,
+          "edge_prozent": 4,
+          "faire_quote": 1.25,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Markt-Goldgrube DC 1X (82.4% Hit / +4.9% ROI, n=17) - aktiv gesucht. Heim-Edge-Light am Mestalla + Rayo 13-Tage-Pre-Conference-Final-Tendenz zur Rotation/Schonung. Valencia ist nicht in Form-Krise (1:0 in Bilbao 10.05., trend leicht aufwaerts) - HR2 nicht ausgeloest. Stake Stufe 1: 1.5% = 8,25€."
+        },
+        {
+          "id": "val-ray-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen NEIN",
+          "quote": 1.86,
+          "edge_prozent": 3,
+          "faire_quote": 1.8,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Hedge zum Unter-2.5-Tipp: 6/6 H2H Unter 2.5 + Rayo-Defensive-Auftritt. WACKEL weil hochkorreliert mit Unter 2.5 (Markt-Familie-Cluster). Stake 0.5% = 2,75€."
+        },
+        {
+          "id": "val-ray-4",
+          "kategorie": "risk",
+          "markt": "Hugo Duro Torschuetze Jederzeit",
+          "quote": 5.8,
+          "edge_prozent": 8,
+          "faire_quote": 5.4,
+          "empfohlener_einsatz_prozent": 0.25,
+          "begruendung": "HR24-Check: (b) Nominaler Valencia-9er + Sadiq als Backup mit Form-Edge (Match-Winner 10.05.) = Einwechslungs-Boost-Trigger (bet365-Spezialregel). (c) Rayo-IV Mumin/Mendy wegen 2-Tage-Recovery + Final-Schonung leicht reduziert. 2/3 erfuellt. Risk-Kategorie wegen Quote 5.80. Stake 0.25% = 1,40€."
+        },
+        {
+          "id": "val-ray-5",
+          "kategorie": "moonshot",
+          "markt": "Sergio Camello Torschuetze Jederzeit",
+          "quote": 8.0,
+          "edge_prozent": 5,
+          "faire_quote": 7.6,
+          "empfohlener_einsatz_prozent": 0.1,
+          "begruendung": "Lotterie-Tipp: Camello als Rayo-Nominal-9er, Quote 8.00 spiegelt Rayo-Defensiv-Auftritt + niedrige Tor-Erwartung gegen Mestalla wieder. Spass-Einsatz 0.1% = 0,55€."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 1,
+        "halbzeit_heim": 1,
+        "halbzeit_gast": 1,
+        "endstand": "1:1",
+        "status": "abgeschlossen"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "val-ray-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.63,
+          "kommentar": "Unter 2.5 Tore - genau 2 Tore (Lejeune 20', Diego Lopez 40'). Endstand 1:1."
+        },
+        {
+          "tipp_id": "val-ray-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.3,
+          "kommentar": "Doppelte Chance 1X (Valencia/Unentschieden) - Endstand 1:1 -> Unentschieden zaehlt."
+        },
+        {
+          "tipp_id": "val-ray-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "BTTS NEIN verloren - beide Teams trafen (Lejeune Rayo 20', Diego Lopez Valencia 40')."
+        },
+        {
+          "tipp_id": "val-ray-4",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Hugo Duro nicht getroffen. Einwechslungs-Boost greift nicht: kein dokumentiertes Sub-Tor des Backup nach Duro-Auswechslung."
+        },
+        {
+          "tipp_id": "val-ray-5",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Sergio Camello nicht getroffen."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:1",
+        "endstand": "1:1",
+        "tore": [
+          {
+            "min": 20,
+            "team": "gast",
+            "spieler": "Florian Lejeune (Kopfball nach Gumbau-Corner)",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 40,
+            "team": "heim",
+            "spieler": "Diego Lopez (Vorlage Javi Guerra)",
+            "stand_danach": "1:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Drehung - Rayo ging 1:0 vorne, Valencia glich vor der Pause aus und beide Mannschaften hielten das Remis."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Unentschieden",
+          "kein_team_zu_null": true,
+          "tore_in_letzten_15min": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Rayo Defensiv-Kerne",
+            "details": "Trotz Conference-Final 27.05. (13 Tage Vorlauf) startete Rayo defensiv stark - Lejeune Stamm-IV traf sogar selbst. Rotations-These nur leicht bestaetigt."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "6/6 H2H-Unter-2.5-Pattern fortgesetzt - Endstand 1:1 = Unter 2.5 nochmal erfuellt (7/7 jetzt). Unter-2.5-SAFE-Tipp + DC-1X-SAFE-Tipp beide gewonnen.",
+          "Coinflip-Mid-Table-Saisonende-Pattern bestaetigt: Beide Teams ohne Druck endeten in friedlichem Remis - klassisches LaLiga-MD36-Profil.",
+          "BTTS-NEIN-WACKEL-Tipp verloren obwohl Unter-2.5-Tipp gewann - Markt-Familie-Korrelation funktionierte hier NICHT (genau 2 Tore = 1+1, BTTS Ja trotz Unter 2.5). Warnung fuer kombinierte Unter/BTTS-Nein-Hedges."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-14-gir-soc",
+      "liga": "LaLiga",
+      "heim": "Girona FC",
+      "gast": "Real Sociedad",
+      "anstoss": "2026-05-14T20:00:00+02:00",
+      "stadion": "Estadi Montilivi, Girona",
+      "saison_kontext": {
+        "parallel_heim": "keine - Girona nicht in UEFA-Wettbewerben 2025/26, Copa del Rey ausgeschieden",
+        "parallel_gast": "keine laufende UEFA-Belastung 2025/26 (EL-League-Phase, nicht in K.o.-16 vorgedrungen). EL-Quali 2026-27 ueber Copa-del-Rey-Sieg bereits gesichert - LaLiga-Saisonziel praktisch erfuellt.",
+        "saisonziel_heim": "Platz 19 mit 39 Pkt nach 35 Spielen - Abstiegszone, 5-Spiele-winless-Serie, kritisches Klassenerhalts-Match daheim. Bei Niederlage praktisch abgestiegen (Oviedo schon raus). MAXIMALE Heim-Pflicht-Motivation am Montilivi.",
+        "saisonziel_gast": "Platz 8 mit 44 Pkt nach 35 Spielen - knapp ausserhalb Conference-Quali-Plaetze. Copa-Sieg sichert EL 2026-27 bereits - Liga-Saisonziel praktisch erfuellt, Motivation reduziert.",
+        "motivations_asymmetrie": "MASSIVE Asymmetrie zugunsten Girona: Klassenerhalts-Existenz-Match vs Pokal-Sieger-ohne-LaLiga-Druck. Klassische CLAUDE.md-Bayern-Mainz-Pattern (Champions-rotiert vs Underdog-mit-Saisonziel). Heimvorteil Montilivi verstaerkt - HR2-Form-Krise dokumentiert aber Motivations-Edge ueberschreibt.",
+        "recovery_heim": "2-3 Tage seit 1:1 vs Rayo (12.05.) - kurzes Fenster, aber Heimvorteil + maximale Adrenalin-Motivation kompensiert",
+        "recovery_gast": "3-4 Tage seit letztem LaLiga-Spiel - Standard-Rhythmus, Reise Donostia-Girona ~5h. Stuermer-Tiefe schwach (Karrikaburu OUT, Oskarsson Gelb-Sperre, Zubeldia Muskel OUT, Guedes Q)",
+        "quellen": [
+          "https://en.wikipedia.org/wiki/2025%E2%80%9326_Real_Sociedad_season",
+          "https://www.uefa.com/uefaeuropaleague/clubs/50123--real-sociedad/",
+          "https://www.sportsgambler.com/betting-tips/football/girona-vs-real-sociedad-prediction-lineups-odds-2026-05-14/",
+          "https://www.sportsmole.co.uk/football/girona/preview/girona-vs-real-sociedad-prediction-team-news-lineups_597416.html"
+        ]
+      },
+      "news": [
+        "Quoten (Aggregator): Girona 1.91, Draw 3.70, Sociedad 3.80. Ueber 2.5 @ 1.55, BTTS Ja @ 1.57.",
+        "Girona 5 Spiele winless + 19. Tabellenplatz - Klassenerhalts-Final-Match daheim, Abstieg bei Niederlage praktisch besiegelt",
+        "Sociedad ohne Karrikaburu/Oskarsson/Zubeldia - Sturm-Tiefe reduziert, Oyarzabal als Stamm-9er mit Penalty-Option",
+        "Beide Teams ohne UEFA-Belastung - keine Rotations-Komplikation, aber klarer Druckunterschied",
+        "Bayern-Mainz-Hindsight-Pattern (CLAUDE.md): Klassenerhalts-Underdog mit Saisonziel vs satter Top-Half"
+      ],
+      "tipps": [
+        {
+          "id": "gir-soc-1",
+          "kategorie": "safe",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.55,
+          "edge_prozent": 9,
+          "faire_quote": 1.42,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (60% Hit / +62.8% ROI, n=10) - aktiv gesucht. Beidseitiger Tor-Druck (Girona MUSS Tore wegen Klassenerhalt; Sociedad-Sturm-Tiefe reduziert aber Oyarzabal-Penalty-Option). Lesson 13.05.: LaLiga MD36 (12.05.) hatte 3/3 Ueber 2.5 - LaLiga-Saisonende-Tor-Flaute-These widerlegt. Stake Stufe 1: 1.5% = 8,25€."
+        },
+        {
+          "id": "gir-soc-2",
+          "kategorie": "safe",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.57,
+          "edge_prozent": 6,
+          "faire_quote": 1.48,
+          "empfohlener_einsatz_prozent": 1.0,
+          "begruendung": "Korreliert mit Ueber-2.5-Tipp, aber eigenstaendiger Markt. Girona-Heim-Volume (Tsigankov/Ounahi/Echeverri/Stuani) + Sociedad-Oyarzabal-Stamm-9er nach Karrikaburu-Ausfall + Penalty-Option. Beide Teams haben Tor-Volumen trotz Form-Krise. Stake 1.0% = 5,50€."
+        },
+        {
+          "id": "gir-soc-3",
+          "kategorie": "value",
+          "markt": "Sieg Girona (1X2)",
+          "quote": 1.91,
+          "edge_prozent": 7,
+          "faire_quote": 1.78,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Klassische CLAUDE.md-Bayern-Mainz-Pattern: Klassenerhalts-Heim-Pflichtsieg + Sociedad-Pokal-Sieger-ohne-Druck + Sturm-Tiefe-Reduktion Gast (Karrikaburu OUT, Oskarsson gesperrt, Zubeldia OUT). Motivations-Edge schaerfer als 1.91 suggeriert. HR2-Caveat: Girona 5 Spiele winless - aber Form-Krise erklaerbar durch Saisonend-Mid-Table-Phase, nicht Strukturkrise; Motivations-Asymmetrie hebt deutlich. Reality-Check: Sieg-1X2-Markt 60.5% Hit / +10.1% ROI (n=76). Stake Stufe 1: 1.5% = 8,25€."
+        },
+        {
+          "id": "gir-soc-4",
+          "kategorie": "wackel",
+          "markt": "Mikel Oyarzabal Torschuetze Jederzeit",
+          "quote": 2.7,
+          "edge_prozent": 5,
+          "faire_quote": 2.55,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "HR24-Check: (b) Oyarzabal als nominal 9er nach Karrikaburu-Ausfall (Knoechel) + Oskarsson-Gelb-Sperre - zentraler Stamm-Stuermer mit Penalty-Option erfuellt. (c) Girona-IV-Defense ohne van de Beek/Vanat-Tiefe schwaecher als Normalstand - leichte Offensiv-Lockerung. 2/3 erfuellt. Markt-Goldgrube Torschuetzen Jederzeit (38.5% Hit / +21% ROI, n=26). Aufstellungs-Verifikation 60-90 Min vor Anstoss PFLICHT (Lesson 10.05.). Stake 0.5% = 2,75€."
+        },
+        {
+          "id": "gir-soc-5",
+          "kategorie": "wackel",
+          "markt": "Cristhian Stuani Torschuetze Jederzeit",
+          "quote": 2.65,
+          "edge_prozent": 3,
+          "faire_quote": 2.55,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "HR24-Check: (b) Veteran-9er + nominal-Backup-Stuermer bei Vanat/Portu-Ausfaellen (Kreuzbandriss/Oberschenkel) - Einwechslungs-Boost-Trigger. (c) Sociedad-IV ohne Zubeldia (Muskel OUT) + Pablo Marin-Newcomer in Defense - leichte Defensiv-Schwaeche. 2/3 erfuellt. Form-Edge (a) nicht in Recherche dokumentiert -> Wackel-Kategorie. Aufstellungs-Verifikation PFLICHT. Stake 0.5% = 2,75€."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 1,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 1,
+        "endstand": "1:1",
+        "status": "abgeschlossen"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "gir-soc-1",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Ueber 2.5 Tore verloren - genau 2 Tore (Jon Martin 28', Stuani 66'). Goldgrube-Markt zog hier nicht."
+        },
+        {
+          "tipp_id": "gir-soc-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.57,
+          "kommentar": "BTTS Ja - beide Teams trafen (Sociedad 28', Girona 66')."
+        },
+        {
+          "tipp_id": "gir-soc-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Sieg Girona verloren - Endstand 1:1. Bayern-Mainz-Pattern erfuellte sich nur teilweise (Klassenerhalt-Punkt durch Remis, kein Sieg)."
+        },
+        {
+          "tipp_id": "gir-soc-4",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Oyarzabal nicht getroffen. Nicht ausgewechselt - kein Einwechslungs-Boost moeglich."
+        },
+        {
+          "tipp_id": "gir-soc-5",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.65,
+          "kommentar": "Cristhian Stuani Torschuetze - Stuani kam zur Halbzeit (46.) fuer Bryan Gil rein und traf 66. zum 1:1-Ausgleich."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "1:1",
+        "tore": [
+          {
+            "min": 28,
+            "team": "gast",
+            "spieler": "Jon Martin (Vorlage Sergio Gomez per Eckball)",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 66,
+            "team": "heim",
+            "spieler": "Cristhian Stuani (Flachpass Arnau Martinez)",
+            "stand_danach": "1:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Knapp keine Drehung - Sociedad fuehrte 1:0 zur Pause (nur 1 Tor Differenz, nicht 2). Stuani-Ausgleich 66. sicherte Girona einen Klassenerhalts-Punkt."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Sociedad/Unentschieden",
+          "kein_team_zu_null": true,
+          "tore_in_letzten_15min": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Real Sociedad",
+            "details": "Pokal-Sieger-ohne-LaLiga-Druck-Profil bestaetigt: Sociedad fuehrte 1:0 zur Pause, kassierte aber den Ausgleich + sechs-Spiele-ohne-Sieg. Liga-Saisonziel praktisch erfuellt -> Energie-Mangel im zweiten Durchgang."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Stuani",
+            "aus": "Bryan Gil",
+            "minute": 46,
+            "tor": true,
+            "tor_minute": 66
+          }
+        ],
+        "auffaellige_patterns": [
+          "Bayern-Mainz-Pattern (CLAUDE.md Saison-Kontext) teilweise bestaetigt: Underdog mit Klassenerhalts-Saisonziel holte den 1:1-Ausgleich gegen satten Pokal-Sieger - aber KEIN voller Sieg. Motivations-Asymmetrie reichte nur fuer Punkt-Gewinn.",
+          "Stuani Einwechslungs-Tor-Pattern: Veteran-9er kam zur Pause rein und traf - typischer Backup-Stuermer-Boost im Saison-Endspurt-Pflichtspiel.",
+          "Goldgrube Ueber-2.5 verfehlt (genau 2 Tore) - knappe Niederlage, aber Markt-Stat bleibt positiv. Goldgrube-These nicht zu desavouieren wegen 1 Tipp."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-14-rma-ovi",
+      "liga": "LaLiga",
+      "heim": "Real Madrid",
+      "gast": "Real Oviedo",
+      "anstoss": "2026-05-14T21:30:00+02:00",
+      "stadion": "Santiago Bernabeu, Madrid",
+      "saison_kontext": {
+        "parallel_heim": "keine - Real Madrid am 15.04.2026 im CL-Viertelfinale ausgeschieden (Aggregat 4:6 vs Bayern, Camavinga Rot 86.). LaLiga-Titel verloren nach 0:2 El Clasico 11.05. Platz 2 mit 8 Pkt-Vorsprung auf Villarreal sicher, CL-2026-27-Direkt-Quali bereits gesichert.",
+        "parallel_gast": "keine - Real Oviedo nicht in UEFA-Wettbewerben 2025/26 (Aufsteiger, Segunda-Niveau). Copa del Rey ausgeschieden.",
+        "saisonziel_heim": "Platz 2 mit ~78 Pkt nach 35 Spielen - Saisonziel Titel + CL verloren, Platz 2 sicher; faktisches Saisonende. Mbappe + Guler + Valverde alle OUT bis 16.05. + Bellingham Status unklar (Saison-Schonung wahrscheinlich) - massive Rotations-Loecher, Castilla-Stand-Ins (Pitarch, Gonzalo Garcia).",
+        "saisonziel_gast": "Platz 20 (Schlusslicht) mit ~25 Pkt - bereits mathematisch abgestiegen seit Rayo-Girona 1:1 (12.05.). Spielt nur fuer Stolz/Profilierung; Auswaerts-Form schwach (1S-3U-6N letzte 10).",
+        "motivations_asymmetrie": "Klassen-Edge MASSIV (Top-2 vs Bottom-1, ~53 Pkt-Diff) - Motivation symmetrisch niedrig (beide ohne hartes Saisonziel). Heim-Bernabeu-Stolz-Faktor + Castilla-Test-Show bei 3+ Stamm-Stuermer-Ausfaellen. HR22 Star-OUT-Implosions-Caveat AKTIV: Mbappe+Guler+Valverde OUT -> kein Einzel-Sieg-VALUE/SAFE; Ueber-2.5-Hedge stattdessen.",
+        "recovery_heim": "3 Tage seit 0:2 El Clasico (11.05.) - Standard-Rhythmus, Heim am Bernabeu. CL-Aus + Clasico-Niederlage + 3 Stamm-Stuermer raus = mentale Muede-Serie.",
+        "recovery_gast": "3-4 Tage seit letztem LaLiga-Spiel - Standard. Reise Oviedo-Madrid ~4-5h. Sibo Rot-Sperre + Dendoncker Muskel OUT.",
+        "quellen": [
+          "https://en.wikipedia.org/wiki/2025%E2%80%9326_Real_Madrid_CF_season",
+          "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League",
+          "https://www.realmadrid.com/en-US/news/football/first-team/reports/bayern-rm-vuelta-cuartos-15-04-2026",
+          "https://www.sportsgambler.com/betting-tips/football/real-madrid-vs-real-oviedo-prediction-lineups-odds-2026-05-14/"
+        ]
+      },
+      "news": [
+        "Quoten (Aggregator): Real Madrid 1.22, Draw 6.50, Oviedo 11.00. Ueber 2.5 @ 1.41, BTTS Ja @ 1.84, Vinicius Tor @ 2.25.",
+        "Madrid Mbappe + Guler + Valverde alle OUT bis 16.05. - massives Sturm-/Mittelfeld-Loch trotz Heim-Vorteil",
+        "Oviedo bereits mathematisch abgestiegen seit Rayo-Girona-Remis 12.05. - keine Motivations-Basis mehr",
+        "Vinicius mit 4 Toren in letzten 5 LaLiga-Spielen - Top-Form-Spieler bei Mbappe-Ausfall (HR24 a+b erfuellt)",
+        "Lesson 2026-04-22 Real Madrid nach CL-Aus: Heimspiele kippen oft zu BTTS / 3+ Tore - bestaetigt Ueber-2.5-Tipp",
+        "2:0-Insurance gilt NICHT (LaLiga, nicht BL/CL)"
+      ],
+      "tipps": [
+        {
+          "id": "rma-ovi-1",
+          "kategorie": "safe",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.41,
+          "edge_prozent": 10,
+          "faire_quote": 1.28,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (60% Hit / +62.8% ROI, n=10) - aktiv gesucht. Real Madrid Heim-Offensive (Vinicius Form-Top + Brahim Diaz + Castilla-Stuermer-Boost) vs Oviedo-Bottom-Defense ohne Stamm-IV (Sibo gesperrt, Dendoncker OUT). HR22-Hedge: Madrid-Sieg-Tipp tabu wegen Mbappe/Guler/Valverde-Ausfaellen + Implosions-Risiko nach El-Clasico-Pleite; Ueber-2.5 ist HR22-Hedge-Markt. Lesson 2026-04-22: Real Madrid nach CL-Aus -> Heimspiele kippen zu BTTS/3+. Lesson 13.05.: LaLiga MD36 3/3 Ueber 2.5. Stake Stufe 1: 1.5% = 8,25€."
+        },
+        {
+          "id": "rma-ovi-2",
+          "kategorie": "value",
+          "markt": "Vinicius Junior Torschuetze Jederzeit",
+          "quote": 2.25,
+          "edge_prozent": 12,
+          "faire_quote": 2.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "HR24-Check ERFUELLT: (a) Vinicius mit 4 Toren in letzten 5 LaLiga-Spielen = Form-Edge-Top. (b) Zentraler LF/ST nach Mbappe-Ausfall + Castilla-Backup Gonzalo Garcia als Einwechslungs-Boost-Option (bet365-Spezialregel). 2/3 erfuellt. Goldgrube-Markt Torschuetzen Jederzeit (38.5% Hit / +21% ROI, n=26) - aktiv gesucht. Aufstellungs-Verifikation 60-90 Min vor Anstoss PFLICHT (Lesson 10.05.) - bei Bank-Start skippen. Stake Stufe 1: 1.5% = 8,25€."
+        },
+        {
+          "id": "rma-ovi-3",
+          "kategorie": "moonshot",
+          "markt": "Gonzalo Garcia Torschuetze Jederzeit",
+          "quote": 5.75,
+          "edge_prozent": 6,
+          "faire_quote": 5.4,
+          "empfohlener_einsatz_prozent": 0.1,
+          "begruendung": "Castilla-9er als Stand-In bei Mbappe-Ausfall (Predicted Startelf laut sportsgambler). Volumen-9er-Position vs Bottom-Defense - Lotterie-Tipp im Moonshot-Range. Aufstellungs-Verifikation 60-90 Min vor Anstoss PFLICHT. Stake 0.1% = 0,55€."
+        },
+        {
+          "id": "rma-ovi-4",
+          "kategorie": "moonshot",
+          "markt": "Brahim Diaz Torschuetze Jederzeit",
+          "quote": 8.0,
+          "edge_prozent": 4,
+          "faire_quote": 7.6,
+          "empfohlener_einsatz_prozent": 0.1,
+          "begruendung": "OM/LF im Predicted XI, Stamm-10er. Position OM theoretisch Verifikator-max-VALUE, hier aber Moonshot-Lotterie-Tipp ohne SAFE/VALUE-Beanspruchung. Brahim-Diaz hat Kreativ-Boost-Profil, Quote 8.00 spiegelt Zentral-vs-Wing-Rolle wider. Spass-Einsatz 0.1% = 0,55€."
+        },
+        {
+          "id": "rma-ovi-5",
+          "kategorie": "safe",
+          "markt": "Real Madrid Sieg (1X2)",
+          "quote": 1.22,
+          "edge_prozent": 2,
+          "faire_quote": 1.2,
+          "empfohlener_einsatz_prozent": 0,
+          "begruendung": "Klasse-Edge MASSIV (Top-2 @ 78 Pkt vs Bottom-1 @ 25 Pkt, 53-Pkt-Diff) + Heim-Bernabeu + Oviedo abgestiegen ohne Motivation + Sibo+Dendoncker OUT. HR22-Caveat AKTIV (Mbappe+Guler+Valverde OUT): NICHT als Einzeltipp empfohlen - nur als Anker in Safe-Kombi nutzbar (Kombi-Verwertungs-Tipp, kein Einzel-Stake). Empfohlener Einzeleinsatz: 0% = kein Einzeltipp."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 0,
+        "halbzeit_heim": 1,
+        "halbzeit_gast": 0,
+        "endstand": "2:0",
+        "status": "abgeschlossen"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "rma-ovi-1",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Ueber 2.5 Tore verloren - nur 2 Tore (Gonzalo Garcia 44', Bellingham 80'). HR22-Hedge-These (Tor-Festival ohne Mbappe/Guler/Valverde) trat nicht ein - Madrid spielte sich nur muede zum Pflichtsieg."
+        },
+        {
+          "tipp_id": "rma-ovi-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Vinicius nicht getroffen. Vinicius spielte, wurde durchgespielt - kein Einwechslungs-Boost auf seine Position dokumentiert. HR24-Form-Edge-These versagte gegen Bottom-Defense."
+        },
+        {
+          "tipp_id": "rma-ovi-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 5.75,
+          "kommentar": "Gonzalo Garcia Torschuetze - Castilla-9er-Stand-In traf 44. zum 1:0 (Vorlage Brahim Diaz). Moonshot-Volumen-9er-These voll bestaetigt."
+        },
+        {
+          "tipp_id": "rma-ovi-4",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Brahim Diaz nicht getroffen (assistierte aber Gonzalos Tor). Lotterie-Tipp - Kreativ-Profil bestaetigt, aber Tor-Quote 8.00 nicht eingeloest."
+        },
+        {
+          "tipp_id": "rma-ovi-5",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.22,
+          "kommentar": "Real Madrid Sieg (1X2) - Endstand 2:0. Einsatz Einzeltipp war 0% (HR22-Caveat) - Tipp wirksam NUR als Kombi-Anker (Safe-Kombi)."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "2:0",
+        "tore": [
+          {
+            "min": 44,
+            "team": "heim",
+            "spieler": "Gonzalo Garcia (Vorlage Brahim Diaz)",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 80,
+            "team": "heim",
+            "spieler": "Jude Bellingham (Vorlage Mbappe)",
+            "stand_danach": "2:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Drehung - Madrid fuehrte ab 44. und gewann routiniert 2:0 trotz Mbappe/Guler/Valverde-Ausfaellen."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Real Madrid/Real Madrid",
+          "kein_team_zu_null": false,
+          "tore_in_letzten_15min": false,
+          "team_zu_null_heim": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Bellingham",
+            "details": "Bank-Start trotz Q-Status - eingewechselt 64. fuer Tchouameni, traf 80. zum 2:0 (HR24-Backup-Pattern fuer Tchouameni-Verteidiger-Mittelfeld nicht zutreffend, aber Bellingham-Saison-Schonung-Tendenz bestaetigt)."
+          },
+          {
+            "team": "heim",
+            "spieler": "Mbappe",
+            "details": "Q-Status pre-match: trotzdem eingewechselt 69. fuer Gonzalo Garcia. Assistierte Bellingham-Tor 80."
+          },
+          {
+            "team": "heim",
+            "spieler": "Castilla-Stand-Ins",
+            "details": "Gonzalo Garcia (Castilla-9er) startete als Mbappe-Ersatz und traf - klassisches Stand-In-Volumen-Pattern."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Bellingham",
+            "aus": "Tchouameni",
+            "minute": 64,
+            "tor": true,
+            "tor_minute": 80,
+            "boost_relevant_fuer_tipp": false,
+            "kommentar": "Bellingham ersetzte Tchouameni (Mittelfeldspieler), kein Torschuetzen-Tipp betroffen."
+          },
+          {
+            "team": "heim",
+            "ein": "Mbappe",
+            "aus": "Gonzalo Garcia",
+            "minute": 69,
+            "tor": false,
+            "tor_minute": null,
+            "boost_relevant_fuer_tipp": false,
+            "kommentar": "Mbappe kam fuer Gonzalo Garcia, traf aber nicht (assistierte nur). Gonzalo hatte vorher schon getroffen - Boost-Relevanz ohnehin irrelevant."
+          }
+        ],
+        "auffaellige_patterns": [
+          "HR22-Hedge-These nur halb bestaetigt: Madrid gewann den Pflichtsieg trotz Star-OUT, aber das Tor-Festival blieb aus (nur 2 Tore, Ueber 2.5 verloren). Bottom-Team-Defense haelt manchmal kompakt + Madrid Energie-Mangel post-El-Clasico.",
+          "Castilla-Stand-In-Tor-Pattern aktiv: Gonzalo Garcia (Moonshot @ 5.75) traf - HR24-Backup-Stuermer-These bei Star-Ausfaellen WIN. Lesson-Material: bei Mbappe/Vinicius-OUT aktiv den nominalen Castilla-Backup-Stuermer scannen, nicht nur den Star.",
+          "Lesson 04-22 (Madrid nach CL-Aus -> Heim BTTS/3+) heute WIDERLEGT: BTTS Nein, Oviedo zu Null, nur 2 Tore. Sample-Size war zu klein (n=1 Vor-Tag) - Lesson zurueckzunehmen oder n+1 ergaenzen."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "spiel_id": "2026-05-14-rma-ovi",
+      "spiel": "Real Madrid - Real Oviedo",
+      "markt": "Ueber 2.5 Tore",
+      "kategorie": "safe",
+      "quote": 1.41,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung_kurz": "Goldgrube-Markt (+62.8% ROI). Madrid Heim-Offensive vs Bottom-Defense + HR22-Hedge wegen Mbappe/Guler/Valverde-Ausfaellen. Lesson 13.05.: LaLiga MD36 3/3 Ueber 2.5.",
+      "rang": 1,
+      "tipp_id": "rma-ovi-1"
+    },
+    {
+      "spiel_id": "2026-05-14-gir-soc",
+      "spiel": "Girona - Real Sociedad",
+      "markt": "Ueber 2.5 Tore",
+      "kategorie": "safe",
+      "quote": 1.55,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung_kurz": "Goldgrube-Markt (+62.8% ROI). Beidseitiger Tor-Druck + LaLiga-MD36-Pattern. Klassenerhalts-Druck Girona + Oyarzabal-Penalty-Option Soc.",
+      "rang": 2,
+      "tipp_id": "gir-soc-1"
+    },
+    {
+      "spiel_id": "2026-05-14-val-ray",
+      "spiel": "Valencia - Rayo Vallecano",
+      "markt": "Unter 2.5 Tore",
+      "kategorie": "safe",
+      "quote": 1.63,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung_kurz": "6/6 H2H Unter 2.5 + beide ohne Druck + Rayo-Final-Vorbereitung. Markt-Stat 62.5% / +8.1% ROI.",
+      "rang": 3,
+      "tipp_id": "val-ray-1"
+    },
+    {
+      "spiel_id": "2026-05-14-gir-soc",
+      "spiel": "Girona - Real Sociedad",
+      "markt": "Beide Teams treffen JA",
+      "kategorie": "safe",
+      "quote": 1.57,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "begruendung_kurz": "Beide Krisen-Teams mit Tor-Volumen: Girona-Heim-Crowd + Oyarzabal Stamm-9er Soc. Korreliert mit Ueber 2.5 - eigenstaendiger Markt.",
+      "rang": 4,
+      "tipp_id": "gir-soc-2"
+    },
+    {
+      "spiel_id": "2026-05-14-val-ray",
+      "spiel": "Valencia - Rayo Vallecano",
+      "markt": "Valencia oder Unentschieden (DC 1X)",
+      "kategorie": "safe",
+      "quote": 1.3,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung_kurz": "Goldgrube-Markt DC 1X (82.4% Hit / +4.9% ROI). Heim-Edge + Rayo-Conference-Final-Rotations-Tendenz.",
+      "rang": 5
+    },
+    {
+      "spiel_id": "2026-05-14-gir-soc",
+      "spiel": "Girona - Real Sociedad",
+      "markt": "Sieg Girona (1X2)",
+      "kategorie": "value",
+      "quote": 1.91,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung_kurz": "Bayern-Mainz-Pattern: Klassenerhalts-Heim-Pflicht vs Pokal-Sieger-ohne-Druck. Motivations-Edge schaerfer als 1.91 suggeriert. Sieg-1X2-Stat 60.5% / +10.1% ROI.",
+      "rang": 6,
+      "tipp_id": "gir-soc-3"
+    },
+    {
+      "spiel_id": "2026-05-14-rma-ovi",
+      "spiel": "Real Madrid - Real Oviedo",
+      "markt": "Vinicius Junior Torschuetze Jederzeit",
+      "kategorie": "value",
+      "quote": 2.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung_kurz": "HR24 erfuellt: 4 Tore in letzten 5 Spielen + Mbappe OUT + Gonzalo-Backup-Einwechslungs-Boost. Goldgrube-Markt. Aufstellungs-Verifikation PFLICHT.",
+      "rang": 7,
+      "tipp_id": "rma-ovi-2"
+    },
+    {
+      "spiel_id": "2026-05-14-gir-soc",
+      "spiel": "Girona - Real Sociedad",
+      "markt": "Mikel Oyarzabal Torschuetze Jederzeit",
+      "kategorie": "wackel",
+      "quote": 2.7,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 2.75,
+      "begruendung_kurz": "HR24 (b+c): Stamm-9er nach Karrikaburu+Oskarsson-Ausfall + Penalty-Option + Girona-IV-Schwaeche. Goldgrube-Markt. Aufstellungs-Verifikation PFLICHT.",
+      "rang": 8,
+      "tipp_id": "gir-soc-4"
+    }
+  ],
+  "kombis": [
+    {
+      "name": "Safe-Kombi (~3.0x)",
+      "kategorie": "safe",
+      "gesamtquote": 3.03,
+      "gesamtquote_rechnung": "1.22 x 1.91 x 1.30 = 3.03",
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 11.0,
+      "potenzieller_gewinn_euro": 22.33,
+      "beine": [
+        {
+          "spiel_id": "2026-05-14-rma-ovi",
+          "markt": "Real Madrid Sieg (1X2)",
+          "quote": 1.22,
+          "tipp_id": "rma-ovi-5"
+        },
+        {
+          "spiel_id": "2026-05-14-gir-soc",
+          "markt": "Sieg Girona (1X2)",
+          "quote": 1.91,
+          "tipp_id": "gir-soc-3"
+        },
+        {
+          "spiel_id": "2026-05-14-val-ray",
+          "markt": "Valencia oder Unentschieden (DC 1X)",
+          "quote": 1.3
+        }
+      ],
+      "begruendung": "Drei Sieg-Outcomes, jedes Spiel genau 1x abgedeckt (Layer-2 sauber). Madrid Klassen-Edge MASSIV trotz HR22-Caveat (Kombi-Anker statt Einzel). Girona Klassenerhalts-Heim-Pflicht (Bayern-Mainz-Pattern). Valencia DC 1X Goldgrube + Heim-Edge-Light + Rayo-Final-Rotations-Tendenz. Magere 3 Spiele bedeuten 3.0x natuerliche Untergrenze des Safe-Range. Einsatz Stufe 1: 2% = 11€."
+    },
+    {
+      "name": "Balance-Kombi (~6.2x)",
+      "kategorie": "balance",
+      "gesamtquote": 6.21,
+      "gesamtquote_rechnung": "1.41 x 2.70 x 1.63 = 6.21",
+      "empfohlener_einsatz_prozent": 0.8,
+      "empfohlener_einsatz_euro": 4.4,
+      "potenzieller_gewinn_euro": 22.92,
+      "beine": [
+        {
+          "spiel_id": "2026-05-14-rma-ovi",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.41,
+          "tipp_id": "rma-ovi-1"
+        },
+        {
+          "spiel_id": "2026-05-14-gir-soc",
+          "markt": "Mikel Oyarzabal Torschuetze Jederzeit",
+          "quote": 2.7,
+          "tipp_id": "gir-soc-4"
+        },
+        {
+          "spiel_id": "2026-05-14-val-ray",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.63,
+          "tipp_id": "val-ray-1"
+        }
+      ],
+      "begruendung": "Markt-entkoppelt vs Safe-Kombi: Tor-Total + Spielertor + Tor-Total statt Sieg-Outcomes. Madrid Tor-Festival (HR22-Hedge), Oyarzabal als Sociedad-Stamm-9er nach Karrikaburu-Ausfall, Val-Ray Unter 2.5 als H2H-Pattern (6/6). 6.21x = Balance-Untergrenze, bei 3-Spiele-Tag natuerlich. Einsatz 0.8% = 4,40€."
+    },
+    {
+      "name": "Risiko-Kombi (~20.5x)",
+      "kategorie": "risk",
+      "gesamtquote": 20.49,
+      "gesamtquote_rechnung": "1.57 x 5.80 x 2.25 = 20.49",
+      "empfohlener_einsatz_prozent": 0.25,
+      "empfohlener_einsatz_euro": 1.4,
+      "potenzieller_gewinn_euro": 27.29,
+      "beine": [
+        {
+          "spiel_id": "2026-05-14-gir-soc",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.57,
+          "tipp_id": "gir-soc-2"
+        },
+        {
+          "spiel_id": "2026-05-14-val-ray",
+          "markt": "Hugo Duro Torschuetze Jederzeit",
+          "quote": 5.8,
+          "tipp_id": "val-ray-4"
+        },
+        {
+          "spiel_id": "2026-05-14-rma-ovi",
+          "markt": "Vinicius Junior Torschuetze Jederzeit",
+          "quote": 2.25,
+          "tipp_id": "rma-ovi-2"
+        }
+      ],
+      "begruendung": "Markt-Mix: BTTS Ja + 2 Torschuetzen-Tipps (Duro mit Einwechslungs-Boost-Backup Sadiq + Vinicius Form-Edge 4 Tore in 5 Spielen). Kein Sieg-Outcome - Layer-2 sauber. Duro-Risk-Quote 5.80 bringt Quote in 15-30x-Range. Einsatz 0.25% = 1,40€."
+    },
+    {
+      "name": "Moonshot-Kombi (~169x)",
+      "kategorie": "moonshot",
+      "gesamtquote": 169.6,
+      "gesamtquote_rechnung": "8.00 x 2.65 x 8.00 = 169.60",
+      "empfohlener_einsatz_prozent": 0.1,
+      "empfohlener_einsatz_euro": 0.55,
+      "potenzieller_gewinn_euro": 92.73,
+      "beine": [
+        {
+          "spiel_id": "2026-05-14-val-ray",
+          "markt": "Sergio Camello Torschuetze Jederzeit",
+          "quote": 8.0,
+          "tipp_id": "val-ray-5"
+        },
+        {
+          "spiel_id": "2026-05-14-gir-soc",
+          "markt": "Cristhian Stuani Torschuetze Jederzeit",
+          "quote": 2.65,
+          "tipp_id": "gir-soc-5"
+        },
+        {
+          "spiel_id": "2026-05-14-rma-ovi",
+          "markt": "Brahim Diaz Torschuetze Jederzeit",
+          "quote": 8.0,
+          "tipp_id": "rma-ovi-4"
+        }
+      ],
+      "begruendung": "Lotterie-Triple-Goalscorer: Camello (Rayo-Nominal-9er), Stuani (Girona-Veteran-Backup-9er), Brahim Diaz (Madrid-OM/LF). Alle 3 mit Position-Match fuer Torschuetzen, Stuani niedrigste Quote dank Vanat/Portu-Ausfaellen. Kein Sieg-Outcome - Layer-2 sauber. Spass-Einsatz 0.1% = 0,55€."
+    }
+  ],
+  "lessons_angewandt": [
+    {
+      "lesson": "HR1 Quoten-Range-Disziplin: SAFE 1.30-1.65 / VALUE 1.65-2.30 / WACKEL 2.30-3.50 / RISK 3.50-7.00 / MOONSHOT 5.00+",
+      "wirkung": "Alle 14 Tipps korrekt eingeordnet. Sieg Madrid @ 1.22 unterhalb SAFE-Range -> als Kombi-only-Anker mit Einsatz 0% gefuehrt."
+    },
+    {
+      "lesson": "HR22 Star-OUT-Implosions-Risiko: Mbappe+Guler+Valverde OUT bei Real Madrid -> kein Mannschafts-Sieg-VALUE/SAFE als Einzeltipp, stattdessen Tor-Total-Tipp Ueber 2.5 als VALUE-Hedge",
+      "wirkung": "Spiel rma-ovi: Sieg Madrid NICHT in einzeltipps[], Ueber 2.5 als SAFE-Hedge ueber Goldgrube + Vinicius als Form-Edge-VALUE."
+    },
+    {
+      "lesson": "HR24 Form-Edge-Pflicht fuer Torschuetzen: 2/3 Bedingungen erforderlich (Form-Edge / Zentral-9er-Backup / Defense-Krise)",
+      "wirkung": "Vinicius (a+b) als VALUE @ 2.25, Oyarzabal (b+c) als WACKEL @ 2.70, Stuani (b+c) als WACKEL @ 2.65, Duro (b+c) als RISK @ 5.80. Gonzalo+Brahim+Camello als MOONSHOT (Lotterie-Range)."
+    },
+    {
+      "lesson": "HR23 Layer-3-Diversifikation: pro Spiel max 1 Bein ueber alle Kombis (wo moeglich), sonst Markt-entkoppeln",
+      "wirkung": "Bei 3 Spielen + 4 Kombis unvermeidlich -> Markt-entkoppelt: jedes Spiel hat in jeder Kombi anderen Markt (Sieg/Tor-Total/Spielertor)."
+    },
+    {
+      "lesson": "Layer-2 hart: Sieg-Outcome max 1 Kombi pro Spiel",
+      "wirkung": "Alle 3 Sieg-Outcomes (Madrid/Girona/Valencia-DC) nur in Safe-Kombi. Balance + Risiko + Moonshot ohne Sieg-Outcomes - sauber."
+    },
+    {
+      "lesson": "Markt-Goldgrube aktiv suchen: Ueber 2.5 (+62.8% ROI), Torschuetzen Jederzeit (+21% ROI), DC 1X (+4.9% ROI, 82.4% Hit), Ueber 1.5 (+31.7% ROI)",
+      "wirkung": "2x Ueber 2.5 als SAFE (Rma-Ovi + Gir-Soc), 1x DC 1X als SAFE (Val-Ray), 4x Torschuetzen Jederzeit als VALUE/WACKEL/RISK."
+    },
+    {
+      "lesson": "Lesson 2026-04-22 Real Madrid nach CL-Aus: Heimspiele kippen zu BTTS/3+ Tore - lieber Torfestival-Markt als reiner Sieg-Tipp",
+      "wirkung": "Spiel rma-ovi: Ueber 2.5 als SAFE-Hedge statt Sieg-Tipp. Vinicius-Tor als VALUE statt Sieg Madrid VALUE."
+    },
+    {
+      "lesson": "Lesson 2026-05-13 LaLiga-Saisonende-Tor-Flaute-These WIDERLEGT: MD36 (12.05.) 3/3 Ueber 2.5 getroffen",
+      "wirkung": "2x Ueber 2.5 als SAFE-Einzel-Tipps trotz LaLiga -8.5% Liga-ROI. Saisonende-Hoehlen-These zurueckgenommen."
+    },
+    {
+      "lesson": "Lesson 2026-05-14 Coinflip-Saisonende-LaLiga-Defensiv-Cluster bestaetigt: Espanyol-Bilbao + Getafe-Mallorca beide 2:0/2:0 = Unter 2.5 + BTTS Nein",
+      "wirkung": "Val-Ray (Coinflip-Mid-Table-ohne-Druck-Profil) als Unter-2.5 SAFE + BTTS-Nein WACKEL - Hedge-Cluster."
+    },
+    {
+      "lesson": "Lesson 2026-05-14 Saison-Verletzungs-Check pre-match (Yamal-Lehre)",
+      "wirkung": "Mbappe/Guler/Valverde-Ausfaelle pre-match dokumentiert, Bellingham Q vermerkt - in saison_kontext.recovery_heim + tipps-Begruendungen."
+    },
+    {
+      "lesson": "Lesson 2026-04-26 Quoten-Recherche-Pflicht: Quoten via Aggregator vor Tipp-Generierung verifizieren",
+      "wirkung": "Alle Quoten direkt aus Recherche-File (sportsgambler/oddschecker/BetMGM) uebernommen - keine geschaetzten Werte."
+    },
+    {
+      "lesson": "Lesson 10.05.+13.05. Aufstellungs-Verifikation 60-90 Min vor Anstoss PFLICHT bei Spieler-Tor-Tipps",
+      "wirkung": "Hinweis in Begruendung von Vinicius/Oyarzabal/Stuani/Duro/Gonzalo - bei Bank-Start skippen."
+    },
+    {
+      "lesson": "Kasse-Stufen-Modell: Kasse 550€ = Stufe 1 Aufbau, 1-2% pro Einzel-SAFE/VALUE, 0.5% Wackel, 0.1% Moonshot",
+      "wirkung": "Stake-Berechnung jedes Tipps in € ausgewiesen. Total-Disziplin Einzel: ~57€ (10.4% Kasse) + Kombi-Total ~17€ (3.2%) - User selektiv waehlen."
+    }
+  ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-05-14T17:05:00+02:00",
+    "drops": [],
+    "downgrades": [
+      {
+        "tipp_id": "rma-ovi-5",
+        "alt": "value",
+        "neu": "safe (Einzel-Einsatz 0%)",
+        "grund": "HR22 Star-OUT-Implosions-Risiko: Mbappe+Guler+Valverde OUT - Real Madrid Sieg @ 1.22 darf NICHT als Einzel-SAFE/VALUE-Tipp gespielt werden. Nur als Kombi-Anker erlaubt. empfohlener_einsatz_prozent=0 erzwingt das."
+      },
+      {
+        "tipp_id": "rma-ovi-4",
+        "alt": "value (bei Position OM)",
+        "neu": "moonshot",
+        "grund": "Brahim Diaz Position OM/LF - Verifikator-Regel: OM theoretisch max VALUE. Quote 8.00 ist Moonshot-Range; Lotterie-Tipp ohne SAFE/VALUE-Beanspruchung - Regel nicht verletzt."
+      }
+    ],
+    "warns": [
+      {
+        "art": "layer_3_unvermeidlich",
+        "spiel_id": "ALL",
+        "details": "Bei 3 Spielen + 4 Kombis koennen nicht alle Spiele in nur 1 Kombi sein. Layer-3-Markt-Entkoppelung angewandt: jedes Spiel hat in jeder Kombi anderen Markt (Sieg-Outcome / Tor-Total / Spielertor / Spielertor-Lotterie). Layer-2 strikt: kein Sieg-Outcome doppelt."
+      },
+      {
+        "art": "hr2_form_krise_uebersteuert",
+        "spiel_id": "2026-05-14-gir-soc",
+        "details": "Girona 5 Spiele winless = Form-Krise (HR2-Trigger). Aber Motivations-Asymmetrie (Klassenerhalts-Heim-Pflicht vs Pokal-Sieger-Soc ohne Druck) ueberschreibt - Sieg Girona @ 1.91 bleibt VALUE statt downgrade auf WACKEL."
+      },
+      {
+        "art": "liga_roi_negativ_30d",
+        "spiel_id": "ALL",
+        "details": "LaLiga -8.5% ROI in den letzten 30 Tagen (n=34). Alle 3 heutigen Spiele sind LaLiga. Goldgrube-Maerkte (Ueber 2.5 / DC 1X / Torschuetzen Jederzeit) priorisiert, um Liga-Drag zu kompensieren. Stake-Disziplin Stufe 1 konservativ."
+      },
+      {
+        "art": "spielertor_doppel_pro_spiel",
+        "spiel_id": "2026-05-14-val-ray,gir-soc,rma-ovi",
+        "details": "Pro Spiel je 2 Spielertor-Tipps in unterschiedlichen Kombis (Risiko + Moonshot). Markt-Familie 'Torschuetze' doppelt belegt pro Spiel - bei 3-Spiele-Tag unvermeidlich. Tor-Beine sind unterschiedliche Spieler, kein direkter Markt-Konflikt."
+      }
+    ],
+    "spieler_squad_check": [
+      {
+        "spieler": "Hugo Duro",
+        "spiel_id": "2026-05-14-val-ray",
+        "position": "ST",
+        "im_squad": true,
+        "verifiziert": "OK"
+      },
+      {
+        "spieler": "Sergio Camello",
+        "spiel_id": "2026-05-14-val-ray",
+        "position": "ST",
+        "im_squad": true,
+        "verifiziert": "OK"
+      },
+      {
+        "spieler": "Mikel Oyarzabal",
+        "spiel_id": "2026-05-14-gir-soc",
+        "position": "ST/LF",
+        "im_squad": true,
+        "verifiziert": "OK"
+      },
+      {
+        "spieler": "Cristhian Stuani",
+        "spiel_id": "2026-05-14-gir-soc",
+        "position": "ST",
+        "im_squad": true,
+        "verifiziert": "OK"
+      },
+      {
+        "spieler": "Vinicius Junior",
+        "spiel_id": "2026-05-14-rma-ovi",
+        "position": "LF/ST",
+        "im_squad": true,
+        "verifiziert": "OK"
+      },
+      {
+        "spieler": "Gonzalo Garcia",
+        "spiel_id": "2026-05-14-rma-ovi",
+        "position": "ST",
+        "im_squad": true,
+        "verifiziert": "OK"
+      },
+      {
+        "spieler": "Brahim Diaz",
+        "spiel_id": "2026-05-14-rma-ovi",
+        "position": "OM/LF",
+        "im_squad": true,
+        "verifiziert": "Position OM/LF - Verifikator-max-VALUE-Regel, hier Moonshot-Kategorie genutzt = OK"
+      }
+    ],
+    "saison_kontext_quellen_check": [
+      {
+        "spiel_id": "2026-05-14-val-ray",
+        "verband_url_pflicht": true,
+        "grund": "Conference-Final-Erwaehnung",
+        "verband_url_vorhanden": "uefa.com/uefaconferenceleague + wikipedia",
+        "status": "OK"
+      },
+      {
+        "spiel_id": "2026-05-14-gir-soc",
+        "verband_url_pflicht": true,
+        "grund": "EL-League-Phase + Copa-del-Rey-Erwaehnung",
+        "verband_url_vorhanden": "uefa.com/uefaeuropaleague + wikipedia",
+        "status": "OK"
+      },
+      {
+        "spiel_id": "2026-05-14-rma-ovi",
+        "verband_url_pflicht": true,
+        "grund": "CL-Viertelfinale-Erwaehnung",
+        "verband_url_vorhanden": "wikipedia CL + realmadrid.com",
+        "status": "OK"
+      }
+    ],
+    "layer_2_check": {
+      "val-ray": {
+        "sieg_outcome": "DC 1X (Safe-Kombi)",
+        "anzahl": 1,
+        "status": "OK"
+      },
+      "gir-soc": {
+        "sieg_outcome": "Sieg Girona (Safe-Kombi)",
+        "anzahl": 1,
+        "status": "OK"
+      },
+      "rma-ovi": {
+        "sieg_outcome": "Sieg Madrid (Safe-Kombi)",
+        "anzahl": 1,
+        "status": "OK"
+      }
+    },
+    "kombi_quoten_recheck": [
+      {
+        "name": "Safe",
+        "rechnung": "1.22 * 1.91 * 1.30",
+        "ergebnis": 3.03,
+        "range": "3-5x",
+        "status": "OK"
+      },
+      {
+        "name": "Balance",
+        "rechnung": "1.41 * 2.70 * 1.63",
+        "ergebnis": 6.21,
+        "range": "6-10x",
+        "status": "OK"
+      },
+      {
+        "name": "Risiko",
+        "rechnung": "1.57 * 5.80 * 2.25",
+        "ergebnis": 20.49,
+        "range": "15-30x",
+        "status": "OK"
+      },
+      {
+        "name": "Moonshot",
+        "rechnung": "8.00 * 2.65 * 8.00",
+        "ergebnis": 169.6,
+        "range": "100x+",
+        "status": "OK"
+      }
+    ],
+    "lessons_generiert": [],
+    "kontext_check_status_summary": "Alle 3 Spiele OK - kein FAIL, kein WARN_QUELLE. Layer-1/2 strikt erfuellt, Layer-3 bei 3-Spiele-Tag unvermeidbar -> Markt-entkoppelt umgesetzt."
+  },
+  "footer": "18+ · bet365 DE · Hobby-Wetten | Sucht-Hilfe BZgA: 0800 1372700 | Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "einzeltipps_ergebnis": [
+    {
+      "spiel_id": "2026-05-14-rma-ovi",
+      "spiel": "Real Madrid - Real Oviedo",
+      "markt": "Ueber 2.5 Tore",
+      "kategorie": "safe",
+      "quote": 1.41,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung_kurz": "Goldgrube-Markt (+62.8% ROI). Madrid Heim-Offensive vs Bottom-Defense + HR22-Hedge wegen Mbappe/Guler/Valverde-Ausfaellen. Lesson 13.05.: LaLiga MD36 3/3 Ueber 2.5.",
+      "rang": 1,
+      "status": "verloren",
+      "kommentar": "Nur 2 Tore (Endstand 2:0)",
+      "netto_euro": -8.25,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "rma-ovi-1"
+    },
+    {
+      "spiel_id": "2026-05-14-gir-soc",
+      "spiel": "Girona - Real Sociedad",
+      "markt": "Ueber 2.5 Tore",
+      "kategorie": "safe",
+      "quote": 1.55,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung_kurz": "Goldgrube-Markt (+62.8% ROI). Beidseitiger Tor-Druck + LaLiga-MD36-Pattern. Klassenerhalts-Druck Girona + Oyarzabal-Penalty-Option Soc.",
+      "rang": 2,
+      "status": "verloren",
+      "kommentar": "Nur 2 Tore (Endstand 1:1)",
+      "netto_euro": -8.25,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "gir-soc-1"
+    },
+    {
+      "spiel_id": "2026-05-14-val-ray",
+      "spiel": "Valencia - Rayo Vallecano",
+      "markt": "Unter 2.5 Tore",
+      "kategorie": "safe",
+      "quote": 1.63,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung_kurz": "6/6 H2H Unter 2.5 + beide ohne Druck + Rayo-Final-Vorbereitung. Markt-Stat 62.5% / +8.1% ROI.",
+      "rang": 3,
+      "status": "gewonnen",
+      "kommentar": "2 Tore (Endstand 1:1) - Unter 2.5 erfuellt. 7/7 H2H jetzt.",
+      "netto_euro": 5.2,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "val-ray-1"
+    },
+    {
+      "spiel_id": "2026-05-14-gir-soc",
+      "spiel": "Girona - Real Sociedad",
+      "markt": "Beide Teams treffen JA",
+      "kategorie": "safe",
+      "quote": 1.57,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "begruendung_kurz": "Beide Krisen-Teams mit Tor-Volumen: Girona-Heim-Crowd + Oyarzabal Stamm-9er Soc. Korreliert mit Ueber 2.5 - eigenstaendiger Markt.",
+      "rang": 4,
+      "status": "gewonnen",
+      "kommentar": "Beide trafen: Jon Martin 28' + Stuani 66'.",
+      "netto_euro": 3.14,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "gir-soc-2"
+    },
+    {
+      "spiel_id": "2026-05-14-val-ray",
+      "spiel": "Valencia - Rayo Vallecano",
+      "markt": "Valencia oder Unentschieden (DC 1X)",
+      "kategorie": "safe",
+      "quote": 1.3,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung_kurz": "Goldgrube-Markt DC 1X (82.4% Hit / +4.9% ROI). Heim-Edge + Rayo-Conference-Final-Rotations-Tendenz.",
+      "rang": 5,
+      "status": "gewonnen",
+      "kommentar": "Endstand 1:1 = Unentschieden zaehlt fuer 1X.",
+      "netto_euro": 2.48,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "spiel_id": "2026-05-14-gir-soc",
+      "spiel": "Girona - Real Sociedad",
+      "markt": "Sieg Girona (1X2)",
+      "kategorie": "value",
+      "quote": 1.91,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung_kurz": "Bayern-Mainz-Pattern: Klassenerhalts-Heim-Pflicht vs Pokal-Sieger-ohne-Druck. Motivations-Edge schaerfer als 1.91 suggeriert. Sieg-1X2-Stat 60.5% / +10.1% ROI.",
+      "rang": 6,
+      "status": "verloren",
+      "kommentar": "Endstand 1:1 - Klassenerhalt-Punkt, kein Sieg.",
+      "netto_euro": -8.25,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "gir-soc-3"
+    },
+    {
+      "spiel_id": "2026-05-14-rma-ovi",
+      "spiel": "Real Madrid - Real Oviedo",
+      "markt": "Vinicius Junior Torschuetze Jederzeit",
+      "kategorie": "value",
+      "quote": 2.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung_kurz": "HR24 erfuellt: 4 Tore in letzten 5 Spielen + Mbappe OUT + Gonzalo-Backup-Einwechslungs-Boost. Goldgrube-Markt. Aufstellungs-Verifikation PFLICHT.",
+      "rang": 7,
+      "status": "verloren",
+      "kommentar": "Vinicius hatte gespielt aber nicht getroffen - Madrid traf via Gonzalo Garcia (44') + Bellingham (80'). HR24 versagte.",
+      "netto_euro": -8.25,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "rma-ovi-2"
+    },
+    {
+      "spiel_id": "2026-05-14-gir-soc",
+      "spiel": "Girona - Real Sociedad",
+      "markt": "Mikel Oyarzabal Torschuetze Jederzeit",
+      "kategorie": "wackel",
+      "quote": 2.7,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 2.75,
+      "begruendung_kurz": "HR24 (b+c): Stamm-9er nach Karrikaburu+Oskarsson-Ausfall + Penalty-Option + Girona-IV-Schwaeche. Goldgrube-Markt. Aufstellungs-Verifikation PFLICHT.",
+      "rang": 8,
+      "status": "verloren",
+      "kommentar": "Oyarzabal spielte durch, traf nicht. Kein Einwechslungs-Boost moeglich.",
+      "netto_euro": -2.75,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "gir-soc-4"
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": null,
+      "status": "verloren",
+      "gesamtquote": 3.03,
+      "beine_ergebnis": [
+        {
+          "spiel_id": "2026-05-14-rma-ovi",
+          "markt": "Real Madrid Sieg (1X2)",
+          "status": "gewonnen",
+          "quote": 1.22
+        },
+        {
+          "spiel_id": "2026-05-14-gir-soc",
+          "markt": "Sieg Girona (1X2)",
+          "status": "verloren",
+          "quote": 1.91
+        },
+        {
+          "spiel_id": "2026-05-14-val-ray",
+          "markt": "Valencia oder Unentschieden (DC 1X)",
+          "status": "unbekannt"
+        }
+      ],
+      "einsatz_euro": 11.0,
+      "netto_euro": -11.0,
+      "name": "Safe-Kombi (~3.0x)"
+    },
+    {
+      "kombi_id": null,
+      "status": "verloren",
+      "gesamtquote": 6.21,
+      "beine_ergebnis": [
+        {
+          "spiel_id": "2026-05-14-rma-ovi",
+          "markt": "Ueber 2.5 Tore",
+          "status": "verloren",
+          "quote": 1.41
+        },
+        {
+          "spiel_id": "2026-05-14-gir-soc",
+          "markt": "Mikel Oyarzabal Torschuetze Jederzeit",
+          "status": "verloren",
+          "quote": 2.7
+        },
+        {
+          "spiel_id": "2026-05-14-val-ray",
+          "markt": "Unter 2.5 Tore",
+          "status": "gewonnen",
+          "quote": 1.63
+        }
+      ],
+      "einsatz_euro": 4.4,
+      "netto_euro": -4.4,
+      "name": "Balance-Kombi (~6.2x)"
+    },
+    {
+      "kombi_id": null,
+      "status": "verloren",
+      "gesamtquote": 20.49,
+      "beine_ergebnis": [
+        {
+          "spiel_id": "2026-05-14-gir-soc",
+          "markt": "Beide Teams treffen JA",
+          "status": "gewonnen",
+          "quote": 1.57
+        },
+        {
+          "spiel_id": "2026-05-14-val-ray",
+          "markt": "Hugo Duro Torschuetze Jederzeit",
+          "status": "verloren",
+          "quote": 5.8
+        },
+        {
+          "spiel_id": "2026-05-14-rma-ovi",
+          "markt": "Vinicius Junior Torschuetze Jederzeit",
+          "status": "verloren",
+          "quote": 2.25
+        }
+      ],
+      "einsatz_euro": 1.4,
+      "netto_euro": -1.4,
+      "name": "Risiko-Kombi (~20.5x)"
+    },
+    {
+      "kombi_id": null,
+      "status": "verloren",
+      "gesamtquote": 169.6,
+      "beine_ergebnis": [
+        {
+          "spiel_id": "2026-05-14-val-ray",
+          "markt": "Sergio Camello Torschuetze Jederzeit",
+          "status": "verloren",
+          "quote": 8.0
+        },
+        {
+          "spiel_id": "2026-05-14-gir-soc",
+          "markt": "Cristhian Stuani Torschuetze Jederzeit",
+          "status": "gewonnen",
+          "quote": 2.65
+        },
+        {
+          "spiel_id": "2026-05-14-rma-ovi",
+          "markt": "Brahim Diaz Torschuetze Jederzeit",
+          "status": "verloren",
+          "quote": 8.0
+        }
+      ],
+      "einsatz_euro": 0.55,
+      "netto_euro": -0.55,
+      "name": "Moonshot-Kombi (~169x)"
+    }
+  ],
+  "ausgewertet_am": "2026-05-15T06:30:00+00:00",
+  "einzeltipps_bilanz": {
+    "anzahl_tipps": 8,
+    "gewonnen": 3,
+    "verloren": 5,
+    "total_einsatz_euro": 57.75,
+    "total_netto_euro": -24.93,
+    "roi_prozent": -43.2
+  },
+  "kombis_bilanz": {
+    "anzahl_kombis": 4,
+    "gewonnen": 0,
+    "verloren": 4,
+    "total_einsatz_euro": 17.35,
+    "total_netto_euro": -17.35,
+    "roi_prozent": -100.0
+  },
+  "tagesbilanz": {
+    "kasse_stand_vor_tag": 550.0,
+    "total_einsatz_euro": 75.1,
+    "total_netto_euro": -42.28,
+    "kasse_stand_nach_tag": 507.72,
+    "roi_tag_prozent": -56.3
+  },
+  "volle_analyse_geschrieben": true
+}
