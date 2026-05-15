@@ -1,0 +1,267 @@
+{
+  "datum": "2026-05-15",
+  "erstellt_am": "2026-05-15T16:22:54+00:00",
+  "modus": "tag",
+  "hinweis": "Recherche-Daten Freitag 15.05.2026 (Mo-Fr Variante - Pre-Tipps-Datenbasis fuer Tipps-Slot 13:30 Berlin). 3 Spiele heute: (1) Premier League Matchday 37 Aston Villa vs Liverpool 21:00 Berlin Villa Park - top-4-Showdown auf 59 Punkten gleichauf, Liverpool ist 4. dank GD, Villa 5. - Sieger sichert Champions-League-Quali, Verlierer EL-Risiko. KRITISCHE PARALLEL-FLAGS: Aston Villa spielt Mittwoch 20.05.2026 UEFA Europa League FINAL gegen Freiburg in Istanbul (Besiktas Park, 21:00 CET) - das ist nur 5 Tage nach diesem Spiel. Unai Emery muss zwischen Friday-Night-Top-4-Quali (PL) und EL-Final-Vorbereitung balancieren. Rotations-Risiko REAL bei Stammspielern (McGinn, Watkins, Konsa, Cash, Martinez schon-gespielt-rotation moeglich). Liverpool seit Champions League QF Ausscheiden 14.04. gegen PSG 0:4 Aggregat (0:2 H+A) keine UEFA-Belastung - kann voll fokussieren, aber Slot unter Drucking wegen schwacher Form (1:1 Chelsea, von Fans ausgepfiffen). (2) NBA Conference Semifinals Game 6 Cleveland @ Detroit-pleite reversed -- Cavaliers (3-2 fuehrend, 4-Seed) HOST Pistons (top-Seed 1) at Rocket Mortgage FieldHouse 19:00 ET = 01:00 Berlin (16.05.). Cleveland im Heim-Playoff 6-0 ungeschlagen. Mitchell + Mobley + Harden + Allen Core-Four; Pistons mit Cunningham als one-man-show + 3 Q-Verletzte (Robinson back / LeVert heel / Huerter adductor). Cavs koennen ECF mit Sieg klar machen. (3) NBA Conference Semifinals Game 6 San Antonio @ Minnesota - Spurs fuehren 3-2, Wolves brauchen Heimsieg fuer G7. 21:30 ET = 03:30 Berlin (16.05.). Wembanyama bei 27/17/3-Blocks G5, Edwards mit Knie-Bandage (spielt aber), Fox mit Knoechel-Issue (spielt aber). Wolves haben 2024 von 2-3-Deficit gegen Denver gedreht, Spurs zerlegen aber mit 24.7-Pkt-Avg-Differenz in ihren Siegen. KASSE-Stand 04.05.2026: 550 EUR -> Stufe 1 (Aufbau-Phase) aktiv (Kasse < 1000 EUR). 2:0-Insurance-Regel gilt fuer PL: NEIN (nur BL + CL). Keine Tipp-Bewertung - nur Datenbasis. bet365-Quoten als Aggregator-Naeherung von FanDuel/Oddschecker mit US-Format-Konversion; bei Wettzeit live pruefen. NIE Spielernamen erfunden - Squad-Listen ausschliesslich aus Quellen, die explizit erwaehnt werden.",
+  "spiele": [
+    {
+      "id": "2026-05-15-avl-liv",
+      "liga": "Premier League",
+      "matchday": 37,
+      "heim": "Aston Villa",
+      "gast": "Liverpool FC",
+      "anstoss": "2026-05-15T21:00:00+02:00",
+      "stadion": "Villa Park, Birmingham",
+      "schiedsrichter": "Chris Kavanagh",
+      "squad_heim": [
+        {"name": "Emiliano Martinez", "nummer": 1, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.sportsmole.co.uk/football/liverpool/top-four-race/team-news/aston-villa-vs-liverpool-injury-suspension-list-predicted-xis_597458.html"},
+        {"name": "Matty Cash", "nummer": null, "position": "RV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsmole.co.uk/football/liverpool/top-four-race/team-news/aston-villa-vs-liverpool-injury-suspension-list-predicted-xis_597458.html"},
+        {"name": "Ezri Konsa", "nummer": null, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsmole.co.uk/football/liverpool/top-four-race/team-news/aston-villa-vs-liverpool-injury-suspension-list-predicted-xis_597458.html"},
+        {"name": "Tyrone Mings", "nummer": null, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsmole.co.uk/football/liverpool/top-four-race/team-news/aston-villa-vs-liverpool-injury-suspension-list-predicted-xis_597458.html", "hinweis": "Sportsmole nennt Mings im Predicted-XI, Sportsgambler hingegen Pau Torres - Aufstellung wackelt zwischen IV-Paar Mings/Torres/Lindelof."},
+        {"name": "Lucas Digne", "nummer": null, "position": "LV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsmole.co.uk/football/liverpool/top-four-race/team-news/aston-villa-vs-liverpool-injury-suspension-list-predicted-xis_597458.html"},
+        {"name": "Youri Tielemans", "nummer": null, "position": "DM/ZM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsmole.co.uk/football/liverpool/top-four-race/team-news/aston-villa-vs-liverpool-injury-suspension-list-predicted-xis_597458.html"},
+        {"name": "John McGinn", "nummer": null, "position": "ZM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.espn.com/soccer/story/_/id/48756342/aston-villa-vs-liverpool-premier-league-tv-channel-kick-live-stream-referee-injury-team-news", "hinweis": "Schluessel-Mittelfeldspieler. Villa gewann nur 3 von 10 Spielen ohne McGinn waehrend seiner Verletzung frueher in der Saison (ESPN). Quasi unverzichtbar - vermutlich KEINE Rotation trotz EL-Final."},
+        {"name": "Morgan Rogers", "nummer": null, "position": "OM/LM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsmole.co.uk/football/liverpool/top-four-race/team-news/aston-villa-vs-liverpool-injury-suspension-list-predicted-xis_597458.html"},
+        {"name": "Ross Barkley", "nummer": null, "position": "OM/ZM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/aston-villa-vs-liverpool-prediction-lineups-odds-2026-05-15/"},
+        {"name": "Ollie Watkins", "nummer": 11, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsmole.co.uk/football/liverpool/top-four-race/team-news/aston-villa-vs-liverpool-injury-suspension-list-predicted-xis_597458.html", "hinweis": "Watkins traf 6x in 11 PL-Spielen gegen Liverpool inkl. in Liverpools letzten 3 Visiten an Villa Park (Racing Post). Anytime-Scorer-Quote 7/4 = 2.75 = klar Top-Pick. Top-Anytime-Goalscorer +160 = 2.60."}
+      ],
+      "squad_gast": [
+        {"name": "Giorgi Mamardashvili", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.sportsmole.co.uk/football/liverpool/top-four-race/team-news/aston-villa-vs-liverpool-injury-suspension-list-predicted-xis_597458.html", "hinweis": "Startet wegen Alisson-Fitness-Zweifel (Doubt). Alisson noch nicht abgeschrieben aber unsicher."},
+        {"name": "Curtis Jones", "nummer": null, "position": "RV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsmole.co.uk/football/liverpool/top-four-race/team-news/aston-villa-vs-liverpool-injury-suspension-list-predicted-xis_597458.html", "hinweis": "Notloesung als RV wegen Bradley-Verletzung (Knie, OUT) - Curtis Jones eigentlich ZM, wurde auf RV verlegt."},
+        {"name": "Ibrahima Konate", "nummer": null, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsmole.co.uk/football/liverpool/top-four-race/team-news/aston-villa-vs-liverpool-injury-suspension-list-predicted-xis_597458.html", "hinweis": "Doubtful (Oberschenkel) - Einsatz nicht 100% gesichert."},
+        {"name": "Virgil van Dijk", "nummer": 4, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsmole.co.uk/football/liverpool/top-four-race/team-news/aston-villa-vs-liverpool-injury-suspension-list-predicted-xis_597458.html"},
+        {"name": "Milos Kerkez", "nummer": null, "position": "LV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsmole.co.uk/football/liverpool/top-four-race/team-news/aston-villa-vs-liverpool-injury-suspension-list-predicted-xis_597458.html"},
+        {"name": "Ryan Gravenberch", "nummer": null, "position": "DM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsmole.co.uk/football/liverpool/top-four-race/team-news/aston-villa-vs-liverpool-injury-suspension-list-predicted-xis_597458.html"},
+        {"name": "Alexis Mac Allister", "nummer": null, "position": "ZM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsmole.co.uk/football/liverpool/top-four-race/team-news/aston-villa-vs-liverpool-injury-suspension-list-predicted-xis_597458.html"},
+        {"name": "Florian Wirtz", "nummer": null, "position": "OM/RM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsmole.co.uk/football/liverpool/top-four-race/team-news/aston-villa-vs-liverpool-injury-suspension-list-predicted-xis_597458.html", "hinweis": "Doubtful (Krankheit/illness) - Einsatz unsicher; bei Ausfall vermutlich Frimpong oder Ngumoha auf der rechten Seite."},
+        {"name": "Dominik Szoboszlai", "nummer": null, "position": "ZM/OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsmole.co.uk/football/liverpool/top-four-race/team-news/aston-villa-vs-liverpool-injury-suspension-list-predicted-xis_597458.html"},
+        {"name": "Cody Gakpo", "nummer": null, "position": "LM/ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsmole.co.uk/football/liverpool/top-four-race/team-news/aston-villa-vs-liverpool-injury-suspension-list-predicted-xis_597458.html", "hinweis": "Anytime-Scorer-Quote 23/10 = 3.30 - solider Sekundaer-Pick."},
+        {"name": "Alexander Isak", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsmole.co.uk/football/liverpool/top-four-race/team-news/aston-villa-vs-liverpool-injury-suspension-list-predicted-xis_597458.html", "hinweis": "Nominal-9er bei Liverpool nach Ekitike-Achilles-Ausfall. Anytime-Scorer-Quote 7/4 = 2.75 - Top-Pick neben Watkins."},
+        {"name": "Mohamed Salah", "nummer": 11, "position": "RF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.espn.com/soccer/story/_/id/48756342/aston-villa-vs-liverpool-premier-league-tv-channel-kick-live-stream-referee-injury-team-news", "hinweis": "Doubtful (Muskelverletzung) - Einsatz wackelt. Anytime-Scorer-Quote 7/4 = 2.75 bei bet365 falls fit (mehrere Quellen). Bei Ausfall kein Tipp auf Salah moeglich."},
+        {"name": "Jeremie Frimpong", "nummer": null, "position": "RM/RV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/aston-villa-vs-liverpool-prediction-lineups-odds-2026-05-15/"}
+      ],
+      "injuries_heim": [
+        "Boubacar Kamara (Knie, OUT) - Saison-Ende moeglich",
+        "Amadou Onana (Wade/Knie, OUT) - mehrere Quellen geben unterschiedliche Diagnosen",
+        "Alysson Edward / Alysson (Leiste/Adduktor, OUT)",
+        "Evann Guessand (Knie, OUT - laut Sportsgambler, andere Quellen widerspruechlich)"
+      ],
+      "injuries_gast": [
+        "Hugo Ekitike (Achillessehne, OUT - long-term, Saison-Ende)",
+        "Conor Bradley (Knie, OUT)",
+        "Wataru Endo (Fuss/Knoechel, OUT)",
+        "Giovanni Leoni (Knie, OUT)",
+        "Stefan Bajcetic (Oberschenkel, OUT - laut ESPN)",
+        "Ibrahima Konate (Oberschenkel, Q/Doubtful)",
+        "Alisson Becker (Muskel/Fitness, Q/Doubtful)",
+        "Mohamed Salah (Muskel, Q/Doubtful) - Top-Scorer-Ausfall waere riesig",
+        "Florian Wirtz (Krankheit, Q/Doubtful)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "UEFA Europa League FINAL am 20.05.2026 (Mittwoch, 21:00 CET) gegen SC Freiburg in Istanbul (Besiktas Park) - nur 5 Tage nach diesem Spiel. Villa erstes UEFA-Finale seit Europapokal-der-Landesmeister-Sieg 1982. Emery hat 3x Europa League gewonnen (Sevilla 14/15/16) + 1x mit Villarreal 20/21. EL-Final-Fokus REAL und Rotations-Risiko bei Stammspielern gegen Liverpool moeglich, aber McGinn-Ausfall wuerde Top-4 zerstoeren -> erwartete Mischung aus Stamm-Mittelfeld + frische Aussenposten.",
+        "gast": "keine - Champions League 2025-26 ausgeschieden im Viertelfinale 14.04.2026 gegen Paris SG (0:2 H + 0:2 A = 0:4 Aggregat, Dembele Tore 72. und 90+1). Keine UEFA-Belastung mehr seit ca. 1 Monat. Voll-Fokus PL Top-4-Quali.",
+        "quellen": [
+          "https://www.uefa.com/uefaeuropaleague/match/2047743--freiburg-vs-aston-villa/final/",
+          "https://www.avfc.co.uk/news/2026/may/07/news-aston-villa-qualify-for-europa-league-final/",
+          "https://en.wikipedia.org/wiki/2026_UEFA_Europa_League_final",
+          "https://www.espn.com/soccer/match/_/gameId/401862889/paris-saint-germain-liverpool",
+          "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_knockout_phase"
+        ]
+      },
+      "saisonziel_heim": "Platz 5 mit 59 Pkt nach 36 Spielen - level mit Liverpool (4. dank besserer Tordifferenz). Sieg sichert PL-Top-4 / CL-Quali, Niederlage waere CL-Quali-Risiko (Schwierig je nach Konkurrenz). PLUS: Europa-League-Final-Mittwoch 20.05. - bei EL-Sieg ohnehin EL-2026/27-Platz qualifiziert, dann ist PL-5. weniger schmerzhaft. Double-Druck.",
+      "saisonziel_gast": "Platz 4 mit 59 Pkt nach 36 Spielen - level mit Villa (vorne dank besserer GD). Sieg = 3 Punkte vor Villa = praktisch CL-Quali gesichert. Niederlage = Villa zieht vorbei und Liverpool muss letztes Spiel gewinnen + auf Konkurrenz hoffen. Slot unter Drucking nach Form-Tief (1:1 Chelsea, Buh-Rufe von Fans). Saison enttaeuschend - kein UEFA-Erfolg, PL-Titel verloren - Top-4 ist Minimal-Ziel.",
+      "tabellenstand": {"heim_platz": 5, "heim_pkt": 59, "gast_platz": 4, "gast_pkt": 59},
+      "form_heim_letzte_5": "Winless-Streak 3 PL-Spiele (laut SI) + EL-SF-Sieg gegen einen Bundesliga-Verein. Form leicht angeschlagen, aber EL-Final-Quali zeigt Top-Level moeglich.",
+      "form_gast_letzte_5": "U vs Chelsea 1:1 (Fans buhten), N gegen PSG 0:2 (CL-Aus 14.04.), allgemein unbestaendig - 'underwhelming performances' laut Sportsmole/ESPN. Slot unter Drucking.",
+      "recovery_heim": "Letztes Spiel vermutlich am Sonntag 10.05. PL + EL-SF Donnerstag 07.05. (1:1 vs ein Bundesliga-Verein laut Wikipedia, Aggregat-Sieg via Auswaertstor/Penalty) - 5-8 Tage seit letztem Spiel, Vorbereitung auf EL-Final 20.05. priorisiert.",
+      "recovery_gast": "Letztes Spiel 09./10.05. PL (Chelsea 1:1) - 5-6 Tage seit letztem Spiel, frisch. Keine UEFA-Belastung seit 14.04. = 1 Monat ohne Doppelbelastung.",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 2.88,
+          "draw": 3.40,
+          "sieg_gast": 2.32,
+          "ueber_2_5": 1.73,
+          "unter_2_5": 2.08,
+          "btts_ja": 1.56,
+          "btts_nein": 2.30,
+          "dc_1x": 1.55,
+          "dc_x2": 1.36,
+          "dc_12": 1.30,
+          "torschuetzen": {
+            "Ollie Watkins": 2.75,
+            "Alexander Isak": 2.75,
+            "Mohamed Salah": 2.75,
+            "Cody Gakpo": 3.30,
+            "Morgan Rogers": null,
+            "Florian Wirtz": null
+          }
+        },
+        "_quelle": "Sportsgambler.com + Oddschecker + bet365-direkt-Hinweise aus Racing Post (Stand 14.-15.05.2026): Villa +188 -> 2.88, Draw +240 -> 3.40, Liverpool +132 -> 2.32. Over 2.5 -137 -> 1.73, Under 2.5 +108 -> 2.08. BTTS Yes -179 -> 1.56, BTTS No +130 -> 2.30. Anytime-Scorer Watkins +160 / 7-4 = 2.60-2.75 Spanne. Liverpool-Sieg-Quote bet365 explizit 5/4 = 2.25 (Racing Post). Markt eng (Top-4-Spiel mit ungewissem Ausgang) - bet365 live pruefen vor Wett-Abgabe."
+      },
+      "news_kompakt": [
+        "Beide Teams 59 Pkt - Liverpool 4. nur via GD vor Villa - reines Top-4-Endspiel mit CL-Quali als Preis",
+        "Villa EL-Final-Doppelbelastung Mittwoch 20.05. vs Freiburg - Rotations-Risiko aber McGinn ist unverzichtbar (Villa 3 von 10 ohne ihn gewonnen)",
+        "Liverpool ohne Ekitike (long-term Achilles), Salah/Alisson/Wirtz doubtful - Slot unter Form-Drucking nach 1:1 Chelsea und Fan-Buh-Rufen",
+        "Watkins 6 Tore in 11 PL-Spielen gegen Liverpool inkl. in deren letzten 3 Visiten an Villa Park - Heim-Bias real",
+        "2:0-Insurance gilt NICHT (Premier League, nicht BL/CL) - bei Auswertung normaler 90-Min-Endstand",
+        "Schiri Chris Kavanagh - keine extremen Karten-Quoten-Trends in dieser Saison gemeldet"
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/aston-villa-vs-liverpool-prediction-lineups-odds-2026-05-15/",
+        "https://www.sportsmole.co.uk/football/liverpool/top-four-race/team-news/aston-villa-vs-liverpool-injury-suspension-list-predicted-xis_597458.html",
+        "https://www.espn.com/soccer/story/_/id/48756342/aston-villa-vs-liverpool-premier-league-tv-channel-kick-live-stream-referee-injury-team-news",
+        "https://www.si.com/soccer/aston-villa-vs-liverpool-preview-predictions-lineups-5-15-26",
+        "https://www.racingpost.com/sport/football-tips/premier-league/aston-villa-vs-liverpool-predictions-team-news-betting-tips-odds-and-bet-builder-aXQgw6i1shjh/",
+        "https://www.oddschecker.com/football/english/premier-league/aston-villa-v-liverpool/winner",
+        "https://www.uefa.com/uefaeuropaleague/match/2047743--freiburg-vs-aston-villa/final/",
+        "https://www.thisisanfield.com/2026/05/liverpool-fc-team-news-vs-aston-villa/"
+      ]
+    },
+    {
+      "id": "2026-05-15-cle-det",
+      "liga": "NBA Playoffs Conference Semifinals, Game 6",
+      "serie_stand": "Cleveland fuehrt 3-2",
+      "heim": "Cleveland Cavaliers",
+      "gast": "Detroit Pistons",
+      "anstoss": "2026-05-16T01:00:00+02:00",
+      "anstoss_lokal_et": "2026-05-15T19:00:00-04:00",
+      "stadion": "Rocket Mortgage FieldHouse, Cleveland",
+      "broadcast": "Prime Video",
+      "squad_heim": [
+        {"name": "Donovan Mitchell", "nummer": null, "position": "SG", "serie_avg_pts": 30.6, "verifiziert_via": "https://www.cbssports.com/nba/news/donovan-mitchell-cavs-take-nothing-for-granted-at-home-for-game-6-vs-pistons/", "hinweis": "Series-Top-Scorer 30.6 PPG. Stamm-SG. Im G5 21 Pkt."},
+        {"name": "James Harden", "nummer": null, "position": "PG", "serie_avg_pts": null, "verifiziert_via": "https://www.cbssports.com/nba/news/donovan-mitchell-cavs-take-nothing-for-granted-at-home-for-game-6-vs-pistons/", "hinweis": "G5 Playoff-best 30 Pkt + 8 Reb + 6 Ast - clutch in OT-Comeback."},
+        {"name": "Evan Mobley", "nummer": null, "position": "PF", "serie_avg_pts": null, "verifiziert_via": "https://www.cbssports.com/nba/news/donovan-mitchell-cavs-take-nothing-for-granted-at-home-for-game-6-vs-pistons/", "hinweis": "G5 19 Pkt + 8 Reb + 8 Ast - Triple-Double-Naehe."},
+        {"name": "Jarrett Allen", "nummer": null, "position": "C", "serie_avg_pts": null, "verifiziert_via": "https://sports.yahoo.com/articles/cavs-vs-pistons-game-6-003000353.html"},
+        {"name": "Dean Wade", "nummer": null, "position": "SF", "serie_avg_pts": null, "verifiziert_via": "https://sports.yahoo.com/articles/cavs-vs-pistons-game-6-003000353.html", "hinweis": "Stamm-SF im G6-Starting-Lineup laut Yahoo."}
+      ],
+      "squad_gast": [
+        {"name": "Cade Cunningham", "nummer": null, "position": "PG", "serie_avg_pts": null, "verifiziert_via": "https://sports.yahoo.com/articles/cavs-vs-pistons-game-6-003000353.html", "hinweis": "G5 39 Pkt + 9 Ast - one-man-show ohne wirkliche Backup-Scorer. Volumen-Star."},
+        {"name": "Jalen Duren", "nummer": null, "position": "C", "serie_avg_pts": null, "verifiziert_via": "https://sports.yahoo.com/articles/cavs-vs-pistons-game-6-003000353.html"},
+        {"name": "Ausar Thompson", "nummer": null, "position": "SF", "serie_avg_pts": null, "verifiziert_via": "https://sports.yahoo.com/articles/cavs-vs-pistons-game-6-003000353.html"},
+        {"name": "Tobias Harris", "nummer": null, "position": "PF", "serie_avg_pts": null, "verifiziert_via": "https://sports.yahoo.com/articles/cavs-vs-pistons-game-6-003000353.html"},
+        {"name": "Daniss Jenkins", "nummer": null, "position": "SG", "serie_avg_pts": null, "verifiziert_via": "https://sports.yahoo.com/articles/cavs-vs-pistons-game-6-003000353.html", "hinweis": "Startet wegen Verletzungs-Notloesung (Robinson/Huerter/LeVert alle Q)."}
+      ],
+      "injuries_heim": [
+        "Keine gemeldeten Verletzungen (laut Yahoo Sports)"
+      ],
+      "injuries_gast": [
+        "Duncan Robinson (Rueckenschmerzen, Q) - G5 verpasst",
+        "Caris LeVert (rechte Ferse Prellung, Q)",
+        "Kevin Huerter (linker Adduktorenstrain, Q)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - NBA-only, kein Olympia/EuroLeague/G-League",
+        "gast": "keine - NBA-only",
+        "quellen": [
+          "https://www.nba.com/playoffs/2026/east-semifinal-2"
+        ]
+      },
+      "saisonziel_heim": "ECF erreichen - 4-Seed Cavs ueberraschend gegen 1-Seed Pistons fuehrend 3-2, koennen mit Heimsieg G6 die Serie clinchen. Cleveland im Playoff-Heim ungeschlagen 6-0 (Yahoo). Win-And-In ECF.",
+      "saisonziel_gast": "Survive-or-die: 1-Seed Pistons im Elimination-Modus. Bei Sieg G7 in Detroit - aber Heim-Bilanz dort schlechter als erwartet (G5 verloren trotz 9-Pkt-Fuehrung 3 Min vor Ende). Cunningham-One-Man-Show + 3 Q-Verletzte = unguenstig.",
+      "tabellenstand": null,
+      "form_heim_letzte_5": "G1 Win, G2 Win, G3 Loss, G4 Loss, G5 Win (OT, 117-113) - alle 3 Cavs-Wins zaehl-knapp, OT-Comeback G5 stark.",
+      "form_gast_letzte_5": "G1 Loss, G2 Loss, G3 Win, G4 Win, G5 Loss (OT, blew 9-pt lead in 3 Min) - sportliche Tendenz nach G5-Kollaps abwaerts. Cunningham-Last drueckt.",
+      "recovery_heim": "2 Tage seit G5 OT-Win in Detroit (Mittwoch 13.05.) - kurzes Fenster, aber zuhause = Energie-Plus.",
+      "recovery_gast": "2 Tage seit G5 OT-Niederlage - mental schwer nach Lead-Kollaps. Belastungs-Niveau gleich, psychologisch im Nachteil.",
+      "quoten": {
+        "bet365_naeherung": {
+          "moneyline_heim": 1.58,
+          "moneyline_gast": 2.46,
+          "spread_heim_minus3_5": 1.87,
+          "spread_gast_plus3_5": 1.95,
+          "over_209_5": 1.91,
+          "under_209_5": 1.88
+        },
+        "_quelle": "FanDuel + ESPN-Spannen Stand 14.-15.05.2026 (Oddsshark): Cavs ML -174 -> 1.58, Pistons ML +146 -> 2.46. Spread Cavs -3.5 (-115) -> 1.87, Pistons +3.5 (-105) -> 1.95. Total 209.5 (Over -106 -> 1.91, Under -114 -> 1.88). ESPN-Variante zeigt -4.5 statt -3.5 - Markt zwischen -3.5 und -4.5. bet365-Quoten zur Wettzeit live pruefen."
+      },
+      "news_kompakt": [
+        "Cavs ueberraschend 3-2 vorne gegen 1-Seed Pistons, Heim-Playoff-Bilanz 6-0 = Win-And-In ECF",
+        "G5 OT-Win 117-113 nach 9-Pkt-Aufholjagd in den letzten 3 Min Regulation + Harden 30 Pkt Playoff-Career-High",
+        "Pistons mit 3 fragwuerdigen Verletzten (Robinson/Huerter/LeVert) + Cunningham-One-Man-Show (G5: 39/9) - Backup-Scoring duenn",
+        "Markt-Spread schwankt -3.5 bis -4.5 - Total 209.5 deutet auf moderate-Tempo-Game",
+        "Cleveland setzt auf 'core four' Mitchell/Mobley/Harden/Allen + Wade als SF-Glue"
+      ],
+      "quellen_aggregator": [
+        "https://sports.yahoo.com/articles/cavs-vs-pistons-game-6-003000353.html",
+        "https://www.cbssports.com/nba/news/donovan-mitchell-cavs-take-nothing-for-granted-at-home-for-game-6-vs-pistons/",
+        "https://www.nba.com/game/det-vs-cle-0042500206",
+        "https://www.oddsshark.com/nba/pistons-cavaliers-picks-odds-game-6-may-15-2026",
+        "https://www.espn.com/nba/odds/_/gameId/401871338",
+        "https://www.espn.com/nba/story/_/id/48765101/cavaliers-outlast-pistons-ot-score-1st-road-playoff-win"
+      ]
+    },
+    {
+      "id": "2026-05-15-min-sas",
+      "liga": "NBA Playoffs Conference Semifinals, Game 6",
+      "serie_stand": "San Antonio fuehrt 3-2",
+      "heim": "Minnesota Timberwolves",
+      "gast": "San Antonio Spurs",
+      "anstoss": "2026-05-16T03:30:00+02:00",
+      "anstoss_lokal_et": "2026-05-15T21:30:00-04:00",
+      "stadion": "Target Center, Minneapolis",
+      "broadcast": "Prime Video",
+      "squad_heim": [
+        {"name": "Anthony Edwards", "nummer": null, "position": "SG", "serie_avg_pts": 23.6, "verifiziert_via": "https://sports.yahoo.com/articles/spurs-vs-timberwolves-2026-nba-193427010.html", "hinweis": "Series-Top-Scorer Wolves 23.6 PPG. Linkes Knie Issue (gemeldet), spielt aber. G4-Win 36 Pkt + 6 Reb."},
+        {"name": "Julius Randle", "nummer": null, "position": "PF", "serie_avg_pts": null, "verifiziert_via": "https://sports.yahoo.com/articles/spurs-vs-timberwolves-2026-nba-193427010.html", "hinweis": "G1-Win 21 Pkt. Stamm-PF nach KAT-Trade. Sekundaer-Scorer."},
+        {"name": "Jaden McDaniels", "nummer": null, "position": "SF", "serie_avg_pts": null, "verifiziert_via": "https://sports.yahoo.com/articles/spurs-vs-timberwolves-2026-nba-193427010.html", "hinweis": "G1-Win 16 Pkt. Defensive-Anchor + Sekundaer-Scorer."},
+        {"name": "Rudy Gobert", "nummer": null, "position": "C", "serie_avg_pts": null, "verifiziert_via": "https://clutchpoints.com/nba/minnesota-timberwolves/timberwolves-news-skip-bayless-rudy-gobert-benched-victor-wembanyama-game-6", "hinweis": "G5 nur 23 Min Spielzeit - Wolves spielen oft kleiner mit Naz Reid statt Gobert wegen Spacing/Wemby-Matchup."},
+        {"name": "Naz Reid", "nummer": null, "position": "C/PF", "serie_avg_pts": null, "verifiziert_via": "https://clutchpoints.com/nba/minnesota-timberwolves/timberwolves-news-skip-bayless-rudy-gobert-benched-victor-wembanyama-game-6", "hinweis": "Floor-Spacer-Center-Alternative zu Gobert - wird vermutlich Minuten gegen Wemby-Lineups bekommen, eventuell sogar Start (Skip-Bayless-Spekulation)."},
+        {"name": "Mike Conley", "nummer": null, "position": "PG", "serie_avg_pts": null, "verifiziert_via": "https://www.nba.com/playoffs/2026/west-semifinal-2"}
+      ],
+      "squad_gast": [
+        {"name": "Victor Wembanyama", "nummer": null, "position": "C/PF", "serie_avg_pts": 20.0, "serie_avg_reb": 13.2, "verifiziert_via": "https://sports.yahoo.com/articles/spurs-vs-timberwolves-2026-nba-193427010.html", "hinweis": "G5 27 Pkt + 17 Reb + 3 Blocks - dominante Defensive-Praesenz. 15+ Reb in 4 von 5 Spielen wenn gesund."},
+        {"name": "De'Aaron Fox", "nummer": null, "position": "PG", "serie_avg_pts": null, "verifiziert_via": "https://sports.yahoo.com/articles/spurs-vs-timberwolves-2026-nba-193427010.html", "hinweis": "G5 18 Pkt. Rechter Knoechel Issue - spielt aber. Volumen-PG nach Trade aus Sacramento (Feb 2025). Expert-Bet: Fox Over 16.5 Pkt."},
+        {"name": "Keldon Johnson", "nummer": null, "position": "SF", "serie_avg_pts": null, "verifiziert_via": "https://sports.yahoo.com/articles/spurs-vs-timberwolves-2026-nba-193427010.html", "hinweis": "G5 21 Pkt on 8-11 FG - heisser Wing-Scorer als Sekundaer-Option."}
+      ],
+      "injuries_heim": [
+        "Anthony Edwards (linkes Knie, spielt)",
+        "Keine weiteren gemeldeten"
+      ],
+      "injuries_gast": [
+        "De'Aaron Fox (rechter Knoechel, spielt)",
+        "Keine Spurs auf Injury-Report ab Donnerstag 14.05. (laut TWSN/Yahoo)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - NBA-only",
+        "gast": "keine - NBA-only",
+        "quellen": [
+          "https://www.nba.com/playoffs/2026/west-semifinal-2"
+        ]
+      },
+      "saisonziel_heim": "Survive-or-die: 3-Seed Wolves im Elimination-Modus bei 3-2-Deficit. Wolves 2024 von 2-3 gegen Denver gedreht und WCF erreicht - Heimspiel-Edge muss greifen.",
+      "saisonziel_gast": "Series-Close-Out + WCF: 2-Seed Spurs koennen mit Sieg WCF erreichen. Spurs dominieren ihre 3 Siege mit Avg 24.7 Pkt - Blowout-Modus. Game 5 33-Punkte-Niederlage Wolves moeglich.",
+      "tabellenstand": null,
+      "form_heim_letzte_5": "G1 Win, G2 Loss, G3 Loss, G4 Win (36 Pkt Edwards), G5 Loss (blowout, evtl 33+ Pkt) - heisst-kalt-Pattern, Heim-Wolves stark im Target Center.",
+      "form_gast_letzte_5": "G1 Loss, G2 Win (blowout +24), G3 Win (blowout +24), G4 Loss (Wemby G4 Ejection), G5 Win (blowout +24, Wemby Response 27/17/3-Blocks) - 3 Blowout-Wins als Statement.",
+      "recovery_heim": "3 Tage seit G5-Niederlage am 12.05. - Heimspiel-Energie aktiviert, kurzes Trip-Verlustfenster.",
+      "recovery_gast": "3 Tage seit G5-Sieg am 12.05. - Reise nach Minneapolis, kurzes Fenster aber positive Momentum.",
+      "quoten": {
+        "bet365_naeherung": {
+          "moneyline_heim": 2.92,
+          "moneyline_gast": 1.53,
+          "spread_heim_plus4_5": 1.91,
+          "spread_gast_minus4_5": 1.91,
+          "over_218_5": 1.91,
+          "under_218_5": 1.91
+        },
+        "_quelle": "Yahoo Sports Stand 14.-15.05.2026: Spurs ML -160 -> 1.53, Wolves ML +192 -> 2.92 (Sportsgambler-Variante -190/+160 = 1.53/2.60 - Markt eng). Spread Spurs -4.5 (-115) -> 1.91. Total 218.5 (Over -110 / Under -110 = 1.91/1.91). Expert-Bet Fox Over 16.5 Pkt + Wemby Over 13.5 Reb populaer. bet365 live pruefen."
+      },
+      "news_kompakt": [
+        "Spurs 3-2 vorne aber alle 3 Wins waren Blowouts (Avg +24.7) - Spurs koennen Serie clinchen mit 4. Blowout",
+        "Wembanyama G5 27/17/3-Blocks Response auf G4-Ejection - Defensive-Anchor dominant",
+        "Edwards spielt mit Knie-Bandage, Fox mit Knoechel-Bandage - beide laut Injury-Report gesetzt",
+        "Wolves 2024-Comeback von 2-3 gegen Denver als Hoffnungstraeger, Heimspiel im Target Center",
+        "Gobert-Minuten reduziert (G5 23 Min) - Wolves spielen oft 5-out mit Reid wegen Wemby-Matchup"
+      ],
+      "quellen_aggregator": [
+        "https://sports.yahoo.com/articles/spurs-vs-timberwolves-2026-nba-193427010.html",
+        "https://sports.yahoo.com/articles/spurs-vs-timberwolves-prediction-picks-162700683.html",
+        "https://sports.yahoo.com/nba/article/san-antonio-spurs-vs-minnesota-timberwolves-where-to-watch-game-6-tonight-time-channel-and-more-145620112.html",
+        "https://www.nba.com/playoffs/2026/west-semifinal-2",
+        "https://clutchpoints.com/nba/minnesota-timberwolves/timberwolves-news-skip-bayless-rudy-gobert-benched-victor-wembanyama-game-6",
+        "https://www.espn.com/nba/game/_/gameId/401871157/spurs-timberwolves",
+        "https://www.nba.com/news/spurs-timberwolves-2026-playoffs-game-5-takeaways"
+      ]
+    }
+  ]
+}
