@@ -183,7 +183,8 @@ window.__MIESMUSCHEL_TIPPS = {
       "faire_quote": 1.61,
       "empfohlener_einsatz_prozent": 1.5,
       "einsatz_euro": 8.25,
-      "begruendung": "Markt-Goldgrube Ueber 2.5 (+52.3% ROI, n=12) aktiv gesucht. Dimers 62% Ueber-Wahrscheinlichkeit gegen Quote 1.75 = klarer Edge. CL-Quali-Pflicht-Spiel beidseitig. Stake 1.5% = 8,25€."
+      "begruendung": "Markt-Goldgrube Ueber 2.5 (+52.3% ROI, n=12) aktiv gesucht. Dimers 62% Ueber-Wahrscheinlichkeit gegen Quote 1.75 = klarer Edge. CL-Quali-Pflicht-Spiel beidseitig. Stake 1.5% = 8,25€.",
+      "rang": 1
     },
     {
       "id": "et-2",
@@ -195,7 +196,8 @@ window.__MIESMUSCHEL_TIPPS = {
       "faire_quote": 1.54,
       "empfohlener_einsatz_prozent": 1.5,
       "einsatz_euro": 8.25,
-      "begruendung": "Beidseitige CL-Quali-Pflicht-Tore-Erwartung + Liverpool offensiv mit Isak ohne Salah-Distraktion. Dimers 62.8% BTTS-Chance. Stake 1.5% = 8,25€."
+      "begruendung": "Beidseitige CL-Quali-Pflicht-Tore-Erwartung + Liverpool offensiv mit Isak ohne Salah-Distraktion. Dimers 62.8% BTTS-Chance. Stake 1.5% = 8,25€.",
+      "rang": 2
     },
     {
       "id": "et-3",
@@ -207,31 +209,8 @@ window.__MIESMUSCHEL_TIPPS = {
       "faire_quote": 1.81,
       "empfohlener_einsatz_prozent": 0.5,
       "einsatz_euro": 2.75,
-      "begruendung": "Salah pre-match nur 'wenige Minuten' (Slot) -> Isak primaerer 9er. Star-Backup-Pflicht. Markt-Goldgrube Torschuetzen Jederzeit (+19.5% ROI). Stake 0.5% = 2,75€."
-    },
-    {
-      "id": "et-4",
-      "spiel_id": "2026-05-15-cle-det",
-      "kategorie": "wackel",
-      "markt": "Unter 209.5 Pkt (Cavs - Pistons G6)",
-      "quote": 1.91,
-      "edge_prozent": 4,
-      "faire_quote": 1.84,
-      "empfohlener_einsatz_prozent": 0.5,
-      "einsatz_euro": 2.75,
-      "begruendung": "Lesson 02.05. Closeout-Defense-Komprimierung: Total < 215 ist im Sweep-Druck UNDER-Goldgrube. Niedrigste Linie der Serie. Stake 0.5% = 2,75€."
-    },
-    {
-      "id": "et-5",
-      "spiel_id": "2026-05-15-min-sas",
-      "kategorie": "wackel",
-      "markt": "Wolves +5.5 (Spurs @ Wolves G6)",
-      "quote": 1.91,
-      "edge_prozent": 5,
-      "faire_quote": 1.82,
-      "empfohlener_einsatz_prozent": 0.5,
-      "einsatz_euro": 2.75,
-      "begruendung": "Sweep-Abwehr-Heim-Underdog-Edge per Lesson 24.04. - 5.5-Punkte-Hedge schuetzt selbst knappe Niederlage. Edwards expected to play, Wolves-Defense-System intakt. Stake 0.5% = 2,75€."
+      "begruendung": "Salah pre-match nur 'wenige Minuten' (Slot) -> Isak primaerer 9er. Star-Backup-Pflicht. Markt-Goldgrube Torschuetzen Jederzeit (+19.5% ROI). Stake 0.5% = 2,75€.",
+      "rang": 3
     }
   ],
   "kombis": [
@@ -239,7 +218,7 @@ window.__MIESMUSCHEL_TIPPS = {
       "id": "kombi-safe-tor",
       "name": "Safe ~3x (Tor-Total-Cluster)",
       "kategorie": "safe",
-      "gesamtquote": 3.06,
+      "gesamtquote": 1.6,
       "empfohlener_einsatz_prozent": 2.0,
       "einsatz_euro": 11.0,
       "beine": [
@@ -247,20 +226,16 @@ window.__MIESMUSCHEL_TIPPS = {
           "spiel_id": "2026-05-15-avl-liv",
           "markt": "Beide Teams treffen JA",
           "quote": 1.6
-        },
-        {
-          "spiel_id": "2026-05-15-min-sas",
-          "markt": "Ueber 218.5 Pkt (Spiel-Total)",
-          "quote": 1.91
         }
       ],
-      "begruendung": "Layer-2-konformer Tor-Cluster: AVL-LIV BTTS-JA (CL-Quali-Pflicht beidseitig + Isak-Primaer-9er) + MIN-SAS Ueber 218.5 (Spurs-Closeout-Tempo + Wembanyama-Form). Keine Sieg-Outcomes -> safer als Sieg-Kombi. Gesamtquote 1.60*1.91 = 3.06. Stake 2% = 11€."
+      "begruendung": "Layer-2-konformer Tor-Cluster: AVL-LIV BTTS-JA (CL-Quali-Pflicht beidseitig + Isak-Primaer-9er) + MIN-SAS Ueber 218.5 (Spurs-Closeout-Tempo + Wembanyama-Form). Keine Sieg-Outcomes -> safer als Sieg-Kombi. Gesamtquote 1.60*1.91 = 3.06. Stake 2% = 11€.",
+      "rechnung": "1.60 = 1.6"
     },
     {
       "id": "kombi-balance-mix",
       "name": "Balance ~6x (Markt-Mix)",
       "kategorie": "balance",
-      "gesamtquote": 6.38,
+      "gesamtquote": 1.75,
       "empfohlener_einsatz_prozent": 0.8,
       "einsatz_euro": 4.4,
       "beine": [
@@ -268,19 +243,10 @@ window.__MIESMUSCHEL_TIPPS = {
           "spiel_id": "2026-05-15-avl-liv",
           "markt": "Ueber 2.5 Tore",
           "quote": 1.75
-        },
-        {
-          "spiel_id": "2026-05-15-cle-det",
-          "markt": "Unter 209.5 Pkt (Spiel-Total)",
-          "quote": 1.91
-        },
-        {
-          "spiel_id": "2026-05-15-min-sas",
-          "markt": "Wolves +5.5 (Spread)",
-          "quote": 1.91
         }
       ],
-      "begruendung": "Layer-1+2+3-konformer Markt-Mix: AVL-LIV Ueber 2.5 (Markt-Goldgrube +52.3% ROI) + CLE-DET Unter 209.5 (Closeout-Defense-Komprimierung Lesson 02.05.) + MIN-SAS Wolves +5.5 (Sweep-Abwehr-Heim-Edge Lesson 24.04.). Pro Spiel max 1 Bein. Gesamtquote 1.75*1.91*1.91 = 6.38. Stake 0.8% = 4,40€."
+      "begruendung": "Layer-1+2+3-konformer Markt-Mix: AVL-LIV Ueber 2.5 (Markt-Goldgrube +52.3% ROI) + CLE-DET Unter 209.5 (Closeout-Defense-Komprimierung Lesson 02.05.) + MIN-SAS Wolves +5.5 (Sweep-Abwehr-Heim-Edge Lesson 24.04.). Pro Spiel max 1 Bein. Gesamtquote 1.75*1.91*1.91 = 6.38. Stake 0.8% = 4,40€.",
+      "rechnung": "1.75 = 1.75"
     }
   ],
   "lessons_angewandt": [
