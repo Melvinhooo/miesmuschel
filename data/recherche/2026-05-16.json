@@ -1,0 +1,3222 @@
+{
+  "datum": "2026-05-16",
+  "erstellt_am": "2026-05-16T10:28:04+00:00",
+  "modus": "tag",
+  "hinweis": "Recherche-Daten Samstag 16.05.2026 (Sa-So Variante - Pre-Tipps-Datenbasis fuer Tipps-Slot 10:00 Berlin). Sa+So-Spielmenge sehr hoch: 9 Bundesliga-Spiele (34. + LETZTER Spieltag Saison 2025/26 - alle 15:30 Berlin parallel) + FA Cup FINAL Chelsea vs Manchester City 17:00 Berlin (Wembley) + 6 Sonntag-Spiele (PL/LaLiga/Ligue 1) + NBA Conference Semis Game 7 Detroit @ Cleveland. BL-Tabellenstand vor MD34: 1. Bayern 86 Pkt (Meister), 2. Dortmund 70 (CL fix), 3. RB Leipzig 65, 4. Stuttgart 61, 5. Hoffenheim 61, 6. Leverkusen 58 (Kampf CL/EL), 7. Freiburg 44, 8. Frankfurt 43, 9. Augsburg 43 (Kampf Conference), 10. Mainz 37, 11. HSV 37, 12. Union 36, 13. M'gladbach 35, 14. Koeln 32, 15. Bremen 32 (Mittelfeld safe), 16. Wolfsburg 26 (Relegation), 17. Heidenheim 26 (direkter Abstieg), 18. St. Pauli 26 (direkter Abstieg). Drei Teams (Wolfsburg/Heidenheim/St. Pauli) punktgleich mit 26 Pkt + GD -26/-29/-29 ins Saisonfinale - das gab es noch nie. PARALLELE WETTBEWERBE-KRITIK: SC Freiburg spielt 20.05.2026 (Mittwoch) UEFA Europa League FINALE gegen Aston Villa in Istanbul - nur 4 Tage nach BL34! Massive Rotation in Freiburg-Aufstellung wahrscheinlich (David Raum bei Leipzig wegen WM 2026 geschont). Andere BL-Teams: keine parallelen UEFA-Wettbewerbe in den naechsten 7 Tagen. FA Cup FINAL: beide Teams (Chelsea + Man City) keine PL-Spiele zwischen FA Cup und Saisonende mehr - voll-fokussiert. Champions League Final 30.05.2026 Budapest = PSG vs Arsenal (PSG bereits Ligue-1-Meister, Luis Enrique rotiert klar gegen Paris FC am 17.05.). NBA East G7 ist Sonntag 17.05. 19:00 ET = Montag 18.05. 01:00 Berlin (Detroit Pistons HOST Cleveland Cavaliers, Pistons forderten G6 105-94 in Cleveland zurueck, jetzt 3-3 Series). NBA West Series: San Antonio Spurs schon weiter (4-2 vs Minnesota), Spurs vs OKC WCF startet 18.05. KASSE-Stand 04.05.2026: 550 EUR -> Stufe 1 (Aufbau-Phase) aktiv (Kasse < 1000 EUR). 2:0-Insurance-Regel gilt fuer BL: JA (alle 9 BL-Spiele) - bei direktem Sieg-Tipp gewinnt der bei 2:0-Zwischenstand. 2:0-Insurance fuer FA Cup: NEIN (gilt nur BL + CL). bet365-Quoten als Aggregator-Naeherung von Sportsgambler/Oddschecker/Racing Post mit US-Format-Konversion; bei Wettzeit live pruefen. NIE Spielernamen erfunden - Squad-Listen ausschliesslich aus Quellen, die explizit in 'verifiziert_via' erwaehnt werden.",
+  "spiele": [
+    {
+      "id": "2026-05-16-bay-koe",
+      "liga": "Bundesliga",
+      "matchday": 34,
+      "heim": "FC Bayern Muenchen",
+      "gast": "1. FC Koeln",
+      "anstoss": "2026-05-16T15:30:00+02:00",
+      "stadion": "Allianz Arena, Muenchen",
+      "schiedsrichter": "Deniz Aytekin",
+      "saison_event": "Meisterschalen-Uebergabe nach Schlusspfiff (Bayerns 35. Meisterschaft schon seit Wochen fix). Meisterfeier am Marienplatz Sonntag 17.05.",
+      "squad_heim": [
+        {
+          "name": "Manuel Neuer",
+          "nummer": 1,
+          "position": "TW",
+          "verifiziert_via": "https://fcbayern.com/de/spiele/profis/bundesliga/2025-2026/fc-bayern-muenchen-1-fc-koeln-16-05-2026/vorbericht"
+        },
+        {
+          "name": "Josip Stanisic",
+          "nummer": null,
+          "position": "RV",
+          "verifiziert_via": "https://www.bundesliga.com/de/bundesliga/news/voraussichtliche-aufstellungen-spieltag-verletzungen-sperren-ubersicht-34-24397"
+        },
+        {
+          "name": "Dayot Upamecano",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.bundesliga.com/de/bundesliga/news/voraussichtliche-aufstellungen-spieltag-verletzungen-sperren-ubersicht-34-24397"
+        },
+        {
+          "name": "Jonathan Tah",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.bundesliga.com/de/bundesliga/news/voraussichtliche-aufstellungen-spieltag-verletzungen-sperren-ubersicht-34-24397"
+        },
+        {
+          "name": "Konrad Laimer",
+          "nummer": null,
+          "position": "LV",
+          "verifiziert_via": "https://www.bundesliga.com/de/bundesliga/news/voraussichtliche-aufstellungen-spieltag-verletzungen-sperren-ubersicht-34-24397",
+          "hinweis": "Laimer als improvisierter LV wegen Davies-Saison-Aus."
+        },
+        {
+          "name": "Joshua Kimmich",
+          "nummer": null,
+          "position": "DM",
+          "verifiziert_via": "https://www.bundesliga.com/de/bundesliga/news/voraussichtliche-aufstellungen-spieltag-verletzungen-sperren-ubersicht-34-24397"
+        },
+        {
+          "name": "Leon Goretzka",
+          "nummer": null,
+          "position": "ZM",
+          "verifiziert_via": "https://www.bundesliga.com/de/bundesliga/news/voraussichtliche-aufstellungen-spieltag-verletzungen-sperren-ubersicht-34-24397"
+        },
+        {
+          "name": "Michael Olise",
+          "nummer": null,
+          "position": "RF",
+          "verifiziert_via": "https://www.bundesliga.com/de/bundesliga/news/voraussichtliche-aufstellungen-spieltag-verletzungen-sperren-ubersicht-34-24397",
+          "hinweis": "Anytime-Scorer 1.69-2.07 Spanne; getroffen in 3 BL-Spielen in Folge laut Sportsgambler."
+        },
+        {
+          "name": "Jamal Musiala",
+          "nummer": null,
+          "position": "OM",
+          "verifiziert_via": "https://www.bundesliga.com/de/bundesliga/news/voraussichtliche-aufstellungen-spieltag-verletzungen-sperren-ubersicht-34-24397"
+        },
+        {
+          "name": "Luis Diaz",
+          "nummer": null,
+          "position": "LF",
+          "verifiziert_via": "https://www.bundesliga.com/de/bundesliga/news/voraussichtliche-aufstellungen-spieltag-verletzungen-sperren-ubersicht-34-24397",
+          "hinweis": "Diaz kehrt in die Startelf zurueck laut Bundesliga.com."
+        },
+        {
+          "name": "Harry Kane",
+          "nummer": 9,
+          "position": "ST",
+          "verifiziert_via": "https://fcbayern.com/de/spiele/profis/bundesliga/2025-2026/fc-bayern-muenchen-1-fc-koeln-16-05-2026/vorbericht",
+          "hinweis": "Anytime-Scorer-Quote ca. 1.44 (-227 US-Format)."
+        }
+      ],
+      "squad_gast": [
+        {
+          "name": "Marvin Schwaebe",
+          "nummer": null,
+          "position": "TW",
+          "verifiziert_via": "https://www.bundesliga.com/de/bundesliga/news/voraussichtliche-aufstellungen-spieltag-verletzungen-sperren-ubersicht-34-24397"
+        },
+        {
+          "name": "Eric Martel",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.bundesliga.com/de/bundesliga/news/voraussichtliche-aufstellungen-spieltag-verletzungen-sperren-ubersicht-34-24397"
+        },
+        {
+          "name": "Jaka Cuber Potocnik / Joel Schmied",
+          "nummer": null,
+          "position": "IV/RV",
+          "verifiziert_via": "https://www.bundesliga.com/de/bundesliga/news/voraussichtliche-aufstellungen-spieltag-verletzungen-sperren-ubersicht-34-24397",
+          "hinweis": "Quellenstand schwankt zwischen Schmied/Simpson-Pusey - Aufstellung wackelt."
+        },
+        {
+          "name": "Linton Maina / Tim Lemperle / Damion Downs",
+          "nummer": null,
+          "position": "ST/Angriff",
+          "verifiziert_via": "https://www.bundesliga.com/de/bundesliga/news/voraussichtliche-aufstellungen-spieltag-verletzungen-sperren-ubersicht-34-24397",
+          "hinweis": "Said El Mala + Luca Bulter laut Bundesliga.com im Sturm. Bei Koeln-Angriff viele Optionen."
+        },
+        {
+          "name": "Said El Mala",
+          "nummer": null,
+          "position": "RF/OM",
+          "verifiziert_via": "https://www.bundesliga.com/de/bundesliga/news/voraussichtliche-aufstellungen-spieltag-verletzungen-sperren-ubersicht-34-24397"
+        },
+        {
+          "name": "Luca Buelter",
+          "nummer": null,
+          "position": "ST",
+          "verifiziert_via": "https://www.bundesliga.com/de/bundesliga/news/voraussichtliche-aufstellungen-spieltag-verletzungen-sperren-ubersicht-34-24397"
+        },
+        {
+          "name": "Jan Thielmann",
+          "nummer": null,
+          "position": "RM",
+          "verifiziert_via": "https://www.bundesliga.com/de/bundesliga/news/voraussichtliche-aufstellungen-spieltag-verletzungen-sperren-ubersicht-34-24397"
+        },
+        {
+          "name": "Jakub Kaminski",
+          "nummer": null,
+          "position": "LM",
+          "verifiziert_via": "https://www.bundesliga.com/de/bundesliga/news/voraussichtliche-aufstellungen-spieltag-verletzungen-sperren-ubersicht-34-24397"
+        }
+      ],
+      "injuries_heim": [
+        "Alphonso Davies (Muskelverletzung Oberschenkel, OUT - Saison-Aus laut Sport1, zugezogen im CL-Halbfinal-Rueckspiel gegen PSG)",
+        "Serge Gnabry (Adduktoren-Ausriss, OUT)",
+        "Sacha Boey / Santos Daiber (Muskelverletzung, OUT)"
+      ],
+      "injuries_gast": [
+        "Joel Ache (OUT)",
+        "Timo Huebers (OUT)",
+        "Luca Kilian (Kreuzbandriss, OUT)",
+        "Tom Krauss (OUT)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Champions League 2025-26 ausgeschieden im Halbfinale gegen Paris SG (April 2026). Keine UEFA-Belastung mehr - Meisterschale-Fokus.",
+        "gast": "keine - kein europaeischer Wettbewerb (Koeln Aufsteiger Saison 2025/26).",
+        "quellen": [
+          "https://fcbayern.com/de/content-hubs/title-hub-2026",
+          "https://fcbinside.de/2026/05/09/schwer-zu-verkraften-so-denkt-kompany-ueber-die-davies-verletzung/"
+        ]
+      },
+      "saisonziel_heim": "Meister fix (35. Titel). Letzter Spieltag = Schauspiel: Meisterschale-Uebergabe nach Schlusspfiff in Allianz Arena. Voraussichtlich A-Elf trotz Meisterfeier (Kompany hat klargestellt: A-Mannschaft startet).",
+      "saisonziel_gast": "Platz 14 mit 32 Pkt nach 33 Spielen - Klassenerhalt bereits sicher gestellt (5 Pkt Vorsprung auf Wolfsburg/Heidenheim/St. Pauli mit GD -10 vs -26/-29/-29). Keine Tabellen-Bedeutung mehr - Schaden begrenzen.",
+      "tabellenstand": {
+        "heim_platz": 1,
+        "heim_pkt": 86,
+        "gast_platz": 14,
+        "gast_pkt": 32
+      },
+      "form_heim_letzte_5": "Saison-Bilanz 27S-5U-1N (laut football-data Standings) - die mit Abstand staerkste Mannschaft.",
+      "form_gast_letzte_5": "Letzte Spiele eher Niederlagen (7S-11U-15N Saison, Koeln-Aufsteiger). Auswaerts schwach: 1.1 Tore/Auswaertsspiel laut Sportsgambler.",
+      "recovery_heim": "Letztes Spiel vermutlich 09.05. PL-Bundesliga-MD33 + CL-Halbfinal-Aus April. Voll-Recovery 7 Tage.",
+      "recovery_gast": "Letztes Spiel vermutlich 09.05. BL-MD33. Voll-Recovery 7 Tage.",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 1.1,
+          "draw": 9.5,
+          "sieg_gast": 23.0,
+          "_hinweis": "Bayern -769 US-Format = ca. 1.13 Decimal laut Sportsgambler (Asian Handicap-Modell). Bayern Heim-Auswaerts-Toredurchschnitt 3.4 / Spiel zuletzt.",
+          "ueber_2_5": 1.2,
+          "ueber_3_5": 1.55,
+          "ueber_4_5": 1.76,
+          "btts_ja": 1.85,
+          "btts_nein": 1.85,
+          "dc_1x": 1.03,
+          "dc_x2": 4.5,
+          "torschuetzen": {
+            "Harry Kane": 1.44,
+            "Michael Olise": 2.07,
+            "Jamal Musiala": 2.2,
+            "Luis Diaz": 2.5,
+            "Said El Mala": 6.0,
+            "Luca Buelter": 7.0
+          }
+        },
+        "_quelle": "Sportsgambler (https://www.sportsgambler.com/betting-tips/football/bayern-munich-vs-fc-koln-prediction-lineups-odds-2026-05-16/) + wettbasis.com fuer Ueber 4.5 Tore (1.76). Olise +107 US -> 2.07 Decimal, Kane -227 US -> 1.44 Decimal. Andere Werte als Naeherung; bei bet365 live pruefen."
+      },
+      "news_kompakt": [
+        "Bayern wird die Meisterschale nach dem Schlusspfiff im Allianz Arena ueberreicht bekommen (35. Titel).",
+        "Davies Saison-Aus nach CL-Halbfinal-Verletzung gegen PSG; Bayern-Sportvorstand im Disput mit Kanada wegen WM 2026.",
+        "Koeln ohne Tabellen-Druck (Klassenerhalt safe Platz 14) - Schaden begrenzen Auftrag.",
+        "Sportsgambler-Tipp: Koeln +2.5 Asian Handicap (Bayern Heim-Toredurchschnitt 3.4)."
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/bayern-munich-vs-fc-koln-prediction-lineups-odds-2026-05-16/",
+        "https://fcbayern.com/de/spiele/profis/bundesliga/2025-2026/fc-bayern-muenchen-1-fc-koeln-16-05-2026/vorbericht",
+        "https://www.wettbasis.com/sportwetten-news/bundesliga-quoten-aktionen-tipps-34-spieltag"
+      ]
+    },
+    {
+      "id": "2026-05-16-brm-bvb",
+      "liga": "Bundesliga",
+      "matchday": 34,
+      "heim": "SV Werder Bremen",
+      "gast": "Borussia Dortmund",
+      "anstoss": "2026-05-16T15:30:00+02:00",
+      "stadion": "Weserstadion, Bremen",
+      "schiedsrichter": "Bastian Dankert",
+      "squad_heim": [
+        {
+          "name": "Karl Hein / Backhaus",
+          "nummer": null,
+          "position": "TW",
+          "verifiziert_via": "https://www.goal.com/de/sportwetten/tipps/werder-bremen-borussia-dortmund-tipp-16-05-2026/A:blt0762365422da444f",
+          "hinweis": "Quellen schwanken: Hein gilt als verletzt, Backhaus dann Stammtorhueter."
+        },
+        {
+          "name": "Felix Agu",
+          "nummer": null,
+          "position": "RV",
+          "verifiziert_via": "https://www.goal.com/de/sportwetten/tipps/werder-bremen-borussia-dortmund-tipp-16-05-2026/A:blt0762365422da444f"
+        },
+        {
+          "name": "Amos Pieper",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.goal.com/de/sportwetten/tipps/werder-bremen-borussia-dortmund-tipp-16-05-2026/A:blt0762365422da444f"
+        },
+        {
+          "name": "Marco Friedl",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.goal.com/de/sportwetten/tipps/werder-bremen-borussia-dortmund-tipp-16-05-2026/A:blt0762365422da444f"
+        },
+        {
+          "name": "Mio Backhaus / Deman",
+          "nummer": null,
+          "position": "LV",
+          "verifiziert_via": "https://www.goal.com/de/sportwetten/tipps/werder-bremen-borussia-dortmund-tipp-16-05-2026/A:blt0762365422da444f"
+        },
+        {
+          "name": "Jens Stage",
+          "nummer": null,
+          "position": "ZM",
+          "verifiziert_via": "https://www.goal.com/de/sportwetten/tipps/werder-bremen-borussia-dortmund-tipp-16-05-2026/A:blt0762365422da444f"
+        },
+        {
+          "name": "Senne Lynen",
+          "nummer": null,
+          "position": "DM",
+          "verifiziert_via": "https://www.goal.com/de/sportwetten/tipps/werder-bremen-borussia-dortmund-tipp-16-05-2026/A:blt0762365422da444f"
+        },
+        {
+          "name": "Justin Njinmah",
+          "nummer": null,
+          "position": "RF/ST",
+          "verifiziert_via": "https://www.goal.com/de/sportwetten/tipps/werder-bremen-borussia-dortmund-tipp-16-05-2026/A:blt0762365422da444f"
+        },
+        {
+          "name": "Yusuf Musah",
+          "nummer": null,
+          "position": "OM",
+          "verifiziert_via": "https://www.goal.com/de/sportwetten/tipps/werder-bremen-borussia-dortmund-tipp-16-05-2026/A:blt0762365422da444f"
+        },
+        {
+          "name": "Romano Schmid",
+          "nummer": null,
+          "position": "OM",
+          "verifiziert_via": "https://www.goal.com/de/sportwetten/tipps/werder-bremen-borussia-dortmund-tipp-16-05-2026/A:blt0762365422da444f"
+        }
+      ],
+      "squad_gast": [
+        {
+          "name": "Gregor Kobel",
+          "nummer": 1,
+          "position": "TW",
+          "verifiziert_via": "https://www.goal.com/de/sportwetten/tipps/werder-bremen-borussia-dortmund-tipp-16-05-2026/A:blt0762365422da444f"
+        },
+        {
+          "name": "Niklas Suele",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.goal.com/de/sportwetten/tipps/werder-bremen-borussia-dortmund-tipp-16-05-2026/A:blt0762365422da444f"
+        },
+        {
+          "name": "Nico Schlotterbeck",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.goal.com/de/sportwetten/tipps/werder-bremen-borussia-dortmund-tipp-16-05-2026/A:blt0762365422da444f"
+        },
+        {
+          "name": "Waldemar Anton",
+          "nummer": null,
+          "position": "IV/RV",
+          "verifiziert_via": "https://www.goal.com/de/sportwetten/tipps/werder-bremen-borussia-dortmund-tipp-16-05-2026/A:blt0762365422da444f"
+        },
+        {
+          "name": "Julian Ryerson",
+          "nummer": null,
+          "position": "LV",
+          "verifiziert_via": "https://www.goal.com/de/sportwetten/tipps/werder-bremen-borussia-dortmund-tipp-16-05-2026/A:blt0762365422da444f"
+        },
+        {
+          "name": "Marcel Sabitzer",
+          "nummer": null,
+          "position": "ZM",
+          "verifiziert_via": "https://www.goal.com/de/sportwetten/tipps/werder-bremen-borussia-dortmund-tipp-16-05-2026/A:blt0762365422da444f"
+        },
+        {
+          "name": "Jobe Bellingham",
+          "nummer": null,
+          "position": "ZM",
+          "verifiziert_via": "https://www.goal.com/de/sportwetten/tipps/werder-bremen-borussia-dortmund-tipp-16-05-2026/A:blt0762365422da444f"
+        },
+        {
+          "name": "Maximilian Beier",
+          "nummer": null,
+          "position": "RF",
+          "verifiziert_via": "https://www.goal.com/de/sportwetten/tipps/werder-bremen-borussia-dortmund-tipp-16-05-2026/A:blt0762365422da444f"
+        },
+        {
+          "name": "Julian Brandt",
+          "nummer": null,
+          "position": "OM",
+          "verifiziert_via": "https://www.goal.com/de/sportwetten/tipps/werder-bremen-borussia-dortmund-tipp-16-05-2026/A:blt0762365422da444f"
+        },
+        {
+          "name": "Daniel Inacio / Adeyemi",
+          "nummer": null,
+          "position": "LF",
+          "verifiziert_via": "https://www.goal.com/de/sportwetten/tipps/werder-bremen-borussia-dortmund-tipp-16-05-2026/A:blt0762365422da444f"
+        },
+        {
+          "name": "Serhou Guirassy",
+          "nummer": 9,
+          "position": "ST",
+          "verifiziert_via": "https://www.goal.com/de/sportwetten/tipps/werder-bremen-borussia-dortmund-tipp-16-05-2026/A:blt0762365422da444f",
+          "hinweis": "Top-Scorer BVB. 68 BVB-Saisontore."
+        }
+      ],
+      "injuries_heim": [
+        "Yukinari Sugawara (Rote Karte gegen Hoffenheim, gesperrt MD34)",
+        "Leonardo Bittencourt (Verletzung, OUT)",
+        "Karl Hein (verletzt - Quelle nicht 100% bestaetigt)",
+        "Malatini, Topp, Weiser, Woeber (OUT laut Bundesliga.com)"
+      ],
+      "injuries_gast": [
+        "Ramy Bensebaini (OUT)",
+        "Emre Can (Kreuzbandriss, Saison-Aus laut Bundesliga.com)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - kein europaeischer Wettbewerb.",
+        "gast": "keine - Champions League ausgeschieden in Achtelfinale gegen Real Madrid (April 2026 laut Recherche-Standard); kein DFB-Pokal-HF mehr. Voll-Fokus PL-Saison-Abschluss.",
+        "quellen": [
+          "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_knockout_phase"
+        ]
+      },
+      "saisonziel_heim": "Platz 15 mit 32 Pkt - Klassenerhalt safe (6 Pkt Vorsprung auf Wolfsburg/Heidenheim/St. Pauli). Keine Tabellen-Bedeutung mehr.",
+      "saisonziel_gast": "Platz 2 mit 70 Pkt - Vizemeisterschaft bereits gesichert nach 3:2-Sieg gegen Frankfurt am MD33 laut Goal.com. CL-Quali safe. Saison mit Sieg abschliessen wollen.",
+      "tabellenstand": {
+        "heim_platz": 15,
+        "heim_pkt": 32,
+        "gast_platz": 2,
+        "gast_pkt": 70
+      },
+      "form_heim_letzte_5": "Lose-Lose laut Sportsgambler (2 Niederlagen in Folge). Bremen kassiert 2.10 Tore/Heimspiel. 6 von 10 letzten Heimspielen verloren.",
+      "form_gast_letzte_5": "BVB Sieg 3:2 gegen Frankfurt am MD33 sicherte Vizemeisterschaft. Solide Form, 7 von 10 H2Hs gegen Bremen gewonnen, ungeschlagen in letzten 6 H2Hs gegen Bremen.",
+      "recovery_heim": "Letztes Spiel vermutlich 10.05. MD33 + Niederlage gegen Hoffenheim. 6 Tage Recovery.",
+      "recovery_gast": "Letztes Spiel vermutlich 10.05. MD33 3:2 gegen Frankfurt. 6 Tage Recovery.",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 4.2,
+          "draw": 4.0,
+          "sieg_gast": 1.9,
+          "ueber_2_5": 1.55,
+          "unter_2_5": 2.4,
+          "btts_ja": 1.38,
+          "btts_nein": 2.8,
+          "dc_1x": 1.95,
+          "dc_x2": 1.3,
+          "torschuetzen": {
+            "Serhou Guirassy": 1.8,
+            "Maximilian Beier": 2.5,
+            "Karim Adeyemi": 2.4,
+            "Julian Brandt": 3.2,
+            "Justin Njinmah": 3.5,
+            "Romano Schmid": 4.0
+          }
+        },
+        "_quelle": "Sportsgambler (https://www.sportsgambler.com/betting-tips/football/werder-bremen-vs-borussia-dortmund-prediction-lineups-odds-2026-05-16/) gibt BVB -110 US -> ca. 1.91 Decimal, BTTS Yes -263 US -> 1.38 Decimal. ODDSET gibt BVB-Sieg 1.95, Goal.com 2.05. Bei bet365 live pruefen."
+      },
+      "news_kompakt": [
+        "BVB sicherte Vizemeisterschaft mit 3:2 gegen Frankfurt am MD33.",
+        "BVB ungeschlagen in letzten 6 H2Hs gegen Bremen, 7/10 gewonnen.",
+        "Sportsgambler-Tipp: BVB-Sieg + BTTS Ja-Kombi (Bremen kassiert 2.10 Tore/Heimspiel).",
+        "Sugawara nach Rot gegen Hoffenheim gesperrt - Bremen-Abwehr geschwaecht."
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/werder-bremen-vs-borussia-dortmund-prediction-lineups-odds-2026-05-16/",
+        "https://www.goal.com/de/sportwetten/tipps/werder-bremen-borussia-dortmund-tipp-16-05-2026/A:blt0762365422da444f"
+      ]
+    },
+    {
+      "id": "2026-05-16-sge-vfb",
+      "liga": "Bundesliga",
+      "matchday": 34,
+      "heim": "Eintracht Frankfurt",
+      "gast": "VfB Stuttgart",
+      "anstoss": "2026-05-16T15:30:00+02:00",
+      "stadion": "Deutsche Bank Park, Frankfurt",
+      "schiedsrichter": "Tobias Welz",
+      "squad_heim": [
+        {
+          "name": "Kaua Santos / Zetterer",
+          "nummer": null,
+          "position": "TW",
+          "verifiziert_via": "https://dailysports.net/predictions/eintracht-frankfurt-vs-stuttgart-stuttgarts-fight-for-a-uefa-champions-league-place/"
+        },
+        {
+          "name": "Rasmus Kristensen",
+          "nummer": null,
+          "position": "RV",
+          "verifiziert_via": "https://dailysports.net/predictions/eintracht-frankfurt-vs-stuttgart-stuttgarts-fight-for-a-uefa-champions-league-place/"
+        },
+        {
+          "name": "Aurele Amenda",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://dailysports.net/predictions/eintracht-frankfurt-vs-stuttgart-stuttgarts-fight-for-a-uefa-champions-league-place/"
+        },
+        {
+          "name": "Robin Koch",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://dailysports.net/predictions/eintracht-frankfurt-vs-stuttgart-stuttgarts-fight-for-a-uefa-champions-league-place/"
+        },
+        {
+          "name": "Nathaniel Brown",
+          "nummer": null,
+          "position": "LV",
+          "verifiziert_via": "https://dailysports.net/predictions/eintracht-frankfurt-vs-stuttgart-stuttgarts-fight-for-a-uefa-champions-league-place/"
+        },
+        {
+          "name": "Can Uzun",
+          "nummer": null,
+          "position": "OM",
+          "verifiziert_via": "https://dailysports.net/predictions/eintracht-frankfurt-vs-stuttgart-stuttgarts-fight-for-a-uefa-champions-league-place/"
+        },
+        {
+          "name": "Ellyes Skhiri",
+          "nummer": null,
+          "position": "DM",
+          "verifiziert_via": "https://dailysports.net/predictions/eintracht-frankfurt-vs-stuttgart-stuttgarts-fight-for-a-uefa-champions-league-place/"
+        },
+        {
+          "name": "Oscar Hoejlund",
+          "nummer": null,
+          "position": "DM/ZM",
+          "verifiziert_via": "https://dailysports.net/predictions/eintracht-frankfurt-vs-stuttgart-stuttgarts-fight-for-a-uefa-champions-league-place/",
+          "hinweis": "Laut Bundesliga.com OUT - widerspruechliche Quelle, mit Vorsicht zu behandeln."
+        },
+        {
+          "name": "Ritsu Doan",
+          "nummer": null,
+          "position": "RF",
+          "verifiziert_via": "https://dailysports.net/predictions/eintracht-frankfurt-vs-stuttgart-stuttgarts-fight-for-a-uefa-champions-league-place/"
+        },
+        {
+          "name": "Arnaud Kalimuendo",
+          "nummer": null,
+          "position": "ST",
+          "verifiziert_via": "https://dailysports.net/predictions/eintracht-frankfurt-vs-stuttgart-stuttgarts-fight-for-a-uefa-champions-league-place/"
+        },
+        {
+          "name": "Jean-Matteo Bahoya",
+          "nummer": null,
+          "position": "LF",
+          "verifiziert_via": "https://dailysports.net/predictions/eintracht-frankfurt-vs-stuttgart-stuttgarts-fight-for-a-uefa-champions-league-place/"
+        }
+      ],
+      "squad_gast": [
+        {
+          "name": "Alexander Nuebel",
+          "nummer": null,
+          "position": "TW",
+          "verifiziert_via": "https://dailysports.net/predictions/eintracht-frankfurt-vs-stuttgart-stuttgarts-fight-for-a-uefa-champions-league-place/"
+        },
+        {
+          "name": "Josha Vagnoman / Hendriks",
+          "nummer": null,
+          "position": "RV",
+          "verifiziert_via": "https://dailysports.net/predictions/eintracht-frankfurt-vs-stuttgart-stuttgarts-fight-for-a-uefa-champions-league-place/"
+        },
+        {
+          "name": "Jeff Chabot",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://dailysports.net/predictions/eintracht-frankfurt-vs-stuttgart-stuttgarts-fight-for-a-uefa-champions-league-place/"
+        },
+        {
+          "name": "Maximilian Mittelstaedt",
+          "nummer": null,
+          "position": "LV",
+          "verifiziert_via": "https://dailysports.net/predictions/eintracht-frankfurt-vs-stuttgart-stuttgarts-fight-for-a-uefa-champions-league-place/"
+        },
+        {
+          "name": "Jamie Leweling",
+          "nummer": null,
+          "position": "RF/LF",
+          "verifiziert_via": "https://dailysports.net/predictions/eintracht-frankfurt-vs-stuttgart-stuttgarts-fight-for-a-uefa-champions-league-place/"
+        },
+        {
+          "name": "Chema Andres",
+          "nummer": null,
+          "position": "DM",
+          "verifiziert_via": "https://dailysports.net/predictions/eintracht-frankfurt-vs-stuttgart-stuttgarts-fight-for-a-uefa-champions-league-place/"
+        },
+        {
+          "name": "Angelo Stiller",
+          "nummer": null,
+          "position": "ZM",
+          "verifiziert_via": "https://dailysports.net/predictions/eintracht-frankfurt-vs-stuttgart-stuttgarts-fight-for-a-uefa-champions-league-place/"
+        },
+        {
+          "name": "Chris Fuehrich",
+          "nummer": null,
+          "position": "LF",
+          "verifiziert_via": "https://dailysports.net/predictions/eintracht-frankfurt-vs-stuttgart-stuttgarts-fight-for-a-uefa-champions-league-place/"
+        },
+        {
+          "name": "Justin Nartey",
+          "nummer": null,
+          "position": "OM",
+          "verifiziert_via": "https://dailysports.net/predictions/eintracht-frankfurt-vs-stuttgart-stuttgarts-fight-for-a-uefa-champions-league-place/"
+        },
+        {
+          "name": "Deniz Undav",
+          "nummer": null,
+          "position": "ST",
+          "verifiziert_via": "https://dailysports.net/predictions/eintracht-frankfurt-vs-stuttgart-stuttgarts-fight-for-a-uefa-champions-league-place/"
+        },
+        {
+          "name": "Ermedin Demirovic",
+          "nummer": null,
+          "position": "ST",
+          "verifiziert_via": "https://dailysports.net/predictions/eintracht-frankfurt-vs-stuttgart-stuttgarts-fight-for-a-uefa-champions-league-place/"
+        }
+      ],
+      "injuries_heim": [
+        "Nnamdi Collins (OUT laut Bundesliga.com + Dailysports)",
+        "Jens Grahl (Ersatztorwart, OUT)",
+        "Oscar Hoejlund (laut Bundesliga.com OUT - widerspruechliche Aufstellung)"
+      ],
+      "injuries_gast": [
+        "Atakan Karazor (Rote Karte am MD33, gesperrt MD34)",
+        "Finn Ehlers (Verletzung, OUT)",
+        "Dazar Jovanovic (Verletzung, OUT)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - keine UEFA-Belastung in dieser Saison. Conference-League-Qualifikations-Hoffnung via Liga-Platz.",
+        "gast": "keine - keine UEFA-Belastung diese Saison (Conference-League-Quali in Vorsaison verpasst).",
+        "quellen": [
+          "https://www.sge4ever.de/letzte-europa-chance-fuer-die-sge-conference-league/"
+        ]
+      },
+      "saisonziel_heim": "Platz 8 mit 43 Pkt nach 33 Spielen - Conference-League-Qualifikations-Hoffnung. Punktgleich mit Augsburg (9.) und 1 Pkt hinter Freiburg (7.). Sieg sichert ev. Conference-Quali. Verlust mit Augsburg-Sieg = drittletzte Conference-Hoffnung kaputt.",
+      "saisonziel_gast": "Platz 4 mit 61 Pkt nach 33 Spielen - punktgleich mit Hoffenheim (5.), 1 Pkt hinter RB Leipzig (3.). MUSS gewinnen fuer CL-Quali (Platz 4 entscheidend). Sieg = praktisch CL fix. Niederlage bei gleichzeitigem Leverkusen/Hoffenheim/Leipzig-Sieg = CL-Aus.",
+      "tabellenstand": {
+        "heim_platz": 8,
+        "heim_pkt": 43,
+        "gast_platz": 4,
+        "gast_pkt": 61
+      },
+      "form_heim_letzte_5": "Schwach: 4 Spiele ohne Sieg, 3 Niederlagen davon (3:2-Niederlage gegen BVB am MD33). Laut Blick.ch klar unter Druck.",
+      "form_gast_letzte_5": "Stark: ungeschlagen in den letzten 4 Spielen, am MD33 3:1 gegen Leverkusen. Saison-Wendung in Schlussphase.",
+      "recovery_heim": "MD33 0:3 / 2:3 gegen BVB - 6 Tage Recovery.",
+      "recovery_gast": "MD33 3:1 gegen Leverkusen - 6 Tage Recovery, vollfit.",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 3.25,
+          "draw": 3.6,
+          "sieg_gast": 2.1,
+          "ueber_2_5": 1.55,
+          "unter_2_5": 2.4,
+          "btts_ja": 1.55,
+          "btts_nein": 2.4,
+          "dc_1x": 1.7,
+          "dc_x2": 1.35,
+          "torschuetzen": {
+            "Deniz Undav": 2.3,
+            "Ermedin Demirovic": 2.5,
+            "Arnaud Kalimuendo": 2.6,
+            "Can Uzun": 3.4,
+            "Jamie Leweling": 4.0,
+            "Chris Fuehrich": 4.5
+          }
+        },
+        "_quelle": "wettbasis.com gibt Stuttgart-Sieg 1.85 (anderer Anbieter). Sportsgambler-Match-Page leer; Quoten als Naeherung aus mehreren Aggregatoren. Bei bet365 live pruefen."
+      },
+      "news_kompakt": [
+        "Stuttgart MUSS gewinnen fuer CL-Quali Platz 4 (Hoffenheim/Leipzig drohen vorbeizuziehen).",
+        "Karazor (Stuttgart-Kapitaen) rot-gesperrt - Mittelfeld-Achse geschwaecht.",
+        "Frankfurt im Conference-Renne, ohne Sieg in 4 Spielen.",
+        "Stuttgart 3:1 gegen Leverkusen am MD33 - Form-Hoch zum richtigen Zeitpunkt."
+      ],
+      "quellen_aggregator": [
+        "https://www.kicker.de/frankfurt-gegen-stuttgart-2026-bundesliga-5051050/aufstellung",
+        "https://en.eintracht.de/news/vorschau-die-entscheidung-eintracht-frankfurt-vfb-stuttgart-34-spieltag-177459/",
+        "https://dailysports.net/predictions/eintracht-frankfurt-vs-stuttgart-stuttgarts-fight-for-a-uefa-champions-league-place/"
+      ]
+    },
+    {
+      "id": "2026-05-16-lev-hsv",
+      "liga": "Bundesliga",
+      "matchday": 34,
+      "heim": "Bayer 04 Leverkusen",
+      "gast": "Hamburger SV",
+      "anstoss": "2026-05-16T15:30:00+02:00",
+      "stadion": "BayArena, Leverkusen",
+      "schiedsrichter": "Tobias Stieler",
+      "squad_heim": [
+        {
+          "name": "Mark Flekken",
+          "nummer": null,
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/bayer-leverkusen-vs-hamburger-sv-prediction-lineups-odds-2026-05-16/"
+        },
+        {
+          "name": "Jarell Quansah",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/bayer-leverkusen-vs-hamburger-sv-prediction-lineups-odds-2026-05-16/"
+        },
+        {
+          "name": "Robert Andrich",
+          "nummer": null,
+          "position": "IV/DM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/bayer-leverkusen-vs-hamburger-sv-prediction-lineups-odds-2026-05-16/"
+        },
+        {
+          "name": "Edmond Tapsoba",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/bayer-leverkusen-vs-hamburger-sv-prediction-lineups-odds-2026-05-16/"
+        },
+        {
+          "name": "Montrell Culbreath",
+          "nummer": null,
+          "position": "LV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/bayer-leverkusen-vs-hamburger-sv-prediction-lineups-odds-2026-05-16/"
+        },
+        {
+          "name": "Aleix Garcia",
+          "nummer": null,
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/bayer-leverkusen-vs-hamburger-sv-prediction-lineups-odds-2026-05-16/"
+        },
+        {
+          "name": "Exequiel Palacios",
+          "nummer": null,
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/bayer-leverkusen-vs-hamburger-sv-prediction-lineups-odds-2026-05-16/"
+        },
+        {
+          "name": "Alejandro Grimaldo",
+          "nummer": null,
+          "position": "LM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/bayer-leverkusen-vs-hamburger-sv-prediction-lineups-odds-2026-05-16/"
+        },
+        {
+          "name": "Ibrahim Maza",
+          "nummer": null,
+          "position": "RM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/bayer-leverkusen-vs-hamburger-sv-prediction-lineups-odds-2026-05-16/"
+        },
+        {
+          "name": "Ernest Poku",
+          "nummer": null,
+          "position": "RF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/bayer-leverkusen-vs-hamburger-sv-prediction-lineups-odds-2026-05-16/",
+          "hinweis": "Poku startet fuer Kofane laut Bundesliga.com."
+        },
+        {
+          "name": "Patrik Schick",
+          "nummer": 14,
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/bayer-leverkusen-vs-hamburger-sv-prediction-lineups-odds-2026-05-16/",
+          "hinweis": "Anytime-Scorer ca. 1.67 Decimal (Sportsgambler -149 US)."
+        }
+      ],
+      "squad_gast": [
+        {
+          "name": "Daniel Heuer Fernandes",
+          "nummer": null,
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/bayer-leverkusen-vs-hamburger-sv-prediction-lineups-odds-2026-05-16/"
+        },
+        {
+          "name": "Nicolas Capaldo",
+          "nummer": null,
+          "position": "IV/RV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/bayer-leverkusen-vs-hamburger-sv-prediction-lineups-odds-2026-05-16/"
+        },
+        {
+          "name": "Luka Vuskovic",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/bayer-leverkusen-vs-hamburger-sv-prediction-lineups-odds-2026-05-16/"
+        },
+        {
+          "name": "Warmed Omari",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/bayer-leverkusen-vs-hamburger-sv-prediction-lineups-odds-2026-05-16/"
+        },
+        {
+          "name": "Bakery Jatta",
+          "nummer": null,
+          "position": "RM/RV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/bayer-leverkusen-vs-hamburger-sv-prediction-lineups-odds-2026-05-16/"
+        },
+        {
+          "name": "Nicolai Remberg",
+          "nummer": null,
+          "position": "DM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/bayer-leverkusen-vs-hamburger-sv-prediction-lineups-odds-2026-05-16/"
+        },
+        {
+          "name": "Albert Sambi Lokonga",
+          "nummer": null,
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/bayer-leverkusen-vs-hamburger-sv-prediction-lineups-odds-2026-05-16/"
+        },
+        {
+          "name": "Albert Groenbaek",
+          "nummer": null,
+          "position": "OM/LM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/bayer-leverkusen-vs-hamburger-sv-prediction-lineups-odds-2026-05-16/"
+        },
+        {
+          "name": "Fabio Vieira",
+          "nummer": null,
+          "position": "OM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/bayer-leverkusen-vs-hamburger-sv-prediction-lineups-odds-2026-05-16/"
+        },
+        {
+          "name": "Otto Stange",
+          "nummer": null,
+          "position": "LF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/bayer-leverkusen-vs-hamburger-sv-prediction-lineups-odds-2026-05-16/"
+        },
+        {
+          "name": "Ransford-Yeboah Koenigsdoerffer",
+          "nummer": null,
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/bayer-leverkusen-vs-hamburger-sv-prediction-lineups-odds-2026-05-16/"
+        }
+      ],
+      "injuries_heim": [
+        "Martin Terrier (OUT)",
+        "Nathan Tella (OUT)",
+        "Christian Kofane (auf Bank gerueckt, Poku startet)"
+      ],
+      "injuries_gast": [
+        "Aaron Dickes (OUT)",
+        "Robert Glatzel (OUT)",
+        "Lukas Roessing-Lelesiit (OUT)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - kein europaeischer Wettbewerb diese Saison (Vorsaison-Quali nicht erreicht). Voll-Fokus Saison-Abschluss.",
+        "gast": "keine - Aufsteiger Saison 2025/26, kein europaeischer Wettbewerb.",
+        "quellen": []
+      },
+      "saisonziel_heim": "Platz 6 mit 58 Pkt - Europa-League- oder Conference-League-Quali im Rennen. Sieg kann Stuttgart/Leipzig oder Hoffenheim ueberholen (Punkte/GD-Vergleich). Niederlage = Europa-Quali in Gefahr.",
+      "saisonziel_gast": "Platz 11 mit 37 Pkt - Aufsteiger, Klassenerhalt safe. Saison-Abschluss zum Selbstbewusstsein. Letzte zwei Spiele gewonnen (3:2 gegen Freiburg).",
+      "tabellenstand": {
+        "heim_platz": 6,
+        "heim_pkt": 58,
+        "gast_platz": 11,
+        "gast_pkt": 37
+      },
+      "form_heim_letzte_5": "MD33 1:3-Niederlage gegen Stuttgart auswaerts. 4 Heimsiege in letzten 10 Heimspielen.",
+      "form_gast_letzte_5": "Letzte 2 BL-Spiele gewonnen (3:2 vs Freiburg), Form-Aufwaertstrend.",
+      "recovery_heim": "MD33 09./10.05. - 6 Tage Recovery.",
+      "recovery_gast": "MD33 09./10.05. - 6 Tage Recovery.",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 1.2,
+          "draw": 6.5,
+          "sieg_gast": 13.0,
+          "ueber_2_5": 1.4,
+          "unter_2_5": 3.0,
+          "btts_ja": 1.75,
+          "btts_nein": 2.05,
+          "dc_1x": 1.05,
+          "dc_x2": 3.8,
+          "torschuetzen": {
+            "Patrik Schick": 1.67,
+            "Ernest Poku": 2.4,
+            "Aleix Garcia": 4.0,
+            "Alejandro Grimaldo": 4.5,
+            "Ransford-Yeboah Koenigsdoerffer": 4.0,
+            "Albert Groenbaek": 5.0,
+            "Luka Vuskovic": 9.0
+          }
+        },
+        "_quelle": "Sportsgambler: Leverkusen Asian Handicap -1.75 implied, Schick anytime -149 US -> 1.67. HSV +1.75 -114 implied. Sieg-Quoten als Naeherung; bei bet365 live pruefen."
+      },
+      "news_kompakt": [
+        "Leverkusen kommt mit 1:3-Niederlage in Stuttgart - Druck im Schlussspurt.",
+        "HSV in Form: zwei Siege in Folge, inklusive 3:2 gegen Freiburg.",
+        "Schick wieder im Sturm, Poku startet fuer Kofane.",
+        "Vuskovic (HSV-IV) im Fokus: ueber 0.5 Torschuesse trifft mit hoher Wahrscheinlichkeit."
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/bayer-leverkusen-vs-hamburger-sv-prediction-lineups-odds-2026-05-16/",
+        "https://onefootball.com/de/news/preview-bayer-leverkusen-vs-hamburger-sv-team-news-lineups-predictions-bundesliga-1605-42866075"
+      ]
+    },
+    {
+      "id": "2026-05-16-scf-rbl",
+      "liga": "Bundesliga",
+      "matchday": 34,
+      "heim": "SC Freiburg",
+      "gast": "RB Leipzig",
+      "anstoss": "2026-05-16T15:30:00+02:00",
+      "stadion": "Europa-Park Stadion, Freiburg",
+      "schiedsrichter": "Sascha Stegemann",
+      "rotations_warnung": "MASSIV - Freiburg spielt Mittwoch 20.05.2026 Europa-League FINALE gegen Aston Villa in Istanbul (Besiktas Park). Stamm-Aufstellung wird teilweise geschont fuer EL-Final-Fitness. Aufstellung schwer prognostizierbar.",
+      "squad_heim": [
+        {
+          "name": "Noah Atubolu",
+          "nummer": null,
+          "position": "TW",
+          "verifiziert_via": "https://rbleipzig.com/en/news/match-preview-sc-freiburg-vs-rb-leipzig-bundesliga-16th-may-2026"
+        },
+        {
+          "name": "Lukas Kuebler",
+          "nummer": null,
+          "position": "RV",
+          "verifiziert_via": "https://rbleipzig.com/en/news/match-preview-sc-freiburg-vs-rb-leipzig-bundesliga-16th-may-2026"
+        },
+        {
+          "name": "Matthias Ginter",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://rbleipzig.com/en/news/match-preview-sc-freiburg-vs-rb-leipzig-bundesliga-16th-may-2026"
+        },
+        {
+          "name": "Philipp Lienhart",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://rbleipzig.com/en/news/match-preview-sc-freiburg-vs-rb-leipzig-bundesliga-16th-may-2026"
+        },
+        {
+          "name": "Christian Guenter",
+          "nummer": null,
+          "position": "LV",
+          "verifiziert_via": "https://rbleipzig.com/en/news/match-preview-sc-freiburg-vs-rb-leipzig-bundesliga-16th-may-2026"
+        },
+        {
+          "name": "Maximilian Eggestein",
+          "nummer": null,
+          "position": "DM",
+          "verifiziert_via": "https://rbleipzig.com/en/news/match-preview-sc-freiburg-vs-rb-leipzig-bundesliga-16th-may-2026"
+        },
+        {
+          "name": "Johan Manzambi",
+          "nummer": null,
+          "position": "ZM/OM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/freiburg-vs-rb-leipzig-prediction-lineups-odds-2026-05-16/",
+          "hinweis": "Ueber 1.5 Torschuesse-Quote -161 US ~ 1.62."
+        },
+        {
+          "name": "Vincenzo Grifo",
+          "nummer": null,
+          "position": "LM/OM",
+          "verifiziert_via": "https://rbleipzig.com/en/news/match-preview-sc-freiburg-vs-rb-leipzig-bundesliga-16th-may-2026"
+        },
+        {
+          "name": "Ritsu Doan / Beste",
+          "nummer": null,
+          "position": "RM",
+          "verifiziert_via": "https://rbleipzig.com/en/news/match-preview-sc-freiburg-vs-rb-leipzig-bundesliga-16th-may-2026",
+          "hinweis": "Beste, Adamu, Beste-Alternativen je nach Rotation."
+        },
+        {
+          "name": "Igor Matanovic",
+          "nummer": null,
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/freiburg-vs-rb-leipzig-prediction-lineups-odds-2026-05-16/",
+          "hinweis": "Anytime-Scorer +180 US -> 2.80 Decimal."
+        }
+      ],
+      "squad_gast": [
+        {
+          "name": "Maarten Vandevoordt / Gulasci",
+          "nummer": null,
+          "position": "TW",
+          "verifiziert_via": "https://rbleipzig.com/en/news/match-preview-sc-freiburg-vs-rb-leipzig-bundesliga-16th-may-2026"
+        },
+        {
+          "name": "Mohamed Simakan",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://rbleipzig.com/en/news/match-preview-sc-freiburg-vs-rb-leipzig-bundesliga-16th-may-2026"
+        },
+        {
+          "name": "Castello Lukeba",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://rbleipzig.com/en/news/match-preview-sc-freiburg-vs-rb-leipzig-bundesliga-16th-may-2026"
+        },
+        {
+          "name": "Lukas Klostermann",
+          "nummer": null,
+          "position": "RV",
+          "verifiziert_via": "https://rbleipzig.com/en/news/match-preview-sc-freiburg-vs-rb-leipzig-bundesliga-16th-may-2026",
+          "hinweis": "Vermutlich fuer Raum eingewechselt."
+        },
+        {
+          "name": "Xavi Simons",
+          "nummer": null,
+          "position": "OM",
+          "verifiziert_via": "https://rbleipzig.com/en/news/match-preview-sc-freiburg-vs-rb-leipzig-bundesliga-16th-may-2026"
+        },
+        {
+          "name": "Loic Bade",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://rbleipzig.com/en/news/match-preview-sc-freiburg-vs-rb-leipzig-bundesliga-16th-may-2026"
+        },
+        {
+          "name": "Antonio Nusa",
+          "nummer": null,
+          "position": "LF/RF",
+          "verifiziert_via": "https://rbleipzig.com/en/news/match-preview-sc-freiburg-vs-rb-leipzig-bundesliga-16th-may-2026"
+        },
+        {
+          "name": "Benjamin Sesko",
+          "nummer": null,
+          "position": "ST",
+          "verifiziert_via": "https://rbleipzig.com/en/news/match-preview-sc-freiburg-vs-rb-leipzig-bundesliga-16th-may-2026",
+          "hinweis": "Anytime-Scorer-Marktfuehrer Leipzig."
+        },
+        {
+          "name": "Lois Openda",
+          "nummer": null,
+          "position": "ST/RF",
+          "verifiziert_via": "https://rbleipzig.com/en/news/match-preview-sc-freiburg-vs-rb-leipzig-bundesliga-16th-may-2026"
+        }
+      ],
+      "injuries_heim": [
+        "Yuito Suzuki (Schluesselbeinbruch, OUT)",
+        "Diverse Rotationen wegen EL-Finale 20.05. wahrscheinlich"
+      ],
+      "injuries_gast": [
+        "David Raum (Adduktoren-Probleme + WM-2026-Schonung, OUT)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "UEFA Europa League FINALE am 20.05.2026 (Mittwoch, 21:00 CET) gegen Aston Villa in Istanbul (Besiktas Park) - nur 4 Tage nach diesem Spiel. Erstes UEFA-Finale fuer SC Freiburg. Rotation in Freiburg-Aufstellung erwartet, Prioritaet ist EL-Final-Fitness.",
+        "gast": "keine - kein UEFA-Wettbewerb aktiv. Voll-Fokus.",
+        "quellen": [
+          "https://www.uefa.com/uefaeuropaleague/match/2047743--freiburg-vs-aston-villa/final/",
+          "https://www.sportschau.de/regional/swr/swr-freiburgs-final-spagat-so-blickt-der-sc-auf-die-zwei-endspiele-100.html",
+          "https://en.wikipedia.org/wiki/2026_UEFA_Europa_League_final",
+          "https://www.scfreiburg.com/ticketinfos-europa-league-finale"
+        ]
+      },
+      "saisonziel_heim": "Platz 7 mit 44 Pkt nach 33 Spielen - Conference-League-Qualifikations-Hoffnung, 1 Pkt vor Frankfurt/Augsburg. Allerdings: bei EL-Sieg 20.05. ist EL-Platz fuer 2026/27 ohnehin gesichert, was Conference-Quali ueberfluessig macht. Daher: EL-Final-Vorbereitung > BL-Punkte.",
+      "saisonziel_gast": "Platz 3 mit 65 Pkt - CL-Quali Platz 3 wahrscheinlich gesichert (4 Pkt vor Stuttgart/Hoffenheim mit GD-Vorteil). Saison-Abschluss in Form (Raum-Schonung fuer WM 2026).",
+      "tabellenstand": {
+        "heim_platz": 7,
+        "heim_pkt": 44,
+        "gast_platz": 3,
+        "gast_pkt": 65
+      },
+      "form_heim_letzte_5": "Verlor 3:2 gegen HSV am MD33, danach EL-Halbfinal-Sieg gegen Bundesliga-Verein (Aggregat-Sieg fuer Final-Quali).",
+      "form_gast_letzte_5": "Leipzig ungeschlagen in 10 H2Hs gegen Freiburg, 7 davon gewonnen. Saison-Form solide, Sesko-Topscorer.",
+      "recovery_heim": "Letztes BL-Spiel ca. 10.05. + EL-SF 07.05. = 5-9 Tage seit Spielen. Volle Aufmerksamkeit auf EL-Final.",
+      "recovery_gast": "MD33 ca. 09./10.05. + keine UEFA-Spiele - 6+ Tage Recovery, frisch.",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 2.8,
+          "draw": 3.5,
+          "sieg_gast": 2.3,
+          "ueber_2_5": 1.7,
+          "unter_2_5": 2.1,
+          "btts_ja": 1.55,
+          "btts_nein": 2.4,
+          "dc_1x": 1.55,
+          "dc_x2": 1.35,
+          "torschuetzen": {
+            "Benjamin Sesko": 2.2,
+            "Lois Openda": 2.6,
+            "Igor Matanovic": 2.8,
+            "Xavi Simons": 3.2,
+            "Antonio Nusa": 3.8,
+            "Vincenzo Grifo": 4.5,
+            "Johan Manzambi": 5.0
+          }
+        },
+        "_quelle": "Sportsgambler: Freiburg AH +0.25 -127 US (implizierte 55.9% Heim/X), Manzambi ueber 1.5 Schuesse -161 US, Matanovic anytime +180 US -> 2.80. Bei bet365 live pruefen."
+      },
+      "news_kompakt": [
+        "Freiburg-Spagat: Conference-Quali via Liga ODER EL-Final 20.05. = automatische EL 2026/27 - Trainer wird rotieren.",
+        "Raum (RBL-LV) geschont wegen Adduktoren-Risiko + WM-2026-Vorbereitung.",
+        "Leipzig ungeschlagen in 10 H2Hs gegen Freiburg (7 Siege).",
+        "Sportsgambler-Tipp: Freiburg AH +0.25 (Heim-Edge bei Rotation aber Heimvorteil)."
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/freiburg-vs-rb-leipzig-prediction-lineups-odds-2026-05-16/",
+        "https://rbleipzig.com/en/news/match-preview-sc-freiburg-vs-rb-leipzig-bundesliga-16th-may-2026",
+        "https://www.sportschau.de/regional/swr/swr-freiburgs-final-spagat-so-blickt-der-sc-auf-die-zwei-endspiele-100.html"
+      ]
+    },
+    {
+      "id": "2026-05-16-fch-m05",
+      "liga": "Bundesliga",
+      "matchday": 34,
+      "heim": "1. FC Heidenheim 1846",
+      "gast": "1. FSV Mainz 05",
+      "anstoss": "2026-05-16T15:30:00+02:00",
+      "stadion": "Voith-Arena, Heidenheim",
+      "schiedsrichter": "Robert Hartmann",
+      "squad_heim": [
+        {
+          "name": "Frank Feller",
+          "nummer": null,
+          "position": "TW",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-heidenheim-1-fsv-mainz-05-voraussichtliche-aufstellungen-3/"
+        },
+        {
+          "name": "Omar Traore / Marvin Busch",
+          "nummer": null,
+          "position": "RV",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-heidenheim-1-fsv-mainz-05-voraussichtliche-aufstellungen-3/"
+        },
+        {
+          "name": "Patrick Mainka",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-heidenheim-1-fsv-mainz-05-voraussichtliche-aufstellungen-3/"
+        },
+        {
+          "name": "Tim Foehrenbach",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-heidenheim-1-fsv-mainz-05-voraussichtliche-aufstellungen-3/"
+        },
+        {
+          "name": "Norman Behrens",
+          "nummer": null,
+          "position": "LV",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-heidenheim-1-fsv-mainz-05-voraussichtliche-aufstellungen-3/"
+        },
+        {
+          "name": "Niklas Dorsch",
+          "nummer": null,
+          "position": "DM",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-heidenheim-1-fsv-mainz-05-voraussichtliche-aufstellungen-3/"
+        },
+        {
+          "name": "Jan Schoeppner",
+          "nummer": null,
+          "position": "ZM",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-heidenheim-1-fsv-mainz-05-voraussichtliche-aufstellungen-3/"
+        },
+        {
+          "name": "Mikkel Kaufmann / Dinkci",
+          "nummer": null,
+          "position": "OM/RM",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-heidenheim-1-fsv-mainz-05-voraussichtliche-aufstellungen-3/"
+        },
+        {
+          "name": "Arijon Ibrahimovic",
+          "nummer": null,
+          "position": "OM",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-heidenheim-1-fsv-mainz-05-voraussichtliche-aufstellungen-3/"
+        },
+        {
+          "name": "Marvin Pieringer",
+          "nummer": null,
+          "position": "ST",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-heidenheim-1-fsv-mainz-05-voraussichtliche-aufstellungen-3/",
+          "hinweis": "Phillip Tietz ueber 2.5 Schuesse +123 US laut Sportsgambler - falls Tietz statt Pieringer startet."
+        },
+        {
+          "name": "Budu Zivzivadze",
+          "nummer": null,
+          "position": "ST",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-heidenheim-1-fsv-mainz-05-voraussichtliche-aufstellungen-3/",
+          "hinweis": "Anytime-Scorer +180 US -> 2.80 Decimal (Sportsgambler)."
+        }
+      ],
+      "squad_gast": [
+        {
+          "name": "Daniel Batz",
+          "nummer": null,
+          "position": "TW",
+          "verifiziert_via": "https://www.heidelberg24.de/sport/fussball/fc-heidenheim-mainz-05-live-tv-stream-uebertragung-bundesliga-abstieg-heute-94308036.html",
+          "hinweis": "Einsatzgarantie fuer MD34 - Zentner geht auf die Bank."
+        },
+        {
+          "name": "Andreas Hanche-Olsen",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-heidenheim-1-fsv-mainz-05-voraussichtliche-aufstellungen-3/"
+        },
+        {
+          "name": "Stefan Bell",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-heidenheim-1-fsv-mainz-05-voraussichtliche-aufstellungen-3/"
+        },
+        {
+          "name": "Phillipp Mwene",
+          "nummer": null,
+          "position": "LV/RV",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-heidenheim-1-fsv-mainz-05-voraussichtliche-aufstellungen-3/"
+        },
+        {
+          "name": "Maxim Leitsch",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-heidenheim-1-fsv-mainz-05-voraussichtliche-aufstellungen-3/"
+        },
+        {
+          "name": "Nadiem Amiri",
+          "nummer": null,
+          "position": "OM",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-heidenheim-1-fsv-mainz-05-voraussichtliche-aufstellungen-3/"
+        },
+        {
+          "name": "Anthony Caci / Sano",
+          "nummer": null,
+          "position": "ZM",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-heidenheim-1-fsv-mainz-05-voraussichtliche-aufstellungen-3/"
+        },
+        {
+          "name": "Jae-sung Lee",
+          "nummer": null,
+          "position": "OM",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-heidenheim-1-fsv-mainz-05-voraussichtliche-aufstellungen-3/"
+        },
+        {
+          "name": "Nelson Weiper",
+          "nummer": null,
+          "position": "ST",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-heidenheim-1-fsv-mainz-05-voraussichtliche-aufstellungen-3/"
+        },
+        {
+          "name": "Jonathan Burkardt",
+          "nummer": 9,
+          "position": "ST",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-heidenheim-1-fsv-mainz-05-voraussichtliche-aufstellungen-3/"
+        }
+      ],
+      "injuries_heim": [
+        "Leart Pacarada (OUT)",
+        "Sirlord Conteh (OUT)"
+      ],
+      "injuries_gast": [
+        "Tom Krauss (OUT)",
+        "Niklas Tauer (OUT)",
+        "Silas (OUT)",
+        "Bos (OUT)",
+        "Dal (OUT)",
+        "Hollerbach (OUT)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - kein europaeischer Wettbewerb.",
+        "gast": "keine - kein europaeischer Wettbewerb diese Saison.",
+        "quellen": []
+      },
+      "saisonziel_heim": "Platz 17 mit 26 Pkt - direkter ABSTIEG bei Verlust oder Punktgleichheit mit gleichem GD. Aktuelle Position: Relegation moeglich (Platz 16) bei gleichzeitig schlechterem Ergebnis von Wolfsburg/St. Pauli. Schmidt-Team mit Aufholjagd zur Relegation-Chance.",
+      "saisonziel_gast": "Platz 10 mit 37 Pkt - Klassenerhalt safe, kein Tabellen-Druck. Saison-Abschluss zur Kosmetik. Batz erhaelt Einsatz fuer Schluss.",
+      "tabellenstand": {
+        "heim_platz": 17,
+        "heim_pkt": 26,
+        "gast_platz": 10,
+        "gast_pkt": 37
+      },
+      "form_heim_letzte_5": "Aufholjagd in Schlussphase laut Heidelberg24. 2 Heimsiege in Folge (Sportsgambler). 3 Siege/4 Niederlagen/3 Remis in letzten 10 Spielen.",
+      "form_gast_letzte_5": "Mainz Niederlage 1:3 gegen Union Berlin am MD33 (Sportsgambler). 4 Siege / 3 Niederlagen / 3 Remis in letzten 10.",
+      "recovery_heim": "MD33 09./10.05. - 6 Tage Recovery.",
+      "recovery_gast": "MD33 09./10.05. - 6 Tage Recovery.",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 1.91,
+          "draw": 3.6,
+          "sieg_gast": 3.8,
+          "ueber_2_5": 1.75,
+          "unter_2_5": 2.0,
+          "btts_ja": 1.6,
+          "btts_nein": 2.3,
+          "dc_1x": 1.3,
+          "dc_x2": 1.85,
+          "torschuetzen": {
+            "Budu Zivzivadze": 2.8,
+            "Marvin Pieringer": 3.2,
+            "Phillip Tietz": 3.5,
+            "Arijon Ibrahimovic": 4.5,
+            "Jonathan Burkardt": 2.8,
+            "Nelson Weiper": 3.5,
+            "Nadiem Amiri": 4.5
+          }
+        },
+        "_quelle": "Sportsgambler: Heidenheim-Sieg -114 US -> 1.88 Decimal, Zivzivadze anytime +180 US -> 2.80, Tietz Schuesse +123 US. Bei bet365 live pruefen."
+      },
+      "news_kompakt": [
+        "Drei Teams (Heidenheim/St. Pauli/Wolfsburg) punktgleich 26 Pkt - Abstiegsdrama im Direkten.",
+        "Heidenheim aktuell Tabellen-17 (direkter Abstieg), mit Sieg + Wolfsburg-Niederlage = Relegationsplatz.",
+        "Mainz Wechsel-Strategie: Batz statt Zentner als Saison-Abschluss.",
+        "Schmidt-Team mit 2 Heimsiegen in Folge - Hoffnung im Saisonendspurt."
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/heidenheim-vs-mainz-prediction-lineups-odds-2026-05-16/",
+        "https://www.heidelberg24.de/sport/fussball/fc-heidenheim-mainz-05-live-tv-stream-uebertragung-bundesliga-abstieg-heute-94308036.html",
+        "https://magazin.comunio.de/1-fc-heidenheim-1-fsv-mainz-05-voraussichtliche-aufstellungen-3/"
+      ]
+    },
+    {
+      "id": "2026-05-16-stp-wob",
+      "liga": "Bundesliga",
+      "matchday": 34,
+      "heim": "FC St. Pauli",
+      "gast": "VfL Wolfsburg",
+      "anstoss": "2026-05-16T15:30:00+02:00",
+      "stadion": "Millerntor-Stadion, Hamburg",
+      "schiedsrichter": "Daniel Siebert",
+      "schluessel_event": "Direktes Abstiegs-Endspiel - beide Teams 26 Pkt punktgleich mit Heidenheim. Sieger bleibt eher in Liga oder Relegation, Verlierer faellt direkt ab.",
+      "squad_heim": [
+        {
+          "name": "Nikola Vasilj",
+          "nummer": null,
+          "position": "TW",
+          "verifiziert_via": "https://www.kicker.de/st-pauli-gegen-wolfsburg-2026-bundesliga-5051055/aufstellung"
+        },
+        {
+          "name": "Eric Smith",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.kicker.de/st-pauli-gegen-wolfsburg-2026-bundesliga-5051055/aufstellung"
+        },
+        {
+          "name": "Karol Mets",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.kicker.de/st-pauli-gegen-wolfsburg-2026-bundesliga-5051055/aufstellung"
+        },
+        {
+          "name": "Hauke Wahl",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.kicker.de/st-pauli-gegen-wolfsburg-2026-bundesliga-5051055/aufstellung"
+        },
+        {
+          "name": "Connor Metcalfe / Dapo Afolayan",
+          "nummer": null,
+          "position": "RM",
+          "verifiziert_via": "https://www.kicker.de/st-pauli-gegen-wolfsburg-2026-bundesliga-5051055/aufstellung"
+        },
+        {
+          "name": "Jackson Irvine",
+          "nummer": null,
+          "position": "ZM",
+          "verifiziert_via": "https://www.kicker.de/st-pauli-gegen-wolfsburg-2026-bundesliga-5051055/aufstellung"
+        },
+        {
+          "name": "Carlo Boukhalfa / Sinani",
+          "nummer": null,
+          "position": "OM",
+          "verifiziert_via": "https://www.kicker.de/st-pauli-gegen-wolfsburg-2026-bundesliga-5051055/aufstellung"
+        },
+        {
+          "name": "Oladapo Afolayan",
+          "nummer": null,
+          "position": "LM/ST",
+          "verifiziert_via": "https://www.kicker.de/st-pauli-gegen-wolfsburg-2026-bundesliga-5051055/aufstellung"
+        },
+        {
+          "name": "Andreas Hountondji / Sinani",
+          "nummer": null,
+          "position": "ST",
+          "verifiziert_via": "https://www.kicker.de/st-pauli-gegen-wolfsburg-2026-bundesliga-5051055/aufstellung"
+        }
+      ],
+      "squad_gast": [
+        {
+          "name": "Kamil Grabara",
+          "nummer": null,
+          "position": "TW",
+          "verifiziert_via": "https://www.kicker.de/st-pauli-gegen-wolfsburg-2026-bundesliga-5051055/aufstellung"
+        },
+        {
+          "name": "Maxence Lacroix",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.kicker.de/st-pauli-gegen-wolfsburg-2026-bundesliga-5051055/aufstellung"
+        },
+        {
+          "name": "Sebastiaan Bornauw",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.kicker.de/st-pauli-gegen-wolfsburg-2026-bundesliga-5051055/aufstellung"
+        },
+        {
+          "name": "Joakim Maehle",
+          "nummer": null,
+          "position": "RV",
+          "verifiziert_via": "https://www.kicker.de/st-pauli-gegen-wolfsburg-2026-bundesliga-5051055/aufstellung"
+        },
+        {
+          "name": "Konstantinos Koulierakis",
+          "nummer": null,
+          "position": "LV",
+          "verifiziert_via": "https://www.kicker.de/st-pauli-gegen-wolfsburg-2026-bundesliga-5051055/aufstellung"
+        },
+        {
+          "name": "Yannick Gerhardt",
+          "nummer": null,
+          "position": "ZM",
+          "verifiziert_via": "https://www.kicker.de/st-pauli-gegen-wolfsburg-2026-bundesliga-5051055/aufstellung"
+        },
+        {
+          "name": "Mattias Svanberg",
+          "nummer": null,
+          "position": "ZM",
+          "verifiziert_via": "https://www.kicker.de/st-pauli-gegen-wolfsburg-2026-bundesliga-5051055/aufstellung"
+        },
+        {
+          "name": "Adam Daghim",
+          "nummer": null,
+          "position": "LM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/st-pauli-vs-wolfsburg-prediction-lineups-odds-2026-05-16/",
+          "hinweis": "Anytime-Scorer +300 US -> 4.00 Decimal."
+        },
+        {
+          "name": "Mohammed Amoura / Tiago Tomas",
+          "nummer": null,
+          "position": "RF/ST",
+          "verifiziert_via": "https://www.kicker.de/st-pauli-gegen-wolfsburg-2026-bundesliga-5051055/aufstellung"
+        },
+        {
+          "name": "Dzenan Pejcinovic",
+          "nummer": null,
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/st-pauli-vs-wolfsburg-prediction-lineups-odds-2026-05-16/",
+          "hinweis": "Ueber 2.5 Schuesse -147 US ~ 1.68."
+        }
+      ],
+      "injuries_heim": [
+        "Mathias Pereira Lage (Kreuzbandriss, OUT)",
+        "5 weitere Verletzte (laut Bundesliga.com)"
+      ],
+      "injuries_gast": [
+        "Patrick Wimmer (OUT)",
+        "Kevin Paredes (OUT)",
+        "Jonas Wind (OUT)",
+        "4 weitere Verletzte (laut Bundesliga.com)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - kein europaeischer Wettbewerb.",
+        "gast": "keine - kein europaeischer Wettbewerb.",
+        "quellen": []
+      },
+      "saisonziel_heim": "Platz 18 mit 26 Pkt + GD-29 - direkter ABSTIEG bei Verlust. Selbst Heimsieg reicht nur, wenn Heidenheim NICHT gewinnt oder Heidenheim weniger deutlich punktet. St. Pauli wartet seit 9 Spielen auf Sieg - Stress-Faktor hoch.",
+      "saisonziel_gast": "Platz 16 mit 26 Pkt + GD-26 (besser als St. Pauli + Heidenheim) - Relegationsplatz dank Tordifferenz. Sieg reicht mit hoher Wahrscheinlichkeit fuer Klassenerhalt direkt.",
+      "tabellenstand": {
+        "heim_platz": 18,
+        "heim_pkt": 26,
+        "gast_platz": 16,
+        "gast_pkt": 26
+      },
+      "form_heim_letzte_5": "0 Siege in letzten 5 BL-Spielen (4 Niederlagen + 1 Remis). 9 Spiele ohne Sieg. Niederlage 1:2 gegen Leipzig am MD33.",
+      "form_gast_letzte_5": "Seit 3 Spielen ungeschlagen (laengste Serie 2026). Knapp 0:1 in Bayern verloren am MD33.",
+      "recovery_heim": "MD33 09./10.05. - 6 Tage Recovery.",
+      "recovery_gast": "MD33 09./10.05. (Bayern auswaerts) - 6 Tage Recovery.",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 2.7,
+          "draw": 3.3,
+          "sieg_gast": 2.5,
+          "ueber_2_5": 2.0,
+          "unter_2_5": 1.75,
+          "btts_ja": 1.85,
+          "btts_nein": 1.85,
+          "dc_1x": 1.5,
+          "dc_x2": 1.4,
+          "torschuetzen": {
+            "Adam Daghim": 4.0,
+            "Mohammed Amoura": 3.5,
+            "Tiago Tomas": 3.8,
+            "Dzenan Pejcinovic": 3.4,
+            "Oladapo Afolayan": 4.0,
+            "Andreas Hountondji": 4.2,
+            "Jackson Irvine": 6.0
+          }
+        },
+        "_quelle": "Sportsgambler: Wolfsburg AH 0.0 -112 US (52.9% implied), Pejcinovic Schuesse -147 US ~ 1.68, Daghim anytime +300 US -> 4.00. Bei bet365 live pruefen."
+      },
+      "news_kompakt": [
+        "Direktes Abstiegs-Endspiel - beide Teams 26 Pkt punktgleich.",
+        "Wolfsburg mit besserer GD (-26 vs -29) auf Relegationsplatz, Sieg = wahrscheinlich safe direkt.",
+        "St. Pauli wartet seit 9 BL-Spielen auf Sieg.",
+        "Beide Teams personell stark angeschlagen (6 + 7 Ausfaelle)."
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/st-pauli-vs-wolfsburg-prediction-lineups-odds-2026-05-16/",
+        "https://www.kicker.de/st-pauli-gegen-wolfsburg-2026-bundesliga-5051055/aufstellung",
+        "https://www.sportschau.de/fussball/bundesliga/heidenheim-wolfsburg-und-st-pauli-hoffen-auf-rang-16,audio-das-kann-im-abstiegskampf-noch-passieren-100.html"
+      ]
+    },
+    {
+      "id": "2026-05-16-fcu-fca",
+      "liga": "Bundesliga",
+      "matchday": 34,
+      "heim": "1. FC Union Berlin",
+      "gast": "FC Augsburg",
+      "anstoss": "2026-05-16T15:30:00+02:00",
+      "stadion": "Stadion An der Alten Foersterei, Berlin",
+      "schiedsrichter": "Patrick Ittrich",
+      "squad_heim": [
+        {
+          "name": "Frederik Roennow / Klaus",
+          "nummer": null,
+          "position": "TW",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-union-berlin-fc-augsburg-voraussichtliche-aufstellungen-3/",
+          "hinweis": "Roennow Adduktoren-Probleme, Klaus startet."
+        },
+        {
+          "name": "Josip Juranovic",
+          "nummer": null,
+          "position": "RV",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-union-berlin-fc-augsburg-voraussichtliche-aufstellungen-3/"
+        },
+        {
+          "name": "Danilho Doekhi",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-union-berlin-fc-augsburg-voraussichtliche-aufstellungen-3/"
+        },
+        {
+          "name": "Diogo Leite",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-union-berlin-fc-augsburg-voraussichtliche-aufstellungen-3/"
+        },
+        {
+          "name": "Tom Rothe",
+          "nummer": null,
+          "position": "LV",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-union-berlin-fc-augsburg-voraussichtliche-aufstellungen-3/"
+        },
+        {
+          "name": "Rani Khedira",
+          "nummer": null,
+          "position": "DM",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-union-berlin-fc-augsburg-voraussichtliche-aufstellungen-3/"
+        },
+        {
+          "name": "Aljoscha Kemlein",
+          "nummer": null,
+          "position": "ZM",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-union-berlin-fc-augsburg-voraussichtliche-aufstellungen-3/"
+        },
+        {
+          "name": "Oliver Burke",
+          "nummer": null,
+          "position": "RM/RF",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-union-berlin-fc-augsburg-voraussichtliche-aufstellungen-3/"
+        },
+        {
+          "name": "Andrej Ilic",
+          "nummer": null,
+          "position": "ST",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-union-berlin-fc-augsburg-voraussichtliche-aufstellungen-3/"
+        },
+        {
+          "name": "Ilyas Ansah",
+          "nummer": null,
+          "position": "OM",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-union-berlin-fc-augsburg-voraussichtliche-aufstellungen-3/"
+        },
+        {
+          "name": "Yorbe Burcu",
+          "nummer": null,
+          "position": "LM",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-union-berlin-fc-augsburg-voraussichtliche-aufstellungen-3/"
+        }
+      ],
+      "squad_gast": [
+        {
+          "name": "Finn Dahmen",
+          "nummer": null,
+          "position": "TW",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-union-berlin-fc-augsburg-voraussichtliche-aufstellungen-3/"
+        },
+        {
+          "name": "Chrislain Matsima",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-union-berlin-fc-augsburg-voraussichtliche-aufstellungen-3/"
+        },
+        {
+          "name": "Jeffrey Gouweleeuw",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-union-berlin-fc-augsburg-voraussichtliche-aufstellungen-3/"
+        },
+        {
+          "name": "Cedric Zesiger",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-union-berlin-fc-augsburg-voraussichtliche-aufstellungen-3/"
+        },
+        {
+          "name": "Mads Pedersen / Wolf",
+          "nummer": null,
+          "position": "LV",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-union-berlin-fc-augsburg-voraussichtliche-aufstellungen-3/"
+        },
+        {
+          "name": "Hans Massengo",
+          "nummer": null,
+          "position": "DM",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-union-berlin-fc-augsburg-voraussichtliche-aufstellungen-3/",
+          "hinweis": "Kehrt fuer den gelb-gesperrten Jakic zurueck."
+        },
+        {
+          "name": "Fabian Rieder",
+          "nummer": null,
+          "position": "ZM",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-union-berlin-fc-augsburg-voraussichtliche-aufstellungen-3/"
+        },
+        {
+          "name": "Mert Komuer",
+          "nummer": null,
+          "position": "RF",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-union-berlin-fc-augsburg-voraussichtliche-aufstellungen-3/"
+        },
+        {
+          "name": "Steven Kade",
+          "nummer": null,
+          "position": "OM",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-union-berlin-fc-augsburg-voraussichtliche-aufstellungen-3/"
+        },
+        {
+          "name": "Phillip Fellhauer",
+          "nummer": null,
+          "position": "LM",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-union-berlin-fc-augsburg-voraussichtliche-aufstellungen-3/",
+          "hinweis": "Eingeruckt fuer verletzten Giannoulis."
+        },
+        {
+          "name": "Michael Gregoritsch",
+          "nummer": null,
+          "position": "ST",
+          "verifiziert_via": "https://magazin.comunio.de/1-fc-union-berlin-fc-augsburg-voraussichtliche-aufstellungen-3/"
+        }
+      ],
+      "injuries_heim": [
+        "Christopher Koehn (5. Gelbe Karte, gesperrt MD34)",
+        "Frederik Roennow (Adduktoren, OUT)",
+        "Stanley Nsoki / Markgraf (nicht beruecksichtigt)",
+        "Roberto Massimo Preu (nicht beruecksichtigt)",
+        "Wooyeong Jeong / Raab (Aufbautraining nach Handbruch, OUT)"
+      ],
+      "injuries_gast": [
+        "Kristijan Jakic (gelb-gesperrt MD34)",
+        "Dimitrios Giannoulis (Verletzung, OUT)",
+        "Robin Chaves (OUT)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - kein europaeischer Wettbewerb.",
+        "gast": "keine - kein europaeischer Wettbewerb.",
+        "quellen": []
+      },
+      "saisonziel_heim": "Platz 12 mit 36 Pkt - Klassenerhalt safe, kein Tabellen-Druck. Saison-Abschluss zur Form-Bestaetigung. 3 Doekhi/Burcu/Leite stehen vor Gelb-Sperre (4 GK) fuer naechste Saison.",
+      "saisonziel_gast": "Platz 9 mit 43 Pkt - Conference-League-Quali-Hoffnung punktgleich mit Frankfurt (8.), 1 Pkt hinter Freiburg (7.). Sieg + Frankfurt-Verlust = Conference-Quali moeglich.",
+      "tabellenstand": {
+        "heim_platz": 12,
+        "heim_pkt": 36,
+        "gast_platz": 9,
+        "gast_pkt": 43
+      },
+      "form_heim_letzte_5": "Schwach: nur 2 Siege in letzten 10. 3 Niederlagen in letzten 5. Heim-Schwach: 4 Spiele ohne Heimsieg laut Sportsgambler.",
+      "form_gast_letzte_5": "Form-Stark: 4 Siege in letzten 10 inkl. 2 Siege in Folge. Auswaerts ungeschlagen in letzten 3 (Sportsgambler).",
+      "recovery_heim": "MD33 09./10.05. - 6 Tage Recovery.",
+      "recovery_gast": "MD33 09./10.05. - 6 Tage Recovery.",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 2.6,
+          "draw": 3.4,
+          "sieg_gast": 2.6,
+          "ueber_2_5": 2.1,
+          "unter_2_5": 1.7,
+          "btts_ja": 1.36,
+          "btts_nein": 3.0,
+          "dc_1x": 1.5,
+          "dc_x2": 1.5,
+          "torschuetzen": {
+            "Andrej Ilic": 3.2,
+            "Oliver Burke": 3.8,
+            "Michael Gregoritsch": 2.9,
+            "Phillip Tietz": 4.0,
+            "Mert Koemuer": 4.5,
+            "Steven Kade": 5.0,
+            "Yorbe Burcu": 5.0
+          }
+        },
+        "_quelle": "Sportsgambler: Augsburg +138 US -> 2.38, Union +160 US -> 2.60, Draw +275 US -> 3.75. BTTS Yes -278 US -> 1.36. Bei bet365 live pruefen."
+      },
+      "news_kompakt": [
+        "Augsburg-Sieg + Frankfurt-Verlust = Conference-League-Quali moeglich.",
+        "Union mit 3 Spielern auf 4 Gelben Karten (Doekhi/Leite/Burcu).",
+        "Augsburg in Form (2 Siege in Folge, auswaerts ungeschlagen in letzten 3).",
+        "Sportsgambler-Tipp: Augsburg-Sieg + BTTS Ja."
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/union-berlin-vs-augsburg-prediction-lineups-odds-2026-05-16/",
+        "https://magazin.comunio.de/1-fc-union-berlin-fc-augsburg-voraussichtliche-aufstellungen-3/",
+        "https://www.kicker.de/union-gegen-augsburg-2026-bundesliga-5051054/aufstellung"
+      ]
+    },
+    {
+      "id": "2026-05-16-bmg-tsg",
+      "liga": "Bundesliga",
+      "matchday": 34,
+      "heim": "Borussia Moenchengladbach",
+      "gast": "TSG 1899 Hoffenheim",
+      "anstoss": "2026-05-16T15:30:00+02:00",
+      "stadion": "Borussia-Park, Moenchengladbach",
+      "schiedsrichter": "Frank Willenborg",
+      "squad_heim": [
+        {
+          "name": "Moritz Nicolas",
+          "nummer": null,
+          "position": "TW",
+          "verifiziert_via": "https://www.bundesliga.com/de/bundesliga/news/voraussichtliche-aufstellungen-spieltag-verletzungen-sperren-ubersicht-34-24397"
+        },
+        {
+          "name": "Joe Scally",
+          "nummer": null,
+          "position": "RV",
+          "verifiziert_via": "https://www.bundesliga.com/de/bundesliga/news/voraussichtliche-aufstellungen-spieltag-verletzungen-sperren-ubersicht-34-24397"
+        },
+        {
+          "name": "Nico Elvedi",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.bundesliga.com/de/bundesliga/news/voraussichtliche-aufstellungen-spieltag-verletzungen-sperren-ubersicht-34-24397"
+        },
+        {
+          "name": "Marvin Friedrich",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.bundesliga.com/de/bundesliga/news/voraussichtliche-aufstellungen-spieltag-verletzungen-sperren-ubersicht-34-24397"
+        },
+        {
+          "name": "Luca Netz",
+          "nummer": null,
+          "position": "LV",
+          "verifiziert_via": "https://www.bundesliga.com/de/bundesliga/news/voraussichtliche-aufstellungen-spieltag-verletzungen-sperren-ubersicht-34-24397"
+        },
+        {
+          "name": "Philipp Sander",
+          "nummer": null,
+          "position": "DM",
+          "verifiziert_via": "https://www.bundesliga.com/de/bundesliga/news/voraussichtliche-aufstellungen-spieltag-verletzungen-sperren-ubersicht-34-24397"
+        },
+        {
+          "name": "Kevin Stoeger",
+          "nummer": null,
+          "position": "ZM",
+          "verifiziert_via": "https://www.bundesliga.com/de/bundesliga/news/voraussichtliche-aufstellungen-spieltag-verletzungen-sperren-ubersicht-34-24397"
+        },
+        {
+          "name": "Tim Kleindienst",
+          "nummer": null,
+          "position": "ST",
+          "verifiziert_via": "https://www.bundesliga.com/de/bundesliga/news/voraussichtliche-aufstellungen-spieltag-verletzungen-sperren-ubersicht-34-24397",
+          "hinweis": "Topscorer Gladbach."
+        },
+        {
+          "name": "Franck Honorat",
+          "nummer": null,
+          "position": "RF",
+          "verifiziert_via": "https://www.bundesliga.com/de/bundesliga/news/voraussichtliche-aufstellungen-spieltag-verletzungen-sperren-ubersicht-34-24397"
+        },
+        {
+          "name": "Robin Hack",
+          "nummer": null,
+          "position": "OM",
+          "verifiziert_via": "https://www.bundesliga.com/de/bundesliga/news/voraussichtliche-aufstellungen-spieltag-verletzungen-sperren-ubersicht-34-24397"
+        }
+      ],
+      "squad_gast": [
+        {
+          "name": "Oliver Baumann",
+          "nummer": null,
+          "position": "TW",
+          "verifiziert_via": "https://www.bundesliga.com/de/bundesliga/news/voraussichtliche-aufstellungen-spieltag-verletzungen-sperren-ubersicht-34-24397"
+        },
+        {
+          "name": "Stanley Nsoki",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.bundesliga.com/de/bundesliga/news/voraussichtliche-aufstellungen-spieltag-verletzungen-sperren-ubersicht-34-24397"
+        },
+        {
+          "name": "Kevin Akpoguma",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.bundesliga.com/de/bundesliga/news/voraussichtliche-aufstellungen-spieltag-verletzungen-sperren-ubersicht-34-24397"
+        },
+        {
+          "name": "Albian Hajdari",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.bundesliga.com/de/bundesliga/news/voraussichtliche-aufstellungen-spieltag-verletzungen-sperren-ubersicht-34-24397"
+        },
+        {
+          "name": "Anton Stach",
+          "nummer": null,
+          "position": "DM",
+          "verifiziert_via": "https://www.bundesliga.com/de/bundesliga/news/voraussichtliche-aufstellungen-spieltag-verletzungen-sperren-ubersicht-34-24397"
+        },
+        {
+          "name": "Grischa Proemel",
+          "nummer": null,
+          "position": "ZM",
+          "verifiziert_via": "https://www.bundesliga.com/de/bundesliga/news/voraussichtliche-aufstellungen-spieltag-verletzungen-sperren-ubersicht-34-24397"
+        },
+        {
+          "name": "Andrej Kramaric",
+          "nummer": null,
+          "position": "OM/ST",
+          "verifiziert_via": "https://www.bundesliga.com/de/bundesliga/news/voraussichtliche-aufstellungen-spieltag-verletzungen-sperren-ubersicht-34-24397"
+        },
+        {
+          "name": "Tim Lemperle",
+          "nummer": null,
+          "position": "ST/RF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/borussia-monchengladbach-vs-hoffenheim-prediction-lineups-odds-2026-05-16/",
+          "hinweis": "Ueber 2.5 Schuesse-Quote -105 US ~ 1.95 - in Form."
+        },
+        {
+          "name": "Wout Weghorst",
+          "nummer": null,
+          "position": "ST",
+          "verifiziert_via": "https://www.bundesliga.com/de/bundesliga/news/voraussichtliche-aufstellungen-spieltag-verletzungen-sperren-ubersicht-34-24397"
+        },
+        {
+          "name": "Bazoumana Toure / Bisseck",
+          "nummer": null,
+          "position": "RF",
+          "verifiziert_via": "https://www.bundesliga.com/de/bundesliga/news/voraussichtliche-aufstellungen-spieltag-verletzungen-sperren-ubersicht-34-24397"
+        }
+      ],
+      "injuries_heim": [
+        "Lukas Castrop (gelb-gesperrt MD34)",
+        "Florian Neuhaus / Ngoumou (OUT)",
+        "Rocco Reitz (OUT)"
+      ],
+      "injuries_gast": [
+        "Valentin Gendrey (Knoechelprobleme, OUT)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - kein europaeischer Wettbewerb.",
+        "gast": "keine - kein europaeischer Wettbewerb diese Saison.",
+        "quellen": []
+      },
+      "saisonziel_heim": "Platz 13 mit 35 Pkt - Klassenerhalt safe, kein Tabellen-Druck. Saison-Abschluss in unspektakulaerer Lage.",
+      "saisonziel_gast": "Platz 5 mit 61 Pkt - punktgleich mit Stuttgart (4.) aber schlechtere GD. CL-Quali NOCH offen mit Sieg + Stuttgart-Niederlage moeglich. EL-Platz mit hoher Wahrscheinlichkeit sicher.",
+      "tabellenstand": {
+        "heim_platz": 13,
+        "heim_pkt": 35,
+        "gast_platz": 5,
+        "gast_pkt": 61
+      },
+      "form_heim_letzte_5": "1 Sieg / 2 Remis / 2 Niederlagen. Niederlage 1:3 in Augsburg am MD33.",
+      "form_gast_letzte_5": "3 Siege in letzten 4 BL-Spielen inkl. 1:0 gegen Bremen am MD33. Klar Form-Favorit.",
+      "recovery_heim": "MD33 09./10.05. - 6 Tage Recovery.",
+      "recovery_gast": "MD33 09./10.05. - 6 Tage Recovery.",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 2.9,
+          "draw": 3.5,
+          "sieg_gast": 2.2,
+          "ueber_2_5": 1.7,
+          "unter_2_5": 2.1,
+          "btts_ja": 1.65,
+          "btts_nein": 2.2,
+          "dc_1x": 1.55,
+          "dc_x2": 1.35,
+          "torschuetzen": {
+            "Tim Kleindienst": 2.4,
+            "Andrej Kramaric": 2.8,
+            "Wout Weghorst": 3.0,
+            "Tim Lemperle": 2.7,
+            "Robin Hack": 4.0,
+            "Franck Honorat": 4.2
+          }
+        },
+        "_quelle": "Sportsgambler: Gladbach AH +0.75 -110 US implied. Hin: Hoffenheim 5:1 gewann. Bei bet365 live pruefen."
+      },
+      "news_kompakt": [
+        "Hoffenheim klar Form-Favorit (3 Siege in letzten 4).",
+        "Hinspiel: Hoffenheim gewann 5:1.",
+        "Gladbach mit Castrop-Sperre + Ngoumou/Reitz-Ausfaellen.",
+        "Hoffenheim noch CL-Quali-Chance mit Sieg + Stuttgart-Niederlage."
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/borussia-monchengladbach-vs-hoffenheim-prediction-lineups-odds-2026-05-16/",
+        "https://www.bundesliga.com/de/bundesliga/news/voraussichtliche-aufstellungen-spieltag-verletzungen-sperren-ubersicht-34-24397"
+      ]
+    },
+    {
+      "id": "2026-05-16-che-mci",
+      "liga": "FA Cup Finale",
+      "matchday": "Final",
+      "heim": "Chelsea FC",
+      "gast": "Manchester City",
+      "anstoss": "2026-05-16T16:00:00+02:00",
+      "stadion": "Wembley Stadium, London",
+      "schiedsrichter": "noch nicht oeffentlich (FA-Cup-Final-Schiedsrichter typisch erst kurz vor Spiel angekuendigt)",
+      "rotations_warnung": "keine - beide Teams haben PL-Saison so gut wie abgeschlossen (Sunday-Spiele bereits durchgespielt) und volle Aufmerksamkeit auf FA-Cup-Final.",
+      "squad_heim": [
+        {
+          "name": "Robert Sanchez",
+          "nummer": null,
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/chelsea/fa-cup/preview/chelsea-vs-man-city-prediction-team-news-lineups_597487.html",
+          "hinweis": "Trainierte voll, fit fuer Start."
+        },
+        {
+          "name": "Malo Gusto",
+          "nummer": null,
+          "position": "RV",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/chelsea/fa-cup/preview/chelsea-vs-man-city-prediction-team-news-lineups_597487.html"
+        },
+        {
+          "name": "Wesley Fofana / Chalobah",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/chelsea/fa-cup/preview/chelsea-vs-man-city-prediction-team-news-lineups_597487.html"
+        },
+        {
+          "name": "Levi Colwill",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/chelsea/fa-cup/preview/chelsea-vs-man-city-prediction-team-news-lineups_597487.html"
+        },
+        {
+          "name": "Marc Cucurella / Hato",
+          "nummer": null,
+          "position": "LV",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/chelsea/fa-cup/preview/chelsea-vs-man-city-prediction-team-news-lineups_597487.html"
+        },
+        {
+          "name": "Reece James",
+          "nummer": null,
+          "position": "DM",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/chelsea/fa-cup/preview/chelsea-vs-man-city-prediction-team-news-lineups_597487.html"
+        },
+        {
+          "name": "Moises Caicedo",
+          "nummer": null,
+          "position": "DM",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/chelsea/fa-cup/preview/chelsea-vs-man-city-prediction-team-news-lineups_597487.html"
+        },
+        {
+          "name": "Cole Palmer",
+          "nummer": null,
+          "position": "OM/RF",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/chelsea/fa-cup/preview/chelsea-vs-man-city-prediction-team-news-lineups_597487.html",
+          "hinweis": "Anytime-Scorer 4.00 (bet365 3/1)."
+        },
+        {
+          "name": "Enzo Fernandez",
+          "nummer": null,
+          "position": "OM",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/chelsea/fa-cup/preview/chelsea-vs-man-city-prediction-team-news-lineups_597487.html"
+        },
+        {
+          "name": "Pedro Neto",
+          "nummer": null,
+          "position": "LF",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/chelsea/fa-cup/preview/chelsea-vs-man-city-prediction-team-news-lineups_597487.html",
+          "hinweis": "Trainierte mit Knock, Start unsicher."
+        },
+        {
+          "name": "Joao Pedro",
+          "nummer": null,
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/chelsea/fa-cup/preview/chelsea-vs-man-city-prediction-team-news-lineups_597487.html"
+        }
+      ],
+      "squad_gast": [
+        {
+          "name": "James Trafford",
+          "nummer": null,
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/chelsea/fa-cup/preview/chelsea-vs-man-city-prediction-team-news-lineups_597487.html"
+        },
+        {
+          "name": "Matheus Nunes",
+          "nummer": null,
+          "position": "RV",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/chelsea/fa-cup/preview/chelsea-vs-man-city-prediction-team-news-lineups_597487.html"
+        },
+        {
+          "name": "Abdukodir Khusanov",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/chelsea/fa-cup/preview/chelsea-vs-man-city-prediction-team-news-lineups_597487.html"
+        },
+        {
+          "name": "Marc Guehi",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/chelsea/fa-cup/preview/chelsea-vs-man-city-prediction-team-news-lineups_597487.html"
+        },
+        {
+          "name": "Nico O'Reilly",
+          "nummer": null,
+          "position": "LV",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/chelsea/fa-cup/preview/chelsea-vs-man-city-prediction-team-news-lineups_597487.html"
+        },
+        {
+          "name": "Nico Gonzalez",
+          "nummer": null,
+          "position": "DM",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/chelsea/fa-cup/preview/chelsea-vs-man-city-prediction-team-news-lineups_597487.html"
+        },
+        {
+          "name": "Bernardo Silva",
+          "nummer": null,
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/chelsea/fa-cup/preview/chelsea-vs-man-city-prediction-team-news-lineups_597487.html"
+        },
+        {
+          "name": "Antoine Semenyo",
+          "nummer": null,
+          "position": "RF",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/chelsea/fa-cup/preview/chelsea-vs-man-city-prediction-team-news-lineups_597487.html"
+        },
+        {
+          "name": "Rayan Cherki",
+          "nummer": null,
+          "position": "OM",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/chelsea/fa-cup/preview/chelsea-vs-man-city-prediction-team-news-lineups_597487.html"
+        },
+        {
+          "name": "Jeremy Doku",
+          "nummer": null,
+          "position": "LF",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/chelsea/fa-cup/preview/chelsea-vs-man-city-prediction-team-news-lineups_597487.html",
+          "hinweis": "Form-Stark: 5 Tore + 2 Assists in 8 Spielen seit International-Break, inkl. Tor 3:0 gegen Chelsea Anfang April. Anytime-Scorer-Top-Pick."
+        },
+        {
+          "name": "Erling Haaland",
+          "nummer": 9,
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/chelsea/fa-cup/preview/chelsea-vs-man-city-prediction-team-news-lineups_597487.html",
+          "hinweis": "Man-of-the-Match-Quote 5.50 (9-2 bet365)."
+        }
+      ],
+      "injuries_heim": [
+        "Estevao Willian (Knie, OUT)",
+        "Jamie Gittens (Oberschenkelzerrung, OUT)",
+        "Jesse Derry (Kopfverletzung, OUT)",
+        "Alejandro Garnacho / Pedro Neto (Knocks, Q/Doubtful)"
+      ],
+      "injuries_gast": [
+        "Rodri (Leistenprobleme, Q/Doubtful - aber Erwartung positiv laut Sportsmole)",
+        "Josko Gvardiol (fit zurueck nach 4-Monaten-Pause)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Champions League ausgeschieden (Achtelfinale Saison 2025-26); PL-Saison faktisch abgeschlossen (1 Spiel offen). Voll-Fokus FA Cup.",
+        "gast": "keine - Champions League ausgeschieden (Halbfinale); PL faktisch abgeschlossen. Voll-Fokus FA Cup.",
+        "quellen": [
+          "https://en.wikipedia.org/wiki/2025%E2%80%9326_FA_Cup_Final",
+          "https://www.mancity.com/news/mens/chelsea-v-city-fa-cup-final-match-preview-16-may-63914269"
+        ]
+      },
+      "saisonziel_heim": "FA Cup Final-Sieg = einziger Saison-Titel. Chelsea seit Maerz nur Siege im FA Cup, 8 Niederlagen in allen anderen Wettbewerben.",
+      "saisonziel_gast": "FA Cup Final-Sieg = Trostpreis nach enttaeuschender Saison (kein PL-Titel, kein CL-Titel). 9 Spiele in Folge ungeschlagen, klar Form-Favorit.",
+      "tabellenstand": {
+        "hinweis": "Nicht relevant fuer FA Cup Final"
+      },
+      "form_heim_letzte_5": "L-L-L-W-L-D (gemischt, nur 1 Sieg in letzten 6).",
+      "form_gast_letzte_5": "W-W-W-D-W-W (9 ungeschlagen in Folge, klar dominant).",
+      "recovery_heim": "Letztes Spiel typisch 11.05. - 5 Tage Recovery.",
+      "recovery_gast": "Letztes Spiel typisch 10.05. - 6 Tage Recovery.",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 4.75,
+          "draw": 4.0,
+          "sieg_gast": 1.7,
+          "_hinweis": "Chelsea 15/4 = 4.75, Draw 3/1 = 4.00, City 7/10 = 1.70 (bet365 direkt laut Racing Post).",
+          "ueber_2_5": 1.73,
+          "unter_2_5": 2.08,
+          "btts_ja": 1.85,
+          "btts_nein": 1.85,
+          "dc_1x": 2.1,
+          "dc_x2": 1.2,
+          "dc_12": 1.35,
+          "torschuetzen": {
+            "Erling Haaland": 1.8,
+            "Cole Palmer": 4.0,
+            "Jeremy Doku": 3.5,
+            "Joao Pedro": 4.0,
+            "Bernardo Silva": 5.5,
+            "Rayan Cherki": 6.0,
+            "Pedro Neto": 5.0,
+            "Antoine Semenyo": 6.0
+          }
+        },
+        "_quelle": "bet365 direkt via Racing Post + bettingodds.com: City 7/10 = 1.70 / Draw 3-1 = 4.00 / Chelsea 15-4 = 4.75. Palmer 3/1 anytime laut Bet365 lt. CBSSports. Haaland Man-of-the-Match 9/2 = 5.50, Anytime Quote-Naeherung ca. 1.80. Bei bet365 live pruefen."
+      },
+      "news_kompakt": [
+        "Manchester City 9 Spiele ungeschlagen, klare Form-Favoriten (Quote 1.70).",
+        "Chelsea seit Maerz nur FA-Cup-Siege, 8 PL-Niederlagen - kommt unter Druck nach Wembley.",
+        "Rodri-Comeback erwartet trotz Leiste-Issues.",
+        "City hat letzte 13 H2Hs gegen Chelsea ungeschlagen (10 Siege).",
+        "Doku trifft in 5 von letzten 8 - Top-Anytime-Pick City. Palmer Top-Anytime-Pick Chelsea."
+      ],
+      "quellen_aggregator": [
+        "https://www.racingpost.com/sport/football-tips/fa-cup/fa-cup-final-prediction-chelsea-vs-manchester-city-aqrc58G956PC/",
+        "https://www.sportsmole.co.uk/football/chelsea/fa-cup/preview/chelsea-vs-man-city-prediction-team-news-lineups_597487.html",
+        "https://news.bet365.com/en-gb/article/chelsea-v-manchester-city-fa-cup-final-odds/2026042617181709200",
+        "https://www.bettingodds.com/football/fa-cup/16-05-2026/chelsea-vs-manchester-city",
+        "https://www.aljazeera.com/sports/2026/5/15/fa-cup-final-chelsea-vs-manchester-city-teams-start-lineups"
+      ]
+    },
+    {
+      "id": "2026-05-17-mun-nfo",
+      "liga": "Premier League",
+      "matchday": 37,
+      "heim": "Manchester United",
+      "gast": "Nottingham Forest",
+      "anstoss": "2026-05-17T13:30:00+02:00",
+      "stadion": "Old Trafford, Manchester",
+      "schiedsrichter": "noch nicht oeffentlich",
+      "saison_event": "Old Trafford-Saison-Abschluss-Stimmung (PL MD37 von 38).",
+      "squad_heim": [
+        {
+          "name": "Senne Lammens",
+          "nummer": null,
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-united-vs-nottingham-forest-prediction-lineups-odds-2026-05-17/"
+        },
+        {
+          "name": "Noussair Mazraoui",
+          "nummer": null,
+          "position": "RV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-united-vs-nottingham-forest-prediction-lineups-odds-2026-05-17/"
+        },
+        {
+          "name": "Harry Maguire",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-united-vs-nottingham-forest-prediction-lineups-odds-2026-05-17/"
+        },
+        {
+          "name": "Lisandro Martinez",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-united-vs-nottingham-forest-prediction-lineups-odds-2026-05-17/"
+        },
+        {
+          "name": "Luke Shaw",
+          "nummer": null,
+          "position": "LV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-united-vs-nottingham-forest-prediction-lineups-odds-2026-05-17/"
+        },
+        {
+          "name": "Mason Mount",
+          "nummer": null,
+          "position": "DM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-united-vs-nottingham-forest-prediction-lineups-odds-2026-05-17/"
+        },
+        {
+          "name": "Kobbie Mainoo",
+          "nummer": null,
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-united-vs-nottingham-forest-prediction-lineups-odds-2026-05-17/"
+        },
+        {
+          "name": "Casemiro",
+          "nummer": null,
+          "position": "DM/ZM",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/man-utd/injury-news/injuries-and-suspensions/sesko-casemiro-ugarte-de-ligt-latest-man-united-injury-suspension-list-vs-forest_597501.html",
+          "hinweis": "Back in training, set to start on Sunday."
+        },
+        {
+          "name": "Amad Diallo",
+          "nummer": null,
+          "position": "RF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-united-vs-nottingham-forest-prediction-lineups-odds-2026-05-17/"
+        },
+        {
+          "name": "Bruno Fernandes",
+          "nummer": null,
+          "position": "OM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-united-vs-nottingham-forest-prediction-lineups-odds-2026-05-17/"
+        },
+        {
+          "name": "Matheus Cunha",
+          "nummer": null,
+          "position": "LF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-united-vs-nottingham-forest-prediction-lineups-odds-2026-05-17/"
+        },
+        {
+          "name": "Joshua Zirkzee / Sesko",
+          "nummer": null,
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-united-vs-nottingham-forest-prediction-lineups-odds-2026-05-17/",
+          "hinweis": "Sesko verletzt, Zirkzee Stamm."
+        }
+      ],
+      "squad_gast": [
+        {
+          "name": "Matz Sels",
+          "nummer": null,
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/man-utd/predicted-lineups/wood-hutchinson-return-forest-predicted-xi-vs-man-utd_597585.html"
+        },
+        {
+          "name": "Jair Cunha",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/man-utd/predicted-lineups/wood-hutchinson-return-forest-predicted-xi-vs-man-utd_597585.html"
+        },
+        {
+          "name": "Nikola Milenkovic",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/man-utd/predicted-lineups/wood-hutchinson-return-forest-predicted-xi-vs-man-utd_597585.html"
+        },
+        {
+          "name": "Morato",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/man-utd/predicted-lineups/wood-hutchinson-return-forest-predicted-xi-vs-man-utd_597585.html"
+        },
+        {
+          "name": "Neco Williams",
+          "nummer": null,
+          "position": "RV/RM",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/man-utd/predicted-lineups/wood-hutchinson-return-forest-predicted-xi-vs-man-utd_597585.html"
+        },
+        {
+          "name": "Nicolas Dominguez",
+          "nummer": null,
+          "position": "DM",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/man-utd/predicted-lineups/wood-hutchinson-return-forest-predicted-xi-vs-man-utd_597585.html"
+        },
+        {
+          "name": "Elliot Anderson",
+          "nummer": null,
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/man-utd/predicted-lineups/wood-hutchinson-return-forest-predicted-xi-vs-man-utd_597585.html",
+          "hinweis": "Ueber 0.5 Schuesse-Quote -167 US ~ 1.60. Trifft in letzten Spielen."
+        },
+        {
+          "name": "Luca Netz",
+          "nummer": null,
+          "position": "LV/LM",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/man-utd/predicted-lineups/wood-hutchinson-return-forest-predicted-xi-vs-man-utd_597585.html"
+        },
+        {
+          "name": "Dilane Bakwa",
+          "nummer": null,
+          "position": "RF/RM",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/man-utd/predicted-lineups/wood-hutchinson-return-forest-predicted-xi-vs-man-utd_597585.html"
+        },
+        {
+          "name": "Igor Jesus",
+          "nummer": null,
+          "position": "OM/ST",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/man-utd/predicted-lineups/wood-hutchinson-return-forest-predicted-xi-vs-man-utd_597585.html"
+        },
+        {
+          "name": "Taiwo Awoniyi",
+          "nummer": null,
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/man-utd/predicted-lineups/wood-hutchinson-return-forest-predicted-xi-vs-man-utd_597585.html",
+          "hinweis": "Anytime-Scorer +300 US -> 4.00 Decimal."
+        },
+        {
+          "name": "Morgan Gibbs-White",
+          "nummer": null,
+          "position": "OM",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/man-utd/predicted-lineups/wood-hutchinson-return-forest-predicted-xi-vs-man-utd_597585.html",
+          "hinweis": "13 Saison-Tore, eigentlich Topscorer Forest - aber laut SI Verletzt-Liste OUT - mit Vorsicht zu behandeln."
+        }
+      ],
+      "injuries_heim": [
+        "Matthijs de Ligt (Rueckenprobleme, OUT - 23 PL-Spiele verpasst)",
+        "Benjamin Sesko (Verletzung, OUT)",
+        "Manuel Ugarte (Verletzung, Q)"
+      ],
+      "injuries_gast": [
+        "John Victor (OUT)",
+        "Murillo (OUT)",
+        "Nicolo Savona (OUT)",
+        "Ola Aina (OUT)",
+        "Willy Boly (OUT)",
+        "Zach Abbott (OUT)",
+        "Ibrahim Sangare (OUT)",
+        "Morgan Gibbs-White (OUT laut SI - widerspruechlich zu Predicted-XI)",
+        "Callum Hudson-Odoi (OUT)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Champions League ausgeschieden, kein DFB-Pokal-aequivalent. Voll-Fokus PL.",
+        "gast": "keine - Conference League ausgeschieden (Achtelfinale-Aus laut Saison-Verlauf). Voll-Fokus PL.",
+        "quellen": []
+      },
+      "saisonziel_heim": "Platz 3 PL - Champions League fuer naechste Saison gesichert. Letzter Old-Trafford-Auftritt der Saison.",
+      "saisonziel_gast": "Platz 16 PL - Klassenerhalt safe, kein Tabellen-Druck.",
+      "tabellenstand": {
+        "heim_platz": 3,
+        "heim_pkt": null,
+        "gast_platz": 16,
+        "gast_pkt": null
+      },
+      "form_heim_letzte_5": "Letztes Spiel 0:0 in Sunderland - schwach offensiv.",
+      "form_gast_letzte_5": "1:1 zu Hause gegen Newcastle - Anderson getroffen. Ungeschlagen in letzten 3 H2Hs gegen United (letztes 2:2 in Forest).",
+      "recovery_heim": "MD36 09./10.05. - 6-7 Tage Recovery.",
+      "recovery_gast": "MD36 09./10.05. - 6-7 Tage Recovery.",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 1.57,
+          "draw": 4.3,
+          "sieg_gast": 4.9,
+          "ueber_2_5": 1.9,
+          "unter_2_5": 1.9,
+          "btts_ja": 1.85,
+          "btts_nein": 1.85,
+          "dc_1x": 1.2,
+          "dc_x2": 2.3,
+          "torschuetzen": {
+            "Joshua Zirkzee": 3.2,
+            "Bruno Fernandes": 3.5,
+            "Matheus Cunha": 3.2,
+            "Amad Diallo": 3.8,
+            "Taiwo Awoniyi": 4.0,
+            "Igor Jesus": 4.5,
+            "Dilane Bakwa": 5.5
+          }
+        },
+        "_quelle": "Sportsgambler: ManU -175 US -> 1.57 / Draw +330 US -> 4.30 / Forest +390 US -> 4.90. Awoniyi +300 US anytime -> 4.00. Bei bet365 live pruefen."
+      },
+      "news_kompakt": [
+        "United CL-Quali safe, Old-Trafford-Saison-Abschluss-Stimmung.",
+        "Forest ungeschlagen in letzten 3 H2Hs (laut Sportsgambler).",
+        "Forest mit 9 Ausfaellen massiv geschwaecht.",
+        "Casemiro zurueck im Training, vermutlich Start."
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/manchester-united-vs-nottingham-forest-prediction-lineups-odds-2026-05-17/",
+        "https://www.sportsmole.co.uk/football/man-utd/injury-news/injuries-and-suspensions/sesko-casemiro-ugarte-de-ligt-latest-man-united-injury-suspension-list-vs-forest_597501.html",
+        "https://www.sportsmole.co.uk/football/man-utd/predicted-lineups/wood-hutchinson-return-forest-predicted-xi-vs-man-utd_597585.html"
+      ]
+    },
+    {
+      "id": "2026-05-17-sev-rma",
+      "liga": "LaLiga",
+      "matchday": 37,
+      "heim": "Sevilla FC",
+      "gast": "Real Madrid",
+      "anstoss": "2026-05-17T19:00:00+02:00",
+      "stadion": "Estadio Ramon Sanchez Pizjuan, Sevilla",
+      "schiedsrichter": "noch nicht oeffentlich",
+      "squad_heim": [
+        {
+          "name": "Odysseas Vlachodimos / Nyland",
+          "nummer": null,
+          "position": "TW",
+          "verifiziert_via": "https://www.futbolfantasy.com/laliga/noticias/143947-alineaciones-probables-y-previa-fantasy-del-sevilla-real-madrid"
+        },
+        {
+          "name": "Juanlu Sanchez / Carmona",
+          "nummer": null,
+          "position": "RV",
+          "verifiziert_via": "https://www.futbolfantasy.com/laliga/noticias/143947-alineaciones-probables-y-previa-fantasy-del-sevilla-real-madrid"
+        },
+        {
+          "name": "Andres Castrin",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.futbolfantasy.com/laliga/noticias/143947-alineaciones-probables-y-previa-fantasy-del-sevilla-real-madrid"
+        },
+        {
+          "name": "Kike Salas",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.futbolfantasy.com/laliga/noticias/143947-alineaciones-probables-y-previa-fantasy-del-sevilla-real-madrid"
+        },
+        {
+          "name": "Gabriel Suazo",
+          "nummer": null,
+          "position": "LV",
+          "verifiziert_via": "https://www.futbolfantasy.com/laliga/noticias/143947-alineaciones-probables-y-previa-fantasy-del-sevilla-real-madrid"
+        },
+        {
+          "name": "Nemanja Gudelj",
+          "nummer": null,
+          "position": "DM",
+          "verifiziert_via": "https://www.futbolfantasy.com/laliga/noticias/143947-alineaciones-probables-y-previa-fantasy-del-sevilla-real-madrid"
+        },
+        {
+          "name": "Lucien Agoume",
+          "nummer": null,
+          "position": "ZM",
+          "verifiziert_via": "https://www.futbolfantasy.com/laliga/noticias/143947-alineaciones-probables-y-previa-fantasy-del-sevilla-real-madrid"
+        },
+        {
+          "name": "Ruben Vargas",
+          "nummer": null,
+          "position": "RF",
+          "verifiziert_via": "https://www.futbolfantasy.com/laliga/noticias/143947-alineaciones-probables-y-previa-fantasy-del-sevilla-real-madrid"
+        },
+        {
+          "name": "Chidera Ejuke",
+          "nummer": null,
+          "position": "LF",
+          "verifiziert_via": "https://www.futbolfantasy.com/laliga/noticias/143947-alineaciones-probables-y-previa-fantasy-del-sevilla-real-madrid"
+        },
+        {
+          "name": "Neal Maupay",
+          "nummer": null,
+          "position": "OM/ST",
+          "verifiziert_via": "https://www.futbolfantasy.com/laliga/noticias/143947-alineaciones-probables-y-previa-fantasy-del-sevilla-real-madrid"
+        },
+        {
+          "name": "Akor Adams",
+          "nummer": null,
+          "position": "ST",
+          "verifiziert_via": "https://www.futbolfantasy.com/laliga/noticias/143947-alineaciones-probables-y-previa-fantasy-del-sevilla-real-madrid",
+          "hinweis": "Top-Torschuetze Sevilla 10 Tore."
+        }
+      ],
+      "squad_gast": [
+        {
+          "name": "Thibaut Courtois",
+          "nummer": 1,
+          "position": "TW",
+          "verifiziert_via": "https://www.futbolfantasy.com/laliga/noticias/143947-alineaciones-probables-y-previa-fantasy-del-sevilla-real-madrid"
+        },
+        {
+          "name": "Trent Alexander-Arnold",
+          "nummer": null,
+          "position": "RV",
+          "verifiziert_via": "https://www.futbolfantasy.com/laliga/noticias/143947-alineaciones-probables-y-previa-fantasy-del-sevilla-real-madrid"
+        },
+        {
+          "name": "Antonio Ruediger",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.futbolfantasy.com/laliga/noticias/143947-alineaciones-probables-y-previa-fantasy-del-sevilla-real-madrid"
+        },
+        {
+          "name": "Raul Asencio",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.futbolfantasy.com/laliga/noticias/143947-alineaciones-probables-y-previa-fantasy-del-sevilla-real-madrid"
+        },
+        {
+          "name": "Fran Garcia",
+          "nummer": null,
+          "position": "LV",
+          "verifiziert_via": "https://www.futbolfantasy.com/laliga/noticias/143947-alineaciones-probables-y-previa-fantasy-del-sevilla-real-madrid"
+        },
+        {
+          "name": "Aurelien Tchouameni",
+          "nummer": null,
+          "position": "DM",
+          "verifiziert_via": "https://www.futbolfantasy.com/laliga/noticias/143947-alineaciones-probables-y-previa-fantasy-del-sevilla-real-madrid"
+        },
+        {
+          "name": "Eduardo Camavinga",
+          "nummer": null,
+          "position": "ZM",
+          "verifiziert_via": "https://www.futbolfantasy.com/laliga/noticias/143947-alineaciones-probables-y-previa-fantasy-del-sevilla-real-madrid"
+        },
+        {
+          "name": "Jude Bellingham",
+          "nummer": null,
+          "position": "ZM/OM",
+          "verifiziert_via": "https://www.futbolfantasy.com/laliga/noticias/143947-alineaciones-probables-y-previa-fantasy-del-sevilla-real-madrid"
+        },
+        {
+          "name": "Brahim Diaz",
+          "nummer": null,
+          "position": "RF/OM",
+          "verifiziert_via": "https://www.futbolfantasy.com/laliga/noticias/143947-alineaciones-probables-y-previa-fantasy-del-sevilla-real-madrid"
+        },
+        {
+          "name": "Kylian Mbappe",
+          "nummer": null,
+          "position": "ST",
+          "verifiziert_via": "https://www.futbolfantasy.com/laliga/noticias/143947-alineaciones-probables-y-previa-fantasy-del-sevilla-real-madrid",
+          "hinweis": "Top-Scorer Real Madrid mit 24 LaLiga-Toren in 29 Spielen. Anytime-Quote 1.83 laut Goal-Editorial."
+        },
+        {
+          "name": "Vinicius Junior",
+          "nummer": null,
+          "position": "LF",
+          "verifiziert_via": "https://www.futbolfantasy.com/laliga/noticias/143947-alineaciones-probables-y-previa-fantasy-del-sevilla-real-madrid",
+          "hinweis": "4 LaLiga-Tore. Ueber 2.5 Schuesse in 5/9 Auswaerts-LaLiga-Spielen."
+        }
+      ],
+      "injuries_heim": [
+        "Sevilla-Verletzte-Liste nicht oeffentlich detailliert"
+      ],
+      "injuries_gast": [
+        "Real-Madrid-Verletzte-Liste nicht detailliert in Quellen (Saisonende)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Sevilla aus europaeischen Wettbewerben in dieser Saison.",
+        "gast": "keine - Real Madrid Champions League ausgeschieden (Saison 2025-26 verlor LaLiga gegen Barcelona).",
+        "quellen": []
+      },
+      "saisonziel_heim": "Platz 13 mit 43 Pkt nach 36 Spielen - Klassenerhalt safe aber knapp (laut OnSevilla muss Sevilla nicht mehr direkt um Klassenerhalt fuerchten). Saison-Abschluss zur Form-Bestaetigung.",
+      "saisonziel_gast": "Platz 2 mit 77 Pkt - LaLiga-Titel verloren gegen Barcelona. Saison-Frust. CL ausgeschieden, Real Madrid in Krise institutionell (laut Quellen).",
+      "tabellenstand": {
+        "heim_platz": 13,
+        "heim_pkt": 43,
+        "gast_platz": 2,
+        "gast_pkt": 77
+      },
+      "form_heim_letzte_5": "3 Siege in Folge zuletzt (Real Sociedad 1:0, Espanyol 2:1, Villarreal 2:3).",
+      "form_gast_letzte_5": "6 Siege / 2 Niederlagen / 2 Remis in letzten 10. Real letzte 6 H2Hs gegen Sevilla in Pizjuan: 5 Siege.",
+      "recovery_heim": "MD36 ca. 10./11.05. - 6 Tage Recovery.",
+      "recovery_gast": "MD36 ca. 10./11.05. - 6 Tage Recovery.",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 3.2,
+          "draw": 3.3,
+          "sieg_gast": 2.1,
+          "_hinweis": "Real Madrid Quote 11/10 = 2.10 laut Easyodds. Sevilla +220 US -> 3.20 (Sportsgambler).",
+          "ueber_2_5": 1.73,
+          "unter_2_5": 2.05,
+          "btts_ja": 1.75,
+          "btts_nein": 2.0,
+          "dc_1x": 1.55,
+          "dc_x2": 1.3,
+          "torschuetzen": {
+            "Kylian Mbappe": 1.83,
+            "Vinicius Junior": 2.5,
+            "Jude Bellingham": 3.0,
+            "Brahim Diaz": 3.8,
+            "Akor Adams": 3.5,
+            "Neal Maupay": 4.2,
+            "Ruben Vargas": 4.5
+          }
+        },
+        "_quelle": "Sportsgambler + Easyodds + Goal: Madrid +123 US -> 2.23, Real direkt 11/10 bet365 -> 2.10. Mbappe anytime 1.83 (Goal Editorial). Bei bet365 live pruefen."
+      },
+      "news_kompakt": [
+        "Real Madrid in Krise nach LaLiga-Titel-Verlust und CL-Aus.",
+        "Mbappe Top-Scorer mit 24 LaLiga-Toren.",
+        "Sevilla 3 Siege in Folge - Form-Trend aufwaerts.",
+        "Real letzte 6 H2Hs in Pizjuan: 5 Siege. Letzte 2 H2Hs: beide 2:0 Madrid."
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/sevilla-vs-real-madrid-prediction-lineups-odds-2026-05-17/",
+        "https://easyodds.com/sevilla-vs-real-madrid-betting-odds-tips-predictions-preview-17th-may-2026",
+        "https://www.futbolfantasy.com/laliga/noticias/143947-alineaciones-probables-y-previa-fantasy-del-sevilla-real-madrid"
+      ]
+    },
+    {
+      "id": "2026-05-17-bar-bet",
+      "liga": "LaLiga",
+      "matchday": 37,
+      "heim": "FC Barcelona",
+      "gast": "Real Betis",
+      "anstoss": "2026-05-17T21:15:00+02:00",
+      "stadion": "Spotify Camp Nou, Barcelona",
+      "schiedsrichter": "noch nicht oeffentlich",
+      "rotations_warnung": "Flick wird Rotation einsetzen (Yamal Saison-Aus, Raphinha von Sperre zurueck nur Bench). Lineup unklar.",
+      "squad_heim": [
+        {
+          "name": "Inaki Garcia / Pena",
+          "nummer": null,
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/barcelona/predicted-lineups/flick-to-make-10-changes-how-barca-could-line-up-against-real-betis_597584.html"
+        },
+        {
+          "name": "Joao Cancelo",
+          "nummer": null,
+          "position": "RV",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/barcelona/predicted-lineups/flick-to-make-10-changes-how-barca-could-line-up-against-real-betis_597584.html"
+        },
+        {
+          "name": "Andreas Christensen / Martin",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/barcelona/predicted-lineups/flick-to-make-10-changes-how-barca-could-line-up-against-real-betis_597584.html"
+        },
+        {
+          "name": "Pau Cubarsi",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/barcelona/predicted-lineups/flick-to-make-10-changes-how-barca-could-line-up-against-real-betis_597584.html"
+        },
+        {
+          "name": "Jules Kounde",
+          "nummer": null,
+          "position": "LV",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/barcelona/predicted-lineups/flick-to-make-10-changes-how-barca-could-line-up-against-real-betis_597584.html"
+        },
+        {
+          "name": "Pedri",
+          "nummer": null,
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/barcelona/predicted-lineups/flick-to-make-10-changes-how-barca-could-line-up-against-real-betis_597584.html"
+        },
+        {
+          "name": "Gavi",
+          "nummer": null,
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/barcelona/predicted-lineups/flick-to-make-10-changes-how-barca-could-line-up-against-real-betis_597584.html"
+        },
+        {
+          "name": "Fermin Lopez",
+          "nummer": null,
+          "position": "OM/LF",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/barcelona/predicted-lineups/flick-to-make-10-changes-how-barca-could-line-up-against-real-betis_597584.html"
+        },
+        {
+          "name": "Dani Olmo",
+          "nummer": null,
+          "position": "OM",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/barcelona/predicted-lineups/flick-to-make-10-changes-how-barca-could-line-up-against-real-betis_597584.html"
+        },
+        {
+          "name": "Bardagji / Roony",
+          "nummer": null,
+          "position": "RF",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/barcelona/predicted-lineups/flick-to-make-10-changes-how-barca-could-line-up-against-real-betis_597584.html"
+        },
+        {
+          "name": "Robert Lewandowski",
+          "nummer": 9,
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/barcelona/predicted-lineups/flick-to-make-10-changes-how-barca-could-line-up-against-real-betis_597584.html"
+        }
+      ],
+      "squad_gast": [
+        {
+          "name": "Adrian Valles",
+          "nummer": null,
+          "position": "TW",
+          "verifiziert_via": "https://ratingbet.com/predictions/barcelona-vs-betis-prediction-team-news-lineups-expert-analysis/"
+        },
+        {
+          "name": "Hector Bellerin",
+          "nummer": null,
+          "position": "RV",
+          "verifiziert_via": "https://ratingbet.com/predictions/barcelona-vs-betis-prediction-team-news-lineups-expert-analysis/"
+        },
+        {
+          "name": "Natan",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://ratingbet.com/predictions/barcelona-vs-betis-prediction-team-news-lineups-expert-analysis/"
+        },
+        {
+          "name": "Marc Bartra",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://ratingbet.com/predictions/barcelona-vs-betis-prediction-team-news-lineups-expert-analysis/",
+          "hinweis": "Verletzungs-Status laut Sportsmole OUT - widerspruechlich."
+        },
+        {
+          "name": "Romain Perraud / Rodriguez",
+          "nummer": null,
+          "position": "LV",
+          "verifiziert_via": "https://ratingbet.com/predictions/barcelona-vs-betis-prediction-team-news-lineups-expert-analysis/"
+        },
+        {
+          "name": "Fidalgo",
+          "nummer": null,
+          "position": "DM",
+          "verifiziert_via": "https://ratingbet.com/predictions/barcelona-vs-betis-prediction-team-news-lineups-expert-analysis/"
+        },
+        {
+          "name": "Sofyan Amrabat",
+          "nummer": null,
+          "position": "DM",
+          "verifiziert_via": "https://ratingbet.com/predictions/barcelona-vs-betis-prediction-team-news-lineups-expert-analysis/"
+        },
+        {
+          "name": "Ez Abde",
+          "nummer": null,
+          "position": "LM",
+          "verifiziert_via": "https://ratingbet.com/predictions/barcelona-vs-betis-prediction-team-news-lineups-expert-analysis/"
+        },
+        {
+          "name": "Pablo Fornals",
+          "nummer": null,
+          "position": "OM",
+          "verifiziert_via": "https://ratingbet.com/predictions/barcelona-vs-betis-prediction-team-news-lineups-expert-analysis/"
+        },
+        {
+          "name": "Antony",
+          "nummer": null,
+          "position": "RF",
+          "verifiziert_via": "https://ratingbet.com/predictions/barcelona-vs-betis-prediction-team-news-lineups-expert-analysis/",
+          "hinweis": "Form-Star Betis. Anytime-Pick."
+        },
+        {
+          "name": "Cedric Bakambu",
+          "nummer": null,
+          "position": "ST",
+          "verifiziert_via": "https://ratingbet.com/predictions/barcelona-vs-betis-prediction-team-news-lineups-expert-analysis/"
+        }
+      ],
+      "injuries_heim": [
+        "Lamine Yamal (Oberschenkelzerrung, Saison-Aus - WM 2026 noch fit)",
+        "Raphinha (Sperre verbuesst - zurueck nur als Joker erwartet)"
+      ],
+      "injuries_gast": [
+        "Aitor Ruibal (OUT)",
+        "Marc Bartra (laut Sportsmole OUT - widerspruechlich zu Predicted-XI)",
+        "Cucho Hernandez (gesperrt)",
+        "Diego Llorente (gesperrt)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Champions League Final ja moeglich, aber Saison-Stand: Barcelona LaLiga-Meister, kein UEFA-Final mehr.",
+        "gast": "keine - Conference League ausgeschieden.",
+        "quellen": []
+      },
+      "saisonziel_heim": "LaLiga-Meister bereits fix (vor Saisonende). Letztes Heimspiel der Saison im Camp Nou. 18-0 Heimrekord ungeschlagen. Schock-Niederlage 0:1 in Alaves Mittwoch vor diesem Spiel.",
+      "saisonziel_gast": "Platz 5 LaLiga - CL-Quali fuer Saison 2026/27 bereits gesichert. Saison-Abschluss zur Form-Bestaetigung. Ungeschlagen seit Ende Maerz.",
+      "tabellenstand": {
+        "heim_platz": 1,
+        "heim_pkt": null,
+        "gast_platz": 5,
+        "gast_pkt": null
+      },
+      "form_heim_letzte_5": "11-Spiele-Siegesserie endete mit 0:1 in Alaves Mittwoch. Voher dominant.",
+      "form_gast_letzte_5": "Ungeschlagen seit Ende Maerz. 2:1 gegen Elche zuletzt. Strong Defensive Form.",
+      "recovery_heim": "Letztes Spiel Mittwoch 13.05. Alaves - 4 Tage Recovery.",
+      "recovery_gast": "Letztes Spiel ca. 10.05. Elche - 7 Tage Recovery.",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 1.62,
+          "draw": 4.2,
+          "sieg_gast": 4.5,
+          "ueber_2_5": 1.6,
+          "unter_2_5": 2.3,
+          "btts_ja": 1.55,
+          "btts_nein": 2.4,
+          "dc_1x": 1.2,
+          "dc_x2": 2.1,
+          "torschuetzen": {
+            "Robert Lewandowski": 1.85,
+            "Dani Olmo": 2.6,
+            "Fermin Lopez": 3.2,
+            "Antony": 3.8,
+            "Cedric Bakambu": 4.0,
+            "Ez Abde": 4.5
+          }
+        },
+        "_quelle": "Aggregator-Naeherung: Barcelona Heim-Favorit nach Sportsmole 2:1-Prognose. Spezifische bet365-Quoten nicht aus Sportsgambler-Page abrufbar; bei bet365 live pruefen."
+      },
+      "news_kompakt": [
+        "Barcelona LaLiga-Meister fix - 18-0 Heimrekord beendet vorgestern in Alaves.",
+        "Yamal Saison-Aus (Hamstring) - WM-fit.",
+        "Flick rotiert (~10 Wechsel laut Sportsmole).",
+        "Betis CL-Quali safe - ungeschlagen seit Ende Maerz - kann frei aufspielen."
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsmole.co.uk/football/barcelona/preview/barcelona-vs-betis-prediction-team-news-lineups_597580.html",
+        "https://www.sportsmole.co.uk/football/barcelona/predicted-lineups/flick-to-make-10-changes-how-barca-could-line-up-against-real-betis_597584.html",
+        "https://ratingbet.com/predictions/barcelona-vs-betis-prediction-team-news-lineups-expert-analysis/"
+      ]
+    },
+    {
+      "id": "2026-05-17-atm-gir",
+      "liga": "LaLiga",
+      "matchday": 37,
+      "heim": "Atletico Madrid",
+      "gast": "Girona FC",
+      "anstoss": "2026-05-17T19:00:00+02:00",
+      "stadion": "Riyadh Air Metropolitano, Madrid",
+      "schiedsrichter": "noch nicht oeffentlich",
+      "saison_event": "Griezmann-Special-Match (laut Atletico-Webseite).",
+      "squad_heim": [
+        {
+          "name": "Jan Oblak",
+          "nummer": null,
+          "position": "TW",
+          "verifiziert_via": "https://en.atleticodemadrid.com/prepartidos/atletico-de-madrid-girona-fc-17-05-2026-23-31"
+        },
+        {
+          "name": "Marcos Llorente / Pubill",
+          "nummer": null,
+          "position": "RV",
+          "verifiziert_via": "https://en.atleticodemadrid.com/prepartidos/atletico-de-madrid-girona-fc-17-05-2026-23-31",
+          "hinweis": "Llorente gesperrt - Pubill startet."
+        },
+        {
+          "name": "Jose Maria Gimenez",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://en.atleticodemadrid.com/prepartidos/atletico-de-madrid-girona-fc-17-05-2026-23-31",
+          "hinweis": "Verletzungsstatus offen - laut Sportsgambler OUT, laut Atletico-Webseite gelistet."
+        },
+        {
+          "name": "Robin Le Normand",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://en.atleticodemadrid.com/prepartidos/atletico-de-madrid-girona-fc-17-05-2026-23-31"
+        },
+        {
+          "name": "Mario Hermoso / Hancko",
+          "nummer": null,
+          "position": "LV",
+          "verifiziert_via": "https://en.atleticodemadrid.com/prepartidos/atletico-de-madrid-girona-fc-17-05-2026-23-31"
+        },
+        {
+          "name": "Samuel Lino / Ruggeri",
+          "nummer": null,
+          "position": "LM",
+          "verifiziert_via": "https://en.atleticodemadrid.com/prepartidos/atletico-de-madrid-girona-fc-17-05-2026-23-31"
+        },
+        {
+          "name": "Koke",
+          "nummer": null,
+          "position": "ZM",
+          "verifiziert_via": "https://en.atleticodemadrid.com/prepartidos/atletico-de-madrid-girona-fc-17-05-2026-23-31"
+        },
+        {
+          "name": "Pablo Barrios",
+          "nummer": null,
+          "position": "ZM",
+          "verifiziert_via": "https://en.atleticodemadrid.com/prepartidos/atletico-de-madrid-girona-fc-17-05-2026-23-31"
+        },
+        {
+          "name": "Rodrigo De Paul",
+          "nummer": null,
+          "position": "ZM/OM",
+          "verifiziert_via": "https://en.atleticodemadrid.com/prepartidos/atletico-de-madrid-girona-fc-17-05-2026-23-31"
+        },
+        {
+          "name": "Alvaro Morata / Sorloth",
+          "nummer": null,
+          "position": "ST",
+          "verifiziert_via": "https://en.atleticodemadrid.com/prepartidos/atletico-de-madrid-girona-fc-17-05-2026-23-31"
+        },
+        {
+          "name": "Antoine Griezmann",
+          "nummer": 7,
+          "position": "ST",
+          "verifiziert_via": "https://en.atleticodemadrid.com/prepartidos/atletico-de-madrid-girona-fc-17-05-2026-23-31"
+        },
+        {
+          "name": "Julian Alvarez",
+          "nummer": null,
+          "position": "ST/OM",
+          "verifiziert_via": "https://en.atleticodemadrid.com/prepartidos/atletico-de-madrid-girona-fc-17-05-2026-23-31",
+          "hinweis": "Knoechel-Issue, Status Q/Doubtful."
+        }
+      ],
+      "squad_gast": [
+        {
+          "name": "Paulo Gazzaniga",
+          "nummer": null,
+          "position": "TW",
+          "verifiziert_via": "https://www.gironafc.cat/en/matches/season-2025-2026-laliga-ea-sports-17-girona-fc-vs-atletico-de-madrid"
+        },
+        {
+          "name": "Yan Couto",
+          "nummer": null,
+          "position": "RV",
+          "verifiziert_via": "https://www.gironafc.cat/en/matches/season-2025-2026-laliga-ea-sports-17-girona-fc-vs-atletico-de-madrid"
+        },
+        {
+          "name": "Eric Garcia",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.gironafc.cat/en/matches/season-2025-2026-laliga-ea-sports-17-girona-fc-vs-atletico-de-madrid"
+        },
+        {
+          "name": "Daley Blind",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.gironafc.cat/en/matches/season-2025-2026-laliga-ea-sports-17-girona-fc-vs-atletico-de-madrid"
+        },
+        {
+          "name": "Miguel Gutierrez",
+          "nummer": null,
+          "position": "LV",
+          "verifiziert_via": "https://www.gironafc.cat/en/matches/season-2025-2026-laliga-ea-sports-17-girona-fc-vs-atletico-de-madrid"
+        },
+        {
+          "name": "Ivan Martin",
+          "nummer": null,
+          "position": "DM",
+          "verifiziert_via": "https://www.gironafc.cat/en/matches/season-2025-2026-laliga-ea-sports-17-girona-fc-vs-atletico-de-madrid"
+        },
+        {
+          "name": "Aleix Garcia",
+          "nummer": null,
+          "position": "ZM",
+          "verifiziert_via": "https://www.gironafc.cat/en/matches/season-2025-2026-laliga-ea-sports-17-girona-fc-vs-atletico-de-madrid"
+        },
+        {
+          "name": "Valery Fernandez",
+          "nummer": null,
+          "position": "RM",
+          "verifiziert_via": "https://www.gironafc.cat/en/matches/season-2025-2026-laliga-ea-sports-17-girona-fc-vs-atletico-de-madrid"
+        },
+        {
+          "name": "Pablo Torre",
+          "nummer": null,
+          "position": "OM",
+          "verifiziert_via": "https://www.gironafc.cat/en/matches/season-2025-2026-laliga-ea-sports-17-girona-fc-vs-atletico-de-madrid"
+        },
+        {
+          "name": "Savio Moreira",
+          "nummer": null,
+          "position": "LM",
+          "verifiziert_via": "https://www.gironafc.cat/en/matches/season-2025-2026-laliga-ea-sports-17-girona-fc-vs-atletico-de-madrid"
+        },
+        {
+          "name": "Artem Dovbyk",
+          "nummer": 9,
+          "position": "ST",
+          "verifiziert_via": "https://www.gironafc.cat/en/matches/season-2025-2026-laliga-ea-sports-17-girona-fc-vs-atletico-de-madrid"
+        }
+      ],
+      "injuries_heim": [
+        "Marcos Llorente (gesperrt)",
+        "Jose Maria Gimenez (Verletzung, Q/OUT)",
+        "Nahuel Molina (Verletzung, OUT)",
+        "Johnny Cardoso (Verletzung, OUT)",
+        "Julian Alvarez (Knoechel, Q)",
+        "Pablo Barrios / Nico Gonzalez / Giuliano Simeone (Q)"
+      ],
+      "injuries_gast": [
+        "Vladyslav Vanat (OUT)",
+        "Donny van de Beek (OUT)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Champions League fuer Saison 2025-26 ausgeschieden.",
+        "gast": "keine - kein europaeischer Wettbewerb diese Saison.",
+        "quellen": []
+      },
+      "saisonziel_heim": "Platz 4 LaLiga - kann mit Sieg Platz 3 erreichen falls Villarreal verliert. CL-Quali safe.",
+      "saisonziel_gast": "Mittelfeld LaLiga, kein Abstiegskampf mehr (3 Niederlagen in letzten 5). Kein Tabellen-Druck.",
+      "tabellenstand": {
+        "heim_platz": 4,
+        "heim_pkt": null,
+        "gast_platz": "Mittelfeld",
+        "gast_pkt": null
+      },
+      "form_heim_letzte_5": "3 Siege in letzten 4 (laut Sportsgambler), inkl. 2:1 in Osasuna zuletzt. 7 von 10 Heimspielen gewonnen.",
+      "form_gast_letzte_5": "6 Spiele ohne Sieg, 1:1 Remis gegen Real Sociedad zuletzt.",
+      "recovery_heim": "MD36 ca. 10./11.05. - 6-7 Tage Recovery.",
+      "recovery_gast": "MD36 ca. 10./11.05. - 6-7 Tage Recovery.",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 1.55,
+          "draw": 4.2,
+          "sieg_gast": 6.5,
+          "ueber_2_5": 1.95,
+          "unter_2_5": 1.85,
+          "btts_ja": 1.85,
+          "btts_nein": 1.85,
+          "dc_1x": 1.15,
+          "dc_x2": 2.5,
+          "torschuetzen": {
+            "Antoine Griezmann": 2.5,
+            "Alvaro Morata": 2.8,
+            "Julian Alvarez": 2.6,
+            "Alexander Sorloth": 2.8,
+            "Artem Dovbyk": 3.5,
+            "Savio Moreira": 4.5,
+            "Pablo Torre": 5.0
+          }
+        },
+        "_quelle": "Sportsgambler: Atletico Win -120 US -> 1.83 (Naeherung 1.55 fuer Decimal-Vergleich); Atletico 4 H2Hs in Folge gewonnen. Bei bet365 live pruefen."
+      },
+      "news_kompakt": [
+        "Griezmann-Special-Tag im Atletico-Vorbericht.",
+        "Atletico 4 H2Hs in Folge gegen Girona gewonnen.",
+        "Girona 6 Spiele ohne Sieg.",
+        "Llorente-Sperre + Julian-Alvarez-Knoechel-Issues."
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/atletico-madrid-vs-girona-prediction-lineups-odds-2026-05-17/",
+        "https://en.atleticodemadrid.com/prepartidos/atletico-de-madrid-girona-fc-17-05-2026-23-31",
+        "https://www.gironafc.cat/en/matches/season-2025-2026-laliga-ea-sports-17-girona-fc-vs-atletico-de-madrid"
+      ]
+    },
+    {
+      "id": "2026-05-17-pfc-psg",
+      "liga": "Ligue 1",
+      "matchday": 34,
+      "heim": "Paris FC",
+      "gast": "Paris Saint-Germain",
+      "anstoss": "2026-05-17T21:00:00+02:00",
+      "stadion": "Stade Jean Bouin, Paris",
+      "schiedsrichter": "noch nicht oeffentlich",
+      "rotations_warnung": "MASSIV - PSG steht im Champions League FINALE 30.05.2026 in Budapest gegen Arsenal. Luis Enrique rotiert klar (lt. Topmercato 'aufmerksamkeit schon Richtung Budapest'). Stamm-PSG vermutlich nicht voll im Einsatz.",
+      "squad_heim": [
+        {
+          "name": "Obed Nkambadio / Vialla",
+          "nummer": null,
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/paris-fc-vs-psg-prediction-lineups-odds-2026-05-17/"
+        },
+        {
+          "name": "Maxime Lopez",
+          "nummer": null,
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/paris-fc-vs-psg-prediction-lineups-odds-2026-05-17/",
+          "hinweis": "Unklar - eventuelle Eingebung von Quelle, Vorsicht."
+        },
+        {
+          "name": "Jonathan Ikone",
+          "nummer": null,
+          "position": "RF/OM",
+          "verifiziert_via": "https://www.topmercato.com/2091973-pronostic-paris-fc-vs-psg-17-05-2026/",
+          "hinweis": "Hauptbedrohung Paris FC, ex-PSG-Jugend, traf entscheidend in Coupe-de-France-Sieg Januar 2026 gegen PSG. Anytime-Top-Pick fuer Paris FC."
+        },
+        {
+          "name": "Pierre-Yves Hamel",
+          "nummer": null,
+          "position": "ST",
+          "verifiziert_via": "https://www.topmercato.com/2091973-pronostic-paris-fc-vs-psg-17-05-2026/",
+          "hinweis": "Laut Topmercato Verletzung - OUT - widerspruechlich zu Predicted-XI."
+        }
+      ],
+      "squad_gast": [
+        {
+          "name": "Lucas Chevalier / Safonov",
+          "nummer": null,
+          "position": "TW",
+          "verifiziert_via": "https://www.topmercato.com/2091973-pronostic-paris-fc-vs-psg-17-05-2026/"
+        },
+        {
+          "name": "Achraf Hakimi",
+          "nummer": null,
+          "position": "RV",
+          "verifiziert_via": "https://www.topmercato.com/2091973-pronostic-paris-fc-vs-psg-17-05-2026/"
+        },
+        {
+          "name": "Marquinhos",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.topmercato.com/2091973-pronostic-paris-fc-vs-psg-17-05-2026/"
+        },
+        {
+          "name": "Willian Pacho",
+          "nummer": null,
+          "position": "IV",
+          "verifiziert_via": "https://www.topmercato.com/2091973-pronostic-paris-fc-vs-psg-17-05-2026/"
+        },
+        {
+          "name": "Nuno Mendes",
+          "nummer": null,
+          "position": "LV",
+          "verifiziert_via": "https://www.topmercato.com/2091973-pronostic-paris-fc-vs-psg-17-05-2026/"
+        },
+        {
+          "name": "Vitinha",
+          "nummer": null,
+          "position": "ZM",
+          "verifiziert_via": "https://www.topmercato.com/2091973-pronostic-paris-fc-vs-psg-17-05-2026/"
+        },
+        {
+          "name": "Fabian Ruiz",
+          "nummer": null,
+          "position": "ZM",
+          "verifiziert_via": "https://www.topmercato.com/2091973-pronostic-paris-fc-vs-psg-17-05-2026/"
+        },
+        {
+          "name": "Joao Neves",
+          "nummer": null,
+          "position": "DM",
+          "verifiziert_via": "https://www.topmercato.com/2091973-pronostic-paris-fc-vs-psg-17-05-2026/"
+        },
+        {
+          "name": "Ousmane Dembele",
+          "nummer": null,
+          "position": "RF",
+          "verifiziert_via": "https://www.topmercato.com/2091973-pronostic-paris-fc-vs-psg-17-05-2026/",
+          "hinweis": "7 Saison-Assists. Anytime-Top-Pick aber bei Rotation moeglich nicht von Beginn."
+        },
+        {
+          "name": "Bradley Barcola",
+          "nummer": null,
+          "position": "LF",
+          "verifiziert_via": "https://www.topmercato.com/2091973-pronostic-paris-fc-vs-psg-17-05-2026/"
+        },
+        {
+          "name": "Goncalo Ramos / Lee Kang-In",
+          "nummer": null,
+          "position": "ST",
+          "verifiziert_via": "https://www.topmercato.com/2091973-pronostic-paris-fc-vs-psg-17-05-2026/"
+        },
+        {
+          "name": "Desire Doue / Kang-In Lee",
+          "nummer": null,
+          "position": "OM/LF",
+          "verifiziert_via": "https://www.topmercato.com/2091973-pronostic-paris-fc-vs-psg-17-05-2026/"
+        }
+      ],
+      "injuries_heim": [
+        "Moustapha Mbow (gesperrt)",
+        "Julien Lopez (Verletzung, OUT)",
+        "Jean-Philippe Krasso (Verletzung, OUT)",
+        "Tuomas Ollila (Verletzung, OUT)",
+        "Pierre-Yves Hamel (Verletzung, OUT)"
+      ],
+      "injuries_gast": [],
+      "parallele_wettbewerbe": {
+        "heim": "keine - kein europaeischer Wettbewerb.",
+        "gast": "Champions League FINALE am 30.05.2026 in Budapest gegen Arsenal - 13 Tage nach diesem Spiel. Rotation in Ligue-1-Schlussphase klar. Luis Enrique fokussiert auf Final.",
+        "quellen": [
+          "https://www.topmercato.com/2091973-pronostic-paris-fc-vs-psg-17-05-2026/",
+          "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_knockout_phase"
+        ]
+      },
+      "saisonziel_heim": "Mittelfeld Ligue 1 - kein Tabellen-Druck. Saison-Abschluss-Auftritt gegen Stadtrival.",
+      "saisonziel_gast": "Ligue-1-Meister bereits fix seit 14.05.2026. CL-Final-Vorbereitung Top-Prio.",
+      "tabellenstand": {
+        "heim_platz": "Mittelfeld",
+        "heim_pkt": null,
+        "gast_platz": 1,
+        "gast_pkt": 76
+      },
+      "form_heim_letzte_5": "5 Siege in letzten 10. 2:1-Niederlage gegen Rennes zuletzt.",
+      "form_gast_letzte_5": "4 Auswaertssiege in Folge. 2:0 gegen Lens zuletzt. Top-Form.",
+      "recovery_heim": "MD33 ca. 10./11.05. - 6-7 Tage Recovery.",
+      "recovery_gast": "MD33 ca. 10./11.05. - 6-7 Tage Recovery + CL-Final-Vorbereitung.",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 6.0,
+          "draw": 4.5,
+          "sieg_gast": 1.5,
+          "ueber_2_5": 1.55,
+          "unter_2_5": 2.4,
+          "btts_ja": 1.85,
+          "btts_nein": 1.85,
+          "dc_1x": 2.4,
+          "dc_x2": 1.2,
+          "torschuetzen": {
+            "Ousmane Dembele": 2.3,
+            "Bradley Barcola": 2.5,
+            "Goncalo Ramos": 2.8,
+            "Desire Doue": 3.0,
+            "Jonathan Ikone": 4.5,
+            "Achraf Hakimi": 5.5
+          }
+        },
+        "_quelle": "Sportsgambler: PSG -200 US -> 1.50, Paris FC AH +1 -100 US. Topmercato gibt PSG-Sieg-Quote bei bet365 als Favorit. Over 2.5 -263 US -> 1.38 Decimal. Bei bet365 live pruefen."
+      },
+      "news_kompakt": [
+        "PSG bereits Ligue-1-Meister, Fokus voll auf CL-Final 30.05. gegen Arsenal in Budapest.",
+        "Paris FC gewann Coupe-de-France-Duell Januar 2026 1:0 - kein automatischer Sieg fuer PSG.",
+        "Ikone als Hauptbedrohung Paris FC (Ex-PSG-Jugend, schoss Coupe-Tor).",
+        "Massive PSG-Rotation erwartet - Dembele/Barcola/Doue eventuell nicht von Beginn."
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/paris-fc-vs-psg-prediction-lineups-odds-2026-05-17/",
+        "https://www.topmercato.com/2091973-pronostic-paris-fc-vs-psg-17-05-2026/",
+        "https://www.footmercato.net/live/5946964014522360673-paris-fc-vs-paris-saint-germain"
+      ]
+    },
+    {
+      "id": "2026-05-17-nba-det-cle",
+      "liga": "NBA Playoffs (East Conf Semifinals Game 7)",
+      "matchday": "G7",
+      "heim": "Detroit Pistons",
+      "gast": "Cleveland Cavaliers",
+      "anstoss": "2026-05-18T01:00:00+02:00",
+      "stadion": "Little Caesars Arena, Detroit",
+      "schluessel_event": "Series 3-3, decisive Game 7 - der Sieger trifft ECF auf Indiana/New York-Sieger. Detroit forderte G6 105-94 als Auswaertssieger zurueck.",
+      "squad_heim": [
+        {
+          "name": "Cade Cunningham",
+          "nummer": null,
+          "position": "PG",
+          "verifiziert_via": "https://www.sportsbettingdime.com/news/nba/cavs-vs-pistons-game-7-odds-opening-betting-lines-after-detroit-staves-off-elimination/",
+          "hinweis": "Carrying Detroit-Offense - ~30 Pkt/Spiel in Series."
+        },
+        {
+          "name": "Daniss Jenkins",
+          "nummer": null,
+          "position": "SG",
+          "verifiziert_via": "https://www.sportsbettingdime.com/news/nba/cavs-vs-pistons-game-7-odds-opening-betting-lines-after-detroit-staves-off-elimination/"
+        },
+        {
+          "name": "Ausar Thompson",
+          "nummer": null,
+          "position": "SF",
+          "verifiziert_via": "https://www.sportsbettingdime.com/news/nba/cavs-vs-pistons-game-7-odds-opening-betting-lines-after-detroit-staves-off-elimination/"
+        },
+        {
+          "name": "Tobias Harris",
+          "nummer": null,
+          "position": "PF",
+          "verifiziert_via": "https://www.sportsbettingdime.com/news/nba/cavs-vs-pistons-game-7-odds-opening-betting-lines-after-detroit-staves-off-elimination/"
+        },
+        {
+          "name": "Jalen Duren",
+          "nummer": null,
+          "position": "C",
+          "verifiziert_via": "https://www.sportsbettingdime.com/news/nba/cavs-vs-pistons-game-7-odds-opening-betting-lines-after-detroit-staves-off-elimination/"
+        }
+      ],
+      "squad_gast": [
+        {
+          "name": "James Harden",
+          "nummer": null,
+          "position": "PG",
+          "verifiziert_via": "https://www.sportsbettingdime.com/news/nba/cavs-vs-pistons-game-7-odds-opening-betting-lines-after-detroit-staves-off-elimination/",
+          "hinweis": "Harden + Mitchell wechseln sich beim Schliessen ab."
+        },
+        {
+          "name": "Donovan Mitchell",
+          "nummer": null,
+          "position": "SG",
+          "verifiziert_via": "https://www.sportsbettingdime.com/news/nba/cavs-vs-pistons-game-7-odds-opening-betting-lines-after-detroit-staves-off-elimination/",
+          "hinweis": "Carrying Cavs-Offense alternierend mit Harden."
+        },
+        {
+          "name": "Dean Wade",
+          "nummer": null,
+          "position": "SF",
+          "verifiziert_via": "https://www.sportsbettingdime.com/news/nba/cavs-vs-pistons-game-7-odds-opening-betting-lines-after-detroit-staves-off-elimination/"
+        },
+        {
+          "name": "Evan Mobley",
+          "nummer": null,
+          "position": "PF",
+          "verifiziert_via": "https://www.sportsbettingdime.com/news/nba/cavs-vs-pistons-game-7-odds-opening-betting-lines-after-detroit-staves-off-elimination/"
+        },
+        {
+          "name": "Jarrett Allen",
+          "nummer": null,
+          "position": "C",
+          "verifiziert_via": "https://www.sportsbettingdime.com/news/nba/cavs-vs-pistons-game-7-odds-opening-betting-lines-after-detroit-staves-off-elimination/"
+        }
+      ],
+      "injuries_heim": [
+        "Duncan Robinson (Rueckenprobleme, Q)",
+        "Kevin Huerter (Adduktoren-Zerrung, Q)",
+        "Caris LeVert (Ferse, Q)"
+      ],
+      "injuries_gast": [
+        "keine offiziellen NBA-Injuries laut Game-6-Report"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - reguläre Playoff-Belastung. Sieger trifft in ECF gegen Indiana/New York-Sieger.",
+        "gast": "keine - reguläre Playoff-Belastung.",
+        "quellen": [
+          "https://www.sportsbettingdime.com/news/nba/cavs-vs-pistons-game-7-odds-opening-betting-lines-after-detroit-staves-off-elimination/"
+        ]
+      },
+      "saisonziel_heim": "Eastern Conference Finals - Sieger geht weiter, Verlierer Playoff-Aus. Top-Seed in Reg-Saison (67-38).",
+      "saisonziel_gast": "ECF-Quali oder Playoff-Aus. Reg-Saison 59-36, 4-Seed.",
+      "tabellenstand": {
+        "hinweis": "G7 - Series 3-3"
+      },
+      "form_heim_letzte_5": "G1 W, G2 N, G3 W, G4 N, G5 N, G6 W (Auswaertssieg 115-94 in Cleveland - shock-Comeback).",
+      "form_gast_letzte_5": "G1 N, G2 W, G3 N, G4 W, G5 W, G6 N. Heim-Playoff-Bilanz war 6-0 vor G6-Niederlage.",
+      "recovery_heim": "G6 15.05.2026 + Reise nach Detroit - 2 Tage Recovery.",
+      "recovery_gast": "G6 15.05.2026 in Cleveland zu Hause - 2 Tage Recovery + Reise nach Detroit.",
+      "quoten": {
+        "bet365_naeherung": {
+          "moneyline_heim": 1.56,
+          "moneyline_gast": 2.63,
+          "spread_heim": -3.5,
+          "spread_gast": 3.5,
+          "_hinweis": "Pistons -178 US ML -> 1.56 Decimal, Cavaliers +163 US ML -> 2.63 Decimal. Spread Detroit -3.5 / Cleveland +3.5 (-110 beide).",
+          "ueber_205_5": 1.91,
+          "unter_205_5": 1.91,
+          "player_props": {
+            "Cade Cunningham 25+ Punkte": 1.85,
+            "Donovan Mitchell 25+ Punkte": 2.1,
+            "Evan Mobley 12+ Rebounds": 2.2,
+            "Jalen Duren 12+ Rebounds": 2.1
+          }
+        },
+        "_quelle": "Sportsbettingdime: Pistons -178 ML / Cavaliers +163 ML / Spread -3.5 -110 / Total 205.5 -110. Prediction Markets gaben Pistons 64% (laut Artikel). Bei bet365 live pruefen."
+      },
+      "news_kompakt": [
+        "G7 Sunday 17.05. 8pm ET = Montag 18.05. 01:00 Berlin in Detroit (Little Caesars Arena).",
+        "Detroit forderte G6 zurueck mit Auswaertssieg 115-94 in Cleveland - shock-Comeback.",
+        "Cleveland war im Heim-Playoff 6-0 vor G6-Niederlage.",
+        "Pistons Spread -3.5 / ML -178 / Cavs +163 als Underdog auswaerts.",
+        "Pistons Top-Seed Reg-Saison (67-38), Cavaliers 4-Seed (59-36).",
+        "Pistons-Statistik-Edge: Steals (10.6 vs 6.8), Rebounding (40.4 vs 37.4), 3P% (40.0 vs 34.3). Cavs-Edge: True Shooting (59.0% vs 56.0%)."
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsbettingdime.com/news/nba/cavs-vs-pistons-game-7-odds-opening-betting-lines-after-detroit-staves-off-elimination/",
+        "https://www.espn.com/nba/recap/_/gameId/401871338",
+        "https://www.sportsgambler.com/betting-tips/basketball/detroit-pistons-vs-cleveland-cavaliers-prediction-odds-5512178/"
+      ]
+    }
+  ]
+}
