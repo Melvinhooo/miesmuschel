@@ -64,26 +64,6 @@
           "faire_quote": 1.32,
           "empfohlener_einsatz_prozent": 1.5,
           "begruendung": "Sicheres Floor-Set-up: Villa hat EL-Final-Doppelbelastung (5 Tage), Liverpool voll-fokussiert ohne UEFA seit 14.04. Slot setzt Isak als Primaer-9er - Top-4-Druck zwingt zu offensivem Auftritt. Aggregator ML LIV 2.32, Draw 3.40 -> implizit DC X2 ~1.36 mit moderatem Edge auf Liverpool-Form-Trade-off mit Villa-Rotations-Risiko. Stake 1.5% = 8.25 EUR."
-        },
-        {
-          "id": "avl-liv-4",
-          "kategorie": "wackel",
-          "markt": "Alexander Isak Torschuetze Jederzeit",
-          "quote": 1.9,
-          "edge_prozent": 5,
-          "faire_quote": 1.81,
-          "empfohlener_einsatz_prozent": 0.5,
-          "begruendung": "Salah pre-match nur 'wenige Minuten' verfuegbar (Slot/SI), Ekitike OUT long-term -> Isak primaerer 9er Liverpool. Markt-Goldgrube Torschuetzen Jederzeit (n=28, +19.5% ROI). AVL-Defense ohne Onana + Kamara leicht reduziert. WACKEL weil Form-Edge nicht so klar wie nominaler-9er-Pflicht (Isak Newcastle-Transfer, Form bei LIV noch nicht final etabliert). Stake 0.5% = 2.75 EUR."
-        },
-        {
-          "id": "avl-liv-5",
-          "kategorie": "wackel",
-          "markt": "Cody Gakpo Torschuetze Jederzeit",
-          "quote": 3.3,
-          "edge_prozent": 3,
-          "faire_quote": 3.2,
-          "empfohlener_einsatz_prozent": 0.5,
-          "begruendung": "Sekundaer-Pick fuer Risiko-Cluster: Gakpo solider LM/ST mit Tor-Drohung bei Salah-Ausfall (zusaetzliche Minuten + Freiraeume). Markt-Goldgrube Torschuetzen Jederzeit aktiv gesucht. WACKEL wegen niedrigerer Volumen-Frequenz im Vergleich zu Isak. Stake 0.5% = 2.75 EUR."
         }
       ],
       "kontext_check_status": "OK"
@@ -268,45 +248,6 @@
       "einsatz_euro": 2.75,
       "begruendung": "Salah pre-match nur 'wenige Minuten' -> Isak primaerer 9er. Star-Backup-Pflicht. Markt-Goldgrube Torschuetzen Jederzeit (+19.5% ROI).",
       "rang": 4
-    },
-    {
-      "id": "et-5",
-      "spiel_id": "2026-05-15-cle-det",
-      "kategorie": "wackel",
-      "markt": "Cleveland Cavaliers Sieg (Cleveland - Detroit)",
-      "quote": 1.57,
-      "edge_prozent": 3,
-      "faire_quote": 1.52,
-      "empfohlener_einsatz_prozent": 0.5,
-      "einsatz_euro": 2.75,
-      "begruendung": "Cavs 6-0 Heim-Playoff-Rekord + Closeout. Mapper-Hebel B + Lesson 25.04. = max WACKEL.",
-      "rang": 5
-    },
-    {
-      "id": "et-6",
-      "spiel_id": "2026-05-15-cle-det",
-      "kategorie": "wackel",
-      "markt": "Unter 209.5 Punkte (Cleveland - Detroit)",
-      "quote": 1.88,
-      "edge_prozent": 4,
-      "faire_quote": 1.81,
-      "empfohlener_einsatz_prozent": 0.5,
-      "einsatz_euro": 2.75,
-      "begruendung": "Lesson 02.05. Closeout-Defensive-Schlachten unter 215-Linie. Niedrigste Linie der Serie.",
-      "rang": 6
-    },
-    {
-      "id": "et-7",
-      "spiel_id": "2026-05-15-min-sas",
-      "kategorie": "wackel",
-      "markt": "Minnesota Timberwolves +5.5 (Minnesota - San Antonio)",
-      "quote": 1.91,
-      "edge_prozent": 5,
-      "faire_quote": 1.82,
-      "empfohlener_einsatz_prozent": 0.5,
-      "einsatz_euro": 2.75,
-      "begruendung": "Lesson 24.04. Sweep-Abwehr-Heim-Underdog. 5.5-Punkte-Hedge schuetzt knappe Niederlage.",
-      "rang": 7
     }
   ],
   "kombis": [
@@ -314,7 +255,7 @@
       "id": "kombi-safe-totals",
       "name": "Safe ~3x (Tor-Totals-Cluster)",
       "kategorie": "safe",
-      "gesamtquote": 3.01,
+      "gesamtquote": 1.6,
       "empfohlener_einsatz_prozent": 2.0,
       "einsatz_euro": 11.0,
       "beine": [
@@ -322,21 +263,16 @@
           "spiel_id": "2026-05-15-avl-liv",
           "markt": "Beide Teams treffen JA",
           "quote": 1.6
-        },
-        {
-          "spiel_id": "2026-05-15-cle-det",
-          "markt": "Unter 209.5 Punkte",
-          "quote": 1.88
         }
       ],
       "begruendung": "Layer-2-konformer Tor-Cluster, kein Sieg-Outcome: AVL-LIV BTTS JA (beidseitige CL-Quali-Pflicht-Tore-Erwartung + Watkins-vs-LIV-Heim-Bias + Isak-Primaer-9er) + CLE-DET Unter 209.5 (Lesson 02.05. Closeout-Defense, niedrigste Serien-Linie). Honest 'Safe-Stretch' weil keine echten SAFE-Tipps heute moeglich (Coinflip-Pflicht-Regel + Mapper-Hebel B). Stake 2% von 550 EUR = 11 EUR.",
-      "rechnung": "1.60 x 1.88 = 3.01"
+      "rechnung": "1.60 = 1.6"
     },
     {
       "id": "kombi-balance-mix",
       "name": "Balance ~6.8x (Markt-Mix mit 1 Sieg-Outcome)",
       "kategorie": "balance",
-      "gesamtquote": 6.79,
+      "gesamtquote": 1.9,
       "empfohlener_einsatz_prozent": 0.8,
       "einsatz_euro": 4.4,
       "beine": [
@@ -344,26 +280,16 @@
           "spiel_id": "2026-05-15-avl-liv",
           "markt": "Alexander Isak Torschuetze Jederzeit",
           "quote": 1.9
-        },
-        {
-          "spiel_id": "2026-05-15-cle-det",
-          "markt": "Cleveland Cavaliers -3.5 (Spread)",
-          "quote": 1.87
-        },
-        {
-          "spiel_id": "2026-05-15-min-sas",
-          "markt": "Ueber 218.5 Punkte",
-          "quote": 1.91
         }
       ],
       "begruendung": "Layer-1+2+3-Markt-Mix: Torschuetze + Spread-Sieg + Total - alle drei Spiele vertreten, pro Spiel 1 Bein. Isak Star-Backup-Pflicht (Salah doubtful), Cavs -3.5 (Heim-Closeout-6-0-Bias), Spurs-Wolves Ueber 218.5 (Wembanyama-Form + Sweep-Abwehr-Tempo). CLE-DET-Sieg-Outcome wird hier verbraucht -> nicht in Safe/Risiko erneut. Stake 0.8% = 4.40 EUR.",
-      "rechnung": "1.90 x 1.87 x 1.91 = 6.79"
+      "rechnung": "1.90 = 1.9"
     },
     {
       "id": "kombi-risiko-stretch",
       "name": "Risiko ~18x (Underdog-Sieg + Torschuetze + Total)",
-      "kategorie": "risiko",
-      "gesamtquote": 18.12,
+      "kategorie": "risk",
+      "gesamtquote": 3.3,
       "empfohlener_einsatz_prozent": 0.25,
       "einsatz_euro": 1.4,
       "beine": [
@@ -371,20 +297,10 @@
           "spiel_id": "2026-05-15-avl-liv",
           "markt": "Cody Gakpo Torschuetze Jederzeit",
           "quote": 3.3
-        },
-        {
-          "spiel_id": "2026-05-15-cle-det",
-          "markt": "Unter 209.5 Punkte",
-          "quote": 1.88
-        },
-        {
-          "spiel_id": "2026-05-15-min-sas",
-          "markt": "Minnesota Timberwolves Sieg",
-          "quote": 2.92
         }
       ],
       "begruendung": "Risiko-Stretch mit 1 Sieg-Outcome (Wolves ML als Sweep-Abwehr-Upset-These Lesson 24.04.) + 1 Torschuetze (Gakpo Sekundaer-Pick bei Salah-Ausfall) + 1 Total (Lesson 02.05. Closeout-Defense, ueberlappt bewusst mit Safe weil mager-Slate Markt-Entkopplung erzwingt). MIN-SAS-Sieg-Outcome wird hier verbraucht -> nicht in Safe/Balance. CLE-DET Unter 209.5 reuse aus Safe per Layer-3-Weich-Regel bei nur 3 Spielen. Stake 0.25% = 1.40 EUR.",
-      "rechnung": "3.30 x 1.88 x 2.92 = 18.12"
+      "rechnung": "3.30 = 3.3"
     }
   ],
   "lessons_angewandt": [
