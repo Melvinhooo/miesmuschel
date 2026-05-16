@@ -1,5 +1,5 @@
 {
-  "letzte_berechnung": "2026-05-15T06:15:23+00:00",
+  "letzte_berechnung": "2026-05-16T06:15:41+00:00",
   "gesamt": {
     "tipps": 225,
     "gewonnen": 128,
@@ -2898,6 +2898,98 @@
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-05-15",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "Safe ~3x (Tor-Totals-Cluster)",
+          "kategorie": "safe",
+          "gesamtquote": 3.01,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Beide Teams treffen JA",
+              "quote": 1.6,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Unter 209.5 Punkte",
+              "quote": 1.88,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance ~6.8x (Markt-Mix mit 1 Sieg-Outcome)",
+          "kategorie": "balance",
+          "gesamtquote": 6.79,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Alexander Isak Torschuetze Jederzeit",
+              "quote": 1.9,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Cleveland Cavaliers -3.5 (Spread)",
+              "quote": 1.87,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 218.5 Punkte",
+              "quote": 1.91,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko ~18x (Underdog-Sieg + Torschuetze + Total)",
+          "kategorie": "risiko",
+          "gesamtquote": 18.12,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Cody Gakpo Torschuetze Jederzeit",
+              "quote": 3.3,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Unter 209.5 Punkte",
+              "quote": 1.88,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Minnesota Timberwolves Sieg",
+              "quote": 2.92,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-05-14",
       "gesamt": {

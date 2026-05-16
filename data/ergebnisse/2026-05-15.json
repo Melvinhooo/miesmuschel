@@ -1,0 +1,836 @@
+{
+  "datum": "2026-05-15",
+  "erstellt_am": "2026-05-15T18:05:00+02:00",
+  "hinweis": "Magere Friday-Slate: 1 PL-Top-4-Endspiel (Aston Villa - Liverpool, beide 59 Pkt, direktes CL-Quali-Duell) + 2 NBA Conference-Semis G6 (Pistons @ Cavaliers, Spurs @ Wolves - beide Closeout-Chancen). Keine Bundesliga / LaLiga / Serie A / Coppa / UEFA-Wochenmittagsspiele. Kasse 550 EUR / Stufe 1 Aufbau. Mapper-Hebel B (NBA-Playoff-Decider nie SAFE) + Coinflip-Pflicht-Regel 04.05. (AVL-LIV CL-Quali-Pflicht beidseitig = kein SAFE) -> kein einziger SAFE-Tipp heute, alle Top-Tipps Value/Wackel. Watkins-Torschuetzen-Tipp GEDROPPED (Lesson 14.05. Top-Team-Rotation-vor-EL-Final 5 Tage). NBA-Player-Punkte komplett VERBOTEN (Lesson 26.04. Markt-Boykott -46.2% ROI). Moonshot bei nur 3 Spielen ehrlich nicht 100x-erreichbar -> 3 Kombis statt 4. Quoten bei bet365 live pruefen.",
+  "spiele": [
+    {
+      "id": "2026-05-15-avl-liv",
+      "liga": "Premier League",
+      "heim": "Aston Villa",
+      "gast": "Liverpool",
+      "anstoss": "2026-05-15T21:00:00+02:00",
+      "stadion": "Villa Park, Birmingham",
+      "saison_kontext": {
+        "parallel_heim": "UEFA Europa League FINAL 20.05.2026 vs SC Freiburg in Istanbul (Besiktas Park) - nur 5 Tage nach diesem Spiel. Emery hat 3x EL gewonnen (Sevilla 14/15/16) + 1x mit Villarreal 20/21 -> Final-Fokus REAL. Rotations-Risiko bei Volume-9ern (Watkins) per Lesson 14.05. greift -> Watkins-Torschuetzen-Tipp GEDROPPED. McGinn unverzichtbar (Villa nur 3 von 10 ohne ihn gewonnen) -> erwartete Mischung aus Stamm-Mittelfeld + frische Aussenposten.",
+        "parallel_gast": "keine - Champions League 2025-26 ausgeschieden im Viertelfinale 14.04.2026 vs PSG (0:2 H + 0:2 A = 0:4 Aggregat). Keine UEFA-Belastung seit ca. 1 Monat. Voll-Fokus PL Top-4-Quali.",
+        "saisonziel_heim": "Platz 5 mit 59 Pkt nach 36 Spielen - level mit Liverpool (4. dank besserer Tordifferenz). Sieg sichert Top-4 / CL-Quali, Niederlage = CL-Quali-Risiko. PLUS: EL-Final-Mittwoch 20.05. - bei EL-Sieg ohnehin EL-2026/27 qualifiziert. Double-Druck.",
+        "saisonziel_gast": "Platz 4 mit 59 Pkt nach 36 Spielen - level mit Villa. Sieg = praktisch CL-Quali gesichert. Niederlage = Villa zieht vorbei. Slot unter Drucking nach 1:1 Chelsea + Buh-Rufen. Saison enttaeuschend - kein UEFA-Erfolg, PL-Titel verloren - Top-4 ist Minimal-Ziel.",
+        "motivations_asymmetrie": "Beidseitige CL-Quali-Pflicht (gleicher Liga-Druck) - keine klare Asymmetrie. AVL hat Doppel-Trigger EL-Final-5-Tage-Vorlauf (Rotations-Tendenzen denkbar bei Watkins/Cash/Konsa); Liverpool kann voll auf Liga ohne UEFA-Sorge gehen mit Isak als Primaer-9er (Salah/Wirtz/Alisson alle doubtful, Ekitike OUT long-term). Coinflip-Profil mit leichtem Liverpool-Edge (Aggregator ML AVL 2.88 / Draw 3.40 / LIV 2.32). Per Lesson 04.05.: kein SAFE-Tipp moeglich.",
+        "recovery_heim": "5 Tage seit EL-Halbfinal-Sieg (07.05.) + PL-Spiel ~10.05. Kamara (Knie), Onana (Wade), Alysson (Leiste), Guessand (Knie) OUT. Defense-Kern Konsa/Mings-Torres/Martinez fit, Watkins/McGinn/Rogers/Tielemans/Digne erwartet.",
+        "recovery_gast": "5-6 Tage seit Chelsea-1:1. Keine UEFA-Belastung seit 14.04. = 1 Monat ohne Doppelbelastung. Ekitike (Achilles, OUT long-term), Bradley/Endo/Leoni/Bajcetic OUT. Salah/Wirtz/Alisson/Konate doubtful - Isak primaerer 9er, Mamardashvili im Tor.",
+        "quellen": [
+          "https://www.uefa.com/uefaeuropaleague/match/2047743--freiburg-vs-aston-villa/final/",
+          "https://www.premierleague.com/en/news/4611009/race-for-champions-league-spots-how-it-stands-and-remaining-fixtures/",
+          "https://www.avfc.co.uk/news/2026/may/07/news-aston-villa-qualify-for-europa-league-final/",
+          "https://www.espn.com/soccer/story/_/id/48756342/aston-villa-vs-liverpool-premier-league-tv-channel-kick-live-stream-referee-injury-team-news",
+          "https://www.sportsmole.co.uk/football/liverpool/top-four-race/team-news/aston-villa-vs-liverpool-injury-suspension-list-predicted-xis_597458.html"
+        ]
+      },
+      "news": [
+        "Beide 59 Pkt - Liverpool 4. nur via Tordifferenz vor Villa - reines CL-Quali-Endspiel.",
+        "Aggregator-Quoten: AVL Sieg 2.88, Draw 3.40, LIV Sieg 2.32. Ueber 2.5 @ 1.75, BTTS JA @ 1.60. DC X2 (LIV oder Draw) @ 1.36. Isak Torschuetze Jederzeit @ 1.90, Gakpo @ 3.30 (Salah doubtful, Watkins-Tipp gedroppt).",
+        "Villa EL-Final 20.05. vs Freiburg in Istanbul - 5 Tage Vorlauf. Watkins-Torschuetzen-Tipp GEDROPPED (Lesson 14.05.).",
+        "Liverpool ohne Ekitike (long-term Achilles), Salah/Alisson/Wirtz/Konate alle doubtful - Isak primaerer 9er, Mamardashvili wahrscheinlich im Tor.",
+        "Watkins traf 6x in 11 PL-Spielen gegen Liverpool inkl. in deren letzten 3 Visiten an Villa Park - Heim-Bias real, aber wegen EL-Final-Schon-Risiko nicht spielbar.",
+        "2:0-Insurance gilt NICHT (Premier League, nur BL/CL). Einwechslungs-Boost greift fuer Torschuetzen-Tipps."
+      ],
+      "tipps": [
+        {
+          "id": "avl-liv-1",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.75,
+          "edge_prozent": 8,
+          "faire_quote": 1.61,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 Tore (n=12, Hitrate 50%/+52.3% ROI) - aktiv suchen. Beidseitige CL-Quali-Pflicht-Tore-Erwartung, Liverpool offensiv ausgerichtet ohne UEFA-Sorge mit Isak als Top-9er, Villa muss Heim-Top-4-Sieg holen. Fair ~1.61 vs Quote 1.75 = klarer Edge. Kasse 550 EUR / Stufe 1: 1.5% = 8.25 EUR."
+        },
+        {
+          "id": "avl-liv-2",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.6,
+          "edge_prozent": 4,
+          "faire_quote": 1.54,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Beide Teams brauchen Tore: AVL fuer Heim-Top-4-Pflicht (4 Pkt Vorsprung auf Bournemouth, kein Punktverlust-Spielraum), LIV mit Isak als primaerer 9er ohne Salah. Watkins 6 Tore in 11 PL-Spielen gegen LIV inkl. letzten 3 Villa-Park-Visiten. Fair ~1.54 vs Quote 1.60 = leichter Wert. Stake 1.5% = 8.25 EUR."
+        },
+        {
+          "id": "avl-liv-3",
+          "kategorie": "value",
+          "markt": "Doppelte Chance X2 (Liverpool oder Unentschieden)",
+          "quote": 1.36,
+          "edge_prozent": 3,
+          "faire_quote": 1.32,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Sicheres Floor-Set-up: Villa hat EL-Final-Doppelbelastung (5 Tage), Liverpool voll-fokussiert ohne UEFA seit 14.04. Slot setzt Isak als Primaer-9er - Top-4-Druck zwingt zu offensivem Auftritt. Aggregator ML LIV 2.32, Draw 3.40 -> implizit DC X2 ~1.36 mit moderatem Edge auf Liverpool-Form-Trade-off mit Villa-Rotations-Risiko. Stake 1.5% = 8.25 EUR."
+        },
+        {
+          "id": "avl-liv-4",
+          "kategorie": "wackel",
+          "markt": "Alexander Isak Torschuetze Jederzeit",
+          "quote": 1.9,
+          "edge_prozent": 5,
+          "faire_quote": 1.81,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Salah pre-match nur 'wenige Minuten' verfuegbar (Slot/SI), Ekitike OUT long-term -> Isak primaerer 9er Liverpool. Markt-Goldgrube Torschuetzen Jederzeit (n=28, +19.5% ROI). AVL-Defense ohne Onana + Kamara leicht reduziert. WACKEL weil Form-Edge nicht so klar wie nominaler-9er-Pflicht (Isak Newcastle-Transfer, Form bei LIV noch nicht final etabliert). Stake 0.5% = 2.75 EUR."
+        },
+        {
+          "id": "avl-liv-5",
+          "kategorie": "wackel",
+          "markt": "Cody Gakpo Torschuetze Jederzeit",
+          "quote": 3.3,
+          "edge_prozent": 3,
+          "faire_quote": 3.2,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Sekundaer-Pick fuer Risiko-Cluster: Gakpo solider LM/ST mit Tor-Drohung bei Salah-Ausfall (zusaetzliche Minuten + Freiraeume). Markt-Goldgrube Torschuetzen Jederzeit aktiv gesucht. WACKEL wegen niedrigerer Volumen-Frequenz im Vergleich zu Isak. Stake 0.5% = 2.75 EUR."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "4:2",
+        "halbzeit": "1:0",
+        "quelle": "ESPN / Sky Sports / TNT Sports / Liverpool FC official"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "avl-liv-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.75,
+          "kommentar": "6 Tore (4:2) - klar Ueber 2.5"
+        },
+        {
+          "tipp_id": "avl-liv-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.6,
+          "kommentar": "BTTS JA - Villa 4 + Liverpool 2"
+        },
+        {
+          "tipp_id": "avl-liv-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Aston Villa gewann 4:2 - DC X2 (LIV/Draw) verloren"
+        },
+        {
+          "tipp_id": "avl-liv-4",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Isak NICHT im Squad (minor problem) - kein Spiel-Einsatz, Boost nicht moeglich"
+        },
+        {
+          "tipp_id": "avl-liv-5",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Gakpo selbst nicht getroffen, ausgewechselt 75' fuer Salah - Salah hat ebenfalls nicht getroffen (LIV-Tore beide van Dijk 52' + 90+2'). Boost-Trigger negativ"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "4:2",
+        "tore": [
+          {"min": 42, "team": "heim", "spieler": "Morgan Rogers", "stand_danach": "1:0"},
+          {"min": 52, "team": "gast", "spieler": "Virgil van Dijk", "stand_danach": "1:1"},
+          {"min": 57, "team": "heim", "spieler": "Ollie Watkins", "stand_danach": "2:1"},
+          {"min": 73, "team": "heim", "spieler": "Ollie Watkins", "stand_danach": "3:1"},
+          {"min": 89, "team": "heim", "spieler": "John McGinn", "stand_danach": "4:1"},
+          {"min": 92, "team": "gast", "spieler": "Virgil van Dijk", "stand_danach": "4:2"}
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Kein Stand mit 2+-Tore-Vorsprung wurde gedreht. AVL fuehrte 1:0 HZ, LIV glich aus zum 1:1, AVL zog auf 4:1 davon. 2:0-Insurance haette nicht gegriffen (Premier League ausgeschlossen, gilt nur BL/CL)."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": true,
+          "halbzeit_endstand": "Aston Villa/Aston Villa",
+          "kein_team_zu_null": true,
+          "tordiff_villa": 2,
+          "siegtipp_villa": "gewonnen"
+        },
+        "rotation_highlights": [
+          {"team": "heim", "spieler": "Ollie Watkins", "details": "TROTZ EL-Final-5-Tage-Vorlauf 90 Minuten gespielt - 2 Tore (57', 73'). Lesson-14.05.-Drop kontrafaktisch teuer (~5.50 EUR Gewinn entgangen bei Quote ~2.10)."},
+          {"team": "heim", "spieler": "John McGinn", "details": "Stamm-Mittelfeld voll - 89' getroffen. Kein Schon-Modus."}
+        ],
+        "einwechslungs_tor_highlights": [
+          {"team": "gast", "ein": "Mohamed Salah", "aus": "Cody Gakpo", "minute": 75, "tor": false, "tor_minute": null}
+        ],
+        "auffaellige_patterns": [
+          "Villa-Heim-Energie + Watkins-vs-Liverpool-Bias (jetzt 8 Tore in 12 PL-Spielen) hat Coinflip-These widerlegt - aus aggregator-Sicht 'leichter LIV-Edge' war falsch.",
+          "EL-Final-Schon-These bei Villa hat sich nicht bestaetigt - Emery setzte Stamm 90 Min, kein Rotations-Pattern bei Karriere-Highlight-Final-Modus.",
+          "Tor-Festival mit 6 Toren, BTTS, Ueber 5.5 erreicht - Tor-Markt-Goldgrube bestaetigt sich.",
+          "Liverpool-Defense mit Gomez-Konate-Van-Dijk + Mamardashvili (Backup-Keeper) signifikant geschwaecht - 4 Gegentore."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-15-cle-det",
+      "liga": "NBA Playoffs Conference Semifinals, Game 6",
+      "heim": "Cleveland Cavaliers",
+      "gast": "Detroit Pistons",
+      "anstoss": "2026-05-16T01:00:00+02:00",
+      "stadion": "Rocket Mortgage FieldHouse, Cleveland",
+      "saison_kontext": {
+        "parallel_heim": "keine - NBA-only.",
+        "parallel_gast": "keine - NBA-only. Bei Niederlage Saison-Ende.",
+        "saisonziel_heim": "Conf-Semis-Stand 3-2 nach OT-Win G5 (117-113). Closeout-Heimspiel um Conference Finals (erstmals seit 2018). Cleveland im Playoff-Heim ungeschlagen 6-0.",
+        "saisonziel_gast": "Survive-or-die: 1-Seed Pistons im Elimination-Modus. Cunningham als One-Man-Show + 3 Q-Verletzte (Robinson back / LeVert heel / Huerter adductor) - Backup-Scoring duenn.",
+        "motivations_asymmetrie": "Closeout-Heim-Konfiguration: Cavs 6-0 Heim-Playoff-Rekord = sehr stabile Statistik. ABER Lesson 25.04. 'Sweep-Druck-Spiele unberechenbar' + Mapper-Hebel B 'NBA-Playoff-Decider nie SAFE' -> Cavs Sieg max WACKEL. Pistons im Win-or-go-home koennen mit Cunningham (G5 39/9) explodieren - Coinflip-Profil mit klarer Heim-Edge.",
+        "recovery_heim": "2 Tage seit G5 OT-Win in Detroit (Mittwoch 13.05.) - kurzes Fenster, zuhause = Energie-Plus. Mitchell + Mobley + Harden + Allen + Wade Starter, Roster gesund.",
+        "recovery_gast": "2 Tage seit G5 OT-Niederlage - mental schwer nach 9-Pkt-Lead-Kollaps in den letzten 3 Min Regulation. Cunningham nach 39-Pkt-Auftritt potentiell muede, aber Eliminations-Adrenalin.",
+        "quellen": [
+          "https://www.nba.com/playoffs/2026/east-semifinal-2",
+          "https://www.espn.com/nba/story/_/id/48765101/cavaliers-outlast-pistons-ot-score-1st-road-playoff-win",
+          "https://www.oddsshark.com/nba/pistons-cavaliers-picks-odds-game-6-may-15-2026"
+        ]
+      },
+      "news": [
+        "Aggregator-Quoten: Cavs ML 1.57-1.58, Pistons ML 2.46. Spread Cavs -3.5 @ 1.87, Pistons +3.5 @ 1.95. Total 209.5 - Ueber/Unter ~1.88-1.91. Markt-Spread schwankt -3.5 bis -4.5.",
+        "Cavs 6-0 Heim-Playoff-Rekord 2026 - sehr stabile Heim-Statistik (Top 3 Pkt, 3er, Effizienz, OffRtg, fewest TOs zuhause).",
+        "G5 OT-Win 117-113 nach 9-Pkt-Aufholjagd in letzten 3 Min Regulation + Harden 30 Pkt Playoff-Career-High.",
+        "Cunningham 39 Pkt/7 Reb/9 Ast in G5-Verlust - hot hand unter Sweep-Druck. Lesson 30.04. (Star-vs-Star-Bruch) warnt vor UNTER bei Star-Eskalation - aber Total 209.5 ist niedrig (unter 215-Schwelle Lesson 02.05.).",
+        "Player-Punkte / Spielerprops VERBOTEN per Lesson 26.04. (Markt-Boykott seit -46.2% ROI, n=17).",
+        "Mapper-Hebel B: NBA-Playoffs-Decider nie SAFE - max WACKEL."
+      ],
+      "tipps": [
+        {
+          "id": "cle-det-1",
+          "kategorie": "wackel",
+          "markt": "Cleveland Cavaliers Sieg",
+          "quote": 1.57,
+          "edge_prozent": 3,
+          "faire_quote": 1.52,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Cavs 6-0 Heimplayoff-Statistik 2026 + Closeout-Heim-Pflicht + Pistons-Backup-Scoring duenn (3 Q-Verletzte). WACKEL per Mapper-Hebel B (NBA-Playoff-Decider nie SAFE) und Lesson 25.04. (Sweep-Druck-Spiele unberechenbar). Reality-Check NBA Playoffs +ROI-Goldgrube R2/G2 nicht direkt auf R2/G6 uebertragbar. Stake 0.5% = 2.75 EUR."
+        },
+        {
+          "id": "cle-det-2",
+          "kategorie": "wackel",
+          "markt": "Unter 209.5 Punkte (Spiel-Total)",
+          "quote": 1.88,
+          "edge_prozent": 4,
+          "faire_quote": 1.81,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Lesson 02.05. (NBA-G6/G7-Closeout-Defensiv-Schlachten): Lines < 215 sind im Sweep-Druck haeufig UNDER-Treffer wegen Defensiv-Komprimierung. 209.5 ist die niedrigste Linie der Serie - Buchmacher antizipieren Defense. Markt-Goldgrube Unter 2.5-Pendant (Totals, n=9, 66.7%/+25.3% ROI) +ROI. WACKEL weil Cunningham-Hot-Hand-Risiko (Star-vs-Star-Lesson 30.04.). Stake 0.5% = 2.75 EUR."
+        },
+        {
+          "id": "cle-det-3",
+          "kategorie": "wackel",
+          "markt": "Cleveland Cavaliers -3.5 (Spread)",
+          "quote": 1.87,
+          "edge_prozent": 3,
+          "faire_quote": 1.82,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Cavs 6-0 Heim-Playoff-Rekord + Pistons-3-Q-Verletzte + Closeout-Heim-Motivation. -3.5 ist die Standard-Spread-Linie (-4.5 alternative). Cavs sollten bei Heim-Energie mehr als 3 Pkt gewinnen, falls sie ueberhaupt gewinnen. WACKEL wegen Pistons-Cunningham-Eliminations-Adrenalin und Lesson 25.04. Stake 0.5% = 2.75 EUR."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "94:115",
+        "halbzeit": "41:54",
+        "quelle": "ESPN / NBA.com / Land of Basketball"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "cle-det-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Cavs verloren 94:115 (-21) - Pistons forced Game 7"
+        },
+        {
+          "tipp_id": "cle-det-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.88,
+          "kommentar": "Total 209 (94+115=209) - knapp UNTER 209.5 (+0.5 Marge)"
+        },
+        {
+          "tipp_id": "cle-det-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Cavs verloren mit 21 Pkt, Spread -3.5 nicht abgedeckt"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "41:54",
+        "endstand": "94:115",
+        "tore": [],
+        "quartal_stand": {
+          "halbzeit": "41:54",
+          "ende_q3": "70:84",
+          "endstand": "94:115",
+          "kommentar": "Pistons fuehrten ab dem 1. Viertel und kontrollierten das Spiel - Heim-Cavs nie in Front. Cavs hatten 13-Pkt-HZ-Defizit, kamen in Q3 bis auf 6 Pkt heran (74:68), dann 13:2-Pistons-Run zur Vorentscheidung."
+        },
+        "drehung": {
+          "war_drehung": false,
+          "details": "Pistons fuehrten ab Q1 durchgehend - kein Drehungs-Stand 2+-Differenz fuer Cavs vorhanden. Cavs kamen einmalig auf 6-Pkt-Differenz heran (74:68), drehten aber nie."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "halbzeit_endstand": "Detroit/Detroit",
+          "total_punkte": 209,
+          "unter_209_5": true,
+          "spread_pistons_plus_3_5": "gewonnen (Pistons +21)",
+          "spread_cavs_minus_3_5": "verloren"
+        },
+        "rotation_highlights": [
+          {"team": "gast", "spieler": "Cade Cunningham", "details": "Sweep-Druck-Cunningham gestern 39 Pkt G5 - heute 21 Pkt aber 9 Ast/7 Reb (Distributor-Modus) + ueberragender Team-Sieg."},
+          {"team": "gast", "spieler": "Jalen Duren", "details": "15 Pkt + 11 Reb DD - Bench-Production-Stabilitaet trotz 3 Q-Verletzte (Robinson/LeVert/Huerter)."},
+          {"team": "gast", "spieler": "Daniss Jenkins", "details": "15 Pkt aus dem Bankbereich - Pistons-Tiefe trotz Verletzungs-Welle aktiviert."}
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Pistons-Auswaerts-21-Pkt-Sieg im Closeout-G6 = NBA-Playoff-Rekord-Tying (66 Jahre alt) fuer groessten Auswaerts-G6-Sieg eines 3-2-trailenden Teams.",
+          "Cavs 6-0-Heim-Playoff-Rekord BEENDET - Heimcourt-Edge bei Closeout-G6 hat sich aufgeloest (zweite Closeout-Konfiguration des Tages mit Heim-Niederlage neben MIN-SAS).",
+          "Total 209 traf knapp Unter 209.5 - Lesson-02.05.-These (Defensiv-Schlachten unter 215) bestaetigt nur PARTIAL: 1. HZ Pistons 54 Pkt waren blowoutartig, Spielfluss insgesamt nicht defensiv im klassischen Sinn (Pistons 115 = >100 = kein Defensiv-Tank), aber Cavs offensiv blockiert (94 = unter Saison-Schnitt).",
+          "Star-Triple-Mismatch: Mitchell 21 + Harden 30 + Mobley 19 reichten nicht gegen Pistons-Tiefe (Cunningham 21 + Duren 15+11 + Jenkins 15)."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-15-min-sas",
+      "liga": "NBA Playoffs Conference Semifinals, Game 6",
+      "heim": "Minnesota Timberwolves",
+      "gast": "San Antonio Spurs",
+      "anstoss": "2026-05-16T03:30:00+02:00",
+      "stadion": "Target Center, Minneapolis",
+      "saison_kontext": {
+        "parallel_heim": "keine - NBA-only. Bei Niederlage Saison-Ende.",
+        "parallel_gast": "keine - NBA-only. Bei Sieg WCF erreicht.",
+        "saisonziel_heim": "Conf-Semis-Stand 2-3 nach G5-Blowout-Niederlage. Sweep-Abwehr-Heim-Pflicht G6 fuer G7-Heim. Wolves haben 2024 von 2-3 gegen Denver gedreht und WCF erreicht - Hoffnungstraeger.",
+        "saisonziel_gast": "Series-Lead 3-2 nach dominantem G5. Closeout-Reise um erstmaligen Conference-Final-Einzug der Wembanyama-Aera Spurs. Alle 3 Spurs-Wins waren Blowouts (Avg +24.7 Pkt).",
+        "motivations_asymmetrie": "Sweep-Abwehr-Heim-Konfiguration: Lesson 24.04. 'Sweep-Abwehr-Heimsieg' (Raptors als +5.5-Dog gegen Cavs gewann 22 Pkt Upset) gibt Wolves +5.5 Edge - Heim-Underdog im Win-or-go-home gewinnt statistisch ueberdurchschnittlich. Gegen Wembanyama-Form-Lauf (G5: 27/17/3-Blocks). Edwards mit Knie-Bandage spielt, Fox mit Knoechel-Issue spielt - beide questionable-aber-likely. Coinflip-Profil mit Sweep-Abwehr-Edge fuer Wolves +5.5.",
+        "recovery_heim": "3 Tage seit G5-Niederlage (12.05.) - Heimspiel-Energie aktiviert. Edwards-Knie-Bandage, DiVincenzo-Status pre-match. Gobert-Minuten in G5 nur 23 Min (Wolves spielen oft 5-out mit Naz Reid wegen Wemby-Matchup).",
+        "recovery_gast": "3 Tage seit G5-Sieg - Reise nach Minneapolis, kurzes Fenster aber positive Momentum. Wembanyama fit nach Ejection-Adrenalin-G5-Comeback.",
+        "quellen": [
+          "https://www.nba.com/playoffs/2026/west-semifinal-2",
+          "https://sports.yahoo.com/articles/spurs-vs-timberwolves-2026-nba-193427010.html",
+          "https://www.espn.com/nba/story/_/id/48755713/wemby-bounce-back-fuels-rout-spurs-take-3-2-series-lead",
+          "https://clutchpoints.com/nba/minnesota-timberwolves/timberwolves-news-skip-bayless-rudy-gobert-benched-victor-wembanyama-game-6"
+        ]
+      },
+      "news": [
+        "Aggregator-Quoten: Spurs ML 1.53, Wolves ML 2.92, Spread Spurs -4.5 @ 1.91, Wolves +4.5 @ 1.91. Total 218.5 - Ueber/Unter @ 1.91 each.",
+        "Spurs 3-2 vorne aber alle 3 Wins waren Blowouts (Avg +24.7 Pkt) - Spurs koennen Serie clinchen mit 4. Blowout, aber Wolves zuhause anders gestrickt.",
+        "Wembanyama G5 27/17/3-Blocks Response auf G4-Ejection - Defensive-Anchor dominant. 15+ Reb in 4 von 5 Spielen.",
+        "Edwards 'Knie-aching' mit zusaetzlichen Recovery-Stunden - questionable aber play-likely. Fox/Spurs cleared.",
+        "Player-Punkte / Spielerprops VERBOTEN per Lesson 26.04. - keine Wemby/Edwards/Fox-Punkte-Tipps trotz Form-Edge.",
+        "Mapper-Hebel B: NBA-Playoff-Decider nie SAFE - max WACKEL."
+      ],
+      "tipps": [
+        {
+          "id": "min-sas-1",
+          "kategorie": "wackel",
+          "markt": "Minnesota Timberwolves +5.5 (Spread)",
+          "quote": 1.91,
+          "edge_prozent": 5,
+          "faire_quote": 1.82,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Lesson 24.04. Sweep-Abwehr-Heim-Underdog: +5.5-Punkte-Hedge nuetzt selbst bei knapper Niederlage. Edwards + McDaniels + Gobert/Reid-Kern ist ein zuverlaessiges Heim-Set-up; Target-Center-Energie aktiviert. Heim-Underdog in Sweep-Abwehr-Konfiguration historisch unterschaetzt (Raptors-Cavs-Upset-Analog). WACKEL wegen Wembanyama-Hot-Hand-Risiko Lesson 30.04. Stake 0.5% = 2.75 EUR."
+        },
+        {
+          "id": "min-sas-2",
+          "kategorie": "wackel",
+          "markt": "Ueber 218.5 Punkte (Spiel-Total)",
+          "quote": 1.91,
+          "edge_prozent": 3,
+          "faire_quote": 1.85,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Spurs G5 mit 126 Pkt + Wembanyama-Form-Lauf + Edwards-Sweep-Abwehr-Adrenalin = Tempo-Asymmetrie hoeher. Markt-Goldgrube Ueber 2.5-Pendant Totals +ROI. 218.5 grenzwertig zur Lesson-02.05.-Schwelle 219, aber NBA-Closeout-G6 mit beidseitiger Saison-vs-Closeout-Motivation tendenziell offensiver. WACKEL wegen Spurs-Blowout-Defense-Pattern. Stake 0.5% = 2.75 EUR."
+        },
+        {
+          "id": "min-sas-3",
+          "kategorie": "wackel",
+          "markt": "San Antonio Spurs Sieg",
+          "quote": 1.53,
+          "edge_prozent": 2,
+          "faire_quote": 1.5,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Closeout-Reise des 2-Seeds mit Wembanyama in dominantester Saison-Form (G5: 27/17/3-Blocks) + alle 3 Spurs-Wins waren +24-Pkt-Blowouts. WACKEL per Mapper-Hebel B (NBA-Playoff-Decider nie SAFE) + Lesson 24.04. Sweep-Abwehr-Heim-Underdog-Edge spricht GEGEN diesen Tipp. Defensive-Pick fuer Sieg-Cluster-Diversifikation. Stake 0.5% = 2.75 EUR."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "109:139",
+        "halbzeit": null,
+        "quelle": "Yahoo Sports / NBA.com / Sportscenter"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "min-sas-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Wolves verloren mit 30 Pkt (109:139) - +5.5 nicht annaehernd erreicht. Sweep-Abwehr-These ELEMENTAR widerlegt"
+        },
+        {
+          "tipp_id": "min-sas-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.91,
+          "kommentar": "Total 248 (109+139) - klar UEBER 218.5 (+29.5 Marge). Spurs-Blowout mit hohem Score"
+        },
+        {
+          "tipp_id": "min-sas-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.53,
+          "kommentar": "Spurs gewannen mit 30 Pkt - Closeout-Reise erfolgreich, WCF gegen Thunder erreicht"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": null,
+        "endstand": "109:139",
+        "tore": [],
+        "quartal_stand": {
+          "ende_q1": "32:28 (Wolves vorne nach Q1)",
+          "ende_q3": "84:110 (Spurs +26)",
+          "endstand": "109:139",
+          "kommentar": "Wolves fuehrten kurz nach Q1 (32:28), dann Spurs-20:0-Run + 5-Min-Wolves-Scoring-Drought zu Beginn Q2. Spurs nie wieder hinten, Lead bis +34. Klassischer Spurs-Blowout-Pattern (4. Mal in 6 Spielen)."
+        },
+        "drehung": {
+          "war_drehung": true,
+          "details": "Wolves fuehrten Q1-Ende 32:28 (4 Pkt) - Spurs reagierten mit 20:0-Run + 5-Min-Wolves-Scoring-Drought. Endstand Spurs +30 = klare Drehung des Q1-Wolves-Leads, dann Blowout. NBA-Drehungs-Algorithmus weniger streng als Fussball (Q1-Lead nur 4 Pkt), aber 34-Pkt-Spurs-Maximum-Lead vs 4-Pkt-Wolves-Q1-Lead = +38-Pkt-Score-Differential-Swing - klares Drehungs-Pattern."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "halbzeit_endstand": "Spurs/Spurs (vermutet, kein HZ-Stand explizit verfuegbar)",
+          "total_punkte": 248,
+          "ueber_218_5": true,
+          "ueber_240_5": true,
+          "spread_spurs_minus_4_5": "gewonnen (Spurs +30)",
+          "spread_wolves_plus_5_5": "verloren"
+        },
+        "rotation_highlights": [
+          {"team": "gast", "spieler": "Stephon Castle", "details": "32 Pkt + 11 Reb + 6 Ast (11/16 FG, 5/7 3PT) - Bench-Star-Eskalation in Closeout statt Wembanyama als Anchor."},
+          {"team": "gast", "spieler": "Victor Wembanyama", "details": "Quiet 19 Pkt in 27 Min - musste nicht fuehren weil Castle uebernahm + Wolves-Defensive-Kollaps."},
+          {"team": "heim", "spieler": "Rudy Gobert + Julius Randle", "details": "Zusammen 3 Pkt auf 1/12 FG - Saison-Ende-Trade-Spekulationen real."},
+          {"team": "heim", "spieler": "Anthony Edwards", "details": "24 Pkt aber 9/26 FG (35%) - Knie-Bandage merkbar, kein Sweep-Abwehr-Heim-Hot-Hand."}
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Spurs-Auswaerts-30-Pkt-Closeout-Sieg = 4. Blowout in 6 Serien-Spielen, Avg-Sieg-Marge +27 Pkt - Pattern bestaetigt sich bis ans Ende.",
+          "ZWEITER Closeout-Heim-Kollaps des Tages: Wolves -30 + Cavs -21 = beide Heim-Closeouts bei NBA-G6 verloren EKLATANT. Sweep-Abwehr-Heim-Underdog-Edge (Lesson 24.04.) heute komplett widerlegt - NEUE LESSON-PFLICHT.",
+          "Lesson-02.05.-Defensiv-Schlachten-These widerlegt: Total 248 deutlich UEBER 218.5-Linie. Closeout-G6-NICHT defensiv wenn Auswaerts-Team klar dominant.",
+          "Castle als unerwarteter Closeout-Star statt Wembanyama (G5-Form-Lauf). Spurs-Tiefe = Series-Game-Changer."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "et-1",
+      "spiel_id": "2026-05-15-avl-liv",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore (Aston Villa - Liverpool)",
+      "quote": 1.75,
+      "edge_prozent": 8,
+      "faire_quote": 1.61,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "Markt-Goldgrube Ueber 2.5 Tore (+52.3% ROI, n=12) aktiv gesucht. CL-Quali-Pflicht beidseitig, Liverpool offensiv mit Isak ohne UEFA-Sorge. Klarer Edge.",
+      "rang": 1
+    },
+    {
+      "id": "et-2",
+      "spiel_id": "2026-05-15-avl-liv",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen JA (Aston Villa - Liverpool)",
+      "quote": 1.6,
+      "edge_prozent": 4,
+      "faire_quote": 1.54,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "Beidseitige Tore-Erwartung. Watkins 6 Tore in 11 PL-Spielen gegen LIV. Isak primaerer 9er ohne Salah. Soliderer Wert als Sieg-Tipp.",
+      "rang": 2
+    },
+    {
+      "id": "et-3",
+      "spiel_id": "2026-05-15-avl-liv",
+      "kategorie": "value",
+      "markt": "Doppelte Chance X2 - Liverpool oder Unentschieden (Aston Villa - Liverpool)",
+      "quote": 1.36,
+      "edge_prozent": 3,
+      "faire_quote": 1.32,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "Floor-Set-up: Villa EL-Final-5-Tage-Vorlauf vs Liverpool voll-fokussiert ohne UEFA. Isak als Star-Backup-Pflicht-9er. DC X2 absorbiert auch Draw-Szenario.",
+      "rang": 3
+    },
+    {
+      "id": "et-4",
+      "spiel_id": "2026-05-15-avl-liv",
+      "kategorie": "wackel",
+      "markt": "Alexander Isak Torschuetze Jederzeit (Aston Villa - Liverpool)",
+      "quote": 1.9,
+      "edge_prozent": 5,
+      "faire_quote": 1.81,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "Salah pre-match nur 'wenige Minuten' -> Isak primaerer 9er. Star-Backup-Pflicht. Markt-Goldgrube Torschuetzen Jederzeit (+19.5% ROI).",
+      "rang": 4
+    },
+    {
+      "id": "et-5",
+      "spiel_id": "2026-05-15-cle-det",
+      "kategorie": "wackel",
+      "markt": "Cleveland Cavaliers Sieg (Cleveland - Detroit)",
+      "quote": 1.57,
+      "edge_prozent": 3,
+      "faire_quote": 1.52,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "Cavs 6-0 Heim-Playoff-Rekord + Closeout. Mapper-Hebel B + Lesson 25.04. = max WACKEL.",
+      "rang": 5
+    },
+    {
+      "id": "et-6",
+      "spiel_id": "2026-05-15-cle-det",
+      "kategorie": "wackel",
+      "markt": "Unter 209.5 Punkte (Cleveland - Detroit)",
+      "quote": 1.88,
+      "edge_prozent": 4,
+      "faire_quote": 1.81,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "Lesson 02.05. Closeout-Defensive-Schlachten unter 215-Linie. Niedrigste Linie der Serie.",
+      "rang": 6
+    },
+    {
+      "id": "et-7",
+      "spiel_id": "2026-05-15-min-sas",
+      "kategorie": "wackel",
+      "markt": "Minnesota Timberwolves +5.5 (Minnesota - San Antonio)",
+      "quote": 1.91,
+      "edge_prozent": 5,
+      "faire_quote": 1.82,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "Lesson 24.04. Sweep-Abwehr-Heim-Underdog. 5.5-Punkte-Hedge schuetzt knappe Niederlage.",
+      "rang": 7
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-safe-totals",
+      "name": "Safe ~3x (Tor-Totals-Cluster)",
+      "kategorie": "safe",
+      "gesamtquote": 3.01,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 11.0,
+      "beine": [
+        {
+          "spiel_id": "2026-05-15-avl-liv",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.6
+        },
+        {
+          "spiel_id": "2026-05-15-cle-det",
+          "markt": "Unter 209.5 Punkte",
+          "quote": 1.88
+        }
+      ],
+      "begruendung": "Layer-2-konformer Tor-Cluster, kein Sieg-Outcome: AVL-LIV BTTS JA (beidseitige CL-Quali-Pflicht-Tore-Erwartung + Watkins-vs-LIV-Heim-Bias + Isak-Primaer-9er) + CLE-DET Unter 209.5 (Lesson 02.05. Closeout-Defense, niedrigste Serien-Linie). Honest 'Safe-Stretch' weil keine echten SAFE-Tipps heute moeglich (Coinflip-Pflicht-Regel + Mapper-Hebel B). Stake 2% von 550 EUR = 11 EUR.",
+      "rechnung": "1.60 x 1.88 = 3.01"
+    },
+    {
+      "id": "kombi-balance-mix",
+      "name": "Balance ~6.8x (Markt-Mix mit 1 Sieg-Outcome)",
+      "kategorie": "balance",
+      "gesamtquote": 6.79,
+      "empfohlener_einsatz_prozent": 0.8,
+      "einsatz_euro": 4.4,
+      "beine": [
+        {
+          "spiel_id": "2026-05-15-avl-liv",
+          "markt": "Alexander Isak Torschuetze Jederzeit",
+          "quote": 1.9
+        },
+        {
+          "spiel_id": "2026-05-15-cle-det",
+          "markt": "Cleveland Cavaliers -3.5 (Spread)",
+          "quote": 1.87
+        },
+        {
+          "spiel_id": "2026-05-15-min-sas",
+          "markt": "Ueber 218.5 Punkte",
+          "quote": 1.91
+        }
+      ],
+      "begruendung": "Layer-1+2+3-Markt-Mix: Torschuetze + Spread-Sieg + Total - alle drei Spiele vertreten, pro Spiel 1 Bein. Isak Star-Backup-Pflicht (Salah doubtful), Cavs -3.5 (Heim-Closeout-6-0-Bias), Spurs-Wolves Ueber 218.5 (Wembanyama-Form + Sweep-Abwehr-Tempo). CLE-DET-Sieg-Outcome wird hier verbraucht -> nicht in Safe/Risiko erneut. Stake 0.8% = 4.40 EUR.",
+      "rechnung": "1.90 x 1.87 x 1.91 = 6.79"
+    },
+    {
+      "id": "kombi-risiko-stretch",
+      "name": "Risiko ~18x (Underdog-Sieg + Torschuetze + Total)",
+      "kategorie": "risiko",
+      "gesamtquote": 18.12,
+      "empfohlener_einsatz_prozent": 0.25,
+      "einsatz_euro": 1.4,
+      "beine": [
+        {
+          "spiel_id": "2026-05-15-avl-liv",
+          "markt": "Cody Gakpo Torschuetze Jederzeit",
+          "quote": 3.3
+        },
+        {
+          "spiel_id": "2026-05-15-cle-det",
+          "markt": "Unter 209.5 Punkte",
+          "quote": 1.88
+        },
+        {
+          "spiel_id": "2026-05-15-min-sas",
+          "markt": "Minnesota Timberwolves Sieg",
+          "quote": 2.92
+        }
+      ],
+      "begruendung": "Risiko-Stretch mit 1 Sieg-Outcome (Wolves ML als Sweep-Abwehr-Upset-These Lesson 24.04.) + 1 Torschuetze (Gakpo Sekundaer-Pick bei Salah-Ausfall) + 1 Total (Lesson 02.05. Closeout-Defense, ueberlappt bewusst mit Safe weil mager-Slate Markt-Entkopplung erzwingt). MIN-SAS-Sieg-Outcome wird hier verbraucht -> nicht in Safe/Balance. CLE-DET Unter 209.5 reuse aus Safe per Layer-3-Weich-Regel bei nur 3 Spielen. Stake 0.25% = 1.40 EUR.",
+      "rechnung": "3.30 x 1.88 x 2.92 = 18.12"
+    }
+  ],
+  "lessons_angewandt": [
+    {
+      "lesson": "Coinflip-Saisonende-Pflicht-Regel (Markt-Mix-Pflicht 04.05.)",
+      "anwendung": "AVL-LIV mit beidseitiger CL-Quali-Pflicht (Quoten 2.88/3.40/2.32) als Coinflip eingestuft -> KEIN SAFE. Max 3 Value-Tipps (Ueber 2.5 + BTTS + DC X2) + 2 Wackel-Torschuetzen (Isak + Gakpo). Kein Sieg-Outcome als SAFE."
+    },
+    {
+      "lesson": "Top-Team-Rotation-vor-Pflicht-Final 7-Tage-Cluster (Lesson 14.05.)",
+      "anwendung": "Aston Villa hat EL-Final 20.05.2026 in Istanbul (5 Tage Vorlauf) - Volume-9er-Watkins-Torschuetzen-Tipp komplett GEDROPPED trotz 6-Tore-in-11-PL-Spielen-Heim-Bias gegen LIV. Quote ~2.10 nicht im Tipp-Pool."
+    },
+    {
+      "lesson": "Star-Backup-Pflicht bei Saison-Verletzung (Lessons 14.05. + 15.05.)",
+      "anwendung": "Salah pre-match nur 'wenige Minuten' verfuegbar (Slot/SI) + Ekitike OUT long-term -> Isak als primaerer Liverpool-9er gesetzt = Torschuetzen-Tipp Isak @ 1.90 als WACKEL. Sekundaer Gakpo @ 3.30. Markt-Goldgrube Torschuetzen Jederzeit (+19.5% ROI, n=28)."
+    },
+    {
+      "lesson": "Mapper-Hebel B: NBA-Playoff-Decider nie SAFE",
+      "anwendung": "Beide NBA-G6-Conf-Semis (Cavs-Pistons + Wolves-Spurs) max WACKEL. Cavs Sieg @ 1.57 trotz 6-0-Heimplayoff-Rekord ist wackel - Sweep-Druck-Spiel-Lesson 25.04. Pistons-Cunningham-Form-Risiko + Wembanyama-Hot-Hand-Risiko."
+    },
+    {
+      "lesson": "NBA-G6/G7-Closeout-Defensiv-Schlachten (Lesson 02.05.)",
+      "anwendung": "Cavs-Pistons Total 209.5 < 215-Schwelle -> Unter 209.5 als WACKEL (Defense-Komprimierung). Wolves-Spurs Total 218.5 grenzwertig zur 219-Schwelle -> Ueber 218.5 als WACKEL mit Vorsicht (Wembanyama-Form-Lauf-These + Edwards-Sweep-Abwehr-Adrenalin)."
+    },
+    {
+      "lesson": "Sweep-Abwehr-Heim-Underdog-Edge (Lesson 24.04.)",
+      "anwendung": "Wolves +5.5 als WACKEL gespielt - Heim-Underdog in Sweep-Abwehr-Konfiguration historisch unterschaetzt (Raptors-Cavs-Upset-Analog). 5.5-Punkte-Hedge schuetzt auch knappe Niederlage. Wolves ML @ 2.92 als Risiko-Kombi-Bein fuer Upset-These."
+    },
+    {
+      "lesson": "NBA-Playoff-Player-Punkte-Markt-Boykott (Lesson 26.04.)",
+      "anwendung": "Komplett keine Player-Punkte/DD/TD-Tipps fuer Cunningham/Mitchell/Wembanyama/Edwards/Fox/Harden trotz attraktiver Form-Edges (Cunningham 39 G5, Wembanyama 27/17 G5, Harden 30 G5 Playoff-Career-High). Markt-Performance -46.2% ROI ueber 17 Tipps zu schlecht."
+    },
+    {
+      "lesson": "SAFE-Hitrate-Reality + Total-Einsatz-Disziplin (Lesson 15.05.)",
+      "anwendung": "3-Spiele-Tag -> nur 3 Kombis (Safe + Balance + Risiko), kein Moonshot da 100x ehrlich nicht erreichbar mit nur 3 Spielen / Layer-1-max-3-Beine. Einzel-Tipps auf 7 reduziert. Total-Exposition: 1.5%x3 + 0.5%x4 Einzel = 6.5% + 2%+0.8%+0.25% Kombi = 9.55% Kasse exponiert (unter 10%-Limit)."
+    },
+    {
+      "lesson": "Markt-Goldgruben aktiv suchen (Ueber 2.5 Tore +52.3%, BTTS-Pendant, Torschuetzen Jederzeit +19.5%)",
+      "anwendung": "AVL-LIV Ueber 2.5 @ 1.75 als Top-Value-Einzeltipp + Isak/Gakpo Torschuetzen-Tipps + Totals in Safe/Balance/Risiko-Kombis. Bewusste Markt-Priorisierung."
+    },
+    {
+      "lesson": "Layer-2 + Layer-3 Kombi-Diversifikation (Lessons 29.04. + 01.05.)",
+      "anwendung": "Layer-2 hart: AVL-LIV Sieg-Outcome in keinem Kombi (free in Einzeltipp DC X2); CLE-DET Sieg-Outcome nur in Balance (Cavs -3.5); MIN-SAS Sieg-Outcome nur in Risiko (Wolves ML). Layer-3 weich: Bei nur 3 Spielen unvermeidbare Markt-Reuses, aber pro Spiel verschiedene Markt-Pendants gewaehlt."
+    }
+  ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-05-15T18:05:00+02:00",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "halluzinations_check",
+        "details": "Isak (LIV) als ST in squad_gast verifiziert (recherche zeile 39, Position 'ST'). Gakpo (LIV) als LM/ST in squad_gast verifiziert (recherche zeile 38, Position 'LM/ST'). Beide Torschuetzen-Tipps positions-konform - keine Hojlund-Bug-Wiederholung."
+      },
+      {
+        "art": "selbstwiderspruch_check",
+        "details": "CLE-DET Unter 209.5 erscheint in Safe-Kombi UND Risiko-Kombi (correlated reuse). Bewusst gewaehlt per Layer-3-Weich-Regel bei 3-Spiele-Slate. Strategisch korreliert (nicht gegensaetzlich) - kein Selbstwiderspruch, aber Stake-Risk-Exposure beachten."
+      },
+      {
+        "art": "moonshot_drop",
+        "details": "Moonshot-Kombi nicht produziert da 100x bei nur 3 Spielen + Layer-1 max 3 Beine + Lesson 14.05 (Watkins-Drop) + Lesson 26.04 (NBA-Player-Punkte-Verbot) nicht ehrlich erreichbar. Hoechstmoegliche Stretch waere ~12-18x (= Risiko-Range). CLAUDE.md 'Ehrlich-Prinzip': dropped statt Kombi-Quoten-Falschen."
+      },
+      {
+        "art": "quoten_plausibilitaet",
+        "details": "AVL-Sieg-Quote Recherche-Aggregator 2.88 vs Watkins/PSAFETIME-Berichte 2.10 - bet365 live pruefen, Spanne breit. Tipps verwenden DC X2 @ 1.36 (Liverpool-Sieg-Edge-Proxy), nicht AVL Sieg direkt - somit irrelevant fuer dieses Tipps-Set."
+      },
+      {
+        "art": "verband_quellen_check",
+        "details": "AVL-LIV saison_kontext.quellen[] enthaelt premierleague.com + uefa.com (EL-Final) - OK. CLE-DET + MIN-SAS quellen[] enthaelt nba.com - OK (NBA Verband-Aequivalent)."
+      }
+    ],
+    "lessons_generiert": [],
+    "layer_check": {
+      "layer_1": "OK - jede Kombi max 1 Bein pro Spiel.",
+      "layer_2": "OK - AVL-LIV Sieg-Outcome in 0 Kombis (in Einzeltipp DC X2 free); CLE-DET Sieg-Outcome (Cavs -3.5) nur in Balance; MIN-SAS Sieg-Outcome (Wolves ML) nur in Risiko. Jeder Spiel-Sieg-Outcome in maximal 1 Kombi.",
+      "layer_3": "WEICH - bei nur 3 Spielen unvermeidbar dass Spiele in mehreren Kombis vorkommen. Markt-entkoppelt wo moeglich: AVL-LIV (BTTS Safe, Isak Balance, Gakpo Risiko = 3 verschiedene Maerkte); CLE-DET (Unter Safe + Risiko = Reuse, Cavs -3.5 Balance); MIN-SAS (Ueber Balance, Wolves ML Risiko = 2 verschiedene Maerkte)."
+    }
+  },
+  "footer": "18+ · bet365 DE · Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool, keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "einzeltipps_ergebnis": [
+    {
+      "id": "et-1",
+      "spiel_id": "2026-05-15-avl-liv",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore (Aston Villa - Liverpool)",
+      "quote": 1.75,
+      "edge_prozent": 8,
+      "faire_quote": 1.61,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "Markt-Goldgrube Ueber 2.5 Tore (+52.3% ROI, n=12) aktiv gesucht. CL-Quali-Pflicht beidseitig, Liverpool offensiv mit Isak ohne UEFA-Sorge. Klarer Edge.",
+      "rang": 1,
+      "status": "gewonnen",
+      "gewinn_euro": 6.19,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-2",
+      "spiel_id": "2026-05-15-avl-liv",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen JA (Aston Villa - Liverpool)",
+      "quote": 1.6,
+      "edge_prozent": 4,
+      "faire_quote": 1.54,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "Beidseitige Tore-Erwartung. Watkins 6 Tore in 11 PL-Spielen gegen LIV. Isak primaerer 9er ohne Salah. Soliderer Wert als Sieg-Tipp.",
+      "rang": 2,
+      "status": "gewonnen",
+      "gewinn_euro": 4.95,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-3",
+      "spiel_id": "2026-05-15-avl-liv",
+      "kategorie": "value",
+      "markt": "Doppelte Chance X2 - Liverpool oder Unentschieden (Aston Villa - Liverpool)",
+      "quote": 1.36,
+      "edge_prozent": 3,
+      "faire_quote": 1.32,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "Floor-Set-up: Villa EL-Final-5-Tage-Vorlauf vs Liverpool voll-fokussiert ohne UEFA. Isak als Star-Backup-Pflicht-9er. DC X2 absorbiert auch Draw-Szenario.",
+      "rang": 3,
+      "status": "verloren",
+      "gewinn_euro": -8.25,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-4",
+      "spiel_id": "2026-05-15-avl-liv",
+      "kategorie": "wackel",
+      "markt": "Alexander Isak Torschuetze Jederzeit (Aston Villa - Liverpool)",
+      "quote": 1.9,
+      "edge_prozent": 5,
+      "faire_quote": 1.81,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "Salah pre-match nur 'wenige Minuten' -> Isak primaerer 9er. Star-Backup-Pflicht. Markt-Goldgrube Torschuetzen Jederzeit (+19.5% ROI).",
+      "rang": 4,
+      "status": "verloren",
+      "gewinn_euro": -2.75,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-5",
+      "spiel_id": "2026-05-15-cle-det",
+      "kategorie": "wackel",
+      "markt": "Cleveland Cavaliers Sieg (Cleveland - Detroit)",
+      "quote": 1.57,
+      "edge_prozent": 3,
+      "faire_quote": 1.52,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "Cavs 6-0 Heim-Playoff-Rekord + Closeout. Mapper-Hebel B + Lesson 25.04. = max WACKEL.",
+      "rang": 5,
+      "status": "verloren",
+      "gewinn_euro": -2.75,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-6",
+      "spiel_id": "2026-05-15-cle-det",
+      "kategorie": "wackel",
+      "markt": "Unter 209.5 Punkte (Cleveland - Detroit)",
+      "quote": 1.88,
+      "edge_prozent": 4,
+      "faire_quote": 1.81,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "Lesson 02.05. Closeout-Defensive-Schlachten unter 215-Linie. Niedrigste Linie der Serie.",
+      "rang": 6,
+      "status": "gewonnen",
+      "gewinn_euro": 2.42,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-7",
+      "spiel_id": "2026-05-15-min-sas",
+      "kategorie": "wackel",
+      "markt": "Minnesota Timberwolves +5.5 (Minnesota - San Antonio)",
+      "quote": 1.91,
+      "edge_prozent": 5,
+      "faire_quote": 1.82,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "Lesson 24.04. Sweep-Abwehr-Heim-Underdog. 5.5-Punkte-Hedge schuetzt knappe Niederlage.",
+      "rang": 7,
+      "status": "verloren",
+      "gewinn_euro": -2.75,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "kombi-safe-totals",
+      "status": "gewonnen",
+      "gesamtquote": 3.01,
+      "einsatz_euro": 11.0,
+      "gewinn_euro": 22.11,
+      "kommentar": "BTTS JA (4:2) + Unter 209.5 (94+115=209) - beide Beine getroffen"
+    },
+    {
+      "kombi_id": "kombi-balance-mix",
+      "status": "verloren",
+      "gesamtquote": 6.79,
+      "einsatz_euro": 4.4,
+      "gewinn_euro": -4.4,
+      "kommentar": "Isak (NICHT im Squad) verloren + Cavs -3.5 (Cavs -21) verloren - Ueber 218.5 (248) gewann zwar, aber Kombi schon vorher gerissen"
+    },
+    {
+      "kombi_id": "kombi-risiko-stretch",
+      "status": "verloren",
+      "gesamtquote": 18.12,
+      "einsatz_euro": 1.4,
+      "gewinn_euro": -1.4,
+      "kommentar": "Gakpo nicht getroffen + Wolves ML verloren (109:139) - nur Unter 209.5 traf"
+    }
+  ],
+  "tag_bilanz": {
+    "einsatz_gesamt_euro": 52.55,
+    "gewinn_gesamt_euro": 13.37,
+    "roi_prozent": 25.4,
+    "tipps_gewonnen": 4,
+    "tipps_verloren": 6,
+    "kombis_gewonnen": 1,
+    "kombis_verloren": 2,
+    "kasse_vorher": 550.0,
+    "kasse_nachher": 563.37
+  },
+  "ausgewertet_am": "2026-05-16T06:02:16+00:00"
+}

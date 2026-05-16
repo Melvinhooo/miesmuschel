@@ -1,5 +1,5 @@
 {
-  "notiz": "Lessons werden von Claude im Chat gepflegt (oder per Hand). Chronologisch, jede Lesson auf ein konkretes Spiel beziehen wenn moeglich. | 2026-05-14: +4 Lessons (Drehungs-Cluster + Saison-Verletzungs-Check-Pre-Match + Coinflip-Saisonende-Validierung + Top-Team-Pflicht-Final-7d-Schon)",
+  "notiz": "Lessons werden von Claude im Chat gepflegt (oder per Hand). Chronologisch, jede Lesson auf ein konkretes Spiel beziehen wenn moeglich. | 2026-05-14: +4 Lessons (Drehungs-Cluster + Saison-Verletzungs-Check-Pre-Match + Coinflip-Saisonende-Validierung + Top-Team-Pflicht-Final-7d-Schon) | 2026-05-15: +4 Lessons (Closeout-G6-Auswaerts-Blowout-Pattern + Sweep-Abwehr-Verfeinerung + Top-Team-Final-Schon-INVERS-bei-Karriere-Highlight + Korrelations-Schutz-Cap-Heim-Sieg-Cluster)",
   "lessons": [
     {
       "datum": "2026-04-22",
@@ -673,6 +673,30 @@
       "lesson": "STUANI-WACKEL @ 2.65 WON (+4.32€): Cristhian Stuani kam zur Halbzeit (46.) fuer Bryan Gil ALS Einwechslung rein und traf zum 1:1 (66.). Pattern-Bestaetigung: Veteran-9er als nominaler Backup bei jungen Vanat/Portu-Ausfaellen funktioniert besonders gut wenn das Heim-Team einen Klassenerhalts-Druck-Punkt erkaempfen MUSS und im 2. Durchgang offensiver wird. NEUE GOLDGRUBE-INDIKATION (n=1, beobachten): Veteran-Backup-9er-Torschuetzen-WACKEL/RISK-Tipps bei Heim-Team-Klassenerhalts-Pflichtspiel mit jungem Stamm-9er-Ausfall sind nicht-offensichtlich-WERT. ANWENDUNG: bei zukuenftigen Klassenerhalts-Heim-Spielen Veteran-Backup-9er (Stuani-Profil: 35+ Jahre, Karriere-Bonus, gewohnte Sub-Rolle) aktiv als WACKEL @ 2.30-2.80 scannen, NICHT als MOONSHOT abtun. Markt-Stat-Update: Goldgrube Torschuetzen Jederzeit (38.5% Hit / +21% ROI, n=26) profitiert auch von dieser Sub-Kategorie.",
       "bezug_spiel_id": "2026-05-14-gir-soc",
       "anwenden_ab": "2026-05-15"
+    },
+    {
+      "datum": "2026-05-15",
+      "kategorie": "Closeout-G6-Auswaerts-Blowout-Pattern (Quelle 8f - Markt-Pattern aus voller Analyse)",
+      "lesson": "EMPIRIE 15.05.: BEIDE NBA-G6-Closeouts (Cavs als Heim 3-2 vorne + Wolves als Heim 2-3 zurueck) verloren EKLATANT gegen Auswaerts-Teams: Pistons +21 (115:94) und Spurs +30 (139:109). Total Cavs-Pistons 209 (knapp Unter 209.5) - aber Spurs-Wolves 248 (deutlich Ueber 218.5) - Lesson 02.05. 'Closeout-Defensiv-Schlachten' nur fuer ELIMINATIONS-Druck-Spiele in engen Konfigurationen verlaesslich, NICHT fuer Spurs-style-Blowout-Closeouts. NEUE HARTREGEL G6-Closeout: (a) Heim-Closeout-ML/Spread-Tipp NIE als SAFE/VALUE wenn Heim-Team in Serie gegen Auswaerts-Team mit klarer Defensiv-/Tiefe-Edge spielt (Wolves vs Spurs-Wemby-Defense, Cavs vs Pistons-Cunningham-Tiefe). (b) Ueber/Unter-Tipps an Closeout-G6 mit Auswaerts-Blowout-Erwartung: bei Auswaerts-Team mit ueberdurchschnittlicher OffRtg (Spurs > 120) Ueber priorisieren statt Unter, auch wenn Linie unter Saison-Avg. (c) Korrelations-Vorsicht: Sieg + Spread auf gleiches Heim-Team in 2 Tipps gleichzeitig = Doppel-Risiko (heute: Cavs Sieg + Cavs -3.5 = beide -2.75 = -5.50 statt diversifiziert).",
+      "bezug_spiel_id": "2026-05-15-min-sas"
+    },
+    {
+      "datum": "2026-05-15",
+      "kategorie": "Sweep-Abwehr-Heim-Underdog-Edge VERFEINERT (Lesson 24.04. Update)",
+      "lesson": "WIDERLEGUNG 15.05.: Wolves +5.5 als Heim-Sweep-Abwehr-Underdog -> verloren mit 30 Pkt (Spurs 139:109, Castle 32 + Wembanyama 19 + Spurs-Bench dominant). Lesson 24.04. (Raptors als +5.5-Dog gegen Cavs gewann 22 Pkt Upset) galt Round-1-Top-Seed-Underperform-Pattern, NICHT Round-2-Conference-Semis gegen Top-3-Defense + Star-Form-Lauf. VERFEINERTE HARTREGEL: Sweep-Abwehr-Heim-Underdog-Edge gilt NUR bei (a) Round 1 ODER (b) Auswaerts-Team mit verletzungs-/form-bedingter Schwaeche ODER (c) Auswaerts-Team mit historischer Closeout-Verschlechterung. Bei Auswaerts-Team mit Wembanyama-/Castle-Form-Lauf + 3/4-Vor-Wins-Blowouts (Spurs-Avg +24.7 Pkt vor G6) ist Edge INVERTED -> Auswaerts-Spread-Cover wahrscheinlicher. Wolves-Beispiel: nicht Wolves +5.5 sondern Spurs -7.5 oder Total Ueber waere VALUE gewesen.",
+      "bezug_spiel_id": "2026-05-15-min-sas"
+    },
+    {
+      "datum": "2026-05-15",
+      "kategorie": "Top-Team-Final-Schon Lesson 14.05. INVERS bei Karriere-Highlight-Final (Quelle 8h - Rotation-Pattern)",
+      "lesson": "KONTRAFAKTISCHE EMPIRIE 15.05.: Lesson 14.05. (Top-Team-Rotation-vor-Pflicht-Final-7d-Schon) hat Watkins-Torschuetzen-Tipp gedroppt - aber Watkins spielte 90 Min + traf 2x (57', 73') beim 4:2 vs Liverpool. Quote ~2.10 -> Stake 0.5%=2.75 EUR -> ENTGANGENER GEWINN ~3.03 EUR. Pattern-Ursache: Lesson 14.05. basierte auf Bayern/Real/PSG-Routine-Final-Modus (jedes Jahr CL-HF -> Schon-Tendenzen). Aston Villa EL-Final ist KARRIERE-HIGHLIGHT fuer Emery-Coach + Volume-Stuermer - kein Schonen-Anreiz, sondern Form-Pflicht (Top-4 + EL-Form-Mitnahme). VERFEINERTE HARTREGEL: Lesson 14.05. NICHT auf Underdog-Final-Teams mit Karriere-Highlight-Final anwenden, NUR auf etablierte UEFA-Champions mit 3+ Final-Auftritten der letzten 5 Jahre. Konkret: Bayern, Real, PSG, ManCity, Liverpool -> JA. Villa, Frankfurt, Brighton, Atalanta -> NEIN, normal-bewerten. McGinn-Stamm-MF traf 89' = Stamm-Aufstellung uneingeschraenkt.",
+      "bezug_spiel_id": "2026-05-15-avl-liv"
+    },
+    {
+      "datum": "2026-05-15",
+      "kategorie": "Korrelations-Schutz - Doppelrisiko bei Heim-Sieg-Cluster (Quelle 8a)",
+      "lesson": "EMPIRIE 15.05.: Cleveland Cavaliers Cluster - Cavs Sieg (-2.75) + Cavs -3.5 Spread (-2.75) = -5.50 EUR Cluster-Verlust statt -2.75 bei diversifiziertem Set-up. Beide Tipps korreliert (beide brauchen Cavs-Sieg, Spread sogar Cavs-Sieg-mit-mind-4-Pkt). Cavs verloren mit 21 Pkt -> beide Tipps gerissen. ZUSATZ: Cavs -3.5 war auch in Balance-Kombi (Bein 2 von 3) -> Kombi-Reissung kostete weitere 4.40 EUR. Total Cleveland-Cluster-Exposure: 2.75 (et-5) + 2.75 (et-3 in Spielebene = 0 weil nur kombi) + 4.40 (Balance-Kombi) = 9.90 EUR an einem Spiel exponiert. NEUE HARTREGEL Korrelations-Cap: Pro Spiel max 1 Sieg-Outcome-Tipp im Einzeltipps-Bereich (ML ODER Spread ODER DC, nicht 2 davon gleichzeitig). Falls Spread + ML gewuenscht, dann 1 davon nur in Kombi (nicht zusaetzlich Einzeltipp). Konkret heute: et-5 Cavs ML UND cle-det-3 Cavs -3.5 in Balance-Kombi war Doppel-Tipp im Spielebene-Sinn - kuenftig Spread NUR in Kombi, nicht als zusaetzlichen Einzeltipp.",
+      "bezug_spiel_id": "2026-05-15-cle-det"
     }
   ]
 }
