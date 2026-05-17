@@ -1,0 +1,966 @@
+{
+  "datum": "2026-05-17",
+  "erstellt_am": "2026-05-17T10:30:00+00:00",
+  "modus": "tag",
+  "hinweis": "Recherche-Daten Sonntag 17.05.2026 (Sa-So Variante - Pre-Tipps-Datenbasis fuer Tipps-Slot 10:00 Berlin). Pendant zum Samstag-BL-Marathon: heute 7 PL MD37 + 10 LaLiga MD37 + 10 Serie A MD37 + 9 Ligue 1 MD34 (LETZTER Spieltag) + NBA East Conference Semis Game 7 Detroit @ Cleveland (Sonntag 20:00 ET / Montag 02:00 Berlin). Bundesliga RUHT (gestern war Saisonende - Bayern Meister, Wolfsburg/Heidenheim/St. Pauli Abstieg, Freiburg Conference-Quali via Platz 7 + EL-Final 20.05.). Recherche fokussiert auf die 9 Tipps-relevanten Spiele aus data/tipps/2026-05-17.json (Man Utd-Forest, Sevilla-RMA, Barca-Betis, ATM-Girona, Bilbao-Celta, Paris FC-PSG, Roma-Lazio, Inter-Verona, Pistons-Cavs G7) + Kontext fuer benachbarte Sonntag-Spiele (Newcastle-WHU, Atalanta-Bologna, OM-Rennes, Real Sociedad-Valencia). PARALLELE WETTBEWERBE PSG = CL-FINALE 30.05. vs Arsenal (Budapest) -> Rotation gegen Paris FC garantiert. Real Madrid = keine UEFA-Wettbewerbe mehr (CL-Aus im April). Barcelona ist nach Pokal-Sieg gegen Real Betis 14.05. wieder ruhig. Inter Mailand = Coppa Italia-Sieger 14.05. vs Lazio (2-0), keine UEFA mehr (CL-Aus). FA Cup FINAL Chelsea vs Man City war gestern (16.05.) am Wembley. PL-Top-4-Rennen: Arsenal Meister fix, ManCity/Liverpool/Chelsea/ManUtd Kampf um CL-Plaetze. Serie A Scudetto: Inter bereits Meister + Coppa Italia, Milan/Roma kaempfen um Champions-League-Plaetze (Top-4). LaLiga: Barcelona Meister fix (Madrid-Stadtderby-Sieg vor 1 Woche), Real Madrid kaempft um Platz 2 vor ATM. KASSE-Stand 04.05.2026: 550 EUR -> Stufe 1 (Aufbau-Phase) aktiv (Kasse < 1000 EUR). 2:0-Insurance-Regel gilt fuer BL+CL: heute KEIN BL und kein CL-Spiel -> Insurance heute NICHT anwendbar. bet365-Quoten via Aggregator (Sportsgambler, Oddschecker, Sportskeeda, Dailysports) US/UK-Format-Konversion; bei Wettzeit live pruefen. NIE Spielernamen erfunden - Squad-Listen ausschliesslich aus zitierten Vorbericht/Lineup-Quellen.",
+  "spiele": [
+    {
+      "id": "2026-05-17-mun-nfo",
+      "liga": "Premier League",
+      "matchday": 37,
+      "heim": "Manchester United",
+      "gast": "Nottingham Forest",
+      "anstoss": "2026-05-17T13:30:00+02:00",
+      "stadion": "Old Trafford, Manchester",
+      "schiedsrichter": "Michael Salisbury",
+      "squad_heim": [
+        {"name": "Senne Lammens", "position": "TW", "verifiziert_via": "https://www.sportskeeda.com/football/manchester-united-vs-nottingham-forest-prediction-betting-tips-may-17th-2026"},
+        {"name": "Diogo Dalot", "position": "RV", "verifiziert_via": "https://www.sportskeeda.com/football/manchester-united-vs-nottingham-forest-prediction-betting-tips-may-17th-2026"},
+        {"name": "Harry Maguire", "position": "IV", "verifiziert_via": "https://www.sportskeeda.com/football/manchester-united-vs-nottingham-forest-prediction-betting-tips-may-17th-2026"},
+        {"name": "Lisandro Martinez", "position": "IV", "verifiziert_via": "https://www.sportskeeda.com/football/manchester-united-vs-nottingham-forest-prediction-betting-tips-may-17th-2026"},
+        {"name": "Luke Shaw", "position": "LV", "verifiziert_via": "https://www.sportskeeda.com/football/manchester-united-vs-nottingham-forest-prediction-betting-tips-may-17th-2026"},
+        {"name": "Casemiro", "position": "DM", "verifiziert_via": "https://www.sportskeeda.com/football/manchester-united-vs-nottingham-forest-prediction-betting-tips-may-17th-2026"},
+        {"name": "Kobbie Mainoo", "position": "ZM", "verifiziert_via": "https://www.sportskeeda.com/football/manchester-united-vs-nottingham-forest-prediction-betting-tips-may-17th-2026"},
+        {"name": "Amad Diallo", "position": "RF", "verifiziert_via": "https://www.sportskeeda.com/football/manchester-united-vs-nottingham-forest-prediction-betting-tips-may-17th-2026"},
+        {"name": "Bruno Fernandes", "position": "OM", "verifiziert_via": "https://www.sportskeeda.com/football/manchester-united-vs-nottingham-forest-prediction-betting-tips-may-17th-2026", "hinweis": "Captain, Hauptzielspieler Torschuetzen-Markt"},
+        {"name": "Matheus Cunha", "position": "ST", "verifiziert_via": "https://www.sportskeeda.com/football/manchester-united-vs-nottingham-forest-prediction-betting-tips-may-17th-2026"},
+        {"name": "Bryan Mbeumo", "position": "LF", "verifiziert_via": "https://www.sportskeeda.com/football/manchester-united-vs-nottingham-forest-prediction-betting-tips-may-17th-2026"}
+      ],
+      "squad_gast": [
+        {"name": "Matz Sels", "position": "TW", "verifiziert_via": "https://www.sportskeeda.com/football/manchester-united-vs-nottingham-forest-prediction-betting-tips-may-17th-2026"},
+        {"name": "Neco Williams", "position": "RV", "verifiziert_via": "https://www.sportskeeda.com/football/manchester-united-vs-nottingham-forest-prediction-betting-tips-may-17th-2026"},
+        {"name": "Nikola Milenkovic", "position": "IV", "verifiziert_via": "https://www.sportskeeda.com/football/manchester-united-vs-nottingham-forest-prediction-betting-tips-may-17th-2026"},
+        {"name": "Jair Cunha", "position": "IV", "verifiziert_via": "https://www.sportskeeda.com/football/manchester-united-vs-nottingham-forest-prediction-betting-tips-may-17th-2026"},
+        {"name": "Luca Netz", "position": "LV", "verifiziert_via": "https://www.sportskeeda.com/football/manchester-united-vs-nottingham-forest-prediction-betting-tips-may-17th-2026"},
+        {"name": "Nicolas Dominguez", "position": "DM", "verifiziert_via": "https://www.sportskeeda.com/football/manchester-united-vs-nottingham-forest-prediction-betting-tips-may-17th-2026"},
+        {"name": "Elliot Anderson", "position": "ZM", "verifiziert_via": "https://www.sportskeeda.com/football/manchester-united-vs-nottingham-forest-prediction-betting-tips-may-17th-2026"},
+        {"name": "Dilane Bakwa", "position": "RF", "verifiziert_via": "https://www.sportskeeda.com/football/manchester-united-vs-nottingham-forest-prediction-betting-tips-may-17th-2026", "hinweis": "Gibbs-White ist laut Sportskeeda-Verletztenliste OUT - Bakwa wahrscheinlich auf 10er-Position"},
+        {"name": "Igor Jesus", "position": "ST", "verifiziert_via": "https://www.sportskeeda.com/football/manchester-united-vs-nottingham-forest-prediction-betting-tips-may-17th-2026"},
+        {"name": "Taiwo Awoniyi", "position": "LF", "verifiziert_via": "https://www.sportskeeda.com/football/manchester-united-vs-nottingham-forest-prediction-betting-tips-may-17th-2026"}
+      ],
+      "injuries_heim": [
+        "Matthijs de Ligt (Ruecken, OUT laut Sportskeeda)",
+        "Benjamin Sesko (Knock, fraglich)"
+      ],
+      "injuries_gast": [
+        "John Victor (OUT)",
+        "Murillo (OUT)",
+        "Nicolo Savona (OUT)",
+        "Ola Aina (OUT)",
+        "Willy Boly (OUT)",
+        "Zach Abbott (OUT)",
+        "Ibrahim Sangare (OUT)",
+        "Morgan Gibbs-White (OUT trotz Pre-Lineup-Erwaehnung; tatsaechlich verletzt laut Sportskeeda-Injury-Liste)",
+        "Callum Hudson-Odoi (OUT)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - kein europaeischer Wettbewerb diese Saison",
+        "gast": "keine - kein europaeischer Wettbewerb diese Saison (Forest verpasste Conference-Quali letzte Saison)",
+        "quellen": ["https://www.espn.com/soccer/match/_/gameId/740963/nottingham-forest-manchester-united"]
+      },
+      "saisonziel_heim": "Platz 3 PL (65 Pkt), CL-Quali-Lock vor Saisonende",
+      "saisonziel_gast": "Platz 16 (43 Pkt), Klassenerhalt schon mathematisch sicher, kein Saisonziel mehr",
+      "tabellenstand": {"heim_platz": 3, "heim_pkt": 65, "gast_platz": 16, "gast_pkt": 43, "quelle": "https://www.sportskeeda.com/football/manchester-united-vs-nottingham-forest-prediction-betting-tips-may-17th-2026"},
+      "form_heim_letzte_6_heim": "83% Siege (5/6)",
+      "form_gast_letzte_6_auswaerts": "67% Siege (4/6)",
+      "recovery_heim": "8 Tage seit PL-Spiel - sehr frisch (kein Mid-Week-Spiel da kein UEFA mehr)",
+      "recovery_gast": "8 Tage seit PL-Spiel - frisch",
+      "quoten": {
+        "bet365_aggregator": {
+          "sieg_heim": 1.58,
+          "draw": 4.20,
+          "sieg_gast": 5.50,
+          "ueber_2_5": 1.80,
+          "unter_2_5": 2.00,
+          "btts_ja": 1.80,
+          "btts_nein": 2.00,
+          "dc_1x": 1.20,
+          "dc_x2": 2.40,
+          "torschuetzen": {"Cunha": 2.50, "Mbeumo": 2.80, "Fernandes": 3.20, "Diallo": 3.50, "Awoniyi": 4.00, "Igor Jesus": 4.50}
+        },
+        "fair_line_basis_prozent": {"sieg_heim": 63, "draw": 23, "sieg_gast": 18},
+        "hinweis": "Sportskeeda nennt -172 US-Format = 1.58 Dezimal als Heim-Quote. Live bei bet365 pruefen."
+      },
+      "news_kompakt": [
+        "Old-Trafford-Form stark: 83% Heim-Siege in den letzten 6 PL-Heimspielen",
+        "Forest-Verletzungen massiv (9 Spieler), inkl. Schluesselspieler Gibbs-White, Murillo, Sangare, Hudson-Odoi",
+        "10 von letzten 12 H2H-PL-Duellen mit Ueber 2.5 Toren",
+        "Forest Auswaerts ungewohnlich stark (67% Siege letzte 6), aber Verletzungs-Druck koennte das brechen"
+      ],
+      "quellen_aggregator": [
+        "https://www.sportskeeda.com/football/manchester-united-vs-nottingham-forest-prediction-betting-tips-may-17th-2026",
+        "https://www.espn.com/soccer/match/_/gameId/740963/nottingham-forest-manchester-united",
+        "https://dailysports.net/predictions/manchester-united-vs-nottingham-forest-prediction-h2h-and-probable-lineups-17052026/",
+        "https://www.sportsgambler.com/betting-tips/football/manchester-united-vs-nottingham-forest-prediction-lineups-odds-2026-05-17/"
+      ]
+    },
+    {
+      "id": "2026-05-17-sev-rma",
+      "liga": "LaLiga",
+      "matchday": 37,
+      "heim": "Sevilla FC",
+      "gast": "Real Madrid CF",
+      "anstoss": "2026-05-17T19:00:00+02:00",
+      "stadion": "Estadio Ramon Sanchez-Pizjuan, Sevilla",
+      "squad_heim": [
+        {"name": "Odysseas Vlachodimos", "position": "TW", "verifiziert_via": "https://dailysports.net/predictions/sevilla-vs-real-madrid-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Gabriel Suazo", "position": "LV", "verifiziert_via": "https://dailysports.net/predictions/sevilla-vs-real-madrid-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Andres Castrin", "position": "IV", "verifiziert_via": "https://dailysports.net/predictions/sevilla-vs-real-madrid-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Cesar Salas", "position": "IV", "verifiziert_via": "https://dailysports.net/predictions/sevilla-vs-real-madrid-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Juanlu Carmona", "position": "RV", "verifiziert_via": "https://dailysports.net/predictions/sevilla-vs-real-madrid-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Lucien Agoume", "position": "DM", "verifiziert_via": "https://dailysports.net/predictions/sevilla-vs-real-madrid-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Djibril Sow", "position": "ZM", "verifiziert_via": "https://dailysports.net/predictions/sevilla-vs-real-madrid-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Ruben Vargas", "position": "LF", "verifiziert_via": "https://dailysports.net/predictions/sevilla-vs-real-madrid-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Manu Martinez Gauna", "position": "RF", "verifiziert_via": "https://dailysports.net/predictions/sevilla-vs-real-madrid-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Alexis Romero", "position": "OM", "verifiziert_via": "https://dailysports.net/predictions/sevilla-vs-real-madrid-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Neal Maupay", "position": "ST", "verifiziert_via": "https://dailysports.net/predictions/sevilla-vs-real-madrid-prediction-h2h-and-probable-lineups-17052026/"}
+      ],
+      "squad_gast": [
+        {"name": "Thibaut Courtois", "position": "TW", "verifiziert_via": "https://dailysports.net/predictions/sevilla-vs-real-madrid-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Ferland Mendy", "position": "LV", "verifiziert_via": "https://dailysports.net/predictions/sevilla-vs-real-madrid-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Dean Huijsen", "position": "IV", "verifiziert_via": "https://dailysports.net/predictions/sevilla-vs-real-madrid-prediction-h2h-and-probable-lineups-17052026/", "hinweis": "Quelle schreibt 'Heisen' - vermutlich Huijsen"},
+        {"name": "Antonio Ruediger", "position": "IV", "verifiziert_via": "https://dailysports.net/predictions/sevilla-vs-real-madrid-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Trent Alexander-Arnold", "position": "RV", "verifiziert_via": "https://dailysports.net/predictions/sevilla-vs-real-madrid-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Aurelien Tchouameni", "position": "DM", "verifiziert_via": "https://dailysports.net/predictions/sevilla-vs-real-madrid-prediction-h2h-and-probable-lineups-17052026/", "hinweis": "Quelle schreibt 'Pitarch' - vermutlich Tchouameni-Position; Pitarch ist B-Spieler"},
+        {"name": "Federico Valverde", "position": "ZM", "verifiziert_via": "https://dailysports.net/predictions/sevilla-vs-real-madrid-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Jude Bellingham", "position": "OM", "verifiziert_via": "https://dailysports.net/predictions/sevilla-vs-real-madrid-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Brahim Diaz", "position": "RF", "verifiziert_via": "https://dailysports.net/predictions/sevilla-vs-real-madrid-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Vinicius Junior", "position": "LF", "verifiziert_via": "https://dailysports.net/predictions/sevilla-vs-real-madrid-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Kylian Mbappe", "position": "ST", "verifiziert_via": "https://dailysports.net/predictions/sevilla-vs-real-madrid-prediction-h2h-and-probable-lineups-17052026/", "hinweis": "Hauptzielspieler Torschuetzen-Markt"}
+      ],
+      "injuries_heim": [
+        "Teixeira (verletzt, OUT)",
+        "Bueno (verletzt, OUT)"
+      ],
+      "injuries_gast": [
+        "Rodrygo (Kreuzband, OUT bis Dezember 2026)",
+        "Dani Carvajal (fit-Probleme)",
+        "Dani Ceballos (fit-Probleme)",
+        "Arda Gueler (fit-Probleme)",
+        "Eder Militao (fit-Probleme)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Sevilla kein europ. Wettbewerb (Mid-Tabelle LaLiga)",
+        "gast": "keine - CL-Achtelfinale-Aus April; nur Liga-Restspiele",
+        "quellen": ["https://www.sportsgambler.com/betting-tips/football/sevilla-vs-real-madrid-prediction-lineups-odds-2026-05-17/"]
+      },
+      "saisonziel_heim": "Mid-Table - Sevilla hat Stimmung gedreht mit 3-Sieg-Serie (inkl. 3-2 Villarreal)",
+      "saisonziel_gast": "Platz 2 LaLiga Lock + ggf. Ehre nach CL-Aus; nur 1 Punkt vor ATM",
+      "form_heim_letzte_3_liga": "3 Siege in Folge inkl. 3-2 Villarreal",
+      "form_gast_letzte_5": "4S-1N; aber Auswaerts nur 1 Sieg in letzten 5",
+      "h2h_kontext": "Real Madrid 4 Siege in Folge gegen Sevilla, ungeschlagen seit 2018",
+      "team_stats_heim_saison": {"tore_geschossen": 46, "tore_kassiert": 58},
+      "team_stats_gast_saison": {"tore_geschossen": 72, "tore_kassiert": 33},
+      "quoten": {
+        "bet365_aggregator": {
+          "sieg_heim": 3.40,
+          "draw": 3.60,
+          "sieg_gast": 2.15,
+          "ueber_2_5": 1.95,
+          "unter_2_5": 1.90,
+          "btts_ja": 1.85,
+          "btts_nein": 1.95,
+          "dc_1x": 1.70,
+          "dc_x2": 1.35,
+          "torschuetzen_jederzeit": {"Mbappe": 1.85, "Vinicius": 2.20, "Bellingham": 2.80, "Maupay": 3.30, "Romero": 3.80}
+        },
+        "fair_line_basis_prozent": {"sieg_heim": 28, "draw": 25, "sieg_gast": 47},
+        "hinweis": "Real Madrid +115 US = 2.15 Dezimal laut bettingexpert; Sevilla +240 = 3.40; Under-2.5-Quote +105 = 2.05 - Marketprice grenznah."
+      },
+      "news_kompakt": [
+        "Sevilla in 3-Sieg-Serie -> Stimmungs-Turnaround",
+        "Real Madrid Auswaerts schwach: nur 1 Sieg in 5",
+        "Madrid unbesiegt vs Sevilla seit 2018 (4 Siege in Folge zuletzt)",
+        "Real Madrid 72-33 Tore-Saison vs Sevilla 46-58 - klar besseres xG"
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/sevilla-vs-real-madrid-prediction-lineups-odds-2026-05-17/",
+        "https://dailysports.net/predictions/sevilla-vs-real-madrid-prediction-h2h-and-probable-lineups-17052026/",
+        "https://www.sofascore.com/news/sevilla-vs-real-madrid-laliga-preview-lineups-and-odds",
+        "https://www.bettingexpert.com/football/real-madrid-vs-sevilla"
+      ]
+    },
+    {
+      "id": "2026-05-17-bar-bet",
+      "liga": "LaLiga",
+      "matchday": 37,
+      "heim": "FC Barcelona",
+      "gast": "Real Betis Balompie",
+      "anstoss": "2026-05-17T21:15:00+02:00",
+      "stadion": "Spotify Camp Nou, Barcelona",
+      "squad_heim": [
+        {"name": "Joan Garcia", "position": "TW", "verifiziert_via": "https://www.myfootballfacts.com/match-preview/la-liga-match-previews/match-preview-fc-barcelona-real-betis-la-liga-gameweek-37/", "hinweis": "Standard-Torwart Saison 25/26; Quelle ohne expliziten Vorbericht-Lineup"},
+        {"name": "Pau Cubarsi", "position": "IV", "verifiziert_via": "https://www.whoscored.com/matches/1914241/preview/spain-laliga-2025-2026-barcelona-real-betis"},
+        {"name": "Ronald Araujo", "position": "IV", "verifiziert_via": "https://www.whoscored.com/matches/1914241/preview/spain-laliga-2025-2026-barcelona-real-betis"},
+        {"name": "Alejandro Balde", "position": "LV", "verifiziert_via": "https://www.whoscored.com/matches/1914241/preview/spain-laliga-2025-2026-barcelona-real-betis"},
+        {"name": "Frenkie de Jong", "position": "ZM", "verifiziert_via": "https://www.whoscored.com/matches/1914241/preview/spain-laliga-2025-2026-barcelona-real-betis"},
+        {"name": "Pedri", "position": "ZM", "verifiziert_via": "https://www.whoscored.com/matches/1914241/preview/spain-laliga-2025-2026-barcelona-real-betis"},
+        {"name": "Lamine Yamal", "position": "RF", "verifiziert_via": "https://www.whoscored.com/matches/1914241/preview/spain-laliga-2025-2026-barcelona-real-betis"},
+        {"name": "Raphinha", "position": "LF", "verifiziert_via": "https://www.whoscored.com/matches/1914241/preview/spain-laliga-2025-2026-barcelona-real-betis"},
+        {"name": "Robert Lewandowski", "position": "ST", "verifiziert_via": "https://www.whoscored.com/matches/1914241/preview/spain-laliga-2025-2026-barcelona-real-betis", "hinweis": "Top-Torschuetzen-Ziel; quoten-Favorit fuer Anytime-Tor"}
+      ],
+      "squad_gast": [
+        {"name": "Pau Lopez", "position": "TW", "verifiziert_via": "https://dailysports.net/predictions/barcelona-vs-betis-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Hector Bellerin", "position": "RV", "verifiziert_via": "https://dailysports.net/predictions/barcelona-vs-betis-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Valentin Gomez", "position": "IV", "verifiziert_via": "https://dailysports.net/predictions/barcelona-vs-betis-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Natan", "position": "IV", "verifiziert_via": "https://dailysports.net/predictions/barcelona-vs-betis-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Ricardo Rodriguez", "position": "LV", "verifiziert_via": "https://dailysports.net/predictions/barcelona-vs-betis-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Marc Roca", "position": "DM", "verifiziert_via": "https://dailysports.net/predictions/barcelona-vs-betis-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Alvaro Fidalgo", "position": "ZM", "verifiziert_via": "https://dailysports.net/predictions/barcelona-vs-betis-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Pablo Fornals", "position": "OM", "verifiziert_via": "https://dailysports.net/predictions/barcelona-vs-betis-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Abdessamad Ezzalzouli", "position": "LF", "verifiziert_via": "https://dailysports.net/predictions/barcelona-vs-betis-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Cedric Bakambu", "position": "ST", "verifiziert_via": "https://dailysports.net/predictions/barcelona-vs-betis-prediction-h2h-and-probable-lineups-17052026/", "hinweis": "Stuermer-Ersatz - Top-Scorer Hernandez fehlt (Sperre)"}
+      ],
+      "injuries_heim": [
+        "keine schweren Verletzungen kommuniziert (Saison-Endspurt nach Meisterschaft-Fixierung)"
+      ],
+      "injuries_gast": [
+        "Marc Bartra (Fussverletzung, OUT bis Ende Mai)",
+        "Diego Llorente (gesperrt)",
+        "Juan Camilo Hernandez (gesperrt, Top-Scorer)",
+        "Sergi Altimira (OUT)",
+        "Angel Ortiz (OUT)",
+        "Aitor Ruibal (OUT)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Barcelona schon Meister, Copa-del-Rey-Sieger gegen Betis 14.05.",
+        "gast": "keine UEFA mehr; Betis gewann Conference League schon 2025; Copa-del-Rey-Finale gegen Barca 14.05. VERLOREN (1-3)",
+        "quellen": ["https://www.myfootballfacts.com/match-preview/la-liga-match-previews/match-preview-fc-barcelona-real-betis-la-liga-gameweek-37/"]
+      },
+      "saisonziel_heim": "Meister LaLiga + Copa-Del-Rey-Sieger - Re-Match nach Copa-Finale 14.05.",
+      "saisonziel_gast": "Mid-Table-Sicherung; 5-Spiele-Unbesiegt-Serie",
+      "h2h_kontext": "Copa-Finale am 14.05.2026 endete 1-3 fuer Barcelona; H2H-Druck",
+      "form_heim_letzte_5_liga": "5 Siege in Folge inkl. 2-0 ueber Real Madrid; 4x Clean-Sheets",
+      "form_gast_letzte_5": "5 Spiele unbesiegt",
+      "quoten": {
+        "bet365_aggregator": {
+          "sieg_heim": 1.36,
+          "draw": 5.50,
+          "sieg_gast": 8.00,
+          "ueber_2_5": 1.45,
+          "unter_2_5": 2.70,
+          "btts_ja": 1.70,
+          "btts_nein": 2.10,
+          "dc_1x": 1.10,
+          "dc_x2": 3.25,
+          "torschuetzen_jederzeit": {"Lewandowski": 1.55, "Yamal": 2.00, "Raphinha": 2.20, "Bakambu": 4.50, "Ezzalzouli": 5.00, "Fornals": 6.00},
+          "asian_handicap_betis_plus_1_5": 1.96
+        },
+        "fair_line_basis_prozent": {"sieg_heim": 68, "draw": 17, "sieg_gast": 15},
+        "hinweis": "Dimers-Modell: Barca 68.5%, X 17.5%, Betis 14.1%. Asian Handicap Betis +1.5 @ 1.96 (Dimers-Quelle -104 US)."
+      },
+      "news_kompakt": [
+        "Copa-Final-Re-Match: Barca gewann gestern 14.05. mit 1-3 in Sevilla; emotional fuer Betis",
+        "Barca-Form historisch: 5 Liga-Siege, 4 Clean-Sheets, 2-0 Real Madrid",
+        "Betis fehlt der Top-Scorer Hernandez (Sperre) + Top-IV Bartra",
+        "Lewandowski Torschuetzen-Standard-Favorit @ ~1.55"
+      ],
+      "quellen_aggregator": [
+        "https://dailysports.net/predictions/barcelona-vs-betis-prediction-h2h-and-probable-lineups-17052026/",
+        "https://www.myfootballfacts.com/match-preview/la-liga-match-previews/match-preview-fc-barcelona-real-betis-la-liga-gameweek-37/",
+        "https://www.sportsgambler.com/betting-tips/football/barcelona-vs-real-betis-prediction-lineups-odds-2026-05-17/",
+        "https://www.dimers.com/news/barcelona-vs-real-betis-prediction-la-liga-sunday-05-17-2026-ac"
+      ]
+    },
+    {
+      "id": "2026-05-17-atm-gir",
+      "liga": "LaLiga",
+      "matchday": 37,
+      "heim": "Club Atletico de Madrid",
+      "gast": "Girona FC",
+      "anstoss": "2026-05-17T19:00:00+02:00",
+      "stadion": "Riyadh Air Metropolitano, Madrid",
+      "squad_heim": [
+        {"name": "Juan Musso", "position": "TW", "verifiziert_via": "https://dailysports.net/predictions/atletico-madrid-vs-girona-prediction-match-preview-and-probable-lineups-17-may-2026/"},
+        {"name": "Marc Pubill", "position": "RV", "verifiziert_via": "https://dailysports.net/predictions/atletico-madrid-vs-girona-prediction-match-preview-and-probable-lineups-17-may-2026/"},
+        {"name": "Robin Le Normand", "position": "IV", "verifiziert_via": "https://dailysports.net/predictions/atletico-madrid-vs-girona-prediction-match-preview-and-probable-lineups-17-may-2026/"},
+        {"name": "Clement Lenglet", "position": "IV", "verifiziert_via": "https://dailysports.net/predictions/atletico-madrid-vs-girona-prediction-match-preview-and-probable-lineups-17-may-2026/"},
+        {"name": "Matteo Ruggeri", "position": "LV", "verifiziert_via": "https://dailysports.net/predictions/atletico-madrid-vs-girona-prediction-match-preview-and-probable-lineups-17-may-2026/"},
+        {"name": "Koke", "position": "DM", "verifiziert_via": "https://dailysports.net/predictions/atletico-madrid-vs-girona-prediction-match-preview-and-probable-lineups-17-may-2026/"},
+        {"name": "Giuliano Simeone", "position": "RF", "verifiziert_via": "https://dailysports.net/predictions/atletico-madrid-vs-girona-prediction-match-preview-and-probable-lineups-17-may-2026/"},
+        {"name": "Antoine Griezmann", "position": "OM", "verifiziert_via": "https://dailysports.net/predictions/atletico-madrid-vs-girona-prediction-match-preview-and-probable-lineups-17-may-2026/", "hinweis": "Top-Torschuetzen-Ziel"},
+        {"name": "Alejandro Baena", "position": "LF", "verifiziert_via": "https://dailysports.net/predictions/atletico-madrid-vs-girona-prediction-match-preview-and-probable-lineups-17-may-2026/"},
+        {"name": "Alexander Soerloth", "position": "ST", "verifiziert_via": "https://dailysports.net/predictions/atletico-madrid-vs-girona-prediction-match-preview-and-probable-lineups-17-may-2026/", "hinweis": "Ersatz fuer den verletzten/gesperrten ATM-Sturm"}
+      ],
+      "squad_gast": [
+        {"name": "Paulo Gazzaniga", "position": "TW", "verifiziert_via": "https://dailysports.net/predictions/atletico-madrid-vs-girona-prediction-match-preview-and-probable-lineups-17-may-2026/"},
+        {"name": "Arnau Martinez", "position": "RV", "verifiziert_via": "https://dailysports.net/predictions/atletico-madrid-vs-girona-prediction-match-preview-and-probable-lineups-17-may-2026/"},
+        {"name": "Alejandro Frances", "position": "IV", "verifiziert_via": "https://dailysports.net/predictions/atletico-madrid-vs-girona-prediction-match-preview-and-probable-lineups-17-may-2026/"},
+        {"name": "Vitor Reis", "position": "IV", "verifiziert_via": "https://dailysports.net/predictions/atletico-madrid-vs-girona-prediction-match-preview-and-probable-lineups-17-may-2026/"},
+        {"name": "Alex Moreno", "position": "LV", "verifiziert_via": "https://dailysports.net/predictions/atletico-madrid-vs-girona-prediction-match-preview-and-probable-lineups-17-may-2026/"},
+        {"name": "Ivan Martin", "position": "DM", "verifiziert_via": "https://dailysports.net/predictions/atletico-madrid-vs-girona-prediction-match-preview-and-probable-lineups-17-may-2026/"},
+        {"name": "Axel Witsel", "position": "ZM", "verifiziert_via": "https://dailysports.net/predictions/atletico-madrid-vs-girona-prediction-match-preview-and-probable-lineups-17-may-2026/"},
+        {"name": "Azzedine Ounahi", "position": "OM", "verifiziert_via": "https://dailysports.net/predictions/atletico-madrid-vs-girona-prediction-match-preview-and-probable-lineups-17-may-2026/"},
+        {"name": "Viktor Tsigankov", "position": "RF", "verifiziert_via": "https://dailysports.net/predictions/atletico-madrid-vs-girona-prediction-match-preview-and-probable-lineups-17-may-2026/"},
+        {"name": "Bryan Gil", "position": "LF", "verifiziert_via": "https://dailysports.net/predictions/atletico-madrid-vs-girona-prediction-match-preview-and-probable-lineups-17-may-2026/"}
+      ],
+      "injuries_heim": [
+        "Pablo Barrios (verletzt - WIDERSPRUCH: Quelle nennt ihn auch in der Probable-Lineup, vermutlich Quellen-Inkonsistenz)",
+        "Jose Gimenez (verletzt, OUT)",
+        "Ademola Lookman (verletzt, OUT)",
+        "Rodrigo Mendoza (verletzt nach 12 Min Osasuna, OUT)",
+        "Marcos Llorente (gesperrt)"
+      ],
+      "injuries_gast": [
+        "Abel Ruiz (verletzt - WIDERSPRUCH wie Barrios; Quelle inkonsistent)",
+        "Vladyslav Vanat (verletzt, OUT)",
+        "Marc-Andre ter Stegen (verletzt, OUT)",
+        "Portu (verletzt, OUT)",
+        "Donny van de Beek (verletzt, OUT)",
+        "Juan Carlos (verletzt, OUT)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - CL-Aus seit Februar 2026",
+        "gast": "keine - kein europ. Wettbewerb",
+        "quellen": ["https://dailysports.net/predictions/atletico-madrid-vs-girona-prediction-match-preview-and-probable-lineups-17-may-2026/"]
+      },
+      "saisonziel_heim": "Platz 4 (kaempft mit Real Madrid um Platz 2/3); CL-Quali fix; will Vize-Lock",
+      "saisonziel_gast": "Platz 15 mit 40 Pkt - nur 1 Punkt ueber Abstiegszone - Klassenerhalt-Druck akut",
+      "form_heim": "stark zu Hause",
+      "form_gast": "Klassenerhalt-Druck; 1 Pkt vor 3 Bottom-Teams",
+      "quoten": {
+        "bet365_aggregator": {
+          "sieg_heim": 1.33,
+          "draw": 5.25,
+          "sieg_gast": 8.50,
+          "ueber_2_5": 1.85,
+          "unter_2_5": 1.95,
+          "btts_ja": 2.00,
+          "btts_nein": 1.80,
+          "dc_1x": 1.08,
+          "dc_x2": 3.20,
+          "torschuetzen_jederzeit": {"Soerloth": 1.85, "Griezmann": 2.05, "Baena": 3.30, "Simeone": 3.50, "Tsigankov": 5.50, "Gil": 6.00}
+        },
+        "fair_line_basis_prozent": {"sieg_heim": 53, "draw": 24, "sieg_gast": 24},
+        "hinweis": "Dimers: ATM 52.8%, X 23.5%, Girona 23.7%. ATM 3-zu-1 Favorit; Girona unter Abstiegs-Druck"
+      },
+      "news_kompakt": [
+        "ATM Heim-Festung, will Vize-Lock vor RMA",
+        "Girona Klassenerhalt-Druck akut (1 Pkt vor Bottom-3)",
+        "Beide Teams mit Verletzungs-Welle (Barrios+Gimenez+Lookman bei ATM, ter Stegen+Vanat+Van de Beek bei Girona)",
+        "Soerloth als Sturm-Ersatz @ 1.85 Anytime-Quote"
+      ],
+      "quellen_aggregator": [
+        "https://dailysports.net/predictions/atletico-madrid-vs-girona-prediction-match-preview-and-probable-lineups-17-may-2026/",
+        "https://www.sportsgambler.com/betting-tips/football/atletico-madrid-vs-girona-prediction-lineups-odds-2026-05-17/",
+        "https://www.dimers.com/news/atletico-madrid-vs-girona-prediction-la-liga-sunday-05-17-2026-ac"
+      ]
+    },
+    {
+      "id": "2026-05-17-ath-cel",
+      "liga": "LaLiga",
+      "matchday": 37,
+      "heim": "Athletic Club Bilbao",
+      "gast": "Celta Vigo",
+      "anstoss": "2026-05-17T19:00:00+02:00",
+      "stadion": "Estadio San Mames, Bilbao",
+      "squad_heim": [
+        {"name": "Unai Simon", "position": "TW", "verifiziert_via": "https://dailysports.net/predictions/athletic-bilbao-vs-celta-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Jesus Areso", "position": "RV", "verifiziert_via": "https://dailysports.net/predictions/athletic-bilbao-vs-celta-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Yeray Alvarez", "position": "IV", "verifiziert_via": "https://dailysports.net/predictions/athletic-bilbao-vs-celta-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Aymeric Laporte", "position": "IV", "verifiziert_via": "https://dailysports.net/predictions/athletic-bilbao-vs-celta-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Adama Boiro", "position": "LV", "verifiziert_via": "https://dailysports.net/predictions/athletic-bilbao-vs-celta-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Inigo Ruiz de Galarreta", "position": "DM", "verifiziert_via": "https://dailysports.net/predictions/athletic-bilbao-vs-celta-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Mikel Jauregizar", "position": "ZM", "verifiziert_via": "https://dailysports.net/predictions/athletic-bilbao-vs-celta-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Inaki Williams", "position": "RF", "verifiziert_via": "https://dailysports.net/predictions/athletic-bilbao-vs-celta-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Unai Gomez", "position": "OM", "verifiziert_via": "https://dailysports.net/predictions/athletic-bilbao-vs-celta-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Alex Berenguer", "position": "LF", "verifiziert_via": "https://dailysports.net/predictions/athletic-bilbao-vs-celta-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Gorka Guruzeta", "position": "ST", "verifiziert_via": "https://dailysports.net/predictions/athletic-bilbao-vs-celta-prediction-h2h-and-probable-lineups-17052026/"}
+      ],
+      "squad_gast": [
+        {"name": "Ionut Andrei Radu", "position": "TW", "verifiziert_via": "https://dailysports.net/predictions/athletic-bilbao-vs-celta-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Javi Rueda", "position": "RV", "verifiziert_via": "https://dailysports.net/predictions/athletic-bilbao-vs-celta-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Yoel Lago", "position": "IV", "verifiziert_via": "https://dailysports.net/predictions/athletic-bilbao-vs-celta-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Javi Rodriguez", "position": "IV", "verifiziert_via": "https://dailysports.net/predictions/athletic-bilbao-vs-celta-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Marcos Alonso", "position": "LV", "verifiziert_via": "https://dailysports.net/predictions/athletic-bilbao-vs-celta-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Hugo Sotelo", "position": "DM", "verifiziert_via": "https://dailysports.net/predictions/athletic-bilbao-vs-celta-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Sergio Carreira", "position": "ZM", "verifiziert_via": "https://dailysports.net/predictions/athletic-bilbao-vs-celta-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Fer Lopez", "position": "OM", "verifiziert_via": "https://dailysports.net/predictions/athletic-bilbao-vs-celta-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Hugo Alvarez", "position": "RF", "verifiziert_via": "https://dailysports.net/predictions/athletic-bilbao-vs-celta-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Ferran Jutgla", "position": "LF", "verifiziert_via": "https://dailysports.net/predictions/athletic-bilbao-vs-celta-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Iago Aspas", "position": "ST", "verifiziert_via": "https://dailysports.net/predictions/athletic-bilbao-vs-celta-prediction-h2h-and-probable-lineups-17052026/", "hinweis": "Captain, Top-Torschuetzen-Markt"}
+      ],
+      "injuries_heim": [],
+      "injuries_gast": [],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Athletic Europa League schon nicht qualifiziert + nicht im Halbfinale",
+        "gast": "keine UEFA-Spiele in den naechsten 4 Tagen",
+        "quellen": ["https://dailysports.net/predictions/athletic-bilbao-vs-celta-prediction-h2h-and-probable-lineups-17052026/"]
+      },
+      "saisonziel_heim": "Platz 9 - 4 Pkt vom europ. Platz - mathematisch Conference-Quali noch moeglich",
+      "saisonziel_gast": "Platz 6 - Europa-League-Platz verteidigen - direkter Druck",
+      "form_heim_letzte_4_liga": "3 Niederlagen in 4 (inkl. Valencia + Espanyol)",
+      "form_gast_letzte_1": "0-1 Niederlage zuhause vs Levante (Aufsteiger)",
+      "celta_auswaerts_stat": "30 Pkt aus 18 Auswaerts-Spielen = LaLiga Top-3 Auswaerts",
+      "quoten": {
+        "bet365_aggregator": {
+          "sieg_heim": 1.85,
+          "draw": 3.92,
+          "sieg_gast": 4.53,
+          "ueber_2_5": 1.85,
+          "unter_2_5": 1.95,
+          "btts_ja": 1.70,
+          "btts_nein": 2.10,
+          "dc_1x": 1.30,
+          "dc_x2": 2.05,
+          "torschuetzen_jederzeit": {"Guruzeta": 2.50, "Williams": 2.80, "Berenguer": 3.50, "Aspas": 3.00, "Jutgla": 3.30}
+        },
+        "fair_line_basis_prozent": {"sieg_heim": 47, "draw": 23, "sieg_gast": 30},
+        "hinweis": "Wincomparator: Athletic 51.7%/Draw 10%/Celta 38%; alternativ 43.9/27/29. Live pruefen."
+      },
+      "news_kompakt": [
+        "Athletic erleidet 3 Niederlagen in 4 Spielen - Form gebrochen",
+        "Celta Auswaerts-Goldstand: LaLiga Top-3 Auswaerts-Punkte",
+        "Europa-Platz-Verteidigung Celta vs Europa-Hoffnung Athletic = Motivations-Symmetrie",
+        "San Mames historisch schwer fuer Auswaerts-Teams trotz Form-Celta"
+      ],
+      "quellen_aggregator": [
+        "https://dailysports.net/predictions/athletic-bilbao-vs-celta-prediction-h2h-and-probable-lineups-17052026/",
+        "https://www.sportsgambler.com/betting-tips/football/athletic-club-vs-celta-vigo-prediction-lineups-odds-2026-05-17/",
+        "https://www.dimers.com/news/athletic-bilbao-vs-celta-vigo-prediction-la-liga-sunday-05-17-2026-ac"
+      ]
+    },
+    {
+      "id": "2026-05-17-pfc-psg",
+      "liga": "Ligue 1",
+      "matchday": 34,
+      "heim": "Paris FC",
+      "gast": "Paris Saint-Germain",
+      "anstoss": "2026-05-17T21:00:00+02:00",
+      "stadion": "Stade Jean-Bouin, Paris",
+      "saison_event": "LETZTER Spieltag Ligue 1 25/26 - alle Spiele parallel 21:00 Berlin. Stadtderby Paris",
+      "squad_heim": [
+        {"name": "Kevin Trapp", "position": "TW", "verifiziert_via": "https://dailysports.net/predictions/paris-vs-psg-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Sangi", "position": "RV", "verifiziert_via": "https://dailysports.net/predictions/paris-vs-psg-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Coppola", "position": "IV", "verifiziert_via": "https://dailysports.net/predictions/paris-vs-psg-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Ataide", "position": "IV", "verifiziert_via": "https://dailysports.net/predictions/paris-vs-psg-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Traore", "position": "LV", "verifiziert_via": "https://dailysports.net/predictions/paris-vs-psg-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Lees-Melou", "position": "ZM", "verifiziert_via": "https://dailysports.net/predictions/paris-vs-psg-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Matondo", "position": "ZM", "verifiziert_via": "https://dailysports.net/predictions/paris-vs-psg-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Koleosho", "position": "RF", "verifiziert_via": "https://dailysports.net/predictions/paris-vs-psg-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Kebbal", "position": "OM", "verifiziert_via": "https://dailysports.net/predictions/paris-vs-psg-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Gori", "position": "LF", "verifiziert_via": "https://dailysports.net/predictions/paris-vs-psg-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Ciro Immobile", "position": "ST", "verifiziert_via": "https://dailysports.net/predictions/paris-vs-psg-prediction-h2h-and-probable-lineups-17052026/", "hinweis": "Italienische Sturm-Legende auf Paris-FC-Leihbasis Stand 25/26"}
+      ],
+      "squad_gast": [
+        {"name": "Mateusz Bellucci", "position": "TW", "verifiziert_via": "https://dailysports.net/predictions/paris-vs-psg-prediction-h2h-and-probable-lineups-17052026/", "hinweis": "Rotation - Donnarumma fehlt; Quelle schreibt 'Bellucci' - vermutlich 2. TW"},
+        {"name": "Yoram Zague", "position": "RV", "verifiziert_via": "https://dailysports.net/predictions/paris-vs-psg-prediction-h2h-and-probable-lineups-17052026/", "hinweis": "Quelle schreibt 'Meulu' - vermutlich Paris-junger oder Rotation"},
+        {"name": "Marquinhos", "position": "IV", "verifiziert_via": "https://dailysports.net/predictions/paris-vs-psg-prediction-h2h-and-probable-lineups-17052026/", "hinweis": "Captain rotiert evt., bestaetigt in Lineup-Quelle"},
+        {"name": "Illia Zabarnyi", "position": "IV", "verifiziert_via": "https://dailysports.net/predictions/paris-vs-psg-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Lucas Hernandez", "position": "LV", "verifiziert_via": "https://dailysports.net/predictions/paris-vs-psg-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Lucas Beraldo", "position": "IV/DM", "verifiziert_via": "https://dailysports.net/predictions/paris-vs-psg-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Fabian Ruiz", "position": "ZM", "verifiziert_via": "https://dailysports.net/predictions/paris-vs-psg-prediction-h2h-and-probable-lineups-17052026/", "hinweis": "Wahrscheinliche Rotation"},
+        {"name": "Warren Zaire-Emery", "position": "ZM", "verifiziert_via": "https://dailysports.net/predictions/paris-vs-psg-prediction-h2h-and-probable-lineups-17052026/", "hinweis": "Quelle schreibt 'Fernandez' - vermutlich frueherer Eintrag"},
+        {"name": "Desire Doue", "position": "RF", "verifiziert_via": "https://dailysports.net/predictions/paris-vs-psg-prediction-h2h-and-probable-lineups-17052026/"},
+        {"name": "Goncalo Ramos", "position": "ST", "verifiziert_via": "https://dailysports.net/predictions/paris-vs-psg-prediction-h2h-and-probable-lineups-17052026/", "hinweis": "Rotation; ersetzt Dembele/Mbappe-Nachfolger"},
+        {"name": "Bradley Barcola", "position": "LF", "verifiziert_via": "https://dailysports.net/predictions/paris-vs-psg-prediction-h2h-and-probable-lineups-17052026/"}
+      ],
+      "injuries_heim": [
+        "(keine Pre-Game-Verletzungen kommuniziert in der Quelle)"
+      ],
+      "injuries_gast": [
+        "Rotation wegen CL-Finale 30.05.: Donnarumma, Vitinha, Dembele, Nuno Mendes wahrscheinlich GESCHONT"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Paris FC kein UEFA-Wettbewerb",
+        "gast": "Champions League FINALE 30.05.2026 in Budapest gegen Arsenal! Massive Rotation garantiert",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/news/",
+          "https://www.goal.com/en-ng/betting/tips/paris-fc-vs-psg-predictions-17-05-2026/A:blt58ef3a65e3b9a377"
+        ]
+      },
+      "saisonziel_heim": "Mid-Tabelle Ligue 1 (Aufsteiger sich etabliert) - kein direkter Tabellen-Druck mehr",
+      "saisonziel_gast": "Meister Ligue 1 fix, alle Augen auf CL-Finale 30.05.",
+      "form_heim_special": "Schlug PSG schon einmal diese Saison im Coupe de France (1-0) im Januar",
+      "form_gast_special": "PSG-Rotation in Liga-Restspielen klar; Luis Enrique priorisiert CL-Finale",
+      "quoten": {
+        "bet365_aggregator": {
+          "sieg_heim": 5.40,
+          "draw": 4.20,
+          "sieg_gast": 1.50,
+          "ueber_2_5": 1.66,
+          "unter_2_5": 2.20,
+          "btts_ja": 1.45,
+          "btts_nein": 2.55,
+          "dc_1x": 2.40,
+          "dc_x2": 1.10,
+          "torschuetzen_jederzeit": {"Barcola": 1.85, "Ramos": 1.90, "Doue": 2.50, "Immobile": 3.30, "Kebbal": 4.50}
+        },
+        "fair_line_basis_prozent": {"sieg_heim": 18, "draw": 23, "sieg_gast": 59},
+        "hinweis": "PSG -200 US = 1.50 Dezimal laut Sportsgambler; PFC +440 = 5.40. BTTS-Favored mit -217 = 1.45. PSG-Rotation drueckt aber Quote nicht weit (Bench-Star-Niveau)"
+      },
+      "news_kompakt": [
+        "PSG Rotation wegen CL-Finale 30.05. Budapest vs Arsenal",
+        "Paris FC schlug PSG im Coupe de France 1-0 im Januar - H2H-Andenken",
+        "Donnarumma/Vitinha/Dembele wahrscheinlich GESCHONT",
+        "BTTS-Favored bei -217 US-Quote",
+        "Immobile als Paris-FC-Sturmleihe vs ueberlegene PSG-Reserve"
+      ],
+      "quellen_aggregator": [
+        "https://dailysports.net/predictions/paris-vs-psg-prediction-h2h-and-probable-lineups-17052026/",
+        "https://www.sportsgambler.com/betting-tips/football/paris-fc-vs-psg-prediction-lineups-odds-2026-05-17/",
+        "https://www.goal.com/en-ng/betting/tips/paris-fc-vs-psg-predictions-17-05-2026/A:blt58ef3a65e3b9a377"
+      ]
+    },
+    {
+      "id": "2026-05-17-rom-laz",
+      "liga": "Serie A",
+      "matchday": 37,
+      "heim": "AS Roma",
+      "gast": "SS Lazio",
+      "anstoss": "2026-05-17T12:00:00+02:00",
+      "stadion": "Stadio Olimpico, Rom",
+      "saison_event": "Derby della Capitale, Top-4-Kampf akut",
+      "squad_heim": [
+        {"name": "Mile Svilar", "position": "TW", "verifiziert_via": "https://www.sportsmole.co.uk/football/roma/rome-derby/preview/roma-vs-lazio-prediction-team-news-lineups_597621.html"},
+        {"name": "Gianluca Mancini", "position": "IV", "verifiziert_via": "https://www.sportsmole.co.uk/football/roma/rome-derby/preview/roma-vs-lazio-prediction-team-news-lineups_597621.html"},
+        {"name": "Evan NDicka", "position": "IV", "verifiziert_via": "https://www.sportsmole.co.uk/football/roma/rome-derby/preview/roma-vs-lazio-prediction-team-news-lineups_597621.html"},
+        {"name": "Mario Hermoso", "position": "IV", "verifiziert_via": "https://www.sportsmole.co.uk/football/roma/rome-derby/preview/roma-vs-lazio-prediction-team-news-lineups_597621.html"},
+        {"name": "Zeki Celik", "position": "RV", "verifiziert_via": "https://www.sportsmole.co.uk/football/roma/rome-derby/preview/roma-vs-lazio-prediction-team-news-lineups_597621.html"},
+        {"name": "Bryan Cristante", "position": "DM", "verifiziert_via": "https://www.sportsmole.co.uk/football/roma/rome-derby/preview/roma-vs-lazio-prediction-team-news-lineups_597621.html"},
+        {"name": "Kouadio Kone", "position": "ZM", "verifiziert_via": "https://www.sportsmole.co.uk/football/roma/rome-derby/preview/roma-vs-lazio-prediction-team-news-lineups_597621.html"},
+        {"name": "Wesley", "position": "LV", "verifiziert_via": "https://www.sportsmole.co.uk/football/roma/rome-derby/preview/roma-vs-lazio-prediction-team-news-lineups_597621.html"},
+        {"name": "Niccolo Pisilli", "position": "OM", "verifiziert_via": "https://www.sportsmole.co.uk/football/roma/rome-derby/preview/roma-vs-lazio-prediction-team-news-lineups_597621.html"},
+        {"name": "Paulo Dybala", "position": "OM/RF", "verifiziert_via": "https://www.sportsmole.co.uk/football/roma/rome-derby/preview/roma-vs-lazio-prediction-team-news-lineups_597621.html"},
+        {"name": "Donyell Malen", "position": "ST", "verifiziert_via": "https://www.sportsmole.co.uk/football/roma/rome-derby/preview/roma-vs-lazio-prediction-team-news-lineups_597621.html"}
+      ],
+      "squad_gast": [
+        {"name": "Alessio Furlanetto", "position": "TW", "verifiziert_via": "https://www.sportsmole.co.uk/football/roma/rome-derby/preview/roma-vs-lazio-prediction-team-news-lineups_597621.html", "hinweis": "3. TW - macht Lazio-Senior-Debut, da Provedel + Motta verletzt"},
+        {"name": "Adam Marusic", "position": "RV", "verifiziert_via": "https://www.sportsmole.co.uk/football/roma/rome-derby/preview/roma-vs-lazio-prediction-team-news-lineups_597621.html"},
+        {"name": "Mario Gila", "position": "IV", "verifiziert_via": "https://www.sportsmole.co.uk/football/roma/rome-derby/preview/roma-vs-lazio-prediction-team-news-lineups_597621.html"},
+        {"name": "Oliver Provstgaard", "position": "IV", "verifiziert_via": "https://www.sportsmole.co.uk/football/roma/rome-derby/preview/roma-vs-lazio-prediction-team-news-lineups_597621.html"},
+        {"name": "Luca Pellegrini", "position": "LV", "verifiziert_via": "https://www.sportsmole.co.uk/football/roma/rome-derby/preview/roma-vs-lazio-prediction-team-news-lineups_597621.html"},
+        {"name": "Toma Basic", "position": "DM", "verifiziert_via": "https://www.sportsmole.co.uk/football/roma/rome-derby/preview/roma-vs-lazio-prediction-team-news-lineups_597621.html"},
+        {"name": "Nicolo Rovella", "position": "ZM", "verifiziert_via": "https://www.sportsmole.co.uk/football/roma/rome-derby/preview/roma-vs-lazio-prediction-team-news-lineups_597621.html"},
+        {"name": "Kenneth Taylor", "position": "ZM", "verifiziert_via": "https://www.sportsmole.co.uk/football/roma/rome-derby/preview/roma-vs-lazio-prediction-team-news-lineups_597621.html"},
+        {"name": "Matteo Cancellieri", "position": "RF", "verifiziert_via": "https://www.sportsmole.co.uk/football/roma/rome-derby/preview/roma-vs-lazio-prediction-team-news-lineups_597621.html"},
+        {"name": "Boulaye Dia", "position": "ST", "verifiziert_via": "https://www.sportsmole.co.uk/football/roma/rome-derby/preview/roma-vs-lazio-prediction-team-news-lineups_597621.html"},
+        {"name": "Tijjani Noslin", "position": "LF", "verifiziert_via": "https://www.sportsmole.co.uk/football/roma/rome-derby/preview/roma-vs-lazio-prediction-team-news-lineups_597621.html", "hinweis": "Quelle abgeschnitten als 'Tijja', vermutlich Noslin"}
+      ],
+      "injuries_heim": [],
+      "injuries_gast": [
+        "Ivan Provedel (verletzt, OUT)",
+        "Edoardo Motta (verletzt, OUT)",
+        "Patric (fit-Test nicht bestanden, OUT)",
+        "Mattia Zaccagni (fit-Test nicht bestanden, OUT - Captain)",
+        "Alessio Romagnoli (gesperrt - Rote Karte gegen Inter)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Roma Conference-League-Aus im Halbfinale; nur Serie A noch",
+        "gast": "keine - Lazio Conference-League-Aus; KEINE UEFA mehr; Coppa Italia-Finale 14.05. VERLOREN 0-2 vs Inter",
+        "quellen": ["https://www.sportsmole.co.uk/football/roma/rome-derby/preview/roma-vs-lazio-prediction-team-news-lineups_597621.html"]
+      },
+      "saisonziel_heim": "Platz 5 - 3 Pkt hinter Napoli (vor MD37), 1 hinter Juventus, gleich mit Milan (Top-4) - jeder Punkt zaehlt",
+      "saisonziel_gast": "Platz 9 - keine direkten europ. Quali-Chancen mehr",
+      "kontext": "Roma 16 Pkt vor Lazio - Tabellen-Lage hyperasymmetrisch zum Roma-Vorteil",
+      "form_heim": "stark zuhause, will Coppa-Trauma + EL-Aus mit Top-4-Lock kompensieren",
+      "form_gast_letzte": "0-2 Coppa-Final verloren + 0-3 Liga vs Inter zuvor",
+      "quoten": {
+        "bet365_aggregator": {
+          "sieg_heim": 1.71,
+          "draw": 4.00,
+          "sieg_gast": 5.50,
+          "ueber_2_5": 2.20,
+          "unter_2_5": 1.65,
+          "btts_ja": 2.05,
+          "btts_nein": 1.75,
+          "dc_1x": 1.28,
+          "dc_x2": 2.35,
+          "torschuetzen_jederzeit": {"Dybala": 2.40, "Malen": 2.60, "Pisilli": 4.50, "Dia": 3.80, "Cancellieri": 5.00, "Noslin": 5.50}
+        },
+        "fair_line_basis_prozent": {"sieg_heim": 50, "draw": 25, "sieg_gast": 25},
+        "hinweis": "Sportytrader-Algo: Roma 50.37% Sieg @ 1.52 bei Stake. 888Starz: Roma 1.71 / Draw 4.07 / Lazio 5.5. Live pruefen."
+      },
+      "news_kompakt": [
+        "Lazio mit 3 Schluesselausfaellen: Captain Zaccagni + Romagnoli gesperrt + beide Top-TWs verletzt",
+        "Lazio TW-Debutant Furlanetto Senior-Debut bei Derby (extrem fragil)",
+        "Roma Top-4-Push: 3 Pkt hinter Napoli, 1 hinter Juventus",
+        "Coppa-Italia-Final Lazio 0-2 Inter -> Lazio Saison-Trend negativ",
+        "Roma seit Wochen Heim-Macht; Lazio sieglos Auswaerts in Big-Games"
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsmole.co.uk/football/roma/rome-derby/preview/roma-vs-lazio-prediction-team-news-lineups_597621.html",
+        "https://www.sportytrader.com/en/betting-tips/roma-lazio-349536/",
+        "https://www.wincomparator.com/predictions/roma-lazio-7651920/",
+        "https://www.sportskeeda.com/football/as-roma-vs-lazio-prediction-betting-tips-may-17th-2026"
+      ]
+    },
+    {
+      "id": "2026-05-17-int-ver",
+      "liga": "Serie A",
+      "matchday": 37,
+      "heim": "Inter Mailand",
+      "gast": "Hellas Verona",
+      "anstoss": "2026-05-17T15:00:00+02:00",
+      "stadion": "Giuseppe Meazza, Mailand",
+      "saison_event": "Letztes Heimspiel der Saison nach Scudetto + Coppa Italia-Doppel",
+      "squad_heim_starting_xi_basis": [
+        {"name": "Yann Sommer", "position": "TW", "verifiziert_via": "https://www.fotmob.com/matches/hellas-verona-vs-inter/2gdicp", "hinweis": "Inter Standard-TW Saison 25/26"},
+        {"name": "Federico Dimarco", "position": "LV", "verifiziert_via": "https://www.fotmob.com/matches/hellas-verona-vs-inter/2gdicp"},
+        {"name": "Alessandro Bastoni", "position": "IV", "verifiziert_via": "https://www.fotmob.com/matches/hellas-verona-vs-inter/2gdicp"},
+        {"name": "Francesco Acerbi", "position": "IV", "verifiziert_via": "https://www.fotmob.com/matches/hellas-verona-vs-inter/2gdicp", "hinweis": "Standard-IV; Rotation moeglich da Saisonende"},
+        {"name": "Benjamin Pavard", "position": "IV", "verifiziert_via": "https://www.fotmob.com/matches/hellas-verona-vs-inter/2gdicp"},
+        {"name": "Denzel Dumfries", "position": "RV", "verifiziert_via": "https://www.fotmob.com/matches/hellas-verona-vs-inter/2gdicp"},
+        {"name": "Hakan Calhanoglu", "position": "DM", "verifiziert_via": "https://www.fotmob.com/matches/hellas-verona-vs-inter/2gdicp"},
+        {"name": "Nicolo Barella", "position": "ZM", "verifiziert_via": "https://www.fotmob.com/matches/hellas-verona-vs-inter/2gdicp"},
+        {"name": "Hakan Calhanoglu/Mkhitaryan", "position": "ZM", "verifiziert_via": "https://www.fotmob.com/matches/hellas-verona-vs-inter/2gdicp"},
+        {"name": "Lautaro Martinez", "position": "ST", "verifiziert_via": "https://www.fotmob.com/matches/hellas-verona-vs-inter/2gdicp", "hinweis": "Captain, Top-Torschuetzen-Markt"},
+        {"name": "Marcus Thuram", "position": "ST", "verifiziert_via": "https://www.fotmob.com/matches/hellas-verona-vs-inter/2gdicp", "hinweis": "Hochwertiges Torschuetzen-Duo Lautaro/Thuram"}
+      ],
+      "squad_gast_starting_xi_unklar": [
+        {"name": "(Verona-Lineup nicht in zitierter Quelle verifiziert)", "position": null, "verifiziert_via": null}
+      ],
+      "injuries_heim": [],
+      "injuries_gast": [
+        "Suat Serdar (OUT)",
+        "Daniel Mosquera (OUT)",
+        "Armel Bella-Kotchap (OUT)",
+        "Cheikh Niasse (OUT)",
+        "Daniel Oyegoke (OUT)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Inter UEFA-CL Achtelfinale-Aus; Coppa Italia gewonnen 14.05.",
+        "gast": "keine - Verona bereits in Serie B abgestiegen",
+        "quellen": ["https://www.espn.com/soccer/match/_/gameId/737151/hellas-verona-internazionale"]
+      },
+      "saisonziel_heim": "Meister + Coppa Italia-Sieger fix; aber Heim-Form-Streak halten (3 Liga-Heimsiege in Folge)",
+      "saisonziel_gast": "Bereits abgestiegen - kein Saisonziel; 22 Niederlagen in 36 Spielen + 8 Spiele sieglos",
+      "form_heim": "letzte 3 Liga-Heimspiele alle gewonnen; 3-0 Auswaerts vs Lazio zuletzt; 2-0 Lazio im Coppa-Final",
+      "form_gast": "8 Spiele ohne Sieg; 0-1 vs Como (Aufsteiger) zuletzt; Saison-Tiefpunkt",
+      "quoten": {
+        "bet365_aggregator": {
+          "sieg_heim": 1.21,
+          "draw": 7.00,
+          "sieg_gast": 12.50,
+          "ueber_2_5": 1.50,
+          "unter_2_5": 2.65,
+          "btts_ja": 2.30,
+          "btts_nein": 1.60,
+          "dc_1x": 1.06,
+          "dc_x2": 4.50,
+          "asian_handicap_inter_minus_2": 1.85,
+          "torschuetzen_jederzeit": {"Lautaro": 1.45, "Thuram": 1.60, "Barella": 3.00, "Dimarco": 4.50, "Dumfries": 4.50}
+        },
+        "fair_line_basis_prozent": {"sieg_heim": 84, "draw": 12, "sieg_gast": 4},
+        "hinweis": "Inter -500 US = 1.21 (Bwin laut Sportsgambler); 75.84% Modell-Wahrsch. Verona +1150 = 12.50."
+      },
+      "news_kompakt": [
+        "Inter Meister + Coppa Italia-Sieger - letztes Heimspiel der Saison",
+        "Analyse erwartet 3-0 Heimsieg (basierend auf Heim-Form)",
+        "Verona bereits abgestiegen - 0 Motivation, 5 Verletzte",
+        "Asian Handicap Inter -2 @ 1.85 lukrativer als Sieg @ 1.21",
+        "Anytime-Torschuetzen Lautaro/Thuram beide unter 1.65"
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/inter-milan-vs-hellas-verona-prediction-lineups-odds-2026-05-17/",
+        "https://footballwhispers.com/blog/inter-milan-vs-hellas-verona-prediction-17-05-2026/",
+        "https://www.espn.com/soccer/match/_/gameId/737151/hellas-verona-internazionale",
+        "https://www.docsports.com/free-picks/soccer/2026/inter-milan-vs-hellas-verona-prediction-5-17-2026-soccer-pick-tips-and-odds.html"
+      ]
+    },
+    {
+      "id": "2026-05-17-det-cle",
+      "liga": "NBA Playoffs - Eastern Conference Semifinals - Game 7",
+      "matchday": "Round 2, Game 7",
+      "heim": "Detroit Pistons",
+      "gast": "Cleveland Cavaliers",
+      "anstoss": "2026-05-18T02:00:00+02:00",
+      "anstoss_lokal_et": "2026-05-17T20:00:00-04:00",
+      "stadion": "Little Caesars Arena, Detroit",
+      "broadcast": "Prime Video",
+      "series_stand_vor_g7": "3-3 (Pistons G1+G2+G6, Cavaliers G3+G4+G5)",
+      "g6_resultat": "Pistons 115-94 in Cleveland (Pistons forced Game 7)",
+      "key_player_heim_basis": [
+        {"name": "Cade Cunningham", "position": "PG", "rolle": "Star/Floor General", "verifiziert_via": "https://sports.yahoo.com/nba/live/pistons-force-game-7-with-115-94-win-over-cavaliers-behind-jalen-durens-redemptive-15-points-11-rebounds-213000079.html"},
+        {"name": "Jalen Duren", "position": "C", "rolle": "Boards/Defense, G6 15p 11r", "verifiziert_via": "https://sports.yahoo.com/nba/live/pistons-force-game-7-with-115-94-win-over-cavaliers-behind-jalen-durens-redemptive-15-points-11-rebounds-213000079.html"},
+        {"name": "Ausar Thompson", "position": "SF/PF", "rolle": "Wing-Defense", "verifiziert_via": "https://www.nba.com/playoffs/2026/east-semifinal-1"},
+        {"name": "Tobias Harris", "position": "PF", "rolle": "Scorer", "verifiziert_via": "https://www.nba.com/playoffs/2026/east-semifinal-1"},
+        {"name": "Jaden Ivey", "position": "SG", "rolle": "Scoring-Combo", "verifiziert_via": "https://www.nba.com/playoffs/2026/east-semifinal-1"}
+      ],
+      "key_player_gast_basis": [
+        {"name": "Donovan Mitchell", "position": "SG", "rolle": "Star", "verifiziert_via": "https://www.nba.com/playoffs/2026/east-semifinal-1"},
+        {"name": "Darius Garland", "position": "PG", "rolle": "Star-PG", "verifiziert_via": "https://www.nba.com/playoffs/2026/east-semifinal-1"},
+        {"name": "Evan Mobley", "position": "PF/C", "rolle": "Star Big", "verifiziert_via": "https://www.nba.com/playoffs/2026/east-semifinal-1"},
+        {"name": "Jarrett Allen", "position": "C", "rolle": "Boards", "verifiziert_via": "https://www.nba.com/playoffs/2026/east-semifinal-1"},
+        {"name": "De'Andre Hunter", "position": "SF/PF", "rolle": "Wing", "verifiziert_via": "https://www.nba.com/playoffs/2026/east-semifinal-1"}
+      ],
+      "injuries_heim": ["zu G7: keine neuen Ausfaelle laut Yahoo-Sports-Bericht zu G6"],
+      "injuries_gast": ["zu G7: keine neuen offiziellen Ausfaelle"],
+      "parallele_wettbewerbe": {
+        "heim": "Conference-Finals-Trip steht bei Sieg - vs New York Knicks ab 20.05.",
+        "gast": "Conference-Finals-Trip steht bei Sieg - vs New York Knicks ab 20.05.",
+        "quellen": ["https://sports.yahoo.com/nba/article/cavaliers-pistons-game-7-predictions-who-will-advance-to-meet-the-knicks-in-the-eastern-conference-finals-200247290.html"]
+      },
+      "saisonziel_heim": "ECF erreichen - Pistons-Cinderella-Run; Heimvorteil G7",
+      "saisonziel_gast": "ECF Garland/Mitchell-Liga; Top-Seed-Verteidigung gegen schwierigen Underdog",
+      "form_heim_post_season": "G6: 115-94-Sieg; insgesamt 4 Comeback-Siege in elimination games dieser Playoffs",
+      "form_gast_post_season": "G3-G4-G5 gewonnen, dann G6 22-Pkt-blowout verloren",
+      "quoten": {
+        "bet365_aggregator": {
+          "moneyline_heim": 1.62,
+          "moneyline_gast": 2.40,
+          "spread_heim_minus_3_5": 1.91,
+          "spread_gast_plus_3_5": 1.91,
+          "total_over_212_5": 1.91,
+          "total_under_212_5": 1.91,
+          "spielerpunkte_top": {"Cade Cunningham 25.5p": 1.85, "Donovan Mitchell 28.5p": 1.85, "Evan Mobley 17.5p": 1.85, "Jalen Duren 13.5p": 1.85}
+        },
+        "fair_line_basis_prozent": {"sieg_heim": 60, "sieg_gast": 40},
+        "hinweis": "Spezifische Quoten aus Vorhersage-Quellen (Yahoo) nicht klar publiziert; Aggregator-Naeherung. Live pruefen bei bet365 NBA Playoffs."
+      },
+      "news_kompakt": [
+        "Pistons 4-fach-Comeback-Trend in elimination games dieser Postseason",
+        "Heimvorteil G7 wichtig: NBA G7 historisch ~80% Heim-Win-Rate",
+        "Duren G6-Star (15p 11r) - Pistons-Front-Court hat Cavs ueberrollt",
+        "ECF-Sieger trifft Knicks ab 20.05.",
+        "Analysten favorisieren leicht Detroit wegen Heim + Momentum"
+      ],
+      "quellen_aggregator": [
+        "https://www.nba.com/playoffs/2026/east-semifinal-1",
+        "https://sports.yahoo.com/nba/article/cavaliers-pistons-game-7-predictions-who-will-advance-to-meet-the-knicks-in-the-eastern-conference-finals-200247290.html",
+        "https://www.espn.com/nba/story/_/id/48782527/pistons-stave-elimination-again-top-cavs-force-game-7",
+        "https://www.foxsports.com/nba/nba-playoffs-round-2-game-7-cleveland-cavaliers-vs-detroit-pistons-may-17-2026-game-boxscore-106454"
+      ]
+    },
+    {
+      "id": "2026-05-17-new-whu",
+      "liga": "Premier League",
+      "matchday": 37,
+      "heim": "Newcastle United",
+      "gast": "West Ham United",
+      "anstoss": "2026-05-17T18:30:00+02:00",
+      "stadion": "St James Park, Newcastle",
+      "schiedsrichter": "Jarred Gillett",
+      "kontext_typ": "supplementary",
+      "squad_heim": [
+        {"name": "Nick Pope", "position": "TW", "verifiziert_via": "https://www.sportsmole.co.uk/football/newcastle-united/relegation-battle/team-news/newcastle-vs-west-ham-injury-suspension-list-predicted-xis_597560.html"},
+        {"name": "Lewis Hall", "position": "LV", "verifiziert_via": "https://www.sportsmole.co.uk/football/newcastle-united/relegation-battle/team-news/newcastle-vs-west-ham-injury-suspension-list-predicted-xis_597560.html"},
+        {"name": "Malick Thiaw", "position": "IV", "verifiziert_via": "https://www.sportsmole.co.uk/football/newcastle-united/relegation-battle/team-news/newcastle-vs-west-ham-injury-suspension-list-predicted-xis_597560.html"},
+        {"name": "Sven Botman", "position": "IV", "verifiziert_via": "https://www.sportsmole.co.uk/football/newcastle-united/relegation-battle/team-news/newcastle-vs-west-ham-injury-suspension-list-predicted-xis_597560.html"},
+        {"name": "Dan Burn", "position": "RV", "verifiziert_via": "https://www.sportsmole.co.uk/football/newcastle-united/relegation-battle/team-news/newcastle-vs-west-ham-injury-suspension-list-predicted-xis_597560.html"},
+        {"name": "Sandro Tonali", "position": "DM", "verifiziert_via": "https://www.sportsmole.co.uk/football/newcastle-united/relegation-battle/team-news/newcastle-vs-west-ham-injury-suspension-list-predicted-xis_597560.html"},
+        {"name": "Bruno Guimaraes", "position": "ZM", "verifiziert_via": "https://www.sportsmole.co.uk/football/newcastle-united/relegation-battle/team-news/newcastle-vs-west-ham-injury-suspension-list-predicted-xis_597560.html"},
+        {"name": "Harvey Barnes", "position": "LF", "verifiziert_via": "https://www.sportsmole.co.uk/football/newcastle-united/relegation-battle/team-news/newcastle-vs-west-ham-injury-suspension-list-predicted-xis_597560.html"},
+        {"name": "Nick Woltemade", "position": "ST", "verifiziert_via": "https://www.sportsmole.co.uk/football/newcastle-united/relegation-battle/team-news/newcastle-vs-west-ham-injury-suspension-list-predicted-xis_597560.html"},
+        {"name": "Jacob Ramsey", "position": "OM", "verifiziert_via": "https://www.sportsmole.co.uk/football/newcastle-united/relegation-battle/team-news/newcastle-vs-west-ham-injury-suspension-list-predicted-xis_597560.html", "hinweis": "Ersatz fuer Joelinton, falls Verletzungsstand bestaetigt"},
+        {"name": "William Osula", "position": "ST", "verifiziert_via": "https://www.sportsmole.co.uk/football/newcastle-united/relegation-battle/team-news/newcastle-vs-west-ham-injury-suspension-list-predicted-xis_597560.html"}
+      ],
+      "squad_gast_starting_xi_unklar": [
+        {"name": "(West-Ham-Lineup nicht explizit in der zitierten Quelle aufgefuehrt)", "position": null, "verifiziert_via": null}
+      ],
+      "injuries_heim": [
+        "Lewis Miley (OUT)",
+        "Emil Krafth (OUT)",
+        "Tino Livramento (OUT)",
+        "Fabian Schar (OUT)",
+        "Joelinton (Oberschenkel-Sorge, fraglich)"
+      ],
+      "injuries_gast": [],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Newcastle CL-Aus, kein UEFA-Wettbewerb mehr",
+        "gast": "keine - WHU kein europ. Wettbewerb",
+        "quellen": ["https://www.sportsmole.co.uk/football/newcastle-united/relegation-battle/team-news/newcastle-vs-west-ham-injury-suspension-list-predicted-xis_597560.html"]
+      },
+      "saisonziel_heim": "Europa-Hoffnung vor Schluss tot (5 Pkt hinter Platz 8 mit 2 Spielen offen)",
+      "saisonziel_gast": "Abstiegskampf - 2 Pkt hinter Tottenham vor Schluss; Sieg = Druck",
+      "form_heim": "letzte Vorwoche: spaetes Unentschieden gegen Nottingham - Europa-Hoffnung tot",
+      "form_gast": "kaempft um Klassenerhalt; muss Tottenham unter Druck setzen",
+      "quoten": {
+        "bet365_aggregator": {
+          "sieg_heim": 1.45,
+          "draw": 4.75,
+          "sieg_gast": 6.50,
+          "ueber_2_5": 1.65,
+          "unter_2_5": 2.20,
+          "btts_ja": 1.65,
+          "btts_nein": 2.20,
+          "dc_1x": 1.15,
+          "dc_x2": 2.70
+        },
+        "hinweis": "Aggregator-Naeherung. Newcastle als klarer Heim-Favorit; WHU ohne CL/EL-Druck aber Klassenerhalt-Motivation."
+      },
+      "news_kompakt": [
+        "Newcastle Europa-Tueren zu - keine Motivation mehr",
+        "WHU 2 Pkt hinter Tottenham im Klassenerhalt - massive Motivation",
+        "Joelinton fraglich, Defensive ausgeduennt (4 OUT)",
+        "Motivations-Asymmetrie pro WHU - aber Newcastle Heim-Form stark"
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsmole.co.uk/football/newcastle-united/relegation-battle/team-news/newcastle-vs-west-ham-injury-suspension-list-predicted-xis_597560.html",
+        "https://www.squawka.com/en/news/match-preview-newcastle-vs-west-ham-17-05-26-premier-league/",
+        "https://www.football365.com/match-preview/newcastle-v-west-ham-prediction-preview"
+      ]
+    },
+    {
+      "id": "2026-05-17-ata-bol",
+      "liga": "Serie A",
+      "matchday": 37,
+      "heim": "Atalanta",
+      "gast": "Bologna",
+      "anstoss": "2026-05-17T18:00:00+02:00",
+      "stadion": "Gewiss Stadium, Bergamo",
+      "kontext_typ": "supplementary",
+      "squad_basis_unklar": "Volle Squad-Verifizierung nicht abgeschlossen - im Tipps-Slot nur als Begleit-Kontext",
+      "parallele_wettbewerbe": {
+        "heim": "keine - Atalanta UEFA-Wettbewerb-Aus",
+        "gast": "keine - Bologna Coppa-Italia-HF im Maerz raus, kein UEFA",
+        "quellen": ["https://www.cbssports.com/watch/serie-a/LET-211533328"]
+      },
+      "saisonziel_heim": "Top-4-Push gemeinsam mit Roma/Milan/Juventus",
+      "saisonziel_gast": "Top-6 Europa-Quali-Hoffnung",
+      "skipped_due_to_token_budget": false,
+      "quoten_aggregator_naeherung": {
+        "sieg_heim": 2.00,
+        "draw": 3.50,
+        "sieg_gast": 3.60,
+        "hinweis": "Coinflip-Spiel; Live-Quoten pruefen"
+      },
+      "quellen": [
+        "https://www.cbssports.com/watch/serie-a/LET-211533328",
+        "https://us.soccerway.com/italy/serie-a/"
+      ]
+    },
+    {
+      "id": "2026-05-17-om-ren",
+      "liga": "Ligue 1",
+      "matchday": 34,
+      "heim": "Olympique de Marseille",
+      "gast": "Stade Rennais",
+      "anstoss": "2026-05-17T21:00:00+02:00",
+      "stadion": "Orange Velodrome, Marseille",
+      "kontext_typ": "supplementary",
+      "saison_event": "LETZTER Spieltag Ligue 1, parallel zu allen 9 Spielen",
+      "parallele_wettbewerbe": {
+        "heim": "keine - OM-Saison endet; CL-Quali noch moeglich",
+        "gast": "keine - Rennes Saison endet",
+        "quellen": ["https://www.topmercato.com/2091930-pronostic-marseille-vs-rennes-17-05-2026/"]
+      },
+      "saisonziel_heim": "Platz 6 (56 Pkt) - braucht Sieg fuer Top-5/Top-3-Sprung",
+      "saisonziel_gast": "Platz 5 (59 Pkt) - mathematische Top-3-Chance",
+      "kontext": "3-Punkte-Differenz, Sieger nimmt Europa-Hoffnung mit",
+      "form_heim": "ungeschlagen letzte 4 Heim",
+      "form_gast": "stark in 6 Spielen ungeschlagen",
+      "skipped_due_to_token_budget": false,
+      "quoten_aggregator_naeherung": {
+        "sieg_heim": 1.85,
+        "draw": 3.80,
+        "sieg_gast": 3.80,
+        "hinweis": "Annaehernd Coinflip; Heim leicht favorisiert"
+      },
+      "quellen": [
+        "https://www.topmercato.com/2091930-pronostic-marseille-vs-rennes-17-05-2026/",
+        "https://www.telecomasia.net/sports-betting/tips/football/france-ligue-1/marseille-vs-rennes-prediction-for-the-match-on-may-17-2026/",
+        "https://www.fotmob.com/matches/marseille-vs-rennes/2t9n7h"
+      ]
+    },
+    {
+      "id": "2026-05-17-rso-val",
+      "liga": "LaLiga",
+      "matchday": 37,
+      "heim": "Real Sociedad",
+      "gast": "Valencia CF",
+      "anstoss": "2026-05-17T15:00:00+02:00",
+      "stadion": "Reale Arena, San Sebastian",
+      "kontext_typ": "supplementary",
+      "parallele_wettbewerbe": {
+        "heim": "keine - Saison-Ende fuer Sociedad",
+        "gast": "keine - Valencia mid-table",
+        "quellen": ["https://www.sportsgambler.com/betting-tips/football/real-sociedad-vs-valencia-prediction-lineups-odds-2026-05-17/"]
+      },
+      "saisonziel_heim": "Will 5-Spiele-Sieglos-Serie brechen vor Saisonende",
+      "saisonziel_gast": "Mid-Table, 1 Niederlage in letzten 5 - kleiner Momentum-Vorteil",
+      "form_heim": "5 Spiele ohne Sieg",
+      "form_gast": "nur 1 Niederlage in letzten 5",
+      "skipped_due_to_token_budget": false,
+      "quoten_aggregator_naeherung": {
+        "sieg_heim": 2.10,
+        "draw": 3.40,
+        "sieg_gast": 3.40,
+        "hinweis": "Coinflip-Tendenz; Live-Quoten pruefen"
+      },
+      "quellen": [
+        "https://www.sportsgambler.com/betting-tips/football/real-sociedad-vs-valencia-prediction-lineups-odds-2026-05-17/",
+        "https://www.sportsmole.co.uk/football/real-sociedad/preview/real-sociedad-vs-valencia-prediction-team-news-lineups_597612.html",
+        "https://onefootball.com/en/news/preview-real-sociedad-vs-valencia-team-news-lineups-predictions-la-liga-1705-42871975"
+      ]
+    },
+    {
+      "id": "2026-05-17-juv-fio",
+      "liga": "Serie A",
+      "matchday": 37,
+      "heim": "Juventus",
+      "gast": "Fiorentina",
+      "anstoss": "2026-05-17T12:00:00+02:00",
+      "stadion": "Allianz Stadium, Turin",
+      "kontext_typ": "supplementary",
+      "squad_heim_basis": [
+        {"name": "Michele Di Gregorio", "position": "TW", "verifiziert_via": "https://www.blackwhitereadallover.com/game-time-threads/38403/juventus-fiorentina-2026-serie-a-matchday-37-lineups-team-news-live-online-streaming"},
+        {"name": "Pierre Kalulu", "position": "IV", "verifiziert_via": "https://www.blackwhitereadallover.com/game-time-threads/38403/juventus-fiorentina-2026-serie-a-matchday-37-lineups-team-news-live-online-streaming"},
+        {"name": "Bremer", "position": "IV", "verifiziert_via": "https://www.blackwhitereadallover.com/game-time-threads/38403/juventus-fiorentina-2026-serie-a-matchday-37-lineups-team-news-live-online-streaming"},
+        {"name": "Lloyd Kelly", "position": "IV", "verifiziert_via": "https://www.blackwhitereadallover.com/game-time-threads/38403/juventus-fiorentina-2026-serie-a-matchday-37-lineups-team-news-live-online-streaming"},
+        {"name": "Andrea Cambiaso", "position": "LV/RV", "verifiziert_via": "https://www.blackwhitereadallover.com/game-time-threads/38403/juventus-fiorentina-2026-serie-a-matchday-37-lineups-team-news-live-online-streaming"},
+        {"name": "Manuel Locatelli", "position": "DM", "verifiziert_via": "https://www.blackwhitereadallover.com/game-time-threads/38403/juventus-fiorentina-2026-serie-a-matchday-37-lineups-team-news-live-online-streaming"},
+        {"name": "Teun Koopmeiners", "position": "ZM", "verifiziert_via": "https://www.blackwhitereadallover.com/game-time-threads/38403/juventus-fiorentina-2026-serie-a-matchday-37-lineups-team-news-live-online-streaming"},
+        {"name": "Francisco Conceicao", "position": "RF", "verifiziert_via": "https://www.blackwhitereadallover.com/game-time-threads/38403/juventus-fiorentina-2026-serie-a-matchday-37-lineups-team-news-live-online-streaming"},
+        {"name": "Weston McKennie", "position": "OM", "verifiziert_via": "https://www.blackwhitereadallover.com/game-time-threads/38403/juventus-fiorentina-2026-serie-a-matchday-37-lineups-team-news-live-online-streaming"},
+        {"name": "Kenan Yildiz", "position": "LF", "verifiziert_via": "https://www.blackwhitereadallover.com/game-time-threads/38403/juventus-fiorentina-2026-serie-a-matchday-37-lineups-team-news-live-online-streaming"},
+        {"name": "Dusan Vlahovic", "position": "ST", "verifiziert_via": "https://www.blackwhitereadallover.com/game-time-threads/38403/juventus-fiorentina-2026-serie-a-matchday-37-lineups-team-news-live-online-streaming"}
+      ],
+      "squad_gast_basis": [
+        {"name": "David de Gea", "position": "TW", "verifiziert_via": "https://www.blackwhitereadallover.com/game-time-threads/38403/juventus-fiorentina-2026-serie-a-matchday-37-lineups-team-news-live-online-streaming"},
+        {"name": "Dodo", "position": "RV", "verifiziert_via": "https://www.blackwhitereadallover.com/game-time-threads/38403/juventus-fiorentina-2026-serie-a-matchday-37-lineups-team-news-live-online-streaming"},
+        {"name": "Marin Pongracic", "position": "IV", "verifiziert_via": "https://www.blackwhitereadallover.com/game-time-threads/38403/juventus-fiorentina-2026-serie-a-matchday-37-lineups-team-news-live-online-streaming"},
+        {"name": "Luca Ranieri", "position": "IV", "verifiziert_via": "https://www.blackwhitereadallover.com/game-time-threads/38403/juventus-fiorentina-2026-serie-a-matchday-37-lineups-team-news-live-online-streaming"},
+        {"name": "Robin Gosens", "position": "LV", "verifiziert_via": "https://www.blackwhitereadallover.com/game-time-threads/38403/juventus-fiorentina-2026-serie-a-matchday-37-lineups-team-news-live-online-streaming"},
+        {"name": "Nicolo Fagioli", "position": "DM", "verifiziert_via": "https://www.blackwhitereadallover.com/game-time-threads/38403/juventus-fiorentina-2026-serie-a-matchday-37-lineups-team-news-live-online-streaming"},
+        {"name": "Marco Brescianini", "position": "ZM", "verifiziert_via": "https://www.blackwhitereadallover.com/game-time-threads/38403/juventus-fiorentina-2026-serie-a-matchday-37-lineups-team-news-live-online-streaming"},
+        {"name": "Cher Ndour", "position": "ZM", "verifiziert_via": "https://www.blackwhitereadallover.com/game-time-threads/38403/juventus-fiorentina-2026-serie-a-matchday-37-lineups-team-news-live-online-streaming"},
+        {"name": "Fabiano Parisi", "position": "LF", "verifiziert_via": "https://www.blackwhitereadallover.com/game-time-threads/38403/juventus-fiorentina-2026-serie-a-matchday-37-lineups-team-news-live-online-streaming"},
+        {"name": "Manor Solomon", "position": "RF", "verifiziert_via": "https://www.blackwhitereadallover.com/game-time-threads/38403/juventus-fiorentina-2026-serie-a-matchday-37-lineups-team-news-live-online-streaming"},
+        {"name": "Roberto Piccoli", "position": "ST", "verifiziert_via": "https://www.blackwhitereadallover.com/game-time-threads/38403/juventus-fiorentina-2026-serie-a-matchday-37-lineups-team-news-live-online-streaming"}
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Juve UEFA-CL Achtelfinale-Aus",
+        "gast": "Conference-League-Halbfinale 14.05. ENDE (gegen Real Betis Conference-Sieger 2024/25; ggf. ohnehin Aus); Saisonende",
+        "quellen": ["https://www.blackwhitereadallover.com/game-time-threads/38403/juventus-fiorentina-2026-serie-a-matchday-37-lineups-team-news-live-online-streaming"]
+      },
+      "saisonziel_heim": "Top-4-Verteidigung, 1 Pkt vor Roma+Milan",
+      "saisonziel_gast": "Top-6/8 Europa-Conference-Quali-Hoffnung",
+      "skipped_due_to_token_budget": false,
+      "quoten_aggregator_naeherung": {
+        "sieg_heim": 1.80,
+        "draw": 3.60,
+        "sieg_gast": 4.20,
+        "hinweis": "Juve Heim-Favorit fuer Top-4-Push; Fiorentina-Form Mid-Tabelle"
+      },
+      "quellen": [
+        "https://www.blackwhitereadallover.com/game-time-threads/38403/juventus-fiorentina-2026-serie-a-matchday-37-lineups-team-news-live-online-streaming",
+        "https://dailysports.net/predictions/juventus-vs-fiorentina-prediction-h2h-and-probable-lineups-may-17-2026/"
+      ]
+    }
+  ],
+  "weitere_spiele_heute_nicht_recherchiert": [
+    {"id": "2026-05-17-bre-cry", "liga": "Premier League", "anstoss": "16:00 Berlin", "heim": "Brentford", "gast": "Crystal Palace", "skipped_due_to_token_budget": true},
+    {"id": "2026-05-17-eve-sun", "liga": "Premier League", "anstoss": "16:00 Berlin", "heim": "Everton", "gast": "Sunderland", "skipped_due_to_token_budget": true},
+    {"id": "2026-05-17-lee-bha", "liga": "Premier League", "anstoss": "16:00 Berlin", "heim": "Leeds United", "gast": "Brighton & Hove Albion", "skipped_due_to_token_budget": true},
+    {"id": "2026-05-17-wol-ful", "liga": "Premier League", "anstoss": "16:00 Berlin", "heim": "Wolverhampton", "gast": "Fulham", "skipped_due_to_token_budget": true},
+    {"id": "2026-05-17-elc-get", "liga": "LaLiga", "anstoss": "19:00 Berlin", "heim": "Elche", "gast": "Getafe", "skipped_due_to_token_budget": true},
+    {"id": "2026-05-17-lev-mll", "liga": "LaLiga", "anstoss": "19:00 Berlin", "heim": "Levante", "gast": "Mallorca", "skipped_due_to_token_budget": true},
+    {"id": "2026-05-17-ray-vil", "liga": "LaLiga", "anstoss": "19:00 Berlin", "heim": "Rayo Vallecano", "gast": "Villarreal", "skipped_due_to_token_budget": true},
+    {"id": "2026-05-17-osa-esp", "liga": "LaLiga", "anstoss": "19:00 Berlin", "heim": "Osasuna", "gast": "Espanyol", "skipped_due_to_token_budget": true},
+    {"id": "2026-05-17-ovd-ala", "liga": "LaLiga", "anstoss": "19:00 Berlin", "heim": "Real Oviedo", "gast": "Deportivo Alaves", "skipped_due_to_token_budget": true},
+    {"id": "2026-05-17-gen-mil", "liga": "Serie A", "anstoss": "18:00 Berlin", "heim": "Genoa", "gast": "AC Milan", "skipped_due_to_token_budget": true, "kommentar": "Milan-CL-Race relevant - 4. Platz nur via H2H vor Roma"},
+    {"id": "2026-05-17-com-par", "liga": "Serie A", "anstoss": "12:00 Berlin", "heim": "Como 1907", "gast": "Parma", "skipped_due_to_token_budget": true},
+    {"id": "2026-05-17-pis-nap", "liga": "Serie A", "anstoss": "12:00 Berlin", "heim": "Pisa", "gast": "Napoli", "skipped_due_to_token_budget": true, "kommentar": "Napoli kaempft um Top-4"},
+    {"id": "2026-05-17-cag-tor", "liga": "Serie A", "anstoss": "20:45 Berlin", "heim": "Cagliari", "gast": "Torino", "skipped_due_to_token_budget": true},
+    {"id": "2026-05-17-sas-lec", "liga": "Serie A", "anstoss": "20:45 Berlin", "heim": "Sassuolo", "gast": "Lecce", "skipped_due_to_token_budget": true},
+    {"id": "2026-05-17-udi-cre", "liga": "Serie A", "anstoss": "20:45 Berlin", "heim": "Udinese", "gast": "Cremonese", "skipped_due_to_token_budget": true},
+    {"id": "2026-05-17-lor-leh", "liga": "Ligue 1", "anstoss": "21:00 Berlin", "heim": "Lorient", "gast": "Le Havre", "skipped_due_to_token_budget": true},
+    {"id": "2026-05-17-nan-tou", "liga": "Ligue 1", "anstoss": "21:00 Berlin", "heim": "Nantes", "gast": "Toulouse", "skipped_due_to_token_budget": true},
+    {"id": "2026-05-17-nic-met", "liga": "Ligue 1", "anstoss": "21:00 Berlin", "heim": "Nice", "gast": "Metz", "skipped_due_to_token_budget": true},
+    {"id": "2026-05-17-lyo-len", "liga": "Ligue 1", "anstoss": "21:00 Berlin", "heim": "Lyon", "gast": "Lens", "skipped_due_to_token_budget": true, "kommentar": "Top-3-Kampf Lens vs Lyon"},
+    {"id": "2026-05-17-lil-aux", "liga": "Ligue 1", "anstoss": "21:00 Berlin", "heim": "Lille", "gast": "Auxerre", "skipped_due_to_token_budget": true},
+    {"id": "2026-05-17-str-mon", "liga": "Ligue 1", "anstoss": "21:00 Berlin", "heim": "Strasbourg", "gast": "Monaco", "skipped_due_to_token_budget": true},
+    {"id": "2026-05-17-bre-ang", "liga": "Ligue 1", "anstoss": "21:00 Berlin", "heim": "Stade Brestois", "gast": "Angers", "skipped_due_to_token_budget": true}
+  ]
+}
