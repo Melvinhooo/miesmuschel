@@ -283,19 +283,6 @@
       ],
       "tipps": [
         {
-          "id": "atm-gir-1",
-          "kategorie": "wackel",
-          "markt": "Alexander Sorloth trifft (Jederzeit)",
-          "prognose": "Sorloth erzielt mindestens 1 Tor",
-          "quote": 2.25,
-          "edge_prozent": 14,
-          "faire_quote": 1.97,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 8.25,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Soerloth letzten 4 Auftritten 3 Tore inkl. Osasuna-Kopfball 71. (Form-Edge HR24). J.Alvarez doubt = Soerloth STARTER + Volumen-9er-Role. Girona-Defense ohne Stamm-Verteidiger (Vanat/Portu OUT belastet auch defensiv). Lesson 15.05.+04.05. PFLICHT-PROFILE Heim-Favorit-Tor + Star-Ausfall-Backup. Einsatz 8,25€ (1.5%). [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
-          "_torschuetze_quelle_warn": true
-        },
-        {
           "id": "atm-gir-2",
           "kategorie": "value",
           "markt": "Doppelte Chance 1X (Atletico oder Unentschieden)",
@@ -458,18 +445,6 @@
           "empfohlener_einsatz_prozent": 1.0,
           "einsatz_euro": 5.5,
           "begruendung": "Markt-Goldgrube Ueber 2.5 (+52.3% ROI). PSG-Offensive (Dembele/Kvaratskhelia/Barcola) + Paris-FC-Saisonende-offen + Derby-Stimmung Stade Jean Bouin. Saisonende-Flaute-Filter trifft nicht (PSG-Offensive ueber 2.5/Spiel Schnitt). Einsatz 5,50€ (1.0%)."
-        },
-        {
-          "id": "pfc-psg-3",
-          "kategorie": "wackel",
-          "markt": "Ousmane Dembele trifft (Jederzeit)",
-          "prognose": "Dembele erzielt mindestens 1 Tor",
-          "quote": 2.1,
-          "edge_prozent": 5,
-          "faire_quote": 1.99,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 2.75,
-          "begruendung": "Dembele Top-Scorer PSG. Wackel statt VALUE wegen CL-Final-Vorbereitung Lesson 14.05. HR-Joker (13-25 Tage Zone = mit Joker-Tor-Erwartung statt nur Top-Scorer). Einsatz 2,75€ (0.5%)."
         }
       ],
       "kontext_check_status": "OK"
@@ -563,18 +538,6 @@
         "Bonny + Henrique unterstuetzen Lautaro - Inter-Sturm voll"
       ],
       "tipps": [
-        {
-          "id": "int-ver-1",
-          "kategorie": "wackel",
-          "markt": "🔍 Beobachtung Serie A - Lautaro Martinez trifft (Jederzeit)",
-          "prognose": "Lautaro erzielt mindestens 1 Tor",
-          "quote": 1.45,
-          "edge_prozent": 8,
-          "faire_quote": 1.34,
-          "empfohlener_einsatz_prozent": 0.0,
-          "einsatz_euro": 0.0,
-          "begruendung": "🔍 Beobachtung Serie A. Lautaro Pichichi-Race + 4 Tore in 4 Spielen + Verona-Defense abgestiegen. Wackel-Label + NICHT in Einzeltipps. HR11 Beobachtungs-Soft-VALUE-Lesson 04.05.: Top-Klub-mit-Druck vs Mid-Bottom-ohne-Saisonziel = OK 0.5%-Stake-Ausnahme - aber Verona abgestiegen ist klarere Konstellation, hier 0.0% wegen aktueller Bilanz -46%."
-        },
         {
           "id": "int-ver-2",
           "kategorie": "wackel",
@@ -896,93 +859,6 @@
         }
       ],
       "rechnung": "1.55 x 1.59 x 1.70 = 4.19"
-    },
-    {
-      "id": "kombi-risiko",
-      "typ": "Risiko-Kombi ~28x",
-      "kategorie": "risk",
-      "gesamtquote": 16.07,
-      "einsatz_euro": 1.4,
-      "empfohlener_einsatz_prozent": 0.25,
-      "begruendung": "Risiko-Kombi mit 5 Beinen aus 5 Spielen, markt-typ-divers (3 Torschuetzen + 1 DC + 1 Sieg-NBA). HR23-Hinweis: einige Spiele tauchen mit anderem Markt-Familie auch in Safe/Balance auf, Korrelation gering (Spieler-Tor vs Spielausgang). HR17 Layer-2 ok. Saebbel-Mix: Sorloth (atm-gir Star-Backup, Form-Edge) + Vinicius (sev-rma Form-Edge) + Athletic DC X2 (Athletic-Form-Knick + Celta-Auswaerts-Edge) + Pistons-Sieg (G7-Heimcourt) + Dembele (pfc-psg Top-Scorer). Einsatz 1,40€ (0.25%). Gesamt 27.97.",
-      "beine": [
-        {
-          "spiel_id": "2026-05-17-atm-gir",
-          "tipp_id": "atm-gir-1",
-          "markt": "Club Atletico de Madrid - Girona FC: Alexander Sorloth trifft (Jederzeit)",
-          "quote": 2.25,
-          "spiel_titel": "Club Atletico de Madrid - Girona FC"
-        },
-        {
-          "spiel_id": "2026-05-17-sev-rma",
-          "tipp_id": "sev-rma-4",
-          "markt": "Sevilla FC - Real Madrid CF: Vinicius Junior trifft (Jederzeit)",
-          "quote": 2.1,
-          "spiel_titel": "Sevilla FC - Real Madrid CF"
-        },
-        {
-          "spiel_id": "2026-05-17-ath-cel",
-          "tipp_id": "ath-cel-1",
-          "markt": "Athletic Club Bilbao - Celta Vigo: Doppelte Chance X2 (Unentschieden oder Celta Vigo)",
-          "quote": 1.62,
-          "spiel_titel": "Athletic Club Bilbao - Celta Vigo"
-        },
-        {
-          "spiel_id": "2026-05-17-pfc-psg",
-          "tipp_id": "pfc-psg-3",
-          "markt": "Paris FC - Paris Saint-Germain: Ousmane Dembele trifft (Jederzeit)",
-          "quote": 2.1,
-          "spiel_titel": "Paris FC - Paris Saint-Germain"
-        }
-      ],
-      "rechnung": "2.25 x 2.10 x 1.62 x 2.10 = 16.07"
-    },
-    {
-      "id": "kombi-moonshot",
-      "typ": "Moonshot-Kombi ~113x",
-      "kategorie": "moonshot",
-      "gesamtquote": 42.35,
-      "einsatz_euro": 0.55,
-      "empfohlener_einsatz_prozent": 0.1,
-      "begruendung": "Moonshot-Spass mit 7 Torschuetzen-Beinen aus 7 Spielen - klassische Goldgrube-Torschuetzen-Jederzeit. Beob-Liga Serie A erlaubt ab Quote 5+, hier Beobachtungs-Tipps mit Quoten 1.45-2.50 als reine Tor-Markt-Mischung. Mbeumo + Sorloth + Lewa + Mbappe + Dembele (Hauptligen Top-Scorer) + Lautaro (Beob Inter vs abgestiegener Verona) + Dybala (Beob Roma-Derby). Layer-3-HR23-Ausnahme genutzt fuer Moonshot. Spasseinsatz 0,55€ (0.1%). Gesamt 153.52x.",
-      "beine": [
-        {
-          "spiel_id": "2026-05-17-mun-nfo",
-          "tipp_id": "mun-nfo-2",
-          "markt": "Manchester United - Nottingham Forest: Bryan Mbeumo trifft (Jederzeit)",
-          "quote": 2.85,
-          "spiel_titel": "Manchester United - Nottingham Forest"
-        },
-        {
-          "spiel_id": "2026-05-17-atm-gir",
-          "tipp_id": "atm-gir-1",
-          "markt": "Club Atletico de Madrid - Girona FC: Alexander Sorloth trifft (Jederzeit)",
-          "quote": 2.25,
-          "spiel_titel": "Club Atletico de Madrid - Girona FC"
-        },
-        {
-          "spiel_id": "2026-05-17-bar-bet",
-          "tipp_id": "bar-bet-1",
-          "markt": "FC Barcelona - Real Betis Balompie: Robert Lewandowski trifft (Jederzeit)",
-          "quote": 1.85,
-          "spiel_titel": "FC Barcelona - Real Betis Balompie"
-        },
-        {
-          "spiel_id": "2026-05-17-sev-rma",
-          "tipp_id": "sev-rma-1",
-          "markt": "Sevilla FC - Real Madrid CF: Kylian Mbappe trifft (Jederzeit)",
-          "quote": 1.7,
-          "spiel_titel": "Sevilla FC - Real Madrid CF"
-        },
-        {
-          "spiel_id": "2026-05-17-pfc-psg",
-          "tipp_id": "pfc-psg-3",
-          "markt": "Paris FC - Paris Saint-Germain: Ousmane Dembele trifft (Jederzeit)",
-          "quote": 2.1,
-          "spiel_titel": "Paris FC - Paris Saint-Germain"
-        }
-      ],
-      "rechnung": "2.85 x 2.25 x 1.85 x 1.70 x 2.10 = 42.35"
     }
   ],
   "lessons_angewandt": [
