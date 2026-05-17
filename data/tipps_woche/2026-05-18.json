@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS_WOCHE = {
+{
   "datum": "2026-05-18",
   "erstellt_am": "2026-05-17T18:00:00+02:00",
   "hinweis": "Wochen-Vorschau Mo 2026-05-18 bis So 2026-05-24. Zwei europaeische Finals im Fenster (Europa League Mi 20.05. Freiburg-Villa + DFB-Pokal Sa 23.05. Bayern-Stuttgart) + LaLiga J38 Saisonende + Premier League Mday 38 Saisonende + Serie A 38 Saisonende (Beobachtungs-Liga) + 2. BL 34. ST Saisonende (Beobachtungs-Liga) + NBA WCF G1-G4 (Thunder-Spurs) + ECF G1-G4 + BL/2BL-Relegation Hinspiel. Best-of-Logik: nur 9 Top-Einzeltipps der ganzen Woche - die SICHERSTEN Quotes, nicht 25 mittelmaessige. Stand Kasse 550€ (Stufe 1 Aufbau). Spielerschutz: 18+ · BZgA 0800 1372700.",
@@ -695,4 +694,4 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
     "Goldgruben-Maerkte (data/markt_goldgruben.json): Ueber 2.5 Tore (+52.3% ROI), Ueber 1.5 Tore (+31.7%), Unter 2.5 (+25.3%), Torschuetzen Jederzeit (+19.5%), DC 1X (+4.9%). 4 von 5 Goldgrube-Maerkten im Dossier vertreten (alle ausser Unter 2.5)."
   ],
   "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool, keine Einkommensquelle. Nur setzen was du verlieren kannst."
-};
+}
