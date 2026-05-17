@@ -698,6 +698,30 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "Korrelations-Schutz - Doppelrisiko bei Heim-Sieg-Cluster (Quelle 8a)",
       "lesson": "EMPIRIE 15.05.: Cleveland Cavaliers Cluster - Cavs Sieg (-2.75) + Cavs -3.5 Spread (-2.75) = -5.50 EUR Cluster-Verlust statt -2.75 bei diversifiziertem Set-up. Beide Tipps korreliert (beide brauchen Cavs-Sieg, Spread sogar Cavs-Sieg-mit-mind-4-Pkt). Cavs verloren mit 21 Pkt -> beide Tipps gerissen. ZUSATZ: Cavs -3.5 war auch in Balance-Kombi (Bein 2 von 3) -> Kombi-Reissung kostete weitere 4.40 EUR. Total Cleveland-Cluster-Exposure: 2.75 (et-5) + 2.75 (et-3 in Spielebene = 0 weil nur kombi) + 4.40 (Balance-Kombi) = 9.90 EUR an einem Spiel exponiert. NEUE HARTREGEL Korrelations-Cap: Pro Spiel max 1 Sieg-Outcome-Tipp im Einzeltipps-Bereich (ML ODER Spread ODER DC, nicht 2 davon gleichzeitig). Falls Spread + ML gewuenscht, dann 1 davon nur in Kombi (nicht zusaetzlich Einzeltipp). Konkret heute: et-5 Cavs ML UND cle-det-3 Cavs -3.5 in Balance-Kombi war Doppel-Tipp im Spielebene-Sinn - kuenftig Spread NUR in Kombi, nicht als zusaetzlichen Einzeltipp.",
       "bezug_spiel_id": "2026-05-15-cle-det"
+    },
+    {
+      "datum": "2026-05-16",
+      "kategorie": "Existenz-Druck-Mismatch realisiert - Heidenheim-Abstiegs-Pflicht griff nicht (Quelle 8e Kategorie-Reality)",
+      "lesson": "EMPIRIE 16.05.: Heidenheim brauchte ZWINGEND Sieg gegen Mainz fuer Klassenerhalts-Hoffnung, Mainz ohne jeden Druck (Saisonende-Mitte-Tabelle). Trotzdem Heidenheim 0:2 verloren - HZ schon 0:2 nach Tietz 7. + Amiri 43. Zwei Tipps verloren: et-4 Sieg Heidenheim @2.09 (-8.25) + et-5 DC 1X @1.4 (-8.25) = -16.50 EUR an einem Spiel. Lattentreffer Pieringer 30. + Conteh-Einwechslung ohne Tor = Boost-Trigger fehlgeschlagen. NEUE HARTREGEL: bei Existenz-Druck-Edge MAX 1 Tipp (Sieg ODER DC, nicht beides). Das doppelte Heidenheim-Exposure (Sieg + DC 1X) verdoppelte den Schaden bei Sieg-Ausbleiben. Gegenmittel: Single-Outcome-Cap auch fuer Druck-Profile, nicht nur fuer NBA-Sieg-Cluster (vgl Lesson 15.05. Cleveland). Ab sofort: Heim-Existenz-Druck-Spiele = max 1 Outcome-Tipp im Einzelbereich; Tor-Markt (BTTS / Ueber) als Alternative pruefen statt Doppel-Outcome.",
+      "bezug_spiel_id": "2026-05-16-fch-m05"
+    },
+    {
+      "datum": "2026-05-16",
+      "kategorie": "Drehungs-Bestaetigung Mai-Cluster - DC X2 schuetzt, direkter Sieg-Tipp gefaehrlich (Quelle 8f Drehung)",
+      "lesson": "EMPIRIE 16.05.: Frankfurt-Stuttgart 2:2 - Stuttgart fuehrte 0:2 HZ (Baixauli 10., Nartey 45.) und gab 2-Tor-Polster ab (Burkardt-Doppel-Elfer 72. + 90+2.). Damit 5. Drehung im Mai 2026 (nach 02.05. Bayern-Heidenheim 3:3 von 0:2, 12.05./14.05./15.05.). DC X2 (Stuttgart+Remis) GEWONNEN trotz Drehung (et-6 +2.48 EUR) - direkter Stuttgart-Sieg-Tipp waere VERLOREN. 2:0-Insurance-Regel bet365 BL haette gegriffen wenn Sieg-Tipp gespielt, aber Insurance gilt NUR fuer Sieg-Tipp - DC X2 hat sie nicht. PFLICHT-PROFIL UPDATE: bei mit 0:2/2:0-Drehungs-historischer Liga (BL+CL Mai 2026 Drehungs-Quote ~30% bei 2-Tor-HZ-Polster) PFLICHT direkter Sieg-Tipp ODER DC-Variante - nie beide. Wenn Mai-Drehungs-Cluster bis Saisonende >=6 erreicht, Sieg-Tipps generell auf wackel kategorisieren bei <55% Faire-Hitrate.",
+      "bezug_spiel_id": "2026-05-16-sge-vfb"
+    },
+    {
+      "datum": "2026-05-16",
+      "kategorie": "Karriere-Highlight-Heim-Team NICHT-Rotation - Hoefler-Abschied-Boost realisiert (Quelle 8h Rotation-Pattern)",
+      "lesson": "EMPIRIE 16.05.: Freiburg 4:1 RB Leipzig - Hoefler letztes BL-Spiel (Karriere-Final) + Freiburg-Heim-Vorteil + Conference-Quali-Bestaetigung. Tipp et-8 DC X2 (Leipzig+Remis @1.5) GEROCHEN - Karriere-Highlight-INVERS-Caveat-Lesson 15.05. unterschaetzt. Hoefler-Motivation + Heim-Vorteil + Hochform (Beste 24. + Matanovic 26. = 2:0 in 2 Min) zermalmten Leipzig-B-Elf-Naehe. Korrektur 15.05.-Lesson: Karriere-Highlight bei HEIM-Team mit Saisonziel-Hoffnung (EL/CL/Conference-Quali) = anti-Rotation, voll motiviert. Karriere-Highlight bei AUSWAERTS-Team-ohne-Druck (z.B. Klopp letztes Spiel Liverpool ausserhalb Anfield gegen Mid-Table-Gegner) = NEUTRAL. UPDATE Pflicht-Filter: Heim-Karriere-Highlight = klare Form-Buchung gegen Underdog, NICHT als Coinflip behandeln. Mid-Tier-EL-Klub-Annahme aus 15.05. nur fuer Auswaerts-Spiele.",
+      "bezug_spiel_id": "2026-05-16-scf-rbl"
+    },
+    {
+      "datum": "2026-05-16",
+      "kategorie": "Einwechslungs-Boost-Trigger ohne Tipp - Bayern Jackson-Goretzka 82./83. (Quelle 8i)",
+      "lesson": "EMPIRIE 16.05.: Bayern - Koeln 5:1, Bayern wechselt Jackson fuer Goretzka 82., Jackson trifft 83. = klassischer Einwechslungs-Boost-Trigger nach bet365-Regel (Spieler X raus, Y kommt rein, Y trifft - haette fuer X-Torschuetzen-Tipp gegolten). Aber Goretzka war KEIN Torschuetzen-Tipp im Dossier, also Boost griff nicht praktisch. SCAN-AUFTRAG: Top-Team-Hauptstuermer-Kandidaten mit Bank-Backup naechste Tipps-Generation aktiv pruefen - Bayern Kane (Jackson-Backup mit Volume), BVB Guirassy (Beier/Adeyemi-Backup), Stuttgart Demirovic (Undav-Backup), Frankfurt Marmoush (Ekitike-Backup), Real Mbappe (Endrick-Backup). Realisiert-Bestaetigt: Backup-Stuermer-Tor-Konversion bei Wechsel ~83. Min in Top-6-Teams im Mai 2026 = 3 Bestaetigungen (02.05. Olise-Sane Bayern, 13.05. Brandt-Sabitzer BVB, 16.05. Jackson-Goretzka Bayern). NEUE PRAXIS: bei Bayern/BVB-Torschuetzen-Tipps Hauptstuermer-Quote @ ~2.0 = automatisch hoeher gewichten dank Boost-Erweiterung der Tor-Conversion-Wahrscheinlichkeit auf Backup.",
+      "bezug_spiel_id": "2026-05-16-bay-koe"
     }
   ]
 };

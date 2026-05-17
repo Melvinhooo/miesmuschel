@@ -1,37 +1,37 @@
 {
-  "letzte_berechnung": "2026-05-16T06:15:41+00:00",
+  "letzte_berechnung": "2026-05-17T06:22:57+00:00",
   "gesamt": {
-    "tipps": 225,
-    "gewonnen": 128,
+    "tipps": 236,
+    "gewonnen": 130,
     "verloren": 97,
     "push": 0,
-    "offen": 0,
-    "einsatz": 225.0,
+    "offen": 9,
+    "einsatz": 227.0,
     "netto": 21.32,
-    "trefferquote": 56.9,
-    "roi_prozent": 9.5
+    "trefferquote": 57.3,
+    "roi_prozent": 9.4
   },
   "letzte_30_tage": {
-    "tipps": 225,
-    "gewonnen": 128,
+    "tipps": 236,
+    "gewonnen": 130,
     "verloren": 97,
     "push": 0,
-    "offen": 0,
-    "einsatz": 225.0,
+    "offen": 9,
+    "einsatz": 227.0,
     "netto": 21.32,
-    "trefferquote": 56.9,
-    "roi_prozent": 9.5
+    "trefferquote": 57.3,
+    "roi_prozent": 9.4
   },
   "letzte_90_tage": {
-    "tipps": 225,
-    "gewonnen": 128,
+    "tipps": 236,
+    "gewonnen": 130,
     "verloren": 97,
     "push": 0,
-    "offen": 0,
-    "einsatz": 225.0,
+    "offen": 9,
+    "einsatz": 227.0,
     "netto": 21.32,
-    "trefferquote": 56.9,
-    "roi_prozent": 9.5
+    "trefferquote": 57.3,
+    "roi_prozent": 9.4
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -68,22 +68,22 @@
       "roi_prozent": -9.5
     },
     "LaLiga": {
-      "tipps": 41,
+      "tipps": 42,
       "gewonnen": 21,
       "verloren": 20,
       "push": 0,
-      "offen": 0,
+      "offen": 1,
       "einsatz": 41.0,
       "netto": 0.3,
       "trefferquote": 51.2,
       "roi_prozent": 0.7
     },
     "Bundesliga": {
-      "tipps": 30,
+      "tipps": 37,
       "gewonnen": 16,
       "verloren": 14,
       "push": 0,
-      "offen": 0,
+      "offen": 7,
       "einsatz": 30.0,
       "netto": -0.6,
       "trefferquote": 53.3,
@@ -112,11 +112,11 @@
       "roi_prozent": -40.0
     },
     "Premier League": {
-      "tipps": 32,
+      "tipps": 33,
       "gewonnen": 21,
       "verloren": 11,
       "push": 0,
-      "offen": 0,
+      "offen": 1,
       "einsatz": 32.0,
       "netto": -2.34,
       "trefferquote": 65.6,
@@ -332,6 +332,17 @@
       "roi_prozent": 17.2
     },
     "Coppa Italia Finale": {
+      "tipps": 2,
+      "gewonnen": 2,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 0.0,
+      "trefferquote": 100.0,
+      "roi_prozent": 0.0
+    },
+    "FA Cup Finale": {
       "tipps": 2,
       "gewonnen": 2,
       "verloren": 0,
@@ -1511,11 +1522,11 @@
       "roi_prozent": -100.0
     },
     "Ueber 2.5 Tore": {
-      "tipps": 9,
+      "tipps": 11,
       "gewonnen": 5,
       "verloren": 4,
       "push": 0,
-      "offen": 0,
+      "offen": 2,
       "einsatz": 9.0,
       "netto": 6.58,
       "trefferquote": 55.6,
@@ -2314,11 +2325,11 @@
       "roi_prozent": 0.0
     },
     "Beide Teams treffen JA": {
-      "tipps": 1,
+      "tipps": 3,
       "gewonnen": 1,
       "verloren": 0,
       "push": 0,
-      "offen": 0,
+      "offen": 2,
       "einsatz": 1.0,
       "netto": 1.57,
       "trefferquote": 100.0,
@@ -2353,6 +2364,83 @@
       "push": 0,
       "offen": 0,
       "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Doppelte Chance X2 (Manchester City oder Unentschieden)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 100.0,
+      "roi_prozent": 0.0
+    },
+    "Sieg Manchester City": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 100.0,
+      "roi_prozent": 0.0
+    },
+    "Sieg Heidenheim": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 0,
+      "push": 0,
+      "offen": 1,
+      "einsatz": 0.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Doppelte Chance 1X (Heidenheim oder Unentschieden)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 0,
+      "push": 0,
+      "offen": 1,
+      "einsatz": 0.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Doppelte Chance X2 (Stuttgart oder Unentschieden)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 0,
+      "push": 0,
+      "offen": 1,
+      "einsatz": 0.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Doppelte Chance X2 (RB Leipzig oder Unentschieden)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 0,
+      "push": 0,
+      "offen": 1,
+      "einsatz": 0.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Doppelte Chance 1X (Manchester United oder Unentschieden)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 0,
+      "push": 0,
+      "offen": 1,
+      "einsatz": 0.0,
       "netto": 0.0,
       "trefferquote": 0.0,
       "roi_prozent": 0.0
@@ -2404,15 +2492,15 @@
       "roi_prozent": 55.0
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 77,
-      "gewonnen": 46,
+      "tipps": 79,
+      "gewonnen": 47,
       "verloren": 31,
       "push": 0,
-      "offen": 0,
-      "einsatz": 77.0,
+      "offen": 1,
+      "einsatz": 78.0,
       "netto": 7.68,
-      "trefferquote": 59.7,
-      "roi_prozent": 10.0
+      "trefferquote": 60.3,
+      "roi_prozent": 9.8
     },
     "Torschuetzen Jederzeit": {
       "tipps": 28,
@@ -2437,44 +2525,44 @@
       "roi_prozent": 25.3
     },
     "Doppelte Chance 1X": {
-      "tipps": 17,
+      "tipps": 19,
       "gewonnen": 14,
       "verloren": 3,
       "push": 0,
-      "offen": 0,
+      "offen": 2,
       "einsatz": 17.0,
       "netto": 0.84,
       "trefferquote": 82.4,
       "roi_prozent": 4.9
     },
     "Doppelte Chance X2": {
-      "tipps": 11,
-      "gewonnen": 7,
+      "tipps": 14,
+      "gewonnen": 8,
       "verloren": 4,
       "push": 0,
-      "offen": 0,
-      "einsatz": 11.0,
+      "offen": 2,
+      "einsatz": 12.0,
       "netto": 0.85,
-      "trefferquote": 63.6,
-      "roi_prozent": 7.7
+      "trefferquote": 66.7,
+      "roi_prozent": 7.1
     },
     "Ueber 2.5 Tore": {
-      "tipps": 12,
+      "tipps": 14,
       "gewonnen": 6,
       "verloren": 6,
       "push": 0,
-      "offen": 0,
+      "offen": 2,
       "einsatz": 12.0,
       "netto": 6.28,
       "trefferquote": 50.0,
       "roi_prozent": 52.3
     },
     "Beide Teams treffen JA": {
-      "tipps": 5,
+      "tipps": 7,
       "gewonnen": 2,
       "verloren": 3,
       "push": 0,
-      "offen": 0,
+      "offen": 2,
       "einsatz": 5.0,
       "netto": -0.73,
       "trefferquote": 40.0,
@@ -2802,37 +2890,37 @@
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 106,
-      "gewonnen": 56,
+      "tipps": 111,
+      "gewonnen": 57,
       "verloren": 50,
       "push": 0,
-      "offen": 0,
-      "einsatz": 106.0,
+      "offen": 4,
+      "einsatz": 107.0,
       "netto": 11.2,
-      "trefferquote": 52.8,
-      "roi_prozent": 10.6
+      "trefferquote": 53.3,
+      "roi_prozent": 10.5
     },
     "2.00-3.00": {
-      "tipps": 28,
+      "tipps": 29,
       "gewonnen": 11,
       "verloren": 17,
       "push": 0,
-      "offen": 0,
+      "offen": 1,
       "einsatz": 28.0,
       "netto": 2.64,
       "trefferquote": 39.3,
       "roi_prozent": 9.4
     },
     "1.00-1.50": {
-      "tipps": 82,
-      "gewonnen": 59,
+      "tipps": 87,
+      "gewonnen": 60,
       "verloren": 23,
       "push": 0,
-      "offen": 0,
-      "einsatz": 82.0,
+      "offen": 4,
+      "einsatz": 83.0,
       "netto": 6.03,
-      "trefferquote": 72.0,
-      "roi_prozent": 7.4
+      "trefferquote": 72.3,
+      "roi_prozent": 7.3
     },
     "3.00+": {
       "tipps": 9,
@@ -2848,25 +2936,25 @@
   },
   "nach_kategorie": {
     "safe": {
-      "tipps": 64,
-      "gewonnen": 46,
+      "tipps": 65,
+      "gewonnen": 47,
       "verloren": 18,
       "push": 0,
       "offen": 0,
-      "einsatz": 64.0,
+      "einsatz": 65.0,
       "netto": 4.13,
-      "trefferquote": 71.9,
-      "roi_prozent": 6.5
+      "trefferquote": 72.3,
+      "roi_prozent": 6.4
     },
     "value": {
-      "tipps": 133,
-      "gewonnen": 70,
+      "tipps": 143,
+      "gewonnen": 71,
       "verloren": 63,
       "push": 0,
-      "offen": 0,
-      "einsatz": 133.0,
+      "offen": 9,
+      "einsatz": 134.0,
       "netto": 13.22,
-      "trefferquote": 52.6,
+      "trefferquote": 53.0,
       "roi_prozent": 9.9
     },
     "wackel": {
@@ -2898,6 +2986,328 @@
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-05-16",
+      "gesamt": {
+        "tipps": 11,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 11,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [
+        {
+          "id": "2026-05-16-che-mci",
+          "liga": "FA Cup Finale",
+          "heim": "Chelsea FC",
+          "gast": "Manchester City FC",
+          "endstand": "0:1",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance X2 (Manchester City oder Unentschieden)",
+              "quote": 1.27,
+              "kategorie": "safe",
+              "status": "offen",
+              "gewinn_faktor": 0.0,
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Manchester City",
+              "quote": 1.9,
+              "kategorie": "value",
+              "status": "offen",
+              "gewinn_faktor": 0.0,
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "id": "2026-05-16-stp-wob",
+          "liga": "Bundesliga",
+          "heim": "FC St. Pauli",
+          "gast": "VfL Wolfsburg",
+          "endstand": "1:3",
+          "tipps": [
+            {
+              "markt": "Beide Teams treffen JA",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "offen",
+              "gewinn_faktor": 0.0,
+              "kommentar": "kein API-Match"
+            }
+          ]
+        },
+        {
+          "id": "2026-05-16-fch-m05",
+          "liga": "Bundesliga",
+          "heim": "1. FC Heidenheim",
+          "gast": "1. FSV Mainz 05",
+          "endstand": "0:2",
+          "tipps": [
+            {
+              "markt": "Sieg Heidenheim",
+              "quote": 2.09,
+              "kategorie": "value",
+              "status": "offen",
+              "gewinn_faktor": 0.0,
+              "kommentar": "kein API-Match"
+            },
+            {
+              "markt": "Doppelte Chance 1X (Heidenheim oder Unentschieden)",
+              "quote": 1.4,
+              "kategorie": "value",
+              "status": "offen",
+              "gewinn_faktor": 0.0,
+              "kommentar": "kein API-Match"
+            }
+          ]
+        },
+        {
+          "id": "2026-05-16-sge-vfb",
+          "liga": "Bundesliga",
+          "heim": "Eintracht Frankfurt",
+          "gast": "VfB Stuttgart",
+          "endstand": "2:2",
+          "tipps": [
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "offen",
+              "gewinn_faktor": 0.0,
+              "kommentar": "kein API-Match"
+            },
+            {
+              "markt": "Doppelte Chance X2 (Stuttgart oder Unentschieden)",
+              "quote": 1.3,
+              "kategorie": "value",
+              "status": "offen",
+              "gewinn_faktor": 0.0,
+              "kommentar": "kein API-Match"
+            }
+          ]
+        },
+        {
+          "id": "2026-05-16-scf-rbl",
+          "liga": "Bundesliga",
+          "heim": "SC Freiburg",
+          "gast": "RB Leipzig",
+          "endstand": "4:1",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance X2 (RB Leipzig oder Unentschieden)",
+              "quote": 1.5,
+              "kategorie": "value",
+              "status": "offen",
+              "gewinn_faktor": 0.0,
+              "kommentar": "kein API-Match"
+            }
+          ]
+        },
+        {
+          "id": "2026-05-16-bay-koe",
+          "liga": "Bundesliga",
+          "heim": "FC Bayern Muenchen",
+          "gast": "1. FC Koeln",
+          "endstand": "5:1",
+          "tipps": [
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.36,
+              "kategorie": "value",
+              "status": "offen",
+              "gewinn_faktor": 0.0,
+              "kommentar": "kein API-Match"
+            }
+          ]
+        },
+        {
+          "id": "2026-05-17-mun-nfo",
+          "liga": "Premier League",
+          "heim": "Manchester United",
+          "gast": "Nottingham Forest",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance 1X (Manchester United oder Unentschieden)",
+              "quote": 1.25,
+              "kategorie": "value",
+              "status": "offen",
+              "gewinn_faktor": 0.0,
+              "kommentar": "kein API-Match"
+            }
+          ]
+        },
+        {
+          "id": "2026-05-17-sev-rma",
+          "liga": "LaLiga",
+          "heim": "Sevilla FC",
+          "gast": "Real Madrid CF",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Beide Teams treffen JA",
+              "quote": 1.7,
+              "kategorie": "value",
+              "status": "offen",
+              "gewinn_faktor": 0.0,
+              "kommentar": "kein API-Match"
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi 4er",
+          "kategorie": "safe",
+          "gesamtquote": 2.5,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Doppelte Chance 1X (Barcelona oder Unentschieden)",
+              "quote": 1.08,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Doppelte Chance X2 (Manchester City oder Unentschieden)",
+              "quote": 1.27,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Doppelte Chance 1X (Heidenheim oder Unentschieden)",
+              "quote": 1.4,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Doppelte Chance X2 (Stuttgart oder Unentschieden)",
+              "quote": 1.3,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi 3er",
+          "kategorie": "balance",
+          "gesamtquote": 7.31,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Erling Haaland trifft",
+              "quote": 2.1,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Alexander Soerloth trifft",
+              "quote": 2.4,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.45,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi 4er",
+          "kategorie": "risk",
+          "gesamtquote": 6.83,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Atletico Madrid",
+              "quote": 1.35,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Vinicius Junior trifft",
+              "quote": 2.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ermedin Demirovic trifft",
+              "quote": 2.3,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot 8er",
+          "kategorie": "moonshot",
+          "gesamtquote": 310.8,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Serhou Guirassy trifft",
+              "quote": 2.05,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Marvin Pieringer trifft",
+              "quote": 2.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Bradley Barcola trifft",
+              "quote": 2.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg St. Pauli",
+              "quote": 2.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Detroit Pistons",
+              "quote": 1.65,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 2.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.62,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.65,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-05-15",
       "gesamt": {

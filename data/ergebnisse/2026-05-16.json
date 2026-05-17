@@ -1,0 +1,2497 @@
+{
+  "datum": "2026-05-16",
+  "erstellt_am": "2026-05-16T10:50:00+02:00",
+  "hinweis": "Riesen-Sa-So-Slate: BL letzter Spieltag (Abstiegs-Showdown St.Pauli/Heidenheim/Wolfsburg + Frankfurt-Stuttgart CL-Quali + Freiburg EL-Final-Vorprobe), FA Cup Finale Wembley Chelsea-City, LaLiga MD37 Saisonende (Barca-Betis, Sevilla-Real, Atletico-CL-Quali), Premier League MD37, Ligue 1 letzter Spieltag, NBA G7 Pistons-Cavs. Kasse 550 EUR / Stufe 1 Aufbau. Lessons-Schwerpunkt: 04.05. PFLICHT-PROFILE (Heim-Favorit -> Torschuetzen-Tipp), 11.05. EL/CL-Final-7-12d-Schon, 14.05. Top-Team-Final-7d-Schon, 15.05. Karriere-Highlight-Final-INVERS, 15.05. Korrelations-Schutz Heim-Sieg-Cluster. Quoten bei bet365 live pruefen.",
+  "spiele": [
+    {
+      "id": "2026-05-16-che-mci",
+      "liga": "FA Cup Finale",
+      "heim": "Chelsea FC",
+      "gast": "Manchester City FC",
+      "anstoss": "2026-05-16T17:00:00+02:00",
+      "stadion": "Wembley Stadium, London",
+      "saison_kontext": {
+        "parallel_heim": "Premier League MD37 verlegt auf Di 19.05. (3 Tage spaeter)",
+        "parallel_gast": "Premier League MD37 verlegt auf Di 19.05. (3 Tage spaeter)",
+        "saisonziel_heim": "Chelsea PL-Top-6 - moegliche EL/Conf-Quali, aber FA-Cup-Final ist Saison-Highlight nach Conference-Sieg Vorjahr. Trophaen-Routine fortsetzen",
+        "saisonziel_gast": "Man City 2. mit 77 Pkt, kaempft um PL-Titel + FA-Cup (4. Cup-Final in Folge - Rekord!). Cup-Double + Saisonrettungs-Trophy",
+        "motivations_asymmetrie": "City massive Form-Edge (9 Spiele unbeaten + Haaland gezielt geschont fuer Cup-Final), Chelsea Form-Krise (seit Maerz nur FA-Cup-Siege, 8 Niederlagen). Beide Karriere-Highlight aber City ist 4. Final in Folge = etablierter, Chelsea letzte Trophaeen-Chance. Klasse-Edge klar City.",
+        "recovery_heim": "Chelsea 1 Woche Pause vorm Final - voll konzentriert",
+        "recovery_gast": "City 1 Woche Pause vorm Final - voll konzentriert (Haaland-Status Final-relevant)",
+        "quellen": [
+          "https://en.wikipedia.org/wiki/2026_FA_Cup_final",
+          "https://www.chelseafc.com/en/match/chelsea-vs-manchester-city-english-fa-cup-2026-05-16",
+          "https://www.thefa.com/news/2026/may/11/emirates-fa-cup-final-chelsea-v-manchester-city-stats-20261105",
+          "https://www.thefa.com/competitions/the-emirates-fa-cup",
+          "https://www.mancity.com/news/mens/chelsea-v-city-fa-cup-final-match-preview-16-may-63914269"
+        ]
+      },
+      "news": [
+        "Chelsea 17. FA-Cup-Final aller Zeiten + 1. seit 2022 (damals 3. Niederlage in Folge)",
+        "Man City 15. FA-Cup-Final + 4. in Folge (Rekord) - jagen 8. Titel",
+        "Haaland Hatrick gegen Liverpool im VF (4:0) - in Top-Form",
+        "Chelsea PL 7 Pleiten in 7 letzten Form - aber Cup-Form besser",
+        "Wembley-Premiere: erstes FA-Cup-Final Chelsea-City ueberhaupt.",
+        "Haaland gezielt Cup-Final-fit (Lesson 14.05. Crystal-Palace-Schonung)."
+      ],
+      "tipps": [
+        {
+          "kategorie": "safe",
+          "markt": "Doppelte Chance X2 (Manchester City oder Unentschieden)",
+          "prognose": "Manchester City gewinnt oder Remis",
+          "quote": 1.27,
+          "edge_prozent": 10,
+          "begruendung": "City unbeaten 9 Spiele + Chelsea seit Maerz 8 Niederlagen + Haaland gezielt fuer Cup-Final-Aufbau geschont (Lesson 14.05. Crystal-Palace-Bank invers genutzt). Markt-Goldgrube DC (n=17, 82.4% Hit, +4.9% ROI). Mapper-Hebel C downgraded SAFE -> VALUE da FA-Cup-Final keine Liga-Goldgrube. Lesson 15.05. Karriere-Highlight-INVERS: City ist etablierter Champion mit 4. FA-Cup-Final in Folge - keine Schon-Risiko. Stake 1.5%.",
+          "einsatz_euro": 8.25,
+          "empfohlener_einsatz_prozent": 1.5,
+          "id": "che-mci-1",
+          "faire_quote": 1.15
+        },
+        {
+          "id": "che-mci-3",
+          "kategorie": "wackel",
+          "markt": "Erling Haaland trifft",
+          "quote": 2.1,
+          "edge_prozent": 18,
+          "faire_quote": 1.78,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 8.25,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (35.7% Hit, +19.5% ROI). Haaland gezielt fuer Cup-Final-Energie-Aufladung geschont (Lesson 14.05. Crystal-Palace-Bank). Lesson 04.05. PFLICHT-PROFILE Auswaerts-Favorit -> Torschuetzen-Tipp PFLICHT. ~25 PL-Tore Saison + Karriere-Highlight-Motivation. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "kategorie": "value",
+          "markt": "Sieg Manchester City",
+          "prognose": "Manchester City gewinnt regulaer",
+          "quote": 1.9,
+          "edge_prozent": 12,
+          "begruendung": "City-ML 1.90 (Aggregator). Lesson 04.05. PFLICHT-PROFILE Auswaerts-Favorit -> Sieg-Tipp PFLICHT. Form-Edge massiv (4 Wins in Folge gegen Chelsea zuletzt). Lesson 15.05. Karriere-Highlight-Final-INVERS: City spielt voll obwohl PL-Spiel Di nachher (3 Tage) - 4. FA-Cup-Final in Folge ist Routine, kein Schon. Lesson 10.05. PL-Sieg-Cluster max wackel-Filter trifft wegen FA-Cup-Kontext nicht. Stake 1.5%.",
+          "einsatz_euro": 8.25,
+          "empfohlener_einsatz_prozent": 1.5,
+          "id": "che-mci-2",
+          "faire_quote": 1.7
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "prognose": "Mehr als 2 Tore im Spiel",
+          "quote": 1.85,
+          "edge_prozent": 7,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 Tore (n=12, 50% Hit, +52.3% ROI). Cup-Final-Saisonende-Modus oft taktisch defensiv im 1. Halb -> deshalb WACKEL. City-Form 2.5 Tore/Spiel Schnitt + Chelsea-Defense laesst seit Maerz 2+ pro Spiel zu. Stake 0.5%.",
+          "einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "che-mci-4",
+          "faire_quote": 1.73
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 0,
+        "gast": 1,
+        "endstand": "0:1",
+        "kommentar": "Man City 1:0 - Semenyo 72. Geniestreich entscheidet FA-Cup-Final. Cup-Routine bestaetigt."
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "0:1",
+        "tore": [
+          {
+            "min": 72,
+            "team": "gast",
+            "spieler": "Antoine Semenyo",
+            "stand_danach": "0:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Knappes 0:0 zur Pause, City entscheidet 2.HZ mit Einzelaktion."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Manchester City",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Klasse-Edge City voll bestaetigt — Cup-Final-Routine schlaegt Underdog-Sieg-Hoffnung. Doppelte Chance X2 + Sieg Man City beide gewonnen.",
+          "Tor-arm trotz 2 Top-Offensiven — FA-Cup-Final-Typische taktische Vorsicht in HZ 1.",
+          "Einzeltipps SAFE/VALUE 100%-Hit auf Final-Tag, ohne 2:0-Insurance-Bedarf (City fuehrte nicht 2:0)."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-16-brm-bvb",
+      "liga": "Bundesliga",
+      "heim": "SV Werder Bremen",
+      "gast": "Borussia Dortmund",
+      "anstoss": "2026-05-16T15:30:00+02:00",
+      "stadion": "Weserstadion, Bremen",
+      "saison_kontext": {
+        "parallel_heim": "keine - Bremen kein UEFA-Termin",
+        "parallel_gast": "keine - BVB CL-Achtelfinale (April) bereits ausgeschieden, kein Pflicht-Final-Termin in 14 Tagen",
+        "saisonziel_heim": "Bremen 15. mit 32 Pkt - laengst gerettet ueber 16. Platz hinaus, kein Tabellen-Druck, Saison-Auslauf",
+        "saisonziel_gast": "BVB 2. mit ca. 70 Pkt - CL-Quali-Platz + Vize-Meister-Position mathematisch praktisch gesichert. Keine direkte Saisonziel-Pflicht-Bedingung",
+        "motivations_asymmetrie": "Beidseitig Saisonende-ohne-Druck (Bremen 15. gerettet, BVB 2. CL-fix). Lesson 09.05./11.05. Saisonende-BL-Sieg-Cluster-Filter: Goldgrube-Markt 'Sieg' wird im Saisonende neutralisiert. Coinflip-Risiko trotz BVB-Klasse-Edge. Drehungs-Risiko Lesson 02.05./12.05./14.05.",
+        "recovery_heim": "Bremen 7 Tage seit 0:1 Hoffenheim-Heim-Pleite 09.05.",
+        "recovery_gast": "BVB 7 Tage seit Heim 1:1 vs Frankfurt 09.05. - voll erholt",
+        "quellen": [
+          "https://dailysports.net/predictions/werder-vs-borussia-dortmund-prediction-h2h-and-probable-lineups-may-16-2026/",
+          "https://www.bundesliga.com/de/bundesliga/news/abstiegskampf-34-spieltag-wolfsburg-heidenheim-st-pauli-22755",
+          "https://www.kicker.de/bundesliga/tabelle",
+          "https://www.bundesliga.com/de/bundesliga/news/ansetzungen-spieltage-termine-zeitgenau-dfl-24024"
+        ]
+      },
+      "news": [
+        "Bremen 15.: 18 Niederlagen in 33 Spielen, 24% Saisonquote",
+        "BVB 2. mit Guirassy 16 BL-Tore + Ryerson 14 Assists",
+        "BVB unbeaten in letzten 6 BL-Spielen gegen Bremen (4 Siege, 2 Remis)",
+        "Beide Teams ohne UEFA-Doppelbelastung und ohne unmittelbares Final-Termin"
+      ],
+      "tipps": [
+        {
+          "id": "brm-bvb-1",
+          "kategorie": "value",
+          "markt": "Serhou Guirassy trifft",
+          "quote": 2.05,
+          "edge_prozent": 16,
+          "faire_quote": 1.77,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 8.25,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Guirassy BVB-Top-9er ~18 Liga-Tore + Bremen-Defensive-Verletzungs-Welle (Malatini OUT). BVB-Aufstellungs-Konfirm 15.05.: Guirassy im Kader. Lesson 04.05. PFLICHT-PROFILE Auswaerts-Favorit."
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "prognose": "Mehr als 2 Tore im Spiel",
+          "quote": 1.65,
+          "edge_prozent": 10,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (n=12, 50% Hit, +52.3% ROI). Bremen-Heim 3+ Tore/Spiel + BVB-Auswaerts offensiv + Bremen-Defense dezimiert. ABER Lesson 09.05. Saisonende-Tor-Flaute Mai-Mittel 1.88 Tore/Spiel + Lesson 15.05. LaLiga-MD36-2-Tore-Cluster zeigt Saisonende-Pattern -> deshalb WACKEL. Stake 0.5%.",
+          "einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "brm-bvb-3",
+          "faire_quote": 1.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Sieg Borussia Dortmund",
+          "prognose": "BVB gewinnt regulaer",
+          "quote": 1.6,
+          "edge_prozent": 9,
+          "begruendung": "BVB-Klasse-Edge + Bremen-Verletzungs-Welle. Aber Lesson 09.05./11.05. BL-Sieg-Cluster Saisonende max wackel (beide Teams saison-fertig: Bremen gerettet, BVB CL-fix). Lesson 14.05. Drehungs-Cluster-Risiko Saisonende-Mid-Profil. Stake 0.5%.",
+          "einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "brm-bvb-2",
+          "faire_quote": 1.47
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 0,
+        "gast": 2,
+        "endstand": "0:2",
+        "kommentar": "BVB 0:2 in Bremen - Guirassy 60. Kopfball + Couto 90+5. Spaetes Tor-Festival blieb aus, HZ 0:0."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "brm-bvb-1",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "kein API-Match"
+        },
+        {
+          "tipp_id": "brm-bvb-3",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "kein API-Match"
+        },
+        {
+          "tipp_id": "brm-bvb-2",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "kein API-Match"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "0:2",
+        "tore": [
+          {
+            "min": 60,
+            "team": "gast",
+            "spieler": "Guirassy",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": "90+5",
+            "team": "gast",
+            "spieler": "Yan Couto",
+            "stand_danach": "0:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Linearer BVB-Sieg, keine Drehung."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Borussia Dortmund",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Saisonende-Tor-Flaute bestaetigt sich (HZ 0:0). Bremen 15. ohne Druck + BVB 2. ohne Druck = vorsichtig.",
+          "Guirassy-Tipp (Moonshot-Bein) GEWONNEN — Goldgrube Torschuetzen Jederzeit liefert.",
+          "Ueber-2.5-WACKEL haette VERLOREN (2 Tore exakt). Saisonende-Tor-Flaute-Lesson 09.05./15.05. weiter aktiv."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-16-stp-wob",
+      "liga": "Bundesliga",
+      "heim": "FC St. Pauli",
+      "gast": "VfL Wolfsburg",
+      "anstoss": "2026-05-16T15:30:00+02:00",
+      "stadion": "Millerntor-Stadion, Hamburg",
+      "saison_kontext": {
+        "parallel_heim": "keine",
+        "parallel_gast": "keine",
+        "saisonziel_heim": "St.Pauli 18. mit 26 Pkt - 3-Way punktgleich Abstiegsplaetze, NUR Sieg rettet (sonst direkter Abstieg oder Relegation)",
+        "saisonziel_gast": "Wolfsburg 16. mit 26 Pkt - 3-Way punktgleich, Sieg sichert Klassenerhalt sicher (mind. Relegation bei Niederlage)",
+        "motivations_asymmetrie": "DOPPEL-EXISTENZ-DRUCK: St.Pauli muss gewinnen ODER abstieg, Wolfsburg will gewinnen fuer Relegations-Vermeidung. Coinflip-Profil mit leichtem Heim-Edge. Lesson 04.05. COINFLIP-Pflicht-Regel + Lesson 14.05. Drehungs-Risiko bei Pflicht-Heim-Druckspielen.",
+        "recovery_heim": "St.Pauli 7 Tage seit 1:2 in Leipzig - im Druck-Modus",
+        "recovery_gast": "Wolfsburg 7 Tage seit 0:1 vs Bayern - im Druck-Modus",
+        "quellen": [
+          "https://www.wettfreunde.net/sportwetten-news/bundesliga-abstieg-szenarien-2026/",
+          "https://www.wetttippsheute.net/fc-st-pauli-vfl-wolfsburg-wett-tipp-quoten-16-05-2026/",
+          "https://www.bundesliga.com/de/bundesliga/news/abstiegskampf-34-spieltag-wolfsburg-heidenheim-st-pauli-22755"
+        ]
+      },
+      "news": [
+        "DIREKTES ABSTIEGS-DUELL - beide muessen gewinnen",
+        "Coinflip-Profil 1X2-Quoten 2.30-3.70",
+        "Wolfsburg in letzten 3 H2H ungeschlagen (1 Sieg, 2 Remis) gegen St.Pauli",
+        "Wolfsburg-St.Pauli H2H letzte 3 nur 5 Tore total = defensive Begegnungen"
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Beide Teams treffen JA",
+          "prognose": "Beide Mannschaften treffen mindestens 1x",
+          "quote": 1.85,
+          "edge_prozent": 14,
+          "begruendung": "Beide MUST-WIN-Druck im Tor-Markt -> beide pushen offensiv. St.Pauli muss 2-3 Tore Differenz, Wolfsburg wird unter Druck Konter laufen. Lesson 04.05. COINFLIP-Pflicht-Profil: max 3 Tipps mit BTTS + Tor-Total + Wackel-Sieg. Stake 1.5%.",
+          "einsatz_euro": 8.25,
+          "empfohlener_einsatz_prozent": 1.5,
+          "id": "stp-wob-1",
+          "faire_quote": 1.62
+        },
+        {
+          "kategorie": "value",
+          "markt": "Ueber 1.5 Tore",
+          "prognose": "Mehr als 1 Tor im Spiel",
+          "quote": 1.3,
+          "edge_prozent": 8,
+          "begruendung": "Markt-Goldgrube Ueber 1.5 Tore (n=6, 83.3% Hitrate, +31.7% ROI - hoechste Hitrate aller Goldgruben). Doppel-Existenz-Druck-Spiel hat statistisch fast immer mind. 2 Tore. Stake 1.0%.",
+          "einsatz_euro": 5.5,
+          "empfohlener_einsatz_prozent": 1.0,
+          "id": "stp-wob-2",
+          "faire_quote": 1.2
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Sieg St. Pauli",
+          "prognose": "St.Pauli gewinnt regulaer",
+          "quote": 2.75,
+          "edge_prozent": 9,
+          "begruendung": "Heim-Existenz-Druck + Lesson 25.04. SAFE-Trefferquote-Reality: Back-against-the-wall-Heim-Underdog gefaehrlich. Lesson 04.05. Wackel-Sieg ist Pflicht-Profil bei Coinflip-Spiel. Quote 2.75 reflektiert St.Pauli-Heim-Vorteil + Existenz-Druck. Stake 0.5%.",
+          "einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "stp-wob-3",
+          "faire_quote": 2.52
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 1,
+        "gast": 3,
+        "endstand": "1:3",
+        "kommentar": "St. Pauli 1:3 - Wolfsburg rettet sich in Relegation, St. Pauli muss runter. Koulierakis 37, Ceesay 57 (Anschluss), Vasilj OG 64, Eriksen vergibt Elfer 77, Pejcinovic 80."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "stp-wob-1",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "kein API-Match"
+        },
+        {
+          "tipp_id": "stp-wob-2",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "kein API-Match"
+        },
+        {
+          "tipp_id": "stp-wob-3",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "kein API-Match"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "1:3",
+        "tore": [
+          {
+            "min": 37,
+            "team": "gast",
+            "spieler": "Koulierakis",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 57,
+            "team": "heim",
+            "spieler": "Ceesay (eingewechselt)",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 64,
+            "team": "gast",
+            "spieler": "Vasilj (Eigentor)",
+            "stand_danach": "1:2"
+          },
+          {
+            "min": 80,
+            "team": "gast",
+            "spieler": "Pejcinovic",
+            "stand_danach": "1:3"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Kurzzeitig Ausgleich (1:1 in 57.), aber kein 2-Tor-Polster auf einer Seite vor Drehung."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Wolfsburg/Wolfsburg",
+          "kein_team_zu_null": true,
+          "elfmeter_verschossen": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Ceesay",
+            "aus": "n/a (HZ-Wechsel)",
+            "minute": 46,
+            "tor": true,
+            "tor_minute": 57
+          }
+        ],
+        "auffaellige_patterns": [
+          "BTTS-Tipp GEWONNEN trotz frueher Wolfsburg-Fuehrung — Markt-Goldgrube BTTS auf Existenz-Druck-Spiele weiter zuverlaessig.",
+          "St.-Pauli-Sieg-Tipp (Moonshot-Bein) verloren — Klassenerhalt-Druck reichte nicht gegen Wolfsburg-Klasse-Edge.",
+          "Eriksen-Elfer-Latte 77. zeigt Druck-Welle — Pejcinovic-Konter 3 Min spaeter beendete Hoffnung. Mental-Knick-Pattern."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-16-fch-m05",
+      "liga": "Bundesliga",
+      "heim": "1. FC Heidenheim",
+      "gast": "1. FSV Mainz 05",
+      "anstoss": "2026-05-16T15:30:00+02:00",
+      "stadion": "Voith-Arena, Heidenheim",
+      "saison_kontext": {
+        "parallel_heim": "keine",
+        "parallel_gast": "keine",
+        "saisonziel_heim": "Heidenheim 17. mit 26 Pkt - PFLICHTSIEG fuer Klassenerhalt-Hoffnung (3-Way mit Wolfsburg/St.Pauli), schlechteste Tor-Differenz. Direkter Abstiegs-Showdown-Tag",
+        "saisonziel_gast": "Mainz 10. mit 37 Pkt - laengst gerettet, keine Quali-Pflicht, Saison-Auslauf-Modus",
+        "motivations_asymmetrie": "KLARE Heim-Edge: Heidenheim hat alles zu spielen (Abstieg-vs-Relegation), Mainz nichts mehr (10. Platz fix). Lesson 04.05. mech.-erzwungene Motivations-Asymmetrie - Routine soll Heidenheim aktiv suchen.",
+        "recovery_heim": "Heidenheim 6 Tage seit 3:1-Auswaertssieg in Koeln - laufen heiss vor Showdown",
+        "recovery_gast": "Mainz 6 Tage seit 1:3-Heim-Pleite vs Union",
+        "quellen": [
+          "https://www.sport.de/sportwetten/tipps/1-fc-heidenheim-1846-vs-mainz-05-wett-tipp-16-05-2026/",
+          "https://www.sport1.de/news/fussball/bundesliga/2026/05/sieg-in-koeln-heidenheim-sorgt-fuer-spannendes-abstiegsfinale",
+          "https://www.kicker.de/bundesliga/tabelle"
+        ]
+      },
+      "news": [
+        "3-Way Abstiegs-Konstellation noch nie dagewesen in BL: St.Pauli/Wolfsburg/Heidenheim alle 26 Pkt",
+        "Heidenheim 3 Spiele in Folge ungeschlagen (3:1 in Koeln auswaerts) - laufen heiss",
+        "Mainz klar gerettet, 1:3 Heim-Pleite vor 6 Tagen vs Union",
+        "Mainz letzte 2 H2H gegen Heidenheim gewonnen - aber andere Saisonphase"
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Sieg Heidenheim",
+          "prognose": "Heidenheim gewinnt regulaer",
+          "quote": 2.09,
+          "edge_prozent": 15,
+          "begruendung": "Pflicht-Sieg-Heim + Mainz-Saisonende-ohne-Druck (Lesson 04.05.). Bookies-Quote 2.09 reflektiert Tordiff-Sorgen, aber Existenz-Druck-Edge historisch wertvoll (Mainz @12.0 vs Bayern Profil andersherum). Stake 1.5%.",
+          "einsatz_euro": 8.25,
+          "empfohlener_einsatz_prozent": 1.5,
+          "id": "fch-m05-1",
+          "faire_quote": 1.82
+        },
+        {
+          "id": "fch-m05-3",
+          "kategorie": "value",
+          "markt": "Marvin Pieringer trifft",
+          "quote": 2.5,
+          "edge_prozent": 15,
+          "faire_quote": 2.17,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 5.5,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Pieringer Heidenheim-Volume-Stuermer + Mainz-Defensive saisonsschwach + Pflicht-Druck-Heim. Lesson 04.05. PFLICHT-PROFILE Heim-Favorit. Aufstellungs-Verifikation 1-2h pre-Match."
+        },
+        {
+          "kategorie": "value",
+          "markt": "Doppelte Chance 1X (Heidenheim oder Unentschieden)",
+          "prognose": "Heidenheim gewinnt oder Remis",
+          "quote": 1.4,
+          "edge_prozent": 9,
+          "begruendung": "Markt-Goldgrube Doppelte Chance 1X (n=17, 82.4% Hit, +4.9% ROI). Mapper-Hebel C downgrade SAFE -> VALUE da BL keine Liga-Goldgrube. Lesson 14.05. Drehungs-Schutz: DC 1X covered Drehungs-Verlust besser als direkter Sieg-Tipp. Stake 1.5%.",
+          "einsatz_euro": 8.25,
+          "empfohlener_einsatz_prozent": 1.5,
+          "id": "fch-m05-2",
+          "faire_quote": 1.28
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "prognose": "Mehr als 2 Tore im Spiel",
+          "quote": 2.0,
+          "edge_prozent": 6,
+          "begruendung": "Markt-Goldgrube Ueber 2.5. Druck-Heimspiel + Mainz-Saisonende. Aber Lesson 09.05. BL-Saisonende-Tor-Flaute -> WACKEL. Stake 0.5%.",
+          "einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "fch-m05-4",
+          "faire_quote": 1.89
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 0,
+        "gast": 2,
+        "endstand": "0:2",
+        "kommentar": "Heidenheim 0:2 - Tietz 7. + Amiri 43. (HZ 0:2). Heidenheim steigt ab. Pieringer-Latte 30., spaeter ausgewechselt fuer Conteh."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "fch-m05-1",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "kein API-Match"
+        },
+        {
+          "tipp_id": "fch-m05-3",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "kein API-Match"
+        },
+        {
+          "tipp_id": "fch-m05-2",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "kein API-Match"
+        },
+        {
+          "tipp_id": "fch-m05-4",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "kein API-Match"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:2",
+        "endstand": "0:2",
+        "tore": [
+          {
+            "min": 7,
+            "team": "gast",
+            "spieler": "Tietz",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 43,
+            "team": "gast",
+            "spieler": "Amiri",
+            "stand_danach": "0:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Mainz fuehrte 0:2 HZ und brachte das durch. Heidenheim hatte Latte (Pieringer 30.) aber keine Wende."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Mainz/Mainz",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Conteh",
+            "aus": "Pieringer",
+            "minute": null,
+            "tor": false,
+            "tor_minute": null,
+            "kommentar": "Boost-Trigger fehlgeschlagen — Conteh traf nach Einwechslung NICHT. Pieringer-Torschuetzen-Tipp (Moonshot-Bein) verloren."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Existenz-Druck-Edge Heidenheim BESTAETIGT NICHT — Mainz-Saisonende-Routine schlaegt Klassenerhalts-Hoffnung. Sieg-Heidenheim-Tipp + DC 1X beide verloren.",
+          "Lesson-13.05./14.05. Saisonende-Druck-Mismatch-Cluster-Aktualisierung: NICHT jedes Existenz-Druck-Team gewinnt automatisch. Mainz-Schwung > FCH-Heim-Hexenkessel.",
+          "Pieringer-Latte 30. zeigt Heidenheim hatte Chancen — aber Lattentreffer ist kein Tor. Boost-Trigger Conteh fehlgeschlagen."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-16-sge-vfb",
+      "liga": "Bundesliga",
+      "heim": "Eintracht Frankfurt",
+      "gast": "VfB Stuttgart",
+      "anstoss": "2026-05-16T15:30:00+02:00",
+      "stadion": "Deutsche Bank Park, Frankfurt",
+      "saison_kontext": {
+        "parallel_heim": "keine",
+        "parallel_gast": "DFB-Pokal-Final 23.05.2026 (in 7 Tagen) gegen Bayern Muenchen - Karriere-Highlight + Titel-Verteidigung als Vorjahres-Sieger. Lesson 14.05. Top-Team-Final-7d-Schon-Modus Trigger aktiv, Lesson 15.05. Karriere-Highlight-Final-INVERS gilt nicht (Stuttgart Titelverteidiger - nicht Underdog).",
+        "saisonziel_heim": "Frankfurt 8.-10. Mid-Table, Conference-Quali theoretisch noch moeglich aber unklar - flacher Druck",
+        "saisonziel_gast": "Stuttgart 4. - PFLICHTSIEG fuer CL-Quali in eigener Hand (vor Hoffenheim/Leverkusen punktgleich/dahinter). Klare Saisonziel-Asymmetrie",
+        "motivations_asymmetrie": "Stuttgart DOPPEL-Druck (CL-Quali heute + Pokal-Final-Energie-Schonung in 7 Tagen) -> Konflikt. Lesson 14.05. droppt Volume-Stuermer-Tipps, aber Stuttgart spielt voll fuer CL-Quali-Pflicht. Frankfurt 4 Spiele ohne Sieg Krise.",
+        "recovery_heim": "Frankfurt 7 Tage seit 1:1 in BVB - voll erholt",
+        "recovery_gast": "Stuttgart 7 Tage seit 3:1-Sieg vs Lev - Topform + voll erholt",
+        "quellen": [
+          "https://en.eintracht.de/news/vorschau-die-entscheidung-eintracht-frankfurt-vfb-stuttgart-34-spieltag-177459/",
+          "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-2025-2026-vfb-stuttgart-bayer-leverkusen-duell-champions-league-100.html",
+          "https://easyodds.com/eintracht-frankfurt-vs-vfb-stuttgart-betting-odds-tips-predictions-preview-16th-may-2026",
+          "https://www.dfb.de/dfb-pokal",
+          "https://en.wikipedia.org/wiki/2026_DFB-Pokal_final"
+        ]
+      },
+      "news": [
+        "Stuttgart kann mit Sieg CL-Quali aus eigener Hand sichern (Pole Position nach 3:1 vs Lev)",
+        "Hoffenheim parallel BMG, Lev parallel HSV - 3-Way um Plaetze 4-6",
+        "Stuttgart 3:1 vs Lev = erster Heim-Sieg gegen Lev seit 16 Jahren",
+        "Frankfurt-Tabelle Mid-Top-Mittelfeld, flacher Druck"
+      ],
+      "tipps": [
+        {
+          "id": "sge-vfb-3",
+          "kategorie": "wackel",
+          "markt": "Ermedin Demirovic trifft",
+          "quote": 2.3,
+          "edge_prozent": 14,
+          "faire_quote": 2.02,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 5.5,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Lesson 04.05. PFLICHT-PROFILE Auswaerts-Favorit. Demirovic Stuttgart-Top-9er. Lesson 15.05. Karriere-Highlight-Final-INVERS: Stuttgart als Pokal-Titelverteidiger spielt voll fuer CL-Quali. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "prognose": "Mehr als 2 Tore im Spiel",
+          "quote": 1.75,
+          "edge_prozent": 12,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 Tore (50% Hit, +52.3% ROI). Beide offensiv + Frankfurt-Defensive-Trend + Stuttgart-CL-Pflicht-Sieg-Profil. Lesson 13.05. LaLiga-MD36-Druck-Pflicht-Tore-Cluster bestaetigt analog. Stake 1.0%.",
+          "einsatz_euro": 5.5,
+          "empfohlener_einsatz_prozent": 1.0,
+          "id": "sge-vfb-2",
+          "faire_quote": 1.56
+        },
+        {
+          "kategorie": "value",
+          "markt": "Doppelte Chance X2 (Stuttgart oder Unentschieden)",
+          "prognose": "Stuttgart gewinnt oder Remis",
+          "quote": 1.3,
+          "edge_prozent": 11,
+          "begruendung": "Stuttgart CL-Quali-Pflicht + Frankfurt Krise (4 Spiele ohne Sieg). Markt-Goldgrube DC X2 (n=17, 77.8% Hit, +9.4% ROI). Mapper-Hebel C downgrade SAFE -> VALUE da BL keine Liga-Goldgrube. Lesson 14.05. Drehungs-Schutz. Stake 1.5%.",
+          "einsatz_euro": 8.25,
+          "empfohlener_einsatz_prozent": 1.5,
+          "id": "sge-vfb-1",
+          "faire_quote": 1.17
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Sieg Stuttgart",
+          "prognose": "Stuttgart gewinnt regulaer",
+          "quote": 1.98,
+          "edge_prozent": 8,
+          "begruendung": "CL-Quali-Pflicht + Klasse-Edge. Lesson 11.05. BL-Sieg-Cluster-Saisonende-Filter + Lesson 14.05. Pokal-Final-Schon-Restbestand (Stuttgart Pokal-Final 23.05.) -> WACKEL. Lesson 15.05. Korrelations-Schutz: Sieg + DC X2 = Doppel-Outcome, Sieg nur in Kombi. Stake 0.5%.",
+          "einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "sge-vfb-4",
+          "faire_quote": 1.83
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 2,
+        "gast": 2,
+        "endstand": "2:2",
+        "kommentar": "Frankfurt 2:2 Stuttgart - Stuttgart fuehrte 0:2 HZ (Baixauli 10, Nartey 45), Frankfurt drehte per Burkardt-Doppel-Elfer (72., 90+2.). Drehung in Drehungs-Sinne mathematisch: 0:2 zwischenzeitlich, Endstand Remis."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "sge-vfb-3",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "kein API-Match"
+        },
+        {
+          "tipp_id": "sge-vfb-2",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "kein API-Match"
+        },
+        {
+          "tipp_id": "sge-vfb-1",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "kein API-Match"
+        },
+        {
+          "tipp_id": "sge-vfb-4",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "kein API-Match"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:2",
+        "endstand": "2:2",
+        "tore": [
+          {
+            "min": 10,
+            "team": "gast",
+            "spieler": "Baixauli",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 45,
+            "team": "gast",
+            "spieler": "Nartey",
+            "stand_danach": "0:2"
+          },
+          {
+            "min": 72,
+            "team": "heim",
+            "spieler": "Burkardt (Elfmeter)",
+            "stand_danach": "1:2"
+          },
+          {
+            "min": "90+2",
+            "team": "heim",
+            "spieler": "Burkardt (Elfmeter)",
+            "stand_danach": "2:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": true,
+          "details": "Stuttgart fuehrte 0:2 in der HZ und konnte 2-Tor-Polster nicht halten — Endstand Remis. 2:0-Insurance auf BL gilt fuer direkten Sieg-Tipp, hier kein Stuttgart-Sieg-Tipp im Dossier (DC X2 deckt das ab und ist GEWONNEN)."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Stuttgart/Unentschieden",
+          "kein_team_zu_null": true,
+          "ausgleich_in_letzten_15min": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "DC X2 (Stuttgart oder Remis) GEWONNEN trotz Drehung — DC-Markt-Goldgrube schuetzt vor genau diesem Szenario.",
+          "Ueber-2.5-Tipp GEWONNEN bei 4 Toren — Goldgrube Ueber 2.5 (+52% ROI) bestaetigt sich erneut.",
+          "Demirovic-Tipp (Risk-Bein) verloren — Stuttgart-Torschuetzen waren Baixauli + Nartey, kein Demirovic-Tor + kein Einwechslungs-Boost auslesbar.",
+          "Drehungs-Lesson aktualisiert: 4. Drehung im Mai 2026 — Top-3-Cluster bestaetigt. DC-Tipps statt direkter-Sieg-Tipps weiter Pflicht."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-16-scf-rbl",
+      "liga": "Bundesliga",
+      "heim": "SC Freiburg",
+      "gast": "RB Leipzig",
+      "anstoss": "2026-05-16T15:30:00+02:00",
+      "stadion": "Europa-Park Stadion, Freiburg",
+      "saison_kontext": {
+        "parallel_heim": "Europa League FINALE 20.05.2026 (Mi) gegen Aston Villa in Istanbul = NUR 4 TAGE NACH DIESEM SPIEL - Schon-Modus klar.",
+        "parallel_gast": "keine - Leipzig kein UEFA-Termin",
+        "saisonziel_heim": "Freiburg 7. mit ca. 47 Pkt - keine direkte Liga-Quali-Pflicht (EL-Final-Sieg waere alternative CL-Quali). Final ist ALLES, BL-Spiel ist NEBENSACHE",
+        "saisonziel_gast": "Leipzig 3. - CL-Quali bereits gesichert. Kein Tabellen-Druck",
+        "motivations_asymmetrie": "Schon-Modus-Schock: Freiburg-Coach wird Stamm-Elf SCHONEN fuer EL-Final - Lesson 11.05. + Lesson 14.05. Leipzig 3. fix kein Druck mehr. Klasse-Edge Leipzig + Schon-Edge Freiburg.",
+        "recovery_heim": "Freiburg muss Topform-Spieler in Watte packen fuer Final - Rotation 5-7 Spieler erwartet",
+        "recovery_gast": "Leipzig 7 Tage seit letztem Spiel, voll erholt aber motivations-flat",
+        "quellen": [
+          "https://www.sportschau.de/regional/swr/swr-freiburgs-final-spagat-so-blickt-der-sc-auf-die-zwei-endspiele-100.html",
+          "https://rbleipzig.com/de/news/spielvorschau-sc-freiburg-vs-rb-leipzig-bundesliga-am-16-mai-2026",
+          "https://de.uefa.com/uefaeuropaleague/match/2047743--freiburg-vs-aston-villa/final/",
+          "https://www.uefa.com/uefaeuropaleague/"
+        ]
+      },
+      "news": [
+        "Freiburg EL-Final 20.05.2026 vs Aston Villa in Istanbul - 4 Tage spaeter (AUTO-SCHON-Cluster)",
+        "Leipzig 3. Platz bereits sicher - motivations-frei",
+        "Lev/Hoffenheim/Stuttgart kaempfen parallel um CL-Quali - keine direkte Auswirkung auf Freiburg",
+        "Leipzig leicht Favorit (auch wegen Freiburg-Schon-These)"
+      ],
+      "tipps": [
+        {
+          "id": "scf-rbl-2",
+          "kategorie": "wackel",
+          "markt": "Loic Openda trifft",
+          "quote": 2.5,
+          "edge_prozent": 16,
+          "faire_quote": 2.16,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 5.5,
+          "begruendung": "Lesson 04.05. PFLICHT-PROFILE Auswaerts-Favorit. Openda Leipzig-Top-9er + Freiburg-B-Elf-Defense (EL-Final-Schonung). Markt-Goldgrube Torschuetzen Jederzeit. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "kategorie": "value",
+          "markt": "Doppelte Chance X2 (RB Leipzig oder Unentschieden)",
+          "prognose": "Leipzig gewinnt oder Remis",
+          "quote": 1.5,
+          "edge_prozent": 10,
+          "begruendung": "Klasse-Edge Leipzig + Freiburg-EL-Final-Schon-Modus (Lesson 11.05. EL-Final 4 Tage zu eng). Markt-Goldgrube DC X2 (77.8% Hit). Lesson 15.05. Karriere-Highlight-INVERS-Caveat: Freiburg Mid-Tier-EL-Klub, 4 Tage zu eng fuer Vollgas, B-Elf erwartet. Stake 1.5%.",
+          "einsatz_euro": 8.25,
+          "empfohlener_einsatz_prozent": 1.5,
+          "id": "scf-rbl-1",
+          "faire_quote": 1.36
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Unter 2.5 Tore",
+          "prognose": "Weniger als 3 Tore im Spiel",
+          "quote": 2.0,
+          "edge_prozent": 9,
+          "begruendung": "Markt-Goldgrube Unter 2.5 Tore (n=9, 66.7% Hit, +25.3% ROI). Freiburg-B-Elf EL-Final-Schonung + Leipzig-Saisonende-Routine = wenig Pace + defensive Disziplin. Stake 0.5%.",
+          "einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "scf-rbl-3",
+          "faire_quote": 1.83
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 4,
+        "gast": 1,
+        "endstand": "4:1",
+        "kommentar": "Freiburg 4:1 Leipzig - Beste 24, Matanovic 26, Ouedraogo 33, Ginter 47, Scherhant 75. Conference-League-Quali fix."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "scf-rbl-2",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "kein API-Match"
+        },
+        {
+          "tipp_id": "scf-rbl-1",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "kein API-Match"
+        },
+        {
+          "tipp_id": "scf-rbl-3",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "kein API-Match"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "2:1",
+        "endstand": "4:1",
+        "tore": [
+          {
+            "min": 24,
+            "team": "heim",
+            "spieler": "Beste",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 26,
+            "team": "heim",
+            "spieler": "Matanovic",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 33,
+            "team": "gast",
+            "spieler": "Ouedraogo",
+            "stand_danach": "2:1"
+          },
+          {
+            "min": 47,
+            "team": "heim",
+            "spieler": "Ginter",
+            "stand_danach": "3:1"
+          },
+          {
+            "min": 75,
+            "team": "heim",
+            "spieler": "Scherhant",
+            "stand_danach": "4:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Linear: Freiburg 2:0, Leipzig auf 2:1, dann Freiburg ausgebaut. Keine Drehung."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Freiburg/Freiburg",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Leipzig-B-Elf?",
+            "details": "Leipzig nach Saison-Mitte ohne klares Saisonziel; Schwung blieb aus. Aber NICHT die klassische Final-Schon-Rotation."
+          },
+          {
+            "team": "heim",
+            "spieler": "Hoefler",
+            "details": "Hoeflers letztes BL-Spiel (Karriere-Highlight) — Freiburg voll motiviert."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "DC-X2-Tipp (Leipzig+Remis) verloren — Karriere-Highlight-INVERS-Caveat-Lesson 15.05. zeigt: Mid-Tier-EL-Klub (Freiburg) NICHT immer rotiert. Hoefler-Abschieds-Motivation drueckte das Spiel.",
+          "Lesson 04.05. Klasse-Edge-Auswaerts-Sieg-Tipp falsch interpretiert — Freiburg-Heim-Vorteil + Hoefler-Karriere-Final-Motivation unterschaetzt.",
+          "Ueber-2.5 + BTTS waeren GEWONNEN — Goldgrube-Markt waere bessere Wahl gewesen.",
+          "Unter-2.5-Tipp (Moonshot-Bein) verloren — 5 Tore."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-16-bay-koe",
+      "liga": "Bundesliga",
+      "heim": "FC Bayern Muenchen",
+      "gast": "1. FC Koeln",
+      "anstoss": "2026-05-16T15:30:00+02:00",
+      "stadion": "Allianz Arena, Muenchen",
+      "saison_kontext": {
+        "parallel_heim": "DFB-Pokal-Final 24.05.2026 (in 8 Tagen!) gegen Stuttgart. Lesson 14.05. Top-Team-Final-7d-Schon-Modus aktiv: Bayern als etablierter CL-Champion (NICHT Karriere-Highlight) -> Volume-Stuermer-Schonung (Kane) wahrscheinlich.",
+        "parallel_gast": "keine",
+        "saisonziel_heim": "Bayern 1. mit 86 Pkt - Meister seit Spieltag 30, Meisterehrung nach Spiel, Heim-Saison-Highlight + Saisonrekord-Tor-Jagd (117 Tore + 35 kassiert bisher)",
+        "saisonziel_gast": "Koeln 14. mit ca. 36 Pkt - laengst gerettet, kein Tabellen-Druck, Saison-Auslauf-Modus auswaerts",
+        "motivations_asymmetrie": "Bayern hat Meisterschale-Heben + Pokal-Final-Schonung Doppel-Konflikt. Lesson 14.05. Schon-Modus dominiert -> Kane gebankt, aber B-Elf besiegt Mid-Table-Koeln klar. Klasse-Edge bleibt Bayern.",
+        "recovery_heim": "Bayern 7 Tage seit 1:0 Wolfsburg-Auswaertssieg 09.05. - voll erholt, keine Pflicht-Termine die Woche",
+        "recovery_gast": "Koeln 6 Tage seit 1:3-Heim-Pleite vs Heidenheim 10.05.",
+        "quellen": [
+          "https://www.bundesliga.com/de/bundesliga/news/abstiegskampf-34-spieltag-wolfsburg-heidenheim-st-pauli-22755",
+          "https://www.kicker.de/bundesliga/tabelle",
+          "https://www.fussballdaten.de/bundesliga/2026/34/",
+          "https://www.dfb.de/dfb-pokal",
+          "https://en.wikipedia.org/wiki/2026_DFB-Pokal_final"
+        ]
+      },
+      "news": [
+        "Bayern Meisterehrung nach Spiel (35. Titel) - Heim-Saison-Highlight",
+        "DFB-Pokal-Final 24.05. = 8 Tage spaeter, knapp ausserhalb 7-Tage-Schon-Cluster (Stamm-Elf wahrscheinlich)",
+        "Koeln in letzten 8 H2H ohne Sieg gegen Bayern (5 Pleiten in Folge zuletzt)",
+        "Bayern 117 Tore in 33 Spielen (3.5/Spiel) - Tor-Festival-Potenzial"
+      ],
+      "tipps": [
+        {
+          "id": "bay-koe-3",
+          "kategorie": "value",
+          "markt": "Michael Olise trifft",
+          "quote": 2.05,
+          "edge_prozent": 16,
+          "faire_quote": 1.77,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 5.5,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Lesson 04.05. PFLICHT-PROFILE Heim-Favorit. Olise Stamm-Fluegel (KEIN Volume-9er - Lesson 14.05. Pokal-Final-Schon trifft NICHT fuer Fluegel) spielt 90 Min. ~12 Tore + 10 Assists Saison."
+        },
+        {
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "prognose": "Mehr als 2 Tore im Spiel",
+          "quote": 1.36,
+          "edge_prozent": 10,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 Tore. Bayern-Heim Schnitt + Meisterfeier-Routine-Tor-Festival historisch (3+ Tore in 80% letzter Meisterfeier-Heimspiele Bayern). Stake 1.0%.",
+          "einsatz_euro": 5.5,
+          "empfohlener_einsatz_prozent": 1.0,
+          "id": "bay-koe-2",
+          "faire_quote": 1.24
+        },
+        {
+          "kategorie": "value",
+          "markt": "Doppelte Chance 1X (Bayern oder Unentschieden)",
+          "prognose": "Bayern gewinnt oder Remis",
+          "quote": 1.05,
+          "edge_prozent": 5,
+          "begruendung": "Klasse-Edge massiv + Heim-Bonus + Meisterfeier-Atmo. Markt-Goldgrube DC 1X (82.4% Hit). Mapper-Hebel C downgrade SAFE -> VALUE. Niedrige Quote -> nur kleiner Stake. Stake 1.0%.",
+          "einsatz_euro": 5.5,
+          "empfohlener_einsatz_prozent": 1.0,
+          "id": "bay-koe-1",
+          "faire_quote": 1.0
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 5,
+        "gast": 1,
+        "endstand": "5:1",
+        "kommentar": "Bayern 5:1 - Kane-Hattrick (10, 13, 69), El Mala 18, Bischof 23, Jackson 83. Meisterfeier-Tor-Festival bestaetigt."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "bay-koe-3",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "kein API-Match"
+        },
+        {
+          "tipp_id": "bay-koe-2",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "kein API-Match"
+        },
+        {
+          "tipp_id": "bay-koe-1",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "kein API-Match"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "3:1",
+        "endstand": "5:1",
+        "tore": [
+          {
+            "min": 10,
+            "team": "heim",
+            "spieler": "Kane",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 13,
+            "team": "heim",
+            "spieler": "Kane",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 18,
+            "team": "gast",
+            "spieler": "El Mala",
+            "stand_danach": "2:1"
+          },
+          {
+            "min": 23,
+            "team": "heim",
+            "spieler": "Bischof",
+            "stand_danach": "3:1"
+          },
+          {
+            "min": 69,
+            "team": "heim",
+            "spieler": "Kane",
+            "stand_danach": "4:1"
+          },
+          {
+            "min": 83,
+            "team": "heim",
+            "spieler": "Jackson",
+            "stand_danach": "5:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Bayern fuehrte durchgehend, keine Drehung."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": true,
+          "halbzeit_endstand": "Bayern/Bayern",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Diverse",
+            "details": "HZ-Wechsel Stanisic fuer Laimer, Urbig fuer Neuer 60., Olise fuer Karl 60., Guerreiro fuer Musiala 70., Jackson fuer Goretzka 82. — Saisonfinale-Rotation ohne CL-Druck."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Jackson",
+            "aus": "Goretzka",
+            "minute": 82,
+            "tor": true,
+            "tor_minute": 83,
+            "kommentar": "Klassischer Einwechslungs-Boost-Trigger — Jackson 1 Min nach Einwechslung 5:1. Goretzka war kein Tipp-Spieler, aber Pattern-relevant."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Ueber-2.5-Tipp GEWONNEN bei 6 Toren — Meisterfeier-Routine-Tor-Festival-Lesson voll bestaetigt.",
+          "Kane-Hattrick + Bischof + Jackson = 5 verschiedene Bayern-Torschuetzen-Optionen — Goldgrube Torschuetzen Jederzeit (Bayern-Hauptstuermer) waere SAFE gewesen.",
+          "Einwechslungs-Boost-Trigger akut (Jackson 1 Min nach Einwechslung getroffen) — Backup-Stuermer-Boost-Lesson aktualisieren."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-17-mun-nfo",
+      "liga": "Premier League",
+      "heim": "Manchester United",
+      "gast": "Nottingham Forest",
+      "anstoss": "2026-05-17T13:30:00+02:00",
+      "stadion": "Old Trafford, Manchester",
+      "saison_kontext": {
+        "parallel_heim": "keine",
+        "parallel_gast": "keine - Forest kein UEFA-Termin diese Saison",
+        "saisonziel_heim": "ManU 3. mit 65 Pkt - CL-Quali fast gesichert, kein scharfer Druck",
+        "saisonziel_gast": "Forest 16. mit 43 Pkt - Mid-Table gesichert, kein scharfer Druck",
+        "motivations_asymmetrie": "Beidseitig Saisonende-Mid-Profil. ManU-Klasse-Edge, aber Forest-Form (8 Spiele unbeaten) erodiert. Lesson 11.05. + Lesson 10.05. PL-Sieg-Cluster 75% Verlust auto-Pattern. Coinflip-light-Profil.",
+        "recovery_heim": "ManU 4 Tage seit letztem Spiel",
+        "recovery_gast": "Forest 4 Tage seit letztem Spiel",
+        "quellen": [
+          "https://www.premierleague.com/en/match/2562262",
+          "https://www.statsinsider.com.au/news/manchester-united-vs-nottingham-forest-prediction-and-tips-17-may-2026",
+          "https://www.forebet.com/en/football/matches/manchester-united-nottingham-forest-2316102"
+        ]
+      },
+      "news": [
+        "ManU 3. mit 65 Pkt, Forest 16. mit 43 Pkt - Tabellen-Differenz aber Form unterschiedlich",
+        "ManU Heim-Form: 1 Niederlage in 6 (3W 2D)",
+        "Forest Auswaerts-Form: unbeaten in letzten 8 (4W 4D)",
+        "Beide Teams trafen in 7/9 letzten ManU + 6/9 letzten Forest - klare BTTS-Tendenz"
+      ],
+      "tipps": [
+        {
+          "id": "mun-nfo-2",
+          "kategorie": "value",
+          "markt": "Bryan Mbeumo trifft",
+          "quote": 2.95,
+          "edge_prozent": 16,
+          "faire_quote": 2.54,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 5.5,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Mbeumo ManU-Top-Scorer Saison ~14 Tore. Lesson 04.05. PFLICHT-PROFILE Heim-Favorit. Forest-Defense durchbrechbar."
+        },
+        {
+          "kategorie": "value",
+          "markt": "Doppelte Chance 1X (Manchester United oder Unentschieden)",
+          "prognose": "ManU gewinnt oder Remis",
+          "quote": 1.25,
+          "edge_prozent": 9,
+          "begruendung": "Markt-Goldgrube DC 1X (82.4% Hit). Mapper-Hebel C downgrade SAFE -> VALUE da MD37-Saisonende-Konfiguration. Lesson 10.05. PL-Sieg-Cluster max wackel-Filter trifft fuer DC nicht ganz. Stake 1.5%.",
+          "einsatz_euro": 8.25,
+          "empfohlener_einsatz_prozent": 1.5,
+          "id": "mun-nfo-1",
+          "faire_quote": 1.15
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "prognose": "Mehr als 2 Tore im Spiel",
+          "quote": 1.62,
+          "edge_prozent": 5,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 Tore (+52.3% ROI). ABER Saisonende-Mid-Table-Pattern (Lesson 09.05./15.05.) = WACKEL. ManU-Heim 2.4 Tore/Spiel + Forest-Auswaerts 1.7. Stake 0.5%.",
+          "einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "mun-nfo-3",
+          "faire_quote": 1.54
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": null,
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "mun-nfo-2",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "kein API-Match"
+        },
+        {
+          "tipp_id": "mun-nfo-1",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "kein API-Match"
+        },
+        {
+          "tipp_id": "mun-nfo-3",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "kein API-Match"
+        }
+      ]
+    },
+    {
+      "id": "2026-05-17-sev-rma",
+      "liga": "LaLiga",
+      "heim": "Sevilla FC",
+      "gast": "Real Madrid CF",
+      "anstoss": "2026-05-17T19:00:00+02:00",
+      "stadion": "Estadio Ramon Sanchez Pizjuan, Sevilla",
+      "saison_kontext": {
+        "parallel_heim": "keine",
+        "parallel_gast": "keine - Real seit 15.04. aus CL raus, keine Pflicht-Termin in 7-14 Tagen. Klub-WM Juni 2026 (mehrere Wochen entfernt)",
+        "saisonziel_heim": "Sevilla 13. mit ca. 40 Pkt - laengst gerettet, kein Tabellen-Druck, Saison-Auslauf-Modus aber Heim-Stimmung",
+        "saisonziel_gast": "Real 2. mit 77 Pkt - Liga an Barca verloren, keine Quali-Pflicht. Spielen fuer Stolz",
+        "motivations_asymmetrie": "Beidseitig Saisonende-mid. Real hat Klasse-Edge, Lesson 13.05. HR22-Implosions-FAIL-Override: Lazarett (Rodrygo+Guler+Militao+Mendy+Valverde+Carvajal out) wird durch Top-Bench geschluckt. Real spielt voll. Sevilla-Heim-Stolz drueckt Edge knapp.",
+        "recovery_heim": "Sevilla 7 Tage seit 1:0 vs Espanyol",
+        "recovery_gast": "Real 7 Tage seit Clasico-Pleite - Stolz-Reaktion moeglich",
+        "quellen": [
+          "https://www.bleacherreport.com/game/sevilla-vs-real-madrid-2026-5-17-20-00",
+          "https://www.wincomparator.com/predictions/sevilla-real-madrid-7687670/",
+          "https://www.sportsmole.co.uk/football/real-madrid/race-for-the-la-liga-title/team-news/real-madrid-vs-sevilla-injury-suspension-list-predicted-xis_588071.html"
+        ]
+      },
+      "news": [
+        "Real verlor El Clasico 10.05. + Liga an Barca - Stolz-Reaktion moeglich",
+        "Real Lazarett massiv: Mendy/Carvajal/Gueler/Militao/Rodrygo/Valverde OUT/Q",
+        "Sevilla 0:2 in Hinrunde in Madrid verloren",
+        "Mbappe-Status fuer Sevilla unklar (Quellen widersprechen sich)"
+      ],
+      "tipps": [
+        {
+          "id": "sev-rma-3",
+          "kategorie": "wackel",
+          "markt": "Vinicius Junior trifft",
+          "quote": 2.2,
+          "edge_prozent": 14,
+          "faire_quote": 1.93,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 5.5,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Vinicius mit 4 Toren in 5 Spielen Form-Edge (HR24). Sevilla-Defense schwaecher als Atletico (Lesson 15.05. Lerneffekt). Lesson 04.05. PFLICHT-PROFILE Auswaerts-Favorit. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "kategorie": "value",
+          "markt": "Beide Teams treffen JA",
+          "prognose": "Beide Mannschaften treffen mindestens 1x",
+          "quote": 1.7,
+          "edge_prozent": 13,
+          "begruendung": "Real-Defense-Lazarett (Militao+Mendy+Carvajal out) + Sevilla-Heim-Form-Knick (3:2 Villarreal) + Real-Sturm-Vollgas (Mbappe+Vinicius). Wincomparator zeigt 69.58% BTTS-Wahrscheinlichkeit. Stake 1.5%.",
+          "einsatz_euro": 8.25,
+          "empfohlener_einsatz_prozent": 1.5,
+          "id": "sev-rma-1",
+          "faire_quote": 1.5
+        },
+        {
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "prognose": "Mehr als 2 Tore im Spiel",
+          "quote": 1.65,
+          "edge_prozent": 13,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (+52.3% ROI). Real-Defense-Lazarett + Sevilla-Heim-Form + Real-Sturm-Komplett. Lesson 13.05. LaLiga-MD36-3.67-Tore/Spiel-Druck-Pattern bestaetigt. Stake 1.0%.",
+          "einsatz_euro": 5.5,
+          "empfohlener_einsatz_prozent": 1.0,
+          "id": "sev-rma-2",
+          "faire_quote": 1.46
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Sieg Real Madrid",
+          "prognose": "Real Madrid gewinnt regulaer",
+          "quote": 1.81,
+          "edge_prozent": 6,
+          "begruendung": "Klasse-Edge + Lesson 13.05. HR22-Implosions-FAIL-Override. Aber Lesson 11.05. LaLiga-Saisonende-Sieg-Cluster (Mainz-Pattern) + Sevilla-Heim-Stolz = WACKEL. Stake 0.5%.",
+          "einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "sev-rma-4",
+          "faire_quote": 1.71
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": null,
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "sev-rma-3",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "kein API-Match"
+        },
+        {
+          "tipp_id": "sev-rma-1",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "kein API-Match"
+        },
+        {
+          "tipp_id": "sev-rma-2",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "kein API-Match"
+        },
+        {
+          "tipp_id": "sev-rma-4",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "kein API-Match"
+        }
+      ]
+    },
+    {
+      "id": "2026-05-17-bar-bet",
+      "liga": "LaLiga",
+      "heim": "FC Barcelona",
+      "gast": "Real Betis Balompie",
+      "anstoss": "2026-05-17T19:00:00+02:00",
+      "stadion": "Spotify Camp Nou, Barcelona",
+      "saison_kontext": {
+        "parallel_heim": "keine - CL-HF 2025-26 verpasst, El Clasico letzte Woche bereits gewonnen",
+        "parallel_gast": "keine - Betis Conference-Quali-Saison aber kein Final",
+        "saisonziel_heim": "Barcelona 1. Meister mit 91 Pkt - Liga seit 10.05. (2:0 vs Real) gesichert, 29. Titel. Saison-Highlight Heim-Finale als Meister",
+        "saisonziel_gast": "Betis 5. mit 57 Pkt - Quali-Plaetze geklaert, kein direkter Druck",
+        "motivations_asymmetrie": "Beidseitig Saisonende-fixed - Barca will 100%-Heim-Rekord, Betis Form-stark unbeaten 7. Klasse-Edge klar Barca.",
+        "recovery_heim": "Barca 7 Tage seit El Clasico-Sieg 10.05.",
+        "recovery_gast": "Betis 7 Tage Pause",
+        "quellen": [
+          "https://www.laliga.com/",
+          "https://www.fcbarcelona.com/en/matches/127624/fc-barcelona-betis-la-liga-2025-2026",
+          "https://www.myfootballfacts.com/match-preview/la-liga-match-previews/match-preview-fc-barcelona-real-betis-la-liga-gameweek-37/",
+          "https://www.fotmob.com/matches/real-betis-vs-barcelona/2gggox"
+        ]
+      },
+      "news": [
+        "Yamal Saison-OUT bestaetigt - Barca-Tor-Erwartung reduziert aber Lewa/Raphinha/Olmo/Ferran weiter da",
+        "Barca 5 Liga-Siege in Folge incl. Clean-Sheets",
+        "Betis offensiv-stark mit Abde + Antony",
+        "Barca unbeaten in letzten 10 H2H gegen Betis (8W 2D)"
+      ],
+      "tipps": [
+        {
+          "id": "bar-bet-3",
+          "kategorie": "value",
+          "markt": "Robert Lewandowski trifft",
+          "quote": 1.75,
+          "edge_prozent": 14,
+          "faire_quote": 1.54,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 8.25,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Lewandowski 21+ Liga-Tore + Camp-Nou-Form + Betis-Defense durchlaessig. Lesson 04.05. PFLICHT-PROFILE Heim-Favorit -> Torschuetzen-Tipp PFLICHT auf Top-9er."
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "prognose": "Mehr als 2 Tore im Spiel",
+          "quote": 1.55,
+          "edge_prozent": 11,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (+52.3% ROI). Barca-Heim 3.5 Tore/Spiel + Betis-Auswaerts mid + beide ohne Druck offen. Stake 1.0%.",
+          "einsatz_euro": 5.5,
+          "empfohlener_einsatz_prozent": 1.0,
+          "id": "bar-bet-2",
+          "faire_quote": 1.4
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Doppelte Chance 1X (Barcelona oder Unentschieden)",
+          "prognose": "Barcelona gewinnt oder Remis",
+          "quote": 1.08,
+          "edge_prozent": 6,
+          "begruendung": "Markt-Goldgrube DC 1X (82.4% Hit). Mapper-Hebel C downgrade SAFE -> VALUE da LaLiga keine Liga-Goldgrube. Barca Heim 100% Saison + Yamal-Saison-OUT belanglos (Lewandowski + Raphinha + Olmo komplett). Stake 1.5%.",
+          "einsatz_euro": 8.25,
+          "empfohlener_einsatz_prozent": 1.5,
+          "id": "bar-bet-1",
+          "faire_quote": 1.02
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen JA",
+          "prognose": "Beide Mannschaften treffen mindestens 1x",
+          "quote": 1.65,
+          "edge_prozent": 4,
+          "begruendung": "Betis-Form-Auswaerts unbeaten in 7 + Barca-Defense lockt manchmal Gegen-Tor. Aber Barca-Heim 100% auch mit Clean-Sheet kompatibel. Stake 0.5%.",
+          "einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "bar-bet-4",
+          "faire_quote": 1.59
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": null,
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "bar-bet-3",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "kein API-Match"
+        },
+        {
+          "tipp_id": "bar-bet-2",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "kein API-Match"
+        },
+        {
+          "tipp_id": "bar-bet-1",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "kein API-Match"
+        },
+        {
+          "tipp_id": "bar-bet-4",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "kein API-Match"
+        }
+      ]
+    },
+    {
+      "id": "2026-05-17-atm-gir",
+      "liga": "LaLiga",
+      "heim": "Club Atletico de Madrid",
+      "gast": "Girona FC",
+      "anstoss": "2026-05-17T19:00:00+02:00",
+      "stadion": "Riyadh Air Metropolitano, Madrid",
+      "saison_kontext": {
+        "parallel_heim": "keine - kein UEFA-Final-Termin im 7-Tage-Cluster",
+        "parallel_gast": "keine",
+        "saisonziel_heim": "Atletico 3.-4. - CL-Quali bereits gesichert, kein Tabellen-Druck mehr",
+        "saisonziel_gast": "Girona 12. Mid-Table, keine Quali-Pflicht, Saison-Auslauf-Modus",
+        "motivations_asymmetrie": "Atletico-CL-Quali-Pflicht-Heim-Profil + Girona-Verletzungs-Welle = klare Heim-Edge. Lesson 13.05. HR22-Override + Lesson 15.05. Castilla-Stand-In: Soerloth profitiert von Lookman-OUT.",
+        "recovery_heim": "Atletico 5 Tage seit 2:1 Pamplona-Sieg",
+        "recovery_gast": "Girona 7 Tage Pause",
+        "quellen": [
+          "https://www.fotmob.com/matches/girona-vs-atletico-madrid/2kmd87",
+          "https://www.laliga.com/en-GB/match/temporada-2025-2026-laliga-ea-sports-atletico-de-madrid-girona-fc-37",
+          "https://www.whoscored.com/matches/1914048/preview/spain-laliga-2025-2026-girona-atletico-madrid"
+        ]
+      },
+      "news": [
+        "Atletico-Lazarett massiv: Barrios/Gimenez/Lookman OUT, Llorente+Baena Doubts",
+        "Atletico 2:1 in Pamplona 12.05. - trotz 7 Stamm-OUT + Llorente Gelb-Rot. Bench-Tiefe schluckt",
+        "Girona-Lazarett massiv (6+ OUT, ter Stegen Saison-Ende)",
+        "Soerloth Top-Sub-Form (HZ-Joker-Tor Pamplona)"
+      ],
+      "tipps": [
+        {
+          "id": "atm-gir-2",
+          "kategorie": "value",
+          "markt": "Alexander Soerloth trifft",
+          "quote": 2.4,
+          "edge_prozent": 17,
+          "faire_quote": 2.05,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 5.5,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Lesson 04.05. PFLICHT-PROFILE Heim-Favorit. Lesson 15.05. Castilla-Stand-In + 13.05. Star-OUT-Backup: Soerloth profitiert von Lookman-Verletzung. Bei Osasuna 13.05. HZ-Sub @ 4.90 71.Min getroffen."
+        },
+        {
+          "kategorie": "value",
+          "markt": "Sieg Atletico Madrid",
+          "prognose": "Atletico gewinnt regulaer",
+          "quote": 1.35,
+          "edge_prozent": 11,
+          "begruendung": "CL-Quali-Pflicht-Heim + Girona-Verletzungs-Welle (6 Schluesselspieler OUT). Lesson 13.05. HR22-Implosions-FAIL-Override: Klasse-Edge schluckt Atletico-Lazarett (Barrios+Gimenez+Lookman). Stake 1.5%.",
+          "einsatz_euro": 8.25,
+          "empfohlener_einsatz_prozent": 1.5,
+          "id": "atm-gir-1",
+          "faire_quote": 1.22
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "prognose": "Mehr als 2 Tore im Spiel",
+          "quote": 1.65,
+          "edge_prozent": 7,
+          "begruendung": "Markt-Goldgrube Ueber 2.5. Pflicht-Sieg-Druck + Girona-Defense-Lazarett. ABER Lesson 14.05. LaLiga-MD36-Mid-Table-Saisonende-2-Tore-Cluster (3/3 endeten exakt 2 Tore!) - WACKEL nicht VALUE. Stake 0.5%.",
+          "einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "atm-gir-3",
+          "faire_quote": 1.54
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": null,
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "atm-gir-2",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "kein API-Match"
+        },
+        {
+          "tipp_id": "atm-gir-1",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "kein API-Match"
+        },
+        {
+          "tipp_id": "atm-gir-3",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "kein API-Match"
+        }
+      ]
+    },
+    {
+      "id": "2026-05-17-pfc-psg",
+      "liga": "Ligue 1",
+      "heim": "Paris FC",
+      "gast": "Paris Saint-Germain",
+      "anstoss": "2026-05-17T21:00:00+02:00",
+      "stadion": "Stade Jean Bouin, Paris",
+      "saison_kontext": {
+        "parallel_heim": "keine",
+        "parallel_gast": "Champions League FINAL 30.05.2026 vs Arsenal - 13 Tage spaeter (knapp ausserhalb 7-Tage-Cluster, leicht in 13-25d-Range Lesson 11.05.).",
+        "saisonziel_heim": "Paris FC 13. Mid-Table-Aufsteiger - kein Druck mehr",
+        "saisonziel_gast": "PSG 1. Meister gesichert - Saison-Ende vor CL-Final 30.05. (13 Tage). Letztes Liga-Spiel = leichte Rotation aber konservativ",
+        "motivations_asymmetrie": "PSG-Schon-Modus fuer CL-Final aktiv (Lesson 11.05.+14.05.). Lesson 15.05. Karriere-Highlight-Final-INVERS gilt NICHT (PSG etablierter UEFA-Champion). Schon-Modus dominiert -> B-Elf, Paris-FC-Heim-Stolz-Chance.",
+        "recovery_heim": "Paris FC 7 Tage",
+        "recovery_gast": "PSG 7+ Tage, dann 13 Tage Pause vor CL-Final",
+        "quellen": [
+          "https://www.feedinco.com/predictions/2026-05-17/Paris-FC-vs-PSG-prediction",
+          "https://www.forebet.com/en/football/matches/paris-fc-psg-2316423",
+          "https://en.parisfans.fr/ligue-1-schedule-and-broadcast-of-matchday-34-multiplex-on-may-17.html",
+          "https://www.uefa.com/uefachampionsleague/"
+        ]
+      },
+      "news": [
+        "PSG vor 2 Wochen Pause + CL-Final vs Arsenal 30.05.",
+        "PSG Sieg-Quote 1.52, Saison-Ende-Spiel ohne Tabellen-Druck - leichte Rotation moeglich",
+        "Paris FC 4:0 Brest aber 1:2 Rennes - inkonstante Saisonende-Form"
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "prognose": "Mehr als 2 Tore im Spiel",
+          "quote": 1.45,
+          "edge_prozent": 12,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (+52.3% ROI). PSG-Saison 3.1 Tore/Spiel + Paris-FC-Heim-Saisonende-Routine. 59% Algorithmus-Berechnung. Stake 1.0%.",
+          "einsatz_euro": 5.5,
+          "empfohlener_einsatz_prozent": 1.0,
+          "id": "pfc-psg-2",
+          "faire_quote": 1.29
+        },
+        {
+          "id": "pfc-psg-3",
+          "kategorie": "wackel",
+          "markt": "Bradley Barcola trifft",
+          "quote": 2.5,
+          "edge_prozent": 12,
+          "faire_quote": 2.23,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 2.75,
+          "begruendung": "Lesson 11.05. PSG-Joker-Tor-Pattern (CL-Final 13d). Lesson 04.05. PFLICHT-PROFILE Auswaerts-Favorit. Barcola Stamm-Junior-Fluegel als Schon-Cluster-Bevorzugter. Markt-Goldgrube Torschuetzen. WACKEL wegen Rotation-Unsicherheit."
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen JA",
+          "prognose": "Beide Mannschaften treffen mindestens 1x",
+          "quote": 2.1,
+          "edge_prozent": 8,
+          "begruendung": "PSG-B-Elf-Wahrscheinlichkeit + Paris-FC-Heim-Stolz-Karriere-Highlight (erste Top-Liga-Saison seit 1980er). PSG auch ohne Stamm-Elf Tor-stark, Paris-FC kann Heim-Karriere-Spiel mind. 1x treffen. WACKEL weil Quote 2.10 schon Schon-Modus eingepreist hat. Stake 0.5%.",
+          "einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "pfc-psg-1",
+          "faire_quote": 1.94
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": null,
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "pfc-psg-2",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "kein API-Match"
+        },
+        {
+          "tipp_id": "pfc-psg-3",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "kein API-Match"
+        },
+        {
+          "tipp_id": "pfc-psg-1",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "kein API-Match"
+        }
+      ]
+    },
+    {
+      "id": "2026-05-17-nba-det-cle",
+      "liga": "NBA Playoffs",
+      "heim": "Detroit Pistons",
+      "gast": "Cleveland Cavaliers",
+      "anstoss": "2026-05-17T04:00:00+02:00",
+      "stadion": "Little Caesars Arena, Detroit (UNGEWISS - nur falls G7 noetig)",
+      "saison_kontext": {
+        "parallel_heim": "Conference Finals nach Sieg",
+        "parallel_gast": "Conference Finals nach Sieg",
+        "saisonziel_heim": "1-Seed Pistons - Heim-Closeout-G7 vs 4./5.-Seed Cavs. Conference-Finals-Chance erstmals seit Jahren. Cunningham als Saison-MVP-Kandidat hat G5 39/9 + G6 +21-Sieg geliefert.",
+        "saisonziel_gast": "4./5.-Seed Cleveland Cavaliers - Closeout-Survive-or-die in Detroit. G6-Heim verloren 94:115 trotz 4.5-pt-Heim-Favorit-Status.",
+        "motivations_asymmetrie": "Beidseitig Decider-Druck - klassisches G7-Coinflip-Profil. Pistons-Heim-Vorteil + Cunningham-Hot-Hand + Cavs-Verletzungs-Last. Lesson 25.04. NBA-G3 mit Sweep-Druck = NIE SAFE.",
+        "recovery_heim": "2 Tage seit G6 (15.05.)",
+        "recovery_gast": "2 Tage seit G6 (15.05.)",
+        "quellen": [
+          "https://www.espn.com/nba/story/_/id/48419498/nba-playoffs-2026-play-finals-schedule-scores-news-highlights-bracket-dates",
+          "https://www.nbcsports.com/nba/news/2026-nba-playoffs-bracket-schedule-scores-matchups",
+          "https://www.nba.com/playoffs/2026",
+          "https://www.sportsbettingdime.com/news/nba/cavs-vs-pistons-game-7-odds-opening-betting-lines-after-detroit-staves-off-elimination/"
+        ]
+      },
+      "news": [
+        "Pistons vs Cavaliers CSemifinal-Serie 3:2 (Pistons Heim-Vorteil G7)",
+        "G7 nur wenn G6 nicht entschieden",
+        "Anstoss vermutlich Sa-Abend US (Sonntag 04:00 Berlin)"
+      ],
+      "tipps": [
+        {
+          "kategorie": "wackel",
+          "markt": "Sieg Detroit Pistons",
+          "prognose": "Pistons gewinnen G7 regulaer",
+          "quote": 1.65,
+          "edge_prozent": 9,
+          "begruendung": "Mapper-Hebel B (NBA-Playoff-Decider nie SAFE) erzwingt max WACKEL. Pistons-Heim-G7 + Cunningham-Hot-Hand + Cavs-G6-Mental-Knick. Lesson 25.04. NBA-G3/G7-Sweep-Druck-Spiele = max WACKEL nie SAFE. Stake 0.5%.",
+          "einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "nba-det-cle-1",
+          "faire_quote": 1.51
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Unter 210 Punkte (Spiel-Total)",
+          "prognose": "Total weniger als 210 Punkte",
+          "quote": 1.9,
+          "edge_prozent": 8,
+          "begruendung": "Lesson 02.05. NBA-G7-Decider-Defensiv-Schlachten-Pattern: Lines < 215 sind in Decider haeufig UNDER-Treffer. G6 Total war 209 (knapp UNDER 209.5). Stake 0.5%.",
+          "einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "nba-det-cle-2",
+          "faire_quote": 1.76
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": null,
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "nba-det-cle-1",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "kein API-Match"
+        },
+        {
+          "tipp_id": "nba-det-cle-2",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "kein API-Match"
+        }
+      ]
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "et-1",
+      "tipp_id": "che-mci-1",
+      "spiel_id": "2026-05-16-che-mci",
+      "spiel_label": "Chelsea FC - Manchester City FC",
+      "kategorie": "safe",
+      "markt": "Doppelte Chance X2 (Manchester City oder Unentschieden)",
+      "quote": 1.27,
+      "edge_prozent": 10,
+      "faire_quote": 1.15,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "City unbeaten 9 Spiele + Chelsea seit Maerz 8 Niederlagen + Haaland gezielt fuer Cup-Final-Aufbau geschont (Lesson 14.05. Crystal-Palace-Bank invers genutzt). Markt-Goldgrube DC (n=17, 82.4% Hit, +4.9% ROI). Mapper-Hebel C downgraded SAFE -> VALUE da FA-Cup-Final keine Liga-Goldgrube. Lesson 15.05. Karriere-Highlight-INVERS: City ist etablierter Champion mit 4. FA-Cup-Final in Folge - keine Schon-Risiko. Stake 1.5%.",
+      "rang": 1
+    },
+    {
+      "id": "et-2",
+      "tipp_id": "che-mci-2",
+      "spiel_id": "2026-05-16-che-mci",
+      "spiel_label": "Chelsea FC - Manchester City FC",
+      "kategorie": "value",
+      "markt": "Sieg Manchester City",
+      "quote": 1.9,
+      "edge_prozent": 12,
+      "faire_quote": 1.7,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "City-ML 1.90 (Aggregator). Lesson 04.05. PFLICHT-PROFILE Auswaerts-Favorit -> Sieg-Tipp PFLICHT. Form-Edge massiv (4 Wins in Folge gegen Chelsea zuletzt). Lesson 15.05. Karriere-Highlight-Final-INVERS: City spielt voll obwohl PL-Spiel Di nachher (3 Tage) - 4. FA-Cup-Final in Folge ist Routine, kein Schon. Lesson 10.05. PL-Sieg-Cluster max wackel-Filter trifft wegen FA-Cup-Kontext nicht. Stake 1.5%.",
+      "rang": 2
+    },
+    {
+      "id": "et-3",
+      "tipp_id": "stp-wob-1",
+      "spiel_id": "2026-05-16-stp-wob",
+      "spiel_label": "FC St. Pauli - VfL Wolfsburg",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen JA",
+      "quote": 1.85,
+      "edge_prozent": 14,
+      "faire_quote": 1.62,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "Beide MUST-WIN-Druck im Tor-Markt -> beide pushen offensiv. St.Pauli muss 2-3 Tore Differenz, Wolfsburg wird unter Druck Konter laufen. Lesson 04.05. COINFLIP-Pflicht-Profil: max 3 Tipps mit BTTS + Tor-Total + Wackel-Sieg. Stake 1.5%.",
+      "rang": 3
+    },
+    {
+      "id": "et-4",
+      "tipp_id": "fch-m05-1",
+      "spiel_id": "2026-05-16-fch-m05",
+      "spiel_label": "1. FC Heidenheim - 1. FSV Mainz 05",
+      "kategorie": "value",
+      "markt": "Sieg Heidenheim",
+      "quote": 2.09,
+      "edge_prozent": 15,
+      "faire_quote": 1.82,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "Pflicht-Sieg-Heim + Mainz-Saisonende-ohne-Druck (Lesson 04.05.). Bookies-Quote 2.09 reflektiert Tordiff-Sorgen, aber Existenz-Druck-Edge historisch wertvoll (Mainz @12.0 vs Bayern Profil andersherum). Stake 1.5%.",
+      "rang": 4
+    },
+    {
+      "id": "et-5",
+      "tipp_id": "fch-m05-2",
+      "spiel_id": "2026-05-16-fch-m05",
+      "spiel_label": "1. FC Heidenheim - 1. FSV Mainz 05",
+      "kategorie": "value",
+      "markt": "Doppelte Chance 1X (Heidenheim oder Unentschieden)",
+      "quote": 1.4,
+      "edge_prozent": 9,
+      "faire_quote": 1.28,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "Markt-Goldgrube Doppelte Chance 1X (n=17, 82.4% Hit, +4.9% ROI). Mapper-Hebel C downgrade SAFE -> VALUE da BL keine Liga-Goldgrube. Lesson 14.05. Drehungs-Schutz: DC 1X covered Drehungs-Verlust besser als direkter Sieg-Tipp. Stake 1.5%.",
+      "rang": 5
+    },
+    {
+      "id": "et-6",
+      "tipp_id": "sge-vfb-1",
+      "spiel_id": "2026-05-16-sge-vfb",
+      "spiel_label": "Eintracht Frankfurt - VfB Stuttgart",
+      "kategorie": "value",
+      "markt": "Doppelte Chance X2 (Stuttgart oder Unentschieden)",
+      "quote": 1.3,
+      "edge_prozent": 11,
+      "faire_quote": 1.17,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "Stuttgart CL-Quali-Pflicht + Frankfurt Krise (4 Spiele ohne Sieg). Markt-Goldgrube DC X2 (n=17, 77.8% Hit, +9.4% ROI). Mapper-Hebel C downgrade SAFE -> VALUE da BL keine Liga-Goldgrube. Lesson 14.05. Drehungs-Schutz. Stake 1.5%.",
+      "rang": 6
+    },
+    {
+      "id": "et-7",
+      "tipp_id": "sge-vfb-2",
+      "spiel_id": "2026-05-16-sge-vfb",
+      "spiel_label": "Eintracht Frankfurt - VfB Stuttgart",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.75,
+      "edge_prozent": 12,
+      "faire_quote": 1.56,
+      "empfohlener_einsatz_prozent": 1.0,
+      "einsatz_euro": 5.5,
+      "begruendung": "Markt-Goldgrube Ueber 2.5 Tore (50% Hit, +52.3% ROI). Beide offensiv + Frankfurt-Defensive-Trend + Stuttgart-CL-Pflicht-Sieg-Profil. Lesson 13.05. LaLiga-MD36-Druck-Pflicht-Tore-Cluster bestaetigt analog. Stake 1.0%.",
+      "rang": 7
+    },
+    {
+      "id": "et-8",
+      "tipp_id": "scf-rbl-1",
+      "spiel_id": "2026-05-16-scf-rbl",
+      "spiel_label": "SC Freiburg - RB Leipzig",
+      "kategorie": "value",
+      "markt": "Doppelte Chance X2 (RB Leipzig oder Unentschieden)",
+      "quote": 1.5,
+      "edge_prozent": 10,
+      "faire_quote": 1.36,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "Klasse-Edge Leipzig + Freiburg-EL-Final-Schon-Modus (Lesson 11.05. EL-Final 4 Tage zu eng). Markt-Goldgrube DC X2 (77.8% Hit). Lesson 15.05. Karriere-Highlight-INVERS-Caveat: Freiburg Mid-Tier-EL-Klub, 4 Tage zu eng fuer Vollgas, B-Elf erwartet. Stake 1.5%.",
+      "rang": 8
+    },
+    {
+      "id": "et-9",
+      "tipp_id": "bay-koe-2",
+      "spiel_id": "2026-05-16-bay-koe",
+      "spiel_label": "FC Bayern Muenchen - 1. FC Koeln",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.36,
+      "edge_prozent": 10,
+      "faire_quote": 1.24,
+      "empfohlener_einsatz_prozent": 1.0,
+      "einsatz_euro": 5.5,
+      "begruendung": "Markt-Goldgrube Ueber 2.5 Tore. Bayern-Heim Schnitt + Meisterfeier-Routine-Tor-Festival historisch (3+ Tore in 80% letzter Meisterfeier-Heimspiele Bayern). Stake 1.0%.",
+      "rang": 9
+    },
+    {
+      "id": "et-10",
+      "tipp_id": "mun-nfo-1",
+      "spiel_id": "2026-05-17-mun-nfo",
+      "spiel_label": "Manchester United - Nottingham Forest",
+      "kategorie": "value",
+      "markt": "Doppelte Chance 1X (Manchester United oder Unentschieden)",
+      "quote": 1.25,
+      "edge_prozent": 9,
+      "faire_quote": 1.15,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "Markt-Goldgrube DC 1X (82.4% Hit). Mapper-Hebel C downgrade SAFE -> VALUE da MD37-Saisonende-Konfiguration. Lesson 10.05. PL-Sieg-Cluster max wackel-Filter trifft fuer DC nicht ganz. Stake 1.5%.",
+      "rang": 10
+    },
+    {
+      "id": "et-11",
+      "tipp_id": "sev-rma-1",
+      "spiel_id": "2026-05-17-sev-rma",
+      "spiel_label": "Sevilla FC - Real Madrid CF",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen JA",
+      "quote": 1.7,
+      "edge_prozent": 13,
+      "faire_quote": 1.5,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "Real-Defense-Lazarett (Militao+Mendy+Carvajal out) + Sevilla-Heim-Form-Knick (3:2 Villarreal) + Real-Sturm-Vollgas (Mbappe+Vinicius). Wincomparator zeigt 69.58% BTTS-Wahrscheinlichkeit. Stake 1.5%.",
+      "rang": 11
+    }
+  ],
+  "kombis": [
+    {
+      "name": "Safe-Kombi 4er",
+      "kategorie": "safe",
+      "gesamtquote": 2.5,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 11.0,
+      "moeglicher_gewinn_brutto_euro": 27.46,
+      "moeglicher_gewinn_netto_euro": 16.46,
+      "begruendung": "Vier heterogene Edge-Logiken (Lesson 10.05. Korrelations-Diversifikation): Klasse-Edge LaLiga + Karriere-Highlight FA Cup + Existenz-Druck-Heim BL + CL-Quali-Pflicht BL. Alle vier DC-Beine in Markt-Goldgrube DC (82.4% Hit).",
+      "beine": [
+        {
+          "spiel_id": "2026-05-17-bar-bet",
+          "spiel_label": "FC Barcelona - Real Betis Balompie",
+          "markt": "Doppelte Chance 1X (Barcelona oder Unentschieden)",
+          "quote": 1.08
+        },
+        {
+          "spiel_id": "2026-05-16-che-mci",
+          "spiel_label": "Chelsea FC - Manchester City FC",
+          "markt": "Doppelte Chance X2 (Manchester City oder Unentschieden)",
+          "quote": 1.27
+        },
+        {
+          "spiel_id": "2026-05-16-fch-m05",
+          "spiel_label": "1. FC Heidenheim - 1. FSV Mainz 05",
+          "markt": "Doppelte Chance 1X (Heidenheim oder Unentschieden)",
+          "quote": 1.4
+        },
+        {
+          "spiel_id": "2026-05-16-sge-vfb",
+          "spiel_label": "Eintracht Frankfurt - VfB Stuttgart",
+          "markt": "Doppelte Chance X2 (Stuttgart oder Unentschieden)",
+          "quote": 1.3
+        }
+      ]
+    },
+    {
+      "name": "Balance-Kombi 3er",
+      "kategorie": "balance",
+      "gesamtquote": 7.31,
+      "empfohlener_einsatz_prozent": 0.8,
+      "einsatz_euro": 4.4,
+      "moeglicher_gewinn_brutto_euro": 32.16,
+      "moeglicher_gewinn_netto_euro": 27.76,
+      "begruendung": "Drei heterogene Stuermer-/Tor-Tipps mit unterschiedlicher Edge-Quelle: Haaland Cup-Final-Pflicht + Soerloth Star-OUT-Backup Atletico (Lesson 15.05.) + PSG-Tor-Festival ueber 2.5 (Lesson 11.05. Joker-Tor-Pattern).",
+      "beine": [
+        {
+          "spiel_id": "2026-05-16-che-mci",
+          "spiel_label": "Chelsea FC - Manchester City FC",
+          "markt": "Erling Haaland trifft",
+          "quote": 2.1
+        },
+        {
+          "spiel_id": "2026-05-17-atm-gir",
+          "spiel_label": "Club Atletico de Madrid - Girona FC",
+          "markt": "Alexander Soerloth trifft",
+          "quote": 2.4
+        },
+        {
+          "spiel_id": "2026-05-17-pfc-psg",
+          "spiel_label": "Paris FC - Paris Saint-Germain",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.45
+        }
+      ]
+    },
+    {
+      "name": "Risiko-Kombi 4er",
+      "kategorie": "risk",
+      "gesamtquote": 6.83,
+      "empfohlener_einsatz_prozent": 0.25,
+      "einsatz_euro": 1.4,
+      "moeglicher_gewinn_brutto_euro": 19.99,
+      "moeglicher_gewinn_netto_euro": 18.59,
+      "begruendung": "Heterogene Pflicht-Druck-Beine: Heidenheim-Existenz-Sieg + Atletico-CL-Quali-Pflicht-Heim + Vinicius-Form-Edge HR24 + Demirovic-CL-Quali-Stuermer-Pflicht.",
+      "beine": [
+        {
+          "spiel_id": "2026-05-17-atm-gir",
+          "spiel_label": "Club Atletico de Madrid - Girona FC",
+          "markt": "Sieg Atletico Madrid",
+          "quote": 1.35
+        },
+        {
+          "spiel_id": "2026-05-17-sev-rma",
+          "spiel_label": "Sevilla FC - Real Madrid CF",
+          "markt": "Vinicius Junior trifft",
+          "quote": 2.2
+        },
+        {
+          "spiel_id": "2026-05-16-sge-vfb",
+          "spiel_label": "Eintracht Frankfurt - VfB Stuttgart",
+          "markt": "Ermedin Demirovic trifft",
+          "quote": 2.3
+        }
+      ],
+      "rechnung": "1.35 x 2.20 x 2.30 = 6.83"
+    },
+    {
+      "name": "Moonshot 8er",
+      "kategorie": "moonshot",
+      "gesamtquote": 310.8,
+      "empfohlener_einsatz_prozent": 0.1,
+      "einsatz_euro": 0.55,
+      "moeglicher_gewinn_brutto_euro": 170.94,
+      "moeglicher_gewinn_netto_euro": 170.39,
+      "begruendung": "Acht heterogene Edge-Logiken fuer Lotterie-Schuss auf >300x: Stuermer + Joker-Tor (Lesson 11.05.) + Coinflip-Existenz + NBA-G7-Decider + EL-Schon + LaLiga-Druck + PL-Saisonende. Korrelations-Lesson 10.05. eingehalten.",
+      "beine": [
+        {
+          "spiel_id": "2026-05-16-brm-bvb",
+          "spiel_label": "SV Werder Bremen - Borussia Dortmund",
+          "markt": "Serhou Guirassy trifft",
+          "quote": 2.05
+        },
+        {
+          "spiel_id": "2026-05-16-fch-m05",
+          "spiel_label": "1. FC Heidenheim - 1. FSV Mainz 05",
+          "markt": "Marvin Pieringer trifft",
+          "quote": 2.5
+        },
+        {
+          "spiel_id": "2026-05-17-pfc-psg",
+          "spiel_label": "Paris FC - Paris Saint-Germain",
+          "markt": "Bradley Barcola trifft",
+          "quote": 2.5
+        },
+        {
+          "spiel_id": "2026-05-16-stp-wob",
+          "spiel_label": "FC St. Pauli - VfL Wolfsburg",
+          "markt": "Sieg St. Pauli",
+          "quote": 2.75
+        },
+        {
+          "spiel_id": "2026-05-17-nba-det-cle",
+          "spiel_label": "Detroit Pistons - Cleveland Cavaliers",
+          "markt": "Sieg Detroit Pistons",
+          "quote": 1.65
+        },
+        {
+          "spiel_id": "2026-05-16-scf-rbl",
+          "spiel_label": "SC Freiburg - RB Leipzig",
+          "markt": "Unter 2.5 Tore",
+          "quote": 2.0
+        },
+        {
+          "spiel_id": "2026-05-17-mun-nfo",
+          "spiel_label": "Manchester United - Nottingham Forest",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.62
+        },
+        {
+          "spiel_id": "2026-05-17-atm-gir",
+          "spiel_label": "Club Atletico de Madrid - Girona FC",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.65
+        }
+      ]
+    }
+  ],
+  "lessons_angewandt": [
+    {
+      "kategorie": "Saison-Kontext-Pflicht-Analyse",
+      "betroffene_tipps": [
+        "sge-vfb-1",
+        "sge-vfb-4",
+        "scf-rbl-1",
+        "scf-rbl-3",
+        "pfc-psg-1",
+        "pfc-psg-3",
+        "bay-koe-1",
+        "bay-koe-3"
+      ],
+      "datum": "2026-04-26",
+      "wie_angewandt": "Bei JEDEM Spiel die 4 Saison-Faktoren (parallele Wettbewerbe / Saisonziel / Motivations-Asymmetrie / Recovery) gecheckt + in saison_kontext{} dokumentiert. Beispiele: Stuttgart DFB-Pokal-Final 23.05. (7d) + Freiburg EL-Final 20.05. (4d) + PSG CL-Final 30.05. (13d) + Bayern DFB-Pokal-Final 24.05. (8d)."
+    },
+    {
+      "kategorie": "PFLICHT-PROFILE pro Spiel + DC-Cap + Star-Ausfall-Backup",
+      "betroffene_tipps": [
+        "che-mci-3",
+        "brm-bvb-1",
+        "fch-m05-3",
+        "sge-vfb-3",
+        "scf-rbl-2",
+        "bay-koe-3",
+        "mun-nfo-2",
+        "sev-rma-3",
+        "bar-bet-3",
+        "atm-gir-2",
+        "pfc-psg-3",
+        "stp-wob-1",
+        "stp-wob-2",
+        "stp-wob-3"
+      ],
+      "datum": "2026-05-04",
+      "wie_angewandt": "Bei jedem Heim-/Auswaerts-Favorit MIN 1 Torschuetzen-Tipp + 1 Sieg/DC eingebaut. Coinflip-Spiele (St.Pauli-Wolfsburg) max 3 Tipps mit BTTS + Tor-Total + Wackel-Sieg. Star-Ausfall-Backup-Pflicht angewendet bei Atletico (Lookman/Barrios/Gimenez OUT -> Soerloth-Backup)."
+    },
+    {
+      "kategorie": "NBA-Playoff-Player-Punkte-Markt-Boykott (ROI -46.2%)",
+      "betroffene_tipps": [
+        "nba-det-cle-1",
+        "nba-det-cle-2"
+      ],
+      "datum": "2026-04-26",
+      "wie_angewandt": "KEINE NBA-Player-Punkte/DD-Einzeltipps mehr. Bei Pistons-Cavs G7 nur Sieg/Spread/Total-Tipps (nba-det-cle-1 Sieg WACKEL, nba-det-cle-2 Unter 210). Mapper-Hebel B (NBA-Playoff-Decider nie SAFE) erzwingt max WACKEL."
+    },
+    {
+      "kategorie": "EL/CL-Final-7-12d-Schon-Modus + Lesson 14.05. Top-Team-Final-7d-Schon",
+      "betroffene_tipps": [
+        "scf-rbl-1",
+        "scf-rbl-3",
+        "bay-koe-3",
+        "sge-vfb-4",
+        "pfc-psg-1",
+        "pfc-psg-3"
+      ],
+      "datum": "2026-05-11",
+      "wie_angewandt": "Freiburg EL-Final 4d spaeter -> Stamm-Schon erwartet (scf-rbl-1 Leipzig-DC X2 als VALUE). Bayern DFB-Pokal 8d spaeter -> Kane-Schon, Olise als Stamm-Fluegel statt Volume-9er. Stuttgart Pokal-Final 7d - Lesson 15.05. Karriere-Highlight-INVERS NICHT anwendbar (Titelverteidiger - nicht Underdog) - Schon-Risiko bleibt, sge-vfb-4 Sieg WACKEL."
+    },
+    {
+      "kategorie": "Karriere-Highlight-Final-INVERS (Lesson 14.05. Schon-These wird invertiert)",
+      "betroffene_tipps": [
+        "che-mci-2",
+        "che-mci-3",
+        "pfc-psg-3"
+      ],
+      "datum": "2026-05-15",
+      "wie_angewandt": "Manchester City als etablierter Champion: FA Cup ist Routine-Pflicht, kein Schon-Modus -> Haaland-Tipp VALUE. PSG als etablierter UEFA-Champion: Schon-Modus aktiv -> pfc-psg-3 Barcola (Joker-Tor) statt Volume-Stuermer. Stuttgart als Pokalsieger-Titelverteidiger: Karriere-Highlight-INVERS NICHT aktiv - B-Elf-Risiko bleibt."
+    },
+    {
+      "kategorie": "HR22-Implosions-Profil-FAIL bei Top-4-LaLiga (Star-OUT-Cluster)",
+      "betroffene_tipps": [
+        "atm-gir-1",
+        "atm-gir-2"
+      ],
+      "datum": "2026-05-13",
+      "wie_angewandt": "Atletico-Lazarett (Barrios+Gimenez+Lookman OUT) wird durch Top-Bench geschluckt - NICHT als Sieg-Disqualifikator. atm-gir-1 als VALUE-Sieg-Tipp + atm-gir-2 Soerloth als Star-OUT-Backup-Stuermer (Lesson 15.05. Castilla-Stand-In)."
+    },
+    {
+      "kategorie": "Castilla-Stand-In-Goldgrube bei Star-OUT-Cluster (HR24+HR22 Refinement)",
+      "betroffene_tipps": [
+        "sev-rma-3",
+        "sev-rma-4",
+        "atm-gir-2"
+      ],
+      "datum": "2026-05-15",
+      "wie_angewandt": "Real Madrid mit Mbappe back aber Rodrygo/Guler/Militao OUT - Vinicius als verbliebener Star NICHT als SAFE-Torschuetze, VALUE wegen Doppel-Belastungs-Risiko. Atletico mit Lookman OUT -> Soerloth als Stand-In-Stuermer aktiv (atm-gir-2 VALUE @ 2.40)."
+    },
+    {
+      "kategorie": "SAFE-Hitrate-Reality + Total-Einsatz-Disziplin",
+      "betroffene_tipps": [
+        "et-1",
+        "et-2",
+        "et-3",
+        "et-4",
+        "et-5",
+        "et-6",
+        "et-7",
+        "et-8",
+        "et-9",
+        "et-10",
+        "et-11"
+      ],
+      "datum": "2026-05-15",
+      "wie_angewandt": "Lesson 15.05. Max 10% Kasse wenn <=3 Spiele - heute mit 13 Spielen + diverser Liga-Mix NICHT zutreffend. 4 Kombis (Safe+Balance+Risiko+Moonshot) erlaubt. Stake-Disziplin: niedrige Quoten 1.5%, Stuermer 1.0-1.5%, Wackel 0.5%."
+    },
+    {
+      "kategorie": "Korrelations-Diversifikation (max 2 Beine pro Lesson-Quelle in Kombis)",
+      "betroffene_tipps": [
+        "bar-bet-1",
+        "che-mci-1",
+        "fch-m05-2",
+        "sge-vfb-1"
+      ],
+      "datum": "2026-05-10",
+      "wie_angewandt": "Safe-Kombi 4 heterogene Edges (Klasse + Karriere-Highlight + Existenz + CL-Quali). Balance-Kombi 3 unterschiedliche Edge-Quellen (Cup-Final + Star-OUT + Joker). Risiko-Kombi Pflicht-Druck-Mix. Moonshot 8-Bein-Heterogenitaet."
+    },
+    {
+      "kategorie": "Saisonende-Tor-Flaute Mai + LaLiga-MD37-Variations-Filter",
+      "betroffene_tipps": [
+        "brm-bvb-3",
+        "mun-nfo-3",
+        "fch-m05-4",
+        "atm-gir-3",
+        "che-mci-4",
+        "sge-vfb-2",
+        "sev-rma-2",
+        "bar-bet-2"
+      ],
+      "datum": "2026-05-09",
+      "wie_angewandt": "Saisonende-Mid-Table-Spiele ohne Druck Ueber 2.5 WACKEL (brm-bvb-3, mun-nfo-3, fch-m05-4, atm-gir-3, che-mci-4). Pflicht-Druck-Spiele Ueber 2.5 VALUE (sge-vfb-2 CL-Quali + sev-rma-2 Real-Druck + bar-bet-2 Barca-Heim-100%). Lesson 13.05. Variation."
+    },
+    {
+      "kategorie": "Drehungs-Cluster Saisonende-Pflicht-Heim-Spiele (HZ-Stand nicht verlaesslich)",
+      "betroffene_tipps": [
+        "fch-m05-1",
+        "fch-m05-2",
+        "sge-vfb-1",
+        "sge-vfb-4",
+        "atm-gir-1"
+      ],
+      "datum": "2026-05-14",
+      "wie_angewandt": "Bei Saisonende-Sieg-Tipps mit Quote 1.40-1.85 in Pflicht-Heim-Spielen DC-1X-Cover statt direkter Sieg-Tipp (fch-m05-2 DC + sge-vfb-1 DC X2 fuer Einzeltipps). Drehungs-Risiko bleibt bis 90.Min. Direkter Sieg nur als Wackel/Risiko-Kombi."
+    },
+    {
+      "kategorie": "Korrelations-Schutz Heim-Sieg-Cluster (max 1 Sieg-Outcome pro Spiel als Einzeltipp)",
+      "betroffene_tipps": [
+        "et-3",
+        "et-4",
+        "et-11",
+        "atm-gir-1",
+        "fch-m05-1",
+        "sge-vfb-4"
+      ],
+      "datum": "2026-05-15",
+      "wie_angewandt": "Pro Spiel max 1 Sieg-Outcome im Einzelbereich: Atletico nur SIEG als Einzeltipp (Soerloth-Tor in Kombi statt Einzel). Heidenheim DC als Einzel, direkter Sieg-Tipp nur in Risiko-Kombi. Stuttgart DC als Einzel, Sieg-Tipp nur als Wackel."
+    }
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "einzeltipps_ergebnis": [
+    {
+      "id": "et-1",
+      "tipp_id": "che-mci-1",
+      "spiel_id": "2026-05-16-che-mci",
+      "spiel_label": "Chelsea FC - Manchester City FC",
+      "kategorie": "safe",
+      "markt": "Doppelte Chance X2 (Manchester City oder Unentschieden)",
+      "quote": 1.27,
+      "edge_prozent": 10,
+      "faire_quote": 1.15,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "City unbeaten 9 Spiele + Chelsea seit Maerz 8 Niederlagen + Haaland gezielt fuer Cup-Final-Aufbau geschont (Lesson 14.05. Crystal-Palace-Bank invers genutzt). Markt-Goldgrube DC (n=17, 82.4% Hit, +4.9% ROI). Mapper-Hebel C downgraded SAFE -> VALUE da FA-Cup-Final keine Liga-Goldgrube. Lesson 15.05. Karriere-Highlight-INVERS: City ist etablierter Champion mit 4. FA-Cup-Final in Folge - keine Schon-Risiko. Stake 1.5%.",
+      "rang": 1,
+      "status": "gewonnen",
+      "kommentar": "DC X2 Chelsea-City: City siegte 1:0 (Semenyo 72.) — gewonnen.",
+      "gewinn_euro": 2.23,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-2",
+      "tipp_id": "che-mci-2",
+      "spiel_id": "2026-05-16-che-mci",
+      "spiel_label": "Chelsea FC - Manchester City FC",
+      "kategorie": "value",
+      "markt": "Sieg Manchester City",
+      "quote": 1.9,
+      "edge_prozent": 12,
+      "faire_quote": 1.7,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "City-ML 1.90 (Aggregator). Lesson 04.05. PFLICHT-PROFILE Auswaerts-Favorit -> Sieg-Tipp PFLICHT. Form-Edge massiv (4 Wins in Folge gegen Chelsea zuletzt). Lesson 15.05. Karriere-Highlight-Final-INVERS: City spielt voll obwohl PL-Spiel Di nachher (3 Tage) - 4. FA-Cup-Final in Folge ist Routine, kein Schon. Lesson 10.05. PL-Sieg-Cluster max wackel-Filter trifft wegen FA-Cup-Kontext nicht. Stake 1.5%.",
+      "rang": 2,
+      "status": "gewonnen",
+      "kommentar": "Sieg Man City: 1:0 in FA-Cup-Final — gewonnen.",
+      "gewinn_euro": 7.42,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-3",
+      "tipp_id": "stp-wob-1",
+      "spiel_id": "2026-05-16-stp-wob",
+      "spiel_label": "FC St. Pauli - VfL Wolfsburg",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen JA",
+      "quote": 1.85,
+      "edge_prozent": 14,
+      "faire_quote": 1.62,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "Beide MUST-WIN-Druck im Tor-Markt -> beide pushen offensiv. St.Pauli muss 2-3 Tore Differenz, Wolfsburg wird unter Druck Konter laufen. Lesson 04.05. COINFLIP-Pflicht-Profil: max 3 Tipps mit BTTS + Tor-Total + Wackel-Sieg. Stake 1.5%.",
+      "rang": 3,
+      "status": "gewonnen",
+      "kommentar": "BTTS Pauli-Wolfsburg: Beide trafen (Pauli 1, Wolfsburg 3) — gewonnen.",
+      "gewinn_euro": 7.01,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-4",
+      "tipp_id": "fch-m05-1",
+      "spiel_id": "2026-05-16-fch-m05",
+      "spiel_label": "1. FC Heidenheim - 1. FSV Mainz 05",
+      "kategorie": "value",
+      "markt": "Sieg Heidenheim",
+      "quote": 2.09,
+      "edge_prozent": 15,
+      "faire_quote": 1.82,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "Pflicht-Sieg-Heim + Mainz-Saisonende-ohne-Druck (Lesson 04.05.). Bookies-Quote 2.09 reflektiert Tordiff-Sorgen, aber Existenz-Druck-Edge historisch wertvoll (Mainz @12.0 vs Bayern Profil andersherum). Stake 1.5%.",
+      "rang": 4,
+      "status": "verloren",
+      "kommentar": "Sieg Heidenheim: Heidenheim verlor 0:2 — verloren. Existenz-Druck-Edge griff nicht.",
+      "gewinn_euro": -8.25,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-5",
+      "tipp_id": "fch-m05-2",
+      "spiel_id": "2026-05-16-fch-m05",
+      "spiel_label": "1. FC Heidenheim - 1. FSV Mainz 05",
+      "kategorie": "value",
+      "markt": "Doppelte Chance 1X (Heidenheim oder Unentschieden)",
+      "quote": 1.4,
+      "edge_prozent": 9,
+      "faire_quote": 1.28,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "Markt-Goldgrube Doppelte Chance 1X (n=17, 82.4% Hit, +4.9% ROI). Mapper-Hebel C downgrade SAFE -> VALUE da BL keine Liga-Goldgrube. Lesson 14.05. Drehungs-Schutz: DC 1X covered Drehungs-Verlust besser als direkter Sieg-Tipp. Stake 1.5%.",
+      "rang": 5,
+      "status": "verloren",
+      "kommentar": "DC 1X Heidenheim: Heidenheim 0:2 — verloren.",
+      "gewinn_euro": -8.25,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-6",
+      "tipp_id": "sge-vfb-1",
+      "spiel_id": "2026-05-16-sge-vfb",
+      "spiel_label": "Eintracht Frankfurt - VfB Stuttgart",
+      "kategorie": "value",
+      "markt": "Doppelte Chance X2 (Stuttgart oder Unentschieden)",
+      "quote": 1.3,
+      "edge_prozent": 11,
+      "faire_quote": 1.17,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "Stuttgart CL-Quali-Pflicht + Frankfurt Krise (4 Spiele ohne Sieg). Markt-Goldgrube DC X2 (n=17, 77.8% Hit, +9.4% ROI). Mapper-Hebel C downgrade SAFE -> VALUE da BL keine Liga-Goldgrube. Lesson 14.05. Drehungs-Schutz. Stake 1.5%.",
+      "rang": 6,
+      "status": "gewonnen",
+      "kommentar": "DC X2 Frankfurt-Stuttgart: 2:2 Remis — gewonnen (trotz Drehung von 0:2 auf 2:2).",
+      "gewinn_euro": 2.48,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-7",
+      "tipp_id": "sge-vfb-2",
+      "spiel_id": "2026-05-16-sge-vfb",
+      "spiel_label": "Eintracht Frankfurt - VfB Stuttgart",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.75,
+      "edge_prozent": 12,
+      "faire_quote": 1.56,
+      "empfohlener_einsatz_prozent": 1.0,
+      "einsatz_euro": 5.5,
+      "begruendung": "Markt-Goldgrube Ueber 2.5 Tore (50% Hit, +52.3% ROI). Beide offensiv + Frankfurt-Defensive-Trend + Stuttgart-CL-Pflicht-Sieg-Profil. Lesson 13.05. LaLiga-MD36-Druck-Pflicht-Tore-Cluster bestaetigt analog. Stake 1.0%.",
+      "rang": 7,
+      "status": "gewonnen",
+      "kommentar": "Ueber 2.5 Frankfurt: 2:2 = 4 Tore — gewonnen.",
+      "gewinn_euro": 4.12,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-8",
+      "tipp_id": "scf-rbl-1",
+      "spiel_id": "2026-05-16-scf-rbl",
+      "spiel_label": "SC Freiburg - RB Leipzig",
+      "kategorie": "value",
+      "markt": "Doppelte Chance X2 (RB Leipzig oder Unentschieden)",
+      "quote": 1.5,
+      "edge_prozent": 10,
+      "faire_quote": 1.36,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "Klasse-Edge Leipzig + Freiburg-EL-Final-Schon-Modus (Lesson 11.05. EL-Final 4 Tage zu eng). Markt-Goldgrube DC X2 (77.8% Hit). Lesson 15.05. Karriere-Highlight-INVERS-Caveat: Freiburg Mid-Tier-EL-Klub, 4 Tage zu eng fuer Vollgas, B-Elf erwartet. Stake 1.5%.",
+      "rang": 8,
+      "status": "verloren",
+      "kommentar": "DC X2 Freiburg-Leipzig: Freiburg 4:1 — verloren. Hoefler-Abschied-Karriere-Highlight unterschaetzt.",
+      "gewinn_euro": -8.25,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-9",
+      "tipp_id": "bay-koe-2",
+      "spiel_id": "2026-05-16-bay-koe",
+      "spiel_label": "FC Bayern Muenchen - 1. FC Koeln",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.36,
+      "edge_prozent": 10,
+      "faire_quote": 1.24,
+      "empfohlener_einsatz_prozent": 1.0,
+      "einsatz_euro": 5.5,
+      "begruendung": "Markt-Goldgrube Ueber 2.5 Tore. Bayern-Heim Schnitt + Meisterfeier-Routine-Tor-Festival historisch (3+ Tore in 80% letzter Meisterfeier-Heimspiele Bayern). Stake 1.0%.",
+      "rang": 9,
+      "status": "gewonnen",
+      "kommentar": "Ueber 2.5 Bayern-Koeln: 5:1 = 6 Tore — gewonnen. Meisterfeier-Tor-Festival voll.",
+      "gewinn_euro": 1.98,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-10",
+      "tipp_id": "mun-nfo-1",
+      "spiel_id": "2026-05-17-mun-nfo",
+      "spiel_label": "Manchester United - Nottingham Forest",
+      "kategorie": "value",
+      "markt": "Doppelte Chance 1X (Manchester United oder Unentschieden)",
+      "quote": 1.25,
+      "edge_prozent": 9,
+      "faire_quote": 1.15,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "Markt-Goldgrube DC 1X (82.4% Hit). Mapper-Hebel C downgrade SAFE -> VALUE da MD37-Saisonende-Konfiguration. Lesson 10.05. PL-Sieg-Cluster max wackel-Filter trifft fuer DC nicht ganz. Stake 1.5%.",
+      "rang": 10,
+      "status": "offen",
+      "kommentar": "Spiel 17.05. — noch nicht angepfiffen.",
+      "gewinn_euro": 0,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-11",
+      "tipp_id": "sev-rma-1",
+      "spiel_id": "2026-05-17-sev-rma",
+      "spiel_label": "Sevilla FC - Real Madrid CF",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen JA",
+      "quote": 1.7,
+      "edge_prozent": 13,
+      "faire_quote": 1.5,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "Real-Defense-Lazarett (Militao+Mendy+Carvajal out) + Sevilla-Heim-Form-Knick (3:2 Villarreal) + Real-Sturm-Vollgas (Mbappe+Vinicius). Wincomparator zeigt 69.58% BTTS-Wahrscheinlichkeit. Stake 1.5%.",
+      "rang": 11,
+      "status": "offen",
+      "kommentar": "Spiel 17.05. — noch nicht angepfiffen.",
+      "gewinn_euro": 0,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kategorie": "safe",
+      "gesamtquote": 2.5,
+      "einsatz_euro": 11.0,
+      "status": "verloren",
+      "gewinn_euro": -11.0,
+      "beine_status": [
+        {
+          "spiel_id": "2026-05-17-bar-bet",
+          "markt": "Doppelte Chance 1X (Barcelona oder Unentschieden)",
+          "quote": 1.08,
+          "status": "offen"
+        },
+        {
+          "spiel_id": "2026-05-16-che-mci",
+          "markt": "Doppelte Chance X2 (Manchester City oder Unentschieden)",
+          "quote": 1.27,
+          "status": "gewonnen"
+        },
+        {
+          "spiel_id": "2026-05-16-fch-m05",
+          "markt": "Doppelte Chance 1X (Heidenheim oder Unentschieden)",
+          "quote": 1.4,
+          "status": "verloren"
+        },
+        {
+          "spiel_id": "2026-05-16-sge-vfb",
+          "markt": "Doppelte Chance X2 (Stuttgart oder Unentschieden)",
+          "quote": 1.3,
+          "status": "gewonnen"
+        }
+      ]
+    },
+    {
+      "kategorie": "balance",
+      "gesamtquote": 7.31,
+      "einsatz_euro": 4.4,
+      "status": "verloren",
+      "gewinn_euro": -4.4,
+      "beine_status": [
+        {
+          "spiel_id": "2026-05-16-che-mci",
+          "markt": "Erling Haaland trifft",
+          "quote": 2.1,
+          "status": "verloren"
+        },
+        {
+          "spiel_id": "2026-05-17-atm-gir",
+          "markt": "Alexander Soerloth trifft",
+          "quote": 2.4,
+          "status": "offen"
+        },
+        {
+          "spiel_id": "2026-05-17-pfc-psg",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.45,
+          "status": "offen"
+        }
+      ]
+    },
+    {
+      "kategorie": "risk",
+      "gesamtquote": 6.83,
+      "einsatz_euro": 1.4,
+      "status": "verloren",
+      "gewinn_euro": -1.4,
+      "beine_status": [
+        {
+          "spiel_id": "2026-05-17-atm-gir",
+          "markt": "Sieg Atletico Madrid",
+          "quote": 1.35,
+          "status": "offen"
+        },
+        {
+          "spiel_id": "2026-05-17-sev-rma",
+          "markt": "Vinicius Junior trifft",
+          "quote": 2.2,
+          "status": "offen"
+        },
+        {
+          "spiel_id": "2026-05-16-sge-vfb",
+          "markt": "Ermedin Demirovic trifft",
+          "quote": 2.3,
+          "status": "verloren"
+        }
+      ]
+    },
+    {
+      "kategorie": "moonshot",
+      "gesamtquote": 310.8,
+      "einsatz_euro": 0.55,
+      "status": "verloren",
+      "gewinn_euro": -0.55,
+      "beine_status": [
+        {
+          "spiel_id": "2026-05-16-brm-bvb",
+          "markt": "Serhou Guirassy trifft",
+          "quote": 2.05,
+          "status": "gewonnen"
+        },
+        {
+          "spiel_id": "2026-05-16-fch-m05",
+          "markt": "Marvin Pieringer trifft",
+          "quote": 2.5,
+          "status": "verloren"
+        },
+        {
+          "spiel_id": "2026-05-17-pfc-psg",
+          "markt": "Bradley Barcola trifft",
+          "quote": 2.5,
+          "status": "offen"
+        },
+        {
+          "spiel_id": "2026-05-16-stp-wob",
+          "markt": "Sieg St. Pauli",
+          "quote": 2.75,
+          "status": "verloren"
+        },
+        {
+          "spiel_id": "2026-05-17-nba-det-cle",
+          "markt": "Sieg Detroit Pistons",
+          "quote": 1.65,
+          "status": "offen"
+        },
+        {
+          "spiel_id": "2026-05-16-scf-rbl",
+          "markt": "Unter 2.5 Tore",
+          "quote": 2.0,
+          "status": "verloren"
+        },
+        {
+          "spiel_id": "2026-05-17-mun-nfo",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.62,
+          "status": "offen"
+        },
+        {
+          "spiel_id": "2026-05-17-atm-gir",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.65,
+          "status": "offen"
+        }
+      ]
+    }
+  ],
+  "ausgewertet_am": "2026-05-17T08:21:26+02:00",
+  "bilanz_tag": {
+    "einzeltipps_gewonnen": 6,
+    "einzeltipps_verloren": 3,
+    "einzeltipps_offen": 2,
+    "einzeltipps_einsatz_entschieden": 68.75,
+    "einzeltipps_gewinn_netto": 0.49,
+    "kombis_gewonnen": 0,
+    "kombis_verloren": 4,
+    "kombis_offen": 0,
+    "kombis_einsatz_entschieden": 17.35,
+    "kombis_gewinn_netto": -17.35,
+    "tag_gewinn_netto": -16.86
+  }
+}
