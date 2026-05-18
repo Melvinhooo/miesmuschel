@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS = {
+{
   "datum": "2026-05-18",
   "erstellt_am": "2026-05-18T14:50:00+02:00",
   "hinweis": "Montag 18.05.2026 - WATCHDOG-RECOVERY (Hauptroutine 16:00 nicht durchgelaufen). Spiel-armer Tag nach Saisonende-Wochenende: nur 2 Top-Spiele. (1) Arsenal-Burnley 21:00 Premier League MD37 - Arsenal kann mit Sieg + City-Patzer PL-Titel klarmachen (22-Jahre-Wait), Burnley seit 22.04. abgestiegen. (2) NBA WCF Game 1 Spurs-Thunder ab 02:30 (Di) - 1. Spiel der Western Conference Finals. Kasse 550 EUR (Stufe 1). NBA-Playoffs NIE SAFE (Hebel B) + Player-Punkte-Boykott aktiv. PL nicht in Liga-Goldgrube (nur EL-HF-Rueck/NBA-G2/CL-HF-Hin) -> SAFE-DC im PL waere VALUE-Downgrade, deshalb hier direkter Sieg/Tor-Total/Torschuetzen-Approach. Form-Edge Gyokeres (14 PL-Tore Saison, 21 alle Wettbewerbe) -> Torschuetzen PFLICHT pro Hebel-Regel 4. Mit 2 Spielen sind Kombis stark begrenzt (Layer-1 max 1 Bein/Spiel): nur 2 Kombis statt 4 (Safe-Mini + Balance), kein Moonshot moeglich.",
@@ -329,4 +328,4 @@ window.__MIESMUSCHEL_TIPPS = {
     "Watchdog-Recovery-Modus: Hauptroutine 16:00 nicht durchgelaufen, Generation jetzt um 14:50 (also vor 17:15 Watchdog-Standard - frueher als geplant, da File schon fehlte)."
   ],
   "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
-};
+}
