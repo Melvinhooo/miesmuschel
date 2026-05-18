@@ -1,0 +1,206 @@
+{
+  "datum": "2026-05-18",
+  "erstellt_am": "2026-05-18T10:30:00+00:00",
+  "modus": "tag",
+  "hinweis": "Recherche-Daten Montag 18.05.2026 (Mo-Fr Variante - Pre-Tipps-Datenbasis fuer Tipps-Slot 13:30 Berlin). Sehr ruhiger Tag in Europa: einziges Top-Liga-Spiel ist Arsenal vs Burnley (PL MD37, Montag-Abend 21:00 Berlin, Emirates Stadium). Bundesliga RUHT (Saison gestern beendet - Bayern Meister, Wolfsburg/Heidenheim/St. Pauli abgestiegen). LaLiga/Serie A pausieren bis MD38 am Samstag 23.05.; Ligue 1 ist beendet. UEFA-Wettbewerbe: keine Spiele heute, aber Europa-League-Finale 20.05. (Mittwoch) und Conference-League-Finale 27.05. + CL-Finale 30.05. Budapest (Arsenal vs PSG) stehen an. NBA-Highlight: Western Conference Finals Game 1 OKC Thunder vs San Antonio Spurs (Paycom Center, 20:30 ET = Dienstag 02:30 Berlin). Wembanyama vs SGA = MVP vs DPOY. East Conference Finals starten ab Mittwoch 20.05. (Pistons besiegten Cavs gestern 119-99 in G7, treffen auf Knicks). Recherche fokussiert auf die 2 Tipps-relevanten Spiele heute. PARALLELE WETTBEWERBE: Arsenal CL-Finale 30.05. vs PSG = 12 Tage Pause, kein Rotations-Risiko fuer Burnley-Spiel (Titelrennen-Druck dominiert da ManCity 2 Pkt zurueck mit Spiel in der Hand morgen). Burnley = bereits abgestiegen, kein Saisonziel, kein UEFA. PL-Titelrennen: Arsenal 79 Pkt vs ManCity 77 Pkt (beide MD37 noch zu spielen - Arsenal heute, ManCity morgen Bournemouth A). Arsenal koennen Titel diese Woche klar machen. KASSE-Stand 04.05.2026: 550 EUR -> Stufe 1 (Aufbau-Phase) aktiv (Kasse < 1000 EUR). 2:0-Insurance-Regel gilt fuer BL+CL: heute KEIN BL und kein CL-Spiel -> Insurance heute NICHT anwendbar. NBA-Markt-Verbote DE: Einzel-Rebounds (Wembanyama Reb), Einzel-Assists (Castle), Einzel-3er (Vassell), PRA (Hartenstein 18.5) duerfen NICHT als Tipp empfohlen werden - sind hier nur dokumentiert. bet365-Quoten via Aggregator (Sportsgambler, SI, NBC Sports, Sofascore, Covers) US-Format-Konversion; bei Wettzeit live pruefen. NIE Spielernamen erfunden - Squad-Listen ausschliesslich aus zitierten Vorbericht/Lineup-Quellen.",
+  "spiele": [
+    {
+      "id": "2026-05-18-ars-bur",
+      "liga": "Premier League",
+      "matchday": 37,
+      "heim": "Arsenal",
+      "gast": "Burnley",
+      "anstoss": "2026-05-18T21:00:00+02:00",
+      "anstoss_lokal_uk": "2026-05-18T20:00:00+01:00",
+      "anstoss_utc": "2026-05-18T19:00:00Z",
+      "stadion": "Emirates Stadium, London",
+      "schiedsrichter": "Paul Tierney (VAR: James Bell)",
+      "squad_heim": [
+        {"name": "David Raya", "position": "TW", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/arsenal-vs-burnley-prediction-lineups-odds-2026-05-18/"},
+        {"name": "Cristhian Mosquera", "position": "RV", "verifiziert_via": "https://eplindex.com/146543/arsenal-starting-xi-v-burnley-confirmed-team-news-and-predicted-lineup.html", "hinweis": "Ersatz fuer Ben White (Saison-Aus) und Timber (verletzt)"},
+        {"name": "William Saliba", "position": "IV", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/arsenal-vs-burnley-prediction-lineups-odds-2026-05-18/"},
+        {"name": "Gabriel", "position": "IV", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/arsenal-vs-burnley-prediction-lineups-odds-2026-05-18/"},
+        {"name": "Riccardo Calafiori", "position": "LV", "verifiziert_via": "https://eplindex.com/146543/arsenal-starting-xi-v-burnley-confirmed-team-news-and-predicted-lineup.html", "hinweis": "Fitness-Doubt - ging gegen West Ham zur Halbzeit raus; falls Ausfall ruckt Piero Hincapie auf LV"},
+        {"name": "Declan Rice", "position": "DM", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/arsenal-vs-burnley-prediction-lineups-odds-2026-05-18/"},
+        {"name": "Myles Lewis-Skelly", "position": "ZM", "verifiziert_via": "https://eplindex.com/146543/arsenal-starting-xi-v-burnley-confirmed-team-news-and-predicted-lineup.html", "hinweis": "Bekommt Vorzug vor Zubimendi laut EPL-Index"},
+        {"name": "Bukayo Saka", "position": "RF", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/arsenal-vs-burnley-prediction-lineups-odds-2026-05-18/"},
+        {"name": "Martin Odegaard", "position": "OM", "verifiziert_via": "https://eplindex.com/146543/arsenal-starting-xi-v-burnley-confirmed-team-news-and-predicted-lineup.html", "hinweis": "Captain, Rueckkehr nach 3 Wochen Pause - koennte starten oder Eberechi Eze startet stattdessen (SI nennt Eze als Starter)"},
+        {"name": "Leandro Trossard", "position": "LF", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/arsenal-vs-burnley-prediction-lineups-odds-2026-05-18/"},
+        {"name": "Viktor Gyoekeres", "position": "ST", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/arsenal-vs-burnley-prediction-lineups-odds-2026-05-18/", "hinweis": "Hauptzielspieler Torschuetzen-Markt, schlaegt Havertz fuer Starting-Platz"}
+      ],
+      "squad_gast": [
+        {"name": "Max Weiss", "position": "TW", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/arsenal-vs-burnley-prediction-lineups-odds-2026-05-18/"},
+        {"name": "Kyle Walker", "position": "RV", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/arsenal-vs-burnley-prediction-lineups-odds-2026-05-18/"},
+        {"name": "Axel Tuanzebe", "position": "IV", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/arsenal-vs-burnley-prediction-lineups-odds-2026-05-18/"},
+        {"name": "Maxime Esteve", "position": "IV", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/arsenal-vs-burnley-prediction-lineups-odds-2026-05-18/"},
+        {"name": "Lucas Pires", "position": "LV", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/arsenal-vs-burnley-prediction-lineups-odds-2026-05-18/"},
+        {"name": "Florentino Luis", "position": "DM", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/arsenal-vs-burnley-prediction-lineups-odds-2026-05-18/"},
+        {"name": "Lesley Ugochukwu", "position": "DM", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/arsenal-vs-burnley-prediction-lineups-odds-2026-05-18/"},
+        {"name": "Hannibal Mejbri", "position": "ZM/OM", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/arsenal-vs-burnley-prediction-lineups-odds-2026-05-18/", "hinweis": "Doubt laut SI - falls Ausfall, Amdouni rueckt auf 10er"},
+        {"name": "Loum Tchaouna", "position": "RF", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/arsenal-vs-burnley-prediction-lineups-odds-2026-05-18/"},
+        {"name": "Jaidon Anthony", "position": "LF", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/arsenal-vs-burnley-prediction-lineups-odds-2026-05-18/"},
+        {"name": "Zian Flemming", "position": "ST", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/arsenal-vs-burnley-prediction-lineups-odds-2026-05-18/", "hinweis": "Burnley-Hauptzielspieler Torschuetzen-Markt"}
+      ],
+      "injuries_heim": [
+        "Ben White (Knie, OUT bis 20.07. - Saison-Aus)",
+        "Jurrien Timber (Sprunggelenk, OUT, erwartete Rueckkehr 24.05.)",
+        "Mikel Merino (Fuss, OUT, erwartete Rueckkehr 24.05.)",
+        "Karl Hein (Hand, OUT - kein Rueckkehr-Datum)",
+        "Riccardo Calafiori (Fitness-Doubt, Halbzeitwechsel gegen West Ham)"
+      ],
+      "injuries_gast": [
+        "Josh Cullen (Kreuzband, OUT bis 19.09.2026)",
+        "Jordan Beyer (Knie, OUT - kein Datum)",
+        "Connor Roberts (OUT)",
+        "Hannibal Mejbri (Doubt laut SI)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "CL-Finale 30.05.2026 vs PSG in Budapest (12 Tage Pause) - kein akutes Rotations-Risiko (Titelrennen aktiv, ManCity 2 Pkt zurueck mit Spiel in der Hand morgen)",
+        "gast": "keine - kein europaeischer Wettbewerb diese Saison, bereits abgestiegen",
+        "quellen": ["https://en.wikipedia.org/wiki/2026_UEFA_Champions_League_final", "https://www.arsenal.com/tickets/arsenal/2026-May-30/paris-saint-germain"]
+      },
+      "saisonziel_heim": "PL-Titel 2026 (79 Pkt vor MC 77 Pkt mit beiden noch MD37+MD38 offen) + CL-Finale 30.05.; erste Meisterschaft seit 2003/04 Invincibles",
+      "saisonziel_gast": "bereits abgestiegen (Platz 19, 21 Pkt), Championship 2026/27 - kein Saisonziel mehr, reines Ehre-Wahren",
+      "tabellenstand": {"heim_platz": 1, "heim_pkt": 79, "heim_spiele": 36, "gast_platz": 19, "gast_pkt": 21, "gast_spiele": 36, "quelle": "https://www.sportsgambler.com/betting-tips/football/arsenal-vs-burnley-prediction-lineups-odds-2026-05-18/"},
+      "form_heim_letzte_5": "S-S-S-U-S (Win West Ham 2:1, Win Atletico CL 1:0, Win Fulham, Draw Atletico CL 0:0, Win Newcastle)",
+      "form_gast_letzte_5": "N-N-N-N-U (Draw Aston Villa 2:2, sonst Niederlagen gegen Leeds/City/Forest/Brighton)",
+      "form_heim_letzte_10_heim": "8S-1U-1N (laut Sportsgambler)",
+      "form_gast_letzte_10_auswaerts": "1S-3U-6N (laut Sportsgambler)",
+      "h2h_letzte_10": "Arsenal 6 Siege, 3 Unentschieden, Burnley 1 Sieg; Arsenal 14 von 19 PL-Duellen gewonnen; ungeschlagen in 44 Spielen gegen Aufsteiger",
+      "recovery_heim": "7 Tage seit West-Ham-Sieg 11.05. (2:1 daheim) - sehr frisch",
+      "recovery_gast": "8 Tage seit Aston-Villa-Unentschieden 10.05. (2:2 daheim) - frisch",
+      "quoten": {
+        "bet365_aggregator": {
+          "sieg_heim": 1.10,
+          "draw": 9.50,
+          "sieg_gast": 20.00,
+          "ueber_2_5": 1.41,
+          "unter_2_5": 2.88,
+          "btts_ja": 2.50,
+          "btts_nein": 1.48,
+          "asian_handicap": "Arsenal -2.5 standard ueblich",
+          "ueber_3_5_geschaetzt": 1.80,
+          "unter_3_5_geschaetzt": 2.00,
+          "torschuetzen_jederzeit_geschaetzt": {"Gyoekeres": 1.45, "Saka": 1.85, "Trossard": 2.25, "Odegaard": 2.75, "Eze": 3.00, "Martinelli": 3.25, "Havertz_als_Sub": 3.50, "Flemming_Burnley": 6.50, "Anthony_Burnley": 9.00}
+        },
+        "fair_line_basis_prozent": {"sieg_heim": 91, "draw": 7, "sieg_gast": 4},
+        "hinweis": "Sportsgambler nennt US-Format: -1000 Heim = 1.10 Dezimal, +850 Draw = 9.50, +1900 Gast = 20.00. Sofascore-Asian-Handicap Arsenal -2.5 zeigt deutliche Quoten-Disparitaet. Torschuetzen-Quoten sind Schaetzwerte aus typischen Aufsteiger-Heim-Quoten - bei bet365 live pruefen."
+      },
+      "news_kompakt": [
+        "Arsenal-Titelrennen: 2 Pkt vor ManCity (77 Pkt, spielt morgen Bournemouth A); Arsenal kann mit Sieg heute Druck maximieren",
+        "Burnley bereits abgestiegen, keine Saison-Motivation - schlechte Auswaerts-Bilanz (1S-3U-6N letzte 10)",
+        "Arsenal-Heim-Festung: 8 Siege in letzten 10 PL-Heimspielen am Emirates",
+        "Calafiori-Doubt (HZ-Auswechslung gegen West Ham) - Hincapie steht bereit als Backup-LV",
+        "Odegaard-Comeback nach 3 Wochen Pause moeglich (oder Eze startet wieder); Mosquera vertritt Timber/White auf RV",
+        "Asymmetrie maximal: Titelchance vs nichts mehr zu spielen - typisches Aufsteiger-Schlachtfest-Setup",
+        "CL-Finale 30.05. = 12 Tage entfernt -> Arteta wird heute volles Team aufstellen (Titel-Druck dominiert)"
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/arsenal-vs-burnley-prediction-lineups-odds-2026-05-18/",
+        "https://www.si.com/soccer/arsenal-vs-burnley-preview-predictions-lineups-5-18-26",
+        "https://eplindex.com/146543/arsenal-starting-xi-v-burnley-confirmed-team-news-and-predicted-lineup.html",
+        "https://www.sofascore.com/news/arsenal-vs-burnley-two-wins-away-from-the-history",
+        "https://en.wikipedia.org/wiki/2026_UEFA_Champions_League_final"
+      ]
+    },
+    {
+      "id": "2026-05-18-okc-sas",
+      "liga": "NBA Playoffs - Western Conference Finals - Game 1",
+      "matchday": "WCF Game 1 (Best-of-7)",
+      "heim": "Oklahoma City Thunder",
+      "gast": "San Antonio Spurs",
+      "anstoss": "2026-05-19T02:30:00+02:00",
+      "anstoss_lokal_et": "2026-05-18T20:30:00-04:00",
+      "stadion": "Paycom Center, Oklahoma City",
+      "broadcast": "NBC / Peacock",
+      "series_stand_vor_g1": "0-0 (Eroeffnung)",
+      "wcf_kontext": "Thunder (1. Seed, 64-18 Regular Season) vs Spurs (2. Seed, 62-20 Regular Season). Thunder 8-0 in den Playoffs (Sweep Phoenix R1 + Sweep Lakers R2). Spurs Regulaer-Saison-Serie 4-1 gegen OKC.",
+      "key_player_heim_starting": [
+        {"name": "Shai Gilgeous-Alexander", "position": "PG", "rolle": "MVP (zweimal in Folge), Volume-Scorer Floor-General", "verifiziert_via": "https://www.nbcsports.com/nba/news/thunder-vs-spurs-game-1-wcfw-predictions-odds-recent-stats-trends-and-best-bets-for-may-18"},
+        {"name": "Luguentz Dort", "position": "SG", "rolle": "Top-Wing-Defender", "verifiziert_via": "https://www.nbcsports.com/nba/news/thunder-vs-spurs-game-1-wcfw-predictions-odds-recent-stats-trends-and-best-bets-for-may-18"},
+        {"name": "Jalen Williams", "position": "SF", "rolle": "Zweiter Scorer, Hamstring probable", "verifiziert_via": "https://www.nbcsports.com/nba/news/thunder-vs-spurs-game-1-wcfw-predictions-odds-recent-stats-trends-and-best-bets-for-may-18"},
+        {"name": "Chet Holmgren", "position": "PF", "rolle": "Stretch-Big, R2 20 Pkt + 8.5 Reb avg", "verifiziert_via": "https://www.nbcsports.com/nba/news/thunder-vs-spurs-game-1-wcfw-predictions-odds-recent-stats-trends-and-best-bets-for-may-18"},
+        {"name": "Isaiah Hartenstein", "position": "C", "rolle": "Inside-Praesenz, Rebounding", "verifiziert_via": "https://www.nbcsports.com/nba/news/thunder-vs-spurs-game-1-wcfw-predictions-odds-recent-stats-trends-and-best-bets-for-may-18"}
+      ],
+      "key_player_heim_bench": [
+        {"name": "Alex Caruso", "position": "G", "rolle": "Defense/Glue", "verifiziert_via": "https://www.nbcsports.com/nba/news/thunder-vs-spurs-game-1-wcfw-predictions-odds-recent-stats-trends-and-best-bets-for-may-18"},
+        {"name": "Ajay Mitchell", "position": "G", "rolle": "Scorer-Bench (Prop O 12.5p -129)", "verifiziert_via": "https://www.si.com/betting/spurs-vs-thunder-prediction-odds-and-best-prop-bets-for-nba-playoffs-game-1"},
+        {"name": "Aaron Wiggins", "position": "G/F", "rolle": "Wing-Bench", "verifiziert_via": "https://www.nba.com/playoffs/2026/west-final"}
+      ],
+      "key_player_gast_starting": [
+        {"name": "De'Aaron Fox", "position": "PG", "rolle": "Star-Guard, fraglich wegen Ankle (Right ankle soreness)", "verifiziert_via": "https://www.nbcsports.com/nba/news/thunder-vs-spurs-game-1-wcfw-predictions-odds-recent-stats-trends-and-best-bets-for-may-18"},
+        {"name": "Stephon Castle", "position": "SG", "rolle": "Playmaker/Scorer, 6.1 Ast/g Playoffs", "verifiziert_via": "https://www.nbcsports.com/nba/news/thunder-vs-spurs-game-1-wcfw-predictions-odds-recent-stats-trends-and-best-bets-for-may-18"},
+        {"name": "Devin Vassell", "position": "SG/SF", "rolle": "3-Punkt-Spezialist (37.2% Karriere, aktuell 32.3%)", "verifiziert_via": "https://www.nbcsports.com/nba/news/thunder-vs-spurs-game-1-wcfw-predictions-odds-recent-stats-trends-and-best-bets-for-may-18"},
+        {"name": "Julian Champagnie", "position": "PF", "rolle": "Wing-Forward Starter", "verifiziert_via": "https://www.nbcsports.com/nba/news/thunder-vs-spurs-game-1-wcfw-predictions-odds-recent-stats-trends-and-best-bets-for-may-18"},
+        {"name": "Victor Wembanyama", "position": "C", "rolle": "DPOY 2026, 20.3 Pkt / 10.7 Reb / 4.1 Blk in Playoffs", "verifiziert_via": "https://www.nbcsports.com/nba/news/thunder-vs-spurs-game-1-wcfw-predictions-odds-recent-stats-trends-and-best-bets-for-may-18"}
+      ],
+      "injuries_heim": [
+        "Jalen Williams (Hamstring, probable - vom Injury-Report runter, voll spielfaehig)",
+        "Thomas Sorber (Knie, OUT)"
+      ],
+      "injuries_gast": [
+        "De'Aaron Fox (Right ankle soreness, questionable)",
+        "Luke Kornet (Linker Fuss, questionable)",
+        "David Jones Garcia (Sprunggelenk, OUT)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "WCF-Serie laeuft - Game 2 Mi 20.05. (Heim) - hohes Game-1-Gewicht",
+        "gast": "WCF-Serie laeuft - selbe Spiele",
+        "quellen": ["https://www.nba.com/playoffs/2026/west-final"]
+      },
+      "saisonziel_heim": "NBA-Championship - Top-Seed, MVP-Saison von SGA, 8-0 in Playoffs; klare Favoriten-Rolle gegen Wemby/Spurs",
+      "saisonziel_gast": "Erstes WCF-Trip fuer Wembanyama-Aera - 2. Seed, dominanter Center-Spieler, Underdog mit Regulaer-Saison-Edge gegen OKC",
+      "form_heim_post_season": "8-0 Sweep (Phoenix R1, Lakers R2); +16 Pkt avg Sieg-Marge",
+      "form_gast_post_season": "Erfolg vs hoher Seed-Konkurrenz; Wembanyama hat 2 Spiele verletzt verlassen (Boden gut wenn fit)",
+      "regular_season_h2h": "Spurs 4-1 (incl. 11.75 Pkt avg Sieg-Marge) - groesste Sorge fuer OKC trotz Top-Seed",
+      "quoten": {
+        "bet365_aggregator": {
+          "moneyline_heim": 1.41,
+          "moneyline_gast": 3.00,
+          "spread_heim_minus_6_5": 1.91,
+          "spread_gast_plus_6_5": 1.95,
+          "total_over_219_5": 1.91,
+          "total_under_219_5": 1.91,
+          "alt_total_open_217_5": "Eroeffnung",
+          "spielerpunkte_top": {
+            "Shai_Gilgeous_Alexander_Over_30_5": 1.91,
+            "Victor_Wembanyama_Over_22_5": 1.91,
+            "Chet_Holmgren_Over_19_5": 1.91,
+            "Jalen_Williams_Over_18_5": 1.91,
+            "Stephon_Castle_Over_18_5": 1.91,
+            "De_Aaron_Fox_Over_17_5_wenn_spielt": 1.91,
+            "Ajay_Mitchell_Over_12_5": 1.78
+          },
+          "verboten_in_de_nur_dokumentation": {
+            "Wembanyama_12_plus_Rebounds_minus173": 1.58,
+            "Wembanyama_13_plus_Rebounds_minus117": 1.85,
+            "Wembanyama_14_plus_Rebounds_plus126": 2.26,
+            "Wembanyama_15_plus_Rebounds_plus186": 2.86,
+            "Stephon_Castle_Over_5_5_Assists_minus160": 1.63,
+            "Devin_Vassell_Over_2_5_3pt_made_plus150": 2.50,
+            "Hartenstein_Over_18_5_PRA_minus120": 1.83
+          }
+        },
+        "fair_line_basis_prozent": {"sieg_heim": 71, "sieg_gast": 29},
+        "hinweis": "DraftKings nennt OKC -245 ML / -6.5 / 219.5 (eroeffnet 217.5). Spielerpunkte sind Schaetzwerte basierend auf Saisonschnitt + Playoff-Form (z.B. SGA Playoff-Avg ca 29-31 Pkt, Wemby 20.3, Holmgren 20 in R2). Live bei bet365 verifizieren. NBA-Markt-Verbote DE: Einzel-Rebounds/Assists/3er-Wuerfe und PRA-Kombos NICHT als Tipp setzen - im Aggregator-Block 'verboten_in_de' nur zur Dokumentation."
+      },
+      "news_kompakt": [
+        "Erstes WCF fuer Victor Wembanyama (DPOY 2026) gegen MVP SGA - generationale Star-Power-Matchup",
+        "Spurs Regulaer-Saison-Edge 4-1 gegen OKC (11.75 Pkt avg) - 70% des Geldes auf Spurs trotz 80% Public-Tickets fuer OKC",
+        "Thunder 8-0 in Playoffs (Sweeps Phoenix + Lakers), +16 Pkt avg Marge - frischeste Mannschaft",
+        "Fox-Status entscheidend - Ankle questionable. Falls OUT/limited: Spurs verlieren Sekundaer-Scorer",
+        "Hartenstein-Edge im Paint wenn Wemby auf Holmgren konzentriert - aber Hartenstein-Prop verboten in DE",
+        "Game 1 historisch entscheidend: Higher-Seed-Heimsieg in G1 = 75%+ Serien-Sieg-Wahrscheinlichkeit",
+        "WCF-Sieger trifft im NBA-Finale auf ECF-Sieger (Knicks vs Pistons ab 20.05.)"
+      ],
+      "quellen_aggregator": [
+        "https://www.nbcsports.com/nba/news/thunder-vs-spurs-game-1-wcfw-predictions-odds-recent-stats-trends-and-best-bets-for-may-18",
+        "https://www.si.com/betting/spurs-vs-thunder-prediction-odds-and-best-prop-bets-for-nba-playoffs-game-1",
+        "https://www.covers.com/nba/spurs-vs-thunder-props-best-bets-monday-5-18-2026",
+        "https://bettorsinsider.com/nba/2026/05/18/okc-thunder-vs-san-antonio-spurs-game-1-prediction-wembanyamas-first-western-finals-test/",
+        "https://www.nba.com/playoffs/2026/west-final",
+        "https://www.espn.com/nba/game/_/gameId/401873197/spurs-thunder"
+      ]
+    }
+  ]
+}
