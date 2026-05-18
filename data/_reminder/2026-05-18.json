@@ -1,0 +1,55 @@
+{
+  "datum": "2026-05-18",
+  "typ": "2-wochen-vorschau-review",
+  "zweck": "Reminder-Audit: nach ~17 Tagen Wochenend-/Wochen-Vorschauen Performance vs Tagestipps pruefen.",
+  "trigger": "Anthropic-Cloud-Session (Claude Code on Web)",
+  "push_status": "Direkt-Push 403 Forbidden (Apple Host nicht in allowlist) - kein Action-Fallback moeglich da data/tipps/2026-05-18.json noch nicht existiert (Tagestipp-Routine laeuft erst spaeter heute).",
+  "bilanz": {
+    "zeitraum": "2026-05-02 bis 2026-05-17 (Vorschauen anchor) bzw 2026-05-04 bis 2026-05-17 (Wochen-Anker)",
+    "wochenende_vorschau": {
+      "dateien_ausgewertet": ["2026-05-09.json", "2026-05-16.json"],
+      "dateien_skip": ["2026-05-02.json (alle Tipps via kontext_check FAIL gedroppt)"],
+      "tipps_in_vorschau": 47,
+      "im_tagesdossier_gefunden": 22,
+      "tipps_unbewertet": 25,
+      "gewonnen": 7,
+      "verloren": 15,
+      "push": 0,
+      "trefferquote_prozent": 31.8,
+      "roi_prozent": -46.0,
+      "kommentar": "Sample 22 - klein aber massiv unter Tagestipps-ROI. Hauptgrund: Wochenend-Vorschau 09.05. ROI -60.6% (5W/13V) gezogen vom Wolfsburg-Bayern-DC- und Player-Goalscorer-Setup das in der finalen Tag-Auswahl groessenteils gedroppt wurde."
+    },
+    "woche_vorschau": {
+      "dateien_ausgewertet": ["2026-05-04.json", "2026-05-11.json"],
+      "dateien_skip": ["2026-05-18.json (laeuft noch, Mo-So aktuell)"],
+      "tipps_in_vorschau": 41,
+      "im_tagesdossier_gefunden": 10,
+      "tipps_unbewertet": 31,
+      "gewonnen": 6,
+      "verloren": 4,
+      "push": 0,
+      "trefferquote_prozent": 60.0,
+      "roi_prozent": 11.0,
+      "kommentar": "Sample 10 - sehr klein aber leicht ueber Tagestipps-ROI. Hohe Drop-Quote (31/41 Vorschau-Tipps tauchen nicht im Tagesdossier auf) deutet darauf hin dass die Wochen-Vorschau eher Stimmungsbild als verbindliche Auswahl ist."
+    },
+    "tagestipps_vergleich_30d": {
+      "tipps": 236,
+      "gewonnen": 130,
+      "verloren": 97,
+      "trefferquote_prozent": 57.3,
+      "roi_prozent": 9.4
+    },
+    "diff": {
+      "wochenende_vs_tag_pp": -55.4,
+      "woche_vs_tag_pp": 1.6
+    },
+    "empfehlung": "Option B (separate ergebnisse_wochenende/ + ergebnisse_woche/ + eigene Statistik) noch NICHT zwingend - Sample-Groessen 22 bzw 10 sind viel zu klein fuer belastbare Aussage. Empfehlung: 4 weitere Wochen sammeln bis n>=80, dann separater Build sinnvoll. Falls Wochenende-ROI auch bei n=80+ deutlich negativ bleibt, ist Option B die richtige Konsequenz."
+  },
+  "fallback_chain": [
+    "1. Direkt-Push aus Anthropic-Cloud → 403 Forbidden (Apple Allowlist)",
+    "2. Touch data/tipps/2026-05-18.json → Datei existiert nicht, Touch wuerde web-push.yml mit mode=tipps triggern aber Push-Body waere 'Neue Tipps verfuegbar' nicht 'Reminder' → falscher Content",
+    "3. Marker data/_reminder/2026-05-18.json (DIESE DATEI) → Audit-Trail, kein Push",
+    "4. workflow_dispatch maintenance.yml → spawn Claude-Subagent zu schwer fuer einfache Reminder",
+    "5. User sieht Bilanz im Chat (primaerer Kommunikationsweg)"
+  ]
+}
