@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-05-17T06:22:57+00:00",
+  "letzte_berechnung": "2026-05-18T06:25:19+00:00",
   "gesamt": {
     "tipps": 236,
     "gewonnen": 130,
@@ -2987,6 +2987,77 @@ window.__MIESMUSCHEL_STAT = {
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-05-17",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "kombi-safe",
+          "kategorie": "safe",
+          "gesamtquote": 3.54,
+          "einsatz_prozent": 2.0,
+          "status": "gewonnen",
+          "beine": [
+            {
+              "markt": "Manchester United - Nottingham Forest: Bryan Mbeumo trifft (Jederzeit)",
+              "quote": 2.85,
+              "status": "gewonnen",
+              "kommentar": "Mbeumo trifft 76. zum 3:1."
+            },
+            {
+              "markt": "Club Atletico de Madrid - Girona FC: Doppelte Chance 1X (Atletico oder Unentschieden)",
+              "quote": 1.16,
+              "status": "gewonnen",
+              "kommentar": "Atletico 1:0-Sieg."
+            },
+            {
+              "markt": "FC Barcelona - Real Betis Balompie: Doppelte Chance 1X (Barcelona oder Unentschieden)",
+              "quote": 1.07,
+              "status": "gewonnen",
+              "kommentar": "Barca 3:1-Sieg."
+            }
+          ]
+        },
+        {
+          "name": "kombi-balance",
+          "kategorie": "balance",
+          "gesamtquote": 4.19,
+          "einsatz_prozent": 0.8,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Paris FC - Paris Saint-Germain: Ueber 2.5 Tore",
+              "quote": 1.55,
+              "status": "gewonnen",
+              "kommentar": "3 Tore - Ueber 2.5."
+            },
+            {
+              "markt": "Sevilla FC - Real Madrid CF: Beide Teams treffen JA",
+              "quote": 1.59,
+              "status": "verloren",
+              "kommentar": "Nur 1 Tor - BTTS NEIN."
+            },
+            {
+              "markt": "Athletic Club Bilbao - Celta Vigo: Beide Teams treffen JA",
+              "quote": 1.7,
+              "status": "gewonnen",
+              "kommentar": "BTTS JA (Swedberg + Williams)."
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-05-16",
       "gesamt": {

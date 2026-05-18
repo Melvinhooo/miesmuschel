@@ -1,5 +1,5 @@
 {
-  "notiz": "Lessons werden von Claude im Chat gepflegt (oder per Hand). Chronologisch, jede Lesson auf ein konkretes Spiel beziehen wenn moeglich. | 2026-05-14: +4 Lessons (Drehungs-Cluster + Saison-Verletzungs-Check-Pre-Match + Coinflip-Saisonende-Validierung + Top-Team-Pflicht-Final-7d-Schon) | 2026-05-15: +4 Lessons (Closeout-G6-Auswaerts-Blowout-Pattern + Sweep-Abwehr-Verfeinerung + Top-Team-Final-Schon-INVERS-bei-Karriere-Highlight + Korrelations-Schutz-Cap-Heim-Sieg-Cluster)",
+  "notiz": "Lessons werden von Claude im Chat gepflegt (oder per Hand). Chronologisch, jede Lesson auf ein konkretes Spiel beziehen wenn moeglich. | 2026-05-14: +4 Lessons (Drehungs-Cluster + Saison-Verletzungs-Check-Pre-Match + Coinflip-Saisonende-Validierung + Top-Team-Pflicht-Final-7d-Schon) | 2026-05-15: +4 Lessons (Closeout-G6-Auswaerts-Blowout-Pattern + Sweep-Abwehr-Verfeinerung + Top-Team-Final-Schon-INVERS-bei-Karriere-Highlight + Korrelations-Schutz-Cap-Heim-Sieg-Cluster) | 2026-05-18: +4 Lessons (Top-Team-B-Elf-CL-Final-Cluster + Karriere-Highlight-Tor-Markt-Verfeinerung + NBA-Game7-Heim-Underdog-Crash + Einwechslungs-Boost-Timing-Filter)",
   "lessons": [
     {
       "datum": "2026-04-22",
@@ -721,6 +721,30 @@
       "kategorie": "Einwechslungs-Boost-Trigger ohne Tipp - Bayern Jackson-Goretzka 82./83. (Quelle 8i)",
       "lesson": "EMPIRIE 16.05.: Bayern - Koeln 5:1, Bayern wechselt Jackson fuer Goretzka 82., Jackson trifft 83. = klassischer Einwechslungs-Boost-Trigger nach bet365-Regel (Spieler X raus, Y kommt rein, Y trifft - haette fuer X-Torschuetzen-Tipp gegolten). Aber Goretzka war KEIN Torschuetzen-Tipp im Dossier, also Boost griff nicht praktisch. SCAN-AUFTRAG: Top-Team-Hauptstuermer-Kandidaten mit Bank-Backup naechste Tipps-Generation aktiv pruefen - Bayern Kane (Jackson-Backup mit Volume), BVB Guirassy (Beier/Adeyemi-Backup), Stuttgart Demirovic (Undav-Backup), Frankfurt Marmoush (Ekitike-Backup), Real Mbappe (Endrick-Backup). Realisiert-Bestaetigt: Backup-Stuermer-Tor-Konversion bei Wechsel ~83. Min in Top-6-Teams im Mai 2026 = 3 Bestaetigungen (02.05. Olise-Sane Bayern, 13.05. Brandt-Sabitzer BVB, 16.05. Jackson-Goretzka Bayern). NEUE PRAXIS: bei Bayern/BVB-Torschuetzen-Tipps Hauptstuermer-Quote @ ~2.0 = automatisch hoeher gewichten dank Boost-Erweiterung der Tor-Conversion-Wahrscheinlichkeit auf Backup.",
       "bezug_spiel_id": "2026-05-16-bay-koe"
+    },
+    {
+      "datum": "2026-05-18",
+      "kategorie": "Top-Team-B-Elf-vor-CL-Final-CLUSTER (Quelle 8h Rotation-Pattern + 8a Korrelation)",
+      "lesson": "BEIDE CL-Finalisten am 30.05. (PSG + Inter) patzerten am 17.05. mit B-Elf-Rotation: PSG verlor 1:2 vs Aufsteiger Paris FC (Gory 76+90+4), Inter 1:1 vs Verona mit 90+2-Ausgleich Bowie. pfc-psg-1 DC X2 (PSG/Remis) @1.13 als value verloren - 'safe-nahe' Quote brutal kassiert. Lesson: bei einem CL-Finale in 7-14 Tagen werden BEIDE Finalisten in der Vor-Finale-Woche systematisch rotieren - Underdog-Sieg-Markt aktiv suchen (Paris FC ML @~7.0 wäre VALUE gewesen), Top-Team-Sieg-Markt komplett ausschließen. Zusätzlich: B-Elf-Schlussphasen-Crash in Min 80+ ist statistisch geh äuft (Bayern 02.05. 90+10, PSG 17.05. 90+4, Inter 17.05. 90+2) - bei B-Elf-Spielen Live-Quote-Beobachtung statt Pre-Match-Sieg-Tipp.",
+      "bezug_spiel_id": "2026-05-17-pfc-psg"
+    },
+    {
+      "datum": "2026-05-18",
+      "kategorie": "Karriere-Highlight-Tor-Markt auf GEEHRTEN ueberbewertet (Quelle 8h Rotation-Pattern)",
+      "lesson": "Lewandowski-Camp-Nou-Abschied: Tor-Festival 4 Tore + 3:1-Sieg + BTTS - ABER Lewa selbst kein Tor (83. fuer Casado raus, Casado MF, kein Einwechslungs-Boost). bar-bet-1 'Lewa trifft' @1.85 verloren. Griezmann-Atletico-Abschied (500 Spiele, 79. raus fuer Sorloth): Griezmann Assist auf Lookman, kein eigenes Tor. atm-gir-3 'Griezmann trifft' @2.65 verloren. Lesson 16.05. besagte Tor-These bei Karriere-Highlight - aber das gilt fuer DAS SPIEL (Ueber/BTTS), nicht zwingend fuer den GEEHRTEN selbst. Verfeinerung: Bei Karriere-Highlight (a) Ueber 2.5 + BTTS als VALUE auf das Spiel JA, (b) Torschuetzen-Tipp auf den Geehrten max WACKEL - speziell wenn Spielmacher (Griezmann) statt reiner Stuermer, oder wenn emotionale Auswechslung in 80er angekuendigt. Der Geehrte will gerne treffen, aber Mitspieler 'helfen' mit Vorlagen statt eigene Tore (siehe Mancini-Eckball heute Roma, Raphinha-Doppelpack Barca - keiner gibt Lewa den Ball gezielt fuer eigenes Tor).",
+      "bezug_spiel_id": "2026-05-17-bar-bet"
+    },
+    {
+      "datum": "2026-05-18",
+      "kategorie": "NBA-Game-7-Heim-Underdog-Komplett-Crash (Quelle 8g Markt-Pattern)",
+      "lesson": "Pistons-Cavs Game 7 @Detroit: Cavs 125:94 (-31!), HZ 47:64. ALLE 3 Pistons-Tipps verloren: det-cle-1 Pistons Sieg @1.74 verloren, det-cle-2 Unter 215.5 @1.9 verloren (Total 219 - Cavs ueber Tempo), det-cle-3 Cunningham Ueber 25.5 @1.8 verloren (nur 13 Pkt). Pattern verfeinert Lesson 24.04. (Sweep-Abwehr-Heim-Edge): Sweep-Abwehr-Edge gilt fuer G3/G4/G5 nach 0-2, NICHT fuer Game 7 nach 3-3. Game 7 = pure Klasse, Heim-Underdog kollabiert oft. Regel: (a) Heim-Underdog-Sieg-Tipp in Game 7 max RISIKO (nicht WACKEL), (b) Star-Spieler-Punkte des Heim-Underdogs max WACKEL mit 30%-Einsatz, (c) Unter-Total NUR wenn beide Teams defensiv - in 'Win-or-go-Home'-Druck wird Tempo hochgefahren auch von beidem Teams (-> Ueber-Edge). Heim-Crash-Cluster sind statistisch ~25-30% der Game-7-Faelle.",
+      "bezug_spiel_id": "2026-05-17-det-cle"
+    },
+    {
+      "datum": "2026-05-18",
+      "kategorie": "Einwechslungs-Boost-Timing-Filter (Quelle 8i Boost-Trigger-Analyse)",
+      "lesson": "Atletico-Girona: Griezmann 79. fuer Sorloth raus - et-4 'Sorloth trifft' @2.25 verloren weil Spiel entschieden (1:0 ab 21.). Sorloth hatte 11 Minuten + Nachspielzeit ohne offensive Aufgabe. Pattern: Einwechslungs-Boost-Trigger funktioniert NUR wenn Backup-Stuermer (a) frueh genug kommt (vor 75.) UND (b) das Team offensiv spielen MUSS (Rueckstand/Remis). Bei 1:0-Fuehrung mit Karriere-Highlight-Switch in 79. = Anti-Boost (Spiel entschieden, kein Antrieb). Filter-Regel: Sorloth/Ferran-Torres/Casado/etc. als 'Backup-Stuermer-Boost-Tipp' (Lesson 04.05. Einwechslungs-Boost) NUR setzen wenn (i) Spiel pre-Match als knapp erwartet wird (Quoten unter 1.40 fuer Favorit ausschließen), (ii) Geehrter-Switch nicht erwartet ist (vor Spielende-Hommage-Switch ohne Tor-Auftrag), (iii) Hauptstuermer (X) trifft wahrscheinlich nicht spaet (Karriere-Highlight-Inszenierung verschiebt X-Auswechslung Richtung 80.+).",
+      "bezug_spiel_id": "2026-05-17-atm-gir"
     }
   ]
 }

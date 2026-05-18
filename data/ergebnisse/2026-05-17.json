@@ -1,0 +1,1834 @@
+{
+  "datum": "2026-05-17",
+  "erstellt_am": "2026-05-17T10:50:00+02:00",
+  "hinweis": "Sonntag 17.05.2026 - LaLiga MD37 + Ligue-1-Saisonfinale + Roma-Lazio-Derby + NBA G7 Pistons-Cavs. Kasse 550€ (Stufe 1). Wegen Saisonende-Coinflip-Cluster (Lessons 11.-16.05.) und 5.-Drehung-Mai-Pattern: defensiv labeln, DC X2 bevorzugt vor direktem Sieg-Tipp bei 2:0-Polster-Profilen. Heim-Karriere-Highlight (Lewandowski-Abschied Barca / Old-Trafford-Saisonfinale ManU) Lesson 16.05. aktiv -> Tor-These auf Top-9er gestaerkt. Serie-A + 2.BL bleiben Beobachtungs-Liga (max wackel, Moonshot nur ab 5.0).",
+  "spiele": [
+    {
+      "id": "2026-05-17-mun-nfo",
+      "liga": "Premier League",
+      "heim": "Manchester United",
+      "gast": "Nottingham Forest",
+      "anstoss": "2026-05-17T14:30:00+02:00",
+      "stadion": "Old Trafford, Manchester",
+      "saison_kontext": {
+        "parallel_heim": "keine - kein UEFA-Termin, kein FA-Cup-Final mehr (City gewann 16.05.)",
+        "parallel_gast": "keine - Forest nicht in UEFA-Wettbewerb, keine Pflichtspiele",
+        "saisonziel_heim": "ManU 3. Pl. mit 65 Pkt - CL-Quali so gut wie sicher, kein scharfer Druck, Carrick-Aera-Stimmung stabil, Old-Trafford-Heim-Saisonfinale",
+        "saisonziel_gast": "Forest 16. Pl. mit 43 Pkt - Mid-Table gesichert, kein direkter Druck, Verletzungs-Lazarett massiv",
+        "motivations_asymmetrie": "ManU letztes Heim-Spiel der Saison vor eigenem Publikum -> Karriere-Highlight-Heim-Profil Lesson 16.05.: anti-Rotation, voll motiviert. Forest mit halbem Kader im Krankenhaus aber 8 Spiele unbesiegt - Form vs Klasse-Edge.",
+        "recovery_heim": "ManU 4 Tage seit 0:0 in Sunderland",
+        "recovery_gast": "Forest 4 Tage seit 1:1 vs Newcastle (Anderson-Equalizer)",
+        "quellen": [
+          "https://www.premierleague.com/en/latest-player-injuries",
+          "https://www.si.com/soccer/man-utd-xi-vs-nottingham-forest-old-trafford-bids-farewell-injury-news-predicted-lineup-5-17-26",
+          "https://www.espn.com/soccer/story/_/id/48774716/manchester-united-vs-nottingham-forest-premier-league-tv-channel-kick-live-stream-referee-injury-team-news",
+          "https://www.sportsmole.co.uk/football/man-utd/predicted-lineups/wood-hutchinson-return-forest-predicted-xi-vs-man-utd_597585.html"
+        ]
+      },
+      "news": [
+        "ManU 3. mit 65 Pkt, Forest 16. mit 43 Pkt - klare Tabellen-Differenz",
+        "Forest-Lazarett: Murillo, Sangaré, Gibbs-White, Hudson-Odoi, Aina, Boly, Savona, Abbott ALLE OUT - Notformation",
+        "ManU-Ausfaelle: Sesko + de Ligt OUT - Zirkzee als Solo-9er, Cunha + Bruno + Amad hinter ihm",
+        "Forest 8 Pflichtspiele unbesiegt - Auswaerts-Form stabil (Anderson, Awoniyi, Igor Jesus)",
+        "Old-Trafford-Heim-Saisonfinale - Carrick-Aera-Mood: erhoehte Motivation",
+        "Mbeumo wechselte zu ManU Sommer 2025 - 14+ Saisontore Top-Scorer"
+      ],
+      "tipps": [
+        {
+          "id": "mun-nfo-1",
+          "kategorie": "value",
+          "markt": "Doppelte Chance 1X (Manchester United oder Unentschieden)",
+          "prognose": "ManU gewinnt oder Remis",
+          "quote": 1.22,
+          "edge_prozent": 8,
+          "faire_quote": 1.13,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 8.25,
+          "begruendung": "Markt-Goldgrube DC 1X (82.4% Hit / +4.9% ROI bei n=19). Forest-Lazarett mit 8 Stamm-OUT inkl. Murillo/Gibbs-White vs ManU-Heim-Saisonfinale-Old-Trafford-Karriere-Highlight (Lesson 16.05. anti-Rotation). Lesson 10.05. PL-Sieg-Cluster 75% Verlust haelt Direkt-Sieg-Label zurueck, deshalb DC 1X statt ML. Empfohlener Einsatz 8,25€ (1.5% der 550€-Kasse). Reality-Check: SAFE-Kategorie historisch 72.3% Hit - VALUE-Label hier korrekt da LaLiga... PL Saisonende-Filter Lesson 11.05. aktiv."
+        },
+        {
+          "id": "mun-nfo-2",
+          "kategorie": "value",
+          "markt": "Bryan Mbeumo trifft (Jederzeit)",
+          "prognose": "Mbeumo erzielt mindestens 1 Tor",
+          "quote": 2.85,
+          "edge_prozent": 14,
+          "faire_quote": 2.5,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 5.5,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (35.7% Hit / +19.5% ROI bei n=28). Mbeumo ManU-Top-Scorer mit 14+ Saisontoren, regelmaessig in Startelf, Zirkzee als Solo-9er-Magnet zieht Defense + Mbeumo profitiert von Raum. Lesson 04.05. PFLICHT-PROFILE Heim-Favorit -> Torschuetzen-Tipp PFLICHT. Forest-Defense ohne Murillo + Savona durchbrechbar. Reality-Check: Torschuetzen Goldgrube nach 28 Tipps stabil, Mbeumo erfuellt Form-Edge-HR24-Kriterium (5+ Tore in letzten 10). Einsatz 5,50€ (1.0%)."
+        },
+        {
+          "id": "mun-nfo-3",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "prognose": "Mehr als 2 Tore im Spiel",
+          "quote": 1.72,
+          "edge_prozent": 9,
+          "faire_quote": 1.58,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 5.5,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (+52.3% ROI bei n=14). ManU-Heim 2.4 Tore/Spiel + Forest-Auswaerts mit Anderson/Awoniyi/Igor Jesus offensiv-stark + Heim-Saisonfinale-Atmosphere = offenes Spiel. BTTS in 7/9 letzten ManU + 6/9 letzten Forest. Saisonende-Tor-Flaute-Filter Lesson 09.05. greift HIER NICHT, da Old-Trafford-Karriere-Highlight + Forest-Verletzungspflicht-Offensive (alle 3 Stammverteidiger OUT). Einsatz 5,50€ (1.0%)."
+        },
+        {
+          "id": "mun-nfo-4",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen JA",
+          "prognose": "Beide Teams treffen mindestens 1x",
+          "quote": 1.78,
+          "edge_prozent": 6,
+          "faire_quote": 1.68,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 2.75,
+          "begruendung": "BTTS-Tendenz beidseitig (ManU 7/9 + Forest 6/9), aber Awoniyi nach Verletzung erst zurueck, Igor Jesus nicht sicher. Forest 8 Spiele unbesiegt aber knappe Tor-Effizienz. Wackel statt Value wegen Forest-Sturm-Personal-Unklarheit. Einsatz 2,75€ (0.5%)."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 3,
+        "gast": 2,
+        "endstand": "3:2",
+        "kommentar": "ManU 3:2 - Shaw 6, Cunha 55, Mbeumo 76 vs Morato 53, Gibbs-White 78. HZ 1:0. Bruno Fernandes egalisiert PL-Assist-Rekord."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "mun-nfo-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.21999999999999997,
+          "kommentar": "ManU 3:2-Sieg - DC 1X durch."
+        },
+        {
+          "tipp_id": "mun-nfo-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.85,
+          "kommentar": "Mbeumo trifft 76. zum 3:1."
+        },
+        {
+          "tipp_id": "mun-nfo-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.72,
+          "kommentar": "5 Tore - Ueber 2.5 klar."
+        },
+        {
+          "tipp_id": "mun-nfo-4",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.78,
+          "kommentar": "BTTS JA durch Morato (Forest) + 3x ManU."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "3:2",
+        "tore": [
+          {
+            "min": 6,
+            "team": "heim",
+            "spieler": "Luke Shaw",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 53,
+            "team": "gast",
+            "spieler": "Morato",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 55,
+            "team": "heim",
+            "spieler": "Matheus Cunha",
+            "stand_danach": "2:1"
+          },
+          {
+            "min": 76,
+            "team": "heim",
+            "spieler": "Bryan Mbeumo",
+            "stand_danach": "3:1"
+          },
+          {
+            "min": 78,
+            "team": "gast",
+            "spieler": "Morgan Gibbs-White",
+            "stand_danach": "3:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "ManU fuehrte zwischendurch nur 1-Tor-Polster, kein 2-Tore-Vorsprung gedreht. Forest blieb in Reichweite (3:2 in 78.)."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "ManU/ManU",
+          "kein_team_zu_null": true,
+          "siegtor_in_letzten_15min": false,
+          "ausgleich_in_letzten_15min": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Karriere-Highlight-Heim-Profil (Lesson 16.05.) erneut bestaetigt: ManU im Old-Trafford-Saisonfinale voll motiviert, Mbeumo trifft + ManU 3 Tore.",
+          "Goldgrube DC 1X erneut durch (mun-nfo-1 @1.22), Torschuetzen-Jederzeit (Mbeumo @2.85) ebenfalls - 2 Goldgruben in einem Spiel getroffen.",
+          "PL-Sieg-Cluster-Verlust-Lesson 10.05. greift HIER NICHT - ManU als klarer Favorit gegen 16. mit Lazarett bestaetigt sich."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-17-sev-rma",
+      "liga": "LaLiga",
+      "heim": "Sevilla FC",
+      "gast": "Real Madrid CF",
+      "anstoss": "2026-05-17T19:00:00+02:00",
+      "stadion": "Estadio Ramon Sanchez Pizjuan, Sevilla",
+      "saison_kontext": {
+        "parallel_heim": "keine",
+        "parallel_gast": "keine - Real Madrid seit 15.04. aus CL raus (vs Bayern), Klub-WM Juni 2026 mehrere Wochen entfernt, kein 7-Tage-Final-Druck",
+        "saisonziel_heim": "Sevilla 13. mit ca. 40 Pkt - Klassenerhalt durch, Saison-Auslauf-Modus aber Heim-Saisonfinale-Stimmung Sanchez Pizjuan",
+        "saisonziel_gast": "Real Madrid 2. mit 77 Pkt - Liga an Barca verloren (Clasico 10.05. 0:2), spielen fuer Stolz und Mbappe-Pichichi-Race",
+        "motivations_asymmetrie": "Real Klasse-Edge + Pichichi-Race-Motiv Mbappe + Stolz-Reaktion nach Clasico-Pleite. Sevilla Heim-Stolz aber Saison schon gelaufen. Lesson 13.05. HR22-Override: Lazarett (Mendy/Militao/Rodrygo/Gueler/Valverde/Carvajal OUT) wird durch Top-Bench geschluckt - Castilla-Stand-In Gonzalo Garcia nicht mehr automatisch dabei da Mbappe + Vinicius beide spielen.",
+        "recovery_heim": "Sevilla 7 Tage seit 0:1 vs Espanyol Heim (Sieg)",
+        "recovery_gast": "Real Madrid 7 Tage seit Clasico-Pleite 0:2 - Stolz-Reaktion erwartbar",
+        "quellen": [
+          "https://www.managingmadrid.com/107844/sevilla-vs-real-madrid-2026-liga-lineups",
+          "https://www.si.com/soccer/real-madrid-xi-vs-sevilla-major-mbappe-dilemma-arbeloa-injury-news-predicted-lineup-5-17-26",
+          "https://www.laliga.com/en-GB",
+          "https://www.sportsgambler.com/betting-tips/football/sevilla-vs-real-madrid-prediction-lineups-odds-2026-05-17/"
+        ]
+      },
+      "news": [
+        "Mbappe nach Arbeloa-Disput (Donnerstag) zurueck in der Startelf (laut Managing Madrid + SI)",
+        "Vinicius Junior fit, Form-Edge: 4 Tore in 5 Spielen (HR24 Form-Lauf erfuellt)",
+        "Real-Lazarett: Mendy, Militao, Rodrygo, Gueler, Valverde, Carvajal OUT/Q - Alexander-Arnold + Huijsen + Rudiger + Fran Garcia hinten",
+        "Sevilla-Form-Knick: 3:2 in Villarreal letzte Woche + Adams/Maupay als Sturm",
+        "Real Bilanz Hinrunde: 2:0-Sieg in Madrid gegen Sevilla",
+        "Mbappe Pichichi-Race vs Lewandowski - Tor-Motivation maximal"
+      ],
+      "tipps": [
+        {
+          "id": "sev-rma-1",
+          "kategorie": "value",
+          "markt": "Kylian Mbappe trifft (Jederzeit)",
+          "prognose": "Mbappe erzielt mindestens 1 Tor",
+          "quote": 1.7,
+          "edge_prozent": 12,
+          "faire_quote": 1.51,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 8.25,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (35.7% Hit / +19.5% ROI). Mbappe nach SI/Managing Madrid in Startelf bestaetigt, Pichichi-Race-Motivation maximal + Sevilla-Defense ohne Salas/Castrin schwach. Lesson 04.05. PFLICHT-PROFILE Auswaerts-Favorit -> Top-Stuermer-Tipp PFLICHT. Endrick als Backup auf der Bank fuer bet365-Einwechslungs-Boost (Lesson 26.04. + 16.05. Pattern). Einsatz 8,25€ (1.5%)."
+        },
+        {
+          "id": "sev-rma-2",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen JA",
+          "prognose": "Beide Mannschaften treffen mindestens 1x",
+          "quote": 1.59,
+          "edge_prozent": 10,
+          "faire_quote": 1.45,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 5.5,
+          "begruendung": "Real-Defense-Lazarett (Militao + Mendy + Carvajal alle OUT, 3 Stamm-Ersatzleute hinten) + Sevilla-Heim-Stolz + Sevilla 2 Heim-Tore-Schnitt. Wincomparator zeigt 60%+ BTTS. Auch Sevilla-Heim-Spiele-Saison 70%+ BTTS-Quote. Einsatz 5,50€ (1.0%)."
+        },
+        {
+          "id": "sev-rma-3",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "prognose": "Mehr als 2 Tore im Spiel",
+          "quote": 1.74,
+          "edge_prozent": 9,
+          "faire_quote": 1.6,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 5.5,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (+52.3% ROI). Real-Lazarett-Defense + Mbappe + Vinicius im Tor-Modus + Sevilla-Heim-Stolz. Lesson 15.05. LaLiga MD36 Mid-Mid 1.88 Tore Flaute-Filter trifft NICHT (Real ist Top-Team mit Existenzwille Pichichi). Einsatz 5,50€ (1.0%)."
+        },
+        {
+          "id": "sev-rma-4",
+          "kategorie": "wackel",
+          "markt": "Vinicius Junior trifft (Jederzeit)",
+          "prognose": "Vinicius erzielt mindestens 1 Tor",
+          "quote": 2.1,
+          "edge_prozent": 7,
+          "faire_quote": 1.96,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 2.75,
+          "begruendung": "Vinicius Form-Edge HR24 (4 Tore in 5 Spielen). Wackel statt VALUE wegen Mbappe-Konkurrenz (Pichichi-Race nimmt Mbappe Schuesse) + Clasico-Hangover-Risiko (Lesson 11.05.: 13-25 Tage vor Final auf VALUE OK aber Mbappe primaer). Einsatz 2,75€ (0.5%)."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 0,
+        "gast": 1,
+        "endstand": "0:1",
+        "kommentar": "Real Madrid 1:0 - Vinicius 15. Mbappe vergibt Riesenchance. HZ 0:1. Sevilla bleibt drin trotz Niederlage."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "sev-rma-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Mbappe trifft nicht (Vinicius scort 15.). Mbappe spielte durch, kein Einwechslungs-Boost-Trigger."
+        },
+        {
+          "tipp_id": "sev-rma-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Nur 1 Tor - BTTS NEIN."
+        },
+        {
+          "tipp_id": "sev-rma-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Nur 1 Tor - Unter 2.5."
+        },
+        {
+          "tipp_id": "sev-rma-4",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.1,
+          "kommentar": "Vinicius trifft 15. zum 0:1."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "0:1",
+        "tore": [
+          {
+            "min": 15,
+            "team": "gast",
+            "spieler": "Vinicius Junior",
+            "stand_danach": "0:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Real Madrid fuehrte ab 15. mit nur 1 Tor durchgehend - keine Drehung. Bet365 2:0-Insurance greift HIER NICHT (kein 2:0)."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "RealMadrid/RealMadrid",
+          "kein_team_zu_null": false,
+          "siegtor_in_letzten_15min": false,
+          "ausgleich_in_letzten_15min": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Mbappe",
+            "details": "Erste Startelf seit fast einem Monat (zurueck nach Pause), trotzdem Riesenchance vergeben."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Tor-Flaute-Saisonende-Pattern (Lesson 09.05.): Real Madrid mit B-Elf-Modus (7 Wechsel) + Sevilla im Abstiegsmodus = 0:1-Arbeitssieg, 3x Ueber-Markt + BTTS verloren.",
+          "Top-9er-Pflicht-Lesson 04.05. PARTIAL-FAIL: Mbappe vergibt, Vinicius (Wackel-Quote 2.1) trifft - Wackel-Tipp ueberholt Value-Tipp im selben Spiel. Lesson: bei Real-Madrid-Saisonende lieber Vinicius/Bellingham als Mbappe-9er."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-17-bar-bet",
+      "liga": "LaLiga",
+      "heim": "FC Barcelona",
+      "gast": "Real Betis Balompie",
+      "anstoss": "2026-05-17T21:15:00+02:00",
+      "stadion": "Spotify Camp Nou, Barcelona",
+      "saison_kontext": {
+        "parallel_heim": "keine - CL-HF 2025-26 verpasst, El Clasico 10.05. gewonnen (2:0), Meister seit dann",
+        "parallel_gast": "keine - Betis kein Conference/UEFA-Final-Termin",
+        "saisonziel_heim": "Barcelona 1. Meister mit 91 Pkt - Liga seit 10.05. gesichert, 29. Titel. Heim-Saisonfinale Camp Nou + Lewandowski-Abschied (Karriere-Highlight)",
+        "saisonziel_gast": "Betis 5.-6. mit 57 Pkt - Conference-League-Quali so gut wie fix, kein direkter Druck",
+        "motivations_asymmetrie": "Doppel-Heim-Karriere-Highlight Lesson 16.05.: (a) Meister-Feier Heim + (b) Lewandowski letztes Camp-Nou-Spiel = anti-Rotation, Flick laesst Lewa starten + Captain. Betis offensiv-stark mit Antony/Abde aber Auswaerts-Motivation gering.",
+        "recovery_heim": "Barca 7 Tage seit El Clasico 2:0",
+        "recovery_gast": "Betis 7 Tage Pause - keine Belastung",
+        "quellen": [
+          "https://www.barcablaugranes.com/barcelona-la-liga/120607/barcelona-real-betis-la-liga-team-news-match-preview-lineups-prediction",
+          "https://www.fcbarcelona.com/en/matches/127624/fc-barcelona-betis-la-liga-2025-2026",
+          "https://www.fotmob.com/matches/real-betis-vs-barcelona/2gggox",
+          "https://www.sportsgambler.com/betting-tips/football/barcelona-vs-real-betis-prediction-lineups-odds-2026-05-17/"
+        ]
+      },
+      "news": [
+        "Yamal SAISON-OUT (Oberschenkel) - Pre-Match-bekannt, NICHT im Tipp-Pool (Lesson 14.05.)",
+        "Lewandowski letztes Camp-Nou-Spiel + Captain - Karriere-Highlight-Heim-Profil aktiv",
+        "Barca-Lineup mit Lewandowski + Raphinha + Olmo + Fermin als Offensiv-Quartett",
+        "Betis offensiv: Antony + Bakambu + Abde + Lo Celso",
+        "Barca unbeaten in 10 H2H gegen Betis (8W 2D)",
+        "Barca-Heim-Saison-Bilanz: 100% Heim-Siege Saison + clean sheets",
+        "Lewandowski 21+ LaLiga-Tore Saison, Pichichi-Race vs Mbappe"
+      ],
+      "tipps": [
+        {
+          "id": "bar-bet-1",
+          "kategorie": "wackel",
+          "markt": "Robert Lewandowski trifft (Jederzeit)",
+          "prognose": "Lewandowski erzielt mindestens 1 Tor",
+          "quote": 1.85,
+          "edge_prozent": 17,
+          "faire_quote": 1.58,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 8.25,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Lewandowski Karriere-Highlight Camp-Nou-Abschied + Captain + Pichichi-Race vs Mbappe (21+ Tore Saison) + Betis-Defense durchlaessig (Auswaerts schwach). Lesson 04.05. PFLICHT-PROFILE Heim-Favorit Top-9er + Lesson 16.05. Heim-Karriere-Highlight anti-Rotation -> SAFE-faehig, hier VALUE wegen LaLiga-Goldgrube-DC-Cap-Pattern. Einsatz 8,25€ (1.5%). [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "id": "bar-bet-2",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "prognose": "Mehr als 2 Tore im Spiel",
+          "quote": 1.5,
+          "edge_prozent": 11,
+          "faire_quote": 1.35,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 8.25,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (+52.3% ROI). Barca-Heim 3.5 Tore/Spiel + Meister-Feier-Atmosphere + Lewandowski-Abschied-Show + Betis offensiv-stark mit Antony/Abde. Saisonende-Tor-Flaute-Filter Lesson 09./15.05. greift NICHT (Karriere-Highlight + beidseitig offensive Profile). Einsatz 8,25€ (1.5%)."
+        },
+        {
+          "id": "bar-bet-3",
+          "kategorie": "value",
+          "markt": "Doppelte Chance 1X (Barcelona oder Unentschieden)",
+          "prognose": "Barcelona gewinnt oder Remis",
+          "quote": 1.07,
+          "edge_prozent": 5,
+          "faire_quote": 1.02,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 8.25,
+          "begruendung": "Markt-Goldgrube DC 1X (82.4% Hit). Mapper-Hebel C downgrade SAFE -> VALUE da LaLiga keine Liga-Goldgrube. Barca-Heim 100% Saison + Yamal-OUT belanglos (Lewa/Raphinha/Olmo komplett). Quote-Edge minimal aber Hit-Wahrscheinlichkeit 95%+ rechtfertigt 1.5%-Einsatz. Einsatz 8,25€ (1.5%)."
+        },
+        {
+          "id": "bar-bet-4",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen JA",
+          "prognose": "Beide Teams treffen mindestens 1x",
+          "quote": 1.85,
+          "edge_prozent": 5,
+          "faire_quote": 1.76,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 2.75,
+          "begruendung": "Betis offensiv mit Antony/Bakambu/Abde - aber Barca-Heim 5 Clean-Sheets-Serie. Wackel statt VALUE wegen Barca-Defense-Form (Joan Garcia + Cubarsi). Einsatz 2,75€ (0.5%)."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 3,
+        "gast": 1,
+        "endstand": "3:1",
+        "kommentar": "Barca 3:1 - Raphinha 27 + 2.HZ, Cancelo, Isco-Pen (Betis). HZ 1:0. Lewandowski-Camp-Nou-Abschied (kein Tor, 83. ausgewechselt fuer Casado)."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "bar-bet-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Lewandowski kein Tor + 83. fuer Casado ausgewechselt - Casado (MF) traf nicht, kein Einwechslungs-Boost."
+        },
+        {
+          "tipp_id": "bar-bet-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.5,
+          "kommentar": "4 Tore - Ueber 2.5 klar."
+        },
+        {
+          "tipp_id": "bar-bet-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.07000000000000006,
+          "kommentar": "Barca 3:1-Sieg."
+        },
+        {
+          "tipp_id": "bar-bet-4",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.8500000000000001,
+          "kommentar": "BTTS JA durch Isco-Pen + 3x Barca."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "3:1",
+        "tore": [
+          {
+            "min": 27,
+            "team": "heim",
+            "spieler": "Raphinha (Freistoss)",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 65,
+            "team": "heim",
+            "spieler": "Raphinha (zweiter Treffer)",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 71,
+            "team": "gast",
+            "spieler": "Isco (Elfmeter)",
+            "stand_danach": "2:1"
+          },
+          {
+            "min": 80,
+            "team": "heim",
+            "spieler": "Joao Cancelo",
+            "stand_danach": "3:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Barca fuehrte durchweg, max 2-Tore-Polster (3:1 final). Keine Drehung."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Barca/Barca",
+          "kein_team_zu_null": false,
+          "siegtor_in_letzten_15min": false,
+          "ausgleich_in_letzten_15min": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Casado",
+            "aus": "Lewandowski",
+            "minute": 83,
+            "tor": false,
+            "tor_minute": null
+          }
+        ],
+        "auffaellige_patterns": [
+          "Karriere-Highlight-Heim-Profil (Lesson 16.05.) bestaetigt: Lewandowski-Abschied = Tor-Festival mit 4 Toren, BTTS + Ueber 3.5 alle durch.",
+          "Lewandowski-Torschuetzen-Tipp (et-2, bar-bet-1) verloren trotz Karriere-Highlight - selbst der Hauptakteur traf nicht. Lesson: bei Karriere-Highlight Tor-Markt sicher, aber NICHT zwingend Tor des Geehrten - lieber Ueber/BTTS spielen statt Torschuetzen-Markt auf gefeierten Spieler.",
+          "Einwechslungs-Boost-Trigger TEILWEISE: Lewa wurde ausgewechselt, aber Ersatz Casado ist MF-Spieler (kein Stuermer) - Boost greift praktisch nicht bei Position-Wechsel."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-17-atm-gir",
+      "liga": "LaLiga",
+      "heim": "Club Atletico de Madrid",
+      "gast": "Girona FC",
+      "anstoss": "2026-05-17T19:00:00+02:00",
+      "stadion": "Riyadh Air Metropolitano, Madrid",
+      "saison_kontext": {
+        "parallel_heim": "keine - CL-HF 05.05. raus (vs Arsenal), kein 7-Tage-Final-Termin",
+        "parallel_gast": "keine",
+        "saisonziel_heim": "Atletico 3.-4. mit ca. 73 Pkt - CL-Quali so gut wie sicher, kein scharfer Druck mehr",
+        "saisonziel_gast": "Girona 12. Mid-Table - keine Quali-Pflicht, Saison-Auslauf-Modus aber 4. Atletico-Sieg-Serie-Form",
+        "motivations_asymmetrie": "Atletico Heim-Form + Klasse-Edge. Lesson 13.05. HR22-Override: Lazarett massiv (J.Alvarez doubt, Simoni Q, Barrios Q, N.Gonzalez Q, Cardoso OUT, Molina OUT, Gimenez OUT + Llorente gesperrt) wird durch Top-Bench geschluckt (Sorloth + Griezmann). Girona Stuermer Vanat/Portu OUT - Bottom-Sturm-Power.",
+        "recovery_heim": "Atletico 5 Tage seit Sieg in Pamplona (Osasuna 1:2)",
+        "recovery_gast": "Girona 7 Tage Pause",
+        "quellen": [
+          "https://www.sportsmole.co.uk/football/atletico-madrid/preview/atletico-vs-girona-prediction-team-news-lineups_597641.html",
+          "https://www.whoscored.com/matches/1914239/preview/spain-laliga-2025-2026-atletico-madrid-girona",
+          "https://www.fotmob.com/matches/girona-vs-atletico-madrid/2kmd87",
+          "https://www.sportsgambler.com/betting-tips/football/atletico-madrid-vs-girona-prediction-lineups-odds-2026-05-17/"
+        ]
+      },
+      "news": [
+        "Atletico-Lazarett: J.Alvarez doubt, Simoni + Barrios + N.Gonzalez Q, Cardoso + Molina + Gimenez OUT, Llorente gesperrt",
+        "Erwartete Atletico-Aufstellung: Sorloth + Griezmann als Sturm-Duo",
+        "Girona-Lazarett: Vanat + Portu + Juan Carlos + ter Stegen OUT - Stuermer-Notstand",
+        "Atletico-Form: 4 LaLiga-Siege in Folge (inkl. Osasuna 2:1)",
+        "Soerloth scored 71. gegen Osasuna 12.05. - Form-Edge HR24",
+        "Atletico-Heim-Bilanz: Top-3 LaLiga"
+      ],
+      "tipps": [
+        {
+          "id": "atm-gir-2",
+          "kategorie": "value",
+          "markt": "Doppelte Chance 1X (Atletico oder Unentschieden)",
+          "prognose": "Atletico gewinnt oder Remis",
+          "quote": 1.16,
+          "edge_prozent": 7,
+          "faire_quote": 1.08,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 8.25,
+          "begruendung": "Markt-Goldgrube DC 1X (82.4% Hit). Atletico 4-Sieg-Serie, Heim-Stadion-Vorteil, Girona-Stuermer-Notstand. Lesson 12.05. (Osasuna-DC-Pleite) + 13.05. HR22-Override haben gezeigt: LaLiga-Top-4 schluckt Lazarett. Mapper-Hebel C: LaLiga keine Liga-Goldgrube -> SAFE auf VALUE. Einsatz 8,25€ (1.5%)."
+        },
+        {
+          "id": "atm-gir-3",
+          "kategorie": "wackel",
+          "markt": "Antoine Griezmann trifft (Jederzeit)",
+          "prognose": "Griezmann erzielt mindestens 1 Tor",
+          "quote": 2.65,
+          "edge_prozent": 9,
+          "faire_quote": 2.43,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 2.75,
+          "begruendung": "Griezmann mit Soerloth Sturm-Duo, Saisontore 10+, gegen geschwaechte Girona-Defense Chancen-Pool. Wackel statt VALUE da nicht in 3-aus-5-Form-Edge HR24. Einsatz 2,75€ (0.5%)."
+        },
+        {
+          "id": "atm-gir-4",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "prognose": "Mehr als 2 Tore im Spiel",
+          "quote": 1.95,
+          "edge_prozent": 5,
+          "faire_quote": 1.85,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 2.75,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (+52.3% ROI). Atletico-Heim aber strukturell defensiv (Simeone-DNA), Girona Auswaerts schwach. Wackel da Saisonende-Mid-Table-Flaute-Risiko Lesson 15.05. (LaLiga MD36 3/3 mit 2 Toren). Einsatz 2,75€ (0.5%)."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 1,
+        "gast": 0,
+        "endstand": "1:0",
+        "kommentar": "Atletico 1:0 - Lookman 21 (Assist Griezmann). Griezmann-500-Spiele-Abschied im Metropolitano, in 79. fuer Sorloth ausgewechselt."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "atm-gir-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.15999999999999992,
+          "kommentar": "Atletico 1:0-Sieg."
+        },
+        {
+          "tipp_id": "atm-gir-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Griezmann kein Tor (nur Assist auf Lookman). 79. fuer Sorloth ausgewechselt - Sorloth traf nicht nach Einwechslung, kein Boost."
+        },
+        {
+          "tipp_id": "atm-gir-4",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Nur 1 Tor - Unter 2.5."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "1:0",
+        "tore": [
+          {
+            "min": 21,
+            "team": "heim",
+            "spieler": "Ademola Lookman (Assist Griezmann)",
+            "stand_danach": "1:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Atletico fuehrte ab 21. - kein Comeback, keine Drehung."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Atletico/Atletico",
+          "kein_team_zu_null": false,
+          "siegtor_in_letzten_15min": false,
+          "ausgleich_in_letzten_15min": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Griezmann",
+            "details": "500. Spiel + Heim-Abschied vom Metropolitano - emotional, 79. fuer Sorloth ausgewechselt mit Standing-Ovations."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Sorloth",
+            "aus": "Griezmann",
+            "minute": 79,
+            "tor": false,
+            "tor_minute": null
+          }
+        ],
+        "auffaellige_patterns": [
+          "Karriere-Highlight-Heim-Profil (Lesson 16.05.) DOPPELDEUTIG: Atletico nutzte Griezmann-Abschied fuer Sieg, aber Tor-Anzahl niedrig (1:0). Lesson 16.05. besagt Tor-These - hier traf zwar Goldjunge Lookman (Goldgrube Torschuetzen Jederzeit) - aber Ueber-Markt verloren.",
+          "Einwechslungs-Boost-Trigger TIMING-PROBLEM: Sorloth kam 79. - Spiel praktisch entschieden, fuer Sorloth-Tor (et-4 @2.25) zu spaet. Lesson: bei Karriere-Highlight des etablierten Stuermers ist der Ersatz-Torschuetzen-Tipp (et-4) ein Anti-Boost (Backup kommt zu spaet).",
+          "Markt-Goldgrube DC 1X durch (atm-gir-2 @1.16), aber atm-gir-4 Ueber 2.5 verloren - bei Karriere-Highlight des Spielmachers (nicht des Stuermers) ist Tor-Volumen niedriger als bei reinen Stuermer-Abschieden (vgl. Lewa heute Barca)."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-17-ath-cel",
+      "liga": "LaLiga",
+      "heim": "Athletic Club Bilbao",
+      "gast": "Celta Vigo",
+      "anstoss": "2026-05-17T19:00:00+02:00",
+      "stadion": "San Mames, Bilbao",
+      "saison_kontext": {
+        "parallel_heim": "keine - Athletic kein UEFA-Halbfinale mehr 2025-26",
+        "parallel_gast": "keine - Celta nicht in UEFA",
+        "saisonziel_heim": "Athletic 9. Pl. - Europa-Plaetze ausser Reichweite (4 Pkt zurueck), Saison-Auslauf, 3 von 4 letzten Liga-Spielen verloren",
+        "saisonziel_gast": "Celta 6. mit Conf-Quali-Druck - Auswaerts-Top-3-Form (30 Pkt aus 18 Spielen)",
+        "motivations_asymmetrie": "Celta Conf-Quali-Push vs Athletic Auslauf-Modus mit Form-Knick. Celta-Auswaerts-Edge real - aber San-Mames-Heimstaerke knapp dagegen. Coinflip-Profil mit Edge auf Celta.",
+        "recovery_heim": "Athletic 7 Tage seit Niederlage in Espanyol-Gastspiel (3:0)",
+        "recovery_gast": "Celta 5 Tage seit Heimsieg 3:2 vs Levante",
+        "quellen": [
+          "https://www.fotmob.com/matches/athletic-club-vs-celta-vigo/2qvz7j",
+          "https://www.sofascore.com/football/match/athletic-club-celta-vigo/wgbsAgb",
+          "https://www.sportsmole.co.uk/football/athletic-bilbao/preview/athletic-bilbao-vs-celta-vigo-prediction-team-news-lineups_597615.html",
+          "https://www.laliga.com/en-GB"
+        ]
+      },
+      "news": [
+        "Athletic 3 Niederlagen in 4 letzten Liga-Spielen (Valencia + Espanyol Pleiten)",
+        "Celta 30 Pkt Auswaerts in 18 Spielen - Top-3-Liga-Auswaerts-Form",
+        "Williams-Bruder-Duo Inaki + Nico bei Athletic - aber Form schwach",
+        "Borja Iglesias bei Celta - kam 12.05. nicht in Startelf (Lesson 13.05. Bench-Falle)",
+        "Athletic-Form-Knick + Saison-Auslauf-Modus + 4 Pkt hinter Europa = Motivations-Defizit",
+        "Coinflip-Quote: Athletic ~2.10, Remis ~3.50, Celta ~3.50"
+      ],
+      "tipps": [
+        {
+          "id": "ath-cel-1",
+          "kategorie": "wackel",
+          "markt": "Doppelte Chance X2 (Unentschieden oder Celta Vigo)",
+          "prognose": "Remis oder Celta-Sieg",
+          "quote": 1.62,
+          "edge_prozent": 8,
+          "faire_quote": 1.5,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 2.75,
+          "begruendung": "Athletic 3 Pleiten in 4 Spielen + Saison-Auslauf-Defizit + Heim-Krise (HR2-Pattern Lesson 04.05.). Celta-Auswaerts-Form Top-3 + Conf-Quali-Druck = Edge Celta. Wackel statt VALUE wegen Coinflip-Quoten Range (alle 3 Outcomes 2.10-3.50). Einsatz 2,75€ (0.5%)."
+        },
+        {
+          "id": "ath-cel-2",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen JA",
+          "prognose": "Beide Teams treffen mindestens 1x",
+          "quote": 1.7,
+          "edge_prozent": 6,
+          "faire_quote": 1.6,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 2.75,
+          "begruendung": "Beide Teams traefen in 6+ letzten Liga-Begegnungen. Athletic-Heim BTTS 60% + Celta-Auswaerts BTTS 65%. Wackel da Athletic-Sturm-Krise (3 Pleiten ohne viele Tore). Einsatz 2,75€ (0.5%)."
+        },
+        {
+          "id": "ath-cel-3",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "prognose": "Mehr als 2 Tore im Spiel",
+          "quote": 1.9,
+          "edge_prozent": 5,
+          "faire_quote": 1.81,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 2.75,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (+52.3% ROI). Coinflip-Profil mit beidseitig offen + Saisonende-Mid-Mid Lesson 15.05. = Risiko. Einsatz 2,75€ (0.5%)."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 1,
+        "gast": 1,
+        "endstand": "1:1",
+        "kommentar": "Athletic 1:1 Celta - Swedberg 4 (Celta), I.Williams 52 (Athletic). HZ 0:1."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "ath-cel-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.6200000000000001,
+          "kommentar": "Remis - DC X2 durch."
+        },
+        {
+          "tipp_id": "ath-cel-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.7,
+          "kommentar": "BTTS JA (Swedberg + Williams)."
+        },
+        {
+          "tipp_id": "ath-cel-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Nur 2 Tore - Unter 2.5."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "1:1",
+        "tore": [
+          {
+            "min": 4,
+            "team": "gast",
+            "spieler": "Williot Swedberg",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 52,
+            "team": "heim",
+            "spieler": "Inaki Williams",
+            "stand_danach": "1:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Celta fuehrte nur mit 1-Tor-Polster, Athletic glich 52. aus. Keine 2-Tore-Drehung."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Celta/Unentschieden",
+          "kein_team_zu_null": true,
+          "siegtor_in_letzten_15min": false,
+          "ausgleich_in_letzten_15min": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Klassisches Saisonende-Coinflip-Pattern (Lessons 11.-16.05.): beide Teams ohne scharfe Tabellen-Motivation, 1:1 mit nur 2 Toren.",
+          "BTTS-Tipp durch (Goldgruben-Logik), aber Ueber 2.5 daneben - Lesson: bei Coinflip-Spielen BTTS sicherer als Ueber 2.5 (BTTS braucht nur 2 Tore, Ueber 2.5 mind. 3)."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-17-pfc-psg",
+      "liga": "Ligue 1",
+      "heim": "Paris FC",
+      "gast": "Paris Saint-Germain",
+      "anstoss": "2026-05-17T20:00:00+02:00",
+      "stadion": "Stade Jean Bouin, Paris",
+      "saison_kontext": {
+        "parallel_heim": "keine",
+        "parallel_gast": "CL-Finale 30.05.2026 in 13 Tagen (laut UEFA-CL-Kalender) - HR3-Zone 13-25 Tage = noch nicht Schon-Modus aber Joker-Aufmerksamkeit",
+        "saisonziel_heim": "Paris FC Mid-Table Ligue 1 - Saison gerettet, Saisonfinale + Lokal-Derby-Stolz",
+        "saisonziel_gast": "PSG Meister mit komfortabler Fuehrung - Liga seit Wochen sicher, nun CL-Final-Vorbereitung",
+        "motivations_asymmetrie": "PSG Klasse-Edge massiv aber CL-Final-Vorbereitung = Lesson 11.05./14.05. 7-Tage-Schon-Cluster TEILweise aktiv (13 Tage entfernt, also noch in 13-25-Tage-Joker-Erwartung). Dembele + Doue sind Stamm aber Schon-Risiko fuer Mbappe-loses PSG. Paris FC Lokal-Derby-Stolz (Coupe-de-France-Sieg 1:0 Januar 26 gegen PSG zaehlt!)",
+        "recovery_heim": "Paris FC 7 Tage Pause",
+        "recovery_gast": "PSG 4 Tage seit letztem Liga-Spiel",
+        "quellen": [
+          "https://www.psg.fr/en/content/the-ligue-1-2025-2026-fixture-list-is-here",
+          "https://www.fotmob.com/matches/paris-fc-vs-psg/26dx4a",
+          "https://www.sportsgambler.com/betting-tips/football/paris-fc-vs-psg-prediction-lineups-odds-2026-05-17/",
+          "https://www.espn.com/soccer/match/_/gameId/746713/paris-saint-germain-paris-fc"
+        ]
+      },
+      "news": [
+        "PSG CL-Finale 30.05.2026 in 13 Tagen - HR3 Zone 13-25 Tage = Joker-Risiko, kein vollstaendiger Schon-Modus",
+        "Mbappe spielt fuer Real Madrid (NICHT PSG) - lange Geschichte",
+        "PSG-Predicted-XI: Safonov, Hernandez/Beraldo/Zabarnyi, Neves/Mayulu/Dro, Barcola/Kvaratskhelia/Doue, Dembele",
+        "Dembele Top-Scorer PSG Saison, Favorit fuer Anytime-Tor",
+        "Paris FC schlug PSG in Coupe-de-France 1:0 (Januar 26) - Heim-Derby-Stolz",
+        "PSG Auswaerts-Form dominant, aber Konzentration aufs CL-Finale 30.05."
+      ],
+      "tipps": [
+        {
+          "id": "pfc-psg-1",
+          "kategorie": "value",
+          "markt": "Doppelte Chance X2 (Unentschieden oder PSG)",
+          "prognose": "PSG gewinnt oder Remis",
+          "quote": 1.13,
+          "edge_prozent": 6,
+          "faire_quote": 1.07,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 8.25,
+          "begruendung": "Markt-Goldgrube DC (82.4% Hit + verwandt). PSG Klasse-Edge selbst bei B-Aufstellung. Lesson 11.05./14.05. 13-Tage-vor-CL-Final = noch nicht Schon-Modus aber Sieg-Tipp downgrade auf DC-Variante. Mapper-Hebel S: Saison-Auslauf-Token in motivations_asymmetrie -> kein SAFE. Einsatz 8,25€ (1.5%)."
+        },
+        {
+          "id": "pfc-psg-2",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "prognose": "Mehr als 2 Tore im Spiel",
+          "quote": 1.55,
+          "edge_prozent": 10,
+          "faire_quote": 1.4,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 5.5,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (+52.3% ROI). PSG-Offensive (Dembele/Kvaratskhelia/Barcola) + Paris-FC-Saisonende-offen + Derby-Stimmung Stade Jean Bouin. Saisonende-Flaute-Filter trifft nicht (PSG-Offensive ueber 2.5/Spiel Schnitt). Einsatz 5,50€ (1.0%)."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 2,
+        "gast": 1,
+        "endstand": "2:1",
+        "kommentar": "Paris FC 2:1 PSG - Barcola 50 (PSG), Gory 76 + 90+4 (Paris FC). PSG mit B-Elf vor CL-Finale (30.05.). Sensationssieg Paris FC."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "pfc-psg-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Paris FC gewinnt 2:1 - DC X2 (PSG/Remis) verloren."
+        },
+        {
+          "tipp_id": "pfc-psg-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.55,
+          "kommentar": "3 Tore - Ueber 2.5."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "2:1",
+        "tore": [
+          {
+            "min": 50,
+            "team": "gast",
+            "spieler": "Bradley Barcola",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 76,
+            "team": "heim",
+            "spieler": "Alimami Gory",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": "90+4",
+            "team": "heim",
+            "spieler": "Alimami Gory",
+            "stand_danach": "2:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "PSG fuehrte 0:1 mit nur 1-Tor-Polster, Paris FC drehte spaet zum 2:1. Keine 2:0-Drehung im strengen Sinn, aber Sieg-Drehung des Underdogs in den letzten 15 Min."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/ParisFC",
+          "kein_team_zu_null": true,
+          "siegtor_in_letzten_15min": true,
+          "ausgleich_in_letzten_15min": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "PSG B-Elf",
+            "details": "PSG mit Total-Rotation vor CL-Finale 30.05. vs Inter - Hakimi, Zaire-Emery, Chevalier alle out/geschont. Erwartete Elf: Safonov, Hernandez, Mayulu, Zabarnyi, Beraldo, Fernandez, Ruiz, Doue, Mbaye, Ramos, Kvaratskhelia."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "TOP-TEAM-ROTATION-VOR-CL-FINAL-PATTERN (genau Lesson 03.05. SAFE-Reality-Check #2 + Bayern-Heidenheim 02.05. Pattern): PSG mit B-Elf gegen motivierten Aufsteiger Paris FC -> Sensationssieg fuer Underdog. Pfc-psg-1 DC X2 @1.13 verloren genau aus diesem Grund.",
+          "Underdog-Sieg-Drehung in den letzten 15 Min - Pattern: Top-Team B-Elf hat in Schlussphase keine Reserve, Underdog mit voller Motivation profitiert.",
+          "Ueber-2.5-Markt (Goldgrube) durch (pfc-psg-2 @1.55) - bei B-Elf-Spielen oft Tor-Festival da Defensiv-Abstimmung fehlt."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-17-rom-laz",
+      "liga": "Serie A",
+      "heim": "AS Roma",
+      "gast": "SS Lazio",
+      "anstoss": "2026-05-17T12:00:00+02:00",
+      "stadion": "Stadio Olimpico, Rom",
+      "saison_kontext": {
+        "parallel_heim": "keine - Roma seit EL-Aus keine UEFA-Termine",
+        "parallel_gast": "keine - Lazio nicht in Europa-Final-Reichweite",
+        "saisonziel_heim": "Roma 5.-6. mit Europa-/Conference-Quali-Hoffnung - Pflicht-Sieg-Profil",
+        "saisonziel_gast": "Lazio Mid-Table - Saison gelaufen, aber Derby-Stolz immer",
+        "motivations_asymmetrie": "Roma-Quali-Druck + Heim-Derby-Stimmung Olimpico vs Lazio-Pflicht-Stolz. Klasse-Edge knapp Roma. Derby-Drehungs-Risiko klassisch.",
+        "recovery_heim": "Roma 4-5 Tage seit letztem Spiel",
+        "recovery_gast": "Lazio 4 Tage seit letztem Spiel",
+        "quellen": [
+          "https://www.sportsmole.co.uk/football/roma/rome-derby/preview/roma-vs-lazio-prediction-team-news-lineups_597621.html",
+          "https://www.whoscored.com/articles/Eq1lT2gWO0qDBBZC6HcJRg/show/roma-vs-lazio-prediction-team-news-predicted-lineups-where-to-watch-rome-derby-serie-a-preview",
+          "https://www.fotmob.com/matches/lazio-vs-roma/2gdicp",
+          "https://thelaziali.com/2026/05/16/roma-vs-lazio-best-combined-xi-giallorossi-dominate-the-lineup/"
+        ]
+      },
+      "news": [
+        "Derby della Capitale - immer Drehungs- und Karten-Risiko",
+        "Roma 8/15 (1.53) Heim-Favorit (bet365 laut Quelle)",
+        "Roma-Aufstellung: Svilar - Mancini/N'Dicka/Hermoso - Celik/Cristante/Kone/Wesley - Pisilli/Dybala - Malen",
+        "Lazio-Aufstellung: Furlanetto - Marusic/Gila/Provstgaard/Pellegrini - Basic/Rovella/Taylor - Cancellieri/Dia/...",
+        "Dybala/Soule als Kreativ-Duo hinter Malen - Doppel-9er-Risiko fuer Lazio-Defense",
+        "Serie A in Beobachtungs-Liga-Status (ROI -46% letzte 30 Tage, n=5) -> max wackel, nicht in Einzeltipps oder Hauptkombis"
+      ],
+      "tipps": [
+        {
+          "id": "rom-laz-1",
+          "kategorie": "wackel",
+          "markt": "🔍 Beobachtung Serie A - Beide Teams treffen JA",
+          "prognose": "Beide Teams treffen mindestens 1x",
+          "quote": 1.85,
+          "edge_prozent": 7,
+          "faire_quote": 1.73,
+          "empfohlener_einsatz_prozent": 0.0,
+          "einsatz_euro": 0.0,
+          "begruendung": "🔍 Beobachtung Serie A (ROI -46%, n=5). Derby della Capitale-Profil mit BTTS-Historie. Lesson 27.04. Beobachtungs-Liga-Modus: KEIN normaler Einsatz, Tipp nur Info-Anzeige. NICHT in Einzeltipps oder Hauptkombis. Nur Moonshot ab Quote 5.0+ erlaubt."
+        },
+        {
+          "id": "rom-laz-2",
+          "kategorie": "wackel",
+          "markt": "🔍 Beobachtung Serie A - Doppelte Chance 1X",
+          "prognose": "Roma gewinnt oder Remis",
+          "quote": 1.2,
+          "edge_prozent": 5,
+          "faire_quote": 1.13,
+          "empfohlener_einsatz_prozent": 0.0,
+          "einsatz_euro": 0.0,
+          "begruendung": "🔍 Beobachtung Serie A. Roma-Heim-Pflicht-Quali + Derby-Stimmung. NICHT in Einzeltipps. Info-Anzeige."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 2,
+        "gast": 0,
+        "endstand": "2:0",
+        "kommentar": "Roma 2:0 Lazio Derby - Mancini 40 + 66 (beide Kopfballer nach Eckball). Roma steigt auf Platz 4. Beide Teams mit Rot."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "rom-laz-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Lazio kein Tor (Roma zu Null) - BTTS NEIN."
+        },
+        {
+          "tipp_id": "rom-laz-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.19999999999999996,
+          "kommentar": "Roma 2:0-Sieg - DC 1X durch."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "2:0",
+        "tore": [
+          {
+            "min": 40,
+            "team": "heim",
+            "spieler": "Gianluca Mancini (Kopfball, Eckball Pisilli)",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 66,
+            "team": "heim",
+            "spieler": "Gianluca Mancini (Kopfball, Eckball Dybala)",
+            "stand_danach": "2:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Roma fuehrte durchweg. Keine Drehung. 2:0-Insurance fuer Roma greifen wuerde, falls Sieg-Tipp - hier kein BL/CL also nicht relevant."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Roma/Roma",
+          "kein_team_zu_null": false,
+          "siegtor_in_letzten_15min": false,
+          "ausgleich_in_letzten_15min": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Beobachtungs-Liga Serie A: Roma-Sieg DC 1X (Goldgrube) durch, aber BTTS daneben - Serie A weiterhin defensiv-orientiert. Beobachtungs-Status bleibt.",
+          "Roma-Lazio-Derby mit klarem 2:0 - Mancini-Standard-Doppel. Pattern: Italienische Derbys oft defensiv + Standardtoren entscheidend (genau die Goldgrube DC 1X bestaetigt).",
+          "BTTS-Tipp (rom-laz-1) verloren trotz Derby-Charakter - Lesson: Derby = nicht automatisch BTTS, sondern oft 1:0/2:0 mit Standard-Toren des Heim-Favoriten."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-17-int-ver",
+      "liga": "Serie A",
+      "heim": "Inter Mailand",
+      "gast": "Hellas Verona",
+      "anstoss": "2026-05-17T12:00:00+02:00",
+      "stadion": "Giuseppe Meazza, Mailand",
+      "saison_kontext": {
+        "parallel_heim": "keine - Inter aus CL raus, keine UEFA-Termin diese Woche",
+        "parallel_gast": "keine - Verona abgestiegen seit Ende April, Saison-Auslauf",
+        "saisonziel_heim": "Inter 1.-2. Pl. - Meisterschafts-Hoffnung Saison-Endphase, Heim-Saisonfinale, Lautaro Capocannoniere-Race (Top-Torschuetzen-Rennen)",
+        "saisonziel_gast": "Verona ABGESTIEGEN seit April - Saison gelaufen, B-Aufstellung in Auslauf",
+        "motivations_asymmetrie": "Inter alles drauf (Meister-Druck + Lautaro-Pichichi 4-Tore-Fuehrung) vs Verona schon weg. Klasse-Edge maximal asymmetrisch. Beobachtungs-Liga Pattern aber Klassen-Edge ist so klar dass Klassenerhalts-vs-Top-Profil greift.",
+        "recovery_heim": "Inter 4 Tage seit letztem Spiel",
+        "recovery_gast": "Verona 4-5 Tage seit letztem Spiel",
+        "quellen": [
+          "https://www.sportsgambler.com/betting-tips/football/inter-milan-vs-hellas-verona-prediction-lineups-odds-2026-05-17/",
+          "https://www.fotmob.com/matches/inter-vs-hellas-verona/2u0z0c",
+          "https://www.playmakerstats.com/news/preview-internazionale-vs-hellas-verona-team-news-lineups-predictions-serie-a-17-05-/1126223",
+          "https://www.sofascore.com/football/match/hellas-verona-inter/Xdbsbeb"
+        ]
+      },
+      "news": [
+        "Verona ABGESTIEGEN - kompletter Saison-Auslauf, B-Aufstellung erwartet",
+        "Lautaro Martinez 17 Tore Saison + 4-Tore-Fuehrung in Capocannoniere - maximale Tor-Motivation",
+        "Inter Heim-Sieg-Quote 1.20 - Klasse-Asymmetrie enorm",
+        "Lautaro 4 Tore in letzten 4 Spielen - Form-Edge HR24",
+        "Serie A in Beobachtungs-Liga (ROI -46%) -> max wackel, nicht in Einzeltipps/Hauptkombis. Moonshot ab Quote 5.0",
+        "Bonny + Henrique unterstuetzen Lautaro - Inter-Sturm voll"
+      ],
+      "tipps": [
+        {
+          "id": "int-ver-2",
+          "kategorie": "wackel",
+          "markt": "🔍 Beobachtung Serie A - Ueber 3.5 Tore",
+          "prognose": "Mehr als 3 Tore im Spiel",
+          "quote": 1.92,
+          "edge_prozent": 7,
+          "faire_quote": 1.8,
+          "empfohlener_einsatz_prozent": 0.0,
+          "einsatz_euro": 0.0,
+          "begruendung": "🔍 Beobachtung Serie A. Inter Top-Klub + Lautaro + Bonny + Verona offen ohne Druck = Tor-Festival-Setup. NICHT in Einzeltipps. Info-Anzeige."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 1,
+        "gast": 1,
+        "endstand": "1:1",
+        "kommentar": "Inter 1:1 Verona - Edmundsson EigentorOG (2.HZ) fuer Inter, Bowie 90+ Ausgleich. Inzaghi mit Total-Rotation vor CL-Finale 30.05. vs PSG."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "int-ver-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Nur 2 Tore - Unter 3.5."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "1:1",
+        "tore": [
+          {
+            "min": 55,
+            "team": "heim",
+            "spieler": "A. Edmundsson (Eigentor)",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": "90+2",
+            "team": "gast",
+            "spieler": "Kieron Bowie",
+            "stand_danach": "1:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Inter fuehrte 1:0 nur knapp, Verona glich in der Nachspielzeit aus. Keine 2-Tore-Drehung."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Unentschieden",
+          "kein_team_zu_null": true,
+          "siegtor_in_letzten_15min": false,
+          "ausgleich_in_letzten_15min": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Inter B-Elf",
+            "details": "Inzaghi mit angekuendigter Total-Rotation (bis zu 10 Wechsel) vor CL-Finale 30.05. vs PSG. Inter bereits Meister, Verona Mid-Table - Inter zog Schoner durch."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "ZWEITES TOP-TEAM-ROTATION-VOR-CL-FINAL-PATTERN am gleichen Tag: Inter (B-Elf vor CL-Finale) verspielt 1:0-Fuehrung in der Nachspielzeit. PSG-B-Elf verlor (s.o.). Beide Finalisten am 30.05. heute mit B-Elf-Patzern.",
+          "Drehung-naher Pattern: Verona-Ausgleich in 90+ ist klassischer B-Elf-Schlussphasen-Crash. Pattern wiederholt sich (Bayern 02.05. mit Olise 90+10, PSG heute 90+4, jetzt Inter 90+2).",
+          "Beobachtungs-Liga Serie A: int-ver-2 Ueber 3.5 verloren (nur 2 Tore). Bei B-Elf-Mannschaften lieber Unter 2.5/3.5 spielen statt Ueber."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-17-det-cle",
+      "liga": "NBA Playoffs Round 2, Game 7",
+      "heim": "Detroit Pistons",
+      "gast": "Cleveland Cavaliers",
+      "anstoss": "2026-05-18T02:00:00+02:00",
+      "stadion": "Little Caesars Arena, Detroit",
+      "saison_kontext": {
+        "parallel_heim": "keine - reines NBA-Playoff-Schedule",
+        "parallel_gast": "keine",
+        "saisonziel_heim": "Pistons 3-3 in Serie - Eastern Conference Finals nur 1 Sieg entfernt, Cunningham-Karriere-Highlight",
+        "saisonziel_gast": "Cavs 3-3 in Serie - Mitchell/Mobley/Allen + Harden in letzter Saison-Spiele",
+        "motivations_asymmetrie": "G7-Heimcourt-Vorteil Pistons + Cunningham-Topform vs Cavs-Comeback-Hoffnung (G5-Win 117:113 OT mit Harden 30/Mitchell 21/Strus 20). Klassischer Decider - keine Klasse-Edge.",
+        "recovery_heim": "Pistons 2 Tage seit G6-Sieg 115:94 in Cleveland",
+        "recovery_gast": "Cavs 2 Tage seit G6-Pleite",
+        "quellen": [
+          "https://sports.yahoo.com/articles/cavs-pistons-game-7-watch-234651486.html",
+          "https://www.fearthesword.com/cavs-injury-report/49600/cavs-at-pistons-game-7-how-to-watch-odds-and-injury-report",
+          "https://bleacherreport.com/game/cleveland-cavaliers-vs-detroit-pistons-2026-5-17-12-00",
+          "https://www.foxsports.com/nba/nba-playoffs-round-2-game-7-cleveland-cavaliers-vs-detroit-pistons-may-17-2026-game-boxscore-106454"
+        ]
+      },
+      "news": [
+        "Serie 3-3 - reines Decider G7 in Detroit (Pistons hoeher gesetzt)",
+        "Cavs-Injury: Larry Nance Jr. DOUBTFUL (Illness)",
+        "Pistons-Injury: Duncan Robinson Q (Back), Kevin Huerter Q (Abductor), LeVert Q (Heel)",
+        "Cunningham G6 dominant, Pistons Sieg +21 - Form-Edge Heim",
+        "Harden 30/Mitchell 21/Strus 20 in G5 - Cavs-Offense funktioniert, aber G6-Blowout-Pleite",
+        "Lesson 13.05. NBA-Playoff-nie-SAFE BLEIBT default. Heim-G7-Decider mit Klassen-Edge = VALUE-Ausnahme (1.0% Stake erlaubt) - hier kein klarer Klassen-Edge"
+      ],
+      "tipps": [
+        {
+          "id": "det-cle-1",
+          "kategorie": "wackel",
+          "markt": "Detroit Pistons Sieg",
+          "prognose": "Pistons gewinnen G7",
+          "quote": 1.74,
+          "edge_prozent": 8,
+          "faire_quote": 1.61,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 2.75,
+          "begruendung": "G7-Heimcourt-Pattern (Cavs/Spurs Beleg: Heim-Decider-Edge historisch 65%+). Pistons G6-Form +21 + Cunningham-Karriere-Highlight. Lesson 13.05.: NBA-Decider max wackel default, hier mit G6-Form-Boost auf max wackel-Top-Range. Lesson 15.05. (Closeout-Pattern) WIDERLEGT durch G6-Pistons-Sieg = vorsichtiger als sonst. Einsatz 2,75€ (0.5%)."
+        },
+        {
+          "id": "det-cle-2",
+          "kategorie": "wackel",
+          "markt": "Unter 215.5 Punkte (Total)",
+          "prognose": "Weniger als 216 Punkte gesamt",
+          "quote": 1.9,
+          "edge_prozent": 6,
+          "faire_quote": 1.79,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 2.75,
+          "begruendung": "G7-Defensiv-Druck-Pattern (Lesson 02.05. + Series-Empirie diese Serie). G6-Total 209 unter Linie, G3-G4 ebenfalls. Cunningham + Mitchell beide nicht in heisser Wurf-Form Serie. Lesson 13.05. NBA-Decider Total Defense > Pace. Einsatz 2,75€ (0.5%)."
+        },
+        {
+          "id": "det-cle-3",
+          "kategorie": "wackel",
+          "markt": "Cade Cunningham Ueber 25.5 Punkte",
+          "prognose": "Cunningham erzielt mehr als 25 Pkt",
+          "quote": 1.8,
+          "edge_prozent": 4,
+          "faire_quote": 1.73,
+          "empfohlener_einsatz_prozent": 0.25,
+          "einsatz_euro": 1.4,
+          "begruendung": "Cunningham Heim-Decider + G6-Form. Lesson 04.05. NBA-Player-Punkte Heim-Top differenziert OK. Aber Lesson 05.05. Round-Wechsel-Korrektur + Lesson 13.05. Decider-Defense -> nur wackel Mini-Stake 1.40€ (0.25%)."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 94,
+        "gast": 125,
+        "endstand": "94:125",
+        "kommentar": "Cavaliers 125:94 - Mitchell 26, Allen 23, Merrill 23, Mobley 21+12. Cunningham nur 13 Pkt. HZ 47:64 fuer CLE. Cleveland ins ECF."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "det-cle-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Pistons 94:125 verloren - Cavs ueberlegen."
+        },
+        {
+          "tipp_id": "det-cle-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "94+125=219 Punkte - Ueber 215.5."
+        },
+        {
+          "tipp_id": "det-cle-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Cunningham nur 13 Punkte (eingebrochen unter Druck) - Unter 25.5."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "47:64",
+        "endstand": "94:125",
+        "tore": [],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Cavs dominierten vom Tip-off, fuehrten zeitweise mit 35. Keine Drehung - Pistons kollabierten unter Druck."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": true,
+          "halbzeit_endstand": "Cavaliers/Cavaliers",
+          "kein_team_zu_null": true,
+          "siegtor_in_letzten_15min": false,
+          "ausgleich_in_letzten_15min": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Game-7-Auswaerts-Heim-Druck-Pattern: Pistons (Heim) bei 47:64-HZ-Defizit kollabierten in 2.HZ (47 Punkte 2.HZ vs Cavs 61). Pistons-Sieg-Tipp @1.74 (Wackel) war Reality-Check-FAIL - in echten Druck-Situationen kollabieren Underdogs trotz Heimvorteil.",
+          "NBA-Star-Tipp-Crash bei Stomp-Game: Cunningham nur 13 Punkte bei -31 Pleite. Lesson: bei Game-7-Pleiten kollabiert auch der Star statistisch. Bei Spieler-Punkte-Tipps Game-7-Heim-Underdog-Spread > -7 grundsaetzlich meiden.",
+          "Unter-215.5-Tipp @1.9 daneben - bei Game-7-Druck-Spielen oft hohe Punkte (3er-Wuerfe haeufiger, Tempo hoch). Pattern: NBA-Playoff-Unter-Tipps in Game-7-Spielen unprofitable Linie."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "et-1",
+      "spiel_id": "2026-05-17-bar-bet",
+      "spiel": "Barcelona - Real Betis",
+      "anstoss": "2026-05-17T21:15:00+02:00",
+      "tipp_ref": "bar-bet-3",
+      "kategorie": "value",
+      "markt": "Doppelte Chance 1X (Barcelona oder Unentschieden)",
+      "quote": 1.07,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "DC-Goldgrube 82.4% Hit. Barca Heim 100% Saison + Meister-Feier + Lewandowski-Abschied = Karriere-Highlight (Lesson 16.05.). Einsatz 8,25€ (1.5% von 550€-Kasse).",
+      "rang": 1
+    },
+    {
+      "id": "et-2",
+      "spiel_id": "2026-05-17-bar-bet",
+      "spiel": "Barcelona - Real Betis",
+      "anstoss": "2026-05-17T21:15:00+02:00",
+      "tipp_ref": "bar-bet-1",
+      "kategorie": "value",
+      "markt": "Robert Lewandowski trifft (Jederzeit)",
+      "quote": 1.85,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Lewa Camp-Nou-Abschied + Pichichi-Race (21+ Tore) + Heim-Karriere-Highlight Lesson 16.05. Einsatz 8,25€.",
+      "rang": 2
+    },
+    {
+      "id": "et-3",
+      "spiel_id": "2026-05-17-bar-bet",
+      "spiel": "Barcelona - Real Betis",
+      "anstoss": "2026-05-17T21:15:00+02:00",
+      "tipp_ref": "bar-bet-2",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.5,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Markt-Goldgrube Ueber 2.5 (+52.3% ROI). Barca-Heim 3.5 Tore/Spiel + Meister-Feier + Lewa-Abschied. Einsatz 8,25€.",
+      "rang": 3
+    },
+    {
+      "id": "et-4",
+      "spiel_id": "2026-05-17-atm-gir",
+      "spiel": "Atletico Madrid - Girona",
+      "anstoss": "2026-05-17T19:00:00+02:00",
+      "tipp_ref": "atm-gir-1",
+      "kategorie": "value",
+      "markt": "Alexander Sorloth trifft (Jederzeit)",
+      "quote": 2.25,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Markt-Goldgrube Torschuetzen. Soerloth 3 Tore in 4 Spielen + J.Alvarez doubt = Starter-Solo-9er + Girona-Defense-Notstand. Einsatz 8,25€.",
+      "rang": 4
+    },
+    {
+      "id": "et-5",
+      "spiel_id": "2026-05-17-atm-gir",
+      "spiel": "Atletico Madrid - Girona",
+      "anstoss": "2026-05-17T19:00:00+02:00",
+      "tipp_ref": "atm-gir-2",
+      "kategorie": "value",
+      "markt": "Doppelte Chance 1X (Atletico oder Remis)",
+      "quote": 1.16,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "DC-Goldgrube 82.4% Hit. Atletico 4-Sieg-Serie + Girona-Stuermer-Notstand. Einsatz 8,25€.",
+      "rang": 5
+    },
+    {
+      "id": "et-6",
+      "spiel_id": "2026-05-17-sev-rma",
+      "spiel": "Sevilla - Real Madrid",
+      "anstoss": "2026-05-17T19:00:00+02:00",
+      "tipp_ref": "sev-rma-1",
+      "kategorie": "value",
+      "markt": "Kylian Mbappe trifft (Jederzeit)",
+      "quote": 1.7,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Mbappe Pichichi-Race + Stolz-Reaktion nach Clasico-Pleite + Sevilla-Defense schwach. Einsatz 8,25€.",
+      "rang": 6
+    },
+    {
+      "id": "et-7",
+      "spiel_id": "2026-05-17-sev-rma",
+      "spiel": "Sevilla - Real Madrid",
+      "anstoss": "2026-05-17T19:00:00+02:00",
+      "tipp_ref": "sev-rma-2",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen JA",
+      "quote": 1.59,
+      "einsatz_euro": 5.5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Real-Lazarett-Defense (Mendy/Militao/Carvajal OUT) + Sevilla-Heim-Stolz. Einsatz 5,50€ (1.0%).",
+      "rang": 7
+    },
+    {
+      "id": "et-8",
+      "spiel_id": "2026-05-17-mun-nfo",
+      "spiel": "Man United - Nottingham Forest",
+      "anstoss": "2026-05-17T14:30:00+02:00",
+      "tipp_ref": "mun-nfo-1",
+      "kategorie": "value",
+      "markt": "Doppelte Chance 1X (ManU oder Remis)",
+      "quote": 1.22,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "DC-Goldgrube 82.4% Hit. Forest-Lazarett-Massiv + Old-Trafford-Heim-Saisonfinale. Lesson 10.05. PL-Sieg-Cluster -> DC statt ML. Einsatz 8,25€.",
+      "rang": 8
+    },
+    {
+      "id": "et-9",
+      "spiel_id": "2026-05-17-mun-nfo",
+      "spiel": "Man United - Nottingham Forest",
+      "anstoss": "2026-05-17T14:30:00+02:00",
+      "tipp_ref": "mun-nfo-2",
+      "kategorie": "value",
+      "markt": "Bryan Mbeumo trifft (Jederzeit)",
+      "quote": 2.85,
+      "einsatz_euro": 5.5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. ManU-Top-Scorer 14+ Tore Saison + Forest-Defense ohne Murillo/Savona. Einsatz 5,50€.",
+      "rang": 9
+    },
+    {
+      "id": "et-10",
+      "spiel_id": "2026-05-17-pfc-psg",
+      "spiel": "Paris FC - PSG",
+      "anstoss": "2026-05-17T20:00:00+02:00",
+      "tipp_ref": "pfc-psg-1",
+      "kategorie": "value",
+      "markt": "Doppelte Chance X2 (PSG oder Remis)",
+      "quote": 1.13,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "DC-Goldgrube. PSG Klasse-Edge selbst bei B-Aufstellung 13 Tage vor CL-Final. Einsatz 8,25€.",
+      "rang": 10
+    },
+    {
+      "id": "et-11",
+      "spiel_id": "2026-05-17-pfc-psg",
+      "spiel": "Paris FC - PSG",
+      "anstoss": "2026-05-17T20:00:00+02:00",
+      "tipp_ref": "pfc-psg-2",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.55,
+      "einsatz_euro": 5.5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Markt-Goldgrube Ueber 2.5. PSG-Offensive Dembele/Kvaratskhelia/Barcola + Paris-FC-offene Aufstellung. Einsatz 5,50€.",
+      "rang": 11
+    },
+    {
+      "id": "et-12",
+      "spiel_id": "2026-05-17-mun-nfo",
+      "spiel": "Man United - Nottingham Forest",
+      "anstoss": "2026-05-17T14:30:00+02:00",
+      "tipp_ref": "mun-nfo-3",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.72,
+      "einsatz_euro": 5.5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Markt-Goldgrube Ueber 2.5. Old-Trafford-Karriere-Highlight + offenes Spiel + BTTS-Tendenz beidseitig. Einsatz 5,50€.",
+      "rang": 12
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-safe",
+      "typ": "Safe-Kombi ~3.5x",
+      "kategorie": "safe",
+      "gesamtquote": 3.54,
+      "einsatz_euro": 11.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "Safe-Kombi mit 3 heterogenen Beinen aus 3 Spielen (HR23 Layer-3 ok). HR17 erfuellt: nur 1 Sieg-Bein (DC 1X als DC-Variante zaehlt nicht reines Sieg). 1 Torschuetzen + 2 DC-Beine. Mbeumo (Heim-Saisonfinale + Top-Scorer) + DC Atletico (Lazarett-Override + Heim-Form) + DC Barcelona (Meister + Lewa-Abschied + 100% Heim-Saison). Diversifiziert: PL + LaLiga + LaLiga. Einsatz 11€ (2.0% der 550€-Kasse). Faire Gesamt-Wahrscheinlichkeit ~32%, Quote 3.54.",
+      "beine": [
+        {
+          "spiel_id": "2026-05-17-mun-nfo",
+          "tipp_id": "mun-nfo-2",
+          "markt": "Manchester United - Nottingham Forest: Bryan Mbeumo trifft (Jederzeit)",
+          "quote": 2.85,
+          "spiel_titel": "Manchester United - Nottingham Forest"
+        },
+        {
+          "spiel_id": "2026-05-17-atm-gir",
+          "tipp_id": "atm-gir-2",
+          "markt": "Club Atletico de Madrid - Girona FC: Doppelte Chance 1X (Atletico oder Unentschieden)",
+          "quote": 1.16,
+          "spiel_titel": "Club Atletico de Madrid - Girona FC"
+        },
+        {
+          "spiel_id": "2026-05-17-bar-bet",
+          "tipp_id": "bar-bet-3",
+          "markt": "FC Barcelona - Real Betis Balompie: Doppelte Chance 1X (Barcelona oder Unentschieden)",
+          "quote": 1.07,
+          "spiel_titel": "FC Barcelona - Real Betis Balompie"
+        }
+      ]
+    },
+    {
+      "id": "kombi-balance",
+      "typ": "Balance-Kombi ~8x",
+      "kategorie": "balance",
+      "gesamtquote": 4.19,
+      "einsatz_euro": 4.4,
+      "empfohlener_einsatz_prozent": 0.8,
+      "begruendung": "Balance-Kombi mit 4 markt-typ-diversifizierten Beinen (Total + BTTS + BTTS + Total NBA). HR23 Layer-3 erfuellt: jedes Bein aus anderem Spiel als Safe. PFC-PSG Ueber 2.5 (PSG-Offensive) + Sev-RMA BTTS (Real-Lazarett-Defense) + Athletic-Celta BTTS + Pistons-Cavs G7 Unter 215.5 (G7-Defensiv-Pattern Lesson 13.05.). Einsatz 4,40€ (0.8%). Gesamt 7.96.",
+      "beine": [
+        {
+          "spiel_id": "2026-05-17-pfc-psg",
+          "tipp_id": "pfc-psg-2",
+          "markt": "Paris FC - Paris Saint-Germain: Ueber 2.5 Tore",
+          "quote": 1.55,
+          "spiel_titel": "Paris FC - Paris Saint-Germain"
+        },
+        {
+          "spiel_id": "2026-05-17-sev-rma",
+          "tipp_id": "sev-rma-2",
+          "markt": "Sevilla FC - Real Madrid CF: Beide Teams treffen JA",
+          "quote": 1.59,
+          "spiel_titel": "Sevilla FC - Real Madrid CF"
+        },
+        {
+          "spiel_id": "2026-05-17-ath-cel",
+          "tipp_id": "ath-cel-2",
+          "markt": "Athletic Club Bilbao - Celta Vigo: Beide Teams treffen JA",
+          "quote": 1.7,
+          "spiel_titel": "Athletic Club Bilbao - Celta Vigo"
+        }
+      ],
+      "rechnung": "1.55 x 1.59 x 1.70 = 4.19"
+    }
+  ],
+  "lessons_angewandt": [
+    {
+      "datum_lesson": "2026-05-16",
+      "kategorie": "Heim-Karriere-Highlight-anti-Rotation",
+      "anwendung": "Barca-Lewandowski-Abschied + ManU-Old-Trafford-Saisonfinale als Lesson 16.05. Heim-Karriere-Highlight = anti-Rotation. Lewa Tor als VALUE + ManU DC + Tor-Beine erhoeht."
+    },
+    {
+      "datum_lesson": "2026-05-16",
+      "kategorie": "Drehungs-Cluster Mai - DC X2 schuetzt",
+      "anwendung": "Bei allen Heim-Favorit-Spielen direkter Sieg-Tipp gemieden, stattdessen DC 1X (Barca, Atletico, ManU). PSG mit X2 (Auswaerts-Favorit). 5 Drehungen im Mai bisher (Lesson 16.05.)."
+    },
+    {
+      "datum_lesson": "2026-05-16",
+      "kategorie": "Existenz-Druck-Max-1-Tipp",
+      "anwendung": "Heidenheim-Fehler vermieden: kein Doppel-Outcome auf gleicher Druck-These pro Spiel. Atletico hat 1 Sieg-Bein (DC) + 1 Tor-Bein (Sorloth), keine Doppel-Sieg-Exposition."
+    },
+    {
+      "datum_lesson": "2026-05-15",
+      "kategorie": "Korrelations-Schutz Cluster-Cap",
+      "anwendung": "HR23 Layer-3 angewandt: pro Spiel max 1 Bein in Hauptkombis (Safe/Balance). Risiko/Moonshot lockerer mit Markt-Familie-Diversifikation. Cleveland-Fehler vermieden."
+    },
+    {
+      "datum_lesson": "2026-05-15",
+      "kategorie": "Closeout-G7-NBA-Decider",
+      "anwendung": "Pistons-Cavs G7 als Decider klassifiziert. Pistons-Sieg max wackel (kein SAFE/VALUE) trotz Heimcourt. Cunningham Ueber 25.5 nur 0.25%-Mini-Stake. Total Unter 215.5 wegen Series-Defensive-Pattern."
+    },
+    {
+      "datum_lesson": "2026-05-14",
+      "kategorie": "Top-Team-Final-Schon 7d / Karriere-Highlight-INVERS",
+      "anwendung": "PSG-Tipp angepasst: CL-Final 30.05. ist 13 Tage entfernt = 13-25-Zone (Sieg-VALUE noch OK aber DC bevorzugt). Lewa als Karriere-Highlight-Heim explizit ALS Edge genutzt (Lesson INVERS, gilt fuer Heim-Karriere-Highlight)."
+    },
+    {
+      "datum_lesson": "2026-05-13",
+      "kategorie": "HR22-Override LaLiga-Top-4",
+      "anwendung": "Atletico mit Lazarett wird NICHT auf Implosions-Profil heruntergesetzt - Klasse-Edge + Bench schluckt Verletzungen. DC 1X als VALUE statt downgrade auf wackel."
+    },
+    {
+      "datum_lesson": "2026-05-13",
+      "kategorie": "Aufstellungs-Verifikations-PFLICHT Form-Edge-Tor",
+      "anwendung": "Mbappe + Vinicius via Lineup-Reports SI/Managing Madrid verifiziert. Sorloth-Start bei Alvarez doubt aktiv geprueft. Lewandowski als Startelf + Captain bestaetigt."
+    },
+    {
+      "datum_lesson": "2026-05-11",
+      "kategorie": "BL-/PL-Sieg-Cluster Saisonende = max wackel",
+      "anwendung": "ManU-Sieg-Tipp NICHT als ML gesetzt, sondern DC 1X. Auch fuer LaLiga-Spiele: DC 1X bevorzugt vor direkter Sieg."
+    },
+    {
+      "datum_lesson": "2026-05-09",
+      "kategorie": "Saisonende-Tor-Flaute-Filter selektiv",
+      "anwendung": "Ueber 2.5 NUR bei Heim-Karriere-Highlight + Top-Klub-Pflicht-Heim. Bar-Bet + Mun-Nfo = JA. Athletic-Celta = max wackel."
+    },
+    {
+      "datum_lesson": "2026-05-04",
+      "kategorie": "PFLICHT-PROFILE Heim-/Auswaerts-Favorit Tor-Bein",
+      "anwendung": "Jedes Heim-Favorit-Spiel hat 1 Torschuetzen-Tipp: bar-bet Lewa, atm-gir Sorloth, mun-nfo Mbeumo. Auswaerts-Favorit sev-rma + pfc-psg: Mbappe / Dembele."
+    },
+    {
+      "datum_lesson": "2026-04-27",
+      "kategorie": "Beobachtungs-Liga max wackel, kein Einzeltipp/Hauptkombi",
+      "anwendung": "Serie A (Roma-Lazio + Inter-Verona) als 🔍 Beobachtung mit 0.0% Stake. Nur Moonshot-Kombi nutzt 1 Beobachtungs-Bein (Lautaro + Roma-Derby BTTS)."
+    }
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool, keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause.",
+  "einzeltipps_ergebnis": [
+    {
+      "id": "et-1",
+      "spiel_id": "2026-05-17-bar-bet",
+      "spiel": "Barcelona - Real Betis",
+      "anstoss": "2026-05-17T21:15:00+02:00",
+      "tipp_ref": "bar-bet-3",
+      "kategorie": "value",
+      "markt": "Doppelte Chance 1X (Barcelona oder Unentschieden)",
+      "quote": 1.07,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "DC-Goldgrube 82.4% Hit. Barca Heim 100% Saison + Meister-Feier + Lewandowski-Abschied = Karriere-Highlight (Lesson 16.05.). Einsatz 8,25€ (1.5% von 550€-Kasse).",
+      "rang": 1,
+      "status": "gewonnen",
+      "kommentar": "Barca 3:1 - DC 1X durch.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "gewinn_faktor": 0.07
+    },
+    {
+      "id": "et-2",
+      "spiel_id": "2026-05-17-bar-bet",
+      "spiel": "Barcelona - Real Betis",
+      "anstoss": "2026-05-17T21:15:00+02:00",
+      "tipp_ref": "bar-bet-1",
+      "kategorie": "value",
+      "markt": "Robert Lewandowski trifft (Jederzeit)",
+      "quote": 1.85,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Lewa Camp-Nou-Abschied + Pichichi-Race (21+ Tore) + Heim-Karriere-Highlight Lesson 16.05. Einsatz 8,25€.",
+      "rang": 2,
+      "status": "verloren",
+      "kommentar": "Lewa kein Tor (83. fuer Casado raus, Casado MF, kein Boost).",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "gewinn_faktor": -1.0
+    },
+    {
+      "id": "et-3",
+      "spiel_id": "2026-05-17-bar-bet",
+      "spiel": "Barcelona - Real Betis",
+      "anstoss": "2026-05-17T21:15:00+02:00",
+      "tipp_ref": "bar-bet-2",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.5,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Markt-Goldgrube Ueber 2.5 (+52.3% ROI). Barca-Heim 3.5 Tore/Spiel + Meister-Feier + Lewa-Abschied. Einsatz 8,25€.",
+      "rang": 3,
+      "status": "gewonnen",
+      "kommentar": "4 Tore - Ueber 2.5.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "gewinn_faktor": 0.5
+    },
+    {
+      "id": "et-4",
+      "spiel_id": "2026-05-17-atm-gir",
+      "spiel": "Atletico Madrid - Girona",
+      "anstoss": "2026-05-17T19:00:00+02:00",
+      "tipp_ref": "atm-gir-1",
+      "kategorie": "value",
+      "markt": "Alexander Sorloth trifft (Jederzeit)",
+      "quote": 2.25,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Markt-Goldgrube Torschuetzen. Soerloth 3 Tore in 4 Spielen + J.Alvarez doubt = Starter-Solo-9er + Girona-Defense-Notstand. Einsatz 8,25€.",
+      "rang": 4,
+      "status": "verloren",
+      "kommentar": "Sorloth kein Tor (kam erst 79. fuer Griezmann, Spiel entschieden).",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "gewinn_faktor": -1.0
+    },
+    {
+      "id": "et-5",
+      "spiel_id": "2026-05-17-atm-gir",
+      "spiel": "Atletico Madrid - Girona",
+      "anstoss": "2026-05-17T19:00:00+02:00",
+      "tipp_ref": "atm-gir-2",
+      "kategorie": "value",
+      "markt": "Doppelte Chance 1X (Atletico oder Remis)",
+      "quote": 1.16,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "DC-Goldgrube 82.4% Hit. Atletico 4-Sieg-Serie + Girona-Stuermer-Notstand. Einsatz 8,25€.",
+      "rang": 5,
+      "status": "gewonnen",
+      "kommentar": "Atletico 1:0-Sieg.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "gewinn_faktor": 0.16
+    },
+    {
+      "id": "et-6",
+      "spiel_id": "2026-05-17-sev-rma",
+      "spiel": "Sevilla - Real Madrid",
+      "anstoss": "2026-05-17T19:00:00+02:00",
+      "tipp_ref": "sev-rma-1",
+      "kategorie": "value",
+      "markt": "Kylian Mbappe trifft (Jederzeit)",
+      "quote": 1.7,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Mbappe Pichichi-Race + Stolz-Reaktion nach Clasico-Pleite + Sevilla-Defense schwach. Einsatz 8,25€.",
+      "rang": 6,
+      "status": "verloren",
+      "kommentar": "Mbappe kein Tor (Vinicius scort 15.).",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "gewinn_faktor": -1.0
+    },
+    {
+      "id": "et-7",
+      "spiel_id": "2026-05-17-sev-rma",
+      "spiel": "Sevilla - Real Madrid",
+      "anstoss": "2026-05-17T19:00:00+02:00",
+      "tipp_ref": "sev-rma-2",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen JA",
+      "quote": 1.59,
+      "einsatz_euro": 5.5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Real-Lazarett-Defense (Mendy/Militao/Carvajal OUT) + Sevilla-Heim-Stolz. Einsatz 5,50€ (1.0%).",
+      "rang": 7,
+      "status": "verloren",
+      "kommentar": "Sevilla zu Null - BTTS NEIN.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "gewinn_faktor": -1.0
+    },
+    {
+      "id": "et-8",
+      "spiel_id": "2026-05-17-mun-nfo",
+      "spiel": "Man United - Nottingham Forest",
+      "anstoss": "2026-05-17T14:30:00+02:00",
+      "tipp_ref": "mun-nfo-1",
+      "kategorie": "value",
+      "markt": "Doppelte Chance 1X (ManU oder Remis)",
+      "quote": 1.22,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "DC-Goldgrube 82.4% Hit. Forest-Lazarett-Massiv + Old-Trafford-Heim-Saisonfinale. Lesson 10.05. PL-Sieg-Cluster -> DC statt ML. Einsatz 8,25€.",
+      "rang": 8,
+      "status": "gewonnen",
+      "kommentar": "ManU 3:2-Sieg.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "gewinn_faktor": 0.22
+    },
+    {
+      "id": "et-9",
+      "spiel_id": "2026-05-17-mun-nfo",
+      "spiel": "Man United - Nottingham Forest",
+      "anstoss": "2026-05-17T14:30:00+02:00",
+      "tipp_ref": "mun-nfo-2",
+      "kategorie": "value",
+      "markt": "Bryan Mbeumo trifft (Jederzeit)",
+      "quote": 2.85,
+      "einsatz_euro": 5.5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. ManU-Top-Scorer 14+ Tore Saison + Forest-Defense ohne Murillo/Savona. Einsatz 5,50€.",
+      "rang": 9,
+      "status": "gewonnen",
+      "kommentar": "Mbeumo 76.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "gewinn_faktor": 1.85
+    },
+    {
+      "id": "et-10",
+      "spiel_id": "2026-05-17-pfc-psg",
+      "spiel": "Paris FC - PSG",
+      "anstoss": "2026-05-17T20:00:00+02:00",
+      "tipp_ref": "pfc-psg-1",
+      "kategorie": "value",
+      "markt": "Doppelte Chance X2 (PSG oder Remis)",
+      "quote": 1.13,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "DC-Goldgrube. PSG Klasse-Edge selbst bei B-Aufstellung 13 Tage vor CL-Final. Einsatz 8,25€.",
+      "rang": 10,
+      "status": "verloren",
+      "kommentar": "Paris FC 2:1 - DC X2 verloren (PSG-B-Elf-Crash).",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "gewinn_faktor": -1.0
+    },
+    {
+      "id": "et-11",
+      "spiel_id": "2026-05-17-pfc-psg",
+      "spiel": "Paris FC - PSG",
+      "anstoss": "2026-05-17T20:00:00+02:00",
+      "tipp_ref": "pfc-psg-2",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.55,
+      "einsatz_euro": 5.5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Markt-Goldgrube Ueber 2.5. PSG-Offensive Dembele/Kvaratskhelia/Barcola + Paris-FC-offene Aufstellung. Einsatz 5,50€.",
+      "rang": 11,
+      "status": "gewonnen",
+      "kommentar": "3 Tore - Ueber 2.5.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "gewinn_faktor": 0.55
+    },
+    {
+      "id": "et-12",
+      "spiel_id": "2026-05-17-mun-nfo",
+      "spiel": "Man United - Nottingham Forest",
+      "anstoss": "2026-05-17T14:30:00+02:00",
+      "tipp_ref": "mun-nfo-3",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.72,
+      "einsatz_euro": 5.5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Markt-Goldgrube Ueber 2.5. Old-Trafford-Karriere-Highlight + offenes Spiel + BTTS-Tendenz beidseitig. Einsatz 5,50€.",
+      "rang": 12,
+      "status": "gewonnen",
+      "kommentar": "5 Tore - Ueber 2.5.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "gewinn_faktor": 0.72
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "kombi-safe",
+      "status": "gewonnen",
+      "gesamtquote": 3.54,
+      "kommentar": "Alle 3 Beine durch: Mbeumo trifft 76. + Atletico 1:0-Sieg + Barca 3:1. Gesamtquote 3.54 erfuellt.",
+      "gewinn_faktor": 2.54
+    },
+    {
+      "kombi_id": "kombi-balance",
+      "status": "verloren",
+      "gesamtquote": 4.19,
+      "kommentar": "Sevilla-Real-Madrid BTTS verloren (1:0, Sevilla zu Null). Andere 2 Beine waeren durchgewesen (Ueber 2.5 PFC-PSG + BTTS Bilbao-Celta).",
+      "gewinn_faktor": -1.0
+    }
+  ],
+  "ausgewertet_am": "2026-05-18T06:22:55.721784"
+}
