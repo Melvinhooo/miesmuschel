@@ -51,18 +51,6 @@
           "begruendung": "Markt-Goldgrube Ueber 1.5 Tore (83.3% Hit / +31.7% ROI bei n=6). Arsenal-Heim 1.97 Tore/Spiel Schnitt + Heim-Saisonfinale-Anti-Rotation (Lesson 16.05.) + Burnley-Notformation ohne 3 Stammspieler + Gyokeres-Form-Lauf 14 Tore seit Jan = mind. 2 Arsenal-Tore extrem wahrscheinlich. Letztes H2H 2:0. PL nicht in Liga-Goldgrube (Hebel C), aber Markt-Goldgrube greift -> SAFE legitim (kein DC). Empfohlener Einsatz 11 EUR (2.0% der 550 EUR-Kasse, Kombi-Safe-Profile Stufe 1). Reality-Check: SAFE-Kategorie historisch 72.3% Hit, Ueber 1.5 mit 83.3% drueber - rechnerisch sehr robust."
         },
         {
-          "id": "ars-bur-2",
-          "kategorie": "value",
-          "markt": "Viktor Gyokeres trifft (Jederzeit)",
-          "prognose": "Gyokeres erzielt mindestens 1 Tor",
-          "quote": 1.61,
-          "edge_prozent": 12,
-          "faire_quote": 1.44,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 8.25,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (35.7% Hit / +19.5% ROI bei n=28 - bester ROI-Markt unter Volumen-Maerkten). Form-Edge-Pflicht Hebel-Regel 4: Gyokeres 14 Tore in 2026 mehr als jeder PL-Spieler + 21 Saison-Tore alle Wettbewerbe + 9 von 14 PL-Toren zu Hause + letzte Treffer vs Atletico CL-HF + vs Fulham (Doppelpack 02.05.) + im letzten H2H Burnley getroffen. Burnley-Defense ohne 3 Stammverteidiger plus 10 Pflichtspiele ohne Sieg = leicht zu durchbrechen. PFLICHT-PROFIL Heim-Favorit (ML 1.09) Hebel-Regel 2: MIN 1 Torschuetzen-Tipp pflicht ist erfuellt. Einsatz 8,25 EUR (1.5%)."
-        },
-        {
           "id": "ars-bur-3",
           "kategorie": "value",
           "markt": "Ueber 2.5 Tore",
@@ -334,12 +322,38 @@
     "drops": [],
     "downgrades": [],
     "warns": [
-      {"art": "quoten_abweichung", "tipp_id": "ars-bur-2", "abweichung": "+11%", "details": "Gyokeres-Torschuetzen-Quote im Tipp 1.61 vs Recherche-Aggregator-Schaetzung 1.45 - Recherche-Quote ist Schaetzwert, bei bet365 live pruefen"},
-      {"art": "quoten_abweichung", "tipp_id": "ars-bur-3", "abweichung": "+10%", "details": "Ueber 2.5 im Tipp 1.55 vs Recherche-Aggregator 1.41 - bei bet365 live pruefen"},
-      {"art": "quoten_abweichung", "tipp_id": "ars-bur-5", "abweichung": "+35%", "details": "Saka-Torschuetzen-Quote im Tipp 2.50 vs Recherche-Aggregator-Schaetzung 1.85 - signifikante Abweichung, Recherche-Schaetzung kann zu aggressiv gewesen sein, bei bet365 live pruefen"},
-      {"art": "kombi_rechnung_repariert", "kombi_id": "kombi-safe-mini", "details": "Pflichtfeld 'rechnung' fehlte - eingefuegt als '1.20 x 1.95 = 2.34'"},
-      {"art": "kombi_rechnung_repariert", "kombi_id": "kombi-balance", "details": "Pflichtfeld 'rechnung' war fehlerhaft '1.61 = 1.61' - korrigiert auf '1.61 x 1.90 = 3.06'"},
-      {"art": "kombi_anzahl_unter_soll", "details": "Nur 2 Kombis statt Soll-4 (kein Risiko/Moonshot). Begruendung: 2 Spiele heute + Layer-1 max 1 Bein/Spiel/Kombi macht 3-4-Bein-Kombis unmoeglich. Bewusste konservative Entscheidung statt erzwungene Layer-1-Verletzung."}
+      {
+        "art": "quoten_abweichung",
+        "tipp_id": "ars-bur-2",
+        "abweichung": "+11%",
+        "details": "Gyokeres-Torschuetzen-Quote im Tipp 1.61 vs Recherche-Aggregator-Schaetzung 1.45 - Recherche-Quote ist Schaetzwert, bei bet365 live pruefen"
+      },
+      {
+        "art": "quoten_abweichung",
+        "tipp_id": "ars-bur-3",
+        "abweichung": "+10%",
+        "details": "Ueber 2.5 im Tipp 1.55 vs Recherche-Aggregator 1.41 - bei bet365 live pruefen"
+      },
+      {
+        "art": "quoten_abweichung",
+        "tipp_id": "ars-bur-5",
+        "abweichung": "+35%",
+        "details": "Saka-Torschuetzen-Quote im Tipp 2.50 vs Recherche-Aggregator-Schaetzung 1.85 - signifikante Abweichung, Recherche-Schaetzung kann zu aggressiv gewesen sein, bei bet365 live pruefen"
+      },
+      {
+        "art": "kombi_rechnung_repariert",
+        "kombi_id": "kombi-safe-mini",
+        "details": "Pflichtfeld 'rechnung' fehlte - eingefuegt als '1.20 x 1.95 = 2.34'"
+      },
+      {
+        "art": "kombi_rechnung_repariert",
+        "kombi_id": "kombi-balance",
+        "details": "Pflichtfeld 'rechnung' war fehlerhaft '1.61 = 1.61' - korrigiert auf '1.61 x 1.90 = 3.06'"
+      },
+      {
+        "art": "kombi_anzahl_unter_soll",
+        "details": "Nur 2 Kombis statt Soll-4 (kein Risiko/Moonshot). Begruendung: 2 Spiele heute + Layer-1 max 1 Bein/Spiel/Kombi macht 3-4-Bein-Kombis unmoeglich. Bewusste konservative Entscheidung statt erzwungene Layer-1-Verletzung."
+      }
     ],
     "checks_ok": [
       "spieler_halluzinations_check: Gyokeres (ST) + Saka (RF) beide im Arsenal-Squad mit korrekter Sturm-Position. Keine NBA-Player-Tipps (Player-Punkte-Boykott aktiv).",

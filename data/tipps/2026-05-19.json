@@ -35,34 +35,44 @@
       ],
       "tipps": [
         {
-          "label": "safe",
           "markt": "Sieg Man City",
           "quote": 1.7,
           "wahrscheinlichkeit_geschaetzt": 60,
-          "begruendung": "Markt-Mix-Pflicht erfüllt (Auswärts-Favorit @ <2.20 → Sieg-Tipp pflicht). Auswärts-Favorit-Quote 1.70 = klares Pinnacle/Markt-Edge: Dimers Modell 56.1% vs faire Quote 1.78 (~5% Edge). Man City 4 von letzten 5 gewonnen, letzte 3 H2H gewonnen, Titel-Druck als Motivations-Booster. Premier League ist Liga-Goldgrube. Kasse-Stufe 1: 5,50€ (1% von 550€). Reality-Check Stat: PL-Sieg-Tipps insgesamt mit positivem ROI dieser Saison."
+          "begruendung": "Markt-Mix-Pflicht erfüllt (Auswärts-Favorit @ <2.20 → Sieg-Tipp pflicht). Auswärts-Favorit-Quote 1.70 = klares Pinnacle/Markt-Edge: Dimers Modell 56.1% vs faire Quote 1.78 (~5% Edge). Man City 4 von letzten 5 gewonnen, letzte 3 H2H gewonnen, Titel-Druck als Motivations-Booster. Premier League ist Liga-Goldgrube. Kasse-Stufe 1: 5,50€ (1% von 550€). Reality-Check Stat: PL-Sieg-Tipps insgesamt mit positivem ROI dieser Saison. [Auto: SAFE-Confirm fehlt - Quote 1.7 > 1.65 ohne Goldgrube-Kompensation]",
+          "kategorie": "value",
+          "faire_quote": 1.7,
+          "empfohlener_einsatz_prozent": 1.5,
+          "_safe_confirm_downgrade": true
         },
         {
-          "label": "value",
           "markt": "Erling Haaland Torschütze jederzeit",
           "quote": 1.65,
           "wahrscheinlichkeit_geschaetzt": 64,
-          "begruendung": "Form-Edge + Goldgrube-Markt — Pflicht-Markt bei Auswärts-Favorit. Haaland 26 PL-Tore in der Saison (Form 2026: 2+ Tore in 3 Spielen Cluster nach Durststrecke). Torschützen Jederzeit ist aktueller System-Goldgrube-Markt mit +24.4% ROI / 50% Hitrate (Stand 03.05.). Plus Einwechslungs-Boost-Regel: Backup-Stürmer-Tore (Marmoush/Doku-Verschiebung) würden zählen. Kasse-Stufe 1: 5,50€ (1%)."
+          "begruendung": "Form-Edge + Goldgrube-Markt — Pflicht-Markt bei Auswärts-Favorit. Haaland 26 PL-Tore in der Saison (Form 2026: 2+ Tore in 3 Spielen Cluster nach Durststrecke). Torschützen Jederzeit ist aktueller System-Goldgrube-Markt mit +24.4% ROI / 50% Hitrate (Stand 03.05.). Plus Einwechslungs-Boost-Regel: Backup-Stürmer-Tore (Marmoush/Doku-Verschiebung) würden zählen. Kasse-Stufe 1: 5,50€ (1%).",
+          "kategorie": "value",
+          "faire_quote": 1.65,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
-          "label": "value",
           "markt": "Über 2.5 Tore",
           "quote": 1.6,
           "wahrscheinlichkeit_geschaetzt": 64,
-          "begruendung": "Dimers Modell 65% Über-Wahrscheinlichkeit (faire Quote 1.54, Edge ~4%). Letzte 4 von 5 Man-City-Spielen Über 2.5 erzielt, Bournemouth-Spiele Über-2.5-Lauf 5/6. Beide Teams brauchen Tore (City für Titel, Bournemouth zur Aufholung). City-Sturm Haaland+Cherki+Doku+Semenyo voll motiviert, Bournemouth zuhause offensiv. Kasse-Stufe 1: 5,50€ (1%)."
+          "begruendung": "Dimers Modell 65% Über-Wahrscheinlichkeit (faire Quote 1.54, Edge ~4%). Letzte 4 von 5 Man-City-Spielen Über 2.5 erzielt, Bournemouth-Spiele Über-2.5-Lauf 5/6. Beide Teams brauchen Tore (City für Titel, Bournemouth zur Aufholung). City-Sturm Haaland+Cherki+Doku+Semenyo voll motiviert, Bournemouth zuhause offensiv. Kasse-Stufe 1: 5,50€ (1%).",
+          "kategorie": "value",
+          "faire_quote": 1.6,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
-          "label": "wackel",
           "markt": "Beide Teams treffen — Ja",
           "quote": 1.65,
           "wahrscheinlichkeit_geschaetzt": 60,
-          "begruendung": "Dimers 63.2% BTTS-Wahrscheinlichkeit. Bournemouth zuhause attackiert klar (CL-Spot-Druck), aber Man City Defense hat Donnarumma + Khusanov solide. WACKEL-Label statt VALUE weil City zu null durchaus möglich (City-Defense in Aufwärtstrend, Bournemouth-Sturm dünn ohne Form-Edge). Kasse-Stufe 1 Wackel: 2,75€ (0,5%)."
+          "begruendung": "Dimers 63.2% BTTS-Wahrscheinlichkeit. Bournemouth zuhause attackiert klar (CL-Spot-Druck), aber Man City Defense hat Donnarumma + Khusanov solide. WACKEL-Label statt VALUE weil City zu null durchaus möglich (City-Defense in Aufwärtstrend, Bournemouth-Sturm dünn ohne Form-Edge). Kasse-Stufe 1 Wackel: 2,75€ (0,5%).",
+          "kategorie": "wackel",
+          "faire_quote": 1.65,
+          "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-19-che-tot",
@@ -96,27 +106,34 @@
       ],
       "tipps": [
         {
-          "label": "value",
           "markt": "Beide Teams treffen — Ja",
           "quote": 1.53,
           "wahrscheinlichkeit_geschaetzt": 62,
-          "begruendung": "Dimers Modell 60.4% BTTS-Wahrscheinlichkeit (Edge ~4-5% bei Quote 1.53). Tottenham unbeaten 4 mit klarer Offensiv-Output (Richarlison-Form), Chelsea zuhause findet meist mind. 1 Tor. Spurs brauchen Punkt, attackieren bei Bedarf. Volumen-Markt. Kasse-Stufe 1: 5,50€ (1%)."
+          "begruendung": "Dimers Modell 60.4% BTTS-Wahrscheinlichkeit (Edge ~4-5% bei Quote 1.53). Tottenham unbeaten 4 mit klarer Offensiv-Output (Richarlison-Form), Chelsea zuhause findet meist mind. 1 Tor. Spurs brauchen Punkt, attackieren bei Bedarf. Volumen-Markt. Kasse-Stufe 1: 5,50€ (1%).",
+          "kategorie": "value",
+          "faire_quote": 1.53,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
-          "label": "value",
           "markt": "Über 2.5 Tore",
           "quote": 1.61,
           "wahrscheinlichkeit_geschaetzt": 58,
-          "begruendung": "BTTS-Logik plus High-Stakes-Setting (Spurs offensiv für Punkte, Chelsea zuhause Europa-Druck). Markt-Leader laut Modellen. Über 2.5 etwas wackelig wegen Chelsea-Form-Tief, aber zwei offen agierende Teams. Markt-Diversifikation zu BTTS. Kasse-Stufe 1: 5,50€ (1%)."
+          "begruendung": "BTTS-Logik plus High-Stakes-Setting (Spurs offensiv für Punkte, Chelsea zuhause Europa-Druck). Markt-Leader laut Modellen. Über 2.5 etwas wackelig wegen Chelsea-Form-Tief, aber zwei offen agierende Teams. Markt-Diversifikation zu BTTS. Kasse-Stufe 1: 5,50€ (1%).",
+          "kategorie": "value",
+          "faire_quote": 1.61,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
-          "label": "wackel",
           "markt": "Richarlison Torschütze jederzeit",
           "quote": 2.2,
           "wahrscheinlichkeit_geschaetzt": 45,
-          "begruendung": "Spurs Top-Scorer in Survival-Modus, Spitzen-Form (Tor vs Liverpool, Assist vs Wolves). Goldgrube-Markt Torschützen Jederzeit (+24.4% ROI / 50% Hitrate System-Stat). Einwechslungs-Boost: falls ausgewechselt, zählen Tore von Son/Solanke trotzdem. WACKEL statt VALUE weil Chelsea-Defense zuhause nicht trivial schlechter ist. Kasse-Stufe 1: 2,75€ (0,5%)."
+          "begruendung": "Spurs Top-Scorer in Survival-Modus, Spitzen-Form (Tor vs Liverpool, Assist vs Wolves). Goldgrube-Markt Torschützen Jederzeit (+24.4% ROI / 50% Hitrate System-Stat). Einwechslungs-Boost: falls ausgewechselt, zählen Tore von Son/Solanke trotzdem. WACKEL statt VALUE weil Chelsea-Defense zuhause nicht trivial schlechter ist. Kasse-Stufe 1: 2,75€ (0,5%).",
+          "kategorie": "wackel",
+          "faire_quote": 2.2,
+          "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-19-nyk-cle",
@@ -149,84 +166,101 @@
       ],
       "tipps": [
         {
-          "label": "wackel",
           "markt": "Knicks Handicap -7.5",
           "quote": 1.91,
           "wahrscheinlichkeit_geschaetzt": 52,
-          "begruendung": "NBA-Playoffs-Verbot SAFE (CLAUDE.md Mapper-Hebel B) → max WACKEL. Knicks-Heimvorteil + 9 Tage Rest, Cavs weniger Pause. Aber Game 1 ECF + Rost-Risiko bei Knicks (lang nicht gespielt) + Anunoby fragwürdig. Quote 1.91 fair für 50/50-Spread. Kasse-Stufe 1: 2,75€ (0,5%)."
+          "begruendung": "NBA-Playoffs-Verbot SAFE (CLAUDE.md Mapper-Hebel B) → max WACKEL. Knicks-Heimvorteil + 9 Tage Rest, Cavs weniger Pause. Aber Game 1 ECF + Rost-Risiko bei Knicks (lang nicht gespielt) + Anunoby fragwürdig. Quote 1.91 fair für 50/50-Spread. Kasse-Stufe 1: 2,75€ (0,5%).",
+          "kategorie": "wackel",
+          "faire_quote": 1.91,
+          "empfohlener_einsatz_prozent": 0.5
         },
         {
-          "label": "wackel",
           "markt": "Über 217.5 Punkte",
           "quote": 1.91,
           "wahrscheinlichkeit_geschaetzt": 53,
-          "begruendung": "ECF Game 1 mit zwei Top-Offenses (Knicks + Cavs beide Top-Scoring-Teams Saison). Cavs in Spielrhythmus, Knicks zuhause. Beobachtungs-Liga-Vorsicht: NBA-Playoffs grundsätzlich verlustreich (-45.6% ROI System) → WACKEL-Cap. Kasse-Stufe 1: 2,75€ (0,5%)."
+          "begruendung": "ECF Game 1 mit zwei Top-Offenses (Knicks + Cavs beide Top-Scoring-Teams Saison). Cavs in Spielrhythmus, Knicks zuhause. Beobachtungs-Liga-Vorsicht: NBA-Playoffs grundsätzlich verlustreich (-45.6% ROI System) → WACKEL-Cap. Kasse-Stufe 1: 2,75€ (0,5%).",
+          "kategorie": "wackel",
+          "faire_quote": 1.91,
+          "empfohlener_einsatz_prozent": 0.5
         },
         {
-          "label": "moonshot",
           "markt": "Cleveland Cavaliers Sieg (Moneyline)",
           "quote": 3.5,
           "wahrscheinlichkeit_geschaetzt": 32,
-          "begruendung": "Underdog-Moonshot: Cavs im Spielrhythmus + Knicks-Rost-Risiko nach 9 Tagen Pause + Anunoby fragwürdig + Cavs Star-Duo Mitchell/Allen in Form (26+23 Pts zuletzt). Quote 3.50 erfüllt Moonshot-Range. NBA-Playoffs-Boykott für SAFE/VALUE → Moonshot legitim. Kasse-Stufe 1: 0,55€ (0,1%)."
+          "begruendung": "Underdog-Moonshot: Cavs im Spielrhythmus + Knicks-Rost-Risiko nach 9 Tagen Pause + Anunoby fragwürdig + Cavs Star-Duo Mitchell/Allen in Form (26+23 Pts zuletzt). Quote 3.50 erfüllt Moonshot-Range. NBA-Playoffs-Boykott für SAFE/VALUE → Moonshot legitim. Kasse-Stufe 1: 0,55€ (0,1%).",
+          "kategorie": "moonshot",
+          "faire_quote": 3.5,
+          "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     }
   ],
   "einzeltipps": [
     {
       "spiel_id": "2026-05-19-bou-mac",
-      "label": "safe",
       "markt": "Sieg Man City",
       "quote": 1.7,
       "einsatz_empfehlung_euro": 5.5,
-      "begruendung": "Auswärts-Favorit-Pflichttipp Markt-Mix. Man City 4/5 Form, letzte 3 H2H gewonnen, Titel-Druck. Dimers 56.1% vs faire 1.78 = ~5% Edge. Premier League = Liga-Goldgrube. Kasse 550€ × 1% = 5,50€."
+      "begruendung": "Auswärts-Favorit-Pflichttipp Markt-Mix. Man City 4/5 Form, letzte 3 H2H gewonnen, Titel-Druck. Dimers 56.1% vs faire 1.78 = ~5% Edge. Premier League = Liga-Goldgrube. Kasse 550€ × 1% = 5,50€.",
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1
     },
     {
       "spiel_id": "2026-05-19-bou-mac",
-      "label": "value",
       "markt": "Erling Haaland Torschütze jederzeit",
       "quote": 1.65,
       "einsatz_empfehlung_euro": 5.5,
-      "begruendung": "Form-Edge-Pflicht bei Auswärts-Favorit. Haaland 26 PL-Tore Saison, Form 2026 wieder oben. Torschützen-Jederzeit-Markt ist System-Goldgrube +24.4% ROI / 50% Hitrate. Einwechslungs-Boost: Ersatz-Stürmer-Tore zählen. Kasse 1%."
+      "begruendung": "Form-Edge-Pflicht bei Auswärts-Favorit. Haaland 26 PL-Tore Saison, Form 2026 wieder oben. Torschützen-Jederzeit-Markt ist System-Goldgrube +24.4% ROI / 50% Hitrate. Einwechslungs-Boost: Ersatz-Stürmer-Tore zählen. Kasse 1%.",
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 2
     },
     {
       "spiel_id": "2026-05-19-bou-mac",
-      "label": "value",
       "markt": "Über 2.5 Tore",
       "quote": 1.6,
       "einsatz_empfehlung_euro": 5.5,
-      "begruendung": "Dimers 65% Über-Quote (faire 1.54, Edge ~4%). 4/5 letzte City-Spiele Über 2.5, 5/6 letzte Bournemouth-Spiele Über 2.5. Beide Teams brauchen Tore (City Titel, Bournemouth CL-Spot). Kasse 1%."
+      "begruendung": "Dimers 65% Über-Quote (faire 1.54, Edge ~4%). 4/5 letzte City-Spiele Über 2.5, 5/6 letzte Bournemouth-Spiele Über 2.5. Beide Teams brauchen Tore (City Titel, Bournemouth CL-Spot). Kasse 1%.",
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 3
     },
     {
       "spiel_id": "2026-05-19-che-tot",
-      "label": "value",
       "markt": "Beide Teams treffen — Ja",
       "quote": 1.53,
       "einsatz_empfehlung_euro": 5.5,
-      "begruendung": "Dimers 60.4% BTTS (Edge ~4-5%). Spurs unbeaten 4 mit Richarlison-Output, Chelsea zuhause meist 1+ Tor. Kein Edge-Signal für 1X2 → BTTS als Volumen-Tipp. Kasse 1%."
+      "begruendung": "Dimers 60.4% BTTS (Edge ~4-5%). Spurs unbeaten 4 mit Richarlison-Output, Chelsea zuhause meist 1+ Tor. Kein Edge-Signal für 1X2 → BTTS als Volumen-Tipp. Kasse 1%.",
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 4
     },
     {
       "spiel_id": "2026-05-19-che-tot",
-      "label": "value",
       "markt": "Über 2.5 Tore",
       "quote": 1.61,
       "einsatz_empfehlung_euro": 5.5,
-      "begruendung": "Markt-Leader laut Modellen. High-Stakes-Setting (Spurs brauchen Punkt, Chelsea Europa-Druck). Markt-Diversifikation zu BTTS. Kasse 1%."
+      "begruendung": "Markt-Leader laut Modellen. High-Stakes-Setting (Spurs brauchen Punkt, Chelsea Europa-Druck). Markt-Diversifikation zu BTTS. Kasse 1%.",
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 5
     },
     {
       "spiel_id": "2026-05-19-che-tot",
-      "label": "wackel",
       "markt": "Richarlison Torschütze jederzeit",
       "quote": 2.2,
       "einsatz_empfehlung_euro": 2.75,
-      "begruendung": "Spurs Top-Scorer in Form-Lauf, Goldgrube-Markt Torschützen Jederzeit +24.4% ROI. Einwechslungs-Boost gilt. WACKEL weil Chelsea-Defense zuhause nicht trivial. Kasse 0,5%."
+      "begruendung": "Spurs Top-Scorer in Form-Lauf, Goldgrube-Markt Torschützen Jederzeit +24.4% ROI. Einwechslungs-Boost gilt. WACKEL weil Chelsea-Defense zuhause nicht trivial. Kasse 0,5%.",
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 6
     }
   ],
   "kombis": [
     {
       "name": "Kombi Safe — Doppel-Markt-Sicher (~2.4x)",
-      "label": "safe",
-      "gesamt_quote": 2.45,
       "einsatz_empfehlung_euro": 11.0,
       "beine": [
         {
@@ -240,12 +274,13 @@
           "quote": 1.53
         }
       ],
-      "begruendung": "Zwei unkorrelierte Tor-Märkte aus beiden PL-Spielen. Über 2.5 Bo-City basiert auf 4/5 City-Form und 5/6 Bournemouth-Form. BTTS Che-Tot basiert auf 60.4%-Modell. Layer-1: 2 verschiedene Spiele ✓. Layer-2: keine Sieg-Outcomes ✓. Kasse-Stufe 1 Kombi-Safe: 2% von 550€ = 11€."
+      "begruendung": "Zwei unkorrelierte Tor-Märkte aus beiden PL-Spielen. Über 2.5 Bo-City basiert auf 4/5 City-Form und 5/6 Bournemouth-Form. BTTS Che-Tot basiert auf 60.4%-Modell. Layer-1: 2 verschiedene Spiele ✓. Layer-2: keine Sieg-Outcomes ✓. Kasse-Stufe 1 Kombi-Safe: 2% von 550€ = 11€.",
+      "kategorie": "safe",
+      "gesamtquote": 2.45,
+      "empfohlener_einsatz_prozent": 1.5
     },
     {
       "name": "Kombi Balance — Goldgrube-Doppel-Torschütze (~3.6x)",
-      "label": "balance",
-      "gesamt_quote": 3.63,
       "einsatz_empfehlung_euro": 4.4,
       "beine": [
         {
@@ -259,12 +294,13 @@
           "quote": 2.2
         }
       ],
-      "begruendung": "Zwei Top-Stürmer im Goldgrube-Markt (System +24.4% ROI / 50% Hitrate Torschützen Jederzeit). Haaland 26-Tore-Form, Richarlison Survival-Modus. Layer-1: verschiedene Spiele ✓. Layer-2: keine Sieg-Outcomes ✓. Niedriger als Standard-Balance (6-10x), aber bei nur 2 PL-Spielen und Layer-1-Regel das maximale realistische Profil ohne NBA-Beobachtungs-Liga. Kasse-Stufe 1 Balance: 0,8% = 4,40€."
+      "begruendung": "Zwei Top-Stürmer im Goldgrube-Markt (System +24.4% ROI / 50% Hitrate Torschützen Jederzeit). Haaland 26-Tore-Form, Richarlison Survival-Modus. Layer-1: verschiedene Spiele ✓. Layer-2: keine Sieg-Outcomes ✓. Niedriger als Standard-Balance (6-10x), aber bei nur 2 PL-Spielen und Layer-1-Regel das maximale realistische Profil ohne NBA-Beobachtungs-Liga. Kasse-Stufe 1 Balance: 0,8% = 4,40€.",
+      "kategorie": "balance",
+      "gesamtquote": 3.63,
+      "empfohlener_einsatz_prozent": 0.5
     },
     {
       "name": "Kombi Risiko — Sieg + Tore + NBA-Underdog (~9.5x)",
-      "label": "risiko",
-      "gesamt_quote": 9.58,
       "einsatz_empfehlung_euro": 1.4,
       "beine": [
         {
@@ -283,12 +319,13 @@
           "quote": 3.5
         }
       ],
-      "begruendung": "Hauptanker Man City Sieg (Pflicht-Tipp Markt-Mix). Über 2.5 CheTot als Volumen. NBA Cavs-Sieg als Underdog-Booster (Rest-Edge Knicks vs Spielrhythmus Cavs). Layer-1: 3 verschiedene Spiele ✓. Layer-2: BoMC 1X2 + NBA 1X2 jeweils nur in dieser Kombi ✓. Quote unter Standard-Risiko-Range (15-30x) weil Auswahl heute nur 3 Spiele zulässt. Kasse-Stufe 1 Risiko: 0,25% = 1,40€."
+      "begruendung": "Hauptanker Man City Sieg (Pflicht-Tipp Markt-Mix). Über 2.5 CheTot als Volumen. NBA Cavs-Sieg als Underdog-Booster (Rest-Edge Knicks vs Spielrhythmus Cavs). Layer-1: 3 verschiedene Spiele ✓. Layer-2: BoMC 1X2 + NBA 1X2 jeweils nur in dieser Kombi ✓. Quote unter Standard-Risiko-Range (15-30x) weil Auswahl heute nur 3 Spiele zulässt. Kasse-Stufe 1 Risiko: 0,25% = 1,40€.",
+      "kategorie": "risk",
+      "gesamtquote": 9.58,
+      "empfohlener_einsatz_prozent": 0.25
     },
     {
-      "name": "Kombi Moonshot — Underdog-Drilling Spurs+Bournemouth+Haaland-Doppelpack (~25x)",
-      "label": "moonshot",
-      "gesamt_quote": 24.07,
+      "name": "Kombi Moonshot — Underdog-Drilling Spurs+Bournemouth+Haaland-Doppelpack (~24.07x)",
       "einsatz_empfehlung_euro": 0.55,
       "beine": [
         {
@@ -307,7 +344,10 @@
           "quote": 1.91
         }
       ],
-      "begruendung": "Moonshot mit Spurs-Survival-Sieg-Story (Klassenerhalt-Adrenalin vs Chelsea-FA-Cup-Hangover), Haaland-Doppelpack als Goldgrube-Stretch (26-Tore-Form, Einwechslungs-Boost), NBA-Total als Stabilisator. Layer-1: 3 verschiedene Spiele ✓. Layer-2: CheTot 1X2 (Tot Sieg) nur in dieser Kombi ✓. Unter Standard-Moonshot-Range 30-300x weil Layer-Regeln bei 3 Spielen limitieren. Kasse-Stufe 1 Moonshot: 0,1% = 0,55€."
+      "begruendung": "Moonshot mit Spurs-Survival-Sieg-Story (Klassenerhalt-Adrenalin vs Chelsea-FA-Cup-Hangover), Haaland-Doppelpack als Goldgrube-Stretch (26-Tore-Form, Einwechslungs-Boost), NBA-Total als Stabilisator. Layer-1: 3 verschiedene Spiele ✓. Layer-2: CheTot 1X2 (Tot Sieg) nur in dieser Kombi ✓. Unter Standard-Moonshot-Range 30-300x weil Layer-Regeln bei 3 Spielen limitieren. Kasse-Stufe 1 Moonshot: 0,1% = 0,55€.",
+      "kategorie": "moonshot",
+      "gesamtquote": 24.07,
+      "empfohlener_einsatz_prozent": 0.1
     }
   ],
   "lessons_angewandt": [

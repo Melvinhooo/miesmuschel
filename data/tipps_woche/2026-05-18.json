@@ -38,33 +38,9 @@
         "Karriere-Highlight beide Teams (Freiburg 1. europ. Final ueberhaupt, Villa 1. groesster Final seit 40+ Jahren) - Lesson 15.05. INVERS-Caveat aktiv: keine Rotation, voll motiviert",
         "Lesson 04.05. LIGA-GOLDGRUBE-Check: EL-HF-Rueckspiel war Goldgrube (+149% ROI) - EL-Final ist andere Liga-Kategorie (nicht formal in liga_goldgruben.json), daher SAFE-Tipps werden vom Mapper-Hebel C auf VALUE downgegradet. Wir setzen direkt VALUE."
       ],
-      "tipps": [
-        {
-          "markt": "Aston Villa gewinnt (90 Min)",
-          "kategorie": "value",
-          "quote": 1.75,
-          "begruendung": "Villa als klarer Klassen-Edge (PL-Top4 vs BL-7., 28:8 Tore EL vs 25:10, Form 4:2 vs Liverpool 15.05.). Emery 6. EL-Final als Coach (Rekord) + Karriere-Highlight-Motivation. KEIN SAFE weil EL-Final NICHT formal in liga_goldgruben.json (Mapper-Hebel C). Lesson 04.05. PFLICHT-PROFIL erfuellt: Heim-Favorit (Villa @ 1.75) + Sieg-Tipp + Torschuetzen-Tipp (Watkins) im selben Spiel. Lesson 16.05. Korrelations-Cap: nur 1 Sieg-Outcome pro Spiel (kein zusaetzlicher Spread/DC). Pinnacle 1.75 entspricht 57% impl - Edge moderat. Bilanz Sieg/ML laut statistik.json positiv. Stake VALUE 2.0% = 11€.",
-          "faire_quote": 1.75,
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "markt": "Ollie Watkins trifft (Jederzeit)",
-          "kategorie": "value",
-          "quote": 2.5,
-          "begruendung": "Watkins Form-Lauf 11 Tore in 14 Spielen + Doppelpack vs Liverpool 15.05. (groesste defensiv-stabilste PL-Mannschaft). Onana raus (Mittelfeld, nicht Sturm-Backup) - Watkins voll fit. Karriere-Highlight-Final-Lesson 15.05. INVERS aktiv: keine Schon-Rotation (Villa = NICHT Bayern/Real/PSG/ManCity/Liverpool-etablierter-UEFA-Champion). Goldgrube-Markt Torschuetzen Jederzeit (35.7% Hit / +19.5% ROI, n=28). Lesson 10.05. AUFSTELLUNGS-VERIFIKATION 60-90 Min vor Anstoss zwingend. Stake VALUE 1.5% = 8.25€.",
-          "faire_quote": 2.5,
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "markt": "Mehr als 2.5 Tore",
-          "kategorie": "wackel",
-          "quote": 2.05,
-          "begruendung": "Goldgrube-Markt Ueber 2.5 Tore (50% Hit / +52.3% ROI, n=14) AKTIV SUCHEN. Aber: Markets favoured UNTER 2.5 (~2.5x fuer Ueber zeigt Buchmacher-Vorsicht). Defensive End-Game-Mentalitaet in Finals = strukturelles Unter-Risiko. Villa 28:8 in EL-Kampagne = 1.8 Tore/Spiel, Freiburg 25:10 = 1.75/Spiel. Kombiniert mit Defensiv-Druck schmal ueber 2.5. Lesson 15.05. (LaLiga-MD36-Mid-Table-2-Tore-Cluster) als Vorsicht. WACKEL, kein VALUE. Stake 0.5% = 2.75€.",
-          "faire_quote": 2.05,
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-05-23-bay-vfb",
@@ -99,33 +75,9 @@
         "Pokal-Liga ist NICHT in liga_goldgruben.json - SAFE-Tipps werden Mapper-Hebel C auf VALUE downgegradet. Wir setzen VALUE direkt.",
         "Lesson 04.05. PFLICHT-PROFIL Heim-Favorit Bayern (Sieg-Quote 1.45 < 1.80): MIN 1 Torschuetzen-Tipp + Sieg-Tipp = Kane + Bayern Sieg ✓"
       ],
-      "tipps": [
-        {
-          "markt": "FC Bayern Muenchen gewinnt (90 Min)",
-          "kategorie": "value",
-          "quote": 1.45,
-          "begruendung": "Klar staerkerer Kader (BL-Meister vs Mid-Table), Direktduell-Bilanz 4:0 + 2:0 in BL25/26, Kane Topscorer 31 BL-Tore, voll motiviert (Double-Saison-Chance). Kein Korrelations-Risiko zu PSG-CL-Final 30.05. (Bayern in CL out). Pinnacle 1.45 = 69% impl, Edge moderat (Bayern eher 75%+ realistisch). KEIN SAFE weil DFB-Pokal nicht in liga_goldgruben.json (Mapper-Hebel C). Lesson 16.05. Korrelations-Cap: 1 Sieg-Outcome (kein zusaetzliches DC). Bilanz Sieg/ML laut statistik.json positiv. Stake VALUE 2.0% = 11€.",
-          "faire_quote": 1.45,
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "markt": "Harry Kane trifft (Jederzeit)",
-          "kategorie": "value",
-          "quote": 1.5,
-          "begruendung": "Kane Topscorer 31 BL-Tore + 1 vs Koeln 16.05. + Bayern Heim-Atmosphaere = Volume-Stuermer-Profil. Goldgrube Torschuetzen Jederzeit (35.7% Hit / +19.5% ROI). Plus Einwechslungs-Boost-Erweiterung: Jackson Backup-Stuermer (Lesson 16.05. Jackson-Tor nach Goretzka-Wechsel 83. = Boost-Pattern bestaetigt) - bei Kane-Wechsel Backup-Tor zaehlt. Lesson 10.05. AUFSTELLUNGS-VERIFIKATION 60-90 Min vor Anstoss zwingend (Stake-Upgrade bei Bestaetigung). Stake VALUE 1.5% = 8.25€.",
-          "faire_quote": 1.5,
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "markt": "Mehr als 2.5 Tore",
-          "kategorie": "value",
-          "quote": 1.5,
-          "begruendung": "Goldgrube-Markt Ueber 2.5 Tore (50% Hit / +52.3% ROI). Modell-Score 80.8% impl (1.50 Quote = 66% Markets-Impl) - Edge ~14% klare VALUE-Margin. Bayern offensiv (5 Tore/Spiel BL34 vs Koeln), Stuttgart 2 Tore vs Frankfurt 16.05. Neuer-Verletzung erhoeht zusaetzlich Stuttgart-Tor-Wahrscheinlichkeit (Backup-Keeper Urbig schwaecher). Stake VALUE 1.0% = 5.50€.",
-          "faire_quote": 1.5,
-          "empfohlener_einsatz_prozent": 1.0
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-05-23-rma-ath",
@@ -160,25 +112,9 @@
         "Saisonende-Coinflip-Mid-Table-Filter aktiv (Lesson 14.05./15.05.): Real ohne Saisonziel + Athletic ohne Druck = max WACKEL fuer Sieg-Tipps",
         "LaLiga ist nicht in Beobachtungs-Liga, LaLiga-Goldgrube-Hits vorhanden (DC 1X +9.5%, Unter 2.5 +27%)"
       ],
-      "tipps": [
-        {
-          "markt": "Real Madrid gewinnt (90 Min)",
-          "kategorie": "wackel",
-          "quote": 1.53,
-          "begruendung": "Saisonende-Coinflip-Mid-Table-Profil (Lesson 14.05./15.05.) = max WACKEL trotz Heim-Vorteil. Real 64.7% impl - Edge schwach weil keine konkrete Motivation (2. fixed, kein Druck mehr). Aber: Athletic Defensive 4 Verletzte hinten + Mbappe Pichichi-Druck + Bernabeu-Tradition = kleine Edge pro Real. Lesson 03.05. saison_kontext-Selbst-Widerspruch: 'kein Druck' im Kontext = kein SAFE-Sieg moeglich. Lesson 16.05. Korrelations-Cap: 1 Sieg-Outcome (kein zusaetzliches DC/Spread). Stake WACKEL 0.5% = 2.75€.",
-          "faire_quote": 1.53,
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "markt": "Kylian Mbappé trifft (Jederzeit)",
-          "kategorie": "value",
-          "quote": 1.65,
-          "begruendung": "Mbappe Topscorer 24 LaLiga-Tore + Pichichi-Rennen + Bernabeu-Heim + Athletic-Defensive geschwaecht (4 Verletzte). Goldgrube Torschuetzen Jederzeit (35.7% Hit / +19.5% ROI). Plus Backup-Boost: Endrick als Volume-Backup-Stuermer (wenn fit) - bei Mbappe-Wechsel 70. Min Boost-Risiko-Erhoehung. Lesson 10.05. AUFSTELLUNGS-VERIFIKATION 60-90 Min vor Anstoss zwingend (Stake-Upgrade bei Bestaetigung). Stake VALUE 1.5% = 8.25€.",
-          "faire_quote": 1.65,
-          "empfohlener_einsatz_prozent": 1.0
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-05-18-okc-sas",
