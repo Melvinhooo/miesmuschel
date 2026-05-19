@@ -1,37 +1,37 @@
 {
-  "letzte_berechnung": "2026-05-18T06:25:19+00:00",
+  "letzte_berechnung": "2026-05-19T06:10:25+00:00",
   "gesamt": {
-    "tipps": 236,
-    "gewonnen": 130,
-    "verloren": 97,
+    "tipps": 244,
+    "gewonnen": 131,
+    "verloren": 104,
     "push": 0,
     "offen": 9,
-    "einsatz": 227.0,
-    "netto": 21.32,
-    "trefferquote": 57.3,
-    "roi_prozent": 9.4
+    "einsatz": 235.0,
+    "netto": 15.27,
+    "trefferquote": 55.7,
+    "roi_prozent": 6.5
   },
   "letzte_30_tage": {
-    "tipps": 236,
-    "gewonnen": 130,
-    "verloren": 97,
+    "tipps": 244,
+    "gewonnen": 131,
+    "verloren": 104,
     "push": 0,
     "offen": 9,
-    "einsatz": 227.0,
-    "netto": 21.32,
-    "trefferquote": 57.3,
-    "roi_prozent": 9.4
+    "einsatz": 235.0,
+    "netto": 15.27,
+    "trefferquote": 55.7,
+    "roi_prozent": 6.5
   },
   "letzte_90_tage": {
-    "tipps": 236,
-    "gewonnen": 130,
-    "verloren": 97,
+    "tipps": 244,
+    "gewonnen": 131,
+    "verloren": 104,
     "push": 0,
     "offen": 9,
-    "einsatz": 227.0,
-    "netto": 21.32,
-    "trefferquote": 57.3,
-    "roi_prozent": 9.4
+    "einsatz": 235.0,
+    "netto": 15.27,
+    "trefferquote": 55.7,
+    "roi_prozent": 6.5
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -112,15 +112,15 @@
       "roi_prozent": -40.0
     },
     "Premier League": {
-      "tipps": 33,
+      "tipps": 38,
       "gewonnen": 21,
-      "verloren": 11,
+      "verloren": 16,
       "push": 0,
       "offen": 1,
-      "einsatz": 32.0,
-      "netto": -2.34,
-      "trefferquote": 65.6,
-      "roi_prozent": -7.3
+      "einsatz": 37.0,
+      "netto": -7.34,
+      "trefferquote": 56.8,
+      "roi_prozent": -19.8
     },
     "NBA Playoffs R1 G4": {
       "tipps": 4,
@@ -352,6 +352,17 @@
       "netto": 0.0,
       "trefferquote": 100.0,
       "roi_prozent": 0.0
+    },
+    "NBA Conference Finals, Game 1": {
+      "tipps": 3,
+      "gewonnen": 1,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": -1.05,
+      "trefferquote": 33.3,
+      "roi_prozent": -35.0
     }
   },
   "nach_markt": {
@@ -1027,15 +1038,15 @@
       "roi_prozent": -100.0
     },
     "Thunder Sieg (Moneyline)": {
-      "tipps": 1,
+      "tipps": 2,
       "gewonnen": 1,
-      "verloren": 0,
+      "verloren": 1,
       "push": 0,
       "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.2,
-      "trefferquote": 100.0,
-      "roi_prozent": 20.0
+      "einsatz": 2.0,
+      "netto": -0.8,
+      "trefferquote": 50.0,
+      "roi_prozent": -40.0
     },
     "Unter 215.5 Punkte (Total)": {
       "tipps": 3,
@@ -1412,15 +1423,15 @@
       "roi_prozent": -100.0
     },
     "Ueber 1.5 Tore": {
-      "tipps": 3,
+      "tipps": 4,
       "gewonnen": 3,
-      "verloren": 0,
+      "verloren": 1,
       "push": 0,
       "offen": 0,
-      "einsatz": 3.0,
-      "netto": 2.15,
-      "trefferquote": 100.0,
-      "roi_prozent": 71.7
+      "einsatz": 4.0,
+      "netto": 1.15,
+      "trefferquote": 75.0,
+      "roi_prozent": 28.7
     },
     "Cavaliers Sieg (90 Min)": {
       "tipps": 1,
@@ -1522,15 +1533,15 @@
       "roi_prozent": -100.0
     },
     "Ueber 2.5 Tore": {
-      "tipps": 11,
+      "tipps": 12,
       "gewonnen": 5,
-      "verloren": 4,
+      "verloren": 5,
       "push": 0,
       "offen": 2,
-      "einsatz": 9.0,
-      "netto": 6.58,
-      "trefferquote": 55.6,
-      "roi_prozent": 73.1
+      "einsatz": 10.0,
+      "netto": 5.58,
+      "trefferquote": 50.0,
+      "roi_prozent": 55.8
     },
     "Unter 3.5 Tore": {
       "tipps": 3,
@@ -2444,6 +2455,61 @@
       "netto": 0.0,
       "trefferquote": 0.0,
       "roi_prozent": 0.0
+    },
+    "Viktor Gyokeres trifft (Jederzeit)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Arsenal Asian Handicap -1.5": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Spurs +6.5 (Asian Handicap)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.95,
+      "trefferquote": 100.0,
+      "roi_prozent": 95.0
+    },
+    "Unter 219.5 Punkte (Gesamt)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Bukayo Saka trifft (Jederzeit)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
     }
   },
   "nach_markt_typ": {
@@ -2459,15 +2525,15 @@
       "roi_prozent": -0.1
     },
     "Spieler-Punkte Unter (NBA)": {
-      "tipps": 7,
+      "tipps": 8,
       "gewonnen": 3,
-      "verloren": 4,
+      "verloren": 5,
       "push": 0,
       "offen": 0,
-      "einsatz": 7.0,
-      "netto": 0.72,
-      "trefferquote": 42.9,
-      "roi_prozent": 10.3
+      "einsatz": 8.0,
+      "netto": -0.28,
+      "trefferquote": 37.5,
+      "roi_prozent": -3.5
     },
     "Paolo Banchero Double-Double": {
       "tipps": 1,
@@ -2492,26 +2558,26 @@
       "roi_prozent": 55.0
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 79,
+      "tipps": 80,
       "gewonnen": 47,
-      "verloren": 31,
+      "verloren": 32,
       "push": 0,
       "offen": 1,
-      "einsatz": 78.0,
-      "netto": 7.68,
-      "trefferquote": 60.3,
-      "roi_prozent": 9.8
+      "einsatz": 79.0,
+      "netto": 6.68,
+      "trefferquote": 59.5,
+      "roi_prozent": 8.5
     },
     "Torschuetzen Jederzeit": {
-      "tipps": 28,
+      "tipps": 30,
       "gewonnen": 10,
-      "verloren": 18,
+      "verloren": 20,
       "push": 0,
       "offen": 0,
-      "einsatz": 28.0,
-      "netto": 5.47,
-      "trefferquote": 35.7,
-      "roi_prozent": 19.5
+      "einsatz": 30.0,
+      "netto": 3.47,
+      "trefferquote": 33.3,
+      "roi_prozent": 11.6
     },
     "Unter 2.5 Tore": {
       "tipps": 9,
@@ -2547,15 +2613,15 @@
       "roi_prozent": 7.1
     },
     "Ueber 2.5 Tore": {
-      "tipps": 14,
+      "tipps": 15,
       "gewonnen": 6,
-      "verloren": 6,
+      "verloren": 7,
       "push": 0,
       "offen": 2,
-      "einsatz": 12.0,
-      "netto": 6.28,
-      "trefferquote": 50.0,
-      "roi_prozent": 52.3
+      "einsatz": 13.0,
+      "netto": 5.28,
+      "trefferquote": 46.2,
+      "roi_prozent": 40.6
     },
     "Beide Teams treffen JA": {
       "tipps": 7,
@@ -2569,26 +2635,26 @@
       "roi_prozent": -14.6
     },
     "Ueber 1.5 Tore": {
-      "tipps": 6,
+      "tipps": 7,
       "gewonnen": 5,
-      "verloren": 1,
+      "verloren": 2,
       "push": 0,
       "offen": 0,
-      "einsatz": 6.0,
-      "netto": 1.9,
-      "trefferquote": 83.3,
-      "roi_prozent": 31.7
+      "einsatz": 7.0,
+      "netto": 0.9,
+      "trefferquote": 71.4,
+      "roi_prozent": 12.9
     },
     "Spread/Handicap": {
-      "tipps": 8,
-      "gewonnen": 2,
-      "verloren": 6,
+      "tipps": 10,
+      "gewonnen": 3,
+      "verloren": 7,
       "push": 0,
       "offen": 0,
-      "einsatz": 8.0,
-      "netto": -0.18,
-      "trefferquote": 25.0,
-      "roi_prozent": -2.2
+      "einsatz": 10.0,
+      "netto": -0.23,
+      "trefferquote": 30.0,
+      "roi_prozent": -2.3
     },
     "Raptors +3.5": {
       "tipps": 1,
@@ -2890,37 +2956,37 @@
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 111,
-      "gewonnen": 57,
-      "verloren": 50,
+      "tipps": 116,
+      "gewonnen": 58,
+      "verloren": 54,
       "push": 0,
       "offen": 4,
-      "einsatz": 107.0,
-      "netto": 11.2,
-      "trefferquote": 53.3,
-      "roi_prozent": 10.5
+      "einsatz": 112.0,
+      "netto": 8.15,
+      "trefferquote": 51.8,
+      "roi_prozent": 7.3
     },
     "2.00-3.00": {
-      "tipps": 29,
+      "tipps": 30,
       "gewonnen": 11,
-      "verloren": 17,
+      "verloren": 18,
       "push": 0,
       "offen": 1,
-      "einsatz": 28.0,
-      "netto": 2.64,
-      "trefferquote": 39.3,
-      "roi_prozent": 9.4
+      "einsatz": 29.0,
+      "netto": 1.64,
+      "trefferquote": 37.9,
+      "roi_prozent": 5.7
     },
     "1.00-1.50": {
-      "tipps": 87,
+      "tipps": 89,
       "gewonnen": 60,
-      "verloren": 23,
+      "verloren": 25,
       "push": 0,
       "offen": 4,
-      "einsatz": 83.0,
-      "netto": 6.03,
-      "trefferquote": 72.3,
-      "roi_prozent": 7.3
+      "einsatz": 85.0,
+      "netto": 4.03,
+      "trefferquote": 70.6,
+      "roi_prozent": 4.7
     },
     "3.00+": {
       "tipps": 9,
@@ -2936,37 +3002,37 @@
   },
   "nach_kategorie": {
     "safe": {
-      "tipps": 65,
+      "tipps": 66,
       "gewonnen": 47,
+      "verloren": 19,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 66.0,
+      "netto": 3.13,
+      "trefferquote": 71.2,
+      "roi_prozent": 4.7
+    },
+    "value": {
+      "tipps": 148,
+      "gewonnen": 72,
+      "verloren": 67,
+      "push": 0,
+      "offen": 9,
+      "einsatz": 139.0,
+      "netto": 10.17,
+      "trefferquote": 51.8,
+      "roi_prozent": 7.3
+    },
+    "wackel": {
+      "tipps": 30,
+      "gewonnen": 12,
       "verloren": 18,
       "push": 0,
       "offen": 0,
-      "einsatz": 65.0,
-      "netto": 4.13,
-      "trefferquote": 72.3,
-      "roi_prozent": 6.4
-    },
-    "value": {
-      "tipps": 143,
-      "gewonnen": 71,
-      "verloren": 63,
-      "push": 0,
-      "offen": 9,
-      "einsatz": 134.0,
-      "netto": 13.22,
-      "trefferquote": 53.0,
-      "roi_prozent": 9.9
-    },
-    "wackel": {
-      "tipps": 28,
-      "gewonnen": 12,
-      "verloren": 16,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 28.0,
-      "netto": 3.97,
-      "trefferquote": 42.9,
-      "roi_prozent": 14.2
+      "einsatz": 30.0,
+      "netto": 1.97,
+      "trefferquote": 40.0,
+      "roi_prozent": 6.6
     }
   },
   "clv_gesamt": {
@@ -2986,6 +3052,148 @@
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-05-18",
+      "gesamt": {
+        "tipps": 8,
+        "gewonnen": 1,
+        "verloren": 7,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 8.0,
+        "netto": -6.05,
+        "trefferquote": 12.5,
+        "roi_prozent": -75.6
+      },
+      "spiele": [
+        {
+          "id": "2026-05-18-ars-bur",
+          "liga": "Premier League",
+          "heim": "Arsenal FC",
+          "gast": "Burnley FC",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Ueber 1.5 Tore",
+              "quote": 1.2,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Ueber 1.5 verloren: nur 1 Tor im Spiel (Havertz 36. Kopfball nach Saka-Ecke). 1-0-Endstand zementiert."
+            },
+            {
+              "markt": "Viktor Gyokeres trifft (Jederzeit)",
+              "quote": 1.61,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Gyokeres-Torschuetzen-Tipp verloren: Gyokeres NICHT in Startelf (Havertz startete als 9er), kam erst 73. fuer Havertz rein - bei 1:0-Fuehrung kein Offensiv-Druck mehr. Einwechslungs-Boost greift NICHT (Boost-Rule erfordert Tipp-Spieler X SELBST raus + Y trifft; hier kam Gyokeres rein, nicht raus). Reverse-Konstellation (Havertz raus, Gyokeres rein, Gyokeres ohne Tor) ist KEIN Boost-Fall."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.55,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Ueber 2.5 verloren: nur 1 Tor. Arteta-Steuerungs-Modus bei Titel-Klar-Chance."
+            },
+            {
+              "markt": "Arsenal Asian Handicap -1.5",
+              "quote": 1.65,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Arsenal AH -1.5 verloren: 1:0-Sieg mit nur 1-Tor-Differenz. AH -1.5 braucht 2+ Tore Differenz. 2:0-Insurance gilt NICHT bei Handicap."
+            },
+            {
+              "markt": "Bukayo Saka trifft (Jederzeit)",
+              "quote": 2.5,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Saka-Torschuetzen verloren: Saka spielte durch, gab Vorlage zum 1:0 (Eckball auf Havertz 36.), traf selbst nicht. Saka wurde NICHT ausgewechselt - kein Einwechslungs-Boost moeglich. Assist-Profil bestaetigt."
+            }
+          ]
+        },
+        {
+          "id": "2026-05-18-okc-sas",
+          "liga": "NBA Conference Finals, Game 1",
+          "heim": "Oklahoma City Thunder",
+          "gast": "San Antonio Spurs",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Spurs +6.5 (Asian Handicap)",
+              "quote": 1.95,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.95,
+              "kommentar": "Spurs +6.5 GEWONNEN: Spurs gewannen SU 122:115 (2OT) - Spread cover mit 7 Pkt Differenz, ueber 6.5-Linie. Wembanyama 41 Pkt + 24 Reb (40-20-Game, 7. NBA-Historie ueberhaupt), Wembanyama-3er nahe Logo zur Verlaengerung. 4-1-Regular-Season-Edge bestaetigt."
+            },
+            {
+              "markt": "Unter 219.5 Punkte (Gesamt)",
+              "quote": 1.9,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Unter 219.5 verloren: 2OT-Spiel mit 237 Total (122+115) - klar ueber Linie. Doppel-OT erweiterte Spielzeit zusaetzlich (10 OT-Min). Lesson NBA-Game-7-Heim-Underdog-Crash (18.05. PreLesson) hat hier nicht direkt gegolten (kein Game 7), aber: bei pre-Match-Tempo-Erwartung in WCF-G1 immer Ueber-Bias - Lesson 23.04. Under-bei-einseitig-Spiel hier kontraproduktiv."
+            },
+            {
+              "markt": "Thunder Sieg (Moneyline)",
+              "quote": 1.38,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Thunder ML verloren: Spurs holten 122:115 in 2OT, 4-1-Regular-Season-Pattern fortgesetzt. Hebel-B (NBA-Playoff nie SAFE) wieder bestaetigt - Thunder als kurzer Favorit (1.38) gefallen."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe Mini ~2.3x",
+          "kategorie": "safe",
+          "gesamtquote": 2.34,
+          "einsatz_prozent": 2.0,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Ueber 1.5 Tore",
+              "quote": 1.2,
+              "status": "verloren",
+              "kommentar": "Ueber 1.5 verloren: nur 1 Tor im Spiel (Havertz 36. Kopfball nach Saka-Ecke). 1-0-Endstand zementiert."
+            },
+            {
+              "markt": "Spurs +6.5 Asian Handicap",
+              "quote": 1.95,
+              "status": "gewonnen",
+              "kommentar": "Spurs +6.5 GEWONNEN: Spurs gewannen SU 122:115 (2OT) - Spread cover mit 7 Pkt Differenz, ueber 6.5-Linie. Wembanyama 41 Pkt + 24 Reb (40-20-Game, 7. NBA-Historie ueberhaupt), Wembanyama-3er nahe Logo zur Verlaengerung. 4-1-Regular-Season-Edge bestaetigt."
+            }
+          ]
+        },
+        {
+          "name": "Balance ~3x",
+          "kategorie": "balance",
+          "gesamtquote": 3.06,
+          "einsatz_prozent": 0.8,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Viktor Gyokeres trifft",
+              "quote": 1.61,
+              "status": "verloren",
+              "kommentar": "Gyokeres-Torschuetzen-Tipp verloren: Gyokeres NICHT in Startelf (Havertz startete als 9er), kam erst 73. fuer Havertz rein - bei 1:0-Fuehrung kein Offensiv-Druck mehr. Einwechslungs-Boost greift NICHT (Boost-Rule erfordert Tipp-Spieler X SELBST raus + Y trifft; hier kam Gyokeres rein, nicht raus). Reverse-Konstellation (Havertz raus, Gyokeres rein, Gyokeres ohne Tor) ist KEIN Boost-Fall."
+            },
+            {
+              "markt": "Unter 219.5 Punkte",
+              "quote": 1.9,
+              "status": "verloren",
+              "kommentar": "Unter 219.5 verloren: 2OT-Spiel mit 237 Total (122+115) - klar ueber Linie. Doppel-OT erweiterte Spielzeit zusaetzlich (10 OT-Min). Lesson NBA-Game-7-Heim-Underdog-Crash (18.05. PreLesson) hat hier nicht direkt gegolten (kein Game 7), aber: bei pre-Match-Tempo-Erwartung in WCF-G1 immer Ueber-Bias - Lesson 23.04. Under-bei-einseitig-Spiel hier kontraproduktiv."
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-05-17",
       "gesamt": {

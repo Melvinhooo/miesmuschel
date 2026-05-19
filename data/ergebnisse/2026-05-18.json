@@ -1,0 +1,802 @@
+{
+  "datum": "2026-05-18",
+  "erstellt_am": "2026-05-18T18:25:00+02:00",
+  "hinweis": "Montag 18.05.2026 (Mo-Fr-Pipeline: Recherche + Analyse + Verifikation). Spiel-armer Tag nach Saisonende-Wochenende: nur 2 Top-Spiele. (1) Arsenal-Burnley 21:00 Premier League MD37 - Arsenal kann mit Sieg + City-Patzer PL-Titel klarmachen (22-Jahre-Wait), Burnley seit 22.04. abgestiegen. (2) NBA WCF Game 1 Thunder-Spurs ab 02:30 (Di) - 1. Spiel der Western Conference Finals. Kasse 550 EUR (Stufe 1). NBA-Playoffs NIE SAFE (Hebel B) + Player-Punkte-Boykott aktiv. PL nicht in Liga-Goldgrube (nur EL-HF-Rueck/NBA-G2/CL-HF-Hin) -> SAFE-DC im PL waere VALUE-Downgrade, deshalb direkter Sieg/Tor-Total/Torschuetzen-Approach. Form-Edge Gyokeres (14 PL-Tore Saison, 21 alle Wettbewerbe) -> Torschuetzen PFLICHT pro Hebel-Regel 4. Mit nur 2 Spielen sind Kombis durch Layer-1 stark begrenzt (max 1 Bein/Spiel/Kombi): nur 2 Kombis (Safe-Mini + Balance), kein Risiko/Moonshot moeglich.",
+  "spiele": [
+    {
+      "id": "2026-05-18-ars-bur",
+      "liga": "Premier League",
+      "heim": "Arsenal FC",
+      "gast": "Burnley FC",
+      "anstoss": "2026-05-18T21:00:00+02:00",
+      "stadion": "Emirates Stadium, London",
+      "saison_kontext": {
+        "parallel_heim": "CL Final 30.05.2026 vs Paris Saint-Germain (Puskas Arena Budapest) - 12 Tage entfernt, kein 7-Tage-Final-Rotation-Trigger (Lesson 14.05.) aktiv",
+        "parallel_gast": "keine - Burnley nicht in UEFA-Wettbewerb, FA Cup seit Halbfinal-Aus draussen, kein EFL-Cup",
+        "saisonziel_heim": "Arsenal 1. Pl. PL mit Punkte-Vorsprung auf Man City (kann heute Titel klarmachen falls eigener Sieg + City-Patzer am Mi vs Crystal Palace = 22-Jahre-Wait Ende), plus CL-Final 30.05.",
+        "saisonziel_gast": "Burnley seit 22.04.2026 abgestiegen (1:0-Niederlage Heim vs Man City), Scott Parker entliess 30.04., Mike Jackson Interim seit dem - reines Saison-Auslauf-Programm, nichts mehr zu spielen",
+        "motivations_asymmetrie": "Arsenal volle Motivation: Heim-Saisonfinale + potentielle Titel-Klarmachung heute + 8 Tage ausgeruht seit West Ham 0:1 (Trossard 82.) + CL-Final 12 Tage weg (kein Rotation-Trigger). Burnley relegated + Interim-Coach + 10 Pflichtspiele unbesiegt-Form-Aus + 4 Auswaerts-Niederlagen in Serie + Notformation (Roberts/Beyer/Cullen OUT, Hannibal Hamstring fraglich) = klare Klasse-Edge Arsenal. Nicht 50/50.",
+        "recovery_heim": "Arsenal 8 Tage seit West Ham 0:1 (10.05.) - sehr ausgeruht, eine Trainingsphase fuer Burnley vorbereitet, kein Doppelbelastungs-Mueller",
+        "recovery_gast": "Burnley 4 Tage seit letztem PL-Spiel - normal, aber kein motivationaler Anreiz",
+        "quellen": [
+          "https://www.premierleague.com/en/news/4644294/how-soon-can-arsenal-be-crowned-premier-league-champions",
+          "https://www.uefa.com/uefachampionsleague/match/2047742--paris-vs-arsenal/final/",
+          "https://www.si.com/soccer/arsenal-xi-vs-burnley-arteta-forced-changes-injury-news-predicted-lineup-5-18-26",
+          "https://www.premierleague.com/en/news/4638340/burnley-relegated-after-home-defeat-to-man-city",
+          "https://www.espn.com/soccer/report/_/gameId/740955",
+          "https://www.sportsmole.co.uk/football/arsenal/title-race/injuries-and-suspensions/timber-latest-calafiori-chances-arsenal-injury-suspension-list-vs-burnley_597551.html"
+        ]
+      },
+      "news": [
+        "Arsenal kann mit Sieg + City-Patzer (Mi vs Crystal Palace) Premier-League-Titel klarmachen (22-Jahre-Wait)",
+        "Arsenal-Ausfaelle: Ben White (Knie, Saison-Aus), Jurrien Timber, Mikel Merino, Riccardo Calafiori fraglich (HZ-Auswechslung West Ham)",
+        "Burnley-Ausfaelle: Connor Roberts, Jordan Beyer, Josh Cullen ALLE OUT - Notformation. Hannibal (Hamstring) fraglich, spaete Entscheidung",
+        "Form Gyokeres: 14 PL-Tore Saison + 21 alle Wettbewerbe (2. Arsenal-Spieler seit 2000 mit 20+ Toren im Debut-Jahr), 14 Tore seit Jahresanfang 2026 (mehr als jeder andere PL-Spieler), 9 von 14 PL-Toren zu Hause",
+        "Burnley Form: 10 Pflichtspiele ohne Sieg, 4 Auswaerts-Niederlagen in Serie, blank in 13/36 PL-Spielen Saison + 4/8 letzten PL-Spielen",
+        "Heim-Saisonfinale Emirates: Bedeutet anti-Rotation (Lesson 16.05. Old-Trafford-Heim-Profil), volle Aufstellung, kein Schonkurs vor CL-Final (12 Tage weg, kein 7-Tage-Trigger)",
+        "H2H: Arsenal 14W / Burnley 1W / 3 Remis aus juengeren Begegnungen. Letztes Treffen 11/2025: Arsenal 2:0 in Burnley (Gyokeres + Rice)",
+        "Predictive Model: 85% Arsenal-Sieg / 4.4% Burnley / 10.6% Remis"
+      ],
+      "tipps": [
+        {
+          "id": "ars-bur-1",
+          "kategorie": "safe",
+          "markt": "Ueber 1.5 Tore",
+          "prognose": "Mehr als 1 Tor im Spiel",
+          "quote": 1.2,
+          "edge_prozent": 7,
+          "faire_quote": 1.12,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_euro": 11.0,
+          "begruendung": "Markt-Goldgrube Ueber 1.5 Tore (83.3% Hit / +31.7% ROI bei n=6). Arsenal-Heim 1.97 Tore/Spiel Schnitt + Heim-Saisonfinale-Anti-Rotation (Lesson 16.05.) + Burnley-Notformation ohne 3 Stammspieler + Gyokeres-Form-Lauf 14 Tore seit Jan = mind. 2 Arsenal-Tore extrem wahrscheinlich. Letztes H2H 2:0. PL nicht in Liga-Goldgrube (Hebel C), aber Markt-Goldgrube greift -> SAFE legitim (kein DC). Empfohlener Einsatz 11 EUR (2.0% der 550 EUR-Kasse, Kombi-Safe-Profile Stufe 1). Reality-Check: SAFE-Kategorie historisch 72.3% Hit, Ueber 1.5 mit 83.3% drueber - rechnerisch sehr robust."
+        },
+        {
+          "id": "ars-bur-2",
+          "kategorie": "value",
+          "markt": "Viktor Gyokeres trifft (Jederzeit)",
+          "prognose": "Gyokeres erzielt mindestens 1 Tor",
+          "quote": 1.61,
+          "edge_prozent": 12,
+          "faire_quote": 1.44,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 8.25,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (35.7% Hit / +19.5% ROI bei n=28 - bester ROI-Markt unter Volumen-Maerkten). Form-Edge-Pflicht Hebel-Regel 4: Gyokeres 14 Tore in 2026 mehr als jeder PL-Spieler + 21 Saison-Tore alle Wettbewerbe + 9 von 14 PL-Toren zu Hause + letzte Treffer vs Atletico CL-HF + vs Fulham (Doppelpack 02.05.) + im letzten H2H Burnley getroffen. Burnley-Defense ohne 3 Stammverteidiger plus 10 Pflichtspiele ohne Sieg = leicht zu durchbrechen. PFLICHT-PROFIL Heim-Favorit (ML 1.09) Hebel-Regel 2: MIN 1 Torschuetzen-Tipp pflicht ist erfuellt. Einsatz 8,25 EUR (1.5%)."
+        },
+        {
+          "id": "ars-bur-3",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "prognose": "Mehr als 2 Tore im Spiel",
+          "quote": 1.55,
+          "edge_prozent": 8,
+          "faire_quote": 1.43,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 8.25,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 Tore (50% Hit / +52.3% ROI bei n=14 - hoechster ROI-Markt im System). Predictive Model 66% Ueber-Wahrscheinlichkeit. Arsenal-Heim-Saisonfinale-Profil (anti-Rotation Lesson 16.05.) + Burnley-Notformation + Gyokeres/Saka/Trossard Form-Trio + Heim-Tor-Schnitt 1.97. Wackel-Faktor: Arsenal lieber kontrolliert 2:0 statt 4:0 (typischer Carrick-Arteta-Stil), zuletzt 14 Spiele in allen Wettbewerben keine 4+ Tore. Aber Ueber 2.5 mit Burnley-Auswaerts-Form (4 Niederlagen Serie) realistisch. Einsatz 8,25 EUR (1.5%)."
+        },
+        {
+          "id": "ars-bur-4",
+          "kategorie": "value",
+          "markt": "Arsenal Asian Handicap -1.5",
+          "prognose": "Arsenal gewinnt mit mind. 2 Toren Differenz",
+          "quote": 1.65,
+          "edge_prozent": 10,
+          "faire_quote": 1.5,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 8.25,
+          "begruendung": "Markt-Goldgrube Sieg (60.3% Hit / +9.8% ROI bei n=79 - stabilster Volumen-Markt). 85% Arsenal-Sieg-Modell + Burnley 4 Auswaerts-Niederlagen Serie + Notformation Defensive-Trio out + Arsenal mit Titel-Motivation + Heim-Saisonfinale. Letztes H2H 2:0, sollte realistisch wieder mit 2+ Differenz enden. PFLICHT-PROFIL Heim-Favorit-Sieg-Tipp erfuellt. Direkter Sieg @ 1.09 zu kurz (kein Edge, Bookmaker-Marge schluckt), AH -1.5 @ 1.65 hat besseren Value. Reality-Check: 2:0-Insurance-Regel gilt NICHT bei Handicap (CLAUDE.md). Einsatz 8,25 EUR (1.5%)."
+        },
+        {
+          "id": "ars-bur-5",
+          "kategorie": "wackel",
+          "markt": "Bukayo Saka trifft (Jederzeit)",
+          "prognose": "Saka erzielt mindestens 1 Tor",
+          "quote": 2.5,
+          "edge_prozent": 8,
+          "faire_quote": 2.31,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 2.75,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+19.5% ROI). Saka in Form: 02.05. Tor vs Fulham, 05.05. entscheidendes CL-HF-Tor vs Atletico (Aggregat 2:1). Burnley-Defense schwach + Saka Rechtsaussen sieht selten so leichte Defensive. Wackel statt Value, weil Arsenal Aufstellung evtl. mit Trossard-Praeferenz auf links und Gyokeres zentral Tor-Magnet -> Saka eher Assist-Profil heute. Layer-2 Anti-Cluster: Gyokeres bereits drin, Saka als Backup-Stuermer-Tor liefert Diversifikation falls Gyokeres trocken. Einsatz 2,75 EUR (0.5%)."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "tore_heim": 1,
+        "tore_gast": 0,
+        "halbzeit_heim": 1,
+        "halbzeit_gast": 0,
+        "status": "FT"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "ars-bur-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Ueber 1.5 verloren: nur 1 Tor im Spiel (Havertz 36. Kopfball nach Saka-Ecke). 1-0-Endstand zementiert.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "ars-bur-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Gyokeres-Torschuetzen-Tipp verloren: Gyokeres NICHT in Startelf (Havertz startete als 9er), kam erst 73. fuer Havertz rein - bei 1:0-Fuehrung kein Offensiv-Druck mehr. Einwechslungs-Boost greift NICHT (Boost-Rule erfordert Tipp-Spieler X SELBST raus + Y trifft; hier kam Gyokeres rein, nicht raus). Reverse-Konstellation (Havertz raus, Gyokeres rein, Gyokeres ohne Tor) ist KEIN Boost-Fall.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "ars-bur-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Ueber 2.5 verloren: nur 1 Tor. Arteta-Steuerungs-Modus bei Titel-Klar-Chance.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "ars-bur-4",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Arsenal AH -1.5 verloren: 1:0-Sieg mit nur 1-Tor-Differenz. AH -1.5 braucht 2+ Tore Differenz. 2:0-Insurance gilt NICHT bei Handicap.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "ars-bur-5",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Saka-Torschuetzen verloren: Saka spielte durch, gab Vorlage zum 1:0 (Eckball auf Havertz 36.), traf selbst nicht. Saka wurde NICHT ausgewechselt - kein Einwechslungs-Boost moeglich. Assist-Profil bestaetigt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "1:0",
+        "tore": [
+          {
+            "min": 36,
+            "team": "heim",
+            "spieler": "Kai Havertz",
+            "stand_danach": "1:0",
+            "details": "Kopfball nach Saka-Eckball (18. Liga-Tor Arsenal nach Eckball Saison)"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Arsenal fuehrte ab 36. mit 1 Tor durchgehend - keine Drehung. Bet365 2:0-Insurance NICHT relevant (kein 2:0)."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Arsenal/Arsenal",
+          "kein_team_zu_null": false,
+          "siegtor_in_letzten_15min": false,
+          "ausgleich_in_letzten_15min": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Viktor Gyokeres",
+            "details": "NICHT in Startelf trotz Heim-Saisonfinale + Titel-Klar-Chance + 14-Tore-Form-Lauf 2026. Havertz startete als 9er. Gyokeres kam erst 73. fuer Havertz rein - klare Arteta-Schon-Variante (CL-Final 30.05. = 12 Tage). Lesson 16.05. Anti-Rotation-Pattern WIDERLEGT fuer Top-Team-mit-Schuld-Final-Termin <14d."
+          },
+          {
+            "team": "heim",
+            "spieler": "Eberechi Eze",
+            "details": "Eze (statt erwartet Odegaard-Begleitung) startet, 73. fuer Lewis-Skelly ausgewechselt - Schon-Variante in MF."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Viktor Gyokeres",
+            "aus": "Kai Havertz",
+            "minute": 73,
+            "tor": false,
+            "kommentar": "Anti-Boost-Pattern: Gyokeres kam bei 1:0-Fuehrung in 73. rein, kein Offensiv-Druck = de-facto deaktivierter Boost. Lesson 18.05. Boost-Timing-Filter (vor 75. + Team muss offensiv spielen) bestaetigt - hier Filter (b) verletzt."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Arsenal-Heim-Saisonfinale + Titel-Klar-Chance trotzdem nur 1:0-Steuerungs-Sieg: Arteta priorisierte Sicherheit + Schonung statt Tor-Festival. 5 Tipps im Spiel = 4 verloren (nur Spurs +6.5 im Tag-Gewinner-Tipp im Nicht-PL-Spiel).",
+          "Gyokeres-Form-Edge-Pflicht (Hebel-Regel 4) hat keinen Schutz gegen Startelf-Rotation: Arteta startete Havertz trotz 14-Tore-Lauf - Form-Edge gilt nur bei garantierter Startelf, nicht bei Coach-Wahlfreiheit. NEUE PFLICHT: Aufstellungs-Verifikation 1h vor Anstoss fuer Star-Stuermer-Tipps (existierende Lesson 22.04. wiederholt).",
+          "Markt-Goldgrube Ueber 1.5 (83.3% Hit n=6) gerissen - kleine N-Stichprobe bestaetigt Sample-Bias-Warnung. Bei nur 6 Tipps zwingend Sub-Filter (Liga-spezifisch, Top-vs-Bottom-spezifisch).",
+          "Saka-Assist-Profil bestaetigt (WACKEL-Begruendung korrekt): Saka gab Tor-Vorlage statt selbst zu treffen. ars-bur-5-Begruendung \"Assist-Profil heute\" exakt eingetroffen."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-18-okc-sas",
+      "liga": "NBA Conference Finals, Game 1",
+      "heim": "Oklahoma City Thunder",
+      "gast": "San Antonio Spurs",
+      "anstoss": "2026-05-19T02:30:00+02:00",
+      "stadion": "Paycom Center, Oklahoma City",
+      "saison_kontext": {
+        "parallel_heim": "keine - reine NBA-Playoff-Linie, keine andere Liga-Belastung",
+        "parallel_gast": "keine - reine NBA-Playoff-Linie",
+        "saisonziel_heim": "Thunder Top-Seed West / Titelverteidigungs-Anwaerter, 8-0 Playoff-Sweep gegen Suns + Lakers, jetzt WCF um zurueck zu den NBA Finals (3.06. Beginn)",
+        "saisonziel_gast": "Spurs erste WCF-Teilnahme seit 2017, Wembanyama-Aera Durchbruch-Saison, ueberraschend nach Trail-Blazers (4-1) und Timberwolves (4-2) in WCF",
+        "motivations_asymmetrie": "Beide Teams maximal motiviert (WCF-Game-1, kein Saison-Auslauf-Modus). Aber Spurs haben Klasse-Edge im H2H: 4-1 Regular Season gegen OKC SU+ATS dominant + Wembanyama mit 7.7 Blocks/Spiel Playoff (League-Leader, Defensive Rating 99.7 #1 Playoffs). Thunder mit Heim-Vorteil + 8-0 Sweep-Form + Williams zurueck nach 6-Spiele-Pause. Kein klares Asymmetrie-Signal, aber Spurs-+6.5-Spread reflektiert nicht voll die 4-1-Regular-Season-Dominanz",
+        "recovery_heim": "Thunder mehrere Tage Pause seit Lakers-Sweep ca. 10.05. (geschaetzt 8 Tage) - sehr ausgeruht, evtl. Rost-Faktor",
+        "recovery_gast": "Spurs 3 Tage seit Game 6 vs Timberwolves 15.05. (139:109-Sieg) - frischer als zu erwarten, aber kuerzere Pause als OKC",
+        "quellen": [
+          "https://www.nba.com/news/2026-nba-playoffs-schedule",
+          "https://www.nba.com/news/2026-nba-playoffs-series-preview-thunder-spurs",
+          "https://www.espn.com/nba/odds/_/gameId/401873197",
+          "https://www.cbssports.com/nba/news/spurs-thunder-odds-prediction-time-2026-nba-western-conference-finals-picks-game-1-best-bets/",
+          "https://www.statmuse.com/nba/ask/victor-wembanyama-2026-playoff-stats",
+          "https://www.msn.com/en-us/sports/nba/spurs-vs-timberwolves-live-score-updated-game-6-results-highlights-from-2026-nba-playoffs-second-round/ar-AA23jepn"
+        ]
+      },
+      "news": [
+        "Game 1 der Western Conference Finals 2026, 8:30pm ET / 02:30 CEST Dienstag",
+        "Bet365 Eroeffnungs-Odds: Thunder ML -260 (~1.38), Thunder -6.5 Spread @ ~1.95, Total 219.5",
+        "Spurs 4-1 SU+ATS gegen OKC in der Regular Season - dominant, inkl. 130:110 in San Antonio",
+        "Wembanyama 2026 Playoffs: 20.4 PPG / 11.2 RPG / 4.2 BPG, Defensive Rating 99.7 #1 in Playoffs, 12-Block Triple-Double Game 1 vs Wolves",
+        "Spurs Injury: De'Aaron Fox (Knoechel) fraglich aber hat noch kein Playoff-Spiel verpasst, Luke Kornet (Fuss) fraglich",
+        "Thunder: Jalen Williams zurueck nach 6 Spielen Hamstring-Pause, OKC 8-0 in Playoffs (Suns + Lakers Sweeps)",
+        "SportsLine-Modell: Under in 6 von 10 letzten H2H, Thunder 116:112 Final",
+        "NBA-Player-Punkte-Boykott seit 26.04. weiter aktiv (Lesson)"
+      ],
+      "tipps": [
+        {
+          "id": "okc-sas-1",
+          "kategorie": "value",
+          "markt": "Spurs +6.5 (Asian Handicap)",
+          "prognose": "Spurs verlieren mit max. 6 Punkten Differenz oder gewinnen",
+          "quote": 1.95,
+          "edge_prozent": 9,
+          "faire_quote": 1.79,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 8.25,
+          "begruendung": "Spurs gingen 4-1 SU+ATS gegen OKC in der Regular Season (inkl. 130:110-Heimsieg 23.12.) - dominantestes H2H gegen die Top-Saat. Wembanyama mit Liga-Bester-Defense (99.7 DRtg) und 7.7 Blocks/Game in Playoffs schraenkt OKC-Drive-and-Kick massiv ein. Thunder muessten bei -6.5 die Spurs zweistellig schlagen trotz Spurs-Wembanyama-Wand. Hebel B aktiv: NBA-Playoff NIE SAFE -> max VALUE. Game 1 NICHT Decider -> Spread-Tipp moeglich (kein WACKEL-Cap). Konservativer Einsatz wegen NBA-Volatilitaet 8,25 EUR (1.5%)."
+        },
+        {
+          "id": "okc-sas-2",
+          "kategorie": "value",
+          "markt": "Unter 219.5 Punkte (Gesamt)",
+          "prognose": "Weniger als 219.5 Punkte im Spiel",
+          "quote": 1.9,
+          "edge_prozent": 7,
+          "faire_quote": 1.78,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 5.5,
+          "begruendung": "SportsLine-Modell Under hat 6 von 10 letzten H2H getroffen. Spurs Defensive Rating 99.7 #1 in den Playoffs (erlauben 101.8 Pkt/Spiel), Wembanyama 4.2 Blocks/G + Spurs-System droeselt OKC-3er-Volume runter. WCF-Game-1 traditionell taktisch (beide Coaches testen, kein Trash-Time-Run). Wackel-Faktor: Thunder-Tempo + SGA-Volumen kann Game 1 trotzdem ueber 219.5 ziehen, aber bei Spurs-Bremse realistischer Under. Markt Ueber/Unter NBA n=3 Treffer im System (geringe Datenbasis), deshalb Value-Label. Einsatz 5,50 EUR (1.0%)."
+        },
+        {
+          "id": "okc-sas-3",
+          "kategorie": "wackel",
+          "markt": "Thunder Sieg (Moneyline)",
+          "prognose": "Thunder gewinnt Game 1",
+          "quote": 1.38,
+          "edge_prozent": 4,
+          "faire_quote": 1.33,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 2.75,
+          "begruendung": "Thunder mit Heim-Vorteil + Playoff-Form 8-0 + Williams-Rueckkehr + SGA-Volumen + bessere Pause als Spurs (mehrere Tage mehr). Aber Spurs 4-1 in Regular Season + Wembanyama-Faktor + Spurs-Game-7-Routine. Hebel B: NBA-Playoff NIE SAFE -> Sieg-Tipp auf OKC trotz ML 1.38 max WACKEL gelabelt. Layer-2 Hinweis: Anti-Cluster zu okc-sas-1 (Spurs-Spread) - bei OKC-knappem-Sieg (Spread-Sieg fuer Spurs) gewinnen beide Tipps. Einsatz nur 2,75 EUR (0.5%) wegen Volatilitaet + Lesson 'Spurs sind playoffsharp' (Wolves G1+G3+G5+G6 alle Wembanyama-Comeback)."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "tore_heim": 115,
+        "tore_gast": 122,
+        "halbzeit_heim": 44,
+        "halbzeit_gast": 51,
+        "status": "F/2OT"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "okc-sas-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.95,
+          "kommentar": "Spurs +6.5 GEWONNEN: Spurs gewannen SU 122:115 (2OT) - Spread cover mit 7 Pkt Differenz, ueber 6.5-Linie. Wembanyama 41 Pkt + 24 Reb (40-20-Game, 7. NBA-Historie ueberhaupt), Wembanyama-3er nahe Logo zur Verlaengerung. 4-1-Regular-Season-Edge bestaetigt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "okc-sas-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Unter 219.5 verloren: 2OT-Spiel mit 237 Total (122+115) - klar ueber Linie. Doppel-OT erweiterte Spielzeit zusaetzlich (10 OT-Min). Lesson NBA-Game-7-Heim-Underdog-Crash (18.05. PreLesson) hat hier nicht direkt gegolten (kein Game 7), aber: bei pre-Match-Tempo-Erwartung in WCF-G1 immer Ueber-Bias - Lesson 23.04. Under-bei-einseitig-Spiel hier kontraproduktiv.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "okc-sas-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Thunder ML verloren: Spurs holten 122:115 in 2OT, 4-1-Regular-Season-Pattern fortgesetzt. Hebel-B (NBA-Playoff nie SAFE) wieder bestaetigt - Thunder als kurzer Favorit (1.38) gefallen.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "44:51",
+        "endstand": "115:122",
+        "tore": [],
+        "quarter_stand": {
+          "q1": "27:27",
+          "hz": "44:51",
+          "q3": "73:80",
+          "reg": "101:101",
+          "ot1": "110:110",
+          "ot2_final": "115:122"
+        },
+        "drehung": {
+          "war_drehung": false,
+          "details": "Spurs fuehrten ab Q2 durchgehend, Thunder kam im Q4 zur Verlaengerung zurueck (101:101 reg), aber kein Spurs-2-Polster-Verlust mit Niederlage. Klassischer Wembanyama-Closer (3er nahe Logo 26.3s, Dunks im finalen 2OT)."
+        },
+        "markt_resultate": {
+          "total_punkte": 237,
+          "ueber_219_5": true,
+          "ueber_220_5": true,
+          "spread_spurs_plus_6_5": true,
+          "spread_thunder_minus_6_5": false,
+          "halbzeit_endstand": "Spurs/Spurs",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Victor Wembanyama",
+            "details": "41 Pkt + 24 Reb + 3 Blocks = 40-20-Conference-Finals-Debut (2. in Spurs-Geschichte). Karriere-High in Punkte + Rebounds."
+          },
+          {
+            "team": "gast",
+            "spieler": "Dylan Harper",
+            "details": "24 Pkt + 11 Reb + 6 Ast + 7 Steals (Team-Playoff-Record). Erster Rookie mit 15+/5+/5+ in Playoff-Spiel seit Magic Johnson 1980."
+          },
+          {
+            "team": "heim",
+            "spieler": "Alex Caruso",
+            "details": "31 Pkt von der Bank fuer Thunder - Top-Scorer der Verlierer, SGA blieb hinter Erwartungen."
+          },
+          {
+            "team": "gast",
+            "spieler": "De'Aaron Fox",
+            "details": "OUT (Knoechel) - Spurs gewannen trotzdem ohne Stamm-PG, Castle/Harper uebernahmen."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Spurs-+6.5-VALUE-These (4-1 Reg-Season + Wembanyama-Defense + H2H-Edge) sauber bestaetigt: Spurs gewannen SOGAR Outright, +7 Differenz nach 2OT. Lesson 15.05. (Spurs-Spread-Unterbewertung) klar verifiziert.",
+          "Wembanyama-Form HISTORISCH unterbewertet: nach 39/15/5 am 08.05. nun 41/24 in WCF-G1 - 7. NBA-Player mit 40-20 in Conference Finals+ (Kareem, Barkley, Shaq etc.). Lesson 08.05.-Update brauchen: Wemby-Performance ist nicht-mehr-Sample-of-1.",
+          "Unter-219.5-Tipp verloren wegen 2OT-Volumen-Inflation: Total 237 (10 OT-Min = ca. 25 zusaetzliche Punkte). Aus Total-Schaetzung muss OT-Wahrscheinlichkeit eingerechnet werden (Game 1 = Tempo-Test, hohe OT-Wahrscheinlichkeit ist verbreitet).",
+          "OKC-Heim-8-0-Form vor WCF irrelevant gegen Klasse-Defense: Sweep-Edge-Lesson (15.05. Spurs-Wolves-Closeout +30) wiederholt im hoeheren Level - Heim-Vorteil bei Top-Team-Defense schmilzt."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "et-1",
+      "spiel_id": "2026-05-18-ars-bur",
+      "kategorie": "safe",
+      "markt": "Ueber 1.5 Tore (Arsenal - Burnley)",
+      "quote": 1.2,
+      "einsatz_euro": 11.0,
+      "begruendung": "Top-Pick SAFE: Markt-Goldgrube Ueber 1.5 (83.3% Hit / +31.7% ROI). Arsenal-Heim-Saisonfinale + Burnley-Notformation + Gyokeres-Form-Lauf. Letztes H2H 2:0. Einsatz 11 EUR (2.0% Stufe-1-Kasse).",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1,
+      "tipp_id": "ars-bur-1",
+      "tipp_ref": "ars-bur-1"
+    },
+    {
+      "id": "et-2",
+      "spiel_id": "2026-05-18-ars-bur",
+      "kategorie": "value",
+      "markt": "Viktor Gyokeres trifft (Arsenal - Burnley)",
+      "quote": 1.61,
+      "einsatz_euro": 8.25,
+      "begruendung": "Top-Pick VALUE: Form-Edge Gyokeres 14 PL-Tore Saison + 21 alle Wettbewerbe (14 in 2026 mehr als jeder PL-Spieler, 9 von 14 PL-Toren zu Hause). Markt-Goldgrube Torschuetzen (+19.5% ROI). Burnley-Defense ohne 3 Stammverteidiger. Einsatz 8,25 EUR (1.5%).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 2,
+      "tipp_id": "ars-bur-2",
+      "tipp_ref": "ars-bur-2"
+    },
+    {
+      "id": "et-3",
+      "spiel_id": "2026-05-18-ars-bur",
+      "kategorie": "value",
+      "markt": "Arsenal Asian Handicap -1.5 (Arsenal - Burnley)",
+      "quote": 1.65,
+      "einsatz_euro": 8.25,
+      "begruendung": "Top-Pick VALUE: Markt-Goldgrube Sieg (+9.8% ROI). 85%-Modell-Sieg + Klasse-Edge + Burnley-Auswaerts-4-Niederlagen-Serie. Direkter Sieg @ 1.09 zu kurz, AH -1.5 hat besseren Value. Einsatz 8,25 EUR (1.5%).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 3,
+      "tipp_id": "ars-bur-4",
+      "tipp_ref": "ars-bur-4"
+    },
+    {
+      "id": "et-4",
+      "spiel_id": "2026-05-18-ars-bur",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore (Arsenal - Burnley)",
+      "quote": 1.55,
+      "einsatz_euro": 8.25,
+      "begruendung": "VALUE: Markt-Goldgrube Ueber 2.5 (50% Hit / +52.3% ROI, hoechster im System). Predictive Model 66% Ueber. Arsenal-Heim-Saisonfinale + Burnley-Notformation. Einsatz 8,25 EUR (1.5%).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 4,
+      "tipp_id": "ars-bur-3",
+      "tipp_ref": "ars-bur-3"
+    },
+    {
+      "id": "et-5",
+      "spiel_id": "2026-05-18-okc-sas",
+      "kategorie": "value",
+      "markt": "Spurs +6.5 Asian Handicap (Thunder - Spurs)",
+      "quote": 1.95,
+      "einsatz_euro": 8.25,
+      "begruendung": "Top-Pick VALUE NBA: Spurs 4-1 SU+ATS gegen OKC in der Regular Season + Wembanyama-Defense #1 Playoffs (99.7 DRtg, 4.2 BPG). NBA-Playoff nie SAFE (Hebel B) -> max VALUE. Einsatz 8,25 EUR (1.5%).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 5,
+      "tipp_id": "okc-sas-1",
+      "tipp_ref": "okc-sas-1"
+    },
+    {
+      "id": "et-6",
+      "spiel_id": "2026-05-18-okc-sas",
+      "kategorie": "value",
+      "markt": "Unter 219.5 Punkte (Thunder - Spurs)",
+      "quote": 1.9,
+      "einsatz_euro": 5.5,
+      "begruendung": "VALUE NBA: SportsLine-Modell Under in 6/10 letzten H2H + Spurs def #1 Playoffs (101.8 Pkt/Spiel allowed). Markt Ueber/Unter NBA geringe Datenbasis (n=3). Einsatz 5,50 EUR (1.0%).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 6,
+      "tipp_id": "okc-sas-2",
+      "tipp_ref": "okc-sas-2"
+    },
+    {
+      "id": "et-7",
+      "spiel_id": "2026-05-18-ars-bur",
+      "kategorie": "wackel",
+      "markt": "Bukayo Saka trifft (Arsenal - Burnley)",
+      "quote": 2.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "WACKEL: Saka 02.05. + 05.05. (CL-HF) Tore - Form gut, Markt-Goldgrube Torschuetzen. Wackel statt Value: Trossard-Praeferenz links koennte Saka-Tor-Volume runtersetzen. Einsatz 2,75 EUR (0.5%).",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 7,
+      "tipp_id": "ars-bur-5",
+      "tipp_ref": "ars-bur-5"
+    },
+    {
+      "id": "et-8",
+      "spiel_id": "2026-05-18-okc-sas",
+      "kategorie": "wackel",
+      "markt": "Thunder Sieg ML (Thunder - Spurs)",
+      "quote": 1.38,
+      "einsatz_euro": 2.75,
+      "begruendung": "WACKEL: NBA-Playoff nie SAFE (Hebel B). OKC-Heim + 8-0 Form, aber Spurs 4-1 Regular Season + Wembanyama-Faktor. Niedriger Einsatz wegen Volatilitaet. Einsatz 2,75 EUR (0.5%).",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 8,
+      "tipp_id": "okc-sas-3",
+      "tipp_ref": "okc-sas-3"
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-safe-mini",
+      "name": "Safe Mini ~2.3x",
+      "kategorie": "safe",
+      "beine": [
+        {
+          "spiel_id": "2026-05-18-ars-bur",
+          "markt": "Ueber 1.5 Tore",
+          "quote": 1.2,
+          "tipp_id": "ars-bur-1",
+          "tipp_ref": "ars-bur-1"
+        },
+        {
+          "spiel_id": "2026-05-18-okc-sas",
+          "markt": "Spurs +6.5 Asian Handicap",
+          "quote": 1.95,
+          "tipp_id": "okc-sas-1",
+          "tipp_ref": "okc-sas-1"
+        }
+      ],
+      "gesamtquote": 2.34,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 11.0,
+      "potentieller_gewinn_euro": 25.74,
+      "begruendung": "Safe-Mini-Kombi: 2 Goldgrube-Bezuege (Ueber 1.5 Markt-Goldgrube + Spurs-+6.5 H2H-Edge). Mit 2 Spielen heute Layer-1 erfuellt (verschiedene Spiele). Quote 2.34 statt 3x weil Markt-Konstrukt nicht hergibt - bewusst konservativ statt erzwungene 3x mit unsicheren Beinen. Einsatz 11 EUR (2.0% kombi_safe_prozent Stufe 1).",
+      "rechnung": "1.20 x 1.95 = 2.34"
+    },
+    {
+      "id": "kombi-balance",
+      "name": "Balance ~3x",
+      "kategorie": "balance",
+      "beine": [
+        {
+          "spiel_id": "2026-05-18-ars-bur",
+          "markt": "Viktor Gyokeres trifft",
+          "quote": 1.61,
+          "tipp_id": "ars-bur-2",
+          "tipp_ref": "ars-bur-2"
+        },
+        {
+          "spiel_id": "2026-05-18-okc-sas",
+          "markt": "Unter 219.5 Punkte",
+          "quote": 1.9,
+          "tipp_id": "okc-sas-2",
+          "tipp_ref": "okc-sas-2"
+        }
+      ],
+      "gesamtquote": 3.06,
+      "empfohlener_einsatz_prozent": 0.8,
+      "einsatz_euro": 4.4,
+      "potentieller_gewinn_euro": 13.46,
+      "begruendung": "Balance ~3x: Goldgrube-Torschuetzen (Gyokeres Form-Edge) + NBA-Unter-Tipp kombiniert. Nach Mapper-HR23 Spurs-Spread aus Balance gedroppt (war Sieg-Outcome-Doppelung mit Safe-Mini), Ersatz Unter 219.5 - kein Sieg-Outcome, Layer-2 erfuellt. Mit nur 2 Spielen heute keine hoehere Quote ohne Layer-1-Verletzung moeglich. Einsatz 4,40 EUR (0.8% kombi_balance_prozent Stufe 1).",
+      "rechnung": "1.61 x 1.90 = 3.06"
+    }
+  ],
+  "lessons_angewandt": [
+    "Hebel B (NBA-Playoff nie SAFE) angewandt: Thunder-ML trotz 1.38-Quote als WACKEL gelabelt, Spurs-Spread + Unter als VALUE.",
+    "Hebel C (Liga-Goldgrube-DC-Falle) angewandt: PL nicht in liga_goldgruben.json (nur EL-HF-Rueck/NBA-G2/CL-HF-Hin) -> kein SAFE-DC, stattdessen direkter Sieg-Approach (Asian Handicap -1.5) + Torschuetzen.",
+    "Hebel M (DC-Cap max 1 pro Spiel + Markt-Mix) angewandt: 0 DC im Arsenal-Burnley-Spiel - stattdessen Tor-Total + Torschuetzen-Mix.",
+    "Hebel S (Saison-Kontext-Selbst-Widerspruch) gecheckt: Arsenal-Burnley-Kontext zeigt klare Klasse-Edge (kein 'eher 50/50' / 'rotiert vor') -> SAFE-Label fuer Ueber 1.5 legitim. NBA-WCF-Game-1 keine klare Asymmetrie -> kein SAFE.",
+    "PFLICHT-PROFILE-Regel Hebel-2 Heim-Favorit angewandt: Arsenal-Burnley mit ML 1.09 -> MIN 1 Torschuetzen-Tipp Pflicht (Gyokeres + Saka beide drin) + Sieg-Tipp (Asian Handicap -1.5).",
+    "Form-Edge-Pflicht Hebel-Regel 4 erfuellt: Gyokeres 14 Tore in 2026 (mehr als jeder PL-Spieler) + 21 Saison-Tore alle Wettbewerbe = klar 3+ Tore in letzten 5 Spielen -> Torschuetzen-Tipp Pflicht eingebaut.",
+    "Lesson 15.05. (Spurs spielen unter ihrem Spread weil Wembanyama-Defense unterschaetzt wird) angewandt: Spurs +6.5 als VALUE statt Thunder-Spread.",
+    "Lesson 16.05. (Heim-Saisonfinale-Anti-Rotation = Old-Trafford-Pattern) angewandt: Arsenal-Heim-Saisonfinale mit Titel-Klar-Chance -> kein Schonkurs vor CL-Final (12 Tage > 7d-Schwellwert Lesson 14.05.).",
+    "Lesson 18.05. (CL-Finalisten-Rotation eine Woche vorm Final) NICHT triggered: CL-Final 30.05. = 12 Tage weg -> ueber 7-Tage-Trigger-Schwelle, Arsenal Vollformation legitim.",
+    "Markt-Goldgrube-Priorisierung: 3 von 5 Tipps im Arsenal-Spiel auf Goldgrube-Maerkten (Ueber 1.5, Ueber 2.5, Torschuetzen) - aktive Suche per markt_goldgruben.json.",
+    "NBA-Player-Punkte-Boykott seit 26.04. weiter aktiv: kein Player-Points-Tipp in Einzeltipps oder Kombis.",
+    "Watchdog-Recovery-Modus: Hauptroutine 16:00 nicht durchgelaufen, Generation jetzt um 14:50 (also vor 17:15 Watchdog-Standard - frueher als geplant, da File schon fehlte)."
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-05-18T18:25:00+02:00",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "quoten_abweichung",
+        "tipp_id": "ars-bur-2",
+        "abweichung": "+11%",
+        "details": "Gyokeres-Torschuetzen-Quote im Tipp 1.61 vs Recherche-Aggregator-Schaetzung 1.45 - Recherche-Quote ist Schaetzwert, bei bet365 live pruefen"
+      },
+      {
+        "art": "quoten_abweichung",
+        "tipp_id": "ars-bur-3",
+        "abweichung": "+10%",
+        "details": "Ueber 2.5 im Tipp 1.55 vs Recherche-Aggregator 1.41 - bei bet365 live pruefen"
+      },
+      {
+        "art": "quoten_abweichung",
+        "tipp_id": "ars-bur-5",
+        "abweichung": "+35%",
+        "details": "Saka-Torschuetzen-Quote im Tipp 2.50 vs Recherche-Aggregator-Schaetzung 1.85 - signifikante Abweichung, Recherche-Schaetzung kann zu aggressiv gewesen sein, bei bet365 live pruefen"
+      },
+      {
+        "art": "kombi_rechnung_repariert",
+        "kombi_id": "kombi-safe-mini",
+        "details": "Pflichtfeld 'rechnung' fehlte - eingefuegt als '1.20 x 1.95 = 2.34'"
+      },
+      {
+        "art": "kombi_rechnung_repariert",
+        "kombi_id": "kombi-balance",
+        "details": "Pflichtfeld 'rechnung' war fehlerhaft '1.61 = 1.61' - korrigiert auf '1.61 x 1.90 = 3.06'"
+      },
+      {
+        "art": "kombi_anzahl_unter_soll",
+        "details": "Nur 2 Kombis statt Soll-4 (kein Risiko/Moonshot). Begruendung: 2 Spiele heute + Layer-1 max 1 Bein/Spiel/Kombi macht 3-4-Bein-Kombis unmoeglich. Bewusste konservative Entscheidung statt erzwungene Layer-1-Verletzung."
+      }
+    ],
+    "checks_ok": [
+      "spieler_halluzinations_check: Gyokeres (ST) + Saka (RF) beide im Arsenal-Squad mit korrekter Sturm-Position. Keine NBA-Player-Tipps (Player-Punkte-Boykott aktiv).",
+      "saison_kontext_verband_quellen: Arsenal nennt CL-Final 30.05. - Quellen enthalten uefa.com + premierleague.com. NBA-Spiel ohne Wettbewerbs-Behauptungs-Pflicht.",
+      "layer_2_cross_check: Sieg-Outcome (Spurs +6.5 AH) nur in Safe-Mini-Kombi - Balance hat keine Sieg-Outcomes (Torschuetzen + Unter). Layer-2 sauber.",
+      "selbstwiderspruchs_scan: Calafiori/Hannibal/Fox als 'fraglich' konsistent in Squad + News + Begruendungen. Keine OUT-vs-Spielt-Konflikte.",
+      "liga_frische: CL-Final 30.05. (12d), PL MD37, NBA WCF G1 plausibel zum 18.05.2026.",
+      "kasse_stufe_check: alle Einsaetze (2,75-11€) im Stufe-1-Rahmen (0.5-2%) bei 550€-Kasse.",
+      "markt_bluter_check: Liste leer - nichts zu degradieren.",
+      "markt_goldgrube_priorisierung: 3 von 5 Arsenal-Tipps auf Goldgrube-Maerkten (Ueber 1.5 + Ueber 2.5 + Torschuetzen) - aktive Suche erfuellt."
+    ],
+    "lessons_generiert": []
+  },
+  "einzeltipps_ergebnis": [
+    {
+      "id": "et-1",
+      "spiel_id": "2026-05-18-ars-bur",
+      "kategorie": "safe",
+      "markt": "Ueber 1.5 Tore (Arsenal - Burnley)",
+      "quote": 1.2,
+      "einsatz_euro": 11.0,
+      "begruendung": "Top-Pick SAFE: Markt-Goldgrube Ueber 1.5 (83.3% Hit / +31.7% ROI). Arsenal-Heim-Saisonfinale + Burnley-Notformation + Gyokeres-Form-Lauf. Letztes H2H 2:0. Einsatz 11 EUR (2.0% Stufe-1-Kasse).",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1,
+      "status": "verloren",
+      "gewinn_euro": -11.0,
+      "tipp_id": "ars-bur-1",
+      "tipp_ref": "ars-bur-1",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Ueber 1.5 verloren: nur 1 Tor im Spiel (Havertz 36. Kopfball nach Saka-Ecke). 1-0-Endstand zementiert.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-2",
+      "spiel_id": "2026-05-18-ars-bur",
+      "kategorie": "value",
+      "markt": "Viktor Gyokeres trifft (Arsenal - Burnley)",
+      "quote": 1.61,
+      "einsatz_euro": 8.25,
+      "begruendung": "Top-Pick VALUE: Form-Edge Gyokeres 14 PL-Tore Saison + 21 alle Wettbewerbe (14 in 2026 mehr als jeder PL-Spieler, 9 von 14 PL-Toren zu Hause). Markt-Goldgrube Torschuetzen (+19.5% ROI). Burnley-Defense ohne 3 Stammverteidiger. Einsatz 8,25 EUR (1.5%).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 2,
+      "status": "verloren",
+      "gewinn_euro": -8.25,
+      "tipp_id": "ars-bur-2",
+      "tipp_ref": "ars-bur-2",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Gyokeres-Torschuetzen-Tipp verloren: Gyokeres NICHT in Startelf (Havertz startete als 9er), kam erst 73. fuer Havertz rein - bei 1:0-Fuehrung kein Offensiv-Druck mehr. Einwechslungs-Boost greift NICHT (Boost-Rule erfordert Tipp-Spieler X SELBST raus + Y trifft; hier kam Gyokeres rein, nicht raus). Reverse-Konstellation (Havertz raus, Gyokeres rein, Gyokeres ohne Tor) ist KEIN Boost-Fall.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-3",
+      "spiel_id": "2026-05-18-ars-bur",
+      "kategorie": "value",
+      "markt": "Arsenal Asian Handicap -1.5 (Arsenal - Burnley)",
+      "quote": 1.65,
+      "einsatz_euro": 8.25,
+      "begruendung": "Top-Pick VALUE: Markt-Goldgrube Sieg (+9.8% ROI). 85%-Modell-Sieg + Klasse-Edge + Burnley-Auswaerts-4-Niederlagen-Serie. Direkter Sieg @ 1.09 zu kurz, AH -1.5 hat besseren Value. Einsatz 8,25 EUR (1.5%).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 3,
+      "status": "verloren",
+      "gewinn_euro": -8.25,
+      "tipp_id": "ars-bur-4",
+      "tipp_ref": "ars-bur-4",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Arsenal AH -1.5 verloren: 1:0-Sieg mit nur 1-Tor-Differenz. AH -1.5 braucht 2+ Tore Differenz. 2:0-Insurance gilt NICHT bei Handicap.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-4",
+      "spiel_id": "2026-05-18-ars-bur",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore (Arsenal - Burnley)",
+      "quote": 1.55,
+      "einsatz_euro": 8.25,
+      "begruendung": "VALUE: Markt-Goldgrube Ueber 2.5 (50% Hit / +52.3% ROI, hoechster im System). Predictive Model 66% Ueber. Arsenal-Heim-Saisonfinale + Burnley-Notformation. Einsatz 8,25 EUR (1.5%).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 4,
+      "status": "verloren",
+      "gewinn_euro": -8.25,
+      "tipp_id": "ars-bur-3",
+      "tipp_ref": "ars-bur-3",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Ueber 2.5 verloren: nur 1 Tor. Arteta-Steuerungs-Modus bei Titel-Klar-Chance.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-5",
+      "spiel_id": "2026-05-18-okc-sas",
+      "kategorie": "value",
+      "markt": "Spurs +6.5 Asian Handicap (Thunder - Spurs)",
+      "quote": 1.95,
+      "einsatz_euro": 8.25,
+      "begruendung": "Top-Pick VALUE NBA: Spurs 4-1 SU+ATS gegen OKC in der Regular Season + Wembanyama-Defense #1 Playoffs (99.7 DRtg, 4.2 BPG). NBA-Playoff nie SAFE (Hebel B) -> max VALUE. Einsatz 8,25 EUR (1.5%).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 5,
+      "status": "gewonnen",
+      "gewinn_euro": 7.84,
+      "tipp_id": "okc-sas-1",
+      "tipp_ref": "okc-sas-1",
+      "gewinn_faktor": 0.95,
+      "kommentar": "Spurs +6.5 GEWONNEN: Spurs gewannen SU 122:115 (2OT) - Spread cover mit 7 Pkt Differenz, ueber 6.5-Linie. Wembanyama 41 Pkt + 24 Reb (40-20-Game, 7. NBA-Historie ueberhaupt), Wembanyama-3er nahe Logo zur Verlaengerung. 4-1-Regular-Season-Edge bestaetigt.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-6",
+      "spiel_id": "2026-05-18-okc-sas",
+      "kategorie": "value",
+      "markt": "Unter 219.5 Punkte (Thunder - Spurs)",
+      "quote": 1.9,
+      "einsatz_euro": 5.5,
+      "begruendung": "VALUE NBA: SportsLine-Modell Under in 6/10 letzten H2H + Spurs def #1 Playoffs (101.8 Pkt/Spiel allowed). Markt Ueber/Unter NBA geringe Datenbasis (n=3). Einsatz 5,50 EUR (1.0%).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 6,
+      "status": "verloren",
+      "gewinn_euro": -5.5,
+      "tipp_id": "okc-sas-2",
+      "tipp_ref": "okc-sas-2",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Unter 219.5 verloren: 2OT-Spiel mit 237 Total (122+115) - klar ueber Linie. Doppel-OT erweiterte Spielzeit zusaetzlich (10 OT-Min). Lesson NBA-Game-7-Heim-Underdog-Crash (18.05. PreLesson) hat hier nicht direkt gegolten (kein Game 7), aber: bei pre-Match-Tempo-Erwartung in WCF-G1 immer Ueber-Bias - Lesson 23.04. Under-bei-einseitig-Spiel hier kontraproduktiv.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-7",
+      "spiel_id": "2026-05-18-ars-bur",
+      "kategorie": "wackel",
+      "markt": "Bukayo Saka trifft (Arsenal - Burnley)",
+      "quote": 2.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "WACKEL: Saka 02.05. + 05.05. (CL-HF) Tore - Form gut, Markt-Goldgrube Torschuetzen. Wackel statt Value: Trossard-Praeferenz links koennte Saka-Tor-Volume runtersetzen. Einsatz 2,75 EUR (0.5%).",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 7,
+      "status": "verloren",
+      "gewinn_euro": -2.75,
+      "tipp_id": "ars-bur-5",
+      "tipp_ref": "ars-bur-5",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Saka-Torschuetzen verloren: Saka spielte durch, gab Vorlage zum 1:0 (Eckball auf Havertz 36.), traf selbst nicht. Saka wurde NICHT ausgewechselt - kein Einwechslungs-Boost moeglich. Assist-Profil bestaetigt.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-8",
+      "spiel_id": "2026-05-18-okc-sas",
+      "kategorie": "wackel",
+      "markt": "Thunder Sieg ML (Thunder - Spurs)",
+      "quote": 1.38,
+      "einsatz_euro": 2.75,
+      "begruendung": "WACKEL: NBA-Playoff nie SAFE (Hebel B). OKC-Heim + 8-0 Form, aber Spurs 4-1 Regular Season + Wembanyama-Faktor. Niedriger Einsatz wegen Volatilitaet. Einsatz 2,75 EUR (0.5%).",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 8,
+      "status": "verloren",
+      "gewinn_euro": -2.75,
+      "tipp_id": "okc-sas-3",
+      "tipp_ref": "okc-sas-3",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Thunder ML verloren: Spurs holten 122:115 in 2OT, 4-1-Regular-Season-Pattern fortgesetzt. Hebel-B (NBA-Playoff nie SAFE) wieder bestaetigt - Thunder als kurzer Favorit (1.38) gefallen.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "kombi-safe-mini",
+      "status": "verloren",
+      "gesamtquote": 2.34,
+      "gewinn_euro": -11.0,
+      "kommentar": "Bein 1 Ueber 1.5 verloren (1:0). Spurs +6.5 gewonnen, aber Kombi-Logik braucht alle Beine."
+    },
+    {
+      "kombi_id": "kombi-balance",
+      "status": "verloren",
+      "gesamtquote": 3.06,
+      "gewinn_euro": -4.4,
+      "kommentar": "Beide Beine verloren: Gyokeres-Tor (Gyokeres nicht in Startelf) + Unter 219.5 (Total 237)."
+    }
+  ],
+  "ausgewertet_am": "2026-05-19T08:30:00+02:00",
+  "tages_bilanz": {
+    "einzeltipps_total_einsatz": 55.0,
+    "einzeltipps_netto": -38.91,
+    "kombis_total_einsatz": 15.4,
+    "kombis_netto": -15.4,
+    "gesamt_einsatz": 70.4,
+    "gesamt_netto": -54.31,
+    "roi_prozent": -77.1,
+    "kasse_exposition_prozent": 12.8,
+    "einzel_trefferquote": "1/8",
+    "kombi_trefferquote": "0/2",
+    "spiele_mit_volle_analyse": 2,
+    "insurance_2_0_angewandt": false,
+    "einwechslungs_boost_angewandt": false
+  }
+}
