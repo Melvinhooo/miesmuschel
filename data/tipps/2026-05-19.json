@@ -1,75 +1,88 @@
 {
   "datum": "2026-05-19",
-  "erstellt_am": "2026-05-19T17:15:00+02:00",
-  "hinweis": "Tipps-Dossier 2026-05-19 — Watchdog-Recovery (Hauptroutine 16:00 hat nicht abgeschlossen, Watchdog 17:15 holt nach). Saisonende: nur 2 Premier-League-Nachholer + NBA-ECF Game 1. Bundesliga/2.BL/Serie A/LaLiga/Ligue 1 haben am Wochenende ihre Spieltage absolviert. EL-Finale ist morgen 20.05., DFB-Pokal-Finale 23.05., CL-Finale 30.05. Wenig Auswahl → wenige Tipps mit klarem Edge statt viel Mittelmaß. Quoten beim Anstoß live in der bet365-App prüfen.",
+  "erstellt_am": "2026-05-19T13:30:00+02:00",
+  "hinweis": "Dienstag 19.05.2026 (Mo-Fr Pipeline: Recherche + Analyse + Verifikation). 3 Tipps-Spiele: 2x Premier-League-MD37-Schlager (Bournemouth-City 20:30, Chelsea-Tottenham 21:15) + NBA-ECF-Game-1 (Knicks-Cavs Mittwoch 02:00 Berlin). Bundesliga ruht (Saison Sonntag beendet), LaLiga/Serie A pausieren bis MD38 am Wochenende, CL/EL/Conference keine Spiele heute. KASSE 550 EUR (Stand 04.05.) -> Stufe 1 (Aufbau-Phase) aktiv. 2:0-Insurance heute NICHT anwendbar (kein BL/CL-Spiel). NBA-Player-Punkte-Boykott (HR16) aktiv: Brunson/Mitchell-Punkte-Beine nur in Risiko-/Moonshot-Kombi, keine Einzeltipps. Lesson 18.05.: bei nur 3 Spielen ist Mini-Tag-Diversifikations-Cap (Lesson 18.05. fuer <=2 Spielen) zwar nicht aktiv, aber strukturelle Spiel-Crash-Anfaelligkeit der 4 Kombis ist real -> reduziert konservative Einsaetze. Quoten bei Wettzeit live in der bet365-App pruefen (Recherche-Quoten sind US-Format-Konversion via Aggregator-Snapshot).",
   "spiele": [
     {
-      "id": "2026-05-19-bou-mac",
+      "id": "2026-05-19-bou-mci",
       "liga": "Premier League",
       "heim": "AFC Bournemouth",
       "gast": "Manchester City",
       "anstoss": "2026-05-19T20:30:00+02:00",
       "stadion": "Vitality Stadium, Bournemouth",
       "saison_kontext": {
-        "parallel_heim": "keine — Bournemouth nur in Premier League aktiv, kein UEFA-Wettbewerb in dieser Saison",
-        "parallel_gast": "keine — Man City am 16.05. FA-Cup-Finale 1-0 vs Chelsea gewonnen, CL bereits im April raus, keine weiteren Belastungen",
-        "saisonziel_heim": "Bournemouth, 4 Pkt hinter Liverpool für Champions-League-Quali-Spot mit einem Spiel weniger — pures CL-Spot-Endspiel",
-        "saisonziel_gast": "Man City, 2 Pkt hinter Tabellenführer Arsenal mit einem Spiel weniger — muss gewinnen um Titelrennen offen zu halten bis letzter Spieltag (Goal-Diff +43 vs +42)",
-        "motivations_asymmetrie": "Beide Teams brennen heiß — Bournemouth historischer CL-Spot in Reichweite, Man City Premier-League-Titel-Druck. Echte Endspiel-Atmosphäre auf beiden Seiten — keine Rotation erwartet, Stammelf bei beiden",
-        "recovery_heim": "Bournemouth: ~2 Tage Pause nach 0-1 Niederlage bei Fulham (17.05.) — frisch genug für Heimspiel",
-        "recovery_gast": "Man City: 3 Tage Pause nach FA-Cup-Finale-Sieg 1-0 vs Chelsea am Wembley (16.05.). Wembley-Belastung real, aber 4 Siege aus letzten 5 (80% Form, 12-4 Tore), wird voraussichtlich mit Stammelf antreten (Haaland, Doku, Cherki, Bernardo Silva, Donnarumma)",
+        "parallel_heim": "keine - Bournemouth bisher nie europaeisch qualifiziert; FA-Cup ausgeschieden; keine UEFA-Wettbewerbe diese Saison",
+        "parallel_gast": "keine - FA-Cup-Finale gespielt 10.05.2026 (laut EPL-Index, Rodri zurueck); CL-Achtelfinale 2025-26 bereits ausgeschieden; keine UEFA-Doppelbelastung diese Woche",
+        "saisonziel_heim": "Platz 6 (55 Pkt) - kaempft um Europa-/Conference-Quali, 4 Pkt hinter Liverpool fuer letzten CL-Platz mit Spiel in der Hand; Heim-Festung intakt (16 PL-Spiele ungeschlagen laut Sportsmole)",
+        "saisonziel_gast": "Platz 2 (77 Pkt) - 5 Pkt hinter Arsenal (82 Pkt nach 1-0 vs Burnley 18.05.) im Titelrennen, MUSS heute gewinnen um Titel bis MD38 (24.05.) offen zu halten; CL-Quali via Top-4 bereits sicher",
+        "motivations_asymmetrie": "City Titel-Druck-Maximum (Niederlage = Arsenal-Meister bei MD38-Sieg) + voller Kader Pep (Rodri zurueck) vs Bournemouth Heim-Festung (16 ungeschlagen) ohne klaren Saisonziel-Existenz-Druck (Conference-Quali waere Bonus, kein Muss). Klassen-Edge plus Motivations-Asymmetrie klar pro City - H2H 94.1% Siegquote unterstreicht.",
+        "recovery_heim": "9 Tage seit letztem Spiel (10.05. laut Sportsgambler-Form-Stats); sehr frisch, kein Belastungs-Nachteil",
+        "recovery_gast": "9 Tage seit FA-Cup-Finale 10.05.; voller Kader verfuegbar (Rodri + Doku zurueck), keine Doppelbelastung diese Woche",
         "quellen": [
-          "https://www.premierleague.com/en/news/4572119/premier-league-title-race-how-it-stands-and-remaining-fixtures",
           "https://www.sportsgambler.com/betting-tips/football/bournemouth-vs-manchester-city-prediction-lineups-odds-2026-05-19/",
-          "https://www.premierleague.com/en/clubs/43/manchester-city/matches",
-          "https://www.fotmob.com/players/737066/erling-haaland"
+          "https://www.sportsmole.co.uk/football/man-city/title-race/preview/bournemouth-vs-man-city-prediction-team-news-lineups_597717.html",
+          "https://eplindex.com/146565/man-city-starting-xi-vs-bournemouth-confirmed-team-news-and-predicted-lineup-3.html",
+          "https://www.premierleague.com/en/news/4572119/premier-league-title-race-how-it-stands-and-remaining-fixtures",
+          "https://www.thefa.com/competitions/the-emirates-fa-cup"
         ]
       },
       "news": [
-        "Man City 4 Siege aus letzten 5 Spielen (alle Wettbewerbe), 12 Tore erzielt, 4 kassiert — Top-Form vor PL-Finale",
-        "Erling Haaland 26 PL-Tore in dieser Saison, beendete kürzlich Tor-Durststrecke gegen Leicester (2-0)",
-        "Bournemouth 4 Pkt hinter Liverpool für CL-Spot mit Spiel weniger — Sieg heute würde CL-Spot in eigene Hand legen",
-        "Evanilson nur 6 PL-Tore in 34 Spielen (kein Form-Edge auf Heim-Stürmer)",
-        "Man City letzte 3 Direkt-Duelle gegen Bournemouth alle gewonnen",
-        "Erwartete Aufstellung Man City (4-2-3-1): Donnarumma — Matheus Nunes, Khusanov, Guéhi, O'Reilly — Bernardo Silva, Nico González — Semenyo, Cherki, Doku — Haaland"
+        "PL-Titelrennen-Schluesselspiel: City MUSS gewinnen um Arsenal (82 Pkt nach 18.05.-Sieg vs Burnley) noch unter Druck zu setzen; Niederlage = Arsenal-Meisterschaft bei MD38-Sieg",
+        "Bournemouth 16 PL-Spiele ungeschlagen zuhause (Heim-Festung), 4S-6U-0N in letzten 10 PL-Spielen",
+        "Pep Guardiola erstmals seit langem mit vollem Kader: Rodri zurueck, Doku zurueck in Startelf, Donnarumma vor Trafford, voraussichtlich Foden statt Semenyo",
+        "H2H eindeutig City: 94.1% Siegquote in 17 PL-Begegnungen, nur eine Niederlage (2-1 Saison 2024-25), 3 City-Siege in Serie zuletzt",
+        "Bournemouth-Ausfaelle: Ryan Christie (3-Spiele-Rote-Karten-Sperre nach vs Fulham), Alex Jimenez (vom Klub suspendiert), Hamed Traore + Matai Akinmboni (verletzt)",
+        "Top-Saisontorschuetzen: Haaland (City) 26 Tore, Kroupi (Bournemouth) 12 Tore; Backup-Stuermer-Boost-Pattern bei Haaland aktiv (Cherki/Foden/Bernardo Silva)",
+        "Asymmetrie: City Titel-Druck + voller Kader + Auswaerts-Form 7S-3U-0N + 4 Siege aus letzten 5 Auswaerts vs Bournemouth Heim-Festung ohne Existenz-Druck"
       ],
       "tipps": [
         {
-          "markt": "Sieg Man City",
-          "quote": 1.7,
-          "wahrscheinlichkeit_geschaetzt": 60,
-          "begruendung": "Markt-Mix-Pflicht erfüllt (Auswärts-Favorit @ <2.20 → Sieg-Tipp pflicht). Auswärts-Favorit-Quote 1.70 = klares Pinnacle/Markt-Edge: Dimers Modell 56.1% vs faire Quote 1.78 (~5% Edge). Man City 4 von letzten 5 gewonnen, letzte 3 H2H gewonnen, Titel-Druck als Motivations-Booster. Premier League ist Liga-Goldgrube. Kasse-Stufe 1: 5,50€ (1% von 550€). Reality-Check Stat: PL-Sieg-Tipps insgesamt mit positivem ROI dieser Saison. [Auto: SAFE-Confirm fehlt - Quote 1.7 > 1.65 ohne Goldgrube-Kompensation]",
-          "kategorie": "value",
-          "faire_quote": 1.7,
-          "empfohlener_einsatz_prozent": 1.5,
-          "_safe_confirm_downgrade": true
-        },
-        {
-          "markt": "Erling Haaland Torschütze jederzeit",
-          "quote": 1.65,
-          "wahrscheinlichkeit_geschaetzt": 64,
-          "begruendung": "Form-Edge + Goldgrube-Markt — Pflicht-Markt bei Auswärts-Favorit. Haaland 26 PL-Tore in der Saison (Form 2026: 2+ Tore in 3 Spielen Cluster nach Durststrecke). Torschützen Jederzeit ist aktueller System-Goldgrube-Markt mit +24.4% ROI / 50% Hitrate (Stand 03.05.). Plus Einwechslungs-Boost-Regel: Backup-Stürmer-Tore (Marmoush/Doku-Verschiebung) würden zählen. Kasse-Stufe 1: 5,50€ (1%).",
-          "kategorie": "value",
-          "faire_quote": 1.65,
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "markt": "Über 2.5 Tore",
+          "id": "bou-mci-1",
+          "kategorie": "safe",
+          "markt": "Sieg Manchester City",
+          "prognose": "City gewinnt 90 Min regular - Auswaerts-Sieg",
           "quote": 1.6,
-          "wahrscheinlichkeit_geschaetzt": 64,
-          "begruendung": "Dimers Modell 65% Über-Wahrscheinlichkeit (faire Quote 1.54, Edge ~4%). Letzte 4 von 5 Man-City-Spielen Über 2.5 erzielt, Bournemouth-Spiele Über-2.5-Lauf 5/6. Beide Teams brauchen Tore (City für Titel, Bournemouth zur Aufholung). City-Sturm Haaland+Cherki+Doku+Semenyo voll motiviert, Bournemouth zuhause offensiv. Kasse-Stufe 1: 5,50€ (1%).",
-          "kategorie": "value",
-          "faire_quote": 1.6,
-          "empfohlener_einsatz_prozent": 1.0
+          "edge_prozent": 5,
+          "faire_quote": 1.52,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_euro": 11.0,
+          "begruendung": "Klare Klassen-Edge SAFE: H2H 94.1% Siegquote ueber 17 PL-Begegnungen, 9 Siege in letzten 10 Duellen, 3 City-Siege in Serie. Pep voller Kader (Rodri/Doku zurueck), Titel-Druck-Maximum, Auswaerts-Form 7S-3U-0N. Bournemouth-Heim-Festung 16 ungeschlagen ist Warning aber keine Niederlage seit Christie-Sperre + Jimenez-Suspendierung + Traore/Akinmboni verletzt = dezimierte Heim-Defense. Quote 1.60 in SAFE-Range (1.30-1.65) - Reality-Check Sieg-Markt Liga-Aggregat positiv. Kasse 11 EUR (2.0% Stufe 1)."
         },
         {
-          "markt": "Beide Teams treffen — Ja",
-          "quote": 1.65,
-          "wahrscheinlichkeit_geschaetzt": 60,
-          "begruendung": "Dimers 63.2% BTTS-Wahrscheinlichkeit. Bournemouth zuhause attackiert klar (CL-Spot-Druck), aber Man City Defense hat Donnarumma + Khusanov solide. WACKEL-Label statt VALUE weil City zu null durchaus möglich (City-Defense in Aufwärtstrend, Bournemouth-Sturm dünn ohne Form-Edge). Kasse-Stufe 1 Wackel: 2,75€ (0,5%).",
+          "id": "bou-mci-2",
+          "kategorie": "safe",
+          "markt": "Ueber 2.5 Tore (Bournemouth - Manchester City)",
+          "prognose": "Mindestens 3 Tore im Spiel",
+          "quote": 1.45,
+          "edge_prozent": 7,
+          "faire_quote": 1.35,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 8.25,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 Tore (46.2% Hit / +40.6% ROI bei n=15 laut markt_goldgruben.json - stabilster ROI-Markt aktuell). City-Auswaerts-Form 12-4 Tore in 5 Spielen, Haaland 26 Saisontore, Doku/Cherki/Foden-Offensiv-Trio. Bournemouth Heim 4S-6U-0N = vielen Remis 1-1/2-2 zugaenglich (Tor-Wahrscheinlichkeit beidseitig hoch). Quote 1.45 = SAFE-Range. Kasse 8,25 EUR (1.5% Stufe 1)."
+        },
+        {
+          "id": "bou-mci-3",
+          "kategorie": "value",
+          "markt": "Erling Haaland Torschuetze jederzeit",
+          "prognose": "Haaland erzielt mindestens 1 Tor",
+          "quote": 1.55,
+          "edge_prozent": 4,
+          "faire_quote": 1.49,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 5.5,
+          "begruendung": "HR24-Form-Edge-Pflicht erfuellt (2/3 Bedingungen): 26 PL-Tore Saison = Top-Form + Bournemouth-Defense ohne Christie/Jimenez/Traore/Akinmboni = Defense-Krise. Plus bet365-Einwechslungs-Boost: Cherki/Foden/Bernardo Silva sind Backup-Tor-Konversions-Risiko (Tore nach Haaland-Auswechslung zaehlen mit). Quote 1.55 zwar in SAFE-Range, aber Kategorie VALUE wegen Torschuetzen-Jederzeit-Hitrate-Stat ~50% historisch (markt_goldgruben.json hat Torschuetzen aktuell NICHT in Goldgrube-Liste - nur Ueber 2.5/Unter 2.5/DC 1X). Kasse 5,50 EUR (1.0% Stufe 1)."
+        },
+        {
+          "id": "bou-mci-4",
           "kategorie": "wackel",
-          "faire_quote": 1.65,
-          "empfohlener_einsatz_prozent": 0.5
+          "markt": "Eli Junior Kroupi Torschuetze jederzeit",
+          "prognose": "Kroupi erzielt mindestens 1 Tor",
+          "quote": 3.25,
+          "edge_prozent": 6,
+          "faire_quote": 3.05,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 2.75,
+          "begruendung": "WACKEL Underdog-Volumen-Stuermer: Kroupi 12 Saisontore = Top-Bournemouth-Stuermer + Heim-Festung 16 ungeschlagen + City-Defense ohne Wackler (Khusanov/Guehi-Innenverteidigung jung). HR24 Form-Edge: 1/3 erfuellt (5+ Tore-Form). Quote 3.25 in WACKEL-Range (2.30-3.50). Kasse 2,75 EUR (0.5% Stufe 1)."
         }
       ],
       "kontext_check_status": "OK"
@@ -82,115 +95,150 @@
       "anstoss": "2026-05-19T21:15:00+02:00",
       "stadion": "Stamford Bridge, London",
       "saison_kontext": {
-        "parallel_heim": "keine — Chelsea am 16.05. FA-Cup-Finale 0-1 vs Man City verloren, keine UEFA-Wettbewerbe mehr in dieser Saison",
-        "parallel_gast": "keine — Tottenham nur in Premier League aktiv, kein UEFA-Wettbewerb (EL bereits raus)",
-        "saisonziel_heim": "Chelsea, 10. Platz, 3 Pkt hinter Brentford für Europa-/Conference-League-Quali-Spot, will Saison-Trost retten — sieglos in 7 letzten Liga-Spielen",
-        "saisonziel_gast": "Tottenham, akuter Abstiegskampf, braucht 1 Punkt für Premier-League-Klassenerhalt — 2 Pkt von Abstiegszone weg",
-        "motivations_asymmetrie": "Tottenham klare Existenz-Motivation (Klassenerhalt = Existenz, Verbleib in PL) > Chelsea-Europa-Trostpreis. Spurs unbeaten in letzten 4 (Richarlison Form-Lauf), Chelsea sieglos 7 + FA-Cup-Final-Pleite mentaler Knacks. Edge eher kleiner als Heim-Quote 2.20 suggeriert — kein klares Edge-Signal, ehrlich coinflip-nah",
-        "recovery_heim": "Chelsea: 3 Tage Pause nach 0-1 FA-Cup-Finale-Pleite vs Man City am Wembley (16.05.) — Wembley-Belastung + mentaler Hangover real",
-        "recovery_gast": "Tottenham: ~3 Tage Pause nach Klassenerhalt-Sieg gegen Wolves 1-0 (Richarlison-Assist) — Adrenalin durch Survival-Modus",
+        "parallel_heim": "keine - Conference League nicht in dieser Saison, FA-Cup ausgeschieden, keine UEFA-Spiele diese Woche",
+        "parallel_gast": "keine - Europa-League-Halbfinale-Aus April 2026, keine UEFA-Spiele diese Woche",
+        "saisonziel_heim": "Platz 10 (49 Pkt, 13W-10U-13N) - 3 Pkt hinter Brentford fuer letzten Europa-/Conference-Platz; CL-Quali nur theoretisch (Aussenseiter-Chance); 7 PL-Spiele ohne Sieg seit Maerz",
+        "saisonziel_gast": "Platz 17 (38 Pkt, 9W-11U-16N) - bedroht durch Abstieg, benoetigt nur 1 Punkt aus 2 Spielen zur Rettung; 4 Spiele ungeschlagen laut SI",
+        "motivations_asymmetrie": "Spurs Existenz-Druck-Maximum (1 Pkt fuer Klassenerhalt) + 4 Spiele ungeschlagen vs Chelsea-Form-Krise (7 PL-Spiele ohne Sieg seit Maerz, 1S-2U-7N) + Verletzungs-Crash (Lavia/Gittens/Estevao/Derry out). Asian-Handicap-Markt Spurs +0.5 @1.83 als Markt-Konsens-Signal: Markt findet Chelsea-Sieg trotz Heim-Vorteil fragwuerdig. HR2 aktiv: Chelsea Form-Krise verbietet Chelsea-Sieg/-DC als SAFE/VALUE.",
+        "recovery_heim": "8 Tage seit letztem PL-Spiel (11.05.) - frisch, kein Belastungs-Nachteil",
+        "recovery_gast": "8 Tage seit Leeds-1:1 (10.05.) - frisch, 4 Spiele ungeschlagen Momentum",
         "quellen": [
           "https://www.sportsgambler.com/betting-tips/football/chelsea-vs-tottenham-prediction-lineups-odds-2026-05-19/",
-          "https://chelseafconline.com/2026/05/what-has-happened-to-cole-palmer/",
-          "https://www.espn.com/soccer/story/_/id/48122272/are-tottenham-getting-relegated-premier-league-stats-charts-say",
-          "https://www.spurs-web.com/spurs-news/im-scoring-my-goals-richarlison-reveals-huge-expectation-after-recent-tottenham-form/"
+          "https://www.si.com/soccer/chelsea-vs-tottenham-preview-predictions-and-lineups-5-19-26",
+          "https://www.premierleague.com/en/clubs/7/chelsea/matches",
+          "https://www.covers.com/soccer/chelsea-vs-tottenham-predictions-picks-odds-premier-league-tuesday-may-19-2026"
         ]
       },
       "news": [
-        "Chelsea sieglos in 7 Premier-League-Spielen — Form-Tief mitten in Saison-Endspurt",
-        "Cole Palmer chronische Leisten-Probleme (Pubalgie), nur 9 PL-Tore in dieser Saison, letzte Woche Elfmeter gegen Forest verschossen",
-        "Tottenham unbeaten in letzten 4 Spielen — Auswärts-Form zuletzt deutlich verbessert",
-        "Richarlison mit Game-Saving-Tor vs Liverpool + Assist beim 1-0 gegen Wolves, Top-Scorer Spurs",
-        "Spurs brauchen nur 1 Punkt für sicheren Klassenerhalt — Asian-Handicap +0.5 als Marktfavorit erwähnt",
-        "Erwartete Lineups: Chelsea mit Palmer-Gamble (Fitness offen, evtl. nur Cameo)"
+        "Chelsea-Form-Krise: 7 PL-Spiele ohne Sieg seit Maerz (1S-2U-7N), CL-Quali nur theoretisch Aussenseiter-Chance laut SI",
+        "Tottenham Existenz-Druck: Platz 17 (38 Pkt) - braucht nur 1 Punkt aus 2 Spielen zur Rettung, 4 Spiele ungeschlagen Momentum",
+        "H2H Chelsea: 5 Siege in Serie gegen Spurs, 8S-1U-1N in letzten 10 Duellen - Klassen-Edge aber durch aktuelle Form-Krise relativiert",
+        "Chelsea-Verletzungen massiv: Lavia (Oberschenkel), Gittens (Oberschenkel), Estevao Willian (OUT bis 01.06.), Derry (Kopf) - Mittelfeld+Offensive dezimiert",
+        "Tottenham-Verletzungen noch schlimmer: Solanke, Kudus, Romero, Xavi Simons (Saison-Aus Kreuzbandriss), Kulusevski, Odobert, Davies alle OUT - Richarlison als Notloesung-Mittelstuermer",
+        "Asian-Handicap-Konsens: Spurs +0.5 @ -120 (~1.83) populaer laut Last Word - Markt signalisiert dass Chelsea-Sieg trotz Heim-Vorteil fragwuerdig ist",
+        "Motivations-Asymmetrie: Chelsea Europa-Platz-Hoffnung (3 Pkt hinter Brentford), Spurs nur 1 Punkt Klassenerhalt - Spurs-Druck existenziell, Chelsea-Druck kosmetisch"
       ],
       "tipps": [
         {
-          "markt": "Beide Teams treffen — Ja",
-          "quote": 1.53,
-          "wahrscheinlichkeit_geschaetzt": 62,
-          "begruendung": "Dimers Modell 60.4% BTTS-Wahrscheinlichkeit (Edge ~4-5% bei Quote 1.53). Tottenham unbeaten 4 mit klarer Offensiv-Output (Richarlison-Form), Chelsea zuhause findet meist mind. 1 Tor. Spurs brauchen Punkt, attackieren bei Bedarf. Volumen-Markt. Kasse-Stufe 1: 5,50€ (1%).",
+          "id": "che-tot-1",
           "kategorie": "value",
-          "faire_quote": 1.53,
-          "empfohlener_einsatz_prozent": 1.0
+          "markt": "Doppelte Chance Tottenham (Sieg oder Remis)",
+          "prognose": "Spurs verlieren nicht - Sieg oder Remis",
+          "quote": 1.82,
+          "edge_prozent": 6,
+          "faire_quote": 1.72,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 8.25,
+          "begruendung": "Top-VALUE-Pick: Chelsea-Form-Krise 7 PL-Spiele ohne Sieg + Chelsea-Verletzungs-Crash (Lavia/Gittens/Estevao/Derry) + Spurs-Existenz-Druck (1 Punkt fuer Klassenerhalt) + Spurs 4 Spiele ungeschlagen + Asian-Handicap-Markt-Konsens Spurs +0.5 @ 1.83. HR2 aktiv (Chelsea-Form-Krise -> kein Chelsea-Sieg/DC SAFE/VALUE). DC X2 = strukturelle Spiegelung des Asian-Handicap-Signals. Quote 1.82 in VALUE-Range (1.65-2.30). Reality-Check Sieg-Outcome-Aggregat positiv. Kasse 8,25 EUR (1.5% Stufe 1)."
         },
         {
-          "markt": "Über 2.5 Tore",
-          "quote": 1.61,
-          "wahrscheinlichkeit_geschaetzt": 58,
-          "begruendung": "BTTS-Logik plus High-Stakes-Setting (Spurs offensiv für Punkte, Chelsea zuhause Europa-Druck). Markt-Leader laut Modellen. Über 2.5 etwas wackelig wegen Chelsea-Form-Tief, aber zwei offen agierende Teams. Markt-Diversifikation zu BTTS. Kasse-Stufe 1: 5,50€ (1%).",
+          "id": "che-tot-2",
           "kategorie": "value",
-          "faire_quote": 1.61,
-          "empfohlener_einsatz_prozent": 1.0
+          "markt": "Ueber 2.5 Tore (Chelsea - Tottenham)",
+          "prognose": "Mindestens 3 Tore im Spiel",
+          "quote": 1.7,
+          "edge_prozent": 5,
+          "faire_quote": 1.62,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 5.5,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (46.2% Hit / +40.6% ROI bei n=15). Beidseitige Tor-Druck-Motivation: Chelsea Europa-Druck, Spurs Klassenerhalt-Antrieb. Beide Defense-Krisen (Chelsea ohne Lavia, Spurs ohne Romero) erhoehen Tor-Wahrscheinlichkeit. Quote 1.70 = knapp VALUE-Range. Kasse 5,50 EUR (1.0% Stufe 1)."
         },
         {
-          "markt": "Richarlison Torschütze jederzeit",
-          "quote": 2.2,
-          "wahrscheinlichkeit_geschaetzt": 45,
-          "begruendung": "Spurs Top-Scorer in Survival-Modus, Spitzen-Form (Tor vs Liverpool, Assist vs Wolves). Goldgrube-Markt Torschützen Jederzeit (+24.4% ROI / 50% Hitrate System-Stat). Einwechslungs-Boost: falls ausgewechselt, zählen Tore von Son/Solanke trotzdem. WACKEL statt VALUE weil Chelsea-Defense zuhause nicht trivial schlechter ist. Kasse-Stufe 1: 2,75€ (0,5%).",
+          "id": "che-tot-3",
           "kategorie": "wackel",
-          "faire_quote": 2.2,
-          "empfohlener_einsatz_prozent": 0.5
+          "markt": "Cole Palmer Torschuetze jederzeit",
+          "prognose": "Palmer erzielt mindestens 1 Tor",
+          "quote": 2.3,
+          "edge_prozent": 5,
+          "faire_quote": 2.19,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 2.75,
+          "begruendung": "WACKEL: Palmer = Chelseas Schluesselspieler offensiv, gegen dezimierte Tottenham-Defense (Romero out, Davies out, Notformation). HR24 1/3 erfuellt (Position-Volume-OM). Wackel statt Value: Palmer als OM/AOM hat Torschuetzen-Position-Risk + Chelsea-Form-Krise drueckt Offensiv-Output. Quote 2.30 = Start WACKEL-Range. Kasse 2,75 EUR (0.5% Stufe 1)."
+        },
+        {
+          "id": "che-tot-4",
+          "kategorie": "wackel",
+          "markt": "Richarlison Torschuetze jederzeit",
+          "prognose": "Richarlison erzielt mindestens 1 Tor",
+          "quote": 3.1,
+          "edge_prozent": 7,
+          "faire_quote": 2.9,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 2.75,
+          "begruendung": "WACKEL: Richarlison als einziger fitter Spurs-Mittelstuermer (Solanke/Kudus out) = Notloesung mit Volume-Edge. Spurs muss Punkten (Existenz-Druck) + beidseitige Defense-Schwaeche. HR24 2/3 erfuellt (Position-9er + Gegner-Defense-Krise Chelsea ohne Lavia). Backup-Stuermer-Boost (Tel/Kolo Muani Subs zaehlen). Quote 3.10 in WACKEL-Range. Kasse 2,75 EUR (0.5% Stufe 1)."
         }
       ],
       "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-19-nyk-cle",
-      "liga": "NBA Playoffs Conference Finals Game 1",
+      "liga": "NBA Eastern Conference Finals",
       "heim": "New York Knicks",
       "gast": "Cleveland Cavaliers",
       "anstoss": "2026-05-20T02:00:00+02:00",
       "stadion": "Madison Square Garden, New York",
       "saison_kontext": {
-        "parallel_heim": "keine — NBA Playoffs ist einziger Wettbewerb",
-        "parallel_gast": "keine — NBA Playoffs ist einziger Wettbewerb",
-        "saisonziel_heim": "Knicks, Eastern-Conference-Finals Game 1 zuhause, jagen NBA-Finals nach Conf-Semis-Sieg",
-        "saisonziel_gast": "Cavaliers, Eastern-Conference-Finals Game 1 auswärts nach Conf-Semis-Sieg, wollen Best-of-7 stehlen mit Game-1-Sieg in NY",
-        "motivations_asymmetrie": "Knicks Heimvorteil + Rest-Edge (9 Tage Pause seit letztem Spiel 10.05., Brunson/Towns voll auserholt). Cavs gerade aus Semis raus mit weniger Recovery. Aber Cavs spielfertig durch Spielrhythmus, Knicks-Rost-Risiko",
-        "recovery_heim": "Knicks: 9 Tage Pause seit letztem Spiel (10.05.) — Top-Recovery, aber Rost-Risiko in Game 1",
-        "recovery_gast": "Cavs: deutlich weniger Pause, recent Conf-Semis Game ~3-4 Tage zurück, im Spielrhythmus, OG Anunoby fragwürdig (Knicks-Side day-to-day Hamstring), Larry Nance Jr. krank (Cavs)",
+        "parallel_heim": "keine - reine NBA-Playoffs (ECF Game 1 von 7), keine andere Liga-Belastung",
+        "parallel_gast": "keine - reine NBA-Playoffs",
+        "saisonziel_heim": "Knicks-NBA-Finals erreichen + Titel; erste ECF seit 2000 - historischer Lauf, 7 Siege in Folge inkl. Philly-Sweep (4-0) mit 185 Pkt Differenz",
+        "saisonziel_gast": "Cavs NBA-Finals nach 64-Sieg-Saison letztes Jahr und 53-29-Regular-Season; Titel-Hoffnung",
+        "motivations_asymmetrie": "Knicks 9 Tage frisch + Sweep-Momentum vs Cavs 2-3 Tage muede nach Game-7-Krimi (Pistons) und 7-Spiele-Serie vorher (Raptors) + nur 1-5 Road-Bilanz in Playoffs. Strukturelle Frische- + Heimvorteil-Edge klar Knicks. Anunoby probable (Grade-1-Hamstring, Shams: spielt), keine Knicks-Schwaechung.",
+        "recovery_heim": "9 Tage seit Semis-Abschluss vs Philly (Sweep beendet ca. 10.05.) - optimal ausgeruht",
+        "recovery_gast": "2-3 Tage seit Game 7 vs Pistons (17.05.) - muede nach 7-Spiele-Serie",
         "quellen": [
-          "https://www.espn.com/nba/preview/_/gameId/401873341",
-          "https://www.fearthesword.com/cavs-injury-report/49720/cavs-at-knicks-game-1-how-to-watch-odds-and-injury-report",
-          "https://www.totalprosports.com/nba/new-york-knicks/cavaliers-vs-knicks-2026-nba-ecf-prediction-odds-injury-update-may-19/"
+          "https://www.cbssports.com/nba/news/knicks-cavaliers-prediction-game-1-odds-pick-tv-channel/",
+          "https://www.oddsshark.com/nba/cavaliers-knicks-picks-odds-game-1-may-19-2026",
+          "https://www.yardbarker.com/nba/articles/cavaliers_vs_knicks_game_1_2026_nba_ecf_prediction_odds_and_injury_update_may_19/s1_17759_43856520",
+          "https://heavy.com/sports/nba/new-york-knicks/official-og-anunoby-injury-update-game-1/",
+          "https://www.nba.com/playoffs/2026"
         ]
       },
       "news": [
-        "Knicks 7.5-Punkte-Favorit zuhause am Madison Square Garden, ML -265",
-        "Total 217.5/216 Punkte — neutrale Linie, beide Teams haben Top-Offensive",
-        "OG Anunoby (Knicks) day-to-day mit Hamstring-Issue — Rotation-Risiko",
-        "Larry Nance Jr. (Cavs) krankheitsbedingt out",
-        "Jalen Brunson + Karl-Anthony Towns 9 Tage Pause = Rest-Edge für Knicks",
-        "Donovan Mitchell + Jarrett Allen (Cavs) zuletzt 26 + 23 Punkte in Conf-Semis = Spielrhythmus"
+        "Knicks ECF erstmals seit 2000 + 7 Siege in Folge inkl. Philly-Sweep (185 Pkt Diff), 9 Tage Pause = optimal ausgeruht",
+        "Cavs muede: zwei 7-Spiele-Serien in Folge (Raptors, Pistons) + nur 1-5 Road-Bilanz in Playoffs gesamt = strukturelles Nachteil",
+        "Anunoby PROBABLE nach Hamstring-Grade-1 - Shams Charania: wird spielen; in Playoffs 21+ Pkt-Schnitt",
+        "Mitchell brennt: 26 Pkt in Game 7 vs Pistons, 2+ Dreier in 12/14 Playoff-Spielen - Top-Scorer Cavs",
+        "Spread Knicks -6.5 (1.87) als Markt-Konsens FanDuel/DraftKings, Total 217.5 (1.91/1.91), SportsLine-Modell sagt 'Knicks -6.5' + Over",
+        "Larry Nance Jr. QUESTIONABLE (Krankheit) - Cavs-Bank potenziell duenner",
+        "Historisch: Teams mit Heim-G1 + frischer-vs-muede Vorteil seit 2004 22-6 SU / 20-8 ATS (laut Oddsshark)",
+        "DE-Markt-Verbote aktiv: Einzel-Rebounds/Assists/Steals/Blocks/PRA-Kombos/Pkt+Ast/Pkt+Reb/Einzel-3er duerfen NICHT empfohlen werden"
       ],
       "tipps": [
         {
-          "markt": "Knicks Handicap -7.5",
-          "quote": 1.91,
-          "wahrscheinlichkeit_geschaetzt": 52,
-          "begruendung": "NBA-Playoffs-Verbot SAFE (CLAUDE.md Mapper-Hebel B) → max WACKEL. Knicks-Heimvorteil + 9 Tage Rest, Cavs weniger Pause. Aber Game 1 ECF + Rost-Risiko bei Knicks (lang nicht gespielt) + Anunoby fragwürdig. Quote 1.91 fair für 50/50-Spread. Kasse-Stufe 1: 2,75€ (0,5%).",
-          "kategorie": "wackel",
-          "faire_quote": 1.91,
-          "empfohlener_einsatz_prozent": 0.5
+          "id": "nyk-cle-1",
+          "kategorie": "safe",
+          "markt": "Sieg New York Knicks (Moneyline)",
+          "prognose": "Knicks gewinnen Spiel regular",
+          "quote": 1.38,
+          "edge_prozent": 6,
+          "faire_quote": 1.3,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_euro": 11.0,
+          "begruendung": "Klare Recovery-Edge SAFE: 9 Tage Pause vs 2 Tage Muede + Heimvorteil MSG + Cavs 1-5 Road-Bilanz Playoffs + Anunoby probable (Defense intakt). G1 ECF nicht Decider-Filter (G5-G7 max WACKEL) - G1-G4 frei. Historisch frischer-Heim-Team vs muede 22-6 SU. Quote 1.38 = SAFE-Range untere Haelfte. NBA-SAFE-selten-Caveat: hier durch Recovery-Asymmetrie + Heim-Sweep-Momentum + intakte Lineups legitim. Kasse 11 EUR (2.0% Stufe 1)."
         },
         {
-          "markt": "Über 217.5 Punkte",
-          "quote": 1.91,
-          "wahrscheinlichkeit_geschaetzt": 53,
-          "begruendung": "ECF Game 1 mit zwei Top-Offenses (Knicks + Cavs beide Top-Scoring-Teams Saison). Cavs in Spielrhythmus, Knicks zuhause. Beobachtungs-Liga-Vorsicht: NBA-Playoffs grundsätzlich verlustreich (-45.6% ROI System) → WACKEL-Cap. Kasse-Stufe 1: 2,75€ (0,5%).",
-          "kategorie": "wackel",
-          "faire_quote": 1.91,
-          "empfohlener_einsatz_prozent": 0.5
+          "id": "nyk-cle-2",
+          "kategorie": "value",
+          "markt": "New York Knicks Spread -6.5",
+          "prognose": "Knicks gewinnen mit mind. 7 Pkt Differenz",
+          "quote": 1.87,
+          "edge_prozent": 5,
+          "faire_quote": 1.78,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 8.25,
+          "begruendung": "SportsLine-Modell explizit 'Knicks -6.5'. Spread-Aggregat-Goldgrube (+20.5% ROI / 70% Hit historisch). HR19-Vorsicht (G1+G2 oft knappe Margen): -6.5 ist grenzwertig aber Recovery-Asymmetrie (9 vs 2 Tage) rechtfertigt Modell-Margen-Vorhersage. VALUE statt SAFE wegen HR19-Caveat. Kasse 8,25 EUR (1.5% Stufe 1)."
         },
         {
-          "markt": "Cleveland Cavaliers Sieg (Moneyline)",
-          "quote": 3.5,
-          "wahrscheinlichkeit_geschaetzt": 32,
-          "begruendung": "Underdog-Moonshot: Cavs im Spielrhythmus + Knicks-Rost-Risiko nach 9 Tagen Pause + Anunoby fragwürdig + Cavs Star-Duo Mitchell/Allen in Form (26+23 Pts zuletzt). Quote 3.50 erfüllt Moonshot-Range. NBA-Playoffs-Boykott für SAFE/VALUE → Moonshot legitim. Kasse-Stufe 1: 0,55€ (0,1%).",
-          "kategorie": "moonshot",
-          "faire_quote": 3.5,
-          "empfohlener_einsatz_prozent": 0.5
+          "id": "nyk-cle-3",
+          "kategorie": "value",
+          "markt": "Ueber 217.5 Punkte Gesamt (Knicks - Cavaliers)",
+          "prognose": "Mindestens 218 Punkte im Spiel",
+          "quote": 1.91,
+          "edge_prozent": 4,
+          "faire_quote": 1.84,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 5.5,
+          "begruendung": "SportsLine-Modell-Over-Empfehlung. Beide Teams hochwertig offensiv (Knicks Brunson + KAT + Bridges; Cavs Mitchell + Mobley + Allen). G1-ECF historisch Tempo-hochlauf wegen Erst-Bekanntschaft. Quote 1.91 knapp VALUE-Range. Kasse 5,50 EUR (1.0% Stufe 1)."
         }
       ],
       "kontext_check_status": "OK"
@@ -198,191 +246,308 @@
   ],
   "einzeltipps": [
     {
-      "spiel_id": "2026-05-19-bou-mac",
-      "markt": "Sieg Man City",
-      "quote": 1.7,
-      "einsatz_empfehlung_euro": 5.5,
-      "begruendung": "Auswärts-Favorit-Pflichttipp Markt-Mix. Man City 4/5 Form, letzte 3 H2H gewonnen, Titel-Druck. Dimers 56.1% vs faire 1.78 = ~5% Edge. Premier League = Liga-Goldgrube. Kasse 550€ × 1% = 5,50€.",
-      "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.5,
+      "id": "et-1",
+      "spiel_id": "2026-05-19-nyk-cle",
+      "kategorie": "safe",
+      "markt": "Sieg New York Knicks ML (Knicks - Cavaliers)",
+      "quote": 1.38,
+      "einsatz_euro": 11.0,
+      "begruendung": "SAFE NBA-G1-ECF: Recovery 9 vs 2 Tage + Heimvorteil + Anunoby probable + Cavs 1-5 Road. Quote SAFE-Range. Kasse 11 EUR (2.0%).",
+      "empfohlener_einsatz_prozent": 2.0,
       "rang": 1
     },
     {
-      "spiel_id": "2026-05-19-bou-mac",
-      "markt": "Erling Haaland Torschütze jederzeit",
-      "quote": 1.65,
-      "einsatz_empfehlung_euro": 5.5,
-      "begruendung": "Form-Edge-Pflicht bei Auswärts-Favorit. Haaland 26 PL-Tore Saison, Form 2026 wieder oben. Torschützen-Jederzeit-Markt ist System-Goldgrube +24.4% ROI / 50% Hitrate. Einwechslungs-Boost: Ersatz-Stürmer-Tore zählen. Kasse 1%.",
-      "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0,
+      "id": "et-2",
+      "spiel_id": "2026-05-19-bou-mci",
+      "kategorie": "safe",
+      "markt": "Sieg Manchester City (Bournemouth - City)",
+      "quote": 1.6,
+      "einsatz_euro": 11.0,
+      "begruendung": "SAFE PL-Klassen-Edge: H2H 94.1% + voller Pep-Kader + Titel-Druck + Auswaerts-Form 7S-3U. Quote SAFE-Range. Kasse 11 EUR (2.0%).",
+      "empfohlener_einsatz_prozent": 2.0,
       "rang": 2
     },
     {
-      "spiel_id": "2026-05-19-bou-mac",
-      "markt": "Über 2.5 Tore",
-      "quote": 1.6,
-      "einsatz_empfehlung_euro": 5.5,
-      "begruendung": "Dimers 65% Über-Quote (faire 1.54, Edge ~4%). 4/5 letzte City-Spiele Über 2.5, 5/6 letzte Bournemouth-Spiele Über 2.5. Beide Teams brauchen Tore (City Titel, Bournemouth CL-Spot). Kasse 1%.",
-      "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0,
+      "id": "et-3",
+      "spiel_id": "2026-05-19-bou-mci",
+      "kategorie": "safe",
+      "markt": "Ueber 2.5 Tore (Bournemouth - City)",
+      "quote": 1.45,
+      "einsatz_euro": 8.25,
+      "begruendung": "SAFE Markt-Goldgrube (+40.6% ROI). City-Offensiv-Form 12-4 Tore in 5 Spielen + Haaland 26 Saisontore + Bournemouth-Heim 4S-6U-Remis-Anfaellig. Kasse 8,25 EUR (1.5%).",
+      "empfohlener_einsatz_prozent": 1.5,
       "rang": 3
     },
     {
+      "id": "et-4",
       "spiel_id": "2026-05-19-che-tot",
-      "markt": "Beide Teams treffen — Ja",
-      "quote": 1.53,
-      "einsatz_empfehlung_euro": 5.5,
-      "begruendung": "Dimers 60.4% BTTS (Edge ~4-5%). Spurs unbeaten 4 mit Richarlison-Output, Chelsea zuhause meist 1+ Tor. Kein Edge-Signal für 1X2 → BTTS als Volumen-Tipp. Kasse 1%.",
       "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0,
+      "markt": "Doppelte Chance Tottenham X2 (Chelsea - Tottenham)",
+      "quote": 1.82,
+      "einsatz_euro": 8.25,
+      "begruendung": "VALUE Top-Pick: Chelsea-Form-Krise (7 ohne Sieg) + Verletzungs-Crash + Spurs-Existenz-Druck + Asian-Handicap-Markt-Konsens Spurs +0.5 @1.83. HR2 aktiv. Kasse 8,25 EUR (1.5%).",
+      "empfohlener_einsatz_prozent": 1.5,
       "rang": 4
     },
     {
-      "spiel_id": "2026-05-19-che-tot",
-      "markt": "Über 2.5 Tore",
-      "quote": 1.61,
-      "einsatz_empfehlung_euro": 5.5,
-      "begruendung": "Markt-Leader laut Modellen. High-Stakes-Setting (Spurs brauchen Punkt, Chelsea Europa-Druck). Markt-Diversifikation zu BTTS. Kasse 1%.",
+      "id": "et-5",
+      "spiel_id": "2026-05-19-nyk-cle",
       "kategorie": "value",
-      "empfohlener_einsatz_prozent": 1.0,
+      "markt": "New York Knicks Spread -6.5 (Knicks - Cavaliers)",
+      "quote": 1.87,
+      "einsatz_euro": 8.25,
+      "begruendung": "VALUE NBA-Spread-Goldgrube (+20.5% ROI / 70% Hit). SportsLine-Modell 'Knicks -6.5'. HR19-Caveat reduziert auf VALUE. Kasse 8,25 EUR (1.5%).",
+      "empfohlener_einsatz_prozent": 1.5,
       "rang": 5
     },
     {
-      "spiel_id": "2026-05-19-che-tot",
-      "markt": "Richarlison Torschütze jederzeit",
-      "quote": 2.2,
-      "einsatz_empfehlung_euro": 2.75,
-      "begruendung": "Spurs Top-Scorer in Form-Lauf, Goldgrube-Markt Torschützen Jederzeit +24.4% ROI. Einwechslungs-Boost gilt. WACKEL weil Chelsea-Defense zuhause nicht trivial. Kasse 0,5%.",
-      "kategorie": "wackel",
-      "empfohlener_einsatz_prozent": 0.5,
+      "id": "et-6",
+      "spiel_id": "2026-05-19-bou-mci",
+      "kategorie": "value",
+      "markt": "Erling Haaland Torschuetze jederzeit (Bournemouth - City)",
+      "quote": 1.55,
+      "einsatz_euro": 5.5,
+      "begruendung": "VALUE HR24 erfuellt: 26 PL-Tore + Bournemouth-Defense-Krise (Christie/Jimenez/Traore/Akinmboni out). Einwechslungs-Boost via Cherki/Foden/Bernardo Silva. Kasse 5,50 EUR (1.0%).",
+      "empfohlener_einsatz_prozent": 1.0,
       "rang": 6
+    },
+    {
+      "id": "et-7",
+      "spiel_id": "2026-05-19-che-tot",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore (Chelsea - Tottenham)",
+      "quote": 1.7,
+      "einsatz_euro": 5.5,
+      "begruendung": "VALUE Markt-Goldgrube + beidseitiger Tor-Druck (Chelsea Europa-Hoffnung, Spurs Klassenerhalt) + beidseitige Defense-Krise. Kasse 5,50 EUR (1.0%).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 7
+    },
+    {
+      "id": "et-8",
+      "spiel_id": "2026-05-19-nyk-cle",
+      "kategorie": "value",
+      "markt": "Ueber 217.5 Punkte (Knicks - Cavaliers)",
+      "quote": 1.91,
+      "einsatz_euro": 5.5,
+      "begruendung": "VALUE SportsLine-Modell-Over + offensiv-hochwertige Lineups beidseits + G1-ECF-Tempo. Kasse 5,50 EUR (1.0%).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 8
+    },
+    {
+      "id": "et-9",
+      "spiel_id": "2026-05-19-che-tot",
+      "kategorie": "wackel",
+      "markt": "Cole Palmer Torschuetze jederzeit (Chelsea - Tottenham)",
+      "quote": 2.3,
+      "einsatz_euro": 2.75,
+      "begruendung": "WACKEL: Chelsea-Schluesselspieler vs Tottenham-Notformation. HR24 1/3 (OM-Position-Risk). Kasse 2,75 EUR (0.5%).",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 9
+    },
+    {
+      "id": "et-10",
+      "spiel_id": "2026-05-19-che-tot",
+      "kategorie": "wackel",
+      "markt": "Richarlison Torschuetze jederzeit (Chelsea - Tottenham)",
+      "quote": 3.1,
+      "einsatz_euro": 2.75,
+      "begruendung": "WACKEL: Notloesung-Mittelstuermer Spurs + Existenz-Druck-Motivation + Chelsea-Defense-Krise. HR24 2/3. Backup-Boost via Tel/Kolo Muani. Kasse 2,75 EUR (0.5%).",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 10
+    },
+    {
+      "id": "et-11",
+      "spiel_id": "2026-05-19-bou-mci",
+      "kategorie": "wackel",
+      "markt": "Eli Junior Kroupi Torschuetze jederzeit (Bournemouth - City)",
+      "quote": 3.25,
+      "einsatz_euro": 2.75,
+      "begruendung": "WACKEL: Bournemouth-Top-Stuermer 12 Saisontore + Heim-Festung. City-Klasse hoch, aber Underdog-Volume rechtfertigt Risiko. HR24 1/3. Kasse 2,75 EUR (0.5%).",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 11
     }
   ],
   "kombis": [
     {
-      "name": "Kombi Safe — Doppel-Markt-Sicher (~2.4x)",
-      "einsatz_empfehlung_euro": 11.0,
+      "id": "kombi-safe",
+      "name": "Safe ~4.0x (Sieg-Trio drei Spiele)",
+      "kategorie": "safe",
       "beine": [
         {
-          "spiel_id": "2026-05-19-bou-mac",
-          "markt": "Über 2.5 Tore",
+          "spiel_id": "2026-05-19-bou-mci",
+          "markt": "Sieg Manchester City",
           "quote": 1.6
         },
         {
           "spiel_id": "2026-05-19-che-tot",
-          "markt": "Beide Teams treffen — Ja",
-          "quote": 1.53
-        }
-      ],
-      "begruendung": "Zwei unkorrelierte Tor-Märkte aus beiden PL-Spielen. Über 2.5 Bo-City basiert auf 4/5 City-Form und 5/6 Bournemouth-Form. BTTS Che-Tot basiert auf 60.4%-Modell. Layer-1: 2 verschiedene Spiele ✓. Layer-2: keine Sieg-Outcomes ✓. Kasse-Stufe 1 Kombi-Safe: 2% von 550€ = 11€.",
-      "kategorie": "safe",
-      "gesamtquote": 2.45,
-      "empfohlener_einsatz_prozent": 1.5
-    },
-    {
-      "name": "Kombi Balance — Goldgrube-Doppel-Torschütze (~3.6x)",
-      "einsatz_empfehlung_euro": 4.4,
-      "beine": [
-        {
-          "spiel_id": "2026-05-19-bou-mac",
-          "markt": "Erling Haaland Torschütze jederzeit",
-          "quote": 1.65
+          "markt": "Doppelte Chance Tottenham X2",
+          "quote": 1.82
         },
         {
-          "spiel_id": "2026-05-19-che-tot",
-          "markt": "Richarlison Torschütze jederzeit",
-          "quote": 2.2
+          "spiel_id": "2026-05-19-nyk-cle",
+          "markt": "Sieg Knicks ML",
+          "quote": 1.38
         }
       ],
-      "begruendung": "Zwei Top-Stürmer im Goldgrube-Markt (System +24.4% ROI / 50% Hitrate Torschützen Jederzeit). Haaland 26-Tore-Form, Richarlison Survival-Modus. Layer-1: verschiedene Spiele ✓. Layer-2: keine Sieg-Outcomes ✓. Niedriger als Standard-Balance (6-10x), aber bei nur 2 PL-Spielen und Layer-1-Regel das maximale realistische Profil ohne NBA-Beobachtungs-Liga. Kasse-Stufe 1 Balance: 0,8% = 4,40€.",
+      "gesamtquote": 4.02,
+      "rechnung": "1.60 x 1.82 x 1.38 = 4.02",
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 11.0,
+      "potentieller_gewinn_euro": 44.22,
+      "begruendung": "Safe-Kombi mit Sieg-Outcome aus jedem Spiel: City Klassen-Edge (H2H 94.1%) + Spurs DC X2 (Chelsea-Form-Krise + Spurs-Existenz-Druck + Asian-Handicap-Konsens) + Knicks ML (Recovery 9 vs 2 Tage). Layer-1: 3 verschiedene Spiele ✓. Layer-2: jedes Sieg-Outcome nur in dieser Kombi ✓. Kasse-Stufe 1 Safe: 2.0% von 550 = 11 EUR. Potentieller Gewinn 33,22 EUR netto."
+    },
+    {
+      "id": "kombi-balance",
+      "name": "Balance ~6.4x (Tor-Markt + Spielertor + NBA-Total)",
       "kategorie": "balance",
-      "gesamtquote": 3.63,
-      "empfohlener_einsatz_prozent": 0.5
-    },
-    {
-      "name": "Kombi Risiko — Sieg + Tore + NBA-Underdog (~9.5x)",
-      "einsatz_empfehlung_euro": 1.4,
       "beine": [
         {
-          "spiel_id": "2026-05-19-bou-mac",
-          "markt": "Sieg Man City",
-          "quote": 1.7
+          "spiel_id": "2026-05-19-bou-mci",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.45
         },
         {
           "spiel_id": "2026-05-19-che-tot",
-          "markt": "Über 2.5 Tore",
-          "quote": 1.61
+          "markt": "Cole Palmer Torschuetze jederzeit",
+          "quote": 2.3
         },
         {
           "spiel_id": "2026-05-19-nyk-cle",
-          "markt": "Cleveland Cavaliers Sieg (Moneyline)",
-          "quote": 3.5
-        }
-      ],
-      "begruendung": "Hauptanker Man City Sieg (Pflicht-Tipp Markt-Mix). Über 2.5 CheTot als Volumen. NBA Cavs-Sieg als Underdog-Booster (Rest-Edge Knicks vs Spielrhythmus Cavs). Layer-1: 3 verschiedene Spiele ✓. Layer-2: BoMC 1X2 + NBA 1X2 jeweils nur in dieser Kombi ✓. Quote unter Standard-Risiko-Range (15-30x) weil Auswahl heute nur 3 Spiele zulässt. Kasse-Stufe 1 Risiko: 0,25% = 1,40€.",
-      "kategorie": "risk",
-      "gesamtquote": 9.58,
-      "empfohlener_einsatz_prozent": 0.25
-    },
-    {
-      "name": "Kombi Moonshot — Underdog-Drilling Spurs+Bournemouth+Haaland-Doppelpack (~24.07x)",
-      "einsatz_empfehlung_euro": 0.55,
-      "beine": [
-        {
-          "spiel_id": "2026-05-19-che-tot",
-          "markt": "Tottenham Sieg",
-          "quote": 3.6
-        },
-        {
-          "spiel_id": "2026-05-19-bou-mac",
-          "markt": "Erling Haaland Doppelpack (2+ Tore)",
-          "quote": 3.5
-        },
-        {
-          "spiel_id": "2026-05-19-nyk-cle",
-          "markt": "Über 217.5 Punkte",
+          "markt": "Ueber 217.5 Punkte",
           "quote": 1.91
         }
       ],
-      "begruendung": "Moonshot mit Spurs-Survival-Sieg-Story (Klassenerhalt-Adrenalin vs Chelsea-FA-Cup-Hangover), Haaland-Doppelpack als Goldgrube-Stretch (26-Tore-Form, Einwechslungs-Boost), NBA-Total als Stabilisator. Layer-1: 3 verschiedene Spiele ✓. Layer-2: CheTot 1X2 (Tot Sieg) nur in dieser Kombi ✓. Unter Standard-Moonshot-Range 30-300x weil Layer-Regeln bei 3 Spielen limitieren. Kasse-Stufe 1 Moonshot: 0,1% = 0,55€.",
+      "gesamtquote": 6.37,
+      "rechnung": "1.45 x 2.30 x 1.91 = 6.37",
+      "empfohlener_einsatz_prozent": 0.8,
+      "einsatz_euro": 4.4,
+      "potentieller_gewinn_euro": 28.03,
+      "begruendung": "Balance-Kombi mit Markt-Mix Tor-Total + Spielertor + NBA-Total: Ueber 2.5 (Markt-Goldgrube) + Palmer-Tor (Chelsea-Schluesselspieler) + Knicks-Cavs Over (SportsLine-Modell). Layer-1: 3 verschiedene Spiele ✓. Layer-2: keine Sieg-Outcomes (Tor-/Spielertor-/Total-Markte) ✓. Kasse-Stufe 1 Balance: 0.8% = 4,40 EUR."
+    },
+    {
+      "id": "kombi-risiko",
+      "name": "Risiko ~19.2x (Underdog-Spielertor + NBA-Player-Punkte)",
+      "kategorie": "risk",
+      "beine": [
+        {
+          "spiel_id": "2026-05-19-bou-mci",
+          "markt": "Eli Junior Kroupi Torschuetze jederzeit",
+          "quote": 3.25
+        },
+        {
+          "spiel_id": "2026-05-19-che-tot",
+          "markt": "Richarlison Torschuetze jederzeit",
+          "quote": 3.1
+        },
+        {
+          "spiel_id": "2026-05-19-nyk-cle",
+          "markt": "Jalen Brunson Ueber 33.5 Punkte",
+          "quote": 1.91
+        }
+      ],
+      "gesamtquote": 19.24,
+      "rechnung": "3.25 x 3.10 x 1.91 = 19.24",
+      "empfohlener_einsatz_prozent": 0.25,
+      "einsatz_euro": 1.4,
+      "potentieller_gewinn_euro": 26.94,
+      "begruendung": "Risiko-Kombi mit 2 Underdog-Spielertoren + 1 NBA-Player-Punkte (HR16-Ausnahme fuer Risiko-Kombi erlaubt): Kroupi (12 Bournemouth-Saisontore) + Richarlison (Spurs-Notloesung + Existenz-Druck-Motivation) + Brunson (21+ Pkt Schnitt Playoffs, 9 Tage frisch, Heim). Layer-1: 3 verschiedene Spiele ✓. Layer-2: keine Sieg-Outcomes ✓. Layer-3: Spielertor in Spiel 1 + Spielertor in Spiel 2 + Player-Punkte in Spiel 3 - markt-entkoppelt zu anderen Kombis. Kasse-Stufe 1 Risiko: 0.25% = 1,40 EUR."
+    },
+    {
+      "id": "kombi-moonshot",
+      "name": "Moonshot ~43.0x (Untertier-Spielertore + NBA-Player-Punkte) - keine 100x heute realistisch",
       "kategorie": "moonshot",
-      "gesamtquote": 24.07,
-      "empfohlener_einsatz_prozent": 0.1
+      "beine": [
+        {
+          "spiel_id": "2026-05-19-bou-mci",
+          "markt": "Bernardo Silva Torschuetze jederzeit",
+          "quote": 4.5
+        },
+        {
+          "spiel_id": "2026-05-19-che-tot",
+          "markt": "Conor Gallagher Torschuetze jederzeit",
+          "quote": 5.0
+        },
+        {
+          "spiel_id": "2026-05-19-nyk-cle",
+          "markt": "Donovan Mitchell Ueber 30.5 Punkte",
+          "quote": 1.91
+        }
+      ],
+      "gesamtquote": 42.98,
+      "rechnung": "4.50 x 5.00 x 1.91 = 42.98",
+      "empfohlener_einsatz_prozent": 0.1,
+      "einsatz_euro": 0.55,
+      "potentieller_gewinn_euro": 23.64,
+      "begruendung": "Moonshot-Kombi: Bernardo Silva (City-Mittelfeld-Tor) + Gallagher (Ex-Chelsea Tottenham-OM heute gegen Ex-Klub - emotionaler Bonus) + Mitchell (26 Pkt in Game 7 vs Pistons, 2+ Dreier in 12/14 Playoff-Spielen). Ehrliche Bewertung: keine echte 100x-Quote heute realistisch (Master-Prompt-Ziel) wegen Layer-2-Sieg-Outcome-Cap (Sieg in Safe-Kombi blockiert weitere Sieg-Outcomes pro Spiel) + nur 3 Spiele + Layer-1-max-1-Bein/Spiel. 43x ist konservativer als angestrebt aber ohne Halluzinationen. Layer-1 ✓ Layer-2 ✓ (keine Sieg-Outcomes). Kasse-Stufe 1 Moonshot: 0.1% = 0,55 EUR Spass-Einsatz."
     }
   ],
   "lessons_angewandt": [
-    {
-      "lesson_id": "torschuetzen-goldgrube-aktiv-suchen",
-      "text": "Torschützen-Jederzeit-Markt aktuelle System-Goldgrube +24.4% ROI / 50% Hitrate (Stand 03.05.). Aktiv gesucht: Haaland (Form-Edge 26 PL-Tore) + Richarlison (Survival-Form-Lauf)."
-    },
-    {
-      "lesson_id": "markt-mix-pflicht-auswaerts-favorit",
-      "text": "Markt-Mix-Pflicht erfüllt für Bournemouth-Man City (Auswärts-Favorit @ 1.70 < 2.20): Sieg-Tipp Man City + Torschützen-Tipp Haaland (Pflicht-Profil). Defensive Mehrfach-Tipps vermieden."
-    },
-    {
-      "lesson_id": "dc-cap-eingehalten",
-      "text": "DC-Cap eingehalten: 0 Doppelte-Chance-Tipps im gesamten Dossier (vermieden wegen Anti-DC-Sucht-Lehre 03.05., wo Mehrfach-DC ohne Torschützen verlor)."
-    },
-    {
-      "lesson_id": "nba-playoffs-no-safe",
-      "text": "NBA-Playoffs-Verbot SAFE: NBA-ECF-Game-1 nur als WACKEL und Moonshot bespielt. Keine Player-Punkte-Tipps in Einzeltipps (Boykott seit 26.04.)."
-    },
-    {
-      "lesson_id": "beobachtungs-liga-respekt",
-      "text": "Beobachtungs-Ligen respektiert: Serie A, 2.Bundesliga, NBA Round 1 G6 nicht in Einzeltipps. NBA-ECF nur in Risiko-/Moonshot-Kombis platziert, nicht in Safe-/Balance-Kombis."
-    },
-    {
-      "lesson_id": "saison-kontext-selbst-widerspruch-vermieden",
-      "text": "Selbst-Widerspruch vermieden: Chelsea-Tottenham klar als 'kein klares Edge-Signal/coinflip-nah' im Saison-Kontext gelabelt → KEIN SAFE-DC oder SAFE-1X2 in diesem Spiel, nur VALUE+WACKEL."
-    },
-    {
-      "lesson_id": "einwechslungs-boost-erinnert",
-      "text": "Einwechslungs-Boost-Regel bei Torschützen-Tipps aktiv vermerkt (Haaland-Backup-Tore + Richarlison-Backup-Tore zählen mit) — erhöht Hit-Rate über nominale Quote."
-    },
-    {
-      "lesson_id": "watchdog-recovery-mode",
-      "text": "Watchdog-Recovery: Hauptroutine 16:00 nicht abgeschlossen, 17:15 Recovery durch Watchdog. Dossier-Hinweis-Feld erwähnt Watchdog-Modus für Transparenz."
-    }
+    "HR2 (Anti-Heim-Bias bei Form-Krise) aktiv: Chelsea 7 PL-Spiele ohne Sieg seit Maerz -> KEIN Chelsea-Sieg/-DC SAFE/VALUE. Stattdessen Spurs DC X2 als VALUE-Pick (Existenz-Druck-Edge).",
+    "HR16 (NBA-Player-Punkte-Boykott) aktiv: Brunson/Mitchell-Punkte-Beine NUR in Risiko-/Moonshot-Kombi, KEINE Einzeltipps. Saison-Stat -7.8% ROI bei NBA-Player-Punkte.",
+    "HR19 (NBA-Spread-Margen-Risiko) aktiv: Knicks Spread -6.5 als VALUE statt SAFE wegen G1-knapper-Margen-Vorsicht.",
+    "HR24 (Form-Edge-Pflicht Torschuetzen) erfuellt: Haaland 2/3 (26 Tore + Defense-Krise), Kroupi 1/3 (12 Tore), Richarlison 2/3 (Notstuermer + Defense-Krise), Palmer 1/3 (OM-Position-Volume).",
+    "Markt-Goldgrube-Hebel aktiv gesucht: Ueber 2.5 Tore (+40.6% ROI) in 2 von 4 Kombis (Spiel 1+2). DC 1X/X2-Variante (84.6% Hit) als Spurs-DC-X2 fuer Sieg-Edge.",
+    "Markt-Bluter-Check: Liste leer in markt_bluter.json - nichts zu degradieren.",
+    "Lesson 18.05. (Top-Team-Star-9er-Schon CL-Final <=14d): heute NICHT triggered - kein CL-Finalist im Einsatz (Arsenal+PSG spielen nicht). Haaland-Tipp unter normalen HR24-Bedingungen.",
+    "Lesson 18.05. (Karriere-Highlight-Tor-Markt auf Geehrten): heute kein Karriere-Highlight bekannt - kein Filter aktiv.",
+    "Lesson 18.05. (NBA-Game-7-Heim-Underdog-Crash): heute G1 nicht G7 - Filter NICHT anwendbar.",
+    "Lesson 19.05. (Mini-Spiele-Tag-Kombi-Diversifikations-Cap fuer <=2 Spiele): heute 3 Spiele - Cap nicht aktiv, aber 4 Kombis mit struktureller Spiel-Crash-Anfaelligkeit dokumentiert.",
+    "Lesson 16.05. (Existenz-Druck-Mismatch Heidenheim/Mainz-Doppel-Outcome-Schaden): MAX 1 Outcome-Tipp fuer Spurs - Spurs DC X2 als alleinige Sieg-Outcome-Variante, KEIN zusaetzlicher Spurs-Sieg-Einzeltipp.",
+    "Lesson 19.05. (Markt-Goldgrube-N<10-Sample-Bias bei Ueber 1.5): Ueber 1.5 heute NICHT als SAFE - Ueber 2.5 mit n=15 statt n=6 als stabilerer Markt verwendet.",
+    "bet365 2:0-Insurance heute NICHT anwendbar (kein BL/CL-Spiel) - in Begruendungen entsprechend nicht erwaehnt.",
+    "bet365 Einwechslungs-Boost in Torschuetzen-Tipps beruecksichtigt: Haaland-Backup (Cherki/Foden), Richarlison-Backup (Tel/Kolo Muani), Kroupi-Backup (Evanilson).",
+    "Saison-Kontext-Pflicht-Felder (7 Felder + quellen[]) bei allen 3 Spielen vollstaendig - Verband-URLs (premierleague.com, thefa.com, nba.com) in den jeweiligen Spielen vorhanden.",
+    "Layer-1/2/3-Diversifikation eingehalten: 1 Bein/Spiel/Kombi (Layer-1), Sieg-Outcomes max 1 Kombi pro Spiel (Layer-2 sauber), Markt-Entkopplung pro Spiel via Sieg/Tor/Spielertor/Player-Punkte (Layer-3 wo moeglich)."
   ],
-  "footer": "18+ · bet365 DE · Hobby-Wetten | Sucht-Hilfe BZgA: 0800 1372700 | Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen. Kasse 04.05.: 550€ — Stufe 1 (Aufbau-Phase, konservativ)."
+  "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen. Kasse 04.05.: 550 EUR - Stufe 1 (Aufbau-Phase, konservativ).",
+  "_verifikations_report": {
+    "erstellt_am": "2026-05-19T13:30:00+02:00",
+    "drops": [],
+    "downgrades": [
+      {
+        "tipp_id": "bou-mci-3",
+        "alt": "safe-range-quote (1.55 in HR1-SAFE-Range 1.30-1.65)",
+        "neu": "value",
+        "grund": "Torschuetzen Jederzeit nicht mehr in aktueller markt_goldgruben.json (Hebel C). Hitrate-Stat ~50% < 75% SAFE-Soll. Quote SAFE-Range akzeptiert aber Kategorie auf VALUE wegen Markt-Realitaet."
+      },
+      {
+        "tipp_id": "nyk-cle-2",
+        "alt": "potentielles SAFE",
+        "neu": "value",
+        "grund": "HR19 NBA-Spread-Margen-Risiko - G1+G2 knappe Margen historisch. -6.5 grenzwertig auch wenn Modell stuetzt."
+      }
+    ],
+    "warns": [
+      {
+        "art": "quoten_plausibilitaet",
+        "details": "Alle Quoten sind US-Format-Konversionen aus Aggregator-Quellen (Sportsgambler/SI/CBS/Oddsshark) - bei bet365 live in der App pruefen, Abweichungen moeglich."
+      },
+      {
+        "art": "kombi_moonshot_unter_zielquote",
+        "kombi_id": "kombi-moonshot",
+        "details": "Moonshot 43x statt Master-Prompt-Ziel 100x+. Strukturell nicht erreichbar mit Layer-2-Cap (Sieg-Outcome max 1 Kombi pro Spiel) + nur 3 Spielen + Layer-1-max-1-Bein/Spiel. Bewusste Entscheidung statt erzwungene Layer-Verletzung oder halluzinierte Quoten."
+      },
+      {
+        "art": "mehr_safe_in_ein_spiel",
+        "spiel_id": "2026-05-19-bou-mci",
+        "details": "2 SAFE-Tipps in Spiel 1 (City Sieg + Ueber 2.5) - Cluster-Risiko aber beide unabhaengig (Sieg-Outcome + Tor-Total-Markt). Im Kombi-Set nur Sieg-Outcome in Safe-Kombi, Tor-Total in Balance - Layer-2 sauber."
+      }
+    ],
+    "checks_ok": [
+      "spieler_halluzinations_check: Alle Spielertor-Tipps (Haaland, Kroupi, Bernardo Silva, Palmer, Richarlison, Gallagher) und Player-Punkte-Tipps (Brunson, Mitchell) im squad_heim/squad_gast der Recherche-Datei verifiziert. Position-Check: Haaland ST, Kroupi OM, Bernardo Silva ZM (Mittelfeld-Tor-Risk-Note in Begruendung), Palmer OM, Richarlison ST, Gallagher OM, Brunson PG, Mitchell SG - alle plausibel.",
+      "saison_kontext_verband_quellen: Premier-League-Spiele mit premierleague.com + thefa.com Verband-URLs in quellen[]. NBA-Spiel mit nba.com. Keine UEFA-Wettbewerbs-Behauptung im saison_kontext (FA-Cup, ECF korrekt zitiert).",
+      "layer_2_cross_check: Sieg-Outcomes (City Sieg, Spurs DC X2, Knicks ML) jeweils nur in Safe-Kombi. Balance/Risiko/Moonshot frei von Sieg-Outcomes. ✓",
+      "layer_3_cross_check: Markt-Entkopplung pro Spiel - Spiel 1: Sieg/Tor-Total/Spielertor/Spielertor, Spiel 2: Sieg-DC/Spielertor/Spielertor/Spielertor, Spiel 3: Sieg/Tor-Total/Player-Punkte/Player-Punkte. Spiel 2 hat Spielertor-Konzentration (Palmer/Richarlison/Gallagher) aber unterschiedliche Spieler.",
+      "selbstwiderspruchs_scan: Keine OUT-vs-Spielt-Konflikte. Anunoby probable konsistent (Begruendung erwaehnt 'probable' nicht 'spielt sicher'). Cavs muede ist konsistent mit Knicks-VALUE/SAFE.",
+      "liga_frische_check: Premier League MD37, NBA ECF G1, plausibel zum 19.05.2026. CL-Finale 30.05. erwaehnt aber nicht als heute aktive Belastung behauptet.",
+      "kasse_stufe_check: Alle Einsaetze (0,55-11 EUR) im Stufe-1-Rahmen (0.1-2.0%) bei 550 EUR-Kasse.",
+      "markt_bluter_check: markt_bluter.json leer - nichts zu degradieren.",
+      "markt_goldgrube_priorisierung: Ueber 2.5 (Goldgrube +40.6% ROI) in beiden PL-Spielen + Spread-Aggregat in NBA-Tipps - Goldgrube-Hebel aktiv genutzt.",
+      "hr2_anti_heim_bias_form_krise: Chelsea-Form-Krise (7 ohne Sieg) -> KEIN Chelsea-Sieg/DC SAFE/VALUE. Stattdessen Spurs DC X2 + Ueber 2.5 als VALUE. ✓",
+      "hr16_nba_player_punkte_boykott: Brunson/Mitchell-Punkte ausschliesslich in Risiko-/Moonshot-Kombi, keine Player-Punkte-Einzeltipps. ✓",
+      "hr19_nba_spread_margen_risiko: Spread -6.5 als VALUE statt SAFE. ✓",
+      "hr24_form_edge_pflicht_torschuetzen: Alle Spielertor-Tipps mit HR24-Begruendung (Form-Edge / Position-9er / Defense-Krise)."
+    ],
+    "lessons_generiert": []
+  }
 }
