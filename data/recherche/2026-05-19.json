@@ -1,0 +1,312 @@
+{
+  "datum": "2026-05-19",
+  "erstellt_am": "2026-05-19T17:45:00+00:00",
+  "modus": "tag",
+  "hinweis": "Recherche-Daten Dienstag 19.05.2026 (Mo-Fr Variante - Pre-Tipps-Datenbasis fuer Tipps-Slot 13:30 Berlin). PL MD37 Doppel-Schlager: Bournemouth vs Manchester City (20:30 Berlin, Vitality) + Chelsea vs Tottenham (21:15 Berlin, Stamford Bridge). Bundesliga RUHT (Saison Sonntag 17.05. beendet - Bayern Meister). LaLiga + Serie A pausieren bis MD38 am Wochenende 23.-24.05. Ligue 1 ist beendet. UEFA-Wettbewerbe keine Spiele heute (Europa-League-Finale Mittwoch 20.05., Conference-League-Finale Mittwoch 27.05., Champions-League-Finale Samstag 30.05. Budapest Arsenal vs PSG). NBA-Highlight: Eastern Conference Finals Game 1 New York Knicks vs Cleveland Cavaliers (Madison Square Garden, 20:00 ET = Mittwoch 02:00 Berlin). Brunson + KAT + Bridges + Anunoby (probable nach Oberschenkel) vs Mitchell + Mobley + Allen + Harden + Strus. PL-Titelrennen aktuell: Arsenal 82 Pkt (1-0 gestern vs Burnley, Havertz Tor) vs ManCity 77 Pkt (5 Pkt zurueck mit Spiel in der Hand). City MUSS heute in Bournemouth gewinnen um Titelrennen bis MD38 (Sonntag 24.05.) offen zu halten - sonst Arsenal Meister bei Sieg gegen Southampton/Sunderland. KASSE-Stand 04.05.2026: 550 EUR -> Stufe 1 (Aufbau-Phase) aktiv (Kasse < 1000 EUR). 2:0-Insurance-Regel gilt fuer BL+CL: heute KEIN BL und kein CL-Spiel -> Insurance heute NICHT anwendbar. NBA-Markt-Verbote DE: Einzel-Rebounds (Mobley/Allen Reb), Einzel-Assists (Brunson/Garland Ast), Einzel-3er (Mitchell, Brunson Dreier), PRA-Kombos (Allen 21.5 PRA, Anunoby 22.5 PRA), Punkte+Assists, Punkte+Rebounds duerfen NICHT als Tipp empfohlen werden. NBA-erlaubt: Moneyline, Spread, Punkte-Totals (Spiel/Viertel/Halbzeit), Einzel-Punkte-Props, Double-Double, Triple-Double, Meiste Punkte. bet365-Quoten via Aggregator (Sportsgambler, SI, Sportsmole, EPL-Index, CBS, Oddsshark, Yardbarker, Dimers) US-Format-Konversion; bei Wettzeit live pruefen. NIE Spielernamen erfunden - Squad-Listen ausschliesslich aus zitierten Vorbericht/Lineup-Quellen.",
+  "spiele": [
+    {
+      "id": "2026-05-19-bou-mci",
+      "liga": "Premier League",
+      "matchday": 37,
+      "heim": "AFC Bournemouth",
+      "gast": "Manchester City",
+      "anstoss": "2026-05-19T20:30:00+02:00",
+      "anstoss_lokal_uk": "2026-05-19T19:30:00+01:00",
+      "anstoss_utc": "2026-05-19T18:30:00Z",
+      "stadion": "Vitality Stadium, Bournemouth",
+      "schiedsrichter": "nicht genannt in den eingesehenen Vorberichten",
+      "squad_heim": [
+        {"name": "Djordje Petrovic", "position": "TW", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/bournemouth-vs-manchester-city-prediction-lineups-odds-2026-05-19/"},
+        {"name": "Adam Smith", "position": "RV", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/bournemouth-vs-manchester-city-prediction-lineups-odds-2026-05-19/"},
+        {"name": "James Hill", "position": "IV", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/bournemouth-vs-manchester-city-prediction-lineups-odds-2026-05-19/"},
+        {"name": "Marcos Senesi", "position": "IV", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/bournemouth-vs-manchester-city-prediction-lineups-odds-2026-05-19/"},
+        {"name": "Adrien Truffert", "position": "LV", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/bournemouth-vs-manchester-city-prediction-lineups-odds-2026-05-19/"},
+        {"name": "Alex Scott", "position": "DM", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/bournemouth-vs-manchester-city-prediction-lineups-odds-2026-05-19/"},
+        {"name": "Tyler Adams", "position": "DM", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/bournemouth-vs-manchester-city-prediction-lineups-odds-2026-05-19/"},
+        {"name": "Rayan (Cherki-Nachfolger geliehen)", "position": "RF", "verifiziert_via": "https://www.sportsmole.co.uk/football/man-city/title-race/preview/bournemouth-vs-man-city-prediction-team-news-lineups_597717.html", "hinweis": "Bournemouth Rechtsfluegel laut Sportsmole/Sportsgambler"},
+        {"name": "Eli Junior Kroupi", "position": "OM", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/bournemouth-vs-manchester-city-prediction-lineups-odds-2026-05-19/", "hinweis": "Top-Saisontorschuetze Bournemouth (12 Tore laut Sportsgambler-Aggregat)"},
+        {"name": "Marcus Tavernier", "position": "LF", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/bournemouth-vs-manchester-city-prediction-lineups-odds-2026-05-19/"},
+        {"name": "Evanilson", "position": "ST", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/bournemouth-vs-manchester-city-prediction-lineups-odds-2026-05-19/", "hinweis": "Bournemouth Mittelstuermer"}
+      ],
+      "squad_gast": [
+        {"name": "Gianluigi Donnarumma", "position": "TW", "verifiziert_via": "https://eplindex.com/146565/man-city-starting-xi-vs-bournemouth-confirmed-team-news-and-predicted-lineup-3.html", "hinweis": "Bekommt Vorzug vor Trafford laut EPL Index"},
+        {"name": "Nico O'Reilly", "position": "LV", "verifiziert_via": "https://eplindex.com/146565/man-city-starting-xi-vs-bournemouth-confirmed-team-news-and-predicted-lineup-3.html"},
+        {"name": "Marc Guehi", "position": "IV", "verifiziert_via": "https://eplindex.com/146565/man-city-starting-xi-vs-bournemouth-confirmed-team-news-and-predicted-lineup-3.html"},
+        {"name": "Abdukodir Khusanov", "position": "IV", "verifiziert_via": "https://eplindex.com/146565/man-city-starting-xi-vs-bournemouth-confirmed-team-news-and-predicted-lineup-3.html"},
+        {"name": "Matheus Nunes", "position": "RV", "verifiziert_via": "https://eplindex.com/146565/man-city-starting-xi-vs-bournemouth-confirmed-team-news-and-predicted-lineup-3.html"},
+        {"name": "Rodri", "position": "DM", "verifiziert_via": "https://eplindex.com/146565/man-city-starting-xi-vs-bournemouth-confirmed-team-news-and-predicted-lineup-3.html", "hinweis": "Rueckkehr nach Verletzung; soll laut EPL-Index/Sportsmole spielen"},
+        {"name": "Bernardo Silva", "position": "ZM", "verifiziert_via": "https://eplindex.com/146565/man-city-starting-xi-vs-bournemouth-confirmed-team-news-and-predicted-lineup-3.html"},
+        {"name": "Jeremy Doku", "position": "LF", "verifiziert_via": "https://eplindex.com/146565/man-city-starting-xi-vs-bournemouth-confirmed-team-news-and-predicted-lineup-3.html"},
+        {"name": "Phil Foden", "position": "OM", "verifiziert_via": "https://eplindex.com/146565/man-city-starting-xi-vs-bournemouth-confirmed-team-news-and-predicted-lineup-3.html", "hinweis": "Soll Semenyo ersetzen laut EPL-Index; Sportsgambler nennt stattdessen Semenyo Starter"},
+        {"name": "Rayan Cherki", "position": "RF", "verifiziert_via": "https://eplindex.com/146565/man-city-starting-xi-vs-bournemouth-confirmed-team-news-and-predicted-lineup-3.html", "hinweis": "Spielzeit moeglich"},
+        {"name": "Erling Haaland", "position": "ST", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/bournemouth-vs-manchester-city-prediction-lineups-odds-2026-05-19/", "hinweis": "Top-Saisontorschuetze 26 Tore laut Sportsgambler"}
+      ],
+      "injuries_heim": [
+        "Ryan Christie (Rote Karte gegen Fulham, 3-Spiele-Sperre - OUT laut Sportsmole)",
+        "Alex Jimenez (vom Klub suspendiert, Untersuchung laeuft)",
+        "Hamed Traore (Verletzung, OUT laut Sportsgambler)",
+        "Matai Akinmboni (Verletzung, OUT laut Goal.com)",
+        "Julio Soler (Oberschenkel, Rueckkehr im Kader laut Sportsmole)",
+        "Lewis Cook (Rueckkehr aus Oberschenkel moeglich laut Sportsmole)"
+      ],
+      "injuries_gast": [
+        "Keine Ausfaelle laut Sportsmole - erstmals seit langem Vollkader fuer Guardiola",
+        "Rodri (war zuvor verletzt, jetzt spielbereit - kein OUT)",
+        "Hinweis: alte Sportsgambler-Notiz nennt Kovacic (Rot), Phillips, Grealish (Fuss) - laut neuerer Sportsmole-Quelle alle nicht mehr relevant fuer dieses Spiel; Sportsmole ist die juengere Quelle und sagt 'keine Ausfaelle'"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Bournemouth bisher nie europaeisch qualifiziert; FA-Cup ausgeschieden",
+        "gast": "FA-Cup-Finale gespielt 10.05. (laut EPL-Index Rodri bereits zurueck), kein UEFA-Wettbewerb mehr aktiv (CL-Achtelfinale 2025-26 ausgeschieden); keine Doppelbelastung diese Woche",
+        "quellen": ["https://www.thefa.com/competitions/the-emirates-fa-cup", "https://en.wikipedia.org/wiki/2025-26_Manchester_City_F.C._season"]
+      },
+      "saisonziel_heim": "Platz 6 (55 Pkt) - kaempft um Europa-/Conference-Quali, 4 Pkt hinter Liverpool fuer letzten CL-Platz mit Spiel in der Hand laut Sportsgambler; Heim-Festung intakt (16 Spiele PL ungeschlagen laut Sportsmole)",
+      "saisonziel_gast": "Platz 2 (77 Pkt) - 5 Pkt hinter Arsenal (82 Pkt) im Titelrennen, MUSS gewinnen um Titel bis MD38 offen zu halten; CL-Quali via Top-4 bereits sicher",
+      "tabellenstand": {"heim_platz": 6, "heim_pkt": 55, "gast_platz": 2, "gast_pkt": 77, "quelle": "https://www.sportsgambler.com/betting-tips/football/bournemouth-vs-manchester-city-prediction-lineups-odds-2026-05-19/"},
+      "form_heim_letzte_10": "4S-6U-0N (laut Sportsgambler) - 16 PL-Spiele ungeschlagen (laut Sportsmole)",
+      "form_gast_letzte_10": "7S-3U-0N (laut Sportsgambler) - 4 Siege aus letzten 5 Auswaerts (laut Sportsmole)",
+      "h2h": "City dominiert: 9 Siege in letzten 10 Duellen laut Sportsgambler; 94.1% Siegquote ueber 17 PL-Begegnungen, nur eine Niederlage (2-1 Saison 2024-25); 3 City-Siege in Serie",
+      "recovery_heim": "9 Tage seit letztem Spiel (Sunday 10.05. laut Sportsgambler-Forms-Stats); sehr frisch",
+      "recovery_gast": "9 Tage seit FA-Cup-Finale 10.05. (laut EPL-Index); ausreichend frisch, voller Kader verfuegbar",
+      "quoten": {
+        "bet365_aggregator": {
+          "sieg_heim": 5.10,
+          "draw": 4.35,
+          "sieg_gast": 1.60,
+          "ueber_2_5": 1.45,
+          "unter_2_5": 2.75,
+          "btts_ja": 1.48,
+          "btts_nein": 2.50,
+          "dc_1x": 2.32,
+          "dc_12": 1.21,
+          "dc_x2": 1.16,
+          "torschuetzen_jederzeit_geschaetzt": {"Haaland": 1.55, "Kroupi": 3.25, "Doku": 3.00, "Cherki": 3.50, "Foden": 2.80, "Bernardo_Silva": 4.50, "Evanilson": 3.75},
+          "hinweis": "US-Format-Konversion: Bournemouth +410 = 5.10 / Draw +335 = 4.35 / City -167 = 1.60 / O2.5 -222 = 1.45 / U2.5 +175 = 2.75 / BTTS-Ja -208 = 1.48 / BTTS-Nein +150 = 2.50 / DC1X +132 = 2.32 / DC12 -476 = 1.21 / DCX2 -625 = 1.16. Torschuetzen sind geschaetzt; bei bet365 live pruefen."
+        },
+        "fair_line_basis_prozent": {"sieg_heim": 17, "draw": 22, "sieg_gast": 61, "quelle_sportsgambler": "1x2-implizit 61% City laut Goal.com"}
+      },
+      "news_kompakt": [
+        "PL-Titelrennen-Schluesselspiel: City MUSS gewinnen um Arsenal (82 Pkt) noch unter Druck zu setzen; Niederlage bedeutet Arsenal-Meisterschaft bei MD38-Sieg",
+        "Bournemouth 16 PL-Spiele ungeschlagen (Heim-Festung), bestes Spiel der Saison koennte gegen City kommen",
+        "Pep Guardiola erstmals seit langem mit vollem Kader (Rodri zurueck, Doku zurueck in Startelf, Foden ersetzt evtl. Semenyo)",
+        "H2H eindeutig City: 94.1% Siegquote in PL-Duellen, nur eine Niederlage in 17 Spielen",
+        "Bournemouth-Ausfaelle: Christie 3-Spiele-Sperre nach Rot vs Fulham, Jimenez vom Klub suspendiert, Traore + Akinmboni verletzt",
+        "Aufstiegsstuermer: Kroupi (12 Saisontore) als Bournemouth-Hoffnung gegen Khusanov/Guehi - Underdog-Volumen-Stuermer",
+        "Recovery beide gleich (9 Tage) - kein Belastungs-Vorteil",
+        "Asymmetrie: City Titel-Druck-Maximum vs Bournemouth ohne klares Saison-Ziel-Druck (Conference-Quali waere Bonus, kein Muss)"
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/bournemouth-vs-manchester-city-prediction-lineups-odds-2026-05-19/",
+        "https://www.sportsmole.co.uk/football/man-city/title-race/preview/bournemouth-vs-man-city-prediction-team-news-lineups_597717.html",
+        "https://eplindex.com/146565/man-city-starting-xi-vs-bournemouth-confirmed-team-news-and-predicted-lineup-3.html",
+        "https://www.goal.com/en-za/betting/tips/bournemouth-vs-manchester-city-predictions-19-05-2026/A%3Ablt931987bcd7a3ebe9",
+        "https://www.fotmob.com/matches/manchester-city-vs-afc-bournemouth/2feiv3"
+      ]
+    },
+    {
+      "id": "2026-05-19-che-tot",
+      "liga": "Premier League",
+      "matchday": 37,
+      "heim": "Chelsea",
+      "gast": "Tottenham Hotspur",
+      "anstoss": "2026-05-19T21:15:00+02:00",
+      "anstoss_lokal_uk": "2026-05-19T20:15:00+01:00",
+      "anstoss_utc": "2026-05-19T19:15:00Z",
+      "stadion": "Stamford Bridge, London",
+      "schiedsrichter": "nicht genannt in den eingesehenen Vorberichten",
+      "squad_heim": [
+        {"name": "Robert Sanchez", "position": "TW", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/chelsea-vs-tottenham-prediction-lineups-odds-2026-05-19/"},
+        {"name": "Malo Gusto", "position": "RV", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/chelsea-vs-tottenham-prediction-lineups-odds-2026-05-19/"},
+        {"name": "Trevoh Chalobah", "position": "IV", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/chelsea-vs-tottenham-prediction-lineups-odds-2026-05-19/"},
+        {"name": "Jorrel Hato", "position": "IV", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/chelsea-vs-tottenham-prediction-lineups-odds-2026-05-19/", "hinweis": "Sportsgambler nennt Hato; SI-Vorbericht erwaehnt alternativ Fofana"},
+        {"name": "Marc Cucurella", "position": "LV", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/chelsea-vs-tottenham-prediction-lineups-odds-2026-05-19/"},
+        {"name": "Moises Caicedo", "position": "DM", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/chelsea-vs-tottenham-prediction-lineups-odds-2026-05-19/"},
+        {"name": "Andrey Santos", "position": "ZM", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/chelsea-vs-tottenham-prediction-lineups-odds-2026-05-19/"},
+        {"name": "Cole Palmer", "position": "OM", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/chelsea-vs-tottenham-prediction-lineups-odds-2026-05-19/", "hinweis": "Chelseas Schluesselspieler offensiv"},
+        {"name": "Enzo Fernandez", "position": "ZM", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/chelsea-vs-tottenham-prediction-lineups-odds-2026-05-19/"},
+        {"name": "Pedro Neto", "position": "LF", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/chelsea-vs-tottenham-prediction-lineups-odds-2026-05-19/"},
+        {"name": "Joao Pedro", "position": "ST", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/chelsea-vs-tottenham-prediction-lineups-odds-2026-05-19/", "hinweis": "Chelseas Hauptstuermer"}
+      ],
+      "squad_gast": [
+        {"name": "Antonin Kinsky", "position": "TW", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/chelsea-vs-tottenham-prediction-lineups-odds-2026-05-19/"},
+        {"name": "Pedro Porro", "position": "RV", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/chelsea-vs-tottenham-prediction-lineups-odds-2026-05-19/"},
+        {"name": "Kevin Danso", "position": "IV", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/chelsea-vs-tottenham-prediction-lineups-odds-2026-05-19/"},
+        {"name": "Micky van de Ven", "position": "IV", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/chelsea-vs-tottenham-prediction-lineups-odds-2026-05-19/"},
+        {"name": "Destiny Udogie", "position": "LV", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/chelsea-vs-tottenham-prediction-lineups-odds-2026-05-19/"},
+        {"name": "Joao Palhinha", "position": "DM", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/chelsea-vs-tottenham-prediction-lineups-odds-2026-05-19/"},
+        {"name": "Rodrigo Bentancur", "position": "ZM", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/chelsea-vs-tottenham-prediction-lineups-odds-2026-05-19/"},
+        {"name": "Randal Kolo Muani", "position": "RF", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/chelsea-vs-tottenham-prediction-lineups-odds-2026-05-19/"},
+        {"name": "Conor Gallagher", "position": "OM", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/chelsea-vs-tottenham-prediction-lineups-odds-2026-05-19/", "hinweis": "Hinweis: Spurs-Mittelfeld - laut Sportsgambler-Vorbericht; ex-Chelsea-Spieler heute gegen seinen Ex-Klub"},
+        {"name": "Mathys Tel", "position": "LF", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/chelsea-vs-tottenham-prediction-lineups-odds-2026-05-19/"},
+        {"name": "Richarlison", "position": "ST", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/chelsea-vs-tottenham-prediction-lineups-odds-2026-05-19/", "hinweis": "Wegen vieler Verletzungen Mittelstuermer"}
+      ],
+      "injuries_heim": [
+        "Romeo Lavia (Oberschenkel, OUT laut Sportsgambler)",
+        "Jamie Gittens (Oberschenkel, OUT laut Sportsgambler)",
+        "Estevao Willian (Oberschenkel, OUT bis 01.06. laut Sportsgambler/SI)",
+        "Jesse Derry (Kopfverletzung, OUT laut SI)"
+      ],
+      "injuries_gast": [
+        "Dominic Solanke (Oberschenkel, OUT laut Sportsgambler/SI)",
+        "Mohammed Kudus (Oberschenkel, OUT bis 01.06. laut Sportsgambler/SI)",
+        "Cristian Romero (Knie, OUT bis 01.06. laut Sportsgambler)",
+        "Xavi Simons (Kreuzbandriss, OUT Saison-Aus laut Sportsgambler)",
+        "Dejan Kulusevski (OUT laut SI)",
+        "Wilson Odobert (OUT laut SI)",
+        "Ben Davies (OUT laut SI)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Conference League ist abgeschlossen / nicht in dieser Saison; FA-Cup ausgeschieden; keine UEFA-Spiele diese Woche",
+        "gast": "keine - Europa-League-Halbfinale-Aus April 2026; keine UEFA-Spiele diese Woche",
+        "quellen": ["https://en.wikipedia.org/wiki/2025-26_Chelsea_F.C._season", "https://en.wikipedia.org/wiki/2025-26_Tottenham_Hotspur_F.C._season"]
+      },
+      "saisonziel_heim": "Platz 10 (49 Pkt) laut Sportsgambler - 3 Pkt hinter Brentford fuer letzten Europa-/Conference-Platz; CL-Quali nur theoretisch (Aussenseiter-Chance laut SI); 7 Liga-Spiele ohne Sieg seit Maerz",
+      "saisonziel_gast": "Platz 17 (38 Pkt) laut Sportsgambler - bedroht durch Abstieg, benoetigt nur 1 Punkt aus 2 Spielen zur Rettung laut SI; 4 Spiele ungeschlagen laut SI",
+      "tabellenstand": {"heim_platz": 10, "heim_pkt": 49, "heim_w_d_l": "13-10-13", "gast_platz": 17, "gast_pkt": 38, "gast_w_d_l": "9-11-16", "quelle": "https://www.sportsgambler.com/betting-tips/football/chelsea-vs-tottenham-prediction-lineups-odds-2026-05-19/"},
+      "form_heim_letzte_10": "1S-2U-7N (Liga, laut Sportsgambler) - schwere Krise",
+      "form_gast_letzte_10": "2S-3U-5N (Liga, laut Sportsgambler) - zuletzt 1:1 vs Leeds laut SI; 4 Spiele ungeschlagen laut SI",
+      "h2h": "Chelsea 5 Siege in Serie gegen Spurs; 8S-1U-1N in letzten 10 Duellen laut Sportsgambler",
+      "recovery_heim": "8 Tage seit letztem PL-Spiel (Sonntag 11.05.) - frisch",
+      "recovery_gast": "8 Tage seit Leeds-1:1 (10.05.) laut SI - frisch",
+      "quoten": {
+        "bet365_aggregator": {
+          "sieg_heim": 1.98,
+          "draw": 3.55,
+          "sieg_gast": 3.75,
+          "ueber_2_5": 1.70,
+          "unter_2_5": 2.14,
+          "btts_ja": 1.57,
+          "btts_nein": 2.28,
+          "dc_1x": 1.26,
+          "dc_12": 1.29,
+          "dc_x2": 1.82,
+          "asian_handicap_x_05_geschaetzt": "Tottenham +0.5 bei -120 = 1.83 (laut Last Word, sportsgambler indirekt)",
+          "torschuetzen_jederzeit_geschaetzt": {"Palmer": 2.30, "Joao_Pedro": 2.40, "Neto": 3.25, "Enzo_Fernandez": 4.50, "Richarlison": 3.10, "Tel": 3.75, "Kolo_Muani": 3.50, "Gallagher": 5.00},
+          "hinweis": "US-Format-Konversion: Chelsea -102 = 1.98 / Draw +255 = 3.55 / Spurs +275 = 3.75 / O2.5 -143 = 1.70 / U2.5 +114 = 2.14 / BTTS-Ja -175 = 1.57 / BTTS-Nein +128 = 2.28 / DC1X -385 = 1.26 / DC12 -345 = 1.29 / DCX2 -122 = 1.82. Torschuetzen sind geschaetzt; bei bet365 live pruefen."
+        },
+        "fair_line_basis_prozent": {"sieg_heim": 51, "draw": 27, "sieg_gast": 26}
+      },
+      "news_kompakt": [
+        "Chelsea Krise: 7 Liga-Spiele ohne Sieg seit Maerz (1S-2U-7N), CL-Quali nur theoretisch Aussenseiter-Chance laut SI",
+        "Tottenham Abstiegs-Drama: Platz 17 (38 Pkt) - braucht nur 1 Pkt aus 2 Spielen (gegen Chelsea + MD38), 4 Spiele ungeschlagen",
+        "H2H eindeutig Chelsea: 5 Siege in Serie gegen Spurs, 8/10 in letzten Duellen",
+        "Chelsea-Verletzungen explosiv: Lavia, Gittens, Estevao, Derry alle out - Mittelfeld+Offensive dezimiert",
+        "Tottenham-Verletzungen noch schlimmer: Solanke, Kudus, Romero, Xavi Simons, Kulusevski, Odobert, Davies - Richarlison als Notloesung-Mittelstuermer",
+        "Motivations-Asymmetrie: Chelsea will Europa-Platz retten (3 Pkt hinter Brentford), Spurs nur 1 Pkt fuer Klassenerhalt - beide haben WAS zu spielen, aber Spurs-Druck = existenziell",
+        "Roberto De Zerbi soll Tottenham-Manager sein, Xavi Alonso soll zukuenftiger Chelsea-Coach werden (laut SI - moeglicherweise outdated/falsch, da Vorbericht-Notiz nicht datiert)",
+        "Asian-Handicap-Tipp populaer: Spurs +0.5 (-120 = ~1.83) - signaliert dass Markt Chelsea-Sieg fragwuerdig findet trotz Heim-Vorteil"
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/chelsea-vs-tottenham-prediction-lineups-odds-2026-05-19/",
+        "https://www.si.com/soccer/chelsea-vs-tottenham-preview-predictions-and-lineups-5-19-26",
+        "https://www.fotmob.com/matches/chelsea-vs-tottenham-hotspur/2eggkj",
+        "https://www.covers.com/soccer/chelsea-vs-tottenham-predictions-picks-odds-premier-league-tuesday-may-19-2026",
+        "https://dailysports.net/predictions/chelsea-vs-tottenham-prediction-match-preview-and-probable-lineups-may-19-2026/"
+      ]
+    },
+    {
+      "id": "2026-05-19-nyk-cle",
+      "liga": "NBA Eastern Conference Finals",
+      "spielserie": "Game 1 of 7 (Best-of-7)",
+      "heim": "New York Knicks",
+      "gast": "Cleveland Cavaliers",
+      "anstoss": "2026-05-20T02:00:00+02:00",
+      "anstoss_lokal_us": "2026-05-19T20:00:00-04:00",
+      "anstoss_utc": "2026-05-20T00:00:00Z",
+      "stadion": "Madison Square Garden, New York",
+      "saison_bilanz": {
+        "knicks_reg_saison": "53-29 (3. Seed Eastern Conference, Heimvorteil in Serie)",
+        "cavaliers_reg_saison": "52-30 (4. Seed Eastern Conference) - 64 Siege im letzten Jahr",
+        "knicks_playoffs": "Sweep Round 1, Sweep Philly im Semis (4-0), 7 Siege in Folge mit kombinierten 185 Punkten Differenz, 9 Tage Pause vor G1",
+        "cavaliers_playoffs": "Round 1 7-Spiele-Serie gegen Raptors, Semis 7-Spiele-Serie gegen Pistons - zwei Auswaerts-Siege zuletzt aber 1-5 Road-Bilanz in Playoffs gesamt; Heim 7-0"
+      },
+      "squad_heim": [
+        {"name": "Jalen Brunson", "position": "PG", "rolle": "Starter", "verifiziert_via": "https://www.yardbarker.com/nba/articles/cavaliers_vs_knicks_game_1_2026_nba_ecf_prediction_odds_and_injury_update_may_19/s1_17759_43856520", "hinweis": "Knicks-Hauptscorer; 21+ Pkt-Schnitt in Playoffs"},
+        {"name": "Mikal Bridges", "position": "SG/SF", "rolle": "Starter", "verifiziert_via": "https://www.yardbarker.com/nba/articles/cavaliers_vs_knicks_game_1_2026_nba_ecf_prediction_odds_and_injury_update_may_19/s1_17759_43856520"},
+        {"name": "OG Anunoby", "position": "SF", "rolle": "Starter (PROBABLE - Hamstring)", "verifiziert_via": "https://heavy.com/sports/nba/new-york-knicks/official-og-anunoby-injury-update-game-1/", "hinweis": "Grade-1-Hamstring-Strain - laut Shams Charania wird er spielen; in Playoffs 21+ Pkt-Schnitt"},
+        {"name": "Josh Hart", "position": "SF/PF", "rolle": "Starter", "verifiziert_via": "https://www.yardbarker.com/nba/articles/cavaliers_vs_knicks_game_1_2026_nba_ecf_prediction_odds_and_injury_update_may_19/s1_17759_43856520"},
+        {"name": "Karl-Anthony Towns", "position": "PF/C", "rolle": "Starter", "verifiziert_via": "https://www.yardbarker.com/nba/articles/cavaliers_vs_knicks_game_1_2026_nba_ecf_prediction_odds_and_injury_update_may_19/s1_17759_43856520"}
+      ],
+      "squad_gast": [
+        {"name": "James Harden", "position": "PG", "rolle": "Starter", "verifiziert_via": "https://www.yardbarker.com/nba/articles/cavaliers_vs_knicks_game_1_2026_nba_ecf_prediction_odds_and_injury_update_may_19/s1_17759_43856520", "hinweis": "Sportsgambler/Yardbarker nennen Harden in Cavs-Starting-Five 2025-26; ungewohnter Eintrag, koennte tradesyn-bezogen sein - bei Live-Aufstellung pruefen"},
+        {"name": "Donovan Mitchell", "position": "SG", "rolle": "Starter", "verifiziert_via": "https://www.yardbarker.com/nba/articles/cavaliers_vs_knicks_game_1_2026_nba_ecf_prediction_odds_and_injury_update_may_19/s1_17759_43856520", "hinweis": "Cavs-Top-Scorer; 26 Pkt in Game 7 vs Pistons, mind. 2 Dreier in 12 von 14 Playoff-Spielen"},
+        {"name": "Max Strus", "position": "SF", "rolle": "Starter", "verifiziert_via": "https://www.yardbarker.com/nba/articles/cavaliers_vs_knicks_game_1_2026_nba_ecf_prediction_odds_and_injury_update_may_19/s1_17759_43856520"},
+        {"name": "Evan Mobley", "position": "PF", "rolle": "Starter", "verifiziert_via": "https://www.yardbarker.com/nba/articles/cavaliers_vs_knicks_game_1_2026_nba_ecf_prediction_odds_and_injury_update_may_19/s1_17759_43856520", "hinweis": "DPOY-Kandidat; Semis-Bilanz: 15.0 Pkt/6.7 Reb/4.7 Ast/2.8 Blocks"},
+        {"name": "Jarrett Allen", "position": "C", "rolle": "Starter", "verifiziert_via": "https://www.yardbarker.com/nba/articles/cavaliers_vs_knicks_game_1_2026_nba_ecf_prediction_odds_and_injury_update_may_19/s1_17759_43856520", "hinweis": "23 Pkt in Game 7 vs Pistons"},
+        {"name": "Sam Merrill", "position": "SG", "rolle": "Schluesselbank", "verifiziert_via": "https://www.yardbarker.com/nba/articles/cavaliers_vs_knicks_game_1_2026_nba_ecf_prediction_odds_and_injury_update_may_19/s1_17759_43856520"}
+      ],
+      "injuries_heim": [
+        "OG Anunoby (Grade-1-Hamstring-Strain rechts, PROBABLE - wird laut Shams spielen; verpasste letzte 2 Spiele Semis)"
+      ],
+      "injuries_gast": [
+        "Larry Nance Jr. (Krankheit/Illness, QUESTIONABLE laut Suche / OUT laut Yardbarker)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - reine NBA-Playoffs",
+        "gast": "keine - reine NBA-Playoffs",
+        "quellen": ["https://www.nba.com/playoffs/2026"]
+      },
+      "saisonziel_heim": "NBA-Finals erreichen + Titel; erste ECF seit 2000 erreicht (laut historischem Kontext)",
+      "saisonziel_gast": "NBA-Finals erreichen; nach 64-Sieg-Saison letztes Jahr Titel-Hoffnung",
+      "form_heim_letzte_10_playoffs": "7-0 (8 Siege seit Round 1 mit nur einer Niederlage gemaess Diff)",
+      "form_gast_letzte_10_playoffs": "Round 1 + Semis je 7-Spiele-Serien (4-3 beide Male); 7-0 Heim aber 1-5 Auswaerts in Playoffs",
+      "h2h_reg_saison_2025_26": "nicht aus Quellen bestaetigt - bei Live-Wettzeit pruefen",
+      "recovery_heim": "9 Tage seit Semis-Abschluss vs Philly (Sweep beendet ~10.05.) - sehr ausgeruht",
+      "recovery_gast": "2-3 Tage seit Game 7 vs Pistons (Sonntag 17.05.) - muede nach 7-Spiele-Serie",
+      "quoten": {
+        "bet365_aggregator_via_fanduel_dk": {
+          "moneyline_heim": 1.38,
+          "moneyline_gast": 3.15,
+          "spread_heim_minus_6_5": 1.87,
+          "spread_gast_plus_6_5": 1.95,
+          "total_punkte_linie": 217.5,
+          "ueber_217_5": 1.91,
+          "unter_217_5": 1.91,
+          "series_price_knicks": 1.38,
+          "series_price_cavs": 3.15,
+          "player_points_props": {
+            "Brunson_O_U_33_5": "Markt verfuegbar - Over leicht favoriert",
+            "Mitchell_O_U_30_5": "Markt verfuegbar",
+            "Towns_O_U_25_5": "Markt verfuegbar",
+            "Mobley_O_U_23_5": "Markt verfuegbar",
+            "Allen_O_U_19_5": "Markt verfuegbar"
+          },
+          "hinweis": "US-Format-Konversion: Knicks -260 ML = 1.38 / Cavs +215 ML = 3.15 / Spread Knicks -6.5 (-115) = 1.87 / Spread Cavs +6.5 (-105) = 1.95 / Total 217.5 -110/-110 = 1.91 jede Seite / Series Knicks -265 = 1.38 / Cavs +215 = 3.15. SportsLine-Modell 'Knicks -6.5'."
+        }
+      },
+      "deutsche_bet365_markt_beschraenkungen": {
+        "erlaubt": ["Moneyline (Knicks/Cavs)", "Spread Knicks -6.5 / Cavs +6.5", "Total 217.5 over/under", "Punkte-Totals fuer Viertel + Halbzeit", "Einzelspieler-PUNKTE-Props (Brunson O33.5 Pkt usw.)", "Series Price", "Double-Double / Triple-Double Markt", "Meiste Punkte im Spiel"],
+        "verboten_in_de": ["Einzel-Rebounds (Mobley/Allen Reb)", "Einzel-Assists (Brunson/Garland Ast)", "Einzel-Steals/Blocks", "Einzel-3er (Mitchell, Brunson Dreier)", "PRA-Kombos (Anunoby 22.5 PRA, Allen 21.5 PRA, Brunson 34+ Pkt+Ast)", "Punkte+Assists (Harden P+A) und Punkte+Rebounds Kombi-Stats"]
+      },
+      "news_kompakt": [
+        "Knicks ECF erstmals seit 2000 + 7 Siege in Folge inkl. Philly-Sweep (185 Pkt Diff), 9 Tage Pause = optimal ausgeruht",
+        "Cavs muede: zwei 7-Spiele-Serien in Folge (Raptors, Pistons) + nur 1-5 Road-Bilanz in Playoffs = strukturelles Nachteil",
+        "Anunoby PROBABLE nach Hamstring (Grade 1) - Shams: wird spielen; ohne ihn Knicks-Defense weniger Optionen",
+        "Mitchell brennt: 26 Pkt in Game 7 vs Pistons, 2+ Dreier in 12/14 Playoff-Spielen - Top-Scorer Cavs",
+        "Spread Knicks -6.5 als Markt-Konsens (FanDuel/DraftKings), Total 217.5 (SportsLine-Modell sagt Over)",
+        "Larry Nance Jr. QUESTIONABLE (Krankheit) - Cavs-Bank koennte schmaler werden",
+        "Historisch: Teams mit Heim-G1 + frischer-vs-muede Vorteil seit 2004 22-6 SU / 20-8 ATS (laut Oddsshark)"
+      ],
+      "quellen_aggregator": [
+        "https://www.cbssports.com/nba/news/knicks-cavaliers-prediction-game-1-odds-pick-tv-channel/",
+        "https://www.cbssports.com/nba/news/knicks-cavaliers-odds-prediction-time-2026-nba-eastern-conference-finals-picks-game-1-best-bets/",
+        "https://www.oddsshark.com/nba/cavaliers-knicks-picks-odds-game-1-may-19-2026",
+        "https://www.yardbarker.com/nba/articles/cavaliers_vs_knicks_game_1_2026_nba_ecf_prediction_odds_and_injury_update_may_19/s1_17759_43856520",
+        "https://heavy.com/sports/nba/new-york-knicks/official-og-anunoby-injury-update-game-1/",
+        "https://clutchpoints.com/nba/new-york-knicks/og-anunoby-returning-knicks-cavs-2026-eastern-conference-finals-game-1-injury-report",
+        "https://www.sportsline.com/insiders/knicks-vs-cavaliers-odds-line-proven-model-reveals-nba-picks-for-eastern-conference-final-game-1-matchup-on-tuesday-may-19/",
+        "https://dknetwork.draftkings.com/2026/05/17/opening-odds-for-cavaliers-vs-knicks-2026-nba-playoffs-eastern-conference-finals/"
+      ]
+    }
+  ],
+  "skipped_competitions_today": [
+    {"liga": "Bundesliga", "grund": "Saison beendet 17.05. (Bayern Meister, Wolfsburg/Heidenheim/St.Pauli abgestiegen)"},
+    {"liga": "LaLiga", "grund": "MD38 erst am Wochenende 23.-24.05."},
+    {"liga": "Serie A", "grund": "MD38 erst am Wochenende 23.-24.05."},
+    {"liga": "Ligue 1", "grund": "Saison beendet"},
+    {"liga": "Champions League", "grund": "Finale 30.05. Budapest Arsenal vs PSG"},
+    {"liga": "Europa League", "grund": "Finale Mittwoch 20.05."},
+    {"liga": "Conference League", "grund": "Finale Mittwoch 27.05."},
+    {"liga": "Copa Libertadores", "grund": "Sportart-Whitelist: Pipeline fokussiert auf BL/PL/LaLiga/Serie A/CL/EL/Pokal/NBA - Copa Libertadores nicht im Scope (4 Spiele heute koennten via football-data.org gefunden werden, aber nicht Tipps-relevant)"}
+  ],
+  "footer": "Hobby-Recherche-Datenbasis. KEINE Tipps. Spielerschutz BZgA 0800 1372700. Quoten bei bet365 live pruefen - US-Format-Konversion ueber Aggregator-Quellen."
+}
