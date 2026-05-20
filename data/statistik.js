@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-05-19T06:10:25+00:00",
+  "letzte_berechnung": "2026-05-20T06:12:22+00:00",
   "gesamt": {
-    "tipps": 244,
-    "gewonnen": 131,
-    "verloren": 104,
+    "tipps": 255,
+    "gewonnen": 138,
+    "verloren": 108,
     "push": 0,
     "offen": 9,
-    "einsatz": 235.0,
-    "netto": 15.27,
-    "trefferquote": 55.7,
-    "roi_prozent": 6.5
+    "einsatz": 246.0,
+    "netto": 19.03,
+    "trefferquote": 56.1,
+    "roi_prozent": 7.7
   },
   "letzte_30_tage": {
-    "tipps": 244,
-    "gewonnen": 131,
-    "verloren": 104,
+    "tipps": 255,
+    "gewonnen": 138,
+    "verloren": 108,
     "push": 0,
     "offen": 9,
-    "einsatz": 235.0,
-    "netto": 15.27,
-    "trefferquote": 55.7,
-    "roi_prozent": 6.5
+    "einsatz": 246.0,
+    "netto": 19.03,
+    "trefferquote": 56.1,
+    "roi_prozent": 7.7
   },
   "letzte_90_tage": {
-    "tipps": 244,
-    "gewonnen": 131,
-    "verloren": 104,
+    "tipps": 255,
+    "gewonnen": 138,
+    "verloren": 108,
     "push": 0,
     "offen": 9,
-    "einsatz": 235.0,
-    "netto": 15.27,
-    "trefferquote": 55.7,
-    "roi_prozent": 6.5
+    "einsatz": 246.0,
+    "netto": 19.03,
+    "trefferquote": 56.1,
+    "roi_prozent": 7.7
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -113,15 +113,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -40.0
     },
     "Premier League": {
-      "tipps": 38,
-      "gewonnen": 21,
-      "verloren": 16,
+      "tipps": 46,
+      "gewonnen": 25,
+      "verloren": 20,
       "push": 0,
       "offen": 1,
-      "einsatz": 37.0,
-      "netto": -7.34,
-      "trefferquote": 56.8,
-      "roi_prozent": -19.8
+      "einsatz": 45.0,
+      "netto": -5.74,
+      "trefferquote": 55.6,
+      "roi_prozent": -12.8
     },
     "NBA Playoffs R1 G4": {
       "tipps": 4,
@@ -364,6 +364,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": -1.05,
       "trefferquote": 33.3,
       "roi_prozent": -35.0
+    },
+    "NBA Eastern Conference Finals": {
+      "tipps": 3,
+      "gewonnen": 3,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 2.16,
+      "trefferquote": 100.0,
+      "roi_prozent": 72.0
     }
   },
   "nach_markt": {
@@ -1776,15 +1787,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 0.0
     },
     "Sieg New York Knicks (Moneyline)": {
-      "tipps": 2,
-      "gewonnen": 2,
+      "tipps": 3,
+      "gewonnen": 3,
       "verloren": 0,
       "push": 0,
       "offen": 0,
-      "einsatz": 2.0,
-      "netto": 3.32,
+      "einsatz": 3.0,
+      "netto": 3.7,
       "trefferquote": 100.0,
-      "roi_prozent": 166.0
+      "roi_prozent": 123.3
     },
     "Knicks Handicap -6.5 (Spread)": {
       "tipps": 1,
@@ -2392,15 +2403,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 0.0
     },
     "Sieg Manchester City": {
-      "tipps": 1,
+      "tipps": 2,
       "gewonnen": 1,
-      "verloren": 0,
+      "verloren": 1,
       "push": 0,
       "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 100.0,
-      "roi_prozent": 0.0
+      "einsatz": 2.0,
+      "netto": -1.0,
+      "trefferquote": 50.0,
+      "roi_prozent": -50.0
     },
     "Sieg Heidenheim": {
       "tipps": 1,
@@ -2511,19 +2522,118 @@ window.__MIESMUSCHEL_STAT = {
       "netto": -1.0,
       "trefferquote": 0.0,
       "roi_prozent": -100.0
+    },
+    "Ueber 2.5 Tore (Bournemouth - Manchester City)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Doppelte Chance Tottenham (Sieg oder Remis)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "New York Knicks Spread -6.5": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.87,
+      "trefferquote": 100.0,
+      "roi_prozent": 87.0
+    },
+    "Erling Haaland Torschuetze jederzeit": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.55,
+      "trefferquote": 100.0,
+      "roi_prozent": 55.0
+    },
+    "Ueber 2.5 Tore (Chelsea - Tottenham)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.7,
+      "trefferquote": 100.0,
+      "roi_prozent": 70.0
+    },
+    "Ueber 217.5 Punkte Gesamt (Knicks - Cavaliers)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.91,
+      "trefferquote": 100.0,
+      "roi_prozent": 91.0
+    },
+    "Cole Palmer Torschuetze jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Richarlison Torschuetze jederzeit": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 2.1,
+      "trefferquote": 100.0,
+      "roi_prozent": 210.0
+    },
+    "Eli Junior Kroupi Torschuetze jederzeit": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 2.25,
+      "trefferquote": 100.0,
+      "roi_prozent": 225.0
     }
   },
   "nach_markt_typ": {
     "Spieler-Punkte Ueber (NBA)": {
-      "tipps": 14,
-      "gewonnen": 7,
+      "tipps": 15,
+      "gewonnen": 8,
       "verloren": 7,
       "push": 0,
       "offen": 0,
-      "einsatz": 14.0,
-      "netto": -0.02,
-      "trefferquote": 50.0,
-      "roi_prozent": -0.1
+      "einsatz": 15.0,
+      "netto": 0.89,
+      "trefferquote": 53.3,
+      "roi_prozent": 5.9
     },
     "Spieler-Punkte Unter (NBA)": {
       "tipps": 8,
@@ -2559,26 +2669,26 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 55.0
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 80,
-      "gewonnen": 47,
-      "verloren": 32,
+      "tipps": 82,
+      "gewonnen": 48,
+      "verloren": 33,
       "push": 0,
       "offen": 1,
-      "einsatz": 79.0,
-      "netto": 6.68,
-      "trefferquote": 59.5,
-      "roi_prozent": 8.5
+      "einsatz": 81.0,
+      "netto": 6.06,
+      "trefferquote": 59.3,
+      "roi_prozent": 7.5
     },
     "Torschuetzen Jederzeit": {
-      "tipps": 30,
-      "gewonnen": 10,
-      "verloren": 20,
+      "tipps": 34,
+      "gewonnen": 13,
+      "verloren": 21,
       "push": 0,
       "offen": 0,
-      "einsatz": 30.0,
-      "netto": 3.47,
-      "trefferquote": 33.3,
-      "roi_prozent": 11.6
+      "einsatz": 34.0,
+      "netto": 7.37,
+      "trefferquote": 38.2,
+      "roi_prozent": 21.7
     },
     "Unter 2.5 Tore": {
       "tipps": 9,
@@ -2614,15 +2724,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 7.1
     },
     "Ueber 2.5 Tore": {
-      "tipps": 15,
-      "gewonnen": 6,
-      "verloren": 7,
+      "tipps": 17,
+      "gewonnen": 7,
+      "verloren": 8,
       "push": 0,
       "offen": 2,
-      "einsatz": 13.0,
-      "netto": 5.28,
-      "trefferquote": 46.2,
-      "roi_prozent": 40.6
+      "einsatz": 15.0,
+      "netto": 4.98,
+      "trefferquote": 46.7,
+      "roi_prozent": 33.2
     },
     "Beide Teams treffen JA": {
       "tipps": 7,
@@ -2647,15 +2757,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 12.9
     },
     "Spread/Handicap": {
-      "tipps": 10,
-      "gewonnen": 3,
+      "tipps": 11,
+      "gewonnen": 4,
       "verloren": 7,
       "push": 0,
       "offen": 0,
-      "einsatz": 10.0,
-      "netto": -0.23,
-      "trefferquote": 30.0,
-      "roi_prozent": -2.3
+      "einsatz": 11.0,
+      "netto": 0.64,
+      "trefferquote": 36.4,
+      "roi_prozent": 5.8
     },
     "Raptors +3.5": {
       "tipps": 1,
@@ -2953,87 +3063,98 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.21,
       "trefferquote": 100.0,
       "roi_prozent": 21.0
+    },
+    "Doppelte Chance": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
     }
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 116,
-      "gewonnen": 58,
-      "verloren": 54,
+      "tipps": 122,
+      "gewonnen": 62,
+      "verloren": 56,
       "push": 0,
       "offen": 4,
-      "einsatz": 112.0,
-      "netto": 8.15,
-      "trefferquote": 51.8,
-      "roi_prozent": 7.3
+      "einsatz": 118.0,
+      "netto": 9.18,
+      "trefferquote": 52.5,
+      "roi_prozent": 7.8
     },
     "2.00-3.00": {
-      "tipps": 30,
+      "tipps": 31,
       "gewonnen": 11,
-      "verloren": 18,
+      "verloren": 19,
       "push": 0,
       "offen": 1,
-      "einsatz": 29.0,
-      "netto": 1.64,
-      "trefferquote": 37.9,
-      "roi_prozent": 5.7
+      "einsatz": 30.0,
+      "netto": 0.64,
+      "trefferquote": 36.7,
+      "roi_prozent": 2.1
     },
     "1.00-1.50": {
-      "tipps": 89,
-      "gewonnen": 60,
-      "verloren": 25,
+      "tipps": 91,
+      "gewonnen": 61,
+      "verloren": 26,
       "push": 0,
       "offen": 4,
-      "einsatz": 85.0,
-      "netto": 4.03,
-      "trefferquote": 70.6,
-      "roi_prozent": 4.7
+      "einsatz": 87.0,
+      "netto": 3.41,
+      "trefferquote": 70.1,
+      "roi_prozent": 3.9
     },
     "3.00+": {
-      "tipps": 9,
-      "gewonnen": 2,
+      "tipps": 11,
+      "gewonnen": 4,
       "verloren": 7,
       "push": 0,
       "offen": 0,
-      "einsatz": 9.0,
-      "netto": 1.45,
-      "trefferquote": 22.2,
-      "roi_prozent": 16.1
+      "einsatz": 11.0,
+      "netto": 5.8,
+      "trefferquote": 36.4,
+      "roi_prozent": 52.7
     }
   },
   "nach_kategorie": {
     "safe": {
-      "tipps": 66,
-      "gewonnen": 47,
+      "tipps": 69,
+      "gewonnen": 48,
+      "verloren": 21,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 69.0,
+      "netto": 1.51,
+      "trefferquote": 69.6,
+      "roi_prozent": 2.2
+    },
+    "value": {
+      "tipps": 153,
+      "gewonnen": 76,
+      "verloren": 68,
+      "push": 0,
+      "offen": 9,
+      "einsatz": 144.0,
+      "netto": 12.2,
+      "trefferquote": 52.8,
+      "roi_prozent": 8.5
+    },
+    "wackel": {
+      "tipps": 33,
+      "gewonnen": 14,
       "verloren": 19,
       "push": 0,
       "offen": 0,
-      "einsatz": 66.0,
-      "netto": 3.13,
-      "trefferquote": 71.2,
-      "roi_prozent": 4.7
-    },
-    "value": {
-      "tipps": 148,
-      "gewonnen": 72,
-      "verloren": 67,
-      "push": 0,
-      "offen": 9,
-      "einsatz": 139.0,
-      "netto": 10.17,
-      "trefferquote": 51.8,
-      "roi_prozent": 7.3
-    },
-    "wackel": {
-      "tipps": 30,
-      "gewonnen": 12,
-      "verloren": 18,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 30.0,
-      "netto": 1.97,
-      "trefferquote": 40.0,
-      "roi_prozent": 6.6
+      "einsatz": 33.0,
+      "netto": 5.32,
+      "trefferquote": 42.4,
+      "roi_prozent": 16.1
     }
   },
   "clv_gesamt": {
@@ -3053,6 +3174,247 @@ window.__MIESMUSCHEL_STAT = {
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-05-19",
+      "gesamt": {
+        "tipps": 11,
+        "gewonnen": 7,
+        "verloren": 4,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 11.0,
+        "netto": 3.76,
+        "trefferquote": 63.6,
+        "roi_prozent": 34.2
+      },
+      "spiele": [
+        {
+          "id": "2026-05-19-bou-mci",
+          "liga": "Premier League",
+          "heim": "AFC Bournemouth",
+          "gast": "Manchester City",
+          "endstand": "1:1",
+          "tipps": [
+            {
+              "markt": "Sieg Manchester City",
+              "quote": 1.6,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Endstand 1:1 - kein City-Sieg. Haaland 90+5 Equalizer reichte nicht. Title-Druck-Maximum half nicht gegen Heim-Festung."
+            },
+            {
+              "markt": "Ueber 2.5 Tore (Bournemouth - Manchester City)",
+              "quote": 1.45,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Nur 2 Tore (Kroupi 39, Haaland 90+5) - Ueber 2.5 knapp gerissen."
+            },
+            {
+              "markt": "Erling Haaland Torschuetze jederzeit",
+              "quote": 1.55,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.55,
+              "kommentar": "Haaland 90+5 Tor (Equalizer via rechtem Pfosten nach Rodri-Lattenschuss)."
+            },
+            {
+              "markt": "Eli Junior Kroupi Torschuetze jederzeit",
+              "quote": 3.25,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 2.25,
+              "kommentar": "Kroupi 39 Karriere-Highlight-Curve in rechte Ecke."
+            }
+          ]
+        },
+        {
+          "id": "2026-05-19-che-tot",
+          "liga": "Premier League",
+          "heim": "Chelsea",
+          "gast": "Tottenham Hotspur",
+          "endstand": "2:1",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance Tottenham (Sieg oder Remis)",
+              "quote": 1.82,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Chelsea 2-1 Sieg - DC Spurs X2 gerissen. Chelsea-Form-Krise widerlegt durch Klassen-Edge, Spurs-Existenz-Druck reichte nicht."
+            },
+            {
+              "markt": "Ueber 2.5 Tore (Chelsea - Tottenham)",
+              "quote": 1.7,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.7,
+              "kommentar": "Endstand 2:1 = 3 Tore (Enzo 18, A.Santos 67, Richarlison 74) - Ueber 2.5 erfuellt."
+            },
+            {
+              "markt": "Cole Palmer Torschuetze jederzeit",
+              "quote": 2.3,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Palmer kein Tor. Chelsea-Tore von Enzo (CM) + Andrey Santos (CM/Sub) - Backup-CM nicht Palmer-Ersatz. Kein Einwechslungs-Boost: Palmer wurde nicht ausgewechselt (durchgespielt)."
+            },
+            {
+              "markt": "Richarlison Torschuetze jederzeit",
+              "quote": 3.1,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 2.1,
+              "kommentar": "Richarlison 74 Anschluss-Tor - Spurs-Notstuermer-Volumen-Edge bestaetigt."
+            }
+          ]
+        },
+        {
+          "id": "2026-05-19-nyk-cle",
+          "liga": "NBA Eastern Conference Finals",
+          "heim": "New York Knicks",
+          "gast": "Cleveland Cavaliers",
+          "endstand": "115:104 (OT)",
+          "tipps": [
+            {
+              "markt": "Sieg New York Knicks (Moneyline)",
+              "quote": 1.38,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.38,
+              "kommentar": "Knicks 115:104 in OT - 22-Pkt-Comeback in Q4. Brunson 38 Pkt."
+            },
+            {
+              "markt": "New York Knicks Spread -6.5",
+              "quote": 1.87,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.87,
+              "kommentar": "Knicks +11 (115:104 mit OT) - Spread -6.5 erfuellt. SportsLine-Modell bestaetigt."
+            },
+            {
+              "markt": "Ueber 217.5 Punkte Gesamt (Knicks - Cavaliers)",
+              "quote": 1.91,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.91,
+              "kommentar": "Total 219 > 217.5 (durch OT erreicht)."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe ~4.0x (Sieg-Trio drei Spiele)",
+          "kategorie": "safe",
+          "gesamtquote": 4.02,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Manchester City",
+              "quote": 1.6,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Doppelte Chance Tottenham X2",
+              "quote": 1.82,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Knicks ML",
+              "quote": 1.38,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance ~6.4x (Tor-Markt + Spielertor + NBA-Total)",
+          "kategorie": "balance",
+          "gesamtquote": 6.37,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.45,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Cole Palmer Torschuetze jederzeit",
+              "quote": 2.3,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 217.5 Punkte",
+              "quote": 1.91,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko ~19.2x (Underdog-Spielertor + NBA-Player-Punkte)",
+          "kategorie": "risk",
+          "gesamtquote": 19.24,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Eli Junior Kroupi Torschuetze jederzeit",
+              "quote": 3.25,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Richarlison Torschuetze jederzeit",
+              "quote": 3.1,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Jalen Brunson Ueber 33.5 Punkte",
+              "quote": 1.91,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot ~43.0x (Untertier-Spielertore + NBA-Player-Punkte) - keine 100x heute realistisch",
+          "kategorie": "moonshot",
+          "gesamtquote": 42.98,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Bernardo Silva Torschuetze jederzeit",
+              "quote": 4.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Conor Gallagher Torschuetze jederzeit",
+              "quote": 5.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Donovan Mitchell Ueber 30.5 Punkte",
+              "quote": 1.91,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-05-18",
       "gesamt": {
