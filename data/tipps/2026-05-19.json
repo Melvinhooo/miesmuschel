@@ -59,30 +59,6 @@
           "empfohlener_einsatz_prozent": 1.5,
           "einsatz_euro": 8.25,
           "begruendung": "Markt-Goldgrube Ueber 2.5 Tore (46.2% Hit / +40.6% ROI bei n=15 laut markt_goldgruben.json - stabilster ROI-Markt aktuell). City-Auswaerts-Form 12-4 Tore in 5 Spielen, Haaland 26 Saisontore, Doku/Cherki/Foden-Offensiv-Trio. Bournemouth Heim 4S-6U-0N = vielen Remis 1-1/2-2 zugaenglich (Tor-Wahrscheinlichkeit beidseitig hoch). Quote 1.45 = SAFE-Range. Kasse 8,25 EUR (1.5% Stufe 1)."
-        },
-        {
-          "id": "bou-mci-3",
-          "kategorie": "value",
-          "markt": "Erling Haaland Torschuetze jederzeit",
-          "prognose": "Haaland erzielt mindestens 1 Tor",
-          "quote": 1.55,
-          "edge_prozent": 4,
-          "faire_quote": 1.49,
-          "empfohlener_einsatz_prozent": 1.0,
-          "einsatz_euro": 5.5,
-          "begruendung": "HR24-Form-Edge-Pflicht erfuellt (2/3 Bedingungen): 26 PL-Tore Saison = Top-Form + Bournemouth-Defense ohne Christie/Jimenez/Traore/Akinmboni = Defense-Krise. Plus bet365-Einwechslungs-Boost: Cherki/Foden/Bernardo Silva sind Backup-Tor-Konversions-Risiko (Tore nach Haaland-Auswechslung zaehlen mit). Quote 1.55 zwar in SAFE-Range, aber Kategorie VALUE wegen Torschuetzen-Jederzeit-Hitrate-Stat ~50% historisch (markt_goldgruben.json hat Torschuetzen aktuell NICHT in Goldgrube-Liste - nur Ueber 2.5/Unter 2.5/DC 1X). Kasse 5,50 EUR (1.0% Stufe 1)."
-        },
-        {
-          "id": "bou-mci-4",
-          "kategorie": "wackel",
-          "markt": "Eli Junior Kroupi Torschuetze jederzeit",
-          "prognose": "Kroupi erzielt mindestens 1 Tor",
-          "quote": 3.25,
-          "edge_prozent": 6,
-          "faire_quote": 3.05,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 2.75,
-          "begruendung": "WACKEL Underdog-Volumen-Stuermer: Kroupi 12 Saisontore = Top-Bournemouth-Stuermer + Heim-Festung 16 ungeschlagen + City-Defense ohne Wackler (Khusanov/Guehi-Innenverteidigung jung). HR24 Form-Edge: 1/3 erfuellt (5+ Tore-Form). Quote 3.25 in WACKEL-Range (2.30-3.50). Kasse 2,75 EUR (0.5% Stufe 1)."
         }
       ],
       "kontext_check_status": "OK"
@@ -142,30 +118,6 @@
           "empfohlener_einsatz_prozent": 1.0,
           "einsatz_euro": 5.5,
           "begruendung": "Markt-Goldgrube Ueber 2.5 (46.2% Hit / +40.6% ROI bei n=15). Beidseitige Tor-Druck-Motivation: Chelsea Europa-Druck, Spurs Klassenerhalt-Antrieb. Beide Defense-Krisen (Chelsea ohne Lavia, Spurs ohne Romero) erhoehen Tor-Wahrscheinlichkeit. Quote 1.70 = knapp VALUE-Range. Kasse 5,50 EUR (1.0% Stufe 1)."
-        },
-        {
-          "id": "che-tot-3",
-          "kategorie": "wackel",
-          "markt": "Cole Palmer Torschuetze jederzeit",
-          "prognose": "Palmer erzielt mindestens 1 Tor",
-          "quote": 2.3,
-          "edge_prozent": 5,
-          "faire_quote": 2.19,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 2.75,
-          "begruendung": "WACKEL: Palmer = Chelseas Schluesselspieler offensiv, gegen dezimierte Tottenham-Defense (Romero out, Davies out, Notformation). HR24 1/3 erfuellt (Position-Volume-OM). Wackel statt Value: Palmer als OM/AOM hat Torschuetzen-Position-Risk + Chelsea-Form-Krise drueckt Offensiv-Output. Quote 2.30 = Start WACKEL-Range. Kasse 2,75 EUR (0.5% Stufe 1)."
-        },
-        {
-          "id": "che-tot-4",
-          "kategorie": "wackel",
-          "markt": "Richarlison Torschuetze jederzeit",
-          "prognose": "Richarlison erzielt mindestens 1 Tor",
-          "quote": 3.1,
-          "edge_prozent": 7,
-          "faire_quote": 2.9,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 2.75,
-          "begruendung": "WACKEL: Richarlison als einziger fitter Spurs-Mittelstuermer (Solanke/Kudus out) = Notloesung mit Volume-Edge. Spurs muss Punkten (Existenz-Druck) + beidseitige Defense-Schwaeche. HR24 2/3 erfuellt (Position-9er + Gegner-Defense-Krise Chelsea ohne Lavia). Backup-Stuermer-Boost (Tel/Kolo Muani Subs zaehlen). Quote 3.10 in WACKEL-Range. Kasse 2,75 EUR (0.5% Stufe 1)."
         }
       ],
       "kontext_check_status": "OK"
@@ -206,7 +158,7 @@
       "tipps": [
         {
           "id": "nyk-cle-1",
-          "kategorie": "safe",
+          "kategorie": "value",
           "markt": "Sieg New York Knicks (Moneyline)",
           "prognose": "Knicks gewinnen Spiel regular",
           "quote": 1.38,
@@ -214,11 +166,12 @@
           "faire_quote": 1.3,
           "empfohlener_einsatz_prozent": 2.0,
           "einsatz_euro": 11.0,
-          "begruendung": "Klare Recovery-Edge SAFE: 9 Tage Pause vs 2 Tage Muede + Heimvorteil MSG + Cavs 1-5 Road-Bilanz Playoffs + Anunoby probable (Defense intakt). G1 ECF nicht Decider-Filter (G5-G7 max WACKEL) - G1-G4 frei. Historisch frischer-Heim-Team vs muede 22-6 SU. Quote 1.38 = SAFE-Range untere Haelfte. NBA-SAFE-selten-Caveat: hier durch Recovery-Asymmetrie + Heim-Sweep-Momentum + intakte Lineups legitim. Kasse 11 EUR (2.0% Stufe 1)."
+          "begruendung": "Klare Recovery-Edge SAFE: 9 Tage Pause vs 2 Tage Muede + Heimvorteil MSG + Cavs 1-5 Road-Bilanz Playoffs + Anunoby probable (Defense intakt). G1 ECF nicht Decider-Filter (G5-G7 max WACKEL) - G1-G4 frei. Historisch frischer-Heim-Team vs muede 22-6 SU. Quote 1.38 = SAFE-Range untere Haelfte. NBA-SAFE-selten-Caveat: hier durch Recovery-Asymmetrie + Heim-Sweep-Momentum + intakte Lineups legitim. Kasse 11 EUR (2.0% Stufe 1). [Auto: Saison-Kontext-Sanity - Belastungs-Warnung (Recovery) -> safe->value]",
+          "_saison_kontext_sanity_downgrade": true
         },
         {
           "id": "nyk-cle-2",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "New York Knicks Spread -6.5",
           "prognose": "Knicks gewinnen mit mind. 7 Pkt Differenz",
           "quote": 1.87,
@@ -226,7 +179,8 @@
           "faire_quote": 1.78,
           "empfohlener_einsatz_prozent": 1.5,
           "einsatz_euro": 8.25,
-          "begruendung": "SportsLine-Modell explizit 'Knicks -6.5'. Spread-Aggregat-Goldgrube (+20.5% ROI / 70% Hit historisch). HR19-Vorsicht (G1+G2 oft knappe Margen): -6.5 ist grenzwertig aber Recovery-Asymmetrie (9 vs 2 Tage) rechtfertigt Modell-Margen-Vorhersage. VALUE statt SAFE wegen HR19-Caveat. Kasse 8,25 EUR (1.5% Stufe 1)."
+          "begruendung": "SportsLine-Modell explizit 'Knicks -6.5'. Spread-Aggregat-Goldgrube (+20.5% ROI / 70% Hit historisch). HR19-Vorsicht (G1+G2 oft knappe Margen): -6.5 ist grenzwertig aber Recovery-Asymmetrie (9 vs 2 Tage) rechtfertigt Modell-Margen-Vorhersage. VALUE statt SAFE wegen HR19-Caveat. Kasse 8,25 EUR (1.5% Stufe 1). [Auto: Saison-Kontext-Sanity - Belastungs-Warnung (Recovery) -> value->wackel]",
+          "_saison_kontext_sanity_downgrade": true
         },
         {
           "id": "nyk-cle-3",
