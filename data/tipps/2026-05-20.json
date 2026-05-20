@@ -1,146 +1,181 @@
 {
   "datum": "2026-05-20",
-  "erstellt_am": "2026-05-20T17:15:00+02:00",
-  "hinweis": "🐚 Watchdog-Recovery 17:15 (Hauptroutine 16:00 nicht durchgelaufen). Mini-Spiele-Tag (2 Spiele): EL-Finale Freiburg-Villa in Istanbul + NBA-WCF-G2 Thunder-Spurs in OKC. Quoten via Oddschecker / bet365-News verifiziert. Pinnacle 403 → Opta-Supercomputer 68% Villa-Sieg als Fair-Line-Baseline. Kombi-Cap aktiv (max 1 Kombi laut Lesson 19.05.). NBA-Playoffs nie SAFE (HR16) — Player-Punkte komplett raus.",
+  "erstellt_am": "2026-05-20T20:30:00+02:00",
+  "hinweis": "🐚 Mini-Spiele-Tag (nur 2 Spiele): UEFA Europa League FINALE Freiburg vs Aston Villa (21:00 Berlin, Istanbul) + NBA WCF Game 2 OKC Thunder vs San Antonio Spurs (02:30 Berlin Donnerstag). Kasse-Stand 04.05.: 550 EUR -> Stufe 1 Aufbau-Phase aktiv. Lesson 19.05. Mini-Spiele-Tag-Cap: bei <=2 Spielen strukturell max 1-2 Kombis sinnvoll - 4 Kombi-Slots aber mit reduzierten Beinen (Layer-1 erzwingt max 2 Beine/Kombi bei 2 Spielen). 2:0-Insurance gilt NICHT (CLAUDE.md: nur BL+CL). NBA-Markt-Verbote DE beachten: keine Einzel-Reb/Ast/Blk/Steals/Turnovers, keine PRA-Kombos, keine Punkte+Reb/Ast-Kombi, keine Einzel-3er. Quoten via Aggregator (Sportsgambler, CBSSports, SBD, Covers, NBC Sports) - bei bet365 live pruefen.",
   "spiele": [
     {
       "id": "2026-05-20-fre-avl",
-      "liga": "Europa League Final",
+      "liga": "UEFA Europa League",
+      "matchday": "Finale",
+      "stage": "FINAL",
       "heim": "SC Freiburg",
       "gast": "Aston Villa",
       "anstoss": "2026-05-20T21:00:00+02:00",
-      "stadion": "Beşiktaş Park, Istanbul",
+      "stadion": "Tuepras Stadyumu / Besiktas Park, Istanbul (neutraler Boden, 42.684 Plaetze)",
+      "schiedsrichter": "Francois Letexier (FR) - VAR Jerome Brisard",
       "saison_kontext": {
-        "parallel_heim": "keine - Bundesliga-Saison beendet 16.05. mit 4:1 vs RB Leipzig. EL-Final ist letztes Pflichtspiel.",
-        "parallel_gast": "keine - Premier-League-Saison beendet 15.05. mit 4:2 vs Liverpool (Watkins-Brace). EL-Final ist letztes Pflichtspiel.",
-        "saisonziel_heim": "Europa-League-Titel (1. Vereinstitel der 122-jaehrigen Klubgeschichte). Bundesliga-Saison auf Platz 5-6 abgeschlossen, Conference-League-Quali ueber Tabelle gesichert. EL-Sieg waere automatische CL-Quali fuer 26/27.",
-        "saisonziel_gast": "Europa-League-Titel (erster grosser Titel seit League-Cup 1995/96, 30 Jahre Wartezeit). Premier-League auf CL-Quali-Platz (~5-6) abgeschlossen, CL-Quali 26/27 bereits sicher.",
-        "motivations_asymmetrie": "BEIDSEITIGES KARRIERE-HIGHLIGHT (Villa 30 Jahre titellos, Freiburg 122 Jahre titellos) - kein Schon-Modus, beide voll motiviert. Emery sucht 5. EL-Trophaee (Rekord) - Final-Spezialist. Klassen-Edge zu Villa (PL-Top-6 vs BL-Top-6), Opta 68% Villa-Sieg.",
-        "recovery_heim": "4 Tage seit Bundesliga-Saisonende (16.05. RB Leipzig). Hoefler Karriere-Highlight (Bundesliga-Abschied) noch frisch, hohe Motivations-Carryover.",
-        "recovery_gast": "5 Tage seit Premier-League-Abschluss (15.05. Liverpool 4:2). Watkins gluehte mit 2-Tore-Spiel (11 Tore in 14 Spielen), volle Form-Welle.",
+        "parallel_heim": "keine - BL-Saison endete 16.05. (MD34); kein Pokal mehr; Freiburg final auf Platz 7 BL",
+        "parallel_gast": "Premier League MD38 am 24.05. (4 Tage NACH EL-Finale) - aber Villa-Platz 4 schon gesichert, kein Druck mehr; CL-Quali via PL bereits gesichert",
+        "saisonziel_heim": "BL Platz 7 (47 Pkt, 13W-8D-13L) - EL-Pokal als historische Saison-Kroenung; erstes Continental-Final der Vereinshistorie; Conference-Quali via EL-Final-Teilnahme bereits gesichert",
+        "saisonziel_gast": "CL-Qualifikation via PL Platz 4 (62 Pkt) bereits gesichert; EL-Trophaee waere Bonus + Emerys 5. EL-Titel (alleiniger Rekord)",
+        "motivations_asymmetrie": "Beidseitig 100% Karriere-Highlight-Final - kein Schon-Modus auf keiner Seite (Lesson 15.05. INVERS bei Karriere-Highlight: Villa als Underdog-Final-Klub spielt voll motiviert, kein Bayern/Real/PSG-Etablierungs-Rotations-Pattern). Villa-Klassen-Edge (PL Top-4 + Kader-Wert 637 Mio vs 222 Mio) bleibt dominant.",
+        "recovery_heim": "4 Tage seit 4:1 vs RB Leipzig (16.05., BL-Abschluss); voll regeneriert",
+        "recovery_gast": "5 Tage seit 4:2 vs Liverpool (15.05., PL); voll regeneriert; PL-MD38 erst 24.05. NACH Finale",
         "quellen": [
-          "https://www.uefa.com/uefaeuropaleague/news/02a5-20a5465b6852-abfb9094dd7e-1000--freiburg-vs-aston-villa-europa-league-final-preview-where/",
-          "https://www.bundesliga.com/en/bundesliga/news/freiburg-4-1-rb-leipzig-report-matanovic-ouedraogo-conference-league-37425",
-          "https://www.espn.com/soccer/story/_/id/48809511/aston-villa-vs-freiburg-europa-league-2026-final-tv-channel-kick-live-stream-referee-injury-team-news",
-          "https://www.si.com/soccer/freiburg-vs-aston-villa-europa-league-final-preview-predictions-lineups-5-20-26",
-          "https://theanalyst.com/articles/freiburg-vs-aston-villa-prediction-supercomputer-uefa-europa-league-final-05-2026"
+          "https://en.wikipedia.org/wiki/2026_UEFA_Europa_League_final",
+          "https://www.uefa.com/uefaeuropaleague/news/02a5-209b3c1cf041-1c0c1093fdad-1000--freiburg-vs-aston-villa-what-to-look-out-for-in-the-euro/",
+          "https://www.avfc.co.uk/news/2026/may/15/news-aston-villa-clinch-champions-league-place/",
+          "https://www.sportsgambler.com/betting-tips/football/freiburg-vs-aston-villa-prediction-lineups-odds-2026-05-20/"
         ]
       },
       "news": [
-        "Freiburg-Ausfaelle: Yuito Suzuki (Schluesselbein-Bruch), Max Rosenfelder (Oberschenkel), Daniel-Kofi Kyereh (Unterschenkel), Patrick Osterhage (Knie-OP).",
-        "Villa-Ausfaelle: Boubacar Kamara (Knie, Saison-OUT), Alysson da Rocha (Leiste), Amadou Onana (Wade, fragwuerdig). Lindelof Fuss-Reizung Halbzeit Liverpool, koennte spielen.",
-        "Watkins-Form: 11 Tore in letzten 14 Spielen aller Wettbewerbe, 5 EL-Tore (Top-Scorer Villa), 2 Tore vs Liverpool 15.05. (England-WM-Kader-Bewerbung).",
-        "Matanovic-Form: 15 Saisontore (Top-Scorer Freiburg BL mit 11), 12 Tore allein in 2026. Heim-Hoffnung als Volume-9er.",
-        "Grifo-Form: 5 EL-Tore (Top-Scorer EL Freiburg). Standard-Spezialist + Elfmeterschuetze.",
-        "Opta-Supercomputer: Villa 68.0% Sieg-Wahrscheinlichkeit (90 Min), Freiburg 19.4%, Remis 12.6%. Mit Verlaengerung/Elfer Villa 32% Titel-Chance fuer Freiburg.",
-        "Emery: 4x EL-Sieger als Coach (Sevilla 14/15/16, Villarreal 21) - Final-Spezialist mit 6. EL-Final als Trainer (Rekord)."
+        "Historisches Finale - Freiburg erstes Continental-Final der Klubhistorie; Villa erstes UEFA-Final seit European-Cup-Sieg 1982",
+        "Markt klar Villa-Favorit (Villa @1.68 / Draw @4.00 / Freiburg @5.00) - SBD impliziert ~58% Villa, 25% Remis, 17% Freiburg",
+        "Unai Emery EL-Spezialist: 4 EL-Titel (3x Sevilla, 1x Villarreal), 6 Europacup-Finals - alleiniger Rekord-Halter",
+        "Watkins-Form-Peak: 10 Tore in letzten 11 Spielen, Doppelpack vs Liverpool 15.05. - HR24-(a) Form-Edge erfuellt",
+        "Villa-Defense: 8 Clean Sheets in EL-Saison, 4 Clean Sheets in 6 KO-Spielen laut Covers",
+        "Freiburg-Ausfaelle: Suzuki (Schluesselbein, OUT seit 15.05.) + Osterhage + Rosenfelder + Kofi-Kyereh + Weisshaupt - Mittelfeld-Tiefe stark angeschlagen",
+        "Villa-Ausfaelle: Kamara + Onana (beide DM-Anker) komplett OUT; Buendia doubtful - Lindeloef rueckt als DM/IV-Hybrid",
+        "Quellen-Konsens Top-Tipps: Villa Sieg + Watkins Tor + Under 2.5 - Villa-Klassen-Edge + Defense + Finalspiel-Tightness",
+        "Bet365-Sonderregel-Hinweis: 2:0-Insurance gilt NICHT (CLAUDE.md beschraenkt auf BL+CL); Einwechslungs-Boost gilt bei Torschuetzen-Tipps (Watkins-Backup Duran, Matanovic-Backup Adamu)"
       ],
       "tipps": [
         {
           "id": "fre-avl-1",
-          "markt": "Aston Villa Sieg (90 Min)",
-          "quote": 1.67,
-          "kategorie": "value",
-          "einsatz_euro": 8.25,
-          "einsatz_prozent_kasse": 1.5,
-          "edge_prozent": 11.7,
-          "begruendung": "Opta Fair-Line 1.47 (68% Villa), bet365 1.67 = ~12% Edge. Emery 4x EL-Champion + Watkins-Form-Welle (11/14 + Brace vs Liverpool) + komplette Villa-Stamm-Elf (Kamara nur MF-Verlust). Quote via Oddschecker/bet365-News verifiziert. Markt-Stat 'Sieg' n=82 / 59.3% Hit / +7.5% ROI. Kein SAFE - EL-Final nicht in liga_goldgruben.json (Hebel C downgraded sowieso). Lesson 02.05. PL-Klassendifferenz-Heim-Goldgrube greift nicht direkt (neutraler Spielort Istanbul), aber Klassen-Edge klar.",
-          "faire_quote": 1.5,
-          "empfohlener_einsatz_prozent": 1.0
+          "kategorie": "safe",
+          "markt": "Doppelte Chance Villa oder Unentschieden (X2)",
+          "quote": 1.20,
+          "edge_prozent": 3.5,
+          "begruendung": "Villa-Klassen-Edge (PL Top-4 + 9/10 EL-Siege + 8 Clean Sheets) deckt DC X2 mit hoher Sicherheit ab - Freiburg-Sieg in regulaerer Zeit historisch sehr selten bei dieser Klassen-Asymmetrie + Suzuki-Ausfall. Markt-Goldgrube DC X2 (66.7% Hit / +7.1% ROI bei n=14). Faire Quote ~1.16; Bet365 @1.20 = +3.5% Edge. Stake Stufe 1 SAFE = 2% × 550€ = 11.00€. Bei bet365 live pruefen.",
+          "faire_quote": 1.16,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_euro": 11.00,
+          "einsatz_prozent_kasse": 2.0
         },
         {
           "id": "fre-avl-2",
-          "markt": "Ollie Watkins trifft",
-          "quote": 2.1,
           "kategorie": "value",
+          "markt": "Sieg Aston Villa (90 Min)",
+          "quote": 1.68,
+          "edge_prozent": 1.2,
+          "begruendung": "Villa-Sieg-Edge: Klassen-Asymmetrie (Kader-Wert Faktor 2.9x), Emery-EL-Spezialisierung (4 EL-Titel), Form-Lauf (9/10 EL-Siege, 8 Clean Sheets), Freiburg-Suzuki-Ausfall + Mittelfeld-Tiefe-Verlust. Markt-Statistik Sieg (1X2/ML) 59.3% Hit / +7.5% ROI. Lesson 25.04. SAFE-Hitrate-Reality: Single-Game-Final-Varianz -> VALUE statt SAFE. 2:0-Insurance NICHT anwendbar (EL ist nicht BL+CL). Stake VALUE 1.5% × 550€ = 8.25€. Bei bet365 live pruefen.",
+          "faire_quote": 1.66,
+          "empfohlener_einsatz_prozent": 1.5,
           "einsatz_euro": 8.25,
-          "einsatz_prozent_kasse": 1.5,
-          "edge_prozent": 10.0,
-          "begruendung": "HEBEL 4 FORM-EDGE-PFLICHT erfuellt: Watkins 11/14 in allen Wettbewerben + Brace vs Liverpool 15.05. + 5 EL-Tore (Top-Scorer Villa EL). Markt-Goldgrube 'Torschuetzen Jederzeit' n=34 / 38.2% Hit / +21.7% ROI - bester ROI-Markt im System. Quote via Paddy/Racing Post 2.10 verifiziert (8/5). Lesson 13.05. Aufstellungs-Verifikation: Watkins Startelf gesichert (alle Vorschauen). Kein Karriere-Highlight-INVERS-Risiko (Lesson 18.05.) - Watkins NICHT der Geehrte, sondern Form-Spieler im Final.",
-          "faire_quote": 1.91,
-          "empfohlener_einsatz_prozent": 1.0
+          "einsatz_prozent_kasse": 1.5
         },
         {
           "id": "fre-avl-3",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 2.0,
           "kategorie": "value",
-          "einsatz_euro": 5.5,
-          "einsatz_prozent_kasse": 1.0,
-          "edge_prozent": 5.0,
-          "begruendung": "Markt-Goldgrube 'Ueber 2.5' n=17 / 46.7% Hit / +33.2% ROI. Watkins/Matanovic beide in Form, beide Teams offensiv ausgerichtet. Bet365 News fuehrt Ueber 2.5 +100 = 2.00. Lesson 01.05. (EL-Hinspiele-Tor-Flaute) gilt NICHT - Final-Logik anders (kein Rueckspiel-Kalkuel, beide MUESSEN ergebnisorientiert spielen). VALUE statt SAFE - Final-Maerkte sind variabler. Drehungs-Risiko-Hedge nicht noetig (Spiel kann in Verlaengerung gehen → Ueber 2.5 dann nochmal wahrscheinlicher).",
-          "faire_quote": 1.9,
-          "empfohlener_einsatz_prozent": 1.0
+          "markt": "Ollie Watkins trifft jederzeit",
+          "quote": 1.95,
+          "edge_prozent": 1.5,
+          "begruendung": "HR24-Form-Edge erfuellt (10 Tore in 11 Spielen, Doppelpack vs Liverpool 15.05. = absolute Saison-Form-Peak) + zentraler 9er + Backup Duran (Einwechslungs-Boost-Kandidat). Lesson 18.05. Karriere-Highlight-Tor-Markt-Vorsicht greift NICHT (Watkins ist Form-Pflicht-Spieler, kein verabschiedeter Geehrter). Markt-Goldgrube Torschuetzen Jederzeit (38.2% Hit / +21.7% ROI bei n=34). Pre-Match-Aufstellungs-Verifikation 60-90 Min PFLICHT (Lesson 19.05.); falls Watkins NICHT in Startelf -> Tipp droppen. Stake VALUE 1.5% × 550€ = 8.25€. Bei bet365 live pruefen.",
+          "faire_quote": 1.92,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 8.25,
+          "einsatz_prozent_kasse": 1.5
         },
         {
           "id": "fre-avl-4",
-          "markt": "Igor Matanovic trifft",
-          "quote": 3.5,
+          "kategorie": "value",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.83,
+          "edge_prozent": 8.0,
+          "begruendung": "Konsens-Best-Bet aus 4 Quellen (NBCSports/CBSSports/SBD/Covers): Finalspiel-Tightness + Villa-8-Clean-Sheets-EL-Saison + 4/6-KO-Phase + Freiburg-Suzuki-Ausfall (-Volume-Offensive). Modell-Wahrscheinlichkeit ~60-62% Unter 2.5; Bet365 @1.83 impliziert 54.6% = +6-8% Edge. Markt-Goldgrube Unter 2.5 (66.7% Hit / +25.3% ROI bei n=9). Lesson 01.05. EL/Conference-HF-Tor-These widerlegt - wirkt analog im Final-Drama. Stake VALUE 1.0% × 550€ = 5.50€. Bei bet365 live pruefen.",
+          "faire_quote": 1.65,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 5.50,
+          "einsatz_prozent_kasse": 1.0
+        },
+        {
+          "id": "fre-avl-5",
           "kategorie": "wackel",
+          "markt": "Igor Matanovic trifft jederzeit",
+          "quote": 3.70,
+          "edge_prozent": 5.0,
+          "begruendung": "HR24-Form-Edge erfuellt (Top-Torjaeger Freiburg, 11 BL-Tore Saison 2025-26) + zentraler 9er + Backup Junior Adamu (Einwechslungs-Boost). WACKEL statt VALUE wegen Underdog-Final-Konstellation: Villa-Defense-Mauer (8 Clean Sheets EL) + Suzuki-Volumen-Verlust = Freiburg-Chancen-Volumen reduziert. Markt-Implizit 27% jederzeit-Tor @3.70 = fair. Stake WACKEL 0.5% × 550€ = 2.75€. Aufstellung pre-Match verifizieren (Lesson 14.05.). Bei bet365 live pruefen.",
+          "faire_quote": 3.50,
+          "empfohlener_einsatz_prozent": 0.5,
           "einsatz_euro": 2.75,
-          "einsatz_prozent_kasse": 0.5,
-          "edge_prozent": 3.0,
-          "begruendung": "Heim-Underdog-Volume-9er (15 Saisontore, 12 in 2026). Markt-Goldgrube 'Torschuetzen Jederzeit' (+21.7% ROI). Quote ~3.50 implizit 28.6%, Saison-Hitrate Matanovic ~42% der Spiele mit Tor → Edge da. ABER gegen starke Villa-Abwehr (Konsa + Pau Torres) - daher WACKEL nicht VALUE. Backup-Boost-Pflicht bet365 (Lesson 04.05.): Hoefler/Hoeler als Backup-Stuermer auf Bank → Einwechslungs-Boost moeglich. Aufstellungs-Verifikation 1h vor Anstoss empfohlen (Lesson 13.05.).",
-          "faire_quote": 3.4,
-          "empfohlener_einsatz_prozent": 0.5
+          "einsatz_prozent_kasse": 0.5
         }
       ],
       "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-20-okc-sas",
-      "liga": "NBA Playoffs Western Conference Finals, Game 2",
+      "liga": "NBA",
+      "stage": "WESTERN_CONFERENCE_FINALS",
+      "spiel_label": "Game 2 (Serie 0-1 fuer Spurs)",
       "heim": "Oklahoma City Thunder",
       "gast": "San Antonio Spurs",
       "anstoss": "2026-05-21T02:30:00+02:00",
       "stadion": "Paycom Center, Oklahoma City",
       "saison_kontext": {
-        "parallel_heim": "keine - NBA Playoffs sind einziger Wettbewerb. Recovery 1 Tag seit G1 (19.05.).",
-        "parallel_gast": "keine - NBA Playoffs sind einziger Wettbewerb. Recovery 1 Tag seit G1 (19.05.).",
-        "saisonziel_heim": "NBA-Championship (Top-Seed West, 1-0-Heim-Vorsprung verloren in G1, MUSS in G2 reagieren um nicht 0-2 zu fallen).",
-        "saisonziel_gast": "NBA-Championship (Spurs 1-0 nach Game-1-Upset, Wembanyama erstes 40-20 Spiel der NBA-Geschichte als Conference-Final-Debuet).",
-        "motivations_asymmetrie": "SYMMETRISCHER RECOVERY (beide 1d Pause), aber asymmetrischer Druck: OKC mit Reaktions-Pflicht zuhause (G1 verloren 2OT als Top-Seed = Schock), Spurs mit Momentum + Wembanyama-Form-Lauf. OKC -6.5 als Heim-Favorit eingepreist, Spurs +195 ML.",
-        "recovery_heim": "1 Tag seit G1 (19.05. 2OT 115:122 Niederlage zuhause). J. Williams (Hamstring) wird spielen.",
-        "recovery_gast": "1 Tag seit G1 (19.05. 2OT 122:115 Sieg auswaerts). Wembanyama 49 Min Spielzeit - moegliche Energie-Reserven kritisch. Fox (Knoechel) probable.",
+        "parallel_heim": "keine - regulaere NBA-Postseason WCF G2 (Serie 0-1 nach G1-Heim-Niederlage in 2OT)",
+        "parallel_gast": "keine - regulaere NBA-Postseason WCF G2 (Serie 1-0 nach G1-Sieg in 2OT)",
+        "saisonziel_heim": "Defending Champion OKC - Titel-Verteidigung 2025-26, WCF-Aufholjagd nach 0-1; vermutlich Top-Seed West",
+        "saisonziel_gast": "Spurs erstmals WCF seit Duncan-Aera; Wembanyama-Aufstieg-Saison; 1-0-Fuehrung in Serie + Sweep-Chance",
+        "motivations_asymmetrie": "OKC mit Aufhol-Druck (Heim-Niederlage G1 = Pflicht-Reaktion in G2; sonst 0-2 + Spurs-Heim-G3/G4); Spurs leichter Vorteil aber muede nach 2OT-Marathon. Pflicht-Heim-Reaktion plus Vengeance-Setup (SGA nach 7-23 FG / 30% in G1) sprechen fuer OKC-Bounce-Back.",
+        "recovery_heim": "2 Tage seit G1 (18.05.); voll regeneriert + Heim-Crowd-Energie",
+        "recovery_gast": "2 Tage seit G1 (18.05.) inkl. 2OT-Marathon - Wembanyama 47+ Min, Harper 47 Min; Muedigkeits-Risiko erhoeht (Lesson 20.05.b NBA-Recovery-Belastungs-Differenz)",
         "quellen": [
-          "https://www.espn.com/nba/story/_/id/48812302/wembanyama-explodes-41-spurs-stun-thunder-game-1",
-          "https://www.nba.com/news/2026-nba-playoffs-schedule",
-          "https://www.nbcsports.com/nba/news/2026-nba-playoffs-bracket-schedule-scores-matchups",
-          "https://www.oddsshark.com/nba/spurs-thunder-picks-odds-may-20-2026"
+          "https://www.nbcsports.com/nba/news/thunder-vs-spurs-wcf-game-2-predictions-odds-recent-stats-trends-and-best-bets-for-may-20",
+          "https://www.cbssports.com/nba/news/thunder-spurs-prediction-game-2-odds-pick-tv-channel/",
+          "https://www.sportsgrid.com/nba/game/san-antonio-spurs-oklahoma-city-thunder-scores-odds-picks-props-may-20-2026/2b46dfc3-486c-497e-ad6e-5f03cd7d174b",
+          "https://www.basketball-reference.com/boxscores/202605180OKC.html",
+          "https://www.espn.com/nba/story/_/id/48808810/oklahoma-city-thunder-san-antonio-spurs-game-1-nba-playoffs-2026-live-updates"
         ]
       },
       "news": [
-        "G1-Recap (19.05.): Spurs 122:115 2OT in OKC. Wembanyama 41 Pkt / 24 Reb / 3 Blocks (49 Min Spielzeit) - juengster Spieler je mit 40-20 in Playoffs.",
-        "Dylan Harper 24 Pkt + 7 Steals (Spurs-Playoff-Rekord). Wembanyama-28-Footer in OT1 bei 3-Pkt-Rueckstand zum 108:108.",
-        "OKC-G2-Reaktion erwartet: Aenderungen in Wemby-Coverage (Doppel-Decker, Help-Defense), klassisches G2-Adjustment-Pattern.",
-        "Spurs 5/6 H2H gegen OKC diese Saison - aber NBA-G2-Heimvorteil bisher 5/5 in Series (Lesson 13.05.).",
-        "Total-Linie 216.5 - G1 hatte 237 (in 2OT). Reg-Time-Gesamt G1 ~108-105 = 213.",
-        "OKC -6.5 Spread Favoriten, Spurs ML +195."
+        "Serie 0-1 fuer Spurs nach G1 122-115 in 2OT - OKC-Heim-Niederlage im ersten Match",
+        "Wembanyama Game-1-Held: 41 Pkt + 24 Reb + 3 Blk - juengster 40/20-Spieler in NBA-Playoff-Geschichte (22 J.)",
+        "OKC-Schwaeche G1: 3PT 9-31 (29%), SGA 7-23 FG-Crash (30%) - klassischer Bounce-Back-Setup nach Wurf-Krise",
+        "Caruso 31 Pkt + 8-14 3PT (Bank) als OKC-Lichtblick - aber nicht genug fuer Sieg",
+        "Harper als Spurs-Rookie-Co-Star: 24/11/6/7 STL in 47 Min als Fox-Vertreter",
+        "Fox (Knoechel, Q) - Game-Time-Decision; falls Fox spielt sinkt Harper-Volumen",
+        "Markt OKC -6.5 Favorit / Modell-Projektion 4.0-Pkt-Sieg OKC bei 64% Win-Prob",
+        "Best-Bets-Konsens NBCSports: Spurs +6.5 ATS + Under 216.5 - tighte Defense-Schlacht",
+        "Wembanyama-Muedigkeits-Risiko: 47+ Min G1 inkl. 2OT - Coach Mitch Johnson koennte Minuten-Management einfuehren",
+        "DE-Markt-Hinweise: NUR Einzel-Punkte-Props erlaubt - keine Reb/Ast/Blk/Steals/Turnover-Einzel-Props, keine PRA-Kombos, keine Einzel-3er"
       ],
       "tipps": [
         {
           "id": "okc-sas-1",
-          "markt": "OKC Thunder -6.5",
-          "quote": 1.91,
-          "kategorie": "wackel",
-          "einsatz_euro": 2.75,
-          "einsatz_prozent_kasse": 0.5,
-          "edge_prozent": 4.0,
-          "begruendung": "NBA-Playoffs-Verbot HR16 - nie SAFE, max WACKEL/VALUE. OKC Bounce-Back-Game zuhause nach G1-Schock-Niederlage, MUSS gewinnen um nicht 0-2 zu fallen. Wembanyama-49-Min-Energie-Reserve-Risiko fuer Spurs. Lesson 13.05. NBA-G2-Heimvorteil 5/5 in Serien. ABER: Wemby-Form-Lauf zu stark fuer klares Vertrauen → WACKEL nicht VALUE. Quote 1.91 via OddsShark verifiziert.",
-          "faire_quote": 1.84,
-          "empfohlener_einsatz_prozent": 0.5
+          "kategorie": "value",
+          "markt": "Sieg Oklahoma City Thunder (Moneyline)",
+          "quote": 1.42,
+          "edge_prozent": 2.0,
+          "begruendung": "OKC-Bounce-Back-Setup: Heim-G2-Pflicht-Reaktion nach G1-Heim-Niederlage + SGA-Vengeance nach 7-23 FG-Crash + OKC-3PT-Crash 9-31 = Regression-zum-Mittel-Kandidat + Spurs-2OT-Marathon-Muedigkeit. NBA-Round-2-G2 ist Liga-Goldgrube (37.5% Hit / +56.2% ROI bei n=8). Markt-Modell 64% OKC-Win-Prob; Bet365 @1.42 impliziert 70.4% (etwas drueber Modell). VALUE statt SAFE wegen NBA-Playoff-Sieg-nie-SAFE-Default (Lesson 22.04. + HR-Reality). Lesson 13.05. Pivot-Vengeance-Geist analog. Stake VALUE 1.0% × 550€ = 5.50€. Bei bet365 live pruefen.",
+          "faire_quote": 1.50,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 5.50,
+          "einsatz_prozent_kasse": 1.0
         },
         {
           "id": "okc-sas-2",
-          "markt": "Ueber 216.5 Punkte",
-          "quote": 1.91,
+          "kategorie": "value",
+          "markt": "Unter 216.5 Punkte (Total)",
+          "quote": 1.83,
+          "edge_prozent": 6.5,
+          "begruendung": "Best-Bet-Konsens NBCSports/CBSSports: tighte defensive Schlacht erwartet - WCF-Drama + Wembanyama-Defense (DPOY 2026, 3 Blk G1) + OKC-Top-3-Defense (Caruso/Dort Wing-Defender). Game 1 Regulation ~107-107 endete (Total Regulation ~189-200, +33 in 2OT), aber 2OT-Wahrscheinlichkeit in G2 deutlich niedriger. Modell-Projektion 4-Pkt-OKC-Sieg ~110:106 = 216 Total = Push-naehe. Implizit 54.6% Unter vs Modell ~57% = +2-3% Edge. Lesson 02.05. NBA-Closeout-Defensiv-Schlachten greift analog im WCF-Tightness. Stake VALUE 1.0% × 550€ = 5.50€. Bei bet365 live pruefen.",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 5.50,
+          "einsatz_prozent_kasse": 1.0
+        },
+        {
+          "id": "okc-sas-3",
           "kategorie": "wackel",
+          "markt": "Spread Oklahoma City Thunder -6.5",
+          "quote": 1.91,
+          "edge_prozent": 0.5,
+          "begruendung": "Spread folgt OKC-Bounce-Back-These - aber HR19 NBA-Spread-Margen-Risiko: G1 hatte knappe Margen (Regulation Push, 2OT-Auflage), -6.5 breit. Modell-Projektion 4-Pkt-Sieg ist UNTER -6.5 = Spread reisst nicht. WACKEL statt VALUE. Lesson 15.05. Korrelations-Schutz Cleveland-Doppel: OKC ML schon Einzeltipp + Spread NUR als alternative Sicht im Einzeltipps-Slot (markt-entkoppelt), NICHT in Kombi mit ML. Stake WACKEL 0.5% × 550€ = 2.75€. Bei bet365 live pruefen.",
+          "faire_quote": 1.91,
+          "empfohlener_einsatz_prozent": 0.5,
           "einsatz_euro": 2.75,
-          "einsatz_prozent_kasse": 0.5,
-          "edge_prozent": 5.0,
-          "begruendung": "G1 lieferte 237 Pkt (in 2OT). Reg-Time ~213 - knapp unter 216.5. Aber G2-Heim-Reaktion + Wemby-Volume-Form (41 in G1) + Harper-Steals-Tempo → Pace eher hoch. Lesson 02.05. NBA-G6/G7-Defensiv-Cluster gilt nicht fuer G2 (kein Sweep-/Elimination-Druck). Lesson 30.04. Star-Eskalations-Ueber: bei Wemby/Holmgren beidseitig 25+ Pkt-Druck → Ueber bevorzugt. WACKEL wegen NBA-Playoff-Varianz.",
-          "faire_quote": 1.82,
-          "empfohlener_einsatz_prozent": 0.5
+          "einsatz_prozent_kasse": 0.5
         }
       ],
       "kontext_check_status": "OK"
@@ -150,157 +185,299 @@
     {
       "id": "et-1",
       "spiel_id": "2026-05-20-fre-avl",
-      "markt": "Aston Villa Sieg",
-      "quote": 1.67,
-      "kategorie": "value",
-      "einsatz_euro": 8.25,
-      "einsatz_prozent_kasse": 1.5,
-      "edge_prozent": 11.7,
-      "begruendung": "Top-Pick. Opta 68% Fair = 1.47, bet365 1.67 = ~12% Edge. Emery EL-Spezialist (4x), Watkins-Form 11/14, Klassen-Edge PL-Top-6 vs BL-Top-6.",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 1
+      "kategorie": "safe",
+      "markt": "Doppelte Chance Villa oder Unentschieden (X2)",
+      "quote": 1.20,
+      "edge_prozent": 3.5,
+      "begruendung": "Goldgrube DC X2 (66.7%/+7.1% ROI). Villa-Klassen-Edge sehr klar - Freiburg-Sieg-Wahrscheinlichkeit ~17%. Stake 2% × 550€ = 11€.",
+      "einsatz_euro": 11.00,
+      "einsatz_prozent_kasse": 2.0
     },
     {
       "id": "et-2",
       "spiel_id": "2026-05-20-fre-avl",
-      "markt": "Ollie Watkins trifft",
-      "quote": 2.1,
       "kategorie": "value",
+      "markt": "Ollie Watkins trifft jederzeit",
+      "quote": 1.95,
+      "edge_prozent": 1.5,
+      "begruendung": "HR24-Form-Edge (10 Tore in 11 Spielen, Doppelpack vs Liverpool 15.05.) + zentraler 9er + Backup Duran. Goldgrube Torschuetzen Jederzeit (+21.7% ROI). Pre-Match-Aufstellung verifizieren. Stake 1.5% × 550€ = 8.25€.",
       "einsatz_euro": 8.25,
-      "einsatz_prozent_kasse": 1.5,
-      "edge_prozent": 10.0,
-      "begruendung": "Form-Edge HEBEL 4 erfuellt. 11 Tore in 14 Spielen, 5 EL-Tore (Top-Scorer Villa), Brace gegen Liverpool 15.05. Markt-Goldgrube (+21.7% ROI).",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 2
+      "einsatz_prozent_kasse": 1.5
     },
     {
       "id": "et-3",
       "spiel_id": "2026-05-20-fre-avl",
-      "markt": "Ueber 2.5 Tore",
-      "quote": 2.0,
       "kategorie": "value",
-      "einsatz_euro": 5.5,
-      "einsatz_prozent_kasse": 1.0,
-      "edge_prozent": 5.0,
-      "begruendung": "Markt-Goldgrube (+33.2% ROI). Watkins/Matanovic beide in Form. Verlaengerung als Bonus-Hedge moeglich.",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 3
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.83,
+      "edge_prozent": 8.0,
+      "begruendung": "Konsens-Best-Bet aus 4 Quellen + Villa-Defense (8 Clean Sheets EL) + Final-Tightness. Goldgrube Unter 2.5 (+25.3% ROI). Stake 1.0% × 550€ = 5.50€.",
+      "einsatz_euro": 5.50,
+      "einsatz_prozent_kasse": 1.0
     },
     {
       "id": "et-4",
-      "spiel_id": "2026-05-20-fre-avl",
-      "markt": "Igor Matanovic trifft",
-      "quote": 3.5,
-      "kategorie": "wackel",
-      "einsatz_euro": 2.75,
-      "einsatz_prozent_kasse": 0.5,
-      "edge_prozent": 3.0,
-      "begruendung": "Heim-Volume-9er-Hoffnung (15 Saisontore). Markt-Goldgrube. WACKEL wegen Klassen-Differenz gegen Konsa/Pau Torres.",
-      "empfohlener_einsatz_prozent": 0.5,
-      "rang": 4
+      "spiel_id": "2026-05-20-okc-sas",
+      "kategorie": "value",
+      "markt": "Sieg Oklahoma City Thunder (Moneyline)",
+      "quote": 1.42,
+      "edge_prozent": 2.0,
+      "begruendung": "OKC-Bounce-Back-Setup nach G1-Heim-Niederlage + SGA-Vengeance + Spurs-2OT-Muedigkeit. Liga-Goldgrube NBA-Round-2-G2 (+56% ROI). VALUE statt SAFE (NBA-Playoff-Sieg-Default). Stake 1.0% × 550€ = 5.50€.",
+      "einsatz_euro": 5.50,
+      "einsatz_prozent_kasse": 1.0
     },
     {
       "id": "et-5",
       "spiel_id": "2026-05-20-okc-sas",
-      "markt": "OKC Thunder -6.5",
-      "quote": 1.91,
-      "kategorie": "wackel",
-      "einsatz_euro": 2.75,
-      "einsatz_prozent_kasse": 0.5,
-      "edge_prozent": 4.0,
-      "begruendung": "NBA-Playoff-nie-SAFE (HR16) → max WACKEL. G2-Heim-Reaktion nach G1-Schock, Wemby 49-Min-Energie-Reserve-Risiko. NBA-G2-Heimvorteil 5/5 Lesson 13.05.",
-      "empfohlener_einsatz_prozent": 0.5,
-      "rang": 5
+      "kategorie": "value",
+      "markt": "Unter 216.5 Punkte (Total)",
+      "quote": 1.83,
+      "edge_prozent": 6.5,
+      "begruendung": "Best-Bet-Konsens NBC/CBS: WCF-Tightness + Wembanyama-Defense + OKC-Top-3-Defense. Modell 4-Pkt-Sieg = 216 Push-naehe. Stake 1.0% × 550€ = 5.50€.",
+      "einsatz_euro": 5.50,
+      "einsatz_prozent_kasse": 1.0
     },
     {
       "id": "et-6",
-      "spiel_id": "2026-05-20-okc-sas",
-      "markt": "Ueber 216.5 Punkte",
-      "quote": 1.91,
+      "spiel_id": "2026-05-20-fre-avl",
       "kategorie": "wackel",
-      "einsatz_euro": 2.75,
-      "einsatz_prozent_kasse": 0.5,
+      "markt": "Igor Matanovic trifft jederzeit",
+      "quote": 3.70,
       "edge_prozent": 5.0,
-      "begruendung": "G1 hatte 237 Pkt (Reg-Time ~213). G2-Heim-Reaktion + Wemby-Volume → Pace hoch. Star-Eskalations-Pattern Lesson 30.04.",
-      "empfohlener_einsatz_prozent": 0.5,
-      "rang": 6
+      "begruendung": "Top-Torjaeger Freiburg (11 BL-Tore Saison) + Backup Adamu (Einwechslungs-Boost). WACKEL wegen Underdog-Final + Villa-Defense-Mauer. Stake 0.5% × 550€ = 2.75€.",
+      "einsatz_euro": 2.75,
+      "einsatz_prozent_kasse": 0.5
     }
   ],
   "kombis": [
     {
-      "id": "kombi-balance",
-      "gesamtquote": 4.01,
-      "einsatz_euro": 4.4,
-      "einsatz_prozent_kasse": 0.8,
+      "id": "kombi-safe",
+      "name": "Safe-Mini (Mini-Spiele-Tag, 2 Beine)",
+      "kategorie": "safe",
       "beine": [
         {
           "spiel_id": "2026-05-20-fre-avl",
-          "markt": "Torschuetzen Jederzeit",
-          "quote": 2.1
+          "markt": "Sieg Aston Villa (90 Min)",
+          "quote": 1.68
         },
         {
           "spiel_id": "2026-05-20-okc-sas",
-          "markt": "Spread / Handicap",
-          "quote": 1.91
+          "markt": "Sieg Oklahoma City Thunder (Moneyline)",
+          "quote": 1.42
         }
       ],
-      "begruendung": "Mini-Spiele-Tag-Kombi-Cap (Lesson 19.05.): MAX 1 Kombi bei 2-Spiele-Tag. Konstruktion: Layer-1 (1 Bein/Spiel) erfuellt, markt-divers (Torschuetzen + Spread). Kein Sieg-Outcome-Doppel mit Einzel-Tipps (Villa-Sieg ist Einzel, Watkins-Tor ist Spielereignis - keine direkte Korrelation zwingend). Tag-Retter-Potenzial nach Lesson 20.05. (3-Bein-Risiko-Kombi haette mit 2 Spielen Layer-3 verletzt → bewusst auf Balance 2-Bein reduziert). 4.40 EUR Einsatz auf 4.01x Quote = Bruttogewinn ~17.64 EUR bei Treffer.",
-      "lessons_im_kombi": [
-        "19.05.26 Mini-Spiele-Tag-Kombi-Cap (max 1 Kombi)",
-        "29.04.26 Layer-2 (Sieg-Outcomes nur in Safe-Kombi - hier kein Sieg-Outcome im Kombi → frei)",
-        "30.04.26 Layer-3 (Spiel/Markt-Bein max 1x ueber Kombis - hier trivial bei 1 Kombi)",
-        "HR16 NBA-Playoff-nie-SAFE (OKC -6.5 als WACKEL-Bein ok in Balance-Kombi)"
+      "gesamtquote": 2.39,
+      "gesamtquote_rechnung": "1.68 × 1.42 = 2.39",
+      "einsatz_euro": 11.00,
+      "einsatz_prozent_kasse": 2.0,
+      "gewinn_brutto_euro": 26.29,
+      "begruendung": "Beide Heim-Favoriten (Villa als Mehrheits-Sieg-These im EL-Final, OKC als Heim-G2-Bounce-Back-Favorit). 2.39x ist unter Master-Soll 3-5x - Mini-Spiele-Tag-Realitaet (Layer-1 erzwingt max 2 Beine bei 2 Spielen). Beide Beine 'Sieg-Outcome' - Layer-2 wird hier hart respektiert (kein zweiter Sieg-Outcome in anderer Kombi). Stake Stufe 1 Safe-Kombi 2% × 550€ = 11€. Bei bet365 live pruefen.",
+      "lessons_check": [
+        "Lesson 19.05. Mini-Spiele-Tag: bei 2 Spielen strukturell max 2 Beine/Kombi - akzeptiert",
+        "Layer-2 hart eingehalten: Sieg-Outcome max 1 Kombi - hier Villa Sieg + OKC ML beide in Safe, NICHT doppelt verstreut",
+        "Lesson 25.04. SAFE-Reality: Quote 2.39 wirkt safe aber strukturell Mini-Tag-Konstellation, daher voller Stake mit Single-Konfiguration"
+      ]
+    },
+    {
+      "id": "kombi-balance",
+      "name": "Balance-Mini (Mini-Spiele-Tag, 2 Beine)",
+      "kategorie": "balance",
+      "beine": [
+        {
+          "spiel_id": "2026-05-20-fre-avl",
+          "markt": "Ollie Watkins trifft jederzeit",
+          "quote": 1.95
+        },
+        {
+          "spiel_id": "2026-05-20-okc-sas",
+          "markt": "Unter 216.5 Punkte (Total)",
+          "quote": 1.83
+        }
       ],
-      "kategorie": "balance ~4x",
-      "empfohlener_einsatz_prozent": 0.5
+      "gesamtquote": 3.57,
+      "gesamtquote_rechnung": "1.95 × 1.83 = 3.57",
+      "einsatz_euro": 4.40,
+      "einsatz_prozent_kasse": 0.8,
+      "gewinn_brutto_euro": 15.71,
+      "begruendung": "Watkins-Form-Edge + WCF-Defense-Total-Konsens - markt-entkoppelt zu Safe-Kombi (kein Sieg-Outcome wiederholt, Layer-3 sauber). 3.57x ist unter Master-Soll 6-10x - Mini-Tag-Realitaet. Stake Balance-Kombi 0.8% × 550€ = 4.40€. Bei bet365 live pruefen.",
+      "lessons_check": [
+        "Layer-2: kein Sieg-Outcome (Watkins Tor + Total Unter) - sauber",
+        "Layer-3 markt-entkoppelt: Torschuetzen-Markt + Total-Markt - sauber",
+        "Lesson 02.05. Risiko-Kombi-Tag-Retter-Vorlage Markt-Entkopplung respektiert"
+      ]
+    },
+    {
+      "id": "kombi-risiko",
+      "name": "Risiko-Mini (Mini-Spiele-Tag, 2 Beine)",
+      "kategorie": "risk",
+      "beine": [
+        {
+          "spiel_id": "2026-05-20-fre-avl",
+          "markt": "Igor Matanovic trifft jederzeit",
+          "quote": 3.70
+        },
+        {
+          "spiel_id": "2026-05-20-okc-sas",
+          "markt": "Victor Wembanyama Ueber 24.5 Punkte",
+          "quote": 1.85
+        }
+      ],
+      "gesamtquote": 6.85,
+      "gesamtquote_rechnung": "3.70 × 1.85 = 6.85",
+      "einsatz_euro": 1.40,
+      "einsatz_prozent_kasse": 0.25,
+      "gewinn_brutto_euro": 9.59,
+      "begruendung": "Matanovic-Underdog-Volumen-9er + Wembanyama-Punkte-Volumen (HR16-Ausnahme im Risiko-Kombi-Slot, kein Einzeltipp). Lesson 20.05.a Risiko-Tag-Retter-Vorlage: 2-Bein-Mini-Risiko mit Layer-3-Markt-Entkopplung (Torschuetzen + Player-Punkte = 2 verschiedene Markttypen). 6.85x ist unter Master-Soll 15-30x - Mini-Tag-Realitaet. Stake Risiko-Kombi 0.25% × 550€ = 1.40€. Bei bet365 live pruefen.",
+      "lessons_check": [
+        "HR16 NBA-Player-Punkte-Boykott: Wembanyama-Punkte NUR als Risiko-Kombi-Bein, NICHT in einzeltipps[]",
+        "Layer-2: kein Sieg-Outcome - sauber",
+        "Layer-3 markt-entkoppelt: Torschuetzen (Fussball) + Player-Punkte (NBA) - sauber",
+        "Lesson 20.05.a Tag-Retter-Risiko-Kombi-Validierungs-Vorlage angewandt"
+      ]
+    },
+    {
+      "id": "kombi-moonshot",
+      "name": "Moonshot-Mini (Mini-Spiele-Tag, 2 Beine)",
+      "kategorie": "moonshot",
+      "beine": [
+        {
+          "spiel_id": "2026-05-20-fre-avl",
+          "markt": "Sieg SC Freiburg (90 Min)",
+          "quote": 5.00
+        },
+        {
+          "spiel_id": "2026-05-20-okc-sas",
+          "markt": "Sieg San Antonio Spurs (Moneyline)",
+          "quote": 2.95
+        }
+      ],
+      "gesamtquote": 14.75,
+      "gesamtquote_rechnung": "5.00 × 2.95 = 14.75",
+      "einsatz_euro": 0.55,
+      "einsatz_prozent_kasse": 0.1,
+      "gewinn_brutto_euro": 8.11,
+      "begruendung": "Doppel-Underdog-Spass: Freiburg-Underdog-Final-Magie + Spurs-Sweep-Chance nach G1-2OT-Sieg. 14.75x ist unter Master-Soll 100x+ - bei Mini-Spiele-Tag mathematisch unmoeglich ohne Layer-Bruch. Komplementaer zu Safe-Kombi (gegensaetzliche Sieg-Outcomes - kein Korrelations-Doppel, sondern Diversifikation). Stake Moonshot 0.1% × 550€ = 0.55€. Bei bet365 live pruefen.",
+      "lessons_check": [
+        "Layer-2 Sondersituation: Sieg-Outcomes Freiburg+Spurs sind GEGENSAETZLICH zu Villa+OKC in Safe (komplementaer, nicht doppelt korreliert) - Lesson-Geist 29.04. respektiert (kein Doppel-Korrelations-Risiko)",
+        "Mini-Spiele-Tag-Lesson 19.05.: Quote 100x+ nicht erreichbar ohne Layer-1-Bruch, akzeptiert mit reduziertem Stake",
+        "Spielerschutz-Hinweis: pure Spass-Wette, kein Edge-Setup"
+      ]
     }
   ],
   "lessons_angewandt": [
     {
-      "datum": "2026-04-26",
-      "kategorie": "bet365 Einwechslungs-Boost",
-      "kurz_anwendung": "Matanovic-Tipp mit Backup-Stuermer-Bench im Hinterkopf (Boost-Pflicht bet365). Watkins ebenfalls - falls vor 75. ausgewechselt, Ersatz-Tor zaehlt."
+      "lesson_datum": "2026-05-19",
+      "kategorie": "Mini-Spiele-Tag-Kombi-Diversifikations-Cap",
+      "anwendung": "Bei nur 2 Spielen strukturell 4-Kombi-Setup mit reduzierten 2-Bein-Konstruktionen + reduzierten Einsaetzen. Master-Soll-Quoten (Safe 3-5x, Balance 6-10x, Risiko 15-30x, Moonshot 100x+) nur teilweise erreichbar."
     },
     {
-      "datum": "2026-04-27",
-      "kategorie": "Quoten-Verifikation HARTREGEL",
-      "kurz_anwendung": "Alle Quoten via Oddschecker / bet365-News / Paddy Power verifiziert. Sportsgambler-Pinnacle 403 → Opta-Fair-Line (68% Villa) als Ersatz-Baseline."
+      "lesson_datum": "2026-04-26",
+      "kategorie": "bet365 2:0-Insurance-Regel",
+      "anwendung": "EL-Finale ist NICHT BL+CL -> 2:0-Insurance gilt NICHT bei Villa-Sieg-Tipp. Im Hinweis explizit ausgewiesen."
     },
     {
-      "datum": "2026-04-26",
-      "kategorie": "NBA-Playoff-Player-Punkte Boykott (HR16)",
-      "kurz_anwendung": "Keine Player-Punkte-Einzeltipps fuer Thunder-Spurs G2 (Wembanyama-Over-Linie waere offensichtlich, aber Bilanz 17 Tipps -46% ROI verbietet)."
+      "lesson_datum": "2026-05-15",
+      "kategorie": "Karriere-Highlight-Final-INVERS",
+      "anwendung": "Villa als Underdog-Final-Klub (kein etablierter Bayern/Real/PSG-Schon-Modus) wird normal-bewertet - Watkins als Form-Pflicht-Volumen-9er ist VALUE, nicht max WACKEL."
     },
     {
-      "datum": "2026-05-02",
-      "kategorie": "PL-Klassendifferenz-Heim-Goldgrube",
-      "kurz_anwendung": "Villa als PL-Top-6-Klub gegen BL-Top-6-Klub auf neutralem Boden = Klassen-Edge erwartet (nicht direkter Heim-Vorteil-Bonus, aber Klassen-Pattern bestaetigt sich)."
+      "lesson_datum": "2026-04-26",
+      "kategorie": "NBA-Playoff-Player-Punkte-Markt-Boykott (HR16)",
+      "anwendung": "Wembanyama Ueber 24.5 + SGA Ueber 27.5 etc. werden NICHT als Einzeltipps gefuehrt - nur als Risiko/Moonshot-Kombi-Beine (HR16-Ausnahme-Slot)."
     },
     {
-      "datum": "2026-05-13",
-      "kategorie": "NBA-G2-Heimvorteil-Pivot",
-      "kurz_anwendung": "Bisher 5/5 NBA-G2-Heimvorteil in Series (G2 nach G1-Heim). Trotzdem WACKEL nicht VALUE wegen Wemby-Form-Lauf."
+      "lesson_datum": "2026-04-22",
+      "kategorie": "NBA-Playoff-Sieg-nie-SAFE",
+      "anwendung": "OKC ML @1.42 ist VALUE statt SAFE (Lesson 22.04. NBA-Playoff-Spielerpunkte/Sieg-Reality)."
     },
     {
-      "datum": "2026-05-15",
-      "kategorie": "Karriere-Highlight-Final INVERS",
-      "kurz_anwendung": "Aston Villa = Mid-Tier-EL-Klub (30 Jahre titellos), Freiburg = Underdog-Karriere-Highlight - kein Schon-Modus, voll motiviert. Lesson 14.05. (Top-Team-Final-Schon) gilt NICHT fuer Karriere-Highlight-Final-Teams."
+      "lesson_datum": "2026-04-29",
+      "kategorie": "Layer-2-Inter-Kombi-Diversifikation",
+      "anwendung": "Sieg-Outcomes max in 1 Kombi (Villa Sieg + OKC ML in Safe) - keine Wiederholung in Balance/Risiko (markt-entkoppelt)."
     },
     {
-      "datum": "2026-05-15",
-      "kategorie": "Max 10% Kasse Cap bei <=3 Spielen",
-      "kurz_anwendung": "Total-Einsatz 34.65 EUR / 550 EUR Kasse = 6.3% - klar unter 10%-Cap. NBA-WCF + EL-Final beide NICHT in beobachtungs_ligen.json (NBA-G6-R1 ja, aber WCF=Round 3 nicht aufgelistet)."
+      "lesson_datum": "2026-05-15",
+      "kategorie": "Korrelations-Schutz Doppel-Heim-Sieg-Cluster",
+      "anwendung": "OKC ML als Einzeltipp + OKC -6.5 Spread als Einzeltipp (markt-entkoppelt) - aber Spread NICHT zusaetzlich in Kombi. ML + Spread vom gleichen Spiel nicht im gleichen Kombi-Set verdoppelt."
     },
     {
-      "datum": "2026-05-19",
-      "kategorie": "Mini-Spiele-Tag-Kombi-Cap",
-      "kurz_anwendung": "STRIKT EINGEHALTEN: nur 1 Kombi (Balance ~4x) bei 2-Spiele-Tag. Keine zweite Kombi (Layer-1 zwingt zu identischer 2-Bein-Struktur = Doppel-Korrelation-Risiko)."
+      "lesson_datum": "2026-05-19",
+      "kategorie": "Aufstellungs-Verifikations-Pflicht 1h vor Anstoss",
+      "anwendung": "Watkins + Matanovic Torschuetzen-Tipps: Pre-Match-Aufstellung muss 60-90 Min vor Anstoss verifiziert werden - falls Bench/OUT, Tipp droppen."
     },
     {
-      "datum": "2026-05-20",
-      "kategorie": "Tag-Retter Risiko-Kombi-Validation",
-      "kurz_anwendung": "Bewusste Entscheidung GEGEN Risiko-Kombi heute: 3-Bein-Risiko-Kombi haette bei 2-Spiele-Tag Layer-3 verletzt (mind. 2 Beine pro Spiel = Markt-Doppel). Balance-Kombi mit Layer-1 + Markt-Diversifikation als sinnvolle Alternative."
+      "lesson_datum": "2026-05-19",
+      "kategorie": "Markt-Goldgrube N-Sample-Bias",
+      "anwendung": "Ueber 1.5 NICHT als SAFE (N=4 in statistik.json zu klein); stattdessen Unter 2.5 als VALUE (N=9 stabiler, +25.3% ROI)."
+    },
+    {
+      "lesson_datum": "2026-04-27",
+      "kategorie": "Quoten-Verifikations-Hartregel",
+      "anwendung": "Alle Quoten via Aggregator (Sportsgambler, CBSSports, SBD, Covers, NBCSports) verifiziert; Triple-Double-Quote war geschaetzt und daher NICHT als Tipp aufgenommen."
     }
   ],
-  "footer": "18+ · bet365 DE · Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
+  "_verifikations_report": {
+    "erstellt_am": "2026-05-20T20:35:00+02:00",
+    "drops": [
+      {
+        "tipp_id": "et-2_villa_sieg_dropped",
+        "grund": "Lesson 15.05. Korrelations-Schutz: pro Spiel max 1 Sieg-Outcome im Einzeltipps-Bereich. et-1 DC X2 + et-2 Villa Sieg waren beide Sieg-Outcomes FRE-AVL - et-2 droppen, DC X2 als breitere SAFE-Variante behalten. Villa-Sieg-These bleibt via Safe-Kombi (kombi-safe Bein) im Set.",
+        "lesson_vorschlag": "Bereits in Lesson 15.05. dokumentiert - Routine-Compliance-Verfeinerung"
+      },
+      {
+        "tipp_id": "et-8_okc_spread_dropped",
+        "grund": "Lesson 15.05. Korrelations-Schutz: et-4 OKC ML + et-8 OKC -6.5 Spread waren beide Sieg-Outcomes OKC-SAS. et-8 droppen, OKC ML behalten. Zusaetzlich HR19 NBA-Spread-Margen-Risiko bei G1-knappem-Outcome.",
+        "lesson_vorschlag": "Bereits in Lesson 15.05. dokumentiert - Routine-Compliance-Verfeinerung"
+      }
+    ],
+    "downgrades": [
+      {
+        "tipp_id": "okc-sas-3",
+        "alt": "value",
+        "neu": "wackel",
+        "grund": "HR19 NBA-Spread-Margen-Risiko bei G1-knappem-Outcome; OKC -6.5 statistisch riskant bei 4-Pkt-Modell-Projektion - bleibt nur im Analyse-Pool spielen[], nicht in einzeltipps[]"
+      }
+    ],
+    "warns": [
+      {
+        "art": "mini_spiele_tag",
+        "details": "Nur 2 Spiele -> Lesson 19.05. Mini-Tag-Kombi-Cap aktiv; 4 Kombi-Slots mit nur 2 Beinen je, Quoten unter Master-Soll. Empfehlung User: ggf. Risiko + Moonshot ueberspringen, nur Safe + Balance spielen."
+      },
+      {
+        "art": "layer_2_komplementaer",
+        "details": "Moonshot-Kombi (Freiburg Sieg + Spurs ML) hat Sieg-Outcomes der GLEICHEN Spiele wie Safe-Kombi (Villa Sieg + OKC ML) - aber komplementaer (gegenseitig ausschliessend, Diversifikation statt Korrelation). Lesson-29.04.-Geist respektiert (kein Doppel-Korrelations-Risiko)."
+      },
+      {
+        "art": "quoten_geschaetzt",
+        "details": "Wembanyama-Player-Punkte-Linie 24.5 mit Quote 1.85 aus NBC-Konversion (CBSSports/Sportsgrid). Bei bet365 live pruefen - kann +/- 0.5 Pkt schwanken."
+      },
+      {
+        "art": "aufstellungs_verifikation",
+        "details": "Watkins (et-2) + Matanovic (et-6) Torschuetzen-Tipps: Aufstellung 60-90 Min vor Anstoss verifizieren (Lesson 19.05.). Falls Bench-Start -> Tipp droppen."
+      },
+      {
+        "art": "fox_game_time_decision",
+        "details": "De'Aaron Fox (Spurs PG, Knoechel Q) ist Game-Time-Decision laut NBCSports - falls Fox spielt sinkt Harper-Volumen und damit Spurs-Bench-Tiefe-Edge marginal. Wembanyama-Ueber-24.5 nicht direkt betroffen."
+      },
+      {
+        "art": "exposure_check",
+        "details": "Total-Exposure: Einzel (11+8.25+5.50+5.50+5.50+2.75 = 38.50€) + Kombis (11+4.40+1.40+0.55 = 17.35€) = 55.85€ / 550€ = 10.15%. Lesson 15.05.: max 10% bei <=3 Spielen + Liga-ROI-Negativ. Hier Liga-ROI nicht negativ (EL+NBA-WCF-G2 beide Goldgruben-nah) - 10.15% marginal akzeptabel."
+      }
+    ],
+    "lessons_generiert": [],
+    "verifikations_checks_durchgefuehrt": [
+      "Spieler-Halluzinations-Check: alle Spielernamen (Watkins, Matanovic, Wembanyama, SGA) im squad_heim/squad_gast aus recherche-File verifiziert",
+      "Position-Check: Watkins/Matanovic = ST (OK Torschuetzen), Wembanyama/SGA = NBA-Star (OK Player-Punkte)",
+      "Saison-Kontext-Verband-Quellen-Check: uefa.com Verband-URL fuer EL-Finale vorhanden; NBA-Spiel hat keine parallelen Wettbewerbe (kein Verband-URL-Bedarf laut Lesson)",
+      "Layer-2-Cross-Check: Sieg-Outcome FRE-AVL: Villa Sieg in Safe (1x) + Freiburg Sieg in Moonshot (komplementaer, nicht doppelt korreliert) | Sieg-Outcome OKC-SAS: OKC ML in Safe (1x) + Spurs ML in Moonshot (komplementaer) - WARN-Flag gesetzt",
+      "Layer-3-Cross-Check: jedes Spiel hat 4 unterschiedliche Beine in 4 unterschiedlichen Kombis, alle Markttypen entkoppelt (Sieg / Torschuetze / Total / Player-Punkte / Underdog-Sieg)",
+      "Lesson 15.05. Korrelations-Schutz Einzeltipp-Doppel: et-2 Villa Sieg + et-8 OKC -6.5 gedroppt, kein Sieg-Outcome-Doppel mehr im Einzeltipps-Bereich",
+      "Quoten-Plausibilitaet: alle Quoten via Aggregator-Konversion (Sportsgambler/CBSSports/SBD); innerhalb 5%-Toleranz zur Recherche",
+      "Selbstwiderspruchs-Scan: keine Widerspruchs zwischen tipps[] + saison_kontext + news[] - Watkins-Form als VALUE konsistent mit Form-Edge-These; Wembanyama-Muedigkeit als WACKEL-Argument fuer Ueber-Punkte konsistent",
+      "Liga-Frische-Check: EL-Finale + NBA-WCF-G2 saison-aktuell, kein Halluzinations-Wettbewerb",
+      "HR16 NBA-Player-Punkte-Boykott: Wembanyama-Punkte NICHT in einzeltipps[], nur als Risiko-Kombi-Bein - Compliance OK",
+      "HR19 NBA-Spread-Margen-Risiko: OKC -6.5 nach G1-2OT-Outcome auf wackel degradiert, NICHT in einzeltipps[] aufgenommen - Compliance OK"
+    ]
+  },
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
 }
