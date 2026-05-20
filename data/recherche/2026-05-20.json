@@ -1,0 +1,284 @@
+{
+  "datum": "2026-05-20",
+  "erstellt_am": "2026-05-20T18:10:00+00:00",
+  "modus": "tag",
+  "hinweis": "Recherche-Daten Mittwoch 20.05.2026 (Mo-Fr Variante - Pre-Tipps-Datenbasis fuer Tipps-Slot 13:30 Berlin; Recherche-Lauf 20:00 Berlin Cloud-Routine spaeter als geplant). HEUTE 2 Spiele relevant: 1) UEFA Europa League Finale Freiburg vs Aston Villa um 21:00 Berlin in Istanbul (Tuepras Stadyumu / Besiktas Park, 42.684 Plaetze; Referee Francois Letexier FR mit VAR Jerome Brisard). 2) NBA Western Conference Finals Game 2 Oklahoma City Thunder vs San Antonio Spurs (Heim OKC) um 02:30 Berlin Donnerstag 21.05. (20:30 ET) - Serie steht 0-1 fuer Spurs nach Wembanyama 41/24/3 Block Game 1 122-115 2OT. KEINE BL-Spiele (Saison endete So 17.05.), KEINE PL/LaLiga/Serie-A-Spiele (Werktag zwischen MD37 + MD38), KEIN DFB-Pokal/Coppa-Italia/Championship-Playoff. KASSE-Stand 04.05.2026: 550 EUR -> Stufe 1 (Aufbau-Phase) aktiv (Kasse < 1000 EUR). 2:0-Insurance-Regel gilt fuer BL+CL: heute KEIN BL und KEIN CL-Spiel -> Insurance NICHT anwendbar (Europa-League-Finale ist NICHT von Insurance abgedeckt laut CLAUDE.md). NBA-Markt-Verbote DE: Einzel-Rebounds (Wembanyama Reb, Harper Reb), Einzel-Assists (SGA Ast, Harper Ast), Einzel-3er, PRA-Kombos, Punkte+Assists, Punkte+Rebounds duerfen NICHT als Tipp empfohlen werden. NBA-erlaubt: Moneyline, Spread, Punkte-Totals (Spiel/Viertel/Halbzeit), Einzel-Punkte-Props, Double-Double, Triple-Double, Meiste Punkte. bet365-Quoten via Aggregator (Sportsgambler, CBSSports, SBD, Covers, NBC Sports) US-Format-Konversion; bei Wettzeit live pruefen. NIE Spielernamen erfunden - Squad-Listen ausschliesslich aus zitierten Vorbericht/Lineup-Quellen.",
+  "spiele": [
+    {
+      "id": "2026-05-20-fre-avl",
+      "liga": "UEFA Europa League",
+      "matchday": "Finale",
+      "stage": "FINAL",
+      "heim": "SC Freiburg",
+      "gast": "Aston Villa",
+      "anstoss": "2026-05-20T21:00:00+02:00",
+      "anstoss_lokal_istanbul": "2026-05-20T22:00:00+03:00",
+      "anstoss_utc": "2026-05-20T19:00:00Z",
+      "stadion": "Tuepras Stadyumu / Besiktas Park, Istanbul (Kapazitaet 42.684 laut Wikipedia)",
+      "schiedsrichter": "Francois Letexier (FR) - VAR Jerome Brisard",
+      "neutraler_boden": true,
+      "squad_heim": [
+        {"name": "Noah Atubolu", "position": "TW", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/freiburg-vs-aston-villa-prediction-lineups-odds-2026-05-20/"},
+        {"name": "Lukas Kuebler", "position": "RV", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/freiburg-vs-aston-villa-prediction-lineups-odds-2026-05-20/"},
+        {"name": "Matthias Ginter", "position": "IV", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/freiburg-vs-aston-villa-prediction-lineups-odds-2026-05-20/"},
+        {"name": "Philipp Lienhart", "position": "IV", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/freiburg-vs-aston-villa-prediction-lineups-odds-2026-05-20/"},
+        {"name": "Christian Guenter (Treu nominell)", "position": "LV", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/freiburg-vs-aston-villa-prediction-lineups-odds-2026-05-20/", "hinweis": "Sportsgambler+SI nennen 'Treu' als LV-Starter; bei Freiburg-LV unklar ob Junior Adamu/Treu/Guenter, hier laut Quellen 'Treu'"},
+        {"name": "Maximilian Eggestein", "position": "DM", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/freiburg-vs-aston-villa-prediction-lineups-odds-2026-05-20/"},
+        {"name": "Yannik Hoefler", "position": "DM", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/freiburg-vs-aston-villa-prediction-lineups-odds-2026-05-20/", "hinweis": "Sportsgambler nennt Hoefler; SI alternativ Manzambi als DM2"},
+        {"name": "Johan Manzambi", "position": "OM", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/freiburg-vs-aston-villa-prediction-lineups-odds-2026-05-20/"},
+        {"name": "Vincenzo Grifo", "position": "LF", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/freiburg-vs-aston-villa-prediction-lineups-odds-2026-05-20/", "hinweis": "Top-EL-Saisontorschuetze Freiburg: 5 Tore + 4 Assists in 14 EL-Spielen laut CBSSports"},
+        {"name": "Kiliann Sildillia (Beste laut SI/Sportsgambler)", "position": "RF", "verifiziert_via": "https://www.si.com/soccer/freiburg-vs-aston-villa-europa-league-final-preview-predictions-lineups-5-20-26", "hinweis": "SI+Sportsgambler nennen 'Beste' als RF im OM-Trio; alternative Quellen unklar"},
+        {"name": "Igor Matanovic", "position": "ST", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/freiburg-vs-aston-villa-prediction-lineups-odds-2026-05-20/", "hinweis": "11 BL-Tore Saison 2025-26 laut SI; Toptorjaeger Freiburg"},
+        {"name": "Ritsu Doan", "position": "OM/Bank", "verifiziert_via": "https://en.wikipedia.org/wiki/2026_UEFA_Europa_League_final", "hinweis": "Schluesselspieler-Backup; in Vorberichten nicht in der Startelf genannt - Joker-Option"},
+        {"name": "Junior Adamu", "position": "ST/Bank", "verifiziert_via": "https://en.wikipedia.org/wiki/2026_UEFA_Europa_League_final", "hinweis": "Ersatz fuer Matanovic - Einwechslungs-Boost-Kandidat fuer Torschuetzen-Tipp auf Matanovic"},
+        {"name": "Maximilian Philipp", "position": "ST/Bank", "verifiziert_via": "https://en.wikipedia.org/wiki/2026_UEFA_Europa_League_final", "hinweis": "Bank-Option fuer Sturm"}
+      ],
+      "squad_gast": [
+        {"name": "Emiliano Martinez", "position": "TW", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/freiburg-vs-aston-villa-prediction-lineups-odds-2026-05-20/", "hinweis": "Argentinischer WM-Held"},
+        {"name": "Matty Cash", "position": "RV", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/freiburg-vs-aston-villa-prediction-lineups-odds-2026-05-20/"},
+        {"name": "Ezri Konsa", "position": "IV", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/freiburg-vs-aston-villa-prediction-lineups-odds-2026-05-20/"},
+        {"name": "Pau Torres", "position": "IV", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/freiburg-vs-aston-villa-prediction-lineups-odds-2026-05-20/"},
+        {"name": "Lucas Digne", "position": "LV", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/freiburg-vs-aston-villa-prediction-lineups-odds-2026-05-20/"},
+        {"name": "Victor Lindeloef", "position": "DM", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/freiburg-vs-aston-villa-prediction-lineups-odds-2026-05-20/", "hinweis": "Mid-Saison-Verstaerkung als Kamara/Onana-Ersatz; Lindeloef ist Schweden-IV/DM-Hybrid"},
+        {"name": "Youri Tielemans", "position": "DM", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/freiburg-vs-aston-villa-prediction-lineups-odds-2026-05-20/"},
+        {"name": "John McGinn", "position": "LF", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/freiburg-vs-aston-villa-prediction-lineups-odds-2026-05-20/", "hinweis": "Villa-Kapitaen; SBD nennt anytime-goalscorer +400 = ca. 5.00"},
+        {"name": "Morgan Rogers", "position": "OM", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/freiburg-vs-aston-villa-prediction-lineups-odds-2026-05-20/", "hinweis": "Spielmacher-Schluesselspieler"},
+        {"name": "Emiliano Buendia", "position": "RF", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/freiburg-vs-aston-villa-prediction-lineups-odds-2026-05-20/", "hinweis": "Doubtful laut SI - moeglicherweise nicht 90 Min fit, Comeback nach langer Reha; Marcus Rashford/Marco Asensio koennten alternativ starten"},
+        {"name": "Ollie Watkins", "position": "ST", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/freiburg-vs-aston-villa-prediction-lineups-odds-2026-05-20/", "hinweis": "10 Tore letzte 11 Spiele laut SI; Top-PL-Form; Top-Torschuetze Villa; Doppelpack gegen Liverpool 15.05."},
+        {"name": "Marcus Rashford", "position": "LF/Bank", "verifiziert_via": "https://en.wikipedia.org/wiki/2026_UEFA_Europa_League_final", "hinweis": "Leih-Stuermer Villa; Joker-Option oder Starter wenn Buendia ausfaellt"},
+        {"name": "Marco Asensio", "position": "OM/Bank", "verifiziert_via": "https://en.wikipedia.org/wiki/2026_UEFA_Europa_League_final", "hinweis": "Leih-Spielmacher; Joker-Option oder Starter wenn Buendia ausfaellt"},
+        {"name": "Jhon Duran", "position": "ST/Bank", "verifiziert_via": "https://en.wikipedia.org/wiki/2026_UEFA_Europa_League_final", "hinweis": "Ersatzstuermer fuer Watkins - direkter Einwechslungs-Boost-Kandidat fuer Torschuetzen-Tipp auf Watkins"}
+      ],
+      "injuries_heim": [
+        "Yuito Suzuki (Schluesselbeinbruch/Abdomen, OUT seit 15.05. laut SI+Sportsgambler) - bedeutendster Ausfall, primaerer Goal+Assist-Beitrag fehlt",
+        "Patrick Osterhage (Knie, OUT laut SI+Sportsgambler)",
+        "Maximilian Rosenfelder (Verletzung, OUT laut SI)",
+        "Daniel Kofi-Kyereh (Verletzung, OUT laut SI)",
+        "Noah Weisshaupt/Muslija (Kreuzbandriss, OUT laut Sportsgambler)"
+      ],
+      "injuries_gast": [
+        "Boubacar Kamara (Knie, OUT laut SI+CBSSports+Sportsgambler) - 2026-Saison-Long-Term-OUT",
+        "Amadou Onana (Knie/Wade, OUT laut SI+CBSSports+Sportsgambler) - aus dem Kader",
+        "Alysson Edward (Sonstige Verletzung, OUT laut Sportsgambler)",
+        "Emiliano Buendia (Doubtful laut SI nach Comeback) - moegliche Wechsel-Option"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Bundesliga-Saison endete 16.05. (MD34), keine Pokal-/Verbandsspiele mehr bis Saisonende; Freiburg Platz 7 final laut Sportsgambler",
+        "gast": "Premier League MD38 noch offen am 24.05. (4 Tage NACH EL-Finale) - PL-Saison endet Sonntag 24.05.; CL-Quali bereits gesichert (Platz 4, 62 Pkt). Doppelbelastung gering, da PL-MD38 nichts mehr aendern kann an Villa-Platzierung",
+        "quellen": [
+          "https://en.wikipedia.org/wiki/2026_UEFA_Europa_League_final",
+          "https://www.uefa.com/uefaeuropaleague/news/02a5-209b3c1cf041-1c0c1093fdad-1000--freiburg-vs-aston-villa-what-to-look-out-for-in-the-euro/",
+          "https://www.avfc.co.uk/news/2026/may/15/news-aston-villa-clinch-champions-league-place/"
+        ]
+      },
+      "saisonziel_heim": "EL-Finale historisches erstes Continental Final, BL-Saison beendet auf Platz 7 (47 Pkt, 13W-8D-13L) laut Sportsgambler - Pokal-Trophaee als Saison-Kroenung waere bahnbrechend; Conference-Quali bereits durch EL-Erreichen mindestens gesichert",
+      "saisonziel_gast": "Champions-League-Qualifikation bereits gesichert via PL-Platz 4 (62 Pkt nach 37 Spielen, Sieg 4-2 vs Liverpool 15.05.) laut ESPN+avfc.co.uk; EL-Pokal waere Bonus + Unai-Emerys 5. EL-Titel (Rekord)",
+      "tabellenstand": {
+        "heim_liga": "Bundesliga",
+        "heim_platz": 7,
+        "heim_pkt": 47,
+        "heim_spiele": 34,
+        "heim_bilanz": "13W-8D-13L",
+        "gast_liga": "Premier League",
+        "gast_platz": 4,
+        "gast_pkt": 62,
+        "gast_spiele": 37,
+        "quelle": "https://www.sportsgambler.com/betting-tips/football/freiburg-vs-aston-villa-prediction-lineups-odds-2026-05-20/, https://www.cbssports.com/betting/news/freiburg-vs-aston-villa-prediction-odds-expert-best-bets-for-europa-league-final-on-wednesday-may-20/"
+      },
+      "form_heim_letzte_10": "6S-1U-3N (Sportsgambler letzte 10), 2.0 Tore/Spiel, 1.4 Gegentore/Spiel, 50.1% Ballbesitz - BL-Highlights: 4-1 Sieg vs RB Leipzig (16.05., Saisonabschluss), 2-3 Niederlage @ HSV (10.05.), 1-1 vs Wolfsburg (03.05.); EL-KO-Phase: 5-2 vs Genk, 6-1 vs Celta Vigo, 4-3 vs Braga (3-1 zweiter Leg)",
+      "form_gast_letzte_10": "5S-2U-3N (Sportsgambler letzte 10), 2.3 Tore/Spiel, 1.3 Gegentore/Spiel, 51.9% Ballbesitz - Highlights: 4-2 vs Liverpool (15.05. Watkins-Doppelpack); EL-KO-Phase: 3-0 vs Lille, 7-1 vs Bologna, 4-1 vs Nottingham Forest (4-0 zweiter Leg); 9 Siege aus letzten 10 EL-Spielen laut SBD; 8 Clean Sheets in EL-Saison, 4 Clean Sheets in 6 KO-Spielen laut Covers; in 14 EL-Spielen 14-2 Tore in 6 KO-Matches",
+      "h2h": "Keine bekannten Pflichtspiel-Vorbegegnungen Freiburg vs Aston Villa - erstes direktes Duell der Vereine laut Wikipedia; Freiburg Erstauftritt in EL-Finale, Villa Erstauftritt in EL-Finale (letztes Europacup-Finale 1982 European Cup Sieg)",
+      "recovery_heim": "4 Tage seit letztem Spiel (4-1 Sieg vs RB Leipzig 16.05. Saison-Abschluss); voll fit/regeneriert, kein paralleles Spiel bis EL-Finale",
+      "recovery_gast": "5 Tage seit letztem Spiel (4-2 Sieg vs Liverpool 15.05. PL); voll regeneriert; PL-MD38 erst 24.05. NACH EL-Finale",
+      "manager": {
+        "heim": "Julian Schuster - SC Freiburg (Trainer-Posten seit 2024)",
+        "gast": "Unai Emery - Aston Villa (seit Okt 2022); EL-Pedigree: 4x EL-Sieger mit Sevilla (2014, 2015, 2016) + Villarreal (2021); 6 Europacup-Finals erreicht insgesamt; Rekord-Sieger der Wettbewerbs"
+      },
+      "quoten": {
+        "bet365_aggregator": {
+          "sieg_heim": 5.00,
+          "draw": 4.00,
+          "sieg_gast": 1.68,
+          "ueber_2_5": 1.95,
+          "unter_2_5": 1.83,
+          "btts_ja": 1.89,
+          "btts_nein": 1.85,
+          "dc_1x": 2.20,
+          "dc_12": 1.25,
+          "dc_x2": 1.20,
+          "asian_handicap_gast_minus_0_75": 1.80,
+          "torschuetzen_jederzeit_geschaetzt": {
+            "Watkins": 1.95,
+            "Matanovic": 3.70,
+            "Grifo": 4.50,
+            "McGinn": 5.00,
+            "Rogers": 4.00,
+            "Asensio": 5.50,
+            "Rashford": 4.50,
+            "Duran": 5.00,
+            "Manzambi": 6.00,
+            "Hoeler_oder_Beste": 7.00
+          },
+          "hinweis": "Konversion aus US-Format Aggregator (Sportsgambler, CBSSports, SBD): Freiburg +460 bis +488 = ca. 5.00 / Draw +275 bis +300 = ca. 4.00 / Villa -147 bis -160 = ca. 1.68 (Sportsgambler -156 Mittelwert) / O2.5 -104 bis +104 = ca. 1.95 / U2.5 -108 bis -137 = ca. 1.83 / BTTS-Ja -112 = ca. 1.89 / AH Villa -0.75 -125 = ca. 1.80. Top-Scorer-Quoten geschaetzt aus US-Markt-Notizen (Watkins -105 first scorer = ca. 1.95, Matanovic +270 first = ca. 3.70 jederzeit-Konversion); bei bet365 LIVE pruefen vor Tipp - kann sich aendern."
+        },
+        "fair_line_basis_prozent": {
+          "sieg_heim": 17,
+          "draw": 25,
+          "sieg_gast": 58,
+          "ai_modell_villa_win_prob": 54.81,
+          "quelle_sbd": "SBD: Villa 59% / Draw 25% / Freiburg 17% impliziert aus -144/-300/+488; Lineups-Modell ProjektWahrscheinlichkeit Villa 54.81%"
+        }
+      },
+      "news_kompakt": [
+        "Historisches Finale: Freiburg ERSTES Continental-Finale ueberhaupt - bisher nie europaeische Pokal-Final-Teilnahme. Villa ERSTES UEFA-Finale seit European-Cup-Sieg 1982",
+        "Markt klar Villa-Favorit (Quoten Villa 1.68 / Freiburg 5.00) - Buchmacher sehen 58-61% Villa-Sieg, Freiburg Underdog 17%",
+        "Unai Emery EL-Spezialist: 4x EL-Trophaee (3x Sevilla, 1x Villarreal); 6 Europacup-Finals - Rekord-Halter",
+        "Villa-Form stark: 9 Siege aus letzten 10 EL-Spielen, 8 Clean Sheets in EL-Saison, 4-2 Sieg gegen Liverpool 15.05. mit Watkins-Doppelpack",
+        "Freiburg-Defensive Schwachstelle: 57 BL-Gegentore in 34 Spielen, 1.67 Gegentore/Spiel - 6-2 vs Bayern + 0-4 vs Dortmund Saison-Ausreisser",
+        "Watkins-Schluesselrolle: 10 Tore in letzten 11 Spielen, Saison-Form-Peak; Anytime-Scorer-Quote ca. 1.95",
+        "Ausfaelle Villa schwer: Kamara + Onana (beide DM-Anker) komplett OUT; Lindeloef rueckt aus IV in DM, Tielemans bleibt CM-Anker - mehr Box-Risiko",
+        "Ausfaelle Freiburg ebenfalls schwer: Top-Goalassist-Mann Suzuki Schluesselbeinbruch seit 15.05., Osterhage Knie - mehr Set-Piece-Druck noetig, Matanovic + Grifo Doppel-Hoffnung",
+        "Bet365-Hinweise: Best-Bet-Konsens aus Quellen ist 'Villa Sieg + Watkins anytime' Doppel; alternative Tipps Under-2.5 wegen Finalspiel-Tightness und Villa-Defense",
+        "Stadt+Finanz-Asymmetrie: Villa Kader-Wert 637 Mio USD vs Freiburg 222 Mio USD; Gehaltsetat Villa 177 Mio vs Freiburg 66 Mio (Faktor 2.6x) - Quelle CBSSports",
+        "Schiedsrichter Letexier (FR) frueh-Karriere-EL-Final - VAR Brisard"
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/freiburg-vs-aston-villa-prediction-lineups-odds-2026-05-20/",
+        "https://www.si.com/soccer/freiburg-vs-aston-villa-europa-league-final-preview-predictions-lineups-5-20-26",
+        "https://www.cbssports.com/betting/news/freiburg-vs-aston-villa-prediction-odds-expert-best-bets-for-europa-league-final-on-wednesday-may-20/",
+        "https://www.sportsbettingdime.com/news/soccer/aston-villa-vs-freiburg-prediction-picks-odds-europa-league-final/",
+        "https://www.covers.com/soccer/sc-freiburg-vs-aston-villa-predictions-picks-wednesday-may-20-2026",
+        "https://en.wikipedia.org/wiki/2026_UEFA_Europa_League_final",
+        "https://www.uefa.com/uefaeuropaleague/news/02a5-209b3c1cf041-1c0c1093fdad-1000--freiburg-vs-aston-villa-what-to-look-out-for-in-the-euro/",
+        "https://www.avfc.co.uk/news/2026/may/15/news-aston-villa-clinch-champions-league-place/",
+        "https://rbleipzig.com/en/news/match-report-bundesliga-sc-freiburg-vs-rb-leipzig-16th-may-2026"
+      ]
+    },
+    {
+      "id": "2026-05-20-okc-sas",
+      "liga": "NBA",
+      "stage": "WESTERN_CONFERENCE_FINALS",
+      "spiel_label": "Game 2 (Serie 0-1 fuer Spurs)",
+      "heim": "Oklahoma City Thunder",
+      "gast": "San Antonio Spurs",
+      "anstoss": "2026-05-21T02:30:00+02:00",
+      "anstoss_lokal_et": "2026-05-20T20:30:00-04:00",
+      "anstoss_utc": "2026-05-21T00:30:00Z",
+      "stadion": "Paycom Center, Oklahoma City",
+      "schiedsrichter": "nicht genannt in den eingesehenen Vorberichten",
+      "squad_heim": [
+        {"name": "Shai Gilgeous-Alexander", "position": "PG", "verifiziert_via": "https://www.nbcsports.com/nba/news/thunder-vs-spurs-wcf-game-2-predictions-odds-recent-stats-trends-and-best-bets-for-may-20", "hinweis": "MVP-Kandidat; Game 1 nur 24 Pkt auf 7-23 FG - Effizienz-Crash"},
+        {"name": "Luguentz Dort", "position": "SG", "verifiziert_via": "https://www.nbcsports.com/nba/news/thunder-vs-spurs-wcf-game-2-predictions-odds-recent-stats-trends-and-best-bets-for-may-20", "hinweis": "Wing-Defender"},
+        {"name": "Jalen Williams", "position": "SF", "verifiziert_via": "https://www.nbcsports.com/nba/news/thunder-vs-spurs-wcf-game-2-predictions-odds-recent-stats-trends-and-best-bets-for-may-20", "hinweis": "Rueckkehr aus Hamstring-Verletzung Game 1; spielte 37 Min, 26 Pkt auf 25 Wuerfe - hohes Volumen; Prop O17.5 Pkt"},
+        {"name": "Chet Holmgren", "position": "PF", "verifiziert_via": "https://www.nbcsports.com/nba/news/thunder-vs-spurs-wcf-game-2-predictions-odds-recent-stats-trends-and-best-bets-for-may-20", "hinweis": "Stretch-4 / Backup-Center"},
+        {"name": "Isaiah Hartenstein", "position": "C", "verifiziert_via": "https://www.nbcsports.com/nba/news/thunder-vs-spurs-wcf-game-2-predictions-odds-recent-stats-trends-and-best-bets-for-may-20", "hinweis": "Starting-Center gegen Wembanyama-Matchup"},
+        {"name": "Alex Caruso", "position": "Bank/SG", "verifiziert_via": "https://www.nbcsports.com/nba/news/thunder-vs-spurs-wcf-game-2-predictions-odds-recent-stats-trends-and-best-bets-for-may-20", "hinweis": "Game-1-Held: 31 Pkt + 8-14 3PT von der Bank"},
+        {"name": "Cason Wallace", "position": "Bank/PG", "verifiziert_via": "https://www.nbcsports.com/nba/news/thunder-vs-spurs-wcf-game-2-predictions-odds-recent-stats-trends-and-best-bets-for-may-20", "hinweis": "Backup-Guard-Defender; OKC-Rotation"},
+        {"name": "Aaron Wiggins", "position": "Bank/SF", "verifiziert_via": "https://www.nbcsports.com/nba/news/thunder-vs-spurs-wcf-game-2-predictions-odds-recent-stats-trends-and-best-bets-for-may-20", "hinweis": "Backup-Wing"},
+        {"name": "Kenrich Williams", "position": "Bank/PF", "verifiziert_via": "https://www.nbcsports.com/nba/news/thunder-vs-spurs-wcf-game-2-predictions-odds-recent-stats-trends-and-best-bets-for-may-20", "hinweis": "Backup-Forward"}
+      ],
+      "squad_gast": [
+        {"name": "Stephon Castle", "position": "PG", "verifiziert_via": "https://www.nbcsports.com/nba/news/thunder-vs-spurs-wcf-game-2-predictions-odds-recent-stats-trends-and-best-bets-for-may-20", "hinweis": "Starts wegen Fox-Verletzung"},
+        {"name": "Dylan Harper", "position": "SG", "verifiziert_via": "https://www.nbcsports.com/nba/news/thunder-vs-spurs-wcf-game-2-predictions-odds-recent-stats-trends-and-best-bets-for-may-20", "hinweis": "Rookie 20 J.; Game 1: 24/11/6/7 STL in 47 Min; Prop O4.5 Reb (4 Spiele in Folge)"},
+        {"name": "Devin Vassell", "position": "SG/SF", "verifiziert_via": "https://www.nbcsports.com/nba/news/thunder-vs-spurs-wcf-game-2-predictions-odds-recent-stats-trends-and-best-bets-for-may-20", "hinweis": "Wing-Scorer"},
+        {"name": "Julian Champagnie", "position": "PF", "verifiziert_via": "https://www.nbcsports.com/nba/news/thunder-vs-spurs-wcf-game-2-predictions-odds-recent-stats-trends-and-best-bets-for-may-20", "hinweis": "Starting-Forward"},
+        {"name": "Victor Wembanyama", "position": "C", "verifiziert_via": "https://www.nbcsports.com/nba/news/thunder-vs-spurs-wcf-game-2-predictions-odds-recent-stats-trends-and-best-bets-for-may-20", "hinweis": "NBA DPOY 2026; Game 1: 41 Pkt + 24 Reb + 3 Blk historisch; Prop O24.5 Pkt - Modell projiziert 25.5"}
+      ],
+      "injuries_heim": [
+        "Thomas Sorber (Knie, OUT FUER SAISON laut NBCSports + CBSSports)"
+      ],
+      "injuries_gast": [
+        "De'Aaron Fox (Knoechel, Q laut NBCSports + CBSSports + Sportsgrid) - Game-Time-Decision laut Coach Mitch Johnson, hat Game 1 verpasst",
+        "David Jones Garcia (Knoechel, OUT FUER SAISON laut NBCSports)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - regulaere NBA-Postseason WCF Game 2 (Serie 0-1); Sorber Saison-Long-Term-OUT",
+        "gast": "keine - regulaere NBA-Postseason WCF Game 2 (Serie 1-0 nach OT-Sieg G1)",
+        "quellen": [
+          "https://www.nbcsports.com/nba/news/thunder-vs-spurs-wcf-game-2-predictions-odds-recent-stats-trends-and-best-bets-for-may-20",
+          "https://www.basketball-reference.com/boxscores/202605180OKC.html"
+        ]
+      },
+      "saisonziel_heim": "Defending Champions OKC (Titel-Verteidigung 2025-26): WCF zurueck-zu-Comeback nach 0-1-Defizit; Top-Saatung West (vermutlich Seed 1, Game 1 Heim aber verloren)",
+      "saisonziel_gast": "Spurs erstmals WCF seit Duncan-Aera; Wembanyama-Aufstieg zum NBA-Star; 1-0-Fuehrung in der Serie",
+      "tabellenstand": {
+        "serie_stand": "Spurs fuehren 1-0",
+        "spielort": "Game 2 OKC Heim",
+        "serie_format": "Best-of-7",
+        "quelle": "https://www.espn.com/nba/story/_/id/48808810/oklahoma-city-thunder-san-antonio-spurs-game-1-nba-playoffs-2026-live-updates"
+      },
+      "form_heim_letzte_10": "OKC West-Seed-1 in Regular Season (vermutet), Conference-Semifinals gewonnen vor WCF; Game 1: 115-122 Niederlage in 2OT zu Hause - Caruso 31 Pkt, Williams 26 Pkt, SGA 24 Pkt aber 7-23 FG (30%); 3PT 9-31 (29%) klare Schwaeche",
+      "form_gast_letzte_10": "Spurs Conference-Semifinals gewonnen vor WCF; Game 1: 122-115 Sieg 2OT in OKC - Wembanyama 41 Pkt / 24 Reb / 3 Blk historisch, Harper 24/11/6/7 STL als Rookie-Starter",
+      "h2h": "Game 1 WCF: Spurs 122-115 2OT (18.05.2026 in OKC); Regular Season 2025-26 Wembanyama Season-High vs OKC nur 22 Pkt - hat das Niveau in PO klar gehoben",
+      "recovery_heim": "2 Tage seit Game 1 (18.05.); voll regeneriert",
+      "recovery_gast": "2 Tage seit Game 1 (18.05.) inkl. 2OT-Belastung; Wembanyama spielte intensive 47+ Min - Muedigkeits-Risiko nach Doppel-Overtime Game 1",
+      "manager": {
+        "heim": "Mark Daigneault - OKC Thunder (NBA Coach of the Year Saison 2023-24)",
+        "gast": "Mitch Johnson - San Antonio Spurs"
+      },
+      "quoten": {
+        "bet365_aggregator": {
+          "moneyline_heim": 1.42,
+          "moneyline_gast": 2.95,
+          "spread_heim_minus_6_5": 1.91,
+          "spread_gast_plus_6_5": 1.91,
+          "total_punkte_linie": 216.5,
+          "ueber_total": 1.90,
+          "unter_total": 1.83,
+          "player_props_geschaetzt": {
+            "Wembanyama_ueber_24_5_Pkt": 1.85,
+            "Wembanyama_unter_24_5_Pkt": 1.85,
+            "Williams_ueber_17_5_Pkt": 1.85,
+            "Harper_ueber_4_5_Reb_VERBOTEN_DE": "VERBOTEN in DE - Einzel-Rebound-Prop nicht zulaessig laut CLAUDE.md",
+            "SGA_punkte_linie_geschaetzt": 27.5,
+            "Holmgren_punkte_linie_geschaetzt": 18.5
+          },
+          "hinweis": "Konversion: Thunder ML -238 bis -250 = ca. 1.42 / Spurs ML +195 bis +205 = ca. 2.95 / Spread OKC -6.5 -110 = ca. 1.91 / Total 216.5 O -105 = ca. 1.90 / U -120 = ca. 1.83. Wemby-Prop O24.5 -115 = ca. 1.85. Modell-Projektion 25.5-25.7 Pkt Wembanyama. WARN: Einzel-Rebound-Tipps in DE bei bet365 NICHT verfuegbar - duerfen nicht im Tipp-Plan auftauchen. Bei Wettzeit live pruefen."
+        },
+        "fair_line_basis_prozent": {
+          "sieg_heim": 64,
+          "sieg_gast": 36,
+          "modell_quelle": "Numberfire-aehnliches Modell: OKC win 64% Sieg, Sieg um 4.0 Pkt - laut Sportsgrid"
+        }
+      },
+      "news_kompakt": [
+        "Serie steht 0-1 fuer Spurs nach Game 1 122-115 Doppel-Overtime; Heim-Niederlage OKC im ersten Match unerwartet",
+        "Wembanyama Game-1-Held: 41 Pkt + 24 Reb + 3 Blk - zweiter Spurs-Spieler mit 40/20 in Playoff-History; mit 22 Jahren juengster 40/20-Spieler in NBA-PO-Geschichte (vor Kareem)",
+        "Thunder-Schwaeche Game 1: 3PT 9-31 (29%), SGA 7-23 FG-Effizienz-Crash - Quelle NBCSports/CBSSports",
+        "Caruso 31 Pkt + 8-14 3PT (Bank) als OKC-Lichtblick - aber nicht genug fuer Sieg",
+        "Spurs-Rookie Dylan Harper als Game-1-Co-Star: 24/11/6/7 STL bei 47 Min als Fox-Vertreter - Prop O4.5 Reb (4 Spiele Streak)",
+        "Fox (Knoechel) Q - Game-Time-Decision; falls Fox spielt, Harper-Volumen sinkt",
+        "Markt OKC -6.5 Favorit - Modell-Projektion 4.0-Pkt-Sieg OKC bei 64% Win-Prob",
+        "Best-Bets-Konsens (NBCSports Rotoworld): Spurs +6.5 ATS + Under 216.5 - tighte Defensive Schlacht erwartet",
+        "Wembanyama-Belastungs-Risiko: 47+ Min in Game 1 inkl. 2OT - Coach Mitch Johnson koennte Minuten-Management einfuehren",
+        "DE-Tipp-Hinweis: NUR Punkte-Props (Spieler-Einzelpunkte), Moneyline, Spread, Totals erlaubt - Reb/Ast/PRA verboten"
+      ],
+      "quellen_aggregator": [
+        "https://www.nbcsports.com/nba/news/thunder-vs-spurs-wcf-game-2-predictions-odds-recent-stats-trends-and-best-bets-for-may-20",
+        "https://www.cbssports.com/nba/news/nba-player-prop-picks-odds-three-best-2026-nba-playoffs-prop-bets-spurs-thunder-game-2/",
+        "https://www.cbssports.com/nba/news/thunder-spurs-prediction-game-2-odds-pick-tv-channel/",
+        "https://www.sportsgrid.com/nba/game/san-antonio-spurs-oklahoma-city-thunder-scores-odds-picks-props-may-20-2026/2b46dfc3-486c-497e-ad6e-5f03cd7d174b",
+        "https://www.basketball-reference.com/boxscores/202605180OKC.html",
+        "https://www.espn.com/nba/story/_/id/48808810/oklahoma-city-thunder-san-antonio-spurs-game-1-nba-playoffs-2026-live-updates",
+        "https://www.yardbarker.com/nba/articles/spurs_vs_thunder_game_2_2026_nba_wcf_prediction_odds_injury_update_may_20/s1_17759_43860211"
+      ]
+    }
+  ],
+  "spiele_count": 2,
+  "skipped_due_to_no_relevant_fixtures": [
+    "Bundesliga (Saison endete 17.05., MD34 abgeschlossen)",
+    "Premier League (zwischen MD37 19.05. und MD38 24.05., Werktag)",
+    "LaLiga (zwischen MD37 17.05. und MD38 24.05.)",
+    "Serie A (zwischen MD37 18.05. und MD38 24.05.)",
+    "Ligue 1 (Saison beendet)",
+    "DFB-Pokal (Saison beendet, Finale Mai 2026 bereits gespielt)",
+    "Coppa Italia (Finale bereits gespielt)",
+    "Championship/League One/League Two Playoffs (Finals 23.-25.05.)",
+    "Champions League (Finale 30.05. Budapest Arsenal vs PSG)",
+    "Conference League (Finale 27.05.)"
+  ],
+  "footer": {
+    "spielerschutz": "18+ - bet365 DE - Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+    "rechtlich_hinweis": "EL-Finale: 2:0-Insurance gilt NICHT (CLAUDE.md beschraenkt auf BL + CL). Verbotene NBA-Maerkte beachten: keine Einzel-Reb/Ast/Blk/Steals/Turnovers, keine PRA-Kombos, keine Punkte+Reb/Ast-Kombi, keine Einzel-3er. Erlaubt: ML, Spread, Totals, Einzel-Punkte-Props, Double/Triple-Double, Meiste Punkte."
+  }
+}
