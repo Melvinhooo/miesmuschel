@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS = {
+{
   "datum": "2026-05-20",
   "erstellt_am": "2026-05-20T17:15:00+02:00",
   "hinweis": "🐚 Watchdog-Recovery 17:15 (Hauptroutine 16:00 nicht durchgelaufen). Mini-Spiele-Tag (2 Spiele): EL-Finale Freiburg-Villa in Istanbul + NBA-WCF-G2 Thunder-Spurs in OKC. Quoten via Oddschecker / bet365-News verifiziert. Pinnacle 403 → Opta-Supercomputer 68% Villa-Sieg als Fair-Line-Baseline. Kombi-Cap aktiv (max 1 Kombi laut Lesson 19.05.). NBA-Playoffs nie SAFE (HR16) — Player-Punkte komplett raus.",
@@ -304,4 +303,4 @@ window.__MIESMUSCHEL_TIPPS = {
     }
   ],
   "footer": "18+ · bet365 DE · Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
-};
+}
