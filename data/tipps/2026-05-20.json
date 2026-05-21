@@ -351,31 +351,6 @@
         "Lesson 20.05.a Tag-Retter-Risiko-Kombi-Validierungs-Vorlage angewandt"
       ],
       "empfohlener_einsatz_prozent": 0.25
-    },
-    {
-      "id": "kombi-moonshot",
-      "name": "Moonshot-Mini (Mini-Spiele-Tag, 2 Beine)",
-      "kategorie": "moonshot",
-      "beine": [
-        {
-          "spiel_id": "2026-05-20-okc-sas",
-          "markt": "Sieg San Antonio Spurs (Moneyline)",
-          "quote": 2.95
-        }
-      ],
-      "gesamtquote": 2.95,
-      "gesamtquote_rechnung": "5.00 × 2.95 = 14.75",
-      "einsatz_euro": 0.55,
-      "einsatz_prozent_kasse": 0.1,
-      "gewinn_brutto_euro": 8.11,
-      "begruendung": "Doppel-Underdog-Spass: Freiburg-Underdog-Final-Magie + Spurs-Sweep-Chance nach G1-2OT-Sieg. 14.75x ist unter Master-Soll 100x+ - bei Mini-Spiele-Tag mathematisch unmoeglich ohne Layer-Bruch. Komplementaer zu Safe-Kombi (gegensaetzliche Sieg-Outcomes - kein Korrelations-Doppel, sondern Diversifikation). Stake Moonshot 0.1% × 550€ = 0.55€. Bei bet365 live pruefen.",
-      "lessons_check": [
-        "Layer-2 Sondersituation: Sieg-Outcomes Freiburg+Spurs sind GEGENSAETZLICH zu Villa+OKC in Safe (komplementaer, nicht doppelt korreliert) - Lesson-Geist 29.04. respektiert (kein Doppel-Korrelations-Risiko)",
-        "Mini-Spiele-Tag-Lesson 19.05.: Quote 100x+ nicht erreichbar ohne Layer-1-Bruch, akzeptiert mit reduziertem Stake",
-        "Spielerschutz-Hinweis: pure Spass-Wette, kein Edge-Setup"
-      ],
-      "empfohlener_einsatz_prozent": 0.1,
-      "rechnung": "2.95 = 2.95"
     }
   ],
   "lessons_angewandt": [

@@ -80,7 +80,8 @@ window.__MIESMUSCHEL_TIPPS = {
           "einsatz_euro": 1.4,
           "einsatz_prozent_kasse": 0.25
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-21-nyk-cle",
@@ -146,7 +147,8 @@ window.__MIESMUSCHEL_TIPPS = {
           "einsatz_euro": 1.4,
           "einsatz_prozent_kasse": 0.25
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     }
   ],
   "einzeltipps": [
@@ -161,7 +163,8 @@ window.__MIESMUSCHEL_TIPPS = {
       "faire_quote": 1.59,
       "empfohlener_einsatz_prozent": 1.0,
       "einsatz_euro": 5.5,
-      "einsatz_prozent_kasse": 1.0
+      "einsatz_prozent_kasse": 1.0,
+      "rang": 1
     },
     {
       "id": "et-2",
@@ -174,7 +177,8 @@ window.__MIESMUSCHEL_TIPPS = {
       "faire_quote": 1.4,
       "empfohlener_einsatz_prozent": 0.5,
       "einsatz_euro": 2.75,
-      "einsatz_prozent_kasse": 0.5
+      "einsatz_prozent_kasse": 0.5,
+      "rang": 2
     },
     {
       "id": "et-3",
@@ -187,7 +191,8 @@ window.__MIESMUSCHEL_TIPPS = {
       "faire_quote": 2.17,
       "empfohlener_einsatz_prozent": 0.25,
       "einsatz_euro": 1.4,
-      "einsatz_prozent_kasse": 0.25
+      "einsatz_prozent_kasse": 0.25,
+      "rang": 3
     },
     {
       "id": "et-4",
@@ -200,7 +205,8 @@ window.__MIESMUSCHEL_TIPPS = {
       "faire_quote": 1.79,
       "empfohlener_einsatz_prozent": 0.25,
       "einsatz_euro": 1.4,
-      "einsatz_prozent_kasse": 0.25
+      "einsatz_prozent_kasse": 0.25,
+      "rang": 4
     }
   ],
   "kombis": [
@@ -230,7 +236,8 @@ window.__MIESMUSCHEL_TIPPS = {
       "begruendung": "Mini-Spiele-Tag Safe-Kombi nach Lesson 21.05. Hartregel - nur Safe + Moonshot bei <=2 Spielen. 2-Bein-Kombi @ 2.52x. Beide Beine markt-entkoppelt: Tor-Aggregat (Familie C) + Spiel-Sieg-Outcome (Familie A). Layer-1 erfuellt (1 Bein/Spiel/Kombi). Layer-2 erfuellt (1 Spiel-Sieg-Outcome). Layer-3 erfuellt (keine Volume-Player-Stat-These). Beide Beine sind Markt-Goldgruben (Ueber 2.5 +33.2% ROI, Sieg-1X2 +9.1% ROI). Stake 2.0% * 550 EUR = 11.00 EUR. Potenzieller Netto-Gewinn +16.72 EUR. Bei bet365 live pruefen.",
       "layer1_check": "OK - 2 Beine aus 2 verschiedenen Spielen",
       "layer2_check": "OK - 1 Spiel-Sieg-Outcome (NYK), kein Doppel-Outcome",
-      "layer3_check": "OK - 0 Volume-Player-Stat-Thesen"
+      "layer3_check": "OK - 0 Volume-Player-Stat-Thesen",
+      "empfohlener_einsatz_prozent": 1.5
     },
     {
       "id": "kombi-moonshot",
@@ -258,7 +265,8 @@ window.__MIESMUSCHEL_TIPPS = {
       "begruendung": "Mini-Spiele-Tag Moonshot-Spass-Slot nach Lesson 21.05. - 0.1% Kasse fuer Lotterie-Tipp. Kombi @ ~72x. Beine markt-entkoppelt: Genaues Ergebnis Fussball (Familie A Outcome) + NBA Player-Punkte (Familie E). Layer-1 erfuellt (2 verschiedene Spiele). Layer-3: 1 Volume-Player-Stat-These (Brunson) - innerhalb Limit 'max 1 pro Kombi' (Lesson 21.05. sport-uebergreifend). Stake 0.1% * 550 EUR = 0.55 EUR. Realistische Hit-Rate ~1-2%. Bei bet365 live pruefen.",
       "layer1_check": "OK - 2 Beine aus 2 verschiedenen Spielen",
       "layer2_check": "OK - 0 Spiel-Sieg-ML-Outcomes (Genaues-Ergebnis und Player-Punkte sind keine ML)",
-      "layer3_check": "OK - 1 Volume-Player-Stat-These (Brunson 40+, einzige im Kombi)"
+      "layer3_check": "OK - 1 Volume-Player-Stat-These (Brunson 40+, einzige im Kombi)",
+      "empfohlener_einsatz_prozent": 0.1
     }
   ],
   "lessons_angewandt": [
