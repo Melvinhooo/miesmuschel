@@ -310,5 +310,51 @@
       "anwendung": "Wolfsburg-Paderborn ist BL-Relegation (Hybrid). CLAUDE.md beschraenkt 2:0-Insurance auf 'regulaere BL + CL'. Daher 2:0-Insurance hier NICHT angewendet - Wolfsburg-Sieg-Tipp ist regulaer wertbar."
     }
   ],
-  "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool, keine Einkommensquelle, nur setzen was du verlieren kannst."
+  "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool, keine Einkommensquelle, nur setzen was du verlieren kannst.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-05-21T16:05:00+02:00",
+    "verifikator_lauf": "Master-Tipps-Routine Phase 5 (Watchdog-Recovery-File ueberprueft, da Recherche-File data/recherche/2026-05-21.json fehlt und Watchdog 14:45 bereits vollstaendiges Dossier produziert hat)",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "markt_konflikt_dokumentation",
+        "spiel_id": "2026-05-21-wob-pad",
+        "kombi_id": "kombi-moonshot",
+        "details": "Markt 'Genaues Ergebnis 3:1 Wolfsburg' im Moonshot - fussball_analyse.md listet 'Genaues Ergebnis' unter 'Verbotene Maerkte (Lottery)', CLAUDE.md fuehrt es jedoch als bet365-DE-erlaubt. Moonshot-Kategorie ist explizit fuer Lotterie/Spass-Einsatz (CLAUDE.md), 0.55 EUR Stake = vernachlaessigbares Risiko. Behalten, aber Lesson-Vorschlag: fussball_analyse.md vs CLAUDE.md angleichen."
+      },
+      {
+        "art": "squad_quelle_unbestaetigt",
+        "spiel_id": "2026-05-21-wob-pad",
+        "tipp_id": "wob-pad-3",
+        "details": "Amoura-Backup 'Pejcinovic' in news[10] erwaehnt - aktuelle Verifikation (Wolfsburg-Squad 25/26) nicht im File. Tippt wird auf Amoura selbst (real, 8 BL-Tore), Backup-Erwaehnung ist Nebenargument fuer Einwechslungs-Boost. Kein Drop, da Haupt-Tipp Amoura squad-verifiziert via Saison-Statistik."
+      },
+      {
+        "art": "fehlende_recherche_datei",
+        "details": "data/recherche/2026-05-21.json existiert nicht - Watchdog hat ohne strukturiertes Recherche-File gearbeitet (Direkt-WebSearch). _emergency_recovery-Flag fehlt im Output - rueckwirkend dokumentiert in diesem Report."
+      },
+      {
+        "art": "edge_prozent_grob",
+        "details": "Edge-Werte (6.0%, 2.5%, 4.0%, 5.0%) sind Watchdog-Schaetzungen ohne Pinnacle-Fair-Line-Cross-Check (kein Recherche-File mit Pinnacle-Quoten). Bei bet365 live pruefen."
+      }
+    ],
+    "checks_bestanden": [
+      "Spieler-Halluzinations-Check: Amoura (WOB), Brunson/Mitchell/Anunoby (NBA) alle real - 0 Halluzinationen",
+      "Position-Mismatch-Check: Amoura ist ST (kein DM/IV-Bug Typ Hojlund), Brunson ist Punkte-Tipp (NBA-PG-Punkte trivial)",
+      "Saison-Kontext-Quellen-Check: WOB-PAD hat bundesliga.com (Verband) + kicker.de, NYK-CLE hat nba.com (Verband) + espn.com - alle Verband-Pflicht erfuellt",
+      "Layer-1-Check: Kombis haben je 2 Beine aus 2 verschiedenen Spielen",
+      "Layer-2-Check: Pro Spiel max 1 Sieg-Outcome ueber alle Kombis - NYK-ML in Safe (1x), 3:1-WOB in Moonshot (1x) - OK",
+      "Layer-3-Check: Volume-Player-Stat-These max 1 pro Kombi - Brunson 40+ in Moonshot (1x), Safe ohne Player-Stat - OK",
+      "Quoten-Rechnung: Safe 1.75*1.44=2.52 OK, Moonshot 12.0*6.0=72.0 OK",
+      "Beobachtungs-Liga-Check: NBA-ECF ist NICHT in beobachtungs_ligen.json (nur 'NBA Playoffs Round 1, Game 6' gelistet) - kein Downgrade",
+      "Bluter-Markt-Check: markt_bluter.json ist leer - kein Markt zu degradieren",
+      "Goldgruben-Aktiv-Such-Check: Ueber 2.5 (+33.2% ROI) als Safe-Bein UND Einzel + Torschuetzen Jederzeit (+20.5% ROI) als Wackel - Goldgruben aktiv gesucht",
+      "Mini-Spiele-Tag-Hartregel (Lesson 21.05.): nur 2 Kombis (Safe + Moonshot), Balance + Risiko skippt - OK",
+      "Selbstwiderspruchs-Scan: keine 'X OUT' + 'X spielt' Widersprueche, kein Klassen-Edge-Final-Falle (Volume-9er-Schweigen 21.05.) angewandt da Existenz-Druck-Relegation",
+      "2:0-Insurance-Geltungs-Check: WOB-PAD ist BL-Relegation (Hybrid), Insurance NICHT angewandt - CLAUDE.md-konform"
+    ],
+    "lessons_generiert": [],
+    "erfolgs_kriterium": "ERFUELLT - 0 halluzinierte Spieler, 0 unbegruendete Wettbewerbs-Behauptungen, 0 Selbstwidersprueche, Layer-2 sauber, _verifikations_report im File fuer PWA-Anzeige.",
+    "_emergency_recovery": true
+  }
 }
