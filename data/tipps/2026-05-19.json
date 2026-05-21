@@ -158,7 +158,7 @@
       "tipps": [
         {
           "id": "nyk-cle-1",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Sieg New York Knicks (Moneyline)",
           "prognose": "Knicks gewinnen Spiel regular",
           "quote": 1.38,
@@ -166,7 +166,7 @@
           "faire_quote": 1.3,
           "empfohlener_einsatz_prozent": 2.0,
           "einsatz_euro": 11.0,
-          "begruendung": "Klare Recovery-Edge SAFE: 9 Tage Pause vs 2 Tage Muede + Heimvorteil MSG + Cavs 1-5 Road-Bilanz Playoffs + Anunoby probable (Defense intakt). G1 ECF nicht Decider-Filter (G5-G7 max WACKEL) - G1-G4 frei. Historisch frischer-Heim-Team vs muede 22-6 SU. Quote 1.38 = SAFE-Range untere Haelfte. NBA-SAFE-selten-Caveat: hier durch Recovery-Asymmetrie + Heim-Sweep-Momentum + intakte Lineups legitim. Kasse 11 EUR (2.0% Stufe 1). [Auto: Saison-Kontext-Sanity - Belastungs-Warnung (Recovery) -> safe->value]",
+          "begruendung": "Klare Recovery-Edge SAFE: 9 Tage Pause vs 2 Tage Muede + Heimvorteil MSG + Cavs 1-5 Road-Bilanz Playoffs + Anunoby probable (Defense intakt). G1 ECF nicht Decider-Filter (G5-G7 max WACKEL) - G1-G4 frei. Historisch frischer-Heim-Team vs muede 22-6 SU. Quote 1.38 = SAFE-Range untere Haelfte. NBA-SAFE-selten-Caveat: hier durch Recovery-Asymmetrie + Heim-Sweep-Momentum + intakte Lineups legitim. Kasse 11 EUR (2.0% Stufe 1). [Auto: Saison-Kontext-Sanity - Belastungs-Warnung (Recovery) -> safe->value] [Auto: Saison-Kontext-Sanity - Belastungs-Warnung (Recovery) -> value->wackel]",
           "_saison_kontext_sanity_downgrade": true
         },
         {

@@ -44,12 +44,12 @@
           "id": "fre-avl-1",
           "kategorie": "safe",
           "markt": "Doppelte Chance Villa oder Unentschieden (X2)",
-          "quote": 1.20,
+          "quote": 1.2,
           "edge_prozent": 3.5,
           "begruendung": "Villa-Klassen-Edge (PL Top-4 + 9/10 EL-Siege + 8 Clean Sheets) deckt DC X2 mit hoher Sicherheit ab - Freiburg-Sieg in regulaerer Zeit historisch sehr selten bei dieser Klassen-Asymmetrie + Suzuki-Ausfall. Markt-Goldgrube DC X2 (66.7% Hit / +7.1% ROI bei n=14). Faire Quote ~1.16; Bet365 @1.20 = +3.5% Edge. Stake Stufe 1 SAFE = 2% × 550€ = 11.00€. Bei bet365 live pruefen.",
           "faire_quote": 1.16,
           "empfohlener_einsatz_prozent": 2.0,
-          "einsatz_euro": 11.00,
+          "einsatz_euro": 11.0,
           "einsatz_prozent_kasse": 2.0
         },
         {
@@ -66,15 +66,16 @@
         },
         {
           "id": "fre-avl-3",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Ollie Watkins trifft jederzeit",
           "quote": 1.95,
           "edge_prozent": 1.5,
-          "begruendung": "HR24-Form-Edge erfuellt (10 Tore in 11 Spielen, Doppelpack vs Liverpool 15.05. = absolute Saison-Form-Peak) + zentraler 9er + Backup Duran (Einwechslungs-Boost-Kandidat). Lesson 18.05. Karriere-Highlight-Tor-Markt-Vorsicht greift NICHT (Watkins ist Form-Pflicht-Spieler, kein verabschiedeter Geehrter). Markt-Goldgrube Torschuetzen Jederzeit (38.2% Hit / +21.7% ROI bei n=34). Pre-Match-Aufstellungs-Verifikation 60-90 Min PFLICHT (Lesson 19.05.); falls Watkins NICHT in Startelf -> Tipp droppen. Stake VALUE 1.5% × 550€ = 8.25€. Bei bet365 live pruefen.",
+          "begruendung": "HR24-Form-Edge erfuellt (10 Tore in 11 Spielen, Doppelpack vs Liverpool 15.05. = absolute Saison-Form-Peak) + zentraler 9er + Backup Duran (Einwechslungs-Boost-Kandidat). Lesson 18.05. Karriere-Highlight-Tor-Markt-Vorsicht greift NICHT (Watkins ist Form-Pflicht-Spieler, kein verabschiedeter Geehrter). Markt-Goldgrube Torschuetzen Jederzeit (38.2% Hit / +21.7% ROI bei n=34). Pre-Match-Aufstellungs-Verifikation 60-90 Min PFLICHT (Lesson 19.05.); falls Watkins NICHT in Startelf -> Tipp droppen. Stake VALUE 1.5% × 550€ = 8.25€. Bei bet365 live pruefen. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "faire_quote": 1.92,
           "empfohlener_einsatz_prozent": 1.5,
           "einsatz_euro": 8.25,
-          "einsatz_prozent_kasse": 1.5
+          "einsatz_prozent_kasse": 1.5,
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "fre-avl-4",
@@ -85,17 +86,17 @@
           "begruendung": "Konsens-Best-Bet aus 4 Quellen (NBCSports/CBSSports/SBD/Covers): Finalspiel-Tightness + Villa-8-Clean-Sheets-EL-Saison + 4/6-KO-Phase + Freiburg-Suzuki-Ausfall (-Volume-Offensive). Modell-Wahrscheinlichkeit ~60-62% Unter 2.5; Bet365 @1.83 impliziert 54.6% = +6-8% Edge. Markt-Goldgrube Unter 2.5 (66.7% Hit / +25.3% ROI bei n=9). Lesson 01.05. EL/Conference-HF-Tor-These widerlegt - wirkt analog im Final-Drama. Stake VALUE 1.0% × 550€ = 5.50€. Bei bet365 live pruefen.",
           "faire_quote": 1.65,
           "empfohlener_einsatz_prozent": 1.0,
-          "einsatz_euro": 5.50,
+          "einsatz_euro": 5.5,
           "einsatz_prozent_kasse": 1.0
         },
         {
           "id": "fre-avl-5",
           "kategorie": "wackel",
           "markt": "Igor Matanovic trifft jederzeit",
-          "quote": 3.70,
+          "quote": 3.7,
           "edge_prozent": 5.0,
           "begruendung": "HR24-Form-Edge erfuellt (Top-Torjaeger Freiburg, 11 BL-Tore Saison 2025-26) + zentraler 9er + Backup Junior Adamu (Einwechslungs-Boost). WACKEL statt VALUE wegen Underdog-Final-Konstellation: Villa-Defense-Mauer (8 Clean Sheets EL) + Suzuki-Volumen-Verlust = Freiburg-Chancen-Volumen reduziert. Markt-Implizit 27% jederzeit-Tor @3.70 = fair. Stake WACKEL 0.5% × 550€ = 2.75€. Aufstellung pre-Match verifizieren (Lesson 14.05.). Bei bet365 live pruefen.",
-          "faire_quote": 3.50,
+          "faire_quote": 3.5,
           "empfohlener_einsatz_prozent": 0.5,
           "einsatz_euro": 2.75,
           "einsatz_prozent_kasse": 0.5
@@ -143,15 +144,16 @@
       "tipps": [
         {
           "id": "okc-sas-1",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Sieg Oklahoma City Thunder (Moneyline)",
           "quote": 1.42,
           "edge_prozent": 2.0,
-          "begruendung": "OKC-Bounce-Back-Setup: Heim-G2-Pflicht-Reaktion nach G1-Heim-Niederlage + SGA-Vengeance nach 7-23 FG-Crash + OKC-3PT-Crash 9-31 = Regression-zum-Mittel-Kandidat + Spurs-2OT-Marathon-Muedigkeit. NBA-Round-2-G2 ist Liga-Goldgrube (37.5% Hit / +56.2% ROI bei n=8). Markt-Modell 64% OKC-Win-Prob; Bet365 @1.42 impliziert 70.4% (etwas drueber Modell). VALUE statt SAFE wegen NBA-Playoff-Sieg-nie-SAFE-Default (Lesson 22.04. + HR-Reality). Lesson 13.05. Pivot-Vengeance-Geist analog. Stake VALUE 1.0% × 550€ = 5.50€. Bei bet365 live pruefen.",
-          "faire_quote": 1.50,
+          "begruendung": "OKC-Bounce-Back-Setup: Heim-G2-Pflicht-Reaktion nach G1-Heim-Niederlage + SGA-Vengeance nach 7-23 FG-Crash + OKC-3PT-Crash 9-31 = Regression-zum-Mittel-Kandidat + Spurs-2OT-Marathon-Muedigkeit. NBA-Round-2-G2 ist Liga-Goldgrube (37.5% Hit / +56.2% ROI bei n=8). Markt-Modell 64% OKC-Win-Prob; Bet365 @1.42 impliziert 70.4% (etwas drueber Modell). VALUE statt SAFE wegen NBA-Playoff-Sieg-nie-SAFE-Default (Lesson 22.04. + HR-Reality). Lesson 13.05. Pivot-Vengeance-Geist analog. Stake VALUE 1.0% × 550€ = 5.50€. Bei bet365 live pruefen. [Auto HR2: Heim-Krise/Sturm-Krise erkannt - Heim-Sieg/-DC/-Top-Stuermer max WACKEL]",
+          "faire_quote": 1.5,
           "empfohlener_einsatz_prozent": 1.0,
-          "einsatz_euro": 5.50,
-          "einsatz_prozent_kasse": 1.0
+          "einsatz_euro": 5.5,
+          "einsatz_prozent_kasse": 1.0,
+          "_heim_form_block": true
         },
         {
           "id": "okc-sas-2",
@@ -162,7 +164,7 @@
           "begruendung": "Best-Bet-Konsens NBCSports/CBSSports: tighte defensive Schlacht erwartet - WCF-Drama + Wembanyama-Defense (DPOY 2026, 3 Blk G1) + OKC-Top-3-Defense (Caruso/Dort Wing-Defender). Game 1 Regulation ~107-107 endete (Total Regulation ~189-200, +33 in 2OT), aber 2OT-Wahrscheinlichkeit in G2 deutlich niedriger. Modell-Projektion 4-Pkt-OKC-Sieg ~110:106 = 216 Total = Push-naehe. Implizit 54.6% Unter vs Modell ~57% = +2-3% Edge. Lesson 02.05. NBA-Closeout-Defensiv-Schlachten greift analog im WCF-Tightness. Stake VALUE 1.0% × 550€ = 5.50€. Bei bet365 live pruefen.",
           "faire_quote": 1.75,
           "empfohlener_einsatz_prozent": 1.0,
-          "einsatz_euro": 5.50,
+          "einsatz_euro": 5.5,
           "einsatz_prozent_kasse": 1.0
         },
         {
@@ -187,11 +189,13 @@
       "spiel_id": "2026-05-20-fre-avl",
       "kategorie": "safe",
       "markt": "Doppelte Chance Villa oder Unentschieden (X2)",
-      "quote": 1.20,
+      "quote": 1.2,
       "edge_prozent": 3.5,
       "begruendung": "Goldgrube DC X2 (66.7%/+7.1% ROI). Villa-Klassen-Edge sehr klar - Freiburg-Sieg-Wahrscheinlichkeit ~17%. Stake 2% × 550€ = 11€.",
-      "einsatz_euro": 11.00,
-      "einsatz_prozent_kasse": 2.0
+      "einsatz_euro": 11.0,
+      "einsatz_prozent_kasse": 2.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1
     },
     {
       "id": "et-2",
@@ -202,7 +206,9 @@
       "edge_prozent": 1.5,
       "begruendung": "HR24-Form-Edge (10 Tore in 11 Spielen, Doppelpack vs Liverpool 15.05.) + zentraler 9er + Backup Duran. Goldgrube Torschuetzen Jederzeit (+21.7% ROI). Pre-Match-Aufstellung verifizieren. Stake 1.5% × 550€ = 8.25€.",
       "einsatz_euro": 8.25,
-      "einsatz_prozent_kasse": 1.5
+      "einsatz_prozent_kasse": 1.5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 2
     },
     {
       "id": "et-3",
@@ -212,8 +218,10 @@
       "quote": 1.83,
       "edge_prozent": 8.0,
       "begruendung": "Konsens-Best-Bet aus 4 Quellen + Villa-Defense (8 Clean Sheets EL) + Final-Tightness. Goldgrube Unter 2.5 (+25.3% ROI). Stake 1.0% × 550€ = 5.50€.",
-      "einsatz_euro": 5.50,
-      "einsatz_prozent_kasse": 1.0
+      "einsatz_euro": 5.5,
+      "einsatz_prozent_kasse": 1.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 3
     },
     {
       "id": "et-4",
@@ -223,8 +231,10 @@
       "quote": 1.42,
       "edge_prozent": 2.0,
       "begruendung": "OKC-Bounce-Back-Setup nach G1-Heim-Niederlage + SGA-Vengeance + Spurs-2OT-Muedigkeit. Liga-Goldgrube NBA-Round-2-G2 (+56% ROI). VALUE statt SAFE (NBA-Playoff-Sieg-Default). Stake 1.0% × 550€ = 5.50€.",
-      "einsatz_euro": 5.50,
-      "einsatz_prozent_kasse": 1.0
+      "einsatz_euro": 5.5,
+      "einsatz_prozent_kasse": 1.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 4
     },
     {
       "id": "et-5",
@@ -234,19 +244,23 @@
       "quote": 1.83,
       "edge_prozent": 6.5,
       "begruendung": "Best-Bet-Konsens NBC/CBS: WCF-Tightness + Wembanyama-Defense + OKC-Top-3-Defense. Modell 4-Pkt-Sieg = 216 Push-naehe. Stake 1.0% × 550€ = 5.50€.",
-      "einsatz_euro": 5.50,
-      "einsatz_prozent_kasse": 1.0
+      "einsatz_euro": 5.5,
+      "einsatz_prozent_kasse": 1.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 5
     },
     {
       "id": "et-6",
       "spiel_id": "2026-05-20-fre-avl",
       "kategorie": "wackel",
       "markt": "Igor Matanovic trifft jederzeit",
-      "quote": 3.70,
+      "quote": 3.7,
       "edge_prozent": 5.0,
       "begruendung": "Top-Torjaeger Freiburg (11 BL-Tore Saison) + Backup Adamu (Einwechslungs-Boost). WACKEL wegen Underdog-Final + Villa-Defense-Mauer. Stake 0.5% × 550€ = 2.75€.",
       "einsatz_euro": 2.75,
-      "einsatz_prozent_kasse": 0.5
+      "einsatz_prozent_kasse": 0.5,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 6
     }
   ],
   "kombis": [
@@ -268,7 +282,7 @@
       ],
       "gesamtquote": 2.39,
       "gesamtquote_rechnung": "1.68 × 1.42 = 2.39",
-      "einsatz_euro": 11.00,
+      "einsatz_euro": 11.0,
       "einsatz_prozent_kasse": 2.0,
       "gewinn_brutto_euro": 26.29,
       "begruendung": "Beide Heim-Favoriten (Villa als Mehrheits-Sieg-These im EL-Final, OKC als Heim-G2-Bounce-Back-Favorit). 2.39x ist unter Master-Soll 3-5x - Mini-Spiele-Tag-Realitaet (Layer-1 erzwingt max 2 Beine bei 2 Spielen). Beide Beine 'Sieg-Outcome' - Layer-2 wird hier hart respektiert (kein zweiter Sieg-Outcome in anderer Kombi). Stake Stufe 1 Safe-Kombi 2% × 550€ = 11€. Bei bet365 live pruefen.",
@@ -276,7 +290,8 @@
         "Lesson 19.05. Mini-Spiele-Tag: bei 2 Spielen strukturell max 2 Beine/Kombi - akzeptiert",
         "Layer-2 hart eingehalten: Sieg-Outcome max 1 Kombi - hier Villa Sieg + OKC ML beide in Safe, NICHT doppelt verstreut",
         "Lesson 25.04. SAFE-Reality: Quote 2.39 wirkt safe aber strukturell Mini-Tag-Konstellation, daher voller Stake mit Single-Konfiguration"
-      ]
+      ],
+      "empfohlener_einsatz_prozent": 1.5
     },
     {
       "id": "kombi-balance",
@@ -296,7 +311,7 @@
       ],
       "gesamtquote": 3.57,
       "gesamtquote_rechnung": "1.95 × 1.83 = 3.57",
-      "einsatz_euro": 4.40,
+      "einsatz_euro": 4.4,
       "einsatz_prozent_kasse": 0.8,
       "gewinn_brutto_euro": 15.71,
       "begruendung": "Watkins-Form-Edge + WCF-Defense-Total-Konsens - markt-entkoppelt zu Safe-Kombi (kein Sieg-Outcome wiederholt, Layer-3 sauber). 3.57x ist unter Master-Soll 6-10x - Mini-Tag-Realitaet. Stake Balance-Kombi 0.8% × 550€ = 4.40€. Bei bet365 live pruefen.",
@@ -304,7 +319,8 @@
         "Layer-2: kein Sieg-Outcome (Watkins Tor + Total Unter) - sauber",
         "Layer-3 markt-entkoppelt: Torschuetzen-Markt + Total-Markt - sauber",
         "Lesson 02.05. Risiko-Kombi-Tag-Retter-Vorlage Markt-Entkopplung respektiert"
-      ]
+      ],
+      "empfohlener_einsatz_prozent": 0.5
     },
     {
       "id": "kombi-risiko",
@@ -314,7 +330,7 @@
         {
           "spiel_id": "2026-05-20-fre-avl",
           "markt": "Igor Matanovic trifft jederzeit",
-          "quote": 3.70
+          "quote": 3.7
         },
         {
           "spiel_id": "2026-05-20-okc-sas",
@@ -324,7 +340,7 @@
       ],
       "gesamtquote": 6.85,
       "gesamtquote_rechnung": "3.70 × 1.85 = 6.85",
-      "einsatz_euro": 1.40,
+      "einsatz_euro": 1.4,
       "einsatz_prozent_kasse": 0.25,
       "gewinn_brutto_euro": 9.59,
       "begruendung": "Matanovic-Underdog-Volumen-9er + Wembanyama-Punkte-Volumen (HR16-Ausnahme im Risiko-Kombi-Slot, kein Einzeltipp). Lesson 20.05.a Risiko-Tag-Retter-Vorlage: 2-Bein-Mini-Risiko mit Layer-3-Markt-Entkopplung (Torschuetzen + Player-Punkte = 2 verschiedene Markttypen). 6.85x ist unter Master-Soll 15-30x - Mini-Tag-Realitaet. Stake Risiko-Kombi 0.25% × 550€ = 1.40€. Bei bet365 live pruefen.",
@@ -333,7 +349,8 @@
         "Layer-2: kein Sieg-Outcome - sauber",
         "Layer-3 markt-entkoppelt: Torschuetzen (Fussball) + Player-Punkte (NBA) - sauber",
         "Lesson 20.05.a Tag-Retter-Risiko-Kombi-Validierungs-Vorlage angewandt"
-      ]
+      ],
+      "empfohlener_einsatz_prozent": 0.25
     },
     {
       "id": "kombi-moonshot",
@@ -341,17 +358,12 @@
       "kategorie": "moonshot",
       "beine": [
         {
-          "spiel_id": "2026-05-20-fre-avl",
-          "markt": "Sieg SC Freiburg (90 Min)",
-          "quote": 5.00
-        },
-        {
           "spiel_id": "2026-05-20-okc-sas",
           "markt": "Sieg San Antonio Spurs (Moneyline)",
           "quote": 2.95
         }
       ],
-      "gesamtquote": 14.75,
+      "gesamtquote": 2.95,
       "gesamtquote_rechnung": "5.00 × 2.95 = 14.75",
       "einsatz_euro": 0.55,
       "einsatz_prozent_kasse": 0.1,
@@ -361,7 +373,9 @@
         "Layer-2 Sondersituation: Sieg-Outcomes Freiburg+Spurs sind GEGENSAETZLICH zu Villa+OKC in Safe (komplementaer, nicht doppelt korreliert) - Lesson-Geist 29.04. respektiert (kein Doppel-Korrelations-Risiko)",
         "Mini-Spiele-Tag-Lesson 19.05.: Quote 100x+ nicht erreichbar ohne Layer-1-Bruch, akzeptiert mit reduziertem Stake",
         "Spielerschutz-Hinweis: pure Spass-Wette, kein Edge-Setup"
-      ]
+      ],
+      "empfohlener_einsatz_prozent": 0.1,
+      "rechnung": "2.95 = 2.95"
     }
   ],
   "lessons_angewandt": [
