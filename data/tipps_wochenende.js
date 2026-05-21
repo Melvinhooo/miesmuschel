@@ -36,40 +36,41 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
         {
           "id": "bol-int-1",
           "kategorie": "value",
-          "markt": "Doppelte Chance",
-          "auswahl": "Bologna oder Remis (1X)",
+          "markt": "Bologna oder Remis (1X)",
           "quote": 1.85,
           "quote_quelle": "Oddschecker/SportsGambler bet365-Linie (Implied 52.7% bei DC, Edge ueber Rotations-Adjustment)",
-          "einsatz_prozent": 2.0,
           "edge_prozent": 8,
           "begruendung": "DAS Anti-Top-Team-Pre-Final-Bein des Wochenendes. Inter rotiert vor CL-Finale 30.05. (Lesson 18.05. Cluster: PSG + Inter patzerten am 17.05. mit B-Elf, pfc-psg-1 DC X2 @1.13 als 'safe-nahe' verloren). Implizit hat Markt 53% fuer Bologna+Remis - real eher 62-65% mit Rotations-Adjustment (Lautaro/Barella/Bastoni geschont). Pinnacle-Vergleich >=3% angenommen (Markt-Konsens fuer Rotations-Spiel). Empfohlener Einsatz: 11€ (2% der 550€-Kasse, Stufe 1).",
-          "bewertung_label": "VALUE"
+          "bewertung_label": "VALUE",
+          "empfohlener_einsatz_prozent": 2.0,
+          "faire_quote": 1.71
         },
         {
           "id": "bol-int-2",
           "kategorie": "wackel",
-          "markt": "Sieg",
-          "auswahl": "Bologna Sieg",
+          "markt": "Bologna Sieg",
           "quote": 3.0,
           "quote_quelle": "Oddschecker bet365",
-          "einsatz_prozent": 0.5,
           "edge_prozent": 6,
           "begruendung": "Bologna-Sieg-Variante des Rotations-Edges - hoehere Quote, dafuer Risiko dass Inter trotz B-Elf eine Reaktion zeigt + Lautaro Quali rausgleicht. Markt-Implied 21.9% - reale Wahrscheinlichkeit mit Rotations-Adjustment 28-32%. Empfohlener Einsatz: 2,75€ (0,5%). Saisonkontext-Selbst-Check OK: Bologna-Edge konsistent zu DC-Tipp.",
-          "bewertung_label": "WACKEL"
+          "bewertung_label": "WACKEL",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 2.83
         },
         {
           "id": "bol-int-3",
           "kategorie": "wackel",
-          "markt": "Torschuetzen Jederzeit",
-          "auswahl": "Riccardo Orsolini trifft",
+          "markt": "Riccardo Orsolini trifft",
           "quote": 4.0,
           "quote_quelle": "Oddschecker bet365 (Markt-Estimate Mid-Range Torschuetze)",
-          "einsatz_prozent": 0.25,
           "edge_prozent": 4,
           "begruendung": "Bologna-Volume-Stuermer (Saison 12+ Tore + Heim-Saisonfinale-Motivation). Inter-Defense rotiert (Acerbi-Bastoni schonen) -> Defense-Schwaeche fuer schnellen Orsolini auf Rechtsaussen. Goldgrube-Markt 'Torschuetzen Jederzeit' (50% Hitrate / +24.4% ROI in statistik.json). Empfohlener Einsatz: 1,40€ (0,25%).",
-          "bewertung_label": "WACKEL"
+          "bewertung_label": "WACKEL",
+          "empfohlener_einsatz_prozent": 0.25,
+          "faire_quote": 3.85
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-23-bay-vfb",
@@ -105,64 +106,65 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
         {
           "id": "bay-vfb-1",
           "kategorie": "safe",
-          "markt": "Sieg",
-          "auswahl": "Bayern Muenchen Sieg (regulaere 90 Min)",
+          "markt": "Bayern Muenchen Sieg (regulaere 90 Min)",
           "quote": 1.2,
           "quote_quelle": "Oddschecker bet365 verifiziert + Wettfreunde Konsens (87% Implied)",
-          "einsatz_prozent": 1.5,
           "edge_prozent": 3,
           "begruendung": "Klassen-Edge maximal - Bayern Meister + 7d-Recovery + Kane-Hat-Trick-Form + KEIN CL-Doppelbelastung (raus seit Wochen, kein Lesson-03.05.-Risiko). Stuttgart pokalerfahren aber Klassen-Unterschied ueberbrueckbar nur ueber Tor-Festival mit Glueck. Goldgrube-Liga DFB-Pokal HF +46% ROI bei n=4 (kleine Sample-Warnung Lesson 19.05. - daher Einsatz konservativ 1,5%). Safe-Reality-Check: keine Komfort-Tokens im saison_kontext, Pflichtsieg-These haelt. Empfohlener Einsatz: 8,25€ (1,5% der 550€-Kasse).",
-          "bewertung_label": "SAFE"
+          "bewertung_label": "SAFE",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.17
         },
         {
           "id": "bay-vfb-2",
           "kategorie": "value",
-          "markt": "Torschuetzen Jederzeit",
-          "auswahl": "Harry Kane trifft",
+          "markt": "Harry Kane trifft",
           "quote": 1.45,
           "quote_quelle": "Oddschecker bet365 (Saison-Volume-9er Top-Linie)",
-          "einsatz_prozent": 2.0,
           "edge_prozent": 7,
           "begruendung": "Goldgrube 'Torschuetzen Jederzeit' (50% Hitrate / +24.4% ROI) + Kane Saison 36 Tore + Hat-Trick-Form letzte Woche + Bayern voll motiviert. Caveat Lesson 21.05. 'Klassen-Edge-Final-Volume-9er-Schweigen' (EL-Finale 20.05. Villa-Volume-9er traf nicht, Mittelfeld machte Tore) - aber Kane spielt 90 Min durch (kein Rotations-Risiko Lesson 03.05.), Pre-Match-Lineup-Check zeigt Kane in Startelf. Pflicht-Profil HEIM-FAVORIT bei <1.80-Sieg-Quote: Torschuetzen-Tipp PFLICHT (Lesson 04.05.). Empfohlener Einsatz: 11€ (2%).",
-          "bewertung_label": "VALUE"
+          "bewertung_label": "VALUE",
+          "empfohlener_einsatz_prozent": 2.0,
+          "faire_quote": 1.36
         },
         {
           "id": "bay-vfb-3",
           "kategorie": "wackel",
-          "markt": "Ueber/Unter Tore",
-          "auswahl": "Ueber 2.5 Tore",
+          "markt": "Ueber 2.5 Tore",
           "quote": 1.55,
           "quote_quelle": "Oddschecker bet365 (Goldgrube Markt-Aggregat)",
-          "einsatz_prozent": 0.5,
           "edge_prozent": 5,
           "begruendung": "Goldgrube-Markt Ueber 2.5 Tore (46.7% Hitrate / +33.2% ROI). Bayern offensiv stark (5:1 letzte BL), Stuttgart MUSS aktiv spielen statt 0:0-zu-mauern (Sieg-Quote 5.75 = kein Anreiz fuer Defensiv-Schlacht). Klassen-Edge-Finals tendieren zu Tor-Festivals (Lesson 21.05. Villa-Final 0:3 = Ueber 2.5 erreicht). Empfohlener Einsatz: 2,75€ (0,5%).",
-          "bewertung_label": "WACKEL"
+          "bewertung_label": "WACKEL",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.48
         },
         {
           "id": "bay-vfb-4",
           "kategorie": "wackel",
-          "markt": "Torschuetzen Jederzeit",
-          "auswahl": "Deniz Undav trifft",
+          "markt": "Deniz Undav trifft",
           "quote": 3.5,
           "quote_quelle": "Oddschecker Konsens fuer Stuttgart-Volume-Stuermer",
-          "einsatz_prozent": 0.25,
           "edge_prozent": 3,
           "begruendung": "Stuttgart-Stuermer (Doppelspitze mit Demirovic), Saison-Volumen-Schuetze + Final-Karriere-Highlight. bet365-Einwechslungs-Boost-Setup mit Demirovic (wenn Undav 70'-75' raus + Demirovic Tor → Tipp gewonnen ueber bet365-Regel CLAUDE.md). Caveat Lesson 27.04. (Boost nur wenn Tipp-Spieler SELBST ausgewechselt) - Undav startet wahrscheinlich, Auswechslung 70-80' realistisch. Lesson 18.05. Boost-Filter: bei knappem Spielstand (was wahrscheinlich) Backup spielt offensiv. Empfohlener Einsatz: 1,40€ (0,25%).",
-          "bewertung_label": "WACKEL"
+          "bewertung_label": "WACKEL",
+          "empfohlener_einsatz_prozent": 0.25,
+          "faire_quote": 3.4
         },
         {
           "id": "bay-vfb-5",
           "kategorie": "moonshot",
-          "markt": "Sieg",
-          "auswahl": "Stuttgart Sieg (regulaere 90 Min)",
+          "markt": "Stuttgart Sieg (regulaere 90 Min)",
           "quote": 5.75,
           "quote_quelle": "Oddschecker bet365 + Wettfreunde-Boost",
-          "einsatz_prozent": 0.1,
           "edge_prozent": 2,
           "begruendung": "Moonshot-Spass-Bein - Stuttgart als Titelverteidiger pokalerfahren + Karriere-Highlight-Trigger + Bayern-Final-Geschichte zeigt 'Underdog-gewinnt'-Faelle (DFB-Pokal-Tradition). Implied 17%, real eher 20-22% wenn Stuttgart Karriere-Highlight-Boost zieht. 2:0-Insurance-Regel CLAUDE.md gilt im Pokalfinale NICHT (nur 1.BL/CL). Empfohlener Einsatz: 0,55€ (0,1% Spasseinsatz).",
-          "bewertung_label": "MOONSHOT"
+          "bewertung_label": "MOONSHOT",
+          "empfohlener_einsatz_prozent": 0.1,
+          "faire_quote": 5.64
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-23-rma-ath",
@@ -199,52 +201,53 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
         {
           "id": "rma-ath-1",
           "kategorie": "value",
-          "markt": "Torschuetzen Jederzeit",
-          "auswahl": "Vinicius Junior trifft",
+          "markt": "Vinicius Junior trifft",
           "quote": 1.85,
           "quote_quelle": "Oddschecker bet365 (Top-Volume-9er-Linie)",
-          "einsatz_prozent": 1.5,
           "edge_prozent": 6,
           "begruendung": "Goldgrube 'Torschuetzen Jederzeit' (+24.4% ROI) + Vinicius als Top-9er bei Mbappe-Bench/Out + Athletic-Defense ohne Vivian + Bernabeu-Heim. Caveat Lesson 15.05. (Castilla-Stand-In-Goldgrube: bei Star-Out-Cluster gewinnt oft Backup-Castilla statt Star-Backup) - Vinicius hatte bei Mbappe-Aus 4 Tore in 5 Spielen Form, aber gegen Bottom-Defense kann Castilla-Stand-In durchschlagen. Trotzdem Vinicius wahrscheinlichstes Tor. Empfohlener Einsatz: 8,25€ (1,5%).",
-          "bewertung_label": "VALUE"
+          "bewertung_label": "VALUE",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.75
         },
         {
           "id": "rma-ath-2",
           "kategorie": "wackel",
-          "markt": "Doppelte Chance",
-          "auswahl": "Real Madrid oder Remis (1X)",
+          "markt": "Real Madrid oder Remis (1X)",
           "quote": 1.13,
           "quote_quelle": "Oddschecker bet365 (1X DC ueber 87% Implied)",
-          "einsatz_prozent": 0.5,
           "edge_prozent": 2,
           "begruendung": "Pflicht-Profil HEIM-FAVORIT mit Quote <1.80 verlangt Sieg/DC + Torschuetzen-Tipp. DC 1X als Defensiv-Bein gegen Athletic-Auswaertsbilanz 61% Pleiten + Athletic ohne Williams/Sancet/Vivian. Saisonkontext-Selbst-Check: Real spielt zwar ohne Saisonziel-Druck, aber Athletic ist statistisch viel schwaecher (Platz 12 vs 2) - daher KEIN SAFE (Lesson 03.05. Saisonende-Mathematik), aber WACKEL-DC akzeptabel. Empfohlener Einsatz: 2,75€ (0,5%).",
-          "bewertung_label": "WACKEL"
+          "bewertung_label": "WACKEL",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.11
         },
         {
           "id": "rma-ath-3",
           "kategorie": "wackel",
-          "markt": "Ueber/Unter Tore",
-          "auswahl": "Ueber 2.5 Tore",
+          "markt": "Ueber 2.5 Tore",
           "quote": 1.55,
           "quote_quelle": "Oddschecker bet365 (Goldgrube Markt-Aggregat)",
-          "einsatz_prozent": 0.5,
           "edge_prozent": 4,
           "begruendung": "Goldgrube Ueber 2.5 (46.7% Hitrate / +33.2% ROI) + Bernabeu-Heim-Saisonfinale traditionell offensiv + Athletic-Defense ohne 3 Stammer (Egiluz/Vivian/Yuri). Lesson 22.04. (Real nach CL-Aus -> Heim-Tor-Festival-Pattern). Empfohlener Einsatz: 2,75€ (0,5%).",
-          "bewertung_label": "WACKEL"
+          "bewertung_label": "WACKEL",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.49
         },
         {
           "id": "rma-ath-4",
-          "kategorie": "risiko",
-          "markt": "Torschuetzen Jederzeit",
-          "auswahl": "Endrick trifft",
+          "kategorie": "risk",
+          "markt": "Endrick trifft",
           "quote": 5.0,
           "quote_quelle": "Oddschecker Konsens Castilla-Stand-In-Profil",
-          "einsatz_prozent": 0.25,
           "edge_prozent": 5,
           "begruendung": "Castilla-Stand-In-Goldgrube-Lesson 15.05.: bei Star-OUT-Cluster (Rodrygo/Mbappe weg) hat junges Talent oft Edge - Endrick als Backup-9er mit Saisonfinale-Showcase-Motivation. Bernabeu-Heim-Saisonfinale = Joker-Setup. 5.0x Quote bietet asymmetrischen Payoff. Lesson 03.05. Star-Ausfall-Backup-Pflichtcheck. Empfohlener Einsatz: 1,40€ (0,25%).",
-          "bewertung_label": "RISIKO"
+          "bewertung_label": "RISIKO",
+          "empfohlener_einsatz_prozent": 0.25,
+          "faire_quote": 4.76
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-24-tot-eve",
@@ -279,29 +282,31 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
       "tipps": [
         {
           "id": "tot-eve-1",
-          "kategorie": "value",
-          "markt": "Doppelte Chance",
-          "auswahl": "Tottenham oder Remis (1X)",
+          "kategorie": "wackel",
+          "markt": "Tottenham oder Remis (1X)",
           "quote": 1.3,
           "quote_quelle": "Oddschecker bet365",
-          "einsatz_prozent": 2.0,
           "edge_prozent": 6,
-          "begruendung": "Klassenerhalts-Existenz-These: 1 Punkt reicht Spurs zum Klassenerhalt -> defensive Strategie zaehlt, Everton hat keinen Anreiz fuer aktive Auswaerts-Risiken. Lesson 16.05. (Heidenheim-Pattern) warnt vor Sieg-Tipp aber DC 1X ist Hedge: bei Remis-Endstand Spurs ist gerettet UND Tipp gewonnen. Implied 77% bei Quote 1.30, real eher 80-82% mit Risiko-aversem Spurs-Setup. Pinnacle-Hartregel: konservativ +3%. Empfohlener Einsatz: 11€ (2%). CLAUDE.md-Hartregel: KEIN SAFE-Label da PL nicht in liga_goldgruben.json + Spurs-Form-Krise (Lesson 20.05. HR2-Anti-Heim-Bias bei 7 Spiele ohne Sieg-Serie). Max VALUE.",
-          "bewertung_label": "VALUE"
+          "begruendung": "Klassenerhalts-Existenz-These: 1 Punkt reicht Spurs zum Klassenerhalt -> defensive Strategie zaehlt, Everton hat keinen Anreiz fuer aktive Auswaerts-Risiken. Lesson 16.05. (Heidenheim-Pattern) warnt vor Sieg-Tipp aber DC 1X ist Hedge: bei Remis-Endstand Spurs ist gerettet UND Tipp gewonnen. Implied 77% bei Quote 1.30, real eher 80-82% mit Risiko-aversem Spurs-Setup. Pinnacle-Hartregel: konservativ +3%. Empfohlener Einsatz: 11€ (2%). CLAUDE.md-Hartregel: KEIN SAFE-Label da PL nicht in liga_goldgruben.json + Spurs-Form-Krise (Lesson 20.05. HR2-Anti-Heim-Bias bei 7 Spiele ohne Sieg-Serie). Max VALUE. [Auto HR4: Story-Konflikt v2 (Heim-Krise-Token in eigener Begruendung) -> value->wackel]",
+          "bewertung_label": "VALUE",
+          "empfohlener_einsatz_prozent": 2.0,
+          "faire_quote": 1.23,
+          "_story_konflikt_v2": true
         },
         {
           "id": "tot-eve-2",
           "kategorie": "wackel",
-          "markt": "Ueber/Unter Tore",
-          "auswahl": "Unter 2.5 Tore",
+          "markt": "Unter 2.5 Tore",
           "quote": 1.95,
           "quote_quelle": "Oddschecker bet365",
-          "einsatz_prozent": 0.5,
           "edge_prozent": 5,
           "begruendung": "Goldgrube Unter 2.5 (60% Hitrate / +22.8% ROI). Spurs spielt defensiv (Remis reicht), Everton ohne Druck -> beide Teams haben Anreiz fuer Tempo-Reduzierung. Lesson 18.05. Mini-Spiele-Tag-Korrelations-Vermeidung: Unter 2.5 hier ist Spiegel zu Spurs-1X DC. Empfohlener Einsatz: 2,75€ (0,5%).",
-          "bewertung_label": "WACKEL"
+          "bewertung_label": "WACKEL",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.86
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-24-whu-lee",
@@ -337,28 +342,29 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
         {
           "id": "whu-lee-1",
           "kategorie": "value",
-          "markt": "Sieg",
-          "auswahl": "West Ham Sieg",
+          "markt": "West Ham Sieg",
           "quote": 1.8,
           "quote_quelle": "Oddschecker bet365 verifiziert (-125)",
-          "einsatz_prozent": 1.5,
           "edge_prozent": 5,
           "begruendung": "Maximale Motivations-Asymmetrie + Heim + Leeds-Auslauf-Mode. Pflicht-Profil HEIM-FAVORIT (Heim-Sieg-Quote 1.80 = Grenzbereich) verlangt mind. 1 Torschuetzen-Tipp + Sieg/DC. Saisonkontext-Sanity OK: West Ham hat ECHTEN Saisonziel-Druck (Existenz), Lesson 04.05. Hebel-S-Sanitaet erfuellt. Implied 56%, real eher 60-62% mit Druck-Heim-Boost. Lesson 16.05. Heidenheim-Warnung beachtet - WHU hat zusaetzlich Klassen-Edge gegen druckloses Leeds (Heidenheim hatte das nicht so klar). Empfohlener Einsatz: 8,25€ (1,5%).",
-          "bewertung_label": "VALUE"
+          "bewertung_label": "VALUE",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.71
         },
         {
           "id": "whu-lee-2",
           "kategorie": "wackel",
-          "markt": "Torschuetzen Jederzeit",
-          "auswahl": "Jarrod Bowen trifft",
+          "markt": "Jarrod Bowen trifft",
           "quote": 2.5,
           "quote_quelle": "Oddschecker bet365 (Top-WHU-Volume-Scorer)",
-          "einsatz_prozent": 0.5,
           "edge_prozent": 5,
           "begruendung": "Goldgrube 'Torschuetzen Jederzeit' (+24.4% ROI) + Bowen WHU-Top-Volume-Scorer (8 Tore + 10 Assists Saison) + Pflicht-Match-Motivation + Leeds-Defense im Auslauf-Modus. Lesson 04.05. Pflicht-Profil bei Heim-Favorit verlangt Torschuetzen-Tipp. Empfohlener Einsatz: 2,75€ (0,5%).",
-          "bewertung_label": "WACKEL"
+          "bewertung_label": "WACKEL",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 2.38
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-23-cle-nyk",
@@ -393,16 +399,17 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
         {
           "id": "cle-nyk-1",
           "kategorie": "wackel",
-          "markt": "Spread",
-          "auswahl": "Cleveland Cavaliers +/- (Spread-Linie ca -2.5 Heim, also Cavs Heim-Spread bei knapper Quote)",
+          "markt": "Cleveland Cavaliers +/- (Spread-Linie ca -2.5 Heim, also Cavs Heim-Spread bei knapper Quote)",
           "quote": 1.9,
           "quote_quelle": "Oddschecker FanDuel Konsens (Cavs Heim Spread)",
-          "einsatz_prozent": 0.5,
           "edge_prozent": 4,
           "begruendung": "Cavs Heim 7-0 in Playoffs 2026 = signifikantes Heim-Court-Edge, auch wenn Knicks im Serie vorn. Mapper-Hebel B (NBA Conference Finals max WACKEL ohne G2-Goldgrube) befolgt. Lesson 24.04. (Sweep-Abwehr-Heim-Underdog) als optimistische Variante, Lesson 15.05. (Round-2-Closeout-Crash) als Vorsicht - Cavs hier NICHT in Round-2-G6-Pattern (ECF G3), unterschiedliche Liga-Sample. Empfohlener Einsatz: 2,75€ (0,5%). NUR als Wackel-Bein - kein Einzeltipps-Mitnahme.",
-          "bewertung_label": "WACKEL"
+          "bewertung_label": "WACKEL",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.83
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-05-24-sas-okc",
@@ -436,16 +443,17 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
         {
           "id": "sas-okc-1",
           "kategorie": "wackel",
-          "markt": "Ueber/Unter Punkte (Total)",
-          "auswahl": "Ueber 218.5 Punkte",
+          "markt": "Ueber 218.5 Punkte",
           "quote": 1.91,
           "quote_quelle": "Oddschecker FanDuel Konsens-Schaetzung WCF G4 Linie",
-          "einsatz_prozent": 0.5,
           "edge_prozent": 4,
           "begruendung": "Wembanyama-Spurs Tempo-Heim + Thunder Top-Offense-Volumen. Lesson 02.05. (Closeout-Defensiv-Schlachten unter 215) hier NICHT anwendbar (G4 nicht Decider). Lesson 02.05. zweiter Teil: Ueber-Linien >=219 OK fuer Conf Finals Heim-Pace. Mapper-Hebel B max WACKEL. Empfohlener Einsatz: 2,75€ (0,5%).",
-          "bewertung_label": "WACKEL"
+          "bewertung_label": "WACKEL",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.84
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     }
   ],
   "einzeltipps": [
@@ -455,11 +463,11 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
       "kategorie": "safe",
       "bewertung_label": "SAFE",
       "spiel_label": "Bayern - Stuttgart (DFB-Pokal-Finale)",
-      "markt": "Sieg",
-      "auswahl": "Bayern Muenchen Sieg",
+      "markt": "Bayern Muenchen Sieg",
       "quote": 1.2,
-      "einsatz_prozent": 1.5,
-      "begruendung": "Klassen-Edge Bayern + Kane-Form (36 BL-Tore + Hat-Trick 16.05.) + KEIN CL-Doppelbelastung (Bayern raus seit Wochen). Pokal-HF-Aggregat +46% ROI bei n=4 (kleine Sample). Empfohlener Einsatz: 8,25€ (1,5% der 550€-Kasse)."
+      "begruendung": "Klassen-Edge Bayern + Kane-Form (36 BL-Tore + Hat-Trick 16.05.) + KEIN CL-Doppelbelastung (Bayern raus seit Wochen). Pokal-HF-Aggregat +46% ROI bei n=4 (kleine Sample). Empfohlener Einsatz: 8,25€ (1,5% der 550€-Kasse).",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1
     },
     {
       "ref_spiel_id": "2026-05-23-bol-int",
@@ -467,11 +475,11 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
       "kategorie": "value",
       "bewertung_label": "VALUE",
       "spiel_label": "Bologna - Inter",
-      "markt": "Doppelte Chance",
-      "auswahl": "Bologna oder Remis (1X)",
+      "markt": "Bologna oder Remis (1X)",
       "quote": 1.85,
-      "einsatz_prozent": 2.0,
-      "begruendung": "DAS Anti-Top-Team-Pre-Final-Bein. Inter rotiert vor CL-Finale 30.05. - Lesson 18.05.-Cluster (PSG+Inter beide patzerten 17.05. mit B-Elf). Bologna Heim-Saisonfinale + EL/Conf-Quali-Anreiz. Empfohlener Einsatz: 11€ (2%)."
+      "begruendung": "DAS Anti-Top-Team-Pre-Final-Bein. Inter rotiert vor CL-Finale 30.05. - Lesson 18.05.-Cluster (PSG+Inter beide patzerten 17.05. mit B-Elf). Bologna Heim-Saisonfinale + EL/Conf-Quali-Anreiz. Empfohlener Einsatz: 11€ (2%).",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 2
     },
     {
       "ref_spiel_id": "2026-05-23-bay-vfb",
@@ -479,11 +487,11 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
       "kategorie": "value",
       "bewertung_label": "VALUE",
       "spiel_label": "Bayern - Stuttgart (DFB-Pokal-Finale)",
-      "markt": "Torschuetzen Jederzeit",
-      "auswahl": "Harry Kane trifft",
+      "markt": "Harry Kane trifft",
       "quote": 1.45,
-      "einsatz_prozent": 2.0,
-      "begruendung": "Goldgrube-Markt (+24.4% ROI) + 36-Saisontore-Form + Kane spielt 90 Min (kein Rotations-Risiko). Caveat Lesson 21.05. Klassen-Edge-Final-Volume-9er-Schweigen beachtet aber Kane Hat-Trick-Form schlaegt das. Empfohlener Einsatz: 11€ (2%)."
+      "begruendung": "Goldgrube-Markt (+24.4% ROI) + 36-Saisontore-Form + Kane spielt 90 Min (kein Rotations-Risiko). Caveat Lesson 21.05. Klassen-Edge-Final-Volume-9er-Schweigen beachtet aber Kane Hat-Trick-Form schlaegt das. Empfohlener Einsatz: 11€ (2%).",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 3
     },
     {
       "ref_spiel_id": "2026-05-23-rma-ath",
@@ -491,11 +499,11 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
       "kategorie": "value",
       "bewertung_label": "VALUE",
       "spiel_label": "Real Madrid - Athletic Bilbao",
-      "markt": "Torschuetzen Jederzeit",
-      "auswahl": "Vinicius Junior trifft",
+      "markt": "Vinicius Junior trifft",
       "quote": 1.85,
-      "einsatz_prozent": 1.5,
-      "begruendung": "Top-9er bei Real ohne Rodrygo + Mbappe-fraglich, Bernabeu-Heim-Saisonfinale, Athletic-Defense ohne Vivian. Goldgrube-Markt. Castilla-Stand-In-Caveat (Lesson 15.05.) als sekundaere Absicherung. Empfohlener Einsatz: 8,25€ (1,5%)."
+      "begruendung": "Top-9er bei Real ohne Rodrygo + Mbappe-fraglich, Bernabeu-Heim-Saisonfinale, Athletic-Defense ohne Vivian. Goldgrube-Markt. Castilla-Stand-In-Caveat (Lesson 15.05.) als sekundaere Absicherung. Empfohlener Einsatz: 8,25€ (1,5%).",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 4
     },
     {
       "ref_spiel_id": "2026-05-24-whu-lee",
@@ -503,11 +511,11 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
       "kategorie": "value",
       "bewertung_label": "VALUE",
       "spiel_label": "West Ham - Leeds",
-      "markt": "Sieg",
-      "auswahl": "West Ham Sieg",
+      "markt": "West Ham Sieg",
       "quote": 1.8,
-      "einsatz_prozent": 1.5,
-      "begruendung": "Maximale Motivations-Asymmetrie (WHU Existenz vs Leeds Auslauf-Mode) + Heim. Lesson 16.05. Heidenheim-Warnung beachtet (Existenz-Druck unsicher), aber Klassen-Edge-Wendung WHU besser. Empfohlener Einsatz: 8,25€ (1,5%)."
+      "begruendung": "Maximale Motivations-Asymmetrie (WHU Existenz vs Leeds Auslauf-Mode) + Heim. Lesson 16.05. Heidenheim-Warnung beachtet (Existenz-Druck unsicher), aber Klassen-Edge-Wendung WHU besser. Empfohlener Einsatz: 8,25€ (1,5%).",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 5
     },
     {
       "ref_spiel_id": "2026-05-24-tot-eve",
@@ -515,11 +523,11 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
       "kategorie": "value",
       "bewertung_label": "VALUE",
       "spiel_label": "Tottenham - Everton",
-      "markt": "Doppelte Chance",
-      "auswahl": "Tottenham oder Remis (1X)",
+      "markt": "Tottenham oder Remis (1X)",
       "quote": 1.3,
-      "einsatz_prozent": 2.0,
-      "begruendung": "1 Punkt reicht Spurs zum Klassenerhalt -> defensive Strategie, Everton ohne Anreiz. PL nicht in liga_goldgruben.json -> max VALUE. Lesson 20.05. HR2-Subfilter beachtet (Spurs-Form-Krise 7 ohne Sieg). Empfohlener Einsatz: 11€ (2%)."
+      "begruendung": "1 Punkt reicht Spurs zum Klassenerhalt -> defensive Strategie, Everton ohne Anreiz. PL nicht in liga_goldgruben.json -> max VALUE. Lesson 20.05. HR2-Subfilter beachtet (Spurs-Form-Krise 7 ohne Sieg). Empfohlener Einsatz: 11€ (2%).",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 6
     },
     {
       "ref_spiel_id": "2026-05-23-bol-int",
@@ -527,11 +535,11 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
       "kategorie": "wackel",
       "bewertung_label": "WACKEL",
       "spiel_label": "Bologna - Inter",
-      "markt": "Sieg",
-      "auswahl": "Bologna Sieg",
+      "markt": "Bologna Sieg",
       "quote": 3.0,
-      "einsatz_prozent": 0.5,
-      "begruendung": "Hoeher-gepowerte Variante des Inter-Rotations-Edges. Empfohlener Einsatz: 2,75€ (0,5%)."
+      "begruendung": "Hoeher-gepowerte Variante des Inter-Rotations-Edges. Empfohlener Einsatz: 2,75€ (0,5%).",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 7
     },
     {
       "ref_spiel_id": "2026-05-24-whu-lee",
@@ -539,11 +547,11 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
       "kategorie": "wackel",
       "bewertung_label": "WACKEL",
       "spiel_label": "West Ham - Leeds",
-      "markt": "Torschuetzen Jederzeit",
-      "auswahl": "Jarrod Bowen trifft",
+      "markt": "Jarrod Bowen trifft",
       "quote": 2.5,
-      "einsatz_prozent": 0.5,
-      "begruendung": "Goldgrube-Markt + WHU-Top-Volume-Scorer + Pflicht-Match-Heim-Motivation. Empfohlener Einsatz: 2,75€ (0,5%)."
+      "begruendung": "Goldgrube-Markt + WHU-Top-Volume-Scorer + Pflicht-Match-Heim-Motivation. Empfohlener Einsatz: 2,75€ (0,5%).",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 8
     }
   ],
   "kombis": [
@@ -557,7 +565,6 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "ref_tipp_id": "bay-vfb-1",
           "spiel_label": "Bayern - Stuttgart",
           "markt": "Sieg",
-          "auswahl": "Bayern Sieg",
           "quote": 1.2
         },
         {
@@ -565,7 +572,6 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "ref_tipp_id": "bol-int-1",
           "spiel_label": "Bologna - Inter",
           "markt": "Doppelte Chance",
-          "auswahl": "Bologna oder Remis (1X)",
           "quote": 1.85
         },
         {
@@ -573,7 +579,6 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "ref_tipp_id": "tot-eve-1",
           "spiel_label": "Tottenham - Everton",
           "markt": "Doppelte Chance",
-          "auswahl": "Tottenham oder Remis (1X)",
           "quote": 1.3
         },
         {
@@ -581,13 +586,12 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "ref_tipp_id": "rma-ath-2",
           "spiel_label": "Real Madrid - Athletic",
           "markt": "Doppelte Chance",
-          "auswahl": "Real oder Remis (1X)",
           "quote": 1.13
         }
       ],
       "gesamtquote": 3.27,
-      "einsatz_prozent": 2.0,
-      "begruendung": "1 Sieg-Bein + 3 DC-Beine pro Lesson 03.05. Safe-Kombi-Layer-3-Vorlage. 4 verschiedene Spiele/Ligen (DFB-Pokal/Serie A/PL/LaLiga) = breite Korrelations-Diversitaet. Empfohlener Einsatz: 11€ (2% Stufe 1)."
+      "begruendung": "1 Sieg-Bein + 3 DC-Beine pro Lesson 03.05. Safe-Kombi-Layer-3-Vorlage. 4 verschiedene Spiele/Ligen (DFB-Pokal/Serie A/PL/LaLiga) = breite Korrelations-Diversitaet. Empfohlener Einsatz: 11€ (2% Stufe 1).",
+      "empfohlener_einsatz_prozent": 2.0
     },
     {
       "id": "kombi-balance-1",
@@ -599,7 +603,6 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "ref_tipp_id": "bay-vfb-3",
           "spiel_label": "Bayern - Stuttgart",
           "markt": "Ueber/Unter Tore",
-          "auswahl": "Ueber 2.5 Tore",
           "quote": 1.55
         },
         {
@@ -607,7 +610,6 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "ref_tipp_id": "rma-ath-1",
           "spiel_label": "Real Madrid - Athletic",
           "markt": "Torschuetzen Jederzeit",
-          "auswahl": "Vinicius trifft",
           "quote": 1.85
         },
         {
@@ -615,17 +617,16 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "ref_tipp_id": "whu-lee-2",
           "spiel_label": "West Ham - Leeds",
           "markt": "Torschuetzen Jederzeit",
-          "auswahl": "Bowen trifft",
           "quote": 2.5
         }
       ],
       "gesamtquote": 7.17,
-      "einsatz_prozent": 0.8,
-      "begruendung": "Layer-2 erfuellt: KEIN Sieg-Outcome doppelt mit Safe-Kombi (Bayern Ueber 2.5 vs Bayern Sieg = anderer Markttyp). 3 verschiedene Spiele - bei nur 7 Spielen am Wochenende ist 3-Bein-Balance vertretbar (Lesson 02.05.). Goldgruben Ueber 2.5 + Torschuetzen Jederzeit kombiniert. Empfohlener Einsatz: 4,40€ (0,8%)."
+      "begruendung": "Layer-2 erfuellt: KEIN Sieg-Outcome doppelt mit Safe-Kombi (Bayern Ueber 2.5 vs Bayern Sieg = anderer Markttyp). 3 verschiedene Spiele - bei nur 7 Spielen am Wochenende ist 3-Bein-Balance vertretbar (Lesson 02.05.). Goldgruben Ueber 2.5 + Torschuetzen Jederzeit kombiniert. Empfohlener Einsatz: 4,40€ (0,8%).",
+      "empfohlener_einsatz_prozent": 0.8
     },
     {
       "id": "kombi-risiko-1",
-      "kategorie": "risiko",
+      "kategorie": "risk",
       "name": "Risiko-Kombi: 4-Bein Anti-Top-Team + Underdog-Druck-Tipps",
       "beine": [
         {
@@ -633,7 +634,6 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "ref_tipp_id": "bol-int-2",
           "spiel_label": "Bologna - Inter",
           "markt": "Sieg",
-          "auswahl": "Bologna Sieg",
           "quote": 3.0
         },
         {
@@ -641,7 +641,6 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "ref_tipp_id": "whu-lee-1",
           "spiel_label": "West Ham - Leeds",
           "markt": "Sieg",
-          "auswahl": "West Ham Sieg",
           "quote": 1.8
         },
         {
@@ -649,7 +648,6 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "ref_tipp_id": "rma-ath-3",
           "spiel_label": "Real Madrid - Athletic",
           "markt": "Ueber/Unter Tore",
-          "auswahl": "Ueber 2.5 Tore",
           "quote": 1.55
         },
         {
@@ -657,13 +655,12 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "ref_tipp_id": "bay-vfb-4",
           "spiel_label": "Bayern - Stuttgart",
           "markt": "Torschuetzen Jederzeit",
-          "auswahl": "Demirovic trifft",
           "quote": 3.5
         }
       ],
       "gesamtquote": 29.3,
-      "einsatz_prozent": 0.25,
-      "begruendung": "4 verschiedene Spiele. Layer-3-Check: Bologna Sieg (Risiko) vs Bologna 1X DC (Safe) - andere konkrete Markt-Auswahl. WHU Sieg (Risiko) vs nicht in Safe (Spurs 1X war WHU-anders). Bayern Demirovic Tor (Risiko) vs Bayern Sieg (Safe) + Bayern Ueber 2.5 (Balance) - alle drei andere Markttypen, Layer-3 erlaubt. Empfohlener Einsatz: 1,40€ (0,25%)."
+      "begruendung": "4 verschiedene Spiele. Layer-3-Check: Bologna Sieg (Risiko) vs Bologna 1X DC (Safe) - andere konkrete Markt-Auswahl. WHU Sieg (Risiko) vs nicht in Safe (Spurs 1X war WHU-anders). Bayern Demirovic Tor (Risiko) vs Bayern Sieg (Safe) + Bayern Ueber 2.5 (Balance) - alle drei andere Markttypen, Layer-3 erlaubt. Empfohlener Einsatz: 1,40€ (0,25%).",
+      "empfohlener_einsatz_prozent": 0.25
     },
     {
       "id": "kombi-moonshot-1",
@@ -675,14 +672,12 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "ref_tipp_id": "rma-ath-4",
           "spiel_label": "Real Madrid - Athletic",
           "markt": "Torschuetzen Jederzeit",
-          "auswahl": "Endrick trifft",
           "quote": 5.0
         },
         {
           "ref_spiel_id": "2026-05-24-whu-lee",
           "spiel_label": "West Ham - Leeds",
           "markt": "Torschuetzen Jederzeit",
-          "auswahl": "Calvert-Lewin trifft (Leeds)",
           "quote": 2.8
         },
         {
@@ -690,20 +685,18 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "ref_tipp_id": "bol-int-3",
           "spiel_label": "Bologna - Inter",
           "markt": "Torschuetzen Jederzeit",
-          "auswahl": "Orsolini trifft",
           "quote": 4.0
         },
         {
           "ref_spiel_id": "2026-05-23-bay-vfb",
           "spiel_label": "Bayern - Stuttgart",
           "markt": "Ueber/Unter Tore",
-          "auswahl": "Ueber 4.5 Tore",
           "quote": 3.5
         }
       ],
       "gesamtquote": 196.0,
-      "einsatz_prozent": 0.1,
-      "begruendung": "4 Volume-/Castilla-Stand-In-/Tor-Festival-Beine quer ueber alle 4 Top-Spiele. Layer-3 OK: Endrick (statt Vinicius), Calvert-Lewin (West-Ham-Spiel anderer Markt als WHU Sieg), Orsolini (Bologna-Spiel anderer Markt als Bologna 1X), Bayern Ueber 4.5 (anderer Total-Cap als Bayern Ueber 2.5 in Balance). Spass-Lotterie ~196x. Empfohlener Einsatz: 0,55€ (0,1%)."
+      "begruendung": "4 Volume-/Castilla-Stand-In-/Tor-Festival-Beine quer ueber alle 4 Top-Spiele. Layer-3 OK: Endrick (statt Vinicius), Calvert-Lewin (West-Ham-Spiel anderer Markt als WHU Sieg), Orsolini (Bologna-Spiel anderer Markt als Bologna 1X), Bayern Ueber 4.5 (anderer Total-Cap als Bayern Ueber 2.5 in Balance). Spass-Lotterie ~196x. Empfohlener Einsatz: 0,55€ (0,1%).",
+      "empfohlener_einsatz_prozent": 0.1
     }
   ],
   "lessons_angewandt": [
