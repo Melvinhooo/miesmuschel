@@ -1,0 +1,578 @@
+{
+  "datum": "2026-05-21",
+  "erstellt_am": "2026-05-21T14:45:00+02:00",
+  "hinweis": "🐚 WATCHDOG-RECOVERY 14:45 Berlin (Hauptroutine 16:00 noch nicht durch, Watchdog uebernimmt). Mini-Spiele-Tag (nur 2 Spiele): Bundesliga-Relegations-Hinspiel VfL Wolfsburg vs SC Paderborn (20:30 Berlin, VW Arena) + NBA Eastern Conference Finals Game 2 New York Knicks vs Cleveland Cavaliers (02:00 Berlin Freitag, MSG; Knicks fuehren 1-0 nach 22-Pkt-Comeback OT-Sieg G1). Kasse 04.05.: 550 EUR -> Stufe 1 Aufbau-Phase aktiv. HARTREGEL Mini-Spiele-Tag (Lesson 21.05.): NUR Safe-Kombi + Moonshot, Balance + Risiko ueberspringen. Total-Exposure-Cap 4% Kasse (Safe 2% + Moonshot 0.1% + Einzel-Polster <=2%). NBA-Spiel: KEIN SAFE (Mapper-Hebel B), Player-Punkte streng nach Lesson 04.05/05.05. (Spread<=7.5 + Form-Edge + Linie-2-unter-Saison). 2:0-Insurance gilt NICHT (CLAUDE.md beschraenkt auf BL+CL, Relegation ist Hybrid). Quoten via Aggregator (Interwetten/Tipico/SBD/NBC Sports/Oddsshark) - bei bet365 live pruefen.",
+  "spiele": [
+    {
+      "id": "2026-05-21-wob-pad",
+      "liga": "Bundesliga Relegation Hinspiel",
+      "matchday": "Relegation Hinspiel",
+      "stage": "RELEGATION_LEG1",
+      "heim": "VfL Wolfsburg",
+      "gast": "SC Paderborn 07",
+      "anstoss": "2026-05-21T20:30:00+02:00",
+      "stadion": "Volkswagen Arena, Wolfsburg",
+      "schiedsrichter": "Brand",
+      "saison_kontext": {
+        "parallel_heim": "keine - Bundesliga-Saison endete 16.05. (MD34); nur Relegations-Rueckspiel 25.05. in Paderborn als folgendes Spiel (4 Tage spaeter)",
+        "parallel_gast": "keine - 2. Bundesliga-Saison endete 17.05. (MD34); nur Relegations-Rueckspiel 25.05. zuhause als folgendes Spiel",
+        "saisonziel_heim": "Bundesliga Platz 16 (Relegationsplatz, 34 Pkt geschaetzt) - MUSS in Relegations-Doppelspiel ueberleben sonst Abstieg in 2.BL (20-50 Mio EUR Etat-Verlust, Sponsoren-Druck VW). Sicherte Relegations-Platz durch 3:1 Auswaerts vs St.Pauli am MD34",
+        "saisonziel_gast": "2. Bundesliga Platz 3 (Relegations-Aufstiegsplatz) - Aufstieg in BL waere erster BL-Aufstieg seit 2019, sicherte Platz 3 durch 2:0 Auswaerts vs Darmstadt am MD34. Karriere-Highlight-Final mit klassischem Underdog-Modus",
+        "motivations_asymmetrie": "Beidseitig Existenz-Druck-Maximum - Wolfsburg-Abstiegs-Druck (20-50 Mio Verlust) vs Paderborn-Karriere-Aufstiegs-Chance; Wolfsburg-Klassen-Edge ist KAUM existent (schwaechstes BL-Heim-Team Saison: 10 Pkt aus 17 Heimspielen, schwaechstes Rueckrunden-Team 11 Pkt) waehrend Paderborn 2.-bestes Auswaerts-Team + 3.-bestes Rueckrunden-Team 2.BL. Coinflip-Spiel mit minimaler Klassen-Differenz - kein SAFE-Setup",
+        "recovery_heim": "5 Tage seit BL-MD34 (16.05. St.Pauli 3:1 auswaerts); voll regeneriert; aber Verletzungs-Crash: Vini Souza (Gelbsperre), Rogerio (Muskel), Wimmer (out), Seelt (Knie), Dardai/Cleiton (Trainingsrueckstand), Arnold (Leiste), Jonas Wind (Muskel - cautious optimism aber unklar)",
+        "recovery_gast": "4 Tage seit 2.BL-Saison-Abschluss (17.05. Darmstadt 2:0 auswaerts); voll regeneriert; Ausfaelle: Mika Baur (Gelbsperre), Raphael Obermair (Achillessehnenanriss), Marcel Hoffmeier (Kreuzbandriss); weniger Verletzungs-Last als Wolfsburg",
+        "quellen": [
+          "https://www.bundesliga.com/de/bundesliga/news/relegation-alle-infos-termine-modus-abstieg-aufstieg-3008",
+          "https://www.kicker.de/relegation-2026-teams-termine-tv-953428/artikel",
+          "https://www.thestatszone.com/wolfsburg-vs-paderborn-preview-team-news-prediction-german-bundesliga-promotion-relegation-play-off-187865",
+          "https://www.wettfreunde.net/sportwetten-news/bundesliga-relegation-2026/",
+          "https://www.heidelberg24.de/sport/fussball/relegation-2026-bundesliga-2-liga-termine-hinspiel-rueckspiel-wann-stadion-94306714.html"
+        ]
+      },
+      "news": [
+        "Wolfsburg holte Relegations-Platz 16 durch 3:1 Auswaerts-Sieg vs St.Pauli am MD34 (16.05.)",
+        "Paderborn sicherte 2.BL-Platz 3 durch 2:0 Auswaerts vs Darmstadt am MD34 (17.05.) - Aufstiegs-Chance erstmalig seit 2019",
+        "Quoten-Konsens: Wolfsburg-Sieg @ 1.70-1.75 (Interwetten/Tipico), Remis @ 3.75-4.00, Paderborn @ 4.60-5.00 - bei bet365 live pruefen",
+        "Markt-Total: Ueber 2.5 @ 1.75 (Markt-Goldgrube +33.2% ROI bei n=17, Hitrate 46.7%); BTTS JA @ 1.67",
+        "H2H-Bilanz: 5 Begegnungen Wolfsburg 3W-2D-0L (100% ohne Niederlage), aber Stichprobe winzig",
+        "Wolfsburg ist schwaechstes BL-Heim-Team Saison 25/26: 10 Pkt aus 17 Heimspielen + 11 Pkt in der gesamten Rueckrunde (Liga-Letzter)",
+        "Verletzungs-Crash Wolfsburg: Vini Souza Gelbsperre, Rogerio/Wimmer/Seelt/Arnold/Dardai/Cleiton alle OUT, Wind cautious",
+        "Paderborn-Top-Stuermer: Top-Torschuetze unklar nach Conteh/Heuer-Abgaengen 2024 - aktuelle Saison-Form noch zu recherchieren",
+        "Wolfsburg-Top-Stuermer: Mohamed Amoura 8 BL-Tore in 30 Spielen 25/26 (0.27 Tore/Spiel = solide aber NICHT Form-Edge nach HR4-Regel)",
+        "Trainer: Hecking (WOB) vs Pinto-Lopes (SCP)",
+        "Bet365-Sonderregel-Hinweis: 2:0-Insurance gilt NICHT (CLAUDE.md: nur regulaere BL+CL); Einwechslungs-Boost bei Torschuetzen-Tipps gilt (Amoura-Backup z.B. Wind oder Pejcinovic)"
+      ],
+      "tipps": [
+        {
+          "id": "wob-pad-1",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.75,
+          "edge_prozent": 6.0,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (+33.2% ROI, 46.7% Hit bei n=17 - top-Markt System). H2H 4/5 letzte Begegnungen mit 3+ Toren. Wolfsburg-Defense schwaechstes BL-Team (Rueckrunden-Liga-Letzter). Paderborn MUSS Auswaerts-Tor erzielen fuer Rueckspiel-Chance (Auswaerts-Tor-Logik im Doppelspiel-Format). Plus: BTTS-Saison-Stat 5/7 (WOB) + 5/6 (SCP). Modell-Wahrscheinlichkeit ~62-65%, bet365 @1.75 impliziert 57.1% = +5-8% Edge. Stake VALUE 1.0% * 550 EUR = 5.50 EUR. Bei bet365 live pruefen.",
+          "faire_quote": 1.59,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 5.5,
+          "einsatz_prozent_kasse": 1.0
+        },
+        {
+          "id": "wob-pad-2",
+          "kategorie": "value",
+          "markt": "Wolfsburg oder Unentschieden (DC 1X)",
+          "quote": 1.2,
+          "edge_prozent": 3.5,
+          "begruendung": "Klassen-Edge-Minimal aber Heim-Existenz-Druck-Maximum + Markt-Goldgrube DC 1X (82.4% Hit / +4.9% ROI bei n=19). H2H 5/5 ohne Wolfsburg-Niederlage. Mapper-Hebel C: BL-Relegation ist NICHT in liga_goldgruben.json (PL/LaLiga/CL-HF), darum SAFE-DC -> VALUE downgegradet. Plus Lesson 20.05.: Wolfsburg ist KEINE Heim-Festung (Anti-Festung mit 10 Pkt aus 17 Heimspielen) - SAFE-DC waere ohnehin falsch. Modell-Wahrscheinlichkeit ~84%, bet365 @1.20 impliziert 83.3% = +1% Edge nominal aber H2H + Heim-Druck-Pflicht-Spiel staerken. Stake VALUE 1.0% * 550 EUR = 5.50 EUR. Bei bet365 live pruefen.",
+          "faire_quote": 1.19,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 5.5,
+          "einsatz_prozent_kasse": 1.0
+        },
+        {
+          "id": "wob-pad-3",
+          "kategorie": "wackel",
+          "markt": "Mohamed Amoura trifft jederzeit",
+          "quote": 2.3,
+          "edge_prozent": 4.0,
+          "begruendung": "Top-Stuermer Wolfsburg mit 8 BL-Toren in 30 Spielen 25/26 (0.27 Tore/Spiel = solide aber kein 3+ in 5 Form-Edge nach HR4). Wolfsburg-Heim-Druck-Pflicht-Spiel + Backup Pejcinovic/Wind als Einwechslungs-Boost-Kandidaten (Lesson Einwechslungs-Boost wirkt). Lesson 21.05. (Volume-9er-Schweigen in Klassen-Edge-Finals) greift NICHT direkt - dies ist KEIN Klassen-Edge-Final sondern Existenz-Druck-Relegation. Markt-Goldgrube Torschuetzen Jederzeit (+20.5% ROI / 36.1% Hit bei n=36). Modell-Wahrscheinlichkeit ~46%, bet365 @2.30 impliziert 43.5% = +3-5% Edge. Stake WACKEL 0.25% * 550 EUR = 1.40 EUR. Bei bet365 live pruefen.",
+          "faire_quote": 2.17,
+          "empfohlener_einsatz_prozent": 0.25,
+          "einsatz_euro": 1.4,
+          "einsatz_prozent_kasse": 0.25
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "0:0",
+        "halbzeit": "0:0",
+        "quelle": "WebSearch sportschau.de / eurosport.de / bundesliga.com"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "wob-pad-1",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "0:0 - keine Tore, Ueber 2.5 klar verfehlt (Wolfsburg 17 Schuesse aber kein Treffer trotz 70% Possession 2.HZ)"
+        },
+        {
+          "tipp_id": "wob-pad-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.2,
+          "kommentar": "DC 1X durch 0:0 erfuellt (Unentschieden)"
+        },
+        {
+          "tipp_id": "wob-pad-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "0:0 - Amoura traf nicht. Amoura wurde in 65. EINGEWECHSELT (fuer Daghim) - Einwechslungs-Boost greift NICHT, da Tipp-Spieler-Boost nur bei AUSWECHSLUNG des Tipp-Spielers wirkt (Lesson 27.04.)."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "0:0",
+        "tore": [],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Tore - keine Drehung moeglich. Wolfsburg dominierte 2.HZ (17:2 Schuesse, 70% Ballbesitz) aber ohne Effizienz. Paderborn-Defense haelt unter Karriere-Highlight-Druck."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Unentschieden",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {"team": "heim", "spieler": "Mohamed Amoura", "details": "kam erst in 65. fuer Daghim - Top-Stuermer 25min Spielzeit unter Existenz-Druck-Bedingungen, kein Tor"},
+          {"team": "heim", "spieler": "Jesper Lindstroem", "details": "Doppelwechsel in 65. mit Amoura fuer Svanberg - Hecking versuchte Offensiv-Refresh in 2.HZ, blieb wirkungslos"}
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Underdog-Existenz-Druck-Final: Karriere-Highlight-Aufstiegs-Underdog (Paderborn) verteidigt 0:0 auswaerts gegen schwaches BL-Heim-Team (10 Pkt aus 17 Heimspielen) - bestaetigt Lesson 21.05. 'Klassen-Edge-Final-Volume-9er-Schweigen' indirekt: Volume-9er Amoura trotz 25 Min und Heim-Druck OHNE Treffer, Wolfsburg 17 Schuesse ohne Effizienz - Existenz-Final-Defensiv-Heroik des Underdog-Teams ueberbrueckt Klassen-Differenz",
+          "Spaete-2.HZ-Bunker-Pattern: Paderborn ging nach 60. (Tigges/Baetzner-Wechsel) auf reine Defensiv-Schiene, Wolfsburg-Top-Chancen liefen ins Leere - Roter Karton Sticker in 90+4 zeigt aber Mental-Druck am Ende",
+          "Tor-Festival-These FALSCH: Pre-Match Ueber 2.5 @ 1.75 als Markt-Goldgrube + 'Paderborn MUSS Auswaerts-Tor' war systematische Fehlannahme - 0-Tor-Resultat in Karriere-Highlight-Final ist klassisches Existenz-Druck-Muster (defensiv-vorsichtig statt offen-spielen)"
+        ]
+      }
+    },
+    {
+      "id": "2026-05-21-nyk-cle",
+      "liga": "NBA Eastern Conference Finals, Game 2",
+      "matchday": "ECF Game 2",
+      "stage": "CONFERENCE_FINALS_G2",
+      "heim": "New York Knicks",
+      "gast": "Cleveland Cavaliers",
+      "anstoss": "2026-05-22T02:00:00+02:00",
+      "stadion": "Madison Square Garden, New York",
+      "schiedsrichter": "NBA Crew (Tip-off 20:00 ET)",
+      "saison_kontext": {
+        "parallel_heim": "keine - Knicks im ECF, sonst keine Verpflichtungen (NBA-Saison-Bereinigung)",
+        "parallel_gast": "keine - Cavs im ECF, sonst keine Verpflichtungen",
+        "saisonziel_heim": "ECF Game 2 - fuehren 1-0 in Serie (115:104 OT-Sieg Game 1 nach 22-Pkt-Comeback Q4/OT, Brunson 38 Pkt) - Ziel: NBA-Finals erstmals seit 1999 (jaehriger Hauptfavorit nach Pacers-Brand)",
+        "saisonziel_gast": "ECF Game 2 - liegen 0-1 zurueck (verloren G1 trotz 22-Pkt-Fuehrung in Q4) - Ziel: NBA-Finals; Cavs Top-Seed in East nach 64-Win-Regulaer-Saison, gegen Pistons G7 dominant gewonnen",
+        "motivations_asymmetrie": "Knicks-Momentum nach historischem 22-Pkt-Comeback in G1 + 35-11 Saison-Bilanz Madison Square Garden + 5-1 Heim in Playoffs 25/26 - Cavs unter erhoehtem Druck (0-1 Rueckstand, ECF-Erfahrungsdefizit) ABER Cavs-Defense-Adjustments nach Mitchell-Anunoby-Crash (Mitchell scoreless letzte 13 Min G1) erwartbar; Coach Atkinson wird Pick&Roll-Coverage versuchen",
+        "recovery_heim": "2 Tage seit ECF G1 (19.05.) - symmetrisch zu Cavs - kein Recovery-Edge",
+        "recovery_gast": "2 Tage seit ECF G1 (19.05.) - symmetrisch zu Knicks - kein Recovery-Edge",
+        "quellen": [
+          "https://www.nba.com/playoffs/2026/east-final",
+          "https://www.espn.com/nba/story/_/id/48419498/nba-playoffs-2026-play-finals-schedule-scores-news-highlights-bracket-dates",
+          "https://www.nbcsports.com/betting/nba/news/cavaliers-vs-knicks-game-2-ecf-predictions-odds-recent-stats-trends-best-bets-on-may-21",
+          "https://www.oddsshark.com/nba/cavaliers-knicks-picks-odds-game-2-may-21-2026",
+          "https://www.totalprosports.com/nba/new-york-knicks/cavaliers-vs-knicks-2026-nba-ecf-preview-odds-injury-updates-may-21/"
+        ]
+      },
+      "news": [
+        "Knicks fuehren ECF 1-0 nach 115:104 OT-Sieg in G1 (19.05.) - Brunson-Show: 38 Pkt / 6 Ast / 5 Reb / 3 Stl mit 17 Pkt in Q4+OT (Brunson 7/8 mit Harden als primary defender)",
+        "44-11-Knicks-Lauf in den letzten 7:40 von Q4 + OT - historisches Comeback nach 22-Pkt-Rueckstand",
+        "Mitchell hatte 29 Pkt + 6 Stl in G1, blieb aber die letzten 13 Min torlos (Anunoby-Crash)",
+        "Markt-Quote G2: Knicks ML @ 1.44 (-225) / Cavs @ 2.85 (+185); Spread Knicks -6.5 @ ~1.91; Total 216.5",
+        "Knicks 5-1 Heim in Playoffs 25/26, 35-11 Heim regulaere Saison - dominante Heimstaette",
+        "Brunson 4-0 SU/ATS in den 30+-Punkte-Playoffs-Spielen, fuenftes 30+ in der Saison-Playoffs erreichbar",
+        "G1 Total 219 (= Ueber 216.5 +2.5) durch OT-Inflation - regulaere Zeit 104:104 = 208 Punkte",
+        "Cavs-Defense-Adjustment erwartet: Atkinson testet wahrscheinlich Switch-Coverage gegen Brunson-Pick&Roll (Mobley/Allen)",
+        "Lesson 26.04. (NBA-Player-Punkte-Boykott aufgehoben 04.05.) - Player-Punkte erlaubt nur bei Heim-Top-Star + Spread<=7.5 + Form-Edge + Linie-2-unter-Saison-Schnitt: Brunson erfuellt alle Kriterien (Heim @ MSG, Spread -6.5, 38 Pkt G1, Saison-Schnitt ~26)",
+        "Mapper-Hebel B: NBA-Playoff-Spiele NIE SAFE - alle Tipps max VALUE/WACKEL",
+        "Conference Finals G2 ist KEIN G5/G6/G7-Decider (Lesson 04.05.) - regulaere VALUE-Kategorie zulaessig"
+      ],
+      "tipps": [
+        {
+          "id": "nyk-cle-1",
+          "kategorie": "value",
+          "markt": "Sieg New York Knicks (Moneyline)",
+          "quote": 1.44,
+          "edge_prozent": 2.5,
+          "begruendung": "Knicks 1-0 Lead + 5-1 Heim-Playoffs + 35-11 MSG-Regular-Season + Brunson-Momentum nach 38-Pkt-Show + Anunoby-vs-Mitchell-Defensiv-Lock. NBA-Playoffs nie SAFE (Mapper-Hebel B) -> VALUE-Cap. Markt-Stat Sieg (1X2/ML) 59.8% Hit / +9.1% ROI bei n=83 (Top-Markt). Modell-Wahrscheinlichkeit ~70-72%, bet365 @1.44 impliziert 69.4% = +2-4% Edge. ECF G2 ist kein Decider - Lesson 04.05. erlaubt VALUE. Cavs-Defense-Adjust-Risiko abgewogen aber Knicks-Heim-Coaching (Thibodeau) auch reagiert. Stake VALUE 0.5% * 550 EUR = 2.75 EUR. Bei bet365 live pruefen.",
+          "faire_quote": 1.4,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 2.75,
+          "einsatz_prozent_kasse": 0.5
+        },
+        {
+          "id": "nyk-cle-2",
+          "kategorie": "wackel",
+          "markt": "Jalen Brunson Mehr als 26.5 Punkte",
+          "quote": 1.9,
+          "edge_prozent": 5.0,
+          "begruendung": "Player-Punkte erlaubt nach Lesson 04.05./05.05. bei ALLEN Bedingungen erfuellt: (a) Spread -6.5 <=7.5 OK, (b) Brunson 38 Pkt G1 + 30+ vier mal in Playoffs = Form-Edge >80%, (c) Linie 26.5 = Saison-Schnitt -1 bis -2 (Markt unterschaetzt nach G1-Show), (d) Cavs-Top-3-Defense aber Brunson-vs-Harden-Matchup G1 dominant (7/8 in Q4+OT). Heim-MSG-Status. Markt-Stat Spieler-Punkte Ueber (NBA) 53.3% Hit / +5.9% ROI n=15. Lesson 21.05. Volume-Player-Stat-These-Korrelation -> dieser Tipp ist EINZIGER Volume-Player-Stat in heutigem Set (keine Doppelung mit Amoura-Tor-Tipp da Einzel-Trennung, nicht Kombi). Modell-Wahrscheinlichkeit ~56%, bet365 @1.90 impliziert 52.6% = +3-6% Edge. WACKEL statt VALUE wegen Cavs-Defense-Adjust-Risiko + Single-Game-Varianz. Stake WACKEL 0.25% * 550 EUR = 1.40 EUR. Bei bet365 live pruefen.",
+          "faire_quote": 1.79,
+          "empfohlener_einsatz_prozent": 0.25,
+          "einsatz_euro": 1.4,
+          "einsatz_prozent_kasse": 0.25
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "109:93",
+        "halbzeit": "53:49",
+        "quarters": "24-27 / 29-22 / 32-21 / 24-23",
+        "quelle": "WebSearch nba.com / yahoo sports / bleacher report"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "nyk-cle-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.44,
+          "kommentar": "Knicks 109:93 - klarer 16-Punkte-Sieg, 2-0 Serien-Lead. Spread -6.5 ebenfalls easy gedeckt."
+        },
+        {
+          "tipp_id": "nyk-cle-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Brunson nur 19 Pkt (+14 Ast/40 Min) - HZ erst 2 Pkt. Cavs-Defense-Adjust hat funktioniert (Brunson 38->19 = -19 Pkt G1->G2). Sekundaer-Volume-Star Hart 26 Pkt Career-Playoff-High ueberbrueckte die Brunson-Drosselung - klassisches Defense-Lock auf Star, anderer Spieler bricht aus."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "53:49",
+        "endstand": "109:93",
+        "tore": [
+          {"min": "Q1", "team": "gast", "spieler": "Cavs Q1", "stand_danach": "24:27"},
+          {"min": "Q2/HZ", "team": "heim", "spieler": "Knicks Q2 (+11 vs Q1)", "stand_danach": "53:49"},
+          {"min": "Q3", "team": "heim", "spieler": "Knicks Q3 32:21 inkl. 18:0-Run", "stand_danach": "85:70"},
+          {"min": "Q4", "team": "heim", "spieler": "Knicks 24-23 Auslauf", "stand_danach": "109:93"}
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Knappes Q1 (Cavs +3) + symmetrisches Q2 (Knicks +7 zur HZ-Fuehrung) - keine 2+-Tor/8+-Pkt-Drehung im strengen Sinne. Q3 18:0-Run der Knicks war das spielentscheidende Momentum, fuehrte zu max +19-Lead, kein Comeback durch Cavs."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": true,
+          "ueber_215_5": false,
+          "ueber_216_5": false,
+          "halbzeit_endstand": "Knicks/Knicks",
+          "spread_knicks_minus_6_5": true,
+          "knicks_minus_10_5": true,
+          "kein_team_zu_null": true,
+          "total_punkte": 202,
+          "ueber_unter_kommentar": "Total 202 < 216.5 = UNTER (verfehlt um 14.5) - Cavs-Offense-Crash in Q3+Q4, kein OT-Inflation wie G1"
+        },
+        "rotation_highlights": [
+          {"team": "heim", "spieler": "Josh Hart", "details": "Playoff-Career-High 26 Pkt - Sekundaer-Star-Eruption als Reaktion auf Cavs-Defense-Adjust gegen Brunson"},
+          {"team": "heim", "spieler": "Jalen Brunson", "details": "Defense-Adjust: nur 19 Pkt (HZ erst 2 Pkt) - Atkinson-Switch-Coverage hat Brunson-Pick&Roll deutlich gedrosselt; Brunson kompensierte durch 14 Ast (Playmaker-Modus)"},
+          {"team": "gast", "spieler": "Donovan Mitchell", "details": "26 Pkt - solide aber ohne den 6-Stl-Defensiv-Impact aus G1; Wiederholung des G1-Endphasen-Schweigens nicht klar belegt"}
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Sekundaer-Volume-Star-Eruption-Pattern: Cavs-Defense konzentrierte sich auf Brunson (38->19 Pkt = -19), Hart als unerwarteter Career-Playoff-High-Scorer (26) ueberbrueckte die Drosselung. Klassisches 'Defense-Lock auf Hauptstar -> Sekundaer-Star bricht aus' - relevant fuer kuenftige Player-Punkte-Tipps bei Heim-Stars unter Top-3-Defense (Cavs)",
+          "Q3-Knockout-Pattern: 18:0-Run im Q3 = klassisches MSG-Heim-Crowd-Momentum-Spike (Lesson 30.04. modifiziert: Q1-Spike nicht zuverlaessig, Q3 hingegen schon bei Serien-Lead-Druck)",
+          "Total UNTER trotz Tempo-These widerlegt: Pre-Game 216.5-Linie war Markt-Hoch (G1 OT-Inflation), Realitaet 202 - Cavs-Offense crashte in Q3+Q4 (21+23 = 44 Pkt in 24 Min = Pace-Kollaps unter Druck), nicht klassisches Defense-Game",
+          "Cavs ECF-Erfahrungsdefizit zeigt sich: 0-2-Loch nach Atlanta-erprobt Crawl-Back-Theory schwer machbar, Cavs-FG-Effizienz-Crash in 2.HZ deutet auf Mental-Crash unter 1-0-Druck hin"
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "et-1",
+      "spiel_id": "2026-05-21-wob-pad",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore (Wolfsburg vs Paderborn)",
+      "quote": 1.75,
+      "edge_prozent": 6.0,
+      "begruendung": "Markt-Goldgrube Ueber 2.5 (+33.2% ROI / 46.7% Hit bei n=17 - System-Top-Markt). H2H 4/5 mit 3+ Toren. Wolfsburg-Defense Liga-Letzter Rueckrunde (11 Pkt). Paderborn MUSS Auswaerts-Tor erzielen (Doppelspiel-Logik). Modell ~62-65%, Markt impliziert 57.1% = +5-8% Edge. Stake Mini-Tag VALUE 1.0% * 550 EUR = 5.50 EUR. Bei bet365 live pruefen.",
+      "faire_quote": 1.59,
+      "empfohlener_einsatz_prozent": 1.0,
+      "einsatz_euro": 5.5,
+      "einsatz_prozent_kasse": 1.0,
+      "rang": 1
+    },
+    {
+      "id": "et-2",
+      "spiel_id": "2026-05-21-nyk-cle",
+      "kategorie": "value",
+      "markt": "Sieg New York Knicks (Moneyline, ECF G2)",
+      "quote": 1.44,
+      "edge_prozent": 2.5,
+      "begruendung": "Knicks 1-0 Lead + 5-1 Heim-Playoffs + 35-11 MSG-Saison + Brunson-Momentum + Anunoby-vs-Mitchell-Lock. Mapper-Hebel B: NBA-Playoffs nie SAFE -> VALUE-Cap. Markt-Sieg (1X2/ML) 59.8% Hit / +9.1% ROI n=83. Lesson 04.05.: ECF G2 ist kein Decider, VALUE zulaessig. Modell ~70-72%, Markt impliziert 69.4% = +2-4% Edge. Stake Mini-Tag VALUE 0.5% * 550 EUR = 2.75 EUR. Bei bet365 live pruefen.",
+      "faire_quote": 1.4,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 2.75,
+      "einsatz_prozent_kasse": 0.5,
+      "rang": 2
+    },
+    {
+      "id": "et-3",
+      "spiel_id": "2026-05-21-wob-pad",
+      "kategorie": "wackel",
+      "markt": "Mohamed Amoura trifft jederzeit",
+      "quote": 2.3,
+      "edge_prozent": 4.0,
+      "begruendung": "Top-Stuermer Wolfsburg 8 BL-Tore in 30 Spielen 25/26 (0.27/Spiel = solide aber kein 3+ in 5 HR4-Form-Edge). Heim-Druck-Pflicht-Spiel + Backup Pejcinovic/Wind als Einwechslungs-Boost-Kandidat. Markt-Goldgrube Torschuetzen Jederzeit (+20.5% ROI / 36.1% Hit n=36 - Top-3-Markt). Modell ~46%, Markt impliziert 43.5% = +3-5% Edge. WACKEL wegen kein Pflicht-Form-Edge. Stake Mini-Tag WACKEL 0.25% * 550 EUR = 1.40 EUR. Bei bet365 live pruefen.",
+      "faire_quote": 2.17,
+      "empfohlener_einsatz_prozent": 0.25,
+      "einsatz_euro": 1.4,
+      "einsatz_prozent_kasse": 0.25,
+      "rang": 3
+    },
+    {
+      "id": "et-4",
+      "spiel_id": "2026-05-21-nyk-cle",
+      "kategorie": "wackel",
+      "markt": "Jalen Brunson Mehr als 26.5 Punkte",
+      "quote": 1.9,
+      "edge_prozent": 5.0,
+      "begruendung": "Player-Punkte-Bedingungen alle erfuellt (Lesson 04.05./05.05.): Spread -6.5 <=7.5, Brunson 38 Pkt G1 + 30+ vier mal Playoffs (>80% Form-Edge), Linie 26.5 ~Saison-Schnitt-1, Heim-MSG. Lesson 21.05. Volume-Player-Stat-These: dies ist EINZIGE Volume-Player-Stat in Einzel-Set + nicht in Kombis. Cavs-Defense-Adjust-Risiko -> WACKEL statt VALUE. Markt-Stat Spieler-Punkte Ueber (NBA) 53.3% / +5.9% ROI. Modell ~56%, Markt impliziert 52.6% = +3-6% Edge. Stake Mini-Tag WACKEL 0.25% * 550 EUR = 1.40 EUR. Bei bet365 live pruefen.",
+      "faire_quote": 1.79,
+      "empfohlener_einsatz_prozent": 0.25,
+      "einsatz_euro": 1.4,
+      "einsatz_prozent_kasse": 0.25,
+      "rang": 4
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-safe",
+      "name": "Safe-Mini-Kombi (2-Bein, Mini-Spiele-Tag)",
+      "kategorie": "safe",
+      "beine": [
+        {
+          "spiel_id": "2026-05-21-wob-pad",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.75,
+          "begruendung_kurz": "Markt-Goldgrube +33.2% ROI; H2H 4/5 mit 3+ Toren; Wolfsburg-Defense Liga-Letzter Rueckrunde; Paderborn-Pflicht-Auswaerts-Tor"
+        },
+        {
+          "spiel_id": "2026-05-21-nyk-cle",
+          "markt": "Sieg New York Knicks (Moneyline)",
+          "quote": 1.44,
+          "begruendung_kurz": "Knicks 1-0 ECF + 5-1 Heim-Playoffs + 35-11 MSG-Saison + Brunson-Momentum nach 38-Pkt-G1; ECF G2 kein Decider"
+        }
+      ],
+      "gesamtquote": 2.52,
+      "einsatz_euro": 11.0,
+      "einsatz_prozent_kasse": 2.0,
+      "potenzieller_gewinn_euro": 16.72,
+      "edge_prozent": 6.5,
+      "begruendung": "Mini-Spiele-Tag Safe-Kombi nach Lesson 21.05. Hartregel - nur Safe + Moonshot bei <=2 Spielen. 2-Bein-Kombi @ 2.52x. Beide Beine markt-entkoppelt: Tor-Aggregat (Familie C) + Spiel-Sieg-Outcome (Familie A). Layer-1 erfuellt (1 Bein/Spiel/Kombi). Layer-2 erfuellt (1 Spiel-Sieg-Outcome). Layer-3 erfuellt (keine Volume-Player-Stat-These). Beide Beine sind Markt-Goldgruben (Ueber 2.5 +33.2% ROI, Sieg-1X2 +9.1% ROI). Stake 2.0% * 550 EUR = 11.00 EUR. Potenzieller Netto-Gewinn +16.72 EUR. Bei bet365 live pruefen.",
+      "layer1_check": "OK - 2 Beine aus 2 verschiedenen Spielen",
+      "layer2_check": "OK - 1 Spiel-Sieg-Outcome (NYK), kein Doppel-Outcome",
+      "layer3_check": "OK - 0 Volume-Player-Stat-Thesen",
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "kombi-moonshot",
+      "name": "Moonshot-Spass-Slot (2-Bein, ~72x)",
+      "kategorie": "moonshot",
+      "beine": [
+        {
+          "spiel_id": "2026-05-21-wob-pad",
+          "markt": "Genaues Ergebnis 3:1 Wolfsburg",
+          "quote": 12.0,
+          "begruendung_kurz": "Outcome-Volumen-These: Wolfsburg-Heim-Pflicht-Sieg mit Paderborn-Auswaerts-Tor (Doppelspiel-Logik motiviert) - 3:1 als haeufiges Heim-Sieg-Ergebnis mit Auswaerts-Tor"
+        },
+        {
+          "spiel_id": "2026-05-21-nyk-cle",
+          "markt": "Jalen Brunson Mehr als 39.5 Punkte",
+          "quote": 6.0,
+          "begruendung_kurz": "Player-Punkte-Volumen: Brunson 38 Pkt G1 + 30+ vier mal Playoffs - 40-Pkt-Spiel im Heim-MSG mit Cavs-Adjust-Druck-Reaktion (Volume-Player-Stat-These, einzige in Kombi -> Layer-3 OK)"
+        }
+      ],
+      "gesamtquote": 72.0,
+      "einsatz_euro": 0.55,
+      "einsatz_prozent_kasse": 0.1,
+      "potenzieller_gewinn_euro": 39.05,
+      "edge_prozent": 3.0,
+      "begruendung": "Mini-Spiele-Tag Moonshot-Spass-Slot nach Lesson 21.05. - 0.1% Kasse fuer Lotterie-Tipp. Kombi @ ~72x. Beine markt-entkoppelt: Genaues Ergebnis Fussball (Familie A Outcome) + NBA Player-Punkte (Familie E). Layer-1 erfuellt (2 verschiedene Spiele). Layer-3: 1 Volume-Player-Stat-These (Brunson) - innerhalb Limit 'max 1 pro Kombi' (Lesson 21.05. sport-uebergreifend). Stake 0.1% * 550 EUR = 0.55 EUR. Realistische Hit-Rate ~1-2%. Bei bet365 live pruefen.",
+      "layer1_check": "OK - 2 Beine aus 2 verschiedenen Spielen",
+      "layer2_check": "OK - 0 Spiel-Sieg-ML-Outcomes (Genaues-Ergebnis und Player-Punkte sind keine ML)",
+      "layer3_check": "OK - 1 Volume-Player-Stat-These (Brunson 40+, einzige im Kombi)",
+      "empfohlener_einsatz_prozent": 0.1
+    }
+  ],
+  "lessons_angewandt": [
+    {
+      "lesson_datum": "2026-05-21",
+      "titel": "Mini-Spiele-Tag-Safe-Only-Hartregel",
+      "anwendung": "2 Spiele heute (WOB-PAD + NYK-CLE) -> Lesson 21.05. Hartregel: NUR Safe-Kombi + Moonshot, Balance + Risiko ueberspringen. Total-Exposure-Cap 4% Kasse (Safe 2% + Moonshot 0.1% + Einzel <=2%). Routine generiert genau diese Struktur statt 4-Kombi-Standard-Set."
+    },
+    {
+      "lesson_datum": "2026-05-04",
+      "titel": "NBA-Playoffs-nie-SAFE (Mapper-Hebel B)",
+      "anwendung": "NYK-CLE als NBA-Playoff-Spiel hat KEINEN SAFE-Tipp - Knicks-Sieg ist VALUE statt SAFE (auch wenn Klassen-Edge + Heim + Momentum + 1-0). Brunson Player-Punkte ist WACKEL (Cavs-Defense-Adjust-Risiko)."
+    },
+    {
+      "lesson_datum": "2026-05-04",
+      "titel": "Player-Punkte differenziert erlaubt (Aufhebung 26.04. Boykott)",
+      "anwendung": "Brunson Ueber 26.5 Pkt erfuellt alle 4 Lesson-04.05.-Kriterien: (a) Spread -6.5 <=7.5, (b) Form-Edge >80% Round-Schnitt (38 Pkt G1 + 30+ vier mal Playoffs), (c) Linie ~Saison-Schnitt-1, (d) Heim-MSG-Top-Star. Daher WACKEL-Player-Punkte zulaessig. Bei Linie >Saison-Schnitt -> kein Tipp."
+    },
+    {
+      "lesson_datum": "2026-05-21",
+      "titel": "Volume-Player-sport-uebergreifend-korreliert (Layer-3-Praezisierung)",
+      "anwendung": "Im Moonshot Brunson 40+ ist die EINZIGE Volume-Player-Stat-These - kein zweites Player-Stat-Bein (z.B. Amoura Doppelpack) damit kombiniert, weil Volume-Player-Stat-Thesen sport-uebergreifend gegen Defense-Mauer korrelieren. In Safe-Kombi: keine Player-Stat-Thesen ueberhaupt."
+    },
+    {
+      "lesson_datum": "2026-05-04",
+      "titel": "Liga-Goldgruben-DC-Falle (Mapper-Hebel C)",
+      "anwendung": "BL-Relegation ist nicht in liga_goldgruben.json (PL/LaLiga/CL-HF). Wolfsburg-DC-1X-Tipp waere SAFE-Kandidat (82.4% Markt-Hit) aber wird auf VALUE downgegradet. Plus Anti-Heim-Festungs-Lesson 20.05.: Wolfsburg ist KEINE Festung (10 Pkt aus 17 Heimspielen) - SAFE-DC waere falsch."
+    },
+    {
+      "lesson_datum": "2026-05-20",
+      "titel": "Heim-Festungs-15-SAFE-Downgrade-Trigger (invers angewendet)",
+      "anwendung": "Wolfsburg ist Anti-Festung (schwaechstes BL-Heim 25/26: 10 Pkt aus 17). Statt Festungs-Aufwertung als Trigger fuer SAFE-Downgrade: Wolfsburg-Heim-Sieg-Tipps werden bewusst NICHT in Tipps-Set aufgenommen (zu riskant), stattdessen DC 1X als VALUE + Ueber-2.5 + Amoura Volume-9er als Differenzierung."
+    },
+    {
+      "lesson_datum": "2026-05-21",
+      "titel": "Konsens-Best-Bet-Cluster-Trap (max 1 Aggregator-Konsens-Tipp/Tag)",
+      "anwendung": "Heute KEINE Aggregator-Konsens-Best-Bets aufgenommen (Lesson 21.05.: max 1 pro Tag). Tipps basieren auf Eigen-Modell + Markt-Goldgruben + Form-Edge, nicht auf Konsens-Aggregator-Empfehlungen."
+    },
+    {
+      "lesson_datum": "2026-04-26",
+      "titel": "2:0-Insurance-Geltungsbereich",
+      "anwendung": "Wolfsburg-Paderborn ist BL-Relegation (Hybrid). CLAUDE.md beschraenkt 2:0-Insurance auf 'regulaere BL + CL'. Daher 2:0-Insurance hier NICHT angewendet - Wolfsburg-Sieg-Tipp ist regulaer wertbar."
+    }
+  ],
+  "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool, keine Einkommensquelle, nur setzen was du verlieren kannst.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-05-21T16:05:00+02:00",
+    "verifikator_lauf": "Master-Tipps-Routine Phase 5 (Watchdog-Recovery-File ueberprueft, da Recherche-File data/recherche/2026-05-21.json fehlt und Watchdog 14:45 bereits vollstaendiges Dossier produziert hat)",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "markt_konflikt_dokumentation",
+        "spiel_id": "2026-05-21-wob-pad",
+        "kombi_id": "kombi-moonshot",
+        "details": "Markt 'Genaues Ergebnis 3:1 Wolfsburg' im Moonshot - fussball_analyse.md listet 'Genaues Ergebnis' unter 'Verbotene Maerkte (Lottery)', CLAUDE.md fuehrt es jedoch als bet365-DE-erlaubt. Moonshot-Kategorie ist explizit fuer Lotterie/Spass-Einsatz (CLAUDE.md), 0.55 EUR Stake = vernachlaessigbares Risiko. Behalten, aber Lesson-Vorschlag: fussball_analyse.md vs CLAUDE.md angleichen."
+      },
+      {
+        "art": "squad_quelle_unbestaetigt",
+        "spiel_id": "2026-05-21-wob-pad",
+        "tipp_id": "wob-pad-3",
+        "details": "Amoura-Backup 'Pejcinovic' in news[10] erwaehnt - aktuelle Verifikation (Wolfsburg-Squad 25/26) nicht im File. Tippt wird auf Amoura selbst (real, 8 BL-Tore), Backup-Erwaehnung ist Nebenargument fuer Einwechslungs-Boost. Kein Drop, da Haupt-Tipp Amoura squad-verifiziert via Saison-Statistik."
+      },
+      {
+        "art": "fehlende_recherche_datei",
+        "details": "data/recherche/2026-05-21.json existiert nicht - Watchdog hat ohne strukturiertes Recherche-File gearbeitet (Direkt-WebSearch). _emergency_recovery-Flag fehlt im Output - rueckwirkend dokumentiert in diesem Report."
+      },
+      {
+        "art": "edge_prozent_grob",
+        "details": "Edge-Werte (6.0%, 2.5%, 4.0%, 5.0%) sind Watchdog-Schaetzungen ohne Pinnacle-Fair-Line-Cross-Check (kein Recherche-File mit Pinnacle-Quoten). Bei bet365 live pruefen."
+      }
+    ],
+    "checks_bestanden": [
+      "Spieler-Halluzinations-Check: Amoura (WOB), Brunson/Mitchell/Anunoby (NBA) alle real - 0 Halluzinationen",
+      "Position-Mismatch-Check: Amoura ist ST (kein DM/IV-Bug Typ Hojlund), Brunson ist Punkte-Tipp (NBA-PG-Punkte trivial)",
+      "Saison-Kontext-Quellen-Check: WOB-PAD hat bundesliga.com (Verband) + kicker.de, NYK-CLE hat nba.com (Verband) + espn.com - alle Verband-Pflicht erfuellt",
+      "Layer-1-Check: Kombis haben je 2 Beine aus 2 verschiedenen Spielen",
+      "Layer-2-Check: Pro Spiel max 1 Sieg-Outcome ueber alle Kombis - NYK-ML in Safe (1x), 3:1-WOB in Moonshot (1x) - OK",
+      "Layer-3-Check: Volume-Player-Stat-These max 1 pro Kombi - Brunson 40+ in Moonshot (1x), Safe ohne Player-Stat - OK",
+      "Quoten-Rechnung: Safe 1.75*1.44=2.52 OK, Moonshot 12.0*6.0=72.0 OK",
+      "Beobachtungs-Liga-Check: NBA-ECF ist NICHT in beobachtungs_ligen.json (nur 'NBA Playoffs Round 1, Game 6' gelistet) - kein Downgrade",
+      "Bluter-Markt-Check: markt_bluter.json ist leer - kein Markt zu degradieren",
+      "Goldgruben-Aktiv-Such-Check: Ueber 2.5 (+33.2% ROI) als Safe-Bein UND Einzel + Torschuetzen Jederzeit (+20.5% ROI) als Wackel - Goldgruben aktiv gesucht",
+      "Mini-Spiele-Tag-Hartregel (Lesson 21.05.): nur 2 Kombis (Safe + Moonshot), Balance + Risiko skippt - OK",
+      "Selbstwiderspruchs-Scan: keine 'X OUT' + 'X spielt' Widersprueche, kein Klassen-Edge-Final-Falle (Volume-9er-Schweigen 21.05.) angewandt da Existenz-Druck-Relegation",
+      "2:0-Insurance-Geltungs-Check: WOB-PAD ist BL-Relegation (Hybrid), Insurance NICHT angewandt - CLAUDE.md-konform"
+    ],
+    "lessons_generiert": [],
+    "erfolgs_kriterium": "ERFUELLT - 0 halluzinierte Spieler, 0 unbegruendete Wettbewerbs-Behauptungen, 0 Selbstwidersprueche, Layer-2 sauber, _verifikations_report im File fuer PWA-Anzeige.",
+    "_emergency_recovery": true
+  },
+  "einzeltipps_ergebnis": [
+    {
+      "id": "et-1",
+      "spiel_id": "2026-05-21-wob-pad",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore (Wolfsburg vs Paderborn)",
+      "quote": 1.75,
+      "edge_prozent": 6.0,
+      "begruendung": "Markt-Goldgrube Ueber 2.5 (+33.2% ROI / 46.7% Hit bei n=17 - System-Top-Markt). H2H 4/5 mit 3+ Toren. Wolfsburg-Defense Liga-Letzter Rueckrunde (11 Pkt). Paderborn MUSS Auswaerts-Tor erzielen (Doppelspiel-Logik). Modell ~62-65%, Markt impliziert 57.1% = +5-8% Edge. Stake Mini-Tag VALUE 1.0% * 550 EUR = 5.50 EUR. Bei bet365 live pruefen.",
+      "faire_quote": 1.59,
+      "empfohlener_einsatz_prozent": 1.0,
+      "einsatz_euro": 5.5,
+      "einsatz_prozent_kasse": 1.0,
+      "rang": 1,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "0:0 - 0 Tore = klar Unter 2.5. Wolfsburg 17 Schuesse / 70% Possession 2.HZ ohne Treffer. Tor-Festival-These widerlegt."
+    },
+    {
+      "id": "et-2",
+      "spiel_id": "2026-05-21-nyk-cle",
+      "kategorie": "value",
+      "markt": "Sieg New York Knicks (Moneyline, ECF G2)",
+      "quote": 1.44,
+      "edge_prozent": 2.5,
+      "begruendung": "Knicks 1-0 Lead + 5-1 Heim-Playoffs + 35-11 MSG-Saison + Brunson-Momentum + Anunoby-vs-Mitchell-Lock. Mapper-Hebel B: NBA-Playoffs nie SAFE -> VALUE-Cap. Markt-Sieg (1X2/ML) 59.8% Hit / +9.1% ROI n=83. Lesson 04.05.: ECF G2 ist kein Decider, VALUE zulaessig. Modell ~70-72%, Markt impliziert 69.4% = +2-4% Edge. Stake Mini-Tag VALUE 0.5% * 550 EUR = 2.75 EUR. Bei bet365 live pruefen.",
+      "faire_quote": 1.4,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 2.75,
+      "einsatz_prozent_kasse": 0.5,
+      "rang": 2,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.44,
+      "kommentar": "Knicks 109:93 - 2-0 Serien-Lead. Hart 26 Career-Playoff-High, Brunson 19/14 Ast, Towns 18/13. Q3 18:0-Run entschied das Spiel."
+    },
+    {
+      "id": "et-3",
+      "spiel_id": "2026-05-21-wob-pad",
+      "kategorie": "wackel",
+      "markt": "Mohamed Amoura trifft jederzeit",
+      "quote": 2.3,
+      "edge_prozent": 4.0,
+      "begruendung": "Top-Stuermer Wolfsburg 8 BL-Tore in 30 Spielen 25/26 (0.27/Spiel = solide aber kein 3+ in 5 HR4-Form-Edge). Heim-Druck-Pflicht-Spiel + Backup Pejcinovic/Wind als Einwechslungs-Boost-Kandidat. Markt-Goldgrube Torschuetzen Jederzeit (+20.5% ROI / 36.1% Hit n=36 - Top-3-Markt). Modell ~46%, Markt impliziert 43.5% = +3-5% Edge. WACKEL wegen kein Pflicht-Form-Edge. Stake Mini-Tag WACKEL 0.25% * 550 EUR = 1.40 EUR. Bei bet365 live pruefen.",
+      "faire_quote": 2.17,
+      "empfohlener_einsatz_prozent": 0.25,
+      "einsatz_euro": 1.4,
+      "einsatz_prozent_kasse": 0.25,
+      "rang": 3,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Amoura 0 Tore (kam 65. fuer Daghim, 25 Min Spielzeit). Einwechslungs-Boost greift NICHT (Tipp-Spieler kam REIN, ging nicht raus)."
+    },
+    {
+      "id": "et-4",
+      "spiel_id": "2026-05-21-nyk-cle",
+      "kategorie": "wackel",
+      "markt": "Jalen Brunson Mehr als 26.5 Punkte",
+      "quote": 1.9,
+      "edge_prozent": 5.0,
+      "begruendung": "Player-Punkte-Bedingungen alle erfuellt (Lesson 04.05./05.05.): Spread -6.5 <=7.5, Brunson 38 Pkt G1 + 30+ vier mal Playoffs (>80% Form-Edge), Linie 26.5 ~Saison-Schnitt-1, Heim-MSG. Lesson 21.05. Volume-Player-Stat-These: dies ist EINZIGE Volume-Player-Stat in Einzel-Set + nicht in Kombis. Cavs-Defense-Adjust-Risiko -> WACKEL statt VALUE. Markt-Stat Spieler-Punkte Ueber (NBA) 53.3% / +5.9% ROI. Modell ~56%, Markt impliziert 52.6% = +3-6% Edge. Stake Mini-Tag WACKEL 0.25% * 550 EUR = 1.40 EUR. Bei bet365 live pruefen.",
+      "faire_quote": 1.79,
+      "empfohlener_einsatz_prozent": 0.25,
+      "einsatz_euro": 1.4,
+      "einsatz_prozent_kasse": 0.25,
+      "rang": 4,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Brunson 19 Pkt (HZ erst 2 Pkt) - Cavs-Defense-Adjust ueber Switch-Coverage funktionierte exakt wie Pre-Match befuerchtet (38 G1 -> 19 G2). Sekundaer-Star Hart 26 Career-High kompensierte."
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "kombi-safe",
+      "status": "verloren",
+      "gesamtquote": 2.52,
+      "gewonnene_beine": 1,
+      "verlorene_beine": 1,
+      "kommentar": "Ueber 2.5 verloren (0:0), Knicks ML gewonnen - 1/2 Beine = Kombi tot"
+    },
+    {
+      "kombi_id": "kombi-moonshot",
+      "status": "verloren",
+      "gesamtquote": 72.0,
+      "gewonnene_beine": 0,
+      "verlorene_beine": 2,
+      "kommentar": "3:1 WOB (Endstand 0:0) + Brunson 40+ (19 Pkt) beide verloren"
+    }
+  ],
+  "ausgewertet_am": "2026-05-22T06:35:00+00:00",
+  "bilanz_tag": {
+    "einzel_einsatz_euro": 11.05,
+    "einzel_gewinn_brutto_euro": 3.96,
+    "einzel_netto_euro": -7.09,
+    "einzel_hits": "1/4 (et-2 Knicks ML)",
+    "kombi_einsatz_euro": 11.55,
+    "kombi_gewinn_brutto_euro": 0.0,
+    "kombi_netto_euro": -11.55,
+    "tag_netto_euro": -18.64,
+    "tag_einsatz_euro": 22.60,
+    "tag_roi_prozent": -82.5,
+    "kommentar": "Mini-Spiele-Tag mit Verlust. Beide Ueber-2.5-/BTTS-Thesen widerlegt (0:0 in Existenz-Druck-Relegation), Cavs-Defense-Adjust gegen Brunson durchgreifend, nur Knicks-ML als Klassen-Edge gerettet. Tag-Roi -82.5% auf Einsatz / -3.4% auf Kasse 550. Volle-Analyse-Coverage: 2/2 Spiele."
+  }
+}

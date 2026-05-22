@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-05-21T06:13:04+00:00",
+  "letzte_berechnung": "2026-05-22T06:20:34+00:00",
   "gesamt": {
     "tipps": 261,
     "gewonnen": 140,
@@ -3240,6 +3240,65 @@ window.__MIESMUSCHEL_STAT = {
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-05-21",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "Safe-Mini-Kombi (2-Bein, Mini-Spiele-Tag)",
+          "kategorie": "safe",
+          "gesamtquote": 2.52,
+          "einsatz_prozent": 1.5,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg New York Knicks (Moneyline)",
+              "quote": 1.44,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Spass-Slot (2-Bein, ~72x)",
+          "kategorie": "moonshot",
+          "gesamtquote": 72.0,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Genaues Ergebnis 3:1 Wolfsburg",
+              "quote": 12.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Jalen Brunson Mehr als 39.5 Punkte",
+              "quote": 6.0,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-05-20",
       "gesamt": {
