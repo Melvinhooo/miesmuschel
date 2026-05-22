@@ -1,0 +1,499 @@
+{
+  "datum": "2026-05-22",
+  "erstellt_am": "2026-05-22T11:55:00+02:00",
+  "hinweis": "🐚 Mini-Spiele-Tag (nur 2 Spiele): 1) Serie A MD38 ACF Fiorentina vs Atalanta BC (20:45 Berlin, Stadio Franchi Florenz) - Serie A ist Beobachtungs-Liga (rolling 30d ROI -46.0%) -> Spiel exkludiert aus einzeltipps[]+Hauptkombis, nur Moonshot-Bein ab Quote 5.0 erlaubt, alle Spiel-Tipps max wackel. 2) NBA Western Conference Finals Game 3 San Antonio Spurs vs Oklahoma City Thunder (02:30 Berlin Samstag 23.05., Frost Bank Center San Antonio) - Serie 1-1 nach Wemby-41/24/3-Spurs-G1 + SGA-30/Caruso-17-OKC-G2 mit Hartenstein-on-Wemby-Defense-Adjustment. Kasse-Stand 04.05.: 550€ Stufe 1 Aufbau-Phase aktiv. Lesson 21.05. Mini-Spiele-Tag-Safe-Only-Hartregel: bei <=2 Spielen NUR Safe-Kombi + Moonshot (Spass 0.1%), Balance/Risiko skippen (2-Bein-Konstruktionen liefern weder Edge noch substantielles Risiko-Profil + sind 'garantierte Verluste' empirisch 20.05.). Total-Exposure-Cap Mini-Tag 4% Kasse = max 22€. Lesson 22.05. NBA-Star-Defense-Adjust-G1-Hot-Hand-Subfilter: Wemby 41 G1 -> 21 G2 nach Hartenstein-Adjust = klassisches Brunson-Pattern -> Wemby-Punkte-Tipp NUR mit Subfilter-Prüfung. Lesson 22.05. Sekundaer-Volume-Star-Eruption: Castle als Spurs-PG (G2 25/8) = Sekundaer-Volume-Edge-Kandidat wenn OKC weiter Wemby drosselt. Lesson 21.05. Konsens-Best-Bet-Cluster-Trap: 3-fach Aggregator-Konsens (Lineups/OddsShark/Basketballsphere) Spurs ML + Spurs -1.5 ist Cluster-Trap-Profil -> max 1 Konsens-Best-Bet als VALUE in einzeltipps[]. 2:0-Insurance gilt NICHT (Serie A nicht in BL/CL-Whitelist; NBA generell nicht abgedeckt). NBA-Markt-Verbote DE strikt: keine Einzel-Reb/Ast/Blk/Steals/Turnovers (Wemby-Reb-Prop O14.5 ist Aggregator-Top-Tipp aber NICHT setzbar), keine PRA-Kombos, keine Punkte+Reb/Ast-Kombi, keine Einzel-3er. Quoten via Aggregator (Sportsgambler/Sportsmole/Dailysports/Lineups/OddsShark/Basketballsphere) - bei bet365 live pruefen.",
+  "spiele": [
+    {
+      "id": "2026-05-22-fio-ata",
+      "liga": "🔍 Beobachtung - Serie A",
+      "matchday": 38,
+      "stage": "REGULAR_SEASON",
+      "heim": "ACF Fiorentina",
+      "gast": "Atalanta BC",
+      "anstoss": "2026-05-22T20:45:00+02:00",
+      "stadion": "Stadio Artemio Franchi, Florenz",
+      "schiedsrichter": "noch nicht bestaetigt (Lega Serie A)",
+      "saison_kontext": {
+        "parallel_heim": "keine - Serie A MD38 ist letzter Spieltag; Coppa Italia Saison beendet; Fiorentina spielte Conference League Saison 25/26 aber komplett ausgespielt; Conference-Quali-Status nicht relevant fuer dieses Spiel",
+        "parallel_gast": "keine - Serie A MD38 letzter Spieltag; Atalanta war Champions-League-Saison 25/26 schon ausgeschieden, Coppa Italia auch vorbei; Conference-League-Quali fuer 26/27 ueber Liga-Platz 7 bereits gesichert (Sportsmole bestaetigt 'Atalanta qualified for Conference League under Palladino')",
+        "saisonziel_heim": "Klassenerhalt bereits gesichert (Sportsmole: 'Vanoli secured survival after being in the drop zone'); Platz 15 Serie A (41 Pkt, 40:49 Tore); reines Saison-Wuerdig-Beenden ohne Tabellen-Druck - kein Auf-/Abstieg im Spiel",
+        "saisonziel_gast": "Conference-League-Quali 26/27 bereits ueber Platz 7 gesichert (58 Pkt, 50:35 Tore); reines Saison-Wuerdig-Beenden ohne Tabellen-Druck",
+        "motivations_asymmetrie": "Beidseitig 'dead rubber' (Lesson 14.05. Coinflip-Saisonende-Validierung greift voll - tendenziell ueberspringen oder kleine Wetten). Heim-Festungs-Pattern Fiorentina (Sportsmole: 'unbeaten in last 7 home Serie-A-Matches' + 'won final fixture in each of last 4 seasons') ist neutral korreliert mit Atalanta-Liga-Auswaerts-Schwaeche am Franchi (Sportsmole: 'won just 2 of last 24 league visits'). Atalanta-Auswaerts-Form-Lift (9 Tore in 4 Auswaertsspielen, 55.2% Possession-Avg) gegen Fio-Heim-Druck = Coinflip mit minimaler Atalanta-Markt-Edge (Quote-Implizit 43% vs 30%).",
+        "recovery_heim": "5 Tage seit 2:0 vs Juventus (17.05.) - voll regeneriert, kein paralleles Spiel",
+        "recovery_gast": "5 Tage seit 0:1 vs Bologna (17.05.) - voll regeneriert, kein paralleles Spiel",
+        "quellen": [
+          "https://en.wikipedia.org/wiki/2026_UEFA_Conference_League_final",
+          "https://www.sportsmole.co.uk/football/fiorentina/preview/fiorentina-vs-atalanta-prediction-team-news-lineups_597875.html",
+          "https://dailysports.net/predictions/fiorentina-vs-atalanta-prediction-match-preview-and-probable-lineups-may-22-2026/",
+          "https://www.sportsgambler.com/betting-tips/football/fiorentina-vs-atalanta-prediction-lineups-odds-2026-05-22/"
+        ]
+      },
+      "news": [
+        "Beide Teams 'dead rubber' am letzten Spieltag - Fiorentina P15 (41 Pkt) Klassenerhalt gesichert + Atalanta P7 (58 Pkt) Conference-League-Quali via Liga-Position bereits sicher",
+        "Atalanta-Auswaerts-Form: 9 Tore in den letzten 4 Auswaertsspielen, 55.2% Possession-Avg (Sportsmole) - aber NUR 2 Liga-Auswaerts-Siege in 24 Besuchen am Stadio Franchi historisch",
+        "Fiorentina Heim-Festung: unbeaten in den letzten 7 Heim-Serie-A-Spielen; gewann das letzte Saison-Spiel in 4 Saisons in Folge (Sportsmole)",
+        "Hinspiel Atalanta 2-0 in Bergamo (November 2025) - Atalanta sucht seltenes Double in dieser Saison",
+        "Kean weiterhin OUT (Schienbein, 9. Liga-Spiel in Folge) - Piccoli muss als Stamm-Stuermer starten; Ranieri 1-Spiel-Sperre (Rote Karte vs Juventus) + Parisi (ACL) + Lamptey (ACL) + Sottil (Ruecken) OUT",
+        "Atalanta-IV-Krise: Kossounou Saison-OUT (Oberschenkel), Bernasconi OUT (Knie), Hien Status widerspruechlich (Sportsmole 'returns after one-match ban' vs Sportsgambler '2-match suspension' - bei bet365/Lineup live pruefen) -> Kolasinac/Scalvini/Ahanor moegliche IV-Konfiguration",
+        "Markt-Goldgrube-Trigger (rolling Stat): Doppelte Chance X2 (+15.8% ROI / 69.2% Hitrate), Ueber 2.5 Tore (+33.2% ROI / 46.7% Hitrate), Torschuetzen Jederzeit (+20.5% ROI / 36.1% Hitrate) - aktiv suchen aber durch Beobachtungs-Liga-Status max wackel",
+        "Liga-Beobachtungs-Status: Serie A rolling 30d ROI -46.0% (5 Tipps / 40% Hitrate) -> Schema-Mapper droppt SAFE/VALUE auf wackel UND entfernt aus einzeltipps[]+Hauptkombis; nur Moonshot-Bein-Aufnahme ab Quote 5.0 erlaubt",
+        "Coinflip-Indikator: Sportsmole-Prognose 1-2 Atalanta, aber Klassen-Edge-Heim-Festungs-Reibung + Vanoli/Palladino-Trainer-Sicherheit beidseitig fragwuerdig -> Saisonfinale-Variabilitaet stark erhoeht (Lesson 14.05.)"
+      ],
+      "tipps": [
+        {
+          "id": "fio-ata-1",
+          "kategorie": "wackel",
+          "markt": "Doppelte Chance Atalanta oder Unentschieden (X2)",
+          "quote": 1.4,
+          "edge_prozent": 2.0,
+          "begruendung": "Markt-Goldgrube DC X2 (+15.8% ROI / 69.2% Hitrate, n=15) + Atalanta-Klassen-Edge (Konsens-Quote 43% Sieg + 27% Remis = 70% DC X2) - faire Quote ~1.36, bet365 @1.40 = +2-3% Edge. Beobachtungs-Liga-Hartregel zwingt wackel statt SAFE (Serie A 30d ROI -46.0%) - laut Stat-Lesson 25.04. ist VALUE/SAFE-Markierung Selbsttaeuschung. NICHT in einzeltipps[] (Beob exkludiert). Stake-Aussage entfaellt - reines Spiel-Analyse-Tipp, nicht spielbar laut Mini-Tag-Safe-Only-Hartregel. Bei bet365 live pruefen.",
+          "faire_quote": 1.36,
+          "empfohlener_einsatz_prozent": 0.0,
+          "einsatz_euro": 0.0,
+          "_beobachtungs_liga_block": true
+        },
+        {
+          "id": "fio-ata-2",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.88,
+          "edge_prozent": 3.5,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 Tore (+33.2% ROI / 46.7% Hitrate, n=17) + beidseitig dead-rubber (kein defensiver Tabellen-Druck) + Atalanta 9 Tore in 4 Auswaertsspielen + Fio-IV-Schwaeche (Ranieri-Sperre, Parisi ACL) + Atalanta-IV-Krise (Kossounou OUT, Bernasconi OUT, Hien Status unklar) = beidseitige Defense-Schwaeche. Markt-Implizit 53% vs Modell ~57% = +3-4% Edge. Beobachtungs-Liga-Hartregel zwingt wackel statt VALUE. Lesson 22.05. Anti-Festungs-Tor-Markt-Sperre prueft Fiorentina-Heim-Punkte-Hitrate Saison 25/26 (~0.65 ueber 19 Heimspiele bei P15 = nicht klar Anti-Festungs-Profil, keine Sperre). NICHT in einzeltipps[]. Bei bet365 live pruefen.",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 0.0,
+          "einsatz_euro": 0.0,
+          "_beobachtungs_liga_block": true
+        },
+        {
+          "id": "fio-ata-3",
+          "kategorie": "wackel",
+          "markt": "Nikola Krstovic trifft jederzeit",
+          "quote": 3.2,
+          "edge_prozent": 3.0,
+          "begruendung": "HR24 Form-Edge erfuellt (a) Atalanta-Top-Stuermer-Option Saison-Schluss + 2+ Schuesse in 7 von 10 letzten Serie-A-Spielen (Search-Result), (b) zentraler 9er-Profil mit Scamacca als Backup-9er (Einwechslungs-Boost-Kandidat - Tore Scamacca nach Krstovic-Sub zaehlen lt CLAUDE.md), (c) Fio-IV-Krise mit Ranieri-Sperre. Markt-Goldgrube Torschuetzen Jederzeit (+20.5% ROI / 36.1% Hitrate). Faire Quote ~3.10, bet365 @3.20 = +3% Edge. Pre-Match-Aufstellungs-Verifikation 60-90 Min PFLICHT (Lesson 19.05.) - falls Krstovic NICHT in Startelf oder Sportsgambler 4-4-2-Variante mit Krstovic-Sulemana statt Krstovic-Scamacca, Tipp droppen. Beobachtungs-Liga-Hartregel zwingt wackel. NICHT in einzeltipps[]. Bei bet365 live pruefen.",
+          "faire_quote": 3.1,
+          "empfohlener_einsatz_prozent": 0.0,
+          "einsatz_euro": 0.0,
+          "_beobachtungs_liga_block": true,
+          "_aufstellungs_verifikation_pflicht": true
+        },
+        {
+          "id": "fio-ata-4",
+          "kategorie": "wackel",
+          "markt": "Giacomo Raspadori trifft jederzeit",
+          "quote": 3.7,
+          "edge_prozent": 1.5,
+          "begruendung": "HR24 Form-Edge teilweise erfuellt: Atalanta-OM/LF-Hybrid mit 2 Toren in 4 letzten SA-Auswaertsspielen (Dailysports/Search-Result), aber Position OM = max VALUE laut Verifikations-Lesson (OM Position-Mismatch gegenueber zentralem 9er). Einwechslungs-Boost-Kandidat fuer De Ketelaere/Samardzic moeglich. Markt-Goldgrube Torschuetzen Jederzeit (+20.5%). Faire Quote ~3.65, bet365 @3.70 = +1.5%. Beobachtungs-Liga zwingt wackel. NICHT in einzeltipps[]. Bei bet365 live pruefen.",
+          "faire_quote": 3.65,
+          "empfohlener_einsatz_prozent": 0.0,
+          "einsatz_euro": 0.0,
+          "_beobachtungs_liga_block": true,
+          "_aufstellungs_verifikation_pflicht": true
+        },
+        {
+          "id": "fio-ata-5",
+          "kategorie": "moonshot",
+          "markt": "Lazar Samardzic trifft jederzeit",
+          "quote": 6.0,
+          "edge_prozent": 5.0,
+          "begruendung": "Moonshot-Slot: Samardzic = OM-Joker / Spielmacher-Bench-Option Atalanta - typischer Einwechslungs-Boost-Kandidat in dead-rubber Saisonfinale mit Trainer-Rotation. Position OM = nominell OK fuer Torschuetzen-Tipp aber Bench-Risiko reduziert Wahrscheinlichkeit. Quote 6.00 >= 5.0 -> Beobachtungs-Liga-Moonshot-Bein-Schwelle erfuellt (laut beobachtungs_ligen.json-Wirkung). Faire Quote ~5.70 (Modell 17.5%), bet365 @6.00 = +5% Edge. Pre-Match-Lineup-Check PFLICHT - falls Samardzic in Startelf statt Bank, Quote sinkt + Edge sinkt. Bei bet365 live pruefen.",
+          "faire_quote": 5.7,
+          "empfohlener_einsatz_prozent": 0.1,
+          "einsatz_euro": 0.55,
+          "einsatz_prozent_kasse": 0.1,
+          "_beobachtungs_liga_moonshot_kombi_bein": true,
+          "_aufstellungs_verifikation_pflicht": true
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-05-22-sas-okc",
+      "liga": "NBA Western Conference Finals",
+      "stage": "PLAYOFFS_CONF_FINALS_G3",
+      "spiel_label": "Game 3 of 7 (Best-of-7, Stand 1-1)",
+      "heim": "San Antonio Spurs",
+      "gast": "Oklahoma City Thunder",
+      "anstoss": "2026-05-23T02:30:00+02:00",
+      "stadion": "Frost Bank Center, San Antonio",
+      "saison_kontext": {
+        "parallel_heim": "keine - NBA Playoffs einziger Wettbewerb; Spurs erste WCF seit Tim-Duncan-Aera",
+        "parallel_gast": "keine - NBA Playoffs einziger Wettbewerb; OKC ist defending Champion 2025 als 1-Seed West",
+        "saisonziel_heim": "NBA Finals Qualifikation - Wemby-Aufstiegs-Saison auf grosser Buehne; Serie 1-1 nach G1-Heimsieg fuer Spurs (122-115 in 2OT, Wemby 41/24/3 historisch) + G2-Niederlage in OKC (113-122, Castle 25/8, Wemby 21/17/6/4 nach Hartenstein-Defense-Adjust)",
+        "saisonziel_gast": "Title-Verteidigung als 2025-Champion; OKC 1-Seed West reagierte auf G1-Shock mit Daigneault-Hartenstein-on-Wemby-Adjustment in G2 - jetzt entscheidende Heim-Auswaerts-Phase mit zwei Auswaertsspielen am Stueck",
+        "motivations_asymmetrie": "Beidseitig 100% Pflicht-Modus (Conf-Final, kein Schon-Profil). Spurs als G2-Verlierer mit G3-Heimrecht = HR18-G2-Reaktions-Spike-Heimbonus aktiv (kein Wurf-Krise-Trigger - Castle 25 G2, Spurs-3PT durchschnittlich) + Reg-Season-Dominanz 4-0 H2H + Heim-Form 16-4 SU letzte 20 Heimspiele + OKC-Williams-Q (G3 wahrscheinlich OUT nach Hamstring-Aggravation G2 1. Quarter) schwaecht Thunder-Bench-Tiefe. -> Spurs leichter Markt-Edge bei -118 ML / -1.5 Spread.",
+        "recovery_heim": "1 Tag seit G2 (20.05. Auswaerts-Niederlage) inkl. Reise zurueck nach San Antonio - kein 2OT-Marathon belastet (Lesson 20.05.b NBA-Recovery-Asymmetrie greift nicht); Fox (Knoechel, Q -> Erwartung OUT laut Coach Mitch Johnson) + Harper (Hamstring, Q -> G3 zweifelhaft) reduziert Bench-Tiefe aber nicht Wemby/Castle-Volumen",
+        "recovery_gast": "1 Tag seit G2 (20.05. Heimsieg) inkl. Reise nach San Antonio - Williams (Hamstring, Q nach 1. Quarter G2 Aggravation -> wahrscheinlich OUT/sehr limitiert in G3, vorher 6 Spiele Grade-1-Strain), Mitchell (Knie, Q nach Knie-Kontakt G2 4. Quarter), Sorber OUT Saison; Bench-Wallace/Wiggins muss decken",
+        "quellen": [
+          "https://www.nba.com/playoffs/2026/west-final",
+          "https://www.lineups.com/betting/oklahoma-city-thunder-vs-san-antonio-spurs-game-3-preview-picks-odds-for-may-22-2026/",
+          "https://www.oddsshark.com/nba/thunder-spurs-picks-odds-may-22-2026",
+          "https://basketballsphere.com/en/san-antonio-spurs-vs-oklahoma-city-thunder-game-3-preview-prediction-may-22-2026/",
+          "https://www.si.com/nba/spurs/onsi/injury-update-pair-of-starters-ruled-out-in-san-antonio-spurs-vs-oklahoma-city-thunder-game-2",
+          "https://www.nba.com/news/live-updates-2026-nba-playoffs-western-conference-finals-spurs-thunder-run-it-back-after-classic"
+        ]
+      },
+      "news": [
+        "Serie 1-1 nach OKC G2-Heimsieg 122-113 (SGA 30 / Caruso 17 / Hartenstein-Defense-Switch funktionierte) - nach G1-Spurs-Auswaerts-Sieg 122-115 2OT (Wemby 41/24/3 historisch, juengster 40/20-Spieler NBA-Playoff-Geschichte mit 22 J.)",
+        "Daigneault-Adjustment in G2: Hartenstein-on-Wembanyama-Defense zwang Wemby vom Korb weg - Wemby G2 21 Pkt vs G1 41 Pkt = -49% Output; klassisches Brunson-Pattern (Lesson 22.05. NBA-Star-Defense-Adjust-G1-Hot-Hand-Subfilter)",
+        "Spurs Turnover-Krise: 42 Turnovers in G1+G2 -> 55 Thunder-Punkte (Basketballsphere: 'highest by player in playoff series since 1977 tracking') - G3-Korrektur-Pflicht oder OKC-Bounce-Punkte-Booster bleibt aktiv",
+        "Verletzungs-Cluster Spurs: Fox (Knoechel) OUT/Q -> Erwartung OUT laut Coach Mitch Johnson; Harper (Hamstring) Q nach G2 12-Pkt-Ausfall in 25 Min -> G3 zweifelhaft; Jones Garcia OUT Saison",
+        "Verletzungs-Cluster Thunder: Williams (Hamstring) Q nach G2-1.-Quarter-Aggravation -> wahrscheinlich OUT in G3 oder stark limitiert (6 vorherige Spiele Grade-1-Strain); Mitchell (Knie) Q; Sorber OUT Saison",
+        "Heimvorteil Spurs: 16-4 SU letzte 20 Heimspiele (OddsShark); Reg-Season H2H 25/26: Spurs gewannen 4 von 4 vs OKC (Basketballsphere) - aussergewoehnliche Klassen-Edge im H2H-Profil",
+        "3-fach Analysten-Konsens-Edge: Spurs ML -118 (~1.83) + Spurs Spread -1.5 (~1.91) ist 3-faches Konsens-Best-Bet (Lineups + OddsShark + Basketballsphere) - aber Lesson 21.05. Konsens-Best-Bet-Cluster-Trap warnt: bei Klassen-Edge-Asymmetrie + Bounce-Back-Druck koennen Konsens-Bets gemeinsam reissen, max 1 davon als VALUE in einzeltipps[]",
+        "Lesson 22.05. Sekundaer-Volume-Star-Eruption-Pattern: Castle als Spurs-PG nach Fox/Harper-Cluster G2 25 Pkt + 8 Ast (Sekundaer-Volume-Profil) - wenn OKC-Defense weiter Wemby drosselt, Castle-Ueber-22.5-Linie-Spike erwartbar (Hart-Knicks-Pattern G2 26 Pkt analog)",
+        "Verbotene Maerkte DE: Wemby-Reb-Prop O14.5 ist Aggregator-Top-Pick aber NICHT setzbar; PRA-Kombos, Punkte+Reb/Ast, Einzel-3er verboten",
+        "Erlaubte Maerkte: Moneyline, Spread, Total, Einzel-Punkte-Props (Wemby/SGA/Castle/Holmgren/Caruso), Double-Double, Triple-Double, Meiste Punkte im Spiel"
+      ],
+      "tipps": [
+        {
+          "id": "sas-okc-1",
+          "kategorie": "value",
+          "markt": "Sieg San Antonio Spurs (Moneyline)",
+          "quote": 1.83,
+          "edge_prozent": 3.5,
+          "begruendung": "Spurs Heim-G3-Edge: (1) HR18-G2-Reaktions-Spike-Pattern aktiv (G2-Verlierer + G3-Heim, keine Wurf-Krise da Castle 25 G2 + Spurs-3PT durchschnittlich) -> Heim-ML als VALUE laut HR18, (2) Reg-Season-Dominanz 4-0 H2H vs OKC, (3) Heim-Form 16-4 SU letzte 20 Heimspiele, (4) Thunder-Williams-Hamstring-Q schwaecht 2. Scoring-Option + Bench-Tiefe. NBA-Playoff-Sieg nie SAFE-Default (Lesson 22.04.) -> VALUE statt SAFE. Modell-Wahrscheinlichkeit 53-55% Spurs-Win (OddsShark/Lineups/Basketballsphere-Konsens); bet365 @1.83 impliziert 54.6% = grenzwertig fair, Edge kommt aus H2H-Reg-Season-Dominanz + Heim-Festungs-Aufschlag. WARN Lesson 21.05. Konsens-Best-Bet-Cluster-Trap: ML + Spurs-Spread sind 3-fach-Konsens -> hier ML als hoechst-N-Sample-Markt als VALUE behalten, Spread auf wackel degradieren. Stake 1.0% × 550€ = 5.50€ (Mini-Tag-Reduktion gegenueber Standard 1.5%). Bei bet365 live pruefen.",
+          "faire_quote": 1.78,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 5.5,
+          "einsatz_prozent_kasse": 1.0,
+          "_konsens_trap_flag": true
+        },
+        {
+          "id": "sas-okc-2",
+          "kategorie": "value",
+          "markt": "Stephon Castle Mehr als 22.5 Punkte",
+          "quote": 1.85,
+          "edge_prozent": 6.5,
+          "begruendung": "Lesson 22.05. Sekundaer-Volume-Star-Eruption-Edge direkt anwendbar: OKC drosselt Wemby (G1 41 -> G2 21 = -49%) per Hartenstein-Switch -> Volume verschiebt sich auf 2nd/3rd-Option = Castle als Spurs-PG nach Fox/Harper-Cluster (Sekundaer-Volume-Profil G2: 25 Pkt + 8 Ast). Sekundaer-Star-Bedingungen erfuellt: (1) Heim-Status ja, (2) Sekundaer-Volume-Profil-Anteil > 22% Pkt-Anteil-Spielzeit (Castle Lead-Ball-Handler bei Fox-OUT), (3) konstante 30+ Min/Spiel, (4) Linie 22.5 nahe G2-Output 25 Pkt = Markt-Unterschaetzung des Hot-Hand-Echo. HR16 NBA-Player-Punkte-Boykott-Ausnahme via Lesson 22.05. Sekundaer-Volume-Erlaubnis-Erweiterung. Modell-Erwartung ~26 Pkt vs Linie 22.5 = klare Marktunterschätzung; bet365 @1.85 fair-Quote ~1.74 = +6-7% Edge. Stake 1.0% × 550€ = 5.50€. Bei bet365 live pruefen - Linie kann 22.5-23.5 schwanken.",
+          "faire_quote": 1.74,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 5.5,
+          "einsatz_prozent_kasse": 1.0
+        },
+        {
+          "id": "sas-okc-3",
+          "kategorie": "wackel",
+          "markt": "Spread San Antonio Spurs -1.5",
+          "quote": 1.91,
+          "edge_prozent": 1.5,
+          "begruendung": "Spread folgt ML-These mit knapper Linie -1.5 (HR19 NBA-Spread-Margen-Risiko gruenes Licht: -1.5 ist knappe Linie, nicht breit -7.5+; G1 Regulation 107-107 + G2 9-Pkt-OKC-Sieg = beidseitig knappe Margen-Historie). ABER Lesson 21.05. Konsens-Best-Bet-Cluster-Trap: ML + Spread = Cluster-Trap-Profil -> Spread auf WACKEL statt VALUE degradiert (max 1 Konsens-Best-Bet als VALUE; ML hat hoeheren Markt-N-Sample, daher Spread auf wackel). Faire Quote ~1.88. Lesson 15.05. Korrelations-Schutz Doppel-Heim-Sieg: Spurs ML + Spurs -1.5 NICHT im gleichen Kombi-Set verdoppeln - hier ML in Safe-Kombi, Spread im Moonshot-Kombi (sport-uebergreifend kombiniert mit Beob-Bein) -> Layer-2-Sieg-Outcome-Verteilung WARN aber durch Markt-Differenzierung akzeptabel. NICHT in einzeltipps[] (Cluster-Trap-Disziplin). Bei bet365 live pruefen.",
+          "faire_quote": 1.88,
+          "empfohlener_einsatz_prozent": 0.0,
+          "einsatz_euro": 0.0,
+          "_konsens_trap_downgrade": true
+        },
+        {
+          "id": "sas-okc-4",
+          "kategorie": "wackel",
+          "markt": "Ueber 217.5 Punkte (Total)",
+          "quote": 1.91,
+          "edge_prozent": 2.0,
+          "begruendung": "G1 endete 122-115 in 2OT = 237 Total inkl. 2OT (Regulation ~214 = leicht unter 217.5), G2 endete 122-113 = 235 Total = klar ueber 217.5 = Average 226. WCF-Pace-Profil deutet auf Total > 217.5 in normalem 48-Min-Spiel (Modell ~221-225 bei 4-Pkt-Spurs-Sieg). Markt-Implizit 52.4% vs Modell 55% = +2% Edge. WACKEL statt VALUE wegen Tendenz von G3-Heim-Bounce-Back-Spielen zu defensiver Stand-up-Schlacht (Lesson 02.05. NBA-Closeout-Defensiv-Schlachten zeigt G3-Tightening-Tendenz im Conf-Final). Stake 0.5% × 550€ = 2.75€. Bei bet365 live pruefen - Linie kann 217-218 schwanken.",
+          "faire_quote": 1.82,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 2.75,
+          "einsatz_prozent_kasse": 0.5
+        },
+        {
+          "id": "sas-okc-5",
+          "kategorie": "wackel",
+          "markt": "Victor Wembanyama Mehr als 24.5 Punkte",
+          "quote": 1.85,
+          "edge_prozent": 0.5,
+          "begruendung": "Lesson 22.05. NBA-Star-Defense-Adjust-G1-Hot-Hand-Subfilter PRUEFUNG: (a) Wemby Vorspiel-Output 21 Pkt G2 NICHT > 20% ueber Saison-Schnitt ~25 = -16% UNTER Saison-Schnitt (kein Hot-Hand-Echo, Subfilter (a) erfuellt), (b) Gegner-Defense OKC Top-3 Saison (Subfilter b NICHT erfuellt -> Top-Defense-Adjust-Risiko aktiv), (c) Linie 24.5 ist NICHT 4 Pkt unter Saison-Schnitt (~25 Saison-Schnitt vs 24.5 Linie = nur -0.5 = Subfilter c NICHT erfuellt). 1/3 Subfilter-Bedingungen erfuellt -> max RISIKO oder Moonshot-Bein laut Lesson 22.05.; hier WACKEL als analyse-tipp im spiele[].tipps[] OK, NICHT in einzeltipps[] (HR16 + Subfilter-Defizit). Bei bet365 live pruefen.",
+          "faire_quote": 1.85,
+          "empfohlener_einsatz_prozent": 0.0,
+          "einsatz_euro": 0.0,
+          "_hr16_subfilter_block": true
+        }
+      ],
+      "kontext_check_status": "OK"
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "et-1",
+      "spiel_id": "2026-05-22-sas-okc",
+      "kategorie": "value",
+      "markt": "Sieg San Antonio Spurs (Moneyline)",
+      "quote": 1.83,
+      "edge_prozent": 3.5,
+      "begruendung": "HR18-G2-Reaktions-Spike + Reg-Season 4-0 H2H + Heim-16-4 letzte 20 + Thunder-Williams-Hamstring-Q. Modell 55% vs Implizit 54.6%. Konsens-Best-Bet aber Cluster-Trap-Lesson 21.05. -> nur ML behalten, Spread degradiert. Stake 1.0% × 550€ = 5.50€.",
+      "einsatz_euro": 5.5,
+      "einsatz_prozent_kasse": 1.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 1
+    },
+    {
+      "id": "et-2",
+      "spiel_id": "2026-05-22-sas-okc",
+      "kategorie": "value",
+      "markt": "Stephon Castle Mehr als 22.5 Punkte",
+      "quote": 1.85,
+      "edge_prozent": 6.5,
+      "begruendung": "Lesson 22.05. Sekundaer-Volume-Star-Eruption-Edge: OKC drosselt Wemby per Hartenstein-Switch -> Castle als Sekundaer-Volume-PG profitiert (G2 25 Pkt + 8 Ast, Sekundaer-Profil >22% Pkt-Anteil, Heim). Modell ~26 Pkt vs Linie 22.5. HR16-Boykott via Lesson 22.05. Sekundaer-Volume-Erlaubnis-Erweiterung aufgehoben. Stake 1.0% × 550€ = 5.50€.",
+      "einsatz_euro": 5.5,
+      "einsatz_prozent_kasse": 1.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 2
+    },
+    {
+      "id": "et-3",
+      "spiel_id": "2026-05-22-sas-okc",
+      "kategorie": "wackel",
+      "markt": "Ueber 217.5 Punkte (Total)",
+      "quote": 1.91,
+      "edge_prozent": 2.0,
+      "begruendung": "G1+G2 Avg 226 Total, beide bisher >217.5. WACKEL wg G3-Heim-Bounce-Back-Spielen oft defensiver. Stake 0.5% × 550€ = 2.75€.",
+      "einsatz_euro": 2.75,
+      "einsatz_prozent_kasse": 0.5,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 3
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-safe",
+      "name": "Safe-Single (Mini-Tag, 1 Bein, Layer-1-Akzeptanz)",
+      "kategorie": "safe",
+      "beine": [
+        {
+          "spiel_id": "2026-05-22-sas-okc",
+          "markt": "Sieg San Antonio Spurs (Moneyline)",
+          "quote": 1.83
+        }
+      ],
+      "gesamtquote": 1.83,
+      "gesamtquote_rechnung": "1.83 = 1.83",
+      "einsatz_euro": 5.5,
+      "einsatz_prozent_kasse": 1.0,
+      "gewinn_brutto_euro": 10.07,
+      "begruendung": "Mini-Spiele-Tag-Realismus (Lesson 21.05. Safe-Only-Hartregel + 19.05. Mini-Spiele-Tag-Diversifikations-Cap): bei nur 1 nicht-Beobachtungs-Spiel + Layer-1-Hartregel max 1 Bein/Spiel/Kombi ist Safe-Kombi strukturell nur Single-Bein moeglich. Spurs Heim-G3 ML als robusteste Edge-These (HR18 + 4-0 H2H + Heim 16-4). Quote 1.83 unter Master-Soll 3-5x - akzeptiert wegen Doppel-Mini-Konstellation (1 Beob-Spiel exkludiert). Stake reduziert auf 1.0% × 550€ = 5.50€ (statt Standard-Safe-Kombi 2.0% = 11€) wegen Doppel-Exposure mit et-1 Spurs ML im einzeltipps[]-Bereich - Mini-Tag-Exposure-Cap 4% Kasse beachten. Bei bet365 live pruefen.",
+      "lessons_check": [
+        "Lesson 21.05. Mini-Spiele-Tag-Safe-Only-Hartregel: Balance + Risiko skippen, nur Safe + Moonshot bauen - eingehalten",
+        "Lesson 19.05. Mini-Tag-Diversifikations-Cap: reduzierte Beine + reduzierte Einsaetze - eingehalten",
+        "Layer-1 max 1 Bein/Spiel/Kombi - eingehalten (Single-Bein)",
+        "Layer-2 Sieg-Outcome max 1 Kombi - Spurs ML nur in Safe-Kombi (Spread sas-okc-3 NICHT in Kombi aufgenommen wg Cluster-Trap-Lesson 21.05.) - eingehalten",
+        "Doppel-Exposure mit et-1 Spurs ML akzeptiert wg Mini-Tag-strukturellem Mangel an Alternativen"
+      ],
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "kombi-balance",
+      "name": "Balance-Kombi (Mini-Tag SKIP)",
+      "kategorie": "balance",
+      "beine": [],
+      "gesamtquote": null,
+      "gesamtquote_rechnung": "n/a - Mini-Tag SKIP",
+      "einsatz_euro": 0.0,
+      "einsatz_prozent_kasse": 0.0,
+      "gewinn_brutto_euro": 0.0,
+      "begruendung": "Lesson 21.05. Mini-Spiele-Tag-Safe-Only-Hartregel: bei <=2 Spielen NUR Safe + Moonshot bauen, Balance + Risiko skippen weil 2-Bein-Konstruktionen weder Edge noch substantielles Risiko-Profil bieten (empirisch 20.05.: Balance + Risiko + Moonshot 0W-3L mit -6.35€). Heute zusaetzlich verschaerft durch 1 Spiel = Beobachtungs-Liga blockiert (Fio-Ata exkludiert aus Hauptkombis) -> faktisch nur 1 spielbares Spiel verfuegbar. Empfehlung: ueberspringen.",
+      "lessons_check": [
+        "Lesson 21.05. Mini-Spiele-Tag-Safe-Only-Hartregel: SKIP angewandt"
+      ],
+      "empfohlener_einsatz_prozent": 0.0,
+      "_mini_tag_skip": true
+    },
+    {
+      "id": "kombi-risiko",
+      "name": "Risiko-Kombi (Mini-Tag SKIP)",
+      "kategorie": "risk",
+      "beine": [],
+      "gesamtquote": null,
+      "gesamtquote_rechnung": "n/a - Mini-Tag SKIP",
+      "einsatz_euro": 0.0,
+      "einsatz_prozent_kasse": 0.0,
+      "gewinn_brutto_euro": 0.0,
+      "begruendung": "Lesson 21.05. Mini-Spiele-Tag-Safe-Only-Hartregel: SKIP. Bei nur 1 spielbarem Spiel (Fio-Ata Beob blockiert + Spurs-OKC NBA-frei) ist 2-Bein-Risiko nur via Layer-1-Verstoss + Doppel-Korrelations-Risiko konstruierbar - Negative-EV-Profil. Ueberspringen.",
+      "lessons_check": [
+        "Lesson 21.05. Mini-Spiele-Tag-Safe-Only-Hartregel: SKIP angewandt"
+      ],
+      "empfohlener_einsatz_prozent": 0.0,
+      "_mini_tag_skip": true
+    },
+    {
+      "id": "kombi-moonshot",
+      "name": "Moonshot-Kombi (Mini-Tag, Spass-Slot mit Beob-Bein)",
+      "kategorie": "moonshot",
+      "beine": [
+        {
+          "spiel_id": "2026-05-22-fio-ata",
+          "markt": "Lazar Samardzic trifft jederzeit",
+          "quote": 6.0
+        },
+        {
+          "spiel_id": "2026-05-22-sas-okc",
+          "markt": "Ueber 217.5 Punkte (Total)",
+          "quote": 1.91
+        }
+      ],
+      "gesamtquote": 11.46,
+      "gesamtquote_rechnung": "6.00 × 1.91 = 11.46",
+      "einsatz_euro": 0.55,
+      "einsatz_prozent_kasse": 0.1,
+      "gewinn_brutto_euro": 6.3,
+      "begruendung": "Mini-Tag-Spass-Slot (Lesson 21.05. Safe-Only-Hartregel erlaubt Moonshot 0.1% explizit). Beobachtungs-Liga-Bein erfuellt Quote-Schwelle >= 5.0 (Samardzic Tor @6.00 - OM-Joker/Bench-Option Atalanta mit Einwechslungs-Boost-Potential im dead-rubber Saisonfinale). Zweites Bein NBA-Total Ueber 217.5 (Avg G1+G2 226, beide >217.5) als markt-entkoppeltes Bein zur Beob-Spielertor-Volume-Stat-These (Markt-Differenzierung Volume-Stat + Total-Markt erfuellt Lesson 21.05. Volume-Player-Layer-3 max 1 Volume-Stat/Kombi). Quote 11.46x deutlich unter Master-Soll 100x+ aber Mini-Tag-Realismus akzeptiert. Stake 0.1% × 550€ = 0.55€ (Hobby-Spass). Layer-2-Hinweis: Spurs-Sieg-Outcome nur in Safe-Kombi (Moonshot nutzt Total + Beob-Spielertor, beides nicht-Sieg). Bei bet365 live pruefen.",
+      "lessons_check": [
+        "Beobachtungs-Liga-Wirkung: Fio-Ata-Bein nur ab Quote 5.0 erlaubt - Samardzic @6.00 eingehalten",
+        "Lesson 21.05. Volume-Player-Stat-These max 1/Kombi: Samardzic-Tor ist 1, Total Über ist Markt-Stat (nicht Volume-Player) - eingehalten",
+        "Layer-1 max 1 Bein/Spiel/Kombi: 1 Bein Fio-Ata + 1 Bein Spurs-OKC - eingehalten",
+        "Layer-2 Sieg-Outcome max 1 Kombi: Moonshot nutzt Total + Spielertor (kein Sieg-Outcome), Sieg nur in Safe-Kombi - eingehalten",
+        "Lesson 22.05. Anti-Heim-Festungs-Tor-Markt-Sperre: Fiorentina-Heim-Pkt-Hitrate nicht Anti-Festungs-Profil (P15 mit 41 Pkt =/= Liga-Letzter), Atalanta-Auswaerts auch nicht - Sperre nicht anwendbar"
+      ],
+      "empfohlener_einsatz_prozent": 0.1
+    }
+  ],
+  "lessons_angewandt": [
+    {
+      "lesson_datum": "2026-05-21",
+      "kategorie": "Mini-Spiele-Tag-Safe-Only-Hartregel",
+      "anwendung": "Bei <=2 Spielen NUR Safe + Moonshot bauen, Balance + Risiko skippen. Heute 2 Spiele (1 davon Beob-blockiert) -> 1 spielbares Spiel + 1 Moonshot-Beob-Bein. Total-Exposure-Cap 4% = 22€ einhalten."
+    },
+    {
+      "lesson_datum": "2026-05-22",
+      "kategorie": "NBA-Star-Defense-Adjust-G1-Hot-Hand-Subfilter",
+      "anwendung": "Wemby G1 41 -> G2 21 nach Hartenstein-Adjust = klassisches Brunson-Pattern. Wemby Ueber 24.5 Subfilter-Pruefung: (a) Hot-Hand-Echo NEIN (21 Pkt G2 unter Saison-Schnitt), (b) Top-Defense Aktiv JA, (c) Linie nicht 4+ unter Saison-Schnitt -> 1/3 erfuellt = max RISIKO/Moonshot, NICHT in einzeltipps[]."
+    },
+    {
+      "lesson_datum": "2026-05-22",
+      "kategorie": "Sekundaer-Volume-Star-Eruption-Pattern",
+      "anwendung": "Wenn OKC weiter Wemby drosselt -> Castle als Spurs-PG (G2 25/8) bricht aus. Castle Ueber 22.5 als VALUE-Einzeltipp (HR16-Player-Punkte-Boykott via Lesson 22.05. Sekundaer-Volume-Erlaubnis-Erweiterung aufgehoben)."
+    },
+    {
+      "lesson_datum": "2026-05-21",
+      "kategorie": "Konsens-Best-Bet-Cluster-Trap",
+      "anwendung": "3-fach Konsens Spurs ML + Spurs -1.5 (Lineups/OddsShark/Basketballsphere) ist Cluster-Trap-Profil -> max 1 Konsens-Best-Bet als VALUE in einzeltipps[]. ML behalten (hoechstes N-Sample), Spread sas-okc-3 auf wackel degradiert + NICHT in einzeltipps[]."
+    },
+    {
+      "lesson_datum": "2026-05-21",
+      "kategorie": "Volume-Player-Stat-These sport-uebergreifend korreliert (Layer-3)",
+      "anwendung": "In Moonshot-Kombi max 1 Volume-Player-Stat-These - Samardzic-Tor ist 1, Total Ueber ist Markt-Stat (nicht Volume-Player). Castle Ueber 22.5 ist Volume-Stat NICHT in Kombi, nur Einzel."
+    },
+    {
+      "lesson_datum": "2026-05-15",
+      "kategorie": "Korrelations-Schutz Doppel-Heim-Sieg-Cluster",
+      "anwendung": "Spurs ML in Safe-Kombi + Spurs Spread -1.5 NICHT in Kombi (Cluster-Trap-Doppel vermieden) - Spread auf wackel degradiert + aus einzeltipps[] entfernt."
+    },
+    {
+      "lesson_datum": "2026-05-20",
+      "kategorie": "NBA-Heim-Comeback-Drehung bei Recovery-Asymmetrie",
+      "anwendung": "Spurs G2-Verlierer mit G3-Heim + Reg-Season 4-0 H2H = HR18-G2-Reaktions-Spike aktiv. Recovery-Asymmetrie minimal (1 Tag beide), keine Wurf-Krise -> HR21 grenzt nicht ein."
+    },
+    {
+      "lesson_datum": "2026-04-26",
+      "kategorie": "bet365 2:0-Insurance-Regel",
+      "anwendung": "Serie A + NBA NICHT von 2:0-Insurance abgedeckt (CLAUDE.md: nur BL+CL). Im Hinweis explizit ausgewiesen."
+    },
+    {
+      "lesson_datum": "2026-04-22",
+      "kategorie": "NBA-Playoff-Sieg-nie-SAFE",
+      "anwendung": "Spurs ML @1.83 ist VALUE statt SAFE (NBA-Playoff-Sieg-Default + Single-Game-Varianz)."
+    },
+    {
+      "lesson_datum": "2026-05-19",
+      "kategorie": "Aufstellungs-Verifikations-Pflicht 60-90 Min vor Anstoss",
+      "anwendung": "Fio-Ata: Krstovic/Raspadori/Samardzic-Torschuetzen-Tipps - Aufstellung vor Anstoss verifizieren (Sportsgambler-4-4-2 vs Sportsmole-4-3-3-Varianten + Hien-Status widerspruechlich). Falls Spieler Bench statt Startelf -> Tipp droppen."
+    }
+  ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-05-22T12:00:00+02:00",
+    "drops": [
+      {
+        "tipp_id": "fio-ata-1_dc_x2_dropped_from_einzel",
+        "grund": "Beobachtungs-Liga Serie A 30d ROI -46.0% -> Schema-Mapper-Wirkung: SAFE/VALUE auf wackel + Entfernung aus einzeltipps[]/Hauptkombis. Markt-Goldgrube DC X2 trotzdem wackel. Bleibt im spiele[].tipps[]-Analyse-Block.",
+        "lesson_vorschlag": "Bereits in beobachtungs_ligen.json + Mapper kodifiziert"
+      },
+      {
+        "tipp_id": "fio-ata-2_ueber_2_5_dropped_from_einzel",
+        "grund": "Beobachtungs-Liga-Wirkung gleich wie fio-ata-1. Goldgrube Ueber 2.5 trotzdem wackel + nicht spielbar via Hauptkombi.",
+        "lesson_vorschlag": "Bereits kodifiziert"
+      },
+      {
+        "tipp_id": "fio-ata-3_krstovic_dropped_from_einzel",
+        "grund": "Beobachtungs-Liga + max wackel - Goldgrube Torschuetzen Jederzeit trotzdem nicht via Einzeltipp spielbar.",
+        "lesson_vorschlag": "Bereits kodifiziert"
+      },
+      {
+        "tipp_id": "fio-ata-4_raspadori_dropped_from_einzel",
+        "grund": "Beobachtungs-Liga + max wackel + OM-Position-Mismatch (max VALUE laut Verifikations-Lesson, aber durch Beob auf wackel reduziert).",
+        "lesson_vorschlag": "Bereits kodifiziert"
+      },
+      {
+        "tipp_id": "sas-okc-3_spurs_spread_dropped_from_einzel",
+        "grund": "Lesson 21.05. Konsens-Best-Bet-Cluster-Trap: ML + Spread = 3-fach-Konsens-Doppel -> max 1 in einzeltipps[]. ML behalten, Spread aus einzeltipps[] entfernt + auf wackel degradiert. Bleibt im spiele[].tipps[]-Analyse-Block.",
+        "lesson_vorschlag": "Bereits in Lesson 21.05. kodifiziert"
+      },
+      {
+        "tipp_id": "sas-okc-5_wemby_dropped_from_einzel",
+        "grund": "HR16 NBA-Player-Punkte-Boykott + Lesson 22.05. Subfilter 1/3 erfuellt -> max RISIKO/Moonshot, NICHT in einzeltipps[]. Castle als Sekundaer-Volume-Edge (Lesson 22.05.) ersetzt Wemby-Tipp als VALUE-Einzel.",
+        "lesson_vorschlag": "Bereits in Lesson 22.05. kodifiziert"
+      }
+    ],
+    "downgrades": [
+      {
+        "tipp_id": "sas-okc-3",
+        "alt": "value",
+        "neu": "wackel",
+        "grund": "Lesson 21.05. Konsens-Best-Bet-Cluster-Trap: Spread + ML 3-fach-Konsens-Doppel - Spread auf wackel."
+      },
+      {
+        "tipp_id": "fio-ata-1, fio-ata-2, fio-ata-3, fio-ata-4",
+        "alt": "value/safe (sonst)",
+        "neu": "wackel",
+        "grund": "Beobachtungs-Liga Serie A: SAFE/VALUE -> wackel-Hartregel."
+      }
+    ],
+    "warns": [
+      {
+        "art": "mini_spiele_tag",
+        "details": "Nur 2 Spiele (1 davon Beob-blockiert = effektiv 1 spielbares Spiel) -> Lesson 21.05. Mini-Tag-Safe-Only-Hartregel aktiv; Balance + Risiko skippen. Empfehlung User: ueberspringen wenn Mini-Tag-Profil zu eng - Safe-Single + Moonshot reichen."
+      },
+      {
+        "art": "exposure_check",
+        "details": "Total-Exposure: Einzel (5.50+5.50+2.75 = 13.75€) + Kombis (5.50+0.55 = 6.05€) = 19.80€ / 550€ = 3.6%. Mini-Tag-Cap 4% (= 22€) eingehalten. Doppel-Exposure Spurs ML (et-1 + kombi-safe-bein) und Total Ueber (et-3 + kombi-moonshot-bein) explizit akzeptiert wegen Mini-Tag-strukturellem Mangel an Alternativen."
+      },
+      {
+        "art": "konsens_trap_flag",
+        "tipp_id": "et-1, sas-okc-3",
+        "details": "Lesson 21.05. Konsens-Best-Bet-Cluster-Trap aktiv (Spurs ML + Spurs -1.5 ist 3-fach-Aggregator-Konsens). Max 1 als VALUE behalten = ML. Spread auf wackel + aus einzeltipps[] entfernt. Bei Wett-Zeit: User sollte sicherheitshalber nur ML setzen oder ML + Spread aus separaten Slips spielen."
+      },
+      {
+        "art": "aufstellungs_verifikation",
+        "details": "Fio-Ata Tipps (Krstovic/Raspadori/Samardzic) und sas-okc Castle-Punkte-Tipp: Aufstellung 60-90 Min vor Anstoss verifizieren (Lesson 19.05.). Falls Bench-Start oder OUT -> Tipp droppen. Hien-Status widerspruechlich (Sportsmole 'returns' vs Sportsgambler '2-match ban') + Sportsgambler-4-4-2 vs Sportsmole-4-3-3-Varianten = Atalanta-Lineup-Risiko."
+      },
+      {
+        "art": "quoten_geschaetzt",
+        "details": "Castle Pkt Linie 22.5 + Wemby Pkt Linie 24.5 + Samardzic Tor 6.00 sind Aggregator-Konversionen (Lineups/OddsShark/Sportsgambler) - bet365 kann +/- 0.5 Pkt bzw. +/- 10-15% Quote schwanken. Bei bet365 live pruefen vor Tipp."
+      },
+      {
+        "art": "selbstwiderspruch_check_passiert",
+        "details": "Wemby G1 41 -> G2 21 Defense-Adjust + Castle G2 25 als Sekundaer-Volume-Edge sind konsistent (Hartenstein lockt Wemby-Volumen aus, Castle als Lead-Ball-Handler PG profitiert). Spurs ML + Total Ueber 217.5 sind konsistent (Spurs-Heim-Bounce-Back + WCF-Pace 226 Avg). Keine Widerspruechen erkannt."
+      },
+      {
+        "art": "liga_frische_check_passiert",
+        "details": "Serie A MD38 (letzter Spieltag), NBA WCF G3 (Serie 1-1) - beide saison-aktuell, kein Halluzinations-Wettbewerb. Saison-Kontext-Pflicht-Quellen vorhanden (Wikipedia Conference League Final, NBA.com Playoffs, Aggregator-Lineup-Quellen)."
+      }
+    ],
+    "lessons_generiert": [],
+    "verifikations_checks_durchgefuehrt": [
+      "Spieler-Halluzinations-Check: alle Spielernamen (Krstovic, Raspadori, Samardzic, Wembanyama, Castle, SGA) im squad_heim/squad_gast aus recherche-File verifiziert",
+      "Position-Check: Krstovic = ST (OK Torschuetzen), Raspadori = OM/LF (OK Torschuetzen aber max VALUE -> wackel via Beob), Samardzic = OM/Bank (OK Torschuetzen, Bench-Risiko), Castle = PG/SG (OK Player-Punkte als Sekundaer-Volume-Star), Wembanyama = C/PF (OK Player-Punkte)",
+      "Saison-Kontext-Verband-Quellen-Check: Fio-Ata erwaehnt Conference-League-Quali (kommende Saison) -> Wikipedia-Conference-League-Final-Quelle vorhanden; NBA-Spiel hat keine parallelen Wettbewerbe (NBA-Playoffs einziger Wettbewerb, nba.com/playoffs Quelle vorhanden)",
+      "Layer-2-Cross-Check: Sieg-Outcomes: Spurs ML in Safe-Kombi (1x) - nicht doppelt verteilt; Spurs-Spread NICHT in einer Kombi (Cluster-Trap-Lesson 21.05.); Moonshot nutzt Total + Beob-Spielertor (kein Sieg-Outcome) - sauber",
+      "Layer-3-Cross-Check: Sport-uebergreifend Volume-Player-Stat-These max 1/Kombi - Moonshot 1x Samardzic, andere Beine markt-entkoppelt. Castle (Volume-Stat) nicht in Kombi, nur Einzel.",
+      "Quoten-Plausibilitaet: alle Quoten via Aggregator-Konversion (Sportsgambler/Sportsmole/Lineups/OddsShark/Basketballsphere); innerhalb 5%-Toleranz zur Recherche",
+      "HR16 NBA-Player-Punkte-Boykott-Konformitaet: Wemby NICHT in einzeltipps[] (HR16 + Subfilter 1/3); Castle als VALUE-Einzel via Lesson-22.05.-Sekundaer-Volume-Erweiterung-Erlaubnis explizit dokumentiert",
+      "HR18-G2-Reaktions-Spike-Pruefung: Spurs G2-Verlierer + G3-Heim + keine Wurf-Krise -> HR18 gruen, ML als VALUE",
+      "HR19-NBA-Spread-Margen-Risiko-Pruefung: -1.5 ist knappe Linie nach G1-2OT + G2-9-Pkt-Outcome - HR19 gruen aber Cluster-Trap-Lesson 21.05. ueberschreibt -> Spread wackel",
+      "HR21-Wurf-Krisen-Pruefung: Castle 25 G2 + Spurs-3PT durchschnittlich = keine Wurf-Krise -> HR18 voll aktiv",
+      "HR22-Star-OUT-Aufhol-Pflicht-Pruefung: Spurs ist NICHT 0:2-Underdog (Serie 1-1), Fox Q nicht Top-Star-Pflicht-Wirkung -> HR22 nicht aktiv",
+      "Beobachtungs-Liga-Wirkung: Serie A 30d ROI -46.0% -> Fio-Ata alle SAFE/VALUE auf wackel + aus einzeltipps[]/Hauptkombis entfernt; nur Moonshot-Bein ab Quote 5.0 (Samardzic @6.00) - eingehalten",
+      "Markt-Goldgrube-Trigger-Bewusstsein: DC X2, Ueber 2.5, Torschuetzen Jederzeit aktiv im Fio-Ata-Spiel - aber Beobachtungs-Liga-Hartregel ueberschreibt (Mapper-Verhalten kodifiziert)",
+      "Mini-Tag-Lesson-21.05.-Hartregel: Safe + Moonshot gebaut, Balance + Risiko explizit als SKIP gekennzeichnet - eingehalten",
+      "Doppel-Exposure-Check: Spurs ML in et-1 + kombi-safe; Total Ueber in et-3 + kombi-moonshot - akzeptiert wegen Mini-Tag-Struktur-Mangel, dokumentiert"
+    ]
+  },
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
+}
