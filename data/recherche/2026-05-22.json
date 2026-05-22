@@ -1,0 +1,293 @@
+{
+  "datum": "2026-05-22",
+  "erstellt_am": "2026-05-22T11:30:00+00:00",
+  "modus": "tag",
+  "hinweis": "Recherche-Daten Freitag 22.05.2026 (Mo-Fr Variante - Pre-Tipps-Datenbasis fuer Tipps-Slot 13:30 Berlin; Recherche-Lauf 10:30 Berlin Cloud-Routine). HEUTE 2 Spiele relevant: 1) Serie A MD38 (letzter Spieltag) ACF Fiorentina vs Atalanta BC um 20:45 Berlin im Stadio Artemio Franchi Florenz. 2) NBA Western Conference Finals Game 3 San Antonio Spurs vs Oklahoma City Thunder (Heim Spurs) um 02:30 Berlin Samstag 23.05. (20:30 ET 22.05.) im Frost Bank Center San Antonio - Serie steht 1-1 nach Wembanyama 41/24/3 Spurs-Sieg G1 122-115 2OT + SGA-30/Caruso-17 Thunder-Sieg G2 122-113. KEINE BL-Spiele (Saison endete 16.05.), KEINE PL/LaLiga-Spiele (LaLiga MD38 erst Sa 23.05.), KEINE weiteren Serie-A-Spiele (Fiorentina-Atalanta einziges Fr-Spiel), KEIN DFB-Pokal/Coppa-Italia/Championship-Playoff (Hull-Southampton Playoff-Final erst 23.05. fruehmorgens UK-Zeit), KEINE Conference-League/CL/EL-Spiele (Conference-League-Finale Crystal Palace vs Rayo Vallecano erst 27.05. in Leipzig; EL- und CL-Saison beendet). KASSE-Stand 04.05.2026: 550 EUR -> Stufe 1 (Aufbau-Phase) aktiv (Kasse < 1000 EUR). 2:0-Insurance-Regel gilt fuer BL+CL: heute KEIN BL und KEIN CL-Spiel -> Insurance NICHT anwendbar (Serie A und NBA NICHT von Insurance abgedeckt laut CLAUDE.md). NBA-Markt-Verbote DE: Einzel-Rebounds (Wembanyama Reb, Holmgren Reb), Einzel-Assists (SGA Ast, Castle Ast), Einzel-3er, PRA-Kombos, Punkte+Assists, Punkte+Rebounds duerfen NICHT als Tipp empfohlen werden. NBA-erlaubt: Moneyline, Spread, Punkte-Totals (Spiel/Viertel/Halbzeit), Einzel-Punkte-Props, Double-Double, Triple-Double, Meiste Punkte. Aktuelle Markt-Goldgruben: Ueber 2.5 Tore (+33.2% ROI), Unter 2.5 (+22.8%), Torschuetzen Jederzeit (+20.5%), DC X2 (+15.8%) - aktiv suchen. Markt-Bluter: keine. bet365-Quoten via Aggregator (Sportsgambler, Dailysports, Sportsmole, Lineups, OddsShark) US-/EU-Format-Konversion; bei Wettzeit live pruefen. NIE Spielernamen erfunden - Squad-Listen ausschliesslich aus zitierten Vorbericht/Lineup-Quellen.",
+  "spiele": [
+    {
+      "id": "2026-05-22-fio-ata",
+      "liga": "Serie A",
+      "matchday": 38,
+      "stage": "REGULAR_SEASON",
+      "heim": "ACF Fiorentina",
+      "gast": "Atalanta BC",
+      "anstoss": "2026-05-22T20:45:00+02:00",
+      "anstoss_utc": "2026-05-22T18:45:00Z",
+      "stadion": "Stadio Artemio Franchi, Florenz",
+      "schiedsrichter": "noch nicht bestaetigt (Lega Serie A)",
+      "squad_heim": [
+        {"name": "David de Gea", "position": "TW", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/fiorentina-vs-atalanta-prediction-lineups-odds-2026-05-22/", "hinweis": "Stammtorhueter Fiorentina Saison 25/26"},
+        {"name": "Dodo", "position": "RV", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/fiorentina-vs-atalanta-prediction-lineups-odds-2026-05-22/"},
+        {"name": "Pietro Comuzzo", "position": "IV", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/fiorentina-vs-atalanta-prediction-lineups-odds-2026-05-22/"},
+        {"name": "Marin Pongracic", "position": "IV", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/fiorentina-vs-atalanta-prediction-lineups-odds-2026-05-22/"},
+        {"name": "Robin Gosens", "position": "LV", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/fiorentina-vs-atalanta-prediction-lineups-odds-2026-05-22/"},
+        {"name": "Nicolo Fagioli", "position": "DM/CM", "verifiziert_via": "https://www.sportsmole.co.uk/football/fiorentina/preview/fiorentina-vs-atalanta-prediction-team-news-lineups_597875.html", "hinweis": "Mittelfeld-Anker; Sportsmole/Sportsgambler nennen ihn als CM, Aufstellung im 4-3-3"},
+        {"name": "Rolando Mandragora", "position": "CM", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/fiorentina-vs-atalanta-prediction-lineups-odds-2026-05-22/", "hinweis": "Sportsmole hebt 'Mandragora's creativity' als zentralen Faktor hervor"},
+        {"name": "Cher Ndour", "position": "CM/OM", "verifiziert_via": "https://www.sportsmole.co.uk/football/fiorentina/preview/fiorentina-vs-atalanta-prediction-team-news-lineups_597875.html", "hinweis": "Sportsmole/Sportsgambler-Variante als linker Achter; Dailysports nennt alternativ Brescianini-Harrison-Fagioli-Fabbian"},
+        {"name": "Jack Harrison", "position": "RF/OM", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/fiorentina-vs-atalanta-prediction-lineups-odds-2026-05-22/"},
+        {"name": "Manor Solomon", "position": "LF/OM", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/fiorentina-vs-atalanta-prediction-lineups-odds-2026-05-22/"},
+        {"name": "Roberto Piccoli", "position": "ST", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/fiorentina-vs-atalanta-prediction-lineups-odds-2026-05-22/", "hinweis": "Stamm-Stuermer weil Kean (shin) 9. Spiel in Folge OUT - ehemaliger Atalanta-Junior-Stuermer, Volumen-Stuermer; Stamm-Option Saison-Schluss"},
+        {"name": "Marco Brescianini", "position": "DM/CM/Bank", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/fiorentina-vs-atalanta-prediction-lineups-odds-2026-05-22/", "hinweis": "Sportsgambler-Variante als DM in 4-1-4-1 oder Bank-Option"},
+        {"name": "Giovanni Fabbian", "position": "OM/Bank", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/fiorentina-vs-atalanta-prediction-lineups-odds-2026-05-22/", "hinweis": "Wechsel-Option offensive Reihe"}
+      ],
+      "squad_gast": [
+        {"name": "Marco Carnesecchi", "position": "TW", "verifiziert_via": "https://www.sportsmole.co.uk/football/fiorentina/preview/fiorentina-vs-atalanta-prediction-team-news-lineups_597875.html", "hinweis": "Sportsmole nennt Carnesecchi als TW Atalanta; Sportsgambler-Variante alternativ Marco Sportiello"},
+        {"name": "Giorgio Scalvini", "position": "IV", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/fiorentina-vs-atalanta-prediction-lineups-odds-2026-05-22/"},
+        {"name": "Sead Kolasinac", "position": "IV/LV", "verifiziert_via": "https://www.sportsmole.co.uk/football/fiorentina/preview/fiorentina-vs-atalanta-prediction-team-news-lineups_597875.html", "hinweis": "Sportsmole hebt Kolasinac als IV/LV-Hybrid hervor weil Hien (suspended/zurueck nach Sperre - Quellen widerspruechlich)"},
+        {"name": "Isak Hien", "position": "IV", "verifiziert_via": "https://www.sportsmole.co.uk/football/fiorentina/preview/fiorentina-vs-atalanta-prediction-team-news-lineups_597875.html", "hinweis": "Sportsmole sagt Hien 'returns after one-match ban'; Sportsgambler sagt 'suspended 2 matches' - Status widerspruechlich, Lineup-Eintrag mit Vorbehalt"},
+        {"name": "Honest Ahanor", "position": "LV/IV", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/fiorentina-vs-atalanta-prediction-lineups-odds-2026-05-22/"},
+        {"name": "Davide Zappacosta", "position": "RV/LF", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/fiorentina-vs-atalanta-prediction-lineups-odds-2026-05-22/"},
+        {"name": "Marten de Roon", "position": "DM", "verifiziert_via": "https://www.sportsmole.co.uk/football/fiorentina/preview/fiorentina-vs-atalanta-prediction-team-news-lineups_597875.html", "hinweis": "Sportsmole hebt De Roon's defensive control als Schluessel hervor"},
+        {"name": "Ederson", "position": "DM/CM", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/fiorentina-vs-atalanta-prediction-lineups-odds-2026-05-22/", "hinweis": "Brasil-Mittelfeld-Anker"},
+        {"name": "Nicola Zalewski", "position": "LF/RV", "verifiziert_via": "https://www.sportsmole.co.uk/football/fiorentina/preview/fiorentina-vs-atalanta-prediction-team-news-lineups_597875.html"},
+        {"name": "Charles De Ketelaere", "position": "OM", "verifiziert_via": "https://www.sportsmole.co.uk/football/fiorentina/preview/fiorentina-vs-atalanta-prediction-team-news-lineups_597875.html", "hinweis": "Spielmacher-Schluesselspieler hinter den Spitzen"},
+        {"name": "Giacomo Raspadori", "position": "OM/LF", "verifiziert_via": "https://www.sportsmole.co.uk/football/fiorentina/preview/fiorentina-vs-atalanta-prediction-team-news-lineups_597875.html", "hinweis": "Atalanta-OM-Hybrid; Quelle (Dailysports/Search): 2 Tore in den letzten 4 SA-Auswaertsspielen; anytime scorer-Quote +270 = ca. 3.70"},
+        {"name": "Nikola Krstovic", "position": "ST", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/fiorentina-vs-atalanta-prediction-lineups-odds-2026-05-22/", "hinweis": "Atalanta-Top-Stuermer-Option; ueber 2.5 Schuesse in 7/10 letzten SA-Spielen (Search-Result); anytime scorer +525 (sportsgambler) = ca. 6.25 / alternative Schaetzung 4.50-5.50"},
+        {"name": "Gianluca Scamacca", "position": "ST", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/fiorentina-vs-atalanta-prediction-lineups-odds-2026-05-22/", "hinweis": "Sportsgambler-Variante als zweite Spitze neben Sulemana; alternativ Krstovic-Sulemana / Krstovic alleine; anytime scorer +525 = ca. 6.25"},
+        {"name": "Kamaldeen Sulemana", "position": "LF/ST", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/fiorentina-vs-atalanta-prediction-lineups-odds-2026-05-22/", "hinweis": "Sportsgambler 4-4-2-Variante als zweite Spitze - schnelle Aussenposition"},
+        {"name": "Lazar Samardzic", "position": "OM/Bank", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/fiorentina-vs-atalanta-prediction-lineups-odds-2026-05-22/", "hinweis": "Spielmacher-Option / Joker"},
+        {"name": "Yunus Musah", "position": "CM/Bank", "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/fiorentina-vs-atalanta-prediction-lineups-odds-2026-05-22/", "hinweis": "Mittelfeld-Joker"}
+      ],
+      "injuries_heim": [
+        "Moise Kean (Schienbein-Verletzung seit Anfang April, OUT laut Sportsgambler+Sportsmole+Dailysports) - 9. Spiel in Folge OUT, primaerer Stuermer fehlt fuer gesamte Saison-Schluss-Phase; bewusst NICHT zum Karriere-Risiko-Saison-Finale geschickt",
+        "Fabiano Parisi (Knie/ACL, OUT laut Sportsgambler+Sportsmole) - Linksverteidiger-Backup fehlt",
+        "Luca Ranieri (Sperre nach Roter Karte vs Juventus, OUT laut Sportsgambler+Sportsmole) - 1 Spiel Sperre",
+        "Tariq Lamptey (Knie/ACL, OUT laut Sportsgambler) - Langzeitverletzung",
+        "Riccardo Sottil (Rueckenverletzung, OUT laut Sportsgambler)"
+      ],
+      "injuries_gast": [
+        "Odilon Kossounou (Oberschenkel/Saison-Long-Term-OUT laut Sportsgambler+Sportsmole+Dailysports) - IV-Stamm faellt aus",
+        "Lorenzo Bernasconi (Knie, OUT laut Sportsgambler+Sportsmole)",
+        "Isak Hien (Status widerspruechlich: Sportsmole 'returns after one-match ban', Sportsgambler '2-match suspension' - bei bet365/Lineup live pruefen vor Tipp)"
+      ],
+      "saison_kontext_intern": {
+        "parallel_heim": "keine - Serie A MD38 ist letzter Spieltag, keine Coppa-Italia mehr (Saison beendet); Fiorentina spielte Conference-League-Saison aber Saison komplett vorbei (Conference-League-Quali bereits gesichert via Liga-Position bzw. nicht relevant)",
+        "parallel_gast": "keine - Serie A MD38 ist letzter Spieltag; Atalanta war Champions-League-Saison schon ausgeschieden, Coppa-Italia auch vorbei (laut Sportsgambler Coppa-Spiel vs Lazio in letzten 5 Spielen war fruehere Phase); Conference-League-Quali bereits gesichert via Serie-A-Position 7",
+        "quellen": [
+          "https://en.wikipedia.org/wiki/2026_UEFA_Conference_League_final",
+          "https://www.sportsmole.co.uk/football/fiorentina/preview/fiorentina-vs-atalanta-prediction-team-news-lineups_597875.html"
+        ]
+      },
+      "parallele_wettbewerbe": {
+        "heim": "keine - Saison komplett vorbei nach diesem MD38",
+        "gast": "keine - Saison komplett vorbei nach diesem MD38; Conference-League-Quali ueber Liga-Platz 7 gesichert",
+        "quellen": [
+          "https://en.wikipedia.org/wiki/2026_UEFA_Conference_League_final",
+          "https://www.sportsmole.co.uk/football/fiorentina/preview/fiorentina-vs-atalanta-prediction-team-news-lineups_597875.html"
+        ]
+      },
+      "saisonziel_heim": "Klassenerhalt bereits gesichert (laut Sportsmole 'Vanoli secured survival after being in the drop zone'); Platz 15 Serie A (41 Pkt, 40:49 Tore laut Dailysports); reines 'Saison-Wuerdig-Beenden'-Spiel ohne Tabellen-Druck",
+      "saisonziel_gast": "Conference-League-Quali bereits gesichert ueber Platz 7 (58 Pkt, 50:35 Tore laut Dailysports); laut Sportsmole 'Atalanta qualified for Conference League under Palladino'; auch reines 'Saison-Wuerdig-Beenden'-Spiel - kein Aufstieg/Abstieg im Spiel",
+      "tabellenstand": {
+        "heim_liga": "Serie A",
+        "heim_platz": 15,
+        "heim_pkt": 41,
+        "heim_tore_fuer": 40,
+        "heim_tore_gegen": 49,
+        "gast_liga": "Serie A",
+        "gast_platz": 7,
+        "gast_pkt": 58,
+        "gast_tore_fuer": 50,
+        "gast_tore_gegen": 35,
+        "quelle": "https://dailysports.net/predictions/fiorentina-vs-atalanta-prediction-match-preview-and-probable-lineups-may-22-2026/, https://www.sportsgambler.com/betting-tips/football/fiorentina-vs-atalanta-prediction-lineups-odds-2026-05-22/"
+      },
+      "form_heim_letzte_5": "W-D-L-D-D (Sportsgambler chronologisch alt->neu): D 1-1 Lecce, D 0-0 Sassuolo, L 0-4 Roma, D 0-0 Genoa, W 2-0 vs Juventus (17.05.); Dailysports zaehlt 6 Pkt; Sportsmole hebt 'unbeaten in 7 home Serie-A-Matches' hervor und 'won final fixture in each of last 4 seasons'",
+      "form_gast_letzte_5": "L-W-D-L-L (Sportsgambler chronologisch): L 2-3 Lazio (Coppa, fruehere Runde), L 2-3 Cagliari, D 0-0 Genoa, W 3-2 vs AC Milan, L 0-1 vs Bologna (17.05.); Sportsmole bemerkt 'won just twice across last 24 league visits to Stadio Franchi'; aber 9 Tore in den letzten 4 Auswaertsspielen laut Sportsmole-Prognose",
+      "h2h": "Hinspiel Atalanta 2-0 Sieg in Bergamo (November 2025 laut Sportsmole); Atalanta sucht seltenes Double in dieser Saison; Fiorentina hatte 3-2 Heimsieg im Juni 2024; historisch laut Sportsmole 'Atalanta won just 2 of last 24 league visits to Franchi' - Heim-Bilanz fuer Fiorentina sehr stark trotz Liga-Position",
+      "recovery_heim": "5 Tage seit 2:0 vs Juventus (17.05.); voll regeneriert, kein paralleles Spiel",
+      "recovery_gast": "5 Tage seit 0:1 vs Bologna (17.05.); voll regeneriert, kein paralleles Spiel",
+      "manager": {
+        "heim": "Paolo Vanoli - Fiorentina (nach Trainerwechsel Saison 25/26; sicherte Klassenerhalt laut Sportsmole)",
+        "gast": "Raffaele Palladino - Atalanta (laut Sportsmole; sicherte Conference-League-Quali)"
+      },
+      "quoten": {
+        "bet365_aggregator": {
+          "sieg_heim": 3.00,
+          "draw": 3.40,
+          "sieg_gast": 2.25,
+          "ueber_2_5": 1.88,
+          "unter_2_5": 2.10,
+          "btts_ja": 1.57,
+          "btts_nein": 2.30,
+          "dc_1x": 1.65,
+          "dc_x2": 1.40,
+          "dc_12": 1.30,
+          "torschuetzen_jederzeit_geschaetzt": {
+            "Piccoli": 3.20,
+            "Solomon": 4.50,
+            "Harrison": 5.00,
+            "Mandragora": 7.00,
+            "Krstovic": 3.20,
+            "Scamacca": 3.50,
+            "De_Ketelaere": 3.75,
+            "Raspadori": 3.70,
+            "Sulemana": 4.50,
+            "Zappacosta": 7.50,
+            "Samardzic": 6.00
+          },
+          "hinweis": "Konversion aus US-Format Aggregator (BetMGM via Sportsgambler / Dailysports / Footballwhispers): Fiorentina +170 bis +200 = ca. 3.00 / Draw +235 bis +240 = ca. 3.40 (Sportsgambler 3.40 best fit) / Atalanta +148 bis -135 = ca. 2.25 (Dailysports/Footballwhispers Konsens) / O2.5 -154 bis +88 = ca. 1.88 / U2.5 +118 = ca. 2.10 / BTTS-Ja -192 bis -176 = ca. 1.57 / BTTS-Nein +143 = ca. 2.30. Top-Scorer-Quoten geschaetzt: Kean (+170 anytime laut BetMGM-Cache) NICHT GUELTIG da OUT; Krstovic/Scamacca +525 = ca. 6.25 sind 'first scorer'-Quoten - Anytime-Konversion auf ca. 3.20-3.50 (uebliche Verhaeltnisse). Bei bet365 LIVE pruefen vor Tipp - kann sich aendern. WARN: Kean ist 9. Spiel OUT - falls in bet365-Markt noch gelistet mit alter Quote, das ist VERFALLSGEFAHR."
+        },
+        "fair_line_basis_prozent": {
+          "sieg_heim": 30,
+          "draw": 27,
+          "sieg_gast": 43,
+          "modell_quelle": "Implizit aus Konsens-Quoten (Dailysports/Sportsmole/Footballwhispers); Sportsmole-Prognose 1-2 fuer Atalanta passt zu Atalanta-Win-Edge"
+        }
+      },
+      "news_kompakt": [
+        "Beide Teams 'dead rubber' am letzten Spieltag - Klassenerhalt + Conference-Quali bereits gesichert (Fiorentina P15, Atalanta P7)",
+        "Atalanta-Form-Lift: 9 Tore in den letzten 4 Auswaertsspielen, 55.2% Ballbesitz im Schnitt (Sportsmole), aber NUR 2 Liga-Siege in den letzten 24 Auswaertsspielen am Franchi-Stadion",
+        "Fiorentina Heim-Festung: unbeaten in den letzten 7 Heim-Serie-A-Spielen, gewann das letzte Saison-Spiel in 4 Saisons in Folge",
+        "Hinspiel Atalanta 2-0 in Bergamo im November - Atalanta sucht das seltene Double",
+        "Kean weiterhin OUT (9. Liga-Spiel in Folge wegen Schienbein) - Piccoli muss starten; Ranieri Sperre + Parisi/Lamptey/Sottil verletzt",
+        "Atalanta-IV-Krise: Kossounou Saison-OUT, Bernasconi OUT, Hien Status widerspruechlich (returns or 2-match-ban) - Kolasinac/Scalvini-Ahanor moegliche IV-Konfiguration",
+        "Markt-Goldgrube-Trigger: Ueber 2.5 Tore (Linie 1.88; aktuelle Goldgrube +33.2% ROI) UND Doppelte Chance X2 (Linie 1.40; aktuelle Goldgrube +15.8% ROI) UND Torschuetzen Jederzeit (Linie ca. 3.20-3.70 fuer Krstovic/Raspadori/De-Ketelaere; aktuelle Goldgrube +20.5% ROI)",
+        "Trainer-Sicherheit beidseitig unsicher trotz erreichter Saison-Ziele (Sportsmole-Notiz)"
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/fiorentina-vs-atalanta-prediction-lineups-odds-2026-05-22/",
+        "https://www.sportsmole.co.uk/football/fiorentina/preview/fiorentina-vs-atalanta-prediction-team-news-lineups_597875.html",
+        "https://dailysports.net/predictions/fiorentina-vs-atalanta-prediction-match-preview-and-probable-lineups-may-22-2026/",
+        "https://footballwhispers.com/blog/fiorentina-vs-atalanta-prediction-22-05-2026/",
+        "https://www.playmakerstats.com/news/preview-fiorentina-vs-atalanta-team-news-lineups-predictions-serie-a-22-05-/1131497"
+      ]
+    },
+    {
+      "id": "2026-05-22-sas-okc",
+      "liga": "NBA Western Conference Finals",
+      "stage": "PLAYOFFS_CONF_FINALS_G3",
+      "spiel_label": "Game 3 of 7 (Best-of-7, Stand 1-1)",
+      "heim": "San Antonio Spurs",
+      "gast": "Oklahoma City Thunder",
+      "anstoss": "2026-05-23T02:30:00+02:00",
+      "anstoss_lokal_et": "2026-05-22T20:30:00-04:00",
+      "anstoss_utc": "2026-05-23T00:30:00Z",
+      "stadion": "Frost Bank Center, San Antonio (laut SI)",
+      "schiedsrichter": "noch nicht bestaetigt (NBA Officiating)",
+      "squad_heim": [
+        {"name": "Victor Wembanyama", "position": "C/PF", "verifiziert_via": "https://www.lineups.com/betting/oklahoma-city-thunder-vs-san-antonio-spurs-game-3-preview-picks-odds-for-may-22-2026/", "hinweis": "Spurs-Superstar; G1 41/24/3 historisch (Wilt-Chamberlain-Klasse) / G2 21/17/6/4 trotz Hartenstein-Defense-Adjustment; Wemby-Reb-Prop O14.5 -107 ist Aggregator-Tipp"},
+        {"name": "Stephon Castle", "position": "PG/SG", "verifiziert_via": "https://www.nba.com/news/live-updates-2026-nba-playoffs-western-conference-finals-spurs-thunder-run-it-back-after-classic", "hinweis": "G2 25 Pkt + 8 Ast laut NBA.com Recap; primaerer Ball-Handler ohne Fox/Harper"},
+        {"name": "Dylan Harper", "position": "PG/SG", "verifiziert_via": "https://www.si.com/nba/spurs/onsi/injury-update-pair-of-starters-ruled-out-in-san-antonio-spurs-vs-oklahoma-city-thunder-game-2", "hinweis": "Rookie-PG; G2 12 Pkt in 25 Min vor Hamstring-Ausfall - G3 Status 'questionable' laut SI"},
+        {"name": "Devin Vassell", "position": "SG/SF", "verifiziert_via": "https://www.nba.com/news/live-updates-2026-nba-playoffs-western-conference-finals-spurs-thunder-run-it-back-after-classic", "hinweis": "Spurs-3-and-D-Wing; G1+G2 Wing-Verteidiger gegen SGA"},
+        {"name": "Keldon Johnson", "position": "SF/PF", "verifiziert_via": "https://www.nba.com/news/live-updates-2026-nba-playoffs-western-conference-finals-spurs-thunder-run-it-back-after-classic"},
+        {"name": "Jeremy Sochan", "position": "PF", "verifiziert_via": "https://www.nba.com/news/live-updates-2026-nba-playoffs-western-conference-finals-spurs-thunder-run-it-back-after-classic", "hinweis": "Flexible PF-Option neben Wemby"},
+        {"name": "Luke Kornet", "position": "C/Bank", "verifiziert_via": "https://www.oddsshark.com/nba/thunder-spurs-picks-odds-may-22-2026", "hinweis": "Backup-C; laut OddsShark 'struggling' = mehr Wemby-Minuten gefordert"},
+        {"name": "De'Aaron Fox", "position": "PG/OUT_OR_QUESTIONABLE", "verifiziert_via": "https://www.si.com/nba/spurs/onsi/injury-update-pair-of-starters-ruled-out-in-san-antonio-spurs-vs-oklahoma-city-thunder-game-2", "hinweis": "Right ankle Wiederholungs-Verletzung 2. Runde; G1+G2 OUT, Status 'questionable' aber persoenliche Entscheidung; Coach Mitch Johnson: 'this is just kind of the world we live in' - Erwartung weitgehend OUT"}
+      ],
+      "squad_gast": [
+        {"name": "Shai Gilgeous-Alexander", "position": "PG/SG", "verifiziert_via": "https://www.nba.com/news/live-updates-2026-nba-playoffs-western-conference-finals-spurs-thunder-run-it-back-after-classic", "hinweis": "Thunder-Superstar + 2026-MVP-Kandidat; G2 30 Pkt"},
+        {"name": "Jalen Williams", "position": "SF/SG", "verifiziert_via": "https://www.si.com/nba/spurs/onsi/injury-update-pair-of-starters-ruled-out-in-san-antonio-spurs-vs-oklahoma-city-thunder-game-2", "hinweis": "G3 'questionable' nach Hamstring-Aggravation G2 1. Quarter; vorher 6 Spiele Grade-1-Hamstring-Strain - G3 wahrscheinlich OUT oder limitiert; ohne Williams ist 2. Scoring-Option weg"},
+        {"name": "Chet Holmgren", "position": "C/PF", "verifiziert_via": "https://www.basketballreference.com/playoffs/2026-nba-western-conference-finals-spurs-vs-thunder.html", "hinweis": "G1 8 Pkt + 6 Reb laut Search-Snippet - direktes Matchup gegen Wemby; defensiv solide aber offensiv limitiert"},
+        {"name": "Isaiah Hartenstein", "position": "C", "verifiziert_via": "https://www.lineups.com/betting/oklahoma-city-thunder-vs-san-antonio-spurs-game-3-preview-picks-odds-for-may-22-2026/", "hinweis": "Erhoehte Minuten in G2 nach Daigneault-Adjustment - dominierte Glas + setzte Wemby unter Druck (Recap NBA.com); Hartenstein-Effekt = Wemby vom Korb wegzwingen"},
+        {"name": "Lu Dort", "position": "SF/SG", "verifiziert_via": "https://www.nba.com/news/live-updates-2026-nba-playoffs-western-conference-finals-spurs-thunder-run-it-back-after-classic", "hinweis": "Top-Wing-Verteidiger Thunder; primaer auf Castle"},
+        {"name": "Alex Caruso", "position": "PG/SG/Bank", "verifiziert_via": "https://www.nba.com/news/live-updates-2026-nba-playoffs-western-conference-finals-spurs-thunder-run-it-back-after-classic", "hinweis": "G2 17 Pkt off the Bench laut NBA.com Recap - X-Faktor"},
+        {"name": "Cason Wallace", "position": "PG/SG/Bank", "verifiziert_via": "https://www.oddsshark.com/nba/thunder-spurs-picks-odds-may-22-2026", "hinweis": "Backup-PG, mehr Minuten wenn Williams ausfaellt"},
+        {"name": "Aaron Wiggins", "position": "SF/Bank", "verifiziert_via": "https://www.lineups.com/betting/oklahoma-city-thunder-vs-san-antonio-spurs-game-3-preview-picks-odds-for-may-22-2026/", "hinweis": "Bank-Wing-Option, mehr Minuten wenn Williams ausfaellt"}
+      ],
+      "injuries_heim": [
+        "De'Aaron Fox (rechter Knoechel, OUT/Questionable laut SI+Lineups+CBSSports) - re-aggravation 2. Runde; G1+G2 nicht aufgetreten trotz Q-Status; coach Mitch Johnson erwartet langfristigen Ausfall",
+        "Dylan Harper (rechtes Bein/Hamstring, Q laut SI+Lineups) - G2 12 Pkt in 25 Min vor Ausfall; soft tissue heisst schwer schnell rehabilitieren - G3 zweifelhaft",
+        "David Jones Garcia (OUT Season laut Lineups)"
+      ],
+      "injuries_gast": [
+        "Jalen Williams (linker Hamstring, Q laut SI+Lineups) - G2 sofortiger Ausfall im 1. Quarter; davor 6 Spiele Grade-1-Strain - wahrscheinlich OUT oder stark limitiert in G3",
+        "Thomas Sorber (OUT laut Lineups)",
+        "Ajay Mitchell (Knie, Q laut Lineups) - G2 Knie-an-Knie-Kontakt 4. Quarter"
+      ],
+      "saison_kontext_intern": {
+        "parallel_heim": "keine - NBA Playoffs einziger Wettbewerb; Spurs aktuell in der Conference Finals",
+        "parallel_gast": "keine - NBA Playoffs einziger Wettbewerb; OKC ist defending Champion 2025",
+        "quellen": [
+          "https://www.nba.com/playoffs/2026/west-final"
+        ]
+      },
+      "parallele_wettbewerbe": {
+        "heim": "keine - NBA Playoffs einziger Wettbewerb",
+        "gast": "keine - NBA Playoffs einziger Wettbewerb",
+        "quellen": [
+          "https://www.nba.com/playoffs/2026/west-final"
+        ]
+      },
+      "saisonziel_heim": "NBA Finals Qualifikation - erste Spurs-Conference-Final seit Tim-Duncan-Aera; Wemby-Superstar-Ankunft auf grosser Buehne; Serie 1-1 nach G1 Spurs-Sieg 122-115 2OT + G2 Thunder-Sieg 122-113",
+      "saisonziel_gast": "Title-Verteidigung nach 2025-Championship; OKC als 1-Seed Western Conference (laut nba.com/playoffs/2026) reagierte auf G1-Shock mit Hartenstein-Adjustment - jetzt entscheidende Auswaertsspiele",
+      "tabellenstand": {
+        "heim_liga": "NBA Western Conference",
+        "heim_seed": 2,
+        "heim_serie_stand": "1-1 nach 2 Spielen",
+        "gast_liga": "NBA Western Conference",
+        "gast_seed": 1,
+        "gast_serie_stand": "1-1 nach 2 Spielen",
+        "quelle": "https://www.nba.com/playoffs/2026/west-final"
+      },
+      "form_heim_letzte_5": "Spurs 16-4 SU in last 20 Heimspielen laut OddsShark; reg-season 4 Siege vs OKC (laut Basketballsphere); G1 W 122-115 2OT (Wemby 41/24/3), G2 L 113-122 (Castle 25/8, Wemby 21/17/6/4)",
+      "form_gast_letzte_5": "Thunder 1-Seed reg-season, defending Champs 2025; G1 L vs Spurs in 2OT 115-122 trotz SGA-Effort, G2 W 122-113 mit SGA-30 + Caruso-17 + Hartenstein-Defense; 4 Niederlagen vs Spurs in Regular Season laut Basketballsphere",
+      "h2h": "Regular-Season 2025/26: Spurs gewannen 4 von 4 vs OKC laut Basketballsphere - aussergewoehnliche H2H-Dominanz; aktuelle Serie: G1 Spurs 122-115 2OT, G2 OKC 122-113",
+      "recovery_heim": "1 Tag seit G2 (20.05. in OKC) - voll aktiv noch Reise zurueck nach San Antonio gestern",
+      "recovery_gast": "1 Tag seit G2 (20.05. Heimsieg in OKC) - Reise nach San Antonio gestern; Williams/Mitchell soft tissue Recovery-Druck",
+      "manager": {
+        "heim": "Mitch Johnson - San Antonio Spurs Head Coach",
+        "gast": "Mark Daigneault - Oklahoma City Thunder Head Coach (2025-Champion-Coach; G2-Adjustment mit Hartenstein-on-Wemby gefeiert)"
+      },
+      "quoten": {
+        "bet365_aggregator": {
+          "moneyline_heim": 1.83,
+          "moneyline_gast": 2.00,
+          "spread_heim_minus_1_5": 1.91,
+          "spread_gast_plus_1_5": 1.91,
+          "total_punkte_linie": 217.5,
+          "ueber_total": 1.91,
+          "unter_total": 1.91,
+          "player_props_geschaetzt": {
+            "Wembanyama_ueber_24_5_Pkt": 1.85,
+            "Wembanyama_ueber_14_5_Reb_VERBOTEN_DE": "VERBOTEN in DE - Einzel-Rebound-Prop laut CLAUDE.md (laut OddsShark Linie -107 = ca. 1.91, klare Edge laut Analyst aber NICHT als Tipp einsetzbar)",
+            "SGA_punkte_linie_geschaetzt": 30.5,
+            "Castle_punkte_linie_geschaetzt": 22.5,
+            "Holmgren_punkte_linie_geschaetzt": 16.5,
+            "Caruso_punkte_linie_geschaetzt": 11.5,
+            "Williams_punkte_linie_geschaetzt": "ungueltig wenn Williams OUT - bei Q-Status auf 14.5 wenn er spielt"
+          },
+          "hinweis": "Konversion aus US-Format Aggregator (Lineups/OddsShark/Basketballsphere): Spurs ML -118 bis -120 = ca. 1.83 (OddsShark/Lineups Konsens) / Thunder ML +100 = ca. 2.00 / Spread Spurs -1.5 -110 = ca. 1.91 / Total 217.5 O/U -110 = ca. 1.91 (Lineups+OddsShark). Wemby-Pkt-Prop: Modell-Projektion ca. 26-28 Pkt da Hartenstein-Defense aktiv; Linie 24.5 -115 = ca. 1.85. SGA-Pkt-Linie aus Saison-Average 30.0 + Schluessel-Game-Bonus. WARN: Wemby-Reb-Prop O14.5 ist Aggregator-Top-Tipp aber VERBOTEN in DE bei bet365. Williams-Pkt-Prop unsicher wegen Q-Status. Bei Wettzeit live pruefen vor Tipp."
+        },
+        "fair_line_basis_prozent": {
+          "sieg_heim": 53,
+          "sieg_gast": 47,
+          "modell_quelle": "OddsShark Analyst-Pick Spurs ML -118 / Lineups Analyst Wembanyama-Rebounds-Edge + Spurs Home -1.5 Pick / Basketballsphere Spurs-Pick -1.5 (1.81); implizit Spurs leicht favorisiert wegen Home + Williams-Q + Spurs 4-0 in Reg-Season H2H"
+        }
+      },
+      "news_kompakt": [
+        "Serie 1-1 nach OKC G2-Sieg 122-113 (SGA 30 / Caruso 17) - nach G1-Spurs-Sieg 122-115 2OT (Wemby 41/24/3 historisch)",
+        "Daigneault-Adjustment: Hartenstein-on-Wembanyama in G2 zwang Wemby vom Korb weg (Wemby G2 21 Pkt vs G1 41 Pkt) - Spurs muessen kontern",
+        "Spurs Turnover-Krise: 42 Turnovers in G1+G2 -> 55 Thunder-Punkte (laut Basketballsphere 'highest by player in playoff series since 1977 tracking')",
+        "Verletzungs-Cluster: Spurs Fox OUT/Q + Harper Q + Jones Garcia OUT Saison; Thunder Williams Q + Mitchell Q + Sorber OUT - beide Teams Rotation-Druck",
+        "Heimvorteil Spurs: 16-4 SU letzte 20 Heimspiele laut OddsShark; H2H Reg-Season 4-0 fuer Spurs vs OKC",
+        "Modell-Edges: Spurs ML -118 (1.83) und Spurs Spread -1.5 (1.91) ist 3-faches Analysten-Konsens (Lineups + OddsShark + Basketballsphere)",
+        "Verbotene Maerkte DE: Wemby-Rebounds-Prop O14.5 ist Aggregator-Top-Pick aber NICHT als Tipp einsetzbar; PRA-Kombos, Punkte+Reb, Punkte+Ast verboten",
+        "Erlaubte Maerkte: Moneyline, Spread, Total, Einzel-Punkte-Props (Wemby/SGA/Castle/Holmgren/Caruso), Double-Double Wemby, Triple-Double Wemby, Meiste Punkte Spiel"
+      ],
+      "quellen_aggregator": [
+        "https://www.lineups.com/betting/oklahoma-city-thunder-vs-san-antonio-spurs-game-3-preview-picks-odds-for-may-22-2026/",
+        "https://basketballsphere.com/en/san-antonio-spurs-vs-oklahoma-city-thunder-game-3-preview-prediction-may-22-2026/",
+        "https://www.oddsshark.com/nba/thunder-spurs-picks-odds-may-22-2026",
+        "https://www.si.com/nba/spurs/onsi/injury-update-pair-of-starters-ruled-out-in-san-antonio-spurs-vs-oklahoma-city-thunder-game-2",
+        "https://www.nba.com/playoffs/2026/west-final",
+        "https://www.nba.com/news/live-updates-2026-nba-playoffs-western-conference-finals-spurs-thunder-run-it-back-after-classic"
+      ]
+    }
+  ],
+  "spiele_count": 2,
+  "skipped_due_to_no_relevant_fixtures": [
+    "Premier League MD38 (alle Spiele erst Sa 24.05.)",
+    "LaLiga MD38 (alle 9 Spiele erst Sa 23.05.)",
+    "Bundesliga (Saison endete So 17.05. - keine Spiele mehr)",
+    "2. Bundesliga (Saison endete So 17.05.)",
+    "Ligue 1 (keine Spiele heute laut football-data.org)",
+    "DFB-Pokal/Coppa Italia (Saison beendet)",
+    "Champions League/Europa League (Saison beendet; EL-Final war 20.05.)",
+    "UEFA Conference League Final (erst 27.05. Crystal Palace vs Rayo Vallecano in Leipzig)",
+    "Championship-Playoff Final (Hull City vs Southampton erst 23.05. 01:00 UTC)"
+  ],
+  "footer": {
+    "spielerschutz": "18+ - bet365 DE - Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+    "rechtlich_hinweis": "Serie A: 2:0-Insurance gilt NICHT (CLAUDE.md beschraenkt auf BL + CL). NBA: 2:0-Insurance gilt NICHT (nur Fussball BL/CL). Verbotene NBA-Maerkte beachten: keine Einzel-Reb/Ast/Blk/Steals/Turnovers, keine PRA-Kombos, keine Punkte+Reb/Ast-Kombi, keine Einzel-3er. Erlaubt: ML, Spread, Totals, Einzel-Punkte-Props, Double/Triple-Double, Meiste Punkte. Einwechslungs-Boost-Regel gilt fuer alle Torschuetzen-Markt-Tipps bei bet365 (Fiorentina: Piccoli + Backup Fabbian/Beltran; Atalanta: Krstovic + Backup Scamacca / Scamacca + Backup Krstovic / De-Ketelaere + Backup Samardzic) - relevant fuer Auswertung."
+  }
+}
