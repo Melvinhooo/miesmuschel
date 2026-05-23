@@ -394,21 +394,9 @@
         "Knicks Serien-Quote -425, Cavs +320",
         "ECF Goldgrube-Status: NICHT in liga_goldgruben.json, NBA Conference Finals Game 1 in statistik.json bei -35% ROI - Mapper-Hebel B aktiv -> kein SAFE moeglich, max WACKEL"
       ],
-      "tipps": [
-        {
-          "id": "cle-nyk-1",
-          "kategorie": "wackel",
-          "markt": "Cleveland Cavaliers +/- (Spread-Linie ca -2.5 Heim, also Cavs Heim-Spread bei knapper Quote)",
-          "quote": 1.9,
-          "quote_quelle": "Oddschecker FanDuel Konsens (Cavs Heim Spread)",
-          "edge_prozent": 4,
-          "begruendung": "Cavs Heim 7-0 in Playoffs 2026 = signifikantes Heim-Court-Edge, auch wenn Knicks im Serie vorn. Mapper-Hebel B (NBA Conference Finals max WACKEL ohne G2-Goldgrube) befolgt. Lesson 24.04. (Sweep-Abwehr-Heim-Underdog) als optimistische Variante, Lesson 15.05. (Round-2-Closeout-Crash) als Vorsicht - Cavs hier NICHT in Round-2-G6-Pattern (ECF G3), unterschiedliche Liga-Sample. Empfohlener Einsatz: 2,75€ (0,5%). NUR als Wackel-Bein - kein Einzeltipps-Mitnahme.",
-          "bewertung_label": "WACKEL",
-          "empfohlener_einsatz_prozent": 0.5,
-          "faire_quote": 1.83
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-05-24-sas-okc",

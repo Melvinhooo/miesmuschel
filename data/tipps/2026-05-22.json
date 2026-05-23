@@ -105,7 +105,7 @@
           "_aufstellungs_verifikation_pflicht": true
         }
       ],
-      "kontext_check_status": "OK"
+      "kontext_check_status": "WARN_QUELLE"
     },
     {
       "id": "2026-05-22-sas-okc",
@@ -278,40 +278,6 @@
         "Doppel-Exposure mit et-1 Spurs ML akzeptiert wg Mini-Tag-strukturellem Mangel an Alternativen"
       ],
       "empfohlener_einsatz_prozent": 1.0
-    },
-    {
-      "id": "kombi-balance",
-      "name": "Balance-Kombi (Mini-Tag SKIP)",
-      "kategorie": "balance",
-      "beine": [],
-      "gesamtquote": null,
-      "gesamtquote_rechnung": "n/a - Mini-Tag SKIP",
-      "einsatz_euro": 0.0,
-      "einsatz_prozent_kasse": 0.0,
-      "gewinn_brutto_euro": 0.0,
-      "begruendung": "Lesson 21.05. Mini-Spiele-Tag-Safe-Only-Hartregel: bei <=2 Spielen NUR Safe + Moonshot bauen, Balance + Risiko skippen weil 2-Bein-Konstruktionen weder Edge noch substantielles Risiko-Profil bieten (empirisch 20.05.: Balance + Risiko + Moonshot 0W-3L mit -6.35€). Heute zusaetzlich verschaerft durch 1 Spiel = Beobachtungs-Liga blockiert (Fio-Ata exkludiert aus Hauptkombis) -> faktisch nur 1 spielbares Spiel verfuegbar. Empfehlung: ueberspringen.",
-      "lessons_check": [
-        "Lesson 21.05. Mini-Spiele-Tag-Safe-Only-Hartregel: SKIP angewandt"
-      ],
-      "empfohlener_einsatz_prozent": 0.0,
-      "_mini_tag_skip": true
-    },
-    {
-      "id": "kombi-risiko",
-      "name": "Risiko-Kombi (Mini-Tag SKIP)",
-      "kategorie": "risk",
-      "beine": [],
-      "gesamtquote": null,
-      "gesamtquote_rechnung": "n/a - Mini-Tag SKIP",
-      "einsatz_euro": 0.0,
-      "einsatz_prozent_kasse": 0.0,
-      "gewinn_brutto_euro": 0.0,
-      "begruendung": "Lesson 21.05. Mini-Spiele-Tag-Safe-Only-Hartregel: SKIP. Bei nur 1 spielbarem Spiel (Fio-Ata Beob blockiert + Spurs-OKC NBA-frei) ist 2-Bein-Risiko nur via Layer-1-Verstoss + Doppel-Korrelations-Risiko konstruierbar - Negative-EV-Profil. Ueberspringen.",
-      "lessons_check": [
-        "Lesson 21.05. Mini-Spiele-Tag-Safe-Only-Hartregel: SKIP angewandt"
-      ],
-      "empfohlener_einsatz_prozent": 0.0,
-      "_mini_tag_skip": true
     },
     {
       "id": "kombi-moonshot",
