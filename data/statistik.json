@@ -1,5 +1,5 @@
 {
-  "letzte_berechnung": "2026-05-22T06:20:34+00:00",
+  "letzte_berechnung": "2026-05-23T06:08:41+00:00",
   "gesamt": {
     "tipps": 261,
     "gewonnen": 140,
@@ -12,15 +12,15 @@
     "roi_prozent": 8.6
   },
   "letzte_30_tage": {
-    "tipps": 261,
-    "gewonnen": 140,
-    "verloren": 112,
+    "tipps": 253,
+    "gewonnen": 136,
+    "verloren": 108,
     "push": 0,
     "offen": 9,
-    "einsatz": 252.0,
-    "netto": 21.65,
-    "trefferquote": 55.6,
-    "roi_prozent": 8.6
+    "einsatz": 244.0,
+    "netto": 22.25,
+    "trefferquote": 55.7,
+    "roi_prozent": 9.1
   },
   "letzte_90_tage": {
     "tipps": 261,
@@ -3239,6 +3239,75 @@
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-05-22",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "Safe-Single (Mini-Tag, 1 Bein, Layer-1-Akzeptanz)",
+          "kategorie": "safe",
+          "gesamtquote": 1.83,
+          "einsatz_prozent": 1.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg San Antonio Spurs (Moneyline)",
+              "quote": 1.83,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi (Mini-Tag SKIP)",
+          "kategorie": "balance",
+          "gesamtquote": 0.0,
+          "einsatz_prozent": 0.0,
+          "status": "offen",
+          "beine": []
+        },
+        {
+          "name": "Risiko-Kombi (Mini-Tag SKIP)",
+          "kategorie": "risk",
+          "gesamtquote": 0.0,
+          "einsatz_prozent": 0.0,
+          "status": "offen",
+          "beine": []
+        },
+        {
+          "name": "Moonshot-Kombi (Mini-Tag, Spass-Slot mit Beob-Bein)",
+          "kategorie": "moonshot",
+          "gesamtquote": 11.46,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Lazar Samardzic trifft jederzeit",
+              "quote": 6.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 217.5 Punkte (Total)",
+              "quote": 1.91,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-05-21",
       "gesamt": {
