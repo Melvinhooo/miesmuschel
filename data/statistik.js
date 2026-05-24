@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-05-23T06:08:41+00:00",
+  "letzte_berechnung": "2026-05-24T06:11:20+00:00",
   "gesamt": {
-    "tipps": 261,
-    "gewonnen": 140,
+    "tipps": 269,
+    "gewonnen": 147,
     "verloren": 112,
-    "push": 0,
+    "push": 1,
     "offen": 9,
-    "einsatz": 252.0,
-    "netto": 21.65,
-    "trefferquote": 55.6,
-    "roi_prozent": 8.6
+    "einsatz": 260.0,
+    "netto": 26.29,
+    "trefferquote": 56.8,
+    "roi_prozent": 10.1
   },
   "letzte_30_tage": {
-    "tipps": 253,
-    "gewonnen": 136,
-    "verloren": 108,
-    "push": 0,
+    "tipps": 247,
+    "gewonnen": 133,
+    "verloren": 104,
+    "push": 1,
     "offen": 9,
-    "einsatz": 244.0,
-    "netto": 22.25,
-    "trefferquote": 55.7,
-    "roi_prozent": 9.1
+    "einsatz": 238.0,
+    "netto": 23.49,
+    "trefferquote": 56.1,
+    "roi_prozent": 9.9
   },
   "letzte_90_tage": {
-    "tipps": 261,
-    "gewonnen": 140,
+    "tipps": 269,
+    "gewonnen": 147,
     "verloren": 112,
-    "push": 0,
+    "push": 1,
     "offen": 9,
-    "einsatz": 252.0,
-    "netto": 21.65,
-    "trefferquote": 55.6,
-    "roi_prozent": 8.6
+    "einsatz": 260.0,
+    "netto": 26.29,
+    "trefferquote": 56.8,
+    "roi_prozent": 10.1
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -69,15 +69,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -9.5
     },
     "LaLiga": {
-      "tipps": 42,
-      "gewonnen": 21,
+      "tipps": 48,
+      "gewonnen": 26,
       "verloren": 20,
-      "push": 0,
+      "push": 1,
       "offen": 1,
-      "einsatz": 41.0,
-      "netto": 0.3,
-      "trefferquote": 51.2,
-      "roi_prozent": 0.7
+      "einsatz": 47.0,
+      "netto": 3.73,
+      "trefferquote": 56.5,
+      "roi_prozent": 7.9
     },
     "Bundesliga": {
       "tipps": 37,
@@ -397,6 +397,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 1.42,
       "trefferquote": 50.0,
       "roi_prozent": 71.0
+    },
+    "DFB-Pokal-Final": {
+      "tipps": 2,
+      "gewonnen": 2,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 1.21,
+      "trefferquote": 100.0,
+      "roi_prozent": 60.5
     }
   },
   "nach_markt": {
@@ -1204,15 +1215,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 42.0
     },
     "Unter 2.5 Tore": {
-      "tipps": 6,
-      "gewonnen": 4,
+      "tipps": 7,
+      "gewonnen": 5,
       "verloren": 2,
       "push": 0,
       "offen": 0,
-      "einsatz": 6.0,
-      "netto": 2.43,
-      "trefferquote": 66.7,
-      "roi_prozent": 40.5
+      "einsatz": 7.0,
+      "netto": 3.18,
+      "trefferquote": 71.4,
+      "roi_prozent": 45.4
     },
     "Unter 211.5 Punkte (Total)": {
       "tipps": 1,
@@ -1776,26 +1787,26 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -100.0
     },
     "Harry Kane trifft jederzeit": {
-      "tipps": 1,
-      "gewonnen": 1,
+      "tipps": 2,
+      "gewonnen": 2,
       "verloren": 0,
       "push": 0,
       "offen": 0,
-      "einsatz": 1.0,
-      "netto": 1.61,
+      "einsatz": 2.0,
+      "netto": 2.46,
       "trefferquote": 100.0,
-      "roi_prozent": 161.0
+      "roi_prozent": 123.0
     },
     "Sieg FC Bayern Muenchen": {
-      "tipps": 1,
-      "gewonnen": 0,
+      "tipps": 2,
+      "gewonnen": 1,
       "verloren": 1,
       "push": 0,
       "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
+      "einsatz": 2.0,
+      "netto": 0.36,
+      "trefferquote": 50.0,
+      "roi_prozent": 18.0
     },
     "Michael Olise trifft jederzeit": {
       "tipps": 1,
@@ -2687,6 +2698,61 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.0,
       "trefferquote": 0.0,
       "roi_prozent": 0.0
+    },
+    "Celta de Vigo oder Unentschieden (Doppelte Chance 1X)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.27,
+      "trefferquote": 100.0,
+      "roi_prozent": 27.0
+    },
+    "Sieg Real Madrid": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.36,
+      "trefferquote": 100.0,
+      "roi_prozent": 36.0
+    },
+    "Vinicius Junior trifft jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 0,
+      "push": 1,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Vedat Muriqi trifft jederzeit": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.4,
+      "trefferquote": 100.0,
+      "roi_prozent": 140.0
+    },
+    "Sieg RCD Mallorca": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.65,
+      "trefferquote": 100.0,
+      "roi_prozent": 65.0
     }
   },
   "nach_markt_typ": {
@@ -2735,48 +2801,48 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 55.0
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 83,
-      "gewonnen": 49,
+      "tipps": 86,
+      "gewonnen": 52,
       "verloren": 33,
       "push": 0,
       "offen": 1,
-      "einsatz": 82.0,
-      "netto": 7.48,
-      "trefferquote": 59.8,
-      "roi_prozent": 9.1
+      "einsatz": 85.0,
+      "netto": 8.85,
+      "trefferquote": 61.2,
+      "roi_prozent": 10.4
     },
     "Torschuetzen Jederzeit": {
-      "tipps": 36,
-      "gewonnen": 13,
+      "tipps": 39,
+      "gewonnen": 15,
       "verloren": 23,
-      "push": 0,
+      "push": 1,
       "offen": 0,
-      "einsatz": 36.0,
-      "netto": 7.37,
-      "trefferquote": 36.1,
-      "roi_prozent": 20.5
+      "einsatz": 39.0,
+      "netto": 9.62,
+      "trefferquote": 39.5,
+      "roi_prozent": 24.7
     },
     "Unter 2.5 Tore": {
-      "tipps": 10,
-      "gewonnen": 6,
+      "tipps": 11,
+      "gewonnen": 7,
       "verloren": 4,
       "push": 0,
       "offen": 0,
-      "einsatz": 10.0,
-      "netto": 2.28,
-      "trefferquote": 60.0,
-      "roi_prozent": 22.8
+      "einsatz": 11.0,
+      "netto": 3.03,
+      "trefferquote": 63.6,
+      "roi_prozent": 27.5
     },
     "Doppelte Chance 1X": {
-      "tipps": 19,
-      "gewonnen": 14,
+      "tipps": 20,
+      "gewonnen": 15,
       "verloren": 3,
       "push": 0,
       "offen": 2,
-      "einsatz": 17.0,
-      "netto": 0.84,
-      "trefferquote": 82.4,
-      "roi_prozent": 4.9
+      "einsatz": 18.0,
+      "netto": 1.11,
+      "trefferquote": 83.3,
+      "roi_prozent": 6.2
     },
     "Doppelte Chance X2": {
       "tipps": 15,
@@ -3144,37 +3210,37 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 125,
-      "gewonnen": 62,
+      "tipps": 128,
+      "gewonnen": 65,
       "verloren": 59,
       "push": 0,
       "offen": 4,
-      "einsatz": 121.0,
-      "netto": 9.18,
-      "trefferquote": 51.2,
-      "roi_prozent": 7.6
+      "einsatz": 124.0,
+      "netto": 11.43,
+      "trefferquote": 52.4,
+      "roi_prozent": 9.2
     },
     "2.00-3.00": {
-      "tipps": 31,
-      "gewonnen": 11,
+      "tipps": 33,
+      "gewonnen": 12,
       "verloren": 19,
-      "push": 0,
+      "push": 1,
       "offen": 1,
-      "einsatz": 30.0,
-      "netto": 0.64,
-      "trefferquote": 36.7,
-      "roi_prozent": 2.1
+      "einsatz": 32.0,
+      "netto": 2.04,
+      "trefferquote": 38.7,
+      "roi_prozent": 6.4
     },
     "1.00-1.50": {
-      "tipps": 93,
-      "gewonnen": 63,
+      "tipps": 96,
+      "gewonnen": 66,
       "verloren": 26,
       "push": 0,
       "offen": 4,
-      "einsatz": 89.0,
-      "netto": 6.03,
-      "trefferquote": 70.8,
-      "roi_prozent": 6.8
+      "einsatz": 92.0,
+      "netto": 7.02,
+      "trefferquote": 71.7,
+      "roi_prozent": 7.6
     },
     "3.00+": {
       "tipps": 12,
@@ -3190,26 +3256,26 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_kategorie": {
     "safe": {
-      "tipps": 70,
-      "gewonnen": 49,
+      "tipps": 71,
+      "gewonnen": 50,
       "verloren": 21,
       "push": 0,
       "offen": 0,
-      "einsatz": 70.0,
-      "netto": 2.71,
-      "trefferquote": 70.0,
-      "roi_prozent": 3.9
+      "einsatz": 71.0,
+      "netto": 2.98,
+      "trefferquote": 70.4,
+      "roi_prozent": 4.2
     },
     "value": {
-      "tipps": 157,
-      "gewonnen": 77,
+      "tipps": 164,
+      "gewonnen": 83,
       "verloren": 71,
-      "push": 0,
+      "push": 1,
       "offen": 9,
-      "einsatz": 148.0,
-      "netto": 13.62,
-      "trefferquote": 52.0,
-      "roi_prozent": 9.2
+      "einsatz": 155.0,
+      "netto": 17.99,
+      "trefferquote": 53.9,
+      "roi_prozent": 11.6
     },
     "wackel": {
       "tipps": 34,
@@ -3240,6 +3306,259 @@ window.__MIESMUSCHEL_STAT = {
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-05-23",
+      "gesamt": {
+        "tipps": 8,
+        "gewonnen": 7,
+        "verloren": 0,
+        "push": 1,
+        "offen": 0,
+        "einsatz": 8.0,
+        "netto": 4.64,
+        "trefferquote": 100.0,
+        "roi_prozent": 58.0
+      },
+      "spiele": [
+        {
+          "id": "2026-05-23-bay-vfb",
+          "liga": "DFB-Pokal-Final",
+          "heim": "FC Bayern Muenchen",
+          "gast": "VfB Stuttgart",
+          "endstand": "3:0",
+          "tipps": [
+            {
+              "markt": "Sieg FC Bayern Muenchen",
+              "quote": 1.36,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.36,
+              "kommentar": "Bayern gewinnt das DFB-Pokal-Final 3:0 - Double perfekt"
+            },
+            {
+              "markt": "Harry Kane trifft jederzeit",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.85,
+              "kommentar": "Kane mit lupenreinem HATTRICK (55., 80., 90+2 Elfmeter) - Torschuetzen-Goldgrube voll bestaetigt"
+            }
+          ]
+        },
+        {
+          "id": "2026-05-23-rma-ath",
+          "liga": "LaLiga",
+          "heim": "Real Madrid",
+          "gast": "Athletic Club",
+          "endstand": "4:2",
+          "tipps": [
+            {
+              "markt": "Sieg Real Madrid",
+              "quote": 1.36,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.36,
+              "kommentar": "Real gewinnt 4:2 - Heim-Favorit bestaetigt"
+            },
+            {
+              "markt": "Vinicius Junior trifft jederzeit",
+              "quote": 2.3,
+              "kategorie": "value",
+              "status": "push",
+              "gewinn_faktor": 0.0,
+              "kommentar": "VOID: Vinicius wurde NICHT eingesetzt (Vereins-/Disziplinar-Sperre am Spieltag), Brahim Diaz stand STATT ihm in der Startelf und traf 88'. Einwechslungs-Boost greift NICHT (Boost nur wenn Tipp-Spieler selbst eingewechselt/ausgewechselt wird - Vinicius war nie auf dem Platz). bet365 wertet Torschuetzen-Tipp auf nicht-eingesetzten Spieler als void -> Einsatz zurueck"
+            }
+          ]
+        },
+        {
+          "id": "2026-05-23-cel-sev",
+          "liga": "LaLiga",
+          "heim": "Celta de Vigo",
+          "gast": "Sevilla FC",
+          "endstand": "1:0",
+          "tipps": [
+            {
+              "markt": "Celta de Vigo oder Unentschieden (Doppelte Chance 1X)",
+              "quote": 1.27,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.27,
+              "kommentar": "Celta gewinnt 1:0 -> DC 1X erfuellt. Goldgrube DC 1X erneut bestaetigt (sicherster Tipp des Tages)"
+            }
+          ]
+        },
+        {
+          "id": "2026-05-23-mal-ovi",
+          "liga": "LaLiga",
+          "heim": "RCD Mallorca",
+          "gast": "Real Oviedo",
+          "endstand": "3:0",
+          "tipps": [
+            {
+              "markt": "Sieg RCD Mallorca",
+              "quote": 1.65,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.65,
+              "kommentar": "Mallorca gewinnt 3:0 (Klassenerhalts-Pflichtsieg erfuellt - trotzdem abgestiegen wg. anderer Ergebnisse mit 42 Pkt)"
+            },
+            {
+              "markt": "Vedat Muriqi trifft jederzeit",
+              "quote": 2.4,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.4,
+              "kommentar": "Muriqi trifft 88' (23. Saisontor) - Torschuetzen-Goldgrube; bester Einzel-Gewinn des Tages (@2.40)"
+            }
+          ]
+        },
+        {
+          "id": "2026-05-23-gir-elc",
+          "liga": "LaLiga",
+          "heim": "Girona FC",
+          "gast": "Elche CF",
+          "endstand": "1:1",
+          "tipps": [
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.75,
+              "kommentar": "1:1 = 2 Tore -> Unter 2.5 erfuellt. Goldgrube Unter 2.5 + nervoeses-Abstiegs-Duell-These bestaetigt"
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi (~2.85x)",
+          "kategorie": "safe",
+          "gesamtquote": 2.85,
+          "einsatz_prozent": 2.0,
+          "status": "gewonnen",
+          "beine": [
+            {
+              "markt": "FC Bayern Muenchen - VfB Stuttgart: Sieg FC Bayern Muenchen",
+              "quote": 1.36,
+              "status": "gewonnen",
+              "kommentar": "Bayern gewinnt das DFB-Pokal-Final 3:0 - Double perfekt"
+            },
+            {
+              "markt": "Celta de Vigo - Sevilla FC: Celta de Vigo oder Unentschieden (Doppelte Chance 1X)",
+              "quote": 1.27,
+              "status": "gewonnen",
+              "kommentar": "Celta gewinnt 1:0 -> DC 1X erfuellt. Goldgrube DC 1X erneut bestaetigt (sicherster Tipp des Tages)"
+            },
+            {
+              "markt": "RCD Mallorca - Real Oviedo: Sieg RCD Mallorca",
+              "quote": 1.65,
+              "status": "gewonnen",
+              "kommentar": "Mallorca gewinnt 3:0 (Klassenerhalts-Pflichtsieg erfuellt - trotzdem abgestiegen wg. anderer Ergebnisse mit 42 Pkt)"
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi (~6.75x)",
+          "kategorie": "balance",
+          "gesamtquote": 6.75,
+          "einsatz_prozent": 0.8,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Real Madrid - Athletic Club: Sieg Real Madrid",
+              "quote": 1.36,
+              "status": "gewonnen",
+              "kommentar": "Real gewinnt 4:2 - Heim-Favorit bestaetigt"
+            },
+            {
+              "markt": "Valencia CF - FC Barcelona: Sieg FC Barcelona",
+              "quote": 1.83,
+              "status": "verloren",
+              "kommentar": "Barca verliert 1:3 - Valencia dreht das Spiel in der 2.HZ. Klassen-Edge-These am anreizlosen Schlusstag widerlegt"
+            },
+            {
+              "markt": "Real Betis - Levante UD: Sieg Real Betis",
+              "quote": 1.55,
+              "status": "gewonnen",
+              "kommentar": "Betis gewinnt 2:1 - Klassen-Edge Heim-Favorit bestaetigt"
+            },
+            {
+              "markt": "Girona FC - Elche CF: Unter 2.5 Tore",
+              "quote": 1.75,
+              "status": "gewonnen",
+              "kommentar": "1:1 = 2 Tore -> Unter 2.5 erfuellt. Goldgrube Unter 2.5 + nervoeses-Abstiegs-Duell-These bestaetigt"
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi (~19.4x)",
+          "kategorie": "risk",
+          "gesamtquote": 19.41,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "FC Bayern Muenchen - VfB Stuttgart: Harry Kane trifft jederzeit",
+              "quote": 1.85,
+              "status": "gewonnen",
+              "kommentar": "Kane mit lupenreinem HATTRICK (55., 80., 90+2 Elfmeter) - Torschuetzen-Goldgrube voll bestaetigt"
+            },
+            {
+              "markt": "Real Madrid - Athletic Club: Vinicius Junior trifft jederzeit",
+              "quote": 2.3,
+              "status": "push",
+              "kommentar": "VOID: Vinicius wurde NICHT eingesetzt (Vereins-/Disziplinar-Sperre am Spieltag), Brahim Diaz stand STATT ihm in der Startelf und traf 88'. Einwechslungs-Boost greift NICHT (Boost nur wenn Tipp-Spieler selbst eingewechselt/ausgewechselt wird - Vinicius war nie auf dem Platz). bet365 wertet Torschuetzen-Tipp auf nicht-eingesetzten Spieler als void -> Einsatz zurueck"
+            },
+            {
+              "markt": "RCD Mallorca - Real Oviedo: Vedat Muriqi trifft jederzeit",
+              "quote": 2.4,
+              "status": "gewonnen",
+              "kommentar": "Muriqi trifft 88' (23. Saisontor) - Torschuetzen-Goldgrube; bester Einzel-Gewinn des Tages (@2.40)"
+            },
+            {
+              "markt": "Cleveland Cavaliers - New York Knicks: Ueber 213.5 Punkte (Total)",
+              "quote": 1.9,
+              "status": "gewonnen",
+              "kommentar": "229 Gesamtpunkte > 213.5 -> Ueber erfuellt. Risiko-Kombi-Bein gewonnen (war wackel/0-Einsatz)"
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi (~65.5x)",
+          "kategorie": "moonshot",
+          "gesamtquote": 65.52,
+          "einsatz_prozent": 0.1,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Celta de Vigo - Sevilla FC: Iago Aspas trifft jederzeit",
+              "quote": 2.4,
+              "status": "verloren",
+              "kommentar": "Aspas trifft NICHT (Vorlage zu Carreira-Chance, dann Standing Ovation). KEIN Boost: einziges Tor Moriba 51' fiel VOR Aspas-Auswechslung (65., fuer Jutgla); Ersatz Jutgla traf nicht"
+            },
+            {
+              "markt": "Valencia CF - FC Barcelona: Robert Lewandowski trifft jederzeit",
+              "quote": 2.1,
+              "status": "gewonnen",
+              "kommentar": "Lewandowski trifft im Abschiedsspiel (61., 119. Barca-Tor) - Geehrter-trifft hier doch aufgegangen (war bewusst nur wackel/Moonshot-Bein)"
+            },
+            {
+              "markt": "Girona FC - Elche CF: Cristhian Stuani trifft jederzeit",
+              "quote": 2.6,
+              "status": "verloren",
+              "kommentar": "Stuani trifft NICHT - Girona-Tor durch Verteidiger Arnau Martinez (48.). Kein Boost (Stuani-Auswechslung+Ersatz-Tor nicht belegt; einziges Tor von Defender)"
+            },
+            {
+              "markt": "SS Lazio - AC Pisa 1909: M'Bala Nzola trifft jederzeit",
+              "quote": 5.0,
+              "status": "verloren",
+              "kommentar": "Nzola trifft NICHT (0:0). Moonshot-Bein - Moonshot-Kombi damit tot"
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-05-22",
       "gesamt": {

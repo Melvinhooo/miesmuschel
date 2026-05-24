@@ -1,0 +1,2087 @@
+{
+  "datum": "2026-05-23",
+  "erstellt_am": "2026-05-23T12:30:00+02:00",
+  "hinweis": "🐚 Watchdog-Recovery (Sa 12:30). SAISONFINALE-SAMSTAG. Headliner: DFB-POKAL-FINAL Bayern - Stuttgart, Olympiastadion Berlin 20:00 (Bayern Double-Chance nach Meistertitel, voller Kader, haushoher Favorit ~1.36; Stuttgart Titelverteidiger-Underdog; Knockout = Verlaengerung/Elfmeter moeglich, 2:0-Insurance gilt NICHT bei Pokal). LaLiga MD38 9 Spiele 21:00 simultan: Meister steht (Barca seit 10.05.), Real Madrid Vize fix; CL-Plaetze vergeben - es geht nur noch um Abstieg (Mallorca/Girona/Elche/Oviedo) + ein paar Europa-Reste (Celta Platz 6). WICHTIGE Recherche-Korrekturen ggü. erster Annahme: (1) Real Madrid massiv dezimiert (Valverde/Militao/Rodrygo/Ceballos/Mendy OUT) + MBAPPE Hamstring-ZWEIFELHAFT -> Torschuetzen-Tipp auf den FITTEN Vinicius statt Mbappe (HR3 Backup-Pflicht); (2) Valencia laengst gerettet/ohne Anreiz + Barca 5-0 H2H + Lewandowski-Abschied -> KEIN Valencia-Edge, Barca-Sieg ist der Wert; (3) Betis klarer Heim-Favorit (~1.55), Levante kaempfender Aufsteiger -> Betis-Sieg statt erhofftem Levante-Edge. Serie A (Bologna-Inter 18:00 Inter-Meister-Rotation, Lazio-Pisa 20:45 Pisa abgestiegen) ist BEOBACHTUNGS-LIGA (30d ROI -46%) -> nur Analyse, kein Einzel/Hauptkombi, Moonshot-Bein nur ab Quote 5.0 (Nzola @5.0). NBA East-Final G3 Cavs-Knicks (02:00 So Berlin, Cleveland): Knicks 2-0 vorne + 9 Siege Serie, Cavs Heim-Pflichtsieg -> NBA nie SAFE (HR16), max wackel, Player-Punkte raus. Goldgrube-Maerkte aktiv gesucht: Torschuetzen Jederzeit (+20.5%), DC 1X (82.4%), Unter 2.5 (+22.8%). DC-CAP eingehalten (nur 1 DC: Celta 1X). 2:0-INSURANCE nirgends anwendbar (nur 1.BL+CL Sieg-Tipps - heute Pokal/LaLiga/Serie A/NBA). Kasse 550€ Stufe 1. Alle Quoten Aggregator-Stand 21.05. (DFB.de/Goal/ESPN/Polymarket/EasyOdds) - bei bet365 live pruefen.",
+  "spiele": [
+    {
+      "id": "2026-05-23-bay-vfb",
+      "liga": "DFB-Pokal-Final",
+      "matchday": "Finale",
+      "stage": "CUP_FINAL",
+      "heim": "FC Bayern Muenchen",
+      "gast": "VfB Stuttgart",
+      "anstoss": "2026-05-23T20:00:00+02:00",
+      "stadion": "Olympiastadion Berlin",
+      "saison_kontext": {
+        "parallel_heim": "keine - Bayern aus dem CL-Halbfinale ausgeschieden (06.05.), Bundesliga beendet (16.05.), danach Sommerpause; kein engtaktiger Wettbewerb",
+        "parallel_gast": "keine - Bundesliga beendet (16.05.), danach Sommerpause",
+        "saisonziel_heim": "Bayern bereits Deutscher Meister 2026 (35. Titel) - mit Pokalsieg waere das DOUBLE perfekt; sehr hohe Motivation, voller Kader",
+        "saisonziel_gast": "Stuttgart Titelverteidiger (Vorjahressieger), CL-Quali ueber Liga schon gesichert; will den Pokal verteidigen, Underdog-Mentalitaet",
+        "motivations_asymmetrie": "Bayern haushoher Favorit (~1.36) mit Double-Anreiz und voller Kader-Qualitaet gegen einen mutigen, aber klar unterlegenen Pokalverteidiger. Klare Klassen-Edge Bayern; einziges Gegengewicht ist die fuer Finals typische Knappheit + Knockout-Format (Verlaengerung moeglich).",
+        "recovery_heim": "7 Tage seit BL-Finale (4:0 vs Koeln 16.05.), voll erholt",
+        "recovery_gast": "7 Tage seit letztem BL-Spiel, voll erholt",
+        "quellen": [
+          "https://www.dfb.de/dfb-pokal/finale",
+          "https://www.bundesliga.com/de/bundesliga/news",
+          "https://fcbayern.com/de/news/2026/04/details-for-dfb-cup-final-in-berlin",
+          "https://www.goal.com/en-za/betting/tips/bayern-munich-vs-stuttgart-predictions-23-05-2026"
+        ]
+      },
+      "news": [
+        "DFB-Pokal-Final im Olympiastadion Berlin - Bayern 35. Pokalfinal-Teilnahme, Rekordsieger; Stuttgart Titelverteidiger",
+        "Bayern Double moeglich (Meister + Pokal) - hohe Motivation, voller Kader (nur Davies + Gnabry OUT, Neuer-Status offen)",
+        "Knockout-Format: bei Remis nach 90 Min Verlaengerung + Elfmeterschiessen - 'Sieg'-Markt bezieht sich auf 90 Min",
+        "2:0-Insurance gilt NICHT (nur 1.BL + CL Sieg-Tipps, dies ist Pokal-Final)",
+        "DFB-Pokal historisch eine der staerksten Wettbewerbs-Bilanzen im System (kein Beobachtungs-Status)",
+        "Quoten Aggregator-Stand: Bayern ~1.36, Remis ~4.5, Stuttgart ~7.5; Kane Tor ~1.85, Diaz ~2.5, Olise ~2.3 - bei bet365 live pruefen"
+      ],
+      "tipps": [
+        {
+          "id": "bay-vfb-1",
+          "kategorie": "value",
+          "markt": "Sieg FC Bayern Muenchen",
+          "quote": 1.36,
+          "edge_prozent": 4.0,
+          "begruendung": "Bayern haushoher Favorit mit Double-Motivation und voller Kader-Qualitaet gegen unterlegenen Pokalverteidiger Stuttgart. Nur 1 Niederlage in den letzten 24 Pflichtspielen. VALUE statt SAFE: Finals sind erfahrungsgemaess knapper als Liga-Spiele + 'Sieg' gilt nur fuer 90 Min (Verlaengerung-Risiko). Stake 1.5% x 550€ = 8,25€. Bei bet365 live pruefen.",
+          "faire_quote": 1.3,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 8.25
+        },
+        {
+          "id": "bay-vfb-2",
+          "kategorie": "value",
+          "markt": "Harry Kane trifft jederzeit",
+          "quote": 1.85,
+          "edge_prozent": 5.0,
+          "begruendung": "Goldgrube Torschuetzen Jederzeit (+20.5% ROI). Kane als Bayerns zentraler Stuermer + Standard-/Elfmeterschuetze gegen eine im Final-Druck verwundbare Stuttgart-Abwehr. Vereins-Zuordnung via fcbayern.com verifiziert (Squad ST). Caveat Lesson 21.05. (Klassen-Edge-Final, Tore verteilen sich teils auf Mittelfeld): daher VALUE statt SAFE. Aufstellung verifizieren. Stake 1.0% x 550€ = 5,50€. Bei bet365 live pruefen.",
+          "faire_quote": 1.72,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 5.5,
+          "_aufstellungs_verifikation_pflicht": true
+        },
+        {
+          "id": "bay-vfb-3",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.6,
+          "edge_prozent": 1.0,
+          "begruendung": "Bayern-Offensive vs offen spielender Underdog koennte Tore bringen (Aggregator Ueber 2.5 ~1.60). Final-Knappheit drueckt aber oft die Toranzahl -> wackel, NICHT in einzeltipps[]. Bei bet365 live pruefen.",
+          "faire_quote": 1.58,
+          "empfohlener_einsatz_prozent": 0.0,
+          "einsatz_euro": 0.0
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "3:0",
+        "halbzeit": "0:0",
+        "quelle": "WebSearch (ESPN/Flashscore/Fotmob/football-espana/Bundesliga.com/Inter.it/NBA.com) 24.05.2026"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "bay-vfb-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.36,
+          "kommentar": "Bayern gewinnt das DFB-Pokal-Final 3:0 - Double perfekt",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "bay-vfb-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.85,
+          "kommentar": "Kane mit lupenreinem HATTRICK (55., 80., 90+2 Elfmeter) - Torschuetzen-Goldgrube voll bestaetigt",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "bay-vfb-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.6,
+          "kommentar": "3 Tore = Ueber 2.5 erfuellt (war wackel/0-Einsatz)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "3:0",
+        "tore": [
+          {
+            "min": 55,
+            "team": "heim",
+            "spieler": "Harry Kane",
+            "stand_danach": "1:0",
+            "details": "Olise-Flanke von rechts abgefaelscht, Kane koepft ein"
+          },
+          {
+            "min": 80,
+            "team": "heim",
+            "spieler": "Harry Kane",
+            "stand_danach": "2:0",
+            "details": "Diaz-Zuspiel, Kane curlt ins lange Eck"
+          },
+          {
+            "min": 92,
+            "team": "heim",
+            "spieler": "Harry Kane",
+            "stand_danach": "3:0",
+            "details": "Elfmeter nach Handspiel Stiller (Olise-Flanke) - Hattrick"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Klare Bayern-Fuehrung ohne Gegenwehr im Ergebnis; 2:0-Insurance hier ohnehin N/A (Pokal-Final, nur 1.BL+CL)"
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Bayern",
+          "kein_team_zu_null": false,
+          "details": "HZ 0:0 torlos, alle 3 Bayern-Tore in 2.HZ; Stuttgart zu null"
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Olise",
+            "aus": null,
+            "minute": null,
+            "tor": false,
+            "assist": true,
+            "details": "Olise 2 Torvorlagen/Elfer-Herausholen - kein Boost-Trigger, da Kane selbst traf"
+          }
+        ],
+        "auffaellige_patterns": [
+          "Klassen-Edge-Final SAUBER aufgegangen: Headliner-Favorit Bayern + Kane-Hattrick - im Gegensatz zur Lesson 21.05. (Final-Tore verteilen sich) traf hier der Volume-9er dreifach.",
+          "Torschuetzen-Jederzeit-Goldgrube auf den fitten Top-Stuermer eines haushohen Favoriten = stabil; Kane als Elfmeterschuetze erhoeht Treffersicherheit."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-23-rma-ath",
+      "liga": "LaLiga",
+      "matchday": 38,
+      "stage": "REGULAR_SEASON",
+      "heim": "Real Madrid",
+      "gast": "Athletic Club",
+      "anstoss": "2026-05-23T21:00:00+02:00",
+      "stadion": "Santiago Bernabeu, Madrid",
+      "saison_kontext": {
+        "parallel_heim": "keine - LaLiga-Schlusstag, kein paralleles Spiel",
+        "parallel_gast": "keine - LaLiga-Schlusstag, kein paralleles Spiel",
+        "saisonziel_heim": "Vize-Meisterschaft hinter Barca bereits fix - kein Tabellen-Druck mehr; letztes Heimspiel der Saison im ausverkauften Bernabeu",
+        "saisonziel_gast": "Athletic im oberen Drittel/Europa-Bereich, am Schlusstag ohne grosse Tabellen-Bewegung; offensiv ausgebrannt (ohne Nico Williams, Sancet)",
+        "motivations_asymmetrie": "Real trotz langer Verletzungsliste (Valverde/Militao/Rodrygo/Ceballos/Mendy OUT, Mbappe zweifelhaft) klarer Heim-Favorit gegen ein ebenfalls dezimiertes Athletic (ohne Nico Williams + Berchiche-Sperre). Real-Qualitaet + Heimvorteil ueberwiegen; Tor-Hebel ist der fitte Vinicius statt des angeschlagenen Mbappe.",
+        "recovery_heim": "voll erholt, keine Doppelbelastung",
+        "recovery_gast": "voll erholt, keine Doppelbelastung",
+        "quellen": [
+          "https://www.laliga.com/en-GB/clubs/real-madrid",
+          "https://www.espn.com/soccer/match/_/gameId/748514/athletic-club-real-madrid",
+          "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/el-real-madrid-athletic-club-se-jugara-el-sabado-23-de-mayo-a-las-21-00-h",
+          "https://www.fotmob.com/matches/athletic-club-vs-real-madrid/2dil23"
+        ]
+      },
+      "news": [
+        "Real Madrid mit massiver Verletzungsliste (Valverde, Militao, Rodrygo, Ceballos, Mendy, Guler, Lunin OUT)",
+        "MBAPPE Hamstring-zweifelhaft - Endrick als Stammelf-Kandidat; Tor-Tipp daher auf den fitten Vinicius (HR3 Backup-Pflicht)",
+        "Athletic ohne Nico Williams (Knoechel), ohne Sancet, ohne Berchiche (Sperre) - offensiv geschwaecht",
+        "Vize-Meisterschaft fix - Real ohne Tabellen-Druck, aber letztes Heimspiel der Saison",
+        "Quoten Aggregator-Stand: Real ~1.36, Remis ~5.0, Athletic ~6.5; Vinicius Tor ~2.3, Endrick ~2.8 - bei bet365 live pruefen"
+      ],
+      "tipps": [
+        {
+          "id": "rma-ath-1",
+          "kategorie": "value",
+          "markt": "Sieg Real Madrid",
+          "quote": 1.36,
+          "edge_prozent": 3.0,
+          "begruendung": "Real trotz Verletzungssorgen klarer Heim-Favorit gegen ein ebenfalls dezimiertes Athletic (ohne Nico Williams + Berchiche). Heimvorteil + verbleibende Qualitaet (Vinicius, Bellingham, Courtois) ueberwiegen. VALUE statt SAFE wegen Schon-/Verletzungs-Unsicherheit am anreizlosen Schlusstag. Stake 1.0% x 550€ = 5,50€. Bei bet365 live pruefen.",
+          "faire_quote": 1.32,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 5.5
+        },
+        {
+          "id": "rma-ath-2",
+          "kategorie": "value",
+          "markt": "Vinicius Junior trifft jederzeit",
+          "quote": 2.3,
+          "edge_prozent": 6.0,
+          "begruendung": "Goldgrube Torschuetzen Jederzeit (+20.5% ROI). Mit Mbappe zweifelhaft uebernimmt der fitte Vinicius die Haupt-Tor-Last gegen eine ohne Nico Williams + Berchiche geschwaechte Athletic-Flanke. Vereins-Zuordnung via laliga.com verifiziert (Squad LF). Modell ~50% -> faire Quote ~2.0, bet365 ~2.30. Aufstellung verifizieren. Stake 1.0% x 550€ = 5,50€. Bei bet365 live pruefen.",
+          "faire_quote": 2.0,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 5.5,
+          "_aufstellungs_verifikation_pflicht": true
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "4:2",
+        "halbzeit": "2:1",
+        "quelle": "WebSearch (ESPN/Flashscore/Fotmob/football-espana/Bundesliga.com/Inter.it/NBA.com) 24.05.2026"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "rma-ath-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.36,
+          "kommentar": "Real gewinnt 4:2 - Heim-Favorit bestaetigt",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "rma-ath-2",
+          "status": "push",
+          "gewinn_faktor": 0.0,
+          "kommentar": "VOID: Vinicius wurde NICHT eingesetzt (Vereins-/Disziplinar-Sperre am Spieltag), Brahim Diaz stand STATT ihm in der Startelf und traf 88'. Einwechslungs-Boost greift NICHT (Boost nur wenn Tipp-Spieler selbst eingewechselt/ausgewechselt wird - Vinicius war nie auf dem Platz). bet365 wertet Torschuetzen-Tipp auf nicht-eingesetzten Spieler als void -> Einsatz zurueck",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "2:1",
+        "endstand": "4:2",
+        "tore": [
+          {
+            "min": 12,
+            "team": "heim",
+            "spieler": "Gonzalo Garcia",
+            "stand_danach": "1:0",
+            "details": "Carvajal-Flanke von rechts verwertet"
+          },
+          {
+            "min": 41,
+            "team": "heim",
+            "spieler": "Jude Bellingham",
+            "stand_danach": "2:0",
+            "details": "Linksschuss-Halbvolley"
+          },
+          {
+            "min": 46,
+            "team": "gast",
+            "spieler": "Gorka Guruzeta",
+            "stand_danach": "2:1",
+            "details": "Inaki-Williams-Flanke, HZ-Nachspielzeit"
+          },
+          {
+            "min": 51,
+            "team": "heim",
+            "spieler": "Kylian Mbappe",
+            "stand_danach": "3:1",
+            "details": "Carreras-Zuspiel - Mbappe spielte trotz Hamstring-Zweifel UND traf"
+          },
+          {
+            "min": 88,
+            "team": "heim",
+            "spieler": "Brahim Diaz",
+            "stand_danach": "4:1",
+            "details": "Brahim ersetzte den gesperrten Vinicius in der Startelf"
+          },
+          {
+            "min": 91,
+            "team": "gast",
+            "spieler": "Urko Izeta",
+            "stand_danach": "4:2",
+            "details": "Nachspielzeit"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Real durchgehend vorne, kein gekippter 2-Tore-Vorsprung"
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": true,
+          "halbzeit_endstand": "Real/Real",
+          "kein_team_zu_null": true,
+          "details": "6-Tore-Festival, Ueber 5.5 erreicht; BTTS JA"
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Vinicius Junior",
+            "details": "OUT per Vereins-/Disziplinar-Entscheidung - NICHT im Kader. Dossier hatte ihn als 'fit' (statt Mbappe) getippt -> Roster-Verifikations-Fehler"
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "ROSTER-FALLE: Dossier wechselte bewusst von Mbappe (Hamstring-zweifelhaft) auf Vinicius (angenommen fit) - real war es genau umgekehrt: Mbappe spielte + traf (51.), Vinicius gesperrt + null Einsatz. Genau der falsche der beiden.",
+          "Brahim Diaz (Vinicius-Ersatz in Startelf) traf 88' - aber KEIN Einwechslungs-Boost, da Vinicius nie spielte (Boost-Mechanik verlangt Auswechslung des Tipp-Spielers).",
+          "Tor-Festival 4:2 - Real-Heim-Schlusstag offensiv trotz Vize-ohne-Druck."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-23-val-fcb",
+      "liga": "LaLiga",
+      "matchday": 38,
+      "stage": "REGULAR_SEASON",
+      "heim": "Valencia CF",
+      "gast": "FC Barcelona",
+      "anstoss": "2026-05-23T21:00:00+02:00",
+      "stadion": "Mestalla, Valencia",
+      "saison_kontext": {
+        "parallel_heim": "keine - LaLiga-Schlusstag, kein paralleles Spiel",
+        "parallel_gast": "keine - LaLiga-Schlusstag, kein paralleles Spiel",
+        "saisonziel_heim": "Valencia im gesicherten Mittelfeld, Klassenerhalt laengst fix - am Schlusstag ohne sportlichen Anreiz",
+        "saisonziel_gast": "Barcelona Meister 2025/26 (seit 10.05.) - Saison-Auslauf, aber Lewandowski-Abschiedsspiel als emotionale Sonder-Motivation",
+        "motivations_asymmetrie": "Beide ohne Tabellen-Druck, ABER Barca ist sportlich klar ueberlegen: 5-0-Bilanz in den letzten 5 H2H + 6:0 im Hinspiel. Die Klassen-Edge Barca ueberwiegt die Schlusstag-Lockerheit -> Barca-Sieg ist der Wert, nicht ein Valencia-Edge. Lewandowski-Abschied stuetzt das Tor-Thema (aber auf den Geehrten selbst nur als wackel, Lesson 18.05.).",
+        "recovery_heim": "voll erholt",
+        "recovery_gast": "voll erholt - kein CL/EL-Stress",
+        "quellen": [
+          "https://www.laliga.com/en-GB/clubs/valencia",
+          "https://www.goal.com/en-za/betting/tips/valencia-vs-barcelona-predictions-23-05-2026",
+          "https://www.squawka.com/en/news/match-preview-valencia-vs-barcelona-23-05-26-la-liga/",
+          "https://www.fotmob.com/matches/barcelona-vs-valencia/2ycx1d"
+        ]
+      },
+      "news": [
+        "Lewandowski letztes Barca-Spiel - Flick plant Sonder-Auftritt, Tor-Markt-Hot-Pick (aber 'Geehrter-trifft' historisch ueberbewertet, Lesson 18.05.)",
+        "Yamal Saison-OUT (Hamstring, WM-Schonung) - Raphinha + Olmo + Ferran ruecken auf",
+        "Barca 5-0 in den letzten 5 H2H gegen Valencia + 6:0 im Hinspiel - klare Dominanz",
+        "Valencia laengst gerettet, ohne sportlichen Anreiz am Schlusstag",
+        "Quoten Aggregator-Stand: Barca ~1.83, Remis ~4.2, Valencia ~4.5; Lewandowski Tor ~2.1, Raphinha ~2.3 - bei bet365 live pruefen"
+      ],
+      "tipps": [
+        {
+          "id": "val-fcb-1",
+          "kategorie": "value",
+          "markt": "Sieg FC Barcelona",
+          "quote": 1.83,
+          "edge_prozent": 5.0,
+          "begruendung": "Barca sportlich klar ueberlegen (5-0 in letzten 5 H2H, 6:0 im Hinspiel) gegen ein anreizloses Valencia. Auch im Saison-Auslauf reicht Barcas Qualitaet plus Lewandowski-Abschieds-Motivation meist zum Auswaertssieg. Betfair-implizit 54.5% -> faire Quote ~1.75, bet365 ~1.83 = Wert. Stake 1.0% x 550€ = 5,50€. Bei bet365 live pruefen.",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 5.5
+        },
+        {
+          "id": "val-fcb-2",
+          "kategorie": "wackel",
+          "markt": "Robert Lewandowski trifft jederzeit",
+          "quote": 2.1,
+          "edge_prozent": 2.0,
+          "begruendung": "Moonshot-Bein: Lewandowski-Abschiedsspiel, Flick will ihn glaenzen lassen. Lesson 18.05. (Tor-Markt auf Geehrten ueberbewertet - Mitspieler legen oft auf statt selbst zu treffen) -> nur wackel. Vereins-Zuordnung via laliga.com verifiziert (Squad ST). NICHT in einzeltipps[]. Bei bet365 live pruefen.",
+          "faire_quote": 2.05,
+          "empfohlener_einsatz_prozent": 0.0,
+          "einsatz_euro": 0.0
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "3:1",
+        "halbzeit": "0:0",
+        "quelle": "WebSearch (ESPN/Flashscore/Fotmob/football-espana/Bundesliga.com/Inter.it/NBA.com) 24.05.2026"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "val-fcb-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Barca verliert 1:3 - Valencia dreht das Spiel in der 2.HZ. Klassen-Edge-These am anreizlosen Schlusstag widerlegt",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "val-fcb-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.1,
+          "kommentar": "Lewandowski trifft im Abschiedsspiel (61., 119. Barca-Tor) - Geehrter-trifft hier doch aufgegangen (war bewusst nur wackel/Moonshot-Bein)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "3:1",
+        "tore": [
+          {
+            "min": 61,
+            "team": "gast",
+            "spieler": "Robert Lewandowski",
+            "stand_danach": "0:1",
+            "details": "Ferran-Torres-Volley abgefaelscht, Lewa lenkt rein - Abschiedstor"
+          },
+          {
+            "min": 66,
+            "team": "heim",
+            "spieler": "Javi Guerra",
+            "stand_danach": "1:1",
+            "details": "feiner Abschluss"
+          },
+          {
+            "min": 70,
+            "team": "heim",
+            "spieler": "Luis Rioja",
+            "stand_danach": "2:1",
+            "details": "Linksschuss nach Guerra-Vorarbeit"
+          },
+          {
+            "min": 93,
+            "team": "heim",
+            "spieler": "Guido Rodriguez",
+            "stand_danach": "3:1",
+            "details": "aus der Distanz in der Nachspielzeit"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Barca fuehrte nur 0:1 (1-Tor) - Valencia drehte mit 3 Toren in 2.HZ, aber kein gekippter 2-Tore-Vorsprung -> streng-algorithmisch keine Drehung, faktisch klares Comeback"
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Valencia",
+          "kein_team_zu_null": true,
+          "details": "alle 4 Tore in 2.HZ, HZ 0:0"
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Lamine Yamal",
+            "details": "Saison-OUT (Hamstring/WM-Schonung) - Barca-Offensive ohne Hauptdribbler"
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "SCHLUSSTAG-VARIANZ-FALLE: anreizloses Valencia (gerettet) drehte gegen den Meister Barca 3:1 - Klassen-Edge-Sieg-These am Saison-Auslauf erneut riskant (vgl. Heim-Festung-Downgrade-Lessons).",
+          "Lewandowski-Abschiedstor traf trotz Lesson 18.05. - Karriere-Highlight-Tor-Markt hier doch geliefert (kleines Sample, kein Lesson-Reset)."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-23-cel-sev",
+      "liga": "LaLiga",
+      "matchday": 38,
+      "stage": "REGULAR_SEASON",
+      "heim": "Celta de Vigo",
+      "gast": "Sevilla FC",
+      "anstoss": "2026-05-23T21:00:00+02:00",
+      "stadion": "Balaidos, Vigo",
+      "saison_kontext": {
+        "parallel_heim": "keine - LaLiga-Schlusstag, kein paralleles Spiel",
+        "parallel_gast": "keine - LaLiga-Schlusstag, kein paralleles Spiel",
+        "saisonziel_heim": "Celta im Europa-Quali-Bereich (zuletzt Top-7) - greifbares Saisonziel im eigenen Stadion, klarer Heim-Favorit (Polymarket 55%)",
+        "saisonziel_gast": "Sevilla im unteren Mittelfeld, Klassenerhalt laengst fix - am Schlusstag ohne sportlichen Anreiz",
+        "motivations_asymmetrie": "Celta zuhause Favorit mit Europa-Motivation, Sevilla reist im Mittelfeld-Auslauf ohne Anreiz an. Klare Tabellen- und Motivations-Asymmetrie zugunsten Celta -> DC 1X als robusteste Edge, dazu Iago Aspas im Tor-Markt.",
+        "recovery_heim": "voll erholt",
+        "recovery_gast": "voll erholt",
+        "quellen": [
+          "https://www.laliga.com/en-GB/clubs/celta-vigo",
+          "https://www.sportsgambler.com/betting-tips/football/celta-vigo-vs-sevilla-prediction-lineups-odds-2026-05-23/",
+          "https://www.forebet.com/en/football/matches/celta-vigo-sevilla-2316803"
+        ]
+      },
+      "news": [
+        "Celta im Europa-Quali-Bereich (Polymarket 55% Heimsieg) - Sevilla ohne Anreiz im Saison-Auslauf",
+        "Iago Aspas (Celta-Legende) + Borja Iglesias als Tor-Optionen zuhause",
+        "Quoten Aggregator-Stand: Celta ~1.75, Remis ~3.8, Sevilla ~4.5; DC 1X ~1.27, Aspas Tor ~2.4 - bei bet365 live pruefen"
+      ],
+      "tipps": [
+        {
+          "id": "cel-sev-1",
+          "kategorie": "safe",
+          "markt": "Celta de Vigo oder Unentschieden (Doppelte Chance 1X)",
+          "quote": 1.27,
+          "edge_prozent": 4.0,
+          "begruendung": "Sicherster Tipp des Tages: Goldgrube DC 1X (82.4% Hitrate). Celta zuhause Favorit (Polymarket 55%) mit Europa-Motivation, Sevilla im Mittelfeld-Auslauf ohne Anreiz. Aus Celta-Sieg ~1.75 + Remis ~3.8 ergibt sich faire DC-1X-Quote ~1.22; bet365 ~1.27. Offensives Edge-Signal via Celta-Sieg + Aspas-Tor im Spiel vorhanden. Stake 2.0% x 550€ = 11€. Bei bet365 live pruefen.",
+          "faire_quote": 1.22,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_euro": 11.0
+        },
+        {
+          "id": "cel-sev-2",
+          "kategorie": "value",
+          "markt": "Sieg Celta de Vigo",
+          "quote": 1.75,
+          "edge_prozent": 3.0,
+          "begruendung": "Celta zuhause Favorit + Europa-Motivation gegen anreizloses Sevilla (Polymarket 55%). Faire Quote ~1.70. Dient zugleich als offensives Edge-Signal (Markt-Mix-Pflicht erfuellt). Stake 1.0% x 550€ = 5,50€. Bei bet365 live pruefen.",
+          "faire_quote": 1.7,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 5.5
+        },
+        {
+          "id": "cel-sev-3",
+          "kategorie": "value",
+          "markt": "Iago Aspas trifft jederzeit",
+          "quote": 2.4,
+          "edge_prozent": 4.0,
+          "begruendung": "Goldgrube Torschuetzen Jederzeit (+20.5% ROI). Aspas als Celta-Hauptstuermer/Legende zuhause gegen anreizloses Sevilla. Vereins-Zuordnung via laliga.com verifiziert (Squad ST/OM). Faire Quote ~2.25, bet365 ~2.40. Moonshot-Kombi-Bein + Einzel-Option. Aufstellung verifizieren. Stake 1.0% x 550€ = 5,50€. Bei bet365 live pruefen.",
+          "faire_quote": 2.25,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 5.5,
+          "_aufstellungs_verifikation_pflicht": true
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "1:0",
+        "halbzeit": "0:0",
+        "quelle": "WebSearch (ESPN/Flashscore/Fotmob/football-espana/Bundesliga.com/Inter.it/NBA.com) 24.05.2026"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "cel-sev-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.27,
+          "kommentar": "Celta gewinnt 1:0 -> DC 1X erfuellt. Goldgrube DC 1X erneut bestaetigt (sicherster Tipp des Tages)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "cel-sev-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.75,
+          "kommentar": "Celta-Sieg 1:0 - Europa-League-Quali gesichert",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "cel-sev-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Aspas trifft NICHT (Vorlage zu Carreira-Chance, dann Standing Ovation). KEIN Boost: einziges Tor Moriba 51' fiel VOR Aspas-Auswechslung (65., fuer Jutgla); Ersatz Jutgla traf nicht",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "1:0",
+        "tore": [
+          {
+            "min": 51,
+            "team": "heim",
+            "spieler": "Ilaix Moriba",
+            "stand_danach": "1:0",
+            "details": "umstrittene Szene, Anfang 2.HZ"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "knapper Heimsieg ohne Rueckstand"
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Celta",
+          "kein_team_zu_null": false,
+          "details": "1:0 - Unter 2.5/1.5, Sevilla zu null"
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Goldgrube DC 1X (Heim-Favorit mit Saisonziel vs anreizloser Gast) erneut sauber - das robusteste Edge-Profil im System.",
+          "Boost-Mechanik-Praezisierung bestaetigt: Tor VOR Auswechslung des Tipp-Spielers loest keinen Boost aus - Timing-Filter (Lesson 18.05.) greift."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-23-mal-ovi",
+      "liga": "LaLiga",
+      "matchday": 38,
+      "stage": "REGULAR_SEASON",
+      "heim": "RCD Mallorca",
+      "gast": "Real Oviedo",
+      "anstoss": "2026-05-23T21:00:00+02:00",
+      "stadion": "Estadi de Son Moix, Palma",
+      "saison_kontext": {
+        "parallel_heim": "keine - LaLiga-Schlusstag, kein paralleles Spiel",
+        "parallel_gast": "keine - LaLiga-Schlusstag, kein paralleles Spiel",
+        "saisonziel_heim": "Mallorca im Klassenerhalts-Kampf (ca. 38 Pkt, knapp ueber dem Strich) - braucht zuhause Punkte zum sicheren Verbleib; hoher Druck",
+        "saisonziel_gast": "Real Oviedo Platz 20 (29 Pkt), bereits abgestiegen - am Schlusstag ohne sportliches Ziel",
+        "motivations_asymmetrie": "Mallorca muss zuhause liefern (Klassenerhalt), Oviedo ist bereits unten und reist ohne Anreiz an - eine der klarsten Motivations-Asymmetrien des Tages. Mallorca Heim-Favorit, Vedat Muriqi (22 Saisontore, 2. der Pichichi-Wertung) als Tor-Hebel.",
+        "recovery_heim": "voll erholt",
+        "recovery_gast": "voll erholt - kein Druck",
+        "quellen": [
+          "https://www.laliga.com/en-GB/clubs/rcd-mallorca",
+          "https://easyodds.com/mallorca-vs-real-oviedo-betting-odds-tips-predictions-preview-23rd-may-2026",
+          "https://www.foxsports.com/articles/soccer/mallorcas-vedat-muriqi-moves-2-goals-behind-kylian-mbappe-in-la-liga-scoring-charts"
+        ]
+      },
+      "news": [
+        "Mallorca Klassenerhalts-Spiel (ca. 38 Pkt knapp ueber dem Strich) gegen bereits abgestiegenes Oviedo (20., 29 Pkt)",
+        "Vedat Muriqi mit 22 Saisontoren 2. im Pichichi-Rennen hinter Mbappe - zentraler Tor-Hebel",
+        "Aggregator: Unter 2.5 leicht favorisiert (~1.72), wahrscheinlichstes Ergebnis 1:0/2:0",
+        "Quoten Aggregator-Stand: Mallorca ~1.65, Remis ~3.8/4.1, Oviedo ~5.0; Muriqi Tor ~2.4 - bei bet365 live pruefen"
+      ],
+      "tipps": [
+        {
+          "id": "mal-ovi-1",
+          "kategorie": "value",
+          "markt": "Sieg RCD Mallorca",
+          "quote": 1.65,
+          "edge_prozent": 4.0,
+          "begruendung": "Klare Motivations-Asymmetrie: Mallorca braucht zuhause den Klassenerhalts-Sieg, Oviedo ist bereits abgestiegen und ohne Anreiz. Mallorca Buchmacher-Favorit. Caveat: abgestiegene Teams spielen manchmal befreit auf (Saisonende-Varianz) -> VALUE statt SAFE. Faire Quote ~1.58. Stake 1.0% x 550€ = 5,50€. Bei bet365 live pruefen.",
+          "faire_quote": 1.58,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 5.5
+        },
+        {
+          "id": "mal-ovi-2",
+          "kategorie": "value",
+          "markt": "Vedat Muriqi trifft jederzeit",
+          "quote": 2.4,
+          "edge_prozent": 5.0,
+          "begruendung": "Goldgrube Torschuetzen Jederzeit (+20.5% ROI). Muriqi (22 Saisontore, Pichichi-2.) als zentraler Stuermer im Klassenerhalts-Pflichtsieg gegen die abgestiegene Liga-Schluss-Abwehr. Vereins-Zuordnung via laliga.com verifiziert (Squad ST). Faire Quote ~2.15, bet365 ~2.40. Aufstellung verifizieren. Stake 1.0% x 550€ = 5,50€. Bei bet365 live pruefen.",
+          "faire_quote": 2.15,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 5.5,
+          "_aufstellungs_verifikation_pflicht": true
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "3:0",
+        "halbzeit": null,
+        "quelle": "WebSearch (ESPN/Flashscore/Fotmob/football-espana/Bundesliga.com/Inter.it/NBA.com) 24.05.2026"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "mal-ovi-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.65,
+          "kommentar": "Mallorca gewinnt 3:0 (Klassenerhalts-Pflichtsieg erfuellt - trotzdem abgestiegen wg. anderer Ergebnisse mit 42 Pkt)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "mal-ovi-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.4,
+          "kommentar": "Muriqi trifft 88' (23. Saisontor) - Torschuetzen-Goldgrube; bester Einzel-Gewinn des Tages (@2.40)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": null,
+        "endstand": "3:0",
+        "tore": [
+          {
+            "min": 88,
+            "team": "heim",
+            "spieler": "Vedat Muriqi",
+            "stand_danach": "3:0",
+            "details": "aus kurzer Distanz, 23. Saisontor"
+          },
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": null,
+            "stand_danach": null,
+            "details": "2 weitere Mallorca-Tore - Schuetzen/Minuten in Recherche nicht aufgeloest (Datenluecke)"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "klarer Heimsieg ohne Rueckstand"
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": null,
+          "kein_team_zu_null": false,
+          "details": "3:0, Oviedo zu null; HZ-Stand nicht recherchierbar"
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Klassenerhalts-Druck-Heim vs bereits abgestiegener Gast = 3:0 Pflichtsieg + Volume-9er-Tor - Motivations-Asymmetrie sauber aufgegangen.",
+          "Tragik-Note: Mallorca trotz Sieg mit 42 Pkt abgestiegen (hoechster Absteiger-Punktestand seit Jahren) - kein Wett-Effekt, nur Kontext."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-23-bet-lev",
+      "liga": "LaLiga",
+      "matchday": 38,
+      "stage": "REGULAR_SEASON",
+      "heim": "Real Betis",
+      "gast": "Levante UD",
+      "anstoss": "2026-05-23T21:00:00+02:00",
+      "stadion": "Estadio de La Cartuja, Sevilla",
+      "saison_kontext": {
+        "parallel_heim": "keine - LaLiga-Schlusstag, kein paralleles Spiel",
+        "parallel_gast": "keine - LaLiga-Schlusstag, kein paralleles Spiel",
+        "saisonziel_heim": "Betis im oberen Europa-Quali-Bereich - klarer Heim-Favorit (~1.55)",
+        "saisonziel_gast": "Levante neu-aufgestiegen 2025/26, im Abstiegs-/Auslauf-Bereich nach schwieriger Saison",
+        "motivations_asymmetrie": "Betis zuhause klar ueberlegen gegen einen kaempfenden Aufsteiger - die Klassen-Edge liegt deutlich beim Heimteam. Betis-Sieg ist der Wert, Cedric Bakambu als Tor-Option.",
+        "recovery_heim": "voll erholt",
+        "recovery_gast": "voll erholt",
+        "quellen": [
+          "https://www.laliga.com/en-GB/clubs/real-betis",
+          "https://www.sportsgambler.com/betting-tips/football/real-betis-vs-levante-prediction-lineups-odds-2026-05-23/",
+          "https://www.squawka.com/en/news/match-preview-real-betis-vs-levante-23-05-26-la-liga/"
+        ]
+      },
+      "news": [
+        "Betis klarer Heim-Favorit (~1.55) gegen Aufsteiger Levante",
+        "Cedric Bakambu + Isco als Betis-Offensiv-Optionen zuhause",
+        "Quoten Aggregator-Stand: Betis ~1.55, Remis ~4.0, Levante ~5.5; Bakambu Tor ~2.3 - bei bet365 live pruefen"
+      ],
+      "tipps": [
+        {
+          "id": "bet-lev-1",
+          "kategorie": "value",
+          "markt": "Sieg Real Betis",
+          "quote": 1.55,
+          "edge_prozent": 3.0,
+          "begruendung": "Betis zuhause klar ueberlegen (~1.55) gegen kaempfenden Aufsteiger Levante; Klassen-Edge + Heimvorteil. Faire Quote ~1.50. Balance-Kombi-Bein. Stake 1.0% x 550€ = 5,50€. Bei bet365 live pruefen.",
+          "faire_quote": 1.5,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 5.5
+        },
+        {
+          "id": "bet-lev-2",
+          "kategorie": "wackel",
+          "markt": "Cedric Bakambu trifft jederzeit",
+          "quote": 2.3,
+          "edge_prozent": 2.0,
+          "begruendung": "Torschuetzen-Option Betis zuhause. Vereins-Zuordnung via laliga.com verifiziert (Squad ST). Saison-Schlusstag-Varianz -> wackel, NICHT in einzeltipps[]. Bei bet365 live pruefen.",
+          "faire_quote": 2.25,
+          "empfohlener_einsatz_prozent": 0.0,
+          "einsatz_euro": 0.0
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "2:1",
+        "halbzeit": "1:1",
+        "quelle": "WebSearch (ESPN/Flashscore/Fotmob/football-espana/Bundesliga.com/Inter.it/NBA.com) 24.05.2026"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "bet-lev-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.55,
+          "kommentar": "Betis gewinnt 2:1 - Klassen-Edge Heim-Favorit bestaetigt",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "bet-lev-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Bakambu trifft NICHT - war nur Ersatzbank (kein Startelf-Einsatz). KEIN Boost moeglich (Boost nur wenn Tipp-Spieler ausgewechselt wird, nicht wenn er selbst Joker ist). Betis-Tore: Abde 5', Fornals 68'",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:1",
+        "endstand": "2:1",
+        "tore": [
+          {
+            "min": 5,
+            "team": "heim",
+            "spieler": "Abde Ezzalzouli",
+            "stand_danach": "1:0",
+            "details": "frueher Treffer"
+          },
+          {
+            "min": 46,
+            "team": "gast",
+            "spieler": "Carlos Espi",
+            "stand_danach": "1:1",
+            "details": "HZ-Nachspielzeit (45+1)"
+          },
+          {
+            "min": 68,
+            "team": "heim",
+            "spieler": "Pablo Fornals",
+            "stand_danach": "2:1",
+            "details": "Siegtreffer 2.HZ"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "kein 2-Tore-Vorsprung gekippt"
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Betis",
+          "kein_team_zu_null": true,
+          "details": "3 Tore, BTTS JA"
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Bakambu-Tor-Tipp scheiterte am Aufstellungs-Risiko (Startelf-Stuermer war Cucho) - bestaetigt Aufstellungs-Verifikations-Pflicht; war zurecht nur wackel/0-Einsatz."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-23-gir-elc",
+      "liga": "LaLiga",
+      "matchday": 38,
+      "stage": "REGULAR_SEASON",
+      "heim": "Girona FC",
+      "gast": "Elche CF",
+      "anstoss": "2026-05-23T21:00:00+02:00",
+      "stadion": "Montilivi, Girona",
+      "saison_kontext": {
+        "parallel_heim": "keine - LaLiga-Schlusstag, kein paralleles Spiel",
+        "parallel_gast": "keine - LaLiga-Schlusstag, kein paralleles Spiel",
+        "saisonziel_heim": "Girona im Klassenerhalts-Bereich (ca. 38 Pkt) - braucht Punkte zur Sicherheit",
+        "saisonziel_gast": "Elche Aufsteiger im Abstiegs-Bereich - Existenz-Druck",
+        "motivations_asymmetrie": "Beidseitiger Abstiegs-/Existenz-Druck mit nur leichtem Girona-Heimvorteil (~2.10) - kein klarer Sieg-Favorit. Solche Abstiegs-Duelle sind erfahrungsgemaess nervoes und tor-arm -> Wert liegt im Unter-Markt, nicht im Sieg.",
+        "recovery_heim": "voll erholt",
+        "recovery_gast": "voll erholt",
+        "quellen": [
+          "https://www.laliga.com/en-GB/clubs/girona",
+          "https://www.sportsgambler.com/betting-tips/football/girona-vs-elche-prediction-lineups-odds-2026-05-23/",
+          "https://www.wincomparator.com/predictions/girona-elche-7687680/"
+        ]
+      },
+      "news": [
+        "Abstiegs-Duell zweier Aufsteiger/Klassenerhalts-Kandidaten - nervoeses, tor-armes Profil erwartet",
+        "Markt favorisiert Unter 2.5 (~1.75)",
+        "Quoten Aggregator-Stand: Girona ~2.10, Remis ~3.4, Elche ~3.4; Unter 2.5 ~1.75, Stuani Tor ~2.6 - bei bet365 live pruefen"
+      ],
+      "tipps": [
+        {
+          "id": "gir-elc-1",
+          "kategorie": "value",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.75,
+          "edge_prozent": 4.0,
+          "begruendung": "Goldgrube Unter 2.5 (60% Hitrate / +22.8% ROI) + Spiel-Profil: nervoeses Abstiegs-Duell mit beidseitigem Existenz-Druck, kein klarer Sieg-Favorit -> defensives, vorsichtiges Spiel wahrscheinlich. Markt favorisiert Unter (~1.75). Faire Quote ~1.65. Stake 1.0% x 550€ = 5,50€. Bei bet365 live pruefen.",
+          "faire_quote": 1.65,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 5.5
+        },
+        {
+          "id": "gir-elc-2",
+          "kategorie": "wackel",
+          "markt": "Cristhian Stuani trifft jederzeit",
+          "quote": 2.6,
+          "edge_prozent": 2.0,
+          "begruendung": "Moonshot-Bein: Stuani als Girona-Stuermer im Heim-Druckspiel. Vereins-Zuordnung via laliga.com verifiziert (Squad ST). Tor-armes Spiel-Profil -> wackel, NICHT in einzeltipps[]. Bei bet365 live pruefen.",
+          "faire_quote": 2.55,
+          "empfohlener_einsatz_prozent": 0.0,
+          "einsatz_euro": 0.0
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "1:1",
+        "halbzeit": "0:1",
+        "quelle": "WebSearch (ESPN/Flashscore/Fotmob/football-espana/Bundesliga.com/Inter.it/NBA.com) 24.05.2026"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "gir-elc-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.75,
+          "kommentar": "1:1 = 2 Tore -> Unter 2.5 erfuellt. Goldgrube Unter 2.5 + nervoeses-Abstiegs-Duell-These bestaetigt",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "gir-elc-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Stuani trifft NICHT - Girona-Tor durch Verteidiger Arnau Martinez (48.). Kein Boost (Stuani-Auswechslung+Ersatz-Tor nicht belegt; einziges Tor von Defender)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "1:1",
+        "tore": [
+          {
+            "min": 39,
+            "team": "gast",
+            "spieler": "Alvaro Rodriguez",
+            "stand_danach": "0:1",
+            "details": "nach Bigas-Kopfball"
+          },
+          {
+            "min": 48,
+            "team": "heim",
+            "spieler": "Arnau Martinez",
+            "stand_danach": "1:1",
+            "details": "Verteidiger-Tor Anfang 2.HZ"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "nur 1-Tor-Differenz, Ausgleich"
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Elche/Unentschieden",
+          "kein_team_zu_null": true,
+          "details": "2 Tore, Unter 2.5; Girona steigt durch Remis ab, Elche bleibt drin"
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Abstiegs-Existenz-Duell tor-arm (1:1) wie erwartet - Unter-2.5-These bei beidseitigem Druck ohne klaren Favoriten erneut korrekt (Lesson 22.05. Dead-Rubber/Druck-Spiel tor-arm)."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-23-get-osa",
+      "liga": "LaLiga",
+      "matchday": 38,
+      "stage": "REGULAR_SEASON",
+      "heim": "Getafe CF",
+      "gast": "CA Osasuna",
+      "anstoss": "2026-05-23T21:00:00+02:00",
+      "stadion": "Coliseum, Getafe",
+      "saison_kontext": {
+        "parallel_heim": "keine - LaLiga-Schlusstag, kein paralleles Spiel",
+        "parallel_gast": "keine - LaLiga-Schlusstag, kein paralleles Spiel",
+        "saisonziel_heim": "Getafe im gesicherten Mittelfeld - sehr defensives, tor-armes Profil",
+        "saisonziel_gast": "Osasuna im Mittelfeld, am Schlusstag ohne grosses Ziel",
+        "motivations_asymmetrie": "Coinflip (Polymarket 39/36/26), kein klarer Favorit; beide Teams ohne grossen Anreiz. Getafes wenig-Tore-Profil deutet auf Unter-Markt.",
+        "recovery_heim": "voll erholt",
+        "recovery_gast": "voll erholt",
+        "quellen": [
+          "https://www.laliga.com/en-GB/clubs/getafe",
+          "https://www.football-espana.net/2026/05/17/la-liga-final-weekend-explained-five-teams-in-relegation-battle-five-remain-in-european-race"
+        ]
+      },
+      "news": [
+        "Coinflip-Spiel (Polymarket 39/36/26) - kein klarer Favorit, beide Mittelfeld",
+        "Getafe sehr defensiv (Unter 2.5 ~1.55 favorisiert)",
+        "Quoten Aggregator-Stand: Getafe ~2.50, Remis ~2.70, Osasuna ~3.50 - bei bet365 live pruefen"
+      ],
+      "tipps": [
+        {
+          "id": "get-osa-1",
+          "kategorie": "wackel",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.55,
+          "edge_prozent": 1.5,
+          "begruendung": "Getafe defensivstes Profil der Liga, beide Teams am Schlusstag ohne Tor-Druck -> Unter-Tendenz (Markt ~1.55). Coinflip-Spiel -> wackel, NICHT in einzeltipps[]. Bei bet365 live pruefen.",
+          "faire_quote": 1.52,
+          "empfohlener_einsatz_prozent": 0.0,
+          "einsatz_euro": 0.0
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "1:0",
+        "halbzeit": "0:0",
+        "quelle": "WebSearch (ESPN/Flashscore/Fotmob/football-espana/Bundesliga.com/Inter.it/NBA.com) 24.05.2026"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "get-osa-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.55,
+          "kommentar": "1:0 = Unter 2.5 erfuellt (war wackel/0-Einsatz, Coinflip). Getafe-Defensiv-Profil bestaetigt",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "1:0",
+        "tore": [
+          {
+            "min": 59,
+            "team": "heim",
+            "spieler": "Luis Milla",
+            "stand_danach": "1:0",
+            "details": "2.HZ-Treffer"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "knapper Heimsieg"
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Getafe",
+          "kein_team_zu_null": false,
+          "details": "1:0, Osasuna zu null, Unter 2.5"
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Getafe-Defensiv-Profil + Schlusstag ohne Anreiz = tor-armes 1:0, Unter-Markt korrekt."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-23-esp-rso",
+      "liga": "LaLiga",
+      "matchday": 38,
+      "stage": "REGULAR_SEASON",
+      "heim": "RCD Espanyol",
+      "gast": "Real Sociedad",
+      "anstoss": "2026-05-23T21:00:00+02:00",
+      "stadion": "RCDE Stadium, Barcelona",
+      "saison_kontext": {
+        "parallel_heim": "keine - LaLiga-Schlusstag, kein paralleles Spiel",
+        "parallel_gast": "keine - LaLiga-Schlusstag, kein paralleles Spiel",
+        "saisonziel_heim": "Espanyol Klassenerhalt sicher (ca. 39 Pkt) - ohne grossen Anreiz am Schlusstag",
+        "saisonziel_gast": "Real Sociedad im Mittelfeld, am Schlusstag ohne grosses Ziel",
+        "motivations_asymmetrie": "Coinflip (Polymarket 39/28/34), kein klarer Favorit, beide ohne Anreiz im Saison-Auslauf -> Analyse, kein Einzel-Tipp (Coinflip-Empfehlung: ueberspringen).",
+        "recovery_heim": "voll erholt",
+        "recovery_gast": "voll erholt",
+        "quellen": [
+          "https://www.laliga.com/en-GB/clubs/espanyol",
+          "https://www.football-espana.net/2026/05/17/la-liga-final-weekend-explained-five-teams-in-relegation-battle-five-remain-in-european-race"
+        ]
+      },
+      "news": [
+        "Coinflip-Spiel (Polymarket 39/28/34) - kein klarer Favorit, beide ohne Anreiz",
+        "Analyse-Spiel: kein Einzel-Tipp (Coinflip -> ueberspringen empfohlen)"
+      ],
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "1:1",
+        "halbzeit": null,
+        "quelle": "WebSearch (ESPN/Flashscore/Fotmob/football-espana/Bundesliga.com/Inter.it/NBA.com) 24.05.2026"
+      },
+      "tipps_ergebnis": [],
+      "volle_analyse": {
+        "halbzeit_stand": null,
+        "endstand": "1:1",
+        "tore": [
+          {
+            "min": 65,
+            "team": "heim",
+            "spieler": "Roberto Fernandez",
+            "stand_danach": null,
+            "details": "Pere-Milla-Vorlage"
+          },
+          {
+            "min": null,
+            "team": "gast",
+            "spieler": null,
+            "stand_danach": null,
+            "details": "Real-Sociedad-Ausgleich - Schuetze/Minute in Recherche nicht aufgeloest (Datenluecke)"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "1:1, kein 2-Tore-Vorsprung"
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": null,
+          "kein_team_zu_null": true,
+          "details": "Coinflip-Remis (kein Tipp abgegeben) - Unter 2.5 waere aufgegangen"
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Coinflip-Skip korrekt - 1:1 Remis ohne klaren Sieger, kein verschenkter Edge."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-23-ala-ray",
+      "liga": "LaLiga",
+      "matchday": 38,
+      "stage": "REGULAR_SEASON",
+      "heim": "Deportivo Alaves",
+      "gast": "Rayo Vallecano",
+      "anstoss": "2026-05-23T21:00:00+02:00",
+      "stadion": "Mendizorroza, Vitoria",
+      "saison_kontext": {
+        "parallel_heim": "keine - LaLiga-Schlusstag, kein paralleles Spiel",
+        "parallel_gast": "keine - LaLiga-Schlusstag, kein paralleles Spiel",
+        "saisonziel_heim": "Alaves im Klassenerhalts-Bereich (ca. 36 Pkt) - Sicherheits-Spiel",
+        "saisonziel_gast": "Rayo Vallecano im Mittelfeld ohne grosses Ziel",
+        "motivations_asymmetrie": "Leichte Alaves-Heimmotivation (Klassenerhalt), Rayo ohne grossen Anreiz - aber unklarer Favorit (~2.40/2.90). Analyse, kein Einzel-Tipp.",
+        "recovery_heim": "voll erholt",
+        "recovery_gast": "voll erholt",
+        "quellen": [
+          "https://www.laliga.com/en-GB/clubs/deportivo-alaves",
+          "https://www.football-espana.net/2026/05/17/la-liga-final-weekend-explained-five-teams-in-relegation-battle-five-remain-in-european-race"
+        ]
+      },
+      "news": [
+        "Alaves Klassenerhalts-Sicherheits-Spiel, Rayo Mittelfeld ohne Ziel",
+        "Unklarer Favorit (~2.40 Alaves / ~2.90 Rayo) - Analyse, kein Einzel-Tipp"
+      ],
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "1:0",
+        "halbzeit": "0:0",
+        "quelle": "WebSearch (ESPN/Flashscore/Fotmob/football-espana/Bundesliga.com/Inter.it/NBA.com) 24.05.2026"
+      },
+      "tipps_ergebnis": [],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "1:0",
+        "tore": [
+          {
+            "min": 54,
+            "team": "heim",
+            "spieler": "Sergio Camello",
+            "stand_danach": "1:0",
+            "details": "2.HZ-Siegtor"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "knapper Heimsieg"
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Alaves",
+          "kein_team_zu_null": false,
+          "details": "1:0, Rayo zu null, Unter 2.5"
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Unklarer-Favorit-Skip: Alaves 1:0 - knappes tor-armes Spiel, kein klares Edge verpasst."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-23-bol-int",
+      "liga": "🔍 Beobachtung - Serie A",
+      "matchday": 38,
+      "stage": "REGULAR_SEASON",
+      "heim": "Bologna FC 1909",
+      "gast": "FC Internazionale",
+      "anstoss": "2026-05-23T18:00:00+02:00",
+      "stadion": "Stadio Renato Dall'Ara, Bologna",
+      "saison_kontext": {
+        "parallel_heim": "keine - Serie A Schlussphase, kein paralleles Spiel",
+        "parallel_gast": "keine - Inter aus europaeischen Wettbewerben in dieser Phase ohne engtaktigen Termin",
+        "saisonziel_heim": "Bologna Platz 8 (55 Pkt) - Mittelfeld, kein Tabellen-Druck",
+        "saisonziel_gast": "Inter Meister 2025/26 (Scudetto vorzeitig, 86 Pkt) - Saison-Auslauf mit Rotations-Wahrscheinlichkeit",
+        "motivations_asymmetrie": "Inter als Champion ohne Tabellen-Druck und mit Rotations-Tendenz, Bologna im Mittelfeld ebenfalls ohne Druck -> Coinflip-naher dead rubber. Serie A ist Beobachtungs-Liga -> nur Analyse.",
+        "recovery_heim": "voll erholt",
+        "recovery_gast": "voll erholt",
+        "quellen": [
+          "https://www.legaseriea.it/en",
+          "https://www.sofascore.com/football/tournament/italy/serie-a/23"
+        ]
+      },
+      "news": [
+        "Inter Scudetto-Champion 2025/26 - Saison-Auslauf, Rotations-Wahrscheinlichkeit (Meister-Tour)",
+        "Bologna Platz 8 - Mittelfeld ohne Druck",
+        "Liga-Beobachtungs-Status: Serie A rolling 30d ROI -46.0% -> nur Analyse, kein Einzel/Hauptkombi; Moonshot-Bein nur ab Quote 5.0",
+        "Quoten Aggregator-Stand: Bologna ~3.0, Remis ~3.89, Inter ~2.35 - bei bet365 live pruefen"
+      ],
+      "tipps": [
+        {
+          "id": "bol-int-1",
+          "kategorie": "wackel",
+          "markt": "Lautaro Martinez trifft jederzeit",
+          "quote": 2.2,
+          "edge_prozent": 1.5,
+          "begruendung": "Beobachtungs-Liga (Serie A) -> nur Analyse, NICHT in einzeltipps[]/Hauptkombis. Lautaro als Inter-Stuermer, aber Meister-Rotation drueckt die Spielzeit-Sicherheit. Bei bet365 live pruefen.",
+          "faire_quote": 2.15,
+          "empfohlener_einsatz_prozent": 0.0,
+          "einsatz_euro": 0.0,
+          "_beobachtungs_liga_block": true
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "3:3",
+        "halbzeit": "2:1",
+        "quelle": "WebSearch (ESPN/Flashscore/Fotmob/football-espana/Bundesliga.com/Inter.it/NBA.com) 24.05.2026"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "bol-int-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Lautaro trifft NICHT (kam aus Verletzung zurueck, spielte, kein eigenes Tor; Pobega-Tor war Abfaelschung, kein Lautaro-Treffer). Beobachtungs-Liga/0-Einsatz",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "2:1",
+        "endstand": "3:3",
+        "tore": [
+          {
+            "min": 22,
+            "team": "gast",
+            "spieler": "Federico Dimarco",
+            "stand_danach": "0:1",
+            "details": "Freistoss-Traumtor"
+          },
+          {
+            "min": 25,
+            "team": "heim",
+            "spieler": "Federico Bernardeschi",
+            "stand_danach": "1:1",
+            "details": "Aussenrist, Abpraller de Vrij"
+          },
+          {
+            "min": 42,
+            "team": "heim",
+            "spieler": "Tommaso Pobega",
+            "stand_danach": "2:1",
+            "details": "abgefaelscht ueber Sucic"
+          },
+          {
+            "min": 48,
+            "team": "heim",
+            "spieler": "Piotr Zielinski (Eigentor)",
+            "stand_danach": "3:1",
+            "details": "lenkte Miranda-Hereingabe ins eigene Tor"
+          },
+          {
+            "min": 63,
+            "team": "gast",
+            "spieler": "Pio Esposito",
+            "stand_danach": "3:2",
+            "details": "Diouf-Vorarbeit"
+          },
+          {
+            "min": 87,
+            "team": "gast",
+            "spieler": "Andy Diouf",
+            "stand_danach": "3:3",
+            "details": "vollendet das Comeback"
+          }
+        ],
+        "drehung": {
+          "war_drehung": true,
+          "details": "Bologna fuehrte 3:1 (48., 2-Tore-Differenz), Inter glich mit Esposito (63.) + Diouf (87.) zum 3:3 aus -> Drehung (2-Tore-Vorsprung gekippt zum Remis)"
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": true,
+          "halbzeit_endstand": "Bologna/Unentschieden",
+          "kein_team_zu_null": true,
+          "details": "6-Tore-Festival inkl. Eigentor, Ueber 5.5 erreicht"
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Inter B-Elf",
+            "details": "Meister Inter mit stark rotierter Aufstellung am Saison-Auslauf (Scudetto laengst fix)"
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "DREHUNG: Bologna verspielte 3:1-Fuehrung gegen rotierte Inter-B-Elf zum 3:3 - dead-rubber-Chaos in Serie A (Beobachtungs-Liga-Status erneut gerechtfertigt).",
+          "Meister-Rotation-am-Saisonende-Tor-Festival: 6 Tore - Lautaro (Comeback aus Verletzung) blieb torlos, Tor-Tipp auf rotierte/wieder-fit-Stars unsicher."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-23-laz-pis",
+      "liga": "🔍 Beobachtung - Serie A",
+      "matchday": 38,
+      "stage": "REGULAR_SEASON",
+      "heim": "SS Lazio",
+      "gast": "AC Pisa 1909",
+      "anstoss": "2026-05-23T20:45:00+02:00",
+      "stadion": "Stadio Olimpico, Rom",
+      "saison_kontext": {
+        "parallel_heim": "keine - Serie A Schlussphase, kein paralleles Spiel",
+        "parallel_gast": "keine - Serie A Schlussphase, kein paralleles Spiel",
+        "saisonziel_heim": "Lazio im EL-Quali-Bereich (ca. Platz 7-9) - Heim-Favorit (Polymarket 63%)",
+        "saisonziel_gast": "Pisa abgestiegen (Letzter, 18 Pkt, mathematisch fix) - Saison-Beerdigung, Motivation null",
+        "motivations_asymmetrie": "Lazio zuhause klarer Favorit gegen einen bereits abgestiegenen Letzten ohne Motivation. Klare Asymmetrie, aber Serie A ist Beobachtungs-Liga -> nur Analyse / Moonshot-Bein ab Quote 5.0 (Nzola @5.0).",
+        "recovery_heim": "voll erholt",
+        "recovery_gast": "voll erholt",
+        "quellen": [
+          "https://www.legaseriea.it/en",
+          "https://www.sofascore.com/football/tournament/italy/serie-a/23"
+        ]
+      },
+      "news": [
+        "Lazio Heim-Favorit (Polymarket 63%) gegen abgestiegenen Letzten Pisa",
+        "Liga-Beobachtungs-Status: Serie A rolling 30d ROI -46.0% -> nur Analyse; Moonshot-Bein nur ab Quote 5.0",
+        "Quoten Aggregator-Stand: Lazio ~1.50, Remis ~4.2, Pisa ~6.0; Nzola Tor ~5.0 - bei bet365 live pruefen"
+      ],
+      "tipps": [
+        {
+          "id": "laz-pis-1",
+          "kategorie": "wackel",
+          "markt": "Sieg SS Lazio",
+          "quote": 1.5,
+          "edge_prozent": 2.0,
+          "begruendung": "Beobachtungs-Liga (Serie A) -> nur Analyse, NICHT in einzeltipps[]/Hauptkombis. Lazio zuhause klar ueberlegen gegen abgestiegenen Letzten. Bei bet365 live pruefen.",
+          "faire_quote": 1.45,
+          "empfohlener_einsatz_prozent": 0.0,
+          "einsatz_euro": 0.0,
+          "_beobachtungs_liga_block": true
+        },
+        {
+          "id": "laz-pis-2",
+          "kategorie": "moonshot",
+          "markt": "M'Bala Nzola trifft jederzeit",
+          "quote": 5.0,
+          "edge_prozent": 3.0,
+          "begruendung": "Moonshot-Slot: Nzola als Pisa-Stuermer @5.0 erfuellt die Beobachtungs-Liga-Schwelle (Quote >= 5.0) fuer ein Moonshot-Kombi-Bein. Vereins-Zuordnung via Recherche-Squad (ST). Abgestiegenes Team -> reines Spass-Bein. Bei bet365 live pruefen.",
+          "faire_quote": 4.8,
+          "empfohlener_einsatz_prozent": 0.1,
+          "einsatz_euro": 0.55,
+          "_beobachtungs_liga_moonshot_kombi_bein": true
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "0:0",
+        "halbzeit": "0:0",
+        "quelle": "WebSearch (ESPN/Flashscore/Fotmob/football-espana/Bundesliga.com/Inter.it/NBA.com) 24.05.2026"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "laz-pis-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Lazio 0:0 gegen abgestiegenen Letzten Pisa - Heim-Favorit-Sieg verfehlt. Beobachtungs-Liga/0-Einsatz",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "laz-pis-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Nzola trifft NICHT (0:0). Moonshot-Bein - Moonshot-Kombi damit tot",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "0:0",
+        "tore": [],
+        "drehung": {
+          "war_drehung": false,
+          "details": "torloses Remis"
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Unentschieden",
+          "kein_team_zu_null": false,
+          "details": "0:0 - beide zu null, Unter 2.5/1.5"
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "BEOBACHTUNGS-LIGA-SCHUTZ ZAHLTE: Lazio-'Heim-Favorit gegen abgestiegenen Letzten'-These (Polymarket 63%) endete 0:0 - genau das unberechenbare Serie-A-Dead-Rubber-Profil, das den Beobachtungs-Status begruendet. Kein Geld riskiert.",
+          "Abgestiegener Pisa hielt die Null beim EL-Quali-Anwaerter - Motivations-Asymmetrie-These (gerettet vs Ziel) am Saisonende widerlegt."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-23-nyk-cle",
+      "liga": "NBA Eastern Conference Finals",
+      "stage": "PLAYOFFS_CONF_FINALS_G3",
+      "spiel_label": "Game 3 of 7 (Best-of-7, Stand 0-2 fuer Knicks)",
+      "heim": "Cleveland Cavaliers",
+      "gast": "New York Knicks",
+      "anstoss": "2026-05-24T02:00:00+02:00",
+      "stadion": "Rocket Arena, Cleveland",
+      "saison_kontext": {
+        "parallel_heim": "keine - NBA Playoffs einziger Wettbewerb",
+        "parallel_gast": "keine - NBA Playoffs einziger Wettbewerb",
+        "saisonziel_heim": "Cavaliers 0-2 in der Serie hinten - Heim-Pflichtsieg (Game 3), kein Team hat je 0-3 gedreht; maximaler Druck",
+        "saisonziel_gast": "Knicks 2-0 vorne, 9 Siege in Serie (Schnitt +23.5) - koennen Richtung Finals davonziehen",
+        "motivations_asymmetrie": "Cavs maximal unter Heim-Pflichtsieg-Druck, Knicks in Galaform aber in Cleveland seit 2024 nicht gewonnen. NBA-Playoff-Coinflip-Profil -> kein SAFE (HR16/Hebel B), Sieg/Total max wackel.",
+        "recovery_heim": "kurze Pause seit Game 2, Heimrueckkehr",
+        "recovery_gast": "kurze Pause seit Game 2, Reise nach Cleveland",
+        "quellen": [
+          "https://www.nba.com/playoffs/2026/east-final",
+          "https://www.oddsshark.com/nba/knicks-cavaliers-picks-odds-game-3-may-23-2026",
+          "https://www.fanduel.com/research/cavaliers-vs-knicks-prediction-nba-odds-spread-best-bets-for-eastern-finals-5-23-2026"
+        ]
+      },
+      "news": [
+        "ECF Game 3: Cavs 0-2 hinten, Heim-Pflichtsieg (kein Team drehte je 0-3)",
+        "Knicks 9 Siege in Serie (Schnitt +23.5), aber in Cleveland seit 2024 nicht gewonnen",
+        "Cavs ~ -2.5 Heim-Favorit (FanDuel 57.6%), Total 213.5; Modell-Projektion Knicks 115-114",
+        "NBA-Playoff nie SAFE (HR16/Hebel B) - Sieg/Total max wackel; Player-Punkte raus aus Einzeltipps",
+        "Verbotene Maerkte DE: keine Einzel-Reb/Ast/Blk/Steals, keine PRA-Kombos, keine Einzel-3er"
+      ],
+      "tipps": [
+        {
+          "id": "nyk-cle-1",
+          "kategorie": "wackel",
+          "markt": "Sieg Cleveland Cavaliers (Moneyline)",
+          "quote": 1.75,
+          "edge_prozent": 1.5,
+          "begruendung": "Cavs Heim-Favorit unter maximalem Pflichtsieg-Druck (0-2, Sweep-Vermeidung) gegen Knicks, die in Cleveland seit 2024 nicht gewonnen haben. ABER NBA-Playoff nie SAFE + Knicks-Galaform -> Coinflip, wackel. NICHT in einzeltipps[]. Bei bet365 live pruefen.",
+          "faire_quote": 1.72,
+          "empfohlener_einsatz_prozent": 0.0,
+          "einsatz_euro": 0.0
+        },
+        {
+          "id": "nyk-cle-2",
+          "kategorie": "wackel",
+          "markt": "Ueber 213.5 Punkte (Total)",
+          "quote": 1.9,
+          "edge_prozent": 2.0,
+          "begruendung": "Knicks-Offensive in Galaform (122.3 Pkt Schnitt), Cavs zuhause unter Druck mit Tempo -> Ueber-Tendenz. Risiko-Kombi-Bein. Heim-Pflichtsieg-Spiele koennen aber in Defensiv-Schlachten kippen -> wackel. NICHT in einzeltipps[]. Bei bet365 live pruefen.",
+          "faire_quote": 1.82,
+          "empfohlener_einsatz_prozent": 0.0,
+          "einsatz_euro": 0.0
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "108:121",
+        "halbzeit": null,
+        "quelle": "WebSearch (ESPN/Flashscore/Fotmob/football-espana/Bundesliga.com/Inter.it/NBA.com) 24.05.2026"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "nyk-cle-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Cavs verlieren 108:121 - Heim-Pflichtsieg verfehlt, Knicks fuehren Serie 3-0. NBA-nie-SAFE bestaetigt (war wackel/0-Einsatz)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "nyk-cle-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.9,
+          "kommentar": "229 Gesamtpunkte > 213.5 -> Ueber erfuellt. Risiko-Kombi-Bein gewonnen (war wackel/0-Einsatz)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": null,
+        "endstand": "108:121",
+        "tore": [],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Knicks fuehrten das ganze Spiel (wire-to-wire) - kein Comeback"
+        },
+        "markt_resultate": {
+          "btts": null,
+          "ueber_2_5": null,
+          "ueber_3_5": null,
+          "halbzeit_endstand": null,
+          "total_punkte": 229,
+          "ueber_213_5": true,
+          "spread_cavs_minus_2_5": false,
+          "details": "Total 229 > Linie 213.5 -> Ueber GEWONNEN. Cavs -2.5 Spread VERLOREN (13 Pkt Niederlage). Top-Scorer: Brunson 30, Mobley 24, Mitchell 23, Bridges 22, Anunoby 21, Harden 21"
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "NBA-PLAYOFF-NIE-SAFE erneut bestaetigt: Cavs als Heim-Pflichtsieg-Favorit (0-2, FanDuel 57.6%) verloren klar mit 13 - Heim-Druck materialisierte sich NICHT. Sieg-Tipp zurecht nur wackel.",
+          "Ueber-213.5 lief (229) - hohe Total-Linien in NBA-Conf-Finals weiter spielbar; Knicks-Galaform (122er-Schnitt) traegt das Tempo. Knicks 3-0, 10 Siege in Serie."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "et-1",
+      "spiel_id": "2026-05-23-cel-sev",
+      "tipp_id": "cel-sev-1",
+      "kategorie": "safe",
+      "markt": "Celta de Vigo oder Unentschieden (Doppelte Chance 1X)",
+      "quote": 1.27,
+      "edge_prozent": 4.0,
+      "begruendung": "Sicherster Tipp: Goldgrube DC 1X (82.4%). Celta zuhause Favorit + Europa-Motivation, Sevilla ohne Anreiz. Faire Quote ~1.22. Stake 2.0% x 550€ = 11€.",
+      "einsatz_euro": 11.0,
+      "einsatz_prozent_kasse": 2.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 1
+    },
+    {
+      "id": "et-2",
+      "spiel_id": "2026-05-23-bay-vfb",
+      "tipp_id": "bay-vfb-1",
+      "kategorie": "value",
+      "markt": "Sieg FC Bayern Muenchen",
+      "quote": 1.36,
+      "edge_prozent": 4.0,
+      "begruendung": "DFB-Pokal-Final: Bayern haushoher Favorit mit Double-Motivation + voller Kader gegen Underdog Stuttgart. VALUE statt SAFE (Final-Knappheit + 90-Min-Markt). Stake 1.5% x 550€ = 8,25€.",
+      "einsatz_euro": 8.25,
+      "einsatz_prozent_kasse": 1.5,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2
+    },
+    {
+      "id": "et-3",
+      "spiel_id": "2026-05-23-rma-ath",
+      "tipp_id": "rma-ath-1",
+      "kategorie": "value",
+      "markt": "Sieg Real Madrid",
+      "quote": 1.36,
+      "edge_prozent": 3.0,
+      "begruendung": "Real trotz Verletzungsliste klarer Heim-Favorit gegen dezimiertes Athletic (ohne Nico Williams + Berchiche). Heimvorteil + Qualitaet ueberwiegen. Stake 1.0% x 550€ = 5,50€.",
+      "einsatz_euro": 5.5,
+      "einsatz_prozent_kasse": 1.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 3
+    },
+    {
+      "id": "et-4",
+      "spiel_id": "2026-05-23-bay-vfb",
+      "tipp_id": "bay-vfb-2",
+      "kategorie": "value",
+      "markt": "Harry Kane trifft jederzeit",
+      "quote": 1.85,
+      "edge_prozent": 5.0,
+      "begruendung": "Goldgrube Torschuetzen Jederzeit (+20.5%). Kane Bayern-Stuermer + Elfmeterschuetze im Final gegen verwundbare Stuttgart-Abwehr. Caveat Lesson 21.05. (Final-Tore teils im Mittelfeld). Aufstellung verifizieren. Stake 1.0% x 550€ = 5,50€.",
+      "einsatz_euro": 5.5,
+      "einsatz_prozent_kasse": 1.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 4
+    },
+    {
+      "id": "et-5",
+      "spiel_id": "2026-05-23-rma-ath",
+      "tipp_id": "rma-ath-2",
+      "kategorie": "value",
+      "markt": "Vinicius Junior trifft jederzeit",
+      "quote": 2.3,
+      "edge_prozent": 6.0,
+      "begruendung": "Goldgrube Torschuetzen Jederzeit. Mit Mbappe zweifelhaft uebernimmt der fitte Vinicius die Tor-Last gegen geschwaechte Athletic-Flanke (HR3 Backup-Pflicht). Faire Quote ~2.0. Aufstellung verifizieren. Stake 1.0% x 550€ = 5,50€.",
+      "einsatz_euro": 5.5,
+      "einsatz_prozent_kasse": 1.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 5
+    },
+    {
+      "id": "et-6",
+      "spiel_id": "2026-05-23-mal-ovi",
+      "tipp_id": "mal-ovi-2",
+      "kategorie": "value",
+      "markt": "Vedat Muriqi trifft jederzeit",
+      "quote": 2.4,
+      "edge_prozent": 5.0,
+      "begruendung": "Goldgrube Torschuetzen Jederzeit. Muriqi (22 Saisontore, Pichichi-2.) im Klassenerhalts-Pflichtsieg gegen die abgestiegene Liga-Schluss-Abwehr. Faire Quote ~2.15. Aufstellung verifizieren. Stake 1.0% x 550€ = 5,50€.",
+      "einsatz_euro": 5.5,
+      "einsatz_prozent_kasse": 1.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 6
+    },
+    {
+      "id": "et-7",
+      "spiel_id": "2026-05-23-mal-ovi",
+      "tipp_id": "mal-ovi-1",
+      "kategorie": "value",
+      "markt": "Sieg RCD Mallorca",
+      "quote": 1.65,
+      "edge_prozent": 4.0,
+      "begruendung": "Klare Motivations-Asymmetrie: Mallorca Klassenerhalts-Pflichtsieg vs bereits abgestiegenes Oviedo. VALUE statt SAFE (Saisonende-Varianz). Stake 1.0% x 550€ = 5,50€.",
+      "einsatz_euro": 5.5,
+      "einsatz_prozent_kasse": 1.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 7
+    },
+    {
+      "id": "et-8",
+      "spiel_id": "2026-05-23-gir-elc",
+      "tipp_id": "gir-elc-1",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.75,
+      "edge_prozent": 4.0,
+      "begruendung": "Goldgrube Unter 2.5 (+22.8%). Nervoeses Abstiegs-Duell mit beidseitigem Existenz-Druck, kein klarer Sieg-Favorit -> defensiv. Markt favorisiert Unter. Stake 1.0% x 550€ = 5,50€.",
+      "einsatz_euro": 5.5,
+      "einsatz_prozent_kasse": 1.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 8
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-safe",
+      "name": "Safe-Kombi (~2.85x)",
+      "kategorie": "safe",
+      "beine": [
+        {
+          "spiel_id": "2026-05-23-bay-vfb",
+          "tipp_id": "bay-vfb-1",
+          "markt": "FC Bayern Muenchen - VfB Stuttgart: Sieg FC Bayern Muenchen",
+          "quote": 1.36,
+          "spiel_titel": "FC Bayern Muenchen - VfB Stuttgart"
+        },
+        {
+          "spiel_id": "2026-05-23-cel-sev",
+          "tipp_id": "cel-sev-1",
+          "markt": "Celta de Vigo - Sevilla FC: Celta de Vigo oder Unentschieden (Doppelte Chance 1X)",
+          "quote": 1.27,
+          "spiel_titel": "Celta de Vigo - Sevilla FC"
+        },
+        {
+          "spiel_id": "2026-05-23-mal-ovi",
+          "tipp_id": "mal-ovi-1",
+          "markt": "RCD Mallorca - Real Oviedo: Sieg RCD Mallorca",
+          "quote": 1.65,
+          "spiel_titel": "RCD Mallorca - Real Oviedo"
+        }
+      ],
+      "gesamtquote": 2.85,
+      "gesamtquote_rechnung": "1.36 x 1.27 x 1.65 = 2.85",
+      "einsatz_euro": 11.0,
+      "einsatz_prozent_kasse": 2.0,
+      "gewinn_brutto_euro": 31.35,
+      "begruendung": "Drei stabilste Edges: Bayern im Pokalfinale (Double-Motivation, voller Kader) + Celta DC 1X (Remis reicht fuer Europa, Goldgrube) + Mallorca (Klassenerhalts-Pflichtsieg vs Abgestiegener). Layer-1: 1 Bein/Spiel. Layer-2: jedes Sieg-Outcome nur hier. Stake 2.0% x 550€ = 11€.",
+      "empfohlener_einsatz_prozent": 2.0
+    },
+    {
+      "id": "kombi-balance",
+      "name": "Balance-Kombi (~6.75x)",
+      "kategorie": "balance",
+      "beine": [
+        {
+          "spiel_id": "2026-05-23-rma-ath",
+          "tipp_id": "rma-ath-1",
+          "markt": "Real Madrid - Athletic Club: Sieg Real Madrid",
+          "quote": 1.36,
+          "spiel_titel": "Real Madrid - Athletic Club"
+        },
+        {
+          "spiel_id": "2026-05-23-val-fcb",
+          "tipp_id": "val-fcb-1",
+          "markt": "Valencia CF - FC Barcelona: Sieg FC Barcelona",
+          "quote": 1.83,
+          "spiel_titel": "Valencia CF - FC Barcelona"
+        },
+        {
+          "spiel_id": "2026-05-23-bet-lev",
+          "tipp_id": "bet-lev-1",
+          "markt": "Real Betis - Levante UD: Sieg Real Betis",
+          "quote": 1.55,
+          "spiel_titel": "Real Betis - Levante UD"
+        },
+        {
+          "spiel_id": "2026-05-23-gir-elc",
+          "tipp_id": "gir-elc-1",
+          "markt": "Girona FC - Elche CF: Unter 2.5 Tore",
+          "quote": 1.75,
+          "spiel_titel": "Girona FC - Elche CF"
+        }
+      ],
+      "gesamtquote": 6.75,
+      "gesamtquote_rechnung": "1.36 x 1.83 x 1.55 x 1.75 = 6.75",
+      "einsatz_euro": 4.4,
+      "einsatz_prozent_kasse": 0.8,
+      "gewinn_brutto_euro": 29.7,
+      "begruendung": "Vier andere Spiele als die Safe-Kombi: Real-Sieg + Barca-Sieg (Klassen-Edge) + Betis-Sieg + Girona-Elche Unter. Layer-2: Sieg-Outcomes Real/Barca/Betis nur hier. Stake 0.8% x 550€ = 4,40€.",
+      "empfohlener_einsatz_prozent": 0.8
+    },
+    {
+      "id": "kombi-risiko",
+      "name": "Risiko-Kombi (~19.4x)",
+      "kategorie": "risk",
+      "beine": [
+        {
+          "spiel_id": "2026-05-23-bay-vfb",
+          "tipp_id": "bay-vfb-2",
+          "markt": "FC Bayern Muenchen - VfB Stuttgart: Harry Kane trifft jederzeit",
+          "quote": 1.85,
+          "spiel_titel": "FC Bayern Muenchen - VfB Stuttgart"
+        },
+        {
+          "spiel_id": "2026-05-23-rma-ath",
+          "tipp_id": "rma-ath-2",
+          "markt": "Real Madrid - Athletic Club: Vinicius Junior trifft jederzeit",
+          "quote": 2.3,
+          "spiel_titel": "Real Madrid - Athletic Club"
+        },
+        {
+          "spiel_id": "2026-05-23-mal-ovi",
+          "tipp_id": "mal-ovi-2",
+          "markt": "RCD Mallorca - Real Oviedo: Vedat Muriqi trifft jederzeit",
+          "quote": 2.4,
+          "spiel_titel": "RCD Mallorca - Real Oviedo"
+        },
+        {
+          "spiel_id": "2026-05-23-nyk-cle",
+          "tipp_id": "nyk-cle-2",
+          "markt": "Cleveland Cavaliers - New York Knicks: Ueber 213.5 Punkte (Total)",
+          "quote": 1.9,
+          "spiel_titel": "Cleveland Cavaliers - New York Knicks"
+        }
+      ],
+      "gesamtquote": 19.41,
+      "gesamtquote_rechnung": "1.85 x 2.30 x 2.40 x 1.90 = 19.41",
+      "einsatz_euro": 1.4,
+      "einsatz_prozent_kasse": 0.25,
+      "gewinn_brutto_euro": 27.17,
+      "begruendung": "Drei Torschuetzen-Goldgruben (Kane/Vinicius/Muriqi) + NBA-Total, je 1 pro Spiel, kein Sieg-Outcome (Layer-2 sauber). ~19.4x im Soll-Bereich. Stake 0.25% x 550€ = 1,40€.",
+      "empfohlener_einsatz_prozent": 0.25
+    },
+    {
+      "id": "kombi-moonshot",
+      "name": "Moonshot-Kombi (~65.5x)",
+      "kategorie": "moonshot",
+      "beine": [
+        {
+          "spiel_id": "2026-05-23-cel-sev",
+          "tipp_id": "cel-sev-3",
+          "markt": "Celta de Vigo - Sevilla FC: Iago Aspas trifft jederzeit",
+          "quote": 2.4,
+          "spiel_titel": "Celta de Vigo - Sevilla FC"
+        },
+        {
+          "spiel_id": "2026-05-23-val-fcb",
+          "tipp_id": "val-fcb-2",
+          "markt": "Valencia CF - FC Barcelona: Robert Lewandowski trifft jederzeit",
+          "quote": 2.1,
+          "spiel_titel": "Valencia CF - FC Barcelona"
+        },
+        {
+          "spiel_id": "2026-05-23-gir-elc",
+          "tipp_id": "gir-elc-2",
+          "markt": "Girona FC - Elche CF: Cristhian Stuani trifft jederzeit",
+          "quote": 2.6,
+          "spiel_titel": "Girona FC - Elche CF"
+        },
+        {
+          "spiel_id": "2026-05-23-laz-pis",
+          "tipp_id": "laz-pis-2",
+          "markt": "SS Lazio - AC Pisa 1909: M'Bala Nzola trifft jederzeit",
+          "quote": 5.0,
+          "spiel_titel": "SS Lazio - AC Pisa 1909"
+        }
+      ],
+      "gesamtquote": 65.52,
+      "gesamtquote_rechnung": "2.40 x 2.10 x 2.60 x 5.00 = 65.52",
+      "einsatz_euro": 0.55,
+      "einsatz_prozent_kasse": 0.1,
+      "gewinn_brutto_euro": 36.04,
+      "begruendung": "Torschuetzen-Lotterie (Spass-Slot 0.1%): Aspas + Lewandowski-Abschiedstor + Stuani + Pisa-Nzola @5.0 (Beobachtungs-Liga-Bein erfuellt Quote-Schwelle >= 5.0). 1 Bein/Spiel, kein Sieg-Outcome. ~65x. Stake 0.1% x 550€ = 0,55€.",
+      "empfohlener_einsatz_prozent": 0.1
+    }
+  ],
+  "lessons_angewandt": [
+    {
+      "lesson_datum": "2026-04-26",
+      "kategorie": "Liga-Vollstaendigkeit (Wettbewerbe nicht vergessen)",
+      "anwendung": "Watchdog-Recovery hat ueber den Recherche-Abgleich das DFB-Pokal-FINAL (Bayern-Stuttgart) erfasst, das in der ersten Annahme gefehlt haette - jetzt Headliner-Spiel mit Bayern-Sieg + Kane-Tor."
+    },
+    {
+      "lesson_datum": "2026-05-19",
+      "kategorie": "Aufstellungs-/Star-Verifikation",
+      "anwendung": "Mbappe Hamstring-zweifelhaft erkannt -> Real-Tor-Tipp auf den fitten Vinicius statt Mbappe (HR3 Backup-Pflicht). Kane/Vinicius/Muriqi/Aspas: Aufstellung 60-90 Min vor Anstoss verifizieren."
+    },
+    {
+      "lesson_datum": "2026-05-18",
+      "kategorie": "Karriere-Highlight-Tor-Markt auf Geehrten ueberbewertet",
+      "anwendung": "Lewandowski-Abschiedsspiel: Lewa-trifft nur als wackel/Moonshot-Bein, nicht als VALUE-Einzel (Mitspieler legen oft auf statt der Geehrte selbst zu treffen)."
+    },
+    {
+      "lesson_datum": "2026-05-21",
+      "kategorie": "Klassen-Edge-Final-Volume-9er-Schweigen",
+      "anwendung": "DFB-Pokal-Final: Kane-Tor bewusst nur VALUE (nicht SAFE) - in Klassen-Edge-Finals verteilen sich Tore oft auf Mittelfeld; Bayern-Sieg ist die stabilere Edge."
+    },
+    {
+      "lesson_datum": "2026-05-20",
+      "kategorie": "Heim-Festung / SAFE-Downgrade am anreizlosen Schlusstag",
+      "anwendung": "Real/Barca/Bayern-Sieg nur VALUE statt SAFE: Schlusstag-Varianz + Final-Knappheit + Real-Verletzungs-Cluster. Einziges SAFE ist Celta DC 1X (Goldgrube + Remis reicht)."
+    },
+    {
+      "lesson_datum": "2026-05-22",
+      "kategorie": "Saisonende-Dead-Rubber / Abstiegs-Decider tor-arm",
+      "anwendung": "Girona-Elche (Existenz-Druck, kein Favorit) als Unter 2.5 statt Tor-Festival; Getafe-Osasuna Unter; Coinflip-Spiele (Espanyol, Alaves) als Analyse ohne Einzel-Tipp."
+    },
+    {
+      "lesson_datum": "2026-04-27",
+      "kategorie": "Beobachtungs-Liga Serie A",
+      "anwendung": "Bologna-Inter + Lazio-Pisa nur Analyse (Serie A 30d ROI -46%), kein Einzel/Hauptkombi; nur Nzola @5.0 als Moonshot-Bein (Quote-Schwelle erfuellt)."
+    },
+    {
+      "lesson_datum": "2026-04-22",
+      "kategorie": "NBA-Playoff-Sieg nie SAFE",
+      "anwendung": "Knicks-Cavs ECF G3: Cavs-Sieg + Total nur wackel, Player-Punkte raus aus Einzeltipps."
+    },
+    {
+      "lesson_datum": "2026-04-26",
+      "kategorie": "bet365 2:0-Insurance",
+      "anwendung": "Heute nirgends anwendbar (nur 1.BL + CL Sieg-Tipps) - Pokal-Final/LaLiga/Serie A/NBA alle ausgenommen, im Hinweis ausgewiesen."
+    },
+    {
+      "lesson_datum": "2026-05-04",
+      "kategorie": "DC-Cap / Markt-Mix-Pflicht",
+      "anwendung": "Nur 1 DC im Dossier (Celta 1X) - alle anderen Edges via direkter Sieg + Torschuetzen (Goldgrube). Celta-Spiel mit Sieg + Aspas-Tor als offensives Edge-Signal, damit DC 1X SAFE bleibt."
+    }
+  ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-05-23T12:30:00+02:00",
+    "abgleich_recherche": "data/recherche_wochenende/2026-05-23.json (Weekend-Vorschau) als Datenbasis genutzt - Spiel-IDs, Squads + Quoten daraus uebernommen. Korrekturen ggü. erster Web-Annahme: DFB-Pokal-Final ergaenzt, Mbappe-zweifelhaft -> Vinicius, Valencia/Betis-Theses korrigiert.",
+    "drops": [
+      {
+        "tipp_id": "val-bar -> val-fcb (ID-Korrektur)",
+        "grund": "Erste Version nutzte falsche Spiel-ID val-bar; Recherche-File hat val-fcb -> korrigiert, sonst Recherche-Completeness-Drop."
+      },
+      {
+        "tipp_id": "mbappe_torschuetze_entfernt",
+        "grund": "Mbappe Hamstring-zweifelhaft laut Recherche -> Tor-Tipp auf fitten Vinicius umgestellt (HR3)."
+      },
+      {
+        "tipp_id": "levante_dc_x2_entfernt",
+        "grund": "Recherche zeigt Betis als klaren Favoriten (~1.55), Levante kaempfender Aufsteiger -> Levante-Edge-These verworfen, Betis-Sieg stattdessen."
+      }
+    ],
+    "downgrades": [
+      {
+        "tipp_id": "bay-vfb-1, rma-ath-1, val-fcb-1, mal-ovi-1",
+        "alt": "safe-Kandidat",
+        "neu": "value",
+        "grund": "Schlusstag-/Final-Varianz + Real-Verletzungs-Cluster: Heim-/Klassen-Favoriten nur VALUE. Einziges SAFE ist Celta DC 1X (Goldgrube DC 1X + Remis reicht)."
+      }
+    ],
+    "warns": [
+      {
+        "art": "exposure_check",
+        "details": "Einzeltipps 8x (11+8,25+5,5x6 = 52,75€) + Kombis (11+4,40+1,40+0,55 = 17,35€) = 70,10€ / 550€ = 12,7%. Fuer 13-Spiele-Vollslate vertretbar; Einzel + Kombi-Beine ueberlappen (User waehlt Subset)."
+      },
+      {
+        "art": "layer3_warn_erwartet",
+        "details": "bay-vfb/rma-ath/mal-ovi/cel-sev/val-fcb/gir-elc je in 2 Kombis (Sieg/DC in einer, Torschuetze/Total in anderer) - alle markt-entkoppelt, kein Sieg-Outcome doppelt -> nur Layer-3-WARN, keine Hard-Drops."
+      },
+      {
+        "art": "aufstellungs_verifikation",
+        "details": "Kane/Vinicius/Muriqi/Aspas Torschuetzen: Aufstellung 60-90 Min vor Anstoss verifizieren. Mbappe wegen Hamstring bewusst NICHT getippt."
+      },
+      {
+        "art": "beobachtungs_liga",
+        "details": "Serie A (Bologna-Inter, Lazio-Pisa) nur Analyse + Nzola-Moonshot @5.0; NBA-ECF-G3 ist Conference-Final (kein Decider, keine Beobachtung) -> wackel, kein SAFE."
+      },
+      {
+        "art": "quoten_geschaetzt",
+        "details": "Alle Quoten Aggregator-Stand 21.05. (DFB.de/Goal/ESPN/Polymarket/EasyOdds/Betfair) - bei bet365 +/- 5-10% moeglich, live pruefen. Anstoss-Zeiten LaLiga-Finaltag bei LaLiga.com verifizieren."
+      }
+    ],
+    "lessons_generiert": [],
+    "verifikations_checks_durchgefuehrt": [
+      "Recherche-Abgleich: alle 13 Dossier-Spiele sind im Recherche-File (IDs exakt) - kein Recherche-Completeness-Drop",
+      "Spieler-Squad-Match: Kane (ST), Vinicius (LF), Muriqi (ST), Aspas (ST/OM), Lewandowski (ST), Stuani (ST), Nzola (ST), Bakambu (ST), Lautaro (ST) alle in Recherche-Squads + offensive Position",
+      "Star-Status: Mbappe Hamstring-zweifelhaft -> Vinicius statt Mbappe; Real-Verletzungs-Cluster beruecksichtigt",
+      "Goldgrube-Nutzung: Torschuetzen Jederzeit (Kane/Vinicius/Muriqi/Aspas), DC 1X (Celta), Unter 2.5 (Girona) aktiv gesucht",
+      "DC-Cap: nur 1 DC im Dossier (Celta 1X) - klar unter Cap",
+      "Layer-2: kein Sieg-Outcome in mehr als 1 Kombi (Bayern/Celta/Mallorca in Safe; Real/Barca/Betis in Balance; Torschuetzen/Totals markt-entkoppelt)",
+      "2:0-Insurance: heute nirgends anwendbar (nur 1.BL+CL) - im Hinweis ausgewiesen",
+      "NBA-Markt-Verbote DE: nur ML/Total getippt, Player-Punkte raus"
+    ]
+  },
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "einzeltipps_ergebnis": [
+    {
+      "id": "et-1",
+      "spiel_id": "2026-05-23-cel-sev",
+      "tipp_id": "cel-sev-1",
+      "kategorie": "safe",
+      "markt": "Celta de Vigo oder Unentschieden (Doppelte Chance 1X)",
+      "quote": 1.27,
+      "edge_prozent": 4.0,
+      "begruendung": "Sicherster Tipp: Goldgrube DC 1X (82.4%). Celta zuhause Favorit + Europa-Motivation, Sevilla ohne Anreiz. Faire Quote ~1.22. Stake 2.0% x 550€ = 11€.",
+      "einsatz_euro": 11.0,
+      "einsatz_prozent_kasse": 2.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 1,
+      "status": "offen"
+    },
+    {
+      "id": "et-2",
+      "spiel_id": "2026-05-23-bay-vfb",
+      "tipp_id": "bay-vfb-1",
+      "kategorie": "value",
+      "markt": "Sieg FC Bayern Muenchen",
+      "quote": 1.36,
+      "edge_prozent": 4.0,
+      "begruendung": "DFB-Pokal-Final: Bayern haushoher Favorit mit Double-Motivation + voller Kader gegen Underdog Stuttgart. VALUE statt SAFE (Final-Knappheit + 90-Min-Markt). Stake 1.5% x 550€ = 8,25€.",
+      "einsatz_euro": 8.25,
+      "einsatz_prozent_kasse": 1.5,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2,
+      "status": "offen"
+    },
+    {
+      "id": "et-3",
+      "spiel_id": "2026-05-23-rma-ath",
+      "tipp_id": "rma-ath-1",
+      "kategorie": "value",
+      "markt": "Sieg Real Madrid",
+      "quote": 1.36,
+      "edge_prozent": 3.0,
+      "begruendung": "Real trotz Verletzungsliste klarer Heim-Favorit gegen dezimiertes Athletic (ohne Nico Williams + Berchiche). Heimvorteil + Qualitaet ueberwiegen. Stake 1.0% x 550€ = 5,50€.",
+      "einsatz_euro": 5.5,
+      "einsatz_prozent_kasse": 1.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 3,
+      "status": "offen"
+    },
+    {
+      "id": "et-4",
+      "spiel_id": "2026-05-23-bay-vfb",
+      "tipp_id": "bay-vfb-2",
+      "kategorie": "value",
+      "markt": "Harry Kane trifft jederzeit",
+      "quote": 1.85,
+      "edge_prozent": 5.0,
+      "begruendung": "Goldgrube Torschuetzen Jederzeit (+20.5%). Kane Bayern-Stuermer + Elfmeterschuetze im Final gegen verwundbare Stuttgart-Abwehr. Caveat Lesson 21.05. (Final-Tore teils im Mittelfeld). Aufstellung verifizieren. Stake 1.0% x 550€ = 5,50€.",
+      "einsatz_euro": 5.5,
+      "einsatz_prozent_kasse": 1.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 4,
+      "status": "offen"
+    },
+    {
+      "id": "et-5",
+      "spiel_id": "2026-05-23-rma-ath",
+      "tipp_id": "rma-ath-2",
+      "kategorie": "value",
+      "markt": "Vinicius Junior trifft jederzeit",
+      "quote": 2.3,
+      "edge_prozent": 6.0,
+      "begruendung": "Goldgrube Torschuetzen Jederzeit. Mit Mbappe zweifelhaft uebernimmt der fitte Vinicius die Tor-Last gegen geschwaechte Athletic-Flanke (HR3 Backup-Pflicht). Faire Quote ~2.0. Aufstellung verifizieren. Stake 1.0% x 550€ = 5,50€.",
+      "einsatz_euro": 5.5,
+      "einsatz_prozent_kasse": 1.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 5,
+      "status": "offen"
+    },
+    {
+      "id": "et-6",
+      "spiel_id": "2026-05-23-mal-ovi",
+      "tipp_id": "mal-ovi-2",
+      "kategorie": "value",
+      "markt": "Vedat Muriqi trifft jederzeit",
+      "quote": 2.4,
+      "edge_prozent": 5.0,
+      "begruendung": "Goldgrube Torschuetzen Jederzeit. Muriqi (22 Saisontore, Pichichi-2.) im Klassenerhalts-Pflichtsieg gegen die abgestiegene Liga-Schluss-Abwehr. Faire Quote ~2.15. Aufstellung verifizieren. Stake 1.0% x 550€ = 5,50€.",
+      "einsatz_euro": 5.5,
+      "einsatz_prozent_kasse": 1.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 6,
+      "status": "offen"
+    },
+    {
+      "id": "et-7",
+      "spiel_id": "2026-05-23-mal-ovi",
+      "tipp_id": "mal-ovi-1",
+      "kategorie": "value",
+      "markt": "Sieg RCD Mallorca",
+      "quote": 1.65,
+      "edge_prozent": 4.0,
+      "begruendung": "Klare Motivations-Asymmetrie: Mallorca Klassenerhalts-Pflichtsieg vs bereits abgestiegenes Oviedo. VALUE statt SAFE (Saisonende-Varianz). Stake 1.0% x 550€ = 5,50€.",
+      "einsatz_euro": 5.5,
+      "einsatz_prozent_kasse": 1.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 7,
+      "status": "offen"
+    },
+    {
+      "id": "et-8",
+      "spiel_id": "2026-05-23-gir-elc",
+      "tipp_id": "gir-elc-1",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.75,
+      "edge_prozent": 4.0,
+      "begruendung": "Goldgrube Unter 2.5 (+22.8%). Nervoeses Abstiegs-Duell mit beidseitigem Existenz-Druck, kein klarer Sieg-Favorit -> defensiv. Markt favorisiert Unter. Stake 1.0% x 550€ = 5,50€.",
+      "einsatz_euro": 5.5,
+      "einsatz_prozent_kasse": 1.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 8,
+      "status": "offen"
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "kombi-safe",
+      "status": "offen",
+      "gesamtquote": 2.85
+    },
+    {
+      "kombi_id": "kombi-balance",
+      "status": "offen",
+      "gesamtquote": 6.75
+    },
+    {
+      "kombi_id": "kombi-risiko",
+      "status": "offen",
+      "gesamtquote": 19.41
+    },
+    {
+      "kombi_id": "kombi-moonshot",
+      "status": "offen",
+      "gesamtquote": 65.52
+    }
+  ],
+  "ausgewertet_am": "2026-05-24T06:02:31+00:00"
+}
