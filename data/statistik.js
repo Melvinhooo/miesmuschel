@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-05-24T06:11:20+00:00",
+  "letzte_berechnung": "2026-05-24T06:12:44+00:00",
   "gesamt": {
     "tipps": 269,
     "gewonnen": 147,
