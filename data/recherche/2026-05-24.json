@@ -1,0 +1,3239 @@
+{
+  "datum": "2026-05-24",
+  "erstellt_am": "2026-05-24T08:03:03.602470+00:00",
+  "modus": "tag",
+  "hinweis": "Recherche-Daten Sonntag 24.05.2026 (Sa-So-Variante - Pre-Tipps-Datenbasis fuer Tipps-Slot ~10:00 Berlin). GROSSER FINALTAG IN EUROPA. PREMIER LEAGUE: Finaltag MD38, ALLE 10 Spiele gleichzeitig 17:00 Berlin (15:00 UTC). Arsenal (82 Pkt) bereits MEISTER und spielt am 30.05. CL-Finale vs PSG in Budapest -> HOHES Rotations-Risiko bei Crystal Palace; ZUSAETZLICH steht Crystal Palace selbst am 28.05. im Conference-League-Finale -> auch Palace mit Rotations-Anreiz (beide Teams koennten Reservisten bringen). Europa-Platz-Rennen (6./7. + Conference) eng zwischen Bournemouth (56), Brighton (53), Chelsea (52), Brentford (52), Sunderland (51). ABSTIEG: Burnley (21) + Wolves (19) bereits abgestiegen -> Burnley-Wolves = Dead Rubber; West Ham (18., 36 Pkt) in der Abstiegszone, muss gewinnen UND auf Tottenham-Patzer (17., 38 Pkt) hoffen, Tordifferenz spricht aber gegen West Ham (-22 vs -10). Man City (78) 2. Platz gesichert, Aston Villa/Liverpool um CL-Plaetze. LALIGA: Finaltag MD38, nur Villarreal-Atletico tipprelevant (21:00 Berlin) - ABER beide (je 69 Pkt) haben CL bereits sicher, es geht nur noch um Platz 3 (Setzung/Prestige) -> reduzierte Motivations-Brisanz trotz Spitzenduell. Barca (94) Meister, Real Madrid (86) 2. SERIE A: Finaltag MD38, 7 Spiele. Inter (87) Meister so gut wie sicher. CL-/Europa-Rennen eng: Napoli (73, sichert CL/Platz 2 mit Remis vs Udinese), Milan (70) vs Cagliari, Roma (70) @ Verona, Como (68), Juventus (68) @ Torino kaempfen um Plaetze 3-6. Abstieg: Verona (21) + Pisa (18) quasi durch; Lecce (35) vs Cremonese (34) Restchance Klassenerhalt. Schluesselspiele: Napoli-Udinese, Torino-Juventus, Verona-Roma, Milan-Cagliari. BUNDESLIGA RUHT (Saison am 17.05. beendet - Bayern Meister, Wolfsburg/Heidenheim/St. Pauli abgestiegen). LIGUE 1 beendet. Keine CL/EL-Spiele heute (CL-Finale erst 30.05., Conference-Finale 28.05.). NBA: ACHTUNG SCHEDULE-DISKREPANZ - Plan-API nannte 'Game 3', tatsaechlich ist das Spiel am 24.05. in San Antonio GAME 4 (Game 3 war bereits 22.05., Thunder 123-108). Serie steht 2-1 fuer OKC, Spurs Must-Win zuhause. Tip-off ~20:00 ET = 02:00 Berlin am 25.05. Star-Matchup SGA (MVP) vs Wembanyama (DPOY); Fox (Ankle) + Harper (Adduktor) bei Spurs angeschlagen, Jalen Williams (Hamstring) bei OKC day-to-day. KASSE-Stand 04.05.2026: 550 EUR -> Stufe 1 (Aufbau-Phase) aktiv (Kasse < 1000 EUR). 2:0-INSURANCE-Regel gilt nur fuer 1. Bundesliga + Champions League: heute KEIN BL- und kein CL-Spiel -> Insurance heute NICHT anwendbar. NBA-MARKT-VERBOTE DE: Einzel-Rebounds, Einzel-Assists, Einzel-3er und PRA-Kombos NICHT als Tipp setzen (im NBA-Quoten-Block unter 'verboten_in_de_nur_dokumentation' nur dokumentiert); reine Spieler-PUNKTE-Linien sind erlaubt. QUOTEN: alle Fussball- und NBA-Quoten via Aggregator (Sportsgambler/Sofascore/Oddschecker/DraftKings/FanDuel/covers etc.), teils US-Format in Dezimal konvertiert - KEINE bet365-Originalquoten, vor Einsatz live bei bet365 DE pruefen. NIE Spielernamen oder Quoten erfunden - Squad-Listen ausschliesslich aus zitierten Vorbericht-/Lineup-Quellen (verifiziert_via je Spieler).",
+  "spiele": [
+    {
+      "id": "2026-05-24-sun-che",
+      "liga": "Premier League",
+      "matchday": 38,
+      "heim": "Sunderland",
+      "gast": "Chelsea",
+      "anstoss": "2026-05-24T17:00:00+02:00",
+      "anstoss_utc": "2026-05-24T15:00:00Z",
+      "stadion": "Stadium of Light, Sunderland",
+      "squad_heim": [
+        {
+          "name": "Robin Roefs",
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/sunderland-vs-chelsea-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Granit Xhaka",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/sunderland-vs-chelsea-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Enzo Le Fee",
+          "position": "OM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/sunderland-vs-chelsea-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Trai Hume",
+          "position": "RF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/sunderland-vs-chelsea-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Nilson Angulo",
+          "position": "LF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/sunderland-vs-chelsea-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Brian Brobbey",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/sunderland-vs-chelsea-prediction-lineups-odds-2026-05-24/"
+        }
+      ],
+      "squad_gast": [
+        {
+          "name": "Robert Sanchez",
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/sunderland-vs-chelsea-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Cole Palmer",
+          "position": "OM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/sunderland-vs-chelsea-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Enzo Fernandez",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/sunderland-vs-chelsea-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Pedro Neto",
+          "position": "RF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/sunderland-vs-chelsea-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Joao Pedro",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/sunderland-vs-chelsea-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Moises Caicedo",
+          "position": "DM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/sunderland-vs-chelsea-prediction-lineups-odds-2026-05-24/"
+        }
+      ],
+      "injuries_heim": [
+        "Daniel Ballard (Rotsperre, OUT)",
+        "Romaine Mundle (Oberschenkel, OUT)",
+        "Chemsdine Talbi (Muskel, OUT)",
+        "Jenson Seelt (Knie, OUT)",
+        "Ajibola Alese (Oberschenkel, OUT)"
+      ],
+      "injuries_gast": [
+        "Estevao (Oberschenkel, OUT)",
+        "Benoit Badiashile (Krankheit, fraglich)",
+        "Aaron Anselmino (Muskel, OUT)",
+        "Mykhaylo Mudryk (Dopingsperre, OUT)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Saisonabschluss",
+        "gast": "keine - Saisonabschluss",
+        "quellen": []
+      },
+      "saisonziel_heim": "Sunderland (10., 51 Pkt) kann mit Sieg noch in Richtung Europa-/Conference-Platz schielen, Klassenerhalt als Aufsteiger laengst gesichert.",
+      "saisonziel_gast": "Chelsea (8., 52 Pkt) kaempft um die Europa-/Conference-League-Plaetze (6./7.) und braucht den Sieg.",
+      "tabellenstand": {
+        "heim_platz": 10,
+        "heim_pkt": 51,
+        "gast_platz": 8,
+        "gast_pkt": 52
+      },
+      "form_heim_letzte_5": null,
+      "form_gast_letzte_5": null,
+      "recovery_heim": "~6-7 Tage seit MD37 (~17.-18.05.)",
+      "recovery_gast": "~6-7 Tage seit MD37 (~17.-18.05.)",
+      "quoten": {
+        "bet365_aggregator": {
+          "sieg_heim": 3.45,
+          "draw": 3.6,
+          "sieg_gast": 2.08,
+          "ueber_2_5": 1.73,
+          "unter_2_5": 2.08,
+          "btts_ja": 1.58,
+          "btts_nein": 2.25,
+          "dc_1x": 1.74,
+          "dc_x2": 1.3,
+          "torschuetzen_jederzeit": [
+            {
+              "name": "Joao Pedro",
+              "quote": 4.7
+            },
+            {
+              "name": "Cole Palmer",
+              "quote": 6.1
+            },
+            {
+              "name": "Brian Brobbey",
+              "quote": 6.5
+            },
+            {
+              "name": "Enzo Fernandez",
+              "quote": 6.75
+            }
+          ]
+        },
+        "hinweis": "Quoten sportsgambler.com im US-Format, in Dezimal konvertiert. Bei bet365 live pruefen. Chelsea voraussichtlich mit Rueckkehr von Reece James + Levi Colwill."
+      },
+      "news_kompakt": [
+        "Beide Teams koennen mit einem Sieg noch einen Europa-/Conference-Platz erreichen.",
+        "Sunderland fehlt der gesperrte Innenverteidiger Dan Ballard (letztes Spiel der 3-Spiele-Sperre).",
+        "Chelsea bekommt Kapitaen Reece James und Levi Colwill voraussichtlich zurueck.",
+        "Mudryk faellt bei Chelsea wegen Dopingsperre weiterhin aus."
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/sunderland-vs-chelsea-prediction-lineups-odds-2026-05-24/",
+        "https://ratingbet.com/predictions/sunderland-vs-chelsea-prediction-teams-form-analysis-possible-lineups-on-may-24-2026/"
+      ]
+    },
+    {
+      "id": "2026-05-24-bri-mun",
+      "liga": "Premier League",
+      "matchday": 38,
+      "heim": "Brighton & Hove Albion",
+      "gast": "Manchester United",
+      "anstoss": "2026-05-24T17:00:00+02:00",
+      "anstoss_utc": "2026-05-24T15:00:00Z",
+      "stadion": "American Express Stadium, Falmer (Brighton)",
+      "squad_heim": [
+        {
+          "name": "Bart Verbruggen",
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/brighton-vs-manchester-united-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Danny Welbeck",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/brighton-vs-manchester-united-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Yankuba Minteh",
+          "position": "RF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/brighton-vs-manchester-united-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Diego Gomez",
+          "position": "OM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/brighton-vs-manchester-united-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Jack Hinshelwood",
+          "position": "OM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/brighton-vs-manchester-united-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Carlos Baleba",
+          "position": "DM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/brighton-vs-manchester-united-prediction-lineups-odds-2026-05-24/"
+        }
+      ],
+      "squad_gast": [
+        {
+          "name": "Senne Lammens",
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/brighton-vs-manchester-united-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Bryan Mbeumo",
+          "position": "RF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/brighton-vs-manchester-united-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Matheus Cunha",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/brighton-vs-manchester-united-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Bruno Fernandes",
+          "position": "OM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/brighton-vs-manchester-united-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Amad Diallo",
+          "position": "LF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/brighton-vs-manchester-united-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Kobbie Mainoo",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/brighton-vs-manchester-united-prediction-lineups-odds-2026-05-24/"
+        }
+      ],
+      "injuries_heim": [
+        "Kaoru Mitoma (Oberschenkel, OUT)",
+        "Evan Ferguson (Knoechel, OUT)",
+        "Stefanos Tzimas (Kreuzband, OUT)",
+        "Adam Webster (Knie, OUT)"
+      ],
+      "injuries_gast": [
+        "Casemiro (OUT)",
+        "Matthijs de Ligt (Rueckenbeschwerden, OUT)",
+        "Harry Amass (Oberschenkel, OUT)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Saisonabschluss",
+        "gast": "keine - Saisonabschluss",
+        "quellen": []
+      },
+      "saisonziel_heim": "Brighton (7., 53 Pkt) mitten im Rennen um die Europa-/Conference-Plaetze, ein Sieg sichert/verbessert die Europa-Position.",
+      "saisonziel_gast": "Manchester United (3., 68 Pkt) hat Platz 3 quasi gesichert, sportlich kaum noch etwas zu gewinnen oder zu verlieren.",
+      "tabellenstand": {
+        "heim_platz": 7,
+        "heim_pkt": 53,
+        "gast_platz": 3,
+        "gast_pkt": 68
+      },
+      "form_heim_letzte_5": null,
+      "form_gast_letzte_5": null,
+      "recovery_heim": "~6-7 Tage seit MD37 (~17.-18.05.)",
+      "recovery_gast": "~6-7 Tage seit MD37 (~17.-18.05.)",
+      "quoten": {
+        "bet365_aggregator": {
+          "sieg_heim": 1.81,
+          "draw": 4.2,
+          "sieg_gast": 3.8,
+          "ueber_2_5": 1.44,
+          "unter_2_5": 2.75,
+          "btts_ja": 1.43,
+          "btts_nein": 2.65,
+          "dc_1x": 1.26,
+          "dc_x2": 2.02,
+          "torschuetzen_jederzeit": [
+            {
+              "name": "Danny Welbeck",
+              "quote": 2.1
+            },
+            {
+              "name": "Yankuba Minteh",
+              "quote": 8.0
+            },
+            {
+              "name": "Diego Gomez",
+              "quote": 7.5
+            }
+          ]
+        },
+        "hinweis": "Quoten sportsgambler.com im US-Format, in Dezimal konvertiert. Bei bet365 live pruefen. ACHTUNG: sportsgambler-Torschuetzenliste nannte auch B. Sesko (gehoert zu MUN, dort aber als verletzt gefuehrt) und Kostoulas - vor Wett-Nutzung Kaderzugehoerigkeit pruefen."
+      },
+      "news_kompakt": [
+        "Brighton (7.) kaempft direkt um einen Europa-/Conference-Platz, Man United (3.) hat seinen Platz weitgehend sicher.",
+        "Brighton ohne Mitoma und Ferguson im Angriff.",
+        "United ohne Casemiro und de Ligt.",
+        "Bei den Buchmachern ist Brighton leichter Favorit (Heimvorteil + Motivation)."
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/brighton-vs-manchester-united-prediction-lineups-odds-2026-05-24/",
+        "https://ratingbet.com/predictions/brighton-hove-albion-vs-manchester-united-prediction-teams-form-analysis-possible-lineups-on-may-24-2026/"
+      ]
+    },
+    {
+      "id": "2026-05-24-cry-ars",
+      "liga": "Premier League",
+      "matchday": 38,
+      "heim": "Crystal Palace",
+      "gast": "Arsenal",
+      "anstoss": "2026-05-24T17:00:00+02:00",
+      "anstoss_utc": "2026-05-24T15:00:00Z",
+      "stadion": "Selhurst Park, London",
+      "squad_heim": [
+        {
+          "name": "Dean Henderson",
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/crystal-palace-vs-arsenal-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Jorgen Strand Larsen",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/crystal-palace-vs-arsenal-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Brennan Johnson",
+          "position": "RF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/crystal-palace-vs-arsenal-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Yeremy Pino",
+          "position": "LF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/crystal-palace-vs-arsenal-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Daniel Munoz",
+          "position": "RV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/crystal-palace-vs-arsenal-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Jefferson Lerma",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/crystal-palace-vs-arsenal-prediction-lineups-odds-2026-05-24/"
+        }
+      ],
+      "squad_gast": [
+        {
+          "name": "David Raya",
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/crystal-palace-vs-arsenal-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Viktor Gyokeres",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/crystal-palace-vs-arsenal-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Gabriel Martinelli",
+          "position": "LF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/crystal-palace-vs-arsenal-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Noni Madueke",
+          "position": "RF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/crystal-palace-vs-arsenal-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Eberechi Eze",
+          "position": "OM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/crystal-palace-vs-arsenal-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Martin Zubimendi",
+          "position": "DM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/crystal-palace-vs-arsenal-prediction-lineups-odds-2026-05-24/"
+        }
+      ],
+      "injuries_heim": [
+        "Chris Richards (Schlag/Knock, fraglich)",
+        "Eddie Nketiah (Oberschenkel, OUT)"
+      ],
+      "injuries_gast": [
+        "Jurrien Timber (Knoechel, OUT)",
+        "Ben White (Knie, OUT)",
+        "Karl Hein (Hand, OUT)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "Europa-Conference-League-Finale am 28.05.2026 (3 Tage nach diesem Spiel) - Rotations-Anreiz",
+        "gast": "Champions-League-Finale am 30.05.2026 vs Paris Saint-Germain im Puskas Arena, Budapest (6 Tage spaeter) - hohes Rotations-Risiko bei Arsenal",
+        "quellen": [
+          "https://en.wikipedia.org/wiki/2026_UEFA_Champions_League_final",
+          "https://www.uefa.com/uefachampionsleague/match/2047742--paris-vs-arsenal/final/",
+          "https://www.arsenal.com/fixture/arsenal/2026-May-30/paris-saint-germain"
+        ]
+      },
+      "saisonziel_heim": "Crystal Palace (15., 45 Pkt) im Liga-Alltag nichts mehr zu holen, Fokus klar auf dem Conference-League-Finale 3 Tage spaeter -> Rotationsgefahr.",
+      "saisonziel_gast": "Arsenal (1., 82 Pkt) bereits Meister, alle Augen auf dem CL-Finale gegen PSG -> starkes Rotations-Risiko.",
+      "tabellenstand": {
+        "heim_platz": 15,
+        "heim_pkt": 45,
+        "gast_platz": 1,
+        "gast_pkt": 82
+      },
+      "form_heim_letzte_5": null,
+      "form_gast_letzte_5": null,
+      "recovery_heim": "~6-7 Tage seit MD37; danach nur 3 Tage bis Conference-Finale (28.05.)",
+      "recovery_gast": "~6-7 Tage seit MD37; danach 6 Tage bis CL-Finale (30.05.)",
+      "quoten": {
+        "bet365_aggregator": {
+          "sieg_heim": 3.95,
+          "draw": 3.7,
+          "sieg_gast": 1.9,
+          "ueber_2_5": 1.73,
+          "unter_2_5": 2.08,
+          "btts_ja": 1.62,
+          "btts_nein": 2.18,
+          "dc_1x": 1.9,
+          "dc_x2": 1.24,
+          "torschuetzen_jederzeit": [
+            {
+              "name": "Viktor Gyokeres",
+              "quote": 4.9
+            },
+            {
+              "name": "Jean-Philippe Mateta",
+              "quote": 6.0
+            },
+            {
+              "name": "Kai Havertz",
+              "quote": 7.0
+            }
+          ]
+        },
+        "hinweis": "Quoten sportsgambler.com im US-Format, in Dezimal konvertiert. Bei bet365 live pruefen. ACHTUNG: Beide angegebenen Aufstellungen sind Prognosen VOR einer wahrscheinlichen starken Rotation wegen der bevorstehenden Europapokal-Finals - reale Startelf kann stark abweichen. Torschuetzenliste nennt Mateta + Havertz, obwohl die prognostizierte Elf Strand Larsen bzw. Gyokeres zeigt."
+      },
+      "news_kompakt": [
+        "Arsenal ist bereits Meister und spielt am 30.05. das CL-Finale gegen PSG in Budapest - hohe Rotationswahrscheinlichkeit.",
+        "Crystal Palace bestreitet 3 Tage spaeter (28.05.) das Conference-League-Finale - ebenfalls Rotations-Anreiz.",
+        "Buchmacher sehen Arsenal trotz Rotation als Favorit (~55-58% Siegchance laut Modellen).",
+        "Arsenal ohne Timber, Ben White und Ersatztorwart Hein; Palace mit Frage um Richards."
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/crystal-palace-vs-arsenal-prediction-lineups-odds-2026-05-24/",
+        "https://en.wikipedia.org/wiki/2026_UEFA_Champions_League_final",
+        "https://www.uefa.com/uefachampionsleague/match/2047742--paris-vs-arsenal/final/"
+      ]
+    },
+    {
+      "id": "2026-05-24-bur-wol",
+      "liga": "Premier League",
+      "matchday": 38,
+      "heim": "Burnley",
+      "gast": "Wolverhampton Wanderers",
+      "anstoss": "2026-05-24T17:00:00+02:00",
+      "anstoss_utc": "2026-05-24T15:00:00Z",
+      "stadion": "Turf Moor, Burnley",
+      "squad_heim": [
+        {
+          "name": "Martin Dubravka",
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/burnley-vs-wolves-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Zian Flemming",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/burnley-vs-wolves-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Jaidon Anthony",
+          "position": "LF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/burnley-vs-wolves-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Loum Tchaouna",
+          "position": "RF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/burnley-vs-wolves-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Hannibal Mejbri",
+          "position": "OM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/burnley-vs-wolves-prediction-lineups-odds-2026-05-24/",
+          "hinweis": "koerperliche Beschwerden, fraglich"
+        }
+      ],
+      "squad_gast": [
+        {
+          "name": "Jose Sa",
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/burnley-vs-wolves-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Adam Armstrong",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/burnley-vs-wolves-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Mateus Mane",
+          "position": "LF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/burnley-vs-wolves-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Hwang Hee-chan",
+          "position": "RF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/burnley-vs-wolves-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Joao Gomes",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/burnley-vs-wolves-prediction-lineups-odds-2026-05-24/"
+        }
+      ],
+      "injuries_heim": [
+        "Josh Cullen (Kreuzband, OUT)",
+        "Jordan Beyer (Oberschenkel, OUT)",
+        "Hannibal Mejbri (koerperliche Beschwerden, fraglich)"
+      ],
+      "injuries_gast": [
+        "Matt Doherty (Schlag/Knock, fraglich)",
+        "Sam Johnstone (Schulter, OUT)",
+        "Enso Gonzalez (Knie, OUT)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Saisonabschluss",
+        "gast": "keine - Saisonabschluss",
+        "quellen": []
+      },
+      "saisonziel_heim": "Burnley (19., 21 Pkt) bereits abgestiegen - Dead Rubber ohne sportliche Bedeutung.",
+      "saisonziel_gast": "Wolverhampton (20., 19 Pkt) bereits abgestiegen - Dead Rubber ohne sportliche Bedeutung.",
+      "tabellenstand": {
+        "heim_platz": 19,
+        "heim_pkt": 21,
+        "gast_platz": 20,
+        "gast_pkt": 19
+      },
+      "form_heim_letzte_5": null,
+      "form_gast_letzte_5": null,
+      "recovery_heim": "~6-7 Tage seit MD37 (~17.-18.05.)",
+      "recovery_gast": "~6-7 Tage seit MD37 (~17.-18.05.)",
+      "quoten": {
+        "bet365_aggregator": {
+          "sieg_heim": 2.35,
+          "draw": 3.6,
+          "sieg_gast": 2.9,
+          "ueber_2_5": 1.7,
+          "unter_2_5": 2.14,
+          "btts_ja": 1.55,
+          "btts_nein": 2.33,
+          "dc_1x": null,
+          "dc_x2": null,
+          "torschuetzen_jederzeit": [
+            {
+              "name": "Zian Flemming",
+              "quote": 2.3
+            },
+            {
+              "name": "Jaidon Anthony",
+              "quote": 3.8
+            },
+            {
+              "name": "Mateus Mane",
+              "quote": 7.0
+            },
+            {
+              "name": "Adam Armstrong",
+              "quote": 7.5
+            }
+          ]
+        },
+        "hinweis": "Quoten sportsgambler.com im US-Format, in Dezimal konvertiert. Bei bet365 live pruefen. Doppelte-Chance-Quoten lagen bei sportsgambler nicht vor (leer). Beide Teams bereits abgestiegen - Dead Rubber, Aufstellungen sehr unsicher."
+      },
+      "news_kompakt": [
+        "Kellerduell zweier bereits feststehender Absteiger - rein sportlich bedeutungslos.",
+        "Burnley ohne Josh Cullen (Kreuzband) und Jordan Beyer.",
+        "Wolves ohne Sam Johnstone, daher Jose Sa im Tor.",
+        "Knappe Quoten ohne klaren Favoriten, Burnley leicht vorn."
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/burnley-vs-wolves-prediction-lineups-odds-2026-05-24/"
+      ]
+    },
+    {
+      "id": "2026-05-24-ful-new",
+      "liga": "Premier League",
+      "matchday": 38,
+      "heim": "Fulham",
+      "gast": "Newcastle United",
+      "anstoss": "2026-05-24T17:00:00+02:00",
+      "anstoss_utc": "2026-05-24T15:00:00Z",
+      "stadion": "Craven Cottage, London",
+      "squad_heim": [
+        {
+          "name": "Bernd Leno",
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/fulham-vs-newcastle-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Rodrigo Muniz",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/fulham-vs-newcastle-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Alex Iwobi",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/fulham-vs-newcastle-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Oscar Bobb",
+          "position": "RF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/fulham-vs-newcastle-prediction-lineups-odds-2026-05-24/",
+          "hinweis": "Spielername laut sportsgambler-Prognose - Vereinszugehoerigkeit (Leihe?) vor Nutzung pruefen"
+        },
+        {
+          "name": "Joshua King",
+          "position": "OM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/fulham-vs-newcastle-prediction-lineups-odds-2026-05-24/"
+        }
+      ],
+      "squad_gast": [
+        {
+          "name": "Nick Pope",
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/fulham-vs-newcastle-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Nick Woltemade",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/fulham-vs-newcastle-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Harvey Barnes",
+          "position": "LF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/fulham-vs-newcastle-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Jacob Ramsey",
+          "position": "RF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/fulham-vs-newcastle-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Bruno Guimaraes",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/fulham-vs-newcastle-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Sandro Tonali",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/fulham-vs-newcastle-prediction-lineups-odds-2026-05-24/"
+        }
+      ],
+      "injuries_heim": [
+        "Joachim Andersen (Rotsperre, OUT)"
+      ],
+      "injuries_gast": [
+        "Joelinton (Oberschenkel, OUT)",
+        "Fabian Schaer (Knoechel, OUT)",
+        "Tino Livramento (Leiste, OUT)",
+        "Lewis Miley (Wade, OUT)",
+        "Emil Krafth (Knie, OUT)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Saisonabschluss",
+        "gast": "keine - Saisonabschluss",
+        "quellen": []
+      },
+      "saisonziel_heim": "Fulham (13., 49 Pkt) im gesicherten Mittelfeld, theoretisch Europa-Aussenseiter, praktisch wenig auf dem Spiel.",
+      "saisonziel_gast": "Newcastle (11., 49 Pkt) im Mittelfeld, mit Sieg theoretisch noch Conference-Aussenseiter, sonst nichts mehr zu holen.",
+      "tabellenstand": {
+        "heim_platz": 13,
+        "heim_pkt": 49,
+        "gast_platz": 11,
+        "gast_pkt": 49
+      },
+      "form_heim_letzte_5": null,
+      "form_gast_letzte_5": null,
+      "recovery_heim": "~6-7 Tage seit MD37 (~17.-18.05.)",
+      "recovery_gast": "~6-7 Tage seit MD37 (~17.-18.05.)",
+      "quoten": {
+        "bet365_aggregator": {
+          "sieg_heim": 2.75,
+          "draw": 3.65,
+          "sieg_gast": 2.45,
+          "ueber_2_5": 1.53,
+          "unter_2_5": 2.48,
+          "btts_ja": 1.44,
+          "btts_nein": 2.63,
+          "dc_1x": 1.54,
+          "dc_x2": 1.45,
+          "torschuetzen_jederzeit": [
+            {
+              "name": "William Osula",
+              "quote": 2.6
+            },
+            {
+              "name": "Raul Jimenez",
+              "quote": 6.5
+            },
+            {
+              "name": "Harry Wilson",
+              "quote": 7.5
+            },
+            {
+              "name": "Harvey Barnes",
+              "quote": 7.5
+            }
+          ]
+        },
+        "hinweis": "Quoten sportsgambler.com im US-Format, in Dezimal konvertiert. Bei bet365 live pruefen. Newcastle stark dezimiert (5 Ausfaelle), daher Osula/Woltemade vorne. Spieler 'Kevin' und 'Oscar Bobb' in Fulham-Prognose - Kaderstand vor Nutzung verifizieren."
+      },
+      "news_kompakt": [
+        "Mittelfeld-Duell, beide Teams mit 49 Punkten und kaum noch sportlichem Druck.",
+        "Newcastle reist mit zahlreichen Ausfaellen an (Joelinton, Schaer, Livramento, Miley, Krafth).",
+        "Fulham ohne den gesperrten Joachim Andersen in der Abwehr.",
+        "Buchmacher sehen ein offenes Spiel, BTTS-Ja klar favorisiert."
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/fulham-vs-newcastle-prediction-lineups-odds-2026-05-24/",
+        "https://ratingbet.com/predictions/fulham-vs-newcastle-united-prediction-expert-analysis-possible-lineups-may-24-2026/"
+      ]
+    },
+    {
+      "id": "2026-05-24-liv-bre",
+      "liga": "Premier League",
+      "matchday": 38,
+      "heim": "Liverpool",
+      "gast": "Brentford",
+      "anstoss": "2026-05-24T17:00:00+02:00",
+      "anstoss_utc": "2026-05-24T15:00:00Z",
+      "stadion": "Anfield, Liverpool",
+      "squad_heim": [
+        {
+          "name": "Alisson Becker",
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/liverpool-vs-brentford-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Mohamed Salah",
+          "position": "RF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/liverpool-vs-brentford-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Cody Gakpo",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/liverpool-vs-brentford-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Florian Wirtz",
+          "position": "OM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/liverpool-vs-brentford-prediction-lineups-odds-2026-05-24/",
+          "hinweis": "in fruehen Vorschauen als fraglich gefuehrt, sportsgambler setzt ihn in die Startelf"
+        },
+        {
+          "name": "Dominik Szoboszlai",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/liverpool-vs-brentford-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Alexis Mac Allister",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/liverpool-vs-brentford-prediction-lineups-odds-2026-05-24/"
+        }
+      ],
+      "squad_gast": [
+        {
+          "name": "Caoimhin Kelleher",
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/liverpool-vs-brentford-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Igor Thiago",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/liverpool-vs-brentford-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Kevin Schade",
+          "position": "LF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/liverpool-vs-brentford-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Dango Ouattara",
+          "position": "RF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/liverpool-vs-brentford-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Mikkel Damsgaard",
+          "position": "OM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/liverpool-vs-brentford-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Mathias Jensen",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/liverpool-vs-brentford-prediction-lineups-odds-2026-05-24/"
+        }
+      ],
+      "injuries_heim": [
+        "Hugo Ekitike (Wade, OUT)",
+        "Conor Bradley (Knie, OUT)",
+        "Vitezslav Jaros (Knie, OUT)",
+        "Giovanni Leoni (Kreuzband, OUT)",
+        "Stefan Bajcetic (Oberschenkel, OUT)"
+      ],
+      "injuries_gast": [
+        "Rico Henry (Oberschenkel, OUT)",
+        "Fabio Carvalho (Kreuzband, OUT)",
+        "Antoni Milambo (Knie, OUT)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Saisonabschluss",
+        "gast": "keine - Saisonabschluss",
+        "quellen": []
+      },
+      "saisonziel_heim": "Liverpool (5., 59 Pkt) kaempft um eine bessere Europa-Position, will den Heim-Saisonabschluss (Abschied Salah/Robertson kolportiert) gewinnen.",
+      "saisonziel_gast": "Brentford (9., 52 Pkt) noch im Aussenseiterrennen um Europa-/Conference-Plaetze, ein Sieg waere nötig.",
+      "tabellenstand": {
+        "heim_platz": 5,
+        "heim_pkt": 59,
+        "gast_platz": 9,
+        "gast_pkt": 52
+      },
+      "form_heim_letzte_5": null,
+      "form_gast_letzte_5": null,
+      "recovery_heim": "~6-7 Tage seit MD37 (~17.-18.05.)",
+      "recovery_gast": "~6-7 Tage seit MD37 (~17.-18.05.)",
+      "quoten": {
+        "bet365_aggregator": {
+          "sieg_heim": 1.82,
+          "draw": 4.0,
+          "sieg_gast": 3.95,
+          "ueber_2_5": 1.47,
+          "unter_2_5": 2.63,
+          "btts_ja": 1.45,
+          "btts_nein": 2.6,
+          "dc_1x": 1.24,
+          "dc_x2": 1.98,
+          "torschuetzen_jederzeit": [
+            {
+              "name": "Mohamed Salah",
+              "quote": 5.5
+            },
+            {
+              "name": "Cody Gakpo",
+              "quote": 6.0
+            },
+            {
+              "name": "Igor Thiago",
+              "quote": 5.2
+            },
+            {
+              "name": "Dango Ouattara",
+              "quote": 12.0
+            }
+          ]
+        },
+        "hinweis": "Quoten sportsgambler.com im US-Format, in Dezimal konvertiert. Bei bet365 live pruefen. ACHTUNG: sportsgambler-Torschuetzenliste fuehrte 'Hugo Ekitike +400', obwohl er in derselben Quelle als Wade-Verletzung (OUT bis ~Okt 2026) gefuehrt wird - Quelle widerspruechlich, Ekitike-Quote nicht uebernommen."
+      },
+      "news_kompakt": [
+        "Liverpool (5.) will die Saison zu Hause gewinnen, Berichte ueber Abschied von Salah und Robertson sorgen fuer emotionalen Rahmen.",
+        "Brentford (9.) noch theoretischer Europa-Aussenseiter.",
+        "Liverpool mit mehreren Ausfaellen u.a. Ekitike (Wade).",
+        "Buchmacher klar fuer Liverpool, Ueber 2.5 favorisiert."
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/liverpool-vs-brentford-prediction-lineups-odds-2026-05-24/",
+        "https://ratingbet.com/predictions/liverpool-vs-brentford-prediction-teams-form-analysis-possible-lineups-on-may-24-2026/"
+      ]
+    },
+    {
+      "id": "2026-05-24-mci-avl",
+      "liga": "Premier League",
+      "matchday": 38,
+      "heim": "Manchester City",
+      "gast": "Aston Villa",
+      "anstoss": "2026-05-24T17:00:00+02:00",
+      "anstoss_utc": "2026-05-24T15:00:00Z",
+      "stadion": "Etihad Stadium, Manchester",
+      "squad_heim": [
+        {
+          "name": "Gianluigi Donnarumma",
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-city-vs-aston-villa-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Erling Haaland",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-city-vs-aston-villa-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Jeremy Doku",
+          "position": "LF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-city-vs-aston-villa-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Rayan Cherki",
+          "position": "OM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-city-vs-aston-villa-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Phil Foden",
+          "position": "OM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-city-vs-aston-villa-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Bernardo Silva",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-city-vs-aston-villa-prediction-lineups-odds-2026-05-24/"
+        }
+      ],
+      "squad_gast": [
+        {
+          "name": "Marco Bizot",
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-city-vs-aston-villa-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Tammy Abraham",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-city-vs-aston-villa-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Morgan Rogers",
+          "position": "OM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-city-vs-aston-villa-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Jadon Sancho",
+          "position": "LF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-city-vs-aston-villa-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Ross Barkley",
+          "position": "OM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-city-vs-aston-villa-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Amadou Onana",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/manchester-city-vs-aston-villa-prediction-lineups-odds-2026-05-24/"
+        }
+      ],
+      "injuries_heim": [
+        "Mateo Kovacic (Rotsperre, OUT)",
+        "Jack Grealish (Fuss, OUT)",
+        "Manuel Akanji (Verletzung, OUT)",
+        "Kalvin Phillips (Muskel, OUT)"
+      ],
+      "injuries_gast": [
+        "Boubacar Kamara (Knie, OUT)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Saisonabschluss",
+        "gast": "keine - Saisonabschluss (Europa-League laut Vorschau bereits abgeschlossen)",
+        "quellen": []
+      },
+      "saisonziel_heim": "Manchester City (2., 78 Pkt) Vize-Meisterschaft gesichert, will Pep Guardiola laut Vorschauen einen wuerdigen Heim-Abschied bereiten.",
+      "saisonziel_gast": "Aston Villa (4., 62 Pkt) Platz 4 (CL-Quali) gesichert, sportlich wenig Druck; laut Vorschau evtl. noch Nachwehen einer Europa-League-Feier.",
+      "tabellenstand": {
+        "heim_platz": 2,
+        "heim_pkt": 78,
+        "gast_platz": 4,
+        "gast_pkt": 62
+      },
+      "form_heim_letzte_5": null,
+      "form_gast_letzte_5": null,
+      "recovery_heim": "~6-7 Tage seit MD37 (~17.-18.05.)",
+      "recovery_gast": "~6-7 Tage seit MD37; laut Vorschau zusaetzliche Belastung durch moegliche Europa-League-Feier unter der Woche (unbestaetigt)",
+      "quoten": {
+        "bet365_aggregator": {
+          "sieg_heim": 1.3,
+          "draw": 6.1,
+          "sieg_gast": 8.5,
+          "ueber_2_5": 1.27,
+          "unter_2_5": 3.65,
+          "btts_ja": 1.5,
+          "btts_nein": 2.43,
+          "dc_1x": 1.07,
+          "dc_x2": null,
+          "torschuetzen_jederzeit": [
+            {
+              "name": "Erling Haaland",
+              "quote": 1.57
+            },
+            {
+              "name": "Ollie Watkins",
+              "quote": 8.5
+            }
+          ]
+        },
+        "hinweis": "Quoten sportsgambler.com im US-Format, in Dezimal konvertiert. Bei bet365 live pruefen. dc_x2 lag nicht vor. Hinweis auf Europa-League-Feier von Villa stammt aus der Buchmacher-Vorschau und ist NICHT unabhaengig verifiziert. City-Aufstellung mit Cherki/Semenyo etc. teils spekulativ."
+      },
+      "news_kompakt": [
+        "Man City (2., Vize-Meister) will Guardiola laut Vorschauen einen Heim-Abschied bescheren.",
+        "Aston Villa (4.) hat die CL-Quali sicher und reist ohne grossen Druck an.",
+        "City ohne den gesperrten Kovacic und ohne Grealish/Akanji/Phillips.",
+        "Buchmacher sehen City als klaren Favoriten (~72-79% Siegchance), Haaland Top-Torschuetzenfavorit."
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/manchester-city-vs-aston-villa-prediction-lineups-odds-2026-05-24/",
+        "https://www.si.com/soccer/man-city-vs-aston-villa-preview-predictions-lineups-5-24-26",
+        "https://www.football365.com/match-preview/man-city-v-aston-villa-prediction-preview"
+      ]
+    },
+    {
+      "id": "2026-05-24-nfo-bou",
+      "liga": "Premier League",
+      "matchday": 38,
+      "heim": "Nottingham Forest",
+      "gast": "AFC Bournemouth",
+      "anstoss": "2026-05-24T17:00:00+02:00",
+      "anstoss_utc": "2026-05-24T15:00:00Z",
+      "stadion": "City Ground, Nottingham",
+      "squad_heim": [
+        {
+          "name": "Matz Sels",
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/nottingham-forest-vs-bournemouth-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Chris Wood",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/nottingham-forest-vs-bournemouth-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Igor Jesus",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/nottingham-forest-vs-bournemouth-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Morgan Gibbs-White",
+          "position": "OM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/nottingham-forest-vs-bournemouth-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Omari Hutchinson",
+          "position": "RF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/nottingham-forest-vs-bournemouth-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Elliot Anderson",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/nottingham-forest-vs-bournemouth-prediction-lineups-odds-2026-05-24/"
+        }
+      ],
+      "squad_gast": [
+        {
+          "name": "Djordje Petrovic",
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/nottingham-forest-vs-bournemouth-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Evanilson",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/nottingham-forest-vs-bournemouth-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Eli Junior Kroupi",
+          "position": "LF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/nottingham-forest-vs-bournemouth-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Marcus Tavernier",
+          "position": "OM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/nottingham-forest-vs-bournemouth-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Rayan",
+          "position": "RF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/nottingham-forest-vs-bournemouth-prediction-lineups-odds-2026-05-24/",
+          "hinweis": "nur Vorname in Quelle - exakte Identitaet vor Nutzung pruefen"
+        },
+        {
+          "name": "Alex Scott",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/nottingham-forest-vs-bournemouth-prediction-lineups-odds-2026-05-24/"
+        }
+      ],
+      "injuries_heim": [
+        "Callum Hudson-Odoi (Oberschenkel, OUT)",
+        "Murillo (Oberschenkel, OUT)",
+        "Nicolo Savona (Knie, OUT)"
+      ],
+      "injuries_gast": [
+        "Ryan Christie (Rotsperre, OUT)",
+        "Hamed Traore (OUT)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Saisonabschluss",
+        "gast": "keine - Saisonabschluss",
+        "quellen": []
+      },
+      "saisonziel_heim": "Nottingham Forest (16., 43 Pkt) Klassenerhalt gesichert, sportlich nichts mehr zu holen.",
+      "saisonziel_gast": "Bournemouth (6., 56 Pkt) mitten im Rennen um Europa-Plaetze - ein Sieg sichert/verbessert die Europa-Position.",
+      "tabellenstand": {
+        "heim_platz": 16,
+        "heim_pkt": 43,
+        "gast_platz": 6,
+        "gast_pkt": 56
+      },
+      "form_heim_letzte_5": null,
+      "form_gast_letzte_5": null,
+      "recovery_heim": "~6-7 Tage seit MD37 (~17.-18.05.)",
+      "recovery_gast": "~6-7 Tage seit MD37 (~17.-18.05.)",
+      "quoten": {
+        "bet365_aggregator": {
+          "sieg_heim": 3.35,
+          "draw": 3.9,
+          "sieg_gast": 2.02,
+          "ueber_2_5": 1.54,
+          "unter_2_5": 2.43,
+          "btts_ja": 1.48,
+          "btts_nein": 2.5,
+          "dc_1x": 1.79,
+          "dc_x2": 1.32,
+          "torschuetzen_jederzeit": [
+            {
+              "name": "Eli Junior Kroupi",
+              "quote": 5.0
+            },
+            {
+              "name": "Chris Wood",
+              "quote": 7.0
+            },
+            {
+              "name": "Morgan Gibbs-White",
+              "quote": 7.0
+            },
+            {
+              "name": "Evanilson",
+              "quote": 6.75
+            }
+          ]
+        },
+        "hinweis": "Quoten sportsgambler.com im US-Format, in Dezimal konvertiert. Bei bet365 live pruefen. Bournemouth ohne den gesperrten Ryan Christie. Spieler 'Rayan' nur mit Vorname gelistet."
+      },
+      "news_kompakt": [
+        "Bournemouth (6.) kaempft direkt um einen Europa-Platz und ist auswaerts in guter Form.",
+        "Nottingham Forest (16.) hat den Klassenerhalt sicher und nichts mehr zu spielen.",
+        "Forest mit Ausfaellen u.a. Murillo und Hudson-Odoi.",
+        "Bournemouth ohne den gesperrten Ryan Christie; Buchmacher sehen die Cherries leicht vorn."
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/nottingham-forest-vs-bournemouth-prediction-lineups-odds-2026-05-24/",
+        "https://www.myfootballfacts.com/match-preview/premier-league-match-previews/match-preview-nottingham-forest-afc-bournemouth-premier-league-gameweek-38/"
+      ]
+    },
+    {
+      "id": "2026-05-24-tot-eve",
+      "liga": "Premier League",
+      "matchday": 38,
+      "heim": "Tottenham Hotspur",
+      "gast": "Everton",
+      "anstoss": "2026-05-24T17:00:00+02:00",
+      "anstoss_utc": "2026-05-24T15:00:00Z",
+      "stadion": "Tottenham Hotspur Stadium, London",
+      "squad_heim": [
+        {
+          "name": "Antonin Kinsky",
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/tottenham-vs-everton-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Richarlison",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/tottenham-vs-everton-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Mathys Tel",
+          "position": "LF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/tottenham-vs-everton-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Conor Gallagher",
+          "position": "OM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/tottenham-vs-everton-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Pape Sarr",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/tottenham-vs-everton-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Rodrigo Bentancur",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/tottenham-vs-everton-prediction-lineups-odds-2026-05-24/"
+        }
+      ],
+      "squad_gast": [
+        {
+          "name": "Jordan Pickford",
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/tottenham-vs-everton-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Beto",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/tottenham-vs-everton-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Iliman Ndiaye",
+          "position": "LF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/tottenham-vs-everton-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Kiernan Dewsbury-Hall",
+          "position": "OM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/tottenham-vs-everton-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Merlin Rohl",
+          "position": "RF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/tottenham-vs-everton-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "James Garner",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/tottenham-vs-everton-prediction-lineups-odds-2026-05-24/"
+        }
+      ],
+      "injuries_heim": [
+        "Cristian Romero (Knie, OUT)",
+        "Ben Davies (Knoechel, OUT)",
+        "Mohammed Kudus (Oberschenkel, OUT)",
+        "Xavi Simons (Kreuzband, OUT)",
+        "Dejan Kulusevski (Knie, OUT)",
+        "Wilson Odobert (Knie, OUT)"
+      ],
+      "injuries_gast": [
+        "Jarrad Branthwaite (Oberschenkel, OUT)",
+        "Jack Grealish (OUT, laut Vorschau)",
+        "Idrissa Gana Gueye (fraglich, laut Vorschau)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Saisonabschluss",
+        "gast": "keine - Saisonabschluss",
+        "quellen": []
+      },
+      "saisonziel_heim": "Tottenham (17., 38 Pkt) im Abstiegskampf, bleibt aber bei Sieg/Remis ODER West-Ham-Patzer in der Liga (12 Tore besseres Torverhaeltnis als West Ham).",
+      "saisonziel_gast": "Everton (12., 49 Pkt) im gesicherten Mittelfeld, sportlich nichts mehr zu spielen.",
+      "tabellenstand": {
+        "heim_platz": 17,
+        "heim_pkt": 38,
+        "gast_platz": 12,
+        "gast_pkt": 49
+      },
+      "form_heim_letzte_5": null,
+      "form_gast_letzte_5": null,
+      "recovery_heim": "~6-7 Tage seit MD37 (~17.-18.05.)",
+      "recovery_gast": "~6-7 Tage seit MD37 (~17.-18.05.)",
+      "quoten": {
+        "bet365_aggregator": {
+          "sieg_heim": 1.88,
+          "draw": 3.6,
+          "sieg_gast": 4.1,
+          "ueber_2_5": 1.75,
+          "unter_2_5": 2.06,
+          "btts_ja": 1.63,
+          "btts_nein": 2.17,
+          "dc_1x": 1.23,
+          "dc_x2": 1.9,
+          "torschuetzen_jederzeit": [
+            {
+              "name": "Richarlison",
+              "quote": 5.4
+            },
+            {
+              "name": "Beto",
+              "quote": 7.5
+            },
+            {
+              "name": "Iliman Ndiaye",
+              "quote": 11.0
+            }
+          ]
+        },
+        "hinweis": "Quoten sportsgambler.com im US-Format, in Dezimal konvertiert. Bei bet365 live pruefen. ACHTUNG: sportsgambler-Torschuetzenliste nannte auch 'Dominic Solanke +420', obwohl Solanke in mehreren Vorschauen als verletzt/OUT gefuehrt wird - Quelle widerspruechlich, Solanke-Quote nicht uebernommen. Tottenham extrem dezimiert (6 Ausfaelle)."
+      },
+      "news_kompakt": [
+        "Abstiegs-relevant: Tottenham (17.) bleibt bei Sieg/Remis sicher oben, dank 12 Tore besseren Torverhaeltnisses als West Ham reicht Spurs sogar eine Niederlage, falls West Ham nicht gewinnt.",
+        "Everton (12.) ohne sportlichen Druck.",
+        "Tottenham mit langer Verletztenliste (Romero, Kudus, Simons, Kulusevski u.a.).",
+        "Buchmacher sehen Spurs als Favorit; Opta gibt Tottenham nur ~14% Abstiegsrisiko."
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/tottenham-vs-everton-prediction-lineups-odds-2026-05-24/",
+        "https://www.espn.com/soccer/story/_/id/48747779/what-tottenham-west-ham-need-happen-ensure-their-own-premier-league-survival",
+        "https://www.premierleague.com/en/news/4609609/premier-league-relegation-battle-how-it-stands-and-remaining-fixtures"
+      ]
+    },
+    {
+      "id": "2026-05-24-whu-lee",
+      "liga": "Premier League",
+      "matchday": 38,
+      "heim": "West Ham United",
+      "gast": "Leeds United",
+      "anstoss": "2026-05-24T17:00:00+02:00",
+      "anstoss_utc": "2026-05-24T15:00:00Z",
+      "stadion": "London Stadium, London",
+      "squad_heim": [
+        {
+          "name": "Mads Hermansen",
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/west-ham-vs-leeds-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Valentin Castellanos",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/west-ham-vs-leeds-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Jarrod Bowen",
+          "position": "RF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/west-ham-vs-leeds-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Crysencio Summerville",
+          "position": "LF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/west-ham-vs-leeds-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Lucas Paqueta",
+          "position": "OM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/west-ham-vs-leeds-prediction-lineups-odds-2026-05-24/",
+          "hinweis": "in der Quelle als 'Pablo' gelistet - vermutlich Lucas Paqueta gemeint, vor Nutzung verifizieren"
+        },
+        {
+          "name": "Tomas Soucek",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/west-ham-vs-leeds-prediction-lineups-odds-2026-05-24/"
+        }
+      ],
+      "squad_gast": [
+        {
+          "name": "Karl Darlow",
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/west-ham-vs-leeds-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Dominic Calvert-Lewin",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/west-ham-vs-leeds-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Lukas Nmecha",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/west-ham-vs-leeds-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Brenden Aaronson",
+          "position": "OM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/west-ham-vs-leeds-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Ao Tanaka",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/west-ham-vs-leeds-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Ethan Ampadu",
+          "position": "DM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/west-ham-vs-leeds-prediction-lineups-odds-2026-05-24/"
+        }
+      ],
+      "injuries_heim": [
+        "Maxwel Cornet (OUT)",
+        "Lukasz Fabianski (OUT)",
+        "Adama Traore (Muskel, OUT laut Vorschau)"
+      ],
+      "injuries_gast": [
+        "Pascal Struijk (Hüfte, OUT/fraglich)",
+        "Noah Okafor (Wade, OUT)",
+        "Gabriel Gudmundsson (Oberschenkel, OUT)",
+        "Anton Stach (Knoechel, OUT)",
+        "Sean Longstaff (Leiste, OUT)",
+        "Ilia Gruev (Knie, OUT)",
+        "Mateo Joseph (Knoechel, OUT)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Saisonabschluss",
+        "gast": "keine - Saisonabschluss",
+        "quellen": []
+      },
+      "saisonziel_heim": "West Ham (18., 36 Pkt) im Abstiegskampf: MUSS gewinnen UND auf einen Tottenham-Patzer gegen Everton hoffen, sonst Abstieg besiegelt.",
+      "saisonziel_gast": "Leeds (14., 47 Pkt) Klassenerhalt gesichert, sportlich kein Druck, reist mit vielen Ausfaellen an.",
+      "tabellenstand": {
+        "heim_platz": 18,
+        "heim_pkt": 36,
+        "gast_platz": 14,
+        "gast_pkt": 47
+      },
+      "form_heim_letzte_5": null,
+      "form_gast_letzte_5": null,
+      "recovery_heim": "~6-7 Tage seit MD37 (~17.-18.05.)",
+      "recovery_gast": "~6-7 Tage seit MD37 (~17.-18.05.)",
+      "quoten": {
+        "bet365_aggregator": {
+          "sieg_heim": 1.76,
+          "draw": 4.1,
+          "sieg_gast": 4.2,
+          "ueber_2_5": 1.63,
+          "unter_2_5": 2.25,
+          "btts_ja": 1.6,
+          "btts_nein": 2.23,
+          "dc_1x": 1.22,
+          "dc_x2": null,
+          "torschuetzen_jederzeit": [
+            {
+              "name": "Valentin Castellanos",
+              "quote": 5.2
+            },
+            {
+              "name": "Jarrod Bowen",
+              "quote": 5.5
+            },
+            {
+              "name": "Dominic Calvert-Lewin",
+              "quote": 6.25
+            }
+          ]
+        },
+        "hinweis": "Quoten sportsgambler.com im US-Format, in Dezimal konvertiert. Bei bet365 live pruefen. dc_12 (-435) statt dc_x2 vorhanden; dc_x2 lag nicht vor. Leeds reist mit zahlreichen Ausfaellen an. Spielername 'Pablo' in der West-Ham-Prognose - vermutlich Lucas Paqueta, vor Nutzung verifizieren."
+      },
+      "news_kompakt": [
+        "West Ham (18.) muss gewinnen UND auf eine Tottenham-Niederlage gegen Everton hoffen - jeder andere Ausgang besiegelt den Abstieg.",
+        "Opta gibt West Ham ~86% Abstiegsrisiko.",
+        "Leeds (14.) hat den Klassenerhalt sicher und reist mit zahlreichen Ausfaellen an (u.a. Okafor, Gudmundsson, Stach, Longstaff, Gruev).",
+        "West Ham ist klarer Buchmacher-Favorit, BTTS-Ja und Heimsieg favorisiert."
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/west-ham-vs-leeds-prediction-lineups-odds-2026-05-24/",
+        "https://www.espn.com/soccer/story/_/id/48747779/what-tottenham-west-ham-need-happen-ensure-their-own-premier-league-survival",
+        "https://lastwordonsports.com/football/2026/05/23/west-ham-vs-leeds/"
+      ]
+    },
+    {
+      "id": "2026-05-24-vil-atm",
+      "liga": "LaLiga",
+      "matchday": 38,
+      "heim": "Villarreal CF",
+      "gast": "Atlético Madrid",
+      "anstoss": "2026-05-24T21:00:00+02:00",
+      "anstoss_utc": "2026-05-24T19:00:00Z",
+      "stadion": "Estadio de la Cerámica, Villarreal",
+      "squad_heim": [
+        {
+          "name": "Arnau Tenas",
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-atletico-madrid-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Santiago Mouriño",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-atletico-madrid-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Pau Navarro",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-atletico-madrid-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Renato Veiga",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-atletico-madrid-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Alfonso Pedraza",
+          "position": "LV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-atletico-madrid-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Tajon Buchanan",
+          "position": "RF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-atletico-madrid-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Pape Gueye",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-atletico-madrid-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Dani Parejo",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-atletico-madrid-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Alberto Moleiro",
+          "position": "LF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-atletico-madrid-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Nicolas Pépé",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-atletico-madrid-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Georges Mikautadze",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-atletico-madrid-prediction-lineups-odds-2026-05-24/",
+          "hinweis": "Top-Anytime-Torschütze Heim +150"
+        }
+      ],
+      "squad_gast": [
+        {
+          "name": "Juan Musso",
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-atletico-madrid-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Marcos Llorente",
+          "position": "RV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-atletico-madrid-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Marc Pubill",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-atletico-madrid-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Dávid Hancko",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-atletico-madrid-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Matteo Ruggeri",
+          "position": "LV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-atletico-madrid-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Koke",
+          "position": "DM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-atletico-madrid-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Obed Vargas",
+          "position": "DM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-atletico-madrid-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Giuliano Simeone",
+          "position": "RF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-atletico-madrid-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Álex Baena",
+          "position": "OM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-atletico-madrid-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Ademola Lookman",
+          "position": "LF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-atletico-madrid-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Antoine Griezmann",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-atletico-madrid-prediction-lineups-odds-2026-05-24/",
+          "hinweis": "Sørloth (Backup-ST) Anytime +120 als günstigster Treffer notiert — Einwechsel-Boost-Kandidat"
+        }
+      ],
+      "injuries_heim": [
+        "Santi Comesaña (Mittelfeld, zurück 6.6.)",
+        "Ilias Akhomach (Sturm, zurück 6.6.)",
+        "Juan Foyth (Abwehr, zurück 1.9.)"
+      ],
+      "injuries_gast": [
+        "Julián Álvarez (Sturm, Knöchel, zurück 30.5.)",
+        "Nahuel Molina (Abwehr, Oberschenkel, zurück 6.6.)",
+        "Johnny Cardoso (Mittelfeld, Knöchel, zurück 6.6.)",
+        "Pablo Barrios (Mittelfeld, Oberschenkel)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Saisonabschluss LaLiga MD38",
+        "gast": "keine - Saisonabschluss LaLiga MD38",
+        "quellen": [
+          "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-atletico-madrid-prediction-lineups-odds-2026-05-24/"
+        ]
+      },
+      "saisonziel_heim": "Champions-League bereits gesichert; Duell um Platz 3 (bessere Setzung/Prestige)",
+      "saisonziel_gast": "Champions-League bereits gesichert; Duell um Platz 3 gegen Villarreal",
+      "tabellenstand": {
+        "heim_platz": 3,
+        "heim_pkt": 69,
+        "gast_platz": 4,
+        "gast_pkt": 69
+      },
+      "form_heim_letzte_5": "N-N-U-S-S",
+      "form_gast_letzte_5": "S-S-N-N-S",
+      "recovery_heim": "Saisonabschluss, ~6-7 Tage seit letztem Spiel",
+      "recovery_gast": "Saisonabschluss, ~6-7 Tage seit letztem Spiel; Álvarez verletzt fehlt",
+      "quoten": {
+        "bet365_aggregator": {
+          "sieg_heim": 2.43,
+          "draw": 3.9,
+          "sieg_gast": 2.6,
+          "ueber_2_5": 1.42,
+          "unter_2_5": 2.75,
+          "btts_ja": 1.37,
+          "btts_nein": 2.9,
+          "dc_1x": null,
+          "dc_x2": null,
+          "torschuetzen_jederzeit": [
+            {
+              "spieler": "Alexander Sørloth (Atlético)",
+              "quote": 2.2
+            },
+            {
+              "spieler": "Georges Mikautadze (Villarreal)",
+              "quote": 2.5
+            },
+            {
+              "spieler": "Gerard Moreno (Villarreal)",
+              "quote": 5.8
+            },
+            {
+              "spieler": "Antoine Griezmann (Atlético)",
+              "quote": 7.0
+            }
+          ]
+        },
+        "hinweis": "Quoten aus US-Format (sportsgambler) konvertiert zu Dezimal: Heim +143=2.43, Draw +290=3.90, Gast +160=2.60, Über2.5 -238=1.42, Unter2.5 +175=2.75, BTTS Ja -270=1.37, BTTS Nein +190=2.90. DC nicht angegeben. Bei bet365 live prüfen."
+      },
+      "news_kompakt": [
+        "Direktes Duell um Platz 3: beide bei 69 Punkten, CL-Quali für beide bereits sicher — geht nur um bessere Setzung/Prestige.",
+        "Atlético ohne Stürmer Julián Álvarez (Knöchel, zurück erst 30.5.) — Griezmann voraussichtlich allein vorne, Sørloth als Backup günstigster Anytime-Torschütze.",
+        "Villarreal-Form durchwachsen (2 Niederlagen in letzten 5: Rayo 0-2, Sevilla 2-3), zuhause aber stark (5-1 Levante).",
+        "Atlético mit CL-Aus gegen Arsenal (0-1) zuletzt, ansonsten 2 Siege gegen Girona und Valencia.",
+        "Über 2.5 und BTTS-Ja klar favorisiert (Über2.5 ~1.42, BTTS-Ja ~1.37)."
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-atletico-madrid-prediction-lineups-odds-2026-05-24/",
+        "https://www.sportsmole.co.uk/football/atletico-madrid/preview/villarreal-vs-atletico-prediction-team-news-lineups_597991.html",
+        "https://www.fotmob.com/matches/atletico-madrid-vs-villarreal/3ceu3u"
+      ]
+    },
+    {
+      "id": "2026-05-24-par-sas",
+      "liga": "Serie A",
+      "matchday": 38,
+      "heim": "Parma Calcio 1913",
+      "gast": "US Sassuolo",
+      "anstoss": "2026-05-24T15:00:00+02:00",
+      "anstoss_utc": "2026-05-24T13:00:00Z",
+      "stadion": "Stadio Ennio Tardini, Parma",
+      "squad_heim": [
+        {
+          "name": "Zion Suzuki",
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/parma-vs-sassuolo-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Alessandro Circati",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/parma-vs-sassuolo-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Mariano Troilo",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/parma-vs-sassuolo-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Lautaro Valenti",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/parma-vs-sassuolo-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Enrico Del Prato",
+          "position": "RV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/parma-vs-sassuolo-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Christian Ordóñez",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/parma-vs-sassuolo-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Mandela Keita",
+          "position": "DM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/parma-vs-sassuolo-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Hans Nicolussi Caviglia",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/parma-vs-sassuolo-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Emanuele Valeri",
+          "position": "LV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/parma-vs-sassuolo-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Mateo Pellegrino",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/parma-vs-sassuolo-prediction-lineups-odds-2026-05-24/",
+          "hinweis": "Top-Anytime-Torschütze Heim +200"
+        },
+        {
+          "name": "Gabriel Strefezza",
+          "position": "RF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/parma-vs-sassuolo-prediction-lineups-odds-2026-05-24/"
+        }
+      ],
+      "squad_gast": [
+        {
+          "name": "Stefano Turati",
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/parma-vs-sassuolo-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Woyo Coulibaly",
+          "position": "RV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/parma-vs-sassuolo-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Pedro Felipe",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/parma-vs-sassuolo-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Tarik Muharemovic",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/parma-vs-sassuolo-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Ulisses Garcia",
+          "position": "LV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/parma-vs-sassuolo-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Ismaël Koné",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/parma-vs-sassuolo-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Nemanja Matić",
+          "position": "DM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/parma-vs-sassuolo-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Kristian Thorstvedt",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/parma-vs-sassuolo-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Domenico Berardi",
+          "position": "RF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/parma-vs-sassuolo-prediction-lineups-odds-2026-05-24/",
+          "hinweis": "Anytime +650"
+        },
+        {
+          "name": "Andrea Pinamonti",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/parma-vs-sassuolo-prediction-lineups-odds-2026-05-24/",
+          "hinweis": "Anytime +575"
+        },
+        {
+          "name": "Armand Laurienté",
+          "position": "LF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/parma-vs-sassuolo-prediction-lineups-odds-2026-05-24/",
+          "hinweis": "Anytime +700"
+        }
+      ],
+      "injuries_heim": [
+        "Nesta Elphege (Oberschenkel)",
+        "Jacob Ondrejka (Unterschenkel)",
+        "Adrián Bernabé (Hüfte)",
+        "Matija Frigan (Kreuzband)"
+      ],
+      "injuries_gast": [
+        "Daniel Boloca (Knie)",
+        "Yeferson Paz (Kreuzband)",
+        "Fali Candé (Kreuzband)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Saisonabschluss Serie A MD38",
+        "gast": "keine - Saisonabschluss Serie A MD38",
+        "quellen": [
+          "https://www.sportsgambler.com/betting-tips/football/parma-vs-sassuolo-prediction-lineups-odds-2026-05-24/"
+        ]
+      },
+      "saisonziel_heim": "Klassenerhalt bereits gesichert (13., 42 Pkt) — kein direktes Saisonziel mehr, reines Spielbetrieb-Spiel",
+      "saisonziel_gast": "Mittelfeld gesichert (11., 49 Pkt) — kein direktes Saisonziel, Spielbetrieb",
+      "tabellenstand": {
+        "heim_platz": 13,
+        "heim_pkt": 42,
+        "gast_platz": 11,
+        "gast_pkt": 49
+      },
+      "form_heim_letzte_5": "N-N-N-S-S",
+      "form_gast_letzte_5": "N-N-S-U-S",
+      "recovery_heim": "Saisonabschluss, ~7 Tage seit letztem Spiel",
+      "recovery_gast": "Saisonabschluss, ~7 Tage seit letztem Spiel",
+      "quoten": {
+        "bet365_aggregator": {
+          "sieg_heim": 2.7,
+          "draw": 3.3,
+          "sieg_gast": 2.55,
+          "ueber_2_5": 1.92,
+          "unter_2_5": 1.85,
+          "btts_ja": 1.71,
+          "btts_nein": 2.07,
+          "dc_1x": null,
+          "dc_x2": null,
+          "torschuetzen_jederzeit": [
+            {
+              "spieler": "Mateo Pellegrino (Parma)",
+              "quote": 3.0
+            },
+            {
+              "spieler": "Andrea Pinamonti (Sassuolo)",
+              "quote": 6.75
+            },
+            {
+              "spieler": "Domenico Berardi (Sassuolo)",
+              "quote": 7.5
+            },
+            {
+              "spieler": "Armand Laurienté (Sassuolo)",
+              "quote": 8.0
+            }
+          ]
+        },
+        "hinweis": "US-Format konvertiert: Heim +170=2.70, Draw +230=3.30, Gast +155=2.55, Über2.5 -109=1.92, Unter2.5 -118=1.85, BTTS Ja -141=1.71, BTTS Nein +107=2.07. DC nicht angegeben. Bei bet365 live prüfen."
+      },
+      "news_kompakt": [
+        "Beide Teams ohne Saisonziel — Parma (13.) klassenerhaltsicher, Sassuolo (11.) gesichertes Mittelfeld; reines Spielbetrieb-Spiel.",
+        "Hinspiel endete 1-1; Markt sieht offenes Spiel (Sassuolo +155 minimaler Favorit, alle drei Ergebnisse eng).",
+        "Unter 2.5 und Über 2.5 nahezu gleichauf — keine klare Tendenz; BTTS-Ja leicht favorisiert.",
+        "Parma-Form schwach (3 Niederlagen in letzten 5), zuletzt aber 2 Siege gegen Pisa und Udinese.",
+        "Sassuolo schlug zuletzt AC Milan 2-0 und Como 2-1 auswärts — gefährlich trotz fehlendem Anreiz."
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/parma-vs-sassuolo-prediction-lineups-odds-2026-05-24/",
+        "https://www.playmakerstats.com/match/2026-05-24-parma-sassuolo/11036388",
+        "https://www.myfootballfacts.com/match-preview/serie-a-match-previews/match-preview-parma-sassuolo-serie-a-gameweek-38/"
+      ]
+    },
+    {
+      "id": "2026-05-24-nap-udi",
+      "liga": "Serie A",
+      "matchday": 38,
+      "heim": "SSC Napoli",
+      "gast": "Udinese Calcio",
+      "anstoss": "2026-05-24T18:00:00+02:00",
+      "anstoss_utc": "2026-05-24T16:00:00Z",
+      "stadion": "Stadio Diego Armando Maradona, Napoli",
+      "squad_heim": [
+        {
+          "name": "Alex Meret",
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-udinese-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Giovanni Di Lorenzo",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-udinese-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Amir Rrahmani",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-udinese-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Alessandro Buongiorno",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-udinese-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Matteo Politano",
+          "position": "RF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-udinese-prediction-lineups-odds-2026-05-24/",
+          "hinweis": "In sportsgambler-Aufstellung rechter Flügel; alternative Quellen listen Eljif Elmas an dieser Position"
+        },
+        {
+          "name": "Scott McTominay",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-udinese-prediction-lineups-odds-2026-05-24/",
+          "hinweis": "Anytime +525"
+        },
+        {
+          "name": "Stanislav Lobotka",
+          "position": "DM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-udinese-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Leonardo Spinazzola",
+          "position": "LV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-udinese-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Kevin De Bruyne",
+          "position": "OM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-udinese-prediction-lineups-odds-2026-05-24/",
+          "hinweis": "sportsgambler listet De Bruyne als OM; alternative Quelle (ratingbet) nennt stattdessen Alisson Santos/Elmas — vor Anpfiff prüfen"
+        },
+        {
+          "name": "Alisson Santos",
+          "position": "OM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-udinese-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Rasmus Højlund",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-udinese-prediction-lineups-odds-2026-05-24/",
+          "hinweis": "Top-Anytime-Torschütze Heim +128"
+        }
+      ],
+      "squad_gast": [
+        {
+          "name": "Maduka Okoye",
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-udinese-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Thomas Kristensen",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-udinese-prediction-lineups-odds-2026-05-24/",
+          "hinweis": "Gelbsperren-Risiko laut Quelle"
+        },
+        {
+          "name": "Christian Kabasele",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-udinese-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Oumar Solet",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-udinese-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Bright Ehizibue",
+          "position": "RV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-udinese-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Lennon Miller",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-udinese-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Jesper Karlström",
+          "position": "DM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-udinese-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Arthur Atta",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-udinese-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Arizala",
+          "position": "LV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-udinese-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Adam Buksa",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-udinese-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Keinan Davis",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/napoli-vs-udinese-prediction-lineups-odds-2026-05-24/",
+          "hinweis": "Anytime +1000"
+        }
+      ],
+      "injuries_heim": [
+        "Romelu Lukaku (vom Verein gesperrt)",
+        "Alessandro Zanoli (Kreuzband)",
+        "Luca Marianucci (Knie)"
+      ],
+      "injuries_gast": [
+        "Jürgen Ekkelenkamp (Unterschenkel)",
+        "Hassane Kamara (Gelbsperren-Risiko)",
+        "Sandi Lovric (Gelbsperren-Risiko)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Saisonabschluss Serie A MD38",
+        "gast": "keine - Saisonabschluss Serie A MD38",
+        "quellen": [
+          "https://www.sportsgambler.com/betting-tips/football/napoli-vs-udinese-prediction-lineups-odds-2026-05-24/"
+        ]
+      },
+      "saisonziel_heim": "Champions-League-Kampf: Platz 2 mit Unentschieden gesichert (73 Pkt vor MD38) — direkte CL-Quali",
+      "saisonziel_gast": "Obere Tabellenhälfte anpeilen (10., 50 Pkt) — kein Abstiegs-/Europa-Druck",
+      "tabellenstand": {
+        "heim_platz": 2,
+        "heim_pkt": 73,
+        "gast_platz": 10,
+        "gast_pkt": 50
+      },
+      "form_heim_letzte_5": "S-N-U-S-N",
+      "form_gast_letzte_5": "N-S-S-U-N",
+      "recovery_heim": "Saisonabschluss, ~7 Tage seit letztem Spiel",
+      "recovery_gast": "Saisonabschluss, ~7 Tage seit letztem Spiel",
+      "quoten": {
+        "bet365_aggregator": {
+          "sieg_heim": 1.46,
+          "draw": 4.1,
+          "sieg_gast": 7.0,
+          "ueber_2_5": 1.8,
+          "unter_2_5": 1.96,
+          "btts_ja": 1.94,
+          "btts_nein": 1.81,
+          "dc_1x": 1.09,
+          "dc_x2": 2.63,
+          "torschuetzen_jederzeit": [
+            {
+              "spieler": "Rasmus Højlund (Napoli)",
+              "quote": 2.28
+            },
+            {
+              "spieler": "Scott McTominay (Napoli)",
+              "quote": 6.25
+            },
+            {
+              "spieler": "Keinan Davis (Udinese)",
+              "quote": 11.0
+            }
+          ]
+        },
+        "hinweis": "US-Format konvertiert: Heim -217=1.46, Draw +310=4.10, Gast +600=7.00, Über2.5 -125=1.80, Unter2.5 -104=1.96, BTTS Ja -106=1.94, BTTS Nein -123=1.81, DC 1X -1111=1.09, DC X2 +163=2.63. Bei bet365 live prüfen."
+      },
+      "news_kompakt": [
+        "Napoli (2., 73 Pkt) braucht nur ein Unentschieden für die sichere Champions-League-Quali als Tabellenzweiter hinter Meister Inter.",
+        "Napoli ohne Stürmer Lukaku (vom Verein gesperrt) und Zanoli (Kreuzband) — Højlund klarer Mittelstürmer und Top-Anytime-Torschütze (~2.28).",
+        "ACHTUNG Aufstellungs-Unsicherheit: sportsgambler nennt De Bruyne + Politano in der Startelf, ratingbet/playmakerstats stattdessen Elmas + Alisson Santos — vor Anpfiff verifizieren.",
+        "Udinese (10.) ohne sportlichen Druck, mehrere Gelbsperren-Kandidaten (Kristensen, Kamara, Lovric).",
+        "Napoli klarer Favorit (1X2 ~1.46, DC 1X ~1.09); Über/Unter 2.5 nahezu ausgeglichen."
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/napoli-vs-udinese-prediction-lineups-odds-2026-05-24/",
+        "https://www.playmakerstats.com/match/2026-05-24-napoli-udinese/11036382",
+        "https://ratingbet.com/predictions/napoli-vs-udinese-prediction-expert-analysis-possible-lineups-may-24-2026/"
+      ]
+    },
+    {
+      "id": "2026-05-24-mil-cag",
+      "liga": "Serie A",
+      "matchday": 38,
+      "heim": "AC Milan",
+      "gast": "Cagliari Calcio",
+      "anstoss": "2026-05-24T20:45:00+02:00",
+      "anstoss_utc": "2026-05-24T18:45:00Z",
+      "stadion": "Stadio Giuseppe Meazza (San Siro), Milano",
+      "squad_heim": [
+        {
+          "name": "Mike Maignan",
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/ac-milan-vs-cagliari-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Fikayo Tomori",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/ac-milan-vs-cagliari-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Matteo Gabbia",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/ac-milan-vs-cagliari-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Strahinja Pavlović",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/ac-milan-vs-cagliari-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Zachary Athekame",
+          "position": "RV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/ac-milan-vs-cagliari-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Youssouf Fofana",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/ac-milan-vs-cagliari-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Luka Modrić",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/ac-milan-vs-cagliari-prediction-lineups-odds-2026-05-24/",
+          "hinweis": "sportsgambler-Aufstellung; ein früherer Suchtreffer nannte stattdessen Ardon Jashari — vor Anpfiff prüfen"
+        },
+        {
+          "name": "Adrien Rabiot",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/ac-milan-vs-cagliari-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Davide Bartesaghi",
+          "position": "LV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/ac-milan-vs-cagliari-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Christopher Nkunku",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/ac-milan-vs-cagliari-prediction-lineups-odds-2026-05-24/",
+          "hinweis": "Anytime +390; Giménez fehlt rotgesperrt"
+        },
+        {
+          "name": "Rafael Leão",
+          "position": "LF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/ac-milan-vs-cagliari-prediction-lineups-odds-2026-05-24/",
+          "hinweis": "Top-Anytime-Torschütze +360 (laut Quelle, in 3-5-2 wahrscheinlich zweite Sturmspitze statt gesperrtem Giménez)"
+        }
+      ],
+      "squad_gast": [
+        {
+          "name": "Elia Caprile",
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/ac-milan-vs-cagliari-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Zé Pedro",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/ac-milan-vs-cagliari-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Yerry Mina",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/ac-milan-vs-cagliari-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Alberto Dossena",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/ac-milan-vs-cagliari-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Marco Palestra",
+          "position": "RV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/ac-milan-vs-cagliari-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Michael Folorunsho",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/ac-milan-vs-cagliari-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Alessandro Deiola",
+          "position": "DM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/ac-milan-vs-cagliari-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Gianluca Gaetano",
+          "position": "OM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/ac-milan-vs-cagliari-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Adam Obert",
+          "position": "LV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/ac-milan-vs-cagliari-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Sebastiano Esposito",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/ac-milan-vs-cagliari-prediction-lineups-odds-2026-05-24/",
+          "hinweis": "Anytime +1300"
+        },
+        {
+          "name": "Andrea Belotti",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/ac-milan-vs-cagliari-prediction-lineups-odds-2026-05-24/",
+          "hinweis": "Anytime +1300"
+        }
+      ],
+      "injuries_heim": [
+        "Santiago Giménez (Rotsperre)",
+        "Warren Bondo (Ausfall)",
+        "Álex Jiménez (gesperrt)"
+      ],
+      "injuries_gast": [
+        "Leonardo Pavoletti (Knie)",
+        "Mattia Felici (Kreuzband)",
+        "Riyad Idrissi (Kreuzband)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Saisonabschluss Serie A MD38",
+        "gast": "keine - Saisonabschluss Serie A MD38",
+        "quellen": [
+          "https://www.sportsgambler.com/betting-tips/football/ac-milan-vs-cagliari-prediction-lineups-odds-2026-05-24/"
+        ]
+      },
+      "saisonziel_heim": "Champions-League-Kampf: Platz 3 (70 Pkt) verteidigen — Top-4 mit Sieg quasi sicher",
+      "saisonziel_gast": "Klassenerhalt gesichert (16., 40 Pkt) — kein direktes Saisonziel, Spielbetrieb",
+      "tabellenstand": {
+        "heim_platz": 3,
+        "heim_pkt": 70,
+        "gast_platz": 16,
+        "gast_pkt": 40
+      },
+      "form_heim_letzte_5": "S",
+      "form_gast_letzte_5": "S",
+      "recovery_heim": "Saisonabschluss, ~7 Tage seit letztem Spiel",
+      "recovery_gast": "Saisonabschluss, ~7 Tage seit letztem Spiel",
+      "quoten": {
+        "bet365_aggregator": {
+          "sieg_heim": 1.26,
+          "draw": 5.6,
+          "sieg_gast": 10.5,
+          "ueber_2_5": 1.63,
+          "unter_2_5": 2.23,
+          "btts_ja": 2.12,
+          "btts_nein": 1.67,
+          "dc_1x": null,
+          "dc_x2": null,
+          "torschuetzen_jederzeit": [
+            {
+              "spieler": "Rafael Leão (Milan)",
+              "quote": 4.6
+            },
+            {
+              "spieler": "Christopher Nkunku (Milan)",
+              "quote": 4.9
+            },
+            {
+              "spieler": "Christian Pulisic (Milan)",
+              "quote": 5.0
+            },
+            {
+              "spieler": "Sebastiano Esposito (Cagliari)",
+              "quote": 14.0
+            },
+            {
+              "spieler": "Andrea Belotti (Cagliari)",
+              "quote": 14.0
+            }
+          ]
+        },
+        "hinweis": "US-Format konvertiert: Heim -385=1.26, Draw +460=5.60, Gast +950=10.50, Über2.5 -159=1.63, Unter2.5 +123=2.23, BTTS Ja +112=2.12, BTTS Nein -149=1.67. DC nicht angegeben. Bei bet365 live prüfen."
+      },
+      "news_kompakt": [
+        "Milan (3., 70 Pkt) kämpft um die Champions-League-Quali — Sieg sichert Top 4 praktisch ab (Konkurrenz Roma/Como/Juventus muss patzen).",
+        "Milan ohne Stürmer Santiago Giménez (Rotsperre) — Leão und Nkunku als Anytime-Top-Torschützen (~4.60/4.90); Pulisic +400 ebenfalls gelistet.",
+        "ACHTUNG Aufstellungs-Variante: sportsgambler nennt Modrić im Mittelfeld, ein früherer Treffer Jashari — vor Anpfiff prüfen.",
+        "Cagliari (16.) klassenerhaltsicher und ohne Anreiz, schlug aber zuletzt Torino 2-1.",
+        "Milan haushoher Favorit (1X2 ~1.26); Über 2.5 favorisiert (~1.63)."
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/ac-milan-vs-cagliari-prediction-lineups-odds-2026-05-24/",
+        "https://www.sofascore.com/football/match/cagliari-milan/Rdbsueb",
+        "https://www.fotmob.com/matches/cagliari-vs-ac-milan/2ezhcz"
+      ]
+    },
+    {
+      "id": "2026-05-24-tor-juv",
+      "liga": "Serie A",
+      "matchday": 38,
+      "heim": "Torino FC",
+      "gast": "Juventus FC",
+      "anstoss": "2026-05-24T20:45:00+02:00",
+      "anstoss_utc": "2026-05-24T18:45:00Z",
+      "stadion": "Stadio Olimpico Grande Torino, Torino",
+      "squad_heim": [
+        {
+          "name": "Alberto Paleari",
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/torino-vs-juventus-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Saul Coco",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/torino-vs-juventus-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Ardian Ismajli",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/torino-vs-juventus-prediction-lineups-odds-2026-05-24/",
+          "hinweis": "In sportsgambler-Aufstellung gelistet, aber ein Suchtreffer meldete ihn verletzt — vor Anpfiff prüfen"
+        },
+        {
+          "name": "Mergim Vojvoda",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/torino-vs-juventus-prediction-lineups-odds-2026-05-24/",
+          "hinweis": "Ebosse in der Quelle als dritter IV; Name unsicher"
+        },
+        {
+          "name": "Marcus Holmgren Pedersen",
+          "position": "RV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/torino-vs-juventus-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Emirhan İlkhan",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/torino-vs-juventus-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Gvidas Gineitis",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/torino-vs-juventus-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Cristiano Obrador",
+          "position": "LV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/torino-vs-juventus-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Nikola Vlašić",
+          "position": "OM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/torino-vs-juventus-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Giovanni Simeone",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/torino-vs-juventus-prediction-lineups-odds-2026-05-24/",
+          "hinweis": "Anytime +850"
+        },
+        {
+          "name": "Duván Zapata",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/torino-vs-juventus-prediction-lineups-odds-2026-05-24/"
+        }
+      ],
+      "squad_gast": [
+        {
+          "name": "Michele Di Gregorio",
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/torino-vs-juventus-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Pierre Kalulu",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/torino-vs-juventus-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Federico Gatti",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/torino-vs-juventus-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Lloyd Kelly",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/torino-vs-juventus-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Emil Holm",
+          "position": "RV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/torino-vs-juventus-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Manuel Locatelli",
+          "position": "DM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/torino-vs-juventus-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Weston McKennie",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/torino-vs-juventus-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Andrea Cambiaso",
+          "position": "LV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/torino-vs-juventus-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Francisco Conceição",
+          "position": "RF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/torino-vs-juventus-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Jérémy Boga",
+          "position": "LF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/torino-vs-juventus-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Dušan Vlahović",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/torino-vs-juventus-prediction-lineups-odds-2026-05-24/",
+          "hinweis": "Top-Anytime-Torschütze +350; Jonathan David +390 als Alternative/Backup-ST genannt"
+        }
+      ],
+      "injuries_heim": [
+        "Sebastian Walukiewicz (Kopf)",
+        "Zakaria Aboukhlal (Muskel)",
+        "Perr Schuurs (Knie)",
+        "Pietro Pellegri (Kreuzband)",
+        "Saba Sazonov (Ausfall)",
+        "Guillermo Maripán (gesperrt, laut Suchtreffer)"
+      ],
+      "injuries_gast": [
+        "Gleison Bremer (Gelbsperre)",
+        "Facundo González (Knöchel)",
+        "Nico González (Muskel, zurück 30.5.)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Saisonabschluss Serie A MD38",
+        "gast": "keine - Saisonabschluss Serie A MD38",
+        "quellen": [
+          "https://www.sportsgambler.com/betting-tips/football/torino-vs-juventus-prediction-lineups-odds-2026-05-24/"
+        ]
+      },
+      "saisonziel_heim": "Tabellenmittelfeld gesichert (12., 44 Pkt) — kein Saisonziel, aber Derby-Prestige (Derby della Mole)",
+      "saisonziel_gast": "Champions-League-Außenseiterchance: Platz 6 (68 Pkt) — braucht Sieg UND Patzer von Roma und Como",
+      "tabellenstand": {
+        "heim_platz": 12,
+        "heim_pkt": 44,
+        "gast_platz": 6,
+        "gast_pkt": 68
+      },
+      "form_heim_letzte_5": "N-S-N-U-U",
+      "form_gast_letzte_5": "N-S-U-U-S",
+      "recovery_heim": "Saisonabschluss, ~7 Tage seit letztem Spiel",
+      "recovery_gast": "Saisonabschluss, ~7 Tage seit letztem Spiel",
+      "quoten": {
+        "bet365_aggregator": {
+          "sieg_heim": 6.25,
+          "draw": 4.1,
+          "sieg_gast": 1.49,
+          "ueber_2_5": 1.77,
+          "unter_2_5": 2.0,
+          "btts_ja": 1.84,
+          "btts_nein": 1.9,
+          "dc_1x": null,
+          "dc_x2": null,
+          "torschuetzen_jederzeit": [
+            {
+              "spieler": "Dušan Vlahović (Juventus)",
+              "quote": 4.5
+            },
+            {
+              "spieler": "Jonathan David (Juventus)",
+              "quote": 4.9
+            },
+            {
+              "spieler": "Giovanni Simeone (Torino)",
+              "quote": 9.5
+            }
+          ]
+        },
+        "hinweis": "US-Format konvertiert: Heim +525=6.25, Draw +310=4.10, Gast -204=1.49, Über2.5 -130=1.77, Unter2.5 -100=2.00, BTTS Ja -119=1.84, BTTS Nein -111=1.90. DC nicht angegeben. Bei bet365 live prüfen."
+      },
+      "news_kompakt": [
+        "Derby della Mole als Saisonfinale: Juventus (6., 68 Pkt) hat theoretische CL-Außenseiterchance — braucht Sieg PLUS Patzer von Roma (70) und Como (68).",
+        "Juventus ohne Bremer (Gelbsperre) in der Abwehr; Torino mit Verletzungssorgen (Schuurs, Pellegri, Aboukhlal) und laut Suchtreffer Maripán-Sperre.",
+        "ACHTUNG Aufstellungs-Unsicherheit Torino-Abwehr: sportsgambler listet Ismajli, andere Quellen melden ihn/Maripán als Ausfall — vor Anpfiff prüfen.",
+        "Juventus klarer Favorit (1X2 ~1.49), Vlahović und David Top-Anytime-Torschützen (~4.50/4.90).",
+        "Torino (12.) ohne sportlichen Druck, spielt um Derby-Prestige; Form mau (zwei Remis und Niederlagen zuletzt)."
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/torino-vs-juventus-prediction-lineups-odds-2026-05-24/",
+        "https://www.sportsmole.co.uk/football/torino/turin-derby/preview/torino-vs-juventus-prediction-team-news-lineups_598025.html",
+        "https://www.playmakerstats.com/news/preview-torino-vs-juventus-team-news-lineups-predictions-serie-a-24-05-/1132917"
+      ]
+    },
+    {
+      "id": "2026-05-24-ver-rom",
+      "liga": "Serie A",
+      "matchday": 38,
+      "heim": "Hellas Verona",
+      "gast": "AS Roma",
+      "anstoss": "2026-05-24T20:45:00+02:00",
+      "anstoss_utc": "2026-05-24T18:45:00Z",
+      "stadion": "Stadio Marcantonio Bentegodi, Verona",
+      "squad_heim": [
+        {
+          "name": "Lorenzo Montipò",
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/hellas-verona-vs-roma-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Rafik Belghali",
+          "position": "RV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/hellas-verona-vs-roma-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Victor Nelsson",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/hellas-verona-vs-roma-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Andrias Edmundsson",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/hellas-verona-vs-roma-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Nicolás Valentini",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/hellas-verona-vs-roma-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Martin Frese",
+          "position": "LV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/hellas-verona-vs-roma-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Jean-Daniel Akpa Akpro",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/hellas-verona-vs-roma-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Sandi Lovric",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/hellas-verona-vs-roma-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Antoine Bernede",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/hellas-verona-vs-roma-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Tomás Suslov",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/hellas-verona-vs-roma-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Kieron Bowie",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/hellas-verona-vs-roma-prediction-lineups-odds-2026-05-24/",
+          "hinweis": "Top-Anytime-Torschütze Heim +475"
+        }
+      ],
+      "squad_gast": [
+        {
+          "name": "Mile Svilar",
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/hellas-verona-vs-roma-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Daniele Ghilardi",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/hellas-verona-vs-roma-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Gianluca Mancini",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/hellas-verona-vs-roma-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Mario Hermoso",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/hellas-verona-vs-roma-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Mehmet Zeki Çelik",
+          "position": "RV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/hellas-verona-vs-roma-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Bryan Cristante",
+          "position": "DM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/hellas-verona-vs-roma-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Manu Koné",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/hellas-verona-vs-roma-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Devyne Rensch",
+          "position": "LV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/hellas-verona-vs-roma-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Paulo Dybala",
+          "position": "OM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/hellas-verona-vs-roma-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Matías Soulé",
+          "position": "OM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/hellas-verona-vs-roma-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Donyell Malen",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/hellas-verona-vs-roma-prediction-lineups-odds-2026-05-24/",
+          "hinweis": "Top-Anytime-Torschütze -122 (~1.82)"
+        }
+      ],
+      "injuries_heim": [
+        "Daniel Oyegoke (Knöchel)",
+        "Daniel Mosquera (Knie)",
+        "Suat Serdar (Kreuzband)"
+      ],
+      "injuries_gast": [
+        "Wesley (Rotsperre)",
+        "Lorenzo Pellegrini (Oberschenkel)",
+        "Evan N'Dicka (Oberschenkel)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Saisonabschluss Serie A MD38",
+        "gast": "keine - Saisonabschluss Serie A MD38",
+        "quellen": [
+          "https://www.sportsgambler.com/betting-tips/football/hellas-verona-vs-roma-prediction-lineups-odds-2026-05-24/"
+        ]
+      },
+      "saisonziel_heim": "Bereits abgestiegen (19., 21 Pkt) — spielt nur noch um Ehre/Spielbetrieb",
+      "saisonziel_gast": "Champions-League-Kampf: Platz 4 (70 Pkt) — Sieg sichert Top-4 praktisch ab",
+      "tabellenstand": {
+        "heim_platz": 19,
+        "heim_pkt": 21,
+        "gast_platz": 4,
+        "gast_pkt": 70
+      },
+      "form_heim_letzte_5": "U-N-U-U-N",
+      "form_gast_letzte_5": "S-S-S-S-U",
+      "recovery_heim": "Saisonabschluss, ~7 Tage seit letztem Spiel",
+      "recovery_gast": "Saisonabschluss, ~7 Tage seit letztem Spiel",
+      "quoten": {
+        "bet365_aggregator": {
+          "sieg_heim": 10.5,
+          "draw": 5.25,
+          "sieg_gast": 1.28,
+          "ueber_2_5": 1.77,
+          "unter_2_5": 2.0,
+          "btts_ja": 2.25,
+          "btts_nein": 1.6,
+          "dc_1x": null,
+          "dc_x2": null,
+          "torschuetzen_jederzeit": [
+            {
+              "spieler": "Donyell Malen (Roma)",
+              "quote": 1.82
+            },
+            {
+              "spieler": "Kieron Bowie (Verona)",
+              "quote": 5.75
+            }
+          ]
+        },
+        "hinweis": "US-Format konvertiert: Heim +950=10.50, Draw +425=5.25, Gast -357=1.28, Über2.5 -130=1.77, Unter2.5 -100=2.00, BTTS Ja +125=2.25, BTTS Nein -167=1.60. Torschütze Malen -122=1.82, Bowie +475=5.75. DC nicht angegeben. Bei bet365 live prüfen."
+      },
+      "news_kompakt": [
+        "Roma (4., 70 Pkt) braucht Sieg gegen den bereits abgestiegenen Tabellenletzten-Bereich Verona (19., 21 Pkt) für die sichere Champions-League-Quali.",
+        "Roma in starker Form (4 Siege + 1 Remis in den letzten 5, lange ungeschlagen in der Liga); Verona seit Wochen ohne Sieg.",
+        "Roma ohne Wesley (Rotsperre), Pellegrini und N'Dicka (beide Oberschenkel) — Malen klarer Mittelstürmer und Top-Anytime-Torschütze (~1.82).",
+        "Roma haushoher Favorit (1X2 ~1.28); Verona-Heimsieg bei ~10.50 quasi chancenlos im Markt.",
+        "Motivations-Asymmetrie maximal: Roma mit CL-Druck, Verona ohne sportlichen Anreiz."
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/hellas-verona-vs-roma-prediction-lineups-odds-2026-05-24/",
+        "https://www.sportsmole.co.uk/football/verona/preview/hellas-verona-vs-roma-prediction-team-news-lineups_598019.html",
+        "https://www.fotmob.com/matches/roma-vs-hellas-verona/2uku6v"
+      ]
+    },
+    {
+      "id": "2026-05-24-cre-com",
+      "liga": "Serie A",
+      "matchday": 38,
+      "heim": "US Cremonese",
+      "gast": "Como 1907",
+      "anstoss": "2026-05-24T20:45:00+02:00",
+      "anstoss_utc": "2026-05-24T18:45:00Z",
+      "stadion": "Stadio Giovanni Zini, Cremona",
+      "squad_heim": [
+        {
+          "name": "Emil Audero",
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/cremonese-vs-como-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Filippo Terracciano",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/cremonese-vs-como-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Matteo Bianchetti",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/cremonese-vs-como-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Sebastiano Luperto",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/cremonese-vs-como-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Tommaso Barbieri",
+          "position": "RV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/cremonese-vs-como-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Morten Thorsby",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/cremonese-vs-como-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Alberto Grassi",
+          "position": "DM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/cremonese-vs-como-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Youssef Maleh",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/cremonese-vs-como-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Giuseppe Pezzella",
+          "position": "LV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/cremonese-vs-como-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Federico Bonazzoli",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/cremonese-vs-como-prediction-lineups-odds-2026-05-24/",
+          "hinweis": "Anytime +750"
+        },
+        {
+          "name": "Jamie Vardy",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/cremonese-vs-como-prediction-lineups-odds-2026-05-24/",
+          "hinweis": "Anytime +850"
+        }
+      ],
+      "squad_gast": [
+        {
+          "name": "Jean Butez",
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/cremonese-vs-como-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Eman Smolčić",
+          "position": "RV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/cremonese-vs-como-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Alberto Ramon",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/cremonese-vs-como-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Marc Oliver Kempf",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/cremonese-vs-como-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Alex Moreno",
+          "position": "LV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/cremonese-vs-como-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Maximo Perrone",
+          "position": "DM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/cremonese-vs-como-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Sergi Roberto",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/cremonese-vs-como-prediction-lineups-odds-2026-05-24/",
+          "hinweis": "sportsgambler listet 'Da Cunha' an dieser Stelle — Name unsicher, vor Anpfiff prüfen"
+        },
+        {
+          "name": "Assane Diao",
+          "position": "RF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/cremonese-vs-como-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Martin Baturina",
+          "position": "OM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/cremonese-vs-como-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Jesús Rodríguez",
+          "position": "LF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/cremonese-vs-como-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Tasos Douvikas",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/cremonese-vs-como-prediction-lineups-odds-2026-05-24/",
+          "hinweis": "Top-Anytime-Torschütze +400; 13 Saisontore laut Quelle"
+        }
+      ],
+      "injuries_heim": [
+        "Federico Baschirotto (Oberschenkel, zurück 30.6.)",
+        "Federico Ceccherini (laut Suchtreffer)",
+        "Warren Bondo (laut Suchtreffer)",
+        "Faris Moumbagna (laut Suchtreffer)"
+      ],
+      "injuries_gast": [
+        "Nico Paz (Knie)",
+        "Álex Valle (Ausfall)",
+        "Luca Mazzitelli (Wade)",
+        "Jayden Addai (Unterschenkel, zurück 1.7.)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Saisonabschluss Serie A MD38",
+        "gast": "keine - Saisonabschluss Serie A MD38",
+        "quellen": [
+          "https://www.sportsgambler.com/betting-tips/football/cremonese-vs-como-prediction-lineups-odds-2026-05-24/"
+        ]
+      },
+      "saisonziel_heim": "Abstiegskampf: 18. (34 Pkt), nur 1 Pkt hinter Lecce (35) — braucht Punkte für den Klassenerhalt",
+      "saisonziel_gast": "Europa/CL-Außenseiterchance: 5. (68 Pkt) — kämpft um europäische Plätze",
+      "tabellenstand": {
+        "heim_platz": 18,
+        "heim_pkt": 34,
+        "gast_platz": 5,
+        "gast_pkt": 68
+      },
+      "form_heim_letzte_5": "S-S-N-N-U",
+      "form_gast_letzte_5": "S-S-U-S-N",
+      "recovery_heim": "Saisonabschluss, ~7 Tage seit letztem Spiel",
+      "recovery_gast": "Saisonabschluss, ~7 Tage seit letztem Spiel",
+      "quoten": {
+        "bet365_aggregator": {
+          "sieg_heim": 5.75,
+          "draw": 4.1,
+          "sieg_gast": 1.53,
+          "ueber_2_5": 1.67,
+          "unter_2_5": 2.15,
+          "btts_ja": 1.74,
+          "btts_nein": 2.02,
+          "dc_1x": null,
+          "dc_x2": null,
+          "torschuetzen_jederzeit": [
+            {
+              "spieler": "Tasos Douvikas (Como)",
+              "quote": 5.0
+            },
+            {
+              "spieler": "Nico Paz (Como)",
+              "quote": 5.3
+            },
+            {
+              "spieler": "Federico Bonazzoli (Cremonese)",
+              "quote": 8.5
+            },
+            {
+              "spieler": "Jamie Vardy (Cremonese)",
+              "quote": 9.5
+            }
+          ]
+        },
+        "hinweis": "US-Format konvertiert: Heim +475=5.75, Draw +310=4.10, Gast -189=1.53, Über2.5 -149=1.67, Unter2.5 +115=2.15, BTTS Ja -135=1.74, BTTS Nein +102=2.02. WARN: Nico Paz als Anytime-Torschütze (+430=5.30) gelistet, ist aber laut Aufstellung mit Knieverletzung verletzt — vor Anpfiff prüfen. DC nicht angegeben. Bei bet365 live prüfen."
+      },
+      "news_kompakt": [
+        "Cremonese (18., 34 Pkt) im direkten Abstiegskampf — nur 1 Punkt hinter Lecce (35); Como (5., 68 Pkt) kämpft um Europa/CL-Außenseiterchance.",
+        "Como klarer Favorit (1X2 ~1.53) trotz Auswärtsspiel — gewann Hinspiel-Bilanz und schlug Cremonese-Niveau-Gegner zuletzt souverän.",
+        "Como ohne Spielmacher Nico Paz (Knie) und Mazzitelli — WARN: Paz dennoch in einer Anytime-Torschützen-Liste gelistet, vor Anpfiff verifizieren.",
+        "Cremonese-Form zuletzt durchwachsen (1-2 Lazio, 0-4 Napoli), davor 2 Siege gegen Udinese und Pisa.",
+        "Motivations-Asymmetrie: Cremonese mit existenziellem Klassenerhalt-Druck, Como mit Europa-Anreiz — beide Teams brauchen Punkte."
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/cremonese-vs-como-prediction-lineups-odds-2026-05-24/",
+        "https://www.squawka.com/en/news/match-preview-cremonese-vs-como-24-05-26-serie-a/",
+        "https://www.fotmob.com/matches/cremonese-vs-como/2o5sd7"
+      ]
+    },
+    {
+      "id": "2026-05-24-lec-gen",
+      "liga": "Serie A",
+      "matchday": 38,
+      "heim": "US Lecce",
+      "gast": "Genoa CFC",
+      "anstoss": "2026-05-24T20:45:00+02:00",
+      "anstoss_utc": "2026-05-24T18:45:00Z",
+      "stadion": "Stadio Ettore Giardiniero - Via del Mare, Lecce",
+      "squad_heim": [
+        {
+          "name": "Wladimiro Falcone",
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/lecce-vs-genoa-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Danilo Veiga",
+          "position": "RV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/lecce-vs-genoa-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Jamil Siebert",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/lecce-vs-genoa-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Tiago Gabriel",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/lecce-vs-genoa-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Antonino Gallo",
+          "position": "LV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/lecce-vs-genoa-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Ylber Ramadani",
+          "position": "DM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/lecce-vs-genoa-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Oumar Ngom",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/lecce-vs-genoa-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Santiago Pierotti",
+          "position": "RF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/lecce-vs-genoa-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Lassana Coulibaly",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/lecce-vs-genoa-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Lameck Banda",
+          "position": "LF",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/lecce-vs-genoa-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Walid Cheddira",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/lecce-vs-genoa-prediction-lineups-odds-2026-05-24/",
+          "hinweis": "Anytime +525"
+        }
+      ],
+      "squad_gast": [
+        {
+          "name": "Justin Bijlow",
+          "position": "TW",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/lecce-vs-genoa-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Alessandro Marcandalli",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/lecce-vs-genoa-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Sebastian Otoa",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/lecce-vs-genoa-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Johan Vásquez",
+          "position": "IV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/lecce-vs-genoa-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Stefano Sabelli",
+          "position": "RV",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/lecce-vs-genoa-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Mikael Egill Ellertsson",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/lecce-vs-genoa-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Morten Frendrup",
+          "position": "DM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/lecce-vs-genoa-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Ruslan Malinovsky",
+          "position": "ZM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/lecce-vs-genoa-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Tommaso Baldanzi",
+          "position": "OM",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/lecce-vs-genoa-prediction-lineups-odds-2026-05-24/"
+        },
+        {
+          "name": "Jeff Ekhator",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/lecce-vs-genoa-prediction-lineups-odds-2026-05-24/",
+          "hinweis": "Anytime +1050"
+        },
+        {
+          "name": "Lorenzo Colombo",
+          "position": "ST",
+          "verifiziert_via": "https://www.sportsgambler.com/betting-tips/football/lecce-vs-genoa-prediction-lineups-odds-2026-05-24/",
+          "hinweis": "Anytime +1050"
+        }
+      ],
+      "injuries_heim": [
+        "Medon Berisha (Oberschenkel)"
+      ],
+      "injuries_gast": [
+        "Vitinha (Gelbsperren-Risiko)",
+        "Brooke Norton-Cuffy (Ausfall)",
+        "Junior Messias (Oberschenkel)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Saisonabschluss Serie A MD38",
+        "gast": "keine - Saisonabschluss Serie A MD38",
+        "quellen": [
+          "https://www.sportsgambler.com/betting-tips/football/lecce-vs-genoa-prediction-lineups-odds-2026-05-24/"
+        ]
+      },
+      "saisonziel_heim": "Abstiegskampf: 17. (35 Pkt), 1 Pkt vor Cremonese (34) — braucht Punkte für den Klassenerhalt",
+      "saisonziel_gast": "Klassenerhalt gesichert (15., 41 Pkt) — kein direktes Saisonziel, Spielbetrieb",
+      "tabellenstand": {
+        "heim_platz": 17,
+        "heim_pkt": 35,
+        "gast_platz": 15,
+        "gast_pkt": 41
+      },
+      "form_heim_letzte_5": "S-N-S-U-U",
+      "form_gast_letzte_5": "N-U-U-N-S",
+      "recovery_heim": "Saisonabschluss, ~7 Tage seit letztem Spiel",
+      "recovery_gast": "Saisonabschluss, ~7 Tage seit letztem Spiel",
+      "quoten": {
+        "bet365_aggregator": {
+          "sieg_heim": 1.71,
+          "draw": 3.5,
+          "sieg_gast": 5.0,
+          "ueber_2_5": 2.28,
+          "unter_2_5": 1.61,
+          "btts_ja": 2.1,
+          "btts_nein": 1.68,
+          "dc_1x": 1.16,
+          "dc_x2": null,
+          "torschuetzen_jederzeit": [
+            {
+              "spieler": "Francesco Camarda (Lecce)",
+              "quote": 4.7
+            },
+            {
+              "spieler": "Walid Cheddira (Lecce)",
+              "quote": 6.25
+            },
+            {
+              "spieler": "Lorenzo Colombo (Genoa)",
+              "quote": 11.5
+            },
+            {
+              "spieler": "Jeff Ekhator (Genoa)",
+              "quote": 11.5
+            }
+          ]
+        },
+        "hinweis": "US-Format konvertiert: Heim -141=1.71, Draw +250=3.50, Gast +400=5.00, Über2.5 +128=2.28, Unter2.5 -164=1.61, BTTS Ja +110=2.10, BTTS Nein -147=1.68, DC 1X -625=1.16. Camarda +370=4.70 als Anytime gelistet (alternativer ST zu Cheddira). DC X2 nicht angegeben. Bei bet365 live prüfen."
+      },
+      "news_kompakt": [
+        "Lecce (17., 35 Pkt) im Abstiegs-Endspiel — 1 Punkt vor Cremonese (34); Genoa (15., 41 Pkt) bereits gerettet und ohne Druck.",
+        "Lecce Favorit (1X2 ~1.71, DC 1X ~1.16) — Heimvorteil plus Existenz-Motivation gegen anreizloses Genoa.",
+        "Markt erwartet wenig Tore: Unter 2.5 favorisiert (~1.61), mehrere Prognosen tippen auf knappen 1-0/2-0-Lecce-Sieg.",
+        "Genoa mit Gelbsperren-Risiko Vitinha und Ausfällen (Norton-Cuffy, Messias); Lecce nur Berisha verletzt.",
+        "Motivations-Asymmetrie klar pro Lecce: Klassenerhalt-Druck vs. gerettetes Genoa im Saisonausklang."
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/lecce-vs-genoa-prediction-lineups-odds-2026-05-24/",
+        "https://www.myfootballfacts.com/match-preview/serie-a-match-previews/match-preview-lecce-genoa-serie-a-gameweek-38/",
+        "https://www.fotmob.com/matches/lecce-vs-genoa/3cj5b9"
+      ]
+    },
+    {
+      "id": "2026-05-24-sas-okc",
+      "liga": "NBA Playoffs - Western Conference Finals - Game 4",
+      "matchday": "WCF Game 4 (Best-of-7) - ACHTUNG: laut Plan-API als 'Game 3' angefragt, aber Game 3 wurde bereits am 22.05. gespielt (OKC 123-108). Spiel am 24.05. ist Game 4.",
+      "heim": "San Antonio Spurs",
+      "gast": "Oklahoma City Thunder",
+      "anstoss": "2026-05-25T02:00:00+02:00",
+      "anstoss_lokal_et": "2026-05-24T20:00:00-04:00",
+      "stadion": "Frost Bank Center, San Antonio",
+      "broadcast": "NBC / Peacock (USA); ET 20:00 = 02:00 Berlin (25.05.). Hinweis: Quellen nannten teils 20:00, 20:10 und 20:30 ET - bet365/NBC live final pruefen.",
+      "series_stand": "Oklahoma City Thunder fuehren 2-1 (vor Game 4). G1 Spurs, G2 Thunder, G3 Thunder. Verifiziert via NBA.com, ESPN, DraftKings, FanDuel, covers.",
+      "wcf_kontext": "Best-of-7 zwischen den zwei besten Regular-Season-Teams: Thunder als Seed #1 (64 Siege, Titelverteidiger), Spurs als Seed #2 (62 Siege). Bemerkenswert: Spurs gewannen die Regular-Season-Serie 4-1. Serienverlauf: G1 (18.05., OKC) Spurs 125-118 in 2 Verlaengerungen (Wembanyama 41 Pkt/24 Reb); G2 (20.05., OKC) Thunder 122-113 (SGA 30 Pkt); G3 (22.05., San Antonio) Thunder 123-108 mit 76 Bank-Punkten (Franchise-Playoff-Rekord). WICHTIG: Das vom Plan als 'Game 3' bezeichnete Spiel am 24.05. ist tatsaechlich Game 4 - Game 3 ist bereits gespielt.",
+      "key_player_heim_starting": [
+        {
+          "name": "De'Aaron Fox",
+          "position": "PG",
+          "rolle": "Lead-Guard / Hauptscorer, kehrte in G3 nach Ankle-Sprain zurueck (15 Pkt/7 Reb/6 Ast)",
+          "verifiziert_via": "https://www.nba.com/news/3-things-to-watch-thunder-spurs-game-4"
+        },
+        {
+          "name": "Stephon Castle",
+          "position": "SG",
+          "rolle": "Combo-Guard, Slasher; G3 14 Pkt (stark ueber Freiwuerfe)",
+          "verifiziert_via": "https://heavy.com/sports/nba/san-antonio-spurs/spurs-starting-lineup-game-3-vs-thunder/"
+        },
+        {
+          "name": "Devin Vassell",
+          "position": "SF",
+          "rolle": "Wing-Scorer / Shooter; G3 20 Pkt bei 50% FG",
+          "verifiziert_via": "https://www.si.com/nba/western-conference-finals-game-3-live-updates-stats-spurs-thunder"
+        },
+        {
+          "name": "Julian Champagnie",
+          "position": "PF",
+          "rolle": "3-and-D Forward",
+          "verifiziert_via": "https://heavy.com/sports/nba/san-antonio-spurs/spurs-starting-lineup-game-3-vs-thunder/"
+        },
+        {
+          "name": "Victor Wembanyama",
+          "position": "C",
+          "rolle": "DPOY-Kandidat, Franchise-Center, Rim-Protector + Hauptscorer; G3 26 Pkt/4 Reb/3 Ast",
+          "verifiziert_via": "https://www.nba.com/playoffs/2026/west-final"
+        }
+      ],
+      "key_player_heim_bench": [
+        {
+          "name": "Dylan Harper",
+          "position": "PG",
+          "rolle": "Rookie-Guard, Sixth-Man; spielte G3 angeschlagen (Adduktor), 6 Pkt in 17 Min",
+          "verifiziert_via": "https://clutchpoints.com/nba/san-antonio-spurs/dylan-harper-playing-spurs-thunder-2026-western-conference-finals-game-3-injury-report"
+        },
+        {
+          "name": "Keldon Johnson",
+          "position": "SF",
+          "rolle": "Bank-Scorer / Energie-Wing; G3 5 Pkt",
+          "verifiziert_via": "https://www.si.com/nba/western-conference-finals-game-3-live-updates-stats-spurs-thunder"
+        }
+      ],
+      "key_player_gast_starting": [
+        {
+          "name": "Shai Gilgeous-Alexander",
+          "position": "PG",
+          "rolle": "MVP, Hauptscorer/Playmaker; G3 26 Pkt/12 Ast (12/12 FT)",
+          "verifiziert_via": "https://www.nba.com/news/live-updates-thunder-spurs-aim-to-secure-2-1-lead-in-western-conference-finals"
+        },
+        {
+          "name": "Lu Dort",
+          "position": "SG",
+          "rolle": "Perimeter-Defensivspezialist, Corner-Shooter",
+          "verifiziert_via": "https://heavy.com/sports/nba/oklahoma-city-thunder/thunder-lineup-game-2-spurs-wcf/"
+        },
+        {
+          "name": "Jalen Williams",
+          "position": "SF",
+          "rolle": "Zweiter Star-Scorer / Two-Way-Wing; aktuell Hamstring-Sorge (siehe Injuries)",
+          "verifiziert_via": "https://www.nbc.com/nbc-insider/spurs-vs-thunder-injury-updates-latest-on-jalen-williams-dylan-harper"
+        },
+        {
+          "name": "Chet Holmgren",
+          "position": "PF",
+          "rolle": "Stretch-Big / Rim-Protector",
+          "verifiziert_via": "https://heavy.com/sports/nba/oklahoma-city-thunder/thunder-lineup-game-2-spurs-wcf/"
+        },
+        {
+          "name": "Isaiah Hartenstein",
+          "position": "C",
+          "rolle": "Center, Rebounding + Screening",
+          "verifiziert_via": "https://heavy.com/sports/nba/oklahoma-city-thunder/thunder-lineup-game-2-spurs-wcf/"
+        }
+      ],
+      "key_player_gast_bench": [
+        {
+          "name": "Alex Caruso",
+          "position": "SG",
+          "rolle": "Defensiv-Spezialist / Bank-Anfuehrer; G3 15 Pkt",
+          "verifiziert_via": "https://www.si.com/nba/western-conference-finals-game-3-live-updates-stats-spurs-thunder"
+        },
+        {
+          "name": "Cason Wallace",
+          "position": "PG",
+          "rolle": "Junger Two-Way-Guard; G3 11 Pkt",
+          "verifiziert_via": "https://www.si.com/nba/western-conference-finals-game-3-live-updates-stats-spurs-thunder"
+        },
+        {
+          "name": "Jaylin Williams",
+          "position": "C",
+          "rolle": "Backup-Big / Shooter; G3 18 Pkt (5/6 Dreier, Playoff-Karriere-Hoch)",
+          "verifiziert_via": "https://www.si.com/nba/western-conference-finals-game-3-live-updates-stats-spurs-thunder"
+        }
+      ],
+      "injuries_heim": [
+        {
+          "name": "De'Aaron Fox",
+          "status": "expected to play / probable",
+          "detail": "High-Ankle-Sprain; verpasste G1+G2, kehrte G3 zurueck, in G3 nach Sturz von Lu Dort auf den Knoechel sichtbar angeschlagen. Coach Mitch Johnson sagte Sa: wird Sonntag spielen.",
+          "verifiziert_via": "https://bleacherreport.com/articles/25430469-dylan-harper-deaaron-fox-injury-statuses-revealed-spurs-g4-vs-thunder-hc-mitch-johnson"
+        },
+        {
+          "name": "Dylan Harper",
+          "status": "expected to play / probable",
+          "detail": "Adduktor-Zerrung (in G2 zunaechst als Hamstring gemeldet); Coach erwartet Einsatz Sonntag.",
+          "verifiziert_via": "https://bleacherreport.com/articles/25430469-dylan-harper-deaaron-fox-injury-statuses-revealed-spurs-g4-vs-thunder-hc-mitch-johnson"
+        },
+        {
+          "name": "David Jones",
+          "status": "OUT (Saison)",
+          "detail": "Knoechel - out for season",
+          "verifiziert_via": "https://ticket760.iheart.com/content/2026-05-24-thunder-vs-spurs-western-finals-game-4-injury-report-may-24/"
+        }
+      ],
+      "injuries_gast": [
+        {
+          "name": "Jalen Williams",
+          "status": "questionable / day-to-day",
+          "detail": "Hamstring-Problem; in G2 betroffen, day-to-day vor G4",
+          "verifiziert_via": "https://ticket760.iheart.com/content/2026-05-24-thunder-vs-spurs-western-finals-game-4-injury-report-may-24/"
+        },
+        {
+          "name": "Ajay Mitchell",
+          "status": "questionable / day-to-day",
+          "detail": "Undisclosed - day-to-day",
+          "verifiziert_via": "https://ticket760.iheart.com/content/2026-05-24-thunder-vs-spurs-western-finals-game-4-injury-report-may-24/"
+        },
+        {
+          "name": "Thomas Sorber",
+          "status": "OUT (Saison)",
+          "detail": "Knie - out for season",
+          "verifiziert_via": "https://ticket760.iheart.com/content/2026-05-24-thunder-vs-spurs-western-finals-game-4-injury-report-may-24/"
+        }
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "Western Conference Finals laufend (Best-of-7), aktuell 1-2 zurueck. Nach Game 4 (24.05.) folgt Game 5 in Oklahoma City (Termin ~26.05.).",
+        "gast": "Western Conference Finals laufend, fuehrt 2-1, kann mit Sieg in Game 4 auf 3-1 stellen. Naechstes Spiel danach Game 5 in OKC.",
+        "quellen": [
+          "https://www.nba.com/playoffs/2026/west-final",
+          "https://www.nba.com/news/3-things-to-watch-thunder-spurs-game-4"
+        ]
+      },
+      "saisonziel_heim": "San Antonio Spurs (Seed #2, 62 Siege): NBA-Titel - muessen Serie 1-2 zurueck drehen, Game 4 zuhause ist Must-Win, um nicht 1-3 in Rueckstand zu geraten.",
+      "saisonziel_gast": "Oklahoma City Thunder (Seed #1, 64 Siege, Titelverteidiger): Rueckkehr in die NBA Finals; mit Sieg 3-1-Fuehrung und Heimvorteil-Rueckgewinn.",
+      "form_heim_post_season": "Spurs erreichten erstmals mit Wembanyama die Conference Finals; G1-Sieg im 2OT-Klassiker, danach zwei Niederlagen. Schwachpunkt: Bank klar unterlegen (nur 64 Bank-Pkt ueber 3 Spiele vs OKC 183). Wembanyama ~41,7 Min/Spiel (hohe Belastung).",
+      "form_gast_post_season": "Thunder nach G1-Niederlage zurueckgeschlagen mit zwei Siegen; G3 mit Franchise-Playoff-Rekord von 76 Bankpunkten (McCain 24, Jaylin Williams 18, Caruso 15, Wallace 11). SGA in G1 schwach (30,4% FG), seither stark (G2 30 Pkt/50% FG, G3 26 Pkt/12 Ast).",
+      "regular_season_h2h": "Spurs gewannen die Regular-Season-Serie 2025-26 mit 4-1: 13.12.2025 Spurs 111-109 (@OKC); 23.12.2025 Spurs 130-110; 25.12.2025 Spurs 117-102 (@OKC); 13.01.2026 Thunder 119-98 (@OKC); 04.02.2026 Spurs 116-106. Verifiziert via StatMuse.",
+      "quoten": {
+        "bet365_aggregator": {
+          "moneyline_heim": "San Antonio Spurs ca. -120 bis -132 US (ca. 1.76-1.83 dezimal) - leichter Heimfavorit",
+          "moneyline_gast": "Oklahoma City Thunder ca. +102 bis +112 US (ca. 1.91-2.02 dezimal)",
+          "spread": "Spurs -1.5 bis -2.5 (Thunder +1.5/+2.5). DraftKings-Eroeffnung Spurs -1.5; FanDuel/lineups spaeter Spurs -2.5.",
+          "total_over_under": "218.5 Punkte (DraftKings/covers/FanDuel); einzelne Vorschauen nannten 219.5",
+          "spielerpunkte_top": {
+            "shai_gilgeous_alexander": "Volle-Spiel-Punktelinie bei Aggregatoren nicht publiziert - bei bet365 live pruefen. Doku: 1.-Viertel-Punkte Under 7.5 erwaehnt (SGA in dieser Serie nur ~2 Pkt/Q1, 30% FG).",
+            "victor_wembanyama": "Volle-Spiel-Punktelinie nicht publiziert - live pruefen. Doku: 1.-Viertel-Punkte Over 5.5 erwaehnt.",
+            "chet_holmgren": "keine veroeffentlichte Punktelinie in den Quellen - bei bet365 live pruefen",
+            "jalen_williams": "keine Linie (Hamstring/day-to-day Status) - live pruefen",
+            "stephon_castle": "keine veroeffentlichte Linie - live pruefen",
+            "de_aaron_fox": "keine veroeffentlichte Linie (Ankle-Status game-time) - live pruefen",
+            "devin_vassell": "keine veroeffentlichte Linie - live pruefen",
+            "keldon_johnson": "Ueber 8.5 Punkte in einer same-game-parlay-Quelle erwaehnt (covers) - als grobe Markt-Indikation, bet365 live pruefen"
+          },
+          "verboten_in_de_nur_dokumentation": {
+            "hinweis": "Folgende in DE NICHT erlaubte Props wurden in US-Quellen gesehen, nur zur Doku, KEIN Tipp:",
+            "victor_wembanyama_dreier": "Under 1.5 Dreier (Einzel-3er - in DE verboten)",
+            "anmerkung": "Einzel-Rebounds, Einzel-Assists, Einzel-3er und PRA-Kombos sind bei bet365 DE nicht spielbar. Reine Spieler-PUNKTE-Linien sind erlaubt."
+          }
+        },
+        "fair_line_basis_prozent": "Spurs-Moneyline -120/-132 ca. 54,5-56,9% implizite Wahrscheinlichkeit; Thunder +102/+112 ca. 47,2-49,5%. Modell-Projektionen sehen Spurs ~56% Siegchance. Quoten variieren je Buchmacher - bet365 live pruefen.",
+        "hinweis": "Alle Quoten aus US-Quellen (DraftKings, FanDuel, covers, BetMGM) per 22.-24.05.2026, US-Format in Dezimal umgerechnet. KEINE bet365-Originalquoten - vor Einsatz bei bet365 DE live pruefen, Linien bewegen sich."
+      },
+      "news_kompakt": [
+        "WICHTIG: Das Spiel am 24.05.2026 in San Antonio ist Game 4, NICHT Game 3 - Game 3 wurde bereits am 22.05. gespielt (Thunder 123-108).",
+        "Serie steht 2-1 fuer die Thunder; Spurs muessen Game 4 zuhause gewinnen, um nicht 1-3 zurueckzufallen.",
+        "Thunders Bank ist das grosse Thema: 76 Punkte in Game 3 (Franchise-Playoff-Rekord), Bank-Vorsprung 183-64 ueber drei Spiele gegenueber den Spurs.",
+        "De'Aaron Fox (High-Ankle-Sprain) und Dylan Harper (Adduktor) werden laut Coach Mitch Johnson fuer Game 4 erwartet, beide aber angeschlagen.",
+        "OKC-Star Jalen Williams (Hamstring) und Ajay Mitchell sind day-to-day; Sorber (OKC) und David Jones (SAS) fallen fuer die Saison aus.",
+        "SGA fand nach schwachem Game 1 (30,4% FG) zurueck: Game 2 30 Pkt/50% FG, Game 3 26 Pkt/12 Ast (12/12 Freiwuerfe).",
+        "Wembanyama traegt mit ~41,7 Min/Spiel hohe Last; in Game 1 41 Pkt/24 Reb (2OT-Sieg), in Game 3 26 Pkt.",
+        "Pikant: Spurs gewannen die Regular-Season-Serie 2025-26 mit 4-1, liegen aber in den Playoffs zurueck.",
+        "Total liegt um 218.5-219.5; Spurs sind trotz Rueckstand leichte Heimfavoriten (ca. -120 bis -132)."
+      ],
+      "quellen_aggregator": [
+        "https://www.nba.com/playoffs/2026/west-final",
+        "https://www.nba.com/news/live-updates-thunder-spurs-aim-to-secure-2-1-lead-in-western-conference-finals",
+        "https://www.nba.com/news/3-things-to-watch-thunder-spurs-game-4",
+        "https://www.espn.com/nba/recap?gameId=401873199",
+        "https://www.espn.com/nba/recap?gameId=401873198",
+        "https://www.si.com/nba/western-conference-finals-game-3-live-updates-stats-spurs-thunder",
+        "https://www.si.com/nba/thunder/onsi/okc-thunder-bench-swings-conference-finals-in-game-3-win-over-spurs",
+        "https://bleacherreport.com/articles/25430469-dylan-harper-deaaron-fox-injury-statuses-revealed-spurs-g4-vs-thunder-hc-mitch-johnson",
+        "https://ticket760.iheart.com/content/2026-05-24-thunder-vs-spurs-western-finals-game-4-injury-report-may-24/",
+        "https://www.fanduel.com/research/spurs-vs-thunder-prediction-nba-odds-spread-best-bets-for-western-finals-5-24-2026",
+        "https://dknetwork.draftkings.com/2026/05/22/opening-odds-for-thunder-vs-spurs-game-4-in-2026-nba-playoffs-western-conference-finals/",
+        "https://www.covers.com/nba/thunder-vs-spurs-prediction-picks-best-bets-sgp-sunday-5-24-2026",
+        "https://www.lineups.com/betting/oklahoma-city-thunder-vs-san-antonio-spurs-game-4-preview-picks-odds-for-sunday-may-24-2026/",
+        "https://www.statmuse.com/nba/ask/spurs-vs-thunder-head-to-head-record-2026",
+        "https://heavy.com/sports/nba/san-antonio-spurs/spurs-starting-lineup-game-3-vs-thunder/",
+        "https://heavy.com/sports/nba/oklahoma-city-thunder/thunder-lineup-game-2-spurs-wcf/",
+        "https://www.nbc.com/nbc-insider/spurs-vs-thunder-injury-updates-latest-on-jalen-williams-dylan-harper"
+      ]
+    }
+  ]
+}
