@@ -101,69 +101,9 @@
         "Bayern @ ~1.20 (87% Implied), Stuttgart @ ~5.75 (17%), Remis @ ~6.50",
         "Liga-Goldgrube-Status: DFB-Pokal Halbfinale Aggregat 75% Hitrate / +46% ROI bei n=4 (kleine Sample, aber Pattern positiv)"
       ],
-      "tipps": [
-        {
-          "id": "bay-vfb-1",
-          "kategorie": "safe",
-          "markt": "Bayern Muenchen Sieg (regulaere 90 Min)",
-          "quote": 1.2,
-          "quote_quelle": "Oddschecker bet365 verifiziert + Wettfreunde Konsens (87% Implied)",
-          "edge_prozent": 3,
-          "begruendung": "Klassen-Edge maximal - Bayern Meister + 7d-Recovery + Kane-Hat-Trick-Form + KEIN CL-Doppelbelastung (raus seit Wochen, kein Lesson-03.05.-Risiko). Stuttgart pokalerfahren aber Klassen-Unterschied ueberbrueckbar nur ueber Tor-Festival mit Glueck. Goldgrube-Liga DFB-Pokal HF +46% ROI bei n=4 (kleine Sample-Warnung Lesson 19.05. - daher Einsatz konservativ 1,5%). Safe-Reality-Check: keine Komfort-Tokens im saison_kontext, Pflichtsieg-These haelt. Empfohlener Einsatz: 8,25€ (1,5% der 550€-Kasse).",
-          "bewertung_label": "SAFE",
-          "empfohlener_einsatz_prozent": 1.5,
-          "faire_quote": 1.17
-        },
-        {
-          "id": "bay-vfb-2",
-          "kategorie": "value",
-          "markt": "Harry Kane trifft",
-          "quote": 1.45,
-          "quote_quelle": "Oddschecker bet365 (Saison-Volume-9er Top-Linie)",
-          "edge_prozent": 7,
-          "begruendung": "Goldgrube 'Torschuetzen Jederzeit' (50% Hitrate / +24.4% ROI) + Kane Saison 36 Tore + Hat-Trick-Form letzte Woche + Bayern voll motiviert. Caveat Lesson 21.05. 'Klassen-Edge-Final-Volume-9er-Schweigen' (EL-Finale 20.05. Villa-Volume-9er traf nicht, Mittelfeld machte Tore) - aber Kane spielt 90 Min durch (kein Rotations-Risiko Lesson 03.05.), Pre-Match-Lineup-Check zeigt Kane in Startelf. Pflicht-Profil HEIM-FAVORIT bei <1.80-Sieg-Quote: Torschuetzen-Tipp PFLICHT (Lesson 04.05.). Empfohlener Einsatz: 11€ (2%).",
-          "bewertung_label": "VALUE",
-          "empfohlener_einsatz_prozent": 2.0,
-          "faire_quote": 1.36
-        },
-        {
-          "id": "bay-vfb-3",
-          "kategorie": "wackel",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.55,
-          "quote_quelle": "Oddschecker bet365 (Goldgrube Markt-Aggregat)",
-          "edge_prozent": 5,
-          "begruendung": "Goldgrube-Markt Ueber 2.5 Tore (46.7% Hitrate / +33.2% ROI). Bayern offensiv stark (5:1 letzte BL), Stuttgart MUSS aktiv spielen statt 0:0-zu-mauern (Sieg-Quote 5.75 = kein Anreiz fuer Defensiv-Schlacht). Klassen-Edge-Finals tendieren zu Tor-Festivals (Lesson 21.05. Villa-Final 0:3 = Ueber 2.5 erreicht). Empfohlener Einsatz: 2,75€ (0,5%).",
-          "bewertung_label": "WACKEL",
-          "empfohlener_einsatz_prozent": 0.5,
-          "faire_quote": 1.48
-        },
-        {
-          "id": "bay-vfb-4",
-          "kategorie": "wackel",
-          "markt": "Deniz Undav trifft",
-          "quote": 3.5,
-          "quote_quelle": "Oddschecker Konsens fuer Stuttgart-Volume-Stuermer",
-          "edge_prozent": 3,
-          "begruendung": "Stuttgart-Stuermer (Doppelspitze mit Demirovic), Saison-Volumen-Schuetze + Final-Karriere-Highlight. bet365-Einwechslungs-Boost-Setup mit Demirovic (wenn Undav 70'-75' raus + Demirovic Tor → Tipp gewonnen ueber bet365-Regel CLAUDE.md). Caveat Lesson 27.04. (Boost nur wenn Tipp-Spieler SELBST ausgewechselt) - Undav startet wahrscheinlich, Auswechslung 70-80' realistisch. Lesson 18.05. Boost-Filter: bei knappem Spielstand (was wahrscheinlich) Backup spielt offensiv. Empfohlener Einsatz: 1,40€ (0,25%).",
-          "bewertung_label": "WACKEL",
-          "empfohlener_einsatz_prozent": 0.25,
-          "faire_quote": 3.4
-        },
-        {
-          "id": "bay-vfb-5",
-          "kategorie": "moonshot",
-          "markt": "Stuttgart Sieg (regulaere 90 Min)",
-          "quote": 5.75,
-          "quote_quelle": "Oddschecker bet365 + Wettfreunde-Boost",
-          "edge_prozent": 2,
-          "begruendung": "Moonshot-Spass-Bein - Stuttgart als Titelverteidiger pokalerfahren + Karriere-Highlight-Trigger + Bayern-Final-Geschichte zeigt 'Underdog-gewinnt'-Faelle (DFB-Pokal-Tradition). Implied 17%, real eher 20-22% wenn Stuttgart Karriere-Highlight-Boost zieht. 2:0-Insurance-Regel CLAUDE.md gilt im Pokalfinale NICHT (nur 1.BL/CL). Empfohlener Einsatz: 0,55€ (0,1% Spasseinsatz).",
-          "bewertung_label": "MOONSHOT",
-          "empfohlener_einsatz_prozent": 0.1,
-          "faire_quote": 5.64
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-05-23-rma-ath",

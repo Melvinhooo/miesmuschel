@@ -35,43 +35,9 @@
         "DFB-Pokal historisch eine der staerksten Wettbewerbs-Bilanzen im System (kein Beobachtungs-Status)",
         "Quoten Aggregator-Stand: Bayern ~1.36, Remis ~4.5, Stuttgart ~7.5; Kane Tor ~1.85, Diaz ~2.5, Olise ~2.3 - bei bet365 live pruefen"
       ],
-      "tipps": [
-        {
-          "id": "bay-vfb-1",
-          "kategorie": "value",
-          "markt": "Sieg FC Bayern Muenchen",
-          "quote": 1.36,
-          "edge_prozent": 4.0,
-          "begruendung": "Bayern haushoher Favorit mit Double-Motivation und voller Kader-Qualitaet gegen unterlegenen Pokalverteidiger Stuttgart. Nur 1 Niederlage in den letzten 24 Pflichtspielen. VALUE statt SAFE: Finals sind erfahrungsgemaess knapper als Liga-Spiele + 'Sieg' gilt nur fuer 90 Min (Verlaengerung-Risiko). Stake 1.5% x 550€ = 8,25€. Bei bet365 live pruefen.",
-          "faire_quote": 1.3,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 8.25
-        },
-        {
-          "id": "bay-vfb-2",
-          "kategorie": "value",
-          "markt": "Harry Kane trifft jederzeit",
-          "quote": 1.85,
-          "edge_prozent": 5.0,
-          "begruendung": "Goldgrube Torschuetzen Jederzeit (+20.5% ROI). Kane als Bayerns zentraler Stuermer + Standard-/Elfmeterschuetze gegen eine im Final-Druck verwundbare Stuttgart-Abwehr. Vereins-Zuordnung via fcbayern.com verifiziert (Squad ST). Caveat Lesson 21.05. (Klassen-Edge-Final, Tore verteilen sich teils auf Mittelfeld): daher VALUE statt SAFE. Aufstellung verifizieren. Stake 1.0% x 550€ = 5,50€. Bei bet365 live pruefen.",
-          "faire_quote": 1.72,
-          "empfohlener_einsatz_prozent": 1.0,
-          "einsatz_euro": 5.5,
-          "_aufstellungs_verifikation_pflicht": true
-        },
-        {
-          "id": "bay-vfb-3",
-          "kategorie": "wackel",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.6,
-          "edge_prozent": 1.0,
-          "begruendung": "Bayern-Offensive vs offen spielender Underdog koennte Tore bringen (Aggregator Ueber 2.5 ~1.60). Final-Knappheit drueckt aber oft die Toranzahl -> wackel, NICHT in einzeltipps[]. Bei bet365 live pruefen.",
-          "faire_quote": 1.58,
-          "empfohlener_einsatz_prozent": 0.0,
-          "einsatz_euro": 0.0
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-05-23-rma-ath",
@@ -162,31 +128,9 @@
         "Valencia laengst gerettet, ohne sportlichen Anreiz am Schlusstag",
         "Quoten Aggregator-Stand: Barca ~1.83, Remis ~4.2, Valencia ~4.5; Lewandowski Tor ~2.1, Raphinha ~2.3 - bei bet365 live pruefen"
       ],
-      "tipps": [
-        {
-          "id": "val-fcb-1",
-          "kategorie": "value",
-          "markt": "Sieg FC Barcelona",
-          "quote": 1.83,
-          "edge_prozent": 5.0,
-          "begruendung": "Barca sportlich klar ueberlegen (5-0 in letzten 5 H2H, 6:0 im Hinspiel) gegen ein anreizloses Valencia. Auch im Saison-Auslauf reicht Barcas Qualitaet plus Lewandowski-Abschieds-Motivation meist zum Auswaertssieg. Betfair-implizit 54.5% -> faire Quote ~1.75, bet365 ~1.83 = Wert. Stake 1.0% x 550€ = 5,50€. Bei bet365 live pruefen.",
-          "faire_quote": 1.75,
-          "empfohlener_einsatz_prozent": 1.0,
-          "einsatz_euro": 5.5
-        },
-        {
-          "id": "val-fcb-2",
-          "kategorie": "wackel",
-          "markt": "Robert Lewandowski trifft jederzeit",
-          "quote": 2.1,
-          "edge_prozent": 2.0,
-          "begruendung": "Moonshot-Bein: Lewandowski-Abschiedsspiel, Flick will ihn glaenzen lassen. Lesson 18.05. (Tor-Markt auf Geehrten ueberbewertet - Mitspieler legen oft auf statt selbst zu treffen) -> nur wackel. Vereins-Zuordnung via laliga.com verifiziert (Squad ST). NICHT in einzeltipps[]. Bei bet365 live pruefen.",
-          "faire_quote": 2.05,
-          "empfohlener_einsatz_prozent": 0.0,
-          "einsatz_euro": 0.0
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-05-23-cel-sev",
@@ -349,17 +293,6 @@
           "faire_quote": 1.5,
           "empfohlener_einsatz_prozent": 1.0,
           "einsatz_euro": 5.5
-        },
-        {
-          "id": "bet-lev-2",
-          "kategorie": "wackel",
-          "markt": "Cedric Bakambu trifft jederzeit",
-          "quote": 2.3,
-          "edge_prozent": 2.0,
-          "begruendung": "Torschuetzen-Option Betis zuhause. Vereins-Zuordnung via laliga.com verifiziert (Squad ST). Saison-Schlusstag-Varianz -> wackel, NICHT in einzeltipps[]. Bei bet365 live pruefen.",
-          "faire_quote": 2.25,
-          "empfohlener_einsatz_prozent": 0.0,
-          "einsatz_euro": 0.0
         }
       ],
       "kontext_check_status": "OK"
@@ -403,17 +336,6 @@
           "faire_quote": 1.65,
           "empfohlener_einsatz_prozent": 1.0,
           "einsatz_euro": 5.5
-        },
-        {
-          "id": "gir-elc-2",
-          "kategorie": "wackel",
-          "markt": "Cristhian Stuani trifft jederzeit",
-          "quote": 2.6,
-          "edge_prozent": 2.0,
-          "begruendung": "Moonshot-Bein: Stuani als Girona-Stuermer im Heim-Druckspiel. Vereins-Zuordnung via laliga.com verifiziert (Squad ST). Tor-armes Spiel-Profil -> wackel, NICHT in einzeltipps[]. Bei bet365 live pruefen.",
-          "faire_quote": 2.55,
-          "empfohlener_einsatz_prozent": 0.0,
-          "einsatz_euro": 0.0
         }
       ],
       "kontext_check_status": "OK"
@@ -647,31 +569,9 @@
         "NBA-Playoff nie SAFE (HR16/Hebel B) - Sieg/Total max wackel; Player-Punkte raus aus Einzeltipps",
         "Verbotene Maerkte DE: keine Einzel-Reb/Ast/Blk/Steals, keine PRA-Kombos, keine Einzel-3er"
       ],
-      "tipps": [
-        {
-          "id": "nyk-cle-1",
-          "kategorie": "wackel",
-          "markt": "Sieg Cleveland Cavaliers (Moneyline)",
-          "quote": 1.75,
-          "edge_prozent": 1.5,
-          "begruendung": "Cavs Heim-Favorit unter maximalem Pflichtsieg-Druck (0-2, Sweep-Vermeidung) gegen Knicks, die in Cleveland seit 2024 nicht gewonnen haben. ABER NBA-Playoff nie SAFE + Knicks-Galaform -> Coinflip, wackel. NICHT in einzeltipps[]. Bei bet365 live pruefen.",
-          "faire_quote": 1.72,
-          "empfohlener_einsatz_prozent": 0.0,
-          "einsatz_euro": 0.0
-        },
-        {
-          "id": "nyk-cle-2",
-          "kategorie": "wackel",
-          "markt": "Ueber 213.5 Punkte (Total)",
-          "quote": 1.9,
-          "edge_prozent": 2.0,
-          "begruendung": "Knicks-Offensive in Galaform (122.3 Pkt Schnitt), Cavs zuhause unter Druck mit Tempo -> Ueber-Tendenz. Risiko-Kombi-Bein. Heim-Pflichtsieg-Spiele koennen aber in Defensiv-Schlachten kippen -> wackel. NICHT in einzeltipps[]. Bei bet365 live pruefen.",
-          "faire_quote": 1.82,
-          "empfohlener_einsatz_prozent": 0.0,
-          "einsatz_euro": 0.0
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     }
   ],
   "einzeltipps": [
@@ -690,20 +590,6 @@
       "rang": 1
     },
     {
-      "id": "et-2",
-      "spiel_id": "2026-05-23-bay-vfb",
-      "tipp_id": "bay-vfb-1",
-      "kategorie": "value",
-      "markt": "Sieg FC Bayern Muenchen",
-      "quote": 1.36,
-      "edge_prozent": 4.0,
-      "begruendung": "DFB-Pokal-Final: Bayern haushoher Favorit mit Double-Motivation + voller Kader gegen Underdog Stuttgart. VALUE statt SAFE (Final-Knappheit + 90-Min-Markt). Stake 1.5% x 550€ = 8,25€.",
-      "einsatz_euro": 8.25,
-      "einsatz_prozent_kasse": 1.5,
-      "empfohlener_einsatz_prozent": 1.5,
-      "rang": 2
-    },
-    {
       "id": "et-3",
       "spiel_id": "2026-05-23-rma-ath",
       "tipp_id": "rma-ath-1",
@@ -715,21 +601,7 @@
       "einsatz_euro": 5.5,
       "einsatz_prozent_kasse": 1.0,
       "empfohlener_einsatz_prozent": 1.0,
-      "rang": 3
-    },
-    {
-      "id": "et-4",
-      "spiel_id": "2026-05-23-bay-vfb",
-      "tipp_id": "bay-vfb-2",
-      "kategorie": "value",
-      "markt": "Harry Kane trifft jederzeit",
-      "quote": 1.85,
-      "edge_prozent": 5.0,
-      "begruendung": "Goldgrube Torschuetzen Jederzeit (+20.5%). Kane Bayern-Stuermer + Elfmeterschuetze im Final gegen verwundbare Stuttgart-Abwehr. Caveat Lesson 21.05. (Final-Tore teils im Mittelfeld). Aufstellung verifizieren. Stake 1.0% x 550€ = 5,50€.",
-      "einsatz_euro": 5.5,
-      "einsatz_prozent_kasse": 1.0,
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 4
+      "rang": 2
     },
     {
       "id": "et-5",
@@ -743,7 +615,7 @@
       "einsatz_euro": 5.5,
       "einsatz_prozent_kasse": 1.0,
       "empfohlener_einsatz_prozent": 1.0,
-      "rang": 5
+      "rang": 3
     },
     {
       "id": "et-6",
@@ -757,7 +629,7 @@
       "einsatz_euro": 5.5,
       "einsatz_prozent_kasse": 1.0,
       "empfohlener_einsatz_prozent": 1.0,
-      "rang": 6
+      "rang": 4
     },
     {
       "id": "et-7",
@@ -771,7 +643,7 @@
       "einsatz_euro": 5.5,
       "einsatz_prozent_kasse": 1.0,
       "empfohlener_einsatz_prozent": 1.0,
-      "rang": 7
+      "rang": 5
     },
     {
       "id": "et-8",
@@ -785,172 +657,10 @@
       "einsatz_euro": 5.5,
       "einsatz_prozent_kasse": 1.0,
       "empfohlener_einsatz_prozent": 1.0,
-      "rang": 8
+      "rang": 6
     }
   ],
-  "kombis": [
-    {
-      "id": "kombi-safe",
-      "name": "Safe-Kombi (~2.85x)",
-      "kategorie": "safe",
-      "beine": [
-        {
-          "spiel_id": "2026-05-23-bay-vfb",
-          "tipp_id": "bay-vfb-1",
-          "markt": "FC Bayern Muenchen - VfB Stuttgart: Sieg FC Bayern Muenchen",
-          "quote": 1.36,
-          "spiel_titel": "FC Bayern Muenchen - VfB Stuttgart"
-        },
-        {
-          "spiel_id": "2026-05-23-cel-sev",
-          "tipp_id": "cel-sev-1",
-          "markt": "Celta de Vigo - Sevilla FC: Celta de Vigo oder Unentschieden (Doppelte Chance 1X)",
-          "quote": 1.27,
-          "spiel_titel": "Celta de Vigo - Sevilla FC"
-        },
-        {
-          "spiel_id": "2026-05-23-mal-ovi",
-          "tipp_id": "mal-ovi-1",
-          "markt": "RCD Mallorca - Real Oviedo: Sieg RCD Mallorca",
-          "quote": 1.65,
-          "spiel_titel": "RCD Mallorca - Real Oviedo"
-        }
-      ],
-      "gesamtquote": 2.85,
-      "gesamtquote_rechnung": "1.36 x 1.27 x 1.65 = 2.85",
-      "einsatz_euro": 11.0,
-      "einsatz_prozent_kasse": 2.0,
-      "gewinn_brutto_euro": 31.35,
-      "begruendung": "Drei stabilste Edges: Bayern im Pokalfinale (Double-Motivation, voller Kader) + Celta DC 1X (Remis reicht fuer Europa, Goldgrube) + Mallorca (Klassenerhalts-Pflichtsieg vs Abgestiegener). Layer-1: 1 Bein/Spiel. Layer-2: jedes Sieg-Outcome nur hier. Stake 2.0% x 550€ = 11€.",
-      "empfohlener_einsatz_prozent": 2.0
-    },
-    {
-      "id": "kombi-balance",
-      "name": "Balance-Kombi (~6.75x)",
-      "kategorie": "balance",
-      "beine": [
-        {
-          "spiel_id": "2026-05-23-rma-ath",
-          "tipp_id": "rma-ath-1",
-          "markt": "Real Madrid - Athletic Club: Sieg Real Madrid",
-          "quote": 1.36,
-          "spiel_titel": "Real Madrid - Athletic Club"
-        },
-        {
-          "spiel_id": "2026-05-23-val-fcb",
-          "tipp_id": "val-fcb-1",
-          "markt": "Valencia CF - FC Barcelona: Sieg FC Barcelona",
-          "quote": 1.83,
-          "spiel_titel": "Valencia CF - FC Barcelona"
-        },
-        {
-          "spiel_id": "2026-05-23-bet-lev",
-          "tipp_id": "bet-lev-1",
-          "markt": "Real Betis - Levante UD: Sieg Real Betis",
-          "quote": 1.55,
-          "spiel_titel": "Real Betis - Levante UD"
-        },
-        {
-          "spiel_id": "2026-05-23-gir-elc",
-          "tipp_id": "gir-elc-1",
-          "markt": "Girona FC - Elche CF: Unter 2.5 Tore",
-          "quote": 1.75,
-          "spiel_titel": "Girona FC - Elche CF"
-        }
-      ],
-      "gesamtquote": 6.75,
-      "gesamtquote_rechnung": "1.36 x 1.83 x 1.55 x 1.75 = 6.75",
-      "einsatz_euro": 4.4,
-      "einsatz_prozent_kasse": 0.8,
-      "gewinn_brutto_euro": 29.7,
-      "begruendung": "Vier andere Spiele als die Safe-Kombi: Real-Sieg + Barca-Sieg (Klassen-Edge) + Betis-Sieg + Girona-Elche Unter. Layer-2: Sieg-Outcomes Real/Barca/Betis nur hier. Stake 0.8% x 550€ = 4,40€.",
-      "empfohlener_einsatz_prozent": 0.8
-    },
-    {
-      "id": "kombi-risiko",
-      "name": "Risiko-Kombi (~19.4x)",
-      "kategorie": "risk",
-      "beine": [
-        {
-          "spiel_id": "2026-05-23-bay-vfb",
-          "tipp_id": "bay-vfb-2",
-          "markt": "FC Bayern Muenchen - VfB Stuttgart: Harry Kane trifft jederzeit",
-          "quote": 1.85,
-          "spiel_titel": "FC Bayern Muenchen - VfB Stuttgart"
-        },
-        {
-          "spiel_id": "2026-05-23-rma-ath",
-          "tipp_id": "rma-ath-2",
-          "markt": "Real Madrid - Athletic Club: Vinicius Junior trifft jederzeit",
-          "quote": 2.3,
-          "spiel_titel": "Real Madrid - Athletic Club"
-        },
-        {
-          "spiel_id": "2026-05-23-mal-ovi",
-          "tipp_id": "mal-ovi-2",
-          "markt": "RCD Mallorca - Real Oviedo: Vedat Muriqi trifft jederzeit",
-          "quote": 2.4,
-          "spiel_titel": "RCD Mallorca - Real Oviedo"
-        },
-        {
-          "spiel_id": "2026-05-23-nyk-cle",
-          "tipp_id": "nyk-cle-2",
-          "markt": "Cleveland Cavaliers - New York Knicks: Ueber 213.5 Punkte (Total)",
-          "quote": 1.9,
-          "spiel_titel": "Cleveland Cavaliers - New York Knicks"
-        }
-      ],
-      "gesamtquote": 19.41,
-      "gesamtquote_rechnung": "1.85 x 2.30 x 2.40 x 1.90 = 19.41",
-      "einsatz_euro": 1.4,
-      "einsatz_prozent_kasse": 0.25,
-      "gewinn_brutto_euro": 27.17,
-      "begruendung": "Drei Torschuetzen-Goldgruben (Kane/Vinicius/Muriqi) + NBA-Total, je 1 pro Spiel, kein Sieg-Outcome (Layer-2 sauber). ~19.4x im Soll-Bereich. Stake 0.25% x 550€ = 1,40€.",
-      "empfohlener_einsatz_prozent": 0.25
-    },
-    {
-      "id": "kombi-moonshot",
-      "name": "Moonshot-Kombi (~65.5x)",
-      "kategorie": "moonshot",
-      "beine": [
-        {
-          "spiel_id": "2026-05-23-cel-sev",
-          "tipp_id": "cel-sev-3",
-          "markt": "Celta de Vigo - Sevilla FC: Iago Aspas trifft jederzeit",
-          "quote": 2.4,
-          "spiel_titel": "Celta de Vigo - Sevilla FC"
-        },
-        {
-          "spiel_id": "2026-05-23-val-fcb",
-          "tipp_id": "val-fcb-2",
-          "markt": "Valencia CF - FC Barcelona: Robert Lewandowski trifft jederzeit",
-          "quote": 2.1,
-          "spiel_titel": "Valencia CF - FC Barcelona"
-        },
-        {
-          "spiel_id": "2026-05-23-gir-elc",
-          "tipp_id": "gir-elc-2",
-          "markt": "Girona FC - Elche CF: Cristhian Stuani trifft jederzeit",
-          "quote": 2.6,
-          "spiel_titel": "Girona FC - Elche CF"
-        },
-        {
-          "spiel_id": "2026-05-23-laz-pis",
-          "tipp_id": "laz-pis-2",
-          "markt": "SS Lazio - AC Pisa 1909: M'Bala Nzola trifft jederzeit",
-          "quote": 5.0,
-          "spiel_titel": "SS Lazio - AC Pisa 1909"
-        }
-      ],
-      "gesamtquote": 65.52,
-      "gesamtquote_rechnung": "2.40 x 2.10 x 2.60 x 5.00 = 65.52",
-      "einsatz_euro": 0.55,
-      "einsatz_prozent_kasse": 0.1,
-      "gewinn_brutto_euro": 36.04,
-      "begruendung": "Torschuetzen-Lotterie (Spass-Slot 0.1%): Aspas + Lewandowski-Abschiedstor + Stuani + Pisa-Nzola @5.0 (Beobachtungs-Liga-Bein erfuellt Quote-Schwelle >= 5.0). 1 Bein/Spiel, kein Sieg-Outcome. ~65x. Stake 0.1% x 550€ = 0,55€.",
-      "empfohlener_einsatz_prozent": 0.1
-    }
-  ],
+  "kombis": [],
   "lessons_angewandt": [
     {
       "lesson_datum": "2026-04-26",
