@@ -1,0 +1,449 @@
+{
+  "datum": "2026-05-25",
+  "erstellt_am": "2026-05-24T19:50:00+02:00",
+  "modus": "woche",
+  "anker_montag": "2026-05-25",
+  "fenster": {
+    "von": "2026-05-25",
+    "bis": "2026-05-31"
+  },
+  "hinweis": "Wochen-Vorschau Mo 25.05. - So 31.05.2026 (Anker = Mo). SAISON-FINALE-WOCHE: Alle nationalen Top-Ligen sind DURCH (Bundesliga endete 16.05., Premier League/LaLiga/Serie A am 24.05., Ligue 1 17.05., DFB-Pokal-Finale 23.05., Coppa Italia 13.05., Europa-League-Finale 20.05.). In dieser Woche gibt es nur noch 3 Fussball-Spiele auf Verband-/Markt-Seiten + die NBA-Conference-Finals: (1) BUNDESLIGA-RELEGATIONS-RUECKSPIEL Mo 25.05. 20:30 SC Paderborn vs VfL Wolfsburg in der Home-Deluxe-Arena Paderborn - HINSPIEL 0:0 (21.05. in Wolfsburg), Gesamtstand 0:0 -> alles offen, Verlaengerung + Elfmeterschiessen moeglich (TV Sat.1 + Sky). (2) UEFA-CONFERENCE-LEAGUE-FINALE Mi 27.05. 21:00 Crystal Palace vs Rayo Vallecano im Red-Bull-Arena/Leipzig-Stadium (NEUTRALER Platz, ~47.800 Zuschauer) - beide Klubs zum ERSTEN MAL in einem Europapokal-Finale, keine bisherige direkte Begegnung. (3) UEFA-CHAMPIONS-LEAGUE-FINALE Sa 30.05. 18:00 (16:00 UTC) PSG vs Arsenal in der Puskas-Arena Budapest - Titelverteidiger PSG (Sieger 2025, schaltete Bayern im HF aus, 6-5 agg) vs Arsenal (erstes CL-Finale seit 2006, makellose 8-0-0-Ligaphase, 14 CL-Spiele ungeschlagen). NBA: CONFERENCE FINALS laufen. OSTEN (ECF) New York Knicks vs Cleveland Cavaliers: KNICKS FUEHREN 3-0 (G1 115:104 OT, G2 109:93, G3 121:108 in Cleveland) -> Sweep-Setup, Game 4 Mo 25.05. in Cleveland (Knicks koennen durchmarschieren). WESTEN (WCF) San Antonio Spurs vs Oklahoma City Thunder: THUNDER FUEHREN 2-1 (Stand vor Game 4 am 24.05. in San Antonio, das zum Recherche-Zeitpunkt noch nicht gespielt war), Game 5 Di 26.05. in OKC. NBA-Finals starten erst Anfang Juni (NICHT in diesem Fenster). Alle NBA-Spiele ab Game 5 sind SERIEN-BEDINGT (finden nur statt wenn Serie nicht vorher entschieden) -> bedingt_flag gesetzt. WICHTIGE ROTATIONS-/BELASTUNGS-FAKTOREN: Crystal Palace + Arsenal haben am 24.05. ihr letztes PL-Spiel bestritten (Palace 0:2 vs Arsenal, Arsenal bereits Meister) -> volle Vorbereitungswoche aufs Finale. PSG bestritt am 24.05. kein Spiel (Ligue 1 seit 17.05. durch, Meister) -> maximale Erholung. Rayo Vallecano: LaLiga endete 24.05., volle Finalvorbereitung. Wolfsburg/Paderborn: 4 Tage Pause seit Hinspiel. QUOTEN ueberwiegend Aggregator-/Buchmacher-Schaetzwerte (ESPN, Polymarket, bet365-Referenzen via Suche, sportsgambler, liga-zwei.de, wettfreunde.net, ratingbet) - VOR EINSATZ bei bet365 DE live pruefen + 1-2h vor Anstoss Aufstellungen verifizieren. Bei den Finals zaehlt die 2:0-Insurance-Regel NUR fuer das CL-Finale (Champions League), NICHT fuer das Conference-Finale und NICHT fuer die Relegation. KEINE TIPPS - reine Datensammlung.",
+  "spiele": [
+    {
+      "id": "2026-05-25-scp-wob",
+      "liga": "Bundesliga Relegation Rueckspiel",
+      "matchday": "Relegation Rueckspiel",
+      "stage": "RELEGATION_LEG2",
+      "heim": "SC Paderborn 07",
+      "gast": "VfL Wolfsburg",
+      "anstoss": "2026-05-25T20:30:00+02:00",
+      "stadion": "Home-Deluxe-Arena, Paderborn",
+      "squad_heim": [
+        {"name": "Pelle Boevink", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.kicker.de/sc-paderborn-07/kader/sc-paderborn-07/2025-26/2-bundesliga"},
+        {"name": "Filip Bilbija", "nummer": null, "position": "OM/RF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.kicker.de/sc-paderborn-07/kader/sc-paderborn-07/2025-26/2-bundesliga"},
+        {"name": "Adriano Marino", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.kicker.de/sc-paderborn-07/kader/sc-paderborn-07/2025-26/2-bundesliga"},
+        {"name": "Sirlord Conteh", "nummer": null, "position": "LF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.kicker.de/sc-paderborn-07/kader/sc-paderborn-07/2025-26/2-bundesliga"},
+        {"name": "Felix Goetze", "nummer": null, "position": "IV/DM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.kicker.de/sc-paderborn-07/kader/sc-paderborn-07/2025-26/2-bundesliga"}
+      ],
+      "squad_gast": [
+        {"name": "Kamil Grabara", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.vfl-wolfsburg.de/de/team/profis"},
+        {"name": "Mohamed Amoura", "nummer": null, "position": "ST", "saison_tore": 8, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.vfl-wolfsburg.de/de/team/profis"},
+        {"name": "Jonas Wind", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.vfl-wolfsburg.de/de/team/profis"},
+        {"name": "Patrick Wimmer", "nummer": null, "position": "LF/OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.vfl-wolfsburg.de/de/team/profis"}
+      ],
+      "injuries_heim": ["Mika Baur (Gelbsperre, fraglich/Status pruefen)", "Raphael Obermair (Achillessehnenanriss, OUT)", "Marcel Hoffmeier (Kreuzbandriss, OUT)"],
+      "injuries_gast": ["Rogerio (OUT)", "Patrick Wimmer (zuletzt angeschlagen, Status pruefen)", "Maximilian Arnold (OUT laut Hinspiel-Lage)", "Cleiton (OUT)", "Vinicius Souza (Gelbsperre Hinspiel - im Rueckspiel ggf. wieder verfuegbar, pruefen)"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - 2. Bundesliga endete 17.05. (MD34); dies ist das letzte Saisonspiel (Relegations-Rueckspiel)",
+        "gast": "keine - Bundesliga endete 16.05. (MD34); dies ist das letzte Saisonspiel (Relegations-Rueckspiel)",
+        "quellen": [
+          "https://www.bundesliga.com/de/bundesliga/news/relegation-alle-infos-termine-modus-abstieg-aufstieg-3008",
+          "https://www.kicker.de/relegation-2026-teams-termine-tv-953428/artikel"
+        ]
+      },
+      "saisonziel_heim": "2. Bundesliga Platz 3 (Relegations-Aufstiegsplatz) - Aufstieg in die Bundesliga waere der erste seit 2019 (Karriere-Highlight-Final, klassischer Underdog-Modus). Heimspiel = letzte Chance, Aufstieg perfekt zu machen.",
+      "saisonziel_gast": "Bundesliga Platz 16 (Relegationsplatz) - MUSS Doppelspiel ueberstehen, sonst Abstieg in die 2. BL (geschaetzt 20-50 Mio EUR Etat-/Sponsoren-Risiko). Klarer wirtschaftlicher Existenz-Druck.",
+      "tabellenstand": {"heim_platz": 3, "heim_pkt": null, "gast_platz": 16, "gast_pkt": null, "hinweis": "Plaetze aus Abschlusstabellen 2.BL (Paderborn) und BL (Wolfsburg) 2025/26. Hinspiel 0:0 -> Gesamtstand 0:0, alles offen."},
+      "form_heim_letzte_5": null,
+      "form_gast_letzte_5": null,
+      "recovery_heim": "4 Tage seit Hinspiel (0:0 in Wolfsburg, 21.05.); voll regeneriert, Heimvorteil",
+      "recovery_gast": "4 Tage seit Hinspiel (0:0 in Wolfsburg, 21.05.); Auswaertsspiel",
+      "quoten": {
+        "bet365": {
+          "sieg_heim": null,
+          "draw": null,
+          "sieg_gast": 2.00,
+          "ueber_2_5": null,
+          "unter_2_5": 1.93,
+          "btts_ja": null,
+          "btts_nein": null,
+          "dc_1x": null,
+          "dc_x2": null,
+          "torschuetzen": {},
+          "sonder": {"relegation_gesamtsieger_wolfsburg": 1.55, "hinweis": "Buchmacher favorisieren Wolfsburg (Erstligist gewann 12 der letzten 13 Relegationen + alle 3 Gastspiele in Paderborn). Reine 90-Min-Sieg-Quote Wolfsburg ~2.00. Restliche Maerkte bei bet365 live pruefen - nur Wolfsburg-Sieg + Unter 2.5 verlaesslich aus Aggregator."}
+        },
+        "pinnacle": {},
+        "fair_line_pinnacle_basis_prozent": {}
+      },
+      "news_kompakt": [
+        "Hinspiel torlos 0:0 in der Volkswagen-Arena (21.05.) -> Gesamtstand 0:0, im Rueckspiel zaehlt nichts mehr (keine Auswaertstor-Regel im DFL-Relegations-Modus), bei Gleichstand nach 90 Min Verlaengerung + ggf. Elfmeterschiessen",
+        "Wolfsburg trotz duennem Hinspiel weiter Buchmacher-Favorit (Sieg-Quote ~2.00, Gesamtsieger ~1.55); Erstligist setzte sich in 12 der letzten 13 Relegationen durch + gewann alle 3 bisherigen Gastspiele in Paderborn",
+        "Wolfsburg war schwaechstes BL-Heim-Team 25/26 (10 Pkt aus 17 Heimspielen) + Liga-Letzter der Rueckrunde -> Klassen-Edge minimal, Paderborn 2.-bestes Auswaerts-Team der 2.BL macht das Spiel zum Coinflip mit Heim-Druck-Faktor pro Paderborn",
+        "Wolfsburg-Saisonziel-Existenz: Abstieg = geschaetzt 20-50 Mio EUR Etat-Verlust (VW-Sponsoren-Druck); Paderborn-Aufstiegschance erstmals seit 2019",
+        "TV/Stream: Sat.1 + Sky"
+      ],
+      "quellen_aggregator": [
+        "https://www.liga-zwei.de/sc-paderborn-vs-vfl-wolfsburg-tipp-quoten-prognose-zur-relegation-2026/",
+        "https://www.wettfreunde.net/bundesliga-tipps/paderborn-wolfsburg-tipp-ki-prognose-quoten-25-05-2026/",
+        "https://www.sport1.de/news/sportwetten/wett-tipps/paderborn-vs-wolfsburg-prognosen-wett-tipps-und-quoten-bundesliga-relegation-am-25-05-2026",
+        "https://www.sportschau.de/fussball/bundesliga/paderborn-behaelt-alle-chancen-auf-die-bundesliga,wolfsburg-paderborn-relegation-spielbericht-100.html"
+      ]
+    },
+    {
+      "id": "2026-05-27-cry-ray",
+      "liga": "UEFA Conference League Finale",
+      "matchday": "Finale",
+      "stage": "FINAL",
+      "heim": "Crystal Palace",
+      "gast": "Rayo Vallecano",
+      "anstoss": "2026-05-27T21:00:00+02:00",
+      "stadion": "Red Bull Arena (Leipzig Stadium), Leipzig - NEUTRALER Platz (~47.800)",
+      "squad_heim": [
+        {"name": "Dean Henderson", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.cpfc.co.uk/teams/men/first-team/"},
+        {"name": "Jean-Philippe Mateta", "nummer": null, "position": "ST", "saison_tore": 14, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.fotmob.com/leagues/47/stats/season/27110/players/goals/team/9826/crystal-palace"},
+        {"name": "Eberechi Eze", "nummer": null, "position": "OM/LF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.cpfc.co.uk/teams/men/first-team/", "hinweis": "Top-Vorlagengeber Palace 25/26 (~8 Assists) + Torgefahr aus dem Halbraum"},
+        {"name": "Ismaila Sarr", "nummer": null, "position": "RF/LF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.cpfc.co.uk/teams/men/first-team/"},
+        {"name": "Daichi Kamada", "nummer": null, "position": "OM/CM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.cpfc.co.uk/teams/men/first-team/"}
+      ],
+      "squad_gast": [
+        {"name": "Augusto Batalla", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.rayovallecano.es/plantilla/"},
+        {"name": "Jorge De Frutos", "nummer": null, "position": "RF/ST", "saison_tore": 10, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.fotmob.com/teams/8370/stats/rayo-vallecano", "hinweis": "Rayo-Topscorer 25/26 (10 LaLiga-Tore)"},
+        {"name": "Sergio Camello", "nummer": null, "position": "ST", "saison_tore": 3, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.fotmob.com/teams/8370/stats/rayo-vallecano"},
+        {"name": "Alvaro Garcia", "nummer": null, "position": "LF", "saison_tore": 4, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.fotmob.com/teams/8370/stats/rayo-vallecano"},
+        {"name": "Isi Palazon", "nummer": null, "position": "OM/RF", "saison_tore": 3, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.fotmob.com/teams/8370/stats/rayo-vallecano", "hinweis": "im LaLiga-Endspurt teils gesperrt gewesen - Final-Verfuegbarkeit pruefen"},
+        {"name": "Florian Lejeune", "nummer": null, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.rayovallecano.es/plantilla/"}
+      ],
+      "injuries_heim": ["Chris Richards (Verletzung, OUT laut Vorbericht)", "Borna Sosa (Verletzung, OUT)", "Cheick Oumar Doucoure (Verletzung, OUT)", "Eddie Nketiah (Verletzung, fraglich/OUT)"],
+      "injuries_gast": ["Luiz Felipe (Verletzung, OUT)", "Ilias Akhomach (Verletzung, OUT)"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Premier League endete 24.05. (MD38, 0:2 vs Arsenal); volle Woche Finalvorbereitung",
+        "gast": "keine - LaLiga endete 24.05. (Jornada 38); volle Woche Finalvorbereitung",
+        "quellen": [
+          "https://www.uefa.com/uefaconferenceleague/news/029a-1df99126e9f6-36a9ff57d0cd-1000--2026-uefa-conference-league-final-where-is-it-who-is-involv/",
+          "https://en.wikipedia.org/wiki/2026_UEFA_Conference_League_final",
+          "https://www.cpfc.co.uk/crystal-palace-2026-uefa-conference-league-final-leipzig/"
+        ]
+      },
+      "saisonziel_heim": "Crystal Palace (PL Mid-Table ~Platz 15) - Liga-Saison ohne Belang abgeschlossen, das Conference-Finale ist DAS Saisonziel: erster Europapokal-Titel der Vereinsgeschichte + CL-/EL-Quali-Slot ueber den Titel. Voller Fokus.",
+      "saisonziel_gast": "Rayo Vallecano (LaLiga Mid-Table) - kein Liga-Druck mehr, Conference-Finale ist Saison-Hoehepunkt + erster Europapokal-Titel + Europa-Slot. Erstes Europapokal-Finale der Klubgeschichte.",
+      "tabellenstand": {"heim_platz": null, "heim_pkt": null, "gast_platz": null, "gast_pkt": null, "hinweis": "Neutrales Endspiel, Liga-Tabellenstaende ohne direkte Relevanz fuer das Finale. Beide im jeweiligen Liga-Mittelfeld."},
+      "form_heim_letzte_5": null,
+      "form_gast_letzte_5": null,
+      "recovery_heim": "Letztes Pflichtspiel 24.05. (PL-Finaltag) -> 3 Tage; Glasner konnte am Finaltag bereits rotieren/schonen mit Blick aufs Finale",
+      "recovery_gast": "Letztes Pflichtspiel 24.05. (LaLiga-Finaltag) -> 3 Tage; ebenfalls Schon-Option am Liga-Schlusstag",
+      "quoten": {
+        "bet365": {
+          "sieg_heim": 1.95,
+          "draw": null,
+          "sieg_gast": null,
+          "ueber_2_5": null,
+          "unter_2_5": null,
+          "btts_ja": null,
+          "btts_nein": null,
+          "dc_1x": null,
+          "dc_x2": null,
+          "torschuetzen": {"Mateta": null, "De Frutos": null, "Eze": null},
+          "hinweis": "Crystal Palace leichter Favorit (Sieg ~1.95 bei Aggregatoren). Modell-Tendenz: Palace 2-1, BTTS ja, Ueber 2.5. Draw/Rayo-Quote + Torschuetzen-Linien bei bet365 live pruefen (zum Recherche-Zeitpunkt keine verlaesslichen Einzel-Werte publiziert)."
+        },
+        "pinnacle": {},
+        "fair_line_pinnacle_basis_prozent": {}
+      },
+      "news_kompakt": [
+        "Erstes Europapokal-Finale fuer BEIDE Klubs - keine direkte H2H-Historie, frisches Duell",
+        "Crystal Palace erreichte das Finale via 5:2 gesamt gegen Schachtar Donezk (3:1 im Heim-Rueckspiel) unter Oliver Glasner - offensiv ueberzeugend",
+        "Rayo Vallecano kam ueber ein 2:0-Gesamt gegen Strasbourg ins Finale (1:0 im Rueckspiel am 07.05.) - defensiv stabiler, ergebnisorientierter Ansatz unter Inigo Perez",
+        "Palace leicht favorisiert (Sieg ~1.95); Prognose-Tendenz Palace-Sieg + BTTS + Ueber 2.5",
+        "Neutraler Ort Leipzig (Red Bull Arena); 'Heim'-Zuordnung Crystal Palace ist administrativ - kein echter Heimvorteil",
+        "Palace-Ausfaelle: Richards, Sosa, Doucoure, Nketiah (alle fraglich/OUT); Rayo-Ausfaelle: Luiz Felipe + Akhomach"
+      ],
+      "quellen_aggregator": [
+        "https://www.withinnigeria.com/2026/05/22/uefa-conference-league-final-2026-crystal-palace-vs-rayo-vallecano-full-preview-and-predictions/",
+        "https://ratingbet.com/football/match/crystal-palace-vs-rayo-vallecano-2/",
+        "https://www.windrawwin.com/us/picks/europa-conference-league/crystal-palace-v-rayo-vallecano/869358/",
+        "https://www.futbol24.com/betting-tips/preview/27-05-2026-crystal-palace-rayo-vallecano-betting-tip/",
+        "https://es.uefa.com/uefaconferenceleague/match/2047744--crystal-palace-vs-rayo-vallecano/final/"
+      ]
+    },
+    {
+      "id": "2026-05-30-psg-ars",
+      "liga": "UEFA Champions League Finale",
+      "matchday": "Finale",
+      "stage": "FINAL",
+      "heim": "Paris Saint-Germain",
+      "gast": "Arsenal FC",
+      "anstoss": "2026-05-30T18:00:00+02:00",
+      "stadion": "Puskas Arena, Budapest - NEUTRALER Platz (~67.000)",
+      "squad_heim": [
+        {"name": "Lucas Chevalier", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.psg.fr/equipes/joueurs", "hinweis": "TW-Rotation Chevalier/Donnarumma - Final-Einsatz pruefen"},
+        {"name": "Ousmane Dembele", "nummer": null, "position": "RF/ST", "saison_tore": 8, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.psg.fr/equipes/joueurs", "hinweis": "amtierender Ballon-d'Or-Gewinner; 8 CL-Tore 25/26; nach kleinem Schreck fit fuers Finale"},
+        {"name": "Khvicha Kvaratskhelia", "nummer": null, "position": "LF", "saison_tore": 10, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sofascore.com/news/kvaratskhelia-vs-dembele-how-psgs-wing-seasons-stack-up", "hinweis": "PSG-Vereinsrekord 10 CL-Tore + 5 Assists in einer CL-Saison; Form-Traeger im HF gegen Bayern"},
+        {"name": "Bradley Barcola", "nummer": null, "position": "LF/RF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.psg.fr/equipes/joueurs"},
+        {"name": "Goncalo Ramos", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.psg.fr/equipes/joueurs"},
+        {"name": "Vitinha", "nummer": null, "position": "CM/OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.psg.fr/equipes/joueurs"}
+      ],
+      "squad_gast": [
+        {"name": "David Raya", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.arsenal.com/the-squad"},
+        {"name": "Viktor Gyokeres", "nummer": null, "position": "ST", "saison_tore": 15, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.arsenal.com/the-squad", "hinweis": "Arsenals groesster Torbeitrag 25/26 (~15 Tore alle Wettbewerbe bis Maerz); zentraler Zielspieler"},
+        {"name": "Bukayo Saka", "nummer": 7, "position": "RF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.arsenal.com/the-squad"},
+        {"name": "Gabriel Martinelli", "nummer": 11, "position": "LF", "saison_tore": 6, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.statmuse.com/fc/ask?q=arsenal+top+scorers+2025-2026+champions+league", "hinweis": "6 CL-Tore 25/26 - Arsenals bester CL-Schuetze dieser Saison"},
+        {"name": "Martin Odegaard", "nummer": 8, "position": "OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.arsenal.com/the-squad"},
+        {"name": "Kai Havertz", "nummer": null, "position": "ST/OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.arsenal.com/the-squad"}
+      ],
+      "injuries_heim": ["Achraf Hakimi (verpasste HF-Rueckspiel, Hoffnung auf Fitness fuers Finale - pruefen)", "Nuno Mendes (zurueck im Training)", "Willian Pacho (zurueck im Training)"],
+      "injuries_gast": ["Ben White (Knieverletzung, OUT)", "Jurrien Timber (fraglich)"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Ligue 1 endete 17.05. (PSG franzoesischer Meister); maximale Erholung + Finalvorbereitung",
+        "gast": "keine - Premier League endete 24.05.; Arsenal bereits englischer Meister, konnte am Finaltag rotieren",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/match/2047742--paris-vs-arsenal/final/",
+          "https://www.uefa.com/uefachampionsleague/news/029a-1df98e9a78ca-1acaca3c53b0-1000--2026-uefa-champions-league-final-where-is-it-who-is-involv/",
+          "https://en.wikipedia.org/wiki/2025%E2%80%9326_Arsenal_F.C._season"
+        ]
+      },
+      "saisonziel_heim": "PSG: Ligue-1-Meister + CL-Titelverteidiger (Sieger 2025). Saison-Kroenung = CL-Titel verteidigen. Schaltete im HF Bayern aus (6:5 gesamt).",
+      "saisonziel_gast": "Arsenal: englischer Meister 25/26 (Double-Chance). Erstes CL-Finale seit 2006 - DER historische Saison-Hoehepunkt. Makellose Ligaphase (8-0-0), 14 CL-Spiele ungeschlagen.",
+      "tabellenstand": {"heim_platz": null, "heim_pkt": null, "gast_platz": null, "gast_pkt": null, "hinweis": "Neutrales Endspiel. PSG Ligue-1-Meister, Arsenal PL-Meister - beide nationale Champions, kein Liga-Bezug fuers Finale."},
+      "form_heim_letzte_5": null,
+      "form_gast_letzte_5": null,
+      "recovery_heim": "Letztes Pflichtspiel ~17.05. (Ligue-1-Schluss) -> ~13 Tage Pause, maximal erholt",
+      "recovery_gast": "Letztes Pflichtspiel 24.05. (PL-Finaltag) -> 6 Tage; am Finaltag bereits Meister, Schon-/Rotations-Option genutzt",
+      "quoten": {
+        "bet365": {
+          "sieg_heim": null,
+          "draw": null,
+          "sieg_gast": null,
+          "ueber_2_5": null,
+          "unter_2_5": null,
+          "btts_ja": null,
+          "btts_nein": null,
+          "dc_1x": null,
+          "dc_x2": null,
+          "torschuetzen": {"Dembele": null, "Kvaratskhelia": null, "Gyokeres": null, "Saka": null},
+          "gesamtsieger_inkl_verlaengerung": {"PSG": 1.66, "Arsenal": 2.20, "quelle": "bet365 via ESPN-Vorbericht (PSG -152 / Arsenal +120) - Markt 'Pokalsieger inkl. Verlaengerung/Elfmeter', NICHT 90-Min-1X2"},
+          "hinweis": "Reine 90-Min-1X2 + Tor-Maerkte + Torschuetzen bei bet365 live pruefen. Siehe auch 90-Min-3-Wege-Schaetzung unter pinnacle/polymarket."
+        },
+        "pinnacle": {},
+        "polymarket_90min_3wege": {"PSG": 2.41, "draw": 3.39, "Arsenal": 3.28, "hinweis": "aus impliziten Wahrscheinlichkeiten PSG 41.5% / Draw 29.5% / Arsenal 30.5% (Polymarket) in Dezimalquoten umgerechnet - 90-Min-Markt. bet365 live pruefen."},
+        "fair_line_pinnacle_basis_prozent": {}
+      },
+      "news_kompakt": [
+        "Titelverteidiger PSG (CL-Sieger 2025) vs Arsenal (erstes CL-Finale seit 2006) in Budapest, Anstoss 18:00 (16:00 UTC)",
+        "Arsenal mit makelloser Ligaphase 8-0-0 + 14 CL-Spiele ungeschlagen; PSG in der Ligaphase wechselhaft (4-2-2, Platz 11), aber im K.o. mit Star-Power durchmarschiert (Bayern im HF raus, 6:5 gesamt)",
+        "Schluesselspieler PSG: Kvaratskhelia (CL-Vereinsrekord 10 Tore/5 Assists) + Ballon-d'Or-Gewinner Dembele (8 CL-Tore); Arsenal: Gyokeres (~15 Saisontore) + Martinelli (6 CL-Tore) + Saka",
+        "PSG-Verletzungslage entspannt: Dembele fit, Nuno Mendes + Pacho zurueck im Training, Hakimi mit Fitness-Hoffnung; Arsenal mit Abwehrsorgen: Ben White (Knie) OUT, Timber fraglich",
+        "Quoten leicht pro PSG (Pokalsieger inkl. ET ~1.66 vs Arsenal ~2.20); 90-Min-Markt deutlich enger (Polymarket fast Coinflip)",
+        "2:0-INSURANCE-REGEL gilt hier (Champions League) - bei direktem Sieg-Tipp + zwischenzeitlicher 2:0-Fuehrung Tipp gewonnen (NUR 1X2-Sieg-Tipp)"
+      ],
+      "quellen_aggregator": [
+        "https://www.espn.com/soccer/story/_/id/48702097/champions-league-final-psg-arsenal-predictions-odds-analysis-more",
+        "https://polymarket.com/sports/ucl/ucl-psg-ars-2026-05-30",
+        "https://oddspedia.com/football/arsenal-paris-saint-germain-53614",
+        "https://www.squawka.com/us/news/champions-league-final-2026-predictions/",
+        "https://www.uefa.com/uefachampionsleague/match/2047742--paris-vs-arsenal/final/"
+      ]
+    },
+    {
+      "id": "2026-05-25-cle-nyk",
+      "liga": "NBA Playoffs - Eastern Conference Finals - Game 4",
+      "matchday": "ECF Game 4",
+      "stage": "CONFERENCE_FINALS",
+      "heim": "Cleveland Cavaliers",
+      "gast": "New York Knicks",
+      "anstoss": "2026-05-26T02:00:00+02:00",
+      "stadion": "Rocket Arena, Cleveland",
+      "bedingt": false,
+      "serien_stand": "New York Knicks fuehren 3-0 (G1 115:104 OT in NY, G2 109:93 in NY, G3 121:108 in Cleveland). Game 4 = Sweep-Chance fuer die Knicks; Cavaliers MUSS gewinnen um Serie am Leben zu halten.",
+      "squad_heim": [
+        {"name": "Donovan Mitchell", "nummer": null, "position": "SG", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.nba.com/playoffs/2026/east-final", "hinweis": "Cavs-Topscorer ~27.9 PPG in den Playoffs"},
+        {"name": "Darius Garland", "nummer": null, "position": "PG", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.nba.com/playoffs/2026/east-final", "hinweis": "Cavs-Backcourt ~23 PPG/8 AST-Bereich (Quelle nennt ~23.6 PPG/8 AST)"},
+        {"name": "Evan Mobley", "nummer": null, "position": "PF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.nba.com/playoffs/2026/east-final", "hinweis": "~18.2 PPG / 9 REB"},
+        {"name": "Jarrett Allen", "nummer": null, "position": "C", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.nba.com/playoffs/2026/east-final", "hinweis": "~15.4 PPG / 8.5 REB, hohe FG-Quote"}
+      ],
+      "squad_gast": [
+        {"name": "Jalen Brunson", "nummer": null, "position": "PG", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.nba.com/playoffs/2026/east-final", "hinweis": "Knicks-Topscorer ~26 PPG / 6.8 AST"},
+        {"name": "OG Anunoby", "nummer": null, "position": "SF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.nba.com/playoffs/2026/east-final", "hinweis": "~16.7 PPG / 5.2 REB, Defensiv-Anker"},
+        {"name": "Karl-Anthony Towns", "nummer": null, "position": "C", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.nba.com/playoffs/2026/east-final"},
+        {"name": "Josh Hart", "nummer": null, "position": "SG", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.nba.com/playoffs/2026/east-final", "hinweis": "~12 PPG / 7.4 REB"}
+      ],
+      "injuries_heim": [],
+      "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "NBA-Playoffs laufend (ECF)", "gast": "NBA-Playoffs laufend (ECF)", "quellen": ["https://www.nba.com/playoffs/2026/east-final", "https://www.espn.com/nba/story/_/id/48419498/nba-playoffs-2026-play-finals-schedule-scores-news-highlights-bracket-dates"]},
+      "saisonziel_heim": "Cleveland: NBA-Finals-Einzug; im ECF 0-3 hinten -> MUST-WIN um Sweep abzuwenden",
+      "saisonziel_gast": "New York: NBA-Finals-Einzug; 3-0 vorn -> Sweep + Finals-Ticket in Reichweite",
+      "tabellenstand": {"hinweis": "ECF-Serienstand Knicks 3-0. Hoeher gesetzt: New York (Heimrecht G1/2/5/7)."},
+      "form_heim_letzte_5": null,
+      "form_gast_letzte_5": null,
+      "recovery_heim": "2 Tage seit G3 (23.05.)",
+      "recovery_gast": "2 Tage seit G3 (23.05.)",
+      "quoten": {
+        "bet365": {"hinweis": "NBA-Playoff-Quoten verschieben sich pro Spiel stark - bei bet365 DE live pruefen. ERLAUBT in DE: Moneyline, Spread/Handicap, Ueber/Unter Punkte (Spiel/Viertel/Halbzeit), reine Spieler-PUNKTE-Linien. VERBOTEN in DE: Einzel-Rebounds, Einzel-Assists, Einzel-3er, Einzel-Steals/Blocks, PRA-Kombos."},
+        "torschuetzen": {}
+      },
+      "news_kompakt": [
+        "Knicks fuehren die Serie 3-0 nach 121:108-Sieg in Cleveland (G3) - Sweep-Setup, NBA-Finals zum Greifen nah",
+        "Cavaliers im MUST-WIN-Modus (kein Team kam je aus 0-3 zurueck) - Heimspiel als letzte Chance",
+        "NBA-MARKT-HINWEIS: kein SAFE bei NBA-Playoffs (Routinen-Regel); Spieler-PUNKTE erlaubt, PRA/Rebounds/Assists/3er verboten in DE",
+        "Tip-off ~20:00 ET (~02:00 Berlin am 26.05.) - Zeit vor Anstoss verifizieren"
+      ],
+      "quellen_aggregator": ["https://www.nba.com/playoffs/2026/east-final", "https://www.espn.com/nba/story/_/id/48419498/nba-playoffs-2026-play-finals-schedule-scores-news-highlights-bracket-dates"]
+    },
+    {
+      "id": "2026-05-26-okc-sas",
+      "liga": "NBA Playoffs - Western Conference Finals - Game 5",
+      "matchday": "WCF Game 5",
+      "stage": "CONFERENCE_FINALS",
+      "heim": "Oklahoma City Thunder",
+      "gast": "San Antonio Spurs",
+      "anstoss": "2026-05-27T02:30:00+02:00",
+      "stadion": "Paycom Center, Oklahoma City",
+      "bedingt": true,
+      "serien_stand": "Oklahoma City fuehrt 2-1 (Stand vor Game 4 am 24.05. in San Antonio, zum Recherche-Zeitpunkt noch nicht gespielt). Game 5 findet nur statt, wenn die Serie nach Game 4 nicht 4-0/4-1 entschieden ist - Serienstand 1-2h vor Anstoss verifizieren.",
+      "squad_heim": [
+        {"name": "Shai Gilgeous-Alexander", "nummer": null, "position": "PG", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.nba.com/news/live-updates-thunder-spurs-aim-to-secure-2-1-lead-in-western-conference-finals", "hinweis": "amtierender NBA-MVP; G3 26 Pkt/12 Ast"},
+        {"name": "Jalen Williams", "nummer": null, "position": "SF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.si.com/nba/western-conference-finals-game-3-live-updates-stats-spurs-thunder", "hinweis": "Hamstring day-to-day - Status pruefen"},
+        {"name": "Chet Holmgren", "nummer": null, "position": "C", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.si.com/nba/western-conference-finals-game-3-live-updates-stats-spurs-thunder"}
+      ],
+      "squad_gast": [
+        {"name": "Victor Wembanyama", "nummer": null, "position": "C/PF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.si.com/nba/western-conference-finals-game-3-live-updates-stats-spurs-thunder", "hinweis": "2026 Defensive Player of the Year; G3 26 Pkt; ~41 Min/Spiel hohe Belastung"},
+        {"name": "Dylan Harper", "nummer": null, "position": "PG", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://clutchpoints.com/nba/san-antonio-spurs/dylan-harper-playing-spurs-thunder-2026-western-conference-finals-game-3-injury-report", "hinweis": "Adduktor-Zerrung gemeldet - Status pruefen"},
+        {"name": "Devin Vassell", "nummer": null, "position": "SG", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.si.com/nba/western-conference-finals-game-3-live-updates-stats-spurs-thunder", "hinweis": "G3 20 Pkt"},
+        {"name": "De'Aaron Fox", "nummer": null, "position": "PG", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.si.com/nba/western-conference-finals-game-3-live-updates-stats-spurs-thunder", "hinweis": "Ankle-Status game-time"},
+        {"name": "Stephon Castle", "nummer": null, "position": "SG", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.si.com/nba/western-conference-finals-game-3-live-updates-stats-spurs-thunder"}
+      ],
+      "injuries_heim": ["Jalen Williams (Hamstring, day-to-day)"],
+      "injuries_gast": ["De'Aaron Fox (Ankle, game-time)", "Dylan Harper (Adduktor, fraglich)"],
+      "parallele_wettbewerbe": {"heim": "NBA-Playoffs laufend (WCF)", "gast": "NBA-Playoffs laufend (WCF)", "quellen": ["https://dknetwork.draftkings.com/2026/05/22/opening-odds-for-thunder-vs-spurs-game-4-in-2026-nba-playoffs-western-conference-finals/"]},
+      "saisonziel_heim": "Oklahoma City: NBA-Finals-Einzug; 2-1 vorn, will mit Heim-G5 Richtung 3-2 ziehen",
+      "saisonziel_gast": "San Antonio: erster WCF-Auftritt der Wembanyama-Aera; will Serie ausgleichen/drehen",
+      "tabellenstand": {"hinweis": "WCF-Serienstand OKC 2-1 (vor G4). Hoeher gesetzt: Oklahoma City (Heimrecht G1/2/5/7)."},
+      "form_heim_letzte_5": null,
+      "form_gast_letzte_5": null,
+      "recovery_heim": "abhaengig von G4-Termin (24.05.) -> 2 Tage",
+      "recovery_gast": "abhaengig von G4-Termin (24.05.) -> 2 Tage",
+      "quoten": {
+        "bet365": {"hinweis": "NBA-Playoff-Quoten pro Spiel stark schwankend - bei bet365 DE live pruefen. ERLAUBT: Moneyline, Spread, Ueber/Unter Punkte, reine Spieler-PUNKTE. VERBOTEN in DE: Rebounds/Assists/3er einzeln + PRA-Kombos. Schluessel-Matchup SGA (MVP) vs Wembanyama (DPOY)."},
+        "torschuetzen": {}
+      },
+      "news_kompakt": [
+        "OKC fuehrt 2-1 (vor G4 am 24.05.); Spurs-Bank deutlich unterlegen (64 Bank-Pkt ueber 3 Spiele vs OKC 183)",
+        "Wembanyama mit hoher Minutenlast (~41 Min/Spiel); Spurs-Backcourt angeschlagen (Fox Ankle, Harper Adduktor)",
+        "OKC-Star Jalen Williams (Hamstring) day-to-day",
+        "SERIEN-BEDINGT: Game 5 nur falls Serie nach G4 weiterlaeuft - Stand vor Anstoss verifizieren",
+        "Star-Duell SGA (MVP) vs Wembanyama (DPOY)"
+      ],
+      "quellen_aggregator": ["https://www.si.com/nba/western-conference-finals-game-3-live-updates-stats-spurs-thunder", "https://www.nba.com/news/live-updates-thunder-spurs-aim-to-secure-2-1-lead-in-western-conference-finals", "https://dknetwork.draftkings.com/2026/05/22/opening-odds-for-thunder-vs-spurs-game-4-in-2026-nba-playoffs-western-conference-finals/"]
+    },
+    {
+      "id": "2026-05-27-nyk-cle",
+      "liga": "NBA Playoffs - Eastern Conference Finals - Game 5",
+      "matchday": "ECF Game 5",
+      "stage": "CONFERENCE_FINALS",
+      "heim": "New York Knicks",
+      "gast": "Cleveland Cavaliers",
+      "anstoss": "2026-05-28T02:00:00+02:00",
+      "stadion": "Madison Square Garden, New York",
+      "bedingt": true,
+      "serien_stand": "Nur falls Cleveland Game 4 (25.05.) gewinnt und die Serie auf 3-1 verkuerzt. Bei Knicks-Sweep (4-0 in G4) FAELLT dieses Spiel AUS. Stand verifizieren.",
+      "squad_heim": [
+        {"name": "Jalen Brunson", "nummer": null, "position": "PG", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.nba.com/playoffs/2026/east-final", "hinweis": "Knicks-Topscorer ~26 PPG"},
+        {"name": "OG Anunoby", "nummer": null, "position": "SF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.nba.com/playoffs/2026/east-final"},
+        {"name": "Karl-Anthony Towns", "nummer": null, "position": "C", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.nba.com/playoffs/2026/east-final"},
+        {"name": "Josh Hart", "nummer": null, "position": "SG", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.nba.com/playoffs/2026/east-final"}
+      ],
+      "squad_gast": [
+        {"name": "Donovan Mitchell", "nummer": null, "position": "SG", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.nba.com/playoffs/2026/east-final", "hinweis": "Cavs-Topscorer ~27.9 PPG Playoffs"},
+        {"name": "Darius Garland", "nummer": null, "position": "PG", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.nba.com/playoffs/2026/east-final"},
+        {"name": "Evan Mobley", "nummer": null, "position": "PF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.nba.com/playoffs/2026/east-final"},
+        {"name": "Jarrett Allen", "nummer": null, "position": "C", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.nba.com/playoffs/2026/east-final"}
+      ],
+      "injuries_heim": [],
+      "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "NBA-Playoffs laufend (ECF)", "gast": "NBA-Playoffs laufend (ECF)", "quellen": ["https://www.nba.com/playoffs/2026/east-final"]},
+      "saisonziel_heim": "New York: Serie zu Ende bringen / NBA-Finals-Einzug",
+      "saisonziel_gast": "Cleveland: Serie weiter am Leben halten",
+      "tabellenstand": {"hinweis": "Nur falls Serie nach G4 noch laeuft (Cavs 1-3). Sonst entfaellt das Spiel."},
+      "form_heim_letzte_5": null,
+      "form_gast_letzte_5": null,
+      "recovery_heim": "2 Tage seit G4 (25.05.)",
+      "recovery_gast": "2 Tage seit G4 (25.05.)",
+      "quoten": {"bet365": {"hinweis": "Serien-bedingt + live pruefen. DE-Markt-Regeln wie bei den anderen NBA-Spielen (nur PUNKTE-Props, keine Rebounds/Assists/3er/PRA)."}, "torschuetzen": {}},
+      "news_kompakt": [
+        "SERIEN-BEDINGT: findet nur statt, wenn Cleveland Game 4 (25.05.) gewinnt",
+        "Bei Knicks-Sweep faellt das Spiel aus",
+        "NBA-Markt-Regeln DE beachten (PUNKTE erlaubt, Rebounds/Assists/3er/PRA verboten)"
+      ],
+      "quellen_aggregator": ["https://www.nba.com/playoffs/2026/east-final"]
+    },
+    {
+      "id": "2026-05-28-sas-okc",
+      "liga": "NBA Playoffs - Western Conference Finals - Game 6",
+      "matchday": "WCF Game 6",
+      "stage": "CONFERENCE_FINALS",
+      "heim": "San Antonio Spurs",
+      "gast": "Oklahoma City Thunder",
+      "anstoss": "2026-05-29T02:30:00+02:00",
+      "stadion": "Frost Bank Center, San Antonio",
+      "bedingt": true,
+      "serien_stand": "Serien-bedingt: findet nur statt, wenn die Serie nach Game 5 (26.05.) noch laeuft (kein 4-1). Serienstand vor Anstoss verifizieren.",
+      "squad_heim": [
+        {"name": "Victor Wembanyama", "nummer": null, "position": "C/PF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.si.com/nba/western-conference-finals-game-3-live-updates-stats-spurs-thunder", "hinweis": "DPOY 2026"},
+        {"name": "Devin Vassell", "nummer": null, "position": "SG", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.si.com/nba/western-conference-finals-game-3-live-updates-stats-spurs-thunder"},
+        {"name": "Dylan Harper", "nummer": null, "position": "PG", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://clutchpoints.com/nba/san-antonio-spurs/dylan-harper-playing-spurs-thunder-2026-western-conference-finals-game-3-injury-report"},
+        {"name": "De'Aaron Fox", "nummer": null, "position": "PG", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.si.com/nba/western-conference-finals-game-3-live-updates-stats-spurs-thunder"}
+      ],
+      "squad_gast": [
+        {"name": "Shai Gilgeous-Alexander", "nummer": null, "position": "PG", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.nba.com/news/live-updates-thunder-spurs-aim-to-secure-2-1-lead-in-western-conference-finals", "hinweis": "NBA-MVP"},
+        {"name": "Jalen Williams", "nummer": null, "position": "SF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.si.com/nba/western-conference-finals-game-3-live-updates-stats-spurs-thunder", "hinweis": "Hamstring day-to-day"},
+        {"name": "Chet Holmgren", "nummer": null, "position": "C", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.si.com/nba/western-conference-finals-game-3-live-updates-stats-spurs-thunder"}
+      ],
+      "injuries_heim": ["De'Aaron Fox (Ankle, game-time)", "Dylan Harper (Adduktor, fraglich)"],
+      "injuries_gast": ["Jalen Williams (Hamstring, day-to-day)"],
+      "parallele_wettbewerbe": {"heim": "NBA-Playoffs laufend (WCF)", "gast": "NBA-Playoffs laufend (WCF)", "quellen": ["https://www.si.com/nba/western-conference-finals-game-3-live-updates-stats-spurs-thunder"]},
+      "saisonziel_heim": "San Antonio: Serie verlaengern / Heim-Comeback",
+      "saisonziel_gast": "Oklahoma City: Serie zu Ende bringen (Finals-Einzug)",
+      "tabellenstand": {"hinweis": "Serien-bedingt (nur falls Serie nach G5 weiterlaeuft)."},
+      "form_heim_letzte_5": null,
+      "form_gast_letzte_5": null,
+      "recovery_heim": "2 Tage seit G5 (26.05.)",
+      "recovery_gast": "2 Tage seit G5 (26.05.)",
+      "quoten": {"bet365": {"hinweis": "Serien-bedingt + live pruefen. DE-Markt-Regeln (nur PUNKTE-Props)."}, "torschuetzen": {}},
+      "news_kompakt": [
+        "SERIEN-BEDINGT: nur falls Serie nach Game 5 (26.05.) noch laeuft",
+        "Spurs-Heimspiel; Backcourt-Verletzungssorgen (Fox/Harper)",
+        "NBA-Markt-Regeln DE beachten"
+      ],
+      "quellen_aggregator": ["https://www.si.com/nba/western-conference-finals-game-3-live-updates-stats-spurs-thunder"]
+    },
+    {
+      "id": "2026-05-29-cle-nyk",
+      "liga": "NBA Playoffs - Eastern Conference Finals - Game 6",
+      "matchday": "ECF Game 6",
+      "stage": "CONFERENCE_FINALS",
+      "heim": "Cleveland Cavaliers",
+      "gast": "New York Knicks",
+      "anstoss": "2026-05-30T02:00:00+02:00",
+      "stadion": "Rocket Arena, Cleveland",
+      "bedingt": true,
+      "serien_stand": "Stark serien-bedingt: setzt voraus, dass Cleveland G4 + G5 gewinnt (Serie 2-3). Bei Knicks-3-0-Fuehrung sehr unwahrscheinlich - findet nur bei Cavs-Comeback statt. Stand verifizieren.",
+      "squad_heim": [
+        {"name": "Donovan Mitchell", "nummer": null, "position": "SG", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.nba.com/playoffs/2026/east-final"},
+        {"name": "Darius Garland", "nummer": null, "position": "PG", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.nba.com/playoffs/2026/east-final"},
+        {"name": "Evan Mobley", "nummer": null, "position": "PF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.nba.com/playoffs/2026/east-final"},
+        {"name": "Jarrett Allen", "nummer": null, "position": "C", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.nba.com/playoffs/2026/east-final"}
+      ],
+      "squad_gast": [
+        {"name": "Jalen Brunson", "nummer": null, "position": "PG", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.nba.com/playoffs/2026/east-final"},
+        {"name": "OG Anunoby", "nummer": null, "position": "SF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.nba.com/playoffs/2026/east-final"},
+        {"name": "Karl-Anthony Towns", "nummer": null, "position": "C", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.nba.com/playoffs/2026/east-final"},
+        {"name": "Josh Hart", "nummer": null, "position": "SG", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.nba.com/playoffs/2026/east-final"}
+      ],
+      "injuries_heim": [],
+      "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "NBA-Playoffs laufend (ECF)", "gast": "NBA-Playoffs laufend (ECF)", "quellen": ["https://www.nba.com/playoffs/2026/east-final"]},
+      "saisonziel_heim": "Cleveland: Serie verlaengern (bei Comeback)",
+      "saisonziel_gast": "New York: Finals-Einzug",
+      "tabellenstand": {"hinweis": "Stark serien-bedingt - nur bei Cavs-Comeback auf 2-3."},
+      "form_heim_letzte_5": null,
+      "form_gast_letzte_5": null,
+      "recovery_heim": "2 Tage seit G5 (27.05.)",
+      "recovery_gast": "2 Tage seit G5 (27.05.)",
+      "quoten": {"bet365": {"hinweis": "Stark serien-bedingt + live pruefen. DE-Markt-Regeln (nur PUNKTE-Props)."}, "torschuetzen": {}},
+      "news_kompakt": [
+        "STARK SERIEN-BEDINGT: nur falls Cavaliers G4 + G5 gewinnen (sehr unwahrscheinlich bei 0-3)",
+        "Faellt bei Knicks-Serien-Entscheidung aus",
+        "NBA-Markt-Regeln DE beachten"
+      ],
+      "quellen_aggregator": ["https://www.nba.com/playoffs/2026/east-final"]
+    }
+  ]
+}
