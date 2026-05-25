@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS = {
+{
   "datum": "2026-05-25",
   "erstellt_am": "2026-05-25T14:36:00+02:00",
   "hinweis": "🐚 WATCHDOG-RECOVERY (Mo 14:36) - die 16:00-Hauptroutine hatte zum Pruefzeitpunkt noch keine data/tipps/2026-05-25.json geschrieben, der Watchdog holt die Generation nach. DUENNER SAISONENDE-SLATE: PL/LaLiga/Serie A/Ligue 1 sind durch (Schlusstage 23.-24.05), Coupe-de-France-Final war 22.05., Copa-del-Rey + Coppa-Italia + DFB-Pokal-Final durch. CL-Final erst 30.05. Im Zeitfenster (17:15 heute -> 06:00 Di) nur ZWEI in-scope-Spiele: (1) BUNDESLIGA-RELEGATION RUECKSPIEL SC Paderborn - VfL Wolfsburg (20:30, Hinspiel 0:0) - echtes Coinflip-Entscheidungsspiel, KEIN SAFE; (2) NBA EASTERN CONFERENCE FINALS G4 New York Knicks @ Cleveland Cavaliers (02:00 Berlin Di, Knicks fuehren 3-0 = Sweep-Matchball). League-Two-Playoff-Final (15:00) liegt VOR dem Fenster, Schottische Playoffs sind out-of-scope. LESSONS HEUTE HART ANGEWANDT: (a) Champion/Favorit-Saisonende-Drehungs-Cluster (2-Tage-Serie 23.-24.05) + Schlusstag-Motivations-Asymmetrie widerlegt (24.05) -> keine SAFE-Favoriten-Tipps; (b) Doppelspiel-Hinspiel-defensiv (22.05 WOB-PAD 0:0) -> Tor-Markt im Rueckspiel vorsichtig, Unter 2.5 als Goldgrube-VALUE bevorzugt; (c) NBA NIE SAFE (HR16) + Player-Punkte raus aus Einzel + WCF-Total-Ueber-Goldgrube gebrochen (24.05) -> NBA-Total max WACKEL + Elimination-Game defensiv tendierend; (d) Sweep-Abwehr-Heim-Explosion (24.04/25.04) -> Cavs-Heim-Elimination als WACKEL-Flier mit Plus-Quote, kein Vertrauen in Schluss-Outcome; (e) Lineup-Check-Pflicht (24.05 Vinicius / Fox) bei jedem Spieler-Tipp. Kasse 550€ Stufe 1 (konservativ). DC-CAP eingehalten (0 DC heute - bei Coinflip-Relegation lieber Wackel-Sieg + Torschuetze als DC-SAFE). Kombi-Ladder bewusst NUR 2 Kombis (Mini-Spiele-Tag-Cap, Lessons 19.+21.05): bei 2 Spielen kein sauberes 3-Bein moeglich (Layer-1 max 1 Bein/Spiel), kein Moonshot (30x+ nur ueber Player-Prop-Flier = boykottiert). Quoten Aggregator-/Tippdienst-Stand 23.-25.05 (sport1/wettbasis/DraftKings/NBC) - bei bet365 LIVE pruefen.",
@@ -274,4 +273,4 @@ window.__MIESMUSCHEL_TIPPS = {
     }
   ],
   "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool, keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
-};
+}
