@@ -1,0 +1,146 @@
+{
+  "datum": "2026-05-25",
+  "erstellt_am": "2026-05-25T12:20:00+00:00",
+  "modus": "tag",
+  "hinweis": "Recherche-Daten Montag 25.05.2026 (Mo-Fr Variante - Pre-Tipps-Datenbasis fuer Tipps-Slot 13:30 Berlin; Recherche-Lauf Cloud-Routine). HEUTE NUR 1 relevantes Spiel: NBA Eastern Conference Finals Game 4 Cleveland Cavaliers vs New York Knicks (Heim Cavaliers) um 02:00 Berlin Dienstag 26.05. (20:00 ET Montag 25.05.) in der Rocket Arena Cleveland. SERIE STEHT 0-3 aus Cavs-Sicht: Knicks fuehren 3-0 (G1 115-104 OT in NY, G2 109-93 in NY, G3 121-108 in Cleveland) - Cavaliers im Sweep-/Elimination-Match. Kein Team in NBA-Geschichte hat je einen 0-3-Rueckstand aufgeholt. Knicks 10-Spiele-Siegesserie. KEINE Fussball-Top-Liga-Spiele heute: Bundesliga (Saison endete 17.05.), Premier League (MD38 war Sa 24.05., Saison beendet), LaLiga (MD38 war Sa 23./So 24.05., Saison beendet), Serie A (MD38 war Sa 23./So 24.05., Saison beendet), Ligue 1 (Saison beendet), keine CL/EL-Spiele (CL-Finale PSG vs Arsenal erst Sa 30.05., EL beendet, Conference-League-Finale war 27.05.-Slot). DFB-Pokal/Coppa Italia/FA Cup: keine Spiele heute (Pokalsaisons beendet). Einziges weiteres NBA-Playoff-Spiel der Western Conference Finals (Spurs vs OKC) NICHT heute - G4 war 24.05. (Spurs 103-82 -> Serie OKC fuehrt? siehe Western-Recherche). KASSE-Stand 04.05.2026: 550 EUR -> Stufe 1 (Aufbau-Phase) aktiv (Kasse < 1000 EUR). 2:0-Insurance-Regel gilt NUR fuer Fussball BL+CL: heute KEIN Fussball -> Insurance NICHT anwendbar. Einwechslungs-Boost-Regel gilt NUR fuer Fussball-Torschuetzen-Maerkte -> heute NICHT anwendbar. NBA-Markt-Verbote DE (NIE als Tipp empfehlen): Einzel-Rebounds, Einzel-Assists, Einzel-Steals, Einzel-Blocks, Einzel-Turnovers, Einzel-3er-Wuerfe, PRA-Kombos (Points+Rebounds+Assists), Punkte+Assists, Punkte+Rebounds Kombi-Stats. NBA-erlaubt: Moneyline, Spread/Handicap, Punkte-Totals (Spiel/Viertel/Halbzeit), Einzel-Punkte-Props, Double-Double, Triple-Double, Meiste Punkte im Spiel, Serien-Wetten, Quartal-Wetten. bet365-Quoten via Aggregator (FanDuel, NBC Sports/Rotoworld, DraftKings, Basketballsphere) aus US-Format konvertiert; bei Wettzeit live pruefen. NIE Spielernamen erfunden - Squad-Listen ausschliesslich aus zitierten Vorbericht/Lineup-Quellen. WICHTIG: Darius Garland ist NICHT mehr im Cavs-Kader (James Harden ist der Cavs-Aufbauspieler) - Garland nicht erwaehnen/tippen.",
+  "spiele": [
+    {
+      "id": "2026-05-25-cle-nyk",
+      "liga": "NBA Playoffs (Eastern Conference Finals, Game 4)",
+      "stage": "PLAYOFFS_CONF_FINALS_G4",
+      "spiel_label": "Game 4 of 7 (Best-of-7, Stand 0-3 aus Cavs-Sicht; Knicks fuehren 3-0, Cavs im Sweep-Match)",
+      "heim": "Cleveland Cavaliers",
+      "gast": "New York Knicks",
+      "anstoss": "2026-05-26T02:00:00+02:00",
+      "anstoss_lokal_et": "2026-05-25T20:00:00-04:00",
+      "anstoss_utc": "2026-05-26T00:00:00Z",
+      "stadion": "Rocket Arena (Rocket Mortgage FieldHouse), Cleveland",
+      "schiedsrichter": "noch nicht bestaetigt (NBA Officiating)",
+      "serie_stand": "Knicks fuehren 3-0 (G1 115-104 OT in NY, G2 109-93 in NY, G3 121-108 in Cleveland). Cavaliers im Sweep-/Elimination-Match; kein NBA-Team hat je 0-3 aufgeholt. Knicks 10-Spiele-Siegesserie. Seeds: Knicks #3 East, Cavaliers #4 East",
+      "squad_heim": [
+        {"name": "James Harden", "position": "PG", "verifiziert_via": "https://www.nbcsports.com/betting/nba/news/knicks-vs-cavaliers-game-4-ecf-predictions-odds-recent-stats-trends-best-bets-on-may-25", "hinweis": "Cavs-Aufbauspieler (im Saisonverlauf von den Clippers gekommen, Garland-Gegenrichtung); Saison ca. 23.6 PPG / 4.8 REB / 8.0 AST laut FanDuel/Totalprosports; laut Game-4-Previews zuletzt unter Erwartung -> Cavs-Schwachpunkt der Serie"},
+        {"name": "Donovan Mitchell", "position": "SG", "verifiziert_via": "https://www.fanduel.com/research/cavaliers-vs-knicks-prediction-nba-odds-spread-best-bets-for-eastern-finals-5-25-2026", "hinweis": "Cavs-Topscorer; Saison 27.9 PPG / 4.5 REB / 5.7 AST, Playoffs ca. 25.7 PPG laut Dailysports; traegt Cavs-Offense fast allein"},
+        {"name": "Max Strus", "position": "SF/SG", "verifiziert_via": "https://www.fanduel.com/research/cavaliers-vs-knicks-prediction-nba-odds-spread-best-bets-for-eastern-finals-5-25-2026", "hinweis": "Wing-Shooter; FanDuel-Variante nennt Strus in der erwarteten Starting Five auf dem SF-Posten - Quellen widerspruechlich zw. Strus und Dean Wade"},
+        {"name": "Dean Wade", "position": "SF/PF", "verifiziert_via": "https://www.nbcsports.com/betting/nba/news/knicks-vs-cavaliers-game-4-ecf-predictions-odds-recent-stats-trends-best-bets-on-may-25", "hinweis": "3-and-D-Forward; NBC/Rotoworld-Variante nennt Wade als SF-Starter - alternativ zu Strus; bei Lineup live pruefen"},
+        {"name": "Evan Mobley", "position": "PF", "verifiziert_via": "https://www.fanduel.com/research/cavaliers-vs-knicks-prediction-nba-odds-spread-best-bets-for-eastern-finals-5-25-2026", "hinweis": "Saison 18.2 PPG / 9.0 REB / 3.6 AST; defensiver Anker + zweite Scoring-Option neben Mitchell"},
+        {"name": "Jarrett Allen", "position": "C", "verifiziert_via": "https://www.fanduel.com/research/cavaliers-vs-knicks-prediction-nba-odds-spread-best-bets-for-eastern-finals-5-25-2026", "hinweis": "Saison 15.4 PPG / 8.5 REB, 63.8% FG; Pick-and-Roll-Finisher, Glas-Arbeiter gegen Towns"}
+      ],
+      "squad_gast": [
+        {"name": "Jalen Brunson", "position": "PG", "verifiziert_via": "https://www.fanduel.com/research/cavaliers-vs-knicks-prediction-nba-odds-spread-best-bets-for-eastern-finals-5-25-2026", "hinweis": "Knicks-Topscorer + Serien-Motor; Saison 26.0 PPG / 6.8 AST; G3 30 Punkte laut Dailysports/Basketballsphere"},
+        {"name": "Josh Hart", "position": "SG/SF", "verifiziert_via": "https://www.nbcsports.com/betting/nba/news/knicks-vs-cavaliers-game-4-ecf-predictions-odds-recent-stats-trends-best-bets-on-may-25", "hinweis": "Saison ca. 12.0 PPG / 7.4 REB / 41.3% 3P; Energie/Rebound-Wing, Glue-Guy"},
+        {"name": "Mikal Bridges", "position": "SF/SG", "verifiziert_via": "https://www.nbcsports.com/betting/nba/news/knicks-vs-cavaliers-game-4-ecf-predictions-odds-recent-stats-trends-best-bets-on-may-25", "hinweis": "Saison 14.4 PPG / 3.8 REB / 3.7 AST; G3 22 Punkte laut Dailysports - profitiert von Weak-Side-Rotationen, Top-Wing-Verteidiger"},
+        {"name": "OG Anunoby", "position": "PF/SF", "verifiziert_via": "https://www.nbcsports.com/betting/nba/news/knicks-vs-cavaliers-game-4-ecf-predictions-odds-recent-stats-trends-best-bets-on-may-25", "hinweis": "Saison 16.7 PPG / 5.2 REB; G3 21 Punkte; spielt in dieser Wing-lastigen Knicks-Five auf dem PF-Posten neben Bridges"},
+        {"name": "Karl-Anthony Towns", "position": "C/PF", "verifiziert_via": "https://www.fanduel.com/research/cavaliers-vs-knicks-prediction-nba-odds-spread-best-bets-for-eastern-finals-5-25-2026", "hinweis": "Saison 20.1 PPG / 11.9 REB / 3.0 AST; Stretch-Big, Matchup-Problem fuer Mobley/Allen, Double-Double-Kandidat"},
+        {"name": "Landry Shamet", "position": "SG/Bank", "verifiziert_via": "https://www.nbcsports.com/betting/nba/news/knicks-vs-cavaliers-game-4-ecf-predictions-odds-recent-stats-trends-best-bets-on-may-25", "hinweis": "Bank-Shooter; G3 14 Punkte von der Bank laut NBC/Rotoworld - X-Faktor der zweiten Einheit"}
+      ],
+      "injuries_heim": [
+        "Keine Spieler auf dem offiziellen Game-4-Injury-Report laut FanDuel + Fox-Sports-iHeart + Totalprosports (Stand 25.05.) - alle Rotationsspieler verfuegbar",
+        "HINWEIS: Darius Garland ist NICHT mehr im Cavs-Kader (Saison-Transfer; Harden ist der Aufbauspieler) - daher nicht auf dem Report und nicht zu tippen"
+      ],
+      "injuries_gast": [
+        "Keine Spieler auf dem offiziellen Game-4-Injury-Report laut FanDuel + Fox-Sports-iHeart (Stand 25.05.); Jalen Brunson spielt - voll besetzte Knicks-Rotation"
+      ],
+      "saison_kontext_intern": {
+        "parallel_heim": "keine - NBA Playoffs einziger Wettbewerb; Cavaliers im Eastern Conference Finals (0-3 hinten)",
+        "parallel_gast": "keine - NBA Playoffs einziger Wettbewerb; Knicks im Eastern Conference Finals (3-0 vorn, ein Sieg vom NBA-Finale entfernt)",
+        "quellen": [
+          "https://www.nba.com/playoffs/2026/east-final"
+        ]
+      },
+      "parallele_wettbewerbe": {
+        "heim": "keine - NBA Playoffs einziger Wettbewerb",
+        "gast": "keine - NBA Playoffs einziger Wettbewerb",
+        "quellen": [
+          "https://www.nba.com/playoffs/2026/east-final"
+        ]
+      },
+      "saisonziel_heim": "Sweep abwenden + Serie am Leben halten - Cavaliers muessen G4 daheim gewinnen, sonst 0-4-Aus. Historische Hypothek: kein NBA-Team holte je 0-3 auf",
+      "saisonziel_gast": "NBA-Finals-Qualifikation - ein Sieg vom Finale entfernt, Chance auf Sweep (4-0) auf gegnerischem Parkett; 10-Spiele-Siegesserie",
+      "tabellenstand": {
+        "heim_liga": "NBA Eastern Conference",
+        "heim_seed": 4,
+        "heim_serie_stand": "0-3 (Sweep-Gefahr)",
+        "gast_liga": "NBA Eastern Conference",
+        "gast_seed": 3,
+        "gast_serie_stand": "3-0 (Matchball zum Finale)",
+        "quelle": "https://www.basketball-reference.com/boxscores/202605230CLE.html, https://www.nba.com/playoffs/2026/east-final"
+      },
+      "form_heim_letzte_5": "Cavaliers in der Serie L-L-L (G1 104-115 OT, G2 93-109, G3 108-121); Offense eingebrochen - 3P-Quote 32% (G1) -> 25% (G2) -> 29% (G3) laut Basketballsphere; Serien-Offensiv-Rating nur 103.4 (8-0 wenn ueber 111.5, 0-9 darunter laut Basketballsphere); ATS-Saison 39-59 (zweitschlechteste Liga), 21-28 ATS daheim laut NBC/Rotoworld",
+      "form_gast_letzte_5": "Knicks 10 Siege in Folge inkl. 3-0 in dieser Serie; G3 121-108 (Brunson 30, Bridges 22, Anunoby 21, Shamet 14 Bank); 30 Transition-Punkte vs Cavs 10 in G3 laut Basketballsphere; ATS-Saison 54-42, 12-19 ATS als Auswaerts-Favorit laut NBC/Rotoworld",
+      "h2h": "Aktuelle Serie 0-3 fuer Cavs: G1 Knicks 115-104 OT (NY), G2 Knicks 109-93 (NY), G3 Knicks 121-108 (Cleveland). Knicks dominieren Transition + Weak-Side-Spiel; Cavs nur konkurrenzfaehig wenn Offensiv-Rating ueber 111.5",
+      "recovery_heim": "2 Tage seit G3 (23.05. Heimniederlage 108-121) - kein Reise-Faktor (Heimspiel-Doppel G3+G4 in Cleveland)",
+      "recovery_gast": "2 Tage seit G3 (23.05. Auswaertssieg in Cleveland) - kein Reise-Faktor, voll regeneriert",
+      "manager": {
+        "heim": "Kenny Atkinson - Cleveland Cavaliers Head Coach (Stand Saison 25/26, bei Lineup/Quelle verifizieren)",
+        "gast": "Tom Thibodeau - New York Knicks Head Coach (Stand Saison 25/26, bei Lineup/Quelle verifizieren)"
+      },
+      "quoten": {
+        "bet365_aggregator": {
+          "moneyline_heim_cavaliers": 2.13,
+          "moneyline_gast_knicks": 1.74,
+          "spread_gast_knicks_minus_2_5": 1.91,
+          "spread_heim_cavaliers_plus_2_5": 1.91,
+          "total_punkte_linie": 217.5,
+          "ueber_total": 1.91,
+          "unter_total": 1.91,
+          "eroeffnungslinie": "Spiel eroeffnete Cavaliers -1.5 / Total 215.5; Linie kippte auf Knicks-Favorit (Momentum 3-0 + 10er-Serie) - jetzt Knicks ca. -2.5 Auswaerts-Favorit",
+          "player_props_punkte_geschaetzt": {
+            "Mitchell_punkte_linie_geschaetzt": 28.5,
+            "Brunson_punkte_linie_geschaetzt": 28.5,
+            "Towns_punkte_linie_geschaetzt": 22.5,
+            "Mobley_punkte_linie_geschaetzt": 17.5,
+            "Harden_punkte_linie_geschaetzt": 18.5,
+            "Allen_punkte_linie_geschaetzt": 13.5,
+            "Anunoby_punkte_linie_geschaetzt": 16.5,
+            "Bridges_punkte_linie_geschaetzt": 15.5,
+            "hinweis_props": "Punkte-Linien GESCHAETZT aus Saison-/Playoff-Schnitt (keine explizite Aggregator-Prop-Linie in den Quellen gelistet) - bei bet365 LIVE pruefen vor Tipp. Towns + Allen Double-Double-Kandidaten (erlaubter Markt). VERBOTEN bei bet365 DE: Einzel-Reb, Einzel-Ast, Einzel-3er, PRA-Kombos, Punkte+Reb, Punkte+Ast."
+          },
+          "hinweis": "Konversion aus US-Format Aggregator (FanDuel / NBC Sports-Rotoworld / DraftKings via DK Network / Basketballsphere): Knicks ML -130 (NBC/DK) bis -138 (FanDuel) = ca. 1.72-1.77, Konsens ca. 1.74 / Cavaliers ML +110 (NBC/DK) bis +118 (FanDuel) = ca. 2.10-2.18, Konsens ca. 2.13. Spread: FanDuel nennt Knicks -2.5 (-110 = 1.91); NBC-Tabelle listet 'Cavaliers -2.5' was der eigenen Knicks-Favoriten-ML widerspricht (vermutlich Tippfehler) - Markt-Logik: Knicks -2.5 Auswaerts-Favorit. Total 217.5 (-110 beidseitig = 1.91), eroeffnete 215.5. Bei bet365 LIVE pruefen - Linien koennen sich aendern."
+        },
+        "fair_line_basis_prozent": {
+          "sieg_heim_cavaliers": 54,
+          "sieg_gast_knicks": 46,
+          "modell_quelle": "Markt impliziert Knicks-Favorit (ML ca. 1.74 = ca. 57% nach Vig-Abzug fuer Knicks). ABER numberFire-Win-Probability-Modell gibt Cavaliers 57.2% (Heimvorteil + Verzweiflungs-/Must-Win-Faktor), Basketballsphere pickt sogar Cavaliers ML 2.12 mit 2 Units. Modell vs Markt divergieren stark - Cavs-Heim-Edge laut Modellen, Knicks-Momentum laut Markt. Reine Daten - keine Tipp-Bewertung."
+        }
+      },
+      "news_kompakt": [
+        "Knicks fuehren 3-0 und stehen vor dem Sweep - ein Sieg vom NBA-Finale entfernt; Cavaliers im Elimination-Match, kein NBA-Team holte je einen 0-3-Rueckstand auf",
+        "Knicks 10 Siege in Folge; G3 121-108 mit Brunson 30, Bridges 22, Anunoby 21, Shamet 14 (Bank) - balancierte Knicks-Offense gegen Cavs-Defense",
+        "Cavs-Offensiv-Krise: 3P-Quote 32%->25%->29% ueber die Serie, Serien-Offensiv-Rating nur 103.4 (8-0 wenn ueber 111.5 / 0-9 darunter); Harden klar unter Erwartung, Mitchell (ca. 25.7 PPG Playoffs) traegt fast allein",
+        "Transition-Defizit Cavs: nur 10 Transition-Punkte vs 30 der Knicks in G3 - Knicks bestrafen Cavs-Turnovers konstant",
+        "Markt vs Modell divergieren: Markt macht Knicks zu ca. -2.5 Auswaerts-Favoriten (ML ca. 1.74), aber numberFire gibt Cavs 57.2% und Basketballsphere pickt Cavs ML 2.12 (Heim-/Must-Win-Faktor)",
+        "Linienbewegung: Spiel eroeffnete Cavaliers -1.5 / Total 215.5, kippte auf Knicks -2.5 / Total 217.5; Rotoworld empfiehlt tendenziell Under 217.5",
+        "ATS-Splits: Cavs 39-59 ATS Saison (zweitschlechteste Liga) + 21-28 ATS daheim; Knicks 54-42 ATS, aber nur 12-19 ATS als Auswaerts-Favorit",
+        "Verletzungen: beide Teams sauberer Injury-Report (keine Ausfaelle gelistet) - voll besetzte Rotationen",
+        "DE-Recht: erlaubt sind Moneyline, Spread, Punkte-Totals (Spiel/Viertel/Halbzeit), Einzel-Punkte-Props, Double-Double (Towns/Allen/Mobley-Kandidaten), Triple-Double, Meiste Punkte; VERBOTEN: Einzel-Reb/Ast/Steals/Blocks/3er, PRA-Kombos, Punkte+Reb, Punkte+Ast"
+      ],
+      "quellen_aggregator": [
+        "https://www.fanduel.com/research/cavaliers-vs-knicks-prediction-nba-odds-spread-best-bets-for-eastern-finals-5-25-2026",
+        "https://www.nbcsports.com/betting/nba/news/knicks-vs-cavaliers-game-4-ecf-predictions-odds-recent-stats-trends-best-bets-on-may-25",
+        "https://basketballsphere.com/en/cleveland-cavaliers-vs-new-york-knicks-game-4-preview-prediction-may-25-2026/",
+        "https://dknetwork.draftkings.com/2026/05/23/opening-odds-for-cavaliers-vs-knicks-game-4-in-2026-eastern-conference-semifinals/",
+        "https://www.espn.com/nba/story/_/id/48858308/knicks-overwhelm-cavaliers-again-take-3-0-series-lead",
+        "https://www.nba.com/playoffs/2026/east-final",
+        "https://www.basketball-reference.com/boxscores/202605230CLE.html"
+      ]
+    }
+  ],
+  "spiele_count": 1,
+  "skipped_due_to_no_relevant_fixtures": [
+    "Bundesliga (Saison endete So 17.05.2026 - keine Spiele mehr)",
+    "2. Bundesliga (Saison endete 17.05.2026)",
+    "Premier League (MD38 war Sa 24.05. - Saison beendet)",
+    "LaLiga (MD38 war Sa 23./So 24.05. - Saison beendet)",
+    "Serie A (MD38 war Sa 23./So 24.05. - Saison beendet)",
+    "Ligue 1 (keine Spiele laut football-data.org - Saison beendet)",
+    "Champions League (Finale PSG vs Arsenal erst Sa 30.05.2026; League-Phase + KO beendet)",
+    "Europa League (Saison beendet)",
+    "UEFA Conference League (Finale war 27.05.-Slot bzw. beendet)",
+    "DFB-Pokal / Coppa Italia / FA Cup (Pokalsaisons beendet - keine Spiele heute)",
+    "NBA Western Conference Finals (Spurs vs OKC G4 war 24.05. - kein WCF-Spiel heute)"
+  ],
+  "footer": {
+    "spielerschutz": "18+ - bet365 DE - Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+    "rechtlich_hinweis": "NBA: 2:0-Insurance-Regel gilt NICHT (nur Fussball BL/CL). Einwechslungs-Boost-Regel gilt NICHT (nur Fussball-Torschuetzen-Maerkte). Verbotene NBA-Maerkte bei bet365 DE beachten: keine Einzel-Reb/Ast/Blk/Steals/Turnovers, keine PRA-Kombos, keine Punkte+Reb/Ast-Kombi, keine Einzel-3er. Erlaubt: Moneyline, Spread/Handicap, Punkte-Totals (Spiel/Viertel/Halbzeit), Einzel-Punkte-Props, Double-Double, Triple-Double, Meiste Punkte im Spiel. Reine Datensammlung - KEINE Tipp-Empfehlung (das macht die Tipps-Routine)."
+  }
+}
