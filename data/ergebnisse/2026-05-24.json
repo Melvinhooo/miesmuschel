@@ -1,0 +1,2108 @@
+{
+  "datum": "2026-05-24",
+  "erstellt_am": "2026-05-24T10:50:00+02:00",
+  "hinweis": "🐚 Schlusstag-Sonntag (So 10:50). HEADLINER: PREMIER-LEAGUE-FINALTAG (MD38) - alle 10 Spiele zeitgleich 17:00 Berlin. PL ist System-Goldgrube (zuletzt 85.7% / +18.7% ROI), aber Schlusstag = Chaos + Doppel-Storylines: Arsenal bereits Meister (CL-Final vs PSG am 30.05 -> rotiert massiv bei Palace, das selbst Conference-Final vs Rayo am 27.05 spielt = beidseitige B-Elf, KEIN SAFE), Burnley+Wolves abgestiegen (Dead Rubber), Tottenham (17.) + West Ham (18.) im Abstiegs-Endspiel, Liverpool braucht 1 Punkt fuer CL-Platz 5, Aston Villa via Europa-League-Sieg schon CL-qualifiziert -> bei Man City NICHTS mehr zu spielen (Pep-Abschiedsspiel = City-Motivation). Roster-Checks (Lesson 24.05 Vinicius-Falle): Semenyo laengst zu Man City -> Bournemouths Stuermer in Form ist Junior Kroupi (19, 13 Tore). Goldgruben aktiv gesucht: Torschuetzen Jederzeit (+24.7% ROI - Haaland Topform 5 Ligaspiele in Folge getroffen + Penalty-Taker, Salah 7 Tore in 8 vs Brentford), DC X2 (69.2% / +15.8%), Unter 2.5 (63.6% / +27.5%), Ueber 2.5 (+33.2%). DC-CAP eingehalten (3 DC gesamt: Bournemouth X2, Spurs 1X, Brighton 1X - je 1/Spiel). SERIE A Schlusstag (Torino-Juve Derby/Juve-CL-Jagd, Napoli-Udinese Conte-Abschied) = BEOBACHTUNGS-LIGA (30d ROI -46%) -> nur Analyse, kein Einzel/Hauptkombi, Moonshot-Bein ab Quote 5.0. NBA WCF G4 OKC @ Spurs (02:30 Mo Berlin, Serie 1-1): NBA NIE SAFE (HR16), Player-Punkte raus aus Einzel - aber WCF-Total Ueber ist Goldgrube (alle 3 bisherigen WCF-Spiele >217.5), Linie 219.5. Drehungs-Cluster-Warnung (Lesson 24.05): Sieg-Tipps auf Champions/gesicherte Teams am Saison-Auslauf max wackel - Motivation kippt zum Team MIT Ziel. 2:0-Insurance NIRGENDS anwendbar (nur 1.BL+CL Sieg-Tipps; heute PL/Serie A/NBA). Kasse 550€ Stufe 1 (konservativ). Quoten Aggregator-Stand 23.-24.05 (Oddschecker/Sportsgambler/ESPN/Polymarket) - bei bet365 LIVE pruefen, koennen sich aendern.",
+  "spiele": [
+    {
+      "id": "2026-05-24-mci-avl",
+      "liga": "Premier League",
+      "matchday": "38 (Schlusstag)",
+      "heim": "Manchester City",
+      "gast": "Aston Villa",
+      "anstoss": "2026-05-24T17:00:00+02:00",
+      "stadion": "Etihad Stadium, Manchester",
+      "saison_kontext": {
+        "parallel_heim": "keine - City aus allen Wettbewerben raus, Saison-Abschluss; KEIN Europa-Final, kein engtaktiges Restprogramm",
+        "parallel_gast": "keine - Villa hat die Europa League bereits am 20.05 gewonnen (Saison-Höhepunkt erreicht), danach Saisonende",
+        "saisonziel_heim": "City sicher CL-qualifiziert (einer der 4 englischen CL-Plätze); sportlich nichts mehr zu holen, ABER es ist Pep Guardiolas Abschiedsspiel als City-Coach -> emotionale Maximal-Motivation für einen würdigen Abschied + Haaland jagt persönliche Torjäger-Marken",
+        "saisonziel_gast": "Villa hat über den Europa-League-Titel (Sieg 0:3 im Final am 20.05) bereits CL 26/27 sicher -> in der Liga GAR NICHTS mehr zu spielen, kann befreit/rotiert auftreten, EL-Feier-Modus",
+        "motivations_asymmetrie": "Klare City-Edge: Pep-Abschied + Haaland-Form (5 Ligaspiele in Folge getroffen, Schuss aufs Tor in den letzten 7) treffen auf ein Villa-Team, das nach dem EL-Triumph zum Saisonende nichts mehr zu gewinnen hat. Kein Selbstwiderspruch - das ist ein echter Favoriten-Spot, KEIN Coinflip.",
+        "recovery_heim": "8 Tage seit letztem Ligaspiel (Bournemouth 1:1 am 19.05 war MD37) - voll erholt, kein Final danach",
+        "recovery_gast": "4 Tage seit EL-Final (20.05) - kurze Pause + Feier-Hangover möglich, Rotations-Anreiz hoch",
+        "quellen": [
+          "https://www.premierleague.com/en/news/4324511",
+          "https://www.espn.com/soccer/schedule/_/league/eng.1",
+          "https://www.uefa.com/uefaeuropaleague/",
+          "https://www.sportsgambler.com/betting-tips/football/manchester-city-vs-aston-villa-prediction-lineups-odds-2026-05-24/"
+        ]
+      },
+      "news": [
+        "Pep Guardiolas Abschiedsspiel als Manchester-City-Trainer am Etihad - City will den ikonischen Coach mit einem Sieg verabschieden",
+        "Erling Haaland Marktführer Erster Torschütze (~+245) - hat in jedem seiner letzten 5 Ligaspiele getroffen + Schuss aufs Tor in den letzten 7; zentraler Stürmer + Elfmeter-/Standard-Schütze",
+        "Aston Villa als frischgebackener Europa-League-Sieger (0:3 im Final am 20.05) bereits CL-qualifiziert -> in der Liga ohne Anreiz, Rotation/EL-Feier-Modus erwartet",
+        "Quoten Aggregator-Stand: City ~1.34, Remis ~6.1, Villa ~8.75; Haaland Jederzeit ~1.65-1.75; Über 3.5 wurde von mehreren Tippsdiensten gespielt (City 2.44 Tore/Heimspiel-Schnitt, 3 der letzten 4 Villa-Spiele Über 3.5) - bei bet365 live prüfen",
+        "Aufstellungs-Verifikation 1h vor Anstoß empfohlen (Lesson 22.04 / 18.05): bestätigen dass Haaland startet (bei Pep-Abschied + Torjäger-Jagd sehr wahrscheinlich Startelf)"
+      ],
+      "tipps": [
+        {
+          "id": "mci-avl-1",
+          "kategorie": "value",
+          "markt": "Erling Haaland trifft jederzeit",
+          "quote": 1.7,
+          "edge_prozent": 6.0,
+          "begruendung": "Goldgrube Torschützen Jederzeit (39 Tipps / 39.5% / +24.7% ROI - bester Markt im System). Haaland erfüllt Lesson 24.05 (Torschützen-Haushoher-Favorit-Elfschütze): City haushoher Favorit @1.34 (<1.40) UND Haaland ist Penalty-/Standard-Taker UND in absoluter Topform (5 Ligaspiele in Folge getroffen, Schuss aufs Tor letzte 7). Villa ohne Anreiz nach EL-Sieg -> offene City-Räume. Die 21.05-Vorsicht (Tore verteilen sich aufs Mittelfeld) gilt laut 24.05-Verfeinerung NICHT für den Penalty-Taker eines <=1.40-Favoriten. Aufstellung verifizieren. Stake 1.5% x 550€ = 8,25€. Bei bet365 live prüfen.",
+          "faire_quote": 1.6,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 8.25,
+          "_aufstellungs_verifikation_pflicht": true
+        },
+        {
+          "id": "mci-avl-2",
+          "kategorie": "value",
+          "markt": "Sieg Manchester City",
+          "quote": 1.34,
+          "edge_prozent": 3.5,
+          "begruendung": "City @1.34 als haushoher Heim-Favorit im Pep-Abschiedsspiel - maximale Motivation, voller Kader, Rodri zurück. Villa hat via EL-Titel bereits CL sicher und in der Liga NICHTS mehr zu spielen (4 Tage nach EL-Final, Feier-/Rotations-Modus). VALUE statt SAFE bewusst: (a) PL nicht in liga_goldgruben.json + 1X2 kein Goldgrube-Markt -> Mapper-Hebel C würde SAFE ohnehin degradieren, (b) Schlusstag-Varianz. Motivations-Asymmetrie eindeutig pro City, kein Selbstwiderspruch. Stake 1.5% x 550€ = 8,25€. Bei bet365 live prüfen.",
+          "faire_quote": 1.29,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 8.25
+        },
+        {
+          "id": "mci-avl-3",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.45,
+          "edge_prozent": 5.0,
+          "begruendung": "Goldgrube Über 2.5 Tore (17 Tipps / +33.2% ROI). City 2.44 Tore/Heimspiel-Schnitt (18 Heimspiele) + Haaland-Form, gegen ein anreizloses Villa, das offen/rotiert spielt; 3 der letzten 4 Villa-Spiele gingen Über 3.5. Mehrere Tippdienste spielten sogar Über 3.5 - ich nehme das sicherere Über 2.5. Risiko: anreizloses Spiel kann auch kontrolliert 1:0/2:0 enden, daher VALUE nicht SAFE. Stake 1.0% x 550€ = 5,50€. Bei bet365 live prüfen.",
+          "faire_quote": 1.38,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 5.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "1:2",
+        "halbzeit": "1:0",
+        "quelle": "WebSearch (ESPN/NBC Sports/Flashscore/VAVEL/Arsenal.com/NBA.com/football-italia) 24.-25.05.2026"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "mci-avl-1",
+          "status": "push",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Haaland von Guardiola im Abschiedsspiel geschont (nicht im Kader) -> Wette void/push, Einsatz zurueck. Kein Einwechslungs-Boost moeglich (nie auf dem Platz). Lesson 24.05 Vinicius-Falle bestaetigt: zweifelhafter Status vs angenommen-fit beidseitig Lineup-Check noetig.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "mci-avl-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "City verlor 1:2 (Watkins-Doppelpack nach Semenyo-Fuehrung) - Pep-Abschied vermasselt; anreizloses Villa gewann trotz EL-Feier-Modus",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "mci-avl-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.45,
+          "kommentar": "3 Tore (1:2) -> Ueber 2.5 JA",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "1:2",
+        "tore": [
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Antoine Semenyo",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": null,
+            "team": "gast",
+            "spieler": "Ollie Watkins",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": null,
+            "team": "gast",
+            "spieler": "Ollie Watkins",
+            "stand_danach": "1:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "City fuehrte nur 1:0 (Diff <2), Villa drehte zum 2:1 - keine 2-Tore-Drehung im Sinne des Algorithmus, aber Favoriten-Auslauf-Niederlage"
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Manchester City/Aston Villa",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Haaland, Rodri, Donnarumma, Guehi, O'Reilly",
+            "details": "von Guardiola im Abschiedsspiel komplett geschont (anreizlos, CL bereits sicher); Haaland trotzdem Golden Boot mit 27 Saisontoren. City B-lastig verlor 1:2"
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Top-Team-Anreizlos-Auslauf: City schonte 5 Stammspieler (inkl. Torjaeger Haaland) im Pep-Abschied und verlor gegen ein ebenfalls anreizloses Villa - die 'Pep-Emotions-Motivation'-These trug nicht, das EL-Sieger-Villa war befreiter.",
+          "Haaland-Rest = Torschuetzen-Tipp void: bestaetigt Lesson 24.05 (Lineup-Check Pflicht), ein haushoher-Favorit-Penalty-Taker nuetzt nichts wenn er gar nicht spielt."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-24-liv-bre",
+      "liga": "Premier League",
+      "matchday": "38 (Schlusstag)",
+      "heim": "Liverpool",
+      "gast": "Brentford",
+      "anstoss": "2026-05-24T17:00:00+02:00",
+      "stadion": "Anfield, Liverpool",
+      "saison_kontext": {
+        "parallel_heim": "keine - Liverpool in keinem Europa-Final, Saison-Abschluss",
+        "parallel_gast": "keine - Brentford Saison-Abschluss, kein engtaktiges Restprogramm",
+        "saisonziel_heim": "Liverpool kämpft am Schlusstag um Platz 5 = letzter CL-Platz; braucht zuhause nur 1 Punkt für die fixe CL-Quali (Bournemouth 3 Punkte dahinter auf 6). Reales sportliches Ziel an diesem Tag.",
+        "saisonziel_gast": "Brentford gesichertes Mittelfeld, ohne Tabellen-Druck - klassisches Auslauf-Auswärtsspiel mit schwacher Reise-Bilanz",
+        "motivations_asymmetrie": "Liverpool hat ein konkretes CL-Ziel (Platz 5) und Heimvorteil an einem traditionell starken Anfield-Schlusstag; Brentford reist ohne Druck an. Edge klar pro Liverpool, einziges Gegengewicht: Liverpool braucht nur 1 Punkt -> könnte kontrolliert statt offensiv spielen.",
+        "recovery_heim": "8 Tage seit MD37 - voll erholt",
+        "recovery_gast": "8 Tage seit MD37 - voll erholt",
+        "quellen": [
+          "https://www.premierleague.com/en/news/4324511",
+          "https://www.squawka.com/us/news/match-preview-liverpool-vs-brentford-24-05-26-premier-league/",
+          "https://www.sportsgambler.com/betting-tips/football/liverpool-vs-brentford-prediction-lineups-odds-2026-05-24/"
+        ]
+      },
+      "news": [
+        "Liverpool braucht am Anfield nur 1 Punkt zur fixen CL-Quali (Platz 5) - reales Saisonziel, kein Dead Rubber",
+        "Mohamed Salah hat 7 Tore in 8 Spielen gegen Brentford (bester Torschütze dieses Duells) + ist Marktführer Erster/Jederzeit-Torschütze",
+        "Brentford mit schwacher Auswärtsbilanz - reist ohne Tabellen-Druck an",
+        "Quoten Aggregator-Stand: Liverpool ~1.80 (-125), Remis ~4.2, Brentford ~3.80; Salah Jederzeit ~1.65-1.75 - bei bet365 live prüfen",
+        "Squawka/Sportsgambler: 'Liverpool to win, Salah Anytime as the value lean' - Heim-Squad + Anfield-Bilanz + Salah-Faktor"
+      ],
+      "tipps": [
+        {
+          "id": "liv-bre-1",
+          "kategorie": "value",
+          "markt": "Mohamed Salah trifft jederzeit",
+          "quote": 1.7,
+          "edge_prozent": 6.0,
+          "begruendung": "Goldgrube Torschützen Jederzeit (+24.7% ROI). Salah mit historischer Brentford-Bilanz (7 Tore in 8 Spielen = im Schnitt alle 95 Min ein Tor gegen sie) + Marktführer-Status + Heimvorteil Anfield. Liverpool will den CL-Platz mit einem Sieg absichern -> Salah als Hauptabnehmer der Chancen. Anders als bei einem Klassen-Edge-Final (21.05-Vorsicht) ist dies ein normales Ligaspiel mit klarem Top-Stürmer-Fokus. Aufstellung verifizieren (Startelf wahrscheinlich). Stake 1.5% x 550€ = 8,25€. Bei bet365 live prüfen.",
+          "faire_quote": 1.6,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 8.25,
+          "_aufstellungs_verifikation_pflicht": true
+        },
+        {
+          "id": "liv-bre-2",
+          "kategorie": "value",
+          "markt": "Sieg Liverpool",
+          "quote": 1.8,
+          "edge_prozent": 4.5,
+          "begruendung": "Liverpool @1.80 zuhause mit CL-Ziel (Platz 5) gegen ein druckloses Brentford mit schwacher Auswärtsbilanz. VALUE statt SAFE: (a) Liverpool braucht nur 1 Punkt -> kontrolliertes Spiel statt Offensiv-Feuerwerk möglich, (b) 1X2 kein Goldgrube-Markt -> Hebel C würde SAFE degradieren, (c) Schlusstag-Varianz. Trotzdem solider Favoriten-Wert: Anfield-Schlusstag-Bilanz + Brentford reist ohne Anreiz. Stake 1.0% x 550€ = 5,50€. Bei bet365 live prüfen.",
+          "faire_quote": 1.72,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 5.5
+        },
+        {
+          "id": "liv-bre-3",
+          "kategorie": "wackel",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.62,
+          "edge_prozent": 2.0,
+          "begruendung": "Goldgrube Über 2.5 (+33.2% ROI), aber bewusst nur WACKEL: Liverpool braucht nur 1 Punkt und könnte nach Führung den Sack kontrolliert zumachen statt nachzulegen (Sicherheits-Modus-Risiko wie Lesson 19.05 Arsenal-Burnley 1:0). Anfield-Offensive + Salah-Faktor geben dennoch Über-Tendenz. Kleiner Einsatz. Stake 0.5% x 550€ = 2,75€. Bei bet365 live prüfen.",
+          "faire_quote": 1.55,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 2.75
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "1:1",
+        "halbzeit": "0:0",
+        "quelle": "WebSearch (ESPN/NBC Sports/Flashscore/VAVEL/Arsenal.com/NBA.com/football-italia) 24.-25.05.2026"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "liv-bre-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Salah traf NICHT (nur Assist zu Curtis Jones 58.) - kein Einwechslungs-Boost (Salah nicht durch Torschuetzen-Ersatz abgeloest)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "liv-bre-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "1:1 Remis - Liverpool brauchte nur 1 Punkt, kontrollierte ab",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "liv-bre-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "nur 2 Tore (1:1) -> Ueber 2.5 verfehlt",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "1:1",
+        "tore": [
+          {
+            "min": 58,
+            "team": "heim",
+            "spieler": "Curtis Jones (Assist Salah)",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 63,
+            "team": "gast",
+            "spieler": "Kevin Schade",
+            "stand_danach": "1:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "kein 2-Tore-Vorsprung zu keinem Zeitpunkt"
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Unentschieden/Unentschieden",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Liverpool brauchte nur 1 Punkt und spielte kontrolliert - Ueber-2.5 + Heimsieg verfehlt. 'Sicherheits-Modus-Risiko' (Lesson 19.05) bestaetigt.",
+          "Salah Assist statt Tor: Torschuetzen-Tipp auf den Marktfuehrer verloren, obwohl er an Liverpools Tor beteiligt war - Torgefahr-Beteiligung != Torschuetze."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-24-cry-ars",
+      "liga": "Premier League",
+      "matchday": "38 (Schlusstag)",
+      "heim": "Crystal Palace",
+      "gast": "Arsenal",
+      "anstoss": "2026-05-24T17:00:00+02:00",
+      "stadion": "Selhurst Park, London",
+      "saison_kontext": {
+        "parallel_heim": "Conference League Final am 27.05 (in 3 Tagen) vs Rayo Vallecano in Leipzig -> Palace rotiert/schont Schlüsselspieler an diesem Schlusstag massiv",
+        "parallel_gast": "Champions League Final am 30.05 (in 6 Tagen) vs PSG in Budapest -> Arsenal (bereits Meister) rotiert vor dem größten Spiel der Saison heftig, B-Elf erwartet",
+        "saisonziel_heim": "Palace gesichertes oberes Mittelfeld, ohne Liga-Druck; voller Fokus auf den Conference-Final 27.05",
+        "saisonziel_gast": "Arsenal bereits Englischer Meister (Titel seit 19.05 fix) - in der Liga NICHTS mehr zu holen, alles auf den CL-Final 30.05 ausgerichtet",
+        "motivations_asymmetrie": "Beide Teams sind Europa-Finalisten mit dem großen Spiel vor der Brust -> beidseitige Heavy-Rotation, KEIN klares Edge, eher Coinflip mit B-Elf-Charakter. Genau die Konstellation aus Lesson 18.05 (Top-Team-B-Elf-vor-Final-Cluster) -> kein SAFE, kein Sieg-Tipp, Spät-Tor-Crash-Risiko in Min 80+.",
+        "recovery_heim": "8 Tage seit MD37 - erholt, aber Belastungssteuerung Richtung 27.05",
+        "recovery_gast": "8 Tage seit MD37 - erholt, aber Belastungssteuerung Richtung 30.05",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/news/029a-1df98e9a78ca-1acaca3c53b0-1000--2026-uefa-champions-league-final-where-is-it-who-is-involv/",
+          "https://www.uefa.com/uefaconferenceleague/news/029a-1df99126e9f6-36a9ff57d0cd-1000--2026-uefa-conference-league-final-where-is-it-who-is-involv/",
+          "https://www.cpfc.co.uk/crystal-palace-2026-uefa-conference-league-final-leipzig/"
+        ]
+      },
+      "news": [
+        "Beide Teams stehen in Europa-Finals: Palace im Conference-Final (27.05 vs Rayo Vallecano), Arsenal im CL-Final (30.05 vs PSG) -> beidseitig schwere Rotation am Schlusstag erwartet",
+        "Arsenal bereits Premier-League-Meister (Titel seit dem 19.05 fix) - rein sportlich kein Liga-Anreiz mehr",
+        "Lesson 18.05 (B-Elf-vor-Final-Cluster) + Lesson 19.05 (Arsenal schonte Gyökeres trotz Heim-Saisonfinale): Star-Stürmer-Torschützen-Tipps hier NICHT spielbar, Sieg-Markt unzuverlässig",
+        "Quoten Aggregator-Stand: Arsenal ~1.55, Remis ~4.33, Palace ~7.0; bei B-Elf beider Seiten Quoten mit Vorsicht - bei bet365 live + nach Aufstellung prüfen",
+        "Spät-Tor-/Drehungs-Risiko in der Schlussphase typisch für B-Elf-Spiele (vgl. Bayern 02.05, PSG/Inter 17.05)"
+      ],
+      "tipps": [
+        {
+          "id": "cry-ars-1",
+          "kategorie": "wackel",
+          "markt": "Über 2.5 Tore",
+          "quote": 2.0,
+          "edge_prozent": 1.0,
+          "begruendung": "Zwei B-Elf-Teams ohne Liga-Druck, beide mit Fokus auf den Europa-Final -> oft offenes, lockeres Spiel mit Räumen (Goldgrube Über 2.5 +33.2%). ABER bewusst nur WACKEL: B-Elf-Spiele können auch zäh/zerfahren sein, und Belastungssteuerung dämpft das Tempo. Kein SAFE/VALUE wegen kompletter Rotations-Unsicherheit (Lesson 18.05). Kleiner Einsatz, eher Risiko-/Moonshot-Bein-Kandidat. Stake 0.5% x 550€ = 2,75€. Bei bet365 live prüfen.",
+          "faire_quote": 1.95,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 2.75
+        },
+        {
+          "id": "cry-ars-2",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.7,
+          "edge_prozent": 1.0,
+          "begruendung": "Bei beidseitiger B-Elf ohne defensive Organisation aus den Stamm-Reihen ist BTTS plausibel - beide Reserve-Angriffe bekommen Chancen. WACKEL, weil Rotation auch die Offensiven schwächt und das Resultat irrelevant ist (kein Anreiz, eng zu verteidigen ODER zwingend zu treffen). Kein Hauptkombi-Bein. Stake 0.5% x 550€ = 2,75€. Bei bet365 live prüfen.",
+          "faire_quote": 1.65,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 2.75
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "1:2",
+        "halbzeit": "0:1",
+        "quelle": "WebSearch (ESPN/NBC Sports/Flashscore/VAVEL/Arsenal.com/NBA.com/football-italia) 24.-25.05.2026"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "cry-ars-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.0,
+          "kommentar": "3 Tore (1:2) -> Ueber 2.5 JA, trotz beidseitiger B-Elf",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "cry-ars-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.7,
+          "kommentar": "beide trafen (Mateta 88. / Jesus 41.+Madueke 47.) -> BTTS JA",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "1:2",
+        "tore": [
+          {
+            "min": 41,
+            "team": "gast",
+            "spieler": "Gabriel Jesus",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 47,
+            "team": "gast",
+            "spieler": "Noni Madueke",
+            "stand_danach": "0:2"
+          },
+          {
+            "min": 88,
+            "team": "heim",
+            "spieler": "Jean-Philippe Mateta",
+            "stand_danach": "1:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Arsenal fuehrte 0:2 und gewann 1:2 - keine Drehung (fuehrende Seite gewann)"
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Arsenal/Arsenal",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Arsenal B-Elf",
+            "details": "vor CL-Final 30.05 vs PSG rotiert - gewann trotzdem 2:1 (Jesus+Madueke)"
+          },
+          {
+            "team": "heim",
+            "spieler": "Crystal Palace B-Elf",
+            "details": "vor Conference-Final 27.05 vs Rayo rotiert"
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "B-Elf-vs-B-Elf-Spiel (beide Europa-Finalisten) ging dennoch Ueber 2.5 + BTTS - die Tor-Markt-Wackel-Wette traf, anders als das fruehere defensive B-Elf-Bild. Spaet-Tor Mateta (88.) bestaetigt Spaet-Tor-Risiko bei B-Elf."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-24-tot-eve",
+      "liga": "Premier League",
+      "matchday": "38 (Schlusstag)",
+      "heim": "Tottenham Hotspur",
+      "gast": "Everton",
+      "anstoss": "2026-05-24T17:00:00+02:00",
+      "stadion": "Tottenham Hotspur Stadium, London",
+      "saison_kontext": {
+        "parallel_heim": "keine - Spurs Saison-Abschluss, kein Europa",
+        "parallel_gast": "keine - Everton Saison-Abschluss, kein Europa",
+        "saisonziel_heim": "Tottenham 17. = Abstiegs-Endspiel: bleibt drin bei Sieg ODER Remis (bessere Tordifferenz) ODER wenn West Ham nicht gewinnt. Maximaler Existenz-Druck zuhause unter De Zerbi.",
+        "saisonziel_gast": "Everton gesichertes Mittelfeld, ohne jeden Tabellen-Druck - Auslauf-Auswärtsspiel ohne Anreiz",
+        "motivations_asymmetrie": "Spurs unter vollem Abstiegs-Existenz-Druck (Heim), Everton ohne Anreiz -> Motivation klar pro Spurs. ABER Vorsicht: Spurs mit massivem Verletzungs-Cluster im Angriff (Romero, Kudus, Kulusevski, Xavi Simons, Odobert, Davies OUT), Richarlison faktisch einziger fitter Stürmer -> Klassen-/Qualitäts-Edge ist gedämpft. Druck garantiert nichts (Lesson 16.05 Heidenheim).",
+        "recovery_heim": "8 Tage seit MD37 - erholt, aber dünne Kaderdecke im Angriff",
+        "recovery_gast": "8 Tage seit MD37 - erholt",
+        "quellen": [
+          "https://www.premierleague.com/en/news/4324511",
+          "https://www.covers.com/soccer/tottenham-vs-everton-predictions-picks-odds-premier-league-sunday-may-24-2026",
+          "https://www.sportsgambler.com/betting-tips/football/tottenham-vs-everton-prediction-lineups-odds-2026-05-24/"
+        ]
+      },
+      "news": [
+        "Abstiegs-Endspiel für Spurs (17.): Sieg ODER Remis sichert den Klassenerhalt (bessere Tordifferenz ggü. West Ham); selbst eine Niederlage rettet, falls West Ham nicht gewinnt",
+        "Spurs-Verletzungscluster im Angriff bestätigt: Romero, Kudus, Kulusevski, Xavi Simons, Odobert, Davies OUT - Richarlison als einziger fitter Stürmer (traf am 19.05)",
+        "Everton mit eigenen Ausfällen (Grealish, Branthwaite, Gueye OUT), aber ohne Tabellen-Anreiz - reines Auslaufspiel",
+        "Quoten Aggregator-Stand: Spurs ~1.87 (-114, ~53%), Remis ~4.3, Everton ~4.1; Modell 53% Spurs / 23% Everton / 23% Remis - bei bet365 live prüfen",
+        "Lesson 16.05 (Existenz-Druck max 1 Outcome-Tipp) eingehalten: nur DC 1X, NICHT zusätzlich Sieg"
+      ],
+      "tipps": [
+        {
+          "id": "tot-eve-1",
+          "kategorie": "wackel",
+          "markt": "Doppelte Chance Tottenham oder Remis (1X)",
+          "quote": 1.35,
+          "edge_prozent": 4.0,
+          "begruendung": "Goldgrube DC 1X (20 Tipps / 83.3% / +6.2% ROI). Perfekter logischer Fit: Spurs SICHERN den Klassenerhalt bereits mit einem Remis (bessere Tordifferenz) -> das Tipp-Outcome (Sieg ODER Remis) deckt sich exakt mit dem, was Spurs zuhause unter Existenz-Druck erreichen WOLLEN, gegen ein anreizloses Everton. VALUE statt SAFE wegen Verletzungs-Cluster im Angriff (HR2-Subfilter-Vorsicht) + Schlusstag-Nervosität. Single-Outcome-Cap (Lesson 16.05): nur dieser eine Outcome-Tipp. Stake 1.0% x 550€ = 5,50€. Bei bet365 live prüfen. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
+          "faire_quote": 1.3,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 5.5,
+          "_saison_kontext_sanity_downgrade": true
+        },
+        {
+          "id": "tot-eve-2",
+          "kategorie": "wackel",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.9,
+          "edge_prozent": 2.0,
+          "begruendung": "Goldgrube Unter 2.5 (11 Tipps / 63.6% / +27.5% ROI). Nervöses Abstiegs-Endspiel + Spurs mit dünnem, dezimiertem Angriff + Everton ohne Offensiv-Anreiz -> tor-armes, vorsichtiges Spiel plausibel (Spurs reicht ein Remis -> Sicherheits-Modus). WACKEL, weil Spurs bei frühem Rückstand öffnen müssten. Passt zum LaLiga-Schlusstag-Unter-Pattern (Lesson 24.05: anreizlose/nervöse Schlusstag-Spiele bleiben tor-arm). Stake 0.5% x 550€ = 2,75€. Bei bet365 live prüfen.",
+          "faire_quote": 1.8,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 2.75
+        },
+        {
+          "id": "tot-eve-3",
+          "kategorie": "wackel",
+          "markt": "Richarlison trifft jederzeit",
+          "quote": 2.5,
+          "edge_prozent": 2.0,
+          "begruendung": "Goldgrube-Markt Torschützen (+24.7%), aber WACKEL: Richarlison ist Spurs' einziger fitter Stürmer (traf am 19.05 vs Chelsea) -> bündelt die Torgefahr auf sich, ABER dünne Zulieferung aus dem dezimierten Mittelfeld dämpft die Chancen-Qualität. Einwechslungs-Boost greift mangels fitter Stürmer-Alternative kaum. Kleiner Einsatz, Risiko-/Moonshot-tauglich. Stake 0.5% x 550€ = 2,75€. Bei bet365 live prüfen.",
+          "faire_quote": 2.3,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 2.75
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "1:0",
+        "halbzeit": "1:0",
+        "quelle": "WebSearch (ESPN/NBC Sports/Flashscore/VAVEL/Arsenal.com/NBA.com/football-italia) 24.-25.05.2026"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "tot-eve-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.35,
+          "kommentar": "Spurs 1:0 (Palhinha 43.) - Klassenerhalt gesichert, DC 1X durch",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "tot-eve-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.9,
+          "kommentar": "nur 1 Tor (1:0) -> Unter 2.5 JA",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "tot-eve-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Palhinha traf (43.), NICHT Richarlison; kein Einwechslungs-Boost",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "1:0",
+        "tore": [
+          {
+            "min": 43,
+            "team": "heim",
+            "spieler": "Joao Palhinha",
+            "stand_danach": "1:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "einseitig knapp, keine Drehung"
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Tottenham/Tottenham",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Abstiegs-Endspiel blieb tor-arm (1:0) - DC 1X + Unter 2.5 beide durch. Bestaetigt Goldgrube Unter 2.5 + Existenz-Druck-defensiv-Pattern (Lesson 24.05 LaLiga-Schlusstag).",
+          "Torschuetze war Mittelfeld-Joker-Profil (Palhinha 43.), nicht der einzige fitte Stuermer Richarlison - bei dezimiertem Angriff verteilt sich das Tor weg vom nominellen 9er."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-24-whu-lee",
+      "liga": "Premier League",
+      "matchday": "38 (Schlusstag)",
+      "heim": "West Ham United",
+      "gast": "Leeds United",
+      "anstoss": "2026-05-24T17:00:00+02:00",
+      "stadion": "London Stadium, London",
+      "saison_kontext": {
+        "parallel_heim": "keine - West Ham Saison-Abschluss",
+        "parallel_gast": "keine - Leeds Saison-Abschluss",
+        "saisonziel_heim": "West Ham 18. = Abstiegs-Endspiel, aber NUR Sieg + gleichzeitige Spurs-Niederlage rettet (ein Remis reicht NICHT) -> muss zwingend gewinnen, geht auf volles Risiko",
+        "saisonziel_gast": "Leeds 14., sicher, seit 8 Spielen ungeschlagen (4 Siege aus letzten 6) - in Topform, aber ohne Tabellen-Anreiz am Schlusstag",
+        "motivations_asymmetrie": "Asymmetrisch, aber zweischneidig: West Ham unter maximalem Muss-Sieg-Druck (Heim), Leeds ohne Anreiz aber in starker Form + unbeaten-Run. Druck hilft West Ham offensiv, macht aber hinten verwundbar -> offenes Spiel statt sicherer West-Ham-Sieg. Kein SAFE (Lesson 16.05 Existenz-Druck garantiert nichts).",
+        "recovery_heim": "8 Tage seit MD37 - erholt",
+        "recovery_gast": "8 Tage seit MD37 - erholt",
+        "quellen": [
+          "https://www.premierleague.com/en/news/4324511",
+          "https://www.covers.com/soccer/west-ham-vs-leeds-predictions-picks-odds-premier-league-sunday-may-24-2026",
+          "https://www.sportsgambler.com/betting-tips/football/west-ham-vs-leeds-prediction-lineups-odds-2026-05-24/"
+        ]
+      },
+      "news": [
+        "West Ham (18., 36 Pkt) muss zwingend gewinnen UND auf eine Spurs-Niederlage hoffen - ein Remis reicht zum Klassenerhalt NICHT",
+        "Leeds seit 8 Ligaspielen ungeschlagen (4 Siege aus 6), sicher auf Platz 14 - in Form, aber ohne Anreiz",
+        "West Ham geht auf volles Offensiv-Risiko -> offenes Spiel mit Kontertor-Gefahr für Leeds erwartet",
+        "Quoten Aggregator-Stand: West Ham ~1.77 (-130, ~56%), Remis ~3.7, Leeds ~4.4; Über-3.5-Linie von Tippdiensten gespielt - bei bet365 live prüfen",
+        "Tipp-Tendenz mehrerer Dienste: Leeds verlängert den unbeaten-Run (z.B. 2:1) - Vorsicht bei reinem West-Ham-Sieg"
+      ],
+      "tipps": [
+        {
+          "id": "whu-lee-1",
+          "kategorie": "wackel",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.9,
+          "edge_prozent": 2.0,
+          "begruendung": "Goldgrube Über 2.5 (+33.2% ROI). West Ham MUSS gewinnen und geht voll nach vorne -> öffnet das Spiel, Leeds (in Form, unbeaten) kann kontern. Klassisches Muss-Sieg-Setup mit Tor-Tendenz. WACKEL statt VALUE: West Hams schwache Saison-Offensive + Schlusstag-Nervosität dämpfen die Verlässlichkeit. Stake 0.5% x 550€ = 2,75€. Bei bet365 live prüfen.",
+          "faire_quote": 1.8,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 2.75
+        },
+        {
+          "id": "whu-lee-2",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.75,
+          "edge_prozent": 1.0,
+          "begruendung": "West Ham im All-Out-Modus + Leeds mit Konter-Qualität (8 Spiele ungeschlagen) -> beide treffen plausibel. WACKEL: hängt an West Hams durchwachsener Chancenverwertung; bei einem frühen West-Ham-Tor könnte Leeds anreizlos abschalten. Kein Hauptkombi-Bein. Stake 0.5% x 550€ = 2,75€. Bei bet365 live prüfen.",
+          "faire_quote": 1.7,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 2.75
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "3:0",
+        "halbzeit": "0:0",
+        "quelle": "WebSearch (ESPN/NBC Sports/Flashscore/VAVEL/Arsenal.com/NBA.com/football-italia) 24.-25.05.2026"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "whu-lee-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.9,
+          "kommentar": "3:0 -> Ueber 2.5 JA (Castellanos/Bowen/Wilson 2.HZ)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "whu-lee-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Leeds traf nicht (3:0) -> BTTS NEIN",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "3:0",
+        "tore": [
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Taty Castellanos",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Jarrod Bowen",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Callum Wilson",
+            "stand_danach": "3:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "einseitiger Heimsieg, keine Drehung"
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Unentschieden/West Ham",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "West Ham gewann 3:0 (alle Tore 2.HZ) und stieg TROTZDEM ab (Spurs gewann parallel). Muss-Sieg-Offensive-These (Ueber 2.5) traf, aber BTTS verfehlt - Leeds (anreizlos, in Form) schaltete ab statt zu kontern."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-24-nfo-bou",
+      "liga": "Premier League",
+      "matchday": "38 (Schlusstag)",
+      "heim": "Nottingham Forest",
+      "gast": "Bournemouth",
+      "anstoss": "2026-05-24T17:00:00+02:00",
+      "stadion": "City Ground, Nottingham",
+      "saison_kontext": {
+        "parallel_heim": "keine - Forest Saison-Abschluss",
+        "parallel_gast": "keine - Bournemouth Saison-Abschluss",
+        "saisonziel_heim": "Forest gesichertes Mittelfeld, ohne Tabellen-Druck - Auslauf-Heimspiel",
+        "saisonziel_gast": "Bournemouth 6. (56 Pkt), kämpft noch um Platz 5 = letzter CL-Platz: bei Nicht-Niederlage + Liverpool-Patzer wäre die erstmalige CL-Quali drin; in starker Form, erstmals Europa bereits sicher",
+        "motivations_asymmetrie": "Klare Bournemouth-Edge: konkretes CL-/Europa-Ziel + bessere Form + Auswärts-Favorit (~2.10 vs Forest ~3.10), während Forest ohne Anreiz spielt. Bournemouth gewann die letzten 2 PL-Duelle gegen Forest ohne Gegentor (u.a. 5:0). Kein Selbstwiderspruch - Bournemouth ist der motivierte Favorit.",
+        "recovery_heim": "8 Tage seit MD37 - erholt",
+        "recovery_gast": "8 Tage seit MD37 - erholt",
+        "quellen": [
+          "https://www.premierleague.com/en/news/4324511",
+          "https://www.dimers.com/news/nottingham-forest-vs-bournemouth-prediction-epl-sunday-05-24-2026-ac",
+          "https://en.wikipedia.org/wiki/Antoine_Semenyo"
+        ]
+      },
+      "news": [
+        "Bournemouth (6.) kann mit Nicht-Niederlage + Liverpool-Patzer erstmals die Champions League erreichen - hohe Motivation am Schlusstag",
+        "ROSTER-CHECK (Lesson 24.05 Vinicius-Falle): Antoine Semenyo längst zu Man City gewechselt (Jan 2026) - NICHT mehr Bournemouth. Stürmer in Form ist Junior Kroupi (19, 13 Ligatore, traf am 19.05 vs Man City), dazu Evanilson",
+        "Bournemouth gewann die letzten 2 PL-Duelle gegen Forest ohne Gegentor (inkl. 5:0)",
+        "Quoten Aggregator-Stand: Forest ~3.10 (21/10), Remis ~3.75, Bournemouth ~2.10 (11/10); BTTS ~59% projiziert; Kroupi Jederzeit ~3.0 - bei bet365 live prüfen",
+        "Forebet/Dimers sehen Bournemouth als Sieger (~47% Auswärtssieg-Wahrscheinlichkeit)"
+      ],
+      "tipps": [
+        {
+          "id": "nfo-bou-1",
+          "kategorie": "value",
+          "markt": "Doppelte Chance Bournemouth oder Remis (X2)",
+          "quote": 1.45,
+          "edge_prozent": 5.0,
+          "begruendung": "Goldgrube DC X2 (15 Tipps / 69.2% / +15.8% ROI). Bournemouth als motivierter Auswärts-Favorit (CL-Chance bei Nicht-Niederlage) gegen ein anreizloses Forest, dazu 2 H2H-Siege ohne Gegentor zuletzt. DC X2 deckt genau das, was Bournemouth braucht (Nicht-Niederlage). VALUE statt SAFE wegen Schlusstag-Varianz + Auswärtsspiel. DC-Cap: einziges DC dieses Spiels. Stake 1.5% x 550€ = 8,25€. Bei bet365 live prüfen.",
+          "faire_quote": 1.38,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 8.25
+        },
+        {
+          "id": "nfo-bou-2",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.8,
+          "edge_prozent": 2.0,
+          "begruendung": "BTTS ~59% projiziert. Bournemouth offensiv stark + Forest zuhause mit Heimchancen trotz Anreizlosigkeit -> beide treffen plausibel. WACKEL: Bournemouth ließ zuletzt 2x gegen Forest nichts zu (Clean-Sheet-Tendenz spricht teils gegen BTTS). Kleiner Einsatz, Risiko-Bein-tauglich. Stake 0.5% x 550€ = 2,75€. Bei bet365 live prüfen.",
+          "faire_quote": 1.72,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 2.75
+        },
+        {
+          "id": "nfo-bou-3",
+          "kategorie": "wackel",
+          "markt": "Junior Kroupi trifft jederzeit",
+          "quote": 3.0,
+          "edge_prozent": 3.0,
+          "begruendung": "Goldgrube Torschützen Jederzeit (+24.7% ROI) + Pflicht-Profil Auswärts-Favorit (Torschützen-Tipp auf Auswärts-Stürmer). Kroupi (19, 13 Ligatore, traf zuletzt am 19.05 vs Man City) ist Bournemouths Form-Stürmer nach Semenyo-Abgang. WACKEL wegen Quote 3.0 + Rotations-Möglichkeit im Sturmzentrum (Evanilson-Konkurrenz). Aufstellung verifizieren. Stake 0.5% x 550€ = 2,75€. Bei bet365 live prüfen.",
+          "faire_quote": 2.7,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 2.75,
+          "_aufstellungs_verifikation_pflicht": true
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "1:1",
+        "halbzeit": "1:0",
+        "quelle": "WebSearch (ESPN/NBC Sports/Flashscore/VAVEL/Arsenal.com/NBA.com/football-italia) 24.-25.05.2026"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "nfo-bou-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.45,
+          "kommentar": "1:1 Remis -> DC X2 (Bournemouth oder Remis) JA; Bournemouth 6. = Europa League",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "nfo-bou-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.8,
+          "kommentar": "beide trafen (Gibbs-White 34. / Tavernier 54.) -> BTTS JA",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "nfo-bou-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Kroupi spielte, traf nicht; kein Einwechslungs-Boost (nicht durch Torschuetzen-Ersatz abgeloest, Tavernier war regulaer auf dem Platz)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "1:1",
+        "tore": [
+          {
+            "min": 34,
+            "team": "heim",
+            "spieler": "Morgan Gibbs-White",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 54,
+            "team": "gast",
+            "spieler": "Marcus Tavernier",
+            "stand_danach": "1:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "kein 2-Tore-Vorsprung"
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Nottingham Forest/Unentschieden",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "DC X2 + BTTS durch, aber Bournemouth verpasste den CL-Coup (nur Remis -> Europa League als 6.). Kroupi (Form-Stuermer nach Semenyo-Abgang) blank - der Roster-Switch war korrekt (Semenyo traf am selben Tag fuer City!), aber der Ersatzname traf nicht."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-24-bri-mun",
+      "liga": "Premier League",
+      "matchday": "38 (Schlusstag)",
+      "heim": "Brighton & Hove Albion",
+      "gast": "Manchester United",
+      "anstoss": "2026-05-24T17:00:00+02:00",
+      "stadion": "Amex Stadium, Brighton",
+      "saison_kontext": {
+        "parallel_heim": "keine - Brighton Saison-Abschluss",
+        "parallel_gast": "keine - Manchester United Saison-Abschluss, kein Europa-Final",
+        "saisonziel_heim": "Brighton kämpft am Schlusstag noch um einen Europa-(League/Conference-)Platz und braucht dafür Punkte -> reales Ziel, Heimvorteil",
+        "saisonziel_gast": "Manchester United bereits CL-qualifiziert (einer der 4 englischen CL-Plätze) -> in der Liga NICHTS mehr zu holen, Auslauf-/Möglich-Rotation",
+        "motivations_asymmetrie": "Edge pro Brighton: konkretes Europa-Ziel + Heimvorteil gegen ein bereits qualifiziertes, anreizloses United. Motivations-Asymmetrie klar, kein Coinflip - aber United-Restqualität dämpft das Edge auf VALUE-Niveau, nicht SAFE.",
+        "recovery_heim": "8 Tage seit MD37 - erholt",
+        "recovery_gast": "8 Tage seit MD37 - erholt",
+        "quellen": [
+          "https://www.premierleague.com/en/news/4324511",
+          "https://www.dimers.com/news/brighton-vs-manchester-united-prediction-epl-sunday-05-24-2026-ac",
+          "https://www.espn.com/soccer/schedule/_/league/eng.1"
+        ]
+      },
+      "news": [
+        "Brighton (~1.90 Favorit) braucht Punkte für einen Europa-Platz; Manchester United bereits CL-qualifiziert -> ohne Liga-Anreiz",
+        "Statistik-Modelle: ~48% Brighton-Sieg / ~29% United / ~23% Remis",
+        "United-Rotation/Auslauf-Modus möglich, da das Saisonziel (CL) bereits erreicht ist",
+        "Quoten Aggregator-Stand: Brighton ~1.90 (-111), Remis ~4.0, United ~3.70 - bei bet365 live prüfen"
+      ],
+      "tipps": [
+        {
+          "id": "bri-mun-1",
+          "kategorie": "value",
+          "markt": "Doppelte Chance Brighton oder Remis (1X)",
+          "quote": 1.5,
+          "edge_prozent": 4.0,
+          "begruendung": "Goldgrube DC 1X (83.3% / +6.2% ROI). Brighton als motivierter Heim-Favorit (Europa-Ziel) gegen ein bereits CL-qualifiziertes, anreizloses United (Rotations-/Auslauf-Risiko für die Gäste). DC 1X (Brighton gewinnt oder Remis) puffert die Schlusstag-Varianz ab. VALUE statt SAFE: United-Restqualität + PL nicht in liga_goldgruben. DC-Cap: einziges DC dieses Spiels. Stake 1.0% x 550€ = 5,50€. Bei bet365 live prüfen.",
+          "faire_quote": 1.42,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 5.5
+        },
+        {
+          "id": "bri-mun-2",
+          "kategorie": "wackel",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.85,
+          "edge_prozent": 1.0,
+          "begruendung": "Goldgrube Über 2.5 (+33.2%). Brighton offensiv + ein anreizloses, offenes United -> Tor-Tendenz. WACKEL, weil ein motiviertes Brighton bei Führung auch kontrolliert zumachen kann und United-Rotation das Niveau senkt. Kleiner Einsatz. Stake 0.5% x 550€ = 2,75€. Bei bet365 live prüfen.",
+          "faire_quote": 1.78,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 2.75
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "0:3",
+        "halbzeit": "0:2",
+        "quelle": "WebSearch (ESPN/NBC Sports/Flashscore/VAVEL/Arsenal.com/NBA.com/football-italia) 24.-25.05.2026"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "bri-mun-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Brighton verlor 0:3 - anreizloses United (Carrick-Debuet als Dauer-Coach) gewann klar; Motivations-Asymmetrie-These widerlegt",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "bri-mun-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.85,
+          "kommentar": "3 Tore (0:3) -> Ueber 2.5 JA",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:2",
+        "endstand": "0:3",
+        "tore": [
+          {
+            "min": null,
+            "team": "gast",
+            "spieler": "Patrick Dorgu (Assist B.Fernandes)",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": null,
+            "team": "gast",
+            "spieler": "Bryan Mbeumo",
+            "stand_danach": "0:2"
+          },
+          {
+            "min": null,
+            "team": "gast",
+            "spieler": "Bruno Fernandes",
+            "stand_danach": "0:3"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "einseitig, keine Drehung"
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Manchester United/Manchester United",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Manchester United",
+            "details": "bereits CL-qualifiziert/anreizlos, Carrick-Debuet als Dauer-Coach - gewann trotzdem 3:0 deutlich"
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "MOTIVATIONS-ASYMMETRIE WIDERLEGT: das 'anreizlose, schon-qualifizierte' United (Auswaerts) zerlegte das 'motivierte Heim-Favorit mit Europa-Ziel' Brighton 0:3. DC 1X (Safe-Kombi-Bein) tot. Neuer Trainer-Bounce (Carrick-Debuet) + Bruno-Fernandes-Rekord-Motivation schlugen die Tabellen-Anreiz-Logik."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-24-sun-che",
+      "liga": "Premier League",
+      "matchday": "38 (Schlusstag)",
+      "heim": "Sunderland",
+      "gast": "Chelsea",
+      "anstoss": "2026-05-24T17:00:00+02:00",
+      "stadion": "Stadium of Light, Sunderland",
+      "saison_kontext": {
+        "parallel_heim": "keine - Sunderland Saison-Abschluss",
+        "parallel_gast": "keine - Chelsea Saison-Abschluss, kein Europa-Final",
+        "saisonziel_heim": "Sunderland 10. (51 Pkt), rechnerisch noch im Europa-/Conference-Rennen, aber auf Patzer von Bournemouth/Brighton angewiesen -> Heim-Motivation vorhanden",
+        "saisonziel_gast": "Chelsea 9. (52 Pkt), ebenfalls noch rechnerisch im Europa-Rennen, aber auf fremde Hilfe angewiesen; zuletzt formschwach, aber Sieg vs Spurs am 19.05",
+        "motivations_asymmetrie": "Beide Teams haben (rechnerische) Europa-Restchancen -> beidseitige Motivation, eher Coinflip/leichter Chelsea-Edge per Quote (~2.00). Kein klarer SAFE-Spot (Lesson: Konsens/Klassen-Edge am Schlusstag unzuverlässig).",
+        "recovery_heim": "8 Tage seit MD37 - erholt",
+        "recovery_gast": "8 Tage seit MD37 - erholt",
+        "quellen": [
+          "https://www.premierleague.com/en/news/4324511",
+          "https://www.dimers.com/news/sunderland-vs-chelsea-prediction-epl-sunday-05-24-2026-ac",
+          "https://www.fanduel.com/research/premier-league-picks-for-the-final-day-epl-best-bets-for-matchweek-38-may-24-2026"
+        ]
+      },
+      "news": [
+        "Beide noch (rechnerisch) im Europa-Rennen: Chelsea 9. (52), Sunderland 10. (51) - aber auf Patzer von Bournemouth (56)/Brighton (53) angewiesen",
+        "Chelsea zuletzt formschwach (lange Sieglos-Serie im Frühjahr), aber 2:1-Sieg vs Tottenham am 19.05",
+        "Quoten Aggregator-Stand: Chelsea ~2.00 (+100), Remis ~3.6, Sunderland ~3.5 (+250) - bei bet365 live prüfen",
+        "Coinflip-Charakter -> kein SAFE; höchstens Tor-Markt-Wackel"
+      ],
+      "tipps": [
+        {
+          "id": "sun-che-1",
+          "kategorie": "wackel",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.95,
+          "edge_prozent": 1.0,
+          "begruendung": "Goldgrube Über 2.5 (+33.2%). Beide mit (Rest-)Anreiz und müssen für die Europa-Restchance offensiv agieren -> Tor-Tendenz. WACKEL: Coinflip-Spiel ohne Klassen-Edge, Chelsea-Formdelle -> nicht verlässlich genug für VALUE. Stake 0.5% x 550€ = 2,75€. Bei bet365 live prüfen.",
+          "faire_quote": 1.88,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 2.75
+        },
+        {
+          "id": "sun-che-2",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.8,
+          "edge_prozent": 1.0,
+          "begruendung": "Beidseitiger Offensiv-Anreiz (Europa-Restchance) + Sunderland-Heimstärke gegen ein defensiv anfälliges Chelsea -> BTTS plausibel. WACKEL wegen Coinflip-Charakter. Kein Hauptkombi-Bein. Stake 0.5% x 550€ = 2,75€. Bei bet365 live prüfen.",
+          "faire_quote": 1.72,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 2.75
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "2:1",
+        "halbzeit": "1:0",
+        "quelle": "WebSearch (ESPN/NBC Sports/Flashscore/VAVEL/Arsenal.com/NBA.com/football-italia) 24.-25.05.2026"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "sun-che-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.95,
+          "kommentar": "3 Tore (2:1) -> Ueber 2.5 JA",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "sun-che-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.8,
+          "kommentar": "beide trafen (Hume 25. / Palmer 56.) -> BTTS JA",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "2:1",
+        "tore": [
+          {
+            "min": 25,
+            "team": "heim",
+            "spieler": "Trai Hume",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 50,
+            "team": "heim",
+            "spieler": "Malo Gusto (Eigentor)",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 56,
+            "team": "gast",
+            "spieler": "Cole Palmer",
+            "stand_danach": "2:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Sunderland fuehrte 2:0, Chelsea kam nur auf 2:1 heran - keine Drehung"
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Sunderland/Sunderland",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Beidseitiger Europa-Rest-Anreiz lieferte Tore (Ueber 2.5 + BTTS durch). Chelsea ab 62. in Unterzahl (Fofana Gelb-Rot) - Sunderland zog Europa-Quali (erstmals seit 53 Jahren). Coinflip-Wackel zahlte sich diesmal aus."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-24-ful-new",
+      "liga": "Premier League",
+      "matchday": "38 (Schlusstag)",
+      "heim": "Fulham",
+      "gast": "Newcastle United",
+      "anstoss": "2026-05-24T17:00:00+02:00",
+      "stadion": "Craven Cottage, London",
+      "saison_kontext": {
+        "parallel_heim": "keine - Fulham Saison-Abschluss",
+        "parallel_gast": "keine - Newcastle Saison-Abschluss",
+        "saisonziel_heim": "Fulham gesichertes Mittelfeld, ohne Tabellen-Druck; möglicher Abschied von Trainer Marco Silva -> emotionales, freies Spiel erwartet",
+        "saisonziel_gast": "Newcastle gesicherte Platzierung ohne Schlusstag-Druck - Auslauf-Auswärtsspiel",
+        "motivations_asymmetrie": "Kein klares Edge - beide ohne Tabellen-Druck (Dead-Rubber-Charakter). Erwartung: offenes, lockeres Spiel (Silva-Abschiedsstimmung), aber Ergebnis sportlich irrelevant -> nur Tor-Markt-Wackel.",
+        "recovery_heim": "8 Tage seit MD37 - erholt",
+        "recovery_gast": "8 Tage seit MD37 - erholt",
+        "quellen": [
+          "https://www.premierleague.com/en/news/4324511",
+          "https://www.fanduel.com/research/premier-league-picks-for-the-final-day-epl-best-bets-for-matchweek-38-may-24-2026",
+          "https://www.espn.com/soccer/schedule/_/league/eng.1"
+        ]
+      },
+      "news": [
+        "Wenig auf dem Spiel, mögliches Abschiedsspiel von Fulham-Coach Marco Silva -> beide Teams dürften mit Freiheit aufspielen",
+        "Mehrere Tippdienste backen Über 3.5 Tore wegen des offenen, drucklosen Charakters",
+        "Quoten Aggregator-Stand: offenes Spiel, Über-Linien populär - bei bet365 live prüfen"
+      ],
+      "tipps": [
+        {
+          "id": "ful-new-1",
+          "kategorie": "wackel",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.75,
+          "edge_prozent": 1.0,
+          "begruendung": "Goldgrube Über 2.5 (+33.2%). Druckloses Dead-Rubber mit Abschiedsstimmung (Silva) -> offenes Spiel, mehrere Dienste spielen sogar Über 3.5. WACKEL: kein Anreiz heißt auch, dass Intensität fehlen kann (zähes Auslaufspiel möglich). Ich nehme das sicherere Über 2.5. Stake 0.5% x 550€ = 2,75€. Bei bet365 live prüfen.",
+          "faire_quote": 1.68,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 2.75
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "2:0",
+        "halbzeit": null,
+        "quelle": "WebSearch (ESPN/NBC Sports/Flashscore/VAVEL/Arsenal.com/NBA.com/football-italia) 24.-25.05.2026"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "ful-new-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "nur 2 Tore (2:0) -> Ueber 2.5 verfehlt; Dead-Rubber blieb tor-arm trotz Abschiedsstimmung",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": null,
+        "endstand": "2:0",
+        "tore": [
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Issa Diop",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Tom Cairney",
+            "stand_danach": "2:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "einseitig, keine Drehung"
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": null,
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Dead-Rubber (Silva-Abschied) blieb mit 2:0 UNTER 2.5 - die 'druckloses Spiel = offen/torreich'-These traf nicht. Bestaetigt: anreizlose Dead-Rubber sind tor-Markt-unzuverlaessig (eher Unter)."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-24-bur-wol",
+      "liga": "Premier League",
+      "matchday": "38 (Schlusstag)",
+      "heim": "Burnley",
+      "gast": "Wolverhampton Wanderers",
+      "anstoss": "2026-05-24T17:00:00+02:00",
+      "stadion": "Turf Moor, Burnley",
+      "saison_kontext": {
+        "parallel_heim": "keine - Burnley Saison-Abschluss",
+        "parallel_gast": "keine - Wolves Saison-Abschluss",
+        "saisonziel_heim": "Burnley bereits abgestiegen (Abstieg fix) - reines Dead-Rubber-Heimspiel, Abschied der Saison vor eigenem Publikum",
+        "saisonziel_gast": "Wolves bereits abgestiegen (Abstieg fix) - Dead-Rubber-Auswärtsspiel",
+        "motivations_asymmetrie": "Beide abgestiegen, KEIN Tabellen-Anreiz auf beiden Seiten = klassisches Dead Rubber. Kein Edge, kein SAFE/VALUE - reines Beobachtungs-/Spaß-Spiel. Nur Tor-Markt-Wackel oder Moonshot-Bein.",
+        "recovery_heim": "8 Tage seit MD37 - erholt",
+        "recovery_gast": "8 Tage seit MD37 - erholt",
+        "quellen": [
+          "https://www.premierleague.com/en/news/4324511",
+          "https://www.espn.com/soccer/schedule/_/league/eng.1",
+          "https://www.tntsports.co.uk/football/premier-league/2025-2026/calendar-results.shtml"
+        ]
+      },
+      "news": [
+        "Burnley und Wolves beide bereits abgestiegen -> Dead Rubber ohne sportliche Bedeutung",
+        "Abgestiegene Teams am Schlusstag oft befreit/offen -> Tor-Tendenz möglich, aber unzuverlässig (kann auch lustlos sein)",
+        "Quoten Aggregator-Stand: ausgeglichenes Spiel - bei bet365 live prüfen"
+      ],
+      "tipps": [
+        {
+          "id": "bur-wol-1",
+          "kategorie": "wackel",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.6,
+          "edge_prozent": 1.0,
+          "begruendung": "Goldgrube Über 2.5 (+33.2%). Zwei abgestiegene Teams spielen am Schlusstag oft befreit/offen ohne defensive Verbissenheit -> Tor-Tendenz. WACKEL: Dead Rubber kann ebenso lustlos/tor-arm verlaufen, das Ergebnis ist beiden egal. Nur kleiner Einsatz / Moonshot-Bein. Stake 0.5% x 550€ = 2,75€. Bei bet365 live prüfen.",
+          "faire_quote": 1.55,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 2.75
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "1:1",
+        "halbzeit": "0:1",
+        "quelle": "WebSearch (ESPN/NBC Sports/Flashscore/VAVEL/Arsenal.com/NBA.com/football-italia) 24.-25.05.2026"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "bur-wol-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "nur 2 Tore (1:1) -> Ueber 2.5 verfehlt; Dead-Rubber blieb tor-arm",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "1:1",
+        "tore": [
+          {
+            "min": null,
+            "team": "gast",
+            "spieler": "Adam Armstrong (Elfmeter)",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Zian Flemming",
+            "stand_danach": "1:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "kein 2-Tore-Vorsprung"
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Wolves/Unentschieden",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Zwei abgestiegene Teams (Dead Rubber) -> nur 1:1, UNTER 2.5. Die 'abgestiegen = befreit/offen'-These traf nicht; Dead-Rubber tendierte tor-arm (analog Fulham-Newcastle)."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-24-tor-juv",
+      "liga": "Serie A",
+      "matchday": "38 (Schlusstag)",
+      "heim": "Torino",
+      "gast": "Juventus",
+      "anstoss": "2026-05-24T20:45:00+02:00",
+      "stadion": "Stadio Olimpico Grande Torino, Turin",
+      "saison_kontext": {
+        "parallel_heim": "keine - Torino Saison-Abschluss",
+        "parallel_gast": "keine - Juventus Saison-Abschluss",
+        "saisonziel_heim": "Torino gesichertes Mittelfeld, ohne Tabellen-Druck - aber Derby della Mole gegen den Erzrivalen = maximale emotionale Motivation, Spielverderber-Rolle",
+        "saisonziel_gast": "Juventus im Fernduell um den letzten CL-Platz -> letztes Saisonspiel ist ein Muss-Sieg im Derby; höchste Motivation + Klassen-Edge",
+        "motivations_asymmetrie": "Juve hat das konkrete CL-Ziel (Muss-Sieg) + Klassen-Edge (~1.41), Torino spielt um Derby-Ehre/Spielverderber. Edge pro Juventus, ABER Derby-Emotionen + Schlusstag-Varianz machen einen Spielverderber-Torino nie ausgeschlossen.",
+        "recovery_heim": "8 Tage seit MD37 - erholt",
+        "recovery_gast": "8 Tage seit MD37 - erholt",
+        "quellen": [
+          "https://www.legaseriea.it/it/serie-a",
+          "https://www.sportsgambler.com/betting-tips/football/torino-vs-juventus-prediction-lineups-odds-2026-05-24/",
+          "https://www.flashscore.com/match/football/juventus-C06aJvIB/torino-MZFZnvX4/odds/"
+        ]
+      },
+      "news": [
+        "🔍 BEOBACHTUNGS-LIGA: Serie A 30-Tage-ROI -46% -> nur Analyse, NICHT in Einzeltipps/Hauptkombi (nur Moonshot-Bein ab Quote 5.0)",
+        "Derby della Mole am Serie-A-Schlusstag: Juventus braucht einen Sieg für den letzten CL-Platz, Torino spielt um Derby-Ehre/Spielverderber-Rolle",
+        "Quoten Aggregator-Stand: Juventus ~1.41 (72%), Remis ~4.6, Torino ~7.90 - bei bet365 live prüfen",
+        "Drehungs-Cluster-Warnung (Lesson 24.05): Derby-Emotion + Schlusstag-Varianz -> Juve-Sieg trotz Klassen-Edge nicht garantiert"
+      ],
+      "tipps": [
+        {
+          "id": "tor-juv-1",
+          "kategorie": "wackel",
+          "markt": "🔍 Beobachtung - Sieg Torino (Derby-Spielverderber)",
+          "quote": 7.9,
+          "edge_prozent": null,
+          "begruendung": "🔍 BEOBACHTUNGS-LIGA (Serie A 30d ROI -46%) - NICHT in Einzeltipps/Hauptkombi, nur als Moonshot-Spaß-Bein (Quote >=5.0 erfüllt). Torino @7.90 als Derby-Spielverderber gegen ein Juventus unter Muss-Sieg-Druck: Derby della Mole + Schlusstag-Emotion sind die einzige realistische Upset-Quelle. Reiner Lotterie-Charakter, Mini-Einsatz nur im Moonshot. Bei bet365 live prüfen.",
+          "faire_quote": 7.0,
+          "empfohlener_einsatz_prozent": 0.0,
+          "einsatz_euro": 0.0
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "2:2",
+        "halbzeit": "0:1",
+        "quelle": "WebSearch (ESPN/NBC Sports/Flashscore/VAVEL/Arsenal.com/NBA.com/football-italia) 24.-25.05.2026"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "tor-juv-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "2:2 Remis - Torino-Comeback aus 0:2 reichte nur zum Remis, kein Sieg",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "2:2",
+        "tore": [
+          {
+            "min": null,
+            "team": "gast",
+            "spieler": "Dusan Vlahovic",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 54,
+            "team": "gast",
+            "spieler": "Dusan Vlahovic",
+            "stand_danach": "0:2"
+          },
+          {
+            "min": 60,
+            "team": "heim",
+            "spieler": "Cesare Casadei",
+            "stand_danach": "1:2"
+          },
+          {
+            "min": 84,
+            "team": "heim",
+            "spieler": "Che Adams",
+            "stand_danach": "2:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": true,
+          "details": "Juventus fuehrte 0:2 (54., Vlahovic-Doppelpack), Torino glich im Derby della Mole zum 2:2 aus (Casadei 60., Adams 84.). Juve (CL-Jagd, dann auf Platz 5 verpasst) verspielte 2-Tore-Vorsprung am Saison-Schlusstag."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Juventus/Unentschieden",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "DREHUNG: Juventus blew 0:2 zum 2:2 - exakt das Champion/Favorit-Saisonende-Comeback-Cluster (Lesson 24.05 Bologna/Barca). Derby-Emotion + Juve-CL-Verpasst-zur-HZ liessen den Favoriten nach. Beobachtungs-Liga Serie A: Tor-Markt (Ueber 2.5/3.5) waere durchgelaufen, aber Boykott-Regel (Lesson 23.05) verhinderte Einsatz."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-24-nap-udi",
+      "liga": "Serie A",
+      "matchday": "38 (Schlusstag)",
+      "heim": "Napoli",
+      "gast": "Udinese",
+      "anstoss": "2026-05-24T18:00:00+02:00",
+      "stadion": "Stadio Diego Armando Maradona, Neapel",
+      "saison_kontext": {
+        "parallel_heim": "keine - Napoli Saison-Abschluss",
+        "parallel_gast": "keine - Udinese Saison-Abschluss",
+        "saisonziel_heim": "Napoli bereits CL-qualifiziert (Tabellenspitze hinter Meister Inter) -> sportlich nichts mehr offen; es ist Antonio Contes LETZTES Spiel als Napoli-Trainer + Abschied am Maradona -> emotionale Motivation, aber Feier-/Auslauf-Charakter",
+        "saisonziel_gast": "Udinese gesichertes Mittelfeld, ohne Druck - Auslauf-Auswärtsspiel",
+        "motivations_asymmetrie": "Napoli haushoher Favorit (~1.45, 69%) im Conte-Abschied gegen ein anreizloses Udinese - Edge pro Napoli, aber Saison-Auslauf + bereits erreichtes Ziel = mögliche Lockerheit/Drehungs-Risiko (Lesson 24.05 Champion-Saisonende).",
+        "recovery_heim": "8 Tage seit MD37 - erholt",
+        "recovery_gast": "8 Tage seit MD37 - erholt",
+        "quellen": [
+          "https://www.legaseriea.it/it/serie-a",
+          "https://www.sportsgambler.com/betting-tips/football/napoli-vs-udinese-prediction-lineups-odds-2026-05-24/"
+        ]
+      },
+      "news": [
+        "🔍 BEOBACHTUNGS-LIGA: Serie A 30-Tage-ROI -46% -> nur Analyse, NICHT in Einzeltipps/Hauptkombi (nur Moonshot-Bein ab Quote 5.0)",
+        "Antonio Contes letztes Spiel als Napoli-Trainer + Abschied am Maradona -> emotionaler Rahmen, Napoli bereits CL-qualifiziert",
+        "Rasmus Højlund Napolis Toptorschütze (11 Tore), Jederzeit ~+135 (~2.35); Lukaku saisonbeendet/OUT, Neres fraglich (Knöchel), Politano zurück aus Sperre",
+        "Quoten Aggregator-Stand: Napoli ~1.45 (69%), Remis ~4.5, Udinese ~7.0 (13%) - bei bet365 live prüfen"
+      ],
+      "tipps": [
+        {
+          "id": "nap-udi-1",
+          "kategorie": "wackel",
+          "markt": "🔍 Beobachtung - Sieg Udinese (Auslauf-Upset)",
+          "quote": 7.0,
+          "edge_prozent": null,
+          "begruendung": "🔍 BEOBACHTUNGS-LIGA (Serie A 30d ROI -46%) - NICHT in Einzeltipps/Hauptkombi, nur als Moonshot-Spaß-Bein (Quote >=5.0 erfüllt). Udinese @7.0 als Auslauf-Upset: Napoli bereits qualifiziert + Conte-Abschieds-Feiercharakter -> theoretische Lockerheit, aber haushoher Favorit. Reiner Lotterie-Charakter, Mini-Einsatz nur im Moonshot. Bei bet365 live prüfen.",
+          "faire_quote": 6.5,
+          "empfohlener_einsatz_prozent": 0.0,
+          "einsatz_euro": 0.0
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "1:0",
+        "halbzeit": null,
+        "quelle": "WebSearch (ESPN/NBC Sports/Flashscore/VAVEL/Arsenal.com/NBA.com/football-italia) 24.-25.05.2026"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "nap-udi-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Napoli 1:0 (Hojlund), Udinese mit 10 Mann - kein Upset",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": null,
+        "endstand": "1:0",
+        "tore": [
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Rasmus Hojlund",
+            "stand_danach": "1:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "knapper Heimsieg, keine Drehung"
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": null,
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Udinese",
+            "details": "Platzverweis (10 Mann) - half Napoli zum knappen Conte-Abschiedssieg"
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Conte-Abschied 1:0 mit Hojlund-Tor (Toptorschuetze 12 Tore) + Udinese-Rot - tor-arm trotz Favorit. Beobachtungs-Liga-Tor-Boykott (Lesson 23.05) war richtig: Unter 2.5/Spielertor-Markt waere gemischt gelaufen."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-24-sas-okc",
+      "liga": "NBA Playoffs Western Conference Finals, Game 4",
+      "matchday": "WCF G4",
+      "stage": "CONF_FINAL",
+      "heim": "San Antonio Spurs",
+      "gast": "Oklahoma City Thunder",
+      "anstoss": "2026-05-25T02:30:00+02:00",
+      "stadion": "Frost Bank Center, San Antonio",
+      "saison_kontext": {
+        "parallel_heim": "keine - reine Playoff-Serie, G4 zwei Tage nach G3 (22.05)",
+        "parallel_gast": "keine - reine Playoff-Serie, G4 zwei Tage nach G3",
+        "saisonziel_heim": "Spurs (2. Seed) liegen in der Serie 1-2 zurück, Heim-G4 = Muss-Sieg zum 2-2-Ausgleich vor dem Wechsel zurück nach OKC; Wembanyama-getragen",
+        "saisonziel_gast": "Thunder (1. Seed) führen 2-1 und wollen mit dem dritten Sieg in Folge auf 3-1 stellen; brutale Bank-Tiefe (61 Pkt/Spiel von der Bank)",
+        "motivations_asymmetrie": "Beide hochmotiviert (Conference-Final), Spurs unter Heim-Muss-Sieg-Druck, OKC mit Serien-Momentum + Bank-Asymmetrie (+53 Pkt Bench in G3). Knappes Spiel erwartet (Spurs ~-122 / OKC ~+102) -> KEIN SAFE (NBA-Playoff-Verbot HR16/Hebel B).",
+        "recovery_heim": "2 Tage seit G3 (22.05)",
+        "recovery_gast": "2 Tage seit G3 (22.05)",
+        "quellen": [
+          "https://www.nba.com/playoffs/2026/west-final",
+          "https://www.espn.com/nba/story/_/id/48771425/2026-nba-playoffs-conference-finals-takeaways-thunder-spurs-knicks-cavaliers"
+        ]
+      },
+      "news": [
+        "NBA NIE SAFE (HR16/Hebel B); Player-Punkte raus aus Einzeltipps - hier nur als Moonshot-/Risiko-Bein zulässig",
+        "WCF-Total-Über ist aktuelle Goldgrube: alle 3 bisherigen WCF-Spiele gingen Über 217.5 (G1 125:118 2OT = 243, G3 123:108 = 231); Linie jetzt 219.5",
+        "Serie 1-2 für die Spurs: SGA 26 Pkt + 12 Assists in G3, Wembanyama 26 Pkt (G2 21 -> G3 26 Snap-Back nach Defense-Adjust)",
+        "OKC-Bank explodierte in G3 (76 Pkt vs Spurs-Bank 23) - Fox/Harper-Ausfälle bei San Antonio belasten die Rotation",
+        "Quoten Aggregator-Stand: Spurs ~1.85 ML / OKC ~2.00 ML; O/U 219.5 - bei bet365 live prüfen"
+      ],
+      "tipps": [
+        {
+          "id": "sas-okc-1",
+          "kategorie": "value",
+          "markt": "Über 219.5 Punkte (Spiel-Total)",
+          "quote": 1.9,
+          "edge_prozent": 4.0,
+          "begruendung": "WCF-Total-Über ist die laufende Goldgrube: alle 3 bisherigen Serien-Spiele über 217.5 (G1 243 inkl. 2OT, G2 >217.5, G3 231). Zwei elitäre Offensiven (SGA + Wembanyama je 26 in G3) + OKC-Bank-Tempo (61 Pkt/Spiel) + Spurs Heim-Muss-Sieg-Tempo -> Über-Tendenz auch bei Linie 219.5. VALUE statt SAFE: NBA nie SAFE (HR16), und ein vorsichtiges enges Muss-Sieg-Spiel der Spurs könnte das Tempo drosseln. Stake 1.0% x 550€ = 5,50€. Bei bet365 live prüfen.",
+          "faire_quote": 1.8,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 5.5
+        },
+        {
+          "id": "sas-okc-2",
+          "kategorie": "wackel",
+          "markt": "Spieler-Punkte (Risiko/Moonshot): Victor Wembanyama Über 24.5 Punkte",
+          "quote": 1.85,
+          "edge_prozent": 2.0,
+          "begruendung": "NUR Risiko-/Moonshot-Bein (Player-Punkte-Einzel-Boykott HR16). Lesson 23.05 (Star-G3-Snap-Back-Erlaubnis): Wembanyama als Stamm-Volume-Star nach G2-Defense-Adjust (21 Pkt) snappte in G3 auf 26 zurück -> Linie 24.5 nahe Saison-Schnitt ist eine Markt-Unterschätzung, Heim-Muss-Sieg lädt zu hohem Volumen ein. Stamm-Star (kein Sekundär-Volume-Subfilter). NICHT als Einzeltipp. Bei bet365 live prüfen.",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 0.0,
+          "einsatz_euro": 0.0
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "103:82",
+        "halbzeit": "SAS fuehrte (OKC nur 38 Pkt 1.HZ)",
+        "quelle": "WebSearch (ESPN/NBC Sports/Flashscore/VAVEL/Arsenal.com/NBA.com/football-italia) 24.-25.05.2026"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "sas-okc-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "nur 185 Punkte (103:82) -> Ueber 219.5 KLAR verfehlt; Spurs-Defensiv-Schlacht (OKC 33% FG/18% 3P), WCF-Ueber-Goldgrube gebrochen",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "sas-okc-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.85,
+          "kommentar": "Wembanyama 33 Punkte -> Ueber 24.5 JA (Stamm-Volume-Star, nur Moonshot-Bein)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": null,
+        "endstand": "103:82",
+        "tore": [],
+        "drehung": {
+          "war_drehung": false,
+          "details": "San Antonio gewann alle 4 Viertel, fuehrte die letzten 20 Min mit 15+ - keine Drehung, Wire-to-wire-Blowout"
+        },
+        "markt_resultate": {
+          "total_punkte": 185,
+          "ueber_219_5": false,
+          "ueber_217_5": false,
+          "spread_endstand": "San Antonio -21",
+          "btts": null,
+          "ueber_2_5": null,
+          "ueber_3_5": null,
+          "halbzeit_endstand": "San Antonio Spurs (OKC nur 38 Pkt 1.HZ = 2.-niedrigste Halbzeit in 4 Saisons)"
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "De'Aaron Fox",
+            "details": "trotz Vorab-Ausfall-Annahme gespielt: 12 Pkt/10 Reb/5 Ast - Spurs-Rotation doch tiefer als im Dossier angenommen"
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "WCF-TOTAL-UEBER-GOLDGRUBE GEBROCHEN: nach G1 243 / G2 >217 / G3 231 endete G4 bei nur 185 Punkten - SAS-Defensiv-Schlacht (OKC 33% FG, 18% 3P, 17 TO). Erster WCF-Total deutlich UNTER. Wembanyama 33 (Snap-Back-Erlaubnis bestaetigt), SGA auf 19 gedrosselt.",
+          "Muss-Sieg-Heim-Team (Spurs 1-2 zurueck) drosselte das Tempo via Defense statt offenem Schlagabtausch - die 'Decider/Druck = Pace hoch'-Annahme kippte erneut (vgl. Lesson 02.05 G6-Defensiv-Schlachten)."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "et-1",
+      "spiel_id": "2026-05-24-mci-avl",
+      "tipp_id": "mci-avl-1",
+      "kategorie": "value",
+      "markt": "Man City - Aston Villa: Erling Haaland trifft jederzeit",
+      "quote": 1.7,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "Top-Pick. Goldgrube Torschützen Jederzeit (+24.7% ROI) + Haaland Topform (5 Ligaspiele in Folge getroffen) + Penalty-Taker eines <=1.40-Favoriten (Lesson 24.05) + Pep-Abschiedsspiel-Offensive gegen anreizloses Villa. Aufstellung verifizieren.",
+      "rang": 1
+    },
+    {
+      "id": "et-2",
+      "spiel_id": "2026-05-24-mci-avl",
+      "tipp_id": "mci-avl-2",
+      "kategorie": "value",
+      "markt": "Man City - Aston Villa: Sieg Manchester City",
+      "quote": 1.34,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "City haushoher Heim-Favorit im Pep-Abschied (volle Motivation) gegen ein via EL-Titel schon CL-qualifiziertes, anreizloses Villa im Feier-/Rotations-Modus. VALUE (Hebel C + Schlusstag-Varianz).",
+      "rang": 2
+    },
+    {
+      "id": "et-3",
+      "spiel_id": "2026-05-24-liv-bre",
+      "tipp_id": "liv-bre-1",
+      "kategorie": "value",
+      "markt": "Liverpool - Brentford: Mohamed Salah trifft jederzeit",
+      "quote": 1.7,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "Top-Pick. Goldgrube Torschützen (+24.7%) + Salah 7 Tore in 8 vs Brentford + Marktführer + Anfield-Heimvorteil mit CL-Ziel. Aufstellung verifizieren.",
+      "rang": 3
+    },
+    {
+      "id": "et-4",
+      "spiel_id": "2026-05-24-nfo-bou",
+      "tipp_id": "nfo-bou-1",
+      "kategorie": "value",
+      "markt": "Nottingham Forest - Bournemouth: Doppelte Chance Bournemouth oder Remis (X2)",
+      "quote": 1.45,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "Goldgrube DC X2 (69.2% / +15.8%). Motivierter Auswärts-Favorit (CL-Chance bei Nicht-Niederlage) + 2 H2H-Siege ohne Gegentor gegen anreizloses Forest.",
+      "rang": 4
+    },
+    {
+      "id": "et-5",
+      "spiel_id": "2026-05-24-liv-bre",
+      "tipp_id": "liv-bre-2",
+      "kategorie": "value",
+      "markt": "Liverpool - Brentford: Sieg Liverpool",
+      "quote": 1.8,
+      "empfohlener_einsatz_prozent": 1.0,
+      "einsatz_euro": 5.5,
+      "begruendung": "Liverpool zuhause mit CL-Ziel (Platz 5) gegen druckloses Brentford mit schwacher Auswärtsbilanz. VALUE (braucht nur 1 Punkt -> Kontroll-Risiko).",
+      "rang": 5
+    },
+    {
+      "id": "et-6",
+      "spiel_id": "2026-05-24-tot-eve",
+      "tipp_id": "tot-eve-1",
+      "kategorie": "wackel",
+      "markt": "Tottenham - Everton: Doppelte Chance Tottenham oder Remis (1X)",
+      "quote": 1.35,
+      "empfohlener_einsatz_prozent": 1.0,
+      "einsatz_euro": 5.5,
+      "begruendung": "Goldgrube DC 1X (83.3%). Spurs sichern den Klassenerhalt schon mit Remis -> Outcome deckt sich exakt mit dem Existenz-Druck-Ziel gegen anreizloses Everton. VALUE wegen Verletzungs-Cluster.",
+      "rang": 6
+    },
+    {
+      "id": "et-7",
+      "spiel_id": "2026-05-24-bri-mun",
+      "tipp_id": "bri-mun-1",
+      "kategorie": "value",
+      "markt": "Brighton - Manchester United: Doppelte Chance Brighton oder Remis (1X)",
+      "quote": 1.5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "einsatz_euro": 5.5,
+      "begruendung": "Goldgrube DC 1X (83.3%). Brighton motivierter Heim-Favorit (Europa-Ziel) gegen bereits CL-qualifiziertes, anreizloses United (Rotations-Risiko).",
+      "rang": 7
+    },
+    {
+      "id": "et-8",
+      "spiel_id": "2026-05-24-mci-avl",
+      "tipp_id": "mci-avl-3",
+      "kategorie": "value",
+      "markt": "Man City - Aston Villa: Über 2.5 Tore",
+      "quote": 1.45,
+      "empfohlener_einsatz_prozent": 1.0,
+      "einsatz_euro": 5.5,
+      "begruendung": "Goldgrube Über 2.5 (+33.2%). City 2.44 Heim-Tore-Schnitt + Haaland-Form gegen offenes, anreizloses Villa (3 der letzten 4 Villa-Spiele Über 3.5).",
+      "rang": 8
+    },
+    {
+      "id": "et-9",
+      "spiel_id": "2026-05-24-sas-okc",
+      "tipp_id": "sas-okc-1",
+      "kategorie": "value",
+      "markt": "Spurs - Thunder G4: Über 219.5 Punkte (Spiel-Total)",
+      "quote": 1.9,
+      "empfohlener_einsatz_prozent": 1.0,
+      "einsatz_euro": 5.5,
+      "begruendung": "WCF-Total-Über-Goldgrube: alle 3 Serien-Spiele >217.5 (G1 243, G3 231). Zwei Elite-Offensiven + OKC-Bank-Tempo. VALUE (NBA nie SAFE).",
+      "rang": 9
+    },
+    {
+      "id": "et-10",
+      "spiel_id": "2026-05-24-nfo-bou",
+      "tipp_id": "nfo-bou-3",
+      "kategorie": "wackel",
+      "markt": "Nottingham Forest - Bournemouth: Junior Kroupi trifft jederzeit",
+      "quote": 3.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "Goldgrube Torschützen (+24.7%) + Pflicht-Profil Auswärts-Stürmer. Kroupi (19, 13 Tore, traf 19.05 vs City) Form-Stürmer nach Semenyo-Abgang. WACKEL (Quote 3.0 + Rotations-Risiko). Aufstellung prüfen.",
+      "rang": 10
+    },
+    {
+      "id": "et-11",
+      "spiel_id": "2026-05-24-tot-eve",
+      "tipp_id": "tot-eve-2",
+      "kategorie": "wackel",
+      "markt": "Tottenham - Everton: Unter 2.5 Tore",
+      "quote": 1.9,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "Goldgrube Unter 2.5 (63.6% / +27.5%). Nervöses Abstiegs-Endspiel + dezimierter Spurs-Angriff + anreizloses Everton -> tor-arm plausibel (Spurs reicht Remis).",
+      "rang": 11
+    },
+    {
+      "id": "et-12",
+      "spiel_id": "2026-05-24-liv-bre",
+      "tipp_id": "liv-bre-3",
+      "kategorie": "wackel",
+      "markt": "Liverpool - Brentford: Über 2.5 Tore",
+      "quote": 1.62,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "Goldgrube Über 2.5 (+33.2%) + Anfield-Offensive/Salah. WACKEL: Liverpool braucht nur 1 Punkt -> Sicherheits-Modus-Risiko nach Führung.",
+      "rang": 12
+    },
+    {
+      "id": "et-13",
+      "spiel_id": "2026-05-24-cry-ars",
+      "tipp_id": "cry-ars-1",
+      "kategorie": "wackel",
+      "markt": "Crystal Palace - Arsenal: Über 2.5 Tore",
+      "quote": 2.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "Zwei B-Elf-Teams (beide Europa-Finalisten) ohne Liga-Druck -> oft offen. WACKEL wegen kompletter Rotations-Unsicherheit (Lesson 18.05).",
+      "rang": 13
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-safe",
+      "name": "🛟 Safe-Kombi (~3.9x)",
+      "kategorie": "safe",
+      "gesamtquote": 3.92,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 11.0,
+      "begruendung": "Sieg-Outcome-Kombi (Layer-2: Sieg-Outcomes nur hier). Zwei DC-Goldgruben + Liverpool-Heimsieg mit CL-Ziel - alle drei = motiviertes Team gegen drucklosen/anreizlosen Gegner: Bournemouth (CL-Chance) bei Forest, Brighton (Europa-Ziel) vs schon-qualifiziertes United, Liverpool (Platz 5) vs druckloses Brentford. Gesamtquote nachgerechnet: 1.45 × 1.50 × 1.80 = 3.92. Stake 2% x 550€ = 11€.",
+      "beine": [
+        {
+          "spiel_id": "2026-05-24-nfo-bou",
+          "tipp_id": "nfo-bou-1",
+          "spiel_titel": "Nottingham Forest - Bournemouth",
+          "markt": "Nottingham Forest - Bournemouth: Doppelte Chance Bournemouth oder Remis (X2)",
+          "quote": 1.45
+        },
+        {
+          "spiel_id": "2026-05-24-bri-mun",
+          "tipp_id": "bri-mun-1",
+          "spiel_titel": "Brighton - Manchester United",
+          "markt": "Brighton - Manchester United: Doppelte Chance Brighton oder Remis (1X)",
+          "quote": 1.5
+        },
+        {
+          "spiel_id": "2026-05-24-liv-bre",
+          "tipp_id": "liv-bre-2",
+          "spiel_titel": "Liverpool - Brentford",
+          "markt": "Liverpool - Brentford: Sieg Liverpool",
+          "quote": 1.8
+        }
+      ]
+    },
+    {
+      "id": "kombi-balance",
+      "name": "⚖️ Balance-Kombi (~6.3x)",
+      "kategorie": "balance",
+      "gesamtquote": 6.3,
+      "empfohlener_einsatz_prozent": 0.8,
+      "einsatz_euro": 4.4,
+      "begruendung": "Markt-entkoppelt zur Safe-Kombi (kein Sieg-Outcome, nur 1 Volume-Player-These = Haaland, Layer-3). Haaland-Torschütze (Goldgrube + Penalty-Taker + Topform) + WCF-Total-Über-Goldgrube + Sunderland-Chelsea Über (beidseitiger Europa-Anreiz). Drei verschiedene Spiele/Sportarten. Gesamtquote nachgerechnet: 1.70 × 1.90 × 1.95 = 6.30. Stake 0.8% x 550€ = 4,40€.",
+      "beine": [
+        {
+          "spiel_id": "2026-05-24-mci-avl",
+          "tipp_id": "mci-avl-1",
+          "spiel_titel": "Manchester City - Aston Villa",
+          "markt": "Manchester City - Aston Villa: Erling Haaland trifft jederzeit",
+          "quote": 1.7
+        },
+        {
+          "spiel_id": "2026-05-24-sas-okc",
+          "tipp_id": "sas-okc-1",
+          "spiel_titel": "Spurs - Thunder G4",
+          "markt": "Spurs - Thunder G4: Über 219.5 Punkte (Spiel-Total)",
+          "quote": 1.9
+        },
+        {
+          "spiel_id": "2026-05-24-sun-che",
+          "tipp_id": "sun-che-1",
+          "spiel_titel": "Sunderland - Chelsea",
+          "markt": "Sunderland - Chelsea: Über 2.5 Tore",
+          "quote": 1.95
+        }
+      ]
+    },
+    {
+      "id": "kombi-risiko",
+      "name": "🎢 Risiko-Kombi (~20x)",
+      "kategorie": "risk",
+      "gesamtquote": 19.95,
+      "empfohlener_einsatz_prozent": 0.25,
+      "einsatz_euro": 1.4,
+      "begruendung": "Layer-3-entkoppelt (1 Volume-Player-These = Kroupi, Rest Tor-Totals; keine Sieg-Outcomes). Kroupi-Torschütze (Auswärts-Form-Stürmer) + drei Über-2.5-Goldgrube-Beine aus offenen/drucklosen Schlusstag-Spielen (West Ham Muss-Sieg-Offensive, Palace-Arsenal B-Elf, Fulham-Newcastle Dead-Rubber). Gesamtquote nachgerechnet: 3.0 × 1.90 × 2.0 × 1.75 = 19.95. Stake 0.25% x 550€ = 1,40€.",
+      "beine": [
+        {
+          "spiel_id": "2026-05-24-nfo-bou",
+          "tipp_id": "nfo-bou-3",
+          "spiel_titel": "Nottingham Forest - Bournemouth",
+          "markt": "Nottingham Forest - Bournemouth: Junior Kroupi trifft jederzeit",
+          "quote": 3.0
+        },
+        {
+          "spiel_id": "2026-05-24-whu-lee",
+          "tipp_id": "whu-lee-1",
+          "spiel_titel": "West Ham - Leeds",
+          "markt": "West Ham - Leeds: Über 2.5 Tore",
+          "quote": 1.9
+        },
+        {
+          "spiel_id": "2026-05-24-cry-ars",
+          "tipp_id": "cry-ars-1",
+          "spiel_titel": "Crystal Palace - Arsenal",
+          "markt": "Crystal Palace - Arsenal: Über 2.5 Tore",
+          "quote": 2.0
+        },
+        {
+          "spiel_id": "2026-05-24-ful-new",
+          "tipp_id": "ful-new-1",
+          "spiel_titel": "Fulham - Newcastle",
+          "markt": "Fulham - Newcastle: Über 2.5 Tore",
+          "quote": 1.75
+        }
+      ]
+    },
+    {
+      "id": "kombi-moonshot",
+      "name": "🚀 Moonshot-Kombi (~302.82x)",
+      "kategorie": "moonshot",
+      "gesamtquote": 302.8,
+      "empfohlener_einsatz_prozent": 0.1,
+      "einsatz_euro": 0.55,
+      "begruendung": "Lotterie-Spaßeinsatz. Erlaubt Beobachtungs-Liga ab Quote 5.0 (Torino-Derby-Spielverderber + Udinese-Auslauf-Upset, beide Serie A) + NBA-Player (Wembanyama, Moonshot-Slot). Plus zwei Über-2.5-Beine (Brighton, Burnley-Dead-Rubber). Nur 1 Volume-Player-These (Wemby). Gesamtquote nachgerechnet: 7.90 × 7.0 × 1.85 × 1.60 × 1.85 = 302.8. Stake 0.1% x 550€ = 0,55€. Ehrlich: ~0.3% Trefferchance, reiner Spaß.",
+      "beine": [
+        {
+          "spiel_id": "2026-05-24-tor-juv",
+          "tipp_id": "tor-juv-1",
+          "spiel_titel": "Torino - Juventus",
+          "markt": "Torino - Juventus: 🔍 Beobachtung - Sieg Torino (Derby-Spielverderber)",
+          "quote": 7.9
+        },
+        {
+          "spiel_id": "2026-05-24-nap-udi",
+          "tipp_id": "nap-udi-1",
+          "spiel_titel": "Napoli - Udinese",
+          "markt": "Napoli - Udinese: 🔍 Beobachtung - Sieg Udinese (Auslauf-Upset)",
+          "quote": 7.0
+        },
+        {
+          "spiel_id": "2026-05-24-bri-mun",
+          "tipp_id": "bri-mun-2",
+          "spiel_titel": "Brighton - Manchester United",
+          "markt": "Brighton - Manchester United: Über 2.5 Tore",
+          "quote": 1.85
+        },
+        {
+          "spiel_id": "2026-05-24-bur-wol",
+          "tipp_id": "bur-wol-1",
+          "spiel_titel": "Burnley - Wolves",
+          "markt": "Burnley - Wolves: Über 2.5 Tore",
+          "quote": 1.6
+        },
+        {
+          "spiel_id": "2026-05-24-sas-okc",
+          "tipp_id": "sas-okc-2",
+          "spiel_titel": "Spurs - Thunder G4",
+          "markt": "Spurs - Thunder G4: Spieler-Punkte (Risiko/Moonshot): Victor Wembanyama Über 24.5 Punkte",
+          "quote": 1.85
+        }
+      ]
+    }
+  ],
+  "lessons_angewandt": [
+    {
+      "lesson": "Roster-/Sperren-Check vor Spieler-Tipps (Lesson 24.05 Vinicius-Falle + 25.04)",
+      "angewandt_auf": "nfo-bou-3 / et-10",
+      "details": "Vor dem Bournemouth-Torschützen-Tipp Kader verifiziert: Semenyo ist längst (Jan 2026) zu Man City gewechselt -> NICHT mehr Bournemouth. Tipp daher auf Junior Kroupi (19, 13 Tore, traf 19.05) statt auf den veralteten Namen. Aufstellungs-Verifikations-Flag gesetzt."
+    },
+    {
+      "lesson": "Torschützen-Haushoher-Favorit-Penalty-Taker (Lesson 24.05, INVERS zur 21.05-Final-Volume-9er-Vorsicht)",
+      "angewandt_auf": "mci-avl-1 / et-1",
+      "details": "Haaland-Torschütze als starkes VALUE: City @1.34 (<1.40 haushoher Favorit) + Haaland Penalty-/Standard-Taker + Topform (5 Ligaspiele in Folge getroffen). Die 21.05-Skepsis (Tore verteilen sich aufs Mittelfeld) gilt laut 24.05-Verfeinerung NICHT für den Penalty-Taker eines <=1.40-Favoriten."
+    },
+    {
+      "lesson": "Top-Team-B-Elf-vor-Europa-Final-Cluster (Lesson 18.05 + 19.05 Gyökeres-Schon)",
+      "angewandt_auf": "cry-ars-1, cry-ars-2",
+      "details": "Crystal Palace (Conference-Final 27.05) UND Arsenal (CL-Final 30.05 vs PSG, via UEFA.com verifiziert) rotieren beide massiv -> KEIN SAFE/VALUE, kein Star-Stürmer-Torschützen-Tipp, kein Sieg-Tipp. Nur Tor-Markt-Wackel. CL-Finalist ist Arsenal (nicht Inter - alte Notiz korrigiert)."
+    },
+    {
+      "lesson": "Existenz-Druck = max 1 Outcome-Tipp (Lesson 16.05 Heidenheim-Doppel-Exposure)",
+      "angewandt_auf": "tot-eve-1",
+      "details": "Spurs im Abstiegs-Endspiel: NUR DC 1X als Outcome-Tipp (kein zusätzlicher Sieg-Tipp), um Doppel-Exposure auf dasselbe Ergebnis zu vermeiden. Zusätzlich VALUE statt SAFE wegen Spurs-Verletzungs-Cluster im Angriff (HR2-Subfilter)."
+    },
+    {
+      "lesson": "Drehungs-/Comeback-Cluster bei Champion-Saisonende (Lesson 24.05)",
+      "angewandt_auf": "mci-avl-2, tor-juv-1, nap-udi-1",
+      "details": "Sieg-Tipps auf gesicherte/anreizlose Favoriten am Saison-Auslauf bewusst max VALUE/Beobachtung. City-Sieg VALUE (nicht SAFE). Serie-A-Champions/qualifizierte Teams (Juve-CL-Jagd ausgenommen) -> Beobachtungs-Status, nur Moonshot-Upset-Beine."
+    },
+    {
+      "lesson": "NBA-Playoff nie SAFE + Player-Punkte-Boykott im Einzel, aber WCF-Total-Über-Goldgrube + G3-Snap-Back-Erlaubnis (HR16 + Lesson 23.05)",
+      "angewandt_auf": "sas-okc-1 / et-9, sas-okc-2",
+      "details": "WCF-Total Über 219.5 als VALUE (alle 3 Serien-Spiele >217.5). Wembanyama-Punkte NUR als Moonshot-Bein (Einzel-Boykott), gestützt auf G3-Snap-Back-Erlaubnis für Stamm-Volume-Star nach G2-Defense-Adjust."
+    },
+    {
+      "lesson": "LaLiga-Schlusstag-Unter-2.5-Pattern auf nervöse/anreizlose Spiele übertragen (Lesson 24.05)",
+      "angewandt_auf": "tot-eve-2 / et-11",
+      "details": "Unter 2.5 als Goldgrube-Wackel im nervösen Abstiegs-Endspiel Spurs-Everton (dezimierter Angriff + Everton ohne Anreiz + Spurs reicht Remis = tor-armes Profil)."
+    },
+    {
+      "lesson": "DC-Cap (max 1/Spiel, 2-3 gesamt) + Markt-Mix-Pflicht",
+      "angewandt_auf": "Dossier gesamt",
+      "details": "Genau 3 DC gesamt (Bournemouth X2, Spurs 1X, Brighton 1X), je 1/Spiel. Restliche Tipps Torschützen (Goldgrube) + Tor-Totals -> kein DC-Übergewicht, keine rein-defensiven Tripel."
+    },
+    {
+      "lesson": "Kombi-Diversifikation Layer-1/2/3 (Lessons 29.04 / 01.05 / 21.05)",
+      "angewandt_auf": "kombi-safe, kombi-balance, kombi-risiko, kombi-moonshot",
+      "details": "Sieg-Outcomes nur in Safe-Kombi (Layer-2). Pro Kombi max 1 Volume-Player-These (Haaland/Kroupi/Wemby; Layer-3). Keine identische Spiel/Markt-Dublette über Kombis. 13 Spiele -> echte Diversifikation möglich (kein Mini-Tag-Cap nötig)."
+    }
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool, keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "einzeltipps_ergebnis": [
+    {
+      "id": "et-1",
+      "spiel_id": "2026-05-24-mci-avl",
+      "tipp_id": "mci-avl-1",
+      "kategorie": "value",
+      "markt": "Man City - Aston Villa: Erling Haaland trifft jederzeit",
+      "quote": 1.7,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "Top-Pick. Goldgrube Torschützen Jederzeit (+24.7% ROI) + Haaland Topform (5 Ligaspiele in Folge getroffen) + Penalty-Taker eines <=1.40-Favoriten (Lesson 24.05) + Pep-Abschiedsspiel-Offensive gegen anreizloses Villa. Aufstellung verifizieren.",
+      "rang": 1,
+      "status": "offen"
+    },
+    {
+      "id": "et-2",
+      "spiel_id": "2026-05-24-mci-avl",
+      "tipp_id": "mci-avl-2",
+      "kategorie": "value",
+      "markt": "Man City - Aston Villa: Sieg Manchester City",
+      "quote": 1.34,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "City haushoher Heim-Favorit im Pep-Abschied (volle Motivation) gegen ein via EL-Titel schon CL-qualifiziertes, anreizloses Villa im Feier-/Rotations-Modus. VALUE (Hebel C + Schlusstag-Varianz).",
+      "rang": 2,
+      "status": "offen"
+    },
+    {
+      "id": "et-3",
+      "spiel_id": "2026-05-24-liv-bre",
+      "tipp_id": "liv-bre-1",
+      "kategorie": "value",
+      "markt": "Liverpool - Brentford: Mohamed Salah trifft jederzeit",
+      "quote": 1.7,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "Top-Pick. Goldgrube Torschützen (+24.7%) + Salah 7 Tore in 8 vs Brentford + Marktführer + Anfield-Heimvorteil mit CL-Ziel. Aufstellung verifizieren.",
+      "rang": 3,
+      "status": "offen"
+    },
+    {
+      "id": "et-4",
+      "spiel_id": "2026-05-24-nfo-bou",
+      "tipp_id": "nfo-bou-1",
+      "kategorie": "value",
+      "markt": "Nottingham Forest - Bournemouth: Doppelte Chance Bournemouth oder Remis (X2)",
+      "quote": 1.45,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "Goldgrube DC X2 (69.2% / +15.8%). Motivierter Auswärts-Favorit (CL-Chance bei Nicht-Niederlage) + 2 H2H-Siege ohne Gegentor gegen anreizloses Forest.",
+      "rang": 4,
+      "status": "offen"
+    },
+    {
+      "id": "et-5",
+      "spiel_id": "2026-05-24-liv-bre",
+      "tipp_id": "liv-bre-2",
+      "kategorie": "value",
+      "markt": "Liverpool - Brentford: Sieg Liverpool",
+      "quote": 1.8,
+      "empfohlener_einsatz_prozent": 1.0,
+      "einsatz_euro": 5.5,
+      "begruendung": "Liverpool zuhause mit CL-Ziel (Platz 5) gegen druckloses Brentford mit schwacher Auswärtsbilanz. VALUE (braucht nur 1 Punkt -> Kontroll-Risiko).",
+      "rang": 5,
+      "status": "offen"
+    },
+    {
+      "id": "et-6",
+      "spiel_id": "2026-05-24-tot-eve",
+      "tipp_id": "tot-eve-1",
+      "kategorie": "wackel",
+      "markt": "Tottenham - Everton: Doppelte Chance Tottenham oder Remis (1X)",
+      "quote": 1.35,
+      "empfohlener_einsatz_prozent": 1.0,
+      "einsatz_euro": 5.5,
+      "begruendung": "Goldgrube DC 1X (83.3%). Spurs sichern den Klassenerhalt schon mit Remis -> Outcome deckt sich exakt mit dem Existenz-Druck-Ziel gegen anreizloses Everton. VALUE wegen Verletzungs-Cluster.",
+      "rang": 6,
+      "status": "offen"
+    },
+    {
+      "id": "et-7",
+      "spiel_id": "2026-05-24-bri-mun",
+      "tipp_id": "bri-mun-1",
+      "kategorie": "value",
+      "markt": "Brighton - Manchester United: Doppelte Chance Brighton oder Remis (1X)",
+      "quote": 1.5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "einsatz_euro": 5.5,
+      "begruendung": "Goldgrube DC 1X (83.3%). Brighton motivierter Heim-Favorit (Europa-Ziel) gegen bereits CL-qualifiziertes, anreizloses United (Rotations-Risiko).",
+      "rang": 7,
+      "status": "offen"
+    },
+    {
+      "id": "et-8",
+      "spiel_id": "2026-05-24-mci-avl",
+      "tipp_id": "mci-avl-3",
+      "kategorie": "value",
+      "markt": "Man City - Aston Villa: Über 2.5 Tore",
+      "quote": 1.45,
+      "empfohlener_einsatz_prozent": 1.0,
+      "einsatz_euro": 5.5,
+      "begruendung": "Goldgrube Über 2.5 (+33.2%). City 2.44 Heim-Tore-Schnitt + Haaland-Form gegen offenes, anreizloses Villa (3 der letzten 4 Villa-Spiele Über 3.5).",
+      "rang": 8,
+      "status": "offen"
+    },
+    {
+      "id": "et-9",
+      "spiel_id": "2026-05-24-sas-okc",
+      "tipp_id": "sas-okc-1",
+      "kategorie": "value",
+      "markt": "Spurs - Thunder G4: Über 219.5 Punkte (Spiel-Total)",
+      "quote": 1.9,
+      "empfohlener_einsatz_prozent": 1.0,
+      "einsatz_euro": 5.5,
+      "begruendung": "WCF-Total-Über-Goldgrube: alle 3 Serien-Spiele >217.5 (G1 243, G3 231). Zwei Elite-Offensiven + OKC-Bank-Tempo. VALUE (NBA nie SAFE).",
+      "rang": 9,
+      "status": "offen"
+    },
+    {
+      "id": "et-10",
+      "spiel_id": "2026-05-24-nfo-bou",
+      "tipp_id": "nfo-bou-3",
+      "kategorie": "wackel",
+      "markt": "Nottingham Forest - Bournemouth: Junior Kroupi trifft jederzeit",
+      "quote": 3.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "Goldgrube Torschützen (+24.7%) + Pflicht-Profil Auswärts-Stürmer. Kroupi (19, 13 Tore, traf 19.05 vs City) Form-Stürmer nach Semenyo-Abgang. WACKEL (Quote 3.0 + Rotations-Risiko). Aufstellung prüfen.",
+      "rang": 10,
+      "status": "offen"
+    },
+    {
+      "id": "et-11",
+      "spiel_id": "2026-05-24-tot-eve",
+      "tipp_id": "tot-eve-2",
+      "kategorie": "wackel",
+      "markt": "Tottenham - Everton: Unter 2.5 Tore",
+      "quote": 1.9,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "Goldgrube Unter 2.5 (63.6% / +27.5%). Nervöses Abstiegs-Endspiel + dezimierter Spurs-Angriff + anreizloses Everton -> tor-arm plausibel (Spurs reicht Remis).",
+      "rang": 11,
+      "status": "offen"
+    },
+    {
+      "id": "et-12",
+      "spiel_id": "2026-05-24-liv-bre",
+      "tipp_id": "liv-bre-3",
+      "kategorie": "wackel",
+      "markt": "Liverpool - Brentford: Über 2.5 Tore",
+      "quote": 1.62,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "Goldgrube Über 2.5 (+33.2%) + Anfield-Offensive/Salah. WACKEL: Liverpool braucht nur 1 Punkt -> Sicherheits-Modus-Risiko nach Führung.",
+      "rang": 12,
+      "status": "offen"
+    },
+    {
+      "id": "et-13",
+      "spiel_id": "2026-05-24-cry-ars",
+      "tipp_id": "cry-ars-1",
+      "kategorie": "wackel",
+      "markt": "Crystal Palace - Arsenal: Über 2.5 Tore",
+      "quote": 2.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "Zwei B-Elf-Teams (beide Europa-Finalisten) ohne Liga-Druck -> oft offen. WACKEL wegen kompletter Rotations-Unsicherheit (Lesson 18.05).",
+      "rang": 13,
+      "status": "offen"
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "kombi-safe",
+      "status": "offen",
+      "gesamtquote": 3.92
+    },
+    {
+      "kombi_id": "kombi-balance",
+      "status": "offen",
+      "gesamtquote": 6.3
+    },
+    {
+      "kombi_id": "kombi-risiko",
+      "status": "offen",
+      "gesamtquote": 19.95
+    },
+    {
+      "kombi_id": "kombi-moonshot",
+      "status": "offen",
+      "gesamtquote": 302.8
+    }
+  ],
+  "ausgewertet_am": "2026-05-25T06:07:16+00:00"
+}
