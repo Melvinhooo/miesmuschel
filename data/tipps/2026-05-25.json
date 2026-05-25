@@ -272,5 +272,40 @@
       "details": "Nur 2 in-scope-Spiele -> bewusst nur 2 Kombis (2-Bein, Layer-1 erlaubt max 1 Bein/Spiel = kein sauberes 3-Bein), kein Moonshot (30x+ nur über boykottierte Player-Prop-Flier möglich). Sieg-Outcomes auf eine Kombi gebündelt (Layer-2), kein Bein-Duplikat (Layer-3)."
     }
   ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-05-25T14:23:00+00:00",
+    "geprueft_von": "Master-Tipps-Routine interne Verifikation (verifikation.md)",
+    "ergebnis": "BESTANDEN - 0 Halluzinations-Drops, 0 Position-Downgrades, Layer-2 sauber, alle Quoten konsistent mit Recherche-Aggregator, alle Kombi-Gesamtquoten nachgerechnet, alle Stakes konform Kasse-Stufe 1.",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "korrelation_soft",
+        "spiel_id": "2026-05-25-cle-nyk",
+        "details": "Einzeltipps cle-nyk-1 (Cavs-Sieg) und cle-nyk-2 (Unter 217.5) sind leicht anti-korreliert (Cavs müssen für den Sieg punkten). Beide nur WACKEL-Mini-Stakes (je 0.5% / 2,75€) und in unterschiedlichen Kombis -> als unabhängige Flier akzeptiert, kein Drop/Downgrade."
+      },
+      {
+        "art": "lineup_pflicht",
+        "tipp_id": "pad-wob-3",
+        "details": "Bilbija-Torschützen-Tipp erfordert Startelf-Verifikation 60-90 Min vor Anstoß (Lesson 24.05 Vinicius / 22.04 Thuram). Flag _aufstellungs_verifikation_pflicht=true ist gesetzt - Tipp nur gültig wenn Bilbija startet."
+      },
+      {
+        "art": "quoten_live_pruefen",
+        "details": "NBA-Quoten aus US-Aggregator konvertiert (FanDuel/NBC/DK/Basketballsphere), Total-Linie 217.5 (eröffnete 215.5); Relegations-Quoten Tippdienst-Stand (sport1/wettbasis). Abweichung zur bet365-Live-Quote möglich -> vor Einsatz live prüfen, kein Edge-Schaden da Stakes konservativ."
+      }
+    ],
+    "spieler_halluzinations_check": {
+      "gepruefte_spieler_tipps": 1,
+      "details": "pad-wob-3 'Filip Bilbija trifft jederzeit': in recherche.spiele[2026-05-25-pad-wob].squad_heim verifiziert (Position RW/offensiver Flügel -> OK für Torschützen-Markt, kein Position-Mismatch). Keine NBA-Player-Punkte-Tipps generiert (HR16-Boykott eingehalten). Darius Garland korrekt NICHT getippt (laut Recherche nicht mehr im Cavs-Kader)."
+    },
+    "layer_2_cross_check": "SAUBER - Sieg-Outcomes (Paderborn-Sieg pad-wob-2 + Cavs-ML cle-nyk-1) ausschließlich in kombi-risiko gebündelt; kombi-balance enthält nur Tor-Total-Beine (Unter 2.5 + Unter 217.5). Kein Sieg-Outcome eines Spiels in mehr als 1 Kombi.",
+    "saison_kontext_quellen_check": "OK - beide Spiele ohne parallele UEFA-/Pokal-Wettbewerbe (parallel_heim/gast = 'keine'), daher keine Verband-URL-Pflicht ausgelöst; je >=3 Quellen-URLs vorhanden (Sportschau/sport1/wettbasis bzw. NBC/Totalprosports/DraftKings).",
+    "gesamtquote_nachrechnung": {
+      "kombi-balance": "1.90 x 1.91 = 3.63 ✓ (Feld stimmt)",
+      "kombi-risiko": "1.85 x 2.13 = 3.94 ✓ (Feld stimmt)"
+    },
+    "stake_check": "OK - Kasse 550€ / Stufe 1 (Aufbau): Einzel VALUE 1.0% = 5,50€, WACKEL 0.5% = 2,75€, Kombi Balance 0.8% = 4,40€, Kombi Risiko 0.25% = 1,40€. Tages-Exposure gesamt 22,40€ (~4.1% Kasse) - konform Mini-Spiele-Tag-Cap (Lesson 21.05).",
+    "lessons_generiert": []
+  },
   "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool, keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
 }
