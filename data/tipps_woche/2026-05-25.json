@@ -32,45 +32,9 @@
         "Ben White (Arsenal) faellt mit Knie-Innenband aus, Timber fraglich - umgebaute Abwehr um Saliba/Gabriel/Calafiori. Saka (Elfschuetze) fit.",
         "CL-Finals werden nur dann offen, wenn beide Teams pressen - bei Arsenals Defensive eher kontrolliertes, tor-armes Spiel zu erwarten."
       ],
-      "tipps": [
-        {
-          "id": "psg-ars-1",
-          "kategorie": "value",
-          "markt": "Unter 2.5 Tore",
-          "prognose": "Tor-armes Finale, eher 1:0 / 1:1 / 0:0",
-          "quote": 1.9,
-          "edge_prozent": 8.0,
-          "faire_quote": 1.75,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 8.25,
-          "begruendung": "Staerkster Read der Woche: Arsenal kassierte in 14 CL-Spielen nur 6 Gegentore (beste Defensive des Turniers), 2 von 3 Pflichtspiel-Duellen gegen PSG waren Unter 2.5, CL-Finals tendieren bei mind. einer kontrollierten Mannschaft zum tor-armen Spiel. Goldgrube Unter 2.5: 63.6% Trefferquote / +27.5% ROI (n=11). Einsatz 1.5% von 550EUR = 8.25EUR. Quote bei bet365 live pruefen (6 Tage vorher volatil, Markt 1.90-2.10)."
-        },
-        {
-          "id": "psg-ars-2",
-          "kategorie": "value",
-          "markt": "Arsenal Doppelte Chance X2 (Sieg oder Remis)",
-          "prognose": "Arsenal verliert nicht in 90 Min",
-          "quote": 1.6,
-          "edge_prozent": 6.0,
-          "faire_quote": 1.5,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 8.25,
-          "begruendung": "Goldgrube DC X2 (69.2% / +15.8% ROI, n=15) trifft auf das Opta-Modell (55.8% Arsenal) und die beste Defensive des Wettbewerbs - Arsenal verliert selten, X2 deckt Sieg + Remis ab. Wert gegenueber dem reinen PSG-1X (waere bei ~1.28 zu duenn). Bewusst nur VALUE statt SAFE, da der Markt PSG vorne sieht = echtes Coinflip-Finale. Max 1 DC pro Spiel eingehalten. Einsatz 1.5% = 8.25EUR. bet365 live pruefen."
-        },
-        {
-          "id": "psg-ars-3",
-          "kategorie": "wackel",
-          "markt": "Bukayo Saka trifft (Torschuetze Jederzeit)",
-          "prognose": "Saka mit Tor oder vom Punkt",
-          "quote": 3.7,
-          "edge_prozent": null,
-          "faire_quote": 3.6,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 2.75,
-          "begruendung": "Markt-Mix gegen Defensiv-Sucht + Goldgrube Torschuetzen Jederzeit (39.5% / +24.7% ROI, n=39). Saka ist Arsenals designierter Elf-/Standardschuetze und fit - in einem tor-armen Finale der wahrscheinlichste einzelne Arsenal-Torschuetze. Bewusst nur WACKEL: Lesson 21.05. (Klassen-Edge-Finals verteilen Tore aufs Mittelfeld) + Final-Varianz. Einsatz 0.5% = 2.75EUR. bet365 live pruefen."
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-05-25-pad-wob",
@@ -155,21 +119,9 @@
         "G3 endete 121:108 Knicks = 229 Gesamt-Punkte (klar Ueber). NBA Conference Finals laufen tor-reich.",
         "Lesson 19.-25.05.: NBA-Player-Punkte bleiben aus Einzeltipps geboykottet (HR16); Sieg-Tipps in Sweep-Abwehr nie SAFE."
       ],
-      "tipps": [
-        {
-          "id": "cle-nyk-1",
-          "kategorie": "wackel",
-          "markt": "Ueber 216.5 Punkte",
-          "prognose": "Tor-reiches Spiel wie G3 (229)",
-          "quote": 1.9,
-          "edge_prozent": null,
-          "faire_quote": 1.9,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 2.75,
-          "begruendung": "NBA Conference Finals laufen tor-reich (G3 = 229). Aber Closeout-/Blowout-Risiko (Garbage-Time) + Quote 6 Tage vorher nicht final verifiziert => bewusst nur WACKEL mit '~'. Einsatz 0.5% von 550EUR = 2.75EUR. Linie + Quote bei bet365 live pruefen. NICHT in Einzeltipps/Safe-Kombi."
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-05-27-okc-sas-wcf-g5",
@@ -198,52 +150,12 @@
         "Wembanyama-Form schwankt stark (G1 41 -> G2 21 -> G3 26 Pkt) - Player-Punkte daher keine Einzeltipp-Basis.",
         "G5-Quote 6 Tage vorher noch nicht gesetzt (haengt an G4) - daher '~' und WACKEL."
       ],
-      "tipps": [
-        {
-          "id": "okc-sas-1",
-          "kategorie": "wackel",
-          "markt": "Ueber 222.5 Punkte",
-          "prognose": "Tor-reich wie die gesamte Serie (>217.5)",
-          "quote": 1.9,
-          "edge_prozent": null,
-          "faire_quote": 1.9,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 2.75,
-          "begruendung": "WCF-Total laeuft heiss: alle bisherigen Spiele Ueber 217.5, G3 = 231 (Lesson 23.05.). OKC-Heim-Tempo + Spurs-Pace. Aber Linie + Quote 6 Tage vorher nicht verifiziert (G5 haengt an G4) => bewusst nur WACKEL mit '~'. Einsatz 0.5% von 550EUR = 2.75EUR. Linie + Quote bei bet365 live pruefen. NICHT in Einzeltipps/Safe-Kombi."
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     }
   ],
   "einzeltipps": [
-    {
-      "id": "et-1",
-      "spiel_id": "2026-05-30-psg-ars",
-      "tipp_id": "psg-ars-1",
-      "kategorie": "value",
-      "markt": "PSG - Arsenal: Unter 2.5 Tore",
-      "quote": 1.9,
-      "edge_prozent": 8.0,
-      "begruendung": "Top-Pick der Woche: Arsenal hat in 14 CL-Spielen nur 6 Gegentore kassiert (beste Defensive des Turniers), 2 von 3 Pflichtspiel-Duellen gegen PSG waren Unter 2.5, CL-Finals tendieren bei einer kontrollierten Mannschaft tor-arm. Goldgrube Unter 2.5: 63.6% / +27.5% ROI (n=11). Stake 1.5% x 550EUR = 8.25EUR. bet365 live pruefen.",
-      "einsatz_euro": 8.25,
-      "einsatz_prozent_kasse": 1.5,
-      "empfohlener_einsatz_prozent": 1.5,
-      "rang": 1
-    },
-    {
-      "id": "et-2",
-      "spiel_id": "2026-05-30-psg-ars",
-      "tipp_id": "psg-ars-2",
-      "kategorie": "value",
-      "markt": "PSG - Arsenal: Arsenal Doppelte Chance X2 (Sieg oder Remis)",
-      "quote": 1.6,
-      "edge_prozent": 6.0,
-      "begruendung": "Opta-Modell 55.8% Arsenal + beste Defensive des Wettbewerbs + Goldgrube DC X2 (69.2% / +15.8% ROI, n=15). X2 deckt Arsenal-Sieg + Remis ab, besserer Wert als PSG-1X (~1.28). VALUE statt SAFE wegen echtem Coinflip-Finale. Stake 1.5% x 550EUR = 8.25EUR. bet365 live pruefen.",
-      "einsatz_euro": 8.25,
-      "einsatz_prozent_kasse": 1.5,
-      "empfohlener_einsatz_prozent": 1.5,
-      "rang": 2
-    },
     {
       "id": "et-3",
       "spiel_id": "2026-05-25-pad-wob",
@@ -256,96 +168,10 @@
       "einsatz_euro": 5.5,
       "einsatz_prozent_kasse": 1.0,
       "empfohlener_einsatz_prozent": 1.0,
-      "rang": 3
+      "rang": 1
     }
   ],
-  "kombis": [
-    {
-      "id": "kombi-safe",
-      "typ": "Safe-Kombi ~2.3x",
-      "kategorie": "safe",
-      "gesamtquote": 2.32,
-      "rechnung": "1.60 x 1.45 = 2.32",
-      "einsatz_euro": 11.0,
-      "empfohlener_einsatz_prozent": 2.0,
-      "begruendung": "2 Goldgrube-DC-Beine aus 2 Spielen (Layer-1/3 ok, je 1 Sieg-Outcome). Arsenal X2 (Opta + beste CL-Defensive) + Wolfsburg X2 (BL-Quali, 6/6 Entscheidungsspiele seit 2020). Ehrlich: duennes Saison-Endspurt-Programm => nur ~2.3x statt 5-10x, lieber niedrige Quote als Risiko-Beine reinmischen. Einsatz 11EUR (2.0% von 550EUR). Faire Gesamt-Wahrscheinlichkeit ~50%.",
-      "beine": [
-        {
-          "spiel_id": "2026-05-30-psg-ars",
-          "tipp_id": "psg-ars-2",
-          "markt": "Paris Saint-Germain - Arsenal: Arsenal Doppelte Chance X2 (Sieg oder Remis)",
-          "quote": 1.6,
-          "spiel_titel": "Paris Saint-Germain - Arsenal"
-        },
-        {
-          "spiel_id": "2026-05-25-pad-wob",
-          "tipp_id": "pad-wob-1",
-          "markt": "SC Paderborn - VfL Wolfsburg: VfL Wolfsburg Doppelte Chance X2 (Sieg oder Remis)",
-          "quote": 1.45,
-          "spiel_titel": "SC Paderborn - VfL Wolfsburg"
-        }
-      ]
-    },
-    {
-      "id": "kombi-balance",
-      "typ": "Balance-Kombi ~3.3x",
-      "kategorie": "value",
-      "gesamtquote": 3.33,
-      "rechnung": "1.90 x 1.75 = 3.33",
-      "einsatz_euro": 4.4,
-      "empfohlener_einsatz_prozent": 0.8,
-      "begruendung": "2 reine Tor-Total-Beine (Goldgrube Unter 2.5 +27.5%) aus 2 Spielen - markt-entkoppelt zur Safe-Kombi (dort DC), kein Sieg-Outcome doppelt (Layer-2/3 ok). PSG-Arsenal tor-arm (Arsenal-Mauer) + Relegations-Decider vorsichtig (Hinspiel 0:0). Einsatz 4.40EUR (0.8%). bet365 live pruefen.",
-      "beine": [
-        {
-          "spiel_id": "2026-05-30-psg-ars",
-          "tipp_id": "psg-ars-1",
-          "markt": "Paris Saint-Germain - Arsenal: Unter 2.5 Tore",
-          "quote": 1.9,
-          "spiel_titel": "Paris Saint-Germain - Arsenal"
-        },
-        {
-          "spiel_id": "2026-05-25-pad-wob",
-          "tipp_id": "pad-wob-2",
-          "markt": "SC Paderborn - VfL Wolfsburg: Unter 2.5 Tore",
-          "quote": 1.75,
-          "spiel_titel": "SC Paderborn - VfL Wolfsburg"
-        }
-      ]
-    },
-    {
-      "id": "kombi-risiko",
-      "typ": "Risiko-Kombi ~13x",
-      "kategorie": "risk",
-      "gesamtquote": 13.36,
-      "rechnung": "3.70 x 1.90 x 1.90 = 13.36",
-      "einsatz_euro": 1.4,
-      "empfohlener_einsatz_prozent": 0.25,
-      "begruendung": "3 markt-entkoppelte Beine aus 3 Spielen (Layer-1/2/3 ok): Saka-Torschuetze (Goldgrube +24.7%) + 2x NBA-Conf-Final-Ueber (WCF/ECF laufen tor-reich, alle Spiele >217.5). Bewusst Risiko: NBA-Totals WACKEL/'~'-Quoten, Saka-Tor in Final-Varianz. Einsatz 1.40EUR (0.25%). NBA-Linien + alle Quoten bei bet365 live pruefen.",
-      "beine": [
-        {
-          "spiel_id": "2026-05-30-psg-ars",
-          "tipp_id": "psg-ars-3",
-          "markt": "Paris Saint-Germain - Arsenal: Bukayo Saka trifft (Torschuetze Jederzeit)",
-          "quote": 3.7,
-          "spiel_titel": "Paris Saint-Germain - Arsenal"
-        },
-        {
-          "spiel_id": "2026-05-26-cle-nyk-ecf-g4",
-          "tipp_id": "cle-nyk-1",
-          "markt": "Cleveland Cavaliers - New York Knicks: Ueber 216.5 Punkte",
-          "quote": 1.9,
-          "spiel_titel": "Cleveland Cavaliers - New York Knicks"
-        },
-        {
-          "spiel_id": "2026-05-27-okc-sas-wcf-g5",
-          "tipp_id": "okc-sas-1",
-          "markt": "Oklahoma City Thunder - San Antonio Spurs: Ueber 222.5 Punkte",
-          "quote": 1.9,
-          "spiel_titel": "Oklahoma City Thunder - San Antonio Spurs"
-        }
-      ]
-    }
-  ],
+  "kombis": [],
   "lessons_angewandt": [
     {
       "lesson_datum": "2026-05-21",
