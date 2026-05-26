@@ -1,7 +1,14 @@
 {
   "datum": "2026-05-26",
-  "erstellt_am": "2026-05-26T14:45:00+02:00",
-  "hinweis": "🐚 WATCHDOG-RECOVERY (Di 14:45) - die 16:00-Hauptroutine hatte zum Pruefzeitpunkt noch keine data/tipps/2026-05-26.json geschrieben, der Watchdog holt die Generation nach (Pruefung lief diesmal frueher als 17:15). EXTREM DUENNER SAISONENDE-SLATE: Alle Top-5-Ligen durch (BL/PL/LaLiga/Serie A/Ligue 1 Schlusstage 23.-25.05), Bundesliga-Relegation entschieden (Paderborn 25.05 aufgestiegen), DFB-Pokal/Copa del Rey/Coppa Italia (13.05 Inter)/Coupe de France (22.05) Finals durch, EFL-Playoff-Finals bis 25.05 gelaufen, CL-Final erst 30.05. Im Zeitfenster (17:15 heute -> 06:00 Mi) gibt es GENAU EIN in-scope-Spiel: NBA WESTERN CONFERENCE FINALS GAME 5 San Antonio Spurs @ Oklahoma City Thunder (02:30 Berlin Mi, Paycom Center; Serie 2-2 nach Spurs-Sieg 103:82 in G4). Kein in-scope Club-Fussball heute. LESSONS HART ANGEWANDT: (a) NBA-Playoffs NIE SAFE (HR16/Mapper-Hebel B) + Game-5-Pivotal -> Sieg/Spread/Total max WACKEL; (b) Player-Punkte/DD raus aus Einzeltipps (Boykott 26.04) + Einzel-Steals/-Rebounds/-Assists/PRA in DE VERBOTEN -> nur Team-Maerkte (ML/Spread/Total); (c) WCF-Total-Ueber-Goldgrube am 24.05 GEBROCHEN (SAS-OKC G4 nur 185 Pkt = -34.5 unter Linie) + Small-Sample-Ueber-Pattern nicht uebergewichten (Lesson 25.05) -> Ueber nur WACKEL; (d) Roster-/Lineup-Check-Pflicht (Lessons 24.05 Vinicius/Fox): Jalen Williams (OKC 2. Star) ist QUESTIONABLE/DTD mit re-aggraviertem Hamstring (G4 verpasst) -> druckt OKC-Tiefe, Spurs gesund (Wemby/Fox/Harper) und 6-1 ATS als 5.5+-Underdog = Wert auf Spurs-Spread, Status aber vor Tip-off verifizieren; (e) Mini-Spiele-Tag-Korrelation (Lesson 25.05): bei nur 1 Spiel ist KEINE Layer-1-konforme Mehrbein-Kombi moeglich (max 1 Bein/Spiel) -> 0 Kombis, nur 2 konservative WACKEL-Einzeltipps. Kasse 550€ Stufe 1 (konservativ). Quoten Aggregator-Stand 25.-26.05 (DraftKings/FanDuel/SportsbettingDime) - bei bet365 LIVE pruefen, Pinnacle-Fair-Line diesmal nicht verifizierbar -> kein VALUE/SAFE-Label.",
+  "erstellt_am": "2026-05-26T16:16:50+02:00",
+  "hinweis": "🐚 Master-Pipeline-Lauf (Di 16:00). Recherche-File data/recherche/2026-05-26.json fehlte -> Fallback-Recherche per API direkt im Master-Lauf (football-data.org + balldontlie, beide live abgefragt 16:16). ERGEBNIS: EXTREM DUENNER SAISONENDE-SLATE. football-data.org meldet 0 Spiele am 26.05 (alle Top-5-Ligen BL/PL/LaLiga/Serie A/Ligue 1 durch 23.-25.05, Bundesliga-Relegation entschieden 25.05 Paderborn auf, DFB-Pokal/Copa del Rey/Coppa Italia/Coupe de France Finals durch, CL-Final erst 30.05). balldontlie meldet GENAU EIN in-scope-Spiel: NBA WESTERN CONFERENCE FINALS GAME 5 San Antonio Spurs @ Oklahoma City Thunder (02:30 Berlin Mi, Paycom Center). Serie 2-2 (G1 SAS 122:115 @ OKC / G2 OKC 122:113 / G3 OKC 123:108 / G4 SAS 103:82) - per API verifiziert. G5 ist Pivotal-Spiel um die 3-2-Fuehrung, KEIN Eliminations-/Decider-Spiel. LESSONS HART ANGEWANDT: (a) NBA-Playoffs NIE SAFE (HR16/Mapper-Hebel B) + Pivotal-G5 -> Sieg/Spread/Total max WACKEL; (b) Player-Punkte/DD raus aus Einzeltipps (Boykott 26.04) + Einzel-Steals/-Rebounds/-Assists/PRA in DE VERBOTEN -> nur Team-Maerkte (Spread/Total); (c) WCF-Total-Ueber-Goldgrube am 24.05 GEBROCHEN (G4 nur 185 = -34.5 unter Linie) + Small-Sample-Ueber-Pattern nicht uebergewichten (Lesson 25.05) -> Ueber nur WACKEL; (d) Roster-/Lineup-Check-Pflicht (Lessons 24.05/29.04): Jalen Williams (OKC 2. Star) QUESTIONABLE/DTD mit re-aggraviertem Hamstring (G4 verpasst) -> druckt OKC-Tiefe, Spurs gesund (Wemby/Fox/Harper) + 6-1 ATS als 5.5+-Underdog = Wert auf Spurs +5.5, Status aber vor Tip-off verifizieren; (e) Mini-Spiele-Tag-Korrelation (Lesson 26.05/25.05/21.05): bei nur 1 Spiel ist KEINE Layer-1-konforme Mehrbein-Kombi moeglich (max 1 Bein/Spiel) -> 0 Kombis, nur 2 konservative WACKEL-Einzeltipps (Markt-Mix Spread + Total), Tages-Exposure 5,50€ (~1% Kasse). Kasse 550€ Stufe 1 (konservativ). Quoten Aggregator-Stand 25.-26.05 (DraftKings/FanDuel/SportsbettingDime) - bei bet365 LIVE pruefen, Pinnacle-Fair-Line nicht verifizierbar -> kein VALUE/SAFE-Label.",
+  "_api_verifikation": {
+    "abgefragt_am": "2026-05-26T16:16:00+02:00",
+    "football_data_org": "GET /v4/matches?dateFrom=2026-05-26&dateTo=2026-05-26 -> count 0 (kein in-scope Club-Fussball)",
+    "balldontlie": "GET /v1/games?dates[]=2026-05-26 -> 1 Spiel: San Antonio Spurs @ Oklahoma City Thunder, postseason=true, tip-off 2026-05-27T00:30:00Z (02:30 Berlin)",
+    "serien_scores_verifiziert": "OKC 21 vs SAS 27, Saison 2025 Playoffs: G1 18.05 SAS 122:115 @OKC (Total 237) / G2 20.05 OKC 122:113 (235) / G3 22.05 OKC 123:108 @SAS (231) / G4 24.05 SAS 103:82 @SAS (185). Serie 2-2.",
+    "hinweis": "Quoten + Injury-Status (Jalen Williams) NICHT API-verifizierbar (balldontlie Free Tier ohne Odds/Injury) -> Aggregator-Stand, vor Tip-off live pruefen."
+  },
   "spiele": [
     {
       "id": "2026-05-26-okc-sas",
@@ -14,25 +21,25 @@
       "saison_kontext": {
         "parallel_heim": "keine - NBA-Playoffs, WCF ist die einzige Buehne; kein paralleler Wettbewerb",
         "parallel_gast": "keine - NBA-Playoffs, WCF ist die einzige Buehne",
-        "saisonziel_heim": "Oklahoma City (West-Topseed) in der WCF 2-2, Heim-Game-5 = Pivotal-Spiel um die 3-2-Serienfuehrung mit Ziel NBA-Finals (Gegner stuende fest: New York Knicks). MVP-Anker Shai Gilgeous-Alexander spielt. ABER: 2. Star Jalen Williams (All-NBA) ist QUESTIONABLE/DTD mit re-aggraviertem Hamstring - hat G3 (Grossteil) + G4 verpasst, Entscheidung erst nahe Tip-off; Ajay Mitchell ebenfalls fraglich -> Tiefe gedruckt.",
-        "saisonziel_gast": "San Antonio (West-2-Seed) in der WCF 2-2, gerade G4 zuhause 103:82 gewonnen (Defensiv-Schlacht). Auswaerts-Pivotal-Game-5 ohne Eliminations-Druck. Voller, gesunder Kern: Wembanyama, De'Aaron Fox (Ankle) und Dylan Harper (Adductor) laut Injury-Report alle erwartet/fit. 6-1 ATS als 5.5+-Underdog diese Saison.",
-        "motivations_asymmetrie": "KEIN Eliminations-Druck auf beiden Seiten (2-2) -> beide wollen die 3-2-Fuehrung, aber keiner muss. Mini-Edge OKC durch Heimvorteil (Paycom Center) + MVP SGA; gegenlaeufig drueckt der wahrscheinliche Ausfall/Limitierung von Jalen Williams die OKC-Tiefe, waehrend die Spurs gesund + nach G4-Sieg in Form sind. Unterm Strich KEIN belastbares Klassen-Edge in eine Richtung -> NBA nie SAFE (HR16), Pivotal-Game-5 max WACKEL.",
+        "saisonziel_heim": "Oklahoma City (West-Topseed, Heimrecht G1/G2/G5/G7) in der WCF 2-2, Heim-Game-5 = Pivotal-Spiel um die 3-2-Serienfuehrung mit Ziel NBA-Finals (Gegner: New York Knicks, ECF bereits entschieden). MVP-Anker Shai Gilgeous-Alexander spielt. ABER: 2. Star Jalen Williams (All-NBA) ist QUESTIONABLE/DTD mit re-aggraviertem Hamstring - hat G4 verpasst, Entscheidung erst nahe Tip-off; Ajay Mitchell ebenfalls fraglich -> Tiefe gedruckt.",
+        "saisonziel_gast": "San Antonio (West-2-Seed) in der WCF 2-2, gerade G4 zuhause 103:82 gewonnen (Defensiv-Schlacht, nur 185 Total). Hat ausserdem schon G1 IN Oklahoma City gewonnen (122:115) - kann im Paycom Center bestehen. Auswaerts-Pivotal-Game-5 ohne Eliminations-Druck. Voller, gesunder Kern: Wembanyama, De'Aaron Fox (Ankle) und Dylan Harper (Adductor) laut Injury-Report alle erwartet/fit. 6-1 ATS als 5.5+-Underdog diese Saison.",
+        "motivations_asymmetrie": "KEIN Eliminations-Druck auf beiden Seiten (2-2) -> beide wollen die 3-2-Fuehrung, aber keiner muss. Mini-Edge OKC durch Heimvorteil (Paycom Center) + MVP SGA; gegenlaeufig drueckt der wahrscheinliche Ausfall/Limitierung von Jalen Williams die OKC-Tiefe, waehrend die Spurs gesund + nach G4-Sieg in Form sind und in G1 bereits in OKC gewonnen haben. Unterm Strich KEIN belastbares Klassen-Edge in eine Richtung -> NBA nie SAFE (HR16), Pivotal-Game-5 max WACKEL.",
         "recovery_heim": "~2 Tage seit G4 (24.05) - normaler Playoff-Rhythmus, Heimspiel kein Reise-Nachteil; Belastungsthema ist die Hamstring-Verletzung von Jalen Williams, nicht der Spielrhythmus",
         "recovery_gast": "~2 Tage seit G4 (24.05) - normaler Playoff-Rhythmus, Reise nach Oklahoma City; Kern (Wemby/Fox/Harper) erwartet verfuegbar",
         "quellen": [
+          "https://api.balldontlie.io/v1/games?dates[]=2026-05-26",
           "https://www.nba.com/playoffs/2026/west-final",
           "https://www.basketball-reference.com/playoffs/2026-nba-western-conference-finals-spurs-vs-thunder.html",
           "https://dknetwork.draftkings.com/2026/05/25/jalen-williams-injury-update-for-thunder-vs-spurs-on-tuesday-5-26-26/",
-          "https://www.fanduel.com/research/thunder-vs-spurs-prediction-nba-odds-spread-best-bets-for-western-finals-5-26-2026",
           "https://www.sportsbettingdime.com/nba/odds/matchup/spurs-vs-thunder/"
         ]
       },
       "news": [
-        "Serie steht 2-2: G1 OKC 124-? (Total 243), G2 (>217), G3 (231), G4 San Antonio 103:82 OKC (nur 185 Total - Spurs erzwangen Heim-Defensiv-Schlacht). G5 ist das Pivotal-Spiel um die 3-2-Fuehrung, KEIN Eliminations-/Decider-Spiel (kein Team faellt heute raus).",
-        "Verifizierte Quoten (Aggregator-Konsens DraftKings/FanDuel/SportsbettingDime, 25.-26.05.): Thunder -5.5 Spread; Thunder ML ~-218 (~1.46), Spurs ML ~+180 (~2.80); Total 215.5-216.5 (DK eroeffnete 215.5). Bei bet365 live pruefen.",
-        "INJURY/LINEUP (Pflicht-Check Lesson 24.05): Jalen Williams (OKC, Hamstring) QUESTIONABLE/DTD - re-aggraviert, hat G3 grossteils + G4 verpasst, Entscheidung nahe Tip-off; Ajay Mitchell fraglich. SGA + Wembanyama spielen. Spurs: Fox (Ankle) + Harper (Adductor) erwartet verfuegbar.",
-        "Trend: Spurs 6-1 ATS als Underdog von 5.5+ Punkten diese Saison. Beide Teams kombiniert im Schnitt ~22 Pkt UEBER der aktuellen Total-Linie (Ueber-Argument), aber G4 war eine 185-Pkt-Defensiv-Schlacht -> Total-Markt zweischneidig.",
-        "Lesson-Lage: NBA-Playoffs NIE SAFE (HR16) + Pivotal-G5 -> Sieg/Spread/Total max WACKEL. Player-Punkte/DD raus aus Einzeltipps (Boykott 26.04). Einzel-Steals/-Rebounds/-Assists/PRA in DE VERBOTEN (Cason-Wallace-Steals-Pick aus Aggregator NICHT uebernehmen). WCF-Total-Ueber-Goldgrube am 24.05 gebrochen -> Ueber nur WACKEL. Star-Status vor Tip-off verifizieren (Lessons 24.05 Fox / 29.04 Embiid)."
+        "Serie steht 2-2 (per balldontlie-API verifiziert): G1 18.05 San Antonio 122:115 @ Oklahoma City (Total 237 - Spurs gewannen das Auftaktspiel IN OKC), G2 20.05 OKC 122:113 (235), G3 22.05 OKC 123:108 @ San Antonio (231), G4 24.05 San Antonio 103:82 @ San Antonio (nur 185 Total - Defensiv-Schlacht). G5 ist das Pivotal-Spiel um die 3-2-Fuehrung, KEIN Eliminations-/Decider-Spiel.",
+        "Quoten (Aggregator-Konsens DraftKings/FanDuel/SportsbettingDime, 25.-26.05.): Thunder -5.5 Spread; Thunder ML ~-218 (~1.46), Spurs ML ~+180 (~2.80); Total 215.5-216.5 (DK eroeffnete 215.5). NICHT API-verifizierbar -> bei bet365 live pruefen.",
+        "INJURY/LINEUP (Pflicht-Check Lessons 24.05/29.04): Jalen Williams (OKC, Hamstring) QUESTIONABLE/DTD - re-aggraviert, hat G4 verpasst, Entscheidung nahe Tip-off; Ajay Mitchell fraglich. SGA + Wembanyama spielen. Spurs: Fox (Ankle) + Harper (Adductor) erwartet verfuegbar. Status vor Tip-off neu pruefen.",
+        "Trend: Spurs 6-1 ATS als Underdog von 5.5+ Punkten diese Saison + bereits G1 in OKC gewonnen. Total-Markt zweischneidig: 3 der 4 Serien-Spiele klar drueber (237/235/231), aber G4 mit 185 eine reine Defensiv-Schlacht.",
+        "Lesson-Lage: NBA-Playoffs NIE SAFE (HR16) + Pivotal-G5 -> Sieg/Spread/Total max WACKEL. Player-Punkte/DD raus aus Einzeltipps (Boykott 26.04). Einzel-Steals/-Rebounds/-Assists/PRA in DE VERBOTEN (etwaige Aggregator-'Best Bets' auf Einzel-Stats NICHT uebernehmen). WCF-Total-Ueber-Goldgrube am 24.05 gebrochen -> Ueber nur WACKEL. Star-Status vor Tip-off verifizieren."
       ],
       "tipps": [
         {
@@ -41,7 +48,7 @@
           "markt": "San Antonio Spurs Handicap +5.5 Punkte",
           "quote": 1.91,
           "edge_prozent": null,
-          "begruendung": "Bester verteidigbarer Wert-Spot des Ein-Spiel-Tages: Spurs 6-1 ATS als 5.5+-Underdog diese Saison, gesunder Kern (Wembanyama + Fox + Harper alle erwartet), gerade G4 103:82 gewonnen - waehrend OKCs 2. Star Jalen Williams (All-NBA) questionable/DTD ist (Hamstring, G4 verpasst) und damit die OKC-Tiefe druckt. Bei 2-2 ohne Eliminations-Druck sind WCF-Spiele dieser Saison eng (G4 21-Pkt-Spurs-Sieg ist der Ausreisser, sonst kompetitiv). WACKEL, KEIN VALUE/SAFE: NBA-Playoffs nie SAFE (HR16) + Pivotal-Game-5 + Pinnacle-Fair-Line nicht verifizierbar -> edge_prozent null. Reality-Check: NBA-Spread/Sieg-Maerkte ueber System weiterhin nur als WACKEL belastbar (Player-Punkte sind der Bluter, Team-Maerkte ok aber varianzreich). Stake 0.5% x 550€ = 2,75€. Vor Tip-off Jalen-Williams-Status + Spurs-Startelf verifizieren. Bei bet365 live pruefen.",
+          "begruendung": "Bester verteidigbarer Wert-Spot des Ein-Spiel-Tages: Spurs 6-1 ATS als 5.5+-Underdog diese Saison, gesunder Kern (Wembanyama + Fox + Harper alle erwartet), gerade G4 103:82 gewonnen UND bereits G1 in OKC mit 122:115 geholt - sie koennen im Paycom Center bestehen. Gegenueber ist OKCs 2. Star Jalen Williams (All-NBA) questionable/DTD (Hamstring, G4 verpasst), was die OKC-Tiefe druckt. Bei 2-2 ohne Eliminations-Druck waren die WCF-Spiele bis auf G3/G4 (15 bzw. 21 Pkt) kompetitiv (G1 7 Pkt, G2 9 Pkt). WACKEL, KEIN VALUE/SAFE: NBA-Playoffs nie SAFE (HR16) + Pivotal-Game-5 + Pinnacle-Fair-Line nicht verifizierbar -> edge_prozent null. Reality-Check: NBA-Spread/Sieg-Maerkte ueber System nur als WACKEL belastbar (Player-Punkte sind der Bluter, Team-Maerkte ok aber varianzreich). Stake 0.5% x 550€ = 2,75€. Vor Tip-off Jalen-Williams-Status + Spurs-Startelf verifizieren. Bei bet365 live pruefen.",
           "faire_quote": 1.83,
           "empfohlener_einsatz_prozent": 0.5,
           "einsatz_euro": 2.75,
@@ -53,7 +60,7 @@
           "markt": "Über 216.5 Punkte",
           "quote": 1.91,
           "edge_prozent": null,
-          "begruendung": "Offensiv-Gegengewicht zum Spread-Tipp (Markt-Mix). Pro-Ueber: 3 der 4 Serien-Spiele gingen klar drueber (G1 243, G2 >217, G3 231), beide Teams kombiniert ~22 Pkt ueber der Linie im Saisonschnitt, Heim-Game in OKCs hohem Tempo, kein Eliminations-Druck der das Spiel zubetoniert. Contra (warum nur WACKEL, nicht VALUE): die WCF-Total-Ueber-Goldgrube ist am 24.05 ausdruecklich GEBROCHEN (G4 nur 185 Pkt = -34.5) + Lesson 25.05 warnt Small-Sample-Ueber-Patterns nicht uebergewichten + ein Muss-/Druck-Spiel kann jederzeit in eine Defensiv-Schlacht kippen. Reality-Check: NBA-Total max WACKEL laut Lesson-Lage. Linie 215.5-216.5 (live pruefen) - bei bet365 evtl. niedriger = besser fuer Ueber. Stake 0.5% x 550€ = 2,75€. Bei bet365 live pruefen.",
+          "begruendung": "Offensiv-Gegengewicht zum Spread-Tipp (Markt-Mix, entkoppelt vom Sieg-Outcome). Pro-Ueber: 3 der 4 Serien-Spiele gingen klar drueber (G1 237, G2 235, G3 231 - alle per API verifiziert), Heim-Game in OKCs hohem Tempo, kein Eliminations-Druck der das Spiel zubetoniert. Contra (warum nur WACKEL, nicht VALUE): die WCF-Total-Ueber-Goldgrube ist am 24.05 ausdruecklich GEBROCHEN (G4 nur 185 Pkt = -34.5) + Lesson 25.05 warnt Small-Sample-Ueber-Patterns (n<=4) nicht uebergewichten + ein etwaiger Ausfall von Jalen Williams nimmt OKC Offensiv-Volumen und ist damit sogar ein leichter Unter-Faktor (ehrlicher Gegenpunkt zum Spread-Tipp, der genau diesen Ausfall nutzt). Reality-Check: NBA-Total max WACKEL laut Lesson-Lage; Goldgrube-Priorität (Lesson 26.05) greift hier nicht, weil die System-Goldgruben Fussball-Maerkte sind, nicht NBA-Totals. Linie 215.5-216.5 (live pruefen) - bei bet365 evtl. niedriger = besser fuer Ueber. Stake 0.5% x 550€ = 2,75€. Bei bet365 live pruefen.",
           "faire_quote": 1.85,
           "empfohlener_einsatz_prozent": 0.5,
           "einsatz_euro": 2.75
@@ -72,7 +79,7 @@
       "quote": 1.91,
       "empfohlener_einsatz_prozent": 0.5,
       "einsatz_euro": 2.75,
-      "begruendung": "Top-Pick des Ein-Spiel-Tages. Spurs 6-1 ATS als 5.5+-Underdog, gesunder Kern (Wemby/Fox/Harper), G4-Sieg 103:82 - OKC ohne den fraglichen 2. Star Jalen Williams duenner. KEIN SAFE (NBA HR16) + Pivotal-G5 -> WACKEL. Jalen-Williams-Status + Spurs-Startelf vor Tip-off verifizieren.",
+      "begruendung": "Top-Pick des Ein-Spiel-Tages. Spurs 6-1 ATS als 5.5+-Underdog, gesunder Kern (Wemby/Fox/Harper), G4-Sieg 103:82 + bereits G1 in OKC gewonnen - OKC ohne den fraglichen 2. Star Jalen Williams duenner. KEIN SAFE (NBA HR16) + Pivotal-G5 -> WACKEL. Jalen-Williams-Status + Spurs-Startelf vor Tip-off verifizieren.",
       "rang": 1
     },
     {
@@ -84,7 +91,7 @@
       "quote": 1.91,
       "empfohlener_einsatz_prozent": 0.5,
       "einsatz_euro": 2.75,
-      "begruendung": "3/4 Serien-Spiele klar drueber (243/217+/231), beide Teams ~22 Pkt ueber Linie im Schnitt, OKC-Heim-Tempo. Nur WACKEL: WCF-Ueber-Goldgrube am 24.05 gebrochen (G4 185) + Small-Sample-Warnung (Lesson 25.05). Linie 215.5-216.5 live pruefen.",
+      "begruendung": "3/4 Serien-Spiele klar drueber (237/235/231), OKC-Heim-Tempo. Nur WACKEL: WCF-Ueber-Goldgrube am 24.05 gebrochen (G4 185) + Small-Sample-Warnung (Lesson 25.05) + JW-Ausfall waere leichter Unter-Faktor. Markt-entkoppelt vom Spread-Tipp. Linie 215.5-216.5 live pruefen.",
       "rang": 2
     }
   ],
@@ -98,12 +105,12 @@
     {
       "lesson": "Player-Punkte/DD raus aus Einzeltipps (Boykott 26.04) + Einzel-Steals/-Rebounds/-Assists/PRA in DE VERBOTEN",
       "angewandt_auf": "okc-sas (Markt-Auswahl)",
-      "details": "Nur Team-Maerkte (Spread + Total) getippt. Aggregator-'Best Bet' Cason Wallace Über 1.5 Steals bewusst NICHT uebernommen (Einzel-Steals in DE verboten). Keine SGA-/Wemby-Punkte-Einzeltipps (Boykott)."
+      "details": "Nur Team-Maerkte (Spread + Total) getippt. Etwaige Aggregator-'Best Bets' auf Einzel-Steals/Rebounds NICHT uebernommen (in DE verboten). Keine SGA-/Wemby-Punkte-Einzeltipps (Boykott)."
     },
     {
       "lesson": "WCF-Total-Ueber-Goldgrube am 24.05 gebrochen + Small-Sample-Ueber-Pattern nicht uebergewichten (Lessons 24.05 + 25.05)",
       "angewandt_auf": "okc-sas-2 / et-2",
-      "details": "Über 216.5 trotz 3/4-Über-Serien-Trend nur WACKEL statt VALUE - G4 war 185-Pkt-Defensiv-Schlacht, Druck-Spiele koennen jederzeit zubetonieren."
+      "details": "Über 216.5 trotz 3/4-Über-Serien-Trend (237/235/231) nur WACKEL statt VALUE - G4 war 185-Pkt-Defensiv-Schlacht, JW-Ausfall druckt OKC-Volumen, Druck-Spiele koennen jederzeit zubetonieren."
     },
     {
       "lesson": "Roster-/Lineup-Check-Pflicht vor Spieler-/Spread-Tipps (Lessons 24.05 Vinicius/Fox + 29.04 Embiid)",
@@ -111,10 +118,42 @@
       "details": "Jalen Williams (OKC 2. Star) questionable/DTD (Hamstring, G4 verpasst) als Kern-Argument fuer Spurs +5.5 genutzt; Flag _lineup_verifikation_pflicht=true gesetzt - Status + Spurs-Startelf vor Tip-off verifizieren."
     },
     {
-      "lesson": "Mini-Spiele-Tag-Korrelation: 1 Spiel -> keine Layer-1-konforme Mehrbein-Kombi moeglich (Lesson 25.05 + 21.05)",
+      "lesson": "Mini-Spiele-Tag-Korrelation: 1 Spiel -> keine Layer-1-konforme Mehrbein-Kombi moeglich (Lessons 26.05 + 25.05 + 21.05)",
       "angewandt_auf": "kombis (leer)",
-      "details": "Bei nur einem in-scope-Spiel laesst Layer-1 (max 1 Bein/Spiel) keine sinnvolle Mehrbein-Kombi zu -> 0 Kombis, nur 2 konservative WACKEL-Einzeltipps, Tages-Exposure 5,50€ (~1% Kasse)."
+      "details": "Bei nur einem in-scope-Spiel laesst Layer-1 (max 1 Bein/Spiel) keine sinnvolle Mehrbein-Kombi zu -> 0 Kombis (selbst die <=2-Spiele-Hartregel 'nur Safe+Moonshot' setzt >=2 Spiele voraus). Nur 2 konservative WACKEL-Einzeltipps, Tages-Exposure 5,50€ (~1% Kasse)."
+    },
+    {
+      "lesson": "Goldgrube-Priorität an duennem Coinflip-Tag (Lesson 26.05)",
+      "angewandt_auf": "Markt-Auswahl",
+      "details": "An duennen Slates Goldgrube-Maerkte priorisieren - heute nicht anwendbar, da die System-Goldgruben (Unter/Über 2.5 Tore, Torschützen, DC X2) Fussball-Maerkte sind und 0 Fussball-Spiele stattfinden. Im einzigen NBA-Spiel bleiben nur Team-Maerkte (Spread/Total) als belastbare WACKEL."
     }
   ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-05-26T16:18:00+02:00",
+    "modus": "intern (Master-Routine, kein separater Subagent - Ein-Spiel-Tag)",
+    "slate_verifikation": "football-data.org count=0 (kein Club-Fussball) + balldontlie 1 Spiel (Spurs@Thunder, postseason) live abgefragt 16:16. Serienstand 2-2 + G1-G4-Scores per API gegengeprueft und im news-Block korrigiert (Watchdog-Entwurf hatte G1 faelschlich OKC-favorabel + Totals 243/217+ statt verifizierter 237/235).",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "lineup_unsicher",
+        "tipp_id": "okc-sas-1",
+        "details": "Spurs +5.5 stuetzt sich auf Jalen-Williams-Ausfall (OKC). Status QUESTIONABLE/DTD ist Aggregator-Stand, NICHT API-verifizierbar -> Flag _lineup_verifikation_pflicht=true; bei JW-Comeback Spread-These schwaecher. Vor Tip-off pruefen."
+      },
+      {
+        "art": "markt_richtungs_spannung",
+        "spiel_id": "2026-05-26-okc-sas",
+        "details": "Markt-Mix Spread+Total: okc-sas-1 nutzt JW-Ausfall (OKC schwaecher) als Argument, okc-sas-2 (Über) profitiert von hohem Scoring. Kein echter Selbstwiderspruch (beide koennen co-occuren, z.B. 120:117 OKC), aber JW-Ausfall ist ein leichter Unter-Faktor - in der Über-Begruendung offen ausgewiesen. Beide bewusst nur WACKEL + Mini-Stake 0.5%."
+      },
+      {
+        "art": "quoten_nicht_verifizierbar",
+        "tipp_id": "okc-sas-1 / okc-sas-2",
+        "details": "Quoten (1.91 / 1.91 / Linien) sind Aggregator-Stand, balldontlie Free Tier liefert keine Odds. Pinnacle-Fair-Line nicht verfuegbar -> kein VALUE/SAFE-Label, edge_prozent null, 'bei bet365 live pruefen' im Tipp."
+      }
+    ],
+    "halluzinations_check": "0 Spieler-Tipps im Dossier (nur Team-Maerkte) -> kein Squad-Halluzinations-Risiko. Keine erfundenen Wettbewerbs-Behauptungen (parallel_heim/gast = keine, mit balldontlie-Quelle).",
+    "layer_check": "Layer-2/Layer-3 N/A: 0 Kombis (Ein-Spiel-Tag, Layer-1 verbietet Mehrbein-Kombi aus einem Spiel). Beide Einzeltipps markt-entkoppelt (Spread vs Total).",
+    "lessons_generiert": []
+  },
   "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool, keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
 }
