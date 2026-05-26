@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS = {
+{
   "datum": "2026-05-26",
   "erstellt_am": "2026-05-26T14:45:00+02:00",
   "hinweis": "🐚 WATCHDOG-RECOVERY (Di 14:45) - die 16:00-Hauptroutine hatte zum Pruefzeitpunkt noch keine data/tipps/2026-05-26.json geschrieben, der Watchdog holt die Generation nach (Pruefung lief diesmal frueher als 17:15). EXTREM DUENNER SAISONENDE-SLATE: Alle Top-5-Ligen durch (BL/PL/LaLiga/Serie A/Ligue 1 Schlusstage 23.-25.05), Bundesliga-Relegation entschieden (Paderborn 25.05 aufgestiegen), DFB-Pokal/Copa del Rey/Coppa Italia (13.05 Inter)/Coupe de France (22.05) Finals durch, EFL-Playoff-Finals bis 25.05 gelaufen, CL-Final erst 30.05. Im Zeitfenster (17:15 heute -> 06:00 Mi) gibt es GENAU EIN in-scope-Spiel: NBA WESTERN CONFERENCE FINALS GAME 5 San Antonio Spurs @ Oklahoma City Thunder (02:30 Berlin Mi, Paycom Center; Serie 2-2 nach Spurs-Sieg 103:82 in G4). Kein in-scope Club-Fussball heute. LESSONS HART ANGEWANDT: (a) NBA-Playoffs NIE SAFE (HR16/Mapper-Hebel B) + Game-5-Pivotal -> Sieg/Spread/Total max WACKEL; (b) Player-Punkte/DD raus aus Einzeltipps (Boykott 26.04) + Einzel-Steals/-Rebounds/-Assists/PRA in DE VERBOTEN -> nur Team-Maerkte (ML/Spread/Total); (c) WCF-Total-Ueber-Goldgrube am 24.05 GEBROCHEN (SAS-OKC G4 nur 185 Pkt = -34.5 unter Linie) + Small-Sample-Ueber-Pattern nicht uebergewichten (Lesson 25.05) -> Ueber nur WACKEL; (d) Roster-/Lineup-Check-Pflicht (Lessons 24.05 Vinicius/Fox): Jalen Williams (OKC 2. Star) ist QUESTIONABLE/DTD mit re-aggraviertem Hamstring (G4 verpasst) -> druckt OKC-Tiefe, Spurs gesund (Wemby/Fox/Harper) und 6-1 ATS als 5.5+-Underdog = Wert auf Spurs-Spread, Status aber vor Tip-off verifizieren; (e) Mini-Spiele-Tag-Korrelation (Lesson 25.05): bei nur 1 Spiel ist KEINE Layer-1-konforme Mehrbein-Kombi moeglich (max 1 Bein/Spiel) -> 0 Kombis, nur 2 konservative WACKEL-Einzeltipps. Kasse 550€ Stufe 1 (konservativ). Quoten Aggregator-Stand 25.-26.05 (DraftKings/FanDuel/SportsbettingDime) - bei bet365 LIVE pruefen, Pinnacle-Fair-Line diesmal nicht verifizierbar -> kein VALUE/SAFE-Label.",
@@ -118,4 +117,4 @@ window.__MIESMUSCHEL_TIPPS = {
     }
   ],
   "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool, keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
-};
+}
