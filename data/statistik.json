@@ -1,37 +1,37 @@
 {
-  "letzte_berechnung": "2026-05-25T06:16:16+00:00",
+  "letzte_berechnung": "2026-05-26T06:11:30+00:00",
   "gesamt": {
-    "tipps": 282,
-    "gewonnen": 152,
-    "verloren": 119,
+    "tipps": 287,
+    "gewonnen": 154,
+    "verloren": 122,
     "push": 2,
     "offen": 9,
-    "einsatz": 273.0,
-    "netto": 22.44,
-    "trefferquote": 56.1,
-    "roi_prozent": 8.2
+    "einsatz": 278.0,
+    "netto": 23.09,
+    "trefferquote": 55.8,
+    "roi_prozent": 8.3
   },
   "letzte_30_tage": {
-    "tipps": 248,
-    "gewonnen": 132,
+    "tipps": 238,
+    "gewonnen": 122,
     "verloren": 105,
     "push": 2,
     "offen": 9,
-    "einsatz": 239.0,
-    "netto": 22.19,
-    "trefferquote": 55.7,
-    "roi_prozent": 9.3
+    "einsatz": 229.0,
+    "netto": 19.69,
+    "trefferquote": 53.7,
+    "roi_prozent": 8.6
   },
   "letzte_90_tage": {
-    "tipps": 282,
-    "gewonnen": 152,
-    "verloren": 119,
+    "tipps": 287,
+    "gewonnen": 154,
+    "verloren": 122,
     "push": 2,
     "offen": 9,
-    "einsatz": 273.0,
-    "netto": 22.44,
-    "trefferquote": 56.1,
-    "roi_prozent": 8.2
+    "einsatz": 278.0,
+    "netto": 23.09,
+    "trefferquote": 55.8,
+    "roi_prozent": 8.3
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -416,6 +416,28 @@
       "offen": 0,
       "einsatz": 1.0,
       "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Bundesliga Relegation": {
+      "tipps": 3,
+      "gewonnen": 2,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 2.65,
+      "trefferquote": 66.7,
+      "roi_prozent": 88.3
+    },
+    "NBA Playoffs - Eastern Conference Finals": {
+      "tipps": 2,
+      "gewonnen": 0,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": -2.0,
       "trefferquote": 0.0,
       "roi_prozent": -100.0
     }
@@ -1225,15 +1247,15 @@
       "roi_prozent": 42.0
     },
     "Unter 2.5 Tore": {
-      "tipps": 8,
-      "gewonnen": 6,
+      "tipps": 9,
+      "gewonnen": 7,
       "verloren": 2,
       "push": 0,
       "offen": 0,
-      "einsatz": 8.0,
-      "netto": 4.08,
-      "trefferquote": 75.0,
-      "roi_prozent": 51.0
+      "einsatz": 9.0,
+      "netto": 4.98,
+      "trefferquote": 77.8,
+      "roi_prozent": 55.3
     },
     "Unter 211.5 Punkte (Total)": {
       "tipps": 1,
@@ -2862,6 +2884,50 @@
       "netto": -1.0,
       "trefferquote": 0.0,
       "roi_prozent": -100.0
+    },
+    "Sieg Paderborn (reguläre Spielzeit)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Filip Bilbija trifft jederzeit": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 2.75,
+      "trefferquote": 100.0,
+      "roi_prozent": 275.0
+    },
+    "Sieg Cleveland Cavaliers (Moneyline)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Unter 217.5 Punkte": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
     }
   },
   "nach_markt_typ": {
@@ -2877,15 +2943,15 @@
       "roi_prozent": -0.7
     },
     "Spieler-Punkte Unter (NBA)": {
-      "tipps": 9,
+      "tipps": 10,
       "gewonnen": 3,
-      "verloren": 6,
+      "verloren": 7,
       "push": 0,
       "offen": 0,
-      "einsatz": 9.0,
-      "netto": -0.28,
-      "trefferquote": 33.3,
-      "roi_prozent": -3.1
+      "einsatz": 10.0,
+      "netto": -1.28,
+      "trefferquote": 30.0,
+      "roi_prozent": -12.8
     },
     "Paolo Banchero Double-Double": {
       "tipps": 1,
@@ -2910,37 +2976,37 @@
       "roi_prozent": 55.0
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 88,
+      "tipps": 90,
       "gewonnen": 52,
-      "verloren": 35,
+      "verloren": 37,
       "push": 0,
       "offen": 1,
-      "einsatz": 87.0,
-      "netto": 6.85,
-      "trefferquote": 59.8,
-      "roi_prozent": 7.9
+      "einsatz": 89.0,
+      "netto": 4.85,
+      "trefferquote": 58.4,
+      "roi_prozent": 5.4
     },
     "Torschuetzen Jederzeit": {
-      "tipps": 42,
-      "gewonnen": 15,
+      "tipps": 43,
+      "gewonnen": 16,
       "verloren": 25,
       "push": 2,
       "offen": 0,
-      "einsatz": 42.0,
-      "netto": 7.62,
-      "trefferquote": 37.5,
-      "roi_prozent": 18.1
+      "einsatz": 43.0,
+      "netto": 10.37,
+      "trefferquote": 39.0,
+      "roi_prozent": 24.1
     },
     "Unter 2.5 Tore": {
-      "tipps": 12,
-      "gewonnen": 8,
+      "tipps": 13,
+      "gewonnen": 9,
       "verloren": 4,
       "push": 0,
       "offen": 0,
-      "einsatz": 12.0,
-      "netto": 3.93,
-      "trefferquote": 66.7,
-      "roi_prozent": 32.7
+      "einsatz": 13.0,
+      "netto": 4.83,
+      "trefferquote": 69.2,
+      "roi_prozent": 37.2
     },
     "Doppelte Chance 1X": {
       "tipps": 22,
@@ -3319,26 +3385,26 @@
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 135,
-      "gewonnen": 66,
-      "verloren": 64,
+      "tipps": 138,
+      "gewonnen": 67,
+      "verloren": 66,
       "push": 1,
       "offen": 4,
-      "einsatz": 131.0,
-      "netto": 7.33,
-      "trefferquote": 50.8,
-      "roi_prozent": 5.6
+      "einsatz": 134.0,
+      "netto": 6.23,
+      "trefferquote": 50.4,
+      "roi_prozent": 4.6
     },
     "2.00-3.00": {
-      "tipps": 34,
+      "tipps": 35,
       "gewonnen": 13,
-      "verloren": 19,
+      "verloren": 20,
       "push": 1,
       "offen": 1,
-      "einsatz": 33.0,
-      "netto": 3.04,
-      "trefferquote": 40.6,
-      "roi_prozent": 9.2
+      "einsatz": 34.0,
+      "netto": 2.04,
+      "trefferquote": 39.4,
+      "roi_prozent": 6.0
     },
     "1.00-1.50": {
       "tipps": 100,
@@ -3352,15 +3418,15 @@
       "roi_prozent": 7.6
     },
     "3.00+": {
-      "tipps": 13,
-      "gewonnen": 4,
+      "tipps": 14,
+      "gewonnen": 5,
       "verloren": 9,
       "push": 0,
       "offen": 0,
-      "einsatz": 13.0,
-      "netto": 4.8,
-      "trefferquote": 30.8,
-      "roi_prozent": 36.9
+      "einsatz": 14.0,
+      "netto": 7.55,
+      "trefferquote": 35.7,
+      "roi_prozent": 53.9
     }
   },
   "nach_kategorie": {
@@ -3376,26 +3442,26 @@
       "roi_prozent": 4.2
     },
     "value": {
-      "tipps": 172,
-      "gewonnen": 85,
+      "tipps": 173,
+      "gewonnen": 86,
       "verloren": 76,
       "push": 2,
       "offen": 9,
-      "einsatz": 163.0,
-      "netto": 13.89,
-      "trefferquote": 52.8,
-      "roi_prozent": 8.5
+      "einsatz": 164.0,
+      "netto": 14.79,
+      "trefferquote": 53.1,
+      "roi_prozent": 9.0
     },
     "wackel": {
-      "tipps": 39,
-      "gewonnen": 17,
-      "verloren": 22,
+      "tipps": 43,
+      "gewonnen": 18,
+      "verloren": 25,
       "push": 0,
       "offen": 0,
-      "einsatz": 39.0,
-      "netto": 5.57,
-      "trefferquote": 43.6,
-      "roi_prozent": 14.3
+      "einsatz": 43.0,
+      "netto": 5.32,
+      "trefferquote": 41.9,
+      "roi_prozent": 12.4
     }
   },
   "clv_gesamt": {
@@ -3415,6 +3481,124 @@
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-05-25",
+      "gesamt": {
+        "tipps": 5,
+        "gewonnen": 2,
+        "verloren": 3,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 5.0,
+        "netto": 0.65,
+        "trefferquote": 40.0,
+        "roi_prozent": 13.0
+      },
+      "spiele": [
+        {
+          "id": "2026-05-25-pad-wob",
+          "liga": "Bundesliga Relegation",
+          "heim": "SC Paderborn 07",
+          "gast": "VfL Wolfsburg",
+          "endstand": "2:1 n.V. (regulaer 1:1)",
+          "tipps": [
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.9,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.9,
+              "kommentar": "Reguläre Zeit 1:1 = 2 Tore -> Unter 2.5 JA. Tore: Pejcinovic (3., 0:1), Bilbija (38., 1:1); das 2:1 (Curda) fiel erst in der 100. (Verlängerung) und zählt NICHT für 90-Min-Totals. Goldgrube Unter 2.5 hält."
+            },
+            {
+              "markt": "Sieg Paderborn (reguläre Spielzeit)",
+              "quote": 1.85,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Reguläre Spielzeit endete 1:1 -> kein Paderborn-Sieg in regulärer Zeit (Markt war ausdrücklich 'reguläre Spielzeit'). Paderborn stieg zwar auf, aber erst durch Curda-Tor in der Verlängerung (100.). 2:0-Insurance nicht anwendbar (BL-Relegation)."
+            },
+            {
+              "markt": "Filip Bilbija trifft jederzeit",
+              "quote": 3.75,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 2.75,
+              "kommentar": "Bilbija stand in der Startelf (verifiziert) und traf in der 38. zum 1:1 -> Torschützen Jederzeit JA. Goldgrube Torschützen Jederzeit bestätigt. Kein Einwechslungs-Boost nötig (Eigentor selbst erzielt)."
+            }
+          ]
+        },
+        {
+          "id": "2026-05-25-cle-nyk",
+          "liga": "NBA Playoffs - Eastern Conference Finals",
+          "heim": "Cleveland Cavaliers",
+          "gast": "New York Knicks",
+          "endstand": "93:130",
+          "tipps": [
+            {
+              "markt": "Sieg Cleveland Cavaliers (Moneyline)",
+              "quote": 2.13,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Cleveland verlor 93:130 (-37) und wurde geschwept (Knicks 4-0). Sweep-Abwehr-Heim-Explosions-These (Lessons 24.04/25.04) grob widerlegt: das 0-3-Heimteam explodierte nicht, sondern wurde weggefegt. Mitchell 31, aber Defensiv-Kollaps (130 Gegenpunkte)."
+            },
+            {
+              "markt": "Unter 217.5 Punkte",
+              "quote": 1.91,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Total 223 Punkte (93+130) > 217.5 -> ÜBER, Unter VERLOREN. Elimination-Defensiv-These (Lesson 24.05 WCF-G4 185 Pkt) hier widerlegt: überlegener Sweep-Gegner (Knicks, 11 Siege Folge) drückte aufs Tempo, chancenloses 0-3-Team konnte nicht bremsen -> Blowout statt Defensiv-Schlacht."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "⚖️ Tor-Total-Doppel (~3.6x)",
+          "kategorie": "balance",
+          "gesamtquote": 3.63,
+          "einsatz_prozent": 0.8,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Paderborn - Wolfsburg: Unter 2.5 Tore",
+              "quote": 1.9,
+              "status": "gewonnen",
+              "kommentar": "Reguläre Zeit 1:1 = 2 Tore -> Unter 2.5 JA. Tore: Pejcinovic (3., 0:1), Bilbija (38., 1:1); das 2:1 (Curda) fiel erst in der 100. (Verlängerung) und zählt NICHT für 90-Min-Totals. Goldgrube Unter 2.5 hält."
+            },
+            {
+              "markt": "Knicks @ Cavaliers: Unter 217.5 Punkte",
+              "quote": 1.91,
+              "status": "verloren",
+              "kommentar": "Total 223 Punkte (93+130) > 217.5 -> ÜBER, Unter VERLOREN. Elimination-Defensiv-These (Lesson 24.05 WCF-G4 185 Pkt) hier widerlegt: überlegener Sweep-Gegner (Knicks, 11 Siege Folge) drückte aufs Tempo, chancenloses 0-3-Team konnte nicht bremsen -> Blowout statt Defensiv-Schlacht."
+            }
+          ]
+        },
+        {
+          "name": "🎲 Außenseiter-Sieg-Mix (~3.9x)",
+          "kategorie": "risk",
+          "gesamtquote": 3.94,
+          "einsatz_prozent": 0.25,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Paderborn - Wolfsburg: Sieg Paderborn (reguläre Spielzeit)",
+              "quote": 1.85,
+              "status": "verloren",
+              "kommentar": "Reguläre Spielzeit endete 1:1 -> kein Paderborn-Sieg in regulärer Zeit (Markt war ausdrücklich 'reguläre Spielzeit'). Paderborn stieg zwar auf, aber erst durch Curda-Tor in der Verlängerung (100.). 2:0-Insurance nicht anwendbar (BL-Relegation)."
+            },
+            {
+              "markt": "Knicks @ Cavaliers: Sieg Cleveland Cavaliers (Moneyline)",
+              "quote": 2.13,
+              "status": "verloren",
+              "kommentar": "Cleveland verlor 93:130 (-37) und wurde geschwept (Knicks 4-0). Sweep-Abwehr-Heim-Explosions-These (Lessons 24.04/25.04) grob widerlegt: das 0-3-Heimteam explodierte nicht, sondern wurde weggefegt. Mitchell 31, aber Defensiv-Kollaps (130 Gegenpunkte)."
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-05-24",
       "gesamt": {

@@ -1,0 +1,533 @@
+{
+  "datum": "2026-05-25",
+  "erstellt_am": "2026-05-25T14:36:00+02:00",
+  "hinweis": "🐚 WATCHDOG-RECOVERY (Mo 14:36) - die 16:00-Hauptroutine hatte zum Pruefzeitpunkt noch keine data/tipps/2026-05-25.json geschrieben, der Watchdog holt die Generation nach. DUENNER SAISONENDE-SLATE: PL/LaLiga/Serie A/Ligue 1 sind durch (Schlusstage 23.-24.05), Coupe-de-France-Final war 22.05., Copa-del-Rey + Coppa-Italia + DFB-Pokal-Final durch. CL-Final erst 30.05. Im Zeitfenster (17:15 heute -> 06:00 Di) nur ZWEI in-scope-Spiele: (1) BUNDESLIGA-RELEGATION RUECKSPIEL SC Paderborn - VfL Wolfsburg (20:30, Hinspiel 0:0) - echtes Coinflip-Entscheidungsspiel, KEIN SAFE; (2) NBA EASTERN CONFERENCE FINALS G4 New York Knicks @ Cleveland Cavaliers (02:00 Berlin Di, Knicks fuehren 3-0 = Sweep-Matchball). League-Two-Playoff-Final (15:00) liegt VOR dem Fenster, Schottische Playoffs sind out-of-scope. LESSONS HEUTE HART ANGEWANDT: (a) Champion/Favorit-Saisonende-Drehungs-Cluster (2-Tage-Serie 23.-24.05) + Schlusstag-Motivations-Asymmetrie widerlegt (24.05) -> keine SAFE-Favoriten-Tipps; (b) Doppelspiel-Hinspiel-defensiv (22.05 WOB-PAD 0:0) -> Tor-Markt im Rueckspiel vorsichtig, Unter 2.5 als Goldgrube-VALUE bevorzugt; (c) NBA NIE SAFE (HR16) + Player-Punkte raus aus Einzel + WCF-Total-Ueber-Goldgrube gebrochen (24.05) -> NBA-Total max WACKEL + Elimination-Game defensiv tendierend; (d) Sweep-Abwehr-Heim-Explosion (24.04/25.04) -> Cavs-Heim-Elimination als WACKEL-Flier mit Plus-Quote, kein Vertrauen in Schluss-Outcome; (e) Lineup-Check-Pflicht (24.05 Vinicius / Fox) bei jedem Spieler-Tipp. Kasse 550€ Stufe 1 (konservativ). DC-CAP eingehalten (0 DC heute - bei Coinflip-Relegation lieber Wackel-Sieg + Torschuetze als DC-SAFE). Kombi-Ladder bewusst NUR 2 Kombis (Mini-Spiele-Tag-Cap, Lessons 19.+21.05): bei 2 Spielen kein sauberes 3-Bein moeglich (Layer-1 max 1 Bein/Spiel), kein Moonshot (30x+ nur ueber Player-Prop-Flier = boykottiert). Quoten Aggregator-/Tippdienst-Stand 23.-25.05 (sport1/wettbasis/DraftKings/NBC) - bei bet365 LIVE pruefen.",
+  "spiele": [
+    {
+      "id": "2026-05-25-pad-wob",
+      "liga": "Bundesliga Relegation",
+      "matchday": "Rückspiel (Hinspiel 0:0)",
+      "heim": "SC Paderborn 07",
+      "gast": "VfL Wolfsburg",
+      "anstoss": "2026-05-25T20:30:00+02:00",
+      "stadion": "Home Deck Arena, Paderborn",
+      "saison_kontext": {
+        "parallel_heim": "keine - 2. Bundesliga regulär abgeschlossen, Paderborn nur noch in der Relegation; kein UEFA-Wettbewerb, kein engtaktiges Restprogramm",
+        "parallel_gast": "keine - Bundesliga-Saison abgeschlossen, Wolfsburg nur noch in der Relegation; kein UEFA-Wettbewerb",
+        "saisonziel_heim": "Paderborn als 2.-Bundesliga-3. spielt um den AUFSTIEG in die Bundesliga - Hinspiel auswärts 0:0, im Rückspiel zuhause reicht ein Sieg (jeder Sieg) zum Aufstieg; bei Remis Verlängerung/Elfmeter. Maximaler Existenz-/Karriere-Anreiz.",
+        "saisonziel_gast": "Wolfsburg als Bundesliga-16. kämpft um den KLASSENERHALT - nach dem 0:0-Hinspiel reicht auswärts ein Remis (dann Verlängerung) bzw. ein Sieg zum Klassenerhalt. Maximaler Existenz-Druck (drohender Abstieg + finanzielle Folgen).",
+        "motivations_asymmetrie": "KEINE verwertbare Asymmetrie - beidseitiger Maximal-Existenz-Druck (Aufstieg vs Klassenerhalt). Genuines Entscheidungsspiel, echtes Coinflip; einziger Mini-Edge ist der Heimvorteil Paderborn (volles Stadion, Aufstiegs-Euphorie). Wolfsburg nominell höhere BL-Kaderklasse, kam aber im Hinspiel offensiv nicht durch (0:0). KEIN Favoriten-Spot -> KEIN SAFE.",
+        "recovery_heim": "4 Tage seit dem Hinspiel (21.05.) - normaler Rhythmus, keine Doppelbelastung; Sticker fehlt (Rote Karte Hinspiel, gesperrt), Obermair verletzt",
+        "recovery_gast": "4 Tage seit dem Hinspiel (21.05.) - normaler Rhythmus, keine Doppelbelastung; voller BL-Kader, Startelf vom Hinspiel weitgehend verfügbar",
+        "quellen": [
+          "https://www.sportschau.de/fussball/bundesliga/paderborn-behaelt-alle-chancen-auf-die-bundesliga,wolfsburg-paderborn-relegation-spielbericht-100.html",
+          "https://www.sport1.de/news/sportwetten/wett-tipps/paderborn-vs-wolfsburg-prognosen-wett-tipps-und-quoten-bundesliga-relegation-am-25-05-2026",
+          "https://www.wettbasis.com/sportwetten-tipps/paderborn-vs-wolfsburg-tipp-prognose-quoten-25-05-2026-bundesliga-relegation"
+        ]
+      },
+      "news": [
+        "Relegations-Rückspiel nach 0:0-Hinspiel in Wolfsburg - es geht um alles: Paderborn Aufstieg, Wolfsburg Klassenerhalt. Bei Gleichstand nach 90 Min Verlängerung + ggf. Elfmeterschießen (keine Auswärtstor-Regel in der BL-Relegation).",
+        "Paderborn-Aufstellung (Vorschau): Seimen – Hansen, Scheller, Brackelmann – Curda, Baur, Castaneda, Müller – Bilbija, Klaas – Marino. Es fehlen Sticker (gesperrt nach Roter Karte im Hinspiel) und Obermair (verletzt).",
+        "Wolfsburg-Aufstellung (Vorschau): Grabara – Belocian, Vavro, Koulierakis – Kumbedi, Vinicius Souza, Maehle – Svanberg, Eriksen – Pejcinovic, Daghim.",
+        "Quoten Tippdienst-Stand (sport1/wettbasis, 25.05.): Paderborn-Sieg ~1.83-1.90, Remis ~3.40, Wolfsburg-Sieg ~2.00-2.05 -> faktisches Pick'em mit leichtem Heim-Touch. Unter 2.5 Tore ~1.85-1.95. Bei bet365 live prüfen.",
+        "Aufstellung 60-90 Min vor Anstoß verifizieren (Lessons 24.05 Vinicius / 22.04): Torschützen-Tipp nur gültig wenn der Spieler in der Startelf steht."
+      ],
+      "tipps": [
+        {
+          "id": "pad-wob-1",
+          "kategorie": "value",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.9,
+          "edge_prozent": 5.0,
+          "begruendung": "Goldgrube Unter 2.5 Tore (12 Tipps / 66.7% / +32.7% ROI - stärkster Tor-Markt im System). Bevorzugter Markt für Doppelspiel-Hinspiele/Existenz-Druck-Partien laut Lesson 22.05 (WOB-PAD Hinspiel selbst 0:0 trotz Über-2.5-Goldgrube-These - Vorsichts-Defensive überwog). Beide Teams haben im Hinspiel über 90 Min kein Tor erzielt; im Rückspiel zählt jeder Fehler doppelt (Aufstieg/Abstieg) -> tor-arme, vorsichtige Anfangs-/Mittelphase wahrscheinlich, mögliche Verlängerung erhöht die Chance auf <=2 Tore in regulärer Zeit zusätzlich. Risiko: später Aufstiegs-/Klassenerhalts-Druck kann das Spiel in Schlussphase öffnen -> VALUE statt SAFE. Stake 1.0% x 550€ = 5,50€. Bei bet365 live prüfen.",
+          "faire_quote": 1.8,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 5.5
+        },
+        {
+          "id": "pad-wob-2",
+          "kategorie": "wackel",
+          "markt": "Sieg Paderborn (reguläre Spielzeit)",
+          "quote": 1.85,
+          "edge_prozent": null,
+          "begruendung": "Coinflip-Spiel (Quoten ~1.85/3.40/2.05) -> bewusst WACKEL, KEIN SAFE/VALUE (Lessons 24.05 Schlusstag-Asymmetrie-These widerlegt + Champion/Favorit-Drehungs-Cluster). Paderborn hat den Heimvorteil (ausverkauftes Stadion, Aufstiegs-Euphorie) und MUSS gewinnen, um direkt aufzusteigen -> Offensiv-Anreiz höher als bei Wolfsburg, dem das Remis (Verlängerung) reicht. Gegen-Argument: Wolfsburg ist die nominell stärkere BL-Kaderklasse und kann auf Konter + Verlängerung spielen. Echtes 50/50 -> Mini-Stake. 2:0-Insurance NICHT anwendbar (gilt nur 1.BL+CL, nicht BL-Relegation). Stake 0.5% x 550€ = 2,75€. Bei bet365 live prüfen.",
+          "faire_quote": 1.95,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 2.75
+        },
+        {
+          "id": "pad-wob-3",
+          "kategorie": "wackel",
+          "markt": "Filip Bilbija trifft jederzeit",
+          "quote": 3.75,
+          "edge_prozent": null,
+          "begruendung": "Goldgrube Torschützen Jederzeit (42 Tipps / +18.1% ROI) + Offensiv-Gegengewicht zum Unter-Tipp (Markt-Mix-Pflicht: nicht nur defensive Tipps). Bilbija als vorderster Paderborn-Angreifer im Heim-Muss-Sieg = Haupt-Chancenabnehmer eines Teams, das auf den Aufstieg drücken muss. WACKEL statt VALUE: kein nachgewiesener Form-Edge-Lauf (3+ Tore in 5) recherchierbar + Coinflip-Spiel + Aufstellung erst kurz vor Anstoß sicher (Roster-/Sperren-Check-Pflicht Lesson 24.05 Vinicius - Tipp nur gültig wenn Bilbija startet). Stake 0.5% x 550€ = 2,75€. Bei bet365 live prüfen.",
+          "faire_quote": 3.4,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 2.75,
+          "_aufstellungs_verifikation_pflicht": true
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "2:1 n.V. (regulaer 1:1)",
+        "halbzeit": "1:1",
+        "quelle": "WebSearch (sportschau/kicker/eurosport) 25.-26.05.2026"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "pad-wob-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.9,
+          "kommentar": "Reguläre Zeit 1:1 = 2 Tore -> Unter 2.5 JA. Tore: Pejcinovic (3., 0:1), Bilbija (38., 1:1); das 2:1 (Curda) fiel erst in der 100. (Verlängerung) und zählt NICHT für 90-Min-Totals. Goldgrube Unter 2.5 hält.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "pad-wob-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Reguläre Spielzeit endete 1:1 -> kein Paderborn-Sieg in regulärer Zeit (Markt war ausdrücklich 'reguläre Spielzeit'). Paderborn stieg zwar auf, aber erst durch Curda-Tor in der Verlängerung (100.). 2:0-Insurance nicht anwendbar (BL-Relegation).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "pad-wob-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.75,
+          "kommentar": "Bilbija stand in der Startelf (verifiziert) und traf in der 38. zum 1:1 -> Torschützen Jederzeit JA. Goldgrube Torschützen Jederzeit bestätigt. Kein Einwechslungs-Boost nötig (Eigentor selbst erzielt).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:1",
+        "endstand": "2:1 n.V. (regulaer 1:1)",
+        "tore": [
+          {
+            "min": 3,
+            "team": "gast",
+            "spieler": "Dzenan Pejcinovic",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 38,
+            "team": "heim",
+            "spieler": "Filip Bilbija",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 100,
+            "team": "heim",
+            "spieler": "Lukas Curda",
+            "stand_danach": "2:1",
+            "verlaengerung": true
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine 2-Tore-Drehung (max. Differenz 0:1). Wolfsburg ging früh 0:1 in Führung (Pejcinovic 3.), sah aber in der 14. die Rote Karte (Maehle) und wurde danach in Unterzahl dominiert. Paderborn glich aus (Bilbija 38.) und entschied erst in der Verlängerung (Curda 100.) -> Aufstieg; Wolfsburg erstmals nach 29 Jahren abgestiegen."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Unentschieden/Unentschieden (regulär 1:1/1:1)",
+          "kein_team_zu_null": true,
+          "rote_karte": "Maehle (Wolfsburg) 14. -> ~76 Min + Verlängerung in Unterzahl"
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Frühe Rote Karte (Maehle 14.) kippte das Coinflip-Entscheidungsspiel - Wolfsburg in Unterzahl, Paderborn übernahm Kontrolle, brauchte aber bis zur Verlängerung für den Siegtreffer.",
+          "Existenz-Druck-Doppelspiel erneut tor-arm in regulärer Zeit (Hinspiel 0:0, Rückspiel regulär 1:1) - bestätigt Lesson 22.05 (Unter bevorzugt). Beide getippten Goldgrube-Märkte (Unter 2.5 + Torschützen Jederzeit) trafen.",
+          "Sieg-Tipp 'reguläre Spielzeit' verloren OBWOHL Paderborn aufstieg: bei Coinflip-K.o.-Spielen mit Verlängerungs-Option ist der 90-Min-Sieg-Tipp strukturell riskanter als das Weiterkommen."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-25-cle-nyk",
+      "liga": "NBA Playoffs - Eastern Conference Finals",
+      "matchday": "Game 4 (Serie: New York führt 3-0, Cavs im Sweep-/Elimination-Match)",
+      "heim": "Cleveland Cavaliers",
+      "gast": "New York Knicks",
+      "anstoss": "2026-05-26T02:00:00+02:00",
+      "stadion": "Rocket Arena (Rocket Mortgage FieldHouse), Cleveland",
+      "saison_kontext": {
+        "parallel_heim": "keine - NBA-Playoffs, ECF ist die einzige Bühne; kein paralleler Wettbewerb",
+        "parallel_gast": "keine - NBA-Playoffs, ECF ist die einzige Bühne",
+        "saisonziel_heim": "Cleveland (East-Topseed) liegt 0-3 zurück = ELIMINATION-SPIEL, jede Niederlage beendet die Saison. Kein Team hat je einen 0-3-Rückstand gedreht -> Cavs spielen mit dem Rücken zur Wand, voller Kader (Mitchell, Mobley, Allen, Harden laut Injury-Report alle fit/erwartet).",
+        "saisonziel_gast": "New York führt 3-0 und steht vor dem Sweep + erstem Finals-Einzug/East-Titel seit 27 Jahren. Maximaler positiver Anreiz, aber auf Auswärts-Parkett (Road-Closeout = statistisch das schwerste 'letzte' Spiel) und ohne Existenz-Druck (kann notfalls in G5/6/7 nachlegen).",
+        "motivations_asymmetrie": "Asymmetrie pro Cavs in der Brisanz: Heim-Team unter Sweep-/Elimination-Druck explodiert empirisch häufig (Lessons 24.04 Sweep-Abwehr-Heimsieg + 25.04). Knicks könnten als 3-0-Führender minimal satter/lockerer in einen Road-Closeout gehen. ABER: 0-3-Teams verlieren G4 historisch meist trotzdem -> echtes Toss-up, KEIN belastbares Edge in eine Richtung.",
+        "recovery_heim": "~2 Tage seit G3 - normaler Playoff-Rhythmus, kein Reise-Nachteil (Heimspiel)",
+        "recovery_gast": "~2 Tage seit G3 - normaler Playoff-Rhythmus, Reise nach Cleveland",
+        "quellen": [
+          "https://www.nbcsports.com/betting/nba/news/knicks-vs-cavaliers-game-4-ecf-predictions-odds-recent-stats-trends-best-bets-on-may-25",
+          "https://www.totalprosports.com/nba/cleveland-cavaliers/knicks-vs-cavaliers-2026-ecf-preview-odds-injury-updates-may-25/",
+          "https://dknetwork.draftkings.com/2026/05/23/opening-odds-for-cavaliers-vs-knicks-game-4-in-2026-eastern-conference-semifinals/"
+        ]
+      },
+      "news": [
+        "New York führt die Serie 3-0 (G1 115-104 OT, G2 109-93, G3 121-108) und kann mit einem Sieg den Sweep + ersten Finals-Einzug seit 27 Jahren perfekt machen; Cleveland im Elimination-Aus, kein NBA-Team holte je 0-3 auf. Knicks 10 Siege in Folge.",
+        "Verifizierte Quoten (Aggregator-Konsens FanDuel/NBC/DK/Basketballsphere): Cavaliers ML ~2.13 (+110/+118), Knicks ML ~1.74 (-130/-138); Knicks -2.5 @1.91; Total 217.5 (eröffnete 215.5).",
+        "Markt vs Modell divergieren: Markt macht Knicks zum Auswärts-Favoriten, aber numberFire gibt Cavs 57.2% und Basketballsphere pickt Cavs ML 2.12 (Heim-/Must-Win-Faktor). Cavs-Offensiv-Krise: Serien-Rating 103.4 (0-9 wenn unter 111.5), Harden klar unter Erwartung, Mitchell trägt fast allein.",
+        "Beide Teams sauberer Injury-Report (keine Ausfälle). HINWEIS Recherche: Darius Garland NICHT mehr im Cavs-Kader (Harden ist der Aufbauspieler) - nicht erwähnen/tippen.",
+        "Lesson-Lage: NBA-Playoffs NIE SAFE (HR16); Player-Punkte raus aus Einzeltipps (Boykott seit 26.04.); WCF-Total-Ueber-Goldgrube am 24.05 gebrochen -> Total max WACKEL. Lineup/Star-Status vor Tip-off verifizieren (Lessons 24.05 Fox / 29.04 Embiid)."
+      ],
+      "tipps": [
+        {
+          "id": "cle-nyk-1",
+          "kategorie": "wackel",
+          "markt": "Sieg Cleveland Cavaliers (Moneyline)",
+          "quote": 2.13,
+          "edge_prozent": null,
+          "begruendung": "Heim-Team unter Sweep-/Elimination-Druck explodiert empirisch häufig (Lessons 24.04 Sweep-Abwehr-Heimsieg + 25.04). Cavs zuhause mit vollem, sauberem Injury-Report (Mitchell/Mobley/Allen/Harden alle verfügbar), Rücken zur Wand. MODELL-EDGE: numberFire gibt Cavs 57.2%, Basketballsphere pickt Cavs ML @2.12 (2 Units) wegen Heim-/Must-Win-Faktor - der Markt macht dagegen die Knicks zu ~-2.5-Auswärts-Favoriten (ML ~1.74). Plus-Quote +110 (~2.13) = Preis-Value falls das Modell recht hat. WACKEL, KEIN VALUE/SAFE: NBA-Playoffs nie SAFE (HR16) + 0-3-Teams verlieren G4 historisch fast immer (Sweep ist die Norm, kein Team holte je 0-3 auf) + Cavs-Offensiv-Krise (Serien-Rating 103.4, 0-9 wenn unter 111.5) -> echtes Toss-up, reiner Plus-Quoten-Flier mit Mini-Stake. Stake 0.5% x 550€ = 2,75€. Bei bet365 live prüfen.",
+          "faire_quote": 2.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 2.75
+        },
+        {
+          "id": "cle-nyk-2",
+          "kategorie": "wackel",
+          "markt": "Unter 217.5 Punkte",
+          "quote": 1.91,
+          "edge_prozent": null,
+          "begruendung": "Elimination-/Muss-Sieg-Spiele tendieren zur Defensiv-Schlacht mit reduziertem Tempo (Lesson 24.05 WCF-G4: SAS-OKC 185 Pkt = 34.5 unter Linie; Lesson 02.05 G6/G7-Druck defensiv). Verifizierte Linie 217.5 (eröffnete 215.5). Cavs-Offensiv-Krise über die ganze Serie (3P 32%->25%->29%, Serien-Offensiv-Rating nur 103.4) + Rotoworld-Tendenz Under 217.5. Die WCF-Total-Ueber-Goldgrube ist am 24.05 ausdrücklich gebrochen -> Total nur WACKEL. Gegen-Argument: Cavs MÜSSEN Punkte produzieren (0-3) + Knicks-Transition-Tempo (30 Transition-Pkt in G3) -> beidseitig, daher WACKEL + Mini-Stake. Stake 0.5% x 550€ = 2,75€. Bei bet365 live prüfen.",
+          "faire_quote": 1.83,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 2.75
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "93:130",
+        "halbzeit": "49:68 (Knicks +19)",
+        "quelle": "WebSearch (ESPN/Yahoo/CBS/NBA.com) 25.-26.05.2026"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "cle-nyk-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Cleveland verlor 93:130 (-37) und wurde geschwept (Knicks 4-0). Sweep-Abwehr-Heim-Explosions-These (Lessons 24.04/25.04) grob widerlegt: das 0-3-Heimteam explodierte nicht, sondern wurde weggefegt. Mitchell 31, aber Defensiv-Kollaps (130 Gegenpunkte).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "cle-nyk-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Total 223 Punkte (93+130) > 217.5 -> ÜBER, Unter VERLOREN. Elimination-Defensiv-These (Lesson 24.05 WCF-G4 185 Pkt) hier widerlegt: überlegener Sweep-Gegner (Knicks, 11 Siege Folge) drückte aufs Tempo, chancenloses 0-3-Team konnte nicht bremsen -> Blowout statt Defensiv-Schlacht.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "49:68",
+        "endstand": "93:130",
+        "tore": [],
+        "viertel": {
+          "q1": "Knicks +12",
+          "halbzeit": "49:68 (Knicks +19; 20:0-Lauf in Q2)",
+          "q3": "Knicks-Lead zwischenzeitlich +30",
+          "endstand": "93:130 (Knicks +37)"
+        },
+        "drehung": {
+          "war_drehung": false,
+          "details": "Kein Comeback - Knicks-Wire-to-wire-Blowout. Q1 +12, Halbzeit +19, Q3 zwischenzeitlich +30, Endstand +37. Knicks komplettierten den Sweep (4-0) und ziehen erstmals seit 1999 ins NBA-Finale; 11. Playoff-Sieg in Folge, Brunson Serien-MVP."
+        },
+        "markt_resultate": {
+          "total_punkte": 223,
+          "ueber_217_5": true,
+          "ueber_219_5": true,
+          "spread_endstand": "New York -37 (Knicks -2.5 deutlich gedeckt)",
+          "halbzeit_endstand": "New York/New York (HZ +19, ES +37)",
+          "btts": null,
+          "ueber_2_5": null,
+          "ueber_3_5": null,
+          "knicks_sweep": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "ELIMINATION-DEFENSIV-THESE WIDERLEGT: statt Defensiv-Schlacht ein 223-Punkte-Blowout (Über 217.5). Gegensatz zu WCF-G4 24.05 (185 Pkt) - dort drosselte ein Muss-Sieg-Heimteam (1-2) via Defense; hier wurde das chancenlose 0-3-Team vom überlegenen Sweep-Gegner überrannt.",
+          "SWEEP-ABWEHR-HEIM-EXPLOSION (Lessons 24.04/25.04) gilt NICHT bei 0-3 gegen dominanten Favoriten: Cavs-ML-Flier mit -37 verloren. Unterscheidung nötig: G3 bei 0-2 (Fight) vs G4 bei 0-3 gegen Top-Form-Gegner (Blowout-Risiko).",
+          "Beide NBA-Fliers (ML + Unter 217.5) verloren am selben Spiel -> auf 2-Spiele-Slate killte das NBA-Game beide Kombis (Bein in kombi-balance UND kombi-risiko). KAT 19/14, Anunoby 17, Shamet 16, Bridges/Brunson je 15; Mitchell 31 für Cleveland."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "et-1",
+      "spiel_id": "2026-05-25-pad-wob",
+      "tipp_id": "pad-wob-1",
+      "kategorie": "value",
+      "markt": "Paderborn - Wolfsburg: Unter 2.5 Tore",
+      "quote": 1.9,
+      "empfohlener_einsatz_prozent": 1.0,
+      "einsatz_euro": 5.5,
+      "begruendung": "Top-Pick des dünnen Tages. Goldgrube Unter 2.5 (+32.7% ROI) + bevorzugter Markt für Existenz-Druck-Doppelspiele (Lesson 22.05 - Hinspiel selbst 0:0). Beide Teams tor-los über 90 Min im Hinspiel, im Rückspiel kostet jeder Fehler den Aufstieg/Klassenerhalt -> vorsichtige, tor-arme Partie wahrscheinlich.",
+      "rang": 1
+    },
+    {
+      "id": "et-2",
+      "spiel_id": "2026-05-25-pad-wob",
+      "tipp_id": "pad-wob-2",
+      "kategorie": "wackel",
+      "markt": "Paderborn - Wolfsburg: Sieg Paderborn (reguläre Spielzeit)",
+      "quote": 1.85,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "Coinflip-Heim-Flier: Paderborn mit Heimvorteil + Aufstiegs-Muss-Sieg-Anreiz (muss gewinnen für direkten Aufstieg, Wolfsburg reicht Remis/Verlängerung). KEIN SAFE (Lesson 24.05 + echtes 50/50). Mini-Stake.",
+      "rang": 2
+    },
+    {
+      "id": "et-3",
+      "spiel_id": "2026-05-25-pad-wob",
+      "tipp_id": "pad-wob-3",
+      "kategorie": "wackel",
+      "markt": "Paderborn - Wolfsburg: Filip Bilbija trifft jederzeit",
+      "quote": 3.75,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "Goldgrube Torschützen Jederzeit (+18.1% ROI) + Offensiv-Gegengewicht. Vorderster Paderborn-Angreifer im Heim-Muss-Sieg. WACKEL (kein Form-Edge-Nachweis, Coinflip). Aufstellung 1h vorher verifizieren - Tipp nur gültig wenn Bilbija startet.",
+      "rang": 3
+    },
+    {
+      "id": "et-4",
+      "spiel_id": "2026-05-25-cle-nyk",
+      "tipp_id": "cle-nyk-1",
+      "kategorie": "wackel",
+      "markt": "Knicks @ Cavaliers (ECF G4): Sieg Cleveland Cavaliers",
+      "quote": 2.13,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "Heim-Elimination-Flier mit Plus-Quote (+110): Sweep-Abwehr-Heim-Explosion empirisch häufig (Lessons 24.04/25.04) + Road-Closeout für Knicks schwer. KEIN SAFE (NBA HR16) - 0-3-Teams verlieren G4 historisch meist trotzdem -> echtes Toss-up, Mini-Stake.",
+      "rang": 4
+    },
+    {
+      "id": "et-5",
+      "spiel_id": "2026-05-25-cle-nyk",
+      "tipp_id": "cle-nyk-2",
+      "kategorie": "wackel",
+      "markt": "Knicks @ Cavaliers (ECF G4): Unter 217.5 Punkte",
+      "quote": 1.91,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "Elimination-/Muss-Sieg-Spiele tendieren defensiv (Lesson 24.05 WCF-G4 185 Pkt; 02.05 G6/G7-Druck). WCF-Total-Ueber-Goldgrube am 24.05 gebrochen -> Total max WACKEL, hier Unter-Tendenz. Mini-Stake.",
+      "rang": 5
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-balance",
+      "name": "⚖️ Tor-Total-Doppel (~3.6x)",
+      "kategorie": "balance",
+      "gesamtquote": 3.63,
+      "empfohlener_einsatz_prozent": 0.8,
+      "einsatz_euro": 4.4,
+      "begruendung": "Defensiv-Doppel über beide Spiele - reine Tor-Total-Beine, KEIN Sieg-Outcome (Layer-2). Gemeinsame These: beide Partien sind Druck-/Existenz-Spiele, die empirisch zur Tor-Armut tendieren (Relegations-Hinspiel 0:0 + NBA-Elimination-Defensiv-Schlacht, Lessons 22.05 + 24.05). Layer-1 eingehalten (max 1 Bein/Spiel), unterschiedliche Sportarten = niedrige Korrelation. Gesamtquote nachgerechnet: 1.90 × 1.91 = 3.63. Stake 0.8% x 550€ = 4,40€. Bei bet365 live prüfen.",
+      "beine": [
+        {
+          "spiel_id": "2026-05-25-pad-wob",
+          "tipp_id": "pad-wob-1",
+          "spiel_titel": "Paderborn - Wolfsburg",
+          "markt": "Paderborn - Wolfsburg: Unter 2.5 Tore",
+          "quote": 1.9
+        },
+        {
+          "spiel_id": "2026-05-25-cle-nyk",
+          "tipp_id": "cle-nyk-2",
+          "spiel_titel": "Knicks @ Cavaliers (ECF G4)",
+          "markt": "Knicks @ Cavaliers: Unter 217.5 Punkte",
+          "quote": 1.91
+        }
+      ]
+    },
+    {
+      "id": "kombi-risiko",
+      "name": "🎲 Außenseiter-Sieg-Mix (~3.9x)",
+      "kategorie": "risk",
+      "gesamtquote": 3.94,
+      "empfohlener_einsatz_prozent": 0.25,
+      "einsatz_euro": 1.4,
+      "begruendung": "Zwei Sieg-Outcome-Beine (Layer-2: Sieg-Outcomes nur in dieser einen Kombi gebündelt). Beides Coinflip/Heim-Druck-Outcomes: Paderborn-Heim-Muss-Sieg + Cavs-Heim-Elimination-Bounce. Bewusst Risiko-Kategorie + Mini-Stake (zwei ~50%-Beine = ~25% Trefferchance). Layer-1 eingehalten (max 1 Bein/Spiel), Layer-3 ok (kein Spiel/Markt-Bein doppelt). Gesamtquote nachgerechnet: 1.85 × 2.13 = 3.94. Stake 0.25% x 550€ = 1,40€. Bei bet365 live prüfen.",
+      "beine": [
+        {
+          "spiel_id": "2026-05-25-pad-wob",
+          "tipp_id": "pad-wob-2",
+          "spiel_titel": "Paderborn - Wolfsburg",
+          "markt": "Paderborn - Wolfsburg: Sieg Paderborn (reguläre Spielzeit)",
+          "quote": 1.85
+        },
+        {
+          "spiel_id": "2026-05-25-cle-nyk",
+          "tipp_id": "cle-nyk-1",
+          "spiel_titel": "Knicks @ Cavaliers (ECF G4)",
+          "markt": "Knicks @ Cavaliers: Sieg Cleveland Cavaliers (Moneyline)",
+          "quote": 2.13
+        }
+      ]
+    }
+  ],
+  "lessons_angewandt": [
+    {
+      "lesson": "Schlusstag/Saisonende-Motivations-Asymmetrie-These widerlegt + Champion/Favorit-Drehungs-Cluster (Lessons 24.05 + 25.05)",
+      "angewandt_auf": "pad-wob-2 / pad-wob-1 / et-1, et-2",
+      "details": "Kein SAFE-Favoriten-Tipp im Relegations-Coinflip. Paderborn-Sieg bewusst nur WACKEL (echtes 50/50, kein belastbarer Asymmetrie-Edge), Unter 2.5 als VALUE-Goldgrube bevorzugt statt eines Sieg-/DC-SAFE."
+    },
+    {
+      "lesson": "Doppelspiel-/Existenz-Druck-Hinspiel defensiv -> Tor-Markt vorsichtig, Unter bevorzugt (Lesson 22.05 WOB-PAD 0:0)",
+      "angewandt_auf": "pad-wob-1 / kombi-balance",
+      "details": "Rückspiel des 0:0-Hinspiels: Unter 2.5 als Goldgrube-VALUE gespielt statt Über/BTTS. Beide Teams im Hinspiel tor-los, Rückspiel-Fehler kosten Aufstieg/Klassenerhalt -> Vorsichts-Defensive erwartet."
+    },
+    {
+      "lesson": "NBA nie SAFE (HR16) + Player-Punkte raus aus Einzel + WCF-Total-Ueber-Goldgrube gebrochen (Lessons 26.04 + 24.05)",
+      "angewandt_auf": "nyk-cle-1 / nyk-cle-2 / et-4, et-5",
+      "details": "ECF G4 nur WACKEL-Tipps. Keine Player-Punkte-Einzeltipps (Brunson/Mitchell etc. boykottiert). Total nur WACKEL mit Unter-Tendenz (Elimination-Defensiv-Schlacht laut WCF-G4-24.05)."
+    },
+    {
+      "lesson": "Sweep-Abwehr-Heim-Explosion bei Elimination-Druck (Lessons 24.04 + 25.04)",
+      "angewandt_auf": "nyk-cle-1 / et-4",
+      "details": "Cavs-Heim-Elimination-Sieg als WACKEL-Plus-Quoten-Flier (+110) gespielt - Heim-Team mit Rücken zur Wand explodiert empirisch häufig, aber 0-3-Teams verlieren G4 meist trotzdem -> Mini-Stake, kein Vertrauen."
+    },
+    {
+      "lesson": "Lineup-/Roster-/Sperren-Check vor Spieler-Tipps Pflicht (Lessons 24.05 Vinicius + 24.05 Fox)",
+      "angewandt_auf": "pad-wob-3 / et-3",
+      "details": "Bilbija-Torschützen-Tipp mit Aufstellungs-Verifikations-Flag versehen (gilt nur wenn Bilbija startet). Sticker gesperrt + Obermair verletzt vorab geprüft; NBA-Star-Status am Spieltag verifizieren."
+    },
+    {
+      "lesson": "Mini-Spiele-Tag-Kombi-Diversifikations-Cap + Safe-Only-Tendenz (Lessons 19.05 + 21.05)",
+      "angewandt_auf": "kombi-balance / kombi-risiko",
+      "details": "Nur 2 in-scope-Spiele -> bewusst nur 2 Kombis (2-Bein, Layer-1 erlaubt max 1 Bein/Spiel = kein sauberes 3-Bein), kein Moonshot (30x+ nur über boykottierte Player-Prop-Flier möglich). Sieg-Outcomes auf eine Kombi gebündelt (Layer-2), kein Bein-Duplikat (Layer-3)."
+    }
+  ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-05-25T14:23:00+00:00",
+    "geprueft_von": "Master-Tipps-Routine interne Verifikation (verifikation.md)",
+    "ergebnis": "BESTANDEN - 0 Halluzinations-Drops, 0 Position-Downgrades, Layer-2 sauber, alle Quoten konsistent mit Recherche-Aggregator, alle Kombi-Gesamtquoten nachgerechnet, alle Stakes konform Kasse-Stufe 1.",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "korrelation_soft",
+        "spiel_id": "2026-05-25-cle-nyk",
+        "details": "Einzeltipps cle-nyk-1 (Cavs-Sieg) und cle-nyk-2 (Unter 217.5) sind leicht anti-korreliert (Cavs müssen für den Sieg punkten). Beide nur WACKEL-Mini-Stakes (je 0.5% / 2,75€) und in unterschiedlichen Kombis -> als unabhängige Flier akzeptiert, kein Drop/Downgrade."
+      },
+      {
+        "art": "lineup_pflicht",
+        "tipp_id": "pad-wob-3",
+        "details": "Bilbija-Torschützen-Tipp erfordert Startelf-Verifikation 60-90 Min vor Anstoß (Lesson 24.05 Vinicius / 22.04 Thuram). Flag _aufstellungs_verifikation_pflicht=true ist gesetzt - Tipp nur gültig wenn Bilbija startet."
+      },
+      {
+        "art": "quoten_live_pruefen",
+        "details": "NBA-Quoten aus US-Aggregator konvertiert (FanDuel/NBC/DK/Basketballsphere), Total-Linie 217.5 (eröffnete 215.5); Relegations-Quoten Tippdienst-Stand (sport1/wettbasis). Abweichung zur bet365-Live-Quote möglich -> vor Einsatz live prüfen, kein Edge-Schaden da Stakes konservativ."
+      }
+    ],
+    "spieler_halluzinations_check": {
+      "gepruefte_spieler_tipps": 1,
+      "details": "pad-wob-3 'Filip Bilbija trifft jederzeit': in recherche.spiele[2026-05-25-pad-wob].squad_heim verifiziert (Position RW/offensiver Flügel -> OK für Torschützen-Markt, kein Position-Mismatch). Keine NBA-Player-Punkte-Tipps generiert (HR16-Boykott eingehalten). Darius Garland korrekt NICHT getippt (laut Recherche nicht mehr im Cavs-Kader)."
+    },
+    "layer_2_cross_check": "SAUBER - Sieg-Outcomes (Paderborn-Sieg pad-wob-2 + Cavs-ML cle-nyk-1) ausschließlich in kombi-risiko gebündelt; kombi-balance enthält nur Tor-Total-Beine (Unter 2.5 + Unter 217.5). Kein Sieg-Outcome eines Spiels in mehr als 1 Kombi.",
+    "saison_kontext_quellen_check": "OK - beide Spiele ohne parallele UEFA-/Pokal-Wettbewerbe (parallel_heim/gast = 'keine'), daher keine Verband-URL-Pflicht ausgelöst; je >=3 Quellen-URLs vorhanden (Sportschau/sport1/wettbasis bzw. NBC/Totalprosports/DraftKings).",
+    "gesamtquote_nachrechnung": {
+      "kombi-balance": "1.90 x 1.91 = 3.63 ✓ (Feld stimmt)",
+      "kombi-risiko": "1.85 x 2.13 = 3.94 ✓ (Feld stimmt)"
+    },
+    "stake_check": "OK - Kasse 550€ / Stufe 1 (Aufbau): Einzel VALUE 1.0% = 5,50€, WACKEL 0.5% = 2,75€, Kombi Balance 0.8% = 4,40€, Kombi Risiko 0.25% = 1,40€. Tages-Exposure gesamt 22,40€ (~4.1% Kasse) - konform Mini-Spiele-Tag-Cap (Lesson 21.05).",
+    "lessons_generiert": []
+  },
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool, keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "einzeltipps_ergebnis": [
+    {
+      "id": "et-1",
+      "spiel_id": "2026-05-25-pad-wob",
+      "tipp_id": "pad-wob-1",
+      "kategorie": "value",
+      "markt": "Paderborn - Wolfsburg: Unter 2.5 Tore",
+      "quote": 1.9,
+      "empfohlener_einsatz_prozent": 1.0,
+      "einsatz_euro": 5.5,
+      "begruendung": "Top-Pick des dünnen Tages. Goldgrube Unter 2.5 (+32.7% ROI) + bevorzugter Markt für Existenz-Druck-Doppelspiele (Lesson 22.05 - Hinspiel selbst 0:0). Beide Teams tor-los über 90 Min im Hinspiel, im Rückspiel kostet jeder Fehler den Aufstieg/Klassenerhalt -> vorsichtige, tor-arme Partie wahrscheinlich.",
+      "rang": 1,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.9
+    },
+    {
+      "id": "et-2",
+      "spiel_id": "2026-05-25-pad-wob",
+      "tipp_id": "pad-wob-2",
+      "kategorie": "wackel",
+      "markt": "Paderborn - Wolfsburg: Sieg Paderborn (reguläre Spielzeit)",
+      "quote": 1.85,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "Coinflip-Heim-Flier: Paderborn mit Heimvorteil + Aufstiegs-Muss-Sieg-Anreiz (muss gewinnen für direkten Aufstieg, Wolfsburg reicht Remis/Verlängerung). KEIN SAFE (Lesson 24.05 + echtes 50/50). Mini-Stake.",
+      "rang": 2,
+      "status": "verloren",
+      "gewinn_faktor": -1.0
+    },
+    {
+      "id": "et-3",
+      "spiel_id": "2026-05-25-pad-wob",
+      "tipp_id": "pad-wob-3",
+      "kategorie": "wackel",
+      "markt": "Paderborn - Wolfsburg: Filip Bilbija trifft jederzeit",
+      "quote": 3.75,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "Goldgrube Torschützen Jederzeit (+18.1% ROI) + Offensiv-Gegengewicht. Vorderster Paderborn-Angreifer im Heim-Muss-Sieg. WACKEL (kein Form-Edge-Nachweis, Coinflip). Aufstellung 1h vorher verifizieren - Tipp nur gültig wenn Bilbija startet.",
+      "rang": 3,
+      "status": "gewonnen",
+      "gewinn_faktor": 2.75
+    },
+    {
+      "id": "et-4",
+      "spiel_id": "2026-05-25-cle-nyk",
+      "tipp_id": "cle-nyk-1",
+      "kategorie": "wackel",
+      "markt": "Knicks @ Cavaliers (ECF G4): Sieg Cleveland Cavaliers",
+      "quote": 2.13,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "Heim-Elimination-Flier mit Plus-Quote (+110): Sweep-Abwehr-Heim-Explosion empirisch häufig (Lessons 24.04/25.04) + Road-Closeout für Knicks schwer. KEIN SAFE (NBA HR16) - 0-3-Teams verlieren G4 historisch meist trotzdem -> echtes Toss-up, Mini-Stake.",
+      "rang": 4,
+      "status": "verloren",
+      "gewinn_faktor": -1.0
+    },
+    {
+      "id": "et-5",
+      "spiel_id": "2026-05-25-cle-nyk",
+      "tipp_id": "cle-nyk-2",
+      "kategorie": "wackel",
+      "markt": "Knicks @ Cavaliers (ECF G4): Unter 217.5 Punkte",
+      "quote": 1.91,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "Elimination-/Muss-Sieg-Spiele tendieren defensiv (Lesson 24.05 WCF-G4 185 Pkt; 02.05 G6/G7-Druck). WCF-Total-Ueber-Goldgrube am 24.05 gebrochen -> Total max WACKEL, hier Unter-Tendenz. Mini-Stake.",
+      "rang": 5,
+      "status": "verloren",
+      "gewinn_faktor": -1.0
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "kombi-balance",
+      "status": "verloren",
+      "gesamtquote": 3.63
+    },
+    {
+      "kombi_id": "kombi-risiko",
+      "status": "verloren",
+      "gesamtquote": 3.94
+    }
+  ],
+  "ausgewertet_am": "2026-05-26T06:10:10+00:00"
+}
