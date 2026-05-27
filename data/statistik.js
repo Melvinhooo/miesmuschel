@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-05-26T06:11:30+00:00",
+  "letzte_berechnung": "2026-05-27T06:09:47+00:00",
   "gesamt": {
-    "tipps": 287,
-    "gewonnen": 154,
-    "verloren": 122,
+    "tipps": 289,
+    "gewonnen": 155,
+    "verloren": 123,
     "push": 2,
     "offen": 9,
-    "einsatz": 278.0,
-    "netto": 23.09,
+    "einsatz": 280.0,
+    "netto": 23.0,
     "trefferquote": 55.8,
-    "roi_prozent": 8.3
+    "roi_prozent": 8.2
   },
   "letzte_30_tage": {
-    "tipps": 238,
-    "gewonnen": 122,
-    "verloren": 105,
+    "tipps": 224,
+    "gewonnen": 116,
+    "verloren": 97,
     "push": 2,
     "offen": 9,
-    "einsatz": 229.0,
-    "netto": 19.69,
-    "trefferquote": 53.7,
-    "roi_prozent": 8.6
+    "einsatz": 215.0,
+    "netto": 24.61,
+    "trefferquote": 54.5,
+    "roi_prozent": 11.4
   },
   "letzte_90_tage": {
-    "tipps": 287,
-    "gewonnen": 154,
-    "verloren": 122,
+    "tipps": 289,
+    "gewonnen": 155,
+    "verloren": 123,
     "push": 2,
     "offen": 9,
-    "einsatz": 278.0,
-    "netto": 23.09,
+    "einsatz": 280.0,
+    "netto": 23.0,
     "trefferquote": 55.8,
-    "roi_prozent": 8.3
+    "roi_prozent": 8.2
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -441,6 +441,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": -2.0,
       "trefferquote": 0.0,
       "roi_prozent": -100.0
+    },
+    "NBA Playoffs - Western Conference Finals": {
+      "tipps": 2,
+      "gewonnen": 1,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": -0.09,
+      "trefferquote": 50.0,
+      "roi_prozent": -4.5
     }
   },
   "nach_markt": {
@@ -2929,19 +2940,41 @@ window.__MIESMUSCHEL_STAT = {
       "netto": -1.0,
       "trefferquote": 0.0,
       "roi_prozent": -100.0
+    },
+    "San Antonio Spurs Handicap +5.5 Punkte": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Über 216.5 Punkte": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.91,
+      "trefferquote": 100.0,
+      "roi_prozent": 91.0
     }
   },
   "nach_markt_typ": {
     "Spieler-Punkte Ueber (NBA)": {
-      "tipps": 16,
-      "gewonnen": 8,
+      "tipps": 17,
+      "gewonnen": 9,
       "verloren": 8,
       "push": 0,
       "offen": 0,
-      "einsatz": 16.0,
-      "netto": -0.11,
-      "trefferquote": 50.0,
-      "roi_prozent": -0.7
+      "einsatz": 17.0,
+      "netto": 0.8,
+      "trefferquote": 52.9,
+      "roi_prozent": 4.7
     },
     "Spieler-Punkte Unter (NBA)": {
       "tipps": 10,
@@ -3065,15 +3098,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 12.9
     },
     "Spread/Handicap": {
-      "tipps": 11,
+      "tipps": 12,
       "gewonnen": 4,
-      "verloren": 7,
+      "verloren": 8,
       "push": 0,
       "offen": 0,
-      "einsatz": 11.0,
-      "netto": 0.64,
-      "trefferquote": 36.4,
-      "roi_prozent": 5.8
+      "einsatz": 12.0,
+      "netto": -0.36,
+      "trefferquote": 33.3,
+      "roi_prozent": -3.0
     },
     "Raptors +3.5": {
       "tipps": 1,
@@ -3386,15 +3419,15 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 138,
-      "gewonnen": 67,
-      "verloren": 66,
+      "tipps": 140,
+      "gewonnen": 68,
+      "verloren": 67,
       "push": 1,
       "offen": 4,
-      "einsatz": 134.0,
-      "netto": 6.23,
+      "einsatz": 136.0,
+      "netto": 6.14,
       "trefferquote": 50.4,
-      "roi_prozent": 4.6
+      "roi_prozent": 4.5
     },
     "2.00-3.00": {
       "tipps": 35,
@@ -3454,15 +3487,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 9.0
     },
     "wackel": {
-      "tipps": 43,
-      "gewonnen": 18,
-      "verloren": 25,
+      "tipps": 45,
+      "gewonnen": 19,
+      "verloren": 26,
       "push": 0,
       "offen": 0,
-      "einsatz": 43.0,
-      "netto": 5.32,
-      "trefferquote": 41.9,
-      "roi_prozent": 12.4
+      "einsatz": 45.0,
+      "netto": 5.23,
+      "trefferquote": 42.2,
+      "roi_prozent": 11.6
     }
   },
   "clv_gesamt": {
@@ -3482,6 +3515,48 @@ window.__MIESMUSCHEL_STAT = {
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-05-26",
+      "gesamt": {
+        "tipps": 2,
+        "gewonnen": 1,
+        "verloren": 1,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 2.0,
+        "netto": -0.09,
+        "trefferquote": 50.0,
+        "roi_prozent": -4.5
+      },
+      "spiele": [
+        {
+          "id": "2026-05-26-okc-sas",
+          "liga": "NBA Playoffs - Western Conference Finals",
+          "heim": "Oklahoma City Thunder",
+          "gast": "San Antonio Spurs",
+          "endstand": "127:114",
+          "tipps": [
+            {
+              "markt": "San Antonio Spurs Handicap +5.5 Punkte",
+              "quote": 1.91,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "San Antonio verlor 114:127 (-13) -> Spurs +5.5 VERLOREN (114+5.5=119.5 < 127). Die Kern-These 'OKC ohne Jalen Williams duenner' wurde widerlegt: JW fehlte zwar das 3. Spiel in Folge (Hamstring, OUT bestaetigt), aber OKCs Tiefe trug das Spiel - SGA 32, Caruso 22 (4/8 Dreier), Jared McCain 20 im 1. Playoff-Start (18 in der 2. HZ), 14/32 Dreier (43.8%). Spurs-Star Wembanyama nur 20 Pkt auf 4/15 (0/5 Dreier). 6-1-ATS-Underdog-Trend gerissen."
+            },
+            {
+              "markt": "Über 216.5 Punkte",
+              "quote": 1.91,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.91,
+              "kommentar": "Total 241 Punkte (127+114) > 216.5 -> ÜBER GEWONNEN. OKC explodierte mit 40 Punkten im 2. Viertel (HZ 69:58). 3 der 4 Vor-Serien-Spiele lagen drueber (237/235/231), nur G4 (185) war der Defensiv-Ausreisser - G5 kehrte klar zum Ueber-Pattern zurueck. Bewusst nur WACKEL gelabelt (Lesson 24.05/25.05) - haette hier VALUE sein koennen."
+            }
+          ]
+        }
+      ],
+      "kombis": []
+    },
     {
       "datum": "2026-05-25",
       "gesamt": {
