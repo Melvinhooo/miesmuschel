@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS = {
+{
   "datum": "2026-05-27",
   "erstellt_am": "2026-05-27T14:44:05+02:00",
   "hinweis": "Watchdog-Recovery (Mo-Fr): die 16:00-Hauptroutine war zur Pruefung nicht durchgelaufen, dieses Dossier wurde vom 17:15-Watchdog nachgezogen. EIN-SPIEL-TAG: Saison-Ende in allen Top-Ligen (Bundesliga/PL/LaLiga/Serie A/Ligue 1 durch), NBA Conference Finals haben Ruhetag (ECF von den Knicks gefegt, WCF G6 erst 28.05.). Einziges Spiel im Wett-Fenster: UEFA-Conference-League-FINALE Crystal Palace vs Rayo Vallecano in Leipzig (21:00). KEINE Kombis - bei nur einem Spiel waeren alle Beine korreliert (Layer-1: max 1 Bein pro Spiel). Quoten immer bei bet365 live pruefen.",
@@ -156,4 +155,4 @@ window.__MIESMUSCHEL_TIPPS = {
     }
   ],
   "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool, keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
-};
+}
