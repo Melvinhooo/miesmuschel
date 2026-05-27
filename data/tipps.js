@@ -38,20 +38,15 @@ window.__MIESMUSCHEL_TIPPS = {
       "kontext_check_status": "OK",
       "tipps": [
         {
-          "id": "cry-ray-1",
-          "kategorie": "value",
-          "markt": "Jean-Philippe Mateta Torschuetze Jederzeit",
-          "quote": 2.6,
-          "edge_prozent": null,
-          "begruendung": "Goldgrube-Markt aktiv gesucht: Torschuetzen Jederzeit aktuell 39.0% Hitrate / +24.1% ROI ueber 43 Tipps - bester Wert-Markt im System (statistik.json). Mateta ist Palaces zentraler Stuermer + Elfmeterschuetze, in der erwarteten 3-4-2-1-Startelf vorne. Sarr ist zwar interner Top-Torschuetze (9), Mateta zieht aber die meisten Box-/Elfer-Situationen. Einwechslungs-Boost greift, falls Mateta spaet ausgewechselt wird und sein Ersatz trifft (zaehlt fuer den Tipp). KEIN SAFE: Finale = hohe Varianz, Stuermer kann ausgeknipst werden. Quote + finale Startelf (startet Mateta?) bei bet365 live pruefen - bei Bank-Start Tipp streichen."
-        },
-        {
           "id": "cry-ray-2",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Crystal Palace Doppelte Chance (1X - Heimsieg oder Remis)",
           "quote": 1.28,
           "edge_prozent": null,
-          "begruendung": "Goldgrube-Markt: Doppelte Chance 1X aktuell 80.0% Hitrate ueber 22 Tipps (ROI +2.3%). Palace bet365-Favorit (Sieg 1.90 vs Rayo 4.10) - faire No-Vig-Palace-Sieg-Wahrscheinlichkeit ~49%, plus 28% Remis = ~77% fuer 'nicht verlieren in 90 Min'. Forgiving Anker in einem ausgeglichenen Finale. DC-Cap eingehalten: einziger DC-Tipp im Dossier. KEIN SAFE: (a) Conference-League-Finale steht NICHT in liga_goldgruben.json (nur CL-HF-Hinspiel/EL-HF-Rueckspiel/NBA-R2-G2) -> Mapper-Hebel C wuerde SAFE eh auf VALUE druecken; (b) Palace 7 Spiele sieglos. bet365-Quote 1.90/3.40/4.10 verifiziert."
+          "begruendung": "Goldgrube-Markt: Doppelte Chance 1X aktuell 80.0% Hitrate ueber 22 Tipps (ROI +2.3%). Palace bet365-Favorit (Sieg 1.90 vs Rayo 4.10) - faire No-Vig-Palace-Sieg-Wahrscheinlichkeit ~49%, plus 28% Remis = ~77% fuer 'nicht verlieren in 90 Min'. Forgiving Anker in einem ausgeglichenen Finale. DC-Cap eingehalten: einziger DC-Tipp im Dossier. KEIN SAFE: (a) Conference-League-Finale steht NICHT in liga_goldgruben.json (nur CL-HF-Hinspiel/EL-HF-Rueckspiel/NBA-R2-G2) -> Mapper-Hebel C wuerde SAFE eh auf VALUE druecken; (b) Palace 7 Spiele sieglos. bet365-Quote 1.90/3.40/4.10 verifiziert. [Auto HR2: Heim-Krise/Sturm-Krise erkannt - Heim-Sieg/-DC/-Top-Stuermer max WACKEL]",
+          "faire_quote": 1.28,
+          "empfohlener_einsatz_prozent": 1.0,
+          "_heim_form_block": true
         },
         {
           "id": "cry-ray-3",
@@ -59,7 +54,9 @@ window.__MIESMUSCHEL_TIPPS = {
           "markt": "Unter 2.5 Tore",
           "quote": 1.75,
           "edge_prozent": null,
-          "begruendung": "Goldgrube-Markt: Unter 2.5 Tore 69.2% Hitrate / +37.2% ROI ueber 13 Tipps - staerkster Tor-Total-Markt. Lesson 01.05.: Europapokal-K.o.-Endspiele/HF sind oft taktisch-defensiv (HF-Hinspiele endeten 1-0/1-0/2-1, Tor-Festival-These widerlegt). Hier: beidseitiger Erst-Titel-Druck + Rayo defensiv stabil + Palace 7 Spiele sieglos (Offensiv-Flaute) -> wenig-Tore-Szenario wahrscheinlich. Reality-Check passt zum Markt-Profil. Quote bei bet365 live pruefen (~1.75)."
+          "begruendung": "Goldgrube-Markt: Unter 2.5 Tore 69.2% Hitrate / +37.2% ROI ueber 13 Tipps - staerkster Tor-Total-Markt. Lesson 01.05.: Europapokal-K.o.-Endspiele/HF sind oft taktisch-defensiv (HF-Hinspiele endeten 1-0/1-0/2-1, Tor-Festival-These widerlegt). Hier: beidseitiger Erst-Titel-Druck + Rayo defensiv stabil + Palace 7 Spiele sieglos (Offensiv-Flaute) -> wenig-Tore-Szenario wahrscheinlich. Reality-Check passt zum Markt-Profil. Quote bei bet365 live pruefen (~1.75).",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
           "id": "cry-ray-4",
@@ -67,7 +64,9 @@ window.__MIESMUSCHEL_TIPPS = {
           "markt": "Crystal Palace Sieg (90 Min)",
           "quote": 1.9,
           "edge_prozent": null,
-          "begruendung": "WACKEL statt VALUE: bei bet365 1.90/3.40/4.10 liegt die faire No-Vig-Palace-Sieg-Wahrscheinlichkeit bei ~49% (faire Quote ~2.02) - 1.90 hat also KEINEN positiven Edge gegenueber der fairen Linie, plus 7 PL-Spiele sieglos zum Saisonende. Natuerlicher Lean (klassenhoeher, Glasner-Final-Routine), aber Finale-Varianz + Form druecken auf WACKEL mit Mini-Einsatz. 2:0-Insurance gilt hier NICHT (nur BL + CL). Wer Palace will: lieber die forgiving DC 1X (Tipp 2)."
+          "begruendung": "WACKEL statt VALUE: bei bet365 1.90/3.40/4.10 liegt die faire No-Vig-Palace-Sieg-Wahrscheinlichkeit bei ~49% (faire Quote ~2.02) - 1.90 hat also KEINEN positiven Edge gegenueber der fairen Linie, plus 7 PL-Spiele sieglos zum Saisonende. Natuerlicher Lean (klassenhoeher, Glasner-Final-Routine), aber Finale-Varianz + Form druecken auf WACKEL mit Mini-Einsatz. 2:0-Insurance gilt hier NICHT (nur BL + CL). Wer Palace will: lieber die forgiving DC 1X (Tipp 2).",
+          "faire_quote": 1.9,
+          "empfohlener_einsatz_prozent": 0.5
         }
       ]
     }
@@ -77,25 +76,13 @@ window.__MIESMUSCHEL_TIPPS = {
       "id": "et-1",
       "spiel_id": "2026-05-27-cry-ray",
       "tipp_id": "cry-ray-2",
-      "kategorie": "value",
+      "kategorie": "wackel",
       "markt": "CL-Finale: Crystal Palace Doppelte Chance 1X (Sieg oder Remis)",
       "quote": 1.28,
       "empfohlener_einsatz_prozent": 1.5,
       "einsatz_euro": 8.25,
       "begruendung": "Top-Anker des Ein-Spiel-Tages. Goldgrube DC 1X (80% HR / 22 Tipps). Palace Favorit (1.90 vs 4.10), ~77% 'nicht verlieren in 90 Min'. Forgiving im ausgeglichenen Finale. KEIN SAFE: CL-Finale nicht in liga_goldgruben.json + Palace 7 Spiele sieglos. Stufe 1 (Kasse 550€): 1.5% = 8,25€. bet365 live pruefen.",
       "rang": 1
-    },
-    {
-      "id": "et-2",
-      "spiel_id": "2026-05-27-cry-ray",
-      "tipp_id": "cry-ray-1",
-      "kategorie": "value",
-      "markt": "CL-Finale: Mateta Torschuetze Jederzeit",
-      "quote": 2.6,
-      "empfohlener_einsatz_prozent": 1.0,
-      "einsatz_euro": 5.5,
-      "begruendung": "Offensiver Goldgrube-Pick (Torschuetzen Jederzeit +24.1% ROI, bester Markt im System). Mateta zentraler Stuermer + Elfmeterschuetze in erwarteter Startelf. Einwechslungs-Boost moeglich. Stufe 1: 1.0% = 5,50€. PFLICHT vor Anstoss: Startelf pruefen - startet Mateta nur Bank, Tipp streichen.",
-      "rang": 2
     },
     {
       "id": "et-3",
@@ -107,7 +94,7 @@ window.__MIESMUSCHEL_TIPPS = {
       "empfohlener_einsatz_prozent": 1.0,
       "einsatz_euro": 5.5,
       "begruendung": "Goldgrube Unter 2.5 (69.2% HR / +37.2% ROI). Europapokal-Endspiel = oft taktisch-defensiv (Lesson 01.05.), beide auf erste Trophae, Palace offensiv in Flaute. Stufe 1: 1.0% = 5,50€. bet365 live pruefen.",
-      "rang": 3
+      "rang": 2
     },
     {
       "id": "et-4",
@@ -119,7 +106,7 @@ window.__MIESMUSCHEL_TIPPS = {
       "empfohlener_einsatz_prozent": 0.5,
       "einsatz_euro": 2.75,
       "begruendung": "Nur Mini-Wackel: 1.90 ohne positiven Edge vs. faire Linie (~2.02) + 7 Spiele sieglos. Natuerlicher Lean, aber Finale-Varianz. Stufe 1 Wackel: 0.5% = 2,75€. Wer Palace will, nimmt eher die forgiving DC 1X (et-1).",
-      "rang": 4
+      "rang": 3
     }
   ],
   "kombis": [],
