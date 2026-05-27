@@ -1,0 +1,132 @@
+{
+  "datum": "2026-05-27",
+  "erstellt_am": "2026-05-27T11:55:00+00:00",
+  "modus": "tag",
+  "hinweis": "Recherche-Daten Mittwoch 27.05.2026 (Mo-Fr-Variante, Pre-Tipps-Datenbasis fuer Tipps-Slot 13:30 Berlin; Recherche-Cloud-Routine). SAISONENDE-SLATE - HEUTE NUR 1 RELEVANTES SPIEL: das UEFA-Conference-League-Finale Crystal Palace vs Rayo Vallecano (21:00 Berlin, Red Bull Arena Leipzig). VOLLSTAENDIGKEITS-CHECK (Lesson Liga-Luecke 26.04/25.05): football-data.org am 27.05 live abgefragt -> 0 Spiele in BL1/PL/PD/SA/FL1/CL/EL (alle Top-5-Liga-Saisons beendet 23.-24.05). Domestic-Cup-Finals alle DURCH: FA-Cup-Finale war 16.05 (Chelsea-Man City), DFB-Pokal-Finale 23.05 (Bayern-Stuttgart), Coppa-Italia-Finale 13.05 (Lazio-Inter), Copa-del-Rey/Coupe-de-France durch. Champions-League-FINALE erst Sa 30.05 (nicht heute). KEIN NBA-SPIEL HEUTE: Eastern Conference Finals BEENDET - New York Knicks fegten Cleveland Cavaliers 4-0 (G4 am 25.05: 130:93, Jalen Brunson ECF-MVP, Knicks erstes NBA-Finale seit 1999) -> der vorab terminierte 'ECF G5 am 27.05' ENTFAELLT durch den Sweep (klassische Stale-Schedule-Falle, NICHT als Spiel listen). Western Conference Finals: OKC fuehrt 3-2 nach G5 am 26.05 (OKC 127:114 SAS), G6 erst Do 28.05 in San Antonio, G7 ggf 30.05 -> heute KEIN WCF-Spiel. ===== SCOPE-FLAG: Die UEFA Conference League steht NICHT auf der strikten Tipp-Whitelist in CLAUDE.md (Fussball-Scope = BL/PL/LaLiga/Serie A/DFB-Pokal/Champions League/Coppa Italia). ABER: beide Finalisten kommen aus In-Scope-Ligen (Crystal Palace = Premier League, Rayo Vallecano = LaLiga), bet365 DE bietet volles Markt-Angebot, und es ist die EINZIGE Partie des Tages -> Daten vollstaendig recherchiert, die Tipps-Routine entscheidet final ueber Aufnahme/Scope. ===== REGEL-ANWENDBARKEIT HEUTE: 2:0-Insurance-Regel gilt NUR fuer BL+Champions League -> beim Conference-League-Finale NICHT anwendbar. Einwechslungs-Boost-Regel gilt fuer alle bet365-Fussball-Torschuetzen-Maerkte -> hier ANWENDBAR (Backup-Stuermer beachten: Palace Nketiah verletzt -> duenne Sturm-Tiefe; Rayo Camello als Joker fuer Alemao). Kasse-Stand 04.05.2026: 550 EUR -> Stufe 1 (Aufbau-Phase) aktiv (Kasse < 1000 EUR), konservative Einsaetze. Markt-Goldgruben aktiv suchen (Unter 2.5 Tore, Ueber 2.5 Tore, Torschuetzen Jederzeit, Doppelte Chance X2/1X). Markt-Bluter: Spieler-Punkte Unter (NBA) - heute irrelevant. Quoten via bet365-News + DraftKings-Aggregator (US-Format -110/+250/+320 konvertiert) - bei bet365 LIVE pruefen, koennen sich aendern. Pinnacle-Fair-Line nicht sauber verifizierbar -> kein Fair-Line-Block. NIE Spielernamen erfunden - alle Spieler aus zitierten Lineup-/Squad-/Transfer-Quellen (UEFA.com, SI, 101greatgoals, CBS, ESPN, Premier League). POSITION-Genauigkeit beachtet (Hojlund-Bug-Schutz): Wharton=DM/CM nicht ST, Pino=Fluegel. HINWEIS Transfer: Eberechi Eze wurde im Sommer 2025 fuer £26m an Arsenal verkauft und durch Yeremy Pino (von Villarreal, #10) ersetzt -> Eze NICHT mehr im Palace-Kader, nicht tippen/erwaehnen.",
+  "spiele": [
+    {
+      "id": "2026-05-27-cry-ray",
+      "liga": "UEFA Conference League (Finale)",
+      "wettbewerb_scope_hinweis": "Conference League technisch ausserhalb der CLAUDE.md-Tipp-Whitelist; beide Klubs aus In-Scope-Ligen (PL/LaLiga). Tipps-Routine entscheidet ueber Aufnahme.",
+      "heim": "Crystal Palace",
+      "gast": "Rayo Vallecano",
+      "anstoss": "2026-05-27T21:00:00+02:00",
+      "stadion": "Red Bull Arena, Leipzig (Deutschland) - Finalort, neutraler Platz",
+      "schiedsrichter": "Maurizio Mariani (ITA)",
+      "squad_heim": [
+        {"name": "Dean Henderson", "nummer": 1, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.101greatgoals.com/match-previews/europa-conference-league-matches/final-crystal-palace-v-rayo-vallecano-line-ups-stats-preview/"},
+        {"name": "Maxence Lacroix", "nummer": 5, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.uefa.com/uefaconferenceleague/clubs/52916--crystal-palace/squad/"},
+        {"name": "Jaydee Canvot", "nummer": null, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.si.com/soccer/crystal-palace-vs-rayo-vallecano-preview-predictions-lineups-5-27-26"},
+        {"name": "Tyrick Mitchell", "nummer": 3, "position": "LV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.101greatgoals.com/match-previews/europa-conference-league-matches/final-crystal-palace-v-rayo-vallecano-line-ups-stats-preview/"},
+        {"name": "Nathaniel Clyne", "nummer": 17, "position": "RV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.101greatgoals.com/match-previews/europa-conference-league-matches/final-crystal-palace-v-rayo-vallecano-line-ups-stats-preview/"},
+        {"name": "Daniel Munoz", "nummer": 12, "position": "RV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.uefa.com/uefaconferenceleague/clubs/52916--crystal-palace/squad/"},
+        {"name": "Adam Wharton", "nummer": 20, "position": "DM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.uefa.com/uefaconferenceleague/clubs/52916--crystal-palace/squad/", "status_hinweis": "Knoechel-Problem (vs Arsenal frueh ausgewechselt) - fraglich, in Prognose-XI aber gelistet. POSITION DM/CM nicht Sturm."},
+        {"name": "Daichi Kamada", "nummer": 18, "position": "OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.101greatgoals.com/match-previews/europa-conference-league-matches/final-crystal-palace-v-rayo-vallecano-line-ups-stats-preview/"},
+        {"name": "Ismaila Sarr", "nummer": 7, "position": "RW", "saison_tore": null, "cl_tore": 9, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.uefa.com/uefaconferenceleague/news/029e-1edda1f3e05b-fe9dd3a0b19d-1000--conference-league-top-scorer-ismaila-sarr-in-top-spot/", "form_hinweis": "Conference-League-TOPSCORER mit 9 Toren in 11 Starts, traf in Palace letzten 5 CL-Spielen. Heisseste Offensiv-Waffe."},
+        {"name": "Jean-Philippe Mateta", "nummer": 14, "position": "ST", "saison_tore": 12, "cl_tore": null, "letzte_5_spiele_tore": 3, "verifiziert_via": "https://www.cbssports.com/betting/news/crystal-palace-vs-rayo-vallecano-prediction-odds-expert-picks-for-uefa-conference-league-final-wednesday/", "form_hinweis": "Regular-Season-Topscorer 12 Tore (PL), in Europa zweite Geige; aus Verletzung zurueck, 3 Tore letzte 6 Spiele."},
+        {"name": "Yeremy Pino", "nummer": 10, "position": "LW", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.espn.com/soccer/story/_/id/46086032/crystal-palace-transfers-villarreal-yeremy-pino-eberechi-eze", "form_hinweis": "Sommer 2025 fuer £26m von Villarreal als Eze-Ersatz; spanischer Nationalspieler, Fluegel."},
+        {"name": "Eddie Nketiah", "nummer": 9, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.si.com/soccer/crystal-palace-vs-rayo-vallecano-preview-predictions-lineups-5-27-26", "status_hinweis": "VERLETZT (Oberschenkel/Hamstring) - OUT. Druckt Palace Sturm-Tiefe hinter Mateta."}
+      ],
+      "squad_gast": [
+        {"name": "Augusto Batalla", "nummer": 13, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.101greatgoals.com/match-previews/europa-conference-league-matches/final-crystal-palace-v-rayo-vallecano-line-ups-stats-preview/"},
+        {"name": "Andrei Ratiu", "nummer": 2, "position": "RV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.101greatgoals.com/match-previews/europa-conference-league-matches/final-crystal-palace-v-rayo-vallecano-line-ups-stats-preview/"},
+        {"name": "Florian Lejeune", "nummer": 24, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.101greatgoals.com/match-previews/europa-conference-league-matches/final-crystal-palace-v-rayo-vallecano-line-ups-stats-preview/"},
+        {"name": "Pathe Ciss", "nummer": 23, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.101greatgoals.com/match-previews/europa-conference-league-matches/final-crystal-palace-v-rayo-vallecano-line-ups-stats-preview/", "status_hinweis": "natuerlich DM, im Finale ggf als IV aufgestellt."},
+        {"name": "Pep Chavarria", "nummer": 14, "position": "LV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.101greatgoals.com/match-previews/europa-conference-league-matches/final-crystal-palace-v-rayo-vallecano-line-ups-stats-preview/"},
+        {"name": "Oscar Valentin", "nummer": 5, "position": "DM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.101greatgoals.com/match-previews/europa-conference-league-matches/final-crystal-palace-v-rayo-vallecano-line-ups-stats-preview/"},
+        {"name": "Unai Lopez", "nummer": 8, "position": "CM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.101greatgoals.com/match-previews/europa-conference-league-matches/final-crystal-palace-v-rayo-vallecano-line-ups-stats-preview/"},
+        {"name": "Isi Palazon", "nummer": 7, "position": "RW", "saison_tore": null, "cl_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.uefa.com/uefaconferenceleague/clubs/74070--rayo-vallecano/squad/", "form_hinweis": "Kreativ-Motor/Standards, Rayos Schluesselspieler im Offensiv-Spiel."},
+        {"name": "Alvaro Garcia", "nummer": 18, "position": "LW", "saison_tore": null, "cl_tore": 3, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.si.com/soccer/crystal-palace-vs-rayo-vallecano-preview-predictions-lineups-5-27-26", "form_hinweis": "Rayos zweitbester CL-Torschuetze (3 Tore); nach Verletzung rechtzeitig fit fuers Finale."},
+        {"name": "Jorge De Frutos", "nummer": 11, "position": "RW", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.uefa.com/uefaconferenceleague/clubs/74070--rayo-vallecano/squad/", "form_hinweis": "auffaelligster/dynamischster Offensivspieler laut UEFA-Preview."},
+        {"name": "Alemao", "nummer": 9, "position": "ST", "saison_tore": null, "cl_tore": 4, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.uefa.com/uefaconferenceleague/clubs/74070--rayo-vallecano/statistics/", "form_hinweis": "Rayos TOP-CL-Torschuetze (4 Tore), traf in BEIDEN Halbfinal-Legs vs Strasbourg; physischer Stuermer."},
+        {"name": "Sergio Camello", "nummer": 10, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.uefa.com/uefaconferenceleague/clubs/74070--rayo-vallecano/squad/", "form_hinweis": "Tempo/Tiefe, Joker-Option bzw Rotation fuer Alemao - Einwechslungs-Boost-relevant."},
+        {"name": "Ilias Akhomach", "nummer": 17, "position": "RW", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.si.com/soccer/crystal-palace-vs-rayo-vallecano-preview-predictions-lineups-5-27-26", "status_hinweis": "Aufwaerm-Verletzung vor HF-Rueckspiel vs Strasbourg - fraglich/OUT."}
+      ],
+      "injuries_heim": [
+        "Eddie Nketiah (Oberschenkel/Hamstring, OUT)",
+        "Cheick Doucoure (Knie, OUT)",
+        "Borna Sosa (muskulaer, fraglich)",
+        "Chris Richards (Knoechelbaender gerissen, 50/50, reist mit - Aussenseiterchance auf Kader)",
+        "Adam Wharton (Knoechel, fraglich - in Prognose-XI gelistet)",
+        "Eberechi Eze (KEIN Ausfall, sondern Sommer 2025 an Arsenal verkauft - nicht im Kader)"
+      ],
+      "injuries_gast": [
+        "Ilias Akhomach (Aufwaerm-Verletzung vor HF-Rueckspiel, fraglich/OUT)",
+        "Luiz Felipe (Oberschenkel/Hamstring, OUT)",
+        "Carlos Martin (Rueckenproblem, fraglich)",
+        "Alvaro Garcia (war angeschlagen, rechtzeitig fit fuers Finale - voraussichtlich dabei)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Premier-League-Saison beendet (MD38 am 24.05.), dies ist Palaces Saison-Endspiel (erstes Europapokal-Finale). FA-Cup-Sieger 2025.",
+        "gast": "keine - LaLiga-Saison beendet (MD38 am 24.05.), dies ist Rayos Saison-Endspiel (erstes Europapokal-Finale).",
+        "quellen": [
+          "https://www.uefa.com/uefaconferenceleague/news/02a5-20b417d9b5b3-21512b9bd3ff-1000--crystal-palace-vs-rayo-vallecano-conference-league-final-pre/",
+          "https://en.wikipedia.org/wiki/2026_UEFA_Conference_League_final",
+          "https://en.wikipedia.org/wiki/2025%E2%80%9326_Rayo_Vallecano_season"
+        ]
+      },
+      "saisonziel_heim": "Platz 15 Premier League (Saison gesichert, Mittelfeld) - voller Fokus auf den ersten Europapokal-Titel der Klubgeschichte. Maximale Motivation, keine Liga-Restspiele.",
+      "saisonziel_gast": "Platz 8 LaLiga - voller Fokus auf den ersten Europapokal-Titel der Klubgeschichte. Maximale Motivation, keine Liga-Restspiele.",
+      "tabellenstand": {"heim_platz": 15, "heim_liga": "Premier League", "gast_platz": 8, "gast_liga": "LaLiga"},
+      "motivations_asymmetrie": "Symmetrisch maximal - beide Klubs spielen ihr erstes Europapokal-Finale ueberhaupt, beide in ihrer erst zweiten kontinentalen Kampagne. Keine Seite hat Liga-Restprogramm, beide voll fokussiert. Kein Motivations-Edge fuer eine Seite.",
+      "form_heim_letzte_5": "n/v sauber - Palace traf in den letzten 5 CL-Spielen (Sarr-Serie), CL-Top-Torjaeger des Wettbewerbs (25 Tore)",
+      "form_gast_letzte_5": "unbesiegt in 9 Pflichtspielen in Folge; beide HF-Legs vs Strasbourg 1:0 gewonnen (defensiv-stabil)",
+      "recovery_heim": "ca. 3 Tage seit letztem Liga-Spiel (PL-Saisonabschluss ~24.05.). Lange Erholung, voll ausgeruht.",
+      "recovery_gast": "ca. 3 Tage seit letztem Liga-Spiel (LaLiga-Saisonabschluss ~24.05.). Lange Erholung, voll ausgeruht.",
+      "quoten": {
+        "bet365": {
+          "sieg_heim": 1.90,
+          "draw": 3.40,
+          "sieg_gast": 4.10,
+          "ueber_2_5": null,
+          "unter_2_5": null,
+          "btts_ja": null,
+          "btts_nein": null,
+          "dc_1x": null,
+          "dc_x2": null,
+          "torschuetzen": {"Sarr": 3.30},
+          "quoten_warn": "bet365 1X2 aus bet365-News-Artikel (Palace 1.90 Fav / Draw 3.40 / Rayo 4.10 in 90 Min). Ueber/Unter 2.5, BTTS, Doppelte Chance und weitere Torschuetzen-Quoten NICHT sauber bei bet365 abgreifbar -> bei bet365 LIVE pruefen. Sarr-Jederzeit ca. 3.30 (23/10, Coral/Ladbrokes) als Orientierung."
+        },
+        "draftkings_aggregator": {
+          "sieg_heim": 1.91,
+          "draw": 3.50,
+          "sieg_gast": 4.20,
+          "ueber_2_5": 2.10,
+          "unter_2_5": 1.71,
+          "sarr_score_or_assist": 2.25,
+          "umrechnung_hinweis": "US-Format konvertiert: Palace -110, Draw +250, Rayo +320, Ueber 2.5 +110, Unter 2.5 -140, Sarr Tor-oder-Assist +125. Quelle CBS/DraftKings-Vorschau 27.05."
+        },
+        "pinnacle": null,
+        "fair_line_pinnacle_basis_prozent": null,
+        "fair_line_warn": "Pinnacle-Quote/Fair-Line nicht sauber verifizierbar -> kein Fair-Line-Vergleich moeglich."
+      },
+      "news_kompakt": [
+        "Conference-League-FINALE in Leipzig (Red Bull Arena), 21:00 Berlin - beide Klubs erstes Europapokal-Finale der Geschichte, kein direktes H2H.",
+        "Ismaila Sarr ist Wettbewerbs-Topscorer (9 Tore/11 Starts), traf in Palaces letzten 5 CL-Spielen; Palace mit 25 Toren bester Offensiv-Wert des Turniers.",
+        "Rayo defensiv-stark: beide HF-Legs vs Strasbourg 1:0, unbesiegt in 9 Pflichtspielen; Top-CL-Torjaeger Alemao (4 Tore) traf in beiden HF-Legs.",
+        "Palace-Sturm-Tiefe angeschlagen: Nketiah (Hamstring) OUT, Wharton (Knoechel) + Richards (Baenderriss) fraglich; Eze im Sommer an Arsenal verkauft, Pino (#10) ersetzt ihn.",
+        "Beide Teams voll ausgeruht (Liga-Saisons seit ~24.05. beendet), keine Parallelbelastung; bet365 hat Palace mit 1.90 leicht favorisiert vor dem 4.10-Aussenseiter Rayo."
+      ],
+      "quellen_aggregator": [
+        "https://news.bet365.com/en-gb/article/crystal-palace-v-rayo-vallecano-conference-league-final-odds/2026050721242382573",
+        "https://www.cbssports.com/betting/news/crystal-palace-vs-rayo-vallecano-prediction-odds-expert-picks-for-uefa-conference-league-final-wednesday/",
+        "https://www.si.com/soccer/crystal-palace-vs-rayo-vallecano-preview-predictions-lineups-5-27-26",
+        "https://www.101greatgoals.com/match-previews/europa-conference-league-matches/final-crystal-palace-v-rayo-vallecano-line-ups-stats-preview/",
+        "https://www.uefa.com/uefaconferenceleague/news/02a5-20b417d9b5b3-21512b9bd3ff-1000--crystal-palace-vs-rayo-vallecano-conference-league-final-pre/"
+      ]
+    }
+  ],
+  "keine_spiele_kategorien": {
+    "fussball_top5_ligen": "0 Spiele (BL/PL/LaLiga/Serie A/Ligue 1 Saisons beendet 23.-24.05., via football-data.org live verifiziert)",
+    "champions_league": "Finale erst Sa 30.05 - heute kein Spiel",
+    "europa_league": "Saison beendet",
+    "domestic_cups": "FA-Cup-Finale 16.05, DFB-Pokal-Finale 23.05, Coppa-Italia-Finale 13.05 - alle durch",
+    "nba": "ECF beendet (Knicks sweepten Cavs 4-0, Brunson ECF-MVP); WCF OKC 3-2 vs SAS, naechstes Spiel G6 erst Do 28.05 in San Antonio - heute KEIN NBA-Spiel"
+  },
+  "datenquellen_meta": {
+    "spielplan_api": "football-data.org (BL1/PL/PD/SA/FL1/CL/EL alle 0 Spiele am 27.05 bestaetigt)",
+    "balldontlie": "in dieser Umgebung blockiert (403 Host not in allowlist) - NBA-Stand via WebSearch (NBA.com/ESPN/Yahoo/Basketball-Reference) verifiziert",
+    "squad_quellen": "Transfermarkt/ESPN-Direktfetch in dieser Umgebung blockiert -> Squad ueber UEFA.com, SI.com, 101greatgoals, CBS, Premier League, ESPN-Story (Transfer) zitiert",
+    "warnungen": "BTTS/DC/mehrere Torschuetzen-Quoten + Pinnacle-Fair-Line nicht sauber abgreifbar - WARN-Notes im Spiel gesetzt, bei bet365 live pruefen"
+  }
+}
