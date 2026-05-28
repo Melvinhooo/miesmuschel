@@ -81,56 +81,7 @@ window.__MIESMUSCHEL_TIPPS = {
       ]
     }
   ],
-  "einzeltipps": [
-    {
-      "id": "et-1",
-      "spiel_id": "2026-05-28-okc-sas",
-      "tipp_id": "okc-sas-1",
-      "kategorie": "wackel",
-      "markt": "NBA WCF G6 (OKC @ SAS): Unter 218.5 Punkte",
-      "quote": 1.91,
-      "empfohlener_einsatz_prozent": 0.5,
-      "einsatz_euro": 2.75,
-      "begruendung": "Goldgrube-Pattern-Verlaengerung. Lesson 28.05. (WCF-Total Re-Kalibrierung): Unter-Faktor spezifisch beim zurueckliegenden Team mit Muss-Level-Heim-Defensiv-Druck - exakt der Spurs-Spot. Identisches Muster G4 (Spurs 1-2 Heim Muss-Sieg): Total 185. Plus Fox + Harper angeschlagen = Tempo-Drosselung moeglich. NBA-G6-Decider -> max WACKEL (Hartregel B). bet365-Quote 1.91 fair. Stufe 1 WACKEL: 0.5% = 2,75€. bet365 live pruefen.",
-      "rang": 1
-    },
-    {
-      "id": "et-2",
-      "spiel_id": "2026-05-28-okc-sas",
-      "tipp_id": "okc-sas-3",
-      "kategorie": "wackel",
-      "markt": "NBA WCF G6: Wembanyama Double-Double",
-      "quote": 1.55,
-      "empfohlener_einsatz_prozent": 0.5,
-      "einsatz_euro": 2.75,
-      "begruendung": "Forgiving Anker des Ein-Spiel-Tages. Wemby-Saisonschnitt 26/12 = nahe sicheres DD bei normaler Spielzeit. G5-Schwaeche betraf nur Punkte, Rebound-Volume intakt (G5 20/8 knapp verfehlt). G6 Heim + Elimination = Volume-Boost erzwungen. Quote 1.55 ~64% vs. real-Trefferquote 70%+ bei vollen Minuten. DD ist DE-Whitelist (CLAUDE.md). NBA-G6-Decider -> max WACKEL (Hartregel B). Stufe 1 WACKEL: 0.5% = 2,75€. bet365 live pruefen.",
-      "rang": 2
-    },
-    {
-      "id": "et-3",
-      "spiel_id": "2026-05-28-okc-sas",
-      "tipp_id": "okc-sas-2",
-      "kategorie": "wackel",
-      "markt": "NBA WCF G6: Wembanyama Mehr als 24.5 Punkte",
-      "quote": 1.8,
-      "empfohlener_einsatz_prozent": 0.5,
-      "einsatz_euro": 2.75,
-      "begruendung": "Goldgrube-Marktfamilie Player-Punkte Ueber (NBA) = +4.7% ROI bei n=17. Lesson 23.05. Volume-Star-Snap-Back: nach G5-Tief (20 Pkt / 5-15 FG) folgt Bounce-Back, Wemby-historisch nach <=15 FGA-Spielen Schnitt 28 Pkt. Spurs-Coaching: mehr Volume erzwungen. G6 Heim + Elimination -> Spielzeit-Garantie. NBA-G6-Decider -> max WACKEL. Stufe 1 WACKEL: 0.5% = 2,75€. bet365 live pruefen.",
-      "rang": 3
-    },
-    {
-      "id": "et-4",
-      "spiel_id": "2026-05-28-okc-sas",
-      "tipp_id": "okc-sas-4",
-      "kategorie": "wackel",
-      "markt": "NBA WCF G6: San Antonio Spurs Sieg (Moneyline)",
-      "quote": 1.67,
-      "empfohlener_einsatz_prozent": 0.5,
-      "einsatz_euro": 2.75,
-      "begruendung": "Heim-Muss-Sieg-Lean: Wembanyama-Bounceback, OKC ohne J.Williams + Reisetag, Spurs 5-1 SU in Playoff-Coming-off-Loss-Spots. No-Vig SAS ~58% (fair ~1.72), bet365 1.67 leichter VALUE-Hauch. NBA-G6-Decider -> max WACKEL (Mapper-Hebel B). Lesson 28.04. (Closeout-Heim-Spot unzuverlaessig) als Bremse. Sieg-Flier -> Mini-Stake. Stufe 1 WACKEL: 0.5% = 2,75€. bet365 live pruefen.",
-      "rang": 4
-    }
-  ],
+  "einzeltipps": [],
   "kombis": [],
   "lessons_angewandt": [
     {
