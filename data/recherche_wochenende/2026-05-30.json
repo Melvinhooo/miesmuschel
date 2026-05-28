@@ -1,0 +1,274 @@
+{
+  "datum": "2026-05-30",
+  "erstellt_am": "2026-05-28T16:30:00+00:00",
+  "modus": "wochenende",
+  "hinweis": "Wochenend-Vorschau Sa 30.05. + So 31.05.2026 - SAISON-ABSCHLUSS-WOCHENENDE mit nur EINEM Top-Tier-Fussball-Termin im CLAUDE.md-Scope: CHAMPIONS LEAGUE FINALE Sa 30.05. 18:00 CEST in der Puskas Arena Budapest (NICHT Allianz Arena Muenchen wie urspruenglich angekuendigt; UEFA hat fuer 25/26 erstmals den 18:00-CEST-Slot statt 21:00 gewaehlt, Beschluss 28.08.2025 'besseres Matchday-Erlebnis fuer Fans', verifiziert via ESPN-Artikel und UEFA-Preview). PAARUNG: Paris Saint-Germain (amtierender CL-Titelverteidiger Saison 24/25 + frisch gekroenter Ligue-1-Meister 25/26, 5. Titel in Folge, 14. franzoesischer Titel, fixiert 13.05. durch 2:0 in Lens) vs Arsenal FC (frisch gekroenter Premier-League-Meister 25/26, 1. PL-Titel seit Invincibles 2003/04, 14. englischer Titel, fixiert durch Man-City-1:1-vs-Bournemouth + Arsenal-2:1-bei-Crystal-Palace; Doppel-Triumph CL+PL in Sichtweite). Veranstaltungsort Puskas-Arena Budapest 67000 Plaetze - heimliche Neutralitaet (weder Frankreich noch England). VOLLSTAENDIGKEITS-CHECK Lesson Liga-Luecke 26.04/25.05): football-data.org am 28.05. live abgefragt fuer dateFrom=2026-05-30 dateTo=2026-05-31 -> 6 Spiele zurueck: 1x CL-Finale, 5x Brasileirao Serie A (Flamengo-Coritiba, Athletico-PR-Mirassol, Gremio-Corinthians, Bahia-Botafogo, Santos-Vitoria; Brasileirao ausserhalb CLAUDE.md-Scope, daher NICHT recherchiert). KEIN BL/PL/LaLiga/SerieA/Ligue 1/EL/Conference-League/DFB-Pokal/Coppa-Italia-Spiel am Wochenende laut API. Saisons der Top-5-Ligen alle beendet (BL 16.05., PL 24.05., LaLiga 24.05., Serie A 24.05., Ligue 1 17.05.). Domestic Cups alle ausgespielt: DFB-Pokal-Final 23.05. (Bayern 2:1 Stuttgart laut data/ergebnisse), FA-Cup 16.05. (Chelsea-Man City lt data), Coppa Italia 14.05. (Lazio-Inter), Conference-League-Finale 27.05. (Crystal Palace 2:1 Rayo Vallecano n.V., UEFA Quelle). BL-Relegation BEIDE ABGESCHLOSSEN: 1.BL-Relegation Wolfsburg-Paderborn (Hinspiel 22.05. 0:0, Rueckspiel 25.05. Paderborn 2:1 n.V. -> Paderborn AUFSTIEG, Wolfsburg erstmals seit 29 Jahren ABSTIEG; Sportschau verifiziert); 2.BL-Relegation Fuerth-Essen ebenfalls 22.+26.05. abgeschlossen. Frauen-Bundesliga + Frauen-DFB-Pokal-Final (14.05. Wolfsburg-Bayern) lange durch. ===== NBA WCF GAME 7 (BEDINGT): OKC Thunder fuehrt Serie 3-2 vs San Antonio Spurs. G6 ist HEUTE Do 28.05. 20:30 ET (Fr 29.05. 02:30 CEST) Frost Bank Center San Antonio. Wenn Spurs G6 gewinnen -> G7 Sa 30.05. 20:00 ET = So 31.05. 02:00 CEST Paycom Center Oklahoma City (Heim-Recht OKC als #1-Seed); wenn OKC G6 gewinnt -> Serie aus, kein G7. balldontlie.io listet G7 provisorisch. Knicks bereits im NBA-Finale (Sweep Cavaliers 4-0 ~24.05.) und warten 8+ Tage; NBA-Finals-G1 erst Mi 03.06. 20:30 ET (ABC), also NICHT am Wochenende 30./31.05. ===== REGEL-ANWENDBARKEIT WOCHENENDE: 2:0-Insurance-Regel gilt NUR fuer 1.BL + Champions League Sieg-Tipps -> CL-Final PSG-Arsenal IST IN SCOPE, also fuer Sieg-Heim-Tipp (PSG) oder Sieg-Gast-Tipp (Arsenal) anwendbar. Bei Doppelte-Chance/Handicap/Ueber-Unter/BTTS/Genaues Ergebnis/Halbzeit nicht anwendbar. ACHTUNG bei Knockout: nach 90 ggf. Verlaengerung + Elfmeter; 2:0-Insurance bezieht sich auf Spiel-Verlauf bis Endstand (regulaer oder n.V. - bet365-spezifisch pruefen). Einwechslungs-Boost-Regel gilt fuer Fussball-Torschuetzen-Maerkte -> CL-Final IM SCOPE (alle Torschuetzen-Maerkte Erster/Jederzeit/Letzter/Doppelpack/Hattrick/2+/3+ Tore mit Backup-Stuermer-Boost). PSG hat Goncalo Ramos als Backup-Stuermer (kann bei Dembele/Kvara-Auswechslung Tore zaehlen); Arsenal hat Havertz/Trossard/Merino als Backup-Optionen (Gyoekeres-Auswechslung -> Havertz). ===== KASSE-STAND 04.05.2026: 550 EUR (siehe data/kasse.json) -> Stufe 1 (Aufbau-Phase, Kasse <1000 EUR) aktiv -> konservative Einsaetze: Einzel SAFE/VALUE 1-2% (5.50-11 EUR), Wackel-Einzel 0.5% (2.75 EUR), Kombi-Safe 2% (11 EUR), Kombi-Balance 0.8% (4.40 EUR), Kombi-Risiko 0.25% (1.40 EUR), Moonshot 0.1% (0.55 EUR). Tipps-Routine MUSS Euro-Betraege ausrechnen. ===== AUTO-MARKT-FILTER: data/markt_goldgruben.json beachten: Doppelte Chance 1X (84.6%/+9.5%), Doppelte Chance X2 (77.8%/+9.4%), Unter 2.5 Tore (66.7%/+27.5%), Torschuetzen Jederzeit (50%/+24.4%) - aktiv suchen und PRIORISIEREN. Arsenal-DC-X2 ~1.65 ist Goldgruben-Kandidat (Arsenal-Defensive 9 CS in 14 CL ungeschlagen + PSG-Wack-Form letzte 5 inkl. 1:2 Heim-Niederlage vs Paris FC + Hakimi-Out + Dembele-Verletzungs-Reha). Unter-2.5-Tore @1.95 ebenfalls Goldgruben-affin (Arsenal-Clean-Sheet-Quote 64%, PSG nach Meisterschaft phlegmatisch). data/markt_bluter.json beachten: Markttypen mit ROI<-25% NIE als SAFE/VALUE setzen (Mapper degradiert automatisch). ===== QUELLEN-PFLICHT: parallel_wettbewerbe MUSS Verband-URL haben (UEFA/Verband-Site). Erfuellt: UEFA-CL-Final-Page + premierleague.com (Arsenal-Saisonstand) + lfp.fr (PSG-Saisonstand) + nba.com (NBA-WCF). Squad-Verifikation via Transfermarkt/ESPN/kicker/Arsenal.com/psg.fr - alle Spielernamen aus zitierten Quellen, KEIN Spieler erfunden. POSITION-Genauigkeit beachtet (Hojlund-Bug-Schutz): Dembele=RF/ST, Kvaratskhelia=LF, Goncalo Ramos=ST, Vitinha=ZM/DM, Joao Neves=ZM/DM, Fabian Ruiz=ZM, Marquinhos=IV, Beraldo=IV, Nuno Mendes=LV, Hakimi=RV; Arsenal: Saka=RF, Martinelli=LF, Gyoekeres=ST (oder Havertz=ST), Odegaard=OM, Rice=ZM, Zubimendi=DM, Saliba+Gabriel=IV, Calafiori/Lewis-Skelly=LV, Timber=RV out, Raya=TW. ===== KEINE Tipp-Bewertung - reine Datenbasis fuer Wochenend-Vorschau-Tipps-Routine 18:00 Donnerstag.",
+  "spiele": [
+    {
+      "id": "2026-05-30-psg-ars",
+      "liga": "UEFA Champions League FINALE",
+      "matchday": "Finale 25/26",
+      "wettbewerb_scope_hinweis": "Champions League ist voll in CLAUDE.md-Scope. 2:0-Insurance-Regel gilt fuer direkte Sieg-Tipps (PSG-Sieg oder Arsenal-Sieg). Einwechslungs-Boost gilt fuer Torschuetzen-Maerkte. Knockout-Final: Verlaengerung + Elfmeter moeglich nach 90 Min.",
+      "heim": "Paris Saint-Germain",
+      "gast": "Arsenal FC",
+      "anstoss": "2026-05-30T18:00:00+02:00",
+      "anstoss_utc": "2026-05-30T16:00:00Z",
+      "stadion": "Puskas Arena, Budapest (Ungarn) - Kapazitaet 67000",
+      "broadcast": "DAZN/Sky (DE), TNT Sports (UK), Canal+ (FR), Paramount+ (US)",
+      "schiedsrichter": "n/v - UEFA bestaetigt typischerweise 3-4 Tage vor Finale (Stand 28.05. noch offen, pruefen via UEFA.com)",
+      "kickoff_hinweis": "ERSTMALS 18:00 CEST statt klassisch 21:00 CEST - UEFA-Beschluss vom 28.08.2025 fuer alle CL-Finals ab 25/26 ('besseres Matchday-Erlebnis fuer Fans', Quelle ESPN + UEFA-Preview). Englische Quellen sprechen 17:00 BST. football-data.org-API bestaetigt 16:00 UTC.",
+      "squad_heim": [
+        {"name": "Matvey Safonov", "nummer": 39, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://en.psg.fr/teams/first-team", "hinweis": "Erwartet Starter, da Chevalier Fitness-Review/Verletzung; Backup Donnarumma im Sommer 25 zu Man City gewechselt (laut Quellen-Lage)"},
+        {"name": "Achraf Hakimi", "nummer": 2, "position": "RV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.psg.fr/teams/first-team", "hinweis": "Oberschenkel-Reizung - wahrscheinlich NICHT von Beginn; Zaire-Emery rueckt nach"},
+        {"name": "Warren Zaire-Emery", "nummer": 33, "position": "RV/ZM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.psg.fr/teams/first-team", "hinweis": "Ersatz fuer Hakimi auf RV oder ZM-Option"},
+        {"name": "Marquinhos", "nummer": 5, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.psg.fr/teams/first-team", "hinweis": "Kapitaen"},
+        {"name": "Lucas Beraldo", "nummer": 35, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.psg.fr/teams/first-team"},
+        {"name": "Nuno Mendes", "nummer": 25, "position": "LV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.psg.fr/teams/first-team", "hinweis": "Leichte Oberschenkel-Reizung, voraussichtlich fit"},
+        {"name": "Joao Neves", "nummer": 87, "position": "ZM/DM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.psg.fr/teams/first-team", "hinweis": "Box-to-Box-Stratege"},
+        {"name": "Vitinha", "nummer": 17, "position": "ZM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.psg.fr/teams/first-team", "hinweis": "Spielmacher / Tempo-Trigger"},
+        {"name": "Fabian Ruiz", "nummer": 8, "position": "ZM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.psg.fr/teams/first-team"},
+        {"name": "Ousmane Dembele", "nummer": 10, "position": "RF/ST", "saison_tore": null, "letzte_5_spiele_tore": null, "CL_tore_25_26": 7, "verifiziert_via": "https://en.psg.fr/teams/first-team", "hinweis": "PSG-CL-Topscorer 25/26 mit 7 Toren in 12 CL-Spielen (xG 4.22, 13 Schuesse aufs Tor). Wadenproblem nach Paris-FC-Spiel ueberstanden, zurueck im Training, 'starkes Gefuehl' Start. Backup-Stuermer-Boost: bei seiner Auswechslung kann Bradley Barcola oder Goncalo Ramos Tor fuer 'Dembele-Tipp' bringen."},
+        {"name": "Khvicha Kvaratskhelia", "nummer": 7, "position": "LF", "saison_tore": null, "letzte_5_spiele_tore": null, "CL_tore_25_26": 10, "verifiziert_via": "https://en.psg.fr/teams/first-team", "hinweis": "Top-Scorer PSG-Saison-Gesamt CL mit 10 Toren + 6 Assists in 15 CL-Spielen (Goal.com Onefootball). Form-Torjaeger des Turniers, traf in Lens-2:0 + Bayern-HF-Rueckspiel."},
+        {"name": "Desire Doue", "nummer": 14, "position": "LF/RF/OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.psg.fr/teams/first-team", "hinweis": "Voraussichtlich Start auf RF wenn Dembele Bank; bekommt sonst Joker-Rolle"},
+        {"name": "Bradley Barcola", "nummer": 29, "position": "LF/RF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.psg.fr/teams/first-team", "hinweis": "Joker-Option auf beiden Fluegeln"},
+        {"name": "Goncalo Ramos", "nummer": 9, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.psg.fr/teams/first-team", "hinweis": "Voraussichtlich Start als zentraler Stuermer im 4-3-3; bekommt aber wenig Service in PSG-Fluegel-Spiel. Backup-Stuermer fuer Einwechslungs-Boost auf Dembele/Kvaratskhelia-Tipp."}
+      ],
+      "squad_gast": [
+        {"name": "David Raya", "nummer": 22, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.arsenal.com/first-team/players", "hinweis": "Stammtorhueter, Premier-League-Golden-Glove-Anwaerter"},
+        {"name": "Jurrien Timber", "nummer": 12, "position": "RV/IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.arsenal.com/news/injury-latest-white-odegaard-and-saka", "hinweis": "OUT seit 11 Spielen (Sprunggelenk) - NICHT verfuegbar fuer Finale"},
+        {"name": "Ben White", "nummer": 4, "position": "RV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.arsenal.com/first-team/players", "hinweis": "Ersatz fuer Timber auf RV"},
+        {"name": "William Saliba", "nummer": 2, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.arsenal.com/first-team/players", "hinweis": "Stamm-IV, Eckpfeiler Arsenal-Defensive (9 CS in 14 CL ungeschlagen)"},
+        {"name": "Gabriel Magalhaes", "nummer": 6, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.arsenal.com/first-team/players", "hinweis": "Stamm-IV-Partner Saliba; Set-Piece-Threat (Kopfball)"},
+        {"name": "Riccardo Calafiori", "nummer": 33, "position": "LV/IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.arsenal.com/first-team/players", "hinweis": "Voraussichtlich Start auf LV"},
+        {"name": "Myles Lewis-Skelly", "nummer": 15, "position": "LV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.arsenal.com/first-team/players", "hinweis": "Alternative LV-Option (Rotation Calafiori)"},
+        {"name": "Declan Rice", "nummer": 41, "position": "ZM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.arsenal.com/first-team/players", "hinweis": "Box-to-Box-Anker, Freistoss-Spezialist"},
+        {"name": "Martin Zubimendi", "nummer": 36, "position": "DM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.arsenal.com/first-team/players", "hinweis": "Sommer-25-Zugang, Sechser"},
+        {"name": "Martin Odegaard", "nummer": 8, "position": "OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.arsenal.com/news/injury-latest-white-odegaard-and-saka", "hinweis": "Kapitaen, zurueck nach Knie-Verletzung (Bank vs Atletico, Start vs Crystal Palace 2:1) - voll fit fuer Finale"},
+        {"name": "Bukayo Saka", "nummer": 7, "position": "RF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.arsenal.com/news/injury-latest-white-odegaard-and-saka", "hinweis": "Seit Achilles-Rueckkehr Anfang Mai wieder Stammspieler; First-Choice-RF"},
+        {"name": "Gabriel Martinelli", "nummer": 11, "position": "LF", "saison_tore": null, "letzte_5_spiele_tore": null, "CL_tore_25_26": 6, "verifiziert_via": "https://www.arsenal.com/first-team/players", "hinweis": "Arsenal-CL-Topscorer 25/26 mit 6 Toren in 13 CL. First-Choice-LF in Front-3."},
+        {"name": "Viktor Gyoekeres", "nummer": 14, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.arsenal.com/first-team/players", "hinweis": "Sommer-25-Zugang, Premier-League-Topscorer-Anwaerter. Arteta unentschieden zwischen Gyoekeres und Havertz. Front-3 Trossard-Gyoekeres-Saka als 'first-choice' diskutiert."},
+        {"name": "Kai Havertz", "nummer": 29, "position": "ST/OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.arsenal.com/first-team/players", "hinweis": "Alternative zu Gyoekeres - kann 'dropping deep' fuer Saka-Raeume agieren. Backup-Stuermer fuer Einwechslungs-Boost."},
+        {"name": "Leandro Trossard", "nummer": 19, "position": "LF/OM/ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.arsenal.com/first-team/players", "hinweis": "Joker-Option, kann auf LF Martinelli ersetzen; Backup-Stuermer-Boost-Kandidat"},
+        {"name": "Mikel Merino", "nummer": 23, "position": "ZM/ST-Notloesung", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.arsenal.com/first-team/players", "hinweis": "Sechser, hat in der Saison auch Notloesungs-ST gespielt"}
+      ],
+      "injuries_heim": [
+        "Achraf Hakimi (Oberschenkel - wahrscheinlich NICHT Startelf, Zaire-Emery rueckt nach)",
+        "Lucas Chevalier (TW, Fitness-Review - Safonov startet)",
+        "Quentin Ndjantou (Fitness-Review)",
+        "Willian Pacho (leichte Probleme - Beraldo startet voraussichtlich)",
+        "Ousmane Dembele (Wadenproblem ueberstanden, zurueck im Training - 'starkes Gefuehl' Start)",
+        "Nuno Mendes (leichte Oberschenkel-Reizung - fit)"
+      ],
+      "injuries_gast": [
+        "Jurrien Timber (Sprunggelenk - OUT seit 11 Spielen, NICHT verfuegbar)",
+        "Bukayo Saka (zurueck nach Achilles-Pause Anfang Mai - voll fit)",
+        "Martin Odegaard (zurueck nach Knie-Pause - voll fit, Start vs Crystal Palace bereits absolviert)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Ligue 1 Saison 25/26 beendet 17.05. (PSG Meister mit 2:0 in Lens 13.05., 5. Titel in Folge); Coupe de France-Final 24.05. ausgespielt (laut Saison-Kontext); CL-Final ist letztes Pflichtspiel der Saison",
+        "gast": "keine - Premier League 25/26 beendet 24.05. (Arsenal Meister, 1. PL-Titel seit Invincibles 03/04); FA-Cup 16.05. ausgespielt; CL-Final ist letztes Pflichtspiel der Saison",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/",
+          "https://www.premierleague.com/tables",
+          "https://www.lfp.fr/ligue1/",
+          "https://en.psg.fr/news/paris-saint-germain-crowned-as-french-champions-for-fifth-time-in-a-row",
+          "https://en.wikipedia.org/wiki/2025%E2%80%9326_Arsenal_F.C._season",
+          "https://en.wikipedia.org/wiki/2026_UEFA_Champions_League_final"
+        ]
+      },
+      "saisonziel_heim": "PSG: Ligue-1-Meister 25/26 (5. Titel in Folge) FIXIERT 13.05.; Coupe de France ausgespielt; CL-Titelverteidiger (Sieger 24/25). Saisonziel = CL-Doppel = back-to-back-CL-Titel, 2. CL-Titel der Vereinsgeschichte.",
+      "saisonziel_gast": "Arsenal: Premier-League-Meister 25/26 (1. Titel seit 2003/04 Invincibles, 14. PL-Titel) FIXIERT durch Crystal-Palace-Auswaerts-2:1 + Man-City-Bournemouth-1:1. FA-Cup ausgespielt. Saisonziel = DOUBLE (PL+CL) = 1. CL-Titel der Vereinsgeschichte.",
+      "tabellenstand": {
+        "heim_platz": "Ligue 1 Meister (1.)",
+        "heim_pkt": null,
+        "gast_platz": "Premier League Meister (1.)",
+        "gast_pkt": null,
+        "_kommentar": "Beide Liga-Saisons beendet. PSG 14. franzoesischer Titel, Arsenal 14. englischer Titel. CL-Final als Saison-Krone."
+      },
+      "form_heim_letzte_5": "U-S-S-N-U (in chronologischer Reihenfolge: 2:2 Lorient, 1:0 Brest, 2:0 Lens (Meister-Spiel), 1:2 Paris FC HEIM-NIEDERLAGE 17.05., 1:1 Bayern CL-HF-Rueckspiel) - DURCHWACHSEN 2W/2D/1L mit Heimniederlage; wirken zerstreut nach Meisterschaft",
+      "form_gast_letzte_5": "S-S-S-S-S (in chronologischer Reihenfolge: 3:0 Fulham, 1:0 Atletico (CL HF), 1:0 West Ham, 1:0 Burnley, 2:1 Crystal Palace) - 5 SIEGE 8:1 TORE; beste Defensive Europas: 14 CL-Spiele ungeschlagen mit 9 Clean Sheets (CL-Rekord-Naehe)",
+      "recovery_heim": "Voll erholt - 13+ Tage seit Lens-Meister-Spiel 13.05.; 17+ Tage seit Paris-FC-Niederlage 17.05.; CL-HF gegen Bayern 06.05. (Hin) + Folge-Wochen Daten ueber Sommer-Vorbereitung - keine Doppel-Belastung",
+      "recovery_gast": "Voll erholt - 7+ Tage seit Crystal-Palace-2:1 24.05.; CL-HF gegen Atletico 06.05. + Folge - keine Doppel-Belastung",
+      "quoten": {
+        "bet365_naeherung": {
+          "sieg_heim": 2.15,
+          "draw": 3.60,
+          "sieg_gast": 3.10,
+          "ueber_2_5": 1.90,
+          "unter_2_5": 1.90,
+          "btts_ja": 1.70,
+          "btts_nein": 2.05,
+          "dc_1x": 1.35,
+          "dc_x2": 1.65,
+          "dc_12": 1.27,
+          "torschuetzen": {
+            "Kvaratskhelia": 2.88,
+            "Dembele": 2.60,
+            "Goncalo Ramos": 3.00,
+            "Doue": 3.40,
+            "Barcola": 3.50,
+            "Saka": 3.20,
+            "Martinelli": 3.40,
+            "Gyoekeres": 2.75,
+            "Havertz": 3.60,
+            "Odegaard": 5.00,
+            "Trossard": 4.50
+          }
+        },
+        "pinnacle_naeherung": {
+          "sieg_heim": 2.18,
+          "draw": 3.55,
+          "sieg_gast": 3.15,
+          "_kommentar": "Pinnacle-Fair-Line nahezu identisch mit bet365 - keine grosse Markt-Verzerrung erkennbar"
+        },
+        "fair_line_pinnacle_basis_prozent": {
+          "sieg_heim": 45,
+          "draw": 27,
+          "sieg_gast": 31,
+          "_kommentar": "Pinnacle impliziert PSG 45% / Remis 27% / Arsenal 31% - markt sieht PSG leicht vorn aber NICHT haushoch; Arsenal-3.10 vs Pinnacle-Wahrscheinlichkeit 31% = +/-0% (kein Edge), aber bei Mehr-Datenpunkten (Form/Verletzungen/Goldgruben-Trend) waere Arsenal-DC-X2 VALUE-affin"
+        },
+        "_quelle": "bet365 News 'UEFA Champions League final betting odds' 15.05.2026 + Squawka + Mrfixitstips First-Scorer-Ranking - bet365 LIVE pruefen vor Tippsetzung; Quoten koennen sich aendern.",
+        "_notes": "Knockout-Final: bei Remis nach 90 Min Verlaengerung + Elfmeter. 1X2-Markt bezieht sich auf REGULAERE 90 Min (Remis = Markt-Remis, Verlaengerung-Sieg = ausserhalb 1X2-Markt; 'To Lift Trophy'-Markt separat). 2:0-Insurance-Regel gilt fuer direkte Sieg-Tipps (PSG-Sieg oder Arsenal-Sieg) - bei 2:0-Fuehrung der Sieg-Tipp-Mannschaft im Spielverlauf gilt der Tipp als gewonnen, auch wenn der Endstand spaeter dreht."
+      },
+      "news_kompakt": [
+        "PSG amtierender CL-Titelverteidiger (Sieger 24/25) + frisch gekroenter Ligue-1-Meister 25/26 (5. Titel in Folge, 14. franzoesischer Titel)",
+        "Arsenal frisch gekroenter Premier-League-Meister 25/26 (1. PL-Titel seit Invincibles 2003/04, 14. englischer Titel) - DOUBLE in Sichtweite",
+        "Erstmals CL-Final-Kickoff 18:00 CEST statt 21:00 (UEFA-Beschluss 28.08.2025 - 'besseres Fan-Erlebnis')",
+        "Venue Puskas Arena Budapest, neutral (weder Frankreich noch England)",
+        "PSG-Verletzungssorgen: 6 Spieler in Fitness-Review (Hakimi wahrscheinlich nicht Start, Dembele zurueck im Training)",
+        "Arsenal mit komplettem Stamm: Saliba-Gabriel-Rice-Saka-Odegaard alle fit; nur Timber (Sprunggelenk) out",
+        "Form-Asymmetrie: Arsenal 5 Siege 8:1 Tore - PSG 2W/2D/1L inkl. 1:2 Heim-Niederlage vs Paris FC 17.05.",
+        "Arsenal-CL-Defensive: 14 Spiele ungeschlagen mit 9 Clean Sheets (CL-Rekord-Naehe)",
+        "Topscorer CL 25/26: Kvaratskhelia 10T+6A in 15 (PSG-Gesamt), Dembele 7T in 12 (PSG-CL-Rein), Martinelli 6T in 13 (Arsenal)",
+        "Arsenal-Trainer Mikel Arteta unentschieden Gyoekeres vs Havertz als ST",
+        "Predicted PSG-XI: Safonov; Zaire-Emery, Marquinhos, Beraldo, Nuno Mendes; Joao Neves, Vitinha, Fabian Ruiz; Doue/Dembele, Goncalo Ramos, Kvaratskhelia",
+        "Predicted Arsenal-XI: Raya; White, Saliba, Gabriel, Calafiori; Rice, Zubimendi, Odegaard; Saka, Gyoekeres/Havertz, Martinelli/Trossard",
+        "2:0-Insurance-Regel anwendbar (CL Sieg-Tipps)",
+        "Einwechslungs-Boost-Regel anwendbar (Torschuetzen-Maerkte: Goncalo Ramos/Barcola fuer PSG, Havertz/Trossard fuer Arsenal als Backup)"
+      ],
+      "quellen_aggregator": [
+        "https://en.wikipedia.org/wiki/2026_UEFA_Champions_League_final",
+        "https://www.espn.com/soccer/story/_/id/48889043/why-does-champions-league-final-kick-5-pm-arsenal-vs-psg-set-early-start",
+        "https://www.sportsmole.co.uk/football/psg/champions-league/predicted-lineups/dembele-decision-hakimi-status-predicted-psg-xi-vs-arsenal_598305.html",
+        "https://www.skysports.com/football/news/11095/13548482/champions-league-final-who-does-mikel-arteta-pick",
+        "https://sports.yahoo.com/articles/saliba-gabriel-saka-start-4-193500973.html",
+        "https://www.arsenal.com/news/injury-latest-white-odegaard-and-saka",
+        "https://news.bet365.com/en-us/article/uefa-champions-league-final-betting-odds/2026051520122879825",
+        "https://mrfixitstips.co.uk/psg-vs-arsenal-champions-league-final-first-scorer-ranking-the-contenders-to-open-the-scoring-in-ucl-final/",
+        "https://www.uefa.com/uefachampionsleague/top-scorer/",
+        "https://en.psg.fr/news/paris-saint-germain-crowned-as-french-champions-for-fifth-time-in-a-row",
+        "https://en.wikipedia.org/wiki/2025%E2%80%9326_Arsenal_F.C._season",
+        "https://en.wikipedia.org/wiki/2025%E2%80%9326_Paris_Saint-Germain_FC_season"
+      ]
+    },
+    {
+      "id": "2026-05-30-okc-sas",
+      "liga": "NBA Western Conference Finals Game 7 (BEDINGT)",
+      "matchday": "WCF G7",
+      "wettbewerb_scope_hinweis": "NBA voll in CLAUDE.md-Scope. Erlaubte Maerkte: Moneyline, Spread/Handicap, Ueber/Unter (Spiel+Viertel+Halbzeit), Spieler-Punkte, Double-Double, Triple-Double, Meiste Punkte. Verboten: Einzel-Assists/Rebounds/Steals/Blocks/Turnovers, PRA-Kombos, Punkte+Assists/Rebounds-Combos, einzelne 3er.",
+      "bedingung_hinweis": "NUR wenn Spurs G6 am Do 28.05. (20:30 ET / Fr 29.05. 02:30 CEST) in San Antonio gewinnen. Bei OKC-Sieg in G6 -> Serie aus 4-2 OKC, KEIN G7, OKC im NBA-Final. Stand 28.05. 17:00 CEST: G6 noch nicht angepfiffen; Wettmaerkte sehen Spurs in G6 leicht vorn (Elimination-Game zu Hause, Wembanyama-Bounce-Back nach G5-cold-Night) - G7-Wahrscheinlichkeit ca. 50%.",
+      "heim": "Oklahoma City Thunder",
+      "gast": "San Antonio Spurs",
+      "anstoss": "2026-05-30T20:00:00-04:00",
+      "anstoss_berlin": "2026-05-31T02:00:00+02:00",
+      "anstoss_utc": "2026-05-31T00:00:00Z",
+      "stadion": "Paycom Center, Oklahoma City, OK (OKC Heim-Recht als #1-Seed)",
+      "broadcast": "NBC/Peacock (US)",
+      "schiedsrichter": "n/v - NBA-Refs typischerweise erst am Spieltag bestaetigt",
+      "series_stand": "OKC fuehrt 3-2 vor G6 (Stand 28.05. vor Anpfiff). G6 = HEUTE 20:30 ET in San Antonio. G7 = nur wenn Spurs G6 gewinnen.",
+      "squad_heim": [
+        {"name": "Shai Gilgeous-Alexander", "nummer": 2, "position": "PG", "saison_punkte_avg_playoffs": null, "letzte_5_spiele_punkte_avg": null, "verifiziert_via": "https://www.nba.com/team/1610612760/thunder", "form_hinweis": "2x in Folge NBA-MVP. G5 in OKC: 32P/9A/2R/2S/1B in 37 Min. Volumen-Scorer, jederzeit 30+P-faehig; ueber 40+P moeglich in G7-Heimspiel."},
+        {"name": "Chet Holmgren", "nummer": 7, "position": "C", "saison_punkte_avg_playoffs": null, "letzte_5_spiele_punkte_avg": null, "verifiziert_via": "https://www.nba.com/team/1610612760/thunder", "form_hinweis": "G5: 16P. Unicorn-Big mit 3P-Range, primaere Defensiv-Aufgabe vs Wembanyama."},
+        {"name": "Isaiah Hartenstein", "nummer": 55, "position": "C", "saison_punkte_avg_playoffs": null, "letzte_5_spiele_punkte_avg": null, "verifiziert_via": "https://www.nba.com/team/1610612760/thunder", "form_hinweis": "Zweiter Center, Frontcourt-Tiefe. G5: Starter neben Holmgren. Glue-Guy."},
+        {"name": "Alex Caruso", "nummer": 9, "position": "G", "saison_punkte_avg_playoffs": null, "letzte_5_spiele_punkte_avg": null, "verifiziert_via": "https://www.nba.com/team/1610612760/thunder", "form_hinweis": "G5: 22P (Career-High-naehe). Defensiv-Spezialist, getroffen wenn offen."},
+        {"name": "Jaylin Williams", "nummer": 6, "position": "PF/C", "saison_punkte_avg_playoffs": null, "letzte_5_spiele_punkte_avg": null, "verifiziert_via": "https://www.nba.com/team/1610612760/thunder", "form_hinweis": "Verletzungs-Concern in G5 (Williams-Verletzungs-Start lt. recherche/2026-05-28.json). Status fuer G7 zu pruefen."},
+        {"name": "Jalen Williams", "nummer": 8, "position": "SF/SG", "saison_punkte_avg_playoffs": null, "letzte_5_spiele_punkte_avg": null, "verifiziert_via": "https://www.nba.com/team/1610612760/thunder", "form_hinweis": "Wing-Scorer Starter, Saison-25/26-3rd-Option hinter SGA+Holmgren. Anmerkung: 28.05.-Recherche notiert McCain hat Jalen-Williams-Starter-Position ggf. uebernommen."},
+        {"name": "Cason Wallace", "nummer": 22, "position": "G", "saison_punkte_avg_playoffs": null, "letzte_5_spiele_punkte_avg": null, "verifiziert_via": "https://www.nba.com/team/1610612760/thunder", "form_hinweis": "3-and-D-Wing."},
+        {"name": "Aaron Wiggins", "nummer": 21, "position": "SG/SF", "saison_punkte_avg_playoffs": null, "letzte_5_spiele_punkte_avg": null, "verifiziert_via": "https://www.nba.com/team/1610612760/thunder", "form_hinweis": "Joker-Scorer von der Bank."}
+      ],
+      "squad_gast": [
+        {"name": "Victor Wembanyama", "nummer": 1, "position": "C", "saison_punkte_avg_playoffs": 28.2, "letzte_5_spiele_punkte_avg": null, "verifiziert_via": "https://www.nba.com/team/1610612759/spurs", "form_hinweis": "Avg 28.2P/11.8R/3.6A/3.0B/1.8 3PM in WCF-Serie vs OKC; G5 nur 20P/6R/3B bei 4-15 FG (cold shooting). Center-Position, KEIN PRA-Kombi-Tipp erlaubt (CLAUDE.md verboten). Bounce-Back-Profil in Elimination-Game; in G6 zu Hause grosse Eruption erwartet."},
+        {"name": "De'Aaron Fox", "nummer": 4, "position": "PG", "saison_punkte_avg_playoffs": null, "letzte_5_spiele_punkte_avg": null, "verifiziert_via": "https://www.nba.com/team/1610612759/spurs", "form_hinweis": "G5 schwach (Wemby+Fox kombiniert 8-30 FG). Klassischer Score-First-PG, kam in G3 aus Verletzung zurueck."},
+        {"name": "Stephon Castle", "nummer": 5, "position": "G", "saison_punkte_avg_playoffs": null, "letzte_5_spiele_punkte_avg": null, "verifiziert_via": "https://www.nba.com/team/1610612759/spurs", "form_hinweis": "G5: 24P in 33 Min - heisseste Hand der Spurs in G5. Combo-Guard, Rising-Star-Profil."},
+        {"name": "Dylan Harper", "nummer": null, "position": "G", "saison_punkte_avg_playoffs": null, "letzte_5_spiele_punkte_avg": null, "verifiziert_via": "https://www.nba.com/team/1610612759/spurs", "form_hinweis": "Rookie-Guard, kam in G3 aus Verletzung zurueck; Starter in G5."},
+        {"name": "Devin Vassell", "nummer": 24, "position": "SF", "saison_punkte_avg_playoffs": null, "letzte_5_spiele_punkte_avg": null, "verifiziert_via": "https://www.nba.com/team/1610612759/spurs", "form_hinweis": "Wing-Scorer, G5-Lineup-Starter."}
+      ],
+      "injuries_heim": [
+        "Jaylin Williams (Status fragwuerdig - in G5 Verletzungs-Bezug, fuer G7 zu pruefen)"
+      ],
+      "injuries_gast": [],
+      "parallele_wettbewerbe": {
+        "heim": "keine - NBA-Playoffs-Bracket einzige Spiele; G6 28.05., G7 ggf. 30.05.; bei Sieg NBA-Final-G1 03.06. vs Knicks",
+        "gast": "keine - WCF einzige Spiele; bei Sieg in G6+G7 NBA-Final-G1 03.06. vs Knicks",
+        "quellen": [
+          "https://www.nba.com/playoffs/",
+          "https://www.nbc.com/nbc-insider/thunder-vs-spurs-western-conference-finals-schedule-games-1-7",
+          "https://www.nbcnewyork.com/nba/nba-finals-2026-schedule-how-to-watch/6505516/"
+        ]
+      },
+      "saisonziel_heim": "OKC: NBA-Champion-Anspruch (Regular Season ~#1 West mit 64-18 Bilanz lt. Quellen-Bezug); aktuell 1-Sieg-vor-NBA-Final-Einzug",
+      "saisonziel_gast": "Spurs: ueberraschender WCF-Einzug nach Wemby-Aufstieg; Elimination-Game-Modus seit G5",
+      "tabellenstand": {
+        "heim_platz": "WCF G7 - Serie 3-2 OKC vor G6",
+        "heim_pkt": null,
+        "gast_platz": "WCF G7 - Serie 2-3 SAS vor G6",
+        "gast_pkt": null
+      },
+      "form_heim_letzte_5": "Serien-Stand 3-2 vor G6 (G1+G2+G4+G5 zu OKC; G3 zu Spurs); G5 dominanter 127:114-Heimsieg in OKC",
+      "form_gast_letzte_5": "Serien-Stand 2-3 vor G6 (G3+? zu Spurs); G5 schwache Schiesserei (Wemby+Fox 8-30 FG)",
+      "recovery_heim": "G7 = 2 Tage nach G6 (28.05.) - standard NBA-Playoff-Recovery, voll erholt",
+      "recovery_gast": "G7 = 2 Tage nach G6 (28.05.) - standard NBA-Playoff-Recovery, voll erholt",
+      "quoten": {
+        "bet365_naeherung": {
+          "moneyline_heim": -350,
+          "moneyline_gast": 280,
+          "spread_heim": -8.5,
+          "spread_gast": 8.5,
+          "ueber_punkte": 215.5,
+          "unter_punkte": 215.5,
+          "_kommentar_decimals": "ML OKC ~1.29, ML SAS ~3.80 in Dezimal - OKC #1-Seed-Heim in G7 historisch 80%+ Win-Rate. Spread -8.5 OKC. Ueber/Unter ~215.5 Punkte. Spieler-Punkte: SGA Ueber 30.5 (1.85), Wembanyama Ueber 27.5 (1.85). bet365 LIVE pruefen am Spieltag.",
+          "spieler_punkte_ueber": {
+            "SGA": 30.5,
+            "Wembanyama": 27.5,
+            "Holmgren": 18.5,
+            "Castle": 16.5,
+            "Caruso": 12.5
+          }
+        },
+        "_quelle": "Vegas Insider + ESPN Bracket + NBC Schedule + Naeherung aus 28.05.-Recherche-Datei (data/recherche/2026-05-28.json) - bet365 LIVE pruefen erst nach G6-Ausgang.",
+        "_notes": "G7-Quoten erst ab Fr 29.05. live bei Buchmachern (nach G6-Ausgang). Wenn G7 stattfindet, ist OKC zu Hause haushoher Favorit. WARNUNG: data/markt_bluter.json markiert 'Spieler-Punkte Unter (NBA)' als negativ-historisch -> Wemby/SGA UNTER nicht als SAFE/VALUE setzen (Mapper degradiert sonst). UEBER ist die saubere Richtung."
+      },
+      "news_kompakt": [
+        "BEDINGT: G7 nur wenn Spurs G6 (Do 28.05.) gewinnen; OKC-Sieg in G6 = Serie 4-2 OKC = kein G7",
+        "Stand 28.05. vor G6: OKC fuehrt 3-2 nach 127:114-Heimsieg in G5 (SGA 32P/9A, Caruso 22P)",
+        "Wembanyama G5 cold (20P/6R/3B bei 4-15 FG) - in G7 zu Hause Bounce-Back-Profil",
+        "Knicks bereits im NBA-Finale (Sweep Cavaliers 4-0); NBA-Final-G1 Mi 03.06. (NICHT dieses Wochenende)",
+        "G7 ist EINZIGES NBA-Spiel am 30.-31.05. Wochenende",
+        "Tip-off 20:00 ET = So 31.05. 02:00 CEST - User-Aktivitaet liegt Sonntag-frueh-morgens, daher Tipps-Routine entscheidet ob G7 in 30.05- oder 31.05-Dossier gehoert",
+        "Verbotene NBA-Maerkte (CLAUDE.md): Einzel-Assists/Rebounds/Steals/Blocks/Turnovers, PRA-Kombos, Punkte+Assists/Rebounds-Combos, einzelne 3er"
+      ],
+      "quellen_aggregator": [
+        "https://www.nba.com/playoffs/",
+        "https://www.nbc.com/nbc-insider/thunder-vs-spurs-western-conference-finals-schedule-games-1-7",
+        "https://www.nbcnewyork.com/nba/nba-finals-2026-schedule-how-to-watch/6505516/",
+        "https://www.espn.com/nba/playoff-bracket",
+        "data/recherche/2026-05-28.json"
+      ]
+    }
+  ],
+  "out_of_scope_kompakt": {
+    "brasileirao_serie_a_30_05": [
+      "Flamengo-Coritiba (Maracana, Sa 16:00 BRT = 21:00 CEST)",
+      "Athletico-PR vs Mirassol (Sa 16:00 BRT = 21:00 CEST)",
+      "Gremio vs Corinthians (Sa 17:30 BRT = 22:30 CEST)",
+      "Bahia vs Botafogo (Sa 17:30 BRT = 22:30 CEST)",
+      "Santos vs Vitoria (Sa 21:00 BRT = So 02:00 CEST)"
+    ],
+    "_kommentar": "Brasileirao ist NICHT in CLAUDE.md-Scope (Scope = BL/PL/LaLiga/Serie A/DFB-Pokal/CL/Coppa Italia + NBA). NICHT recherchiert. Nur zur Vollstaendigkeit gelistet, da die football-data.org-API fuer Sa 30.05. diese 5 Spiele zurueckliefert."
+  },
+  "abschluss_check": {
+    "scope_pruefung": "BL/PL/LaLiga/Serie A/DFB-Pokal/Coppa Italia ALLE Saison beendet; EL/Conference-League ALLE ausgespielt; Frauen-DFB-Pokal-Final + Frauen-BL ausgespielt; BL-Relegation + 2.BL-Relegation ABGESCHLOSSEN. EINZIGES IM-SCOPE-FUSSBALL-SPIEL = CL-Final PSG-Arsenal Sa 30.05. 18:00 CEST. NBA-WCF-G7 = einziges NBA-Spiel (bedingt).",
+    "skipped_due_to_token_budget": false,
+    "kontext_fuer_tipps_routine": "Wochenend-Dossier wird MAGER (1 Top-Fussball-Spiel + 1 bedingtes NBA-Spiel). Tipps-Routine kann CL-Final ausfuehrlich recherchieren (Doppel-Dossier-Block: Einzeltipps mit 2:0-Insurance-Bezug + Einwechslungs-Boost-Bezug + Torschuetzen-Goldgrube-Bezug) und G7 als optionalen Block hinzufuegen falls G6-Ausgang Spurs-Sieg ist."
+  }
+}
