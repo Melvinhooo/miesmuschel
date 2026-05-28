@@ -1,0 +1,386 @@
+{
+  "datum": "2026-05-27",
+  "erstellt_am": "2026-05-27T13:35:00+02:00",
+  "hinweis": "EIN-SPIEL-TAG (Saison-Endphase): Alle Top-5-Ligen + DFB-Pokal/Coppa/FA-Cup durch, Champions-League-Finale erst Sa 30.05., NBA Conference Finals haben heute Ruhetag (ECF von den Knicks 4-0 gefegt, WCF G6 erst Do 28.05.). Einziges Spiel im Wett-Fenster: das UEFA-Conference-League-FINALE Crystal Palace vs Rayo Vallecano (21:00, Red Bull Arena Leipzig, neutraler Boden). KEINE Kombis - bei nur einem Spiel waeren alle Beine korreliert (Layer-1: max 1 Bein/Spiel/Kombi; Mini-Spiele-Tag-Lessons 19./21./26.05.). Fokus auf wenige goldgrube-priorisierte Einzeltipps, reduzierte Stakes (Kasse 550€, Stufe 1). Quoten immer bei bet365 LIVE pruefen.",
+  "spiele": [
+    {
+      "id": "2026-05-27-cry-ray",
+      "liga": "UEFA Conference League - Finale",
+      "matchday": "Finale",
+      "heim": "Crystal Palace",
+      "gast": "Rayo Vallecano",
+      "anstoss": "2026-05-27T21:00:00+02:00",
+      "stadion": "Red Bull Arena, Leipzig (neutraler Boden)",
+      "saison_kontext": {
+        "parallel_heim": "keine - Premier-League-Saison beendet (MD38 am 24.05. vs Arsenal), kein Pokal mehr offen; das Finale ist Palaces Saison-Endspiel",
+        "parallel_gast": "keine - LaLiga-Saison beendet (MD38 am 24.05.), kein Pokal mehr offen; das Finale ist Rayos Saison-Endspiel",
+        "saisonziel_heim": "PL Platz 15 (Mittelfeld, gesichert) - voller Fokus auf den ersten Europapokal-Titel der Klubgeschichte. Maximale Motivation, kein Liga-Restprogramm. FA-Cup-Sieger 2025.",
+        "saisonziel_gast": "LaLiga Platz 8 (gesichert) - voller Fokus auf den ersten Europapokal-Titel der Vereinsgeschichte. Maximale Motivation, kein Rotationsdruck.",
+        "motivations_asymmetrie": "Symmetrisch maximal - beide Klubs bestreiten ihr erstes Europapokal-Finale ueberhaupt, kein Liga-Restprogramm, beide voll fokussiert. Kein Motivations-Edge. Palace nominell klassenhoeher (PL-Tiefe, Sarr als Wettbewerbs-Topscorer), beendete die PL aber mit 7 Pflichtspielen ohne Sieg - kein klarer Klassen-Selbstlaeufer, eher leichter Palace-Lean auf neutralem Boden.",
+        "recovery_heim": "ca. 3 Tage seit PL-Saisonabschluss (24.05.) - voll regeneriert. Ausfaelle: Nketiah (Hamstring) + Doucoure (Knie) OUT, Sosa (muskulaer) fraglich, Richards (Baenderriss) 50/50, Wharton (Knoechel) fraglich - Sturm-Tiefe hinter Mateta angeschlagen.",
+        "recovery_gast": "ca. 3 Tage seit LaLiga-Saisonabschluss (24.05.) - voll regeneriert. Ausfaelle: Luiz Felipe (Hamstring) OUT, Akhomach (Aufwaerm-Verletzung im HF-Rueckspiel) fraglich/OUT, Carlos Martin (Ruecken) angeschlagen. Alvaro Garcia rechtzeitig fit.",
+        "quellen": [
+          "https://www.uefa.com/uefaconferenceleague/news/02a5-20b417d9b5b3-21512b9bd3ff-1000--crystal-palace-vs-rayo-vallecano-conference-league-final-pre/",
+          "https://en.wikipedia.org/wiki/2026_UEFA_Conference_League_final",
+          "https://news.bet365.com/en-gb/article/crystal-palace-v-rayo-vallecano-conference-league-final-odds/2026050721242382573",
+          "https://www.cbssports.com/betting/news/crystal-palace-vs-rayo-vallecano-prediction-odds-expert-picks-for-uefa-conference-league-final-wednesday/"
+        ]
+      },
+      "news": [
+        "Conference-League-FINALE in der Red Bull Arena Leipzig, 21:00 Berlin - neutraler Boden, kein Heimvorteil fuer Palace; beide Klubs erstes Europapokal-Finale der Geschichte, kein direktes H2H.",
+        "bet365-1X2 verifiziert (bet365 News + ESPN/CBS): Crystal Palace 1.90 / Unentschieden 3.40 / Rayo Vallecano 4.10 (90 Min). No-Vig: Palace ~49.5% (fair ~2.02), Remis ~27.6%, Rayo ~22.9% - Palace leichter Favorit, keine haushohe Quote.",
+        "Ismaila Sarr (RW) ist Wettbewerbs-Topscorer (9 Tore/11 Starts), traf in Palaces letzten 5 CL-Spielen; Palace mit 25 Toren bester Offensiv-Wert des Turniers. Mateta (ST) zentraler Stuermer + Elfmeterschuetze.",
+        "Rayo defensiv-stark: beide HF-Legs vs Strasbourg 1:0, unbesiegt in 9 Pflichtspielen; interner CL-Topscorer Alemao (4 Tore, ST) traf in beiden HF-Legs, Camello als Joker.",
+        "Form-Warnung Palace: 7 Pflichtspiele ohne Sieg zum PL-Saisonende (Offensiv-Flaute trotz Favoritenrolle) + Sturm-Tiefe angeschlagen (Nketiah OUT). Eberechi Eze NICHT im Kader (Sommer 2025 fuer 26 Mio an Arsenal verkauft, Pino #10 ersetzt ihn) - nicht tippen.",
+        "Regel-Hinweis: 2:0-Insurance gilt NICHT (nur 1. Bundesliga + Champions League). Einwechslungs-Boost (Torschuetzen) gilt bei bet365."
+      ],
+      "kontext_check_status": "OK",
+      "tipps": [
+        {
+          "id": "cry-ray-1",
+          "kategorie": "value",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.75,
+          "edge_prozent": null,
+          "begruendung": "Goldgrube-Markt Unter 2.5 (69.2% Hit / +37.2% ROI bei n=13) - an duennen Slates der ROI-Anker (Lesson 26.05.). Europapokal-K.o.-Endspiele sind erfahrungsgemaess taktisch-defensiv (Lesson 01.05. + 22.05.: Tor-Festival-These in HF-/Final-Hinspielen widerlegt). Verstaerkend: beidseitiger Erst-Titel-Druck, Rayo defensiv-stabil (2x 1:0 vs Strasbourg, 9 Spiele unbesiegt), Palace offensiv in Flaute (7 Spiele sieglos). No-Vig (DraftKings Unter 1.71 / Ueber 2.10) = ~55% -> faire Quote ~1.81; bet365 @1.75 minimal unter fair, aber Markt-Track-Record + Final-These tragen den VALUE. Stake Stufe 1 VALUE 1.5% = 8,25€. Bei bet365 live pruefen.",
+          "faire_quote": 1.81,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "cry-ray-2",
+          "kategorie": "wackel",
+          "markt": "Crystal Palace Doppelte Chance (1X - Sieg oder Remis)",
+          "quote": 1.28,
+          "edge_prozent": null,
+          "begruendung": "Goldgrube-Markt DC 1X (80.0% Hit / +2.3% ROI bei n=22) als forgiving Anker des Ein-Spiel-Tages: Palace bet365-Favorit (1.90 vs 4.10), No-Vig Palace-Sieg ~49.5% + Remis ~27.6% = ~77% fuer 'Palace verliert nicht in 90 Min' -> faire Quote ~1.30, bet365 @1.28 praktisch fair. KEIN SAFE (Hebel C): Conference-Finale steht NICHT in liga_goldgruben.json -> Mapper wuerde SAFE eh auf VALUE druecken; zusaetzlich Palace 7 Spiele sieglos + Final-Single-Game-Varianz (Lesson 25.04.) + neutraler Boden. Bewusst WACKEL mit goldgrube-priorisiertem 1.0%-Stake = 5,50€. [HR2: Palace-Form-Flaute -> kein Heim-Sieg-SAFE/VALUE, DC als forgiving Variante.] Bei bet365 live pruefen.",
+          "faire_quote": 1.3,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "cry-ray-3",
+          "kategorie": "wackel",
+          "markt": "Ismaila Sarr trifft jederzeit",
+          "quote": 3.3,
+          "edge_prozent": null,
+          "begruendung": "Goldgrube-Markt Torschuetzen Jederzeit (39.0% Hit / +24.1% ROI bei n=43) - aktiv gesucht. Sarr (RW, Squad verifiziert) ist Wettbewerbs-Topscorer (9 Tore/11 Starts), traf in den letzten 5 CL-Spielen = HR24-Form-Edge (Bedingung 1) klar erfuellt. Aber nur 1 von 3 HR24-Bedingungen: kein zentraler 9er (Bedingung 2) + Rayo defensiv-stabil statt Defense-Krise (Bedingung 3) -> WACKEL statt VALUE, zusaetzlich gedaempft durch die eigene Unter-2.5-These. Lesson 21.05. (Klassen-Edge-Final: Tor-Verteilung verlagert sich auf Wings/Mids) stuetzt Sarr als wahrscheinlichsten Palace-Schuetzen falls ein Tor faellt. Quote 3.30 sauber im WACKEL-Range. Stake WACKEL 0.5% = 2,75€. Aufstellung 60-90 Min vor Anstoss verifizieren (Lesson 14.05.). Bei bet365 live pruefen.",
+          "faire_quote": 3.3,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "cry-ray-4",
+          "kategorie": "wackel",
+          "markt": "Crystal Palace Sieg (90 Min)",
+          "quote": 1.9,
+          "edge_prozent": null,
+          "begruendung": "WACKEL statt VALUE: bei bet365 1.90/3.40/4.10 liegt die faire No-Vig-Palace-Sieg-Wahrscheinlichkeit bei ~49.5% (faire Quote ~2.02) -> 1.90 hat KEINEN positiven Edge gegenueber der fairen Linie. Natuerlicher Lean (klassenhoeher, Sarr-Offensive), aber 7 Spiele sieglos + Final-Varianz + neutraler Boden druecken auf Mini-WACKEL. 2:0-Insurance gilt hier NICHT (nur BL + CL) - voll auf 90-Min-Settlement. Sieg-Flier -> Mini-Stake (Lesson 26.05.). Wer Palace will, nimmt eher die forgiving DC 1X (cry-ray-2). Stake WACKEL 0.5% = 2,75€. Bei bet365 live pruefen.",
+          "faire_quote": 2.02,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "ergebnis": {
+        "heim": 1,
+        "gast": 0,
+        "endstand": "1:0",
+        "kommentar": "Crystal Palace 1:0 - Mateta 51' (Rebound nach Wharton-Distanzschuss, Batalla parierte). Erster Europapokal-Titel der Klubgeschichte."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "cry-ray-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.75,
+          "kommentar": "Endstand 1:0 = 1 Tor < 2.5. Unter 2.5 sauber durch.",
+          "clv_prozent": null,
+          "opening_quote": 1.75,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "cry-ray-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.28,
+          "kommentar": "Palace 1:0 Sieg - DC 1X erfuellt.",
+          "clv_prozent": null,
+          "opening_quote": 1.28,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "cry-ray-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Sarr traf nicht. Wurde 76' fuer Strand Larsen ausgewechselt; Strand Larsen traf nicht (einziges Tor Mateta 51' VOR der Auswechslung). Einwechslungs-Boost greift NICHT, da Ersatz Strand Larsen kein Tor schoss.",
+          "clv_prozent": null,
+          "opening_quote": 3.3,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "cry-ray-4",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.9,
+          "kommentar": "Palace 1:0 Sieg in 90 Min - sauber durch.",
+          "clv_prozent": null,
+          "opening_quote": 1.9,
+          "closing_quote": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "1:0",
+        "tore": [
+          {
+            "min": 51,
+            "team": "heim",
+            "spieler": "Mateta",
+            "stand_danach": "1:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Kein Stand mit Differenz >=2 Toren - klassisches 1:0-Finale. Keine 2:0-Insurance-Auswirkung (gilt eh nur fuer BL+CL, nicht Conference)."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Unentschieden/Heim",
+          "kein_team_zu_null": false,
+          "siegtor_in_letzten_15min": false,
+          "ausgleich_in_letzten_15min": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Strand Larsen",
+            "aus": "Sarr",
+            "minute": 76,
+            "tor": false,
+            "tor_minute": null
+          },
+          {
+            "team": "heim",
+            "ein": "Guessand",
+            "aus": "Munoz",
+            "minute": 81,
+            "tor": false,
+            "tor_minute": null
+          },
+          {
+            "team": "gast",
+            "ein": "Pedro Diaz",
+            "aus": "Unai Lopez",
+            "minute": 63,
+            "tor": false,
+            "tor_minute": null
+          },
+          {
+            "team": "gast",
+            "ein": "Camello",
+            "aus": "De Frutos",
+            "minute": 70,
+            "tor": false,
+            "tor_minute": null
+          }
+        ],
+        "auffaellige_patterns": [
+          "Klassisches K.o.-Endspiel-Defensiv-Pattern (Lesson 01.05./22.05.): HZ 0:0, einziges Tor Mateta 51' via Standard-Rebound (Wharton-Distanzschuss, Batalla parierte). Unter 2.5 als Goldgrube-Default-Tipp in europaeischen Pokal-Finalen erneut validiert (Bilanz nach 27.05.: n=14, weiter klar profitabel).",
+          "Sarr (9 CL-Tore, traf in letzten 5 CL-Spielen) traf NICHT trotz Topscorer-Form-Edge - Rayo-Defense (2x 1:0 vs Strasbourg im HF, 9 Spiele unbesiegt) neutralisierte den Wing. HR24-Form-Edge alleine reicht nicht gegen Defense-Spezialist-Gegner in Finalen.",
+          "Lesson 21.05.-These (Klassen-Edge-Final Tor-Verteilung Wings/Mids statt 9er) durch Mateta-Tor partiell widerlegt - aber Tor kam via Standard-Abpraller (kein offenes Wing-Play), nicht via positioneller Open-Play-Verteilung. Subfilter noetig: 21.05.-These gilt fuer Open-Play, nicht fuer Set-Piece/Rebound-Tore."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "et-1",
+      "spiel_id": "2026-05-27-cry-ray",
+      "tipp_id": "cry-ray-1",
+      "kategorie": "value",
+      "markt": "CL-Finale: Unter 2.5 Tore",
+      "quote": 1.75,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "Top-Einzeltipp des Ein-Spiel-Tages. Goldgrube Unter 2.5 (69.2% HR / +37.2% ROI). Europapokal-Endspiel = oft taktisch-defensiv (Lesson 01.05./22.05.), beide auf erste Trophae, Rayo defensiv-stabil, Palace offensiv in Flaute. Fair ~1.81 (No-Vig), bet365 @1.75 ok dank Markt-Track-Record. Stufe 1 VALUE: 1.5% = 8,25€. bet365 live pruefen.",
+      "rang": 1
+    },
+    {
+      "id": "et-2",
+      "spiel_id": "2026-05-27-cry-ray",
+      "tipp_id": "cry-ray-2",
+      "kategorie": "wackel",
+      "markt": "CL-Finale: Crystal Palace Doppelte Chance 1X (Sieg oder Remis)",
+      "quote": 1.28,
+      "empfohlener_einsatz_prozent": 1.0,
+      "einsatz_euro": 5.5,
+      "begruendung": "Forgiving Anker. Goldgrube DC 1X (80% HR / 22 Tipps). Palace Favorit (1.90 vs 4.10), ~77% 'verliert nicht in 90 Min', bet365 @1.28 ~fair. KEIN SAFE: Conference-Finale nicht in liga_goldgruben.json (Hebel C) + Palace 7 Spiele sieglos + neutraler Boden. Goldgrube-priorisiertes WACKEL: 1.0% = 5,50€. bet365 live pruefen.",
+      "rang": 2
+    },
+    {
+      "id": "et-3",
+      "spiel_id": "2026-05-27-cry-ray",
+      "tipp_id": "cry-ray-3",
+      "kategorie": "wackel",
+      "markt": "CL-Finale: Ismaila Sarr trifft jederzeit",
+      "quote": 3.3,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "Goldgrube Torschuetzen Jederzeit (+24.1% ROI). Sarr Wettbewerbs-Topscorer (9/11), traf in letzten 5 CL-Spielen (Form-Edge HR24-Bed.1). WACKEL weil RW statt 9er + Rayo defensiv-stabil (nur 1/3 HR24) + torarmes Finale erwartet. Wahrscheinlichster Palace-Schuetze. Stufe 1 WACKEL: 0.5% = 2,75€. Aufstellung vor Anstoss pruefen. bet365 live pruefen.",
+      "rang": 3
+    },
+    {
+      "id": "et-4",
+      "spiel_id": "2026-05-27-cry-ray",
+      "tipp_id": "cry-ray-4",
+      "kategorie": "wackel",
+      "markt": "CL-Finale: Crystal Palace Sieg (90 Min)",
+      "quote": 1.9,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "Nur Mini-Wackel: 1.90 ohne positiven Edge vs. faire Linie (~2.02) + 7 Spiele sieglos + neutraler Boden. Natuerlicher Lean, aber Finale-Varianz. 2:0-Insurance gilt NICHT (nur BL+CL). Sieg-Flier -> Mini-Stake (Lesson 26.05.). Wer Palace will, nimmt eher die forgiving DC 1X (et-2). Stufe 1 WACKEL: 0.5% = 2,75€. bet365 live pruefen.",
+      "rang": 4
+    }
+  ],
+  "kombis": [],
+  "_verifikations_report": {
+    "erstellt_am": "2026-05-27T13:42:00+02:00",
+    "modus": "inline (Ein-Spiel-Tag, voller Kontext geladen)",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "weiche_spannung",
+        "spiel_id": "2026-05-27-cry-ray",
+        "details": "Unter 2.5 (VALUE) + Sarr trifft jederzeit (WACKEL) leicht gegenlaeufig - aber kompatibel (1:0/2:0/1:1 erfuellt beide). Sarr nur WACKEL/Mini-Stake, Spannung in der Begruendung offengelegt. Kein Drop."
+      },
+      {
+        "art": "quoten_abgeleitet",
+        "tipp_id": "cry-ray-2",
+        "details": "DC 1X @1.28 nicht direkt bei bet365 abgreifbar (Recherche-WARN), aus No-Vig-1X2 abgeleitet (~1.30). Bei bet365 live pruefen."
+      },
+      {
+        "art": "pinnacle_fehlt",
+        "spiel_id": "2026-05-27-cry-ray",
+        "details": "Keine saubere Pinnacle-Fair-Line verfuegbar (Recherche-WARN) -> edge_prozent durchgehend null, faire_quote aus No-Vig-Markt abgeleitet."
+      }
+    ],
+    "checks": {
+      "spieler_halluzination": "PASS - einziger Spieler-Tipp Sarr (RW) im squad_heim verifiziert; Eze korrekt als Transfer-Falle ausgeschlossen",
+      "verband_quellen": "PASS - parallel_heim/gast = 'keine' (kein Wettbewerbs-Claim), uefa.com-Quelle dennoch vorhanden",
+      "layer_2_3": "PASS - kombis leer (Ein-Spiel-Tag), keine Sieg-Outcome-Duplikation moeglich",
+      "quoten_plausibilitaet": "PASS - keine Abweichung >5% (Sarr 3.30 = Recherche, Palace 1.90 = bet365, Unter 2.5 1.75 vs DK 1.71)",
+      "selbstwiderspruch": "PASS - keine harten Widersprueche; 1 weiche Spannung dokumentiert",
+      "liga_frische": "PASS - Conference-Finale 27.05. via UEFA verifiziert; CL-Finale (30.05.) + NBA-Stale-Schedule-Fallen in Recherche bereits abgefangen"
+    },
+    "lessons_generiert": [],
+    "ergebnis": "0 Halluzinationen, 0 Drops, 0 Downgrades. Dossier sauber. Hartregeln eingehalten (max 5 Tipps/Spiel: 4 gesetzt; Layer-2 trivial erfuellt; keine SAFE wegen Hebel C + Form)."
+  },
+  "lessons_angewandt": [
+    {
+      "datum_lesson": "2026-05-26",
+      "kategorie": "Mini-Spiele-Tag / Single-Point-of-Failure",
+      "angewandt": "Ein-Spiel-Tag (nur CL-Finale): KEINE Kombis gebaut - bei einem Spiel waeren alle Beine zwingend korreliert (Layer-1: max 1 Bein/Spiel/Kombi). Stattdessen Stake-Konzentration auf wenige goldgrube-priorisierte Einzeltipps, Gesamt-Exposure 3.5% Kasse (unter Mini-Tag-Cap)."
+    },
+    {
+      "datum_lesson": "2026-05-26",
+      "kategorie": "Goldgrube-Prioritaet an duennem Slate",
+      "angewandt": "An duennem Slate die Goldgrube-Maerkte als Haupt-Einzeltipps priorisiert (Unter 2.5 +37.2% / Torschuetzen Jederzeit +24.1% / DC 1X 80% HR) und das Sieg-Outcome (Palace Sieg) auf Mini-Stake begrenzt."
+    },
+    {
+      "datum_lesson": "2026-05-01",
+      "kategorie": "Europapokal-K.o.-Tor-These defensiv",
+      "angewandt": "Statt BTTS/Ueber 2.5 (max WACKEL in K.o.-Endspielen, Tor-Festival-These widerlegt) auf Unter 2.5 (Goldgrube) als Top-VALUE gesetzt - Finale erfahrungsgemaess taktisch-defensiv."
+    },
+    {
+      "datum_lesson": "2026-05-21",
+      "kategorie": "Klassen-Edge-Final-Tor-Verteilung",
+      "angewandt": "Volume-9er (Mateta) NICHT als Torschuetzen-VALUE gesetzt; stattdessen Wing/Topscorer Sarr als wahrscheinlichster Schuetze - in Klassen-Edge-Finals verlagert sich die Tor-Verteilung auf Wings/Mids."
+    },
+    {
+      "datum_lesson": "2026-05-04",
+      "kategorie": "Hebel C (Liga-Goldgrube-Filter) + kein SAFE",
+      "angewandt": "Conference-League-Finale steht NICHT in liga_goldgruben.json -> kein SAFE im Dossier (Hebel C wuerde SAFE eh auf VALUE druecken). DC 1X bewusst als WACKEL gelabelt. Max 1 DC-Tipp (DC-Cap eingehalten)."
+    },
+    {
+      "datum_lesson": "2026-04-27",
+      "kategorie": "Quoten-Verifikation",
+      "angewandt": "bet365-1X2 (1.90/3.40/4.10) via bet365 News + ESPN/CBS verifiziert. Faire No-Vig-Linie berechnet (Palace ~49.5% -> ~2.02), daher Palace-Sieg @1.90 nur WACKEL (kein positiver Edge). edge_prozent ueberall null (keine saubere Pinnacle-Linie verfuegbar - Recherche-WARN)."
+    },
+    {
+      "datum_lesson": "2026-04-25",
+      "kategorie": "Roster-Verifikation (Halluzinations-Schutz)",
+      "angewandt": "Alle erwaehnten Spieler aus dem Recherche-Squad verifiziert (Sarr RW, Mateta ST). Eze als Transfer-Falle erkannt (Sommer 2025 an Arsenal verkauft) und explizit NICHT getippt/empfohlen."
+    }
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool, keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "einzeltipps_ergebnis": [
+    {
+      "id": "et-1",
+      "spiel_id": "2026-05-27-cry-ray",
+      "tipp_id": "cry-ray-1",
+      "kategorie": "value",
+      "markt": "CL-Finale: Unter 2.5 Tore",
+      "quote": 1.75,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "Top-Einzeltipp des Ein-Spiel-Tages. Goldgrube Unter 2.5 (69.2% HR / +37.2% ROI). Europapokal-Endspiel = oft taktisch-defensiv (Lesson 01.05./22.05.), beide auf erste Trophae, Rayo defensiv-stabil, Palace offensiv in Flaute. Fair ~1.81 (No-Vig), bet365 @1.75 ok dank Markt-Track-Record. Stufe 1 VALUE: 1.5% = 8,25€. bet365 live pruefen.",
+      "rang": 1,
+      "status": "gewonnen",
+      "ergebnis_kommentar": "Endstand 1:0 (1 Tor) < 2.5 - Unter 2.5 gewonnen. Gewinn +6.19€ (Auszahlung 14.44€ bei 8.25€ Einsatz)."
+    },
+    {
+      "id": "et-2",
+      "spiel_id": "2026-05-27-cry-ray",
+      "tipp_id": "cry-ray-2",
+      "kategorie": "wackel",
+      "markt": "CL-Finale: Crystal Palace Doppelte Chance 1X (Sieg oder Remis)",
+      "quote": 1.28,
+      "empfohlener_einsatz_prozent": 1.0,
+      "einsatz_euro": 5.5,
+      "begruendung": "Forgiving Anker. Goldgrube DC 1X (80% HR / 22 Tipps). Palace Favorit (1.90 vs 4.10), ~77% 'verliert nicht in 90 Min', bet365 @1.28 ~fair. KEIN SAFE: Conference-Finale nicht in liga_goldgruben.json (Hebel C) + Palace 7 Spiele sieglos + neutraler Boden. Goldgrube-priorisiertes WACKEL: 1.0% = 5,50€. bet365 live pruefen.",
+      "rang": 2,
+      "status": "gewonnen",
+      "ergebnis_kommentar": "Palace 1:0 - DC 1X gewonnen. Gewinn +1.54€ (Auszahlung 7.04€ bei 5.50€ Einsatz)."
+    },
+    {
+      "id": "et-3",
+      "spiel_id": "2026-05-27-cry-ray",
+      "tipp_id": "cry-ray-3",
+      "kategorie": "wackel",
+      "markt": "CL-Finale: Ismaila Sarr trifft jederzeit",
+      "quote": 3.3,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "Goldgrube Torschuetzen Jederzeit (+24.1% ROI). Sarr Wettbewerbs-Topscorer (9/11), traf in letzten 5 CL-Spielen (Form-Edge HR24-Bed.1). WACKEL weil RW statt 9er + Rayo defensiv-stabil (nur 1/3 HR24) + torarmes Finale erwartet. Wahrscheinlichster Palace-Schuetze. Stufe 1 WACKEL: 0.5% = 2,75€. Aufstellung vor Anstoss pruefen. bet365 live pruefen.",
+      "rang": 3,
+      "status": "verloren",
+      "ergebnis_kommentar": "Sarr traf nicht; ausgewechselt 76' fuer Strand Larsen, Strand Larsen traf nicht. Einwechslungs-Boost greift nicht. Verlust -2.75€."
+    },
+    {
+      "id": "et-4",
+      "spiel_id": "2026-05-27-cry-ray",
+      "tipp_id": "cry-ray-4",
+      "kategorie": "wackel",
+      "markt": "CL-Finale: Crystal Palace Sieg (90 Min)",
+      "quote": 1.9,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "Nur Mini-Wackel: 1.90 ohne positiven Edge vs. faire Linie (~2.02) + 7 Spiele sieglos + neutraler Boden. Natuerlicher Lean, aber Finale-Varianz. 2:0-Insurance gilt NICHT (nur BL+CL). Sieg-Flier -> Mini-Stake (Lesson 26.05.). Wer Palace will, nimmt eher die forgiving DC 1X (et-2). Stufe 1 WACKEL: 0.5% = 2,75€. bet365 live pruefen.",
+      "rang": 4,
+      "status": "gewonnen",
+      "ergebnis_kommentar": "Palace 1:0 in 90 Min - Sieg-Tipp gewonnen. Gewinn +2.48€ (Auszahlung 5.23€ bei 2.75€ Einsatz)."
+    }
+  ],
+  "kombis_ergebnis": [],
+  "ausgewertet_am": "2026-05-28T06:07:06+00:00",
+  "bilanz_tag": {
+    "anzahl_tipps": 4,
+    "gewonnen": 3,
+    "verloren": 1,
+    "offen": 0,
+    "trefferquote_prozent": 75.0,
+    "einsatz_gesamt": 19.25,
+    "auszahlung_gesamt": 26.7025,
+    "netto": 7.4525,
+    "roi_prozent": 38.7
+  }
+}

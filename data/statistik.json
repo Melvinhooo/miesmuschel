@@ -1,37 +1,37 @@
 {
-  "letzte_berechnung": "2026-05-27T06:09:47+00:00",
+  "letzte_berechnung": "2026-05-28T06:12:47+00:00",
   "gesamt": {
-    "tipps": 289,
-    "gewonnen": 155,
-    "verloren": 123,
+    "tipps": 293,
+    "gewonnen": 158,
+    "verloren": 124,
     "push": 2,
     "offen": 9,
-    "einsatz": 280.0,
-    "netto": 23.0,
-    "trefferquote": 55.8,
-    "roi_prozent": 8.2
+    "einsatz": 284.0,
+    "netto": 23.93,
+    "trefferquote": 56.0,
+    "roi_prozent": 8.4
   },
   "letzte_30_tage": {
-    "tipps": 224,
-    "gewonnen": 116,
+    "tipps": 222,
+    "gewonnen": 114,
     "verloren": 97,
     "push": 2,
     "offen": 9,
-    "einsatz": 215.0,
-    "netto": 24.61,
-    "trefferquote": 54.5,
-    "roi_prozent": 11.4
+    "einsatz": 213.0,
+    "netto": 23.41,
+    "trefferquote": 54.0,
+    "roi_prozent": 11.0
   },
   "letzte_90_tage": {
-    "tipps": 289,
-    "gewonnen": 155,
-    "verloren": 123,
+    "tipps": 293,
+    "gewonnen": 158,
+    "verloren": 124,
     "push": 2,
     "offen": 9,
-    "einsatz": 280.0,
-    "netto": 23.0,
-    "trefferquote": 55.8,
-    "roi_prozent": 8.2
+    "einsatz": 284.0,
+    "netto": 23.93,
+    "trefferquote": 56.0,
+    "roi_prozent": 8.4
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -451,6 +451,17 @@
       "netto": -0.09,
       "trefferquote": 50.0,
       "roi_prozent": -4.5
+    },
+    "UEFA Conference League - Finale": {
+      "tipps": 4,
+      "gewonnen": 3,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 4.0,
+      "netto": 0.93,
+      "trefferquote": 75.0,
+      "roi_prozent": 23.2
     }
   },
   "nach_markt": {
@@ -1258,15 +1269,15 @@
       "roi_prozent": 42.0
     },
     "Unter 2.5 Tore": {
-      "tipps": 9,
-      "gewonnen": 7,
+      "tipps": 10,
+      "gewonnen": 8,
       "verloren": 2,
       "push": 0,
       "offen": 0,
-      "einsatz": 9.0,
-      "netto": 4.98,
-      "trefferquote": 77.8,
-      "roi_prozent": 55.3
+      "einsatz": 10.0,
+      "netto": 5.73,
+      "trefferquote": 80.0,
+      "roi_prozent": 57.3
     },
     "Unter 211.5 Punkte (Total)": {
       "tipps": 1,
@@ -1918,15 +1929,15 @@
       "roi_prozent": 149.0
     },
     "Ismaila Sarr trifft jederzeit": {
-      "tipps": 1,
+      "tipps": 2,
       "gewonnen": 1,
-      "verloren": 0,
+      "verloren": 1,
       "push": 0,
       "offen": 0,
-      "einsatz": 1.0,
-      "netto": 2.21,
-      "trefferquote": 100.0,
-      "roi_prozent": 221.0
+      "einsatz": 2.0,
+      "netto": 1.21,
+      "trefferquote": 50.0,
+      "roi_prozent": 60.5
     },
     "Ollie Watkins trifft jederzeit": {
       "tipps": 2,
@@ -2961,6 +2972,28 @@
       "netto": 0.91,
       "trefferquote": 100.0,
       "roi_prozent": 91.0
+    },
+    "Crystal Palace Doppelte Chance (1X - Sieg oder Remis)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.28,
+      "trefferquote": 100.0,
+      "roi_prozent": 28.0
+    },
+    "Crystal Palace Sieg (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.9,
+      "trefferquote": 100.0,
+      "roi_prozent": 90.0
     }
   },
   "nach_markt_typ": {
@@ -3009,37 +3042,37 @@
       "roi_prozent": 55.0
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 90,
-      "gewonnen": 52,
+      "tipps": 91,
+      "gewonnen": 53,
       "verloren": 37,
       "push": 0,
       "offen": 1,
-      "einsatz": 89.0,
-      "netto": 4.85,
-      "trefferquote": 58.4,
-      "roi_prozent": 5.4
+      "einsatz": 90.0,
+      "netto": 5.75,
+      "trefferquote": 58.9,
+      "roi_prozent": 6.4
     },
     "Torschuetzen Jederzeit": {
-      "tipps": 43,
+      "tipps": 44,
       "gewonnen": 16,
-      "verloren": 25,
+      "verloren": 26,
       "push": 2,
       "offen": 0,
-      "einsatz": 43.0,
-      "netto": 10.37,
-      "trefferquote": 39.0,
-      "roi_prozent": 24.1
+      "einsatz": 44.0,
+      "netto": 9.37,
+      "trefferquote": 38.1,
+      "roi_prozent": 21.3
     },
     "Unter 2.5 Tore": {
-      "tipps": 13,
-      "gewonnen": 9,
+      "tipps": 14,
+      "gewonnen": 10,
       "verloren": 4,
       "push": 0,
       "offen": 0,
-      "einsatz": 13.0,
-      "netto": 4.83,
-      "trefferquote": 69.2,
-      "roi_prozent": 37.2
+      "einsatz": 14.0,
+      "netto": 5.58,
+      "trefferquote": 71.4,
+      "roi_prozent": 39.9
     },
     "Doppelte Chance 1X": {
       "tipps": 22,
@@ -3405,28 +3438,28 @@
       "roi_prozent": 21.0
     },
     "Doppelte Chance": {
-      "tipps": 1,
-      "gewonnen": 0,
+      "tipps": 2,
+      "gewonnen": 1,
       "verloren": 1,
       "push": 0,
       "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
+      "einsatz": 2.0,
+      "netto": -0.72,
+      "trefferquote": 50.0,
+      "roi_prozent": -36.0
     }
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 140,
-      "gewonnen": 68,
+      "tipps": 142,
+      "gewonnen": 70,
       "verloren": 67,
       "push": 1,
       "offen": 4,
-      "einsatz": 136.0,
-      "netto": 6.14,
-      "trefferquote": 50.4,
-      "roi_prozent": 4.5
+      "einsatz": 138.0,
+      "netto": 7.79,
+      "trefferquote": 51.1,
+      "roi_prozent": 5.6
     },
     "2.00-3.00": {
       "tipps": 35,
@@ -3440,26 +3473,26 @@
       "roi_prozent": 6.0
     },
     "1.00-1.50": {
-      "tipps": 100,
-      "gewonnen": 69,
+      "tipps": 101,
+      "gewonnen": 70,
       "verloren": 27,
       "push": 0,
       "offen": 4,
-      "einsatz": 96.0,
-      "netto": 7.27,
-      "trefferquote": 71.9,
-      "roi_prozent": 7.6
+      "einsatz": 97.0,
+      "netto": 7.55,
+      "trefferquote": 72.2,
+      "roi_prozent": 7.8
     },
     "3.00+": {
-      "tipps": 14,
+      "tipps": 15,
       "gewonnen": 5,
-      "verloren": 9,
+      "verloren": 10,
       "push": 0,
       "offen": 0,
-      "einsatz": 14.0,
-      "netto": 7.55,
-      "trefferquote": 35.7,
-      "roi_prozent": 53.9
+      "einsatz": 15.0,
+      "netto": 6.55,
+      "trefferquote": 33.3,
+      "roi_prozent": 43.7
     }
   },
   "nach_kategorie": {
@@ -3475,26 +3508,26 @@
       "roi_prozent": 4.2
     },
     "value": {
-      "tipps": 173,
-      "gewonnen": 86,
+      "tipps": 174,
+      "gewonnen": 87,
       "verloren": 76,
       "push": 2,
       "offen": 9,
-      "einsatz": 164.0,
-      "netto": 14.79,
-      "trefferquote": 53.1,
-      "roi_prozent": 9.0
+      "einsatz": 165.0,
+      "netto": 15.54,
+      "trefferquote": 53.4,
+      "roi_prozent": 9.4
     },
     "wackel": {
-      "tipps": 45,
-      "gewonnen": 19,
-      "verloren": 26,
+      "tipps": 48,
+      "gewonnen": 21,
+      "verloren": 27,
       "push": 0,
       "offen": 0,
-      "einsatz": 45.0,
-      "netto": 5.23,
-      "trefferquote": 42.2,
-      "roi_prozent": 11.6
+      "einsatz": 48.0,
+      "netto": 5.41,
+      "trefferquote": 43.8,
+      "roi_prozent": 11.3
     }
   },
   "clv_gesamt": {
@@ -3514,6 +3547,64 @@
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-05-27",
+      "gesamt": {
+        "tipps": 4,
+        "gewonnen": 3,
+        "verloren": 1,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 4.0,
+        "netto": 0.93,
+        "trefferquote": 75.0,
+        "roi_prozent": 23.2
+      },
+      "spiele": [
+        {
+          "id": "2026-05-27-cry-ray",
+          "liga": "UEFA Conference League - Finale",
+          "heim": "Crystal Palace",
+          "gast": "Rayo Vallecano",
+          "endstand": "1:0",
+          "tipps": [
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.75,
+              "kommentar": "Endstand 1:0 = 1 Tor < 2.5. Unter 2.5 sauber durch."
+            },
+            {
+              "markt": "Crystal Palace Doppelte Chance (1X - Sieg oder Remis)",
+              "quote": 1.28,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.28,
+              "kommentar": "Palace 1:0 Sieg - DC 1X erfuellt."
+            },
+            {
+              "markt": "Ismaila Sarr trifft jederzeit",
+              "quote": 3.3,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Sarr traf nicht. Wurde 76' fuer Strand Larsen ausgewechselt; Strand Larsen traf nicht (einziges Tor Mateta 51' VOR der Auswechslung). Einwechslungs-Boost greift NICHT, da Ersatz Strand Larsen kein Tor schoss."
+            },
+            {
+              "markt": "Crystal Palace Sieg (90 Min)",
+              "quote": 1.9,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.9,
+              "kommentar": "Palace 1:0 Sieg in 90 Min - sauber durch."
+            }
+          ]
+        }
+      ],
+      "kombis": []
+    },
     {
       "datum": "2026-05-26",
       "gesamt": {
