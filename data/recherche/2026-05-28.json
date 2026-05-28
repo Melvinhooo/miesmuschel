@@ -1,0 +1,111 @@
+{
+  "datum": "2026-05-28",
+  "erstellt_am": "2026-05-28T11:57:00+00:00",
+  "modus": "tag",
+  "hinweis": "Recherche-Daten Donnerstag 28.05.2026 (Mo-Fr-Variante, Pre-Tipps-Datenbasis fuer Tipps-Slot 13:30 Berlin; Recherche-Cloud-Routine). SAISONENDE-SLATE - HEUTE NUR 1 RELEVANTES SPIEL: NBA Western Conference Finals Spiel 6 OKC Thunder @ San Antonio Spurs (20:30 ET = Fr 29.05 02:30 Berlin, Frost Bank Center San Antonio TX; Broadcast NBC/Peacock). VOLLSTAENDIGKEITS-CHECK (Lesson Liga-Luecke 26.04/25.05): football-data.org am 28.05 live abgefragt -> 0 Spiele in BL1/PL/PD/SA/FL1/CL/EL fuer 28.05. Champions-League-Finale (PSG vs Arsenal) ist Sa 30.05 (NICHT heute) - aus football-data.org CL-Endpoint verifiziert. Alle Top-5-Liga-Saisons beendet 23.-24.05., Domestic-Cup-Finals alle durch (DFB-Pokal 23.05 Bayern-Stuttgart, FA-Cup 16.05 Chelsea-ManCity, Coppa-Italia 13.05 Lazio-Inter, Conference-League-Finale war gestern 27.05 Crystal Palace 2:1 Rayo Vallecano nach Verlaengerung lt UEFA). KEIN weiteres Fussball-Spiel in CLAUDE.md-Scope (BL/PL/LaLiga/Serie A/DFB-Pokal/CL/Coppa Italia). Sofascore listet ein 'World Championship 2026' am 28.05 - dies bezieht sich auf WM-2026-Vorbereitung/Friendlies oder ist Anzeige-Glitch, in jedem Fall AUSSERHALB Scope und nicht recherchiert. ===== NBA-SETUP: Thunder fuehren Series 3-2 nach G5-Sieg 127:114 am 26.05 (SGA 32P/9A, Caruso 22P, McCain 20P bei Williams-Verletzungs-Start). Spurs sind in Elimination-Game zu Hause. WCF G7 ggf Sa 30.05 (gleicher Tag wie CL-Finale, zwei Top-Sport-Events parallel). Knicks bereits im NBA-Finale (sweep Cavaliers 4-0). ===== REGEL-ANWENDBARKEIT HEUTE: 2:0-Insurance-Regel gilt NUR fuer BL+Champions League -> heute NICHT anwendbar (kein Fussball-Spiel im Scope). Einwechslungs-Boost-Regel gilt fuer Fussball-Torschuetzen-Maerkte -> heute NICHT anwendbar. NBA-Markt-Whitelist gilt: Moneyline, Spread/Handicap, Ueber/Unter (Spiel+Viertel+Halbzeit), Spieler-Punkte, Double-Double, Triple-Double, Meiste Punkte erlaubt. VERBOTEN: Einzel-Assists, Einzel-Rebounds, Einzel-Steals/Blocks/Turnovers, PRA-Kombos, Punkte+Assists/Rebounds-Combos, einzelne 3er. ===== Kasse-Stand 04.05.2026: 550 EUR -> Stufe 1 (Aufbau-Phase) aktiv (Kasse < 1000 EUR), konservative Einsaetze. Aktuelle Markt-Bluter laut data/markt_bluter.json beachten: 'Spieler-Punkte Unter (NBA)' negativ-historisch -> Wemby/SGA UNTER nicht als SAFE/VALUE setzen (Mapper degradiert sonst). Spieler-Punkte UEBER (Goldgrube-affin via 'Torschuetzen Jederzeit'-Logik in Fussball; NBA-Pendant beachten) ist die saubere Richtung. ===== Quoten via Covers (Game-Lines + Wemby-Prop), SI (DraftKings-Opening), Bet365 News US (Wemby-Prop). Echte bet365 Live-Quoten zwingend bei bet365 LIVE pruefen vor Tipp-Setzung - Quoten koennen sich aendern. Pinnacle/Fair-Line nicht abrufbar fuer NBA-Props bei diesem Markt -> kein Fair-Line-Block. NIE Spielernamen erfunden - alle Spieler aus zitierten ESPN/NBA.com/Yahoo/Washington Post/Heavy/SI-Quellen. POSITION-Genauigkeit beachtet (Hojlund-Bug-Schutz): McCain=G (Starter statt Jalen Williams), Hartenstein=C, Holmgren=C/PF; Wembanyama=C, Castle=G, Harper=G (Rookie). KEIN Spielername fuer Spieler erfunden, die nicht in Quellen auftauchen. ===== SCOPE-FRAGE FUER TIPPS-ROUTINE: NBA grundsaetzlich in CLAUDE.md-Scope. Allerdings: Game-Tip-Off 02:30 Berlin Fr 29.05 - User-Bet-Aktivitaet im Tipps-Slot 13:30 Do 28.05 fuer Spiel das erst spaet abends startet ist OK, aber liegt nahe an der Datums-Grenze. Tipps-Routine entscheidet ob das Spiel in 28.05-Dossier oder 29.05-Dossier gehoert. Default-Empfehlung: 28.05-Dossier (US-Spieltag), weil 29.05 hat eigenes Fussball-Programm (mglw EM-Quali-Friendlies/Frauen-EM/2.BL-Relegation, falls applicable).",
+  "spiele": [
+    {
+      "id": "2026-05-28-okc-sas",
+      "liga": "NBA Western Conference Finals (Spiel 6)",
+      "wettbewerb_scope_hinweis": "NBA voll in CLAUDE.md-Scope. Erlaubte Maerkte: Moneyline, Spread/Handicap, Ueber/Unter (Spiel+Viertel+Halbzeit), Spieler-Punkte, Double-Double, Triple-Double, Meiste Punkte. Verboten: Einzel-Assists/Rebounds/Steals/Blocks/Turnovers, PRA-Kombos, Punkte+Assists/Rebounds-Combos, einzelne 3er.",
+      "heim": "San Antonio Spurs",
+      "gast": "Oklahoma City Thunder",
+      "anstoss": "2026-05-28T20:30:00-04:00",
+      "anstoss_berlin": "2026-05-29T02:30:00+02:00",
+      "stadion": "Frost Bank Center, San Antonio, TX (Heim-Recht Spurs)",
+      "broadcast": "NBC/Peacock (US)",
+      "schiedsrichter": "n/v - NBA-Refs typischerweise erst am Spieltag bestaetigt",
+      "series_stand": "OKC fuehrt 3-2 (Elimination-Game fuer Spurs); G5: Thunder 127:114 in OKC am 26.05; G7 falls noetig: Sa 30.05",
+      "squad_heim": [
+        {"name": "Victor Wembanyama", "nummer": 1, "position": "C", "saison_punkte_avg_playoffs": 28.2, "letzte_5_spiele_punkte_avg": null, "verifiziert_via": "https://heavy.com/sports/nba/san-antonio-spurs/", "form_hinweis": "Avg 28.2P/11.8R/3.6A/3.0B/1.8 3PM in WCF-Serie vs OKC; G5 nur 20P/6R/3B bei 4-15 FG (cold shooting night); Covers/SI-Experten erwarten Bounce-Back im Elimination-Game zu Hause. Center-Position, kein PRA-Kombi-Tipp erlaubt."},
+        {"name": "De'Aaron Fox", "nummer": 4, "position": "PG", "saison_punkte_avg_playoffs": null, "letzte_5_spiele_punkte_avg": null, "verifiziert_via": "https://heavy.com/sports/nba/san-antonio-spurs/", "form_hinweis": "G5 schwach (Wemby+Fox kombiniert 8-30 FG). Kam in G3 aus Verletzung zurueck, ist gesund. Klassischer Score-First-PG."},
+        {"name": "Stephon Castle", "nummer": 5, "position": "G", "saison_punkte_avg_playoffs": null, "letzte_5_spiele_punkte_avg": null, "verifiziert_via": "https://clutchpoints.com/betting/thunder-vs-spurs-2026-nba-western-conference-finals-game-6-prediction-odds-pick", "form_hinweis": "G5: 24P in 33 Min - heisseste Hand der Spurs in G5. Combo-Guard."},
+        {"name": "Dylan Harper", "nummer": null, "position": "G", "saison_punkte_avg_playoffs": null, "letzte_5_spiele_punkte_avg": null, "verifiziert_via": "https://heavy.com/sports/nba/san-antonio-spurs/", "form_hinweis": "Rookie-Guard, kam in G3 aus Verletzung zurueck. Starter in G5."},
+        {"name": "Devin Vassell", "nummer": 24, "position": "SF", "saison_punkte_avg_playoffs": null, "letzte_5_spiele_punkte_avg": null, "verifiziert_via": "https://clutchpoints.com/betting/thunder-vs-spurs-2026-nba-western-conference-finals-game-6-prediction-odds-pick", "form_hinweis": "Wing-Scorer, Starter in G5-Lineup."}
+      ],
+      "squad_gast": [
+        {"name": "Shai Gilgeous-Alexander", "nummer": 2, "position": "PG", "saison_punkte_avg_playoffs": null, "letzte_5_spiele_punkte_avg": null, "verifiziert_via": "https://clutchpoints.com/betting/thunder-vs-spurs-2026-nba-western-conference-finals-game-6-prediction-odds-pick", "form_hinweis": "2x in Folge NBA-MVP. G5: 32P/9A/2R/2S/1B in 37 Min. Volumen-Scorer, jederzeit 30+P-faehig."},
+        {"name": "Chet Holmgren", "nummer": 7, "position": "C", "saison_punkte_avg_playoffs": null, "letzte_5_spiele_punkte_avg": null, "verifiziert_via": "https://clutchpoints.com/betting/thunder-vs-spurs-2026-nba-western-conference-finals-game-6-prediction-odds-pick", "form_hinweis": "G5: 16P. Unicorn-Big mit Range, schwere Defensiv-Aufgabe vs Wemby."},
+        {"name": "Isaiah Hartenstein", "nummer": 55, "position": "C", "saison_punkte_avg_playoffs": null, "letzte_5_spiele_punkte_avg": null, "verifiziert_via": "https://clutchpoints.com/betting/thunder-vs-spurs-2026-nba-western-conference-finals-game-6-prediction-odds-pick", "form_hinweis": "Zweiter Center, Frontcourt-Tiefe. Starter in G5 neben Holmgren."},
+        {"name": "Alex Caruso", "nummer": 9, "position": "G", "saison_punkte_avg_playoffs": null, "letzte_5_spiele_punkte_avg": null, "verifiziert_via": "https://clutchpoints.com/betting/thunder-vs-spurs-2026-nba-western-conference-finals-game-6-prediction-odds-pick", "form_hinweis": "G5: 22P (Career-High-naehe). Defensiv-Spezialist, getroffen wenn offen."},
+        {"name": "Jared McCain", "nummer": 20, "position": "G", "saison_punkte_avg_playoffs": null, "letzte_5_spiele_punkte_avg": null, "verifiziert_via": "https://www.washingtonpost.com/sports/nba/2026/05/26/thunder-jalen-williams/f959301a-5961-11f1-8a9d-afb1148204e1_story.html", "form_hinweis": "G5: 20P im ersten Playoff-Start seiner Karriere (in fuer den verletzten Jalen Williams). Schneller Scorer."},
+        {"name": "Jalen Williams", "nummer": 8, "position": "SF", "saison_punkte_avg_playoffs": null, "letzte_5_spiele_punkte_avg": null, "verifiziert_via": "https://www.rotowire.com/basketball/headlines/jalen-williams-injury-questionable-for-game-6-530841", "status_hinweis": "QUESTIONABLE (Hamstring) - hat letzte 3 Spiele verpasst, droht 4. Verpassen am 28.05. Wenn er spielt, dann wahrscheinlich von der Bank/eingeschraenkt - sonst weiterhin McCain als Starter."}
+      ],
+      "injuries_heim": [
+        "Keine Spurs-Spieler auf Verletzungsliste - Team 'fully healthy' (Yahoo/Heavy 26.05.)",
+        "De'Aaron Fox + Dylan Harper sind seit G3 zurueck und gesund"
+      ],
+      "injuries_gast": [
+        "Jalen Williams (linker Hamstring, QUESTIONABLE - hat G3+G4+G5 verpasst)",
+        "Ajay Mitchell (rechter Soleus-Strain, OUT - definitiv raus fuer G6)",
+        "Thomas Sorber (gerissenes ACL, OUT - Season-Ending bereits laenger)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - NBA-Playoffs einziger Wettbewerb. WCF Series Game 6, ggf G7 am Sa 30.05. NBA-Saison endet im Juni mit Finals.",
+        "gast": "keine - NBA-Playoffs einziger Wettbewerb. WCF Series Game 6, kann Series clinchen oder geht zu G7.",
+        "quellen": [
+          "https://en.wikipedia.org/wiki/2025%E2%80%9326_Oklahoma_City_Thunder_season",
+          "https://www.nba.com/playoffs",
+          "https://heavy.com/sports/nba/oklahoma-city-thunder/"
+        ]
+      },
+      "saisonziel_heim": "Spurs: Elimination-Game zu Hause, muessen gewinnen um Series zu verlaengern. Erst zweite WCF-Teilnahme der Wemby-Aera, Aufstieg-Saison nach Erstrunden-Out 2025.",
+      "saisonziel_gast": "Thunder: Series-Clincher, ein Sieg vom NBA-Finals (erstes Finale seit 2012). Klares Saisonziel: Championship. Beste Regular-Season-Record der NBA 2025-26.",
+      "tabellenstand": {"heim_platz_conference": null, "heim_record_regular_season": "regular-season-record n/v in Quellen, Spurs heim 32-8 RS-Bilanz", "gast_platz_conference": 1, "gast_record_regular_season": "Beste Bilanz NBA West, hat Phoenix (4-0) + Lakers (4-0) bereits gesweept"},
+      "form_heim_letzte_5": "Series-Verlauf: G1-L, G2-W, G3-W, G4-L, G5-L. Spurs 20-6 SU 'coming off a loss' diese Saison (5-1 in Playoffs nach Niederlage), klassischer Bounce-Back-Trend.",
+      "form_gast_letzte_5": "Series-Verlauf: G1-W, G2-L, G3-L, G4-W, G5-W. In G5 ohne Williams trotzdem 127:114 gewonnen (43.8% 3PT von daheim). McCain+Caruso als Bench-Booster ueberraschend stark.",
+      "recovery_heim": "2 Tage Pause seit G5 (26.05) - normaler NBA-Playoffs-Rhythmus. Heim-Vorteil + Verzweiflungs-Energie.",
+      "recovery_gast": "2 Tage Pause seit G5 (26.05) - normaler NBA-Playoffs-Rhythmus. Reise von OKC nach San Antonio (Inland-Flug ~1h).",
+      "motivations_asymmetrie": "Asymmetrisch: Spurs Elimination-Mode + Heim-Vorteil + 'coming off loss'-Streak (20-6 SU) -> SAS Edge. Thunder koennen entspannter agieren (haben weiteren Versuch in G7 sicher zu Hause), aber wollen Series jetzt zumachen vor moeglichem Williams-Comeback. Markt sieht es genauso: SAS -3.5 / -162 ML.",
+      "quoten": {
+        "bet365": {
+          "moneyline_sas": null,
+          "moneyline_okc": null,
+          "spread_sas_minus_3_5": null,
+          "spread_okc_plus_3_5": null,
+          "ueber_218_5": null,
+          "unter_218_5": null,
+          "wemby_punkte_ueber_25_5": 2.00,
+          "wemby_punkte_unter_25_5": 1.62,
+          "quoten_warn": "bet365 NBA-Game-Quoten (ML/Spread/Total) NICHT sauber per WebFetch abgreifbar bei bet365 DE -> bei bet365 LIVE pruefen. Wemby-Punkte-Prop ueber 25.5 +100 / unter 25.5 -125 aus bet365 News US (Series-Eintrag fuer G5, kann fuer G6 leicht abweichen). DraftKings-Aggregator-Werte als Orientierung im draftkings-Block unten."
+        },
+        "draftkings_aggregator": {
+          "moneyline_sas": 1.62,
+          "moneyline_okc": 2.36,
+          "spread_sas_minus_3_5": 1.91,
+          "spread_okc_plus_3_5": 1.91,
+          "ueber_218_5": 1.95,
+          "unter_218_5": 1.91,
+          "wemby_punkte_ueber_27_5": 1.80,
+          "umrechnung_hinweis": "US-Format konvertiert: SAS ML -162 = 1.62 dezimal, OKC ML +136 = 2.36, SAS -3.5 (-110) = 1.91, Total 218.5 O(-105) = 1.95 / U(-115) = 1.87, Wemby O25.5 (-125) = 1.80. Aktuelle DraftKings-Werte koennen leicht abweichen, sind aber konsistent mit Covers + SI Quellen vom 27.-28.05.",
+          "alternativ_total_covers": 218.5,
+          "alternativ_total_si_opening": 219.5,
+          "alternativ_ml_clutchpoints": "SAS -155 / OKC +130 (1.65 / 2.30 dezimal)"
+        },
+        "pinnacle": null,
+        "fair_line_pinnacle_basis_prozent": null,
+        "win_probability_covers": {"sas": 57, "okc": 43}
+      },
+      "news_kompakt": [
+        "Spurs Elimination-Game zu Hause, 20-6 SU 'coming off a loss' diese Saison (5-1 in Playoffs nach Loss) - klassischer Bounce-Back-Trend laut SI.",
+        "Jalen Williams (Hamstring) bleibt 'questionable', hat G3-G5 verpasst, droht 4. Spiel zu verpassen; Jared McCain hat sich als Backup mit 20P in G5 etabliert.",
+        "SGA in G5 mit 32P/9A nach 2x-MVP-Krone in Folge; Caruso 22P und McCain 20P von der Bank deklassierten Spurs trotz Williams-Out.",
+        "Wembanyama in G5 kalt (4-15 FG, 20P) - Covers + Athlon erwarten Bounce-Back im Elimination-Game (er trifft historisch nach 'quiet efforts' nachfolgend ~28P).",
+        "WCF G7 falls noetig erst Sa 30.05 - gleicher Tag wie das CL-Finale PSG vs Arsenal in Budapest, doppeltes Top-Sport-Wochenende."
+      ],
+      "quellen_aggregator": [
+        "https://www.covers.com/nba/thunder-vs-spurs-prediction-picks-best-bets-sgp-thursday-5-28-2026",
+        "https://clutchpoints.com/betting/thunder-vs-spurs-2026-nba-western-conference-finals-game-6-prediction-odds-pick",
+        "https://www.si.com/betting/thunder-vs-spurs-opening-odds-for-game-6-san-antonio-favored-to-force-a-game-7",
+        "https://dknetwork.draftkings.com/2026/05/26/opening-odds-for-thunder-vs-spurs-game-6-in-2026-western-conference-finals/",
+        "https://news.bet365.com/en-us/article/wembanyama-edwards-player-props-odds-lines-game-5/2026051217101192535",
+        "https://www.rotowire.com/basketball/headlines/jalen-williams-injury-questionable-for-game-6-530841",
+        "https://heavy.com/sports/nba/oklahoma-city-thunder/thunder-jalen-williams-game-6-update/",
+        "https://sports.yahoo.com/articles/full-injury-report-tuesdays-spurs-130123874.html",
+        "https://www.washingtonpost.com/sports/nba/2026/05/26/thunder-jalen-williams/f959301a-5961-11f1-8a9d-afb1148204e1_story.html",
+        "https://en.wikipedia.org/wiki/2025%E2%80%9326_Oklahoma_City_Thunder_season"
+      ]
+    }
+  ],
+  "footer": "18+ * bet365 DE * Hobby-Wetten * Sucht-Hilfe BZgA: 0800 1372700 * Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
+}
