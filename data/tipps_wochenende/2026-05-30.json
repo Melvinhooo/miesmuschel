@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
+{
   "datum": "2026-05-30",
   "erstellt_am": "2026-05-28T18:00:00+02:00",
   "hinweis": "Wochenend-Vorschau Sa 30.05. + So 31.05.2026 - MINI-SPIELE-WOCHENENDE. Ligen sind alle durch. Highlight ist das CL-Finale PSG vs Arsenal (Sa 18:00 CEST, Puskas Arena Budapest) - PSG verteidigt den Titel als Heim-Favorit (~1.95), Arsenal als 4-faches PL-Champion mit der besten CL-Defense der Saison (0.4 Gegentore/Spiel, 9 Weisse Westen). Optional: NBA WCF Game 7 Spurs at Thunder (So 02:30 CEST) - findet NUR statt wenn Spurs Game 6 heute Abend (Do, 02:30 CEST) in San Antonio gewinnen. Kasse-Stand 550€ -> Stufe 1 Aufbau-Phase (Einzel VALUE 1,5-2% = 8,25-11€, WACKEL 0,5% = 2,75€). Quoten via bet365 / Oddspedia / Squawka / Bet365 News. KOMBI-VERZICHT per Lesson 26.05. + 28.05. (Mini-Spiele-Tag Single-Point-of-Failure-Korrelation): bei <=2 in-scope-Spielen sind alle Kombis hochkorreliert ueber CL-Finale, deshalb Stake-Konzentration auf Goldgrube-Einzeltipps (Unter 2.5 Default-Hartregel + Torschuetzen Jederzeit Goldgrube). Nur 1 Spass-Moonshot mit Mini-Einsatz.",
@@ -235,4 +234,4 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
     "Lesson 26.04.2026 (Saison-Kontext-Pflicht 4 Faktoren): pro Spiel parallel_heim/parallel_gast/saisonziel/motivations_asymmetrie/recovery/quellen[] vollstaendig ausgefuellt - kein Hard-Mode-Drop-Risiko."
   ],
   "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool, keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
-};
+}
