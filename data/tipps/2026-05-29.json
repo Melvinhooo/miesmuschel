@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS = {
+{
   "datum": "2026-05-29",
   "erstellt_am": "2026-05-29T17:15:00+02:00",
   "hinweis": "WATCHDOG-RECOVERY 17:15 (Hauptroutine 16:00 ausgefallen) - EMPTY-SLATE-TAG: Heute keine In-Scope-Spiele laut Recherche-File data/recherche/2026-05-29.json. Saisons-Ende-Leerschlag: Top-5-Liga-Saisons beendet 23.-24.05., alle Domestic-Cup-Finals durch (DFB-Pokal 23.05 Bayern-Stuttgart, FA-Cup 16.05 Chelsea-ManCity, Coppa-Italia 13.05 Lazio-Inter, Conference-League-Finale 27.05 Crystal Palace 2:1 Rayo Vallecano). Champions-League-Finale (PSG vs Arsenal) ist Sa 30.05 18:00 Budapest (im Wochenend-Dossier tipps_wochenende/2026-05-30.json). NBA WCF G6 in der Nacht 29.05 02:30 entschieden (Spurs 118:91, Series 3-3) -> G7 ist Sa 30.05 ca. 02:00 Berlin Sonntag (ebenfalls im Wochenend-Dossier). Im Tipps-Fenster 17:15 Fr - 06:00 Sa: einziges identifiziertes Spiel weltweit ist Serie B Playoff Final 2nd Leg Monza-Catanzaro (Fr 20:00) - aber Serie B ist NICHT in CLAUDE.md-Scope (CLAUDE.md listet explizit: BL, PL, LaLiga, Serie A, DFB-Pokal, CL, Coppa Italia - 2. Liga-Wettbewerbe ausgenommen). 2. Bundesliga-Relegation analog auch nicht im Scope (siehe recherche_metadata.ausserhalb_scope_aber_geprueft). Naechster Slate: Sa 30.05 mit absolutem Top-Event-Doppel CL-Finale + NBA WCF G7. KEINE Tipps + KEINE Kombis heute, User kann sich ausruhen. Kasse 550 EUR, Stufe 1.",
@@ -12,4 +11,4 @@ window.__MIESMUSCHEL_TIPPS = {
     "Mini-Spiele-Tag-Cap (Lessons 19./21./26./28.05): bei <=2 in-scope-Spielen KEINE Kombis - heute 0 Spiele konsequent KEINE Kombis. Naechster Slate Sa 30.05 (CL-Finale + WCF G7 = 2 Spiele) ebenfalls Mini-Spiele-Tag-Profil mit Stake-Konzentration statt Kombi-Spread."
   ],
   "footer": "18+ - bet365 DE - Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
-};
+}
