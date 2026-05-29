@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-05-28T06:12:47+00:00",
+  "letzte_berechnung": "2026-05-29T06:08:43+00:00",
   "gesamt": {
-    "tipps": 293,
-    "gewonnen": 158,
+    "tipps": 296,
+    "gewonnen": 161,
     "verloren": 124,
     "push": 2,
     "offen": 9,
-    "einsatz": 284.0,
-    "netto": 23.93,
-    "trefferquote": 56.0,
-    "roi_prozent": 8.4
+    "einsatz": 287.0,
+    "netto": 29.01,
+    "trefferquote": 56.5,
+    "roi_prozent": 10.1
   },
   "letzte_30_tage": {
-    "tipps": 222,
-    "gewonnen": 114,
-    "verloren": 97,
+    "tipps": 218,
+    "gewonnen": 112,
+    "verloren": 95,
     "push": 2,
     "offen": 9,
-    "einsatz": 213.0,
-    "netto": 23.41,
-    "trefferquote": 54.0,
-    "roi_prozent": 11.0
+    "einsatz": 209.0,
+    "netto": 27.08,
+    "trefferquote": 54.1,
+    "roi_prozent": 13.0
   },
   "letzte_90_tage": {
-    "tipps": 293,
-    "gewonnen": 158,
+    "tipps": 296,
+    "gewonnen": 161,
     "verloren": 124,
     "push": 2,
     "offen": 9,
-    "einsatz": 284.0,
-    "netto": 23.93,
-    "trefferquote": 56.0,
-    "roi_prozent": 8.4
+    "einsatz": 287.0,
+    "netto": 29.01,
+    "trefferquote": 56.5,
+    "roi_prozent": 10.1
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -463,6 +463,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.93,
       "trefferquote": 75.0,
       "roi_prozent": 23.2
+    },
+    "NBA Western Conference Finals - Spiel 6": {
+      "tipps": 3,
+      "gewonnen": 3,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 5.08,
+      "trefferquote": 100.0,
+      "roi_prozent": 169.3
     }
   },
   "nach_markt": {
@@ -2995,6 +3006,39 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.9,
       "trefferquote": 100.0,
       "roi_prozent": 90.0
+    },
+    "San Antonio Spurs Sieg (Moneyline)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.62,
+      "trefferquote": 100.0,
+      "roi_prozent": 162.0
+    },
+    "Victor Wembanyama Double-Double": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.55,
+      "trefferquote": 100.0,
+      "roi_prozent": 155.0
+    },
+    "Unter 218.5 Punkte (Spiel-Total)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.91,
+      "trefferquote": 100.0,
+      "roi_prozent": 191.0
     }
   },
   "nach_markt_typ": {
@@ -3010,15 +3054,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 4.7
     },
     "Spieler-Punkte Unter (NBA)": {
-      "tipps": 10,
-      "gewonnen": 3,
+      "tipps": 11,
+      "gewonnen": 4,
       "verloren": 7,
       "push": 0,
       "offen": 0,
-      "einsatz": 10.0,
-      "netto": -1.28,
-      "trefferquote": 30.0,
-      "roi_prozent": -12.8
+      "einsatz": 11.0,
+      "netto": 0.63,
+      "trefferquote": 36.4,
+      "roi_prozent": 5.7
     },
     "Paolo Banchero Double-Double": {
       "tipps": 1,
@@ -3043,15 +3087,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 55.0
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 91,
-      "gewonnen": 53,
+      "tipps": 92,
+      "gewonnen": 54,
       "verloren": 37,
       "push": 0,
       "offen": 1,
-      "einsatz": 90.0,
-      "netto": 5.75,
-      "trefferquote": 58.9,
-      "roi_prozent": 6.4
+      "einsatz": 91.0,
+      "netto": 7.37,
+      "trefferquote": 59.3,
+      "roi_prozent": 8.1
     },
     "Torschuetzen Jederzeit": {
       "tipps": 44,
@@ -3448,19 +3492,30 @@ window.__MIESMUSCHEL_STAT = {
       "netto": -0.72,
       "trefferquote": 50.0,
       "roi_prozent": -36.0
+    },
+    "Victor Wembanyama Double-Double": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.55,
+      "trefferquote": 100.0,
+      "roi_prozent": 155.0
     }
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 142,
-      "gewonnen": 70,
+      "tipps": 145,
+      "gewonnen": 73,
       "verloren": 67,
       "push": 1,
       "offen": 4,
-      "einsatz": 138.0,
-      "netto": 7.79,
-      "trefferquote": 51.1,
-      "roi_prozent": 5.6
+      "einsatz": 141.0,
+      "netto": 12.87,
+      "trefferquote": 52.1,
+      "roi_prozent": 9.1
     },
     "2.00-3.00": {
       "tipps": 35,
@@ -3509,26 +3564,26 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 4.2
     },
     "value": {
-      "tipps": 174,
-      "gewonnen": 87,
+      "tipps": 175,
+      "gewonnen": 88,
       "verloren": 76,
       "push": 2,
       "offen": 9,
-      "einsatz": 165.0,
-      "netto": 15.54,
-      "trefferquote": 53.4,
-      "roi_prozent": 9.4
+      "einsatz": 166.0,
+      "netto": 17.16,
+      "trefferquote": 53.7,
+      "roi_prozent": 10.3
     },
     "wackel": {
-      "tipps": 48,
-      "gewonnen": 21,
+      "tipps": 50,
+      "gewonnen": 23,
       "verloren": 27,
       "push": 0,
       "offen": 0,
-      "einsatz": 48.0,
-      "netto": 5.41,
-      "trefferquote": 43.8,
-      "roi_prozent": 11.3
+      "einsatz": 50.0,
+      "netto": 8.87,
+      "trefferquote": 46.0,
+      "roi_prozent": 17.7
     }
   },
   "clv_gesamt": {
@@ -3548,6 +3603,56 @@ window.__MIESMUSCHEL_STAT = {
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-05-28",
+      "gesamt": {
+        "tipps": 3,
+        "gewonnen": 3,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 3.0,
+        "netto": 5.08,
+        "trefferquote": 100.0,
+        "roi_prozent": 169.3
+      },
+      "spiele": [
+        {
+          "id": "2026-05-28-okc-sas",
+          "liga": "NBA Western Conference Finals - Spiel 6",
+          "heim": "San Antonio Spurs",
+          "gast": "Oklahoma City Thunder",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "San Antonio Spurs Sieg (Moneyline)",
+              "quote": 1.62,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.62,
+              "kommentar": "Spurs 118-91 ML klar gewonnen"
+            },
+            {
+              "markt": "Unter 218.5 Punkte (Spiel-Total)",
+              "quote": 1.91,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.91,
+              "kommentar": "Total 118+91=209 < 218.5 - Spurs-Defensiv-Pattern bestaetigt (Q3 32-13)"
+            },
+            {
+              "markt": "Victor Wembanyama Double-Double",
+              "quote": 1.55,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.55,
+              "kommentar": "Wemby 28P/10R = klares DD"
+            }
+          ]
+        }
+      ],
+      "kombis": []
+    },
     {
       "datum": "2026-05-27",
       "gesamt": {

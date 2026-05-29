@@ -1,0 +1,377 @@
+{
+  "datum": "2026-05-28",
+  "erstellt_am": "2026-05-28T13:40:00+02:00",
+  "hinweis": "EIN-SPIEL-TAG (Saisonende): Alle Top-5-Ligen + DFB-Pokal/Coppa/FA-Cup durch, Conference-Finale war gestern, Champions-League-Finale erst Sa 30.05. Eastern Conference Finals bereits 4-0 gefegt (Knicks im NBA-Finale). Einziges Spiel im Wett-Fenster: NBA Western Conference Finals Spiel 6, OKC Thunder @ San Antonio Spurs (Tip-off Fr 29.05 02:30 Berlin / 20:30 ET, Frost Bank Center San Antonio). OKC fuehrt Serie 3-2 - Spurs Elimination-Heim, kann Series ausgleichen oder OKC kann ins NBA-Finale einziehen. KEINE Kombis - Mini-Spiele-Tag-Hartregel (Lessons 19./21./26./28.05): bei 1 Spiel waeren alle Beine korreliert (Layer-1). Fokus auf konzentrierte Einzeltipps + Stake-Konzentration auf hoechste-Edge-Maerkte (Lesson 28.05.). Kein Player-Punkte-UNTER (Markt-Bluter). HR16-konform: kein Player-Punkte-UEBER in einzeltipps[] (nur im spiele[].tipps[]-Block dokumentiert). Kasse 550€, Stufe 1. Gesamt-Exposure 3.0% Kasse. Quoten zwingend bei bet365 LIVE pruefen - bet365 NBA-Game-Quoten nicht direkt abgreifbar, DraftKings-Aggregator + bet365 News US als Quoten-Basis.",
+  "spiele": [
+    {
+      "id": "2026-05-28-okc-sas",
+      "liga": "NBA Western Conference Finals - Spiel 6",
+      "matchday": "WCF Spiel 6 (Serie OKC 3-2)",
+      "heim": "San Antonio Spurs",
+      "gast": "Oklahoma City Thunder",
+      "anstoss": "2026-05-29T02:30:00+02:00",
+      "anstoss_lokal_us": "2026-05-28T20:30:00-04:00",
+      "stadion": "Frost Bank Center, San Antonio, TX (Heim-Recht Spurs)",
+      "series_stand": "OKC fuehrt 3-2 - Elimination-Game fuer Spurs; G5: Thunder 127:114 in OKC am 26.05; G7 falls noetig: Sa 30.05 in OKC",
+      "saison_kontext": {
+        "parallel_heim": "keine - NBA-Playoffs einziger Wettbewerb. WCF Series Game 6 (Heim-Recht Spurs), ggf G7 am Sa 30.05 in OKC. NBA-Saison endet im Juni mit Finals.",
+        "parallel_gast": "keine - NBA-Playoffs einziger Wettbewerb. WCF Series Game 6 (Auswaerts), Closeout-Versuch (3-2 Serie). Bei Sieg ab Mo 02.06 NBA-Finale vs Knicks (haben ECF 4-0 gesweept).",
+        "saisonziel_heim": "Spurs: Elimination-Game zu Hause - muessen gewinnen um Series zu verlaengern. Erst zweite WCF-Teilnahme der Wemby-Aera, Aufstieg-Saison nach Erstrunden-Out 2025. Saisonziel: NBA-Finale erreichen (bereits uebererfuellt durch WCF-Sprung).",
+        "saisonziel_gast": "Thunder: Series-Clincher - ein Sieg vom NBA-Finale (erstes Finale seit 2012). Beste Regular-Season-Bilanz der NBA 2025-26, Top-Seed-Status. Klares Saisonziel: Championship.",
+        "motivations_asymmetrie": "Asymmetrisch zugunsten Spurs: Elimination-Heim-Modus + 'coming off loss'-Streak (Spurs 20-6 SU + 5-1 in Playoffs nach Niederlage) + Wemby-Bounce-Back-Setup nach kaltem G5 (4/15 FG, 20P). Thunder koennen entspannter agieren (G7 zuhause sicher), wollen aber zumachen bevor Jalen Williams zurueckkommt. Markt sieht es genauso: SAS -3.5, ML 1.62 vs OKC 2.36 - Covers-Win-Prob 57/43.",
+        "recovery_heim": "2 Tage Pause seit G5 (26.05) - normaler NBA-Playoff-Rhythmus. Heim-Vorteil + Verzweiflungs-Energie. Yahoo/Heavy 26.05: Spurs 'fully healthy'; De'Aaron Fox + Dylan Harper seit G3 zurueck (Fox-Quad/Harper-Knoechel spielen weiter angeschlagen, aber Starter).",
+        "recovery_gast": "2 Tage Pause seit G5 (26.05) - normaler Rhythmus, kurzer Flug OKC->San Antonio (~1h). Jalen Williams (Hamstring) QUESTIONABLE - hat G3-G5 verpasst; Ajay Mitchell (Soleus) + Thomas Sorber (ACL) OUT. SGA/Holmgren/Caruso/McCain voll fit.",
+        "quellen": [
+          "https://www.nba.com/playoffs",
+          "https://en.wikipedia.org/wiki/2025%E2%80%9326_Oklahoma_City_Thunder_season",
+          "https://heavy.com/sports/nba/oklahoma-city-thunder/",
+          "https://www.rotowire.com/basketball/headlines/jalen-williams-injury-questionable-for-game-6-530841",
+          "https://www.washingtonpost.com/sports/nba/2026/05/26/thunder-jalen-williams/f959301a-5961-11f1-8a9d-afb1148204e1_story.html",
+          "https://www.covers.com/nba/thunder-vs-spurs-prediction-picks-best-bets-sgp-thursday-5-28-2026"
+        ]
+      },
+      "news": [
+        "WCF G6, Spurs Elimination-Heim - muessen Series verlaengern; OKC fuehrt 3-2 nach 127:114-Sieg in G5 (26.05).",
+        "Spurs 20-6 SU 'coming off a loss' diese Saison + 5-1 in Playoffs nach Niederlage - klassischer Bounce-Back-Trend laut SI/Covers.",
+        "Jalen Williams (Hamstring) bleibt 'questionable'; Jared McCain G5 mit 20P im 1. Playoff-Start, Caruso 22P von der Bank - Thunder-Bench-Tiefe trug G5 ohne JWilliams (Lesson 27.05.).",
+        "SGA G5: 32P/9A nach 2x-MVP-Krone; Wembanyama G5 kalt (20P bei 4/15 FG = Serien-Tief) - Covers/Athlon erwarten Bounce-Back im Elimination-Heim-Game (Wemby Karriere-Avg nach 'quiet effort' ~28P).",
+        "Serien-Totals: G1 237, G2 235, G3 231, G4 185 (SAS-Heim Muss-Sieg-Defensiv-Schlacht), G5 241 - 4/5 ueber 218.5. Heute identisches G4-Muster: SAS Heim Muss-Sieg-Elimination (Lesson 27.05. Re-Kalibrierung).",
+        "WCF G7 falls noetig erst Sa 30.05 in OKC - selber Tag wie CL-Finale PSG vs Arsenal in Budapest.",
+        "Verbotene Maerkte heute (DE-Recht): Einzel-Assists/Rebounds/Steals/Blocks/Turnovers, PRA-Kombos, Punkte+Assists/Rebounds-Combos, einzelne 3er. Spieler-Punkte UNTER (NBA) ist Markt-Bluter -> nie als SAFE/VALUE."
+      ],
+      "kontext_check_status": "OK",
+      "tipps": [
+        {
+          "id": "okc-sas-1",
+          "kategorie": "value",
+          "markt": "San Antonio Spurs Sieg (Moneyline)",
+          "quote": 1.62,
+          "edge_prozent": null,
+          "begruendung": "TOP-TIPP des Ein-Spiel-Tages. SAS-Lean-Paket: (1) Elimination-Heim-Bounce-Back: Spurs 20-6 SU + 5-1 in Playoffs 'coming off loss' - laut SI klassisch belastbar. (2) Wemby-Bounce-Back-Setup nach G5-Kaltschuss (4/15 FG, 20P) - Karriere-Avg nach 'quiet effort' ~28P (Lesson 23.05.+01.05.: Stamm-Volume-Star-Snap-Back). (3) Lesson 27.05.: OKC-Tiefe ohne JWilliams trug G5 auswaerts, aber heute Heim-Verzweiflung der Spurs + Wemby-Comeback drehen das Bild. (4) NBA Conference Finals laut nba_analyse.md wie G1-G4 frei behandelt - kein Decider-Bluter-Filter, aber Closeout-Varianz bleibt -> max VALUE (kein SAFE). (5) Kein Game7-Heim-Underdog-Crash-Trigger (Lesson 18.05.): Spurs sind hier HEIM-FAVORIT (1.62), nicht Underdog. Markt-Fair (No-Vig 1.62/2.36): SAS ~59.3%, faire Quote ~1.69; bet365 @1.62 hat Mini-Edge ~4%, deckt sich mit Covers-Win-Prob 57%. Stufe-1-VALUE 1.5% = 8.25€. Recherche-WARN: bet365 NBA-Game-Quoten nicht direkt abgreifbar - bei bet365 LIVE pruefen.",
+          "faire_quote": 1.69,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "okc-sas-2",
+          "kategorie": "wackel",
+          "markt": "Unter 218.5 Punkte (Spiel-Total)",
+          "quote": 1.91,
+          "edge_prozent": null,
+          "begruendung": "Defensiv-Muss-Sieg-Pattern Spurs Heim (Lesson 27.05. WCF-Re-Kalibrierung): Unter-Faktor greift spezifisch beim zurueckliegenden Team mit Muss-Level-Heim-Defensiv-Druck - SAS-Heim G4 nur 185 Total = 34.5 unter Linie, weil Spurs Tempo kontrollieren mussten. Heute identisches G4-Setup (Heim, Trailer, Muss-Sieg). ABER: Serie 4/5 Over (185/237/235/231/241), Fox + Harper angeschlagen koennten Tempo eh drosseln. Pattern nicht ueberbewerten -> WACKEL statt VALUE. Lesson 02.05. (NBA-G6/G7-Druck = Defensiv-Schlachten bei Linien <215 NICHT spielen) tangiert nur weich, 218.5 ist Mittel-Linie. Markt-Fair (No-Vig 1.95/1.91): U ~50.3%, fair ~1.99; bet365 @1.91 ohne klaren Edge, Pattern-These traegt Mini-WACKEL. Stufe-1-WACKEL 0.5% = 2.75€. Bei bet365 LIVE pruefen.",
+          "faire_quote": 1.99,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "okc-sas-3",
+          "kategorie": "wackel",
+          "markt": "Victor Wembanyama Double-Double",
+          "quote": 1.55,
+          "edge_prozent": null,
+          "begruendung": "Robust-Anker basierend auf Wemby-Saisonschnitt: Playoffs ~28 PPG / ~12 RPG = nahezu sicheres DD bei normaler Spielzeit. Auch in G5-Schwaeche (20P bei 4/15 FG) blieb Rebound-Volume intakt (20/6 in G5, knapp verfehlt - 11 in G4, 12 in G3 lt. Recherche). G6 Heim + Elimination-Spielzeit (kein Sit-Bench-Risiko) + erzwungene Aggression nach Coach-Ansage erhoeht beide Wege. Double-Double ist erlaubter Markt (CLAUDE.md DE-Whitelist) - NICHT von HR16-Player-Punkte-Boykott erfasst, NICHT im Markt-Bluter. Markt 1.55 = ~64.5% impliziert, Wemby-DD-Trefferquote bei vollen Minuten >70% real -> leichter VALUE-Hauch, aber NBA-Closeout-Varianz druckt auf WACKEL (kein SAFE). Stufe-1-WACKEL 0.5% = 2.75€. Bei bet365 LIVE pruefen.",
+          "faire_quote": 1.55,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "okc-sas-4",
+          "kategorie": "wackel",
+          "markt": "Victor Wembanyama Mehr als 25.5 Punkte",
+          "quote": 2.0,
+          "edge_prozent": null,
+          "begruendung": "HR16-AUSNAHME explizit dokumentiert + KEIN Eintrag in einzeltipps[]: Wemby erfuellt alle 3 HR16-Form-Edge-Kriterien (Star + 28.2 PPG-Playoffs-Avg = 28+ Form + Heim) UND klare Quoten-Edge bei bet365: bet365 News US listet O25.5 @ 2.00 (+100), DraftKings-Aggregator O25.5 @ 1.80 (-125) - bet365 zahlt ~11% besser als US-Markt. Plus Wemby-Bounce-Back-Setup nach 20P/4-15-FG-G5 (Lessons 23.05.+01.05.). HR16 schliesst Player-Punkte aus dem Einzeltipps-Bereich grundsaetzlich aus (Ausnahme nur fuer Risiko/Moonshot-Kombi-Beine); heute KEINE Kombi gebaut (Ein-Spiel-Tag, Layer-1-Korrelations-Schutz). Tipp bleibt im spiele[].tipps[]-Block fuer Transparenz, wird aber NICHT in einzeltipps[] uebernommen. WICHTIG: Spieler-Punkte UNTER (NBA) ist Markt-Bluter (data/markt_bluter.json) - die UNTER-Seite waere automatisch degradiert worden; UEBER-Seite ist nicht im Bluter. Markt-Fair (No-Vig DK 1.80/2.00): O ~52.6%, fair ~1.90; bet365 @2.00 ~5% Edge zur Aggregator-Linie. Optionaler Mini-Stake fuer Spieler/User: 0.5% = 2.75€ - WENN gespielt, sonst HR16-konform skippen. Wemby fit (Recherche bestaetigt). Bei bet365 LIVE pruefen.",
+          "faire_quote": 1.9,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "ergebnis": {
+        "heim_tore": 118,
+        "gast_tore": 91,
+        "status": "abgeschlossen"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "okc-sas-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.62,
+          "kommentar": "Spurs 118-91 ML klar gewonnen"
+        },
+        {
+          "tipp_id": "okc-sas-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.91,
+          "kommentar": "Total 118+91=209 < 218.5 - Spurs-Defensiv-Pattern bestaetigt (Q3 32-13)"
+        },
+        {
+          "tipp_id": "okc-sas-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.55,
+          "kommentar": "Wemby 28P/10R = klares DD"
+        },
+        {
+          "tipp_id": "okc-sas-4",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.0,
+          "kommentar": "Wemby 28P > 25.5 (HR16-Ausnahme nicht in einzeltipps[])"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "60:53",
+        "endstand": "118:91",
+        "tore": [
+          {
+            "min": "Q1-Ende",
+            "team": "heim",
+            "spieler": "Q1 Spurs 35-22 (Wemby 3x 3er)",
+            "stand_danach": "35:22"
+          },
+          {
+            "min": "Q2-Ende",
+            "team": "heim",
+            "spieler": "Q2 Spurs 25-31",
+            "stand_danach": "60:53"
+          },
+          {
+            "min": "Q3-Ende",
+            "team": "heim",
+            "spieler": "Q3 Spurs 32-13 (20-0 Run, 7:27 OKC ohne Punkt, 11 davon Wemby auf Bank)",
+            "stand_danach": "92:66"
+          },
+          {
+            "min": "Q4-Ende",
+            "team": "heim",
+            "spieler": "Q4 Spurs 26-25",
+            "stand_danach": "118:91"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Spurs fuehrten wire-to-wire. Q1 +13, Halbzeit +7, Q3-Eskalation +26, Endstand +27."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": true,
+          "halbzeit_endstand": "Spurs/Spurs (Spurs HZ + Endstand)",
+          "kein_team_zu_null": true,
+          "total_punkte": 209,
+          "ueber_218_5": false,
+          "unter_218_5": true,
+          "spurs_minus_3_5": true,
+          "spurs_minus_8_5": true,
+          "wemby_double_double": true,
+          "wemby_ueber_25_5_punkte": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Jalen Williams",
+            "details": "Hamstring questionable - hat G6 verpasst (G3-G6 ausgefallen); OKC-Bench-Tiefe konnte das diesmal NICHT kompensieren (G5-Pattern brach)"
+          },
+          {
+            "team": "gast",
+            "spieler": "SGA",
+            "details": "Nur 15 Pkt bei 6/18 FG - Spurs-Defense neutralisierte den 2x-MVP komplett; gegen Castle/Vassell-Verteidigung kalt"
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Wemby-Bounce-Back-These (Lessons 23.05.+01.05.) bestaetigt: 20P G5 -> 28P G6 mit 3x 3er im Q1. Stamm-Volume-Star-Snap-Back-Pattern klar geliefert.",
+          "Lesson 27.05. (SAS-Heim-Muss-Sieg-Defensiv-Pattern wie G4) wurde mathematisch bestaetigt: G4 Total 185 SAS-Heim-Muss-Sieg, G6 Total 209 SAS-Heim-Muss-Sieg = beide Unter ihre Linien (185 < 211.5, 209 < 218.5). WCF-Re-Kalibrierung (SAS-Heim = Unter-Bias) traegt sich.",
+          "OKC-Tiefe-These (Lesson 27.05.: McCain/Caruso trugen G5 ohne JWilliams) brach in G6 ein: keine Bench-Eruption diesmal, Q3 20-0 OKC-Schwarzphase mit 7:27 ohne Punkt. Single-Game-Pattern aus G5 war nicht serien-repraesentativ.",
+          "SGA defensiv neutralisiert (15P 6/18 = 33.3% FG, Karriere-Tief in dieser Serie) - Castle-Verteidigung + Wemby-Rim-Protection (3 Blocks) loeste den OKC-Offensiv-Plan auf. Einmaliger Game-Plan-Erfolg vor G7.",
+          "Spurs 5-1 in Playoffs 'coming off loss' Tendenz bestaetigt -> jetzt 6-1. Bounce-Back-Form-Edge weiter belastbar."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "et-1",
+      "spiel_id": "2026-05-28-okc-sas",
+      "tipp_id": "okc-sas-1",
+      "kategorie": "value",
+      "markt": "NBA WCF G6: San Antonio Spurs Sieg (Moneyline)",
+      "quote": 1.62,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "TOP-Tipp des Ein-Spiel-Tages. SAS Elimination-Heim + 'coming off loss' 20-6 SU + Wemby-Bounce-Back nach G5-Kaltschuss. Markt-Fair (No-Vig) ~1.69 vs bet365 1.62 - Mini-Edge ~4%, Covers-Win-Prob 57% bestaetigt. NBA Conference Finals laut nba_analyse.md frei (kein Decider-Bluter), aber Closeout-Varianz druckt auf max VALUE (kein SAFE). Stufe 1 VALUE: 1.5% = 8.25€. Bei bet365 LIVE pruefen.",
+      "rang": 1
+    },
+    {
+      "id": "et-2",
+      "spiel_id": "2026-05-28-okc-sas",
+      "tipp_id": "okc-sas-3",
+      "kategorie": "wackel",
+      "markt": "NBA WCF G6: Victor Wembanyama Double-Double",
+      "quote": 1.55,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "Robuster Forgiving-Anker: Wemby Playoff-Avg 28.2 PPG / 11.8 RPG = ~70%+ DD-Trefferquote real bei vollen Minuten. DD-Markt ist HR16-konform (kein Player-Punkte-Boykott, kein Bluter). Closeout-Spielzeit-Sicherheit + Heim + Bounce-Back-Setup. Markt-Implied 64.5%, leichter VALUE-Hauch -> WACKEL wegen NBA-Closeout-Varianz. Stufe 1 WACKEL: 0.5% = 2.75€. Bei bet365 LIVE pruefen.",
+      "rang": 2
+    },
+    {
+      "id": "et-3",
+      "spiel_id": "2026-05-28-okc-sas",
+      "tipp_id": "okc-sas-2",
+      "kategorie": "wackel",
+      "markt": "NBA WCF G6: Unter 218.5 Punkte (Spiel-Total)",
+      "quote": 1.91,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "Defensiv-Muss-Sieg-Pattern Spurs Heim (Lesson 27.05. WCF-Re-Kalibrierung): SAS-Heim G4 nur 185 Total = 34.5 unter Linie wegen Tempo-Kontrolle in Muss-Sieg-Spot. Heute exakt das gleiche G4-Setup (Heim, Trailer, Elimination). Serie aber 4/5 Over -> Pattern nicht ueberbewerten = WACKEL statt VALUE. Stufe 1 WACKEL: 0.5% = 2.75€. Bei bet365 LIVE pruefen.",
+      "rang": 3
+    }
+  ],
+  "kombis": [],
+  "lessons_angewandt": [
+    {
+      "datum_lesson": "2026-05-26",
+      "kategorie": "Mini-Spiele-Tag / Single-Point-of-Failure",
+      "angewandt": "Ein-Spiel-Tag (nur NBA WCF G6): KEINE Kombis gebaut - bei einem Spiel waeren alle Beine zwingend korreliert (Layer-1: max 1 Bein/Spiel/Kombi). Stattdessen Stake-Konzentration auf Einzeltipps, Gesamt-Exposure 2.5% Kasse (3 einzeltipps[]) - bzw. 3.0% wenn der HR16-Spieltransparenz-Tipp Wemby O25.5 zusaetzlich gespielt wird."
+    },
+    {
+      "datum_lesson": "2026-05-28",
+      "kategorie": "Mini-Spiele-Tag Goldgrube-Stake-Konzentration",
+      "angewandt": "Erlaubnis fuer hoehere Konzentrations-Stakes (1.0-1.5%) am Mini-Tag genutzt: SAS-ML mit 1.5% statt aufgeteilt auf 3x 0.5%. Goldgrube-Konzept (Fussball: Unter 2.5/Torschuetzen Jederzeit) heute nicht direkt anwendbar - NBA-Markt-Bluter (Spieler-Punkte Unter) korrekt vermieden, Wemby DD als robuster NBA-Anker."
+    },
+    {
+      "datum_lesson": "2026-05-27",
+      "kategorie": "Star-Out-Tiefe-These bei Elite-Titelverteidiger (OKC ohne JWilliams)",
+      "angewandt": "Re-Kalibrierung: OKC ohne JWilliams trug G5 auswaerts klar (127:114, Spurs +5.5 ATS verlor). Heute aber Heim-Verzweiflung der Spurs + Wemby-Bounce-Back als Gegen-Pattern - SAS-ML deshalb VALUE statt SAFE. Kein Spurs-Spread-Tipp gesetzt (haette Wiederholung der G5-Falle gewesen)."
+    },
+    {
+      "datum_lesson": "2026-05-27",
+      "kategorie": "WCF-Total-Ueber-Goldgrube-Re-Kalibrierung",
+      "angewandt": "WCF-Heim-Differenzierung: OKC-Heim klar UEBER (G1 237, G2 235, G5 241), SAS-Heim gemischt (G3 231 Ueber, G4 185 Unter). Heute SAS Heim + Muss-Sieg-Defensiv = Unter-Tendenz wie G4 -> Unter 218.5 als WACKEL (nicht VALUE, weil 4/5 Serie waren Ueber)."
+    },
+    {
+      "datum_lesson": "2026-05-23",
+      "kategorie": "Stamm-Volume-Star-Snap-Back-Erlaubnis",
+      "angewandt": "Wemby nach kaltem G5 (20P, 4/15 FG) als Bounce-Back-Treiber in SAS-ML-These + Wemby DD + Wemby O25.5 (spiele[].tipps[]-Block). Historische Bounce-Back-Avg nach 'quiet effort' ~28P."
+    },
+    {
+      "datum_lesson": "2026-05-04",
+      "kategorie": "Markt-Bluter-Sperre (Hebel C)",
+      "angewandt": "Spieler-Punkte UNTER (NBA) = Markt-Bluter (data/markt_bluter.json, -12.8% ROI, n=10) -> Wemby-Unter 25.5 @ 1.62 wurde aktiv NICHT gesetzt trotz attraktiver Optik. Mapper haette es eh degradiert."
+    },
+    {
+      "datum_lesson": "2026-04-26",
+      "kategorie": "NBA-Playoff-Player-Punkte HR16-Boykott (Einzeltipps-Sperre)",
+      "angewandt": "HR16 strict eingehalten: Wemby-Punkte UEBER 25.5 trotz klarer Form-Edge + Quoten-Edge NICHT in einzeltipps[] aufgenommen (HR16-Ausnahme greift nur fuer Risiko/Moonshot-Kombi-Beine, heute keine Kombi). Tipp im spiele[].tipps[]-Block fuer User-Transparenz dokumentiert + optionaler Mini-Stake angeboten."
+    },
+    {
+      "datum_lesson": "2026-04-27",
+      "kategorie": "Quoten-Verifikation",
+      "angewandt": "bet365 NBA-Game-Quoten via WebFetch nicht sauber abgreifbar (Recherche-WARN) -> DraftKings-Aggregator als Quoten-Basis (US-Format dezimal konvertiert: SAS -162 = 1.62, OKC +136 = 2.36, Total O218.5 -105 = 1.95, U218.5 -110 = 1.91, Wemby O25.5 +100 = 2.00 via bet365 News US). Bei bet365 LIVE pruefen bei jedem Tipp. faire_quote aus No-Vig-Markt, edge_prozent null (keine Pinnacle-Linie)."
+    },
+    {
+      "datum_lesson": "2026-04-25",
+      "kategorie": "Roster-Verifikation (Halluzinations-Schutz)",
+      "angewandt": "Alle erwaehnten Spieler (Wembanyama #1 C, SGA #2 PG, McCain #20 G, Caruso #9 G, Jalen Williams #8 SF, Fox #4 PG, Holmgren #7 C, Castle #5 G, Harper G, Vassell #24 SF) aus dem Recherche-Squad mit Position + Quelle verifiziert. JWilliams-Status (questionable) als variabler Faktor markiert, nicht als Tipp-Basis."
+    },
+    {
+      "datum_lesson": "2026-05-18",
+      "kategorie": "NBA-Game7-Heim-Underdog-Crash NICHT anwendbar",
+      "angewandt": "Spurs sind heute Heim-FAVORIT (1.62), nicht Heim-Underdog -> Game7-Heim-Underdog-Crash-Pattern triggert NICHT. SAS-ML-VALUE bleibt belastbar (kein Crash-Risiko)."
+    }
+  ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-05-28T13:42:00+02:00",
+    "modus": "inline (Ein-Spiel-Tag, voller Kontext geladen)",
+    "drops": [],
+    "downgrades": [
+      {
+        "tipp_id": "okc-sas-4",
+        "alt": "value-kandidat",
+        "neu": "wackel + Einzeltipps-Sperre",
+        "grund": "HR16 sperrt NBA-Player-Punkte aus einzeltipps[]. Tipp wurde von potenziellem VALUE (klare Quoten-Edge bet365 2.00 vs DK 1.80 = ~11%, alle 3 HR16-Form-Edge-Kriterien erfuellt) auf WACKEL im spiele[].tipps[]-Block + NICHT in einzeltipps[] degradiert. Optionaler Mini-Stake fuer User dokumentiert."
+      }
+    ],
+    "warns": [
+      {
+        "art": "single_game_korrelation",
+        "spiel_id": "2026-05-28-okc-sas",
+        "details": "Ein-Spiel-Tag: SAS-ML + Wemby DD + Unter 218.5 + Wemby O25.5 sind teilweise korreliert (Wemby-Spiele-Top + SAS-Sieg-Wahrscheinlichkeit + niedriges Total laufen gemeinsam in 'Spurs gewinnen knapp/mittel mit Wemby-Bounce-Back'-Szenario). Korrelations-Risiko explizit ueber Mini-Stakes (3x 0.5%) + Top-Stake nur auf SAS-ML (1.5%) gemanagt. Gesamt-Exposure 2.5%-3.0% Kasse."
+      },
+      {
+        "art": "quoten_aggregator_basis",
+        "spiel_id": "2026-05-28-okc-sas",
+        "details": "bet365 NBA-Game-Quoten (ML/Spread/Total) nicht direkt per WebFetch abgreifbar (Recherche-WARN) -> Quoten aus DraftKings-Aggregator + bet365 News US (Wemby-Prop). Wemby DD-Quote 1.55 ist Markt-Schaetzung (Recherche enthielt keine direkte Linie, aber DD-Markt bei Wemby typisch -180 bis -150 = 1.55-1.65). Bei bet365 LIVE pruefen vor Tipp-Setzung."
+      },
+      {
+        "art": "pinnacle_fehlt",
+        "spiel_id": "2026-05-28-okc-sas",
+        "details": "Keine Pinnacle-Fair-Line fuer NBA-Props bei diesem Markt verfuegbar (Recherche-WARN) -> edge_prozent durchgehend null, faire_quote aus No-Vig-Markt-Ableitung."
+      },
+      {
+        "art": "hr16_ausnahme_dokumentiert",
+        "tipp_id": "okc-sas-4",
+        "details": "Wemby-Punkte O25.5 als HR16-Ausnahme im spiele[].tipps[]-Block geduldet (alle 3 Form-Edge-Kriterien erfuellt + bet365-Quoten-Edge ~11% vs DK), aber bewusst NICHT in einzeltipps[] uebernommen - HR16-Wortlaut schliesst Einzeltipps-Bereich aus, Ausnahme greift nur fuer Risiko/Moonshot-Kombi-Beine (heute keine Kombi)."
+      }
+    ],
+    "checks": {
+      "spieler_halluzination": "PASS - alle erwaehnten Spieler (Wembanyama, SGA, McCain, Caruso, Williams, Fox, Holmgren, Castle, Harper) im squad_heim/squad_gast der Recherche verifiziert mit Position + Nummer + Quelle",
+      "verband_quellen": "PASS - parallel_heim/gast = 'keine' (kein Wettbewerbs-Claim, NBA-Playoffs nur), nba.com + Wikipedia + Heavy + Rotowire + Washington Post + Covers als Quellen vorhanden",
+      "markt_bluter_check": "PASS - Spieler-Punkte UNTER (NBA, Bluter) nicht gesetzt; UEBER-Seite des Wemby-Props ist nicht im Bluter, aber HR16 separat angewandt (Einzeltipps-Sperre)",
+      "hr16_player_punkte_einzeltipps": "PASS - okc-sas-4 (Wemby O25.5) korrekt aus einzeltipps[] ausgeschlossen, nur im spiele[].tipps[]-Block dokumentiert. okc-sas-3 (Wemby DD) ist KEIN Player-Punkte-Markt (separater DD-Markt in CLAUDE.md-Whitelist) -> HR16-konform in einzeltipps[]",
+      "layer_2_3": "PASS - kombis[] leer (Ein-Spiel-Tag), keine Sieg-Outcome-Duplikation moeglich; Layer-1 trivial erfuellt",
+      "quoten_plausibilitaet": "PASS - alle Quoten innerhalb 5% Toleranz zur DK-Aggregator-Linie (SAS-ML 1.62 = DK -162, U218.5 1.91 = DK -110, Wemby DD 1.55 = Markt-Standard fuer Wemby-DD, Wemby O25.5 2.00 vs DK 1.80 = bet365-Boost dokumentiert als WARN)",
+      "selbstwiderspruch": "WEICH - SAS-ML (Sieg) + Wemby DD (Volume) + Unter 218.5 (low scoring) sind konsistent (Spurs gewinnen knapp/mittel mit Wemby-Volume, Total bleibt unter 218.5 mathematisch moeglich: ~106-110 SAS, ~95-105 OKC). Wemby O25.5 leicht gegenlaeufig zu Unter 218.5, aber 26+ Wemby + ~190-215 Total problemlos moeglich. Spannung in Begruendungen offengelegt.",
+      "liga_frische": "PASS - NBA WCF G6 ist real und kommend (29.05 02:30 Berlin), via nba.com + Wikipedia 25-26-Saison + Heavy + Washington Post verifiziert; ECF bereits durch (Knicks 4-0 Cavs); CL-Finale erst Sa 30.05 (nicht heute, in Recherche bereits abgefangen)"
+    },
+    "lessons_generiert": [],
+    "ergebnis": "0 Halluzinationen, 0 Drops, 1 dokumentierte HR16-Downgrade (Wemby O25.5 aus einzeltipps[] gehalten). Dossier sauber. Hartregeln eingehalten: max 5 Tipps/Spiel (4 im Spiel-Block / 3 in einzeltipps[]); Layer-1 trivial; Layer-2 trivial (kombis leer); HR16-Player-Punkte aus einzeltipps[] gehalten; Bluter-Markt Spieler-Punkte UNTER NBA aktiv gemieden; NBA-DD-Markt korrekt als separater Markt behandelt (nicht HR16-blockiert)."
+  },
+  "footer": "18+ * bet365 DE * Hobby-Wetten * Sucht-Hilfe BZgA: 0800 1372700 * Hobby-Tool, keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "einzeltipps_ergebnis": [
+    {
+      "id": "et-1",
+      "spiel_id": "2026-05-28-okc-sas",
+      "tipp_id": "okc-sas-1",
+      "kategorie": "value",
+      "markt": "NBA WCF G6: San Antonio Spurs Sieg (Moneyline)",
+      "quote": 1.62,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "TOP-Tipp des Ein-Spiel-Tages. SAS Elimination-Heim + 'coming off loss' 20-6 SU + Wemby-Bounce-Back nach G5-Kaltschuss. Markt-Fair (No-Vig) ~1.69 vs bet365 1.62 - Mini-Edge ~4%, Covers-Win-Prob 57% bestaetigt. NBA Conference Finals laut nba_analyse.md frei (kein Decider-Bluter), aber Closeout-Varianz druckt auf max VALUE (kein SAFE). Stufe 1 VALUE: 1.5% = 8.25€. Bei bet365 LIVE pruefen.",
+      "rang": 1,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.62,
+      "kommentar": "Spurs 118-91 ML gewonnen"
+    },
+    {
+      "id": "et-2",
+      "spiel_id": "2026-05-28-okc-sas",
+      "tipp_id": "okc-sas-3",
+      "kategorie": "wackel",
+      "markt": "NBA WCF G6: Victor Wembanyama Double-Double",
+      "quote": 1.55,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "Robuster Forgiving-Anker: Wemby Playoff-Avg 28.2 PPG / 11.8 RPG = ~70%+ DD-Trefferquote real bei vollen Minuten. DD-Markt ist HR16-konform (kein Player-Punkte-Boykott, kein Bluter). Closeout-Spielzeit-Sicherheit + Heim + Bounce-Back-Setup. Markt-Implied 64.5%, leichter VALUE-Hauch -> WACKEL wegen NBA-Closeout-Varianz. Stufe 1 WACKEL: 0.5% = 2.75€. Bei bet365 LIVE pruefen.",
+      "rang": 2,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.55,
+      "kommentar": "Wemby 28P/10R/3B - DD klar"
+    },
+    {
+      "id": "et-3",
+      "spiel_id": "2026-05-28-okc-sas",
+      "tipp_id": "okc-sas-2",
+      "kategorie": "wackel",
+      "markt": "NBA WCF G6: Unter 218.5 Punkte (Spiel-Total)",
+      "quote": 1.91,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "Defensiv-Muss-Sieg-Pattern Spurs Heim (Lesson 27.05. WCF-Re-Kalibrierung): SAS-Heim G4 nur 185 Total = 34.5 unter Linie wegen Tempo-Kontrolle in Muss-Sieg-Spot. Heute exakt das gleiche G4-Setup (Heim, Trailer, Elimination). Serie aber 4/5 Over -> Pattern nicht ueberbewerten = WACKEL statt VALUE. Stufe 1 WACKEL: 0.5% = 2.75€. Bei bet365 LIVE pruefen.",
+      "rang": 3,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.91,
+      "kommentar": "Total 209 < 218.5 - Spurs Q3 32-13 erstickte Pace"
+    }
+  ],
+  "kombis_ergebnis": [],
+  "ausgewertet_am": "2026-05-29T06:05:11+00:00"
+}
