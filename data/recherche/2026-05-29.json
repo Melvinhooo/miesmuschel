@@ -1,0 +1,44 @@
+{
+  "datum": "2026-05-29",
+  "erstellt_am": "2026-05-29T11:46:27+00:00",
+  "modus": "tag",
+  "hinweis": "Recherche-Daten Freitag 29.05.2026 (Mo-Fr-Variante, Pre-Tipps-Datenbasis fuer Tipps-Slot 13:30 Berlin; Recherche-Cloud-Routine). SAISONENDE-LEERSCHLAG - HEUTE 0 SPIELE IM CLAUDE.md-SCOPE. VOLLSTAENDIGKEITS-CHECK (Lesson Liga-Luecke 26.04/25.05 + Lesson Empty-Slate 28.05): football-data.org am 29.05 live abgefragt -> 0 Spiele in BL1/PL/PD/SA/FL1/CL/EL fuer 29.05 (alle 7 Endpoints einzeln getestet: BL1 count=0, PL count=0, PD count=0, SA count=0, FL1 count=0, CL count=0, EL count=0). balldontlie.io abgefragt fuer 29.05 + 30.05 -> exakt 1 NBA-Spiel im 2-Tages-Fenster: WCF Game 7 SAS @ OKC am Sa 30.05 (00:00 UTC = 02:00 Berlin Sonntag frueh, Paycom Center OKC). G7 ist NICHT heute. ===== Top-5-Liga-Saisons beendet 23.-24.05.; alle Domestic-Cup-Finals durch (DFB-Pokal 23.05 Bayern-Stuttgart, FA-Cup 16.05 Chelsea-ManCity, Coppa-Italia 13.05 Lazio-Inter, Conference-League-Finale 27.05 Crystal Palace 2:1 Rayo Vallecano nach Verlaengerung). Champions-League-Finale (PSG vs Arsenal) ist Sa 30.05 (NICHT heute) - aus football-data.org CL-Endpoint verifiziert. ===== NBA-STATUS NACH G6 (28.05 Berlin Nacht / 29.05 02:30 Berlin): Spurs gewinnen G6 in San Antonio 118:91 (laut balldontlie.io: SAS 35-25-32-26 / OKC 22-31-13-25; Quartal 3 13:32 zeigt klare Halbzeit-Drehung) -> Series steht 3-3, G7 entscheidet alles am Sa 30.05 in OKC. Knicks bereits im NBA-Finale (ECF-Sweep gegen Cavaliers 4-0). NBA-Finals Spiel 1 startet erst Di 03.06 in OKC oder SAS auf ABC (8:30 PM ET = 02:30 Berlin 04.06). ===== HEUTE FREITAG 29.05 IST NBA-REST-DAY zwischen G6 und G7. Kein anderes In-Scope-Event terminiert (kein BL-Relegation in CLAUDE.md-Scope, Frauen-Bundesliga/WNBA/Friendlies/EM-Quali alle ausserhalb Scope). ===== REGEL-ANWENDBARKEIT HEUTE: 2:0-Insurance-Regel gilt NUR fuer BL+Champions League -> heute NICHT anwendbar (kein Fussball-Spiel im Scope). Einwechslungs-Boost-Regel gilt fuer Fussball-Torschuetzen-Maerkte -> heute NICHT anwendbar. NBA-Markt-Whitelist nicht relevant heute (kein NBA-Spiel). ===== Kasse-Stand 04.05.2026: 550 EUR -> Stufe 1 (Aufbau-Phase) aktiv (Kasse < 1000 EUR), konservative Einsaetze. Aktuelle Markt-Bluter laut data/markt_bluter.json beachten (greifen heute nicht, da keine Tipps moeglich). Aktuelle Goldgruben: Doppelte Chance 1X, Doppelte Chance X2, Unter 2.5 Tore, Torschuetzen Jederzeit (greifen heute nicht). ===== EMPFEHLUNG AN TIPPS-ROUTINE 13:30: keine Tipps generieren - empty-slate-Hinweis im Dossier mit Verweis auf 30.05 (Doppel-Slate CL-Finale + WCF G7). User kann sich heute ausruhen und morgen das absolute Top-Event-Doppel anschauen (CL-Finale PSG-Arsenal in Budapest + NBA-WCF-G7 SAS@OKC). NIE Spielernamen erfunden (keine Squad-Lookups da kein Spiel). POSITION-Genauigkeit beachtet (Hojlund-Bug-Schutz, greift heute nicht).",
+  "spiele": [],
+  "leerschlag_metadata": {
+    "geprueft_apis": [
+      {"api": "football-data.org v4", "endpoints": ["BL1", "PL", "PD", "SA", "FL1", "CL", "EL"], "datum": "2026-05-29", "treffer": 0},
+      {"api": "balldontlie.io v1", "datum": ["2026-05-29", "2026-05-30"], "treffer": 1, "treffer_detail": "WCF G7 SAS @ OKC am 2026-05-30 (00:00 UTC), nicht heute"}
+    ],
+    "naechstes_relevantes_in_scope_spiel": {
+      "datum": "2026-05-30",
+      "events": [
+        {
+          "wettbewerb": "UEFA Champions League Final",
+          "match": "PSG vs Arsenal",
+          "ort": "Puskas Arena, Budapest (Achtung: tatsaechlicher Final-Austragungsort 2026 bei UEFA pruefen)",
+          "anstoss_berlin": "ca. 21:00 Berlin Sa 30.05",
+          "quelle": "https://api.football-data.org/v4/competitions/CL/matches"
+        },
+        {
+          "wettbewerb": "NBA Western Conference Finals Spiel 7",
+          "match": "SAS @ OKC",
+          "ort": "Paycom Center, Oklahoma City",
+          "anstoss_berlin": "ca. 02:00 Berlin So 31.05 (= Sa 30.05 abends US-Zeit)",
+          "quelle": "https://api.balldontlie.io/v1/games?dates[]=2026-05-30"
+        }
+      ]
+    },
+    "ausserhalb_scope_aber_geprueft": [
+      "2.Bundesliga Relegation (nicht in CLAUDE.md-Scope - nur 1.BL)",
+      "Frauen-Bundesliga (nicht in CLAUDE.md-Scope)",
+      "EM-Quali Friendlies / WM-Quali (nicht in CLAUDE.md-Scope)",
+      "WNBA (nicht in CLAUDE.md-Scope - nur NBA)"
+    ],
+    "hinweis_an_tipps_routine": "Empty-Slate-Tag. Erwartet wird Dossier mit `spiele: []` und Markdown-Hinweis 'Heute keine In-Scope-Spiele - naechster Slate Sa 30.05 mit CL-Finale + WCF G7'. Keine Tipps generieren. Routine darf trotzdem das Datums-File schreiben damit Pipeline-History sauber bleibt."
+  },
+  "footer": {
+    "rechtlich": "18+ - bet365 DE - Hobby-Wetten - keine Einkommensquelle",
+    "spielerschutz": "BZgA: 0800 1372700",
+    "quelle_recherche": "football-data.org v4 (Free Tier, API-Key in .github/scripts/subagent_prompts/recherche_routine.md), balldontlie.io v1 (Free), WebSearch 29.05.2026"
+  }
+}
