@@ -1,0 +1,42 @@
+{
+  "datum": "2026-05-29",
+  "erstellt_am": "2026-05-29T13:30:00+02:00",
+  "hinweis": "EMPTY-SLATE-TAG (Saisonende-Leerschlag) - Pipeline Mo-Fr 13:30 Berlin. Recherche data/recherche/2026-05-29.json liefert 0 In-Scope-Spiele: football-data.org am 29.05 live abgefragt -> 0 Spiele in BL/PL/PD/SA/FL1/CL/EL (alle 7 Endpoints einzeln getestet, count=0). balldontlie.io -> 0 NBA-Spiele am 29.05 (WCF G7 erst Sa 30.05). Top-5-Liga-Saisons beendet 23.-24.05.; alle Domestic-Cup-Finals durch (DFB-Pokal 23.05 Bayern-Stuttgart, FA-Cup 16.05 Chelsea-ManCity, Coppa-Italia 13.05 Lazio-Inter, Conference-League-Finale 27.05 Crystal Palace 2:1 Rayo Vallecano nach Verlaengerung). Champions-League-Finale (PSG vs Arsenal) ist Sa 30.05 in Budapest. NBA WCF G6 in der Nacht 29.05 02:30 Berlin entschieden (Spurs 118:91, Series 3-3) -> G7 ist Sa 30.05 ca. 02:00 Berlin Sonntag-Nacht in OKC - beide Top-Events landen im Wochenend-Dossier tipps_wochenende/2026-05-30.json (Donnerstag 18:00 generiert). Im Tipps-Fenster Fr 13:30 - Sa 11:30 kein weiteres In-Scope-Spiel terminiert (2. Bundesliga-Relegation, Frauen-Bundesliga, WNBA, EM-Quali alle ausserhalb CLAUDE.md-Scope). 2:0-Insurance-Regel + Einwechslungs-Boost-Regel heute NICHT anwendbar (kein In-Scope-Fussball). NBA-Markt-Whitelist nicht relevant heute (kein NBA-Spiel). KEINE Tipps + KEINE Kombis - kein Tipp ist hier der korrekte Tipp. Naechster Slate Sa 30.05 mit absolutem Top-Event-Doppel CL-Finale + NBA WCF G7 - dafuer Stake-Reserve aufbauen. Kasse 550 EUR, Stufe 1 (Aufbau-Phase). Heute auch keine Bluter-/Goldgrube-Anwendung moeglich (Mapper greift bei leerem spiele[] nicht).",
+  "spiele": [],
+  "einzeltipps": [],
+  "kombis": [],
+  "lessons_angewandt": [
+    "Empty-Slate-Hartregel (Lessons 26.04 Liga-Luecke + 25.05 Liga-Luecke + 28.05 Empty-Slate): kein Tipp = kein Verlust. Lieber sauberer leerer Dossier-Tag als erfundene Spiele aus Out-of-Scope-Ligen. Pipeline-History bleibt sauber, Watchdog kann den Tag ignorieren.",
+    "CLAUDE.md Scope-Disziplin: Serie B Playoff Final 2nd Leg Monza-Catanzaro (Fr 20:00 U-Power Stadium) bewusst NICHT bespielt obwohl interessantes Profil - Serie B ist NICHT in CLAUDE.md-gelisteten Wettbewerben (BL, PL, LaLiga, Serie A, DFB-Pokal, CL, Coppa Italia, NBA). Kein Daten-Stamm in statistik.json (n=0 Tipps historisch), kein Liga-Goldgrube-/Bluter-Eintrag - Tipp waere reines Bauchgefuehl. Gleiches gilt fuer 2. Bundesliga-Relegation, Frauen-Bundesliga, WNBA, EM-Quali, Friendlies.",
+    "Mini-Spiele-Tag-Cap (Lessons 19./21./26./28.05): bei <=2 in-scope-Spielen KEINE Kombis - heute 0 Spiele konsequent KEINE Kombis und KEINE Einzeltipps. Naechster Slate Sa 30.05 (CL-Finale + WCF G7 = 2 Spiele) wird ebenfalls Mini-Spiele-Tag-Profil mit Stake-Konzentration statt Kombi-Spread haben.",
+    "Halluzinations-Schutz (Lesson 25.04 Roster-Verifikation + 28.04 NIE-Spielernamen-erfunden): keine Spielernamen, keine Kontexte erfunden. Recherche bestaetigt 0 Spiele -> Dossier bleibt leer. Saison-Kontext-Pflicht-Felder entfallen mangels Spielen."
+  ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-05-29T13:32:00+02:00",
+    "modus": "inline (Empty-Slate-Tag, voller Kontext geladen)",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "empty_slate",
+        "details": "0 In-Scope-Spiele heute. Recherche data/recherche/2026-05-29.json liefert spiele:[] mit dokumentiertem leerschlag_metadata (7 Fussball-Endpoints count=0, NBA-balldontlie 0 Spiele am 29.05). Naechstes relevantes In-Scope-Event Sa 30.05 (CL-Finale PSG-Arsenal + NBA WCF G7 SAS@OKC)."
+      }
+    ],
+    "checks": {
+      "spieler_halluzination": "PASS - keine Spielernamen genannt (keine Spiele)",
+      "verband_quellen": "N/A - keine Spiele, keine Saison-Kontext-Bloecke zu pruefen",
+      "markt_bluter_check": "N/A - keine Tipps",
+      "hr16_player_punkte_einzeltipps": "PASS - einzeltipps[] leer",
+      "layer_2_3": "PASS - kombis[] leer (Empty-Slate)",
+      "quoten_plausibilitaet": "N/A - keine Quoten",
+      "selbstwiderspruch": "PASS - keine Tipps, keine Widersprueche moeglich",
+      "liga_frische": "PASS - Recherche bestaetigt 7 Fussball-Endpoints + NBA-Endpoint am 29.05 abgefragt, alle 0 Treffer; naechstes In-Scope-Event Sa 30.05 (CL-Finale + WCF G7) liegt korrekt im Wochenend-Dossier-Slot"
+    },
+    "lessons_generiert": [],
+    "ergebnis": "Empty-Slate-Tag sauber. 0 Spiele, 0 Tipps, 0 Kombis, 0 Halluzinationen. Hartregeln trivial eingehalten. Pipeline-History bleibt konsistent."
+  },
+  "footer": "18+ - bet365 DE - Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "einzeltipps_ergebnis": [],
+  "kombis_ergebnis": [],
+  "ausgewertet_am": "2026-05-30T06:06:43+00:00"
+}

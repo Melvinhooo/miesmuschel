@@ -1,5 +1,5 @@
 {
-  "stand": "2026-05-29T06:08:43+00:00",
+  "stand": "2026-05-30T06:06:43+00:00",
   "kriterium": "ROI > 15.0% ODER (Trefferquote >= 65.0% UND ROI > 0%) bei min. 5 Tipps",
   "wirkung": "Schema-Mapper bestaetigt SAFE-Tipps in diesen Ligen. Andere SAFE-Tipps werden auf VALUE downgegradet wenn der Markt-Typ nicht in markt_goldgruben.json ist (Hebel C ROI-Sanierung 04.05.).",
   "ligen": [
