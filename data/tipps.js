@@ -38,5 +38,4 @@ window.__MIESMUSCHEL_TIPPS = {
     "ergebnis": "Empty-Slate-Tag sauber. 0 Spiele, 0 Tipps, 0 Kombis, 0 Halluzinationen. Hartregeln trivial eingehalten. Pipeline-History bleibt konsistent. Saisonende-Leerschlag-Cluster: 2. Empty-Slate-Tag in drei Tagen (nach 29.05.) - markiert die Saison-Vakuum-Phase zwischen UEFA-Final (30.05.) und NBA-Finals-Start (03.06.)."
   },
   "footer": "18+ - bet365 DE - Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
-}
-;
+};
