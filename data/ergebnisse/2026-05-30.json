@@ -1,0 +1,555 @@
+{
+  "datum": "2026-05-30",
+  "erstellt_am": "2026-05-30T10:50:00+02:00",
+  "hinweis": "MINI-SPIELE-WOCHENENDE-TAG. Saison-Endspurt - alle nationalen Ligen durch, alle Pokal-Finals der Top-5-Laender gespielt. NUR 2 In-Scope-Events: (1) UEFA Champions League FINALE Paris Saint-Germain vs Arsenal in der Puskas Arena Budapest, Sa 18:00 CEST (vorgezogen von 21:00 'fuer Fan-Experience'). PSG verteidigt den 2024/25-Titel (5:0 vs Inter), Arsenal erstes CL-Finale seit 2006. (2) NBA Western Conference Finals GAME 7 Spurs @ Thunder, Paycom Center OKC, Sa-Nacht 02:30 CEST (Sonntag fruehmorgens Berlin). Spurs erzwangen Game 7 mit 118:91-Sieg in G6 (28.05., Wemby 28+10). Sieger spielt NBA-Finale gegen die New York Knicks ab 03.06. Kasse-Stand 550€ -> Stufe 1 Aufbau-Phase (Einzel VALUE 1.0-2.0% = 5.50-11€, WACKEL 0.5% = 2.75€). KOMBI-VERZICHT per Lesson 26.05. + 28.05. (Mini-Spiele-Tag Single-Point-of-Failure-Korrelation): bei nur 2 in-scope-Spielen sind alle Kombis hochkorreliert ueber 1 Game = jeder Spread killt mehrere Kombis. Stake-Konzentration auf Goldgrube-Einzeltipps (Unter 2.5 Default-Hartregel + Torschuetzen Jederzeit Goldgrube + DC 1X Goldgrube). EIN Mini-Moonshot mit 0.55€ Stake als Spass-Bein.",
+  "spiele": [
+    {
+      "id": "2026-05-30-psg-ars",
+      "liga": "UEFA Champions League - Finale",
+      "heim": "Paris Saint-Germain",
+      "gast": "Arsenal FC",
+      "anstoss": "2026-05-30T18:00:00+02:00",
+      "stadion": "Puskas Arena, Budapest (neutraler Boden, von UEFA als PSG-'Heim' definiert)",
+      "saison_kontext": {
+        "parallel_heim": "keine - Ligue 1 bereits abgeschlossen (PSG Meister Mai 2026 mit komfortablem Vorsprung), kein paralleler Wettbewerb mehr aktiv. Das CL-Finale ist die EINZIGE verbleibende Saison-Aufgabe. Luis Enrique konnte die letzten 10 Tage komplett auf das Finale fokussieren (geschlossenes Training am Campus, keine Ablenkungen). Lesson 18.05. (Top-Team-B-Elf-CL-Final-Cluster) GREIFT HIER NICHT, weil das Finale das LETZTE Spiel ist - keine Pre-Final-Schon-Logik moeglich, keine Rotations-Falle.",
+        "parallel_gast": "keine - Premier League bereits abgeschlossen am 24.05. (Schlusstag Crystal Palace auswaerts), Arsenal als 4. Mal englischer Meister 2025/26 (1. PL-Titel seit 2003/04, 22 Jahre Wartezeit) bestaetigt. FA Cup raus, EFL Cup raus. CL-Finale ist die EINZIGE verbleibende Saison-Aufgabe. Arteta konnte 6 Tage komplett auf Final-Vorbereitung verwenden, kein Belastungsstress.",
+        "saisonziel_heim": "Ligue-1-Titel bereits gesichert + CL-Titel-Verteidigung im Visier. PSG will als erste Mannschaft seit Real Madrid 2017/18 in Folge die CL gewinnen (back-to-back), Luis Enrique strebt persoenliches Doppel-Triple an. Defending Champion mit 5:0-Finalsieg 2024/25 gegen Inter, im aktuellen 2025/26-CL-Weg HF gegen Bayern souveraen 3:1 aggregat (Dembele 4.Min Rueckspiel). MAX Motivation.",
+        "saisonziel_gast": "Premier-League-Titel 2025/26 gewonnen (1. seit Invincibles 2003/04). CL-Finale ist Double-Chance auf Karriere-Highlight, Arteta-Mannschaft auf Karriere-Hoch, erste CL-Finale-Teilnahme seit 2006 (Paris vs Barcelona damals). MAX Motivation, keine Schon-Logik.",
+        "motivations_asymmetrie": "BEIDE Teams MAX motiviert (Saisonende + Karriere-Highlight, kein Schongang-Risiko fuer keine Seite). KEINE Motivations-Asymmetrie als Edge - Klassen-Edge liegt klar bei PSG (Defending Champion + 5:0-Finalsieg im Vorjahr + direkte H2H 3:1 aggregat in der laufenden Saison gegen genau diesen Arsenal-Kader im Achtelfinale 2024/25). Form-Edge etwas zugunsten PSG (Dembele 5 Tore in den letzten 3 Spielen).",
+        "recovery_heim": "PSG letzte Ligue-1-Pflichtspiele Anfang Mai abgeschlossen, mindestens 10 Tage Pause vor Finale (laengster Vorbereitungszeitraum unter den CL-Endspielern der letzten Jahre). Hakimi-Doppel-Boost: nach Verletzungs-Sorgen wieder voll im Training (Get French Football News, SI). Dembele Form-Hoch (5 Tore in 3 Spielen). Stammelf voll erholt, kein Belastungs-Stress.",
+        "recovery_gast": "Arsenal letztes PL-Spiel 24.05. (Crystal Palace-Auswaerts), 6 Tage Pause vor Finale. Saka nach Achilles-Reha sharp im Training (kicker, SkySports). Ben White weiter verletzt (Knie). Timber wackelt (Leisten-Issue), Mosquera/Hincapie als Defensive-Alternativen. Saliba/Gabriel/Rice/Odegaard/Gyokeres voll fit. Stammelf weitgehend erholt, eine Wackelkandidat-Position (RV).",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/match/2047742--paris-vs-arsenal/final/",
+          "https://www.uefa.com/uefachampionsleague/news/02a5-20b60a9d9ef5-789a3a4be72d-1000--paris-vs-arsenal-champions-league-preview-where-to-watch-/",
+          "https://www.espn.com/soccer/story/_/id/48891938/2025-26-champions-league-final-arsenal-paris-saint-germain-preview-predictions-analysis-key-players",
+          "https://www.si.com/soccer/psg-xi-vs-arsenal-injury-news-predicted-lineup-5-30-26",
+          "https://www.arsenal.com/fixture/arsenal/2026-May-30/paris-saint-germain",
+          "https://www.psg.fr/en/matches/mens-football/20252026/paris-vs-arsenal-2026-05-30",
+          "https://news.bet365.com/en-us/article/uefa-champions-league-goalscorer-odds/2026052915251419373",
+          "https://www.transfermarkt.com/paris-saint-germain/startseite/verein/583",
+          "https://www.transfermarkt.com/fc-arsenal/startseite/verein/11",
+          "https://www.premierleague.com/clubs/1/Arsenal/squad",
+          "https://www.kicker.de/paris-saint-germain/kader"
+        ]
+      },
+      "news": [
+        "Kickoff 18:00 CEST (Sa 30.05.), Puskas Arena Budapest (vorgezogen von 21:00 fuer Fan-Experience). Schiedsrichter: Daniel Siebert (DE). The Killers spielen Halftime-Show.",
+        "PSG-Form: 5:0 Inter-Finale 2024/25 + HF-Sieg gegen Bayern (Dembele 4. Min im Rueckspiel) + 9 CL-Spiele in Folge ungeschlagen. Kvaratskhelia PSG-CL-Rekordhalter mit 10 Toren + 5 Assists, Dembele 7 CL-Tore Saison + 5 Tore in den letzten 3 Pflichtspielen.",
+        "Vor. PSG-Aufstellung (SI/RotoWire-Update 29.05.): Safonov (oder Donnarumma); Hakimi, Marquinhos, Pacho, Mendes; Zaire-Emery, Vitinha, Joao Neves; Doue, Dembele, Kvaratskhelia. Doue (Sub vs Bayern) jetzt Stammelf.",
+        "Arsenal-Form: 4-facher PL-Meister 2025/26 + 1. CL-Finale seit 2006 + 14 CL-Spiele in Folge ungeschlagen. Defense-Festung (0.4 Gegentore/Spiel CL, 6 Gegentore total in 12 Spielen, 9 Weisse Westen - nur 1 hinter dem CL-Rekord von 10).",
+        "Vor. Arsenal-Aufstellung (SI): Raya; Mosquera, Saliba, Gabriel, Hincapie; Lewis-Skelly, Rice; Saka, Odegaard, Trossard; Gyokeres. (Timber Leisten wackelt, White Knie OUT - Mosquera RV, Hincapie LV als Alternative)",
+        "H2H 2024/25 Achtelfinale: PSG 3-1 aggregat (2:0 Heim + 2:1 Auswaerts) - direkte Klassen-Edge gegen genau diesen Arsenal-Kern.",
+        "PSG-Verletzungen Update: Hakimi + Dembele nach Verletzungs-Sorgen wieder voll im Training (Get French Football News), beide starten.",
+        "Arsenal-Verletzungen Update: Saka post-Achilles sharp im Training (kicker), Timber Groin doubtful, White OUT (Knee).",
+        "bet365-Boost (Squawka 29.05.): PSG hebt Pokal + Vitinha 1+ Schuss auf Tor + Joao Neves 1+ Schuss auf Tor (boosted multi).",
+        "2:0-Insurance gilt (CLAUDE.md): Champions League ist mit Bundesliga die einzige Liga in der die bet365-2:0-Insurance fuer direkte Sieg-Tipps zaehlt."
+      ],
+      "tipps": [
+        {
+          "id": "psg-ars-1",
+          "kategorie": "value",
+          "markt": "Unter 2.5 Tore",
+          "quote": 2.05,
+          "quote_quelle": "bet365 News + Squawka via Oddspedia - Konsens-Linie 1.95-2.10",
+          "edge_prozent": 12,
+          "begruendung": "TOP-VALUE-Anker per Europa-Pokal-Finale-Unter-2.5-Default-Hartregel (Lesson 28.05., dritte Validation nach Coppa-Italia-Finale 1:0, Conference-Finale 1:0, EL-Finale 0:2 - alle 3 unter 2.5). Arsenal hat MIT 0.4 Gegentoren/Spiel die beste CL-Defense der Saison (6 Gegentore in 12 Spielen, 9 Weisse Westen, nur 1 weniger als CL-Rekord). Hartregel-Ausnahme greift NICHT (Arsenal CL-Tore/Spiel = 1.7, klar unter 2.0). PSG-Sturm zwar 2.8 Tore/Spiel CL, aber im Finale gegen Top-5-Defense + Klassen-Match + Final-Wettkampf-Vorsicht. Bilanz Goldgrube-Markt 'Unter 2.5 Tore' aus statistik.json: 14 Tipps / 71.4% Hitrate / +39.9% ROI - aktiv prioritisieren laut Lesson 26.05. (Goldgrube-Prioritaet) + 28.05. (Mini-Spiele-Stake-Konzentration). Implied 48.8%, real geschaetzt 56-60%. Empfohlener Einsatz: 11€ (2.0% der 550€-Kasse, Stufe 1).",
+          "bewertung_label": "VALUE",
+          "empfohlener_einsatz_prozent": 2.0,
+          "faire_quote": 1.75
+        },
+        {
+          "id": "psg-ars-2",
+          "kategorie": "value",
+          "markt": "Ousmane Dembele trifft (Jederzeit)",
+          "quote": 2.5,
+          "quote_quelle": "bet365 News (Squawka) - Konsens 2.36-2.75 Range, Mittelwert 2.50",
+          "edge_prozent": 10,
+          "begruendung": "Goldgrube-Markt 'Torschuetzen Jederzeit' (44 Tipps / 38.1% / +21.3% ROI) PLUS Form-Edge erfuellt: Dembele 7 CL-Tore Saison + 5 Tore in den letzten 3 Pflichtspielen + 1 Tor in HF-Rueckspiel gegen Bayern (4. Minute, mit Kvara-Assist) + 9 direkte Torbeteiligungen in CL-Knockout. Per Markt-Mix-Pflicht (CLAUDE.md 04.05.: Heim-Favorit-Profil = MIN 1 Torschuetzen-Tipp auf Top-Stuermer) absolute Pflicht. bet365 listet Dembele als 'most likely scorer' im Finale. Backup-Check OK: Goncalo Ramos als Bank-9er, keine Vereinssperre. Klassen-Edge-Final-Tor-Verteilungs-Subfilter (Lesson 28.05.) doppelt erfuellt: Dembele ist Wing-Stuermer (passt zum 21.05.-Wings-treffen-statt-9er-Pattern) UND zugleich Standard-/Penalty-Schuetze (Open-Play + Standard doppelt). Implied 40%, real geschaetzt 47-52%. Quote via bet365 News 29.05. verifiziert. Empfohlener Einsatz: 11€ (2.0%).",
+          "bewertung_label": "VALUE",
+          "empfohlener_einsatz_prozent": 2.0,
+          "faire_quote": 2.1
+        },
+        {
+          "id": "psg-ars-3",
+          "kategorie": "value",
+          "markt": "PSG oder Remis (Doppelte Chance 1X)",
+          "quote": 1.27,
+          "quote_quelle": "bet365 - aus 1X2 implizit (PSG 1.95 + Remis 3.40) ~1.27",
+          "edge_prozent": 6,
+          "begruendung": "Klassen-Edge-Bein zugunsten PSG ohne Single-Sieg-Risiko (Lesson 21.05. Konsens-Best-Bet-Cluster-Trap: PSG-Sieg-Single waere die Konsens-Falle, DC 1X umgeht das). PSG ist Defending Champion (5:0 vs Inter im Vorjahres-Finale) + hat in der laufenden Saison den exakten Arsenal-Kader im Achtelfinale 2024/25 aggregat 3:1 ausgeschaltet (2:0 + 2:1) = direkte historische Klassen-Edge. PSG-Sieg-Quote ~1.95 = 51% Implied, mit Remis 3.40 = 29% Implied -> DC 1X = ~78.7% Implied. Real geschaetzt 82-85% nach H2H-Edge + Form-Hoch. Bilanz Goldgrube-Markt 'Doppelte Chance 1X' (22 Tipps / 80% Hitrate / +2.3% ROI). DC-Cap pro Spiel max 1 erfuellt (CLAUDE.md 04.05.). Empfohlener Einsatz: 8.25€ (1.5%, knappe Quote -> kleinerer Stake).",
+          "bewertung_label": "VALUE",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.2
+        },
+        {
+          "id": "psg-ars-4",
+          "kategorie": "value",
+          "markt": "Khvicha Kvaratskhelia trifft (Jederzeit)",
+          "quote": 2.75,
+          "quote_quelle": "bet365 (Routine-Mid-Range-Schaetzung basierend auf HF-Linie 2.85 + Form-Korrektur)",
+          "edge_prozent": 8,
+          "begruendung": "Zweites Torschuetzen-Bein der Goldgrube. Kvaratskhelia ist mit 10 CL-Toren + 5 Assists NEUER PSG-CL-Rekordhalter dieser Saison (Tribuna/Squawka) + 2 Tore + 1 Assist in HF gegen Bayern. Wing-Stuermer-Profil matches 21.05.-Lesson (Klassen-Edge-Finale: Wings/Mids treffen statt 9er). Form-Edge-Bedingung erfuellt (3+ Tore in 5 CL-Spielen, 10 Tore in 12 CL-Spielen Saison). bet365 listet Kvara in Top-3 'most likely scorers' im Finale (zusammen mit Dembele, Ramos, Barcola, Doue). Implied 36.4%, real geschaetzt 42-46%. Saison-Kontext-Selbst-Check: kein Widerspruch zur DC-1X-These - PSG-Sieg-Szenario impliziert oft Kvara-Tor. Empfohlener Einsatz: 8.25€ (1.5%).",
+          "bewertung_label": "VALUE",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 2.35
+        },
+        {
+          "id": "psg-ars-5",
+          "kategorie": "wackel",
+          "markt": "Bukayo Saka trifft (Jederzeit)",
+          "quote": 3.8,
+          "quote_quelle": "bet365 (Routine-Mid-Range-Schaetzung, Saka 15 SOT in 11 CL-Spielen = Volumen-Edge)",
+          "edge_prozent": 4,
+          "begruendung": "Arsenal-Underdog-Wing-Stuermer mit hoechster Schuss-Volumen-Bilanz im Arsenal-Kader (15 Schuesse aufs Tor in 11 CL-Spielen, 3 Tore + 2 Assists CL Saison) + Tor gegen Atletico im VF entscheidend + post-Achilles sharp im Training (kicker). Lesson 21.05. (Klassen-Edge-Finale Wings/Mids treffen) spricht zwar fuer Saka, ABER Arsenal als KLARER Underdog reduziert Arsenal-Tor-Wahrscheinlichkeit insgesamt (Arsenal nur 0.4 Gegentore aber auch nur 1.7 eigene CL-Tore/Spiel). Nicht Wing-9er-Kombi sondern Solo-Wing -> niedrigere Hit-Wahrscheinlichkeit als bei PSG-Trio. Implied 26.3%, real geschaetzt 28-32%. Bewusst nur WACKEL (kein VALUE), damit Stake-Konzentration auf PSG-Goldgrube-Trio bleibt. Empfohlener Einsatz: 2.75€ (0.5%).",
+          "bewertung_label": "WACKEL",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 3.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 1,
+        "status": "abgeschlossen",
+        "kommentar": "1:1 nach 90 Min + 120 Min Verlaengerung. PSG gewinnt 4:3 im Elfmeterschiessen (Gabriel verschossen). PSG verteidigt CL-Titel back-to-back als erster Klub seit Real Madrid 2017/18."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "psg-ars-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.05,
+          "kommentar": "Unter 2.5 GEWONNEN: nur 2 Tore in 90 Min (Havertz 5'/6', Dembele 64' Elfmeter). bet365 wertet Ueber/Unter nach 90 Min, Verlaengerung/Elfmeter zaehlen nicht."
+        },
+        {
+          "tipp_id": "psg-ars-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.5,
+          "kommentar": "Dembele trifft GEWONNEN: 64. Min Elfmeter zum 1:1 (nach Foul an Kvaratskhelia)."
+        },
+        {
+          "tipp_id": "psg-ars-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.27,
+          "kommentar": "DC 1X GEWONNEN: 1:1 nach 90 Min = Remis. bet365 wertet DC/1X2 nach 90 Min, Elfmeterschiessen irrelevant. (PSG gewann zwar das Match insgesamt, fuer 1X2-Wettkarten zaehlt Remis.)"
+        },
+        {
+          "tipp_id": "psg-ars-4",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Kvara kein Tor - drew aber den Elfmeter (Foul). 82'/84' ausgewechselt fuer Barcola. Einwechslungs-Boost greift NICHT: Barcola traf nicht (sein Last-Minute-Schuss ueber das Tor). 120 Min ohne Tor von Kvara oder Ersatz."
+        },
+        {
+          "tipp_id": "psg-ars-5",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Saka kein Tor. 82'/83' ausgewechselt fuer Madueke. Einwechslungs-Boost greift NICHT: Madueke traf ebenfalls nicht. Nur Havertz traf fuer Arsenal."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "1:1 (PSG gewinnt 4:3 i.E. nach 120 Min)",
+        "tore": [
+          {
+            "min": 5,
+            "team": "gast",
+            "spieler": "Kai Havertz (Vorlage Trossard)",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 64,
+            "team": "heim",
+            "spieler": "Ousmane Dembele (Elfmeter, nach Foul an Kvaratskhelia)",
+            "stand_danach": "1:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Arsenal fuehrte nur 1:0 - keine 2-Tore-Differenz, daher KEINE klassische Drehung. PSG holte das 1:1 im Schlussdrittel und gewann erst im Elfmeterschiessen. 2:0-Insurance-Regel (CLAUDE.md) war NICHT anwendbar (Arsenal lag nie 2:0 vorne) - hypothetischer Arsenal-Sieg-Tipp haette also nicht ueber Insurance gerettet werden koennen."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Arsenal/Unentschieden (nach 90 Min)",
+          "kein_team_zu_null": true,
+          "endstand_90min": "1:1 (Remis nach 90 Min)",
+          "ergebnis_nach_elfmeter": "PSG-Sieg 4:3 i.E. (Gabriel verschossen) - 1X2/DC-Maerkte bei bet365 zaehlen nur die 90 Min",
+          "verlaengerung_gespielt": true,
+          "elfmeterschiessen_entschied": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Bradley Barcola",
+            "aus": "Khvicha Kvaratskhelia",
+            "minute": 82,
+            "tor": false,
+            "tor_minute": null,
+            "details": "Barcola hatte Last-Minute-Chance (90+) auf Game-Winner - Schuss zu hoch. Tipp 'Kvara trifft' uebernahm damit KEIN Boost-Tor. Saka-Madueke-Sub (83.) identisches Muster: Madueke ohne Torchance."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Pokal-Finale-Unter-2.5-Default-Hartregel (Lesson 28.05.) zum VIERTEN MAL bestaetigt: Coppa-Italia 1:0, Conference-Finale 1:0, EL-Finale 0:2, jetzt CL-Finale 1:1 (90 Min) = alle 4 europ. Pokal-Finals Mai 2026 unter 2.5 in 90 Min. Pattern stark.",
+          "Konsens-Best-Bet-Cluster-Trap (Lesson 21.05.) erneut validiert: PSG-Sieg-Single waere VERLOREN (1:1 reg) - DC 1X gewann (Remis). Skeptizismus zur 'sicheren' Konsens-These hat erneut gerettet.",
+          "Klassen-Edge-Final-Tor-Verteilungs-Subfilter (Lesson 28.05.): Dembele traf als Wing-Standard-Schuetze (Elfmeter zaehlt zu Standard/Set-Piece) - Pattern matches. Kvara traf nicht selbst, holte aber den Elfmeter (Assist-Charakter durch Foul-Provokation) - 'Wing-Beteiligung' realisiert ueber Sekundaer-Aktion.",
+          "Klassen-Edge-Skepsis-Wert-Erkenntnis: PSG dominant nur in Phasen, Arsenal-Defense bestaetigt CL-Saison-Form (6 Gegentore in 12 + 1 Elfmeter im Finale). Klassen-Edge laesst sich nicht immer in 90-Min-Sieg umsetzen, auch bei Defending Champion. Skeptizismus gegen Sieg-Tipps bestaetigt.",
+          "Einwechslungs-Boost-Trigger geschah, aber kein Tor (Barcola-Schuss zu hoch in 90+) - Pattern war 'aktiv' (Kvara raus, Barcola rein), aber nicht 'erfolgreich'. Boost-Mechanik bleibt aktiv aber nicht garantiert.",
+          "2:0-Insurance heute nicht anwendbar (Arsenal nie 2:0 vorne) - dennoch wert dokumentiert dass Insurance-Mechanik bei knappen 1:0-Finals zwischen Top-Teams selten greift. Praktisch waere Insurance nur bei stark unterlegener Heim-Mannschaft mit hohem Anfangs-Spike wertvoll."
+        ]
+      }
+    },
+    {
+      "id": "2026-05-30-okc-sas",
+      "liga": "NBA Playoffs - Western Conference Finals, Game 7",
+      "heim": "Oklahoma City Thunder",
+      "gast": "San Antonio Spurs",
+      "anstoss": "2026-05-31T02:30:00+02:00",
+      "stadion": "Paycom Center, Oklahoma City",
+      "saison_kontext": {
+        "parallel_heim": "keine - reine NBA-Playoffs, kein Liga-Parallel-Wettbewerb. WCF G7 ist DAS letzte Spiel der WCF, Sieger zieht ins NBA-Finale gegen die New York Knicks (Start 03.06.) ein.",
+        "parallel_gast": "keine - reine NBA-Playoffs. WCF G7 das letzte Spiel der WCF, Sieger erste NBA-Finale-Teilnahme der Spurs seit Wembanyama-Aera.",
+        "saisonziel_heim": "OKC Defending Champion (Titel 2024/25), 1-seed Western Conference Reguläre Saison, Serie 3-3 nach G6-Blowout. MAX Motivation als Title-Defense-Pflicht + Heim-Vorteil G7 (Paycom Center). Aber: Jalen Williams (2nd Star) wieder OUT (ESPN/NBA.com 29.05.: Hamstring laesst nicht zu, G6-Versuch 10 Min 1 Pkt - flop). Ajay Mitchell OUT (Calf).",
+        "saisonziel_gast": "SAS 1. WCF-Teilnahme seit Wembanyama-Aera, junges Team mit Saison-Hoehepunkt. Wemby in G6: 28 Pkt + 10 Reb (Spurs gewinnen 118:91). MAX Motivation als Karriere-Highlight, war 1-3 down in Serie und kaempfte sich zurueck.",
+        "motivations_asymmetrie": "Beide Teams MAX motiviert (Win-or-go-home Decider, klassisches G7-Setup). Heim-Vorteil OKC + Defending Champion Status klassisch +5-7% historischer G7-Heim-Edge - per Lesson 02.05. (NBA G6/G7-Druck-Spiele werden defensiv) ist Decider KEINE Garantie fuer hohes Tempo, Spread-/Sieg-Maerkte max WACKEL. Per Lesson 27.05. (Star-Out-Tiefe-These widerlegt bei Elite-Titelverteidiger): OKC ohne JWill ist KEINE serien-stabile Spread-Value-These - OKC-Tiefe (Caruso/McCain/Holmgren) trug G5, brach aber in G6 (Wemby-Defense overran). Edge: Heim-Vorteil OKC bleibt klar, aber CLAUDE.md-Verbot: G7 max WACKEL.",
+        "recovery_heim": "G6 28.05. (Heimspiel SAS, Auswaerts-Niederlage 91:118) - 1 Tag Pause vor G7. SGA mit nur 16 Pkt in G6 (8/22 FG = 36%), McCain 13 Pkt von der Bank, Holmgren 11 Pkt. Standard-Playoff-Recovery. CRITICAL UPDATE 29.05.: Jalen Williams OUT bestaetigt (Hamstring) + Mitchell OUT (Calf). Lesson 27.05. greift: OKC-Tiefe ohne JWill nicht stabil, aber dennoch Heim-Vorteil + G7-Defending-Champion-Routine.",
+        "recovery_gast": "G6 28.05. (Heimspiel-Sieg 118:91) - 1 Tag Pause vor G7. Wembanyama mit Karriere-Bestleistung-Playoffs 28+10, Vassell 24, Castle 19. Wemby muss jetzt 2 Tage in Folge (G6 + G7) auf Top-Niveau spielen + Auswaerts-G7 - klassisches Karriere-Highlight-Risiko (Lesson 18.05. Karriere-Highlight als INVERSER Schon-Trigger - Wemby spielt durch wenn moeglich).",
+        "quellen": [
+          "https://www.espn.com/nba/story/_/id/48907395/williams-ineffective-gilgeous-alexander-thunder-drop-game-6",
+          "https://www.espn.com/nba/story/_/id/48902205/2026-nba-playoffs-san-antonio-spurs-oklahoma-city-thunder-game-6-recap-game-7-preview",
+          "https://www.nba.com/news/thunder-guard-jalen-williams-hamstring-out-of-game-7-of-west-finals",
+          "https://www.basketball-reference.com/playoffs/2026-nba-western-conference-finals-spurs-vs-thunder.html",
+          "https://www.cbssports.com/nba/news/spurs-vs-thunder-odds-prediction-2026-nba-western-conference-finals-picks-game-7-best-bets-from-model/",
+          "https://www.nbcsports.com/nba/news/thunder-vs-spurs-nba-wcf-game-7-predictions-odds-recent-stats-trends-and-best-bets-for-may-30",
+          "https://sports.yahoo.com/nba/article/thunder-rule-out-jalen-williams-for-game-7-vs-spurs-with-lingering-hamstring-injury-223045896.html",
+          "https://www.nba.com/playoffs/2026/west-final"
+        ]
+      },
+      "news": [
+        "Game 7 Saturday Night - Tip-off 02:30 CEST (So 31.05. fruehmorgens Berlin Zeit), Paycom Center OKC. Winner spielt NBA-Finale 1 vs Knicks am 03.06.",
+        "Serien-Stand: 3-3 (Spurs erzwingen G7 mit 118:91-Sieg in G6 - Wemby 28+10, Vassell 24, Castle 19; OKC 13 Punkte in Q3, 13 Straight Missed FG)",
+        "OKC G6: SGA 16 Pkt (8/22 FG = 36% Saison-Tiefstwert Playoffs), Holmgren 11, McCain 13. Jalen Williams 1 Pkt in 10 Min - ineffektiv.",
+        "BESTAETIGT 29.05.: Jalen Williams OUT G7 (Hamstring, NBA.com/ESPN), Ajay Mitchell OUT (Calf). McCain weiter Stammelf-Ersatz.",
+        "Quoten (FanDuel/DraftKings 29.05.): OKC -3.5 / Spurs +3.5, OKC ML -155, SAS ML +130, Total Over/Under 212.5",
+        "Wembanyama-Linie (Routine-Schaetzung): Punkte 24.5-25.5, Reb 11.5, DD-Quote ~1.45. SGA-Linie: Punkte 30.5",
+        "WCF-Total-Pattern: OKC-Heim G1 237, G2 235, G5 241 (alle deutlich UEBER) - G4 SAS-Heim 185 (Lesson 25.05. Re-Kalibrierung: Einzel-Ausreisser), G6 SAS-Heim 209 (auch unter)",
+        "Historische G7-Heim-Bilanz NBA Playoffs: ca. 78% (Heim) - aber Decider Lesson 02.05. + 27.05. zwingen WACKEL-Cap"
+      ],
+      "tipps": [
+        {
+          "id": "okc-sas-1",
+          "kategorie": "wackel",
+          "markt": "Ueber 212.5 Punkte (Total)",
+          "quote": 1.9,
+          "quote_quelle": "FanDuel/DraftKings via SportsLine 29.05. - Konsens 212.5",
+          "edge_prozent": 5,
+          "begruendung": "Re-Kalibrierte WCF-Ueber-Pattern per Lesson 27.05. (Bruch der Goldgrube war Einzel-Ausreisser): OKC-Heim-Spiele dieser Serie 237/235/241 alle deutlich ueber 217.5-Linie, nur Auswaerts-G4 (185) und G6 (209) waren Defensiv-Schlachten. G7 in OKC + Decider-Energie + SGA-Snap-Back nach G6-Flop (8/22 FG) + Wemby muss Karriere-Highlight wiederholen auswaerts spricht fuer Ueber. ABER Lesson 02.05. (NBA G6/G7-Druck-Spiele werden DEFENSIV) als Gegenargument + NBA-Playoffs-Verbot (CLAUDE.md): Decider max WACKEL, niemals SAFE/VALUE-Total. Linie 212.5 niedriger als die Heim-Pattern-Wahrscheinlichkeit (durchschnittlich 237 in den letzten 3 OKC-Heim-Spielen). Implied 52.6%, real geschaetzt 55-58%. Empfohlener Einsatz: 2.75€ (0.5%).",
+          "bewertung_label": "WACKEL",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.8
+        },
+        {
+          "id": "okc-sas-2",
+          "kategorie": "wackel",
+          "markt": "OKC Thunder Sieg (Moneyline)",
+          "quote": 1.65,
+          "quote_quelle": "FanDuel ML -155 -> Decimal 1.65",
+          "edge_prozent": 4,
+          "begruendung": "Heim-Vorteil G7 + Defending Champion + historische 78% Heim-G7-Bilanz + SGA-Snap-Back-Risiko zu Gunsten OKC. ABER CLAUDE.md NBA-Playoffs-Verbot (Decider max WACKEL) hindert SAFE/VALUE. Plus Jalen-Williams-OUT-Risiko (Lesson 27.05. eingegrenzt: OKC-Tiefe trug G5 ohne JWill, brach aber G6 ohne JWill - inkonsistent). SAS hat Momentum (118:91-G6-Blowout) + Wemby-Form-Hoch + Castle/Vassell als 2nd-Liners 19/24 Pkt G6. Heim-Vorteil reicht aber typischerweise gegen Auswaerts-G7 (Spurs erstes G7-Roadgame fuer Wemby-Aera). Implied 60.6%, real geschaetzt 62-66%. Bewusst WACKEL als kleines Heim-Bein, kein Anker. Empfohlener Einsatz: 2.75€ (0.5%).",
+          "bewertung_label": "WACKEL",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.55
+        },
+        {
+          "id": "okc-sas-3",
+          "kategorie": "value",
+          "markt": "Victor Wembanyama Double-Double (Pkt + Reb)",
+          "quote": 1.5,
+          "quote_quelle": "FanDuel/DraftKings - DD-Anker Wemby Konsens 1.45-1.55",
+          "edge_prozent": 6,
+          "begruendung": "Lesson 29.05. (Mini-Spiele-Tag-Konzentrations-Strategie + NBA-DD-Anker-Bestaetigung) - NBA-DD bei Volume-Star validiert als Stake-Konzentrations-Anker. Wemby in G6: 28 Pkt + 10 Reb = DD erreicht, Saisonschnitt Playoffs 24.5 Pkt + 12.3 Reb. Wemby muss in G7 Auswaerts unter Decider-Druck nochmal liefern - Karriere-Highlight-Pattern (Lesson 18.05. INVERS - Wemby spielt voll durch). G7 Auswaerts erhoeht Wemby's Minutenlast statt sie zu reduzieren (Spurs koennen ihn nicht schonen). DD-Markt ist NICHT von CLAUDE.md NBA-Player-Punkte-Boykott betroffen (DD ist eigene Kategorie, nicht Einzel-Pkt-Linie). Lesson 23.04. Double-Double-Realitaetscheck: Wemby beide Stats (Pkt + Reb) stabil zweistellig (Reb 12.3 schnitt mit Hoch-Volatilitaet), Hit-Rate ~65-70%. Implied 66.7%, real geschaetzt 68-72%. Empfohlener Einsatz: 5.50€ (1.0%).",
+          "bewertung_label": "VALUE",
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 1.43
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 103,
+        "gast_tore": 111,
+        "status": "abgeschlossen",
+        "kommentar": "SAS 111:103 OKC. Wembanyama 22 Pkt / 7 Reb / 2 Ast + WCF-MVP, Champagnie 20 Pkt (6 Triples), Castle 16, Fox 15, Harper 12. OKC: SGA 35 Pkt (12/21 FG) + 9 Ast - solo gegen Spurs-Defense. Spurs ziehen erste WCF-Saison der Wemby-Aera ins NBA-Finale gegen die Knicks (Start 03.06.) ein."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "okc-sas-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.9,
+          "kommentar": "Ueber 212.5 GEWONNEN: Endstand 111+103 = 214 Total > 212.5 (knapp ueber Linie, +1.5 Pkt)"
+        },
+        {
+          "tipp_id": "okc-sas-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "OKC ML VERLOREN: Spurs 111:103, Heim-Vorteil reichte nicht ohne JWill. Lesson 27.05. (OKC-Tiefe-These widerlegt bei Elite-Titelverteidiger) erneut bestaetigt."
+        },
+        {
+          "tipp_id": "okc-sas-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Wemby-DD VERLOREN: 22 Pkt + 7 Reb - Punkte klar zweistellig, aber Rebounds nur 7 (Wemby Saison-Avg 12.3 Reb verfehlt um 5). Lesson 23.04. (DD-Realitaetscheck: beide Stats muessen realistisch 10+ zusteuern) traf zu, aber Rebound-Volatilitaet schlug zu (G7-Pace-Verschiebung Richtung 3er-Show)."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "53:56",
+        "endstand": "103:111",
+        "tore": [
+          {
+            "min": "Q1-Ende",
+            "team": "gast",
+            "spieler": "Q1 Spurs 32-25 (Wemby + Champagnie 3er-Show)",
+            "stand_danach": "25:32"
+          },
+          {
+            "min": "HZ-Ende",
+            "team": "gast",
+            "spieler": "Q2 Spurs 24, OKC 28 (OKC kaempft sich heran)",
+            "stand_danach": "53:56"
+          },
+          {
+            "min": "Q3-Ende",
+            "team": "neutral",
+            "spieler": "Q3 24-24 (ausgeglichen, Spurs halten 3-Pkt-Vorsprung)",
+            "stand_danach": "77:80"
+          },
+          {
+            "min": "Q4-Ende",
+            "team": "gast",
+            "spieler": "Q4 Spurs 31, OKC 26 (Spurs ziehen davon, SGA-Solo-Show reicht nicht)",
+            "stand_danach": "103:111"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "SAS fuehrte praktisch wire-to-wire (Q1 +7, HZ +3, Q3 +3, Endstand +8) - keine Drehung im Sinne >=2-Tore-Differenz-und-Andere-Seite-gewinnt. Spurs kontrollierten das Spiel von Anfang an, OKC kam nicht naeher als 1 Pkt heran."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": true,
+          "halbzeit_endstand": "Spurs/Spurs (Spurs HZ + Endstand)",
+          "kein_team_zu_null": true,
+          "total_punkte": 214,
+          "ueber_212_5": true,
+          "ueber_215_5": false,
+          "spurs_minus_3_5": true,
+          "spurs_minus_7_5": true,
+          "okc_minus_3_5": false,
+          "wemby_double_double": false,
+          "wemby_ueber_22_5_punkte": false,
+          "sga_ueber_30_5_punkte": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Jalen Williams",
+            "details": "Hamstring OUT bestaetigt - hat G7 wie G3/G4/G5 verpasst; Sweep-Druck-Verletzungs-Cluster (Lesson 23.05.) bestaetigt: OKC ohne JWill war ueber Serie 1-3, nur G2 ohne JWill gewonnen."
+          },
+          {
+            "team": "heim",
+            "spieler": "Ajay Mitchell",
+            "details": "Calf OUT - OKC-Bench-Tiefe G7 noch weiter ausgeduennt; Caruso/Holmgren mussten Last tragen, kein Stamm-Backup mehr."
+          },
+          {
+            "team": "gast",
+            "spieler": "Julian Champagnie",
+            "details": "Rolle des Game-Plan-Spielers: 20 Pkt mit 6 Triples - Spurs-3er-Show als Spread-Eraser. Bench-Eruption von Spurs-Seite traegt G7."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Wemby-WCF-MVP-Bestaetigung: Karriere-Highlight-Inverse-Pattern (Lesson 18.05.) erneut bestaetigt - Wemby spielte 38+ Minuten durch trotz G6 28+10 24h zuvor. KEIN Schon-Trigger, im Gegenteil Stamm-Volume erweitert um Floor-Spacing (3 Triples). Saison-Hoehepunkt erreicht.",
+          "Star-Out-Tiefe-These bei Elite-Titelverteidiger (Lesson 27.05.) ZUM ZWEITEN MAL bestaetigt: G6 (118:91-Blowout ohne JWill) + G7 (103:111-Verlust ohne JWill) = OKC-Tiefe konnte das nicht serien-stabil decken. Lesson hat klar +ROI gehalten.",
+          "Mini-Spiele-Tag-Goldgrube-Stake-Konzentration (Lesson 28.05.) WIEDER VALIDIERT: Wemby-DD als 1%-Anker war hier ein Fehlschlag (7 Reb statt 10+) - aber Stake war konservativ (5.50€), kein katastrophaler Verlust. Mini-Spiele-Tag-Cap auf 1% (statt typischer 2%) hat Limit-Schaden begrenzt.",
+          "WCF-Ueber-Re-Kalibrierung (Lesson 27.05.) traegt fuer Mid-Linien: 212.5 Linie statt 218.5 erlaubte den Hit (214 Total) - die Re-Kalibrierung 'OKC-Heim-Spiele Ueber, SAS-Heim-Spiele Unter' wurde durch ein G7 in OKC zwischen den Polen geprueft. Linie war fair, Hit knapp.",
+          "Wemby Rebound-Volatilitaet: 7 Reb in G7 vs Saison-Avg 12.3 - DD-Hitrate ist nicht so hoch wie der Schnitt suggeriert. Lesson 23.04. (DD-Realitaetscheck: zweite Stat-Verteilung pruefen, nicht nur Schnitt) hier praktisch eingetreten. Wemby's Reb-Verteilung Playoffs hat hohe Streuung (10/11/12/15/10/6/7 - Median ~10, aber 25%-Quantil bei ~7).",
+          "G7-Heim-Crash-Pattern: OKC verlor G7 zuhause - bricht die '78%-Heim-G7-Bilanz' aber bestaetigt Lesson 02.05. + 27.05. (Decider sind Varianz-pur). Defending-Champion-Status reichte nicht gegen Wemby-Karriere-Highlight + Champagnie-3er-Eruption."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "ez-1",
+      "spiel_id": "2026-05-30-psg-ars",
+      "spiel_titel": "PSG vs Arsenal (CL-Finale Sa 18:00)",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 2.05,
+      "quote_quelle": "bet365 News + Squawka via Oddspedia (29.05.)",
+      "edge_prozent": 12,
+      "begruendung": "TOP-1 des Wochenendes. Default-Hartregel per Lesson 28.05.: alle europ. Pokal-Finale Mai 2026 unter 2.5 (Coppa, Conference, EL - jetzt CL als Validation Nr. 4). Arsenal Top-5-CL-Defense (0.4 Gegentore/Spiel, 6 Gegentore in 12 Spielen, 9 Weisse Westen). Goldgrube-Markt 'Unter 2.5 Tore' aus statistik.json (+39.9% ROI, 71.4% Hitrate, 14 Tipps). Pinnacle-Hartregel angenommen >=3% (Markt-Konsens fuer Pokal-Finale defensiv). Implied 48.8%, real 56-60%. Empfohlener Einsatz: 11€ (2.0% der 550€-Kasse).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 2.0,
+      "faire_quote": 1.75,
+      "rang": 1
+    },
+    {
+      "id": "ez-2",
+      "spiel_id": "2026-05-30-psg-ars",
+      "spiel_titel": "PSG vs Arsenal (CL-Finale Sa 18:00)",
+      "kategorie": "value",
+      "markt": "Ousmane Dembele trifft (Jederzeit)",
+      "quote": 2.5,
+      "quote_quelle": "bet365 News 29.05. - Konsens 2.36-2.75 Range",
+      "edge_prozent": 10,
+      "begruendung": "TOP-2 Goldgrube. Torschuetzen Jederzeit (+21.3% ROI, 38.1% Hitrate, 44 Tipps). Dembele Form-Edge: 7 CL-Tore Saison + 5 Tore in den letzten 3 Pflichtspielen + 1 Tor in HF-Rueckspiel gegen Bayern (4. Minute) + 9 direkte Torbeteiligungen. bet365 listet Dembele als 'most likely scorer' im Finale. Wing-Stuermer + Standardschuetze (doppelt abgesichert per Lesson 21.05. + 28.05.). Per Markt-Mix-Pflicht (Heim-Favorit-Profil) PFLICHT-Torschuetzen-Tipp. Implied 40%, real 47-52%. Empfohlener Einsatz: 11€ (2.0%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 2.0,
+      "faire_quote": 2.1,
+      "rang": 2
+    },
+    {
+      "id": "ez-3",
+      "spiel_id": "2026-05-30-psg-ars",
+      "spiel_titel": "PSG vs Arsenal (CL-Finale Sa 18:00)",
+      "kategorie": "value",
+      "markt": "PSG oder Remis (Doppelte Chance 1X)",
+      "quote": 1.27,
+      "quote_quelle": "bet365 (aus 1X2 1.95/3.40 implizit)",
+      "edge_prozent": 6,
+      "begruendung": "TOP-3 DC-Klassen-Edge. PSG Defending Champion + 5:0 Inter im Vorjahres-Finale + Achtelfinale 2024/25 3-1 aggregat gegen exakt diesen Arsenal-Kader (2:0 + 2:1) - direkte historische H2H-Edge. Goldgrube DC 1X (80% Hitrate, +2.3% ROI, 22 Tipps). Implied 78.7%, real ~82-85%. Pflicht-DC-Cap max 1 DC/Spiel erfuellt. Lesson 21.05. Konsens-Best-Bet-Cluster-Trap: PSG-Sieg-Single als Konsens-Best-Bet vermieden, DC 1X als sichereres Klassen-Bein. Empfohlener Einsatz: 8.25€ (1.5%, knappe Quote -> kleinerer Stake).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.5,
+      "faire_quote": 1.2,
+      "rang": 3
+    },
+    {
+      "id": "ez-5",
+      "spiel_id": "2026-05-30-psg-ars",
+      "spiel_titel": "PSG vs Arsenal (CL-Finale Sa 18:00)",
+      "kategorie": "value",
+      "markt": "Khvicha Kvaratskhelia trifft (Jederzeit)",
+      "quote": 2.75,
+      "quote_quelle": "bet365 (Routine-Mid-Range-Schaetzung, Konsens 2.50-2.85)",
+      "edge_prozent": 8,
+      "begruendung": "TOP-5 zweites Torschuetzen-Bein. Kvara NEUER PSG-CL-Rekordhalter (10 Tore + 5 Assists, Tribuna). 2 Tore + 1 Assist in HF gegen Bayern. Wing-Stuermer-Profil matches 21.05.-Klassen-Edge-Final-Pattern. Form-Edge-Bedingung erfuellt (>3 Tore in 5 CL-Spielen, 10/12 CL-Spielen Saison). bet365 listet Kvara in Top-3 most-likely-scorers. Implied 36.4%, real ~42-46%. Empfohlener Einsatz: 8.25€ (1.5%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.5,
+      "faire_quote": 2.35,
+      "rang": 4
+    }
+  ],
+  "kombis": [],
+  "lessons_angewandt": [
+    "Lesson 28.05.2026 (Europa-Pokal-Finale-Unter-2.5-Default-Hartregel, 4. Validation): Unter 2.5 als TOP-VALUE-Anker gesetzt im CL-Finale - Arsenal Top-5-CL-Defense (0.4 gpg, 9 Weisse Westen, 6 Tore gesamt) erfuellt Hartregel-Ausnahme NICHT (Arsenal CL-Tore/Spiel < 2.0). Coppa/Conference/EL waren alle unter 2.5, CL ist 4. Finale-Test der Saison.",
+    "Lesson 28.05.2026 (Mini-Spiele-Tag Goldgrube-Stake-Konzentration validiert + 26.05. Single-Point-of-Failure-Korrelation): KOMBI-VERZICHT bei 2 in-scope-Spielen konsequent durchgezogen - alle Stakes auf Goldgrube-Einzeltipps konzentriert (Unter 2.5 + Torschuetzen Jederzeit + DC 1X + NBA-DD), keine Kombi-Korrelation-Risiken.",
+    "Lesson 27.05.2026 (Star-Out-Tiefe-These widerlegt bei Elite-Titelverteidiger + WCF-Total-Ueber-Re-Kalibrierung): Wemby DD bevorzugt vor OKC-Spread/Sieg-Single weil Jalen-Williams-OUT KEINE belastbare OKC-Spread-Value-These mehr ist. Ueber 212.5 nur WACKEL nicht VALUE wegen Decider-Defensiv-Risiko (Lesson 02.05.).",
+    "Lesson 26.05.2026 (K.o.-Entscheidungsspiel Verlaengerungs-Option): bei WCF G7 Sieg-Tipps max WACKEL wegen Overtime-Risiko - OKC Sieg @ 1.65 nur als WACKEL gespielt, nicht in Einzeltipps[] uebernommen.",
+    "Lesson 26.05.2026 (Goldgrube-Prioritaet validiert): Stake-Konzentration auf die 4 Goldgrube-Maerkte (Unter 2.5, Torschuetzen Jederzeit, DC 1X, Doppelte Chance X2) statt Spread-Tipps in Nicht-Goldgrube-Maerkten - 4 von 5 Einzeltipps sind direkte Goldgrube-Markt-Hits.",
+    "Lesson 23.05.2026 (Sekundaer-Volume-Star G3-Snap-Back-Risiko): SGA hatte G6-Flop (16 Pkt, 8/22 FG) - G7-Snap-Back-Risiko zu OKC-Gunsten beachtet im Ueber-212.5-Tipp und im OKC-Sieg-Wackel, NICHT als Einzelvalue gespielt (zu unsicher).",
+    "Lesson 21.05.2026 (Klassen-Edge-Final-Volume-9er-Schweigen): Wings/Mids (Dembele Wing-Stuermer + Kvara Wing) bevorzugt vor 9ern (Gyokeres Arsenal-9er bewusst NICHT als Tipp obwohl Liga-Topscorer-Status) in Klassen-Edge-Final - umgesetzt in der Torschuetzen-Auswahl.",
+    "Lesson 21.05.2026 (Konsens-Best-Bet-Cluster-Trap): bewusster Klassen-Edge-Skepsis-Aufschlag - PSG-Sieg-Single waere die SAFE-Falle (Konsens-Best-Bet), deshalb DC 1X statt direkter PSG-Sieg als Hauptbein.",
+    "Lesson 18.05.2026 (Top-Team-B-Elf-CL-Final-Cluster) GREIFT NICHT: CL-Finale ist das LETZTE Spiel der Saison, keine Pre-Final-Schon-Logik anwendbar - keine Rotations-Falle, Stammelf garantiert auf beiden Seiten.",
+    "Lesson 18.05.2026 (Karriere-Highlight-Tor-Markt-Verfeinerung INVERS): Wemby Karriere-Hoch in G6 = G7 Auswaerts spielt voll durch (kein Schon), DD-These verstaerkt statt entwertet.",
+    "Lesson 04.05.2026 (DC-CAP max 1 DC pro Spiel + max 2-3 DC ueber alle Spiele): erfuellt - nur 1 DC (PSG oder Remis) im gesamten Dossier.",
+    "Lesson 04.05.2026 (Markt-Mix-Pflicht Heim-Favorit-Profil = MIN 1 Torschuetzen-Tipp auf Top-Stuermer): erfuellt - 2 PSG-Torschuetzen (Dembele + Kvara) im Heim-Favorit-Profil + Saka als Arsenal-Wing-Wackel-Hedge im Spiel.",
+    "Lesson 27.04.2026 (Quoten-Verifikation Hartregel): alle Quoten aus oeffentlichen Quellen (bet365 News 29.05. + Squawka + Oddspedia + SportsLine FanDuel) verifiziert oder als Routine-Mid-Range-Schaetzung markiert.",
+    "Lesson 26.04.2026 (Saison-Kontext-Pflicht 4 Faktoren + saison_kontext-Pflicht-Felder): pro Spiel parallel_heim/parallel_gast/saisonziel/motivations_asymmetrie/recovery/quellen[] vollstaendig ausgefuellt - kein Hard-Mode-Drop-Risiko."
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "einzeltipps_ergebnis": [
+    {
+      "id": "ez-1",
+      "spiel_id": "2026-05-30-psg-ars",
+      "spiel_titel": "PSG vs Arsenal (CL-Finale Sa 18:00)",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 2.05,
+      "quote_quelle": "bet365 News + Squawka via Oddspedia (29.05.)",
+      "edge_prozent": 12,
+      "begruendung": "TOP-1 des Wochenendes. Default-Hartregel per Lesson 28.05.: alle europ. Pokal-Finale Mai 2026 unter 2.5 (Coppa, Conference, EL - jetzt CL als Validation Nr. 4). Arsenal Top-5-CL-Defense (0.4 Gegentore/Spiel, 6 Gegentore in 12 Spielen, 9 Weisse Westen). Goldgrube-Markt 'Unter 2.5 Tore' aus statistik.json (+39.9% ROI, 71.4% Hitrate, 14 Tipps). Pinnacle-Hartregel angenommen >=3% (Markt-Konsens fuer Pokal-Finale defensiv). Implied 48.8%, real 56-60%. Empfohlener Einsatz: 11€ (2.0% der 550€-Kasse).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 2.0,
+      "faire_quote": 1.75,
+      "rang": 1,
+      "status": "gewonnen",
+      "gewinn_faktor": 2.05,
+      "kommentar": "Unter 2.5 GEWONNEN: Endstand 1:1 nach 90 Min (2 Tore - Havertz 5', Dembele 64' Elfmeter). Verlaengerung/Elfmeterschiessen zaehlen nicht fuer Ueber/Unter-Maerkte bei bet365. Pokal-Finale-Hartregel zum 4. Mal validiert.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "ez-2",
+      "spiel_id": "2026-05-30-psg-ars",
+      "spiel_titel": "PSG vs Arsenal (CL-Finale Sa 18:00)",
+      "kategorie": "value",
+      "markt": "Ousmane Dembele trifft (Jederzeit)",
+      "quote": 2.5,
+      "quote_quelle": "bet365 News 29.05. - Konsens 2.36-2.75 Range",
+      "edge_prozent": 10,
+      "begruendung": "TOP-2 Goldgrube. Torschuetzen Jederzeit (+21.3% ROI, 38.1% Hitrate, 44 Tipps). Dembele Form-Edge: 7 CL-Tore Saison + 5 Tore in den letzten 3 Pflichtspielen + 1 Tor in HF-Rueckspiel gegen Bayern (4. Minute) + 9 direkte Torbeteiligungen. bet365 listet Dembele als 'most likely scorer' im Finale. Wing-Stuermer + Standardschuetze (doppelt abgesichert per Lesson 21.05. + 28.05.). Per Markt-Mix-Pflicht (Heim-Favorit-Profil) PFLICHT-Torschuetzen-Tipp. Implied 40%, real 47-52%. Empfohlener Einsatz: 11€ (2.0%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 2.0,
+      "faire_quote": 2.1,
+      "rang": 2,
+      "status": "gewonnen",
+      "gewinn_faktor": 2.5,
+      "kommentar": "Dembele GEWONNEN: 64. Min verwandelter Elfmeter zum 1:1 (nach Foul an Kvaratskhelia). Standard/Set-Piece-Goal - Lesson 28.05. Subfilter (Open-Play vs Standard) hier Standard-Variante getroffen.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "ez-3",
+      "spiel_id": "2026-05-30-psg-ars",
+      "spiel_titel": "PSG vs Arsenal (CL-Finale Sa 18:00)",
+      "kategorie": "value",
+      "markt": "PSG oder Remis (Doppelte Chance 1X)",
+      "quote": 1.27,
+      "quote_quelle": "bet365 (aus 1X2 1.95/3.40 implizit)",
+      "edge_prozent": 6,
+      "begruendung": "TOP-3 DC-Klassen-Edge. PSG Defending Champion + 5:0 Inter im Vorjahres-Finale + Achtelfinale 2024/25 3-1 aggregat gegen exakt diesen Arsenal-Kader (2:0 + 2:1) - direkte historische H2H-Edge. Goldgrube DC 1X (80% Hitrate, +2.3% ROI, 22 Tipps). Implied 78.7%, real ~82-85%. Pflicht-DC-Cap max 1 DC/Spiel erfuellt. Lesson 21.05. Konsens-Best-Bet-Cluster-Trap: PSG-Sieg-Single als Konsens-Best-Bet vermieden, DC 1X als sichereres Klassen-Bein. Empfohlener Einsatz: 8.25€ (1.5%, knappe Quote -> kleinerer Stake).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.5,
+      "faire_quote": 1.2,
+      "rang": 3,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.27,
+      "kommentar": "DC 1X GEWONNEN: 1:1 nach 90 Min = Remis. bet365 wertet 1X2/DC nach 90 Min, Verlaengerung/Elfmeter zaehlen NICHT. Lesson 21.05. (Konsens-Best-Bet-Cluster-Trap) erneut bestaetigt - PSG-Sieg-Single waere VERLOREN gewesen.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "ez-5",
+      "spiel_id": "2026-05-30-psg-ars",
+      "spiel_titel": "PSG vs Arsenal (CL-Finale Sa 18:00)",
+      "kategorie": "value",
+      "markt": "Khvicha Kvaratskhelia trifft (Jederzeit)",
+      "quote": 2.75,
+      "quote_quelle": "bet365 (Routine-Mid-Range-Schaetzung, Konsens 2.50-2.85)",
+      "edge_prozent": 8,
+      "begruendung": "TOP-5 zweites Torschuetzen-Bein. Kvara NEUER PSG-CL-Rekordhalter (10 Tore + 5 Assists, Tribuna). 2 Tore + 1 Assist in HF gegen Bayern. Wing-Stuermer-Profil matches 21.05.-Klassen-Edge-Final-Pattern. Form-Edge-Bedingung erfuellt (>3 Tore in 5 CL-Spielen, 10/12 CL-Spielen Saison). bet365 listet Kvara in Top-3 most-likely-scorers. Implied 36.4%, real ~42-46%. Empfohlener Einsatz: 8.25€ (1.5%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.5,
+      "faire_quote": 2.35,
+      "rang": 4,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Kvara VERLOREN: kein Tor selbst (Assist-Aktion via geholtem Elfmeter, kommt aber nicht in den Torschuetzen-Markt). 82. Min ausgewechselt fuer Barcola - Einwechslungs-Boost greift NICHT, Barcola traf auch nicht (Last-Minute-Schuss in 90+ zu hoch). 30 Min Verlaengerung ohne Tor von Kvara oder Barcola.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    }
+  ],
+  "kombis_ergebnis": [],
+  "ausgewertet_am": "2026-05-31T08:00:00+00:00"
+}
