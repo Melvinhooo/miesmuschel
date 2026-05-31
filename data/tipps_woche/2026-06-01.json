@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS_WOCHE = {
+{
   "datum": "2026-06-01",
   "erstellt_am": "2026-05-31T18:00:00+02:00",
   "hinweis": "Wochen-Vorschau Mo 01.06. bis So 07.06.2026 - SAISON-PAUSE-WOCHE. Alle europaeischen Top-5-Ligen abgeschlossen (Bundesliga MD34 17.05., 2.BL durch, Premier League 24.05., LaLiga + Serie A 23./24.05., Ligue 1 Anfang Mai). Alle Pokal-Finals durch. Alle UEFA-Finals durch (CL 30.05. PSG i.E. 4:3 Arsenal, EL 20.05. Aston Villa 0:3 Freiburg, Conference 27.05. Crystal Palace 1:0 Rayo). UEFA-Saison startet erst am 22.08.2026 wieder. Einzige In-Scope-Events der Woche: NBA-FINALS 2026 Spurs vs Knicks - G1 Mi 03.06. 8:30pm ET (Berlin Do 04.06. 02:30) + G2 Fr 05.06. 8:30pm ET (Berlin Sa 06.06. 02:30), beide im Frost Bank Center San Antonio. G3+G4 fallen schon ausserhalb der Woche (Mo 08.06. + Mi 10.06.). Mini-Spiele-Tag-Cap (Lessons 19./21./26./28./29.05.) GREIFT: bei 2 In-Scope-Spielen KEINE Kombis - Korrelations-Single-Point-of-Failure-Risiko vs Konzentrations-Stake auf Einzeltipps. Keine NBA-Playoff-SAFE (Mapper-Hebel B). Player-Punkte/DD/TD geboykottet aus Einzeltipps seit 26.04. (HR16). Quoten 6 Tage vor G1 / 8 Tage vor G2 volatil - SAFE-Verbot ohnehin durchgesetzt. Best-of-Charakter: lieber 2-3 saubere Knicks-G1-Picks als 8 Tipps mit erfundener Edge auf G2. Kasse 550 EUR Stufe 1, 1.0-1.5% pro Tipp = 5.50-8.25 EUR.",
@@ -205,4 +204,4 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
     }
   ],
   "footer": "18+ - bet365 DE - Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
-};
+}
