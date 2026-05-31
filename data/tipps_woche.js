@@ -36,45 +36,9 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
         "Playoff-Scoring-Trend 2026: -8.3 PPG pro Team vs. Regular Season (3.-groesster Drop NBA-History). Finals-Spiele oft tor-aermer als Regular-Season-Duelle (Defense-Adjustments + Half-Court-Druck).",
         "Lesson 26.04. + 27.04. HR16 weiter aktiv: NBA-Playoff-Player-Punkte/DD/TD KEIN Einzeltipp-Markt. Wemby-Volatility (G1 41 / G2 21 / G3 26 in WCF) zeigt Snap-Back-Risiko."
       ],
-      "tipps": [
-        {
-          "id": "sas-nyk-g1-1",
-          "kategorie": "value",
-          "markt": "New York Knicks +4.5 (Spread)",
-          "prognose": "Knicks decken den Spread, halten G1 knapp oder gewinnen direkt",
-          "quote": 1.91,
-          "edge_prozent": 5.0,
-          "faire_quote": 1.82,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 8.25,
-          "begruendung": "Recovery-Asymmetrie (Spurs 3d nach G7 / Knicks 10d) + Form-Edge (11-game-Streak +23.8 PPG) + H2H 2:1 Knicks in der Regular Season + Brunson-Wizard-These der Spurs-Defense (ESPN/CBS). Markt-Goldgrube-Daten (DC X2 / +17.9% ROI) nicht direkt anwendbar, aber Auswaerts-Spread auf den frischeren Underdog ist klassische Saison-Kontext-Lesson (29.05. Mini-Spiele-Tag-Konzentration). Knicks-Cover-Range 0-4 Pts + Direkt-Sieg = ~58% kombinierte Wahrscheinlichkeit, faire Quote ~1.72-1.78. KEIN SAFE (Mapper-Hebel B, NBA-Playoffs nie SAFE). Stake 1.5% x 550 EUR = 8.25 EUR. Quote bei bet365 live pruefen."
-        },
-        {
-          "id": "sas-nyk-g1-2",
-          "kategorie": "value",
-          "markt": "Unter 217.5 Punkte",
-          "prognose": "Tor-armer Finals-Auftakt - beide Teams gehen vorsichtiger ins Spiel",
-          "quote": 1.91,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.83,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 8.25,
-          "begruendung": "Markt-Goldgrube Unter 2.5 (Fussball-Aequivalent fuer 'tor-armes Spiel') 71.4% Hitrate / +39.9% ROI - das Pattern uebertraegt sich auf NBA-Defense-Schlachten. Spurs hatten Lessons-Probleme bei NBA-Ueber-Linien (Lesson 02.05. Defensiv-Schlachten in Decidern) - hier zwar G1 nicht Decider, aber 1. Finals-Spiel laeuft historisch defensiver (Tape-Studieren). Wembanyama als DPOY + Spurs-Castle/Harper-Wing-Defense schraenken Brunson-Drives ein, gleichzeitig Knicks-Towns/Mitchell schliessen den Korb. Playoff-Scoring-Drop 2026 = -8.3 PPG (Ringer-Stat). H2H letztes Spiel 01.03. = 203 Total (deutlich unter 217.5). Lesson 02.05. eingeschraenkt: bei Linie < 219 in Defensiv-Spielen ist Unter-Edge schwer - aber das war fuer Sweep-Druck-Decider, nicht Finals-Auftakt. Stake 1.5% = 8.25 EUR. bet365 live pruefen."
-        },
-        {
-          "id": "sas-nyk-g1-3",
-          "kategorie": "wackel",
-          "markt": "New York Knicks Sieg (Moneyline)",
-          "prognose": "Knicks gewinnen direkt in San Antonio",
-          "quote": 2.54,
-          "edge_prozent": 3.0,
-          "faire_quote": 2.43,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 2.75,
-          "begruendung": "Wackel-Variante des Cover-Tipps - Knicks-Direkt-Sieg ist die aggressivere Form. Recovery-Edge + 11-Game-Streak + Brunson vs Spurs-Defense + Towns-Inside-Threat = ~42% Wahrscheinlichkeit (Markt-implizit ~39%). Bewusst Wackel statt Value, weil das Spiel im Frost Bank Center (Heimvorteil + Crowd) stattfindet und Wembanyama bei Snap-Back-Pattern (Lesson 29.05.) immer fuer ein Karriere-Spiel gut ist. NBA-Playoffs nie SAFE (Mapper-Hebel B). Stake 0.5% = 2.75 EUR. bet365 live pruefen."
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-06-06-sas-nyk-finals-g2",
@@ -104,68 +68,12 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
         "Adjustment-Spiel-Pattern: G2 in Finals-Serien oft 5-10 Pkt unter G1-Total (Defense-Studie + Game-Plan-Anpassung).",
         "Beobachtungs-Liga NBA Round 1 G6 trifft hier nicht zu - das ist Finals G2 (eigene Kategorie, kein Bluter-Eintrag)."
       ],
-      "tipps": [
-        {
-          "id": "sas-nyk-g2-1",
-          "kategorie": "wackel",
-          "markt": "Unter 217.5 Punkte",
-          "prognose": "G2-Adjustment-Spiel laeuft tor-aermer als G1",
-          "quote": 1.91,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.85,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 2.75,
-          "begruendung": "Wackel-Variante (Quote noch '~', 6 Tage vor Spiel): G2-Adjustment-Spiele in Finals laufen historisch defensiver als G1 (Tape-Studieren beider Coaching-Staffs). Goldgrube Unter 2.5 als Markt-Pattern-Anker, NBA-Total-Daten der Finals-Round 2026 noch nicht verfuegbar. KEIN SAFE/VALUE wegen Quoten-Volatilitaet + NBA-Playoffs-SAFE-Verbot (Mapper-Hebel B) + Liga ohne Goldgrube-Status. Stake 0.5% = 2.75 EUR. UNBEDINGT vor G2 noch via bet365 + Aggregator-Verifikation pruefen, ggf. ueberspringen falls Linie sich deutlich ueber 220 schiebt oder Verletzungs-News reinkommt."
-        }
-      ],
+      "tipps": [],
       "kontext_check_status": "OK",
       "_recherche_fehlt": true
     }
   ],
-  "einzeltipps": [
-    {
-      "id": "et-1",
-      "spiel_id": "2026-06-04-sas-nyk-finals-g1",
-      "tipp_id": "sas-nyk-g1-1",
-      "kategorie": "value",
-      "markt": "Spurs - Knicks G1: New York Knicks +4.5 (Spread)",
-      "quote": 1.91,
-      "edge_prozent": 5.0,
-      "begruendung": "Recovery-Asymmetrie (Spurs 3d nach G7 / Knicks 10d Rest) + 11-Game-Playoff-Streak Knicks + H2H 2:1 Regular Season Knicks (letztes Spiel 114:89 Demolition) + Brunson-vs-Spurs-Defense-Wizard-Quote (ESPN). KEIN SAFE (HR Mapper-Hebel B). Stake 1.5% x 550 EUR = 8.25 EUR. bet365 live pruefen.",
-      "einsatz_euro": 8.25,
-      "einsatz_prozent_kasse": 1.5,
-      "empfohlener_einsatz_prozent": 1.5,
-      "rang": 1
-    },
-    {
-      "id": "et-2",
-      "spiel_id": "2026-06-04-sas-nyk-finals-g1",
-      "tipp_id": "sas-nyk-g1-2",
-      "kategorie": "value",
-      "markt": "Spurs - Knicks G1: Unter 217.5 Punkte",
-      "quote": 1.91,
-      "edge_prozent": 4.0,
-      "begruendung": "Playoff-Scoring -8.3 PPG 2026 (Ringer-Stat) + Finals-G1 historisch defensiv + Wemby-DPOY + H2H 01.03. = 203 Total. Markt-Goldgrube-Unter-Pattern uebertragbar (Unter 2.5 Fussball: 71% / +40%). KEIN SAFE (NBA-Playoffs nie SAFE). Stake 1.5% = 8.25 EUR. bet365 live pruefen.",
-      "einsatz_euro": 8.25,
-      "einsatz_prozent_kasse": 1.5,
-      "empfohlener_einsatz_prozent": 1.5,
-      "rang": 2
-    },
-    {
-      "id": "et-3",
-      "spiel_id": "2026-06-04-sas-nyk-finals-g1",
-      "tipp_id": "sas-nyk-g1-3",
-      "kategorie": "wackel",
-      "markt": "Spurs - Knicks G1: New York Knicks Sieg (Moneyline)",
-      "quote": 2.54,
-      "edge_prozent": 3.0,
-      "begruendung": "Aggressive Variante des Cover-Tipps. Recovery + Form + H2H sprechen fuer direkten Knicks-Sieg. Wackel-Stake 0.5% wegen Heimvorteil + Wemby-Snap-Back-Risiko (Lesson 29.05.). Stake 2.75 EUR. bet365 live pruefen.",
-      "einsatz_euro": 2.75,
-      "einsatz_prozent_kasse": 0.5,
-      "empfohlener_einsatz_prozent": 0.5,
-      "rang": 3
-    }
-  ],
+  "einzeltipps": [],
   "kombis": [],
   "lessons_angewandt": [
     {
