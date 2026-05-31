@@ -1,0 +1,75 @@
+{
+  "datum": "2026-05-31",
+  "erstellt_am": "2026-05-31T05:30:00+00:00",
+  "modus": "tag",
+  "hinweis": "Recherche-Daten Sonntag 31.05.2026 (Sa-So-Variante, Wochenende-Tag-2, Pre-Tipps-Datenbasis fuer Tipps-Slot 10:00 Berlin; Recherche-Cloud-Routine). SAISONENDE-LEERSCHLAG-SONNTAG - HEUTE 0 SPIELE IM CLAUDE.md-SCOPE. VOLLSTAENDIGKEITS-CHECK (Lesson Liga-Luecke 26.04/25.05 + Lesson Empty-Slate 28.05/29.05): football-data.org am 31.05 live abgefragt -> 0 In-Scope-Spiele am 31.05 (BL1 count=0, PL count=0, PD count=0, SA count=0, FL1 count=0, CL count=0; EL HTTP-403 Free-Tier nicht abrufbar - aber bereits 20.05 beendet). Global-Endpoint /v4/matches am 31.05 zeigt 5 Spiele - alle Brasileirao Serie A (BSA: RB Bragantino-Internacional, Palmeiras-Chapecoense, Vasco-Mineiro, Remo-Sao Paulo, Cruzeiro-Fluminense) -> ALLE AUSSERHALB CLAUDE.md-SCOPE (CLAUDE.md erlaubt nur BL/PL/LaLiga/Serie A/DFB-Pokal/CL/Coppa Italia + NBA). balldontlie.io abgefragt fuer 31.05 + 01.06 -> 0 NBA-Spiele. ===== ABGESCHLOSSENE SAISON-EVENTS DIESES SAISONENDES (bestaetigt via WebSearch/ESPN/CBS/CNN): (1) UEFA Champions League Final 30.05 PSG 1-1 Arsenal n.V., Elfmeterschiessen 4-3 PSG (CNN/CBS Sports - PSG retains title back-to-back). Havertz 6. Min 0:1 fuer Arsenal, Dembele Elfmeter 64. Min 1:1 (Mosquera-Foul Kvaratskhelia), Gabriel verschiesst entscheidenden 5. Penalty. (2) NBA Western Conference Finals Spiel 7 30.05 (US-Date, 02:00 Berlin 31.05): San Antonio Spurs 111 - 103 Oklahoma City Thunder. Spurs gewinnen Serie 4-3 in OKC (via balldontlie.io v1: visitor_team_score=111, home_team_score=103; visitor=Spurs, home=Thunder; period=4 Final, postseason=True; Q-Splits SAS 32-24-24-31 / OKC 25-28-24-26). SAS ist seit Wembanyama-Aera erstmals im NBA-Finale (erstes Finale seit 2014, Duncan-Aera-Ende). (3) Alle 5 Top-Ligen-Saisons abgeschlossen 17.-25.05.: Bundesliga 17.05, PL 24.05, LaLiga 25.05, Serie A 25.05, Ligue 1 17.05. (4) Domestic Cup Finals: DFB-Pokal 23.05 Bayern-Stuttgart, FA-Cup 16.05 Chelsea-Man City, Coppa-Italia 13.05 Lazio-Inter, Coupe-de-France 17.05 Lens-Nice 3:1. (5) Conference League Final 27.05 Crystal Palace 2:1 Rayo Vallecano. ===== NAECHSTES IN-SCOPE-EVENT: NBA-Finals Spiel 1 SAS vs NYK am Mi 03.06 in San Antonio (=  04.06 02:30 Berlin auf ABC). Knicks bereits seit 28.05 im NBA-Finale via ECF-Sweep 4-0 gegen Cavaliers. Spurs jetzt durch G7-Sieg dabei. Damit FINAL-MATCHUP-SET: SAS @ NYK NBA-Finals 2026 startet Di 03.06 ECT (= 04.06 Berlin). ===== REGEL-ANWENDBARKEIT HEUTE: 2:0-Insurance-Regel gilt NUR fuer BL+CL -> heute NICHT anwendbar (kein In-Scope-Fussball-Spiel). Einwechslungs-Boost-Regel gilt fuer Fussball-Torschuetzen-Maerkte -> heute NICHT anwendbar. NBA-Markt-Whitelist (Moneyline, Spread, U/O, Spieler-Punkte, Double-Double, Triple-Double, Meiste-Punkte) nicht relevant heute (kein NBA-Spiel). ===== Kasse-Stand 04.05.2026: 550 EUR -> Stufe 1 (Aufbau-Phase) aktiv (Kasse < 1000 EUR), konservative Einsaetze. Aktuelle Markt-Bluter laut data/markt_bluter.json beachten (greifen heute nicht, da keine Tipps moeglich). Aktuelle Goldgruben: Doppelte Chance 1X (84.6% / +9.5%), Doppelte Chance X2 (77.8% / +9.4%), Unter 2.5 Tore (66.7% / +27.5%), Torschuetzen Jederzeit (50% / +24.4%) - greifen heute nicht. ===== EMPFEHLUNG AN TIPPS-ROUTINE 10:00: keine Tipps generieren - empty-slate-Hinweis im Dossier mit Verweis auf NBA-Finals-Start Mi 03.06 (Berlin 04.06 02:30). User kann sich heute ausruhen und bereitet sich auf NBA-Finals-Serie SAS vs NYK vor (Knicks zum ersten Mal seit 1999 im Finale, Spurs zum ersten Mal seit 2014). Bundesliga-Saison-Auftakt 2026-27 erst 28.08.2026 - Sommerpause im Fussball. NIE Spielernamen erfunden (keine Squad-Lookups da kein Spiel). POSITION-Genauigkeit beachtet (Hojlund-Bug-Schutz, greift heute nicht). ===== HISTORISCHER KONTEXT FUER TIPPS-ROUTINE: Saison 2025-26 endet komplett mit CL-Final-PSG-Wiederholung + Spurs-Wembanyama-Comeback-Story. Naechster Tipps-Slot mit echten Spielen: Mi 03.06 / Do 04.06 NBA-Finals G1, dann nur noch NBA bis Mitte Juni; Internationale Friendlies (EM-Quali/WM-Quali) ggf ab Anfang Juni - aber NICHT in CLAUDE.md-Scope.",
+  "spiele": [],
+  "leerschlag_metadata": {
+    "geprueft_apis": [
+      {"api": "football-data.org v4 /v4/matches", "datum": "2026-05-31", "treffer_gesamt": 5, "treffer_in_scope": 0, "treffer_detail": "5 Spiele Brasileirao Serie A (BSA) - ALLE ausserhalb CLAUDE.md-Scope. RB Bragantino-Internacional (14:00 UTC), Palmeiras-Chapecoense (19:00 UTC), Vasco-Mineiro (19:00 UTC), Remo-Sao Paulo (23:30 UTC), Cruzeiro-Fluminense (23:30 UTC)"},
+      {"api": "football-data.org v4 BL1", "datum": "2026-05-31", "treffer": 0, "status": "Saison 2025-26 beendet 17.05.2026"},
+      {"api": "football-data.org v4 PL", "datum": "2026-05-31", "treffer": 0, "status": "Saison 2025-26 beendet 24.05.2026"},
+      {"api": "football-data.org v4 PD", "datum": "2026-05-31", "treffer": 0, "status": "Saison 2025-26 beendet 25.05.2026"},
+      {"api": "football-data.org v4 SA", "datum": "2026-05-31", "treffer": 0, "status": "Saison 2025-26 beendet 25.05.2026"},
+      {"api": "football-data.org v4 FL1", "datum": "2026-05-31", "treffer": 0, "status": "Saison 2025-26 beendet 17.05.2026"},
+      {"api": "football-data.org v4 CL", "datum": "2026-05-31", "treffer": 0, "status": "CL-Final war 30.05 (gestern), Saison abgeschlossen"},
+      {"api": "balldontlie.io v1", "datum": ["2026-05-31", "2026-06-01"], "treffer": 0, "treffer_detail": "Keine NBA-Spiele. NBA-Finals G1 startet erst Mi 03.06 (= 04.06 02:30 Berlin)"}
+    ],
+    "abgeschlossene_top_events_dieses_wochenendes": [
+      {
+        "event": "UEFA Champions League Final 2026",
+        "datum": "2026-05-30",
+        "match": "PSG 1-1 Arsenal n.V., 4-3 i.E.",
+        "ort": "Puskas Arena, Budapest",
+        "key_facts": "PSG verteidigt Titel als erst zweiter Klub der CL-Aera (nach Real 2017+2018). Havertz 6. fuer Arsenal, Dembele 64. Elfer fuer PSG. Gabriel verschiesst entscheidenden 5. Penalty.",
+        "quellen": [
+          "https://www.cnn.com/2026/05/30/sport/live-news/arsenal-psg-champions-league-final-score",
+          "https://www.cbssports.com/soccer/news/psg-arsenal-live-updates-champions-league-final-2026-score/live/",
+          "https://www.espn.com/soccer/match/_/gameId/401862897/arsenal-paris-saint-germain"
+        ]
+      },
+      {
+        "event": "NBA Western Conference Finals Spiel 7",
+        "datum": "2026-05-30 (US-Date) / 2026-05-31 02:00 Berlin",
+        "match": "San Antonio Spurs 111 - 103 Oklahoma City Thunder",
+        "ort": "Paycom Center, Oklahoma City",
+        "key_facts": "Spurs gewinnen Serie 4-3. Erste Finals-Teilnahme fuer Wembanyama; erste Spurs-Finals seit 2014. SAS Q-Splits 32-24-24-31 / OKC 25-28-24-26 - Spurs Start- und End-Quartal entscheidend.",
+        "quellen": [
+          "https://www.cbssports.com/nba/news/thunder-spurs-score-game-7-live-updates/live/",
+          "https://www.nba.com/playoffs/2026/west-final",
+          "https://api.balldontlie.io/v1/games?dates[]=2026-05-30"
+        ]
+      }
+    ],
+    "naechstes_relevantes_in_scope_spiel": {
+      "datum": "2026-06-03 (US-ECT) / 2026-06-04 02:30 Berlin",
+      "events": [
+        {
+          "wettbewerb": "NBA Finals Spiel 1",
+          "match": "San Antonio Spurs @ New York Knicks",
+          "ort": "Madison Square Garden, New York (Knicks-Heimrecht als bessere Regular-Season-Bilanz)",
+          "anstoss_us_zeit": "8:30 PM ET Mi 03.06.2026",
+          "anstoss_berlin": "ca. 02:30 Berlin Do 04.06.2026",
+          "uebertragung_us": "ABC",
+          "hinweis": "Knicks erstmals seit 1999 in NBA-Finals (ECF-Sweep gegen Cavaliers 28.05). Spurs erstmals seit 2014. Wembanyama Finals-Debuet.",
+          "quelle": "https://www.cbssports.com/nba/news/thunder-spurs-score-game-7-live-updates/live/"
+        }
+      ]
+    },
+    "ausserhalb_scope_aber_geprueft": [
+      "Brasileirao Serie A 5 Spiele 31.05 (nicht in CLAUDE.md-Scope - nur europ. Top-5 + DFB-Pokal + Coppa Italia + CL)",
+      "2.Bundesliga / Promotion-Playoffs (nicht in CLAUDE.md-Scope - nur 1.BL)",
+      "Frauen-Bundesliga (nicht in CLAUDE.md-Scope)",
+      "EM-Quali / WM-Quali / Internationale Friendlies (nicht in CLAUDE.md-Scope)",
+      "WNBA (nicht in CLAUDE.md-Scope - nur NBA)",
+      "MLS (nicht in CLAUDE.md-Scope)",
+      "Bundesliga 2026-27 Saison-Auftakt erst 28.08.2026 - Sommerpause"
+    ],
+    "hinweis_an_tipps_routine": "Empty-Slate-Tag (zweiter in Folge nach 29.05). Erwartet wird Dossier mit `spiele: []` und Markdown-Hinweis 'Heute keine In-Scope-Spiele - naechster Slate Mi/Do 03.-04.06 NBA-Finals G1 SAS @ NYK'. Keine Tipps generieren. Routine darf trotzdem das Datums-File schreiben damit Pipeline-History sauber bleibt. Sommerpause beginnt - bis NBA-Finals-Ende (Mitte Juni) gibt es nur NBA-Tipps-Moeglichkeiten."
+  },
+  "footer": {
+    "rechtlich": "18+ - bet365 DE - Hobby-Wetten - keine Einkommensquelle",
+    "spielerschutz": "BZgA: 0800 1372700",
+    "quelle_recherche": "football-data.org v4 (Free Tier, API-Key in .github/scripts/subagent_prompts/recherche_routine.md), balldontlie.io v1 (Free), WebSearch 31.05.2026 (CNN/CBS Sports/ESPN/NBA.com/UEFA.com)"
+  }
+}
