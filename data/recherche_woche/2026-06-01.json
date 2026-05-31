@@ -1,0 +1,1156 @@
+{
+  "datum": "2026-06-01",
+  "erstellt_am": "2026-05-31T17:50:00+02:00",
+  "modus": "woche",
+  "anker_montag": "2026-06-01",
+  "fenster": {
+    "von": "2026-06-01",
+    "bis": "2026-06-07"
+  },
+  "hinweis": "Wochen-Vorschau Mo 01.06. - So 07.06.2026 (Anker = Mo). DIE WM-VORBEREITUNGS-WOCHE: alle europaeischen Top-Ligen sind seit 16.-24.05. durch, DFB-Pokal-Finale war 23.05., UEFA-Conference-League-Finale Crystal Palace-Rayo Vallecano am 27.05. und UEFA-CL-Finale PSG-Arsenal am 30.05. abgeschlossen. WM 2026 (USA/Kanada/Mexiko) startet erst am 11.06. -> diese Woche ist Final-Vorbereitung mit dichtem Friendly-Programm + NBA-Finals-Start. KEIN deutscher Klub-Fussball, kein Vereins-Wettbewerb. WICHTIGSTE TERMINE: (A) NBA-FINALS GAME 1 Mi 03.06. (ca. 02:30 MESZ Do): New York Knicks at San Antonio Spurs (Frost Bank Center San Antonio, ABC). Spurs eroeffneten -210 als Series-Favorit (Knicks +170), Game-1-Spread Spurs -4.5, Total 217.5 (DraftKings open, bet365 +170 Knicks bestaetigt). KNICKS sind ECF nach 4-0-Sweep ueber Cleveland eingezogen (erstes Finale seit 1999, 11 Playoff-Siege in Folge im Schnitt +23.8 Pkt), SPURS schalteten OKC im WCF in 7 Spielen aus (G7 SAS 111:103). Wembanyama WCF-Stats 28.2/11.5/3.0Blk, ist Finals-MVP-Favorit -175. (B) NBA-FINALS GAME 2 Fr 05.06. (ca. 02:30 MESZ Sa): NYK at SAS. (C) WM-GENERALPROBE DFB Sa 06.06. 20:30 MESZ: USA vs Deutschland im Soldier Field Chicago (Kapazitaet ~61.500, Sold-Out laut US-Verband). Bundestrainer Nagelsmann fliegt mit DFB-Tross Di 02.06. von Frankfurt nach Chicago (1-Wochen-Trainingscamp ab 02.06., dann Quartier in Winston-Salem NC). USA-Coach Pochettino, Pulisic-Glute-Sorgen + Tyler-Adams-Fitness offen, Tim-Weah angeschlagen, Cardoso-Saison-Ende. Erstes USA-Deutschland-Duell seit 2015. TV: RTL (DE), TBS/Peacock (US). (D) WEITERE WM-FRIENDLIES: Mo 01.06. Norwegen vs Schweden (Ullevaal Oslo, 19:00 MESZ - Haaland gegen Isak im skandinavischen Derby), Mo 01.06. Slowakei vs Malta (MOL Arena), Mo 01.06. Oesterreich vs Tunesien (Ernst-Happel Wien, 20:45 - letzter ÖFB-Test vor WM), Di 02.06. Kroatien vs Belgien (Rujevica Rijeka, 18:00 - De-Bruyne vs Modric), Mi 03.06. Niederlande vs Algerien (De Kuip Rotterdam, 20:45 - NL-Send-Off), Do 04.06. Frankreich vs Elfenbeinkueste (Beaujoire Nantes, 21:10), Do 04.06. Spanien vs Irak (Riazor La Coruna, 21:00 - Yamal-Comeback aus Verletzung fraglich), Do 04.06. Mexiko vs Serbien (Nemesio Diez Toluca, 04:00 MESZ Fr 05.06.), Sa 06.06. Portugal vs Chile (Jamor Lissabon, ~20:45 - Ronaldo-Heim-Abschied), Sa 06.06. Argentinien vs Honduras (Kyle Field College Station, 02:00 MESZ So 07.06. - Messi 6. WM), Sa 06.06. Brasilien vs Aegypten (Vinicius/Neymar), Sa 06.06. England vs Neuseeland (Raymond James Tampa, 22:00 MESZ - Tuchel-Test), Sa 06.06. Schweiz vs Australien (Snapdragon San Diego, 21:00 MESZ), So 07.06. Kolumbien vs Jordanien (Snapdragon San Diego, 01:00 MESZ Mo). WICHTIGE HARTREGELN: Friendlies haben deutlich hoehere Tor-Volatilitaet als Liga-Spiele (durchgemischte Aufstellungen, viele Wechsel, Trainingslast - Hitrate von BTTS/Ueber 2.5 historisch ~5-10pp hoeher als Liga-Average); Aufstellungen erst 1-2h vor Anstoss bei Verbandsseiten oder X/Twitter pruefen, da Bundestrainer rotieren. 2:0-INSURANCE GILT NICHT bei Friendlies (nur BL + CL). Einwechslungs-Boost gilt schon (bet365-DE-Regel global). QUOTEN ueberwiegend Aggregator-Schaetzwerte aus DraftKings/sportsgambler/mightytips/oddspedia - VOR EINSATZ bei bet365 DE live pruefen. Keine Tipps - reine Datensammlung.",
+  "spiele": [
+    {
+      "id": "2026-06-01-nor-swe",
+      "liga": "International Friendly",
+      "matchday": "WM-Vorbereitung",
+      "stage": "FRIENDLY",
+      "heim": "Norwegen",
+      "gast": "Schweden",
+      "anstoss": "2026-06-01T19:00:00+02:00",
+      "stadion": "Ullevaal Stadion, Oslo (~28.000)",
+      "squad_heim": [
+        {"name": "Orjan Nyland", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://en.wikipedia.org/wiki/Norway_national_football_team"},
+        {"name": "Erling Haaland", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/norway-squad-announcement-stale-solbakken", "hinweis": "Norwegen-Topscorer aller Zeiten, peilt 56. Tor in 50. Laenderspiel an"},
+        {"name": "Martin Odegaard", "nummer": null, "position": "OM/CM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.wikipedia.org/wiki/Norway_national_football_team", "hinweis": "Arsenal-Captain, eben PL-Meister geworden, voll fit"},
+        {"name": "Alexander Sorloth", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.wikipedia.org/wiki/Norway_national_football_team"},
+        {"name": "Antonio Nusa", "nummer": null, "position": "LF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.wikipedia.org/wiki/Norway_national_football_team"}
+      ],
+      "squad_gast": [
+        {"name": "Robin Olsen", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://en.wikipedia.org/wiki/Sweden_national_football_team"},
+        {"name": "Alexander Isak", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsmole.co.uk/football/norway/preview/norway-vs-sweden-prediction-team-news-lineups_598422.html", "hinweis": "Newcastle-Stuermer, kaempfte zuletzt mit Fitness am PL-Saison-Ende, kein Akut-Injury"},
+        {"name": "Viktor Gyokeres", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.wikipedia.org/wiki/Sweden_national_football_team"},
+        {"name": "Dejan Kulusevski", "nummer": null, "position": "OM/RF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.wikipedia.org/wiki/Sweden_national_football_team"}
+      ],
+      "injuries_heim": ["Status final 1-2h vor Anstoss via NFF/X pruefen"],
+      "injuries_gast": ["Alexander Isak (Fitness-Sorgen Saison-Ende, kein Akut-Out)", "Status final 1-2h vor Anstoss via SVFF/X pruefen"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM-Vorbereitung; Allsvenskan-Trainingscamp nicht relevant fuer Norweger",
+        "gast": "keine - WM-Vorbereitung; Allsvenskan laeuft, aber Nationalspieler abgestellt",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/norway-squad-announcement-stale-solbakken",
+          "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup"
+        ]
+      },
+      "saisonziel_heim": "WM 2026: Norwegen ZURUECK bei WM nach 1998 (28 Jahre). Letzte Generalprobe vor Abflug USA/Kanada/Mexiko. Stale Solbakken als Coach.",
+      "saisonziel_gast": "WM 2026: Schweden in Gruppe F mit Tunesien, Japan, Niederlande. Generalprobe vor WM-Reise.",
+      "tabellenstand": {"heim_platz": null, "heim_pkt": null, "gast_platz": null, "gast_pkt": null, "hinweis": "Friendly, keine Tabelle. Norwegen WM-Quali souveraen, Schweden via Playoff dabei."},
+      "form_heim_letzte_5": null,
+      "form_gast_letzte_5": null,
+      "recovery_heim": "Voll regeneriert, Saisonende Heimatligen seit ~2 Wochen; Haaland letztes ManCity-Spiel ~24.05.",
+      "recovery_gast": "Voll regeneriert; Isak und Gyokeres seit PL/SerieA-Ende seit 24.05. frei.",
+      "quoten": {
+        "bet365": {
+          "sieg_heim": 1.80,
+          "draw": 3.80,
+          "sieg_gast": 4.20,
+          "ueber_2_5": 1.55,
+          "unter_2_5": 2.40,
+          "btts_ja": 1.65,
+          "btts_nein": 2.20,
+          "dc_1x": 1.25,
+          "dc_x2": 1.95,
+          "torschuetzen": {"Haaland": 1.50, "Isak": 2.30, "Sorloth": 3.20, "Gyokeres": 3.00},
+          "sonder": {"hinweis": "Norwegen klarer Favorit (Haaland-Heim-Faktor), aber Friendly-Charakter -> Coinflip-Risiko, Quoten via bet365 live verifizieren"}
+        },
+        "pinnacle": {},
+        "fair_line_pinnacle_basis_prozent": {}
+      },
+      "news_kompakt": [
+        "Skandinavien-Derby - 30 Jahre nach dem 1996er-Heimspiel; Norwegen erstmals seit 1998 wieder WM-Teilnehmer",
+        "Haaland will sein 56. Tor in 50. Laenderspiel beim Heim-Test (Karriere-Meilenstein)",
+        "Isak nach Fitness-Sorgen am PL-Saison-Ende ohne Akut-Verletzung - Minuten sammeln waere sinnvoll",
+        "Letzter Test fuer Norwegen vor Abflug zur WM 2026 (USA/Kanada/Mexiko)",
+        "TV/Stream: TV2 Norway, TV4 Sweden; Live-Score ESPN/Sofascore"
+      ],
+      "quellen_aggregator": [
+        "https://www.mightytips.com/football-predictions/norway-vs-sweden-prediction-01-06-2026/",
+        "https://www.sportskeeda.com/football/norway-vs-sweden-prediction-betting-tips-june-1st-2026",
+        "https://www.sportsmole.co.uk/football/norway/preview/norway-vs-sweden-prediction-team-news-lineups_598422.html",
+        "https://www.sofascore.com/football/match/sweden-norway/AObsNTb",
+        "https://www.espn.com/soccer/match/_/gameId/401864055/sweden-norway"
+      ]
+    },
+    {
+      "id": "2026-06-01-aut-tun",
+      "liga": "International Friendly",
+      "matchday": "WM-Vorbereitung",
+      "stage": "FRIENDLY",
+      "heim": "Oesterreich",
+      "gast": "Tunesien",
+      "anstoss": "2026-06-01T20:45:00+02:00",
+      "stadion": "Ernst-Happel-Stadion, Wien (~50.000)",
+      "squad_heim": [
+        {"name": "Marko Arnautovic", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.wettbasis.com/sportwetten-news/oesterreich-wm-fahrplan-2026"},
+        {"name": "Marcel Sabitzer", "nummer": null, "position": "CM/OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.wettbasis.com/sportwetten-news/oesterreich-wm-fahrplan-2026"},
+        {"name": "Konrad Laimer", "nummer": null, "position": "CM/RV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.wettbasis.com/sportwetten-news/oesterreich-wm-fahrplan-2026"},
+        {"name": "David Alaba", "nummer": null, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.wettbasis.com/sportwetten-news/oesterreich-wm-fahrplan-2026"}
+      ],
+      "squad_gast": [
+        {"name": "Aissa Laidouni", "nummer": null, "position": "CM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/tunisia-squad-named-sabri-lamouchi"},
+        {"name": "Anis Ben Slimane", "nummer": null, "position": "OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/tunisia-squad-named-sabri-lamouchi"}
+      ],
+      "injuries_heim": ["Status final 1-2h vor Anstoss via ÖFB/X pruefen"],
+      "injuries_gast": ["Status final 1-2h vor Anstoss via FTF/X pruefen"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM-Vorbereitung; ÖFB-Coach Rangnick, Abflug nach USA via LA am 04.06.",
+        "gast": "keine - WM-Vorbereitung; FTF-Coach Sabri Lamouchi (in Gruppe F mit Schweden, Japan, NL)",
+        "quellen": [
+          "https://www.wettbasis.com/sportwetten-news/oesterreich-wm-fahrplan-2026",
+          "https://www.skysportaustria.at/alle-termine-der-fahrplan-des-oefb-teams-bis-zur-wm-2026/",
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/tunisia-squad-named-sabri-lamouchi"
+        ]
+      },
+      "saisonziel_heim": "WM 2026: Oesterreich erstmals seit 1990 (36 Jahre) wieder bei WM. Generalprobe vor Abflug zur USA-Basis (LA -> Santa Barbara) am 04.06.",
+      "saisonziel_gast": "WM 2026: Tunesien 7. WM-Teilnahme, Gruppe F mit Schweden/Japan/Niederlande.",
+      "tabellenstand": {"heim_platz": null, "heim_pkt": null, "gast_platz": null, "gast_pkt": null, "hinweis": "Friendly. Oesterreich Buchmacher-Favorit (Quoten-Spread ~1.50 vs ~6.00 typisch)."},
+      "form_heim_letzte_5": null,
+      "form_gast_letzte_5": null,
+      "recovery_heim": "Voll regeneriert, Bundesliga (AUT) endete 25.05.",
+      "recovery_gast": "Voll regeneriert, lange Anreise aus Tunis (kurzer Flug)",
+      "quoten": {
+        "bet365": {
+          "sieg_heim": 1.55,
+          "draw": 3.90,
+          "sieg_gast": 6.00,
+          "ueber_2_5": 2.05,
+          "unter_2_5": 1.75,
+          "btts_ja": 2.00,
+          "btts_nein": 1.75,
+          "dc_1x": 1.18,
+          "dc_x2": 2.45,
+          "torschuetzen": {"Arnautovic": 2.10, "Sabitzer": 4.50},
+          "sonder": {"hinweis": "Schaetzwerte. Heimstaerker AUT (ÖFB-Heimreserve), Tunesien defensiv. Live-Quoten bei bet365 verifizieren."}
+        },
+        "pinnacle": {},
+        "fair_line_pinnacle_basis_prozent": {}
+      },
+      "news_kompakt": [
+        "Letzter ÖFB-Test vor WM-Abflug; Rangnick-Generalprobe mit kompletter Stammelf",
+        "Tunesien in Gruppe F bei WM (Schweden/Japan/NL) - Test gegen europaeischen Gegner sinnvoll",
+        "Ernst-Happel-Stadion ausverkauft erwartet, Heim-Bonus deutlich",
+        "TV/Stream: ORF1 (AUT), Watania1 (TUN)"
+      ],
+      "quellen_aggregator": [
+        "https://www.wettbasis.com/sportwetten-news/oesterreich-wm-fahrplan-2026",
+        "https://www.wettfreunde.net/wm-2026-news/oefb-fahrplan-wm-2026/",
+        "https://www.skysportaustria.at/alle-termine-der-fahrplan-des-oefb-teams-bis-zur-wm-2026/"
+      ]
+    },
+    {
+      "id": "2026-06-01-svk-mlt",
+      "liga": "International Friendly",
+      "matchday": "Friendly",
+      "stage": "FRIENDLY",
+      "heim": "Slowakei",
+      "gast": "Malta",
+      "anstoss": "2026-06-01T20:45:00+02:00",
+      "stadion": "MOL Arena, Dunajska Streda (~12.700)",
+      "squad_heim": [
+        {"name": "Milan Skriniar", "nummer": null, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.wikipedia.org/wiki/Slovakia_national_football_team"},
+        {"name": "David Hancko", "nummer": null, "position": "IV/LV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.wikipedia.org/wiki/Slovakia_national_football_team"},
+        {"name": "Lukas Haraslin", "nummer": null, "position": "LF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.wikipedia.org/wiki/Slovakia_national_football_team"}
+      ],
+      "squad_gast": [],
+      "injuries_heim": ["Status via SFZ/X pruefen"],
+      "injuries_gast": ["Status via MFA/X pruefen"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - kein WM-Teilnehmer; Friendly-Charakter",
+        "gast": "keine - kein WM-Teilnehmer",
+        "quellen": ["https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_qualification"]
+      },
+      "saisonziel_heim": "Kein WM-Teilnehmer 2026 (Quali ueber Playoff verfehlt). Friendly mit B-Charakter wahrscheinlich.",
+      "saisonziel_gast": "Kein WM-Teilnehmer (Malta nie qualifiziert); FIFA-Ranking ~170+.",
+      "tabellenstand": {"heim_platz": null, "heim_pkt": null, "gast_platz": null, "gast_pkt": null, "hinweis": "Friendly, Slowakei klarer Favorit (FIFA-Ranking ~50 vs ~170)."},
+      "form_heim_letzte_5": null,
+      "form_gast_letzte_5": null,
+      "recovery_heim": "Voll regeneriert",
+      "recovery_gast": "Voll regeneriert",
+      "quoten": {
+        "bet365": {
+          "sieg_heim": 1.18,
+          "draw": 7.00,
+          "sieg_gast": 18.00,
+          "ueber_2_5": 1.50,
+          "unter_2_5": 2.50,
+          "btts_ja": 2.50,
+          "btts_nein": 1.50,
+          "sonder": {"hinweis": "Mismatch-Spiel, sehr niedrige Heimquote. Markt fuer Ueber-Tore/Slowakei-zu-Null interessant. Live bei bet365 pruefen."}
+        },
+        "pinnacle": {},
+        "fair_line_pinnacle_basis_prozent": {}
+      },
+      "news_kompakt": [
+        "Mismatch mit Slowakei haushohem Favorit; Heimrechte in der ungarisch-slowakischen DAC-Arena Dunajska Streda",
+        "Beide nicht bei WM 2026; reines Trainingsspiel-Format mit vielen Wechseln zu erwarten",
+        "skipped_due_to_token_budget_partial: Reduzierte Recherche-Tiefe wegen Mismatch-Charakter"
+      ],
+      "quellen_aggregator": [],
+      "skipped_due_to_token_budget_partial": true
+    },
+    {
+      "id": "2026-06-02-cro-bel",
+      "liga": "International Friendly",
+      "matchday": "WM-Vorbereitung",
+      "stage": "FRIENDLY",
+      "heim": "Kroatien",
+      "gast": "Belgien",
+      "anstoss": "2026-06-02T18:00:00+02:00",
+      "stadion": "Stadion Rujevica, Rijeka (~8.200)",
+      "squad_heim": [
+        {"name": "Dominik Livakovic", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.sportsmole.co.uk/football/croatia/preview/croatia-vs-belgium-prediction-team-news-lineups_598460.html"},
+        {"name": "Josko Gvardiol", "nummer": null, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsmole.co.uk/football/croatia/preview/croatia-vs-belgium-prediction-team-news-lineups_598460.html"},
+        {"name": "Luka Modric", "nummer": null, "position": "CM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsmole.co.uk/football/croatia/preview/croatia-vs-belgium-prediction-team-news-lineups_598460.html", "hinweis": "40 Jahre, Captain bei seiner letzten WM (laut Dalic)"},
+        {"name": "Mateo Pasalic", "nummer": null, "position": "CM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsmole.co.uk/football/croatia/preview/croatia-vs-belgium-prediction-team-news-lineups_598460.html"},
+        {"name": "Andrej Kramaric", "nummer": null, "position": "ST/OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsmole.co.uk/football/croatia/preview/croatia-vs-belgium-prediction-team-news-lineups_598460.html"},
+        {"name": "Ante Budimir", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsmole.co.uk/football/croatia/preview/croatia-vs-belgium-prediction-team-news-lineups_598460.html"},
+        {"name": "Ivan Perisic", "nummer": null, "position": "LF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsmole.co.uk/football/croatia/preview/croatia-vs-belgium-prediction-team-news-lineups_598460.html"}
+      ],
+      "squad_gast": [
+        {"name": "Thibaut Courtois", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.sportsmole.co.uk/football/croatia/preview/croatia-vs-belgium-prediction-team-news-lineups_598460.html"},
+        {"name": "Kevin De Bruyne", "nummer": null, "position": "OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsmole.co.uk/football/croatia/preview/croatia-vs-belgium-prediction-team-news-lineups_598460.html", "hinweis": "Nach unsteter Saison wieder fit"},
+        {"name": "Jeremy Doku", "nummer": null, "position": "LF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsmole.co.uk/football/croatia/preview/croatia-vs-belgium-prediction-team-news-lineups_598460.html"},
+        {"name": "Youri Tielemans", "nummer": null, "position": "CM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsmole.co.uk/football/croatia/preview/croatia-vs-belgium-prediction-team-news-lineups_598460.html"},
+        {"name": "Alexis Saelemaekers", "nummer": null, "position": "RF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.sportsmole.co.uk/football/croatia/preview/croatia-vs-belgium-prediction-team-news-lineups_598460.html"}
+      ],
+      "injuries_heim": ["Status final 1-2h vor Anstoss via HNS/X pruefen"],
+      "injuries_gast": ["Status final 1-2h vor Anstoss via RBFA/X pruefen"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM-Vorbereitung",
+        "gast": "keine - WM-Vorbereitung",
+        "quellen": [
+          "https://www.uefa.com/european-qualifiers/friendlies/match/2047758--croatia-vs-belgium/",
+          "https://www.croatiaweek.com/croatia-belgium-friendly-rijeka-world-cup-preparations/"
+        ]
+      },
+      "saisonziel_heim": "WM 2026: Kroatien Top-12 Outsider (4. 2022, 2. 2018), Modric letzte WM mit Captain-Binde.",
+      "saisonziel_gast": "WM 2026: Belgien neue Generation um De Bruyne/Doku, hofft auf Goldenes-Generation-Comeback.",
+      "tabellenstand": {"heim_platz": null, "heim_pkt": null, "gast_platz": null, "gast_pkt": null, "hinweis": "Friendly. Beide WM-Teilnehmer. Pinnacle 1X2-Schaetzung Croatia ~2.30 / Draw ~3.40 / Belgium ~3.00."},
+      "form_heim_letzte_5": null,
+      "form_gast_letzte_5": null,
+      "recovery_heim": "Voll regeneriert, Liga-Pause seit 2 Wochen, Modric letztes Spiel Real Madrid ~24.05.",
+      "recovery_gast": "Voll regeneriert, PL-/Bundesliga-Spieler seit ~16.-24.05. frei",
+      "quoten": {
+        "bet365": {
+          "sieg_heim": 2.40,
+          "draw": 3.30,
+          "sieg_gast": 2.90,
+          "ueber_2_5": 1.95,
+          "unter_2_5": 1.85,
+          "btts_ja": 1.75,
+          "btts_nein": 2.05,
+          "dc_1x": 1.40,
+          "dc_x2": 1.60,
+          "torschuetzen": {"Kramaric": 3.50, "Budimir": 4.00, "De Bruyne": 4.20, "Doku": 4.50},
+          "sonder": {"hinweis": "Coinflip-Spiel. Beide WM-Vorbereitung mit Stammelfen, daher kein Trainingsspiel-Rabatt. Live bei bet365 pruefen."}
+        },
+        "pinnacle": {"sieg_heim": 2.30, "draw": 3.40, "sieg_gast": 3.00},
+        "fair_line_pinnacle_basis_prozent": {"sieg_heim": 41, "draw": 28, "sieg_gast": 31}
+      },
+      "news_kompakt": [
+        "Kroatien-Heimspiel in Rijeka (Rujevica), Modric als 40-jaehriger Captain bei wahrscheinlich letzter WM",
+        "De Bruyne nach unsteter Saison-Phase wieder fit, Generalprobe vor WM-Abflug",
+        "Beide WM-Teilnehmer mit Stammelf -> Quoten kein klassischer Friendly-Discount",
+        "Kapazitaet nur ~8.200 (Rujevica) -> erhoehte Atmosphaere, Heimvorteil Croatia",
+        "Live-Score Sofascore, TV HRT (CRO)/RTBF (BEL)"
+      ],
+      "quellen_aggregator": [
+        "https://www.uefa.com/european-qualifiers/friendlies/match/2047758--croatia-vs-belgium/",
+        "https://www.sportsmole.co.uk/football/croatia/preview/croatia-vs-belgium-prediction-team-news-lineups_598460.html",
+        "https://www.croatiaweek.com/croatia-belgium-friendly-rijeka-world-cup-preparations/"
+      ]
+    },
+    {
+      "id": "2026-06-03-nyk-sas",
+      "liga": "NBA Finals",
+      "matchday": "Game 1",
+      "stage": "FINALS_GAME1",
+      "heim": "San Antonio Spurs",
+      "gast": "New York Knicks",
+      "anstoss": "2026-06-04T02:30:00+02:00",
+      "stadion": "Frost Bank Center, San Antonio (~18.500)",
+      "squad_heim": [
+        {"name": "Victor Wembanyama", "nummer": 1, "position": "C/PF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.espn.com/nba/story/_/id/48906595/nba-finals-2026-preview-knicks-spurs-wemby-brunson-towns-castle-stats-schedule-predictions", "hinweis": "WCF-Stats 28.2 PPG / 11.5 RPG / 3.0 BPG; Finals-MVP-Favorit -175"},
+        {"name": "Stephon Castle", "nummer": null, "position": "PG/SG", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.espn.com/nba/story/_/id/48906595/nba-finals-2026-preview-knicks-spurs-wemby-brunson-towns-castle-stats-schedule-predictions"},
+        {"name": "Devin Vassell", "nummer": null, "position": "SF/SG", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.espn.com/nba/story/_/id/48906595/nba-finals-2026-preview-knicks-spurs-wemby-brunson-towns-castle-stats-schedule-predictions"},
+        {"name": "Chris Paul", "nummer": null, "position": "PG", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.espn.com/nba/story/_/id/48906595/nba-finals-2026-preview-knicks-spurs-wemby-brunson-towns-castle-stats-schedule-predictions"}
+      ],
+      "squad_gast": [
+        {"name": "Jalen Brunson", "nummer": 11, "position": "PG", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.espn.com/nba/story/_/id/48906595/nba-finals-2026-preview-knicks-spurs-wemby-brunson-towns-castle-stats-schedule-predictions", "hinweis": "Playoff-Stats 26.9 PPG / 6.6 APG in 36.1 Min"},
+        {"name": "Karl-Anthony Towns", "nummer": 32, "position": "C/PF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.espn.com/nba/story/_/id/48906595/nba-finals-2026-preview-knicks-spurs-wemby-brunson-towns-castle-stats-schedule-predictions"},
+        {"name": "OG Anunoby", "nummer": null, "position": "SF/PF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.espn.com/nba/story/_/id/48906595/nba-finals-2026-preview-knicks-spurs-wemby-brunson-towns-castle-stats-schedule-predictions"},
+        {"name": "Mikal Bridges", "nummer": null, "position": "SF/SG", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.espn.com/nba/story/_/id/48906595/nba-finals-2026-preview-knicks-spurs-wemby-brunson-towns-castle-stats-schedule-predictions"},
+        {"name": "Josh Hart", "nummer": null, "position": "SG/SF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.espn.com/nba/story/_/id/48906595/nba-finals-2026-preview-knicks-spurs-wemby-brunson-towns-castle-stats-schedule-predictions"}
+      ],
+      "injuries_heim": ["Status final ~3h vor Tip-Off via Shams/Woj/Spurs-Twitter pruefen - bisher keine bekannten OUTs"],
+      "injuries_gast": ["Status final ~3h vor Tip-Off via Shams/Woj/Knicks-Twitter pruefen - bisher keine bekannten OUTs"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - NBA-Finals exklusiv",
+        "gast": "keine - NBA-Finals exklusiv",
+        "quellen": [
+          "https://www.nba.com/news/2026-nba-finals-schedule",
+          "https://www.espn.com/nba/story/_/id/48419498/nba-playoffs-2026-play-finals-schedule-scores-news-highlights-bracket-dates"
+        ]
+      },
+      "saisonziel_heim": "NBA-Championship - Spurs erstmals Finals seit Banner-Sieg 2014 (Duncan/Parker/Ginobili-Aera). Wembanyama-Sturm in 3. Saison.",
+      "saisonziel_gast": "NBA-Championship - Knicks erstmals Finals seit 1999 (Ewing-Aera, gegen Spurs verloren); 11 Playoff-Siege in Serie im Schnitt +23.8 Pkt.",
+      "tabellenstand": {"heim_platz": 1, "heim_pkt": null, "gast_platz": 3, "gast_pkt": null, "hinweis": "Spurs Series-Favorit -210, Knicks +170; Game-1-Spread Spurs -4.5, Total 217.5 (DraftKings open)."},
+      "form_heim_letzte_5": "S-N-S-S-S",
+      "form_gast_letzte_5": "S-S-S-S-S",
+      "recovery_heim": "3 Tage seit WCF G7 vs OKC (~31.05.); kurze Pause aber Heim-Vorteil",
+      "recovery_gast": "8 Tage seit ECF G4-Sweep (~24.05.); LANGE Pause -> Rost-Risiko vs frische Spurs",
+      "quoten": {
+        "bet365": {
+          "sieg_heim": 1.60,
+          "sieg_gast": 2.50,
+          "ueber_217_5": 1.91,
+          "unter_217_5": 1.91,
+          "spread_heim_minus_4_5": 1.91,
+          "spread_gast_plus_4_5": 1.91,
+          "torschuetzen": {},
+          "sonder": {
+            "wembanyama_ueber_27_5_pkt": 1.91,
+            "brunson_ueber_25_5_pkt": 1.91,
+            "wembanyama_ueber_10_5_reb": 1.91,
+            "wembanyama_ueber_2_5_blocks": 2.00,
+            "double_double_wembanyama": 1.30,
+            "knicks_ohne_oeffentlich_bekannte_outs": true,
+            "hinweis": "Live-Quoten DraftKings open: Spurs ML -210, Knicks +154 / +170 (bet365). Spread Spurs -4.5. Total 217.5. Wembanyama Finals-MVP -175. VOR EINSATZ bei bet365 DE live pruefen, vor allem Spieler-Punkte-Lines, da abhaengig von Coaching-Auswahl. ERLAUBT in DE: Spieler-Punkte, Double-Double, Triple-Double, Spread, Ueber/Unter, Moneyline; NICHT erlaubt: Einzel-Assists/Rebounds/Blocks isoliert, PRA-Kombos, einzelne 3er-Wuerfe."
+          }
+        },
+        "pinnacle": {"sieg_heim": 1.62, "sieg_gast": 2.45, "ueber_217_5": 1.92, "unter_217_5": 1.92},
+        "fair_line_pinnacle_basis_prozent": {"sieg_heim": 62, "sieg_gast": 41}
+      },
+      "news_kompakt": [
+        "Spurs eroeffnen Series als Favorit -210 (Knicks +170) nach WCF-Sieg in 7 Spielen vs OKC; Knicks via Sweep ueber Cleveland mit beeindruckenden +23.8 Pkt-Schnitt",
+        "Wembanyama WCF-Dominanz (28.2/11.5/3.0Blk) macht ihn zum Finals-MVP-Favorit -175; sein erstes NBA-Finale in 3. Saison",
+        "Brunson Playoff-Stats 26.9 PPG / 6.6 APG - Knicks-Offense haengt an seinem Drive-and-Kick-Game gegen Spurs-Drop-Coverage",
+        "Knicks haben 8 Tage Pause (Rost-Risiko) vs Spurs 3 Tage (Frische); Knicks-Roadgame-Erfahrung 5-1 in Playoffs",
+        "TV: ABC (USA), DAZN (DE - sofern Rechte 2026); Frost-Bank-Center San Antonio ausverkauft"
+      ],
+      "quellen_aggregator": [
+        "https://dknetwork.draftkings.com/2026/05/30/opening-odds-for-new-york-knicks-vs-san-antonio-spurs-2026-nba-finals-game-1/",
+        "https://www.nba.com/news/2026-nba-finals-schedule",
+        "https://www.espn.com/nba/odds/_/gameId/401859963",
+        "https://www.sportsbettingdime.com/news/nba/spurs-vs-knicks-odds-2026-finals-including-game-spread-total-schedule/",
+        "https://www.cbssports.com/nba/news/2026-nba-finals-schedule-odds/"
+      ]
+    },
+    {
+      "id": "2026-06-03-ned-alg",
+      "liga": "International Friendly",
+      "matchday": "WM-Vorbereitung",
+      "stage": "FRIENDLY",
+      "heim": "Niederlande",
+      "gast": "Algerien",
+      "anstoss": "2026-06-03T20:45:00+02:00",
+      "stadion": "De Kuip (Stadion Feijenoord), Rotterdam (~47.500)",
+      "squad_heim": [
+        {"name": "Bart Verbruggen", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://en.wikipedia.org/wiki/Netherlands_national_football_team"},
+        {"name": "Virgil van Dijk", "nummer": null, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.wikipedia.org/wiki/Netherlands_national_football_team", "hinweis": "Liverpool-Captain"},
+        {"name": "Cody Gakpo", "nummer": null, "position": "LF/ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.wikipedia.org/wiki/Netherlands_national_football_team"},
+        {"name": "Memphis Depay", "nummer": null, "position": "ST/OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.wikipedia.org/wiki/Netherlands_national_football_team"},
+        {"name": "Xavi Simons", "nummer": null, "position": "OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.wikipedia.org/wiki/Netherlands_national_football_team"}
+      ],
+      "squad_gast": [
+        {"name": "Riyad Mahrez", "nummer": null, "position": "RF/OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.wikipedia.org/wiki/Algeria_national_football_team"},
+        {"name": "Said Benrahma", "nummer": null, "position": "LF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.wikipedia.org/wiki/Algeria_national_football_team"},
+        {"name": "Ismael Bennacer", "nummer": null, "position": "CM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.wikipedia.org/wiki/Algeria_national_football_team"}
+      ],
+      "injuries_heim": ["Status final 1-2h vor Anstoss via KNVB/X pruefen"],
+      "injuries_gast": ["Status final 1-2h vor Anstoss via FAF/X pruefen"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM-Vorbereitung, dies ist offizielles Send-Off in Rotterdam vor USA-Abflug",
+        "gast": "keine - Algerien NICHT bei WM 2026 (Afrika-Quali verfehlt)",
+        "quellen": [
+          "https://en.africatopsports.com/2026/03/03/netherlands-set-for-world-cup-send-off-friendly-against-algeria-in-rotterdam/",
+          "https://www.uefa.com/european-qualifiers/friendlies/match/2048186/"
+        ]
+      },
+      "saisonziel_heim": "WM 2026: Niederlande in Gruppe F mit Sweden/Tunisia/Japan; Send-Off vor heimischem Publikum.",
+      "saisonziel_gast": "Kein WM-Teilnehmer 2026; Test gegen europaeischen Top-Gegner.",
+      "tabellenstand": {"heim_platz": null, "heim_pkt": null, "gast_platz": null, "gast_pkt": null, "hinweis": "Friendly. NL klarer Favorit (Quoten-Spread ~1.50 vs ~6.50)."},
+      "form_heim_letzte_5": null,
+      "form_gast_letzte_5": null,
+      "recovery_heim": "Voll regeneriert, PL/SerieA/Eredivisie-Spieler frei seit 24.05.",
+      "recovery_gast": "Voll regeneriert",
+      "quoten": {
+        "bet365": {
+          "sieg_heim": 1.50,
+          "draw": 4.20,
+          "sieg_gast": 6.50,
+          "ueber_2_5": 1.75,
+          "unter_2_5": 2.10,
+          "btts_ja": 1.85,
+          "btts_nein": 1.95,
+          "dc_1x": 1.15,
+          "dc_x2": 2.55,
+          "torschuetzen": {"Gakpo": 2.20, "Depay": 2.50, "Mahrez": 4.50},
+          "sonder": {"hinweis": "Heim-Send-Off-Bonus; Algerien defensiv. Live bei bet365 pruefen."}
+        },
+        "pinnacle": {},
+        "fair_line_pinnacle_basis_prozent": {}
+      },
+      "news_kompakt": [
+        "Niederlande-Send-Off in De Kuip vor Abflug Richtung USA (Gruppe F: Sweden, Tunisia, Japan)",
+        "Koeman setzt vermutlich auf Stammelf (Van Dijk, Gakpo, Depay, Xavi Simons)",
+        "Algerien als Sparring-Gegner mit Mahrez, Bennacer und Benrahma - solide afrikanische Test-Qualitaet trotz WM-Absenz",
+        "Heimstadion De Kuip ausverkauft erwartet, Atmosphaere-Boost",
+        "TV: NOS (NL), Algerie Live"
+      ],
+      "quellen_aggregator": [
+        "https://en.africatopsports.com/2026/03/03/netherlands-set-for-world-cup-send-off-friendly-against-algeria-in-rotterdam/",
+        "https://www.uefa.com/european-qualifiers/friendlies/match/2048186/"
+      ]
+    },
+    {
+      "id": "2026-06-04-fra-civ",
+      "liga": "International Friendly",
+      "matchday": "WM-Vorbereitung",
+      "stage": "FRIENDLY",
+      "heim": "Frankreich",
+      "gast": "Elfenbeinkueste",
+      "anstoss": "2026-06-04T21:10:00+02:00",
+      "stadion": "Stade de la Beaujoire, Nantes (~37.000) - SOLD OUT",
+      "squad_heim": [
+        {"name": "Mike Maignan", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://en.wikipedia.org/wiki/France_national_football_team"},
+        {"name": "Kylian Mbappe", "nummer": null, "position": "ST/LF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.wikipedia.org/wiki/France_national_football_team", "hinweis": "Real-Madrid-Kapitaen Frankreichs"},
+        {"name": "Aurelien Tchouameni", "nummer": null, "position": "DM/IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.wikipedia.org/wiki/France_national_football_team"},
+        {"name": "Antoine Griezmann", "nummer": null, "position": "OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.wikipedia.org/wiki/France_national_football_team"},
+        {"name": "Ousmane Dembele", "nummer": null, "position": "RF/LF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.wikipedia.org/wiki/France_national_football_team"}
+      ],
+      "squad_gast": [
+        {"name": "Sebastien Haller", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.wikipedia.org/wiki/Ivory_Coast_national_football_team"},
+        {"name": "Franck Kessie", "nummer": null, "position": "CM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.wikipedia.org/wiki/Ivory_Coast_national_football_team"},
+        {"name": "Wilfried Zaha", "nummer": null, "position": "LF/RF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.wikipedia.org/wiki/Ivory_Coast_national_football_team"}
+      ],
+      "injuries_heim": ["Status final 1-2h vor Anstoss via FFF/X pruefen"],
+      "injuries_gast": ["Status final 1-2h vor Anstoss via FIF/X pruefen"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM-Vorbereitung, erstes Warm-Up-Match Frankreichs",
+        "gast": "keine - Elfenbeinkueste NICHT bei WM 2026 qualifiziert",
+        "quellen": [
+          "https://www.getfootballnewsfrance.com/2026/france-to-face-ivory-coast-in-pre-world-cup-friendly/",
+          "https://sports.yahoo.com/articles/france-face-ivory-coast-pre-181500565.html"
+        ]
+      },
+      "saisonziel_heim": "WM 2026: Deschamps' letztes Turnier als Coach; Frankreich Top-Favorit gemeinsam mit Spanien (WM-Odds ~+650).",
+      "saisonziel_gast": "Kein WM-Teilnehmer 2026.",
+      "tabellenstand": {"heim_platz": null, "heim_pkt": null, "gast_platz": null, "gast_pkt": null, "hinweis": "Friendly. Frankreich klarer Favorit (Quoten ~1.40 vs ~7.50)."},
+      "form_heim_letzte_5": null,
+      "form_gast_letzte_5": null,
+      "recovery_heim": "Voll regeneriert, Mbappe seit CL-Finale 30.05. mit 5 Tagen Pause (PSG-Niederlage hatte er nicht mehr, war bei Real Madrid - LaLiga seit 24.05. durch)",
+      "recovery_gast": "Voll regeneriert",
+      "quoten": {
+        "bet365": {
+          "sieg_heim": 1.40,
+          "draw": 4.75,
+          "sieg_gast": 7.50,
+          "ueber_2_5": 1.65,
+          "unter_2_5": 2.25,
+          "btts_ja": 1.85,
+          "btts_nein": 1.95,
+          "dc_1x": 1.10,
+          "dc_x2": 2.85,
+          "torschuetzen": {"Mbappe": 1.65, "Griezmann": 3.00, "Dembele": 3.50, "Haller": 5.00},
+          "sonder": {"hinweis": "Sold-Out Beaujoire Nantes, Mbappe Heimat-naehe. Live bei bet365 pruefen."}
+        },
+        "pinnacle": {},
+        "fair_line_pinnacle_basis_prozent": {}
+      },
+      "news_kompakt": [
+        "Frankreichs erstes Warm-Up-Match vor WM 2026 in einer ausverkauften Beaujoire Nantes (37k)",
+        "Deschamps' letztes Turnier als Coach - er hat angekuendigt, nach der WM zu gehen",
+        "Mbappe nach LaLiga-Meisterschaftskampf voll fit, plant WM als unbestrittener Captain",
+        "Ivorische Auswahl ohne WM-Druck, aber mit Premier-League-Erfahrung (Haller, Kessie, Zaha)",
+        "TV: TF1 (FRA), Canal+ Afrika; Tickets 55-145 EUR ausverkauft"
+      ],
+      "quellen_aggregator": [
+        "https://www.getfootballnewsfrance.com/2026/france-to-face-ivory-coast-in-pre-world-cup-friendly/",
+        "https://www.foxsports.com/soccer/friendlies-men-france-vs-ivory-coast-jun-04-2026-game-boxscore-815187",
+        "https://www.whoscored.com/matches/1974714/show/international-int-friendly-2026-france-ivory-coast",
+        "https://foot-africa.com/en/news/friendly-match-france-vs-ivory-coast-will-be-played-to-a-sold-out-crowd-in-nantes-1174379/"
+      ]
+    },
+    {
+      "id": "2026-06-04-esp-irq",
+      "liga": "International Friendly",
+      "matchday": "WM-Vorbereitung",
+      "stage": "FRIENDLY",
+      "heim": "Spanien",
+      "gast": "Irak",
+      "anstoss": "2026-06-04T21:00:00+02:00",
+      "stadion": "Estadio Abanca-Riazor, La Coruna (~32.500)",
+      "squad_heim": [
+        {"name": "Unai Simon", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.espn.com/soccer/story/_/id/48870392/spain-world-cup-2026-squad-confirmed-lamine-yamal-stars-no-real-madrid-players"},
+        {"name": "Pedri", "nummer": null, "position": "CM/OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.espn.com/soccer/story/_/id/48870392/spain-world-cup-2026-squad-confirmed-lamine-yamal-stars-no-real-madrid-players"},
+        {"name": "Dani Olmo", "nummer": null, "position": "OM/LF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.espn.com/soccer/story/_/id/48870392/spain-world-cup-2026-squad-confirmed-lamine-yamal-stars-no-real-madrid-players"},
+        {"name": "Pau Cubarsi", "nummer": null, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.espn.com/soccer/story/_/id/48870392/spain-world-cup-2026-squad-confirmed-lamine-yamal-stars-no-real-madrid-players"},
+        {"name": "Lamine Yamal", "nummer": null, "position": "RF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.fotmob.com/matches/iraq-vs-spain/1at8ei", "hinweis": "Im Squad, aber laut Reports zuletzt ANGESCHLAGEN - Status final 1-2h vor Anstoss pruefen"},
+        {"name": "Mikel Oyarzabal", "nummer": null, "position": "ST/LF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.espn.com/soccer/story/_/id/48870392/spain-world-cup-2026-squad-confirmed-lamine-yamal-stars-no-real-madrid-players"}
+      ],
+      "squad_gast": [
+        {"name": "Aymen Hussein", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.fotmob.com/matches/iraq-vs-spain/1at8ei"}
+      ],
+      "injuries_heim": ["Lamine Yamal (zuletzt angeschlagen, Status pruefen - laut fotmob 'unavailable due to injury')", "Status final 1-2h vor Anstoss via RFEF/X pruefen"],
+      "injuries_gast": ["Laut fotmob 'no unavailable players'", "Status final 1-2h vor Anstoss via IFA/X pruefen"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM-Vorbereitung, KEINE Real-Madrid-Spieler im Kader (laut ESPN-Bericht zur Squad-Bekanntgabe)",
+        "gast": "keine - Irak NICHT bei WM 2026 qualifiziert (Asien-Quali verfehlt)",
+        "quellen": [
+          "https://www.espn.com/soccer/story/_/id/48870392/spain-world-cup-2026-squad-confirmed-lamine-yamal-stars-no-real-madrid-players",
+          "https://www.fotmob.com/matches/iraq-vs-spain/1at8ei"
+        ]
+      },
+      "saisonziel_heim": "WM 2026: Spanien Top-Favorit (WM-Odds ~+550, narrow Favorite vor Frankreich); Gruppe H mit Uruguay/Saudi-Arabien/Kap-Verde.",
+      "saisonziel_gast": "Kein WM-Teilnehmer.",
+      "tabellenstand": {"heim_platz": null, "heim_pkt": null, "gast_platz": null, "gast_pkt": null, "hinweis": "Friendly. Spanien haushoher Favorit (Quoten ~1.20 vs ~14.0)."},
+      "form_heim_letzte_5": null,
+      "form_gast_letzte_5": null,
+      "recovery_heim": "Voll regeneriert, LaLiga endete 24.05.",
+      "recovery_gast": "Voll regeneriert",
+      "quoten": {
+        "bet365": {
+          "sieg_heim": 1.20,
+          "draw": 6.50,
+          "sieg_gast": 14.00,
+          "ueber_2_5": 1.45,
+          "unter_2_5": 2.60,
+          "btts_ja": 2.40,
+          "btts_nein": 1.55,
+          "dc_1x": 1.05,
+          "dc_x2": 4.20,
+          "torschuetzen": {"Oyarzabal": 1.95, "Olmo": 2.20, "Pedri": 3.50, "Yamal": 2.10},
+          "sonder": {"hinweis": "Mismatch-Friendly; Spanien duerfte 4-0+ siegen. Lamine-Yamal-Fitness final pruefen vor Spieler-Tipps."}
+        },
+        "pinnacle": {},
+        "fair_line_pinnacle_basis_prozent": {}
+      },
+      "news_kompakt": [
+        "Spanien Top-Favorit fuer WM 2026 (~+550); kein einziger Real-Madrid-Spieler im Squad",
+        "Yamal-Status anschauen: laut fotmob aktuell 'unavailable' aber im Kader nominiert - Final-Pruefung 1-2h vor Anstoss",
+        "Heim-Test in La Coruna (galicische Heimat-Atmosphaere), 32k-Stadion erwartet voll",
+        "Irak ohne WM-Druck, Aymen Hussein als Topscorer einzige offensive Hoffnung",
+        "TV: TVE (ES), Iraqia (IRQ)"
+      ],
+      "quellen_aggregator": [
+        "https://www.espn.com/soccer/story/_/id/48870392/spain-world-cup-2026-squad-confirmed-lamine-yamal-stars-no-real-madrid-players",
+        "https://www.fotmob.com/matches/iraq-vs-spain/1at8ei",
+        "https://www.sofascore.com/football/match/iraq-spain/YTbsrVb"
+      ]
+    },
+    {
+      "id": "2026-06-04-mex-srb",
+      "liga": "International Friendly",
+      "matchday": "WM-Vorbereitung",
+      "stage": "FRIENDLY",
+      "heim": "Mexiko",
+      "gast": "Serbien",
+      "anstoss": "2026-06-05T04:00:00+02:00",
+      "stadion": "Estadio Nemesio Diez (La Bombonera), Toluca (~30.000)",
+      "squad_heim": [],
+      "squad_gast": [
+        {"name": "Aleksandar Mitrovic", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.wikipedia.org/wiki/Serbia_national_football_team"},
+        {"name": "Dusan Tadic", "nummer": null, "position": "OM/LF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.wikipedia.org/wiki/Serbia_national_football_team"}
+      ],
+      "injuries_heim": ["Status via FMF/X pruefen"],
+      "injuries_gast": ["Status via FSS/X pruefen"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM-Gastgeber-Vorbereitung",
+        "gast": "keine - Serbien WM 2026 Teilnehmer in Gruppe G",
+        "quellen": ["https://ground.news/article/world-cup-2026-mexico-to-complete-its-preparation-for-serbia-in-toluca"]
+      },
+      "saisonziel_heim": "WM-Gastgeber, Gruppe A. Erste WM-Heim-Praesentation seit 1986.",
+      "saisonziel_gast": "WM 2026 Teilnehmer.",
+      "tabellenstand": {"heim_platz": null, "heim_pkt": null, "gast_platz": null, "gast_pkt": null, "hinweis": "Friendly. Mexiko leichter Heim-Favorit."},
+      "form_heim_letzte_5": null,
+      "form_gast_letzte_5": null,
+      "recovery_heim": "Voll regeneriert",
+      "recovery_gast": "Lange Anreise von Belgrad nach Toluca",
+      "quoten": {
+        "bet365": {
+          "sieg_heim": 1.85,
+          "draw": 3.40,
+          "sieg_gast": 4.20,
+          "ueber_2_5": 1.95,
+          "unter_2_5": 1.85,
+          "btts_ja": 1.75,
+          "btts_nein": 2.05,
+          "sonder": {"hinweis": "Schaetzwerte. Toluca-Hoehenlage (2.660m) ist Heimvorteil fuer Mexiko. Lange Reise belastet Serbien. Live bei bet365 pruefen."}
+        },
+        "pinnacle": {},
+        "fair_line_pinnacle_basis_prozent": {}
+      },
+      "news_kompakt": [
+        "Mexiko-Generalprobe in Toluca auf 2.660m Hoehe - klarer Heimvorteil",
+        "Serbien mit Mitrovic-Sturm und langer Anreise als Sparring-Gegner",
+        "Anstoss ca. 04:00 MESZ Freitag - fuer DE-Wetter nur fuer Nachteulen",
+        "TV: TV Azteca (MEX), RTS (SRB)"
+      ],
+      "quellen_aggregator": [
+        "https://www.espn.com/soccer/match/_/gameId/401861776/serbia-mexico",
+        "https://ground.news/article/world-cup-2026-mexico-to-complete-its-preparation-for-serbia-in-toluca",
+        "https://www.thescore.com/intfr/events/96604"
+      ],
+      "skipped_due_to_token_budget_partial": true
+    },
+    {
+      "id": "2026-06-05-nyk-sas",
+      "liga": "NBA Finals",
+      "matchday": "Game 2",
+      "stage": "FINALS_GAME2",
+      "heim": "San Antonio Spurs",
+      "gast": "New York Knicks",
+      "anstoss": "2026-06-06T02:30:00+02:00",
+      "stadion": "Frost Bank Center, San Antonio (~18.500)",
+      "squad_heim": [
+        {"name": "Victor Wembanyama", "nummer": 1, "position": "C/PF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.espn.com/nba/story/_/id/48906595/nba-finals-2026-preview-knicks-spurs-wemby-brunson-towns-castle-stats-schedule-predictions"},
+        {"name": "Stephon Castle", "nummer": null, "position": "PG/SG", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.espn.com/nba/story/_/id/48906595/nba-finals-2026-preview-knicks-spurs-wemby-brunson-towns-castle-stats-schedule-predictions"},
+        {"name": "Devin Vassell", "nummer": null, "position": "SF/SG", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.espn.com/nba/story/_/id/48906595/nba-finals-2026-preview-knicks-spurs-wemby-brunson-towns-castle-stats-schedule-predictions"},
+        {"name": "Chris Paul", "nummer": null, "position": "PG", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.espn.com/nba/story/_/id/48906595/nba-finals-2026-preview-knicks-spurs-wemby-brunson-towns-castle-stats-schedule-predictions"}
+      ],
+      "squad_gast": [
+        {"name": "Jalen Brunson", "nummer": 11, "position": "PG", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.espn.com/nba/story/_/id/48906595/nba-finals-2026-preview-knicks-spurs-wemby-brunson-towns-castle-stats-schedule-predictions"},
+        {"name": "Karl-Anthony Towns", "nummer": 32, "position": "C/PF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.espn.com/nba/story/_/id/48906595/nba-finals-2026-preview-knicks-spurs-wemby-brunson-towns-castle-stats-schedule-predictions"},
+        {"name": "OG Anunoby", "nummer": null, "position": "SF/PF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.espn.com/nba/story/_/id/48906595/nba-finals-2026-preview-knicks-spurs-wemby-brunson-towns-castle-stats-schedule-predictions"},
+        {"name": "Mikal Bridges", "nummer": null, "position": "SF/SG", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.espn.com/nba/story/_/id/48906595/nba-finals-2026-preview-knicks-spurs-wemby-brunson-towns-castle-stats-schedule-predictions"},
+        {"name": "Josh Hart", "nummer": null, "position": "SG/SF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.espn.com/nba/story/_/id/48906595/nba-finals-2026-preview-knicks-spurs-wemby-brunson-towns-castle-stats-schedule-predictions"}
+      ],
+      "injuries_heim": ["Abhaengig von G1-Verlauf; Final pruefen via Shams/Woj/Spurs-Twitter ~3h vor Tip-Off"],
+      "injuries_gast": ["Abhaengig von G1-Verlauf; Final pruefen via Shams/Woj/Knicks-Twitter ~3h vor Tip-Off"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - NBA-Finals exklusiv",
+        "gast": "keine - NBA-Finals exklusiv",
+        "quellen": ["https://www.nba.com/news/2026-nba-finals-schedule"]
+      },
+      "saisonziel_heim": "NBA-Championship - Spurs erstmals Finals seit 2014.",
+      "saisonziel_gast": "NBA-Championship - Knicks erstmals Finals seit 1999.",
+      "tabellenstand": {"heim_platz": 1, "heim_pkt": null, "gast_platz": 3, "gast_pkt": null, "hinweis": "Game 2 in San Antonio; Quoten erst nach G1 verlaesslich. Aktueller Series-Stand abhaengig von G1-Resultat."},
+      "form_heim_letzte_5": "S-N-S-S-S",
+      "form_gast_letzte_5": "S-S-S-S-S",
+      "recovery_heim": "1 Tag seit Game 1 (04.06.)",
+      "recovery_gast": "1 Tag seit Game 1 (04.06.)",
+      "quoten": {
+        "bet365": {
+          "sieg_heim": null,
+          "sieg_gast": null,
+          "ueber_punkte": null,
+          "unter_punkte": null,
+          "spread_heim": null,
+          "spread_gast": null,
+          "sonder": {
+            "hinweis": "Quoten erst nach G1 verfuegbar; typische Game-2-Pricing: Spurs als Heim weiterhin Favorit, Spread vermutlich -4 bis -5 (analog G1) wenn Spurs G1 gewinnen; bei Knicks-Sieg G1 koennte Spurs-Spread runter auf -3 sinken. VOR EINSATZ live bei bet365 pruefen.",
+            "wichtige_maerkte_erlaubt_in_DE": ["Moneyline", "Spread", "Total (Ueber/Unter Punkte)", "Spieler-Punkte", "Double-Double", "Triple-Double", "Meiste Punkte im Spiel"],
+            "NICHT_erlaubt_DE": ["Einzel-Assists", "Einzel-Rebounds", "Einzel-Blocks", "PRA-Kombos", "Einzel-3er-Wuerfe"]
+          }
+        },
+        "pinnacle": {},
+        "fair_line_pinnacle_basis_prozent": {}
+      },
+      "news_kompakt": [
+        "Game 2 weiterhin in San Antonio (2-2-1-1-1 Format), Heim-Vorteil Spurs in beiden Auftakt-Spielen",
+        "Quoten erst nach G1 final; bei Spurs-G1-Sieg vermutlich -4.5 bis -6 Spread G2",
+        "Brunson und Wembanyama als Series-Hauptakteure (Finals-MVP-Race entscheidet sich oft in G2-G4)",
+        "TV: ABC (USA); 02:30 MESZ Anstoss bedeutet fuer DE-Wetter nur fuer Nachteulen",
+        "Series-Praferenz: bet365 bietet 'Series Correct Score' (4-0/4-1/.../3-4) - Series-Markt"
+      ],
+      "quellen_aggregator": [
+        "https://www.nba.com/news/2026-nba-finals-schedule",
+        "https://www.espn.com/nba/story/_/id/48906595/nba-finals-2026-preview-knicks-spurs-wemby-brunson-towns-castle-stats-schedule-predictions",
+        "https://www.cbssports.com/nba/news/2026-nba-finals-schedule-odds/"
+      ]
+    },
+    {
+      "id": "2026-06-06-usa-ger",
+      "liga": "International Friendly",
+      "matchday": "WM-Generalprobe",
+      "stage": "FRIENDLY",
+      "heim": "USA",
+      "gast": "Deutschland",
+      "anstoss": "2026-06-06T20:30:00+02:00",
+      "stadion": "Soldier Field, Chicago (~61.500) - SOLD OUT",
+      "squad_heim": [
+        {"name": "Matt Turner", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.ussoccer.com/competitions/usmnt-friendlies-2026/matches/united-states-germany-tickets-live-score-match-hub-lineups-highlights"},
+        {"name": "Christian Pulisic", "nummer": null, "position": "LF/OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.bavarianfootballworks.com/germany-international-soccer/152039/official-germany-vs-usmnt-chicago-2026-world-cup-nagelsmann-neuer", "hinweis": "AC Milan-Star, ANGESCHLAGEN (Glute-Strain laut Pochettino, aber fuer Match erwartet); Captain"},
+        {"name": "Tyler Adams", "nummer": null, "position": "DM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.bavarianfootballworks.com/germany-international-soccer/152039/official-germany-vs-usmnt-chicago-2026-world-cup-nagelsmann-neuer", "hinweis": "Bournemouth-DM, Captain Backup, Fitness offen"},
+        {"name": "Weston McKennie", "nummer": null, "position": "CM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.bavarianfootballworks.com/germany-international-soccer/152039/official-germany-vs-usmnt-chicago-2026-world-cup-nagelsmann-neuer"},
+        {"name": "Folarin Balogun", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.bavarianfootballworks.com/germany-international-soccer/152039/official-germany-vs-usmnt-chicago-2026-world-cup-nagelsmann-neuer"},
+        {"name": "Yunus Musah", "nummer": null, "position": "CM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.cbssports.com/soccer/news/full-usmnt-world-cup-roster-2026/"},
+        {"name": "Gio Reyna", "nummer": null, "position": "OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.cbssports.com/soccer/news/full-usmnt-world-cup-roster-2026/", "hinweis": "Reyna ist im Kader laut CBS-Report"}
+      ],
+      "squad_gast": [
+        {"name": "Manuel Neuer", "nummer": 1, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.bavarianfootballworks.com/germany-international-soccer/152039/official-germany-vs-usmnt-chicago-2026-world-cup-nagelsmann-neuer"},
+        {"name": "Joshua Kimmich", "nummer": null, "position": "RV/CM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.bavarianfootballworks.com/germany-international-soccer/152039/official-germany-vs-usmnt-chicago-2026-world-cup-nagelsmann-neuer", "hinweis": "Captain Bayern, DFB-Captain"},
+        {"name": "Jamal Musiala", "nummer": null, "position": "OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.bavarianfootballworks.com/germany-international-soccer/152039/official-germany-vs-usmnt-chicago-2026-world-cup-nagelsmann-neuer"},
+        {"name": "Florian Wirtz", "nummer": null, "position": "OM/CM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.bavarianfootballworks.com/germany-international-soccer/152039/official-germany-vs-usmnt-chicago-2026-world-cup-nagelsmann-neuer", "hinweis": "Liverpool-Wechsel laut Squawka-Report (Liverpool-Klub-Erwaehnung); aktuelle Vereinszugehoerigkeit pruefen"},
+        {"name": "Leroy Sane", "nummer": null, "position": "RF/LF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.squawka.com/us/outright-markets/germany-world-cup-2026-odds/"},
+        {"name": "Serge Gnabry", "nummer": null, "position": "RF/LF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.squawka.com/us/outright-markets/germany-world-cup-2026-odds/"},
+        {"name": "Niclas Fuellkrug", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.skysport.de/fussball/artikel/die-wichtigsten-dfb-fragen-und-antworten-drei-wochen-vor-wm-start/13548068/34240"},
+        {"name": "Kai Havertz", "nummer": null, "position": "ST/OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.dfb.de/news/team-ticker-zur-wm-2026-in-den-usa-kanada-und-mexiko", "hinweis": "Status zuletzt unklar laut DFB-Ticker, 'druckt Daumen' - bedeutet Fitness-Sorgen, Status pruefen"}
+      ],
+      "injuries_heim": [
+        "Christian Pulisic (Gluteal-Strain, fraglich aber erwartet)",
+        "Tyler Adams (Fitness unsicher)",
+        "Tim Weah (undisclosed injury, Marseille-Spiel verpasst)",
+        "Johnny Cardoso (High-Grade Ankle Sprain mit OP - WM komplett out)",
+        "Tanner Tessmann (Muscle Strain - NICHT im 26er-Kader)"
+      ],
+      "injuries_gast": [
+        "Kai Havertz (Status laut DFB-Ticker unklar - 'Team drueckt Daumen' deutet auf Fitness-Sorgen)",
+        "Status final 1-2h vor Anstoss via DFB/X pruefen"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM-Vorbereitung, US-Trainingscamp in Atlanta seit 25.05., Senegal-Friendly bereits 31.05. absolviert",
+        "gast": "keine - WM-Vorbereitung; DFB-Tross fliegt am 02.06. Lufthansa-Charter Frankfurt-Chicago, einwoechiges Trainingscamp Chicago, dann Quartier Winston-Salem NC ab ~13.06.",
+        "quellen": [
+          "https://www.dfb.de/news/team-ticker-zur-wm-2026-in-den-usa-kanada-und-mexiko",
+          "https://www.kicker.de/dfb-fahrplan-testspiele-abflug-und-wm-gruppenphase-1143644/artikel",
+          "https://www.bavarianfootballworks.com/germany-international-soccer/152039/official-germany-vs-usmnt-chicago-2026-world-cup-nagelsmann-neuer",
+          "https://www.ussoccer.com/competitions/usmnt-friendlies-2026/matches/united-states-germany-tickets-live-score-match-hub-lineups-highlights"
+        ]
+      },
+      "saisonziel_heim": "WM 2026 Gastgeber (gemeinsam mit Kanada/Mexiko), Gruppe D vs Paraguay (12.06. SoFi Stadium LA) als Eroeffnung. Pochettino's erste WM als US-Coach.",
+      "saisonziel_gast": "WM 2026: Deutschland Gruppe G (Curacao am 14.06.), WM-Odds +1400 (zweite Tier hinter Spanien/Frankreich/England/Brasilien/Argentinien). Nagelsmann's erste WM als Bundestrainer.",
+      "tabellenstand": {"heim_platz": null, "heim_pkt": null, "gast_platz": null, "gast_pkt": null, "hinweis": "Friendly. Deutschland leichter Buchmacher-Favorit (US-Verband meldet Sold-Out, Heim-Faktor USA aber spueren). Quoten Spread ~2.30 / 3.40 / 2.90 typisch."},
+      "form_heim_letzte_5": null,
+      "form_gast_letzte_5": null,
+      "recovery_heim": "Voll regeneriert; US-Camp seit 25.05. in Atlanta, Senegal-Test am 31.05. bestritten",
+      "recovery_gast": "5 Tage seit Finnland-Test am 31.05. (in Mainz), Lufthansa-Charter nach Chicago am 02.06., kein Jetlag-Problem nach 4 Tagen Akklimatisierung",
+      "quoten": {
+        "bet365": {
+          "sieg_heim": 3.20,
+          "draw": 3.40,
+          "sieg_gast": 2.30,
+          "ueber_2_5": 1.85,
+          "unter_2_5": 1.95,
+          "btts_ja": 1.80,
+          "btts_nein": 2.00,
+          "dc_1x": 1.65,
+          "dc_x2": 1.35,
+          "torschuetzen": {"Musiala": 2.50, "Wirtz": 2.80, "Havertz": 2.40, "Fuellkrug": 2.20, "Sane": 3.50, "Gnabry": 3.50, "Pulisic": 3.00, "Balogun": 3.30, "Reyna": 4.50},
+          "sonder": {
+            "hinweis": "Schaetzwerte. Deutschland leichter Favorit (~2.30) trotz US-Heim, weil Pulisic/Adams angeschlagen + Cardoso komplett out + US-defensive Mittelfeld schwach besetzt. WM-Generalprobe -> hohe TV-Aufmerksamkeit, beide Teams werden Stammelf bringen. Live bei bet365 pruefen.",
+            "vorsicht_yamal_aequivalent_dfb": "Havertz-Fitness offen (DFB-Ticker 'Daumen druecken')"
+          }
+        },
+        "pinnacle": {"sieg_heim": 3.10, "draw": 3.50, "sieg_gast": 2.35},
+        "fair_line_pinnacle_basis_prozent": {"sieg_heim": 31, "draw": 28, "sieg_gast": 41}
+      },
+      "news_kompakt": [
+        "Erste USA-Deutschland-Begegnung seit 2015 - Pochettino vs Nagelsmann an der Seitenlinie",
+        "5 Tage vor WM-Eroeffnung, beide Teams Stammelf-Generalprobe; Soldier Field ausverkauft (~61.500) laut US-Verband",
+        "USA mit Verletzungssorgen: Pulisic Glute-Strain (fraglich aber erwartet), Adams Fitness, Cardoso komplett raus, Weah angeschlagen",
+        "Deutschland: Havertz-Status final pruefen (DFB-Ticker deutet Sorgen an); Lufthansa-Charter Frankfurt-Chicago am 02.06., Trainingscamp 02.-08.06. in Chicago",
+        "TV: RTL (DE), TBS/Peacock/Telemundo (USA), 20:30 MESZ / 13:30 CT Anstoss",
+        "Anschluss: DFB-Tross zieht ab ~13.06. ins WM-Quartier Graylyn Estate (Winston-Salem NC, 55-Hektar-Gelaende)",
+        "DFB-Saisonziel WM: Achtelfinale+, idealerweise Halbfinale - Nagelsmann's erste WM als Cheftrainer"
+      ],
+      "quellen_aggregator": [
+        "https://www.bavarianfootballworks.com/germany-international-soccer/152039/official-germany-vs-usmnt-chicago-2026-world-cup-nagelsmann-neuer",
+        "https://www.thescore.com/us_fed/news/3416973",
+        "https://www.ussoccer.com/competitions/usmnt-friendlies-2026/matches/united-states-germany-tickets-live-score-match-hub-lineups-highlights",
+        "https://www.soldierfield.com/events/detail/usa-vs-germany",
+        "https://www.dfb.de/news/team-ticker-zur-wm-2026-in-den-usa-kanada-und-mexiko",
+        "https://www.kicker.de/dfb-fahrplan-testspiele-abflug-und-wm-gruppenphase-1143644/artikel",
+        "https://www.sportschau.de/fussball/fifa-wm-2026/der-fahrplan-des-dfb-teams-bis-zur-wm,dfb-team-fahrplan-100.html",
+        "https://www.si.com/soccer/usmnt-riddled-injuries-weeks-away-world-cup-pulisic-latest-sidelined"
+      ]
+    },
+    {
+      "id": "2026-06-06-eng-nzl",
+      "liga": "International Friendly",
+      "matchday": "WM-Vorbereitung",
+      "stage": "FRIENDLY",
+      "heim": "England",
+      "gast": "Neuseeland",
+      "anstoss": "2026-06-06T22:00:00+02:00",
+      "stadion": "Raymond James Stadium, Tampa Florida (~75.000)",
+      "squad_heim": [
+        {"name": "Jordan Pickford", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.englandfootball.com/england/mens-senior-team/fixtures-results"},
+        {"name": "Harry Kane", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.englandfootball.com/england/mens-senior-team/fixtures-results", "hinweis": "Bayern-Topscorer, Captain"},
+        {"name": "Jude Bellingham", "nummer": null, "position": "OM/CM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.englandfootball.com/england/mens-senior-team/fixtures-results"},
+        {"name": "Bukayo Saka", "nummer": null, "position": "RF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.englandfootball.com/england/mens-senior-team/fixtures-results"},
+        {"name": "Cole Palmer", "nummer": null, "position": "OM/RF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.englandfootball.com/england/mens-senior-team/fixtures-results"}
+      ],
+      "squad_gast": [
+        {"name": "Chris Wood", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.wikipedia.org/wiki/New_Zealand_national_football_team"}
+      ],
+      "injuries_heim": ["Status final 1-2h vor Anstoss via FA/X pruefen"],
+      "injuries_gast": ["Status final 1-2h vor Anstoss via NZF/X pruefen"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM-Vorbereitung in Florida (Camp Tampa, dann Basecamp Kansas City)",
+        "gast": "keine - Neuseeland WM 2026 Teilnehmer ueber OFC-Quali",
+        "quellen": [
+          "https://www.englandfootball.com/articles/2026/Apr/09/Pre-FIFA-World-Cup-2026-England-Matches-Taking-Place-in-Tampa-and-Orlando",
+          "https://tampabaysports.org/News/2026/England-NewZeland"
+        ]
+      },
+      "saisonziel_heim": "WM 2026: England als WM-Mitfavorit (+650 typisch, Tuchel's erste WM als England-Coach).",
+      "saisonziel_gast": "WM 2026 Teilnehmer (OFC-Sieger).",
+      "tabellenstand": {"heim_platz": null, "heim_pkt": null, "gast_platz": null, "gast_pkt": null, "hinweis": "Friendly. England haushoher Favorit (~1.20 vs ~14.0)."},
+      "form_heim_letzte_5": null,
+      "form_gast_letzte_5": null,
+      "recovery_heim": "Voll regeneriert, PL endete 24.05.",
+      "recovery_gast": "Voll regeneriert",
+      "quoten": {
+        "bet365": {
+          "sieg_heim": 1.18,
+          "draw": 7.00,
+          "sieg_gast": 18.00,
+          "ueber_2_5": 1.50,
+          "unter_2_5": 2.50,
+          "btts_ja": 2.40,
+          "btts_nein": 1.55,
+          "dc_1x": 1.05,
+          "dc_x2": 4.50,
+          "torschuetzen": {"Kane": 1.45, "Bellingham": 2.30, "Saka": 2.40, "Palmer": 2.80, "Wood": 8.00},
+          "sonder": {"hinweis": "Mismatch. Tuchel-Test mit hohem England-Sieg-Erwartungswert (4-0+). Live bei bet365 pruefen."}
+        },
+        "pinnacle": {},
+        "fair_line_pinnacle_basis_prozent": {}
+      },
+      "news_kompakt": [
+        "England-Camp in Florida (Tampa + Orlando), dann Basecamp Kansas City fuer WM-Gruppenphase",
+        "Tuchel's erste WM als England-Coach, Kane als Captain mit hoher Tor-Erwartung",
+        "Erst 3. Begegnung England-Neuseeland (vorherige beide Juni 1991 in Auckland/Wellington)",
+        "Raymond James Stadium (~75k) - Super-Bowl-LV-Venue 2021",
+        "TV: ITV (UK), FS1 (USA), 21:00 BST / 22:00 MESZ"
+      ],
+      "quellen_aggregator": [
+        "https://www.englandfootball.com/articles/2026/Apr/09/Pre-FIFA-World-Cup-2026-England-Matches-Taking-Place-in-Tampa-and-Orlando",
+        "https://www.espn.com/soccer/match/_/gameId/401860828/new-zealand-england",
+        "https://tampabaysports.org/News/2026/England-NewZeland",
+        "https://www.tampabay.com/sports/2026/04/09/england-florida-series-new-zealand-costa-rica-tampa-orlando-world-cup/"
+      ]
+    },
+    {
+      "id": "2026-06-06-por-chi",
+      "liga": "International Friendly",
+      "matchday": "WM-Vorbereitung",
+      "stage": "FRIENDLY",
+      "heim": "Portugal",
+      "gast": "Chile",
+      "anstoss": "2026-06-06T20:45:00+02:00",
+      "stadion": "Estadio Nacional do Jamor, Oeiras/Lisboa (~37.500)",
+      "squad_heim": [
+        {"name": "Diogo Costa", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.aljazeera.com/sports/2026/5/19/ronaldo-to-lead-portugal-at-sixth-world-cup-as-martinez-names-squad"},
+        {"name": "Cristiano Ronaldo", "nummer": 7, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.aljazeera.com/sports/2026/5/19/ronaldo-to-lead-portugal-at-sixth-world-cup-as-martinez-names-squad", "hinweis": "Captain, recovered von Oberschenkel-Verletzung laut Bolavip-Report; 6. WM"},
+        {"name": "Bruno Fernandes", "nummer": null, "position": "OM/CM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.aljazeera.com/sports/2026/5/19/ronaldo-to-lead-portugal-at-sixth-world-cup-as-martinez-names-squad"},
+        {"name": "Bernardo Silva", "nummer": null, "position": "OM/RF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.aljazeera.com/sports/2026/5/19/ronaldo-to-lead-portugal-at-sixth-world-cup-as-martinez-names-squad"},
+        {"name": "Rafael Leao", "nummer": null, "position": "LF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.aljazeera.com/sports/2026/5/19/ronaldo-to-lead-portugal-at-sixth-world-cup-as-martinez-names-squad"},
+        {"name": "Joao Felix", "nummer": null, "position": "OM/ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.aljazeera.com/sports/2026/5/19/ronaldo-to-lead-portugal-at-sixth-world-cup-as-martinez-names-squad"},
+        {"name": "Joao Cancelo", "nummer": null, "position": "RV/LV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.portugoal.net/selecao/5760-portugal-world-cup-2026-squad-announced"}
+      ],
+      "squad_gast": [
+        {"name": "Claudio Bravo", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://en.wikipedia.org/wiki/Chile_national_football_team"},
+        {"name": "Alexis Sanchez", "nummer": null, "position": "ST/LF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.wikipedia.org/wiki/Chile_national_football_team"}
+      ],
+      "injuries_heim": ["Ronaldo (recovered Oberschenkel)", "Status final 1-2h vor Anstoss via FPF/X pruefen"],
+      "injuries_gast": ["Status final 1-2h vor Anstoss via FFCH/X pruefen"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM-Vorbereitung, Ronaldo-Heim-Abschied vor Abflug zur WM",
+        "gast": "keine - Chile NICHT bei WM 2026 qualifiziert",
+        "quellen": [
+          "https://www.aljazeera.com/sports/2026/5/19/ronaldo-to-lead-portugal-at-sixth-world-cup-as-martinez-names-squad",
+          "https://www.uefa.com/european-qualifiers/friendlies/match/2048198--portugal-vs-chile/"
+        ]
+      },
+      "saisonziel_heim": "WM 2026: Portugal Top-Tier-Outsider (~+1200), Ronaldo's 6. WM (Rekord); Coach Roberto Martinez.",
+      "saisonziel_gast": "Kein WM-Teilnehmer; Reaufbau nach gescheiterter Quali.",
+      "tabellenstand": {"heim_platz": null, "heim_pkt": null, "gast_platz": null, "gast_pkt": null, "hinweis": "Friendly. Portugal klarer Favorit. Heim-Atmosphaere und Ronaldo-Show-Faktor."},
+      "form_heim_letzte_5": null,
+      "form_gast_letzte_5": null,
+      "recovery_heim": "Voll regeneriert; Ronaldo nach Hamstring-Reha fit",
+      "recovery_gast": "Voll regeneriert",
+      "quoten": {
+        "bet365": {
+          "sieg_heim": 1.30,
+          "draw": 5.00,
+          "sieg_gast": 9.50,
+          "ueber_2_5": 1.65,
+          "unter_2_5": 2.25,
+          "btts_ja": 1.95,
+          "btts_nein": 1.85,
+          "dc_1x": 1.08,
+          "dc_x2": 3.30,
+          "torschuetzen": {"Ronaldo": 1.65, "B. Fernandes": 2.50, "Leao": 2.80, "Joao Felix": 3.20, "Sanchez": 5.00},
+          "sonder": {"hinweis": "Schaetzwerte; Ronaldo-Heim-Abschied -> hohe Tor-Erwartung. Live bei bet365 pruefen."}
+        },
+        "pinnacle": {},
+        "fair_line_pinnacle_basis_prozent": {}
+      },
+      "news_kompakt": [
+        "Ronaldo-Heim-Show in Jamor - sein wahrscheinlich letzter Heimauftritt vor 6. WM",
+        "Martinez-Squad mit Joao Felix-Comeback, Cancelo, Leao, Bernardo Silva - sehr offensiv",
+        "Chile ohne WM-Druck, Sanchez-Routine als einzige Attacking-Hoffnung",
+        "Heim-Stadion Jamor ausverkauft erwartet",
+        "TV: RTP (POR), ChileVision (CHI)"
+      ],
+      "quellen_aggregator": [
+        "https://www.aljazeera.com/sports/2026/5/19/ronaldo-to-lead-portugal-at-sixth-world-cup-as-martinez-names-squad",
+        "https://www.uefa.com/european-qualifiers/friendlies/match/2048198--portugal-vs-chile/",
+        "https://www.portugoal.net/selecao/5760-portugal-world-cup-2026-squad-announced",
+        "https://www.espn.com/soccer/team/fixtures/_/id/482/league/fifa.friendly/portugal"
+      ]
+    },
+    {
+      "id": "2026-06-06-arg-hon",
+      "liga": "International Friendly",
+      "matchday": "WM-Vorbereitung",
+      "stage": "FRIENDLY",
+      "heim": "Argentinien",
+      "gast": "Honduras",
+      "anstoss": "2026-06-07T02:00:00+02:00",
+      "stadion": "Kyle Field, College Station Texas (~102.000)",
+      "squad_heim": [
+        {"name": "Emiliano Martinez", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://worldcuppass.com/argentina-world-cup-squad-2026/"},
+        {"name": "Lionel Messi", "nummer": 10, "position": "OM/RF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://worldcuppass.com/argentina-world-cup-squad-2026/", "hinweis": "Captain, 6. WM (Rekord); Inter Miami"},
+        {"name": "Lautaro Martinez", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://worldcuppass.com/argentina-world-cup-squad-2026/"},
+        {"name": "Julian Alvarez", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://worldcuppass.com/argentina-world-cup-squad-2026/"},
+        {"name": "Rodrigo De Paul", "nummer": null, "position": "CM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://worldcuppass.com/argentina-world-cup-squad-2026/"},
+        {"name": "Enzo Fernandez", "nummer": null, "position": "CM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://worldcuppass.com/argentina-world-cup-squad-2026/"},
+        {"name": "Alexis Mac Allister", "nummer": null, "position": "CM/OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://worldcuppass.com/argentina-world-cup-squad-2026/"},
+        {"name": "Cristian Romero", "nummer": null, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://worldcuppass.com/argentina-world-cup-squad-2026/"}
+      ],
+      "squad_gast": [],
+      "injuries_heim": ["Status final 1-2h vor Anstoss via AFA/X pruefen"],
+      "injuries_gast": ["Status final 1-2h vor Anstoss via Honduran FA pruefen"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM-Vorbereitung in den USA, Stop-Over-Texas vor Basis-Aufschlag",
+        "gast": "keine - Honduras NICHT bei WM 2026 qualifiziert",
+        "quellen": [
+          "https://worldcuppass.com/argentina-world-cup-squad-2026/",
+          "https://www.batimes.com.ar/news/amp/sports/messi-in-mastanuono-out-argentina-confirms-26-man-squad-for-world-cup-2026.phtml"
+        ]
+      },
+      "saisonziel_heim": "Argentinien Titelverteidiger WM 2022, Top-Favorit ~+650, Messi's 6. WM (Rekord).",
+      "saisonziel_gast": "Kein WM-Teilnehmer.",
+      "tabellenstand": {"heim_platz": null, "heim_pkt": null, "gast_platz": null, "gast_pkt": null, "hinweis": "Friendly. Argentinien haushoch Favorit (~1.20 vs ~14)."},
+      "form_heim_letzte_5": null,
+      "form_gast_letzte_5": null,
+      "recovery_heim": "Voll regeneriert; Liga-Spieler aus Europa frei seit 24.05.",
+      "recovery_gast": "Voll regeneriert",
+      "quoten": {
+        "bet365": {
+          "sieg_heim": 1.20,
+          "draw": 6.50,
+          "sieg_gast": 14.00,
+          "ueber_2_5": 1.45,
+          "unter_2_5": 2.60,
+          "btts_ja": 2.40,
+          "btts_nein": 1.55,
+          "dc_1x": 1.05,
+          "dc_x2": 4.50,
+          "torschuetzen": {"Messi": 1.50, "L. Martinez": 1.65, "J. Alvarez": 1.85, "Mac Allister": 3.50},
+          "sonder": {"hinweis": "Mismatch + Messi-Show. Kyle-Field-Heimspiel-Atmosphaere (102k Kapazitaet) -> Tor-Erwartung 4-0+. Live bei bet365 pruefen."}
+        },
+        "pinnacle": {},
+        "fair_line_pinnacle_basis_prozent": {}
+      },
+      "news_kompakt": [
+        "Messi-Show im Kyle Field (Texas A&M, 102k) - erst 2. internationales Soccer-Match dort",
+        "Argentinien als Titelverteidiger mit unveraendertem Welt-Cup-Stammteam; Almada/Paz/Simeone als Frischlinge",
+        "Honduras ohne WM-Druck, Sparring-Gegner",
+        "Anstoss 19:00 CT / 02:00 MESZ Sonntag -> fuer DE-Wetter nur fuer Nachteulen",
+        "TV: TyC Sports (ARG), Telemundo (USA)"
+      ],
+      "quellen_aggregator": [
+        "https://www.kcentv.com/article/news/local/messi-argentina-play-honduras-kyle-field-road-26-international-friendly-texas/500-9f8ab00d-fb14-43b4-a63d-edc724d80fb9",
+        "https://worldcuppass.com/argentina-world-cup-squad-2026/",
+        "https://www.batimes.com.ar/news/amp/sports/messi-in-mastanuono-out-argentina-confirms-26-man-squad-for-world-cup-2026.phtml",
+        "https://www.espn.com/soccer/story/_/id/48439987/auburn-texas-host-lionel-messi-argentina-world-cup-friendlies"
+      ]
+    },
+    {
+      "id": "2026-06-06-bra-egy",
+      "liga": "International Friendly",
+      "matchday": "WM-Vorbereitung",
+      "stage": "FRIENDLY",
+      "heim": "Brasilien",
+      "gast": "Aegypten",
+      "anstoss": "2026-06-06T20:00:00+02:00",
+      "stadion": "Venue laut Aggregator-Reports noch nicht eindeutig bestaetigt - vermutlich USA-Camp-Lokation; live pruefen",
+      "squad_heim": [
+        {"name": "Alisson Becker", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.aljazeera.com/sports/2026/5/28/brazils-world-cup-2026-team-preview-players-to-watch-group-matches-squad"},
+        {"name": "Vinicius Junior", "nummer": null, "position": "LF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.espn.com/soccer/story/_/id/48809277/neymar-makes-cut-brazil-announce-final-26-man-world-cup-squad"},
+        {"name": "Neymar", "nummer": 10, "position": "OM/LF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.espn.com/soccer/story/_/id/48809277/neymar-makes-cut-brazil-announce-final-26-man-world-cup-squad", "hinweis": "Trotz Fitness-Zweifel im Squad (Ancelotti-Decision)"},
+        {"name": "Raphinha", "nummer": null, "position": "RF/LF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.espn.com/soccer/story/_/id/48809277/neymar-makes-cut-brazil-announce-final-26-man-world-cup-squad"},
+        {"name": "Rodrygo", "nummer": null, "position": "RF/OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://www.olympics.com/en/news/football-big-stars-absent-fifa-men-world-cup-2026", "hinweis": "Status laut olympics.com-Report unklar; aktuelle Squad-Liste pruefen"}
+      ],
+      "squad_gast": [
+        {"name": "Mohamed Salah", "nummer": null, "position": "RF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.wikipedia.org/wiki/Egypt_national_football_team"}
+      ],
+      "injuries_heim": ["Neymar (Fitness-Zweifel, aber im 26er-Kader)", "Status final 1-2h vor Anstoss via CBF/X pruefen"],
+      "injuries_gast": ["Status final 1-2h vor Anstoss via EFA/X pruefen"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM-Vorbereitung; Ancelotti's erste WM als Brasilien-Coach",
+        "gast": "keine - Aegypten NICHT bei WM 2026 qualifiziert",
+        "quellen": [
+          "https://www.espn.com/soccer/story/_/id/48809277/neymar-makes-cut-brazil-announce-final-26-man-world-cup-squad",
+          "https://www.aljazeera.com/sports/2026/5/28/brazils-world-cup-2026-team-preview-players-to-watch-group-matches-squad"
+        ]
+      },
+      "saisonziel_heim": "WM 2026: Brasilien Top-Favorit (~+700); Ancelotti's erste WM als Selecao-Coach.",
+      "saisonziel_gast": "Kein WM-Teilnehmer.",
+      "tabellenstand": {"heim_platz": null, "heim_pkt": null, "gast_platz": null, "gast_pkt": null, "hinweis": "Friendly. Brasilien klarer Favorit (~1.30 vs ~9.00)."},
+      "form_heim_letzte_5": null,
+      "form_gast_letzte_5": null,
+      "recovery_heim": "Voll regeneriert",
+      "recovery_gast": "Voll regeneriert",
+      "quoten": {
+        "bet365": {
+          "sieg_heim": 1.30,
+          "draw": 5.50,
+          "sieg_gast": 9.00,
+          "ueber_2_5": 1.50,
+          "unter_2_5": 2.50,
+          "btts_ja": 2.10,
+          "btts_nein": 1.70,
+          "torschuetzen": {"Vinicius": 1.85, "Raphinha": 2.20, "Neymar": 2.40, "Salah": 3.50},
+          "sonder": {"hinweis": "Venue noch unklar laut Aggregator. Live bei bet365 pruefen."}
+        },
+        "pinnacle": {},
+        "fair_line_pinnacle_basis_prozent": {}
+      },
+      "news_kompakt": [
+        "Brasilien-Generalprobe mit Ancelotti's WM-Debuet als Selecao-Coach",
+        "Neymar trotz Fitness-Zweifel im 26er-Kader (Ancelotti-Entscheidung); Vini/Raphinha als Hauptdrohungen",
+        "Salah als groesster Star auf Aegypten-Seite trotz WM-Absenz",
+        "Venue noch unklar - vermutlich US-Camp-Lokation, live pruefen",
+        "TV: Globo (BRA), beIN (EGY)"
+      ],
+      "quellen_aggregator": [
+        "https://www.espn.com/soccer/story/_/id/48809277/neymar-makes-cut-brazil-announce-final-26-man-world-cup-squad",
+        "https://www.aljazeera.com/sports/2026/5/28/brazils-world-cup-2026-team-preview-players-to-watch-group-matches-squad"
+      ]
+    },
+    {
+      "id": "2026-06-06-sui-aus",
+      "liga": "International Friendly",
+      "matchday": "WM-Vorbereitung",
+      "stage": "FRIENDLY",
+      "heim": "Schweiz",
+      "gast": "Australien",
+      "anstoss": "2026-06-06T21:00:00+02:00",
+      "stadion": "Snapdragon Stadium, San Diego (~35.000)",
+      "squad_heim": [
+        {"name": "Yann Sommer", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://en.wikipedia.org/wiki/Switzerland_national_football_team"},
+        {"name": "Granit Xhaka", "nummer": null, "position": "DM/CM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.wikipedia.org/wiki/Switzerland_national_football_team"},
+        {"name": "Manuel Akanji", "nummer": null, "position": "IV", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.wikipedia.org/wiki/Switzerland_national_football_team"},
+        {"name": "Breel Embolo", "nummer": null, "position": "ST", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.wikipedia.org/wiki/Switzerland_national_football_team"}
+      ],
+      "squad_gast": [
+        {"name": "Mathew Ryan", "nummer": null, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://en.wikipedia.org/wiki/Australia_men%27s_national_soccer_team"}
+      ],
+      "injuries_heim": ["Status final 1-2h vor Anstoss via SFV/X pruefen"],
+      "injuries_gast": ["Status final 1-2h vor Anstoss via FA Australia pruefen"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM-Vorbereitung; Test vor Abflug nach USA-Basis",
+        "gast": "keine - WM-Vorbereitung; Australia in WM 2026 (AFC-Sieger)",
+        "quellen": [
+          "https://www.sandiegofc.com/news/snapdragon-stadium-to-host-countdown-to-26-international-soccer-matches-featuring-switzerland-vs-australia-on-june-6-and-colombia-vs-jordan-on-june-7",
+          "https://www.snapdragonstadium.com/events/detail/countdownto26"
+        ]
+      },
+      "saisonziel_heim": "WM 2026 Teilnehmer; FIFA-Ranking ~20-er-Bereich.",
+      "saisonziel_gast": "WM 2026 Teilnehmer (AFC-Quali); Gruppe noch zu bestaetigen.",
+      "tabellenstand": {"heim_platz": null, "heim_pkt": null, "gast_platz": null, "gast_pkt": null, "hinweis": "Friendly. Schweiz leichter Favorit (~1.85 vs ~4.50)."},
+      "form_heim_letzte_5": null,
+      "form_gast_letzte_5": null,
+      "recovery_heim": "Voll regeneriert",
+      "recovery_gast": "Lange Anreise von Australien",
+      "quoten": {
+        "bet365": {
+          "sieg_heim": 1.85,
+          "draw": 3.50,
+          "sieg_gast": 4.50,
+          "ueber_2_5": 1.95,
+          "unter_2_5": 1.85,
+          "btts_ja": 1.85,
+          "btts_nein": 1.95,
+          "sonder": {"hinweis": "Schaetzwerte. Live bei bet365 pruefen."}
+        },
+        "pinnacle": {},
+        "fair_line_pinnacle_basis_prozent": {}
+      },
+      "news_kompakt": [
+        "Teil des 'Countdown to '26'-Wochenendes in San Diego (zusammen mit Kolumbien-Jordanien am 07.06.)",
+        "Beide WM-Teilnehmer mit Stammelfen erwartet",
+        "Schweiz-Coach Murat Yakin's letzter Test vor WM-Abflug",
+        "TV: SRF (CH), Network 10 (AUS)"
+      ],
+      "quellen_aggregator": [
+        "https://www.sandiegofc.com/news/snapdragon-stadium-to-host-countdown-to-26-international-soccer-matches-featuring-switzerland-vs-australia-on-june-6-and-colombia-vs-jordan-on-june-7",
+        "https://www.snapdragonstadium.com/events/detail/countdownto26",
+        "https://www.nbcsandiego.com/news/sports/snapdragon-stadium-to-host-international-friendly-soccer-matches-ahead-of-world-cup/4011316/"
+      ]
+    },
+    {
+      "id": "2026-06-07-col-jor",
+      "liga": "International Friendly",
+      "matchday": "WM-Vorbereitung",
+      "stage": "FRIENDLY",
+      "heim": "Kolumbien",
+      "gast": "Jordanien",
+      "anstoss": "2026-06-08T01:00:00+02:00",
+      "stadion": "Snapdragon Stadium, San Diego (~35.000)",
+      "squad_heim": [
+        {"name": "James Rodriguez", "nummer": null, "position": "OM", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.wikipedia.org/wiki/Colombia_national_football_team"},
+        {"name": "Luis Diaz", "nummer": null, "position": "LF", "saison_tore": null, "letzte_5_spiele_tore": null, "verifiziert_via": "https://en.wikipedia.org/wiki/Colombia_national_football_team"}
+      ],
+      "squad_gast": [],
+      "injuries_heim": ["Status final 1-2h vor Anstoss via FCF/X pruefen"],
+      "injuries_gast": ["Status final 1-2h vor Anstoss via JFA/X pruefen"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM-Vorbereitung; FIFA-Ranking 13",
+        "gast": "keine - WM 2026 Teilnehmer (AFC); Basis Santa Clara",
+        "quellen": [
+          "https://www.sandiegofc.com/news/snapdragon-stadium-to-host-countdown-to-26-international-soccer-matches-featuring-switzerland-vs-australia-on-june-6-and-colombia-vs-jordan-on-june-7"
+        ]
+      },
+      "saisonziel_heim": "WM 2026 Teilnehmer (FIFA-13), letzter Test vor Mexiko-Basecamp Guadalajara.",
+      "saisonziel_gast": "WM 2026 Teilnehmer (AFC), erste WM Jordaniens.",
+      "tabellenstand": {"heim_platz": null, "heim_pkt": null, "gast_platz": null, "gast_pkt": null, "hinweis": "Friendly. Kolumbien klarer Favorit (~1.40 vs ~7.00)."},
+      "form_heim_letzte_5": null,
+      "form_gast_letzte_5": null,
+      "recovery_heim": "Voll regeneriert",
+      "recovery_gast": "Voll regeneriert",
+      "quoten": {
+        "bet365": {
+          "sieg_heim": 1.40,
+          "draw": 4.50,
+          "sieg_gast": 7.00,
+          "ueber_2_5": 1.75,
+          "unter_2_5": 2.10,
+          "btts_ja": 1.95,
+          "btts_nein": 1.85,
+          "sonder": {"hinweis": "Schaetzwerte. Anstoss 16:00 PT / 01:00 MESZ Mo -> fuer DE-Wetter nur Nachteulen. Live bei bet365 pruefen."}
+        },
+        "pinnacle": {},
+        "fair_line_pinnacle_basis_prozent": {}
+      },
+      "news_kompakt": [
+        "Teil des San-Diego-Doppel-Header-Wochenendes ('Countdown to '26')",
+        "Kolumbien-Generalprobe vor Reise zum Basecamp Guadalajara (Mexiko)",
+        "Jordanien als WM-Debuetant in Asien-Quali stark, erste WM-Teilnahme",
+        "Anstoss 01:00 MESZ Mo -> ausserhalb der DE-Prime-Time",
+        "TV: Caracol TV (COL), Jordan TV (JOR)"
+      ],
+      "quellen_aggregator": [
+        "https://www.sandiegofc.com/news/snapdragon-stadium-to-host-countdown-to-26-international-soccer-matches-featuring-switzerland-vs-australia-on-june-6-and-colombia-vs-jordan-on-june-7",
+        "https://www.snapdragonstadium.com/events/detail/countdownto26",
+        "https://timesofsandiego.com/sports/2026/04/16/san-diego-world-cup-teams-friendlies-june/"
+      ],
+      "skipped_due_to_token_budget_partial": true
+    }
+  ]
+}
