@@ -47,5 +47,4 @@ window.__MIESMUSCHEL_TIPPS = {
     "ergebnis": "Empty-Slate-Tag sauber. 0 Spiele, 0 Tipps, 0 Kombis, 0 Halluzinationen, alle Hartregeln trivial eingehalten. Pipeline-History konsistent: 6. Empty-Slate-Tag in Folge des Saisonende-Uebergangs (24.05 Schlusstag Top-Ligen -> 03.06 NBA-Finals-Start). Watchdog-Auftrag korrekt erfuellt: PRUEFUNG NEG -> Generation ausgefuehrt -> Resultat dokumentiert leer."
   },
   "footer": "18+ - bet365 DE - Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
-}
-;
+};
