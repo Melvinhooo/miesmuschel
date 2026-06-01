@@ -1,0 +1,71 @@
+{
+  "datum": "2026-06-01",
+  "erstellt_am": "2026-06-01T10:30:00+02:00",
+  "modus": "tag",
+  "hinweis": "Recherche-Daten Montag 01.06.2026 (Mo-Fr-Variante, Pre-Tipps-Datenbasis fuer Tipps-Slot 13:30 Berlin; Recherche-Cloud-Routine). SOMMERPAUSE/SAISON-PAUSE-TAG - HEUTE 0 SPIELE IM CLAUDE.md-SCOPE. VOLLSTAENDIGKEITS-CHECK (Lesson Liga-Luecke 26.04/25.05 + Lesson Empty-Slate 28.05/29.05/31.05): football-data.org am 01.06 live abgefragt -> 0 In-Scope-Spiele am 01.06 (BL1 count=0, PL count=0, PD count=0, SA count=0, FL1 count=0, CL count=0; EL HTTP-403 Free-Tier nicht abrufbar - aber bereits 20.05 beendet). Global-Endpoint /v4/matches am 01.06 zeigt 0 Spiele weltweit (Brasileirao Serie A heute spielfrei, Pokal-Wettbewerbe alle abgeschlossen). balldontlie.io abgefragt fuer 01.06 + 02.06 -> 0 NBA-Spiele beide Tage. ===== WICHTIGE KORREKTUR ZUM RECHERCHE-FILE 2026-05-31: NBA-Finals G1 am 03.06 ECT (= 04.06 02:30 Berlin) wird im FROST BANK CENTER SAN ANTONIO ausgetragen (SPURS HOME COURT), NICHT im Madison Square Garden NYK. Grund: Spurs hatten bessere Regular-Season-Bilanz mit 62-20 vs Knicks 53-29 - West-Vertreter erhaelt Heimrecht G1/G2/G5/G7. balldontlie.io v1-Response fuer 2026-06-03 bestaetigt: home_team=Spurs (id:27, San Antonio), visitor_team=Knicks (id:20, New York). Quelle WebSearch: NBC NewYork + ESPN + Posting and Toasting + KENS5 + Heavy + Yahoo Sports. ===== ABGESCHLOSSENE TOP-EVENTS DIESES SAISONENDES (bereits in Recherche-File 2026-05-31 dokumentiert, hier nur als Kontext): (1) UEFA Champions League Final 30.05 PSG 1-1 Arsenal n.V., 4-3 i.E. (Havertz 6./Dembele Elfer 64./Gabriel verschiesst 5. Penalty). (2) NBA Western Conference Finals G7 30.05 (US) = 31.05 02:00 Berlin: SAS 111-103 OKC, Spurs gewinnen Serie 4-3, Wembanyama erstes Finals. (3) Bundesliga beendet 17.05, PL 24.05, LaLiga 25.05, Serie A 25.05, Ligue 1 17.05. (4) DFB-Pokal 23.05 Bayern-Stuttgart, FA-Cup 16.05 Chelsea-Man City, Coppa-Italia 13.05 Lazio-Inter. (5) Conference League Final 27.05 Crystal Palace 2:1 Rayo Vallecano. ===== NAECHSTES IN-SCOPE-EVENT (UNVERAENDERT vs gestern, nur Venue korrigiert): NBA-Finals G1 Mi 03.06 8:30 PM ECT (= Do 04.06 02:30 Berlin) im FROST BANK CENTER, San Antonio, TX. Uebertragung ABC. NYK (East-Champion, 53-29 RS, ECF-Sweep 4-0 gg Cavs 28.05) @ SAS (West-Champion, 62-20 RS, WCF 4-3 gg OKC 30.05). Wembanyama Finals-Debuet, Spurs erste Finals seit Duncan-Aera 2014, Knicks erste Finals seit Ewing-Aera 1999. ===== REGEL-ANWENDBARKEIT HEUTE: 2:0-Insurance-Regel gilt NUR fuer BL+CL -> heute NICHT anwendbar (kein In-Scope-Fussball-Spiel). Einwechslungs-Boost-Regel gilt fuer Fussball-Torschuetzen-Maerkte -> heute NICHT anwendbar. NBA-Markt-Whitelist (Moneyline, Spread, U/O, Spieler-Punkte, Double-Double, Triple-Double, Meiste-Punkte) -> heute NICHT anwendbar (kein NBA-Spiel). NBA-Markt-Blacklist (PRA-Kombos, Punkte+Assists, Punkte+Rebounds, Einzel-Assists/Rebounds/Steals/Blocks/Turnovers, Einzelne 3er) -> als Reminder fuer NBA-Finals-Serie ab 04.06. ===== Kasse-Stand 04.05.2026: 550 EUR -> Stufe 1 (Aufbau-Phase) aktiv (Kasse < 1000 EUR), konservative Einsaetze (1-2% / 5,50-11 EUR Einzeltipps, max). Stufe-2-Trigger (Kasse >= 1000 EUR + 30d-ROI > +5%) noch nicht erreicht. Auszahlungs-Strategie greift erst bei Kasse >= 1200 EUR (Basis 1000 EUR + 200 EUR Skim). ===== Aktuelle Markt-Bluter laut data/markt_bluter.json (greifen heute nicht da keine Tipps moeglich) und Aktuelle Goldgruben laut data/markt_goldgruben.json: Doppelte Chance 1X (84.6% / +9.5%), Doppelte Chance X2 (77.8% / +9.4%), Unter 2.5 Tore (66.7% / +27.5%), Torschuetzen Jederzeit (50% / +24.4%) - fuer Tipps-Routine ab Wochenende 06.-07.06 bzw. NBA-Finals-Serie ab 04.06 reaktivierbar. ===== EMPFEHLUNG AN TIPPS-ROUTINE 13:30: keine Tipps generieren - empty-slate-Hinweis im Dossier mit Verweis auf NBA-Finals-Start Mi 03.06 ECT (Berlin 04.06 02:30) bei Spurs Home Court. Bundesliga-Saison-Auftakt 2026-27 erst 28.08.2026, FIFA WM 2026 startet 11.06 (NICHT in CLAUDE.md-Scope - nur europaeische Top-5 + DFB-Pokal + Coppa Italia + CL/NBA). Naechster echter Tipps-Slot fuer In-Scope-Spiele: Mi/Do 03.-04.06 NBA-Finals G1 (SAS @ NYK Vorhersage: SAS Heimrecht; Game 2: Fr 05.06 ECT). NIE Spielernamen erfunden (keine Squad-Lookups da kein Spiel). POSITION-Genauigkeit beachtet (Hojlund-Bug-Schutz, greift heute nicht). ===== HISTORISCHER KONTEXT FUER TIPPS-ROUTINE: Vierter Empty-Slate-Tag in Folge (28.05/29.05/31.05/01.06; 30.05 hatte CL-Final-Erwaehnung aber nicht in Scope-Spiel-Schema, 30.05 selbst war Empty-Slate fuer Tipps). Sommerpause bis NBA-Finals-Beginn (Mi/Do 03.-04.06). Pipeline-Empty-Slate-Handling validiert seit 28.05.",
+  "spiele": [],
+  "leerschlag_metadata": {
+    "geprueft_apis": [
+      {"api": "football-data.org v4 /v4/matches (global)", "datum": "2026-06-01", "treffer_gesamt": 0, "treffer_in_scope": 0, "treffer_detail": "0 Spiele weltweit am 01.06 - alle Top-Ligen in Sommerpause, Brasileirao heute spielfrei, Pokal-Wettbewerbe abgeschlossen"},
+      {"api": "football-data.org v4 BL1", "datum": "2026-06-01", "treffer": 0, "status": "Saison 2025-26 beendet 17.05.2026, Saison 2026-27 startet 28.08.2026"},
+      {"api": "football-data.org v4 PL", "datum": "2026-06-01", "treffer": 0, "status": "Saison 2025-26 beendet 24.05.2026, Saison 2026-27 startet 22.08.2026"},
+      {"api": "football-data.org v4 PD", "datum": "2026-06-01", "treffer": 0, "status": "Saison 2025-26 beendet 25.05.2026"},
+      {"api": "football-data.org v4 SA", "datum": "2026-06-01", "treffer": 0, "status": "Saison 2025-26 beendet 25.05.2026"},
+      {"api": "football-data.org v4 FL1", "datum": "2026-06-01", "treffer": 0, "status": "Saison 2025-26 beendet 17.05.2026"},
+      {"api": "football-data.org v4 CL", "datum": "2026-06-01", "treffer": 0, "status": "CL-Final 30.05.2026 abgeschlossen, naechste Saison startet September 2026"},
+      {"api": "balldontlie.io v1", "datum": ["2026-06-01", "2026-06-02"], "treffer": 0, "treffer_detail": "Keine NBA-Spiele beide Tage. NBA-Finals G1 startet Mi 03.06 8:30 PM ECT (= 04.06 02:30 Berlin)"}
+    ],
+    "korrekturen_zu_vorheriger_recherche": [
+      {
+        "betrifft_file": "data/recherche/2026-05-31.json",
+        "betrifft_feld": "naechstes_relevantes_in_scope_spiel.events[0].ort + Heimrecht-Annahme",
+        "alte_aussage": "Madison Square Garden, New York (Knicks-Heimrecht als bessere Regular-Season-Bilanz)",
+        "korrekte_aussage": "Frost Bank Center, San Antonio, TX (SAS Heimrecht - Spurs hatten BESSERE Regular-Season-Bilanz 62-20 vs Knicks 53-29). NBA-Finals-Heimrecht-Regel: West-Vertreter erhaelt G1/G2/G5/G7 wenn er besseren RS-Record hat.",
+        "validierung_via": [
+          "balldontlie.io v1 /v1/games?dates[]=2026-06-03 -> home_team=Spurs(id:27,San Antonio), visitor_team=Knicks(id:20,New York)",
+          "https://www.nbcnewyork.com/nba/nba-finals-2026-schedule-how-to-watch/6505516/",
+          "https://www.kens5.com/article/sports/nba/spurs/spurs-knicks-nba-finals-schedule-game-1-playoffs-2026-san-antonio-new-york-how-to-watch/273-503fee35-3899-42e4-ad98-8f538b9bd77c"
+        ]
+      }
+    ],
+    "naechstes_relevantes_in_scope_spiel": {
+      "datum": "2026-06-03 (US-ECT) / 2026-06-04 02:30 Berlin",
+      "events": [
+        {
+          "wettbewerb": "NBA Finals Spiel 1",
+          "match": "New York Knicks @ San Antonio Spurs",
+          "ort": "Frost Bank Center, San Antonio, TX",
+          "heimrecht_begruendung": "SAS bessere Regular-Season-Bilanz (62-20) vs NYK (53-29). West-Vertreter erhaelt G1/G2/G5/G7.",
+          "anstoss_us_zeit": "Wednesday 8:30 PM ET 03.06.2026",
+          "anstoss_berlin": "02:30 Berlin Do 04.06.2026",
+          "uebertragung_us": "ABC",
+          "format": "Best of 7 (G1+G2 SAS, G3+G4 NYK, G5 SAS, G6 NYK, G7 SAS - falls noetig)",
+          "hinweis": "Knicks erstmals in NBA-Finals seit 1999 (Ewing-Aera; ECF-Sweep 4-0 gg Cavaliers 28.05). Spurs erstmals in NBA-Finals seit 2014 (Duncan-Aera-Ende; WCF 4-3 gg Thunder G7 30.05). Wembanyama Finals-Debuet.",
+          "datenbasis_id_via_balldontlie": "21716134",
+          "quellen": [
+            "https://api.balldontlie.io/v1/games?dates[]=2026-06-03",
+            "https://www.nbcnewyork.com/nba/nba-finals-2026-schedule-how-to-watch/6505516/",
+            "https://www.espn.com/nba/game/_/gameId/401859963/knicks-spurs",
+            "https://www.kens5.com/article/sports/nba/spurs/spurs-knicks-nba-finals-schedule-game-1-playoffs-2026-san-antonio-new-york-how-to-watch/273-503fee35-3899-42e4-ad98-8f538b9bd77c"
+          ]
+        }
+      ]
+    },
+    "ausserhalb_scope_aber_geprueft": [
+      "Brasileirao Serie A - keine Spiele am 01.06 (Mo Spielpause)",
+      "MLS - nicht in CLAUDE.md-Scope (nur NBA aus US-Sport)",
+      "WNBA - nicht in CLAUDE.md-Scope (nur NBA)",
+      "2.Bundesliga / Promotion-Playoffs - nicht in CLAUDE.md-Scope (nur 1.BL)",
+      "Frauen-Bundesliga / Frauen-CL - nicht in CLAUDE.md-Scope",
+      "EM-Quali / WM-Quali / Internationale Friendlies - nicht in CLAUDE.md-Scope",
+      "FIFA WM 2026 (startet 11.06 in USA/Kanada/Mexiko) - nicht in CLAUDE.md-Scope (nur Vereins-Top-5 + DFB-Pokal + Coppa Italia + CL)",
+      "Bundesliga 2026-27 Saison-Auftakt erst 28.08.2026 - Sommerpause"
+    ],
+    "hinweis_an_tipps_routine": "Empty-Slate-Tag (vierter in Folge nach 28.05/29.05/30.05/31.05). Erwartet wird Dossier mit `spiele: []` und Markdown-Hinweis 'Heute keine In-Scope-Spiele - naechster Slate Mi/Do 03.-04.06 NBA-Finals G1 NYK @ SAS in San Antonio (Frost Bank Center)'. Keine Tipps generieren. Routine darf trotzdem das Datums-File schreiben damit Pipeline-History sauber bleibt. Sommerpause Fussball bis Saison 2026-27 Start 28.08; bis NBA-Finals-Ende (Mitte Juni) gibt es nur NBA-Tipps-Moeglichkeiten."
+  },
+  "footer": {
+    "rechtlich": "18+ - bet365 DE - Hobby-Wetten - keine Einkommensquelle",
+    "spielerschutz": "BZgA: 0800 1372700",
+    "quelle_recherche": "football-data.org v4 (Free Tier, API-Key in .github/scripts/subagent_prompts/recherche_routine.md), balldontlie.io v1 (Free), WebSearch 01.06.2026 (NBC New York, ESPN, KENS5, Posting and Toasting, Heavy, Yahoo Sports zur NBA-Finals-Venue-Korrektur)"
+  }
+}
