@@ -1024,5 +1024,4 @@ window.__MIESMUSCHEL_LESSONS = {
       "bezug_spiel_id": "2026-05-30-psg-ars"
     }
   ]
-}
-;
+};
