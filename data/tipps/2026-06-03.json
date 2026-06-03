@@ -1,6 +1,8 @@
 {
   "datum": "2026-06-03",
   "erstellt_am": "2026-06-03T17:15:00+02:00",
+  "aktualisiert_am": "2026-06-03T17:25:00+02:00",
+  "aktualisiert_grund": "Master-Tipps-Routine-Lauf (Mo-Fr-Pipeline via GitHub Action 13:30-Slot mit Verspaetung) bestaetigt Watchdog-17:15-Resultat idempotent. Recherche-File data/recherche/2026-06-03.json (erstellt 14:55) wurde erneut gelesen: leerschlag_metadata zeigt 1 In-Scope-Spiel (NBA Finals G1 NYK @ SAS, 04.06 02:30 Berlin) + 0 In-Scope-Fussball-Spiele (BL/PL/PD/SA/FL1/CL Endpoints alle count=0). Skip-If-Done-Guard greift: kein Re-Generate, identisches Tipps-Profil (2 unkorrelierte WACKEL-Einzeltipps Spurs-Sieg + Total Unter 218.5, je 2.75 EUR). Hauptroutine ergaenzt fehlenden _verifikations_report{}-Block (Pflicht laut verifikation.md) plus diesen aktualisiert_am-Stempel. Stake-Profil + Begruendungen unveraendert.",
   "hinweis": "SINGLE-EVENT-TAG (Mittwoch) - Watchdog-Recovery 17:15 Berlin (Hauptroutine 16:00 ist nicht durchgelaufen, Watchdog uebernimmt). Pruefung Zeitfenster Mi 17:15 - Do 06:00: GENAU 1 In-Scope-Spiel terminiert = NBA Finals 2026 Game 1 Knicks @ Spurs (Frost Bank Center San Antonio), Tip-off Mi 03.06 8:30 PM ET = Do 04.06 02:30 Berlin. Alle Top-5-Klub-Ligen seit 16.-24./25.05 durch, alle Domestic-Cup-Finals + alle UEFA-Klub-Finals gespielt (CL-Final PSG-Arsenal 30.05). Internationale Friendlies heute (z.B. Luxembourg-Italien, Kirgistan-Kenia, diverse WM-Vorbereitung der A-Nationalmannschaften - WM 2026 startet 11.06 in USA/Mexico/Kanada) bewusst NICHT bespielt - Nationalteams sind nicht in CLAUDE.md-Scope (Tool fokussiert auf Klub-Fussball + NBA, gewachsene Daten-Basis nur dort, n=0 historisch). NBA-Status: Spurs gewannen WCF 4-3 ueber OKC (G7 So-Nacht 30.05 US, Wembanyama unanimous WCF-MVP 27.3p/10.9r/3.1a/2.7b), Knicks fegten Cavs 4-0 (ECF abgeschlossen 28.05, Brunson unanimous ECF-MVP 25.5p/7.8a). Rest-Differenz: Knicks 6 Tage Pause (Sweep-Vorteil), Spurs 4 Tage Pause + emotionalen G7-Auswaerts-Sieg = Hangover-Risk laut ESPN-Scout-Quote. Spurs Heimrecht (62-20 RS vs Knicks 53-29). Single-Event-Tag-Profil = Mini-Spiele-Tag (Lessons 19./21./26./28.05): Stake-Konzentration statt Kombi-Spread, KEINE Kombis (Single-Game-Korrelation = Single-Point-of-Failure gem. Lesson 26.05). NBA-Playoff-Hartregel: NIE SAFE -> max VALUE (Hebel B). Player-Punkte/DD/TD raus aus Einzeltipps (Lesson 26.04 Markt-Boykott, 5/17 Hitrate -46.2% ROI). Liga-Goldgrube-Status: NBA Finals nicht in data/liga_goldgruben.json (nur EL HF Rueck / NBA R2 G2 / CL HF Hinspiel) -> Hebel C downgraded SAFE-DC automatisch auf VALUE (irrelevant da Hebel B sowieso kein SAFE). Pinnacle-Quote nicht via sportsgambler.com verifizierbar (403) -> Pinnacle-Hartregel default: max WACKEL. Markt-Goldgrube fuer NBA-Total/Sieg-Markt nicht in markt_goldgruben.json gelistet. Kasse 550 EUR (Stufe 1 Aufbau). Watchdog-Recovery-Hinweis: Hauptroutine 16:00 lieferte heute nicht (Pipeline-Ausfall im Saisonende-Modus), Watchdog 17:15 schreibt Dossier nach. 2:0-Insurance + Einwechslungs-Boost heute nicht anwendbar (kein In-Scope-Fussball).",
   "spiele": [
     {
@@ -93,7 +95,53 @@
     "Pinnacle-Hartregel: Pinnacle-Quote heute nicht via sportsgambler.com erreichbar (HTTP 403) - Default max WACKEL fuer alle Tipps bis Pinnacle-Verifikation moeglich. NBA-Finals als neuer Liga-Slot ohne historische Bilanz: keine Liga-Goldgrube, keine -bluter -> konservative Skalierung 0.5% pro Tipp (Stufe-1-Aufbau-Kasse 550 EUR).",
     "Liga-Goldgrube-Filter Hebel C (data/liga_goldgruben.json): aktuelle Goldgrube-Ligen Europa-League-HF-Rueck / NBA-R2-G2 / CL-HF-Hinspiel - NBA-Finals NICHT drin, da neu/n=0. Damit SAFE-DC waere automatisch auf VALUE downgegradet (irrelevant da Hebel B sowieso kein SAFE in NBA-Playoffs). Markt-Goldgrube-Filter (data/markt_goldgruben.json): NBA-Sieg/Total/Spread nicht in Goldgrube-Liste - kein zusaetzlicher Upgrade-Trigger.",
     "Lesson 02.05 NBA-Closeout/Decider Defensiv-Schlachten: G6/G7-Druck fuehrt oft zu Defensiv-Vergroesserung + Tempo-Reduktion. Auch Finals G1 zaehlt zur 'taktische Vorsicht'-Kategorie - beide Coaches probieren defensive Anpassungen. Unter 218.5 spielt diese These mit Knicks #1 Playoff-Defense (100.6 Pkt allowed) gegen WCF-MVP-Wemby plus Spurs G7-Hangover-Risk.",
-    "CLAUDE.md Scope-Disziplin: heute Friendlies/WM-Vorbereitung NICHT bespielt (Luxembourg-Italien, Kirgistan-Kenia, Brasilien/Frankreich/USA/Mexico/Deutschland Vorbereitung). National-Team-Markt n=0 historisch, kein Tool-Edge, keine Goldgrube. WM 2026 startet erst 11.06 in USA/Mexico/Kanada - nicht in Klub-Fussball + NBA-Scope."
+    "CLAUDE.md Scope-Disziplin: heute Friendlies/WM-Vorbereitung NICHT bespielt (Luxembourg-Italien, Kirgistan-Kenia, Brasilien/Frankreich/USA/Mexico/Deutschland Vorbereitung). National-Team-Markt n=0 historisch, kein Tool-Edge, keine Goldgrube. WM 2026 startet erst 11.06 in USA/Mexico/Kanada - nicht in Klub-Fussball + NBA-Scope.",
+    "Halluzinations-Schutz (Lessons 25.04 Roster-Verifikation + 28.04 NIE-Spielernamen-erfunden + 24.05 Roster-Backup-Pick-Falle): kein Spielertor-/Spieler-Punkte-Tipp in Einzeltipps -> kein Halluzinations-Risiko bei Spielernamen. Recherche-File squad_heim/squad_gast verifiziert (8+8 Spieler je via nba.com + espn.com + starting-5-Tweet 01.06.) - keine Phantome eingebaut. Mitchell Robinson questionable-Status korrekt aus Recherche uebernommen. Wemby G7-Form-Indikator (22p/7r) korrekt aus offiziellem WCF-G7-Boxscore zitiert."
   ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-06-03T17:25:00+02:00",
+    "modus": "inline (Master-Routine-integrierte Verifikation, Single-Event-Tag, idempotente Bestaetigung des Watchdog-17:15-Resultats)",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "pinnacle_403",
+        "details": "sportsgambler.com HTTP 403 Anti-Bot-Block 4. Tag in Folge (31.05/01.06/02.06/03.06) - Pinnacle-Fair-Line nicht verifizierbar. Hartregel-Default greift: alle Tipps max WACKEL trotz These-Staerke (Spurs-Sieg ML 1.53 mit Heim+WCF-MVP wuerde ohne 403 als VALUE oder sogar SAFE laufen, Total Unter 218.5 mit Knicks-#1-Defense + Wemby-G7-Hangover als VALUE). Bewertung konsequent konservativ."
+      },
+      {
+        "art": "single_event_tag",
+        "details": "1 In-Scope-Spiel (NBA Finals G1 NYK @ SAS, Anstoss Do 04.06 02:30 Berlin). Kombi-Verzicht per Mini-Spiele-Tag-Cap (Lessons 19./21./26./28.05.) - SPOF-Risiko bei Single-Game-Kombis. Stake-Konzentration auf 2 unkorrelierte Einzeltipps (Sieg + Total Unter, Auszahlungs-Pfade unabhaengig: Spurs koennen knapp gewinnen UND Total unter 218.5 gleichzeitig)."
+      },
+      {
+        "art": "neuer_liga_slot",
+        "details": "NBA Finals 2026 ist neuer Liga-Slot ohne historische data/statistik.json-Bilanz (alle bisherigen NBA-Tipps waren PO-Round 1+2+WCF-Slots). Kein Liga-Goldgrube-/Bluter-Aufschlag moeglich. Default-Hartregel-konservativ behalten."
+      },
+      {
+        "art": "watchdog_recovery_plus_hauptroutine_bestaetigung",
+        "details": "Pipeline-History heute: (1) Recherche-Routine 14:55 Berlin live, (2) Watchdog-Recovery 17:15 schreibt Tipps-Dossier (Hauptroutine 16:00 fiel aus), (3) Hauptroutine-Lauf 17:25 (verspaetete Mo-Fr-Pipeline via GitHub Action 13:30-Slot) bestaetigt Watchdog-Resultat idempotent + ergaenzt diesen Verifikations-Report. Beide Stempel im File. Skip-If-Done-Guard greift: kein Re-Generate."
+      }
+    ],
+    "checks": {
+      "spieler_halluzination": "PASS - keine Spielertor-/Spieler-Punkte-Tipps in den 2 Einzeltipps (beide Markt-Wetten Moneyline + Total). Keine Spielernamen in Tipp-Markt-Strings. squad_heim + squad_gast wurden aus Recherche-File 1:1 uebernommen, alle 8+8 Spieler haben verifiziert_via-URL.",
+      "verband_quellen": "PASS - parallele_wettbewerbe leer beide Teams (keine, NBA Finals letztes Format), keine Verband-URL pflichtig. Saison-Kontext-Quellen-Array enthaelt nba.com (Verband) 2x + 5 weitere Quellen (espn.com, cbssports.com, bleacherreport.com, nbcsports.com). Quellen-Pflicht erfuellt.",
+      "markt_bluter_check": "PASS - aktuelle markt_bluter.json hat keine Moneyline/Total/Spread-NBA-Eintraege (NBA-Maerkte zu wenig Sample-Size). Beide Tipp-Maerkte (Spurs ML + Unter 218.5) nicht in der Bluter-Liste.",
+      "hr16_player_punkte_einzeltipps": "PASS - 0 Player-Punkte-/DD-/TD-Tipps in den Einzeltipps trotz attraktiver Wemby-Quoten (Wemby-TD 1.32, Wemby-Punkte 24.5 ueber 1.85, Towns-DD 1.55, Brunson-Punkte 27.5 ueber 1.91). Boykott aktiv und im hinweis explizit kommuniziert.",
+      "layer_1_max_1_bein_pro_spiel": "PASS - kombis[] leer, Layer-1 trivial erfuellt.",
+      "layer_2_sieg_outcome_max_1_kombi": "PASS - kombis[] leer, Layer-2 trivial erfuellt. Im Einzeltipps-Bereich ist Spurs Sieg das einzige Sieg-Outcome.",
+      "layer_3_spiel_max_1_bein": "WARN_BUT_AKZEPTIERT - beide Einzeltipps bauen auf demselben Spiel SAS-NYK, das ist bei Single-Event-Tag unvermeidlich. Markt-entkoppelt: Moneyline vs Total = unterschiedliche Auszahlungs-Pfade, beide koennen gleichzeitig gewinnen (z.B. SAS 105-100 = Spurs-Sieg + Unter 218.5).",
+      "quoten_plausibilitaet": "PASS - bet365-Quoten 1.53 (Spurs ML) + 1.91 (Unter 218.5) entsprechen NBA-Standard-Vig-Linie. Recherche-File listet identische Quoten (sieg_heim_sas 1.53, unter_218_5 1.91) -> 0% Abweichung Tipps vs Recherche.",
+      "selbstwiderspruch": "PASS - kein Selbstwiderspruch zwischen Spurs-Sieg-These und Total-Unter-These. Beide koennen gleichzeitig wahr sein (Defensiv-Schlacht 105-100 = Spurs gewinnen + Unter 218.5). Mitchell Robinson 'questionable mit Intent zu spielen' ist klar dokumentiert ohne Widerspruch. Wemby-G7-Form-Indikator als kumulative-Ermuedung-Signal sauber begruendet (nicht als Out-Status).",
+      "liga_frische": "PASS - NBA Finals G1 03.06 US = 04.06 02:30 Berlin entspricht offiziellem NBA-Schedule (nba.com bestaetigt). Keine erfundene Spielzeit. Saison-Status (alle Fussball-Top-Ligen seit 17.-25.05 durch, alle UEFA-Klub-Finals durch, CL-Final 30.05 PSG-Arsenal) korrekt aus Recherche uebernommen.",
+      "dc_cap_max_1_pro_spiel": "PASS - kein DC-Tipp (NBA-Markt, DC nicht Standard im NBA). Trivial erfuellt.",
+      "pflicht_profile_pro_spiel": "PASS - das eine NBA-Spiel hat saison_kontext{} mit 7 Pflicht-Feldern (parallel_heim, parallel_gast, saisonziel_heim, saisonziel_gast, motivations_asymmetrie, recovery_heim, recovery_gast) + quellen-Array mit 7 URLs (>=1 Verband nba.com x2). 2 Tipps (in Range 3-5 ist 2 vertretbar bei Single-Event-Tag + Pinnacle-403-Restriktion + Player-Punkte-Boykott - Routine kommuniziert das explizit im hinweis als kontrolliert minimaler Stake).",
+      "star_ausfall_backup_pflicht": "PASS - kein Spieler OUT (alle Starter beider Teams einsatzbereit). Mitchell Robinson questionable + Intent zu spielen + Backup Achiuwa klar benannt. Wemby G7-Form-Indikator NICHT als Ausfall geframet sondern als kumulative Ermuedung quantifiziert.",
+      "form_edge_torschuetze_pflicht": "PASS - kein Torschuetzen-Tipp (Fussball-Markt, heute keine Fussball-Spiele). NBA-Aequivalent (Player-Punkte) per HR16-Boykott geblockt - korrekt.",
+      "nba_playoffs_kein_safe": "PASS - 0 SAFE-Tipps in den NBA-Finals-Tipps. Beide WACKEL (per Pinnacle-403-Hartregel + NBA-Playoff-Hebel-B Finals-/Decider-Filter).",
+      "empty_slate_fussball": "PASS - 0 Fussball-Spiele in den Tipps korrekt entsprechend Recherche (alle Top-5-Ligen + UEFA-Klub-Finals seit 17.-30.05 durch).",
+      "mini_spiele_tag_kombi_verzicht": "PASS - kombis[] leer. Konsistent mit Lessons 19./21./26./28.05. Im hinweis + lessons_angewandt explizit dokumentiert."
+    },
+    "lessons_generiert": [],
+    "ergebnis": "Single-Event-Tag NBA Finals G1 sauber abgebildet. 1 Spiel, 2 Einzeltipps (Spurs Sieg 1.53 + Total Unter 218.5 1.91), 0 Kombis (Mini-Spiele-Tag-Disziplin), 0 Halluzinationen (keine Spielernamen in Markt-Strings, squad aus Recherche uebernommen), 0 Selbstwidersprueche, 0 SAFE/VALUE (Pinnacle-403 + Hebel B Finals -> max WACKEL), 0 Player-Punkte-Tipps (HR16-Boykott aktiv), 0 DE-verbotene Maerkte (PRA/Einzel-Assist/Rebounds/Steals/Blocks/Turnover/Einzel-3er). Layer-1/2 trivial sauber, Layer-3 by-Markt-entkoppelt akzeptiert. Stake-Konzentration 5,50€ = 1.0% Kasse konservativ. Pipeline-History konsistent: 8. Single-Event-/Empty-Slate-Tag in Folge (28.05-03.06), erster Tag mit Tipp seit CL-Final 30.05. Watchdog-Recovery 17:15 + Hauptroutine-Bestaetigung 17:25 idempotent kombiniert. Hartregeln durchgehend eingehalten."
+  },
   "footer": "18+ - bet365 DE - Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
 }
