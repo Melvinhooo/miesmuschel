@@ -1,0 +1,233 @@
+{
+  "datum": "2026-06-06",
+  "erstellt_am": "2026-06-04T17:30:00+00:00",
+  "modus": "wochenende",
+  "hinweis": "Wochenend-Vorschau Sa 06.06 + So 07.06.2026 - SINGLE-EVENT-WOCHENENDE mit nur EINEM In-Scope-Ereignis: NBA FINALS GAME 2 New York Knicks @ San Antonio Spurs in der Nacht zum Samstag (Fr 05.06 8:30 PM ET = Sa 06.06 02:30 Berlin/CEST, Frost Bank Center San Antonio, ABC US, ABC/Peacock-Stream). Serie steht 0-1 NYK fuehrt nach G1-Sieg 105-95 in San Antonio am 03.06 (Spielbericht ESPN gameId=401859963, NBA.com). KEIN In-Scope-Fussball am Wochenende. ===== VOLLSTAENDIGKEITS-CHECK (Lesson Liga-Luecke 26.04/25.05): football-data.org am 04.06 17:30 Berlin live abgefragt fuer dateFrom=2026-06-06 dateTo=2026-06-07 -> resultSet.count=0, matches:[]. KEIN Bundesliga/Premier League/LaLiga/Serie A/Ligue 1/CL/EL/Conference/DFB-Pokal/Coppa-Italia-Spiel weltweit am Wochenende laut API. Saisons der Top-5-Ligen alle beendet (BL 17.05., PL 24.05., LaLiga 25.05., Serie A 25.05., Ligue 1 17.05.). UEFA-Klub-Wettbewerbe alle abgeschlossen: CL-Finale 30.05 PSG-Arsenal 1:1 n.V. (PSG i.E. 4:3, laut 2026-05-30-Ergebnis-Datei und data/recherche/2026-06-04.json), EL-Finale 21.05 und Conference-League-Finale 27.05 alle ausgespielt. Domestic Cups (DFB-Pokal, FA-Cup, Coppa Italia) ausgespielt vor Mitte Mai. Saison 2026-27 BL-Auftakt erst 28.08.2026, PL ~22.08.2026, LaLiga ~15.08.2026. AUSSERHALB-SCOPE-CHECK (siehe leerschlag_metadata.ausserhalb_scope_aber_geprueft): Brasileirao Sa 06.06 hat zwar Spiele (Goias, Botafogo, Sao Paulo, Bahia, Mirassol etc. laut Brasileirao-Spielplan), aber Brasilianische Serie A ist NICHT in CLAUDE.md-Scope. MLS Wochenend-Spiele (z.B. Inter Miami-Orlando) NICHT in Scope. WNBA-Saison laeuft, NICHT in Scope. 2.Bundesliga + Promotion-Playoffs alle abgeschlossen. Frauen-CL-Finale 24.05 schon gewesen. FIFA WM 2026 startet erst 11.06 in USA/Kanada/Mexiko (NICHT in CLAUDE.md-Scope, nur europaeische Top-5 Klub-Ligen + DFB-Pokal + Coppa Italia + CL + NBA). UEFA Nations League / WM-Qualifikation / Friendlies/Vorbereitungs-Laenderspiele NICHT in Scope. ===== NBA-FINALS-G2 ALS EINZIGES SCOPE-EVENT: balldontlie.io game_id=21716135, datetime=2026-06-06T00:30:00.000Z = Sa 06.06 02:30 Berlin (CEST=UTC+2). Bedeutung: G2-Tipp wuerde im Wochenend-Vorschau-Dossier (Donnerstag 18:00) UND im Freitag-Tipps-Slot (Fr 05.06 13:30, naehrer am Anpfiff) recherchiert. Diese Routine schreibt die Wochenend-Vorschau-Datenbasis; die finale Tipp-Slot-Entscheidung trifft Freitag-Tipps-Routine (Hauptrolle). G3 ist Mo 08.06 8:30 PM ET = Di 09.06 02:30 Berlin im NYK Madison Square Garden = FAELLT in MONTAG-Slot, NICHT in Sonntag-Slot. Sonntag 07.06 ist somit Empty-Slate. ===== REGEL-ANWENDBARKEIT WOCHENENDE: 2:0-Insurance-Regel gilt NUR fuer 1.BL + Champions League Fussball-Sieg-Tipps -> Wochenende NICHT anwendbar (kein Fussball-In-Scope-Spiel). Einwechslungs-Boost-Regel gilt fuer Fussball-Torschuetzen-Maerkte -> Wochenende NICHT anwendbar. NBA-Markt-Whitelist (Moneyline, Spread/Handicap, Ueber/Unter Punkte Spiel+Viertel+Halbzeit, Spieler-Punkte, Double-Double, Triple-Double, Meiste-Punkte, Serien/Quartal) gilt fuer G2. NBA-Markt-Blacklist in DE verboten: PRA-Kombos, Punkte+Assists, Punkte+Rebounds, Einzel-Assists/Rebounds/Steals/Blocks/Turnovers, einzelne 3er-Wuerfe. ACHTUNG: FanDuel-Pick 'Wembanyama Over 3.5 Blocks' = DE VERBOTEN (Einzel-Blocks); 'KAT Over 10.5 Rebounds' = DE VERBOTEN (Einzel-Rebounds); 'Brunson Over 6.5 Assists' = DE VERBOTEN (Einzel-Assists); 'Brunson Over 2.5 3PM' = DE VERBOTEN (Einzelne 3er). Erlaubt sind nur: Punkte-Linien (Brunson O 25.5 -104, KAT O 16.5 -122, Wemby O 25.5 -110), Moneyline (SAS -230 / NYK +190), Spread (SAS -5.5), Total (O/U 214.5), Double-Double/Triple-Double, Meiste-Punkte. ===== KASSE-STAND 04.05.2026: 550 EUR (siehe data/kasse.json) -> Stufe 1 (Aufbau-Phase, Kasse <1000 EUR) aktiv -> konservative Einsaetze: Einzel SAFE/VALUE 1-2% (5.50-11 EUR), Wackel-Einzel 0.5% (2.75 EUR), Kombi-Safe 2% (11 EUR), Kombi-Balance 0.8% (4.40 EUR), Kombi-Risiko 0.25% (1.40 EUR), Moonshot 0.1% (0.55 EUR). Tipps-Routine MUSS Euro-Betraege ausrechnen. Stufe-2-Trigger (Kasse >= 1000 EUR + 30d-ROI > +5%) noch nicht erreicht. ===== AUTO-MARKT-FILTER: data/markt_goldgruben.json Stand 03.05.: Doppelte Chance 1X (84.6%/+9.5%), Doppelte Chance X2 (77.8%/+9.4%), Unter 2.5 Tore (66.7%/+27.5%), Torschuetzen Jederzeit (50%/+24.4%). Alle Fussball-Maerkte -> heute NICHT anwendbar (kein Fussball-Spiel). Statistik_berechnen.py wird nach G1-Auswertung 04.06 'Total Unter X.5 Punkte NBA' (G1 Unter 218.5 GEWONNEN) ggf. als NBA-Goldgruben-Kandidat einpflegen falls n>=5. Markt-Bluter beachten - bei NBA keine bekannten. ===== LESSONS-RELEVANT FUER G2: (1) Lesson 02.05 NBA-Decider/Finals-Defensiv-Schlachten (Total Unter ML Edge in High-Stakes-Spielen mit langen Pausen) - G1 mit Total 200 bei Linie 218.5 hat These bestaetigt; G2-Total ist auf 214.5 gesenkt, also Markt hat schon teilweise re-kalibriert, dennoch Unter-These weiter plausibel da Spurs unter Druck Heim-Muss-Sieg + Defense-Adjust erwartet. (2) Lesson 27.05 WCF-Ueber-Goldgrube-Bruch war Einzel-Ausreisser - Re-Kalibrierung n=1, G1-Unter bestaetigt Wenden zurueck zur These. (3) Lesson 22.05 Volume-Player-sport-uebergreifend-korreliert - Brunson G1 30 Pkt zeigte Volume-Hand; Snap-Back/Cool-Down-Risiko in G2 nach Hot-G1 zu beachten. (4) Lesson 24.05 Karriere-Highlight-Tor-Markt - aequivalent NBA: Brunson nach Career-Sicht-Spiel ggf. Markt-zu-hoch-bepreiset in G2. (5) Lesson 03.06 Spurs-G7-Hangover-These-validiert - Auswaerts-Underdog-Edge bei Hangover + Heim-Bounce-Back-Reaktion. G2 ist 3 Tage nach G1 = Spurs haben begrenzte Recovery, NYK hat 3 Tage gleichermassen. (6) Lesson 03.06 Defense-System-Edge-Star-Bench-Comeback-Korridor - NYK Defense #1 in Playoffs (G1-Spurs-Offense 95 Punkte unter Saison-Schnitt, Castle 17/Harper 16+8/Wemby 26-aber-6-21-FG), Defense-System hat sich gegen Star-Eruption durchgesetzt. (7) Lesson 03.06 Mini-Spiele-Tag-Konzentrations-Strategie n2 - Sa 06.06 ist ebenfalls Mini-Spiele-Tag (1 Event), Konzentration auf NBA-Goldgrube + Pseudo-Hedge erlaubt. ===== QUELLEN-PFLICHT: parallel_wettbewerbe MUSS Verband-URL haben - NBA.com fuer Series-Stand, ESPN-Gamecast G1 als Quelle. Squad-Verifikation via nba.com/team-Seiten, Heavy.com-Starting-Lineup-Bestaetigungen G1. POSITION-Genauigkeit beachtet (Hojlund-Bug-Schutz): Brunson=PG, Hart=SG, Bridges=SF, Anunoby=PF/SF, Towns=C, Mitchell Robinson=C, McBride=PG/SG, Shamet=SG; Spurs: Fox=PG, Castle=G(SG/PG-Hybrid), Champagnie=SF, Vassell=SF/SG, Wembanyama=C, Harper=G(rookie), Johnson=SF (6MOY 24/25-Kandidat), Kornet=C, Barnes=SF. NBA-Markt-Blacklist-Schutz beachtet: Tipps-Routine darf KEINE Einzel-Reb/Ast/Blk/Stl/TO/PRA/Punkte+Assists/Punkte+Rebounds/Einzelne-3er-Wuerfe als Tipps generieren - Mapper wuerde sonst SAFE/VALUE degradieren oder dropen (DE-illegal-Filter). ===== KEINE Tipp-Bewertung - reine Datenbasis fuer Donnerstag-Tipps-Routine 18:00 sowie als Vorab-Briefing fuer Freitag-Hauptroutine 13:30.",
+  "spiele": [
+    {
+      "id": "2026-06-06-sas-nyk",
+      "liga": "NBA Finals Game 2",
+      "matchday": "Finals G2",
+      "wettbewerb_scope_hinweis": "NBA voll in CLAUDE.md-Scope. Erlaubte Maerkte bet365 DE: Moneyline, Spread/Handicap, Ueber/Unter (Spiel+Viertel+Halbzeit), Spieler-Punkte (Einzelner), Double-Double, Triple-Double, Meiste Punkte im Spiel, Serien-Wetten, Quartal-Wetten. VERBOTEN in DE (NIE empfehlen): Einzel-Assists, Einzel-Rebounds, Einzel-Steals, Einzel-Blocks, Einzel-Turnovers, PRA-Kombos, Punkte+Assists oder Punkte+Rebounds Kombi-Stats, Einzelne 3er-Wuerfe. WICHTIG: bekannte FanDuel-Pick-Lines fuer G2 (KAT O 10.5 Rebounds, Brunson O 6.5 Assists, Brunson O 2.5 3PM, Wemby O 3.5 Blocks, Anunoby O 2.5 3PM, Castle O 6.5 Assists) sind ALLE in DE VERBOTEN und fallen automatisch aus dem Tipp-Universum.",
+      "heim": "San Antonio Spurs",
+      "gast": "New York Knicks",
+      "heim_kuerzel": "SAS",
+      "gast_kuerzel": "NYK",
+      "anstoss": "2026-06-05T20:30:00-05:00",
+      "anstoss_berlin": "2026-06-06T02:30:00+02:00",
+      "anstoss_utc": "2026-06-06T00:30:00Z",
+      "stadion": "Frost Bank Center, San Antonio, TX (Kapazitaet ~18500) - SAS-Heimspiel im Best-of-7-Format (Heimrecht-Reihenfolge G1+G2 SAS, G3+G4 NYK MSG, G5 SAS, G6 NYK, G7 SAS - falls noetig). SAS hat Heim-Recht weil bessere Reg-Season-Bilanz vs NYK.",
+      "broadcast": "ABC (US) + ABC/Peacock-Stream + (DE: Sky Sport via NBA-Paket / NBA League Pass)",
+      "schiedsrichter": "n/v - NBA-Refs typischerweise erst am Spieltag bestaetigt; G1 Crew Chief war Bill Kennedy (typisch fuer Finals-Crew - bestaetigen durch NBA-Refs-Site)",
+      "series_stand": "0-1, NYK fuehrt nach G1-Sieg 105-95 in San Antonio am 03.06.2026 (NYK 12 in Folge Playoff-Siege bestaetigt nba.com)",
+      "format": "Best of 7. SAS muss G2 zu Hause gewinnen sonst 0-2-Auswaerts-Geh-Risk vor MSG-Trip-G3+G4. NYK kann mit G2-Sieg 2-0-Lead nach New York mitnehmen (historisch extrem starkes 2-0-Lead-Modell).",
+      "squad_heim": [
+        {"name": "Victor Wembanyama", "nummer": 1, "position": "C", "rolle": "Starter Starting-C", "g1_pts": 26, "g1_reb": 12, "g1_blk": 3, "g1_fg_pct": "6-21 FG (28.6%)", "g1_to": 6, "saison_punkte_avg_playoffs": 27.8, "letzte_5_spiele_punkte_avg": null, "verifiziert_via": "https://www.nba.com/team/1610612759/spurs", "hinweis": "Cold-Shooting G1 (6-21 FG, 28.6%), 6 TOs - aber 26 Pkt + 12 Reb + 3 Blocks. WCF-MVP 25/26 (Trophy nach G7 vs OKC). Center-Position eindeutig. ANKLE-CONCERN G1: Sprung um Offensiv-Rebound ueber KAT, Linker-Fuss-Slide bei Landung, scary limp Richtung Bank, hat aber Trainerassist abgewunken - 'expects to miss no time', initial tests negative. Bounce-Back-Profil fuer G2 erwartet. KEIN PRA-Kombi-Tipp erlaubt, KEINE Einzel-Reb/Blk in DE verboten. Punkte-Linie O/U erlaubt (G2 25.5 -110)."},
+        {"name": "De'Aaron Fox", "nummer": 4, "position": "PG", "rolle": "Starter Starting-PG", "g1_pts": null, "saison_punkte_avg_playoffs": null, "verifiziert_via": "https://www.nba.com/team/1610612759/spurs", "hinweis": "Stamm-PG nach Mid-Season-Trade 24/25. Score-First-PG, kann 25+P. Verletzungs-Concern OKC-Serie (G3-Comeback) aber fuer G1 voll Start; G2 weiter Stamm."},
+        {"name": "Stephon Castle", "nummer": 5, "position": "SG/PG-Hybrid", "rolle": "Starter Combo-Guard", "g1_pts": 17, "verifiziert_via": "https://www.nba.com/team/1610612759/spurs", "hinweis": "G1: 17 Pkt - solide aber kein Eruption. ROY-Kandidat (Voting offen, falls noch nicht entschieden). Combo-Guard mit Drive-Plus-Pull-Up-Profil. Punkte-Linie ggf. O 12.5-15.5 (Markt). KEINE Einzel-Ast (DE verboten)."},
+        {"name": "Julian Champagnie", "nummer": 30, "position": "SF", "rolle": "Starter SF", "g1_pts": null, "verifiziert_via": "https://www.nba.com/team/1610612759/spurs", "hinweis": "3-and-D-Wing Starter, primaere Defensiv-Aufgabe vs OG Anunoby. Bei wenig Touches Punkte-Floor niedrig (4-10 Range)."},
+        {"name": "Devin Vassell", "nummer": 24, "position": "SF/SG", "rolle": "Starter Wing", "g1_pts": null, "verifiziert_via": "https://www.nba.com/team/1610612759/spurs", "hinweis": "Sekundaer-Volume-Wing-Scorer, kann 18-22 P bei guter Form aber G1-Box noch nicht im Detail verifiziert (zu Volume zu pruefen via espn gameId=401859963)."},
+        {"name": "Dylan Harper", "nummer": 2, "position": "G (PG/SG)", "rolle": "Sixth Man / Bench-Volume", "g1_pts": 16, "g1_reb": 8, "verifiziert_via": "https://www.nba.com/team/1610612759/spurs", "hinweis": "Rookie 25/26 (Top-3-Pick 25-Draft). G1: 16 Pkt + 8 Reb von der Bank trotz begrenzter Q4-Minuten. Snap-Back-Risiko in G2 (Hot G1 + Bank-Rolle volatil); KEIN SAFE-Label fuer Punkte-Linie als Bench-Spieler. Volume-Player-Korrelation (Lesson 22.05) bei Rookies extra-volatil."},
+        {"name": "Keldon Johnson", "nummer": 3, "position": "SF/PF", "rolle": "Bench Sixth-Man-Kandidat", "verifiziert_via": "https://www.nba.com/team/1610612759/spurs", "hinweis": "Wing-Scorer von der Bank, kann 10-15 P bei Volume-Spielen. Heim-Stimmung G2-Boost erwartbar."},
+        {"name": "Luke Kornet", "nummer": 12, "position": "C", "rolle": "Backup-Center", "verifiziert_via": "https://www.nba.com/team/1610612759/spurs", "hinweis": "Backup-C hinter Wembanyama. 3-Punkt-stretch + Rim-Protector-Profil. Wenig Volume-Punkte."},
+        {"name": "Harrison Barnes", "nummer": 40, "position": "SF/PF", "rolle": "Bench Veteran-Wing", "verifiziert_via": "https://www.nba.com/team/1610612759/spurs", "hinweis": "Veteran-Wing, Glue-Guy."},
+        {"name": "Carter Bryant", "nummer": null, "position": "F", "rolle": "Bench Rookie", "verifiziert_via": "https://www.nba.com/team/1610612759/spurs", "hinweis": "Rookie-Wing, Mid-25-Draft-Pick. Wenig Finals-Minuten erwartet."}
+      ],
+      "squad_gast": [
+        {"name": "Jalen Brunson", "nummer": 11, "position": "PG", "rolle": "Starter Starting-PG", "g1_pts": 30, "g1_fg": "12-31", "g1_q4_pts": 13, "verifiziert_via": "https://www.nba.com/team/1610612752/knicks", "hinweis": "G1: 30 Pkt (game-high) auf 12-31 FG (38.7%), 13 P in Q4 inkl. corner-3 fuer Lead mit 2 Min Rest. Volume-Scorer + Late-Game-Closer Profil. SNAP-BACK-RISIKO in G2 nach Hot-G1 (Lesson 22.05 Volume-Player-Snap-Back-Subfilter). KEIN SAFE-Label fuer Brunson-Punkte-Linie 25.5 trotz Markt-Verlockung; max VALUE. KEINE Einzel-Ast/3PM (DE verboten)."},
+        {"name": "Josh Hart", "nummer": 3, "position": "SG", "rolle": "Starter Wing", "verifiziert_via": "https://www.nba.com/team/1610612752/knicks", "hinweis": "G1: Defensiv-Schluessel-Spieler (laut Yahoo-Sports-Recap 'efforts help Knicks turn around G1'). Glue-Guy + Rebounding-Wing, kann Triple-Double-faehig. Punkte-Volume niedrig (8-12 Range)."},
+        {"name": "Mikal Bridges", "nummer": 1, "position": "SF", "rolle": "Starter Wing", "verifiziert_via": "https://www.nba.com/team/1610612752/knicks", "hinweis": "2-Way-Wing, Iron-Man-Streak. Volume-Punkte 12-18 Range. Primaere Defensiv-Aufgabe vs Vassell oder Castle."},
+        {"name": "OG Anunoby", "nummer": 8, "position": "PF/SF", "rolle": "Starter Forward", "verifiziert_via": "https://www.nba.com/team/1610612752/knicks", "hinweis": "Premier-Defender 3-and-D, primaere Defensiv-Aufgabe vs Wembanyama-Switching + Vassell. Punkte-Floor 12-16, Cieling 22+. KEINE Einzel-3PM (DE verboten)."},
+        {"name": "Karl-Anthony Towns", "nummer": 32, "position": "C", "rolle": "Starter Starting-C", "g1_pts": 18, "g1_reb": 12, "g1_ast": 4, "verifiziert_via": "https://www.nba.com/team/1610612752/knicks", "hinweis": "G1: 18 Pkt + 12 Reb + 4 Ast (DD). Stretch-Big mit 3PT-Range. Punkte-Linie G2 16.5 -122 erlaubt (KEINE Einzel-Reb-Linie 10.5 -146 - DE verboten). Match-Up vs Wembanyama physisch + Foul-Trouble-Risiko (KAT historisch 4+ Fouls anfaellig)."},
+        {"name": "Mitchell Robinson", "nummer": 23, "position": "C", "rolle": "Backup-Center", "verifiziert_via": "https://heavy.com/sports/nba/new-york-knicks/starting-lineup-nba-finals-game-1-injury-update/", "hinweis": "Pinky-Surgery-Recovery - hat G1 Status 'cleared' und gespielt, Status Q stabil. Rim-Protector + Offensiv-Rebounder. Wenig Volume-Punkte."},
+        {"name": "Miles McBride", "nummer": 2, "position": "PG/SG", "rolle": "Bench Defensive-Guard", "verifiziert_via": "https://www.nba.com/team/1610612752/knicks", "hinweis": "Defensive-Guard von der Bank, ggf. extra Minuten wenn Brunson Foul-Trouble oder gegen Fox-PG-Pressure."},
+        {"name": "Landry Shamet", "nummer": 44, "position": "SG", "rolle": "Bench-Schuetze", "verifiziert_via": "https://www.nba.com/team/1610612752/knicks", "hinweis": "3-Punkt-Spezialist, war 'red-hot in ECF' laut heavy.com - Volatil aber Hot-Hand-Profil."},
+        {"name": "Jordan Clarkson", "nummer": 0, "position": "SG", "rolle": "Bench Microwave-Scorer", "verifiziert_via": "https://www.nba.com/team/1610612752/knicks", "hinweis": "Sixth-Man-Veteran. Bench-Volume-Scorer. Mike-Brown-Coaching nutzt engere Rotation in Playoffs - Clarkson-Minuten variabel."},
+        {"name": "Jose Alvarado", "nummer": 15, "position": "PG", "rolle": "Bench PG", "verifiziert_via": "https://www.nba.com/team/1610612752/knicks", "hinweis": "Backup-PG. Tertiaer-Rolle in engerer Playoff-Rotation."}
+      ],
+      "injuries_heim": [
+        "Victor Wembanyama (Knoechel-Concern G1 - left foot slide bei Landung, Trainers gewunken aus, initial tests negativ, 'expects to miss no time' - Status fuer G2 nach offiziellem San-Antonio-Injury-Report Donnerstag-Abend zu pruefen via nba.com Injury Report)",
+        "Dylan Harper (Knie-Concern aus OKC-Serie ueberstanden - G1 voll auf der Bank gespielt 16P/8R; Q-Status G2 fragwuerdig nach G1-Volumen-Belastung)",
+        "De'Aaron Fox (Verletzungs-Concern OKC-Serie ueberstanden - G1 Starter; Q-Status G2)",
+        "_Vollstaendiger Injury-Report typischerweise von SAS 24h vor Tip via NBA-Site"
+      ],
+      "injuries_gast": [
+        "Mitchell Robinson (gebrochener Pinky, Surgery in der Saison - G1 'cleared' und gespielt; Status G2 = Q aber play-likely)",
+        "_Knicks-Roster ansonsten weitgehend gesund - kein Major-Status-Update bekannt"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - Spurs sind in NBA-Finals, KEINE parallele Wettbewerbe; Saison-End-Spiel. Recovery nach WCF-G7 vs OKC (Sa 30.05 -> 5 Tage bis G1 03.06 -> jetzt 2 Tage bis G2 06.06). WCF-G7-Hangover-These (Lesson 03.06) bestaetigt nach G1.",
+        "gast": "keine - Knicks sind in NBA-Finals, KEINE parallele Wettbewerbe; Saison-End-Spiel. Recovery: Knicks gewannen ECF-Sweep vs Cleveland (~24.05) -> 9+ Tage Pause bis G1 -> hatten Rest-Vorteil in G1 -> jetzt 2 Tage bis G2.",
+        "quellen": [
+          "https://www.nba.com/news/the-knicks-12-game-postseason-winning-streak-measures-up",
+          "https://www.nba.com/news/victor-wembanyama-named-2026-western-conference-finals-mvp",
+          "https://www.espn.com/nba/recap/_/gameId/401859963"
+        ]
+      },
+      "saisonziel_heim": "Spurs: Western Conference Champion 25/26 (1. Conference-Title seit 2014 Tim-Duncan-Aera). Saisonziel = Larry-O'Brien-Trophy = 6. NBA-Title der Franchise-Historie. NBA-Finals-Stand 0-1 nach G1-Heim-Niederlage = MUSS G2 Heim gewinnen sonst 0-2 vor 4 Auswaerts-Spielen MSG-Trip.",
+      "saisonziel_gast": "Knicks: Eastern Conference Champion 25/26 (1. NBA-Finals-Appearance seit 1999 Patrick-Ewing-Aera). Saisonziel = Larry-O'Brien-Trophy = 3. NBA-Title der Franchise-Historie (vorher 1970, 1973 = 53 Jahre Durststrecke). Stand 1-0 nach G1-Auswaerts-Sieg - 12-game-Playoff-Winning-Streak (laut nba.com fuer-historische-Pace).",
+      "tabellenstand": {
+        "heim_seed": "Western Conference #1 Seed",
+        "heim_reg_season": "62-20 (laut recherche/2026-05-30.json)",
+        "gast_seed": "Eastern Conference #X Seed (vermutlich nicht #1)",
+        "gast_reg_season": "53-29 (laut recherche/2026-05-30.json)",
+        "_kommentar": "Spurs bessere Regular-Season-Bilanz -> Heimrecht-Reihenfolge. Knicks waren coming-in Underdog im NBA-Finals-Markt (NYK +200 zu Series-Start), nach G1-Sieg jetzt Knicks -135 favorite (laut Yahoo + bet365-update nach G1)."
+      },
+      "form_heim_letzte_5": "S-S-S-S-N (in chronologischer Reihenfolge: G3 WCF 28.05 (vermutet S), G4 WCF (vermutet wechselnd), G5 (S), G6 28.05 (S - forced G7), G7 31.05 (S - WCF-Champion vs OKC), G1 Finals 03.06 NIEDERLAGE 95-105 zu Hause). Form-Bezug: Champion-vor-G1 + G7-Auswaerts-Sieg-Eskalation - dann G1-Hangover.",
+      "form_gast_letzte_5": "S-S-S-S-S (Conference-Sweep Cavaliers 4-0 ~24.05; dann G1 Finals 03.06 SIEG 105-95 auswaerts). 12 in Folge Playoff-Siege bei nba.com 'on pace for history' notiert.",
+      "recovery_heim": "2 Tage seit G1 03.06 (Mi -> Fr). Vorher: WCF-G7 31.05 (Sa) -> G1 03.06 (Mi) = 3 Tage Rest, weniger als NYK. Beide G2-Recovery gleich (3 Tage zwischen G1 03.06 Mi und G2 05.06 Fr/06.06 Sa-Nacht-Berlin). Heim-Stadt-Vorteil = kein Reise-Faktor fuer SAS in G2.",
+      "recovery_gast": "2 Tage seit G1 03.06 (Mi -> Fr). Vorher: ECF-Sweep ~24.05 (So) -> G1 03.06 (Mi) = ~9-10 Tage Pause = Rest-Vorteil G1 erwiesen (Knicks-Defense #1 in Playoffs 100.6 PPG zugelassen hat Spurs-Offense von 95 begrenzt). G2-Recovery 2 Tage = identisch zu SAS.",
+      "quoten": {
+        "bet365_naeherung_via_aggregatoren": {
+          "moneyline_heim_spurs": -218,
+          "moneyline_gast_knicks": "+180 bis +190",
+          "spread_heim": "Spurs -5.5 (-118)",
+          "spread_gast": "Knicks +5.5 (-104)",
+          "total": "O/U 214.5 (-110 / -110)",
+          "_kommentar": "FanDuel-Lines via Aggregator (oddsshark, fanduel-research, draftkings opening). bet365 LIVE pruefen vor Tippsetzung - kann sich aendern. Markt hat Total von G1-Linie 218.5 auf G2 214.5 gesenkt (-4 Punkte) = Markt hat G1-Defensiv-Charakter (200 Pkt) eingepreist - reduziert Unter-Edge marginal, aber Unter-These bleibt valide (Lesson 02.05 NBA-Decider-Defensiv-These + G1-Validierung).",
+          "spieler_punkte_einzeln_erlaubt": {
+            "Brunson_O_25_5": -104,
+            "Brunson_U_25_5": null,
+            "Wembanyama_O_25_5": -110,
+            "Towns_O_16_5": -122,
+            "_kommentar": "Brunson Snap-Back-Risiko nach G1-30P + Volume-Player-Lesson 22.05 -> max VALUE bei O 25.5. Wemby Bounce-Back-These vs cold G1 (6-21 FG) -> O 25.5 ggf VALUE wenn Anchor fix. KAT O 16.5 nach G1-18P solide aber Foul-Trouble-Risiko vs Wemby."
+          },
+          "double_double_erlaubt": {
+            "Towns_DD": null,
+            "Wembanyama_DD": null,
+            "_kommentar": "Beide G1 DD (KAT 18/12, Wemby 26/12). Quoten bei bet365 typisch -160 bis -200 fuer regulaere DD-Faehigkeit. Live pruefen."
+          },
+          "triple_double_erlaubt": {
+            "Brunson_TD": null,
+            "_kommentar": "Brunson hatte G1 30P aber Ast/Reb-Volumen niedriger - TD unwahrscheinlich, max MOONSHOT bei 12.0+ Quote."
+          },
+          "meiste_punkte_erlaubt": {
+            "Brunson_top_scorer_game": null,
+            "Wembanyama_top_scorer_game": null,
+            "_kommentar": "G1-Top-Scorer war Brunson (30) vor Wemby (26). G2 Meiste-Punkte typischerweise Brunson 3.50-4.00 / Wemby 3.00-3.50 / KAT 6.00+ / SGA-aequivalent-Castle/Fox 8.00+."
+          },
+          "verboten_in_de_NIE_setzen": [
+            "Wembanyama Over 3.5 Blocks (Einzel-Blocks)",
+            "KAT Over 10.5 Rebounds (Einzel-Rebounds)",
+            "Brunson Over 6.5 Assists (Einzel-Assists)",
+            "Brunson Over 2.5 3PM (Einzelne 3er)",
+            "Anunoby Over 2.5 3PM (Einzelne 3er)",
+            "Castle Over 6.5 Assists (Einzel-Assists)",
+            "Harper Over 16.5 Pkt+Reb-Kombi (Punkte+Rebounds-Kombo, DE verboten)"
+          ],
+          "verboten_in_de_NIE_setzen_kommentar": "FanDuel + Oddsshark zeigen oben gelistete Maerkte als 'Best Bets' - alle in DE bet365 NICHT verfuegbar bzw. ueber-Mapper-zu-droppen. Tipps-Routine MUSS Punkte/ML/Spread/Total/DD/TD/Meiste-Punkte/Quartal als einzige Maerkte verwenden."
+        },
+        "pinnacle_naeherung": {
+          "moneyline_heim": null,
+          "moneyline_gast": null,
+          "spread": null,
+          "total": null,
+          "_kommentar": "Pinnacle bisher in dieser Recherche nicht direkt abgegriffen - fuer Freitag-Hauptroutine zu ergaenzen via pinnacle.com /sports/basketball/nba/usa-nba-finals. Fair-Line-Vergleich vs bet365 ggf. Edge-Bestaetigung."
+        },
+        "fair_line_pinnacle_basis_prozent": {
+          "_hinweis": "Aus FanDuel-Lines: Spurs -218 ML = ~68.6% implizit, Knicks +190 ML = ~34.5% implizit (Vig). Vig-bereinigt ~67%/33%. Fair-Line zu pruefen Freitag.",
+          "spurs_sieg_implizit": 68.6,
+          "knicks_sieg_implizit": 34.5,
+          "vig_bereinigt_summe": 103.1
+        },
+        "_quelle": "FanDuel Research G2 Prop Preview 04.06.2026 + DK Network G2 Opening Odds 03.06.2026 + Oddsshark Picks 04.06.2026 + Yahoo Sports Championship-Odds bet365-Reference 04.06.2026. bet365 LIVE pruefen vor Tipp-Setzung.",
+        "_notes": "Reine Best-of-7-Serie - kein Verlaengerungs/Elfmeter-Markt-Risiko. 1X2 in NBA = Moneyline (kein Remis moeglich, OT entscheidet). Bei Knockout-Verlaengerung wird ML weiterhin gewinn-orientiert (Sieg = Spurs oder Knicks nach OT). 2:0-Insurance-Regel CLAUDE.md NICHT anwendbar (NBA, nicht BL/CL Fussball). Einwechslungs-Boost-Regel NICHT anwendbar (NBA, nicht Fussball-Torschuetzen)."
+      },
+      "g1_kontext_box_score": {
+        "endstand": "NYK 105 - SAS 95",
+        "halbzeit_stand": "n/v (nicht in Quellen explizit erwaehnt - G1-Recap Yahoo notiert SAS-fuehrte-bis-14-in-Q3)",
+        "max_spurs_lead": "+14 in Q3",
+        "finaler_run": "NYK 11-0 in letzten 2 Min (Brunson Corner-3 fuer Lead-Take)",
+        "knicks_top_scorer": "Brunson 30 (12-31 FG, 13 P in Q4)",
+        "knicks_secondary": "KAT 18-12-4 (DD)",
+        "spurs_top_scorer": "Wembanyama 26P/12R/3Blk auf 6-21 FG, 6 TOs",
+        "spurs_secondary": "Castle 17, Harper 16+8 von Bank",
+        "total_pkt_g1": 200,
+        "total_linie_g1": 218.5,
+        "total_resultat_g1": "UNTER (-18.5 unter Linie)",
+        "spread_resultat_g1": "Spurs -X verloren SU + ATS (haushoher Heim-Favorit zerbrochen)",
+        "ml_resultat_g1": "Knicks ML (~+150 pregame) GEWONNEN, Spurs ML (~-170 pregame) VERLOREN",
+        "_implikation_fuer_g2": "(a) Knicks-Defense-System hat sich bestaetigt - Spurs 95 Pkt unter Saison-Schnitt. (b) Brunson Hot-Hand-G1 (30P, 13 Q4) -> Snap-Back-Risiko G2 + Markt hat Linie nicht hochgesetzt (25.5 weiter). (c) Wemby cold G1 (6-21 FG) + Bounce-Back-Profil -> O 25.5 ggf VALUE. (d) Total 218.5 -> 200 -> Linie 214.5 G2 = Markt re-kalibriert, Unter-Edge marginal aber valide bei Defensiv-Stil bestaetigt. (e) Pop-Coaching-Adjustment G2 erwartet: ggf. mehr Wemby-Iso-Posten, mehr Castle-PnR-Volume. (f) Mike-Brown-Counter: Knicks-Defense halten + Brunson-PnR weiter. (g) Heim-Bounce-Back Spurs: historisch 38-12 SU at home reg-season, 5-1 SU/ATS nach Loss in Playoffs - Pseudo-Hedge-Argument fuer Spurs-Spread-Cover bei -5.5. (h) Historisch road-team-wins-G1 -> 0-4 SU / 0-3-1 ATS in G2, durchschnittliche Niederlage 15.5 P - sehr starke Bounce-Back-Korrelation."
+      },
+      "news_kompakt": [
+        "Knicks fuehren Best-of-7 NBA Finals 1-0 nach G1-Auswaerts-Sieg 105-95 in San Antonio (03.06.2026)",
+        "G2 ist Fr 05.06 8:30 PM ET / Sa 06.06 02:30 Berlin im Frost Bank Center San Antonio - Spurs muessen Heim-Split",
+        "Jalen Brunson 30P (12-31 FG, 13 P in Q4 inkl. corner-3 fuer Lead-Take) - Knicks 11-0-Run in letzten 2 Min",
+        "Wembanyama 26P/12R/3Blk aber kalt 6-21 FG + 6 TOs - 'Bad' Bewertung CBS Sports",
+        "Wembanyama Knoechel-Concern G1: Landung-Slide nach Offensiv-Rebound, gewunken aus, expects no time missed",
+        "Karl-Anthony Towns 18P/12R/4A DD-Performance",
+        "Stephon Castle 17P solide, Dylan Harper 16P/8R Rookie-Bench-Eruption",
+        "G2-Odds: Spurs -5.5 (-118), ML SAS -218 / NYK +180-+190, Total O/U 214.5 (gesenkt von G1-Linie 218.5)",
+        "Knicks Championship Odds nach G1 jetzt -135 Favorit (laut bet365-Update Yahoo 04.06)",
+        "Historischer Trend: Road-team-wins-G1 0-4 SU + 0-3-1 ATS in G2 seit 2003 (durchschn. 15.5 P Niederlage)",
+        "Spurs 38-12 SU Heim regular-season, 5-1 SU+ATS nach Loss in diesen Playoffs",
+        "Knicks 12-Spiele-Playoff-Winning-Streak (laut nba.com 'on pace for history')",
+        "Spurs-Lineup G1: Wembanyama (C), Vassell (SF/SG), Champagnie (SF), Castle (G), Fox (PG)",
+        "Knicks-Lineup G1: Towns (C), Anunoby (PF/SF), Bridges (SF), Hart (SG), Brunson (PG)",
+        "DE-Markt-Blacklist Reminder: PRA-Kombos, Einzel-Reb/Ast/Blk/Stl/TO, Einzelne 3er - alle FanDuel-Top-Picks der Aggregatoren fallen unter DE-Verbot"
+      ],
+      "lessons_relevante_bezuege": [
+        "Lesson 02.05 NBA-Decider-Defensiv-Schlachten - Total Unter ML Edge in High-Stakes mit langen Pausen (G1 validiert: Total 200 vs Linie 218.5)",
+        "Lesson 22.05 Volume-Player-sport-uebergreifend-korreliert - Brunson G1 30P -> Snap-Back-Risiko G2",
+        "Lesson 22.05 NBA-Star-Defense-Adjust-G1-Hot-Hand-Subfilter - Brunson nach G1-Hot ggf. Defensiv-Adjust durch Spurs (mehr Switching auf Castle/Champagnie an Brunson)",
+        "Lesson 23.05 NBA-Star-G3-Snap-Back-Erlaubnis-Reverse - Wemby nach G1-Cold ggf. G2-Bounce-Back-These (Heim + Druck)",
+        "Lesson 27.05 WCF-Ueber-Goldgrube-Bruch-Einzel-Ausreisser - Re-Kalibrierung valider Total-Unter-These nach G1-Validierung n=2",
+        "Lesson 03.06 Spurs-G7-Hangover-These-validiert - Auswaerts-Underdog-Edge bei Hangover-Team UND Heim-Bounce-Back-Reaktion (G2 Spurs Heim-Bounce-Back-Korridor)",
+        "Lesson 03.06 Defense-System-Edge-Star-Bench-Comeback-Korridor - NYK Defense #1 hat sich bestaetigt, G2-Frage ob Spurs Adjustments machen",
+        "Lesson 03.06 Mini-Spiele-Tag-Konzentrations-Strategie-validiert-n2 - Sa 06.06 ebenfalls Mini-Spiele-Tag (1 Event), Stake-Konzentration auf G2 + Pseudo-Hedge erlaubt",
+        "Lesson 24.05 Karriere-Highlight-Tor-Markt-INVERS - aequivalent NBA: Brunson Post-Career-Sicht-Hot G1 ggf. Markt-Snap-Back"
+      ],
+      "quellen_aggregator": [
+        "https://www.nba.com/news/live-2026-nba-finals-knicks-spurs-tip-off-game-1-in-san-antonio",
+        "https://www.espn.com/nba/recap/_/gameId/401859963",
+        "https://www.nba.com/news/the-knicks-12-game-postseason-winning-streak-measures-up",
+        "https://www.nba.com/news/victor-wembanyama-named-2026-western-conference-finals-mvp",
+        "https://www.fanduel.com/research/nba-finals-game-2-prop-bets-preview-knicks-vs-spurs-june-5-2026",
+        "https://www.fanduel.com/research/knicks-vs-spurs-nba-finals-game-1-recap-game-2-preview-2026",
+        "https://www.oddsshark.com/nba/knicks-spurs-picks-odds-game-2-june-5-2026",
+        "https://dknetwork.draftkings.com/2026/06/03/opening-odds-for-knicks-vs-spurs-game-2-in-2026-nba-playoffs-finals-2/",
+        "https://www.cbssports.com/nba/news/knicks-spurs-score-live-updates-nba-finals-game-1/live/",
+        "https://www.cbssports.com/nba/news/2026-nba-finals-schedule-odds/",
+        "https://sports.yahoo.com/articles/victor-wembanyama-scary-limp-vs-044006775.html",
+        "https://sports.yahoo.com/articles/2026-nba-championship-odds-thunder-150100421.html",
+        "https://sports.yahoo.com/articles/josh-harts-efforts-help-knicks-050832118.html",
+        "https://abc7ny.com/post/nba-finals-2026-game-1-new-york-knicks-beat-san-antonio-spurs-105-95/19230892/",
+        "https://heavy.com/sports/nba/new-york-knicks/starting-lineup-nba-finals-game-1-injury-update/",
+        "https://heavy.com/sports/nba/san-antonio-spurs/starting-game-1-nba-finals-vs-knicks/",
+        "https://www.poundingtherock.com/game-recaps/103916/spurs-let-game-1-slip-away-as-knicks-steal-opening-game-of-nba-finals"
+      ],
+      "datenbasis_balldontlie_id": "21716135",
+      "datenbasis_espn_gameid": "401859963 (G1) - G2 ID zur Auswertung post-G2 via espn.com gameId-Folge",
+      "skipped_due_to_token_budget": false
+    }
+  ],
+  "leerschlag_metadata": {
+    "modus_kommentar": "Wochenende mit 1 In-Scope-Event (NBA Finals G2 in der Nacht zum Samstag 06.06 02:30 Berlin). Sonntag 07.06 leer. Daher kein 'leer'-File aber Mini-Slate.",
+    "geprueft_apis": [
+      {"api": "football-data.org v4 /v4/matches?dateFrom=2026-06-06&dateTo=2026-06-07", "datum_range": "2026-06-06 bis 2026-06-07", "treffer_gesamt": 0, "treffer_in_scope": 0, "treffer_detail": "resultSet.count=0, matches:[]. Keine Spiele in football-data.org am Wochenende - alle Top-5-Ligen + UEFA-Cup-Wettbewerbe abgeschlossen, Saison 2026-27 startet erst Mitte/Ende August.", "http_status": "200 OK", "permission": "TIER_ONE", "abgefragt_am": "2026-06-04T17:30:00+00:00"},
+      {"api": "balldontlie.io v1 /v1/games?dates[]=2026-06-05&dates[]=2026-06-06&dates[]=2026-06-07&postseason=true", "datum_range": "2026-06-05 bis 2026-06-07", "treffer_gesamt": 1, "treffer_in_scope": 1, "treffer_detail": "1 Spiel: NBA Finals G2 game_id=21716135, NYK @ SAS, datetime=2026-06-06T00:30:00Z = Sa 06.06 02:30 Berlin. Format Best of 7, status='2026-06-06T00:30:00Z' (noch nicht gestartet), home_team=SAS, visitor_team=NYK.", "http_status": "200 OK", "abgefragt_am": "2026-06-04T17:25:00+00:00"},
+      {"api": "Hinweis: G3 ist Mo 08.06 / Di 09.06 02:30 Berlin -> NICHT in Wochenend-Anker (Sa/So)", "treffer": 0}
+    ],
+    "ausserhalb_scope_aber_geprueft": [
+      "Brasileirao Serie A Sa 06.06: hat Spiele (Goias, Botafogo, Sao Paulo etc.) - NICHT in CLAUDE.md-Scope",
+      "MLS Wochenend-Spiele (Inter Miami, LAFC etc.) - NICHT in CLAUDE.md-Scope (nur europaeische Top-5-Klub + DFB-Pokal + Coppa Italia + CL + NBA)",
+      "WNBA-Saison laeuft im Juni - NICHT in CLAUDE.md-Scope (nur NBA aus US-Sport)",
+      "MLB-Saison laeuft - NICHT in CLAUDE.md-Scope",
+      "2.Bundesliga / Promotion-Playoffs - alle abgeschlossen (Relegationen 22./25.+26.05) - NICHT in CLAUDE.md-Scope",
+      "Frauen-Bundesliga / Frauen-CL-Finale - abgeschlossen, NICHT in CLAUDE.md-Scope",
+      "Liga-Portugal / Eredivisie / Schottland-Premiership / Belgien / Tuerkei - NICHT in CLAUDE.md-Scope",
+      "FIFA WM 2026 (Eroeffnung 11.06 in Mexico/USA/Kanada) - NICHT in CLAUDE.md-Scope (nur Vereins-Top-5 + DFB-Pokal + Coppa Italia + CL)",
+      "Nations League / WM-Quali / Internationale Friendlies (z.B. Polen-Moldau Fr 05.06 in Vorbereitung WM 2026, Belgien-X, Deutschland-Vorbereitung) - NICHT in CLAUDE.md-Scope",
+      "FIFA Club WM 2026 (USA, 15.06-13.07.2026 - laut FIFA-Spielplan startet erst 15.06) - in CLAUDE.md-Scope grenzwertig (CL-aequivalente Klub-Wettbewerbe), aber NICHT-Auftakt-Wochenende 06./07.06",
+      "Test-Cricket / Tennis French Open Final 07.06 - NICHT in CLAUDE.md-Scope (kein Tennis/Cricket im Sport-Scope)",
+      "Bundesliga 2026-27 Saison-Auftakt 28.08.2026 - Klub-Fussball-Sommerpause bis dahin",
+      "DFB-Pokal 2026-27 1. Runde typisch ~14.-17.08.2026 - noch in Sommerpause"
+    ],
+    "hinweis_an_tipps_routine_donnerstag_1800": "Wochenend-Vorschau-Dossier mit EINEM in-Scope-Spiel: NBA Finals G2 SAS vs NYK in Nacht zu Sa 06.06 02:30 Berlin. Sonntag 07.06 explizit leer (Empty-Slate-Tag mit Hinweis auf naechsten Slate Mo 08.06 -> G3 in Nacht zu Di 09.06 02:30 Berlin im MSG New York). G2-Tipp-Setzung kann jetzt vorgenommen werden (Donnerstag-Dossier mit Vorschau-Status) ODER auf Freitag-Hauptroutine 13:30 verschoben werden (naehrer am Anpfiff, frischere Injury-Reports). EMPFEHLUNG: G2 ist 2.5 Tage in der Zukunft - Wochenend-Vorschau-Dossier soll G2-Frame mit Pseudo-Hedge-Logic + Mini-Spiele-Tag-Konzentrations-Strategie vorbereiten; Freitag-Tipps-Routine 13:30 holt finale Injury-Updates (Wemby-Knoechel-Status entscheidend) und setzt finalen Stake. Hartregel-Anwendung Mini-Spiele-Tag (Lesson 03.06 n=2 validiert): Konzentration auf 1-2 Goldgruben-Picks erlaubt, KEIN Single-Point-of-Failure-Kombi (Lesson 27.05 Korrelations-Schutz). NBA-Goldgruben-Hypothese 'Total Unter X.5 Punkte' nach G1-Validierung mit n=2-Wartebereich (Lesson 27.05 Bruch-war-Einzel-Ausreisser-Re-Kalibrierung) - VALUE-Label max, KEIN SAFE. NBA-Markt-Blacklist STRENGSTENS einhalten: KEINE FanDuel-Picks Einzel-Ast/Reb/Blk/3PM/PRA in DE setzbar. Hinweis-Note: Die heutige Donnerstag-Vorschau-Routine + die Freitag-Hauptroutine sind beide fuer denselben Anker G2 zustaendig - Doppel-Routine-Schutz: Donnerstag-Vorschau hat Lead-Time-Vorteil aber weniger Injury-Information; Freitag hat finale Information; Sa-Tipps-Routine (falls definiert) waere zu spaet (Spiel um 02:30 Berlin Sa)."
+  },
+  "footer": {
+    "rechtlich": "18+ - bet365 DE - Hobby-Wetten - keine Einkommensquelle",
+    "spielerschutz": "BZgA: 0800 1372700",
+    "quelle_recherche": "football-data.org v4 (Free Tier, HTTP 200 OK + count=0 fuer Wochenend-Range), balldontlie.io v1 (Free, 1 Spiel = G2 SAS vs NYK), WebSearch + WebFetch fuer G1-Box-Score + G2-Preview + Quoten (FanDuel/DK/Oddsshark/Yahoo/ESPN/NBA.com/CBS Sports/Heavy.com/Pounding the Rock/ABC7 NY). Alle APIs live abgefragt 04.06.2026 17:25-17:30 Berlin. Squad-Verifikation via nba.com Team-Seiten + Heavy-Starting-Lineup-G1-Bestaetigung. POSITION-Genauigkeit fuer Hojlund-Bug-Schutz: alle NBA-Positionen verifiziert (PG/SG/SF/PF/C-Trennung). Keine Spielernamen erfunden. KEINE Tipps generiert - reine Daten-Sammlung."
+  }
+}
