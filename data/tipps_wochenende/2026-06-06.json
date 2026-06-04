@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
+{
   "datum": "2026-06-06",
   "erstellt_am": "2026-06-04T18:15:00+02:00",
   "hinweis": "EMPTY-SLATE-WOCHENENDE (Donnerstag-Vorschau Sa 06.06 + So 07.06): 0 In-Scope-Spiele Sa+So. PRUEFUNG ZEITFENSTER Sa 06.06 00:00 - Mo 08.06 06:00 Berlin: (1) Fussball-Klub-Ligen alle seit 16.-25.05 durch (BL 17.05, PL 24.05, LaLiga 25.05, Serie A 24.05, Ligue 1 17.05). (2) Alle Domestic-Cup-Finals + alle UEFA-Klub-Finals gespielt (DFB-Pokal 24.05, FA Cup 17.05, Copa del Rey 25.04, Coppa Italia 14.05, EFL Cup Feb, Coupe de France 24.05, EL-Final 20.05, Conference-Final 27.05, CL-Final 30.05 PSG-Arsenal). (3) NBA Finals 2026 Schedule (offiziell nba.com / ESPN / CBS): G1 Mi 03.06 8:30PM ET (Spurs vs Knicks 95-105 / Knicks fuehren 1-0), G2 Fr 05.06 8:30PM ET = Sa-Nacht 06.06 02:30 Berlin - **noch innerhalb Donnerstag-Vorschau-Slot der TAEGLICHEN Routine fuer Fr 05.06 NICHT der Wochenend-Routine, weil Anstoss Fr+24h Mitternacht Berlin**, G3 Mo 08.06 8:30PM ET (= Di 09.06 02:30 Berlin, ausserhalb Wochenend-Fenster). Zwischen G2 und G3 sind Sa+So komplett spielfrei (typisches NBA-Finals-Travel-Day-Format 2-3-2). (4) Internationale Friendlies / WM-Vorbereitung Sa+So (z.B. Tuerkei-Mexico, Brasil-Senegal, Portugal-Korea, Deutschland-Honduras WM-Test) bewusst NICHT bespielt - Nationalteams nicht in CLAUDE.md-Scope (n=0 historisch, kein Tool-Edge). WM 2026 startet erst 11.06 (Mexico-USA-Kanada) und liegt ausserhalb Klub-Fokus. Konsequenz: 0 Spiele, 0 Einzeltipps, 0 Kombis fuer dieses Wochenende. 9. Empty-Slate-/Single-Event-Tag in Folge (28.05 erstmals, ununterbrochen seit CL-Final-Nachwirkung). Routine schreibt dieses Dossier-Skelett als reine Dokumentation des Saison-Ende-Status. Kasse 550 EUR bleibt voll erhalten (kein Einsatz = kein Verlust-Risiko). Naechste Klub-Aktion: Saison-Auftakt 2026/27 (Bundesliga vorauss. 14.-16.08, PL 15.08), NBA-Saison-Auftakt Oktober. WM 2026 ab 11.06 wird aktuell nicht bespielt (Scope-Frage offen).",
@@ -56,4 +55,4 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
     "ergebnis": "Empty-Slate-Wochenende sauber dokumentiert. 0 Spiele, 0 Einzeltipps, 0 Kombis - alle Disziplin-Regeln (Mini-Spiele-Tag, Scope-Disziplin, NBA-Playoffs-kein-SAFE, Pinnacle-Hartregel) trivial erfuellt durch komplette Abwesenheit von Tipps. Kasse 550 EUR bleibt 100% erhalten."
   },
   "footer": "18+ - bet365 DE - Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
-};
+}
