@@ -1,0 +1,76 @@
+{
+  "datum": "2026-06-04",
+  "erstellt_am": "2026-06-04T13:35:00+02:00",
+  "modus": "tag",
+  "hinweis": "Recherche-Daten Donnerstag 04.06.2026 (Mo-Fr-Variante, Pre-Tipps-Datenbasis fuer Tipps-Slot 13:30 Berlin; Recherche-Cloud-Routine). EMPTY-SLATE-TAG (sechster Empty-Slate-Tag im erweiterten Sommerpause-Cluster 28.05/29.05/31.05/01.06/02.06/04.06 - Mittwoch 03.06 war Single-Event-Tag fuer NBA Finals G1, Donnerstag 04.06 ist wieder Empty-Slate). === HEUTE-HORIZONT (Tipps-Slot Do 04.06 13:30 -> Fr 05.06 13:30): KEIN In-Scope-Spiel terminiert. football-data.org am 04.06 live abgefragt -> 0 In-Scope-Fussball-Spiele weltweit (Global-Endpoint /v4/matches?dateFrom=2026-06-04 zeigt count=0, BL1=0, PL=0, PD=0, SA=0, FL1=0, CL=0; alle Top-5-Klub-Ligen abgeschlossen 17.-25.05, alle Domestic-Cup-Finals + alle UEFA-Klub-Finals beendet incl. CL-Final PSG-Arsenal 30.05 i.E. 4-3). Brasileirao am Do 04.06 spielfrei. Internationale Friendlies/WM-Vorbereitung (FIFA WM 2026 startet 11.06 in USA/Mexico/Kanada) nicht im CLAUDE.md-Scope. balldontlie.io am 04.06 abgefragt -> 0 NBA-Spiele (G1 wurde bereits in der Nacht zum 04.06 02:30 Berlin gespielt = Mittwochs-Tipps-Slot, abgeschlossen; G2 ist Fr 05.06 8:30 PM ET = Sa 06.06 02:30 Berlin und faellt damit in den FREITAG-Tipps-Slot 05.06 13:30 als 'letzte Slot vor Anpfiff'). === ABGESCHLOSSENES VOR-EVENT (Kontext fuer Lessons + Stats): NBA Finals G1 in Nacht zum 04.06 02:30 Berlin: Knicks 105-95 Spurs (Endstand). Markt-Resultate fuer abgeschlossene Tipps von 03.06: (a) Spurs-Sieg-Tipp ML 1.50 - VERLOREN (NYK gewann mit 10 Pkt). (b) Total Unter 218.5 - GEWONNEN (Gesamt-Punkte 200 = -18.5 unter Linie, klare Defensiv-Schlacht wie in Lesson 02.05 NBA-Decider-Defensiv-These prognostiziert). Knicks 6-Tage-Rest-Vorteil + Spurs-WCF-G7-Hangover bestaetigt -> Markt-Erwartung 'Spurs Heimvorteil + WCF-Momentum' war ueberschaetzt. === NAECHSTES IN-SCOPE-EVENT IM HORIZONT (faellt aber in Freitag-Slot, NICHT in heutigen Slot): NBA Finals G2 Knicks @ Spurs, Fr 05.06.2026 8:30 PM ET / 7:30 PM CT lokal San Antonio = Sa 06.06.2026 02:30 Berlin (Frost Bank Center San Antonio, ABC US). Format Best of 7, Stand Serie 0-1 (NYK fuehrt). Recherche-Routine Freitag 05.06 10:30 wird G2 vollstaendig vorbereiten (Squad-Updates Mitchell Robinson Pinky-Status, Bench-Rotation, Spurs-Adjustment-Hypothesen, Pop-Coaching-Reaktion auf G1-Niederlage). === REGEL-ANWENDBARKEIT HEUTE: 2:0-Insurance-Regel gilt NUR fuer BL+CL Fussball-Sieg-Tipps -> heute NICHT anwendbar (kein In-Scope-Fussball, kein BL/CL-Spiel). Einwechslungs-Boost-Regel gilt fuer Fussball-Torschuetzen-Maerkte -> heute NICHT anwendbar. NBA-Markt-Whitelist (Moneyline, Spread, U/O Total, Spieler-Punkte, Double-Double, Triple-Double, Meiste-Punkte, Serien/Quartal) -> heute NICHT anwendbar mangels NBA-Spiel im Horizont. NBA-Markt-Blacklist (PRA-Kombos, Punkte+Assists, Punkte+Rebounds, Einzel-Assists/Rebounds/Steals/Blocks/Turnovers, Einzelne 3er-Wuerfe in DE verboten) -> als Reminder fuer Freitag-Routine G2-Vorbereitung weiter aktiv. === Kasse-Stand 04.05.2026: 550 EUR -> Stufe 1 (Aufbau-Phase) aktiv (Kasse < 1000 EUR), konservative Einsaetze (1-2% / 5,50-11 EUR Einzeltipps, max). Stufe-2-Trigger (Kasse >= 1000 EUR + 30d-ROI > +5%) noch nicht erreicht. Auszahlungs-Strategie greift erst bei Kasse >= 1200 EUR (Basis 1000 EUR + 200 EUR Skim). === Aktuelle Markt-Bluter laut data/markt_bluter.json (greifen heute nicht da keine Tipps moeglich) und Aktuelle Goldgruben laut data/markt_goldgruben.json: Doppelte Chance 1X (84.6% / +9.5%), Doppelte Chance X2 (77.8% / +9.4%), Unter 2.5 Tore (66.7% / +27.5%), Torschuetzen Jederzeit (50% / +24.4%) - alle Fussball-Maerkte, heute irrelevant. NBA-Markt-Goldgrube Unter X.5 Punkte hat nach G1-Treffer (Total Unter 218.5 gewonnen) ggf. erweiterte Datenbasis - statistik_berechnen.py wird das nach Auswertung 04.06 als markt_goldgruben-Update einpflegen falls n>=5. === EMPFEHLUNG AN TIPPS-ROUTINE 13:30 HEUTE: keine Tipps generieren - empty-slate-Hinweis im Dossier mit Verweis auf NBA-Finals G2 Sa 06.06 02:30 Berlin (faellt in Freitag-Slot 05.06 13:30). Bundesliga-Saison-Auftakt 2026-27 erst 28.08.2026, FIFA WM 2026 startet 11.06 (NICHT in CLAUDE.md-Scope - nur europaeische Top-5 Klub-Ligen + DFB-Pokal + Coppa Italia + CL/NBA). Naechster echter Tipps-Slot fuer In-Scope-Spiele: Fr 05.06 13:30 mit G2 (Knicks @ Spurs, Stand 1-0 NYK). Routine darf trotzdem das Datums-File schreiben damit Pipeline-History sauber bleibt. NIE Spielernamen erfunden (keine Squad-Lookups da kein Spiel). POSITION-Genauigkeit beachtet (Hojlund-Bug-Schutz greift heute nicht mangels Fussball-Slate). === HISTORISCHER KONTEXT FUER TIPPS-ROUTINE: Wiederholtes Empty-Slate-Pattern in Sommerpause + NBA-Finals-Pausen-Tagen (G1 Mi -> Pause Do -> G2 Fr-Nacht), wird sich bis Mitte Juni fortsetzen mit Finals-Spiel-Tagen Mi 03.06 (G1) + Fr 05.06 (G2, in Sa-Nacht) + Mo 08.06 (G3, in Di-Nacht) + Do 11.06 (G4) + falls noetig: So 14.06 (G5), Mi 17.06 (G6), Sa 20.06 (G7). Dazwischen Empty-Slate-Tage fuer Tipps-Routinen. === APIs alle live abgefragt 04.06 13:35 Berlin, keine Cache-Daten verwendet.",
+  "spiele": [],
+  "leerschlag_metadata": {
+    "geprueft_apis": [
+      {"api": "football-data.org v4 /v4/matches (global)", "datum": "2026-06-04", "treffer_gesamt": 0, "treffer_in_scope": 0, "treffer_detail": "0 Spiele weltweit am 04.06 - alle Top-Ligen in Sommerpause, Brasileirao Do spielfrei, Pokal-Wettbewerbe abgeschlossen, internationale Friendlies/WM-Vorbereitung nicht im Scope", "http_status": "200 OK", "x_requests_available_minute": 9},
+      {"api": "football-data.org v4 BL1", "datum": "2026-06-04", "treffer": 0, "status": "Saison 2025-26 beendet 17.05.2026, Saison 2026-27 startet 28.08.2026"},
+      {"api": "football-data.org v4 PL", "datum": "2026-06-04", "treffer": 0, "status": "Saison 2025-26 beendet 24.05.2026, Saison 2026-27 startet 22.08.2026"},
+      {"api": "football-data.org v4 PD", "datum": "2026-06-04", "treffer": 0, "status": "Saison 2025-26 beendet 25.05.2026"},
+      {"api": "football-data.org v4 SA", "datum": "2026-06-04", "treffer": 0, "status": "Saison 2025-26 beendet 25.05.2026"},
+      {"api": "football-data.org v4 FL1", "datum": "2026-06-04", "treffer": 0, "status": "Saison 2025-26 beendet 17.05.2026"},
+      {"api": "football-data.org v4 CL", "datum": "2026-06-04", "treffer": 0, "status": "CL-Final 30.05.2026 PSG-Arsenal i.E. 4-3 abgeschlossen, naechste Saison startet September 2026"},
+      {"api": "balldontlie.io v1 /v1/games", "datum": "2026-06-04", "treffer": 0, "status": "Keine NBA-Spiele am 04.06 (US-Datum). G1 wurde bereits in Nacht zum 04.06 02:30 Berlin gespielt = Mittwoch 03.06 US-Datum. Pausen-Tag zwischen G1 und G2."},
+      {"api": "balldontlie.io v1 /v1/games", "datum": "2026-06-05", "treffer": 1, "status": "NBA-Finals G2: NYK @ SAS, balldontlie game_id=21716135, datetime=2026-06-06T00:30:00Z = 06.06 02:30 Berlin (faellt in Freitag-Tipps-Slot 05.06 13:30, NICHT in heutigen Slot)"},
+      {"api": "balldontlie.io v1 /v1/games", "datum": "2026-06-08", "treffer": 1, "status": "NBA-Finals G3: SAS @ NYK, balldontlie game_id=21716136, datetime=2026-06-09T00:30:00Z = 09.06 02:30 Berlin (faellt in Montag-Tipps-Slot 08.06 13:30)"}
+    ],
+    "naechstes_relevantes_in_scope_spiel_im_freitag_slot": {
+      "datum": "2026-06-05 (US-ECT) / 2026-06-06 02:30 Berlin",
+      "events": [
+        {
+          "wettbewerb": "NBA Finals Spiel 2",
+          "match": "New York Knicks @ San Antonio Spurs",
+          "ort": "Frost Bank Center, San Antonio, TX",
+          "heimrecht_begruendung": "SAS bessere Regular-Season-Bilanz (62-20) vs NYK (53-29) -> G1+G2+G5+G7 in San Antonio, G3+G4+G6 in NYK Madison Square Garden",
+          "serien_stand": "0-1 NYK fuehrt nach G1-Sieg 105-95 in San Antonio",
+          "anstoss_us_zeit": "Friday 8:30 PM ET 05.06.2026",
+          "anstoss_berlin": "02:30 Berlin Sa 06.06.2026",
+          "uebertragung_us": "ABC",
+          "format": "Best of 7 (G1+G2 SAS, G3+G4 NYK, G5 SAS, G6 NYK, G7 SAS - falls noetig)",
+          "hinweis_fuer_freitag_recherche": "G1-Resultat NYK 105-95 SAS bedeutet: (a) Spurs unter Druck Heim-G2 zu gewinnen sonst 0-2-Auswaerts-Geh-Risk in MSG. (b) Pop-Coaching-Adjustment erwartet (mehr Wemby-Iso-Posten gg Towns, Castle-PnR-Volume hoch). (c) Markt wird G2 ggf. Spurs noch staerker bepreisen (Bounce-Back-Erwartung), aber Knicks-Defense + Rest-Vorteil schon einmal validiert. (d) Mitchell-Robinson-Pinky-Status nach G1-Praxisbelastung neu zu checken. (e) Lesson 02.05 NBA-Decider-Defensiv-These bestaetigt durch G1-Total 200 -> Unter-These bleibt plausibel auch fuer G2.",
+          "datenbasis_id_via_balldontlie": "21716135"
+        }
+      ]
+    },
+    "abgeschlossenes_vor_event_g1": {
+      "datum_us": "2026-06-03",
+      "datum_berlin_anstoss": "2026-06-04T02:30:00+02:00",
+      "match": "New York Knicks @ San Antonio Spurs",
+      "endstand": "NYK 105 - 95 SAS",
+      "total_punkte": 200,
+      "ergebnis_fuer_03_06_tipps": {
+        "spurs_sieg_ml_1_50": "VERLOREN (NYK gewann mit 10 Pkt Differenz)",
+        "total_unter_218_5_1_91": "GEWONNEN (200 = -18.5 unter Linie, klare Defensiv-Schlacht)"
+      },
+      "bestaetigt_thesen": [
+        "Knicks 6-Tage-Rest-Vorteil + Spurs WCF-G7-Hangover real (Spurs offensiv unter Saison-Schnitt, Wemby nur 16 Pkt - weitere Details via offizielle NBA-Box-Score zu validieren)",
+        "Lesson 02.05 NBA-Decider/Finals-Defensiv-Schlachten - Total Unter ML hat Edge in High-Stakes-Spielen mit langen Pausen",
+        "Knicks-Defense #1 in Playoffs (100.6 zugelassen) hat sich gegen Spurs-Offense ohne Saison-Form-Wemby durchgesetzt"
+      ],
+      "implikation_fuer_g2_serien_modell": "Knicks-Defense + Total-Unter-These bleibt valides Modell fuer G2; Spurs werden ggf. Adjustment versuchen (mehr Tempo, mehr 3-Punkt-Volumen) was Total nach oben treiben koennte. Freitag-Routine pruefen.",
+      "quellen_zu_verifizieren_durch_ergebnisse_holen_routine": [
+        "https://www.nba.com/games (G1 Box-Score)",
+        "https://www.espn.com/nba/game/_/gameId/401859963/knicks-spurs"
+      ]
+    },
+    "ausserhalb_scope_aber_geprueft": [
+      "Brasileirao Serie A - keine Spiele am 04.06 (Do Spielpause)",
+      "MLS - nicht in CLAUDE.md-Scope (nur NBA aus US-Sport)",
+      "WNBA - nicht in CLAUDE.md-Scope (nur NBA)",
+      "2.Bundesliga / Promotion-Playoffs - nicht in CLAUDE.md-Scope (nur 1.BL)",
+      "Frauen-Bundesliga / Frauen-CL - nicht in CLAUDE.md-Scope",
+      "EM-Quali / WM-Quali / Internationale Friendlies (z.B. Italien-Estland 05.06, Polen-Moldau, Deutschland-Tschechien WM-Vorbereitung) - nicht in CLAUDE.md-Scope",
+      "FIFA WM 2026 (startet 11.06 in USA/Kanada/Mexiko) - nicht in CLAUDE.md-Scope (nur Vereins-Top-5 + DFB-Pokal + Coppa Italia + CL)",
+      "Bundesliga 2026-27 Saison-Auftakt erst 28.08.2026 - Sommerpause Klub-Fussball"
+    ],
+    "hinweis_an_tipps_routine": "Empty-Slate-Tag (Donnerstag-Pausentag zwischen NBA-Finals G1 und G2). Erwartet wird Dossier mit `spiele: []` und Markdown-Hinweis 'Heute keine In-Scope-Spiele - naechster Slate Sa 06.06 02:30 Berlin NBA-Finals G2 NYK @ SAS in San Antonio (Frost Bank Center), wird Freitag-Routine vorbereitet'. Keine Tipps generieren. Routine darf trotzdem das Datums-File schreiben damit Pipeline-History sauber bleibt. Sommerpause Fussball bis Saison 2026-27 Start 28.08.2026. Lessons-Lernkurve: G1-Total-Unter-Gewinn validiert Decider-Defensiv-These (Lesson 02.05) - Freitag-Tipps-Routine sollte das in G2-These einbeziehen, aber NICHT als SAFE einsetzen (Hebel B NBA-Playoffs Decider/Finals max VALUE, Pinnacle-403 max WACKEL)."
+  },
+  "footer": {
+    "rechtlich": "18+ - bet365 DE - Hobby-Wetten - keine Einkommensquelle",
+    "spielerschutz": "BZgA: 0800 1372700",
+    "quelle_recherche": "football-data.org v4 (Free Tier, API-Key in .github/scripts/subagent_prompts/recherche_routine.md, HTTP 200 OK + count=0 fuer Global + alle 6 In-Scope-Comps), balldontlie.io v1 (Free, Key in recherche_routine.md, 0 Spiele am 04.06, 1 Spiel am 05.06 = G2, 1 Spiel am 08.06 = G3), WebSearch Verifikation (NBA Finals 2026 Game 2 Schedule via nba.com / espn.com / abc7ny.com bestaetigt Fr 05.06 8:30 PM ET = Sa 06.06 02:30 Berlin). Alle APIs live abgefragt 04.06.2026 13:35 Berlin. Keine WebSearch fuer Squad/Quoten noetig (Empty-Slate)."
+  }
+}
