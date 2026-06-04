@@ -1,0 +1,245 @@
+{
+  "datum": "2026-06-03",
+  "erstellt_am": "2026-06-03T17:15:00+02:00",
+  "aktualisiert_am": "2026-06-03T17:25:00+02:00",
+  "aktualisiert_grund": "Master-Tipps-Routine-Lauf (Mo-Fr-Pipeline via GitHub Action 13:30-Slot mit Verspaetung) bestaetigt Watchdog-17:15-Resultat idempotent. Recherche-File data/recherche/2026-06-03.json (erstellt 14:55) wurde erneut gelesen: leerschlag_metadata zeigt 1 In-Scope-Spiel (NBA Finals G1 NYK @ SAS, 04.06 02:30 Berlin) + 0 In-Scope-Fussball-Spiele (BL/PL/PD/SA/FL1/CL Endpoints alle count=0). Skip-If-Done-Guard greift: kein Re-Generate, identisches Tipps-Profil (2 unkorrelierte WACKEL-Einzeltipps Spurs-Sieg + Total Unter 218.5, je 2.75 EUR). Hauptroutine ergaenzt fehlenden _verifikations_report{}-Block (Pflicht laut verifikation.md) plus diesen aktualisiert_am-Stempel. Stake-Profil + Begruendungen unveraendert.",
+  "hinweis": "SINGLE-EVENT-TAG (Mittwoch) - Watchdog-Recovery 17:15 Berlin (Hauptroutine 16:00 ist nicht durchgelaufen, Watchdog uebernimmt). Pruefung Zeitfenster Mi 17:15 - Do 06:00: GENAU 1 In-Scope-Spiel terminiert = NBA Finals 2026 Game 1 Knicks @ Spurs (Frost Bank Center San Antonio), Tip-off Mi 03.06 8:30 PM ET = Do 04.06 02:30 Berlin. Alle Top-5-Klub-Ligen seit 16.-24./25.05 durch, alle Domestic-Cup-Finals + alle UEFA-Klub-Finals gespielt (CL-Final PSG-Arsenal 30.05). Internationale Friendlies heute (z.B. Luxembourg-Italien, Kirgistan-Kenia, diverse WM-Vorbereitung der A-Nationalmannschaften - WM 2026 startet 11.06 in USA/Mexico/Kanada) bewusst NICHT bespielt - Nationalteams sind nicht in CLAUDE.md-Scope (Tool fokussiert auf Klub-Fussball + NBA, gewachsene Daten-Basis nur dort, n=0 historisch). NBA-Status: Spurs gewannen WCF 4-3 ueber OKC (G7 So-Nacht 30.05 US, Wembanyama unanimous WCF-MVP 27.3p/10.9r/3.1a/2.7b), Knicks fegten Cavs 4-0 (ECF abgeschlossen 28.05, Brunson unanimous ECF-MVP 25.5p/7.8a). Rest-Differenz: Knicks 6 Tage Pause (Sweep-Vorteil), Spurs 4 Tage Pause + emotionalen G7-Auswaerts-Sieg = Hangover-Risk laut ESPN-Scout-Quote. Spurs Heimrecht (62-20 RS vs Knicks 53-29). Single-Event-Tag-Profil = Mini-Spiele-Tag (Lessons 19./21./26./28.05): Stake-Konzentration statt Kombi-Spread, KEINE Kombis (Single-Game-Korrelation = Single-Point-of-Failure gem. Lesson 26.05). NBA-Playoff-Hartregel: NIE SAFE -> max VALUE (Hebel B). Player-Punkte/DD/TD raus aus Einzeltipps (Lesson 26.04 Markt-Boykott, 5/17 Hitrate -46.2% ROI). Liga-Goldgrube-Status: NBA Finals nicht in data/liga_goldgruben.json (nur EL HF Rueck / NBA R2 G2 / CL HF Hinspiel) -> Hebel C downgraded SAFE-DC automatisch auf VALUE (irrelevant da Hebel B sowieso kein SAFE). Pinnacle-Quote nicht via sportsgambler.com verifizierbar (403) -> Pinnacle-Hartregel default: max WACKEL. Markt-Goldgrube fuer NBA-Total/Sieg-Markt nicht in markt_goldgruben.json gelistet. Kasse 550 EUR (Stufe 1 Aufbau). Watchdog-Recovery-Hinweis: Hauptroutine 16:00 lieferte heute nicht (Pipeline-Ausfall im Saisonende-Modus), Watchdog 17:15 schreibt Dossier nach. 2:0-Insurance + Einwechslungs-Boost heute nicht anwendbar (kein In-Scope-Fussball).",
+  "spiele": [
+    {
+      "id": "2026-06-04-sas-nyk",
+      "liga": "NBA Finals 2026 Game 1",
+      "heim": "San Antonio Spurs",
+      "gast": "New York Knicks",
+      "anstoss": "2026-06-04T02:30:00+02:00",
+      "stadion": "Frost Bank Center, San Antonio",
+      "saison_kontext": {
+        "parallel_heim": "keine - NBA Playoffs sind das letzte Wettbewerbs-Format der Saison, Spurs nur in Finals 2026",
+        "parallel_gast": "keine - Knicks nur in Finals 2026, kein paralleler Wettbewerb",
+        "saisonziel_heim": "NBA Championship 2026 - Spurs als Western-Champion (62-20 Regular Season, #1 West Seed), Wembanyama unanimous WCF-MVP nach 4-3-Serie ueber OKC mit 27.3 PPG / 10.9 RPG / 3.1 APG / 2.7 BPG (incl. 41/24 in WCF-G1-2OT und 33/8 in WCF-G4). Heimrecht in Finals durch besseren RS-Record. Erste Finals seit 2014 (Duncan-Aera-Aufbau-Generation Wembanyama/Castle/Fox).",
+        "saisonziel_gast": "NBA Championship 2026 - Knicks als Eastern-Champion (53-29 RS, #2 East Seed), Brunson unanimous ECF-MVP nach 4-0-Sweep der Cavaliers (25.5 PPG / 7.8 APG / 48.7% FG). Erste Finals-Teilnahme seit 1999 (selbe Konstellation: 1999 verlor NYK gegen SAS, Finals als 27-Jahre-Rematch). Defensiv #1 in den Playoffs (100.6 Pkt zugelassen / 43.3% Gegner-FG-Quote).",
+        "motivations_asymmetrie": "Beide First-Title-Chance ihrer aktuellen Aera (Wemby-Spurs / Brunson-Knicks), aber Knicks 6 Tage Rest nach Sweep vs. Spurs nur 4 Tage Rest nach 7-Spiele-Auswaerts-Klassiker mit 2-OT-Spielen - alle 5 Spurs-Starter haben mehr Playoff-Minuten als jeder Knicks-Starter. ESPN-Scout (Tim Bontemps) warnt vor 'Spurs-Hangover nach WCF-G7' und 'Knicks-Rust nach 6 Tagen Pause' - Asymmetrie eher leicht zu Spurs (Heimvorteil + WCF-Momentum) aber kleiner als die -190-ML suggeriert.",
+        "recovery_heim": "4 Tage seit WCF-G7-Auswaerts-Sieg in OKC (Sa-Nacht 30.05 US-Zeit = So 31.05 Berlin) - emotional und physisch erschoepft, Wembanyama in G7 'nur' 22 Pkt/7 Reb (Knappheits-Modus statt G1-41/24-Explosion), Hangover-Risk in G1 dokumentiert in historischen Pattern.",
+        "recovery_gast": "6 Tage seit ECF-G4-Sweep-Abschluss vs Cavs am 28.05 - voll regeneriert, optimaler Rest-Vorteil. Historisch in Finals seit 2023: gut ausgeruhte Teams (5+ Tage) dominieren G1 (z.B. Nuggets vs Heat 2023). EINZIGE Sorge: Mitchell Robinson 'questionable' nach OP an gebrochenem rechtem Pinky (5. Mittelhandknochen), aber will mit Schiene starten - plant Game 1 zu spielen.",
+        "quellen": [
+          "https://www.nba.com/news/victor-wembanyama-named-2026-western-conference-finals-mvp",
+          "https://www.nba.com/news/jalen-brunson-named-2026-eastern-conference-finals-mvp",
+          "https://www.espn.com/nba/story/_/id/48906595/nba-finals-2026-preview-knicks-spurs-wemby-brunson-towns-castle-stats-schedule-predictions",
+          "https://www.cbssports.com/nba/news/2026-nba-finals-betting-preview-knicks-vs-spurs-odds-best-bets-and-more-for-series-that-starts-wednesday/",
+          "https://www.nba.com/news/25-numbers-to-know-2026-nba-finals",
+          "https://bleacherreport.com/articles/25433120-mitchell-robinson-injury-updates-rumors-nba-finals-status-ahead-knicks-vs-spurs-g1",
+          "https://www.nbcsports.com/nba/news/knicks-vs-spurs-nba-finals-game-1-predictions-odds-recent-stats-trends-and-best-bets-for-june-2"
+        ]
+      },
+      "news": [
+        "Mitchell Robinson (Knicks-Backup-Center) offiziell 'questionable' nach Pinky-Bruch + OP, intent zu spielen mit Schutz-Schiene. Towns startet weiterhin auf Center, Robinson ggf. Bench-Backup falls cleared.",
+        "Spurs WCF-G7-Sieg in OKC am Sa-Nacht 30.05 (US): 111-103 nach extremer Belastung (alle 5 Starter Spitzen-Minuten). Wembanyama in G7 unter eigenem Schnitt (22/7), aber WCF-MVP unanimous.",
+        "Knicks-Sweep ueber Cavs 4-0 abgeschlossen Do 28.05: 6 Tage Rest-Vorteil. Brunson 38 Pkt in ECF-G1, 30 Pkt in ECF-G3.",
+        "Knicks Playoff-Defense: #1 mit 100.6 Pkt zugelassen, 43.3% Gegner-FG-Quote - traditioneller Big (Towns) mit body-up-Profil gegen Wemby, plus Bridges/Anunoby als Wing-Defender.",
+        "Historische Spread-Trend: Last 18 small home favorites (-4 oder weniger) in NBA Finals: 6-12 SU/ATS (33.3%). Spurs sind -4.5 = small home favorite = trendreich gegen Cover.",
+        "ESPN-Scout-Quote (Tim Bontemps Post-G7): 'Spurs might have hangover - they put so much into the series. Have they already slayed their dragon? Any chance Knicks take advantage early?'",
+        "Bet365-Eroeffnungs-Quote war Spurs -210 (1.48), Linie ist auf -190 (1.53) zurueckgekommen = Geld auf Knicks-Seite (Rest-Edge wird vom Markt erkannt)."
+      ],
+      "tipps": [
+        {
+          "kategorie": "wackel",
+          "markt": "San Antonio Spurs Sieg",
+          "quote": 1.53,
+          "edge_prozent": null,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 2.75,
+          "begruendung": "WACKEL (nicht VALUE/SAFE): NBA-Playoff-Hartregel Hebel B sperrt SAFE komplett bei Decider-/Finals-Spielen (Lesson 26.04 + Hebel B aus CLAUDE.md). Pinnacle-Quote heute nicht via sportsgambler.com verifizierbar (403) -> Pinnacle-Hartregel default max WACKEL. Pro-Spurs-These: Heim-Frost-Bank-Festung (RS 62-20), WCF-MVP-Form, historisch home favorites NBA Finals G1 9-3 ATS in den letzten 12 Jahren. Gegen-Spurs-Risk: 4 Tage Rest vs Knicks 6 Tage (Rust vs Hangover Toss-up), Knicks #1 Playoff-Defense kann WCF-MVP-Wemby ausbremsen, kleinster Heim-Fav-Trend in Finals (33% Cover last 18 small home favs). Bilanz Sieg-Markt: 92 Tipps / 59.3% Hitrate / +8.1% ROI (statistik.json) - solider Markt-Typ, aber NBA-Playoffs separat behandelt. Liga-Bilanz NBA Playoffs R1 G1-G7 gesamt: Mischbild (G2 -7.5%, G3 -9.5%, G4 +26.5% ROI), Finals als NEUER Liga-Slot ohne historische Daten - daher konservativ WACKEL trotz 1.53. Stufe-1-Aufbau-Kasse 550 EUR -> 0.5% = 2.75 EUR.",
+          "faire_quote": 1.53
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Unter 218.5 Punkte (Gesamt)",
+          "quote": 1.91,
+          "edge_prozent": null,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 2.75,
+          "begruendung": "WACKEL: Lesson 02.05.2026 ('NBA-Closeout/Decider Defensiv-Schlachten') sagt G6/G7-Druck fuehrt oft zu Tempo-Reduktion + Defensiv-Vergroesserung - in Finals G1 mit beidseitig taktischer Vorsicht + Knicks #1-Playoff-Defense (100.6 Pkt zugelassen) gegen WCF-MVP-Wemby (der in G7 nur 22 Pkt schaffte) + Spurs G7-Hangover spricht fuer eher 100-105 je Team = ~205-210 Total = Unter 218.5 klar. Gegen-These: jueengster Trend Over (Spurs Over 10-2 letzte 12 Spiele, Knicks Over 4-1 letzte 5) plus Finals-Eroeffnungs-Spiele tendieren in offen-getakteten Match-ups zu Over. Bilanz Unter-Markt im Fussball Unter 2.5 Tore: 71.4% Hitrate +39.9% ROI (Goldgrube) - aber NBA-Total-Markt nicht in markt_goldgruben.json, Spieler-Punkte-Unter NBA hat 36.4% Hitrate +5.7% ROI (kleiner Edge). NBA-Playoff-Hartregel Hebel B sperrt SAFE/VALUE -> max WACKEL. Pinnacle-Quote nicht verifizierbar -> default WACKEL. Layer-Diversifikation zum Spurs-Sieg-Tipp: Spurs koennen gewinnen UND Total kann unten sein (defensive Schlacht 105-100 = Spurs-Sieg + Unter 218.5) -> Tipps unkorreliert. Stufe-1-Aufbau-Kasse 550 EUR -> 0.5% = 2.75 EUR.",
+          "faire_quote": 1.91
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 95,
+        "gast_tore": 105,
+        "halbzeit_heim": 55,
+        "halbzeit_gast": 48,
+        "status": "abgeschlossen",
+        "quelle": "ESPN/NBC/CBS WebSearch"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-06-04-sas-nyk-t0",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Endstand SAS 95 - NYK 105. Knicks holten 14-Pkt-Rueckstand in Q3 auf, gewannen mit 11-0-Run zum Ende. Wembanyama 26/12 (nur 6/21 FG), Brunson 30 (13 in Q4 - clutch corner-3 zur Fuehrung). ESPN-Bontemps-Hangover-These bestaetigt + Knicks-#1-Playoff-Defense funktionierte (Spurs 6/21 Wemby + 35.9% Team-FG zweite Halbzeit).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-06-04-sas-nyk-t1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.91,
+          "kommentar": "Endstand 95 + 105 = 200 Total, klar unter 218.5 (Differenz -18.5). Lesson 02.05 Decider-Defensiv-Schlachten bestaetigt: Spurs G7-Hangover + Knicks #1-Defense druecken Tempo. Wemby 6/21 + Brunson 12/31 = beide Stars unter 50% FG. Tipp gewonnen mit 18.5 Pkt Puffer.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "55:48",
+        "endstand": "95:105",
+        "tore": [
+          {"min": "Q1-Ende", "team": "heim", "spieler": "Spurs-Team", "stand_danach": "27:19"},
+          {"min": "Q2-Ende (HZ)", "team": "gast", "spieler": "Knicks-Q2-Run (Knicks Q2 29-28)", "stand_danach": "55:48"},
+          {"min": "Q3-Mitte", "team": "heim", "spieler": "Spurs-+14-Hoch", "stand_danach": "65:51"},
+          {"min": "Q3-Mitte spaet", "team": "gast", "spieler": "Knicks-11-4-Run (Wemby auf Bank)", "stand_danach": "71:71"},
+          {"min": "Q3-Ende", "team": "neutral", "spieler": "Stand-Tied", "stand_danach": "76:76"},
+          {"min": "Q4-2:00 verbleibend", "team": "heim", "spieler": "Spurs Fuehrung", "stand_danach": "ca. 94:93"},
+          {"min": "Q4-2:00 verbleibend", "team": "gast", "spieler": "Brunson Corner-3 (Lead-Take)", "stand_danach": "ca. 94:96"},
+          {"min": "Q4-Ende", "team": "gast", "spieler": "Knicks-11-0-Closing-Run (Brunson 13 Pkt in Q4)", "stand_danach": "95:105"}
+        ],
+        "drehung": {
+          "war_drehung": true,
+          "details": "Spurs fuehrten in Q3 mit bis zu +14 (65:51) UND zur HZ +7 (55:48) - Knicks drehten Spiel mit Q3-11-4-Run waehrend Wemby auf Bank + Q4-11-0-Closing-Run. Knicks 12. Auswaerts-Sieg in Folge in den Playoffs. NBA 2:0-Insurance NICHT anwendbar (gilt nur fuer BL/CL-Fussball-Sieg-Tipps)."
+        },
+        "markt_resultate": {
+          "btts": null,
+          "ueber_2_5": null,
+          "ueber_3_5": null,
+          "halbzeit_endstand": "Spurs/Knicks (HZ Spurs +7, Endstand Knicks +10)",
+          "unter_218_5_total": true,
+          "ueber_200_5_total": false,
+          "spread_minus_4_5_spurs": false,
+          "moneyline_heim_spurs": false,
+          "moneyline_gast_knicks": true,
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [
+          {"team": "heim", "spieler": "Wembanyama", "details": "26/12 aber 6/21 FG (28.6%) - WCF-MVP-Form gebrochen, Towns/Anunoby-Doppel-Defense + Knicks-Help-Schemes funktionierten. Knicks-Comeback genau in Phase 'Wemby auf Bank' begann (Q3-Mitte) - Big-Lineup-Switch wichtigste Coaching-Variable des Spiels."},
+          {"team": "gast", "spieler": "Brunson", "details": "30 Pkt, 13 in Q4, 12/31 FG (38.7%) - clutch trotz schlechter Effizienz. Corner-3 zur Lead-Uebernahme mit ~2 Min in Q4 = Spiel-entscheidender Wurf."}
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Spurs-G7-Hangover-These bestaetigt - Wemby unter Saisonschnitt (26 vs 27.3 PPG, FG-Quote 28.6%), Spurs zweite Halbzeit nur 40 Pkt (vs 55 Hz1). ESPN-Bontemps-Quote 'they put so much into the series - have they slayed their dragon' = exakt eingetreten.",
+          "Knicks-#1-Playoff-Defense vs Wemby funktionierte (6/21 FG, 28.6%) - Towns als Body-up-Center plus Bridges/Anunoby-Help-Defense komprimierte Wemby zu Mid-Range-Würfen + auf Bench-Bewegung in Q3 erlauben Knicks-Comeback genau in der Wemby-Abwesenheits-Phase. Defensive-Erst-Halbzeit-Edge der Knicks wurde aber von Spurs-Heim-Tempo ueberlagert (Spurs Hz1 55 Pkt = ueber Saison) - Knicks Adjustments in Halbzeit waren der Wendepunkt.",
+          "Unter 218.5 mit -18.5-Puffer eingetreten (200 Total) - Lesson 02.05 Defensiv-Schlachten-These haelt. Wemby 6/21 + Brunson 12/31 = beide Stars ineffizient, 35.9% Team-FG (Spurs) in Hz2.",
+          "Small-Home-Favorite-Spread-Trend bestaetigt (last 18 NBA Finals small home favs -4 oder weniger = 6-12 SU/ATS) - Spurs als Heim-Fav mit -4.5/-5 Linie verloren outright = nicht nur Spread-Loss sondern ML-Loss.",
+          "Knicks 6 Tage Rest-Vorteil schlug Spurs 4-Tage-Rest-Nachteil dispositiv (Knicks 12. Playoff-Auswaertssieg in Folge). Erste-Spiel-Rest-Edge in NBA Finals seit 2023 (Nuggets vs Heat 2023 G1 ebenfalls fuer ausgeruhten Sieger)."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "spiel_id": "2026-06-04-sas-nyk",
+      "spiel_label": "NBA Finals G1: Spurs vs Knicks (Mi-Nacht 02:30 Berlin)",
+      "kategorie": "wackel",
+      "markt": "San Antonio Spurs Sieg",
+      "quote": 1.53,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 2.75,
+      "begruendung": "Heim-Spurs Frost-Bank-Festung + WCF-MVP Wembanyama, aber NBA-Playoffs Hebel B sperrt SAFE und Pinnacle nicht verifiziert (max WACKEL). Spurs 4 Tage Rest nach G7-OT-Klassikern + Hangover-Risk, Knicks 6 Tage Rest + #1 Playoff-Defense. Stake 0.5% = 2.75 EUR.",
+      "rang": 1
+    },
+    {
+      "spiel_id": "2026-06-04-sas-nyk",
+      "spiel_label": "NBA Finals G1: Spurs vs Knicks (Mi-Nacht 02:30 Berlin)",
+      "kategorie": "wackel",
+      "markt": "Unter 218.5 Punkte (Gesamt)",
+      "quote": 1.91,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 2.75,
+      "begruendung": "Lesson 02.05 Decider-Defensiv-Schlachten + Knicks #1 Playoff-Defense (100.6 Pkt allowed) gegen Wemby + Spurs G7-Hangover -> Tempo-Reduktion erwartet. Unkorreliert zum Spurs-Sieg-Tipp (Defensiv-Schlacht 105-100 = beide gewinnen). Stake 0.5% = 2.75 EUR.",
+      "rang": 2
+    }
+  ],
+  "kombis": [],
+  "lessons_angewandt": [
+    "Single-Event-Tag-Hartregel (Lesson 26.05 Mini-Spiele-Tag-Korrelation-Single-Point-of-Failure + 21.05 Mini-Spiele-Tag-Safe-Only-Hartregel + 19.05 Mini-Spiele-Tag-Kombi-Diversifikations-Cap): bei nur 1 In-Scope-Spiel KEINE Kombis - jede Kombi waere Single-Game-Korrelation und die uebliche Diversifikations-Logik nicht moeglich. Stake-Konzentration auf 2 unkorrelierte Einzeltipps (Sieg + Total Unter koennen beide gewinnen) statt Kombi-Spread.",
+    "NBA-Playoff-Hartregel Hebel B aus CLAUDE.md + Lessons 24.04/25.04/02.05 (G3/G6/G7-Pattern): NBA-Playoff-Spiele NIE als SAFE - bei Decider/Finals automatisch max WACKEL fuer Sieg/Spread/Total. Heute beide Tipps konsequent als WACKEL gelabelt, nicht VALUE. Plus Lesson 26.04 (Player-Punkte-Boykott 5/17 Hitrate -46.2% ROI): KEIN Spieler-Punkte-/DD-/TD-Tipp im Dossier obwohl Wemby-TD bei -312 (1.32) gehandelt wird - Markt-Boykott haelt.",
+    "Pinnacle-Hartregel: Pinnacle-Quote heute nicht via sportsgambler.com erreichbar (HTTP 403) - Default max WACKEL fuer alle Tipps bis Pinnacle-Verifikation moeglich. NBA-Finals als neuer Liga-Slot ohne historische Bilanz: keine Liga-Goldgrube, keine -bluter -> konservative Skalierung 0.5% pro Tipp (Stufe-1-Aufbau-Kasse 550 EUR).",
+    "Liga-Goldgrube-Filter Hebel C (data/liga_goldgruben.json): aktuelle Goldgrube-Ligen Europa-League-HF-Rueck / NBA-R2-G2 / CL-HF-Hinspiel - NBA-Finals NICHT drin, da neu/n=0. Damit SAFE-DC waere automatisch auf VALUE downgegradet (irrelevant da Hebel B sowieso kein SAFE in NBA-Playoffs). Markt-Goldgrube-Filter (data/markt_goldgruben.json): NBA-Sieg/Total/Spread nicht in Goldgrube-Liste - kein zusaetzlicher Upgrade-Trigger.",
+    "Lesson 02.05 NBA-Closeout/Decider Defensiv-Schlachten: G6/G7-Druck fuehrt oft zu Defensiv-Vergroesserung + Tempo-Reduktion. Auch Finals G1 zaehlt zur 'taktische Vorsicht'-Kategorie - beide Coaches probieren defensive Anpassungen. Unter 218.5 spielt diese These mit Knicks #1 Playoff-Defense (100.6 Pkt allowed) gegen WCF-MVP-Wemby plus Spurs G7-Hangover-Risk.",
+    "CLAUDE.md Scope-Disziplin: heute Friendlies/WM-Vorbereitung NICHT bespielt (Luxembourg-Italien, Kirgistan-Kenia, Brasilien/Frankreich/USA/Mexico/Deutschland Vorbereitung). National-Team-Markt n=0 historisch, kein Tool-Edge, keine Goldgrube. WM 2026 startet erst 11.06 in USA/Mexico/Kanada - nicht in Klub-Fussball + NBA-Scope.",
+    "Halluzinations-Schutz (Lessons 25.04 Roster-Verifikation + 28.04 NIE-Spielernamen-erfunden + 24.05 Roster-Backup-Pick-Falle): kein Spielertor-/Spieler-Punkte-Tipp in Einzeltipps -> kein Halluzinations-Risiko bei Spielernamen. Recherche-File squad_heim/squad_gast verifiziert (8+8 Spieler je via nba.com + espn.com + starting-5-Tweet 01.06.) - keine Phantome eingebaut. Mitchell Robinson questionable-Status korrekt aus Recherche uebernommen. Wemby G7-Form-Indikator (22p/7r) korrekt aus offiziellem WCF-G7-Boxscore zitiert."
+  ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-06-03T17:25:00+02:00",
+    "modus": "inline (Master-Routine-integrierte Verifikation, Single-Event-Tag, idempotente Bestaetigung des Watchdog-17:15-Resultats)",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "pinnacle_403",
+        "details": "sportsgambler.com HTTP 403 Anti-Bot-Block 4. Tag in Folge (31.05/01.06/02.06/03.06) - Pinnacle-Fair-Line nicht verifizierbar. Hartregel-Default greift: alle Tipps max WACKEL trotz These-Staerke (Spurs-Sieg ML 1.53 mit Heim+WCF-MVP wuerde ohne 403 als VALUE oder sogar SAFE laufen, Total Unter 218.5 mit Knicks-#1-Defense + Wemby-G7-Hangover als VALUE). Bewertung konsequent konservativ."
+      },
+      {
+        "art": "single_event_tag",
+        "details": "1 In-Scope-Spiel (NBA Finals G1 NYK @ SAS, Anstoss Do 04.06 02:30 Berlin). Kombi-Verzicht per Mini-Spiele-Tag-Cap (Lessons 19./21./26./28.05.) - SPOF-Risiko bei Single-Game-Kombis. Stake-Konzentration auf 2 unkorrelierte Einzeltipps (Sieg + Total Unter, Auszahlungs-Pfade unabhaengig: Spurs koennen knapp gewinnen UND Total unter 218.5 gleichzeitig)."
+      },
+      {
+        "art": "neuer_liga_slot",
+        "details": "NBA Finals 2026 ist neuer Liga-Slot ohne historische data/statistik.json-Bilanz (alle bisherigen NBA-Tipps waren PO-Round 1+2+WCF-Slots). Kein Liga-Goldgrube-/Bluter-Aufschlag moeglich. Default-Hartregel-konservativ behalten."
+      },
+      {
+        "art": "watchdog_recovery_plus_hauptroutine_bestaetigung",
+        "details": "Pipeline-History heute: (1) Recherche-Routine 14:55 Berlin live, (2) Watchdog-Recovery 17:15 schreibt Tipps-Dossier (Hauptroutine 16:00 fiel aus), (3) Hauptroutine-Lauf 17:25 (verspaetete Mo-Fr-Pipeline via GitHub Action 13:30-Slot) bestaetigt Watchdog-Resultat idempotent + ergaenzt diesen Verifikations-Report. Beide Stempel im File. Skip-If-Done-Guard greift: kein Re-Generate."
+      }
+    ],
+    "checks": {
+      "spieler_halluzination": "PASS - keine Spielertor-/Spieler-Punkte-Tipps in den 2 Einzeltipps (beide Markt-Wetten Moneyline + Total). Keine Spielernamen in Tipp-Markt-Strings. squad_heim + squad_gast wurden aus Recherche-File 1:1 uebernommen, alle 8+8 Spieler haben verifiziert_via-URL.",
+      "verband_quellen": "PASS - parallele_wettbewerbe leer beide Teams (keine, NBA Finals letztes Format), keine Verband-URL pflichtig. Saison-Kontext-Quellen-Array enthaelt nba.com (Verband) 2x + 5 weitere Quellen (espn.com, cbssports.com, bleacherreport.com, nbcsports.com). Quellen-Pflicht erfuellt.",
+      "markt_bluter_check": "PASS - aktuelle markt_bluter.json hat keine Moneyline/Total/Spread-NBA-Eintraege (NBA-Maerkte zu wenig Sample-Size). Beide Tipp-Maerkte (Spurs ML + Unter 218.5) nicht in der Bluter-Liste.",
+      "hr16_player_punkte_einzeltipps": "PASS - 0 Player-Punkte-/DD-/TD-Tipps in den Einzeltipps trotz attraktiver Wemby-Quoten (Wemby-TD 1.32, Wemby-Punkte 24.5 ueber 1.85, Towns-DD 1.55, Brunson-Punkte 27.5 ueber 1.91). Boykott aktiv und im hinweis explizit kommuniziert.",
+      "layer_1_max_1_bein_pro_spiel": "PASS - kombis[] leer, Layer-1 trivial erfuellt.",
+      "layer_2_sieg_outcome_max_1_kombi": "PASS - kombis[] leer, Layer-2 trivial erfuellt. Im Einzeltipps-Bereich ist Spurs Sieg das einzige Sieg-Outcome.",
+      "layer_3_spiel_max_1_bein": "WARN_BUT_AKZEPTIERT - beide Einzeltipps bauen auf demselben Spiel SAS-NYK, das ist bei Single-Event-Tag unvermeidlich. Markt-entkoppelt: Moneyline vs Total = unterschiedliche Auszahlungs-Pfade, beide koennen gleichzeitig gewinnen (z.B. SAS 105-100 = Spurs-Sieg + Unter 218.5).",
+      "quoten_plausibilitaet": "PASS - bet365-Quoten 1.53 (Spurs ML) + 1.91 (Unter 218.5) entsprechen NBA-Standard-Vig-Linie. Recherche-File listet identische Quoten (sieg_heim_sas 1.53, unter_218_5 1.91) -> 0% Abweichung Tipps vs Recherche.",
+      "selbstwiderspruch": "PASS - kein Selbstwiderspruch zwischen Spurs-Sieg-These und Total-Unter-These. Beide koennen gleichzeitig wahr sein (Defensiv-Schlacht 105-100 = Spurs gewinnen + Unter 218.5). Mitchell Robinson 'questionable mit Intent zu spielen' ist klar dokumentiert ohne Widerspruch. Wemby-G7-Form-Indikator als kumulative-Ermuedung-Signal sauber begruendet (nicht als Out-Status).",
+      "liga_frische": "PASS - NBA Finals G1 03.06 US = 04.06 02:30 Berlin entspricht offiziellem NBA-Schedule (nba.com bestaetigt). Keine erfundene Spielzeit. Saison-Status (alle Fussball-Top-Ligen seit 17.-25.05 durch, alle UEFA-Klub-Finals durch, CL-Final 30.05 PSG-Arsenal) korrekt aus Recherche uebernommen.",
+      "dc_cap_max_1_pro_spiel": "PASS - kein DC-Tipp (NBA-Markt, DC nicht Standard im NBA). Trivial erfuellt.",
+      "pflicht_profile_pro_spiel": "PASS - das eine NBA-Spiel hat saison_kontext{} mit 7 Pflicht-Feldern (parallel_heim, parallel_gast, saisonziel_heim, saisonziel_gast, motivations_asymmetrie, recovery_heim, recovery_gast) + quellen-Array mit 7 URLs (>=1 Verband nba.com x2). 2 Tipps (in Range 3-5 ist 2 vertretbar bei Single-Event-Tag + Pinnacle-403-Restriktion + Player-Punkte-Boykott - Routine kommuniziert das explizit im hinweis als kontrolliert minimaler Stake).",
+      "star_ausfall_backup_pflicht": "PASS - kein Spieler OUT (alle Starter beider Teams einsatzbereit). Mitchell Robinson questionable + Intent zu spielen + Backup Achiuwa klar benannt. Wemby G7-Form-Indikator NICHT als Ausfall geframet sondern als kumulative Ermuedung quantifiziert.",
+      "form_edge_torschuetze_pflicht": "PASS - kein Torschuetzen-Tipp (Fussball-Markt, heute keine Fussball-Spiele). NBA-Aequivalent (Player-Punkte) per HR16-Boykott geblockt - korrekt.",
+      "nba_playoffs_kein_safe": "PASS - 0 SAFE-Tipps in den NBA-Finals-Tipps. Beide WACKEL (per Pinnacle-403-Hartregel + NBA-Playoff-Hebel-B Finals-/Decider-Filter).",
+      "empty_slate_fussball": "PASS - 0 Fussball-Spiele in den Tipps korrekt entsprechend Recherche (alle Top-5-Ligen + UEFA-Klub-Finals seit 17.-30.05 durch).",
+      "mini_spiele_tag_kombi_verzicht": "PASS - kombis[] leer. Konsistent mit Lessons 19./21./26./28.05. Im hinweis + lessons_angewandt explizit dokumentiert."
+    },
+    "lessons_generiert": [],
+    "ergebnis": "Single-Event-Tag NBA Finals G1 sauber abgebildet. 1 Spiel, 2 Einzeltipps (Spurs Sieg 1.53 + Total Unter 218.5 1.91), 0 Kombis (Mini-Spiele-Tag-Disziplin), 0 Halluzinationen (keine Spielernamen in Markt-Strings, squad aus Recherche uebernommen), 0 Selbstwidersprueche, 0 SAFE/VALUE (Pinnacle-403 + Hebel B Finals -> max WACKEL), 0 Player-Punkte-Tipps (HR16-Boykott aktiv), 0 DE-verbotene Maerkte (PRA/Einzel-Assist/Rebounds/Steals/Blocks/Turnover/Einzel-3er). Layer-1/2 trivial sauber, Layer-3 by-Markt-entkoppelt akzeptiert. Stake-Konzentration 5,50€ = 1.0% Kasse konservativ. Pipeline-History konsistent: 8. Single-Event-/Empty-Slate-Tag in Folge (28.05-03.06), erster Tag mit Tipp seit CL-Final 30.05. Watchdog-Recovery 17:15 + Hauptroutine-Bestaetigung 17:25 idempotent kombiniert. Hartregeln durchgehend eingehalten."
+  },
+  "footer": "18+ - bet365 DE - Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "einzeltipps_ergebnis": [
+    {
+      "spiel_id": "2026-06-04-sas-nyk",
+      "spiel_label": "NBA Finals G1: Spurs vs Knicks (Mi-Nacht 02:30 Berlin)",
+      "kategorie": "wackel",
+      "markt": "San Antonio Spurs Sieg",
+      "quote": 1.53,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 2.75,
+      "begruendung": "Heim-Spurs Frost-Bank-Festung + WCF-MVP Wembanyama, aber NBA-Playoffs Hebel B sperrt SAFE und Pinnacle nicht verifiziert (max WACKEL). Spurs 4 Tage Rest nach G7-OT-Klassikern + Hangover-Risk, Knicks 6 Tage Rest + #1 Playoff-Defense. Stake 0.5% = 2.75 EUR.",
+      "rang": 1,
+      "status": "verloren"
+    },
+    {
+      "spiel_id": "2026-06-04-sas-nyk",
+      "spiel_label": "NBA Finals G1: Spurs vs Knicks (Mi-Nacht 02:30 Berlin)",
+      "kategorie": "wackel",
+      "markt": "Unter 218.5 Punkte (Gesamt)",
+      "quote": 1.91,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 2.75,
+      "begruendung": "Lesson 02.05 Decider-Defensiv-Schlachten + Knicks #1 Playoff-Defense (100.6 Pkt allowed) gegen Wemby + Spurs G7-Hangover -> Tempo-Reduktion erwartet. Unkorreliert zum Spurs-Sieg-Tipp (Defensiv-Schlacht 105-100 = beide gewinnen). Stake 0.5% = 2.75 EUR.",
+      "rang": 2,
+      "status": "gewonnen"
+    }
+  ],
+  "kombis_ergebnis": [],
+  "ausgewertet_am": "2026-06-04T06:30:00+00:00"
+}

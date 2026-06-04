@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-06-03T06:05:14+00:00",
+  "letzte_berechnung": "2026-06-04T06:10:50+00:00",
   "gesamt": {
-    "tipps": 296,
-    "gewonnen": 161,
-    "verloren": 124,
+    "tipps": 298,
+    "gewonnen": 162,
+    "verloren": 125,
     "push": 2,
     "offen": 9,
-    "einsatz": 287.0,
+    "einsatz": 289.0,
     "netto": 29.01,
-    "trefferquote": 56.5,
-    "roi_prozent": 10.1
+    "trefferquote": 56.4,
+    "roi_prozent": 10.0
   },
   "letzte_30_tage": {
-    "tipps": 159,
-    "gewonnen": 79,
-    "verloren": 69,
+    "tipps": 161,
+    "gewonnen": 80,
+    "verloren": 70,
     "push": 2,
     "offen": 9,
-    "einsatz": 150.0,
+    "einsatz": 152.0,
     "netto": 33.88,
-    "trefferquote": 53.4,
-    "roi_prozent": 22.6
+    "trefferquote": 53.3,
+    "roi_prozent": 22.3
   },
   "letzte_90_tage": {
-    "tipps": 296,
-    "gewonnen": 161,
-    "verloren": 124,
+    "tipps": 298,
+    "gewonnen": 162,
+    "verloren": 125,
     "push": 2,
     "offen": 9,
-    "einsatz": 287.0,
+    "einsatz": 289.0,
     "netto": 29.01,
-    "trefferquote": 56.5,
-    "roi_prozent": 10.1
+    "trefferquote": 56.4,
+    "roi_prozent": 10.0
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -474,6 +474,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 5.08,
       "trefferquote": 100.0,
       "roi_prozent": 169.3
+    },
+    "NBA Finals 2026 Game 1": {
+      "tipps": 2,
+      "gewonnen": 1,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 0.0,
+      "trefferquote": 50.0,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt": {
@@ -3039,6 +3050,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 1.91,
       "trefferquote": 100.0,
       "roi_prozent": 191.0
+    },
+    "San Antonio Spurs Sieg": {
+      "tipps": 2,
+      "gewonnen": 1,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 0.0,
+      "trefferquote": 50.0,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt_typ": {
@@ -3087,15 +3109,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 55.0
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 92,
-      "gewonnen": 54,
-      "verloren": 37,
+      "tipps": 94,
+      "gewonnen": 55,
+      "verloren": 38,
       "push": 0,
       "offen": 1,
-      "einsatz": 91.0,
+      "einsatz": 93.0,
       "netto": 7.37,
-      "trefferquote": 59.3,
-      "roi_prozent": 8.1
+      "trefferquote": 59.1,
+      "roi_prozent": 7.9
     },
     "Torschuetzen Jederzeit": {
       "tipps": 44,
@@ -3507,15 +3529,15 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 145,
-      "gewonnen": 73,
-      "verloren": 67,
+      "tipps": 147,
+      "gewonnen": 74,
+      "verloren": 68,
       "push": 1,
       "offen": 4,
-      "einsatz": 141.0,
+      "einsatz": 143.0,
       "netto": 12.87,
       "trefferquote": 52.1,
-      "roi_prozent": 9.1
+      "roi_prozent": 9.0
     },
     "2.00-3.00": {
       "tipps": 35,
@@ -3575,15 +3597,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 10.3
     },
     "wackel": {
-      "tipps": 50,
-      "gewonnen": 23,
-      "verloren": 27,
+      "tipps": 52,
+      "gewonnen": 24,
+      "verloren": 28,
       "push": 0,
       "offen": 0,
-      "einsatz": 50.0,
+      "einsatz": 52.0,
       "netto": 8.87,
-      "trefferquote": 46.0,
-      "roi_prozent": 17.7
+      "trefferquote": 46.2,
+      "roi_prozent": 17.1
     }
   },
   "clv_gesamt": {
