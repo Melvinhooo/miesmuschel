@@ -38,28 +38,9 @@ window.__MIESMUSCHEL_TIPPS = {
         "Spurs-G7-Hangover-Fenster laut Routine-Logik: <= G1 (gestern voll validiert), ab G2 wieder voll regeneriert. Hangover-These ist KEIN G2-Argument mehr.",
         "Brunson aktuell NBA-Finals-MVP-Ladder-Fuehrer nach G1. Knicks 12. Playoff-Auswaerts-Sieg in Folge."
       ],
-      "tipps": [
-        {
-          "kategorie": "wackel",
-          "markt": "San Antonio Spurs Sieg",
-          "quote": 1.44,
-          "edge_prozent": null,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 2.75,
-          "begruendung": "WACKEL (nicht VALUE/SAFE): NBA-Playoff-Hartregel Hebel B sperrt SAFE komplett bei Finals (Lesson 26.04 + CLAUDE.md). Pinnacle-Quote heute nicht via sportsgambler.com verifizierbar (HTTP 403 5. Tag in Folge) -> Pinnacle-Hartregel default max WACKEL. Pro-Spurs-These: (1) Heim-Bounce-Back-Statistik 77% G2-Win-Rate fuer Heim-Teams die G1 verloren haben (Sportico-Datensatz NBA-Playoffs Round 1-3 + Finals 2021/22-Subsample 10-1), (2) MUSS-Sieg-Modus (0-2-Loch fuer Heim-Team in NBA Finals waere physisch/mental Series-Death-Sentence, 0-2-Comebacks 7.7%), (3) Wemby-Bounce-Back-Druck (G1 6/21 FG = drittschlechteste Saison-Effizienz, statistisch Korrektur), (4) Spurs-G7-Hangover-Fenster gilt laut Lesson 03.06 nur fuer G1 - ab G2 voll regeneriert. Gegen-Spurs-Risk: (a) Knicks #1 Playoff-Defense funktionierte bereits gegen Wemby (G1 28.6% FG), (b) Brunson clutch-Form (G1 30/13), (c) 1.44-ML-Linie scharf gepricet - kein klarer Mathe-Edge. Bilanz Sieg-Markt im System gesamt: 59.3% Hitrate +8.1% ROI (statistik.json) - solider Markt-Typ. Liga-Bilanz NBA Finals 2026 nach G1: 0/1 Sieg-Tipp (Spurs ML 1.53 verloren), Sample zu klein. NBA Playoffs R1 G1-G7 gesamt Mischbild. Hebel B sperrt SAFE -> WACKEL final. Stufe-1-Aufbau-Kasse 550 EUR -> 0.5% = 2.75 EUR.",
-          "faire_quote": 1.44
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Unter 214.5 Punkte (Gesamt)",
-          "quote": 1.91,
-          "edge_prozent": null,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 2.75,
-          "begruendung": "WACKEL: Lesson 02.05.2026 ('NBA-Closeout/Decider Defensiv-Schlachten') + Lesson 03.06 ('Defense-System-Edge-Star-Bench-Comeback-Korridor' - Wemby-Bench-Phasen waren G1-Comeback-Vehikel, Unter-Total als Markt-Goldgrube-Kandidat) + G1-Empirie (200 Total, klar unter 218.5, 18.5-Pkt-Puffer): Knicks #1 Playoff-Defense (100.6 Pkt zugelassen) + Wemby weiterhin Wing-Help-Defense ausgesetzt + Spurs taktische Pace-Reduktion in MUSS-Sieg-Heim-Modus = ~105 je Team = ~210 Total = Unter 214.5 klar. Gegen-These: (a) Wemby-Bounce-Back kann Wemby+Towns-Foul-Trouble erzwingen + offene Phasen produzieren, (b) Brunson-Pick-and-Roll-Volumen erhoeht koennte Tempo + FT-Volumen schieben, (c) Linie um 4 Pkt von G1-218.5 auf 214.5 runtergesetzt - Markt hat G1-Defensiv-Schlachten-Signal teilweise eingepreist (kein Phantom-Edge mehr). Bilanz Unter-Markt im System: Unter 2.5 Tore Fussball 71.4% Hitrate +39.9% ROI (Goldgrube) - aber NBA-Total nicht in markt_goldgruben.json gelistet. NBA-Spieler-Punkte-Unter hat 36.4% Hitrate +5.7% ROI (kleiner Edge). NBA-Playoff-Hartregel Hebel B sperrt SAFE/VALUE -> max WACKEL. Pinnacle-403 default WACKEL. Layer-Diversifikation zum Spurs-Sieg-Tipp: unkorreliert (Defensiv-Schlacht 105-100 = Spurs-Sieg + Unter 214.5 = beide gewinnen). Pseudo-Hedge-Strategie laut Lesson 03.06 n2-Validierung. Stufe-1-Aufbau-Kasse 550 EUR -> 0.5% = 2.75 EUR.",
-          "faire_quote": 1.91
-        }
-      ]
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     }
   ],
   "einzeltipps": [
