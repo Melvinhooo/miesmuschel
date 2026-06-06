@@ -32,59 +32,9 @@
         "Belgien 12 Spiele unbesiegt (letzte Niederlage Maerz 2025 vs Ukraine). Heim-Publikum letzter Auftritt vor WM-Abreise.",
         "Quoten via Aggregator-Konsens (Sportytrader / Footballpredictions): Belgien 1.30 / X 5.25 / Tunesien 9.50 - Ueber 2.5 ~1.75 / BTTS ~2.30."
       ],
-      "tipps": [
-        {
-          "id": "2026-06-06-bel-tun-tipp1",
-          "kategorie": "value",
-          "markt": "Belgien Sieg",
-          "quote": 1.3,
-          "empfohlener_einsatz_euro": 7.5,
-          "begruendung": "Belgien zuhause vor Heim-Abschied-Publikum gegen FIFA-#37-Tunesien mit Mejbri-Frage. 12-Spiele-Unbesiegt-Serie + Lukaku-Comeback-Anreiz. Aggregator-Konsens 1.30 (Sportytrader / Footballpredictions). KEIN SAFE wegen Friendly-Rotation-Risiko + Liga-Goldgrube-Filter (Friendlies nicht in Statistik, Hebel C downgraded sonst). Reality-Check: 1.00-1.50-Quoten-Range 71.4% Hitrate / +6.7% ROI (n=102) - tragfaehig als VALUE. Quote via Aggregator-Konsens verifiziert.",
-          "reality_check": "Quoten 1.00-1.50 historisch 71.4% Trefferquote (n=102, +6.7% ROI). Friendly-Faktor leicht erhoeht Varianz - VALUE statt SAFE.",
-          "lessons_referenziert": [
-            "Goldgrube-Liga-DC-Falle (Friendlies nicht in Liste -> kein SAFE-DC)",
-            "HR2 Heim-Favorit-Pflichtprofil (Sieg + Torschuetze)"
-          ]
-        },
-        {
-          "id": "2026-06-06-bel-tun-tipp2",
-          "kategorie": "value",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.75,
-          "empfohlener_einsatz_euro": 7.5,
-          "begruendung": "Markt-Goldgrube (+30.2% ROI, 50% HR, n=20). Belgien zuletzt 2:0 vs Kroatien (offensiv) + Heim-Anreiz Lukaku/De Bruyne/Doku-Volume zu finishen. Tunesien defensiv solide aber WM-Test = Rotation in 2.HZ erlaubt Tor-Festival. Friendly-Setting + Klassen-Edge (Sieg-Quote 1.30 = ~77% Win-Wahrscheinlichkeit Belgien) impliziert hoechsten Tor-Wahrscheinlichkeit ~62%. Quote 1.75 fair bis leicht VALUE. Quote via Aggregator-Konsens verifiziert.",
-          "reality_check": "Ueber 2.5 als Markt-Goldgrube +30.2% ROI. Friendlies historisch Tor-tendenz +/- normal.",
-          "lessons_referenziert": [
-            "Markt-Goldgrube-Priorisierung (Ueber 2.5)"
-          ]
-        },
-        {
-          "id": "2026-06-06-bel-tun-tipp3",
-          "kategorie": "value",
-          "markt": "Romelu Lukaku trifft (Jederzeit)",
-          "quote": 2.2,
-          "empfohlener_einsatz_euro": 5.5,
-          "begruendung": "Form-Edge-PFLICHT Heim-Favorit-Profil: Lukaku zurueck in Startelf, WM-Stuermer-Auswahlfrage will er zementieren -> hohe Min, fokussiert auf Tor. Belgien-Sieg-Quote 1.30 = klare Klassen-Edge -> typischer 9er-Volume-Spot. Markt-Goldgrube Torschuetzen Jederzeit (+21.3% ROI, 38.1% HR, n=44). Aggregator-Konsens 2.10-2.30. Boost-Risiko: kein 60-Min-Wechsel-Volumen-Backup auf Bank vermerkt, Boost-Mechanik begrenzt - aber Volumen reicht. Quote via Aggregator-Konsens verifiziert.",
-          "reality_check": "Torschuetzen Jederzeit Markt-Goldgrube +21.3% ROI. Lukaku als 9er-Volume in Klassen-Edge-Spot historisch 45-55% Hit.",
-          "lessons_referenziert": [
-            "HR4 Form-Edge Torschuetzen Pflicht",
-            "Markt-Goldgrube Torschuetzen Jederzeit"
-          ]
-        },
-        {
-          "id": "2026-06-06-bel-tun-tipp4",
-          "kategorie": "wackel",
-          "markt": "Kevin De Bruyne trifft (Jederzeit)",
-          "quote": 4.5,
-          "empfohlener_einsatz_euro": 2.75,
-          "begruendung": "Sekundaer-Torschuetze als Hedge zu Lukaku. KdB Set-Piece + Distanzschuss-Volumen klar, aber als 10er sekundaer abhaengig von Spielverlauf. Friendly-Rotation: kann in 2.HZ rausgehen (Belgien wird Backup-10er testen). WACKEL wegen Sekundaer-Status + Auswechslungs-Wahrscheinlichkeit. Boost-Hedge moeglich falls Backup-10er trifft. Quote ~4.50 Konsens. Quote via Aggregator-Konsens verifiziert.",
-          "reality_check": "Hoehere Quote Range 3.00+ historisch 33.3% HR (+43.7% ROI bei n=15) - WACKEL-Bereich tragfaehig durch Quote-Hebel.",
-          "lessons_referenziert": [
-            "Sekundaer-Volume-Star-Eruption-Pattern",
-            "Einwechslungs-Boost-Tipp-Spieler-Muss-Ausgewechselt-Werden"
-          ]
-        }
-      ]
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-06-06-por-chi",
@@ -115,59 +65,9 @@
         "Chile verpasste WM 2026 (Conmebol-Quali 8. Platz von 10) - druckloses Vorbereitungsspiel ohne Wettkampf-Anreiz.",
         "Quoten via Aggregator-Konsens (Sportytrader/Wincomparator/Sportskeeda): Portugal 1.22 / X 7.10 / Chile 11.00 - Ueber 2.5 ~1.65 / Ronaldo trifft ~2.10."
       ],
-      "tipps": [
-        {
-          "id": "2026-06-06-por-chi-tipp1",
-          "kategorie": "value",
-          "markt": "Portugal Sieg",
-          "quote": 1.22,
-          "empfohlener_einsatz_euro": 7.5,
-          "begruendung": "Portugal #5 zuhause vs WM-Nicht-Teilnehmer Chile (Conmebol 8.) - klare Klassen- und Motivations-Asymmetrie. Auch ohne PSG-Quartett bleibt Bruno/Bernardo/Leao/Ronaldo Top-Achse. Aggregator-Konsens 1.22 (49-Plaetze FIFA-Gap). KEIN SAFE: Liga-Goldgrube-Filter (Friendlies) + Friendly-Rotation-Risiko 2.HZ. Reality-Check: 1.00-1.50-Quote 71.4% HR. Quote via Aggregator-Konsens verifiziert.",
-          "reality_check": "Quoten 1.00-1.50: 71.4% HR / +6.7% ROI (n=102). Erfahrungsgemaess: hohe Klassen-Edge + Heim-Vorteil + drucklose Gast-Auswahl = robust.",
-          "lessons_referenziert": [
-            "HR2 Heim-Favorit-Profil",
-            "Goldgrube-Liga-DC-Falle (kein SAFE-DC)"
-          ]
-        },
-        {
-          "id": "2026-06-06-por-chi-tipp2",
-          "kategorie": "value",
-          "markt": "Cristiano Ronaldo trifft (Jederzeit)",
-          "quote": 2.1,
-          "empfohlener_einsatz_euro": 5.5,
-          "begruendung": "Form-Edge-PFLICHT + Star-Ausfall-Backup-Logik invers: Ramos OUT -> Ronaldo bekommt 9er-Rolle + verlaengerte Min vor WM-Pruefung. Marker-Goldgrube Torschuetzen Jederzeit (+21.3% ROI). Ronaldo Saison-Tor-Ratio @Al-Nassr stark, Volume bleibt enorm. Friendly mit Chile-Defense schwach (acht WM-Niederlagen) ideal fuer Volume-Stuermer. KEIN SAFE wegen Alter-/Auswechslungs-Risiko 70+ Min. Quote via Aggregator-Konsens (Sportskeeda/Footballwhispers).",
-          "reality_check": "Torschuetzen Jederzeit Goldgrube +21.3% ROI. Ronaldo 50%+ Hitrate in National-Friendlies historisch (5+ Tore letzten 4 Spielen).",
-          "lessons_referenziert": [
-            "HR4 Form-Edge Torschuetzen Pflicht",
-            "Star-Ausfall-Backup (Ramos OUT)"
-          ]
-        },
-        {
-          "id": "2026-06-06-por-chi-tipp3",
-          "kategorie": "value",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.65,
-          "empfohlener_einsatz_euro": 7.5,
-          "begruendung": "Markt-Goldgrube (+30.2% ROI, 50% HR, n=20). Portugal hat Sieg-Quote 1.22 implizit ~82%, Klassen-Edge enorm + Heim-Show-Anreiz fuer Bernardo/Leao/Neto. Chile drucklos, in 2.HZ wahrscheinlich offen. Erwarteter Score ~2.5-3.5 fuer Portugal allein. Quote 1.65 fair / leichter Value. Quote via Aggregator-Konsens verifiziert.",
-          "reality_check": "Ueber 2.5 Markt-Goldgrube +30.2% ROI. Klassen-Edge >50 FIFA-Plaetze historisch Ueber-Tendenz.",
-          "lessons_referenziert": [
-            "Markt-Goldgrube-Priorisierung (Ueber 2.5)"
-          ]
-        },
-        {
-          "id": "2026-06-06-por-chi-tipp4",
-          "kategorie": "wackel",
-          "markt": "Rafael Leao trifft (Jederzeit)",
-          "quote": 3.2,
-          "empfohlener_einsatz_euro": 2.75,
-          "begruendung": "Sekundaer-Torschuetze (Wing-Player, im 21.05.-Lesson-Pattern Wing-Tore in Klassen-Edge-Finals). Leao Linksflanke gegen Chile-RV Suazo unterdurchschnittlich. Friendly-Rotation moeglich 65 Min, aber WM-Pruefung-Spot fuer Leao. Quote ~3.20 Konsens. WACKEL wegen typischer Wing-Konversion-Volatilitaet. Sekundaer-Volume-Eruption-Pattern: zweite Volumen-Quelle neben Ronaldo, leitet von Klassen-Edge ab. Quote via Aggregator-Konsens verifiziert.",
-          "reality_check": "3.00+ Quote-Range +43.7% ROI bei n=15 (33% HR) - tragfaehig als WACKEL.",
-          "lessons_referenziert": [
-            "Sekundaer-Volume-Star-Eruption-Pattern",
-            "Klassen-Edge-Wing-Tor-Verteilung"
-          ]
-        }
-      ]
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-06-06-usa-ger",
@@ -198,70 +98,9 @@
         "Woltemade als Sturm-Spitze (Werder Bremen-Hype), 1. echtes USA-Spiel im Trikot. WM-Backup-Frage offen.",
         "Quoten via Aggregator-Konsens (Goal/FanDuel/Covers): USA 5.10 / X 4.40 / Deutschland 1.62 - Ueber 2.5 ~1.85 / BTTS Ja ~1.75."
       ],
-      "tipps": [
-        {
-          "id": "2026-06-06-usa-ger-tipp1",
-          "kategorie": "value",
-          "markt": "Deutschland Sieg",
-          "quote": 1.62,
-          "empfohlener_einsatz_euro": 5.5,
-          "begruendung": "Deutschland #9 vs USA #15 - kleinere Klassen-Edge als andere Friendlies, aber Wirtz/Woltemade Top-Form + Kimmich-Achse stabil. Aggregator-Konsens 1.60-1.65. USA hat Heim-Druck UND Sieg-Quote 5.10 = ~17% impliziert. KEIN SAFE wegen Heim-Anreiz-Faktor + Test-Charakter (DFB testet Backup-10er-Wirtz frisch). 1.50-2.00-Quote 52.4% HR / +9.6% ROI (n=148) - tragfaehig VALUE. Quote via Aggregator-Konsens verifiziert.",
-          "reality_check": "1.50-2.00-Range historisch 52.4% / +9.6% ROI - leicht ueber Erwartungswert bei 1.62.",
-          "lessons_referenziert": [
-            "HR2 Auswaerts-Favorit-Profil",
-            "Goldgrube-Liga-DC-Falle"
-          ]
-        },
-        {
-          "id": "2026-06-06-usa-ger-tipp2",
-          "kategorie": "value",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.85,
-          "empfohlener_einsatz_euro": 5.5,
-          "begruendung": "Markt-Goldgrube (+30.2% ROI). USA-Test-Spiel offen-orientiert (Pulisic/Reyna pressen), Deutschland testet 4-2-3-1 mit Wirtz frei. Beide letzte Friendlies 3:2 (USA-Senegal) und Frankreich-1:1. Heim-Druck-USA + DFB-Test-Druck -> offene Partie wahrscheinlich. Quote 1.85 Konsens fair-VALUE. Quote via Aggregator-Konsens verifiziert.",
-          "reality_check": "Markt-Goldgrube Ueber 2.5 +30.2% ROI. Friendlies mit zwei Top-15-Teams historisch Ueber-Tendenz.",
-          "lessons_referenziert": [
-            "Markt-Goldgrube Ueber 2.5"
-          ]
-        },
-        {
-          "id": "2026-06-06-usa-ger-tipp3",
-          "kategorie": "value",
-          "markt": "Beide Teams treffen - Ja",
-          "quote": 1.75,
-          "empfohlener_einsatz_euro": 5.5,
-          "begruendung": "Pulisic Form-Hot (Tor vs Senegal) + USA-Heim Anreiz vs Wirtz/Woltemade-Deutschland-Offensive. USA-Defense (Ream/McKenzie) anfaellig fuer Wirtz-Linien-Vertikalpaesse. Deutschland-Defense (Tah/Schotterbeck) ebenso testet Backup-IV Brown links. Pulisic-Robinson-Linke und Reyna-Rechte beide gefaehrlich. BTTS Ja ~1.75 Aggregator-Konsens. Quote via Aggregator-Konsens verifiziert.",
-          "reality_check": "BTTS aktuell nicht als Markt-Goldgrube ausgewiesen, aber statistisch ~55% historisch bei 2 Top-15-Friendlies.",
-          "lessons_referenziert": [
-            "Sekundaer-Volume-Star-Eruption-Pattern"
-          ]
-        },
-        {
-          "id": "2026-06-06-usa-ger-tipp4",
-          "kategorie": "value",
-          "markt": "Florian Wirtz trifft (Jederzeit)",
-          "quote": 3.2,
-          "empfohlener_einsatz_euro": 2.75,
-          "begruendung": "Form-Edge-PFLICHT Auswaerts-Favorit: Wirtz frei auf 10er-Position mit Karl/Leweling-Wings - klarer Volume-Spot. Saison Liverpool 12 Tore (Leihe), DFB letzte 5 Spiele 3 Tore. USA-Defense anfaellig fuer Linien-Penetration. Markt-Goldgrube Torschuetzen Jederzeit +21.3% ROI. Boost-Hedge bei Wirtz-Ausbau: Karl/Sane spaeter Einwechslung als Backup-10er. Quote 3.20 Konsens. Quote via Aggregator-Konsens verifiziert.",
-          "reality_check": "Torschuetzen Jederzeit Markt-Goldgrube +21.3% ROI. Wirtz 35-40% Hit-Wahrscheinlichkeit in Klassen-Edge-Spots historisch.",
-          "lessons_referenziert": [
-            "HR4 Form-Edge Torschuetzen",
-            "Markt-Goldgrube Torschuetzen Jederzeit"
-          ]
-        },
-        {
-          "id": "2026-06-06-usa-ger-tipp5",
-          "kategorie": "wackel",
-          "markt": "Christian Pulisic trifft (Jederzeit)",
-          "quote": 3.4,
-          "empfohlener_einsatz_euro": 2.75,
-          "begruendung": "Form-Hot (Tor vs Senegal) + Heim-Anreiz Chicago. Aber Deutschland-Defense Tah/Schotterbeck eine Klasse hoeher als Senegal -> Konversionsrate sinkt. WACKEL statt VALUE. Wing-Torschuetze-Spot in eng-getakteten Friendlies. Boost-Hedge bei Reyna-Einwechslung waere Wing-Sub. Quote 3.40 Konsens. Quote via Aggregator-Konsens verifiziert.",
-          "reality_check": "Quote-Range 3.00+ historisch +43.7% ROI (33.3% HR) - WACKEL Profilkernschicht.",
-          "lessons_referenziert": [
-            "Form-Edge mit Defense-Subfilter"
-          ]
-        }
-      ]
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-06-06-eng-nzl",
@@ -292,71 +131,9 @@
         "Tuchel macht letztes WM-Testspiel vor Auftakt vs Haiti am 13.06 - Achse zementieren steht im Vordergrund.",
         "Quoten via Aggregator-Konsens (Sky Bet/Paddy Power): England 1.12 / X 7.50 / Neuseeland 17.00 - Ueber 2.5 ~1.35 / Kane trifft ~1.55."
       ],
-      "tipps": [
-        {
-          "id": "2026-06-06-eng-nzl-tipp1",
-          "kategorie": "safe",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.35,
-          "empfohlener_einsatz_euro": 11.0,
-          "begruendung": "Markt-Goldgrube (+30.2% ROI, 50% HR n=20) ANGEWANDT als SAFE-Treiber. England zuhause (USA) vs FIFA-#93-Neuseeland, Klassen-Edge maximal (89 FIFA-Plaetze). England letzte 3 Spiele: 3:0 Senegal, 3:1 Albanien, 4:0 Lettland - alle Ueber 2.5. Tuchel will Achse zementieren = Volle Power 90 Min. Konversion in Klassen-Edge-Friendly-Spots historisch 80%+. KEIN DC-SAFE wegen Liga-Goldgrube-Filter, aber Markt-Goldgrube Ueber 2.5 als SAFE ist Mapper-konform (Markt-Goldgrube-Treiber). Quote via Aggregator-Konsens verifiziert (Sky Bet 1.35).",
-          "reality_check": "Markt-Goldgrube Ueber 2.5 +30.2% ROI. Klassen-Edge >70 FIFA-Plaetze historisch ~80% Ueber-Hit. 1.00-1.50-Range 71.4% HR.",
-          "lessons_referenziert": [
-            "Markt-Goldgrube-Priorisierung Ueber 2.5",
-            "Klassen-Edge-Final-Volume-9er-Eruption (invertiert)"
-          ]
-        },
-        {
-          "id": "2026-06-06-eng-nzl-tipp2",
-          "kategorie": "value",
-          "markt": "Harry Kane trifft (Jederzeit)",
-          "quote": 1.55,
-          "empfohlener_einsatz_euro": 7.5,
-          "begruendung": "Form-Edge-PFLICHT Heim-Favorit-Profil: Kane 40+ Pflichtspiel-Tore Saison, 2 Doppelpacks letzte 3 England-Spiele - klares Form-Edge-Niveau. Neuseeland-Defense FIFA #93, IV primaer A-League-Niveau. Volume-9er-Spot der Saison. Markt-Goldgrube Torschuetzen Jederzeit +21.3% ROI. Kane sollte ~70 Min spielen, Backup Watkins ist als Boost-Hedge fit. Quote 1.55 Aggregator-Konsens. Quote via Aggregator-Konsens verifiziert.",
-          "reality_check": "Kane in Klassen-Edge-Friendlies historisch 70%+ Hit. Markt-Goldgrube +21.3% ROI.",
-          "lessons_referenziert": [
-            "HR4 Form-Edge Torschuetzen Pflicht",
-            "Markt-Goldgrube Torschuetzen Jederzeit"
-          ]
-        },
-        {
-          "id": "2026-06-06-eng-nzl-tipp3",
-          "kategorie": "value",
-          "markt": "England Sieg",
-          "quote": 1.12,
-          "empfohlener_einsatz_euro": 7.5,
-          "begruendung": "England #4 vs Neuseeland #93 - 89-Plaetze-Klassen-Edge. Tuchel-Achse spielt Statement-Generalprobe vor WM-Auftakt 13.06. Aggregator-Konsens 1.10-1.14. Quote tief, aber 1.00-1.50-Range historisch 71.4% HR. KEIN SAFE wegen Friendly-Rotation + Risiko Tuchel rotiert in 2.HZ Backup-Achse (Bellingham raus, Eze rein etc.). Quote via Aggregator-Konsens verifiziert.",
-          "reality_check": "Tiefe Quoten 1.00-1.50: 71.4% HR / +6.7% ROI (n=102). Bei 1.12 niedrig-Margin aber statistisch tragend.",
-          "lessons_referenziert": [
-            "HR2 Heim-Favorit-Profil"
-          ]
-        },
-        {
-          "id": "2026-06-06-eng-nzl-tipp4",
-          "kategorie": "wackel",
-          "markt": "Jude Bellingham trifft (Jederzeit)",
-          "quote": 2.75,
-          "empfohlener_einsatz_euro": 2.75,
-          "begruendung": "Sekundaer-Volume-Star: Bellingham als 10er hinter Kane in Klassen-Edge-Spot. Real-Madrid-Saison: 12 Tore. Neuseeland defensiv tief = Bellingham wird Box-Penetration suchen. WACKEL wegen Auswechslungs-Wahrscheinlichkeit ~65 Min (Foden-Eze-Tausch wahrscheinlich). Boost-Hedge bei Bellingham-Auswechslung (Watkins-Rashford-Backup wenig Pacing). Quote 2.75 Konsens. Quote via Aggregator-Konsens verifiziert.",
-          "reality_check": "3.00+ Range 33.3% HR / +43.7% ROI - WACKEL tragfaehig.",
-          "lessons_referenziert": [
-            "Sekundaer-Volume-Star-Eruption",
-            "Einwechslungs-Boost-Tipp-Spieler-Muss-Ausgewechselt-Werden"
-          ]
-        },
-        {
-          "id": "2026-06-06-eng-nzl-tipp5",
-          "kategorie": "moonshot",
-          "markt": "England Sieg & Ueber 3.5 Tore",
-          "quote": 2.5,
-          "empfohlener_einsatz_euro": 1.1,
-          "begruendung": "Same-Game-Hebel: bei Klassen-Edge 89 Plaetze plus Kane-Form historisch Ergebnisse wie 4:0 oder 5:0. Letzte 3 England-Tore: 3:0/3:1/4:0 (2/3 mit 3+ Toren). Im Klassen-Edge-Spot mit voller Power. MOONSHOT wegen Tor-Wuerfel-Risiko. Korrelations-Hedge zu Ueber 2.5 SAFE (gleiche Spiel-These, deshalb max 1 Bein in Hauptkombi). Quote via Aggregator-Konsens verifiziert.",
-          "reality_check": "Mini-Stake-Moonshot - ROI-Tracking-Beobachtung Klassen-Edge-Multi-Tor.",
-          "lessons_referenziert": [
-            "Layer-3 Spiel-Markt-Kombi-Cap (eigene Kombi-Hauptkombi-Anzeige)"
-          ]
-        }
-      ]
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-06-06-bra-egy",
@@ -387,73 +164,9 @@
         "Salah-Liverpool-Saison 27 PL-Tore - letzter WM-Anlauf mit 33 Jahren, hochmotiviert auf Tor.",
         "Quoten via Aggregator-Konsens (Polymarket/ESPN): Brasilien 1.30 / X 5.25 / Aegypten 7.50 - Ueber 2.5 ~1.55 / Vinicius trifft ~2.00."
       ],
-      "tipps": [
-        {
-          "id": "2026-06-06-bra-egy-tipp1",
-          "kategorie": "value",
-          "markt": "Brasilien Sieg",
-          "quote": 1.3,
-          "empfohlener_einsatz_euro": 7.5,
-          "begruendung": "Brasilien #6 vs Aegypten #36 - klare Klassen-Edge auch ohne Neymar. Vinicius/Raphinha-Achse + Casemiro-Mittelfeld-Dominanz. Aggregator-Konsens 1.30 (Polymarket impliziert 73%). Aegypten zwar mit Salah, aber Defense-Klasse niedriger - kein Marmoush-Frust-Spot. KEIN SAFE wegen Liga-Goldgrube-Filter (Friendlies) + Friendly-Rotation. 1.00-1.50-Range 71.4% HR. Quote via Aggregator-Konsens verifiziert.",
-          "reality_check": "Quoten 1.00-1.50: 71.4% HR / +6.7% ROI (n=102). Klassen-Edge tragfaehig.",
-          "lessons_referenziert": [
-            "HR2 Heim-Favorit-Profil",
-            "Goldgrube-Liga-DC-Falle"
-          ]
-        },
-        {
-          "id": "2026-06-06-bra-egy-tipp2",
-          "kategorie": "value",
-          "markt": "Vinicius Junior trifft (Jederzeit)",
-          "quote": 2.0,
-          "empfohlener_einsatz_euro": 7.5,
-          "begruendung": "STAR-AUSFALL-BACKUP-PFLICHT (HR3): Neymar OUT -> Vinicius wird automatisch zur No.1-Volume-Achse. Real-Madrid-Saison Top-Form, vs Panama Doppelpack-Prognose. Aegypten-RV Hany defensiv begrenzt. Markt-Goldgrube Torschuetzen Jederzeit +21.3% ROI. Form-Edge-Pflicht zusaetzlich (2+ Tore Letzte 3). Quote 2.00 Aggregator-Konsens. Quote via Aggregator-Konsens verifiziert.",
-          "reality_check": "Markt-Goldgrube +21.3% ROI. Vinicius in Brasilien-Klassen-Edge-Friendlies historisch 55-60% Hit.",
-          "lessons_referenziert": [
-            "HR3 Star-Ausfall-Backup-Pflicht (Neymar -> Vinicius)",
-            "HR4 Form-Edge Torschuetzen Pflicht",
-            "Markt-Goldgrube Torschuetzen Jederzeit"
-          ]
-        },
-        {
-          "id": "2026-06-06-bra-egy-tipp3",
-          "kategorie": "value",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.55,
-          "empfohlener_einsatz_euro": 7.5,
-          "begruendung": "Markt-Goldgrube (+30.2% ROI). Brasilien 6:2 vs Panama letzter Test - klare Tor-Tendenz unter Ancelotti. Aegypten Salah als Konter-Threat, Brasilien-Defense Marquinhos/Gabriel kann gegen Salah-Klasse einknicken. Beide Seiten haben Tor-Potenzial. Quote 1.55 fair-VALUE Aggregator-Konsens. Quote via Aggregator-Konsens verifiziert.",
-          "reality_check": "Ueber 2.5 Markt-Goldgrube +30.2% ROI. Brasilien-Klassen-Edge-Friendlies historisch ~70% Ueber.",
-          "lessons_referenziert": [
-            "Markt-Goldgrube Ueber 2.5"
-          ]
-        },
-        {
-          "id": "2026-06-06-bra-egy-tipp4",
-          "kategorie": "wackel",
-          "markt": "Raphinha trifft (Jederzeit)",
-          "quote": 2.4,
-          "empfohlener_einsatz_euro": 2.75,
-          "begruendung": "Sekundaer-Volume-Star: Raphinha Barcelona-Saison 25+ Tore, neben Vinicius zweite Volume-Achse. Im Neymar-Out-Setup verstaerkt aktiviert. WACKEL wegen typischer Wing-Konversionsrate ~40% in Friendlies (zweite Wahl hinter Vinicius). Boost-Hedge bei Auswechslung (Antony-Backup). Aggregator-Konsens 2.40. Quote via Aggregator-Konsens verifiziert.",
-          "reality_check": "Sekundaer-Wing 40-45% Hit historisch in Klassen-Edge. 2.00-3.00-Range 39.4% HR, +6.0% ROI.",
-          "lessons_referenziert": [
-            "Sekundaer-Volume-Star-Eruption-Pattern",
-            "HR3 Star-Ausfall-Backup-Ausbau"
-          ]
-        },
-        {
-          "id": "2026-06-06-bra-egy-tipp5",
-          "kategorie": "wackel",
-          "markt": "Mohamed Salah trifft (Jederzeit)",
-          "quote": 3.0,
-          "empfohlener_einsatz_euro": 2.75,
-          "begruendung": "Aegyptens No.1-Star, 27 PL-Tore Saison Liverpool. Letzter WM-Anlauf mit 33 - Motivation Statement. Brasilien-RV Wesley defensiv anfaellig fuer Inside-Cut. WACKEL wegen Auswaertsfavorit-Klassen-Gap, aber Volume-Spot bleibt. Quote 3.00 Aggregator-Konsens. Quote via Aggregator-Konsens verifiziert.",
-          "reality_check": "3.00+ Range 33.3% HR / +43.7% ROI. Salah-Eruption-Pattern in Klassen-Edge-Spots historisch ~30%.",
-          "lessons_referenziert": [
-            "Sekundaer-Volume-Star-Eruption (Underdog-Star)",
-            "Markt-Goldgrube Torschuetzen Jederzeit"
-          ]
-        }
-      ]
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     }
   ],
   "einzeltipps": [
@@ -668,171 +381,7 @@
       "rang": 14
     }
   ],
-  "kombis": [
-    {
-      "id": "kombi-safe",
-      "name": "🛡️ Klassen-Edge-Sieg-Quartett (~2.9x)",
-      "kategorie": "safe",
-      "gesamtquote": 2.88,
-      "empfohlener_einsatz_prozent": 2.0,
-      "einsatz_euro": 11.0,
-      "begruendung": "Vier Sieg-Outcomes der vier klarsten Klassen-Edge-Spiele - alle Friendlies mit FIFA-Rang-Differenz >=25 Plaetze und Aggregator-Konsens-Quote <=1.62. Layer-2: Alle Sieg-Outcomes konzentriert in Safe-Kombi (nirgends sonst). Layer-1: max 1 Bein/Spiel. Gesamtquote nachgerechnet: 1.22 × 1.30 × 1.12 × 1.62 = 2.88. Stake 2.0% × 550€ = 11€. Reality-Check 1.00-1.50-Range 71.4% HR (n=102), 1.50-2.00 52.4%. Kumulierte Wahrscheinlichkeit ~37% (alle 4 muessen gewinnen) - Quote 2.88 bei 37% impliziert leicht VALUE. Bei bet365 live pruefen.",
-      "beine": [
-        {
-          "spiel_id": "2026-06-06-por-chi",
-          "tipp_id": "2026-06-06-por-chi-tipp1",
-          "spiel_titel": "Portugal vs Chile",
-          "markt": "Portugal Sieg",
-          "quote": 1.22
-        },
-        {
-          "spiel_id": "2026-06-06-bel-tun",
-          "tipp_id": "2026-06-06-bel-tun-tipp1",
-          "spiel_titel": "Belgien vs Tunesien",
-          "markt": "Belgien Sieg",
-          "quote": 1.3
-        },
-        {
-          "spiel_id": "2026-06-06-eng-nzl",
-          "tipp_id": "2026-06-06-eng-nzl-tipp3",
-          "spiel_titel": "England vs Neuseeland",
-          "markt": "England Sieg",
-          "quote": 1.12
-        },
-        {
-          "spiel_id": "2026-06-06-usa-ger",
-          "tipp_id": "2026-06-06-usa-ger-tipp1",
-          "spiel_titel": "USA vs Deutschland",
-          "markt": "Deutschland Sieg",
-          "quote": 1.62
-        }
-      ]
-    },
-    {
-      "id": "kombi-balance",
-      "name": "⚖️ Tor-Total-Goldgrube-Quartett (~6.0x)",
-      "kategorie": "balance",
-      "gesamtquote": 6.04,
-      "empfohlener_einsatz_prozent": 0.8,
-      "einsatz_euro": 4.4,
-      "begruendung": "Vier reine Ueber-2.5-Beine ueber 4 Spiele - alle Friendlies mit Klassen-Edge UND/ODER beidseitiger Offensiv-Power. Markt-Goldgrube Ueber 2.5 (+30.2% ROI, 50% HR n=20) als ROI-Anker. Layer-2: KEIN Sieg-Outcome (Sieg-Outcomes nur in Safe-Kombi). Layer-1: max 1 Bein/Spiel. Gesamtquote nachgerechnet: 1.35 × 1.75 × 1.55 × 1.65 = 6.04. Stake 0.8% × 550€ = 4,40€. Bei bet365 live pruefen.",
-      "beine": [
-        {
-          "spiel_id": "2026-06-06-eng-nzl",
-          "tipp_id": "2026-06-06-eng-nzl-tipp1",
-          "spiel_titel": "England vs Neuseeland",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.35
-        },
-        {
-          "spiel_id": "2026-06-06-bel-tun",
-          "tipp_id": "2026-06-06-bel-tun-tipp2",
-          "spiel_titel": "Belgien vs Tunesien",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.75
-        },
-        {
-          "spiel_id": "2026-06-06-bra-egy",
-          "tipp_id": "2026-06-06-bra-egy-tipp3",
-          "spiel_titel": "Brasilien vs Aegypten",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.55
-        },
-        {
-          "spiel_id": "2026-06-06-por-chi",
-          "tipp_id": "2026-06-06-por-chi-tipp3",
-          "spiel_titel": "Portugal vs Chile",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.65
-        }
-      ]
-    },
-    {
-      "id": "kombi-risiko",
-      "name": "🎯 Torschuetzen-Volume-Star-Quartett (~21.8x)",
-      "kategorie": "risiko",
-      "gesamtquote": 21.83,
-      "empfohlener_einsatz_prozent": 0.25,
-      "einsatz_euro": 1.4,
-      "begruendung": "Vier Top-Volume-Stars je in einem anderen Spiel - Kane (Form-Edge 40+ Pflichtspiel-Tore), Lukaku (WM-Stuermer-Comeback), Vinicius (Star-Ausfall-Backup-Pflicht nach Neymar-OUT), Wirtz (10er-Volume vs USA). Markt-Goldgrube Torschuetzen Jederzeit (+21.3% ROI, 38.1% HR n=44) als ROI-Treiber. Layer-1: max 1 Bein/Spiel, jeder Star aus separatem Spiel. Layer-2: KEIN Sieg-Outcome. Layer-3: Spielen vs Safe-Kombi keine Spiel/Markt-Duplikate (Sieg vs Torschuetze). Gesamtquote: 1.55 × 2.20 × 2.00 × 3.20 = 21.83. Stake 0.25% × 550€ = 1,40€. Bei bet365 live pruefen.",
-      "beine": [
-        {
-          "spiel_id": "2026-06-06-eng-nzl",
-          "tipp_id": "2026-06-06-eng-nzl-tipp2",
-          "spiel_titel": "England vs Neuseeland",
-          "markt": "Harry Kane trifft (Jederzeit)",
-          "quote": 1.55
-        },
-        {
-          "spiel_id": "2026-06-06-bel-tun",
-          "tipp_id": "2026-06-06-bel-tun-tipp3",
-          "spiel_titel": "Belgien vs Tunesien",
-          "markt": "Romelu Lukaku trifft (Jederzeit)",
-          "quote": 2.2
-        },
-        {
-          "spiel_id": "2026-06-06-bra-egy",
-          "tipp_id": "2026-06-06-bra-egy-tipp2",
-          "spiel_titel": "Brasilien vs Aegypten",
-          "markt": "Vinicius Junior trifft (Jederzeit)",
-          "quote": 2.0
-        },
-        {
-          "spiel_id": "2026-06-06-usa-ger",
-          "tipp_id": "2026-06-06-usa-ger-tipp4",
-          "spiel_titel": "USA vs Deutschland",
-          "markt": "Florian Wirtz trifft (Jederzeit)",
-          "quote": 3.2
-        }
-      ]
-    },
-    {
-      "id": "kombi-moonshot",
-      "name": "🚀 Sekundaer-Star-Quintett (~404x)",
-      "kategorie": "moonshot",
-      "gesamtquote": 404.35,
-      "empfohlener_einsatz_prozent": 0.1,
-      "einsatz_euro": 0.55,
-      "begruendung": "Fuenf Sekundaer-Volumen-Sterne je in anderem Spiel - Pulisic (USA-Heim-Hot-Form), Bellingham (England Sekundaer-Volume), Salah (Aegypten-Star-Anlauf), Leao (Portugal-Wing), De Bruyne (Belgien-10er-Set-Piece). Layer-1: max 1 Bein/Spiel. Layer-3: andere Markttypen als in Risiko-Kombi (Wirtz/Kane/Lukaku/Vinicius -> hier Pulisic/Bellingham/Salah/Leao/KdB) - keine Spiel/Markt-Duplikate. Gesamtquote: 3.40 × 2.75 × 3.00 × 3.20 × 4.50 = 404.35. Mini-Stake 0.1% × 550€ = 0,55€ - reiner Spass-Schuss. Bei bet365 live pruefen.",
-      "beine": [
-        {
-          "spiel_id": "2026-06-06-usa-ger",
-          "tipp_id": "2026-06-06-usa-ger-tipp5",
-          "spiel_titel": "USA vs Deutschland",
-          "markt": "Christian Pulisic trifft (Jederzeit)",
-          "quote": 3.4
-        },
-        {
-          "spiel_id": "2026-06-06-eng-nzl",
-          "tipp_id": "2026-06-06-eng-nzl-tipp4",
-          "spiel_titel": "England vs Neuseeland",
-          "markt": "Jude Bellingham trifft (Jederzeit)",
-          "quote": 2.75
-        },
-        {
-          "spiel_id": "2026-06-06-bra-egy",
-          "tipp_id": "2026-06-06-bra-egy-tipp5",
-          "spiel_titel": "Brasilien vs Aegypten",
-          "markt": "Mohamed Salah trifft (Jederzeit)",
-          "quote": 3.0
-        },
-        {
-          "spiel_id": "2026-06-06-por-chi",
-          "tipp_id": "2026-06-06-por-chi-tipp4",
-          "spiel_titel": "Portugal vs Chile",
-          "markt": "Rafael Leao trifft (Jederzeit)",
-          "quote": 3.2
-        },
-        {
-          "spiel_id": "2026-06-06-bel-tun",
-          "tipp_id": "2026-06-06-bel-tun-tipp4",
-          "spiel_titel": "Belgien vs Tunesien",
-          "markt": "Kevin De Bruyne trifft (Jederzeit)",
-          "quote": 4.5
-        }
-      ]
-    }
-  ],
+  "kombis": [],
   "lessons_angewandt": [
     "HR2 Heim-/Auswaerts-Favorit-Pflichtprofil (Markt-Mix-PFLICHT 04.05.): Bei jedem Favoriten-Spiel MIN 1 Torschuetzen-Tipp auf Top-Stuermer. Angewandt auf alle 5 Friendlies (Kane, Lukaku, Ronaldo, Wirtz, Vinicius). Aktiv gesucht statt 'wenn Lust' - Markt-Goldgrube Torschuetzen Jederzeit (+21.3% ROI, 38.1% HR, n=44) priorisiert.",
     "HR3 Star-Ausfall-Backup-PFLICHT: Neymar (Wadenverletzung) OUT bei Brasilien -> Vinicius automatisch als VALUE-Torschuetzen-Tipp gesetzt (ez-12, Risiko-Kombi-Bein). Plus Raphinha als Sekundaer-Wackel-Backup. Gleiche Logik invers bei Portugal: Ramos OUT (CL-Finale-Recovery) -> Ronaldo wird zur 9er-Achse (ez-13).",

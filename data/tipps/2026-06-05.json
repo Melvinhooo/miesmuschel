@@ -38,27 +38,9 @@
         "Spurs-G7-Hangover-Fenster laut Routine-Logik: <= G1 (gestern voll validiert mit 95:105-Heim-Loss), ab G2 wieder voll regeneriert. Hangover-These ist KEIN G2-Argument mehr.",
         "Brunson aktuell NBA-Finals-MVP-Ladder-Fuehrer nach G1. Knicks 12. Playoff-Auswaerts-Sieg in Folge (laengster aktiver Playoff-Win-Streak in der Liga)."
       ],
-      "tipps": [
-        {
-          "kategorie": "wackel",
-          "markt": "San Antonio Spurs Sieg",
-          "quote": 1.44,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 2.75,
-          "begruendung": "Heim-Bounce-Back-Statistik 77% G2-Win-Rate (Sportico Desperation-Datensatz, NBA-Playoffs Round 1-3 + Finals 2021/22 = 10-1 mit 6 von 10 Wins zweistellig) + MUSS-Sieg-Heim-Modus (0-2-Loch waere Series-Death-Sentence, 0-2-NBA-Finals-Comebacks nur 7.7%) + Wemby-Bounce-Back-Druck (G1 6/21 FG = drittschlechteste Saisoneffizienz, statistisches Mean-Reversion-Signal) + G7-Hangover-Fenster <= G1 abgelaufen (Spurs ab G2 wieder voll regeneriert). ABER NBA-Playoffs Hebel B sperrt SAFE-Status komplett (Lesson 24./25.04 + 02.05), Pinnacle-Quote nicht verifiziert (sportsgambler.com HTTP 403 Tag 6 in Folge) -> max WACKEL. 1.44 scharf gepricet ohne klaren VALUE-Edge. Stake-Konzentration 0.5% = 2.75 EUR (Stufe 1 Aufbau, Kasse 550 EUR).",
-          "rang": 1
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Unter 214.5 Punkte (Gesamtspiel)",
-          "quote": 1.91,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 2.75,
-          "begruendung": "Lesson 02.05 NBA-Decider/Finals-Defensiv-These (Decider-Spiele tendieren zu Defensiv-Schlachten) + Lesson 03.06 Wemby-Bench-Comeback-Korridor (Knicks-Comeback in G1 startete in Wemby-Bench-Minute, Defense-System-Edge bleibt) + G1-Empirie (G1-Total 200 mit 18.5-Pkt-Puffer unter 218.5-Linie) + Knicks-Defense #1 in Playoffs (100.6 Pkt allowed / 43.3% Gegner-FG) + Spurs-MUSS-Sieg-Pace-Reduktion (Bounce-Back-Game-Plan vermutlich kontrolliert, nicht Run-and-Gun). Markt hat 4 Pkt nach unten korrigiert (218.5 G1 -> 214.5 G2) - Edge schmaler aber haelt. UNKORRELIERT zum Spurs-Sieg-Tipp (beide gewinnen bei Defensiv-Schlacht 105:100) = Pseudo-Hedge gem. Lesson 03.06 n2-Validierung. Hebel B max WACKEL, Pinnacle-Hartregel WACKEL. Stake 0.5% = 2.75 EUR.",
-          "rang": 2
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     }
   ],
   "einzeltipps": [
