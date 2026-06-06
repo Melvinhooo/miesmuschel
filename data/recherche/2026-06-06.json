@@ -1,0 +1,70 @@
+{
+  "datum": "2026-06-06",
+  "erstellt_am": "2026-06-06T09:50:00+02:00",
+  "modus": "tag",
+  "wochenend_variante": "Sa-So 07:00 Berlin Recherche-Slot fuer Tipps-Slot 10:00 Berlin (Horizon = Sa 06.06 10:00 -> So 07.06 10:00)",
+  "hinweis": "Recherche-Daten Samstag 06.06.2026 (Sa-So-Variante, Pre-Tipps-Datenbasis fuer Tipps-Slot 10:00 Berlin; Recherche-Cloud-Routine). === WOCHENENDE-HORIZONT (Tipps-Slot Sa 06.06 10:00 -> So 07.06 10:00): 0 In-Scope-Events terminiert. KEIN Fussball-Spiel in-scope (BL, PL, LaLiga, Serie A, Ligue 1, CL, EL, DFB-Pokal, Coppa Italia alle in Sommerpause; CL-Final 30.05 PSG-Arsenal i.E. 4-3 abgeschlossen; alle Domestic-Cup-Finals abgeschlossen). KEIN NBA-Spiel an Sa 06.06 oder So 07.06 (NBA Finals Pause-Tag zwischen G2 Fr-Abend US und G3 Mo-Abend US). === NBA Finals Update G2 (gespielt Fr 05.06 8:30 PM ET = Sa 06.06 02:30 Berlin, faellt aber in Freitag-Tipps-Slot 05.06 13:30 -> wurde in data/recherche/2026-06-05.json terminiert): Endstand NYK 105-104 SAS, Wemby verschoss offenen 20-Fuss-Wurf 2.0 Sekunden vor Schluss -> NYK fuehrt Serie 2-0, 13-Spiele-Playoff-Siegesserie aktiv. Wemby G2: 29 Pkt / 9 Reb. KAT G2: 21 Pkt / 13 Reb / 4 Ast. NBA Finals G3 ist Mo 08.06 8:30 PM ET = Di 09.06 02:30 Berlin (Madison Square Garden, NYK Heim), faellt in Montag-Tipps-Slot 08.06 13:30 (nicht in heutigen Wochenende-Horizont 06.06 10:00 -> 07.06 10:00). === BESTAETIGUNG via APIs: football-data.org /v4/matches Range 06.06-08.06 alle In-Scope-Comps (BL1+PL+PD+SA+FL1+CL+EL) = count 0 -> 0 Fussball-Spiele weltweit in Top-5-Liga-Wettbewerben in den naechsten 3 Tagen. balldontlie.io /v1/games Range 06.06-07.06 = 0 Spiele -> NBA Pause. balldontlie.io /v1/games 08.06 = 1 Spiel = G3 SAS @ NYK datetime 2026-06-09T00:30:00Z UTC (faellt in Montag-Slot). === AUSSERHALB-SCOPE-GEPRUEFT (zur Vollstaendigkeit dokumentiert, aber NICHT empfohlen): FIFA WM 2026 startet 11.06 (Eroeffnung USA/Kanada/Mexiko, nicht im CLAUDE.md-Scope - nur europaeische Top-5-Klub-Ligen + DFB-Pokal + Coppa Italia + CL/EL/Conference). UEFA Frauen-EM-Qualifikation Matchday 5 (05.06) - nicht im Scope. UEFA Nations League Final-Four 2026 - bereits abgeschlossen vor Juni. Internationale Maenner-Friendlies / WM-Vorbereitungsspiele (Italien-Estland u.a. Sa-So) - nicht im Scope. Brasileirao Serie A - nicht im CLAUDE.md-Scope. MLS - nicht im Scope. WNBA Regular Season - nicht im Scope (nur NBA aus US-Sport). 2.Bundesliga / Promotion-Playoffs - nicht im Scope. === REGEL-ANWENDBARKEIT HEUTE/MORGEN: 2:0-Insurance-Regel gilt NUR fuer BL+CL Fussball-Sieg-Tipps -> heute NICHT anwendbar mangels In-Scope-Spielen. Einwechslungs-Boost-Regel gilt fuer Fussball-Torschuetzen-Maerkte -> heute NICHT anwendbar. NBA-Markt-Whitelist/Blacklist heute NICHT relevant (keine NBA-Spiele Sa+So). === Kasse-Stand 04.05.2026: 550 EUR -> Stufe 1 (Aufbau-Phase) aktiv (Kasse < 1000 EUR), konservative Einsaetze gemaess CLAUDE.md (heute irrelevant da keine Tipps moeglich). Stufe-2-Trigger (Kasse >= 1000 EUR + 30d-ROI > +5%) noch nicht erreicht. === Markt-Bluter laut data/markt_bluter.json: heute irrelevant (keine Tipps). Goldgruben laut data/markt_goldgruben.json: Doppelte Chance 1X (84.6% / +9.5%), Doppelte Chance X2 (77.8% / +9.4%), Unter 2.5 Tore (66.7% / +27.5%), Torschuetzen Jederzeit (50% / +24.4%) - alle Fussball-Maerkte, heute irrelevant mangels Spiele. === EMPFEHLUNG AN TIPPS-ROUTINE 10:00 HEUTE: 0 In-Scope-Spiele verfuegbar im Sa-So-Horizont. Tipps-Routine soll Slot als Leer-Slot markieren (Modus 'kein_spiel' oder Hinweis-Dossier ohne tipps[]). spiele[] = leer, einzeltipps[] = leer, kombis[] = leer. Lessons_angewandt bleibt leer. Footer + Spielerschutz-Hinweis BZgA 0800 1372700 weiterhin pflicht. Naechster realistischer Tipps-Slot: Montag 08.06 13:30 (fuer NBA Finals G3, Tip-Off Di 09.06 02:30 Berlin). === APIs alle live abgefragt 06.06.2026 09:50 Berlin, keine Cache-Daten verwendet. NIE Spielernamen erfunden (in Sa-So-Variante ohnehin keine Spieler-Recherche noetig mangels Spielen). POSITION-Genauigkeit irrelevant heute.",
+  "spiele": [],
+  "leerschlag_metadata": {
+    "geprueft_apis": [
+      {
+        "api": "football-data.org v4 /v4/matches?dateFrom=2026-06-06&dateTo=2026-06-07 (global)",
+        "datum": "Sa 06.06 + So 07.06",
+        "treffer_gesamt": 0,
+        "treffer_in_scope": 0,
+        "treffer_detail": "0 Spiele weltweit am Wochenende 06.-07.06 - alle Top-Ligen in Sommerpause, alle Domestic-Cup-Finals + alle UEFA-Klub-Wettbewerbs-Finals abgeschlossen vor 31.05",
+        "http_status": "200 OK"
+      },
+      {
+        "api": "football-data.org v4 /v4/competitions/<comp>/matches Range 06.06-08.06 (BL1, PL, PD, SA, FL1, CL, EL einzeln abgefragt)",
+        "treffer_pro_comp": {"BL1": 0, "PL": 0, "PD": 0, "SA": 0, "FL1": 0, "CL": 0, "EL": 0},
+        "status": "0 In-Scope-Fussball-Spiele in den naechsten 3 Tagen ueber alle In-Scope-Comps - Saisons 2025-26 sind komplett beendet, naechste Saison-Auftakte: PL 22.08.2026, BL 28.08.2026 laut CLAUDE.md-Scope-Kontext"
+      },
+      {
+        "api": "balldontlie.io v1 /v1/games?dates[]=2026-06-06&dates[]=2026-06-07",
+        "datum": "Sa 06.06 + So 07.06 (US-Datumsformat)",
+        "treffer": 0,
+        "status": "0 NBA-Spiele am Wochenende - Pause-Tage zwischen NBA Finals G2 (Fr 05.06 abend US-Zeit, gespielt) und G3 (Mo 08.06 abend US-Zeit, kommend). NBA-Finals-Format Best of 7 schedule: G1 Mi 03.06, G2 Fr 05.06, G3 Mo 08.06, G4 Mi 10.06, G5 Fr 12.06 (falls noetig), G6 Mo 15.06 (falls noetig), G7 Do 18.06 (falls noetig)"
+      },
+      {
+        "api": "balldontlie.io v1 /v1/games?dates[]=2026-06-08",
+        "datum": "Mo 08.06 (US-Datumsformat)",
+        "treffer": 1,
+        "status": "NBA-Finals G3: SAS @ NYK, balldontlie game_id=21716136, datetime=2026-06-09T00:30:00Z UTC = 09.06 02:30 Berlin = faellt in Montag-Tipps-Slot 08.06 13:30 (nicht in heutigen Wochenende-Horizont 06.06 10:00 -> 07.06 10:00). Postseason=true, status=scheduled"
+      }
+    ],
+    "nba_finals_kontext_update_aus_g2_gespielt_05_06": {
+      "endstand_g2": "NYK 105-104 SAS (Knicks gewinnen erneut auswaerts in San Antonio)",
+      "serien_stand_nach_g2": "NYK fuehrt 2-0 in Best of 7",
+      "schluesselmoment_g2": "Victor Wembanyama verschoss offenen 20-Fuss-Wurf mit 2.0 Sekunden Restzeit - haette Spurs zum Sieg gefuehrt",
+      "key_stats_g2": {
+        "wembanyama": "29 Pkt / 9 Reb (deutlich besseres Shooting als G1's 6-21 / 28.6%)",
+        "towns": "21 Pkt / 13 Reb / 4 Ast (zweites Double-Double in Folge in Finals)",
+        "nyk_playoff_streak": "13 Spiele in Folge gewonnen (laengste aktive Streak der NBA-Postseason)"
+      },
+      "naechstes_spiel": "G3 Mo 08.06 8:30 PM ET / Di 09.06 02:30 Berlin im Madison Square Garden (NYK Heim - Heimrecht-Wechsel)",
+      "fuer_tipps_routine_montag": "G3 ist Pflicht-Recherche in Montag-Recherche-Slot 10:30 Berlin. Knicks-Heim-Vorteil + 2-0-Fuehrungs-Dynamik + 'historisch fast immer Serien-Entscheidung wenn 0-2 hinten'-Pattern als Tipp-Routinen-Input. Lesson 02.05 NBA-Decider-Defensiv-These weiterhin in Beobachtung (G1-Total 200 unter 218.5 = HIT, G2-Total 209 unter Eroeffnungslinie 214.5 = HIT - 2 von 2 Defensiv-These-Treffer im 2026-Finals)."
+    },
+    "ausserhalb_scope_aber_geprueft": [
+      "FIFA WM 2026 (startet 11.06.2026 in USA/Kanada/Mexiko) - nicht im CLAUDE.md-Scope (nur europaeische Vereins-Top-5 + DFB-Pokal + Coppa Italia + CL/EL)",
+      "Internationale Maenner-Friendlies / WM-Vorbereitung (z.B. Italien-Estland, weitere Friendlies am Wochenende) - nicht im CLAUDE.md-Scope (Verein-Wetten only)",
+      "UEFA Frauen-EM-Qualifikation Matchday 5 (05.06 abgeschlossen) - nicht im Scope",
+      "Brasileirao Serie A - hat moeglicherweise Sa+So Spiele, aber nicht im CLAUDE.md-Scope (nur europaeische Top-5 + DFB-Pokal + Coppa Italia + CL/EL)",
+      "MLS Regular Season (laeuft Sommer 2026) - nicht im Scope (nur NBA aus US-Sport)",
+      "WNBA Regular Season (laeuft Sommer 2026) - nicht im Scope",
+      "2.Bundesliga / Promotion-Playoffs - nicht im Scope (nur 1.BL)",
+      "Frauen-Bundesliga / Frauen-CL - nicht im Scope",
+      "FIFA Club World Cup 2026 - nicht im Scope (nur Vereins-Klub-Liga + CL/EL fuer Wett-Vorbereitung)",
+      "NHL Stanley Cup Finals - nicht im CLAUDE.md-Scope (nur Fussball + NBA)",
+      "MLB Regular Season - nicht im Scope",
+      "Tennis French Open Halbfinale/Finale (Roland Garros 06.-07.06.2026) - nicht im CLAUDE.md-Scope (nur Fussball + NBA)"
+    ],
+    "hinweis_an_tipps_routine": "0 In-Scope-Spiele verfuegbar im Sa-So-Horizont 06.06 10:00 -> 07.06 10:00. Tipps-Routine soll Leer-Slot-Dossier ausgeben (spiele[]=leer, einzeltipps[]=leer, kombis[]=leer) mit klarer Begruendung (Sommerpause Fussball + NBA-Finals-Pause-Tag zwischen G2 und G3). Spielerschutz-Hinweis + Footer bleiben Pflicht. Naechster realistischer Tipps-Slot mit Spielen: Montag 08.06 13:30 (NBA Finals G3 SAS @ NYK, Tip-Off Di 09.06 02:30 Berlin Madison Square Garden). Wenn Tipps-Routine trotzdem Wochenend-Vorschau-Dossier erstellt, soll sie sich auf Pflicht-Hinweis 'kein In-Scope-Slate verfuegbar - Pause-Wochenende' begrenzen, KEIN Tipp ohne Spielgrundlage erfinden.",
+    "wochenend_variante_kommentar": "Auftrag war 'Sa-So Variante = mehr Spielmenge BL/PL/NBA-Playoffs'. Realitaet 06.06.2026: alle europaeischen Klub-Saisons abgeschlossen (PL endete 24.05, BL endete 17.05, LaLiga endete 25.05, Serie A endete 24.05, Ligue 1 endete 17.05), CL-Final + alle UEFA-Klub-Wettbewerbs-Finals + alle Domestic-Cup-Finals vor 31.05 abgeschlossen. NBA-Finals laufen, aber G2 (Fr-Abend US = Sa 02:30 Berlin) faellt in Freitag-Tipps-Slot 05.06 13:30 und G3 (Mo-Abend US = Di 02:30 Berlin) faellt in Montag-Tipps-Slot 08.06 13:30. Sa-So-Slot ist im Juni 2026 (zwischen Klub-Saison-Ende und FIFA-WM-Start 11.06) somit strukturell leer. Erwartung 'mehr Spielmenge' ist im Mai 2026 oder September 2026+ valide, NICHT im Juni-Sommerpause-Fenster."
+  },
+  "footer": {
+    "rechtlich": "18+ - bet365 DE - Hobby-Wetten - keine Einkommensquelle",
+    "spielerschutz": "BZgA: 0800 1372700",
+    "quelle_recherche": "football-data.org v4 (Free Tier, HTTP 200 OK + count=0 fuer Global + alle 7 In-Scope-Comps Range 06.06-08.06), balldontlie.io v1 (Free, 0 Spiele am 06.+07.06 US-Datum = Wochenend-Pause, 1 Spiel am 08.06 US = G3 SAS @ NYK Mo 08.06 8:30 PM ET / Di 09.06 02:30 Berlin), WebSearch Verifikation via UEFA-Calendar / Premier-League-Summer-Calendar / NBC Sports / ESPN / NBA.com / NESN / FOX Sports (G2-Endstand 105-104 NYK + Serien-Stand 2-0 NYK + G3-Schedule), alle live abgefragt 06.06.2026 09:50 Berlin, keine Cache-Daten verwendet. Spielernamen heute NICHT erfunden (keine Spieler-Recherche noetig mangels In-Scope-Spielen). Quoten heute NICHT erfunden (keine In-Scope-Spiele -> keine Quoten zu recherchieren)."
+  }
+}
