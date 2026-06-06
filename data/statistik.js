@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-06-05T06:06:36+00:00",
+  "letzte_berechnung": "2026-06-06T06:16:51+00:00",
   "gesamt": {
-    "tipps": 298,
-    "gewonnen": 162,
-    "verloren": 125,
+    "tipps": 300,
+    "gewonnen": 163,
+    "verloren": 126,
     "push": 2,
     "offen": 9,
-    "einsatz": 289.0,
-    "netto": 29.01,
+    "einsatz": 291.0,
+    "netto": 28.92,
     "trefferquote": 56.4,
-    "roi_prozent": 10.0
+    "roi_prozent": 9.9
   },
   "letzte_30_tage": {
-    "tipps": 155,
-    "gewonnen": 76,
-    "verloren": 68,
+    "tipps": 147,
+    "gewonnen": 73,
+    "verloren": 63,
     "push": 2,
     "offen": 9,
-    "einsatz": 146.0,
-    "netto": 32.16,
-    "trefferquote": 52.8,
-    "roi_prozent": 22.0
+    "einsatz": 138.0,
+    "netto": 25.96,
+    "trefferquote": 53.7,
+    "roi_prozent": 18.8
   },
   "letzte_90_tage": {
-    "tipps": 298,
-    "gewonnen": 162,
-    "verloren": 125,
+    "tipps": 300,
+    "gewonnen": 163,
+    "verloren": 126,
     "push": 2,
     "offen": 9,
-    "einsatz": 289.0,
-    "netto": 29.01,
+    "einsatz": 291.0,
+    "netto": 28.92,
     "trefferquote": 56.4,
-    "roi_prozent": 10.0
+    "roi_prozent": 9.9
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -485,6 +485,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.0,
       "trefferquote": 50.0,
       "roi_prozent": 0.0
+    },
+    "NBA Finals 2026 Game 2": {
+      "tipps": 2,
+      "gewonnen": 1,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": -0.09,
+      "trefferquote": 50.0,
+      "roi_prozent": -4.5
     }
   },
   "nach_markt": {
@@ -3052,15 +3063,26 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 191.0
     },
     "San Antonio Spurs Sieg": {
-      "tipps": 2,
+      "tipps": 3,
       "gewonnen": 1,
-      "verloren": 1,
+      "verloren": 2,
       "push": 0,
       "offen": 0,
-      "einsatz": 2.0,
-      "netto": 0.0,
-      "trefferquote": 50.0,
-      "roi_prozent": 0.0
+      "einsatz": 3.0,
+      "netto": -1.0,
+      "trefferquote": 33.3,
+      "roi_prozent": -33.3
+    },
+    "Unter 214.5 Punkte (Gesamtspiel)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.91,
+      "trefferquote": 100.0,
+      "roi_prozent": 91.0
     }
   },
   "nach_markt_typ": {
@@ -3076,15 +3098,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 4.7
     },
     "Spieler-Punkte Unter (NBA)": {
-      "tipps": 11,
-      "gewonnen": 4,
+      "tipps": 12,
+      "gewonnen": 5,
       "verloren": 7,
       "push": 0,
       "offen": 0,
-      "einsatz": 11.0,
-      "netto": 0.63,
-      "trefferquote": 36.4,
-      "roi_prozent": 5.7
+      "einsatz": 12.0,
+      "netto": 1.54,
+      "trefferquote": 41.7,
+      "roi_prozent": 12.8
     },
     "Paolo Banchero Double-Double": {
       "tipps": 1,
@@ -3109,15 +3131,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 55.0
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 94,
+      "tipps": 95,
       "gewonnen": 55,
-      "verloren": 38,
+      "verloren": 39,
       "push": 0,
       "offen": 1,
-      "einsatz": 93.0,
-      "netto": 7.37,
-      "trefferquote": 59.1,
-      "roi_prozent": 7.9
+      "einsatz": 94.0,
+      "netto": 6.37,
+      "trefferquote": 58.5,
+      "roi_prozent": 6.8
     },
     "Torschuetzen Jederzeit": {
       "tipps": 44,
@@ -3529,15 +3551,15 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 147,
-      "gewonnen": 74,
+      "tipps": 148,
+      "gewonnen": 75,
       "verloren": 68,
       "push": 1,
       "offen": 4,
-      "einsatz": 143.0,
-      "netto": 12.87,
-      "trefferquote": 52.1,
-      "roi_prozent": 9.0
+      "einsatz": 144.0,
+      "netto": 13.78,
+      "trefferquote": 52.4,
+      "roi_prozent": 9.6
     },
     "2.00-3.00": {
       "tipps": 35,
@@ -3551,15 +3573,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 6.0
     },
     "1.00-1.50": {
-      "tipps": 101,
+      "tipps": 102,
       "gewonnen": 70,
-      "verloren": 27,
+      "verloren": 28,
       "push": 0,
       "offen": 4,
-      "einsatz": 97.0,
-      "netto": 7.55,
-      "trefferquote": 72.2,
-      "roi_prozent": 7.8
+      "einsatz": 98.0,
+      "netto": 6.55,
+      "trefferquote": 71.4,
+      "roi_prozent": 6.7
     },
     "3.00+": {
       "tipps": 15,
@@ -3597,15 +3619,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 10.3
     },
     "wackel": {
-      "tipps": 52,
-      "gewonnen": 24,
-      "verloren": 28,
+      "tipps": 54,
+      "gewonnen": 25,
+      "verloren": 29,
       "push": 0,
       "offen": 0,
-      "einsatz": 52.0,
-      "netto": 8.87,
-      "trefferquote": 46.2,
-      "roi_prozent": 17.1
+      "einsatz": 54.0,
+      "netto": 8.78,
+      "trefferquote": 46.3,
+      "roi_prozent": 16.3
     }
   },
   "clv_gesamt": {
@@ -3625,6 +3647,48 @@ window.__MIESMUSCHEL_STAT = {
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-06-05",
+      "gesamt": {
+        "tipps": 2,
+        "gewonnen": 1,
+        "verloren": 1,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 2.0,
+        "netto": -0.09,
+        "trefferquote": 50.0,
+        "roi_prozent": -4.5
+      },
+      "spiele": [
+        {
+          "id": "2026-06-06-sas-nyk",
+          "liga": "NBA Finals 2026 Game 2",
+          "heim": "San Antonio Spurs",
+          "gast": "New York Knicks",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "San Antonio Spurs Sieg",
+              "quote": 1.44,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Spurs verloren 104:105 - Wemby Game-Winner-Jumper am Ende verfehlt nach Brunson-Go-Ahead-FT 9.5s. Spurs nun 0-2 in der Serie. Heim-Bounce-Back-77%-These widerlegt fuer n=2 (G2 Heim-MUSS-Sieg verloren). Wemby 29/9 (22 in 2.HZ - Bounce-Back ja, Sieg nein). 0-2-NBA-Finals-Comeback-Statistik (7.7%) nun aktiv fuer Spurs."
+            },
+            {
+              "markt": "Unter 214.5 Punkte (Gesamtspiel)",
+              "quote": 1.91,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.91,
+              "kommentar": "Total 209 Punkte (104+105) - 5.5 Pkt unter 214.5-Linie GEWONNEN. Decider-Defensiv-These (Lesson 02.05) + Wemby-Bench-Comeback-Korridor (Lesson 03.06) validiert. Spurs-MUSS-Sieg-Pace-Reduktion + Knicks #1 Playoff-Defense gehalten. Spurs trotz 14-0-Run-Q4-Comeback und Wemby-22-pt-2.HZ-Eruption Total 209 unter Linie."
+            }
+          ]
+        }
+      ],
+      "kombis": []
+    },
     {
       "datum": "2026-05-28",
       "gesamt": {

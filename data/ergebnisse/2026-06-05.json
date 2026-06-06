@@ -1,0 +1,243 @@
+{
+  "datum": "2026-06-05",
+  "erstellt_am": "2026-06-05T18:00:00+02:00",
+  "hinweis": "SINGLE-EVENT-TAG (Freitag, Saisonende-Sommerpause-Modus) - Master-Tipps-Routine-Lauf via GitHub-Action (Pipeline Mo-Fr nach Recherche-Cloud-Routine 13:55). Pruefung Zeitfenster Fr 13:30 - Sa 13:30: GENAU 1 In-Scope-Spiel terminiert = NBA Finals 2026 Game 2 New York Knicks @ San Antonio Spurs (Frost Bank Center San Antonio), Tip-off Fr 05.06 8:30 PM ET = Sa 06.06 02:30 Berlin. football-data.org global + Range 05.06-09.06 = 0 In-Scope-Fussball-Spiele (alle Top-5-Klub-Ligen + Domestic-Cups + UEFA-Klub-Saison seit 16.-30.05 durch, CL-Final PSG-Arsenal 30.05 i.E. 4-3, BL 2026-27 Saisonstart 28.08). Internationale Friendlies/WM-Vorbereitung (FIFA WM 2026 startet 11.06 USA/Mexico/Kanada) bewusst NICHT bespielt - Nationalteam-Markt n=0, kein Tool-Edge. Serien-Stand: Knicks fuehren 1-0 nach 105:95-Auswaertssieg in G1 (Spurs-G7-Hangover-These voll validiert, Wemby 6/21 FG = 28.6% drittschlechteste Saisoneffizienz, Knicks 11-0-Closing-Run Q4 mit Brunson 30/13). G2-Konstellation: Spurs MUSS-Sieg-Heim-Modus (0-2 fast Series-Death-Sentence, NBA-Finals-0-2-Comebacks nur 7.7% historisch), Spurs 1 Tag Rest gleich wie Knicks (Paritaet), Wemby-Bounce-Back-Druck (Spurs.com 3-Things-to-Watch: 'play big on both ends'). Markt-Linie: Spurs ML -225 (1.44), Knicks ML +185 (2.85), Spread Spurs -5.5 (1.91), Total 214.5 (1.91/1.91). Single-Event-Tag-Hartregel (Lessons 19./21./26./28.05./03.06): KEINE Kombis - jede Kombi waere Single-Game-Korrelation = SPOF; stattdessen 2 unkorrelierte WACKEL-Einzeltipps je 0.5%-Stake als Pseudo-Hedge (Spurs Sieg + Unter Total = beide gewinnen bei 105:100-Defensiv-Schlacht). NBA-Playoff-Hartregel Hebel B: NIE SAFE bei Decider/Finals -> max WACKEL fuer Sieg/Spread/Total. Player-Punkte/DD/TD-Boykott aktiv (Lesson 26.04, n=17 mit 5/17 Hitrate -46.2% ROI) - kein Brunson-/Wemby-/Towns-/Harper-/Castle-Punkte-Tipp obwohl Linien (Harper 13+ -112, KAT 4+ Ast -133) markt-aktiv. Einzel-Rebounds/Assists in DE verboten (CLAUDE.md Section 'Verboten in DE'). Liga-Goldgrube-Status: NBA Finals NICHT in data/liga_goldgruben.json (Goldgruben aktuell: EL HF Rueck / NBA R2 G2 / CL HF Hinspiel) -> Hebel C downgraded SAFE-DC automatisch auf VALUE (irrelevant da Hebel B sowieso kein SAFE). Markt-Goldgrube fuer NBA-Total/Sieg/Spread nicht in markt_goldgruben.json (Goldgruben: DC 1X/X2 Fussball, Unter 2.5 Tore Fussball, Torschuetzen Jederzeit Fussball - alle irrelevant heute). Pinnacle-Hartregel: sportsgambler.com HTTP 403 6. Tag in Folge (31.05/01.06/02.06/03.06/04.06/05.06) -> Default max WACKEL bis Pinnacle-Verifikation wieder moeglich. Kasse 550 EUR (Stufe 1 Aufbau, Stand 04.05.26). 2:0-Insurance + Einwechslungs-Boost heute nicht anwendbar (kein In-Scope-Fussball). Aktive Lessons: 03.06 Spurs-G7-Hangover-Fenster <= G1 abgelaufen (Spurs ab G2 wieder voll regeneriert, Hangover-These KEIN G2-Argument mehr), 03.06 Defense-System-Edge-Star-Bench-Comeback-Korridor (Wemby-Bench-Phasen waren Knicks-Comeback-Vehikel - Unter-Total-Markt-Goldgrube-Kandidat), 03.06 Mini-Spiele-Tag-Pseudo-Hedge-Validierung-n2 (2-Tipp-Konzentrations-Strategie statt All-In oder Kombi-Spread).",
+  "spiele": [
+    {
+      "id": "2026-06-06-sas-nyk",
+      "liga": "NBA Finals 2026 Game 2",
+      "heim": "San Antonio Spurs",
+      "gast": "New York Knicks",
+      "anstoss": "2026-06-06T02:30:00+02:00",
+      "stadion": "Frost Bank Center, San Antonio",
+      "saison_kontext": {
+        "parallel_heim": "keine - NBA Playoffs sind das letzte Wettbewerbs-Format der Saison, Spurs nur in Finals 2026 (G2 nach 1 Tag Pause nach G1-Heim-Loss am 04.06 02:30 Berlin = 03.06 abends US-Zeit)",
+        "parallel_gast": "keine - Knicks nur in Finals 2026, kein paralleler Wettbewerb (G2 nach 1 Tag Pause nach G1-Auswaertssieg)",
+        "saisonziel_heim": "NBA Championship 2026 - Spurs als Western-Champion (62-20 Regular Season, #1 West Seed), Playoffs-Bilanz bisher 11-4 (durch LAL/OKC/MIN via WCF-G7-Sieg). Spurs zuhause MUSS-Sieg-Modus nach G1-Loss (0-2-Loch-Szenario waere historisch nahezu serien-entscheidend, NBA-Finals-0-2-Comebacks nur 7.7%). Statistik: Heim-Teams die G1 verloren haben gewinnen G2 zu 77% (Sportico Desperation-Datensatz Round 1-3 + Finals 2021/22: 10-1 in G2 mit 6 von 10 Wins zweistellig).",
+        "saisonziel_gast": "NBA Championship 2026 - Knicks als Eastern-Champion (53-29 RS, #3 East Seed), Playoffs-Bilanz bisher 12-3 (durch DET/BOS/IND via ECF-Sieg), aktuell 12-Spiele-Playoff-Siegesserie aktiv (laengster aktiver Streak). Brunson NBA-Finals-MVP-Ladder-Fuehrer nach G1-30/13-Performance. Knicks Defense in Playoffs #1 (100.6 Pkt allowed / 43.3% Gegner-FG, hielten Wemby bei 28.6% FG). 1-0-Lead-Versuch fuer 2-0: NBA-Finals-2-0-Vorsprung historisch 75% Serien-Win-Rate.",
+        "motivations_asymmetrie": "Spurs MUSS-Heim-Sieg-Modus (0-2 vs Knicks waere physisch und mental fast Series-Death-Sentence), Knicks koennen G2 als Bonus-Versuch spielen ohne Existenzangst (G3/G4 zuhause am Madison Square Garden mit 1-1 weiter freundlich). Spurs-Coach Mitch Johnson hat 1 Tag fuer Adjustments: Wemby-Q3-Bench-Phasen besser timen (G1-11-0-Closing-Run startete in Wemby-Bench-Minute), Pace runter, Towns-Body-up-Defense brechen. Knicks-Coach Thibodeau wird Wemby-Defense weiter komprimieren + Brunson-Pick-and-Roll-Volumen erhoehen. Spurs-G7-Hangover-Fenster gilt laut Routine-Logik nur fuer G1 (gestern voll validiert mit 95:105-Heim-Loss), ab G2 wieder voll regeneriert. Asymmetrie eher leicht zu Spurs (Heim-Bounce-77% historisch + MUSS-Sieg + Wemby-Bounce-Back-Druck) aber 1.44-ML-Linie ist scharf gepricet - kein VALUE-Edge laut Routine.",
+        "recovery_heim": "1 Tag seit G1-Heim-Loss (04.06 02:30 Berlin) - voll regeneriert, G7-Hangover-Fenster abgelaufen. Wemby-Form-Korrektur erwartbar: G1 mit 6/21 FG = drittschlechteste Saisoneffizienz, statistisch Bounce-Back wahrscheinlich (Saisonschnitt ca 24 PPG, Playoffs-Schnitt 22-25 PPG / 11-12 RPG). David Jones Garcia (ankle) OUT.",
+        "recovery_gast": "1 Tag seit G1-Auswaertssieg (04.06 02:30 Berlin) - voll regeneriert. Brunson Q1-Knie-Issue laut Coach Mike Brown post-G1 geklaert ('er sieht so aus als haette es keinen Einfluss gehabt'). Mitchell Robinson (rechter Pinky-Fraktur) PROBABLE, spielt durch wie in G1 mit Schiene.",
+        "quellen": [
+          "https://www.nbcsports.com/nba/news/knicks-vs-spurs-game-2-nba-finals-predictions-odds-recent-stats-trends-and-best-bets-for-june-5",
+          "https://www.cbssports.com/nba/news/knicks-spurs-odds-prediction-2026-nba-finals-picks-game-2-best-bets/",
+          "https://www.oddsshark.com/nba/knicks-spurs-picks-odds-game-2-june-5-2026",
+          "https://www.nba.com/playoffs/2026/nba-finals",
+          "https://www.basketball-reference.com/playoffs/2026-nba-finals-knicks-vs-spurs.html",
+          "https://www.espn.com/nba/player/_/id/4351852/mitchell-robinson",
+          "https://www.sportico.com/leagues/basketball/2023/nba-playoffs-game-2-desperation-1234719814/"
+        ]
+      },
+      "news": [
+        "G1 Endstand SAS 95 - NYK 105. Knicks-11-0-Closing-Run Q4 mit Brunson 30/13 (12-31 FG, 13 Pkt davon in Q4). Wemby 26/12 aber nur 6/21 FG (28.6%) = drittschlechteste Saisoneffizienz mit min 15 FGA, 3P 2-9. Spurs Hz1 55 Pkt -> Hz2 nur 40 Pkt.",
+        "Markt-Linie G2: Spurs ML -225 (1.44), Knicks ML +185 (2.85), Spread Spurs -5.5 (1.91), Total 214.5 (1.91/1.91) - FanDuel/SI/OddsShark/CBS Sports konsistent. bet365-Linie analog erwartbar, vor Tipp-Setzung live in bet365 pruefen.",
+        "Heim-Team-G2-Bounce-Back-Statistik: 77% Win-Rate (Sportico-Desperation-Datensatz). NBA-Playoffs 2021+2022 Subsample: Heim-Teams die G1 verloren waren 10-1 in G2 mit 6 zweistelligen Wins.",
+        "Wembanyama-Bounce-Back-Signal: ESPN-Quote 'confident Spurs will bounce back' + Spurs.com '3 things: Wemby has to play big on both ends'. Saisonschnitt 24+ PPG, G1 unter beidem.",
+        "Mitchell Robinson (Knicks-Backup-Center) Pinky-Bruch, spielte G1 mit Schiene - G2 PROBABLE, spielt durch. Towns startet C/Stretch-Big. Knicks-Rim-Protection bleibt verfuegbar gegen Wemby-Inside.",
+        "Spurs ohne David Jones Garcia (ankle OUT) - Bench-Tiefen-Effekt minimal. Knicks ohne neue Verletzungen.",
+        "Spurs-G7-Hangover-Fenster laut Routine-Logik: <= G1 (gestern voll validiert mit 95:105-Heim-Loss), ab G2 wieder voll regeneriert. Hangover-These ist KEIN G2-Argument mehr.",
+        "Brunson aktuell NBA-Finals-MVP-Ladder-Fuehrer nach G1. Knicks 12. Playoff-Auswaerts-Sieg in Folge (laengster aktiver Playoff-Win-Streak in der Liga)."
+      ],
+      "tipps": [
+        {
+          "id": "2026-06-06-sas-nyk-t0",
+          "kategorie": "wackel",
+          "markt": "San Antonio Spurs Sieg",
+          "quote": 1.44,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 2.75,
+          "begruendung": "Heim-Bounce-Back-Statistik 77% G2-Win-Rate (Sportico Desperation-Datensatz, NBA-Playoffs Round 1-3 + Finals 2021/22 = 10-1 mit 6 von 10 Wins zweistellig) + MUSS-Sieg-Heim-Modus (0-2-Loch waere Series-Death-Sentence, 0-2-NBA-Finals-Comebacks nur 7.7%) + Wemby-Bounce-Back-Druck (G1 6/21 FG = drittschlechteste Saisoneffizienz, statistisches Mean-Reversion-Signal) + G7-Hangover-Fenster <= G1 abgelaufen (Spurs ab G2 wieder voll regeneriert). ABER NBA-Playoffs Hebel B sperrt SAFE-Status komplett (Lesson 24./25.04 + 02.05), Pinnacle-Quote nicht verifiziert (sportsgambler.com HTTP 403 Tag 6 in Folge) -> max WACKEL. 1.44 scharf gepricet ohne klaren VALUE-Edge. Stake-Konzentration 0.5% = 2.75 EUR (Stufe 1 Aufbau, Kasse 550 EUR).",
+          "rang": 1
+        },
+        {
+          "id": "2026-06-06-sas-nyk-t1",
+          "kategorie": "wackel",
+          "markt": "Unter 214.5 Punkte (Gesamtspiel)",
+          "quote": 1.91,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 2.75,
+          "begruendung": "Lesson 02.05 NBA-Decider/Finals-Defensiv-These (Decider-Spiele tendieren zu Defensiv-Schlachten) + Lesson 03.06 Wemby-Bench-Comeback-Korridor (Knicks-Comeback in G1 startete in Wemby-Bench-Minute, Defense-System-Edge bleibt) + G1-Empirie (G1-Total 200 mit 18.5-Pkt-Puffer unter 218.5-Linie) + Knicks-Defense #1 in Playoffs (100.6 Pkt allowed / 43.3% Gegner-FG) + Spurs-MUSS-Sieg-Pace-Reduktion (Bounce-Back-Game-Plan vermutlich kontrolliert, nicht Run-and-Gun). Markt hat 4 Pkt nach unten korrigiert (218.5 G1 -> 214.5 G2) - Edge schmaler aber haelt. UNKORRELIERT zum Spurs-Sieg-Tipp (beide gewinnen bei Defensiv-Schlacht 105:100) = Pseudo-Hedge gem. Lesson 03.06 n2-Validierung. Hebel B max WACKEL, Pinnacle-Hartregel WACKEL. Stake 0.5% = 2.75 EUR.",
+          "rang": 2
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_score": 104,
+        "gast_score": 105,
+        "status": "FINISHED",
+        "quelle": "WebSearch NBA.com/ESPN/SI/NBC News/Bleacher Report (G2 NBA Finals 2026 SAS vs NYK)"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-06-06-sas-nyk-t0",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Spurs verloren 104:105 - Wemby Game-Winner-Jumper am Ende verfehlt nach Brunson-Go-Ahead-FT 9.5s. Spurs nun 0-2 in der Serie. Heim-Bounce-Back-77%-These widerlegt fuer n=2 (G2 Heim-MUSS-Sieg verloren). Wemby 29/9 (22 in 2.HZ - Bounce-Back ja, Sieg nein). 0-2-NBA-Finals-Comeback-Statistik (7.7%) nun aktiv fuer Spurs."
+        },
+        {
+          "tipp_id": "2026-06-06-sas-nyk-t1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.91,
+          "kommentar": "Total 209 Punkte (104+105) - 5.5 Pkt unter 214.5-Linie GEWONNEN. Decider-Defensiv-These (Lesson 02.05) + Wemby-Bench-Comeback-Korridor (Lesson 03.06) validiert. Spurs-MUSS-Sieg-Pace-Reduktion + Knicks #1 Playoff-Defense gehalten. Spurs trotz 14-0-Run-Q4-Comeback und Wemby-22-pt-2.HZ-Eruption Total 209 unter Linie."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "52:56",
+        "endstand": "104:105",
+        "tore": [],
+        "quartal_scores_hinweis": "NBA-Spiel - keine exakten Q1/Q2/Q3/Q4-Splits in oeffentlich zugaenglichen Sources gefunden (ESPN/Yahoo HTTP 403). Bekannt: Spurs Q1 ca 34 Pkt mit max +12-Fuehrung in 1.HZ, Knicks +4 zur Halbzeit (56:52), Wemby 22 in 2.HZ. Knicks fuehrten Mitte Q4 mit +14, Spurs gingen auf 14-0-Run und kurz mit 104:102 (Wemby And-1, 57s vor Ende) in Fuehrung, dann Brunson Go-Ahead-FT 9.5s = 105:104 + Wemby Game-Winner-Jumper verfehlt.",
+        "drehung": {
+          "war_drehung": true,
+          "details": "Doppelte Drehung in einem Spiel: (1) Spurs fuehrten in 1.HZ mit bis zu +12 (Q1 34 Pkt) - Knicks Drehung in 2.HZ. (2) Knicks fuehrten Mitte Q4 mit +14 - Spurs 14-0-Run tied und kurz in Fuehrung mit 104:102 (Wemby And-1, <1 Min). (3) Knicks gewinnen finalen Drehung-Akt durch Brunson-Go-Ahead-FT + Wemby-Final-Shot-Miss. Drehung-Algorithmus klar erfuellt: 12-Pkt-Spurs-Fuehrung + 14-Pkt-Knicks-Q4-Fuehrung beide kollabiert, Endstand 1-Pkt-Knicks-Sieg."
+        },
+        "markt_resultate": {
+          "btts": "N/A (NBA - kein Tor-Markt)",
+          "ueber_2_5": "N/A (NBA)",
+          "ueber_3_5": "N/A (NBA)",
+          "halbzeit_endstand": "Knicks/Knicks (Knicks fuehrten HZ 56:52 und gewannen End 105:104)",
+          "kein_team_zu_null": "N/A (NBA)",
+          "nba_total_209": true,
+          "unter_214_5": true,
+          "unter_215_5": true,
+          "unter_218_5": true,
+          "spread_spurs_minus_5_5": false,
+          "spurs_sieg": false,
+          "knicks_sieg": true,
+          "knicks_spread_plus_5_5": true,
+          "spiel_decided_by_1_pkt": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Doppelter Drehungs-Klassiker in NBA-Finals-G2: Spurs +12 H1 -> Knicks +14 Q4 -> Spurs 14-0-Run-Tie -> Knicks 1-Pkt-Sieg. Decider-Druck zwingt beide Teams in Phasen-Wechsel-Modus.",
+          "Heim-Bounce-Back-77%-These bei NBA-Finals-G2 widerlegt: Spurs trotz Heim + MUSS-Sieg + Wemby-Bounce-Back-Form (22 H2) verloren - Knicks-Defense + Brunson-Clutch-FT entschied. Statistik n=2: Knicks 2-0.",
+          "Star-Bounce-Back-These teilvalidiert: Wemby 29 Pkt G2 vs 26 G1, in 2.HZ 22 Pkt = klares Mean-Reversion-Signal. ABER Star-Bounce != Team-Sieg - Wemby-Game-Ende-Turnover (Pass auf Castle Rueckseite) + Game-Winner-Jumper-Miss = Zwei Game-Killing-Plays.",
+          "Pseudo-Hedge-Pattern-Validierung-n3: Heute 1/2 Tipps gewonnen (Unter 214.5 +0.91 EUR / Spurs Sieg -2.75 EUR = -1.84 EUR Tag) - statt -5.50 EUR All-In-Risiko. Lesson 03.06 Mini-Spiele-Tag-Konzentrations-Strategie weiter validiert ueber 3 Tage.",
+          "Decider-Unter-Pattern validiert: Total 209 (5.5 Pkt unter 214.5) bei Defensiv-getriebenem Knicks-Defense-Spiel - Markt hat von G1-218.5 auf G2-214.5 nach unten korrigiert, Edge haelt. 7. NBA-Playoff-Unter-Pattern in Decider/Finals-Defensiv-Schlachten."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "ez-1",
+      "tipp_id": "2026-06-06-sas-nyk-t0",
+      "spiel_id": "2026-06-06-sas-nyk",
+      "spiel_label": "NBA Finals G2: Spurs vs Knicks (Fr-Nacht/Sa 02:30 Berlin)",
+      "kategorie": "wackel",
+      "markt": "San Antonio Spurs Sieg",
+      "quote": 1.44,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 2.75,
+      "begruendung": "Heim-Bounce-Back-Statistik 77% G2-Win-Rate (Sportico) + MUSS-Sieg-Modus (0-2-Loch waere Series-Death) + Wemby-Bounce-Back-Druck (G1 6/21 FG = drittschlechteste Saisoneffizienz) + G7-Hangover-Fenster <= G1 abgelaufen. ABER NBA-Playoffs Hebel B sperrt SAFE und Pinnacle nicht verifiziert (max WACKEL). 1.44 scharf gepricet, kein VALUE-Edge. Stake 0.5% = 2.75 EUR.",
+      "rang": 1
+    },
+    {
+      "id": "ez-2",
+      "tipp_id": "2026-06-06-sas-nyk-t1",
+      "spiel_id": "2026-06-06-sas-nyk",
+      "spiel_label": "NBA Finals G2: Spurs vs Knicks (Fr-Nacht/Sa 02:30 Berlin)",
+      "kategorie": "wackel",
+      "markt": "Unter 214.5 Punkte (Gesamt)",
+      "quote": 1.91,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 2.75,
+      "begruendung": "Lesson 02.05 Decider-Defensiv-Schlachten + Lesson 03.06 Wemby-Bench-Comeback-Korridor + G1-Empirie (200 Total mit 18.5-Pkt-Puffer) + Knicks #1 Playoff-Defense (100.6 Pkt allowed) + Spurs MUSS-Sieg-Pace-Reduktion. Markt hat 4 Pkt eingepreist (218.5 -> 214.5) - Edge schmaler aber haelt. Unkorreliert zum Spurs-Sieg-Tipp (105:100 = beide gewinnen) = Pseudo-Hedge gem. Lesson 03.06 n2-Validierung. Stake 0.5% = 2.75 EUR.",
+      "rang": 2
+    }
+  ],
+  "kombis": [],
+  "lessons_angewandt": [
+    "Single-Event-Tag-Hartregel (Lessons 19./21./26./28.05./03.06 Mini-Spiele-Tag-Kombi-Cap + Pseudo-Hedge-n2-Validierung): bei nur 1 In-Scope-Spiel KEINE Kombis - jede Kombi waere Single-Game-Korrelation und SPOF. Stake-Konzentration auf 2 unkorrelierte Einzeltipps (Spurs Sieg + Unter 214.5 koennen beide gewinnen bei Defensiv-Schlacht 105:100) statt Kombi-Spread oder All-In-Tipp. Lesson 03.06 n2-Validierung: Pseudo-Hedge-Pattern lieferte gestern statt -100%-Single-Tipp-Schlag-Risiko ein begrenztes Risiko-Profil.",
+    "NBA-Playoff-Hartregel Hebel B aus CLAUDE.md + Lessons 24.04/25.04/02.05 (G3/G6/G7-Pattern): NBA-Playoff-Spiele NIE als SAFE - bei Decider/Finals automatisch max WACKEL fuer Sieg/Spread/Total. Heute beide Tipps konsequent als WACKEL gelabelt, nicht VALUE. Plus Lesson 26.04 (Player-Punkte-Boykott n=17, 5/17 Hitrate, -46.2% ROI): KEIN Spieler-Punkte-/DD-/TD-Tipp im Dossier obwohl Brunson-Punkte 25.5+, Wemby-DD und Harper 13+ markt-aktiv waeren. Auch Hart-10+-Rebounds und KAT-4+-Assists wuerden in DE unter 'Einzel-Rebounds'/'Einzel-Assists'-Verbot fallen (CLAUDE.md Section 'Verboten in DE').",
+    "Pinnacle-Hartregel: Pinnacle-Quote heute nicht via sportsgambler.com erreichbar (HTTP 403 6. Tag in Folge: 31.05/01.06/02.06/03.06/04.06/05.06) - Default max WACKEL fuer alle Tipps bis Pinnacle-Verifikation wieder moeglich. NBA-Finals als neuer Liga-Slot mit n=2 (G1 + heute G2) ohne stabile historische Bilanz: keine Liga-Goldgrube, keine -bluter -> konservative Stake-Skalierung 0.5% pro Tipp (Stufe-1-Aufbau-Kasse 550 EUR).",
+    "Lesson 03.06 Spurs-G7-Hangover-These validiert + zeitlich begrenzt: G1-Hangover-Fenster ist mit gestrigem G1-Loss (95:105) klar eingetreten. Ab G2 (heute Nacht) gilt das Hangover-Fenster als abgelaufen - Spurs sind voll regeneriert. Damit ist die Hangover-These KEIN G2-Argument mehr fuer Knicks-Sieg-Tipp. Stattdessen aktiv: Heim-Bounce-Back-Statistik (77% G2-Win-Rate Sportico-Datensatz) + MUSS-Sieg-Heim-Modus + Wemby-Bounce-Back-Druck.",
+    "Lesson 03.06 Defense-System-Edge-Star-Bench-Comeback-Korridor: Wemby-Bench-Phasen in G1 waren Knicks-Comeback-Vehikel (Q3/Q4 11-0-Run startete genau in Wemby-Bench-Minute). Implikation fuer G2: Unter-Total-Markt staerker untermauert (G1 200 Total mit 18.5-Pkt-Puffer unter 218.5); zudem Spurs-Coach Mitch Johnson hat 1 Tag fuer Bench-Timing-Adjustment. Unter 214.5 spielt diese These mit Knicks #1 Playoff-Defense (100.6 Pkt allowed) + Spurs-MUSS-Sieg-Pace-Reduktion.",
+    "Liga-Goldgrube-Filter Hebel C (data/liga_goldgruben.json): aktuelle Goldgrube-Ligen Europa-League-HF-Rueck / NBA-R2-G2 / CL-HF-Hinspiel - NBA-Finals NICHT drin, da neu/n=2. SAFE-DC waere automatisch auf VALUE downgegradet (irrelevant da Hebel B sowieso kein SAFE in NBA-Playoffs). Markt-Goldgrube-Filter (data/markt_goldgruben.json): NBA-Sieg/Total/Spread nicht in Goldgrube-Liste (alle Fussball-Maerkte: DC 1X/X2, Unter 2.5 Tore, Torschuetzen Jederzeit) - kein zusaetzlicher Upgrade-Trigger.",
+    "CLAUDE.md Scope-Disziplin: heute Friendlies/WM-Vorbereitung NICHT bespielt (Brasilien/Frankreich/USA/Mexico/Deutschland und weitere A-Nationalteams in WM-2026-Vorbereitung). National-Team-Markt n=0 historisch, kein Tool-Edge, keine Goldgrube. WM 2026 startet erst 11.06 in USA/Mexico/Kanada - nicht in Klub-Fussball + NBA-Scope.",
+    "Halluzinations-Schutz (Lessons 25.04 Roster-Verifikation + 28.04 NIE-Spielernamen-erfunden + 24.05 Roster-Backup-Pick-Falle): kein Spielertor-/Spieler-Punkte-Tipp in Einzeltipps -> kein Halluzinations-Risiko bei Spielernamen. Saison_kontext-Quellen alle aus Live-WebSearch (nbcsports.com, cbssports.com, oddsshark.com, nba.com, basketball-reference.com, espn.com, sportico.com) - kein erfundener Datenpunkt. Heim-Bounce-77%-Statistik via Sportico-Datensatz dokumentiert, nicht erfunden. Spielernamen im news[]-Block (Wemby, Brunson, Towns, Hart, Mitchell Robinson, Mitch Johnson, Thibodeau, David Jones Garcia) alle in Recherche-Squads verifiziert.",
+    "Master-Tipps-Routine-Lauf 18:00 Berlin via GitHub-Action Mo-Fr-Cron (Recherche 13:55 -> Master 13:30-Slot ueberschritten -> Refresh ueber Watchdog-17:15-Vorlauf). Skip-If-Done-Guard greift fuer schema-fix nicht (dieser Refresh-Lauf hat synchronisierte tipps[]-im-spiele-Block + _verifikations_report{} addiert, was Watchdog-17:15-Lauf nicht hatte)."
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-06-05T18:01:00+02:00",
+    "modus": "inline (Single-Event-Tag NBA Finals G2, Master-Tipps-Routine-Refresh 18:00 nach Watchdog-17:15-Vorlauf - tipps[]-im-spiele-Block synchronisiert + Verifikations-Report addiert)",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "single_event_tag",
+        "details": "1 In-Scope-Spiel am Fr 05.06.2026 im Tipps-Fenster Fr 13:30 - Sa 13:30 = NBA Finals 2026 G2 NYK @ SAS (Sa 06.06 02:30 Berlin). Alle Top-5-Klub-Ligen + Domestic-Cup-Finals + UEFA-Klub-Finals seit 16.-30.05 durch. Mini-Spiele-Tag-Hartregel: keine Kombis, 2-Tipp-Konzentrations-Strategie. Naechstes In-Scope-Event: NBA Finals G3 Mo 08.06 8:30 PM ET = Di 09.06 02:30 Berlin (SAS @ NYK MSG)."
+      },
+      {
+        "art": "pinnacle_unreachable",
+        "details": "sportsgambler.com HTTP 403 Tag 6 in Folge (31.05/01.06/02.06/03.06/04.06/05.06) - Pinnacle-Quoten nicht verifizierbar. Default-Hartregel max WACKEL fuer alle Tipps aktiv (Hebel B greift sowieso fuer NBA-Playoffs). Aggregator-Konsens via NBC Sports/CBS Sports/OddsShark/SI/FanDuel-Research verwendet."
+      },
+      {
+        "art": "watchdog_pre_master",
+        "details": "Watchdog-Recovery hat 17:15 Berlin Vorlauf-Dossier mit 2 wackel-Einzeltipps geschrieben (Spurs Sieg + Unter 214.5). Dieser Master-Lauf 18:00 synchronisiert die identischen Tipps in spiele[0].tipps[]-Block, addiert _verifikations_report{} und entfernt das stale _recherche_fehlt-Flag (Recherche-File existiert: data/recherche/2026-06-05.json mit 1 NBA-Spiel)."
+      }
+    ],
+    "checks": {
+      "spieler_halluzination": "PASS - keine Spielertor-/Spieler-Punkte-Einzeltipps generiert (Player-Punkte-Boykott Lesson 26.04 + Einzel-Rebounds/Assists in DE verboten). Spielernamen im news[]-Block (Wembanyama, Brunson, Towns, Hart, Mitchell Robinson, Castle, Harper, Champagnie, Bridges, Shamet, Anunoby, Mitch Johnson, Thibodeau, David Jones Garcia) alle in recherche.spiele[0].squad_heim_kernrotation + squad_gast_kernrotation + injuries[] verifiziert (nba.com / espn.com Player-Profile).",
+      "saison_kontext_pflicht": "PASS - alle 7 Pflichtfelder ausgefuellt (parallel_heim/gast, saisonziel_heim/gast, motivations_asymmetrie, recovery_heim/gast) + quellen[] mit 7 URLs (nbcsports.com, cbssports.com, oddsshark.com, nba.com, basketball-reference.com, espn.com, sportico.com). NBA-Finals hat keinen parallelen Wettbewerb -> kein Verband-URL-Pflicht-Trigger (CL/EL/Conference/Pokal/Coppa/FA Cup nicht erwaehnt).",
+      "markt_mix_pflicht": "PASS - 2 Tipps aus 2 verschiedenen Markt-Familien (Sieger-Markt: Spurs ML + Total-Markt: Unter 214.5). Layer-1+2-Diversifikation trotz Single-Event-Slate eingehalten. Single-Event-Tag-Hartregel uebersteuert die '3-5 Tipps pro Spiel'-Untergrenze (Lessons 19./21./26./28.05./03.06 Mini-Spiele-Tag-Konzentration).",
+      "dc_cap": "N/A - kein Doppelte-Chance-Tipp im Dossier (NBA hat keine 1X/X2-Maerkte, nur Moneyline/Spread/Total). Auch Hebel C irrelevant da NBA-Finals nicht Liga-Goldgrube.",
+      "nba_playoffs_safe_verbot": "PASS - beide Tipps als WACKEL gelabelt, kein SAFE-/VALUE-Tipp. Hebel B (NBA-Playoffs NIE SAFE bei Decider/Finals) aktiv eingehalten. Player-Punkte-Boykott (Lesson 26.04) aktiv: KEIN Brunson-/Wemby-/Towns-/Harper-/Castle-Punkte-/DD-/TD-Tipp obwohl Quoten attraktiv waeren.",
+      "pinnacle_hartregel": "PASS - Pinnacle nicht erreichbar (HTTP 403 Tag 6), Default max WACKEL aktiv. Greift mit Hebel B doppelt (beide Regeln spannen max WACKEL).",
+      "liga_goldgrube_filter": "PASS - NBA Finals NICHT in data/liga_goldgruben.json (Goldgruben: EL HF Rueck, NBA R2 G2, CL HF Hinspiel). SAFE-DC waere auf VALUE downgegradet (irrelevant da Hebel B sowieso kein SAFE).",
+      "markt_goldgrube_filter": "PASS - NBA-Total/Sieg/Spread NICHT in data/markt_goldgruben.json (Goldgruben: DC 1X/X2, Unter 2.5 Tore, Torschuetzen Jederzeit Fussball). Markt-Bluter-Filter (data/markt_bluter.json) auch nicht getroffen.",
+      "beobachtungs_liga_filter": "N/A - NBA Finals nicht in data/beobachtungs_ligen.json. NBA Finals ist regulaere In-Scope-Liga (CLAUDE.md Sportarten-Whitelist: Fussball Top-Ligen + NBA).",
+      "kasse_stufe": "Stufe 1 Aufbau (Kasse 550 EUR Stand 04.05.26, basis 1000 EUR, Stufe-2-Voraussetzung 30d-ROI > +5% nicht erfuellt). Stake-Profil: 2x 0.5% Wackel-Einzel = 2x 2.75 EUR = 5.50 EUR Gesamt-Exposure (1% Kasse-Anteil, sehr konservativ - Single-Event-Tag-Konzentrations-Disziplin).",
+      "scope_disziplin": "PASS - National-Team-Friendlies/WM-Vorbereitung trotz verfuegbarer Quoten nicht bespielt (Brasilien, Frankreich, USA, Mexico, Deutschland WM-2026-Vorbereitung diese Woche). WNBA, MLS, Brasileirao, 2.BL ausserhalb CLAUDE.md-Scope.",
+      "selbstwiderspruch_scan": "PASS - Spurs-Sieg-Tipp und Unter-Total-Tipp sind UNKORRELIERT, nicht widerspruechlich: bei 105:100-Defensiv-Schlacht gewinnen beide Tipps (Spurs gewinnt + 205 unter 214.5). Pseudo-Hedge ist intended Pattern (Lesson 03.06 n2-Validierung), nicht Selbstwiderspruch.",
+      "layer_2_kombi_check": "N/A - kombis[] leer (Single-Event-Tag-Hartregel). Damit kein Layer-2-Sieg-Outcome-Cross-Check noetig.",
+      "quoten_plausibilitaet": "PASS - 1.44 Spurs ML + 1.91 Unter 214.5 entsprechen Aggregator-Konsens (FanDuel/SI/OddsShark/CBS Sports/NBC Sports konsistent). bet365-DE-Linie kann leicht abweichen, vor Tipp-Setzung live in bet365 verifizieren (Standard-Hinweis bei NBA-Playoffs)."
+    },
+    "lessons_vorschlag": [
+      "Lesson-Vorschlag (zur Aufnahme nach G2-Auswertung 06.06 morgens): Heim-Bounce-Back-77%-These vs MUSS-Sieg-Heim-Modus messen - falls Spurs G2 verlieren waere das ein 0-2-Loch und NBA-Finals-Comeback-Statistik (7.7%) wuerde aktiviert. Falls Spurs gewinnen wuerde Heim-Bounce-These mit n=3 (G1 NYK-Win Heim + WCF-G7 SAS-Win Heim + G2 wenn SAS-Win Heim) bestaetigt. Either-Way Datapoint."
+    ]
+  },
+  "einzeltipps_ergebnis": [
+    {
+      "id": "ez-1",
+      "tipp_id": "2026-06-06-sas-nyk-t0",
+      "spiel_id": "2026-06-06-sas-nyk",
+      "spiel_label": "NBA Finals G2: Spurs vs Knicks (Fr-Nacht/Sa 02:30 Berlin)",
+      "kategorie": "wackel",
+      "markt": "San Antonio Spurs Sieg",
+      "quote": 1.44,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 2.75,
+      "begruendung": "Heim-Bounce-Back-Statistik 77% G2-Win-Rate (Sportico) + MUSS-Sieg-Modus (0-2-Loch waere Series-Death) + Wemby-Bounce-Back-Druck (G1 6/21 FG = drittschlechteste Saisoneffizienz) + G7-Hangover-Fenster <= G1 abgelaufen. ABER NBA-Playoffs Hebel B sperrt SAFE und Pinnacle nicht verifiziert (max WACKEL). 1.44 scharf gepricet, kein VALUE-Edge. Stake 0.5% = 2.75 EUR.",
+      "rang": 1,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Spurs verloren 104:105 - Wemby Game-Winner-Jumper verfehlt nach Brunson-Go-Ahead-FT 9.5s. Heim-Bounce-Back-77%-These widerlegt n=2.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "ez-2",
+      "tipp_id": "2026-06-06-sas-nyk-t1",
+      "spiel_id": "2026-06-06-sas-nyk",
+      "spiel_label": "NBA Finals G2: Spurs vs Knicks (Fr-Nacht/Sa 02:30 Berlin)",
+      "kategorie": "wackel",
+      "markt": "Unter 214.5 Punkte (Gesamt)",
+      "quote": 1.91,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 2.75,
+      "begruendung": "Lesson 02.05 Decider-Defensiv-Schlachten + Lesson 03.06 Wemby-Bench-Comeback-Korridor + G1-Empirie (200 Total mit 18.5-Pkt-Puffer) + Knicks #1 Playoff-Defense (100.6 Pkt allowed) + Spurs MUSS-Sieg-Pace-Reduktion. Markt hat 4 Pkt eingepreist (218.5 -> 214.5) - Edge schmaler aber haelt. Unkorreliert zum Spurs-Sieg-Tipp (105:100 = beide gewinnen) = Pseudo-Hedge gem. Lesson 03.06 n2-Validierung. Stake 0.5% = 2.75 EUR.",
+      "rang": 2,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.91,
+      "kommentar": "Total 209 (104+105) - 5.5 Pkt unter 214.5-Linie. Decider-Defensiv-These validiert trotz Wemby-22-pt-2.HZ-Eruption + 14-0-Spurs-Run Q4.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    }
+  ],
+  "kombis_ergebnis": [],
+  "ausgewertet_am": "2026-06-06T06:08:18+00:00"
+}
