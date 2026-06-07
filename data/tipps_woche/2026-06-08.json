@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS_WOCHE = {
+{
   "datum": "2026-06-08",
   "erstellt_am": "2026-06-07T18:00:00+02:00",
   "hinweis": "Wochen-Vorschau Mo 08.06. bis So 14.06.2026 - DIE WOCHE in der die WM-2026 startet! 16 In-Scope-Spiele: 5 letzte WM-Test-Friendlies Mo-Mi (Liga-Goldgrube 85.7% HR / +36.5% ROI), dann 9 WM-2026-Opening-Spiele Do-So (Mexico-South Africa Do 21:00 Berlin im Azteca = Eroeffnung, dann USA-Paraguay Sa nacht, Brazil-Morocco Sa nacht, Germany-Curacao So 19:00, etc.), plus NBA-Finals G3 Tu 02:30 + G4 Th 02:30 Berlin (Knicks fuehren 2-0). Best-of-Charakter: 12 Top-Picks (nicht 25 Volumen), 4 Kombis mit Layer-1/2/3-Diversifikation. Goldgruben aktiv gesucht: Markt 'Ueber 2.5 Tore' +29% / 'Unter 2.5' +39.9% / 'Torschuetzen Jederzeit' +23.4% / Liga 'WM-Test' 85.7%. WM-Spiele NICHT in Liga-Goldgrube - SAFE-Cap durch Mapper-Hebel C (max VALUE wenn Markt-Typ ebenfalls nicht Goldgrube). NBA-Finals KEIN SAFE (Mapper-Hebel B) + KEIN Player-Punkt-Einzeltipp (HR16 seit 26.04.). Quoten 7d vorher VOLATIL - viele Tipps mit '~' und verifiziert via Aggregator-Konsens (Squawka/BetMGM/Sportskeeda/Oddschecker/FanDuel). Kasse 550 EUR Stufe 1 (Aufbau). Pflicht-Profile pro Spiel beachtet: bei jedem Heim-Favorit (<1.80) MIN 1 Torschuetzen + Sieg/DC-Tipp. Lessons 24.05 (Vinicius-Vereinssperre als Roster-Falle) + 06.06 (Klassen-Edge realisiert sich als Sieg statt Tor-Anzahl bei B-Elf-Schon) + 07.06 (Boost-Massen-HZ-Sub-Falle + Ueber25-WM-Test-80pct-Validation) eingearbeitet.",
@@ -1483,4 +1482,4 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
     }
   ],
   "footer": "18+ - bet365 DE - Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst."
-};
+}
