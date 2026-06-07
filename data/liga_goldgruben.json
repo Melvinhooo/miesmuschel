@@ -1,5 +1,5 @@
 {
-  "stand": "2026-06-06T06:16:51+00:00",
+  "stand": "2026-06-07T06:16:45+00:00",
   "kriterium": "ROI > 15.0% ODER (Trefferquote >= 65.0% UND ROI > 0%) bei min. 5 Tipps",
   "wirkung": "Schema-Mapper bestaetigt SAFE-Tipps in diesen Ligen. Andere SAFE-Tipps werden auf VALUE downgegradet wenn der Markt-Typ nicht in markt_goldgruben.json ist (Hebel C ROI-Sanierung 04.05.).",
   "ligen": [
@@ -16,6 +16,13 @@
       "trefferquote": 37.5,
       "roi_prozent": 56.2,
       "netto": 4.5
+    },
+    {
+      "liga": "Internationales Freundschaftsspiel (WM-Test)",
+      "tipps": 14,
+      "trefferquote": 85.7,
+      "roi_prozent": 36.5,
+      "netto": 5.11
     },
     {
       "liga": "Champions League Halbfinale, Hinspiel",

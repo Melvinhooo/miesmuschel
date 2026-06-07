@@ -1,0 +1,1367 @@
+{
+  "datum": "2026-06-06",
+  "erstellt_am": "2026-06-06T10:50:00+02:00",
+  "hinweis": "Letzter grosser WM-Test-Sa vor dem WM-Start (11.06.). 5 Marquee-Friendlies: Portugal-Chile, Belgien-Tunesien, USA-Deutschland, England-NZ, Brasilien-Aegypten. Liga-Goldgrube-Status: KEINE (Friendlies sind nicht in der Statistik) -> KEIN SAFE-DC (Hebel C downgraded sonst). Stattdessen Torschuetzen-Goldgrube (+21.3% ROI) + Ueber 2.5 Goldgrube (+30.2% ROI) priorisieren. Star-Ausfall-PFLICHT angewandt: Neymar OUT bei Brasilien -> Vinicius/Raphinha als Backup-Torschuetzen-Tipps. Cristiano Ronaldo @41 fuehrt Portugal an (Goncalo Ramos / PSG-Quartett fehlt nach CL-Finale). NBA Finals G3 (Mo 02:30) liegt AUSSERHALB Sa-Sn-Fenster -> nicht im Dossier. Kasse 550€, Stufe 1.",
+  "spiele": [
+    {
+      "id": "2026-06-06-bel-tun",
+      "liga": "Internationales Freundschaftsspiel (WM-Test)",
+      "heim": "Belgien",
+      "gast": "Tunesien",
+      "anstoss": "2026-06-06T15:00:00+02:00",
+      "stadion": "Stade Roi Baudouin, Bruessel",
+      "saison_kontext": {
+        "parallel_heim": "keine (Nationalteam-Phase, Liga-Saison beendet)",
+        "parallel_gast": "keine (Nationalteam-Phase)",
+        "saisonziel_heim": "WM-2026-Auftakt 17.06 vs Kanada (Gruppe E) - 12-Spiele-Unbesiegt-Serie zuletzt, FIFA-Platz #5, Goldene-Generation-letzte-Chance",
+        "saisonziel_gast": "WM-2026 (Gruppe G mit Spanien/Mexiko/Japan) - FIFA #37, defensive Stabilitaet gesucht nach 0:0 vs Oesterreich",
+        "motivations_asymmetrie": "Beide testen Aufstellungen vor WM, aber Belgien zuhause vor Heim-Publikum hat klaren Anreiz Lukaku-Comeback-Form zu zementieren - Tunesien primaer Defensiv-Training fuer Gruppe G.",
+        "recovery_heim": "8 Tage seit Kroatien-Test (2:0 Sieg) - frische Beine, keine Doppelbelastung",
+        "recovery_gast": "9 Tage seit Oesterreich-Test (0:0) - Mejbri-Abbruch in 2.HZ, leichter Verletzungs-Stress im Mittelfeld",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/pre-tournament-warm-up-results-fixtures-scorers",
+          "https://www.sofascore.com/football/match/tunisia-belgium/rUbsEUb",
+          "https://thehardtackle.com/round-up/2026/06/04/belgium-vs-tunisia-preview-and-prediction/"
+        ]
+      },
+      "news": [
+        "Belgien voraussichtlich 3-4-2-1: Courtois; Mechele, Ngoy, Theate; Saelemaekers, Onana, Tielemans, De Cuyper; De Bruyne, Doku; Lukaku.",
+        "Lukaku zurueck in Startelf-Konkurrenz nach Comeback - WM-Hauptstuermer-Frage offen, will sich zementieren.",
+        "Tunesien 4-2-3-1: Chamakh; Valery, Talbi, Rekik, Abdi; Khedira, Skhiri; Slimane, Mejbri, Achouri; Chaouat.",
+        "Hannibal Mejbri Einsatz fraglich (Abbruch vs Oesterreich) - Mittelfeld-Kreativitaet der Tunesier gedaempft.",
+        "Belgien 12 Spiele unbesiegt (letzte Niederlage Maerz 2025 vs Ukraine). Heim-Publikum letzter Auftritt vor WM-Abreise.",
+        "Quoten via Aggregator-Konsens (Sportytrader / Footballpredictions): Belgien 1.30 / X 5.25 / Tunesien 9.50 - Ueber 2.5 ~1.75 / BTTS ~2.30."
+      ],
+      "tipps": [
+        {
+          "id": "ez-3",
+          "markt": "Belgien Sieg",
+          "quote": 1.3,
+          "quote_quelle": "Aggregator-Konsens (Sportytrader / Footballpredictions, 05.06.)",
+          "kategorie": "value",
+          "bewertung_label": "VALUE",
+          "edge_prozent": 7,
+          "empfohlener_einsatz_prozent": 1.4,
+          "faire_quote": 1.2,
+          "begruendung": "Belgien #5 mit 12-Spiele-Unbesiegt-Serie zuhause vs Tunesien #37. Lukaku-Comeback + Heim-Abschieds-Anreiz. Tunesien mit Mejbri-Frage. Aggregator-Konsens 1.30. Reality-Check Quoten 1.00-1.50: 71.4% HR. Empfohlener Einsatz: 7,50€ (1.4%).",
+          "rang": 3
+        },
+        {
+          "id": "ez-10",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.75,
+          "quote_quelle": "Aggregator-Konsens (Sportytrader, 05.06.)",
+          "kategorie": "value",
+          "bewertung_label": "VALUE",
+          "edge_prozent": 10,
+          "empfohlener_einsatz_prozent": 1.4,
+          "faire_quote": 1.6,
+          "begruendung": "Markt-Goldgrube (+30.2% ROI). Belgien-Offensive (Lukaku/KdB/Doku) zuhause vs Tunesien-defensive Aufstellung. Sieg-Quote 1.30 = 77% Win-Wahrscheinlichkeit -> Tor-Festival wahrscheinlich. Empfohlener Einsatz: 7,50€ (1.4%).",
+          "rang": 10
+        },
+        {
+          "id": "ez-14",
+          "markt": "Romelu Lukaku trifft (Jederzeit)",
+          "quote": 2.2,
+          "quote_quelle": "Aggregator-Konsens (Sportytrader, 05.06.)",
+          "kategorie": "value",
+          "bewertung_label": "VALUE",
+          "edge_prozent": 10,
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 2.0,
+          "begruendung": "Form-Edge-PFLICHT: Lukaku Startelf-Comeback + WM-Hauptstuermer-Anwaerter, hochmotiviert. Tunesien-Defense begrenzt. Markt-Goldgrube Torschuetzen Jederzeit +21.3% ROI. Empfohlener Einsatz: 5,50€ (1.0%).",
+          "rang": 14
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 5,
+        "gast_tore": 0,
+        "status": "abgeschlossen",
+        "kommentar": "Belgien 5:0 Tunesien - Trossard 28', De Ketelaere 53', De Bruyne 65', Lukebakio 85', Raskin 87'. Lukaku in 65. Min fuer Lukebakio ausgewechselt. Tunesien Rote Karte Gharbi 61. (zweite Gelbe).",
+        "endstand": "5:0"
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "5:0",
+        "tore": [
+          {
+            "min": 28,
+            "team": "heim",
+            "spieler": "Leandro Trossard",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 53,
+            "team": "heim",
+            "spieler": "Charles De Ketelaere",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 65,
+            "team": "heim",
+            "spieler": "Kevin De Bruyne",
+            "stand_danach": "3:0"
+          },
+          {
+            "min": 85,
+            "team": "heim",
+            "spieler": "Dodi Lukebakio (Einwechslung 65. fuer Lukaku)",
+            "stand_danach": "4:0"
+          },
+          {
+            "min": 87,
+            "team": "heim",
+            "spieler": "Nicolas Raskin",
+            "stand_danach": "5:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Belgien-Dauer-Dominanz mit HZ 1:0 und Endstand 5:0 - keine 2-Tore-Differenz zugunsten Tunesiens, keine Drehung. Tunesien 10 Mann ab 61. Min (Gharbi rot)."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Belgien/Belgien",
+          "kein_team_zu_null": false,
+          "exakte_tore": 5
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Dodi Lukebakio",
+            "aus": "Romelu Lukaku",
+            "minute": 65,
+            "tor": true,
+            "tor_minute": 85,
+            "details": "Boost-Trigger AKTIV + ERFOLGREICH: Lukaku-Tipp ueber Lukebakio-Tor in 85. Min via Einwechslungs-Boost-Mechanik (CLAUDE.md) gerettet."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Klassen-Edge skalierte ueber 90 Min (FIFA-Diff #5 vs #37 + 12-Spiele-Unbesiegt-Serie zementiert). 5:0 nach HZ 1:0 = klassisches HZ-Wechsel-Boost-Pattern bei Top-Favoriten zuhause.",
+          "Boost-Mechanik-Tag-Hit: Lukaku-Backup Lukebakio trifft 20 Min nach Sub - exakt das Pattern aus HR3-PFLICHT-Backup-Tipp.",
+          "Top-Volume-Stuermer-Bench-Sub-Pattern in WM-Test-Phase: Lukaku 65. raus = Trainer-Schon-Modus vor WM, Volume-Backup uebernimmt 25 Min Schluss-Restzeit + trifft."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "ez-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.3,
+          "kommentar": "Belgien 5:0 GEWONNEN. Klassen-Edge schluck in 5:0-Triumph - 12-Spiele-Serie auf 13 ausgebaut.",
+          "clv_prozent": null,
+          "closing_quote": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "ez-10",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.75,
+          "kommentar": "Belgien 5:0, 5 Tore - Ueber 2.5 GEWONNEN deutlich. Markt-Goldgrube-These mit Margin von 2.5 Toren bestaetigt.",
+          "clv_prozent": null,
+          "closing_quote": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "ez-14",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.2,
+          "kommentar": "Einwechslungs-Boost: Tor von Dodi Lukebakio (85') zaehlt fuer Romelu Lukaku - Lukaku wurde in 65. Min direkt durch Lukebakio ersetzt, Lukebakio traf 20 Min spaeter. CLAUDE.md-Boost-Hartregel sauber angewandt.",
+          "clv_prozent": null,
+          "closing_quote": null,
+          "clv_quelle": null
+        }
+      ]
+    },
+    {
+      "id": "2026-06-06-por-chi",
+      "liga": "Internationales Freundschaftsspiel (WM-Test)",
+      "heim": "Portugal",
+      "gast": "Chile",
+      "anstoss": "2026-06-06T20:45:00+02:00",
+      "stadion": "Estadio Nacional do Jamor, Lissabon",
+      "saison_kontext": {
+        "parallel_heim": "keine (Liga-Saison beendet, nur National-Phase) - ABER 4 PSG-Spieler (Nuno Mendes, Vitinha, Joao Neves, Goncalo Ramos) fehlen wegen CL-Finale-Recovery (PSG-Arsenal 30.05.)",
+        "parallel_gast": "keine - Chile verpasste WM 2026 (Conmebol 8. Platz), reines Vorbereitungsspiel ohne Wettkampf-Fenster",
+        "saisonziel_heim": "WM-2026 Auftakt 17.06 (Gruppe F) - FIFA-#5, Roberto Martinez muss Ronaldo-Frage klaeren (41 Jahre)",
+        "saisonziel_gast": "KEIN WM-Bezug - reines Klassen-/Trainings-Spiel, sehr niedriges Motivations-Level bei Chile",
+        "motivations_asymmetrie": "Portugal MUSS gegen unter-motivierten WM-Nicht-Teilnehmer Chile Klassen-Edge zeigen + Ronaldo-Form-Frage klaeren - Chile spielt drucklos, hat aber 4 PSG-Stars-Abwesenheit als kleine Erleichterung.",
+        "recovery_heim": "Liga-Pause seit ~3 Wochen, aber 4 Schluessel-PSG-Akteure erst nach Spiel im Camp - Aufstellung 'Plan B' (Costa, Dias, Bruno Fernandes, Leao, Ronaldo)",
+        "recovery_gast": "Drucklose Vorbereitung, voller Kader fit",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/pre-tournament-warm-up-results-fixtures-scorers",
+          "https://www.si.com/soccer/portugal-vs-chile-international-friendly-preview-predictions-lineups-6-6-26",
+          "https://www.sportsmole.co.uk/football/portugal/predicted-lineups/martinez-to-make-ronaldo-decision-predicted-portugal-xi-vs-chile_598693.html"
+        ]
+      },
+      "news": [
+        "Portugal 4-3-3 voraussichtlich: Costa; Dalot, Dias, Inacio, Cancelo; Bruno Fernandes, Ruben Neves, Bernardo Silva; Neto, Ronaldo, Leao.",
+        "Goncalo Ramos / Nuno Mendes / Vitinha / Joao Neves fehlen (CL-Finale-Recovery PSG-Arsenal 30.05) - kommen erst nach Chile-Spiel ins Camp.",
+        "Ronaldo (41) wird die Linie fuehren da Ramos fehlt - Martinez nutzt Spiel um Ronaldo-Rolle zu pruefen.",
+        "Chile 4-2-3-1 erwartet: Cortes; Lichnovsky, Maripan, Sierralta, Suazo; Pizarro, Loyola; Gutierrez, Montes, Cepeda; Morales.",
+        "Chile verpasste WM 2026 (Conmebol-Quali 8. Platz von 10) - druckloses Vorbereitungsspiel ohne Wettkampf-Anreiz.",
+        "Quoten via Aggregator-Konsens (Sportytrader/Wincomparator/Sportskeeda): Portugal 1.22 / X 7.10 / Chile 11.00 - Ueber 2.5 ~1.65 / Ronaldo trifft ~2.10."
+      ],
+      "tipps": [
+        {
+          "id": "ez-2",
+          "markt": "Portugal Sieg",
+          "quote": 1.22,
+          "quote_quelle": "Aggregator-Konsens (Sportytrader / Wincomparator / Sportskeeda, 05.06.)",
+          "kategorie": "value",
+          "bewertung_label": "VALUE",
+          "edge_prozent": 8,
+          "empfohlener_einsatz_prozent": 1.4,
+          "faire_quote": 1.15,
+          "begruendung": "Portugal #5 vs Chile (WM-Nicht-Teilnehmer, Conmebol 8.) - klare Klassen- und Motivations-Asymmetrie. Auch ohne PSG-Quartett (Mendes/Vitinha/Neves/Ramos in CL-Finale-Recovery) bleibt Bruno/Bernardo/Leao/Ronaldo Top-Achse. Aggregator-Konsens 1.22. Reality-Check Quoten-Range 1.00-1.50: 71.4% HR / +6.7% ROI. Empfohlener Einsatz: 7,50€ (1.4% der 550€-Kasse).",
+          "rang": 2
+        },
+        {
+          "id": "ez-9",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.65,
+          "quote_quelle": "Aggregator-Konsens (Sportytrader, 05.06.)",
+          "kategorie": "value",
+          "bewertung_label": "VALUE",
+          "edge_prozent": 14,
+          "empfohlener_einsatz_prozent": 1.4,
+          "faire_quote": 1.44,
+          "begruendung": "Markt-Goldgrube (+30.2% ROI). Portugal-Sieg-Quote 1.22 impliziert 82% Win, Klassen-Edge enorm. Heim-Show-Anreiz Bernardo/Leao/Ronaldo. Erwarteter Score ~3:0 fuer Portugal. Empfohlener Einsatz: 7,50€ (1.4%).",
+          "rang": 9
+        },
+        {
+          "id": "ez-13",
+          "markt": "Cristiano Ronaldo trifft (Jederzeit)",
+          "quote": 2.1,
+          "quote_quelle": "Aggregator-Konsens (Sportskeeda, 05.06.)",
+          "kategorie": "value",
+          "bewertung_label": "VALUE",
+          "edge_prozent": 12,
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 1.85,
+          "begruendung": "Form-Edge-PFLICHT + invers Star-Ausfall-Backup: Ramos OUT -> Ronaldo bekommt 9er-Rolle + verlaengerte Min. Markt-Goldgrube +21.3% ROI. Friendly mit Chile-Defense schwach. Empfohlener Einsatz: 5,50€ (1.0%).",
+          "rang": 13
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 1,
+        "status": "abgeschlossen",
+        "kommentar": "Portugal 2:1 Chile - Guedes 57' (HZ-Einwechslung fuer Ronaldo), Bruno Fernandes ca. 64' (Vorlage Ruben Neves), Cepeda 90+1' Anschluss. Ronaldo HZ ausgewechselt, sein Tor in 1.HZ wg Abseits annulliert. Rote Karten Halbzeit: Leao + Roman (Scuffle).",
+        "endstand": "2:1"
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "2:1",
+        "tore": [
+          {
+            "min": 57,
+            "team": "heim",
+            "spieler": "Goncalo Guedes (Einwechslung HZ fuer Ronaldo; Vorlage Conceicao)",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 64,
+            "team": "heim",
+            "spieler": "Bruno Fernandes (Vorlage Ruben Neves)",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 91,
+            "team": "gast",
+            "spieler": "Lucas Cepeda",
+            "stand_danach": "2:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Portugal fuehrte nie mit 2 Toren bevor Chile zurueckkam (2:0 ab 64., Cepeda 90+1 zum 2:1) - 2:0-Diff bestand nur kurz vor Endphase. Insurance-Regel nicht anwendbar (Friendly, keine BL/CL). Endstand-Resultat passt zur Klassen-Edge-These."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Unentschieden/Portugal",
+          "kein_team_zu_null": true,
+          "exakte_tore": 3,
+          "rote_karten_hz": 2,
+          "abseits_tor_annulliert": "Ronaldo 1.HZ wg marginaler Abseitsstellung"
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Cristiano Ronaldo (41)",
+            "details": "Martinez-Show-Test in 1.HZ: HZ ausgewechselt fuer Guedes, der direkt das Spiel entschied. Ronaldo-9er-Rolle-Frage damit teilweise geklaert (Plan B funktioniert ohne ihn)."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Goncalo Guedes",
+            "aus": "Cristiano Ronaldo",
+            "minute": 46,
+            "tor": true,
+            "tor_minute": 57,
+            "details": "Boost-Trigger AKTIV + ERFOLGREICH: Ronaldo-Tipp ueber Guedes-Tor in 57. Min via Einwechslungs-Boost-Mechanik gerettet. Ronaldo wurde DIREKT durch Guedes ersetzt (direkter Ersatz im Sinne der Hartregel)."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Klassen-Edge-Friendly-Konstant: Portugal #5 vs Chile WM-Nicht-Teilnehmer = klare 2:0-Spielfuehrung bis 90+1. WM-Generalprobe-Edge realisiert in Sieg + Goldgruben-Über-2.5 trotz Plan-B-Aufstellung ohne PSG-Quartett.",
+          "Boost-Hartregel-Validierung-2: Ronaldo-Backup Guedes traf nach direkter HZ-Sub. Pattern wie Lukaku-Lukebakio gleichen Tag (Boost-Doppel-Hit).",
+          "Rote-Karten-HZ-Skandal (Leao + Roman) hatte keinen Spielfluss-Effekt - Klassen-Edge ueberschritt 10 vs 10. Friendly-Hitze beim WM-Hochlauf bemerkenswert."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "ez-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.22,
+          "kommentar": "Portugal 2:1 GEWONNEN. Guedes 57' + Bruno 64' machten Sache klar, Cepeda 90+1 nur Kosmetik. VALUE bestaetigt.",
+          "clv_prozent": null,
+          "closing_quote": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "ez-9",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.65,
+          "kommentar": "Portugal 2:1, 3 Tore - Ueber 2.5 GEWONNEN. Markt-Goldgrube-These bestaetigt trotz Plan-B-Aufstellung.",
+          "clv_prozent": null,
+          "closing_quote": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "ez-13",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.1,
+          "kommentar": "Einwechslungs-Boost: Tor von Goncalo Guedes (57') zaehlt fuer Cristiano Ronaldo - Ronaldo wurde in HZ direkt durch Guedes ersetzt, Guedes traf in 57. Min als 9er. Ronaldo selbst hatte zudem Tor in 1.HZ wegen Abseits annulliert.",
+          "clv_prozent": null,
+          "closing_quote": null,
+          "clv_quelle": null
+        }
+      ]
+    },
+    {
+      "id": "2026-06-06-usa-ger",
+      "liga": "Internationales Freundschaftsspiel (WM-Test)",
+      "heim": "USA",
+      "gast": "Deutschland",
+      "anstoss": "2026-06-06T20:30:00+02:00",
+      "stadion": "Soldier Field, Chicago",
+      "saison_kontext": {
+        "parallel_heim": "keine (Liga-Pause MLS, kein National-Wettbewerb)",
+        "parallel_gast": "keine (Bundesliga-Pause, CL-Finale-Spieler Wirtz/Tah teilweise frisch nach Pause)",
+        "saisonziel_heim": "WM-2026-Co-Gastgeber Auftakt 12.06 vs Mexiko-Quali-Sieger (Gruppe A) - Heim-WM-Druck enorm, FIFA #15",
+        "saisonziel_gast": "WM-2026 Auftakt 14.06 (Gruppe D) - Titel-Anspruch nach EM-Halbfinal-Wende, FIFA #9",
+        "motivations_asymmetrie": "USA als Co-Gastgeber will gegen Top-Gegner Statement vor Heim-WM setzen - Deutschland nutzt Spiel zur Endkalibrierung (Wirtz/Karl-Wing-Frage). Asymmetrie: USA hat Existenz-Druck, Deutschland klassisches Pflichtspiel ohne Risiko-Bereitschaft.",
+        "recovery_heim": "8 Tage seit USA 3:2 Senegal (Pulisic-Tor), volle Kraft",
+        "recovery_gast": "10 Tage seit DFB-Test vs Frankreich (zuletzt 1:1), Wirtz/Tah CL-Finale-Recovery (1 Woche Pause)",
+        "quellen": [
+          "https://www.ussoccer.com/competitions/usmnt-friendlies-2026/matches/united-states-germany-tickets-live-score-match-hub-lineups-highlights",
+          "https://www.si.com/soccer/usmnt-vs-germany-preview-predictions-and-lineups-international-friendly-6-6-26",
+          "https://www.nbcchicago.com/world-cup/united-states-germany-set-for-final-world-cup-tune-up-in-chicago/3944470/"
+        ]
+      },
+      "news": [
+        "USA 4-3-3: Turner; Freeman, Ream, McKenzie; Dest, McKennie, Adams, Robinson; Reyna, Pepi, Pulisic.",
+        "Deutschland 4-2-3-1: Baumann; Kimmich, Tah, Schotterbeck, Brown; Goretzka, Pavlovic; Karl, Wirtz, Leweling; Woltemade.",
+        "Pulisic mit 1 Tor in 3:2 vs Senegal (29.05.), zentraler Angriffspunkt rechts.",
+        "Florian Wirtz auf 10 nach CL-Finale (Arsenal 1:1, Niederlage i.E.), frische Beine nach 1 Wo Pause.",
+        "Woltemade als Sturm-Spitze (Werder Bremen-Hype), 1. echtes USA-Spiel im Trikot. WM-Backup-Frage offen.",
+        "Quoten via Aggregator-Konsens (Goal/FanDuel/Covers): USA 5.10 / X 4.40 / Deutschland 1.62 - Ueber 2.5 ~1.85 / BTTS Ja ~1.75."
+      ],
+      "tipps": [
+        {
+          "id": "ez-8",
+          "markt": "Deutschland Sieg",
+          "quote": 1.62,
+          "quote_quelle": "Aggregator-Konsens (Goal / FanDuel / Covers, 05.06.)",
+          "kategorie": "value",
+          "bewertung_label": "VALUE",
+          "edge_prozent": 8,
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 1.5,
+          "begruendung": "Deutschland #9 vs USA #15 - kleinere Klassen-Edge als andere Friendlies, aber Wirtz/Woltemade-Top-Form + Kimmich-Achse. Aggregator-Konsens 1.60-1.65. USA hat Heim-Druck (Co-Gastgeber). 1.50-2.00-Range 52.4% HR / +9.6% ROI (n=148). Empfohlener Einsatz: 5,50€ (1.0%).",
+          "rang": 8
+        },
+        {
+          "id": "ez-11",
+          "markt": "Beide Teams treffen - Ja",
+          "quote": 1.75,
+          "quote_quelle": "Aggregator-Konsens (Goal, 05.06.)",
+          "kategorie": "value",
+          "bewertung_label": "VALUE",
+          "edge_prozent": 8,
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 1.62,
+          "begruendung": "Pulisic Form-Hot (Tor vs Senegal) + USA-Heim-Druck vs Wirtz/Woltemade-Offensive. Beide Defenses anfaellig: USA-Ream/McKenzie + Deutschland-Brown links als Test-IV. Quote 1.75 fair-VALUE. Empfohlener Einsatz: 5,50€ (1.0%).",
+          "rang": 11
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 2,
+        "status": "abgeschlossen",
+        "kommentar": "USA 1:2 Deutschland - Havertz 2' Kopfball (Kimmich-Freistoss), Antonee Robinson 36' Equalizer Volley, Sane 56' Sieg-Tor (Havertz-Vorlage). HZ 1:1. Wirtz 80' ausgewechselt fuer Beier.",
+        "endstand": "1:2"
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "1:1",
+        "endstand": "1:2",
+        "tore": [
+          {
+            "min": 2,
+            "team": "gast",
+            "spieler": "Kai Havertz (Kopfball, Kimmich-Freistoss)",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 36,
+            "team": "heim",
+            "spieler": "Antonee Robinson (Volley)",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 56,
+            "team": "gast",
+            "spieler": "Leroy Sane (Vorlage Havertz)",
+            "stand_danach": "1:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine 2-Tore-Differenz war je erreicht - 0:1, 1:1, 1:2. Endstand passt zur Klassen-Edge (Deutschland #9 vs USA #15) und Wirtz/Havertz-Achse-These."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Unentschieden/Deutschland",
+          "kein_team_zu_null": false,
+          "exakte_tore": 3
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Havertz/Musiala/Wirtz",
+            "details": "Nagelsmann rotierte 2.HZ planmaessig (Havertz/Wirtz raus 80., Musiala kurz davor) - Stamm-Schon-Pattern vor WM-Auftakt 14.06 vs Ungarn/Slowakei-Quali-Sieger."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Goldgrube-1.50-2.00-Range-Validierung (52.4% HR / +9.6% ROI bei n=148): Deutschland-Sieg @1.62 GEWONNEN exakt in Sweet-Spot-Range.",
+          "BTTS-Hit bei knappem Friendly: USA-Robinson-Equalizer im FIFA-#15-Heim-Statement-Slot - WM-Co-Gastgeber-Druck zementiert offene 1:1-Phase trotz frueh-Havertz-Tor.",
+          "Wirtz 80. Min ausgewechselt - aber Sane-Sieg-Tor traf bereits 56., kein Boost-Bezug zu Wirtz-Tipp (war nicht Tipp-Gegenstand)."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "ez-8",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.62,
+          "kommentar": "Deutschland 2:1 GEWONNEN (Havertz 2', Sane 56'). Klassen-Edge + Achse-These funktionierte - Quoten-Range 1.50-2.00 (52.4% HR / +9.6% ROI) erneut Treffer.",
+          "clv_prozent": null,
+          "closing_quote": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "ez-11",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.75,
+          "kommentar": "USA-Ger 1:2, BTTS Ja GEWONNEN (Havertz 2', Robinson 36', Sane 56'). Pulisic-Hot-Form-These greift indirekt via Robinson-Equalizer.",
+          "clv_prozent": null,
+          "closing_quote": null,
+          "clv_quelle": null
+        }
+      ]
+    },
+    {
+      "id": "2026-06-06-eng-nzl",
+      "liga": "Internationales Freundschaftsspiel (WM-Test)",
+      "heim": "England",
+      "gast": "Neuseeland",
+      "anstoss": "2026-06-06T22:00:00+02:00",
+      "stadion": "Raymond James Stadium, Tampa, Florida",
+      "saison_kontext": {
+        "parallel_heim": "keine (Premier League beendet, National-Phase)",
+        "parallel_gast": "keine (Neuseeland OFC-Quali bereits durchschritten, WM-Vorbereitung)",
+        "saisonziel_heim": "WM-2026 Auftakt 13.06 vs Haiti (Gruppe E) - Tuchel-Tor erstmals als Trainer auf WM-Buehne, FIFA #4",
+        "saisonziel_gast": "WM-2026 Auftakt 13.06 vs Schottland (Gruppe E) - FIFA #93, Underdog-Mentalitaet, hat 35 Jahre nicht gegen England gespielt",
+        "motivations_asymmetrie": "England absolutes Klassen-Statement-Spiel vor WM (Tuchel will Achse zementieren). Neuseeland reines Vorbereitungsspiel ohne realistische Erwartung - aber Mentalitaet 'nichts zu verlieren' kann lockern.",
+        "recovery_heim": "7 Tage seit England-Senegal-Test (3:0 Sieg), voller Kader fit. Letztes Spiel vor WM-Start.",
+        "recovery_gast": "8 Tage seit Tunesien-Test (Niederlage), Neuseeland-Spieler primaer aus A-League / Wellington Phoenix - keine Top-Liga-Spitzenbelastung",
+        "quellen": [
+          "https://www.uefa.com/european-qualifiers/friendlies/match/2048034--england-vs-new-zealand/",
+          "https://www.si.com/soccer/england-vs-new-zealand-international-friendly-preview-predictions-lineups-6-6-26",
+          "https://news.paddypower.com/football/2026/06/05/england-v-new-zealand-tips-saturday-bet-builder-june-6/"
+        ]
+      },
+      "news": [
+        "England voraussichtlich 4-2-3-1 mit Pickford; Walker, Stones, Konsa, Shaw; Rice, Wharton; Bellingham, Foden, Saka; Kane.",
+        "Erstes Spiel zwischen England und Neuseeland seit 1991 (35 Jahre).",
+        "Kane 2 Doppelpacks in letzten 3 England-Spielen, Saison Bayern-Toptorschuetze (40+ Pflichtspiel-Tore).",
+        "Neuseeland FIFA #93 mit Spielern primaer aus A-League / Phoenix - massiver Klassen-Unterschied.",
+        "Tuchel macht letztes WM-Testspiel vor Auftakt vs Haiti am 13.06 - Achse zementieren steht im Vordergrund.",
+        "Quoten via Aggregator-Konsens (Sky Bet/Paddy Power): England 1.12 / X 7.50 / Neuseeland 17.00 - Ueber 2.5 ~1.35 / Kane trifft ~1.55."
+      ],
+      "tipps": [
+        {
+          "id": "ez-1",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.35,
+          "quote_quelle": "Aggregator-Konsens (Sky Bet / Paddy Power / Footballpredictions, 05.06.)",
+          "kategorie": "safe",
+          "bewertung_label": "SAFE",
+          "edge_prozent": 11,
+          "empfohlener_einsatz_prozent": 2.0,
+          "faire_quote": 1.22,
+          "begruendung": "TOP-1 des Tages. 89-Plaetze-FIFA-Klassen-Edge (#4 vs #93), England letzte 3 Spiele alle Ueber 2.5 (3:0, 3:1, 4:0). Tuchel will Achse zementieren = Volle Power. Markt-Goldgrube (+30.2% ROI, 50% HR, n=20). Reality-Check: 1.00-1.50-Range 71.4% HR / +6.7% ROI (n=102). Einzige SAFE-Position des Dossiers - Friendlies sind nicht Liga-Goldgrube, daher kein SAFE-DC zulaessig (Mapper Hebel C), aber Markt-Goldgrube als SAFE-Treiber Mapper-konform. Empfohlener Einsatz: 11€ (2.0% der 550€-Kasse).",
+          "rang": 1
+        },
+        {
+          "id": "ez-5",
+          "markt": "England Sieg",
+          "quote": 1.12,
+          "quote_quelle": "Aggregator-Konsens (Sky Bet, 05.06.)",
+          "kategorie": "value",
+          "bewertung_label": "VALUE",
+          "edge_prozent": 4,
+          "empfohlener_einsatz_prozent": 1.4,
+          "faire_quote": 1.07,
+          "begruendung": "Tuchels Generalprobe vs FIFA-#93. 89-Plaetze-Klassen-Edge enorm. Aggregator-Konsens 1.12. Reality-Check 1.00-1.50-Range 71.4% HR - tiefe Quote aber Edge real. KEIN SAFE wegen Liga-Goldgrube-Filter (Friendlies) + Tuchel-Rotation in 2.HZ wahrscheinlich. Empfohlener Einsatz: 7,50€ (1.4%).",
+          "rang": 5
+        },
+        {
+          "id": "ez-6",
+          "markt": "Harry Kane trifft (Jederzeit)",
+          "quote": 1.55,
+          "quote_quelle": "Aggregator-Konsens (Sky Bet / Paddy Power, 05.06.)",
+          "kategorie": "value",
+          "bewertung_label": "VALUE",
+          "edge_prozent": 12,
+          "empfohlener_einsatz_prozent": 1.4,
+          "faire_quote": 1.4,
+          "begruendung": "Form-Edge-PFLICHT (HR4): Kane 40+ Pflichtspiel-Tore Saison Bayern, 2 Doppelpacks letzte 3 England-Spiele. Klassen-Edge-Spot vs FIFA-#93-Defense. Markt-Goldgrube Torschuetzen Jederzeit +21.3% ROI (n=44). Empfohlener Einsatz: 7,50€ (1.4%).",
+          "rang": 6
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 0,
+        "status": "abgeschlossen",
+        "kommentar": "England 1:0 Neuseeland - Harry Kane Kopfball 45+1 (Cross-Header). Tuchel 11 HZ-Wechsel (eine ganze neue Elf in 2.HZ). Kane in HZ ausgewechselt nach Tor. Ngumoha (17) 5.-juengster England-Debuetant. 22 Spieler eingesetzt.",
+        "endstand": "1:0"
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "1:0",
+        "tore": [
+          {
+            "min": 45,
+            "team": "heim",
+            "spieler": "Harry Kane (Kopfball, Cross-Vorlage)",
+            "stand_danach": "1:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Tore in 2.HZ - die fast komplette Tuchel-B-Elf konnte Kane-1:0 verteidigen, aber kein weiteres Tor mehr. Klassen-Edge realisiert in Sieg, aber NICHT in Tor-Festival."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "England/England",
+          "kein_team_zu_null": false,
+          "exakte_tore": 1
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Tuchel-11-HZ-Wechsel-Massnahme",
+            "details": "Tuchel tauschte zur HZ komplette Elf aus - Schon-Modus vor WM-Auftakt 13.06 vs Haiti + Achse-Test (Watkins/Rashford/Stones-Chancen vergeben). Pattern wie 2026-05-30 (Bayern-Heidenheim) auf Friendly-Slot uebertragen."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Ollie Watkins (HZ-Sub fuer Kane)",
+            "aus": "Harry Kane",
+            "minute": 46,
+            "tor": false,
+            "tor_minute": null,
+            "details": "Boost-Trigger aktiv (Kane HZ raus, Watkins rein), aber Boost-Mechanik nicht relevant da Kane-Tipp bereits durch 45+1-Tor gewonnen war. Bemerkenswert: hypothetisch waere auch Watkins-Tor in Boost-Logik gezaehlt."
+          }
+        ],
+        "auffaellige_patterns": [
+          "U-2.5-Falle bei Tuchel-11-HZ-Wechsel-Schon-Modus: SAFE-Tipp ueber 2.5 verloren obwohl Klassen-Diff 89 Plaetze - WM-Vor-Schon-Pattern dominiert ueber Klassen-Edge bei Tor-Anzahl-Märkten. Wichtige Korrektur zur These 'England letzte 3 Spiele alle U2.5'.",
+          "Klassen-Edge schlaegt sich in 1:0-Sieg + Top-Stuermer-Tor durch (Kane via Header im HZ-Stoppage) - Sieg-Tipps + Torschuetzen-Tipp bestaetigt, Tor-Festival-Markt widerlegt.",
+          "11-HZ-Wechsel-extrem: Tuchel hat damit ein eigenes WM-Wechsel-Schon-Pattern zementiert. Bei naechstem England-Vor-Turnier-Friendly: Ueber-Tipps boykottieren."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "ez-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "England 1:0 - nur 1 Tor, Ueber 2.5 VERLOREN. SAFE-Falle: Tuchel-11-HZ-Wechsel-Schon-Modus zementierte 1:0 statt erwartetes Tor-Festival. Klassen-Edge 89 Plaetze realisiert in Sieg, NICHT in Tor-Anzahl.",
+          "clv_prozent": null,
+          "closing_quote": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "ez-5",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.12,
+          "kommentar": "England 1:0 GEWONNEN. Trotz B-Elf-2.HZ und 11 Tuchel-Wechseln Klassen-Edge bewahrt.",
+          "clv_prozent": null,
+          "closing_quote": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "ez-6",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.55,
+          "kommentar": "Kane Tor in 45+1 GEWONNEN (Kopfball, Cross-Vorlage). Form-Edge-PFLICHT validiert - Kane direkt vor HZ-Pause-Aufgabe.",
+          "clv_prozent": null,
+          "closing_quote": null,
+          "clv_quelle": null
+        }
+      ]
+    },
+    {
+      "id": "2026-06-06-bra-egy",
+      "liga": "Internationales Freundschaftsspiel (WM-Test)",
+      "heim": "Brasilien",
+      "gast": "Aegypten",
+      "anstoss": "2026-06-07T00:00:00+02:00",
+      "stadion": "Huntington Bank Field, Cleveland, Ohio",
+      "saison_kontext": {
+        "parallel_heim": "keine (Brasileiro Pause / WM-National-Phase) - Neymar OUT wegen Wadenverletzung (in New Jersey Reha)",
+        "parallel_gast": "keine - Aegypten Liga-Pause, voller Kader im Camp",
+        "saisonziel_heim": "WM-2026 Auftakt 14.06 vs Marokko (Gruppe B) - FIFA #6, Hexa-Druck nach Quartas-Aus 2022, Ancelotti will Achse zementieren",
+        "saisonziel_gast": "WM-2026 Auftakt 16.06 vs Hollaend (Gruppe E) - FIFA #36, Salah-letztes-WM-Anlauf",
+        "motivations_asymmetrie": "Brasilien letzter Test vor WM-Start in 8 Tagen - Ancelotti muss Vinicius/Raphinha-Achse ohne Neymar zementieren. Aegypten Klassen-Underdog, druckloser Salah-Show-Spot. Asymmetrie 100% Pro-Brasilien.",
+        "recovery_heim": "8 Tage seit Brasilien 6:2 Panama (Vinicius-Doppelpack laut Prognose), volle Power Generalprobe",
+        "recovery_gast": "8 Tage seit Aegypten 1:0 Russland (Salah-Sieg-Tor), volle Kraft",
+        "quellen": [
+          "https://www.espn.com/soccer/story/_/id/48965996/neymar-miss-brazil-final-pre-world-cup-friendly-vs-egypt",
+          "https://www.si.com/soccer/brazil-vs-egypt-international-friendly-preview-predictions-lineups-6-6-26",
+          "https://english.ahram.org.eg/NewsContentP/66/570157/World-Cup-/Brazil-star-Neymar-out-of-Egypt-friendly.aspx"
+        ]
+      },
+      "news": [
+        "STAR-AUSFALL: Neymar OUT (Waden-Verletzung, in New Jersey Reha) - laut HR3 PFLICHT-Backup-Torschuetzen-Tipp auf Vinicius/Raphinha.",
+        "Brasilien 4-2-3-1 erwartet: Alisson; Wesley, Marquinhos, Gabriel, Sandro; Casemiro, Guimaraes; Raphinha, Paqueta, Vinicius Jr; Thiago.",
+        "Vinicius Jr in letztem Test (Panama 6:2) Doppelpack laut Prognose, klare Volume-Achse ohne Neymar.",
+        "Aegypten 4-2-3-1: Shobeir; Hany, Ibrahim, Abdelmonem, Fatouh; Lasheen, Ateya; Salah, Ashour, Trezeguet; Marmoush.",
+        "Salah-Liverpool-Saison 27 PL-Tore - letzter WM-Anlauf mit 33 Jahren, hochmotiviert auf Tor.",
+        "Quoten via Aggregator-Konsens (Polymarket/ESPN): Brasilien 1.30 / X 5.25 / Aegypten 7.50 - Ueber 2.5 ~1.55 / Vinicius trifft ~2.00."
+      ],
+      "tipps": [
+        {
+          "id": "ez-4",
+          "markt": "Brasilien Sieg",
+          "quote": 1.3,
+          "quote_quelle": "Aggregator-Konsens (Polymarket / ESPN, 05.06.)",
+          "kategorie": "value",
+          "bewertung_label": "VALUE",
+          "edge_prozent": 7,
+          "empfohlener_einsatz_prozent": 1.4,
+          "faire_quote": 1.2,
+          "begruendung": "Brasilien #6 vs Aegypten #36 - Klassen-Edge tragend trotz Neymar-OUT (Vinicius/Raphinha-Achse intakt). Ancelotti-Generalprobe vor WM-Start in 8 Tagen. Aggregator-Konsens 1.30 (Polymarket impliziert 73%). 1.00-1.50-Range 71.4% HR. Empfohlener Einsatz: 7,50€ (1.4%).",
+          "rang": 4
+        },
+        {
+          "id": "ez-7",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.55,
+          "quote_quelle": "Aggregator-Konsens (Polymarket / ESPN, 05.06.)",
+          "kategorie": "value",
+          "bewertung_label": "VALUE",
+          "edge_prozent": 13,
+          "empfohlener_einsatz_prozent": 1.4,
+          "faire_quote": 1.37,
+          "begruendung": "Markt-Goldgrube (+30.2% ROI, 50% HR, n=20). Brasilien 6:2 vs Panama letzter Test - Tor-Tendenz unter Ancelotti. Aegypten Salah-Threat. Auch ohne Neymar bleibt Brasilien-Offensive auf 3+ Tore ausgelegt. Empfohlener Einsatz: 7,50€ (1.4%).",
+          "rang": 7
+        },
+        {
+          "id": "ez-12",
+          "markt": "Vinicius Junior trifft (Jederzeit)",
+          "quote": 2.0,
+          "quote_quelle": "Aggregator-Konsens (Polymarket / ESPN, 05.06.)",
+          "kategorie": "value",
+          "bewertung_label": "VALUE",
+          "edge_prozent": 15,
+          "empfohlener_einsatz_prozent": 1.4,
+          "faire_quote": 1.75,
+          "begruendung": "STAR-AUSFALL-BACKUP-PFLICHT (HR3): Neymar OUT -> Vinicius wird automatisch No.1-Volume-Achse. Real-Madrid-Saison Top-Form, vs Panama Doppelpack-Prognose. Markt-Goldgrube Torschuetzen Jederzeit +21.3% ROI. Empfohlener Einsatz: 7,50€ (1.4%).",
+          "rang": 12
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 1,
+        "status": "abgeschlossen",
+        "kommentar": "Brasilien 2:1 Aegypten - Bruno Guimaraes 7', Mostafa Ziko 10' (Egy), Endrick 52' (HZ-Sub, fuer Igor Thiago rein). HZ 1:1. Brasilien fast komplette HZ-Rotation (8+ Spieler raus). Vinicius HZ ausgewechselt fuer Luiz Henrique. Salah kam HZ rein.",
+        "endstand": "2:1"
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "1:1",
+        "endstand": "2:1",
+        "tore": [
+          {
+            "min": 7,
+            "team": "heim",
+            "spieler": "Bruno Guimaraes",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 10,
+            "team": "gast",
+            "spieler": "Mostafa Ziko",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 52,
+            "team": "heim",
+            "spieler": "Endrick (HZ-Sub fuer Igor Thiago; erste 2.HZ-Aktion)",
+            "stand_danach": "2:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine 2-Tore-Diff je gegen Brasilien - Aegypten kam nur fuer 42 Min auf 1:1 zurueck, Endrick stellte HZ-Sub-Tor 2:1 her. Klassen-Edge gewann auf Eis-Schwertstreich-Distanz."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Unentschieden/Brasilien",
+          "kein_team_zu_null": false,
+          "exakte_tore": 3
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Ancelotti-HZ-Rotation-extrem",
+            "details": "Ancelotti tauschte HZ fast komplettes Team aus (8 Wechsel: Weverton/Bremer/Pereira/Danilo/Fabinho/Sandro/Luiz Henrique/Endrick/Cunha). Schon-Modus vor WM-Auftakt 14.06 vs Marokko."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Luiz Henrique",
+            "aus": "Vinicius Junior",
+            "minute": 46,
+            "tor": false,
+            "tor_minute": null,
+            "details": "Boost-Trigger aktiv (Vinicius raus, Luiz Henrique direkter Ersatz rein), aber Boost FEHLGESCHLAGEN: Luiz Henrique traf NICHT - das Tor fiel durch Endrick (Igor-Thiagos-Ersatz, NICHT Vinicius'). Vinicius-Tipp verloren da nur DIREKTE Ersatz-Tore zaehlen, nicht andere Mehrfach-Subs."
+          },
+          {
+            "team": "heim",
+            "ein": "Endrick",
+            "aus": "Igor Thiago",
+            "minute": 46,
+            "tor": true,
+            "tor_minute": 52,
+            "details": "Endrick traf 7 Min nach HZ-Einwechslung. Wenn Igor Thiago Tipp-Gegenstand waere, Boost-Hit. War nicht Tipp."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Boost-Mechanik-FALSCH-ANNAHME-Falle (NEU): bei Massen-HZ-Wechseln mit 8 Spielern darf nicht 'irgendein Brasilianer trifft' als Boost-Hit gewertet werden - DIREKTE 1:1-Substitution muss greifen. Endrick=Thiagos-Ersatz, traf - aber Vinicius=Luiz-Henriques-Ersatz, traf NICHT.",
+          "Klassen-Edge Brasilien-Sieg + Über-2.5 (knapp via Endrick-Tor) bestaetigt - aber Top-Star-Achse Vinicius/Raphinha (HZ raus) verlor Tipp-Anschluss-Punkt.",
+          "Friendly-Klassen-Edge realisiert in Sieg trotz Ancelotti-Schon-Modus - 2.HZ-B-Elf gewinnt 1:0 vs Aegypten-Salah-A-Elf 2.HZ."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "ez-4",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.3,
+          "kommentar": "Brasilien 2:1 GEWONNEN. Klassen-Edge realisiert trotz Ancelotti-8-HZ-Wechsel-Schon-Modus durch Endrick HZ-Sub-Tor 52'.",
+          "clv_prozent": null,
+          "closing_quote": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "ez-7",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.55,
+          "kommentar": "Brasilien 2:1, Total 3 Tore - Ueber 2.5 GEWONNEN (knapp via Endrick-HZ-Sub-Tor 52'). Markt-Goldgrube-These bestaetigt.",
+          "clv_prozent": null,
+          "closing_quote": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "ez-12",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Vinicius kein Tor + Boost greift NICHT: Vinicius HZ ausgewechselt fuer Luiz Henrique (direkter Ersatz), Luiz Henrique traf NICHT. Endrick traf - aber Endrick war Igor-Thiagos-Ersatz, NICHT Vinicius'. CLAUDE.md-Boost-Regel zaehlt nur direkten 1:1-Sub - Massen-HZ-Wechsel-Bezug unzulaessig.",
+          "clv_prozent": null,
+          "closing_quote": null,
+          "clv_quelle": null
+        }
+      ]
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "ez-1",
+      "spiel_id": "2026-06-06-eng-nzl",
+      "spiel_titel": "England vs Neuseeland (Friendly, Tampa)",
+      "kategorie": "safe",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.35,
+      "quote_quelle": "Aggregator-Konsens (Sky Bet / Paddy Power / Footballpredictions, 05.06.)",
+      "edge_prozent": 11,
+      "begruendung": "TOP-1 des Tages. 89-Plaetze-FIFA-Klassen-Edge (#4 vs #93), England letzte 3 Spiele alle Ueber 2.5 (3:0, 3:1, 4:0). Tuchel will Achse zementieren = Volle Power. Markt-Goldgrube (+30.2% ROI, 50% HR, n=20). Reality-Check: 1.00-1.50-Range 71.4% HR / +6.7% ROI (n=102). Einzige SAFE-Position des Dossiers - Friendlies sind nicht Liga-Goldgrube, daher kein SAFE-DC zulaessig (Mapper Hebel C), aber Markt-Goldgrube als SAFE-Treiber Mapper-konform. Empfohlener Einsatz: 11€ (2.0% der 550€-Kasse).",
+      "bewertung_label": "SAFE",
+      "empfohlener_einsatz_prozent": 2.0,
+      "faire_quote": 1.22,
+      "rang": 1
+    },
+    {
+      "id": "ez-2",
+      "spiel_id": "2026-06-06-por-chi",
+      "spiel_titel": "Portugal vs Chile (Friendly, Lissabon)",
+      "kategorie": "value",
+      "markt": "Portugal Sieg",
+      "quote": 1.22,
+      "quote_quelle": "Aggregator-Konsens (Sportytrader / Wincomparator / Sportskeeda, 05.06.)",
+      "edge_prozent": 8,
+      "begruendung": "Portugal #5 vs Chile (WM-Nicht-Teilnehmer, Conmebol 8.) - klare Klassen- und Motivations-Asymmetrie. Auch ohne PSG-Quartett (Mendes/Vitinha/Neves/Ramos in CL-Finale-Recovery) bleibt Bruno/Bernardo/Leao/Ronaldo Top-Achse. Aggregator-Konsens 1.22. Reality-Check Quoten-Range 1.00-1.50: 71.4% HR / +6.7% ROI. Empfohlener Einsatz: 7,50€ (1.4% der 550€-Kasse).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.4,
+      "faire_quote": 1.15,
+      "rang": 2
+    },
+    {
+      "id": "ez-3",
+      "spiel_id": "2026-06-06-bel-tun",
+      "spiel_titel": "Belgien vs Tunesien (Friendly, Bruessel)",
+      "kategorie": "value",
+      "markt": "Belgien Sieg",
+      "quote": 1.3,
+      "quote_quelle": "Aggregator-Konsens (Sportytrader / Footballpredictions, 05.06.)",
+      "edge_prozent": 7,
+      "begruendung": "Belgien #5 mit 12-Spiele-Unbesiegt-Serie zuhause vs Tunesien #37. Lukaku-Comeback + Heim-Abschieds-Anreiz. Tunesien mit Mejbri-Frage. Aggregator-Konsens 1.30. Reality-Check Quoten 1.00-1.50: 71.4% HR. Empfohlener Einsatz: 7,50€ (1.4%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.4,
+      "faire_quote": 1.2,
+      "rang": 3
+    },
+    {
+      "id": "ez-4",
+      "spiel_id": "2026-06-06-bra-egy",
+      "spiel_titel": "Brasilien vs Aegypten (Friendly, Cleveland)",
+      "kategorie": "value",
+      "markt": "Brasilien Sieg",
+      "quote": 1.3,
+      "quote_quelle": "Aggregator-Konsens (Polymarket / ESPN, 05.06.)",
+      "edge_prozent": 7,
+      "begruendung": "Brasilien #6 vs Aegypten #36 - Klassen-Edge tragend trotz Neymar-OUT (Vinicius/Raphinha-Achse intakt). Ancelotti-Generalprobe vor WM-Start in 8 Tagen. Aggregator-Konsens 1.30 (Polymarket impliziert 73%). 1.00-1.50-Range 71.4% HR. Empfohlener Einsatz: 7,50€ (1.4%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.4,
+      "faire_quote": 1.2,
+      "rang": 4
+    },
+    {
+      "id": "ez-5",
+      "spiel_id": "2026-06-06-eng-nzl",
+      "spiel_titel": "England vs Neuseeland (Friendly, Tampa)",
+      "kategorie": "value",
+      "markt": "England Sieg",
+      "quote": 1.12,
+      "quote_quelle": "Aggregator-Konsens (Sky Bet, 05.06.)",
+      "edge_prozent": 4,
+      "begruendung": "Tuchels Generalprobe vs FIFA-#93. 89-Plaetze-Klassen-Edge enorm. Aggregator-Konsens 1.12. Reality-Check 1.00-1.50-Range 71.4% HR - tiefe Quote aber Edge real. KEIN SAFE wegen Liga-Goldgrube-Filter (Friendlies) + Tuchel-Rotation in 2.HZ wahrscheinlich. Empfohlener Einsatz: 7,50€ (1.4%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.4,
+      "faire_quote": 1.07,
+      "rang": 5
+    },
+    {
+      "id": "ez-6",
+      "spiel_id": "2026-06-06-eng-nzl",
+      "spiel_titel": "England vs Neuseeland (Friendly, Tampa)",
+      "kategorie": "value",
+      "markt": "Harry Kane trifft (Jederzeit)",
+      "quote": 1.55,
+      "quote_quelle": "Aggregator-Konsens (Sky Bet / Paddy Power, 05.06.)",
+      "edge_prozent": 12,
+      "begruendung": "Form-Edge-PFLICHT (HR4): Kane 40+ Pflichtspiel-Tore Saison Bayern, 2 Doppelpacks letzte 3 England-Spiele. Klassen-Edge-Spot vs FIFA-#93-Defense. Markt-Goldgrube Torschuetzen Jederzeit +21.3% ROI (n=44). Empfohlener Einsatz: 7,50€ (1.4%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.4,
+      "faire_quote": 1.4,
+      "rang": 6
+    },
+    {
+      "id": "ez-7",
+      "spiel_id": "2026-06-06-bra-egy",
+      "spiel_titel": "Brasilien vs Aegypten (Friendly, Cleveland)",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.55,
+      "quote_quelle": "Aggregator-Konsens (Polymarket / ESPN, 05.06.)",
+      "edge_prozent": 13,
+      "begruendung": "Markt-Goldgrube (+30.2% ROI, 50% HR, n=20). Brasilien 6:2 vs Panama letzter Test - Tor-Tendenz unter Ancelotti. Aegypten Salah-Threat. Auch ohne Neymar bleibt Brasilien-Offensive auf 3+ Tore ausgelegt. Empfohlener Einsatz: 7,50€ (1.4%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.4,
+      "faire_quote": 1.37,
+      "rang": 7
+    },
+    {
+      "id": "ez-8",
+      "spiel_id": "2026-06-06-usa-ger",
+      "spiel_titel": "USA vs Deutschland (Friendly, Chicago)",
+      "kategorie": "value",
+      "markt": "Deutschland Sieg",
+      "quote": 1.62,
+      "quote_quelle": "Aggregator-Konsens (Goal / FanDuel / Covers, 05.06.)",
+      "edge_prozent": 8,
+      "begruendung": "Deutschland #9 vs USA #15 - kleinere Klassen-Edge als andere Friendlies, aber Wirtz/Woltemade-Top-Form + Kimmich-Achse. Aggregator-Konsens 1.60-1.65. USA hat Heim-Druck (Co-Gastgeber). 1.50-2.00-Range 52.4% HR / +9.6% ROI (n=148). Empfohlener Einsatz: 5,50€ (1.0%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.0,
+      "faire_quote": 1.5,
+      "rang": 8
+    },
+    {
+      "id": "ez-9",
+      "spiel_id": "2026-06-06-por-chi",
+      "spiel_titel": "Portugal vs Chile (Friendly, Lissabon)",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.65,
+      "quote_quelle": "Aggregator-Konsens (Sportytrader, 05.06.)",
+      "edge_prozent": 14,
+      "begruendung": "Markt-Goldgrube (+30.2% ROI). Portugal-Sieg-Quote 1.22 impliziert 82% Win, Klassen-Edge enorm. Heim-Show-Anreiz Bernardo/Leao/Ronaldo. Erwarteter Score ~3:0 fuer Portugal. Empfohlener Einsatz: 7,50€ (1.4%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.4,
+      "faire_quote": 1.44,
+      "rang": 9
+    },
+    {
+      "id": "ez-10",
+      "spiel_id": "2026-06-06-bel-tun",
+      "spiel_titel": "Belgien vs Tunesien (Friendly, Bruessel)",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.75,
+      "quote_quelle": "Aggregator-Konsens (Sportytrader, 05.06.)",
+      "edge_prozent": 10,
+      "begruendung": "Markt-Goldgrube (+30.2% ROI). Belgien-Offensive (Lukaku/KdB/Doku) zuhause vs Tunesien-defensive Aufstellung. Sieg-Quote 1.30 = 77% Win-Wahrscheinlichkeit -> Tor-Festival wahrscheinlich. Empfohlener Einsatz: 7,50€ (1.4%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.4,
+      "faire_quote": 1.6,
+      "rang": 10
+    },
+    {
+      "id": "ez-11",
+      "spiel_id": "2026-06-06-usa-ger",
+      "spiel_titel": "USA vs Deutschland (Friendly, Chicago)",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen - Ja",
+      "quote": 1.75,
+      "quote_quelle": "Aggregator-Konsens (Goal, 05.06.)",
+      "edge_prozent": 8,
+      "begruendung": "Pulisic Form-Hot (Tor vs Senegal) + USA-Heim-Druck vs Wirtz/Woltemade-Offensive. Beide Defenses anfaellig: USA-Ream/McKenzie + Deutschland-Brown links als Test-IV. Quote 1.75 fair-VALUE. Empfohlener Einsatz: 5,50€ (1.0%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.0,
+      "faire_quote": 1.62,
+      "rang": 11
+    },
+    {
+      "id": "ez-12",
+      "spiel_id": "2026-06-06-bra-egy",
+      "spiel_titel": "Brasilien vs Aegypten (Friendly, Cleveland)",
+      "kategorie": "value",
+      "markt": "Vinicius Junior trifft (Jederzeit)",
+      "quote": 2.0,
+      "quote_quelle": "Aggregator-Konsens (Polymarket / ESPN, 05.06.)",
+      "edge_prozent": 15,
+      "begruendung": "STAR-AUSFALL-BACKUP-PFLICHT (HR3): Neymar OUT -> Vinicius wird automatisch No.1-Volume-Achse. Real-Madrid-Saison Top-Form, vs Panama Doppelpack-Prognose. Markt-Goldgrube Torschuetzen Jederzeit +21.3% ROI. Empfohlener Einsatz: 7,50€ (1.4%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.4,
+      "faire_quote": 1.75,
+      "rang": 12
+    },
+    {
+      "id": "ez-13",
+      "spiel_id": "2026-06-06-por-chi",
+      "spiel_titel": "Portugal vs Chile (Friendly, Lissabon)",
+      "kategorie": "value",
+      "markt": "Cristiano Ronaldo trifft (Jederzeit)",
+      "quote": 2.1,
+      "quote_quelle": "Aggregator-Konsens (Sportskeeda, 05.06.)",
+      "edge_prozent": 12,
+      "begruendung": "Form-Edge-PFLICHT + invers Star-Ausfall-Backup: Ramos OUT -> Ronaldo bekommt 9er-Rolle + verlaengerte Min. Markt-Goldgrube +21.3% ROI. Friendly mit Chile-Defense schwach. Empfohlener Einsatz: 5,50€ (1.0%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.0,
+      "faire_quote": 1.85,
+      "rang": 13
+    },
+    {
+      "id": "ez-14",
+      "spiel_id": "2026-06-06-bel-tun",
+      "spiel_titel": "Belgien vs Tunesien (Friendly, Bruessel)",
+      "kategorie": "value",
+      "markt": "Romelu Lukaku trifft (Jederzeit)",
+      "quote": 2.2,
+      "quote_quelle": "Aggregator-Konsens (Sportytrader, 05.06.)",
+      "edge_prozent": 10,
+      "begruendung": "Form-Edge-PFLICHT: Lukaku Startelf-Comeback + WM-Hauptstuermer-Anwaerter, hochmotiviert. Tunesien-Defense begrenzt. Markt-Goldgrube Torschuetzen Jederzeit +21.3% ROI. Empfohlener Einsatz: 5,50€ (1.0%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.0,
+      "faire_quote": 2.0,
+      "rang": 14
+    }
+  ],
+  "kombis": [],
+  "lessons_angewandt": [
+    "HR2 Heim-/Auswaerts-Favorit-Pflichtprofil (Markt-Mix-PFLICHT 04.05.): Bei jedem Favoriten-Spiel MIN 1 Torschuetzen-Tipp auf Top-Stuermer. Angewandt auf alle 5 Friendlies (Kane, Lukaku, Ronaldo, Wirtz, Vinicius). Aktiv gesucht statt 'wenn Lust' - Markt-Goldgrube Torschuetzen Jederzeit (+21.3% ROI, 38.1% HR, n=44) priorisiert.",
+    "HR3 Star-Ausfall-Backup-PFLICHT: Neymar (Wadenverletzung) OUT bei Brasilien -> Vinicius automatisch als VALUE-Torschuetzen-Tipp gesetzt (ez-12, Risiko-Kombi-Bein). Plus Raphinha als Sekundaer-Wackel-Backup. Gleiche Logik invers bei Portugal: Ramos OUT (CL-Finale-Recovery) -> Ronaldo wird zur 9er-Achse (ez-13).",
+    "HR-Goldgrube-Liga-DC-Falle (04.05.): Friendlies sind NICHT in Liga-Goldgrube-Liste (nur EL HF Rueck, NBA R2 G2, CL HF Hinspiel). DAHER KEIN SAFE-DC zulaessig - Mapper-Hebel C wuerde sonst auf VALUE downgrade. Stattdessen: einzige SAFE-Position des Tages = England Ueber 2.5 (Markt-Goldgrube als SAFE-Treiber Mapper-konform).",
+    "Markt-Goldgrube Ueber 2.5 (+30.2% ROI, 50% HR n=20) als Balance-Kombi-ROI-Anker: 4 reine Ueber-2.5-Beine quer ueber Eng-NZL/Bel-Tun/Bra-Egy/Por-Chi = 6.04x. Wahrscheinlichste Treffer-Kombi des Tages neben Safe.",
+    "Markt-Goldgrube Torschuetzen Jederzeit (+21.3% ROI, 38.1% HR n=44) als Risiko-Kombi-ROI-Anker: 4 Top-Volume-Stars (Kane/Lukaku/Vinicius/Wirtz) je in unterschiedlichem Spiel = 21.83x.",
+    "Layer-1 (max 1 Bein/Spiel/Kombi): in allen 4 Kombis eingehalten - jedes Spiel liefert max 1 Bein pro Kombi.",
+    "Layer-2 (Sieg-Outcomes nur in Safe-Kombi): Sieg-Outcomes konzentriert in Safe-Kombi (Portugal/Belgien/England/Deutschland Sieg). Balance + Risiko + Moonshot komplett ohne Sieg-Outcome.",
+    "Layer-3 (Spiel/Markt-Bein max 1x ueber alle Kombis): Risiko nutzt Top-Volume-Stars (Kane/Lukaku/Vinicius/Wirtz), Moonshot nutzt Sekundaer-Stars (Bellingham/De Bruyne/Pulisic/Leao/Salah) - keine Spiel/Markt-Duplikate cross-Kombi.",
+    "HR Pinnacle-Hartregel: kein Pinnacle-Edge fuer Friendlies verlaesslich verfuegbar - alle Tipps daher auf VALUE/WACKEL begrenzt (ausser Markt-Goldgrube-SAFE-Treiber Ueber 2.5 England). Quote-Verifikation per Aggregator-Konsens (Sportytrader/Footballpredictions/Sky Bet/Polymarket/Sportskeeda) statt Pinnacle.",
+    "HR Quoten-Verifikations-Hartregel (27.04.): alle SAFE/VALUE-Quoten via Aggregator-Konsens verifiziert (Sky Bet, Sportytrader, Polymarket etc.). Keine geschaetzte Quote ohne '~' Praefix.",
+    "Lesson 27.04. Boost-Mechanik (Tipp-Spieler MUSS ausgewechselt werden): WACKEL-Torschuetzen-Tipps mit Boost-Hedge (KdB/Bellingham/Leao/Salah) - Boost wirkt nur falls Tipp-Spieler selbst ausgewechselt + Backup trifft.",
+    "Lesson 28.05. Europa-Pokal-Finale-Unter-Default NICHT angewandt: Friendlies sind keine Final-K.o.-Spiele - im Gegenteil typischerweise offene Generalprobe -> Ueber 2.5 als Default-Goldgrube (Klassen-Edge-Spots).",
+    "Lesson 25.04. SAFE-Trefferquote-Reality-Check (66.7% Soll 75-90%): heute nur 1 SAFE-Tipp (Eng Ueber 2.5) - sehr selektiv eingesetzt, nicht ueberdehnt. Kategorie SAFE Stand 70.4% / +4.2% ROI - Hartstand erreicht."
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "einzeltipps_ergebnis": [
+    {
+      "id": "ez-1",
+      "spiel_id": "2026-06-06-eng-nzl",
+      "spiel_titel": "England vs Neuseeland (Friendly, Tampa)",
+      "kategorie": "safe",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.35,
+      "quote_quelle": "Aggregator-Konsens (Sky Bet / Paddy Power / Footballpredictions, 05.06.)",
+      "edge_prozent": 11,
+      "begruendung": "TOP-1 des Tages. 89-Plaetze-FIFA-Klassen-Edge (#4 vs #93), England letzte 3 Spiele alle Ueber 2.5 (3:0, 3:1, 4:0). Tuchel will Achse zementieren = Volle Power. Markt-Goldgrube (+30.2% ROI, 50% HR, n=20). Reality-Check: 1.00-1.50-Range 71.4% HR / +6.7% ROI (n=102). Einzige SAFE-Position des Dossiers - Friendlies sind nicht Liga-Goldgrube, daher kein SAFE-DC zulaessig (Mapper Hebel C), aber Markt-Goldgrube als SAFE-Treiber Mapper-konform. Empfohlener Einsatz: 11€ (2.0% der 550€-Kasse).",
+      "bewertung_label": "SAFE",
+      "empfohlener_einsatz_prozent": 2.0,
+      "faire_quote": 1.22,
+      "rang": 1,
+      "status": "verloren",
+      "kommentar": "England 1:0 - nur 1 Tor, Ueber 2.5 VERLOREN. SAFE-Falle: Tuchel-11-HZ-Wechsel-Schon-Modus zementierte 1:0 statt erwartetes Tor-Festival. Klassen-Edge 89 Plaetze realisiert in Sieg, NICHT in Tor-Anzahl.",
+      "gewinn_faktor": -1.0,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "ez-1"
+    },
+    {
+      "id": "ez-2",
+      "spiel_id": "2026-06-06-por-chi",
+      "spiel_titel": "Portugal vs Chile (Friendly, Lissabon)",
+      "kategorie": "value",
+      "markt": "Portugal Sieg",
+      "quote": 1.22,
+      "quote_quelle": "Aggregator-Konsens (Sportytrader / Wincomparator / Sportskeeda, 05.06.)",
+      "edge_prozent": 8,
+      "begruendung": "Portugal #5 vs Chile (WM-Nicht-Teilnehmer, Conmebol 8.) - klare Klassen- und Motivations-Asymmetrie. Auch ohne PSG-Quartett (Mendes/Vitinha/Neves/Ramos in CL-Finale-Recovery) bleibt Bruno/Bernardo/Leao/Ronaldo Top-Achse. Aggregator-Konsens 1.22. Reality-Check Quoten-Range 1.00-1.50: 71.4% HR / +6.7% ROI. Empfohlener Einsatz: 7,50€ (1.4% der 550€-Kasse).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.4,
+      "faire_quote": 1.15,
+      "rang": 2,
+      "status": "gewonnen",
+      "kommentar": "Portugal 2:1 GEWONNEN. Guedes 57' + Bruno 64' machten Sache klar, Cepeda 90+1 nur Kosmetik. VALUE bestaetigt.",
+      "gewinn_faktor": 0.22,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "ez-2"
+    },
+    {
+      "id": "ez-3",
+      "spiel_id": "2026-06-06-bel-tun",
+      "spiel_titel": "Belgien vs Tunesien (Friendly, Bruessel)",
+      "kategorie": "value",
+      "markt": "Belgien Sieg",
+      "quote": 1.3,
+      "quote_quelle": "Aggregator-Konsens (Sportytrader / Footballpredictions, 05.06.)",
+      "edge_prozent": 7,
+      "begruendung": "Belgien #5 mit 12-Spiele-Unbesiegt-Serie zuhause vs Tunesien #37. Lukaku-Comeback + Heim-Abschieds-Anreiz. Tunesien mit Mejbri-Frage. Aggregator-Konsens 1.30. Reality-Check Quoten 1.00-1.50: 71.4% HR. Empfohlener Einsatz: 7,50€ (1.4%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.4,
+      "faire_quote": 1.2,
+      "rang": 3,
+      "status": "gewonnen",
+      "kommentar": "Belgien 5:0 GEWONNEN. Klassen-Edge schluck in 5:0-Triumph - 12-Spiele-Serie auf 13 ausgebaut.",
+      "gewinn_faktor": 0.3,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "ez-3"
+    },
+    {
+      "id": "ez-4",
+      "spiel_id": "2026-06-06-bra-egy",
+      "spiel_titel": "Brasilien vs Aegypten (Friendly, Cleveland)",
+      "kategorie": "value",
+      "markt": "Brasilien Sieg",
+      "quote": 1.3,
+      "quote_quelle": "Aggregator-Konsens (Polymarket / ESPN, 05.06.)",
+      "edge_prozent": 7,
+      "begruendung": "Brasilien #6 vs Aegypten #36 - Klassen-Edge tragend trotz Neymar-OUT (Vinicius/Raphinha-Achse intakt). Ancelotti-Generalprobe vor WM-Start in 8 Tagen. Aggregator-Konsens 1.30 (Polymarket impliziert 73%). 1.00-1.50-Range 71.4% HR. Empfohlener Einsatz: 7,50€ (1.4%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.4,
+      "faire_quote": 1.2,
+      "rang": 4,
+      "status": "gewonnen",
+      "kommentar": "Brasilien 2:1 GEWONNEN. Klassen-Edge realisiert trotz Ancelotti-8-HZ-Wechsel-Schon-Modus durch Endrick HZ-Sub-Tor 52'.",
+      "gewinn_faktor": 0.3,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "ez-4"
+    },
+    {
+      "id": "ez-5",
+      "spiel_id": "2026-06-06-eng-nzl",
+      "spiel_titel": "England vs Neuseeland (Friendly, Tampa)",
+      "kategorie": "value",
+      "markt": "England Sieg",
+      "quote": 1.12,
+      "quote_quelle": "Aggregator-Konsens (Sky Bet, 05.06.)",
+      "edge_prozent": 4,
+      "begruendung": "Tuchels Generalprobe vs FIFA-#93. 89-Plaetze-Klassen-Edge enorm. Aggregator-Konsens 1.12. Reality-Check 1.00-1.50-Range 71.4% HR - tiefe Quote aber Edge real. KEIN SAFE wegen Liga-Goldgrube-Filter (Friendlies) + Tuchel-Rotation in 2.HZ wahrscheinlich. Empfohlener Einsatz: 7,50€ (1.4%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.4,
+      "faire_quote": 1.07,
+      "rang": 5,
+      "status": "gewonnen",
+      "kommentar": "England 1:0 GEWONNEN. Trotz B-Elf-2.HZ und 11 Tuchel-Wechseln Klassen-Edge bewahrt.",
+      "gewinn_faktor": 0.12,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "ez-5"
+    },
+    {
+      "id": "ez-6",
+      "spiel_id": "2026-06-06-eng-nzl",
+      "spiel_titel": "England vs Neuseeland (Friendly, Tampa)",
+      "kategorie": "value",
+      "markt": "Harry Kane trifft (Jederzeit)",
+      "quote": 1.55,
+      "quote_quelle": "Aggregator-Konsens (Sky Bet / Paddy Power, 05.06.)",
+      "edge_prozent": 12,
+      "begruendung": "Form-Edge-PFLICHT (HR4): Kane 40+ Pflichtspiel-Tore Saison Bayern, 2 Doppelpacks letzte 3 England-Spiele. Klassen-Edge-Spot vs FIFA-#93-Defense. Markt-Goldgrube Torschuetzen Jederzeit +21.3% ROI (n=44). Empfohlener Einsatz: 7,50€ (1.4%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.4,
+      "faire_quote": 1.4,
+      "rang": 6,
+      "status": "gewonnen",
+      "kommentar": "Kane Tor in 45+1 GEWONNEN (Kopfball, Cross-Vorlage). Form-Edge-PFLICHT validiert - Kane direkt vor HZ-Pause-Aufgabe.",
+      "gewinn_faktor": 0.55,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "ez-6"
+    },
+    {
+      "id": "ez-7",
+      "spiel_id": "2026-06-06-bra-egy",
+      "spiel_titel": "Brasilien vs Aegypten (Friendly, Cleveland)",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.55,
+      "quote_quelle": "Aggregator-Konsens (Polymarket / ESPN, 05.06.)",
+      "edge_prozent": 13,
+      "begruendung": "Markt-Goldgrube (+30.2% ROI, 50% HR, n=20). Brasilien 6:2 vs Panama letzter Test - Tor-Tendenz unter Ancelotti. Aegypten Salah-Threat. Auch ohne Neymar bleibt Brasilien-Offensive auf 3+ Tore ausgelegt. Empfohlener Einsatz: 7,50€ (1.4%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.4,
+      "faire_quote": 1.37,
+      "rang": 7,
+      "status": "gewonnen",
+      "kommentar": "Brasilien 2:1, Total 3 Tore - Ueber 2.5 GEWONNEN (knapp via Endrick-HZ-Sub-Tor 52'). Markt-Goldgrube-These bestaetigt.",
+      "gewinn_faktor": 0.55,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "ez-7"
+    },
+    {
+      "id": "ez-8",
+      "spiel_id": "2026-06-06-usa-ger",
+      "spiel_titel": "USA vs Deutschland (Friendly, Chicago)",
+      "kategorie": "value",
+      "markt": "Deutschland Sieg",
+      "quote": 1.62,
+      "quote_quelle": "Aggregator-Konsens (Goal / FanDuel / Covers, 05.06.)",
+      "edge_prozent": 8,
+      "begruendung": "Deutschland #9 vs USA #15 - kleinere Klassen-Edge als andere Friendlies, aber Wirtz/Woltemade-Top-Form + Kimmich-Achse. Aggregator-Konsens 1.60-1.65. USA hat Heim-Druck (Co-Gastgeber). 1.50-2.00-Range 52.4% HR / +9.6% ROI (n=148). Empfohlener Einsatz: 5,50€ (1.0%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.0,
+      "faire_quote": 1.5,
+      "rang": 8,
+      "status": "gewonnen",
+      "kommentar": "Deutschland 2:1 GEWONNEN (Havertz 2', Sane 56'). Klassen-Edge + Achse-These funktionierte - Quoten-Range 1.50-2.00 (52.4% HR / +9.6% ROI) erneut Treffer.",
+      "gewinn_faktor": 0.62,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "ez-8"
+    },
+    {
+      "id": "ez-9",
+      "spiel_id": "2026-06-06-por-chi",
+      "spiel_titel": "Portugal vs Chile (Friendly, Lissabon)",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.65,
+      "quote_quelle": "Aggregator-Konsens (Sportytrader, 05.06.)",
+      "edge_prozent": 14,
+      "begruendung": "Markt-Goldgrube (+30.2% ROI). Portugal-Sieg-Quote 1.22 impliziert 82% Win, Klassen-Edge enorm. Heim-Show-Anreiz Bernardo/Leao/Ronaldo. Erwarteter Score ~3:0 fuer Portugal. Empfohlener Einsatz: 7,50€ (1.4%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.4,
+      "faire_quote": 1.44,
+      "rang": 9,
+      "status": "gewonnen",
+      "kommentar": "Portugal 2:1, 3 Tore - Ueber 2.5 GEWONNEN. Markt-Goldgrube-These bestaetigt trotz Plan-B-Aufstellung.",
+      "gewinn_faktor": 0.65,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "ez-9"
+    },
+    {
+      "id": "ez-10",
+      "spiel_id": "2026-06-06-bel-tun",
+      "spiel_titel": "Belgien vs Tunesien (Friendly, Bruessel)",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.75,
+      "quote_quelle": "Aggregator-Konsens (Sportytrader, 05.06.)",
+      "edge_prozent": 10,
+      "begruendung": "Markt-Goldgrube (+30.2% ROI). Belgien-Offensive (Lukaku/KdB/Doku) zuhause vs Tunesien-defensive Aufstellung. Sieg-Quote 1.30 = 77% Win-Wahrscheinlichkeit -> Tor-Festival wahrscheinlich. Empfohlener Einsatz: 7,50€ (1.4%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.4,
+      "faire_quote": 1.6,
+      "rang": 10,
+      "status": "gewonnen",
+      "kommentar": "Belgien 5:0, 5 Tore - Ueber 2.5 GEWONNEN deutlich. Markt-Goldgrube-These mit Margin von 2.5 Toren bestaetigt.",
+      "gewinn_faktor": 0.75,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "ez-10"
+    },
+    {
+      "id": "ez-11",
+      "spiel_id": "2026-06-06-usa-ger",
+      "spiel_titel": "USA vs Deutschland (Friendly, Chicago)",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen - Ja",
+      "quote": 1.75,
+      "quote_quelle": "Aggregator-Konsens (Goal, 05.06.)",
+      "edge_prozent": 8,
+      "begruendung": "Pulisic Form-Hot (Tor vs Senegal) + USA-Heim-Druck vs Wirtz/Woltemade-Offensive. Beide Defenses anfaellig: USA-Ream/McKenzie + Deutschland-Brown links als Test-IV. Quote 1.75 fair-VALUE. Empfohlener Einsatz: 5,50€ (1.0%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.0,
+      "faire_quote": 1.62,
+      "rang": 11,
+      "status": "gewonnen",
+      "kommentar": "USA-Ger 1:2, BTTS Ja GEWONNEN (Havertz 2', Robinson 36', Sane 56'). Pulisic-Hot-Form-These greift indirekt via Robinson-Equalizer.",
+      "gewinn_faktor": 0.75,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "ez-11"
+    },
+    {
+      "id": "ez-12",
+      "spiel_id": "2026-06-06-bra-egy",
+      "spiel_titel": "Brasilien vs Aegypten (Friendly, Cleveland)",
+      "kategorie": "value",
+      "markt": "Vinicius Junior trifft (Jederzeit)",
+      "quote": 2.0,
+      "quote_quelle": "Aggregator-Konsens (Polymarket / ESPN, 05.06.)",
+      "edge_prozent": 15,
+      "begruendung": "STAR-AUSFALL-BACKUP-PFLICHT (HR3): Neymar OUT -> Vinicius wird automatisch No.1-Volume-Achse. Real-Madrid-Saison Top-Form, vs Panama Doppelpack-Prognose. Markt-Goldgrube Torschuetzen Jederzeit +21.3% ROI. Empfohlener Einsatz: 7,50€ (1.4%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.4,
+      "faire_quote": 1.75,
+      "rang": 12,
+      "status": "verloren",
+      "kommentar": "Vinicius kein Tor + Boost greift NICHT: Vinicius HZ ausgewechselt fuer Luiz Henrique (direkter Ersatz), Luiz Henrique traf NICHT. Endrick traf - aber Endrick war Igor-Thiagos-Ersatz, NICHT Vinicius'. CLAUDE.md-Boost-Regel zaehlt nur direkten 1:1-Sub - Massen-HZ-Wechsel-Bezug unzulaessig.",
+      "gewinn_faktor": -1.0,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "ez-12"
+    },
+    {
+      "id": "ez-13",
+      "spiel_id": "2026-06-06-por-chi",
+      "spiel_titel": "Portugal vs Chile (Friendly, Lissabon)",
+      "kategorie": "value",
+      "markt": "Cristiano Ronaldo trifft (Jederzeit)",
+      "quote": 2.1,
+      "quote_quelle": "Aggregator-Konsens (Sportskeeda, 05.06.)",
+      "edge_prozent": 12,
+      "begruendung": "Form-Edge-PFLICHT + invers Star-Ausfall-Backup: Ramos OUT -> Ronaldo bekommt 9er-Rolle + verlaengerte Min. Markt-Goldgrube +21.3% ROI. Friendly mit Chile-Defense schwach. Empfohlener Einsatz: 5,50€ (1.0%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.0,
+      "faire_quote": 1.85,
+      "rang": 13,
+      "status": "gewonnen",
+      "kommentar": "Einwechslungs-Boost: Tor von Goncalo Guedes (57') zaehlt fuer Cristiano Ronaldo - Ronaldo wurde in HZ direkt durch Guedes ersetzt, Guedes traf in 57. Min als 9er. Ronaldo selbst hatte zudem Tor in 1.HZ wegen Abseits annulliert.",
+      "gewinn_faktor": 1.1,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "ez-13"
+    },
+    {
+      "id": "ez-14",
+      "spiel_id": "2026-06-06-bel-tun",
+      "spiel_titel": "Belgien vs Tunesien (Friendly, Bruessel)",
+      "kategorie": "value",
+      "markt": "Romelu Lukaku trifft (Jederzeit)",
+      "quote": 2.2,
+      "quote_quelle": "Aggregator-Konsens (Sportytrader, 05.06.)",
+      "edge_prozent": 10,
+      "begruendung": "Form-Edge-PFLICHT: Lukaku Startelf-Comeback + WM-Hauptstuermer-Anwaerter, hochmotiviert. Tunesien-Defense begrenzt. Markt-Goldgrube Torschuetzen Jederzeit +21.3% ROI. Empfohlener Einsatz: 5,50€ (1.0%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.0,
+      "faire_quote": 2.0,
+      "rang": 14,
+      "status": "gewonnen",
+      "kommentar": "Einwechslungs-Boost: Tor von Dodi Lukebakio (85') zaehlt fuer Romelu Lukaku - Lukaku wurde in 65. Min direkt durch Lukebakio ersetzt, Lukebakio traf 20 Min spaeter. CLAUDE.md-Boost-Hartregel sauber angewandt.",
+      "gewinn_faktor": 1.2,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "ez-14"
+    }
+  ],
+  "kombis_ergebnis": [],
+  "ausgewertet_am": "2026-06-07T06:13:54.429411Z"
+}

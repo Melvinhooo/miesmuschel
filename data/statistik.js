@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-06-06T06:16:51+00:00",
+  "letzte_berechnung": "2026-06-07T06:16:45+00:00",
   "gesamt": {
-    "tipps": 300,
-    "gewonnen": 163,
-    "verloren": 126,
+    "tipps": 314,
+    "gewonnen": 175,
+    "verloren": 128,
     "push": 2,
     "offen": 9,
-    "einsatz": 291.0,
-    "netto": 28.92,
-    "trefferquote": 56.4,
-    "roi_prozent": 9.9
+    "einsatz": 305.0,
+    "netto": 34.03,
+    "trefferquote": 57.8,
+    "roi_prozent": 11.2
   },
   "letzte_30_tage": {
-    "tipps": 147,
-    "gewonnen": 73,
-    "verloren": 63,
+    "tipps": 149,
+    "gewonnen": 77,
+    "verloren": 61,
     "push": 2,
     "offen": 9,
-    "einsatz": 138.0,
-    "netto": 25.96,
-    "trefferquote": 53.7,
-    "roi_prozent": 18.8
+    "einsatz": 140.0,
+    "netto": 16.63,
+    "trefferquote": 55.8,
+    "roi_prozent": 11.9
   },
   "letzte_90_tage": {
-    "tipps": 300,
-    "gewonnen": 163,
-    "verloren": 126,
+    "tipps": 314,
+    "gewonnen": 175,
+    "verloren": 128,
     "push": 2,
     "offen": 9,
-    "einsatz": 291.0,
-    "netto": 28.92,
-    "trefferquote": 56.4,
-    "roi_prozent": 9.9
+    "einsatz": 305.0,
+    "netto": 34.03,
+    "trefferquote": 57.8,
+    "roi_prozent": 11.2
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -496,6 +496,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": -0.09,
       "trefferquote": 50.0,
       "roi_prozent": -4.5
+    },
+    "Internationales Freundschaftsspiel (WM-Test)": {
+      "tipps": 14,
+      "gewonnen": 12,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 14.0,
+      "netto": 5.11,
+      "trefferquote": 85.7,
+      "roi_prozent": 36.5
     }
   },
   "nach_markt": {
@@ -1666,15 +1677,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -100.0
     },
     "Ueber 2.5 Tore": {
-      "tipps": 12,
-      "gewonnen": 5,
-      "verloren": 5,
+      "tipps": 16,
+      "gewonnen": 8,
+      "verloren": 6,
       "push": 0,
       "offen": 2,
-      "einsatz": 10.0,
-      "netto": 5.58,
-      "trefferquote": 50.0,
-      "roi_prozent": 55.8
+      "einsatz": 14.0,
+      "netto": 6.53,
+      "trefferquote": 57.1,
+      "roi_prozent": 46.6
     },
     "Unter 3.5 Tore": {
       "tipps": 3,
@@ -3083,6 +3094,116 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.91,
       "trefferquote": 100.0,
       "roi_prozent": 91.0
+    },
+    "Portugal Sieg": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.22,
+      "trefferquote": 100.0,
+      "roi_prozent": 22.0
+    },
+    "Belgien Sieg": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.3,
+      "trefferquote": 100.0,
+      "roi_prozent": 30.0
+    },
+    "Brasilien Sieg": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.3,
+      "trefferquote": 100.0,
+      "roi_prozent": 30.0
+    },
+    "England Sieg": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.12,
+      "trefferquote": 100.0,
+      "roi_prozent": 12.0
+    },
+    "Harry Kane trifft (Jederzeit)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.55,
+      "trefferquote": 100.0,
+      "roi_prozent": 55.0
+    },
+    "Deutschland Sieg": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.62,
+      "trefferquote": 100.0,
+      "roi_prozent": 62.0
+    },
+    "Beide Teams treffen - Ja": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.75,
+      "trefferquote": 100.0,
+      "roi_prozent": 75.0
+    },
+    "Vinicius Junior trifft (Jederzeit)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Cristiano Ronaldo trifft (Jederzeit)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.1,
+      "trefferquote": 100.0,
+      "roi_prozent": 110.0
+    },
+    "Romelu Lukaku trifft (Jederzeit)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.2,
+      "trefferquote": 100.0,
+      "roi_prozent": 120.0
     }
   },
   "nach_markt_typ": {
@@ -3131,26 +3252,26 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 55.0
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 95,
-      "gewonnen": 55,
+      "tipps": 100,
+      "gewonnen": 60,
       "verloren": 39,
       "push": 0,
       "offen": 1,
-      "einsatz": 94.0,
-      "netto": 6.37,
-      "trefferquote": 58.5,
-      "roi_prozent": 6.8
+      "einsatz": 99.0,
+      "netto": 7.93,
+      "trefferquote": 60.6,
+      "roi_prozent": 8.0
     },
     "Torschuetzen Jederzeit": {
-      "tipps": 44,
-      "gewonnen": 16,
-      "verloren": 26,
+      "tipps": 48,
+      "gewonnen": 19,
+      "verloren": 27,
       "push": 2,
       "offen": 0,
-      "einsatz": 44.0,
-      "netto": 9.37,
-      "trefferquote": 38.1,
-      "roi_prozent": 21.3
+      "einsatz": 48.0,
+      "netto": 11.22,
+      "trefferquote": 41.3,
+      "roi_prozent": 23.4
     },
     "Unter 2.5 Tore": {
       "tipps": 14,
@@ -3186,26 +3307,26 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 17.9
     },
     "Ueber 2.5 Tore": {
-      "tipps": 20,
-      "gewonnen": 9,
-      "verloren": 9,
+      "tipps": 24,
+      "gewonnen": 12,
+      "verloren": 10,
       "push": 0,
       "offen": 2,
-      "einsatz": 18.0,
-      "netto": 5.43,
-      "trefferquote": 50.0,
-      "roi_prozent": 30.2
+      "einsatz": 22.0,
+      "netto": 6.38,
+      "trefferquote": 54.5,
+      "roi_prozent": 29.0
     },
     "Beide Teams treffen JA": {
-      "tipps": 7,
-      "gewonnen": 2,
+      "tipps": 8,
+      "gewonnen": 3,
       "verloren": 3,
       "push": 0,
       "offen": 2,
-      "einsatz": 5.0,
-      "netto": -0.73,
-      "trefferquote": 40.0,
-      "roi_prozent": -14.6
+      "einsatz": 6.0,
+      "netto": 0.02,
+      "trefferquote": 50.0,
+      "roi_prozent": 0.3
     },
     "Ueber 1.5 Tore": {
       "tipps": 7,
@@ -3551,37 +3672,37 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 148,
-      "gewonnen": 75,
+      "tipps": 154,
+      "gewonnen": 81,
       "verloren": 68,
       "push": 1,
       "offen": 4,
-      "einsatz": 144.0,
-      "netto": 13.78,
-      "trefferquote": 52.4,
-      "roi_prozent": 9.6
+      "einsatz": 150.0,
+      "netto": 17.65,
+      "trefferquote": 54.4,
+      "roi_prozent": 11.8
     },
     "2.00-3.00": {
-      "tipps": 35,
-      "gewonnen": 13,
-      "verloren": 20,
+      "tipps": 38,
+      "gewonnen": 15,
+      "verloren": 21,
       "push": 1,
       "offen": 1,
-      "einsatz": 34.0,
-      "netto": 2.04,
-      "trefferquote": 39.4,
-      "roi_prozent": 6.0
+      "einsatz": 37.0,
+      "netto": 3.34,
+      "trefferquote": 41.7,
+      "roi_prozent": 9.0
     },
     "1.00-1.50": {
-      "tipps": 102,
-      "gewonnen": 70,
-      "verloren": 28,
+      "tipps": 107,
+      "gewonnen": 74,
+      "verloren": 29,
       "push": 0,
       "offen": 4,
-      "einsatz": 98.0,
-      "netto": 6.55,
-      "trefferquote": 71.4,
-      "roi_prozent": 6.7
+      "einsatz": 103.0,
+      "netto": 6.49,
+      "trefferquote": 71.8,
+      "roi_prozent": 6.3
     },
     "3.00+": {
       "tipps": 15,
@@ -3597,26 +3718,26 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_kategorie": {
     "safe": {
-      "tipps": 71,
+      "tipps": 72,
       "gewonnen": 50,
-      "verloren": 21,
+      "verloren": 22,
       "push": 0,
       "offen": 0,
-      "einsatz": 71.0,
-      "netto": 2.98,
-      "trefferquote": 70.4,
-      "roi_prozent": 4.2
+      "einsatz": 72.0,
+      "netto": 1.98,
+      "trefferquote": 69.4,
+      "roi_prozent": 2.8
     },
     "value": {
-      "tipps": 175,
-      "gewonnen": 88,
-      "verloren": 76,
+      "tipps": 188,
+      "gewonnen": 100,
+      "verloren": 77,
       "push": 2,
       "offen": 9,
-      "einsatz": 166.0,
-      "netto": 17.16,
-      "trefferquote": 53.7,
-      "roi_prozent": 10.3
+      "einsatz": 179.0,
+      "netto": 23.27,
+      "trefferquote": 56.5,
+      "roi_prozent": 13.0
     },
     "wackel": {
       "tipps": 54,
@@ -3647,6 +3768,180 @@ window.__MIESMUSCHEL_STAT = {
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-06-06",
+      "gesamt": {
+        "tipps": 14,
+        "gewonnen": 12,
+        "verloren": 2,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 14.0,
+        "netto": 5.11,
+        "trefferquote": 85.7,
+        "roi_prozent": 36.5
+      },
+      "spiele": [
+        {
+          "id": "2026-06-06-bel-tun",
+          "liga": "Internationales Freundschaftsspiel (WM-Test)",
+          "heim": "Belgien",
+          "gast": "Tunesien",
+          "endstand": "5:0",
+          "tipps": [
+            {
+              "markt": "Belgien Sieg",
+              "quote": 1.3,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.3,
+              "kommentar": "Belgien 5:0 GEWONNEN. Klassen-Edge schluck in 5:0-Triumph - 12-Spiele-Serie auf 13 ausgebaut."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.75,
+              "kommentar": "Belgien 5:0, 5 Tore - Ueber 2.5 GEWONNEN deutlich. Markt-Goldgrube-These mit Margin von 2.5 Toren bestaetigt."
+            },
+            {
+              "markt": "Romelu Lukaku trifft (Jederzeit)",
+              "quote": 2.2,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.2,
+              "kommentar": "Einwechslungs-Boost: Tor von Dodi Lukebakio (85') zaehlt fuer Romelu Lukaku - Lukaku wurde in 65. Min direkt durch Lukebakio ersetzt, Lukebakio traf 20 Min spaeter. CLAUDE.md-Boost-Hartregel sauber angewandt."
+            }
+          ]
+        },
+        {
+          "id": "2026-06-06-por-chi",
+          "liga": "Internationales Freundschaftsspiel (WM-Test)",
+          "heim": "Portugal",
+          "gast": "Chile",
+          "endstand": "2:1",
+          "tipps": [
+            {
+              "markt": "Portugal Sieg",
+              "quote": 1.22,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.22,
+              "kommentar": "Portugal 2:1 GEWONNEN. Guedes 57' + Bruno 64' machten Sache klar, Cepeda 90+1 nur Kosmetik. VALUE bestaetigt."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.65,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.65,
+              "kommentar": "Portugal 2:1, 3 Tore - Ueber 2.5 GEWONNEN. Markt-Goldgrube-These bestaetigt trotz Plan-B-Aufstellung."
+            },
+            {
+              "markt": "Cristiano Ronaldo trifft (Jederzeit)",
+              "quote": 2.1,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.1,
+              "kommentar": "Einwechslungs-Boost: Tor von Goncalo Guedes (57') zaehlt fuer Cristiano Ronaldo - Ronaldo wurde in HZ direkt durch Guedes ersetzt, Guedes traf in 57. Min als 9er. Ronaldo selbst hatte zudem Tor in 1.HZ wegen Abseits annulliert."
+            }
+          ]
+        },
+        {
+          "id": "2026-06-06-usa-ger",
+          "liga": "Internationales Freundschaftsspiel (WM-Test)",
+          "heim": "USA",
+          "gast": "Deutschland",
+          "endstand": "1:2",
+          "tipps": [
+            {
+              "markt": "Deutschland Sieg",
+              "quote": 1.62,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.62,
+              "kommentar": "Deutschland 2:1 GEWONNEN (Havertz 2', Sane 56'). Klassen-Edge + Achse-These funktionierte - Quoten-Range 1.50-2.00 (52.4% HR / +9.6% ROI) erneut Treffer."
+            },
+            {
+              "markt": "Beide Teams treffen - Ja",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.75,
+              "kommentar": "USA-Ger 1:2, BTTS Ja GEWONNEN (Havertz 2', Robinson 36', Sane 56'). Pulisic-Hot-Form-These greift indirekt via Robinson-Equalizer."
+            }
+          ]
+        },
+        {
+          "id": "2026-06-06-eng-nzl",
+          "liga": "Internationales Freundschaftsspiel (WM-Test)",
+          "heim": "England",
+          "gast": "Neuseeland",
+          "endstand": "1:0",
+          "tipps": [
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.35,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "England 1:0 - nur 1 Tor, Ueber 2.5 VERLOREN. SAFE-Falle: Tuchel-11-HZ-Wechsel-Schon-Modus zementierte 1:0 statt erwartetes Tor-Festival. Klassen-Edge 89 Plaetze realisiert in Sieg, NICHT in Tor-Anzahl."
+            },
+            {
+              "markt": "England Sieg",
+              "quote": 1.12,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.12,
+              "kommentar": "England 1:0 GEWONNEN. Trotz B-Elf-2.HZ und 11 Tuchel-Wechseln Klassen-Edge bewahrt."
+            },
+            {
+              "markt": "Harry Kane trifft (Jederzeit)",
+              "quote": 1.55,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.55,
+              "kommentar": "Kane Tor in 45+1 GEWONNEN (Kopfball, Cross-Vorlage). Form-Edge-PFLICHT validiert - Kane direkt vor HZ-Pause-Aufgabe."
+            }
+          ]
+        },
+        {
+          "id": "2026-06-06-bra-egy",
+          "liga": "Internationales Freundschaftsspiel (WM-Test)",
+          "heim": "Brasilien",
+          "gast": "Aegypten",
+          "endstand": "2:1",
+          "tipps": [
+            {
+              "markt": "Brasilien Sieg",
+              "quote": 1.3,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.3,
+              "kommentar": "Brasilien 2:1 GEWONNEN. Klassen-Edge realisiert trotz Ancelotti-8-HZ-Wechsel-Schon-Modus durch Endrick HZ-Sub-Tor 52'."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.55,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.55,
+              "kommentar": "Brasilien 2:1, Total 3 Tore - Ueber 2.5 GEWONNEN (knapp via Endrick-HZ-Sub-Tor 52'). Markt-Goldgrube-These bestaetigt."
+            },
+            {
+              "markt": "Vinicius Junior trifft (Jederzeit)",
+              "quote": 2.0,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Vinicius kein Tor + Boost greift NICHT: Vinicius HZ ausgewechselt fuer Luiz Henrique (direkter Ersatz), Luiz Henrique traf NICHT. Endrick traf - aber Endrick war Igor-Thiagos-Ersatz, NICHT Vinicius'. CLAUDE.md-Boost-Regel zaehlt nur direkten 1:1-Sub - Massen-HZ-Wechsel-Bezug unzulaessig."
+            }
+          ]
+        }
+      ],
+      "kombis": []
+    },
     {
       "datum": "2026-06-05",
       "gesamt": {
