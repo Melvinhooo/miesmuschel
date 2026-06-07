@@ -33,48 +33,9 @@
         "Heim-Abschieds-Spiel vor WM-Abreise - Kroatien-Publikum letzter Auftritt, Anreiz fuer 90-Minuten-Power statt Schonung.",
         "Quoten via Aggregator-Konsens (Sportsmole / FoxSports / Toffeeweb): Kroatien 1.36 / X 4.60 / Slowenien 9.00 - Ueber 2.5 ~2.15 / Unter 2.5 ~1.70 / BTTS Ja ~2.10."
       ],
-      "tipps": [
-        {
-          "id": "cro-svn-1",
-          "kategorie": "value",
-          "markt": "Kroatien Sieg",
-          "quote": 1.36,
-          "edge_prozent": 7.0,
-          "begruendung": "Klare Klassen- und Motivations-Asymmetrie: FIFA #10 vs #44 + Heim-Abschieds-Anreiz vor WM-Abreise (letzte Chance fuer Modric vor heimischem Publikum). Slowenien drucklos im Wiederaufbau unter Neu-Coach Cesar. Kroatien will Belgien-0:2-Sleitlinie ausbessern - Form-Reset-Druck. Reality-Check Quoten-Range 1.00-1.50: 71.8% HR / +6.3% ROI (n=107). Goldgrube Liga 'WM-Test' 85.7% HR / +36.5% ROI. Kein SAFE wegen Rotations-Risiko in Pre-WM-Friendlies (Lesson 06.06. B-Elf-Schon) - VALUE statt SAFE. Aufstellung 1h vor Anstoss verifizieren. Stake 1.6% x 550€ = 8,80€. Bei bet365 live pruefen.",
-          "quote_quelle": "Aggregator-Konsens (Sportsmole / FoxSports / Toffeeweb 06.06.)",
-          "faire_quote": 1.27,
-          "bewertung_label": "VALUE",
-          "empfohlener_einsatz_prozent": 1.6,
-          "_aufstellungs_verifikation_pflicht": true
-        },
-        {
-          "id": "cro-svn-2",
-          "kategorie": "wackel",
-          "markt": "Petar Musa trifft jederzeit",
-          "quote": 2.5,
-          "edge_prozent": 11.0,
-          "begruendung": "Goldgrube-Markt Torschuetzen Jederzeit (+23.4% ROI, 41.3% HR, n=48 - bester Markt im System). Musa (FC Dallas) zementiert WM-Hauptstuermer-Frage - 12 Tore in MLS-Saison, 3. zweistellige Saison in Folge, klar im Aufwind. Bei Heim-Favorit @1.36 (<1.80) und intaktem Modric-Sucic-Baturina-Support hinten ist Volumen-9er-Pflicht aktiv (Pflicht-Profil HEIM-FAVORIT). Slowenien-Verteidigung mit Brekalo/Bijol nicht Welt-Niveau. Einwechslungs-Boost-Hedge: Falls Musa fuer Kramaric/Budimir/Matanovic getauscht wird, zaehlen deren Tore mit (bet365-Regel). Reality-Check Quoten 2.00-3.00: 41.7% HR / +9.0% ROI. Stake 1.5% = 8,25€. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
-          "quote_quelle": "Aggregator-Konsens (Sportsmole / Wincomparator 06.06.)",
-          "faire_quote": 2.25,
-          "bewertung_label": "VALUE",
-          "empfohlener_einsatz_prozent": 1.5,
-          "_aufstellungs_verifikation_pflicht": true,
-          "_torschuetze_quelle_warn": true
-        },
-        {
-          "id": "cro-svn-3",
-          "kategorie": "wackel",
-          "markt": "Unter 2.5 Tore",
-          "quote": 1.7,
-          "edge_prozent": 5.0,
-          "begruendung": "H2H-Pattern: 2 von 3 letzten Kroatien-Slowenien-Duellen Unter 2.5. Vorsichtige Pre-WM-Friendlies tendieren zu defensiver Stabilitaets-Probe statt Open-Play-Festival. Slowenien-Coach Cesar baut Anti-Kontra-System auf (1:1 Zypern, 0:0 Ungarn). Kroatien laut Belgien-Spiel ohne Tor - Form-Defekt aktuell. Markt-Goldgrube Unter 2.5 +39.9% ROI / 71.4% HR (n=14). WACKEL statt VALUE wegen Modric-Schau-Anreiz + Musa-Form-Edge (gegenlaeufige Argumente). Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI. Stake 0.5% = 2,75€.",
-          "quote_quelle": "Aggregator-Konsens (Toffeeweb / Sportsmole 06.06.)",
-          "faire_quote": 1.62,
-          "bewertung_label": "WACKEL",
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-06-07-gre-ita",
@@ -106,33 +67,9 @@
         "Italien U22 hat in Luxemburg 1:0 Probleme im Offensiv-Drittel gezeigt - Baldini selbst: 'wir haben Probleme im Angriff'.",
         "Quoten via Aggregator-Konsens (Wincomparator / Toffeeweb / Sportskeeda): Griechenland 2.75 / X 3.45 / Italien 2.65 - Ueber 2.5 ~2.05 / Unter 2.5 ~1.75 / BTTS Ja ~2.10."
       ],
-      "tipps": [
-        {
-          "id": "gre-ita-1",
-          "kategorie": "value",
-          "markt": "Unter 2.5 Tore",
-          "quote": 1.75,
-          "edge_prozent": 9.0,
-          "begruendung": "Doppelte Tor-Schwaeche: Griechenland 0/1 Tor in 6 von 8 letzten Spielen (Form-Krise), Italien-U22 mit Esposito einziger Tor-Quelle (1:0 vs Luxemburg, Baldini selbst klagt ueber Offensiv-Probleme). Beide kein WM-Anreiz, beide im Umbruch - taktisch defensive Probe wahrscheinlich. Markt-Goldgrube Unter 2.5 +39.9% ROI / 71.4% HR (n=14 - bester Tor-Markt). H2H Griechenland-Italien-Friendlies historisch low-scoring (zuletzt 0:0 in EM-Quali). Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI (n=154 - beste Range). Stake 1.6% x 550€ = 8,80€.",
-          "quote_quelle": "Aggregator-Konsens (Wincomparator / Toffeeweb 06.06.)",
-          "faire_quote": 1.6,
-          "bewertung_label": "VALUE",
-          "empfohlener_einsatz_prozent": 1.6
-        },
-        {
-          "id": "gre-ita-2",
-          "kategorie": "wackel",
-          "markt": "Italien Doppelte Chance (X2)",
-          "quote": 1.55,
-          "edge_prozent": 4.0,
-          "begruendung": "Trotz U22-Squad hat Italien Klassen-Edge gegen Griechenland in Form-Krise (1 Sieg in 8 Spielen). DC X2 (Italien oder Remis) als defensiver Hedge: Pio-Esposito-Form-Anker (4 Tore in 8) + Donnarumma-Senior-Stabilitaet + Sucic-Pisilli-Talent. Coinflip-Match (alle 1X2-Quoten 2.65-3.45) - kein SAFE moeglich laut Pflicht-Profil Coinflip-Hartregel. Mapper Hebel S: Selbst-Widerspruch vermieden - kein SAFE in Spiel ohne Klassen-Lift. Reality-Check Quoten 1.50-2.00: 54.4% HR. Stake 0.5% = 2,75€.",
-          "quote_quelle": "Aggregator-Konsens (Wincomparator / Sportskeeda 06.06.)",
-          "faire_quote": 1.49,
-          "bewertung_label": "WACKEL",
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-06-07-mar-nor",
@@ -164,47 +101,9 @@
         "Marokko 5 ungeschlagen (4 Siege + 1 Remis), Norwegen schlug Schweden 3:1 - beide offensive Form: Marokko 15 Tore in 5, Norwegen 12 in 5.",
         "Quoten via Aggregator-Konsens (Wincomparator / Polymarket / Sportskeeda): Marokko 3.20 / X 3.45 / Norwegen 2.32 - Ueber 2.5 ~1.80 / BTTS Ja ~1.68 / Haaland Trifft ~1.85."
       ],
-      "tipps": [
-        {
-          "id": "mar-nor-1",
-          "kategorie": "safe",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.8,
-          "edge_prozent": 13.0,
-          "begruendung": "TOP-PICK des Tages. Markt-Goldgrube Ueber 2.5 +29.0% ROI / 54.5% HR (n=24). Liga-Goldgrube WM-Test 85.7% HR / +36.5% ROI (n=14). Lesson 07.06.: Markt-Pattern-WM-Test-Ueber-25-80pct-8g (8 Spiele 80% Hitrate, validierte Goldgrube-These Mai-Juni 2026). Marokko 15 Tore in 5 Spielen + Norwegen 12 in 5 + Haaland/Odegaard zurueck + neutraler Platz ohne Heim-Vorteil-Defensiv-Anker. Beide WM-final-Test = Volle Power, kein Schonungs-Risiko. SAFE in Liga-Goldgrube + Markt-Goldgrube = Mapper-Hebel C bestaetigt SAFE. Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI (n=154). Stake 2.0% x 550€ = 11€. Bei bet365 live pruefen.",
-          "quote_quelle": "Aggregator-Konsens (Wincomparator / Sportskeeda / Mozzart 06.06.)",
-          "faire_quote": 1.6,
-          "bewertung_label": "SAFE",
-          "empfohlener_einsatz_prozent": 2.0
-        },
-        {
-          "id": "mar-nor-2",
-          "kategorie": "wackel",
-          "markt": "Erling Haaland trifft jederzeit",
-          "quote": 1.85,
-          "edge_prozent": 8.0,
-          "begruendung": "Goldgrube-Markt Torschuetzen Jederzeit +23.4% ROI / 41.3% HR (n=48 - bester Markt im System, AKTIV SUCHEN). Haaland zurueck in Startelf nach Schonung - Form-Edge-Pflicht-Profil ausgeloest (Pflicht-Profil HEIM-/AUSWAERTS-FAVORIT bei <2.32 Norwegen-Sieg-Quote: Torschuetze auf Top-9er PFLICHT). 5 Tore in letzten 5 EM-Quali-Spielen, Goal-Machine-Modus + WM-final-Test-Anreiz. Marokko-Verteidigung mit Bono solide aber El Aynaoui-Amrabat zentral nicht Klasse-Antwort gegen Norwegen-Offensive. Einwechslungs-Boost-Hedge minimal (Haaland duerfte 70+ Min spielen). Reality-Check Quoten 1.50-2.00: 54.4% HR. Stake 1.5% = 8,25€. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
-          "quote_quelle": "Aggregator-Konsens (Sportskeeda / Mozzart / SportyTrader 06.06.)",
-          "faire_quote": 1.71,
-          "bewertung_label": "VALUE",
-          "empfohlener_einsatz_prozent": 1.5,
-          "_aufstellungs_verifikation_pflicht": true,
-          "_torschuetze_quelle_warn": true
-        },
-        {
-          "id": "mar-nor-3",
-          "kategorie": "value",
-          "markt": "Beide Teams treffen (Ja)",
-          "quote": 1.68,
-          "edge_prozent": 6.0,
-          "begruendung": "Norwegen 60% BTTS-Rate in letzten 10 + Marokko offensive Form 15 Tore in 5. Beide WM-final-Test mit Volle-Power-Aufstellungen, beide Stars zurueck (Haaland, Odegaard, El Kaabi). Neutraler Platz USA - kein Heim-Park-Defensiv-Anker. Volume-Star-beidseitig-Pattern erfuellt fuer BTTS. Liga-Goldgrube WM-Test bestaetigt offensive Friendlies-Tendenz. Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI. Markt-Korrelation zu mar-nor-1 (Ueber 2.5) bewusst - in Risiko-Kombi nicht doppelt verwendet (Layer-3). Stake 1.4% = 7,70€.",
-          "quote_quelle": "Aggregator-Konsens (1xbet / Wincomparator 06.06.)",
-          "faire_quote": 1.58,
-          "bewertung_label": "VALUE",
-          "empfohlener_einsatz_prozent": 1.4
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-06-07-ecu-gua",
@@ -236,47 +135,9 @@
         "H2H: Alle 3 letzten Ecuador-Guatemala-Duelle 2:0 Ecuador (Klassen-Pattern). Ecuador 83% Unter-2.5-Rate in eigenen Spielen - defensive Identitaet.",
         "Quoten via Aggregator-Konsens (Mightytips / Sportsmole / ESPN-Markt): Ecuador 1.30 / X 5.00 / Guatemala 11.00 - Ueber 2.5 ~1.65 / Unter 2.5 ~2.20 / Ecuador Sieg + Unter 3.5 ~1.85."
       ],
-      "tipps": [
-        {
-          "id": "ecu-gua-1",
-          "kategorie": "value",
-          "markt": "Ecuador Sieg",
-          "quote": 1.3,
-          "edge_prozent": 6.0,
-          "begruendung": "Massive Klassen-Asymmetrie FIFA #23 vs #105 + WM-Final-Test-Motivation + Heim-naher-USA-Platz. Caicedo/Pacho/Hincapie-Premier-League/PSG-Klasse + Valencia/Plata-Offensive vs Guatemala-Concacaf-Mid-Test-Squad. H2H 3-0 Ecuador in letzten 3 Spielen (alle 2:0). VALUE statt SAFE: WM-Test = Liga-Goldgrube aber pure Sieg-Tipps in Friendlies haben Schonungs-/Verletzungs-Risiko (Valencia Frage). Reality-Check Quoten 1.00-1.50: 71.8% HR / +6.3% ROI (n=107 - solide). Pflicht-Profil HEIM-FAVORIT (<1.80): Sieg-Tipp erfuellt + Torschuetzen-Tipp folgt. Stake 1.6% x 550€ = 8,80€.",
-          "quote_quelle": "Aggregator-Konsens (Mightytips / Sportsmole 06.06.)",
-          "faire_quote": 1.23,
-          "bewertung_label": "VALUE",
-          "empfohlener_einsatz_prozent": 1.6
-        },
-        {
-          "id": "ecu-gua-2",
-          "kategorie": "wackel",
-          "markt": "Gonzalo Plata trifft jederzeit",
-          "quote": 2.8,
-          "edge_prozent": 10.0,
-          "begruendung": "Goldgrube-Markt Torschuetzen Jederzeit +23.4% ROI (n=48 - bester Markt). Plata (Flamengo) als rechter Aussen-Stuermer ist Ecuador's Top-Tor-Quelle nach Valencia-Schonungs-Diskussion - Brasilianische-Liga-Form + offene Guatemala-Defensive (Concacaf-Mid). Pflicht-Profil HEIM-FAVORIT @1.30: Torschuetzen auf Top-Stuermer PFLICHT. Plata ueber Valencia bevorzugt wegen Trainings-Differenz-Frage (Lesson 25.04.: Roster-Verifikation). Einwechslungs-Boost-Hedge: falls Plata fuer Rodriguez/Mena getauscht wird, deren Tore zaehlen mit. Reality-Check Quoten 2.00-3.00: 41.7% HR / +9.0% ROI. Stake 1.0% = 5,50€. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
-          "quote_quelle": "Aggregator-Konsens (Sportsmole / Mightytips 06.06.)",
-          "faire_quote": 2.55,
-          "bewertung_label": "VALUE",
-          "empfohlener_einsatz_prozent": 1.0,
-          "_aufstellungs_verifikation_pflicht": true,
-          "_torschuetze_quelle_warn": true
-        },
-        {
-          "id": "ecu-gua-3",
-          "kategorie": "wackel",
-          "markt": "Unter 3.5 Tore",
-          "quote": 1.4,
-          "edge_prozent": 3.0,
-          "begruendung": "Ecuador-Defensiv-Identitaet (83% Unter-2.5-Rate). H2H 3 von 3 letzten Duellen exakt 2:0 Ecuador - Pattern beider Mannschaften ist Klassen-Sieg ohne Torfestival. Pre-WM-Final-Test mit Caicedo-Pacho-Hincapie-Mauer (Premier League / PSG / Leverkusen) - Defense-System-Pflicht. Unter 3.5 statt Unter 2.5 als Sicherheits-Aufschlag bei Klassen-Sieg. WACKEL statt VALUE wegen niedriger Quote 1.40 + Markt-Risiko falls Ecuador 4. Tor sucht (Trainings-Volume). Reality-Check Quoten 1.00-1.50: 71.8% HR / +6.3% ROI. Stake 0.5% = 2,75€.",
-          "quote_quelle": "Aggregator-Konsens (Mightytips / ESPN 06.06.)",
-          "faire_quote": 1.36,
-          "bewertung_label": "WACKEL",
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     }
   ],
   "einzeltipps": [
@@ -446,111 +307,7 @@
       "rang": 11
     }
   ],
-  "kombis": [
-    {
-      "id": "kombi-safe",
-      "name": "🛟 Safe-Kombi (~3.2x)",
-      "kategorie": "safe",
-      "gesamtquote": 3.18,
-      "empfohlener_einsatz_prozent": 2.0,
-      "einsatz_euro": 11.0,
-      "begruendung": "Sieg-Outcome- und Goldgrube-Markt-Kombi (Layer-2: Sieg-Outcomes nur hier). Drei klare Klassen- und Motivations-Edge-Spiele: Kroatien-Heim-Abschied vor WM, Ecuador-WM-Final-Test, Marokko-Norwegen-Goldgrube-Markt + Liga-Goldgrube. Gesamtquote nachgerechnet: 1.36 × 1.30 × 1.80 = 3.18. Stake 2% x 550€ = 11€.",
-      "beine": [
-        {
-          "spiel_id": "2026-06-07-cro-svn",
-          "tipp_id": "cro-svn-1",
-          "spiel_titel": "Kroatien - Slowenien",
-          "markt": "Kroatien - Slowenien: Kroatien Sieg",
-          "quote": 1.36
-        },
-        {
-          "spiel_id": "2026-06-07-ecu-gua",
-          "tipp_id": "ecu-gua-1",
-          "spiel_titel": "Ecuador - Guatemala",
-          "markt": "Ecuador - Guatemala: Ecuador Sieg",
-          "quote": 1.3
-        },
-        {
-          "spiel_id": "2026-06-07-mar-nor",
-          "tipp_id": "mar-nor-1",
-          "spiel_titel": "Marokko - Norwegen",
-          "markt": "Marokko - Norwegen: Ueber 2.5 Tore",
-          "quote": 1.8
-        }
-      ]
-    },
-    {
-      "id": "kombi-balance",
-      "name": "⚖️ Balance-Kombi (~8.1x)",
-      "kategorie": "balance",
-      "gesamtquote": 8.09,
-      "empfohlener_einsatz_prozent": 0.8,
-      "einsatz_euro": 4.4,
-      "begruendung": "Form-9er- und Defensiv-Kombi mit unterschiedlichen Marktprofilen zur Safe-Kombi (Layer-3 Markt-Diversifikation). Drei Form-/Tor-Maerkte: Unter 2.5 GRE-ITA als Anker (Markt-Goldgrube), Haaland-Trifft (Markt-Goldgrube Torschuetzen Jederzeit) + Musa-Trifft (Form-Edge). Gesamtquote nachgerechnet: 1.75 × 1.85 × 2.50 = 8.09. Stake 0.8% x 550€ = 4,40€.",
-      "beine": [
-        {
-          "spiel_id": "2026-06-07-gre-ita",
-          "tipp_id": "gre-ita-1",
-          "spiel_titel": "Griechenland - Italien",
-          "markt": "Griechenland - Italien: Unter 2.5 Tore",
-          "quote": 1.75
-        },
-        {
-          "spiel_id": "2026-06-07-mar-nor",
-          "tipp_id": "mar-nor-2",
-          "spiel_titel": "Marokko - Norwegen",
-          "markt": "Marokko - Norwegen: Erling Haaland trifft jederzeit",
-          "quote": 1.85
-        },
-        {
-          "spiel_id": "2026-06-07-cro-svn",
-          "tipp_id": "cro-svn-2",
-          "spiel_titel": "Kroatien - Slowenien",
-          "markt": "Kroatien - Slowenien: Petar Musa trifft jederzeit",
-          "quote": 2.5
-        }
-      ]
-    },
-    {
-      "id": "kombi-risiko",
-      "name": "🎲 Risiko-Kombi (~12.4x)",
-      "kategorie": "risk",
-      "gesamtquote": 12.39,
-      "empfohlener_einsatz_prozent": 0.25,
-      "einsatz_euro": 1.4,
-      "begruendung": "Vier-Bein-Mix: defensiver Kroatien-Hedge (Unter 2.5) + Italien-Klassen-DC (Sieg-Outcome erstmals verwendet - gre-ita nicht in Safe) + BTTS Marokko-Norwegen-Offensive + Plata-Torschuetze. Markt-Mix komplett anders als Safe/Balance (Layer-3 erfuellt). Mini-Spiele-Tag-Stake 0.25% beruecksichtigt 4-Bein-Mathematik ~12% Hitrate. Gesamtquote: 1.70 × 1.55 × 1.68 × 2.80 = 12.39. Stake 0.25% x 550€ = 1,40€.",
-      "beine": [
-        {
-          "spiel_id": "2026-06-07-cro-svn",
-          "tipp_id": "cro-svn-3",
-          "spiel_titel": "Kroatien - Slowenien",
-          "markt": "Kroatien - Slowenien: Unter 2.5 Tore",
-          "quote": 1.7
-        },
-        {
-          "spiel_id": "2026-06-07-gre-ita",
-          "tipp_id": "gre-ita-2",
-          "spiel_titel": "Griechenland - Italien",
-          "markt": "Griechenland - Italien: Italien Doppelte Chance (X2)",
-          "quote": 1.55
-        },
-        {
-          "spiel_id": "2026-06-07-mar-nor",
-          "tipp_id": "mar-nor-3",
-          "spiel_titel": "Marokko - Norwegen",
-          "markt": "Marokko - Norwegen: Beide Teams treffen (Ja)",
-          "quote": 1.68
-        },
-        {
-          "spiel_id": "2026-06-07-ecu-gua",
-          "tipp_id": "ecu-gua-2",
-          "spiel_titel": "Ecuador - Guatemala",
-          "markt": "Ecuador - Guatemala: Gonzalo Plata trifft jederzeit",
-          "quote": 2.8
-        }
-      ]
-    }
-  ],
+  "kombis": [],
   "lessons_angewandt": [
     {
       "lesson": "Lesson 07.06. Markt-Pattern-WM-Test-Ueber25-80pct-8g - Liga-Goldgrube WM-Test (85.7% HR / +36.5% ROI) bestaetigt Ueber 2.5 als Top-Markt in WM-Tests vor WM-Start",

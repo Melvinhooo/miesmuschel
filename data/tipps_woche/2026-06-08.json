@@ -32,46 +32,9 @@
         "Nordirland Wiederaufbau-Squad ohne WM-Druck: Ferguson, Bradley (Liverpool), Saville, Charles - junges Test-Mid-Field.",
         "Quoten via Aggregator-Konsens (Sportskeeda / MightyTips / DailySports 07.06.): Frankreich 1.14 / X 6.25 / Nordirland 15.00 - Ueber 2.5 ~1.65 / Mbappe Trifft ~1.50 / Frankreich -2.5 Handicap ~2.10."
       ],
-      "tipps": [
-        {
-          "id": "fra-nir-1",
-          "kategorie": "safe",
-          "markt": "Kylian Mbappe trifft jederzeit",
-          "quote": 1.5,
-          "edge_prozent": 15.0,
-          "begruendung": "DOPPEL-GOLDGRUBE: Liga 'WM-Test' 85.7% HR / +36.5% ROI (n=14, Lesson 07.06. validiert) + Markt 'Torschuetzen Jederzeit' +23.4% ROI / 41.3% HR (n=48, bester Markt im System AKTIV SUCHEN). Mbappe Real-Madrid-Pichichi 2025/26 (33 Tore La Liga), in Karriere-Form-Hoch + Frankreich-Form-Defekt nach Cote d'Ivoire (1:2) erzeugt Tor-Druck auf Top-Stuermer. Pflicht-Profil HEIM-FAVORIT (<1.80) erfuellt: Sieg-Tipp + Torschuetzen-Tipp vorhanden. Einwechslungs-Boost-Hedge minimal (Mbappe spielt 70+ Min in Heim-Lille-Test). Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI (n=154). Stake 2.0% x 550€ = 11€.",
-          "quote_quelle": "Aggregator-Konsens (Sportskeeda / MightyTips 07.06.)",
-          "faire_quote": 1.32,
-          "bewertung_label": "SAFE",
-          "empfohlener_einsatz_prozent": 2.0,
-          "_aufstellungs_verifikation_pflicht": true
-        },
-        {
-          "id": "fra-nir-2",
-          "kategorie": "value",
-          "markt": "Frankreich Sieg",
-          "quote": 1.14,
-          "edge_prozent": 4.0,
-          "begruendung": "Reine Klassen-Asymmetrie FIFA #1 vs #74 + Heim-Test + Form-Reparatur-Druck nach Cote-d'Ivoire-1:2. WM-Test Liga-Goldgrube, aber Sieg-Markt NICHT in Markt-Goldgrube - Mapper-Hebel C downgraded auf VALUE statt SAFE (selbst bei niedriger Quote 1.14). In Safe-Kombi vermieden (Layer-2: Sieg-Outcome nur 1 Kombi) - hier nur Einzel-Anker. Reality-Check Quoten 1.00-1.50: 71.8% HR / +6.3% ROI (n=107). Stake 1.5% = 8,25€.",
-          "quote_quelle": "Aggregator-Konsens (Sportskeeda / MightyTips 07.06.)",
-          "faire_quote": 1.1,
-          "bewertung_label": "VALUE",
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "fra-nir-3",
-          "kategorie": "value",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.65,
-          "edge_prozent": 7.0,
-          "begruendung": "Markt-Goldgrube Ueber 2.5 +29% ROI / 54.5% HR + Liga-Goldgrube WM-Test 85.7% HR. Frankreich Form-Defekt-Reparatur + Heim-Lille-Anreiz vor 50000 Zuschauern + Mbappe/Dembele/Olise-Trio. Nordirland-Verteidigung mit jungen Test-Spielern (Charles/Bradley) - offen fuer Counter-Tore. Lesson 07.06.: WM-Test Ueber 2.5 80% Hitrate in 8 Spielen bestaetigt. WACKEL-Risiko: Frankreich-Friendlies oft 2:0/3:0 mit gerade-noch-darunter (Pattern). Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI. Stake 1.4% = 7,70€.",
-          "quote_quelle": "Aggregator-Konsens (MightyTips / DailySports 07.06.)",
-          "faire_quote": 1.54,
-          "bewertung_label": "VALUE",
-          "empfohlener_einsatz_prozent": 1.4
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-06-08-ned-uzb",
@@ -103,47 +66,9 @@
         "Erste-Begegnung-Pattern fuer beide Mannschaften - kein H2H Vorgeschichte.",
         "Quoten via Aggregator-Konsens (ESPN / Polymarket / 22bet / MightyTips 07.06.): Niederlande 1.27 / X 5.50 / Usbekistan 11.00 - Ueber 2.5 ~1.55 / Memphis Trifft ~2.00 / Niederlande -2.5 Handicap ~2.25."
       ],
-      "tipps": [
-        {
-          "id": "ned-uzb-1",
-          "kategorie": "safe",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.55,
-          "edge_prozent": 12.0,
-          "begruendung": "DOPPEL-GOLDGRUBE: Liga 'WM-Test' 85.7% HR / +36.5% ROI (Lesson 07.06. WM-Test-Ueber25-80pct-8g validiert) + Markt 'Ueber 2.5 Tore' +29% ROI / 54.5% HR (n=24). Massive Klassen-Asymmetrie FIFA #6 vs #57 + Niederlande-Form-Druck nach Algerien-Niederlage + neutraler Platz USA = kein Heim-Defensiv-Anker. Volle-Power-Aufstellung beidseitig (WM-Debuetant Usbekistan kein Schonungs-Anreiz, Koeman muss Form zeigen). Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI (n=154 beste Range). SAFE-bestaetigt durch Mapper-Hebel C (Liga + Markt Goldgrube). Stake 2.0% x 550€ = 11€.",
-          "quote_quelle": "Aggregator-Konsens (ESPN / Polymarket / MightyTips 07.06.)",
-          "faire_quote": 1.38,
-          "bewertung_label": "SAFE",
-          "empfohlener_einsatz_prozent": 2.0
-        },
-        {
-          "id": "ned-uzb-2",
-          "kategorie": "wackel",
-          "markt": "Memphis Depay trifft jederzeit",
-          "quote": 2.0,
-          "edge_prozent": 10.0,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit +23.4% ROI / 41.3% HR (bester Markt). Memphis Form-Anker (8 Tore in letzten 10 NL-Spielen) + Heim-Favorit-Pflicht-Profil bei <1.80 Sieg-Quote = Torschuetzen-Tipp PFLICHT. Usbekistan-Verteidigung mit Khotamov/Khusanov nicht Klasse-Antwort. Aber Memphis-Verletzungs-Risiko-Subnote (Lesson 'Massen-HZ-Sub-Falle' 07.06.) - Koeman koennte ihn nach 60min schon einwechseln, wenn 2:0 oder 3:0 fuehrend. Einwechslungs-Boost: falls Memphis fuer Brobbey getauscht wird, deren Tore zaehlen. Reality-Check Quoten 2.00-3.00: 41.7% HR / +9.0% ROI. Stake 1.0% = 5,50€. [Auto: Torschuetze-Vereins-Quelle fehlt - max wackel]",
-          "quote_quelle": "Aggregator-Konsens (Polymarket / MightyTips 07.06.)",
-          "faire_quote": 1.82,
-          "bewertung_label": "VALUE",
-          "empfohlener_einsatz_prozent": 1.0,
-          "_aufstellungs_verifikation_pflicht": true,
-          "_torschuetze_quelle_warn": true
-        },
-        {
-          "id": "ned-uzb-3",
-          "kategorie": "value",
-          "markt": "Niederlande Sieg",
-          "quote": 1.27,
-          "edge_prozent": 4.0,
-          "begruendung": "Klassen-Edge FIFA #6 vs #57 + WM-Form-Reparatur-Druck Koeman. Sieg-Markt nicht in Markt-Goldgrube → max VALUE (Mapper-Hebel C). Layer-2-Diversifikation: in Safe-Kombi vermieden (Ueber 2.5 dort), in Balance vermieden. Hier nur Einzel-Spielplan. Reality-Check Quoten 1.00-1.50: 71.8% HR / +6.3% ROI (n=107). Stake 1.5% = 8,25€.",
-          "quote_quelle": "Aggregator-Konsens (ESPN / Polymarket 07.06.)",
-          "faire_quote": 1.22,
-          "bewertung_label": "VALUE",
-          "empfohlener_einsatz_prozent": 1.5
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-06-09-sas-nyk-finals-g3",
@@ -176,33 +101,9 @@
         "Lesson HR16 (NBA-Playoff-Player-Punkte) AKTIV - keine Wemby/Brunson/Towns/Castle-Player-Punkte-Einzeltipps.",
         "Lesson 'Beobachtungs-Liga NBA-Round-1-G6' (02.05.) trifft NICHT zu - das ist Finals G3 (eigene Kategorie)."
       ],
-      "tipps": [
-        {
-          "id": "g3-1",
-          "kategorie": "wackel",
-          "markt": "San Antonio Spurs +2.5 (Spread)",
-          "quote": 1.91,
-          "edge_prozent": 6.0,
-          "begruendung": "Spurs Heim-Underdog ist hier Auswaerts-Underdog im MSG mit Sweep-Abwehr-Verzweiflung. Lesson 03.06. 'Spurs-G7-Hangover-These-validiert-VALUE-Auswaerts-Underdog' + Lesson 29.05. Wemby-Snap-Back-Pattern nach G2 21 Pkt → G3 30+ Pkt-Bounce-Back erwartet. Wembanyama-DPOY-Defense kann Brunson-Towns-Iso-Eruption neutralisieren. KEIN SAFE wegen NBA-Finals-Cap (Mapper-Hebel B). 2.5-Punkt-Kissen ist real: in Game-3-Sweep-Abwehr-Spielen historisch nur 47% straight-up-loss-margin >2.5 fuer Heim-Favorit (eigene Analyse aus 14 vergleichbaren Spielen). Stake 0.5% x 550€ = 2,75€.",
-          "quote_quelle": "Aggregator-Konsens (FanDuel / OddsShark 07.06.)",
-          "faire_quote": 1.8,
-          "bewertung_label": "WACKEL",
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "id": "g3-2",
-          "kategorie": "wackel",
-          "markt": "Unter 216.5 Pkt",
-          "quote": 1.91,
-          "edge_prozent": 5.0,
-          "begruendung": "Finals-Defense-Studien-Pattern (Lesson 02.05.: NBA G6/G7 + Closeout-Druck = oft Defensiv-Schlachten). G1 Total 206, G2 Total 206 - beide bisher unter 216.5. MSG-Heim-Crowd kann zwar Tempo erhoehen aber Wembanyama-DPOY-Wand-Effekt + Knicks-Anunoby-Bridges-Wing-Defense laufen Risiko-Adjustments. Spread-Asymmetrie (Knicks -2.5) korreliert mit Mid-Total Defensiv-Spiel. Reality-Check Quoten 1.80-2.00: 41% HR / +5% ROI - Range mit Pace-Volatility. Stake 0.5% = 2,75€.",
-          "quote_quelle": "Aggregator-Konsens (FanDuel / OddsShark 07.06.)",
-          "faire_quote": 1.82,
-          "bewertung_label": "WACKEL",
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-06-09-per-esp",
@@ -234,47 +135,9 @@
         "Spanien WM-Top-3-Favorit (4.50 fuer Titel laut bet365), De-la-Fuente-System-Football. Joselu als 9er ohne Morata.",
         "Quoten via Aggregator-Konsens (1xBet / MightyTips / HardTackle 07.06.): Peru 8.50 / X 5.20 / Spanien 1.36 - Ueber 2.5 ~1.55 / Spanien -1.5 Handicap ~1.67 / Joselu Trifft ~2.20."
       ],
-      "tipps": [
-        {
-          "id": "per-esp-1",
-          "kategorie": "safe",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.55,
-          "edge_prozent": 12.0,
-          "begruendung": "DOPPEL-GOLDGRUBE: Liga 'WM-Test' 85.7% HR + Markt 'Ueber 2.5 Tore' +29% ROI / 54.5% HR. Massive Klassen-Asymmetrie + WM-Final-Test-Anreiz Spanien + neutraler Platz Mexico = kein Heim-Defensiv-Anker. Spanien-Form-Mannschaft mit System-Football (52% Ueber 2.5 Saison-Rate vor Pre-WM-Tests) + offene Peru-Defensiv-Rotation. Yamal raus = Olmo zentral statt rechts, Stuermer Joselu/Oyarzabal Volumen-Vorlage. Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI (n=154 - beste Range). SAFE-bestaetigt Mapper-Hebel C (Liga + Markt Goldgrube). Stake 2.0% x 550€ = 11€.",
-          "quote_quelle": "Aggregator-Konsens (1xBet / MightyTips 07.06.)",
-          "faire_quote": 1.39,
-          "bewertung_label": "SAFE",
-          "empfohlener_einsatz_prozent": 2.0
-        },
-        {
-          "id": "per-esp-2",
-          "kategorie": "wackel",
-          "markt": "Dani Olmo trifft jederzeit",
-          "quote": 2.4,
-          "edge_prozent": 8.0,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit +23.4% ROI. Ohne Yamal ist Olmo zentral hinter Joselu - Kreativitaets- und Tor-Anker Spaniens. Pflicht-Profil HEIM-Favorit (Spanien <1.80) PFLICHT-Torschuetzen-Tipp erfuellt. Olmo Leipzig-Saison mit 11 Bundesliga-Toren + Position-Verschiebung in die Zentral-Spielen-mehr-Tore-Range. Lesson 07.06. Massen-HZ-Sub-Falle: De la Fuente koennte Olmo nach 60min einwechseln (Schonung) - Einwechslungs-Boost-Hedge: Nachfolger Fermin Lopez/Pedri trifft = Tipp gewonnen. Stake 0.5% = 2,75€. [Auto: Torschuetze-Vereins-Quelle fehlt - max wackel]",
-          "quote_quelle": "Aggregator-Konsens (MightyTips 07.06.)",
-          "faire_quote": 2.22,
-          "bewertung_label": "VALUE",
-          "empfohlener_einsatz_prozent": 0.5,
-          "_aufstellungs_verifikation_pflicht": true,
-          "_torschuetze_quelle_warn": true
-        },
-        {
-          "id": "per-esp-3",
-          "kategorie": "value",
-          "markt": "Spanien Sieg",
-          "quote": 1.36,
-          "edge_prozent": 5.0,
-          "begruendung": "Klassen-Edge FIFA #2 vs #36 + Form-Mannschaft (Euro-Sieger 2024) + Volle-Power-Test-Anreiz. Sieg-Markt nicht in Markt-Goldgrube → max VALUE (Mapper-Hebel C). In Safe-Kombi vermieden (Ueber 2.5 dort gewaehlt). Reality-Check Quoten 1.00-1.50: 71.8% HR / +6.3% ROI. Stake 1.4% = 7,70€.",
-          "quote_quelle": "Aggregator-Konsens (1xBet / MightyTips 07.06.)",
-          "faire_quote": 1.3,
-          "bewertung_label": "VALUE",
-          "empfohlener_einsatz_prozent": 1.4
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-06-09-sen-sau",
@@ -304,35 +167,9 @@
         "H2H: 2 letzte Begegnungen 1998 + 2002 beide 3:2 Saudi - alte Daten ohne Aussagekraft heute.",
         "Quoten via Aggregator-Konsens (Sportskeeda / FoxSports 07.06.): Senegal 1.50 / X 4.20 / Saudi 5.50 - Ueber 2.5 ~1.75 / Mane Trifft ~2.10 / Senegal -1 Handicap ~1.85."
       ],
-      "tipps": [
-        {
-          "id": "sen-sau-1",
-          "kategorie": "value",
-          "markt": "Senegal Sieg",
-          "quote": 1.5,
-          "edge_prozent": 6.0,
-          "begruendung": "Klassen-Asymmetrie FIFA #20 vs #59 + WM-Final-Test-Anreiz Senegal + Mane-Stuetzen-Form. WM-Test Liga-Goldgrube aber Sieg-Markt nicht in Markt-Goldgrube → max VALUE (Mapper-Hebel C). Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI. Stake 1.4% = 7,70€.",
-          "quote_quelle": "Aggregator-Konsens (Sportskeeda / FoxSports 07.06.)",
-          "faire_quote": 1.41,
-          "bewertung_label": "VALUE",
-          "empfohlener_einsatz_prozent": 1.4
-        },
-        {
-          "id": "sen-sau-2",
-          "kategorie": "wackel",
-          "markt": "Sadio Mane trifft jederzeit",
-          "quote": 2.1,
-          "edge_prozent": 7.0,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit +23.4% ROI. Mane Captain + 21 Saudi-Pro-League-Tore 2025/26 + Pflicht-Profil HEIM-Favorit (<1.80) erfuellt. Saudi-Verteidigung im Aufbau-Modus unter Mancini - offene Counter-Tor-Linien. Schonungs-Risiko bei Mane nach 60min hoch, aber Einwechslungs-Boost-Hedge auf Boulaye Dia/Nicolas Jackson moeglich. Stake 0.5% = 2,75€. [Auto: Torschuetze-Vereins-Quelle fehlt - max wackel]",
-          "quote_quelle": "Aggregator-Konsens (Sportskeeda 07.06.)",
-          "faire_quote": 1.96,
-          "bewertung_label": "WACKEL",
-          "empfohlener_einsatz_prozent": 0.5,
-          "_aufstellungs_verifikation_pflicht": true,
-          "_torschuetze_quelle_warn": true
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-06-10-eng-crc",
@@ -364,47 +201,9 @@
         "Lesson 06.06. 'Klassen-Edge-realisiert-Sieg-nicht-Tor-Anzahl-B-Elf-Schon' Subnote - England koennte stark rotieren in 2. Hz, Tor-Anzahl-Risiko erhoeht. Aber: Tuchel-Form-Reset-Druck nach NZ-Niederlage → Stammelf laenger drin.",
         "Quoten via Aggregator-Konsens (Stake / Bet365 / SportyTrader 07.06.): England 1.19 / X 8.50 / Costa Rica 22.00 - Ueber 2.5 ~1.65 / Kane Trifft ~1.70 / England -2.5 Handicap ~2.20."
       ],
-      "tipps": [
-        {
-          "id": "eng-crc-1",
-          "kategorie": "safe",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.65,
-          "edge_prozent": 12.0,
-          "begruendung": "DOPPEL-GOLDGRUBE: Liga 'WM-Test' 85.7% HR + Markt 'Ueber 2.5 Tore' +29% ROI / 54.5% HR. Massive Klassen-Edge + Tuchel-Form-Reset-Druck (Stammelf laenger drin = mehr Tore) + Kane-Form-Hoch + Volle-Power-Test-Anreiz. Lesson 07.06. WM-Test Ueber 2.5 80% Hitrate in 8 Spielen validiert (HR43). SAFE-bestaetigt Mapper-Hebel C (Liga + Markt Goldgrube). Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI. Stake 2.0% x 550€ = 11€.",
-          "quote_quelle": "Aggregator-Konsens (Stake / Bet365 / SportyTrader 07.06.)",
-          "faire_quote": 1.47,
-          "bewertung_label": "SAFE",
-          "empfohlener_einsatz_prozent": 2.0
-        },
-        {
-          "id": "eng-crc-2",
-          "kategorie": "value",
-          "markt": "Harry Kane trifft jederzeit",
-          "quote": 1.7,
-          "edge_prozent": 11.0,
-          "begruendung": "DOPPEL-GOLDGRUBE: Liga WM-Test + Markt Torschuetzen Jederzeit +23.4% ROI / 41.3% HR (bester Markt). Kane Bayern-Saison 32 Bundesliga-Tore = Karriere-Top-Form. Pflicht-Profil HEIM-Favorit (<1.80) PFLICHT-Torschuetze erfuellt. Costa-Rica-Verteidigung mit Concacaf-Mid-Niveau - keine Klasse-Antwort. Tuchel-Reset-Druck nach NZ-Niederlage → Kane laenger drin als ueblich. Einwechslungs-Boost-Hedge: falls Kane fuer Watkins/Toney getauscht wird, deren Tore zaehlen. Stake 1.5% = 8,25€. [Auto: Torschuetze-Vereins-Quelle fehlt - max wackel - aber Edge so klar dass VALUE]",
-          "quote_quelle": "Aggregator-Konsens (SportyTrader / Bet365 07.06.)",
-          "faire_quote": 1.53,
-          "bewertung_label": "VALUE",
-          "empfohlener_einsatz_prozent": 1.5,
-          "_aufstellungs_verifikation_pflicht": true,
-          "_torschuetze_quelle_warn": true
-        },
-        {
-          "id": "eng-crc-3",
-          "kategorie": "value",
-          "markt": "England Sieg",
-          "quote": 1.19,
-          "edge_prozent": 5.0,
-          "begruendung": "Klassen-Edge FIFA #4 vs #54 + Form-Reset-Druck-Anreiz. Sieg-Markt nicht in Markt-Goldgrube → max VALUE. In Safe-Kombi vermieden. Reality-Check Quoten 1.00-1.50: 71.8% HR / +6.3% ROI (n=107). Stake 1.4% = 7,70€.",
-          "quote_quelle": "Aggregator-Konsens (Stake / SportyTrader 07.06.)",
-          "faire_quote": 1.14,
-          "bewertung_label": "VALUE",
-          "empfohlener_einsatz_prozent": 1.4
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-06-10-por-ngr",
@@ -437,47 +236,9 @@
         "Ademola Lookman Atalanta Serie-A 18 Tore (CL-Toptorschuetze Atalanta-Run) - explosive Form.",
         "Quoten via Aggregator-Konsens (Polymarket / SportyTrader / Betfred 07.06.): Portugal 1.30 / X 5.00 / Nigeria 8.50 - Ueber 2.5 ~1.55 / Ronaldo Trifft ~1.85 / Osimhen Trifft ~2.30 / BTTS Ja ~1.95."
       ],
-      "tipps": [
-        {
-          "id": "por-ngr-1",
-          "kategorie": "safe",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.55,
-          "edge_prozent": 13.0,
-          "begruendung": "DOPPEL-GOLDGRUBE: Liga 'WM-Test' 85.7% HR + Markt 'Ueber 2.5 Tore' +29% ROI / 54.5% HR. Beidseitige Volume-Stuermer-Stars: Ronaldo (27 Saudi-Tore) + Osimhen (27 Gala-Tore) + Lookman (18 Serie-A) - Top-Form-Trio. Portugal-Heim-Anreiz + Volle-Power-Test-Anreiz beidseitig. Nigeria-Verteidigung mit Bassey/Ekong nicht Klasse-Niveau-Antwort gegen Portugal-Offensive. Lesson 07.06. WM-Test Ueber 2.5 80% HR validiert. SAFE-bestaetigt Mapper-Hebel C. Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI. Stake 2.0% x 550€ = 11€.",
-          "quote_quelle": "Aggregator-Konsens (Polymarket / SportyTrader 07.06.)",
-          "faire_quote": 1.37,
-          "bewertung_label": "SAFE",
-          "empfohlener_einsatz_prozent": 2.0
-        },
-        {
-          "id": "por-ngr-2",
-          "kategorie": "value",
-          "markt": "Cristiano Ronaldo trifft jederzeit",
-          "quote": 1.85,
-          "edge_prozent": 10.0,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit +23.4% ROI. Ronaldo 40 Heim-Last-Chance-WM-Anreiz + 27 Saudi-Tore = Form-Hoch + Pflicht-Profil HEIM-Favorit erfuellt. Roberto Martinez wird Ronaldo 75-80min drinhalten um Goal-Quoten zu liefern. Einwechslungs-Boost-Hedge auf Joao Felix/Goncalo Ramos. Reality-Check Quoten 1.50-2.00: 54.4% HR. Stake 1.5% = 8,25€. [Auto: Torschuetze-Vereins-Quelle fehlt - max wackel - VALUE da Edge so klar]",
-          "quote_quelle": "Aggregator-Konsens (SportyTrader / Polymarket 07.06.)",
-          "faire_quote": 1.68,
-          "bewertung_label": "VALUE",
-          "empfohlener_einsatz_prozent": 1.5,
-          "_aufstellungs_verifikation_pflicht": true,
-          "_torschuetze_quelle_warn": true
-        },
-        {
-          "id": "por-ngr-3",
-          "kategorie": "wackel",
-          "markt": "Beide Teams treffen (Ja)",
-          "quote": 1.95,
-          "edge_prozent": 6.0,
-          "begruendung": "Beide Mannschaften offensiv stark: Osimhen-Lookman vs Ronaldo-Leao. Portugal-Verteidigung mit Ruben Dias/Antonio Silva solide aber Pre-WM-Test-Setup oft offen. Korrelation zu por-ngr-1 (Ueber 2.5) bewusst - Layer-3 fuer Kombis beachtet (BTTS NICHT zusammen mit Ueber 2.5 in selber Kombi). Reality-Check Quoten 1.50-2.00: 54.4% HR. Stake 0.5% = 2,75€.",
-          "quote_quelle": "Aggregator-Konsens (SportyTrader 07.06.)",
-          "faire_quote": 1.84,
-          "bewertung_label": "WACKEL",
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-06-11-sas-nyk-finals-g4",
@@ -507,21 +268,9 @@
         "Lesson HR16 aktiv - keine Wemby/Brunson/Towns-Player-Punkte-Einzeltipps.",
         "Beobachtungs-Liga 'NBA Round 1 G6' trifft hier nicht zu - Finals G4 (eigene Kategorie)."
       ],
-      "tipps": [
-        {
-          "id": "g4-1",
-          "kategorie": "wackel",
-          "markt": "San Antonio Spurs Sieg (Moneyline)",
-          "quote": 2.3,
-          "edge_prozent": 7.0,
-          "begruendung": "Spurs Auswaerts-Underdog im MSG mit Verzweiflungs-Druck (entweder 0-3 / Saison-Ende-Verhinderung oder 1-2 / Comeback-Phase). Lesson 03.06. 'Spurs-G7-Hangover-These-validiert-VALUE-Auswaerts-Underdog' suggeriert Spurs-VALUE-Pattern beim Heim-Druck-Bouncing. Wembanyama-Snap-Back-Pattern (Lesson 29.05.) nach moeglichem G3 schwach = G4 Bounce-Back. KEIN SAFE wegen NBA-Finals-Cap (Mapper-Hebel B). Player-Punkte HR16 nicht angefasst. Stake 0.25% x 550€ = 1,40€ (sehr klein wegen 7d-Vorlauf-Volatilitaet).",
-          "quote_quelle": "geschaetzt 3d vor Spiel - keine festen Quoten verfuegbar",
-          "faire_quote": 2.15,
-          "bewertung_label": "WACKEL",
-          "empfohlener_einsatz_prozent": 0.25
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-06-11-mex-saf",
@@ -554,47 +303,9 @@
         "H2H: Mexico 14 von 17 letzten Begegnungen gegen Suedafrika gewonnen, 3 Remis (Klassen-Pattern stabil).",
         "Quoten via Aggregator-Konsens (Bet365 / FanDuel / SportsLine 07.06.): Mexico 1.48 / X 4.30 / Suedafrika 6.50 - Ueber 2.5 ~2.10 / Unter 2.5 ~1.72 / Mexico Sieg + Unter 3.5 ~1.95 / Jimenez Trifft ~2.40."
       ],
-      "tipps": [
-        {
-          "id": "mex-saf-1",
-          "kategorie": "value",
-          "markt": "Mexiko Sieg",
-          "quote": 1.48,
-          "edge_prozent": 7.0,
-          "begruendung": "Heim-Festung Azteca (87000) + Eroeffnungs-Hype + Klassen-Edge FIFA #17 vs #56 + Hoehen-Anpassungs-Risiko fuer Suedafrika. H2H Mexico 14/17 gewonnen. WM nicht in Liga-Goldgrube + Sieg-Markt nicht Markt-Goldgrube → max VALUE (Mapper-Hebel C). Aber: Edge mehrdimensional ueber Heim+Klassen+Hoehe. Reality-Check Quoten 1.00-1.50: 71.8% HR / +6.3% ROI (n=107 - solide). Pflicht-Profil HEIM-FAVORIT (<1.80) erfuellt: Sieg + Torschuetze + Tor-Total-Tipp. Stake 1.6% x 550€ = 8,80€.",
-          "quote_quelle": "Aggregator-Konsens (Bet365 / FanDuel 07.06.)",
-          "faire_quote": 1.38,
-          "bewertung_label": "VALUE",
-          "empfohlener_einsatz_prozent": 1.6
-        },
-        {
-          "id": "mex-saf-2",
-          "kategorie": "wackel",
-          "markt": "Raul Jimenez trifft jederzeit",
-          "quote": 2.4,
-          "edge_prozent": 8.0,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit +23.4% ROI. Jimenez 18 PL-Tore Karriere-Hoch + Heim-Eroeffnungs-Anreiz + Pflicht-Profil HEIM-Favorit erfuellt. Aguirre-Praeferenz fuer Jimenez als 9er (Lozano koennte aussen brennen). Hoehen-Anpassung-Defense-Welcher fuer Suedafrika. Lesson 'Massen-HZ-Sub-Falle' 07.06.: bei 2:0-Fuehrung koennte Jimenez ausgewechselt werden - Einwechslungs-Boost-Hedge auf Henry Martin (Ersatz). Stake 0.5% = 2,75€. [Auto: Torschuetze-Vereins-Quelle fehlt - max wackel]",
-          "quote_quelle": "Aggregator-Konsens (FanDuel / SportsLine 07.06.)",
-          "faire_quote": 2.22,
-          "bewertung_label": "WACKEL",
-          "empfohlener_einsatz_prozent": 0.5,
-          "_aufstellungs_verifikation_pflicht": true,
-          "_torschuetze_quelle_warn": true
-        },
-        {
-          "id": "mex-saf-3",
-          "kategorie": "wackel",
-          "markt": "Unter 2.5 Tore",
-          "quote": 1.72,
-          "edge_prozent": 8.0,
-          "begruendung": "Markt-Goldgrube Unter 2.5 +39.9% ROI / 71.4% HR (bester Tor-Markt im System). Lesson 06.06. 'Klassen-Edge-realisiert-Sieg-nicht-Tor-Anzahl' + WM-Auftakt-Nervositaet + Suedafrika-Anti-Kontra-Setup unter Broos (Kompakter Block). Mexico-Eroeffnungs-Druck koennte zu vorsichtigem 1:0/2:0-Spiel fuehren statt Tor-Festival. WACKEL statt SAFE wegen widerspruechlicher Eroeffnungs-Hype-Vermutung. Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI. Stake 0.5% = 2,75€.",
-          "quote_quelle": "Aggregator-Konsens (Bet365 / ThatsAGoal 07.06.)",
-          "faire_quote": 1.6,
-          "bewertung_label": "WACKEL",
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-06-12-kor-cze",
@@ -625,33 +336,9 @@
         "Patrik Schick (Leverkusen) - 18 Bundesliga-Tore 2025/26 = Form-Hoch + Volume-9er, Pflicht-Spieler.",
         "Quoten via Aggregator-Konsens (Bet365 / BetMGM / Squawka 07.06.): Suedkorea 2.62 / X 3.10 / Tschechien 2.75 - Ueber 2.5 ~2.10 / Unter 2.5 ~1.72 / BTTS Ja ~1.85 / Son Trifft ~3.20 / Schick Trifft ~3.10."
       ],
-      "tipps": [
-        {
-          "id": "kor-cze-1",
-          "kategorie": "wackel",
-          "markt": "Beide Teams treffen (Ja)",
-          "quote": 1.85,
-          "edge_prozent": 6.0,
-          "begruendung": "Coinflip-Match (alle 1X2-Quoten 2.62-3.10) + beide Volume-Stuermer (Son LAFC 12/13 + Schick Leverkusen 18/Saison) + WM-Auftakts-Nervositaet kann Defensiv-Fehler erzeugen. KEIN SAFE per Coinflip-Hartregel. Korea-Schnelle-Counter + Tschechien-Aerial-Power (Schick) = beidseitige Tor-Wahrscheinlichkeit. Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI. Stake 0.5% x 550€ = 2,75€.",
-          "quote_quelle": "Aggregator-Konsens (Bet365 / BetMGM 07.06.)",
-          "faire_quote": 1.75,
-          "bewertung_label": "WACKEL",
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "id": "kor-cze-2",
-          "kategorie": "wackel",
-          "markt": "Suedkorea Sieg",
-          "quote": 2.62,
-          "edge_prozent": 4.0,
-          "begruendung": "Coinflip-Edge-Marginal: Son-Lee-Hwang-Trio + Korea-Schnelligkeits-Vorteil + Markt-Konsens leichte Korea-Praeferenz (37% Kalshi-Implied vs 33% Czechia). Tschechien kann individuell beissen aber Form-Konsistenz unklar. KEIN SAFE per Coinflip + Moonshot-Kombi-Kandidat. Reality-Check Quoten 2.00-3.00: 41.7% HR / +9.0% ROI. Stake 0.5% = 2,75€.",
-          "quote_quelle": "Aggregator-Konsens (Bet365 / BetMGM 07.06.)",
-          "faire_quote": 2.52,
-          "bewertung_label": "WACKEL",
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-06-12-can-bih",
@@ -684,35 +371,9 @@
         "Edin Dzeko Fenerbahce-Saison 15 Tore - Captain-Anker mit 40, will Last-Chance-WM-Klasse zeigen.",
         "Quoten via Aggregator-Konsens (Bet365 / OddsChecker / Squawka 07.06.): Kanada 1.83 / X 3.55 / Bosnien 4.20 - Ueber 2.5 ~2.05 / Unter 2.5 ~1.78 / Bosnien DC X2 ~1.85."
       ],
-      "tipps": [
-        {
-          "id": "can-bih-1",
-          "kategorie": "value",
-          "markt": "Kanada Doppelte Chance (1X)",
-          "quote": 1.3,
-          "edge_prozent": 5.0,
-          "begruendung": "Markt-Goldgrube Doppelte Chance 1X +2.3% ROI / 80% HR (n=22). Heim-Toronto-Edge + Klassen-Edge auch ohne Davies. Direkter Sieg riskanter wegen Davies-Schwaechung → DC 1X als Hedge. WM nicht Liga-Goldgrube + DC 1X marginal Markt-Goldgrube (ROI nur +2.3%) → max VALUE per Mapper-Hebel C. Reality-Check Quoten 1.00-1.50: 71.8% HR / +6.3% ROI. Stake 1.4% x 550€ = 7,70€.",
-          "quote_quelle": "Aggregator-Konsens (Bet365 / OddsChecker 07.06.)",
-          "faire_quote": 1.24,
-          "bewertung_label": "VALUE",
-          "empfohlener_einsatz_prozent": 1.4
-        },
-        {
-          "id": "can-bih-2",
-          "kategorie": "wackel",
-          "markt": "Jonathan David trifft jederzeit",
-          "quote": 2.25,
-          "edge_prozent": 7.0,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit +23.4% ROI. David (Lille) 22 Ligue-1-Tore 2025/26 = Form-Hoch + Pflicht-Profil HEIM-Favorit (<1.83 nahe Schwelle) erfordert Torschuetzen-Tipp. Bosniens Verteidigung mit Memija/Hadzikadunic nicht Spitzenklasse. Stake 0.5% = 2,75€. [Auto: Torschuetze-Vereins-Quelle fehlt - max wackel]",
-          "quote_quelle": "Aggregator-Konsens (Bet365 / Squawka 07.06.)",
-          "faire_quote": 2.1,
-          "bewertung_label": "WACKEL",
-          "empfohlener_einsatz_prozent": 0.5,
-          "_aufstellungs_verifikation_pflicht": true,
-          "_torschuetze_quelle_warn": true
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-06-13-usa-par",
@@ -746,35 +407,9 @@
         "Squawka-Tipp: USA Sieg @ +100 mit Unter 2.5 (1:0-Tendenz). Niedrige Tor-Erwartung wegen Coinflip-Charakter + Defensiv-Setups.",
         "Quoten via Aggregator-Konsens (Bet365 / FanDuel / DraftKings / Squawka 07.06.): USA 2.00 / X 3.40 / Paraguay 3.75 - Unter 2.5 ~1.77 / Pulisic Trifft ~2.50 / BTTS Nein ~1.85."
       ],
-      "tipps": [
-        {
-          "id": "usa-par-1",
-          "kategorie": "wackel",
-          "markt": "Unter 2.5 Tore",
-          "quote": 1.77,
-          "edge_prozent": 8.0,
-          "begruendung": "Markt-Goldgrube Unter 2.5 +39.9% ROI / 71.4% HR (bester Tor-Markt). Squawka-Tipp 1:0 USA bestaetigt Defensiv-Tendenz. Beide Mannschaften vorsichtige WM-Auftakts-Strategie (USA-Heim-Druck-Nervositaet, Paraguay-Anti-Kontra-Setup). Coinflip-Match-Pattern oft eng. Lesson 06.06. Klassen-Edge-Sieg-nicht-Tor-Anzahl. WACKEL statt VALUE wegen Pulisic-Kreativitaet kann jederzeit Festival starten. Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI. Stake 0.5% x 550€ = 2,75€.",
-          "quote_quelle": "Aggregator-Konsens (Bet365 / FanDuel 07.06.)",
-          "faire_quote": 1.64,
-          "bewertung_label": "WACKEL",
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "id": "usa-par-2",
-          "kategorie": "wackel",
-          "markt": "Christian Pulisic trifft jederzeit",
-          "quote": 2.5,
-          "edge_prozent": 8.0,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit +23.4% ROI. Pulisic Form-Anker + Captain-Mit-Druck + Heim-SoFi-Stadium-Eroeffnungs-Auftritt. Coinflip-Match wo Pulisic den entscheidenden Hebel haben kann. KEIN SAFE per Coinflip + Player-Volatility. Stake 0.5% = 2,75€. [Auto: Torschuetze-Vereins-Quelle fehlt - max wackel]",
-          "quote_quelle": "Aggregator-Konsens (FanDuel / Squawka 07.06.)",
-          "faire_quote": 2.31,
-          "bewertung_label": "WACKEL",
-          "empfohlener_einsatz_prozent": 0.5,
-          "_aufstellungs_verifikation_pflicht": true,
-          "_torschuetze_quelle_warn": true
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-06-13-qat-sui",
@@ -806,47 +441,9 @@
         "Qatar 4-3-3: Saad Al-Sheeb; Pedro Miguel, Al-Rawi, Khoukhi, Hassan; Boudiaf, Hatem, Madibo; Akram Afif, Almoez Ali, Hassan Al-Haydos.",
         "Quoten via Aggregator-Konsens (Bet365 / Dimers / BetMGM 07.06.): Qatar 8.50 / X 5.50 / Schweiz 1.30 - Ueber 2.5 ~1.65 / Unter 2.5 ~2.15 / Embolo Trifft ~2.00 / Schweiz -1.5 Handicap ~1.55."
       ],
-      "tipps": [
-        {
-          "id": "qat-sui-1",
-          "kategorie": "value",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.65,
-          "edge_prozent": 9.0,
-          "begruendung": "Markt-Goldgrube Ueber 2.5 +29% ROI / 54.5% HR. Massive Klassen-Edge Schweiz + Embolo-Vargas-Sow-Trio gegen Qatar-Wiederaufbau. Lesson 06.06. 'B-Elf-Schon' minimal (Schweiz hat noch 2 weitere Gruppenspiele, Stuetzen 70-80min drin). Schweiz-Auftakts-Druck als klarer Favorit erzeugt Tempo. Mapper-Hebel C: WM nicht Liga-Goldgrube → max VALUE statt SAFE. Reality-Check Quoten 1.50-2.00: 54.4% HR. Stake 1.5% x 550€ = 8,25€.",
-          "quote_quelle": "Aggregator-Konsens (Bet365 / Dimers 07.06.)",
-          "faire_quote": 1.5,
-          "bewertung_label": "VALUE",
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "qat-sui-2",
-          "kategorie": "wackel",
-          "markt": "Breel Embolo trifft jederzeit",
-          "quote": 2.0,
-          "edge_prozent": 9.0,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit +23.4% ROI. Embolo Rennes-Saison 8 Tore + Pflicht-Profil AUSWAERTS-FAVORIT (<2.20 erfuellt mit Schweiz 1.30) erfordert Torschuetzen-Tipp. Qatar-Verteidigung mit Khoukhi/Al-Rawi nicht Spitzenklasse. Lesson 'Massen-HZ-Sub-Falle' 07.06.: bei 2:0-Fuehrung koennte Embolo getauscht werden - Einwechslungs-Boost-Hedge auf Itten/Okafor. Stake 0.5% = 2,75€. [Auto: Torschuetze-Vereins-Quelle fehlt - max wackel]",
-          "quote_quelle": "Aggregator-Konsens (BetMGM / Squawka 07.06.)",
-          "faire_quote": 1.83,
-          "bewertung_label": "WACKEL",
-          "empfohlener_einsatz_prozent": 0.5,
-          "_aufstellungs_verifikation_pflicht": true,
-          "_torschuetze_quelle_warn": true
-        },
-        {
-          "id": "qat-sui-3",
-          "kategorie": "value",
-          "markt": "Schweiz Sieg",
-          "quote": 1.3,
-          "edge_prozent": 5.0,
-          "begruendung": "Reine Klassen-Edge FIFA #11 vs #46. Sieg-Markt nicht in Markt-Goldgrube + WM nicht Liga-Goldgrube → max VALUE. In Safe-Kombi vermieden (Ueber 2.5 dort verwendet). Reality-Check Quoten 1.00-1.50: 71.8% HR / +6.3% ROI. Stake 1.4% = 7,70€.",
-          "quote_quelle": "Aggregator-Konsens (Bet365 / Dimers 07.06.)",
-          "faire_quote": 1.22,
-          "bewertung_label": "VALUE",
-          "empfohlener_einsatz_prozent": 1.4
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-06-14-bra-mar",
@@ -881,47 +478,9 @@
         "Youssef En-Nesyri (Fenerbahce) - 19 Sueper-Lig-Tore Form-Anker.",
         "Quoten via Aggregator-Konsens (Bet365 / Squawka / RotoWire / Sky 07.06.): Brasilien 1.62 / X 4.00 / Marokko 5.25 - Ueber 2.5 ~1.85 / Unter 2.5 ~1.90 / BTTS Ja ~1.85 / Vinicius Trifft ~2.10 / En-Nesyri Trifft ~3.20."
       ],
-      "tipps": [
-        {
-          "id": "bra-mar-1",
-          "kategorie": "value",
-          "markt": "Beide Teams treffen (Ja)",
-          "quote": 1.85,
-          "edge_prozent": 9.0,
-          "begruendung": "Beidseitige Volume-Star-Stuermer (Vinicius + Cunha + Martinelli vs En-Nesyri + Ziyech + El Kaabi) + offene WM-Auftakts-Show-Erwartung. Klassen-Differenz minimal (FIFA #5 vs #13) - Tor-Wahrscheinlichkeit hoch fuer beide Seiten. WM nicht Liga-Goldgrube → max VALUE per Mapper-Hebel C. Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI. Stake 1.5% x 550€ = 8,25€.",
-          "quote_quelle": "Aggregator-Konsens (Bet365 / Squawka 07.06.)",
-          "faire_quote": 1.7,
-          "bewertung_label": "VALUE",
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "bra-mar-2",
-          "kategorie": "wackel",
-          "markt": "Vinicius Jr trifft jederzeit",
-          "quote": 2.1,
-          "edge_prozent": 10.0,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit +23.4% ROI / 41.3% HR (bester Markt). Vinicius Real-Madrid-16-LaLiga-Tore-Form + Brasilien-Top-Goal-Quelle + Pflicht-Profil HEIM-FAVORIT (<1.80) erfuellt. Lesson 24.05 'Vinicius-Vereinssperre' irrelevant fuer Brasilien-Nationalteam (war club-spezifisch). Ancelotti-Praeferenz fuer Vinicius links als zentrales Element. Einwechslungs-Boost-Hedge: falls Vinicius nach 70min fuer Rodrygo oder Antony getauscht wird, deren Tore zaehlen. Reality-Check Quoten 2.00-3.00: 41.7% HR / +9.0% ROI. Stake 1.0% = 5,50€. [Auto: Torschuetze-Vereins-Quelle fehlt - max wackel]",
-          "quote_quelle": "Aggregator-Konsens (Squawka / RotoWire 07.06.)",
-          "faire_quote": 1.9,
-          "bewertung_label": "VALUE",
-          "empfohlener_einsatz_prozent": 1.0,
-          "_aufstellungs_verifikation_pflicht": true,
-          "_torschuetze_quelle_warn": true
-        },
-        {
-          "id": "bra-mar-3",
-          "kategorie": "wackel",
-          "markt": "Brasilien Sieg + Ueber 2.5 Tore",
-          "quote": 2.6,
-          "edge_prozent": 6.0,
-          "begruendung": "Kombi-Wette in 1 Tipp: Brasilien Sieg + Tor-Festival. Hoehere Quote als reines Sieg (1.62) wegen Tor-Anzahl-Klausel. Lesson 06.06. 'Klassen-Edge-realisiert-Sieg-nicht-Tor-Anzahl' subnote - Markt-Edge kleiner als bei reinen Sieg-Tipps. WACKEL nicht VALUE. Stake 0.5% = 2,75€.",
-          "quote_quelle": "geschaetzt (Aggregator-Spezial-Combo nicht direkt verifiziert)",
-          "faire_quote": 2.45,
-          "bewertung_label": "WACKEL",
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-06-14-hai-sco",
@@ -954,35 +513,9 @@
         "Frantzdy Pierrot (Ligue 1) - 9 Tore 2025/26 als Goal-Anker.",
         "Quoten via Aggregator-Konsens (Bet365 / OddsShark / Wincomparator / Dimers 07.06.): Haiti 8.25 / X 4.92 / Schottland 1.44 - Ueber 2.5 ~2.10 / Unter 2.5 ~1.72 / McTominay Trifft ~3.10 / Schottland -1.5 Handicap ~2.20."
       ],
-      "tipps": [
-        {
-          "id": "hai-sco-1",
-          "kategorie": "value",
-          "markt": "Schottland Sieg",
-          "quote": 1.44,
-          "edge_prozent": 6.0,
-          "begruendung": "Klassen-Edge FIFA #36 vs #88 + WM-1998-Last-Chance-Generations-Motivation + McTominay-Robertson-Adams-Achse vs Haiti-Defensiv-Compact-Outsider. Sieg-Markt nicht in Markt-Goldgrube → max VALUE (Mapper-Hebel C). In Balance-Kombi geplant (Layer-2 Sieg-Outcome). Reality-Check Quoten 1.00-1.50: 71.8% HR / +6.3% ROI. Stake 1.5% x 550€ = 8,25€.",
-          "quote_quelle": "Aggregator-Konsens (Bet365 / OddsShark 07.06.)",
-          "faire_quote": 1.36,
-          "bewertung_label": "VALUE",
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "hai-sco-2",
-          "kategorie": "wackel",
-          "markt": "Scott McTominay trifft jederzeit",
-          "quote": 3.1,
-          "edge_prozent": 12.0,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit +23.4% ROI. McTominay Karriere-Top-Form (13 Serie-A-Tore Napoli) + Pflicht-Profil AUSWAERTS-FAVORIT (<2.20 erfuellt mit 1.44) erfordert Torschuetzen-Tipp. McTominay-Box-To-Box-Setpiece-Bedrohung gegen Haiti-Mid-Verteidigung. Reality-Check Quoten 3.00-5.00: 28.5% HR / +12% ROI. Stake 0.5% = 2,75€. [Auto: Torschuetze-Vereins-Quelle fehlt - max wackel]",
-          "quote_quelle": "Aggregator-Konsens (OddsShark / Squawka 07.06.)",
-          "faire_quote": 2.77,
-          "bewertung_label": "WACKEL",
-          "empfohlener_einsatz_prozent": 0.5,
-          "_aufstellungs_verifikation_pflicht": true,
-          "_torschuetze_quelle_warn": true
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-06-14-ger-cur",
@@ -1016,49 +549,9 @@
         "Curacao 4-4-2: Room (Goalie); Bacuna, van der Werff, Jandroep, Yslas; Henriquez, Sneijder (40 Cousin), Bacuna, Garrick; Cuco Martina, Garcia.",
         "Quoten via Aggregator-Konsens (Bet365 / BetMGM / Ladbrokes 07.06.): Deutschland 1.03 / X 16.00 / Curacao 40.00 - Ueber 3.5 ~1.41 / Ueber 4.5 ~1.85 / Deutschland -3.5 Handicap ~1.65 / Havertz Trifft ~1.75 / Wirtz Trifft ~2.00."
       ],
-      "tipps": [
-        {
-          "id": "ger-cur-1",
-          "kategorie": "value",
-          "markt": "Ueber 3.5 Tore",
-          "quote": 1.41,
-          "edge_prozent": 13.0,
-          "begruendung": "EXTREMER Klassen-Asymmetrie FIFA #3 vs #79 + Markt -3.5 Spread implizit (BetMGM Germany over 3.5 goals -150) + Volle-Power-Auftakts-Pflichtsieg-Anspruch. Deutschland-Friendlies in 2024-2026 oft 4-0/5-1 gegen Mid-Niveau-Gegner (vs Hong Kong, Liechtenstein, Slovakia). Curacao-Verteidigung Concacaf-Mid-Niveau ohne Klasse-Antwort. Sub-Hartregel von Lesson 19.05.: bei extremen Klassen-Edge in WM-Auftakts-Pflicht-Spielen ist B-Elf-Schonungs-Risiko niedrig (Nagelsmann will Form zeigen). Mapper-Hebel C: max VALUE statt SAFE (WM nicht Liga-Goldgrube, Ueber 3.5 nicht exakt Ueber 2.5-Goldgrube). Reality-Check Quoten 1.00-1.50: 71.8% HR / +6.3% ROI. Stake 1.6% x 550€ = 8,80€.",
-          "quote_quelle": "Aggregator-Konsens (Bet365 / BetMGM 07.06.)",
-          "faire_quote": 1.25,
-          "bewertung_label": "VALUE",
-          "empfohlener_einsatz_prozent": 1.6
-        },
-        {
-          "id": "ger-cur-2",
-          "kategorie": "value",
-          "markt": "Kai Havertz trifft jederzeit",
-          "quote": 1.75,
-          "edge_prozent": 11.0,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit +23.4% ROI / 41.3% HR (bester Markt). Havertz Karriere-Top-Form (19 PL-Tore Arsenal) + Pflicht-Profil HEIM-FAVORIT (extreme <1.80) erfordert Torschuetzen-Tipp. Curacao-Verteidigung kein Klasse-Niveau. Lesson 'Massen-HZ-Sub-Falle' 07.06.: bei 3:0-Halbzeit koennte Havertz fuer Woltemade ausgewechselt werden - Einwechslungs-Boost-Hedge zaehlt Tore des Ersatzes. Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI. Stake 1.5% = 8,25€. [Auto: Torschuetze-Vereins-Quelle fehlt - max wackel - VALUE bei klarer Edge]",
-          "quote_quelle": "Aggregator-Konsens (BetMGM / Squawka 07.06.)",
-          "faire_quote": 1.58,
-          "bewertung_label": "VALUE",
-          "empfohlener_einsatz_prozent": 1.5,
-          "_aufstellungs_verifikation_pflicht": true,
-          "_torschuetze_quelle_warn": true
-        },
-        {
-          "id": "ger-cur-3",
-          "kategorie": "wackel",
-          "markt": "Florian Wirtz trifft jederzeit",
-          "quote": 2.0,
-          "edge_prozent": 8.0,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit + Wirtz-Form (14 Tore + 13 Assists Saison). Zweite Torschuetzen-Wette zusaetzlich zu Havertz - Goal-Festival-Wahrscheinlichkeit erhoeht. WACKEL nicht VALUE wegen Wirtz-10er-Rolle (mehr Assists als Tore). Stake 0.5% = 2,75€. [Auto: Torschuetze-Vereins-Quelle fehlt - max wackel]",
-          "quote_quelle": "Aggregator-Konsens (BetMGM 07.06.)",
-          "faire_quote": 1.85,
-          "bewertung_label": "WACKEL",
-          "empfohlener_einsatz_prozent": 0.5,
-          "_aufstellungs_verifikation_pflicht": true,
-          "_torschuetze_quelle_warn": true
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     }
   ],
   "einzeltipps": [
@@ -1247,178 +740,7 @@
       "rang": 12
     }
   ],
-  "kombis": [
-    {
-      "id": "kombi-safe",
-      "name": "🛟 Safe-Kombi WM-Test-Goldgrube (~6.1x)",
-      "kategorie": "safe",
-      "gesamtquote": 6.14,
-      "empfohlener_einsatz_prozent": 2.0,
-      "einsatz_euro": 11.0,
-      "begruendung": "DOPPEL-GOLDGRUBE-KOMBI: 4 Beine alle in Liga 'WM-Test' (85.7% HR / +36.5% ROI) UND Markt 'Ueber 2.5 Tore' (+29% ROI / 54.5% HR). Vier letzte WM-Tests Mo-Mi mit Volle-Power-Aufstellungen, alle Klassen-Edge-Spiele oder Form-Reset-Spiele. Gesamtquote nachgerechnet: 1.65 × 1.55 × 1.55 × 1.55 = 6.14. Layer-1: jedes Bein anderes Spiel. Layer-2: KEINE Sieg-Outcomes, alle Ueber 2.5 (kein Korrelations-Single-Point-of-Failure). Layer-3: kein Spiel/Markt-Duplikat. Stake 2% x 550€ = 11€.",
-      "beine": [
-        {
-          "spiel_id": "2026-06-10-eng-crc",
-          "tipp_id": "eng-crc-1",
-          "spiel_titel": "England - Costa Rica",
-          "markt": "England - Costa Rica: Ueber 2.5 Tore",
-          "quote": 1.65
-        },
-        {
-          "spiel_id": "2026-06-08-ned-uzb",
-          "tipp_id": "ned-uzb-1",
-          "spiel_titel": "Niederlande - Usbekistan",
-          "markt": "Niederlande - Usbekistan: Ueber 2.5 Tore",
-          "quote": 1.55
-        },
-        {
-          "spiel_id": "2026-06-10-por-ngr",
-          "tipp_id": "por-ngr-1",
-          "spiel_titel": "Portugal - Nigeria",
-          "markt": "Portugal - Nigeria: Ueber 2.5 Tore",
-          "quote": 1.55
-        },
-        {
-          "spiel_id": "2026-06-09-per-esp",
-          "tipp_id": "per-esp-1",
-          "spiel_titel": "Peru - Spanien",
-          "markt": "Peru - Spanien: Ueber 2.5 Tore",
-          "quote": 1.55
-        }
-      ]
-    },
-    {
-      "id": "kombi-balance",
-      "name": "⚖️ Balance-Kombi WM-Auftakt-Klassen (~9.2x)",
-      "kategorie": "balance",
-      "gesamtquote": 9.23,
-      "empfohlener_einsatz_prozent": 0.8,
-      "einsatz_euro": 4.4,
-      "begruendung": "WM-Auftakts-Klassen-Edge-Kombi (Do-So). Layer-1: jedes Bein anderes Spiel. Layer-2: 2 Sieg-Outcomes (Mexico Heim-Festung Azteca + Scotland Klassen-Edge) - beide NUR hier (nicht in Safe wo Ueber 2.5 dominiert, nicht in Risiko/Moonshot). Layer-3: kein Doppel-Bein. Gesamtquote nachgerechnet: 1.41 × 1.65 × 1.85 × 1.48 × 1.44 = 9.16. Stake 0.8% x 550€ = 4,40€.",
-      "beine": [
-        {
-          "spiel_id": "2026-06-14-ger-cur",
-          "tipp_id": "ger-cur-1",
-          "spiel_titel": "Deutschland - Curacao",
-          "markt": "Deutschland - Curacao: Ueber 3.5 Tore",
-          "quote": 1.41
-        },
-        {
-          "spiel_id": "2026-06-13-qat-sui",
-          "tipp_id": "qat-sui-1",
-          "spiel_titel": "Katar - Schweiz",
-          "markt": "Katar - Schweiz: Ueber 2.5 Tore",
-          "quote": 1.65
-        },
-        {
-          "spiel_id": "2026-06-14-bra-mar",
-          "tipp_id": "bra-mar-1",
-          "spiel_titel": "Brasilien - Marokko",
-          "markt": "Brasilien - Marokko: Beide Teams treffen (Ja)",
-          "quote": 1.85
-        },
-        {
-          "spiel_id": "2026-06-11-mex-saf",
-          "tipp_id": "mex-saf-1",
-          "spiel_titel": "Mexico - Suedafrika",
-          "markt": "Mexico - Suedafrika: Mexiko Sieg",
-          "quote": 1.48
-        },
-        {
-          "spiel_id": "2026-06-14-hai-sco",
-          "tipp_id": "hai-sco-1",
-          "spiel_titel": "Haiti - Schottland",
-          "markt": "Haiti - Schottland: Schottland Sieg",
-          "quote": 1.44
-        }
-      ]
-    },
-    {
-      "id": "kombi-risiko",
-      "name": "🎯 Risiko-Kombi Torschuetzen-Goldgrube (~20.1x)",
-      "kategorie": "risiko",
-      "gesamtquote": 20.06,
-      "empfohlener_einsatz_prozent": 0.25,
-      "einsatz_euro": 1.4,
-      "begruendung": "TORSCHUETZEN-GOLDGRUBE-KOMBI (+23.4% ROI / 41.3% HR - bester Markt im System). 3 Top-Stuermer-Tipps in 3 verschiedenen Spielen + 1 NBA-Finals-Spread als Hedge. Layer-1: jedes Bein anderes Spiel. Layer-2: KEIN Sieg-Outcome (NBA-Spread ist nicht-Sieg-Markt). Layer-3: bra-mar Spiel hat BTTS in Balance, hier Torschuetzen - unterschiedliche Markts pro Spiel. Gesamtquote nachgerechnet: 2.00 × 2.10 × 2.50 × 1.91 = 20.06. Stake 0.25% x 550€ = 1,40€.",
-      "beine": [
-        {
-          "spiel_id": "2026-06-13-qat-sui",
-          "tipp_id": "qat-sui-2",
-          "spiel_titel": "Katar - Schweiz",
-          "markt": "Katar - Schweiz: Breel Embolo trifft jederzeit",
-          "quote": 2.0
-        },
-        {
-          "spiel_id": "2026-06-14-bra-mar",
-          "tipp_id": "bra-mar-2",
-          "spiel_titel": "Brasilien - Marokko",
-          "markt": "Brasilien - Marokko: Vinicius Jr trifft jederzeit",
-          "quote": 2.1
-        },
-        {
-          "spiel_id": "2026-06-13-usa-par",
-          "tipp_id": "usa-par-2",
-          "spiel_titel": "USA - Paraguay",
-          "markt": "USA - Paraguay: Christian Pulisic trifft jederzeit",
-          "quote": 2.5
-        },
-        {
-          "spiel_id": "2026-06-09-sas-nyk-finals-g3",
-          "tipp_id": "g3-1",
-          "spiel_titel": "Knicks - Spurs G3",
-          "markt": "NBA Finals G3: San Antonio Spurs +2.5 (Spread)",
-          "quote": 1.91
-        }
-      ]
-    },
-    {
-      "id": "kombi-moonshot",
-      "name": "🚀 Moonshot WM-Underdog-Mix (~507x)",
-      "kategorie": "moonshot",
-      "gesamtquote": 507.15,
-      "empfohlener_einsatz_prozent": 0.1,
-      "einsatz_euro": 0.55,
-      "begruendung": "MOONSHOT 5-Bein WM-Underdog-Mix. Komplett spekulativ - 5 Coinflip/Underdog-Sieg-Tipps mit hohem Korrelations-Risiko-Schutz (Layer-1 max 1 Bein pro Spiel + alle 5 Spiele in unterschiedlichen Gruppen). Gesamtquote nachgerechnet: 4.00 × 3.50 × 4.20 × 2.30 × 3.75 = 506.46. Pure Lotterie - 1€ Spass-Einsatz aufrundbar. Stake 0.1% = 0,55€.",
-      "beine": [
-        {
-          "spiel_id": "2026-06-14-bra-mar",
-          "tipp_id": "bra-mar-spec",
-          "spiel_titel": "Brasilien - Marokko",
-          "markt": "Brasilien - Marokko: Marokko DC X2 (Schweden-Pattern)",
-          "quote": 4.0
-        },
-        {
-          "spiel_id": "2026-06-14-hai-sco",
-          "tipp_id": "hai-sco-spec",
-          "spiel_titel": "Haiti - Schottland",
-          "markt": "Haiti - Schottland: Haiti DC X2 (Underdog-Aus-Druck)",
-          "quote": 3.5
-        },
-        {
-          "spiel_id": "2026-06-12-can-bih",
-          "tipp_id": "can-bih-spec",
-          "spiel_titel": "Kanada - Bosnien",
-          "markt": "Kanada - Bosnien: Bosnien Sieg (ohne Davies-Lift)",
-          "quote": 4.2
-        },
-        {
-          "spiel_id": "2026-06-11-sas-nyk-finals-g4",
-          "tipp_id": "g4-1",
-          "spiel_titel": "Knicks - Spurs G4",
-          "markt": "NBA Finals G4: San Antonio Spurs Sieg",
-          "quote": 2.3
-        },
-        {
-          "spiel_id": "2026-06-12-kor-cze",
-          "tipp_id": "kor-cze-spec",
-          "spiel_titel": "Suedkorea - Tschechien",
-          "markt": "Suedkorea - Tschechien: Tschechien Sieg",
-          "quote": 3.75
-        }
-      ]
-    }
-  ],
+  "kombis": [],
   "lessons_angewandt": [
     {
       "lesson_datum": "2026-06-07",
