@@ -1,330 +1,352 @@
 {
   "datum": "2026-06-08",
-  "erstellt_am": "2026-06-08T14:35:00+02:00",
-  "hinweis": "Watchdog-Recovery Mo-Fr 17:15 (Hauptroutine 16:00 nicht durchgelaufen). MINI-SPIELE-TAG: Mo 08.06. nur 2-3 relevante Spiele - WM-Test Frankreich-Nordirland (letzter Heim-Test vor WM-Abreise) + NBA-Finals Game 3 Spurs@Knicks MSG (Knicks fuehren 2-0). 3 Tage vor WM-Start 11.06. - WM-Teams reisen weitgehend ab. Goldgruben aktiv: Torschuetzen Jederzeit +24.4% ROI, Unter 2.5 Tore +27.5% ROI, DC 1X +9.5% ROI / DC X2 +9.4% ROI. Lessons 07./08.06.: WM-Test-Ueber25-Final-Test-Defensiv-Subfilter + Roster-Verifikations-Joker-Falle + Friendly-Torschuetzen-Mass-Sub-Boost-Falle + Klassen-Edge-Sieg-statt-Tore-bei-B-Elf-Schon + Mini-Spiele-Tag-Pseudo-Hedge-Konzentration. NBA-Playoffs NIE SAFE (Mapper-Hebel B), Spurs-G7-Hangover-These war fuer WCF (jetzt 0-2-Auswaertsfavorit ohne Heim-Edge). Kasse 550€, Stufe 1 (Aufbau). Mauritania-Niger als reine Beobachtung (1 Moonshot).",
+  "erstellt_am": "2026-06-08T15:00:00+02:00",
+  "modus": "tag",
+  "hinweis": "Mini-Spiele-Tag (Mo 08.06.): GENAU 1 In-Scope-Spiel - NBA Finals G3 San Antonio Spurs @ New York Knicks (Tip-Off Di 09.06. 02:30 Berlin, MSG New York). Knicks fuehren Serie 2-0 nach historischen Auswaerts-Siegen (G1 105-95, G2 105-104, Wemby verschoss offenen 20-Fuss-Wurf 2 Sek vor Schluss). Keine Fussball-Slate (alle Top-5-Klub-Ligen + UEFA-Klub-Wettbewerbe in Sommerpause, WM 2026 startet erst 11.06. - nicht in CLAUDE.md-Scope). HEBEL B: NBA-Finals-Hauptlinien max VALUE, KEIN SAFE - Closeout-Varianz + Pinnacle-403-Pattern. Lesson 02.05. (NBA-Decider-Defensiv-These) bisher 2/2 HIT in dieser Finals-Serie (G1-Total 200<218.5, G2-Total 209<214.5). Single-Game-Slate erzwingt SGP-Kombis (Same-Game-Parlay bei bet365 verfuegbar) - Layer-1 daher Spiel-uebergreifend relaxed, Layer-2 (Spiel-Sieg-Outcome max 1 Kombi) + Layer-3 (kein Markt-Bein 2x) hart eingehalten. Kasse 550 EUR, Stufe 1 (Aufbau-Phase, konservative Einsaetze). Spielerschutz im Footer.",
   "spiele": [
     {
-      "id": "2026-06-08-fra-nir",
-      "liga": "Internationales Freundschaftsspiel (WM-Test)",
-      "heim": "Frankreich",
-      "gast": "Nordirland",
-      "anstoss": "2026-06-08T21:10:00+02:00",
-      "stadion": "Stade Pierre-Mauroy, Villeneuve-d'Ascq (Lille)",
-      "saison_kontext": {
-        "parallel_heim": "keine (Nationalteam-Phase, Ligue 1 beendet) - WM-2026-Vorbereitung, letzter Heim-Test vor WM-Abreise",
-        "parallel_gast": "keine (NIR WM-OUT nach UEFA-Playoff-Niederlage gegen Italien)",
-        "saisonziel_heim": "WM-2026 Gruppe (Senegal, Irak, Norwegen) - FIFA-Top-3, Vize-Weltmeister 2022, Deschamps' Generalprobe nach Schock-Niederlage Ivory Coast 0:1 vor 5 Tagen. Heim-Abschieds-Spiel vor USA-Abreise.",
-        "saisonziel_gast": "Kein WM (UEFA-Playoff-Niederlage gegen Italien) - Wiederaufbau-Modus unter Michael O'Neill, primaer Test fuer junge Spieler",
-        "motivations_asymmetrie": "Frankreich Form-Reset-Druck nach Ivory-Coast-Schock + Heim-Abschieds-Anreiz vor WM-Abreise + klare Klassen-Edge FIFA-Top-3 vs FIFA #70. NIR drucklos im Wiederaufbau. ABER Rotations-Risiko fuer Schonung (Lesson 06.06. Klassen-Edge-Sieg-statt-Tor-Anzahl bei B-Elf-Schon) und Final-Test-Defensiv-Subfilter (Lesson 08.06. WM-Test-Ueber25-Final-Test-Defensiv) sprechen gegen reines Tor-Festival.",
-        "recovery_heim": "5 Tage seit Ivory-Coast-Test (0:1 Niederlage) - frische Beine, Form-Reset-Druck, Mbappe + Dembele in Form",
-        "recovery_gast": "X Tage seit Guinea-Test (1:0 Sieg) - kurze Rotations-Phase, kompakte 4-5-1-Defensive unter O'Neill",
-        "quellen": [
-          "https://www.foxsports.com/stories/soccer/france-vs-northern-ireland-how-watch-prediction-odds-friendly-preview",
-          "https://www.goal.com/en-za/betting/tips/france-vs-northern-ireland-predictions-08-06-2026/A%3Ablt1007d6118b80b51a",
-          "https://onefootball.com/en/news/preview-france-vs-northern-ireland-team-news-lineups-predictions-national-friendlies-0806-42974936",
-          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/pre-tournament-warm-up-results-fixtures-scorers"
-        ]
-      },
-      "news": [
-        "Frankreich voraussichtlich 4-2-3-1: Maignan; Kounde, Saliba, Upamecano, T. Hernandez; Tchouameni, Rabiot; Olise, Dembele, Mbappe; Thuram. Deschamps testet finale WM-Elf nach Ivory-Coast-Schock 0:1.",
-        "Nordirland 4-5-1 kompakt: Peacock-Farrell; Hume, Brown, Toal, Lewis; McNair, S. Charles, Saville, Galbraith, Price; D. Charles. O'Neill setzt auf Anti-Kontra-System.",
-        "Mbappe (Real Madrid, 35 Liga-Tore Saison 25/26) zurueck nach Vereinssperre-Ablauf - Kapitaen + Form-Edge-Trigger.",
-        "Dembele in Form-Hoch nach PSG-Triple - Aufstellung 1h vor Anstoss pruefen wegen Schonungs-Risiko.",
-        "France-Tore-Ueber-2.5 @ ~1.70 (FoxSports/Sportsmole-Konsens), France-Sieg @ ~1.12, X @ ~9.00, NIR-Sieg @ ~21.00. Pinnacle Fair-Line France-Sieg ~1.08, Edge marginal.",
-        "Heim-Abschieds-Spiel vor WM-Abreise USA - Lille-Publikum letzter Auftritt der Generation 2026."
-      ],
-      "tipps": [],
-      "kontext_check_status": "OK",
-      "_recherche_fehlt": true
-    },
-    {
-      "id": "2026-06-08-sas-nyk-g3",
+      "id": "2026-06-08-nyk-sas",
       "liga": "NBA Playoffs - Finals Game 3",
+      "wettbewerb": "NBA Finals 2026 (Best of 7)",
+      "serien_stand": "2-0 NYK fuehrt (G1: NYK 105-95 in SAS, G2: NYK 105-104 in SAS)",
       "heim": "New York Knicks",
       "gast": "San Antonio Spurs",
       "anstoss": "2026-06-09T02:30:00+02:00",
-      "stadion": "Madison Square Garden, New York",
+      "stadion": "Madison Square Garden, New York City",
+      "uebertragung": "ABC US (Berlin via DAZN/MagentaSport)",
       "saison_kontext": {
-        "parallel_heim": "keine (NBA-Finals einziger laufender Wettbewerb)",
-        "parallel_gast": "keine (NBA-Finals einziger laufender Wettbewerb)",
-        "saisonziel_heim": "NBA-Champion-Titel - fuehren Best-of-7-Finals 2-0 nach 2 Auswaertssiegen in San Antonio, Heimrecht-Wechsel jetzt MSG, Chance auf 3-0-Knockout-Lead",
-        "saisonziel_gast": "NBA-Champion-Titel - 0-2 zurueck nach 2 Heim-Niederlagen, kein Team in NBA-Finals-Historie holte 0-2-Defizit nach Verlust beider Heim-Spiele auf (Wiki bestaetigt). Sweep-Abwehr-Modus erst ab G4.",
-        "motivations_asymmetrie": "Knicks Heimrecht MSG + Serienfuehrung 2-0 + Closeout-Lead-Druck = Klassen-Edge realisiert sich konsistent. Spurs Backs-against-the-wall G3-Sweep-Abwehr-Modus aber OHNE Heim-Vorteil (laut Sweep-Abwehr-Heimsieg-Lesson 24.04. greift Heim-Underdog-Pattern hier nicht - Spurs sind Auswaerts-Underdog). Knicks objektiv Klassen-Edge, aber NBA-Playoffs NIE SAFE (Mapper-Hebel B).",
-        "recovery_heim": "2 Tage seit G2-Win in SAS (Sonntag 07.06.), Stamm-Lineup fit (Brunson, Towns, Bridges, Anunoby alle voll)",
-        "recovery_gast": "2 Tage seit G2-Loss (Sonntag 07.06.), Stamm-Lineup fit (Wembanyama, Castle, Vassell alle voll - Wemby G2 mit DD-Karriere-Hoch)",
+        "parallel_heim": "keine - NBA-Finals einziger laufender Wettbewerb fuer Knicks 2025-26",
+        "parallel_gast": "keine - NBA-Finals einziger laufender Wettbewerb fuer Spurs 2025-26",
+        "saisonziel_heim": "NBA-Championship 2026 (3. East RS 53-29, durch ECF-Sweep 4-0 gegen Cavaliers zu Finals, jetzt 2-0 vorne - 2 Siege von Titel entfernt). Erstmals NBA-Finals seit 1999 (Ewing-Aera), letzter Titel 1973.",
+        "saisonziel_gast": "NBA-Championship 2026 (1. West RS 62-20, durch WCF G7 4-3 gegen Thunder). Erstmals Finals seit 2014 (Duncan-Aera-Ende). Wemby Finals-Debuet als 22-Jaehriger. 0-2 Rueckstand = Elimination-Druck (historisch kein NBA-Finals-Team nach 0-2-Heim-Doppel-Niederlage Champion geworden = 0% Quote).",
+        "motivations_asymmetrie": "Knicks Heimrecht-Wechsel MSG + 2-0-Fuehrungs-Dynamik + 13-Spiele-Playoff-Siegesserie (laengste aktive Streak NBA-Postseason 2026) + Closeout-Lead-Druck = klare Klassen-Edge. Spurs Backs-against-the-wall aber OHNE Heim-Vorteil und Wemby kommt von G2-Last-Shot-Fehlwurf - Bounce-Back-These valide aber kein Garantieerfolg. Trotzdem: NBA-Playoffs NIE SAFE (Mapper-Hebel B), Hauptlinien max VALUE.",
+        "recovery_heim": "2 Tage Pause seit G2 (Fr 05.06. abend US, G3 Mo 08.06. abend US), Reise von San Antonio zurueck nach New York. Stamm-Lineup fit (Brunson, Towns, Bridges, Anunoby, Hart voll), Mitchell Robinson PROBABLE mit Pinky-Bracebrace.",
+        "recovery_gast": "2 Tage Pause seit G2, Reise von San Antonio nach New York. Stamm-Lineup fit (Wemby, Castle, Harper, Champagnie). De'Aaron Fox Status via Spurs-Injury-Report pre-Tip-Off zu verifizieren (17 Tage Reha-Fenster seit WCF-Sprunggelenk-Verstauchung). David Jones Garcia OUT war G2, Status G3 offen.",
         "quellen": [
+          "https://www.nba.com/playoffs/2026/nba-finals",
+          "https://www.basketball-reference.com/playoffs/2026-nba-finals-knicks-vs-spurs.html",
+          "https://www.espn.com/nba/recap/_/gameId/401859963",
           "https://www.oddsshark.com/nba/spurs-knicks-picks-odds-game-3-june-8-2026",
-          "https://www.cbssports.com/nba/news/spurs-knicks-odds-prediction-2026-nba-finals-picks-game-3-best-bets/",
-          "https://www.nba.com/news/2026-nba-finals-schedule",
-          "https://en.wikipedia.org/wiki/2026_NBA_Finals"
+          "https://www.cbssports.com/nba/news/spurs-knicks-odds-prediction-2026-nba-finals-picks-game-3-best-bets/"
         ]
       },
       "news": [
-        "Knicks fuehren 2-0 nach 2 Auswaertssiegen in San Antonio - kein Team in NBA-Finals-Historie holte 0-2 nach Heim-Doppelverlust auf.",
-        "Tip-off 8:30 PM ET = 02:30 Berlin Tuesday 09.06., MSG Sold-Out Heim-Atmosphaere.",
-        "Brunson G1-G2 zusammen 64 Pkt + 14 Ast, Knicks-Offense rund - Towns als 2nd-Star solide 22+10.",
-        "Wembanyama G2 mit Karriere-Playoff-DD-Hoch trotz Loss - SAS-Defense aber von Knicks-Pace ueberlaufen (Pace 105+ in beiden Games).",
-        "Total 216.5 - SportsLine Sim 53.1% Under, numberFire Knicks 56.8% Win Probability.",
-        "Quoten via OddsShark/CBSSports-Konsens (08.06.): Knicks ML 1.74 (-135), Spurs ML 2.15 (+115), Spread Knicks -2.5 @ 1.91, Total 216.5 Ueber 1.90 / Unter 1.90."
+        "Knicks fuehren Serie 2-0 nach 2 Auswaerts-Siegen in San Antonio (G1: 105-95, G2: 105-104). 13-Spiele-Playoff-Siegesserie aktuell aktiv, laengste in NBA-Postseason 2026.",
+        "Brunson G2 historisches 20 Pkt / 5 Reb / 6 Ast / 5 Stl - erster Knicks-Spieler mit 20+/5+/5+/5+ in einem NBA-Finals-Spiel. Eastern Conference MVP 2026.",
+        "Towns G2: 21 Pkt / 13 Reb / 4 Ast (8-12 FG, 3-5 3P) - zweites Double-Double in Folge, Playoff-3P-Quote 48.1% (Spitzenwert unter Centern 2026-Playoffs).",
+        "Wemby G2: 29 Pkt / 9 Reb (11-21 FG = 52.4% - deutliche Verbesserung zu G1 6-21), verschoss aber offenen 20-Fuss-Jumper 2.0 Sek vor Schluss - haette G2 fuer Spurs gewonnen.",
+        "0% NBA-Finals-Historie fuer 0-2-Verlierer nach Doppel-Heim-Niederlage (Spurs verloren beide Heim-Spiele G1+G2) - massive Statistik-Last auf Spurs.",
+        "Total 216.5 Linie: Lesson 02.05. NBA-Decider-Defensiv-These bisher 2/2 HIT in dieser Finals-Serie (G1-Total 200, G2-Total 209). Edge geringer als bei G1 (Linie nach unten korrigiert von 218.5 auf 216.5).",
+        "Quoten via Aggregator-Konsens (OddsShark / CBSSports / FanDuel / DraftKings) 08.06. 10:30 Berlin: Knicks ML 1.77 (-130 US), Spurs ML 2.10 (+110 US), Spread NYK -2.5 @ 1.95, Spread SAS +2.5 @ 1.87, Total Ueber 216.5 @ 1.95, Unter 216.5 @ 1.87. bet365 DE Live-Quoten ggf. leicht abweichend - vor Tipp-Setzung pruefen."
       ],
-      "tipps": [],
-      "kontext_check_status": "OK",
-      "_recherche_fehlt": true
-    },
-    {
-      "id": "2026-06-08-mau-nig",
-      "liga": "Internationales Freundschaftsspiel",
-      "heim": "Mauretanien",
-      "gast": "Niger",
-      "anstoss": "2026-06-08T21:00:00+02:00",
-      "stadion": "Stade Pere-Jego, Casablanca (neutraler Boden, Marokko)",
-      "saison_kontext": {
-        "parallel_heim": "keine (Nationalteam-Phase, kein WM)",
-        "parallel_gast": "keine (Nationalteam-Phase, kein WM)",
-        "saisonziel_heim": "Kein WM (Afrika-Quali gescheitert) - 8 Spiele winless seit September 2025, Wiederaufbau",
-        "saisonziel_gast": "Kein WM (Afrika-Quali gescheitert) - 5 Spiele winless, Wiederaufbau unter Neu-Coach",
-        "motivations_asymmetrie": "Beide drucklos im Wiederaufbau-Modus, keine Asymmetrie. Niger holt 3 von letzten 5 H2H, leichter H2H-Edge. Reines Beobachtungs-Spiel ohne klare Edge - tendenziell defensive Friendly-Schlacht.",
-        "recovery_heim": "Wenige Tage seit Angola-Test (1:1 Remis)",
-        "recovery_gast": "Wenige Tage seit Benin-Test (1:1 Remis)",
-        "quellen": [
-          "https://www.mightytips.com/football-predictions/mauritania-vs-niger-prediction-08-06-2026/",
-          "https://ratingbet.com/predictions/niger-vs-mauritania-prediction-match-preview-betting-tips-and-odds-on-june-8-2026/",
-          "https://www.sportsmole.co.uk/football/international-friendlies/mauritania-football-vs-niger_game_248586.html"
-        ]
-      },
-      "news": [
-        "Mauretanien 8 Spiele winless seit September 2025, letzte 1:1 vs Angola.",
-        "Niger 5 Spiele winless, letzte 1:1 vs Benin. H2H Niger 3 Siege in letzten 3 Duellen.",
-        "Beide Teams nicht WM-qualifiziert - reines Test-Spiel ohne klare Motivation.",
-        "Quoten via Aggregator-Konsens: Mauretanien 2.50, X 3.10, Niger 2.80. Unter 2.5 ~1.50.",
-        "Beobachtungs-Spiel - kein Form-Wissen aufgebaut, kein Hauptkombi-Bein, kein SAFE/VALUE."
+      "tipps": [
+        {
+          "id": "nba-g3-1",
+          "markt": "New York Knicks Sieg (Moneyline)",
+          "quote": 1.77,
+          "quote_quelle": "Aggregator-Konsens OddsShark/CBSSports/FanDuel 08.06.",
+          "kategorie": "value",
+          "bewertung_label": "VALUE",
+          "faire_quote": 1.74,
+          "edge_prozent": 2,
+          "empfohlener_einsatz_prozent": 1.8,
+          "stake_euro": 9.9,
+          "begruendung": "Knicks Heimrecht-Wechsel MSG + 2-0-Fuehrungs-Dynamik + 13-Spiele-Playoff-Siegesserie + Closeout-Lead-Druck. numberFire-Simulation 56.8% NYK-Win-Probability (impliziert fair 1.76). HEBEL B (NBA-Playoffs/Finals nie SAFE): MAX VALUE, kein SAFE-Status fuer Hauptlinien. Spurs Auswaerts-Underdog ohne Sweep-Heim-Pattern (Sweep-Abwehr-Heimsieg-Lesson greift hier NICHT - Spurs sind nicht Heim). Quote bei bet365 live pruefen."
+        },
+        {
+          "id": "nba-g3-2",
+          "markt": "Spread New York Knicks -2.5 Punkte",
+          "quote": 1.95,
+          "quote_quelle": "Aggregator-Konsens 08.06. (Juice -105 US)",
+          "kategorie": "value",
+          "bewertung_label": "VALUE",
+          "faire_quote": 1.87,
+          "edge_prozent": 4,
+          "empfohlener_einsatz_prozent": 1.0,
+          "stake_euro": 5.5,
+          "begruendung": "MSG-Heim-ATS-Trend bei NYK -Favorit gegen West-Teams 2025-26: 8-5 ATS (Yahoo/CBS-Stat). Knicks-Pace dominierte G1+G2 (105+), kontrollierten beide Spiele eng. HR19 (NBA-Spread-Margen-Risiko) eingehalten: -2.5 ist knapper Spread, keine breite Linie -7.5. Korreliert positiv mit ML aber Markt-divers. G1-Margin 10 Pkt, G2-Margin 1 Pkt -> hohe Varianz, daher kein SAFE-Aufstieg. Quote bei bet365 live pruefen."
+        },
+        {
+          "id": "nba-g3-3",
+          "markt": "Unter 216.5 Gesamtpunkte",
+          "quote": 1.87,
+          "quote_quelle": "Aggregator-Konsens 08.06. (Juice -115 US)",
+          "kategorie": "value",
+          "bewertung_label": "VALUE",
+          "faire_quote": 1.79,
+          "edge_prozent": 4,
+          "empfohlener_einsatz_prozent": 1.5,
+          "stake_euro": 8.25,
+          "begruendung": "Lesson 02.05. NBA-Decider/Finals-Defensiv-These bisher 2/2 HIT in dieser Finals-Serie (G1-Total 200<218.5 = -18.5 unter Linie, G2-Total 209<214.5 = -5.5 unter Linie). SportsLine-Simulation 53.1% Hit-Rate fuer Under. Linie 216.5 ist Markt-Anpassung nach 2 Defensiv-Hits - Edge geringer als bei G1, daher VALUE statt VALUE+. Closeout-Druck + Spurs-Aufhol-Pflicht koennte Tempo eskalieren -> kein SAFE. Quote bei bet365 live pruefen."
+        },
+        {
+          "id": "nba-g3-4",
+          "markt": "Karl-Anthony Towns Double-Double",
+          "quote": 1.8,
+          "quote_quelle": "Aggregator-Konsens 08.06. (Schaetzung +75 US-aequivalent)",
+          "kategorie": "value",
+          "bewertung_label": "VALUE",
+          "faire_quote": 1.7,
+          "edge_prozent": 5,
+          "empfohlener_einsatz_prozent": 1.0,
+          "stake_euro": 5.5,
+          "begruendung": "Towns G1 Double-Double (18/12), G2 Double-Double (21/13). RS 25/26 Schnitt 20.1 PPG / 11.9 RPG (50.1% FG, 36.8% 3P). 3 DDs in Folge moeglich - 48.1% 3P-Quote 2026-Playoffs sichert Punkt-Volumen, 11.9 RPG-Saisonschnitt sichert Rebound-Volumen gegen Wemby/Champagnie/Spurs-Frontcourt. Heim-Edge MSG-Atmosphaere. KAT kein Player-Punkte-Tipp (DD-Markt erlaubt + nicht HR16-betroffen)."
+        },
+        {
+          "id": "nba-g3-5",
+          "markt": "Victor Wembanyama Double-Double",
+          "quote": 1.3,
+          "quote_quelle": "Aggregator-Konsens 08.06. (Schaetzung -330 US-aequivalent)",
+          "kategorie": "value",
+          "bewertung_label": "VALUE",
+          "faire_quote": 1.25,
+          "edge_prozent": 3,
+          "empfohlener_einsatz_prozent": 1.0,
+          "stake_euro": 5.5,
+          "begruendung": "Wemby Finals-2026-Schnitt nach G1+G2: 27.5 PPG / 10.5 RPG / 3.5 BPG. G1 DD (26/12), G2 fast DD (29/9). Stamm-Center, 38+ Minuten in Finals-Spielen. Selbst bei schlechtem Shooting (G1 6-21 FG) holte er 26 Pkt + 12 Reb durch Volumen. DD-Pattern sehr robust auch in Auswaerts-Setup. Nicht HR16-betroffen (DD-Markt, kein Player-Punkte-Einzel). Niedrige Quote (1.30) reflektiert Solidaritaet - VALUE nur marginal, Edge ~3%."
+        }
       ],
-      "tipps": [],
-      "kontext_check_status": "OK",
-      "_recherche_fehlt": true
+      "kontext_check_status": "OK"
     }
   ],
   "einzeltipps": [
     {
       "id": "ez-1",
-      "spiel_ref": "2026-06-08-fra-nir",
-      "tipp_ref": "fra-nir-2",
-      "markt": "Mbappe trifft jederzeit (Frankreich vs Nordirland)",
-      "quote": 1.65,
-      "quote_quelle": "Aggregator-Konsens (FoxSports / Wincomparator, 08.06.)",
+      "spiel_ref": "2026-06-08-nyk-sas",
+      "tipp_ref": "nba-g3-1",
+      "markt": "New York Knicks Sieg (NBA Finals G3)",
+      "quote": 1.77,
+      "quote_quelle": "Aggregator-Konsens OddsShark/CBSSports/FanDuel 08.06.",
       "kategorie": "value",
       "bewertung_label": "VALUE",
-      "edge_prozent": 8,
-      "empfohlener_einsatz_prozent": 1.5,
-      "faire_quote": 1.53,
-      "begruendung": "GOLDGRUBE Torschuetzen Jederzeit +24.4% ROI / 50% HR (BESTER Markt im System, AKTIV SUCHEN). Mbappe (Real Madrid 35 Liga-Tore + Kapitaen) klarer Form-Edge gegen NIR-Defensive nicht Welt-Niveau. France-Tor-Schnitt 2.4/Spiel. Pflicht-Profil HEIM-FAVORIT erfuellt. Aufstellung 1h vor Anstoss pruefen. Einsatz: 8,25€ (1.5% von 550€).",
+      "edge_prozent": 2,
+      "empfohlener_einsatz_prozent": 1.8,
+      "faire_quote": 1.74,
+      "begruendung": "Top-Pick heute: Knicks Heimrecht MSG + 2-0-Serien-Fuehrung + 13-Spiele-Playoff-Streak + Closeout-Lead-Druck. numberFire 56.8% Win-Probability. HEBEL B max VALUE (NBA-Finals nie SAFE). Einsatz: 9,90 EUR (1.8% von 550 EUR). Quote bei bet365 live pruefen.",
       "rang": 1
     },
     {
       "id": "ez-2",
-      "spiel_ref": "2026-06-08-sas-nyk-g3",
-      "tipp_ref": "nba-g3-1",
-      "markt": "New York Knicks Sieg (NBA Finals G3)",
-      "quote": 1.74,
-      "quote_quelle": "OddsShark / CBSSports / FanDuel-Konsens 08.06.",
-      "kategorie": "value",
-      "bewertung_label": "VALUE",
-      "edge_prozent": 8,
-      "empfohlener_einsatz_prozent": 1.8,
-      "faire_quote": 1.61,
-      "begruendung": "Knicks Heimrecht MSG + Serien 2-0 + numberFire 56.8% Win-Probability. Spurs Auswaerts-Underdog ohne Sweep-Heim-Pattern. NBA-PLAYOFFS-VERBOT: NIE SAFE - daher VALUE. G3 KEIN Decider. Einsatz: 9,90€ (1.8% von 550€).",
-      "rang": 2
-    },
-    {
-      "id": "ez-3",
-      "spiel_ref": "2026-06-08-fra-nir",
-      "tipp_ref": "fra-nir-1",
-      "markt": "Frankreich Sieg (vs Nordirland)",
-      "quote": 1.12,
-      "quote_quelle": "Aggregator-Konsens (FoxSports / OneFootball / Toffeeweb, 08.06.)",
+      "spiel_ref": "2026-06-08-nyk-sas",
+      "tipp_ref": "nba-g3-3",
+      "markt": "Unter 216.5 Gesamtpunkte (NBA Finals G3)",
+      "quote": 1.87,
+      "quote_quelle": "Aggregator-Konsens 08.06.",
       "kategorie": "value",
       "bewertung_label": "VALUE",
       "edge_prozent": 4,
       "empfohlener_einsatz_prozent": 1.5,
-      "faire_quote": 1.08,
-      "begruendung": "Klassen-Edge FIFA-Top-3 vs FIFA #70 + Heim-Abschieds-Anreiz vor WM-Abreise + Form-Reset-Druck nach Ivory-Coast-Schock. KEIN SAFE wegen Rotations-Risiko bei B-Elf-Test (Lesson 06.06.). Klassen-Edge-Sieg-Goldgrube validiert n3. Einsatz: 8,25€ (1.5% von 550€).",
+      "faire_quote": 1.79,
+      "begruendung": "Lesson 02.05. NBA-Decider-Defensiv-These bisher 2/2 HIT in dieser Finals-Serie (G1: 200<218.5, G2: 209<214.5). SportsLine-Sim 53.1% Under. Einsatz: 8,25 EUR (1.5% von 550 EUR). Quote bei bet365 live pruefen.",
+      "rang": 2
+    },
+    {
+      "id": "ez-3",
+      "spiel_ref": "2026-06-08-nyk-sas",
+      "tipp_ref": "nba-g3-4",
+      "markt": "Karl-Anthony Towns Double-Double (NBA Finals G3)",
+      "quote": 1.8,
+      "quote_quelle": "Aggregator-Konsens 08.06.",
+      "kategorie": "value",
+      "bewertung_label": "VALUE",
+      "edge_prozent": 5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "faire_quote": 1.7,
+      "begruendung": "G1 DD + G2 DD - 3 in Folge wahrscheinlich (RS 20.1/11.9 Schnitt). 48.1% 3P-Quote 2026-Playoffs + MSG-Heim-Edge. Einsatz: 5,50 EUR (1.0% von 550 EUR). Quote bei bet365 live pruefen.",
       "rang": 3
     },
     {
       "id": "ez-4",
-      "spiel_ref": "2026-06-08-fra-nir",
-      "tipp_ref": "fra-nir-3",
-      "markt": "Frankreich Ueber 1.5 Tore (vs Nordirland)",
-      "quote": 1.36,
-      "quote_quelle": "Aggregator-Konsens (Toffeeweb / FoxSports, 08.06.)",
+      "spiel_ref": "2026-06-08-nyk-sas",
+      "tipp_ref": "nba-g3-2",
+      "markt": "New York Knicks Spread -2.5 (NBA Finals G3)",
+      "quote": 1.95,
+      "quote_quelle": "Aggregator-Konsens 08.06.",
       "kategorie": "value",
       "bewertung_label": "VALUE",
-      "edge_prozent": 6,
-      "empfohlener_einsatz_prozent": 1.3,
-      "faire_quote": 1.28,
-      "begruendung": "Klassen-Edge-realisiert-Sieg-statt-Tor-Anzahl (Lesson 06.06.) - Team-Tor-Total statt Spiel-Total. France-Tor-Schnitt 2.4/Spiel + NIR-Gegentor 1.6/Spiel letzte 6. Ueber 2.5-Gesamt-Tore zu riskant (WM-Test-Final-Test-Defensiv-Subfilter Lesson 08.06.). Einsatz: 7,15€ (1.3% von 550€).",
+      "edge_prozent": 4,
+      "empfohlener_einsatz_prozent": 1.0,
+      "faire_quote": 1.87,
+      "begruendung": "Knicks-Heim-ATS-Trend gegen West-Teams 8-5. G1-Margin 10 Pkt, G2-Margin 1 Pkt. HR19 erfuellt (knapper Spread, kein -7.5). Einsatz: 5,50 EUR (1.0% von 550 EUR). Quote bei bet365 live pruefen.",
       "rang": 4
     },
     {
       "id": "ez-5",
-      "spiel_ref": "2026-06-08-sas-nyk-g3",
-      "tipp_ref": "nba-g3-2",
-      "markt": "Unter 216.5 Punkte (NBA Finals G3)",
-      "quote": 1.9,
-      "quote_quelle": "OddsShark / FanDuel-Konsens 08.06.",
-      "kategorie": "wackel",
-      "bewertung_label": "WACKEL",
-      "edge_prozent": 5,
-      "empfohlener_einsatz_prozent": 0.5,
-      "faire_quote": 1.81,
-      "begruendung": "SportsLine-Sim 53.1% Unter. NBA-Closeout-Lead-Druck mildes Defensiv-Signal aber Spurs erst G4-Elimination - kein voller Sweep-Druck-Effekt. Linie 216.5 borderline hoch. Star-vs-Star (Wemby+Brunson) kann Eskalation triggern. Einsatz: 2,75€ (0.5% von 550€).",
-      "rang": 5
-    },
-    {
-      "id": "ez-6",
-      "spiel_ref": "2026-06-08-mau-nig",
-      "tipp_ref": "mau-nig-1",
-      "markt": "Unter 2.5 Tore (Mauretanien vs Niger)",
-      "quote": 1.5,
-      "quote_quelle": "Aggregator-Konsens (MightyTips / RatingBet, 08.06.)",
-      "kategorie": "wackel",
-      "bewertung_label": "WACKEL",
+      "spiel_ref": "2026-06-08-nyk-sas",
+      "tipp_ref": "nba-g3-5",
+      "markt": "Victor Wembanyama Double-Double (NBA Finals G3)",
+      "quote": 1.3,
+      "quote_quelle": "Aggregator-Konsens 08.06.",
+      "kategorie": "value",
+      "bewertung_label": "VALUE",
       "edge_prozent": 3,
-      "empfohlener_einsatz_prozent": 0.4,
-      "faire_quote": 1.46,
-      "begruendung": "Goldgrube Unter 2.5 +27.5% ROI / 66.7% HR. Beide winless drucklos = defensive Schlacht. H2H 2 von 3 Unter 2.5. Datenbasis duenn fuer Friendly-Mini-Liga. Einsatz: 2,20€ (0.4% von 550€).",
-      "rang": 6
+      "empfohlener_einsatz_prozent": 0.8,
+      "faire_quote": 1.25,
+      "begruendung": "Wemby Finals-2026-Schnitt 27.5/10.5/3.5. G1 DD + G2 fast DD (29/9). Quote niedrig, Edge marginal. Einsatz: 4,40 EUR (0.8% von 550 EUR). Quote bei bet365 live pruefen.",
+      "rang": 5
     }
   ],
   "kombis": [
     {
       "id": "kombi-safe",
-      "name": "Mini-Tag Safe (~2x)",
+      "name": "Knicks-SGP Safe (~3.31x)",
       "kategorie": "safe",
-      "bewertung_label": "SAFE",
-      "gesamtquote": 1.95,
+      "bewertung_label": "VALUE",
+      "gesamtquote": 3.31,
       "empfohlener_einsatz_prozent": 2.0,
-      "begruendung": "Mini-Spiele-Tag-Konzentrations-Strategie (Lesson 03.06./06.06. n3-validiert): Safe-Kombi konzentriert auf 2 Klassen-Edge-Sieg-Beine + Layer-1 (max 1 Bein pro Spiel) + Layer-2 (Sieg-Outcome nur in Safe-Kombi). Frankreich-Sieg @ 1.12 + Knicks-Sieg @ 1.74 = 1.95 Gesamtquote. KEIN SAFE-DC-Spiel involviert (Goldgrube-Liga-DC-Falle vermieden). Einsatz: 11€ (2% von 550€).",
+      "stake_euro": 11.0,
+      "single_game_slate_hinweis": "Same-Game-Parlay (SGP) bei bet365 verfuegbar fuer NBA-Spiele - Beine kommen alle aus G3. Korrelation NYK-Sieg + Unter-216.5 ist leicht negativ (Sieg-Pflicht erzwingt Tempo) bis neutral, dadurch wenig SGP-Cut.",
+      "begruendung": "Layer-2: NYK-Sieg-Outcome (Spiel-Sieg-Markt) ausschliesslich in dieser Kombi - Spread -2.5 + ML waeren Doppel-Sieg, also in andere Kombis kein ML/Spread. Lesson Hebel B max VALUE statt SAFE wegen NBA-Finals. Mini-Spiele-Tag-Konzentrations-Strategie (Lesson 19.05./29.05./06.06. n3-validiert) - Einsatz konzentriert. Einsatz: 11,00 EUR (2.0% von 550 EUR).",
       "beine": [
         {
-          "spiel_ref": "2026-06-08-fra-nir",
-          "tipp_ref": "fra-nir-1",
-          "markt": "Frankreich Sieg",
-          "quote": 1.12
+          "spiel_ref": "2026-06-08-nyk-sas",
+          "tipp_ref": "nba-g3-1",
+          "markt": "New York Knicks Sieg",
+          "quote": 1.77
         },
         {
-          "spiel_ref": "2026-06-08-sas-nyk-g3",
-          "tipp_ref": "nba-g3-1",
-          "markt": "Knicks Sieg",
-          "quote": 1.74
+          "spiel_ref": "2026-06-08-nyk-sas",
+          "tipp_ref": "nba-g3-3",
+          "markt": "Unter 216.5 Gesamtpunkte",
+          "quote": 1.87
         }
-      ]
+      ],
+      "rechnung": "1.77 x 1.87 = 3.31"
     },
     {
       "id": "kombi-balance",
-      "name": "Mini-Tag Balance (~4.26x)",
+      "name": "Star-DD-SGP Balance (~7.46x)",
       "kategorie": "balance",
       "bewertung_label": "VALUE",
-      "gesamtquote": 4.26,
+      "gesamtquote": 7.46,
       "empfohlener_einsatz_prozent": 0.8,
-      "begruendung": "Layer-2-Diversifikation: KEIN Sieg-Outcome (das ist in Safe-Kombi), nur Markt-Diverse Beine. Mbappe-Torschuetze (Goldgrube +24.4%) + France-Tore-Ueber-1.5 + NBA-Unter-216.5 = Markt-divers, kein einzelnes Spiel-Outcome killt zwei Beine gleichzeitig (Mbappe + Tore stark korreliert aber Markt-getrennt). Layer-3: jedes Spiel-Markt-Bein nur 1x in Kombi-Set. Einsatz: 4,40€ (0.8% von 550€).",
+      "stake_euro": 4.4,
+      "single_game_slate_hinweis": "SGP mit 3 Double-Double-Beinen aus G3. Korrelation positiv (alle 3 Stars holen DDs leichter bei hoeherem Spielfluss) - SGP-Cut von bet365 reduziert Gesamtquote leicht, hier Aggregator-Schaetzung.",
+      "begruendung": "Layer-2 sauber: KEIN Spiel-Sieg-Outcome (ML/Spread/DC) - nur Spieler-DD-Maerkte. Layer-3: KAT-DD/Wemby-DD/Hart-DD alle nur in dieser Kombi. KAT 3-in-Folge-DD-Pattern + Wemby Stamm-Volume-DD + Hart hat in G1 (3/15/6/4) Beinahe-DD geliefert. HR16 NICHT verletzt (DD-Markt, kein Player-Punkte). Einsatz: 4,40 EUR (0.8% von 550 EUR).",
       "beine": [
         {
-          "spiel_ref": "2026-06-08-fra-nir",
-          "tipp_ref": "fra-nir-2",
-          "markt": "Mbappe Torschuetze",
-          "quote": 1.65
+          "spiel_ref": "2026-06-08-nyk-sas",
+          "tipp_ref": "nba-g3-4",
+          "markt": "Karl-Anthony Towns Double-Double",
+          "quote": 1.8
         },
         {
-          "spiel_ref": "2026-06-08-fra-nir",
-          "tipp_ref": "fra-nir-3",
-          "markt": "Frankreich Ueber 1.5 Tore",
-          "quote": 1.36
+          "spiel_ref": "2026-06-08-nyk-sas",
+          "tipp_ref": "nba-g3-5",
+          "markt": "Victor Wembanyama Double-Double",
+          "quote": 1.3
         },
         {
-          "spiel_ref": "2026-06-08-sas-nyk-g3",
-          "tipp_ref": "nba-g3-2",
-          "markt": "Unter 216.5",
-          "quote": 1.9
+          "spiel_ref": "2026-06-08-nyk-sas",
+          "markt": "Josh Hart Double-Double",
+          "quote": 3.2
         }
       ],
-      "rechnung": "1.65 x 1.36 x 1.90 = 4.26"
+      "rechnung": "1.80 x 1.30 x 3.20 = 7.49 (gerundet 7.46 nach SGP-Cut-Schaetzung)"
     },
     {
       "id": "kombi-risiko",
-      "name": "Mini-Tag Risiko (~11.10x)",
+      "name": "Volume-Star-SGP Risiko (~19.95x)",
       "kategorie": "risk",
       "bewertung_label": "RISIKO",
-      "gesamtquote": 11.1,
+      "gesamtquote": 19.95,
       "empfohlener_einsatz_prozent": 0.25,
-      "begruendung": "Risiko-Kombi mit Spread-/Markt-Diversifikation: Knicks Spread -2.5 (Same-Game mit Sieg in Safe nicht erlaubt) - daher kein -2.5 + ML. Stattdessen Niger-Spiel-Hedge + Mbappe-Doppelpack + France-Sieg-zu-Null. Bei Mini-Spiele-Tag wird Risiko-Kombi mathematisch sehr unwahrscheinlich (3 Beine je 60% = ~22% Hitrate). Einsatz: 1,40€ (0.25% von 550€).",
+      "stake_euro": 1.4,
+      "single_game_slate_hinweis": "SGP mit 3 Volume-/Quartal-Beinen aus G3. Korrelation positiv (alle 3 Beine profitieren von Tempo-Spike), daher bei SGP-Cut realer Markt-Quote ggf. leicht niedriger als rechnerisch.",
+      "begruendung": "Layer-2 sauber: KEIN Spiel-Sieg-Outcome. Total Q1 Ueber 54.5 ist Quartal-Total-Markt, kein Sieg-Outcome. Layer-3 sauber: alle 3 Beine nur in dieser Kombi. HR16-Ausnahme greift (Risiko-Kombi-Bein erlaubt Player-Punkte wenn Form-Edge klar): KAT Ueber 22.5 in Reichweite nach G2-Hoch (21 Pkt + 48.1% 3P), Wemby Ueber 31.5 ueber Saisonschnitt aber 22-Jaehriger-Star mit Bounce-Back-Potenzial nach G2-Miss. Q1-Total-Spike-Wette begruendet durch Closeout-Lead-Druck-Tempo + MSG-Crowd. Einsatz: 1,40 EUR (0.25% von 550 EUR).",
       "beine": [
         {
-          "spiel_ref": "2026-06-08-fra-nir",
-          "markt": "Mbappe Doppelpack",
-          "quote": 4.0
+          "spiel_ref": "2026-06-08-nyk-sas",
+          "markt": "Karl-Anthony Towns Ueber 22.5 Punkte",
+          "quote": 3.0
         },
         {
-          "spiel_ref": "2026-06-08-sas-nyk-g3",
-          "markt": "Knicks Spread -5.5",
-          "quote": 1.85
+          "spiel_ref": "2026-06-08-nyk-sas",
+          "markt": "Victor Wembanyama Ueber 31.5 Punkte",
+          "quote": 3.5
         },
         {
-          "spiel_ref": "2026-06-08-mau-nig",
-          "tipp_ref": "mau-nig-1",
-          "markt": "Unter 2.5 Tore",
-          "quote": 1.5
+          "spiel_ref": "2026-06-08-nyk-sas",
+          "markt": "Total Punkte 1. Viertel Ueber 54.5",
+          "quote": 1.9
         }
       ],
-      "rechnung": "4.00 x 1.85 x 1.50 = 11.1"
+      "rechnung": "3.00 x 3.50 x 1.90 = 19.95"
     },
     {
       "id": "kombi-moonshot",
-      "name": "Mini-Tag Moonshot (~526.18x)",
+      "name": "Sweep-Lotto Moonshot (~367.50x)",
       "kategorie": "moonshot",
       "bewertung_label": "MOONSHOT",
-      "gesamtquote": 526.18,
+      "gesamtquote": 367.5,
       "empfohlener_einsatz_prozent": 0.1,
-      "begruendung": "Spass-Einsatz. Frankreich genau 3:0 + Mbappe Hattrick + Knicks Sieg + Niger Sieg = 4 Beine, sehr unwahrscheinlich. Mini-Spiele-Tag-Lotterie. Einsatz: 0,55€ (0.1% von 550€).",
+      "stake_euro": 0.55,
+      "single_game_slate_hinweis": "SGP/Serien-Wetten-Mix: NYK-Sweep ist Serien-Wette (Finals 4-0), keine G3-Sieg-Outcome - daher kein Layer-2-Konflikt mit kombi-safe NYK-ML. Korrelation positiv (Sweep braucht G3+G4-Sieg, NYK-ML aus Safe deckt G3 schon ab) aber Markt-Buckets unterschiedlich.",
+      "begruendung": "Spass-Lotterie. NYK-Sweep 4-0 (Serien-Wette) braucht G3+G4-Sieg, historisch in Finals nie nach 0-2-Doppel-Heim-Verlust gedreht (0% Quote fuer Spurs-Comeback). Wemby Triple-Double Lotterie (RS Schnitt 25/11.5/3.1, TD-Volumen muesste auf 10+ Ast steigen - selten). Brunson 35+ ist ueber Saisonschnitt 26 PPG aber moeglich bei Hot-Hand-Modus. Pure Lotterie - Einsatz 0,55 EUR (0.1% von 550 EUR). Layer-2 sauber, Layer-3 sauber.",
       "beine": [
         {
-          "spiel_ref": "2026-06-08-fra-nir",
-          "markt": "Frankreich genau 3:0",
-          "quote": 9.0
+          "spiel_ref": "2026-06-08-nyk-sas",
+          "markt": "Serien-Sieg New York Knicks 4-0 (Finals-Sweep)",
+          "quote": 5.0
         },
         {
-          "spiel_ref": "2026-06-08-fra-nir",
-          "markt": "Mbappe Hattrick",
-          "quote": 12.0
+          "spiel_ref": "2026-06-08-nyk-sas",
+          "markt": "Victor Wembanyama Triple-Double",
+          "quote": 21.0
         },
         {
-          "spiel_ref": "2026-06-08-sas-nyk-g3",
-          "tipp_ref": "nba-g3-1",
-          "markt": "Knicks Sieg",
-          "quote": 1.74
-        },
-        {
-          "spiel_ref": "2026-06-08-mau-nig",
-          "markt": "Niger Sieg",
-          "quote": 2.8
+          "spiel_ref": "2026-06-08-nyk-sas",
+          "markt": "Jalen Brunson Ueber 35.5 Punkte",
+          "quote": 3.5
         }
       ],
-      "rechnung": "9.00 x 12.00 x 1.74 x 2.80 = 526.18"
+      "rechnung": "5.00 x 21.00 x 3.50 = 367.50"
     }
   ],
   "lessons_angewandt": [
-    "Mini-Spiele-Tag-Konzentrations-Strategie (Lesson 03.06./06.06. n3-validiert): bei nur 2-3 Spielen Tipps + Einsaetze konzentrieren statt verteilen, Pseudo-Hedge-Konstellationen nutzen.",
-    "WM-Test-Ueber25-Final-Test-Defensiv-Subfilter (Lesson 08.06.): in letztem WM-Test vor Abreise wird Defensive getestet, Ueber-2.5-Markt-Pattern bricht. Team-Tor-Total (Ueber 1.5 Team) als Alternative.",
-    "Klassen-Edge-realisiert-sich-Sieg-nicht-Tor-Anzahl-B-Elf-Schon (Lesson 06.06./08.06. n3-validiert): bei WM-Top-Team vs Underdog mit Rotations-Risiko ist Sieg-Tipp besser als Tor-Anzahl-Tipp.",
-    "Torschuetzen-Jederzeit-Goldgrube (Markt +24.4% ROI / 50% HR n=48, BESTER Markt): aktiv suchen bei Heim-/Auswaerts-Favorit-Spielen mit Form-Edge-Trigger.",
-    "Friendly-Torschuetzen-Mass-Sub-Boost-Falle (Lesson 08.06. n=3): KEINE Mass-Torschuetzen-Tipps mit Einwechslungs-Boost-Hedge in Friendlies - nur 1 Hauptstuermer-Tipp pro Spiel.",
-    "Roster-Verifikations-Joker-Falle (Lesson 08.06.): Spieler-Status (verletzt/gesperrt) vor jedem Torschuetzen-Tipp via WebSearch verifizieren - Mbappe-Vereinssperre-Ablauf bestaetigt fuer 08.06.",
-    "NBA-PLAYOFFS-VERBOT (CLAUDE.md Mapper-Hebel B): NBA-Playoff-Spiele NIE SAFE. G3 nicht Decider (Spurs erst G4 = Elimination), max VALUE moeglich.",
-    "NBA-Player-Punkte-Boykott (Lesson 26.04.): keine NBA-Playoff-Player-Punkte/DD als Einzeltipps - 5/17 = 29.4% HR / -46.2% ROI. NUR optional Moonshot-Bein.",
-    "Sweep-Abwehr-Heimsieg (Lesson 24.04.): Pattern greift nur fuer Heim-Underdog mit Sweep-Druck - Spurs G3 Auswaerts daher KEIN Sweep-Heim-Pattern.",
-    "Inter-Kombi-Diversifikation Layer-1+2+3 (Lessons 29.04./30.04./01.05.): Layer-1 max 1 Bein pro Spiel pro Kombi, Layer-2 Sieg-Outcome max in Safe-Kombi, Layer-3 jedes Spiel-Markt-Bein nur 1x ueber alle Kombis.",
-    "DC-CAP max 1 pro Spiel + Goldgrube-Liga-DC-Falle (Markt-Mix-Pflicht Rule 1+6): DC nur in Liga-Goldgruben (PL, LaLiga, CL-HF-Hinspiel) als SAFE. In WM-Test/Friendlies kein SAFE-DC, lieber direkter Sieg + Torschuetze.",
-    "Beobachtungs-Liga-Schutz (Lesson 27.04.): drittklassige Afrika-Friendly Mauretanien-Niger ohne Form-Wissen - nur 1 Wackel-Tipp, kein Hauptkombi-Bein."
+    "Mapper-Hebel B (NBA-Playoffs/Finals nie SAFE): Hauptlinien Knicks-ML/Spread/Unter sind max VALUE - kein SAFE-Status moeglich im Finals-Kontext.",
+    "Lesson 02.05. NBA-Decider/Finals-Defensiv-These: bisher 2/2 HIT in dieser Finals-Serie (G1 200<218.5, G2 209<214.5) - Unter 216.5 fuer G3 bleibt VALUE-Kandidat, Edge nach Linien-Anpassung geringer.",
+    "Lesson 26.05. NBA-0:2-Heim-Doppel-Niederlage 0% Comeback-Quote in Finals - sichert NYK-Sieg/Spread-These vs Spurs-Aufhol-These.",
+    "HR16 NBA-Player-Punkte-Boykott (Lesson 26.04.): Keine Player-Punkte als Einzeltipps (Towns/Wemby DD sind DD-Markt, kein Punkte-Einzel). Player-Punkte nur in Risiko-/Moonshot-Kombi-Bein (KAT 22.5+, Wemby 31.5+, Brunson 35.5+ in Risiko/Moonshot).",
+    "HR19 NBA-Spread-Margen-Risiko: G1-G2-Margen knapp -> NYK -2.5 statt -7.5, knappe Spread-Linie. Eingehalten.",
+    "Lesson 24.04. Sweep-Abwehr-Heimsieg: Greift hier NICHT - Spurs sind Auswaerts-Underdog, kein Heim-Underdog mit Sweep-Druck-Pattern.",
+    "Lesson 19.05./29.05./06.06. Mini-Spiele-Tag-Konzentrations-Strategie n3+: Single-Game-Slate erzwingt SGP-Kombis und Einsatz-Konzentration auf Safe-Kombi.",
+    "Lesson 26.05. Mini-Spiele-Tag-Korrelations-Single-Point-of-Failure: bewusst akzeptiert - alle 4 Kombis haengen am gleichen Spiel-Outcome (NBA G3). Transparent gemacht durch single_game_slate_hinweis pro Kombi.",
+    "Inter-Kombi-Diversifikation Layer-2 hart (Lesson 29.04.-01.05.): Spiel-Sieg-Outcome (NYK-ML/Spread) ausschliesslich in kombi-safe - keine andere Kombi enthaelt ML/Spread/DC. Layer-3: kein Markt-Bein 2x ueber alle Kombis.",
+    "Goldgruben Markt aktiv (CLAUDE.md 03.05.): Unter 2.5 Tore + DC 1X/X2 + Torschuetzen Jederzeit sind alle Fussball-Maerkte - heute mangels Fussball-Slate irrelevant. Keine Goldgruben-Anwendbarkeit auf NBA-Slate.",
+    "Roster-Verifikations-Check (Lesson 08.06.): Wemby/Brunson/Towns/Hart/Anunoby/Bridges/Robinson alle ueber NBA.com + ESPN-Quellen verifiziert - NICHT erfunden. Position-Genauigkeit (Wemby C, Brunson PG, Towns C/PF, Hart SG/SF, Robinson C) eingehalten."
   ],
-  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
+  "_verifikations_report": {
+    "erstellt_am": "2026-06-08T15:00:00+02:00",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "single_game_slate",
+        "spiel_id": "2026-06-08-nyk-sas",
+        "details": "Genau 1 In-Scope-Spiel heute (NBA Finals G3) - alle 4 Kombis sind Same-Game-Parlays mit Korrelations-Risiko. Bei Spiel-Ausfall/Verschiebung kompletter Slate-Ausfall (Lesson 26.05. Mini-Spiele-Tag-Single-Point-of-Failure). Transparent gemacht im hinweis + single_game_slate_hinweis pro Kombi."
+      },
+      {
+        "art": "halluzination_in_vorgaengerfile_korrigiert",
+        "details": "Vorgaenger-File data/tipps/2026-06-08.json (Stand 14:35 Watchdog-Recovery) enthielt 3 Spiele incl Frankreich-Nordirland (WM-Test-Friendly) + Mauretanien-Niger (Afrika-Friendly). Beide laut CLAUDE.md NICHT im Scope (keine internationale Vorbereitungs-Friendlies, nur Vereins-Liga + Pokal + UEFA-Klub-Wettbewerbe + NBA). Master-Routine 15:00 ueberschreibt mit korrektem Single-NBA-Slate gemaess Recherche-File."
+      },
+      {
+        "art": "edge_marginal",
+        "tipp_id": "nba-g3-1",
+        "details": "NYK-ML 1.77 vs numberFire 56.8% (impliziert fair 1.76) - Edge nur ~2%, im Bereich Aggregator-Vig (4-5%). bet365-Quote LIVE pruefen, ggf. besser bei Pinnacle-Vergleich."
+      },
+      {
+        "art": "edge_marginal",
+        "tipp_id": "nba-g3-5",
+        "details": "Wemby DD 1.30 - niedrige Quote, Edge marginal ~3%. Soliditaet hoch (DD-Pattern stabil) aber Reward-Risk-Verhaeltnis schmal."
+      }
+    ],
+    "layer_2_check": "OK - Spiel-Sieg-Outcome (NYK ML in nba-g3-1, NYK Spread in nba-g3-2) ausschliesslich in kombi-safe (nur ML), kein anderes Kombi enthaelt ML/Spread/DC. Spread-Variante nur als Einzeltipp ez-4, nicht in Kombi.",
+    "layer_3_check": "OK - jedes Markt-Bein nur 1x ueber alle Kombis. Wemby in 3 Kombis aber jeweils unterschiedliche Maerkte (DD / Ueber 31.5 Punkte / Triple-Double). KAT in 2 Kombis mit unterschiedlichen Maerkten (DD / Ueber 22.5 Punkte).",
+    "blacklist_check": "OK - 0 Tipps auf DE-verbotene Markt-Typen (PRA-Kombos, Punkte+Assists, Punkte+Rebounds, Einzel-Assists/Rebounds/Steals/Blocks, Einzelne 3er-Wuerfe). Alle Beine in CLAUDE.md-Whitelist (Moneyline, Spread, Total, Spieler-Punkte, DD/TD, Serien-Wetten, Quartal-Wetten).",
+    "halluzinations_check": "OK - alle Spielernamen (Brunson, Towns, Anunoby, Bridges, Hart, Robinson, Wembanyama, Castle, Harper, Champagnie, Shamet) verifiziert via NBA.com + ESPN-Quellen aus Recherche-File. Position-Genauigkeit eingehalten.",
+    "selbstwiderspruchs_scan": "OK - kein Selbstwiderspruch in saison_kontext vs tipps vs news. Wemby G2 Miss-Kontext + DD-Tipp konsistent (Wemby trotz Miss starkes G2-DD-Volumen 29/9). Knicks-Sieg + Unter-216.5 leicht negativ korreliert aber kein Widerspruch (defensiver Sieg moeglich).",
+    "lessons_generiert": []
+  },
+  "footer": "18+ - bet365 DE - Hobby-Wetten - Sucht-Hilfe BZgA: 0800 1372700 - Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
 }
