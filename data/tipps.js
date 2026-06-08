@@ -34,61 +34,9 @@ window.__MIESMUSCHEL_TIPPS = {
         "France-Tore-Ueber-2.5 @ ~1.70 (FoxSports/Sportsmole-Konsens), France-Sieg @ ~1.12, X @ ~9.00, NIR-Sieg @ ~21.00. Pinnacle Fair-Line France-Sieg ~1.08, Edge marginal.",
         "Heim-Abschieds-Spiel vor WM-Abreise USA - Lille-Publikum letzter Auftritt der Generation 2026."
       ],
-      "tipps": [
-        {
-          "id": "fra-nir-1",
-          "markt": "Frankreich Sieg",
-          "quote": 1.12,
-          "quote_quelle": "Aggregator-Konsens (FoxSports / OneFootball / Toffeeweb, 08.06.)",
-          "kategorie": "value",
-          "bewertung_label": "VALUE",
-          "edge_prozent": 4,
-          "empfohlener_einsatz_prozent": 1.5,
-          "faire_quote": 1.08,
-          "begruendung": "Klassen-Edge FIFA-Top-3 vs FIFA #70 + Heim-Abschieds-Anreiz vor WM-Abreise + Form-Reset-Druck nach Ivory-Coast-Schock. NIR drucklos im Wiederaufbau. KEIN SAFE wegen Rotations-Risiko bei B-Elf-Test (Lesson 06.06. Klassen-Edge realisiert sich oft als Sieg statt Tor-Anzahl bei Schonung) - aber Sieg-Goldgrube validiert bei n3 (Lesson 08.06.). Reality-Check Quoten 1.00-1.50: 71.8% HR / +6.3% ROI (n=107). Empfohlener Einsatz: 8,25€ (1.5%).",
-          "rang": 1
-        },
-        {
-          "id": "fra-nir-2",
-          "markt": "Mbappe trifft jederzeit",
-          "quote": 1.65,
-          "quote_quelle": "Aggregator-Konsens (FoxSports / Wincomparator, 08.06.)",
-          "kategorie": "value",
-          "bewertung_label": "VALUE",
-          "edge_prozent": 8,
-          "empfohlener_einsatz_prozent": 1.5,
-          "faire_quote": 1.53,
-          "begruendung": "Goldgrube-Markt Torschuetzen Jederzeit +24.4% ROI / 50% HR (n=48 - BESTER Markt im System, AKTIV SUCHEN Pflicht-Profil HEIM-FAVORIT). Mbappe (Real Madrid 35 Liga-Tore + Kapitaen) klarer Form-Edge-Trigger, NIR-Defensive Brown/Toal nicht Welt-Niveau, France-Tor-Schnitt 2,4/Spiel Saison 25/26. Friendly-Torschuetzen-Mass-Sub-Boost-Falle (Lesson 08.06.): NUR 1 Torschuetzen-Tipp auf Hauptstuermer, kein Massen-Boost-Hedge. Einwechslungs-Boost: Falls Mbappe in HZ2 getauscht wird, Ersatz-Tor zaehlt mit. Aufstellung 1h vor Anstoss pruefen. Empfohlener Einsatz: 8,25€ (1.5%).",
-          "rang": 2
-        },
-        {
-          "id": "fra-nir-3",
-          "markt": "Frankreich Ueber 1.5 Tore",
-          "quote": 1.36,
-          "quote_quelle": "Aggregator-Konsens (Toffeeweb / FoxSports, 08.06.)",
-          "kategorie": "value",
-          "bewertung_label": "VALUE",
-          "edge_prozent": 6,
-          "empfohlener_einsatz_prozent": 1.3,
-          "faire_quote": 1.28,
-          "begruendung": "Klassen-Edge-realisiert-Sieg-statt-Tor-Anzahl (Lesson 06.06.) - daher Team-Tor-Total statt Spiel-Total. France-Tor-Schnitt 2.4/Spiel 2025/26 + NIR-Gegentor-Schnitt 1.6 in letzten 6 Tests. Ueber 2.5-Gesamt-Tore zu riskant wegen WM-Test-Final-Test-Defensiv-Subfilter (Lesson 08.06. - WM-Teams testen Defensive im letzten Test, Ueber 2.5 ist NICHT Goldgrube wenn Final-Test). 'France Ueber 1.5' kompromiss-tipp. Empfohlener Einsatz: 7,15€ (1.3%).",
-          "rang": 3
-        },
-        {
-          "id": "fra-nir-4",
-          "markt": "Frankreich Doppelte Chance + Unter 4.5 Tore",
-          "quote": 1.45,
-          "quote_quelle": "Aggregator-Konsens (Wincomparator / Sportsmole, 08.06.)",
-          "kategorie": "wackel",
-          "bewertung_label": "WACKEL",
-          "edge_prozent": 3,
-          "empfohlener_einsatz_prozent": 0.5,
-          "faire_quote": 1.41,
-          "begruendung": "DC-Cap: max 1 DC pro Spiel (Rule 1) - Kombi-Tipp 1X + Unter 4.5 hedged gegen Tor-Festival (Final-Test-Defensiv-Subfilter) + sichert Klassen-Edge-Sieg. Reality-Check DC 1X Goldgrube 84.6% / +9.5% (n=13). Empfohlener Einsatz: 2,75€ (0.5%) - WACKEL wegen marginal edge, dient als Pseudo-Hedge in Mini-Spiele-Tag-Strategie (Lesson 03.06./06.06.).",
-          "rang": 4
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-06-08-sas-nyk-g3",
@@ -120,48 +68,9 @@ window.__MIESMUSCHEL_TIPPS = {
         "Total 216.5 - SportsLine Sim 53.1% Under, numberFire Knicks 56.8% Win Probability.",
         "Quoten via OddsShark/CBSSports-Konsens (08.06.): Knicks ML 1.74 (-135), Spurs ML 2.15 (+115), Spread Knicks -2.5 @ 1.91, Total 216.5 Ueber 1.90 / Unter 1.90."
       ],
-      "tipps": [
-        {
-          "id": "nba-g3-1",
-          "markt": "New York Knicks Moneyline (Sieg)",
-          "quote": 1.74,
-          "quote_quelle": "OddsShark / CBSSports / FanDuel-Konsens 08.06.",
-          "kategorie": "value",
-          "bewertung_label": "VALUE",
-          "edge_prozent": 8,
-          "empfohlener_einsatz_prozent": 1.8,
-          "faire_quote": 1.61,
-          "begruendung": "Knicks Heimrecht MSG + Serienfuehrung 2-0 + numberFire 56.8% Win-Probability + Brunson G1-G2 Form-Edge (64 Pkt zusammen). Spurs Auswaerts-Underdog OHNE Sweep-Heim-Pattern (Sweep-Abwehr-Heimsieg-Lesson 24.04. greift NICHT - Spurs sind Gast). NBA-PLAYOFFS-VERBOT (CLAUDE.md): NIE SAFE - daher VALUE statt SAFE. G3 KEIN Decider (Spurs erst G4 = Elimination), max WACKEL-Regel greift erst bei G5/6/7. Empfohlener Einsatz: 9,90€ (1.8%).",
-          "rang": 1
-        },
-        {
-          "id": "nba-g3-2",
-          "markt": "Unter 216.5 Punkte",
-          "quote": 1.9,
-          "quote_quelle": "OddsShark / FanDuel-Konsens 08.06.",
-          "kategorie": "wackel",
-          "bewertung_label": "WACKEL",
-          "edge_prozent": 5,
-          "empfohlener_einsatz_prozent": 0.5,
-          "faire_quote": 1.81,
-          "begruendung": "SportsLine-Sim 53.1% Unter, NBA-G3-Closeout-Druck-Pattern (Lesson 02.05.: G6/G7-Sweep-Druck fuehrt OFT zu Defensiv-Vergroesserung) - aber Spurs noch nicht im Elimination-Modus (G3 nur 0-3 Risiko). Linie 216.5 borderline hoch fuer Defensiv-Tendenz. KEIN VALUE wegen NBA-Total-Volatilitaet bei Star-vs-Star (Wemby + Brunson koennen Eskalation triggern). Empfohlener Einsatz: 2,75€ (0.5%).",
-          "rang": 2
-        },
-        {
-          "id": "nba-g3-3",
-          "markt": "Knicks Sieg + Unter 216.5 (kombiniert)",
-          "quote": 3.5,
-          "quote_quelle": "OddsShark Same-Game-Parlay-Schaetzung 08.06.",
-          "kategorie": "wackel",
-          "bewertung_label": "WACKEL",
-          "edge_prozent": 2,
-          "empfohlener_einsatz_prozent": 0.25,
-          "faire_quote": 3.43,
-          "begruendung": "Pseudo-Hedge Same-Game-Bein in Mini-Spiele-Tag-Konzentrations-Strategie (Lesson 03.06./06.06. n3-validiert). Knicks-Sieg + niedriges Tempo = Defense-Win-Szenario. Korrelation positiv (knapper Knicks-Sieg in Defensiv-Schlacht). KEIN VALUE wegen Same-Game-Korrelations-Bonus schon eingepreist. Empfohlener Einsatz: 1,38€ (0.25%).",
-          "rang": 3
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-06-08-mau-nig",
@@ -191,22 +100,9 @@ window.__MIESMUSCHEL_TIPPS = {
         "Quoten via Aggregator-Konsens: Mauretanien 2.50, X 3.10, Niger 2.80. Unter 2.5 ~1.50.",
         "Beobachtungs-Spiel - kein Form-Wissen aufgebaut, kein Hauptkombi-Bein, kein SAFE/VALUE."
       ],
-      "tipps": [
-        {
-          "id": "mau-nig-1",
-          "markt": "Unter 2.5 Tore",
-          "quote": 1.5,
-          "quote_quelle": "Aggregator-Konsens (MightyTips / RatingBet, 08.06.)",
-          "kategorie": "wackel",
-          "bewertung_label": "WACKEL",
-          "edge_prozent": 3,
-          "empfohlener_einsatz_prozent": 0.4,
-          "faire_quote": 1.46,
-          "begruendung": "Beide Teams winless-Streaks + drucklos = defensive Friendly-Schlacht erwartet. H2H 2 von 3 letzten Duellen Unter 2.5. Markt-Goldgrube Unter 2.5 +39.9% ROI / 71.4% HR (n=14). WACKEL statt VALUE wegen Datenbasis-Mangel + drittklassiger Friendly. Empfohlener Einsatz: 2,20€ (0.4%).",
-          "rang": 1
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     }
   ],
   "einzeltipps": [
@@ -327,10 +223,10 @@ window.__MIESMUSCHEL_TIPPS = {
     },
     {
       "id": "kombi-balance",
-      "name": "Mini-Tag Balance (~3x)",
+      "name": "Mini-Tag Balance (~4.26x)",
       "kategorie": "balance",
       "bewertung_label": "VALUE",
-      "gesamtquote": 2.84,
+      "gesamtquote": 4.26,
       "empfohlener_einsatz_prozent": 0.8,
       "begruendung": "Layer-2-Diversifikation: KEIN Sieg-Outcome (das ist in Safe-Kombi), nur Markt-Diverse Beine. Mbappe-Torschuetze (Goldgrube +24.4%) + France-Tore-Ueber-1.5 + NBA-Unter-216.5 = Markt-divers, kein einzelnes Spiel-Outcome killt zwei Beine gleichzeitig (Mbappe + Tore stark korreliert aber Markt-getrennt). Layer-3: jedes Spiel-Markt-Bein nur 1x in Kombi-Set. Einsatz: 4,40€ (0.8% von 550€).",
       "beine": [
@@ -352,14 +248,15 @@ window.__MIESMUSCHEL_TIPPS = {
           "markt": "Unter 216.5",
           "quote": 1.9
         }
-      ]
+      ],
+      "rechnung": "1.65 x 1.36 x 1.90 = 4.26"
     },
     {
       "id": "kombi-risiko",
-      "name": "Mini-Tag Risiko (~10x)",
-      "kategorie": "risiko",
+      "name": "Mini-Tag Risiko (~11.10x)",
+      "kategorie": "risk",
       "bewertung_label": "RISIKO",
-      "gesamtquote": 10.15,
+      "gesamtquote": 11.1,
       "empfohlener_einsatz_prozent": 0.25,
       "begruendung": "Risiko-Kombi mit Spread-/Markt-Diversifikation: Knicks Spread -2.5 (Same-Game mit Sieg in Safe nicht erlaubt) - daher kein -2.5 + ML. Stattdessen Niger-Spiel-Hedge + Mbappe-Doppelpack + France-Sieg-zu-Null. Bei Mini-Spiele-Tag wird Risiko-Kombi mathematisch sehr unwahrscheinlich (3 Beine je 60% = ~22% Hitrate). Einsatz: 1,40€ (0.25% von 550€).",
       "beine": [
@@ -379,14 +276,15 @@ window.__MIESMUSCHEL_TIPPS = {
           "markt": "Unter 2.5 Tore",
           "quote": 1.5
         }
-      ]
+      ],
+      "rechnung": "4.00 x 1.85 x 1.50 = 11.1"
     },
     {
       "id": "kombi-moonshot",
-      "name": "Mini-Tag Moonshot (~80x)",
+      "name": "Mini-Tag Moonshot (~526.18x)",
       "kategorie": "moonshot",
       "bewertung_label": "MOONSHOT",
-      "gesamtquote": 80.0,
+      "gesamtquote": 526.18,
       "empfohlener_einsatz_prozent": 0.1,
       "begruendung": "Spass-Einsatz. Frankreich genau 3:0 + Mbappe Hattrick + Knicks Sieg + Niger Sieg = 4 Beine, sehr unwahrscheinlich. Mini-Spiele-Tag-Lotterie. Einsatz: 0,55€ (0.1% von 550€).",
       "beine": [
@@ -411,7 +309,8 @@ window.__MIESMUSCHEL_TIPPS = {
           "markt": "Niger Sieg",
           "quote": 2.8
         }
-      ]
+      ],
+      "rechnung": "9.00 x 12.00 x 1.74 x 2.80 = 526.18"
     }
   ],
   "lessons_angewandt": [
