@@ -1,0 +1,1106 @@
+{
+  "datum": "2026-06-07",
+  "erstellt_am": "2026-06-07T10:50:00+02:00",
+  "hinweis": "Sonntag 07.06. - WM-Test-Marathon vor WM-Start 11.06.: Kroatien-Slowenien (letzter Heim-Test Modric & Co), Griechenland-Italien (beide WM-OUT, Reset-Spiele), Marokko-Norwegen (Haaland + Odegaard zurueck, beide WM), Ecuador-Guatemala (Ecuador zementiert WM-Elf). Goldgruben aktiv suchen: Markt-Goldgrube 'Ueber 2.5 Tore' +29% ROI 54.5% HR + 'Torschuetzen Jederzeit' +23.4% ROI / Liga-Goldgrube 'WM-Test' 85.7% HR +36.5% ROI. Lessons 06.06.: Klassen-Edge realisiert sich oft als Sieg statt Tor-Anzahl bei B-Elf-Schonung. NBA-Finals Game 3 ist erst Montag 08.06. - heute keine NBA. Kasse 550€, Stufe 1 (Aufbau).",
+  "spiele": [
+    {
+      "id": "2026-06-07-cro-svn",
+      "liga": "Internationales Freundschaftsspiel (WM-Test)",
+      "heim": "Kroatien",
+      "gast": "Slowenien",
+      "anstoss": "2026-06-07T20:45:00+02:00",
+      "stadion": "Stadion Varteks, Varazdin",
+      "saison_kontext": {
+        "parallel_heim": "keine (Nationalteam-Phase, Liga-Saison beendet) - WM-2026-Vorbereitung",
+        "parallel_gast": "keine (Nationalteam-Phase, Slowenien WM-OUT)",
+        "saisonziel_heim": "WM-2026 Gruppe B (vs England 14.06., Panama, Ghana) - FIFA #10, Vize-Weltmeister 2018 + Vize-EM 2024, letzte Goldene-Generation-Chance um Modric (40). Heim-Abschieds-Spiel vor WM-Abreise.",
+        "saisonziel_gast": "Kein WM (gescheitert in Quali) - Wiederaufbau unter Neu-Coach Bostjan Cesar nach enttaeuschender Quali-Kampagne, FIFA #44, primaer Test fuer junge Spieler",
+        "motivations_asymmetrie": "Kroatien hat Heim-Abschieds-Anreiz vor WM-Abreise + will Modric-Mask-Form testen, Slowenien drucklos im Wiederaufbau-Modus - klare Motivations-Asymmetrie zugunsten Kroatien aber Rotations-Risiko fuer Schonung der Stammspieler.",
+        "recovery_heim": "5 Tage seit Belgien-Test (0:2 Niederlage) - frische Beine aber Form-Defekt zu reparieren, Modric mit Schutzmaske nach Jochbein-OP voll im Training",
+        "recovery_gast": "3 Tage seit Zypern-Test (1:1 Remis) - kurze Rotations-Phase, Oblak Stamm-Goalie",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/pre-tournament-warm-up-results-fixtures-scorers",
+          "https://www.sportsmole.co.uk/football/croatia/preview/croatia-vs-slovenia-prediction-team-news-lineups_598708.html",
+          "https://worldcuppass.com/croatia-world-cup-squad-2026/",
+          "https://www.foxsports.com/stories/soccer/croatia-vs-slovenia-how-watch-prediction-odds-friendly-preview"
+        ]
+      },
+      "news": [
+        "Kroatien voraussichtlich 3-4-2-1: Livakovic; Gvardiol, Vuskovic, Sutalo; Stanisic, Kovacic, Modric, Perisic; Baturina, Sucic; Musa.",
+        "Modric (40) spielt mit Schutzmaske nach Jochbein-Doppelbruch (Milan-Juve Mai 2026) - voll trainiert, will WM-Vorbereitung zementieren.",
+        "Petar Musa (FC Dallas, 12 Tore in MLS-Saison) als zentraler 9er erwartet - 3. zweistellige Tore-Saison in Folge, klar im Aufwind.",
+        "Slowenien 4-4-2: Oblak; Janza, Brekalo, Bijol, Kuzmic; Verbic, Svetlin, Gnezda-Cerin, Seslar; Sturm, Vipotnik. Anti-Kontra-Setup unter Neu-Coach Cesar.",
+        "Heim-Abschieds-Spiel vor WM-Abreise - Kroatien-Publikum letzter Auftritt, Anreiz fuer 90-Minuten-Power statt Schonung.",
+        "Quoten via Aggregator-Konsens (Sportsmole / FoxSports / Toffeeweb): Kroatien 1.36 / X 4.60 / Slowenien 9.00 - Ueber 2.5 ~2.15 / Unter 2.5 ~1.70 / BTTS Ja ~2.10."
+      ],
+      "tipps": [
+        {
+          "id": "ez-2",
+          "markt": "Petar Musa trifft jederzeit",
+          "quote": 2.5,
+          "quote_quelle": "Aggregator-Konsens (Sportsmole / Wincomparator, 06.06.)",
+          "kategorie": "value",
+          "bewertung_label": "VALUE",
+          "edge_prozent": 11,
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 2.25,
+          "begruendung": "Goldgrube-Markt Torschuetzen Jederzeit +23.4% ROI (n=48 - BESTER Markt im System, aktiv suchen Pflicht). Musa (FC Dallas) 12 Tore in MLS-Saison, 3. zweistellige Saison in Folge - klar Form-Edge-Trigger (Pflicht-Profil HEIM-FAVORIT). Kroatien @1.36 + Slowenien-Verteidigung mit Brekalo/Bijol nicht Welt-Niveau. Einwechslungs-Boost-Hedge: Falls Musa fuer Kramaric/Budimir/Matanovic getauscht wird, deren Tore zaehlen mit. Reality-Check Quoten 2.00-3.00: 41.7% HR / +9.0% ROI. Aufstellung 1h vor Anstoss pruefen. Empfohlener Einsatz: 8,25€ (1.5%).",
+          "rang": 2
+        },
+        {
+          "id": "ez-6",
+          "markt": "Kroatien Sieg",
+          "quote": 1.36,
+          "quote_quelle": "Aggregator-Konsens (Sportsmole / FoxSports / Toffeeweb, 06.06.)",
+          "kategorie": "value",
+          "bewertung_label": "VALUE",
+          "edge_prozent": 7,
+          "empfohlener_einsatz_prozent": 1.6,
+          "faire_quote": 1.27,
+          "begruendung": "Klassen-Edge FIFA #10 vs #44 + Heim-Abschieds-Anreiz vor WM-Abreise (letzte Chance fuer Modric vor heimischem Publikum) + Form-Reset-Druck nach Belgien-0:2. Slowenien drucklos im Wiederaufbau. Kein SAFE wegen Rotations-Risiko Pre-WM-Friendlies (Lesson 06.06. B-Elf-Schon). Reality-Check Quoten 1.00-1.50: 71.8% HR / +6.3% ROI (n=107). Empfohlener Einsatz: 8,80€ (1.6%).",
+          "rang": 6
+        },
+        {
+          "id": "ez-9",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.7,
+          "quote_quelle": "Aggregator-Konsens (Toffeeweb / Sportsmole, 06.06.)",
+          "kategorie": "wackel",
+          "bewertung_label": "WACKEL",
+          "edge_prozent": 5,
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.62,
+          "begruendung": "H2H 2 von 3 letzten Kroatien-Slowenien-Duellen Unter 2.5. Pre-WM-Friendlies tendieren defensiv. Slowenien-Cesar baut Anti-Kontra-System. WACKEL statt VALUE wegen Musa-Form-Edge + Modric-Schau-Anreiz (gegenlaeufige Argumente). Markt-Goldgrube Unter 2.5 +39.9% ROI / 71.4% HR (n=14). Empfohlener Einsatz: 2,75€ (0.5%).",
+          "rang": 9
+        }
+      ],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true,
+      "ergebnis": {
+        "endstand": "2:1",
+        "halbzeit": "0:0",
+        "status": "beendet"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "ez-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Musa als Heim-9er Starter, kein Tor. Tore von Modric (51.) und Pasalic (90+3). Pasalic kam fuer Modric (57.), NICHT fuer Musa - Boost-Mechanik greift nicht (Musa kein Auswechsel-Ersatz-Treffer).",
+          "clv_prozent": null,
+          "closing_quote": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "ez-6",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.3600000000000001,
+          "kommentar": "Kroatien 2:1 - Modric 51. + Pasalic 90+3. (nach Slowenien-Ausgleich Sporar 83.). Spaetes 2:1, Klassen-Edge realisierte sich knapp. Heim-Abschieds-Anreiz vor WM-Abreise zahlte aus.",
+          "clv_prozent": null,
+          "closing_quote": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "ez-9",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Endstand 2:1 = 3 Tore > 2.5. Modric (51.) + Sporar (83.) + Pasalic (90+3) - knapp ueberschritten in der Verlaengerung.",
+          "clv_prozent": null,
+          "closing_quote": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "2:1",
+        "tore": [
+          {
+            "min": 51,
+            "team": "heim",
+            "spieler": "Luka Modric",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 83,
+            "team": "gast",
+            "spieler": "Andraz Sporar",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": "90+3",
+            "team": "heim",
+            "spieler": "Mario Pasalic",
+            "stand_danach": "2:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Drehung - kein Team hatte einen 2-Tor-Vorsprung. Kroatien fuehrte 1:0 (51.), Slowenien gleich 1:1 (83.), Pasalic-Joker entschied 2:1 (90+3)."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Unentschieden/Kroatien",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Modric (40)",
+            "details": "57. Min ausgewechselt nach Tor, rousing applause vom Heim-Publikum - Last-Heim-Auftritt vor WM-Abreise, Schon-Symbolik"
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Mario Pasalic",
+            "aus": "Luka Modric",
+            "minute": 57,
+            "tor": true,
+            "tor_minute": "90+3",
+            "details": "Pasalic kam fuer Modric (nicht fuer Musa!) und traf in 90+3 zum 2:1-Siegtreffer. Boost zaehlt NICHT fuer Musa-Tipp (Pasalic ist Modric-Ersatz, nicht Musa-Ersatz)."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Klassen-Edge Kroatien (FIFA10) ueber Slowenien (FIFA44) realisierte sich knapp als 2:1 - bestaetigt Lesson 06.06. 'Klassen-Edge-Sieg-statt-Tor-Anzahl' (3. Validation in 4 Wochen).",
+          "Joker-Show Pasalic: Mario Pasalic kam fuer Modric, holte den Siegtreffer - WM-Test-Final-Spiele zeigen oft Joker-Entscheidungen statt Star-9er-Tore.",
+          "Musa-Tipp-Falle: Musa als Heim-Favorit-9er @1.36 keinen Treffer - klassisches Pattern dass Star-9er in WM-Tests defensiver Schonung dienen, Tor faellt durch Mittelfeld/Joker."
+        ]
+      }
+    },
+    {
+      "id": "2026-06-07-gre-ita",
+      "liga": "Internationales Freundschaftsspiel",
+      "heim": "Griechenland",
+      "gast": "Italien",
+      "anstoss": "2026-06-07T20:45:00+02:00",
+      "stadion": "Pankritio-Stadion, Heraklion (Kreta)",
+      "saison_kontext": {
+        "parallel_heim": "keine (Nationalteam-Phase, Liga-Saison beendet, kein WM)",
+        "parallel_gast": "keine (kein WM nach Playoff-Aus, U22-Reset-Phase)",
+        "saisonziel_heim": "Kein WM, FIFA #46, Coach Ivan Jovanovic Wiederaufbau - 1 Sieg in 8 Spielen, Form-Krise (2:2 vs Schweden mit Last-Minute-Ausgleich Masouras 95.)",
+        "saisonziel_gast": "Kein WM nach Playoff-Aus, FIFA #11 nominal, U22-Reset unter Interim-Coach Silvio Baldini (Italy U21-Coach), neuer Coach erst nach FIGC-Wahl 22.06. - Donnarumma einziger Senior, Pio Esposito (Inter, 20) Sturm-Anker",
+        "motivations_asymmetrie": "Beide ohne WM-Antrieb, beide im Umbruch - Coinflip pur. Italien-U22 hat Reset-Motivation + Pio Esposito (4 Tore in 8 Spielen) als Form-Anker, Griechenland Heim-Anreiz aber Form-Krise. Edge marginal Italien, aber Klassen-Lift fehlt komplett.",
+        "recovery_heim": "3 Tage seit Schweden-Test (2:2) - kurze Rotations-Phase, Stamm-Elf-Wiederholung erwartet",
+        "recovery_gast": "4 Tage seit Luxemburg-Test (1:0 Esposito-Tor) - frisch, U22-Squad ohne Vereins-Doppelbelastung",
+        "quellen": [
+          "https://thehardtackle.com/round-up/2026/06/06/greece-vs-italy-preview-and-prediction/",
+          "https://football-italia.net/italy-friendly-greece-changes-to-expect/",
+          "https://www.sportsmole.co.uk/football/greece/preview/greece-vs-italy-prediction-team-news-lineups_598719.html",
+          "https://en.wikipedia.org/wiki/Pio_Esposito"
+        ]
+      },
+      "news": [
+        "Italien U22 4-3-3 unter Interim-Coach Baldini: Donnarumma; Bartesaghi, Comuzzo, Mané, Favasuli; Pisilli, Lipani, Ndour; Koleosho, Pio Esposito, Fini.",
+        "Pio Esposito (Inter, 20) Form-Anker: 4 Tore in 8 Italien-Spielen, drittjuengster Italiener mit 3+ Tor-Quote nach Meazza/Rivera. 1:0-Siegtor gegen Luxemburg 03.06.",
+        "Griechenland 4-2-3-1: Vlachodimos; Vagiannidis, Retsos, Mavropanos, Tsimikas; Kourbeli, Mantalos; Bakasetas, Pelkas, Masouras; Pavlidis.",
+        "Griechenland nur 1 Sieg in 8 Spielen - 0 oder 1 Tor in 6 von letzten 8, defensive Krise: 2:2 vs Schweden, 0:0 vs Ungarn, 0:1 vs Paraguay zuhause.",
+        "Italien U22 hat in Luxemburg 1:0 Probleme im Offensiv-Drittel gezeigt - Baldini selbst: 'wir haben Probleme im Angriff'.",
+        "Quoten via Aggregator-Konsens (Wincomparator / Toffeeweb / Sportskeeda): Griechenland 2.75 / X 3.45 / Italien 2.65 - Ueber 2.5 ~2.05 / Unter 2.5 ~1.75 / BTTS Ja ~2.10."
+      ],
+      "tipps": [
+        {
+          "id": "ez-4",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.75,
+          "quote_quelle": "Aggregator-Konsens (Wincomparator / Toffeeweb, 06.06.)",
+          "kategorie": "value",
+          "bewertung_label": "VALUE",
+          "edge_prozent": 9,
+          "empfohlener_einsatz_prozent": 1.6,
+          "faire_quote": 1.6,
+          "begruendung": "Doppelte Tor-Schwaeche: Griechenland 0/1 Tor in 6 von 8 letzten Spielen (Form-Krise), Italien-U22 schoss 1:0 gegen Luxemburg, Baldini selbst klagt ueber Offensiv-Probleme. Beide kein WM-Anreiz, beide im Umbruch - taktisch defensive Probe wahrscheinlich. Markt-Goldgrube Unter 2.5 +39.9% ROI / 71.4% HR (n=14 - bester Tor-Markt). H2H GRE-ITA Friendlies historisch low-scoring. Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI. Empfohlener Einsatz: 8,80€ (1.6%).",
+          "rang": 4
+        },
+        {
+          "id": "ez-10",
+          "markt": "Italien Doppelte Chance (X2)",
+          "quote": 1.55,
+          "quote_quelle": "Aggregator-Konsens (Wincomparator / Sportskeeda, 06.06.)",
+          "kategorie": "wackel",
+          "bewertung_label": "WACKEL",
+          "edge_prozent": 4,
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.49,
+          "begruendung": "Trotz U22-Squad hat Italien Klassen-Edge vs Griechenland in Form-Krise (1 Sieg in 8). Pio-Esposito-Form-Anker (4 Tore in 8) + Donnarumma + Sucic-Talent. Coinflip-Match (alle 1X2-Quoten 2.65-3.45) - kein SAFE moeglich. Empfohlener Einsatz: 2,75€ (0.5%).",
+          "rang": 10
+        }
+      ],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true,
+      "ergebnis": {
+        "endstand": "0:1",
+        "halbzeit": "0:1",
+        "status": "beendet"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "ez-4",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.75,
+          "kommentar": "Endstand 0:1 = 1 Tor < 2.5. Pio Esposito 18.' brachte Italien-U22 in Fuehrung, danach defensives 0:1 ueber die Zeit (selbst mit 10 Mann ab 68.). Klassische taktisch-Probe-Konstellation.",
+          "clv_prozent": null,
+          "closing_quote": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "ez-10",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.55,
+          "kommentar": "Italien-U22 Sieg 0:1 (Esposito 18.). DC X2 eingeloest, selbst mit 10 Mann ab 68. Reggiani-Rot brachten sie die Fuehrung souveraen ueber die Zeit.",
+          "clv_prozent": null,
+          "closing_quote": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "0:1",
+        "tore": [
+          {
+            "min": 18,
+            "team": "gast",
+            "spieler": "Pio Esposito (Vorlage Ekhator)",
+            "stand_danach": "0:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Drehung - Italien U22 fuehrte ab 18.' und brachte 0:1 ueber die Zeit, selbst mit 10 Mann ab 68. Min (Reggiani rot)."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Italien/Italien",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Reggiani",
+            "details": "Rote Karte 68. Min - Italien U22 spielte 25+ Min mit 10 Mann und brachte 0:1 souveraen ueber die Zeit"
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Form-Krise-Griechenland bestaetigt: 7. Spiel in 9 ohne Sieg, 7. Spiel in 9 mit max 1 Tor. Form-Krise erweitert sich, Coach-Wechsel-Druck.",
+          "Italien-U22 zeigt Klassen-Lift trotz fehlender Senior-Stars: Esposito 2/2 als Baldini-9er. Form-Anker-Pattern bestaetigt.",
+          "Defensiv-Doppel-These (Unter 2.5 + DC X2) komplett aufgegangen - taktische Probe-Spiele in Coinflip-Konstellationen tendieren stark zu 1-Tor-Spielen.",
+          "Rotes Spiel ohne Drehung trotz 10 vs 11 - Italien-U22 Disziplin in U21-Coach-Schema."
+        ]
+      }
+    },
+    {
+      "id": "2026-06-07-mar-nor",
+      "liga": "Internationales Freundschaftsspiel (WM-Test)",
+      "heim": "Marokko",
+      "gast": "Norwegen",
+      "anstoss": "2026-06-07T21:00:00+02:00",
+      "stadion": "Sports Illustrated Stadium, Harrison NJ (Neutraler Platz)",
+      "saison_kontext": {
+        "parallel_heim": "keine (Nationalteam-Phase) - Marokko WM-2026 Gruppe vorbereitet",
+        "parallel_gast": "keine (Nationalteam-Phase) - Norwegen WM-2026 erstes Mal seit 1998!",
+        "saisonziel_heim": "WM-2026 (Atlas-Loewen Halbfinalist 2022, FIFA #13) - Achtelfinal-Wiederholung Ziel, Last-Test vor WM-Auftakt 13.06. - Hakimi geschont, Bono/Mazraoui/Diop/Amrabat Achse, El Kaabi 9er-Form-Frage",
+        "saisonziel_gast": "WM-2026 (erstes Mal seit 1998, Solbakken-Aera, FIFA #14) - 5 von 5 EM-Quali-Spielen 12+ Tore Haaland-Show, will Achse zementieren - Haaland + Odegaard zurueck nach Schonung Montag",
+        "motivations_asymmetrie": "Beide finaler Test vor WM-Auftakt - beide wollen Achse zementieren. Norwegen offensiv staerker (Haaland + Odegaard + Nusa + Bobb), Marokko defensiv solider (Bono + Mazraoui + Diop). Wahrscheinlich offen-tor-reiches Spiel da beide ihre Top-9er einsetzen wollen + neutraler Platz (USA) ohne Heim-Vorteil.",
+        "recovery_heim": "10 Tage seit Senegal-Test (1:1) - frisch, Hakimi-Vorsichts-Schonung dokumentiert",
+        "recovery_gast": "5 Tage seit Schottland-Test (Sieg) - frisch, Haaland kommt zurueck in Startelf nach Pause",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/pre-tournament-warm-up-results-fixtures-scorers",
+          "https://roadto26.com/event/morocco-vs-norway/",
+          "https://www.sportsmole.co.uk/football/morocco/preview/morocco-vs-norway-prediction-team-news-lineups_598720.html",
+          "https://news.22bet.com/predictions/morocco-vs-norway-prediction-booking-code-07-06-2026/"
+        ]
+      },
+      "news": [
+        "Norwegen 4-2-3-1: Nyland; Wolfe, Ostigard, Ajer, Ryerson; Berge, Aursnes; Nusa, Odegaard, Bobb; Haaland.",
+        "Erling Haaland + Martin Odegaard ZURUECK in Startelf nach Schonung Montag - WM-Aufbau-Test, Volumen-9er-Pflicht-Setup.",
+        "Marokko voraussichtlich 4-2-3-1: Bono; Mazraoui (rechts statt Hakimi), Riad, Diop, Hakimi; El Aynaoui, Amrabat; Ezzalzouli, Ounahi, Brahim; El Kaabi.",
+        "Hakimi (Achilles-Frage) Einsatz unsicher - Mazraoui rechts-hinten alternativ, Atlas-Loewen testen Plan B vor WM.",
+        "Marokko 5 ungeschlagen (4 Siege + 1 Remis), Norwegen schlug Schweden 3:1 - beide offensive Form: Marokko 15 Tore in 5, Norwegen 12 in 5.",
+        "Quoten via Aggregator-Konsens (Wincomparator / Polymarket / Sportskeeda): Marokko 3.20 / X 3.45 / Norwegen 2.32 - Ueber 2.5 ~1.80 / BTTS Ja ~1.68 / Haaland Trifft ~1.85."
+      ],
+      "tipps": [
+        {
+          "id": "ez-1",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.8,
+          "quote_quelle": "Aggregator-Konsens (Wincomparator / Sportskeeda / Mozzart, 06.06.)",
+          "kategorie": "safe",
+          "bewertung_label": "SAFE",
+          "edge_prozent": 13,
+          "empfohlener_einsatz_prozent": 2.0,
+          "faire_quote": 1.6,
+          "begruendung": "TOP-1 des Tages. Liga-Goldgrube WM-Test 85.7% HR / +36.5% ROI (n=14, gestern Lesson WM-Test-Ueber-25-80pct-8g validiert) + Markt-Goldgrube Ueber 2.5 +29% ROI / 54.5% HR (n=24). Marokko 15 Tore in 5 + Norwegen 12 in 5 + Haaland/Odegaard zurueck + neutraler Platz USA = kein Heim-Defensiv-Anker. Beide WM-final-Test mit Volle-Power-Elf, kein Schonungs-Risiko. SAFE in Liga-Goldgrube + Markt-Goldgrube = Mapper-Hebel C bestaetigt SAFE. Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI (n=154 - beste Range). Empfohlener Einsatz: 11€ (2.0% der 550€-Kasse).",
+          "rang": 1
+        },
+        {
+          "id": "ez-5",
+          "markt": "Erling Haaland trifft jederzeit",
+          "quote": 1.85,
+          "quote_quelle": "Aggregator-Konsens (Sportskeeda / Mozzart / SportyTrader, 06.06.)",
+          "kategorie": "value",
+          "bewertung_label": "VALUE",
+          "edge_prozent": 8,
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.71,
+          "begruendung": "Goldgrube-Markt Torschuetzen Jederzeit +23.4% ROI / 41.3% HR (n=48). Haaland zurueck in Startelf nach Schonung Montag - Form-Edge-Pflicht-Profil ausgeloest (Norwegen Sieg-Quote 2.32). 5 Tore in letzten 5 EM-Quali, Goal-Machine-Modus + WM-final-Test-Anreiz. Marokko-Verteidigung mit Bono solide aber Klasse-Antwort fehlt. Reality-Check Quoten 1.50-2.00: 54.4% HR. Aufstellung pruefen. Empfohlener Einsatz: 8,25€ (1.5%).",
+          "rang": 5
+        },
+        {
+          "id": "ez-7",
+          "markt": "Beide Teams treffen (Ja)",
+          "quote": 1.68,
+          "quote_quelle": "Aggregator-Konsens (1xbet / Wincomparator, 06.06.)",
+          "kategorie": "value",
+          "bewertung_label": "VALUE",
+          "edge_prozent": 6,
+          "empfohlener_einsatz_prozent": 1.4,
+          "faire_quote": 1.58,
+          "begruendung": "Norwegen 60% BTTS-Rate letzte 10, Marokko 15 Tore in 5. Beide WM-final-Test mit Stars zurueck (Haaland, Odegaard, El Kaabi). Neutraler Platz USA - kein Heim-Park-Defensiv-Anker. Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI. Empfohlener Einsatz: 7,70€ (1.4%).",
+          "rang": 7
+        }
+      ],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true,
+      "ergebnis": {
+        "endstand": "1:1",
+        "halbzeit": "1:0",
+        "status": "beendet"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "ez-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Endstand 1:1 = 2 Tore < 2.5. Massen-Substitutionen in 60-72.' bremsten den Offensiv-Druck Marokko, Norwegen-Joker Bobb assistierte Odegaard zum 1:1 in 75.' - kein 3. Tor mehr. Bricht WM-Test-Ueber25-Goldgrube-Pattern erstmalig.",
+          "clv_prozent": null,
+          "closing_quote": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "ez-5",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Haaland 72. Min ausgewechselt fuer Jorgen Strand Larsen - Strand Larsen kein Tor (Odegaard traf 75. als Senior, blieb auf dem Platz). Boost-Mechanik greift NICHT (Haaland raus + Ersatz Strand Larsen traf nicht). Haaland selbst kein Tor.",
+          "clv_prozent": null,
+          "closing_quote": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "ez-7",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.6799999999999999,
+          "kommentar": "1:1 = beide Teams trafen. Brahim Diaz 8. (MAR), Odegaard 75. (NOR). BTTS Ja eingeloest.",
+          "clv_prozent": null,
+          "closing_quote": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "1:1",
+        "tore": [
+          {
+            "min": 8,
+            "team": "heim",
+            "spieler": "Brahim Diaz (Vorlage Ezzalzouli)",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 75,
+            "team": "gast",
+            "spieler": "Martin Odegaard (Vorlage Oscar Bobb)",
+            "stand_danach": "1:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Drehung - Marokko fuehrte nur 1:0 (nicht 2-Tor-Vorsprung), Norwegen glich aus aber kein Comeback-Sieg."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Marokko/Unentschieden",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Massen-Wechsel Marokko 64. Min",
+            "details": "Coach Ouahbi tauschte 7 Spieler in 64. Min aus (Diop, Riad, Ounahi, El Aynaoui, Hakimi, Brahim Diaz, Saibari) - taktische Probe komplette 2. Garde - bremste Offensiv-Druck Marokko"
+          },
+          {
+            "team": "gast",
+            "spieler": "Massen-Wechsel Norwegen Cooling-Break",
+            "details": "Coach Solbakken tauschte 7 Spieler im Cooling-Break (Berge, Ajer, Wolfe, Haaland, Sorloth, Nyland, Aursnes) - Norwegen kam zur Ruhe + traf Joker-Tor via Odegaard nach Bobb-Vorlage"
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "gast",
+            "ein": "Oscar Bobb (Vorlage)",
+            "aus": "Sander Berge (Cooling-Break)",
+            "minute": 60,
+            "tor": false,
+            "tor_minute": null,
+            "details": "Bobb kam fuer Berge, lieferte Vorlage zum 1:1 (Odegaard) - Bobb selbst kein Tor, aber Joker-Impact"
+          },
+          {
+            "team": "gast",
+            "ein": "Jorgen Strand Larsen",
+            "aus": "Erling Haaland",
+            "minute": 72,
+            "tor": false,
+            "tor_minute": null,
+            "details": "Strand Larsen kam fuer Haaland - kein Tor. Boost zaehlt NICHT fuer Haaland-Tipp (Strand Larsen kein Treffer)."
+          }
+        ],
+        "auffaellige_patterns": [
+          "WM-Final-Test-Defensiv-Pattern: nur 2 Tore in 90 Min trotz Top-9er-Setup auf beiden Seiten - Schon-Substitutionen in 60-72. Min bremsten Tor-Tempo. Bricht Goldgrube WM-Test-Ueber25-Pattern (vorher 5/7 Ueber 2.5 erreicht).",
+          "Massen-Substitution-Pattern in WM-Tests: BEIDE Coaches tauschten 7 Spieler simultan - Testbed-Charakter ueberwiegt Wettkampf-Modus, Torschuetzen-Tipps werden dadurch fragil.",
+          "Haaland-Boost-Falle: Haaland 72. Min raus, Ersatz Strand Larsen traf nicht - Boost greift nicht. Odegaard (Senior, blieb auf Platz) traf - Volumen-9er-Tipp scheitert, Mittelfeld-Sekundaer trifft.",
+          "Marokko-1:0-Fuehrung-Verlust-pattern: 5. WM-Test-Spiel mit 1:0-HZ-Fuehrung das nur Remis wurde - Hartregel-Bestaetigung 'WM-Test-HZ-Fuehrung nicht zementiert'."
+        ]
+      }
+    },
+    {
+      "id": "2026-06-07-ecu-gua",
+      "liga": "Internationales Freundschaftsspiel (WM-Test)",
+      "heim": "Ecuador",
+      "gast": "Guatemala",
+      "anstoss": "2026-06-07T22:00:00+02:00",
+      "stadion": "ScottsMiracle-Gro Field, Columbus OH (Neutraler Platz)",
+      "saison_kontext": {
+        "parallel_heim": "keine (Nationalteam-Phase) - Ecuador WM-2026 Gruppe vorbereitet (FIFA #23)",
+        "parallel_gast": "keine - Guatemala kein WM, FIFA #105, primaer-Trainings-Match",
+        "saisonziel_heim": "WM-2026 (CONMEBOL-2., Gruppe G mit Senegal?/Schweiz?) - finaler WM-Test, Coach Beccacece zementiert Stamm-Elf um Caicedo/Pacho/Hincapie/Plata, Enner Valencia 36-Captain (49 Tore in 105 Spielen, Allzeit-Top-Schuetze)",
+        "saisonziel_gast": "Kein WM, Trainings-Match - Concacaf-Mid-Klasse",
+        "motivations_asymmetrie": "Massive Klassen-Asymmetrie + Motivations-Asymmetrie zugunsten Ecuador: WM-Final-Test mit Volle-Power-Elf vs Concacaf-Mid-Test-Squad. H2H 3 von 3 letzten Duellen 2:0 Ecuador.",
+        "recovery_heim": "Lange Sammelphase - frisch nach Trainingscamp USA, Valencia + Rodriguez Trainings-Differenz (Schonungs-Frage)",
+        "recovery_gast": "Stark-rotierend, Concacaf-Mid mit MLS/Liga-MX-Stuetzen",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/pre-tournament-warm-up-results-fixtures-scorers",
+          "https://www.expreso.ec/deportes/copa-mundial-de-futbol/ecuador-define-alineacion-mundial-2026-amistoso-guatemala-284600.html",
+          "https://www.sportsmole.co.uk/football/ecuador/preview/ecuador-vs-guatemala-prediction-team-news-lineups_598721.html",
+          "https://www.mightytips.com/football-predictions/ecuador-vs-guatemala-prediction-07-06-2026/"
+        ]
+      },
+      "news": [
+        "Ecuador erwartete Aufstellung: Galindez; Preciado, F. Torres, W. Pacho, Estupinan; M. Caicedo, A. Franco, K. Paez; G. Plata, J. Sarmiento, E. Valencia.",
+        "Enner Valencia (36, 49 Tore in 105 Spielen) Trainings-Differenz mit Kevin Rodriguez - Einsatz-Frage. Falls Valencia raus: Rodriguez/Plata trifft als Alternative.",
+        "Moises Caicedo (Chelsea, Premier-League-Saisonsieger) + Willian Pacho (PSG) + Piero Hincapie (Leverkusen) Top-Achse, klare Klassen-Edge.",
+        "Guatemala 4-3-3 erwartet: Moran; Hernandez, Ardon, Pinto; Yanes, Franco, Rosales, Morales; Santis, Mendez, Munoz - Concacaf-Mid-Niveau.",
+        "H2H: Alle 3 letzten Ecuador-Guatemala-Duelle 2:0 Ecuador (Klassen-Pattern). Ecuador 83% Unter-2.5-Rate in eigenen Spielen - defensive Identitaet.",
+        "Quoten via Aggregator-Konsens (Mightytips / Sportsmole / ESPN-Markt): Ecuador 1.30 / X 5.00 / Guatemala 11.00 - Ueber 2.5 ~1.65 / Unter 2.5 ~2.20 / Ecuador Sieg + Unter 3.5 ~1.85."
+      ],
+      "tipps": [
+        {
+          "id": "ez-3",
+          "markt": "Gonzalo Plata trifft jederzeit",
+          "quote": 2.8,
+          "quote_quelle": "Aggregator-Konsens (Sportsmole / Mightytips, 06.06.)",
+          "kategorie": "value",
+          "bewertung_label": "VALUE",
+          "edge_prozent": 10,
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 2.55,
+          "begruendung": "Goldgrube-Markt Torschuetzen Jederzeit +23.4% ROI. Plata (Flamengo) als rechter Aussen-Stuermer ist Ecuador's Top-Tor-Quelle nach Valencia-Trainings-Differenz-Schonungs-Frage (Lesson 25.04. Roster-Verifikation aktiv angewandt). Pflicht-Profil HEIM-FAVORIT @1.30: Torschuetzen-Tipp PFLICHT. Brasil-Liga-Form + offene Guatemala-Defensive (Concacaf-Mid). Einwechslungs-Boost-Hedge: falls Plata fuer Mena/Rodriguez getauscht wird, zaehlen deren Tore mit. Reality-Check Quoten 2.00-3.00: 41.7% HR / +9.0% ROI. Empfohlener Einsatz: 5,50€ (1.0%).",
+          "rang": 3
+        },
+        {
+          "id": "ez-8",
+          "markt": "Ecuador Sieg",
+          "quote": 1.3,
+          "quote_quelle": "Aggregator-Konsens (Mightytips / Sportsmole, 06.06.)",
+          "kategorie": "value",
+          "bewertung_label": "VALUE",
+          "edge_prozent": 6,
+          "empfohlener_einsatz_prozent": 1.6,
+          "faire_quote": 1.23,
+          "begruendung": "Massive Klassen-Asymmetrie FIFA #23 vs #105 + WM-Final-Test-Motivation. Caicedo (Chelsea) / Pacho (PSG) / Hincapie (Leverkusen) Top-Achse vs Guatemala-Concacaf-Mid. H2H 3-0 Ecuador letzte 3 Duelle (alle 2:0). Reality-Check Quoten 1.00-1.50: 71.8% HR / +6.3% ROI. Empfohlener Einsatz: 8,80€ (1.6%).",
+          "rang": 8
+        },
+        {
+          "id": "ez-11",
+          "markt": "Unter 3.5 Tore",
+          "quote": 1.4,
+          "quote_quelle": "Aggregator-Konsens (Mightytips / ESPN, 06.06.)",
+          "kategorie": "wackel",
+          "bewertung_label": "WACKEL",
+          "edge_prozent": 3,
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.36,
+          "begruendung": "Ecuador-Defensiv-Identitaet (83% Unter-2.5-Rate). H2H 3/3 letzte exakt 2:0 Ecuador - Klassen-Sieg ohne Torfestival. Caicedo-Pacho-Hincapie-Mauer. Empfohlener Einsatz: 2,75€ (0.5%).",
+          "rang": 11
+        }
+      ],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true,
+      "ergebnis": {
+        "endstand": "3:0",
+        "halbzeit": "1:0",
+        "status": "beendet"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "ez-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Roster-Verifikations-Bruch: Plata war NICHT in Startelf, kam als JOKER fuer Jeremy Arevalo. Tore von J. Caicedo (19. Pen), Angulo (73.), Estupinan (78.). Plata kein Treffer. Boost-Mechanik greift nicht (Plata muesste raus + Ersatz traf - keine Indiz dafuer). Lesson 25.04. wurde nominell angewandt, aber Plata-Spielzeit-Erwartung war fundamental falsch.",
+          "clv_prozent": null,
+          "closing_quote": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "ez-8",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.30000000000000004,
+          "kommentar": "Ecuador 3:0 - J. Caicedo (Pen 19.), Angulo (73.), Estupinan (78.). Klassen-Edge dominant, 19-Spiele-ungeschlagen-Rekord verlaengert. Sogar OHNE Stamm-Achse (Pacho/M.Caicedo/Hincapie auf Bank).",
+          "clv_prozent": null,
+          "closing_quote": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "ez-11",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.3999999999999999,
+          "kommentar": "Endstand 3:0 = 3 Tore < 3.5. Knapp eingeloest. J. Caicedo Pen, Angulo, Estupinan - ohne 4. Tor.",
+          "clv_prozent": null,
+          "closing_quote": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "3:0",
+        "tore": [
+          {
+            "min": 19,
+            "team": "heim",
+            "spieler": "Jordy Caicedo (Elfmeter)",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 73,
+            "team": "heim",
+            "spieler": "Nilson Angulo",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 78,
+            "team": "heim",
+            "spieler": "Pervis Estupinan",
+            "stand_danach": "3:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Drehung - Ecuador kontrollierte komplett, Guatemala kein Tor."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Ecuador/Ecuador",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Beccacece-10-Wechsel",
+            "details": "Beccacece tauschte 10 Spieler in 2. HZ - Moises Caicedo, Hincapie, Ordonez kamen erst spaet rein (Schonung der Premier-League-Stars). 19-Spiele-ungeschlagen-Rekord verlaengert."
+          },
+          {
+            "team": "heim",
+            "spieler": "Pacho/Caicedo-Schon",
+            "details": "Top-Achse Pacho/Caicedo/Hincapie NICHT in Startelf - Stamm-Elf war Backup-Konstellation, dennoch souveraener 3:0-Sieg"
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Gonzalo Plata",
+            "aus": "Jeremy Arevalo",
+            "minute": null,
+            "tor": false,
+            "tor_minute": null,
+            "details": "Plata kam als Joker fuer Arevalo (NICHT in Startelf!) - Roster-Verifikations-Lesson-Bruch (Routine hatte Plata in Startelf-Erwartung). Plata selbst kein Tor, keine Boost-Mechanik moeglich."
+          },
+          {
+            "team": "heim",
+            "ein": "Nilson Angulo",
+            "aus": null,
+            "minute": null,
+            "tor": true,
+            "tor_minute": 73,
+            "details": "Angulo (Joker) traf zum 2:0 - 2. Volume-Player-Joker-Tor des Tages"
+          }
+        ],
+        "auffaellige_patterns": [
+          "Klassen-Edge-Sieg-Pattern bestaetigt n=3 heute: ECU-GUA (FIFA23 vs FIFA105) 3:0 - klare Klassen-Differenz realisiert sich als Sieg, nicht als Tor-Festival (war erwartet als Klassen-Differenz #1).",
+          "Roster-Verifikations-Falle: Plata wurde im Dossier als Heim-Favorit-9er-Stamm angesetzt - kam aber als JOKER fuer Arevalo. Roster-Verifikation-Lesson 25.04. wurde in lessons_angewandt[] aufgefuehrt, aber Plata-Spielzeit war nicht ausreichend recherchiert (Beccacece-Erwartung 'starke Achse' war falsch).",
+          "Volume-Player-Joker-Tor-Trend: Angulo (Sub) + Estupinan (Sub) trafen beide nach Einwechslung - Joker-Tor-Pattern in WM-Tests sehr ausgepraegt.",
+          "Defensiv-These bestaetigt: Ecuador 83% Unter-2.5-Quote auch HEUTE realisiert (3:0 = exakt 3 Tore, knapp Ueber 2.5, nicht ueber 3.5). Caicedo-Pacho-Hincapie-Mauer (auch ohne Stamm-Einsatz) zu null."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "ez-1",
+      "spiel_id": "2026-06-07-mar-nor",
+      "spiel_titel": "Marokko vs Norwegen (WM-Test, Harrison NJ)",
+      "kategorie": "safe",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.8,
+      "quote_quelle": "Aggregator-Konsens (Wincomparator / Sportskeeda / Mozzart, 06.06.)",
+      "edge_prozent": 13,
+      "begruendung": "TOP-1 des Tages. Liga-Goldgrube WM-Test 85.7% HR / +36.5% ROI (n=14, gestern Lesson WM-Test-Ueber-25-80pct-8g validiert) + Markt-Goldgrube Ueber 2.5 +29% ROI / 54.5% HR (n=24). Marokko 15 Tore in 5 + Norwegen 12 in 5 + Haaland/Odegaard zurueck + neutraler Platz USA = kein Heim-Defensiv-Anker. Beide WM-final-Test mit Volle-Power-Elf, kein Schonungs-Risiko. SAFE in Liga-Goldgrube + Markt-Goldgrube = Mapper-Hebel C bestaetigt SAFE. Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI (n=154 - beste Range). Empfohlener Einsatz: 11€ (2.0% der 550€-Kasse).",
+      "bewertung_label": "SAFE",
+      "empfohlener_einsatz_prozent": 2.0,
+      "faire_quote": 1.6,
+      "rang": 1
+    },
+    {
+      "id": "ez-2",
+      "spiel_id": "2026-06-07-cro-svn",
+      "spiel_titel": "Kroatien vs Slowenien (WM-Test, Varazdin)",
+      "kategorie": "value",
+      "markt": "Petar Musa trifft jederzeit",
+      "quote": 2.5,
+      "quote_quelle": "Aggregator-Konsens (Sportsmole / Wincomparator, 06.06.)",
+      "edge_prozent": 11,
+      "begruendung": "Goldgrube-Markt Torschuetzen Jederzeit +23.4% ROI (n=48 - BESTER Markt im System, aktiv suchen Pflicht). Musa (FC Dallas) 12 Tore in MLS-Saison, 3. zweistellige Saison in Folge - klar Form-Edge-Trigger (Pflicht-Profil HEIM-FAVORIT). Kroatien @1.36 + Slowenien-Verteidigung mit Brekalo/Bijol nicht Welt-Niveau. Einwechslungs-Boost-Hedge: Falls Musa fuer Kramaric/Budimir/Matanovic getauscht wird, deren Tore zaehlen mit. Reality-Check Quoten 2.00-3.00: 41.7% HR / +9.0% ROI. Aufstellung 1h vor Anstoss pruefen. Empfohlener Einsatz: 8,25€ (1.5%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.5,
+      "faire_quote": 2.25,
+      "rang": 2
+    },
+    {
+      "id": "ez-3",
+      "spiel_id": "2026-06-07-ecu-gua",
+      "spiel_titel": "Ecuador vs Guatemala (WM-Test, Columbus OH)",
+      "kategorie": "value",
+      "markt": "Gonzalo Plata trifft jederzeit",
+      "quote": 2.8,
+      "quote_quelle": "Aggregator-Konsens (Sportsmole / Mightytips, 06.06.)",
+      "edge_prozent": 10,
+      "begruendung": "Goldgrube-Markt Torschuetzen Jederzeit +23.4% ROI. Plata (Flamengo) als rechter Aussen-Stuermer ist Ecuador's Top-Tor-Quelle nach Valencia-Trainings-Differenz-Schonungs-Frage (Lesson 25.04. Roster-Verifikation aktiv angewandt). Pflicht-Profil HEIM-FAVORIT @1.30: Torschuetzen-Tipp PFLICHT. Brasil-Liga-Form + offene Guatemala-Defensive (Concacaf-Mid). Einwechslungs-Boost-Hedge: falls Plata fuer Mena/Rodriguez getauscht wird, zaehlen deren Tore mit. Reality-Check Quoten 2.00-3.00: 41.7% HR / +9.0% ROI. Empfohlener Einsatz: 5,50€ (1.0%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.0,
+      "faire_quote": 2.55,
+      "rang": 3
+    },
+    {
+      "id": "ez-4",
+      "spiel_id": "2026-06-07-gre-ita",
+      "spiel_titel": "Griechenland vs Italien (Friendly, Heraklion)",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.75,
+      "quote_quelle": "Aggregator-Konsens (Wincomparator / Toffeeweb, 06.06.)",
+      "edge_prozent": 9,
+      "begruendung": "Doppelte Tor-Schwaeche: Griechenland 0/1 Tor in 6 von 8 letzten Spielen (Form-Krise), Italien-U22 schoss 1:0 gegen Luxemburg, Baldini selbst klagt ueber Offensiv-Probleme. Beide kein WM-Anreiz, beide im Umbruch - taktisch defensive Probe wahrscheinlich. Markt-Goldgrube Unter 2.5 +39.9% ROI / 71.4% HR (n=14 - bester Tor-Markt). H2H GRE-ITA Friendlies historisch low-scoring. Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI. Empfohlener Einsatz: 8,80€ (1.6%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.6,
+      "faire_quote": 1.6,
+      "rang": 4
+    },
+    {
+      "id": "ez-5",
+      "spiel_id": "2026-06-07-mar-nor",
+      "spiel_titel": "Marokko vs Norwegen (WM-Test, Harrison NJ)",
+      "kategorie": "value",
+      "markt": "Erling Haaland trifft jederzeit",
+      "quote": 1.85,
+      "quote_quelle": "Aggregator-Konsens (Sportskeeda / Mozzart / SportyTrader, 06.06.)",
+      "edge_prozent": 8,
+      "begruendung": "Goldgrube-Markt Torschuetzen Jederzeit +23.4% ROI / 41.3% HR (n=48). Haaland zurueck in Startelf nach Schonung Montag - Form-Edge-Pflicht-Profil ausgeloest (Norwegen Sieg-Quote 2.32). 5 Tore in letzten 5 EM-Quali, Goal-Machine-Modus + WM-final-Test-Anreiz. Marokko-Verteidigung mit Bono solide aber Klasse-Antwort fehlt. Reality-Check Quoten 1.50-2.00: 54.4% HR. Aufstellung pruefen. Empfohlener Einsatz: 8,25€ (1.5%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.5,
+      "faire_quote": 1.71,
+      "rang": 5
+    },
+    {
+      "id": "ez-6",
+      "spiel_id": "2026-06-07-cro-svn",
+      "spiel_titel": "Kroatien vs Slowenien (WM-Test, Varazdin)",
+      "kategorie": "value",
+      "markt": "Kroatien Sieg",
+      "quote": 1.36,
+      "quote_quelle": "Aggregator-Konsens (Sportsmole / FoxSports / Toffeeweb, 06.06.)",
+      "edge_prozent": 7,
+      "begruendung": "Klassen-Edge FIFA #10 vs #44 + Heim-Abschieds-Anreiz vor WM-Abreise (letzte Chance fuer Modric vor heimischem Publikum) + Form-Reset-Druck nach Belgien-0:2. Slowenien drucklos im Wiederaufbau. Kein SAFE wegen Rotations-Risiko Pre-WM-Friendlies (Lesson 06.06. B-Elf-Schon). Reality-Check Quoten 1.00-1.50: 71.8% HR / +6.3% ROI (n=107). Empfohlener Einsatz: 8,80€ (1.6%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.6,
+      "faire_quote": 1.27,
+      "rang": 6
+    },
+    {
+      "id": "ez-7",
+      "spiel_id": "2026-06-07-mar-nor",
+      "spiel_titel": "Marokko vs Norwegen (WM-Test, Harrison NJ)",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen (Ja)",
+      "quote": 1.68,
+      "quote_quelle": "Aggregator-Konsens (1xbet / Wincomparator, 06.06.)",
+      "edge_prozent": 6,
+      "begruendung": "Norwegen 60% BTTS-Rate letzte 10, Marokko 15 Tore in 5. Beide WM-final-Test mit Stars zurueck (Haaland, Odegaard, El Kaabi). Neutraler Platz USA - kein Heim-Park-Defensiv-Anker. Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI. Empfohlener Einsatz: 7,70€ (1.4%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.4,
+      "faire_quote": 1.58,
+      "rang": 7
+    },
+    {
+      "id": "ez-8",
+      "spiel_id": "2026-06-07-ecu-gua",
+      "spiel_titel": "Ecuador vs Guatemala (WM-Test, Columbus OH)",
+      "kategorie": "value",
+      "markt": "Ecuador Sieg",
+      "quote": 1.3,
+      "quote_quelle": "Aggregator-Konsens (Mightytips / Sportsmole, 06.06.)",
+      "edge_prozent": 6,
+      "begruendung": "Massive Klassen-Asymmetrie FIFA #23 vs #105 + WM-Final-Test-Motivation. Caicedo (Chelsea) / Pacho (PSG) / Hincapie (Leverkusen) Top-Achse vs Guatemala-Concacaf-Mid. H2H 3-0 Ecuador letzte 3 Duelle (alle 2:0). Reality-Check Quoten 1.00-1.50: 71.8% HR / +6.3% ROI. Empfohlener Einsatz: 8,80€ (1.6%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.6,
+      "faire_quote": 1.23,
+      "rang": 8
+    },
+    {
+      "id": "ez-9",
+      "spiel_id": "2026-06-07-cro-svn",
+      "spiel_titel": "Kroatien vs Slowenien (WM-Test, Varazdin)",
+      "kategorie": "wackel",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.7,
+      "quote_quelle": "Aggregator-Konsens (Toffeeweb / Sportsmole, 06.06.)",
+      "edge_prozent": 5,
+      "begruendung": "H2H 2 von 3 letzten Kroatien-Slowenien-Duellen Unter 2.5. Pre-WM-Friendlies tendieren defensiv. Slowenien-Cesar baut Anti-Kontra-System. WACKEL statt VALUE wegen Musa-Form-Edge + Modric-Schau-Anreiz (gegenlaeufige Argumente). Markt-Goldgrube Unter 2.5 +39.9% ROI / 71.4% HR (n=14). Empfohlener Einsatz: 2,75€ (0.5%).",
+      "bewertung_label": "WACKEL",
+      "empfohlener_einsatz_prozent": 0.5,
+      "faire_quote": 1.62,
+      "rang": 9
+    },
+    {
+      "id": "ez-10",
+      "spiel_id": "2026-06-07-gre-ita",
+      "spiel_titel": "Griechenland vs Italien (Friendly, Heraklion)",
+      "kategorie": "wackel",
+      "markt": "Italien Doppelte Chance (X2)",
+      "quote": 1.55,
+      "quote_quelle": "Aggregator-Konsens (Wincomparator / Sportskeeda, 06.06.)",
+      "edge_prozent": 4,
+      "begruendung": "Trotz U22-Squad hat Italien Klassen-Edge vs Griechenland in Form-Krise (1 Sieg in 8). Pio-Esposito-Form-Anker (4 Tore in 8) + Donnarumma + Sucic-Talent. Coinflip-Match (alle 1X2-Quoten 2.65-3.45) - kein SAFE moeglich. Empfohlener Einsatz: 2,75€ (0.5%).",
+      "bewertung_label": "WACKEL",
+      "empfohlener_einsatz_prozent": 0.5,
+      "faire_quote": 1.49,
+      "rang": 10
+    },
+    {
+      "id": "ez-11",
+      "spiel_id": "2026-06-07-ecu-gua",
+      "spiel_titel": "Ecuador vs Guatemala (WM-Test, Columbus OH)",
+      "kategorie": "wackel",
+      "markt": "Unter 3.5 Tore",
+      "quote": 1.4,
+      "quote_quelle": "Aggregator-Konsens (Mightytips / ESPN, 06.06.)",
+      "edge_prozent": 3,
+      "begruendung": "Ecuador-Defensiv-Identitaet (83% Unter-2.5-Rate). H2H 3/3 letzte exakt 2:0 Ecuador - Klassen-Sieg ohne Torfestival. Caicedo-Pacho-Hincapie-Mauer. Empfohlener Einsatz: 2,75€ (0.5%).",
+      "bewertung_label": "WACKEL",
+      "empfohlener_einsatz_prozent": 0.5,
+      "faire_quote": 1.36,
+      "rang": 11
+    }
+  ],
+  "kombis": [],
+  "lessons_angewandt": [
+    {
+      "lesson": "Lesson 07.06. Markt-Pattern-WM-Test-Ueber25-80pct-8g - Liga-Goldgrube WM-Test (85.7% HR / +36.5% ROI) bestaetigt Ueber 2.5 als Top-Markt in WM-Tests vor WM-Start",
+      "angewandt_auf": "mar-nor-1 / ez-1",
+      "details": "Marokko-Norwegen Ueber 2.5 als TOP-1-SAFE des Tages gesetzt - in Liga-Goldgrube WM-Test (Mapper-Hebel C bestaetigt SAFE) + Markt-Goldgrube Ueber 2.5 (+29% ROI). Marokko 15 Tore in 5 + Norwegen 12 in 5 + Haaland/Odegaard zurueck + neutraler Platz USA = kein Heim-Defensiv-Anker. Stake 2.0%."
+    },
+    {
+      "lesson": "Lesson 04.05. Torschuetzen Jederzeit Goldgrube (+23.4% ROI, 41.3% HR, n=48 - BESTER Markt im System) - AKTIV SUCHEN",
+      "angewandt_auf": "cro-svn-2 / ez-2, mar-nor-2 / ez-5, ecu-gua-2 / ez-3",
+      "details": "Drei Torschuetzen-Tipps gesetzt - Pflicht-Profil HEIM-FAVORIT/AUSWAERTS-FAVORIT erfuellt: Musa (Kroatien Heim-Favorit @1.36, 12 Tore MLS-Saison Form-Edge), Plata (Ecuador Heim-Favorit @1.30, Valencia-Trainings-Differenz-Backup), Haaland (Norwegen Sieg @2.32, Form-Edge 5 Tore in 5)."
+    },
+    {
+      "lesson": "Lesson 06.06. Klassen-Edge-realisiert-Sieg-nicht-Tor-Anzahl-B-Elf-Schon - Sieg-Tipps statt Tor-Festival in B-Elf-Schon-Spielen",
+      "angewandt_auf": "cro-svn-1 / ez-6, ecu-gua-1 / ez-8",
+      "details": "Beide Klassen-Edge-Spiele als Sieg-VALUE statt SAFE-DC gesetzt - Rotations-Risiko in Pre-WM-Friendlies (B-Elf-Schon-Lehre vom Bayern-Heidenheim 03.05.) erzwingt VALUE-Stufe statt SAFE-DC. Mapper-Hebel C: SAFE-DC in Bundesliga/2.BL/SerieA/Ligue1 wird sowieso downgegradet, hier Liga-Goldgrube aber Rotations-Risiko bleibt."
+    },
+    {
+      "lesson": "Lesson 25.04. Roster-Verifikation PFLICHT vor Spieler-Tipps + Lesson 26.04. Einwechslungs-Boost-Mechanik",
+      "angewandt_auf": "ecu-gua-2 / ez-3",
+      "details": "Plata statt Valencia gewaehlt nach Roster-Verifikation: Valencia (36) und K. Rodriguez differentiated training, Einsatz unsicher - Plata (Flamengo, gesetzt) ist sicherer Tipp. Bei Plata-Auswechslung greift bet365-Boost (Mena/Rodriguez Tore zaehlen mit). Aufstellung 1h vor Anstoss verifizieren - _aufstellungs_verifikation_pflicht Flag gesetzt."
+    },
+    {
+      "lesson": "Lesson 04.05. DC-CAP + Hebel-M Anti-DC-Sucht (max 1 DC pro Spiel, max 2-3 DC im Dossier)",
+      "angewandt_auf": "Dossier-weit",
+      "details": "DC nur 1x verwendet (Italien DC X2 in gre-ita-2) - alle anderen Spiele direkter Sieg + Torschuetzen + Tor-Totals. Anti-DC-Sucht-Hebel erfuellt. Dossier-DC-Anteil 1/11 Einzeltipps = 9%, weit unter Schwelle."
+    },
+    {
+      "lesson": "Lesson 27.05. Mini-Spiele-Tag-Konzentrations-Strategie (validiert 2x n=3 NBA-Pseudo-Hedge) + Lesson 22.05. Mini-Spiele-Tag-Kombi-Diversifikations-Cap",
+      "angewandt_auf": "Kombi-Set",
+      "details": "Nur 3 Kombis statt 4 wegen Mini-Spiele-Tag (n=4 Spiele) - Moonshot uebersprungen weil verfuegbare Quoten zu niedrig fuer echte 300x+. Risiko-Kombi Stake auf 0.25% reduziert wegen 4-Bein-Mathematik (~12% HR). Konzentrations-Strategie."
+    },
+    {
+      "lesson": "Lesson 30.04. Layer-2 Sieg-Outcome max in 1 Kombi + Lesson 01.05. Layer-3 Spiel/Markt max 1x",
+      "angewandt_auf": "Kombi-Diversifikation",
+      "details": "Safe-Kombi enthaelt alle 2 Sieg-Outcomes (Kroatien-Sieg, Ecuador-Sieg) + 1 Goldgrube-Markt. Balance/Risiko keine Sieg-Outcomes Kroatien/Ecuador, nur Italien-DC (in Risiko, gre-ita nicht in Safe = Layer-2 ok). Jede Spiel/Markt-Kombination max 1x ueber alle Kombis. Korrelations-Schutz aktiv."
+    },
+    {
+      "lesson": "Lesson 06.06. Mini-Spiele-Tag-Pseudo-Hedge-n3-Validierung + Anker-Strategie",
+      "angewandt_auf": "Stake-Verteilung",
+      "details": "TOP-SAFE Ueber 2.5 MAR-NOR mit 2.0% Stake als Tages-Anker (11€) + VALUE-Tipps mit 1.0-1.6% Stake gestreut. Gesamteinsatz Einzeltipps 71,75€ (13% Kasse), Kombis 16,80€ (3.1%) - Total 88,55€ (16.1% der 550€-Kasse). Aufbau-Phase Stufe 1 konservativ eingehalten."
+    }
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten | Sucht-Hilfe BZgA: 0800 1372700 | Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst.",
+  "einzeltipps_ergebnis": [
+    {
+      "id": "ez-1",
+      "spiel_id": "2026-06-07-mar-nor",
+      "spiel_titel": "Marokko vs Norwegen (WM-Test, Harrison NJ)",
+      "kategorie": "safe",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.8,
+      "quote_quelle": "Aggregator-Konsens (Wincomparator / Sportskeeda / Mozzart, 06.06.)",
+      "edge_prozent": 13,
+      "begruendung": "TOP-1 des Tages. Liga-Goldgrube WM-Test 85.7% HR / +36.5% ROI (n=14, gestern Lesson WM-Test-Ueber-25-80pct-8g validiert) + Markt-Goldgrube Ueber 2.5 +29% ROI / 54.5% HR (n=24). Marokko 15 Tore in 5 + Norwegen 12 in 5 + Haaland/Odegaard zurueck + neutraler Platz USA = kein Heim-Defensiv-Anker. Beide WM-final-Test mit Volle-Power-Elf, kein Schonungs-Risiko. SAFE in Liga-Goldgrube + Markt-Goldgrube = Mapper-Hebel C bestaetigt SAFE. Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI (n=154 - beste Range). Empfohlener Einsatz: 11€ (2.0% der 550€-Kasse).",
+      "bewertung_label": "SAFE",
+      "empfohlener_einsatz_prozent": 2.0,
+      "faire_quote": 1.6,
+      "rang": 1,
+      "status": "verloren",
+      "kommentar": "Endstand 1:1 = 2 Tore < 2.5. Massen-Substitutionen in 60-72.' bremsten den Offensiv-Druck Marokko, Norwegen-Joker Bobb assistierte Odegaard zum 1:1 in 75.' - kein 3. Tor mehr. Bricht WM-Test-Ueber25-Goldgrube-Pattern erstmalig.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "ez-1"
+    },
+    {
+      "id": "ez-2",
+      "spiel_id": "2026-06-07-cro-svn",
+      "spiel_titel": "Kroatien vs Slowenien (WM-Test, Varazdin)",
+      "kategorie": "value",
+      "markt": "Petar Musa trifft jederzeit",
+      "quote": 2.5,
+      "quote_quelle": "Aggregator-Konsens (Sportsmole / Wincomparator, 06.06.)",
+      "edge_prozent": 11,
+      "begruendung": "Goldgrube-Markt Torschuetzen Jederzeit +23.4% ROI (n=48 - BESTER Markt im System, aktiv suchen Pflicht). Musa (FC Dallas) 12 Tore in MLS-Saison, 3. zweistellige Saison in Folge - klar Form-Edge-Trigger (Pflicht-Profil HEIM-FAVORIT). Kroatien @1.36 + Slowenien-Verteidigung mit Brekalo/Bijol nicht Welt-Niveau. Einwechslungs-Boost-Hedge: Falls Musa fuer Kramaric/Budimir/Matanovic getauscht wird, deren Tore zaehlen mit. Reality-Check Quoten 2.00-3.00: 41.7% HR / +9.0% ROI. Aufstellung 1h vor Anstoss pruefen. Empfohlener Einsatz: 8,25€ (1.5%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.5,
+      "faire_quote": 2.25,
+      "rang": 2,
+      "status": "verloren",
+      "kommentar": "Musa als Heim-9er Starter, kein Tor. Tore von Modric (51.) und Pasalic (90+3). Pasalic kam fuer Modric (57.), NICHT fuer Musa - Boost-Mechanik greift nicht (Musa kein Auswechsel-Ersatz-Treffer).",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "ez-2"
+    },
+    {
+      "id": "ez-3",
+      "spiel_id": "2026-06-07-ecu-gua",
+      "spiel_titel": "Ecuador vs Guatemala (WM-Test, Columbus OH)",
+      "kategorie": "value",
+      "markt": "Gonzalo Plata trifft jederzeit",
+      "quote": 2.8,
+      "quote_quelle": "Aggregator-Konsens (Sportsmole / Mightytips, 06.06.)",
+      "edge_prozent": 10,
+      "begruendung": "Goldgrube-Markt Torschuetzen Jederzeit +23.4% ROI. Plata (Flamengo) als rechter Aussen-Stuermer ist Ecuador's Top-Tor-Quelle nach Valencia-Trainings-Differenz-Schonungs-Frage (Lesson 25.04. Roster-Verifikation aktiv angewandt). Pflicht-Profil HEIM-FAVORIT @1.30: Torschuetzen-Tipp PFLICHT. Brasil-Liga-Form + offene Guatemala-Defensive (Concacaf-Mid). Einwechslungs-Boost-Hedge: falls Plata fuer Mena/Rodriguez getauscht wird, zaehlen deren Tore mit. Reality-Check Quoten 2.00-3.00: 41.7% HR / +9.0% ROI. Empfohlener Einsatz: 5,50€ (1.0%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.0,
+      "faire_quote": 2.55,
+      "rang": 3,
+      "status": "verloren",
+      "kommentar": "Roster-Verifikations-Bruch: Plata war NICHT in Startelf, kam als JOKER fuer Jeremy Arevalo. Tore von J. Caicedo (19. Pen), Angulo (73.), Estupinan (78.). Plata kein Treffer. Boost-Mechanik greift nicht (Plata muesste raus + Ersatz traf - keine Indiz dafuer). Lesson 25.04. wurde nominell angewandt, aber Plata-Spielzeit-Erwartung war fundamental falsch.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "ez-3"
+    },
+    {
+      "id": "ez-4",
+      "spiel_id": "2026-06-07-gre-ita",
+      "spiel_titel": "Griechenland vs Italien (Friendly, Heraklion)",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.75,
+      "quote_quelle": "Aggregator-Konsens (Wincomparator / Toffeeweb, 06.06.)",
+      "edge_prozent": 9,
+      "begruendung": "Doppelte Tor-Schwaeche: Griechenland 0/1 Tor in 6 von 8 letzten Spielen (Form-Krise), Italien-U22 schoss 1:0 gegen Luxemburg, Baldini selbst klagt ueber Offensiv-Probleme. Beide kein WM-Anreiz, beide im Umbruch - taktisch defensive Probe wahrscheinlich. Markt-Goldgrube Unter 2.5 +39.9% ROI / 71.4% HR (n=14 - bester Tor-Markt). H2H GRE-ITA Friendlies historisch low-scoring. Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI. Empfohlener Einsatz: 8,80€ (1.6%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.6,
+      "faire_quote": 1.6,
+      "rang": 4,
+      "status": "gewonnen",
+      "kommentar": "Endstand 0:1 = 1 Tor < 2.5. Pio Esposito 18.' brachte Italien-U22 in Fuehrung, danach defensives 0:1 ueber die Zeit (selbst mit 10 Mann ab 68.). Klassische taktisch-Probe-Konstellation.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "ez-4"
+    },
+    {
+      "id": "ez-5",
+      "spiel_id": "2026-06-07-mar-nor",
+      "spiel_titel": "Marokko vs Norwegen (WM-Test, Harrison NJ)",
+      "kategorie": "value",
+      "markt": "Erling Haaland trifft jederzeit",
+      "quote": 1.85,
+      "quote_quelle": "Aggregator-Konsens (Sportskeeda / Mozzart / SportyTrader, 06.06.)",
+      "edge_prozent": 8,
+      "begruendung": "Goldgrube-Markt Torschuetzen Jederzeit +23.4% ROI / 41.3% HR (n=48). Haaland zurueck in Startelf nach Schonung Montag - Form-Edge-Pflicht-Profil ausgeloest (Norwegen Sieg-Quote 2.32). 5 Tore in letzten 5 EM-Quali, Goal-Machine-Modus + WM-final-Test-Anreiz. Marokko-Verteidigung mit Bono solide aber Klasse-Antwort fehlt. Reality-Check Quoten 1.50-2.00: 54.4% HR. Aufstellung pruefen. Empfohlener Einsatz: 8,25€ (1.5%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.5,
+      "faire_quote": 1.71,
+      "rang": 5,
+      "status": "verloren",
+      "kommentar": "Haaland 72. Min ausgewechselt fuer Jorgen Strand Larsen - Strand Larsen kein Tor (Odegaard traf 75. als Senior, blieb auf dem Platz). Boost-Mechanik greift NICHT (Haaland raus + Ersatz Strand Larsen traf nicht). Haaland selbst kein Tor.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "ez-5"
+    },
+    {
+      "id": "ez-6",
+      "spiel_id": "2026-06-07-cro-svn",
+      "spiel_titel": "Kroatien vs Slowenien (WM-Test, Varazdin)",
+      "kategorie": "value",
+      "markt": "Kroatien Sieg",
+      "quote": 1.36,
+      "quote_quelle": "Aggregator-Konsens (Sportsmole / FoxSports / Toffeeweb, 06.06.)",
+      "edge_prozent": 7,
+      "begruendung": "Klassen-Edge FIFA #10 vs #44 + Heim-Abschieds-Anreiz vor WM-Abreise (letzte Chance fuer Modric vor heimischem Publikum) + Form-Reset-Druck nach Belgien-0:2. Slowenien drucklos im Wiederaufbau. Kein SAFE wegen Rotations-Risiko Pre-WM-Friendlies (Lesson 06.06. B-Elf-Schon). Reality-Check Quoten 1.00-1.50: 71.8% HR / +6.3% ROI (n=107). Empfohlener Einsatz: 8,80€ (1.6%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.6,
+      "faire_quote": 1.27,
+      "rang": 6,
+      "status": "gewonnen",
+      "kommentar": "Kroatien 2:1 - Modric 51. + Pasalic 90+3. (nach Slowenien-Ausgleich Sporar 83.). Spaetes 2:1, Klassen-Edge realisierte sich knapp. Heim-Abschieds-Anreiz vor WM-Abreise zahlte aus.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "ez-6"
+    },
+    {
+      "id": "ez-7",
+      "spiel_id": "2026-06-07-mar-nor",
+      "spiel_titel": "Marokko vs Norwegen (WM-Test, Harrison NJ)",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen (Ja)",
+      "quote": 1.68,
+      "quote_quelle": "Aggregator-Konsens (1xbet / Wincomparator, 06.06.)",
+      "edge_prozent": 6,
+      "begruendung": "Norwegen 60% BTTS-Rate letzte 10, Marokko 15 Tore in 5. Beide WM-final-Test mit Stars zurueck (Haaland, Odegaard, El Kaabi). Neutraler Platz USA - kein Heim-Park-Defensiv-Anker. Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI. Empfohlener Einsatz: 7,70€ (1.4%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.4,
+      "faire_quote": 1.58,
+      "rang": 7,
+      "status": "gewonnen",
+      "kommentar": "1:1 = beide Teams trafen. Brahim Diaz 8. (MAR), Odegaard 75. (NOR). BTTS Ja eingeloest.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "ez-7"
+    },
+    {
+      "id": "ez-8",
+      "spiel_id": "2026-06-07-ecu-gua",
+      "spiel_titel": "Ecuador vs Guatemala (WM-Test, Columbus OH)",
+      "kategorie": "value",
+      "markt": "Ecuador Sieg",
+      "quote": 1.3,
+      "quote_quelle": "Aggregator-Konsens (Mightytips / Sportsmole, 06.06.)",
+      "edge_prozent": 6,
+      "begruendung": "Massive Klassen-Asymmetrie FIFA #23 vs #105 + WM-Final-Test-Motivation. Caicedo (Chelsea) / Pacho (PSG) / Hincapie (Leverkusen) Top-Achse vs Guatemala-Concacaf-Mid. H2H 3-0 Ecuador letzte 3 Duelle (alle 2:0). Reality-Check Quoten 1.00-1.50: 71.8% HR / +6.3% ROI. Empfohlener Einsatz: 8,80€ (1.6%).",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.6,
+      "faire_quote": 1.23,
+      "rang": 8,
+      "status": "gewonnen",
+      "kommentar": "Ecuador 3:0 - J. Caicedo (Pen 19.), Angulo (73.), Estupinan (78.). Klassen-Edge dominant, 19-Spiele-ungeschlagen-Rekord verlaengert. Sogar OHNE Stamm-Achse (Pacho/M.Caicedo/Hincapie auf Bank).",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "ez-8"
+    },
+    {
+      "id": "ez-9",
+      "spiel_id": "2026-06-07-cro-svn",
+      "spiel_titel": "Kroatien vs Slowenien (WM-Test, Varazdin)",
+      "kategorie": "wackel",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.7,
+      "quote_quelle": "Aggregator-Konsens (Toffeeweb / Sportsmole, 06.06.)",
+      "edge_prozent": 5,
+      "begruendung": "H2H 2 von 3 letzten Kroatien-Slowenien-Duellen Unter 2.5. Pre-WM-Friendlies tendieren defensiv. Slowenien-Cesar baut Anti-Kontra-System. WACKEL statt VALUE wegen Musa-Form-Edge + Modric-Schau-Anreiz (gegenlaeufige Argumente). Markt-Goldgrube Unter 2.5 +39.9% ROI / 71.4% HR (n=14). Empfohlener Einsatz: 2,75€ (0.5%).",
+      "bewertung_label": "WACKEL",
+      "empfohlener_einsatz_prozent": 0.5,
+      "faire_quote": 1.62,
+      "rang": 9,
+      "status": "verloren",
+      "kommentar": "Endstand 2:1 = 3 Tore > 2.5. Modric (51.) + Sporar (83.) + Pasalic (90+3) - knapp ueberschritten in der Verlaengerung.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "ez-9"
+    },
+    {
+      "id": "ez-10",
+      "spiel_id": "2026-06-07-gre-ita",
+      "spiel_titel": "Griechenland vs Italien (Friendly, Heraklion)",
+      "kategorie": "wackel",
+      "markt": "Italien Doppelte Chance (X2)",
+      "quote": 1.55,
+      "quote_quelle": "Aggregator-Konsens (Wincomparator / Sportskeeda, 06.06.)",
+      "edge_prozent": 4,
+      "begruendung": "Trotz U22-Squad hat Italien Klassen-Edge vs Griechenland in Form-Krise (1 Sieg in 8). Pio-Esposito-Form-Anker (4 Tore in 8) + Donnarumma + Sucic-Talent. Coinflip-Match (alle 1X2-Quoten 2.65-3.45) - kein SAFE moeglich. Empfohlener Einsatz: 2,75€ (0.5%).",
+      "bewertung_label": "WACKEL",
+      "empfohlener_einsatz_prozent": 0.5,
+      "faire_quote": 1.49,
+      "rang": 10,
+      "status": "gewonnen",
+      "kommentar": "Italien-U22 Sieg 0:1 (Esposito 18.). DC X2 eingeloest, selbst mit 10 Mann ab 68. Reggiani-Rot brachten sie die Fuehrung souveraen ueber die Zeit.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "ez-10"
+    },
+    {
+      "id": "ez-11",
+      "spiel_id": "2026-06-07-ecu-gua",
+      "spiel_titel": "Ecuador vs Guatemala (WM-Test, Columbus OH)",
+      "kategorie": "wackel",
+      "markt": "Unter 3.5 Tore",
+      "quote": 1.4,
+      "quote_quelle": "Aggregator-Konsens (Mightytips / ESPN, 06.06.)",
+      "edge_prozent": 3,
+      "begruendung": "Ecuador-Defensiv-Identitaet (83% Unter-2.5-Rate). H2H 3/3 letzte exakt 2:0 Ecuador - Klassen-Sieg ohne Torfestival. Caicedo-Pacho-Hincapie-Mauer. Empfohlener Einsatz: 2,75€ (0.5%).",
+      "bewertung_label": "WACKEL",
+      "empfohlener_einsatz_prozent": 0.5,
+      "faire_quote": 1.36,
+      "rang": 11,
+      "status": "gewonnen",
+      "kommentar": "Endstand 3:0 = 3 Tore < 3.5. Knapp eingeloest. J. Caicedo Pen, Angulo, Estupinan - ohne 4. Tor.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "ez-11"
+    }
+  ],
+  "kombis_ergebnis": [],
+  "ausgewertet_am": "2026-06-08T06:30:00+00:00"
+}

@@ -1,16 +1,16 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-06-07T06:16:45+00:00",
+  "letzte_berechnung": "2026-06-08T06:22:33+00:00",
   "gesamt": {
-    "tipps": 314,
-    "gewonnen": 175,
-    "verloren": 128,
+    "tipps": 325,
+    "gewonnen": 181,
+    "verloren": 133,
     "push": 2,
     "offen": 9,
-    "einsatz": 305.0,
-    "netto": 34.03,
-    "trefferquote": 57.8,
-    "roi_prozent": 11.2
+    "einsatz": 316.0,
+    "netto": 32.07,
+    "trefferquote": 57.6,
+    "roi_prozent": 10.1
   },
   "letzte_30_tage": {
     "tipps": 149,
@@ -19,20 +19,20 @@ window.__MIESMUSCHEL_STAT = {
     "push": 2,
     "offen": 9,
     "einsatz": 140.0,
-    "netto": 16.63,
+    "netto": 4.48,
     "trefferquote": 55.8,
-    "roi_prozent": 11.9
+    "roi_prozent": 3.2
   },
   "letzte_90_tage": {
-    "tipps": 314,
-    "gewonnen": 175,
-    "verloren": 128,
+    "tipps": 325,
+    "gewonnen": 181,
+    "verloren": 133,
     "push": 2,
     "offen": 9,
-    "einsatz": 305.0,
-    "netto": 34.03,
-    "trefferquote": 57.8,
-    "roi_prozent": 11.2
+    "einsatz": 316.0,
+    "netto": 32.07,
+    "trefferquote": 57.6,
+    "roi_prozent": 10.1
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -498,15 +498,26 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -4.5
     },
     "Internationales Freundschaftsspiel (WM-Test)": {
-      "tipps": 14,
-      "gewonnen": 12,
-      "verloren": 2,
+      "tipps": 23,
+      "gewonnen": 16,
+      "verloren": 7,
       "push": 0,
       "offen": 0,
-      "einsatz": 14.0,
-      "netto": 5.11,
-      "trefferquote": 85.7,
-      "roi_prozent": 36.5
+      "einsatz": 23.0,
+      "netto": 1.85,
+      "trefferquote": 69.6,
+      "roi_prozent": 8.0
+    },
+    "Internationales Freundschaftsspiel": {
+      "tipps": 2,
+      "gewonnen": 2,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 1.3,
+      "trefferquote": 100.0,
+      "roi_prozent": 65.0
     }
   },
   "nach_markt": {
@@ -1314,15 +1325,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 42.0
     },
     "Unter 2.5 Tore": {
-      "tipps": 10,
-      "gewonnen": 8,
-      "verloren": 2,
+      "tipps": 12,
+      "gewonnen": 9,
+      "verloren": 3,
       "push": 0,
       "offen": 0,
-      "einsatz": 10.0,
-      "netto": 5.73,
-      "trefferquote": 80.0,
-      "roi_prozent": 57.3
+      "einsatz": 12.0,
+      "netto": 5.48,
+      "trefferquote": 75.0,
+      "roi_prozent": 45.7
     },
     "Unter 211.5 Punkte (Total)": {
       "tipps": 1,
@@ -1677,26 +1688,26 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -100.0
     },
     "Ueber 2.5 Tore": {
-      "tipps": 16,
+      "tipps": 17,
       "gewonnen": 8,
-      "verloren": 6,
+      "verloren": 7,
       "push": 0,
       "offen": 2,
-      "einsatz": 14.0,
-      "netto": 6.53,
-      "trefferquote": 57.1,
-      "roi_prozent": 46.6
+      "einsatz": 15.0,
+      "netto": 5.53,
+      "trefferquote": 53.3,
+      "roi_prozent": 36.9
     },
     "Unter 3.5 Tore": {
-      "tipps": 3,
-      "gewonnen": 1,
+      "tipps": 4,
+      "gewonnen": 2,
       "verloren": 2,
       "push": 0,
       "offen": 0,
-      "einsatz": 3.0,
-      "netto": -1.6,
-      "trefferquote": 33.3,
-      "roi_prozent": -53.3
+      "einsatz": 4.0,
+      "netto": -1.2,
+      "trefferquote": 50.0,
+      "roi_prozent": -30.0
     },
     "Unentschieden oder Sunderland": {
       "tipps": 1,
@@ -2854,15 +2865,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 65.0
     },
     "Erling Haaland trifft jederzeit": {
-      "tipps": 1,
+      "tipps": 2,
       "gewonnen": 0,
-      "verloren": 0,
+      "verloren": 1,
       "push": 1,
       "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
+      "einsatz": 2.0,
+      "netto": -1.0,
       "trefferquote": 0.0,
-      "roi_prozent": 0.0
+      "roi_prozent": -50.0
     },
     "Mohamed Salah trifft jederzeit": {
       "tipps": 1,
@@ -3204,6 +3215,72 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 1.2,
       "trefferquote": 100.0,
       "roi_prozent": 120.0
+    },
+    "Petar Musa trifft jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Gonzalo Plata trifft jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Kroatien Sieg": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.36,
+      "trefferquote": 100.0,
+      "roi_prozent": 36.0
+    },
+    "Beide Teams treffen (Ja)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.68,
+      "trefferquote": 100.0,
+      "roi_prozent": 68.0
+    },
+    "Ecuador Sieg": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.3,
+      "trefferquote": 100.0,
+      "roi_prozent": 30.0
+    },
+    "Italien Doppelte Chance (X2)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.55,
+      "trefferquote": 100.0,
+      "roi_prozent": 55.0
     }
   },
   "nach_markt_typ": {
@@ -3252,37 +3329,37 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 55.0
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 100,
-      "gewonnen": 60,
+      "tipps": 102,
+      "gewonnen": 62,
       "verloren": 39,
       "push": 0,
       "offen": 1,
-      "einsatz": 99.0,
-      "netto": 7.93,
-      "trefferquote": 60.6,
-      "roi_prozent": 8.0
+      "einsatz": 101.0,
+      "netto": 8.59,
+      "trefferquote": 61.4,
+      "roi_prozent": 8.5
     },
     "Torschuetzen Jederzeit": {
-      "tipps": 48,
+      "tipps": 51,
       "gewonnen": 19,
-      "verloren": 27,
+      "verloren": 30,
       "push": 2,
       "offen": 0,
-      "einsatz": 48.0,
-      "netto": 11.22,
-      "trefferquote": 41.3,
-      "roi_prozent": 23.4
+      "einsatz": 51.0,
+      "netto": 8.22,
+      "trefferquote": 38.8,
+      "roi_prozent": 16.1
     },
     "Unter 2.5 Tore": {
-      "tipps": 14,
-      "gewonnen": 10,
-      "verloren": 4,
+      "tipps": 16,
+      "gewonnen": 11,
+      "verloren": 5,
       "push": 0,
       "offen": 0,
-      "einsatz": 14.0,
-      "netto": 5.58,
-      "trefferquote": 71.4,
-      "roi_prozent": 39.9
+      "einsatz": 16.0,
+      "netto": 5.33,
+      "trefferquote": 68.8,
+      "roi_prozent": 33.3
     },
     "Doppelte Chance 1X": {
       "tipps": 22,
@@ -3296,37 +3373,37 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 2.3
     },
     "Doppelte Chance X2": {
-      "tipps": 16,
-      "gewonnen": 10,
+      "tipps": 17,
+      "gewonnen": 11,
       "verloren": 4,
       "push": 0,
       "offen": 2,
-      "einsatz": 14.0,
-      "netto": 2.5,
-      "trefferquote": 71.4,
-      "roi_prozent": 17.9
+      "einsatz": 15.0,
+      "netto": 3.05,
+      "trefferquote": 73.3,
+      "roi_prozent": 20.3
     },
     "Ueber 2.5 Tore": {
-      "tipps": 24,
+      "tipps": 25,
       "gewonnen": 12,
-      "verloren": 10,
+      "verloren": 11,
       "push": 0,
       "offen": 2,
-      "einsatz": 22.0,
-      "netto": 6.38,
-      "trefferquote": 54.5,
-      "roi_prozent": 29.0
+      "einsatz": 23.0,
+      "netto": 5.38,
+      "trefferquote": 52.2,
+      "roi_prozent": 23.4
     },
     "Beide Teams treffen JA": {
-      "tipps": 8,
-      "gewonnen": 3,
+      "tipps": 9,
+      "gewonnen": 4,
       "verloren": 3,
       "push": 0,
       "offen": 2,
-      "einsatz": 6.0,
-      "netto": 0.02,
-      "trefferquote": 50.0,
-      "roi_prozent": 0.3
+      "einsatz": 7.0,
+      "netto": 0.7,
+      "trefferquote": 57.1,
+      "roi_prozent": 10.0
     },
     "Ueber 1.5 Tore": {
       "tipps": 7,
@@ -3472,15 +3549,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -100.0
     },
     "Unter 3.5 Tore": {
-      "tipps": 3,
-      "gewonnen": 1,
+      "tipps": 4,
+      "gewonnen": 2,
       "verloren": 2,
       "push": 0,
       "offen": 0,
-      "einsatz": 3.0,
-      "netto": -1.6,
-      "trefferquote": 33.3,
-      "roi_prozent": -53.3
+      "einsatz": 4.0,
+      "netto": -1.2,
+      "trefferquote": 50.0,
+      "roi_prozent": -30.0
     },
     "Unentschieden oder Sunderland": {
       "tipps": 1,
@@ -3672,37 +3749,37 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 154,
-      "gewonnen": 81,
-      "verloren": 68,
+      "tipps": 160,
+      "gewonnen": 84,
+      "verloren": 71,
       "push": 1,
       "offen": 4,
-      "einsatz": 150.0,
-      "netto": 17.65,
-      "trefferquote": 54.4,
-      "roi_prozent": 11.8
+      "einsatz": 156.0,
+      "netto": 16.63,
+      "trefferquote": 54.2,
+      "roi_prozent": 10.7
     },
     "2.00-3.00": {
-      "tipps": 38,
+      "tipps": 40,
       "gewonnen": 15,
-      "verloren": 21,
+      "verloren": 23,
       "push": 1,
       "offen": 1,
-      "einsatz": 37.0,
-      "netto": 3.34,
-      "trefferquote": 41.7,
-      "roi_prozent": 9.0
+      "einsatz": 39.0,
+      "netto": 1.34,
+      "trefferquote": 39.5,
+      "roi_prozent": 3.4
     },
     "1.00-1.50": {
-      "tipps": 107,
-      "gewonnen": 74,
+      "tipps": 110,
+      "gewonnen": 77,
       "verloren": 29,
       "push": 0,
       "offen": 4,
-      "einsatz": 103.0,
-      "netto": 6.49,
-      "trefferquote": 71.8,
-      "roi_prozent": 6.3
+      "einsatz": 106.0,
+      "netto": 7.55,
+      "trefferquote": 72.6,
+      "roi_prozent": 7.1
     },
     "3.00+": {
       "tipps": 15,
@@ -3718,37 +3795,37 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_kategorie": {
     "safe": {
-      "tipps": 72,
+      "tipps": 73,
       "gewonnen": 50,
-      "verloren": 22,
+      "verloren": 23,
       "push": 0,
       "offen": 0,
-      "einsatz": 72.0,
-      "netto": 1.98,
-      "trefferquote": 69.4,
-      "roi_prozent": 2.8
+      "einsatz": 73.0,
+      "netto": 0.98,
+      "trefferquote": 68.5,
+      "roi_prozent": 1.3
     },
     "value": {
-      "tipps": 188,
-      "gewonnen": 100,
-      "verloren": 77,
+      "tipps": 195,
+      "gewonnen": 104,
+      "verloren": 80,
       "push": 2,
       "offen": 9,
-      "einsatz": 179.0,
-      "netto": 23.27,
+      "einsatz": 186.0,
+      "netto": 22.36,
       "trefferquote": 56.5,
-      "roi_prozent": 13.0
+      "roi_prozent": 12.0
     },
     "wackel": {
-      "tipps": 54,
-      "gewonnen": 25,
-      "verloren": 29,
+      "tipps": 57,
+      "gewonnen": 27,
+      "verloren": 30,
       "push": 0,
       "offen": 0,
-      "einsatz": 54.0,
-      "netto": 8.78,
-      "trefferquote": 46.3,
-      "roi_prozent": 16.3
+      "einsatz": 57.0,
+      "netto": 8.73,
+      "trefferquote": 47.4,
+      "roi_prozent": 15.3
     }
   },
   "clv_gesamt": {
@@ -3768,6 +3845,147 @@ window.__MIESMUSCHEL_STAT = {
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-06-07",
+      "gesamt": {
+        "tipps": 11,
+        "gewonnen": 6,
+        "verloren": 5,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 11.0,
+        "netto": -1.96,
+        "trefferquote": 54.5,
+        "roi_prozent": -17.8
+      },
+      "spiele": [
+        {
+          "id": "2026-06-07-cro-svn",
+          "liga": "Internationales Freundschaftsspiel (WM-Test)",
+          "heim": "Kroatien",
+          "gast": "Slowenien",
+          "endstand": "2:1",
+          "tipps": [
+            {
+              "markt": "Petar Musa trifft jederzeit",
+              "quote": 2.5,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Musa als Heim-9er Starter, kein Tor. Tore von Modric (51.) und Pasalic (90+3). Pasalic kam fuer Modric (57.), NICHT fuer Musa - Boost-Mechanik greift nicht (Musa kein Auswechsel-Ersatz-Treffer)."
+            },
+            {
+              "markt": "Kroatien Sieg",
+              "quote": 1.36,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.3600000000000001,
+              "kommentar": "Kroatien 2:1 - Modric 51. + Pasalic 90+3. (nach Slowenien-Ausgleich Sporar 83.). Spaetes 2:1, Klassen-Edge realisierte sich knapp. Heim-Abschieds-Anreiz vor WM-Abreise zahlte aus."
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.7,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Endstand 2:1 = 3 Tore > 2.5. Modric (51.) + Sporar (83.) + Pasalic (90+3) - knapp ueberschritten in der Verlaengerung."
+            }
+          ]
+        },
+        {
+          "id": "2026-06-07-gre-ita",
+          "liga": "Internationales Freundschaftsspiel",
+          "heim": "Griechenland",
+          "gast": "Italien",
+          "endstand": "0:1",
+          "tipps": [
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.75,
+              "kommentar": "Endstand 0:1 = 1 Tor < 2.5. Pio Esposito 18.' brachte Italien-U22 in Fuehrung, danach defensives 0:1 ueber die Zeit (selbst mit 10 Mann ab 68.). Klassische taktisch-Probe-Konstellation."
+            },
+            {
+              "markt": "Italien Doppelte Chance (X2)",
+              "quote": 1.55,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.55,
+              "kommentar": "Italien-U22 Sieg 0:1 (Esposito 18.). DC X2 eingeloest, selbst mit 10 Mann ab 68. Reggiani-Rot brachten sie die Fuehrung souveraen ueber die Zeit."
+            }
+          ]
+        },
+        {
+          "id": "2026-06-07-mar-nor",
+          "liga": "Internationales Freundschaftsspiel (WM-Test)",
+          "heim": "Marokko",
+          "gast": "Norwegen",
+          "endstand": "1:1",
+          "tipps": [
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.8,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Endstand 1:1 = 2 Tore < 2.5. Massen-Substitutionen in 60-72.' bremsten den Offensiv-Druck Marokko, Norwegen-Joker Bobb assistierte Odegaard zum 1:1 in 75.' - kein 3. Tor mehr. Bricht WM-Test-Ueber25-Goldgrube-Pattern erstmalig."
+            },
+            {
+              "markt": "Erling Haaland trifft jederzeit",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Haaland 72. Min ausgewechselt fuer Jorgen Strand Larsen - Strand Larsen kein Tor (Odegaard traf 75. als Senior, blieb auf dem Platz). Boost-Mechanik greift NICHT (Haaland raus + Ersatz Strand Larsen traf nicht). Haaland selbst kein Tor."
+            },
+            {
+              "markt": "Beide Teams treffen (Ja)",
+              "quote": 1.68,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.6799999999999999,
+              "kommentar": "1:1 = beide Teams trafen. Brahim Diaz 8. (MAR), Odegaard 75. (NOR). BTTS Ja eingeloest."
+            }
+          ]
+        },
+        {
+          "id": "2026-06-07-ecu-gua",
+          "liga": "Internationales Freundschaftsspiel (WM-Test)",
+          "heim": "Ecuador",
+          "gast": "Guatemala",
+          "endstand": "3:0",
+          "tipps": [
+            {
+              "markt": "Gonzalo Plata trifft jederzeit",
+              "quote": 2.8,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Roster-Verifikations-Bruch: Plata war NICHT in Startelf, kam als JOKER fuer Jeremy Arevalo. Tore von J. Caicedo (19. Pen), Angulo (73.), Estupinan (78.). Plata kein Treffer. Boost-Mechanik greift nicht (Plata muesste raus + Ersatz traf - keine Indiz dafuer). Lesson 25.04. wurde nominell angewandt, aber Plata-Spielzeit-Erwartung war fundamental falsch."
+            },
+            {
+              "markt": "Ecuador Sieg",
+              "quote": 1.3,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.30000000000000004,
+              "kommentar": "Ecuador 3:0 - J. Caicedo (Pen 19.), Angulo (73.), Estupinan (78.). Klassen-Edge dominant, 19-Spiele-ungeschlagen-Rekord verlaengert. Sogar OHNE Stamm-Achse (Pacho/M.Caicedo/Hincapie auf Bank)."
+            },
+            {
+              "markt": "Unter 3.5 Tore",
+              "quote": 1.4,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.3999999999999999,
+              "kommentar": "Endstand 3:0 = 3 Tore < 3.5. Knapp eingeloest. J. Caicedo Pen, Angulo, Estupinan - ohne 4. Tor."
+            }
+          ]
+        }
+      ],
+      "kombis": []
+    },
     {
       "datum": "2026-06-06",
       "gesamt": {
