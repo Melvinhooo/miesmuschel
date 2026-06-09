@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-06-08T06:22:33+00:00",
+  "letzte_berechnung": "2026-06-09T06:17:49+00:00",
   "gesamt": {
-    "tipps": 325,
+    "tipps": 330,
     "gewonnen": 181,
-    "verloren": 133,
+    "verloren": 138,
     "push": 2,
     "offen": 9,
-    "einsatz": 316.0,
-    "netto": 32.07,
-    "trefferquote": 57.6,
-    "roi_prozent": 10.1
+    "einsatz": 321.0,
+    "netto": 27.07,
+    "trefferquote": 56.7,
+    "roi_prozent": 8.4
   },
   "letzte_30_tage": {
-    "tipps": 149,
-    "gewonnen": 77,
-    "verloren": 61,
+    "tipps": 143,
+    "gewonnen": 73,
+    "verloren": 59,
     "push": 2,
     "offen": 9,
-    "einsatz": 140.0,
-    "netto": 4.48,
-    "trefferquote": 55.8,
-    "roi_prozent": 3.2
+    "einsatz": 134.0,
+    "netto": 4.58,
+    "trefferquote": 55.3,
+    "roi_prozent": 3.4
   },
   "letzte_90_tage": {
-    "tipps": 325,
+    "tipps": 330,
     "gewonnen": 181,
-    "verloren": 133,
+    "verloren": 138,
     "push": 2,
     "offen": 9,
-    "einsatz": 316.0,
-    "netto": 32.07,
-    "trefferquote": 57.6,
-    "roi_prozent": 10.1
+    "einsatz": 321.0,
+    "netto": 27.07,
+    "trefferquote": 56.7,
+    "roi_prozent": 8.4
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -518,6 +518,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 1.3,
       "trefferquote": 100.0,
       "roi_prozent": 65.0
+    },
+    "NBA Playoffs - Finals Game 3": {
+      "tipps": 5,
+      "gewonnen": 0,
+      "verloren": 5,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 5.0,
+      "netto": -5.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
     }
   },
   "nach_markt": {
@@ -3063,15 +3074,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 162.0
     },
     "Victor Wembanyama Double-Double": {
-      "tipps": 1,
+      "tipps": 2,
       "gewonnen": 1,
-      "verloren": 0,
+      "verloren": 1,
       "push": 0,
       "offen": 0,
-      "einsatz": 1.0,
-      "netto": 1.55,
-      "trefferquote": 100.0,
-      "roi_prozent": 155.0
+      "einsatz": 2.0,
+      "netto": 0.55,
+      "trefferquote": 50.0,
+      "roi_prozent": 27.5
     },
     "Unter 218.5 Punkte (Spiel-Total)": {
       "tipps": 1,
@@ -3281,6 +3292,50 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.55,
       "trefferquote": 100.0,
       "roi_prozent": 55.0
+    },
+    "New York Knicks Sieg (Moneyline)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Unter 216.5 Gesamtpunkte": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Karl-Anthony Towns Double-Double": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Spread New York Knicks -2.5 Punkte": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
     }
   },
   "nach_markt_typ": {
@@ -3296,15 +3351,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 4.7
     },
     "Spieler-Punkte Unter (NBA)": {
-      "tipps": 12,
+      "tipps": 13,
       "gewonnen": 5,
-      "verloren": 7,
+      "verloren": 8,
       "push": 0,
       "offen": 0,
-      "einsatz": 12.0,
-      "netto": 1.54,
-      "trefferquote": 41.7,
-      "roi_prozent": 12.8
+      "einsatz": 13.0,
+      "netto": 0.54,
+      "trefferquote": 38.5,
+      "roi_prozent": 4.2
     },
     "Paolo Banchero Double-Double": {
       "tipps": 1,
@@ -3329,15 +3384,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 55.0
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 102,
+      "tipps": 103,
       "gewonnen": 62,
-      "verloren": 39,
+      "verloren": 40,
       "push": 0,
       "offen": 1,
-      "einsatz": 101.0,
-      "netto": 8.59,
-      "trefferquote": 61.4,
-      "roi_prozent": 8.5
+      "einsatz": 102.0,
+      "netto": 7.59,
+      "trefferquote": 60.8,
+      "roi_prozent": 7.4
     },
     "Torschuetzen Jederzeit": {
       "tipps": 51,
@@ -3417,15 +3472,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 12.9
     },
     "Spread/Handicap": {
-      "tipps": 12,
+      "tipps": 13,
       "gewonnen": 4,
-      "verloren": 8,
+      "verloren": 9,
       "push": 0,
       "offen": 0,
-      "einsatz": 12.0,
-      "netto": -0.36,
-      "trefferquote": 33.3,
-      "roi_prozent": -3.0
+      "einsatz": 13.0,
+      "netto": -1.36,
+      "trefferquote": 30.8,
+      "roi_prozent": -10.5
     },
     "Raptors +3.5": {
       "tipps": 1,
@@ -3736,28 +3791,39 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -36.0
     },
     "Victor Wembanyama Double-Double": {
-      "tipps": 1,
+      "tipps": 2,
       "gewonnen": 1,
-      "verloren": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 0.55,
+      "trefferquote": 50.0,
+      "roi_prozent": 27.5
+    },
+    "Karl-Anthony Towns Double-Double": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
       "push": 0,
       "offen": 0,
       "einsatz": 1.0,
-      "netto": 1.55,
-      "trefferquote": 100.0,
-      "roi_prozent": 155.0
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
     }
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 160,
+      "tipps": 164,
       "gewonnen": 84,
-      "verloren": 71,
+      "verloren": 75,
       "push": 1,
       "offen": 4,
-      "einsatz": 156.0,
-      "netto": 16.63,
-      "trefferquote": 54.2,
-      "roi_prozent": 10.7
+      "einsatz": 160.0,
+      "netto": 12.63,
+      "trefferquote": 52.8,
+      "roi_prozent": 7.9
     },
     "2.00-3.00": {
       "tipps": 40,
@@ -3771,15 +3837,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 3.4
     },
     "1.00-1.50": {
-      "tipps": 110,
+      "tipps": 111,
       "gewonnen": 77,
-      "verloren": 29,
+      "verloren": 30,
       "push": 0,
       "offen": 4,
-      "einsatz": 106.0,
-      "netto": 7.55,
-      "trefferquote": 72.6,
-      "roi_prozent": 7.1
+      "einsatz": 107.0,
+      "netto": 6.55,
+      "trefferquote": 72.0,
+      "roi_prozent": 6.1
     },
     "3.00+": {
       "tipps": 15,
@@ -3806,15 +3872,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 1.3
     },
     "value": {
-      "tipps": 195,
+      "tipps": 200,
       "gewonnen": 104,
-      "verloren": 80,
+      "verloren": 85,
       "push": 2,
       "offen": 9,
-      "einsatz": 186.0,
-      "netto": 22.36,
-      "trefferquote": 56.5,
-      "roi_prozent": 12.0
+      "einsatz": 191.0,
+      "netto": 17.36,
+      "trefferquote": 55.0,
+      "roi_prozent": 9.1
     },
     "wackel": {
       "tipps": 57,
@@ -3845,6 +3911,125 @@ window.__MIESMUSCHEL_STAT = {
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-06-08",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "Knicks-SGP Safe (~3.31x)",
+          "kategorie": "safe",
+          "gesamtquote": 3.31,
+          "einsatz_prozent": 2.0,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "New York Knicks Sieg",
+              "quote": 1.77,
+              "status": "verloren",
+              "kommentar": "Spurs gewinnen 115-111 - NYK-ML Sieg-Tipp verloren. Knicks 13-Spiele-Playoff-Streak gerissen. Brunson 11/25 FG + 5 TO ineffizient, Towns 11/8 weit unter Schnitt - Knicks-Offense brach im 3. Viertel ein (47 Pkt in 2. Hz vs 64 in 1. Hz)."
+            },
+            {
+              "markt": "Unter 216.5 Gesamtpunkte",
+              "quote": 1.87,
+              "status": "verloren",
+              "kommentar": "Endstand 111+115=226 - Linie 216.5 um 9.5 Pkt UEBERschritten. Lesson 02.05. NBA-Decider-Defensiv-These erstmals widerlegt in Finals-Serie (vorher 2/2 HIT bei 200 + 209). Closeout-Druck war diesmal Tempo-Beschleuniger statt Tempo-Bremse."
+            }
+          ]
+        },
+        {
+          "name": "Star-DD-SGP Balance (~7.46x)",
+          "kategorie": "balance",
+          "gesamtquote": 7.46,
+          "einsatz_prozent": 0.8,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Karl-Anthony Towns Double-Double",
+              "quote": 1.8,
+              "status": "verloren",
+              "kommentar": "Towns 11 Pkt / 8 Reb - kein DD (Punkte UND Rebounds beide unter 10-Schwelle). Massiver Bruch zum G1/G2-DD-Pattern (18/12 + 21/13). KAT-Punkte-Einbruch von 21 auf 11 unter Spurs-Wemby-Champagnie-Frontcourt-Druck."
+            },
+            {
+              "markt": "Victor Wembanyama Double-Double",
+              "quote": 1.3,
+              "status": "verloren",
+              "kommentar": "Wemby 32 Pkt / 8 Reb - kein DD (Rebounds unter 10). SHOCK-Bruch trotz Finals-Karriere-Hoch bei Punkten - Wemby hatte in G1+G2 12/9 Rebs, G3 nur 8. Knicks-Anunoby/Towns-Box-Out reduzierte Wemby-Rebound-Volumen. 1.30-VALUE-Edge-These (DD-Pattern robust) widerlegt."
+            },
+            {
+              "markt": "Josh Hart Double-Double",
+              "quote": 3.2,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Volume-Star-SGP Risiko (~19.95x)",
+          "kategorie": "risk",
+          "gesamtquote": 19.95,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Karl-Anthony Towns Ueber 22.5 Punkte",
+              "quote": 3.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Victor Wembanyama Ueber 31.5 Punkte",
+              "quote": 3.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Total Punkte 1. Viertel Ueber 54.5",
+              "quote": 1.9,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Sweep-Lotto Moonshot (~367.50x)",
+          "kategorie": "moonshot",
+          "gesamtquote": 367.5,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Serien-Sieg New York Knicks 4-0 (Finals-Sweep)",
+              "quote": 5.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Victor Wembanyama Triple-Double",
+              "quote": 21.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Jalen Brunson Ueber 35.5 Punkte",
+              "quote": 3.5,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-06-07",
       "gesamt": {
