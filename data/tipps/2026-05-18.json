@@ -64,7 +64,7 @@
         },
         {
           "id": "ars-bur-4",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Arsenal Asian Handicap -1.5",
           "prognose": "Arsenal gewinnt mit mind. 2 Toren Differenz",
           "quote": 1.65,
@@ -72,7 +72,8 @@
           "faire_quote": 1.5,
           "empfohlener_einsatz_prozent": 1.5,
           "einsatz_euro": 8.25,
-          "begruendung": "Markt-Goldgrube Sieg (60.3% Hit / +9.8% ROI bei n=79 - stabilster Volumen-Markt). 85% Arsenal-Sieg-Modell + Burnley 4 Auswaerts-Niederlagen Serie + Notformation Defensive-Trio out + Arsenal mit Titel-Motivation + Heim-Saisonfinale. Letztes H2H 2:0, sollte realistisch wieder mit 2+ Differenz enden. PFLICHT-PROFIL Heim-Favorit-Sieg-Tipp erfuellt. Direkter Sieg @ 1.09 zu kurz (kein Edge, Bookmaker-Marge schluckt), AH -1.5 @ 1.65 hat besseren Value. Reality-Check: 2:0-Insurance-Regel gilt NICHT bei Handicap (CLAUDE.md). Einsatz 8,25 EUR (1.5%)."
+          "begruendung": "Markt-Goldgrube Sieg (60.3% Hit / +9.8% ROI bei n=79 - stabilster Volumen-Markt). 85% Arsenal-Sieg-Modell + Burnley 4 Auswaerts-Niederlagen Serie + Notformation Defensive-Trio out + Arsenal mit Titel-Motivation + Heim-Saisonfinale. Letztes H2H 2:0, sollte realistisch wieder mit 2+ Differenz enden. PFLICHT-PROFIL Heim-Favorit-Sieg-Tipp erfuellt. Direkter Sieg @ 1.09 zu kurz (kein Edge, Bookmaker-Marge schluckt), AH -1.5 @ 1.65 hat besseren Value. Reality-Check: 2:0-Insurance-Regel gilt NICHT bei Handicap (CLAUDE.md). Einsatz 8,25 EUR (1.5%).",
+          "_markt_bluter_downgrade": true
         },
         {
           "id": "ars-bur-5",
@@ -126,7 +127,7 @@
       "tipps": [
         {
           "id": "okc-sas-1",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Spurs +6.5 (Asian Handicap)",
           "prognose": "Spurs verlieren mit max. 6 Punkten Differenz oder gewinnen",
           "quote": 1.95,
@@ -134,7 +135,8 @@
           "faire_quote": 1.79,
           "empfohlener_einsatz_prozent": 1.5,
           "einsatz_euro": 8.25,
-          "begruendung": "Spurs gingen 4-1 SU+ATS gegen OKC in der Regular Season (inkl. 130:110-Heimsieg 23.12.) - dominantestes H2H gegen die Top-Saat. Wembanyama mit Liga-Bester-Defense (99.7 DRtg) und 7.7 Blocks/Game in Playoffs schraenkt OKC-Drive-and-Kick massiv ein. Thunder muessten bei -6.5 die Spurs zweistellig schlagen trotz Spurs-Wembanyama-Wand. Hebel B aktiv: NBA-Playoff NIE SAFE -> max VALUE. Game 1 NICHT Decider -> Spread-Tipp moeglich (kein WACKEL-Cap). Konservativer Einsatz wegen NBA-Volatilitaet 8,25 EUR (1.5%)."
+          "begruendung": "Spurs gingen 4-1 SU+ATS gegen OKC in der Regular Season (inkl. 130:110-Heimsieg 23.12.) - dominantestes H2H gegen die Top-Saat. Wembanyama mit Liga-Bester-Defense (99.7 DRtg) und 7.7 Blocks/Game in Playoffs schraenkt OKC-Drive-and-Kick massiv ein. Thunder muessten bei -6.5 die Spurs zweistellig schlagen trotz Spurs-Wembanyama-Wand. Hebel B aktiv: NBA-Playoff NIE SAFE -> max VALUE. Game 1 NICHT Decider -> Spread-Tipp moeglich (kein WACKEL-Cap). Konservativer Einsatz wegen NBA-Volatilitaet 8,25 EUR (1.5%).",
+          "_markt_bluter_downgrade": true
         },
         {
           "id": "okc-sas-2",

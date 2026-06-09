@@ -58,13 +58,14 @@
           "markt": "Spread New York Knicks -2.5 Punkte",
           "quote": 1.95,
           "quote_quelle": "Aggregator-Konsens 08.06. (Juice -105 US)",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "bewertung_label": "VALUE",
           "faire_quote": 1.87,
           "edge_prozent": 4,
           "empfohlener_einsatz_prozent": 1.0,
           "stake_euro": 5.5,
-          "begruendung": "MSG-Heim-ATS-Trend bei NYK -Favorit gegen West-Teams 2025-26: 8-5 ATS (Yahoo/CBS-Stat). Knicks-Pace dominierte G1+G2 (105+), kontrollierten beide Spiele eng. HR19 (NBA-Spread-Margen-Risiko) eingehalten: -2.5 ist knapper Spread, keine breite Linie -7.5. Korreliert positiv mit ML aber Markt-divers. G1-Margin 10 Pkt, G2-Margin 1 Pkt -> hohe Varianz, daher kein SAFE-Aufstieg. Quote bei bet365 live pruefen."
+          "begruendung": "MSG-Heim-ATS-Trend bei NYK -Favorit gegen West-Teams 2025-26: 8-5 ATS (Yahoo/CBS-Stat). Knicks-Pace dominierte G1+G2 (105+), kontrollierten beide Spiele eng. HR19 (NBA-Spread-Margen-Risiko) eingehalten: -2.5 ist knapper Spread, keine breite Linie -7.5. Korreliert positiv mit ML aber Markt-divers. G1-Margin 10 Pkt, G2-Margin 1 Pkt -> hohe Varianz, daher kein SAFE-Aufstieg. Quote bei bet365 live pruefen.",
+          "_markt_bluter_downgrade": true
         },
         {
           "id": "nba-g3-3",

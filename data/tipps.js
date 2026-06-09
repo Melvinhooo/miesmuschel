@@ -42,5 +42,4 @@ window.__MIESMUSCHEL_TIPPS = {
       "scope_disziplin": "PASS - National-Team-Friendlies/WM-Vorbereitung trotz verfuegbarer Quoten nicht bespielt"
     }
   }
-}
-;
+};
