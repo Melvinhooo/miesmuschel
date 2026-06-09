@@ -1,0 +1,136 @@
+{
+  "datum": "2026-06-09",
+  "erstellt_am": "2026-06-09T13:40:00+02:00",
+  "modus": "tag",
+  "hinweis": "Recherche-Daten Dienstag 09.06.2026 (Mo-Fr-Variante, Pre-Tipps-Datenbasis fuer Tipps-Slot 13:30 Berlin; Recherche-Cloud-Routine). === HEUTE-HORIZONT (Tipps-Slot Di 09.06 13:30 -> Mi 10.06 13:30): 0 In-Scope-Events terminiert. KEIN Fussball-Spiel in-scope (BL, PL, LaLiga, Serie A, Ligue 1, CL, EL, DFB-Pokal, Coppa Italia, Conference alle in Sommerpause - alle Klub-Saisons 2025-26 beendet, CL-Final 30.05 PSG-Arsenal i.E. 4-3 abgeschlossen). KEIN NBA-Spiel im Di-Mi-Horizont: NBA Finals G3 SAS @ NYK wurde Mo 08.06 abend US = Di 09.06 02:30 Berlin gespielt (VOR Horizont-Start Di 13:30) - Resultat unten dokumentiert; NBA Finals G4 SAS @ NYK ist Mi 10.06 8:30 PM ET = Do 11.06 02:30 Berlin (Madison Square Garden, NYK Heim) - faellt in Mittwoch-Tipps-Slot 10.06 13:30, NICHT in heutigen Di-Mi-Horizont Di 09.06 13:30 -> Mi 10.06 13:30. === NBA Finals Update - G3 Resultat (gespielt Mo 08.06 8:30 PM ET = Di 09.06 02:30 Berlin Madison Square Garden, NYK Heim - balldontlie game_id=21716136, status=Final): SAN ANTONIO SPURS 115 - 111 NEW YORK KNICKS (Auswaerts-Sieg SAS in MSG, Endstand laut balldontlie-API live 09.06.2026 13:30 abgefragt). Viertel-Aufteilung NYK Heim: Q1=22, Q2=42, Q3=27, Q4=20 = 111; SAS Auswaerts: Q1=33, Q2=24, Q3=35, Q4=23 = 115. Total-Punkte G3: 226 (NICHT unter Linie 216.5 -> Total UEBER 216.5 = TREFFER, Total UNTER 216.5 = MISS). === FOLGEN FUER SERIEN-STAND + STREAK: Serien-Stand nach G3 = 2-1 NYK fuehrt weiter (G1: NYK 105-95 SAS in San Antonio, G2: NYK 105-104 SAS in San Antonio, G3: SAS 115-111 NYK in NYC = erster Spurs-Sieg + erster NYK-Heimplatz-Verlust dieser Serie). NYK-13-Spiele-Playoff-Siegesserie ENDET in G3 nach Q1-Defizit 22-33 + Q3-Defizit 27-35. SAS Auswaerts-Sieg trotz 2-0-Rueckstand = klassische Bounce-Back-Reaktion (Wemby Q4-Phase + Castle/Harper-Zusatz-Beitrag - exakte Spieler-Stats fuer G3 aus balldontlie-Box-Score-Endpoint pre-Mittwoch-Recherche zu verifizieren, NIE erfinden). === LESSON 02.05 NBA-DECIDER-DEFENSIV-THESE STATUS-UPDATE NACH G3: G1-Total 200 < 218.5 = HIT, G2-Total 209 < 214.5 = HIT, G3-Total 226 > 216.5 = MISS. Aktueller 2026-Finals-Track-Record: 2/3 (66.7% HIT-Rate). Mittwoch-Tipps-Routine MUSS dieses Update beruecksichtigen (Lesson nicht laenger blind anwenden - G3-MISS war erste Decider-Defensiv-These-Niederlage 2026-Finals, koennte Indikator sein dass NYK-Heim-Tempo + Q2-NYK-Explosion 42 Pkt das Markt-Modell brach). Lesson Hebel B (NBA-Playoffs-Decider/Finals) bleibt valides Bewertungs-Framework, aber Edge fuer Unter-Linien in dieser Serie geringer als zuvor angenommen. === BESTAETIGUNG via APIs (live abgefragt 09.06.2026 13:30 Berlin, keine Cache-Daten verwendet): football-data.org /v4/matches?dateFrom=2026-06-09&dateTo=2026-06-11 global = count 0 -> 0 Fussball-Spiele weltweit in In-Scope-Top-Wettbewerben in den naechsten 3 Tagen. football-data.org /v4/competitions/<comp>/matches Range 09.06-16.06 einzeln pro BL1/PL/PD/SA/FL1/CL = jeweils count 0 (EL: Endpoint keine Daten = ebenfalls 0). football-data.org /v4/matches?dateFrom=2026-06-09&dateTo=2026-06-16 global zeigt 15 Treffer, ALLE im Wettbewerb 'WC' (FIFA WM 2026) - NICHT im CLAUDE.md-Scope (nur europ. Top-5-Klub-Ligen + DFB-Pokal + Coppa Italia + CL/EL/Conference). balldontlie.io /v1/games?dates[]=2026-06-09 = leer (0 Spiele). balldontlie.io /v1/games?dates[]=2026-06-10 = 1 Spiel = G4 SAS @ NYK datetime 2026-06-11T00:30:00Z UTC = 11.06 02:30 Berlin (faellt in Mittwoch-Tipps-Slot 10.06 13:30, NICHT in heutigen Di-Mi-Horizont). balldontlie.io /v1/games?dates[]=2026-06-08 zeigt G3 Final-Status mit korrekten Quarter-Splits oben dokumentiert. === AUSSERHALB-SCOPE-GEPRUEFT (zur Vollstaendigkeit dokumentiert, aber NICHT empfohlen): FIFA WM 2026 startet Do 11.06.2026 (Eroeffnungsspiel Mexico vs South Africa 11.06 19:00 UTC = 21:00 Berlin, USA/Kanada/Mexiko-Co-Hosts) - NICHT im CLAUDE.md-Scope (nur europaeische Top-5-Klub-Ligen + DFB-Pokal + Coppa Italia + CL/EL/Conference). FIFA WM 2026 Vorbereitungs-Friendlies (mehrere laufen aktuell) - NICHT im CLAUDE.md-Scope (Verein-Wetten only). UEFA Frauen-EM-Qualifikation - NICHT im Scope. Brasileirao Serie A - NICHT im Scope. MLS Regular Season - NICHT im Scope (nur NBA aus US-Sport). WNBA Regular Season - NICHT im Scope. 2.Bundesliga / Promotion-Playoffs - NICHT im Scope. NHL Stanley Cup Finals - NICHT im CLAUDE.md-Scope (nur Fussball + NBA). MLB Regular Season - NICHT im Scope. FIFA Club World Cup 2026 (startet ggf. spaeter Juni in USA) - falls Klubmannschaften europaeisch dabei: separat zu pruefen wenn Termine veroeffentlicht; aktuell KEIN Termin im Di-Mi-Horizont. === REGEL-ANWENDBARKEIT HEUTE: 2:0-Insurance-Regel (gilt NUR BL+CL Fussball-Sieg-Tipps) -> heute NICHT anwendbar mangels Fussball-Slate. Einwechslungs-Boost-Regel (Fussball-Torschuetzen-Maerkte) -> heute NICHT anwendbar. NBA-Markt-Whitelist (Moneyline, Spread, U/O Total, Spieler-Punkte, Double-Double, Triple-Double, Meiste Punkte, Serien-Wetten, Quartal-Wetten) -> heute NICHT relevant mangels NBA-Spiel im Horizont. NBA-Markt-Blacklist VERBOTEN in DE (PRA-Kombos, Punkte+Assists, Punkte+Rebounds, Einzel-Assists/Rebounds/Steals/Blocks, Einzelne 3er-Wuerfe) -> heute irrelevant. === Kasse-Stand 04.05.2026: 550 EUR -> Stufe 1 (Aufbau-Phase) aktiv (Kasse < 1000 EUR), konservative Einsaetze gemaess CLAUDE.md (heute irrelevant da keine Tipps moeglich). Stufe-2-Trigger (Kasse >= 1000 EUR + 30d-ROI > +5%) noch nicht erreicht. === Markt-Bluter laut data/markt_bluter.json: heute irrelevant (keine Tipps). Goldgruben laut data/markt_goldgruben.json: Doppelte Chance 1X (84.6% / +9.5%), Doppelte Chance X2 (77.8% / +9.4%), Unter 2.5 Tore (66.7% / +27.5%), Torschuetzen Jederzeit (50% / +24.4%) - alle Fussball-Maerkte, heute irrelevant mangels Spiele. === EMPFEHLUNG AN TIPPS-ROUTINE 13:30 HEUTE: 0 In-Scope-Spiele verfuegbar im Di-Mi-Horizont. Tipps-Routine soll Slot als Leer-Slot markieren (Modus 'kein_spiel' oder Hinweis-Dossier ohne tipps[]). spiele[] = leer, einzeltipps[] = leer, kombis[] = leer. Lessons_angewandt darf G3-Resultat-Lessons-Update enthalten (Lesson 02.05 jetzt 2/3 in Finals - Edge geringer). Footer + Spielerschutz-Hinweis BZgA 0800 1372700 weiterhin Pflicht. Naechster realistischer Tipps-Slot: Mittwoch 10.06 13:30 fuer NBA Finals G4 SAS @ NYK (Tip-Off Do 11.06 02:30 Berlin Madison Square Garden, NYK Heim, Serien-Stand 2-1 NYK fuehrt). === Mittwoch-Recherche-Slot 10.06 10:30 muss G3-Box-Score-Detail (Spieler-Stats, Foul-Statistik, 3P%-Splits, Bench-Beitrag, Min-Verteilung Wemby/Brunson/KAT) vollstaendig verifizieren vor G4-Tipps-Empfehlung. === APIs alle live abgefragt 09.06.2026 13:30 Berlin, keine Cache-Daten verwendet. NIE Spielernamen erfunden (heute ohnehin keine Spieler-Recherche noetig mangels In-Scope-Spielen). POSITION-Genauigkeit irrelevant heute (Hojlund-Bug-Schutz nicht aktiv).",
+  "spiele": [],
+  "leerschlag_metadata": {
+    "geprueft_apis": [
+      {
+        "api": "football-data.org v4 /v4/matches?dateFrom=2026-06-09&dateTo=2026-06-11 (global)",
+        "datum": "Di 09.06 + Mi 10.06 + Do 11.06",
+        "treffer_gesamt": 0,
+        "treffer_in_scope": 0,
+        "treffer_detail": "0 Spiele weltweit in In-Scope-Wettbewerben im Range - alle Top-5-Klub-Ligen in Sommerpause, alle Domestic-Cup-Finals + alle UEFA-Klub-Wettbewerbs-Finals abgeschlossen vor 31.05.2026",
+        "http_status": "200 OK"
+      },
+      {
+        "api": "football-data.org v4 /v4/competitions/<comp>/matches Range 09.06-16.06 (BL1, PL, PD, SA, FL1, CL einzeln abgefragt)",
+        "treffer_pro_comp": {"BL1": 0, "PL": 0, "PD": 0, "SA": 0, "FL1": 0, "CL": 0, "EL": "kein Endpoint-Output = 0"},
+        "status": "0 In-Scope-Fussball-Spiele in den naechsten 7 Tagen ueber alle In-Scope-Comps - Saisons 2025-26 sind komplett beendet, naechste Saison-Auftakte: PL 22.08.2026, BL 28.08.2026"
+      },
+      {
+        "api": "football-data.org v4 /v4/matches?dateFrom=2026-06-09&dateTo=2026-06-16 (global, erweitert)",
+        "treffer_gesamt": 15,
+        "treffer_in_scope": 0,
+        "treffer_detail": "Alle 15 Treffer im Wettbewerb 'WC' (FIFA WM 2026, beginnend Do 11.06 19:00 UTC mit Mexico vs South Africa) - NICHT im CLAUDE.md-Scope (nur europ. Top-5-Klub-Ligen + DFB-Pokal + Coppa Italia + CL/EL/Conference). Erste 15 WM-Spiele: Mexico-South Africa, South Korea-Czechia, Canada-Bosnia-Herzegovina, United States-Paraguay, Qatar-Switzerland, Brazil-Morocco, Haiti-Scotland, Australia-Turkey, Germany-Curacao (Sa 14.06 17:00 UTC), Netherlands-Japan, Ivory Coast-Ecuador, Sweden-Tunisia, Spain-Cape Verde Islands, Belgium-Egypt, Saudi Arabia-Uruguay.",
+        "http_status": "200 OK"
+      },
+      {
+        "api": "balldontlie.io v1 /v1/games?dates[]=2026-06-09",
+        "datum": "Di 09.06 (US-Datumsformat)",
+        "treffer": 0,
+        "status": "0 NBA-Spiele am US-Datum 09.06.2026 - zwischen G3 (08.06 abend US = 09.06 02:30 Berlin) und G4 (10.06 abend US = 11.06 02:30 Berlin) ist 1 Tag Pause planmaessig"
+      },
+      {
+        "api": "balldontlie.io v1 /v1/games?dates[]=2026-06-10",
+        "datum": "Mi 10.06 (US-Datumsformat)",
+        "treffer": 1,
+        "treffer_detail": "1 NBA-Spiel = NBA Finals G4: SAS @ NYK, balldontlie game_id=21716137, datetime=2026-06-11T00:30:00Z UTC = 11.06 02:30 Berlin Madison Square Garden NYK Heim - faellt in Mittwoch-Tipps-Slot 10.06 13:30 (NICHT in heutigen Di-Mi-Horizont). Postseason=true, status=scheduled.",
+        "http_status": "200 OK"
+      },
+      {
+        "api": "balldontlie.io v1 /v1/games?dates[]=2026-06-08 (Rueck-Verifikation G3-Final)",
+        "datum": "Mo 08.06 (US-Datumsformat = G3-Spieldatum)",
+        "treffer": 1,
+        "treffer_detail": "G3 Final: NYK Heim 111 (Q1=22, Q2=42, Q3=27, Q4=20) vs SAS Auswaerts 115 (Q1=33, Q2=24, Q3=35, Q4=23). Total=226. SAS Bench in_bonus=true und 1 Timeout uebrig, NYK Heim 0 Timeouts uebrig - klassisches enges Endspiel. balldontlie game_id=21716136, status=Final, period=4 (kein OT).",
+        "http_status": "200 OK"
+      }
+    ],
+    "nba_finals_kontext_serien_stand_2_1_nyk": {
+      "endstand_g1": "NYK 105-95 SAS auswaerts (Mi 03.06 abend US = Do 04.06 02:30 Berlin Frost Bank Center San Antonio)",
+      "endstand_g2": "NYK 105-104 SAS auswaerts (Fr 05.06 abend US = Sa 06.06 02:30 Berlin Frost Bank Center San Antonio - Wemby verschoss offenen 20-Fuss-Wurf 2.0 Sek vor Schluss)",
+      "endstand_g3": "SAS 115-111 NYK in NYC (Mo 08.06 abend US = Di 09.06 02:30 Berlin Madison Square Garden New York - erster Spurs-Sieg Serie, NYK-Heimplatz-Niederlage)",
+      "serien_stand_aktuell": "NYK fuehrt 2-1 in Best of 7 (Serie verlaengert, kein NYK-Sweep mehr moeglich; Mindest-Verbleibend G4 + ggf. G5/G6/G7)",
+      "naechste_spiele": {
+        "g4": "Mi 10.06 8:30 PM ET = Do 11.06 02:30 Berlin Madison Square Garden NYK Heim",
+        "g5_falls_noetig": "Fr 12.06 oder Sa 13.06 abend US - genauer Termin via NBA.com Schedule pre-Mittwoch zu verifizieren; SAS-Heim Frost Bank Center San Antonio (falls Serie noch laeuft)",
+        "g6_falls_noetig": "So 14.06 oder Mo 15.06 abend US - NYK Heim MSG",
+        "g7_falls_noetig": "Di 16.06 oder Mi 17.06 abend US - SAS Heim Frost Bank Center San Antonio (Best-of-7 maximaler Pfad)"
+      },
+      "g3_key_takeaways": [
+        "SAS-Bounce-Back funktionierte trotz 2-0-Rueckstand-Druck und Auswaerts-Setup",
+        "NYK Q2-Explosion (42 Pkt im 2. Viertel) reichte nicht - Q3-SAS-Antwort 35:27 entscheidend",
+        "NYK 13-Spiele-Playoff-Siegesserie ENDET in G3 - keine aktiv laengste NBA-Postseason-2026-Streak mehr fuer NYK",
+        "Total 226 Pkt = HOEHER als G1 (200) und G2 (209) - MSG-Heim-Setup brachte mehr Tempo trotz Defensive-Erwartung",
+        "Lesson 02.05 NBA-Decider-Defensiv-These erste MISS in 2026-Finals (2/3 Track-Record jetzt)",
+        "Spieler-Stat-Detail (Wemby/Brunson/KAT/Castle/Harper/Hart Box-Score-Pkt/Reb/Ast/FG%/3P%) muss Mittwoch-Recherche-Slot via balldontlie /v1/box_scores oder NBA.com/ESPN-Recap verifizieren - heute (Di) NICHT verifiziert um keine Spieler-Stats zu erfinden"
+      ],
+      "lesson_02_05_status_update_kritisch": "VOR G3 war Lesson 02.05 NBA-Decider-Defensiv-These 2/2 HIT in 2026-Finals (G1: 200<218.5, G2: 209<214.5). NACH G3: 2/3 HIT (G3: 226>216.5 = MISS). Diese Korrektur muss in Mittwoch-Tipps-Routine fuer G4 explizit beruecksichtigt werden - Lesson-Konfidenz von 100% auf 67% reduziert, Edge fuer Unter-Linien deutlich geringer, koennte sogar VALUE auf Ueber-Linien indizieren wenn Markt G4-Linie wieder unter G3-Niveau setzt.",
+      "fuer_mittwoch_tipps_routine": "G4-Tipps-Slot Mi 10.06 13:30: Recherche-Cloud-Routine Mi 10:30 muss G3-Box-Score-Detail vollstaendig verifizieren (Spieler-Stats, Foul-Statistik, 3P%-Splits, Bench-Beitrag, Min-Verteilung Wemby/Brunson/KAT/Castle/Harper, Verletzungs-Updates, Lineup-Adjustments). NYK-Heim-Vorteil G4 weiter (zweites Heim-Spiel in Folge), Serien-Stand 2-1 = SAS hat Druck (3-1-Rueckstand statt 2-2-Egalitaet als Differenzial), NYK kann mit G4-Sieg auf 3-1 zur Match-Point-Position springen oder mit Niederlage auf 2-2 in Best-of-3 zurueckfallen. Lesson Hebel B (NBA-Playoffs-Decider/Finals): Max-Bewertung VALUE, kein SAFE-Status fuer Hauptlinien."
+    },
+    "ausserhalb_scope_aber_geprueft": [
+      "FIFA WM 2026 (startet Do 11.06.2026 Mexico vs South Africa 19:00 UTC = 21:00 Berlin, USA/Kanada/Mexiko-Co-Hosts) - NICHT im CLAUDE.md-Scope (nur europaeische Vereins-Top-5 + DFB-Pokal + Coppa Italia + CL/EL/Conference)",
+      "FIFA WM 2026 Vorbereitungs-Friendlies (laufen aktuell global) - NICHT im CLAUDE.md-Scope (Verein-Wetten only)",
+      "UEFA Frauen-EM-Qualifikation (Juni 2026 Phase) - NICHT im Scope",
+      "Brasileirao Serie A (laeuft Juni 2026) - NICHT im CLAUDE.md-Scope",
+      "MLS Regular Season (laeuft Sommer 2026) - NICHT im Scope (nur NBA aus US-Sport)",
+      "WNBA Regular Season (laeuft Sommer 2026) - NICHT im Scope",
+      "2.Bundesliga / Promotion-Playoffs - NICHT im Scope (nur 1.BL)",
+      "Frauen-Bundesliga / Frauen-CL - NICHT im Scope",
+      "FIFA Club World Cup 2026 (startet ggf. spaeter Juni in USA) - Termin im Di-Mi-Horizont nicht vorhanden",
+      "NHL Stanley Cup Finals (laeuft Juni 2026) - NICHT im CLAUDE.md-Scope (nur Fussball + NBA)",
+      "MLB Regular Season (laeuft Sommer 2026) - NICHT im Scope",
+      "Formel 1 (Grand Prix Canada 14.06.2026 ggf.) - NICHT im Scope",
+      "Tennis (Saison laeuft) - NICHT im CLAUDE.md-Scope"
+    ],
+    "naechstes_relevantes_in_scope_spiel_nach_g3": {
+      "datum": "2026-06-10 (US-ECT) / 2026-06-11 02:30 Berlin",
+      "events": [
+        {
+          "wettbewerb": "NBA Finals Spiel 4",
+          "match": "San Antonio Spurs @ New York Knicks",
+          "ort": "Madison Square Garden, New York City, NY",
+          "anstoss_us_zeit": "Wednesday 8:30 PM ET 10.06.2026",
+          "anstoss_berlin": "02:30 Berlin Do 11.06.2026",
+          "uebertragung_us": "ABC",
+          "serien_kontext": "NYK fuehrt 2-1 nach G3-Niederlage zuhause. G4 zweites Heimspiel in Folge fuer Knicks - bei NYK-Sieg = 3-1 Match-Point-Position; bei NYK-Niederlage = 2-2 Best-of-3-Reset.",
+          "datenbasis_id_via_balldontlie": 21716137,
+          "hinweis_fuer_mittwoch_recherche": "Mittwoch-Recherche-Cloud-Routine 10.06 10:30 muss vollstaendige G3-Box-Score-Verifikation (Wemby/Brunson/KAT/Castle/Harper/Hart Spieler-Stats - heute NICHT verifiziert um Erfindungen zu vermeiden) + G4-Aggregator-Quoten + Injury-Reports aktualisieren."
+        }
+      ]
+    },
+    "korrekturen_zu_vorheriger_recherche": [
+      {
+        "betrifft_file": "data/recherche/2026-06-08.json",
+        "betrifft_feld": "spiele[0].playoff_record_bisher.nyk_streak_aktuell",
+        "alte_aussage": "13-Spiele-Playoff-Siegesserie aktiv (laengste aktive Streak der NBA-Postseason 2026)",
+        "neue_aussage": "13-Spiele-Playoff-Siegesserie ENDETE in G3 (08.06 abend US) durch 111-115-Heim-Niederlage gegen SAS - Streak nicht mehr aktiv nach 09.06.2026.",
+        "validierung_via": [
+          "https://api.balldontlie.io/v1/games?dates[]=2026-06-08 (status=Final, NYK 111 < SAS 115)"
+        ],
+        "auswirkung_auf_naechste_tipps_routine": "Mittwoch-Tipps-Routine darf NICHT mehr mit '13-Spiele-Streak'-Argument fuer NYK-ML/Spread arbeiten - Streak gebrochen, Streak-Argument hinfaellig fuer G4."
+      },
+      {
+        "betrifft_file": "data/recherche/2026-06-08.json",
+        "betrifft_feld": "spiele[0].news_kompakt (NBA-Finals-0-2-Heim-Heim-Historik)",
+        "alte_aussage": "In NBA-Finals nach 0-2-Heim-Heim ist 0% historisch (kein Team Champion geworden) - massive Statistik-Last fuer Spurs.",
+        "neue_aussage": "Statistik bleibt korrekt fuer 0-2-Stand, ist aber nach G3-Spurs-Sieg nicht mehr relevant fuer aktuelle Serie - Stand jetzt 2-1, andere Historik-Pools (Best-of-7 nach 2-1-Stand) anwendbar. Mittwoch-Recherche muss neue Stat-Pool-Referenzen pruefen.",
+        "auswirkung_auf_naechste_tipps_routine": "Stat-Argument-Pool fuer G4 von '0-2-Comeback-Historik' auf '2-1-Serien-Historik' wechseln. Best-of-7 mit 2-1-Stand: das fuehrende Team gewinnt historisch ca 70% der Serien (3-0-Sweep-Vermeidung durch unterlegene Seite reduziert nicht das Champion-Risiko des Underdogs signifikant)."
+      },
+      {
+        "betrifft_file": "data/recherche/2026-06-08.json (Lesson 02.05 NBA-Decider-Defensiv-These)",
+        "alte_aussage": "Lesson 02.05 hat sich in G1+G2 zweifach bestaetigt (G1-Total 200 < 218.5, G2-Total 209 < 214.5). Bleibt valides Modell fuer G3 als VALUE/WACKEL-Bewertung Unter 216.5.",
+        "neue_aussage": "Lesson 02.05 G3-Anwendung MISS (G3-Total 226 > 216.5 = Ueber gewann). Track-Record 2026-Finals jetzt 2/3 (66.7%). Konfidenz reduziert.",
+        "auswirkung_auf_naechste_tipps_routine": "Mittwoch-Tipps-Routine fuer G4 muss Lesson 02.05 mit niedrigerer Konfidenz anwenden. Falls Markt G4-Linie wieder Richtung 216.5 setzt, ist weniger Edge auf Unter-Seite; ggf. Aequilibrium oder VALUE auf Ueber wenn MSG-Tempo-Setup G3 als Indikator fuer hoehere Totals interpretiert wird. Lesson_angewandt[] in G4-Tipps muss Track-Record explizit erwaehnen (2/3 statt 2/2)."
+      }
+    ],
+    "hinweis_an_tipps_routine": "0 In-Scope-Spiele verfuegbar im Di-Mi-Horizont 09.06 13:30 -> 10.06 13:30. Tipps-Routine soll Slot als Leer-Slot markieren: spiele[]=leer, einzeltipps[]=leer, kombis[]=leer. Lessons_angewandt darf G3-Resultat-Update + Streak-Ende-Korrektur enthalten als Hinweis fuer Mittwoch-Routine. Footer + BZgA-Spielerschutz 0800 1372700 Pflicht. Naechster realistischer Tipps-Slot Mittwoch 10.06 13:30 fuer NBA Finals G4 SAS @ NYK (Tip-Off Do 11.06 02:30 Berlin Madison Square Garden, NYK Heim, Stand 2-1 NYK fuehrt). KEINE Tipps generieren wenn keine Spiele vorhanden - Konsistenz mit 2026-06-07-Leer-Slot-Logik.",
+    "live_api_zeitstempel": "2026-06-09T13:30:00+02:00 (alle APIs frisch abgefragt 13:30 Berlin: football-data.org Global-Endpoint + 6 In-Scope-Comp-Endpoints + balldontlie 09.06+10.06+08.06-Rueck-Verifikation, keine Cache-Daten verwendet)"
+  },
+  "footer": {
+    "rechtlich": "18+ - bet365 DE - Hobby-Wetten - keine Einkommensquelle",
+    "spielerschutz": "BZgA: 0800 1372700",
+    "quelle_recherche": "football-data.org v4 (Free Tier, HTTP 200 OK + count=0 fuer Global Range 09.06-11.06 und alle In-Scope-Comps Range 09.06-16.06; extended Global-Range 09.06-16.06 zeigt 15 Treffer ausschliesslich im FIFA-WM-Wettbewerb = NICHT im Scope), balldontlie.io v1 (Free, 0 Spiele 09.06 US, 1 Spiel 10.06 US = G4 SAS @ NYK Tip-Off Do 11.06 02:30 Berlin = ausserhalb Di-Mi-Horizont, Rueck-Verifikation 08.06-G3-Final-Status SAS 115-111 NYK Total 226), Aggregator-Quoten heute NICHT abgefragt mangels In-Scope-Spiel im Horizont (Mittwoch-Recherche-Slot 10.06 10:30 wird G4-Quoten via FanDuel/DraftKings/Odds Shark/CBS Sports/Yahoo Sports vollstaendig vorbereiten). NIE Spielernamen erfunden. POSITION-Genauigkeit heute irrelevant (kein Spieler-Recherche-Bedarf). Hojlund-Bug-Schutz heute NICHT anwendbar. Alle Daten live abgefragt 09.06.2026 13:30 Berlin, keine Cache-Daten verwendet."
+  }
+}
