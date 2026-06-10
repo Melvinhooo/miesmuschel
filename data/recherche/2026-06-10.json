@@ -2,7 +2,7 @@
   "datum": "2026-06-10",
   "erstellt_am": "2026-06-10T13:55:00+02:00",
   "modus": "tag",
-  "hinweis": "Recherche-Daten Mittwoch 10.06.2026 (Mo-Fr-Variante, Pre-Tipps-Datenbasis fuer Tipps-Slot 13:30 Berlin; Recherche-Cloud-Routine). === HEUTE-HORIZONT (Tipps-Slot Mi 10.06 13:30 -> Do 11.06 13:30): 1 In-Scope-Event terminiert = NBA Finals G4 SAS @ NYK, Tip-Off Mi 10.06 8:30 PM ET = Do 11.06 02:30 Berlin Madison Square Garden, NYK Heim. Stand 2-1 NYK fuehrt nach G3-Heim-Niederlage 111-115. KEIN Fussball-Spiel in-scope (BL, PL, LaLiga, Serie A, Ligue 1, CL, EL, DFB-Pokal, Coppa Italia, Conference alle in Sommerpause - alle Klub-Saisons 2025-26 beendet, DFB-Pokal-Finale war Sa 23.05.2026 Bayern 3-0 Stuttgart, Coppa-Italia-Finale war 13.05.2026 Lazio vs Inter, CL-Final war 30.05.2026 PSG-Arsenal i.E. 4-3, EL/Conference-Finals waren Ende Mai abgeschlossen). FIFA WM 2026 (startet Do 11.06 19:00 UTC Mexico-South Africa) ist NICHT im CLAUDE.md-Scope (nur europ. Klub-Wettbewerbe + DFB-Pokal + Coppa Italia + NBA aus US-Sport). === NBA G4-Datenbasis: balldontlie /v1/games?dates[]=2026-06-10 = 1 Treffer game_id=21716137, status=scheduled (period=0), postseason=true, datetime=2026-06-11T00:30:00Z UTC. Heim=NYK (id=20, conf=East), Auswaerts=SAS (id=27, conf=West). === G3-RESULT-VERIFIKATION (Rueck-Check vor G4-Aggregat-Analyse): balldontlie /v1/games?dates[]=2026-06-08 game_id=21716136 status=Final period=4 -> NYK Heim 111 (Q1=22, Q2=42, Q3=27, Q4=20) vs SAS Auswaerts 115 (Q1=33, Q2=24, Q3=35, Q4=23) Total 226. NYK 0 Timeouts Schluss, SAS 1 Timeout uebrig, SAS in_bonus=true. balldontlie /v1/stats sowie /v1/box_scores Endpoints liefern Unauthorized fuer Free Tier - Box-Score-Player-Stats via NBA.com/ESPN/Bleacher Report verifiziert (siehe spiele[0].g3_box_score). === G3 KEY-PLAYER-STATS (verifiziert via NBA.com Recap + Bleacher Report + ESPN Recap, alle live abgerufen 10.06.2026 13:30 Berlin): SAS - Wembanyama 32 Pkt (11-18 FG), 8 Reb, 6 Ast, 3 Blk, 1 TO; Castle 23 Pkt (8-14 FG), 5 Reb, 5 Ast, 1 Stl, 1 Blk; De'Aaron Fox 12 Pkt, 3 Reb, 8 Ast; Dylan Harper 13 Pkt, 9 Reb, 4 Ast (Spurs-Rookie #2, NBA All-Rookie First Team); Julian Champagnie 12 Pkt (Bench). NYK - Brunson 32 Pkt (11-25 FG, ineffizient), 5 Reb, 5 Ast; Anunoby 28 Pkt (9-13 FG, hocheffizient); Hart 16 Pkt, 9 Reb, 5 Ast; Towns 11 Pkt (4-10 FG), 8 Reb. Team-Level: SAS FT-Vorteil 2. Halbzeit 24:8 (Mike Brown kritisierte Pfeifenfolge oeffentlich); Total 226 = OVER auf Linie 216.5/218.5 = HIT. === LESSON 02.05 NBA-DECIDER-DEFENSIV-THESE TRACK-RECORD-UPDATE NACH G3: G1 Total 200 (Linie 218.5 -> Unter HIT), G2 Total 209 (Linie 214.5 -> Unter HIT), G3 Total 226 (Linie 216.5 -> Unter MISS, Ueber HIT). Aktueller 2026-Finals-Track-Record Lesson 02.05: 2/3 = 66.7% HIT-Rate. Mittwoch-Tipps-Routine MUSS Lesson mit niedrigerer Konfidenz anwenden, G4 nicht blind als Unter-Tipp setzen - MSG-Heim-Tempo G3 koennte Indikator fuer hoehere Totals sein, falls G4 ebenfalls hochskorend wird. Lesson Hebel B (NBA-Playoffs-Decider/Finals) bleibt valides Bewertungs-Framework, aber Edge auf Unter-Seite deutlich geringer als noch vor G3 angenommen. === G4-AGGREGATOR-QUOTEN (gesammelt 10.06 13:45 Berlin via FanDuel via OddsShark, CBS Sports SportsLine, DraftKings, TotalProSports, Yardbarker, FanDuel Research, Dimers - decimal-konvertiert, bet365-DE-Live-Pruefung Pflicht): KONSENS-LINIE FanDuel: NYK Spread -1.5 @ 1.85 (-118 US), SAS Spread +1.5 @ 1.96 (-104 US); NYK ML @ 1.76 (-132 US), SAS ML @ 2.12 (+112 US); Total 216.5 - Ueber @ 1.89 (-112 US), Unter @ 1.93 (-108 US). DraftKings Opening (vor 10.06): NYK -1.5 @ 1.91 ca., NYK ML 1.80 (-125 US), SAS ML 2.05 (+105 US), Total 215.5. Yardbarker-Snapshot: NYK Spread -2.5, NYK ML 1.71 (-140 US), SAS ML 2.20 (+120 US), Total 215.5. SportsLine-Modell-Empfehlung: UNTER 215.5 mit 55% Sim-Rate. Spread-Range: NYK -1.5 bis -2.5; Total-Range: 215.5 bis 216.5; NYK ML-Range: 1.71-1.80; SAS ML-Range: 2.05-2.20. === G4 PLAYER-PROPS (gesammelt via Dimers + FanDuel Research, Stand 10.06 13:30): WHITELIST-ERLAUBT-DE: Anunoby Punkte UEBER 16.5 @ 2.00 (+100 US, Dimers-Edge 6.2%), Brunson Punkte (trend: 29.5 Pkt+Reb-OVER 7-aus-9-Heimspiele, Punkt-Linie hier nicht direkt notiert - bet365-Live-Pruefung Pflicht). Spread/Total/ML wie oben. Spieler-Punkte erlaubt fuer Wemby/Brunson/Castle/Towns/Anunoby/Hart/Bridges/Harper/Fox. Quartal-Wetten erlaubt (Q1/Q2/Q3/Q4 U/O, Halbzeit U/O). BLACKLIST-VERBOTEN-DE (NIE empfehlen, Dimers-Liste enthielt diese - werden in Recherche dokumentiert aber Tipps-Routine MUSS sie filtern): KAT Rebounds Ueber 11.5 @ 2.08 = VERBOTEN (Einzel-Rebound-Prop), Wembanyama Steals Ueber 1.5 @ 2.68 = VERBOTEN (Einzel-Steals), Bridges Steals Ueber 1.5 @ 2.78 = VERBOTEN, Castle Steals Unter 0.5 @ 2.77 = VERBOTEN, Vassell Steals Unter 0.5 @ 2.71 = VERBOTEN, Fox Steals Unter 0.5 @ 2.78 = VERBOTEN, Wemby Reb-Prop Unter 11.5 @ 1.88 (-114 US) = VERBOTEN (Einzel-Rebound), PRA-Kombos generell VERBOTEN. === DOUBLE-DOUBLE / TRIPLE-DOUBLE / MEISTE-PUNKTE-MAERKTE erlaubt-DE: konkrete bet365-Linien nicht via Aggregator gefunden, Tipps-Routine muss vor Tipp-Setzen bet365-DE live nachpruefen. Wemby = klarer DD-Favorit (32-8-6 G3, 29.0 Pkt-Schnitt Serie); Hart = DD-Kandidat (9 Reb G3, fr. Hartwerk-DD's haeufig); Towns = DD-Kandidat (11-8 G3); Brunson + Wemby = Co-Favoriten Meiste-Punkte. === VERLETZUNGEN G4 (verifiziert via Yardbarker, Basketnews, SI Game-Preview, Stand 10.06 13:30 Berlin): SAS = David Jones Garcia (G-League-Two-Way) OUT (nicht relevant fuer Rotation). NYK = Mitchell Robinson PROBABLE (Fraktur Metacarpal rechte Hand, spielte G1 13 Min 2 Pkt 6 Reb, blieb durchgehend auf Injury-Report aber spielfaehig). Alle Stamm-Rotationsspieler beider Teams verfuegbar - kein Star-OUT-Risiko fuer G4 dokumentiert. === SAISON-KONTEXT-ANALOG NBA G4: Parallele Wettbewerbe = entfaellt (NBA Finals ist letzte Serie der Saison fuer beide). Saisonziel = Beide kaempfen um NBA-Championship; Serie 2-1 NYK, G4 NYK-Heim = wenn Sieg dann 3-1 Match-Point-Position, wenn Niederlage dann 2-2 Best-of-3-Reset zurueck nach San Antonio (G5 + ggf. G7 in SAS). Motivations-Asymmetrie = SAS unter Druck (3-1-Rueckstand statt 2-2-Egalitaet als Differenzial), aber Spurs Bounce-Back-Spirit nach G3-MSG-Sieg (Coach-Mike-Brown-FT-Disparity-Kritik = mentaler Trigger NYK Antwort). NYK Heim-Vorteil zweites Spiel in Folge MSG. Recovery = 1 Tag Pause beide (G3 Mo 08.06 abend US -> G4 Mi 10.06 abend US), kein Reise-Differenzial (beide bereits in NYC); SAS-Bench in_bonus=true Schluss G3 = leichte Fouls-Belastung-Last in G4. === BEST-OF-7-2-1-STAND-HISTORIK: Best-of-7 NBA Finals seit 2003 mit 2-1-Stand: fuehrendes Team gewinnt ca. 70-75% der Serien (Champions League-Analogie). Road-Team in G4 mit 2-1-Rueckstand zurueck auf Auswaerts-Bahn seit 2013: 4-0 SU + ATS laut OddsShark-Trend (kleine Sample-Groesse). NYK-Heimplatz-Vorteil nach G3-Heim-Niederlage MSG = psychologisch wackeliger als zuvor angenommen. === REGEL-ANWENDBARKEIT G4: 2:0-Insurance-Regel (gilt NUR BL+CL Fussball-Sieg-Tipps) -> NICHT anwendbar (NBA). Einwechslungs-Boost-Regel (Fussball-Torschuetzen) -> NICHT anwendbar (NBA). NBA-Markt-Whitelist aktiv: ML, Spread, Spiel-U/O, Halbzeit-U/O, Quartal-U/O, Spieler-Punkte, DD, TD, Meiste-Punkte, Serien-Wetten. NBA-Markt-Blacklist STRENG: Einzel-Assists/Rebounds/Steals/Blocks/Turnovers, PRA-Kombos, Pkt+Ast / Pkt+Reb-Kombi-Stats, Einzelne 3er-Wuerfe - Tipps-Routine MUSS diese hart filtern. === Kasse-Stand 04.05.2026: 550 EUR -> Stufe 1 (Aufbau-Phase) aktiv (Kasse < 1000 EUR), konservative Einsaetze: Einzel SAFE/VALUE 1-2% = 5.50-11 EUR, Wackel-Einzel 0.5% = 2.75 EUR, Kombi-Safe 2% = 11 EUR. Stufe-2-Trigger (Kasse >= 1000 EUR + 30d-ROI > +5%) noch nicht erreicht. === Markt-Bluter (data/markt_bluter.json - Tipps-Routine soll auf NBA-Maerkten checken bevor SAFE/VALUE-Setzen). Goldgruben (data/markt_goldgruben.json) sind Fussball-fokussiert (Doppelte Chance 1X/X2, Unter 2.5 Tore, Torschuetzen-Jederzeit) - heute NICHT relevant da NBA. === EMPFEHLUNG AN TIPPS-ROUTINE 13:30 HEUTE: 1 In-Scope-Spiel = NBA Finals G4 SAS @ NYK. Tipps-Routine soll Spiel als einziges Spiel im Slot fuehren, Tipps generieren entlang NBA-Whitelist, Blacklist strikt filtern, Lesson 02.05 mit Track-Record-Update 2/3 anwenden (NICHT mehr blind als Unter-SAFE klassifizieren, eher VALUE/WACKEL je nach Linie - falls Markt-Linie 215.5 oder tiefer = ggf. Ueber-VALUE wegen MSG-Tempo-Bias; falls Markt-Linie 216.5+ = Unter-WACKEL bleibt diskutabel aber konservativer als G1+G2). Kein SAFE-Status auf Hauptlinien (Spread / Total) ohne klare Edge. Footer + BZgA-Spielerschutz 0800 1372700 Pflicht. === APIs alle live abgefragt 10.06.2026 13:30 Berlin, keine Cache-Daten verwendet. NIE Spielernamen erfunden (NBA-Rosters via offizielle NBA.com / ESPN / Bleacher Report verifiziert). POSITION-Genauigkeit eingehalten (Wemby C/F, Brunson PG, KAT C/F, Fox G, Castle G, Harper G Rookie, Anunoby F, Hart G/F, Bridges F/G, Robinson C - keine Hojlund-Bug-Fehlattribute). KEINE Tipps generiert - reine Datensammlung.",
+  "hinweis": "Recherche-Daten Mittwoch 10.06.2026 (Mo-Fr-Variante, Pre-Tipps-Datenbasis fuer Tipps-Slot 13:30 Berlin; Recherche-Cloud-Routine - 2. Lauf 17:30 Berlin mit WM-Eroeffnung-Korrektur). === SCOPE-KORREKTUR HEUTE 17:30: CLAUDE.md wurde 10.06.2026 aktualisiert (Aktive Sportarten Stand 10.06.2026): FIFA WM 2026 ist JETZT in-scope (jedes einzelne Spiel wird analysiert, 11.06.-19.07.2026, 104 Spiele). Vereins-Fussball pausiert bis August 2026. NBA Finals 2026 weiter in-scope. === HORIZONT 2. LAUF: Pre-Tipps-Vorbereitung fuer Do 11.06.2026 13:30-Tipps-Slot. In-Scope Events Do 11.06 = WM-Eroeffnungsspiel Mexiko vs Suedafrika (Do 11.06 21:00 Berlin = 13:00 CDT Mexico-Stadt = 19:00 UTC, Estadio Azteca) + NBA Finals G4 SAS @ NYK (Do 11.06 02:30 Berlin Madison Square Garden). spiele[1] = WM-Eroeffnung neu ergaenzt mit kompletter Squad-Verifikation + Quoten + Spielort-Faktor. === HEUTE-HORIZONT URSPRUENGLICH (Tipps-Slot Mi 10.06 13:30 -> Do 11.06 13:30, vor Scope-Update): 1 In-Scope-Event terminiert = NBA Finals G4 SAS @ NYK, Tip-Off Mi 10.06 8:30 PM ET = Do 11.06 02:30 Berlin Madison Square Garden, NYK Heim. Stand 2-1 NYK fuehrt nach G3-Heim-Niederlage 111-115. KEIN Fussball-Spiel in-scope (BL, PL, LaLiga, Serie A, Ligue 1, CL, EL, DFB-Pokal, Coppa Italia, Conference alle in Sommerpause - alle Klub-Saisons 2025-26 beendet, DFB-Pokal-Finale war Sa 23.05.2026 Bayern 3-0 Stuttgart, Coppa-Italia-Finale war 13.05.2026 Lazio vs Inter, CL-Final war 30.05.2026 PSG-Arsenal i.E. 4-3, EL/Conference-Finals waren Ende Mai abgeschlossen). FIFA WM 2026 (startet Do 11.06 19:00 UTC Mexico-South Africa) ist NICHT im CLAUDE.md-Scope (nur europ. Klub-Wettbewerbe + DFB-Pokal + Coppa Italia + NBA aus US-Sport). === NBA G4-Datenbasis: balldontlie /v1/games?dates[]=2026-06-10 = 1 Treffer game_id=21716137, status=scheduled (period=0), postseason=true, datetime=2026-06-11T00:30:00Z UTC. Heim=NYK (id=20, conf=East), Auswaerts=SAS (id=27, conf=West). === G3-RESULT-VERIFIKATION (Rueck-Check vor G4-Aggregat-Analyse): balldontlie /v1/games?dates[]=2026-06-08 game_id=21716136 status=Final period=4 -> NYK Heim 111 (Q1=22, Q2=42, Q3=27, Q4=20) vs SAS Auswaerts 115 (Q1=33, Q2=24, Q3=35, Q4=23) Total 226. NYK 0 Timeouts Schluss, SAS 1 Timeout uebrig, SAS in_bonus=true. balldontlie /v1/stats sowie /v1/box_scores Endpoints liefern Unauthorized fuer Free Tier - Box-Score-Player-Stats via NBA.com/ESPN/Bleacher Report verifiziert (siehe spiele[0].g3_box_score). === G3 KEY-PLAYER-STATS (verifiziert via NBA.com Recap + Bleacher Report + ESPN Recap, alle live abgerufen 10.06.2026 13:30 Berlin): SAS - Wembanyama 32 Pkt (11-18 FG), 8 Reb, 6 Ast, 3 Blk, 1 TO; Castle 23 Pkt (8-14 FG), 5 Reb, 5 Ast, 1 Stl, 1 Blk; De'Aaron Fox 12 Pkt, 3 Reb, 8 Ast; Dylan Harper 13 Pkt, 9 Reb, 4 Ast (Spurs-Rookie #2, NBA All-Rookie First Team); Julian Champagnie 12 Pkt (Bench). NYK - Brunson 32 Pkt (11-25 FG, ineffizient), 5 Reb, 5 Ast; Anunoby 28 Pkt (9-13 FG, hocheffizient); Hart 16 Pkt, 9 Reb, 5 Ast; Towns 11 Pkt (4-10 FG), 8 Reb. Team-Level: SAS FT-Vorteil 2. Halbzeit 24:8 (Mike Brown kritisierte Pfeifenfolge oeffentlich); Total 226 = OVER auf Linie 216.5/218.5 = HIT. === LESSON 02.05 NBA-DECIDER-DEFENSIV-THESE TRACK-RECORD-UPDATE NACH G3: G1 Total 200 (Linie 218.5 -> Unter HIT), G2 Total 209 (Linie 214.5 -> Unter HIT), G3 Total 226 (Linie 216.5 -> Unter MISS, Ueber HIT). Aktueller 2026-Finals-Track-Record Lesson 02.05: 2/3 = 66.7% HIT-Rate. Mittwoch-Tipps-Routine MUSS Lesson mit niedrigerer Konfidenz anwenden, G4 nicht blind als Unter-Tipp setzen - MSG-Heim-Tempo G3 koennte Indikator fuer hoehere Totals sein, falls G4 ebenfalls hochskorend wird. Lesson Hebel B (NBA-Playoffs-Decider/Finals) bleibt valides Bewertungs-Framework, aber Edge auf Unter-Seite deutlich geringer als noch vor G3 angenommen. === G4-AGGREGATOR-QUOTEN (gesammelt 10.06 13:45 Berlin via FanDuel via OddsShark, CBS Sports SportsLine, DraftKings, TotalProSports, Yardbarker, FanDuel Research, Dimers - decimal-konvertiert, bet365-DE-Live-Pruefung Pflicht): KONSENS-LINIE FanDuel: NYK Spread -1.5 @ 1.85 (-118 US), SAS Spread +1.5 @ 1.96 (-104 US); NYK ML @ 1.76 (-132 US), SAS ML @ 2.12 (+112 US); Total 216.5 - Ueber @ 1.89 (-112 US), Unter @ 1.93 (-108 US). DraftKings Opening (vor 10.06): NYK -1.5 @ 1.91 ca., NYK ML 1.80 (-125 US), SAS ML 2.05 (+105 US), Total 215.5. Yardbarker-Snapshot: NYK Spread -2.5, NYK ML 1.71 (-140 US), SAS ML 2.20 (+120 US), Total 215.5. SportsLine-Modell-Empfehlung: UNTER 215.5 mit 55% Sim-Rate. Spread-Range: NYK -1.5 bis -2.5; Total-Range: 215.5 bis 216.5; NYK ML-Range: 1.71-1.80; SAS ML-Range: 2.05-2.20. === G4 PLAYER-PROPS (gesammelt via Dimers + FanDuel Research, Stand 10.06 13:30): WHITELIST-ERLAUBT-DE: Anunoby Punkte UEBER 16.5 @ 2.00 (+100 US, Dimers-Edge 6.2%), Brunson Punkte (trend: 29.5 Pkt+Reb-OVER 7-aus-9-Heimspiele, Punkt-Linie hier nicht direkt notiert - bet365-Live-Pruefung Pflicht). Spread/Total/ML wie oben. Spieler-Punkte erlaubt fuer Wemby/Brunson/Castle/Towns/Anunoby/Hart/Bridges/Harper/Fox. Quartal-Wetten erlaubt (Q1/Q2/Q3/Q4 U/O, Halbzeit U/O). BLACKLIST-VERBOTEN-DE (NIE empfehlen, Dimers-Liste enthielt diese - werden in Recherche dokumentiert aber Tipps-Routine MUSS sie filtern): KAT Rebounds Ueber 11.5 @ 2.08 = VERBOTEN (Einzel-Rebound-Prop), Wembanyama Steals Ueber 1.5 @ 2.68 = VERBOTEN (Einzel-Steals), Bridges Steals Ueber 1.5 @ 2.78 = VERBOTEN, Castle Steals Unter 0.5 @ 2.77 = VERBOTEN, Vassell Steals Unter 0.5 @ 2.71 = VERBOTEN, Fox Steals Unter 0.5 @ 2.78 = VERBOTEN, Wemby Reb-Prop Unter 11.5 @ 1.88 (-114 US) = VERBOTEN (Einzel-Rebound), PRA-Kombos generell VERBOTEN. === DOUBLE-DOUBLE / TRIPLE-DOUBLE / MEISTE-PUNKTE-MAERKTE erlaubt-DE: konkrete bet365-Linien nicht via Aggregator gefunden, Tipps-Routine muss vor Tipp-Setzen bet365-DE live nachpruefen. Wemby = klarer DD-Favorit (32-8-6 G3, 29.0 Pkt-Schnitt Serie); Hart = DD-Kandidat (9 Reb G3, fr. Hartwerk-DD's haeufig); Towns = DD-Kandidat (11-8 G3); Brunson + Wemby = Co-Favoriten Meiste-Punkte. === VERLETZUNGEN G4 (verifiziert via Yardbarker, Basketnews, SI Game-Preview, Stand 10.06 13:30 Berlin): SAS = David Jones Garcia (G-League-Two-Way) OUT (nicht relevant fuer Rotation). NYK = Mitchell Robinson PROBABLE (Fraktur Metacarpal rechte Hand, spielte G1 13 Min 2 Pkt 6 Reb, blieb durchgehend auf Injury-Report aber spielfaehig). Alle Stamm-Rotationsspieler beider Teams verfuegbar - kein Star-OUT-Risiko fuer G4 dokumentiert. === SAISON-KONTEXT-ANALOG NBA G4: Parallele Wettbewerbe = entfaellt (NBA Finals ist letzte Serie der Saison fuer beide). Saisonziel = Beide kaempfen um NBA-Championship; Serie 2-1 NYK, G4 NYK-Heim = wenn Sieg dann 3-1 Match-Point-Position, wenn Niederlage dann 2-2 Best-of-3-Reset zurueck nach San Antonio (G5 + ggf. G7 in SAS). Motivations-Asymmetrie = SAS unter Druck (3-1-Rueckstand statt 2-2-Egalitaet als Differenzial), aber Spurs Bounce-Back-Spirit nach G3-MSG-Sieg (Coach-Mike-Brown-FT-Disparity-Kritik = mentaler Trigger NYK Antwort). NYK Heim-Vorteil zweites Spiel in Folge MSG. Recovery = 1 Tag Pause beide (G3 Mo 08.06 abend US -> G4 Mi 10.06 abend US), kein Reise-Differenzial (beide bereits in NYC); SAS-Bench in_bonus=true Schluss G3 = leichte Fouls-Belastung-Last in G4. === BEST-OF-7-2-1-STAND-HISTORIK: Best-of-7 NBA Finals seit 2003 mit 2-1-Stand: fuehrendes Team gewinnt ca. 70-75% der Serien (Champions League-Analogie). Road-Team in G4 mit 2-1-Rueckstand zurueck auf Auswaerts-Bahn seit 2013: 4-0 SU + ATS laut OddsShark-Trend (kleine Sample-Groesse). NYK-Heimplatz-Vorteil nach G3-Heim-Niederlage MSG = psychologisch wackeliger als zuvor angenommen. === REGEL-ANWENDBARKEIT G4: 2:0-Insurance-Regel (gilt NUR BL+CL Fussball-Sieg-Tipps) -> NICHT anwendbar (NBA). Einwechslungs-Boost-Regel (Fussball-Torschuetzen) -> NICHT anwendbar (NBA). NBA-Markt-Whitelist aktiv: ML, Spread, Spiel-U/O, Halbzeit-U/O, Quartal-U/O, Spieler-Punkte, DD, TD, Meiste-Punkte, Serien-Wetten. NBA-Markt-Blacklist STRENG: Einzel-Assists/Rebounds/Steals/Blocks/Turnovers, PRA-Kombos, Pkt+Ast / Pkt+Reb-Kombi-Stats, Einzelne 3er-Wuerfe - Tipps-Routine MUSS diese hart filtern. === Kasse-Stand 04.05.2026: 550 EUR -> Stufe 1 (Aufbau-Phase) aktiv (Kasse < 1000 EUR), konservative Einsaetze: Einzel SAFE/VALUE 1-2% = 5.50-11 EUR, Wackel-Einzel 0.5% = 2.75 EUR, Kombi-Safe 2% = 11 EUR. Stufe-2-Trigger (Kasse >= 1000 EUR + 30d-ROI > +5%) noch nicht erreicht. === Markt-Bluter (data/markt_bluter.json - Tipps-Routine soll auf NBA-Maerkten checken bevor SAFE/VALUE-Setzen). Goldgruben (data/markt_goldgruben.json) sind Fussball-fokussiert (Doppelte Chance 1X/X2, Unter 2.5 Tore, Torschuetzen-Jederzeit) - heute NICHT relevant da NBA. === EMPFEHLUNG AN TIPPS-ROUTINE 13:30 HEUTE: 1 In-Scope-Spiel = NBA Finals G4 SAS @ NYK. Tipps-Routine soll Spiel als einziges Spiel im Slot fuehren, Tipps generieren entlang NBA-Whitelist, Blacklist strikt filtern, Lesson 02.05 mit Track-Record-Update 2/3 anwenden (NICHT mehr blind als Unter-SAFE klassifizieren, eher VALUE/WACKEL je nach Linie - falls Markt-Linie 215.5 oder tiefer = ggf. Ueber-VALUE wegen MSG-Tempo-Bias; falls Markt-Linie 216.5+ = Unter-WACKEL bleibt diskutabel aber konservativer als G1+G2). Kein SAFE-Status auf Hauptlinien (Spread / Total) ohne klare Edge. Footer + BZgA-Spielerschutz 0800 1372700 Pflicht. === APIs alle live abgefragt 10.06.2026 13:30 Berlin, keine Cache-Daten verwendet. NIE Spielernamen erfunden (NBA-Rosters via offizielle NBA.com / ESPN / Bleacher Report verifiziert). POSITION-Genauigkeit eingehalten (Wemby C/F, Brunson PG, KAT C/F, Fox G, Castle G, Harper G Rookie, Anunoby F, Hart G/F, Bridges F/G, Robinson C - keine Hojlund-Bug-Fehlattribute). KEINE Tipps generiert - reine Datensammlung.",
   "spiele": [
     {
       "id": "2026-06-10-sas-nyk",
@@ -264,6 +264,493 @@
         "https://www.si.com/nba/finals/notable-knicks-spurs-injuries-monitor",
         "https://www.yardbarker.com/nba/articles/spurs_vs_knicks_game_4_2026_nba_finals_preview_odds_and_injury_updates_june_10/s1_17759_43935628"
       ]
+    },
+    {
+      "id": "2026-06-11-mex-saf",
+      "wettbewerb": "FIFA WM 2026",
+      "liga": "WM 2026 Gruppenphase Spieltag 1 - Gruppe A - Eroeffnungsspiel",
+      "turnier_phase": "Gruppenphase Spieltag 1",
+      "gruppe": "A",
+      "wettbewerb_kontext": "ERSTES Spiel der FIFA WM 2026 (offizielle Eroeffnung), Mexiko Co-Gastgeber, im legendaeren Estadio Azteca Mexico-Stadt. Letzte Begegnung beider Teams: WM 2010 Eroeffnungsspiel in Suedafrika (1:1) - erste Wiederholung eines Eroeffnungsspiel-Duells in WM-Geschichte (exakt 16 Jahre spaeter).",
+      "heim": "Mexiko",
+      "gast": "Suedafrika",
+      "anstoss_us_zeit": "Thursday 11.06.2026 3:00 PM ET / 2:00 PM CT / 12:00 PM PT",
+      "anstoss_lokal_mexico_stadt": "13:00 CST (Mexico-Stadt UTC-6, kein DST)",
+      "anstoss_utc": "2026-06-11T19:00:00Z",
+      "anstoss_berlin": "2026-06-11T21:00:00+02:00",
+      "stadion": "Estadio Azteca, Mexico-Stadt, Mexiko",
+      "uebertragung_us": "FOX, Telemundo, Fubo",
+      "uebertragung_de": "via MagentaTV (komplette WM-Rechte 2026 in DE) + ARD/ZDF (Auswahl-Spiele)",
+      "fifa_match_id_url": "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021443",
+      "spielort_faktor": {
+        "stadt": "Mexico-Stadt",
+        "land": "Mexiko",
+        "hoehe_m": 2240,
+        "kapazitaet": 87000,
+        "klima_anstoss": "Mexico-Stadt Juni 13:00 lokal: ca. 22-25 Grad, Regenzeit (Nachmittag-Gewitter moeglich), Luftfeuchtigkeit ca. 50-65%",
+        "lokal_faktor": "Mexico Heim-Atmosphaere komplett (Estadio Azteca = mexikanische Fussball-Kathedrale). Suedafrika hat KEINEN signifikanten Auswaerts-Anhang in Mexico-Stadt. 87.000 Kapazitaet erwartet ausverkauft.",
+        "implikationen": [
+          "Hoehen-Faktor 2240m extrem: Konditions-Schwaeche bei Teams ohne Akklimatisation ab Min 60-70 typisch, Tempo gesamtes Spiel niedriger als europ. Liga-Schnitt",
+          "Suedafrika spielt zwar nicht auf Hoehe in der heimischen PSL, aber Johannesburg liegt auf 1750m -> Bafana Bafana hat partielle Hoehen-Toleranz, weniger als reine Tieflandteams",
+          "Mexiko mit kompletter Heim-Hoehen-Toleranz (Liga MX-Stamm) = Konditions-Vorteil 2. Halbzeit signifikant",
+          "Tempo-Bias: Hoehe + Hitze + Eroeffnungs-Druck = eher taktisches Spiel, Ueber-Tore-Markt vorsichtig",
+          "Set-Piece-Markt bekommt Gewicht bei niedrigem Spieltempo"
+        ],
+        "quelle_stadion": "data/wm_2026.json (lokales Referenz-File) + https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/mexico-aztec-stadium-2026"
+      },
+      "squad_heim_mexiko_kerngeruest": [
+        {
+          "name": "Guillermo Ochoa",
+          "position": "TW",
+          "alter": 40,
+          "verein": "AEL Limassol (Zypern)",
+          "rolle": "Backup-TW / Erfahrungs-Senior, geht in REKORD-6. WM (gemeinsam mit Messi+Ronaldo), Status fuer XI unklar - in der Praxis bevorzugt Aguirre juengeren Rangel im Tor laut Yahoo-Predicted-Lineup; CBS-Variante zeigt Ochoa im Tor",
+          "verifiziert_via": "https://www.espn.com/soccer/story/_/id/48924377/mexico-2026-world-cup-squad-guillermo-ochoa"
+        },
+        {
+          "name": "Raul Rangel",
+          "position": "TW",
+          "alter": 26,
+          "verein": "Guadalajara (Chivas)",
+          "rolle": "Stamm-Torwart laut CBS-Predicted-XI, vermutlich Starter Eroeffnung",
+          "verifiziert_via": "https://worldcuppass.com/mexico-world-cup-squad-2026/"
+        },
+        {
+          "name": "Edson Alvarez",
+          "position": "DM",
+          "alter": 28,
+          "nummer": "Kapitaen",
+          "verein": "Fenerbahce (Tuerkei)",
+          "rolle": "Kapitaen, Anker im DM, Stamm-Starter",
+          "verifiziert_via": "https://worldcuppass.com/mexico-world-cup-squad-2026/"
+        },
+        {
+          "name": "Cesar Montes",
+          "position": "IV",
+          "alter": 29,
+          "verein": "Lokomotiv Moskau (Russland)",
+          "rolle": "Stamm-IV, GEFAEHRLICH bei Standards - schoss beim 2025 CONCACAF Gold Cup 3 Tore alle aus Ecken (75% Kopfball-Duell-Quote)",
+          "set_piece_threat": true,
+          "anytime_scorer_odds_aggregator": "10/1 (decimal 11.00) laut bet365 News US",
+          "verifiziert_via": "https://theanalyst.com/articles/mexico-vs-south-africa-prediction-world-cup-2026-match-preview"
+        },
+        {
+          "name": "Johan Vasquez",
+          "position": "IV",
+          "alter": 27,
+          "verein": "Genoa (Serie A)",
+          "rolle": "Stamm-IV neben Montes, Europa-Erfahrung Serie A",
+          "verifiziert_via": "https://worldcuppass.com/mexico-world-cup-squad-2026/"
+        },
+        {
+          "name": "Jesus Gallardo",
+          "position": "LV",
+          "alter": 31,
+          "verein": "Toluca (Liga MX)",
+          "rolle": "Stamm-LV",
+          "verifiziert_via": "https://worldcuppass.com/mexico-world-cup-squad-2026/"
+        },
+        {
+          "name": "Jorge Sanchez",
+          "position": "RV",
+          "alter": 28,
+          "verein": "PAOK (Griechenland)",
+          "rolle": "Stamm-RV, alternativ Israel Reyes",
+          "verifiziert_via": "https://worldcuppass.com/mexico-world-cup-squad-2026/"
+        },
+        {
+          "name": "Erik Lira",
+          "position": "DM/ZM",
+          "alter": 26,
+          "verein": "Cruz Azul (Liga MX)",
+          "rolle": "Zentrum, neben/hinter Alvarez",
+          "verifiziert_via": "https://worldcuppass.com/mexico-world-cup-squad-2026/"
+        },
+        {
+          "name": "Alvaro Fidalgo",
+          "position": "ZM/OM",
+          "alter": 28,
+          "verein": "Real Betis (LaLiga) - in Saison 25/26 von Club America wechselte er nach Real Betis (Verifikation pro Saison-Tor-Bilanz nochmal noetig)",
+          "rolle": "Kreativ-8er",
+          "verifiziert_via": "https://worldcuppass.com/mexico-world-cup-squad-2026/"
+        },
+        {
+          "name": "Luis Romo",
+          "position": "ZM",
+          "alter": 31,
+          "verein": "Guadalajara",
+          "rolle": "Erfahrener Mittelfeld-Allrounder",
+          "verifiziert_via": "https://worldcuppass.com/mexico-world-cup-squad-2026/"
+        },
+        {
+          "name": "Orbelin Pineda",
+          "position": "OM",
+          "alter": 30,
+          "verein": "AEK Athen (Griechenland)",
+          "rolle": "Offensive Optionen Zentrum/Halbraum",
+          "verifiziert_via": "https://worldcuppass.com/mexico-world-cup-squad-2026/"
+        },
+        {
+          "name": "Gilberto Mora",
+          "position": "OM",
+          "alter": 17,
+          "verein": "Club Tijuana (Liga MX)",
+          "rolle": "Youngster (17!), 'bright young hope' laut FIFA-Squad-Bericht, vermutlich Bench/Joker",
+          "verifiziert_via": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/mexico-squad-announced"
+        },
+        {
+          "name": "Raul Jimenez",
+          "position": "ST",
+          "alter": 35,
+          "verein": "Fulham (Premier League)",
+          "rolle": "STAMM-NEUNER, fuehrt Mexiko-Angriff, traf 5:1 im Test gegen Serbien zuletzt - LEADING-CANDIDATE-Torjaeger Eroeffnung, hat allerdings in 3 vorherigen WMs NIE gestartet (Statistik)",
+          "anytime_scorer_odds_aggregator": "+150 US (decimal 2.50) DraftKings - 'highest probability scorer this fixture' laut bet365 News US",
+          "verifiziert_via": "https://www.olympics.com/en/news/2026-fifa-world-cup-football-teams-squads-players-complete-list"
+        },
+        {
+          "name": "Santiago Gimenez",
+          "position": "ST",
+          "alter": 24,
+          "verein": "AC Milan (Serie A)",
+          "rolle": "Stuermer-Alternative, juenger, Top-Liga-Form",
+          "verifiziert_via": "https://worldcuppass.com/mexico-world-cup-squad-2026/"
+        },
+        {
+          "name": "Julian Quinones",
+          "position": "ST/RF",
+          "alter": 29,
+          "verein": "Al-Qadisiyah (Saudi)",
+          "rolle": "Stuermer-Alternative / Fluegel, 'solid' Form laut CBS",
+          "verifiziert_via": "https://worldcuppass.com/mexico-world-cup-squad-2026/"
+        },
+        {
+          "name": "Alexis Vega",
+          "position": "LF/OM",
+          "alter": 28,
+          "verein": "Toluca (Liga MX)",
+          "rolle": "'all but guaranteed to start on the left wing' laut Recherche-Quellen",
+          "verifiziert_via": "https://www.si.com/soccer/mexico-predicted-lineup-vs-south-africa-world-cup-6-11-26"
+        },
+        {
+          "name": "Roberto Alvarado",
+          "position": "RF/LF",
+          "alter": 27,
+          "verein": "Guadalajara",
+          "rolle": "Fluegel-Alternative, Stamm-Spieler",
+          "verifiziert_via": "https://worldcuppass.com/mexico-world-cup-squad-2026/"
+        },
+        {
+          "name": "Cesar Huerta",
+          "position": "LF",
+          "alter": 26,
+          "verein": "Anderlecht (Belgien)",
+          "rolle": "Fluegel-Alternative",
+          "verifiziert_via": "https://worldcuppass.com/mexico-world-cup-squad-2026/"
+        },
+        {
+          "name": "Bryan Gutierrez",
+          "position": "ZM/OM",
+          "alter": 22,
+          "verein": "Guadalajara",
+          "rolle": "Mittelfeld-Option, juenger",
+          "verifiziert_via": "https://worldcuppass.com/mexico-world-cup-squad-2026/"
+        }
+      ],
+      "squad_gast_suedafrika_kerngeruest": [
+        {
+          "name": "Ronwen Williams",
+          "position": "TW",
+          "nummer": "Kapitaen",
+          "verein": "Mamelodi Sundowns (PSL)",
+          "rolle": "KAPITAEN, 62 Laenderspiele = meist von gesamtem Kader, Stamm-Torwart",
+          "verifiziert_via": "https://www.fourfourtwo.com/team/south-africa-world-cup-2026-squad"
+        },
+        {
+          "name": "Lyle Foster",
+          "position": "ST",
+          "alter": 25,
+          "verein": "Burnley (England Championship)",
+          "rolle": "Hauptstuermer Bafana, EINZIGER Europa-Stuermer im Kader, 10 Tore in 26 Laenderspielen = produktivster SA-Stuermer aktuell",
+          "verifiziert_via": "https://www.dailymaverick.co.za/article/2026-05-27-here-they-are-the-26-players-representing-sa-at-the-world-cup/"
+        },
+        {
+          "name": "Oswin Appollis",
+          "position": "OM/LF",
+          "verein": "Orlando Pirates (PSL)",
+          "rolle": "TOP-KREATIVKRAFT - in WM-Quali doppelt so viele Torbeteiligungen wie jeder andere SA-Spieler (6 = 2 Tore + 4 Vorlagen)",
+          "verifiziert_via": "https://theanalyst.com/articles/mexico-vs-south-africa-prediction-world-cup-2026-match-preview"
+        },
+        {
+          "name": "Relebohile Mofokeng",
+          "position": "OM/W",
+          "alter": 21,
+          "verein": "Orlando Pirates (PSL)",
+          "rolle": "Youngster, 'einer der spannendsten Spieler im afrikanischen Fussball', Tempo + 1-vs-1-Wille",
+          "verifiziert_via": "https://worldcuppass.com/south-africa-world-cup-squad-2026/"
+        },
+        {
+          "name": "Teboho Mokoena",
+          "position": "ZM/DM",
+          "verein": "Mamelodi Sundowns",
+          "rolle": "Mittelfeld-Stamm, Sundowns-Stammspieler",
+          "verifiziert_via": "https://worldcuppass.com/south-africa-world-cup-squad-2026/"
+        },
+        {
+          "name": "Thalente Mbatha",
+          "position": "DM/ZM",
+          "verein": "Orlando Pirates",
+          "rolle": "Mittelfeld-Stamm",
+          "verifiziert_via": "https://worldcuppass.com/south-africa-world-cup-squad-2026/"
+        },
+        {
+          "name": "Themba Zwane",
+          "position": "OM",
+          "verein": "Mamelodi Sundowns",
+          "rolle": "Erfahrener OM",
+          "verifiziert_via": "https://worldcuppass.com/south-africa-world-cup-squad-2026/"
+        },
+        {
+          "name": "Aubrey Modiba",
+          "position": "LV",
+          "verein": "Mamelodi Sundowns",
+          "rolle": "Stamm-LV",
+          "verifiziert_via": "https://worldcuppass.com/south-africa-world-cup-squad-2026/"
+        },
+        {
+          "name": "Khuliso Mudau",
+          "position": "RV",
+          "verein": "Mamelodi Sundowns",
+          "rolle": "Stamm-RV",
+          "verifiziert_via": "https://worldcuppass.com/south-africa-world-cup-squad-2026/"
+        },
+        {
+          "name": "Ime Okon",
+          "position": "IV",
+          "verein": "Hannover 96 (2. Bundesliga DE)",
+          "rolle": "Stamm-IV, Europa-Erfahrung Deutschland",
+          "verifiziert_via": "https://worldcuppass.com/south-africa-world-cup-squad-2026/"
+        },
+        {
+          "name": "Mbekezeli Mbokazi",
+          "position": "IV",
+          "verein": "Chicago Fire (MLS USA)",
+          "rolle": "Stamm-IV, juenger, MLS-Erfahrung",
+          "verifiziert_via": "https://worldcuppass.com/south-africa-world-cup-squad-2026/"
+        },
+        {
+          "name": "Tshepang Moremi",
+          "position": "ST/LF",
+          "verein": "Orlando Pirates",
+          "rolle": "Sturm-Alternative",
+          "verifiziert_via": "https://worldcuppass.com/south-africa-world-cup-squad-2026/"
+        },
+        {
+          "name": "Iqraam Rayners",
+          "position": "ST",
+          "verein": "Mamelodi Sundowns",
+          "rolle": "Sturm-Alternative",
+          "verifiziert_via": "https://worldcuppass.com/south-africa-world-cup-squad-2026/"
+        },
+        {
+          "name": "Evidence Makgopa",
+          "position": "ST",
+          "verein": "Orlando Pirates",
+          "rolle": "Sturm-Alternative",
+          "verifiziert_via": "https://worldcuppass.com/south-africa-world-cup-squad-2026/"
+        },
+        {
+          "name": "Thapelo Maseko",
+          "position": "ST",
+          "verein": "AEL Limassol (Zypern)",
+          "rolle": "Sturm-Alternative, Europa-Erfahrung Zypern",
+          "verifiziert_via": "https://worldcuppass.com/south-africa-world-cup-squad-2026/"
+        }
+      ],
+      "kader_zusammensetzung_kontext": {
+        "mexiko": "26er-Kader (3 GK / 6 DEF / 9 MID / 8 FWD). Mix aus Liga-MX-Heim-Kern + Europa-Veteranen. Ochoa = REKORD 6. WM (gleichauf mit Messi + Ronaldo).",
+        "suedafrika": "26er-Kader. 19 PSL-Heim-Spieler, 5 Europa-Spieler (Foster Burnley, Sithole Tondela, Kabini Molde, Okon Hannover 96, Maseko AEL Limassol), 2 USA (Makhanya Philadelphia Union, Mbokazi Chicago Fire). Mamelodi Sundowns + Orlando Pirates stellen je 8 Spieler = 16 von 26 (61.5% aus 2 Vereinen)."
+      },
+      "predicted_starting_xi": {
+        "mexiko_cbs_variante": "Rangel (TW); Reyes, Montes, Vasquez, Gallardo (4-Abwehr); Lira, Alvarado, Gutierrez, Fidalgo, Quinones (5-Mittelfeld/-Fluegel offensiv); Jimenez (ST) - 4-2-3-1 oder 4-5-1, Quelle CBS Sports",
+        "mexiko_yahoo_variante": "Ochoa (TW); J.Sanchez, J.Vasquez, E.Alvarez(c), J.Gallardo (4-Abwehr - Alvarez als IV statt DM); Pineda, Romo, Lira (3-Mittelfeld); Alvarado, Jimenez, Vega (Sturm-Trio) - 4-3-3, Quelle Yahoo",
+        "hinweis_unterschied": "Schluessel-Unterschiede: 1) Ochoa vs Rangel im Tor (CBS = Rangel, Yahoo = Ochoa). 2) Alvarez als DM (CBS) vs IV (Yahoo). Tipps-Routine MUSS bet365-XI-Bestaetigung VOR Tipp-Setzen abwarten falls verfuegbar.",
+        "suedafrika_cbs_variante": "Williams (TW, c); Mudau, Okon, Mbokazi, Modiba (4-Abwehr); Mbatha, Mokoena (2-DM); Appollis, Mofokeng, Moremi (3-OM/Fluegel); Foster (ST) - 4-2-3-1, Quelle CBS Sports"
+      },
+      "injuries_heim_mexiko": [
+        {"name": "Henry Martin", "status": "OUT", "diagnose": "Verletzung, nicht in 26er-Kader", "auswirkung": "Sturm-Tiefe geschwaecht, Jimenez+Gimenez+Quinones bleiben Hauptsturm", "quelle": "https://hooligan-soccer.com/mexico-announces-squad-for-the-2026-world-cup/"},
+        {"name": "Luis Angel Malagon", "status": "OUT", "diagnose": "Verletzung", "auswirkung": "TW-Tiefe reduziert", "quelle": "https://hooligan-soccer.com/mexico-announces-squad-for-the-2026-world-cup/"},
+        {"name": "Rodrigo Huescas", "status": "OUT", "diagnose": "Verletzung", "auswirkung": "Aussenverteidigung-Tiefe reduziert", "quelle": "https://hooligan-soccer.com/mexico-announces-squad-for-the-2026-world-cup/"},
+        {"name": "Hirving Lozano", "status": "NICHT IM KADER", "diagnose": "Disziplinarische Fragen + reduzierte Spielzeit San Diego FC (MLS)", "auswirkung": "Linksflanke ohne Top-Star - Vega + Huerta uebernehmen", "quelle": "https://hooligan-soccer.com/mexico-announces-squad-for-the-2026-world-cup/"},
+        {"name": "German Berterame (Inter Miami)", "status": "NICHT IM KADER", "diagnose": "Spaete Trainer-Entscheidung", "auswirkung": "n/a (war nicht Stamm)", "quelle": "https://hooligan-soccer.com/mexico-announces-squad-for-the-2026-world-cup/"}
+      ],
+      "injuries_gast_suedafrika": [
+        {"name": "keine bestaetigten Star-Ausfaelle Stand 10.06 17:30 Berlin", "status": "ALLE FIT", "auswirkung": "26er-Kader vollstaendig verfuegbar laut SAFA-Bestaetigung 27.05.2026 + keine Nachmeldungen seither", "quelle": "https://www.safa.net/general-news/broos-names-final-bafana-squad-for-the-2026-fifa-world-cup/"}
+      ],
+      "sperren_heim_gast": "Gelb-Sperren ZAEHLEN nicht im Eroeffnungs-Spiel (Spieltag 1). Erste WM-2026-Karten beginnen mit diesem Spiel. Verfall-Regel FIFA: Gelb verfaellt nach Viertelfinale.",
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM exklusiv (Liga MX-Saison-Pause fuer WM, CONCACAF-Spielzeit pausiert)",
+        "gast": "keine - WM exklusiv (PSL-Saison 25/26 endete bereits, Sundowns + Pirates haben Saison-Ende)",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/schedule",
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/south-africa-hugo-broos-squad-announced"
+        ]
+      },
+      "saisonziel_heim": "WM-Eroeffnung als Gastgeber, Gruppe A Sieg = Pflicht (Quali Runde der 32 / Achtelfinale ueber Top-2 + 8 beste Gruppen-Dritte). Mexiko-Drittland-Hoffnung Vize-Welt + Halbfinale (laut Aguirre-Statements).",
+      "saisonziel_gast": "Gruppen-Phase ueberstehen = Top 2 Gruppe A oder als 1 der 8 besten Gruppen-Dritten. SA war nur 3 vorherige WMs dabei und NIE ueber Gruppen-Phase hinaus. Broos verlaesst Bafana nach Turnier (Abschieds-Turnier)",
+      "tabellenstand_gruppe": {
+        "spieltag": 1,
+        "stand": "Eroeffnungs-Spieltag, 0-0-0 fuer alle 4 Gruppe-A-Teams (Mexiko, Suedafrika, Suedkorea, Tschechien)",
+        "naechste_gruppen_spiele": "Suedkorea vs Tschechien Sa 13.06 (TBD-Stadion via fifa.com)"
+      },
+      "form_heim_mexiko_letzte_5": "Letztes Test-Spiel vor WM: Mexiko 5-1 Serbien (06.06.2026) - Jimenez traf, Volltreffer-Generalprobe; weitere Form-Daten via Recherche-Routine 2. WM-Spielday verfeinern",
+      "form_gast_suedafrika_letzte_5": "Letztes Test-Spiel vor WM: SA vs Nicaragua (Freitag 05.06.2026, Ergebnis via SAFA verifizieren). WM-Quali-Schlussphase Anfang 2026 erfolgreich abgeschlossen.",
+      "recovery_heim": "Mexiko: ~5 Tage seit 5-1-Serbien-Test (06.06 -> 11.06), gute Akklimatisation in Mexico-Stadt-Hoehe (Heim), volle Recovery",
+      "recovery_gast": "Suedafrika: ~6 Tage seit Nicaragua-Test (05.06 -> 11.06), reiste in US-Vorbereitungs-Camp vor WM ein, KEINE Akklimatisation an Mexico-Stadt-Hoehe 2240m = Konditions-Risiko 2. HZ",
+      "vereins_belastung_heim": "Mexiko-Stamm zu ueberwiegend aus Liga MX (Heim-Liga endete Mai 2026) + Europa-Spieler aus Saisons mit unterschiedlicher Intensitaet (Jimenez Fulham PL = 38 Spiele + Cups, Vasquez Genoa Serie A, Fidalgo Real Betis LaLiga). Gemischtes Belastungs-Profil.",
+      "vereins_belastung_gast": "SA-Stamm zu 19/26 PSL (Liga endete Mai 2026, kein Cup-Marathon zugleich), 5 Europa-Spieler mit gemischter Belastung (Foster Burnley Championship: 46+ Spiele moeglich = hochbelastet; Okon Hannover 96 2.BL = ca. 34 Spiele moderat).",
+      "pre_wm_test_spiele": [
+        "Mexiko 5-1 Serbien (06.06.2026, Test-Spiel) - Jimenez traf, klare Form-Demonstration vor Eroeffnung",
+        "Suedafrika vs Nicaragua (05.06.2026 oder 06.06.2026 lt. SAFA-Plan, Ergebnis pre-Eroeffnung verifizieren)"
+      ],
+      "quoten": {
+        "bet365_us_konsens": {
+          "ml_heim_mexiko": 1.48,
+          "draw": 4.33,
+          "ml_gast_suedafrika": 6.50,
+          "btts_ja": 2.15,
+          "btts_nein": 1.70,
+          "unter_2_5": 1.85,
+          "hinweis_us_format": "Mexiko -209 / Draw +333 / SA +550; BTTS Yes +115 / BTTS No -142; Unter 2.5 -118",
+          "quelle": "https://news.bet365.com/en-us/article/world-cup-mexico-south-africa-prediction-best-bets/2026060917245121702"
+        },
+        "draftkings": {
+          "ml_heim_mexiko": 1.42,
+          "draw": 4.60,
+          "ml_gast_suedafrika": 8.00,
+          "ueber_2_5": 2.15,
+          "unter_2_5": 1.69,
+          "hinweis_us_format": "Mexiko -240 / Draw +360 / SA +700; Ueber 2.5 +115 / Unter 2.5 -145",
+          "quelle": "https://www.oddsshark.com/soccer/world-cup/mexico-south-africa-odds-picks-2026"
+        },
+        "fanduel": {
+          "ml_heim_mexiko": 1.40,
+          "draw": 4.50,
+          "ml_gast_suedafrika": 9.00,
+          "hinweis_us_format": "Mexiko -250 / Draw +350 / SA +800",
+          "quelle": "https://www.cbssports.com/soccer/news/mexico-vs-south-africa-preview-live-stream-how-to-watch-world-cup-predictions-odds-lineups/"
+        },
+        "range_zusammenfassung": {
+          "mex_ml_decimal_range": "1.40 - 1.48 (bet365 oben)",
+          "draw_decimal_range": "4.33 - 4.60",
+          "sa_ml_decimal_range": "6.50 - 9.00 (bet365 KONSERVATIVER bei 6.50)",
+          "ueber_2_5_decimal_range": "ca. 2.15 (DK)",
+          "unter_2_5_decimal_range": "1.69 - 1.85",
+          "btts_ja_decimal_range": "ca. 2.15 (bet365)",
+          "btts_nein_decimal_range": "ca. 1.70 (bet365)",
+          "doppelte_chance_1x_decimal": "ca. 1.10-1.12 (Berechnung aus 1+X impliziert)",
+          "doppelte_chance_x2_decimal": "ca. 2.50-2.80 (Berechnung aus X+2 impliziert)",
+          "hinweis_kritisch": "bet365-DE-Live-Pruefung Pflicht VOR Tipp-Setzen - Quoten koennen abweichen, EU-Margen typischerweise niedriger. Ueber 2.5-Quote via bet365 hier NICHT direkt aggregiert - live abrufen."
+        },
+        "torschuetzen_anytime": [
+          {"player": "Raul Jimenez (MEX)", "odds_decimal": 2.50, "odds_us": "+150", "begruendung": "Stamm-Stuermer, traf im Serbien-Test 5-1, hoechste Tor-Wahrscheinlichkeit des Spiels laut bet365 News US", "quelle": "https://www.oddsshark.com/soccer/world-cup/mexico-south-africa-odds-picks-2026"},
+          {"player": "Cesar Montes (MEX)", "odds_decimal": 11.00, "odds_us": "+1000", "begruendung": "IV mit Set-Piece-Threat - 3 Tore aus Ecken beim 2025 Gold Cup, 75% Kopfball-Duell-Quote", "quelle": "https://news.bet365.com/en-us/article/world-cup-mexico-south-africa-prediction-best-bets/2026060917245121702"},
+          {"player": "Santiago Gimenez (MEX)", "odds_hinweis": "Aggregator-Linie nicht direkt notiert - via bet365 live abrufen, Schaetzwert ca. 3.00-3.50", "begruendung": "Sturm-Alternative AC Milan, Joker- oder Co-Stuermer-Kandidat", "quelle": "https://worldcuppass.com/mexico-world-cup-squad-2026/"},
+          {"player": "Julian Quinones (MEX)", "odds_hinweis": "Aggregator-Linie nicht direkt notiert - via bet365 live abrufen", "begruendung": "Sturm-Alternative Saudi-Liga, 'solid form' CBS", "quelle": "https://worldcuppass.com/mexico-world-cup-squad-2026/"},
+          {"player": "Lyle Foster (RSA)", "odds_hinweis": "Aggregator-Linie nicht direkt notiert - via bet365 live abrufen, Schaetzwert ca. 5.00-6.50 als einziger SA-Top-Stuermer", "begruendung": "Bafana Hauptstuermer, 10 Tore in 26 Caps, Burnley Championship", "quelle": "https://www.fourfourtwo.com/team/south-africa-world-cup-2026-squad"},
+          {"player": "Oswin Appollis (RSA)", "odds_hinweis": "Aggregator-Linie nicht direkt notiert", "begruendung": "Top-Kreativ-Kraft Bafana mit 6 Tor-Beteiligungen WM-Quali = Geheimtipp", "quelle": "https://theanalyst.com/articles/mexico-vs-south-africa-prediction-world-cup-2026-match-preview"}
+        ]
+      },
+      "prediction_market_supercomputer": {
+        "opta_supercomputer": {
+          "mexiko_sieg_prozent": 66.3,
+          "draw_prozent": 19.4,
+          "suedafrika_sieg_prozent": 14.3,
+          "quelle": "https://theanalyst.com/articles/mexico-vs-south-africa-prediction-world-cup-2026-match-preview"
+        },
+        "prediction_market": {
+          "mexiko_sieg_prozent": 69.5,
+          "draw_prozent": 20.5,
+          "suedafrika_sieg_prozent": 10.5,
+          "quelle": "https://defirate.com/prediction-markets/world-cup-odds/mexico/"
+        },
+        "dimers_modell": {
+          "mexiko_sieg_prozent": 68.2,
+          "quelle": "https://www.dimers.com/bet-hub/swc/schedule/2026_1_mex_rsa"
+        },
+        "fair_line_synthese_3_modelle_durchschnitt": {
+          "mexiko_sieg_prozent": 68.0,
+          "draw_prozent": 19.9,
+          "suedafrika_sieg_prozent": 13.0,
+          "implizit_fair_decimal_mex": 1.47,
+          "implizit_fair_decimal_draw": 5.03,
+          "implizit_fair_decimal_sa": 7.69,
+          "edge_vergleich_bet365": "Mexiko-ML 1.48 ist nahe Fair-Line (1.47) -> KEINE Edge. SA-ML 6.50 vs Fair 7.69 -> bet365 UEBERSCHAETZT SA-Chance leicht (Edge auf Layen/Mexiko-Seite). Draw 4.33 vs Fair 5.03 -> bet365 UEBERSCHAETZT Draw-Chance leicht."
+        }
+      },
+      "news_kompakt": [
+        "WM-Eroeffnungsspiel: Mexiko (Co-Gastgeber) vs Suedafrika (Bafana Bafana), Estadio Azteca, Do 11.06.2026 21:00 Berlin (3 PM ET, 13:00 lokal)",
+        "Mexiko Stamm-Stuermer Raul Jimenez (Fulham) klarer Top-Scorer-Favorit (Anytime +150 DraftKings), traf bei 5-1 Serbien-Test, in 3 vorherigen WMs nie gestartet",
+        "Mexiko-Verletzungen: Henry Martin OUT, Lozano nicht im Kader (Disziplin), Ochoa nominiert fuer REKORD-6.-WM",
+        "Suedafrika Hauptstuermer Lyle Foster (Burnley) = 10 Tore in 26 Caps, einziger Europa-ST; Oswin Appollis (Orlando Pirates) = 6 Tor-Beteiligungen in WM-Quali",
+        "Opta-Supercomputer: Mexiko 66.3% / Draw 19.4% / SA 14.3% Win-Rate. bet365 ML: Mexiko 1.48 / Draw 4.33 / SA 6.50.",
+        "Hoehen-Faktor Estadio Azteca 2240m + Mexiko-Heim-Atmosphaere 87.000 = Konditions-Vorteil 2. HZ Mexiko, Tempo-Bias niedriger -> Ueber 2.5-Markt vorsichtig (CBS-Expert Green: Unter 2.5)",
+        "Letztes Duell beider Teams = WM-2010-Eroeffnung 1-1 in Suedafrika (genau 16 Jahre vorher) = einzigartige WM-Historie",
+        "Bafana Bafana in 9 vorherigen WM-Spielen NIE 0-0 (jedes WM-Spiel hatte mind. 1 Tor) + nur 1 Clean-Sheet historisch (1-0 vs Slowenien 2002)"
+      ],
+      "regel_anwendbarkeit_g_eroeffnung": {
+        "zwei_zu_null_insurance_regel": "JA - WM 2026 ist explizit im 2:0-Insurance-Geltungsbereich laut CLAUDE.md (BL + CL + WM 2026 fuer direkte Sieg-Tipps Heim ODER Gast). Falls Mexiko irgendwann im Spiel 2:0 fuehrt = Mexiko-Sieg-Tipp gewonnen, auch wenn Endstand spaeter dreht. Gilt NUR direkte Moneyline, NICHT DC / HC / U-O / BTTS / Genau-Ergebnis / Halbzeit-Wetten.",
+        "einwechslungs_boost_torschuetzen": "JA - falls Torschuetzen-Tipp auf einen Spieler (z.B. Jimenez) und er wird ausgewechselt, traegt der direkte Ersatzspieler dazu bei (Tor von Ersatz = Tipp gewonnen). Vorausgesetzt das Spielerwechsel-Sequenz ist eindeutig identifizierbar (Aguirre + Broos Wechsel pre-/post-game-Aufstellung verifizieren).",
+        "wm_blacklist_eroeffnung": "Halbzeit-Endstand-Kombi NIE (zu unzuverlaessig). Genaues Ergebnis NIE (Lotterie). Erster Torschuetze kritisch (Pre-WM-Daten knapp) = bestenfalls WACKEL.",
+        "wm_whitelist_eroeffnung": "1X2 / Doppelte Chance / Handicap / U-O Tore / BTTS / Halbzeit-1X2 / Anytime-Torschuetze sind erlaubt + sinnvoll",
+        "markt_goldgruben_anwendung": "data/markt_goldgruben.json zeigt Doppelte Chance 1X (84.6% Hitrate /+9.5% ROI) als Goldgrube - WM-Anwendung: Mexiko 1X (Sieg ODER Draw) bei vermutlich 1.10-1.12 Quote = SAFE-Kandidat (NICHT Tipp-Routine direkt, sondern Bewertung)"
+      },
+      "saison_kontext_wm_eroeffnung": {
+        "parallele_wettbewerbe_heim": "keine - WM exklusiv",
+        "parallele_wettbewerbe_gast": "keine - WM exklusiv",
+        "saisonziel_heim": "WM 2026 Co-Gastgeber, Eroeffnung als Statement, Aguirre Halbfinale-Ziel",
+        "saisonziel_gast": "Bafana erste K.O.-Quali ueberhaupt, Broos-Abschieds-Turnier",
+        "motivations_asymmetrie": "Beide Teams maximal motiviert - Mexiko: Heim-Druck als Co-Gastgeber muss Eroeffnung gewinnen (CBS: 'a draw won't cut it'), Suedafrika: Underdog-Bonus + erfahrener Broos-Coach + Foster-Form ergibt Trotz-Effekt. Edge marginal Mexiko durch Hoehen+Heim-Atmosphaere.",
+        "recovery_heim": "5 Tage seit 5-1 Serbien-Test, voll-akklimatisiert in Mexico-Stadt-Hoehe",
+        "recovery_gast": "6 Tage seit Nicaragua-Test, KEINE Hoehen-Akklimatisation 2240m = Konditions-Schwaeche 2. HZ erwartet",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/schedule",
+          "https://theanalyst.com/articles/mexico-vs-south-africa-prediction-world-cup-2026-match-preview",
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/mexico-squad-announced",
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/south-africa-hugo-broos-squad-announced"
+        ]
+      },
+      "quellen_aggregator": [
+        "https://news.bet365.com/en-us/article/world-cup-mexico-south-africa-prediction-best-bets/2026060917245121702",
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/mexico-v-south-africa-35035283",
+        "https://www.oddschecker.com/us/soccer/world-cup/mexico-v-south-africa",
+        "https://www.cbssports.com/soccer/news/mexico-vs-south-africa-preview-live-stream-how-to-watch-world-cup-predictions-odds-lineups/",
+        "https://www.oddsshark.com/soccer/world-cup/mexico-south-africa-odds-picks-2026",
+        "https://theanalyst.com/articles/mexico-vs-south-africa-prediction-world-cup-2026-match-preview",
+        "https://www.dimers.com/bet-hub/swc/schedule/2026_1_mex_rsa",
+        "https://defirate.com/prediction-markets/world-cup-odds/mexico/"
+      ],
+      "quellen_squad": [
+        "https://worldcuppass.com/mexico-world-cup-squad-2026/",
+        "https://worldcuppass.com/south-africa-world-cup-squad-2026/",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/mexico-squad-announced",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/south-africa-hugo-broos-squad-announced",
+        "https://www.dailymaverick.co.za/article/2026-05-27-here-they-are-the-26-players-representing-sa-at-the-world-cup/",
+        "https://www.fourfourtwo.com/team/south-africa-world-cup-2026-squad",
+        "https://www.olympics.com/en/news/2026-fifa-world-cup-football-teams-squads-players-complete-list",
+        "https://www.espn.com/soccer/story/_/id/48924377/mexico-2026-world-cup-squad-guillermo-ochoa"
+      ],
+      "quellen_injuries": [
+        "https://hooligan-soccer.com/mexico-announces-squad-for-the-2026-world-cup/",
+        "https://www.safa.net/general-news/broos-names-final-bafana-squad-for-the-2026-fifa-world-cup/",
+        "https://www.aljazeera.com/sports/2026/5/28/bafana-bafana-world-cup-squad-south-africa-names-two-uncapped-players"
+      ],
+      "quellen_lineup": [
+        "https://www.cbssports.com/soccer/news/mexico-vs-south-africa-preview-live-stream-how-to-watch-world-cup-predictions-odds-lineups/",
+        "https://www.si.com/soccer/mexico-predicted-lineup-vs-south-africa-world-cup-6-11-26",
+        "https://sports.yahoo.com/articles/mexico-vs-south-africa-world-130647150.html",
+        "https://www.aljazeera.com/sports/2026/6/10/mexico-south-africa-fifa-world-cup-2026-match-lineup-players-news-football",
+        "https://www.rotowire.com/soccer/article/mexico-vs-south-africa-preview-predicted-lineups-team-news-world-cup-preview-117405"
+      ]
     }
   ],
   "metadata_apis": {
@@ -325,9 +812,8 @@
       }
     },
     "lesson_02_05_update_kritisch": "VOR G3 war Lesson 02.05 NBA-Decider-Defensiv-These 2/2 HIT in 2026-Finals (G1: 200<218.5, G2: 209<214.5). NACH G3: 2/3 HIT (G3: 226>216.5 = MISS). Track-Record-Konfidenz auf 66.7% reduziert. G4-Anwendung: NICHT mehr SAFE auf Unter, bestenfalls VALUE wenn Markt-Linie deutlich unter G3-Niveau setzt; ggf. sogar VALUE auf Ueber-Seite wenn Markt G4-Linie unter 216.5 setzt und MSG-Tempo-Bias G3 als Indikator interpretiert wird. Lesson_angewandt[] in G4-Tipps muss Track-Record (2/3 statt 2/2) explizit erwaehnen.",
+    "scope_korrektur_17_30": "CLAUDE.md wurde 10.06.2026 aktualisiert (Aktive Sportarten Stand 10.06.2026): FIFA WM 2026 ist JETZT explizit in-scope (jedes einzelne Spiel wird analysiert). Vorheriger Lauf 13:30 hatte WM noch als 'ausserhalb_scope_aber_geprueft' klassifiziert - DIESE EINSCHAETZUNG IST AB SOFORT UEBERHOLT. 2. Lauf 17:30 ergaenzt: spiele[1] = WM-Eroeffnungsspiel Mexiko vs Suedafrika (Do 11.06.2026 21:00 Berlin) mit Squad-Verifikation + Quoten + Spielort-Faktor + Saison-Kontext.",
     "ausserhalb_scope_aber_geprueft": [
-      "FIFA WM 2026 startet Do 11.06.2026 19:00 UTC Mexico vs South Africa, USA/Kanada/Mexiko-Co-Hosts - NICHT im CLAUDE.md-Scope (nur europ. Vereins-Top-5 + DFB-Pokal + Coppa Italia + CL/EL/Conference)",
-      "FIFA WM 2026 Gruppen-Phase Mi 10.06 - Mi 17.06: 18 Spiele bestaetigt via football-data.org - NICHT im Scope",
       "Brasileirao Serie A (laeuft Juni 2026) - NICHT im CLAUDE.md-Scope",
       "MLS Regular Season (laeuft Sommer 2026) - NICHT im Scope (nur NBA aus US-Sport)",
       "WNBA Regular Season (laeuft Sommer 2026) - NICHT im Scope",
@@ -345,14 +831,21 @@
         "alte_aussage": "Naechster realistischer Tipps-Slot Mittwoch 10.06 13:30 fuer NBA Finals G4 SAS @ NYK",
         "neue_aussage": "Bestaetigt - G4 ist im heutigen Tipps-Slot 10.06 13:30 in-scope (Tip-Off Do 11.06 02:30 Berlin). Recherche heute liefert Daten fuer 1 In-Scope-Spiel.",
         "auswirkung_auf_naechste_tipps_routine": "Tipps-Routine kann + soll G4-Tipps generieren (NICHT mehr Leer-Slot)."
+      },
+      {
+        "betrifft_file": "data/recherche/2026-06-10.json (1. Lauf 13:30 Berlin, dieser File)",
+        "betrifft_feld": "spiele[]-Bestand + Scope-Definition",
+        "alte_aussage": "1 In-Scope-Spiel = NBA Finals G4. WM 2026 'ausserhalb_scope_aber_geprueft' (CLAUDE.md-Stand pre-10.06).",
+        "neue_aussage": "CLAUDE.md wurde am 10.06.2026 explizit auf WM 2026 IN-SCOPE umgestellt. 2. Lauf 17:30: spiele[1] = WM-Eroeffnungsspiel Mexiko vs Suedafrika ergaenzt (Do 11.06.2026 21:00 Berlin Estadio Azteca). Recherche-Daten: 26er-Kader beider Teams verifiziert via worldcuppass + FIFA + Daily Maverick + FourFourTwo. bet365-ML 1.48 / 4.33 / 6.50 via news.bet365.com. Opta-Supercomputer 66.3% Mexiko / 19.4% Draw / 14.3% SA.",
+        "auswirkung_auf_naechste_tipps_routine": "Do-11.06-Tipps-Routine 13:30 hat jetzt vorbereiteten WM-Datensatz spiele[1] zusaetzlich zur NBA-G4-Resultverwertung. Eroeffnungs-Tipps koennen entlang WM-Whitelist (1X2, DC, U-O 2.5, BTTS, Anytime-Torschuetze) gesetzt werden. 2:0-Insurance-Regel + Einwechslungs-Boost JA-anwendbar (WM-explizit in CLAUDE.md). Erster-Torschuetze + Genau-Ergebnis + HZ-ES-Kombi BLACKLIST."
       }
     ],
-    "hinweis_an_tipps_routine": "1 In-Scope-Spiel verfuegbar im Mi-Do-Horizont 10.06 13:30 -> 11.06 13:30 = NBA Finals G4 SAS @ NYK. Tipps-Routine soll Spiel als einziges Spiel im Slot fuehren. NBA-Whitelist: ML, Spread, Spiel-U/O, Halbzeit-U/O, Quartal-U/O, Spieler-Punkte, DD, TD, Meiste-Punkte, Serien-Wetten. Blacklist STRENG filtern (Einzel-Steals/Rebounds/Blocks/Assists, PRA, Punkte+Reb/Ast-Kombos, Einzelne-3er). Lesson 02.05 Track-Record 2/3 explizit in lessons_angewandt referenzieren. Konsens-Aggregator-Quoten: NYK ML 1.71-1.80, SAS ML 2.05-2.20, Spread NYK -1.5 bis -2.5, Total 215.5-216.5 - bet365-DE-Live-Pruefung Pflicht. Mitchell Robinson PROBABLE (kein Star-OUT-Risiko). Footer + BZgA-Spielerschutz 0800 1372700 Pflicht. Maximal 5 Tipps fuer dieses Spiel laut CLAUDE.md-Hartregel.",
-    "live_api_zeitstempel": "2026-06-10T13:30:00+02:00 (alle APIs frisch abgefragt 13:30 Berlin: football-data.org Global-Endpoint Mi-Fr + Global-Endpoint Mi-Mi + 6 In-Scope-Comp-Endpoints Mi-Mi + balldontlie 10.06+09.06+11.06+08.06-Rueck-Verifikation, keine Cache-Daten verwendet; Aggregator-Webfetch FanDuel/CBS/OddsShark/DraftKings/Yardbarker/Dimers parallel ausgefuehrt)"
+    "hinweis_an_tipps_routine": "2 In-Scope-Spiele jetzt verfuegbar nach Scope-Korrektur 17:30. 1) NBA Finals G4 SAS @ NYK (Do 11.06 02:30 Berlin Madison Square Garden) - alle Daten in spiele[0]. 2) WM-Eroeffnungsspiel Mexiko vs Suedafrika (Do 11.06 21:00 Berlin Estadio Azteca, FIFA WM 2026 Gruppenphase Spieltag 1 Gruppe A) - alle Daten in spiele[1]. === Markt-Whitelist NBA wie bisher: ML, Spread, Spiel-U/O, Halbzeit/Quartal-U/O, Spieler-Punkte, DD, TD, Meiste-Punkte, Serien-Wetten. NBA-Blacklist STRENG filtern. === Markt-Whitelist WM-Eroeffnung: 1X2, Doppelte Chance, Handicap, U-O Tore, BTTS, Anytime-Torschuetze, Halbzeit-1X2. WM-Blacklist: HZ-Endstand-Kombi NIE, Genaues Ergebnis NIE, Erster Torschuetze bestenfalls WACKEL. === Lessons-Anwendung: Lesson 02.05 Track-Record 2/3 explizit fuer NBA G4. Goldgruben (data/markt_goldgruben.json): Doppelte Chance 1X / X2, Unter 2.5, Torschuetzen-Jederzeit - jetzt RELEVANT fuer WM-Eroeffnung. === Quoten-Konsens (alle bet365-DE-Live-Pruefung Pflicht): NBA G4 NYK ML 1.71-1.80 SAS 2.05-2.20 Spread NYK -1.5/-2.5 Total 215.5/216.5; WM-Eroeffnung Mexiko ML 1.48 Draw 4.33 SA 6.50 Unter 2.5 1.85 BTTS Ja 2.15 / Nein 1.70 Jimenez Anytime 2.50 Montes Anytime 11.00. === 2:0-Insurance-Regel: NICHT NBA (G4), JA WM-Eroeffnung (BL + CL + WM 2026 explizit). === Einwechslungs-Boost: NICHT NBA, JA WM-Eroeffnung (Fussball-Torschuetzen-Tipps). === Footer + BZgA-Spielerschutz 0800 1372700 Pflicht. Max 5 Tipps PRO Spiel laut CLAUDE.md.",
+    "live_api_zeitstempel": "2026-06-10T13:30:00+02:00 (1. Lauf NBA + Comp-APIs) und 2026-06-10T17:30:00+02:00 (2. Lauf WM-Eroeffnung WebSearch + WebFetch fuer Squad-Verifikation worldcuppass/dailymaverick + Aggregator-Quoten oddsshark/cbssports/news.bet365.com + Opta-Supercomputer theanalyst.com)"
   },
   "footer": {
     "rechtlich": "18+ - bet365 DE - Hobby-Wetten - keine Einkommensquelle",
     "spielerschutz": "BZgA: 0800 1372700",
-    "quelle_recherche": "football-data.org v4 (Free Tier - 0 In-Scope-Fussball-Spiele bestaetigt; FIFA WM 2026 = nicht im Scope), balldontlie.io v1 (Free Tier - 1 In-Scope-NBA-Spiel = Finals G4 SAS @ NYK bestaetigt, G3-Final-Status SAS 115-111 NYK Total 226 rueckverifiziert; /v1/stats + /v1/box_scores unauthorized fuer Free Tier - Box-Score via Web-Sources), Aggregator-Quoten via FanDuel/CBS/OddsShark/DraftKings/Yardbarker/Dimers (alle URLs in spiele[0].quellen_aggregator dokumentiert). Verletzungs-Reports via NBA.com / Basketnews / SI / Yardbarker. Squad-Verifikation via NBA.com offizielle Spieler-Pages + ESPN + Bleacher Report. NIE Spielernamen erfunden. POSITION-Genauigkeit eingehalten (Wemby C/F, Brunson PG, KAT C/F, Fox PG, Castle G, Harper G, Anunoby F, Hart G/F, Bridges F/G, Robinson C - keine Hojlund-Bug-Fehlattribute). Hojlund-Bug-Schutz heute NICHT anwendbar (NBA, kein Fussball). Alle Daten live abgefragt 10.06.2026 13:30 Berlin, keine Cache-Daten verwendet."
+    "quelle_recherche": "1. Lauf 13:30 Berlin: football-data.org v4 (Free Tier - 0 In-Scope-Vereins-Fussball; WM-Spiele standen als ausserhalb-Scope - JETZT KORRIGIERT), balldontlie.io v1 (1 In-Scope-NBA-Spiel = Finals G4 SAS @ NYK bestaetigt, G3-Final-Status SAS 115-111 NYK Total 226 rueckverifiziert), Aggregator-Quoten via FanDuel/CBS/OddsShark/DraftKings/Yardbarker/Dimers (alle URLs in spiele[0].quellen_aggregator dokumentiert), Verletzungs-Reports via NBA.com / Basketnews / SI / Yardbarker, Squad-Verifikation via NBA.com offizielle Spieler-Pages + ESPN + Bleacher Report. 2. Lauf 17:30 Berlin (WM-Scope-Korrektur): WebSearch + WebFetch fuer Mexiko-Squad (26 Mann verifiziert via worldcuppass.com + FIFA + Hooligan Soccer), Suedafrika-Squad (26 Mann verifiziert via worldcuppass.com + Daily Maverick + FourFourTwo + SAFA), Predicted-Starting-XI (CBS Sports + Yahoo + SI + Rotowire), bet365-ML-Quoten via news.bet365.com Mexiko-Suedafrika-Vorbericht, DraftKings via OddsShark, FanDuel-ML via CBS, Opta-Supercomputer-Prozentsaetze via theanalyst.com, Prediction-Markt via defirate.com, Dimers-Modell via dimers.com. NIE Spielernamen erfunden (alle WM-Spieler via min 2 Quellen verifiziert). POSITION-Genauigkeit eingehalten (Jimenez ST, Montes IV, Alvarez DM, Foster ST, Williams TW, Appollis OM - kein Hojlund-Bug-Fehlattribut DM-vs-ST). 2:0-Insurance-Regel fuer WM-Eroeffnung dokumentiert + Einwechslungs-Boost dokumentiert. KEINE Tipps generiert."
   }
 }
