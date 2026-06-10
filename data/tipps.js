@@ -36,28 +36,9 @@ window.__MIESMUSCHEL_TIPPS = {
         "Konsens-Quote: Knicks ML -1.5 oder -2.5 als Heim-Favorit (siehe Bleacher Nation, ABC7), Total 216.5 (siehe Lineups + ABC7). Implizierte NYK 56.5% / SAS 47.6% Win-Probability (FanDuel). G3 Total endete 226 (Lesson 09.06: G3+-Tempo-Eskalation hat Defensiv-These gebrochen).",
         "🔍 BEOBACHTUNG: NBA-Finals 30d-ROI -100% bei n=5 (Lesson 09.06 Mini-Spiele-Tag Total-Slate-Ausfall). NBA-Playoff-Hartregel: keine SAFE-Labels. Mini-Spiele-Tag Stake-Cap 3% = 16.50 EUR Total."
       ],
-      "tipps": [
-        {
-          "kategorie": "wackel",
-          "markt": "Spurs Spread +2.5",
-          "quote": 1.91,
-          "begruendung": "Road-Team 3/3 Finals-Siege bislang + Wemby-G3-Karriere-Hoch-Form-Edge + Brunson-Knie-Discomfort visible. Spurs-Castle/Fox-Bench-Tiefe stabil. Lesson 03.06 G7-Hangover-Follow-Through-Pattern bleibt latent valide. NYK Sieg-Quote impliziert 56.5% (Konsens-Quote NYK -1.5 bis -2.5), Spurs+2.5 deckt knappes Resultat oder Sieg. NBA-Playoff-Hartregel: max WACKEL. Pinnacle nicht verfuegbar -> WACKEL korrekt. Reality-Check Statistik: NBA-Spread-Markt 30d gemischt, Auswaerts-Underdog-Spread-Bilanz im Tool unterstuetzend. Stake 0.5% (2.75 EUR).",
-          "empfohlener_einsatz_prozent": 0.5,
-          "edge_prozent": null,
-          "faire_quote": null,
-          "pinnacle_verifiziert": false
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Unter 216.5 Punkte Gesamtspiel",
-          "quote": 1.91,
-          "begruendung": "Heim-Defensiv-Adjust-Pattern in MSG (Knicks-Top-3-Playoff-Defense in Regulaer + G1+G2 Heim-Schon-Defensiv-These 200+209-Totals bestaetigt). G3 226-Total war Spurs-MUSS-Sieg-Eskalation Q1 33-22 (Lesson 09.06 G3-Bruch). G4 dreht Druck-Lage: NYK ist nun Heim-Closeout-Team, will defensiv Tempo kontrollieren. SAS muss offen spielen - dreht offensive Druck-Lage zu beiden Teams. Linie 216.5 mittlerer Wert (G1: 200, G2: 209, G3: 226 - Mittelwert 211.7). NBA-Playoff-Hartregel: max WACKEL. Reality-Check Statistik: NBA-Unter-Bilanz nach 08.06. 6/10 (60% HR / -2% ROI) - Markt-Goldgrube-Status nicht mehr durch (Lesson 09.06 G3-Bruch), aber leichter Edge gegen 216.5 bei MSG-Heim-Akustik plus G3-MSG-Eskalation-Re-Reversion. Stake 0.5% (2.75 EUR).",
-          "empfohlener_einsatz_prozent": 0.5,
-          "edge_prozent": null,
-          "faire_quote": null,
-          "pinnacle_verifiziert": false
-        }
-      ]
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     }
   ],
   "einzeltipps": [
@@ -73,7 +54,8 @@ window.__MIESMUSCHEL_TIPPS = {
       "begruendung": "Road-Team 3/3 Finals-Siege bislang (NBA-historisch 2. Mal je gemacht) + Wemby-G3-Karriere-Hoch-Form 32/8/6/3/2 + Brunson-Knie-Discomfort. NBA-Playoff-Hartregel: max WACKEL (kein SAFE/VALUE). Pinnacle nicht verfuegbar -> Hartregel-konform WACKEL. Pseudo-Hedge-Strategie (Lesson 03.06 n=2 + 06.06 n=3): 2 unkorrelierte Markt-Beine im Single-Event-Slate. Stake-Cap 3% (Lesson 09.06): 0.5% = 2.75 EUR.",
       "edge_prozent": null,
       "faire_quote": null,
-      "pinnacle_verifiziert": false
+      "pinnacle_verifiziert": false,
+      "rang": 1
     },
     {
       "id": "ez-2",
@@ -87,7 +69,8 @@ window.__MIESMUSCHEL_TIPPS = {
       "begruendung": "NYK-Heim-Closeout-Druck dreht Tempo-Kontrolle zurueck zu Defensiv-Anker (Lesson 02.05. G1+G2 200+209-Totals bestaetigt MSG-Defensiv-Akustik). G3 226-Total war Spurs-MUSS-Sieg-Q1-Eskalation (G3-Bruch-Lesson 09.06 hat Unter-These NICHT komplett verworfen, sondern auf G3+ Spurs-MUSS-Phase eingegrenzt). NBA-Playoff-Hartregel: max WACKEL. Pseudo-Hedge zur ez-1 (Spurs +2.5): bei knapp Spurs-Sieg hits beide, bei Knicks-Blowout misst beide, bei knapp NYK-Sieg hits eines - klares Markt-mix-Profil. Stake-Cap 3% (Lesson 09.06): 0.5% = 2.75 EUR.",
       "edge_prozent": null,
       "faire_quote": null,
-      "pinnacle_verifiziert": false
+      "pinnacle_verifiziert": false,
+      "rang": 2
     }
   ],
   "kombis": [],
