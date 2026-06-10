@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS = {
+{
   "datum": "2026-06-10",
   "erstellt_am": "2026-06-10T14:38:00+02:00",
   "hinweis": "MINI-SPIELE-TAG / SINGLE-EVENT (Watchdog-Recovery 14:38 Berlin - Hauptroutine 16:00 hat heute noch nicht geliefert, Watchdog 17:15-Slot vorgezogen weil naechstes Tipps-relevantes Event NBA Finals Game 4 Spurs at Knicks Do 11.06 02:30 Berlin im Madison Square Garden ist und Stake-Cap-Disziplin vorab dokumentiert werden soll). Pruefung Zeitfenster Mi 17:15 - Do 06:00: 1 In-Scope-Event terminiert (NBA Finals G4 8:30 PM ET = 02:30 Berlin). Statusbild Klub-Fussball: Bundesliga / Premier League / LaLiga / Serie A / Ligue 1 / DFB-Pokal / FA Cup / Coppa Italia / Copa del Rey / Coupe de France / Champions League / Europa League / Conference League alle 2025/26-Saison abgeschlossen 16.-30.05. WM 2026 (USA/Kanada/Mexiko) startet Do 11.06. - National-Team-Friendlies + Eroeffnungsspiel-Vorbereitung bewusst NICHT bespielt (CLAUDE.md-Scope-Disziplin: Tool fokussiert auf Klub-Fussball + NBA, kein gewachsener Daten-Stamm bei A-Nationalteams). NBA-Status: Finals-Serie 2-1 NYK nach SAS-G3-Sieg Mo 08.06. (Spurs 115:111 NYK, Wemby Karriere-Finals-Hoch 32 Pkt + 8 Reb + 6 Ast + 3 Blk + 2 Stl, Castle 23 Pkt mit Clutch-3er 1:54 Q4, Fox-Game-Clinching-FT). Heute Mi 10.06. Game 4 zurueck im Madison Square Garden (Knicks Heim, 2-2-1-1-1 Finals-Format). G4 ist Mini-Spiele-Tag-Konstellation - Single-Event-Slate, Stake-Cap-Hartregel aus Lesson 09.06.2026 GREIFT: max 3% der Kasse (550 EUR) = 16.50 EUR Total ueber Einzeltipps + Kombis kumuliert. NBA-Playoff-Hartregel CLAUDE.md (Hebel B) bleibt aktiv: keine SAFE-Labels auf Sieg/Spread/Total/Player, max WACKEL. NBA-Playoff-Player-Punkte/DD-Boykott (Lessons 26.04 + 22.05 + 09.06) bleibt aktiv: KEINE Player-Stats in Einzeltipps. NBA-Decider-Defensiv-These G3-Bruch (Lesson 09.06): Unter-Linien ab G3 NICHT mehr automatisch VALUE - aber heute G4 mit NYK-Heim-Druck-Lage + MSG-Defensiv-Akustik darf weiterhin WACKEL-Unter laufen mit reduziertem Stake. Center-DD-Cluster-Falle (Lesson 09.06): max 1 DD-Bein pro Spiel - heute komplett raus aus Einzeltipps. Beobachtungs-Liga 'NBA Playoffs - Finals Game 3' aus data/beobachtungs_ligen.json ist Spezial-Slot fuer G3-Tipps (5/5 verloren 30d), greift NICHT direkt fuer G4-Slot, aber als Vorwarnung beachtet. Konsens-Quote NYK -1.5/-2.5 Heim-Favorit, Total 216.5 - implizierte Win-Probability NYK 56.5% / SAS 47.6% (FanDuel). Mini-Spiele-Tag-Pseudo-Hedge-Strategie aus Lessons 03.06 + 06.06 (n=3 validiert): 2 unkorrelierte WACKEL-Tipps mit reduziertem Stake. KEINE Kombis (Single-Game-SGP-Konzentration = Hazard, Lesson 09.06). Kasse 550 EUR, Stufe 1 Aufbau. Spielerschutz: 18+ · BZgA 0800 1372700.",
@@ -36,28 +35,9 @@ window.__MIESMUSCHEL_TIPPS = {
         "Konsens-Quote: Knicks ML -1.5 oder -2.5 als Heim-Favorit (siehe Bleacher Nation, ABC7), Total 216.5 (siehe Lineups + ABC7). Implizierte NYK 56.5% / SAS 47.6% Win-Probability (FanDuel). G3 Total endete 226 (Lesson 09.06: G3+-Tempo-Eskalation hat Defensiv-These gebrochen).",
         "🔍 BEOBACHTUNG: NBA-Finals 30d-ROI -100% bei n=5 (Lesson 09.06 Mini-Spiele-Tag Total-Slate-Ausfall). NBA-Playoff-Hartregel: keine SAFE-Labels. Mini-Spiele-Tag Stake-Cap 3% = 16.50 EUR Total."
       ],
-      "tipps": [
-        {
-          "kategorie": "wackel",
-          "markt": "Spurs Spread +2.5",
-          "quote": 1.91,
-          "begruendung": "Road-Team 3/3 Finals-Siege bislang + Wemby-G3-Karriere-Hoch-Form-Edge + Brunson-Knie-Discomfort visible. Spurs-Castle/Fox-Bench-Tiefe stabil. Lesson 03.06 G7-Hangover-Follow-Through-Pattern bleibt latent valide. NYK Sieg-Quote impliziert 56.5% (Konsens-Quote NYK -1.5 bis -2.5), Spurs+2.5 deckt knappes Resultat oder Sieg. NBA-Playoff-Hartregel: max WACKEL. Pinnacle nicht verfuegbar -> WACKEL korrekt. Reality-Check Statistik: NBA-Spread-Markt 30d gemischt, Auswaerts-Underdog-Spread-Bilanz im Tool unterstuetzend. Stake 0.5% (2.75 EUR).",
-          "empfohlener_einsatz_prozent": 0.5,
-          "edge_prozent": null,
-          "faire_quote": null,
-          "pinnacle_verifiziert": false
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Unter 216.5 Punkte Gesamtspiel",
-          "quote": 1.91,
-          "begruendung": "Heim-Defensiv-Adjust-Pattern in MSG (Knicks-Top-3-Playoff-Defense in Regulaer + G1+G2 Heim-Schon-Defensiv-These 200+209-Totals bestaetigt). G3 226-Total war Spurs-MUSS-Sieg-Eskalation Q1 33-22 (Lesson 09.06 G3-Bruch). G4 dreht Druck-Lage: NYK ist nun Heim-Closeout-Team, will defensiv Tempo kontrollieren. SAS muss offen spielen - dreht offensive Druck-Lage zu beiden Teams. Linie 216.5 mittlerer Wert (G1: 200, G2: 209, G3: 226 - Mittelwert 211.7). NBA-Playoff-Hartregel: max WACKEL. Reality-Check Statistik: NBA-Unter-Bilanz nach 08.06. 6/10 (60% HR / -2% ROI) - Markt-Goldgrube-Status nicht mehr durch (Lesson 09.06 G3-Bruch), aber leichter Edge gegen 216.5 bei MSG-Heim-Akustik plus G3-MSG-Eskalation-Re-Reversion. Stake 0.5% (2.75 EUR).",
-          "empfohlener_einsatz_prozent": 0.5,
-          "edge_prozent": null,
-          "faire_quote": null,
-          "pinnacle_verifiziert": false
-        }
-      ]
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     }
   ],
   "einzeltipps": [
@@ -73,7 +53,8 @@ window.__MIESMUSCHEL_TIPPS = {
       "begruendung": "Road-Team 3/3 Finals-Siege bislang (NBA-historisch 2. Mal je gemacht) + Wemby-G3-Karriere-Hoch-Form 32/8/6/3/2 + Brunson-Knie-Discomfort. NBA-Playoff-Hartregel: max WACKEL (kein SAFE/VALUE). Pinnacle nicht verfuegbar -> Hartregel-konform WACKEL. Pseudo-Hedge-Strategie (Lesson 03.06 n=2 + 06.06 n=3): 2 unkorrelierte Markt-Beine im Single-Event-Slate. Stake-Cap 3% (Lesson 09.06): 0.5% = 2.75 EUR.",
       "edge_prozent": null,
       "faire_quote": null,
-      "pinnacle_verifiziert": false
+      "pinnacle_verifiziert": false,
+      "rang": 1
     },
     {
       "id": "ez-2",
@@ -87,7 +68,8 @@ window.__MIESMUSCHEL_TIPPS = {
       "begruendung": "NYK-Heim-Closeout-Druck dreht Tempo-Kontrolle zurueck zu Defensiv-Anker (Lesson 02.05. G1+G2 200+209-Totals bestaetigt MSG-Defensiv-Akustik). G3 226-Total war Spurs-MUSS-Sieg-Q1-Eskalation (G3-Bruch-Lesson 09.06 hat Unter-These NICHT komplett verworfen, sondern auf G3+ Spurs-MUSS-Phase eingegrenzt). NBA-Playoff-Hartregel: max WACKEL. Pseudo-Hedge zur ez-1 (Spurs +2.5): bei knapp Spurs-Sieg hits beide, bei Knicks-Blowout misst beide, bei knapp NYK-Sieg hits eines - klares Markt-mix-Profil. Stake-Cap 3% (Lesson 09.06): 0.5% = 2.75 EUR.",
       "edge_prozent": null,
       "faire_quote": null,
-      "pinnacle_verifiziert": false
+      "pinnacle_verifiziert": false,
+      "rang": 2
     }
   ],
   "kombis": [],
@@ -104,4 +86,4 @@ window.__MIESMUSCHEL_TIPPS = {
     "Halluzinations-Schutz (Lessons 25.04 Roster-Verifikation + 28.04 NIE-Spielernamen-erfunden + 24.05 Roster-Backup-Pick-Falle + 08.06 Plata-Joker-Falle): heute keine Spielernamen aus dem Bauch erfunden, alle Recherche-Eintraege haben mindestens eine NBA.com / ESPN / ABC7 / Basketnews / Total Pro Sports / CBS-Sports-Quelle. Brunson-Knie-Status + Wemby-Form verifiziert, Castle/Fox/KAT/Bridges/Anunoby aktuelle Rollen bestaetigt."
   ],
   "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
-};
+}
