@@ -1,0 +1,72 @@
+{
+  "turnier": "FIFA World Cup 2026",
+  "stand": "2026-06-10",
+  "host_nationen": ["USA", "Kanada", "Mexiko"],
+  "zeitraum": {
+    "start": "2026-06-11",
+    "ende": "2026-07-19",
+    "eroeffnung": {"datum": "2026-06-11", "anstoss_local": "13:00 CDT", "anstoss_berlin": "20:00 CEST", "stadion": "Estadio Azteca, Mexico-Stadt", "match": "Mexiko vs Suedafrika"},
+    "finale": {"datum": "2026-07-19", "anstoss_berlin": "21:00 CEST", "stadion": "MetLife Stadium, East Rutherford NJ"}
+  },
+  "format": {
+    "teams": 48,
+    "gruppen": 12,
+    "teams_pro_gruppe": 4,
+    "spiele_gesamt": 104,
+    "ko_runden": ["Runde der 32", "Achtelfinale", "Viertelfinale", "Halbfinale", "Spiel um Platz 3", "Finale"],
+    "ueberspielt_im_ko": "Top 2 jeder Gruppe + 8 beste Gruppen-Dritte"
+  },
+  "phasen": [
+    {"phase": "Gruppenphase Spieltag 1", "von": "2026-06-11", "bis": "2026-06-15"},
+    {"phase": "Gruppenphase Spieltag 2", "von": "2026-06-16", "bis": "2026-06-21"},
+    {"phase": "Gruppenphase Spieltag 3", "von": "2026-06-22", "bis": "2026-06-27"},
+    {"phase": "Runde der 32", "von": "2026-06-28", "bis": "2026-07-03"},
+    {"phase": "Achtelfinale", "von": "2026-07-04", "bis": "2026-07-07"},
+    {"phase": "Viertelfinale", "von": "2026-07-09", "bis": "2026-07-11"},
+    {"phase": "Halbfinale", "von": "2026-07-14", "bis": "2026-07-15"},
+    {"phase": "Spiel um Platz 3", "von": "2026-07-18", "bis": "2026-07-18"},
+    {"phase": "Finale", "von": "2026-07-19", "bis": "2026-07-19"}
+  ],
+  "gruppen": {
+    "A": {"teams": ["Mexiko", "Suedafrika", "Suedkorea", "Tschechien"], "host_stadt_basis": "Mexico-Stadt"},
+    "B": {"teams": ["Kanada", "Bosnien-Herzegowina", "Katar", "Schweiz"], "host_stadt_basis": "Toronto"},
+    "C": {"teams": ["Brasilien", "Marokko", "Haiti", "Schottland"], "host_stadt_basis": "Atlanta"},
+    "D": {"teams": ["USA", "Paraguay", "Australien", "Tuerkei"], "host_stadt_basis": "Los Angeles"},
+    "E": {"teams": ["Deutschland", "Curacao", "Elfenbeinkueste", "Ecuador"], "host_stadt_basis": "Dallas"},
+    "F": {"teams": ["Niederlande", "Japan", "Schweden", "Tunesien"], "host_stadt_basis": "Boston"},
+    "G": {"teams": ["Belgien", "Aegypten", "Iran", "Neuseeland"], "host_stadt_basis": "Vancouver"},
+    "H": {"teams": ["Spanien", "Kap Verde", "Saudi-Arabien", "Uruguay"], "host_stadt_basis": "Miami"},
+    "I": {"teams": ["Frankreich", "Senegal", "Irak", "Norwegen"], "host_stadt_basis": "Houston"},
+    "J": {"teams": ["Argentinien", "Algerien", "Oesterreich", "Jordanien"], "host_stadt_basis": "Kansas City"},
+    "K": {"teams": ["Portugal", "DR Kongo", "Usbekistan", "Kolumbien"], "host_stadt_basis": "Seattle"},
+    "L": {"teams": ["England", "Kroatien", "Ghana", "Panama"], "host_stadt_basis": "Philadelphia"}
+  },
+  "stadien": {
+    "Estadio Azteca": {"stadt": "Mexico-Stadt", "land": "Mexiko", "hoehe_m": 2240, "kapazitaet": 87000, "implikation": "Hoehen-Faktor extrem - europaeische Teams ab Min 60 schwaecher"},
+    "Estadio BBVA": {"stadt": "Monterrey", "land": "Mexiko", "hoehe_m": 540, "kapazitaet": 53500, "implikation": "Hitze + Hoehe moderat, gut bespielbar"},
+    "Estadio Akron": {"stadt": "Guadalajara", "land": "Mexiko", "hoehe_m": 1566, "kapazitaet": 49000, "implikation": "Mittelhoehe, leichte Konditions-Belastung"},
+    "BC Place": {"stadt": "Vancouver", "land": "Kanada", "hoehe_m": 0, "kapazitaet": 54500, "implikation": "moderates Klima, neutral"},
+    "BMO Field": {"stadt": "Toronto", "land": "Kanada", "hoehe_m": 76, "kapazitaet": 45500, "implikation": "moderates Klima, neutral"},
+    "MetLife Stadium": {"stadt": "East Rutherford NJ", "land": "USA", "hoehe_m": 3, "kapazitaet": 82500, "implikation": "neutral, Finale-Stadion"},
+    "Lincoln Financial Field": {"stadt": "Philadelphia", "land": "USA", "hoehe_m": 12, "kapazitaet": 67600, "implikation": "neutral"},
+    "Gillette Stadium": {"stadt": "Boston", "land": "USA", "hoehe_m": 64, "kapazitaet": 65900, "implikation": "neutral, gemaessigt"},
+    "Mercedes-Benz Stadium": {"stadt": "Atlanta", "land": "USA", "hoehe_m": 327, "kapazitaet": 75000, "implikation": "neutral, ueberdacht"},
+    "Hard Rock Stadium": {"stadt": "Miami", "land": "USA", "hoehe_m": 2, "kapazitaet": 65300, "implikation": "Hitze + hohe Luftfeuchtigkeit Mittag-Spiele"},
+    "AT&T Stadium": {"stadt": "Dallas", "land": "USA", "hoehe_m": 175, "kapazitaet": 80000, "implikation": "Hitze, aber Klimaanlage indoor"},
+    "NRG Stadium": {"stadt": "Houston", "land": "USA", "hoehe_m": 13, "kapazitaet": 72200, "implikation": "Hitze + Klimaanlage indoor"},
+    "Arrowhead Stadium": {"stadt": "Kansas City", "land": "USA", "hoehe_m": 274, "kapazitaet": 76400, "implikation": "Mittel-Hitze Sommer"},
+    "Levi's Stadium": {"stadt": "Santa Clara CA", "land": "USA", "hoehe_m": 5, "kapazitaet": 68500, "implikation": "Kuestenklima neutral"},
+    "SoFi Stadium": {"stadt": "Inglewood CA", "land": "USA", "hoehe_m": 38, "kapazitaet": 70200, "implikation": "moderates Klima, ueberdacht"},
+    "Lumen Field": {"stadt": "Seattle", "land": "USA", "hoehe_m": 11, "kapazitaet": 68700, "implikation": "moderates Klima, ggf. leichter Regen"}
+  },
+  "deutscher_kader_hinweis": "Deutschland in Gruppe E vs Curacao + Elfenbeinkueste + Ecuador. Eroeffnung mit Curacao am 13.06. (Stadion + genaue Anstosszeit via fifa.com pro Spiel verifizieren).",
+  "quellen_offiziell": [
+    "https://www.fifa.com/de/tournaments/mens/worldcup/canadamexicousa2026/schedule",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/final-draw-results",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_draw",
+    "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
+    "https://www.kicker.de/wm",
+    "https://www.sportschau.de/wm2026"
+  ],
+  "hinweis_recherche_routine": "Pro Spiel-Tag liest die Recherche-Routine dieses File + holt via WebFetch fifa.com/schedule den konkreten Spielplan (Stadion, Anstoss-Zeit, Gruppen-Stand). Squad-Verifikation pro Team via FIFA + kicker.de WM-Kader + transfermarkt Nationalmannschaft. Spielort-Faktor aus dem 'stadien'-Block dieses Files lesen."
+}

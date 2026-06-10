@@ -83,12 +83,49 @@ Spielertor-Tipp nur wenn ≥2 von 3 Bedingungen:
 2. Spieler ist zentraler 9er mit Backup-Stürmer-Qualität (Einwechslungs-Boost)
 3. Gegner-Defense-Krise (z.B. Stamm-Innenverteidiger out)
 
+---
+
+## WM 2026 Hartregeln (NEU 10.06.2026)
+
+### HR25: Gruppenphase-Spieltag-3-Außenseiter-Pattern
+Im 3. Gruppen-Spieltag, wenn **mindestens ein Team das Achtelfinale schon sicher hat**, sinkt Druck spürbar. Außenseiter mit Sieg-Druck holen historisch in ~30 % der Fälle einen Punkt.
+- Wenn `gruppen_stand` zeigt: Favorit hat 6 Pkt + sicher Achtelfinale, Underdog mit 0-3 Pkt MUSS gewinnen → **Außenseiter-Sieg/DC X2 als VALUE**, kein Favorit-Sieg-SAFE.
+- Wenn beide schon weiter oder beide raus → Tor-Total Unter 2.5 bevorzugt (taktisch, kein Druck).
+
+### HR26: K.O.-Phase Tor-Total tendiert NACH UNTEN
+In K.O.-Spielen ist Tor-Total durchschnittlich 0,3-0,5 niedriger als Gruppenphase wegen taktischer Vorsicht + Verlängerungs-Risiko.
+- **Über 2.5 Tore in K.O. NIE SAFE**, max VALUE und nur bei beidseitig-offensiven Mannschaften.
+- **Unter 2.5 Tore wird Goldgrube-Kandidat** bei K.O.-Spielen mit zwei taktisch versierten Teams.
+- 2:0-Insurance gilt bei direktem Sieg-Tipp (siehe CLAUDE.md WM-Erweiterung).
+
+### HR27: Vereins-Saison-Müdigkeit (für Top-Spieler)
+Wenn `vereins_belastung_heim/gast` zeigt 38+ Liga-Spiele + CL-Halbfinale/Finale (z.B. Real Madrid, ManCity, PSG-Spieler), und nur ~10 Tage Pause vor WM → Müdigkeits-Risiko.
+- **Top-Stürmer-Tor max VALUE** statt SAFE auch wenn Form gut war.
+- Bei Backup-Stürmern (z.B. wenig genutzte 2.-Reihe-Spieler) → VALUE-Edge, weil frisch.
+- Erkennung: Pre-WM-Test-Spiele anschauen — wer wurde geschont? Wer voll durchgespielt?
+
+### HR28: Spielort-Faktor (Höhe / Hitze / Lokal-Vorteil)
+Bei `spielort_faktor.hoehe_m >= 1500` (Mexiko-Standorte): europäische + asiatische Teams haben Konditions-Nachteil ab Minute 60.
+- **Tor-Total Über 2.5 in Mexiko-Stadt (2240m) zurückhaltend** — Tempo niedriger, weniger Chancen-Volumen.
+- **Spät-Tor-Pattern** (Tore 75+) bei Hoch-Höhen-Spielen erhöht — wenn Über 2.5 schon im 1./2. Drittel, dann Backup-Stürmer-Einwechslungs-Boost wahrscheinlich.
+
+Bei `klima_anstoss` mit "Hitze" oder "hohe Luftfeuchtigkeit" + Anstoßzeit Mittag (Florida/Texas):
+- **Tempo niedriger erwartbar** → Tor-Total runter, Sieg-Tipps mit Vorsicht.
+
+### HR29: Pre-WM-Test-Spiele als Form-Indikator
+Pro WM-Team in den letzten 14 Tagen 1-3 Test-Spiele. Wer hat gespielt + getroffen?
+- Spieler mit Tor im Test-Spiel ist Form-Edge-Kandidat für WM-Eröffnung.
+- Spieler komplett geschont (verletzungsbedingt) ist Risiko.
+- Wenn Test-Spiel-Verlust oder Snoozer → Mannschafts-Stimmung-Negativ-Indikator.
+
 ### Saison-Kontext-Pflicht (CLAUDE.md-Verbot bei Verstoß)
-Alle 7 saison_kontext-Pflichtfelder müssen ausgefüllt sein. Quellen[] mit ≥1 URL. Bei Wettbewerbs-Erwähnung (CL/EL/Conference/Pokal) Pflicht-Verband-URL (uefa.com/dfb.de/etc.).
+Alle 7 saison_kontext-Pflichtfelder müssen ausgefüllt sein. Quellen[] mit ≥1 URL.
+- **Für WM-Spiele zusätzlich PFLICHT:** `turnier_phase`, `spielort_faktor`, `vereins_belastung_heim`, `vereins_belastung_gast`. Bei Gruppen-Spieltag 2+3 auch `gruppen_stand`.
+- Bei `turnier_phase` Verband-Quelle Pflicht: fifa.com URL in quellen[].
 
 ### bet365-Sonderregeln im Bewusstsein
-- **2:0-Insurance** (NUR Bundesliga + Champions League, NUR direkter Sieg-Tipp): Sieg-Tipp gilt als gewonnen sobald Tipp-Team 2:0 führte. Erwähnen in Begründung wenn anwendbar.
-- **Einwechslungs-Boost** (alle Torschützen-Märkte): Tor des direkten Ersatzspielers zählt für Tipp-Spieler. Erwähnen wenn Spieler bekannten Backup hat.
+- **2:0-Insurance** gilt bei: Bundesliga + Champions League + **WM 2026** (Stand 10.06.2026 laut bet365 DE). NUR direkter Sieg-Tipp. Erwähnen in Begründung wenn anwendbar.
+- **Einwechslungs-Boost** (alle Torschützen-Märkte): Tor des direkten Ersatzspielers zählt für Tipp-Spieler. Bei WM-Spielen besonders relevant weil viele Einwechslungen ab 70. Min.
 
 ### Verbotene Märkte (NIE empfehlen):
 - Eckbälle, Karten (verboten in DE)

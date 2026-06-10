@@ -25,9 +25,12 @@ Lies das passende Recherche-File:
 ## Phase 2: Spiele klassifizieren
 
 Aus Recherche-File:
-- `fussball_spiele` = alle Spiele mit Liga ∈ {Bundesliga, Premier League, LaLiga, Serie A, Ligue 1, 2. Bundesliga, Champions League, Europa League, Conference League, DFB-Pokal, Coppa Italia, FA Cup}
-- `nba_spiele` = alle Spiele mit Liga starting "NBA"
-- `beobachtungs_spiele` = Spiele in beobachtungs_ligen.json → werden mit "🔍 Beobachtung -" Präfix markiert + nicht in Hauptkombis (nur Moonshot ab Quote 5)
+- `wm_spiele` = alle Spiele mit `liga` startet mit "WM 2026" oder enthält "FIFA World Cup" — **Hauptfokus 11.06.–19.07.2026**
+- `fussball_spiele_vereine` = Spiele mit Liga ∈ {Bundesliga, Premier League, LaLiga, Serie A, Ligue 1, 2. Bundesliga, Champions League, Europa League, Conference League, DFB-Pokal, Coppa Italia, FA Cup, Coupe de France} — **aktuell Sommer-Pause, in der Regel keine Spiele**
+- `nba_spiele` = alle Spiele mit Liga starting "NBA" — **NBA Finals 2026 läuft**
+- `beobachtungs_spiele` = Spiele in beobachtungs_ligen.json → mit "🔍 Beobachtung -" Präfix markiert + nicht in Hauptkombis (nur Moonshot ab Quote 5)
+
+**Wichtig:** Bei WM-Spielen lade auch `data/wm_2026.json` für Spielplan-Kontext + Gruppen-Stand.
 
 ## Phase 3: Subagents parallel starten via Task-Tool
 
@@ -44,6 +47,7 @@ Task(subagent_type="general-purpose", description="NBA-Analyse",
 ```
 
 Wenn keine NBA-Spiele: NBA-Subagent skippen.
+Wenn nur WM-Spiele: Fußball-Subagent nutzt automatisch HR25-HR29 (WM-spezifisch, in fussball_analyse.md dokumentiert).
 Wenn keine Fußball-Spiele: Fußball-Subagent skippen.
 
 **Beide Subagents schreiben pro Spiel:** `data/analyse/<spiel-id>_<sport>.json` mit saison_kontext + 3-5 Tipps.

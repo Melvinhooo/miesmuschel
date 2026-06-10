@@ -8,7 +8,11 @@
 ## Projekt-Zweck
 
 Privates Hobby-Tool für **bet365 DE** zur strukturierten Vorbereitung von Wett-Tagen.
-Sportarten: **Fußball** (Bundesliga, Premier League, LaLiga, Serie A, DFB-Pokal, Champions League, Coppa Italia) und **Basketball** (NBA).
+
+**Aktive Sportarten (Stand 10.06.2026):**
+- **Fußball — WM 2026** (USA/Kanada/Mexiko, 11.06.–19.07.2026, 48 Teams, 104 Spiele): jedes einzelne Spiel wird analysiert
+- **Fußball — Vereine** (Bundesliga, Premier League, LaLiga, Serie A, DFB-Pokal, Champions League, Europa League, Conference League, Coppa Italia): **Saison-Pause** bis August 2026 — keine Tipps bis Liga-Wiederbeginn
+- **Basketball — NBA Finals 2026:** Best-of-7-Serie läuft (Knicks–Spurs), ca. 3 Spiele restlich
 
 Das Tool ist **keine Einnahmequelle**. Jede Version enthält einen Spielerschutz-Hinweis (BZgA-Nummer: 0800 1372700).
 
@@ -80,7 +84,7 @@ Konservativ. Bei 550€-Stand ist das die aktive Stufe.
 ### 2:0-Insurance-Regel (WICHTIG bei Auswertung)
 - Bei einem **direkten Sieg-Tipp** (1X2 / Moneyline) auf Mannschaft X gilt der Tipp als **gewonnen**, sobald X im Spiel mind. **2:0** in Führung lag.
 - Egal was danach passiert — auch bei 4:3-Niederlage am Ende, der Tipp ist durch.
-- **Gilt NUR für:** 1. Bundesliga + Champions League
+- **Gilt NUR für:** 1. Bundesliga + Champions League + **WM 2026** (FIFA-Aktionsregel laut bet365 DE, Stand 10.06.2026 — bei Wechsel bet365-AGB nochmal verifizieren)
 - **Gilt NUR für:** direkter Sieg-Tipp (Heim oder Gast)
 - **Gilt NICHT für:** Doppelte Chance, Handicap, Über/Unter, BTTS, Genaues Ergebnis, Halbzeit-Wetten
 - Bei Auswertung: wenn Halbzeitstand **2:0+ für Sieg-Tipp-Team** UND Endstand zeigt Niederlage → Status `gewonnen` mit Kommentar `"2:0-Insurance"`.
@@ -95,6 +99,40 @@ Konservativ. Bei 550€-Stand ist das die aktive Stufe.
   3. Wenn ja → Status `gewonnen` mit Kommentar `"Einwechslungs-Boost: Tor von [Ersatz] zählt für [X]"`
 - **Gilt für:** alle Torschützen-Märkte bei bet365 (Erster, Jederzeit, Letzter, Doppelpack, Hattrick, 2+ Tore, 3+ Tore)
 - Praktische Implikation: **Volumen-Stürmer von Mannschaften mit Backup-Stürmer-Qualität sind dadurch sicherer als die nominale Quote suggeriert.**
+
+---
+
+## WM 2026 Sonderregeln (seit 10.06.2026)
+
+WM 2026 läuft 11.06.–19.07.2026 in USA/Kanada/Mexiko. 48 Teams, 12 Gruppen à 4 Teams, neue 32er-K.O.-Runde + Achtelfinale. **Jedes einzelne Spiel wird analysiert** (104 Spiele über 5,5 Wochen).
+
+### Turnier-Phasen + Markt-Tendenzen
+- **Gruppenphase (11.–27.06.):** Spiele 1–2 oft taktisch, Spiel 3 (Stichtag) entscheidet Achtelfinal-Quali → hohes Außenseiter-Edge wenn beide schon weiter sind oder einer all-in-must-win
+- **Achtelfinale → Viertelfinale (28.06.–11.07.):** K.O.-Modus, Tor-Total tendiert niedriger (Über 2.5 schwerer), Verlängerung möglich → Sieg-Tipps haben 90min-Risiko
+- **Halbfinale + Finale (14.–19.07.):** Maximaler Druck, Star-Status entscheidend, Form-Edge nahezu null (alle 100%)
+
+### Spielort-Faktor (Pflicht in saison_kontext)
+- **Mexiko-Stadt (Höhe 2.240m):** kontaktscheue Spiele, Tempo niedriger → Über-Tore-Tipps Vorsicht
+- **Mexiko-City + Guadalajara:** Hitze + Höhe Doppelbelastung
+- **Florida (Miami/Orlando):** hohe Luftfeuchtigkeit, Spät-Spiele besser
+- **Kanada (Toronto/Vancouver):** moderates Klima, neutral
+- **Kalifornien (LA/SF):** Küsten-Klima, neutral
+- **Texas (Dallas/Houston):** Hitze tagsüber
+
+### Vereins-Saison-Müdigkeit
+- Spieler aus PL/LaLiga/Serie A spielten 38+ Liga-Spiele + Cup + ggf. CL-Finale 31.05.
+- Nur ~10 Tage Pause zwischen Vereinssaison-Ende und WM-Start → Müdigkeits-Risiko bei intensiv eingesetzten Stamm-Spielern
+- Bei Pre-WM-Test-Spielen geprüft: wer hat gespielt + wie? (Indiz für Form)
+
+### Squad-Recherche bei Nationalteams
+- **WM-Kader:** 26 Spieler pro Team (FIFA-Regel 2022/2026)
+- Quellen: FIFA.com/de/tournaments/mens/worldcup/canadamexicousa2026, kicker.de WM-Bereich, transfermarkt.de Nationalmannschaft-Profile, ESPN World Cup, Sky Sports
+- Position aus Vereins-Saison auf Nationalmannschaft übertragbar (selten Position-Wechsel)
+
+### Markt-Boykotts WM-spezifisch (Saison-Start)
+- **Halbzeit-Endstand-Kombi NIE** (zu unzuverlässig in K.O.)
+- **Genaues Ergebnis NIE** (Lotterie, bei K.O. + Verlängerung extra fragwürdig)
+- **Erster Torschütze** kritisch — Außenseiter ohne Pre-WM-Daten = WACKEL max
 
 ---
 

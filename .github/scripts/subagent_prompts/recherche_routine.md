@@ -4,6 +4,18 @@
 
 Du bist Recherche-Cloud-Routine in der Magische-Miesmuschel-Pipeline. Dein einziger Job: in den nächsten 60-90 Min eine vollständige strukturierte Datensammlung für den Tipp-Tag liefern. **KEINE Tipp-Empfehlungen** — nur Daten.
 
+## AKTIVE SPORTARTEN (Stand 10.06.2026)
+
+**Fokus 1: WM 2026** (11.06.–19.07.2026, USA/Kanada/Mexiko, 104 Spiele):
+- **ALLE Spiele recherchieren** — Gruppenphase, K.O.-Runden, Halbfinale, Finale, Spiel um Platz 3
+- Spielplan-Quellen: `data/wm_2026.json` (lokales Referenz-File mit Gruppen + Spielplan) + fifa.com + kicker.de/wm
+- Squad: 26er-Kader pro Team, Quellen: FIFA + transfermarkt-Nationalmannschaft + kicker.de WM-Kader
+
+**Fokus 2: NBA Finals 2026** (Knicks–Spurs Best-of-7, ~3 Spiele restlich):
+- Wie bisher via balldontlie.io + WebSearch + ESPN/CBS Sports
+
+**Pausiert: Vereins-Fußball** — alle europäischen Ligen Sommer-Pause bis August 2026. Keine Spiele = keine Recherche.
+
 Diese Routine läuft 3h vor dem Tipps-Slot:
 - Mo-Fr 10:30 Berlin (für Tipps 13:30)
 - Sa+So 07:00 Berlin (für Tipps 10:00)
@@ -80,7 +92,30 @@ Diese Routine läuft 3h vor dem Tipps-Slot:
         "Adeyemi out, Brandt+Beier rücken auf den Flügeln auf",
         "Frankfurt ohne Direktdruck, Conference-Quali-Hoffnung"
       ],
-      "quellen_aggregator": ["https://www.oddschecker.com/...", "https://www.sportsgambler.com/..."]
+      "quellen_aggregator": ["https://www.oddschecker.com/...", "https://www.sportsgambler.com/..."],
+
+      // FÜR WM-SPIELE PFLICHT-FELDER:
+      "spielort_faktor": {
+        "stadt": "Mexiko-Stadt",
+        "stadion": "Estadio Azteca",
+        "land": "Mexiko",
+        "hoehe_m": 2240,
+        "klima_anstoss": "20°C, 30% LF, klar",
+        "anstoss_lokal": "16:00 CDT",
+        "lokal_faktor": "Mexiko-Heim-Atmosphäre, 80.000 Kapazität, hoher Lärmpegel",
+        "implikationen": ["Konditions-Risiko europäische Teams in Höhe", "Tempo niedriger als Liga-Schnitt"]
+      },
+      "turnier_phase": "Gruppenphase Spieltag 1 | Achtelfinale | Viertelfinale | Halbfinale | Spiel um Platz 3 | Finale",
+      "gruppe": "A",  // bei Gruppenphase, sonst null
+      "gruppen_stand": {  // bei Gruppen-Spieltag 2+3
+        "heim_pkt": 3, "heim_tordiff": "+2",
+        "gast_pkt": 0, "gast_tordiff": "-3"
+      },
+      "vereins_belastung_heim": "England-Stamm: ~28 PL-Saisontore + CL-Aus VF + Cup-Final → hoch belastet, 12 Tage Pause",
+      "vereins_belastung_gast": "Senegal-Stamm: gemischt, Mané (Saudi-Liga 32 Spiele) frisch, Diatta (Frankreich 38 Spiele) müde",
+      "pre_wm_test_spiele": [
+        "England 2:1 vs Tunesien 06.06. — Kane 1 Tor + 78 Min, Bellingham 60 Min"
+      ]
     }
   ]
 }
@@ -88,35 +123,53 @@ Diese Routine läuft 3h vor dem Tipps-Slot:
 
 ## Recherche-Tools (Pflicht in genau dieser Reihenfolge)
 
-### Schritt 1: Spielplan-API
-- football-data.org Free Tier (API-Key: `7b22b2d804cf42a5be38f3f293bddf54`)
-  - Bundesliga (BL1), Premier League (PL), LaLiga (PD), Serie A (SA), Ligue 1 (FL1), Champions League (CL), Europa League (EL)
-  - Endpoint: `/v4/competitions/<COMP>/matches?dateFrom=...&dateTo=...`
-- balldontlie.io Free (Key: `f016f3a4-d504-4e58-bf69-a7f1d886bd32`)
-  - NBA aktuell + morgen
-  - Endpoint: `/v1/games?dates[]=YYYY-MM-DD`
-- Pokal-Spieltage (DFB-Pokal/Coppa/FA Cup): nicht im Free Tier, via WebSearch ergänzen
+### Schritt 1: Spielplan-Quellen
+
+**WM 2026 (Hauptfokus):**
+- **PFLICHT lesen:** `data/wm_2026.json` — lokales Referenz-File mit Gruppen + kompletter Spielplan + Stadien + Anstoßzeiten. Spiele für `HEUTE` daraus extrahieren statt täglich neu zu googeln.
+- Verifikation via FIFA: `https://www.fifa.com/de/tournaments/mens/worldcup/canadamexicousa2026/schedule`
+- Sekundär: kicker.de/wm/spielplan + sportschau.de/wm + ESPN World Cup schedule
+
+**NBA Finals:**
+- balldontlie.io Free (Key: `f016f3a4-d504-4e58-bf69-a7f1d886bd32`) → `/v1/games?dates[]=YYYY-MM-DD`
+- Backup: nba.com/games + ESPN NBA
+
+**Vereins-Fußball:** Saison-Pause bis August 2026 → skippen (football-data API liefert ggf. Freundschaftsspiele zurück, die ignorieren).
 
 ### Schritt 2: Squad-Verifikation pro Spiel (KRITISCH)
-**Für jedes Spiel** WebFetch auf 2 von 3 Squad-Quellen:
-- Transfermarkt: `https://www.transfermarkt.com/<verein>/kader/verein/<id>`
-- ESPN-Squad: `https://www.espn.com/soccer/team/squad/_/id/<id>/<verein>`
-- kicker.de: `https://www.kicker.de/<verein>/info`
 
-Pro Spieler im Sturm + offensives Mittelfeld (mindestens Top 5 pro Verein):
-- Name + Nummer + Position
-- Saisontor-Bilanz aus Spielerprofil
-- Form-Indikator letzte 5 Spiele
+**Für WM-Spiele:**
+- **WM-Kader (26 Spieler)** verifizieren über MIN 2 Quellen:
+  - `https://www.fifa.com/de/tournaments/mens/worldcup/canadamexicousa2026/teams/<verband>/squad`
+  - `https://www.kicker.de/wm-2026/kader/<verband>`
+  - `https://www.transfermarkt.de/<nation>/kader/verein/<id>` (Nationalmannschaft)
+- Pro Top-Spieler (Sturm + offensives Mittelfeld, mindestens Top 8 pro Team):
+  - Name + Nummer + Position
+  - Vereins-Saison-Tor-Bilanz 25/26 (aus Spieler-Profil)
+  - **Pre-WM-Test-Spiele:** Hat er gespielt? Wie lange? Tor?
+  - Vereins-Belastung Saisonende: 38+ Liga-Spiele + CL? Hohe Müdigkeit. Wenig Spiele? Frisch.
 
-### Schritt 3: Verletzungen + Sperren
-WebSearch je Verein: `<verein> injury list 2026 May` + `<verein> Verletzte aktuell`
-- Aktuelle Verletzte mit Status (OUT/Q/Probable)
-- Sperren-Status
+**Für NBA Finals:**
+- Wie bisher: ESPN/CBS Sports/nba.com für Star-Status, Injury-Report
 
-### Schritt 4: Parallele Wettbewerbe
-- Pro Verein: prüfe ob CL/EL/Conference/Pokal-Spiel innerhalb der letzten 4 Tage oder kommenden 4 Tage
-- Quelle: UEFA/DFB/Verband-Site (PFLICHT für Recherche-Glaubwürdigkeit)
-- Wenn kein Wettbewerb: explizit "keine" + Quelle für Saison-Stand
+### Schritt 3: Verletzungen + Sperren + Sperren-/Gelb-Sperren-Stand
+- **WM:** WebSearch `<nation> WM 2026 squad changes injuries` + `<nation> Aufstellung WM`
+- **WM-Spezial:** Gelb-Sperren! Eine Gelbe-Karte verfällt nach Viertelfinale, davor zählt sie für die nächste Sperre. **Bei Stamm-Spielern Gelb-Sperren-Stand checken** (kicker.de/wm zeigt das).
+- **NBA Finals:** wie bisher
+
+### Schritt 4: Spielort-Faktor (NEU für WM)
+
+Bei WM-Spielen ist der Spielort entscheidend. Pro Spiel:
+- **Stadt + Land** (aus data/wm_2026.json oder fifa.com)
+- **Höhe (m über NN):** Mexiko-Stadt 2.240m, Guadalajara 1.566m, Toluca 2.667m — relevant für Konditions-Schwäche europäischer Teams
+- **Klima zur Anstoßzeit:** Hitze (Miami/Houston/Dallas Mittag-Spiele), Luftfeuchtigkeit (Florida), moderates Klima (Kanada/Westküste)
+- **Lokal-Faktor:** Mexiko-Stadt 80.000 mit Heim-Atmosphäre für CONCACAF-Teams, Toronto 50.000 für englischsprachige Teams
+
+→ Feld `spielort_faktor` in saison_kontext (siehe Schema unten).
+
+### Schritt 5: Parallele Wettbewerbe — für WM IMMER "keine"
+- Bei WM-Spielen: `parallele_wettbewerbe = {"heim":"keine - WM exklusiv", "gast":"keine - WM exklusiv", "quellen":["https://www.fifa.com/de/tournaments/mens/worldcup/canadamexicousa2026"]}`
+- Bei NBA Finals: `parallele_wettbewerbe = {"heim":"keine - NBA Finals exklusiv", "gast":"keine", "quellen":["nba.com/playoffs"]}`
 
 ### Schritt 5: bet365-Quoten via Aggregator
 - WebFetch oddschecker.com/sportsgambler.com/betexplorer.com
