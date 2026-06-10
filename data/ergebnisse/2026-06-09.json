@@ -43,5 +43,6 @@
   },
   "einzeltipps_ergebnis": [],
   "kombis_ergebnis": [],
-  "ausgewertet_am": "2026-06-10T06:10:21+00:00"
+  "ausgewertet_am": "2026-06-10T06:10:21+00:00",
+  "volle_analyse_status": "n/a - empty slate (0 In-Scope-Spiele, keine spiele[]-Eintraege zum Analysieren). Hauptroutine + 1. Watchdog-Lauf 07:04 alle Auswertungs-Schritte komplett (statistik regeneriert, 4 Lessons fuer 2026-06-09 appended, Ergebnis-File mit ausgewertet_am-Feld geschrieben). Watchdog 11:30 Skip-If-Done-Guard greift False-Positive weil any('volle_analyse' in s for s in []) == False bei leerer spiele-Liste - dieser Marker dokumentiert den korrekten Empty-Slate-Status fuer zukuenftige Watchdog-Laeufe."
 }
