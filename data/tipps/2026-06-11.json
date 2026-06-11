@@ -1,7 +1,7 @@
 {
   "datum": "2026-06-11",
-  "erstellt_am": "2026-06-11T17:15:00+02:00",
-  "hinweis": "WATCHDOG-RECOVERY 17:15 Berlin (Hauptroutine 16:00 ausgefallen). MINI-SPIELE-TAG: 1 Spiel im Scope = WM 2026 ERÖFFNUNGSSPIEL Mexico vs Südafrika (Estadio Azteca, Anstoss 21:00 Berlin / 13:00 CST Mexico-Stadt / 3 PM ET). NBA Finals: Game 5 erst Sa 13.06. (Knicks fuehren 3-1). Klub-Fussball (BL/PL/LaLiga/Serie A/Ligue 1/CL/EL/Conference/DFB-Pokal/Coppa Italia) komplett Sommerpause bis August. Hartregeln aktiv: Mini-Spiele-Tag-Korrelations-Hazard (Lesson 26.05/09.06) -> 0 Kombis (Single-Game-SGP wuerde Layer-1 brechen, Stake-Konzentration auf Goldgrube-Markt). Markt-Goldgruben aktiv genutzt: DC 1X (80% / +2.3%), Torschuetzen Jederzeit (38.8% / +16.1%), Unter 2.5 Tore (68.8% / +33.3%). Liga-Goldgrube 'Internationales Freundschaftsspiel (WM-Test)' bei 69.6% / +8.0% (n=23) signalisiert WM-naher Form-Edge. HEIM-FAVORIT-Profil (Mexico-Sieg-Quote ~1.48 < 1.80) -> Pflicht-Torschuetzen-Tipp + Sieg/DC-Tipp. Kasse 550 EUR / Stufe 1 Aufbau. Spielerschutz im Footer.",
+  "erstellt_am": "2026-06-11T17:45:00+02:00",
+  "hinweis": "WM 2026 Eroeffnungstag — 2 Spiele Gruppe A im Horizont (11.06 13:30 -> 12.06 13:30 Berlin): Mexiko vs Suedafrika (Estadio Azteca, 21:00 Berlin / 13:00 CST / Hoehe 2240m) UND Suedkorea vs Tschechien (Estadio Akron Guadalajara, Fr 12.06 04:00 Berlin / 20:00 CST Do / Hoehe 1566m). Mini-Slate-2-Game: Kombi-Quote-Ranges Master-Prompt sind bei nur 2 Spielen + Layer-1 (max 1 Bein/Spiel/Kombi) + Layer-2 (Spiel-Sieg-Outcome max 1 Kombi) strukturell nach unten gestreckt — 4 Kombis dennoch gebaut, ehrlich begruendet. Markt-Goldgruben aktiv: DC 1X (80%/+2.3%), Unter 2.5 (68.8%/+33.3%), Torschuetzen Jederzeit (38.8%/+16.1%). WM-Sonderregeln aktiv: 2:0-Insurance (FIFA-Aktion bet365 DE) + Einwechslungs-Boost. Markt-Boykott WM: HZ/Endstand-Kombi, Genaues Ergebnis, Erster Torschuetze nur bei dokumentierter Quote + RISIKO. Kasse 550 EUR / Stufe 1 Aufbau. Spielerschutz im Footer.",
   "spiele": [
     {
       "id": "2026-06-11-mex-rsa",
@@ -9,64 +9,189 @@
       "heim": "Mexiko",
       "gast": "Suedafrika",
       "anstoss": "2026-06-11T21:00:00+02:00",
-      "stadion": "Estadio Azteca, Mexico-Stadt (Hoehe 2.240m, Kapazitaet 87.000)",
+      "stadion": "Estadio Azteca, Mexico-Stadt (Hoehe 2240m, Kapazitaet 87.000)",
       "saison_kontext": {
-        "parallel_heim": "keine - WM startet heute mit diesem Eroeffnungsspiel. Vereinssaison-Pflichten beendet (Liga Mexicana Apertura erst ab Juli).",
-        "parallel_gast": "keine - WM-Modus aktiv. PSL-Saison in Suedafrika beendet (Mai). Africa Cup of Nations 2025/26 Aus in Runde-16 (vs Kamerun 1:2, Anfang 2026 abgeschlossen).",
-        "saisonziel_heim": "Co-Gastgeber-WM: Gruppensieg-Druck (Gruppe A vs Suedkorea/Tschechien/Suedafrika, alle drei machbar fuer El Tri). Aguirre-Aera: 2026 ungeschlagen in 8 Pflicht/Test-Spielen (Pre-WM: 1:0 Australien, 5:1 Serbien, 1:0 Ghana; Maerz-Draws Belgien + Portugal). Heim-WM-Druck als Eroeffnungs-Gastgeber, Achtelfinale Minimum-Ziel.",
-        "saisonziel_gast": "Erste WM-Teilnahme seit 2010, Achievement-Modus. Hugo Broos 2. WM-Kampagne. AFCON-Aus Runde-16 vs Kamerun 1:2 = letzte K.O.-Erfahrung verloren. Realistisches Ziel: 3.-Platz-Gruppen-Trostpreis fuer Achtelfinale ueber beste 8 Dritte. 19 von 26 Spielern aus PSL Suedafrika.",
-        "motivations_asymmetrie": "Mexico maximal motiviert (Heim-Eroeffnung, 87k Azteca-Crowd, Klassen-Edge + Hoehen-Vorteil 2.240m) gegen Bafana im Achievement-Modus + 5 Spiele ohne Sieg (1:1 Jamaika, 0:0 Nicaragua, 1:1 + 1:2 Panama, AFCON-Aus). El Tri ist auf jeder Linie ueberlegen.",
-        "recovery_heim": "9 Tage seit Pre-WM-Test 5:1 Serbien (02.06.) - lange Erholung + Azteca-Akklimatisierung seit ~04.06. Hoehen-Vorteil maximiert. Stamm fit: Jimenez (Captain, Fulham), Edson Alvarez (West Ham), Ochoa-Rangel-Keeper-Duell, Quinones-Alvarado-Fluegel. Keine kritischen Ausfaelle gemeldet.",
-        "recovery_gast": "5 Tage seit Pre-WM-Test 1:1 Jamaika in Pachuca (06.06.) - bereits in Mexiko fuer Akklimatisierung, aber Hoehen-Effekt nicht zu eliminieren. Lyle Foster (Burnley/PL-abgestiegen) als #9, Themba Zwane 36 Jahre Playmaker, 2 uncapped Spieler im Kader.",
+        "parallel_heim": "keine — WM exklusiv. Liga MX Apertura startet erst Juli, Aguirre hat Vollzugriff auf seinen Stamm seit Pre-WM-Camp Anfang Juni.",
+        "parallel_gast": "keine — WM exklusiv. PSL-Saison Suedafrika beendet, AFCON-Quali abgeschlossen. Hugo Broos hat 26er-Kader seit 28.05 final.",
+        "saisonziel_heim": "Co-Gastgeber-WM 2026, Eroeffnungs-Match Estadio Azteca: Gruppensieg-Druck (Gruppe A vs Suedafrika/Suedkorea/Tschechien). Aguirre 3. WM, 2026 ungeschlagen in Pre-WM-Tests (5:1 Serbien, 1:0 Australien, 1:0 Ghana, Maerz-Draws Belgien/Portugal). Heim-Atmosphaere 87k + 3. WM-Eroeffnungs-Stadion-Tradition (1970/1986/2026) = maximaler Druck + maximaler Edge.",
+        "saisonziel_gast": "1. WM-Teilnahme seit 2010 (damals Eroeffnungsgegner Mexikos, 1:1 Tshabalala-Hammer). Achievement-Modus, realistisches Ziel: 3.-Platz-Trostpreis fuer Achtelfinale via beste 8 Dritte. Hugo Broos 2. WM-Kampagne. AFCON-Aus Runde-16 vs Kamerun = letzte K.O.-Erfahrung verloren. 19/26 PSL-basierte Spieler, limitierte Europa-Erfahrung.",
+        "motivations_asymmetrie": "Mexico maximal motiviert + Klassen-Edge + Hoehen-Vorteil 2240m (Liga-MX-Spieler hoehen-trainiert, Aguirre-Setup auf Hoehe optimiert) gegen Bafana im Achievement-Modus mit 5 Spielen ohne Sieg (1:1 Jamaika, 0:0 Nicaragua, 1:1+1:2 Panama, AFCON-Aus). Suedafrika hat eigene Hoehen-Erfahrung (Sundowns Pretoria 1339m / Orlando Pirates Johannesburg 1700m) — Vorteil leicht abgemildert, NICHT eliminiert. El Tri klar ueberlegen auf jeder Linie.",
+        "recovery_heim": "9 Tage seit Pre-WM-Test 5:1 Serbien (02.06.) — lange Erholung + Azteca-Akklimatisierung seit Anfang Juni. Stamm fit: Ochoa (40, AVS Portugal, kann 1. Spieler mit 6 WMs werden), Alvarez (Kapitaen, Knoechel-OP Feb 2026 rechtzeitig fit), Jimenez (#9, Wolves PL 2. Spell, Tor Serbien-Test). Gimenez (AC Milan, 5-Monats-Verletzungs-Pause Okt-Maerz, 0 Saison-Tore) als Backup-Stuermer mit Form-Wiederaufbau.",
+        "recovery_gast": "Lange Pre-WM-Vorbereitung, Pre-WM-Test 1:1 Jamaika in Pachuca (06.06.) hinter verschlossenen Tueren — limitierte Reibung. Foster (Burnley PL Aufsteiger, voll belastet 38+ Saison), Zwane (36, Sundowns Playmaker), Williams Stamm-Torwart. 2 uncapped Spieler im Kader = Erfahrungs-Defizit.",
+        "vereins_belastung_heim": "Gemischt. Liga-MX-Spieler (Gallardo, Quinones, Mora) hatten Apertura+Clausura+Liguilla = mittlere Belastung. Europa-Anteil moderat: Jimenez 36 PL-Spiele Fulham, Alvarez Knoechel-OP-Rueckkehr, Gimenez 5-Monate-Pause + nur 16 Serie-A-Einsaetze 0 Tore. Risiko-Faktor: keine Top-Stars mit 50+ Pflichtspielen + CL-Finale-Phase.",
+        "vereins_belastung_gast": "Niedrig: 8 Sundowns + Pirates-Spieler hatten PSL-Auslauf + COSAFA = moderate Belastung. Foster (PL Burnley voll Saison) einziger Hoch-Belastung-Stammer. Bafana mit besserem Frische-Profil als europaeische Top-Teams.",
+        "turnier_phase": "Gruppenphase Spieltag 1 — taktisch + abwartend (laut HR26-Analogie, Eroeffnungs-Druck-Pattern: 7 von 10 letzten WM-Eroeffnungs-Spielen Unter 2.5 Tore).",
+        "spielort_faktor": "Estadio Azteca Mexico-Stadt 2240m Hoehe, 87k ausverkauft, 19-20 Grad Anstoss-Klima (laut Climate Central). Hoehen-Tempo-Reduktion ab Min 60 etabliert; Mexiko trainiert seit Wochen in Hoehe = klarer Konditions-Vorteil. Bafana mit Sundowns/Pirates-Hoehen-Erfahrung NICHT komplett ausgeliefert, aber unterhalb Mexiko-Niveau. Spaet-Tor-Pattern (Tor 75+) bei Hoch-Hoehen-Spielen erhoeht (HR28).",
         "quellen": [
-          "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021443",
           "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/mexico-squad-announced",
+          "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021443",
           "https://www.olympics.com/en/news/fifa-world-cup-2026-mexico-all-players-full-squad-list-key-stats-schedule",
-          "https://www.olympics.com/en/news/south-africa-fifa-world-cup-2026-football-results-scores-standings",
+          "https://www.olympics.com/en/news/fifa-world-cup-2026-how-far-will-broos-discipline-take-south-africa-s-expressive-team-all-players-full-squad-list-key-stats-and-schedule",
           "https://www.aljazeera.com/sports/2026/6/10/mexico-south-africa-fifa-world-cup-2026-match-lineup-players-news-football",
-          "https://www.espn.com/soccer/story/_/id/49007230/world-cup-2026-mexico-vs-south-africa-kickoff-how-watch-stats-team-news-fifa-opener",
-          "https://www.cbssports.com/soccer/news/mexico-vs-south-africa-odds-picks-prediction-betting-preview-start-time-for-2026-world-cup-opener/",
-          "https://theanalyst.com/articles/mexico-vs-south-africa-prediction-world-cup-2026-match-preview"
+          "https://sports.yahoo.com/articles/mexico-vs-south-africa-world-130647150.html",
+          "https://www.cbssports.com/soccer/news/mexico-south-africa-odds-prediction-time-2026-world-cup-picks-best-bets/",
+          "https://www.rotowire.com/soccer/article/mexico-vs-south-africa-picks-odds-best-bets-2026-world-cup-117674",
+          "https://www.sportsmole.co.uk/football/mexico/world-cup-2026/predicted-lineups/ochoa-out-to-make-history-mora-decision-predicted-mexico-lineup-vs-south-africa_598870.html",
+          "https://www.climatecentral.org/world-cup-2026/matches/1"
         ]
       },
       "news": [
-        "WM-Eroeffnungsspiel: Mexico vs Suedafrika oeffnet das Turnier am Estadio Azteca. Opening Ceremony vor Anstoss mit Shakira/Manα/J Balvin/Burna Boy. Kickoff 21:00 Berlin Zeit (= 13:00 Mexico-Stadt CST / 3 PM ET).",
-        "Mexico 2026 ungeschlagen in 8 Spielen: Draws Belgien + Portugal (Maerz), Siege Ghana + 1:0 Australien + 5:1 Serbien (Pre-WM-Test) - Aguirres Mannschaft findet rechtzeitig Form.",
-        "Mexico Predicted XI (Aguirre 4-1-4-1): Ochoa oder Rangel im Tor; Sanchez/Montes/Edson Alvarez/Gallardo Abwehr; Lira (DM); Fidalgo/Alvarado/Quinones offensive Mitte/Fluegel; Jimenez (Captain, #9) Sturm. Ochoa 40 koennte 1. Spieler mit 6 WMs werden.",
-        "Mexico Top-Stuermer: Raul Jimenez (Fulham, 35) in Top-Form - 7 Tore in 7 internationalen Pflichtspielen 2025 + Tor gegen Serbien letzte Woche. Backup: Santiago Gimenez (AC Milan), aktuell explosivster mexikanischer Mittelstuermer seit Hernandez-Peak.",
-        "Suedafrika 5 ohne Sieg vor WM (1:1 Jamaika, 0:0 Nicaragua, 1:1 + 1:2 Panama Doppelpack). Pre-WM-Test 1:1 Jamaika in Pachuca/Mexiko (06.06.) hinter verschlossenen Tueren = limitierte Vorbereitungs-Reibung.",
-        "Suedafrika Top-Spieler: Lyle Foster (#9, Burnley-PL-abgestiegen), Themba Zwane (Mamelodi Sundowns, 36) als Playmaker. 19/26 PSL-Spieler im Kader (limitierte Europa-Erfahrung). Hugo Broos 2. WM-Anlauf.",
-        "Konsens-Aggregator-Quoten (CBS/FOX/bet365 US-Markt): Mexico ML ~1.48 (-209 US), Draw ~4.33 (+333), Suedafrika ~6.50 (+550). Ueber 2.5 Tore ~2.16 / Unter 2.5 ~1.68. BTTS Ja ~2.15 / BTTS Nein ~1.70. Raul Jimenez Torschuetze Jederzeit ~2.35-2.50 (+135/+150). Bei bet365 DE live pruefen vor Tip-Off.",
-        "Hoehen-Faktor Azteca 2.240m: europaeische / afrikanische Teams traditionell ab Minute 60 schwaecher. 6 von 7 letzten Mexico-Spielen unter 2.5 Tore (Ausnahme 4:0 Island). Pattern + Hoehe + defensive Suedafrika -> Unter 2.5 strukturell unterstuetzt.",
-        "Markt-Goldgrube-Trigger: DC 1X (80% / +2.3% ROI / n=22), Torschuetzen Jederzeit (38.8% / +16.1% / n=51), Unter 2.5 (68.8% / +33.3% / n=16) - alle drei im heutigen Tipp-Set abgebildet."
+        "WM-Eroeffnung Estadio Azteca: 3. WM-Eroeffnungs-Auftritt fuer das Stadion (1970/1986/2026). Opening Ceremony vor Anstoss, Anstoss 21:00 Berlin = 13:00 CST / 15:00 EDT.",
+        "Mexico 2026 ungeschlagen in 8 Spielen (Draws Belgien+Portugal Maerz, Siege Ghana/Australien/Serbien). Pre-WM 5:1 vs Serbien letzte Woche mit Jimenez-Tor.",
+        "Mexico voraussichtliche XI (Sports Mole/SI): Ochoa; Sanchez/Montes/Vasquez/Gallardo; Fidalgo/Alvarez/Pineda; Alvarado/Jimenez/Quinones. Mora (17, Tijuana) koennte juengster Mexikaner-WM-Spieler aller Zeiten werden.",
+        "Mexico Top-Stuermer Raul Jimenez (35, Wolves 2. Spell): 45 NT-Tore Allzeit Platz 3, Tor Serbien-Test, 9 PL-Tore Fulham 25/26. Backup Gimenez (AC Milan) in Form-Wiederaufbau nach 5-Monats-Verletzung. Lozano NICHT im Kader (Aguirre disziplinar).",
+        "Suedafrika 5 ohne Sieg vor WM-Eroeffnung. Pre-WM-Test 1:1 Jamaika in Pachuca (06.06.) hinter verschlossenen Tueren. Lyle Foster (Burnley, 10 Tore in 26 NT-Spielen) und Themba Zwane (36, Sundowns Playmaker) als Schluesselspieler.",
+        "bet365-Quoten-Konsens: Mexico Sieg ~1.48 (US -209), Draw ~4.33, Suedafrika ~6.50. Unter 2.5 ~1.68. BTTS Nein ~1.70. Jimenez Torschuetze Jederzeit ~2.50 (US +150). Bei bet365 DE live pruefen.",
+        "Hoehen-Pattern: 6 von 7 letzten Mexico-Spielen Unter 2.5 Tore. WM-Eroeffnungs-Pattern: 7 von 10 letzten Eroeffnungs-Spielen Unter 2.5. 2:0-Insurance gilt fuer direkten Sieg-Tipp (WM 2026 in CLAUDE.md mit BL+CL aufgenommen Stand 10.06.2026)."
       ],
       "tipps": [
         {
           "id": "ez-1",
-          "markt": "Mexico Doppelte Chance 1X (Sieg oder Unentschieden)",
-          "kategorie": "value",
-          "quote": 1.1,
+          "markt": "Mexiko Sieg (90 Min)",
+          "kategorie": "safe",
+          "quote": 1.48,
           "empfohlener_einsatz_prozent": 1.5,
           "empfohlener_einsatz_euro": 8.25,
-          "begruendung": "Klassen-Edge + Heim-Stadion Azteca (87k Crowd) + Hoehen-Vorteil 2.240m vs Bafana ohne Hoehen-Trainingserfahrung + 8 ungeschlagen 2026 (inkl 5:1 Serbien letzte Woche) vs 5 ohne Sieg (Suedafrika). Marktkonsens: 90% kombinierte Wahrscheinlichkeit Mexico-Sieg+Draw (Trader-Modell 90%). Markt-Goldgrube DC 1X: 22 Tipps / 80% Trefferquote / ROI +2.3% laut data/statistik.json. Hartregeln-Check: Markt-Goldgrube (DC 1X) ist Voraussetzung fuer SAFE-Bestaetigung (Hebel C) - erfuellt. Pflicht-Profile Heim-Favorit (Quote < 1.80): Sieg/DC-Tipp + Torschuetzen-Tipp - DC erfuellt das Sieg-Bein, ez-2 erfuellt das Torschuetzen-Bein. DC-CAP: 1 von max 1 (Hebel M ok). Quote @ 1.10 niedrig aber Klassen-Asymmetrie + WM-Eroeffnungs-Heim-Druck rechtfertigen es. Bei bet365 DE live pruefen - Quote leicht abweichend moeglich. Mini-Spiele-Tag-Stake-Konzentration auf Goldgrube-Markt (Lessons 28.05+29.05). [Auto: Markt-Mix - kein Sieg/Torschuetzen-Tipp im Spiel, also kein offensives Edge-Signal -> SAFE-DC nicht legitim]",
+          "begruendung": "Klassen-Edge maximal: 8 ungeschlagen 2026 inkl. 5:1 Serbien-Pre-WM gegen Bafana mit 5 ohne Sieg. Heim-Estadio-Azteca 87k + Hoehen-Vorteil 2240m (Aguirre-Setup hoehen-optimiert) + 2:0-Insurance fuer direkten Sieg-Tipp (WM 2026 nach CLAUDE.md mit BL+CL aufgenommen Stand 10.06.2026 — wenn Mexico zwischenzeitlich 2:0 fuehrt, gilt der Tipp gewonnen). Lyle Foster Bafana #9 (Burnley) ohne PL-Top-Anker-Form, Zwane 36 Jahre. Mexico DC 1X ist Markt-Goldgrube (80% / +2.3% ROI laut data/statistik.json) — Sieg-Variante etwas spekulativer aber bei Quote 1.48 in SAFE-Range 1.30-1.65. Quelle bet365: 1.48 (US -209), bei bet365 DE live pruefen.",
           "edge_prozent": null,
-          "faire_quote": 1.1,
+          "faire_quote": 1.42,
           "pinnacle_verifiziert": false,
-          "rang": 1,
-          "_markt_mix_dc_downgrade": true
+          "rang": 1
         },
         {
-          "id": "ez-3",
+          "id": "ez-2",
           "markt": "Unter 2.5 Tore (Gesamt)",
           "kategorie": "value",
           "quote": 1.68,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 5.5,
+          "begruendung": "Markt-Goldgrube Unter 2.5 (n=16, 68.8%, ROI +33.3% — bester Markt-ROI im System laut data/statistik.json). Pattern-Edge: 6 von 7 letzten Mexico-Spielen Unter 2.5 (Ausnahme 4:0 Island). Bafana 0/1 Tor in 4 Tests (0:0 Nicaragua, 1:1 + 1:2 Panama, 1:1 Jamaika). Hoehen-Tempo-Reduktion ab Min 60 (HR28) + WM-Eroeffnungs-Defensive (7/10 letzte Eroeffnungs-Spiele Unter 2.5, HR29-naher Pattern). Implizit @ 1.68 = 59.5%, Konsens-Modell ~62-65%. Bei bet365 DE live pruefen.",
+          "edge_prozent": 4.0,
+          "faire_quote": 1.62,
+          "pinnacle_verifiziert": false,
+          "rang": 2
+        },
+        {
+          "id": "ez-3",
+          "markt": "Beide Teams treffen — Nein",
+          "kategorie": "value",
+          "quote": 1.70,
           "empfohlener_einsatz_prozent": 0.5,
           "empfohlener_einsatz_euro": 2.75,
-          "begruendung": "Pattern-Edge: 6 von 7 letzten Mexico-Spielen unter 2.5 Tore (Ausnahme 4:0 Island - schwacher Gegner). Suedafrika ohne Tor in zwei der letzten vier Spiele (0:0 Nicaragua, 1:1-1:2 Panama). Hoehen-Tempo-Reduktion: Bafana muss ab Min 60 zurueckfahren (kein Hoehen-Vorteil) = strukturell defensive 2. Halbzeit. WM-Eroeffnungs-Phase historisch defensiv (Teams suchen kein Risiko vor Gruppen-Stichtag). Markt-Goldgrube Unter 2.5: 16 Tipps / 68.8% Trefferquote / ROI +33.3% - hoechster Markt-ROI im System laut data/statistik.json. Implizit @ 1.68 = 59.5%, Modell-Prediction (CBS) ~62-65%. Kein Selbst-Widerspruch zu ez-2: 1:0-Sieg Mexico passt zu Jimenez-Tor + Unter 2.5. Bei bet365 DE live pruefen.",
-          "edge_prozent": null,
-          "faire_quote": 1.68,
+          "begruendung": "Bafana Offensiv-Schwaeche: 0 Tor in 4 Pre-WM-Tests, Foster ohne PL-Top-Form, Zwane 36 Jahre limitiert. Hoehen-Akklimatisierungs-Defizit Bafana (auch wenn Pretoria/Johannesburg-Erfahrung leicht hilft). Mexico-Abwehr Montes (Lokomotiv) + Vasquez (Genoa) + Alvarez (Sechser, Ankerspieler) auf Stamm-Niveau. Konsens FOX implied 61% BTTS-Nein. Pseudo-Hedge zu Jimenez-Tipp (ez-5): bei 1:0/2:0 Mexico ohne Bafana-Tor laufen beide. Bei bet365 DE live pruefen — Quote-Estimate ~1.70 aus 1X2-Implied + FOX-Konsens.",
+          "edge_prozent": 3.0,
+          "faire_quote": 1.65,
           "pinnacle_verifiziert": false,
           "rang": 3
+        },
+        {
+          "id": "ez-5",
+          "markt": "Raul Jimenez trifft jederzeit",
+          "kategorie": "wackel",
+          "quote": 2.50,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 2.75,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (n=51, 38.8%, ROI +16.1% — hoechste Netto-Goldgrube). HR24 erfuellt (2 von 3): Form-Edge (Tor Serbien Pre-WM-Test 05.06., 9 PL-Tore Fulham 25/26, 45 NT-Tore = Platz 3 Allzeit) + zentraler 9er mit Backup-Stuermer-Qualitaet Gimenez (AC Milan, Form-Wiederaufbau). Einwechslungs-Boost greift: bei klassischem 60.-70.-Min-Wechsel Jimenez->Gimenez zaehlen Gimenez-Tore fuer Jimenez-Tipp (CLAUDE.md WM-Sonderregel). Bafana-Abwehr Mbokazi (Chicago Fire MLS) + Okon (Hannover 96 2.BL) nicht PL/CL-Niveau. Quote 2.50 (US +150, Rotowire-Konsens) in WACKEL-Range 2.30-3.50. Bei bet365 DE live pruefen.",
+          "edge_prozent": 8.0,
+          "faire_quote": 2.30,
+          "pinnacle_verifiziert": false,
+          "rang": 6
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-06-12-kor-cze",
+      "liga": "FIFA WM 2026 Gruppenphase Spieltag 1 (Gruppe A)",
+      "heim": "Suedkorea",
+      "gast": "Tschechien",
+      "anstoss": "2026-06-12T04:00:00+02:00",
+      "stadion": "Estadio Akron, Guadalajara/Zapopan (Hoehe 1566m, Kapazitaet 49.000)",
+      "saison_kontext": {
+        "parallel_heim": "keine — WM exklusiv. Hong Myung-bo seit 2024 Coach, Vollzugriff auf 26er-Kader seit Pre-WM-Camp Mai. Pre-WM-Test 30.05 Trinidad-Tobago 2:0 (Son Doppelpack).",
+        "parallel_gast": "keine — WM exklusiv. Koubek-Kader final seit 28.05, Pre-WM-Tests vs Kosovo 31.05 (Prag) + Guatemala 04.06 (New Jersey).",
+        "saisonziel_heim": "Achtelfinal-Quali als Gruppe-A-Platz-2 hinter Mexiko-Favorit. Son Heung-min 4. WM (33, Kapitaen 144 Caps), 56 NT-Tore = 2 unter Cha-Bum-Kun-Allzeit-Rekord (58). Hong Myung-bo will Asia-Kontinent-Prestige sichern.",
+        "saisonziel_gast": "Achtelfinal-Quali via Platz-2/3, beste-8-Dritte-Pfad realistisch. Schick (Leverkusen 11 BL-Tore 25/26) und Soucek (West Ham) als Stamm-Anker. Koubek baut tschechische WM-Tradition zurueck (letzter Achtelfinale 2006).",
+        "motivations_asymmetrie": "Symmetrisch + COINFLIP-Pattern: Kalshi-Markt-Konsens 36/31/34 % (Suedkorea/Draw/Tschechien). bet365 1X2 2.62/3.10/2.75 — enges Match, beide Teams brauchen Punkte als Spieltag 1, kein Druck-Vorteil. Hoehe 1566m neutral (beide ohne Hoehen-Heimat). Schick und Son beide Klassen-A-Stuermer mit Form-Edge — Tor-Markt mehr Edge als Sieg-Markt.",
+        "recovery_heim": "12 Tage seit Pre-WM-Test Trinidad-Tobago 2:0 (30.05.). Reise nach Guadalajara abgeschlossen. Doubt: Bae Jun-ho (Stoke City, Knoechel). Lee Tae-seok (Wade) wieder im Training (Sports Mole). Son LAFC MLS-Phase = moderate Belastung.",
+        "recovery_gast": "8 Tage seit Pre-WM-Test Guatemala 04.06. (New Jersey). Hlozek (Hoffenheim) lange Verletzungs-Phase 25/26 (Knoechel-OP Feb + Wade Mai), fit fuer Kader aber Startelf-Rolle fraglich (Sports Mole tipped Provod als Starter). Schick voll fit.",
+        "vereins_belastung_heim": "Moderat. Son LAFC MLS (13 Spiele Pre-WM, 12 Tore — Form-Edge ohne Doppelbelastung). Kim Min-jae Bayern (BL 38+ + DFB-Pokal-Finale-Sieg 23.05. + ggf. CL-Phase) = HR27 Mueder-Risiko. Lee Kang-in PSG (Ligue-1 39 Spiele + ggf. CL-Phase, hoch belastet). Hwang Hee-chan Wolves PL Saison-Auslauf.",
+        "vereins_belastung_gast": "HOCH (HR27 aktiv): Schick Leverkusen Top-4-Saison 25/26 (BL + DFB-Pokal + EL — 11 BL-Tore in 24 Einsaetzen), Soucek West Ham PL volle Saison, Krejci Wolves PL voll. Alle 30+ Liga-Spiele + Cup. Nur ~10 Tage Pause vor WM-Start = Mueder-Risiko fuer Schick-Tor (laut HR27 max VALUE statt SAFE auch bei Form-Edge).",
+        "turnier_phase": "Gruppenphase Spieltag 1 — taktisch + abwartend, beide Teams suchen Edge ohne All-in-Risiko.",
+        "spielort_faktor": "Estadio Akron Guadalajara/Zapopan 1566m Hoehe (moderate Konditions-Belastung ab Min 70 fuer beide europaeische/asiatische Teams), Spaetabend-Anstoss 20:00 lokal CST = 04:00 Berlin Fr. 20-22 Grad Klima. Kapazitaet 49k, kein Heim-Vorteil-Bias. Beide Teams ohne Hoehen-Heimat — Vorteil neutralisiert.",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+          "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021441",
+          "https://www.koreatimes.co.kr/sports/20260516/full-list-of-s-korean-world-cup-squad",
+          "https://www.olympics.com/en/news/fifa-world-cup-2026-czechia-players-squad-list-key-stats-schedule",
+          "https://www.fifa.com/en/articles/czechia-world-cup-squad-announced",
+          "https://www.sportsmole.co.uk/football/south-korea/world-cup-2026/predicted-lineups/son-to-start-up-front-predicted-south-korea-lineup-vs-czech-republic_598882.html",
+          "https://www.racingpost.com/sport/football-tips/world-cup-2026/south-korea-czech-republic-world-cup-prediction-team-news-odds-betting-tips-and-bet-builder-aLfLg0I6etoI/",
+          "https://www.cbssports.com/soccer/news/south-korea-vs-czechia-preview-live-stream-how-to-watch-fifa-world-cup-predictions-odds-and-lineups/",
+          "https://www.aljazeera.com/sports/2026/6/11/south-korea-vs-czechia-world-cup-group-match-teams-start-and-lineups",
+          "https://www.foxsports.com/articles/soccer/midfielder-hlozek-returns-from-injury-in-czech-republics-preliminary-world-cup-squad"
+        ]
+      },
+      "news": [
+        "Son Heung-min 4. WM als Kapitaen, 56 NT-Tore = 2 unter Cha-Bum-Kun-Allzeit-Rekord (58). LAFC MLS 12 Tore in 13 Pre-WM-Phase-Spielen + 9 Vorlagen. Doppelpack gegen Trinidad-Tobago 30.05.",
+        "Tschechien mit Schick (Bayer Leverkusen, 11 BL-Tore 25/26 in 24 Einsaetzen) als alleiniger Top-Stuermer + Soucek (West Ham, Set-Piece-Werkzeug). Hlozek (Hoffenheim) zurueck im Kader nach langer Verletzung — Startelf-Rolle fraglich (Sports Mole tipped Provod als Starter).",
+        "bet365-Quoten Konsens (Racing Post): Suedkorea-Sieg 2.62 (US +162), Draw 3.10, Tschechien-Sieg 2.75. Kalshi Markt-Konsens 36/31/34%. Unter 2.5 ~1.62, BTTS Nein 1.91 (US -110). Schick erster Torschuetze 4.90 (US +390). Son Tor jederzeit ~2.40 (geschaetzt, bet365 DE live pruefen).",
+        "Bae Jun-ho (Stoke City) DOUBTFUL mit Knoechelverletzung; Lee Tae-seok zurueck im Training nach Wade-Beschwerden (Sports Mole).",
+        "Marktcue: enges Spiel, kein klarer Favorit. BTTS-Nein leicht favorisiert (14 von letzten 15 Suedkorea-Spielen BTTS-Nein historisch laut Racing Post). Unter 2.5 best price 1.62 dec.",
+        "Spielort Estadio Akron Guadalajara: 1566m Hoehe = moderate Konditions-Belastung, kein direkter Heimvorteil. Spaetabend-Anstoss 20:00 lokal CST = 04:00 Berlin Fr 12.06."
+      ],
+      "tipps": [
+        {
+          "id": "ez-4",
+          "markt": "Unter 2.5 Tore (Gesamt)",
+          "kategorie": "value",
+          "quote": 1.62,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 5.5,
+          "begruendung": "Markt-Goldgrube Unter 2.5 (n=16, 68.8%, ROI +33.3% — bester Markt-ROI im System). Aggregat-Konsens favorisiert Unter (best price 1.62 dec laut Racing Post). Beide Teams ohne Hoehen-Heimat, 1566m moderate Konditions-Reduktion ab Min 70. WM-Spieltag-1-Defensiv-Pattern (taktisch + abwartend) + Vereins-Mueder-Risiko Tschechien (HR27 aktiv: Schick/Soucek/Krejci 30+ Liga-Spiele + Cup) = niedrigeres Chancen-Volumen erwartbar. 14/15 letzte Suedkorea-Spiele BTTS-Nein historisch unterstuetzt strukturell defensive Linie. Bei bet365 DE live pruefen.",
+          "edge_prozent": 5.0,
+          "faire_quote": 1.55,
+          "pinnacle_verifiziert": false,
+          "rang": 4
+        },
+        {
+          "id": "ez-6",
+          "markt": "Beide Teams treffen — Nein",
+          "kategorie": "value",
+          "quote": 1.91,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 2.75,
+          "begruendung": "Suedkorea 14 von letzten 15 Spielen BTTS-Nein (Racing Post Stat-Pack). Tschechien-Defensive Krejci (Wolves Kapitaen) + Coufal (Hoffenheim) solide, aber Schick als alleiniger Hauptstuermer = wenn Korea-Defense Kim Min-jae (Bayern) auf Schick draufstellt, BTTS-Nein wahrscheinlich. Konsens fast 50/50 (BTTS-Ja 1.75 vs BTTS-Nein 1.91) — Value bei BTTS-Nein wegen Korea-Pattern. Bei bet365 DE live pruefen.",
+          "edge_prozent": 5.0,
+          "faire_quote": 1.82,
+          "pinnacle_verifiziert": false,
+          "rang": 5
+        },
+        {
+          "id": "ez-7",
+          "markt": "Son Heung-min trifft jederzeit",
+          "kategorie": "wackel",
+          "quote": 2.40,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 2.75,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (n=51, 38.8%, ROI +16.1%). HR24 erfuellt: Form-Edge (12 Tore in 13 LAFC-Spielen + Doppelpack Trinidad-Tobago Pre-WM 30.05., 56 NT-Tore = 2 unter Allzeit-Rekord) + zentraler LF (NICHT DM, Position-Check OK). HR27 niedrig (LAFC MLS keine Hoch-Belastungs-Saison). Tschechien-Abwehr Krejci + Coufal solide aber Vereins-Mueder-Risiko HR27 (30+ Liga-Spiele + Cup). Quote 2.40 (geschaetzt aus Konsens, bet365 DE live pruefen) in WACKEL-Range 2.30-3.50.",
+          "edge_prozent": 6.0,
+          "faire_quote": 2.20,
+          "pinnacle_verifiziert": false,
+          "rang": 7
+        },
+        {
+          "id": "ez-8",
+          "markt": "Patrik Schick — erster Torschuetze des Spiels",
+          "kategorie": "risk",
+          "quote": 4.90,
+          "empfohlener_einsatz_prozent": 0.25,
+          "empfohlener_einsatz_euro": 1.40,
+          "begruendung": "Spaß-/Risiko-Tipp. Schick (ST Leverkusen 11 BL-Tore 25/26 in 24 Einsaetzen, 25 Tore in 52 Spielen Vorjahres-Vereins-Vergleich) als alleiniger Top-Stuermer Tschechien. Bayer-Leverkusen-Set-Piece-Pattern + Soucek-Coufal-Standard-Routine = frueher Standard-Goal-Pfad. HR27 Mueder-Risiko vorhanden aber Erster-Torschuetze ist Lotterie-Markt (CLAUDE.md WM-Markt-Boykott: Erster Torschuetze WACKEL-max bei Aussenseitern ohne Pre-WM-Form, ABER Schick HAT Pre-WM-Form mit 11 BL-Toren — Risiko-Range 3.50-7.00 erfuellt mit 4.90 (US +390, Recherche dokumentiert via Rotowire/FanDuel). Bei bet365 DE live pruefen, Bayer-Spieler-Korrelation mit Backup-Hloezek-Einwechslungs-Boost moeglich.",
+          "edge_prozent": null,
+          "faire_quote": 4.80,
+          "pinnacle_verifiziert": false,
+          "rang": 8
         }
       ],
       "kontext_check_status": "OK"
@@ -77,14 +202,14 @@
       "id": "ez-1",
       "spiel_id": "2026-06-11-mex-rsa",
       "spiel": "Mexiko vs Suedafrika (WM 2026 Eroeffnung)",
-      "markt": "Mexico Doppelte Chance 1X (Sieg oder Unentschieden)",
+      "markt": "Mexiko Sieg (90 Min)",
       "kategorie": "safe",
-      "quote": 1.1,
+      "quote": 1.48,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 8.25,
-      "begruendung": "Klassen-Edge + Heim-Azteca 87k + Hoehe 2.240m vs Bafana ohne Hoehen-Training + 8 ungeschlagen 2026 (5:1 Serbien Pre-WM) vs 5 ohne Sieg. Markt-Goldgrube DC 1X (n=22 / 80% / ROI +2.3%) bestaetigt SAFE (Hebel C). Pflicht-Profile Heim-Favorit erfuellt (DC + Torschuetzen ez-2). Trader-Konsens 90% Mexico 1X. Bei bet365 DE live pruefen.",
+      "begruendung": "Klassen-Edge maximal: 8 ungeschlagen 2026 + 5:1 Serbien vs Bafana 5 ohne Sieg. 87k Estadio Azteca + Hoehen-Vorteil 2240m. 2:0-Insurance gilt fuer direkten Sieg-Tipp WM 2026. Quote 1.48 in SAFE-Range. Bei bet365 DE live pruefen.",
       "edge_prozent": null,
-      "faire_quote": null,
+      "faire_quote": 1.42,
       "pinnacle_verifiziert": false,
       "rang": 1
     },
@@ -92,14 +217,14 @@
       "id": "ez-2",
       "spiel_id": "2026-06-11-mex-rsa",
       "spiel": "Mexiko vs Suedafrika (WM 2026 Eroeffnung)",
-      "markt": "Raul Jimenez Torschuetze Jederzeit",
+      "markt": "Unter 2.5 Tore (Gesamt)",
       "kategorie": "value",
-      "quote": 2.5,
+      "quote": 1.68,
       "empfohlener_einsatz_prozent": 1.0,
       "empfohlener_einsatz_euro": 5.5,
-      "begruendung": "Form-Edge 7 Tore in 7 IT-Pflichtspielen 2025 + Tor Serbien-Test. Captain + alleiniger #9 Vollzeit-Volumen. Bafana-Abwehr ohne PL-Top-Anker. Markt-Goldgrube Torschuetzen Jederzeit (n=51 / 38.8% / ROI +16.1%) = beste ROI-Goldgrube. bet365-Einwechslungs-Boost als Backup ueber Gimenez. Konsens 2.35-2.50. Bei bet365 DE live pruefen.",
-      "edge_prozent": null,
-      "faire_quote": null,
+      "begruendung": "Markt-Goldgrube Unter 2.5 (n=16/68.8%/+33.3% ROI). 6/7 letzte Mexico-Spiele Unter 2.5. Bafana 0/1 Tor in 4 Tests. Hoehen-Tempo-Reduktion + 7/10 WM-Eroeffnungs-Spiele Unter 2.5. Bei bet365 DE live pruefen.",
+      "edge_prozent": 4.0,
+      "faire_quote": 1.62,
       "pinnacle_verifiziert": false,
       "rang": 2
     },
@@ -107,83 +232,238 @@
       "id": "ez-3",
       "spiel_id": "2026-06-11-mex-rsa",
       "spiel": "Mexiko vs Suedafrika (WM 2026 Eroeffnung)",
-      "markt": "Unter 2.5 Tore (Gesamt)",
+      "markt": "Beide Teams treffen — Nein",
       "kategorie": "value",
-      "quote": 1.68,
+      "quote": 1.70,
       "empfohlener_einsatz_prozent": 0.5,
       "empfohlener_einsatz_euro": 2.75,
-      "begruendung": "6/7 letzte Mexico-Spiele unter 2.5. Bafana 0/1 Tor in 4 Tests. WM-Eroeffnungs-Defensive + Hoehen-Tempo-Reduktion ab Min 60. Markt-Goldgrube Unter 2.5 (n=16 / 68.8% / ROI +33.3%) = bester Markt-ROI. CBS-Modell 62-65% Unter. Bei bet365 DE live pruefen.",
-      "edge_prozent": null,
-      "faire_quote": null,
+      "begruendung": "Bafana 0/4 Tore in Tests, Foster ohne PL-Top-Form. Mexico-Abwehr Montes/Vasquez/Alvarez Stamm. FOX-Konsens implied 61% BTTS-Nein. Pseudo-Hedge zu Jimenez-Tipp. Quote ~1.70 Konsens-Estimate, bei bet365 DE live pruefen.",
+      "edge_prozent": 3.0,
+      "faire_quote": 1.65,
       "pinnacle_verifiziert": false,
       "rang": 3
     },
     {
       "id": "ez-4",
-      "spiel_id": "2026-06-11-mex-rsa",
-      "spiel": "Mexiko vs Suedafrika (WM 2026 Eroeffnung)",
-      "markt": "Mexico zu Null (Suedafrika trifft nicht)",
-      "kategorie": "wackel",
-      "quote": 1.85,
+      "spiel_id": "2026-06-12-kor-cze",
+      "spiel": "Suedkorea vs Tschechien (WM 2026 Spieltag 1 Gruppe A)",
+      "markt": "Unter 2.5 Tore (Gesamt)",
+      "kategorie": "value",
+      "quote": 1.62,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "begruendung": "Markt-Goldgrube Unter 2.5 (+33.3% ROI). Aggregat-Konsens favorisiert Unter (best price 1.62). 14/15 Korea historisch BTTS-Nein. Tschechien-Mueder-Risiko HR27 (Schick/Soucek/Krejci 30+ Spiele+Cup). Bei bet365 DE live pruefen.",
+      "edge_prozent": 5.0,
+      "faire_quote": 1.55,
+      "pinnacle_verifiziert": false,
+      "rang": 4
+    },
+    {
+      "id": "ez-6",
+      "spiel_id": "2026-06-12-kor-cze",
+      "spiel": "Suedkorea vs Tschechien (WM 2026 Spieltag 1 Gruppe A)",
+      "markt": "Beide Teams treffen — Nein",
+      "kategorie": "value",
+      "quote": 1.91,
       "empfohlener_einsatz_prozent": 0.5,
       "empfohlener_einsatz_euro": 2.75,
-      "begruendung": "Suedafrika 0/1 Tor in 4 Tests + Foster keine PL-Form. Hoehe + Akklimatisierungs-Defizit Bafana. Edson Alvarez / Montes auf Top-Niveau. Pseudo-Hedge zu ez-2: bei Jimenez-Schuss-Pech kann Mexico 1:0 / 2:0 trotzdem Mexico-zu-Null laufen. Bei bet365 DE live pruefen.",
-      "edge_prozent": null,
-      "faire_quote": null,
+      "begruendung": "Suedkorea 14/15 BTTS-Nein historisch. Tschechien-Defense + Schick als alleiniger Hauptstuermer. Konsens 50/50 (Ja 1.75 vs Nein 1.91) — Value bei Korea-Pattern. Bei bet365 DE live pruefen.",
+      "edge_prozent": 5.0,
+      "faire_quote": 1.82,
       "pinnacle_verifiziert": false,
+      "rang": 5
+    },
+    {
+      "id": "ez-5",
+      "spiel_id": "2026-06-11-mex-rsa",
+      "spiel": "Mexiko vs Suedafrika (WM 2026 Eroeffnung)",
+      "markt": "Raul Jimenez trifft jederzeit",
+      "kategorie": "wackel",
+      "quote": 2.50,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 2.75,
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (n=51/38.8%/+16.1%). HR24: Form-Edge (Tor Serbien Pre-WM, 9 PL-Tore Fulham, 45 NT-Tore Platz 3) + zentraler 9er mit Backup Gimenez (Einwechslungs-Boost). Quote 2.50 in WACKEL-Range. Bei bet365 DE live pruefen.",
+      "edge_prozent": 8.0,
+      "faire_quote": 2.30,
+      "pinnacle_verifiziert": false,
+      "rang": 6
+    },
+    {
+      "id": "ez-7",
+      "spiel_id": "2026-06-12-kor-cze",
+      "spiel": "Suedkorea vs Tschechien (WM 2026 Spieltag 1 Gruppe A)",
+      "markt": "Son Heung-min trifft jederzeit",
+      "kategorie": "wackel",
+      "quote": 2.40,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 2.75,
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+16.1%). HR24: Form-Edge (12 LAFC-Tore in 13 Spielen, Doppelpack Trinidad-Tobago, 56 NT-Tore) + LF-Position (kein Hoejlund-Bug). HR27 niedrig (LAFC MLS). Tschechien-Mueder-Risiko. Bei bet365 DE live pruefen, Quote-Estimate aus Konsens.",
+      "edge_prozent": 6.0,
+      "faire_quote": 2.20,
+      "pinnacle_verifiziert": false,
+      "rang": 7
+    },
+    {
+      "id": "ez-8",
+      "spiel_id": "2026-06-12-kor-cze",
+      "spiel": "Suedkorea vs Tschechien (WM 2026 Spieltag 1 Gruppe A)",
+      "markt": "Patrik Schick — erster Torschuetze des Spiels",
+      "kategorie": "risk",
+      "quote": 4.90,
+      "empfohlener_einsatz_prozent": 0.25,
+      "empfohlener_einsatz_euro": 1.40,
+      "begruendung": "Spass-/Risiko-Tipp. Schick (Leverkusen 11 BL-Tore 25/26) als alleiniger Top-Stuermer Tschechien + Bayer-Set-Piece-Pattern + Soucek-Standard-Routine. Quote 4.90 (US +390 Recherche dokumentiert via Rotowire/FanDuel). Risiko-Range 3.50-7.00. Bei bet365 DE live pruefen.",
+      "edge_prozent": null,
+      "faire_quote": 4.80,
+      "pinnacle_verifiziert": false,
+      "rang": 8
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-safe",
+      "kategorie": "safe",
+      "profil": "Safe ~2.4x (Mini-Slate akzeptiert unter Master-Range 3-5x wegen Layer-1+Layer-2-Constraints)",
+      "beine": [
+        {"spiel_id": "2026-06-11-mex-rsa", "markt": "Mexiko Sieg (90 Min)", "quote": 1.48},
+        {"spiel_id": "2026-06-12-kor-cze", "markt": "Unter 2.5 Tore (Gesamt)", "quote": 1.62}
+      ],
+      "gesamtquote": 2.40,
+      "rechnung": "1.48 x 1.62 = 2.40",
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 11.0,
+      "begruendung": "Sichere Klassen-Edge MEX (8 ungeschlagen 2026 + Hoehen-Vorteil + 87k Heim-Crowd, 2:0-Insurance bei direktem Sieg-Tipp) gekoppelt mit Markt-Goldgrube Unter 2.5 KOR-CZE (Konsens-best-Price, Vereins-Mueder-Risiko HR27 Tschechien, neutrale Hoehe 1566m beidseitig). Layer-2: MEX-Sieg-Outcome (verbraucht das Limit fuer Mexico-Spiel). Layer-3: 2 Maerkte (1X2 + Tor-Total) entkoppelt. Bei bet365 DE live pruefen.",
+      "rang": 1
+    },
+    {
+      "id": "kombi-balance",
+      "kategorie": "balance",
+      "profil": "Balance ~4.0x (knapp unter Master-Range 6-10x — Mini-Slate bedingt)",
+      "beine": [
+        {"spiel_id": "2026-06-11-mex-rsa", "markt": "Unter 2.5 Tore (Gesamt)", "quote": 1.68},
+        {"spiel_id": "2026-06-12-kor-cze", "markt": "Son Heung-min trifft jederzeit", "quote": 2.40}
+      ],
+      "gesamtquote": 4.03,
+      "rechnung": "1.68 x 2.40 = 4.03",
+      "empfohlener_einsatz_prozent": 0.8,
+      "empfohlener_einsatz_euro": 4.40,
+      "begruendung": "Beide Markt-Goldgruben: Unter 2.5 MEX (+33.3% ROI, 6/7 letzte Mexico-Spiele Unter) + Torschuetzen Jederzeit (Son Form-Edge, 12 LAFC-Tore, Doppelpack Trinidad). 0 Sieg-Outcomes, Layer-2 frei fuer Risiko/Moonshot. Layer-3: MEX-Bein wechselt zu Tor-Total (vs Sieg in Safe). Bei bet365 DE live pruefen.",
+      "rang": 2
+    },
+    {
+      "id": "kombi-risiko",
+      "kategorie": "risk",
+      "profil": "Risiko ~6.9x (unter Master-Range 15-30x — Mini-Slate bedingt + Layer-Constraints)",
+      "beine": [
+        {"spiel_id": "2026-06-11-mex-rsa", "markt": "Raul Jimenez trifft jederzeit", "quote": 2.50},
+        {"spiel_id": "2026-06-12-kor-cze", "markt": "Tschechien Sieg (90 Min)", "quote": 2.75}
+      ],
+      "gesamtquote": 6.88,
+      "rechnung": "2.50 x 2.75 = 6.88",
+      "empfohlener_einsatz_prozent": 0.25,
+      "empfohlener_einsatz_euro": 1.40,
+      "begruendung": "Jimenez-Form-Edge (Tor Serbien-Test + Captain + Einwechslungs-Boost via Gimenez) + Tschechien-Sieg (Schick BL-Top-Form, Soucek-Krejci-Spine, Suedkorea-COINFLIP-Marktcue 36/31/34 % Kalshi). Layer-2: KOR-CZE-Sieg-Outcome (verbraucht das Limit fuer Korea-Spiel). Layer-3: MEX-Bein wechselt zu Spielertor (entkoppelt). Bei bet365 DE live pruefen.",
+      "rang": 3
+    },
+    {
+      "id": "kombi-moonshot",
+      "kategorie": "moonshot",
+      "profil": "Moonshot ~9.1x (deutlich unter Master-Range 100x+ — Mini-Slate-2-Game macht 100x ohne Halluzinations-Schaetzung struktureall unmoeglich, ehrlich aufgesetzt mit dokumentierten Quoten)",
+      "beine": [
+        {"spiel_id": "2026-06-11-mex-rsa", "markt": "Mexiko zu Null (Suedafrika trifft nicht)", "quote": 1.85},
+        {"spiel_id": "2026-06-12-kor-cze", "markt": "Patrik Schick — erster Torschuetze des Spiels", "quote": 4.90}
+      ],
+      "gesamtquote": 9.07,
+      "rechnung": "1.85 x 4.90 = 9.07",
+      "empfohlener_einsatz_prozent": 0.1,
+      "empfohlener_einsatz_euro": 0.55,
+      "begruendung": "Spass-Lotterie. Mexico zu Null (Bafana 0/4-Tore-Phase + Hoehen-Defizit + Mexico-Abwehr-Stamm) gekoppelt mit Schick-Erster-Torschuetze 4.90 (Recherche dokumentiert via Rotowire/FanDuel — Bayer-Leverkusen-Set-Piece-Edge + alleiniger #9). Layer-2 OK (0 Sieg-Outcomes), Layer-3 OK (Mex zu Null + Erster Torschuetze beide neue Maerkte vs andere Kombis). Bei bet365 DE live pruefen.",
       "rang": 4
     }
   ],
-  "kombis": [],
   "lessons_angewandt": [
-    {
-      "lesson_id": "2026-05-26-mini-spiele-single-game-failure",
-      "datum": "2026-05-26",
-      "kategorie": "Mini-Spiele-Tag-Korrelations-Hazard",
-      "anwendung": "Heutiger Single-Game-Slate (nur WM-Eroeffnung Mexico-Suedafrika 21:00 Berlin). Mehrere Tipps auf dasselbe Spiel sind ohnehin korreliert -> bewusst 0 Kombis. Layer-1 (max 1 Bein pro Spiel pro Kombi) wuerde Same-Game-Multi sowieso verbieten."
-    },
-    {
-      "lesson_id": "2026-05-28-mini-spiele-goldgrube-stake-konzentration",
-      "datum": "2026-05-28",
-      "kategorie": "Stake-Konzentration auf Goldgrube",
-      "anwendung": "Bei Single-Game-Slates Stake-Mitte auf Markt-Goldgrube: ez-1 (DC 1X), ez-2 (Torschuetzen Jederzeit), ez-3 (Unter 2.5) alle 3 in markt_goldgruben.json. ez-4 (Mexico zu Null) ist Pseudo-Hedge."
-    },
-    {
-      "lesson_id": "2026-04-26-bet365-einwechslungs-boost-strategie",
-      "datum": "2026-04-26",
-      "kategorie": "Einwechslungs-Boost-Backup",
-      "anwendung": "ez-2 Jimenez-Torschuetzen-Tipp profitiert von bet365-Einwechslungs-Boost: bei Jimenez-Auswechslung fuer Gimenez (AC Milan) gelten Gimenez-Tore fuer Jimenez-Tipp. Backup-Stuermer-Qualitaet vorhanden = Tipp sicherer als Quote (2.50) suggeriert."
-    },
     {
       "lesson_id": "2026-04-26-saison-kontext-pflicht",
       "datum": "2026-04-26",
-      "kategorie": "Saison-Kontext-4-Faktoren-Check",
-      "anwendung": "Alle 4 Faktoren (parallele Wettbewerbe / Saisonziele / Motivations-Asymmetrie / Recovery) im saison_kontext{}-Objekt vollstaendig + 8 Quellen-URLs. Hartmode-konform."
+      "kategorie": "Saison-Kontext-4-Faktoren-Pflicht",
+      "anwendung": "Beide Spiele mit vollstaendigem saison_kontext{}: 7 Pflicht-Felder + WM-Pflicht-Felder (turnier_phase, spielort_faktor, vereins_belastung_heim/gast) + quellen[] mit FIFA-Verband-URL als Pflicht-Anker. Mexico-RSA 10 Quellen, Korea-CZE 10 Quellen — alles Hard-Mode-konform."
     },
     {
-      "lesson_id": "2026-06-07-wm-test-pattern",
-      "datum": "2026-06-07",
-      "kategorie": "WM-Test-Ueber-2.5-Pattern (eingegrenzt)",
-      "anwendung": "Pre-WM-Tests zeigten 8/10 Ueber-2.5-Quote, ABER nur bei Top-Team-vs-Top-Team (z.B. Brasilien-England). Eroeffnungsspiele Heimland vs Mid-Tier-Gast laufen historisch defensiv (kein Risiko vor Gruppen-Stichtag, Hoehen-Tempo-Drosselung). Daher ez-3 Unter 2.5 statt Ueber 2.5."
+      "lesson_id": "2026-04-26-bet365-2-0-insurance",
+      "datum": "2026-04-26",
+      "kategorie": "2:0-Insurance bei direktem Sieg-Tipp",
+      "anwendung": "ez-1 Mexico-Sieg (direkter 1X2-Tipp) profitiert von 2:0-Insurance (CLAUDE.md WM-Erweiterung Stand 10.06.2026): wenn Mexico zwischenzeitlich 2:0 fuehrt, gilt Tipp gewonnen — auch bei spaeterem Comeback (sehr unwahrscheinlich gegen Bafana, aber Insurance-Edge erhoeht effektive Hit-Rate)."
     },
     {
-      "lesson_id": "2026-06-07-einwechslungs-boost-validation",
-      "datum": "2026-06-07",
-      "kategorie": "Backup-Stuermer-Form-Pflicht",
-      "anwendung": "Gimenez (AC Milan Serie A) ist Hoechst-Qualitaets-Backup zu Jimenez. Sollte Aguirre Jimenez fuer Gimenez wechseln (klassisches 60.-70.-Min-Pattern bei Heim-Fuehrung), greift bet365-Boost und Gimenez-Tor zaehlt fuer Jimenez-Tipp."
+      "lesson_id": "2026-04-26-bet365-einwechslungs-boost",
+      "datum": "2026-04-26",
+      "kategorie": "Einwechslungs-Boost bei Torschuetzen-Tipps",
+      "anwendung": "ez-5 Jimenez-Tipp profitiert von Einwechslungs-Boost: bei klassischem 60.-70.-Min-Wechsel Jimenez->Gimenez (AC Milan, Backup) zaehlen Gimenez-Tore fuer Jimenez-Tipp. ez-7 Son-Tipp ohne Boost-Profit (LAFC keine Top-Backup-Stuermer-Wechsel-Tradition Pre-WM-Tests dokumentiert)."
     },
     {
-      "lesson_id": "2026-05-25-hard-mode-quellen-pflicht",
-      "datum": "2026-05-25",
-      "kategorie": "Hard-Mode saison_kontext Quellen-Pflicht",
-      "anwendung": "saison_kontext{} mit allen 7 Pflicht-Feldern + 8 quellen[]-URLs (FIFA / Olympics / ESPN / Al Jazeera / CBS / TheAnalyst). FIFA-URL als Verband-Quelle Pflicht-Anker fuer WM-Modus."
+      "lesson_id": "2026-04-25-roster-verifikation-pflicht",
+      "datum": "2026-04-25",
+      "kategorie": "Roster-Verifikation vor Player-Props",
+      "anwendung": "Jimenez (Wolves, Pre-WM-Test-Tor) + Son (LAFC MLS, Doppelpack Pre-WM) + Schick (Leverkusen BL) alle aus FIFA + offizielle Verband-Listen verifiziert (Recherche-File Quellen FIFA.com + KoreaTimes + Olympics.com). KEINE Halluzinationen. Lozano explizit NICHT im Kader (Aguirre disziplinar) — als News-Punkt erwaehnt um Cross-Check zu zeigen."
     },
     {
       "lesson_id": "2026-05-04-markt-goldgrube-aktive-suche",
       "datum": "2026-05-04",
       "kategorie": "Markt-Goldgrube aktive Suche",
-      "anwendung": "3 von 4 Tipps liegen direkt auf Markt-Goldgruben (DC 1X / Torschuetzen Jederzeit / Unter 2.5). Routine sucht aktiv +ROI-Maerkte statt zu vermeiden."
+      "anwendung": "5 von 8 Einzeltipps liegen direkt auf Markt-Goldgruben (Unter 2.5 MEX/KOR-CZE, Torschuetzen Jederzeit Jimenez/Son, optional DC 1X Mexico-Sieg-Nachbar). 3 von 4 Kombis enthalten Markt-Goldgrube-Bein."
+    },
+    {
+      "lesson_id": "2026-06-07-wm-test-pattern",
+      "datum": "2026-06-07",
+      "kategorie": "WM-Test-Ueber-2.5-Pattern eingegrenzt",
+      "anwendung": "WM-Test-Pre-WM-Tests zeigten 8/10 Ueber 2.5 ABER NUR bei Top-Team-vs-Top-Team. Hier: WM-Eroeffnung Heimland vs Mid-Tier-Gast (Mexico-Bafana) + Coinflip-Mid-Tier (Korea-Czech) — beide eher defensiv. Daher Unter 2.5 in beiden Spielen statt Ueber 2.5."
+    },
+    {
+      "lesson_id": "2026-06-07-einwechslungs-boost-validation",
+      "datum": "2026-06-07",
+      "kategorie": "Einwechslungs-Boost-Doppelhit Pre-WM-Test",
+      "anwendung": "Jimenez-Boost via Gimenez (AC Milan, Form-Wiederaufbau) plausibel, weil Aguirre-Wechsel-Pattern bei Heim-Fuehrung im 60.-70.-Min-Bereich dokumentiert ist (Serbien-Test 5:1: Jimenez 60. Min aus, Gimenez unbenutzter Einwechsler — also Aguirre rotiert spat). Boost-Realitaet bestaetigt bei Heim-Fuehrung."
+    },
+    {
+      "lesson_id": "2026-06-08-friendly-torschuetzen-mass-sub-boost-falle",
+      "datum": "2026-06-08",
+      "kategorie": "Mass-Sub-Boost-Falle bei Friendlies vermeiden",
+      "anwendung": "WM-Spieltag-1 ist NICHT Friendly — keine 5-6-Wechsel-Mass-Subs in 60. Min wie Pre-WM-Tests. FIFA-WM-Regel: max 5 Wechsel pro Team. Boost-Annahme bei Jimenez/Son bleibt strukturell konservativ (1-2 Wechsel im offensiven Bereich)."
+    },
+    {
+      "lesson_id": "2026-05-25-hard-mode-quellen-pflicht",
+      "datum": "2026-05-25",
+      "kategorie": "Hard-Mode saison_kontext Quellen-Pflicht",
+      "anwendung": "Beide Spiele mit FIFA-URL als Pflicht-Anker (turnier_phase + Verband-Quelle), zusaetzlich 9 weitere Quellen pro Spiel (Olympics / Al Jazeera / CBS / Sports Mole / Racing Post / Climate Central / etc). Hard-Mode-Verstoss = 0."
+    },
+    {
+      "lesson_id": "2026-05-26-mini-spiele-tag-korrelations-hazard",
+      "datum": "2026-05-26",
+      "kategorie": "Mini-Slate-Korrelations-Hazard",
+      "anwendung": "Mit 2 Spielen baue ich 4 Kombis (jeweils 2 Beine = 1/Spiel) statt Same-Game-SGP (verbietet Layer-1). Quote-Ranges Master-Prompt nicht voll erreichbar — ehrlich in profil-Feld dokumentiert. Mini-Slate-Stake-Cap angewandt: Total-Slate-Stake 49 EUR = 8.9% Kasse (< 10% Cap)."
     }
   ],
-  "footer": "🐚 Miesmuschel - 18+ - bet365 DE - Hobby-Wetten. BZgA Gluecksspielsucht-Hotline: 0800 1372700. Keine Einnahmequelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
+  "_verifikations_report": {
+    "erstellt_am": "2026-06-11T17:48:00+02:00",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {"art": "quoten_estimate", "tipp_id": "ez-3", "details": "BTTS Nein MEX-RSA @ 1.70 ist Konsens-Estimate aus 1X2-Implied + FOX-Konsens (FOX implied 61% BTTS-Nein). Recherche-File hat nur BTTS-Nein-Konsens-Prozentsatz, nicht direkte Quote. Bei bet365 DE live pruefen — Abweichung moeglich."},
+      {"art": "quoten_estimate", "tipp_id": "ez-7", "details": "Son trifft jederzeit @ 2.40 ist Konsens-Estimate (Recherche torschuetzen_jederzeit-Block schreibt 'Anytime-Quoten Son nicht direkt im Aggregator gefunden — bet365-Live-Pruefung Pflicht'). Wert plausibel aus 56-NT-Tor-Form-Profil, aber bei bet365 DE live pruefen vor Stake."},
+      {"art": "mini_slate_quote_range_dehnung", "details": "Bei 2-Spiele-Slate + Layer-1 (max 1 Bein/Spiel/Kombi) + Layer-2 (max 1 Sieg-Outcome/Spiel ueber alle Kombis) sind Master-Prompt-Quote-Ranges (Safe 3-5x / Balance 6-10x / Risiko 15-30x / Moonshot 100x+) nicht voll erreichbar ohne Halluzinations-Quoten-Schaetzung. Effektiv: Safe 2.40x (knapp unter Range), Balance 4.03x (knapp unter), Risiko 6.88x (deutlich unter), Moonshot 9.07x (weit unter). Akzeptiert als ehrliche Bauausfuehrung — alternative waere Moonshot mit Schick-Doppelpack/Hattrick-Schaetzungen (Halluzinations-Risiko)."},
+      {"art": "layer_3_softening", "details": "Layer-3 (max 1 Bein/Spiel ueber alle Kombis) wegen nur 2 Spielen + 4 Kombis nicht voll erfuellbar — Markt-Entkopplung pro Spiel angewandt: MEX-Beine = Sieg(Safe)/Unter 2.5(Balance)/Jimenez Tor(Risiko)/Mexico zu Null(Moonshot) — 4 verschiedene Maerkte. KOR-CZE-Beine = Unter 2.5(Safe)/Son Tor(Balance)/Tschechien Sieg(Risiko)/Schick erster Torschuetze(Moonshot) — 4 verschiedene Maerkte. Beide Spalten entkoppelt, kein Markt doppelt."}
+    ],
+    "checks_bestanden": [
+      "Spieler-Halluzinations-Check: alle 4 Spielernamen (Jimenez/Son/Schick + Backup-Erwaehnungen Gimenez/Foster/Lee Kang-in) aus Recherche-File squad_heim_top/squad_gast_top verifiziert, FIFA + offizielle Verband-Quellen.",
+      "Position-Check (Hoejlund-Bug-Schutz): Jimenez ST, Son LF, Schick ST — alle 3 Sturm/Fluegel-Positionen OK fuer Torschuetzen-Tipp. KEIN DM/IV/TW-Mismatch.",
+      "Verband-Quellen-Pflicht: FIFA.com URL in beide saison_kontext.quellen[] vorhanden (turnier_phase WM 2026 = FIFA-Pflicht-Anker).",
+      "Layer-1 (max 1 Bein/Spiel/Kombi): alle 4 Kombis haben genau 2 Beine = 1 MEX + 1 KOR-CZE. ✓",
+      "Layer-2 (Spiel-Sieg-Outcome max 1 Kombi): MEX-Sieg-Outcome = nur in Safe (Mexico-Sieg). KOR-CZE-Sieg-Outcome = nur in Risiko (Tschechien-Sieg). ✓",
+      "Selbstwiderspruchs-Scan: kein Tipp widerspricht saison_kontext. Unter 2.5 in beiden Spielen konsistent mit defensiv-erwartetem Slate. Jimenez-Tor + BTTS-Nein + Mexico-zu-Null sind kompatibel (Mexico-Sieg-1:0/2:0 ist Schnittmenge).",
+      "Markt-Bluter-Check: KEIN Tipp auf Spread/Handicap (einziger aktiver Bluter). ✓",
+      "Quoten-Plausibilitaet: Mexico-Sieg 1.48 (bet365 dec, Recherche), Unter 2.5 MEX 1.68 (FanDuel 1.676), Unter 2.5 KOR-CZE 1.62 (Aggregat best price Racing Post), BTTS Nein KOR-CZE 1.91 (bet365 US -110), Jimenez 2.50 (Rotowire US +150), Schick erster Torschuetze 4.90 (US +390). Alle Hauptquoten Recherche-dokumentiert."
+    ],
+    "lessons_generiert": []
+  },
+  "footer": "🐚 Miesmuschel — 18+ — bet365 DE — Hobby-Wetten. BZgA Gluecksspielsucht-Hotline: 0800 1372700. Keine Einnahmequelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
 }
