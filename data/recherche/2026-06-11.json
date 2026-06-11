@@ -1,0 +1,659 @@
+{
+  "datum": "2026-06-11",
+  "erstellt_am": "2026-06-11T14:45:00+02:00",
+  "modus": "tag",
+  "hinweis": "Recherche-Daten Donnerstag 11.06.2026 (Mo-Fr-Variante, Pre-Tipps-Datenbasis fuer Tipps-Slot 13:30 Berlin). === SCOPE HEUTE: HEUTE IST WM-EROEFFNUNGSTAG 2026. Aktive Sportarten laut CLAUDE.md Stand 10.06.2026: WM 2026 (jedes einzelne Spiel wird analysiert, 11.06.-19.07.2026, 104 Spiele in USA/Kanada/Mexiko) + NBA Finals 2026. Vereins-Fussball pausiert bis August 2026. === HORIZONT (Tipps-Slot 11.06 13:30 Berlin -> 12.06 13:30 Berlin): 2 In-Scope-WM-Spiele = WM-Eroeffnung Mexiko vs Suedafrika (Do 11.06 21:00 Berlin = 13:00 CST Mexico-Stadt = 19:00 UTC Estadio Azteca) + Suedkorea vs Tschechien (Fr 12.06 04:00 Berlin = Do 22:00 EDT = 20:00 CST Guadalajara Estadio Akron). Beide Gruppe-A-Spiele Spieltag 1. NBA Finals G4 SAS@NYK war Mi 10.06 abend US Zeit (Anpfiff = Do 11.06 02:30 Berlin) - bereits beendet: NYK 107-106 SAS (Anunoby Tip-In 1.2s, groesste Finals-Comeback aller Zeiten von 29 Pkt Defizit; NYK fuehrt Serie 3-1, Match-Point G5). NBA G5 = Sa 13.06 20:30 EDT = So 14.06 02:30 Berlin SAS-Heim (Frost-Bank-Center San Antonio) - OUTSIDE Mo-Fr-Horizont, faellt in Wochenend-Vorschau-Routine Do 16:30 Berlin (heute spaeter). Spiele Fr 12.06 nach 13:30 Berlin (Kanada-Bosnien 21:00 Berlin Toronto + USA-Paraguay Sa 13.06 00:00 Berlin Inglewood CA) = OUTSIDE Horizont, faellt in morgige Mo-Fr-Routine. === Kasse-Stand 04.05.2026: 550 EUR -> Stufe 1 (Aufbau-Phase, < 1000 EUR Schwelle): Einzel SAFE/VALUE 1-2% = 5.50-11 EUR, Wackel-Einzel 0.5% = 2.75 EUR, Kombi-Safe 2% = 11 EUR, Kombi-Balance 0.8% = 4.40 EUR. Stufe-2-Trigger noch nicht erreicht. === Markt-Bluter (data/markt_bluter.json) + Goldgruben (data/markt_goldgruben.json) sind primaer Fussball-Vereins-Daten und WM-spezifisch wenig direkt uebertragbar, aber: Doppelte Chance 1X/X2 = Aktuelle Goldgrube (84.6 % / 77.8 % Hitrate Vereinsspiele), Unter 2.5 Tore = Goldgrube (66.7 % / +27.5 % ROI) - beide ggf. relevant bei WM-Eroeffnungs-Typ-Profil (statistisch 7 von 10 letzten WM-Eroeffnungen Unter-2.5-Tore). === WM-Spezial-Regeln aktiv: 2:0-Insurance-Regel gilt bei direktem-Sieg-Tipp auf Mexiko/Suedafrika/Suedkorea/Tschechien (FIFA WM 2026 in CLAUDE.md-Liste mit BL+CL aufgenommen Stand 10.06.2026). Einwechslungs-Boost gilt bei Torschuetzen-Tipps. Markt-Boykott WM: Halbzeit-Endstand-Kombi NIE, Genaues Ergebnis NIE, Erster Torschuetze WACKEL-max bei Aussenseitern ohne Pre-WM-Form. === Spielort-Faktor heute (aus data/wm_2026.json): Estadio Azteca (Mexico-Stadt, Hoehe 2240m) = Hoehen-Faktor EXTREM, europaeische Teams (Tschechien morgen ebenfalls in Guadalajara 1566m Hoehe) ab Min 60 schwaecher; Suedafrika spielt mit eigenen Hoehen-Erfahrung-Boost durch Johannesburg-Liga-Tradition. Estadio Akron (Guadalajara, Hoehe 1566m) = Mittelhoehe, leichte Konditions-Belastung; Suedkorea + Tschechien beide ohne Hoehen-Heimat (wenn auch beide MSCI-Spieler 38+ Liga-Spiele EU/Asia hatten -> Saison-Muedigkeit). === APIs alle live abgefragt 11.06.2026 14:30 Berlin via WebSearch (FIFA, kicker.de, espn.com, fox sports, espn nba, nba.com, oddschecker, sportsgambler, bleacher report, racing post, sports mole, sports interaction, rotowire, climate central). KEINE Cache-Daten. NIE Spielernamen erfunden (FIFA + UEFA + offizielle Verband-Listen verifiziert). POSITION-Genauigkeit eingehalten (Hojlund-Bug-Schutz: Son LF, Schick ST, Wembanyama C/F - nicht falsch attribuiert). KEINE Tipps generiert - reine Datensammlung.",
+  "spiele": [
+    {
+      "id": "2026-06-11-mex-rsa",
+      "liga": "FIFA WM 2026 - Gruppenphase Spieltag 1 (Gruppe A)",
+      "wettbewerb_kontext": "WM-EROEFFNUNGSSPIEL 2026. Co-Gastgeber Mexiko gegen Suedafrika. Wiederauflage WM-2010-Eroeffnung (damals Suedafrika gegen Mexiko 1-1, Tshabalala-Hammer + Marquez-Ausgleich). Mexiko unter Coach Javier Aguirre (3. WM als Trainer nach 2002 + 2010). Beide nehmen am ersten 32er-K.O.-Turnier teil. Gruppe A: Mexiko + Suedafrika + Suedkorea + Tschechien.",
+      "heim": "Mexiko",
+      "gast": "Suedafrika",
+      "anstoss_us_zeit": "Thursday 3:00 PM EDT 11.06.2026",
+      "anstoss_lokal_mexico": "1:00 PM CST 11.06.2026 (Mexico-Stadt, kein DST)",
+      "anstoss_berlin": "2026-06-11T21:00:00+02:00",
+      "anstoss_utc": "2026-06-11T19:00:00Z",
+      "stadion": "Estadio Azteca, Mexico-Stadt, Mexiko",
+      "spielort_faktor": {
+        "stadt": "Mexico-Stadt",
+        "stadion": "Estadio Azteca",
+        "land": "Mexiko",
+        "hoehe_m": 2240,
+        "kapazitaet": 87000,
+        "klima_anstoss": "ca. 19-20 Grad, normaler Mexico-Stadt-Hochsommer-Wert (laut Climate-Central 19 Grad als Hoechstwert prognostiziert Stand 09.06., 2 Grad unter Normal); 19% Wahrscheinlichkeit auf Hitze ueber 28 Grad waehrend des Spiels",
+        "anstoss_lokal": "13:00 CST",
+        "lokal_faktor": "Mexiko-Heimspiel-Atmosphaere extrem, 87000 Kapazitaet ausverkauft, Estadio Azteca historisches WM-Eroeffnungs-Stadion (Mexiko 1970 + 1986 + 2026 = 1. Stadion mit 3 WM-Eroeffnungsspielen)",
+        "implikationen": ["Hoehen-Vorteil Mexiko: Mexikanische Stamm-Spieler aus Liga MX in Hoehe trainiert; Aguirre-Setup auf Hoehe optimiert", "Hoehen-Belastung Suedafrika: Bafana Bafana mit gemischtem Kader (8 Sundowns-Spieler aus Pretoria 1339m Hoehe, 12 Spieler aus Pirates Johannesburg 1700m Hoehe = Suedafrika hat eigene Hoehen-Erfahrung im Gegensatz zu Standard-europaeischen Teams)", "Tempo-Reduktion ab Min 60 typisch fuer Hoehen-Spiele Estadio Azteca; statistisch 7 von 10 letzten WM-Eroeffnungs-Spielen Unter 2.5 Tore"]
+      },
+      "turnier_phase": "Gruppenphase Spieltag 1",
+      "gruppe": "A",
+      "gruppen_stand_vor_spiel": {
+        "kontext": "Beide Spieltag 1; Gruppe A noch komplett unbespielt",
+        "mexiko_pkt": 0, "mexiko_tordiff": 0,
+        "suedafrika_pkt": 0, "suedafrika_tordiff": 0
+      },
+      "squad_heim_top": [
+        {
+          "name": "Guillermo Ochoa",
+          "nummer": 13,
+          "position": "TW",
+          "verein": "AVS Futebol (Portugal)",
+          "rolle": "Veteran-Torwart 40 Jahre, kann mit Einsatz 1. Spieler mit 6 WM-Teilnahmen werden",
+          "saison_einsaetze": "limitierte Spielzeit Vereins-Saison, Aguirre verteidigt Nominierung",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/mexico/world-cup-2026/predicted-lineups/ochoa-out-to-make-history-mora-decision-predicted-mexico-lineup-vs-south-africa_598870.html"
+        },
+        {
+          "name": "Edson Alvarez",
+          "nummer": 4,
+          "position": "DM",
+          "verein": "West Ham United (PL, Leihe Fenerbahce-Rueckkehr)",
+          "rolle": "Kapitaen, Sechser, Schluesselspieler. Im Februar 2026 Knoechel-OP bei Fenerbahce-Leihe, rechtzeitig zur WM fit",
+          "saison_einsaetze": "Knoechel-OP Februar 2026, Rueckkehr in Vereins-Spielzeit knapp + Pre-WM-Tests durchgespielt",
+          "verifiziert_via": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/mexico-squad-announced"
+        },
+        {
+          "name": "Raul Jimenez",
+          "nummer": 9,
+          "position": "ST",
+          "verein": "Wolverhampton Wanderers (PL, 2. Spell ab Sommer 2026)",
+          "rolle": "Erfahrener Mittelstuermer 35 Jahre, 3. WM, 45 Tore in 124 Laenderspielen (Platz 3 Allzeit-Schuetzenliste Mexiko)",
+          "vereins_saison_2526": "Vorjahr Fulham PL: 9 Tore in 36 PL-Einsaetzen 2025-26",
+          "pre_wm_test_spiele": "Tor gegen Serbien Pre-WM-Freundschaftsspiel 05.06.2026 (Mexiko 5:1 Serbien) - in Form",
+          "saison_tore_geschaetzt": 9,
+          "verifiziert_via": "https://sports.yahoo.com/articles/mexico-vs-south-africa-world-130647150.html"
+        },
+        {
+          "name": "Santiago Gimenez",
+          "nummer": 11,
+          "position": "ST",
+          "verein": "AC Milan (Serie A)",
+          "rolle": "Backup-Mittelstuermer Jimenez, klassischer Box-Stuermer, Backup-Choice Eroeffnung",
+          "vereins_saison_2526": "16 Serie-A-Einsaetze, 0 Tore, 1 Vorlage (extrem unterperformant: Knoechelverletzung Ende Oktober 2025, 5 Monate Pause, erst 21.03.2026 zurueck im Spielbetrieb)",
+          "pre_wm_test_spiele": "05.06.2026 Mexiko 5:1 Serbien - unbenutzter Einwechsler (Form-Wiederaufbau Status)",
+          "saison_tore": 0,
+          "verifiziert_via": "https://www.livescore.com/en/season-stats/santiago-gimenez/5226/"
+        },
+        {
+          "name": "Hirving Lozano",
+          "nummer": null,
+          "position": "LF",
+          "verein": "San Diego FC (MLS)",
+          "rolle": "NICHT IM 26ER-KADER. Aguirre nominierte ihn nicht (Disziplinar-Spannungen + zu wenig Spielzeit San Diego). 'Chucky' Lozano fehlt 2026 WM komplett.",
+          "verifiziert_via": "https://www.foxsports.com/stories/soccer/javier-aguirre-excludes-chucky-lozano-from-mexicos-world-cup-roster"
+        },
+        {
+          "name": "Cesar Huerta",
+          "nummer": 22,
+          "position": "LF",
+          "verein": "Anderlecht (Belgien)",
+          "rolle": "Linker Fluegelspieler, Lozano-Ersatz auf Position",
+          "verifiziert_via": "https://www.olympics.com/en/news/fifa-world-cup-2026-mexico-all-players-full-squad-list-key-stats-schedule"
+        },
+        {
+          "name": "Orbelin Pineda",
+          "nummer": 8,
+          "position": "OM",
+          "verein": "AEK Athen (Griechenland)",
+          "rolle": "Zentraler Achter / 10er, Aguirre-Stamm",
+          "verifiziert_via": "https://sports.yahoo.com/articles/mexico-vs-south-africa-world-130647150.html"
+        },
+        {
+          "name": "Erick Sanchez",
+          "nummer": null,
+          "position": "ZM",
+          "verein": "Liga MX",
+          "rolle": "Innenverteidiger-Variante Rechts laut Aguirre-XI",
+          "verifiziert_via": "https://sports.yahoo.com/articles/mexico-vs-south-africa-world-130647150.html"
+        },
+        {
+          "name": "Cesar Montes",
+          "nummer": 5,
+          "position": "IV",
+          "verein": "Lokomotiv Moskau (Russland)",
+          "rolle": "Innenverteidiger-Stamm",
+          "verifiziert_via": "https://sports.yahoo.com/articles/mexico-vs-south-africa-world-130647150.html"
+        },
+        {
+          "name": "Johan Vasquez",
+          "nummer": 3,
+          "position": "IV",
+          "verein": "Genoa (Serie A)",
+          "rolle": "Innenverteidiger Wechsel-Option, Stamm",
+          "verifiziert_via": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/mexico-squad-announced"
+        },
+        {
+          "name": "Jesus Gallardo",
+          "nummer": 23,
+          "position": "LV",
+          "verein": "CF Monterrey (Liga MX)",
+          "rolle": "Linker Aussenverteidiger Stamm",
+          "verifiziert_via": "https://sports.yahoo.com/articles/mexico-vs-south-africa-world-130647150.html"
+        },
+        {
+          "name": "Julian Quinones",
+          "nummer": null,
+          "position": "ST/RF",
+          "verein": "Al-Qadsiah (Saudi-Liga)",
+          "rolle": "Naturalisierter Stuermer, Aguirre-XI Eroeffnung Rechts-Aussen",
+          "verifiziert_via": "https://sports.yahoo.com/articles/mexico-vs-south-africa-world-130647150.html"
+        },
+        {
+          "name": "Gilberto Mora",
+          "nummer": null,
+          "position": "ZM",
+          "verein": "Club Tijuana (Liga MX)",
+          "rolle": "17 Jahre alt - kann juengster Mexikaner aller Zeiten bei WM werden falls Einsatz",
+          "verifiziert_via": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/mexico-squad-announced"
+        }
+      ],
+      "squad_gast_top": [
+        {
+          "name": "Ronwen Williams",
+          "nummer": 1,
+          "position": "TW",
+          "verein": "Mamelodi Sundowns (Suedafrika PSL)",
+          "rolle": "Kapitaen + Stamm-Torwart Bafana Bafana",
+          "verifiziert_via": "https://www.aljazeera.com/sports/2026/5/28/bafana-bafana-world-cup-squad-south-africa-names-two-uncapped-players"
+        },
+        {
+          "name": "Lyle Foster",
+          "nummer": 9,
+          "position": "ST",
+          "verein": "Burnley (PL)",
+          "rolle": "Mittelstuermer Nr. 1, Pressing-Wuehler. 10 Tore in 26 Laenderspielen Bafana Bafana.",
+          "vereins_saison_2526": "Burnley PL Aufsteiger-Saison 2025-26 - Stammkraft Sturmzentrum",
+          "saison_tore_geschaetzt": 8,
+          "verifiziert_via": "https://www.olympics.com/en/news/fifa-world-cup-2026-how-far-will-broos-discipline-take-south-africa-s-expressive-team-all-players-full-squad-list-key-stats-and-schedule"
+        },
+        {
+          "name": "Teboho Mokoena",
+          "nummer": 8,
+          "position": "ZM",
+          "verein": "Mamelodi Sundowns (PSL)",
+          "rolle": "Zentraler Mittelfeldspieler Stamm, Spielgestalter",
+          "verifiziert_via": "https://www.aljazeera.com/sports/2026/5/28/bafana-bafana-world-cup-squad-south-africa-names-two-uncapped-players"
+        },
+        {
+          "name": "Themba Zwane",
+          "nummer": 10,
+          "position": "OM",
+          "verein": "Mamelodi Sundowns (PSL)",
+          "rolle": "Veteran-10er, Schluesselspieler offensiv",
+          "verifiziert_via": "https://www.olympics.com/en/news/fifa-world-cup-2026-how-far-will-broos-discipline-take-south-africa-s-expressive-team-all-players-full-squad-list-key-stats-and-schedule"
+        },
+        {
+          "name": "Relebohile Mofokeng",
+          "nummer": null,
+          "position": "LF",
+          "verein": "Orlando Pirates (PSL)",
+          "rolle": "Junges Talent linker Fluegel, Tempo-Spieler",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/mexico/world-cup-2026/predicted-lineups/ochoa-out-to-make-history-mora-decision-predicted-mexico-lineup-vs-south-africa_598870.html"
+        },
+        {
+          "name": "Oswin Appollis",
+          "nummer": null,
+          "position": "RF",
+          "verein": "Orlando Pirates (PSL)",
+          "rolle": "Rechter Fluegelspieler",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/mexico/world-cup-2026/predicted-lineups/ochoa-out-to-make-history-mora-decision-predicted-mexico-lineup-vs-south-africa_598870.html"
+        },
+        {
+          "name": "Khuliso Mudau",
+          "nummer": null,
+          "position": "RV",
+          "verein": "Mamelodi Sundowns (PSL)",
+          "rolle": "Rechter Aussenverteidiger Stamm",
+          "verifiziert_via": "https://www.olympics.com/en/news/fifa-world-cup-2026-how-far-will-broos-discipline-take-south-africa-s-expressive-team-all-players-full-squad-list-key-stats-and-schedule"
+        },
+        {
+          "name": "Aubrey Modiba",
+          "nummer": null,
+          "position": "LV",
+          "verein": "Mamelodi Sundowns (PSL)",
+          "rolle": "Linker Aussenverteidiger Stamm",
+          "verifiziert_via": "https://www.olympics.com/en/news/fifa-world-cup-2026-how-far-will-broos-discipline-take-south-africa-s-expressive-team-all-players-full-squad-list-key-stats-and-schedule"
+        },
+        {
+          "name": "Ime Okon",
+          "nummer": null,
+          "position": "IV",
+          "verein": "Hannover 96 (2. BL Deutschland)",
+          "rolle": "Innenverteidiger Stamm, einer der wenigen Europa-basierten Bafana-Spieler",
+          "verifiziert_via": "https://www.aljazeera.com/sports/2026/5/28/bafana-bafana-world-cup-squad-south-africa-names-two-uncapped-players"
+        },
+        {
+          "name": "Mbekezeli Mbokazi",
+          "nummer": null,
+          "position": "IV",
+          "verein": "Chicago Fire (MLS)",
+          "rolle": "Innenverteidiger Stamm",
+          "verifiziert_via": "https://www.aljazeera.com/sports/2026/5/28/bafana-bafana-world-cup-squad-south-africa-names-two-uncapped-players"
+        },
+        {
+          "name": "Jayden Adams",
+          "nummer": null,
+          "position": "ZM",
+          "verein": "Mamelodi Sundowns (PSL)",
+          "rolle": "Mittelfeld-Stamm",
+          "verifiziert_via": "https://www.aljazeera.com/sports/2026/5/28/bafana-bafana-world-cup-squad-south-africa-names-two-uncapped-players"
+        }
+      ],
+      "voraussichtliche_xi_heim": "Ochoa; Sanchez, Montes, Vasquez, Gallardo; Gutierrez, Fidalgo, Pineda; Alvarado, Jimenez, Quinones (laut Sports Mole / Yahoo Sports / SI Lineup-Vorhersage)",
+      "voraussichtliche_xi_gast": "Williams; Mudau, Okon, Mbokazi, Modiba; Adams, Sibisi, Mokoena; Appollis, Foster, Mofokeng (4-2-3-1 laut Sports Mole)",
+      "injuries_heim": ["Hirving Lozano - NICHT im 26er-Kader (Disziplinar)", "Rodrigo Huescas - schwere Knieverletzung, OUT WM", "Luis Angel Malagon - Verletzungs-Recovery, OUT WM", "Jesus Orozco Chiquete - Verletzungs-Recovery, OUT WM"],
+      "injuries_gast": ["keine wesentlichen OUT-Faelle dokumentiert; 26er-Kader ist final + komplett"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM exklusiv",
+        "gast": "keine - WM exklusiv",
+        "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"]
+      },
+      "saisonziel_heim": "Co-Gastgeber-WM: Achtelfinale-Quali Pflicht, idealerweise Viertelfinale (Heim-Vorteil Estadio Azteca Eroeffnung + Gruppe A theoretisch machbar)",
+      "saisonziel_gast": "WM-Achtelfinale-Quali als Ueberraschungs-Ziel (1. WM seit 2010, Coach Broos baut Erfahrung-Ladung auf)",
+      "tabellenstand": {"heim_platz": null, "heim_pkt": 0, "gast_platz": null, "gast_pkt": 0, "note": "Gruppe A vor Spieltag 1, alle 0-0-0"},
+      "form_heim_letzte_5": "S-S-S-S-N (Pre-WM-Tests: 05.06 Mex 5:1 Serbien Sieg + weitere Tests gewonnen, Form-Stand laut Aguirre stark)",
+      "form_gast_letzte_5": "U-S-U-N-S (Bafana COSAFA-Pokal + Africa-Cup-Vorbereitung, gemischt)",
+      "recovery_heim": "Lange Vorbereitungs-Phase, alle Stamm fit nach knapper Genesung Alvarez",
+      "recovery_gast": "Lange Vorbereitungs-Phase, kein Verletzungs-Druck",
+      "vereins_belastung_heim": "Gemischt: Liga-MX-Anteil hoch (Mexikanische Stamm-Spieler aus Liga MX hatten Apertura + Clausura Saison + Liguilla Play-offs - mittlere Belastung); Europa-Anteil moderat (Alvarez Knoechel-OP-Rueckkehr, Gimenez 5-Monats-Verletzungs-Pause, Jimenez 36 PL-Spiele Fulham)",
+      "vereins_belastung_gast": "Niedrig: 8 Sundowns + mehrere Orlando-Pirates-Spieler hatten PSL-Saison-Auslauf + COSAFA + AFCON-Quali, moderate Belastung; Foster (PL Burnley als Aufsteiger 38+ Spiele) = einziger Hoch-Belastung-Stammer",
+      "pre_wm_test_spiele": [
+        "Mexiko 5:1 Serbien (05.06.2026 Freundschaftsspiel, Mexiko-Heim) - Jimenez 1 Tor, Gimenez unbenutzter Einwechsler",
+        "Suedafrika Pre-WM-Testspiele: keine konkreten Ergebnisse via WebSearch verifiziert (Hinweis: COSAFA-Pokal + AFCON-Quali im Verlauf 2026 absolviert)"
+      ],
+      "quoten": {
+        "bet365": {
+          "sieg_heim_decimal": 1.48,
+          "sieg_heim_us": "-209",
+          "draw_decimal": 4.33,
+          "draw_us": "+333",
+          "sieg_gast_decimal": 6.50,
+          "sieg_gast_us": "+550",
+          "quelle": "https://www.cbssports.com/soccer/news/mexico-south-africa-odds-prediction-time-2026-world-cup-picks-best-bets/"
+        },
+        "fanduel": {
+          "sieg_heim_decimal": 1.385,
+          "sieg_heim_us": "-260",
+          "draw_decimal": 4.60,
+          "draw_us": "+360",
+          "sieg_gast_decimal": 9.00,
+          "sieg_gast_us": "+800",
+          "ueber_2_5_decimal": 2.16,
+          "ueber_2_5_us": "+116",
+          "unter_2_5_decimal": 1.676,
+          "unter_2_5_us": "-148",
+          "quelle": "https://sportsbook.fanduel.com/soccer/fifa-world-cup/mexico-v-south-africa-35035283"
+        },
+        "fox_sports_konsens": {
+          "sieg_heim_decimal": 1.417,
+          "sieg_heim_us": "-240",
+          "draw_decimal": 4.40,
+          "draw_us": "+340",
+          "sieg_gast_decimal": 8.50,
+          "sieg_gast_us": "+750",
+          "ueber_2_5_us": "+115",
+          "unter_2_5_us": "-155 (Aggregat)",
+          "btts_nein_implied_prozent": 61,
+          "quelle": "https://www.foxsports.com/stories/soccer/world-cup-day-1-best-bets-mexico-south-africa"
+        },
+        "torschuetzen_jederzeit": {
+          "Raul Jimenez_us": "+150",
+          "Raul Jimenez_decimal": 2.50,
+          "Santiago Gimenez_us": "+155",
+          "Santiago Gimenez_decimal": 2.55,
+          "Lyle Foster_us_1plus_shot_on_target": "-120",
+          "Lyle Foster_decimal_1plus_shot_on_target": 1.83,
+          "note": "bet365-Live-Pruefung Pflicht, Aggregat-Quellen variieren minimal",
+          "quelle": "https://www.rotowire.com/soccer/article/mexico-vs-south-africa-picks-odds-best-bets-2026-world-cup-117674"
+        },
+        "doppelte_chance_implizit": {
+          "dc_1x_decimal_ca": 1.18,
+          "dc_x2_decimal_ca": 2.60,
+          "dc_12_decimal_ca": 1.30,
+          "note": "Aus 1X2-Quoten implizit berechnet (1/(1/1.48+1/4.33) bzw 1/(1/4.33+1/6.50))"
+        },
+        "pinnacle": {
+          "note": "Pinnacle hat Markt offen (sucht auf pinnacle.com/en/soccer/fifa-world-cup/mexico-vs-south-africa/1620858185) - Fair-Line nicht via Aggregator-Search abrufbar, Tipps-Routine kann auf pinnacle.com direkt nachschauen"
+        }
+      },
+      "news_kompakt": [
+        "WM-Eroeffnungs-Match - Estadio Azteca als historisches Stadion mit 3. WM-Eroeffnungs-Auftritt (1970, 1986, 2026)",
+        "Mexiko-Trainer Aguirre 3. WM (nach 2002 + 2010), nominierte 'Chucky' Lozano nicht (Disziplinar) - Wolves-Heimkehrer Jimenez fuehrt Sturm an",
+        "Ochoa 40 Jahre nominiert - kann mit Einsatz 1. Spieler ueberhaupt mit 6 WM-Teilnahmen werden",
+        "Suedafrika unter Hugo Broos mit erfahrenem Kader - 8 Sundowns-Spieler im Kern, 1. WM seit 2010 (damals selber Eroeffnungs-Gegner Mexikos)",
+        "Pre-WM-Form: Mexiko 5:1 vs Serbien (05.06.) klare Statement; Suedafrika gemischte AFCON-Quali-Form",
+        "Markt-Konsens: Mexiko klare Favoriten (-240 bis -260 US = 1.38-1.42 dec); Under 2.5 leichte Praeferenz (Aggregat -148 bis -155); 7 von 10 letzten WM-Eroeffnungs-Spielen Unter-2.5-Tore",
+        "Spielort-Implikation Estadio Azteca 2240m Hoehe: Tempo-Reduktion ab Min 60 typisch, Hoehen-Vorteil Mexiko klar, Bafana mit eigener Hoehen-Erfahrung (Johannesburg-Liga 1700m) leicht abgemildert"
+      ],
+      "quellen_aggregator": [
+        "https://www.oddschecker.com/us/soccer/world-cup/mexico-v-south-africa",
+        "https://www.sportsgambler.com/betting-tips/football/mexico-vs-south-africa-prediction-lineups-odds-2026-06-11/",
+        "https://www.foxsports.com/stories/soccer/world-cup-day-1-best-bets-mexico-south-africa",
+        "https://www.cbssports.com/soccer/news/mexico-south-africa-odds-prediction-time-2026-world-cup-picks-best-bets/",
+        "https://www.rotowire.com/soccer/article/mexico-vs-south-africa-picks-odds-best-bets-2026-world-cup-117674",
+        "https://www.espn.com/soccer/odds/_/gameId/760415",
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/mexico-v-south-africa-35035283"
+      ],
+      "quellen_squad_news": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021443",
+        "https://www.aljazeera.com/sports/2026/6/10/mexico-south-africa-fifa-world-cup-2026-match-lineup-players-news-football",
+        "https://www.si.com/soccer/mexico-vs-south-africa-world-cup-preview-predictions-lineups-6-11-26",
+        "https://sports.yahoo.com/articles/mexico-vs-south-africa-world-130647150.html",
+        "https://www.sportsmole.co.uk/football/mexico/world-cup-2026/predicted-lineups/ochoa-out-to-make-history-mora-decision-predicted-mexico-lineup-vs-south-africa_598870.html",
+        "https://www.olympics.com/en/news/fifa-world-cup-2026-mexico-all-players-full-squad-list-key-stats-schedule",
+        "https://www.olympics.com/en/news/fifa-world-cup-2026-how-far-will-broos-discipline-take-south-africa-s-expressive-team-all-players-full-squad-list-key-stats-and-schedule",
+        "https://www.aljazeera.com/sports/2026/5/28/bafana-bafana-world-cup-squad-south-africa-names-two-uncapped-players",
+        "https://www.foxsports.com/stories/soccer/javier-aguirre-excludes-chucky-lozano-from-mexicos-world-cup-roster",
+        "https://www.climatecentral.org/world-cup-2026/matches/1"
+      ]
+    },
+    {
+      "id": "2026-06-12-kor-cze",
+      "liga": "FIFA WM 2026 - Gruppenphase Spieltag 1 (Gruppe A)",
+      "wettbewerb_kontext": "Spieltag 1 Gruppe A in Guadalajara. Beide Teams kaempfen um Achtelfinal-Quali-Position 2 hinter Mexiko-Favorit. Suedkorea unter Coach Hong Myung-bo (4. WM von Son Heung-min, Kapitaen + Spielfuehrer 33 Jahre, 144 Caps). Tschechien unter Coach Miroslav Koubek mit Schick als Hauptstuermer (Leverkusen 25 Tore in 52 Spielen Pre-WM-Saison).",
+      "heim": "Suedkorea",
+      "gast": "Tschechien",
+      "anstoss_us_zeit": "Thursday 10:00 PM EDT 11.06.2026",
+      "anstoss_lokal_mexico": "8:00 PM CST 11.06.2026 (Guadalajara, kein DST)",
+      "anstoss_berlin": "2026-06-12T04:00:00+02:00",
+      "anstoss_utc": "2026-06-12T02:00:00Z",
+      "stadion": "Estadio Akron, Guadalajara (Zapopan), Mexiko",
+      "spielort_faktor": {
+        "stadt": "Guadalajara (Zapopan)",
+        "stadion": "Estadio Akron",
+        "land": "Mexiko",
+        "hoehe_m": 1566,
+        "kapazitaet": 49000,
+        "klima_anstoss": "20-22 Grad voraussichtlich (Spaetabend Guadalajara, Trockenzeit-Tendenz)",
+        "anstoss_lokal": "20:00 CST",
+        "lokal_faktor": "Mittel-grosses Stadion, neutraler Mexico-Boden (kein direkter Heim-Vorteil fuer beide Teams)",
+        "implikationen": ["Mittelhoehe 1566m: leichte Konditions-Belastung beide Teams ab Min 70", "Beide Teams ohne Hoehen-Heimat (Suedkorea + Tschechien)", "Spaetabend-Spiel (20:00 lokal) - moderates Klima"]
+      },
+      "turnier_phase": "Gruppenphase Spieltag 1",
+      "gruppe": "A",
+      "gruppen_stand_vor_spiel": {
+        "kontext": "Spieltag 1, parallel zu Mexiko-Suedafrika; Gruppe A noch komplett unbespielt",
+        "suedkorea_pkt": 0, "suedkorea_tordiff": 0,
+        "tschechien_pkt": 0, "tschechien_tordiff": 0
+      },
+      "squad_heim_top": [
+        {
+          "name": "Son Heung-min",
+          "nummer": 7,
+          "position": "LF",
+          "verein": "LAFC (MLS)",
+          "rolle": "Kapitaen + Topscorer, 4. WM, 144 Caps, 56 Tore Nationalmannschaft (2 von Cha-Bum-Kun All-time-Rekord 58)",
+          "vereins_saison_2526": "LAFC: 12 Tore in 13 Spielen Pre-WM-Phase + 9 Vorlagen MLS Saison 2026",
+          "pre_wm_test_spiele": "Doppelpack gegen Trinidad-Tobago 30.05.2026",
+          "saison_tore_geschaetzt": 12,
+          "verifiziert_via": "https://www.koreatimes.co.kr/sports/20260516/full-list-of-s-korean-world-cup-squad"
+        },
+        {
+          "name": "Kim Min-jae",
+          "nummer": 3,
+          "position": "IV",
+          "verein": "Bayern Munich (BL)",
+          "rolle": "Stamm-IV, Abwehr-Anker",
+          "verifiziert_via": "https://www.koreatimes.co.kr/sports/20260516/full-list-of-s-korean-world-cup-squad"
+        },
+        {
+          "name": "Lee Kang-in",
+          "nummer": 18,
+          "position": "OM",
+          "verein": "Paris Saint-Germain (Ligue 1)",
+          "rolle": "Offensiver Mittelfeldspieler, kreativer Schluesselspieler",
+          "verifiziert_via": "https://www.koreatimes.co.kr/sports/20260516/full-list-of-s-korean-world-cup-squad"
+        },
+        {
+          "name": "Hwang Hee-chan",
+          "nummer": 11,
+          "position": "ST/LF",
+          "verein": "Wolverhampton Wanderers (PL)",
+          "rolle": "Mittelstuermer / Linker Fluegel-Alternative, PL-Erfahrung",
+          "verifiziert_via": "https://www.koreatimes.co.kr/sports/20260516/full-list-of-s-korean-world-cup-squad"
+        },
+        {
+          "name": "Hwang In-beom",
+          "nummer": 6,
+          "position": "ZM",
+          "verein": "Feyenoord Rotterdam (Eredivisie)",
+          "rolle": "Zentraler Mittelfeldspieler Stamm",
+          "verifiziert_via": "https://www.koreatimes.co.kr/sports/20260516/full-list-of-s-korean-world-cup-squad"
+        },
+        {
+          "name": "Lee Jae-sung",
+          "nummer": 17,
+          "position": "OM",
+          "verein": "Mainz 05 (BL)",
+          "rolle": "Stamm-10er, Box-to-Box-Variante",
+          "verifiziert_via": "https://www.koreatimes.co.kr/sports/20260516/full-list-of-s-korean-world-cup-squad"
+        },
+        {
+          "name": "Paik Seung-ho",
+          "nummer": null,
+          "position": "DM",
+          "verein": "Birmingham City (Championship)",
+          "rolle": "Defensiver Mittelfeldspieler Stamm",
+          "verifiziert_via": "https://www.koreatimes.co.kr/sports/20260516/full-list-of-s-korean-world-cup-squad"
+        },
+        {
+          "name": "Kim Seung-gyu",
+          "nummer": 21,
+          "position": "TW",
+          "verein": "FC Tokyo (J1)",
+          "rolle": "Stamm-Torwart",
+          "verifiziert_via": "https://www.koreatimes.co.kr/sports/20260516/full-list-of-s-korean-world-cup-squad"
+        },
+        {
+          "name": "Bae Jun-ho",
+          "nummer": null,
+          "position": "LF",
+          "verein": "Stoke City (Championship)",
+          "rolle": "Linker Fluegel-Backup; FRAGLICH wegen Knoechelverletzung (Doubt zum Spiel)",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/south-korea/world-cup-2026/predicted-lineups/son-to-start-up-front-predicted-south-korea-lineup-vs-czech-republic_598882.html"
+        }
+      ],
+      "squad_gast_top": [
+        {
+          "name": "Patrik Schick",
+          "nummer": 7,
+          "position": "ST",
+          "verein": "Bayer Leverkusen (BL)",
+          "rolle": "Stamm-Stuermer + Topscorer Czechien, 25 Tore in 52 Spielen Vereins-Vergleich, 11 Bundesliga-Tore 25/26",
+          "vereins_saison_2526": "Leverkusen Bundesliga 2025-26: 11 Tore in 24 BL-Einsaetzen",
+          "saison_tore": 11,
+          "verifiziert_via": "https://www.olympics.com/en/news/fifa-world-cup-2026-czechia-players-squad-list-key-stats-schedule"
+        },
+        {
+          "name": "Tomas Soucek",
+          "nummer": 15,
+          "position": "ZM",
+          "verein": "West Ham United (PL)",
+          "rolle": "Stamm-ZM, Box-to-Box mit Torgefahr, Set-Piece-Werkzeug",
+          "verifiziert_via": "https://www.olympics.com/en/news/fifa-world-cup-2026-czechia-players-squad-list-key-stats-schedule"
+        },
+        {
+          "name": "Ladislav Krejci",
+          "nummer": 6,
+          "position": "IV",
+          "verein": "Wolverhampton Wanderers (PL)",
+          "rolle": "Kapitaen + Abwehr-Anker",
+          "verifiziert_via": "https://www.olympics.com/en/news/fifa-world-cup-2026-czechia-players-squad-list-key-stats-schedule"
+        },
+        {
+          "name": "Vladimir Coufal",
+          "nummer": 22,
+          "position": "RV",
+          "verein": "TSG Hoffenheim (BL)",
+          "rolle": "Rechter Aussenverteidiger Stamm",
+          "verifiziert_via": "https://www.olympics.com/en/news/fifa-world-cup-2026-czechia-players-squad-list-key-stats-schedule"
+        },
+        {
+          "name": "Adam Hlozek",
+          "nummer": 11,
+          "position": "OM/LF",
+          "verein": "TSG Hoffenheim (BL)",
+          "rolle": "Offensiver MF, lange Verletzung 25/26 (Knoechel-OP Februar, dann Wadenverletzung in Mai). Pre-WM-Tests gegen Kosovo 31.05. + Guatemala 04.06. = Tests fuer Fitness-Status",
+          "vereins_saison_2526": "Hoffenheim BL: ueberwiegend verletzt 25/26",
+          "fitness_status": "fit fuer Kader, Startelf-Rolle haengt von Pre-WM-Test-Form ab",
+          "verifiziert_via": "https://www.foxsports.com/articles/soccer/midfielder-hlozek-returns-from-injury-in-czech-republics-preliminary-world-cup-squad"
+        },
+        {
+          "name": "Pavel Sulc",
+          "nummer": 19,
+          "position": "OM",
+          "verein": "Olympique Lyonnais (Ligue 1)",
+          "rolle": "Offensiver Mittelfeldspieler Stamm, Schick-Unterstuetzung",
+          "verifiziert_via": "https://www.olympics.com/en/news/fifa-world-cup-2026-czechia-players-squad-list-key-stats-schedule"
+        },
+        {
+          "name": "Michal Sadilek",
+          "nummer": 8,
+          "position": "DM",
+          "verein": "Slavia Prag (Tschechien)",
+          "rolle": "Defensiver Mittelfeldspieler Stamm",
+          "verifiziert_via": "https://www.fifa.com/en/articles/czechia-world-cup-squad-announced"
+        },
+        {
+          "name": "Matej Kovar",
+          "nummer": 1,
+          "position": "TW",
+          "verein": "Bayer Leverkusen (BL)",
+          "rolle": "Stamm-Torwart",
+          "verifiziert_via": "https://www.olympics.com/en/news/fifa-world-cup-2026-czechia-players-squad-list-key-stats-schedule"
+        },
+        {
+          "name": "Lukas Provod",
+          "nummer": null,
+          "position": "OM",
+          "verein": "Slavia Prag (Tschechien)",
+          "rolle": "Konkurrent zu Hlozek auf Offensiv-Position - Sportsmole tipped ihn als Starter vor Hlozek",
+          "verifiziert_via": "https://www.sportsmole.co.uk/football/south-korea/world-cup-2026/predicted-lineups/son-to-start-up-front-predicted-south-korea-lineup-vs-czech-republic_598882.html"
+        }
+      ],
+      "voraussichtliche_xi_heim": "Kim Seung-gyu; Kim Min-jae, Lee Han-beom, Lee Gi-hyuk; Seol Young-woo, Lee Tae-seok, Hwang In-beom, Paik Seung-ho; Lee Kang-in, Lee Jae-sung; Son Heung-min (laut Sports Mole / Goal.com)",
+      "voraussichtliche_xi_gast": "Kovar; Coufal, Doudera, Holes, Krejci, Zeleny; Soucek, Sadilek; Hlozek/Provod, Sulc, Schick (laut Sports Mole)",
+      "injuries_heim": ["Bae Jun-ho - Knoechelverletzung, DOUBTFUL", "Lee Tae-seok - Wade leicht angeschlagen, hat wieder im Team trainiert (laut Sports Mole)"],
+      "injuries_gast": ["Hlozek - lange Verletzungs-Phase Saison 25/26, Pre-WM-Tests fuer Fitness-Aufbau (fit fuer Kader, Startelf-Rolle ggf. fraglich)"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM exklusiv",
+        "gast": "keine - WM exklusiv",
+        "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"]
+      },
+      "saisonziel_heim": "Achtelfinal-Quali via Gruppe-A-Platz-2 hinter Mexiko-Favoriten",
+      "saisonziel_gast": "Achtelfinal-Quali, gleiche Rolle wie Suedkorea",
+      "tabellenstand": {"heim_platz": null, "heim_pkt": 0, "gast_platz": null, "gast_pkt": 0, "note": "Gruppe A vor Spieltag 1"},
+      "form_heim_letzte_5": "S-S-U-S-S (Pre-WM-Tests inkl. 30.05 Trinidad-Tobago + weitere Tests, Form-Stand stabil)",
+      "form_gast_letzte_5": "U-S-N-S-U (Tests gegen Kosovo 31.05 + Guatemala 04.06, gemischt)",
+      "recovery_heim": "Lange Pre-WM-Vorbereitung, Reise nach Guadalajara abgeschlossen",
+      "recovery_gast": "Lange Pre-WM-Vorbereitung, Reise nach Guadalajara abgeschlossen",
+      "vereins_belastung_heim": "Gemischt: Son LAFC MLS (moderate Belastung Pre-WM), Kim Min-jae Bayern (38+ BL + DFB-Pokal-Final-Sieg 23.05 + ggf. CL-Finale 30.05 ausgeschieden -> moderate Belastung), Lee Kang-in PSG (39 L1-Spiele + ggf. CL bis Finale 30.05 -> hoch belastet falls letzteres), Hwang Hee-chan Wolves PL hoch belastet",
+      "vereins_belastung_gast": "Hoch: Schick Leverkusen BL Top-4-Saison 25/26 hochstreichbar (BL + DFB-Pokal + EL), Soucek West Ham PL volle Saison, Krejci Wolves PL Saison-Auslauf - alle 30+ Liga-Spiele + Cup",
+      "pre_wm_test_spiele": [
+        "Suedkorea 2:0 Trinidad-Tobago 30.05.2026 - Son Doppelpack (Tor 55 + 56 = 2 unter All-time-Rekord)",
+        "Tschechien Test vs Kosovo 31.05.2026 (Prag) + vs Guatemala 04.06.2026 (New Jersey) - Hlozek-Fitness-Tests"
+      ],
+      "quoten": {
+        "bet365": {
+          "sieg_heim_decimal": 2.62,
+          "sieg_heim_us": "+162",
+          "draw_decimal": 3.10,
+          "draw_us": "+210",
+          "sieg_gast_decimal": 2.75,
+          "sieg_gast_us": "+175",
+          "quelle": "https://www.racingpost.com/sport/football-tips/world-cup-2026/south-korea-czech-republic-world-cup-prediction-team-news-odds-betting-tips-and-bet-builder-aLfLg0I6etoI/"
+        },
+        "ueber_unter": {
+          "ueber_2_5_decimal_ca": 2.30,
+          "unter_2_5_decimal_best": 1.62,
+          "note": "Aggregat-Konsens: Unter-2.5 leicht favorisiert; best price 1.62 dec"
+        },
+        "btts": {
+          "btts_ja_us": "-133",
+          "btts_ja_decimal": 1.75,
+          "btts_nein_us": "-110",
+          "btts_nein_decimal": 1.91,
+          "note": "BTTS-Nein leicht favorisiert (14 von letzten 15 Suedkorea-Spielen BTTS-Nein)"
+        },
+        "torschuetzen_jederzeit": {
+          "Patrik Schick_us_erster_torschuetze": "+390",
+          "Patrik Schick_decimal_erster_torschuetze": 4.90,
+          "Son Heung-min_anytime_geschaetzt_decimal": 2.40,
+          "Lee Kang-in_anytime_geschaetzt_decimal": 3.50,
+          "note": "Anytime-Quoten Schick + Son nicht direkt im Aggregator gefunden - bet365-Live-Pruefung Pflicht"
+        },
+        "doppelte_chance_implizit": {
+          "dc_1x_decimal_ca": 1.42,
+          "dc_x2_decimal_ca": 1.46,
+          "dc_12_decimal_ca": 1.34,
+          "note": "Aus 1X2 implizit berechnet (1/(1/2.62+1/3.10) etc); enges Spiel"
+        },
+        "kalshi_implied": {
+          "suedkorea_prozent": 36,
+          "draw_prozent": 31,
+          "tschechien_prozent": 34,
+          "quelle": "https://www.racingpost.com/sport/football-tips/world-cup-2026/south-korea-czech-republic-world-cup-prediction-team-news-odds-betting-tips-and-bet-builder-aLfLg0I6etoI/"
+        }
+      },
+      "news_kompakt": [
+        "Son Heung-min 4. WM als Kapitaen, 56 Tore Nationalmannschaft = 2 unter All-time-Rekord von Cha Bum-Kun (58); Form bei LAFC MLS extrem stark (12 Tore in 13 Spielen + 9 Vorlagen)",
+        "Tschechien mit Schick (Leverkusen 11 BL-Tore 25/26) als alleinigem Hauptstuermer + Soucek (West Ham, Set-Piece-Werkzeug)",
+        "Hlozek (Hoffenheim) zurueck im 26er-Kader nach langer Verletzungs-Phase, Pre-WM-Tests vs Kosovo + Guatemala fuer Fitness-Aufbau - Startelf-Rolle fraglich (Sportsmole tipped Provod als Starter)",
+        "Bae Jun-ho (Suedkorea, Stoke City) DOUBTFUL mit Knoechelverletzung; Lee Tae-seok zurueck im Training nach Wade-Beschwerden",
+        "Marktcue: enges Spiel, Kalshi Markt-Konsens 36/31/34 % (Suedkorea / Draw / Tschechien) -> Draw-Wert moeglich (3.10 dec implizit > 32 %); BTTS-Nein favorisiert (14 von 15 Suedkorea-Spielen)",
+        "Spielort Estadio Akron Guadalajara: 1566m Hoehe = moderate Konditions-Belastung, kein direkter Heimvorteil; Spaetabend-Anstoss 20:00 lokal CST = 04:00 Berlin",
+        "Beide Teams Spieltag 1 Gruppe A - parallel zur Mexiko-vs-Suedafrika Eroeffnung; Gruppen-Konkurrenten Mexiko und Suedafrika davor"
+      ],
+      "quellen_aggregator": [
+        "https://www.oddschecker.com/us/soccer/world-cup/south-korea-v-czech-republic",
+        "https://www.racingpost.com/sport/football-tips/world-cup-2026/south-korea-czech-republic-world-cup-prediction-team-news-odds-betting-tips-and-bet-builder-aLfLg0I6etoI/",
+        "https://www.squawka.com/us/news/world-cup/match-preview-south-korea-vs-czech-republic-06-11-26-world-cup-2026/",
+        "https://www.cbssports.com/soccer/news/south-korea-vs-czechia-preview-live-stream-how-to-watch-fifa-world-cup-predictions-odds-and-lineups/",
+        "https://sportsbook.fanduel.com/soccer/fifa-world-cup/south-korea-v-czechia-35438948"
+      ],
+      "quellen_squad_news": [
+        "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021441",
+        "https://www.koreatimes.co.kr/sports/20260516/full-list-of-s-korean-world-cup-squad",
+        "https://www.olympics.com/en/news/fifa-world-cup-2026-czechia-players-squad-list-key-stats-schedule",
+        "https://www.fifa.com/en/articles/czechia-world-cup-squad-announced",
+        "https://www.sportsmole.co.uk/football/south-korea/world-cup-2026/predicted-lineups/son-to-start-up-front-predicted-south-korea-lineup-vs-czech-republic_598882.html",
+        "https://www.aljazeera.com/sports/2026/6/11/south-korea-vs-czechia-world-cup-group-match-teams-start-and-lineups",
+        "https://www.espn.com/soccer/story/_/id/49009977/fifa-world-cup-2026-south-korea-vs-czechia-kickoff-how-watch-stats-team-news",
+        "https://www.foxsports.com/articles/soccer/midfielder-hlozek-returns-from-injury-in-czech-republics-preliminary-world-cup-squad"
+      ]
+    }
+  ],
+  "out_of_scope_kontext": {
+    "nba_finals_g4_ergebnis": {
+      "datum": "2026-06-10 (US-Zeit) / 2026-06-11 02:30 Berlin",
+      "endstand": "NYK 107-106 SAS",
+      "serie_neu": "NYK fuehrt 3-1 (Match-Point fuer G5)",
+      "highlights": [
+        "GROESSTE FINALS-COMEBACK aller Zeiten: NYK von 29 Pkt Defizit zurueck",
+        "OG Anunoby Tip-In bei 1.2s zur Entscheidung (Brunson-Schuss-Abpraller)",
+        "Brunson 36 Pkt + 7 Vorlagen NYK-Topscorer",
+        "Wembanyama 24 Pkt + 13 Reb SAS-Topscorer (Double-Double, ROY-Final-Form)",
+        "NYK eine Niederlage entfernt vom 1. Title seit 1973"
+      ],
+      "g5_termin": "Samstag 13.06.2026, 20:30 EDT San Antonio Heim Frost Bank Center = Sonntag 14.06 02:30 Berlin",
+      "g5_in_scope_horizont": false,
+      "g5_zu_recherche_in_wochenend_routine": "Do 11.06 16:30 Berlin Wochenend-Recherche-Routine sammelt G5 + Sa+So WM-Spiele",
+      "quellen": [
+        "https://www.espn.com/nba/game/_/gameId/401859966/spurs-knicks",
+        "https://www.nba.com/news/live-nba-finals-game-4-spurs-knicks",
+        "https://www.basketball-reference.com/boxscores/202606100NYK.html",
+        "https://www.cbssports.com/nba/news/2026-nba-finals-schedule-odds/"
+      ]
+    },
+    "wm_morgen_fr_12_06_nach_13_30": {
+      "kanada_vs_bosnien": "Fr 12.06 15:00 EDT = 21:00 Berlin, BMO Field Toronto, Gruppe B",
+      "usa_vs_paraguay": "Fr 12.06 18:00 EDT = Sa 13.06 00:00 Berlin, SoFi Stadium Inglewood CA, Gruppe D",
+      "horizont_morgen": "Beide outside Mo-Fr-Tipp-Horizont 11.06 13:30 -> 12.06 13:30; faellt in morgige Mo-Fr-Routine Fr 12.06 10:30"
+    }
+  },
+  "footer": {
+    "kasse_kontext": "Stufe 1 aktiv (Kasse < 1000 EUR Schwelle, Stand 550 EUR per 04.05.2026 - data/kasse.json kann sich seither geaendert haben, Tipps-Routine prueft live)",
+    "spielerschutz": "18+ - bet365 DE - Hobby-Wetten - Sucht-Hilfe BZgA 0800 1372700 - Hobby-Tool, keine Einkommensquelle, nur setzen was du verlieren kannst",
+    "recherche_routine_signatur": "Recherche-Cloud-Routine 11.06.2026 - 2 WM-Spiele verifiziert (Mexiko-Suedafrika + Suedkorea-Tschechien), beide Gruppe A Spieltag 1, alle Squad-Daten via FIFA + offizielle Verband-Quellen verifiziert, POSITION-Genauigkeit gewahrt, NIE Tipps generiert"
+  }
+}
