@@ -2,9 +2,10 @@ name: Miesmuschel Recherche (WM-Modus: täglich 06:00 Berlin)
 
 on:
   schedule:
-    # Täglich 06:00 Berlin (MESZ UTC+2) -> 04:00 UTC
-    # WM 2026 Modus: jeden Tag, weil Spiele Mo-So + auch späte Spiele bis 06:00 Berlin am Morgen
-    - cron: '0 4 * * *'
+    # Täglich 12:00 Berlin (MESZ UTC+2) -> 10:00 UTC
+    # WM 2026 Modus: läuft NACH Auswertung (09:00) + Watchdog (10:00) damit frische
+    # Lessons in der Recherche genutzt werden. Recherche braucht ~1-2h, dann Tipps 14:00.
+    - cron: '0 10 * * *'
   workflow_dispatch:
   push:
     paths:
