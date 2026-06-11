@@ -45,28 +45,16 @@ window.__MIESMUSCHEL_TIPPS = {
         {
           "id": "ez-1",
           "markt": "Mexico Doppelte Chance 1X (Sieg oder Unentschieden)",
-          "kategorie": "safe",
+          "kategorie": "value",
           "quote": 1.1,
           "empfohlener_einsatz_prozent": 1.5,
           "empfohlener_einsatz_euro": 8.25,
-          "begruendung": "Klassen-Edge + Heim-Stadion Azteca (87k Crowd) + Hoehen-Vorteil 2.240m vs Bafana ohne Hoehen-Trainingserfahrung + 8 ungeschlagen 2026 (inkl 5:1 Serbien letzte Woche) vs 5 ohne Sieg (Suedafrika). Marktkonsens: 90% kombinierte Wahrscheinlichkeit Mexico-Sieg+Draw (Trader-Modell 90%). Markt-Goldgrube DC 1X: 22 Tipps / 80% Trefferquote / ROI +2.3% laut data/statistik.json. Hartregeln-Check: Markt-Goldgrube (DC 1X) ist Voraussetzung fuer SAFE-Bestaetigung (Hebel C) - erfuellt. Pflicht-Profile Heim-Favorit (Quote < 1.80): Sieg/DC-Tipp + Torschuetzen-Tipp - DC erfuellt das Sieg-Bein, ez-2 erfuellt das Torschuetzen-Bein. DC-CAP: 1 von max 1 (Hebel M ok). Quote @ 1.10 niedrig aber Klassen-Asymmetrie + WM-Eroeffnungs-Heim-Druck rechtfertigen es. Bei bet365 DE live pruefen - Quote leicht abweichend moeglich. Mini-Spiele-Tag-Stake-Konzentration auf Goldgrube-Markt (Lessons 28.05+29.05).",
+          "begruendung": "Klassen-Edge + Heim-Stadion Azteca (87k Crowd) + Hoehen-Vorteil 2.240m vs Bafana ohne Hoehen-Trainingserfahrung + 8 ungeschlagen 2026 (inkl 5:1 Serbien letzte Woche) vs 5 ohne Sieg (Suedafrika). Marktkonsens: 90% kombinierte Wahrscheinlichkeit Mexico-Sieg+Draw (Trader-Modell 90%). Markt-Goldgrube DC 1X: 22 Tipps / 80% Trefferquote / ROI +2.3% laut data/statistik.json. Hartregeln-Check: Markt-Goldgrube (DC 1X) ist Voraussetzung fuer SAFE-Bestaetigung (Hebel C) - erfuellt. Pflicht-Profile Heim-Favorit (Quote < 1.80): Sieg/DC-Tipp + Torschuetzen-Tipp - DC erfuellt das Sieg-Bein, ez-2 erfuellt das Torschuetzen-Bein. DC-CAP: 1 von max 1 (Hebel M ok). Quote @ 1.10 niedrig aber Klassen-Asymmetrie + WM-Eroeffnungs-Heim-Druck rechtfertigen es. Bei bet365 DE live pruefen - Quote leicht abweichend moeglich. Mini-Spiele-Tag-Stake-Konzentration auf Goldgrube-Markt (Lessons 28.05+29.05). [Auto: Markt-Mix - kein Sieg/Torschuetzen-Tipp im Spiel, also kein offensives Edge-Signal -> SAFE-DC nicht legitim]",
           "edge_prozent": null,
-          "faire_quote": null,
+          "faire_quote": 1.1,
           "pinnacle_verifiziert": false,
-          "rang": 1
-        },
-        {
-          "id": "ez-2",
-          "markt": "Raul Jimenez Torschuetze Jederzeit",
-          "kategorie": "value",
-          "quote": 2.5,
-          "empfohlener_einsatz_prozent": 1.0,
-          "empfohlener_einsatz_euro": 5.5,
-          "begruendung": "Form-Edge: Jimenez 7 Tore in 7 internationalen Pflichtspielen 2025 + Tor gegen Serbien Pre-WM. Fulham PL-Saison 25/26 ueber 10 Tore. Captain + alleiniger nominaler #9 im 4-1-4-1 = Vollzeit-Volumen-Spieler. Gegner-Profil: Bafana-Abwehr ohne PL-Top-Verteidiger, Foster (Burnley) ist Stuermer nicht Abwehr-Anker. Markt-Goldgrube Torschuetzen Jederzeit: 51 Tipps / 38.8% Trefferquote / ROI +16.1% laut data/statistik.json - aktuell bester ROI-Markt im System. Pflicht-Profile Heim-Favorit (Mexico-Quote < 1.80): MIN 1 Torschuetzen-Tipp PFLICHT - ez-2 erfuellt. Backup-Versicherung: bei Auswechslung Jimenez fuer Gimenez gilt bet365-Einwechslungs-Boost (Gimenez-Tor zaehlt fuer Jimenez-Tipp). Quote ~2.50 (Implizit ~40%) vs Dimers-Modell 33.5% scheint marginal teuer, aber Heim-Crowd + Hoehe + Form-Edge rechtfertigen VALUE. Konsens FOX 2.35 (+135) / RotoWire 2.50 (+150). Bei bet365 DE live pruefen.",
-          "edge_prozent": null,
-          "faire_quote": null,
-          "pinnacle_verifiziert": false,
-          "rang": 2
+          "rang": 1,
+          "_markt_mix_dc_downgrade": true
         },
         {
           "id": "ez-3",
@@ -77,22 +65,9 @@ window.__MIESMUSCHEL_TIPPS = {
           "empfohlener_einsatz_euro": 2.75,
           "begruendung": "Pattern-Edge: 6 von 7 letzten Mexico-Spielen unter 2.5 Tore (Ausnahme 4:0 Island - schwacher Gegner). Suedafrika ohne Tor in zwei der letzten vier Spiele (0:0 Nicaragua, 1:1-1:2 Panama). Hoehen-Tempo-Reduktion: Bafana muss ab Min 60 zurueckfahren (kein Hoehen-Vorteil) = strukturell defensive 2. Halbzeit. WM-Eroeffnungs-Phase historisch defensiv (Teams suchen kein Risiko vor Gruppen-Stichtag). Markt-Goldgrube Unter 2.5: 16 Tipps / 68.8% Trefferquote / ROI +33.3% - hoechster Markt-ROI im System laut data/statistik.json. Implizit @ 1.68 = 59.5%, Modell-Prediction (CBS) ~62-65%. Kein Selbst-Widerspruch zu ez-2: 1:0-Sieg Mexico passt zu Jimenez-Tor + Unter 2.5. Bei bet365 DE live pruefen.",
           "edge_prozent": null,
-          "faire_quote": null,
+          "faire_quote": 1.68,
           "pinnacle_verifiziert": false,
           "rang": 3
-        },
-        {
-          "id": "ez-4",
-          "markt": "Mexico zu Null (Suedafrika trifft nicht)",
-          "kategorie": "wackel",
-          "quote": 1.85,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 2.75,
-          "begruendung": "Suedafrika-Tor-Schwaeche: 0:0 Nicaragua, 1 Tor in 2 Panama-Spielen, 1 Tor Jamaika - schwache Offensive in den letzten 4 Tests. Foster (Burnley/PL-abgestiegen) keine Liga-Form aus PL-25/26. Hoehe 2.240m + Akklimatisierungs-Defizit (5 Tage in Mexiko reichen biologisch nicht). Mexico-Abwehr Edson Alvarez / Cesar Montes Premier-League/Liga-Mexicana Top-Niveau. BTTS-Nein-Konsens-Implizit 58.7% bei 1.70 - Modell-Mehrheit auf BTTS-Nein. Aber: Wackel weil ein Foster-Konter ueber Tempo kann jederzeit passieren, Suedafrika gefaehrlich bei Standardsituationen. Pseudo-Hedge zu ez-2: falls Jimenez nicht trifft, dann oft Mexico 1:0 / 2:0 -> Mexico zu Null kann unabhaengig laufen. Bei bet365 DE live pruefen.",
-          "edge_prozent": null,
-          "faire_quote": null,
-          "pinnacle_verifiziert": false,
-          "rang": 4
         }
       ],
       "kontext_check_status": "OK"

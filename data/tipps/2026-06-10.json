@@ -37,35 +37,9 @@
         "Best-of-7-Pattern 2-1: fuehrendes Team gewinnt Serie historisch ~70-75%; Road-Team mit 2-1-Rueckstand zurueck auf Auswaerts-Bahn seit 2013: 4/4 SU+ATS in G4 (kleine Sample). Total G1 200 / G2 209 / G3 226 = Tempo-Eskalation seit MSG-Heim-Setup.",
         "Lesson 02.05 NBA-Decider-Defensiv-These Track-Record 2/3 = 66.7% nach G3-Miss (G1: 200<218.5 HIT, G2: 209<214.5 HIT, G3: 226>216.5 MISS) - Konfidenz auf Unter-Seite reduziert, aber NYK-Heim-Closeout-Druck-Dynamik G4 != Spurs-MUSS-Sieg-Q1-Eskalation G3."
       ],
-      "tipps": [
-        {
-          "id": "ez-1",
-          "markt": "San Antonio Spurs Handicap +1.5",
-          "kategorie": "wackel",
-          "quote": 1.96,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 2.75,
-          "begruendung": "Auswaerts-Pattern-Edge: Road-Team in Best-of-7 mit 2-1-Stand seit 2013 = 4/4 SU+ATS in G4 (OddsShark-Trend). Plus Wemby G3-Karriere-Hoch 32/8/6/3 + Brunson-Knie-Discomfort + Coach-Brown-FT-Kritik = NYK-Mental-Reibung. SAS +1.5 deckt Spurs-Sieg ODER Knicks-Sieg-mit-max-1-Pkt. NBA-Playoff-Hartregel (Hebel B): max WACKEL. Konsens-Quote FanDuel 1.96 - bei bet365 DE live pruefen. Mini-Spiele-Tag-Stake-Cap 3% (Lesson 09.06): 0.5% = 2.75 EUR. Pseudo-Hedge-Bein 1 zur unkorrelierten Total-These (ez-2).",
-          "edge_prozent": null,
-          "faire_quote": null,
-          "pinnacle_verifiziert": false,
-          "rang": 1
-        },
-        {
-          "id": "ez-2",
-          "markt": "Unter 216.5 Gesamtpunkte (FT)",
-          "kategorie": "wackel",
-          "quote": 1.93,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 2.75,
-          "begruendung": "G1+G2 SA-Heim-Totals 200/209 lagen klar unter Linie (218.5/214.5), G3 226 brach Pattern (Spurs-MUSS-Sieg-Q1-Eskalation 33 Pkt). G4 ist andere Dynamik: NYK-Heim-Closeout-Druck = Defensiv-Fokus + Tempo-Kontrolle, KAT-Bounce-Back-Versuch mit Mid-Range statt Run-Game, MSG-Defensiv-Akustik. Lesson 02.05 Track-Record 2/3 = 66.7% reduziert Konfidenz - daher WACKEL statt VALUE (NICHT mehr SAFE laut Lesson 09.06). FanDuel Total 216.5 - Unter @ 1.93 (DraftKings/Yardbarker liegen sogar bei 215.5). Bei bet365 DE live pruefen. Stake-Cap Lesson 09.06: 0.5% = 2.75 EUR. Pseudo-Hedge-Bein 2 zur Sieg-Markt-These (ez-1) - unkorrelierte Markt-Profile (Sieg-Markt + Total-Markt).",
-          "edge_prozent": null,
-          "faire_quote": null,
-          "pinnacle_verifiziert": false,
-          "rang": 2
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     }
   ],
   "einzeltipps": [
