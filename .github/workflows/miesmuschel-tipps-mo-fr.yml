@@ -2,7 +2,9 @@ name: Miesmuschel Tipps Mo-Fr (ersetzt kaputte Cloud-Routine)
 
 on:
   schedule:
-    - cron: '30 11 * * 1-5'
+    # Täglich 09:00 Berlin (MESZ UTC+2) -> 07:00 UTC
+    # WM-Modus: jeden Tag, Tipps müssen früh genug für Spätspiele bis 06:00 Berlin am Vortag-Morgen
+    - cron: '0 7 * * *'
   workflow_dispatch:
   push:
     paths:

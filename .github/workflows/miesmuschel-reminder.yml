@@ -1,0 +1,50 @@
+name: Miesmuschel Reminder (alle 15 Min - Anstoß-Erinnerung 60-90min vor Spiel)
+
+on:
+  schedule:
+    # Alle 15 Min, rund um die Uhr während WM
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: miesmuschel-reminder
+  cancel-in-progress: false
+
+jobs:
+  reminder:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - run: pip install --quiet pywebpush
+
+      - name: Configure Git
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "Miesmuschel Reminder Bot"
+
+      - name: Run Reminder Dispatcher
+        env:
+          VAPID_PRIVATE: ${{ secrets.VAPID_PRIVATE }}
+          PUSH_SUB: ${{ secrets.PUSH_SUB }}
+        run: python .github/scripts/reminder_dispatcher.py
+
+      - name: Commit Reminder-Tracker (wenn was geschickt wurde)
+        run: |
+          git add data/reminders/ 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m "Reminder-Tracker Update"
+            git push origin main || (git pull --rebase origin main && git push origin main)
+          else
+            echo "Nichts zu committen"
+          fi

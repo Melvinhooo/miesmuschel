@@ -183,6 +183,22 @@ def build_maintenance_payload():
     }
 
 
+def build_reminder_payload():
+    """Anstoß-Reminder-Push: 1-2 h vor jedem Spiel.
+    Body wird via Env REMINDER_TITLE + REMINDER_BODY übergeben.
+    Tag includes spiel_id damit jeder Reminder einzeln auftaucht (nicht ersetzt)."""
+    title = os.environ.get('REMINDER_TITLE', '').strip() or '🐚 Spiel-Reminder'
+    body = os.environ.get('REMINDER_BODY', '').strip() or 'Spiel beginnt bald'
+    tag_suffix = os.environ.get('REMINDER_TAG', '').strip() or 'generic'
+    if len(body) > 150:
+        body = body[:147] + '...'
+    return {
+        'title': title,
+        'body': body,
+        'tag': f'miesmuschel-reminder-{tag_suffix}',
+    }
+
+
 def main():
     mode = sys.argv[1] if len(sys.argv) > 1 else 'tipps'
     print(f"Mode: {mode}")
@@ -195,6 +211,8 @@ def main():
         payload_dict = build_woche_payload()
     elif mode == 'maintenance':
         payload_dict = build_maintenance_payload()
+    elif mode == 'reminder':
+        payload_dict = build_reminder_payload()
     else:
         payload_dict = build_tipps_payload()
 

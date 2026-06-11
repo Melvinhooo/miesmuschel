@@ -1,8 +1,9 @@
 name: Miesmuschel Recherche Sa+So (Pre-Tipps Datenbasis)
 
 on:
-  schedule:
-    - cron: '0 5 * * 6,0'
+  # WM-Modus 10.06.2026: Sa-So-Recherche-Cron deaktiviert, weil täglicher
+  # miesmuschel-recherche-mo-fr-Workflow auch Sa+So abdeckt. Manueller Trigger
+  # via workflow_dispatch oder File-Trigger bleibt für Notfälle.
   workflow_dispatch:
   push:
     paths:

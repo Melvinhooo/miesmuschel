@@ -1,8 +1,10 @@
-name: Miesmuschel Recherche Mo-Fr (Pre-Tipps Datenbasis)
+name: Miesmuschel Recherche (WM-Modus: täglich 06:00 Berlin)
 
 on:
   schedule:
-    - cron: '30 8 * * 1-5'
+    # Täglich 06:00 Berlin (MESZ UTC+2) -> 04:00 UTC
+    # WM 2026 Modus: jeden Tag, weil Spiele Mo-So + auch späte Spiele bis 06:00 Berlin am Morgen
+    - cron: '0 4 * * *'
   workflow_dispatch:
   push:
     paths:
