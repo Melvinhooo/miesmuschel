@@ -51,7 +51,8 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "pinnacle_verifiziert": false,
           "rang": 1
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-06-14-bra-mar",
@@ -90,15 +91,16 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
         {
           "id": "ez-2",
           "markt": "Brasilien Sieg (1X2)",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "quote": 1.57,
           "empfohlener_einsatz_prozent": 1.5,
           "empfohlener_einsatz_euro": 8.25,
-          "begruendung": "Brasilien hat klare Klassen-Edge (FIFA #5 vs #13, Star-Power Vinicius/Raphinha/Endrick), aber Marokko ist 2022-HF + 5 ungeschlagen - VALUE nicht SAFE (Lesson 30.04 Klassen-Edge-Final-Tor-Verteilung-Vorsicht). 2:0-Insurance-Regel WM 2026 aktiv (CLAUDE.md): Brasilien-Sieg-Tipp gewinnt bei bet365 schon ab 2:0-Fuehrung - Schutz gegen spaeten Marokko-Anschluss. Quote 1.57 = VALUE-Sweet-Spot. Konsens-Quote via Squawka/SportingLife/DraftKings verifiziert. Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI - beste VALUE-Range. Form-Edge-Pflicht-Profil Auswaerts-Favorit: in Kombi-Anker (Layer-2: dieser Sieg-Outcome geht in Safe-Kombi, andere Kombis nutzen Total/Player/Tor).",
+          "begruendung": "Brasilien hat klare Klassen-Edge (FIFA #5 vs #13, Star-Power Vinicius/Raphinha/Endrick), aber Marokko ist 2022-HF + 5 ungeschlagen - VALUE nicht SAFE (Lesson 30.04 Klassen-Edge-Final-Tor-Verteilung-Vorsicht). 2:0-Insurance-Regel WM 2026 aktiv (CLAUDE.md): Brasilien-Sieg-Tipp gewinnt bei bet365 schon ab 2:0-Fuehrung - Schutz gegen spaeten Marokko-Anschluss. Quote 1.57 = VALUE-Sweet-Spot. Konsens-Quote via Squawka/SportingLife/DraftKings verifiziert. Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI - beste VALUE-Range. Form-Edge-Pflicht-Profil Auswaerts-Favorit: in Kombi-Anker (Layer-2: dieser Sieg-Outcome geht in Safe-Kombi, andere Kombis nutzen Total/Player/Tor). [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
           "edge_prozent": 10,
           "faire_quote": 1.42,
           "pinnacle_verifiziert": false,
-          "rang": 1
+          "rang": 1,
+          "_saison_kontext_sanity_downgrade": true
         },
         {
           "id": "ez-3",
@@ -113,7 +115,8 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "pinnacle_verifiziert": false,
           "rang": 2
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-06-14-hai-sco",
@@ -162,7 +165,8 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "pinnacle_verifiziert": false,
           "rang": 1
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-06-14-aus-tur",
@@ -210,7 +214,8 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "pinnacle_verifiziert": false,
           "rang": 1
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-06-14-sas-nyk",
@@ -255,11 +260,12 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "empfohlener_einsatz_euro": 2.75,
           "begruendung": "NBA-Playoff-Hartregel CLAUDE.md (Hebel B) und NBA-Decider-Status: max WACKEL fuer Total/Spread. Lesson 02.05 NBA-Decider-Defensiv-These Track-Record G1-G4 = 3/4 = 75% (HIT/HIT/MISS/HIT). G5 = MUSS-Sieg-SA mit Heim-Defensiv-Druck + NYK-Auswaerts-Closing-Vorsicht = beide Teams gehen auf Possession-Kontrolle statt Tempo-Run. Brunson-Knie-Discomfort + Wemby G4-Wurf-Kollaps drueckt Volumen. Quote 1.93 Konsens FanDuel - bei bet365 DE live pruefen (DK liegt sogar bei 215.5). Stake-Cap 0.5% = 2.75 EUR.",
           "edge_prozent": null,
-          "faire_quote": null,
+          "faire_quote": 1.93,
           "pinnacle_verifiziert": false,
           "rang": 1
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-06-14-ger-cur",
@@ -321,7 +327,8 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "pinnacle_verifiziert": false,
           "rang": 2
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-06-14-ned-jpn",
@@ -365,11 +372,12 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "empfohlener_einsatz_euro": 2.75,
           "begruendung": "Coinflip-Lage (Quoten 2.00 / 3.75 / 3.40, Kalshi ~48% Niederlande) - Hartregel CLAUDE.md: COINFLIP-Spiele 1X2-Quoten 2.40-3.50 = KEIN SAFE, max 3 Tipps, hier 1X2 max WACKEL. Niederlande nominal Klassen-Edge (Van Dijk/De Jong/Reijnders) aber Japan 2022-Schock-Spezialist (Deutschland + Spanien eliminiert). 2:0-Insurance-Regel WM 2026 aktiv (CLAUDE.md): Niederlande-Sieg gewinnt bei bet365 schon ab 2:0-Fuehrung. Quote 2.00 = WACKEL-Sweet-Spot bei Coinflip. Stake nur 0.5% wegen Coinflip-Risiko. Konsens-Quote via Squawka/Oddschecker verifiziert.",
           "edge_prozent": null,
-          "faire_quote": null,
+          "faire_quote": 2.0,
           "pinnacle_verifiziert": false,
           "rang": 1
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-06-15-civ-ecu",
@@ -418,7 +426,8 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "pinnacle_verifiziert": false,
           "rang": 1
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-06-15-swe-tun",
@@ -452,7 +461,8 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
         "Markt-Goldgrube 'Torschuetzen Jederzeit': Isak (21 PL-Tore) klares Form-Edge-Pflicht-Profil + Gyokeres (34 Liga-Tore) Hedge - aber Tunesien-Auftakt-Defensive macht Tipp risikoreicher als Quote zeigt.",
         "Coinflip-Tendenz 1X2-Quote 1.94: noch in Quoten-Range fuer VALUE-Sieg aber im Grenzbereich zu WACKEL (CLAUDE.md COINFLIP-Definition 2.40-3.50 ist klar drueber, hier Heim-Favorit aber mit moderater Edge)."
       ],
-      "tipps": []
+      "tipps": [],
+      "kontext_check_status": "OK"
     }
   ],
   "einzeltipps": [
@@ -630,25 +640,25 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
         {
           "spiel_id": "2026-06-13-qat-sui",
           "spiel_titel": "Katar vs Schweiz",
-          "markt": "Schweiz Sieg",
+          "markt": "Katar vs Schweiz: Schweiz Sieg",
           "quote": 1.3
         },
         {
           "spiel_id": "2026-06-14-hai-sco",
           "spiel_titel": "Haiti vs Schottland",
-          "markt": "Schottland Sieg",
+          "markt": "Haiti vs Schottland: Schottland Sieg",
           "quote": 1.45
         },
         {
           "spiel_id": "2026-06-14-bra-mar",
           "spiel_titel": "Brasilien vs Marokko",
-          "markt": "Brasilien Sieg",
+          "markt": "Brasilien vs Marokko: Brasilien Sieg",
           "quote": 1.57
         },
         {
           "spiel_id": "2026-06-14-ger-cur",
           "spiel_titel": "Deutschland vs Curacao",
-          "markt": "Ueber 2.5 Tore",
+          "markt": "Deutschland vs Curacao: Ueber 2.5 Tore",
           "quote": 1.2
         }
       ]
@@ -665,25 +675,25 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
         {
           "spiel_id": "2026-06-14-bra-mar",
           "spiel_titel": "Brasilien vs Marokko",
-          "markt": "Vinicius Jr trifft jederzeit",
+          "markt": "Brasilien vs Marokko: Vinicius Jr trifft jederzeit",
           "quote": 2.3
         },
         {
           "spiel_id": "2026-06-14-ger-cur",
           "spiel_titel": "Deutschland vs Curacao",
-          "markt": "Kai Havertz trifft jederzeit",
+          "markt": "Deutschland vs Curacao: Kai Havertz trifft jederzeit",
           "quote": 1.8
         },
         {
           "spiel_id": "2026-06-14-aus-tur",
           "spiel_titel": "Australien vs Tuerkei",
-          "markt": "Tuerkei Sieg",
+          "markt": "Australien vs Tuerkei: Tuerkei Sieg",
           "quote": 1.8
         },
         {
           "spiel_id": "2026-06-14-ned-jpn",
           "spiel_titel": "Niederlande vs Japan",
-          "markt": "Niederlande Sieg",
+          "markt": "Niederlande vs Japan: Niederlande Sieg",
           "quote": 2.0
         }
       ]
@@ -691,7 +701,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
     {
       "id": "kombi-risiko",
       "name": "Risiko-Kombi Markt-Mix Tor/Total/NBA ~34.3x",
-      "kategorie": "risiko",
+      "kategorie": "risk",
       "gesamtquote": 34.3,
       "empfohlener_einsatz_prozent": 0.25,
       "empfohlener_einsatz_euro": 1.4,
@@ -700,31 +710,31 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
         {
           "spiel_id": "2026-06-14-bra-mar",
           "spiel_titel": "Brasilien vs Marokko",
-          "markt": "Ueber 2.5 Tore",
+          "markt": "Brasilien vs Marokko: Ueber 2.5 Tore",
           "quote": 1.85
         },
         {
           "spiel_id": "2026-06-14-sas-nyk",
           "spiel_titel": "Spurs vs Knicks NBA G5",
-          "markt": "Unter 216.5 Gesamtpunkte",
+          "markt": "Spurs vs Knicks NBA G5: Unter 216.5 Gesamtpunkte",
           "quote": 1.93
         },
         {
           "spiel_id": "2026-06-15-swe-tun",
           "spiel_titel": "Schweden vs Tunesien",
-          "markt": "Schweden Sieg",
+          "markt": "Schweden vs Tunesien: Schweden Sieg",
           "quote": 1.94
         },
         {
           "spiel_id": "2026-06-15-civ-ecu",
           "spiel_titel": "Elfenbeinkueste vs Ecuador",
-          "markt": "Unter 2.5 Tore",
+          "markt": "Elfenbeinkueste vs Ecuador: Unter 2.5 Tore",
           "quote": 1.65
         },
         {
           "spiel_id": "2026-06-14-ned-jpn",
           "spiel_titel": "Niederlande vs Japan",
-          "markt": "Kaoru Mitoma (Japan) trifft jederzeit",
+          "markt": "Niederlande vs Japan: Kaoru Mitoma (Japan) trifft jederzeit",
           "quote": 3.0
         }
       ]
@@ -741,31 +751,31 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
         {
           "spiel_id": "2026-06-13-qat-sui",
           "spiel_titel": "Katar vs Schweiz",
-          "markt": "Katar trifft jederzeit (Almoez Ali oder Akram Afif)",
+          "markt": "Katar vs Schweiz: Katar trifft jederzeit (Almoez Ali oder Akram Afif)",
           "quote": 3.2
         },
         {
           "spiel_id": "2026-06-14-hai-sco",
           "spiel_titel": "Haiti vs Schottland",
-          "markt": "Haiti trifft jederzeit",
+          "markt": "Haiti vs Schottland: Haiti trifft jederzeit",
           "quote": 2.3
         },
         {
           "spiel_id": "2026-06-14-ger-cur",
           "spiel_titel": "Deutschland vs Curacao",
-          "markt": "Curacao trifft jederzeit (Tahith Chong)",
+          "markt": "Deutschland vs Curacao: Curacao trifft jederzeit (Tahith Chong)",
           "quote": 3.5
         },
         {
           "spiel_id": "2026-06-15-civ-ecu",
           "spiel_titel": "Elfenbeinkueste vs Ecuador",
-          "markt": "Elfenbeinkueste Sieg",
+          "markt": "Elfenbeinkueste vs Ecuador: Elfenbeinkueste Sieg",
           "quote": 3.5
         },
         {
           "spiel_id": "2026-06-15-swe-tun",
           "spiel_titel": "Schweden vs Tunesien",
-          "markt": "Ueber 2.5 Tore",
+          "markt": "Schweden vs Tunesien: Ueber 2.5 Tore",
           "quote": 2.28
         }
       ]

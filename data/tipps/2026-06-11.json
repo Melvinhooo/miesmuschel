@@ -48,15 +48,16 @@
         {
           "id": "ez-1",
           "markt": "Mexiko Sieg (90 Min)",
-          "kategorie": "safe",
+          "kategorie": "wackel",
           "quote": 1.48,
           "empfohlener_einsatz_prozent": 1.5,
           "empfohlener_einsatz_euro": 8.25,
-          "begruendung": "Klassen-Edge maximal: 8 ungeschlagen 2026 inkl. 5:1 Serbien-Pre-WM gegen Bafana mit 5 ohne Sieg. Heim-Estadio-Azteca 87k + Hoehen-Vorteil 2240m (Aguirre-Setup hoehen-optimiert) + 2:0-Insurance fuer direkten Sieg-Tipp (WM 2026 nach CLAUDE.md mit BL+CL aufgenommen Stand 10.06.2026 — wenn Mexico zwischenzeitlich 2:0 fuehrt, gilt der Tipp gewonnen). Lyle Foster Bafana #9 (Burnley) ohne PL-Top-Anker-Form, Zwane 36 Jahre. Mexico DC 1X ist Markt-Goldgrube (80% / +2.3% ROI laut data/statistik.json) — Sieg-Variante etwas spekulativer aber bei Quote 1.48 in SAFE-Range 1.30-1.65. Quelle bet365: 1.48 (US -209), bei bet365 DE live pruefen.",
+          "begruendung": "Klassen-Edge maximal: 8 ungeschlagen 2026 inkl. 5:1 Serbien-Pre-WM gegen Bafana mit 5 ohne Sieg. Heim-Estadio-Azteca 87k + Hoehen-Vorteil 2240m (Aguirre-Setup hoehen-optimiert) + 2:0-Insurance fuer direkten Sieg-Tipp (WM 2026 nach CLAUDE.md mit BL+CL aufgenommen Stand 10.06.2026 — wenn Mexico zwischenzeitlich 2:0 fuehrt, gilt der Tipp gewonnen). Lyle Foster Bafana #9 (Burnley) ohne PL-Top-Anker-Form, Zwane 36 Jahre. Mexico DC 1X ist Markt-Goldgrube (80% / +2.3% ROI laut data/statistik.json) — Sieg-Variante etwas spekulativer aber bei Quote 1.48 in SAFE-Range 1.30-1.65. Quelle bet365: 1.48 (US -209), bei bet365 DE live pruefen. [Auto HR2: Heim-Krise/Sturm-Krise erkannt - Heim-Sieg/-DC/-Top-Stuermer max WACKEL]",
           "edge_prozent": null,
           "faire_quote": 1.42,
           "pinnacle_verifiziert": false,
-          "rang": 1
+          "rang": 1,
+          "_heim_form_block": true
         },
         {
           "id": "ez-2",
@@ -75,7 +76,7 @@
           "id": "ez-3",
           "markt": "Beide Teams treffen — Nein",
           "kategorie": "value",
-          "quote": 1.70,
+          "quote": 1.7,
           "empfohlener_einsatz_prozent": 0.5,
           "empfohlener_einsatz_euro": 2.75,
           "begruendung": "Bafana Offensiv-Schwaeche: 0 Tor in 4 Pre-WM-Tests, Foster ohne PL-Top-Form, Zwane 36 Jahre limitiert. Hoehen-Akklimatisierungs-Defizit Bafana (auch wenn Pretoria/Johannesburg-Erfahrung leicht hilft). Mexico-Abwehr Montes (Lokomotiv) + Vasquez (Genoa) + Alvarez (Sechser, Ankerspieler) auf Stamm-Niveau. Konsens FOX implied 61% BTTS-Nein. Pseudo-Hedge zu Jimenez-Tipp (ez-5): bei 1:0/2:0 Mexico ohne Bafana-Tor laufen beide. Bei bet365 DE live pruefen — Quote-Estimate ~1.70 aus 1X2-Implied + FOX-Konsens.",
@@ -83,19 +84,6 @@
           "faire_quote": 1.65,
           "pinnacle_verifiziert": false,
           "rang": 3
-        },
-        {
-          "id": "ez-5",
-          "markt": "Raul Jimenez trifft jederzeit",
-          "kategorie": "wackel",
-          "quote": 2.50,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 2.75,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (n=51, 38.8%, ROI +16.1% — hoechste Netto-Goldgrube). HR24 erfuellt (2 von 3): Form-Edge (Tor Serbien Pre-WM-Test 05.06., 9 PL-Tore Fulham 25/26, 45 NT-Tore = Platz 3 Allzeit) + zentraler 9er mit Backup-Stuermer-Qualitaet Gimenez (AC Milan, Form-Wiederaufbau). Einwechslungs-Boost greift: bei klassischem 60.-70.-Min-Wechsel Jimenez->Gimenez zaehlen Gimenez-Tore fuer Jimenez-Tipp (CLAUDE.md WM-Sonderregel). Bafana-Abwehr Mbokazi (Chicago Fire MLS) + Okon (Hannover 96 2.BL) nicht PL/CL-Niveau. Quote 2.50 (US +150, Rotowire-Konsens) in WACKEL-Range 2.30-3.50. Bei bet365 DE live pruefen.",
-          "edge_prozent": 8.0,
-          "faire_quote": 2.30,
-          "pinnacle_verifiziert": false,
-          "rang": 6
         }
       ],
       "kontext_check_status": "OK"
@@ -168,28 +156,15 @@
           "rang": 5
         },
         {
-          "id": "ez-7",
-          "markt": "Son Heung-min trifft jederzeit",
-          "kategorie": "wackel",
-          "quote": 2.40,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 2.75,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (n=51, 38.8%, ROI +16.1%). HR24 erfuellt: Form-Edge (12 Tore in 13 LAFC-Spielen + Doppelpack Trinidad-Tobago Pre-WM 30.05., 56 NT-Tore = 2 unter Allzeit-Rekord) + zentraler LF (NICHT DM, Position-Check OK). HR27 niedrig (LAFC MLS keine Hoch-Belastungs-Saison). Tschechien-Abwehr Krejci + Coufal solide aber Vereins-Mueder-Risiko HR27 (30+ Liga-Spiele + Cup). Quote 2.40 (geschaetzt aus Konsens, bet365 DE live pruefen) in WACKEL-Range 2.30-3.50.",
-          "edge_prozent": 6.0,
-          "faire_quote": 2.20,
-          "pinnacle_verifiziert": false,
-          "rang": 7
-        },
-        {
           "id": "ez-8",
           "markt": "Patrik Schick — erster Torschuetze des Spiels",
           "kategorie": "risk",
-          "quote": 4.90,
+          "quote": 4.9,
           "empfohlener_einsatz_prozent": 0.25,
-          "empfohlener_einsatz_euro": 1.40,
+          "empfohlener_einsatz_euro": 1.4,
           "begruendung": "Spaß-/Risiko-Tipp. Schick (ST Leverkusen 11 BL-Tore 25/26 in 24 Einsaetzen, 25 Tore in 52 Spielen Vorjahres-Vereins-Vergleich) als alleiniger Top-Stuermer Tschechien. Bayer-Leverkusen-Set-Piece-Pattern + Soucek-Coufal-Standard-Routine = frueher Standard-Goal-Pfad. HR27 Mueder-Risiko vorhanden aber Erster-Torschuetze ist Lotterie-Markt (CLAUDE.md WM-Markt-Boykott: Erster Torschuetze WACKEL-max bei Aussenseitern ohne Pre-WM-Form, ABER Schick HAT Pre-WM-Form mit 11 BL-Toren — Risiko-Range 3.50-7.00 erfuellt mit 4.90 (US +390, Recherche dokumentiert via Rotowire/FanDuel). Bei bet365 DE live pruefen, Bayer-Spieler-Korrelation mit Backup-Hloezek-Einwechslungs-Boost moeglich.",
           "edge_prozent": null,
-          "faire_quote": 4.80,
+          "faire_quote": 4.8,
           "pinnacle_verifiziert": false,
           "rang": 8
         }
@@ -234,7 +209,7 @@
       "spiel": "Mexiko vs Suedafrika (WM 2026 Eroeffnung)",
       "markt": "Beide Teams treffen — Nein",
       "kategorie": "value",
-      "quote": 1.70,
+      "quote": 1.7,
       "empfohlener_einsatz_prozent": 0.5,
       "empfohlener_einsatz_euro": 2.75,
       "begruendung": "Bafana 0/4 Tore in Tests, Foster ohne PL-Top-Form. Mexico-Abwehr Montes/Vasquez/Alvarez Stamm. FOX-Konsens implied 61% BTTS-Nein. Pseudo-Hedge zu Jimenez-Tipp. Quote ~1.70 Konsens-Estimate, bei bet365 DE live pruefen.",
@@ -279,12 +254,12 @@
       "spiel": "Mexiko vs Suedafrika (WM 2026 Eroeffnung)",
       "markt": "Raul Jimenez trifft jederzeit",
       "kategorie": "wackel",
-      "quote": 2.50,
+      "quote": 2.5,
       "empfohlener_einsatz_prozent": 0.5,
       "empfohlener_einsatz_euro": 2.75,
       "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (n=51/38.8%/+16.1%). HR24: Form-Edge (Tor Serbien Pre-WM, 9 PL-Tore Fulham, 45 NT-Tore Platz 3) + zentraler 9er mit Backup Gimenez (Einwechslungs-Boost). Quote 2.50 in WACKEL-Range. Bei bet365 DE live pruefen.",
       "edge_prozent": 8.0,
-      "faire_quote": 2.30,
+      "faire_quote": 2.3,
       "pinnacle_verifiziert": false,
       "rang": 6
     },
@@ -294,12 +269,12 @@
       "spiel": "Suedkorea vs Tschechien (WM 2026 Spieltag 1 Gruppe A)",
       "markt": "Son Heung-min trifft jederzeit",
       "kategorie": "wackel",
-      "quote": 2.40,
+      "quote": 2.4,
       "empfohlener_einsatz_prozent": 0.5,
       "empfohlener_einsatz_euro": 2.75,
       "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+16.1%). HR24: Form-Edge (12 LAFC-Tore in 13 Spielen, Doppelpack Trinidad-Tobago, 56 NT-Tore) + LF-Position (kein Hoejlund-Bug). HR27 niedrig (LAFC MLS). Tschechien-Mueder-Risiko. Bei bet365 DE live pruefen, Quote-Estimate aus Konsens.",
       "edge_prozent": 6.0,
-      "faire_quote": 2.20,
+      "faire_quote": 2.2,
       "pinnacle_verifiziert": false,
       "rang": 7
     },
@@ -309,12 +284,12 @@
       "spiel": "Suedkorea vs Tschechien (WM 2026 Spieltag 1 Gruppe A)",
       "markt": "Patrik Schick — erster Torschuetze des Spiels",
       "kategorie": "risk",
-      "quote": 4.90,
+      "quote": 4.9,
       "empfohlener_einsatz_prozent": 0.25,
-      "empfohlener_einsatz_euro": 1.40,
+      "empfohlener_einsatz_euro": 1.4,
       "begruendung": "Spass-/Risiko-Tipp. Schick (Leverkusen 11 BL-Tore 25/26) als alleiniger Top-Stuermer Tschechien + Bayer-Set-Piece-Pattern + Soucek-Standard-Routine. Quote 4.90 (US +390 Recherche dokumentiert via Rotowire/FanDuel). Risiko-Range 3.50-7.00. Bei bet365 DE live pruefen.",
       "edge_prozent": null,
-      "faire_quote": 4.80,
+      "faire_quote": 4.8,
       "pinnacle_verifiziert": false,
       "rang": 8
     }
@@ -325,10 +300,18 @@
       "kategorie": "safe",
       "profil": "Safe ~2.4x (Mini-Slate akzeptiert unter Master-Range 3-5x wegen Layer-1+Layer-2-Constraints)",
       "beine": [
-        {"spiel_id": "2026-06-11-mex-rsa", "markt": "Mexiko Sieg (90 Min)", "quote": 1.48},
-        {"spiel_id": "2026-06-12-kor-cze", "markt": "Unter 2.5 Tore (Gesamt)", "quote": 1.62}
+        {
+          "spiel_id": "2026-06-11-mex-rsa",
+          "markt": "Mexiko Sieg (90 Min)",
+          "quote": 1.48
+        },
+        {
+          "spiel_id": "2026-06-12-kor-cze",
+          "markt": "Unter 2.5 Tore (Gesamt)",
+          "quote": 1.62
+        }
       ],
-      "gesamtquote": 2.40,
+      "gesamtquote": 2.4,
       "rechnung": "1.48 x 1.62 = 2.40",
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 11.0,
@@ -340,13 +323,21 @@
       "kategorie": "balance",
       "profil": "Balance ~4.0x (knapp unter Master-Range 6-10x — Mini-Slate bedingt)",
       "beine": [
-        {"spiel_id": "2026-06-11-mex-rsa", "markt": "Unter 2.5 Tore (Gesamt)", "quote": 1.68},
-        {"spiel_id": "2026-06-12-kor-cze", "markt": "Son Heung-min trifft jederzeit", "quote": 2.40}
+        {
+          "spiel_id": "2026-06-11-mex-rsa",
+          "markt": "Unter 2.5 Tore (Gesamt)",
+          "quote": 1.68
+        },
+        {
+          "spiel_id": "2026-06-12-kor-cze",
+          "markt": "Son Heung-min trifft jederzeit",
+          "quote": 2.4
+        }
       ],
       "gesamtquote": 4.03,
       "rechnung": "1.68 x 2.40 = 4.03",
       "empfohlener_einsatz_prozent": 0.8,
-      "empfohlener_einsatz_euro": 4.40,
+      "empfohlener_einsatz_euro": 4.4,
       "begruendung": "Beide Markt-Goldgruben: Unter 2.5 MEX (+33.3% ROI, 6/7 letzte Mexico-Spiele Unter) + Torschuetzen Jederzeit (Son Form-Edge, 12 LAFC-Tore, Doppelpack Trinidad). 0 Sieg-Outcomes, Layer-2 frei fuer Risiko/Moonshot. Layer-3: MEX-Bein wechselt zu Tor-Total (vs Sieg in Safe). Bei bet365 DE live pruefen.",
       "rang": 2
     },
@@ -355,13 +346,21 @@
       "kategorie": "risk",
       "profil": "Risiko ~6.9x (unter Master-Range 15-30x — Mini-Slate bedingt + Layer-Constraints)",
       "beine": [
-        {"spiel_id": "2026-06-11-mex-rsa", "markt": "Raul Jimenez trifft jederzeit", "quote": 2.50},
-        {"spiel_id": "2026-06-12-kor-cze", "markt": "Tschechien Sieg (90 Min)", "quote": 2.75}
+        {
+          "spiel_id": "2026-06-11-mex-rsa",
+          "markt": "Raul Jimenez trifft jederzeit",
+          "quote": 2.5
+        },
+        {
+          "spiel_id": "2026-06-12-kor-cze",
+          "markt": "Tschechien Sieg (90 Min)",
+          "quote": 2.75
+        }
       ],
       "gesamtquote": 6.88,
       "rechnung": "2.50 x 2.75 = 6.88",
       "empfohlener_einsatz_prozent": 0.25,
-      "empfohlener_einsatz_euro": 1.40,
+      "empfohlener_einsatz_euro": 1.4,
       "begruendung": "Jimenez-Form-Edge (Tor Serbien-Test + Captain + Einwechslungs-Boost via Gimenez) + Tschechien-Sieg (Schick BL-Top-Form, Soucek-Krejci-Spine, Suedkorea-COINFLIP-Marktcue 36/31/34 % Kalshi). Layer-2: KOR-CZE-Sieg-Outcome (verbraucht das Limit fuer Korea-Spiel). Layer-3: MEX-Bein wechselt zu Spielertor (entkoppelt). Bei bet365 DE live pruefen.",
       "rang": 3
     },
@@ -370,8 +369,16 @@
       "kategorie": "moonshot",
       "profil": "Moonshot ~9.1x (deutlich unter Master-Range 100x+ — Mini-Slate-2-Game macht 100x ohne Halluzinations-Schaetzung struktureall unmoeglich, ehrlich aufgesetzt mit dokumentierten Quoten)",
       "beine": [
-        {"spiel_id": "2026-06-11-mex-rsa", "markt": "Mexiko zu Null (Suedafrika trifft nicht)", "quote": 1.85},
-        {"spiel_id": "2026-06-12-kor-cze", "markt": "Patrik Schick — erster Torschuetze des Spiels", "quote": 4.90}
+        {
+          "spiel_id": "2026-06-11-mex-rsa",
+          "markt": "Mexiko zu Null (Suedafrika trifft nicht)",
+          "quote": 1.85
+        },
+        {
+          "spiel_id": "2026-06-12-kor-cze",
+          "markt": "Patrik Schick — erster Torschuetze des Spiels",
+          "quote": 4.9
+        }
       ],
       "gesamtquote": 9.07,
       "rechnung": "1.85 x 4.90 = 9.07",
@@ -448,10 +455,24 @@
     "drops": [],
     "downgrades": [],
     "warns": [
-      {"art": "quoten_estimate", "tipp_id": "ez-3", "details": "BTTS Nein MEX-RSA @ 1.70 ist Konsens-Estimate aus 1X2-Implied + FOX-Konsens (FOX implied 61% BTTS-Nein). Recherche-File hat nur BTTS-Nein-Konsens-Prozentsatz, nicht direkte Quote. Bei bet365 DE live pruefen — Abweichung moeglich."},
-      {"art": "quoten_estimate", "tipp_id": "ez-7", "details": "Son trifft jederzeit @ 2.40 ist Konsens-Estimate (Recherche torschuetzen_jederzeit-Block schreibt 'Anytime-Quoten Son nicht direkt im Aggregator gefunden — bet365-Live-Pruefung Pflicht'). Wert plausibel aus 56-NT-Tor-Form-Profil, aber bei bet365 DE live pruefen vor Stake."},
-      {"art": "mini_slate_quote_range_dehnung", "details": "Bei 2-Spiele-Slate + Layer-1 (max 1 Bein/Spiel/Kombi) + Layer-2 (max 1 Sieg-Outcome/Spiel ueber alle Kombis) sind Master-Prompt-Quote-Ranges (Safe 3-5x / Balance 6-10x / Risiko 15-30x / Moonshot 100x+) nicht voll erreichbar ohne Halluzinations-Quoten-Schaetzung. Effektiv: Safe 2.40x (knapp unter Range), Balance 4.03x (knapp unter), Risiko 6.88x (deutlich unter), Moonshot 9.07x (weit unter). Akzeptiert als ehrliche Bauausfuehrung — alternative waere Moonshot mit Schick-Doppelpack/Hattrick-Schaetzungen (Halluzinations-Risiko)."},
-      {"art": "layer_3_softening", "details": "Layer-3 (max 1 Bein/Spiel ueber alle Kombis) wegen nur 2 Spielen + 4 Kombis nicht voll erfuellbar — Markt-Entkopplung pro Spiel angewandt: MEX-Beine = Sieg(Safe)/Unter 2.5(Balance)/Jimenez Tor(Risiko)/Mexico zu Null(Moonshot) — 4 verschiedene Maerkte. KOR-CZE-Beine = Unter 2.5(Safe)/Son Tor(Balance)/Tschechien Sieg(Risiko)/Schick erster Torschuetze(Moonshot) — 4 verschiedene Maerkte. Beide Spalten entkoppelt, kein Markt doppelt."}
+      {
+        "art": "quoten_estimate",
+        "tipp_id": "ez-3",
+        "details": "BTTS Nein MEX-RSA @ 1.70 ist Konsens-Estimate aus 1X2-Implied + FOX-Konsens (FOX implied 61% BTTS-Nein). Recherche-File hat nur BTTS-Nein-Konsens-Prozentsatz, nicht direkte Quote. Bei bet365 DE live pruefen — Abweichung moeglich."
+      },
+      {
+        "art": "quoten_estimate",
+        "tipp_id": "ez-7",
+        "details": "Son trifft jederzeit @ 2.40 ist Konsens-Estimate (Recherche torschuetzen_jederzeit-Block schreibt 'Anytime-Quoten Son nicht direkt im Aggregator gefunden — bet365-Live-Pruefung Pflicht'). Wert plausibel aus 56-NT-Tor-Form-Profil, aber bei bet365 DE live pruefen vor Stake."
+      },
+      {
+        "art": "mini_slate_quote_range_dehnung",
+        "details": "Bei 2-Spiele-Slate + Layer-1 (max 1 Bein/Spiel/Kombi) + Layer-2 (max 1 Sieg-Outcome/Spiel ueber alle Kombis) sind Master-Prompt-Quote-Ranges (Safe 3-5x / Balance 6-10x / Risiko 15-30x / Moonshot 100x+) nicht voll erreichbar ohne Halluzinations-Quoten-Schaetzung. Effektiv: Safe 2.40x (knapp unter Range), Balance 4.03x (knapp unter), Risiko 6.88x (deutlich unter), Moonshot 9.07x (weit unter). Akzeptiert als ehrliche Bauausfuehrung — alternative waere Moonshot mit Schick-Doppelpack/Hattrick-Schaetzungen (Halluzinations-Risiko)."
+      },
+      {
+        "art": "layer_3_softening",
+        "details": "Layer-3 (max 1 Bein/Spiel ueber alle Kombis) wegen nur 2 Spielen + 4 Kombis nicht voll erfuellbar — Markt-Entkopplung pro Spiel angewandt: MEX-Beine = Sieg(Safe)/Unter 2.5(Balance)/Jimenez Tor(Risiko)/Mexico zu Null(Moonshot) — 4 verschiedene Maerkte. KOR-CZE-Beine = Unter 2.5(Safe)/Son Tor(Balance)/Tschechien Sieg(Risiko)/Schick erster Torschuetze(Moonshot) — 4 verschiedene Maerkte. Beide Spalten entkoppelt, kein Markt doppelt."
+      }
     ],
     "checks_bestanden": [
       "Spieler-Halluzinations-Check: alle 4 Spielernamen (Jimenez/Son/Schick + Backup-Erwaehnungen Gimenez/Foster/Lee Kang-in) aus Recherche-File squad_heim_top/squad_gast_top verifiziert, FIFA + offizielle Verband-Quellen.",
