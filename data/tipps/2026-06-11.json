@@ -15,7 +15,7 @@
         "parallel_gast": "keine — WM exklusiv. PSL-Saison Suedafrika beendet, AFCON-Quali abgeschlossen. Hugo Broos hat 26er-Kader seit 28.05 final.",
         "saisonziel_heim": "Co-Gastgeber-WM 2026, Eroeffnungs-Match Estadio Azteca: Gruppensieg-Druck (Gruppe A vs Suedafrika/Suedkorea/Tschechien). Aguirre 3. WM, 2026 ungeschlagen in Pre-WM-Tests (5:1 Serbien, 1:0 Australien, 1:0 Ghana, Maerz-Draws Belgien/Portugal). Heim-Atmosphaere 87k + 3. WM-Eroeffnungs-Stadion-Tradition (1970/1986/2026) = maximaler Druck + maximaler Edge.",
         "saisonziel_gast": "1. WM-Teilnahme seit 2010 (damals Eroeffnungsgegner Mexikos, 1:1 Tshabalala-Hammer). Achievement-Modus, realistisches Ziel: 3.-Platz-Trostpreis fuer Achtelfinale via beste 8 Dritte. Hugo Broos 2. WM-Kampagne. AFCON-Aus Runde-16 vs Kamerun = letzte K.O.-Erfahrung verloren. 19/26 PSL-basierte Spieler, limitierte Europa-Erfahrung.",
-        "motivations_asymmetrie": "Mexico maximal motiviert + Klassen-Edge + Hoehen-Vorteil 2240m (Liga-MX-Spieler hoehen-trainiert, Aguirre-Setup auf Hoehe optimiert) gegen Bafana im Achievement-Modus mit 5 Spielen ohne Sieg (1:1 Jamaika, 0:0 Nicaragua, 1:1+1:2 Panama, AFCON-Aus). Suedafrika hat eigene Hoehen-Erfahrung (Sundowns Pretoria 1339m / Orlando Pirates Johannesburg 1700m) — Vorteil leicht abgemildert, NICHT eliminiert. El Tri klar ueberlegen auf jeder Linie.",
+        "motivations_asymmetrie": "Mexico maximal motiviert + Klassen-Edge + Hoehen-Vorteil 2240m (Liga-MX-Spieler hoehen-trainiert, Aguirre-Setup auf Hoehe optimiert) gegen Bafana im Achievement-Modus. Suedafrikas Pre-WM-Phase brachte nur Draws (1:1 Jamaika, 0:0 Nicaragua, 1:1 + 1:2 Panama) plus AFCON-Aus. Suedafrika hat eigene Hoehen-Erfahrung (Sundowns Pretoria 1339m / Orlando Pirates Johannesburg 1700m) — Vorteil leicht abgemildert, NICHT eliminiert. El Tri klar ueberlegen auf jeder Linie.",
         "recovery_heim": "9 Tage seit Pre-WM-Test 5:1 Serbien (02.06.) — lange Erholung + Azteca-Akklimatisierung seit Anfang Juni. Stamm fit: Ochoa (40, AVS Portugal, kann 1. Spieler mit 6 WMs werden), Alvarez (Kapitaen, Knoechel-OP Feb 2026 rechtzeitig fit), Jimenez (#9, Wolves PL 2. Spell, Tor Serbien-Test). Gimenez (AC Milan, 5-Monats-Verletzungs-Pause Okt-Maerz, 0 Saison-Tore) als Backup-Stuermer mit Form-Wiederaufbau.",
         "recovery_gast": "Lange Pre-WM-Vorbereitung, Pre-WM-Test 1:1 Jamaika in Pachuca (06.06.) hinter verschlossenen Tueren — limitierte Reibung. Foster (Burnley PL Aufsteiger, voll belastet 38+ Saison), Zwane (36, Sundowns Playmaker), Williams Stamm-Torwart. 2 uncapped Spieler im Kader = Erfahrungs-Defizit.",
         "vereins_belastung_heim": "Gemischt. Liga-MX-Spieler (Gallardo, Quinones, Mora) hatten Apertura+Clausura+Liguilla = mittlere Belastung. Europa-Anteil moderat: Jimenez 36 PL-Spiele Fulham, Alvarez Knoechel-OP-Rueckkehr, Gimenez 5-Monate-Pause + nur 16 Serie-A-Einsaetze 0 Tore. Risiko-Faktor: keine Top-Stars mit 50+ Pflichtspielen + CL-Finale-Phase.",
@@ -40,7 +40,7 @@
         "Mexico 2026 ungeschlagen in 8 Spielen (Draws Belgien+Portugal Maerz, Siege Ghana/Australien/Serbien). Pre-WM 5:1 vs Serbien letzte Woche mit Jimenez-Tor.",
         "Mexico voraussichtliche XI (Sports Mole/SI): Ochoa; Sanchez/Montes/Vasquez/Gallardo; Fidalgo/Alvarez/Pineda; Alvarado/Jimenez/Quinones. Mora (17, Tijuana) koennte juengster Mexikaner-WM-Spieler aller Zeiten werden.",
         "Mexico Top-Stuermer Raul Jimenez (35, Wolves 2. Spell): 45 NT-Tore Allzeit Platz 3, Tor Serbien-Test, 9 PL-Tore Fulham 25/26. Backup Gimenez (AC Milan) in Form-Wiederaufbau nach 5-Monats-Verletzung. Lozano NICHT im Kader (Aguirre disziplinar).",
-        "Suedafrika 5 ohne Sieg vor WM-Eroeffnung. Pre-WM-Test 1:1 Jamaika in Pachuca (06.06.) hinter verschlossenen Tueren. Lyle Foster (Burnley, 10 Tore in 26 NT-Spielen) und Themba Zwane (36, Sundowns Playmaker) als Schluesselspieler.",
+        "Suedafrika sieglos in der Test-Phase. Pre-WM-Test 1:1 Jamaika in Pachuca (06.06.) hinter verschlossenen Tueren. Lyle Foster (Burnley, 10 Tore in 26 NT-Spielen) und Themba Zwane (36, Sundowns Playmaker) als Schluesselspieler.",
         "bet365-Quoten-Konsens: Mexico Sieg ~1.48 (US -209), Draw ~4.33, Suedafrika ~6.50. Unter 2.5 ~1.68. BTTS Nein ~1.70. Jimenez Torschuetze Jederzeit ~2.50 (US +150). Bei bet365 DE live pruefen.",
         "Hoehen-Pattern: 6 von 7 letzten Mexico-Spielen Unter 2.5 Tore. WM-Eroeffnungs-Pattern: 7 von 10 letzten Eroeffnungs-Spielen Unter 2.5. 2:0-Insurance gilt fuer direkten Sieg-Tipp (WM 2026 in CLAUDE.md mit BL+CL aufgenommen Stand 10.06.2026)."
       ],
@@ -48,16 +48,15 @@
         {
           "id": "ez-1",
           "markt": "Mexiko Sieg (90 Min)",
-          "kategorie": "wackel",
+          "kategorie": "safe",
           "quote": 1.48,
           "empfohlener_einsatz_prozent": 1.5,
           "empfohlener_einsatz_euro": 8.25,
-          "begruendung": "Klassen-Edge maximal: 8 ungeschlagen 2026 inkl. 5:1 Serbien-Pre-WM gegen Bafana mit 5 ohne Sieg. Heim-Estadio-Azteca 87k + Hoehen-Vorteil 2240m (Aguirre-Setup hoehen-optimiert) + 2:0-Insurance fuer direkten Sieg-Tipp (WM 2026 nach CLAUDE.md mit BL+CL aufgenommen Stand 10.06.2026 — wenn Mexico zwischenzeitlich 2:0 fuehrt, gilt der Tipp gewonnen). Lyle Foster Bafana #9 (Burnley) ohne PL-Top-Anker-Form, Zwane 36 Jahre. Mexico DC 1X ist Markt-Goldgrube (80% / +2.3% ROI laut data/statistik.json) — Sieg-Variante etwas spekulativer aber bei Quote 1.48 in SAFE-Range 1.30-1.65. Quelle bet365: 1.48 (US -209), bei bet365 DE live pruefen. [Auto HR2: Heim-Krise/Sturm-Krise erkannt - Heim-Sieg/-DC/-Top-Stuermer max WACKEL]",
-          "edge_prozent": null,
-          "faire_quote": 1.42,
+          "begruendung": "Klassen-Edge maximal: Mexico 8 ungeschlagen 2026 inkl. 5:1 Serbien-Pre-WM. Bafana sieglos in der Test-Phase mit lauwarmen Draws gegen Jamaika und Panama. Heim-Estadio-Azteca 87k + Hoehen-Vorteil 2240m (Aguirre-Setup hoehen-optimiert) + 2:0-Insurance fuer direkten Sieg-Tipp (WM 2026 nach CLAUDE.md mit BL+CL aufgenommen Stand 10.06.2026 — wenn Mexico zwischenzeitlich 2:0 fuehrt, gilt der Tipp gewonnen). Lyle Foster Bafana #9 (Burnley) ohne PL-Top-Anker-Form, Zwane 36 Jahre. Quote 1.48 in SAFE-Range 1.30-1.65. Quelle bet365: 1.48 (US -209), bei bet365 DE live pruefen.",
+          "edge_prozent": 7.0,
+          "faire_quote": 1.38,
           "pinnacle_verifiziert": false,
-          "rang": 1,
-          "_heim_form_block": true
+          "rang": 1
         },
         {
           "id": "ez-2",
@@ -297,6 +296,7 @@
   "kombis": [
     {
       "id": "kombi-safe",
+      "name": "Safe-Kombi (~2.40x)",
       "kategorie": "safe",
       "profil": "Safe ~2.4x (Mini-Slate akzeptiert unter Master-Range 3-5x wegen Layer-1+Layer-2-Constraints)",
       "beine": [
@@ -320,6 +320,7 @@
     },
     {
       "id": "kombi-balance",
+      "name": "Balance-Kombi (~4.03x)",
       "kategorie": "balance",
       "profil": "Balance ~4.0x (knapp unter Master-Range 6-10x — Mini-Slate bedingt)",
       "beine": [
@@ -343,6 +344,7 @@
     },
     {
       "id": "kombi-risiko",
+      "name": "Risiko-Kombi (~6.88x)",
       "kategorie": "risk",
       "profil": "Risiko ~6.9x (unter Master-Range 15-30x — Mini-Slate bedingt + Layer-Constraints)",
       "beine": [
@@ -366,8 +368,9 @@
     },
     {
       "id": "kombi-moonshot",
+      "name": "Moonshot-Kombi (~9.07x)",
       "kategorie": "moonshot",
-      "profil": "Moonshot ~9.1x (deutlich unter Master-Range 100x+ — Mini-Slate-2-Game macht 100x ohne Halluzinations-Schaetzung struktureall unmoeglich, ehrlich aufgesetzt mit dokumentierten Quoten)",
+      "profil": "Moonshot ~9.1x (deutlich unter Master-Range 100x+ — Mini-Slate-2-Game macht 100x ohne Halluzinations-Schaetzung strukturell unmoeglich, ehrlich aufgesetzt mit dokumentierten Quoten)",
       "beine": [
         {
           "spiel_id": "2026-06-11-mex-rsa",
