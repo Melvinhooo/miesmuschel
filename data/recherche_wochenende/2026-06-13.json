@@ -1,0 +1,992 @@
+{
+  "datum": "2026-06-13",
+  "erstellt_am": "2026-06-11T17:55:00+00:00",
+  "modus": "wochenende",
+  "hinweis": "Wochenend-Vorschau Sa 13.06 + So 14.06.2026 (Donnerstag-18:00-Slot Vorab-Datenbasis). WM 2026 startete Mi 11.06 mit Eroeffnung Mexiko-Suedafrika in Estadio Azteca. KOMPLETTES WM-WOCHENENDE SPIELTAG-1-RUNDE GRUPPEN B/C/D/E/F: insgesamt 8 WM-Gruppenphase-Spieltag-1-Spiele + 1 NBA-Finals-G5-Knicks-Spurs-potentieller-Series-Clincher. === WM-SPIELE BERLIN-ZEIT (sortiert): (1) Sa 13.06 21:00 Berlin: Katar-Schweiz, Gruppe B, Levi's Stadium Santa Clara CA; (2) So 14.06 00:00 Berlin: Brasilien-Marokko, Gruppe C, MetLife Stadium East Rutherford NJ; (3) So 14.06 03:00 Berlin: Haiti-Schottland, Gruppe C, Gillette Stadium Foxborough MA; (4) So 14.06 06:00 Berlin: Australien-Tuerkei, Gruppe D, BC Place Vancouver; (5) So 14.06 19:00 Berlin: DEUTSCHLAND-Curacao, Gruppe E, NRG Stadium Houston; (6) So 14.06 22:00 Berlin: Niederlande-Japan, Gruppe F, AT&T Stadium Arlington TX; (7) Mo 15.06 01:00 Berlin (=So 14.06 19:00 ET, technisch Sonntag US-Zeit): Elfenbeinkueste-Ecuador, Gruppe E, Lincoln Financial Field Philadelphia; (8) Mo 15.06 04:00 Berlin (=So 14.06 22:00 ET, technisch Sonntag US-Zeit): Schweden-Tunesien, Gruppe F, Estadio BBVA Monterrey. Spiele 7+8 sind technisch Mo-frueh Berlin aber Sonntag-Abend US-Zeit, gehoeren zum Sonntag-WM-Tag und werden hier mit aufgenommen (analog G4-NYK-SAS 11.06 02:30 Berlin = Mi 10.06 abend US-Zeit). === NBA-FINALS-G5: Sa 13.06 20:30 ET = So 14.06 02:30 Berlin (CEST=UTC+2), Frost Bank Center San Antonio, ABC US-Broadcast (DE: Sky NBA Paket/League Pass). Series-Stand: NYK fuehrt 3-1 nach historischem G4-Comeback Mi 10.06 (NYK 107-106 SAS, Anunoby Tip-In 1.2s rest, 29-Punkte-Defizit aufgeholt = groesste Finals-Comeback ALLER ZEITEN per Reference recherche/2026-06-11.json + bleacherreport.com). G5 ist potentieller Series-Clincher fuer NYK auswaerts in San Antonio = MUSS-Sieg-Spiel SAS Heim, sonst Series beendet. G6 (Di 16.06 Mo NYC) faellt schon nicht in Wochenende-Scope. === VEREINS-FUSSBALL: Saison-Pause bis August 2026 weltweit (BL, PL, LaLiga, Serie A, Ligue 1, CL/EL/Conference alle abgeschlossen, DFB-Pokal/Coppa Italia ausgespielt). Keine Vereins-Spiele Wochenende = ausser Scope. === REGEL-ANWENDBARKEIT WOCHENENDE: 2:0-Insurance-Regel gilt fuer WM-2026-Spiele direkt-Sieg-Tipps (CLAUDE.md Stand 10.06.2026 - FIFA WM in Liste neben BL+CL). Einwechslungs-Boost gilt bei Torschuetzen-Tipps (gilt auch WM). Markt-Boykott WM: Halbzeit-Endstand-Kombi NIE, Genaues Ergebnis NIE, Erster Torschuetze WACKEL-max bei Aussenseitern ohne Pre-WM-Form (Haiti, Tunesien, Curacao, Katar). NBA-Markt-Whitelist DE: Moneyline, Spread/Handicap, Ueber/Unter Punkte (Spiel+Viertel+Halbzeit), Spieler-Punkte (Einzelner), Double-Double, Triple-Double, Meiste Punkte. NBA-Markt-Blacklist DE (NIE empfehlen): Einzel-Assists/Rebounds/Steals/Blocks/Turnovers, PRA-Kombos, Punkte+Assists/Punkte+Rebounds, einzelne 3er-Wuerfe (Brunson O 2.5 3PM = DE verboten, Wemby O 3.5 Blocks = DE verboten, KAT O 10.5 Reb = DE verboten, etc.). === SPIELORT-FAKTOR-PFLICHT alle WM-Spiele (data/wm_2026.json gelesen): Santa Clara Levi's neutral Kuestenklima 5m; MetLife neutral 3m; Gillette Boston-Region neutral 64m gemaessigt; BC Place Vancouver 0m moderates Klima neutral; NRG Houston 13m Hitze+Klimaanlage indoor; AT&T Arlington 175m Hitze+Klimaanlage indoor; Lincoln Financial Philadelphia 12m neutral; Estadio BBVA Monterrey 540m Hitze+Hoehe-moderat. KEIN Spiel Wochenende in Mexico-Stadt (2240m extrem) oder Toluca (2667m extrem) - Hoehen-Belastung nur Estadio BBVA Monterrey 540m leicht. === KASSE 04.05.2026: 550 EUR -> Stufe 1 (Aufbau-Phase, <1000 EUR Schwelle): Einzel SAFE/VALUE 1-2% = 5.50-11 EUR, Wackel-Einzel 0.5% = 2.75 EUR, Kombi-Safe 2% = 11 EUR, Kombi-Balance 0.8% = 4.40 EUR. === AUTO-MARKT-FILTER 03.05.: Goldgruben = Doppelte Chance 1X (84.6%/+9.5%) + Doppelte Chance X2 (77.8%/+9.4%) + Unter 2.5 Tore (66.7%/+27.5%) + Torschuetzen Jederzeit (50%/+24.4%) - hochrelevant fuer WM-Spieltag-1 wo Teams oft taktisch (Unter-2.5-Cluster) und DC bei klaren Underdog-Mehrwert. === LESSON-RELEVANZ: Mexiko-WM-Eroeffnung 2-0 SAFE wurde am 11.06 mit Klassiker-2:0-Insurance-Sieg-These angesetzt (Mexiko-Sieg, Datei nicht abgeschlossen bis Donnerstagabend-Auswertung). WM-Spieltag-1-Statistik 7-von-10-letzten-WM-Eroeffnungs-Spielen Unter-2.5 historisch. K.O.-Modus noch nicht aktiv (alle Gruppenphase Spieltag 1). === QUELLEN-PFLICHT WM-Spiele: parallele_wettbewerbe immer 'keine - WM exklusiv' mit FIFA-Verband-Quelle. POSITION-Genauigkeit eingehalten (Hojlund-Bug-Schutz: Son LF nicht ST, Schick ST, Musiala 10er-OM, Wirtz OM, Sane LF, Havertz ST). KEINE Tipps generiert - reine Daten-Vorab-Briefing fuer Donnerstag-Wochenend-Vorschau-Tipps-Routine 18:00 + ggf. Tagesroutinen Sa+So.",
+
+  "spiele": [
+    {
+      "id": "2026-06-13-qat-sui",
+      "liga": "FIFA WM 2026 - Gruppenphase Spieltag 1 (Gruppe B)",
+      "wettbewerb_kontext": "Spieltag 1 Gruppe B: Katar gegen Schweiz, beide kaempfen um Platz 2 hinter Co-Gastgeber Kanada-Favorit. Katar (FIFA-Rank ca. 56) unter Coach Julen Lopetegui (Ex-Spanien/Wolves), 1. WM ausserhalb Heim-Turnier nach 2022 (Katar 2022 als Gastgeber ausgeschieden Gruppenphase). Schweiz (FIFA-Rank ca. 19) unter Coach Murat Yakin, ohne ehemalige Stamm-Spieler Shaqiri+Sommer+Schaer (alle international zurueckgetreten).",
+      "heim": "Katar",
+      "gast": "Schweiz",
+      "anstoss_us_zeit": "Saturday 12:00 PM PT / 3:00 PM ET 13.06.2026",
+      "anstoss_lokal": "12:00 PT 13.06.2026 (Santa Clara CA)",
+      "anstoss_berlin": "2026-06-13T21:00:00+02:00",
+      "anstoss_utc": "2026-06-13T19:00:00Z",
+      "stadion": "Levi's Stadium, Santa Clara CA",
+      "spielort_faktor": {
+        "stadt": "Santa Clara CA",
+        "stadion": "Levi's Stadium",
+        "land": "USA",
+        "hoehe_m": 5,
+        "kapazitaet": 68500,
+        "klima_anstoss": "ca. 19-22 Grad Kuestenklima moderat, geringe Luftfeuchtigkeit (typisch SF Bay Area Mittagsspiel-Tendenz)",
+        "anstoss_lokal": "12:00 PT (Mittagsspiel)",
+        "lokal_faktor": "Neutraler Boden, weder Heim-Team direkt vor Ort; Schweizer Diaspora in Kalifornien sehr klein, Katar-Diaspora ebenfalls klein - kein klarer Fan-Vorteil",
+        "implikationen": ["Kuestenklima neutral - kein Konditions-Faktor", "Mittagsspiel mit ggf. leichter Sonneneinstrahlung - Spieler-Sonnenbrille-Tendenz keiner relevant", "Levi's offenes Stadion ohne Klimaanlage - aber moderate Temperatur"]
+      },
+      "turnier_phase": "Gruppenphase Spieltag 1",
+      "gruppe": "B",
+      "gruppen_stand_vor_spiel": {"kontext": "Gruppe B Spieltag 1 - noch ungespielt; Kanada-Bosnien parallel Sa nachmittag US-Zeit BMO Field Toronto", "katar_pkt": 0, "katar_tordiff": 0, "schweiz_pkt": 0, "schweiz_tordiff": 0},
+      "squad_heim_top": [
+        {"name": "Meshaal Barsham", "position": "TW", "verein": "Al-Sadd (Katar)", "rolle": "Stamm-Torwart", "verifiziert_via": "https://www.fourfourtwo.com/team/qatar-world-cup-2026-squad"},
+        {"name": "Pedro Miguel", "position": "IV", "verein": "Al-Sadd (Katar)", "rolle": "Stamm-IV, 2022-WM-Erfahrung", "verifiziert_via": "https://www.fourfourtwo.com/team/qatar-world-cup-2026-squad"},
+        {"name": "Boualem Khoukhi", "position": "IV", "verein": "Al-Arabi (Katar)", "rolle": "Stamm-IV, 2022-WM-Erfahrung", "verifiziert_via": "https://www.fourfourtwo.com/team/qatar-world-cup-2026-squad"},
+        {"name": "Homam Ahmed", "position": "LV", "verein": "Al-Gharafa (Katar)", "rolle": "Stamm-LV, 2022-WM-Erfahrung", "verifiziert_via": "https://www.fourfourtwo.com/team/qatar-world-cup-2026-squad"},
+        {"name": "Akram Afif", "position": "OM/LF", "verein": "Al-Sadd (Katar)", "rolle": "Spielmacher + Kapitaen, Asia-Cup-MVP", "verifiziert_via": "https://www.fourfourtwo.com/team/qatar-world-cup-2026-squad"},
+        {"name": "Almoez Ali", "position": "ST", "verein": "Al-Duhail (Katar)", "rolle": "All-Time-Topscorer Katar, Hauptstuermer", "verifiziert_via": "https://www.fourfourtwo.com/team/qatar-world-cup-2026-squad"},
+        {"name": "Hassan Al-Haydos", "position": "OM", "verein": "Al-Sadd (Katar)", "rolle": "Veteran-10er", "verifiziert_via": "https://www.fourfourtwo.com/team/qatar-world-cup-2026-squad"}
+      ],
+      "squad_gast_top": [
+        {"name": "Gregor Kobel", "nummer": 1, "position": "TW", "verein": "Borussia Dortmund (BL)", "rolle": "Stamm-Torwart nach Sommer-Ruecktritt", "verifiziert_via": "https://www.olympics.com/en/news/fifa-world-cup-2026-switzerland-players-squad-list-key-stats-schedule"},
+        {"name": "Manuel Akanji", "position": "IV", "verein": "Manchester City (PL)", "rolle": "Stamm-IV Abwehr-Anker", "verifiziert_via": "https://www.olympics.com/en/news/fifa-world-cup-2026-switzerland-players-squad-list-key-stats-schedule"},
+        {"name": "Ricardo Rodriguez", "position": "LV", "verein": "Real Betis (LaLiga)", "rolle": "Veteran-LV, 2014/2018/2022/2026-WM-Erfahrung", "verifiziert_via": "https://www.olympics.com/en/news/fifa-world-cup-2026-switzerland-players-squad-list-key-stats-schedule"},
+        {"name": "Granit Xhaka", "position": "DM", "verein": "Bayer Leverkusen (BL)", "rolle": "Kapitaen + DM-Anker", "verifiziert_via": "https://www.olympics.com/en/news/fifa-world-cup-2026-switzerland-players-squad-list-key-stats-schedule"},
+        {"name": "Remo Freuler", "position": "ZM", "verein": "Bologna (Serie A)", "rolle": "Stamm-ZM Box-to-Box", "verifiziert_via": "https://www.olympics.com/en/news/fifa-world-cup-2026-switzerland-players-squad-list-key-stats-schedule"},
+        {"name": "Breel Embolo", "position": "ST", "verein": "AS Monaco (Ligue 1)", "rolle": "Hauptstuermer, Power-Forward-Profil", "verifiziert_via": "https://www.olympics.com/en/news/fifa-world-cup-2026-switzerland-players-squad-list-key-stats-schedule"},
+        {"name": "Dan Ndoye", "position": "RF/LF", "verein": "Bologna (Serie A)", "rolle": "Fluegel-Stuermer, tempo-stark", "verifiziert_via": "https://www.olympics.com/en/news/fifa-world-cup-2026-switzerland-players-squad-list-key-stats-schedule"},
+        {"name": "Ruben Vargas", "position": "LF", "verein": "Sevilla (LaLiga)", "rolle": "Stamm-Linksaussen, ehemals Augsburg", "verifiziert_via": "https://www.olympics.com/en/news/fifa-world-cup-2026-switzerland-players-squad-list-key-stats-schedule"},
+        {"name": "Zeki Amdouni", "position": "ST", "verein": "Benfica (Liga Portugal)", "rolle": "Backup-Stuermer", "verifiziert_via": "https://www.olympics.com/en/news/fifa-world-cup-2026-switzerland-players-squad-list-key-stats-schedule"},
+        {"name": "Fabian Rieder", "position": "OM", "verein": "Stuttgart (BL)", "rolle": "Junger 10er, Set-Piece-Werkzeug", "verifiziert_via": "https://www.olympics.com/en/news/fifa-world-cup-2026-switzerland-players-squad-list-key-stats-schedule"}
+      ],
+      "injuries_heim": ["Pre-WM-Status weitgehend gesund laut FourFourTwo - kein Major-Out gemeldet, Status vor Tip via FIFA-Match-Center Pflicht-Check"],
+      "injuries_gast": ["Pre-WM-Status weitgehend gesund laut olympics.com - Sommer + Shaqiri + Schaer freiwillig zurueckgetreten, kein Verletzungs-Out gemeldet vor Tip"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM exklusiv",
+        "gast": "keine - WM exklusiv",
+        "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/qatar/squad", "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/switzerland/squad"]
+      },
+      "saisonziel_heim": "Katar: Erstes WM-Spiel ausserhalb Heim-Turnier 2022. Saisonziel = Achtelfinal-Quali (32er-K.O.). Realistisch = mind. 1 Punkt im Turnier nach 0-Punkte-2022. Gegen Schweiz klarer Underdog.",
+      "saisonziel_gast": "Schweiz: WM-Stamm-Teilnehmer (8. WM-Teilnahme seit 1934). Saisonziel = mind. Achtelfinale (analog 2022 - dort Achtelfinal-Aus vs Portugal). Realistisch Viertelfinale moeglich falls K.O.-Lauf passt.",
+      "tabellenstand": {"heim_fifa_rank_ca": 56, "gast_fifa_rank_ca": 19, "_kommentar": "Schweiz klar hoeher gerankt, Markt-Konsens spiegelt das mit -475 ML."},
+      "form_heim_letzte_5": "_n/v (AFC-WM-Quali-Phase + Pre-WM-Tests - Detailrecherche bei Tipps-Routine)",
+      "form_gast_letzte_5": "_n/v (UEFA-WM-Quali-Phase + Pre-WM-Tests - Detailrecherche bei Tipps-Routine)",
+      "recovery_heim": "Erster Spieltag - frisch nach Pre-WM-Camp + Reise nach Santa Clara",
+      "recovery_gast": "Erster Spieltag - frisch nach Pre-WM-Camp + Reise nach Santa Clara",
+      "quoten": {
+        "bet365_naeherung_via_aggregatoren": {
+          "sieg_heim_katar_us": "+1300",
+          "draw_us": "+550",
+          "sieg_gast_schweiz_us": "-475",
+          "sieg_heim_katar_decimal_ca": 14.0,
+          "draw_decimal_ca": 6.50,
+          "sieg_gast_schweiz_decimal_ca": 1.21,
+          "ueber_2_5_decimal_ca": 2.05,
+          "unter_2_5_decimal_ca": 1.77,
+          "btts_ja_decimal_ca": 2.20,
+          "btts_nein_decimal_ca": 1.61,
+          "dc_1x_decimal_ca": 4.50,
+          "dc_x2_decimal_ca": 1.10,
+          "dc_12_decimal_ca": 1.18,
+          "_kommentar": "Konsens-Aggregator-Schaetzung; bet365-Live-Pruefung Pflicht. Markt Unter-2.5 leicht favorisiert (61% BTTS-Nein-Wahrscheinlichkeit, 53% Unter-Probability)."
+        },
+        "quelle": "https://www.oddschecker.com/us/soccer/world-cup/qatar-v-switzerland"
+      },
+      "news_kompakt": [
+        "Schweiz klar -475 Favorit; Lopetegui (Coach Katar) erfahrener WM-Coach (Ex-Spanien 2018-Lauf)",
+        "Schweizer Schluessel-Generations-Wechsel: Sommer/Shaqiri/Schaer raus, Kobel/Amdouni/Rieder rein - Generationswechsel im Live-Test",
+        "Almoez Ali fuer Katar Wachstums-Hauptstuermer, Akram Afif Spielmacher-Schluessel",
+        "Markt-Konsens Unter-2.5 (61% BTTS-Nein, 53% U2.5); wahrscheinlichstes Ergebnis Schweiz 2-0",
+        "Mittagsspiel Santa Clara - moderates Klima, neutral-erwartet"
+      ],
+      "quellen_aggregator": [
+        "https://www.oddschecker.com/us/soccer/world-cup/qatar-v-switzerland",
+        "https://www.sportytrader.com/en/betting-tips/qatar-switzerland-353804/",
+        "https://www.sportsline.com/insiders/qatar-vs-switzerland-odds-predictions-2026-world-cup-picks-from-proven-soccer-expert/",
+        "https://www.dimers.com/bet-hub/swc/schedule/2026_1_qat_sui",
+        "https://onefootball.com/en/news/qatar-vs-switzerland-prediction-world-cup-2026-preview-best-bets-42991005"
+      ],
+      "quellen_squad_news": [
+        "https://www.olympics.com/en/news/fifa-world-cup-2026-switzerland-players-squad-list-key-stats-schedule",
+        "https://www.fourfourtwo.com/team/qatar-world-cup-2026-squad",
+        "https://thefootballfaithful.com/qatar-2026-world-cup-squad-fixtures-and-schedule/",
+        "https://tips.gg/article/qatar-switzerland-predicted-lineups-story/",
+        "https://levisstadium.com/event/fifa-world-cup-group-stage-2026-06-13/"
+      ]
+    },
+
+    {
+      "id": "2026-06-13-bra-mar",
+      "liga": "FIFA WM 2026 - Gruppenphase Spieltag 1 (Gruppe C)",
+      "wettbewerb_kontext": "Spieltag 1 Gruppe C - Hochkaraeter-Eroeffnung: Brasilien vs Marokko. Brasilien (FIFA-Rank #5, A-Selecao) unter neuem Coach Carlo Ancelotti (Italiener, erster auslaendischer Cheftrainer Brasilien-Geschichte, sucht 6. WM-Titel der Brasilien-Historie). Marokko (FIFA-Rank #14) unter Walid Regragui - 2022-WM-Halbfinal-Surprise-Story; selbe Mannschaft fast komplett zurueck mit Hakimi-Achouf-En-Nesyri-Kern. Reichste Gruppe-C Schlagzeile da Brasilien-Marokko historisch sich nie in WM gegenuebergestanden.",
+      "heim": "Brasilien",
+      "gast": "Marokko",
+      "anstoss_us_zeit": "Saturday 6:00 PM ET 13.06.2026",
+      "anstoss_lokal": "18:00 ET 13.06.2026 (East Rutherford NJ)",
+      "anstoss_berlin": "2026-06-14T00:00:00+02:00",
+      "anstoss_utc": "2026-06-13T22:00:00Z",
+      "stadion": "MetLife Stadium (temporaer 'New York New Jersey Stadium' fuer WM), East Rutherford NJ",
+      "spielort_faktor": {
+        "stadt": "East Rutherford NJ",
+        "stadion": "MetLife Stadium",
+        "land": "USA",
+        "hoehe_m": 3,
+        "kapazitaet": 82500,
+        "klima_anstoss": "ca. 22-25 Grad New-York-Metropolregion fruehsommerlich, ggf. erhoehte Luftfeuchtigkeit",
+        "anstoss_lokal": "18:00 ET (Spaetnachmittag/Abend)",
+        "lokal_faktor": "Brasilianische Diaspora in NJ/NY sehr stark - de-facto-Heim-Atmosphaere fuer Brasilien-Stamm-Fans erwartbar; MetLife auch Finale-Stadion (19.07).",
+        "implikationen": ["Brasilianische Heim-Atmosphaere durch Diaspora", "Moderates Sommerklima, kein Konditions-Faktor", "82500 Kapazitaet ausverkauft erwartet"]
+      },
+      "turnier_phase": "Gruppenphase Spieltag 1",
+      "gruppe": "C",
+      "gruppen_stand_vor_spiel": {"kontext": "Gruppe C Spieltag 1 - Brasilien-Marokko + Haiti-Schottland parallel", "brasilien_pkt": 0, "brasilien_tordiff": 0, "marokko_pkt": 0, "marokko_tordiff": 0},
+      "squad_heim_top": [
+        {"name": "Alisson Becker", "position": "TW", "verein": "Liverpool (PL)", "rolle": "Stamm-Torwart Weltklasse", "verifiziert_via": "https://www.sportsmole.co.uk/football/brazil/world-cup/feature/brazil-2026-world-cup-preview-squad-fixtures-and-prediction_598785.html"},
+        {"name": "Marquinhos", "position": "IV", "verein": "Paris Saint-Germain (Ligue 1)", "rolle": "Kapitaen + Abwehr-Anker, Senior seit 2013", "verifiziert_via": "https://www.fifaworldcupnews.com/brazil-world-cup-2026-squad-26-players/"},
+        {"name": "Gabriel Magalhaes", "position": "IV", "verein": "Arsenal (PL)", "rolle": "Stamm-IV Linksfuss-Komplement zu Marquinhos", "verifiziert_via": "https://www.fifaworldcupnews.com/brazil-world-cup-2026-squad-26-players/"},
+        {"name": "Vinicius Junior", "position": "LF", "verein": "Real Madrid (LaLiga)", "rolle": "Stamm-Linksaussen, Ballon-d'Or-Kandidat 25/26", "verifiziert_via": "https://www.fifaworldcupnews.com/brazil-world-cup-2026-squad-26-players/"},
+        {"name": "Raphinha", "position": "RF", "verein": "FC Barcelona (LaLiga)", "rolle": "Stamm-Rechtsaussen, Ballon-d'Or-Kandidat 25/26", "verifiziert_via": "https://www.fifaworldcupnews.com/brazil-world-cup-2026-squad-26-players/"},
+        {"name": "Casemiro", "position": "DM", "verein": "Manchester United (PL)", "rolle": "DM-Anker, 6-Achs-Stamm Ancelotti-System", "verifiziert_via": "https://www.fifaworldcupnews.com/brazil-world-cup-2026-squad-26-players/"},
+        {"name": "Bruno Guimaraes", "position": "ZM", "verein": "Newcastle United (PL)", "rolle": "Stamm-ZM Box-to-Box", "verifiziert_via": "https://www.fifaworldcupnews.com/brazil-world-cup-2026-squad-26-players/"},
+        {"name": "Rodrygo", "position": "RF/OM", "verein": "Real Madrid (LaLiga)", "rolle": "Flexibles Offensiv-Stamm, kann RF + ST + 10er", "verifiziert_via": "https://www.fifaworldcupnews.com/brazil-world-cup-2026-squad-26-players/"},
+        {"name": "Neymar", "position": "OM/LF", "verein": "Santos (Brasilien)", "rolle": "FRAGLICH - Grade-2-Wadenmuskelriss, Pre-WM-Tests verpasst, Einsatz fuer 13.06 unsicher", "fitness_status": "Doubt - calf grade 2 strain", "verifiziert_via": "https://www.sportsmole.co.uk/football/brazil/world-cup/feature/brazil-2026-world-cup-preview-squad-fixtures-and-prediction_598785.html"},
+        {"name": "Endrick", "position": "ST", "verein": "Real Madrid (LaLiga)", "rolle": "Junger Stuermer, alternativer ST falls Neymar nicht spielt", "verifiziert_via": "https://www.fifaworldcupnews.com/brazil-world-cup-2026-squad-26-players/"}
+      ],
+      "squad_gast_top": [
+        {"name": "Yassine Bounou", "position": "TW", "verein": "Al-Hilal (Saudi)", "rolle": "Stamm-Torwart, 2022-WM-Halbfinal-Held", "verifiziert_via": "https://www.fourfourtwo.com/team/morocco-world-cup-2026-squad"},
+        {"name": "Achraf Hakimi", "position": "RV", "verein": "Paris Saint-Germain (Ligue 1)", "rolle": "Kapitaen + RV, FourFourTwo #1-RV-weltweit, Tempo-Speerspitze", "verifiziert_via": "https://www.fourfourtwo.com/team/morocco-world-cup-2026-squad"},
+        {"name": "Romain Saiss", "position": "IV", "verein": "Al-Shabab (Saudi)", "rolle": "Stamm-IV", "verifiziert_via": "https://www.fourfourtwo.com/team/morocco-world-cup-2026-squad"},
+        {"name": "Sofyan Amrabat", "position": "DM", "verein": "Fenerbahce (Tuerkei)", "rolle": "DM-Anker, 2022-WM-Schluessel", "verifiziert_via": "https://www.fourfourtwo.com/team/morocco-world-cup-2026-squad"},
+        {"name": "Hakim Ziyech", "position": "OM/RF", "verein": "Wydad Casablanca (Marokko)", "rolle": "Spielmacher + Set-Piece-Werkzeug", "verifiziert_via": "https://www.fourfourtwo.com/team/morocco-world-cup-2026-squad"},
+        {"name": "Youssef En-Nesyri", "position": "ST", "verein": "Fenerbahce (Tuerkei)", "rolle": "Hauptstuermer, 2022-WM-Halbfinal-Tor", "verifiziert_via": "https://www.fourfourtwo.com/team/morocco-world-cup-2026-squad"},
+        {"name": "Brahim Diaz", "position": "OM", "verein": "Real Madrid (LaLiga)", "rolle": "Kreativ-10er, Madrid-Heimkehrer-Form", "verifiziert_via": "https://www.fourfourtwo.com/team/morocco-world-cup-2026-squad"},
+        {"name": "Azzedine Ounahi", "position": "ZM", "verein": "Marseille (Ligue 1)", "rolle": "Stamm-ZM, 2022-Breakout", "verifiziert_via": "https://www.fourfourtwo.com/team/morocco-world-cup-2026-squad"},
+        {"name": "Noussair Mazraoui", "position": "RV/IV", "verein": "Manchester United (PL)", "rolle": "Flexibel RV+IV, Defensiv-Anker", "verifiziert_via": "https://www.fourfourtwo.com/team/morocco-world-cup-2026-squad"}
+      ],
+      "injuries_heim": ["Neymar (Grade-2-Wadenmuskelriss, Doubt) - Pre-WM-Tests verpasst, Einsatz 13.06 unsicher", "Pre-WM-Test 1:0 vs USA 07.06 ohne Major-Out"],
+      "injuries_gast": ["Pre-WM-Status weitgehend gesund - kein Major-Out gemeldet"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM exklusiv",
+        "gast": "keine - WM exklusiv",
+        "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/brazil/squad", "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/morocco/squad"]
+      },
+      "saisonziel_heim": "Brasilien: 6. WM-Titel der Franchise-Historie (zuletzt 2002). Ancelotti-Aera Saisonziel = mindestens Halbfinale, realistisch Finale. Klarer Gruppe-C-Sieger-Favorit.",
+      "saisonziel_gast": "Marokko: Wiederholung 2022-Halbfinal-Story. Saisonziel realistisch = Achtelfinale + Viertelfinale-Lauf. Gruppe-C-Platz-2 erwartbar hinter Brasilien.",
+      "tabellenstand": {"heim_fifa_rank_ca": 5, "gast_fifa_rank_ca": 14, "_kommentar": "Markt-Konsens Brasilien Sieg-Favorit (-175 US = 1.57 dec), Marokko Underdog (+425 = 5.50 dec) - aber Marokko hoeher gerankt als typischer Outsider-Floor."},
+      "form_heim_letzte_5": "_Detail-Recherche bei Tipps-Routine; Pre-WM-Tests Brasilien gemischt (1:0 vs USA 07.06 bestaetigt durch sportsmole-Preview)",
+      "form_gast_letzte_5": "_Detail-Recherche bei Tipps-Routine; Marokko Pre-WM-Tests stabil",
+      "recovery_heim": "Erster Spieltag - Brasilien-Camp Florida + Reise nach NJ kurzer Trip",
+      "recovery_gast": "Erster Spieltag - Marokko-Camp + Reise USA",
+      "quoten": {
+        "bet365_naeherung_via_aggregatoren": {
+          "sieg_heim_brasilien_us": "-175",
+          "draw_us": "+300",
+          "sieg_gast_marokko_us": "+425",
+          "sieg_heim_brasilien_decimal_ca": 1.57,
+          "draw_decimal_ca": 4.00,
+          "sieg_gast_marokko_decimal_ca": 5.50,
+          "ueber_2_5_decimal_ca": 1.95,
+          "unter_2_5_decimal_ca": 1.83,
+          "ueber_2_5_us": "+105",
+          "unter_2_5_us": "-125",
+          "btts_ja_decimal_ca": 1.92,
+          "btts_nein_decimal_ca": 1.87,
+          "dc_1x_decimal_ca": 1.27,
+          "dc_x2_decimal_ca": 2.05,
+          "dc_12_decimal_ca": 1.30,
+          "_kommentar": "Brasilien Konsens-Favorit aber kein Killshot-Floor (-175); Markt-Konsens Unter-2.5 leicht favorisiert (54.5% impl. Wahrscheinlichkeit); BTTS-Markt geteilt (KickOff lehnt BTTS-Nein 53%)."
+        },
+        "quelle": "https://www.oddsshark.com/soccer/world-cup/brazil-morocco-odds-june-13-2026-2494710"
+      },
+      "news_kompakt": [
+        "Ancelotti's WM-Debut als Brasilien-Cheftrainer - 1. auslaendischer Cheftrainer Brasilien-Historie",
+        "Neymar-Doubt (Grade-2-Wadenmuskelriss) - Einsatz unsicher, Endrick als Ersatz-Stuermer-Plan",
+        "Marokko 2022-Halbfinal-Stamm fast komplett zurueck (Hakimi-Bounou-En-Nesyri-Achouf-Ziyech)",
+        "MetLife Stadium = Finale-Stadion 19.07 - bedeutendster Spielort der WM mit 82500 Kapazitaet",
+        "Brasilianische Diaspora-Heim-Atmosphaere in NJ/NY erwartbar",
+        "Markt-Konsens Brasilien Sieg + Unter-2.5 leicht favorisiert; BTTS-Markt geteilt"
+      ],
+      "quellen_aggregator": [
+        "https://www.oddsshark.com/soccer/world-cup/brazil-morocco-odds-june-13-2026-2494710",
+        "https://www.sportytrader.com/en/betting-tips/brazil-morocco-353814/",
+        "https://www.wincomparator.com/predictions/brazil-morocco-7937381/",
+        "https://www.dimers.com/bet-hub/swc/schedule/2026_1_bra_mar",
+        "https://www.kickoff.co.uk/world-cup-predictions-stats-odds/brazil-vs-morocco/",
+        "https://sports.yahoo.com/articles/brazil-vs-morocco-prediction-world-154508606.html"
+      ],
+      "quellen_squad_news": [
+        "https://www.sportsmole.co.uk/football/brazil/world-cup/feature/brazil-2026-world-cup-preview-squad-fixtures-and-prediction_598785.html",
+        "https://www.fifaworldcupnews.com/brazil-world-cup-2026-squad-26-players/",
+        "https://www.fourfourtwo.com/team/morocco-world-cup-2026-squad",
+        "https://sports.yahoo.com/articles/tour-metlife-stadium-temporarily-renamed-221502352.html"
+      ]
+    },
+
+    {
+      "id": "2026-06-13-hai-sco",
+      "liga": "FIFA WM 2026 - Gruppenphase Spieltag 1 (Gruppe C)",
+      "wettbewerb_kontext": "Spieltag 1 Gruppe C Nightcap: Haiti gegen Schottland. Schottland (FIFA-Rank ca. 38) erste WM-Teilnahme seit 1998, Steve-Clarke-Aera. Haiti (FIFA-Rank ca. 80) erste WM-Teilnahme seit 1974 - Sebastien-Migne-Coach. Klares Gruppe-C-Platz-3/4-Duell, beide muessen Punkte holen um nicht Last-Place zu werden hinter Brasilien-Marokko-Klasse-Duo. Fuer Schottland 'must-win' fuer 3.-Platz-Achtelfinal-Hoffnung.",
+      "heim": "Haiti",
+      "gast": "Schottland",
+      "anstoss_us_zeit": "Saturday 9:00 PM ET 13.06.2026",
+      "anstoss_lokal": "21:00 ET 13.06.2026 (Foxborough MA)",
+      "anstoss_berlin": "2026-06-14T03:00:00+02:00",
+      "anstoss_utc": "2026-06-14T01:00:00Z",
+      "stadion": "Gillette Stadium, Foxborough MA (Boston-Region)",
+      "spielort_faktor": {
+        "stadt": "Foxborough MA (Boston-Region)",
+        "stadion": "Gillette Stadium",
+        "land": "USA",
+        "hoehe_m": 64,
+        "kapazitaet": 65900,
+        "klima_anstoss": "ca. 18-22 Grad Spaetabend Neuengland-Fruehsommer, ggf. kuehler",
+        "anstoss_lokal": "21:00 ET (Spaetabend)",
+        "lokal_faktor": "Neutraler Boden; schottische Diaspora in Neuengland klein, haitianische Diaspora etwas staerker (Boston hat Haitian-Community) - leichter Heim-Vorteil Haiti moeglich",
+        "implikationen": ["Moderates Spaetabend-Klima, kein Konditions-Faktor", "Schottische Fans angereist erwartbar - 'tartan army' loud", "Spaetabend-Spiel mit Tau-Risiko - schnellerer Ball"]
+      },
+      "turnier_phase": "Gruppenphase Spieltag 1",
+      "gruppe": "C",
+      "gruppen_stand_vor_spiel": {"kontext": "Spieltag 1, parallel zu Brasilien-Marokko", "haiti_pkt": 0, "haiti_tordiff": 0, "schottland_pkt": 0, "schottland_tordiff": 0},
+      "squad_heim_top": [
+        {"name": "Johny Placide", "position": "TW", "verein": "n/v (Karibik-Liga)", "rolle": "Kapitaen + Stamm-TW, 81 Caps Veteran", "verifiziert_via": "https://totalfootballanalysis.com/competitions/fifa-world-cup-2026/haiti-v-scotland-predictions"},
+        {"name": "Ricardo Ade", "position": "IV", "verein": "n/v", "rolle": "Stamm-IV, Abwehr-Anker", "verifiziert_via": "https://totalfootballanalysis.com/competitions/fifa-world-cup-2026/haiti-v-scotland-predictions"},
+        {"name": "Carlens Arcus", "position": "LV/RV", "verein": "n/v", "rolle": "Stamm-Aussenverteidiger", "verifiziert_via": "https://tips.gg/article/haiti-scotland-story/"},
+        {"name": "Jean Jacques Pierre", "position": "ZM", "verein": "n/v", "rolle": "Stamm-Mittelfeld", "verifiziert_via": "https://tips.gg/article/haiti-scotland-story/"},
+        {"name": "Leverton Pierre", "position": "ZM", "verein": "n/v", "rolle": "Stamm-Mittelfeld", "verifiziert_via": "https://tips.gg/article/haiti-scotland-story/"},
+        {"name": "Duckens Nazon", "position": "ST", "verein": "n/v", "rolle": "Stamm-Stuermer", "verifiziert_via": "https://totalfootballanalysis.com/competitions/fifa-world-cup-2026/haiti-v-scotland-predictions"},
+        {"name": "Frantzdy Pierrot", "position": "ST", "verein": "n/v", "rolle": "Alternativ-Stuermer / Co-Stuermer", "verifiziert_via": "https://totalfootballanalysis.com/competitions/fifa-world-cup-2026/haiti-v-scotland-predictions"},
+        {"name": "Deedson Pierre Andre", "position": "LF", "verein": "n/v", "rolle": "Linksaussen", "verifiziert_via": "https://tips.gg/article/haiti-scotland-story/"}
+      ],
+      "squad_gast_top": [
+        {"name": "Angus Gunn", "position": "TW", "verein": "Norwich City (Championship)", "rolle": "Stamm-Torwart", "verifiziert_via": "https://www.espn.com/soccer/story/_/id/48701669/scotland-world-cup-2026-schedule-fixtures-results-scores-group-c-how-watch-uk-news-analysis-injuries"},
+        {"name": "Andy Robertson", "position": "LV", "verein": "Liverpool (PL)", "rolle": "Kapitaen + LV Stamm Weltklasse", "verifiziert_via": "https://www.espn.com/soccer/story/_/id/48701669/scotland-world-cup-2026-schedule-fixtures-results-scores-group-c-how-watch-uk-news-analysis-injuries"},
+        {"name": "Kieran Tierney", "position": "IV/LV", "verein": "Arsenal (PL)", "rolle": "Flexibler Abwehr-Stamm", "verifiziert_via": "https://www.espn.com/soccer/story/_/id/48701669/scotland-world-cup-2026-schedule-fixtures-results-scores-group-c-how-watch-uk-news-analysis-injuries"},
+        {"name": "Scott McTominay", "position": "ZM", "verein": "Napoli (Serie A)", "rolle": "Mittelfeld-Schwerpunkt (Fulcrum), Serie-A-Meister-Erfahrung", "verifiziert_via": "https://www.edinburghnews.scotsman.com/sport/football/hearts/scotland-team-v-haiti-predicted-team-for-the-world-cup-opener-including-roles-for-hearts-and-hibs-players-8664955"},
+        {"name": "John McGinn", "position": "ZM/OM", "verein": "Aston Villa (PL)", "rolle": "Stamm-Box-to-Box mit Torgefahr", "verifiziert_via": "https://www.edinburghnews.scotsman.com/sport/football/hearts/scotland-team-v-haiti-predicted-team-for-the-world-cup-opener-including-roles-for-hearts-and-hibs-players-8664955"},
+        {"name": "Kenny McLean", "position": "ZM", "verein": "Norwich City (Championship)", "rolle": "Stamm-Mittelfeld", "verifiziert_via": "https://www.edinburghnews.scotsman.com/sport/football/hearts/scotland-team-v-haiti-predicted-team-for-the-world-cup-opener-including-roles-for-hearts-and-hibs-players-8664955"},
+        {"name": "Che Adams", "position": "ST", "verein": "Torino (Serie A)", "rolle": "Stamm-Stuermer, Hauptstuermer", "verifiziert_via": "https://www.edinburghnews.scotsman.com/sport/football/hearts/scotland-team-v-haiti-predicted-team-for-the-world-cup-opener-including-roles-for-hearts-and-hibs-players-8664955"},
+        {"name": "Lawrence Shankland", "position": "ST", "verein": "Heart of Midlothian (Schottl. PL)", "rolle": "Co-Stuermer, schottische Heim-Liga-Topscorer", "verifiziert_via": "https://www.edinburghnews.scotsman.com/sport/football/hearts/scotland-team-v-haiti-predicted-team-for-the-world-cup-opener-including-roles-for-hearts-and-hibs-players-8664955"}
+      ],
+      "injuries_heim": ["Detail-Recherche bei Tipps-Routine via FIFA-Match-Center + haitianische Verband-Quellen erforderlich"],
+      "injuries_gast": ["Pre-WM-Status weitgehend gesund laut ESPN - Steve Clarke kompletter 26er-Stamm verfuegbar"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM exklusiv",
+        "gast": "keine - WM exklusiv",
+        "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/haiti/squad", "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/scotland/squad"]
+      },
+      "saisonziel_heim": "Haiti: 1. WM-Teilnahme seit 1974. Saisonziel = mindestens 1 Punkt im Turnier, realistisch nicht ueber Achtelfinale.",
+      "saisonziel_gast": "Schottland: 1. WM-Teilnahme seit 1998 (28 Jahre Wartezeit beendet). Saisonziel = Achtelfinale (Drittplatzierten-Pool), MUSS-Sieg gegen Haiti fuer 3.-Platz-Edge.",
+      "tabellenstand": {"heim_fifa_rank_ca": 80, "gast_fifa_rank_ca": 38, "_kommentar": "Schottland klarer Favorit, Aggregatoren mit 61-63% Win-Wahrscheinlichkeit. Markt bei -180 ML."},
+      "form_heim_letzte_5": "_n/v (Concacaf-Quali-Phase + Pre-WM-Tests - Detail-Recherche bei Tipps-Routine)",
+      "form_gast_letzte_5": "_n/v (UEFA-Quali + Pre-WM-Tests - Detail-Recherche bei Tipps-Routine)",
+      "recovery_heim": "Erster Spieltag - frisch",
+      "recovery_gast": "Erster Spieltag - frisch",
+      "quoten": {
+        "bet365_naeherung_via_aggregatoren": {
+          "sieg_heim_haiti_us": "+530",
+          "draw_us": "+340",
+          "sieg_gast_schottland_us": "-180",
+          "sieg_heim_haiti_decimal_ca": 6.30,
+          "draw_decimal_ca": 4.40,
+          "sieg_gast_schottland_decimal_ca": 1.55,
+          "ueber_2_5_decimal_ca": 2.00,
+          "unter_2_5_decimal_ca": 1.78,
+          "ueber_2_5_us_betonline": "-110",
+          "unter_2_5_us_lucky_rebel": "-108",
+          "btts_ja_decimal_ca": 2.30,
+          "btts_nein_decimal_ca": 1.55,
+          "dc_1x_decimal_ca": 2.10,
+          "dc_x2_decimal_ca": 1.13,
+          "dc_12_decimal_ca": 1.20,
+          "_kommentar": "Schottland Sieg + DC X2 + BTTS-Nein dominante Konsens-Tendenz. BTTS-Nein bei 73.81% Wahrscheinlichkeit hoch ausgepraegt - Haiti-Tor-Floor niedrig erwartet."
+        },
+        "quelle": "https://www.oddsshark.com/soccer/world-cup/haiti-scotland-odds-june-13-2026-2494716"
+      },
+      "news_kompakt": [
+        "Schottland 1. WM seit 1998 - Tartan-Army-Anreise erwartbar in Boston-Region",
+        "McTominay + Robertson + McGinn = Premier-/Serie-A-Stamm-Klasse-Vorteil",
+        "Haiti 1. WM seit 1974 - 52-Jahre-Durststrecke beendet aber Klasse-Floor klar niedriger",
+        "Markt-Konsens BTTS-Nein 73.81% Wahrscheinlichkeit hoch - Haiti-Tor-Floor niedrig erwartet",
+        "Wahrscheinlichstes Ergebnis: Schottland 1-0 Haiti (13.5% Prob laut Wincomparator)",
+        "Schottland MUSS-Sieg fuer 3.-Platz-Achtelfinal-Hoffnung",
+        "Spaetabend-Spiel 21:00 ET = 03:00 Berlin"
+      ],
+      "quellen_aggregator": [
+        "https://www.oddsshark.com/soccer/world-cup/haiti-scotland-odds-june-13-2026-2494716",
+        "https://www.sportytrader.com/en/betting-tips/haiti-scotland-353842/",
+        "https://www.wincomparator.com/predictions/haiti-scotland-7937382/",
+        "https://www.sportscasting.com/news/supercomputer-haiti-vs-scotland-betting-picks-predictions-odds/",
+        "https://onefootball.com/en/news/haiti-vs-scotland-prediction-world-cup-2026-preview-best-bets-42991024",
+        "https://news.sportsinteraction.com/soccer/fifa-world-cup/story/haiti-vs-scotland-odds-prediction-061426-217127"
+      ],
+      "quellen_squad_news": [
+        "https://www.espn.com/soccer/story/_/id/48701669/scotland-world-cup-2026-schedule-fixtures-results-scores-group-c-how-watch-uk-news-analysis-injuries",
+        "https://www.edinburghnews.scotsman.com/sport/football/hearts/scotland-team-v-haiti-predicted-team-for-the-world-cup-opener-including-roles-for-hearts-and-hibs-players-8664955",
+        "https://tips.gg/article/haiti-scotland-story/",
+        "https://totalfootballanalysis.com/competitions/fifa-world-cup-2026/haiti-v-scotland-predictions"
+      ]
+    },
+
+    {
+      "id": "2026-06-13-aus-tur",
+      "liga": "FIFA WM 2026 - Gruppenphase Spieltag 1 (Gruppe D)",
+      "wettbewerb_kontext": "Spieltag 1 Gruppe D Late-Night-Nightcap: Australien gegen Tuerkei in BC Place Vancouver. Beide Teams kaempfen um Platz 2 hinter US-Co-Gastgeber USA-Favorit (oder Top-Aussen-Position) in Gruppe D mit USA-Paraguay-Australien-Tuerkei. Tuerkei (FIFA-Rank ca. 32) klare Bevorzugung als hoeher gerankt. Australien (FIFA-Rank ca. 28 mit AFC-Boost) - Socceroos unter neuem Coach (n/v final). Beide muessen Sieg um nicht hinter Paraguay zu fallen.",
+      "heim": "Australien",
+      "gast": "Tuerkei",
+      "anstoss_us_zeit": "Saturday 9:00 PM PT 13.06.2026 (= Sun 12:00 AM ET 14.06.2026)",
+      "anstoss_lokal": "21:00 PT 13.06.2026 (Vancouver)",
+      "anstoss_berlin": "2026-06-14T06:00:00+02:00",
+      "anstoss_utc": "2026-06-14T04:00:00Z",
+      "stadion": "BC Place, Vancouver, Kanada",
+      "spielort_faktor": {
+        "stadt": "Vancouver",
+        "stadion": "BC Place",
+        "land": "Kanada",
+        "hoehe_m": 0,
+        "kapazitaet": 54500,
+        "klima_anstoss": "ca. 15-18 Grad Spaetabend-Vancouver Kuestenklima moderat, BC Place ueberdacht/halb-ueberdacht (Retractable Roof) - Wetter-Faktor minimal",
+        "anstoss_lokal": "21:00 PT (Spaetabend)",
+        "lokal_faktor": "Neutrales Land Kanada; tuerkische Diaspora in Vancouver klein, australische Diaspora ebenfalls klein - kein klarer Fan-Vorteil",
+        "implikationen": ["Moderate Temperatur - kein Konditions-Faktor", "BC Place Retractable Roof - witterungsunabhaengig", "Spaetabend-Spiel mit Tau-Faktor minimal durch Indoor"]
+      },
+      "turnier_phase": "Gruppenphase Spieltag 1",
+      "gruppe": "D",
+      "gruppen_stand_vor_spiel": {"kontext": "Gruppe D Spieltag 1 nach USA-Paraguay Fr-Abend US-Zeit (Anstoss = Sa 13.06 00:00 Berlin)", "australien_pkt": 0, "australien_tordiff": 0, "tuerkei_pkt": 0, "tuerkei_tordiff": 0},
+      "squad_heim_top": [
+        {"name": "Mathew Ryan", "position": "TW", "verein": "n/v (zuletzt Roma/Lens)", "rolle": "Stamm-Torwart + Kapitaen", "verifiziert_via": "https://totalfootballanalysis.com/competitions/fifa-world-cup-2026/australia-v-turkey-predictions"},
+        {"name": "Harry Souttar", "position": "IV", "verein": "Sheffield United (Championship)", "rolle": "Stamm-IV, Luft-Hoheit", "verifiziert_via": "https://totalfootballanalysis.com/competitions/fifa-world-cup-2026/australia-v-turkey-predictions"},
+        {"name": "Jordan Bos", "position": "LV", "verein": "Westerlo (Belgien)", "rolle": "Stamm-LV (= 'Wing-Back'-Rolle)", "verifiziert_via": "https://totalfootballanalysis.com/competitions/fifa-world-cup-2026/australia-v-turkey-predictions"},
+        {"name": "Aaron Mooy", "position": "ZM", "verein": "n/v (zuletzt Celtic)", "rolle": "Veteran-ZM", "verifiziert_via": "https://www.sportytrader.com/en/betting-tips/australia-turkey-353954/"},
+        {"name": "Nestory Irankunda", "position": "RF/LF", "verein": "Bayern Muenchen II / Watford", "rolle": "Junger Fluegel-Stuermer, Brace vs Curacao Pre-WM-Test 28.05", "verifiziert_via": "https://www.sportytrader.com/en/betting-tips/australia-turkey-353954/"},
+        {"name": "Mitch Duke", "position": "ST", "verein": "n/v (zuletzt Machida Zelvia Japan)", "rolle": "Hauptstuermer", "verifiziert_via": "https://www.squawka.com/us/news/world-cup/match-preview-australia-vs-turkey-06-14-26-world-cup-2026/"}
+      ],
+      "squad_gast_top": [
+        {"name": "Mert Guenok", "position": "TW", "verein": "Besiktas (Tuerkei)", "rolle": "Stamm-Torwart", "verifiziert_via": "https://www.foxsports.com/stories/soccer/turkiye-world-cup-2026-schedule-locations-dates-times"},
+        {"name": "Merih Demiral", "position": "IV", "verein": "Al-Ahli (Saudi)", "rolle": "Stamm-IV Abwehr-Anker", "verifiziert_via": "https://www.foxsports.com/stories/soccer/turkiye-world-cup-2026-schedule-locations-dates-times"},
+        {"name": "Ferdi Kadioglu", "position": "LV/RV", "verein": "Brighton (PL)", "rolle": "Stamm-Aussenverteidiger flexibel + Versatilitaet", "verifiziert_via": "https://totalfootballanalysis.com/competitions/fifa-world-cup-2026/australia-v-turkey-predictions"},
+        {"name": "Hakan Calhanoglu", "position": "DM/ZM", "verein": "Inter Mailand (Serie A)", "rolle": "Mittelfeld-Anker + Set-Piece-Spezialist", "verifiziert_via": "https://totalfootballanalysis.com/competitions/fifa-world-cup-2026/australia-v-turkey-predictions"},
+        {"name": "Arda Guler", "position": "OM", "verein": "Real Madrid (LaLiga)", "rolle": "Kreativ-10er, Real-Madrid-Level-Kreativitaet", "verifiziert_via": "https://totalfootballanalysis.com/competitions/fifa-world-cup-2026/australia-v-turkey-predictions"},
+        {"name": "Kenan Yildiz", "position": "LF/OM", "verein": "Juventus (Serie A)", "rolle": "Junger Linksaussen-Stamm", "verifiziert_via": "https://www.foxsports.com/stories/soccer/turkiye-world-cup-2026-schedule-locations-dates-times"},
+        {"name": "Kerem Akturkoglu", "position": "ST/RF", "verein": "Benfica (Liga Portugal)", "rolle": "Hauptstuermer-Kandidat / Fluegel", "verifiziert_via": "https://totalfootballanalysis.com/competitions/fifa-world-cup-2026/australia-v-turkey-predictions"}
+      ],
+      "injuries_heim": ["Pre-WM-Status n/v final - Detail-Recherche bei Tipps-Routine ueber FFA-Webseite"],
+      "injuries_gast": ["Pre-WM-Status n/v final - TFF-Webseite Pflicht-Check"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM exklusiv",
+        "gast": "keine - WM exklusiv",
+        "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/australia/squad", "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/turkiye/squad"]
+      },
+      "saisonziel_heim": "Australien: 6. WM-Teilnahme. Saisonziel = Achtelfinale (analog 2022 - dort Achtelfinal-Aus vs Argentinien). MUSS-Punkte gegen Tuerkei fuer 2.-Platz-Hoffnung.",
+      "saisonziel_gast": "Tuerkei: 1. WM seit 2002 (24 Jahre Wartezeit beendet). Saisonziel = mindestens Achtelfinale + Viertelfinal-Aussicht.",
+      "tabellenstand": {"heim_fifa_rank_ca": 28, "gast_fifa_rank_ca": 32, "_kommentar": "FIFA-Rank knapp - Markt-Konsens Tuerkei jedoch klarer 4/5-Favorit aufgrund Generation-Yildiz-Guler-Calhanoglu-Klasse."},
+      "form_heim_letzte_5": "_n/v Detail; Pre-WM-Test Brace Irankunda vs Curacao 28.05",
+      "form_gast_letzte_5": "_n/v Detail",
+      "recovery_heim": "Erster Spieltag - australisches Camp + Reise Vancouver-Westkueste-naehe",
+      "recovery_gast": "Erster Spieltag - tuerkisches Camp + lange Anreise USA->Kanada-Westkueste",
+      "quoten": {
+        "bet365_naeherung_via_aggregatoren": {
+          "sieg_heim_australien_us": "+350",
+          "draw_us": "+250",
+          "sieg_gast_tuerkei_us": "-125",
+          "sieg_heim_australien_decimal_ca": 4.50,
+          "draw_decimal_ca": 3.50,
+          "sieg_gast_tuerkei_decimal_ca": 1.80,
+          "ueber_2_5_decimal_ca": 1.90,
+          "unter_2_5_decimal_ca": 1.87,
+          "btts_ja_decimal_ca": 1.85,
+          "btts_nein_decimal_ca": 1.95,
+          "dc_1x_decimal_ca": 1.95,
+          "dc_x2_decimal_ca": 1.20,
+          "dc_12_decimal_ca": 1.30,
+          "_kommentar": "Tuerkei -125 Favorit aber kein Killshot. Markt-Konsens 57-58% Tuerkei-Sieg-Wahrscheinlichkeit. Australien als 9/2-Outsider mit moeglicher Upset-Edge wenn Generation-Wechsel-Tuerkei stolpert. DC X2 (Tuerkei + Draw) bei 1.20 Goldgrube-Markt-Typ."
+        },
+        "quelle": "https://www.kickoff.co.uk/world-cup-predictions-stats-odds/australia-vs-turkey/"
+      },
+      "news_kompakt": [
+        "Tuerkei -125 Favorit, Generation Yildiz/Guler/Calhanoglu Klasse-Vorteil",
+        "Australien Iron-Man-Souttar + Mooy-Veteran + Junge Irankunda-Generation",
+        "BC Place Vancouver Retractable Roof - witterungsunabhaengig",
+        "Late-Night-Spiel 21:00 PT = 06:00 Berlin Sonntag-Frueh",
+        "Wahrscheinlichstes Ergebnis: Tuerkei knapp davon (1-2 Tore Unterschied), DC X2 = Goldgrube-Markt-Tipp"
+      ],
+      "quellen_aggregator": [
+        "https://www.kickoff.co.uk/world-cup-predictions-stats-odds/australia-vs-turkey/",
+        "https://www.sportytrader.com/en/betting-tips/australia-turkey-353954/",
+        "https://www.squawka.com/us/news/world-cup/match-preview-australia-vs-turkey-06-14-26-world-cup-2026/",
+        "https://onefootball.com/en/news/australia-vs-turkey-prediction-world-cup-2026-preview-best-bets-42991072",
+        "https://www.racingpost.com/sport/football-tips/world-cup-2026/australia-vs-turkey-world-cup-prediction-team-news-odds-betting-tips-and-bet-builder-aDqeC7S5q8Ib/",
+        "https://tribuna.com/en/betting/blogs/australia-vs-turkey-prediction-odds-best-bets-fifa-world-cup/"
+      ],
+      "quellen_squad_news": [
+        "https://www.bcplace.com/?event=fifa-world-cup-2026-australia-vs-tbc",
+        "https://www.foxsports.com/stories/soccer/turkiye-world-cup-2026-schedule-locations-dates-times",
+        "https://totalfootballanalysis.com/competitions/fifa-world-cup-2026/australia-v-turkey-predictions",
+        "https://www.espn.com/soccer/match/_/gameId/760421/turkiye-australia"
+      ]
+    },
+
+    {
+      "id": "2026-06-14-ger-cur",
+      "liga": "FIFA WM 2026 - Gruppenphase Spieltag 1 (Gruppe E)",
+      "wettbewerb_kontext": "DEUTSCHLAND-WM-AUFTAKT 2026. Nagelsmann-Aera-Hoehepunkt: DFB-Auftakt gegen WM-Debutant Curacao (Karibik-Inselstaat, niedrigster-gerankter Teilnehmer auf FIFA #82, hauptsaechlich Niederlande-basierte Spieler im Eredivisie/2. Niederlandische Liga). DFB-Stamm Nagelsmann mit 4-2-3-1-Setup Neuer-Kimmich-Rudiger-Tah-Raum + Pavlovic-Goretzka + Wirtz-Musiala-Sane + Havertz. Leroy Sane fuellt verletzungsbedingt freien Kader-Slot nach Lennart-Karl-Verletzungs-Out und Asssan-Ouedraogo-Nachnominierung. Neuer-Kalb-Verletzung in Pre-WM-Tests Finnland+USA verheilt - Nagelsmann bestaetigt Start.",
+      "heim": "Deutschland",
+      "gast": "Curacao",
+      "anstoss_us_zeit": "Sunday 1:00 PM ET 14.06.2026",
+      "anstoss_lokal": "12:00 CT 14.06.2026 (Houston)",
+      "anstoss_berlin": "2026-06-14T19:00:00+02:00",
+      "anstoss_utc": "2026-06-14T17:00:00Z",
+      "stadion": "NRG Stadium, Houston TX",
+      "spielort_faktor": {
+        "stadt": "Houston TX",
+        "stadion": "NRG Stadium",
+        "land": "USA",
+        "hoehe_m": 13,
+        "kapazitaet": 72200,
+        "klima_anstoss": "ca. 28-32 Grad bei Anstoss Houston-Mittag aber NRG INDOOR mit Klimaanlage - Spielfeld klimatisiert ca. 22 Grad",
+        "anstoss_lokal": "12:00 CT (Mittagsspiel)",
+        "lokal_faktor": "Texanische Boden + DFB-Fan-Anreise sehr stark via Charterfluege; deutsche Diaspora in Texas eher klein aber WM-Reise-Fans + neutrale Houston-Fans erwartbar",
+        "implikationen": ["Klimaanlage-Indoor neutralisiert Hitze - kein Konditions-Faktor", "Mittagsspiel - kein Tau-Faktor", "72200 Kapazitaet ausverkauft erwartet"]
+      },
+      "turnier_phase": "Gruppenphase Spieltag 1",
+      "gruppe": "E",
+      "gruppen_stand_vor_spiel": {"kontext": "Gruppe E Spieltag 1 - Deutschland-Curacao + Elfenbeinkueste-Ecuador parallel sonntag-abend US-Zeit", "deutschland_pkt": 0, "deutschland_tordiff": 0, "curacao_pkt": 0, "curacao_tordiff": 0},
+      "squad_heim_top": [
+        {"name": "Manuel Neuer", "nummer": 1, "position": "TW", "verein": "Bayern Muenchen (BL)", "rolle": "Stamm-Torwart, 5. WM, Pre-WM-Wadenverletzung verheilt + Nagelsmann-Start-Bestaetigung", "verifiziert_via": "https://www.sportsmole.co.uk/football/germany/world-cup-2026/feature/germany-world-cup-squad-full-list-numbers-predicted-lineup-depth-chart-latest-news_597315.html"},
+        {"name": "Joshua Kimmich", "nummer": 6, "position": "RV/DM", "verein": "Bayern Muenchen (BL)", "rolle": "Kapitaen, Stamm-RV im 4-2-3-1 (oder DM in 4-3-3)", "verifiziert_via": "https://www.sportsmole.co.uk/football/germany/world-cup-2026/feature/germany-world-cup-squad-full-list-numbers-predicted-lineup-depth-chart-latest-news_597315.html"},
+        {"name": "Antonio Ruediger", "position": "IV", "verein": "Real Madrid (LaLiga)", "rolle": "Stamm-IV Abwehr-Anker", "verifiziert_via": "https://www.sportsmole.co.uk/football/germany/world-cup-2026/feature/germany-world-cup-squad-full-list-numbers-predicted-lineup-depth-chart-latest-news_597315.html"},
+        {"name": "Jonathan Tah", "position": "IV", "verein": "Bayern Muenchen (BL)", "rolle": "Stamm-IV Co-Anker", "verifiziert_via": "https://www.sportsmole.co.uk/football/germany/world-cup-2026/feature/germany-world-cup-squad-full-list-numbers-predicted-lineup-depth-chart-latest-news_597315.html"},
+        {"name": "David Raum", "position": "LV", "verein": "RB Leipzig (BL)", "rolle": "Stamm-LV", "verifiziert_via": "https://www.sportsmole.co.uk/football/germany/world-cup-2026/feature/germany-world-cup-squad-full-list-numbers-predicted-lineup-depth-chart-latest-news_597315.html"},
+        {"name": "Aleksandar Pavlovic", "position": "DM", "verein": "Bayern Muenchen (BL)", "rolle": "Stamm-DM, jung-aufsteigend", "verifiziert_via": "https://www.sportsmole.co.uk/football/germany/world-cup-2026/feature/germany-world-cup-squad-full-list-numbers-predicted-lineup-depth-chart-latest-news_597315.html"},
+        {"name": "Leon Goretzka", "position": "ZM", "verein": "Bayern Muenchen (BL)", "rolle": "Stamm-ZM (Doppel-Sechs mit Pavlovic)", "verifiziert_via": "https://www.sportsmole.co.uk/football/germany/world-cup-2026/feature/germany-world-cup-squad-full-list-numbers-predicted-lineup-depth-chart-latest-news_597315.html"},
+        {"name": "Florian Wirtz", "nummer": 17, "position": "OM/RF", "verein": "Bayer Leverkusen (BL) (Wechsel Manchester City Sommer 2025 nicht bestaetigt - aktueller Vereins-Stand BL)", "rolle": "Kreativer 10er-Variante, im Setup als Rechtsaussen", "verifiziert_via": "https://www.sportsmole.co.uk/football/germany/world-cup-2026/feature/germany-world-cup-squad-full-list-numbers-predicted-lineup-depth-chart-latest-news_597315.html"},
+        {"name": "Jamal Musiala", "nummer": 10, "position": "OM", "verein": "Bayern Muenchen (BL)", "rolle": "10er-Hauptkreativ-Player Position 10er Mitte", "verifiziert_via": "https://www.sportsmole.co.uk/football/germany/world-cup-2026/feature/germany-world-cup-squad-full-list-numbers-predicted-lineup-depth-chart-latest-news_597315.html"},
+        {"name": "Leroy Sane", "position": "LF/RF", "verein": "Galatasaray (Tuerkei Sueperlig)", "rolle": "Linksaussen-Stamm, Torschuetze Pre-WM-Test 2:1 vs USA - rueckt nach Karl-Out auf", "verifiziert_via": "https://bulinews.com/germany-curacao-preview-team-news-and-predicted-lineups"},
+        {"name": "Kai Havertz", "position": "ST", "verein": "Arsenal (PL)", "rolle": "Hauptstuermer 1. Wahl-Setup", "verifiziert_via": "https://www.sportsmole.co.uk/football/germany/world-cup-2026/feature/germany-world-cup-squad-full-list-numbers-predicted-lineup-depth-chart-latest-news_597315.html"},
+        {"name": "Nick Woltemade", "nummer": 11, "position": "ST", "verein": "Newcastle United (PL)", "rolle": "Backup-Stuermer Body-Profil", "verifiziert_via": "https://www.kickitshirts.com/blog/germany-world-cup-2026-squad-numbers-full-player-list/"},
+        {"name": "Deniz Undav", "nummer": 26, "position": "ST", "verein": "VfB Stuttgart (BL)", "rolle": "Backup-Stuermer Volumen-Profil", "verifiziert_via": "https://www.kickitshirts.com/blog/germany-world-cup-2026-squad-numbers-full-player-list/"},
+        {"name": "Jamie Leweling", "nummer": 9, "position": "RF/LF", "verein": "VfB Stuttgart (BL)", "rolle": "Fluegel-Stuermer mit 9er-Nummer (ueberraschend, primaer Wing-Profil)", "verifiziert_via": "https://www.goal.com/en/lists/the-dfb-has-revealed-the-squad-s-shirt-numbers-for-the-2026-world-cup-in-the-usa-canada-and-mexico-and-the-choice-for-the-no-9-jersey-is-unexpected/blt22f885defa94ebe3"},
+        {"name": "Oliver Baumann", "nummer": 12, "position": "TW", "verein": "TSG Hoffenheim (BL)", "rolle": "Backup-TW", "verifiziert_via": "https://www.kickitshirts.com/blog/germany-world-cup-2026-squad-numbers-full-player-list/"},
+        {"name": "Alexander Nuebel", "nummer": 21, "position": "TW", "verein": "VfB Stuttgart (BL)", "rolle": "3. TW", "verifiziert_via": "https://www.kickitshirts.com/blog/germany-world-cup-2026-squad-numbers-full-player-list/"},
+        {"name": "Assan Ouedraogo", "position": "ZM/OM", "verein": "RB Leipzig (BL)", "rolle": "Junger Nachnominierter-Spieler (ersetzte verletzten Lennart Karl)", "verifiziert_via": "https://bulinews.com/germany-curacao-preview-team-news-and-predicted-lineups"}
+      ],
+      "squad_gast_top": [
+        {"name": "Eloy Room", "position": "TW", "verein": "n/v (zuletzt Columbus Crew MLS)", "rolle": "Stamm-Torwart", "verifiziert_via": "https://bulinews.com/germany-curacao-preview-team-news-and-predicted-lineups"},
+        {"name": "Cuco Martina", "position": "RV", "verein": "n/v (Karriere-Spaetphase)", "rolle": "Stamm-RV - aktueller Verein im Pre-WM zu pruefen", "verifiziert_via": "https://tips.gg/article/germany-curacao-predicted-lineups-story/"},
+        {"name": "Sherel Floranus", "position": "LV", "verein": "Sparta Rotterdam (Eredivisie)", "rolle": "Stamm-LV", "verifiziert_via": "https://bulinews.com/germany-curacao-preview-team-news-and-predicted-lineups"},
+        {"name": "Roshon van Eijma", "position": "IV", "verein": "n/v (niederlaendische Niederlassung)", "rolle": "Stamm-IV", "verifiziert_via": "https://tips.gg/article/germany-curacao-predicted-lineups-story/"},
+        {"name": "Leandro Bacuna", "position": "DM/ZM", "verein": "n/v (zuletzt Birmingham City)", "rolle": "Doppel-Sechs-Stamm, Bruder von Juninho Bacuna", "verifiziert_via": "https://bulinews.com/germany-curacao-preview-team-news-and-predicted-lineups"},
+        {"name": "Juninho Bacuna", "position": "ZM", "verein": "Birmingham City (Championship)", "rolle": "Doppel-Sechs-Stamm", "verifiziert_via": "https://bulinews.com/germany-curacao-preview-team-news-and-predicted-lineups"},
+        {"name": "Kenji Gorre", "position": "RF", "verein": "n/v", "rolle": "Rechtsaussen Stamm", "verifiziert_via": "https://bulinews.com/germany-curacao-preview-team-news-and-predicted-lineups"},
+        {"name": "Tahith Chong", "position": "LF/OM", "verein": "Sheffield United (Championship)", "rolle": "Ex-Man-Utd-Talent, Stamm-Linksaussen", "verifiziert_via": "https://tips.gg/article/germany-curacao-predicted-lineups-story/"},
+        {"name": "Jurgen Locadia", "position": "ST", "verein": "n/v", "rolle": "Stamm-Stuermer, ehemals Brighton/Hoffenheim", "verifiziert_via": "https://tips.gg/article/germany-curacao-predicted-lineups-story/"},
+        {"name": "Anthony van den Hurk Margaritha", "position": "ST", "verein": "n/v", "rolle": "Alternativ-Stuermer", "verifiziert_via": "https://bulinews.com/germany-curacao-preview-team-news-and-predicted-lineups"}
+      ],
+      "injuries_heim": ["Lennart Karl (Knie-Trainings-Verletzung, OUT, ersetzt durch Assan Ouedraogo)", "Manuel Neuer (Wadenverletzung Pre-WM-Tests verheilt, von Nagelsmann fuer 14.06-Start bestaetigt)"],
+      "injuries_gast": ["Pre-WM-Status n/v final - Curacao FA wenig oeffentliche Updates"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM exklusiv",
+        "gast": "keine - WM exklusiv",
+        "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/germany/squad"]
+      },
+      "saisonziel_heim": "Deutschland: 21. WM-Teilnahme. Nagelsmann-Aera-Ziel = mindestens Halbfinale, realistisch Finale-Aussicht. Erste WM nach EM-2024-Heim-Viertelfinale-Aus. MUSS-Sieg gegen Curacao klar erwartet.",
+      "saisonziel_gast": "Curacao: WM-DEBUET. Niedrigster-FIFA-Rank im Turnier (#82). Saisonziel realistisch = 1 Punkt insgesamt. Bei Klasse-Spiel-Gefuehl-Druck minimal.",
+      "tabellenstand": {"heim_fifa_rank_ca": 9, "gast_fifa_rank_ca": 82, "_kommentar": "73 FIFA-Rank-Punkte Differenz - extreme Quote-Diskrepanz, Deutschland bei -3300 = 1.03 dec. WM-niedrigster-Underdog-Spiel."},
+      "form_heim_letzte_5": "Pre-WM-Tests: 2:1 vs USA 07.06 (Sane Tor, Karl-Verletzung), n.b. vs Finnland 04.06 (Neuer-Wadenverletzung)",
+      "form_gast_letzte_5": "_n/v Detail - Pre-WM 2:0 vs Australien 28.05 (Verlust, Irankunda-Brace fuer Australien)",
+      "recovery_heim": "Erster Spieltag - DFB-Camp in Atlanta + Reise nach Houston kurz",
+      "recovery_gast": "Erster Spieltag - Curacao-Camp + Reise Houston",
+      "quoten": {
+        "bet365_naeherung_via_aggregatoren": {
+          "sieg_heim_deutschland_us": "-3300",
+          "draw_us": "+1600",
+          "sieg_gast_curacao_us": "+4000",
+          "sieg_heim_deutschland_decimal_ca": 1.03,
+          "draw_decimal_ca": 17.0,
+          "sieg_gast_curacao_decimal_ca": 41.0,
+          "ueber_2_5_decimal_ca": 1.20,
+          "ueber_2_5_us": "-500",
+          "unter_2_5_decimal_ca": 4.40,
+          "unter_2_5_us": "+350",
+          "ueber_3_5_decimal_ca": 1.55,
+          "ueber_4_5_decimal_ca": 2.20,
+          "btts_ja_decimal_ca": 3.50,
+          "btts_nein_decimal_ca": 1.30,
+          "dc_1x_decimal_ca": 1.01,
+          "_kommentar": "Extreme Favoriten-Lage - Markt rechnet 3-0 oder 4-0 als wahrscheinlichste Ergebnisse (Sportscasting-Supercomputer most-likely 3-0). Ueber-3.5 ist Markt-Realismus. BTTS-Ja unwahrscheinlich (1.30 BTTS-Nein-Quote = 66% Wahrscheinlichkeit kein Curacao-Tor)."
+        },
+        "quelle": "https://www.sportscasting.com/news/supercomputer-germany-vs-curacao-betting-picks-predictions-odds/"
+      },
+      "news_kompakt": [
+        "DEUTSCHLAND-WM-AUFTAKT 2026 - Nagelsmann's WM-Debut-Spiel",
+        "Neuer-Wadenverletzung verheilt, Start fuer 14.06 bestaetigt - Karl-Out, Ouedraogo nachnominiert",
+        "Curacao niedrigster-gerankter Teilnehmer (FIFA #82) - WM-Debut, niederlaendisch-basierte Spieler",
+        "Sane Torschuetze Pre-WM-Test vs USA 2:1 - rueckt fuer Karl im Setup auf",
+        "Markt: Deutschland 1.03 = quasi-sichere Quote, Ueber-3.5-Tore realistisches Markt-Pick (1.55), wahrscheinlichstes Ergebnis 3-0 oder 4-0",
+        "BTTS-Nein 1.30 (66% Wahrscheinlichkeit) - Curacao-Tor-Floor niedrig erwartet",
+        "Mittagsspiel Houston INDOOR-Klimaanlage - kein Konditions-Faktor trotz Texas-Hitze",
+        "GOLDGRUBE-MARKT-TYP DC 1X gilt nicht - Quote 1.01 zu niedrig fuer Wert"
+      ],
+      "quellen_aggregator": [
+        "https://www.sportscasting.com/news/supercomputer-germany-vs-curacao-betting-picks-predictions-odds/",
+        "https://www.sportytrader.com/en/betting-tips/germany-curacao-353988/",
+        "https://www.wincomparator.com/predictions/germany-curacao-7937446/",
+        "https://www.compare.bet/news/germany-vs-curacao-betting-preview-predictions-tips-and-live-odds",
+        "https://www.squawka.com/us/news/world-cup/match-preview-germany-vs-curacao-06-14-26-world-cup-2026/",
+        "https://www.dimers.com/bet-hub/swc/schedule/2026_1_ger_cur",
+        "https://www.sportsline.com/insiders/germany-vs-curacao-odds-predictions-2026-world-cup-picks-from-proven-soccer-expert/",
+        "https://www.oddschecker.com/football/world-cup/germany-v-curacao/winner"
+      ],
+      "quellen_squad_news": [
+        "https://www.sportsmole.co.uk/football/germany/world-cup-2026/feature/germany-world-cup-squad-full-list-numbers-predicted-lineup-depth-chart-latest-news_597315.html",
+        "https://bulinews.com/germany-curacao-preview-team-news-and-predicted-lineups",
+        "https://tips.gg/article/germany-curacao-predicted-lineups-story/",
+        "https://www.kickitshirts.com/blog/germany-world-cup-2026-squad-numbers-full-player-list/",
+        "https://www.goal.com/en/lists/the-dfb-has-revealed-the-squad-s-shirt-numbers-for-the-2026-world-cup-in-the-usa-canada-and-mexico-and-the-choice-for-the-no-9-jersey-is-unexpected/blt22f885defa94ebe3",
+        "https://www.bundesliga.com/en/bundesliga/news/how-will-germany-line-up-havertz-musiala-wirtz-nagelsmann-world-cup-2026-28807",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/germany/squad"
+      ]
+    },
+
+    {
+      "id": "2026-06-14-ned-jpn",
+      "liga": "FIFA WM 2026 - Gruppenphase Spieltag 1 (Gruppe F)",
+      "wettbewerb_kontext": "Spieltag 1 Gruppe F: Niederlande vs Japan im AT&T Stadium Arlington TX. Niederlande (FIFA-Rank #6, Oranje) Pre-WM-Form stark mit 27 Toren in 8 Quali-Spielen. Japan (FIFA-Rank #15, Samurai Blue) press-aggressives 3-4-2-1-Setup gegen Oranje-4-3-3. Gruppe-F-Topspiel Spieltag 1 vor Schweden-Tunesien parallel Sonntag-Spaetabend US-Zeit.",
+      "heim": "Niederlande",
+      "gast": "Japan",
+      "anstoss_us_zeit": "Sunday 4:00 PM ET 14.06.2026 / 3:00 PM CT (Arlington)",
+      "anstoss_lokal": "15:00 CT 14.06.2026 (Arlington TX)",
+      "anstoss_berlin": "2026-06-14T22:00:00+02:00",
+      "anstoss_utc": "2026-06-14T20:00:00Z",
+      "stadion": "AT&T Stadium, Arlington TX (Dallas-Metroplex)",
+      "spielort_faktor": {
+        "stadt": "Arlington TX",
+        "stadion": "AT&T Stadium",
+        "land": "USA",
+        "hoehe_m": 175,
+        "kapazitaet": 80000,
+        "klima_anstoss": "ca. 32-36 Grad Aussen-Texas-Hitze aber AT&T INDOOR-Klimaanlage ca. 21-23 Grad - witterungsunabhaengig",
+        "anstoss_lokal": "15:00 CT (Nachmittag US, fuer Spielfeld optimal mit Klimaanlage)",
+        "lokal_faktor": "Texas-Boden neutral; oranje + japanische Diaspora beide klein in Texas, neutrale Houston-/Dallas-Fan-Anziehung",
+        "implikationen": ["Klimaanlage-Indoor neutralisiert Hitze - kein Konditions-Faktor", "AT&T Stadium = einer der groessten WM-Stadien", "Press-aggressives Japan-Setup gegen Oranje-Aufbau erlaubt schnellen Tempo"]
+      },
+      "turnier_phase": "Gruppenphase Spieltag 1",
+      "gruppe": "F",
+      "gruppen_stand_vor_spiel": {"kontext": "Gruppe F Spieltag 1 - Niederlande-Japan + Schweden-Tunesien Spaetabend US-Zeit", "niederlande_pkt": 0, "niederlande_tordiff": 0, "japan_pkt": 0, "japan_tordiff": 0},
+      "squad_heim_top": [
+        {"name": "Bart Verbruggen", "position": "TW", "verein": "Brighton (PL)", "rolle": "Stamm-Torwart", "verifiziert_via": "https://www.sportsmole.co.uk/football/netherlands/world-cup/feature/netherlands-world-cup-squad-full-list-predicted-lineup-depth-chart-latest-news_597357.html"},
+        {"name": "Denzel Dumfries", "position": "RV", "verein": "Inter Mailand (Serie A)", "rolle": "Stamm-RV, Power-Wing-Back", "verifiziert_via": "https://www.sportsmole.co.uk/football/netherlands/world-cup/feature/netherlands-world-cup-squad-full-list-predicted-lineup-depth-chart-latest-news_597357.html"},
+        {"name": "Virgil van Dijk", "position": "IV", "verein": "Liverpool (PL)", "rolle": "Kapitaen + Abwehr-Anker Weltklasse", "verifiziert_via": "https://www.sportsmole.co.uk/football/netherlands/world-cup/feature/netherlands-world-cup-squad-full-list-predicted-lineup-depth-chart-latest-news_597357.html"},
+        {"name": "Nathan Ake", "position": "IV", "verein": "Manchester City (PL)", "rolle": "Stamm-IV Linksfuss-Komplement", "verifiziert_via": "https://www.sportsmole.co.uk/football/netherlands/world-cup/feature/netherlands-world-cup-squad-full-list-predicted-lineup-depth-chart-latest-news_597357.html"},
+        {"name": "Micky van de Ven", "position": "LV", "verein": "Tottenham (PL)", "rolle": "Stamm-LV", "verifiziert_via": "https://www.sportsmole.co.uk/football/netherlands/world-cup/feature/netherlands-world-cup-squad-full-list-predicted-lineup-depth-chart-latest-news_597357.html"},
+        {"name": "Ryan Gravenberch", "position": "ZM", "verein": "Liverpool (PL)", "rolle": "Mittelfeld-Achse", "verifiziert_via": "https://tips.gg/article/netherlands-japan-predicted-lineups-story/"},
+        {"name": "Frenkie de Jong", "position": "ZM/DM", "verein": "FC Barcelona (LaLiga)", "rolle": "Mittelfeld-Aufbau-Anker", "verifiziert_via": "https://tips.gg/article/netherlands-japan-predicted-lineups-story/"},
+        {"name": "Donyell Malen", "position": "RF", "verein": "Aston Villa (PL)", "rolle": "Stamm-Rechtsaussen", "verifiziert_via": "https://tips.gg/article/netherlands-japan-predicted-lineups-story/"},
+        {"name": "Tijjani Reijnders", "position": "ZM/OM", "verein": "Manchester City (PL)", "rolle": "Box-to-Box-10er mit Torgefahr", "verifiziert_via": "https://tips.gg/article/netherlands-japan-predicted-lineups-story/"},
+        {"name": "Cody Gakpo", "position": "LF/ST", "verein": "Liverpool (PL)", "rolle": "Stamm-Linksaussen, flexibel ST", "verifiziert_via": "https://tips.gg/article/netherlands-japan-predicted-lineups-story/"},
+        {"name": "Memphis Depay", "position": "ST", "verein": "Corinthians (Brasilien)", "rolle": "Hauptstuermer, Veteran-Topscorer Nationalmannschaft", "verifiziert_via": "https://tips.gg/article/netherlands-japan-predicted-lineups-story/"}
+      ],
+      "squad_gast_top": [
+        {"name": "Zion Suzuki", "position": "TW", "verein": "Parma (Serie A)", "rolle": "Stamm-Torwart", "verifiziert_via": "https://tips.gg/article/netherlands-japan-predicted-lineups-story/"},
+        {"name": "Wataru Endo", "position": "DM", "verein": "Liverpool (PL)", "rolle": "Kapitaen + DM-Anker", "verifiziert_via": "https://tips.gg/article/netherlands-japan-predicted-lineups-story/"},
+        {"name": "Hidemasa Morita", "position": "ZM", "verein": "Sporting CP (Liga Portugal)", "rolle": "Stamm-ZM Box-to-Box", "verifiziert_via": "https://tips.gg/article/netherlands-japan-predicted-lineups-story/"},
+        {"name": "Takefusa Kubo", "position": "RF/OM", "verein": "Real Sociedad (LaLiga)", "rolle": "Stamm-Rechtsaussen / 10er, kreativer Press-Initiator", "verifiziert_via": "https://tips.gg/article/netherlands-japan-predicted-lineups-story/"},
+        {"name": "Ritsu Doan", "position": "LF/RF", "verein": "Freiburg / SC Freiburg (BL)", "rolle": "Vielseitig Wing-Press-Initiator", "verifiziert_via": "https://tips.gg/article/netherlands-japan-predicted-lineups-story/"},
+        {"name": "Daichi Kamada", "position": "OM", "verein": "Crystal Palace (PL)", "rolle": "Stamm-10er", "verifiziert_via": "https://tips.gg/article/netherlands-japan-predicted-lineups-story/"},
+        {"name": "Kaoru Mitoma", "position": "LF", "verein": "Brighton (PL)", "rolle": "Stamm-Linksaussen, Tempo-Dribbler", "verifiziert_via": "https://tips.gg/article/netherlands-japan-predicted-lineups-story/"},
+        {"name": "Ko Itakura", "position": "IV", "verein": "Borussia Moenchengladbach (BL)", "rolle": "Stamm-IV", "verifiziert_via": "https://tips.gg/article/netherlands-japan-predicted-lineups-story/"},
+        {"name": "Takehiro Tomiyasu", "position": "RV/IV", "verein": "Arsenal (PL)", "rolle": "Flexibel Verteidiger", "verifiziert_via": "https://tips.gg/article/netherlands-japan-predicted-lineups-story/"},
+        {"name": "Ayase Ueda", "position": "ST", "verein": "Feyenoord (Eredivisie)", "rolle": "Hauptstuermer", "verifiziert_via": "https://tips.gg/article/netherlands-japan-predicted-lineups-story/"}
+      ],
+      "injuries_heim": ["Pre-WM-Status weitgehend gesund - kein Major-Out gemeldet"],
+      "injuries_gast": ["Pre-WM-Status weitgehend gesund - kein Major-Out gemeldet"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM exklusiv",
+        "gast": "keine - WM exklusiv",
+        "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/netherlands/squad", "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/japan/squad"]
+      },
+      "saisonziel_heim": "Niederlande: 12. WM-Teilnahme. Oranje-Ziel = Halbfinale (analog 2014). Klare Gruppe-F-Favoriten.",
+      "saisonziel_gast": "Japan: 7. WM-Teilnahme in Folge. Ziel = Achtelfinale (analog 2022 Achtelfinal-Aus Kroatien Elfmeter). Klares Press-Konzept-System.",
+      "tabellenstand": {"heim_fifa_rank_ca": 6, "gast_fifa_rank_ca": 15, "_kommentar": "Markt-Konsens Oranje 11/10-Favorit, Japan 28% Win-Wahrscheinlichkeit. Geringer Floor da Press-System Japan oft Klasse-Gegner stoeren kann."},
+      "form_heim_letzte_5": "Niederlande Quali-Stark: 27 Tore in 8 Spielen, in allen 8 Qualis getroffen",
+      "form_gast_letzte_5": "Japan 5 Spiele in Folge getroffen",
+      "recovery_heim": "Erster Spieltag - Oranje-Camp + Reise nach Texas",
+      "recovery_gast": "Erster Spieltag - Samurai-Blue-Camp + Reise Texas",
+      "quoten": {
+        "bet365_naeherung_via_aggregatoren": {
+          "sieg_heim_niederlande_us": "-145",
+          "draw_us": "+270",
+          "sieg_gast_japan_us": "+340",
+          "sieg_heim_niederlande_decimal_ca": 1.69,
+          "draw_decimal_ca": 3.70,
+          "sieg_gast_japan_decimal_ca": 4.40,
+          "ueber_2_5_decimal_ca": 1.91,
+          "ueber_2_5_us": "10/11",
+          "unter_2_5_decimal_ca": 1.91,
+          "btts_ja_decimal_ca": 1.80,
+          "btts_nein_decimal_ca": 1.95,
+          "dc_1x_decimal_ca": 1.30,
+          "dc_x2_decimal_ca": 1.95,
+          "dc_12_decimal_ca": 1.27,
+          "_kommentar": "Markt-Konsens Niederlande knapp-Favorit, Japan klarer Outsider aber kein Killshot. BTTS-Ja 52% wahrscheinlich (beide Tor-Mannschaften). Ueber/Unter 2.5 fast Coinflip."
+        },
+        "quelle": "https://www.oddschecker.com/football/world-cup/netherlands-v-japan/winner"
+      },
+      "news_kompakt": [
+        "Oranje 27 Tore in 8 Qualifikations-Spielen - Quali-Topscoring stark",
+        "Japan 3-4-2-1-Press-Setup vs Oranje-Aufbau = taktisches Schluessel-Duell",
+        "Gravenberch + de Jong vs Endo-Press = Mittelfeld-Schlacht",
+        "AT&T Stadium INDOOR-Klimaanlage = kein Konditions-Faktor",
+        "Markt-Konsens Niederlande knapp-Favorit (11/10) - kein Killshot, Japan reale Upset-Edge moeglich",
+        "Wahrscheinlichste Markt-Picks: Niederlande-Sieg + BTTS-Ja (1.80) / Ueber-2.5-Tore (Coinflip)"
+      ],
+      "quellen_aggregator": [
+        "https://www.oddschecker.com/football/world-cup/netherlands-v-japan/winner",
+        "https://www.kickoff.co.uk/world-cup-predictions-stats-odds/netherlands-vs-japan/",
+        "https://www.squawka.com/us/news/world-cup/match-preview-netherlands-vs-japan-06-14-26-world-cup-2026/",
+        "https://news.sportsinteraction.com/soccer/fifa-world-cup/story/netherlands-vs-japan-odds-prediction-061426-217145",
+        "https://www.dimers.com/bet-hub/swc/schedule/2026_1_ned_jpn",
+        "https://onefootball.com/en/news/netherlands-vs-japan-prediction-world-cup-2026-preview-best-bets-42995564"
+      ],
+      "quellen_squad_news": [
+        "https://www.sportsmole.co.uk/football/netherlands/world-cup/feature/netherlands-world-cup-squad-full-list-predicted-lineup-depth-chart-latest-news_597357.html",
+        "https://www.goal.com/en-us/lists/netherlands-squad-world-cup-2026/bltab8e400140133c06",
+        "https://www.rotowire.com/soccer/article/2026-world-cup-group-f-preview-netherlands-japan-sweden-and-tunisia-lineups-odds-predictions-and-tactics-112643",
+        "https://tips.gg/article/netherlands-japan-predicted-lineups-story/"
+      ]
+    },
+
+    {
+      "id": "2026-06-14-civ-ecu",
+      "liga": "FIFA WM 2026 - Gruppenphase Spieltag 1 (Gruppe E)",
+      "wettbewerb_kontext": "Spieltag 1 Gruppe E Co-Spiel zu DEU-CUR: Elfenbeinkueste gegen Ecuador im Lincoln Financial Field Philadelphia. Elfenbeinkueste (FIFA-Rank ca. 39, Coach Emerse Fae nach AFCON-Heim-Sieg 2024) Premium-Talent mit Diaspora-Frankreich/PL-Stamm. Ecuador (FIFA-Rank ca. 30, Coach Sebastian Beccacece) jugendliche Mannschaft mit Premier-League/LaLiga-Stamm. Match um Gruppe-E-Platz-2 hinter Deutschland-Favorit.",
+      "heim": "Elfenbeinkueste",
+      "gast": "Ecuador",
+      "anstoss_us_zeit": "Sunday 7:00 PM ET 14.06.2026",
+      "anstoss_lokal": "19:00 ET 14.06.2026 (Philadelphia)",
+      "anstoss_berlin": "2026-06-15T01:00:00+02:00",
+      "anstoss_utc": "2026-06-14T23:00:00Z",
+      "stadion": "Lincoln Financial Field, Philadelphia PA",
+      "spielort_faktor": {
+        "stadt": "Philadelphia PA",
+        "stadion": "Lincoln Financial Field",
+        "land": "USA",
+        "hoehe_m": 12,
+        "kapazitaet": 67600,
+        "klima_anstoss": "ca. 24-28 Grad Spaetabend Philadelphia, moderate Luftfeuchtigkeit",
+        "anstoss_lokal": "19:00 ET (Spaetnachmittag/Abend)",
+        "lokal_faktor": "Philadelphia neutrales Stadion, beide Teams Diaspora gering, neutrale Anziehung",
+        "implikationen": ["Moderate Temperatur - kein Konditions-Faktor", "Spaetabend-Spiel mit leichtem Tau-Risiko", "Lincoln Financial offenes Stadion ohne Klimaanlage - aber moderate Temperatur"]
+      },
+      "turnier_phase": "Gruppenphase Spieltag 1",
+      "gruppe": "E",
+      "gruppen_stand_vor_spiel": {"kontext": "Gruppe E Spieltag 1 - DEU-CUR + CIV-ECU parallel Spaetabend US-Zeit", "elfenbeinkueste_pkt": 0, "elfenbeinkueste_tordiff": 0, "ecuador_pkt": 0, "ecuador_tordiff": 0},
+      "squad_heim_top": [
+        {"name": "Yahia Fofana", "position": "TW", "verein": "Angers (Ligue 1)", "rolle": "Stamm-Torwart-Kandidat", "verifiziert_via": "https://www.fourfourtwo.com/team/ivory-coast-world-cup-2026-squad"},
+        {"name": "Wilfried Singo", "position": "RV", "verein": "Galatasaray (Tuerkei)", "rolle": "Stamm-RV / Wing-Back", "verifiziert_via": "https://www.olympics.com/en/news/fifa-world-cup-2026-cote-ivoire-all-players-full-squad-list-key-stats-schedule"},
+        {"name": "Evan Ndicka", "position": "IV", "verein": "AS Roma (Serie A)", "rolle": "Stamm-IV Abwehr-Anker", "verifiziert_via": "https://www.olympics.com/en/news/fifa-world-cup-2026-cote-ivoire-all-players-full-squad-list-key-stats-schedule"},
+        {"name": "Odilon Kossounou", "position": "IV", "verein": "Atalanta (Serie A)", "rolle": "Stamm-IV Co-Anker", "verifiziert_via": "https://www.olympics.com/en/news/fifa-world-cup-2026-cote-ivoire-all-players-full-squad-list-key-stats-schedule"},
+        {"name": "Ghislain Konan", "position": "LV", "verein": "Gil Vicente (Liga Portugal)", "rolle": "Stamm-LV", "verifiziert_via": "https://www.olympics.com/en/news/fifa-world-cup-2026-cote-ivoire-all-players-full-squad-list-key-stats-schedule"},
+        {"name": "Franck Kessie", "position": "DM/ZM", "verein": "Al Ahli (Saudi)", "rolle": "Mittelfeld-Veteran-Anker", "verifiziert_via": "https://www.olympics.com/en/news/fifa-world-cup-2026-cote-ivoire-all-players-full-squad-list-key-stats-schedule"},
+        {"name": "Ibrahim Sangare", "position": "DM", "verein": "Nottingham Forest (PL)", "rolle": "DM Co-Anker", "verifiziert_via": "https://www.olympics.com/en/news/fifa-world-cup-2026-cote-ivoire-all-players-full-squad-list-key-stats-schedule"},
+        {"name": "Simon Adingra", "position": "LF/RF", "verein": "AS Monaco (Ligue 1)", "rolle": "Stamm-Linksaussen Tempo-Dribbler", "verifiziert_via": "https://www.olympics.com/en/news/fifa-world-cup-2026-cote-ivoire-all-players-full-squad-list-key-stats-schedule"},
+        {"name": "Amad Diallo", "position": "RF", "verein": "Manchester United (PL)", "rolle": "Stamm-Rechtsaussen, PL-Form 25/26", "verifiziert_via": "https://www.olympics.com/en/news/fifa-world-cup-2026-cote-ivoire-all-players-full-squad-list-key-stats-schedule"},
+        {"name": "Evann Guessand", "position": "ST", "verein": "Aston Villa (PL)", "rolle": "Hauptstuermer", "verifiziert_via": "https://www.olympics.com/en/news/fifa-world-cup-2026-cote-ivoire-all-players-full-squad-list-key-stats-schedule"},
+        {"name": "Yan Diomande", "position": "OM/RF", "verein": "RB Leipzig (BL)", "rolle": "Junger Offensiv-Backup", "verifiziert_via": "https://www.olympics.com/en/news/fifa-world-cup-2026-cote-ivoire-all-players-full-squad-list-key-stats-schedule"},
+        {"name": "Nicolas Pepe", "position": "RF", "verein": "Villarreal (LaLiga)", "rolle": "Veteran-Wing-Backup", "verifiziert_via": "https://www.olympics.com/en/news/fifa-world-cup-2026-cote-ivoire-all-players-full-squad-list-key-stats-schedule"}
+      ],
+      "squad_gast_top": [
+        {"name": "Hernan Galindez", "position": "TW", "verein": "Huracan (Argentinien)", "rolle": "Veteran-Stamm-Torwart", "verifiziert_via": "https://www.fourfourtwo.com/team/ecuador-world-cup-2026-squad"},
+        {"name": "Piero Hincapie", "position": "IV", "verein": "Arsenal (PL)", "rolle": "Stamm-IV Linksfuss", "verifiziert_via": "https://www.fourfourtwo.com/team/ecuador-world-cup-2026-squad"},
+        {"name": "Willian Pacho", "position": "IV", "verein": "Paris Saint-Germain (Ligue 1)", "rolle": "Stamm-IV Co-Anker", "verifiziert_via": "https://www.fourfourtwo.com/team/ecuador-world-cup-2026-squad"},
+        {"name": "Pervis Estupinan", "position": "LV", "verein": "AC Milan (Serie A)", "rolle": "Stamm-LV", "verifiziert_via": "https://www.fourfourtwo.com/team/ecuador-world-cup-2026-squad"},
+        {"name": "Angelo Preciado", "position": "RV", "verein": "Atletico Mineiro (Brasilien Serie A)", "rolle": "Stamm-RV", "verifiziert_via": "https://www.fourfourtwo.com/team/ecuador-world-cup-2026-squad"},
+        {"name": "Moises Caicedo", "position": "DM/ZM", "verein": "Chelsea (PL)", "rolle": "Mittelfeld-Schluessel-Anker", "verifiziert_via": "https://www.fourfourtwo.com/team/ecuador-world-cup-2026-squad"},
+        {"name": "Alan Franco", "position": "ZM", "verein": "Atletico Mineiro (Brasilien)", "rolle": "ZM-Co-Anker", "verifiziert_via": "https://www.fourfourtwo.com/team/ecuador-world-cup-2026-squad"},
+        {"name": "Kendry Paez", "position": "OM", "verein": "River Plate (Leihe von Chelsea)", "rolle": "Junger Kreativ-10er (geboren 2007)", "verifiziert_via": "https://www.fourfourtwo.com/team/ecuador-world-cup-2026-squad"},
+        {"name": "Felix Torres", "position": "IV", "verein": "Internacional (Brasilien)", "rolle": "Stamm-IV-Backup", "verifiziert_via": "https://www.fourfourtwo.com/team/ecuador-world-cup-2026-squad"},
+        {"name": "Joel Ordonez", "position": "IV", "verein": "Club Brugge (Belgien)", "rolle": "Junger IV-Backup", "verifiziert_via": "https://www.fourfourtwo.com/team/ecuador-world-cup-2026-squad"}
+      ],
+      "injuries_heim": ["Detail-Recherche bei Tipps-Routine - FIFA-Match-Center-Pflicht-Check"],
+      "injuries_gast": ["Detail-Recherche bei Tipps-Routine"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM exklusiv",
+        "gast": "keine - WM exklusiv",
+        "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/cote-divoire/squad", "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/ecuador/squad"]
+      },
+      "saisonziel_heim": "Elfenbeinkueste: AFCON-Heimsieger 2024, WM-Stamm-Teilnehmer. Saisonziel = Achtelfinale + Viertelfinal-Aussicht. Klare Gruppe-E-Platz-2-Aspiration hinter Deutschland.",
+      "saisonziel_gast": "Ecuador: 4. WM-Teilnahme. Saisonziel = Achtelfinale (analog 2014 Achtelfinal-Aus). Jugendliches Team mit PL/LaLiga-Stamm.",
+      "tabellenstand": {"heim_fifa_rank_ca": 39, "gast_fifa_rank_ca": 30, "_kommentar": "Ecuador knapp hoeher gerankt + Markt-Konsens als knapper Favorit. Match auf Quali-Tor-Niveau gleichmaessig erwartet."},
+      "form_heim_letzte_5": "_n/v Detail",
+      "form_gast_letzte_5": "_n/v Detail",
+      "recovery_heim": "Erster Spieltag - Camp + Reise Philadelphia",
+      "recovery_gast": "Erster Spieltag - Camp + Reise Philadelphia",
+      "quoten": {
+        "bet365_naeherung_via_aggregatoren": {
+          "sieg_heim_civ_decimal_ca": 3.72,
+          "draw_decimal_ca": 3.30,
+          "sieg_gast_ecu_decimal_ca": 2.50,
+          "ueber_2_5_decimal_ca": 2.40,
+          "unter_2_5_decimal_ca": 1.55,
+          "btts_ja_decimal_ca": 2.30,
+          "btts_nein_decimal_ca": 1.55,
+          "dc_1x_decimal_ca": 1.75,
+          "dc_x2_decimal_ca": 1.42,
+          "dc_12_decimal_ca": 1.50,
+          "_kommentar": "Markt-Konsens Ecuador knapp-Favorit (35% Win-Wahrscheinlichkeit vs CIV 31% + Draw 34%) - Draw-Edge ungewoehnlich hoch. Unter-2.5 dominante Konsens-Tendenz (58-60% Wahrscheinlichkeit). BTTS-Nein 8/11 favorisiert."
+        },
+        "quelle": "https://www.sportscasting.com/news/supercomputer-ivory-coast-vs-ecuador-betting-picks-predictions-odds/"
+      },
+      "news_kompakt": [
+        "Markt knapp Ecuador-Favorit (35%), aber Draw-Edge ungewoehnlich hoch (34%) - moegliche Coinflip-Empfehlung",
+        "xG-Modell: Elfenbeinkueste 1.18 Tore + Ecuador 1.24 - Gesamtspannweite Unter 3 Toren erwartet",
+        "PL-Stamm beide Teams (CIV: Sangare/Diallo/Guessand; ECU: Hincapie/Caicedo) - klassisch organisierte Defensiv-Schlacht moeglich",
+        "Unter-2.5 + BTTS-Nein dominante Konsens-Tendenz",
+        "GOLDGRUBE-MARKT Unter-2.5-Tore (66.7%/+27.5% ROI) hier passend"
+      ],
+      "quellen_aggregator": [
+        "https://www.sportscasting.com/news/supercomputer-ivory-coast-vs-ecuador-betting-picks-predictions-odds/",
+        "https://www.sportytrader.com/en/betting-tips/ivory-coast-ecuador-354100/",
+        "https://totalfootballanalysis.com/competitions/fifa-world-cup-2026/cote-d-ivoire-v-ecuador-predictions",
+        "https://www.sportsline.com/insiders/ecuador-vs-ivory-coast-odds-predictions-2026-world-cup-picks-from-proven-soccer-expert/",
+        "https://news.sportsinteraction.com/soccer/fifa-world-cup/story/ivory-coast-vs-ecuador-odds-prediction-061426-217159",
+        "https://tips.gg/article/ivory-coast-vs-ecuador-betting-odds/",
+        "https://www.dimers.com/bet-hub/swc/schedule/2026_1_civ_ecu",
+        "https://www.squawka.com/us/news/world-cup/match-preview-ivory-coast-vs-ecuador-06-14-26-world-cup-2026/"
+      ],
+      "quellen_squad_news": [
+        "https://www.olympics.com/en/news/fifa-world-cup-2026-cote-ivoire-all-players-full-squad-list-key-stats-schedule",
+        "https://www.fourfourtwo.com/team/ivory-coast-world-cup-2026-squad",
+        "https://www.fourfourtwo.com/team/ecuador-world-cup-2026-squad",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/cote-divoire-squad-announcement-emerse-fae",
+        "https://www.squawka.com/en/news/world-cup/ivory-coast-world-cup-2026-fixtures-squad-analysis/"
+      ]
+    },
+
+    {
+      "id": "2026-06-14-swe-tun",
+      "liga": "FIFA WM 2026 - Gruppenphase Spieltag 1 (Gruppe F)",
+      "wettbewerb_kontext": "Spieltag 1 Gruppe F Co-Spiel: Schweden gegen Tunesien im Estadio BBVA Monterrey Mexiko. Schweden (FIFA-Rank ca. 23) unter Coach Graham Potter (Englaender), Generation Gyokeres+Isak. Tunesien (FIFA-Rank ca. 41) jung mit AFCON-Stamm. Match um Gruppe-F-Platz-2 hinter Niederlande/Japan-Sieger.",
+      "heim": "Schweden",
+      "gast": "Tunesien",
+      "anstoss_us_zeit": "Sunday 10:00 PM ET 14.06.2026 / 9:00 PM CST (Monterrey)",
+      "anstoss_lokal": "21:00 CST 14.06.2026 (Monterrey)",
+      "anstoss_berlin": "2026-06-15T04:00:00+02:00",
+      "anstoss_utc": "2026-06-15T02:00:00Z",
+      "stadion": "Estadio BBVA, Monterrey (Guadalupe), Mexiko",
+      "spielort_faktor": {
+        "stadt": "Monterrey (Guadalupe)",
+        "stadion": "Estadio BBVA",
+        "land": "Mexiko",
+        "hoehe_m": 540,
+        "kapazitaet": 53500,
+        "klima_anstoss": "ca. 26-30 Grad Monterrey-Spaetabend warm aber nicht extrem; Hoehe 540m moderat, kaum Konditions-Faktor",
+        "anstoss_lokal": "21:00 CST (Spaetabend)",
+        "lokal_faktor": "Mexikanisches Stadion neutral fuer beide Teams; schwedische + tunesische Diaspora beide klein in Monterrey",
+        "implikationen": ["Hoehe + Hitze beide moderat, gut bespielbar", "Spaetabend mit Tau-Faktor", "Mexikanisches Publikum oft Outsider-Tunesien-Wohlwollen wegen 'Latein-Cousin'-Identifikation moeglich"]
+      },
+      "turnier_phase": "Gruppenphase Spieltag 1",
+      "gruppe": "F",
+      "gruppen_stand_vor_spiel": {"kontext": "Gruppe F Spieltag 1 - parallel zu Niederlande-Japan", "schweden_pkt": 0, "schweden_tordiff": 0, "tunesien_pkt": 0, "tunesien_tordiff": 0},
+      "squad_heim_top": [
+        {"name": "Kristoffer Nordfeldt", "position": "TW", "verein": "St. Pauli (BL)", "rolle": "Stamm-Torwart-Kandidat", "verifiziert_via": "https://www.uefa.com/european-qualifiers/news/02a6-20d159618c27-fd6d64ccd5f6-1000--sweden-at-the-world-cup-2026-squad-fixtures-group-and-hi/"},
+        {"name": "Victor Lindelof", "position": "IV", "verein": "Aston Villa (PL)", "rolle": "Kapitaen + Abwehr-Anker", "verifiziert_via": "https://www.uefa.com/european-qualifiers/news/02a6-20d159618c27-fd6d64ccd5f6-1000--sweden-at-the-world-cup-2026-squad-fixtures-group-and-hi/"},
+        {"name": "Isak Hien", "position": "IV", "verein": "Atalanta (Serie A)", "rolle": "Stamm-IV Co-Anker", "verifiziert_via": "https://tips.gg/article/sweden-vs-tunisia-betting-odds/"},
+        {"name": "Gabriel Gudmundsson", "position": "LV", "verein": "Leeds United (PL)", "rolle": "Stamm-LV", "verifiziert_via": "https://tips.gg/article/sweden-vs-tunisia-betting-odds/"},
+        {"name": "Joakim Svensson", "position": "RV", "verein": "Hoffenheim (BL)", "rolle": "Stamm-RV", "verifiziert_via": "https://tips.gg/article/sweden-vs-tunisia-betting-odds/"},
+        {"name": "Jens Cajuste", "position": "ZM", "verein": "Ipswich (Championship)", "rolle": "Box-to-Box-ZM (Karlstrom-Backup oder Co-Stamm)", "verifiziert_via": "https://tips.gg/article/sweden-vs-tunisia-betting-odds/"},
+        {"name": "Lucas Bergvall", "position": "OM", "verein": "Tottenham (PL)", "rolle": "Junger kreativer 10er (auch ZM-Pos moeglich)", "verifiziert_via": "https://tips.gg/article/sweden-vs-tunisia-betting-odds/"},
+        {"name": "Anthony Elanga", "position": "RF/LF", "verein": "Newcastle United (PL)", "rolle": "Tempo-Wing-Backup", "verifiziert_via": "https://tips.gg/article/sweden-vs-tunisia-betting-odds/"},
+        {"name": "Viktor Gyokeres", "position": "ST", "verein": "Arsenal (PL)", "rolle": "Hauptstuermer 1. Wahl (Sporting-Wechsel Sommer 2025 zu Arsenal)", "verifiziert_via": "https://thefootballfaithful.com/sweden-2026-world-cup-squad-fixtures-and-schedule/"},
+        {"name": "Alexander Isak", "position": "ST/LF", "verein": "Liverpool (PL)", "rolle": "Co-Stuermer flexible Linksfuss (Newcastle-Wechsel Sommer 2025 zu Liverpool)", "verifiziert_via": "https://thefootballfaithful.com/sweden-2026-world-cup-squad-fixtures-and-schedule/"},
+        {"name": "Dejan Kulusevski", "position": "OM/RF", "verein": "Tottenham (PL)", "rolle": "Stamm-Kreativer-Wing-Spieler", "verifiziert_via": "https://thefootballfaithful.com/sweden-2026-world-cup-squad-fixtures-and-schedule/"}
+      ],
+      "squad_gast_top": [
+        {"name": "Aymen Dahmen", "position": "TW", "verein": "n/v (zuletzt CS Sfaxien Tunesien)", "rolle": "Stamm-Torwart", "verifiziert_via": "https://tips.gg/article/sweden-vs-tunisia-betting-odds/"},
+        {"name": "Yan Valery", "position": "RV", "verein": "n/v (zuletzt Angers/Stuttgart)", "rolle": "Stamm-RV", "verifiziert_via": "https://tips.gg/article/sweden-vs-tunisia-betting-odds/"},
+        {"name": "Montassar Talbi", "position": "IV", "verein": "Lorient (Ligue 2)", "rolle": "Stamm-IV", "verifiziert_via": "https://tips.gg/article/sweden-vs-tunisia-betting-odds/"},
+        {"name": "Dylan Bronn", "position": "IV", "verein": "n/v", "rolle": "Stamm-IV Co-Anker", "verifiziert_via": "https://tips.gg/article/sweden-vs-tunisia-betting-odds/"},
+        {"name": "Ali Abdi", "position": "LV", "verein": "n/v", "rolle": "Stamm-LV", "verifiziert_via": "https://tips.gg/article/sweden-vs-tunisia-betting-odds/"},
+        {"name": "Ellyes Skhiri", "position": "DM/ZM", "verein": "Eintracht Frankfurt (BL)", "rolle": "Mittelfeld-Anker", "verifiziert_via": "https://tips.gg/article/sweden-vs-tunisia-betting-odds/"},
+        {"name": "Aissa Laidouni", "position": "ZM", "verein": "n/v (zuletzt Union Berlin/Saudi)", "rolle": "Box-to-Box-Stamm", "verifiziert_via": "https://tips.gg/article/sweden-vs-tunisia-betting-odds/"},
+        {"name": "Hannibal Mejbri", "position": "OM", "verein": "n/v (zuletzt Burnley/Man Utd Leihe)", "rolle": "Kreativ-10er", "verifiziert_via": "https://tips.gg/article/sweden-vs-tunisia-betting-odds/"},
+        {"name": "Naim Sliti", "position": "OM/LF", "verein": "n/v", "rolle": "Veteran-Kreativer", "verifiziert_via": "https://tips.gg/article/sweden-vs-tunisia-betting-odds/"},
+        {"name": "Anis Ben Slimane", "position": "ZM/OM", "verein": "Brondby (Daenemark Superliga)", "rolle": "Junger 8er", "verifiziert_via": "https://tips.gg/article/sweden-vs-tunisia-betting-odds/"},
+        {"name": "Hazem Mastouri Saad", "position": "ST", "verein": "n/v", "rolle": "Hauptstuermer", "verifiziert_via": "https://tips.gg/article/sweden-vs-tunisia-betting-odds/"}
+      ],
+      "injuries_heim": ["Emil Holm (Verletzung Pre-WM, ersetzt durch Herman Johansson 30.05)"],
+      "injuries_gast": ["Detail-Recherche bei Tipps-Routine"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM exklusiv",
+        "gast": "keine - WM exklusiv",
+        "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/sweden/squad", "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/tunisia/squad"]
+      },
+      "saisonziel_heim": "Schweden: 12. WM-Teilnahme. Saisonziel = Achtelfinale (analog 2018-Viertelfinale ohne Wiederholung 2022 verfehlt). Generation Gyokeres+Isak-Klasse-Hoffnung.",
+      "saisonziel_gast": "Tunesien: 7. WM-Teilnahme. Saisonziel = mindestens Achtelfinale (noch nie ueber Gruppenphase hinaus).",
+      "tabellenstand": {"heim_fifa_rank_ca": 23, "gast_fifa_rank_ca": 41, "_kommentar": "Schweden klar hoeher gerankt + Sportscasting-Supercomputer 50.2% vs 24.1% Tunesien Win-Wahrscheinlichkeit."},
+      "form_heim_letzte_5": "_n/v Detail",
+      "form_gast_letzte_5": "_n/v Detail",
+      "recovery_heim": "Erster Spieltag - schwedisches Camp + Reise Monterrey",
+      "recovery_gast": "Erster Spieltag - tunesisches Camp + Reise Monterrey",
+      "quoten": {
+        "bet365_naeherung_via_aggregatoren": {
+          "sieg_heim_schweden_us": "-106",
+          "sieg_heim_schweden_us_fanduel": "-110",
+          "draw_us": "+230",
+          "sieg_gast_tunesien_us": "+300",
+          "sieg_heim_schweden_decimal_ca": 1.95,
+          "draw_decimal_ca": 3.30,
+          "sieg_gast_tunesien_decimal_ca": 4.00,
+          "ueber_2_5_decimal_ca": 2.10,
+          "unter_2_5_decimal_ca": 1.71,
+          "btts_ja_decimal_ca": 2.00,
+          "btts_nein_decimal_ca": 1.73,
+          "dc_1x_decimal_ca": 1.40,
+          "dc_x2_decimal_ca": 1.75,
+          "dc_12_decimal_ca": 1.36,
+          "_kommentar": "Schweden knapp-Favorit aber kein Killshot. Markt-Konsens Unter-2.5 + BTTS-Ja-Coinflip. Wahrscheinlichstes Ergebnis Schweden 1-0 Tunesien (Supercomputer)."
+        },
+        "quelle": "https://news.sportsinteraction.com/soccer/fifa-world-cup/story/sweden-vs-tunisia-odds-prediction-061526-217162"
+      },
+      "news_kompakt": [
+        "Schweden Generation Gyokeres+Isak Klasse-Vorteil aber Tunesien-Underdog mit AFCON-Erfahrung",
+        "Sportscasting-Supercomputer: Schweden 50.2% Win + Unter-2.5 + 1-0-CS",
+        "Estadio BBVA Monterrey 540m moderate Hoehe + Hitze - kaum Konditions-Faktor",
+        "Spaetabend-Spiel mit Tau-Faktor",
+        "Mexikanisches Publikum ggf. leichter Tunesien-Wohlwollen",
+        "Wahrscheinlichste Markt-Picks: Schweden Sieg + Unter-2.5 (Tipps.GG) / DC 1X (Goldgrube-Markt-Typ)"
+      ],
+      "quellen_aggregator": [
+        "https://news.sportsinteraction.com/soccer/fifa-world-cup/story/sweden-vs-tunisia-odds-prediction-061526-217162",
+        "https://www.sportscasting.com/news/supercomputer-sweden-vs-tunisia-betting-picks-predictions-odds/",
+        "https://www.sportytrader.com/en/betting-tips/sweden-tunisia-354100/",
+        "https://www.wincomparator.com/predictions/sweden-tunisia-7937404/",
+        "https://tips.gg/article/sweden-vs-tunisia-betting-odds/",
+        "https://onefootball.com/en/news/sweden-vs-tunisia-prediction-world-cup-2026-preview-best-bets-42995613",
+        "https://www.squawka.com/us/news/world-cup/match-preview-sweden-vs-tunisia-06-14-26-world-cup-2026/",
+        "https://totalfootballanalysis.com/competitions/fifa-world-cup-2026/sweden-v-tunisia-predictions"
+      ],
+      "quellen_squad_news": [
+        "https://www.uefa.com/european-qualifiers/news/02a6-20d159618c27-fd6d64ccd5f6-1000--sweden-at-the-world-cup-2026-squad-fixtures-group-and-hi/",
+        "https://heavy.com/sports/soccer/world-cup/sweden-announces-squad-fifa-world-cup/",
+        "https://thefootballfaithful.com/sweden-2026-world-cup-squad-fixtures-and-schedule/",
+        "https://www.rotowire.com/soccer/article/2026-world-cup-group-f-preview-netherlands-japan-sweden-and-tunisia-lineups-odds-predictions-and-tactics-112643"
+      ]
+    },
+
+    {
+      "id": "2026-06-13-sas-nyk-g5",
+      "liga": "NBA Finals 2026 - Game 5",
+      "wettbewerb_scope_hinweis": "NBA voll in CLAUDE.md-Scope. Erlaubte Maerkte bet365 DE: Moneyline, Spread/Handicap, Ueber/Unter (Spiel+Viertel+Halbzeit), Spieler-Punkte (Einzelner), Double-Double, Triple-Double, Meiste Punkte im Spiel, Serien-Wetten, Quartal-Wetten. VERBOTEN in DE (NIE empfehlen): Einzel-Assists, Einzel-Rebounds, Einzel-Steals, Einzel-Blocks, Einzel-Turnovers, PRA-Kombos, Punkte+Assists oder Punkte+Rebounds Kombi-Stats, Einzelne 3er-Wuerfe (Brunson O 2.5 3PM, Wemby O 3.5 Blocks, KAT O 10.5 Reb = ALLE in DE VERBOTEN).",
+      "heim": "San Antonio Spurs",
+      "gast": "New York Knicks",
+      "heim_kuerzel": "SAS",
+      "gast_kuerzel": "NYK",
+      "anstoss_us_zeit": "Saturday 8:30 PM ET 13.06.2026",
+      "anstoss_lokal": "19:30 CT 13.06.2026 (San Antonio)",
+      "anstoss_berlin": "2026-06-14T02:30:00+02:00",
+      "anstoss_utc": "2026-06-14T00:30:00Z",
+      "stadion": "Frost Bank Center, San Antonio TX (Kapazitaet ~18500) - SAS Heimspiel im Best-of-7-Heimrecht-Verteil G5 (SAS hatte Heimrecht G1+G2, NYK G3+G4, jetzt SAS G5+G7 falls noetig, NYK G6)",
+      "broadcast": "ABC (US) + ABC/Peacock-Stream (DE: Sky Sport NBA-Paket / NBA League Pass)",
+      "series_stand": "3-1 NYK fuehrt nach historischem G4-Comeback Mi 10.06 (NYK 107-106 SAS, Anunoby Tip-In 1.2s rest, NYK kam von 29-Punkte-Defizit zurueck = GROESSTE FINALS-COMEBACK ALLER ZEITEN per bleacherreport.com + reference recherche/2026-06-11.json). G5 = potentieller Series-Clincher fuer NYK auswaerts; SAS MUSS-Sieg sonst Series beendet.",
+      "format": "Best of 7. NYK kann mit G5-Sieg Series gewinnen (4-1) + 1. NBA-Title seit 1973 (53 Jahre Durststrecke beendet). SAS MUSS G5 Heim gewinnen sonst Series tot.",
+      "squad_heim": [
+        {"name": "Victor Wembanyama", "nummer": 1, "position": "C", "rolle": "Starter Starting-C", "g4_status": "Anwesend G4 voll", "saison_punkte_avg_playoffs": 27.8, "verifiziert_via": "https://www.nba.com/team/1610612759/spurs", "hinweis": "WCF-MVP 25/26. Pre-G4 Knoechel-Concern G1 verheilt - in G4 noch 26+ Pkt Klasse-Spiel, aber NYK historisches Comeback aufgrund Q4-NYK-Run + SAS-Endphase-Kollaps. G5 Bounce-Back-Erwartung. KEIN PRA-Kombi-Tipp erlaubt, KEINE Einzel-Reb/Blk (DE verboten). Punkte-Linie O/U erlaubt (Markt-Mid-Punkte ca. 25.5-27.5)."},
+        {"name": "De'Aaron Fox", "nummer": 4, "position": "PG", "rolle": "Starter Starting-PG", "verifiziert_via": "https://www.nba.com/team/1610612759/spurs", "hinweis": "Score-First-PG, kann 25+P. Stamm in G1-G4."},
+        {"name": "Stephon Castle", "nummer": 5, "position": "SG/PG-Hybrid", "rolle": "Starter Combo-Guard", "verifiziert_via": "https://www.nba.com/team/1610612759/spurs", "hinweis": "ROY-25-Kandidat. Punkte-Linie ggf. 14.5-16.5."},
+        {"name": "Julian Champagnie", "nummer": 30, "position": "SF", "rolle": "Starter SF", "verifiziert_via": "https://www.nba.com/team/1610612759/spurs", "hinweis": "3-and-D-Wing-Starter Defensiv-Aufgabe vs Bridges oder Anunoby."},
+        {"name": "Devin Vassell", "nummer": 24, "position": "SF/SG", "rolle": "Starter Wing", "verifiziert_via": "https://www.nba.com/team/1610612759/spurs", "hinweis": "Volume-Wing kann 18-22 P bei Form."},
+        {"name": "Dylan Harper", "nummer": 2, "position": "G (PG/SG)", "rolle": "Sixth Man / Bench-Volume", "verifiziert_via": "https://www.nba.com/team/1610612759/spurs", "hinweis": "Rookie 25/26 Top-3-Pick Draft 25. Volatile Bench-Volume."},
+        {"name": "Keldon Johnson", "nummer": 3, "position": "SF/PF", "rolle": "Bench Sixth-Man-Kandidat", "verifiziert_via": "https://www.nba.com/team/1610612759/spurs", "hinweis": "Heim-Stimmung G5-Boost erwartbar."},
+        {"name": "Luke Kornet", "nummer": 12, "position": "C", "rolle": "Backup-Center", "verifiziert_via": "https://www.nba.com/team/1610612759/spurs"},
+        {"name": "Harrison Barnes", "nummer": 40, "position": "SF/PF", "rolle": "Bench Veteran-Wing", "verifiziert_via": "https://www.nba.com/team/1610612759/spurs"}
+      ],
+      "squad_gast": [
+        {"name": "Jalen Brunson", "nummer": 11, "position": "PG", "rolle": "Starter Starting-PG", "verifiziert_via": "https://www.nba.com/team/1610612752/knicks", "hinweis": "Volume-Scorer + Late-Game-Closer. Punkte-Linie typisch 25.5. KEINE Einzel-Ast/3PM (DE verboten). Snap-Back-Risiko nach G4-Sieg-Adrenalin moeglich, aber Match-Point-Spiel + Clincher-Adrenalin entgegen."},
+        {"name": "Josh Hart", "nummer": 3, "position": "SG", "rolle": "Starter Wing", "verifiziert_via": "https://www.nba.com/team/1610612752/knicks", "hinweis": "Glue-Guy + Rebounding-Wing. Triple-Double-faehig."},
+        {"name": "Mikal Bridges", "nummer": 1, "position": "SF", "rolle": "Starter Wing", "verifiziert_via": "https://www.nba.com/team/1610612752/knicks", "hinweis": "2-Way-Wing Iron-Man. Volume-Punkte 12-18 Range."},
+        {"name": "OG Anunoby", "nummer": 8, "position": "PF/SF", "rolle": "Starter Forward", "verifiziert_via": "https://www.nba.com/team/1610612752/knicks", "hinweis": "Premier-Defender 3-and-D. G4-Match-Winner Tip-In 1.2s rest = GROESSTE-FINALS-COMEBACK-ABSCHLUSS. KEINE Einzel-3PM (DE verboten)."},
+        {"name": "Karl-Anthony Towns", "nummer": 32, "position": "C", "rolle": "Starter Starting-C", "verifiziert_via": "https://www.nba.com/team/1610612752/knicks", "hinweis": "Stretch-Big mit 3PT-Range. Punkte-Linie typisch 16.5 erlaubt. KEINE Einzel-Reb-Linie 10.5 (DE verboten). Foul-Trouble-Risiko vs Wembanyama."},
+        {"name": "Mitchell Robinson", "nummer": 23, "position": "C", "rolle": "Backup-Center", "verifiziert_via": "https://www.nba.com/team/1610612752/knicks", "hinweis": "Pinky-Surgery-Recovery G1-G4 stabil."},
+        {"name": "Miles McBride", "nummer": 2, "position": "PG/SG", "rolle": "Bench Defensive-Guard", "verifiziert_via": "https://www.nba.com/team/1610612752/knicks"},
+        {"name": "Landry Shamet", "nummer": 44, "position": "SG", "rolle": "Bench-Schuetze", "verifiziert_via": "https://www.nba.com/team/1610612752/knicks"},
+        {"name": "Jordan Clarkson", "nummer": 0, "position": "SG", "rolle": "Bench Microwave-Scorer", "verifiziert_via": "https://www.nba.com/team/1610612752/knicks"},
+        {"name": "Jose Alvarado", "nummer": 15, "position": "PG", "rolle": "Bench PG", "verifiziert_via": "https://www.nba.com/team/1610612752/knicks"}
+      ],
+      "injuries_heim": ["Wembanyama (Knoechel-Concern G1 verheilt, G4 voll gespielt - Q2-Status G5 typisch SAS Injury Report Donnerstag-Abend US-Zeit checken)", "Vollstaendiger SAS-Injury-Report 24h vor Tip via NBA-Site"],
+      "injuries_gast": ["Mitchell Robinson (Pinky-Surgery, G1-G4 'cleared' und gespielt, Status G5 = Q play-likely)"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - NBA-Finals exklusiv, Saison-End-Spiel",
+        "gast": "keine - NBA-Finals exklusiv, Saison-End-Spiel",
+        "quellen": ["https://www.nba.com/playoffs/2026/nba-finals", "https://www.cbssports.com/nba/news/2026-nba-finals-schedule-odds/"]
+      },
+      "saisonziel_heim": "Spurs: Western Conference Champion 25/26. Saisonziel = Larry-O'Brien-Trophy = 6. NBA-Title. NBA-Finals-Stand 1-3 = MUSS G5 zu Hause gewinnen + dann G6 auswaerts NYC + G7 SAS-Heim - sehr enger Restweg.",
+      "saisonziel_gast": "Knicks: Eastern Conference Champion 25/26 (1. NBA-Finals seit 1999). Saisonziel = Larry-O'Brien-Trophy = 3. NBA-Title (vorher 1970, 1973 = 53 Jahre Durststrecke). Mit G5-Sieg = SERIES VORBEI + TITLE.",
+      "tabellenstand": {
+        "heim_seed": "Western Conference #1 Seed",
+        "heim_reg_season": "62-20",
+        "gast_seed": "Eastern Conference Champion 25/26",
+        "gast_reg_season": "53-29",
+        "_kommentar": "Spurs bessere Reg-Season aber Knicks im Series-Bring-It-Home-Modus. Markt: SAS -5.5 Spread Heim-Favorit aber NYK series-Favorit -1500 ML zum Title."
+      },
+      "form_heim_letzte_5": "G1 NIEDERLAGE Heim 95-105 - G2 (Ergebnis-Recherche bei Tipps-Routine) - G3 (Ergebnis-Recherche) - G4 NIEDERLAGE Auswaerts 106-107 nach 29-Pkt-Lead-Verlust",
+      "form_gast_letzte_5": "G1 SIEG Auswaerts 105-95 - G2 - G3 - G4 SIEG Heim 107-106 historisches Comeback - 14-game-Playoff-Winning-Streak (NYK pace for history per NBA.com)",
+      "recovery_heim": "2 Tage seit G4 Mi 10.06 - Reise zurueck nach San Antonio, Heim-Stadium-Vorteil",
+      "recovery_gast": "2 Tage seit G4 Mi 10.06 - Reise von NYC nach SAT (3h Flugzeit + 1h Zeit-Diff)",
+      "quoten": {
+        "bet365_naeherung_via_aggregatoren": {
+          "moneyline_heim_sas": "-218",
+          "moneyline_gast_nyk": "+180",
+          "spread_heim": "Spurs -5.5",
+          "total": "O/U 216.5",
+          "_kommentar": "Markt aehnlich G2-Setup: SAS Heim-Favorit aber NYK title-Favorit (-1500 Series-Win). NYK +180 ML = 35.7% impl. Wahrscheinlichkeit fuer den Series-Clincher-Auswaerts-Sieg. SAS MUSS-Sieg-Adrenalin gegen NYK Series-Clincher-Adrenalin = Coinflip-Tendenz mit NYK leichter Edge. Total 216.5 leicht ueber G2-Total 214.5."
+        },
+        "quelle": "https://dknetwork.draftkings.com/2026/06/10/opening-odds-for-knicks-vs-spurs-game-5-in-2026-nba-finals/"
+      },
+      "news_kompakt": [
+        "G4: NYK 107-106 SAS - Anunoby Tip-In 1.2s rest = GROESSTE-FINALS-COMEBACK ALLER ZEITEN (29-Punkte-Defizit)",
+        "NYK fuehrt Series 3-1 - G5 ist Series-Clincher-Chance auswaerts in San Antonio",
+        "SAS MUSS-Sieg sonst Series beendet (kein G6/G7)",
+        "Markt: SAS -218 ML Heim-Favorit (Spread -5.5, Total 216.5), aber NYK Title-Favorit -1500 Series-Win, +180 ML G5",
+        "Brunson + Anunoby G4-Helden - Snap-Back-Risiko nach Adrenalin-G4 zu beachten",
+        "DE-Markt-Schutz: KEINE Einzel-Ast/Reb/Blk/3PM/PRA-Kombos - alle verboten bei bet365 DE",
+        "Wembanyama G1-Knoechel-Concern verheilt G4 voll - G5 erwartbar voll spielfaehig"
+      ],
+      "quellen_aggregator": [
+        "https://dknetwork.draftkings.com/2026/06/10/opening-odds-for-knicks-vs-spurs-game-5-in-2026-nba-finals/",
+        "https://bleacherreport.com/articles/25437946-nba-finals-2026-knicks-vs-spurs-game-5-odds-prop-bets-bracket-predictions",
+        "https://www.vegasinsider.com/nba/matchups/knicks-vs-spurs/",
+        "https://www.si.com/betting/knicks-vs-spurs-opening-odds-for-nba-finals-game-5-san-antonio-favored-to-extend-series",
+        "https://www.cbssports.com/nba/news/2026-nba-finals-schedule-odds/",
+        "https://bleacherreport.com/articles/25437558-knicks-vs-spurs-updated-betting-odds-win-2026-nba-finals-after-epic-game-4-comeback"
+      ],
+      "quellen_squad_news": [
+        "https://www.nba.com/playoffs/2026/nba-finals",
+        "https://sports.yahoo.com/nba/article/nba-finals-2026-when-is-the-new-york-knicks-vs-san-antonio-spurs-game-5-how-to-stream-tv-channel-and-more-102900879.html",
+        "https://www.nbcsports.com/nba/news/how-to-watch-2026-nba-finals-tv-stream-info-schedule-for-new-york-knicks-vs-san-antonio-spurs",
+        "https://www.espn.com/nba/story/_/id/48419498/nba-playoffs-2026-play-finals-schedule-scores-news-highlights-bracket-dates"
+      ]
+    }
+  ],
+
+  "metadata": {
+    "anzahl_spiele": 9,
+    "wm_spiele": 8,
+    "nba_spiele": 1,
+    "fussball_vereine_spiele": 0,
+    "_kommentar_scope": "WM-Spieltag-1 Gruppen B/C/D/E/F sowie NBA-Finals-G5 abgedeckt. Vereins-Fussball Saison-Pause weltweit. Spiele 7+8 (CIV-ECU, SWE-TUN) sind anstoss-berlin Mo 15.06 frueh aber gehoeren zum US-Sonntag-WM-Tag.",
+    "kasse_basis": "550 EUR (Stufe 1 Aufbau-Phase aktiv)",
+    "regel_anwendbarkeit": {
+      "2_0_insurance": "Aktiv fuer WM-2026-direkt-Sieg-Tipps (FIFA WM in CLAUDE.md-Liste mit BL+CL Stand 10.06.2026)",
+      "einwechslungs_boost": "Aktiv fuer Fussball-Torschuetzen-Tipps WM",
+      "nba_markt_blacklist_de": "Einzel-Ast/Reb/Blk/Stl/TO/PRA-Kombos/Punkte+Ast/Punkte+Reb/Einzelne-3er ALLE VERBOTEN",
+      "markt_boykott_wm": "Halbzeit-Endstand-Kombi NIE, Genaues Ergebnis NIE, Erster-Torschuetze WACKEL-max bei Aussenseitern"
+    },
+    "goldgruben_relevant_wochenende": [
+      "Doppelte Chance 1X (84.6%/+9.5% ROI) - bei Schweden, Niederlande, Schottland, Brasilien klar relevant",
+      "Doppelte Chance X2 (77.8%/+9.4% ROI) - bei Schweiz, Tuerkei klar relevant (DC X2 Quoten 1.10/1.20)",
+      "Unter 2.5 Tore (66.7%/+27.5% ROI) - bei Katar-Schweiz (61% BTTS-Nein), Brasilien-Marokko (54% Unter), Ivory Coast-Ecuador (58-60% Unter), Sweden-Tunesien (Konsens-Pick) klar relevant",
+      "Torschuetzen Jederzeit (50%/+24.4% ROI) - bei Volumen-Stuermern wie Havertz, Depay, Schick, Gyokeres relevant"
+    ],
+    "quellen_offiziell": [
+      "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+      "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+      "https://www.nbcsports.com/soccer/news/2026-world-cup-schedule-kick-off-times-stadiums-dates-groups-how-to-watch-live-bracket",
+      "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket",
+      "https://www.nba.com/playoffs/2026/nba-finals"
+    ]
+  },
+
+  "footer": "Recherche-Cloud-Routine Wochenend-Vorschau Sa 13.06 + So 14.06.2026 - reine Datenbasis fuer Donnerstag-Wochenend-Vorschau-Tipps-Routine 18:00 Berlin sowie Tages-Tipps-Routinen Sa 07:00 + So 07:00 Berlin. Squad-Position-Verifikation mit Quellen-Anhang pro Spieler eingehalten (Hojlund-Bug-Schutz: Son LF nicht ST, Schick ST, Musiala 10er-OM, Wirtz OM, Sane LF, Havertz ST, Wemby C). KEINE Tipps generiert. KEINE Cache-Daten - alles live abgefragt 11.06.2026 17:30-19:00 UTC via WebSearch. KEINE Spielernamen erfunden (FIFA + UEFA + offizielle Verband-Listen verifiziert). Spielerschutz 18+ BZgA 0800-1372700 - Hobby-Tool, keine Einnahmequelle."
+}
