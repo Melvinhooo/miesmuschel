@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-06-10T06:10:21+00:00",
+  "letzte_berechnung": "2026-06-11T06:12:37+00:00",
   "gesamt": {
     "tipps": 330,
     "gewonnen": 181,
@@ -13,15 +13,15 @@ window.__MIESMUSCHEL_STAT = {
     "roi_prozent": 8.4
   },
   "letzte_30_tage": {
-    "tipps": 133,
-    "gewonnen": 66,
-    "verloren": 56,
+    "tipps": 122,
+    "gewonnen": 61,
+    "verloren": 50,
     "push": 2,
     "offen": 9,
-    "einsatz": 124.0,
-    "netto": 5.15,
-    "trefferquote": 54.1,
-    "roi_prozent": 4.2
+    "einsatz": 113.0,
+    "netto": 8.95,
+    "trefferquote": 55.0,
+    "roi_prozent": 7.9
   },
   "letzte_90_tage": {
     "tipps": 330,
@@ -3911,6 +3911,48 @@ window.__MIESMUSCHEL_STAT = {
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-06-10",
+      "gesamt": {
+        "tipps": 2,
+        "gewonnen": 2,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 2.0,
+        "netto": 3.89,
+        "trefferquote": 100.0,
+        "roi_prozent": 194.5
+      },
+      "spiele": [
+        {
+          "id": "2026-06-10-nyk-sas",
+          "liga": "NBA Finals Game 4 (Best of 7)",
+          "heim": "New York Knicks",
+          "gast": "San Antonio Spurs",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "San Antonio Spurs Handicap +1.5",
+              "quote": 1.96,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.96,
+              "kommentar": "SAS verlor mit 1 Pkt (106-107), +1.5-Handicap deckt 1-Pkt-Niederlage komplett. Spurs fuehrten zur HZ 76-49 (+27, drittgroesster HZ-Vorsprung in NBA-Finals-Geschichte), Knicks-Comeback aus 29 Pkt Rueckstand (groesster Comeback in NBA-Finals-Geschichte) durch OG-Anunoby-Tip-In nach Brunson-Miss 1.2 Sek vor Schluss."
+            },
+            {
+              "markt": "Unter 216.5 Gesamtpunkte (FT)",
+              "quote": 1.93,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.93,
+              "kommentar": "Endstand 107-106 = 213 Total < 216.5. Knapp gewonnen aber gewonnen - SAS-2.HZ-Wurf-Kollaps (3/17 von Downtown) drueckte Total trotz 1.HZ-Eskalation (125 in 1.HZ projiziert)."
+            }
+          ]
+        }
+      ],
+      "kombis": []
+    },
     {
       "datum": "2026-06-08",
       "gesamt": {
