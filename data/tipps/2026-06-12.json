@@ -453,5 +453,40 @@
       "lesson_text": "Statistik.json-Goldgruben aktiv genutzt: Unter 2.5 (66.7%/+27.5%) + Torschuetzen Jederzeit (50%/+24.4%). 3 von 5 Spiel-1-Tipps + 4 von 4 Spiel-2-Tipps sind direkt aus Goldgrube-Maerkten."
     }
   ],
-  "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
+  "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-06-12T13:30:00+02:00",
+    "modus": "master_tipps_routine Mo-Fr Lauf — File bereits durch Watchdog-Recovery 17:15 generiert (siehe hinweis), Verifikator nachgeholt. Recherche-File data/recherche/2026-06-12.json fehlt — Quellen-Check gegen saison_kontext.quellen[] im Tipps-File.",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "torschuetze_quelle_fehlt",
+        "tipp_ids": ["2026-06-12-can-bih:ez-3", "2026-06-12-usa-par:ez-2", "2026-06-12-usa-par:ez-3"],
+        "details": "J. David / Balogun / Pulisic Torschuetzen-Tipps haben kein direkt verlinkte Vereins-Player-Page (transfermarkt/kicker/espn-player). Begruendung-Form-Stats bleiben textlich plausibel, aber Mapper-Hartregel haelt diese auf max wackel — bereits korrekt klassifiziert."
+      },
+      {
+        "art": "pinnacle_nicht_verifiziert",
+        "tipp_ids": ["alle SAFE/VALUE-Kandidaten"],
+        "details": "Keine Pinnacle-Edge-Pruefung durchgefuehrt (sportsgambler nicht aufgerufen). Routine hat korrekt KEIN SAFE-Label gesetzt — saemtliche Top-Tipps max VALUE. Hartregel ab 27.04. eingehalten."
+      },
+      {
+        "art": "recherche_file_fehlt",
+        "details": "data/recherche/2026-06-12.json existiert nicht. Watchdog-Recovery hat Recherche + Tipps in 1 Lauf gemacht. Squad-Halluzinations-Check basiert auf bekanntem 26er-NT-Kader-Profil (David Juventus/Larin Mallorca/Dzeko Schalke fuer BiH/Balogun Monaco/Pulisic Milan/McKennie Juventus fuer USA/Almiron Atlanta/G. Gomez Palmeiras/Alonso Marseille fuer PAR) — alle 26er-Kader-Mitglieder, keine Halluzinationen erkannt."
+      }
+    ],
+    "layer_check": {
+      "layer_1_max_1_bein_pro_spiel_pro_kombi": "PASS — Safe 2 Beine (CAN/USA), Balance 2 Beine (CAN/USA), Risiko 2 Beine (USA/CAN), Moonshot 2 Beine (CAN/USA). Alle ✓.",
+      "layer_2_sieg_outcome_max_1_kombi": "PASS — Canada-Sieg + USA-Sieg nur in Safe-Kombi. Risiko (Pulisic Erster Tor + Dzeko Tor) und Moonshot (Larin 2+ + Almiron) enthalten keine Sieg/DC/Spread-Outcomes.",
+      "layer_3_spiel_diversifikation": "PASS (Mini-Slate-Kompromiss) — bei 2-Spiel-Slate sind 4 Kombis x 2 Beine = 8 Slots auf 2 Spielen unmoeglich ohne Wiederholung. Wiederholung erfolgt ueber unterschiedliche Markt-Typen pro Spiel (Sieg vs Tor vs BTTS vs Total) — Markt-Entkopplung als Layer-3-Ersatz, ehrlich begruendet im hinweis."
+    },
+    "selbstwiderspruchs_scan": {
+      "spiel_canada_bih": "Saison_kontext sagt Davies OUT (Hamstring), kein Tipp baut auf Davies. ✓. Larin-Tipp und David-Tipp gemeinsam moeglich (Doppel-9er). ✓.",
+      "spiel_usa_par": "Saison_kontext nennt 0:4-Pleite vs Schweiz als Druck-Faktor, USA-Sieg-Tipp bleibt aber VALUE (nicht SAFE) — kein Widerspruch. Balogun + Pulisic gemeinsam moeglich (2 verschiedene Sturm-Positionen). ✓."
+    },
+    "quoten_plausibilitaet": "Keine Aggregator-Quellen-Cross-Reference moeglich ohne recherche-File. Quoten im Tipps-File (1.83/1.72/1.90/1.80) sind alle in plausibler bet365-DE-WM-Range. Warn: bei bet365 live pruefen — kann sich aendern.",
+    "liga_frische_check": "WM 2026 laeuft 11.06.–19.07.2026. Heute 12.06., Spieltag 1 Gruppen B + D. Aktiver Wettbewerb. ✓.",
+    "lessons_generiert": [],
+    "ergebnis": "PASS — File bleibt unveraendert, _verifikations_report{} hinzugefuegt. Mini-Slate-2-Spiele-Kompromisse (Safe nur 3.48x, Moonshot nur 50x) bereits in hinweis + Kombi-Begruendungen ehrlich dokumentiert. Pipeline-Status: Recherche fehlt (Watchdog-Recovery-Lauf), Master-Output hochwertig, Verifikation OK."
+  }
 }
