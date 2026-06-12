@@ -86,36 +86,9 @@
         "Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI (n=154, beste VALUE-Range statistik.json).",
         "Goldgrube-Markt 'Torschuetzen Jederzeit' +16.1% ROI / 38.8% HR (n=51): Vinicius Jr mit Real-Madrid-LaLiga-Form, 22 Pflichtspieltore 2025/26 - klares Form-Edge-Pflichtprofil Auswaerts-Favorit fuer Brasilien (Aussen-Stuermer mit hoher Tor-Quote). Einwechslungs-Boost-Hedge: Endrick als 9er-Backup."
       ],
-      "tipps": [
-        {
-          "id": "ez-2",
-          "markt": "Brasilien Sieg (1X2)",
-          "kategorie": "wackel",
-          "quote": 1.57,
-          "empfohlener_einsatz_prozent": 1.5,
-          "empfohlener_einsatz_euro": 8.25,
-          "begruendung": "Brasilien hat klare Klassen-Edge (FIFA #5 vs #13, Star-Power Vinicius/Raphinha/Endrick), aber Marokko ist 2022-HF + 5 ungeschlagen - VALUE nicht SAFE (Lesson 30.04 Klassen-Edge-Final-Tor-Verteilung-Vorsicht). 2:0-Insurance-Regel WM 2026 aktiv (CLAUDE.md): Brasilien-Sieg-Tipp gewinnt bei bet365 schon ab 2:0-Fuehrung - Schutz gegen spaeten Marokko-Anschluss. Quote 1.57 = VALUE-Sweet-Spot. Konsens-Quote via Squawka/SportingLife/DraftKings verifiziert. Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI - beste VALUE-Range. Form-Edge-Pflicht-Profil Auswaerts-Favorit: in Kombi-Anker (Layer-2: dieser Sieg-Outcome geht in Safe-Kombi, andere Kombis nutzen Total/Player/Tor). [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
-          "edge_prozent": 10,
-          "faire_quote": 1.42,
-          "pinnacle_verifiziert": false,
-          "rang": 1,
-          "_saison_kontext_sanity_downgrade": true
-        },
-        {
-          "id": "ez-3",
-          "markt": "Vinicius Junior trifft jederzeit (Brasilien)",
-          "kategorie": "value",
-          "quote": 2.3,
-          "empfohlener_einsatz_prozent": 1.0,
-          "empfohlener_einsatz_euro": 5.5,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+16.1% ROI / 38.8% HR, n=51 - BESTER Markt im System nach Hitrate-x-ROI). Vinicius Jr: Real-Madrid-LaLiga-Saisonsieger 2025/26, 22 Pflichtspieltore, Linksaussen mit hoher Volumen-Quote in offenen Spielen. Marokko-Defensive solide (Aguerd/Saiss) aber gegen Real-Madrid-Form von Vinicius bei einem Klassen-Sieg-Spiel = mehrere Chancen erwartbar. Form-Edge-Pflicht-Profil (Lesson Hitrate-50%-Form-3+Tore-in-5): erfuellt. Einwechslungs-Boost-Hedge greift bei Brasilien (CLAUDE.md): falls Vinicius gegen Endrick/Rodrygo getauscht wird, deren Tore zaehlen mit. Reality-Check Quoten 2.00-3.00: 41.7% HR / +9.0% ROI. Aufstellung 1h vor Anstoss pruefen.",
-          "edge_prozent": 12,
-          "faire_quote": 2.05,
-          "pinnacle_verifiziert": false,
-          "rang": 2
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-06-14-hai-sco",
@@ -150,22 +123,9 @@
         "Reality-Check Quoten 1.00-1.50: 76.9% HR / +7.2% ROI (n=39, beste Hitrate-Range statistik.json).",
         "Sportscasting Supercomputer: Schottland 63% Win / Haiti 17%. Kalshi: Schottland 63% / X 22% / Haiti 16%."
       ],
-      "tipps": [
-        {
-          "id": "ez-4",
-          "markt": "Schottland Sieg (1X2)",
-          "kategorie": "value",
-          "quote": 1.44,
-          "empfohlener_einsatz_prozent": 1.5,
-          "empfohlener_einsatz_euro": 8.25,
-          "begruendung": "Klassen-Edge Schottland FIFA #34 vs Haiti #87. Konsens-Predictoren Sportscasting/Kalshi 63%. Stamm-Schottland Robertson/McTominay/McGinn/Adams = mehr PL/Top-5-Spieler in Startelf als Haiti im gesamten Kader. Klub-Pause 3 Wochen + Trainingscamp. 2:0-Insurance-Regel WM 2026 aktiv (CLAUDE.md): Schottland-Sieg-Tipp gewinnt bei bet365 schon ab 2:0-Fuehrung - selbst bei Haiti-Anschluss-Tor zur HZ-Schluss-Phase gewonnen. Quote 1.44 = VALUE-Sweet-Spot. Reality-Check Quoten 1.00-1.50: 76.9% HR (beste Range). Konsens-Quote via Squawka/SportingLife/Sportscasting verifiziert. VALUE statt SAFE wegen WM-Debutant-Variance + Auftakt-Phase-Defensive-Tendenz (Lesson CLAUDE.md WM-Phasen 'Spiele 1-2 oft taktisch').",
-          "edge_prozent": 9,
-          "faire_quote": 1.33,
-          "pinnacle_verifiziert": false,
-          "rang": 1
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-06-14-aus-tur",
@@ -199,22 +159,9 @@
         "Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI (n=154, beste VALUE-Range statistik.json).",
         "Kalshi-Konsens: Tuerkei 58% / X 26% / Australien 18% - moderater Klassen-Edge, kein Coinflip aber auch kein klarer SAFE."
       ],
-      "tipps": [
-        {
-          "id": "ez-5",
-          "markt": "Tuerkei Sieg (1X2)",
-          "kategorie": "value",
-          "quote": 1.8,
-          "empfohlener_einsatz_prozent": 1.0,
-          "empfohlener_einsatz_euro": 5.5,
-          "begruendung": "Klar moderater Klassen-Edge: Tuerkei-Achse Calhanoglu (Inter) + Guler (Real Madrid) + Akturkoglu (Galatasaray) vs Australien mit nur 2-3 PL-/Top-Liga-Spielern. Kalshi 58% / Australien 18%. Calhanoglu-Mueidigkeits-Risiko (Inter ~50 Pflichtspiele + Coppa-Final Mai) eingerechnet aber Tuerkei-Tiefe (Yokuslu / Aktoprak Sarr Wolves) deckt das ab. 2:0-Insurance-Regel WM 2026 aktiv (CLAUDE.md): Tuerkei-Sieg-Tipp gewinnt bei bet365 schon ab 2:0-Fuehrung. Quote 1.80 = VALUE-Sweet-Spot. Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI. Konsens-Quote via Squawka/Socceroos/Tuerkische Konsens verifiziert. VALUE statt SAFE - Auftakt-Variance + Calhanoglu-Schon-Option.",
-          "edge_prozent": 8,
-          "faire_quote": 1.66,
-          "pinnacle_verifiziert": false,
-          "rang": 1
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-06-14-sas-nyk",
@@ -249,22 +196,9 @@
         "Lesson 02.05 NBA-Decider-Defensiv-These Track-Record nach G4 (G1: 200<218.5 HIT, G2: 209<214.5 HIT, G3: 226>216.5 MISS, G4: 213<216.5 HIT) = 3/4 = 75% - Unter-Linie wieder aktiv.",
         "Lesson 18.05 NBA-Game7-Heim-Underdog-Crash bestaetigt + Lesson 03.06 Spurs-G7-Hangover-VALUE-Auswaerts-Underdog. G5 hat beide Pattern: SAS Heim-Underdog (Spread) + NYK-Auswaerts-Favorit nach G4-Comeback-Adrenalin."
       ],
-      "tipps": [
-        {
-          "id": "ez-6",
-          "markt": "Unter 216.5 Gesamtpunkte (FT)",
-          "kategorie": "wackel",
-          "quote": 1.93,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 2.75,
-          "begruendung": "NBA-Playoff-Hartregel CLAUDE.md (Hebel B) und NBA-Decider-Status: max WACKEL fuer Total/Spread. Lesson 02.05 NBA-Decider-Defensiv-These Track-Record G1-G4 = 3/4 = 75% (HIT/HIT/MISS/HIT). G5 = MUSS-Sieg-SA mit Heim-Defensiv-Druck + NYK-Auswaerts-Closing-Vorsicht = beide Teams gehen auf Possession-Kontrolle statt Tempo-Run. Brunson-Knie-Discomfort + Wemby G4-Wurf-Kollaps drueckt Volumen. Quote 1.93 Konsens FanDuel - bei bet365 DE live pruefen (DK liegt sogar bei 215.5). Stake-Cap 0.5% = 2.75 EUR.",
-          "edge_prozent": null,
-          "faire_quote": 1.93,
-          "pinnacle_verifiziert": false,
-          "rang": 1
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-06-14-ger-cur",
@@ -312,19 +246,6 @@
           "faire_quote": 1.07,
           "pinnacle_verifiziert": false,
           "rang": 1
-        },
-        {
-          "id": "ez-8",
-          "markt": "Kai Havertz trifft jederzeit (Deutschland)",
-          "kategorie": "value",
-          "quote": 1.8,
-          "empfohlener_einsatz_prozent": 1.5,
-          "empfohlener_einsatz_euro": 8.25,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+16.1% ROI / 38.8% HR, n=51 - BESTER Markt im System). Havertz: Arsenal-Stuermer 18 PL-Tore 2025/26 (CL-Finalist) + voraussichtlicher 9er-Starter Deutschland (Nagelsmann-Tendenz aus 2024+25 Praeferenz) - Form-Edge-Pflicht-Profil 'HEIM-/AUSWAERTS-Favorit mit Top-Stuermer in Form' erfuellt. Curacao-Defensive nicht PL-tauglich. Einwechslungs-Boost-Hedge greift: falls Havertz fuer Fuellkrug/Wirtz/Musiala getauscht wird, deren Tore zaehlen mit (CLAUDE.md). Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI. Konsens-Quote 1.80 via Squawka verifiziert. Aufstellung 1h vor Anstoss pruefen (Wirtz als falsche 9 ist Alternative-Plan).",
-          "edge_prozent": 12,
-          "faire_quote": 1.6,
-          "pinnacle_verifiziert": false,
-          "rang": 2
         }
       ],
       "kontext_check_status": "OK"
@@ -411,22 +332,9 @@
         "Coinflip-Erkennungs-Hartregel (CLAUDE.md): 1X2-Quoten 2.45/2.80/3.50 = COINFLIP, KEIN SAFE moeglich, max 3 Tipps. Heute kein Einzeltipp gesetzt - Spiel ist in Kombi-Risiko-Bein verwertbar.",
         "Markt-Goldgrube 'Unter 2.5 Tore' +33.3% ROI / 68.8% HR (n=16 - bester ROI-Markt). CIV-Defensiv-Identitaet (2 Afrika-Cup-Spiele-Schnitt 1.7 Tore) + Ecuador 83% Unter-2.5-Quote in eigenen Spielen (Beccacece-Defensive-System) = klassisches Niedrig-Tor-Setup mit Doppel-Defensiv-Edge. Aber CIV-Mueidigkeit + Pacho-CL-Final-Hangover macht 1X2 unbespielbar als Einzel-SAFE."
       ],
-      "tipps": [
-        {
-          "id": "ez-10",
-          "markt": "Unter 2.5 Tore",
-          "kategorie": "value",
-          "quote": 1.65,
-          "empfohlener_einsatz_prozent": 1.0,
-          "empfohlener_einsatz_euro": 5.5,
-          "begruendung": "Markt-Goldgrube 'Unter 2.5 Tore' +33.3% ROI / 68.8% HR (n=16) - BESTER ROI-Markt im System. CIV-Defensive (Cup-Sieger-Cattenaccio-System mit Sangare/Diomande, Cup-Schnitt 1.7 Tore/Spiel) + Ecuador 83% Unter-2.5-Quote in eigenen Spielen (Beccacece-Defensive-Identitaet, 1:0 in 3/3 H2H vs Guatemala-aehnliche Klassen). Direkter Konkurrenz-Showdown in Gruppe E (beide brauchen Pkt fuer Achtelfinale) = beide vorsichtig, kein Risk-Spiel. Lesson 06.06 WM-Phasen 'Spiele 1-2 oft taktisch'. Quote 1.65 in Reality-Check 1.50-2.00: 54.4% HR / +11.8% ROI. Konsens-Quote via Squawka/SportsInteraction verifiziert. VALUE statt SAFE wegen WM-Auftakt-Variance (n=0 historisch fuer beide Teams als WM-Match).",
-          "edge_prozent": 10,
-          "faire_quote": 1.5,
-          "pinnacle_verifiziert": false,
-          "rang": 1
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-06-15-swe-tun",
