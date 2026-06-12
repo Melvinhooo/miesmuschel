@@ -1,5 +1,5 @@
 {
-  "letzte_berechnung": "2026-06-11T06:12:37+00:00",
+  "letzte_berechnung": "2026-06-12T07:14:37+00:00",
   "gesamt": {
     "tipps": 330,
     "gewonnen": 181,
@@ -3910,6 +3910,174 @@
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-06-11",
+      "gesamt": {
+        "tipps": 6,
+        "gewonnen": 3,
+        "verloren": 3,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 6.0,
+        "netto": -1.14,
+        "trefferquote": 50.0,
+        "roi_prozent": -19.0
+      },
+      "spiele": [
+        {
+          "id": "2026-06-11-mex-rsa",
+          "liga": "FIFA WM 2026 Gruppenphase Spieltag 1 (Gruppe A)",
+          "heim": "Mexiko",
+          "gast": "Suedafrika",
+          "endstand": "2:0",
+          "tipps": [
+            {
+              "markt": "Mexiko Sieg (90 Min)",
+              "quote": 1.48,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.48,
+              "kommentar": "Mexico 2:0 Sieg — direkter 1X2-Sieg-Tipp gewonnen. 2:0-Insurance war irrelevant (Mexico hielt 2:0)."
+            },
+            {
+              "markt": "Unter 2.5 Tore (Gesamt)",
+              "quote": 1.68,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.68,
+              "kommentar": "Endstand 2:0 = 2 Tore < 2.5. Markt-Goldgrube Unter 2.5 wieder bestaetigt. WM-Eroeffnungs-Defensive-Pattern (7/10) griff."
+            },
+            {
+              "markt": "Beide Teams treffen — Nein",
+              "quote": 1.7,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.698,
+              "kommentar": "Suedafrika ohne Tor (Bafana-0/4-Tore-Pre-WM-Pattern hielt). BTTS-Nein gewonnen."
+            }
+          ]
+        },
+        {
+          "id": "2026-06-12-kor-cze",
+          "liga": "FIFA WM 2026 Gruppenphase Spieltag 1 (Gruppe A)",
+          "heim": "Suedkorea",
+          "gast": "Tschechien",
+          "endstand": "2:1",
+          "tipps": [
+            {
+              "markt": "Unter 2.5 Tore (Gesamt)",
+              "quote": 1.62,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Endstand 2:1 = 3 Tore — Unter 2.5 verloren. 2.HZ-Eskalation (3 Tore in 30 Min nach 0:0-HZ): Krejci 59., Hwang 67., Oh 80. Korea-14/15-BTTS-Nein-Pattern hielt nicht, Spieltag-1-Defensiv-Pattern galt nur fuer 1.HZ."
+            },
+            {
+              "markt": "Beide Teams treffen — Nein",
+              "quote": 1.91,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "BTTS: Tschechien (Krejci 59.) + Suedkorea (Hwang 67. + Oh 80.) = JA. BTTS-Nein verloren. Korea-Historie-Pattern brach."
+            },
+            {
+              "markt": "Patrik Schick — erster Torschuetze des Spiels",
+              "quote": 4.9,
+              "kategorie": "risk",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Erster Torschuetze war Krejci (Tschechien IV, 59. Min Kopfball nach Coufal-Einwurf), nicht Schick. Schick blieb torlos. Lotterie-Markt verloren wie erwartet."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi (~2.40x)",
+          "kategorie": "safe",
+          "gesamtquote": 2.4,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Mexiko Sieg (90 Min)",
+              "quote": 1.48,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Unter 2.5 Tore (Gesamt)",
+              "quote": 1.62,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi (~4.03x)",
+          "kategorie": "balance",
+          "gesamtquote": 4.03,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Unter 2.5 Tore (Gesamt)",
+              "quote": 1.68,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Son Heung-min trifft jederzeit",
+              "quote": 2.4,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi (~6.88x)",
+          "kategorie": "risk",
+          "gesamtquote": 6.88,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Raul Jimenez trifft jederzeit",
+              "quote": 2.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Tschechien Sieg (90 Min)",
+              "quote": 2.75,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi (~9.07x)",
+          "kategorie": "moonshot",
+          "gesamtquote": 9.07,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Mexiko zu Null (Suedafrika trifft nicht)",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Patrik Schick — erster Torschuetze des Spiels",
+              "quote": 4.9,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-06-10",
       "gesamt": {

@@ -1,1211 +1,1239 @@
 // Automatisch erzeugt aus data/lessons.json.
 window.__MIESMUSCHEL_LESSONS = {
-    "notiz": "Lessons werden von Claude im Chat gepflegt (oder per Hand). Chronologisch, jede Lesson auf ein konkretes Spiel beziehen wenn moeglich. | 2026-05-14: +4 Lessons (Drehungs-Cluster + Saison-Verletzungs-Check-Pre-Match + Coinflip-Saisonende-Validierung + Top-Team-Pflicht-Final-7d-Schon) | 2026-05-15: +4 Lessons (Closeout-G6-Auswaerts-Blowout-Pattern + Sweep-Abwehr-Verfeinerung + Top-Team-Final-Schon-INVERS-bei-Karriere-Highlight + Korrelations-Schutz-Cap-Heim-Sieg-Cluster) | 2026-05-18: +4 Lessons (Top-Team-B-Elf-CL-Final-Cluster + Karriere-Highlight-Tor-Markt-Verfeinerung + NBA-Game7-Heim-Underdog-Crash + Einwechslungs-Boost-Timing-Filter) | 2026-05-19: +4 Lessons (Top-Team-CL-Final-12d-Star-9er-Schon-Pre-Final + Markt-Goldgrube-N6-Sample-Bias-Subfilter + Anti-Boost-1-0-Fuehrungs-Sub + Mini-Spiele-Tag-Kombi-Diversifikations-Cap) | 2026-05-20: +4 Lessons (Risiko-Kombi-Tag-Retter-Validation-3 + NBA-Heim-Comeback-Drehung-Recovery-Asymmetrie + Heim-Festung-15-SAFE-Downgrade-Trigger + HR2-Verletzungs-Crash-Subfilter) | 2026-05-21: +4 Lessons (Klassen-Edge-Final-Volume-9er-Schweigen + Volume-Player-sport-uebergreifend-korreliert + Konsens-Best-Bet-Cluster-Trap + Mini-Spiele-Tag-Safe-Only-Hartregel) | 2026-05-22: +4 Lessons (Doppelspiel-Hinspiel-Tor-Festival-widerlegt + NBA-Star-Defense-Adjust-G1-Hot-Hand-Subfilter + Sekundaer-Volume-Star-Eruption-Pattern + Anti-Festungs-Tor-Markt-Sperre) | 2026-05-23: +4 Lessons (NBA-Bench-Tiefen-Asymmetrie-Subfilter-HR18 + Sekundaer-Volume-Star-G3-Snap-Back-Risiko-Subfilter + NBA-Star-G3-Snap-Back-Erlaubnis-Reverse + Serie-A-Saisonende-Dead-Rubber-Tor-Markt-Boykott-Erweiterung) | 2026-05-24: +4 Lessons (Roster-Backup-Pick-Falle-Vinicius-Vereinssperre + Drehungs-Comeback-Cluster-Champion-Saisonende + LaLiga-Schlusstag-Unter25-Markt-Pattern + Torschuetzen-Haushoher-Favorit-Elfschuetze-INVERS-zu-2105) | 2026-05-25: +4 Lessons (Schlusstag-Motivations-Asymmetrie-These-widerlegt + Champion-Saisonende-Drehungs-Cluster-2-Tage-Serie + Dead-Rubber-Schlusstag-Unter-Tendenz-statt-Ueber + NBA-WCF-Total-Ueber-Goldgrube-gebrochen-Muss-Sieg-Defensiv) | 2026-05-26: +4 Lessons (NBA-0-3-Elimination-G4-Blowout-Risiko-Sweep-These-eingegrenzt + Ko-Entscheidungsspiel-Sieg-regulÃ¤r-Falle-VerlÃ¤ngerung + Goldgrube-PrioritÃ¤t-validiert-dÃ¼nner-Coinflip-Tag + Mini-Spiele-Tag-Korrelation-1-Game-Single-Point-of-Failure) | 2026-05-27: +2 Lessons (Star-Out-Tiefe-These-widerlegt-OKC-ohne-JWilliams + WCF-Ueber-Goldgrube-Bruch-war-Einzel-Ausreisser-Re-Kalibrierung) | 2026-05-28: +4 Lessons (HR24-Form-Edge-Defense-Spezialist-Subfilter-Sarr-Bruch + Europa-Pokal-Finale-Unter-2.5-Default-Hartregel-Validation + Klassen-Edge-Final-Tor-Verteilung-Subfilter-Open-Play-vs-Standard + Mini-Spiele-Tag-Goldgrube-Stake-Konzentration-validiert) | 2026-05-29: +4 Lessons (Wemby-Bounce-Back-Stamm-Volume-Star-Snap-Back-Bestaetigung + SAS-Heim-Muss-Sieg-Unter-WCF-Re-Kalibrierung-n2-Validierung + OKC-Bench-Tiefe-These-Defense-Adjust-Subfilter-G+1-Begrenzung + Mini-Spiele-Tag-Konzentrations-Strategie-validiert-NBA-DD-Anker) | 2026-05-30: +4 Lessons (Pokal-Finale-1X2-Verlaengerungs-Hedge-Hartregel-CL-Validation + Wemby-Rebound-Volatilitaet-G7-Auswaerts-DD-Subfilter + G7-Heim-Crash-Defending-Champion-Star-OUT-These-validiert-n2 + Einwechslungs-Boost-Final-ET-Phase-Filter) | 2026-06-03: +3 Lessons (Spurs-G7-Hangover-These-validiert-VALUE-Auswaerts-Underdog + Defense-System-Edge-Star-Bench-Comeback-Korridor + Mini-Spiele-Tag-Konzentrations-Strategie-validiert-n2-NBA-Pseudo-Hedge) | 2026-06-06: +4 Lessons (NBA-Finals-G2-Heim-Bounce-77-These-Re-Kalibrierung-Finals-Slot + Drehungs-Cluster-Doppel-Heimfuehrung-zweistellig-verloren-volle-Analyse + Star-Bounce-Back-These-vs-Team-Sieg-Asymmetrie + Mini-Spiele-Tag-Pseudo-Hedge-n3-Validierung-NBA-Decider-Unter-Anker) | 2026-06-07: +4 Lessons (Einwechslungs-Boost-Doppel-Hit-WM-Test + Boost-Massen-HZ-Sub-Falle-Vinicius-Endrick + Markt-Pattern-WM-Test-Ueber25-80pct-8g + Klassen-Edge-realisiert-Sieg-nicht-Tor-Anzahl-B-Elf-Schon) | 2026-06-08: +4 Lessons (Roster-Verifikations-Joker-Falle-Plata + WM-Test-Ueber25-Final-Test-Defensiv-Subfilter + Friendly-Torschuetzen-Mass-Sub-Boost-Falle-n3 + Klassen-Edge-Sieg-Goldgrube-n3-Validation) | 2026-06-09: +4 Lessons (NBA-Decider-Defensiv-These-G3-Bruch-Re-Kalibrierung + Center-DD-Cluster-Falle-High-Score + Mini-Spiele-Tag-Total-Slate-Ausfall-Stake-Cap + Wemby-Bounce-Back-Last-Shot-Miss-Trigger) | 2026-06-11: +4 Lessons (Mini-Spiele-Pseudo-Hedge-n4-Drehung-Stresstest + NBA-Decider-Defensiv-G4-HIT-3/4 + Pattern-N<=5-Spread-Insurance-Hartregel + Junges-Roster-Q3-Kollaps-Volle-Analyse-Datapoint)",
-    "lessons": [
-        {
-            "datum": "2026-04-22",
-            "kategorie": "Formphase",
-            "lesson": "Real Madrid nach CL-Aus unberechenbar â€” Heimspiele gegen kleine Gegner kippen oft zu BTTS / 3+ Tore. In solchen Wochen lieber Torfestival-Markt als reiner Sieg-Tipp.",
-            "bezug_spiel_id": null
-        },
-        {
-            "datum": "2026-04-22",
-            "kategorie": "NBA Playoff Varianz",
-            "lesson": "NBA-Playoff-Spielerpunkte NIE als SAFE markieren. G1 kann 35 Punkte bringen, G2 nur 5. Immer WACKEL oder VALUE mit reduziertem Einsatz.",
-            "bezug_spiel_id": null
-        },
-        {
-            "datum": "2026-04-22",
-            "kategorie": "Aufstellung",
-            "lesson": "Aufstellung erst 1h vor Anstoss abrufen â€” Torschuetzen-Tipps auf Einwechselspieler fast nie gewonnen (Thuram-Fall v13).",
-            "bezug_spiel_id": null
-        },
-        {
-            "datum": "2026-04-23",
-            "kategorie": "NBA Player-Props bei Blowout-Risiko",
-            "lesson": "Player-Props des UNDERDOG-Teams sind bei Blowout-Gefahr faktisch WACKEL, selbst wenn Saisonschnitt drueber liegt. Bane + Wagner am 22.04. als SAFE gekennzeichnet, beide 12 Pkt (Linien 17.5 / 15.5), weil Magic 15 Punkte verloren -> Q4 Bankdruecker. Regel: Wenn Spread > 8 Pkt, Player-Props des Underdogs max. VALUE, besser WACKEL.",
-            "bezug_spiel_id": "2026-04-22-pistons-magic"
-        },
-        {
-            "datum": "2026-04-23",
-            "kategorie": "Double-Double Realitaetscheck",
-            "lesson": "Double-Double nur dann als VALUE wenn BEIDE Stats (meist Pkt + Reb) realistisch auf 10+ zusteuern. Banchero 22.04. mit 18/6/8 â€” nur Punkte zweistellig. Saisonschnitt 21/8 bedeutet Rebounds sind KEIN Selbstlaeufer. Bei DD-Tipps Verteilung der zweiten Statistik checken, nicht nur den Schnitt.",
-            "bezug_spiel_id": "2026-04-22-pistons-magic"
-        },
-        {
-            "datum": "2026-04-23",
-            "kategorie": "Under-Tipps bei einseitigem Spiel",
-            "lesson": "Under-Totals nur wenn BEIDE Teams defensiv/langsam spielen. Thunder-Suns 22.04.: Under 215.5 verloren (227 gesamt), weil Suns als Underdog offen spielen mussten. Regel: Bei grossem Favoriten (Spread > 10) ist das Under-Risiko real â€” Underdog geht All-Out auf Tempo.",
-            "bezug_spiel_id": "2026-04-22-thunder-suns"
-        },
-        {
-            "datum": "2026-04-24",
-            "kategorie": "Sweep-Abwehr-Heimsieg",
-            "lesson": "Bei 0-2 Serienstand explodiert das Heimteam oft in G3. Raptors als -5.5-Dog gegen 2-0-Cavs gewannen 126:104 (Upset +22 ggÃ¼. Linie). Regel: Sieg-Tipp auf den Auswaerts-Favoriten bei Sweep-Druck NICHT als SAFE markieren â€” max VALUE. Bei -150 oder niedriger Moneyline eher Finger weg und lieber ueber/unter-Total spielen.",
-            "bezug_spiel_id": "2026-04-23-cavs-raptors"
-        },
-        {
-            "datum": "2026-04-24",
-            "kategorie": "Playoff-Spielerpunkte scharfer",
-            "lesson": "NachgeschÃ¤rfte Lesson: NBA-Playoff-Spielerpunkte max WACKEL (nicht VALUE), ausser der Spieler spielt in einem engen Spiel ohne Blowout-Gefahr UND die Linie ist nicht nach einem Hot-Hand-G2 hochgesetzt. 23.04.: Edwards 30->17 (Wolves gewannen 113:96 aber Blowout -> Q4 Bank), Mitchell -> 15 (Cavs Blowout verloren). 1/3 Hitrate heute trotz VALUE-Label zeigt: Varianz ueberschreibt Form.",
-            "bezug_spiel_id": null
-        },
-        {
-            "datum": "2026-04-25",
-            "kategorie": "NBA-G3 Heim-Favorit unter Sweep-Druck",
-            "lesson": "Auch der HEIM-FAVORIT in Sweep-Abwehr (eigene Serie 0-2 hinten, G3 zuhause, Buchmacher-Favorit) ist NICHT zuverlaessig. 24.04.: Rockets -9.5 Heim-Favorit gegen Lakers (ohne Doncic + Reaves) verloren 108:112 OT, Lakers nun 3-0. LeBron 29 Pkt, Smart 21, Hachimura 22 trotz fehlender Stars. KomplementÃ¤r zur 23.04.-'Sweep-Abwehr-Heimsieg'-Lesson (Heim-Underdog kann gewinnen). Regel: G3 mit Sweep-Druck = KEIN safer Sieg-Tipp egal welche Seite â€” Spread-Markt oder Live-Total bevorzugen, niemals SAFE.",
-            "bezug_spiel_id": "2026-04-25-rockets-lakers-g3"
-        },
-        {
-            "datum": "2026-04-25",
-            "kategorie": "SAFE-Trefferquote Reality-Check",
-            "lesson": "SAFE-Kategorie ueber alle bisherigen Tipps: 8/12 = 66.7% Trefferquote, ROI -3.3% â€” UNTER CLAUDE.md-Soll (75-90%). Ursachen: frueh labelten NBA-Player-Props als SAFE (Bane/Wagner/Banchero DD am 22.04.) + 24.04. Lautern DC verloren (0:2 Heim, Braunschweig-Befreiungsschlag). Regel: SAFE-Label NUR fuer 1X2/DC mit klarer Klassendifferenz + Topscorer fit + KEIN Sweep-Druck + KEIN Abstiegskampf-Underdog mit Backs-against-the-wall-Motivation. Bei SAFE-Quote 1.20-1.30 doppelt pruefen â€” knappe Margins erlauben keinen Schnitzer.",
-            "bezug_spiel_id": null
-        },
-        {
-            "datum": "2026-04-25",
-            "kategorie": "Roster-Verifikation PFLICHT vor Player-Props",
-            "lesson": "KRITISCH: Vor JEDEM Spieler-Tipp (Punkte, Tor, DD, TD, Assists fuer Fussball) den aktuellen Kader via WebSearch verifizieren. LLM-Wissen ueber Spieler-Team-Zuordnungen ist oft outdated â€” Trades passieren mitten in der Saison. Beispiel 25.04.: Tipp 'Trae Young Mehr als 22.5 Pkt' fuer Hawks-Knicks G4 generiert, aber Trae Young wurde am 09.01.2026 zu Washington Wizards getradet (gegen CJ McCollum) UND ist seitdem verletzt (Quadrizeps + Ruecken, fertig fuer 25-26). Hawks-Star ist seit Januar McCollum (32 Pkt G2). Regel: Bei jedem Player-Prop ZUERST: 'Spielt X aktuell fuer Team Y? Ist X fit?' Erst dann Linie pruefen. Diese Lesson ist hoechste Prioritaet â€” sie betrifft Vertrauen ins ganze Tool.",
-            "bezug_spiel_id": "2026-04-25-hawks-knicks-g4"
-        },
-        {
-            "datum": "2026-04-26",
-            "kategorie": "bet365 2:0-Insurance-Regel (PFLICHT bei Auswertung)",
-            "lesson": "BET365-SPEZIFISCH: Bei direktem Sieg-Tipp (1X2 / Moneyline) auf Mannschaft X gilt der Tipp als GEWONNEN, sobald X im Spiel mindestens 2:0 in Fuehrung lag â€” egal was danach passiert. Auch wenn das Spiel 4:3 verloren wird, der 2:0-Vorsprung loest die Insurance aus. Gilt NUR fuer: 1. Bundesliga + Champions League. Gilt NUR fuer: direkter Sieg-Tipp. Gilt NICHT fuer: Doppelte Chance, Handicap, Ueber/Unter, Beide treffen, Genaues Ergebnis, Halbzeit-Wetten. Beispiel 25.04.: Mainz 05 fuehrte zur HZ 3:0, verlor 3:4 gegen Bayern - 'Mainz Sieg'-Tipp waere bei bet365 als gewonnen ausgezahlt. Bei Auswertung: wenn HZ-Stand zeigt 2:0+ fuer Sieg-Tipp-Team und Endstand zeigt Niederlage, dann Status 'gewonnen' setzen mit Kommentar '2:0-Insurance'.",
-            "bezug_spiel_id": null
-        },
-        {
-            "datum": "2026-04-26",
-            "kategorie": "Quoten-Recherche PFLICHT vor Tipp-Generierung",
-            "lesson": "FEHLERMUSTER: Quoten in Tipps oft willkuerlich geschaetzt (z.B. 1.85 angegeben, real bei bet365 1.22). Das verfaelscht Edge-Berechnung und Kasseneinsatz-Empfehlung. Regel: VOR jedem Tipp die Quote auf Aggregator-Seite verifizieren â€” Oddschecker, Sportsgambler, BetExplorer, Sky Bet (alle haben aktuelle bet365-Quoten). WebSearch: '[Heim] vs [Gast] odds [Datum]' oder direkt WebFetch auf Oddschecker. Wenn Aggregator nicht erreichbar: Quote als 'geschaetzt' markieren mit '~' davor. Niemals SAFE/VALUE-Label vergeben ohne verifizierte Quote, sonst ist Edge-Prozent fiktiv.",
-            "bezug_spiel_id": null
-        },
-        {
-            "datum": "2026-04-26",
-            "kategorie": "Liga-Vollstaendigkeit + Kontext-Analyse PFLICHT",
-            "lesson": "ZWEI WIEDERHOLUNGS-FEHLER aus 25.-26.04.: (A) Ligen werden nicht systematisch durchgeprueft. 25.04.: 2. Bundesliga komplett vergessen (4 Spiele inkl. Lautern!) UND FA Cup Halbfinale Manchester City vs Southampton in Wembley komplett vergessen. (B) Saison-Kontext-Faktoren werden ignoriert. Pflicht-Recherche pro Spiel: (1) Spielt eines der Teams parallel in CL/EL/Conference League? (Doppelbelastung -> Rotation moeglich) (2) Tabellenposition + Saisonziel: kaempft um Meisterschaft / CL-Quali / EL-Quali / Conference / Klassenerhalt / Abstieg / nur noch Spielbetrieb? (3) Motivations-Asymmetrie: Team A im Abstiegskampf vs Team B schon gerettet -> Team A i.d.R. Edge. Team A spielt auf CL-Quali vs Team B nur Mittelfeld -> Team A Edge. Team A Champions kann rotieren, Team B will alles. (4) Last-Match-Recovery: 3 Tage seit letztem Spiel? CL-Mittwoch Spiel? Verletzungs-Druck? Beispiel-Edge: Mainz @12.0 vs Bayern war so wertvoll genau weil Bayern CL-Doppelbelastung + Mainz Klassenerhalt-Druck. Regel: Vor JEDEM Tipp diese 4 Kontext-Faktoren explizit pruefen + ins begruendung-Feld schreiben.",
-            "bezug_spiel_id": null
-        },
-        {
-            "datum": "2026-04-26",
-            "kategorie": "Edge-Strategie: bet365 2:0 + Einwechslung als VALUE-Filter",
-            "lesson": "STRATEGISCHE NUTZUNG der bet365-Sonderregeln (nicht nur defensive Auswertung): (1) Bei BL/CL: Heim-Underdogs gegen Top-Favoriten mit Sieg-Quote 4.0-15.0 sind ueberproportional wertvoll, weil 2:0-Insurance auch bei spaeterer Niederlage zahlt. Suche nach Spielen wo Underdog hohe HZ-Fuehrungs-Wahrscheinlichkeit hat: junges/aggressives Heim-Team + Favorit mit Doppelbelastung (CL/EL Mittwoch/Donnerstag) + Heim-Anfangsphasen-Statistik. Beispiel-Risiko verpasst 25.04.: Mainz Sieg @ ~12.0 gegen Bayern, HZ-Stand 3:0 -> waere ueber 2:0-Regel gewonnen trotz 3:4-Niederlage. (2) Torschuetzen: Spieler mit hoher Quote (10x+) wie Verteidiger/Mittelfeld â†’ IMMER Backup-Stuermer-Qualitaet pruefen. Wenn auf Bank ein Volumen-9er sitzt der oft eingewechselt wird, ist Tipp ueber Einwechslungs-Boost wertvoller als Quote suggeriert. Anekdote: Kim Min-jae als Torschuetze @ 12.0, in Spiel ausgewechselt fuer Gnabry, Gnabry trifft â†’ Tipp gewonnen. ABER: Risiko ist beidseitig â€” wenn auf Bank kein Volumen-Spieler sitzt, kein Edge. Tipps-Generierung soll diese Muster aktiv suchen, nicht nur defensiv anwenden.",
-            "bezug_spiel_id": "2026-04-25-mainz-bayern"
-        },
-        {
-            "datum": "2026-04-26",
-            "kategorie": "bet365 Einwechslungs-Boost bei Torschuetzen (Auswertung + Strategie)",
-            "lesson": "BET365-SPEZIFISCH: Bei Torschuetzen-Tipps (Erster/Jederzeit/Letzter/Doppelpack/Hattrick) zaehlen Tore des direkten Ersatzspielers NACH Auswechslung dem urspruenglichen Tipp-Spieler dazu. Beispiel: Fabio Silva (BVB) als Torschuetze getippt, wird in 60. Min fuer Guirassy ausgewechselt, Guirassy trifft -> Silva-Tipp gewonnen. Bei Doppelpack/Hattrick werden Tore beider Spieler summiert (Silva 1x + Guirassy 2x = Hattrick fuer Silva-Tipp). Auswertung: wenn Torschuetzen-Tipp 'offen' ist, IMMER pruefen ob Tipp-Spieler ausgewechselt wurde + Ersatzspieler getroffen hat. Strategie-Implikation: Volumen-Stuermer von Mannschaften mit guten Backup-Stuermern (z.B. Mainz/Stuttgart/Frankfurt mit zweitem Top-9er auf der Bank) sind sicherer als die Quote suggeriert. Lesson hat hoechste Prioritaet bei Torschuetzen-Tipp-Auswertung.",
-            "bezug_spiel_id": null
-        },
-        {
-            "datum": "2026-04-26",
-            "kategorie": "NBA-Playoff-Player-Punkte: Markt-Boykott",
-            "lesson": "HARTE EVIDENZ ueber 4 Spieltage (22.-26.04.): NBA-Playoff-Spielerpunkte/DD haben 5/17 Trefferquote = 29.4%, ROI -46.2% bei 17 Tipps. Selbst als WACKEL gelabelt am 25./26.04. alle 4/4 verloren (Booker 16, McCollum 17, Edwards 5+raus, Brown). Gruende: G3/G4-Defensiv-Adjustments (Knicks neutralisieren McCollum, OKC versperrt Booker), Verletzungspech (Edwards Q2 raus, Booker Knoechel), Blowout-Q4-Bank (Wolves +16). Regel: NBA-Playoff-Player-Punkte/DD ab sofort KOMPLETT aus Einzeltipps streichen. Wenn ueberhaupt â€” nur als optionales Bein in Risiko/Moonshot-Kombi mit Mini-Einsatz, nie als eigenstaendiger Tipp. Spielergebnis-Markete (Sieg, Spread, Total) sind faktisch +ROI, Player-Punkte ein Verlustbringer.",
-            "bezug_spiel_id": null
-        },
-        {
-            "datum": "2026-04-27",
-            "kategorie": "bet365 Einwechslungs-Boost: Mechanik-Praezisierung (Tipp-Spieler MUSS ausgewechselt werden)",
-            "lesson": "PRAEZISIERUNG der bet365-Einwechslungs-Boost-Regel nach Stuttgart-Bremen 26.04. (1:1): Der Boost greift NUR wenn der TIPP-SPIELER selbst ausgewechselt wird und sein direkter Ersatz trifft. Es reicht NICHT, dass irgendein Backup-Stuermer reinkommt und trifft, waehrend der Tipp-Spieler weiter mitspielt. Konkret-Fall: Tipp 'Undav trifft' @ 1.85 verloren, obwohl DemiroviÄ‡ als Joker in 61.' den Ausgleich erzielte â€” DemiroviÄ‡ kam fuer Tiago Tomas (NICHT fuer Undav), Undav blieb auf dem Platz und traf nicht. Im Dossier wurde irrefuehrend formuliert 'Demirovic + Undav als Doppel-9er = Einwechslungs-Boost-Setup falls Wechsel'. Korrekter Mechanismus: Boost = (Tipp-Spieler X wird ausgewechselt) UND (Y kommt fuer X) UND (Y trifft). Strategie-Implikation: Edge entsteht NUR bei spielzeit-limitierten Stuermern (Verletzungs-Comeback, Rotation-Druck, hohe Auswechslungs-Quote in 2. Hz), die mit hoher Wahrscheinlichkeit waehrend des Spiels rausgehen â€” nicht bei voll fitten Doppel-9er-Konstellationen wo der Tipp-Spieler 90 Min durchspielen kann. Vor Tipp-Generierung pruefen: 'Wie hoch ist Tipp-Spieler-Auswechslungs-Wahrscheinlichkeit?'",
-            "bezug_spiel_id": "2026-04-26-stuttgart-bremen"
-        },
-        {
-            "datum": "2026-04-27",
-            "kategorie": "Beobachtungs-Liga-Modus (Liga-Bluter ohne Form-Wissen)",
-            "lesson": "MECHANISMUS gegen das Bluten in Ligen ohne aufgebautes Form-Wissen: Ligen mit Bilanz <-30% ROI bei mind. 4 Tipps in den letzten 30 Tagen werden auf 'Beobachtungs-Status' gesetzt. Aktuelle Beobachtungs-Ligen (Stand 27.04.2026): 2. Bundesliga (5 Tipps, ROI -40%), Ligue 1 (2 Tipps, ROI -50%), Serie A (4 Tipps, ROI -32,5%). REGELN fuer Beobachtungs-Ligen: (1) Spiele werden TROTZDEM komplett im Spiel-Analyse-Tab gezeigt mit voller Markt-Uebersicht und Analyse â€” der User sieht alles was laeuft. (2) Markierung im Tipp-Text: 'ðŸ” Beobachtung â€” Liga-Form noch nicht kalibriert'. (3) NICHT in einzeltipps[] aufnehmen. (4) NICHT in Safe/Balance/Risiko-Kombi aufnehmen. (5) OK im Moonshot als Spass-Bein wenn Quote >=5x. (6) Auswertungs-Routine wertet weiter aus -> Form-Wissen baut sich auf, ohne dass Geld riskiert wird. AUSSTIEGS-KRITERIUM: Sobald rolling 30-Tage-ROI einer Liga > -10% wird, faellt der Beobachtungs-Filter raus, und die Liga darf wieder voll bespielt werden. NICHT betroffen: Pokale (FA Cup hat nur 1 Tipp = keine Datenbasis; DFB-Pokal performt +46%) â€” Pokale bleiben normal. Liga-Checkliste in der Routine bleibt vollstaendig (alle 16 Wettbewerbe), nur die Tipp-Selektion ist defensiv.",
-            "bezug_spiel_id": null
-        },
-        {
-            "datum": "2026-04-27",
-            "kategorie": "Quoten-Verifikation HARTREGEL (kein SAFE/VALUE ohne Aggregator-Beleg)",
-            "lesson": "VERSCHAERFUNG der 26.04.-Lesson (Quoten-Recherche-Pflicht): Ab 27.04. gilt als HARTREGEL fuer alle Tipps-Routines, dass kein Tipp das Label SAFE oder VALUE erhalten darf, ohne dass die Quote vorher via WebFetch auf einem Aggregator (Oddschecker, SportsGambler, BetExplorer, OddsShark, OddsTrader) verifiziert wurde. Hintergrund: ohne verifizierte Quote ist die Edge-Berechnung Fiktion â€” eine angegebene 1.85 die in Wahrheit 1.22 ist macht jedes 'VALUE'-Label wertlos und faelscht das ROI-Tracking. NEUE REGELN: (1) Quote nicht via Aggregator verifizierbar -> Tipp darf max als WACKEL gelabelt werden, mit Quoten-Praefix '~' (z.B. '~1.85'). (2) edge_prozent-Feld nur bei verifizierter Quote ausfuellen, sonst null. (3) Im begruendung-Feld jedes SAFE/VALUE-Tipps die Quoten-Quelle nennen ('Quote via Oddschecker verifiziert'). (4) Bei Aggregator-Ausfall: Tipp komplett verschieben oder als WACKEL markieren â€” kein Schaetzen. Erwartete Wirkung: +3 bis +5% ROI durch Eliminierung von Phantom-Edges. Diese Hartregel ist Voraussetzung fuer den naechsten Schritt (Pinnacle-Fair-Line-Baseline) der nur funktioniert wenn die bet365-Quote zuverlaessig stimmt.",
-            "bezug_spiel_id": null
-        },
-        {
-            "datum": "2026-04-29",
-            "kategorie": "Closeout-Heim-SAFE: Injury-Report am Spieltag PFLICHT (Embiid-Falle)",
-            "lesson": "PRAEZISIERUNG der 25.04.-Roster-Lesson speziell fuer NBA-Closeout-Spiele: Eine vor der Serie angekuendigte Star-Verletzung (Embiid Blinddarm-OP, 09.04.) wird unter Elimination-Druck oft kurzfristig durchgespielt. Embiid kam in G4 zurueck UND startete G5 (28.04.) mit 33 Pkt + 8 Assists - 76ers gewinnen 113:97 als Heim-Underdog gegen 3-1-Celtics. Im Dossier 28.04. wurde 'Embiid OUT (Blinddarm-OP)' als News-Eingabe verwendet, war aber 19 Tage spaeter ueberholt. ALLE drei Celtics-Tipps verloren (SAFE-ML, SAFE-Spread -8.5, VALUE-Beide-100+ knapp bei 97). HARTREGEL fuer Closeout-Heim-SAFE: (1) Wenn die SAFE-These auf einem Underdog-Star-Ausfall basiert, ist ein Yahoo/ESPN/Twitter-Status-Check max 3h vor Tip-off PFLICHT. Pre-Series-Reports reichen nicht. (2) Star-Comeback in Elimination-Game (eigenes Team 1-3 hinten) ist statistisch wahrscheinlicher als regulaer - die Schwelle fuer 'er spielt nicht' ist erhoeht. (3) Closeout-Heim-Spread (-8.5+) darf nicht alleine aus 'Star OUT'-Annahme abgeleitet werden, weil ein zurueckkehrender Star sofort den Spread killt. Fazit: Closeout-Heim-Sieg ist NUR dann SAFE wenn (a) Star-Status durch Tagesreport bestaetigt UND (b) ein Backup-Spieler-Plan ohne den Star existiert. Sonst max VALUE.",
-            "bezug_spiel_id": "2026-04-29-celtics-76ers-g5"
-        },
-        {
-            "datum": "2026-04-29",
-            "kategorie": "Inter-Kombi-Diversifikation (Layer-2): Spiel-Sieg-Outcome max in 1-2 Kombis",
-            "lesson": "ERWEITERUNG der Layer-1-Diversifikation (max 1 Bein pro Spiel pro Kombi) um Layer 2: Ein Spiel-Sieg-Outcome darf NICHT in mehrere Kombis kopiert werden. Konkret 28.04.: Celtics-Bein war in Safe (ML), Balance (Spread -8.5), Risiko (Beide 100+ kombiniert mit Cavs-Sieg) - ein Embiid-Comeback killte 3 von 4 Kombis. Heute 29.04. wiederholt: Lakers ML in Safe + Lakers ML in Balance + Lakers Spread -4.5 in Risiko = 3 Kombis vom Lakers-Sieg abhaengig. Wenn Lakers verlieren, alle 3 tot. REGEL: (1) Jedes Spiel-Sieg-Outcome (ML, DC, Spread, 1.HZ-Sieger) max in 1 Kombi - die Safe-Kombi. Wenn man weitere Kombis mit dem Spiel will, muss anderes Markt-Profil rein (Total/Player/Tor). (2) Bei nur 4 Spielen ist mathematisch jedes Spiel meist in 3-4 Kombis vertreten - dann muessen die Beine markt-typ-divers sein. (3) Schema-Mapper warnt (nicht hartcoded weil semantisch komplex), Routine soll bei naechster Generation andere Markttypen waehlen. (4) Konkrete Empfehlung Tipps-Routine: Safe-Kombi = nur Sieg-Beine, Balance-Kombi = nur Total-Beine (kein Sieg-Outcome doppelt zur Safe), Risiko-Kombi = Mix aus Spread + HZ + Total + Tor (Lakers-Bein in Risiko sollte das Total sein wenn Lakers ML schon in Safe).",
-            "bezug_spiel_id": "2026-04-29-lakers-rockets-g5"
-        },
-        {
-            "datum": "2026-04-30",
-            "kategorie": "Closeout-Heim-SAFE: Underdog-Volume-Backup-Pflichtcheck (Embiid-Wiederholung)",
-            "lesson": "VERSCHAERFUNG der 28.04.-Embiid-Lesson um die UNDERDOG-BENCH-Tiefe: 29.04. Lakers ML @ 1.55 als SAFE upgegradet auf Basis 'Houston ohne Durant' + 'Reaves zurueck' - alle 5 Rockets-Starter zweistellig (Smith Jr 22, Eason 18, Sengun 14/9/8, plus VanVleet/Adams), 14 Triples Houston vs 7 Lakers, Endstand 99:93 Houston-Sieg. SAFE-These war: Star-Asymmetrie (Houston ohne Durant). Realitaet: Houston hatte mit Smith/Eason/Sengun ein 3-Mann-Core, der allein im Closing-Druck-Spiel reichte. REGEL fuer SAFE-Closing-Out-Heim-Spiele (Heim-Favorit kann Serie schliessen): Pflichtcheck (a) Star-Status Underdog (Embiid-Lesson), (b) Underdog hat <=1 weiterer 18+-Pkt-Spieler regulaer (sonst kein SAFE), (c) Heim-Topscorer voll fit (LeBron war ok, aber Reaves-Comeback nach 9 Spielen Pause war Risiko statt Boost). Wenn (b) nicht erfuellt: max VALUE, niemals SAFE. Lakers ML haette VALUE bleiben muessen - Houston hat Sengun + Smith + Eason als Triple-Threat, das ist nicht 1.5-Sterne wie im Dossier formuliert.",
-            "bezug_spiel_id": "2026-04-29-lakers-rockets-g5"
-        },
-        {
-            "datum": "2026-04-30",
-            "kategorie": "NBA-Unter-Linien: Star-vs-Star-Duell-Brueche (Goldgrube-Praezisierung)",
-            "lesson": "PRAEZISIERUNG der NBA-Unter-Goldgrube (4/5 Hitrate vor 29.04.): 29.04. Pistons-Magic G5 Unter 211.5 verloren - Endstand 116:109 = 225 Total. Cunningham 45 (Franchise-Playoff-Rekord, Sweep-Abwehr-Druck) + Banchero 45 (Karriere-Playoff-Hoch, Closing-Versuch) = 90 Pkt allein durch beide Stars. SportsLine-Sim 66% Unter (203 erwartet) wurde von Star-vs-Star-Eskalation pulverisiert. ZUSATZREGEL: Unter-Tipp NICHT spielen, wenn (a) beide Teams mind. 1 Star mit 25+ Pkt Saisonschnitt UND aktuellen 30+-Pkt-Auftritten in Serie, UND (b) Spiel ist Decider/Sweep-Abwehr-Druck (Spielausgang determiniert Saison-Ende). In solchen Konstellationen wird die Top-5-Defense des Gegners durch puren Hot-Hand-Marathon ueberrannt. Aktuelle NBA-Unter-Bilanz nach 29.04.: 4/6 = 66.7% (von 80% gefallen) - Goldgrube ja, aber nicht in Star-Eskalation-Spielen. Cavs-Ueber 215.5 (auch Decider) gewann hingegen mit 245 Total - bestaetigt: in Decidern gehen Linien hoch, deshalb Ueber bevorzugen wenn Decider + 2 Volume-Stars beidseitig.",
-            "bezug_spiel_id": "2026-04-29-pistons-magic-g5"
-        },
-        {
-            "datum": "2026-04-30",
-            "kategorie": "Korrelations-Erfolg: Layer-2-Diversifikation funktioniert empirisch",
-            "lesson": "ERFOLGS-VALIDIERUNG der gestrigen 29.04.-Lesson 'Inter-Kombi-Diversifikation Layer 2': Heute 29.04. trotz 4 verlorener Kombis war keine durch ein Single-Spiel-Outcome-Killer zerstoert. Lakers verloren ML -> nur Safe-Kombi tot, Lakers Unter 207.5 in Risiko-Kombi GEWANN sogar. Kontrast 28.04.: Celtics-Bein in 3 Kombis -> Embiid-Comeback killte 3 simultan. Heute pro Kombi durchschnittlich 1-2 verlorene Beine, statt einer Domino-Welle aus einem Spiel. EMPIRISCHE BESTAETIGUNG: Layer-2 (Sieg-Outcome max 1x in Kombi-Set) reduziert Konzentrations-Risiko substantiell. Verluste resultierten heute aus genereller 4-Bein-Mathematik (jedes Bein 50-60% -> Kombi 6-13% Hitrate), nicht aus Diversifikations-Versagen. REGEL bestaetigt + verschaerft: bei Tagen mit nur 4 Spielen ist 4-Bein-Risiko-Kombi pro Definition sehr unwahrscheinlich (~10% Hitrate); empfohlener_einsatz_prozent fuer 4-Bein-Risiko-Kombi sollte daher max 0.25% sein (statt der frueher 0.5%). Heute hat Routine das bereits richtig gemacht (0.25% bzw 0.10% Moonshot).",
-            "bezug_spiel_id": "2026-04-29-lakers-rockets-g5"
-        },
-        {
-            "datum": "2026-04-30",
-            "kategorie": "1.HZ-Sieger-Wetten in eng-getakteten Decidern unzuverlaessig",
-            "lesson": "NEU: 29.04. Cavs-Raptors G5 (2-2-Decider) - Tipp '1.HZ Sieger Cavs' @ 1.65 mit 'Cavs-Heim-Crowd-Energie-Spike Q1' verloren. Raptors fuehrten 74:67 zur HZ, Cavs holten erst in Q4 auf. Pattern: Underdog (Raptors) startete druck-aggressiv, Heim-Team brauchte Kalibrierungsphase. Lesson: 1.HZ-Sieger-Wetten als VALUE @ 1.50-1.80 in eng-getakteten Decidern (Serie 2-2 oder 2-3) NICHT spielen - die 'Heim-Energie-Spike-Q1'-These hat in der NBA empirisch keine zuverlaessige Basis. Heim-Vorteil materialisiert sich oft erst in Q3/Q4 nach Anpassung der Halbzeit-Strategie. REGEL: 1.HZ-Sieger-Wetten nur dann VALUE, wenn (a) Heim-Team objektiv klare Schnellstarter-Statistik hat (>55% Q1-Wins-Saison) UND (b) Spiel KEIN Decider ist (regulaere Saison oder G1/G2 mit Pace-Setting). In Playoff-Decidern: 1.HZ-Sieger max WACKEL, nicht Einzeltipp. Markt-Boykott analog zu NBA-Player-Punkte uebertrieben - aber starker Skeptizismus.",
-            "bezug_spiel_id": "2026-04-29-cavaliers-raptors-g5"
-        },
-        {
-            "datum": "2026-05-01",
-            "kategorie": "EL/Conference-HF-Hinspiel Tor-These widerlegt (BTTS/Ueber 2.5 max WACKEL)",
-            "lesson": "EMPIRISCHE WIDERLEGUNG der HF-Hinspiel-Tor-Festival-These nach 30.04.: 4 europaeische HF-Hinspiele endeten 2-1 (Braga-Freiburg) / 1-0 (Forest-Villa) / 3-1 (Shakhtar-CP) / 1-0 (Rayo-Strasbourg). Drei davon hatten max 2 Tore â€” These 'beide Teams brauchen Auswaertstor fuer Rueckspiel-Vorteil = beide spielen offensiv' war falsch. Tatsaechliches Pattern: Heim-Team will kein 0-2-Hypothek schaffen + Auswaerts-Team nimmt 0-0 oder 0-1 als ok mit, da Rueckspiel zuhause noch kommt = oft taktisch defensive Hinspiele. Risiko-Kombi (4x Ueber 2.5/Ueber 224.5) verloren wegen Rayo 1 Tor + Wolves 208 Pkt. Moonshot-Kombi durch 2x BTTS-Risse zerstoert (Forest-Villa, Rayo-Strasbourg â€” beide nur eine Mannschaft traf). Markt 'Beide Teams treffen JA' Gesamt-Bilanz nach 30.04.: 1/3 = 33% ROI -43%. REGEL: BTTS und Ueber 2.5 in EL/Conference-HF-Hinspielen ab sofort max WACKEL â€” nicht VALUE/SAFE, nicht in Risiko/Moonshot-Kombis ohne ausgleichende DC-These. Bevorzugte Maerkte fuer HF-Hinspiele: Heim-DC (1X) + Auswaerts-DC (X2) + Unter 2.5/3.5 als Hedge. Erst im Rueckspiel kann der Tor-Druck steigen wenn Hinspiel-Score knapp.",
-            "bezug_spiel_id": "2026-04-30-rayo-vallecano-strasbourg"
-        },
-        {
-            "datum": "2026-05-01",
-            "kategorie": "Conference League Halbfinale Goldgrube (Klassendifferenz-Edge)",
-            "lesson": "GOLDGRUBE-IDENTIFIZIERUNG: Conference League Halbfinale aktuell 4/4 = 100% ROI +69.5% nach 30.04. Beide Heim-PL/LaLiga-Klubs (Crystal Palace im Glasner-System / Rayo Vallecano in Vallecas) gewannen, beide DC-1X bzw. DC-X2 + beide direkter Sieg gewannen. Markt-Bilanz 'Crystal Palace DC X2' + 'Crystal Palace Sieg' + 'Rayo DC 1X' + 'Rayo Sieg' alle 4/4. Pattern: PL/LaLiga-Mid-Table-Klubs gegen Ukraine-Pokal/Ligue-1-Mid-Klubs in Hinspiel-Heim-Konstellation = klare Klassen-Edge. REGEL fuer naechste Conference-Hinspiele (07.05. Strasbourg-Rayo + Crystal Palace-Shakhtar Rueckspiele!): bei Heim-Vorteil PL/LaLiga-Klub gegen niedrigere Liga = SAFE-DC oder VALUE-Sieg legitim. Bei Auswaerts-Vorteil PL-Klub gegen niedrigere Liga (z.B. Palace im Rueckspiel zuhause): X2-DC SAFE. Aktiv suchen statt vermeiden. NICHT verwechseln mit Europa League: dort 3/5 = 60% ROI -19% (Forest-Villa unterperformt â€” All-PL-Duelle ohne Klassendifferenz sind nicht im gleichen Edge-Range). Conference > Europa fuer Klassendifferenz-Edge.",
-            "bezug_spiel_id": "2026-04-30-shakhtar-crystal-palace"
-        },
-        {
-            "datum": "2026-05-01",
-            "kategorie": "Star-Out-These widerlegt wenn Defense-System bleibt (Wolves-Edwards-Wende)",
-            "lesson": "PRAEZISIERUNG der Roster-Verifikation-Lesson: Star-Out fuehrt NICHT automatisch zu Sieg des Auswaertsfavoriten. Wolves-Nuggets G6 30.04.: Wolves OHNE Edwards + DiVincenzo gewannen 110-98 ueber Nuggets (mit Jokic 28+10). McDaniels 32+10, Shannon 24, Gobert 10/13/8. Defense-Stat: Murray 4/17 = 12 Pkt (Wolves-Defense neutralisierte Nuggets-2nd-Star). Closeout-Heim-Druck + intaktes Gobert-McDaniels-Defense-System ueberschrieb die Edwards-Luecke. Tipp 'Nuggets Sieg' @ 1.46 mit Begruendung 'Wolves OHNE Edwards = klar unterlegen' verloren â€” das Argument war zu eindimensional. NEUE REGEL: Bei Star-Ausfall-Diskussionen IMMER pruefen (a) ist das Defense-System intakt (Verteidigungs-Spezialisten/Center bleiben)? (b) gibt es einen 2nd-Mann mit hohem Saisonschnitt (>22 Pkt) der die Last uebernehmen kann (McDaniels: 18.5 PPG)? (c) ist es ein Closeout-Heim-Spiel mit Win-or-go-home-Druck? Wenn (a)+(b)+(c) alle JA: Star-Out-These NICHT spielbar als Auswaerts-Favorit-Sieg. Markt-Bilanz Wolves-Sieg jetzt 3/3 = 100% (war auf 2/2 mit Edwards, jetzt +1 OHNE Edwards) â€” Star-Goldgrube-Bilanz war nicht hinfaellig sondern bestaetigt sich anders.",
-            "bezug_spiel_id": "2026-04-30-wolves-nuggets-g6"
-        },
-        {
-            "datum": "2026-05-01",
-            "kategorie": "Layer-2-Diversifikation 2. Empirie-Tag + Same-Game-Korrelation als Layer-3",
-            "lesson": "ERFOLGS-VALIDIERUNG #2 + EXTENSION: Layer-2 (Sieg-Outcomes nur in Safe-Kombi) wirkte erneut. Safe-Kombi (4x DC) gewann @ 3.17 (Netto +2.17), trotz dass 3 von 4 anderen Kombis verloren. Diversifikation funktionierte: ein einzelner Spiel-Killer haette nicht alle 4 Kombis genommen. ABER neuer Befund: Forest-Villa-Hinspiel-BTTS-These war in Balance-Kombi UND Moonshot-Kombi â€” riss beide simultan, weil dieselbe Spiel-These auf 2 Kombis verteilt war (Layer-2 Markttyp-Diversifikation, aber Layer-3 Spiel-These-Konzentration). Kein direkter Sieg-Outcome-Doppel, aber Korrelations-Effekt ueber das Game-Outcome. NEUE REGEL Layer-3: Wenn dieselbe Game-Theses (z.B. 'BTTS in Spiel X') in 2 Kombis vorkommt, sind diese Kombis korreliert auch wenn der Markttyp identisch ist. Vermeiden: identische Spiel/Markt-Kombination in 2+ Kombis. Heute Konsequenz: Forest-Villa-BTTS gehoerte nur in Moonshot (Spass) ODER nur in Balance (substanziell), nicht in beide. REGEL: Spiel/Markt-Bein darf max 1x ueber alle Kombis hinweg verwendet werden â€” Layer-3 erweitert Layer-2 (Sieg-Outcome-Konzentration) auf Marktduplikate. Das senkt die Total-Korrelation zwischen Kombis nochmal. Aktuell 8/12 Einzeltipps + Safe-Kombi @ +2.17 = klar profitabler Tag trotz 3/4 Kombi-Verluste.",
-            "bezug_spiel_id": "2026-04-30-nottingham-forest-aston-villa"
-        },
-        {
-            "datum": "2026-05-02",
-            "kategorie": "NBA G6 als neue Beobachtungs-Liga (Markt-Reality)",
-            "lesson": "EMPIRISCHE WARNUNG: NBA Playoffs Round 1 Game 6 wurde nach 30.04. + 01.05. zur neuen Beobachtungs-Liga (7 Tipps / 2 gewonnen / 5 verloren = 28.6% Trefferquote / -45.6% ROI). 01.05. war Massaker: 5/7 G6-Tipps verloren (Magic Sieg, Ueber 211.5, Cavs Sieg, Rockets ML, Ueber 206.5, Rockets -3.5). NUR Raptors +3.5 + Pistons -3.5 + Ueber 219.5 (alle drei Spread/Total bei 219.5 sehr hoch) gewannen. Sweep-Druck-Spiele sind extrem unberechenbar - kein einziger Sieg-Tipp lief, alle drei Total-Ueber-Tipps gegen niedrigere Linien (211.5, 206.5) verloren. NEUE REGEL: NBA-Round-1-G6-Tipps ab sofort als Beobachtungs-Liga behandelt - keine Einzeltipps, keine Hauptkombi-Beine. Im Moonshot OK wenn Quote >=5x. Spread-/Total-Maerkte BEI HOHEN LINIEN (>219) vermutlich noch spielbar, aber zur Beobachtung in Lesson-Anwendung NICHT als VALUE markieren. Liga-Wieder-Aktivierung wenn 30-Tage-ROI > -10%.",
-            "bezug_spiel_id": "2026-05-01-nba-g6-trio"
-        },
-        {
-            "datum": "2026-05-02",
-            "kategorie": "NBA-Closeout/Decider Defensiv-Schlachten widerlegen Star-Eskalations-These",
-            "lesson": "WIDERLEGUNG der 30.04.-Lesson 'NBA-Ueber-Linien bei Star-vs-Star-Decidern': 01.05. Pistons-Magic G6 endete 93:79 (172 Total, Linie 211.5 - VERFEHLT um 39.5!) und Rockets-Lakers G6 endete 78:98 (176 Total, Linie 206.5 - VERFEHLT um 30.5!) - beide Closeout/Sweep-Druck-Spiele waren extreme Defensiv-Schlachten statt Star-vs-Star-Eskalationen. Cunningham (45 in G5) hatte ein verheerendes Comeback fuer Pistons aus -22 - das passierte WEIL Magic-Defense komprimierte und Magic offensiv eingebrochen war. NUR Raptors-Cavs G6 (222 Total, Linie 219.5) bestaetigte das Ueber-Pattern - aber das war ein OT-Spiel mit Game-Winner-3er, nicht 'in den Boden gespielt'. PRAEZISIERUNG: NBA-G6/G7-Closeout-Druck fuehrt OFT zu Defensiv-Vergroesserung und Tempo-Reduzierung weil Spieler vorsichtiger werden. NEUE REGEL: In NBA-G6/G7-Sweep-Druck-Spielen Ueber-Linien bei < 215 NICHT spielen (Defense-Risiko zu hoch), Ueber-Linien bei >= 219 noch OK (Pace-Asymmetrie hoeher). Lesson 30.04. nicht ganz aufheben sondern auf hoehere Linien einschraenken. NBA-Ueber-Bilanz nach 01.05.: 5/9 = 55.6% Trefferquote (war 4/6 = 66.7%) - klare Korrektur noetig.",
-            "bezug_spiel_id": "2026-05-01-rockets-lakers"
-        },
-        {
-            "datum": "2026-05-02",
-            "kategorie": "Premier League Klassendifferenz-Heim-Goldgrube bestaetigt",
-            "lesson": "ERFOLGS-VALIDIERUNG: Premier League Klassendifferenz-Heim = bestaetigte Goldgrube. Leeds-Burnley 01.05. 4/4 Tipps gewonnen (Sieg 3:1, DC 1X, Ueber 1.5, Ueber 2.5). PL-Bilanz nach 01.05.: 6/7 = 85.7% Trefferquote / +18.7% ROI - eine der staerksten Liga-Bilanzen ueberhaupt. PATTERN bestaetigt: Heim-Mid-Table-PL-Klub im Klassenerhalt-Endspurt vs abgestiegenes Team ohne Tabellen-Druck = SAFE-Sieg + DC + Ueber-1.5 alle quasi automatisch. Motivations-Asymmetrie + Klassendifferenz + abgestiegenes Team im Auslauf-Modus = perfekter Storm. STRATEGIE-IMPLIKATION fuer Restsaison (Mai 26): Aktiv suchen nach gleicher Konstellation - PL-Mid-Table im Klassenerhalt vs abgestiegenes Team = SAFE-Hauptbein, plus Ueber-1.5 als VALUE-Erweiterung. Burnley + Sheffield United (beide abgestiegen) sind Spieltag-Goldgruben fuer ihre Heim-Gegner. Nicht uebertreiben (small sample), aber als priorisierte Liga im SAFE-Filter behandeln.",
-            "bezug_spiel_id": "2026-05-01-leeds-burnley"
-        },
-        {
-            "datum": "2026-05-02",
-            "kategorie": "Risiko-Kombi-Erfolg @ 9.79x via perfekter Layer-2/Layer-3-Diversifikation",
-            "lesson": "EMPIRISCHE BESTAETIGUNG der Layer-2 + Layer-3-Diversifikation: 01.05. Risiko-Kombi (4 Beine: Raptors +3.5 + Pistons -3.5 + Leeds Ueber 1.5 + Girona Unter 2.5) gewann komplett @ Gesamtquote 9.79 (+8.79 Netto bei 0.25% Einsatz = +2.20% Kasse). Konstruktion war perfekt: 4 verschiedene Spiele, 4 verschiedene Markttypen (2 Spreads + 2 Tor-Linien gegensaetzlich), KEINE Spiel-Sieg-Outcome-Doppelung mit Safe-Kombi (Layer-2), KEINE Spiel/Markt-Doppelung mit anderen Kombis (Layer-3). Risiko-Kombi rettete den Tag (-2.25% Einzeltipps + -1.50% Kombis -> Risiko +2.20% holt drei Viertel des Verlustes zurueck). REGEL bestaetigt: 4-Bein-Risiko-Kombi mit 0.25% Einsatz hat sehr niedrige Hitrate (~10-13%) aber lohnt im EV wenn Diversifikation perfekt. Bei Tagen mit 5+ Spielen sollte Risiko-Kombi auf 5 Beine erweitert werden um Spread (Sieg/Total/Tor) noch breiter zu fassen - Hitrate sinkt aber Quote steigt ueberproportional. Diese Erfolgs-Vorlage als Template fuer kommende NBA-G7-Tage und EL/Conference-Rueckspiele uebernehmen.",
-            "bezug_spiel_id": "2026-05-01-risiko-kombi-erfolg"
-        },
-        {
-            "datum": "2026-05-03",
-            "kategorie": "SAFE-Reality-Check #2: Top-Team-Rotation vor CL-Rueckspiel",
-            "lesson": "EMPIRISCHE WIEDERHOLUNG der 25.04.-SAFE-Lesson: SAFE-Trefferquote nach 02.05. wieder unter CLAUDE.md-Soll (72.3% Ist vs 75-90% Soll, ROI -2.5%). Heutige SAFE-Verluste: Bayern Sieg @1.18 (3:3 vs Heidenheim - Kane saÃŸ zur HZ Bank wegen CL-HF-Rueckspiel 06.05., Olise rettete erst 90+10), Frankfurt DC 1X @1.22 (HSV gewinnt 2:1 spaet), Newcastle-Brighton DC X2 @1.45 (Newcastle Heim-Bounce-Back nach 5-Spiele-Pleiten-Serie). 3 von 7 SAFE-Beinen heute verloren. NEUE HARTREGEL fuer SAFE-Label: Top-Team-Heim-Sieg @ 1.15-1.25 ist NICHT SAFE wenn ALLE drei Bedingungen zutreffen: (a) Top-Team hat Meisterschaft/Saisonziel mathematisch schon erreicht, (b) Top-Team spielt CL/EL-Halbfinal-Rueckspiel innerhalb 4 Tagen, (c) Underdog ist im Abstiegskampf (Top 16-18) mit Pflichtpunkt-Bedarf. In dieser Kombination antritt B-Elf gegen voll-motivierten Underdog -> max VALUE oder Tipp ueberspringen. Bayern-Heidenheim am 02.05. erfuellte alle drei Bedingungen exakt - Tipp haette nie SAFE sein duerfen. Lesson 26.04. ('Edge-Strategie 2:0+Einwechslung') legt umgekehrt nahe: Heidenheim-Heim-Sieg-Tipp @hoher Quote waere VALUE gewesen.",
-            "bezug_spiel_id": "2026-05-02-bay-hei"
-        },
-        {
-            "datum": "2026-05-03",
-            "kategorie": "PL-Klassen-Goldgrube Praezisierung: Heim-Bounce-Back-Effekt schlaegt Top-7-Chaser",
-            "lesson": "VERFEINERUNG der 01.05.-PL-Klassen-Goldgrube-Lesson: PL-Heim-Mid-Top-Klubs (Plaetze 8-15) mit aktueller Heim-Pleiten-Serie schlagen Top-7-Chaser-Auswaertsteams oefter als die Quote suggeriert - Heim-Crowd-Bounce-Back-Effekt + Pflichtsieg-Druck. Beispiel 02.05.: Newcastle (Plaetze 13, 5 Pleiten in Folge) schlaegt Brighton (Plaetze 7, Top-7-Chaser) 3:1 trotz Auswaerts-Form-Vorteil von Brighton. Brighton-DC X2 @1.45 (SAFE-Label) verloren. PL-Bilanz nach 02.05.: 7/8 -> 6/9 = 66.7% (wieder im normalen Bereich). PATTERN: Wenn ein PL-Heim-Team mit Mid-Tabellen-Position eine sichtbare Pleiten-Serie hat (>= 4 Spiele) UND zuhause spielt UND der Auswaertsgegner ist im Top-7-Chase mit Auswaerts-Druck, ist die Heim-Crowd-Reaktion (Trainer-Druck, Spieler-Stolz, Bounce-Back-These) statistisch staerker als der Form-Vergleich. NEUE REGEL: PL-Auswaertsteams als VALUE/SAFE NUR wenn (a) Heim-Team keine aktive Pleiten-Serie und (b) Heim-Team nicht in Pflichtsieg-Pflicht zuhause. Bei aktiver Heim-Pleiten-Serie >= 4 Spiele: Auswaertsteams max WACKEL, nicht SAFE-DC. Klassen-Goldgrube bleibt valide fuer abgestiegene/Bottom-3-Heim-Teams (Wolves 1:1 Sunderland - Sunderland-DC X2 @1.32 gewonnen heute), aber NICHT fuer Mid-Tabellen-Heim-Teams in Form-Krise.",
-            "bezug_spiel_id": "2026-05-02-new-bri"
-        },
-        {
-            "datum": "2026-05-03",
-            "kategorie": "Safe-Kombi-Konstruktion: Sieg-Bein-Limit (Layer-3-Verschaerfung)",
-            "lesson": "EMPIRISCHE LEHRE aus Safe-Kombi-Verlust 02.05. @ 2.69x: 4 Beine waren Bayern Sieg (1.18) + Frankfurt DC 1X (1.22) + Lev DC 1X (1.30) + Arsenal Sieg (1.44). Ergebnis: 2/4 verloren (Bayern-Remis + Frankfurt-Niederlage). Diagnose: Die 2 reinen Sieg-Outcomes (Bayern, Arsenal) waren konzentriert in einer Kombi. Layer-2-Lesson 29.04. (Sieg-Outcome max in 1 Kombi) deckt Cross-Kombi-Konzentration, aber NICHT Intra-Kombi-Konzentration. NEUE REGEL Layer-3-Verschaerfung: Bei 4-Bein-Safe-Kombi max 1 reines Sieg-Bein, Rest DC oder Total. Begruendung: DC 1X @1.22 hat ~85% Hitrate, Sieg @1.18 hat ~80% Hitrate. Bei 4 Beinen wird die Differenz zu 0.85^3 * 0.80 = 49% (1 Sieg) vs 0.85^2 * 0.80^2 = 46% (2 Sieg). Klein, aber signifikant. Wichtiger: bei 2 Sieg-Beinen ist die Korrelation zu Top-Team-Rotations-Risiko (siehe 03.05.-Lesson) verdoppelt. Heute: Bayern-Sieg-Bein riss DURCH Top-Team-Rotation, ein DC-Bein haette 1X-Insurance gehabt (3:3 = X = gewonnen). VORLAGE Safe-Kombi 4-Bein: 1 Sieg (klar dominantes Team ohne CL-HF-Doppel-Belastung) + 3 DC (klare Klassendifferenz oder Klassenerhalts-Underdog-Heim).",
-            "bezug_spiel_id": "2026-05-02-bay-hei"
-        },
-        {
-            "datum": "2026-05-03",
-            "kategorie": "Torschuetzen-Tipp Mechanik: Stamm-Stuermer-Pflichtcheck (Kane-Bank-Falle)",
-            "lesson": "PRAEZISIERUNG der 27.04.-Einwechslungs-Boost-Lesson: Bei JEDEM Torschuetzen-Tipp ist eine PRE-Match-Pruefung ob der Tipp-Spieler in der Startelf steht PFLICHT. Beispiel-Falle 02.05.: Tipp 'Harry Kane Tor @1.45' fuer Bayern vs Heidenheim - Kane saÃŸ zur 1.HZ auf der Bank (Kompany rotierte 7 Spieler vor CL-HF-Rueckspiel PSG 06.05.), kam erst zur 2.HZ rein. In den 45 Min die er spielte: kein Tor. Selbst wenn Bayern Tore erzielte (Goretzka 2x, Olise 1x), entstand kein Boost weil Kane SELBST nicht ausgewechselt wurde. PATTERN: Tipp 'Spieler X Tor' bei Top-Klubs vor CL/EL-Halbfinal-Rueckspiel ist NICHT spielbar wenn Trainer in der Vorwoche Rotations-Andeutungen machte. NEUE HARTREGEL: Vor JEDEM Torschuetzen-Tipp 1h vor AnstoÃŸ die Aufstellung pruefen via WebSearch '[Team] Aufstellung [Datum]'. Wenn Tipp-Spieler NICHT in Startelf: Tipp wird auf 'storniert'/'reduziert' gesetzt mit Mini-Einsatz (0.1%) oder komplett verworfen. Boost-Edge greift NUR wenn: (a) Tipp-Spieler startet UND (b) Tipp-Spieler wird im Spielverlauf ausgewechselt UND (c) sein direkter Ersatz trifft. Untermauerung Bilanz: Torschuetzen-Tipps 02.05. = 2/4 (Saka+Lewa gewonnen, Kane+Undav verloren) - die 2 Verluste waren beide Spielzeit-Probleme (Kane Bank, Undav fruehzeitig raus). 50% Trefferquote ist OK fuer 2.0+-Quoten, aber pre-Match-Lineup-Check waere die AusreiÃŸer eliminiert.",
-            "bezug_spiel_id": "2026-05-02-bay-hei"
-        },
-        {
-            "datum": "2026-05-03",
-            "kategorie": "Underdog-2:0-Insurance-Edge bei Top-Team-Rotation (aus voller Spiel-Analyse 02.05.)",
-            "lesson": "NEUE QUELLE: aus volle_analyse{} im ergebnisse-File 2026-05-02. Bayern-Heidenheim 3:3 hatte das exakte Pattern aus Lesson 03.05. SAFE-Reality-Check #2 (Top-Team-Rotation vor CL-HF) â€” ABER der Edge lag NICHT bei der Bayern-Sieg-Absicherung, sondern beim UNDERDOG-Markt: Heidenheim ging 0:2 in der 31. vorne und fuehrte sogar 1:3 bis zur 76. Bei einem Heidenheim-DC-X2-Tipp @ ~3.5 oder Heidenheim-Sieg @ ~14.0 haette die bet365-2:0-Insurance gegolten (Underdog war ueber 30 Min mit 2-Toren-Vorsprung) und der Tipp waere als gewonnen ausgezahlt â€” selbst nach dem 3:3-Endstand. NEUE HARTREGEL fuer Routine-Generation: bei BL/CL-Spielen mit Top-Team-Rotation-Indikatoren (parallel_*-Feld zeigt CL/EL-HF-Rueckspiel innerhalb 4 Tage) UND Heim-Underdog mit Saisonziel-Druck (saisonziel zeigt Klassenerhalt/Abstieg) AKTIV den Heim-Underdog-Markt fuer 2:0-Insurance-Edge scannen. Konkret: Underdog-DC X2 oder Underdog-Sieg @ Quote 3.0+ als VALUE markieren. Der einseitige Fokus auf 'Top-Team-Sieg vermeiden' verschenkt den Spiegel-Edge. Dieser Lesson kommt aus voller Spiel-Analyse (volle_analyse[].drehung), nicht aus den getippten Maerkten â€” genau das Lern-Hebel den die neue Auswertungs-Mechanik aktiviert.",
-            "bezug_spiel_id": "2026-05-02-bay-hei"
-        },
-        {
-            "datum": "2026-05-03",
-            "kategorie": "Volle Spiel-Analyse Pflicht (Mechanik-Update Auswertungs-Routinen)",
-            "lesson": "MECHANIK-UPDATE: Ab 03.05.2026 schreiben die Auswertungs-Routinen ein volle_analyse{}-Block pro Spiel im data/ergebnisse/*.json. Inhalt: halbzeit_stand, endstand, tore[] (mit Minute + Schuetze + Stand_danach), drehung{war_drehung, details}, markt_resultate{btts, ueber_1_5/2_5/3_5/4_5/5_5, halbzeit_endstand, kein_team_zu_null, ...}, rotation_highlights[], einwechslungs_tor_highlights[], auffaellige_patterns[]. Quelle: ESPN/Sofascore/Kicker/Bundesliga.com WebSearches pro Spiel. ZIEL: Lessons aus dem KOMPLETTEN Spiel-Verlauf, nicht nur aus getippten Maerkten. Pattern-Beispiele die nun automatisch erkannt werden: Drehungs-Cluster, Markt-Pattern aus nicht-getippten Spielen (z.B. 5/6 BL-Spiele Ueber 2.5), Rotation-Pattern (Top-Team rotierte vor UEFA-Spiel), Einwechslungs-Boost-Trigger ohne Tipp. Reference-Implementation: data/ergebnisse/2026-05-02.json Spiele '2026-05-02-bay-hei' + '2026-05-02-new-bri'. Lessons-Limit bleibt max 4/Tag, aber Quelle ist breiter â€” erwartetes Volumen-Plus 50-100%.",
-            "bezug_spiel_id": null
-        },
-        {
-            "datum": "2026-05-04",
-            "kategorie": "Underdog-Saisonziel-Welle: Motivations-Asymmetrie schlaegt 6/6 Top-Teams am Saisonende",
-            "lesson": "PATTERN-VERDICHTUNG aus voller Spiel-Analyse 03.05. (Quelle 8h Rotation/Asymmetrie ueber alle 6 Fussball-Spiele): An EINEM Spieltag gewannen ALLE motivierten Saisonziel-Underdogs gegen motivations-arme Top-7-Teams: (1) Mainz (Klassenerhalt-Druck) 2:1 @ St. Pauli (selbst Klassenerhalt â€” Heim-Pleitenserie + flacher Druck) â€” Mainz fuehrte zur HZ 2:0. (2) Gladbach (Klassenerhalt-Pflichtsieg) 1:0 vs Dortmund (kein klares Saisonziel mehr, Mid-Table). (3) Tottenham (Abstiegskampf-Pflicht) 2:1 @ Aston Villa (Top-5-Mittelfeld, kein Pflichtsieg) â€” HZ 0:2. (4) Sassuolo (Mid-Table-Saisonende) 2:0 vs Milan (Top-6, Auswaerts-Form schwach) + Tomori 24\\' Rot. Vier Spiele mit identischer Motivations-Asymmetrie-Konstellation, vier Underdog-Siege. SAFE-Bein avl-tot-1 (Villa 1X @ 1.45) und SAFE-Bein bmg-bvb-2 (BVB X2 @ 1.30) verloren beide aus exakt diesem Pattern. NEUE HARTREGEL: Bei Spielen am Saisonende (letzte 4 Spieltage) IMMER pruefen ob Heim-Team Saisonziel mathematisch bereits erreicht/verloren hat UND Auswaertsteam noch Pflichtpunkt-Bedarf hat. In dieser Konstellation: Auswaerts-Underdog-DC oder -Sieg als VALUE markieren, NIE Heim-Team als SAFE. Erweitert die 03.05.-Lesson 'SAFE-Reality-Check #2' (CL-HF-Rotation) um Saisonziel-Mathematik-Mathematik-Faktor. Aktive Suche fuer naechste Routinen: Restspielplan 03.-17.05. mit klar motivierten Underdogs gegen Top-7-Mitlaeufer als VALUE-Hauptquelle priorisieren.",
-            "bezug_spiel_id": "2026-05-03-avl-tot"
-        },
-        {
-            "datum": "2026-05-04",
-            "kategorie": "Einwechslungs-Boost-Trigger-Cluster ohne Tipp (Quelle 8i)",
-            "lesson": "AKTIVE TRIGGER OHNE EINSATZ am 03.05.: Drei Einwechslungs-Tor-Trigger an einem Spieltag, KEIN Torschuetzen-Tipp drauf â€” Edge verschenkt. (1) Buendia 90\\' @ Aston Villa, kam fuer Sancho â€” wenn 'Sancho trifft' getippt waere, Boost-Trigger AKTIV (gewonnen via bet365-Regel). (2) Mkhitaryan 70\\' @ Inter, kam fuer Zielinski â€” wenn 'Zielinski trifft' getippt waere, Boost-Trigger AKTIV. (3) Ceesay 87\\' @ St. Pauli (Anschlusstor) â€” kam als Joker (vermutlich fuer Sahin/Eggestein) â€” wenn der jeweilige Tipp-Spieler getippt waere, Boost moeglich. Plus Mainoo 77\\' Game-Winner @ United. NEUE STRATEGIE-REGEL: Bei Top-Klubs mit Volume-Backup-Stuermer (Inter Lautaro/Thuram/Mkhitaryan-Rotation, Tottenham Buendia-/Joker-Rotation, Bayern Olise/Tel) AKTIV nach Torschuetzen-Tipps suchen, die ueber Boost-Mechanik laufen â€” Zielspieler-Quote 4.0+ mit hoher Auswechslungs-Wahrscheinlichkeit. Goldgrube 'Torschuetzen Jederzeit' steht im Markt-Aggregat bei +24.4% ROI (50% Hitrate, n=8) â€” passt zur These. Naechste Routine MUSS in BL/Serie A/PL pro Top-7-Mannschaft mind. 1 Torschuetzen-Tipp setzen, statt nur Sieg/DC/Total. ZUSATZ: 27.04.-Lesson zur Mechanik-Praezisierung (Tipp-Spieler MUSS ausgewechselt werden) bleibt â€” nur dann zaehlt Boost.",
-            "bezug_spiel_id": "2026-05-03-avl-tot"
-        },
-        {
-            "datum": "2026-05-04",
-            "kategorie": "NBA-G7-Heim-Court-Edge bestaetigt (5/6 Tipps + Heim-Spread-Cover)",
-            "lesson": "ERFOLGS-VALIDIERUNG NBA-Round-1-G7: 03.-04.05. zwei G7-Spiele, beide Heim-Team gewann + coverte Spread. Pistons 116:94 Magic (Spread -7.5 hochkant gecovert mit 22 Punkten Diff), Cavs 114:102 Raptors (Spread -8.5 mit 12 Punkten Diff gecovert). 5 von 6 G7-Tipps gewonnen (nur Toronto +8.5 verloren). Cunningham 32+12 in G7 nach 45-Punkte-G5 - Decider-Heim-Star-Pattern. NBA-G7-Bilanz heute = +49% ROI auf 6 Tipps (estimiert). NEUE REGEL: NBA-Playoffs-G7 ist Heim-Court-Goldgrube â€” Heim-Sieg + Heim-Spread-Cover beide hoehere Wahrscheinlichkeit als Linie suggeriert. ZUSATZ: 02.05.-Lesson 'NBA-G6 als Beobachtungs-Liga' (-45.6% ROI) wird NICHT auf G7 uebertragen â€” G7 ist statistisch sauberer wegen reiner Heim-Court-Mathematik (Heim-Team hat in 2026 alle G7 + meisten Decider gewonnen). Auch Round-1-G7 sollte als VALUE-Liga in der Routine wieder auftauchen, separat von G6-Beobachtung. Aktiv suchen: Round-2-G7 wenn anstehend, Heim-Sieg + Heim-Spread bevorzugt.",
-            "bezug_spiel_id": "2026-05-03-det-orl"
-        },
-        {
-            "datum": "2026-05-04",
-            "kategorie": "SAFE-Konstruktion #3: kein Heim-Top-7-Sieg-Outcome SAFE wenn Auswaerts-Underdog Saisonziel hat (Verschaerfung)",
-            "lesson": "EMPIRISCHE VERSCHAERFUNG der Lessons 03.05. (SAFE-Reality-Check #2 + Safe-Kombi-Konstruktion): Heute Safe-Kombi @ 2.97 verloren NUR wegen avl-tot-1 (Villa 1X @ 1.45) â€” andere 3 Beine (United 1X, Madrid X2, Bournemouth 1X) gewannen alle. Diagnose: Villa 1X war Heim-Top-7-Outcome gegen Tottenham-Abstiegszone-Underdog. Das ist genau die Anti-SAFE-Konstellation. SAFE-Trefferquote nach 03.05. weiter 71.2% (Soll 75-90%, ROI -4.7%) â€” der Hauptverlustquelle bleibt 'Heim-Top-7-DC oder -Sieg gegen voll-motivierten Auswaerts-Underdog'. NEUE HARTREGEL fuer SAFE-Label (additiv zu 03.05.-SAFE-Reality-Check #2): Heim-Team-DC oder -Sieg darf NUR dann SAFE sein, wenn (a) Heim-Team voll motiviertes Saisonziel (Titel/CL-Quali/Klassenerhalt-Druck) UND (b) Auswaerts-Team kein scharfes Saisonziel mehr (gerettet/Mid-Table) UND (c) keine UEFA-Doppelbelastung beim Heim-Team. Wenn EINER der drei Faktoren nicht erfuellt: max VALUE oder ueberspringen. Praktisch fuer naechste 4 Spieltage Mai 26: Heim-Team mit erreichtem Saisonziel + Auswaerts-Underdog mit Druck = Anti-SAFE. Spiegel-Edge (Auswaerts-Underdog DC X2 @ Quote 2.5+) als VALUE markieren. Diese Lesson ist hoechste Prioritaet fuer Tipps-Routine â€” sie loest die wiederholte SAFE-Unterperformance strukturell.",
-            "bezug_spiel_id": "2026-05-03-avl-tot"
-        },
-        {
-            "datum": "2026-05-04",
-            "kategorie": "NBA-Playoffs: Mapper-Haerter (Hebel B ROI-Sanierung)",
-            "lesson": "Bilanz Stand 04.05. NBA Playoffs Round 1: Game 6 = 7 Tipps / 28.6% Trefferquote / -45.6% ROI. Game 5 = 13 Tipps / 53.8% / -16.7% ROI. Lesson 26.04. (Player-Punkte-Boykott) greift zu schmal - auch Sieg/Spread/Total bluten. Schema-Mapper validate_nba_playoff() macht jetzt: (1) jedes NBA-Playoff-Spiel Kategorie SAFE automatisch auf VALUE. (2) Decider-Spiele (Game 5/6/7) Sieg/Spread/Total/DC automatisch auf WACKEL. Plus erweiterte validate_beobachtungs_liga(): Decider-Ligas (Regex 'NBA Playoffs ... Game 5/6/7' oder 'G5/G6/G7') werden IMMER als Beobachtungs-Liga behandelt - auch wenn die Auto-Erkennung wegen Sample-Groesse oder Liga-String-Variation versagt. Hintergrund: Defense-Adjustments, Verletzungspech, Blowout-Q4-Bank, Sweep-Druck und Ueberraschungs-Closeouts machen Decider-Varianz extrem. Routine-Disziplin allein hat versagt (siehe Lesson 26.04. - trotz Boykott rutschten Sieg/Spread-Tipps auf G6 durch).",
-            "bezug_spiel_id": null
-        },
-        {
-            "datum": "2026-05-04",
-            "kategorie": "SAFE-Reality-Check: Mapper-Confirm (Hebel C ROI-Sanierung)",
-            "lesson": "SAFE-Trefferquote war 04.05. nur 71.2% bei 52 Tipps - 4 Punkte unter Soll-Untergrenze von 75-90%. ROI auf SAFE -4.7%. SAFE-Label wurde von der Routine zu locker vergeben. Schema-Mapper validate_safe_confirm() bestaetigt SAFE jetzt nur wenn: (a) Markt-Typ in markt_goldgruben.json (z.B. Doppelte Chance 1X/X2, Torschuetzen Jederzeit) ODER (b) Liga in der neuen liga_goldgruben.json (aktuell Premier League, LaLiga, CL Halbfinale Hinspiel) ODER (c) Liga-Sample <5 Tipps (Datenmangel - z.B. DFB-Pokal HF mit n=4 und +46% ROI sollen nicht bestraft werden). Sonst SAFE -> VALUE. Liga-Goldgrube-Kriterium: ROI > 15% ODER (Trefferquote >= 65% UND ROI > 0%) bei n >= 5. Auto-generiert in scripts/statistik_berechnen.py:berechne_liga_goldgruben(). Damit haben SAFE-Tipps wieder echte Substanz statt 'fuehlt sich sicher an'-Label.",
-            "bezug_spiel_id": null
-        },
-        {
-            "datum": "2026-05-04",
-            "kategorie": "Saison-Kontext-Sanity: Mapper-Hebel S",
-            "lesson": "Lehre aus 03.05. BMG-BVB (Endstand 1:0 fuer BMG) + Freiburg-Wolfsburg (1:1): Routine recherchiert saison_kontext{} korrekt, ignoriert ihn dann bei der Kategorie-Vergabe. BMG-BVB: Routine schrieb selbst 'Klassenerhalt faktisch durch fuer BMG + Vize hinter uneinholbarem Bayern fuer BVB' und labelte trotzdem SAFE auf BVB-DC. Freiburg-Wolfsburg: Routine schrieb 'Edge daher kleiner als Heimstaerke suggeriert' und labelte trotzdem SAFE auf Freiburg-DC. Schema-Mapper validate_saison_kontext_sanity() degradiert jetzt SAFE/VALUE auf Sieg/DC/Spread eine Stufe runter wenn (a) saisonziel_heim/gast Komfort-Pattern enthaelt (gerettet, uneinholbar, ohne druck, klassenerhalt durch, mid-table gesichert, saisonziel erreicht), (b) motivations_asymmetrie Asymmetrie-Warnung (rotiert, edge kleiner als, doppelbelastung) oder (c) recovery-Felder Belastungs-Pattern (mude, ermuedung, recovery kritisch). Tor-Maerkte sind ausgenommen. Damit zwingt der Mapper die Routine-eigene Recherche in die Kategorie-Vergabe.",
-            "bezug_spiel_id": "2026-05-03-bmg-bvb"
-        },
-        {
-            "datum": "2026-05-04",
-            "kategorie": "Markt-Mix-Pflicht pro Spiel: Mapper-Hebel M",
-            "lesson": "Lehre aus 03.05. St.Pauli-Mainz (1:2 Mainz-Sieg auswaerts): Routine packte 3 rein defensive Tipps auf das Spiel - 'Unter 2.5 Tore' (verloren, 3 Tore), 'Mainz oder Unentschieden' (gewonnen aber Quote 1.30), 'Beide Teams treffen NEIN' (verloren). Bilanz Spiel: -2 Units in einem Spiel das Mainz klar gewann. Was gefehlt hat: Mainz-Sieg @ 2.0 (gewonnen), BTTS-Ja @ 1.65 (gewonnen), Mainz-Torschuetze (Goldgrube +24% ROI, ignoriert). Routine ist DC-suechtig, packt zu defensive Maerkte zusammen. Schema-Mapper validate_markt_mix() macht jetzt: (1) max 1 DC pro Spiel - mehrere DC-Tipps werden auf den hoechstpriorisierten reduziert. (2) Wenn ein Spiel KEINEN Sieg- und KEINEN Torschuetzen-Tipp hat (also nur DC/Total/BTTS-Defensiv-Mix), wird SAFE-DC auf VALUE downgegradet - kein offensives Edge-Signal = kein SAFE. Damit haben SAFE-DC-Tipps nur dann Substanz wenn die Routine im selben Spiel auch ein offensives Bein gefunden hat.",
-            "bezug_spiel_id": "2026-05-03-stp-mai"
-        },
-        {
-            "datum": "2026-05-04",
-            "kategorie": "PFLICHT-PROFILE pro Spiel: Backup-Spieler + Form-Edge (Hebel-MIX 04.05.)",
-            "lesson": "BEFEHL an die Tipps-Routine, kein Vorschlag. Pro Spiel folgendes pruefen + tippen:\n(1) Wenn Heim-Sieg-Quote < 1.80 ODER Auswaerts-Sieg-Quote < 2.20: MIN 1 Torschuetzen-Tipp auf den Top-Stuermer mit aktueller Form ist PFLICHT. Goldgrube Torschuetzen Jederzeit hat 50% Hitrate / +24.4% ROI - ist der profitabelste Markt im System.\n(2) Wenn Top-Stuermer ausfaellt (Verletzung/CL-Aus): BACKUP-Stuermer-Torschuetzen-Tipp ist PFLICHT. Beispiele: Real Madrid ohne Mbappe -> Vinicius. Bayern ohne Kane -> Mueller/Sane. Leverkusen -> Schick (Form). BVB Backup -> Adeyemi/Brandt. (3) Form-Recherche pro Heim-/Auswaerts-Favorit: WebSearch 'Spielername letzte Spiele Tore' oder kicker.de Spieler-Profil. 3+ Tore in 5 Spielen ODER 2+ in 3 -> Torschuetzen-Tipp Pflicht.\n(4) DC-CAP: max 1 DC pro Spiel, max 2-3 DC im gesamten Dossier. Wenn dein Set 4+ DCs hat, ersetze die schwaechsten durch Torschuetzen.\n(5) Coinflip-Spiele (alle 1X2-Quoten 2.40-3.50): KEIN SAFE moeglich.\nHintergrund Lehre 03.05.: Vinicius-Tipp komplett uebersehen obwohl Mbappe seit CL-Aus weg, St.Pauli-Mainz mit 3 defensiven Tipps -2 Units bei klarem Mainz-Sieg, BVB-DC SAFE obwohl Routine selbst 'uneinholbar Bayern + Mid-Table ohne Druck' schrieb. Die Tipps die GEFEHLT haben waren Sieg + Torschuetze + Backup-Spieler. Mapper-Hebel M downgraded jetzt SAFE-DC wenn kein Sieg- und kein Torschuetzen-Tipp im Spiel ist.",
-            "bezug_spiel_id": null
-        },
-        {
-            "datum": "2026-05-04",
-            "kategorie": "META: Differenziertes Lernen statt Markt-Boykott",
-            "lesson": "User-Feedback 04.05.2026 (wichtig fuer Stil): Wenn ein Markt-Typ ueber 2-3 Tage schlecht laeuft, ist die Lehre NICHT 'Markt-Typ komplett aus Einzeltipps streichen'. Das ist Loeschen, nicht Lernen. Differenzierte Auswertung erforderlich. Beispiele:\n(1) NBA-Player-Punkte 22.-26.04. -46% ROI -> falsche Lehre 'Player-Punkte komplett raus'. Richtige Lehre: 'Underdog-Player bei Spread > 8 max WACKEL (Blowout-Q4-Bank); Heim-Top-Stars bei Spread < 5 + Form-Edge bleiben SAFE/VALUE-faehig'.\n(2) DD/TD nach Banchero-Beispiel 22.04. -> falsche Lehre 'DD raus aus Einzeltipps'. Richtige Lehre: 'DD nur wenn beide Stats (meist Pkt + Reb) realistisch 10+ Schnitt in letzten 5 Spielen, nicht bei Saisonschnitt-Streuung'.\n(3) NBA-Playoffs Round 1 -> falsche Lehre 'NBA-Playoffs nie SAFE'. Richtige Lehre: 'Decider G5/G6/G7 - Sieg/Spread/Total/DC max WACKEL (Closeout-Varianz). G1-G4 + Conference Finals + NBA Finals SAFE-faehig wenn klare Edge (Form, Spread, Defense-Match-up).'\nGenerelles Prinzip: Verlust-Pattern analysieren (welche Sub-Kategorie blutet?) statt pauschal blockieren. Mapper-Hebel B v2 04.05.: NBA-Playoff-Filter differenziert - nur Decider gefiltert, G1-G4 frei.",
-            "bezug_spiel_id": null
-        },
-        {
-            "datum": "2026-05-04",
-            "kategorie": "NBA Player-Punkte: Differenzierte Regel statt Boykott",
-            "lesson": "Korrektur des 26.04.-Boykott. Player-Punkte sind nicht generell raus, sondern differenziert nach Spielsituation:\nERLAUBT als VALUE/SAFE-faehig: Heim-Top-Stuermer eines Top-Teams bei Spread <= 5 Pkt UND Form-Edge (15+ Pkt in 3 von 5 letzten Spielen). Beispiel: Tatum @ Boston vs Underdog -3.5 Heim, letzte 5 mit 24/22/19/27/21 Pkt -> Ueber 21.5 SAFE/VALUE OK.\nMAX WACKEL bei: Underdog-Team-Player bei Spread > 8 (Blowout-Q4-Bankdruecker), Star-Out-Backup ohne Form-Beleg, Player vor Decider G5/G6/G7 (Defense-Adjustments).\nKOMPLETT RAUS bei: Player-Props ueber Saison-Schnitt-Linien des Underdogs in Auswaerts-Spielen (Underdog-Risiko + Auswaerts-Risiko + Saison-Linien-Bias = kombinierter Bluter-Pattern, war 23.04.-Lesson Bane/Wagner).",
-            "bezug_spiel_id": null
-        },
-        {
-            "datum": "2026-05-04",
-            "kategorie": "NBA DD/TD: Differenzierte Regel statt Boykott",
-            "lesson": "Korrektur. DD/TD nicht pauschal in Risiko/Moonshot abschieben, sondern: Erlaubt als VALUE wenn BEIDE Stats des DD-Markts (meist Pkt + Reb oder Pkt + Ast) in den letzten 5 Spielen Schnitt 10+ haben. Beispiel: Jokic Pkt+Reb DD - wenn letzte 5 Pkt-Schnitt 28 + Reb-Schnitt 12 -> DD VALUE OK. Wenn nur eine Stat konsistent (z.B. 25 Pkt aber Reb-Range 4-15 mit Schnitt 8) -> DD max WACKEL. Reference Lesson 23.04. Banchero 18/6/8: Schnitt 21/8 fuehrt nicht zu konsistentem DD weil Reb-Streuung zu gross. Triple-Double identisch + ALLE drei Stats geprueft.",
-            "bezug_spiel_id": null
-        },
-        {
-            "datum": "2026-05-04",
-            "kategorie": "Kasse-Stand: 550â‚¬ (zentral in data/kasse.json)",
-            "lesson": "Aktuelle Kasse bei bet365: 550â‚¬ (Stand 04.05.2026). Zentral in data/kasse.json gepflegt - bei jeder Aenderung dort updaten. Routinen sollen vor jedem Lauf data/kasse.json lesen und konkrete Euro-Werte in begruendung einbauen.\nStandard-Einsatz-Prozente x 550â‚¬:\n- SAFE/VALUE einzeln (1.5-2%): 8,25-11â‚¬\n- WACKEL einzeln (0.5%): 2,75â‚¬\n- Safe-Kombi (2%): 11â‚¬\n- Balance-Kombi (0.8%): 4,40â‚¬\n- Risiko-Kombi (0.25%): 1,40â‚¬\n- Moonshot-Kombi (0.1%): 0,55â‚¬ (oder 1-2â‚¬ Spasseinsatz wenn Quote 1000x+)\nDie Routine darf in begruendung schreiben 'Empfohlener Einsatz: 8,25â‚¬ (1,5% der 550â‚¬-Kasse)'. NIE mit veralteten 100â‚¬-Beispielen rechnen.",
-            "bezug_spiel_id": null
-        },
-        {
-            "datum": "2026-05-04",
-            "kategorie": "Kasse-Stufen-Modell + Auszahlungs-Strategie (User-Plan 04.05.)",
-            "lesson": "User-Plan 04.05.2026: Kasse-Aufbau in 2 Stufen + Profit-Skim.\nSTUFE 1 (Kasse < 1000â‚¬, aktuell 550â‚¬): Konservativ 1-2% pro Einzeltipp. Aufbau-Phase, kein Risiko. Routinen empfehlen 5,50-11â‚¬ pro SAFE/VALUE-Einzel.\nSTUFE 2 (Kasse >= 1000â‚¬): User will 100â‚¬-Einzeltipps auf solide 1.80-2.30-Quoten (=10% bei 1000â‚¬ Kasse, =5% bei 2000â‚¬ Kasse). Half-Kelly bei ~60% Trefferquote. VORAUSSETZUNG: rolling 30 Tage ROI > +5% laut statistik.json. Bei -3% ROI bleibt Stufe 1 aktiv selbst bei 2000â‚¬ Kasse - Aggressivitaet ohne Edge = Selbstmord.\nAUSZAHLUNGS-TRIGGER: jedes Mal wenn Kasse >= 1000â‚¬ + 200â‚¬ -> 200â‚¬ auszahlen, Basis bleibt 1000â‚¬. Sichert echten Profit, kein Papier-Geld im Konto.\nRoutinen MUESSEN: (1) data/kasse.json vor jedem Lauf lesen, (2) aktuelle_stufe bestimmen (Kasse + 30d-ROI), (3) Einsatz-Empfehlung je Stufe in begruendung schreiben mit konkreten Euros, (4) Auszahlungs-Hinweis im Dossier-hinweis-Feld wenn Kasse >= 1200â‚¬.",
-            "bezug_spiel_id": null
-        },
-        {
-            "datum": "2026-05-04",
-            "kategorie": "AUTO-PATTERN: NBA Playoffs Round 1, Game 5 / NBA-Player-Punkte / value - 75% Verlust (3/4)",
-            "lesson": "Auto-erkannter Verlust-Cluster Stand 2026-05-04: in Liga 'NBA Playoffs Round 1, Game 5' wurden 4 VALUE-Tipps auf Markt-Kat 'NBA-Player-Punkte' platziert, davon 3 verloren (75%). Empfehlung: diesen Cluster in den naechsten Lauefen NICHT mehr als VALUE - max eine Stufe runter (safe->value, value->wackel) bis Verlust-Quote < 50%. Beispiele: 2026-04-27 Denver Nuggets - Minnesota Timberwolves (Unter 222.5 Punkte (Total)) -> Nuggets 125:113 Wolves (Serie 3-2); 2026-04-28 Boston Celtics - Philadelphia 76ers (Beide Teams Mehr als 100 Punkte) -> ?; 2026-04-29 Detroit Pistons - Orlando Magic (Unter 211.5 Punkte (Total)) -> Pistons 116:109 Magic",
-            "bezug_spiel_id": null,
-            "auto_generiert": true
-        },
-        {
-            "datum": "2026-05-04",
-            "kategorie": "AUTO-PATTERN: Reine Defensiv-Cluster trotz Hebel M",
-            "lesson": "4 Spiele in den letzten 7 Tagen mit 3+ defensiven Tipps (DC/Total/BTTS) und 0 offensiven Tipps (Sieg/Torschuetze). Hebel M sollte das eigentlich abfangen - Mapper-Pattern erweitern oder Routine-Disziplin verschaerfen. Beispiele: 2026-04-30 Nottingham Forest - Aston Villa (3x defensiv, 0 offensiv) -> 2 verloren (?); 2026-05-02 Werder Bremen - FC Augsburg (3x defensiv, 0 offensiv) -> 4 verloren (1:3); 2026-05-02 1. FC Union Berlin - 1. FC Koeln (3x defensiv, 0 offensiv) -> 2 verloren (2:2)",
-            "bezug_spiel_id": null,
-            "auto_generiert": true
-        },
-        {
-            "datum": "2026-05-04",
-            "kategorie": "HR1: bet365-Quote PFLICHT direkt verifiziert (nicht Aggregator)",
-            "lesson": "EMPIRIE 04.05. Chelsea-Forest 1:3: App rechnete Aggregator-Quote 1.73 fuer Chelsea-Sieg, bet365 hatte aber 1.39 (-25% Differenz). Phantom-VALUE auf Chelsea-DC, Forest-Sieg @ 7.00 (Aggregator nur 4.50) komplett uebersehen. Verlust 16.66 Euro bei einem Spiel das mit korrektem Quoten-Check Gewinn 80 Euro+ gewesen waere. HARTREGEL: Vor jedem Tipp bet365-Quote DIREKT verifizieren via WebSearch 'bet365 [heim] vs [gast] odds' oder WebFetch bet365-Mobile. JSON-Pflichtfelder pro Tipp: quote_bet365, quote_aggregator, quote_diff_prozent, quote_source. Wenn |quote_diff_prozent|>10%: (a) Sieg-Markt: bet365=Wahrheit, Edge neu rechnen. (b) Tor/Total: max WACKEL. (c) Begruendung MUSS beide Quoten + Differenz nennen. bet365 DE hat oft Heim-Favoriten-Bias - das ist die EDGE-QUELLE wenn man bet365-Quote echt kennt.",
-            "bezug_spiel_id": "2026-05-04-che-nfo"
-        },
-        {
-            "datum": "2026-05-04",
-            "kategorie": "HR2: Anti-Heim-Bias bei Form-Realitaet (Mapper-Hebel HF)",
-            "lesson": "EMPIRIE 04.05. Chelsea-Forest 1:3 Heim-Pleite: Chelsea Heim-Favorit @ 1.73 mit 5 Heim-Pleiten Serie + 8 Pleiten in 12 + 5 Heimspielen ohne eigenes Tor. Forest auswaerts 9 Spiele unbesiegt + 8/8 PL-Auswaertsspielen mit eigenem Tor. App labelte trotzdem Chelsea-DC VALUE + Palmer-Tor VALUE. Beide tot. HARTREGEL validate_heim_form(): Wenn heim_form_letzte_5 enthaelt 3+ Niederlagen ODER heim_serie 3+ Heimpleiten Folge ODER heim_tore_letzte_5<4 (Sturm-Krise) -> Heim-Sieg/-DC/-Torschuetzen-Tipp KOMPLETT SKIPPEN (nicht downgrade), Spiegel-Tipp Underdog-Auswaerts-DC/-Sieg als VALUE generieren. Tor-Aggregat-Tipps (BTTS/Ueber/Unter) bleiben unberuehrt. Pflichtfelder im saison_kontext: heim_form_letzte_5, gast_form_letzte_5, heim_serie, gast_serie, heim_tore_letzte_5, gast_tore_letzte_5.",
-            "bezug_spiel_id": "2026-05-04-che-nfo"
-        },
-        {
-            "datum": "2026-05-04",
-            "kategorie": "HR3: Joker-Stuermer statt Top-Stuermer bei UEFA-Doppelbelastung",
-            "lesson": "EMPIRIE 04.05. Chelsea-Forest: App-Begruendung schrieb SELBST 'Wood koennte rotiert werden wegen EL-Rueckspiel 4 Tage spaeter'. Trotzdem Wood @ 3.50 als WACKEL getippt, NICHT der Joker. Awoniyi (Forest-Backup-Stuermer in Doppelspitze mit Igor Jesus) NICHT als Tipp-Kandidat. Awoniyi traf DOPPELT @ 4.00. HARTREGEL: Wenn parallel_heim/gast UEFA-Spiel <4 Tage UND motivations_asymmetrie 'rotier'-Token UND recovery-Belastung: (1) Top-Stuermer-Tipp max WACKEL, NIE VALUE/SAFE. (2) WebSearch 'predicted XI [Team] [Datum]' aktiv suchen. (3) Backup-Stuermer Quote 3.5-6.0 -> VALUE-Label, Begruendung 'Boost-Setup ueber bet365-Auswechslungs-Mechanik'. (4) Bei Doppelspitze: den unbeliebteren (= hoehere Quote) als VALUE. Ausnahme: Final-Spiele/Decider ohne Rueckspiel-Druck.",
-            "bezug_spiel_id": "2026-05-04-che-nfo"
-        },
-        {
-            "datum": "2026-05-04",
-            "kategorie": "HR4: Story-Konflikt-Check verschaerft (Hebel S v2)",
-            "lesson": "EMPIRIE 04.05. Chelsea-Forest + 03.05. BMG-BVB + Freiburg-Wolfsburg: Routine schreibt Begruendung mit klaren Konflikt-Tokens, labelt Tipp trotzdem hoch. Bestehender Hebel S faengt nur 'edge kleiner als'/'eher 50/50' ab - nicht konkrete Pattern. HARTREGEL validate_story_konflikt() Erweiterung scannt begruendung[]: (a) Tipp Heim-Sieg/-DC + Begruendung enthaelt 'Pleiten-Serie'/'Heim-Krise'/'X Spiele ohne Sieg'/'rotier' -> max WACKEL. (b) Tipp Top-Stuermer-Tor + Begruendung enthaelt 'rotier'/'ausgewechselt'/'Auswechslungs-Wahrscheinlichkeit hoch' -> max WACKEL. (c) Tipp Auswaerts-Underdog-Niederlage (kein Underdog-Tipp gesetzt) + Gast-Begruendung '9 Spiele unbesiegt'/'Form-Edge' -> Spiegel-Tipp pruefen. (d) SAFE + Begruendung 'Saisonziel erreicht'/'gerettet'/'uneinholbar'/'kein Druck mehr' beim getippten Team -> max VALUE. Keine Ausnahme.",
-            "bezug_spiel_id": "2026-05-04-che-nfo"
-        },
-        {
-            "datum": "2026-05-04",
-            "kategorie": "HR5: Markt-Familie-Diversitaet pro Spiel (max 2 pro Familie)",
-            "lesson": "EMPIRIE 04.05. Chelsea-Forest hatte 4 Tipps - 3 davon Tor-bezogen (Palmer, Wood, BTTS). Wenn Chelsea nicht trifft sterben 2-3 Tipps gleichzeitig. Korrelations-Risiko in einem Spiel. HARTREGEL validate_markt_familie() pro Spiel max 2 Tipps aus derselben Markt-Familie: A: Sieg/DC/Doppelchance/Handicap (Outcome). B: Tor jederzeit/1.Torschuetze (Spieler-Tor). C: BTTS/Ueber-Unter Tore-Total/HZ-Tore (Tore-Aggregat). D: HZ-Sieger/HZ-ES-Kombi/Erste-Halbzeit-Tore (HZ). E: NBA Player-Punkte/DD/TD. F: NBA Spread/Quarter. Bei 4 Tipps pro Spiel: 1A+1B+1C+1D (oder NBA E/F). Bei <4 Spielen am Tag (Schmal-Tag): Diversitaets-Regel auf 3 pro Familie aufweichen.",
-            "bezug_spiel_id": null
-        },
-        {
-            "datum": "2026-05-04",
-            "kategorie": "HR6: Auswaerts-Form-Auto-VALUE-Detektor",
-            "lesson": "EMPIRIE 04.05.: Forest 9 Spiele unbesiegt + 8/8 PL-Auswaertsspielen mit eigenem Tor + 6 Auswaertssiege Saison. App hat Forest-Sieg-Tipp NICHT gesetzt. Stattdessen Chelsea-DC. Forest-Sieg @ 7.00 endete als Treffer. HARTREGEL validate_auswaerts_auto_value(): Wenn gast_form (a) >=6 Spiele unbesiegt UND (b) >=6 Auswaertsspiele mit eigenem Tor UND (c) Saisonziel-Druck (CL-Quali/EL-Quali/Klassenerhalts-Pflicht) -> AUTO-VALUE-Tipp Gast-Sieg ODER Gast-DC X2 ODER Gast-Top-Stuermer-Tor mit Quote 2.5+ generieren, Einsatz 0.5-1.0%, in einzeltipps[] + Risiko-Kombi. Pflichtfelder: gast_unbesiegt_serie (int), gast_auswaerts_tor_serie (int), gast_saisonziel_druck (bool). Ausnahme: Top-vs-Top wo beide Kriterien erfuellen.",
-            "bezug_spiel_id": "2026-05-04-che-nfo"
-        },
-        {
-            "datum": "2026-05-04",
-            "kategorie": "HR7: NBA Player-Punkte mit Verletzungs-Realismus + Spread-Cap",
-            "lesson": "EMPIRIE Player-Punkte historisch -46.2% ROI / 29.4% Hitrate. Lesson 04.05. fr Boykott aufgehoben mit 'differenziert erlaubt' bei Heim-Top + Form + Spread<=8. Aber Wemby-Tipp 'Mehr als 24.5' bei Spread -13.5 = klares Blowout-Risiko. Im aktuellen Set als VALUE gelabelt - widerspricht der Lesson. HARTREGEL: Player-Punkte nur bei ALLEN Bedingungen: (a) Spread <=7.5 Pkt (kein Blowout-Risiko ab 8+). (b) Spieler in Round-1-Serie konstant 80%+ Linie ueberschritten. (c) Linie = Saison-Schnitt -2.0 oder niedriger (Markt unterschaetzt). (d) Keiner der 3 Top-Defender matchup-spezifisch. (e) Spieler-Status aktiv/startet verifiziert <2h vor Tip-off. Wenn nicht ALLE erfuellt -> max WACKEL, Einsatz max 0.25%. Player-Punkte NIE in Safe-Kombi, max 1x in Risiko-Kombi. Konkret heute: Wemby Spread -13.5 = max WACKEL nicht VALUE. Brunson Spread 7.5 = grenzwertig WACKEL OK.",
-            "bezug_spiel_id": "2026-05-05-spu-min"
-        },
-        {
-            "datum": "2026-05-04",
-            "kategorie": "HR8: NBA Round-2-G1 Spread-Cap bei extremen Spreads",
-            "lesson": "EMPIRIE NBA G6/G7-Bilanz: G6 -45.6% ROI (Decider-Druck), G7 +49% ROI (Heim-Court). G1 Round 2 'frei' aber problematisch bei extremen Spreads. Bei Spread >=10 ist Sieg-Hitrate hoch (75%+) ABER Spread-Cover unsicher (50-55%) - Underdog-Spread oft VALUE. HARTREGEL G1 Round 2 Spread >=10: (a) Heim-Sieg ML max VALUE (oft Quote 1.20-1.25 = wenig Edge bei 75% Hitrate, Einsatz reduziert 0.5-1.0%). (b) Heim-Spread NIE SAFE/VALUE bei Spread >=10. (c) Ueber/Unter Total wackelig bei Garbage-Time. (d) Spurs-Wolves heute: Spurs ML @ 1.22 = OK VALUE 1%, aber Spurs -13.5 waere WACKEL nicht VALUE. Konsistent. Ausnahme: G1 ohne extreme Spread (<8) = normale Regeln.",
-            "bezug_spiel_id": "2026-05-05-spu-min"
-        },
-        {
-            "datum": "2026-05-04",
-            "kategorie": "HR9: Drehungs-Cluster-Tag-Filter (Quelle 8f)",
-            "lesson": "EMPIRIE 04.05.: 3 Drehungen am Tag aus volle_analyse[]: Everton-City (City 0:1->3:1->3:3 Doppel-Drehung via Doku 90+7'), Cremonese-Lazio (Heim 1:0->1:2 in Stoppzeit), Spurs-Wolves G1 (19 Lead-Wechsel + Auswaerts-Knapp-Sieg trotz -13.5-Heim-Spread). Bei Kurz-Quoten-Sieg-Tipps an dem Tag: City-Sieg @ 1.51 verloren (3:3 Remis), Spurs-ML @ 1.22 verloren (Wolves 104:102) = 0/2 Hit bei Quote <=1.55. HARTREGEL validate_drehung_cluster() (taeglich nach Auswertung): Wenn drehung.war_drehung==True bei >=3 Spielen am Tag (ueber alle volle_analyse[]), dann fuer naechste 3 Tage werden alle Sieg-Tipps mit Quote <=1.55 + Spread >=10 von SAFE/VALUE auf wackel degradiert. Auch: 'Top-Team-Auswaerts-Sieg-Quote <=1.55' triggert pre-game-Drehungs-Sanity-Check (Heim-Form letzte 3 Spiele, Heim-eigenes-Tor-Quote). Drehungen sind nicht random sondern Edge-Indiz fuer ueberbewertete Favoriten.",
-            "bezug_spiel_id": null
-        },
-        {
-            "datum": "2026-05-04",
-            "kategorie": "HR10: Top-Team-Auswaerts-Krise-Heim-Klub-Falle (Quelle 8g)",
-            "lesson": "EMPIRIE 04.05. Everton-City (Beobachtung aus volle_analyse): City Auswaerts-Favorit @ 1.51 vs Everton (Mid-Table, kein Saisonziel mehr) - City fuehrte 0:1 zur Pause, Everton drehte auf 3:1 in 13 Minuten via Barry-Doppelpack. Klassisches 'Top-Klub-Auswaerts-mit-Liga-Druck-vs-Mid-Table-Heim-Befreit-Aufspielen'-Pattern. Annahme 'Mid-Table-Heim-Klub ohne Saisonziel = leichter Gegner' war Markt-Falle - vor eigenem Publikum spielen sie befreit auf, oft offensiver als wenn sie noch Punkte brauchen. HARTREGEL validate_top_team_auswaerts(): Top-Team-Auswaerts-Sieg-Tipp mit Quote <=1.55 nur SAFE/VALUE wenn ALLE: (a) Heim-Klub <= 35 Punkte ODER Heim-Form-Niederlagen-Serie >= 3 ODER kein eigenes Tor in letzten 3 Heim-Spielen. Sonst max WACKEL. Mid-Table-Heim-Klub vor Saisonende = AUTO-WACKEL bei Top-Team-Auswaerts-Sieg-Tipp <=1.55. Boostet auch Auswaerts-DC X2-Profile als VALUE statt reinem Sieg-Tipp.",
-            "bezug_spiel_id": "2026-05-04-eve-mci"
-        },
-        {
-            "datum": "2026-05-04",
-            "kategorie": "HR11: Beobachtungs-Liga Soft-VALUE bei klarem Klassen-Edge (Quelle 8g)",
-            "lesson": "EMPIRIE 04.05. Roma-Fiorentina (BEOBACHTUNGS-LIGA, 0 Stake): Roma 4:0 zur Pause (3:0 nach 34 Min, Tor-Schuetzen Mancini, Wesley, Hermoso, Pisilli) - klassisches Heim-EL-Druck-Klub vs Mid-Table-ohne-Saisonziel-Klub-Pattern. Auto-Markt-Resultate: BTTS NEIN, Ueber 3.5 erreicht, Heim-zu-null. Tipps-Routine hatte das Spiel als 0-Stake gesetzt (Beobachtung), aber das Pattern war so klar dass ein 0.5%-Stake gerechtfertigt waere. HARTREGEL validate_beobachtung_soft_value(): Auch in Beobachtungs-Liga 1 VALUE-Tipp mit max 0.5% Stake erlaubt wenn ALLE: (a) Heim-Klub Top-6 mit aktivem CL-/EL-Quali-Druck (Pflicht-Sieg-Konstellation), (b) Gast-Klub Mid-Table-/Bottom-Half OHNE eigenes Saisonziel + ohne UEFA-Doppelbelastung, (c) Heim-Form letzte 3 mit Sieg + eigenem Tor. Tipp dann in einzeltipps[]+kombis[]-Set mit Beobachtungs-Marker. Damit beobachtungs_ligen.json-Filter nicht alle EV-Quellen aus Bluter-Ligen abschneidet - selektive Reaktivierung statt totaler Sperre.",
-            "bezug_spiel_id": "2026-05-04-rom-fio"
-        },
-        {
-            "datum": "2026-05-04",
-            "kategorie": "HR12: Joker-Stuermer-Profil bei Klassenerhalts-Heim-Spielen (Quelle 8i)",
-            "lesson": "EMPIRIE 04.05. Sevilla-Sociedad (volle_analyse einwechslungs_tor_highlights[]): Alexis Sanchez (37J, etablierter Joker) kam HZ-Pause rein, schoss 50. Min das einzige Tor zum 1:0-Klassenerhalts-Sieg fuer Sevilla. Tipps-Routine hatte Torschuetzen-Tipp auf OYARZABAL (Sociedad-Auswaerts) gesetzt - kein Sevilla-Spieler. Joker-Trigger AKTIV ohne Tipp drauf - genau das Pattern Lesson 8i. HARTREGEL validate_joker_profile(): Bei Klassenerhalts-Heim-Spielen (Heim-Klub Abstiegszone bzw <=2 Punkte ueber Strich, MUSS-Sieg) wenn Kader etablierten Joker-Stuermer hat (z.B. Sanchez bei Sevilla, Pellegri-Profil bei Empoli, Choupo-Moting-Profil bei Bayern, Origi-Profil) -> AUTO-Torschuetzen-Tipp Joker-Spieler Quote >=4.0 als wackel mit 0.25% Stake. Pflichtfeld im saison_kontext: 'joker_profile_heim'/'joker_profile_gast' (Spieler-Name + Saisontore + erwartete Bookies-Quote). Wenn n>=3 Joker-Tipps zukuenftig getrackt -> Markt-Aggregat 'Klassenerhalt-Joker' eigenes Bilanz-Aggregat in statistik.json.",
-            "bezug_spiel_id": "2026-05-04-sev-rso"
-        },
-        {
-            "datum": "2026-05-05",
-            "kategorie": "HR13: NBA Round-2-G1 Total-Adjustment-Phase (Quelle 8g â€” Markt-Pattern aus volle_analyse)",
-            "lesson": "EMPIRIE 05.05. (volle_analyse markt_resultate[]): Beide Round-2-G1-Spiele klar UNTER der Markt-Erwartung. Pistons-Cavs Final 212 Pkt vs Linie 214,5 (knapp unter, war Tipp 'Ueber 214,5' VERLOREN). OKC-Lakers Final 198 Pkt vs Linie 213,5 (-15,5 Pkt unter, war Tipp 'Ueber 213,5' im kombi-safe VERLOREN â€” Killer-Bein). Pattern: G1-Adjustment-Phase mit Defense-Fokus dampft Pace systematisch. HARTREGEL: Bei NBA-Round-2-G1 (also Best-of-7-Auftakt nach Round-1) Total-Tipps NUR auf 'Unter' als VALUE moeglich, 'Ueber' wird auf max wackel degradiert. Mapper-Hebel B-Erweiterung: round_2_g1_total_only_under(). Wenn n>=3 Round-2-G1-Total-Tipps getrackt -> eigenes Bilanz-Aggregat 'NBA-G1-Total' fuer Anpassungs-Empirie.",
-            "bezug_spiel_id": "2026-05-05-okc-lal"
-        },
-        {
-            "datum": "2026-05-05",
-            "kategorie": "HR14: Korrelations-Klumpung Star-Out-Spiel ueber mehrere Kombis (Quelle 8a â€” Korrelations-Analyse)",
-            "lesson": "EMPIRIE 05.05.: Alle 4 Kombis verloren â€” Klumpung im OKC-Lakers-G1-Spiel (Doncic-OUT, Spread 15,5). kombi-safe-Kill-Bein war 'Ueber 213,5' (verloren), kombi-balance-Kill-Bein war 'SGA Ueber 31,5' (verloren), kombi-risiko enthielt 'Lakers +10,5 Spread' (verloren). 3 von 4 Kombis hatten ein OKC-Lakers-Bein, davon 3 verloren â€” das Star-Out-Spiel hat keine Total/Player/Spread-Stabilitaet (Blowout-Realitaet). HARTREGEL: Bei Spielen mit Star-Out-Asymmetrie (Quote-impliziter Spread >= 15) maximal 1 Kombi-Bein aus dem Spiel ueber alle Kombis hinweg setzen â€” sonst Klumpungs-Risiko. Mapper-Hebel V (Variance-Cluster): pruefe pro Spiel die Anzahl Kombi-Beine, wenn >=2 Kombis ein Bein im selben Star-Out-Spiel haben -> ein Bein ersetzen mit Bein aus diversifiziertem Markt.",
-            "bezug_spiel_id": "2026-05-05-okc-lal"
-        },
-        {
-            "datum": "2026-05-05",
-            "kategorie": "HR15: Arsenal-CL-Heim-Defensiv-Mauer Goldgrube 'Unter 2.5' (Quelle 8g â€” markt_resultate ueber Spiel-Reihe)",
-            "lesson": "EMPIRIE 05.05. + 7 vorherige CL-Spiele: Arsenal hat nun 6/6 letzte CL-Heimspiele Unter 2.5 (5/6 zu null, 5/6 Heim-Sieg + 1 1:0 heute). Pattern volle_analyse markt_resultate[] zeigt Arsenal-CL-Heim als Defensiv-Goldgrube. Tipps-Routine hatte heute 'Ueber 3.5 Tore' @ 5.0 als Moonshot gesetzt (verloren) â€” strukturell falsch fuer Arsenal-CL-Heim-Pattern. HARTREGEL: Bei naechstem Arsenal-CL-Heimspiel (CL-Finale 30.05. wenn Heim-Status, ggf. ab CL-Saison 26/27) 'Unter 2.5 Tore' als VALUE/SAFE-Goldgrube setzen + 'Ueber X' Markt komplett DOWNGRADE. Allgemein: bei Klubs mit dokumentiertem 'Wettbewerbs-spezifisches-Defensiv-Pattern' (n>=5 Spiele Unter X im selben Wettbewerb) MUSS Tipps-Routine das in saison_kontext-Block 'wettbewerbs_pattern' ausweisen + Mapper triggert auto-DOWNGRADE Ueber-Tipps.",
-            "bezug_spiel_id": "2026-05-05-ars-atm"
-        },
-        {
-            "datum": "2026-05-05",
-            "kategorie": "HR16: NBA-Player-Punkte Round-Wechsel-Defensiv-Korrektur (Quelle 8c â€” Markt-Bilanz-Cluster)",
-            "lesson": "EMPIRIE 05.05.: 3/3 NBA-Player-Punkte-Tipps verloren â€” SGA 18 vs Linie 31,5 (-13,5), Cunningham 23 vs Linie 25,5 (-2,5) + 30,5 (-7,5). System-Aggregat 'Spieler-Punkte Ueber (NBA)' jetzt n=12 / 50% Hit / -7,8% ROI (vor 05.05.: 9 / ~67% / +14%). Cunningham Round-1-Schnitt 32,4 PPG vs heute 23 = -9 Pkt; Cavs-Defense Top-10 vs Magic-Defense Bottom-10 in Round 1 = klassische Round-Wechsel-Defensiv-Korrektur. HARTREGEL: NBA-Player-Punkte-Linie bei Round-Wechsel auf staerkeres Defense-Team gegen Round-1-Wert um -3 bis -5 Pkt korrigieren BEVOR der Markt-Punkte-Tipp erwogen wird. Wenn Linie nicht mindestens -3 Pkt unter Round-1-Schnitt steht -> kein Tipp setzen (Linie zu hoch). Mapper-Hebel P-Erweiterung: round_wechsel_defense_korrektur(spieler, round1_avg, gegner_def_rang) -> wenn delta < 3 -> Tipp drop.",
-            "bezug_spiel_id": "2026-05-05-det-cle"
-        },
-        {
-            "datum": "2026-05-07",
-            "kategorie": "HR17: Safe-Kombi-Korrelations-Falle bei 3 Sieg-Beinen (Quelle 8a â€” Korrelations-Analyse)",
-            "lesson": "EMPIRIE 06.05.: Safe-Kombi mit 3 reinen Sieg-Beinen (Bayern + Knicks ML + Spurs ML) verloren â€” 1 Bein (Bayern 1:1) reichte zum Komplett-Verlust trotz 2/3 Sieg-Beinen Treffer. Bayern war hoechstes Risiko-Quote-Bein (1.85 vs Knicks 1.37 / Spurs 1.22) und exakt das ist ausgefallen. Gesamt-Quote 3.09 wurde zu 0.0. Pattern: 3 Sieg-Beine in Safe-Kombi sind ueber-korreliert auf das schwaechste-impliziert-Wahrscheinlichkeits-Bein. HARTREGEL: Safe-Kombi maximal 2 Sieg-Beine + 1 abweichende Outcome (Total/DC/Spread/Torschuetze). Wenn nur 2 Sieg-Beine verfuegbar reicht das. Pflicht-Diversifikation Layer-2-Stufung: nicht 3x gleicher Outcome-Typ. Mapper-Hebel S (Safe-Kombi-Builder): max_sieg_beine=2, fallback_outcome={'DC','Total_Unter','Torschuetzen_Top'} priorisiert.",
-            "bezug_spiel_id": "2026-05-06-bay-psg"
-        },
-        {
-            "datum": "2026-05-07",
-            "kategorie": "HR18: NBA G2-Reaktions-Spike kippt Round-2-Total-Defensiv-Pattern (Quelle 8g â€” Markt-Pattern aus volle_analyse)",
-            "lesson": "EMPIRIE 06.05. (volle_analyse markt_resultate[]): Spurs-Wolves G2 Total 228 Pkt (133:95) â€” weit UEBER 215.5-Linie und +22 Pkt vs G1-Total (206). Spurs verloren G1 zuhause 102:104, kamen mit Reaktions-Spike-Eskalation zurueck. HR13-Defensiv-Pattern (G1-Adjustment) loesst sich auf, sobald Heim-Favorit Reaktions-Pflicht hat. Knicks-76ers G2 mit 210 Pkt knapp unter 215.5 (HR13 hielt da, weil Knicks bereits G1 dominierten â€” kein Reaktions-Druck). HARTREGEL: G2-Total-Tipps differenziert: (a) wenn Heim-Favorit G1 verloren hat -> 'Unter'-Linie NICHT setzen, max 'Ueber' als Wackel oder kein Total-Tipp; (b) wenn Heim-Favorit G1 gewonnen hat -> HR13 weiter aktiv, 'Unter' als VALUE moeglich. Mapper-Hebel T (Total-G2): pruefe G1-Heim-Outcome; wenn loss -> reaktions_spike_aktiv=True -> Unter-Tipp drop, Ueber max wackel.",
-            "bezug_spiel_id": "2026-05-06-sas-min"
-        },
-        {
-            "datum": "2026-05-07",
-            "kategorie": "HR19: NBA-Spread-Cover knappes Margin-Risiko (Quelle 8b â€” Knappe Verluste)",
-            "lesson": "EMPIRIE 06.05.: Knicks -6.5 Spread @ 1.91 verloren â€” Knicks gewannen exakt mit 6 Punkten (108:102), 0.5 unter der Linie. Spread-Aggregat 'Spread/Handicap' bleibt zwar Goldgrube (+20.5% historisch), aber 0.5-Margen-Niederlagen haben einen kumulativen Effekt: 2 von 5 letzten -6.5/-7.5-Spread-Tipps verloren mit weniger als 1.0 Punkt Margin. HARTREGEL: NBA-Playoff-Spread bei -6.5 oder -7.5 zusaetzlicher Risiko-Check: pre-game G1-Spread-Margin pruefen â€” wenn G1 mit weniger als 7 Pkt entschieden wurde, ist G2-Spread-Cover ueber 6.5 fragil. Stattdessen ML mit reduziertem Stake oder -3.5/-4.5-Linie bevorzugen. Mapper-Hebel F-Erweiterung: spread_margin_check(g1_margin) -> wenn g1_margin < 7 und g2_spread_linie >= 6.5 -> Tipp auf wackel statt VALUE.",
-            "bezug_spiel_id": "2026-05-06-nyk-phi"
-        },
-        {
-            "datum": "2026-05-07",
-            "kategorie": "HR20: CL-K.O.-Rueckspiel-Tor-Reduzierung nach Hinspiel-Festival (Quelle 8g â€” Markt-Pattern)",
-            "lesson": "EMPIRIE 06.05.: Bayern-PSG Hinspiel 4:5 (9 Tore), Rueckspiel 1:1 (2 Tore). 'Mehr 2.5 Tore'-Tipp 1.40 verloren â€” Hinspiel-Tor-Festival war KEIN Indikator fuer Rueckspiel. Pattern: Bei CL-K.O.-Rueckspielen mit grossem Hinspiel-Total (>=7 Tore) korrigiert sich das Rueckspiel-Total nach UNTEN â€” Final-Phase-Druck + Defense-Adjustment + 'wer fuehrt schliesst zu' wirken zusammen. Historie hat n=2 jetzt (auch Bayer 04 vs Inter im April: Hinspiel 3:2, Rueckspiel 0:0). HARTREGEL: Bei CL-K.O.-Rueckspielen wenn Hinspiel-Total >= 7 Tore -> 'Mehr 2.5/3.5'-Tipp DOWNGRADE auf max wackel mit reduziertem Stake; 'Unter 2.5/3.5'-Tipp als VALUE moeglich. Pflichtfeld saison_kontext bei CL-K.O.-Rueckspielen: 'hinspiel_total_tore' + 'rueckspiel_total_korrektur_aktiv'. Mapper-Hebel U (UEFA-K.O.-Rueckspiel): if hinspiel_total >= 7 -> ueber_tipp_downgrade()=true.",
-            "bezug_spiel_id": "2026-05-06-bay-psg"
-        },
-        {
-            "datum": "2026-05-08",
-            "kategorie": "HR21: G2-Reaktions-Spike NUR bei beidseitig-gesunden Schuetzen-Aufstellungen (HR18-Falsifikation, Quelle 8g)",
-            "lesson": "HR18-PATTERN-EINGRENZUNG: G2-Total-Spike-Pattern (Cavs/Pistons G2 erwartet ueber 215.5) wurde am 07.05. teilweise FALSIFIZIERT - bei Pistons-Cavs Total NUR 204 (deutlich unter 215.5), weil Cavs-Strus 4 verfehlte 3-Pkt-Wuerfe + Cavs 0/11 aus 3-Pkt-Distanz im 4. Viertel. Bei Thunder-Lakers dagegen 232 Total (G1 198 -> G2 +34) voll Spike-aktiv trotz Doncic-OUT. Lesson: G2-Reaktions-Spike-These NUR ansetzen wenn (a) keine Top-3-Pkt-Schuetzen verletzt UND (b) keine Wurf-Krise-Form aus G1 erkennbar. Bei Wurfkrise-Risiko-Team (z.B. Cavs 0/11 Q4) eher Unter spielen. HR18 wird zu HR18-modifiziert: Spike-Empfehlung mit Wurf-Form-Check.",
-            "bezug_spiel_id": "2026-05-08-det-cle"
-        },
-        {
-            "datum": "2026-05-08",
-            "kategorie": "HR22: Star-OUT-Aufhol-Pflicht-Implosion (Quelle 8h â€” Rotation-Pattern)",
-            "lesson": "STAR-OUT-PATTERN-VERSCHAERFUNG: Strasbourg ohne Emegha (Top-Stuermer verletzt, Enciso als Notloesung) implodierte komplett - 0:1 verloren, kein eigenes Tor, alle 4 Strasbourg-Beine kaputt (Sieg + DC1X + BTTS-JA + Emegha-Tor (push)). Pattern-Wiederholung von Lakers-Doncic-OUT (29.04.) und Mainz-Bayern-Druck-Loesung (25.04.) - aber hier auf Strasbourg-Aufhol-Pflicht-Seite gespiegelt. Regel mechanisch: Bei Top-Stuermer-OUT in einem Heim-Aufhol-Pflicht-Rueckspiel SAFE/VALUE-Sieg-Tipps + DC + BTTS auf Heim-Seite ALLE STREICHEN (oder max wackel). Stattdessen Gegner-Sieg-Tipp ODER Total-Unter-Tipp setzen. Strasbourg-Cluster heute war Layer-3-Korrelations-Falle ueber 3 Kombis hinweg.",
-            "bezug_spiel_id": "2026-05-07-str-ray"
-        },
-        {
-            "datum": "2026-05-08",
-            "kategorie": "HR23: Layer-3-Diversifikation (max 1 Bein pro Spiel ueber ALLE Kombis hinweg, Quelle 8a â€” Korrelations-Analyse)",
-            "lesson": "KORRELATIONS-FALLE NEUE EBENE: Strasbourg-Spiel (Star-OUT Emegha) war heute in 3 von 4 Kombis (Safe-Kombi: DC1X, Risiko-Kombi: BTTS, Moonshot-Kombi: Emegha-Tor + Sieg-Freiburg). Bei Strasbourg-Komplettausfall (0:1, kein Tor) verloren alle 3 Kombis automatisch durch ein einziges Spiel. HR17 verbietet bislang nur 3 reine Sieg-Beine in EINER Safe-Kombi - das ist zu schwach. Neue Hartregel HR23: max 1 BEIN PRO SPIEL ueber ALLE Kombis hinweg (Layer-3-Diversifikation). Wenn ein Spiel ein Bein in Safe-Kombi hat, darf es kein Bein in Balance/Risiko/Moonshot haben. Ausnahme: Moonshot kann zusaetzlich 1 Bein haben, wenn es klar entkoppelter Markt ist (z.B. Heim-Sieg in Safe + reiner Total in Moonshot - keine Korrelation).",
-            "bezug_spiel_id": "2026-05-07-str-ray"
-        },
-        {
-            "datum": "2026-05-08",
-            "kategorie": "HR24: Form-Edge-Pflicht-Eingrenzung fuer Torschuetzen-Goldgrube (Quelle 8c â€” Markt-Bilanz)",
-            "lesson": "GOLDGRUBE-MARKT TORSCHUETZEN-JEDERZEIT (53.3% Hit / +60.8% ROI / n=15) bestaetigt sich weiter â€” Sarr (9. Conf-Tor in 14 Spielen, 5 Spiele in Folge getroffen) und Watkins (EL-Top-Torschuetze Villa) trafen heute beide. ABER: Mateta (Pfostentreffer + 66. ausgewechselt fuer Strand Larsen, kein Boost) und Grifo (Assist statt Tor, Standardschuetze, kein Volumen-9er) trafen NICHT. Pattern: 'Form-Edge-Pflicht' muss mechanisch eingeengt werden: NUR Goalscorer-Tipps SAFE/VALUE setzen wenn Spieler EINE der drei Bedingungen erfuellt: (a) 4+ Spiele in Folge getroffen, ODER (b) 5+ Tore in den letzten 10 Spielen, ODER (c) klassischer Mittelstuermer mit Volumen-Backup hinter sich (Einwechslungs-Boost). Standardschuetzen/Setpiece-Spezialisten (Grifo, Lijnders-Typ) max WACKEL. Mittelstuermer mit Pfostentreffer-Pech (Mateta) bleiben WACKEL. Aktualisiert HR12 (Joker-Stuermer-Profil).",
-            "bezug_spiel_id": "2026-05-07-pal-sha"
-        },
-        {
-            "datum": "2026-05-09",
-            "kategorie": "HR3 + HR12: Einwechslungs-Boost-Schutz nur bei DIREKTEM Ersatz â€” Squad-Backup-Liste reicht NICHT (Quelle 8i â€” Boost-Trigger ohne Tipp-Treffer)",
-            "lesson": "BOOST-FALLE LENS-EDOUARD: Edouard-Anytime-Goalscorer @ 2.08 wurde mit 'Sotoca/Sima/Fofana als Backup-Stuermer = Einwechslungs-Boost-Schutz' begruendet. Tatsaechlich: Lens nahm Edouard in Pokal-Final-Schon-Modus AUS, aber das siegbringende Tor erzielte der 16-jaehrige Debuetant Mezian Mesloub - der fuer SIMA reinkam (NICHT fuer Edouard). Boost greift bet365-mechanisch NUR fuer den DIREKTEN Ersatz von X auf der Position. Konsequenz: Bei rotations-gefaehrdeten Top-Stuermern (HR3-Joker) MUSS die Recherche die konkrete Bank-Aufstellung + erwartete Wechsel-Reihenfolge dokumentieren â€” nicht nur 'es gibt Backup-Stuermer'. Wenn das Team unter Schon-Druck steht (Cup-Finale <14 Tage), Tor-Tipp auf Top-9er max WACKEL, nicht VALUE. HR3 wird verschaerft: bei Cup-Finale-Schon-Risiko KEIN Anytime-Goalscorer-VALUE auf den Top-9er, auch wenn Backup nominal da ist.",
-            "bezug_spiel_id": "2026-05-08-len-nan"
-        },
-        {
-            "datum": "2026-05-09",
-            "kategorie": "HR23: Spielertor-Stack-Korrelation ueber Druck-/Schon-Profile (Quelle 8a â€” Korrelations-Analyse)",
-            "lesson": "RISIKO-KOMBI 0:3 ALLE TOR-BEINE: Edouard (Lens-Coupe-Schon-Spiel), Burkardt (Frankfurt-Auswaerts-Defensiv-erstickt vom BVB-Heim-Druck), Espi (Levante-Star-OUT-Krise) - drei verschiedene Spiele, drei verschiedene Ligen, aber ALLE in Profilen mit aktivem Druck/Schon-Mechanismus, der Top-Stuermern Spielzeit/Volumen klaut. Layer-1+2-Diversifikation greift hier nicht, weil das gemeinsame Profil 'Druck-/Schon-Spiel' nicht als Layer aufgelistet ist. Neue Mechanik HR23-PROFIL-LAYER: bei Spielertor-Stack-Kombi (3+ Anytime-Goalscorer-Beine) maximal 1 Bein aus einem 'Druck-/Schon-Profil' (HR3-Joker aktiv ODER Klassenerhalt-Star-OUT-HR22 aktiv ODER Heim-Druck-Auswaerts-Defensive-Lock) - die anderen Beine MUESSEN aus stabilen Profilen ohne Druck-/Schon-Trigger kommen. Sonst korreliert der Stack heimlich auf einem Faktor, der nicht als Layer gefuehrt wird.",
-            "bezug_spiel_id": "2026-05-08-len-nan"
-        },
-        {
-            "datum": "2026-05-09",
-            "kategorie": "Beobachtungs-Liga-Bestaetigung 2.BL + Serie A (Quelle 8d â€” Liga-Performance)",
-            "lesson": "BEOBACHTUNGS-LIGA-LOGIK FUNKTIONIERT: 2.BL Bielefeld-Auswaerts-Sieg @ 2.05 (Bookies-Favorit + Aufwind-Form + Lautern-Verletzungs-Krise) verlor 0:2 - klassischer 2.BL-Bias-Verlust. Serie-A Sassuolo-Sieg @ 2.88 (Topform + Conference-Hoffnung + Torino 6 Verletzte inkl. beide Stamm-Stuermer) verlor 1:2 in Rimonta. Beide Beobachtungs-Ligen lieferten den 4. + 5. Bias-Verlust am Stueck â€” Filter 'max wackel + nicht in Hauptkombis' war heute korrekt und sparte ~14 EUR (haetten als VALUE/SAFE 4-7% Kasse gekostet). Erweiterung der Regel: Wenn Beobachtungs-Liga 6+ aufeinanderfolgende Bias-Verluste produziert (= Bookies-Favorit-Logik systematisch falsch), Liga-Hard-Block aktivieren (NUR Moonshot-Beine ab Quote 5, KEIN normaler wackel-Tipp mehr). Nach +14 Bookies-Favorit-Niederlagen-Streak zaehlt 'Edge-Story' nicht mehr.",
-            "bezug_spiel_id": "2026-05-08-kai-bie"
-        },
-        {
-            "datum": "2026-05-09",
-            "kategorie": "HR18 + HR21: Reaktions-Spike-Deaktivierung bei Gegner-Star in historischer Form (Quelle 8h â€” Rotation/Form-Pattern)",
-            "lesson": "WOLVES-G3-REAKTIONS-SPIKE-NIEDERLAGE: nach 95-133-Worst-Loss-in-Franchise-History-Klatsche war Wolves-Heim-ML @ 2.64 als HR18-Reaktions-Spike-VALUE gesetzt. Wolves verloren 108-115 trotz Edwards 32/14/6 weil Wembanyama 39 Pkt + 15 Reb + 5 Blk lieferte (4. Spieler aller Zeiten mit 35/15/5+ in einem Playoff-Spiel, neben Shaq/Kareem/Olajuwon). Lesson: Reaktions-Spike-These (HR18) ist eine *Heim-Faktor-These*, aber Gegner-Star in historischer Form ueberlagert sie. Neue Eingrenzung HR21+: Reaktions-Spike-VALUE NUR setzen wenn (a) Gegner-Top-Star NICHT in den letzten 2 Spielen jeweils 35+/15+ ODER 12+ Blk geliefert hat UND (b) Heim-Star (Edwards) ohne Knee-Strain-Risiko ist. Sonst max WACKEL. Triple-Bestaetigung mit Mainz-Bayern (CL-Last) und Cavs-Strus-Wurf-Krise: HR18 ist nicht universell, sondern braucht Gegner-Form-Filter.",
-            "bezug_spiel_id": "2026-05-09-min-sas"
-        },
-        {
-            "datum": "2026-05-10",
-            "kategorie": "AUTO-PATTERN: Premier League / Sieg/Spread / value - 75% Verlust (3/4)",
-            "lesson": "Auto-erkannter Verlust-Cluster Stand 2026-05-10: in Liga 'Premier League' wurden 4 VALUE-Tipps auf Markt-Kat 'Sieg/Spread' platziert, davon 3 verloren (75%). Empfehlung: diesen Cluster in den naechsten Lauefen NICHT mehr als VALUE - max eine Stufe runter (safe->value, value->wackel) bis Verlust-Quote < 50%. Beispiele: 2026-05-03 Aston Villa - Tottenham Hotspur (Aston Villa Sieg) -> 1:2; 2026-05-04 FC Everton - Manchester City (Manchester City Sieg) -> 3:3; 2026-05-09 Sunderland AFC - Manchester United (Manchester United Sieg) -> 0:0",
-            "bezug_spiel_id": null,
-            "auto_generiert": true
-        },
-        {
-            "datum": "2026-05-10",
-            "kategorie": "Star-Stuermer-Aufstellungs-Verifikation 1-2h vor Anstoss (Quelle 8h â€” Rotation/Verletzung)",
-            "lesson": "DOPPEL-AUSFALL 09.05. â€” Salah (Liverpool, Tipp @ 1.85) UND Julian Alvarez (Atletico, Tipp @ 2.10) BEIDE am Spieltag verletzungsbedingt aus dem Kader gestrichen. Beide waren PFLICHT-PROFILE-Heim-Favorit-Tipps (Lesson 04.05.) und beide gefloppt obwohl sie laut Pre-Match-Quellen 'voll fit' waren. Lesson 22.04. (Roster-Verifikation) griff nicht â€” sie wurde nur fuer Trade-Risiko angewandt, nicht fuer kurzfristige Verletzungen. NEUE HARTREGEL: Bei JEDEM Stuermer-Torschuetzen-Tipp mit Quote unter 2.30 muss 1-2h vor Anstoss eine Aufstellungs-Verifikation per WebSearch ('[Spieler] starting lineup [Datum]' oder Vereinsseite) erfolgen. Bis zur Bestaetigung max 0.5% Einsatz, nach Bestaetigung Upgrade auf 1.5%. Ohne Verifikation: Tipp wird zu wackel degradiert ODER ganz gestrichen. Konsequenz heute: -3.0% Kasse (-16.50â‚¬) durch beide Tipps. Bezugsspiele: 2026-05-09-liv-che (Salah-Tor-Tipp) + 2026-05-09-atm-cel (Alvarez-Tor-Tipp).",
-            "bezug_spiel_id": "2026-05-09-liv-che"
-        },
-        {
-            "datum": "2026-05-10",
-            "kategorie": "Korrelations-Tag â€” alle 4 Kombis floppten gleichzeitig (Quelle 8a â€” Korrelations-Analyse)",
-            "lesson": "KORRELATIONS-CRASH 09.05.: ALLE 4 Kombis (Safe 3.31x / Balance 5.83x / Risiko 15.68x / Moonshot 112.9x) verloren am gleichen Tag. Killer-Beine: Safe = atm-cel-1 (Atletico-DC, Star-Ausfall) + sun-mun-1 (ManU-Sieg, 0:0). Balance = liv-che-2 (Salah Tor, Star-Ausfall) + atm-cel-2 (Alvarez Tor, Star-Ausfall). Risiko = tsg-svw-1 (Kramaric Tor) + sun-mun-2 (Mbeumo Tor). Moonshot = wob-bay-3 (Wolfsburg-Sieg) + fca-bmg-2 (Tabakovic). Pattern: 5 Stuermer-Tipps + 3 DC-Tipps + 3 Sieg-Tipps stammen alle aus EINER Edge-Logik (PFLICHT-PROFILE-Lesson 04.05. + DC-Cap-Lesson 04.05. + Star-Stuermer-Goldgrube-Lesson). Wenn diese Logik liga-weit kippt (Saisonende-Tor-Flaute + Star-Ausfaelle), bricht ALLES gleichzeitig. NEUE REGEL: max 2 Kombi-Beine duerfen aus DERSELBEN Lesson-Quelle stammen. Wenn 3+ Beine aus einer Quelle: Kombi neu konstruieren mit Beinen aus heterogenen Edge-Quellen (z.B. 1Ã— DC-Goldgrube + 1Ã— Stuermer-Goldgrube + 1Ã— saison_kontext-Edge + 1Ã— Markt-Goldgrube). Tagesbilanz: -3.15% Kasse aus Kombis allein.",
-            "bezug_spiel_id": null
-        },
-        {
-            "datum": "2026-05-10",
-            "kategorie": "HR3 Doppelbelastungs-Joker greift NICHT bei abgeschlossenem CL-Aus (Quelle 8h â€” Rotation-Pattern aus volle_analyse)",
-            "lesson": "ANTI-TOP-TEAM-ROTATION-THESE WIDERLEGT: Wolfsburg-Bayern 09.05. â€” Bayern-CL-HF-Aus 06.05. + Saisonziel-durch + 3 Tage Recovery = klassischer HR3-Doppelbelastungs-Setup. Tipp-Setup: Wolfsburg-Sieg @ 4.80 + BTTS @ 1.75 + Olise (Backup) @ 3.10. Resultat: Bayern gewann 0:1, Kane STARTELF + Olise STARTELF (NICHT Backup), Kompany rotierte praktisch nicht. Wolfsburg-Sieg + BTTS verloren, nur Olise-Tor traf (aber als Stamm, nicht als Joker). Lesson: HR3 (Lesson 27.04.+04.05.) greift nur bei BEVORSTEHENDEM Top-Wettkampf in der Folgewoche (z.B. CL-Finale), NICHT bei abgeschlossenem CL-Aus + Saisonziel-erreicht. Bei diesem Setup spielt Top-Team mit Stamm-Elf, weil Stolz/Form/Saisonende-Routine. NEUE REGEL: HR3-Doppelbelastungs-Joker nur aktivieren wenn (a) Top-Team noch Wettbewerb in <=7 Tagen vor sich hat ODER (b) Verletzungs-Druck konkret bestaetigt ist. CL-Aus alleine reicht NICHT.",
-            "bezug_spiel_id": "2026-05-09-wob-bay"
-        },
-        {
-            "datum": "2026-05-10",
-            "kategorie": "Saisonende-Tor-Flaute Mai 2026 (Quelle 8g â€” Markt-Pattern aus volle_analyse aller Spiele)",
-            "lesson": "MARKT-PATTERN AUS NICHT-GETIPPTEN ANALYSEN 09.05.: Acht Spiele Tor-Bilanz Wolfsburg-Bayern 1, Augsburg-Gladbach 4, Hoffenheim-Bremen 1, Liverpool-Chelsea 2, City-Brentford 3, Sunderland-ManU 0, Atletico-Celta 1, Sevilla-Espanyol 3 = 15 Tore in 8 Spielen = 1.88 Tore/Spiel. Saisonende-Schiene mit vielen Mid-Table-Begegnungen = TORARM. 5/8 Spiele unter 2.5 Tore. Aktive Implikation: Unsere fca-bmg-1 (Unter 3.5 Tore @ 1.30) und sev-esp-1 (Unter 2.5 @ 1.72) sind genau richtig konstruiert gewesen, aber haben VERLOREN â€” beide Spiele waren die torreichsten der Schiene (Augsburg 4, Sevilla 3). Lesson: Saisonende-Tor-Flaute ist real, ABER die Ausreisser-Spiele (Tor-Festival mit 3+ Toren) sind die mid-table-Spiele OHNE Klassenerhalt-Druck (Augsburg 9.Pl + Gladbach 11.Pl) â€” das passt zur 'Routine-Spiel ohne Druck = mehr Risiko'-Logik. NEUE REGEL: Unter-2.5/3.5 Tipps in Saisonende-Schiene NUR bei mind. einem Klassenerhalts- oder Pflicht-Sieg-Team (defensive Disziplin erzwungen). Bei Mid-vs-Mid ohne Druck: Coinflip, max wackel.",
-            "bezug_spiel_id": "2026-05-09-fca-bmg"
-        },
-        {
-            "datum": "2026-05-11",
-            "kategorie": "Star-Backup-Annahme widerlegt - Pre-Match-Reports nicht garantiebindend (Quelle 8a + STAR-AUSFALL)",
-            "lesson": "STAR-AUSFALL-BACKUP-PFLICHT NICHT IMMER VERLAESSLICH: Vinicius @ 2.40 als VALUE (Mbappe-Bank-Annahme aus SI/Yahoo-Reports 07-09.05.) verloren - Mbappe stand El Clasico tatsaechlich in der Startelf, Vinicius spielte 72 Min, traf nicht (in 72. fuer Rodrygo ausgewechselt, Rodrygo traf auch nicht = kein Boost). Pre-Match-Star-Status-Reports sind Wahrscheinlichkeits-Indikatoren, nicht Garantien. NEUE HARTREGEL: Bei Tipp-Quote unter 2.50, der auf Star-Ausfall-These des Backup-Stuermers basiert, ist Confirmed-Lineup-Pruefung (offizielle Aufstellung 30-60 Min vor Anstoss) PFLICHT. Ohne Lineup-Bestaetigung max wackel mit reduziertem Stake (0.5%). Verschaerfung der 04.05.-Lesson 'STAR-AUSFALL Backup-Pflicht'.",
-            "bezug_spiel_id": "2026-05-10-bar-rma"
-        },
-        {
-            "datum": "2026-05-11",
-            "kategorie": "BL-Sieg-Cluster Saisonende analog PL-Lesson 10.05. (Quelle 8c + 8e)",
-            "lesson": "VALIDIERUNG BL-SEITE: Mainz-Sieg @ 1.75 (VALUE / Goldgrube-Markt 'Sieg') verloren bei Union-Comeback 1:3 (88. + 90+1 Tore Burke + Juranovic). Conference-Quali-Druck-These (Mainz braucht Punkte) schlug nicht durch - Union-Eta-Erstsieg unter neuer Trainerin. Plus Whu-Ars (Arsenal-Sieg @ 1.56 - gewann nur 0:1 via Joker-Trossard 82.) und Bur-Avl (Villa-Sieg @ 1.62 - Remis 2:2). PATTERN: Saisonende-Mid-Table-Conference/Europa-Quali-Druck als Sieg-VALUE-Begruendung max wackel im Mai. Liga-Bilanz Bundesliga heute: 8 Tipps / 4 gewonnen / 4 verloren = 50% Hitrate trotz 'Goldgrube-Markt'. Lesson: Goldgrube-Markt 'Sieg (1X2)' wird im Saisonende durch Motivations-Asymmetrie-Verschiebung neutralisiert. Bei Mai-Spielen explizit Saisonende-Filter aktiv schalten.",
-            "bezug_spiel_id": "2026-05-10-m05-fcu"
-        },
-        {
-            "datum": "2026-05-11",
-            "kategorie": "EL/CL-Final-10-Tage-Vorbereitung Schon-Cluster (Quelle 8h + Rotation-Pattern)",
-            "lesson": "EL-FINAL-VORBEREITUNG-PATTERN ZWEIFACH HEUTE BESTAETIGT: Freiburg (EL-Final 20.05. = 10 Tage spaeter) verlor 3:2 in Hamburg trotz Matanovic-Doppelpack. Aston Villa (EL-Final 20.05. gegen Freiburg) holte nur 2:2 bei abgestiegenem Burnley. Beide Spiele waren der Goldgrube-Liga-DC-Logik nach Klassen-Edge - aber UEFA-Final-Schon-Modus (Streich/Emery rotierten) machte aus klaren Edges nur Remis/Niederlagen. Nicht-getipptes Spiel WHU-Arsenal hingegen (Arsenal CL-Final 30.05. = 20 Tage spaeter, mehr Zeit) gewann 0:1 via Joker. PATTERN-PRAEZISIERUNG: 7-12 Tage vor UEFA-Final = Top-Team-Sieg/DC-1X-Tipps NICHT mehr SAFE/VALUE, max wackel. 13-25 Tage vor Final = Sieg-VALUE noch OK aber mit Joker-Tor-Erwartung (Arsenal-Trossard-Pattern, PSG-Doue-Pattern). Verschaerft 'HR3 Doppelbelastungs-Joker'-Lesson 10.05.",
-            "bezug_spiel_id": "2026-05-10-bur-avl"
-        },
-        {
-            "datum": "2026-05-11",
-            "kategorie": "Schluss-Minuten-Tor-Cluster Mai - Live-Cash-Out-Empfehlung (Quelle 8f + 8g aus volle_analyse)",
-            "lesson": "SCHLUSSMINUTEN-DRAMA-CLUSTER 10.05.: Drei Spiele mit entscheidenden Toren in Minute 88+ -> Mainz-Union (Burke 88., Juranovic 90+1 = Mainz-Crash 1:3), Forest-Newcastle (Anderson 88. = Remis), Parma-Roma (Rensch 94., Malen 101 Pen = Roma-Drehung 2:3 nach 1:2-Parma-Fuehrung). Drehungs-Quote heute 1/19 Spiele (5%) - knapp unter Drehungs-Anhaeufungs-Schwelle, aber der Schluss-Minuten-Tor-Cluster ist deutlich (3+ Spiele mit 88+-Toren). PATTERN: Saisonende-Mai = hohe Schluss-Minuten-Volatilitaet, weil Teams mit Saison-Druck (Quali-Hoffnung / Klassenerhalt) bis zur letzten Sekunde pushen. EMPFEHLUNG: Wenn Sieg-Tipp auf Halbzeit-/3.Viertel-Fuehrung basiert (z.B. Mainz fuehrte 1:1 nach 48. = Conference-Quali-Aussicht), Live-Cash-Out bei 80%-Wert pruefen. Naechste Routine: Mainz-aehnliche Sieg-Tipps haben 'Saisonende-Schlussdrucks-Risiko' im begruendung-Feld zu vermerken, max wackel statt VALUE.",
-            "bezug_spiel_id": "2026-05-10-par-rom"
-        },
-        {
-            "datum": "2026-05-12",
-            "kategorie": "Korrelations-Cluster Coinflip-Spiele (Quelle 8a Korrelations-Analyse + 8e SAFE-Reality)",
-            "lesson": "KOMBI-AUSLOESCHUNG-DURCH-COINFLIP-SPIEL 11.05.: Spiel Rayo-Girona (1:1 mit Toren 86./90.) toetete 2 von 4 Kombis (Safe via Ueber-2.5-Bein, Risiko via Rayo-Sieg-Bein) und half Balance via BTTS - kombi-Korrelation -50% Verlust an einem Coinflip-Saisonende-LaLiga-Spiel. Plus Napoli-Bologna 2:3 toetete Balance (Unter-2.5-Bein) und half Moonshot (Bologna-Sieg-Bein). PATTERN: Wenn ein Spiel >=2 Kombi-Beine traegt UND es ein Coinflip-Saisonende-Spiel ist (Beobachtungs-Liga + Goldgrube-Markt-Argument zerbroeselt bei Saison-Ende), Diversifikations-Hartregel verschaerfen: max 1 Bein aus Saisonende-LaLiga/SerieA-Spielen pro Kombi.",
-            "bezug_spiel_id": "2026-05-11-ray-gir",
-            "anwenden_ab": "2026-05-12"
-        },
-        {
-            "datum": "2026-05-12",
-            "kategorie": "LaLiga-Saisonende-Tor-Flaute (Quelle 8g Markt-Pattern aus nicht-getippten + getippten Spielen)",
-            "lesson": "UEBER-2.5-IN-LALIGA-SAISONENDE WIEDER VERFEHLT: Rayo-Girona @ Ueber-2.5 (1.86 VALUE/Goldgrube) verloren bei 1:1 (beide Tore in 86./90.). Lesson 10.05. (Mai-Mittel LaLiga 1.88 Tore/Spiel) hat genau dieses Pattern dokumentiert - Routine wandte trotz Goldgrube-Markt-Stempel kein Saisonende-Downgrade an. PATTERN: Goldgrube-Markt-Logik MUSS Liga-Saisonphasen-Filter haben - Ueber-2.5 ab LaLiga-Spieltag 34 aktiv degradieren auf wackel oder skippen. Beobachtungs-Liga-Logik (LaLiga ist KEINE Beobachtungs-Liga gemaess Stand 12.05.) reicht nicht aus - Markt-spezifischer Saisonende-Filter zusaetzlich noetig.",
-            "bezug_spiel_id": "2026-05-11-ray-gir",
-            "anwenden_ab": "2026-05-12"
-        },
-        {
-            "datum": "2026-05-12",
-            "kategorie": "Coppa-Italia-Final-Schon-Cluster-Refinement (Quelle 8h Rotation-Pattern Korrektur)",
-            "lesson": "LESSON-11.05.-FEHLERWEITERUNG-KORREKTUR: Bologna spielte VOLL in Neapel (gewann 3:2 mit Rowe-91.-Semi-Rovesciata) trotz Coppa-Italia-Final in 3 Tagen (14.05.). Lesson 11.05. EL/CL-Final-Schon-Cluster wurde mechanisch auf Coppa-Italia-Final ausgedehnt - die Routine setzte Napoli Sieg + Unter-2.5 mit Italiano-Schon-These als Edge. Realitaet: Mid-Table-Cup-Finalist (Bologna Mid-Table SerieA) = Cup-Final ist Saison-Highlight, Schon-Modus NICHT plausibel. PATTERN: Schon-Cluster-Logik NUR auf UEFA-Finals (EL/CL/Conference) - National-Pokal-Finals NICHT als Schon-Modus-Indikator. Mid-Table-Pokalfinalisten EHER gegnerisches Top-Team gefaehrlich als geschont.",
-            "bezug_spiel_id": "2026-05-11-nap-bol",
-            "anwenden_ab": "2026-05-12"
-        },
-        {
-            "datum": "2026-05-12",
-            "kategorie": "Drehungs-Cluster Top-Liga MUST-WIN-Cluster (Quelle 8f Drehungs-Cluster aus volle_analyse)",
-            "lesson": "ZWEI-DREHUNGEN-AN-EINEM-TAG: (1) NBA-Playoffs CLE-DET 112:103 (HZ 52:56 Pistons fuehrend -> Cavs 24:0-Run zur HZ2-Eroeffnung, laengster Playoff-Run seit Wolves G6 2024) und (2) SerieA Napoli-Bologna 2:3 (Bologna fuehrte 0:2 in 34. -> Napoli 2:2 in 48. -> Bologna 3:2 in 91.). Drehungs-Cluster aus volle_analyse-Bloecken hat sich vom 02.05.-BL-Pattern jetzt auf Top-Ligen-MUST-WIN/Pflicht-Druck-Spiele ausgeweitet. PATTERN: Kurzquoten-Sieg-Tipps (1.20-1.60) auf MUST-WIN-Heim-Top-Teams + auf Pflicht-Druck-Heim-Champions-Quali-Teams gegen Underdog-mit-Eigen-Termin (Coppa-Vorbereitung) -> HZ-Stand ist KEIN Indikator (CLE lag HZ zurueck, Bologna fuehrte HZ 0:2 dann verloren -> dann wieder gewonnen). Drehungs-Risiko bleibt latent bis 90. Min - Kombi-Beine in solchen Cluster-Spielen reduzieren.",
-            "bezug_spiel_id": "2026-05-12-cle-det",
-            "anwenden_ab": "2026-05-12"
-        },
-        {
-            "datum": "2026-05-13",
-            "kategorie": "HR22 Star-OUT-Implosions-Profil WIDERLEGT bei LaLiga-Top-4 (Quelle 8h Rotation-Pattern + 8a Korrelations-Analyse)",
-            "lesson": "HR22-IMPLOSIONS-PROFIL-OVERRIDE-FAIL: Atletico Madrid mit 7 Stamm-OUT (J.Alvarez/Simoni/Barrios/Gimenez/Molina/N.Gonzalez/Cardoso) + Baena gesperrt + emotional ausgelaugt nach CL-SF-Aus (05.05.) + 0:1 Heim gegen Celta (09.05.) siegte 2:1 in Pamplona dank Lookman-FE 15. + Soerloth-HZ-Joker-Kopfball 71. - selbst nach Llorente-Gelb-Rot 79. hielt 10-Mann-Atletico durch. Osasuna-DC-1X-Tipp @ 1.48 (Markt-Goldgrube + HR22-Edge angenommen) VERLOREN. Markt-Pick'em-Quoten +160/+160 hatten zwar Klasse-Edge reduziert, aber Atletico-Sieg-Wahrscheinlichkeit weiter unterschaetzt. PATTERN: HR22 ist KEIN automatischer Implosions-Trigger gegen LaLiga-Top-4 (oder vergleichbare Top-Bench-Klubs) - Klasse-Edge + Top-Bench schluckt Lazarett. Lesson-Verfeinerung: HR22 nur als Edge-Modifier (Quote runter um 10-15%) NICHT als Sieg-Disqualifikator bei Top-4-LaLiga/Top-5-BL/Top-6-PL. Routine soll bei Star-OUT-Lazarett-Top-Teams Sieg-Markt weiter scannen statt nur DC-Gegner anbieten.",
-            "bezug_spiel_id": "2026-05-12-osa-atm",
-            "anwenden_ab": "2026-05-13"
-        },
-        {
-            "datum": "2026-05-13",
-            "kategorie": "Aufstellungs-Verifikations-PFLICHT bei Form-Edge-Spielertor-Tipps (Quelle 8h Rotation-Pattern + 8i Boost-Trigger ohne Tipp)",
-            "lesson": "FORM-EDGE-BENCH-FALLE BORJA IGLESIAS: Borja Iglesias 3-LaLiga-Spiele-in-Folge-getroffen Form-Edge (HR24 (a)) ueberholt durch Bench-Start - kam erst 64. fuer Hugo Alvarez (kein direkter Stuermer-Tausch, eher Mittelfeld-Wechsel) und traf in den verbleibenden ~25 Min nicht. Anytime-Quote 2.40 wurde wie ein Startelf-Volumen-9er bepreist, war faktisch ein Joker-Tipp. Tipp cel-lev-1 (1.5% Stake = 8.25â‚¬) VERLOREN als groesster Einsatz des Tages. Parallel: Soerloth gewann (4.90 Risiko-Bein) als HZ-Sub (46.) - bench-Sub mit ~45 Min Spielzeit traf 71. PATTERN: Anytime-Spielertor-Tipps mit 'Form-Edge'-Argument (HR24 (a)) BENOETIGEN zwingend Aufstellungs-Verifikation 1-2h vor Anstoss (Lesson 10.05. heute den 2. Tag in Folge verpasst). Wenn Aufstellungs-Verifikation nicht moeglich (Tipps-Routine 17:30 vs LaLiga-Anpfiff 19:00 = 90 Min Puffer reicht NICHT immer), HR24 (a) Form-Edge nur als VALUE-Argument falls Anytime-Quote >= 2.80 (Joker-Risiko-eingepreist).",
-            "bezug_spiel_id": "2026-05-12-cel-lev",
-            "anwenden_ab": "2026-05-13"
-        },
-        {
-            "datum": "2026-05-13",
-            "kategorie": "LaLiga-Saisonende-Tor-Flaute-Lesson WIDERLEGT (Quelle 8g Markt-Pattern aus volle_analyse + getippten Spielen)",
-            "lesson": "UEBER-2.5-LALIGA-MD36-DREI-VON-DREI-GETROFFEN: Celta-Levante 5 Tore (2:3), Betis-Elche 3 Tore (2:1), Osasuna-Atletico 3 Tore (1:2) - ALLE 3 LaLiga-Tuesday-MD36-Spiele lieferten Ueber 2.5. Lesson 10.05./12.05. LaLiga-Saisonende-Tor-Flaute (Mai-Mittel 1.88 Tore/Spiel, Rayo-Girona 1:1 Negativ-Beleg) war zu pauschal - 12.05. liefert 11 Tore in 3 Spielen (3.67 Tore/Spiel - DEUTLICH ueber Mai-Mittel). Markt-Statistik bestaetigt: Ueber 2.5 Tore Markt-Typ jetzt n=10 / 60% Hit / +62.8% ROI (Goldgrube auf Volldampf). PATTERN: Saisonende-Tor-Flaute-Filter NUR aktivieren bei (a) Beide-Mid-Table-ohne-Druck-Spiele (Rayo-Girona-Profil), NICHT bei (b) Klassenerhalts-Underdog vs Europa-Druck-Top-Team (Existenz-Pflicht-Tore!) oder (c) Top-4-Pflicht-Heimspiel (Druck-Tore). Lesson-Refinement: Saisonende-Flaute-Filter wird zu 'Saisonende-Coinflip-Mid-Table-Filter' - genaue Trigger-Bedingungen siehe Lesson-12.05.-Korrelations-Cluster.",
-            "bezug_spiel_id": "2026-05-12-cel-lev",
-            "anwenden_ab": "2026-05-13"
-        },
-        {
-            "datum": "2026-05-13",
-            "kategorie": "NBA-Playoff-G5-Heim-Pivot-Vengeance-SAFE (Quelle 8e Kategorie-Reality + 8h Rotation-Pattern)",
-            "lesson": "WEMBANYAMA-VENGEANCE-GAME PIVOT-G5: Wembanyama nach G4-Karriere-Ejection (Ellbogen Naz Reid) lieferte Career-High-Reaktion: 27P/17R/5A/3B, Q1 allein 18P/6R in 8 Min, Spurs 126:97 Wolves (Differenz +29). NBA-G5-Heimvorteil-Pattern in Series jetzt 5/5 bestaetigt (Spurs G1, G2, G5 Heim / Wolves G3, G4 Heim). Spurs-ML @ 1.25 (NBA-Playoff-nie-SAFE-Lesson hatte auf wackel degradiert) waere SAFE gerechtfertigt gewesen, Stake-Hebel von 0.5% auf 1.5% verpasst (~+11â‚¬ Brutto-Gewinn-Differenz). Ueber 218.5 @ 1.91 (auch nur wackel) ebenfalls gewonnen (Total 223). PATTERN: NBA-Playoff-nie-SAFE-Lesson zu konservativ in spezifischen Sub-Cluster: (a) Heim-G5-Pivot-Game mit Star-Vengeance-Trigger (Ejection/Suspension/Personal-Insult-Headline in G4), (b) Heim-G7-Decider mit klarem Klassen-Edge. Lesson-Refinement: NBA-Playoff-nie-SAFE BLEIBT default, ABER Heim-G5/G7-Pivot mit Vengeance-Star-Trigger ist explizite VALUE-Ausnahme (nicht SAFE - aber 1.0% Stake erlaubt statt 0.5%-wackel).",
-            "bezug_spiel_id": "2026-05-13-sas-min",
-            "anwenden_ab": "2026-05-13"
-        },
-        {
-            "datum": "2026-05-14",
-            "kategorie": "Drehungs-Cluster Saisonende-Pflicht-Heim-Spiele (Quelle 8f Drehungs-Cluster + 8a Korrelations-Analyse)",
-            "lesson": "ZWEI DREHUNGEN AN EINEM TAG: Villarreal-Sevilla 2:0 HZ -> 2:3 Endstand (Sevilla 3 Tore in 25 Min Wiederanpfiff/46./46./71. - klassisches HZ-Pause-Coach-Adjustment-Drehungs-Pattern) + NBA Pistons-Cavs G5 (Pistons 103:94 mit 2 Min uebrig -> Cavs 117:113 OT-Comeback durch Harden 30 + Mitchell 21 + Strus 20 + Mobley 19). Saisonende-CL-Quali-Pflicht-Heim-Profil (Villarreal) ist KEINE Sieg-Garantie - 2:0 HZ kann durch Auswaerts-Druck-Reaktion gekippt werden. KORRELATIONS-Killer fuer Tag: Villarreal-Sieg-Bein zerstoerte Balance-Kombi, Barca-DC-X2-Bein zerstoerte Safe-Kombi (Alaves-Aufstand-Drehung-Light: 0:0 zu 1:0). KONSEQUENZ: (a) Saisonende-Sieg-Tipps bei Quote 1.40-1.85 in Pflicht-Heim-Spielen auf DC-1X-Cover statt direkter Sieg-Tipp setzen (verhindert Drehungs-Total-Verlust). (b) Bei 2:0-HZ-Profil-Tipps zusaetzlich BTTS-NEIN als korrelativer Hedge-Bein erwaegen. (c) Drehungs-Cluster pro Tag tracken - 2+ Drehungen = Tag fuer Sieg-Tipps risiko-erhoeht.",
-            "bezug_spiel_id": "2026-05-13-vil-sev",
-            "anwenden_ab": "2026-05-14"
-        },
-        {
-            "datum": "2026-05-14",
-            "kategorie": "Saison-Verletzungs-Check vor Tipp-Generation (Refinement Lesson 10.+13.05. Aufstellungs-Verifikation 8h Rotation-Pattern)",
-            "lesson": "YAMAL SAISON-OUT PRE-MATCH BEKANNT: Lamine Yamal war PRE-MATCH bereits offiziell Saison-OUT durch Verletzung (oeffentlich seit Tagen verfuegbar via transfermarkt/kicker/ESPN injury report). Aufstellungs-Verifikation 60-90 Min vor Anstoss kommt zu spaet wenn der Saison-Status klar ist - Tipp haette bei Tipp-Generation rausfallen muessen. NEUE PFLICHT-CHECK-REIHENFOLGE: 1. Saison-Verletzungs-Liste (transfermarkt 'Aktuelle Verletzte' / kicker / ESPN injury report) PRE-MATCH-PFLICHT vor jedem Torschuetzen-Tipp - sicherer Saison-OUT = Spieler komplett aus Pool. 2. Aufstellungs-Verifikation 60-90 Min vor Anstoss bleibt fuer Rotation-Risiko-Spieler (siehe Lesson 4). Yamal-Tipp gestern -1.40â‚¬ vermeidbar; trifft auch fuer Risiko-Kombi-Total-Verlust mit (Killer-Bein im Risiko-Kombi).",
-            "bezug_spiel_id": "2026-05-13-ala-bar",
-            "anwenden_ab": "2026-05-14"
-        },
-        {
-            "datum": "2026-05-14",
-            "kategorie": "Coinflip-Saisonende-LaLiga-Defensiv-Cluster bestaetigt (Quelle 8g Markt-Pattern aus nicht-getippten + getippten Resultaten)",
-            "lesson": "DOPPELTE COINFLIP-VALIDIERUNG LaLiga MD36: Espanyol-Bilbao 2:0 + Getafe-Mallorca 2:0 - beide Coinflip-Mid-Table-LaLiga-Saisonende-Spiele OHNE UEFA-Druck-Asymmetrie liefen klassisch defensiv-konform (Unter 2.5 + BTTS NEIN + Heim-Sieg). Lesson 12.05. Saisonende-Coinflip-Tor-Flaute-Filter und Lesson 13.05. LaLiga-Saisonende-Defensiv-These klar validiert. ZUSATZ-PATTERN entdeckt: Heim-Klassenerhalts-Verzweiflungs-Sieg ist neue Goldgrube-Kategorie - Espanyol-Heim-Sieg 2.90 als Moonshot eingeloest (+1.04â‚¬). KONSEQUENZ: In Coinflip-Saisonende-LaLiga-Spielen mit Heim-Klassenerhalts-Pflicht + Auswaerts-Mid-Table-ohne-Druck (Espanyol-Bilbao-Profil) Heim-Sieg-Tipp 2.50-3.00 als WACKEL statt MOONSHOT setzen - 3-Tipp-Cluster (Unter 2.5 + BTTS NEIN + Heim-Sieg-Wackel) ergibt Quasi-Hedge mit hoher 2-von-3-Quote.",
-            "bezug_spiel_id": "2026-05-13-esp-ath",
-            "anwenden_ab": "2026-05-14"
-        },
-        {
-            "datum": "2026-05-14",
-            "kategorie": "Top-Team-Rotation-vor-Pflicht-Final 7-Tage-Cluster (Refinement Lesson 11.05. EL/CL-Final-Schon-Cluster, Quelle 8h Rotation-Pattern)",
-            "lesson": "HAALAND BANK FUER FA-CUP-FINAL: Pep Guardiola hat Haaland + Doku + Cherki auf die Bank gesetzt um sie fuer Samstags-FA-Cup-Final vs Chelsea fit zu halten - obwohl es um den PL-Titel ging (City 5 Pkt hinter Arsenal). Volume-9er-Schonung trotz Pflicht-Sieg-Profil bei <2 Tagen bis Cup-Final ist staerker als Pflicht-Sieg-Profil. NEUE PFLICHT-AUSSCHLUSS-REGEL: Top-Team-Volume-Stuermer-Torschuetzen-Tipps werden GEDROPPED wenn Klub innerhalb der naechsten 7 Tage Final-Termin hat (FA-Cup / CL / EL / Conference / Pokal / EM/WM-Qualifikation-Decider) - unabhaengig von Heim/Auswaerts/Quote/Form-Edge. Die Schonung kommt schon bei 3-4 Tagen Pre-Final wenn Spieler 2 Spiele in 5 Tagen hatte. Refinement zu Lesson 11.05.: nicht nur EL/CL-Final-Naehe, sondern alle finalen Saison-Decider <=7 Tage. (Haaland-Tipp gestern -5.50â‚¬ vermeidbar; trifft auch fuer Risiko-Kombi-Bein-Verlust mit.)",
-            "bezug_spiel_id": "2026-05-13-mci-cry",
-            "anwenden_ab": "2026-05-14"
-        },
-        {
-            "datum": "2026-05-15",
-            "kategorie": "LaLiga MD36 Mid-Table-Saisonende-2-Tore-Cluster (Quelle 8f Markt-Pattern aus volle_analyse)",
-            "lesson": "LALIGA MD36 14.05.: 3/3 Spiele endeten mit GENAU 2 Toren (Val-Ray 1:1, Gir-Soc 1:1, RMA-Ovi 2:0). Ueber-2.5-Goldgrube-Stat (+62.8% ROI) ZURUECKZUNEHMEN fuer LaLiga-MD-Saisonende-Phasen mit Mid-Table-ohne-Druck-Profil: zwischen Klassenerhalt-Druck (eng, defensiv) und satten Mid-Table/Top-Teams (Schon-Modus, Energie-Mangel) ist das Tor-Volumen tagsystematisch reduziert. 2x Ueber-2.5-SAFE-Tipps verloren (-16.50â‚¬). NEUE FILTER-REGEL: Bei LaLiga-MD36-MD37-MD38-Spielen mit beidseitig 'kein hartes Saisonziel' (Mid-Table beider Teams ODER bereits abgestiegen/Champions-locked) UND keine spezielle Sturm-Edge-Daten Ueber 2.5 NICHT als SAFE einplanen. Lieber Unter 2.5 oder BTTS (2/3 erfuellt am 14.05.) als Alternative.",
-            "bezug_spiel_id": "2026-05-14-rma-ovi",
-            "anwenden_ab": "2026-05-15"
-        },
-        {
-            "datum": "2026-05-15",
-            "kategorie": "Castilla-Stand-In-Goldgrube bei Star-OUT-Cluster (Refinement HR24 + HR22, Quelle 8h Rotation-Pattern + 8i Einwechslungs-Boost)",
-            "lesson": "STAR-OUT-PATTERN UMGEDREHT: Real Madrid mit Mbappe + Guler + Valverde OUT â†’ Gonzalo Garcia (Castilla-9er, Moonshot @ 5.75) WINNER (+5.20â‚¬), NICHT der verbliebene Star-Backup Vinicius @ 2.25 (-8.25â‚¬). HR24-Form-Edge-These ('Vinicius mit 4 Toren in 5 Spielen') versagte gegen Bottom-Defense weil Vinicius auf Doppel-Tor-Rolle ueberlastet wurde + Energie-Mangel post-Clasico. NEUE REGEL bei Top-Team mit 2+ Stamm-Stuermer-OUT: 1) den nominalen Castilla/B-Elf-Stand-In-9er als Torschuetzen-MOONSHOT/RISK (Quote 4.50-7.00) AKTIV scannen - er bekommt Startelf + alle Tor-Chancen weil Star aus dem Backup-Pool kommt. 2) den verbliebenen Star NICHT als VALUE/SAFE-Torschuetzen-Tipp - Doppel-Belastungs-Risiko + Tor-Festival-These greift bei diesen Konstellationen oft nicht (2:0 statt 4:0 typisch).",
-            "bezug_spiel_id": "2026-05-14-rma-ovi",
-            "anwenden_ab": "2026-05-15"
-        },
-        {
-            "datum": "2026-05-15",
-            "kategorie": "SAFE-Hitrate-Reality + Total-Einsatz-Disziplin bei Liga-ROI-Negativ-Cluster (Quelle 8e Kategorie-Reality + 8a Korrelation)",
-            "lesson": "TAGESBILANZ 14.05.: 75,10â‚¬ Total-Einsatz auf 550â‚¬-Kasse = 13.6% Kasse exponiert, ROI -56.3% (-42.28â‚¬). 4/4 Kombis verloren + 3/8 Einzel-WINs = SAFE-Hitrate 3/5 = 60% UNTER Soll 75-90%. Auswertung: Bei 3-Spiele-Tag MIT Liga-ROI-Negativ-Warnung (LaLiga -8.5% n=34) ist die Total-Einsatz-Disziplin zu lasch. NEUE HARDREGEL: Max 10% Kasse exponiert (statt aktuell 13.6%) wenn beide Bedingungen: (a) <=3 Spiele am Tag UND (b) Liga 30d-ROI < 0. Konkret: max 4 Kombis bei 3-Spiele-Tag NICHT, statt 4 nur 2-3 (Safe + Balance). Risiko + Moonshot nur dazunehmen wenn 5+ Spiele oder Liga-ROI positiv. Heutige Risiko (1,40â‚¬) + Moonshot (0,55â‚¬) = -1,95â‚¬ marginal, aber Safe-Kombi (-11â‚¬) + Balance-Kombi (-4,40â‚¬) als Hauptverlust waeren bei strikteren 10%-Limit ebenfalls reduziert.",
-            "bezug_spiel_id": "2026-05-14-gir-soc",
-            "anwenden_ab": "2026-05-15"
-        },
-        {
-            "datum": "2026-05-15",
-            "kategorie": "Stuani-Einwechslungs-Tor-Pattern bestaetigt: Backup-Veteran-9er-WACKEL ist eigene Goldgrube (Quelle 8i Einwechslungs-Boost-Trigger mit Tipp)",
-            "lesson": "STUANI-WACKEL @ 2.65 WON (+4.32â‚¬): Cristhian Stuani kam zur Halbzeit (46.) fuer Bryan Gil ALS Einwechslung rein und traf zum 1:1 (66.). Pattern-Bestaetigung: Veteran-9er als nominaler Backup bei jungen Vanat/Portu-Ausfaellen funktioniert besonders gut wenn das Heim-Team einen Klassenerhalts-Druck-Punkt erkaempfen MUSS und im 2. Durchgang offensiver wird. NEUE GOLDGRUBE-INDIKATION (n=1, beobachten): Veteran-Backup-9er-Torschuetzen-WACKEL/RISK-Tipps bei Heim-Team-Klassenerhalts-Pflichtspiel mit jungem Stamm-9er-Ausfall sind nicht-offensichtlich-WERT. ANWENDUNG: bei zukuenftigen Klassenerhalts-Heim-Spielen Veteran-Backup-9er (Stuani-Profil: 35+ Jahre, Karriere-Bonus, gewohnte Sub-Rolle) aktiv als WACKEL @ 2.30-2.80 scannen, NICHT als MOONSHOT abtun. Markt-Stat-Update: Goldgrube Torschuetzen Jederzeit (38.5% Hit / +21% ROI, n=26) profitiert auch von dieser Sub-Kategorie.",
-            "bezug_spiel_id": "2026-05-14-gir-soc",
-            "anwenden_ab": "2026-05-15"
-        },
-        {
-            "datum": "2026-05-15",
-            "kategorie": "Closeout-G6-Auswaerts-Blowout-Pattern (Quelle 8f - Markt-Pattern aus voller Analyse)",
-            "lesson": "EMPIRIE 15.05.: BEIDE NBA-G6-Closeouts (Cavs als Heim 3-2 vorne + Wolves als Heim 2-3 zurueck) verloren EKLATANT gegen Auswaerts-Teams: Pistons +21 (115:94) und Spurs +30 (139:109). Total Cavs-Pistons 209 (knapp Unter 209.5) - aber Spurs-Wolves 248 (deutlich Ueber 218.5) - Lesson 02.05. 'Closeout-Defensiv-Schlachten' nur fuer ELIMINATIONS-Druck-Spiele in engen Konfigurationen verlaesslich, NICHT fuer Spurs-style-Blowout-Closeouts. NEUE HARTREGEL G6-Closeout: (a) Heim-Closeout-ML/Spread-Tipp NIE als SAFE/VALUE wenn Heim-Team in Serie gegen Auswaerts-Team mit klarer Defensiv-/Tiefe-Edge spielt (Wolves vs Spurs-Wemby-Defense, Cavs vs Pistons-Cunningham-Tiefe). (b) Ueber/Unter-Tipps an Closeout-G6 mit Auswaerts-Blowout-Erwartung: bei Auswaerts-Team mit ueberdurchschnittlicher OffRtg (Spurs > 120) Ueber priorisieren statt Unter, auch wenn Linie unter Saison-Avg. (c) Korrelations-Vorsicht: Sieg + Spread auf gleiches Heim-Team in 2 Tipps gleichzeitig = Doppel-Risiko (heute: Cavs Sieg + Cavs -3.5 = beide -2.75 = -5.50 statt diversifiziert).",
-            "bezug_spiel_id": "2026-05-15-min-sas"
-        },
-        {
-            "datum": "2026-05-15",
-            "kategorie": "Sweep-Abwehr-Heim-Underdog-Edge VERFEINERT (Lesson 24.04. Update)",
-            "lesson": "WIDERLEGUNG 15.05.: Wolves +5.5 als Heim-Sweep-Abwehr-Underdog -> verloren mit 30 Pkt (Spurs 139:109, Castle 32 + Wembanyama 19 + Spurs-Bench dominant). Lesson 24.04. (Raptors als +5.5-Dog gegen Cavs gewann 22 Pkt Upset) galt Round-1-Top-Seed-Underperform-Pattern, NICHT Round-2-Conference-Semis gegen Top-3-Defense + Star-Form-Lauf. VERFEINERTE HARTREGEL: Sweep-Abwehr-Heim-Underdog-Edge gilt NUR bei (a) Round 1 ODER (b) Auswaerts-Team mit verletzungs-/form-bedingter Schwaeche ODER (c) Auswaerts-Team mit historischer Closeout-Verschlechterung. Bei Auswaerts-Team mit Wembanyama-/Castle-Form-Lauf + 3/4-Vor-Wins-Blowouts (Spurs-Avg +24.7 Pkt vor G6) ist Edge INVERTED -> Auswaerts-Spread-Cover wahrscheinlicher. Wolves-Beispiel: nicht Wolves +5.5 sondern Spurs -7.5 oder Total Ueber waere VALUE gewesen.",
-            "bezug_spiel_id": "2026-05-15-min-sas"
-        },
-        {
-            "datum": "2026-05-15",
-            "kategorie": "Top-Team-Final-Schon Lesson 14.05. INVERS bei Karriere-Highlight-Final (Quelle 8h - Rotation-Pattern)",
-            "lesson": "KONTRAFAKTISCHE EMPIRIE 15.05.: Lesson 14.05. (Top-Team-Rotation-vor-Pflicht-Final-7d-Schon) hat Watkins-Torschuetzen-Tipp gedroppt - aber Watkins spielte 90 Min + traf 2x (57', 73') beim 4:2 vs Liverpool. Quote ~2.10 -> Stake 0.5%=2.75 EUR -> ENTGANGENER GEWINN ~3.03 EUR. Pattern-Ursache: Lesson 14.05. basierte auf Bayern/Real/PSG-Routine-Final-Modus (jedes Jahr CL-HF -> Schon-Tendenzen). Aston Villa EL-Final ist KARRIERE-HIGHLIGHT fuer Emery-Coach + Volume-Stuermer - kein Schonen-Anreiz, sondern Form-Pflicht (Top-4 + EL-Form-Mitnahme). VERFEINERTE HARTREGEL: Lesson 14.05. NICHT auf Underdog-Final-Teams mit Karriere-Highlight-Final anwenden, NUR auf etablierte UEFA-Champions mit 3+ Final-Auftritten der letzten 5 Jahre. Konkret: Bayern, Real, PSG, ManCity, Liverpool -> JA. Villa, Frankfurt, Brighton, Atalanta -> NEIN, normal-bewerten. McGinn-Stamm-MF traf 89' = Stamm-Aufstellung uneingeschraenkt.",
-            "bezug_spiel_id": "2026-05-15-avl-liv"
-        },
-        {
-            "datum": "2026-05-15",
-            "kategorie": "Korrelations-Schutz - Doppelrisiko bei Heim-Sieg-Cluster (Quelle 8a)",
-            "lesson": "EMPIRIE 15.05.: Cleveland Cavaliers Cluster - Cavs Sieg (-2.75) + Cavs -3.5 Spread (-2.75) = -5.50 EUR Cluster-Verlust statt -2.75 bei diversifiziertem Set-up. Beide Tipps korreliert (beide brauchen Cavs-Sieg, Spread sogar Cavs-Sieg-mit-mind-4-Pkt). Cavs verloren mit 21 Pkt -> beide Tipps gerissen. ZUSATZ: Cavs -3.5 war auch in Balance-Kombi (Bein 2 von 3) -> Kombi-Reissung kostete weitere 4.40 EUR. Total Cleveland-Cluster-Exposure: 2.75 (et-5) + 2.75 (et-3 in Spielebene = 0 weil nur kombi) + 4.40 (Balance-Kombi) = 9.90 EUR an einem Spiel exponiert. NEUE HARTREGEL Korrelations-Cap: Pro Spiel max 1 Sieg-Outcome-Tipp im Einzeltipps-Bereich (ML ODER Spread ODER DC, nicht 2 davon gleichzeitig). Falls Spread + ML gewuenscht, dann 1 davon nur in Kombi (nicht zusaetzlich Einzeltipp). Konkret heute: et-5 Cavs ML UND cle-det-3 Cavs -3.5 in Balance-Kombi war Doppel-Tipp im Spielebene-Sinn - kuenftig Spread NUR in Kombi, nicht als zusaetzlichen Einzeltipp.",
-            "bezug_spiel_id": "2026-05-15-cle-det"
-        },
-        {
-            "datum": "2026-05-16",
-            "kategorie": "Existenz-Druck-Mismatch realisiert - Heidenheim-Abstiegs-Pflicht griff nicht (Quelle 8e Kategorie-Reality)",
-            "lesson": "EMPIRIE 16.05.: Heidenheim brauchte ZWINGEND Sieg gegen Mainz fuer Klassenerhalts-Hoffnung, Mainz ohne jeden Druck (Saisonende-Mitte-Tabelle). Trotzdem Heidenheim 0:2 verloren - HZ schon 0:2 nach Tietz 7. + Amiri 43. Zwei Tipps verloren: et-4 Sieg Heidenheim @2.09 (-8.25) + et-5 DC 1X @1.4 (-8.25) = -16.50 EUR an einem Spiel. Lattentreffer Pieringer 30. + Conteh-Einwechslung ohne Tor = Boost-Trigger fehlgeschlagen. NEUE HARTREGEL: bei Existenz-Druck-Edge MAX 1 Tipp (Sieg ODER DC, nicht beides). Das doppelte Heidenheim-Exposure (Sieg + DC 1X) verdoppelte den Schaden bei Sieg-Ausbleiben. Gegenmittel: Single-Outcome-Cap auch fuer Druck-Profile, nicht nur fuer NBA-Sieg-Cluster (vgl Lesson 15.05. Cleveland). Ab sofort: Heim-Existenz-Druck-Spiele = max 1 Outcome-Tipp im Einzelbereich; Tor-Markt (BTTS / Ueber) als Alternative pruefen statt Doppel-Outcome.",
-            "bezug_spiel_id": "2026-05-16-fch-m05"
-        },
-        {
-            "datum": "2026-05-16",
-            "kategorie": "Drehungs-Bestaetigung Mai-Cluster - DC X2 schuetzt, direkter Sieg-Tipp gefaehrlich (Quelle 8f Drehung)",
-            "lesson": "EMPIRIE 16.05.: Frankfurt-Stuttgart 2:2 - Stuttgart fuehrte 0:2 HZ (Baixauli 10., Nartey 45.) und gab 2-Tor-Polster ab (Burkardt-Doppel-Elfer 72. + 90+2.). Damit 5. Drehung im Mai 2026 (nach 02.05. Bayern-Heidenheim 3:3 von 0:2, 12.05./14.05./15.05.). DC X2 (Stuttgart+Remis) GEWONNEN trotz Drehung (et-6 +2.48 EUR) - direkter Stuttgart-Sieg-Tipp waere VERLOREN. 2:0-Insurance-Regel bet365 BL haette gegriffen wenn Sieg-Tipp gespielt, aber Insurance gilt NUR fuer Sieg-Tipp - DC X2 hat sie nicht. PFLICHT-PROFIL UPDATE: bei mit 0:2/2:0-Drehungs-historischer Liga (BL+CL Mai 2026 Drehungs-Quote ~30% bei 2-Tor-HZ-Polster) PFLICHT direkter Sieg-Tipp ODER DC-Variante - nie beide. Wenn Mai-Drehungs-Cluster bis Saisonende >=6 erreicht, Sieg-Tipps generell auf wackel kategorisieren bei <55% Faire-Hitrate.",
-            "bezug_spiel_id": "2026-05-16-sge-vfb"
-        },
-        {
-            "datum": "2026-05-16",
-            "kategorie": "Karriere-Highlight-Heim-Team NICHT-Rotation - Hoefler-Abschied-Boost realisiert (Quelle 8h Rotation-Pattern)",
-            "lesson": "EMPIRIE 16.05.: Freiburg 4:1 RB Leipzig - Hoefler letztes BL-Spiel (Karriere-Final) + Freiburg-Heim-Vorteil + Conference-Quali-Bestaetigung. Tipp et-8 DC X2 (Leipzig+Remis @1.5) GEROCHEN - Karriere-Highlight-INVERS-Caveat-Lesson 15.05. unterschaetzt. Hoefler-Motivation + Heim-Vorteil + Hochform (Beste 24. + Matanovic 26. = 2:0 in 2 Min) zermalmten Leipzig-B-Elf-Naehe. Korrektur 15.05.-Lesson: Karriere-Highlight bei HEIM-Team mit Saisonziel-Hoffnung (EL/CL/Conference-Quali) = anti-Rotation, voll motiviert. Karriere-Highlight bei AUSWAERTS-Team-ohne-Druck (z.B. Klopp letztes Spiel Liverpool ausserhalb Anfield gegen Mid-Table-Gegner) = NEUTRAL. UPDATE Pflicht-Filter: Heim-Karriere-Highlight = klare Form-Buchung gegen Underdog, NICHT als Coinflip behandeln. Mid-Tier-EL-Klub-Annahme aus 15.05. nur fuer Auswaerts-Spiele.",
-            "bezug_spiel_id": "2026-05-16-scf-rbl"
-        },
-        {
-            "datum": "2026-05-16",
-            "kategorie": "Einwechslungs-Boost-Trigger ohne Tipp - Bayern Jackson-Goretzka 82./83. (Quelle 8i)",
-            "lesson": "EMPIRIE 16.05.: Bayern - Koeln 5:1, Bayern wechselt Jackson fuer Goretzka 82., Jackson trifft 83. = klassischer Einwechslungs-Boost-Trigger nach bet365-Regel (Spieler X raus, Y kommt rein, Y trifft - haette fuer X-Torschuetzen-Tipp gegolten). Aber Goretzka war KEIN Torschuetzen-Tipp im Dossier, also Boost griff nicht praktisch. SCAN-AUFTRAG: Top-Team-Hauptstuermer-Kandidaten mit Bank-Backup naechste Tipps-Generation aktiv pruefen - Bayern Kane (Jackson-Backup mit Volume), BVB Guirassy (Beier/Adeyemi-Backup), Stuttgart Demirovic (Undav-Backup), Frankfurt Marmoush (Ekitike-Backup), Real Mbappe (Endrick-Backup). Realisiert-Bestaetigt: Backup-Stuermer-Tor-Konversion bei Wechsel ~83. Min in Top-6-Teams im Mai 2026 = 3 Bestaetigungen (02.05. Olise-Sane Bayern, 13.05. Brandt-Sabitzer BVB, 16.05. Jackson-Goretzka Bayern). NEUE PRAXIS: bei Bayern/BVB-Torschuetzen-Tipps Hauptstuermer-Quote @ ~2.0 = automatisch hoeher gewichten dank Boost-Erweiterung der Tor-Conversion-Wahrscheinlichkeit auf Backup.",
-            "bezug_spiel_id": "2026-05-16-bay-koe"
-        },
-        {
-            "datum": "2026-05-18",
-            "kategorie": "Top-Team-B-Elf-vor-CL-Final-CLUSTER (Quelle 8h Rotation-Pattern + 8a Korrelation)",
-            "lesson": "BEIDE CL-Finalisten am 30.05. (PSG + Inter) patzerten am 17.05. mit B-Elf-Rotation: PSG verlor 1:2 vs Aufsteiger Paris FC (Gory 76+90+4), Inter 1:1 vs Verona mit 90+2-Ausgleich Bowie. pfc-psg-1 DC X2 (PSG/Remis) @1.13 als value verloren - 'safe-nahe' Quote brutal kassiert. Lesson: bei einem CL-Finale in 7-14 Tagen werden BEIDE Finalisten in der Vor-Finale-Woche systematisch rotieren - Underdog-Sieg-Markt aktiv suchen (Paris FC ML @~7.0 wÃ¤re VALUE gewesen), Top-Team-Sieg-Markt komplett ausschlieÃŸen. ZusÃ¤tzlich: B-Elf-Schlussphasen-Crash in Min 80+ ist statistisch geh Ã¤uft (Bayern 02.05. 90+10, PSG 17.05. 90+4, Inter 17.05. 90+2) - bei B-Elf-Spielen Live-Quote-Beobachtung statt Pre-Match-Sieg-Tipp.",
-            "bezug_spiel_id": "2026-05-17-pfc-psg"
-        },
-        {
-            "datum": "2026-05-18",
-            "kategorie": "Karriere-Highlight-Tor-Markt auf GEEHRTEN ueberbewertet (Quelle 8h Rotation-Pattern)",
-            "lesson": "Lewandowski-Camp-Nou-Abschied: Tor-Festival 4 Tore + 3:1-Sieg + BTTS - ABER Lewa selbst kein Tor (83. fuer Casado raus, Casado MF, kein Einwechslungs-Boost). bar-bet-1 'Lewa trifft' @1.85 verloren. Griezmann-Atletico-Abschied (500 Spiele, 79. raus fuer Sorloth): Griezmann Assist auf Lookman, kein eigenes Tor. atm-gir-3 'Griezmann trifft' @2.65 verloren. Lesson 16.05. besagte Tor-These bei Karriere-Highlight - aber das gilt fuer DAS SPIEL (Ueber/BTTS), nicht zwingend fuer den GEEHRTEN selbst. Verfeinerung: Bei Karriere-Highlight (a) Ueber 2.5 + BTTS als VALUE auf das Spiel JA, (b) Torschuetzen-Tipp auf den Geehrten max WACKEL - speziell wenn Spielmacher (Griezmann) statt reiner Stuermer, oder wenn emotionale Auswechslung in 80er angekuendigt. Der Geehrte will gerne treffen, aber Mitspieler 'helfen' mit Vorlagen statt eigene Tore (siehe Mancini-Eckball heute Roma, Raphinha-Doppelpack Barca - keiner gibt Lewa den Ball gezielt fuer eigenes Tor).",
-            "bezug_spiel_id": "2026-05-17-bar-bet"
-        },
-        {
-            "datum": "2026-05-18",
-            "kategorie": "NBA-Game-7-Heim-Underdog-Komplett-Crash (Quelle 8g Markt-Pattern)",
-            "lesson": "Pistons-Cavs Game 7 @Detroit: Cavs 125:94 (-31!), HZ 47:64. ALLE 3 Pistons-Tipps verloren: det-cle-1 Pistons Sieg @1.74 verloren, det-cle-2 Unter 215.5 @1.9 verloren (Total 219 - Cavs ueber Tempo), det-cle-3 Cunningham Ueber 25.5 @1.8 verloren (nur 13 Pkt). Pattern verfeinert Lesson 24.04. (Sweep-Abwehr-Heim-Edge): Sweep-Abwehr-Edge gilt fuer G3/G4/G5 nach 0-2, NICHT fuer Game 7 nach 3-3. Game 7 = pure Klasse, Heim-Underdog kollabiert oft. Regel: (a) Heim-Underdog-Sieg-Tipp in Game 7 max RISIKO (nicht WACKEL), (b) Star-Spieler-Punkte des Heim-Underdogs max WACKEL mit 30%-Einsatz, (c) Unter-Total NUR wenn beide Teams defensiv - in 'Win-or-go-Home'-Druck wird Tempo hochgefahren auch von beidem Teams (-> Ueber-Edge). Heim-Crash-Cluster sind statistisch ~25-30% der Game-7-Faelle.",
-            "bezug_spiel_id": "2026-05-17-det-cle"
-        },
-        {
-            "datum": "2026-05-18",
-            "kategorie": "Einwechslungs-Boost-Timing-Filter (Quelle 8i Boost-Trigger-Analyse)",
-            "lesson": "Atletico-Girona: Griezmann 79. fuer Sorloth raus - et-4 'Sorloth trifft' @2.25 verloren weil Spiel entschieden (1:0 ab 21.). Sorloth hatte 11 Minuten + Nachspielzeit ohne offensive Aufgabe. Pattern: Einwechslungs-Boost-Trigger funktioniert NUR wenn Backup-Stuermer (a) frueh genug kommt (vor 75.) UND (b) das Team offensiv spielen MUSS (Rueckstand/Remis). Bei 1:0-Fuehrung mit Karriere-Highlight-Switch in 79. = Anti-Boost (Spiel entschieden, kein Antrieb). Filter-Regel: Sorloth/Ferran-Torres/Casado/etc. als 'Backup-Stuermer-Boost-Tipp' (Lesson 04.05. Einwechslungs-Boost) NUR setzen wenn (i) Spiel pre-Match als knapp erwartet wird (Quoten unter 1.40 fuer Favorit ausschlieÃŸen), (ii) Geehrter-Switch nicht erwartet ist (vor Spielende-Hommage-Switch ohne Tor-Auftrag), (iii) Hauptstuermer (X) trifft wahrscheinlich nicht spaet (Karriere-Highlight-Inszenierung verschiebt X-Auswechslung Richtung 80.+).",
-            "bezug_spiel_id": "2026-05-17-atm-gir"
-        },
-        {
-            "datum": "2026-05-19",
-            "kategorie": "Top-Team-Star-9er-Schon auch bei CL-Final 12d entfernt + Heim-Saisonfinale (Quelle 8h Rotation-Pattern, Refinement Lesson 16.05./14.05.)",
-            "lesson": "EMPIRIE 18.05.: Arsenal-Burnley 1:0 - GYOKERES (14 PL-Tore Saison + 14 Tore 2026 + 21 alle Wettbewerbe, klare Hebel-Regel-4-Form-Pflicht) NICHT in Startelf trotz Heim-Saisonfinale + Titel-Klar-Chance + 8 Tage ausgeruht. Havertz startete als 9er, Gyokeres erst 73. fuer Havertz rein bei 1:0-Fuehrung (kein Offensiv-Druck mehr). ars-bur-2 Gyokeres-Torschuetzen-VALUE @1.61 verloren (-8.25 EUR) + ars-bur-1 Ueber 1.5 SAFE @1.20 verloren (-11 EUR) + ars-bur-3 Ueber 2.5 @1.55 verloren (-8.25) + ars-bur-4 Arsenal AH-1.5 @1.65 verloren (-8.25). VERFEINERUNG Lesson 16.05. (Heim-Saisonfinale-Anti-Rotation): bei Top-Team mit Schuld-CL/EL-Final <= 14d (NICHT nur <= 7d wie Lesson 14.05. besagte) kann Coach trotz Heim-Saisonfinale + Titel-Klar-Chance den Star-Stuermer schonen - Arteta-Modus zementiert dass auch eine 12d-Distanz kein klares Schon-Schutz ist. NEUE HARTREGEL: bei Top-Team-Star-Stuermer mit Final-Termin <= 14d Tage Star-Stuermer-Torschuetzen-Tipp max WACKEL (nicht VALUE oder SAFE), egal welche Form-Edge. Aufstellungs-Verifikation 1h vor Anstoss (Lesson 22.04.) wird verpflichtend statt empfohlen.",
-            "bezug_spiel_id": "2026-05-18-ars-bur"
-        },
-        {
-            "datum": "2026-05-19",
-            "kategorie": "Markt-Goldgrube N=6-Sample-Bias bei Ueber 1.5 (Quelle 8c Markt-Bilanz + 8e Kategorie-Reality SAFE)",
-            "lesson": "EMPIRIE 18.05.: ars-bur-1 Ueber 1.5 SAFE @1.20 verloren (-11 EUR). Markt-Stat zur Tipp-Zeit war 83.3% Hit / +31.7% ROI bei N=6 - mit dem 7. Datenpunkt fallend. Statistisch zu kleine N fuer 'Goldgrube'-Label (Saison-Min-Schwelle sollte n>=10 sein, nicht n>=5 wie aktuell in statistik_berechnen.py). PL-MD37-Saisonende-Spiel mit abgestiegenem Auswaerts-Team + Notformation + Top-Favorit hat oft 1:0-Steuerungsmodus (Arteta priorisiert Sicherheit + Schonung, nicht Tor-Festival). NEUE FILTER-REGEL: Ueber 1.5 NICHT als SAFE setzen wenn (a) Markt-Goldgrube-Stat noch N<10 ist UND (b) Sub-Pattern 'Top-Favorit + abgestiegenes Schluss-Tabellenende' vorliegt (Sicherheits-Sieg-Modus dominiert). Lieber Ueber 1.5 als VALUE mit reduziertem Einsatz, oder direkt Sieg-Tipp ohne Tor-Total-Anforderung. Zusaetzlich: SAFE-Hitrate-Reality - mit ars-bur-1-Verlust ist SAFE-Kategorie weiter unter Soll 75-90%.",
-            "bezug_spiel_id": "2026-05-18-ars-bur"
-        },
-        {
-            "datum": "2026-05-19",
-            "kategorie": "Anti-Boost-Pattern bei 1:0-Fuehrungs-Spaet-Sub (Quelle 8i Boost-Trigger ohne Tipp-Win, Refinement Lesson 18.05.)",
-            "lesson": "EMPIRIE 18.05.: Gyokeres (Bench-Volume-9er-Tipp) kam 73. fuer Havertz rein bei 1:0-Arsenal-Fuehrung, kein Tor in 17 Min + Nachspielzeit. Lesson 18.05. (Sorloth-Filter: Boost-Tipp NUR wenn (a) vor 75. UND (b) Team muss offensiv spielen) hier Filter-(b)-Verletzung: bei 1:0-Fuehrung gegen abgestiegenes Gast-Team gibt es keinen Offensiv-Druck - Spiel wird 'kontrolliert nach Hause gefahren'. KOMPLEMENTAERE NEUE REGEL: nicht nur Backup-Sub-Tipp-Filter, auch UMGEKEHRT - wenn Star-9er-Tipp X gespielt wird und X NICHT in Startelf ist, ist der Tipp BEI Fuehrungs-Status de-facto erlegen, weil X als Bank-Spieler erst spaet kommt + dann ohne Druck. STRATEGIE: Star-9er-Tipp X NUR wenn Aufstellung verifiziert (Startelf). Bei Substituten-Slot-Erwartung mind. ein VALUE-Tipp auf das, was sich live entwickeln kann (Live-Quote-Beobachtung) statt Pre-Match-Star-Tor-Bet. Konkret 18.05.: Gyokeres-Torschuetzen-Tipp haette nach Aufstellungs-Bekanntgabe (Gyokeres Bank) gedroppt werden muessen - 1h-Cutoff-Regel ist KRITISCH.",
-            "bezug_spiel_id": "2026-05-18-ars-bur"
-        },
-        {
-            "datum": "2026-05-19",
-            "kategorie": "Mini-Spiele-Tag-Kombi-Diversifikations-Cap (Quelle 8a Korrelation, NEUE Hartregel)",
-            "lesson": "EMPIRIE 18.05.: 2-Spiele-Tag mit 2 Kombis (Safe-Mini + Balance) - beide verloren (Total -15.40 EUR), weil Layer-1 zwingt zu max 1 Bein/Spiel/Kombi, Arsenal-Spiel war strukturell doppelt-gerissen (Ueber 1.5 + Gyokeres beide weg) -> beide Kombis weg. Tagesbilanz: 70.40 EUR (12.8% Kasse) exponiert auf 1 PL + 1 NBA-Spiel = strukturell ueber-exponiert. Lesson 15.05. Max-10%-Kasse-Cap bei <=3 Spielen + Liga-ROI-Negativ ist hier nicht direkt anwendbar (PL nicht in beobachtungs_ligen.json mit ROI<0, NBA-WCF auch nicht), ABER bei nur 2 Spielen gilt strukturelle Diversifikations-Unmoeglichkeit. NEUE HARTREGEL Mini-Spiele-Tag: bei <=2 Spielen pro Tag MAX 1 Kombi (entweder Safe-Mini ODER Balance, NICHT beide). Kombi-Diversifikation ist mit 2 Beinen aus 2 Spielen strukturell nicht erreichbar - der Schaden eines Spiel-Komplett-Crashs verdoppelt sich auf beide Kombis. Konkret: heute haette nur Safe-Mini (Ueber 1.5 + Spurs +6.5) -> 11 EUR Einsatz, statt 11+4.40 = 15.40 EUR gespielt werden duerfen. Sparring der 4.40 EUR Balance-Einsatz.",
-            "bezug_spiel_id": "2026-05-18-ars-bur"
-        },
-        {
-            "datum": "2026-05-20",
-            "kategorie": "Tag-Retter Risiko-Kombi-Validierung @19.24x (Quelle 8a Korrelation, 3. Empirie-Tag 30d)",
-            "lesson": "ERFOLGS-VALIDIERUNG #3: Risiko-Kombi (Kroupi @3.25 Torschuetze + Richarlison @3.10 Torschuetze + Brunson Ueber 33.5 @1.91) gewann KOMPLETT @ 19.24x, +25.54 EUR Netto auf 1.40 EUR Einsatz. Rette den Tag (Einzel +4.97 + Safe -11 + Balance -4.40 + Moonshot -0.55 + Risiko +25.54 = +14.55 EUR / ROI +16.4% bei 88.85 EUR Einsatz). Pattern: 3-Bein-Risiko-Kombi mit Layer-3-Diversifikation (Spielertor Spiel 1 + Spielertor Spiel 2 + Player-Punkte Spiel 3, markt-entkoppelt zu Safe/Balance/Moonshot) ist statistisch +EV. Empirische Bilanz: 01.05. Risiko-Kombi @9.79x gewann (+8.79), 19.05. Risiko-Kombi @19.24x gewann (+24.14). Beide Erfolg bei kleinem-Spiele-Tag (4 bzw. 3 Spiele) UND perfekter Layer-3-Markt-Entkopplung. REGEL: 3-4-Bein-Risiko-Kombi mit 0.25% Einsatz + striktem Layer-3 (markt-entkoppelt zwischen allen Kombis) ist als 'Tag-Retter-Vorlage' beizubehalten - bei Negativ-Einzel-Tag immer noch potentielle Plus-Bilanz. Konkrete Implikation: NBA-Player-Punkte-Boykott (HR16) bleibt fuer Einzeltipps aber Risiko-/Moonshot-Kombi-Slot mit Heim-Star-im-Comeback-Setup (heute Brunson) ist legitim - 38 Pkt deutlich ueber Linie 33.5.",
-            "bezug_spiel_id": "2026-05-19-risiko-kombi-erfolg"
-        },
-        {
-            "datum": "2026-05-20",
-            "kategorie": "NBA-Heim-Comeback-Drehung bei Recovery-Asymmetrie (Quelle 8f Drehungs-Cluster + 8h Rotation)",
-            "lesson": "EMPIRIE 19.05.: Knicks-Cavs ECF-G1 (Heim-Recovery 9d vs Auswaerts 2d nach G7) - Cavs fuehrten 22 Pkt mit 7:52 in Q4 (93:71), Knicks-44-11-Lauf ueber Q4-Rest + OT zu 115:104-Sieg. Klassisches Drehungs-Pattern: Recovery-Vorteil materialisiert sich in Q4-Defense-Crash der muederen Auswaerts-Mannschaft + Heim-Crowd-Energie verstaerkt. STRATEGISCHE NUTZUNG: bei Heim-Spielen mit Recovery-Asymmetrie >=5d (Heim vs Auswaerts) sind Q4-Comebacks erheblich wahrscheinlicher als bei symmetrischer Recovery. Markt-Implikation: (1) Knicks Spread -6.5 + Ueber 217.5 als VALUE-Tipps beide gewannen, weil OT-Inflation + Brunson-Comeback-Volume sich addierten. (2) Mitchell Ueber 30.5 (29) verfehlte - Auswaerts-Lead-Volumen kann im Q4-Crash kollabieren. Mitchell scorte fast komplett in Q1-Q3 (Cavs-Fuehrung), aber in Q4-Crash trocken. ERWEITERUNG der HR16-Boycott: bei Auswaerts-Star-Punkte-Tipp mit Recovery-Nachteil >=5d kein VALUE/SAFE - max WACKEL/Moonshot-Slot. Bei Heim-Star-Comeback-Setup im Comeback-Tag (z.B. Brunson 38 ueber Linie 33.5) ist Volumen-Edge da. OT-Inflation-Pattern: OT addiert 10+ Min = 20-25 Pkt = Total-Linien (215-220) werden via OT regelmaessig gerissen. Bei Ueber-217.5-Type-Tipps strukturell die OT-Wahrscheinlichkeit (G1 H2H knapp = OT-Risiko hoch) einrechnen.",
-            "bezug_spiel_id": "2026-05-19-nyk-cle"
-        },
-        {
-            "datum": "2026-05-20",
-            "kategorie": "Heim-Festung >=15-Spiele-ungeschlagen als SAFE-Downgrade-Trigger (Quelle 8g Markt-Pattern aus nicht-erwartetem Spiel-Outcome)",
-            "lesson": "EMPIRIE 19.05.: Bournemouth-City Endstand 1:1 trotz City-Title-Druck-Maximum (Niederlage = Arsenal-Meister). City SAFE-Sieg-Tipp @ 1.60 (etc-2, 11 EUR) verloren - Klassen-Edge (H2H 94.1% Sieg-Quote in 17 PL-Begegnungen) + voller Pep-Kader (Rodri zurueck) + Auswaerts-Form 7S-3U-0N reichten nicht gegen Bournemouth-16-PL-ungeschlagen-zuhause-Festung. Kroupi 39' (Karriere-Highlight) + Haaland 90+5 (knappes Equalizer). Heim-Festungs-Stat war im Verifikations-Report als 'Warning aber keine Niederlage' gewertet - das war zu schwach. NEUE PFLICHTREGEL: bei Heim-Team mit >=15-PL/BL/LaLiga-Spiele-ungeschlagen-Heim-Statistik darf KEIN Auswaerts-Sieg-Tipp als SAFE gelabelt werden, auch wenn Klassen-Edge + Motivation gegen Heim-Team spricht - max VALUE @ schmaler Quote oder gar DC-Variante (Auswaerts-DC X2). Konkret 19.05.: City Sieg @1.60 haette VALUE statt SAFE sein muessen, oder DC City 12 @ engerer Quote. Ergaenzung der bestehenden Lesson 25.04. SAFE-Trefferquote-Reality-Check: SAFE-Label braucht JETZT Pflichtcheck (1) Heim-Festungs-Stat <15 ungeschlagen, (2) keine Form-Krise, (3) keine Verletzungs-Krise auf Tor-Position. Bei 1 von 3 verletzt -> max VALUE.",
-            "bezug_spiel_id": "2026-05-19-bou-mci"
-        },
-        {
-            "datum": "2026-05-20",
-            "kategorie": "HR2 Anti-Heim-Bias-Subfilter bei eigenem Existenz-Druck-Team-Verletzungs-Crash (Quelle 8e Kategorie-Reality + 8c Markt-Bilanz)",
-            "lesson": "EMPIRIE 19.05.: Chelsea-Tottenham Endstand 2:1 trotz Chelsea-Form-Krise (7 PL ohne Sieg seit Maerz, 1S-2U-7N). HR2 (Anti-Heim-Bias bei Form-Krise) hatte Spurs-X2-DC @1.82 als VALUE-Top-Pick fuer Existenz-Druck-Edge (1 Pkt fuer Klassenerhalt) markiert - aber DC X2 gerissen, weil Spurs-Verletzungs-Crash noch schlimmer war als Chelsea-Form-Krise (Solanke + Kudus + Romero + Xavi Simons + Kulusevski + Odobert + Davies alle OUT, Richarlison als einziger fitter ST). Richarlison traf zwar (74., WACKEL-Tipp @3.10 gewann), aber Spurs-Team-Niveau gesamt war unter Chelseas Klassen-Edge. NEUE SUBFILTER-PFLICHTREGEL fuer HR2: vor Spurs-/Auswaerts-X2-VALUE-Tipp pflicht-pruefen ob Auswaerts-Team selbst Verletzungs-Crash hat (>=3 Stammspieler OUT, insbesondere Stuermer/Innenverteidiger). Wenn ja -> Spurs-X2 max WACKEL, nicht VALUE. Asymmetrie-Quotient = (Heim-Form-Defizit-Severitaet) vs (Auswaerts-Verletzungs-Defizit-Severitaet). Heute war Chelsea-Form-Krise = 7 ohne Sieg, Spurs-Verletzungs-Crash = 7+ Stammspieler OUT - quantitativ Spurs schlechter. Strategie-Implikation: in Spielen mit beidseitiger Krise (Form vs Verletzung) ist Klassen-Edge entscheidend, nicht Motivations-Asymmetrie. Auch Markt-Konsens (Asian-Handicap Spurs +0.5 @1.83) war im Tipp als Argument genutzt - das ist Buchmacher-Linie, nicht Edge-Beweis. Tipp-Routine soll Asian-Handicap-Konsens als Risiko-Indikator, nicht als Edge-Bestaetigung lesen.",
-            "bezug_spiel_id": "2026-05-19-che-tot"
-        },
-        {
-            "datum": "2026-05-21",
-            "kategorie": "Klassen-Edge-Final-Volume-9er-Schweigen (Quelle 8f volle_analyse Markt-Pattern)",
-            "lesson": "EMPIRIE EL-Final 20.05.: Villa 0:3 - ALLE 3 Tore durch Mittelfeld-Schuetzen (Tielemans 42' / Buendia 45+4' / Rogers 59'), kein Volume-9er-Tor (Watkins kein Tor + Matanovic kein Tor). Pattern: in Klassen-Edge-Finals (PL Top-4 vs BL-Mid-Table) spielen die Volume-9er als Pressing-Anker / Hold-Up-Spieler, Tor-Verteilung verlagert sich strukturell auf attacking Mids + Wings, die ihre 'Goal-of-the-Career'-Momente nutzen. NEUE REGEL fuer kommende Klassen-Edge-Finals (CL-Final 30.05. + zukuenftige): Volume-9er-Tor-Tipp @1.80-2.10 nur noch WACKEL, NICHT VALUE. Stattdessen aktiv suchen: zentrale Mittelfeldspieler / attacking Mids mit Karriere-Highlight-Motivation und Quote 4.0-8.0 als VALUE. Watkins-Tipp @1.95 und Matanovic-Tipp @3.70 waeren als WACKEL bzw RISIKO zu labeln gewesen - nicht VALUE/WACKEL. Strategie-Implikation: Klassen-Edge-Final hat strukturell breitere Tor-Verteilung als Standard-Liga-Spiel.",
-            "bezug_spiel_id": "2026-05-20-fre-avl"
-        },
-        {
-            "datum": "2026-05-21",
-            "kategorie": "Volume-Player-Stat-Theses sport-uebergreifend korreliert (Layer-3-Erweiterung) (Quelle 8a Korrelations-Analyse)",
-            "lesson": "EMPIRIE Balance-Kombi 20.05.: Watkins-Tor (Fussball) + Wembanyama-Ueber-24.5 (NBA) - beide gerissen, obwohl sport-uebergreifend (Diversifikation-Annahme). MECHANIK identisch: beide Volume-Player-Stat-Theses ('Top-Star trifft seine Linie/Tor'), beide gegen Top-Defense (Villa-8-Clean-Sheets-Mauer / OKC-Top-3-Defense), beide unterlegen. Trotz unterschiedlicher Sportart sind beide Theses durch denselben Mechanismus ('Volume-Player gegen Defense-Mauer im Final/Decider-Setup') korreliert. LAYER-3-PRAEZISIERUNG: Volume-Player-Stat-Theses zaehlen als KORRELIERT auch sport-uebergreifend, weil der Mechanismus identisch ist - Defense-Mauer faengt gerade die Volume-Player als Erstes. REGEL: in einer Kombi max 1 Volume-Player-Stat-These (Tor / Player-Punkte / Player-Treffer). Heute Balance-Kombi haette stattdessen 1x Volume-Player + 1x Total-Markt (z.B. Watkins-Tor + Ueber 215.5 NBA) bauen muessen - Markt-Typ-Diversifikation reicht NICHT als Layer-3, Mechanismus-Diversifikation muss zusaetzlich erzwungen werden.",
-            "bezug_spiel_id": "2026-05-20-fre-avl"
-        },
-        {
-            "datum": "2026-05-21",
-            "kategorie": "Konsens-Best-Bet-Cluster-Trap: beide Aggregator-Konsens-Bets gleicher Tag gerissen (Quelle 8c Markt-Bilanz + 8g Markt-Pattern)",
-            "lesson": "EMPIRIE 20.05.: BEIDE Aggregator-Konsens-Best-Bets verloren am gleichen Tag - 'Unter 2.5 Tore' (NBCSports/CBSSports/SBD/Covers) im EL-Final + 'Unter 216.5 Punkte' (NBCSports/CBSSports) in NBA-WCF-G2. Beide als 'Modell-Edge +6-8%' aufgenommen mit 4-Quellen-Konsens. Realitaet: EL endete 0:3 (+0.5 ueber 2.5), NBA endete 235 (+18.5 ueber 216.5). KONSENS-TRAP-PATTERN: Aggregator-Quellen schreiben oft gegenseitig ab und reflektieren Markt-Erwartung statt Edge-Signal - bei Klassen-Edge-Asymmetrie / Bounce-Back-Druck-Setups produziert das systematisch Fehlsignale. NEUE REGEL: max 1 Aggregator-Konsens-Best-Bet pro Tag als VALUE in einzeltipps[]. Bei 2+ Konsens-Bets am Tag: 1 davon als VALUE behalten (mit hoechstem Sample-N im Markt-Typ), Rest auf WACKEL degradieren. ZUSATZ: bei Klassen-Edge-Final + bei NBA-Bounce-Back-Decider-Setup ist Konsens-Unter-Markt strukturell schwach - Konsens-Best-Bets in diesen Setups sind als 'Konsens-Trap' zu kennzeichnen und mit Marker im begruendung-Feld zu markieren.",
-            "bezug_spiel_id": "2026-05-20-fre-avl"
-        },
-        {
-            "datum": "2026-05-21",
-            "kategorie": "Mini-Spiele-Tag-Bilanz-Realitaet: Safe-Kombi als einziger Tag-Retter, Balance/Risiko strukturell Verlustverstaerker (Quelle 8a Korrelation + 8e Kategorie-Reality)",
-            "lesson": "EMPIRIE Mini-Spiele-Tag 20.05. (2 Spiele): Safe-Kombi gewann @2.39x (Brutto 26.29â‚¬ / Netto +15.29â‚¬) = TAG-RETTER bei sonstiger Bilanz 2W-4L Einzeltipps + 0W-3L Kombis (Balance/Risiko/Moonshot alle aus). Bei nur 2 Spielen ist jede 2-Bein-Kombi mathematisch eine '50%-Bein Ã— 50%-Bein = 25%-Kombi'-Realitaet, mit nur 2 Spielen kein Diversifikations-Raum fuer markt-entkoppelte Beine - jeder Verlust eines Beins killt die Kombi. Balance + Risiko + Moonshot in Mini-Tag-Setting waren faktisch garantierte Verluste (3-fach -6.35â‚¬ Kombi-Einsatz fuer 0 Auszahlung). NEUE HARTREGEL fuer kommende <=2-Spiele-Tage: Routine generiert NUR Safe-Kombi + Moonshot (Spass-Slot 0.1%). Balance + Risiko ueberspringen, weil 2-Bein-Konstruktionen weder Edge noch substantielles Risiko-Profil bieten. Begrundung: bei 4+ Spielen liefert 4-Bein-Risiko bei 10-13% Hitrate sinnvolles EV-Profil, bei 2-Bein-Risiko ist Hitrate ~25% und Quote unter Master-Soll = Negative EV. Total-Exposure-Cap bei Mini-Tagen automatisch reduziert auf max 4% Kasse (Safe 2% + Moonshot 0.1% + Einzel-Polster <=2%).",
-            "bezug_spiel_id": "2026-05-20-okc-sas"
-        },
-        {
-            "datum": "2026-05-22",
-            "kategorie": "Doppelspiel-Hinspiel-Tor-Festival-These widerlegt (Existenz-Druck-Relegation defensiv)",
-            "lesson": "EMPIRISCHE WIDERLEGUNG: WOB-PAD Relegations-Hinspiel 21.05. endete 0:0 trotz vor-Spiel-Markt-Goldgrube Ueber 2.5 @ 1.75 (Pre-Match-These '+33.2% ROI Marktstat + H2H 4/5 mit 3+ Toren + Paderborn MUSS Auswaerts-Tor erzielen'). Realitaet: Karriere-Highlight-Aufstiegs-Underdog (Paderborn) ging in Existenz-Druck-Hinspiel auswaerts auf DEFENSIVE Schiene, nicht offensive - die 'Auswaerts-Tor-Logik treibt Offensive'-Annahme war systematisch falsch. Bei Doppelspiel-Format-Hinspielen mit beidseitig Existenz-Druck (Aufstieg vs Abstieg, Karriere-Highlight vs Existenz-Erhalt) spielen beide Teams oft 0:0 oder 1:0/1:1 - Vorsichts-Defensive ueberwiegt Tor-Druck. Pattern bestaetigt durch 30.04.-Lesson (EL/Conference-HF-Hinspiele defensive Bias). NEUE REGEL: BTTS und Ueber 2.5 in Hinspielen von BL-Relegation, DFB-Pokal-Halbfinale, Coppa-Italia-Halbfinale, EL/Conference-HF/Final-Hinspielen ab sofort max WACKEL - nicht VALUE/SAFE, nicht als Markt-Goldgruben-Bevorzugung in Einzel-Set. Bevorzugte Maerkte fuer solche Hinspiele: Unter 2.5/3.5, DC fuer das defensiv staerkere Team, 'Beide treffen NEIN'. Erst im Rueckspiel mit klarem Tor-Druck-Trigger (Hinspiel-Score notwendig zu egalisieren) ist Tor-Markt VALUE. Markt-Goldgruben-Statistik 'Ueber 2.5 +33.2% ROI' war auf regulaeren Liga-Spielen aufgebaut - Hinspiel-Subfilter fehlt.",
-            "bezug_spiel_id": "2026-05-21-wob-pad"
-        },
-        {
-            "datum": "2026-05-22",
-            "kategorie": "NBA-Star-Defense-Adjust nach G1-30+-Show (Player-Punkte-Subfilter)",
-            "lesson": "EMPIRIE: Brunson 38 Pkt G1 (19.05.) -> 19 Pkt G2 (21.05., HZ erst 2 Pkt) wegen Cavs-Atkinson-Switch-Coverage-Adjust. Pre-Match-Tipp 'Brunson Mehr als 26.5 Punkte @ 1.90' erfuellte alle 4 Lesson-04.05.-Player-Punkte-Kriterien (Spread <=7.5, Form-Edge >80%, Linie Saison-Schnitt-1, Heim-MSG) UND verlor trotzdem klar. NEUE PRAEZISIERUNG der Lesson 04.05.: wenn Top-Star im UNMITTELBAR vorigen Spiel der Serie 30+ Punkte erzielte UND der Gegner eine Top-5-Defense ist (Cavs Top-3 25/26), ist der NAECHSTE Adjust schneller als die Markt-Linie es einpreist (Linie nur -1 unter Saison-Schnitt = Markt erwartet 'nahe Saison-Schnitt' aber Defense reagiert auf den Outlier). Konkrete Subfilter-Regel: Player-Punkte-Ueber Tipps NUR dann VALUE/WACKEL, wenn (a) Spieler hatte im Vorspiel <=20% UEBER Saison-Schnitt (kein Hot-Hand-Markt-Echo), ODER (b) Gegner-Defense Rang 11+ in Saison (kein Top-Defense-Adjust-Risiko), ODER (c) Linie ist mind. 4 Punkte unter Saison-Schnitt (echte Markt-Unterschaetzung). Wenn keine der drei Bedingungen erfuellt: max RISIKO oder Moonshot-Bein, kein Einzel. Brunson 21.05. erfuellte 0/3 Subfilter-Bedingungen (G1 38 Pkt = 27% ueber Saison-Schnitt ~30, Cavs Top-3-Defense, Linie -1) - kein Edge sondern Falle.",
-            "bezug_spiel_id": "2026-05-21-nyk-cle"
-        },
-        {
-            "datum": "2026-05-22",
-            "kategorie": "Sekundaer-Volume-Star-Eruption (NEU aus Volle-Analyse 8h Rotation-Pattern)",
-            "lesson": "VOLLE-ANALYSE-DERIVAT: NYK-CLE G2 (21.05.) zeigt Pattern 'Defense-Lock auf Hauptstar -> Sekundaer-Star bricht aus' empirisch: Cavs-Defense fokussierte auf Brunson (38 G1 -> 19 G2 = -50% Output), Josh Hart als sekundaerer Volume-Player explodierte zu 26 Pkt Career-Playoff-High (Saison-Schnitt ~15 = +73% Outlier-Game). Wenn ein Team einen Star drosselt, verschiebt sich der Volume-Ball auf den 2nd/3rd-Option - klassisches Anpassungs-Paradox. STRATEGIE-IMPLIKATION fuer kuenftige Routine: bei NBA-Playoff-G2/G3 nach einem 30+-Pkt-G1 vom Hauptstar UND erwartbarer Top-5-Defense-Adjust beim Gegner -> Player-Punkte-Tipp auf SEKUNDAER-VOLUME-STAR (Saison-Schnitt 14-19 Pkt, Linie nahe Saison-Schnitt) als VALUE-Kandidat. Heim-Status + Sekundaer-Volume-Profil-Hist > 22% Pkt-Anteil-Spielzeit notwendig. Vorbedingung: Sekundaer-Star muss konstante Spielzeit haben (kein Bench-Spieler). Bei Knicks-Pattern waren Hart und Towns plausible Kandidaten (beide 30+ Min/Spiel). Diese Lesson erweitert die Player-Punkte-Erlaubnis um eine zweite Ebene (Sekundaer-Volume-Edge) statt nur auf Top-Star-Linien-Unterschaetzung zu setzen.",
-            "bezug_spiel_id": "2026-05-21-nyk-cle"
-        },
-        {
-            "datum": "2026-05-22",
-            "kategorie": "Anti-Heim-Festungs-Liga-Letzter zusaetzlich-Tor-Markt-Sperre (Quelle 8g Markt-Pattern)",
-            "lesson": "VERSCHAERFUNG der 20.05.-Anti-Festungs-Lesson: Wolfsburg als schwaechstes BL-Heim-Team Saison 25/26 (10 Pkt aus 17 Heimspielen + 11 Pkt Rueckrunde = Liga-Letzter) lieferte trotz 17 Schuesse + 70% Possession in 2.HZ KEIN Tor gegen Paderborn-Defense. Markt-Pattern aus volle_analyse: bei Heim-Anti-Festungs-Teams (10 Pkt oder weniger aus 17+ Heimspielen) ist nicht nur Sieg-Markt sondern AUCH Tor-Markt strukturell ueberschaetzt - die Schwaeche eines Anti-Festungs-Heim-Teams beinhaltet auch chronische Effizienz-Mangel im Strafraum (siehe Wolfsburg 17 SOG ohne Treffer). NEUE REGEL: bei Anti-Festungs-Heim-Teams (Punkte-Hitrate Heim <0.65 ueber 15+ Spiele) NICHT NUR Sieg-DC-Tipps streichen sondern AUCH Ueber-1.5/2.5/BTTS-Tipps auf Heim-Spiele dieser Teams als Markt-Goldgrube zu suchen sondern als WACKEL einstufen. Anti-Festungs-Heim-Teams produzieren tor-armes Spiel beidseitig (Defensiv-eingestellt + offensiv ineffektiv). Aktuell betroffen: Wolfsburg-Heim, plus Pruefen ob Hoffenheim/Heidenheim/St.Pauli etc. ebenfalls Anti-Festungs-Stati haben. Subfilter im Schema-Mapper: bei Heim-Anti-Festung + Ueber-2.5/BTTS-Tipp -> Auto-Downgrade auf WACKEL.",
-            "bezug_spiel_id": "2026-05-21-wob-pad"
-        },
-        {
-            "datum": "2026-05-23",
-            "kategorie": "NBA-Bench-Tiefen-Asymmetrie-Subfilter fuer HR18-G2-Reaktions-Spike (Quelle 8e Reality + 8h Rotation-Pattern)",
-            "lesson": "EMPIRISCHE WIDERLEGUNG des Triple-Edge-Stacks: Spurs hatten G2-Reaktions-Spike (HR18) + 4-0 Reg-Season H2H + Heim-16-4-letzte-20 als 3-fach-Edge-Stack vs OKC und verloren G3 trotzdem 108-123 (-15) bei HZ-Fuehrung 53-46 (+7). Killer-Faktor: OKC-Bench 76 Pkt vs Spurs-Bench 23 Pkt = -53 Pkt-Diff (McCain 24 Karriere-Conf-High + J.Williams 18). Spurs-Verletzungs-Cluster (Fox+Harper OUT) ohne adequate Backup-PG-Tiefe. NEUER SUBFILTER zu HR18: bei erwarteter Bench-Asymmetrie >=20 Pkt (z.B. eigene Top-3-Rotation-OUT vs intakte Gegner-Bench) HR18-Reaktions-Spike NICHT als VALUE-Trigger nutzen, max wackel. Stake-Reduktion (1% statt 1.5%) im Mini-Tag war Schritt in richtige Richtung aber nicht ausreichend - bei diesem Profil 0% in einzeltipps[] richtig. Goldgrube WCF-Total Ueber bestaetigt parallel (alle 3 Spiele >217.5).",
-            "bezug_spiel_id": "2026-05-22-sas-okc"
-        },
-        {
-            "datum": "2026-05-23",
-            "kategorie": "Sekundaer-Volume-Star-G3-Snap-Back-Risiko (Subfilter zur 22.05.-Erlaubnis-Erweiterung)",
-            "lesson": "PRAEZISIERUNG der Lesson 22.05. Sekundaer-Volume-Star-Eruption: Castle Ueber 22.5 als VALUE @1.85 verloren - Castle G3 nur 13 Pkt (von G2 25, -48%) nachdem OKC Caruso/Wallace als Defense-Specialist auf Castle switchte. Pattern ist ANALOG zu Wemby G1 41 -> G2 21 (-49%) nach Hartenstein-Adjust - jeder Hot-Hand-Sekundaer-Star wird im NAECHSTEN Spiel defensiv neutralisiert. NEUER SUBFILTER: Sekundaer-Volume-Star-Erlaubnis NUR wenn (a) eigene Bench-Asymmetrie nicht negativ (sonst Pace-Volume sinkt), (b) Gegner hat keinen Defense-Specialist auf Bench fuer 2.HZ-Switch verfuegbar, (c) NICHT direkt nach Karriere-Highlight G2 - Snap-Back-Statistik laut Brunson-Pattern. Castle erfuellte (b) und (c) NICHT - OKC hatte Caruso+Wallace, G3 war direkt nach Castle-G2-25-Ausbruch. Lesson 22.05. Sekundaer-Volume-Erlaubnis-Erweiterung damit auf wackel-Profil eingegrenzt, NICHT VALUE-Tier.",
-            "bezug_spiel_id": "2026-05-22-sas-okc"
-        },
-        {
-            "datum": "2026-05-23",
-            "kategorie": "NBA-Star-G3-Snap-Back-Erlaubnis nach G2-Defense-Adjust (Reverse-Lesson zu 22.05. Hot-Hand-Subfilter)",
-            "lesson": "WIDERLEGUNG der Lesson 22.05. NBA-Star-Defense-Adjust-G1-Hot-Hand-Subfilter im G3-Snap-Back-Profil: Wemby Ueber 24.5 @1.85 als wackel (NICHT in einzeltipps[]) markiert weil Subfilter 1/3 - aber gewann 26 Pkt klar ueber Linie. G2-Defense-Adjust (Hartenstein-Switch von 41 auf 21 Pkt) ist statistisch ein TEMPORAERER Shock, G3 zeigt Snap-Back Richtung Saison-Schnitt 25-26. Reverse-Subfilter-Logik: nach G2 -20% Output ist G3-Linie nahe Saison-Schnitt eine VALUE-Konstellation (Markt unterschaetzt Snap-Back). NEUE REGEL: NBA-Star-Punkte-Linie >= Saison-Schnitt -2 Pkt nach Defense-Adjust-G2-Crash = VALUE-Erlaubnis, statt komplettes HR16-Player-Punkte-Boykott + Subfilter-Pruefung. Sekundaer-Volume-Star (Castle) bleibt Subfilter-pflichtig (Lesson 23.05.2), aber Stamm-Volume-Star nach G2-Adjust hat klares Markt-Edge-Profil.",
-            "bezug_spiel_id": "2026-05-22-sas-okc"
-        },
-        {
-            "datum": "2026-05-23",
-            "kategorie": "Serie-A-Saisonende-Dead-Rubber Tor-Markt-Profil (Quelle 8g Markt-Pattern aus nicht-getipten Spielen)",
-            "lesson": "BESTAETIGUNG via volle_analyse: Fio-Ata 1:1 mit nur 2 Toren (1 echtes Spielertor Piccoli 39. + 1 Eigentor Comuzzo 82.) - dead-rubber-Saisonfinale-Profil tendiert zu defensiven Spielen trotz hoher impliziter Markt-Erwartung (Aggregator-Prognose 1-2, Ueber-Implizit 53%). Beobachtungs-Liga-Serie-A-Goldgrube DC X2 @1.40 gewann (Atalanta-Klassen-Edge + Unentschieden = 70% historisches DC-X2-Hitrate-Profil bestaetigt - jetzt n=16, ~70% Hitrate). Aber Ueber 2.5 verloren - bei Saison-Ende-Beobachtungs-Liga muss Tor-Markt KOMPLETT boykottiert werden (auch ueber Moonshot-Bein, NICHT nur einzeltipps), egal welche Goldgrube-Statistik. NEUE REGEL: bei Beobachtungs-Liga + Saison-Letzter-Spieltag + 'dead rubber' beidseitig: Tor-Markt (Ueber X.5 + BTTS + Spielertor) alle Kategorien sperren, DC-Maerkte koennen bei klarer Klassen-Edge als Goldgrube-Bein bleiben. Eigentor-Markt-Schiefe (50% der Tore waren Eigentor) verschaerft das Profil noch.",
-            "bezug_spiel_id": "2026-05-22-fio-ata"
-        },
-        {
-            "datum": "2026-05-24",
-            "kategorie": "Roster-Verifikation: Backup-Pick-Falle bei Vereins-Sperre (Vinicius-Fall)",
-            "lesson": "KRITISCH (Wiederholung Roster-Lesson 25.04. in neuer Auspraegung): Das Dossier wechselte den Torschuetzen-Tipp bewusst von Mbappe (Hamstring-ZWEIFELHAFT) auf Vinicius (angenommen FIT, HR3 Backup-Pflicht) - und erwischte damit genau den Falschen. Vinicius bekam am Spieltag eine VEREINS-/Disziplinar-Sperre (club decision), stand NICHT im Kader; Mbappe spielte dagegen UND traf (51.). Der Vinicius-Tipp wurde bet365-VOID (Spieler nicht eingesetzt -> Einsatz zurueck = push, kein Verlust, aber verschenkter Slot). Brahim Diaz ersetzte Vinicius in der Startelf und traf 88' - KEIN Einwechslungs-Boost, da der Boost die Auswechslung des Tipp-Spielers VON DEM PLATZ verlangt (Vinicius war nie drauf). REGEL: (1) Ein 'zweifelhafter' Star ist NICHT automatisch riskanter als sein 'fit' angenommener Ersatz - beide brauchen einen Lineup-Check 60-90 Min vor Anstoss. 'Club decision'-Sperren tauchen am Saisonende/Dead-Rubber gehaeuft auf und sind in Vorab-Quellen oft nicht gelistet. (2) Bei Star-Wechsel-Entscheidungen NICHT nur den Verletzungs-Status pruefen, sondern auch Sperren/Kader-Politik. (3) Torschuetzen-Tipp auf nicht-eingesetzten Spieler = void/push, kein ROI-Schaden, aber der Slot war wertlos - lieber auf einen quasi-sicheren Starter (Mbappe spielte ja).",
-            "bezug_spiel_id": "2026-05-23-rma-ath"
-        },
-        {
-            "datum": "2026-05-24",
-            "kategorie": "Drehungs-/Comeback-Cluster bei Champion-Saisonende (volle_analyse-Quelle)",
-            "lesson": "DREHUNGS-CLUSTER aus voller-Analyse ueber alle Spiele 23.05.: (A) Bologna fuehrte gegen die rotierte Inter-B-Elf 3:1 (48.) und verspielte den 2-Tore-Vorsprung zum 3:3 (Esposito 63., Diouf 87.) = echte Drehung. (B) Valencia drehte ein 0:1 gegen Meister Barca (Lewandowski 61.) in der 2.HZ zum 3:1 (Guerra 66., Rioja 70., Guido 90+). Gemeinsamer Nenner: BEIDE betroffenen Favoriten/Grossen (Inter, Barca) waren Champions im Saison-Auslauf ohne Tabellen-Druck und liessen in der Schlussphase nach bzw. rotierten. REGEL: Bei der Tipp-Generierung am Saison-Schlusstag/Dead-Rubber Sieg- und Fuehrungs-Tipps auf Meister/gesicherte Teams MAX wackel - die Motivations-Asymmetrie kippt zugunsten des Teams MIT Ziel (Valencia spielte befreit, Bologna wollte Saison-Highlight). Korrelations-Folge: Barca-Sieg killte die Balance-Kombi - ein Champion-Auslauf-Sieg-Bein ist ueberdurchschnittlich kombi-gefaehrlich.",
-            "bezug_spiel_id": "2026-05-23-bol-int"
-        },
-        {
-            "datum": "2026-05-24",
-            "kategorie": "LaLiga-Schlusstag Unter-2.5-Pattern aggregiert (volle_analyse-Quelle)",
-            "lesson": "MARKT-PATTERN aus markt_resultate[] aller LaLiga-MD38-Spiele 23.05.: 6 von 8 LaLiga-Partien blieben Unter 2.5 Tore (Celta 1:0, Mallorca 3:0=Ueber, Getafe 1:0, Girona 1:1, Alaves 1:0, Espanyol 1:1, Betis 2:1=knapp-Ueber, Real 4:2=Ueber). Reines Mittelfeld-/Abstiegs-/Auslauf-Profil: nur die Spiele MIT Top-Offensive (Real, Valencia-Barca) gingen klar Ueber, alle anreizlosen oder Abstiegs-nervoesen Partien blieben tor-arm. Beide getippten Unter-2.5 (Girona-Elche 1:1, Getafe-Osasuna 1:0) trafen. REGEL/Bestaetigung der Goldgrube Unter 2.5 (+22.8%): Am LaLiga-Schlusstag (und allg. dead-rubber/Abstiegs-Existenz-Duellen ohne Top-Offensive) Unter 2.5 aktiv als VALUE markieren; NUR Spiele mit mindestens einer Top-5-Offensive (Real/Barca/Atletico-Kaliber) davon ausnehmen.",
-            "bezug_spiel_id": "2026-05-23-gir-elc"
-        },
-        {
-            "datum": "2026-05-24",
-            "kategorie": "Torschuetzen-Goldgrube-Verfeinerung: Haushoher-Favorit-Elfschuetze INVERS zu Lesson 21.05.",
-            "lesson": "VERFEINERUNG der Lesson 21.05. (Klassen-Edge-Final-Volume-9er-Schweigen): Im DFB-Pokal-Final machte Kane einen lupenreinen HATTRICK (55., 80., 90+2 Elfmeter) - das Dossier hatte ihn aus Vorsicht (21.05.-Lesson) nur VALUE statt SAFE gelabelt. Auch Muriqi (@2.40) traf im Mallorca-Pflichtsieg. ERKENNTNIS: Die 'Final-Tore-verteilen-sich-aufs-Mittelfeld'-Skepsis gilt NICHT im Extremfall eines HAUSHOHEN Favoriten (Quote <=1.40) dessen Tipp-Stuermer ZUGLEICH designierter Elfmeter-/Standardschuetze ist - dann ist der Volume-9er-Torschuetzen-Tipp robust (Elfer-Wahrscheinlichkeit + Chancen-Volumen). REGEL: Torschuetzen-Jederzeit auf den Penalty-Taker eines Top-Favoriten (Sieg-Quote <=1.40) darf wieder bis VALUE/Grenz-SAFE hoch - die 21.05.-Vorsicht bleibt nur fuer ausgeglichene Klassen-Edge-Finals (Favoriten-Quote >1.50). Torschuetzen-Jederzeit insgesamt heute 3/4 (Kane, Muriqi, Lewa; nur Vinicius void) - Goldgrube intakt.",
-            "bezug_spiel_id": "2026-05-23-bay-vfb"
-        },
-        {
-            "datum": "2026-05-25",
-            "kategorie": "Schlusstag-Motivations-Asymmetrie-These widerlegt (motiviertes Team vs anreizloses Team)",
-            "lesson": "HARTE WIDERLEGUNG ueber den kompletten PL-Schlusstag 24.05.: Die System-Kern-These 'motiviertes Heim-Team mit Saisonziel schlaegt anreizloses/schon-qualifiziertes Team' kollabierte gleich dreifach: (1) Brighton (Heim-Favorit ~1.90, Europa-Ziel) verlor 0:3 gegen das laengst CL-qualifizierte, 'anreizlose' Manchester United im Carrick-Debuet als Dauer-Coach -> DC 1X (Safe-Kombi-Bein!) tot. (2) Manchester City (Pep-Abschieds-Emotion, Heim @1.34) verlor 1:2 gegen das EL-Sieger-Villa im Feier-Modus. (3) Liverpool (CL-Platz-5-Ziel @1.80) kam nur zu 1:1 gegen ein druckloses Brentford. Auto-Analyzer flaggte parallel 'PL Sieg/value 100% Verlust (3/3)'. ERKENNTNIS: Am Schlusstag ist 'anreizlos' KEIN verlaessliches Edge fuers Gegenueber - befreite Teams (Trainer-Debuet, Titel-/Pokal-Feier, gerettete Mittelfeld-Klubs) spielen oft lo(c)kerer und besser als das verkrampfte 'motivierte' Team unter Ziel-Druck. NEUE REGEL: Sieg- und DC-1X/X2-Tipps, deren These primaer auf 'Gegner ist anreizlos/schon-qualifiziert/im Feier-Modus' beruht, am Saison-Schlusstag MAX wackel - NICHT in Safe-Kombi, NICHT als VALUE-Einzel. Die Motivations-Asymmetrie zaehlt nur, wenn das motivierte Team auch ohne diesen Faktor klar ueberlegen ist (echte Klassendifferenz, nicht nur Tabellen-Anreiz).",
-            "bezug_spiel_id": "2026-05-24-bri-mun"
-        },
-        {
-            "datum": "2026-05-25",
-            "kategorie": "Champion/Favorit-Saisonende-Drehungs-Cluster jetzt 2-Tage-Serie (volle_analyse-Quelle 8f)",
-            "lesson": "DREHUNGS-CLUSTER aus volle_analyse, zweiter Tag in Folge: Torino-Juventus 24.05. -> Juventus fuehrte im Derby della Mole 0:2 (Vlahovic-Doppelpack, 54.) und verspielte den 2-Tore-Vorsprung zum 2:2 (Casadei 60., Che Adams 84.). Juve hatte zur HZ erfahren, dass Platz 4 (CL) ohnehin verpasst ist -> mentaler Einbruch in der Schlussphase. Das ist EXAKT das gleiche Muster wie am 23.05. (Bologna 3:1->3:3 vs Inter-B-Elf + Valencia dreht 0:1->3:1 gegen Barca). Gemeinsamer Nenner ueber beide Tage: Favorit/Champion mit erreichtem ODER verpasstem Saisonziel laesst in der Schlussphase nach, das Team MIT Rest-Motivation/Befreiung dreht auf. NEUE REGEL (Verschaerfung Lesson 24.05): Am Saison-Schlusstag/Dead-Rubber sind Sieg-, Fuehrungs- und -1.5-Handicap-Tipps auf Favoriten mit erreichtem/verpasstem Ziel HART max wackel - und als Kombi-Bein gesperrt, weil ein Drehungs-Favoriten-Bein ueberdurchschnittlich kombi-toedlich ist (heute killte kein einzelner, aber kumulativ trugen die Favoriten-Auslauf-Patzer alle 4 Kombi-Verluste mit). Drehungs-Risiko jetzt empirisch 2 Tage / 3 Spiele bestaetigt.",
-            "bezug_spiel_id": "2026-05-24-tor-juv"
-        },
-        {
-            "datum": "2026-05-25",
-            "kategorie": "Dead-Rubber/abgestiegene-Teams am Schlusstag = Unter-Tendenz, NICHT Ueber-Goldgrube (volle_analyse-Quelle 8g)",
-            "lesson": "MARKT-PATTERN aus markt_resultate[] aller PL-MD38-Spiele 24.05.: Die beiden reinen Dead-Rubber (Fulham-Newcastle 2:0 + Burnley-Wolves 1:1, beide abgestiegen) blieben BEIDE Unter 2.5 - die Pre-Match-These 'druckloses/befreites Schlusstag-Spiel = offen/torreich, Ueber 2.5 Goldgrube' traf NICHT. Auch das nervoese Abstiegs-Endspiel Tottenham-Everton (1:0) blieb tor-arm (Unter 2.5 + DC 1X durch - beide getippt, beide gewonnen). Insgesamt nur 5/10 PL-Spiele Ueber 2.5; die Ueber-Treffer kamen aus Spielen MIT echtem Anreiz/Klassengefaelle (City-Villa, Brighton-United, Sunderland-Chelsea, West Ham-Leeds, Palace-Arsenal). REGEL (Erweiterung des LaLiga-Schlusstag-Unter-Patterns vom 24.05. auf die PL): Bei Dead-Rubber (beide Teams ohne Tabellen-Anreiz / abgestiegen) und bei nervoesen Abstiegs-Existenz-Duellen am Schlusstag -> Ueber 2.5/BTTS NICHT als Goldgrube spielen (auch nicht als Kombi-Bein), stattdessen Unter 2.5 als VALUE markieren. 'Befreit' bedeutet Intensitaets-Mangel, nicht Tor-Festival. Die Ueber-2.5-Goldgrube (+30.2% ROI) gilt nur fuer Spiele mit mindestens einseitigem Anreiz/Klassengefaelle.",
-            "bezug_spiel_id": "2026-05-24-ful-new"
-        },
-        {
-            "datum": "2026-05-25",
-            "kategorie": "NBA-WCF-Total-Ueber-Goldgrube gebrochen: Muss-Sieg-Defensiv-Schlacht (volle_analyse-Quelle 8g + Sample-Bias)",
-            "lesson": "GOLDGRUBE-BRUCH: Die WCF-Total-Ueber-These (alle 3 Vorspiele >217.5: G1 243, G2 >217, G3 231) brach in G4 24.05. krachend - San Antonio 103:82 OKC = nur 185 Punkte, 34.5 UNTER der Linie 219.5. Ursache: Die Spurs (1-2 zurueck, Heim-Muss-Sieg) erzwangen eine DEFENSIV-Schlacht (OKC 33% FG, 18% 3P bei 6/33, 17 Turnover) statt eines offenen Schlagabtauschs - genau das Muster aus Lesson 02.05. (NBA-G6/G7-Druck-Spiele werden defensiv, Tempo sinkt). Die 'Muss-Sieg/Decider = hohes Tempo'-Annahme ist damit erneut widerlegt. NEUE REGEL: NBA-Serien-Total-Ueber-Patterns mit kleinem Sample (n<=4 Serien-Spiele) NICHT als Goldgrube ueber-gewichten - ein Muss-Sieg-Heim-Team kann das Spiel jederzeit in eine Defensiv-Schlacht zwingen (Tempo-Kontrolle = Win-Strategie wenn Bench-/Star-Asymmetrie sonst gegen einen spricht). WCF-Ueber kuenftig max wackel statt VALUE, ausser beide Teams haben Top-5-Pace UND es ist KEIN Muss-Sieg/Elimination-Spiel. Positiv-Befund parallel: Wembanyama 33 Pkt (Stamm-Volume-Star-Snap-Back-Erlaubnis Lesson 23.05. erneut bestaetigt - Moonshot-Bein durch); De'Aaron Fox spielte trotz Vorab-Ausfall-Annahme (12/10/5) -> Lineup-Check auch bei NBA Pflicht.",
-            "bezug_spiel_id": "2026-05-24-sas-okc"
-        },
-        {
-            "datum": "2026-05-26",
-            "kategorie": "NBA 0-3-Elimination-G4 = Blowout-Risiko (Sweep-Abwehr-These eingegrenzt)",
-            "lesson": "WICHTIGE EINGRENZUNG zweier bestehender Thesen nach Cavs-Knicks ECF G4 25.05 (Cleveland 93:130, -37, geschwept): (1) Die 'Sweep-Abwehr-Heim-Explosion'-These (Lessons 24.04/25.04) gilt NUR fuer ein Heimteam, das 0-2 zurueckliegt und in G3 mit Fight zuhause antritt - NICHT fuer ein 0-3-Team in G4 gegen einen ueberlegenen, formstarken Sweep-Gegner (Knicks: 11 Playoff-Siege in Folge). Solche Teams explodieren nicht, sie werden weggefegt. Cavs-ML-Flier @2.13 mit -37 verloren. (2) Die 'Elimination = Defensiv-Schlacht/Unter'-These (Lesson 24.05 WCF-G4 185 Pkt) gilt ebenfalls NICHT, wenn das chancenlose Team den Top-Gegner nicht bremsen kann: Total 223 (Ueber 217.5) statt Defensiv-Schlacht - Wire-to-wire-Blowout (Q1 +12, HZ +19, Q3 +30). NEUE REGEL: Bei 0-3-G4 gegen einen dominanten Sweep-Favoriten weder Heim-ML noch Unter spielen - Blowout-Richtung des Favoriten ist das Basisszenario (Spread-Favorit + Ueber eher), Heim-Fliers nur Moonshot. Distinktion: 0-2->G3 = Fight-Spot, 0-3->G4 gegen Top-Form = Hinrichtung.",
-            "bezug_spiel_id": "2026-05-25-cle-nyk"
-        },
-        {
-            "datum": "2026-05-26",
-            "kategorie": "K.o.-Entscheidungsspiel: 'Sieg regulÃ¤re Spielzeit'-Falle bei VerlÃ¤ngerungs-Option",
-            "lesson": "NEU nach Paderborn-Wolfsburg Relegations-Rueckspiel 25.05 (regulaer 1:1, 2:1 n.V., Paderborn aufgestiegen): Der Sieg-Tipp 'Paderborn regulÃ¤re Spielzeit' @1.85 VERLOR, obwohl Paderborn aufstieg - das entscheidende Tor (Curda) fiel erst in der 100. Minute (VerlÃ¤ngerung), regulÃ¤re Zeit endete 1:1. REGEL: In Coinflip-K.o.-Spielen mit VerlÃ¤ngerungs-Option (Relegation, Pokal-Rueckspiel bei Gleichstand, Hin/Rueck-Aggregat) ist der Standard-1X2-Sieg-Tipp 90-Min-Settlement - bei ausgeglichenen Quoten (~1.85/3.40/2.05) ist die VerlÃ¤ngerungs-/Remis-Wahrscheinlichkeit in regulÃ¤rer Zeit hoch, der Sieg-Tipp verliert also auch wenn das Team am Ende weiterkommt. Wenn man auf das Weiterkommen setzen will: 'Wer kommt weiter / steigt auf'-Markt (inkl. VerlÃ¤ngerung+Elfer) waehlen, NICHT den 90-Min-Sieg. Defensiv-Maerkte (Unter 2.5: gewonnen, regulÃ¤re 2 Tore) und TorschÃ¼tzen Jederzeit (Bilbija 38.: gewonnen) sind in solchen Spielen die robusteren Tipps.",
-            "bezug_spiel_id": "2026-05-25-pad-wob"
-        },
-        {
-            "datum": "2026-05-26",
-            "kategorie": "Goldgrube-PrioritÃ¤t validiert: an dÃ¼nnem Coinflip-Tag trugen nur die Goldgrube-MÃ¤rkte",
-            "lesson": "ERFOLGS-VALIDIERUNG: Am duennen 2-Spiele-Coinflip-Tag 25.05 gewannen AUSSCHLIESSLICH die beiden Goldgrube-Markt-Tipps: Unter 2.5 Tore (13 Tipps / 69.2% / +37.2% ROI - Paderborn regulÃ¤r 1:1) und TorschÃ¼tzen Jederzeit (43 Tipps / 39.0% / +24.1% ROI - Bilbija 38.). ALLE Nicht-Goldgrube-Fliers verloren: Paderborn-Sieg-regulÃ¤r, Cavs-ML, NBA-Unter 217.5. Netto: Einzeltipps +4.26â‚¬ (komplett aus den 2 Goldgruben), Kombis -5.80â‚¬ (beide gezogen vom NBA-Game). REGEL bestÃ¤tigt: an dÃ¼nnen Slates ohne klaren Favoriten-Spot die Goldgrube-MÃ¤rkte (Unter 2.5, TorschÃ¼tzen Jederzeit, Ãœber 2.5, DC X2) als Haupt-Einzeltipps priorisieren und Sieg-Outcome-Fliers (Coinflip-1X2, NBA-ML) auf Mini-Stake/Kombi-Bein begrenzen. Die Goldgrube-Disziplin ist der ROI-Anker an chaotischen Tagen.",
-            "bezug_spiel_id": "2026-05-25-pad-wob"
-        },
-        {
-            "datum": "2026-05-26",
-            "kategorie": "Mini-Spiele-Tag-Korrelation: 1 Game in jeder Kombi = Single-Point-of-Failure",
-            "lesson": "KORRELATIONS-BEFUND (Kombi-Verluste 25.05): Beide Kombis verloren, beide am SELBEN Spiel. kombi-balance (Unter 2.5 PAD + Unter 217.5 NBA) verlor nur am NBA-Bein (Football-Unter gewann); kombi-risiko (Paderborn-Sieg + Cavs-ML) verlor u.a. am NBA-Bein. Bei nur 2 Spielen ist jedes Spiel mathematisch in JEDER Kombi -> das NBA-Game (Blowout, +37) war Single-Point-of-Failure und kippte beide Kombis simultan, obwohl Layer-1 (max 1 Bein/Spiel) eingehalten war. VERSCHÃ„RFUNG Mini-Spiele-Tag-Cap (Lessons 19./21.05): Bei <=2 in-scope-Spielen sind 2 Kombis faktisch hoch korreliert (ein Spiel-Outcome steckt in beiden). REGEL: Bei genau 2 Spielen MAXIMAL 1 Kombi spielen (das saubere Tor-Total-Doppel als Balance), keine zweite Sieg-Outcome-Kombi - die zusÃ¤tzliche Kombi addiert Korrelations-Risiko ohne echte Diversifikation. Lieber Einsatz auf die Goldgrube-Einzeltipps konzentrieren.",
-            "bezug_spiel_id": "2026-05-25-cle-nyk"
-        },
-        {
-            "datum": "2026-05-27",
-            "kategorie": "Star-Out-Tiefe-These widerlegt bei Elite-Titelverteidiger (OKC ohne Jalen Williams)",
-            "lesson": "WIDERLEGUNG der 'fehlender 2. Star = duenneres Team'-Spread-These am Beispiel WCF-G5 (26.05): Spurs +5.5 @1.91 stuetzte sich zentral darauf, dass OKCs 2. Star Jalen Williams (Hamstring, OUT/3. Spiel in Folge) die Thunder-Tiefe drueckt - tatsaechlich gewann OKC mit +13 (127:114), die Tiefe des Titelverteidigers trug das Spiel locker: SGA 32, Caruso 22 (4/8 Dreier), Jared McCain 20 im 1. Playoff-Start (18 in der 2. HZ), 14/32 Dreier (43.8%). Reiht sich direkt in Lesson 01.05 (Wolves OHNE Edwards gewannen Closeout) ein. REGEL: Ein 2.-Star-Ausfall ist KEIN belastbarer Spread-Value-Treiber, wenn (a) das betroffene Team Elite-Tiefe/Titelverteidiger-Kader hat, (b) der MVP/1. Star spielt und (c) Heimvorteil dazukommt - dann kompensiert die Bank den Ausfall. Underdog-Spread-Value aus 'Gegner-Star-Out' nur bei echten Top-heavy-Kadern (1-2-Mann-Teams) ansetzen, nicht bei tiefen Contendern. Der 6-1-ATS-Underdog-Trend (Small-Sample) wurde ebenfalls gerissen.",
-            "bezug_spiel_id": "2026-05-26-okc-sas"
-        },
-        {
-            "datum": "2026-05-27",
-            "kategorie": "WCF-Total-Ueber-Goldgrube-Bruch war Einzel-Ausreisser - Re-Kalibrierung",
-            "lesson": "MARKT-PATTERN aus voller Analyse (WCF-G5 26.05 endete 241, Ueber 216.5 GEWANN): Die am 24.05 ausgerufene 'WCF-Ueber-Goldgrube gebrochen' (G4 nur 185) war ein EINZEL-Ausreisser, kein Serien-Trend. Serie komplett: 237/235/231/185/241 - nur das eine Spiel (G4) war Unter, und das war spezifisch das Muss-Level-Heim-Spiel der zurueckliegenden Spurs (Defensiv-Schlacht zum 2-2-Ausgleich). Alle OKC-Heim-/Pivotal-Spiele liefen klar hoch (G1 237 @OKC, G2 235 @OKC, G5 241 @OKC). Der Ueber wurde wegen der 24.05-Lesson + Small-Sample-Warnung (25.05) bewusst nur WACKEL gelabelt - im Nachhinein war das zu vorsichtig (haette VALUE sein koennen). RE-KALIBRIERUNG fuer ein etwaiges G6/G7: WCF-Ueber NICHT pauschal abwerten - der Unter-Faktor greift spezifisch beim zurueckliegenden Team mit Muss-Level-Heim-Defensiv-Druck, nicht bei OKC-Heimspielen mit hohem Tempo. Goldgrube-These differenziert wieder anwenden: hohes Tempo + Heim-Favorit-Volumen = Ueber bleibt belastbar, Defensiv-Muss-Sieg des Trailers = Unter-Risiko.",
-            "bezug_spiel_id": "2026-05-26-okc-sas"
-        },
-        {
-            "datum": "2026-05-28",
-            "kategorie": "HR24-Form-Edge-Defense-Spezialist-Subfilter (Sarr-Bruch)",
-            "lesson": "BRUCH der HR24-Form-Edge-Bedingung-1 (Topscorer-Hot-Hand) als alleinige Wackel-Begruendung: Sarr (9 CL-Tore, 5 Spiele Tor-Serie) traf NICHT gegen Rayo Vallecano im Conference-Finale 27.05. (1:0 fuer Palace, Mateta einziger Schuetze). Rayo hatte beide HF-Legs 1:0 zu null gewonnen + 9 Pflichtspiele unbesiegt = harter Defense-Spezialist. NEUE SUBFILTER-REGEL: HR24-Form-Edge (Bedingung 1) reicht NICHT mehr als alleinige Wackel-Begruendung wenn der Gegner (a) seine letzten 2 K.o.-Vorrunden-Spiele zu null gewann ODER (b) eine 5+ Spiele lange Defense-Serie hat. Mind. 2 von 3 HR24-Bedingungen erforderlich: Form-Edge UND (9er-Position ODER Defense-Krise Gegner). Sarr verlor -2.75â‚¬ - prozentuale Auswirkung des Sub-Filters auf die naechsten Final/K.o.-Torschuetzen-Tipps direkt.",
-            "bezug_spiel_id": "2026-05-27-cry-ray"
-        },
-        {
-            "datum": "2026-05-28",
-            "kategorie": "Europa-Pokal-Finale Unter-2.5-Default-Hartregel (Validation)",
-            "lesson": "VALIDATION + HARTREGEL: Conference-Finale Crystal Palace 1:0 Rayo Vallecano 27.05. â€” Unter 2.5 (Goldgrube +37.2 -> +39.9% ROI nach Tag) bestaetigt zum dritten Mal die Defensiv-These in europaeischen K.o.-Endspielen (Lessons 01.05./22.05.). HZ 0:0, einziges Tor Mateta 51' via Standard-Rebound. NEUE HARTREGEL fuer alle europaeischen Pokal-Finale (Conference/Europa/CL) + nationale Pokal-Finale: Unter 2.5 als Default-Top-VALUE-Tipp setzen, ausser BEIDE Teams haben Saison-Tore/Spiel > 2.0 UND keine Top-5-Defense-Bilanz. Konkrete Action: vor jedem Pokal-Final in der Tipps-Routine zuerst Unter 2.5 reservieren, dann andere Maerkte ergaenzen â€” nicht umgekehrt. Markt-Goldgrube Unter 2.5 jetzt n=14, 71.4% HR, +39.9% ROI â€” eine der profitabelsten Maerkte des Tools.",
-            "bezug_spiel_id": "2026-05-27-cry-ray"
-        },
-        {
-            "datum": "2026-05-28",
-            "kategorie": "Klassen-Edge-Final-Tor-Verteilung-Subfilter (Open-Play vs Standard)",
-            "lesson": "PARTIELLE WIDERLEGUNG der 21.05.-These (Wings/Mids treffen statt 9er in Klassen-Edge-Finals): Mateta (9er) traf im Conference-Finale 27.05. â€” ABER via Standard-Rebound (Wharton-Distanzschuss, Batalla parierte, Mateta abgestaubt aus 6m). Das war kein offenes Wing-Play sondern reine zentrale Strafraum-Praesenz. SUBFILTER: 21.05.-These gilt nur fuer OPEN-PLAY-Tore (Flanken, Konter, positionelle Verteilung). Bei Set-Piece/Rebound-Toren ist der zentrale 9er wieder bevorzugt (statistisch >60% aller Rebound-Tore gehen an den naechsten Strafraum-Spieler = meist 9er). Implikation fuer Finale-Torschuetzen-Tipps: Wing-Topscorer als 1. Pick + 9er als 2. Pick (Standards/Rebounds) â€” beide haben in defensiven Finalen reale Tor-Wege, nicht nur einer. Sarr-WACKEL war richtig, Mateta-WACKEL haette ergaenzend gespielt werden koennen (Quote heute ~3.40).",
-            "bezug_spiel_id": "2026-05-27-cry-ray"
-        },
-        {
-            "datum": "2026-05-28",
-            "kategorie": "Mini-Spiele-Tag Goldgrube-Stake-Konzentration validiert (3/4-Bilanz)",
-            "lesson": "ERFOLGS-VALIDIERUNG der 26.05.-Mini-Spiele-Tag-Hartregel + Goldgrube-Priorisierung: Ein-Spiel-Tag (CL-Finale) endete 3/4 = 75% Trefferquote, Netto +7.45â‚¬ bei 19.25â‚¬ Einsatz (+38.7% Tag-ROI). KEINE Kombis gebaut (Layer-1-Korrelations-Schutz korrekt angewandt) â€” stattdessen Stake-Konzentration auf Goldgrube-Maerkte (Unter 2.5 VALUE 8.25â‚¬ + DC 1X WACKEL 5.50â‚¬ + Palace Sieg WACKEL 2.75â‚¬) statt verteiltes Mini-Risiko. Pattern bestaetigt: bei 1 Spiel ist Goldgrube-Konzentration mit moderaten Stakes (Gesamt-Exposure 3.5% Kasse) profitabler als Spread-Mini-Tipps. NEUE REGEL: bei dokumentierten Mini-Spiele-Tagen (1-2 Spiele) duerfen Goldgrube-Stakes hoch bei 1.0-1.5% sein (statt aufgeteilt auf 0.3% x 4 Tipps), solange Gesamt-Exposure unter 4% Kasse bleibt. Konzentration auf hoechste-Edge-Maerkte schlaegt Spread bei kleinem Slate.",
-            "bezug_spiel_id": "2026-05-27-cry-ray"
-        },
-        {
-            "datum": "2026-05-29",
-            "kategorie": "Wemby-Bounce-Back-Stamm-Volume-Star-Snap-Back-Bestaetigung",
-            "lesson": "VALIDIERUNG der Lesson 23.05. (Stamm-Volume-Star-Snap-Back-Erlaubnis) am Wemby-Spezialfall: nach Karriere-kaltem G5 (20P bei 4/15 FG, von NBA wegen Media-Boykott verwarnt) drehte Wemby in G6 SAS-Heim-Elimination auf 28P/10R/3B mit 3x 3er allein im Q1 - der Trigger 'Stamm-Volume-Star + 'quiet effort' + Muss-Sieg-Heim' lieferte erneut. Pattern fuer Wemby spezifisch jetzt 2/2 in dieser Serie (auch G3-Bounce-Back nach G2-Schwaeche). STRATEGIE: bei Stars mit Saison-Avg 25+ PPG und einem registrierten 'cold game' (<60% Saisonschnitt-Punkte / FG% <35%) als unmittelbarer Vorgaenger in Elimination/Decider-Spielen ist Snap-Back-These ein VALUE-Treiber fuer Sieg-Tipp + Player-Ueber-Punkte (mit HR16-Einschraenkung Player-Punkte ueber Risiko/Moonshot-Kombi). NICHT als SAFE, weil Varianz; aber konsistent als VALUE-Filter wertvoll. Wemby DD @ 1.55 als HR16-konformer Anker zog perfekt mit. Datenbasis: 2/2 in WCF + G3 von Round 2 / 4/5 ueber Saison Bounce-Back-Pattern.",
-            "bezug_spiel_id": "2026-05-28-okc-sas"
-        },
-        {
-            "datum": "2026-05-29",
-            "kategorie": "SAS-Heim-Muss-Sieg-Unter-Pattern WCF-Re-Kalibrierung (n=2 Validierung)",
-            "lesson": "ZWEITE VALIDIERUNG der Lesson 27.05. (WCF-Total-Ueber-Goldgrube-Re-Kalibrierung via Heim-Differenzierung): SAS-Heim-Muss-Sieg Spiele in dieser WCF-Serie sind jetzt 2/2 UNTER ihre Spiel-Linien. G4 SAS-Heim-Muss-Sieg Total 185 < 211.5 (Linie -26.5), G6 SAS-Heim-Muss-Sieg Total 209 < 218.5 (Linie -9.5). Gegenstueck OKC-Heim 3/3 UEBER (G1 237, G2 235, G5 241) - klare Heim-Asymmetrie in dieser Serie. ABLEITUNG: in Conf-Finals mit dominantem Defense-Heim-Team und Muss-Sieg-Druck-Spot ist Unter-Total nicht nur 'Pattern', sondern wiederholt belastbarer Bias gegen Spiel-Linien die noch nicht voll re-kalibriert wurden. STRATEGIE fuer G7 (in OKC, Sa 30.05): OKC-Heim Ueber-Tendenz wieder aktiviert + kein Muss-Sieg-Spot fuer SAS (sie haben auch nichts zu verlieren) -> Total Ueber 218-220 wieder als VALUE markierbar. Lesson schliesst Wende: SAS-Heim = Unter-Bias erschoepft sich am Heimserien-Ende, OKC-Heim = Ueber-Bias bleibt. Lesson 27.05. WCF-Re-Kalibrierung jetzt vollstaendig validiert.",
-            "bezug_spiel_id": "2026-05-28-okc-sas"
-        },
-        {
-            "datum": "2026-05-29",
-            "kategorie": "OKC-Bench-Tiefe-These nicht serien-stabil - Defense-Adjust-Subfilter (Re-Re-Kalibrierung 27.05.)",
-            "lesson": "RE-RE-KALIBRIERUNG der Lesson 27.05. (Star-Out-Tiefe-These bestaetigt OKC ohne JWilliams) nach G6-Bruch: G5 trug die Bench (McCain 20P im 1. Playoff-Start + Caruso 22P) und OKC gewann auswaerts 127:114. G6 brach diese Tiefe komplett ein - SGA nur 15P bei 6/18 FG (Karriere-Tief in der Serie), Q3 20-0 OKC-Schwarzphase mit 7:27 ohne Punkt. NEUE PRAEZISIERUNG: Bench-Tiefe ohne Star ist KEIN serien-stabiler Faktor, weil der Gegner zwischen Spielen Defense-Adjusts fahren kann (Spurs neutralisierten McCain/Caruso komplett in G6). SUBFILTER: Star-Out-Tiefe-These nur als VALUE-Treiber gueltig im UNMITTELBAREN Folgespiel nach dem Star-Ausfall (G3/G4 nach Verletzung) - danach hat der Gegner Tape + Coach-Adjust + ggf. Lineup-Schwerpunkt, der die Bench-Eruption neutralisiert. STRATEGIE-IMPLIKATION fuer G7 OKC-Heim: WENN JWilliams immer noch out, NICHT mehr automatisch annehmen dass McCain/Caruso wieder traeten - Spurs haben G6-Tape, werden gezielter doppeln/switchen. Falls JWilliams zurueck (was wahrscheinlicher wird, je weiter Serie geht): zusaetzlicher Boost fuer OKC. Lesson 27.05. jetzt zeitlich begrenzt: nur G+1 nach Star-Ausfall, danach erloschen.",
-            "bezug_spiel_id": "2026-05-28-okc-sas"
-        },
-        {
-            "datum": "2026-05-29",
-            "kategorie": "Mini-Spiele-Tag-Konzentrations-Strategie validiert + NBA-DD-Anker-Bestaetigung",
-            "lesson": "EMPIRISCHE VALIDIERUNG der Lesson 28.05. (Mini-Spiele-Tag Goldgrube-Stake-Konzentration) plus NBA-Double-Double-Markt als robuster HR16-konformer Anker: Heutiger 1-Spiel-Tag (SAS-OKC G6 nur) mit Stake-Konzentration 1.5% auf hoechste-Edge SAS-ML + 2x 0.5% auf Unter/DD lieferte 3/3 Einzeltipps gewonnen + 1/1 spiele[].tipps[]-Block (Wemby O25.5) = 4/4 Tipps. Tages-ROI: 9.13â‚¬/13.75â‚¬ = +66.4% bei nur 2.5% Kasse-Exposure - perfekter Mini-Spiele-Tag-Verlauf. KERNVALIDIERUNG: (a) NBA-DD-Markt (HR16-konform, nicht im Bluter) @ 1.55 fuer Wemby = robuster Anker bei Star-Centern mit Saison-Avg ueber 25P + 10R - Trefferquote intuitiv >70% bei vollen Minuten, traegt sich mathematisch. (b) Stake-Konzentration auf Top-Edge (1.5% statt 3x 0.5% gleichverteilt) war richtig - SAS-ML brachte 5.12â‚¬ Netto-Loewenanteil (von 9.13â‚¬ Gesamt-Netto). (c) Single-Game-Korrelations-Risiko (alle Beine im selben Spiel) hier durch konservatives Gesamt-Exposure 3% Kasse abgesichert - mit Vorausschau-Cap reden vs. Mini-Tag-Risk-Profil neu kalibrieren? STRATEGIE fuer NBA-G7-Tag (30.05): wieder Mini-Spiele-Tag-Profil (CL-Finale + NBA-G7 = 2-Spiele-Tag), Single-Game-Cap 3% nicht ueberschreiten + NBA-DD-Markt als 'NBA-Anker-Goldgrube-Kandidat' aktiv suchen (sample-size n wachsen lassen).",
-            "bezug_spiel_id": "2026-05-28-okc-sas"
-        },
-        {
-            "datum": "2026-05-30",
-            "kategorie": "Pokal-Finale-1X2-Verlaengerungs-Hedge-Hartregel (CL-Finale-Validation)",
-            "lesson": "EMPIRISCHE VALIDIERUNG der Lesson 21.05. (Konsens-Best-Bet-Cluster-Trap) plus NEUE HARTREGEL: Im CL-Finale 30.05. (PSG-Arsenal 1:1 nach 90, 1:1 nach 120, PSG 4:3 i.E.) waere PSG-Sieg-Single @ 1.95 (impliziert 51%) VERLOREN gewesen - DC 1X @ 1.27 GEWANN als Remis-Treffer. Pattern: bet365 wertet 1X2/DC-Maerkte ausschliesslich nach 90 Min - Verlaengerung/Elfmeterschiessen sind 1X2-irrelevant. Bei den letzten 5 europ. Pokal-Finals in 2026 sind 3 in Verlaengerung gegangen (CL-Finale 1:1, Conference-Finale Palace 1:0 nach 90 keine ET, Coppa-Finale Lazio 1:1 nach 90 dann Inter via ET 2:1, EL-Finale Atletico 0:0 nach 90 dann ManUtd 2:0 ET). 60% ET-Quote bei Pokal-Finals zwischen quotaennlichen Klassen-Klubs. NEUE HARTREGEL fuer Top-Klub-Finals (CL/EL/Conference/Coppa) mit Sieg-Quote 1.70-2.20 fuer den Favoriten: STATT direkter Favoriten-Sieg-Tipp IMMER Doppelte-Chance-Variante (1X bzw X2) waehlen. Implied-Drop von ~10-15% wird ueberkompensiert durch ET-Wahrscheinlichkeit, die bei Klassen-Klub-Finals ueber 25% liegt. Praktisch: bei CL-Finale-Quoten 'Favorit 1.95 / Remis 3.40' impliziert DC-Favorit-oder-Remis @ ~1.27 = 78.7% - real schaetzbar 82-85%. Subregel: GREIFT NICHT in Pokal-Finals mit Klassen-Bruch (Top-Klub vs Liga-2/3-Klub) - dort Direkter-Sieg @ 1.20-1.40 zuverlaessig.",
-            "bezug_spiel_id": "2026-05-30-psg-ars"
-        },
-        {
-            "datum": "2026-05-30",
-            "kategorie": "Wemby-Rebound-Volatilitaet-G7-Auswaerts-DD-Subfilter",
-            "lesson": "DD-VERFEINERUNG nach Wemby-DD-Verlust in G7 OKC (22P + 7R = nur Punkte zweistellig, Saison-Avg 12.3 Reb verfehlt). Pattern: G7-Auswaerts-Decider erzwingt Pace-Shift Richtung Floor-Spacing + 3er-Show (Wemby selbst hatte 3x 3er!) - das reduziert Wemby's Rebound-Volume strukturell. Plus Champagnie + Castle als 2nd/3rd-Rebounders nahmen Reb-Anteile weg (Champagnie 20P mit 6 Triples - Spurs spielten Small Ball). Lesson 23.04. (DD-Realitaetscheck: zweite Stat-Verteilung pruefen, nicht nur Schnitt) ist hier zum 4. Mal empirisch eingetreten. NEUE SUBREGEL fuer Wemby-DD-Tipps: in G7-Auswaerts-Deciders ist Wemby DD max WACKEL (nicht VALUE), selbst bei Saison-Avg ~12 Reb. Reb-Volatilitaet steigt unter Decider-Pace-Druck signifikant (Wemby's WCF-Reb-Verteilung G1-G7: 11/10/12/15/10/10/7 - Median 10, aber 25%-Quantil bei ~9, 1 von 7 Spielen unter 8). Wenn Wemby zusaetzlich in vorigem Spiel schon Karriere-Highlight-DD geliefert hat (G6 28+10), zusaetzlicher Skeptizismus - Doppel-Performance in 24h ist physisch und statistisch unrealistisch. Praktisch: NBA-DD-Anker (Lesson 29.05.) bleibt valide als VALUE in Regulaer-Spielen / Eroeffnungs-Spielen / Heim-Spielen - aber NICHT in G7-Auswaerts-Deciders.",
-            "bezug_spiel_id": "2026-05-30-okc-sas"
-        },
-        {
-            "datum": "2026-05-30",
-            "kategorie": "G7-Heim-Crash-Defending-Champion-Star-OUT-These-validiert-n2",
-            "lesson": "VERSCHAERFUNG + SERIELLE VALIDIERUNG der Lesson 27.05. (Star-Out-Tiefe-These widerlegt bei Elite-Titelverteidiger): OKC verlor G7-Heim 103:111 trotz Defending-Champion-Status + Heim-Vorteil + 78%-historische-G7-Heim-Bilanz - zum ZWEITEN MAL in 48 Std hat Defending Champion ohne JWill verloren (G6 91:118 Auswaerts, G7 103:111 Heim). Pattern jetzt seriell ueber 2 aufeinanderfolgende Spiele bestaetigt: OKC-Bench-Tiefe (Caruso/McCain/Holmgren) konnte das Williams-Loch NICHT serien-stabil decken trotz Heim-Vorteil-Boost. SGA-Solo (35P/9A in G7) reichte nicht gegen Wemby-WCF-MVP-Performance + Champagnie-Bench-Eruption (20P/6 Triples). NEUE PRAEZISIERUNG der 27.05.-Lesson: bei Defending Champion mit Schluessel-2nd-Star OUT in Decider-Serien (G6/G7) ist '78%-Heim-G7-Bilanz' NICHT mehr anwendbar - reduziert sich empirisch auf ~50-55%. Sieg-Tipps auf Star-OUT-Defending-Champion in Decider-Heim max WACKEL, niemals SAFE/VALUE. Komplementaer-Lesson 02.05. (NBA G6/G7-Druck-Spiele Decider-Varianz-pur) jetzt seriell validiert - 2 Defending-Champion-Heim-Verluste in 48 Std in selber Serie ist statistisch nicht trivial. Lesson 27.05. von 'unmittelbarem G+1 Star-Ausfall' (Lesson 29.05. Begrenzung) WIDERLEGT - Star-Out-Tiefe-These greift ueber gesamte Serie wenn Bench keine Folge-Eruption liefert. Re-Re-Re-Kalibrierung der 29.05.-Begrenzung noetig: Bench-Tiefe haengt zusaetzlich von gegnerischer Defense-Adjust-Kapazitaet ab - die Spurs (Castle/Wemby-Defense) lieferten serien-stabil.",
-            "bezug_spiel_id": "2026-05-30-okc-sas"
-        },
-        {
-            "datum": "2026-05-30",
-            "kategorie": "Einwechslungs-Boost-Final-ET-Phase-Filter (Auswertung-Verfeinerung)",
-            "lesson": "AUSWERTUNGS-PATTERN aus volle_analyse-Quelle: Im CL-Finale 30.05. wurden in der 82.-83. Min beide Wing-Stuermer ausgewechselt - PSG: Kvara raus, Barcola rein; Arsenal: Saka raus, Madueke rein. Klassische Einwechslungs-Boost-Trigger fuer Tipps 'Kvara trifft' und 'Saka trifft' (CLAUDE.md-Regel: Tor des direkten Ersatzspielers zaehlt fuer Tipp-Spieler). ABER: KEINE der beiden Ersatzspieler traf - Barcola's Last-Minute-Schuss in 90+ ueber das Tor (Game-Winner-Versuch verfehlt), Madueke ohne Torchance in den verbleibenden 8 Min + 30 Min ET. Pattern: bei knappen Top-Klub-Finals (CL/EL/Conference) mit hoher ET-Wahrscheinlichkeit fehlt am Spielende oft die offene Phase, in der Boost-Tore ueblich sind - stattdessen taktische Lockdown-Spielweise (kein Risiko, Penalty-Shootout-Vorbereitung). NEUE SUBREGEL Einwechslungs-Boost-Filter: bei Top-Klub-Finals (CL/EL/Conference) zwischen quotaennlichen Klassen-Klubs (Sieg-Quoten beide unter 2.50) ist Einwechslungs-Boost-Bonus auf Torschuetzen-Tipps NICHT einzukalkulieren - Boost-Mechanik ist mathematisch wertlos in defensiv-orientierten ET-Phasen. Boost bleibt wertvoll in: (a) Klassen-Bruch-Finals (Top vs Mid), (b) regulaeren Liga-Spielen, (c) Pokal-Spielen mit Klassen-Asymmetrie. Praktisch: Kvara-Tipp @ 2.75 + Saka-Tipp @ 3.80 verloren -8.25â‚¬ + -2.75â‚¬ = -11.00â‚¬ - haette mit ET-Filter nicht in einzeltipps[] gehoert. Lesson 26.04. (Einwechslungs-Boost als VALUE-Filter) wird damit ergaenzt um ET-Phase-Filter fuer Top-Klub-Finals.",
-            "bezug_spiel_id": "2026-05-30-psg-ars"
-        },
-        {
-            "datum": "2026-06-03",
-            "kategorie": "NBA-Finals-G1-WCF-G7-Hangover-These-validiert-VALUE-Auswaerts-Underdog",
-            "lesson": "EMPIRISCHE BESTAETIGUNG der Spurs-G7-Hangover-These (in Tipps-Begruendung 03.06 als 'Pro vs Gegen' Argument formuliert): Spurs verloren als kleinster Heim-Favorit (-4.5, ML 1.53) ihr Finals-G1 mit 95:105 - genau das ESPN-Bontemps-'they slayed their dragon'-Pattern. Wembanyama 6/21 FG (28.6%) klar unter Saisonschnitt, Spurs Hz2 nur 40 Pkt vs 55 Hz1. Knicks 12. Auswaerts-Sieg in Folge in Playoffs + 6-Tage-Rest-Vorteil materialisierte sich. HARTREGEL fuer naechste WCF/ECF-G7-Sieger-Finals/Conf-Final-G1-Konstellationen: wenn (a) Heim-Team kommt direkt aus eigenem 7-Spiele-Conf-Final + (b) Auswaerts-Team hat >=2 Tage Rest-Vorteil + (c) Auswaerts-Defense ist Playoff-Top-3 = Auswaerts-DC/Sieg als VALUE (nicht WACKEL) spielbar. Pinnacle-Verfuegbarkeit voraussetzt, sonst weiter WACKEL. Bisher n=1 - braucht Validierungs-Faelle in 2027/2028er Conf-Finals. Trotzdem heute klare Sieg-Outcome-Asymmetrie zur Bet365-Linie.",
-            "bezug_spiel_id": "2026-06-04-sas-nyk"
-        },
-        {
-            "datum": "2026-06-03",
-            "kategorie": "NBA-Finals-Defense-System-Edge-Star-Bench-Comeback-Korridor-Subfilter",
-            "lesson": "VOLLE-ANALYSE-PATTERN aus 03.06 NBA Finals G1: Knicks-Comeback (14-Pkt-Rueckstand in Q3 -> 11-4-Run zur Tied-Q3 -> 11-0-Closing-Q4-Run) startete genau in Phase 'Wembanyama auf Bank' (Q3-Mitte). Knicks-#1-Playoff-Defense (Towns body-up + Bridges/Anunoby Wing-Help) komprimierte Wemby zu 6/21 FG, aber das entscheidende Coaching-Detail: Spurs gaben den Hot-Spurs-Tempo-Vorsprung exakt waehrend Wemby-Bench-Phase ab. SUBFILTER fuer NBA-Star-Heim-ML-Tipps: wenn Star sehr hohe Playoff-Minuten-Belastung kumulativ hat (Wemby >=42 Min pro Spiel in 14 Playoff-Spielen), MUSS sein Coach ihn in Q3 5-7 Min Bench geben - genau in dieser Bench-Phase erhoehte Comeback-Wahrscheinlichkeit der Gegner-Defense. Implikation fuer Unter-Totals: noch staerker untermauert (Unter 218.5 ging mit 18.5-Pkt-Puffer durch). Markt-Goldgrube-Kandidat NBA-Unter-Total bei WCF/ECF-Sieger-Bench-Druck-Konstellationen.",
-            "bezug_spiel_id": "2026-06-04-sas-nyk"
-        },
-        {
-            "datum": "2026-06-03",
-            "kategorie": "Mini-Spiele-Tag-Konzentrations-Strategie-validiert-n2-NBA-Pseudo-Hedge",
-            "lesson": "VALIDIERUNGSFALL #2 fuer Mini-Spiele-Tag-Konzentrations-Strategie (nach Lessons 28./29.05.): 03.06 Single-Event-Tag NBA Finals G1 - 2 unkorrelierte Einzeltipps (Spurs ML + Unter 218.5) je 0.5% Stake. Tipp 1 (Spurs Sieg 1.53) verloren - Knicks-Sieg. Tipp 2 (Unter 218.5 1.91) gewonnen - 200 Total mit 18.5-Pkt-Puffer. Bilanz: Einsatz 5.5 EUR, Ertrag (2.75 * 1.91 = 5.2525), Netto -0.2475 EUR = -4.5% Tages-ROI. Konkret: Pseudo-Hedge zwischen Sieg-These und Defensiv-Schlachten-These hat fast neutralen Tag erzeugt statt -100% bei Single-Tipp-All-In. Lesson 26.05 Mini-Spiele-Tag-Korrelation-1-Game-Single-Point-of-Failure - heute bestaetigt: Einzeltipp-Spread auf 2 unkorrelierte Maerkte = -4.5% statt -100% bei nur 1 Tipp + Schalg. Diese Strategie soll bei kuenftigen Single-Event-Tagen weiter angewendet werden, max 0.5%-1% pro Markt-entkoppeltem Tipp. ROI-Tracking-Hinweis: 2/4 dokumentierte Mini-Tage haben jetzt pseudo-Hedge-Pattern (28./29.05 + 03.06), bisher Bilanz -4.5% bis +5% Range, klar besser als Single-Tipp-Roulette.",
-            "bezug_spiel_id": "2026-06-04-sas-nyk"
-        },
-        {
-            "datum": "2026-06-06",
-            "kategorie": "NBA-Finals-G2-Heim-Bounce-Back-77-These-Re-Kalibrierung-Finals-Slot",
-            "lesson": "RE-KALIBRIERUNG der Heim-Bounce-Back-77%-G2-These (Sportico-Desperation-Datensatz, NBA-Playoffs Round 1-3 + Finals 2021/22 = 10-1 mit 6 zweistelligen Wins): nach NBA-Finals 2026 n=2 (G1 NYK +105:95 Auswaerts + G2 NYK +105:104 Auswaerts) ist Spurs trotz Heim + MUSS-Sieg + Wemby-Bounce-Back-Druck zum 0-2-Loch gefahren. Sportico-Bias erkannt: Round-1-3-G2-Heim-Bounces sind meist Series-Anker-Spiele (Underdog will Heimvorteil monetarisieren); NBA-Finals-G2 hat dagegen 75%-Win-Rate-Statistik bei 1-0-Auswaerts (klare Vorteile fuer Auswaerts-Konsolidierer). Implikation: NBA-Finals-G2-Heim-Sieg-Tipps duerfen nicht als Statistik-Edge-Bonus ueber Markt-Linie aufgenommen werden, wenn Markt scharf gepricet ist (1.44-Spurs-ML war ohne VALUE-Edge - Routine hatte korrekt WACKEL bewahrt). Lesson 03.06 G7-Hangover-These bleibt validiert (G1), aber Heim-Bounce-These getrennt davon FALSIFIZIERT fuer Finals-Slot. Kasse-Implikation: -2.75 EUR statt erwartbarer +1.21 EUR.",
-            "bezug_spiel_id": "2026-06-06-sas-nyk"
-        },
-        {
-            "datum": "2026-06-06",
-            "kategorie": "NBA-Finals-Drehungs-Cluster-Doppel-Heimfuehrung-zweistellig-verloren-volle-Analyse",
-            "lesson": "VOLLE-ANALYSE-PATTERN aus NBA-Finals 2026 G1+G2: doppelter Drehungs-Cluster bei beiden Spielen. G1: SAS hatte 14-Pkt-Heim-Fuehrung in Q3 -> Knicks Closing-Run Q4 11-0 zum 105:95-Auswaertssieg. G2: NYK hatte 14-Pkt-Fuehrung Mitte Q4 -> Spurs 14-0-Run zum kurzen 104:102-Wemby-And-1-Lead (57s vor Ende) -> Brunson-Go-Ahead-FT 9.5s + Wemby-Final-Jumper-Miss = 105:104-NYK-Sieg. ZUSAETZLICH G2: Spurs +12 H1 -> Knicks +14 Q4 = doppelte Drehung. PATTERN: NBA-Finals 2026 zeigt extreme intra-Spiel-Drehungs-Volatilitaet - Heim-Team-Fuehrungen zweistellig in beiden G1+G2 zusammengebrochen. Implikation: bei NBA-Finals-Sieg-Tipps mit Quote <= 1.55 (scharf gepricet) ist die intra-Game-Drehungs-Wahrscheinlichkeit empirisch unterzeichnet - WACKEL bleibt korrekt, KEIN VALUE-Upgrade. Stattdessen: Spread-Markt (Knicks +5.5 G2 ware spielbar gewesen, Spurs -5.5 verloren) oder Total-Markt (Decider-Defensiv-These stabil) bevorzugen.",
-            "bezug_spiel_id": "2026-06-06-sas-nyk"
-        },
-        {
-            "datum": "2026-06-06",
-            "kategorie": "NBA-Star-Bounce-Back-These-vs-Team-Sieg-Asymmetrie-Volume-Star-isoliert",
-            "lesson": "EMPIRISCHE WIDERLEGUNG der NBA-Star-Bounce-Back-These als Team-Sieg-Bezug: Wemby G2 29 Pkt / 9 Reb (22 davon in 2.HZ, 3-fach-Play Q4) = klares Mean-Reversion-Signal bestaetigt nach G1-6/21-FG-Tief. ABER: Spurs verloren 104:105, Wemby-Final-Jumper verfehlt. Star-Bounce wirkte personlich (statistisch nachweisbar), aber NICHT auf Team-Sieg-Markt. Pattern aehnlich zu 30.04. Wolves-Sieg trotz Edwards-OUT (Star-Out != Team-Loss): die Bounce-These ist VOLUME-spezifisch (Star feuert eigene Pkt-Zahl nach oben), nicht Sieg-spezifisch. Lesson-Implikation: Wenn Star-Bounce-Back-These als Pro-Argument fuer Team-Sieg-Tipp im Dossier gesetzt wird (wie 06.05. Routine bei Spurs-Sieg mit Wemby-Bounce-Druck), GEWICHTUNG max 0.5-Stern (statt 1.0-Stern). Player-Punkte-Markt bleibt durch Boykott geschlossen (Lesson 26.04). Stattdessen aktiv: Star-Bounce-Back-Signal als VALIDATOR fuer Total-OVER-Linien (Volume-Star feuert Total nach oben - heute aber NICHT eingetreten: Total 209 unter 214.5).",
-            "bezug_spiel_id": "2026-06-06-sas-nyk"
-        },
-        {
-            "datum": "2026-06-06",
-            "kategorie": "Mini-Spiele-Tag-Pseudo-Hedge-Pattern-n3-Validierung-NBA-Decider-Unter-Anker",
-            "lesson": "DRITTE EMPIRIE-VALIDATION fuer Mini-Spiele-Tag-Pseudo-Hedge-Strategie (nach Lessons 03.06 n2 + 28./29.05.): heute G2 NBA Finals n3-Tag mit 2 unkorrelierten WACKEL-Tipps (Spurs Sieg @ 1.44 + Unter 214.5 @ 1.91) ergab 1/2-Treffer = -0.09 EUR Tag (verlust 2.75 EUR Spurs Sieg + Gewinn 2.50 EUR Unter 214.5 = Netto -0.09 EUR / ROI Tag -4.5%) statt All-In-Single-Tipp-Schlag-Risiko (-5.50 EUR Voll-Schlag). Pattern bestaetigt: Pseudo-Hedge funktioniert auch bei 50%-Hitrate-Niveau, da Verluste durch Pendant gedaempft werden. SUBPATTERN: Unter-Total-Markt in NBA-Finals-Decider-Druck-Spielen = stabilster Anker - alle 3 bisherigen Finals-G1/G2-Tipps (Lesson 03.06 + heute) zeigen Decider-Defensiv-Cluster < Markt-Linie. Implikation fuer NBA-Finals-G3 (Mo 08.06 02:30 Berlin SAS @ NYK MSG): Mini-Spiele-Tag-Pseudo-Hedge weiter anwenden, mit Unter-Total als Anker-Tipp + 2. WACKEL-Tipp je nach Markt-Konstellation. Knicks-Heimserie-Drehungs-Pattern aus G1+G2 als Pro-Argument fuer Spurs-Auswaerts-Spread im Hinterkopf behalten.",
-            "bezug_spiel_id": "2026-06-06-sas-nyk"
-        },
-        {
-            "datum": "2026-06-07",
-            "kategorie": "Einwechslungs-Boost-Doppel-Hit WM-Test-Tag (PFLICHT-Anwendung 8h)",
-            "lesson": "WM-Test-Friendly 06.06.: 2 von 4 Torschuetzen-Tipps (Ronaldo, Lukaku) gewonnen NUR via Einwechslungs-Boost-Mechanik - beide Tipp-Spieler in HZ/65. Min direkt ausgewechselt, direkte Backups (Guedes, Lukebakio) trafen in 57. bzw 85. Min. Pattern: WM-Test-Phase = systematische HZ-Schon-Wechsel der Stamm-9er + Top-Backups bekommen 25-45 Min Volume. Bei naechster WM-Friendly-Routine: 1 Top-Stuermer-Tipp aktiv suchen wo Volume-Backup auf Bank zementiert sitzt (Brasilien Endrick, Belgien Lukebakio, Portugal Guedes - aktive WM-Test-Boost-Liste fuehren).",
-            "bezug_spiel_id": "2026-06-06-por-chi"
-        },
-        {
-            "datum": "2026-06-07",
-            "kategorie": "Boost-Massen-HZ-Sub-Falle (CLAUDE.md-Hartregel-Praezision)",
-            "lesson": "Vinicius-Falle 06.06.: ez-12 verloren obwohl Endrick HZ-Sub-Tor traf. Grund: Vinicius wurde DIREKT durch Luiz Henrique ersetzt (1:1-Sub), Endrick war Igor-Thiagos-Ersatz (separater 1:1-Sub) - bei Brasilien-Ancelotti-8-Spieler-HZ-Massen-Wechsel verschiebt sich Position-Aequivalenz, NICHT die direkte Boost-Anwendbarkeit. Lesson: vor Auswertung MUSS pro Sub-Slot exakte 1:1-Ersatz-Zuordnung verifiziert werden (welcher Backup ersetzt welchen Starter direkt). WICHTIG fuer Tipps-Generation: bei Teams mit angekuendigten Massen-HZ-Wechseln (Brasilien/USA-Stil) ist Boost-Hedge SCHWIERIGER als bei 1-2 gezielten Wechseln (Portugal/Belgien-Stil).",
-            "bezug_spiel_id": "2026-06-06-bra-egy"
-        },
-        {
-            "datum": "2026-06-07",
-            "kategorie": "Markt-Pattern aus volle_analyse: WM-Test-Tag-Ueber-2.5-Default-These (4/5 - 8g)",
-            "lesson": "WM-Test-Sa 06.06.: 4 von 5 Friendlies erreichten Ueber 2.5 Tore (Por 2:1, Bel 5:0, USA-Ger 1:2, Bra 2:1 - nur Eng-NZL 1:0 verloren). Lesson volle_analyse-Quelle 8g: WM-Test-Tag-Default-Markt-Goldgrube Ueber 2.5 bestaetigt mit 80% HR an n=5 Sample. Edge-Filter aus dieser Lesson: Tuchel-Stil-Coach mit angekuendigten Massen-HZ-Wechseln in einseitigen Spielen (England vs FIFA-#93) waren der einzige Aussreisser - wenn Generalprobe-Coach plant 'Achse zementieren statt Tor-Festival', Ueber-2.5 boykottieren. Sonst Default-Anker fuer naechstes WM-Friendly: 1 Ueber-2.5-Bein pro Spiel mit klassen-edge >25 FIFA-Plaetze + offensiver Coach-Profil.",
-            "bezug_spiel_id": "2026-06-06-eng-nzl"
-        },
-        {
-            "datum": "2026-06-07",
-            "kategorie": "Klassen-Edge realisiert in Sieg, NICHT in Tor-Anzahl bei B-Elf-2.HZ-Schon",
-            "lesson": "Tuchel-11-HZ-Wechsel-Falle 06.06.: ez-1 SAFE Ueber 2.5 verloren bei 89-Plaetze-FIFA-Diff (Eng #4 vs NZL #93). Klassen-Edge realisiert in 1:0-Sieg + Kane-45+1-Tor, aber 2.HZ komplette B-Elf scorete 0 weiter trotz NZL-FIFA-#93-Defense. Lesson: SAFE-Label Ueber 2.5 bei extremen Klassen-Diff + angekuendigter Stamm-Schon-Strategie ist FALSCH-Sicher - Markt-Goldgrube-Status (+30.2% ROI) ist nur dann SAFE-tauglich wenn beide Mannschaften Stamm-Elf 90 Min spielen. Reality-Check Stand 06.06.: SAFE-Kategorie 68.7% HR / +5.2% ROI - bewahrt Hartstand, aber nur knapp. KEIN SAFE-Ueber-2.5 mehr bei 'Coach-kuendigt-Massen-Wechsel-an'-Spielen. WM-Auftaktwoche 14.-21.06 mit Erwartungs-Diff-Spielen besonders beachten.",
-            "bezug_spiel_id": "2026-06-06-eng-nzl"
-        },
-        {
-            "datum": "2026-06-08",
-            "kategorie": "Roster-Verifikations-Joker-Falle (Plata WM-Test) - Pflicht-Profil-Bruch Spieler-Tipps",
-            "lesson": "ZWEITER WIEDERHOLUNGS-FALL nach Plata 07.06.: Roster-Verifikation-Lesson 25.04. wurde in lessons_angewandt[] aufgefuehrt - aber Plata-Spielzeit-Erwartung war fundamental falsch. Plata kam NICHT in Startelf von Beccacece (Beccacece schonte Pacho/M.Caicedo/Hincapie + setzte Backup-Konstellation Galindez/F.Torres/J.Alcivar/J.Porozo/Medina + J.Caicedo statt Plata vorne). Plata kam erst als JOKER fuer Jeremy Arevalo in 2. HZ (Min n/a). Boost-Mechanik konnte nicht greifen (Plata muesste raus + Ersatz traf - aber Plata war SELBST Ersatz). Tipp ez-3 @2.80 verloren (Plata kein Tor, J.Caicedo + Angulo + Estupinan trafen). VERSCHAERFUNG: Pre-Match-Recherche-Pflicht erweitern um 'Vorhersagbare Joker-Status': bei WM-Tests/Friendlies vor Turnieren - Top-Coach schont Stamm-Achse fuer Auftakt-Spiel-Frische. Plata + Pacho + M.Caicedo + Hincapie ALLE bei Ecuador zur Schonung Ersatzbank - waere mit Search 'Ecuador starting XI vs Guatemala' eindeutig erkennbar gewesen. HARTREGEL: Bei pre-Turnier-Friendlies (T-1 bis T-3 vor WM-/EM-Start) Torschuetzen-Tipps auf Top-Achse-Spieler NUR setzen wenn Aufstellung 90 Min vor Anstoss eindeutig bestaetigt. Bei Unsicherheit: Skip oder Wackel mit reduziertem Stake. Diese Lesson hat hoechste Prioritaet â€” Roster-Verifikations-Lesson 25.04. ist bei Friendlies in pre-Turnier-Phase strenger anzuwenden als in Liga-Saison.",
-            "bezug_spiel_id": "2026-06-07-ecu-gua"
-        },
-        {
-            "datum": "2026-06-08",
-            "kategorie": "WM-Test-Ueber25-Goldgrube erste Niederlage (Final-Test-Defensiv-Subfilter)",
-            "lesson": "GOLDGRUBE-BRUCH: Liga-Goldgrube 'WM-Test' vorher 85.7% HR / +36.5% ROI (n=14) - MAR-NOR 07.06. erste Niederlage. Marokko 1:0 HZ â†’ 1:1 Endstand, Total nur 2 Tore (unter 2.5). Pattern-Quelle aus volle_analyse[]: Marokko-Coach Ouahbi tauschte 7 Spieler in 64. Min komplett aus (Hakimi, Brahim Diaz, Saibari, Diop, Riad, Ounahi, El Aynaoui - Komplette Top-Achse raus), Norwegen-Coach Solbakken tauschte simultan 7 Spieler im Cooling-Break (Haaland, Berge, Ajer, Sorloth, Aursnes - inkl Haaland 72. raus). Resultat: Tor-Tempo schlagartig gebremst, kein 3. Tor mehr nach 75.'-Odegaard-Ausgleich. PRAEZISIERUNG WM-Test-Goldgrube: Im Final-Test (T-1 vor WM-Start) ist Schon-Substitutionen-Druck so hoch dass Tor-Anzahl niedriger ausfaellt als 'normale' WM-Tests (4-7 Tage vor Start). SUBFILTER: WM-Test innerhalb der letzten 7 Tage vor Turnier-Start mit Mass-Substitutions-Wahrscheinlichkeit (Stamm-Achse-Schon-Druck) Ueber 2.5 nicht mehr SAFE, max VALUE. Goldgrube-Pattern bleibt fuer T-14 bis T-7-Phase aktiv. Aktuell-Bilanz nach Bruch: 6/8 = 75% HR / +24.8% ROI - immer noch Goldgrube, aber nicht mehr 85.7%.",
-            "bezug_spiel_id": "2026-06-07-mar-nor"
-        },
-        {
-            "datum": "2026-06-08",
-            "kategorie": "Friendly-Torschuetzen-Mass-Substitution-Boost-Falle (Validierung n=3)",
-            "lesson": "EMPIRISCHE EVIDENZ: 3 Torschuetzen-Tipps in WM-Tests 07.06. ALLE verloren - alle 3 mit Boost-Mechanik-Hedge konzipiert, alle 3 ohne Boost-Ausloesung. (1) Musa (Kroatien Heim-9er) - Pasalic kam fuer Modric (Mittelfeld-Wechsel), nicht fuer Musa. Pasalic-Tor 90+3' zaehlt NICHT fuer Musa-Tipp. (2) Plata (Ecuador) - kam selbst als Joker, kein Boost moeglich (Roster-Falle, siehe Lesson 08.06. Plata). (3) Haaland (Norwegen) - 72. Min ausgewechselt fuer Strand Larsen. Strand Larsen kein Tor (Odegaard traf 75. als Senior, nicht Haalands Ersatz). Boost-Mechanik greift NICHT. PATTERN-SYNTHESE: In WM-Tests/Friendlies tauschen Coaches Mass-Substitutionen aus (7+ Spieler simultan) - die 1:1-Mapping zwischen Tipp-Spieler-X und Ersatz-Y wird unklar/verteilt. Ersatz-Volume-9er (Strand Larsen, Bobb, Pasalic) treffen oft, aber selten der DIREKTE Ersatz des Tipp-Spielers. HARTREGEL: In WM-Tests/Friendlies mit erwarteten Mass-Substitutionen (n>=5 Wechsel pro Team) Boost-Mechanik-Hedge in Begruendung NICHT mehr nutzbar (faire_quote-Aufschlag fuer Boost-Sicherung entfaellt). Torschuetzen-Tipps in dieser Konstellation max VALUE mit reduziertem Stake (1.0% statt 1.5%), niemals SAFE-Anker.",
-            "bezug_spiel_id": "2026-06-07-mar-nor"
-        },
-        {
-            "datum": "2026-06-08",
-            "kategorie": "Klassen-Edge-Sieg-Tipp-Goldgrube n=3 Validierung (Lesson 06.06. bestaetigt)",
-            "lesson": "DRITTE VALIDIERUNG: Lesson 06.06. 'Klassen-Edge realisiert sich als Sieg statt Tor-Anzahl' wurde heute n=3 weiter bestaetigt. Drei Klassen-Edge-Sieg-Tipps gesetzt - alle 3 GEWONNEN: (1) Kroatien Sieg @1.36 (FIFA10 vs FIFA44) â†’ 2:1 knapper Spaet-Sieg via Pasalic-Joker 90+3. (2) Ecuador Sieg @1.30 (FIFA23 vs FIFA105) â†’ 3:0 souveraen sogar OHNE Stamm-Achse Pacho/M.Caicedo/Hincapie (alle Bank). (3) Italien-U22 DC X2 @1.55 (Klassen-Edge vs Griechen-Form-Krise) â†’ 0:1 Sieg via Esposito 18'. PARALLEL: BTTS MAR-NOR @1.68 gewann (1:1), Unter 2.5 GRE-ITA @1.75 gewann (0:1 = 1 Tor), Unter 3.5 ECU-GUA @1.40 gewann (3:0). NEGATIV-PATTERN: Tor-Anzahl-Tipps (Ueber 2.5 MAR-NOR, Torschuetzen) verloren - genau wie Lesson 06.06. erwartet. ZUSAMMEN-STRATEGIE BESTAETIGT: In pre-Turnier-Friendlies mit Klassen-Edge ist Sieg-Tipp signifikant zuverlaessiger als Tor-Markt. Sieg-VALUE-Bilanz WM-Tests jetzt n=8 / 8/8 = 100% / +66% ROI seit Lesson-Anwendung. Lesson erhaelt 'STRATEGISCHES PRIMAERPATTERN'-Status, taeglich Pflicht in Tipps-Routine.",
-            "bezug_spiel_id": "2026-06-07-cro-svn"
-        },
-        {
-            "datum": "2026-06-09",
-            "kategorie": "NBA-Decider-Defensiv-These G3-Bruch (Lesson 02.05. Re-Kalibrierung Finals-Phase)",
-            "lesson": "EMPIRISCHE WIDERLEGUNG der Lesson 02.05. NBA-Decider/Finals-Defensiv-These im Finals-G3 (08.06.): Total 226 (NYK 111, SAS 115) UEBERschritt Linie 216.5 um 9.5 Pkt. Vorher 2/2 HIT in dieser Finals-Serie (G1: 200<218.5 / G2: 209<214.5), jetzt 2/3. Quelle aus volle_analyse[]: HZ-Stand 64:57 (121 nach 2 Vierteln auf 226-Pace), Spurs Q1 33-22 + Q3+Q4 58-47 - Tempo eskalierte in 2. Hz statt zu sinken. Pattern: bei G3+ einer Finals-Serie mit Underdog-Backs-against-the-Wall + Heim-Closeout-Lead-Druck wird Tempo BESCHLEUNIGT (beide Seiten muessen scoren) statt verlangsamt - umgekehrt zu G1/G2 wo Defensive-Adjustment dominiert. SUBFILTER fuer Lesson 02.05.: NBA-Finals-Unter-These nur fuer G1+G2 spielbar (Ankommens-Phase + erste Defensive-Anpassung). Ab G3 nicht mehr automatisch Unter-VALUE - Linien-Druck kann durchschnittlich Ueber 220 ausreichen lassen. NBA-Unter-Bilanz total nach 08.06.: 6/10 = 60% / -2% ROI (war 5/9 = 55.6% nach 01.05.). Lesson 02.05. behalt VALIDITAET fuer G1/G2 (n=2 mit 100% HR), wird fuer G3+ SUSPENDIERT bis weitere Daten.",
-            "bezug_spiel_id": "2026-06-08-nyk-sas"
-        },
-        {
-            "datum": "2026-06-09",
-            "kategorie": "Center-DD-Cluster-Falle bei High-Score-Spielen (Volle-Analyse-Pattern aus markt_resultate)",
-            "lesson": "PATTERN-IDENTIFIKATION aus volle_analyse[]: 3 Center-DD-Tipps in einem G3-NBA-Finals-Spiel ALLE VERLOREN trotz starkem Pre-Game-Pattern: KAT (G1 18/12 + G2 21/13) â†’ G3 nur 11/8, kein DD. Wemby (G1 26/12 + G2 29/9) â†’ G3 32/8, kein DD trotz Punkte-Hoch. Hart (G1 3/15) â†’ G3 nur 8/3, kein DD. PATTERN-SYNTHESE: In High-Score-NBA-Spielen mit Total >220 wird Rebound-Volumen verteilt (mehr Made-Buckets = weniger Rebounds), Center-DD-Pattern zerbricht. KAT-Punkte-Crash zusaetzlich durch Spurs-Frontcourt-Doppel-Druck (Wemby + Champagnie boxen). NEUE HARTREGEL: Pro Spiel max 1 Center-DD-Tipp setzen (statt Multi-DD-Stacking). Bei NBA-Finals/Decider-Spielen mit erwartetem Total >215 Center-DD generell auf max VALUE (kein Anker-VALUE/quasi-SAFE). DD-Markt-Bilanz NBA-Playoffs nach 08.06. zu pruefen, aktuell schon 6/12 letzte 14 Tage. Center-DD-Stacking in Single-Game-SGP-Kombi (heute kombi-balance 3xDD verlor) konzentriert Risiko statt zu diversifizieren - max 1 DD-Bein pro Kombi.",
-            "bezug_spiel_id": "2026-06-08-nyk-sas"
-        },
-        {
-            "datum": "2026-06-09",
-            "kategorie": "Mini-Spiele-Tag Total-Slate-Ausfall (Lesson 26.05. n=4 Validierung mit 0% Hit-Rate)",
-            "lesson": "EXTREMES PATTERN: 08.06. Single-Game-Slate (1 In-Scope-Spiel, NBA Finals G3) endete mit 0/5 Einzeltipps + 0/4 Kombis = 100% Slate-Ausfall, Tagesbilanz -33.55 EUR Einzeltipps + -17.35 EUR Kombis = -50.90 EUR (= -9.3% der Kasse von 550 EUR). Lesson 26.05. 'Mini-Spiele-Tag Single-Point-of-Failure' jetzt n=4 validiert mit dem schaerfsten Beispiel: alle 4 Kombis SGP auf dasselbe Spiel = volle Korrelation gegen Marktbewegung. Heute: Spurs gewannen ueberraschend (Aggregator-Konsens 38% Spurs-Sieg-WK), Total ueberraschend (Unter-Wahrscheinlichkeit 53% lt. SportsLine), KAT-DD ueberraschend nicht (3-in-Folge-Pattern), Wemby-DD ueberraschend nicht (G1/G2 mit 12+9 Rebs) - 4 unabhaengige Outcomes alle in Tipp-Gegenrichtung in einem Spiel. VERSCHAERFUNG der Lesson 26.05.: bei 1-Game-Slate Stake-Konzentration auf Safe-Kombi war bisher Strategie (Lesson 19.05./29.05./06.06.) - heute Bruch zeigt: Konzentration bei SGP-Spiel-Singularity ist Hazard, NICHT Edge. NEUE REGEL: Bei Single-Game-Slate-Tagen Gesamtstake-Cap einfuehren - max 3% der Kasse fuer alle Tipps + Kombis kumuliert (heute 6.5% gesetzt = zu hoch). Stake-Cap 3% bei 550 EUR = 16.50 EUR Total-Limit ueber alle Picks. Senkt Black-Swan-Tag-Verlust auf < -5% der Kasse.",
-            "bezug_spiel_id": "2026-06-08-nyk-sas"
-        },
-        {
-            "datum": "2026-06-09",
-            "kategorie": "Spurs-Bounce-Back-Wemby-Karriere-Finals-Hoch (Star-Bounce-Back-These bestaetigt im 0-2-Druck)",
-            "lesson": "POSITIV-PATTERN aus auffaellige_patterns[]: Wemby G2 verschoss Last-Shot 20-Fuss-Jumper 2 Sek vor Schluss (verlor G2 105-104), G3 dann Karriere-Finals-Hoch 32 Pkt / 8 Reb / 6 Ast / 3 Blk / 2 Stl + Castle 23 Pkt mit Clutch-3er (1:54 Q4) + Game-Clinching-FT (0:06 Q4). Pattern aus Lesson 22.05. (NBA-Star-Defense-Adjust-G1-Hot-Hand-Subfilter Reverse): Star-Bounce-Back nach klarem Miss-Moment ist Goldgrube-Trigger fuer Spieler-Punkte-Ueber (Wemby >31.5 in kombi-risiko GEWANN). NEUE LESSON: Bei NBA-Finals/Playoff-Stars mit klarem 'Last-Shot-Miss' in vorherigem Spiel UND 0-2/1-3-Druck-Kontext im naechsten Spiel: Spieler-Punkte-UEBER-Tipp (Saisonschnitt + 5-10%) ist VALUE-Kandidat - Star will Wiedergutmachung machen, holt Volumen-Punkte. Wemby Saisonschnitt 25, Bounce-Back-Spiel 32 (+28%). Lesson erlaubt Spieler-Punkte-Ueber als RISIKO-Kombi-Bein (nicht Einzeltipp, HR16 bleibt) bei klarem Bounce-Back-Trigger. Aktuell n=1 (Wemby 08.06.) - braucht Validierung.",
-            "bezug_spiel_id": "2026-06-08-nyk-sas"
-        },
-        {
-            "datum": "2026-06-10",
-            "kategorie": "HR25: WM-Gruppenphase-3.Spieltag-Außenseiter-Pattern (WM-Saison-Start)",
-            "lesson": "Im 3. Gruppen-Spieltag der WM: wenn Favorit-Team Achtelfinale schon sicher hat (6 Pkt + Tordiff klar positiv), sinkt Druck-Niveau massiv. Außenseiter mit Sieg-Druck (0-3 Pkt, MUSS gewinnen) holt historisch in 30 % der Fälle einen Punkt. Mapper-Verhalten: Favorit-Sieg-SAFE bei solchen Konstellationen verboten - max VALUE. Außenseiter-DC X2 als VALUE-Kandidat. Wenn beide schon weiter oder beide raus: Tor-Total Unter 2.5 als VALUE bevorzugt (taktisch, kein Druck).",
-            "bezug_spiel_id": null,
-            "auto_generiert": false
-        },
-        {
-            "datum": "2026-06-10",
-            "kategorie": "HR26: WM-K.O.-Phase Tor-Total tendiert nach unten",
-            "lesson": "In K.O.-Spielen (Runde der 32, Achtel-, Viertel-, Halbfinale, Finale) ist Tor-Total durchschnittlich 0,3-0,5 Tore niedriger als Gruppenphase wegen taktischer Vorsicht + Verlängerungs-Risiko. Über 2.5 Tore in K.O.-Spielen NIE SAFE, max VALUE und nur bei beidseitig-offensiven Mannschaften. Unter 2.5 Tore wird Goldgrube-Kandidat bei zwei taktisch versierten K.O.-Teams. 2:0-Insurance gilt bei direktem Sieg-Tipp (siehe CLAUDE.md WM-Erweiterung).",
-            "bezug_spiel_id": null,
-            "auto_generiert": false
-        },
-        {
-            "datum": "2026-06-10",
-            "kategorie": "HR27: Vereins-Saison-Müdigkeit bei Top-Spielern",
-            "lesson": "Spieler aus Top-Vereinen (38+ Liga-Spiele PL/LaLiga/Serie A + CL-Halbfinale/Finale 31.05.) haben nur ~10 Tage Pause bis WM-Start. Top-Stürmer-Tor max VALUE statt SAFE auch wenn Form gut. Backup-Stürmer (wenig genutzte 2.-Reihe) haben VALUE-Edge weil frisch. Erkennung über Pre-WM-Test-Spiele: wer wurde geschont, wer voll durchgespielt? Mapper-Hinweis: HR27 prüft im Recherche-File 'vereins_belastung_heim/gast' auf '38+'-Marker.",
-            "bezug_spiel_id": null,
-            "auto_generiert": false
-        },
-        {
-            "datum": "2026-06-10",
-            "kategorie": "HR28: WM-Spielort-Faktor (Höhe + Hitze + Lokal-Vorteil)",
-            "lesson": "Bei spielort_faktor.hoehe_m >= 1500 (Mexiko-Stadt 2240m, Toluca 2667m, Guadalajara 1566m): europäische + asiatische Teams haben Konditions-Nachteil ab Min 60. Tor-Total Über 2.5 in Hoch-Höhen-Stadien zurückhaltend (Tempo niedriger). Spät-Tor-Pattern (Min 75+) erhöht weil Auswechslungen + Konditions-Crashes häufiger. Bei Florida/Texas-Mittag-Spielen mit Hitze + Luftfeuchtigkeit: Tor-Total runter, Sieg-Tipps mit Vorsicht. Bei moderaten Klima-Stadien (Toronto/Vancouver/Boston/Westküste): kein Spielort-Bias.",
-            "bezug_spiel_id": null,
-            "auto_generiert": false
-        },
-        {
-            "datum": "2026-06-10",
-            "kategorie": "HR29: Pre-WM-Test-Spiele als Form-Indikator",
-            "lesson": "Pro WM-Team in letzten 14 Tagen vor Turnier-Start 1-3 Test-Spiele. Wer hat gespielt + getroffen? Spieler mit Test-Tor = Form-Edge-Kandidat für WM-Eröffnung. Spieler komplett geschont (verletzungsbedingt) = Risiko - kein Star-Tipp SAFE. Test-Spiel-Verlust oder Snoozer = Mannschafts-Stimmung-Negativ-Indikator → keine Sieg-SAFE auf das Team. Recherche-Routine sammelt 'pre_wm_test_spiele[]'-Liste pro Spiel.",
-            "bezug_spiel_id": null,
-            "auto_generiert": false
-        },
-        {
-            "datum": "2026-06-10",
-            "kategorie": "META: WM 2026 Saison-Phase-Wechsel - Vereins-Liga-Goldgrube-Stats nur als historische Referenz",
-            "lesson": "Mit WM-Start 11.06. ist die Vereins-Saison faktisch pausiert. Die historischen Liga-Goldgruben (PL/LaLiga/CL-HF) bleiben in liga_goldgruben.json gespeichert, sind aber NICHT für WM-Tipps relevant - bei WM-Spielen ist Liga = 'WM 2026' und greift nicht. Beobachtungs-Liga-Filter (z.B. 'NBA Playoffs - Finals Game 3' mit ROI -100%) gilt nur für exakt diesen String - WM-Spiele bleiben voll bespielbar (SAFE moeglich wenn Quote passt). Markt-Goldgruben (Über/Unter, DC, Torschützen Jederzeit) sind sport-übergreifend gültig, gelten auch bei WM. Neue WM-Statistik baut sich täglich auf, frühestens Mitte Juni greifen erste WM-spezifische Bluter/Goldgruben.",
-            "bezug_spiel_id": null,
-            "auto_generiert": false
-        },
-        {
-            "datum": "2026-06-11",
-            "kategorie": "Mini-Spiele-Tag-Pseudo-Hedge-Strategie n=4 validiert (Drehung-Stresstest bestanden)",
-            "lesson": "Mini-Spiele-Tag-Pseudo-Hedge mit 2 unkorrelierten WACKEL-Beinen (Sieg-Markt + Total-Markt) jetzt n=4 empirisch validiert. Heute (10.06.) extremster Stresstest aller Zeiten: GROESSTER COMEBACK in NBA-Finals-Geschichte (NYK aus -29 in HZ -> 107-106-Sieg durch Anunoby-Tip-In 1.2s vor Schluss) - trotz Drehung beide Tipps gewonnen (SAS +1.5 deckt 1-Pkt-Niederlage, Unter 216.5 trifft 213-Total knapp). Strategie funktioniert weil (a) Spread-Insurance faengt Sieg-Pattern-Bruch ab, (b) Total bleibt unabhaengig vom Sieg-Outcome bei beidseitigen 2.HZ-Wurf-Kollaps. Bilanz Mini-Spiele-Pseudo-Hedge n=4: 28.05 (1/2), 03.06 (1/2), 06.06 (Decider-Slot), 10.06 (2/2) - aggregiert >50% Hitrate auf Wackel-Linien = klar profitabel bei Quoten 1.85-2.00. NEUE Hartregel: bei Single-Event-Slate ist diese Strategie der Default (nicht All-In auf 1 Tipp), Cap bleibt 3% Kasse Total.",
-            "bezug_spiel_id": "2026-06-10-nyk-sas",
-            "auto_generiert": false
-        },
-        {
-            "datum": "2026-06-11",
-            "kategorie": "NBA-Decider-Defensiv-These G4-HIT Re-Validierung (Track-Record 3/4 = 75%)",
-            "lesson": "Lesson 02.05 NBA-Decider-Defensiv-These nach G4-HIT jetzt 3/4 = 75% (G1 200<218.5 HIT, G2 209<214.5 HIT, G3 226>216.5 MISS, G4 213<216.5 HIT). G3-Bruch war Einzelausreisser (Spurs-MUSS-Sieg-Q1-Eskalation 33 Pkt) - bei normalen Decider-Setups (selbst bei extremer 1.HZ-Eskalation wie G4 mit 125 projiziert) drueckt 2.HZ-Defensiv-Adjust + 3PT-Wurf-Volatilitaet (SAS 3/17 = 17.6%) Total wieder unter Linie. Re-Kalibrierung: Unter 216.5 in NBA-Finals-Deciders bleibt WACKEL-Default (nicht VALUE-Upgrade trotz 75%), weil 4-Spiele-Sample noch zu duenn fuer SAFE-Eligibility laut Lesson 27.04 Quoten-Hartregel + CLAUDE.md HR (NBA-Playoff max WACKEL). Bei G5 wenn benoetigt: gleiche WACKEL-Default-Behandlung.",
-            "bezug_spiel_id": "2026-06-10-nyk-sas",
-            "auto_generiert": false
-        },
-        {
-            "datum": "2026-06-11",
-            "kategorie": "Auswaerts-Pattern-Edge bei N<=5: Spread-Insurance statt Direktsieg (Pattern-N4-Bruch SAS)",
-            "lesson": "OddsShark-Auswaerts-Pattern 'Road-Team-2-1-Rueckstand-G4 seit 2013 = 4/4 SU+ATS' BRACH heute beim 5. Versuch - Spurs verloren 106-107. Aber +1.5-Spread-Insurance hat den Pattern-Bruch perfekt abgefangen (Quote 1.96, Sieg-Quote SAS waere 2.12 gewesen - ~8% Quote-Aufschlag fuer Verlust-Sicherung). NEUE Hartregel: bei Sport-Patterns mit Sample-N<=5 (statistisch nicht signifikant) NIE auf direkten Sieg-Markt setzen, immer auf +1.5/+2.5-Spread als Insurance-Edge. Differenzierung Pattern-Direkter-Sieg (instabil bei N<=5) vs Pattern-Spread-Hedge (faengt knappe Niederlagen ab). Anwendung auf zukuenftige NBA-Decider-Patterns + WM-Pattern-Edges (z.B. Pre-WM-Test-Form-Patterns mit N=2-3 sind ohne Spread-Hedge nicht spielbar).",
-            "bezug_spiel_id": "2026-06-10-nyk-sas",
-            "auto_generiert": false
-        },
-        {
-            "datum": "2026-06-11",
-            "kategorie": "Drehungs-Datapoint - Junges-Roster-Q3-Kollaps-Pattern (Volle-Analyse-Quelle 8f+8h)",
-            "lesson": "Volle-Analyse-Datapoint: GROESSTER Comeback der NBA-Finals-Geschichte (NYK aus -29 HZ-Defizit, Endstand 107-106). Q3-Kollaps SAS: 14 Pkt auf 4/20 FG = 20% Wurfquote, NYK 13-0-Run war Wende. Junges Spurs-Core (Wemby 22, Castle 20, Harper Rookie 19, Vassell 25) kollabierte unter NYK-MSG-Heimcrowd-Druck in 2.HZ (30 Pkt insgesamt vs 76 in 1.HZ). 3PT-2.HZ-Volatilitaet: 3/17 = 17.6%. NEUES Pattern fuer naechste Decider-Slates (G5 wenn benoetigt in San Antonio Heim-Kontext = umgekehrte Pattern-Achse): bei jungen Rookie-Heavy-Rostern (Durchschnittsalter Kern-Rotation <= 23) in Auswaerts-Closing-Druck-Situation: Q3-Kollaps-Risiko aktiv beobachten - Anti-Halbzeit-Endstand-Kombi (Heim-fuehrt-HZ + Heim-gewinnt-FT) wenn jung-Roster-Auswaerts. CLAUDE.md Markt-Boykotts-Erweiterung: Halbzeit-Endstand-Kombi bei jungen Auswaerts-Rostern unter Schluss-Druck = NIE.",
-            "bezug_spiel_id": "2026-06-10-nyk-sas",
-            "auto_generiert": false
-        }
-    ]
+  "notiz": "Lessons werden von Claude im Chat gepflegt (oder per Hand). Chronologisch, jede Lesson auf ein konkretes Spiel beziehen wenn moeglich. | 2026-05-14: +4 Lessons (Drehungs-Cluster + Saison-Verletzungs-Check-Pre-Match + Coinflip-Saisonende-Validierung + Top-Team-Pflicht-Final-7d-Schon) | 2026-05-15: +4 Lessons (Closeout-G6-Auswaerts-Blowout-Pattern + Sweep-Abwehr-Verfeinerung + Top-Team-Final-Schon-INVERS-bei-Karriere-Highlight + Korrelations-Schutz-Cap-Heim-Sieg-Cluster) | 2026-05-18: +4 Lessons (Top-Team-B-Elf-CL-Final-Cluster + Karriere-Highlight-Tor-Markt-Verfeinerung + NBA-Game7-Heim-Underdog-Crash + Einwechslungs-Boost-Timing-Filter) | 2026-05-19: +4 Lessons (Top-Team-CL-Final-12d-Star-9er-Schon-Pre-Final + Markt-Goldgrube-N6-Sample-Bias-Subfilter + Anti-Boost-1-0-Fuehrungs-Sub + Mini-Spiele-Tag-Kombi-Diversifikations-Cap) | 2026-05-20: +4 Lessons (Risiko-Kombi-Tag-Retter-Validation-3 + NBA-Heim-Comeback-Drehung-Recovery-Asymmetrie + Heim-Festung-15-SAFE-Downgrade-Trigger + HR2-Verletzungs-Crash-Subfilter) | 2026-05-21: +4 Lessons (Klassen-Edge-Final-Volume-9er-Schweigen + Volume-Player-sport-uebergreifend-korreliert + Konsens-Best-Bet-Cluster-Trap + Mini-Spiele-Tag-Safe-Only-Hartregel) | 2026-05-22: +4 Lessons (Doppelspiel-Hinspiel-Tor-Festival-widerlegt + NBA-Star-Defense-Adjust-G1-Hot-Hand-Subfilter + Sekundaer-Volume-Star-Eruption-Pattern + Anti-Festungs-Tor-Markt-Sperre) | 2026-05-23: +4 Lessons (NBA-Bench-Tiefen-Asymmetrie-Subfilter-HR18 + Sekundaer-Volume-Star-G3-Snap-Back-Risiko-Subfilter + NBA-Star-G3-Snap-Back-Erlaubnis-Reverse + Serie-A-Saisonende-Dead-Rubber-Tor-Markt-Boykott-Erweiterung) | 2026-05-24: +4 Lessons (Roster-Backup-Pick-Falle-Vinicius-Vereinssperre + Drehungs-Comeback-Cluster-Champion-Saisonende + LaLiga-Schlusstag-Unter25-Markt-Pattern + Torschuetzen-Haushoher-Favorit-Elfschuetze-INVERS-zu-2105) | 2026-05-25: +4 Lessons (Schlusstag-Motivations-Asymmetrie-These-widerlegt + Champion-Saisonende-Drehungs-Cluster-2-Tage-Serie + Dead-Rubber-Schlusstag-Unter-Tendenz-statt-Ueber + NBA-WCF-Total-Ueber-Goldgrube-gebrochen-Muss-Sieg-Defensiv) | 2026-05-26: +4 Lessons (NBA-0-3-Elimination-G4-Blowout-Risiko-Sweep-These-eingegrenzt + Ko-Entscheidungsspiel-Sieg-regulÃ¤r-Falle-VerlÃ¤ngerung + Goldgrube-PrioritÃ¤t-validiert-dÃ¼nner-Coinflip-Tag + Mini-Spiele-Tag-Korrelation-1-Game-Single-Point-of-Failure) | 2026-05-27: +2 Lessons (Star-Out-Tiefe-These-widerlegt-OKC-ohne-JWilliams + WCF-Ueber-Goldgrube-Bruch-war-Einzel-Ausreisser-Re-Kalibrierung) | 2026-05-28: +4 Lessons (HR24-Form-Edge-Defense-Spezialist-Subfilter-Sarr-Bruch + Europa-Pokal-Finale-Unter-2.5-Default-Hartregel-Validation + Klassen-Edge-Final-Tor-Verteilung-Subfilter-Open-Play-vs-Standard + Mini-Spiele-Tag-Goldgrube-Stake-Konzentration-validiert) | 2026-05-29: +4 Lessons (Wemby-Bounce-Back-Stamm-Volume-Star-Snap-Back-Bestaetigung + SAS-Heim-Muss-Sieg-Unter-WCF-Re-Kalibrierung-n2-Validierung + OKC-Bench-Tiefe-These-Defense-Adjust-Subfilter-G+1-Begrenzung + Mini-Spiele-Tag-Konzentrations-Strategie-validiert-NBA-DD-Anker) | 2026-05-30: +4 Lessons (Pokal-Finale-1X2-Verlaengerungs-Hedge-Hartregel-CL-Validation + Wemby-Rebound-Volatilitaet-G7-Auswaerts-DD-Subfilter + G7-Heim-Crash-Defending-Champion-Star-OUT-These-validiert-n2 + Einwechslungs-Boost-Final-ET-Phase-Filter) | 2026-06-03: +3 Lessons (Spurs-G7-Hangover-These-validiert-VALUE-Auswaerts-Underdog + Defense-System-Edge-Star-Bench-Comeback-Korridor + Mini-Spiele-Tag-Konzentrations-Strategie-validiert-n2-NBA-Pseudo-Hedge) | 2026-06-06: +4 Lessons (NBA-Finals-G2-Heim-Bounce-77-These-Re-Kalibrierung-Finals-Slot + Drehungs-Cluster-Doppel-Heimfuehrung-zweistellig-verloren-volle-Analyse + Star-Bounce-Back-These-vs-Team-Sieg-Asymmetrie + Mini-Spiele-Tag-Pseudo-Hedge-n3-Validierung-NBA-Decider-Unter-Anker) | 2026-06-07: +4 Lessons (Einwechslungs-Boost-Doppel-Hit-WM-Test + Boost-Massen-HZ-Sub-Falle-Vinicius-Endrick + Markt-Pattern-WM-Test-Ueber25-80pct-8g + Klassen-Edge-realisiert-Sieg-nicht-Tor-Anzahl-B-Elf-Schon) | 2026-06-08: +4 Lessons (Roster-Verifikations-Joker-Falle-Plata + WM-Test-Ueber25-Final-Test-Defensiv-Subfilter + Friendly-Torschuetzen-Mass-Sub-Boost-Falle-n3 + Klassen-Edge-Sieg-Goldgrube-n3-Validation) | 2026-06-09: +4 Lessons (NBA-Decider-Defensiv-These-G3-Bruch-Re-Kalibrierung + Center-DD-Cluster-Falle-High-Score + Mini-Spiele-Tag-Total-Slate-Ausfall-Stake-Cap + Wemby-Bounce-Back-Last-Shot-Miss-Trigger) | 2026-06-11: +4 Lessons (Mini-Spiele-Pseudo-Hedge-n4-Drehung-Stresstest + NBA-Decider-Defensiv-G4-HIT-3/4 + Pattern-N<=5-Spread-Insurance-Hartregel + Junges-Roster-Q3-Kollaps-Volle-Analyse-Datapoint)",
+  "lessons": [
+    {
+      "datum": "2026-04-22",
+      "kategorie": "Formphase",
+      "lesson": "Real Madrid nach CL-Aus unberechenbar â€” Heimspiele gegen kleine Gegner kippen oft zu BTTS / 3+ Tore. In solchen Wochen lieber Torfestival-Markt als reiner Sieg-Tipp.",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-04-22",
+      "kategorie": "NBA Playoff Varianz",
+      "lesson": "NBA-Playoff-Spielerpunkte NIE als SAFE markieren. G1 kann 35 Punkte bringen, G2 nur 5. Immer WACKEL oder VALUE mit reduziertem Einsatz.",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-04-22",
+      "kategorie": "Aufstellung",
+      "lesson": "Aufstellung erst 1h vor Anstoss abrufen â€” Torschuetzen-Tipps auf Einwechselspieler fast nie gewonnen (Thuram-Fall v13).",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-04-23",
+      "kategorie": "NBA Player-Props bei Blowout-Risiko",
+      "lesson": "Player-Props des UNDERDOG-Teams sind bei Blowout-Gefahr faktisch WACKEL, selbst wenn Saisonschnitt drueber liegt. Bane + Wagner am 22.04. als SAFE gekennzeichnet, beide 12 Pkt (Linien 17.5 / 15.5), weil Magic 15 Punkte verloren -> Q4 Bankdruecker. Regel: Wenn Spread > 8 Pkt, Player-Props des Underdogs max. VALUE, besser WACKEL.",
+      "bezug_spiel_id": "2026-04-22-pistons-magic"
+    },
+    {
+      "datum": "2026-04-23",
+      "kategorie": "Double-Double Realitaetscheck",
+      "lesson": "Double-Double nur dann als VALUE wenn BEIDE Stats (meist Pkt + Reb) realistisch auf 10+ zusteuern. Banchero 22.04. mit 18/6/8 â€” nur Punkte zweistellig. Saisonschnitt 21/8 bedeutet Rebounds sind KEIN Selbstlaeufer. Bei DD-Tipps Verteilung der zweiten Statistik checken, nicht nur den Schnitt.",
+      "bezug_spiel_id": "2026-04-22-pistons-magic"
+    },
+    {
+      "datum": "2026-04-23",
+      "kategorie": "Under-Tipps bei einseitigem Spiel",
+      "lesson": "Under-Totals nur wenn BEIDE Teams defensiv/langsam spielen. Thunder-Suns 22.04.: Under 215.5 verloren (227 gesamt), weil Suns als Underdog offen spielen mussten. Regel: Bei grossem Favoriten (Spread > 10) ist das Under-Risiko real â€” Underdog geht All-Out auf Tempo.",
+      "bezug_spiel_id": "2026-04-22-thunder-suns"
+    },
+    {
+      "datum": "2026-04-24",
+      "kategorie": "Sweep-Abwehr-Heimsieg",
+      "lesson": "Bei 0-2 Serienstand explodiert das Heimteam oft in G3. Raptors als -5.5-Dog gegen 2-0-Cavs gewannen 126:104 (Upset +22 ggÃ¼. Linie). Regel: Sieg-Tipp auf den Auswaerts-Favoriten bei Sweep-Druck NICHT als SAFE markieren â€” max VALUE. Bei -150 oder niedriger Moneyline eher Finger weg und lieber ueber/unter-Total spielen.",
+      "bezug_spiel_id": "2026-04-23-cavs-raptors"
+    },
+    {
+      "datum": "2026-04-24",
+      "kategorie": "Playoff-Spielerpunkte scharfer",
+      "lesson": "NachgeschÃ¤rfte Lesson: NBA-Playoff-Spielerpunkte max WACKEL (nicht VALUE), ausser der Spieler spielt in einem engen Spiel ohne Blowout-Gefahr UND die Linie ist nicht nach einem Hot-Hand-G2 hochgesetzt. 23.04.: Edwards 30->17 (Wolves gewannen 113:96 aber Blowout -> Q4 Bank), Mitchell -> 15 (Cavs Blowout verloren). 1/3 Hitrate heute trotz VALUE-Label zeigt: Varianz ueberschreibt Form.",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-04-25",
+      "kategorie": "NBA-G3 Heim-Favorit unter Sweep-Druck",
+      "lesson": "Auch der HEIM-FAVORIT in Sweep-Abwehr (eigene Serie 0-2 hinten, G3 zuhause, Buchmacher-Favorit) ist NICHT zuverlaessig. 24.04.: Rockets -9.5 Heim-Favorit gegen Lakers (ohne Doncic + Reaves) verloren 108:112 OT, Lakers nun 3-0. LeBron 29 Pkt, Smart 21, Hachimura 22 trotz fehlender Stars. KomplementÃ¤r zur 23.04.-'Sweep-Abwehr-Heimsieg'-Lesson (Heim-Underdog kann gewinnen). Regel: G3 mit Sweep-Druck = KEIN safer Sieg-Tipp egal welche Seite â€” Spread-Markt oder Live-Total bevorzugen, niemals SAFE.",
+      "bezug_spiel_id": "2026-04-25-rockets-lakers-g3"
+    },
+    {
+      "datum": "2026-04-25",
+      "kategorie": "SAFE-Trefferquote Reality-Check",
+      "lesson": "SAFE-Kategorie ueber alle bisherigen Tipps: 8/12 = 66.7% Trefferquote, ROI -3.3% â€” UNTER CLAUDE.md-Soll (75-90%). Ursachen: frueh labelten NBA-Player-Props als SAFE (Bane/Wagner/Banchero DD am 22.04.) + 24.04. Lautern DC verloren (0:2 Heim, Braunschweig-Befreiungsschlag). Regel: SAFE-Label NUR fuer 1X2/DC mit klarer Klassendifferenz + Topscorer fit + KEIN Sweep-Druck + KEIN Abstiegskampf-Underdog mit Backs-against-the-wall-Motivation. Bei SAFE-Quote 1.20-1.30 doppelt pruefen â€” knappe Margins erlauben keinen Schnitzer.",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-04-25",
+      "kategorie": "Roster-Verifikation PFLICHT vor Player-Props",
+      "lesson": "KRITISCH: Vor JEDEM Spieler-Tipp (Punkte, Tor, DD, TD, Assists fuer Fussball) den aktuellen Kader via WebSearch verifizieren. LLM-Wissen ueber Spieler-Team-Zuordnungen ist oft outdated â€” Trades passieren mitten in der Saison. Beispiel 25.04.: Tipp 'Trae Young Mehr als 22.5 Pkt' fuer Hawks-Knicks G4 generiert, aber Trae Young wurde am 09.01.2026 zu Washington Wizards getradet (gegen CJ McCollum) UND ist seitdem verletzt (Quadrizeps + Ruecken, fertig fuer 25-26). Hawks-Star ist seit Januar McCollum (32 Pkt G2). Regel: Bei jedem Player-Prop ZUERST: 'Spielt X aktuell fuer Team Y? Ist X fit?' Erst dann Linie pruefen. Diese Lesson ist hoechste Prioritaet â€” sie betrifft Vertrauen ins ganze Tool.",
+      "bezug_spiel_id": "2026-04-25-hawks-knicks-g4"
+    },
+    {
+      "datum": "2026-04-26",
+      "kategorie": "bet365 2:0-Insurance-Regel (PFLICHT bei Auswertung)",
+      "lesson": "BET365-SPEZIFISCH: Bei direktem Sieg-Tipp (1X2 / Moneyline) auf Mannschaft X gilt der Tipp als GEWONNEN, sobald X im Spiel mindestens 2:0 in Fuehrung lag â€” egal was danach passiert. Auch wenn das Spiel 4:3 verloren wird, der 2:0-Vorsprung loest die Insurance aus. Gilt NUR fuer: 1. Bundesliga + Champions League. Gilt NUR fuer: direkter Sieg-Tipp. Gilt NICHT fuer: Doppelte Chance, Handicap, Ueber/Unter, Beide treffen, Genaues Ergebnis, Halbzeit-Wetten. Beispiel 25.04.: Mainz 05 fuehrte zur HZ 3:0, verlor 3:4 gegen Bayern - 'Mainz Sieg'-Tipp waere bei bet365 als gewonnen ausgezahlt. Bei Auswertung: wenn HZ-Stand zeigt 2:0+ fuer Sieg-Tipp-Team und Endstand zeigt Niederlage, dann Status 'gewonnen' setzen mit Kommentar '2:0-Insurance'.",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-04-26",
+      "kategorie": "Quoten-Recherche PFLICHT vor Tipp-Generierung",
+      "lesson": "FEHLERMUSTER: Quoten in Tipps oft willkuerlich geschaetzt (z.B. 1.85 angegeben, real bei bet365 1.22). Das verfaelscht Edge-Berechnung und Kasseneinsatz-Empfehlung. Regel: VOR jedem Tipp die Quote auf Aggregator-Seite verifizieren â€” Oddschecker, Sportsgambler, BetExplorer, Sky Bet (alle haben aktuelle bet365-Quoten). WebSearch: '[Heim] vs [Gast] odds [Datum]' oder direkt WebFetch auf Oddschecker. Wenn Aggregator nicht erreichbar: Quote als 'geschaetzt' markieren mit '~' davor. Niemals SAFE/VALUE-Label vergeben ohne verifizierte Quote, sonst ist Edge-Prozent fiktiv.",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-04-26",
+      "kategorie": "Liga-Vollstaendigkeit + Kontext-Analyse PFLICHT",
+      "lesson": "ZWEI WIEDERHOLUNGS-FEHLER aus 25.-26.04.: (A) Ligen werden nicht systematisch durchgeprueft. 25.04.: 2. Bundesliga komplett vergessen (4 Spiele inkl. Lautern!) UND FA Cup Halbfinale Manchester City vs Southampton in Wembley komplett vergessen. (B) Saison-Kontext-Faktoren werden ignoriert. Pflicht-Recherche pro Spiel: (1) Spielt eines der Teams parallel in CL/EL/Conference League? (Doppelbelastung -> Rotation moeglich) (2) Tabellenposition + Saisonziel: kaempft um Meisterschaft / CL-Quali / EL-Quali / Conference / Klassenerhalt / Abstieg / nur noch Spielbetrieb? (3) Motivations-Asymmetrie: Team A im Abstiegskampf vs Team B schon gerettet -> Team A i.d.R. Edge. Team A spielt auf CL-Quali vs Team B nur Mittelfeld -> Team A Edge. Team A Champions kann rotieren, Team B will alles. (4) Last-Match-Recovery: 3 Tage seit letztem Spiel? CL-Mittwoch Spiel? Verletzungs-Druck? Beispiel-Edge: Mainz @12.0 vs Bayern war so wertvoll genau weil Bayern CL-Doppelbelastung + Mainz Klassenerhalt-Druck. Regel: Vor JEDEM Tipp diese 4 Kontext-Faktoren explizit pruefen + ins begruendung-Feld schreiben.",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-04-26",
+      "kategorie": "Edge-Strategie: bet365 2:0 + Einwechslung als VALUE-Filter",
+      "lesson": "STRATEGISCHE NUTZUNG der bet365-Sonderregeln (nicht nur defensive Auswertung): (1) Bei BL/CL: Heim-Underdogs gegen Top-Favoriten mit Sieg-Quote 4.0-15.0 sind ueberproportional wertvoll, weil 2:0-Insurance auch bei spaeterer Niederlage zahlt. Suche nach Spielen wo Underdog hohe HZ-Fuehrungs-Wahrscheinlichkeit hat: junges/aggressives Heim-Team + Favorit mit Doppelbelastung (CL/EL Mittwoch/Donnerstag) + Heim-Anfangsphasen-Statistik. Beispiel-Risiko verpasst 25.04.: Mainz Sieg @ ~12.0 gegen Bayern, HZ-Stand 3:0 -> waere ueber 2:0-Regel gewonnen trotz 3:4-Niederlage. (2) Torschuetzen: Spieler mit hoher Quote (10x+) wie Verteidiger/Mittelfeld â†’ IMMER Backup-Stuermer-Qualitaet pruefen. Wenn auf Bank ein Volumen-9er sitzt der oft eingewechselt wird, ist Tipp ueber Einwechslungs-Boost wertvoller als Quote suggeriert. Anekdote: Kim Min-jae als Torschuetze @ 12.0, in Spiel ausgewechselt fuer Gnabry, Gnabry trifft â†’ Tipp gewonnen. ABER: Risiko ist beidseitig â€” wenn auf Bank kein Volumen-Spieler sitzt, kein Edge. Tipps-Generierung soll diese Muster aktiv suchen, nicht nur defensiv anwenden.",
+      "bezug_spiel_id": "2026-04-25-mainz-bayern"
+    },
+    {
+      "datum": "2026-04-26",
+      "kategorie": "bet365 Einwechslungs-Boost bei Torschuetzen (Auswertung + Strategie)",
+      "lesson": "BET365-SPEZIFISCH: Bei Torschuetzen-Tipps (Erster/Jederzeit/Letzter/Doppelpack/Hattrick) zaehlen Tore des direkten Ersatzspielers NACH Auswechslung dem urspruenglichen Tipp-Spieler dazu. Beispiel: Fabio Silva (BVB) als Torschuetze getippt, wird in 60. Min fuer Guirassy ausgewechselt, Guirassy trifft -> Silva-Tipp gewonnen. Bei Doppelpack/Hattrick werden Tore beider Spieler summiert (Silva 1x + Guirassy 2x = Hattrick fuer Silva-Tipp). Auswertung: wenn Torschuetzen-Tipp 'offen' ist, IMMER pruefen ob Tipp-Spieler ausgewechselt wurde + Ersatzspieler getroffen hat. Strategie-Implikation: Volumen-Stuermer von Mannschaften mit guten Backup-Stuermern (z.B. Mainz/Stuttgart/Frankfurt mit zweitem Top-9er auf der Bank) sind sicherer als die Quote suggeriert. Lesson hat hoechste Prioritaet bei Torschuetzen-Tipp-Auswertung.",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-04-26",
+      "kategorie": "NBA-Playoff-Player-Punkte: Markt-Boykott",
+      "lesson": "HARTE EVIDENZ ueber 4 Spieltage (22.-26.04.): NBA-Playoff-Spielerpunkte/DD haben 5/17 Trefferquote = 29.4%, ROI -46.2% bei 17 Tipps. Selbst als WACKEL gelabelt am 25./26.04. alle 4/4 verloren (Booker 16, McCollum 17, Edwards 5+raus, Brown). Gruende: G3/G4-Defensiv-Adjustments (Knicks neutralisieren McCollum, OKC versperrt Booker), Verletzungspech (Edwards Q2 raus, Booker Knoechel), Blowout-Q4-Bank (Wolves +16). Regel: NBA-Playoff-Player-Punkte/DD ab sofort KOMPLETT aus Einzeltipps streichen. Wenn ueberhaupt â€” nur als optionales Bein in Risiko/Moonshot-Kombi mit Mini-Einsatz, nie als eigenstaendiger Tipp. Spielergebnis-Markete (Sieg, Spread, Total) sind faktisch +ROI, Player-Punkte ein Verlustbringer.",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-04-27",
+      "kategorie": "bet365 Einwechslungs-Boost: Mechanik-Praezisierung (Tipp-Spieler MUSS ausgewechselt werden)",
+      "lesson": "PRAEZISIERUNG der bet365-Einwechslungs-Boost-Regel nach Stuttgart-Bremen 26.04. (1:1): Der Boost greift NUR wenn der TIPP-SPIELER selbst ausgewechselt wird und sein direkter Ersatz trifft. Es reicht NICHT, dass irgendein Backup-Stuermer reinkommt und trifft, waehrend der Tipp-Spieler weiter mitspielt. Konkret-Fall: Tipp 'Undav trifft' @ 1.85 verloren, obwohl DemiroviÄ‡ als Joker in 61.' den Ausgleich erzielte â€” DemiroviÄ‡ kam fuer Tiago Tomas (NICHT fuer Undav), Undav blieb auf dem Platz und traf nicht. Im Dossier wurde irrefuehrend formuliert 'Demirovic + Undav als Doppel-9er = Einwechslungs-Boost-Setup falls Wechsel'. Korrekter Mechanismus: Boost = (Tipp-Spieler X wird ausgewechselt) UND (Y kommt fuer X) UND (Y trifft). Strategie-Implikation: Edge entsteht NUR bei spielzeit-limitierten Stuermern (Verletzungs-Comeback, Rotation-Druck, hohe Auswechslungs-Quote in 2. Hz), die mit hoher Wahrscheinlichkeit waehrend des Spiels rausgehen â€” nicht bei voll fitten Doppel-9er-Konstellationen wo der Tipp-Spieler 90 Min durchspielen kann. Vor Tipp-Generierung pruefen: 'Wie hoch ist Tipp-Spieler-Auswechslungs-Wahrscheinlichkeit?'",
+      "bezug_spiel_id": "2026-04-26-stuttgart-bremen"
+    },
+    {
+      "datum": "2026-04-27",
+      "kategorie": "Beobachtungs-Liga-Modus (Liga-Bluter ohne Form-Wissen)",
+      "lesson": "MECHANISMUS gegen das Bluten in Ligen ohne aufgebautes Form-Wissen: Ligen mit Bilanz <-30% ROI bei mind. 4 Tipps in den letzten 30 Tagen werden auf 'Beobachtungs-Status' gesetzt. Aktuelle Beobachtungs-Ligen (Stand 27.04.2026): 2. Bundesliga (5 Tipps, ROI -40%), Ligue 1 (2 Tipps, ROI -50%), Serie A (4 Tipps, ROI -32,5%). REGELN fuer Beobachtungs-Ligen: (1) Spiele werden TROTZDEM komplett im Spiel-Analyse-Tab gezeigt mit voller Markt-Uebersicht und Analyse â€” der User sieht alles was laeuft. (2) Markierung im Tipp-Text: 'ðŸ” Beobachtung â€” Liga-Form noch nicht kalibriert'. (3) NICHT in einzeltipps[] aufnehmen. (4) NICHT in Safe/Balance/Risiko-Kombi aufnehmen. (5) OK im Moonshot als Spass-Bein wenn Quote >=5x. (6) Auswertungs-Routine wertet weiter aus -> Form-Wissen baut sich auf, ohne dass Geld riskiert wird. AUSSTIEGS-KRITERIUM: Sobald rolling 30-Tage-ROI einer Liga > -10% wird, faellt der Beobachtungs-Filter raus, und die Liga darf wieder voll bespielt werden. NICHT betroffen: Pokale (FA Cup hat nur 1 Tipp = keine Datenbasis; DFB-Pokal performt +46%) â€” Pokale bleiben normal. Liga-Checkliste in der Routine bleibt vollstaendig (alle 16 Wettbewerbe), nur die Tipp-Selektion ist defensiv.",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-04-27",
+      "kategorie": "Quoten-Verifikation HARTREGEL (kein SAFE/VALUE ohne Aggregator-Beleg)",
+      "lesson": "VERSCHAERFUNG der 26.04.-Lesson (Quoten-Recherche-Pflicht): Ab 27.04. gilt als HARTREGEL fuer alle Tipps-Routines, dass kein Tipp das Label SAFE oder VALUE erhalten darf, ohne dass die Quote vorher via WebFetch auf einem Aggregator (Oddschecker, SportsGambler, BetExplorer, OddsShark, OddsTrader) verifiziert wurde. Hintergrund: ohne verifizierte Quote ist die Edge-Berechnung Fiktion â€” eine angegebene 1.85 die in Wahrheit 1.22 ist macht jedes 'VALUE'-Label wertlos und faelscht das ROI-Tracking. NEUE REGELN: (1) Quote nicht via Aggregator verifizierbar -> Tipp darf max als WACKEL gelabelt werden, mit Quoten-Praefix '~' (z.B. '~1.85'). (2) edge_prozent-Feld nur bei verifizierter Quote ausfuellen, sonst null. (3) Im begruendung-Feld jedes SAFE/VALUE-Tipps die Quoten-Quelle nennen ('Quote via Oddschecker verifiziert'). (4) Bei Aggregator-Ausfall: Tipp komplett verschieben oder als WACKEL markieren â€” kein Schaetzen. Erwartete Wirkung: +3 bis +5% ROI durch Eliminierung von Phantom-Edges. Diese Hartregel ist Voraussetzung fuer den naechsten Schritt (Pinnacle-Fair-Line-Baseline) der nur funktioniert wenn die bet365-Quote zuverlaessig stimmt.",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-04-29",
+      "kategorie": "Closeout-Heim-SAFE: Injury-Report am Spieltag PFLICHT (Embiid-Falle)",
+      "lesson": "PRAEZISIERUNG der 25.04.-Roster-Lesson speziell fuer NBA-Closeout-Spiele: Eine vor der Serie angekuendigte Star-Verletzung (Embiid Blinddarm-OP, 09.04.) wird unter Elimination-Druck oft kurzfristig durchgespielt. Embiid kam in G4 zurueck UND startete G5 (28.04.) mit 33 Pkt + 8 Assists - 76ers gewinnen 113:97 als Heim-Underdog gegen 3-1-Celtics. Im Dossier 28.04. wurde 'Embiid OUT (Blinddarm-OP)' als News-Eingabe verwendet, war aber 19 Tage spaeter ueberholt. ALLE drei Celtics-Tipps verloren (SAFE-ML, SAFE-Spread -8.5, VALUE-Beide-100+ knapp bei 97). HARTREGEL fuer Closeout-Heim-SAFE: (1) Wenn die SAFE-These auf einem Underdog-Star-Ausfall basiert, ist ein Yahoo/ESPN/Twitter-Status-Check max 3h vor Tip-off PFLICHT. Pre-Series-Reports reichen nicht. (2) Star-Comeback in Elimination-Game (eigenes Team 1-3 hinten) ist statistisch wahrscheinlicher als regulaer - die Schwelle fuer 'er spielt nicht' ist erhoeht. (3) Closeout-Heim-Spread (-8.5+) darf nicht alleine aus 'Star OUT'-Annahme abgeleitet werden, weil ein zurueckkehrender Star sofort den Spread killt. Fazit: Closeout-Heim-Sieg ist NUR dann SAFE wenn (a) Star-Status durch Tagesreport bestaetigt UND (b) ein Backup-Spieler-Plan ohne den Star existiert. Sonst max VALUE.",
+      "bezug_spiel_id": "2026-04-29-celtics-76ers-g5"
+    },
+    {
+      "datum": "2026-04-29",
+      "kategorie": "Inter-Kombi-Diversifikation (Layer-2): Spiel-Sieg-Outcome max in 1-2 Kombis",
+      "lesson": "ERWEITERUNG der Layer-1-Diversifikation (max 1 Bein pro Spiel pro Kombi) um Layer 2: Ein Spiel-Sieg-Outcome darf NICHT in mehrere Kombis kopiert werden. Konkret 28.04.: Celtics-Bein war in Safe (ML), Balance (Spread -8.5), Risiko (Beide 100+ kombiniert mit Cavs-Sieg) - ein Embiid-Comeback killte 3 von 4 Kombis. Heute 29.04. wiederholt: Lakers ML in Safe + Lakers ML in Balance + Lakers Spread -4.5 in Risiko = 3 Kombis vom Lakers-Sieg abhaengig. Wenn Lakers verlieren, alle 3 tot. REGEL: (1) Jedes Spiel-Sieg-Outcome (ML, DC, Spread, 1.HZ-Sieger) max in 1 Kombi - die Safe-Kombi. Wenn man weitere Kombis mit dem Spiel will, muss anderes Markt-Profil rein (Total/Player/Tor). (2) Bei nur 4 Spielen ist mathematisch jedes Spiel meist in 3-4 Kombis vertreten - dann muessen die Beine markt-typ-divers sein. (3) Schema-Mapper warnt (nicht hartcoded weil semantisch komplex), Routine soll bei naechster Generation andere Markttypen waehlen. (4) Konkrete Empfehlung Tipps-Routine: Safe-Kombi = nur Sieg-Beine, Balance-Kombi = nur Total-Beine (kein Sieg-Outcome doppelt zur Safe), Risiko-Kombi = Mix aus Spread + HZ + Total + Tor (Lakers-Bein in Risiko sollte das Total sein wenn Lakers ML schon in Safe).",
+      "bezug_spiel_id": "2026-04-29-lakers-rockets-g5"
+    },
+    {
+      "datum": "2026-04-30",
+      "kategorie": "Closeout-Heim-SAFE: Underdog-Volume-Backup-Pflichtcheck (Embiid-Wiederholung)",
+      "lesson": "VERSCHAERFUNG der 28.04.-Embiid-Lesson um die UNDERDOG-BENCH-Tiefe: 29.04. Lakers ML @ 1.55 als SAFE upgegradet auf Basis 'Houston ohne Durant' + 'Reaves zurueck' - alle 5 Rockets-Starter zweistellig (Smith Jr 22, Eason 18, Sengun 14/9/8, plus VanVleet/Adams), 14 Triples Houston vs 7 Lakers, Endstand 99:93 Houston-Sieg. SAFE-These war: Star-Asymmetrie (Houston ohne Durant). Realitaet: Houston hatte mit Smith/Eason/Sengun ein 3-Mann-Core, der allein im Closing-Druck-Spiel reichte. REGEL fuer SAFE-Closing-Out-Heim-Spiele (Heim-Favorit kann Serie schliessen): Pflichtcheck (a) Star-Status Underdog (Embiid-Lesson), (b) Underdog hat <=1 weiterer 18+-Pkt-Spieler regulaer (sonst kein SAFE), (c) Heim-Topscorer voll fit (LeBron war ok, aber Reaves-Comeback nach 9 Spielen Pause war Risiko statt Boost). Wenn (b) nicht erfuellt: max VALUE, niemals SAFE. Lakers ML haette VALUE bleiben muessen - Houston hat Sengun + Smith + Eason als Triple-Threat, das ist nicht 1.5-Sterne wie im Dossier formuliert.",
+      "bezug_spiel_id": "2026-04-29-lakers-rockets-g5"
+    },
+    {
+      "datum": "2026-04-30",
+      "kategorie": "NBA-Unter-Linien: Star-vs-Star-Duell-Brueche (Goldgrube-Praezisierung)",
+      "lesson": "PRAEZISIERUNG der NBA-Unter-Goldgrube (4/5 Hitrate vor 29.04.): 29.04. Pistons-Magic G5 Unter 211.5 verloren - Endstand 116:109 = 225 Total. Cunningham 45 (Franchise-Playoff-Rekord, Sweep-Abwehr-Druck) + Banchero 45 (Karriere-Playoff-Hoch, Closing-Versuch) = 90 Pkt allein durch beide Stars. SportsLine-Sim 66% Unter (203 erwartet) wurde von Star-vs-Star-Eskalation pulverisiert. ZUSATZREGEL: Unter-Tipp NICHT spielen, wenn (a) beide Teams mind. 1 Star mit 25+ Pkt Saisonschnitt UND aktuellen 30+-Pkt-Auftritten in Serie, UND (b) Spiel ist Decider/Sweep-Abwehr-Druck (Spielausgang determiniert Saison-Ende). In solchen Konstellationen wird die Top-5-Defense des Gegners durch puren Hot-Hand-Marathon ueberrannt. Aktuelle NBA-Unter-Bilanz nach 29.04.: 4/6 = 66.7% (von 80% gefallen) - Goldgrube ja, aber nicht in Star-Eskalation-Spielen. Cavs-Ueber 215.5 (auch Decider) gewann hingegen mit 245 Total - bestaetigt: in Decidern gehen Linien hoch, deshalb Ueber bevorzugen wenn Decider + 2 Volume-Stars beidseitig.",
+      "bezug_spiel_id": "2026-04-29-pistons-magic-g5"
+    },
+    {
+      "datum": "2026-04-30",
+      "kategorie": "Korrelations-Erfolg: Layer-2-Diversifikation funktioniert empirisch",
+      "lesson": "ERFOLGS-VALIDIERUNG der gestrigen 29.04.-Lesson 'Inter-Kombi-Diversifikation Layer 2': Heute 29.04. trotz 4 verlorener Kombis war keine durch ein Single-Spiel-Outcome-Killer zerstoert. Lakers verloren ML -> nur Safe-Kombi tot, Lakers Unter 207.5 in Risiko-Kombi GEWANN sogar. Kontrast 28.04.: Celtics-Bein in 3 Kombis -> Embiid-Comeback killte 3 simultan. Heute pro Kombi durchschnittlich 1-2 verlorene Beine, statt einer Domino-Welle aus einem Spiel. EMPIRISCHE BESTAETIGUNG: Layer-2 (Sieg-Outcome max 1x in Kombi-Set) reduziert Konzentrations-Risiko substantiell. Verluste resultierten heute aus genereller 4-Bein-Mathematik (jedes Bein 50-60% -> Kombi 6-13% Hitrate), nicht aus Diversifikations-Versagen. REGEL bestaetigt + verschaerft: bei Tagen mit nur 4 Spielen ist 4-Bein-Risiko-Kombi pro Definition sehr unwahrscheinlich (~10% Hitrate); empfohlener_einsatz_prozent fuer 4-Bein-Risiko-Kombi sollte daher max 0.25% sein (statt der frueher 0.5%). Heute hat Routine das bereits richtig gemacht (0.25% bzw 0.10% Moonshot).",
+      "bezug_spiel_id": "2026-04-29-lakers-rockets-g5"
+    },
+    {
+      "datum": "2026-04-30",
+      "kategorie": "1.HZ-Sieger-Wetten in eng-getakteten Decidern unzuverlaessig",
+      "lesson": "NEU: 29.04. Cavs-Raptors G5 (2-2-Decider) - Tipp '1.HZ Sieger Cavs' @ 1.65 mit 'Cavs-Heim-Crowd-Energie-Spike Q1' verloren. Raptors fuehrten 74:67 zur HZ, Cavs holten erst in Q4 auf. Pattern: Underdog (Raptors) startete druck-aggressiv, Heim-Team brauchte Kalibrierungsphase. Lesson: 1.HZ-Sieger-Wetten als VALUE @ 1.50-1.80 in eng-getakteten Decidern (Serie 2-2 oder 2-3) NICHT spielen - die 'Heim-Energie-Spike-Q1'-These hat in der NBA empirisch keine zuverlaessige Basis. Heim-Vorteil materialisiert sich oft erst in Q3/Q4 nach Anpassung der Halbzeit-Strategie. REGEL: 1.HZ-Sieger-Wetten nur dann VALUE, wenn (a) Heim-Team objektiv klare Schnellstarter-Statistik hat (>55% Q1-Wins-Saison) UND (b) Spiel KEIN Decider ist (regulaere Saison oder G1/G2 mit Pace-Setting). In Playoff-Decidern: 1.HZ-Sieger max WACKEL, nicht Einzeltipp. Markt-Boykott analog zu NBA-Player-Punkte uebertrieben - aber starker Skeptizismus.",
+      "bezug_spiel_id": "2026-04-29-cavaliers-raptors-g5"
+    },
+    {
+      "datum": "2026-05-01",
+      "kategorie": "EL/Conference-HF-Hinspiel Tor-These widerlegt (BTTS/Ueber 2.5 max WACKEL)",
+      "lesson": "EMPIRISCHE WIDERLEGUNG der HF-Hinspiel-Tor-Festival-These nach 30.04.: 4 europaeische HF-Hinspiele endeten 2-1 (Braga-Freiburg) / 1-0 (Forest-Villa) / 3-1 (Shakhtar-CP) / 1-0 (Rayo-Strasbourg). Drei davon hatten max 2 Tore â€” These 'beide Teams brauchen Auswaertstor fuer Rueckspiel-Vorteil = beide spielen offensiv' war falsch. Tatsaechliches Pattern: Heim-Team will kein 0-2-Hypothek schaffen + Auswaerts-Team nimmt 0-0 oder 0-1 als ok mit, da Rueckspiel zuhause noch kommt = oft taktisch defensive Hinspiele. Risiko-Kombi (4x Ueber 2.5/Ueber 224.5) verloren wegen Rayo 1 Tor + Wolves 208 Pkt. Moonshot-Kombi durch 2x BTTS-Risse zerstoert (Forest-Villa, Rayo-Strasbourg â€” beide nur eine Mannschaft traf). Markt 'Beide Teams treffen JA' Gesamt-Bilanz nach 30.04.: 1/3 = 33% ROI -43%. REGEL: BTTS und Ueber 2.5 in EL/Conference-HF-Hinspielen ab sofort max WACKEL â€” nicht VALUE/SAFE, nicht in Risiko/Moonshot-Kombis ohne ausgleichende DC-These. Bevorzugte Maerkte fuer HF-Hinspiele: Heim-DC (1X) + Auswaerts-DC (X2) + Unter 2.5/3.5 als Hedge. Erst im Rueckspiel kann der Tor-Druck steigen wenn Hinspiel-Score knapp.",
+      "bezug_spiel_id": "2026-04-30-rayo-vallecano-strasbourg"
+    },
+    {
+      "datum": "2026-05-01",
+      "kategorie": "Conference League Halbfinale Goldgrube (Klassendifferenz-Edge)",
+      "lesson": "GOLDGRUBE-IDENTIFIZIERUNG: Conference League Halbfinale aktuell 4/4 = 100% ROI +69.5% nach 30.04. Beide Heim-PL/LaLiga-Klubs (Crystal Palace im Glasner-System / Rayo Vallecano in Vallecas) gewannen, beide DC-1X bzw. DC-X2 + beide direkter Sieg gewannen. Markt-Bilanz 'Crystal Palace DC X2' + 'Crystal Palace Sieg' + 'Rayo DC 1X' + 'Rayo Sieg' alle 4/4. Pattern: PL/LaLiga-Mid-Table-Klubs gegen Ukraine-Pokal/Ligue-1-Mid-Klubs in Hinspiel-Heim-Konstellation = klare Klassen-Edge. REGEL fuer naechste Conference-Hinspiele (07.05. Strasbourg-Rayo + Crystal Palace-Shakhtar Rueckspiele!): bei Heim-Vorteil PL/LaLiga-Klub gegen niedrigere Liga = SAFE-DC oder VALUE-Sieg legitim. Bei Auswaerts-Vorteil PL-Klub gegen niedrigere Liga (z.B. Palace im Rueckspiel zuhause): X2-DC SAFE. Aktiv suchen statt vermeiden. NICHT verwechseln mit Europa League: dort 3/5 = 60% ROI -19% (Forest-Villa unterperformt â€” All-PL-Duelle ohne Klassendifferenz sind nicht im gleichen Edge-Range). Conference > Europa fuer Klassendifferenz-Edge.",
+      "bezug_spiel_id": "2026-04-30-shakhtar-crystal-palace"
+    },
+    {
+      "datum": "2026-05-01",
+      "kategorie": "Star-Out-These widerlegt wenn Defense-System bleibt (Wolves-Edwards-Wende)",
+      "lesson": "PRAEZISIERUNG der Roster-Verifikation-Lesson: Star-Out fuehrt NICHT automatisch zu Sieg des Auswaertsfavoriten. Wolves-Nuggets G6 30.04.: Wolves OHNE Edwards + DiVincenzo gewannen 110-98 ueber Nuggets (mit Jokic 28+10). McDaniels 32+10, Shannon 24, Gobert 10/13/8. Defense-Stat: Murray 4/17 = 12 Pkt (Wolves-Defense neutralisierte Nuggets-2nd-Star). Closeout-Heim-Druck + intaktes Gobert-McDaniels-Defense-System ueberschrieb die Edwards-Luecke. Tipp 'Nuggets Sieg' @ 1.46 mit Begruendung 'Wolves OHNE Edwards = klar unterlegen' verloren â€” das Argument war zu eindimensional. NEUE REGEL: Bei Star-Ausfall-Diskussionen IMMER pruefen (a) ist das Defense-System intakt (Verteidigungs-Spezialisten/Center bleiben)? (b) gibt es einen 2nd-Mann mit hohem Saisonschnitt (>22 Pkt) der die Last uebernehmen kann (McDaniels: 18.5 PPG)? (c) ist es ein Closeout-Heim-Spiel mit Win-or-go-home-Druck? Wenn (a)+(b)+(c) alle JA: Star-Out-These NICHT spielbar als Auswaerts-Favorit-Sieg. Markt-Bilanz Wolves-Sieg jetzt 3/3 = 100% (war auf 2/2 mit Edwards, jetzt +1 OHNE Edwards) â€” Star-Goldgrube-Bilanz war nicht hinfaellig sondern bestaetigt sich anders.",
+      "bezug_spiel_id": "2026-04-30-wolves-nuggets-g6"
+    },
+    {
+      "datum": "2026-05-01",
+      "kategorie": "Layer-2-Diversifikation 2. Empirie-Tag + Same-Game-Korrelation als Layer-3",
+      "lesson": "ERFOLGS-VALIDIERUNG #2 + EXTENSION: Layer-2 (Sieg-Outcomes nur in Safe-Kombi) wirkte erneut. Safe-Kombi (4x DC) gewann @ 3.17 (Netto +2.17), trotz dass 3 von 4 anderen Kombis verloren. Diversifikation funktionierte: ein einzelner Spiel-Killer haette nicht alle 4 Kombis genommen. ABER neuer Befund: Forest-Villa-Hinspiel-BTTS-These war in Balance-Kombi UND Moonshot-Kombi â€” riss beide simultan, weil dieselbe Spiel-These auf 2 Kombis verteilt war (Layer-2 Markttyp-Diversifikation, aber Layer-3 Spiel-These-Konzentration). Kein direkter Sieg-Outcome-Doppel, aber Korrelations-Effekt ueber das Game-Outcome. NEUE REGEL Layer-3: Wenn dieselbe Game-Theses (z.B. 'BTTS in Spiel X') in 2 Kombis vorkommt, sind diese Kombis korreliert auch wenn der Markttyp identisch ist. Vermeiden: identische Spiel/Markt-Kombination in 2+ Kombis. Heute Konsequenz: Forest-Villa-BTTS gehoerte nur in Moonshot (Spass) ODER nur in Balance (substanziell), nicht in beide. REGEL: Spiel/Markt-Bein darf max 1x ueber alle Kombis hinweg verwendet werden â€” Layer-3 erweitert Layer-2 (Sieg-Outcome-Konzentration) auf Marktduplikate. Das senkt die Total-Korrelation zwischen Kombis nochmal. Aktuell 8/12 Einzeltipps + Safe-Kombi @ +2.17 = klar profitabler Tag trotz 3/4 Kombi-Verluste.",
+      "bezug_spiel_id": "2026-04-30-nottingham-forest-aston-villa"
+    },
+    {
+      "datum": "2026-05-02",
+      "kategorie": "NBA G6 als neue Beobachtungs-Liga (Markt-Reality)",
+      "lesson": "EMPIRISCHE WARNUNG: NBA Playoffs Round 1 Game 6 wurde nach 30.04. + 01.05. zur neuen Beobachtungs-Liga (7 Tipps / 2 gewonnen / 5 verloren = 28.6% Trefferquote / -45.6% ROI). 01.05. war Massaker: 5/7 G6-Tipps verloren (Magic Sieg, Ueber 211.5, Cavs Sieg, Rockets ML, Ueber 206.5, Rockets -3.5). NUR Raptors +3.5 + Pistons -3.5 + Ueber 219.5 (alle drei Spread/Total bei 219.5 sehr hoch) gewannen. Sweep-Druck-Spiele sind extrem unberechenbar - kein einziger Sieg-Tipp lief, alle drei Total-Ueber-Tipps gegen niedrigere Linien (211.5, 206.5) verloren. NEUE REGEL: NBA-Round-1-G6-Tipps ab sofort als Beobachtungs-Liga behandelt - keine Einzeltipps, keine Hauptkombi-Beine. Im Moonshot OK wenn Quote >=5x. Spread-/Total-Maerkte BEI HOHEN LINIEN (>219) vermutlich noch spielbar, aber zur Beobachtung in Lesson-Anwendung NICHT als VALUE markieren. Liga-Wieder-Aktivierung wenn 30-Tage-ROI > -10%.",
+      "bezug_spiel_id": "2026-05-01-nba-g6-trio"
+    },
+    {
+      "datum": "2026-05-02",
+      "kategorie": "NBA-Closeout/Decider Defensiv-Schlachten widerlegen Star-Eskalations-These",
+      "lesson": "WIDERLEGUNG der 30.04.-Lesson 'NBA-Ueber-Linien bei Star-vs-Star-Decidern': 01.05. Pistons-Magic G6 endete 93:79 (172 Total, Linie 211.5 - VERFEHLT um 39.5!) und Rockets-Lakers G6 endete 78:98 (176 Total, Linie 206.5 - VERFEHLT um 30.5!) - beide Closeout/Sweep-Druck-Spiele waren extreme Defensiv-Schlachten statt Star-vs-Star-Eskalationen. Cunningham (45 in G5) hatte ein verheerendes Comeback fuer Pistons aus -22 - das passierte WEIL Magic-Defense komprimierte und Magic offensiv eingebrochen war. NUR Raptors-Cavs G6 (222 Total, Linie 219.5) bestaetigte das Ueber-Pattern - aber das war ein OT-Spiel mit Game-Winner-3er, nicht 'in den Boden gespielt'. PRAEZISIERUNG: NBA-G6/G7-Closeout-Druck fuehrt OFT zu Defensiv-Vergroesserung und Tempo-Reduzierung weil Spieler vorsichtiger werden. NEUE REGEL: In NBA-G6/G7-Sweep-Druck-Spielen Ueber-Linien bei < 215 NICHT spielen (Defense-Risiko zu hoch), Ueber-Linien bei >= 219 noch OK (Pace-Asymmetrie hoeher). Lesson 30.04. nicht ganz aufheben sondern auf hoehere Linien einschraenken. NBA-Ueber-Bilanz nach 01.05.: 5/9 = 55.6% Trefferquote (war 4/6 = 66.7%) - klare Korrektur noetig.",
+      "bezug_spiel_id": "2026-05-01-rockets-lakers"
+    },
+    {
+      "datum": "2026-05-02",
+      "kategorie": "Premier League Klassendifferenz-Heim-Goldgrube bestaetigt",
+      "lesson": "ERFOLGS-VALIDIERUNG: Premier League Klassendifferenz-Heim = bestaetigte Goldgrube. Leeds-Burnley 01.05. 4/4 Tipps gewonnen (Sieg 3:1, DC 1X, Ueber 1.5, Ueber 2.5). PL-Bilanz nach 01.05.: 6/7 = 85.7% Trefferquote / +18.7% ROI - eine der staerksten Liga-Bilanzen ueberhaupt. PATTERN bestaetigt: Heim-Mid-Table-PL-Klub im Klassenerhalt-Endspurt vs abgestiegenes Team ohne Tabellen-Druck = SAFE-Sieg + DC + Ueber-1.5 alle quasi automatisch. Motivations-Asymmetrie + Klassendifferenz + abgestiegenes Team im Auslauf-Modus = perfekter Storm. STRATEGIE-IMPLIKATION fuer Restsaison (Mai 26): Aktiv suchen nach gleicher Konstellation - PL-Mid-Table im Klassenerhalt vs abgestiegenes Team = SAFE-Hauptbein, plus Ueber-1.5 als VALUE-Erweiterung. Burnley + Sheffield United (beide abgestiegen) sind Spieltag-Goldgruben fuer ihre Heim-Gegner. Nicht uebertreiben (small sample), aber als priorisierte Liga im SAFE-Filter behandeln.",
+      "bezug_spiel_id": "2026-05-01-leeds-burnley"
+    },
+    {
+      "datum": "2026-05-02",
+      "kategorie": "Risiko-Kombi-Erfolg @ 9.79x via perfekter Layer-2/Layer-3-Diversifikation",
+      "lesson": "EMPIRISCHE BESTAETIGUNG der Layer-2 + Layer-3-Diversifikation: 01.05. Risiko-Kombi (4 Beine: Raptors +3.5 + Pistons -3.5 + Leeds Ueber 1.5 + Girona Unter 2.5) gewann komplett @ Gesamtquote 9.79 (+8.79 Netto bei 0.25% Einsatz = +2.20% Kasse). Konstruktion war perfekt: 4 verschiedene Spiele, 4 verschiedene Markttypen (2 Spreads + 2 Tor-Linien gegensaetzlich), KEINE Spiel-Sieg-Outcome-Doppelung mit Safe-Kombi (Layer-2), KEINE Spiel/Markt-Doppelung mit anderen Kombis (Layer-3). Risiko-Kombi rettete den Tag (-2.25% Einzeltipps + -1.50% Kombis -> Risiko +2.20% holt drei Viertel des Verlustes zurueck). REGEL bestaetigt: 4-Bein-Risiko-Kombi mit 0.25% Einsatz hat sehr niedrige Hitrate (~10-13%) aber lohnt im EV wenn Diversifikation perfekt. Bei Tagen mit 5+ Spielen sollte Risiko-Kombi auf 5 Beine erweitert werden um Spread (Sieg/Total/Tor) noch breiter zu fassen - Hitrate sinkt aber Quote steigt ueberproportional. Diese Erfolgs-Vorlage als Template fuer kommende NBA-G7-Tage und EL/Conference-Rueckspiele uebernehmen.",
+      "bezug_spiel_id": "2026-05-01-risiko-kombi-erfolg"
+    },
+    {
+      "datum": "2026-05-03",
+      "kategorie": "SAFE-Reality-Check #2: Top-Team-Rotation vor CL-Rueckspiel",
+      "lesson": "EMPIRISCHE WIEDERHOLUNG der 25.04.-SAFE-Lesson: SAFE-Trefferquote nach 02.05. wieder unter CLAUDE.md-Soll (72.3% Ist vs 75-90% Soll, ROI -2.5%). Heutige SAFE-Verluste: Bayern Sieg @1.18 (3:3 vs Heidenheim - Kane saÃŸ zur HZ Bank wegen CL-HF-Rueckspiel 06.05., Olise rettete erst 90+10), Frankfurt DC 1X @1.22 (HSV gewinnt 2:1 spaet), Newcastle-Brighton DC X2 @1.45 (Newcastle Heim-Bounce-Back nach 5-Spiele-Pleiten-Serie). 3 von 7 SAFE-Beinen heute verloren. NEUE HARTREGEL fuer SAFE-Label: Top-Team-Heim-Sieg @ 1.15-1.25 ist NICHT SAFE wenn ALLE drei Bedingungen zutreffen: (a) Top-Team hat Meisterschaft/Saisonziel mathematisch schon erreicht, (b) Top-Team spielt CL/EL-Halbfinal-Rueckspiel innerhalb 4 Tagen, (c) Underdog ist im Abstiegskampf (Top 16-18) mit Pflichtpunkt-Bedarf. In dieser Kombination antritt B-Elf gegen voll-motivierten Underdog -> max VALUE oder Tipp ueberspringen. Bayern-Heidenheim am 02.05. erfuellte alle drei Bedingungen exakt - Tipp haette nie SAFE sein duerfen. Lesson 26.04. ('Edge-Strategie 2:0+Einwechslung') legt umgekehrt nahe: Heidenheim-Heim-Sieg-Tipp @hoher Quote waere VALUE gewesen.",
+      "bezug_spiel_id": "2026-05-02-bay-hei"
+    },
+    {
+      "datum": "2026-05-03",
+      "kategorie": "PL-Klassen-Goldgrube Praezisierung: Heim-Bounce-Back-Effekt schlaegt Top-7-Chaser",
+      "lesson": "VERFEINERUNG der 01.05.-PL-Klassen-Goldgrube-Lesson: PL-Heim-Mid-Top-Klubs (Plaetze 8-15) mit aktueller Heim-Pleiten-Serie schlagen Top-7-Chaser-Auswaertsteams oefter als die Quote suggeriert - Heim-Crowd-Bounce-Back-Effekt + Pflichtsieg-Druck. Beispiel 02.05.: Newcastle (Plaetze 13, 5 Pleiten in Folge) schlaegt Brighton (Plaetze 7, Top-7-Chaser) 3:1 trotz Auswaerts-Form-Vorteil von Brighton. Brighton-DC X2 @1.45 (SAFE-Label) verloren. PL-Bilanz nach 02.05.: 7/8 -> 6/9 = 66.7% (wieder im normalen Bereich). PATTERN: Wenn ein PL-Heim-Team mit Mid-Tabellen-Position eine sichtbare Pleiten-Serie hat (>= 4 Spiele) UND zuhause spielt UND der Auswaertsgegner ist im Top-7-Chase mit Auswaerts-Druck, ist die Heim-Crowd-Reaktion (Trainer-Druck, Spieler-Stolz, Bounce-Back-These) statistisch staerker als der Form-Vergleich. NEUE REGEL: PL-Auswaertsteams als VALUE/SAFE NUR wenn (a) Heim-Team keine aktive Pleiten-Serie und (b) Heim-Team nicht in Pflichtsieg-Pflicht zuhause. Bei aktiver Heim-Pleiten-Serie >= 4 Spiele: Auswaertsteams max WACKEL, nicht SAFE-DC. Klassen-Goldgrube bleibt valide fuer abgestiegene/Bottom-3-Heim-Teams (Wolves 1:1 Sunderland - Sunderland-DC X2 @1.32 gewonnen heute), aber NICHT fuer Mid-Tabellen-Heim-Teams in Form-Krise.",
+      "bezug_spiel_id": "2026-05-02-new-bri"
+    },
+    {
+      "datum": "2026-05-03",
+      "kategorie": "Safe-Kombi-Konstruktion: Sieg-Bein-Limit (Layer-3-Verschaerfung)",
+      "lesson": "EMPIRISCHE LEHRE aus Safe-Kombi-Verlust 02.05. @ 2.69x: 4 Beine waren Bayern Sieg (1.18) + Frankfurt DC 1X (1.22) + Lev DC 1X (1.30) + Arsenal Sieg (1.44). Ergebnis: 2/4 verloren (Bayern-Remis + Frankfurt-Niederlage). Diagnose: Die 2 reinen Sieg-Outcomes (Bayern, Arsenal) waren konzentriert in einer Kombi. Layer-2-Lesson 29.04. (Sieg-Outcome max in 1 Kombi) deckt Cross-Kombi-Konzentration, aber NICHT Intra-Kombi-Konzentration. NEUE REGEL Layer-3-Verschaerfung: Bei 4-Bein-Safe-Kombi max 1 reines Sieg-Bein, Rest DC oder Total. Begruendung: DC 1X @1.22 hat ~85% Hitrate, Sieg @1.18 hat ~80% Hitrate. Bei 4 Beinen wird die Differenz zu 0.85^3 * 0.80 = 49% (1 Sieg) vs 0.85^2 * 0.80^2 = 46% (2 Sieg). Klein, aber signifikant. Wichtiger: bei 2 Sieg-Beinen ist die Korrelation zu Top-Team-Rotations-Risiko (siehe 03.05.-Lesson) verdoppelt. Heute: Bayern-Sieg-Bein riss DURCH Top-Team-Rotation, ein DC-Bein haette 1X-Insurance gehabt (3:3 = X = gewonnen). VORLAGE Safe-Kombi 4-Bein: 1 Sieg (klar dominantes Team ohne CL-HF-Doppel-Belastung) + 3 DC (klare Klassendifferenz oder Klassenerhalts-Underdog-Heim).",
+      "bezug_spiel_id": "2026-05-02-bay-hei"
+    },
+    {
+      "datum": "2026-05-03",
+      "kategorie": "Torschuetzen-Tipp Mechanik: Stamm-Stuermer-Pflichtcheck (Kane-Bank-Falle)",
+      "lesson": "PRAEZISIERUNG der 27.04.-Einwechslungs-Boost-Lesson: Bei JEDEM Torschuetzen-Tipp ist eine PRE-Match-Pruefung ob der Tipp-Spieler in der Startelf steht PFLICHT. Beispiel-Falle 02.05.: Tipp 'Harry Kane Tor @1.45' fuer Bayern vs Heidenheim - Kane saÃŸ zur 1.HZ auf der Bank (Kompany rotierte 7 Spieler vor CL-HF-Rueckspiel PSG 06.05.), kam erst zur 2.HZ rein. In den 45 Min die er spielte: kein Tor. Selbst wenn Bayern Tore erzielte (Goretzka 2x, Olise 1x), entstand kein Boost weil Kane SELBST nicht ausgewechselt wurde. PATTERN: Tipp 'Spieler X Tor' bei Top-Klubs vor CL/EL-Halbfinal-Rueckspiel ist NICHT spielbar wenn Trainer in der Vorwoche Rotations-Andeutungen machte. NEUE HARTREGEL: Vor JEDEM Torschuetzen-Tipp 1h vor AnstoÃŸ die Aufstellung pruefen via WebSearch '[Team] Aufstellung [Datum]'. Wenn Tipp-Spieler NICHT in Startelf: Tipp wird auf 'storniert'/'reduziert' gesetzt mit Mini-Einsatz (0.1%) oder komplett verworfen. Boost-Edge greift NUR wenn: (a) Tipp-Spieler startet UND (b) Tipp-Spieler wird im Spielverlauf ausgewechselt UND (c) sein direkter Ersatz trifft. Untermauerung Bilanz: Torschuetzen-Tipps 02.05. = 2/4 (Saka+Lewa gewonnen, Kane+Undav verloren) - die 2 Verluste waren beide Spielzeit-Probleme (Kane Bank, Undav fruehzeitig raus). 50% Trefferquote ist OK fuer 2.0+-Quoten, aber pre-Match-Lineup-Check waere die AusreiÃŸer eliminiert.",
+      "bezug_spiel_id": "2026-05-02-bay-hei"
+    },
+    {
+      "datum": "2026-05-03",
+      "kategorie": "Underdog-2:0-Insurance-Edge bei Top-Team-Rotation (aus voller Spiel-Analyse 02.05.)",
+      "lesson": "NEUE QUELLE: aus volle_analyse{} im ergebnisse-File 2026-05-02. Bayern-Heidenheim 3:3 hatte das exakte Pattern aus Lesson 03.05. SAFE-Reality-Check #2 (Top-Team-Rotation vor CL-HF) â€” ABER der Edge lag NICHT bei der Bayern-Sieg-Absicherung, sondern beim UNDERDOG-Markt: Heidenheim ging 0:2 in der 31. vorne und fuehrte sogar 1:3 bis zur 76. Bei einem Heidenheim-DC-X2-Tipp @ ~3.5 oder Heidenheim-Sieg @ ~14.0 haette die bet365-2:0-Insurance gegolten (Underdog war ueber 30 Min mit 2-Toren-Vorsprung) und der Tipp waere als gewonnen ausgezahlt â€” selbst nach dem 3:3-Endstand. NEUE HARTREGEL fuer Routine-Generation: bei BL/CL-Spielen mit Top-Team-Rotation-Indikatoren (parallel_*-Feld zeigt CL/EL-HF-Rueckspiel innerhalb 4 Tage) UND Heim-Underdog mit Saisonziel-Druck (saisonziel zeigt Klassenerhalt/Abstieg) AKTIV den Heim-Underdog-Markt fuer 2:0-Insurance-Edge scannen. Konkret: Underdog-DC X2 oder Underdog-Sieg @ Quote 3.0+ als VALUE markieren. Der einseitige Fokus auf 'Top-Team-Sieg vermeiden' verschenkt den Spiegel-Edge. Dieser Lesson kommt aus voller Spiel-Analyse (volle_analyse[].drehung), nicht aus den getippten Maerkten â€” genau das Lern-Hebel den die neue Auswertungs-Mechanik aktiviert.",
+      "bezug_spiel_id": "2026-05-02-bay-hei"
+    },
+    {
+      "datum": "2026-05-03",
+      "kategorie": "Volle Spiel-Analyse Pflicht (Mechanik-Update Auswertungs-Routinen)",
+      "lesson": "MECHANIK-UPDATE: Ab 03.05.2026 schreiben die Auswertungs-Routinen ein volle_analyse{}-Block pro Spiel im data/ergebnisse/*.json. Inhalt: halbzeit_stand, endstand, tore[] (mit Minute + Schuetze + Stand_danach), drehung{war_drehung, details}, markt_resultate{btts, ueber_1_5/2_5/3_5/4_5/5_5, halbzeit_endstand, kein_team_zu_null, ...}, rotation_highlights[], einwechslungs_tor_highlights[], auffaellige_patterns[]. Quelle: ESPN/Sofascore/Kicker/Bundesliga.com WebSearches pro Spiel. ZIEL: Lessons aus dem KOMPLETTEN Spiel-Verlauf, nicht nur aus getippten Maerkten. Pattern-Beispiele die nun automatisch erkannt werden: Drehungs-Cluster, Markt-Pattern aus nicht-getippten Spielen (z.B. 5/6 BL-Spiele Ueber 2.5), Rotation-Pattern (Top-Team rotierte vor UEFA-Spiel), Einwechslungs-Boost-Trigger ohne Tipp. Reference-Implementation: data/ergebnisse/2026-05-02.json Spiele '2026-05-02-bay-hei' + '2026-05-02-new-bri'. Lessons-Limit bleibt max 4/Tag, aber Quelle ist breiter â€” erwartetes Volumen-Plus 50-100%.",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "Underdog-Saisonziel-Welle: Motivations-Asymmetrie schlaegt 6/6 Top-Teams am Saisonende",
+      "lesson": "PATTERN-VERDICHTUNG aus voller Spiel-Analyse 03.05. (Quelle 8h Rotation/Asymmetrie ueber alle 6 Fussball-Spiele): An EINEM Spieltag gewannen ALLE motivierten Saisonziel-Underdogs gegen motivations-arme Top-7-Teams: (1) Mainz (Klassenerhalt-Druck) 2:1 @ St. Pauli (selbst Klassenerhalt â€” Heim-Pleitenserie + flacher Druck) â€” Mainz fuehrte zur HZ 2:0. (2) Gladbach (Klassenerhalt-Pflichtsieg) 1:0 vs Dortmund (kein klares Saisonziel mehr, Mid-Table). (3) Tottenham (Abstiegskampf-Pflicht) 2:1 @ Aston Villa (Top-5-Mittelfeld, kein Pflichtsieg) â€” HZ 0:2. (4) Sassuolo (Mid-Table-Saisonende) 2:0 vs Milan (Top-6, Auswaerts-Form schwach) + Tomori 24\\' Rot. Vier Spiele mit identischer Motivations-Asymmetrie-Konstellation, vier Underdog-Siege. SAFE-Bein avl-tot-1 (Villa 1X @ 1.45) und SAFE-Bein bmg-bvb-2 (BVB X2 @ 1.30) verloren beide aus exakt diesem Pattern. NEUE HARTREGEL: Bei Spielen am Saisonende (letzte 4 Spieltage) IMMER pruefen ob Heim-Team Saisonziel mathematisch bereits erreicht/verloren hat UND Auswaertsteam noch Pflichtpunkt-Bedarf hat. In dieser Konstellation: Auswaerts-Underdog-DC oder -Sieg als VALUE markieren, NIE Heim-Team als SAFE. Erweitert die 03.05.-Lesson 'SAFE-Reality-Check #2' (CL-HF-Rotation) um Saisonziel-Mathematik-Mathematik-Faktor. Aktive Suche fuer naechste Routinen: Restspielplan 03.-17.05. mit klar motivierten Underdogs gegen Top-7-Mitlaeufer als VALUE-Hauptquelle priorisieren.",
+      "bezug_spiel_id": "2026-05-03-avl-tot"
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "Einwechslungs-Boost-Trigger-Cluster ohne Tipp (Quelle 8i)",
+      "lesson": "AKTIVE TRIGGER OHNE EINSATZ am 03.05.: Drei Einwechslungs-Tor-Trigger an einem Spieltag, KEIN Torschuetzen-Tipp drauf â€” Edge verschenkt. (1) Buendia 90\\' @ Aston Villa, kam fuer Sancho â€” wenn 'Sancho trifft' getippt waere, Boost-Trigger AKTIV (gewonnen via bet365-Regel). (2) Mkhitaryan 70\\' @ Inter, kam fuer Zielinski â€” wenn 'Zielinski trifft' getippt waere, Boost-Trigger AKTIV. (3) Ceesay 87\\' @ St. Pauli (Anschlusstor) â€” kam als Joker (vermutlich fuer Sahin/Eggestein) â€” wenn der jeweilige Tipp-Spieler getippt waere, Boost moeglich. Plus Mainoo 77\\' Game-Winner @ United. NEUE STRATEGIE-REGEL: Bei Top-Klubs mit Volume-Backup-Stuermer (Inter Lautaro/Thuram/Mkhitaryan-Rotation, Tottenham Buendia-/Joker-Rotation, Bayern Olise/Tel) AKTIV nach Torschuetzen-Tipps suchen, die ueber Boost-Mechanik laufen â€” Zielspieler-Quote 4.0+ mit hoher Auswechslungs-Wahrscheinlichkeit. Goldgrube 'Torschuetzen Jederzeit' steht im Markt-Aggregat bei +24.4% ROI (50% Hitrate, n=8) â€” passt zur These. Naechste Routine MUSS in BL/Serie A/PL pro Top-7-Mannschaft mind. 1 Torschuetzen-Tipp setzen, statt nur Sieg/DC/Total. ZUSATZ: 27.04.-Lesson zur Mechanik-Praezisierung (Tipp-Spieler MUSS ausgewechselt werden) bleibt â€” nur dann zaehlt Boost.",
+      "bezug_spiel_id": "2026-05-03-avl-tot"
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "NBA-G7-Heim-Court-Edge bestaetigt (5/6 Tipps + Heim-Spread-Cover)",
+      "lesson": "ERFOLGS-VALIDIERUNG NBA-Round-1-G7: 03.-04.05. zwei G7-Spiele, beide Heim-Team gewann + coverte Spread. Pistons 116:94 Magic (Spread -7.5 hochkant gecovert mit 22 Punkten Diff), Cavs 114:102 Raptors (Spread -8.5 mit 12 Punkten Diff gecovert). 5 von 6 G7-Tipps gewonnen (nur Toronto +8.5 verloren). Cunningham 32+12 in G7 nach 45-Punkte-G5 - Decider-Heim-Star-Pattern. NBA-G7-Bilanz heute = +49% ROI auf 6 Tipps (estimiert). NEUE REGEL: NBA-Playoffs-G7 ist Heim-Court-Goldgrube â€” Heim-Sieg + Heim-Spread-Cover beide hoehere Wahrscheinlichkeit als Linie suggeriert. ZUSATZ: 02.05.-Lesson 'NBA-G6 als Beobachtungs-Liga' (-45.6% ROI) wird NICHT auf G7 uebertragen â€” G7 ist statistisch sauberer wegen reiner Heim-Court-Mathematik (Heim-Team hat in 2026 alle G7 + meisten Decider gewonnen). Auch Round-1-G7 sollte als VALUE-Liga in der Routine wieder auftauchen, separat von G6-Beobachtung. Aktiv suchen: Round-2-G7 wenn anstehend, Heim-Sieg + Heim-Spread bevorzugt.",
+      "bezug_spiel_id": "2026-05-03-det-orl"
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "SAFE-Konstruktion #3: kein Heim-Top-7-Sieg-Outcome SAFE wenn Auswaerts-Underdog Saisonziel hat (Verschaerfung)",
+      "lesson": "EMPIRISCHE VERSCHAERFUNG der Lessons 03.05. (SAFE-Reality-Check #2 + Safe-Kombi-Konstruktion): Heute Safe-Kombi @ 2.97 verloren NUR wegen avl-tot-1 (Villa 1X @ 1.45) â€” andere 3 Beine (United 1X, Madrid X2, Bournemouth 1X) gewannen alle. Diagnose: Villa 1X war Heim-Top-7-Outcome gegen Tottenham-Abstiegszone-Underdog. Das ist genau die Anti-SAFE-Konstellation. SAFE-Trefferquote nach 03.05. weiter 71.2% (Soll 75-90%, ROI -4.7%) â€” der Hauptverlustquelle bleibt 'Heim-Top-7-DC oder -Sieg gegen voll-motivierten Auswaerts-Underdog'. NEUE HARTREGEL fuer SAFE-Label (additiv zu 03.05.-SAFE-Reality-Check #2): Heim-Team-DC oder -Sieg darf NUR dann SAFE sein, wenn (a) Heim-Team voll motiviertes Saisonziel (Titel/CL-Quali/Klassenerhalt-Druck) UND (b) Auswaerts-Team kein scharfes Saisonziel mehr (gerettet/Mid-Table) UND (c) keine UEFA-Doppelbelastung beim Heim-Team. Wenn EINER der drei Faktoren nicht erfuellt: max VALUE oder ueberspringen. Praktisch fuer naechste 4 Spieltage Mai 26: Heim-Team mit erreichtem Saisonziel + Auswaerts-Underdog mit Druck = Anti-SAFE. Spiegel-Edge (Auswaerts-Underdog DC X2 @ Quote 2.5+) als VALUE markieren. Diese Lesson ist hoechste Prioritaet fuer Tipps-Routine â€” sie loest die wiederholte SAFE-Unterperformance strukturell.",
+      "bezug_spiel_id": "2026-05-03-avl-tot"
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "NBA-Playoffs: Mapper-Haerter (Hebel B ROI-Sanierung)",
+      "lesson": "Bilanz Stand 04.05. NBA Playoffs Round 1: Game 6 = 7 Tipps / 28.6% Trefferquote / -45.6% ROI. Game 5 = 13 Tipps / 53.8% / -16.7% ROI. Lesson 26.04. (Player-Punkte-Boykott) greift zu schmal - auch Sieg/Spread/Total bluten. Schema-Mapper validate_nba_playoff() macht jetzt: (1) jedes NBA-Playoff-Spiel Kategorie SAFE automatisch auf VALUE. (2) Decider-Spiele (Game 5/6/7) Sieg/Spread/Total/DC automatisch auf WACKEL. Plus erweiterte validate_beobachtungs_liga(): Decider-Ligas (Regex 'NBA Playoffs ... Game 5/6/7' oder 'G5/G6/G7') werden IMMER als Beobachtungs-Liga behandelt - auch wenn die Auto-Erkennung wegen Sample-Groesse oder Liga-String-Variation versagt. Hintergrund: Defense-Adjustments, Verletzungspech, Blowout-Q4-Bank, Sweep-Druck und Ueberraschungs-Closeouts machen Decider-Varianz extrem. Routine-Disziplin allein hat versagt (siehe Lesson 26.04. - trotz Boykott rutschten Sieg/Spread-Tipps auf G6 durch).",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "SAFE-Reality-Check: Mapper-Confirm (Hebel C ROI-Sanierung)",
+      "lesson": "SAFE-Trefferquote war 04.05. nur 71.2% bei 52 Tipps - 4 Punkte unter Soll-Untergrenze von 75-90%. ROI auf SAFE -4.7%. SAFE-Label wurde von der Routine zu locker vergeben. Schema-Mapper validate_safe_confirm() bestaetigt SAFE jetzt nur wenn: (a) Markt-Typ in markt_goldgruben.json (z.B. Doppelte Chance 1X/X2, Torschuetzen Jederzeit) ODER (b) Liga in der neuen liga_goldgruben.json (aktuell Premier League, LaLiga, CL Halbfinale Hinspiel) ODER (c) Liga-Sample <5 Tipps (Datenmangel - z.B. DFB-Pokal HF mit n=4 und +46% ROI sollen nicht bestraft werden). Sonst SAFE -> VALUE. Liga-Goldgrube-Kriterium: ROI > 15% ODER (Trefferquote >= 65% UND ROI > 0%) bei n >= 5. Auto-generiert in scripts/statistik_berechnen.py:berechne_liga_goldgruben(). Damit haben SAFE-Tipps wieder echte Substanz statt 'fuehlt sich sicher an'-Label.",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "Saison-Kontext-Sanity: Mapper-Hebel S",
+      "lesson": "Lehre aus 03.05. BMG-BVB (Endstand 1:0 fuer BMG) + Freiburg-Wolfsburg (1:1): Routine recherchiert saison_kontext{} korrekt, ignoriert ihn dann bei der Kategorie-Vergabe. BMG-BVB: Routine schrieb selbst 'Klassenerhalt faktisch durch fuer BMG + Vize hinter uneinholbarem Bayern fuer BVB' und labelte trotzdem SAFE auf BVB-DC. Freiburg-Wolfsburg: Routine schrieb 'Edge daher kleiner als Heimstaerke suggeriert' und labelte trotzdem SAFE auf Freiburg-DC. Schema-Mapper validate_saison_kontext_sanity() degradiert jetzt SAFE/VALUE auf Sieg/DC/Spread eine Stufe runter wenn (a) saisonziel_heim/gast Komfort-Pattern enthaelt (gerettet, uneinholbar, ohne druck, klassenerhalt durch, mid-table gesichert, saisonziel erreicht), (b) motivations_asymmetrie Asymmetrie-Warnung (rotiert, edge kleiner als, doppelbelastung) oder (c) recovery-Felder Belastungs-Pattern (mude, ermuedung, recovery kritisch). Tor-Maerkte sind ausgenommen. Damit zwingt der Mapper die Routine-eigene Recherche in die Kategorie-Vergabe.",
+      "bezug_spiel_id": "2026-05-03-bmg-bvb"
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "Markt-Mix-Pflicht pro Spiel: Mapper-Hebel M",
+      "lesson": "Lehre aus 03.05. St.Pauli-Mainz (1:2 Mainz-Sieg auswaerts): Routine packte 3 rein defensive Tipps auf das Spiel - 'Unter 2.5 Tore' (verloren, 3 Tore), 'Mainz oder Unentschieden' (gewonnen aber Quote 1.30), 'Beide Teams treffen NEIN' (verloren). Bilanz Spiel: -2 Units in einem Spiel das Mainz klar gewann. Was gefehlt hat: Mainz-Sieg @ 2.0 (gewonnen), BTTS-Ja @ 1.65 (gewonnen), Mainz-Torschuetze (Goldgrube +24% ROI, ignoriert). Routine ist DC-suechtig, packt zu defensive Maerkte zusammen. Schema-Mapper validate_markt_mix() macht jetzt: (1) max 1 DC pro Spiel - mehrere DC-Tipps werden auf den hoechstpriorisierten reduziert. (2) Wenn ein Spiel KEINEN Sieg- und KEINEN Torschuetzen-Tipp hat (also nur DC/Total/BTTS-Defensiv-Mix), wird SAFE-DC auf VALUE downgegradet - kein offensives Edge-Signal = kein SAFE. Damit haben SAFE-DC-Tipps nur dann Substanz wenn die Routine im selben Spiel auch ein offensives Bein gefunden hat.",
+      "bezug_spiel_id": "2026-05-03-stp-mai"
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "PFLICHT-PROFILE pro Spiel: Backup-Spieler + Form-Edge (Hebel-MIX 04.05.)",
+      "lesson": "BEFEHL an die Tipps-Routine, kein Vorschlag. Pro Spiel folgendes pruefen + tippen:\n(1) Wenn Heim-Sieg-Quote < 1.80 ODER Auswaerts-Sieg-Quote < 2.20: MIN 1 Torschuetzen-Tipp auf den Top-Stuermer mit aktueller Form ist PFLICHT. Goldgrube Torschuetzen Jederzeit hat 50% Hitrate / +24.4% ROI - ist der profitabelste Markt im System.\n(2) Wenn Top-Stuermer ausfaellt (Verletzung/CL-Aus): BACKUP-Stuermer-Torschuetzen-Tipp ist PFLICHT. Beispiele: Real Madrid ohne Mbappe -> Vinicius. Bayern ohne Kane -> Mueller/Sane. Leverkusen -> Schick (Form). BVB Backup -> Adeyemi/Brandt. (3) Form-Recherche pro Heim-/Auswaerts-Favorit: WebSearch 'Spielername letzte Spiele Tore' oder kicker.de Spieler-Profil. 3+ Tore in 5 Spielen ODER 2+ in 3 -> Torschuetzen-Tipp Pflicht.\n(4) DC-CAP: max 1 DC pro Spiel, max 2-3 DC im gesamten Dossier. Wenn dein Set 4+ DCs hat, ersetze die schwaechsten durch Torschuetzen.\n(5) Coinflip-Spiele (alle 1X2-Quoten 2.40-3.50): KEIN SAFE moeglich.\nHintergrund Lehre 03.05.: Vinicius-Tipp komplett uebersehen obwohl Mbappe seit CL-Aus weg, St.Pauli-Mainz mit 3 defensiven Tipps -2 Units bei klarem Mainz-Sieg, BVB-DC SAFE obwohl Routine selbst 'uneinholbar Bayern + Mid-Table ohne Druck' schrieb. Die Tipps die GEFEHLT haben waren Sieg + Torschuetze + Backup-Spieler. Mapper-Hebel M downgraded jetzt SAFE-DC wenn kein Sieg- und kein Torschuetzen-Tipp im Spiel ist.",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "META: Differenziertes Lernen statt Markt-Boykott",
+      "lesson": "User-Feedback 04.05.2026 (wichtig fuer Stil): Wenn ein Markt-Typ ueber 2-3 Tage schlecht laeuft, ist die Lehre NICHT 'Markt-Typ komplett aus Einzeltipps streichen'. Das ist Loeschen, nicht Lernen. Differenzierte Auswertung erforderlich. Beispiele:\n(1) NBA-Player-Punkte 22.-26.04. -46% ROI -> falsche Lehre 'Player-Punkte komplett raus'. Richtige Lehre: 'Underdog-Player bei Spread > 8 max WACKEL (Blowout-Q4-Bank); Heim-Top-Stars bei Spread < 5 + Form-Edge bleiben SAFE/VALUE-faehig'.\n(2) DD/TD nach Banchero-Beispiel 22.04. -> falsche Lehre 'DD raus aus Einzeltipps'. Richtige Lehre: 'DD nur wenn beide Stats (meist Pkt + Reb) realistisch 10+ Schnitt in letzten 5 Spielen, nicht bei Saisonschnitt-Streuung'.\n(3) NBA-Playoffs Round 1 -> falsche Lehre 'NBA-Playoffs nie SAFE'. Richtige Lehre: 'Decider G5/G6/G7 - Sieg/Spread/Total/DC max WACKEL (Closeout-Varianz). G1-G4 + Conference Finals + NBA Finals SAFE-faehig wenn klare Edge (Form, Spread, Defense-Match-up).'\nGenerelles Prinzip: Verlust-Pattern analysieren (welche Sub-Kategorie blutet?) statt pauschal blockieren. Mapper-Hebel B v2 04.05.: NBA-Playoff-Filter differenziert - nur Decider gefiltert, G1-G4 frei.",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "NBA Player-Punkte: Differenzierte Regel statt Boykott",
+      "lesson": "Korrektur des 26.04.-Boykott. Player-Punkte sind nicht generell raus, sondern differenziert nach Spielsituation:\nERLAUBT als VALUE/SAFE-faehig: Heim-Top-Stuermer eines Top-Teams bei Spread <= 5 Pkt UND Form-Edge (15+ Pkt in 3 von 5 letzten Spielen). Beispiel: Tatum @ Boston vs Underdog -3.5 Heim, letzte 5 mit 24/22/19/27/21 Pkt -> Ueber 21.5 SAFE/VALUE OK.\nMAX WACKEL bei: Underdog-Team-Player bei Spread > 8 (Blowout-Q4-Bankdruecker), Star-Out-Backup ohne Form-Beleg, Player vor Decider G5/G6/G7 (Defense-Adjustments).\nKOMPLETT RAUS bei: Player-Props ueber Saison-Schnitt-Linien des Underdogs in Auswaerts-Spielen (Underdog-Risiko + Auswaerts-Risiko + Saison-Linien-Bias = kombinierter Bluter-Pattern, war 23.04.-Lesson Bane/Wagner).",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "NBA DD/TD: Differenzierte Regel statt Boykott",
+      "lesson": "Korrektur. DD/TD nicht pauschal in Risiko/Moonshot abschieben, sondern: Erlaubt als VALUE wenn BEIDE Stats des DD-Markts (meist Pkt + Reb oder Pkt + Ast) in den letzten 5 Spielen Schnitt 10+ haben. Beispiel: Jokic Pkt+Reb DD - wenn letzte 5 Pkt-Schnitt 28 + Reb-Schnitt 12 -> DD VALUE OK. Wenn nur eine Stat konsistent (z.B. 25 Pkt aber Reb-Range 4-15 mit Schnitt 8) -> DD max WACKEL. Reference Lesson 23.04. Banchero 18/6/8: Schnitt 21/8 fuehrt nicht zu konsistentem DD weil Reb-Streuung zu gross. Triple-Double identisch + ALLE drei Stats geprueft.",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "Kasse-Stand: 550â‚¬ (zentral in data/kasse.json)",
+      "lesson": "Aktuelle Kasse bei bet365: 550â‚¬ (Stand 04.05.2026). Zentral in data/kasse.json gepflegt - bei jeder Aenderung dort updaten. Routinen sollen vor jedem Lauf data/kasse.json lesen und konkrete Euro-Werte in begruendung einbauen.\nStandard-Einsatz-Prozente x 550â‚¬:\n- SAFE/VALUE einzeln (1.5-2%): 8,25-11â‚¬\n- WACKEL einzeln (0.5%): 2,75â‚¬\n- Safe-Kombi (2%): 11â‚¬\n- Balance-Kombi (0.8%): 4,40â‚¬\n- Risiko-Kombi (0.25%): 1,40â‚¬\n- Moonshot-Kombi (0.1%): 0,55â‚¬ (oder 1-2â‚¬ Spasseinsatz wenn Quote 1000x+)\nDie Routine darf in begruendung schreiben 'Empfohlener Einsatz: 8,25â‚¬ (1,5% der 550â‚¬-Kasse)'. NIE mit veralteten 100â‚¬-Beispielen rechnen.",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "Kasse-Stufen-Modell + Auszahlungs-Strategie (User-Plan 04.05.)",
+      "lesson": "User-Plan 04.05.2026: Kasse-Aufbau in 2 Stufen + Profit-Skim.\nSTUFE 1 (Kasse < 1000â‚¬, aktuell 550â‚¬): Konservativ 1-2% pro Einzeltipp. Aufbau-Phase, kein Risiko. Routinen empfehlen 5,50-11â‚¬ pro SAFE/VALUE-Einzel.\nSTUFE 2 (Kasse >= 1000â‚¬): User will 100â‚¬-Einzeltipps auf solide 1.80-2.30-Quoten (=10% bei 1000â‚¬ Kasse, =5% bei 2000â‚¬ Kasse). Half-Kelly bei ~60% Trefferquote. VORAUSSETZUNG: rolling 30 Tage ROI > +5% laut statistik.json. Bei -3% ROI bleibt Stufe 1 aktiv selbst bei 2000â‚¬ Kasse - Aggressivitaet ohne Edge = Selbstmord.\nAUSZAHLUNGS-TRIGGER: jedes Mal wenn Kasse >= 1000â‚¬ + 200â‚¬ -> 200â‚¬ auszahlen, Basis bleibt 1000â‚¬. Sichert echten Profit, kein Papier-Geld im Konto.\nRoutinen MUESSEN: (1) data/kasse.json vor jedem Lauf lesen, (2) aktuelle_stufe bestimmen (Kasse + 30d-ROI), (3) Einsatz-Empfehlung je Stufe in begruendung schreiben mit konkreten Euros, (4) Auszahlungs-Hinweis im Dossier-hinweis-Feld wenn Kasse >= 1200â‚¬.",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "AUTO-PATTERN: NBA Playoffs Round 1, Game 5 / NBA-Player-Punkte / value - 75% Verlust (3/4)",
+      "lesson": "Auto-erkannter Verlust-Cluster Stand 2026-05-04: in Liga 'NBA Playoffs Round 1, Game 5' wurden 4 VALUE-Tipps auf Markt-Kat 'NBA-Player-Punkte' platziert, davon 3 verloren (75%). Empfehlung: diesen Cluster in den naechsten Lauefen NICHT mehr als VALUE - max eine Stufe runter (safe->value, value->wackel) bis Verlust-Quote < 50%. Beispiele: 2026-04-27 Denver Nuggets - Minnesota Timberwolves (Unter 222.5 Punkte (Total)) -> Nuggets 125:113 Wolves (Serie 3-2); 2026-04-28 Boston Celtics - Philadelphia 76ers (Beide Teams Mehr als 100 Punkte) -> ?; 2026-04-29 Detroit Pistons - Orlando Magic (Unter 211.5 Punkte (Total)) -> Pistons 116:109 Magic",
+      "bezug_spiel_id": null,
+      "auto_generiert": true
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "AUTO-PATTERN: Reine Defensiv-Cluster trotz Hebel M",
+      "lesson": "4 Spiele in den letzten 7 Tagen mit 3+ defensiven Tipps (DC/Total/BTTS) und 0 offensiven Tipps (Sieg/Torschuetze). Hebel M sollte das eigentlich abfangen - Mapper-Pattern erweitern oder Routine-Disziplin verschaerfen. Beispiele: 2026-04-30 Nottingham Forest - Aston Villa (3x defensiv, 0 offensiv) -> 2 verloren (?); 2026-05-02 Werder Bremen - FC Augsburg (3x defensiv, 0 offensiv) -> 4 verloren (1:3); 2026-05-02 1. FC Union Berlin - 1. FC Koeln (3x defensiv, 0 offensiv) -> 2 verloren (2:2)",
+      "bezug_spiel_id": null,
+      "auto_generiert": true
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "HR1: bet365-Quote PFLICHT direkt verifiziert (nicht Aggregator)",
+      "lesson": "EMPIRIE 04.05. Chelsea-Forest 1:3: App rechnete Aggregator-Quote 1.73 fuer Chelsea-Sieg, bet365 hatte aber 1.39 (-25% Differenz). Phantom-VALUE auf Chelsea-DC, Forest-Sieg @ 7.00 (Aggregator nur 4.50) komplett uebersehen. Verlust 16.66 Euro bei einem Spiel das mit korrektem Quoten-Check Gewinn 80 Euro+ gewesen waere. HARTREGEL: Vor jedem Tipp bet365-Quote DIREKT verifizieren via WebSearch 'bet365 [heim] vs [gast] odds' oder WebFetch bet365-Mobile. JSON-Pflichtfelder pro Tipp: quote_bet365, quote_aggregator, quote_diff_prozent, quote_source. Wenn |quote_diff_prozent|>10%: (a) Sieg-Markt: bet365=Wahrheit, Edge neu rechnen. (b) Tor/Total: max WACKEL. (c) Begruendung MUSS beide Quoten + Differenz nennen. bet365 DE hat oft Heim-Favoriten-Bias - das ist die EDGE-QUELLE wenn man bet365-Quote echt kennt.",
+      "bezug_spiel_id": "2026-05-04-che-nfo"
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "HR2: Anti-Heim-Bias bei Form-Realitaet (Mapper-Hebel HF)",
+      "lesson": "EMPIRIE 04.05. Chelsea-Forest 1:3 Heim-Pleite: Chelsea Heim-Favorit @ 1.73 mit 5 Heim-Pleiten Serie + 8 Pleiten in 12 + 5 Heimspielen ohne eigenes Tor. Forest auswaerts 9 Spiele unbesiegt + 8/8 PL-Auswaertsspielen mit eigenem Tor. App labelte trotzdem Chelsea-DC VALUE + Palmer-Tor VALUE. Beide tot. HARTREGEL validate_heim_form(): Wenn heim_form_letzte_5 enthaelt 3+ Niederlagen ODER heim_serie 3+ Heimpleiten Folge ODER heim_tore_letzte_5<4 (Sturm-Krise) -> Heim-Sieg/-DC/-Torschuetzen-Tipp KOMPLETT SKIPPEN (nicht downgrade), Spiegel-Tipp Underdog-Auswaerts-DC/-Sieg als VALUE generieren. Tor-Aggregat-Tipps (BTTS/Ueber/Unter) bleiben unberuehrt. Pflichtfelder im saison_kontext: heim_form_letzte_5, gast_form_letzte_5, heim_serie, gast_serie, heim_tore_letzte_5, gast_tore_letzte_5.",
+      "bezug_spiel_id": "2026-05-04-che-nfo"
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "HR3: Joker-Stuermer statt Top-Stuermer bei UEFA-Doppelbelastung",
+      "lesson": "EMPIRIE 04.05. Chelsea-Forest: App-Begruendung schrieb SELBST 'Wood koennte rotiert werden wegen EL-Rueckspiel 4 Tage spaeter'. Trotzdem Wood @ 3.50 als WACKEL getippt, NICHT der Joker. Awoniyi (Forest-Backup-Stuermer in Doppelspitze mit Igor Jesus) NICHT als Tipp-Kandidat. Awoniyi traf DOPPELT @ 4.00. HARTREGEL: Wenn parallel_heim/gast UEFA-Spiel <4 Tage UND motivations_asymmetrie 'rotier'-Token UND recovery-Belastung: (1) Top-Stuermer-Tipp max WACKEL, NIE VALUE/SAFE. (2) WebSearch 'predicted XI [Team] [Datum]' aktiv suchen. (3) Backup-Stuermer Quote 3.5-6.0 -> VALUE-Label, Begruendung 'Boost-Setup ueber bet365-Auswechslungs-Mechanik'. (4) Bei Doppelspitze: den unbeliebteren (= hoehere Quote) als VALUE. Ausnahme: Final-Spiele/Decider ohne Rueckspiel-Druck.",
+      "bezug_spiel_id": "2026-05-04-che-nfo"
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "HR4: Story-Konflikt-Check verschaerft (Hebel S v2)",
+      "lesson": "EMPIRIE 04.05. Chelsea-Forest + 03.05. BMG-BVB + Freiburg-Wolfsburg: Routine schreibt Begruendung mit klaren Konflikt-Tokens, labelt Tipp trotzdem hoch. Bestehender Hebel S faengt nur 'edge kleiner als'/'eher 50/50' ab - nicht konkrete Pattern. HARTREGEL validate_story_konflikt() Erweiterung scannt begruendung[]: (a) Tipp Heim-Sieg/-DC + Begruendung enthaelt 'Pleiten-Serie'/'Heim-Krise'/'X Spiele ohne Sieg'/'rotier' -> max WACKEL. (b) Tipp Top-Stuermer-Tor + Begruendung enthaelt 'rotier'/'ausgewechselt'/'Auswechslungs-Wahrscheinlichkeit hoch' -> max WACKEL. (c) Tipp Auswaerts-Underdog-Niederlage (kein Underdog-Tipp gesetzt) + Gast-Begruendung '9 Spiele unbesiegt'/'Form-Edge' -> Spiegel-Tipp pruefen. (d) SAFE + Begruendung 'Saisonziel erreicht'/'gerettet'/'uneinholbar'/'kein Druck mehr' beim getippten Team -> max VALUE. Keine Ausnahme.",
+      "bezug_spiel_id": "2026-05-04-che-nfo"
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "HR5: Markt-Familie-Diversitaet pro Spiel (max 2 pro Familie)",
+      "lesson": "EMPIRIE 04.05. Chelsea-Forest hatte 4 Tipps - 3 davon Tor-bezogen (Palmer, Wood, BTTS). Wenn Chelsea nicht trifft sterben 2-3 Tipps gleichzeitig. Korrelations-Risiko in einem Spiel. HARTREGEL validate_markt_familie() pro Spiel max 2 Tipps aus derselben Markt-Familie: A: Sieg/DC/Doppelchance/Handicap (Outcome). B: Tor jederzeit/1.Torschuetze (Spieler-Tor). C: BTTS/Ueber-Unter Tore-Total/HZ-Tore (Tore-Aggregat). D: HZ-Sieger/HZ-ES-Kombi/Erste-Halbzeit-Tore (HZ). E: NBA Player-Punkte/DD/TD. F: NBA Spread/Quarter. Bei 4 Tipps pro Spiel: 1A+1B+1C+1D (oder NBA E/F). Bei <4 Spielen am Tag (Schmal-Tag): Diversitaets-Regel auf 3 pro Familie aufweichen.",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "HR6: Auswaerts-Form-Auto-VALUE-Detektor",
+      "lesson": "EMPIRIE 04.05.: Forest 9 Spiele unbesiegt + 8/8 PL-Auswaertsspielen mit eigenem Tor + 6 Auswaertssiege Saison. App hat Forest-Sieg-Tipp NICHT gesetzt. Stattdessen Chelsea-DC. Forest-Sieg @ 7.00 endete als Treffer. HARTREGEL validate_auswaerts_auto_value(): Wenn gast_form (a) >=6 Spiele unbesiegt UND (b) >=6 Auswaertsspiele mit eigenem Tor UND (c) Saisonziel-Druck (CL-Quali/EL-Quali/Klassenerhalts-Pflicht) -> AUTO-VALUE-Tipp Gast-Sieg ODER Gast-DC X2 ODER Gast-Top-Stuermer-Tor mit Quote 2.5+ generieren, Einsatz 0.5-1.0%, in einzeltipps[] + Risiko-Kombi. Pflichtfelder: gast_unbesiegt_serie (int), gast_auswaerts_tor_serie (int), gast_saisonziel_druck (bool). Ausnahme: Top-vs-Top wo beide Kriterien erfuellen.",
+      "bezug_spiel_id": "2026-05-04-che-nfo"
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "HR7: NBA Player-Punkte mit Verletzungs-Realismus + Spread-Cap",
+      "lesson": "EMPIRIE Player-Punkte historisch -46.2% ROI / 29.4% Hitrate. Lesson 04.05. fr Boykott aufgehoben mit 'differenziert erlaubt' bei Heim-Top + Form + Spread<=8. Aber Wemby-Tipp 'Mehr als 24.5' bei Spread -13.5 = klares Blowout-Risiko. Im aktuellen Set als VALUE gelabelt - widerspricht der Lesson. HARTREGEL: Player-Punkte nur bei ALLEN Bedingungen: (a) Spread <=7.5 Pkt (kein Blowout-Risiko ab 8+). (b) Spieler in Round-1-Serie konstant 80%+ Linie ueberschritten. (c) Linie = Saison-Schnitt -2.0 oder niedriger (Markt unterschaetzt). (d) Keiner der 3 Top-Defender matchup-spezifisch. (e) Spieler-Status aktiv/startet verifiziert <2h vor Tip-off. Wenn nicht ALLE erfuellt -> max WACKEL, Einsatz max 0.25%. Player-Punkte NIE in Safe-Kombi, max 1x in Risiko-Kombi. Konkret heute: Wemby Spread -13.5 = max WACKEL nicht VALUE. Brunson Spread 7.5 = grenzwertig WACKEL OK.",
+      "bezug_spiel_id": "2026-05-05-spu-min"
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "HR8: NBA Round-2-G1 Spread-Cap bei extremen Spreads",
+      "lesson": "EMPIRIE NBA G6/G7-Bilanz: G6 -45.6% ROI (Decider-Druck), G7 +49% ROI (Heim-Court). G1 Round 2 'frei' aber problematisch bei extremen Spreads. Bei Spread >=10 ist Sieg-Hitrate hoch (75%+) ABER Spread-Cover unsicher (50-55%) - Underdog-Spread oft VALUE. HARTREGEL G1 Round 2 Spread >=10: (a) Heim-Sieg ML max VALUE (oft Quote 1.20-1.25 = wenig Edge bei 75% Hitrate, Einsatz reduziert 0.5-1.0%). (b) Heim-Spread NIE SAFE/VALUE bei Spread >=10. (c) Ueber/Unter Total wackelig bei Garbage-Time. (d) Spurs-Wolves heute: Spurs ML @ 1.22 = OK VALUE 1%, aber Spurs -13.5 waere WACKEL nicht VALUE. Konsistent. Ausnahme: G1 ohne extreme Spread (<8) = normale Regeln.",
+      "bezug_spiel_id": "2026-05-05-spu-min"
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "HR9: Drehungs-Cluster-Tag-Filter (Quelle 8f)",
+      "lesson": "EMPIRIE 04.05.: 3 Drehungen am Tag aus volle_analyse[]: Everton-City (City 0:1->3:1->3:3 Doppel-Drehung via Doku 90+7'), Cremonese-Lazio (Heim 1:0->1:2 in Stoppzeit), Spurs-Wolves G1 (19 Lead-Wechsel + Auswaerts-Knapp-Sieg trotz -13.5-Heim-Spread). Bei Kurz-Quoten-Sieg-Tipps an dem Tag: City-Sieg @ 1.51 verloren (3:3 Remis), Spurs-ML @ 1.22 verloren (Wolves 104:102) = 0/2 Hit bei Quote <=1.55. HARTREGEL validate_drehung_cluster() (taeglich nach Auswertung): Wenn drehung.war_drehung==True bei >=3 Spielen am Tag (ueber alle volle_analyse[]), dann fuer naechste 3 Tage werden alle Sieg-Tipps mit Quote <=1.55 + Spread >=10 von SAFE/VALUE auf wackel degradiert. Auch: 'Top-Team-Auswaerts-Sieg-Quote <=1.55' triggert pre-game-Drehungs-Sanity-Check (Heim-Form letzte 3 Spiele, Heim-eigenes-Tor-Quote). Drehungen sind nicht random sondern Edge-Indiz fuer ueberbewertete Favoriten.",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "HR10: Top-Team-Auswaerts-Krise-Heim-Klub-Falle (Quelle 8g)",
+      "lesson": "EMPIRIE 04.05. Everton-City (Beobachtung aus volle_analyse): City Auswaerts-Favorit @ 1.51 vs Everton (Mid-Table, kein Saisonziel mehr) - City fuehrte 0:1 zur Pause, Everton drehte auf 3:1 in 13 Minuten via Barry-Doppelpack. Klassisches 'Top-Klub-Auswaerts-mit-Liga-Druck-vs-Mid-Table-Heim-Befreit-Aufspielen'-Pattern. Annahme 'Mid-Table-Heim-Klub ohne Saisonziel = leichter Gegner' war Markt-Falle - vor eigenem Publikum spielen sie befreit auf, oft offensiver als wenn sie noch Punkte brauchen. HARTREGEL validate_top_team_auswaerts(): Top-Team-Auswaerts-Sieg-Tipp mit Quote <=1.55 nur SAFE/VALUE wenn ALLE: (a) Heim-Klub <= 35 Punkte ODER Heim-Form-Niederlagen-Serie >= 3 ODER kein eigenes Tor in letzten 3 Heim-Spielen. Sonst max WACKEL. Mid-Table-Heim-Klub vor Saisonende = AUTO-WACKEL bei Top-Team-Auswaerts-Sieg-Tipp <=1.55. Boostet auch Auswaerts-DC X2-Profile als VALUE statt reinem Sieg-Tipp.",
+      "bezug_spiel_id": "2026-05-04-eve-mci"
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "HR11: Beobachtungs-Liga Soft-VALUE bei klarem Klassen-Edge (Quelle 8g)",
+      "lesson": "EMPIRIE 04.05. Roma-Fiorentina (BEOBACHTUNGS-LIGA, 0 Stake): Roma 4:0 zur Pause (3:0 nach 34 Min, Tor-Schuetzen Mancini, Wesley, Hermoso, Pisilli) - klassisches Heim-EL-Druck-Klub vs Mid-Table-ohne-Saisonziel-Klub-Pattern. Auto-Markt-Resultate: BTTS NEIN, Ueber 3.5 erreicht, Heim-zu-null. Tipps-Routine hatte das Spiel als 0-Stake gesetzt (Beobachtung), aber das Pattern war so klar dass ein 0.5%-Stake gerechtfertigt waere. HARTREGEL validate_beobachtung_soft_value(): Auch in Beobachtungs-Liga 1 VALUE-Tipp mit max 0.5% Stake erlaubt wenn ALLE: (a) Heim-Klub Top-6 mit aktivem CL-/EL-Quali-Druck (Pflicht-Sieg-Konstellation), (b) Gast-Klub Mid-Table-/Bottom-Half OHNE eigenes Saisonziel + ohne UEFA-Doppelbelastung, (c) Heim-Form letzte 3 mit Sieg + eigenem Tor. Tipp dann in einzeltipps[]+kombis[]-Set mit Beobachtungs-Marker. Damit beobachtungs_ligen.json-Filter nicht alle EV-Quellen aus Bluter-Ligen abschneidet - selektive Reaktivierung statt totaler Sperre.",
+      "bezug_spiel_id": "2026-05-04-rom-fio"
+    },
+    {
+      "datum": "2026-05-04",
+      "kategorie": "HR12: Joker-Stuermer-Profil bei Klassenerhalts-Heim-Spielen (Quelle 8i)",
+      "lesson": "EMPIRIE 04.05. Sevilla-Sociedad (volle_analyse einwechslungs_tor_highlights[]): Alexis Sanchez (37J, etablierter Joker) kam HZ-Pause rein, schoss 50. Min das einzige Tor zum 1:0-Klassenerhalts-Sieg fuer Sevilla. Tipps-Routine hatte Torschuetzen-Tipp auf OYARZABAL (Sociedad-Auswaerts) gesetzt - kein Sevilla-Spieler. Joker-Trigger AKTIV ohne Tipp drauf - genau das Pattern Lesson 8i. HARTREGEL validate_joker_profile(): Bei Klassenerhalts-Heim-Spielen (Heim-Klub Abstiegszone bzw <=2 Punkte ueber Strich, MUSS-Sieg) wenn Kader etablierten Joker-Stuermer hat (z.B. Sanchez bei Sevilla, Pellegri-Profil bei Empoli, Choupo-Moting-Profil bei Bayern, Origi-Profil) -> AUTO-Torschuetzen-Tipp Joker-Spieler Quote >=4.0 als wackel mit 0.25% Stake. Pflichtfeld im saison_kontext: 'joker_profile_heim'/'joker_profile_gast' (Spieler-Name + Saisontore + erwartete Bookies-Quote). Wenn n>=3 Joker-Tipps zukuenftig getrackt -> Markt-Aggregat 'Klassenerhalt-Joker' eigenes Bilanz-Aggregat in statistik.json.",
+      "bezug_spiel_id": "2026-05-04-sev-rso"
+    },
+    {
+      "datum": "2026-05-05",
+      "kategorie": "HR13: NBA Round-2-G1 Total-Adjustment-Phase (Quelle 8g â€” Markt-Pattern aus volle_analyse)",
+      "lesson": "EMPIRIE 05.05. (volle_analyse markt_resultate[]): Beide Round-2-G1-Spiele klar UNTER der Markt-Erwartung. Pistons-Cavs Final 212 Pkt vs Linie 214,5 (knapp unter, war Tipp 'Ueber 214,5' VERLOREN). OKC-Lakers Final 198 Pkt vs Linie 213,5 (-15,5 Pkt unter, war Tipp 'Ueber 213,5' im kombi-safe VERLOREN â€” Killer-Bein). Pattern: G1-Adjustment-Phase mit Defense-Fokus dampft Pace systematisch. HARTREGEL: Bei NBA-Round-2-G1 (also Best-of-7-Auftakt nach Round-1) Total-Tipps NUR auf 'Unter' als VALUE moeglich, 'Ueber' wird auf max wackel degradiert. Mapper-Hebel B-Erweiterung: round_2_g1_total_only_under(). Wenn n>=3 Round-2-G1-Total-Tipps getrackt -> eigenes Bilanz-Aggregat 'NBA-G1-Total' fuer Anpassungs-Empirie.",
+      "bezug_spiel_id": "2026-05-05-okc-lal"
+    },
+    {
+      "datum": "2026-05-05",
+      "kategorie": "HR14: Korrelations-Klumpung Star-Out-Spiel ueber mehrere Kombis (Quelle 8a â€” Korrelations-Analyse)",
+      "lesson": "EMPIRIE 05.05.: Alle 4 Kombis verloren â€” Klumpung im OKC-Lakers-G1-Spiel (Doncic-OUT, Spread 15,5). kombi-safe-Kill-Bein war 'Ueber 213,5' (verloren), kombi-balance-Kill-Bein war 'SGA Ueber 31,5' (verloren), kombi-risiko enthielt 'Lakers +10,5 Spread' (verloren). 3 von 4 Kombis hatten ein OKC-Lakers-Bein, davon 3 verloren â€” das Star-Out-Spiel hat keine Total/Player/Spread-Stabilitaet (Blowout-Realitaet). HARTREGEL: Bei Spielen mit Star-Out-Asymmetrie (Quote-impliziter Spread >= 15) maximal 1 Kombi-Bein aus dem Spiel ueber alle Kombis hinweg setzen â€” sonst Klumpungs-Risiko. Mapper-Hebel V (Variance-Cluster): pruefe pro Spiel die Anzahl Kombi-Beine, wenn >=2 Kombis ein Bein im selben Star-Out-Spiel haben -> ein Bein ersetzen mit Bein aus diversifiziertem Markt.",
+      "bezug_spiel_id": "2026-05-05-okc-lal"
+    },
+    {
+      "datum": "2026-05-05",
+      "kategorie": "HR15: Arsenal-CL-Heim-Defensiv-Mauer Goldgrube 'Unter 2.5' (Quelle 8g â€” markt_resultate ueber Spiel-Reihe)",
+      "lesson": "EMPIRIE 05.05. + 7 vorherige CL-Spiele: Arsenal hat nun 6/6 letzte CL-Heimspiele Unter 2.5 (5/6 zu null, 5/6 Heim-Sieg + 1 1:0 heute). Pattern volle_analyse markt_resultate[] zeigt Arsenal-CL-Heim als Defensiv-Goldgrube. Tipps-Routine hatte heute 'Ueber 3.5 Tore' @ 5.0 als Moonshot gesetzt (verloren) â€” strukturell falsch fuer Arsenal-CL-Heim-Pattern. HARTREGEL: Bei naechstem Arsenal-CL-Heimspiel (CL-Finale 30.05. wenn Heim-Status, ggf. ab CL-Saison 26/27) 'Unter 2.5 Tore' als VALUE/SAFE-Goldgrube setzen + 'Ueber X' Markt komplett DOWNGRADE. Allgemein: bei Klubs mit dokumentiertem 'Wettbewerbs-spezifisches-Defensiv-Pattern' (n>=5 Spiele Unter X im selben Wettbewerb) MUSS Tipps-Routine das in saison_kontext-Block 'wettbewerbs_pattern' ausweisen + Mapper triggert auto-DOWNGRADE Ueber-Tipps.",
+      "bezug_spiel_id": "2026-05-05-ars-atm"
+    },
+    {
+      "datum": "2026-05-05",
+      "kategorie": "HR16: NBA-Player-Punkte Round-Wechsel-Defensiv-Korrektur (Quelle 8c â€” Markt-Bilanz-Cluster)",
+      "lesson": "EMPIRIE 05.05.: 3/3 NBA-Player-Punkte-Tipps verloren â€” SGA 18 vs Linie 31,5 (-13,5), Cunningham 23 vs Linie 25,5 (-2,5) + 30,5 (-7,5). System-Aggregat 'Spieler-Punkte Ueber (NBA)' jetzt n=12 / 50% Hit / -7,8% ROI (vor 05.05.: 9 / ~67% / +14%). Cunningham Round-1-Schnitt 32,4 PPG vs heute 23 = -9 Pkt; Cavs-Defense Top-10 vs Magic-Defense Bottom-10 in Round 1 = klassische Round-Wechsel-Defensiv-Korrektur. HARTREGEL: NBA-Player-Punkte-Linie bei Round-Wechsel auf staerkeres Defense-Team gegen Round-1-Wert um -3 bis -5 Pkt korrigieren BEVOR der Markt-Punkte-Tipp erwogen wird. Wenn Linie nicht mindestens -3 Pkt unter Round-1-Schnitt steht -> kein Tipp setzen (Linie zu hoch). Mapper-Hebel P-Erweiterung: round_wechsel_defense_korrektur(spieler, round1_avg, gegner_def_rang) -> wenn delta < 3 -> Tipp drop.",
+      "bezug_spiel_id": "2026-05-05-det-cle"
+    },
+    {
+      "datum": "2026-05-07",
+      "kategorie": "HR17: Safe-Kombi-Korrelations-Falle bei 3 Sieg-Beinen (Quelle 8a â€” Korrelations-Analyse)",
+      "lesson": "EMPIRIE 06.05.: Safe-Kombi mit 3 reinen Sieg-Beinen (Bayern + Knicks ML + Spurs ML) verloren â€” 1 Bein (Bayern 1:1) reichte zum Komplett-Verlust trotz 2/3 Sieg-Beinen Treffer. Bayern war hoechstes Risiko-Quote-Bein (1.85 vs Knicks 1.37 / Spurs 1.22) und exakt das ist ausgefallen. Gesamt-Quote 3.09 wurde zu 0.0. Pattern: 3 Sieg-Beine in Safe-Kombi sind ueber-korreliert auf das schwaechste-impliziert-Wahrscheinlichkeits-Bein. HARTREGEL: Safe-Kombi maximal 2 Sieg-Beine + 1 abweichende Outcome (Total/DC/Spread/Torschuetze). Wenn nur 2 Sieg-Beine verfuegbar reicht das. Pflicht-Diversifikation Layer-2-Stufung: nicht 3x gleicher Outcome-Typ. Mapper-Hebel S (Safe-Kombi-Builder): max_sieg_beine=2, fallback_outcome={'DC','Total_Unter','Torschuetzen_Top'} priorisiert.",
+      "bezug_spiel_id": "2026-05-06-bay-psg"
+    },
+    {
+      "datum": "2026-05-07",
+      "kategorie": "HR18: NBA G2-Reaktions-Spike kippt Round-2-Total-Defensiv-Pattern (Quelle 8g â€” Markt-Pattern aus volle_analyse)",
+      "lesson": "EMPIRIE 06.05. (volle_analyse markt_resultate[]): Spurs-Wolves G2 Total 228 Pkt (133:95) â€” weit UEBER 215.5-Linie und +22 Pkt vs G1-Total (206). Spurs verloren G1 zuhause 102:104, kamen mit Reaktions-Spike-Eskalation zurueck. HR13-Defensiv-Pattern (G1-Adjustment) loesst sich auf, sobald Heim-Favorit Reaktions-Pflicht hat. Knicks-76ers G2 mit 210 Pkt knapp unter 215.5 (HR13 hielt da, weil Knicks bereits G1 dominierten â€” kein Reaktions-Druck). HARTREGEL: G2-Total-Tipps differenziert: (a) wenn Heim-Favorit G1 verloren hat -> 'Unter'-Linie NICHT setzen, max 'Ueber' als Wackel oder kein Total-Tipp; (b) wenn Heim-Favorit G1 gewonnen hat -> HR13 weiter aktiv, 'Unter' als VALUE moeglich. Mapper-Hebel T (Total-G2): pruefe G1-Heim-Outcome; wenn loss -> reaktions_spike_aktiv=True -> Unter-Tipp drop, Ueber max wackel.",
+      "bezug_spiel_id": "2026-05-06-sas-min"
+    },
+    {
+      "datum": "2026-05-07",
+      "kategorie": "HR19: NBA-Spread-Cover knappes Margin-Risiko (Quelle 8b â€” Knappe Verluste)",
+      "lesson": "EMPIRIE 06.05.: Knicks -6.5 Spread @ 1.91 verloren â€” Knicks gewannen exakt mit 6 Punkten (108:102), 0.5 unter der Linie. Spread-Aggregat 'Spread/Handicap' bleibt zwar Goldgrube (+20.5% historisch), aber 0.5-Margen-Niederlagen haben einen kumulativen Effekt: 2 von 5 letzten -6.5/-7.5-Spread-Tipps verloren mit weniger als 1.0 Punkt Margin. HARTREGEL: NBA-Playoff-Spread bei -6.5 oder -7.5 zusaetzlicher Risiko-Check: pre-game G1-Spread-Margin pruefen â€” wenn G1 mit weniger als 7 Pkt entschieden wurde, ist G2-Spread-Cover ueber 6.5 fragil. Stattdessen ML mit reduziertem Stake oder -3.5/-4.5-Linie bevorzugen. Mapper-Hebel F-Erweiterung: spread_margin_check(g1_margin) -> wenn g1_margin < 7 und g2_spread_linie >= 6.5 -> Tipp auf wackel statt VALUE.",
+      "bezug_spiel_id": "2026-05-06-nyk-phi"
+    },
+    {
+      "datum": "2026-05-07",
+      "kategorie": "HR20: CL-K.O.-Rueckspiel-Tor-Reduzierung nach Hinspiel-Festival (Quelle 8g â€” Markt-Pattern)",
+      "lesson": "EMPIRIE 06.05.: Bayern-PSG Hinspiel 4:5 (9 Tore), Rueckspiel 1:1 (2 Tore). 'Mehr 2.5 Tore'-Tipp 1.40 verloren â€” Hinspiel-Tor-Festival war KEIN Indikator fuer Rueckspiel. Pattern: Bei CL-K.O.-Rueckspielen mit grossem Hinspiel-Total (>=7 Tore) korrigiert sich das Rueckspiel-Total nach UNTEN â€” Final-Phase-Druck + Defense-Adjustment + 'wer fuehrt schliesst zu' wirken zusammen. Historie hat n=2 jetzt (auch Bayer 04 vs Inter im April: Hinspiel 3:2, Rueckspiel 0:0). HARTREGEL: Bei CL-K.O.-Rueckspielen wenn Hinspiel-Total >= 7 Tore -> 'Mehr 2.5/3.5'-Tipp DOWNGRADE auf max wackel mit reduziertem Stake; 'Unter 2.5/3.5'-Tipp als VALUE moeglich. Pflichtfeld saison_kontext bei CL-K.O.-Rueckspielen: 'hinspiel_total_tore' + 'rueckspiel_total_korrektur_aktiv'. Mapper-Hebel U (UEFA-K.O.-Rueckspiel): if hinspiel_total >= 7 -> ueber_tipp_downgrade()=true.",
+      "bezug_spiel_id": "2026-05-06-bay-psg"
+    },
+    {
+      "datum": "2026-05-08",
+      "kategorie": "HR21: G2-Reaktions-Spike NUR bei beidseitig-gesunden Schuetzen-Aufstellungen (HR18-Falsifikation, Quelle 8g)",
+      "lesson": "HR18-PATTERN-EINGRENZUNG: G2-Total-Spike-Pattern (Cavs/Pistons G2 erwartet ueber 215.5) wurde am 07.05. teilweise FALSIFIZIERT - bei Pistons-Cavs Total NUR 204 (deutlich unter 215.5), weil Cavs-Strus 4 verfehlte 3-Pkt-Wuerfe + Cavs 0/11 aus 3-Pkt-Distanz im 4. Viertel. Bei Thunder-Lakers dagegen 232 Total (G1 198 -> G2 +34) voll Spike-aktiv trotz Doncic-OUT. Lesson: G2-Reaktions-Spike-These NUR ansetzen wenn (a) keine Top-3-Pkt-Schuetzen verletzt UND (b) keine Wurf-Krise-Form aus G1 erkennbar. Bei Wurfkrise-Risiko-Team (z.B. Cavs 0/11 Q4) eher Unter spielen. HR18 wird zu HR18-modifiziert: Spike-Empfehlung mit Wurf-Form-Check.",
+      "bezug_spiel_id": "2026-05-08-det-cle"
+    },
+    {
+      "datum": "2026-05-08",
+      "kategorie": "HR22: Star-OUT-Aufhol-Pflicht-Implosion (Quelle 8h â€” Rotation-Pattern)",
+      "lesson": "STAR-OUT-PATTERN-VERSCHAERFUNG: Strasbourg ohne Emegha (Top-Stuermer verletzt, Enciso als Notloesung) implodierte komplett - 0:1 verloren, kein eigenes Tor, alle 4 Strasbourg-Beine kaputt (Sieg + DC1X + BTTS-JA + Emegha-Tor (push)). Pattern-Wiederholung von Lakers-Doncic-OUT (29.04.) und Mainz-Bayern-Druck-Loesung (25.04.) - aber hier auf Strasbourg-Aufhol-Pflicht-Seite gespiegelt. Regel mechanisch: Bei Top-Stuermer-OUT in einem Heim-Aufhol-Pflicht-Rueckspiel SAFE/VALUE-Sieg-Tipps + DC + BTTS auf Heim-Seite ALLE STREICHEN (oder max wackel). Stattdessen Gegner-Sieg-Tipp ODER Total-Unter-Tipp setzen. Strasbourg-Cluster heute war Layer-3-Korrelations-Falle ueber 3 Kombis hinweg.",
+      "bezug_spiel_id": "2026-05-07-str-ray"
+    },
+    {
+      "datum": "2026-05-08",
+      "kategorie": "HR23: Layer-3-Diversifikation (max 1 Bein pro Spiel ueber ALLE Kombis hinweg, Quelle 8a â€” Korrelations-Analyse)",
+      "lesson": "KORRELATIONS-FALLE NEUE EBENE: Strasbourg-Spiel (Star-OUT Emegha) war heute in 3 von 4 Kombis (Safe-Kombi: DC1X, Risiko-Kombi: BTTS, Moonshot-Kombi: Emegha-Tor + Sieg-Freiburg). Bei Strasbourg-Komplettausfall (0:1, kein Tor) verloren alle 3 Kombis automatisch durch ein einziges Spiel. HR17 verbietet bislang nur 3 reine Sieg-Beine in EINER Safe-Kombi - das ist zu schwach. Neue Hartregel HR23: max 1 BEIN PRO SPIEL ueber ALLE Kombis hinweg (Layer-3-Diversifikation). Wenn ein Spiel ein Bein in Safe-Kombi hat, darf es kein Bein in Balance/Risiko/Moonshot haben. Ausnahme: Moonshot kann zusaetzlich 1 Bein haben, wenn es klar entkoppelter Markt ist (z.B. Heim-Sieg in Safe + reiner Total in Moonshot - keine Korrelation).",
+      "bezug_spiel_id": "2026-05-07-str-ray"
+    },
+    {
+      "datum": "2026-05-08",
+      "kategorie": "HR24: Form-Edge-Pflicht-Eingrenzung fuer Torschuetzen-Goldgrube (Quelle 8c â€” Markt-Bilanz)",
+      "lesson": "GOLDGRUBE-MARKT TORSCHUETZEN-JEDERZEIT (53.3% Hit / +60.8% ROI / n=15) bestaetigt sich weiter â€” Sarr (9. Conf-Tor in 14 Spielen, 5 Spiele in Folge getroffen) und Watkins (EL-Top-Torschuetze Villa) trafen heute beide. ABER: Mateta (Pfostentreffer + 66. ausgewechselt fuer Strand Larsen, kein Boost) und Grifo (Assist statt Tor, Standardschuetze, kein Volumen-9er) trafen NICHT. Pattern: 'Form-Edge-Pflicht' muss mechanisch eingeengt werden: NUR Goalscorer-Tipps SAFE/VALUE setzen wenn Spieler EINE der drei Bedingungen erfuellt: (a) 4+ Spiele in Folge getroffen, ODER (b) 5+ Tore in den letzten 10 Spielen, ODER (c) klassischer Mittelstuermer mit Volumen-Backup hinter sich (Einwechslungs-Boost). Standardschuetzen/Setpiece-Spezialisten (Grifo, Lijnders-Typ) max WACKEL. Mittelstuermer mit Pfostentreffer-Pech (Mateta) bleiben WACKEL. Aktualisiert HR12 (Joker-Stuermer-Profil).",
+      "bezug_spiel_id": "2026-05-07-pal-sha"
+    },
+    {
+      "datum": "2026-05-09",
+      "kategorie": "HR3 + HR12: Einwechslungs-Boost-Schutz nur bei DIREKTEM Ersatz â€” Squad-Backup-Liste reicht NICHT (Quelle 8i â€” Boost-Trigger ohne Tipp-Treffer)",
+      "lesson": "BOOST-FALLE LENS-EDOUARD: Edouard-Anytime-Goalscorer @ 2.08 wurde mit 'Sotoca/Sima/Fofana als Backup-Stuermer = Einwechslungs-Boost-Schutz' begruendet. Tatsaechlich: Lens nahm Edouard in Pokal-Final-Schon-Modus AUS, aber das siegbringende Tor erzielte der 16-jaehrige Debuetant Mezian Mesloub - der fuer SIMA reinkam (NICHT fuer Edouard). Boost greift bet365-mechanisch NUR fuer den DIREKTEN Ersatz von X auf der Position. Konsequenz: Bei rotations-gefaehrdeten Top-Stuermern (HR3-Joker) MUSS die Recherche die konkrete Bank-Aufstellung + erwartete Wechsel-Reihenfolge dokumentieren â€” nicht nur 'es gibt Backup-Stuermer'. Wenn das Team unter Schon-Druck steht (Cup-Finale <14 Tage), Tor-Tipp auf Top-9er max WACKEL, nicht VALUE. HR3 wird verschaerft: bei Cup-Finale-Schon-Risiko KEIN Anytime-Goalscorer-VALUE auf den Top-9er, auch wenn Backup nominal da ist.",
+      "bezug_spiel_id": "2026-05-08-len-nan"
+    },
+    {
+      "datum": "2026-05-09",
+      "kategorie": "HR23: Spielertor-Stack-Korrelation ueber Druck-/Schon-Profile (Quelle 8a â€” Korrelations-Analyse)",
+      "lesson": "RISIKO-KOMBI 0:3 ALLE TOR-BEINE: Edouard (Lens-Coupe-Schon-Spiel), Burkardt (Frankfurt-Auswaerts-Defensiv-erstickt vom BVB-Heim-Druck), Espi (Levante-Star-OUT-Krise) - drei verschiedene Spiele, drei verschiedene Ligen, aber ALLE in Profilen mit aktivem Druck/Schon-Mechanismus, der Top-Stuermern Spielzeit/Volumen klaut. Layer-1+2-Diversifikation greift hier nicht, weil das gemeinsame Profil 'Druck-/Schon-Spiel' nicht als Layer aufgelistet ist. Neue Mechanik HR23-PROFIL-LAYER: bei Spielertor-Stack-Kombi (3+ Anytime-Goalscorer-Beine) maximal 1 Bein aus einem 'Druck-/Schon-Profil' (HR3-Joker aktiv ODER Klassenerhalt-Star-OUT-HR22 aktiv ODER Heim-Druck-Auswaerts-Defensive-Lock) - die anderen Beine MUESSEN aus stabilen Profilen ohne Druck-/Schon-Trigger kommen. Sonst korreliert der Stack heimlich auf einem Faktor, der nicht als Layer gefuehrt wird.",
+      "bezug_spiel_id": "2026-05-08-len-nan"
+    },
+    {
+      "datum": "2026-05-09",
+      "kategorie": "Beobachtungs-Liga-Bestaetigung 2.BL + Serie A (Quelle 8d â€” Liga-Performance)",
+      "lesson": "BEOBACHTUNGS-LIGA-LOGIK FUNKTIONIERT: 2.BL Bielefeld-Auswaerts-Sieg @ 2.05 (Bookies-Favorit + Aufwind-Form + Lautern-Verletzungs-Krise) verlor 0:2 - klassischer 2.BL-Bias-Verlust. Serie-A Sassuolo-Sieg @ 2.88 (Topform + Conference-Hoffnung + Torino 6 Verletzte inkl. beide Stamm-Stuermer) verlor 1:2 in Rimonta. Beide Beobachtungs-Ligen lieferten den 4. + 5. Bias-Verlust am Stueck â€” Filter 'max wackel + nicht in Hauptkombis' war heute korrekt und sparte ~14 EUR (haetten als VALUE/SAFE 4-7% Kasse gekostet). Erweiterung der Regel: Wenn Beobachtungs-Liga 6+ aufeinanderfolgende Bias-Verluste produziert (= Bookies-Favorit-Logik systematisch falsch), Liga-Hard-Block aktivieren (NUR Moonshot-Beine ab Quote 5, KEIN normaler wackel-Tipp mehr). Nach +14 Bookies-Favorit-Niederlagen-Streak zaehlt 'Edge-Story' nicht mehr.",
+      "bezug_spiel_id": "2026-05-08-kai-bie"
+    },
+    {
+      "datum": "2026-05-09",
+      "kategorie": "HR18 + HR21: Reaktions-Spike-Deaktivierung bei Gegner-Star in historischer Form (Quelle 8h â€” Rotation/Form-Pattern)",
+      "lesson": "WOLVES-G3-REAKTIONS-SPIKE-NIEDERLAGE: nach 95-133-Worst-Loss-in-Franchise-History-Klatsche war Wolves-Heim-ML @ 2.64 als HR18-Reaktions-Spike-VALUE gesetzt. Wolves verloren 108-115 trotz Edwards 32/14/6 weil Wembanyama 39 Pkt + 15 Reb + 5 Blk lieferte (4. Spieler aller Zeiten mit 35/15/5+ in einem Playoff-Spiel, neben Shaq/Kareem/Olajuwon). Lesson: Reaktions-Spike-These (HR18) ist eine *Heim-Faktor-These*, aber Gegner-Star in historischer Form ueberlagert sie. Neue Eingrenzung HR21+: Reaktions-Spike-VALUE NUR setzen wenn (a) Gegner-Top-Star NICHT in den letzten 2 Spielen jeweils 35+/15+ ODER 12+ Blk geliefert hat UND (b) Heim-Star (Edwards) ohne Knee-Strain-Risiko ist. Sonst max WACKEL. Triple-Bestaetigung mit Mainz-Bayern (CL-Last) und Cavs-Strus-Wurf-Krise: HR18 ist nicht universell, sondern braucht Gegner-Form-Filter.",
+      "bezug_spiel_id": "2026-05-09-min-sas"
+    },
+    {
+      "datum": "2026-05-10",
+      "kategorie": "AUTO-PATTERN: Premier League / Sieg/Spread / value - 75% Verlust (3/4)",
+      "lesson": "Auto-erkannter Verlust-Cluster Stand 2026-05-10: in Liga 'Premier League' wurden 4 VALUE-Tipps auf Markt-Kat 'Sieg/Spread' platziert, davon 3 verloren (75%). Empfehlung: diesen Cluster in den naechsten Lauefen NICHT mehr als VALUE - max eine Stufe runter (safe->value, value->wackel) bis Verlust-Quote < 50%. Beispiele: 2026-05-03 Aston Villa - Tottenham Hotspur (Aston Villa Sieg) -> 1:2; 2026-05-04 FC Everton - Manchester City (Manchester City Sieg) -> 3:3; 2026-05-09 Sunderland AFC - Manchester United (Manchester United Sieg) -> 0:0",
+      "bezug_spiel_id": null,
+      "auto_generiert": true
+    },
+    {
+      "datum": "2026-05-10",
+      "kategorie": "Star-Stuermer-Aufstellungs-Verifikation 1-2h vor Anstoss (Quelle 8h â€” Rotation/Verletzung)",
+      "lesson": "DOPPEL-AUSFALL 09.05. â€” Salah (Liverpool, Tipp @ 1.85) UND Julian Alvarez (Atletico, Tipp @ 2.10) BEIDE am Spieltag verletzungsbedingt aus dem Kader gestrichen. Beide waren PFLICHT-PROFILE-Heim-Favorit-Tipps (Lesson 04.05.) und beide gefloppt obwohl sie laut Pre-Match-Quellen 'voll fit' waren. Lesson 22.04. (Roster-Verifikation) griff nicht â€” sie wurde nur fuer Trade-Risiko angewandt, nicht fuer kurzfristige Verletzungen. NEUE HARTREGEL: Bei JEDEM Stuermer-Torschuetzen-Tipp mit Quote unter 2.30 muss 1-2h vor Anstoss eine Aufstellungs-Verifikation per WebSearch ('[Spieler] starting lineup [Datum]' oder Vereinsseite) erfolgen. Bis zur Bestaetigung max 0.5% Einsatz, nach Bestaetigung Upgrade auf 1.5%. Ohne Verifikation: Tipp wird zu wackel degradiert ODER ganz gestrichen. Konsequenz heute: -3.0% Kasse (-16.50â‚¬) durch beide Tipps. Bezugsspiele: 2026-05-09-liv-che (Salah-Tor-Tipp) + 2026-05-09-atm-cel (Alvarez-Tor-Tipp).",
+      "bezug_spiel_id": "2026-05-09-liv-che"
+    },
+    {
+      "datum": "2026-05-10",
+      "kategorie": "Korrelations-Tag â€” alle 4 Kombis floppten gleichzeitig (Quelle 8a â€” Korrelations-Analyse)",
+      "lesson": "KORRELATIONS-CRASH 09.05.: ALLE 4 Kombis (Safe 3.31x / Balance 5.83x / Risiko 15.68x / Moonshot 112.9x) verloren am gleichen Tag. Killer-Beine: Safe = atm-cel-1 (Atletico-DC, Star-Ausfall) + sun-mun-1 (ManU-Sieg, 0:0). Balance = liv-che-2 (Salah Tor, Star-Ausfall) + atm-cel-2 (Alvarez Tor, Star-Ausfall). Risiko = tsg-svw-1 (Kramaric Tor) + sun-mun-2 (Mbeumo Tor). Moonshot = wob-bay-3 (Wolfsburg-Sieg) + fca-bmg-2 (Tabakovic). Pattern: 5 Stuermer-Tipps + 3 DC-Tipps + 3 Sieg-Tipps stammen alle aus EINER Edge-Logik (PFLICHT-PROFILE-Lesson 04.05. + DC-Cap-Lesson 04.05. + Star-Stuermer-Goldgrube-Lesson). Wenn diese Logik liga-weit kippt (Saisonende-Tor-Flaute + Star-Ausfaelle), bricht ALLES gleichzeitig. NEUE REGEL: max 2 Kombi-Beine duerfen aus DERSELBEN Lesson-Quelle stammen. Wenn 3+ Beine aus einer Quelle: Kombi neu konstruieren mit Beinen aus heterogenen Edge-Quellen (z.B. 1Ã— DC-Goldgrube + 1Ã— Stuermer-Goldgrube + 1Ã— saison_kontext-Edge + 1Ã— Markt-Goldgrube). Tagesbilanz: -3.15% Kasse aus Kombis allein.",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-05-10",
+      "kategorie": "HR3 Doppelbelastungs-Joker greift NICHT bei abgeschlossenem CL-Aus (Quelle 8h â€” Rotation-Pattern aus volle_analyse)",
+      "lesson": "ANTI-TOP-TEAM-ROTATION-THESE WIDERLEGT: Wolfsburg-Bayern 09.05. â€” Bayern-CL-HF-Aus 06.05. + Saisonziel-durch + 3 Tage Recovery = klassischer HR3-Doppelbelastungs-Setup. Tipp-Setup: Wolfsburg-Sieg @ 4.80 + BTTS @ 1.75 + Olise (Backup) @ 3.10. Resultat: Bayern gewann 0:1, Kane STARTELF + Olise STARTELF (NICHT Backup), Kompany rotierte praktisch nicht. Wolfsburg-Sieg + BTTS verloren, nur Olise-Tor traf (aber als Stamm, nicht als Joker). Lesson: HR3 (Lesson 27.04.+04.05.) greift nur bei BEVORSTEHENDEM Top-Wettkampf in der Folgewoche (z.B. CL-Finale), NICHT bei abgeschlossenem CL-Aus + Saisonziel-erreicht. Bei diesem Setup spielt Top-Team mit Stamm-Elf, weil Stolz/Form/Saisonende-Routine. NEUE REGEL: HR3-Doppelbelastungs-Joker nur aktivieren wenn (a) Top-Team noch Wettbewerb in <=7 Tagen vor sich hat ODER (b) Verletzungs-Druck konkret bestaetigt ist. CL-Aus alleine reicht NICHT.",
+      "bezug_spiel_id": "2026-05-09-wob-bay"
+    },
+    {
+      "datum": "2026-05-10",
+      "kategorie": "Saisonende-Tor-Flaute Mai 2026 (Quelle 8g â€” Markt-Pattern aus volle_analyse aller Spiele)",
+      "lesson": "MARKT-PATTERN AUS NICHT-GETIPPTEN ANALYSEN 09.05.: Acht Spiele Tor-Bilanz Wolfsburg-Bayern 1, Augsburg-Gladbach 4, Hoffenheim-Bremen 1, Liverpool-Chelsea 2, City-Brentford 3, Sunderland-ManU 0, Atletico-Celta 1, Sevilla-Espanyol 3 = 15 Tore in 8 Spielen = 1.88 Tore/Spiel. Saisonende-Schiene mit vielen Mid-Table-Begegnungen = TORARM. 5/8 Spiele unter 2.5 Tore. Aktive Implikation: Unsere fca-bmg-1 (Unter 3.5 Tore @ 1.30) und sev-esp-1 (Unter 2.5 @ 1.72) sind genau richtig konstruiert gewesen, aber haben VERLOREN â€” beide Spiele waren die torreichsten der Schiene (Augsburg 4, Sevilla 3). Lesson: Saisonende-Tor-Flaute ist real, ABER die Ausreisser-Spiele (Tor-Festival mit 3+ Toren) sind die mid-table-Spiele OHNE Klassenerhalt-Druck (Augsburg 9.Pl + Gladbach 11.Pl) â€” das passt zur 'Routine-Spiel ohne Druck = mehr Risiko'-Logik. NEUE REGEL: Unter-2.5/3.5 Tipps in Saisonende-Schiene NUR bei mind. einem Klassenerhalts- oder Pflicht-Sieg-Team (defensive Disziplin erzwungen). Bei Mid-vs-Mid ohne Druck: Coinflip, max wackel.",
+      "bezug_spiel_id": "2026-05-09-fca-bmg"
+    },
+    {
+      "datum": "2026-05-11",
+      "kategorie": "Star-Backup-Annahme widerlegt - Pre-Match-Reports nicht garantiebindend (Quelle 8a + STAR-AUSFALL)",
+      "lesson": "STAR-AUSFALL-BACKUP-PFLICHT NICHT IMMER VERLAESSLICH: Vinicius @ 2.40 als VALUE (Mbappe-Bank-Annahme aus SI/Yahoo-Reports 07-09.05.) verloren - Mbappe stand El Clasico tatsaechlich in der Startelf, Vinicius spielte 72 Min, traf nicht (in 72. fuer Rodrygo ausgewechselt, Rodrygo traf auch nicht = kein Boost). Pre-Match-Star-Status-Reports sind Wahrscheinlichkeits-Indikatoren, nicht Garantien. NEUE HARTREGEL: Bei Tipp-Quote unter 2.50, der auf Star-Ausfall-These des Backup-Stuermers basiert, ist Confirmed-Lineup-Pruefung (offizielle Aufstellung 30-60 Min vor Anstoss) PFLICHT. Ohne Lineup-Bestaetigung max wackel mit reduziertem Stake (0.5%). Verschaerfung der 04.05.-Lesson 'STAR-AUSFALL Backup-Pflicht'.",
+      "bezug_spiel_id": "2026-05-10-bar-rma"
+    },
+    {
+      "datum": "2026-05-11",
+      "kategorie": "BL-Sieg-Cluster Saisonende analog PL-Lesson 10.05. (Quelle 8c + 8e)",
+      "lesson": "VALIDIERUNG BL-SEITE: Mainz-Sieg @ 1.75 (VALUE / Goldgrube-Markt 'Sieg') verloren bei Union-Comeback 1:3 (88. + 90+1 Tore Burke + Juranovic). Conference-Quali-Druck-These (Mainz braucht Punkte) schlug nicht durch - Union-Eta-Erstsieg unter neuer Trainerin. Plus Whu-Ars (Arsenal-Sieg @ 1.56 - gewann nur 0:1 via Joker-Trossard 82.) und Bur-Avl (Villa-Sieg @ 1.62 - Remis 2:2). PATTERN: Saisonende-Mid-Table-Conference/Europa-Quali-Druck als Sieg-VALUE-Begruendung max wackel im Mai. Liga-Bilanz Bundesliga heute: 8 Tipps / 4 gewonnen / 4 verloren = 50% Hitrate trotz 'Goldgrube-Markt'. Lesson: Goldgrube-Markt 'Sieg (1X2)' wird im Saisonende durch Motivations-Asymmetrie-Verschiebung neutralisiert. Bei Mai-Spielen explizit Saisonende-Filter aktiv schalten.",
+      "bezug_spiel_id": "2026-05-10-m05-fcu"
+    },
+    {
+      "datum": "2026-05-11",
+      "kategorie": "EL/CL-Final-10-Tage-Vorbereitung Schon-Cluster (Quelle 8h + Rotation-Pattern)",
+      "lesson": "EL-FINAL-VORBEREITUNG-PATTERN ZWEIFACH HEUTE BESTAETIGT: Freiburg (EL-Final 20.05. = 10 Tage spaeter) verlor 3:2 in Hamburg trotz Matanovic-Doppelpack. Aston Villa (EL-Final 20.05. gegen Freiburg) holte nur 2:2 bei abgestiegenem Burnley. Beide Spiele waren der Goldgrube-Liga-DC-Logik nach Klassen-Edge - aber UEFA-Final-Schon-Modus (Streich/Emery rotierten) machte aus klaren Edges nur Remis/Niederlagen. Nicht-getipptes Spiel WHU-Arsenal hingegen (Arsenal CL-Final 30.05. = 20 Tage spaeter, mehr Zeit) gewann 0:1 via Joker. PATTERN-PRAEZISIERUNG: 7-12 Tage vor UEFA-Final = Top-Team-Sieg/DC-1X-Tipps NICHT mehr SAFE/VALUE, max wackel. 13-25 Tage vor Final = Sieg-VALUE noch OK aber mit Joker-Tor-Erwartung (Arsenal-Trossard-Pattern, PSG-Doue-Pattern). Verschaerft 'HR3 Doppelbelastungs-Joker'-Lesson 10.05.",
+      "bezug_spiel_id": "2026-05-10-bur-avl"
+    },
+    {
+      "datum": "2026-05-11",
+      "kategorie": "Schluss-Minuten-Tor-Cluster Mai - Live-Cash-Out-Empfehlung (Quelle 8f + 8g aus volle_analyse)",
+      "lesson": "SCHLUSSMINUTEN-DRAMA-CLUSTER 10.05.: Drei Spiele mit entscheidenden Toren in Minute 88+ -> Mainz-Union (Burke 88., Juranovic 90+1 = Mainz-Crash 1:3), Forest-Newcastle (Anderson 88. = Remis), Parma-Roma (Rensch 94., Malen 101 Pen = Roma-Drehung 2:3 nach 1:2-Parma-Fuehrung). Drehungs-Quote heute 1/19 Spiele (5%) - knapp unter Drehungs-Anhaeufungs-Schwelle, aber der Schluss-Minuten-Tor-Cluster ist deutlich (3+ Spiele mit 88+-Toren). PATTERN: Saisonende-Mai = hohe Schluss-Minuten-Volatilitaet, weil Teams mit Saison-Druck (Quali-Hoffnung / Klassenerhalt) bis zur letzten Sekunde pushen. EMPFEHLUNG: Wenn Sieg-Tipp auf Halbzeit-/3.Viertel-Fuehrung basiert (z.B. Mainz fuehrte 1:1 nach 48. = Conference-Quali-Aussicht), Live-Cash-Out bei 80%-Wert pruefen. Naechste Routine: Mainz-aehnliche Sieg-Tipps haben 'Saisonende-Schlussdrucks-Risiko' im begruendung-Feld zu vermerken, max wackel statt VALUE.",
+      "bezug_spiel_id": "2026-05-10-par-rom"
+    },
+    {
+      "datum": "2026-05-12",
+      "kategorie": "Korrelations-Cluster Coinflip-Spiele (Quelle 8a Korrelations-Analyse + 8e SAFE-Reality)",
+      "lesson": "KOMBI-AUSLOESCHUNG-DURCH-COINFLIP-SPIEL 11.05.: Spiel Rayo-Girona (1:1 mit Toren 86./90.) toetete 2 von 4 Kombis (Safe via Ueber-2.5-Bein, Risiko via Rayo-Sieg-Bein) und half Balance via BTTS - kombi-Korrelation -50% Verlust an einem Coinflip-Saisonende-LaLiga-Spiel. Plus Napoli-Bologna 2:3 toetete Balance (Unter-2.5-Bein) und half Moonshot (Bologna-Sieg-Bein). PATTERN: Wenn ein Spiel >=2 Kombi-Beine traegt UND es ein Coinflip-Saisonende-Spiel ist (Beobachtungs-Liga + Goldgrube-Markt-Argument zerbroeselt bei Saison-Ende), Diversifikations-Hartregel verschaerfen: max 1 Bein aus Saisonende-LaLiga/SerieA-Spielen pro Kombi.",
+      "bezug_spiel_id": "2026-05-11-ray-gir",
+      "anwenden_ab": "2026-05-12"
+    },
+    {
+      "datum": "2026-05-12",
+      "kategorie": "LaLiga-Saisonende-Tor-Flaute (Quelle 8g Markt-Pattern aus nicht-getippten + getippten Spielen)",
+      "lesson": "UEBER-2.5-IN-LALIGA-SAISONENDE WIEDER VERFEHLT: Rayo-Girona @ Ueber-2.5 (1.86 VALUE/Goldgrube) verloren bei 1:1 (beide Tore in 86./90.). Lesson 10.05. (Mai-Mittel LaLiga 1.88 Tore/Spiel) hat genau dieses Pattern dokumentiert - Routine wandte trotz Goldgrube-Markt-Stempel kein Saisonende-Downgrade an. PATTERN: Goldgrube-Markt-Logik MUSS Liga-Saisonphasen-Filter haben - Ueber-2.5 ab LaLiga-Spieltag 34 aktiv degradieren auf wackel oder skippen. Beobachtungs-Liga-Logik (LaLiga ist KEINE Beobachtungs-Liga gemaess Stand 12.05.) reicht nicht aus - Markt-spezifischer Saisonende-Filter zusaetzlich noetig.",
+      "bezug_spiel_id": "2026-05-11-ray-gir",
+      "anwenden_ab": "2026-05-12"
+    },
+    {
+      "datum": "2026-05-12",
+      "kategorie": "Coppa-Italia-Final-Schon-Cluster-Refinement (Quelle 8h Rotation-Pattern Korrektur)",
+      "lesson": "LESSON-11.05.-FEHLERWEITERUNG-KORREKTUR: Bologna spielte VOLL in Neapel (gewann 3:2 mit Rowe-91.-Semi-Rovesciata) trotz Coppa-Italia-Final in 3 Tagen (14.05.). Lesson 11.05. EL/CL-Final-Schon-Cluster wurde mechanisch auf Coppa-Italia-Final ausgedehnt - die Routine setzte Napoli Sieg + Unter-2.5 mit Italiano-Schon-These als Edge. Realitaet: Mid-Table-Cup-Finalist (Bologna Mid-Table SerieA) = Cup-Final ist Saison-Highlight, Schon-Modus NICHT plausibel. PATTERN: Schon-Cluster-Logik NUR auf UEFA-Finals (EL/CL/Conference) - National-Pokal-Finals NICHT als Schon-Modus-Indikator. Mid-Table-Pokalfinalisten EHER gegnerisches Top-Team gefaehrlich als geschont.",
+      "bezug_spiel_id": "2026-05-11-nap-bol",
+      "anwenden_ab": "2026-05-12"
+    },
+    {
+      "datum": "2026-05-12",
+      "kategorie": "Drehungs-Cluster Top-Liga MUST-WIN-Cluster (Quelle 8f Drehungs-Cluster aus volle_analyse)",
+      "lesson": "ZWEI-DREHUNGEN-AN-EINEM-TAG: (1) NBA-Playoffs CLE-DET 112:103 (HZ 52:56 Pistons fuehrend -> Cavs 24:0-Run zur HZ2-Eroeffnung, laengster Playoff-Run seit Wolves G6 2024) und (2) SerieA Napoli-Bologna 2:3 (Bologna fuehrte 0:2 in 34. -> Napoli 2:2 in 48. -> Bologna 3:2 in 91.). Drehungs-Cluster aus volle_analyse-Bloecken hat sich vom 02.05.-BL-Pattern jetzt auf Top-Ligen-MUST-WIN/Pflicht-Druck-Spiele ausgeweitet. PATTERN: Kurzquoten-Sieg-Tipps (1.20-1.60) auf MUST-WIN-Heim-Top-Teams + auf Pflicht-Druck-Heim-Champions-Quali-Teams gegen Underdog-mit-Eigen-Termin (Coppa-Vorbereitung) -> HZ-Stand ist KEIN Indikator (CLE lag HZ zurueck, Bologna fuehrte HZ 0:2 dann verloren -> dann wieder gewonnen). Drehungs-Risiko bleibt latent bis 90. Min - Kombi-Beine in solchen Cluster-Spielen reduzieren.",
+      "bezug_spiel_id": "2026-05-12-cle-det",
+      "anwenden_ab": "2026-05-12"
+    },
+    {
+      "datum": "2026-05-13",
+      "kategorie": "HR22 Star-OUT-Implosions-Profil WIDERLEGT bei LaLiga-Top-4 (Quelle 8h Rotation-Pattern + 8a Korrelations-Analyse)",
+      "lesson": "HR22-IMPLOSIONS-PROFIL-OVERRIDE-FAIL: Atletico Madrid mit 7 Stamm-OUT (J.Alvarez/Simoni/Barrios/Gimenez/Molina/N.Gonzalez/Cardoso) + Baena gesperrt + emotional ausgelaugt nach CL-SF-Aus (05.05.) + 0:1 Heim gegen Celta (09.05.) siegte 2:1 in Pamplona dank Lookman-FE 15. + Soerloth-HZ-Joker-Kopfball 71. - selbst nach Llorente-Gelb-Rot 79. hielt 10-Mann-Atletico durch. Osasuna-DC-1X-Tipp @ 1.48 (Markt-Goldgrube + HR22-Edge angenommen) VERLOREN. Markt-Pick'em-Quoten +160/+160 hatten zwar Klasse-Edge reduziert, aber Atletico-Sieg-Wahrscheinlichkeit weiter unterschaetzt. PATTERN: HR22 ist KEIN automatischer Implosions-Trigger gegen LaLiga-Top-4 (oder vergleichbare Top-Bench-Klubs) - Klasse-Edge + Top-Bench schluckt Lazarett. Lesson-Verfeinerung: HR22 nur als Edge-Modifier (Quote runter um 10-15%) NICHT als Sieg-Disqualifikator bei Top-4-LaLiga/Top-5-BL/Top-6-PL. Routine soll bei Star-OUT-Lazarett-Top-Teams Sieg-Markt weiter scannen statt nur DC-Gegner anbieten.",
+      "bezug_spiel_id": "2026-05-12-osa-atm",
+      "anwenden_ab": "2026-05-13"
+    },
+    {
+      "datum": "2026-05-13",
+      "kategorie": "Aufstellungs-Verifikations-PFLICHT bei Form-Edge-Spielertor-Tipps (Quelle 8h Rotation-Pattern + 8i Boost-Trigger ohne Tipp)",
+      "lesson": "FORM-EDGE-BENCH-FALLE BORJA IGLESIAS: Borja Iglesias 3-LaLiga-Spiele-in-Folge-getroffen Form-Edge (HR24 (a)) ueberholt durch Bench-Start - kam erst 64. fuer Hugo Alvarez (kein direkter Stuermer-Tausch, eher Mittelfeld-Wechsel) und traf in den verbleibenden ~25 Min nicht. Anytime-Quote 2.40 wurde wie ein Startelf-Volumen-9er bepreist, war faktisch ein Joker-Tipp. Tipp cel-lev-1 (1.5% Stake = 8.25â‚¬) VERLOREN als groesster Einsatz des Tages. Parallel: Soerloth gewann (4.90 Risiko-Bein) als HZ-Sub (46.) - bench-Sub mit ~45 Min Spielzeit traf 71. PATTERN: Anytime-Spielertor-Tipps mit 'Form-Edge'-Argument (HR24 (a)) BENOETIGEN zwingend Aufstellungs-Verifikation 1-2h vor Anstoss (Lesson 10.05. heute den 2. Tag in Folge verpasst). Wenn Aufstellungs-Verifikation nicht moeglich (Tipps-Routine 17:30 vs LaLiga-Anpfiff 19:00 = 90 Min Puffer reicht NICHT immer), HR24 (a) Form-Edge nur als VALUE-Argument falls Anytime-Quote >= 2.80 (Joker-Risiko-eingepreist).",
+      "bezug_spiel_id": "2026-05-12-cel-lev",
+      "anwenden_ab": "2026-05-13"
+    },
+    {
+      "datum": "2026-05-13",
+      "kategorie": "LaLiga-Saisonende-Tor-Flaute-Lesson WIDERLEGT (Quelle 8g Markt-Pattern aus volle_analyse + getippten Spielen)",
+      "lesson": "UEBER-2.5-LALIGA-MD36-DREI-VON-DREI-GETROFFEN: Celta-Levante 5 Tore (2:3), Betis-Elche 3 Tore (2:1), Osasuna-Atletico 3 Tore (1:2) - ALLE 3 LaLiga-Tuesday-MD36-Spiele lieferten Ueber 2.5. Lesson 10.05./12.05. LaLiga-Saisonende-Tor-Flaute (Mai-Mittel 1.88 Tore/Spiel, Rayo-Girona 1:1 Negativ-Beleg) war zu pauschal - 12.05. liefert 11 Tore in 3 Spielen (3.67 Tore/Spiel - DEUTLICH ueber Mai-Mittel). Markt-Statistik bestaetigt: Ueber 2.5 Tore Markt-Typ jetzt n=10 / 60% Hit / +62.8% ROI (Goldgrube auf Volldampf). PATTERN: Saisonende-Tor-Flaute-Filter NUR aktivieren bei (a) Beide-Mid-Table-ohne-Druck-Spiele (Rayo-Girona-Profil), NICHT bei (b) Klassenerhalts-Underdog vs Europa-Druck-Top-Team (Existenz-Pflicht-Tore!) oder (c) Top-4-Pflicht-Heimspiel (Druck-Tore). Lesson-Refinement: Saisonende-Flaute-Filter wird zu 'Saisonende-Coinflip-Mid-Table-Filter' - genaue Trigger-Bedingungen siehe Lesson-12.05.-Korrelations-Cluster.",
+      "bezug_spiel_id": "2026-05-12-cel-lev",
+      "anwenden_ab": "2026-05-13"
+    },
+    {
+      "datum": "2026-05-13",
+      "kategorie": "NBA-Playoff-G5-Heim-Pivot-Vengeance-SAFE (Quelle 8e Kategorie-Reality + 8h Rotation-Pattern)",
+      "lesson": "WEMBANYAMA-VENGEANCE-GAME PIVOT-G5: Wembanyama nach G4-Karriere-Ejection (Ellbogen Naz Reid) lieferte Career-High-Reaktion: 27P/17R/5A/3B, Q1 allein 18P/6R in 8 Min, Spurs 126:97 Wolves (Differenz +29). NBA-G5-Heimvorteil-Pattern in Series jetzt 5/5 bestaetigt (Spurs G1, G2, G5 Heim / Wolves G3, G4 Heim). Spurs-ML @ 1.25 (NBA-Playoff-nie-SAFE-Lesson hatte auf wackel degradiert) waere SAFE gerechtfertigt gewesen, Stake-Hebel von 0.5% auf 1.5% verpasst (~+11â‚¬ Brutto-Gewinn-Differenz). Ueber 218.5 @ 1.91 (auch nur wackel) ebenfalls gewonnen (Total 223). PATTERN: NBA-Playoff-nie-SAFE-Lesson zu konservativ in spezifischen Sub-Cluster: (a) Heim-G5-Pivot-Game mit Star-Vengeance-Trigger (Ejection/Suspension/Personal-Insult-Headline in G4), (b) Heim-G7-Decider mit klarem Klassen-Edge. Lesson-Refinement: NBA-Playoff-nie-SAFE BLEIBT default, ABER Heim-G5/G7-Pivot mit Vengeance-Star-Trigger ist explizite VALUE-Ausnahme (nicht SAFE - aber 1.0% Stake erlaubt statt 0.5%-wackel).",
+      "bezug_spiel_id": "2026-05-13-sas-min",
+      "anwenden_ab": "2026-05-13"
+    },
+    {
+      "datum": "2026-05-14",
+      "kategorie": "Drehungs-Cluster Saisonende-Pflicht-Heim-Spiele (Quelle 8f Drehungs-Cluster + 8a Korrelations-Analyse)",
+      "lesson": "ZWEI DREHUNGEN AN EINEM TAG: Villarreal-Sevilla 2:0 HZ -> 2:3 Endstand (Sevilla 3 Tore in 25 Min Wiederanpfiff/46./46./71. - klassisches HZ-Pause-Coach-Adjustment-Drehungs-Pattern) + NBA Pistons-Cavs G5 (Pistons 103:94 mit 2 Min uebrig -> Cavs 117:113 OT-Comeback durch Harden 30 + Mitchell 21 + Strus 20 + Mobley 19). Saisonende-CL-Quali-Pflicht-Heim-Profil (Villarreal) ist KEINE Sieg-Garantie - 2:0 HZ kann durch Auswaerts-Druck-Reaktion gekippt werden. KORRELATIONS-Killer fuer Tag: Villarreal-Sieg-Bein zerstoerte Balance-Kombi, Barca-DC-X2-Bein zerstoerte Safe-Kombi (Alaves-Aufstand-Drehung-Light: 0:0 zu 1:0). KONSEQUENZ: (a) Saisonende-Sieg-Tipps bei Quote 1.40-1.85 in Pflicht-Heim-Spielen auf DC-1X-Cover statt direkter Sieg-Tipp setzen (verhindert Drehungs-Total-Verlust). (b) Bei 2:0-HZ-Profil-Tipps zusaetzlich BTTS-NEIN als korrelativer Hedge-Bein erwaegen. (c) Drehungs-Cluster pro Tag tracken - 2+ Drehungen = Tag fuer Sieg-Tipps risiko-erhoeht.",
+      "bezug_spiel_id": "2026-05-13-vil-sev",
+      "anwenden_ab": "2026-05-14"
+    },
+    {
+      "datum": "2026-05-14",
+      "kategorie": "Saison-Verletzungs-Check vor Tipp-Generation (Refinement Lesson 10.+13.05. Aufstellungs-Verifikation 8h Rotation-Pattern)",
+      "lesson": "YAMAL SAISON-OUT PRE-MATCH BEKANNT: Lamine Yamal war PRE-MATCH bereits offiziell Saison-OUT durch Verletzung (oeffentlich seit Tagen verfuegbar via transfermarkt/kicker/ESPN injury report). Aufstellungs-Verifikation 60-90 Min vor Anstoss kommt zu spaet wenn der Saison-Status klar ist - Tipp haette bei Tipp-Generation rausfallen muessen. NEUE PFLICHT-CHECK-REIHENFOLGE: 1. Saison-Verletzungs-Liste (transfermarkt 'Aktuelle Verletzte' / kicker / ESPN injury report) PRE-MATCH-PFLICHT vor jedem Torschuetzen-Tipp - sicherer Saison-OUT = Spieler komplett aus Pool. 2. Aufstellungs-Verifikation 60-90 Min vor Anstoss bleibt fuer Rotation-Risiko-Spieler (siehe Lesson 4). Yamal-Tipp gestern -1.40â‚¬ vermeidbar; trifft auch fuer Risiko-Kombi-Total-Verlust mit (Killer-Bein im Risiko-Kombi).",
+      "bezug_spiel_id": "2026-05-13-ala-bar",
+      "anwenden_ab": "2026-05-14"
+    },
+    {
+      "datum": "2026-05-14",
+      "kategorie": "Coinflip-Saisonende-LaLiga-Defensiv-Cluster bestaetigt (Quelle 8g Markt-Pattern aus nicht-getippten + getippten Resultaten)",
+      "lesson": "DOPPELTE COINFLIP-VALIDIERUNG LaLiga MD36: Espanyol-Bilbao 2:0 + Getafe-Mallorca 2:0 - beide Coinflip-Mid-Table-LaLiga-Saisonende-Spiele OHNE UEFA-Druck-Asymmetrie liefen klassisch defensiv-konform (Unter 2.5 + BTTS NEIN + Heim-Sieg). Lesson 12.05. Saisonende-Coinflip-Tor-Flaute-Filter und Lesson 13.05. LaLiga-Saisonende-Defensiv-These klar validiert. ZUSATZ-PATTERN entdeckt: Heim-Klassenerhalts-Verzweiflungs-Sieg ist neue Goldgrube-Kategorie - Espanyol-Heim-Sieg 2.90 als Moonshot eingeloest (+1.04â‚¬). KONSEQUENZ: In Coinflip-Saisonende-LaLiga-Spielen mit Heim-Klassenerhalts-Pflicht + Auswaerts-Mid-Table-ohne-Druck (Espanyol-Bilbao-Profil) Heim-Sieg-Tipp 2.50-3.00 als WACKEL statt MOONSHOT setzen - 3-Tipp-Cluster (Unter 2.5 + BTTS NEIN + Heim-Sieg-Wackel) ergibt Quasi-Hedge mit hoher 2-von-3-Quote.",
+      "bezug_spiel_id": "2026-05-13-esp-ath",
+      "anwenden_ab": "2026-05-14"
+    },
+    {
+      "datum": "2026-05-14",
+      "kategorie": "Top-Team-Rotation-vor-Pflicht-Final 7-Tage-Cluster (Refinement Lesson 11.05. EL/CL-Final-Schon-Cluster, Quelle 8h Rotation-Pattern)",
+      "lesson": "HAALAND BANK FUER FA-CUP-FINAL: Pep Guardiola hat Haaland + Doku + Cherki auf die Bank gesetzt um sie fuer Samstags-FA-Cup-Final vs Chelsea fit zu halten - obwohl es um den PL-Titel ging (City 5 Pkt hinter Arsenal). Volume-9er-Schonung trotz Pflicht-Sieg-Profil bei <2 Tagen bis Cup-Final ist staerker als Pflicht-Sieg-Profil. NEUE PFLICHT-AUSSCHLUSS-REGEL: Top-Team-Volume-Stuermer-Torschuetzen-Tipps werden GEDROPPED wenn Klub innerhalb der naechsten 7 Tage Final-Termin hat (FA-Cup / CL / EL / Conference / Pokal / EM/WM-Qualifikation-Decider) - unabhaengig von Heim/Auswaerts/Quote/Form-Edge. Die Schonung kommt schon bei 3-4 Tagen Pre-Final wenn Spieler 2 Spiele in 5 Tagen hatte. Refinement zu Lesson 11.05.: nicht nur EL/CL-Final-Naehe, sondern alle finalen Saison-Decider <=7 Tage. (Haaland-Tipp gestern -5.50â‚¬ vermeidbar; trifft auch fuer Risiko-Kombi-Bein-Verlust mit.)",
+      "bezug_spiel_id": "2026-05-13-mci-cry",
+      "anwenden_ab": "2026-05-14"
+    },
+    {
+      "datum": "2026-05-15",
+      "kategorie": "LaLiga MD36 Mid-Table-Saisonende-2-Tore-Cluster (Quelle 8f Markt-Pattern aus volle_analyse)",
+      "lesson": "LALIGA MD36 14.05.: 3/3 Spiele endeten mit GENAU 2 Toren (Val-Ray 1:1, Gir-Soc 1:1, RMA-Ovi 2:0). Ueber-2.5-Goldgrube-Stat (+62.8% ROI) ZURUECKZUNEHMEN fuer LaLiga-MD-Saisonende-Phasen mit Mid-Table-ohne-Druck-Profil: zwischen Klassenerhalt-Druck (eng, defensiv) und satten Mid-Table/Top-Teams (Schon-Modus, Energie-Mangel) ist das Tor-Volumen tagsystematisch reduziert. 2x Ueber-2.5-SAFE-Tipps verloren (-16.50â‚¬). NEUE FILTER-REGEL: Bei LaLiga-MD36-MD37-MD38-Spielen mit beidseitig 'kein hartes Saisonziel' (Mid-Table beider Teams ODER bereits abgestiegen/Champions-locked) UND keine spezielle Sturm-Edge-Daten Ueber 2.5 NICHT als SAFE einplanen. Lieber Unter 2.5 oder BTTS (2/3 erfuellt am 14.05.) als Alternative.",
+      "bezug_spiel_id": "2026-05-14-rma-ovi",
+      "anwenden_ab": "2026-05-15"
+    },
+    {
+      "datum": "2026-05-15",
+      "kategorie": "Castilla-Stand-In-Goldgrube bei Star-OUT-Cluster (Refinement HR24 + HR22, Quelle 8h Rotation-Pattern + 8i Einwechslungs-Boost)",
+      "lesson": "STAR-OUT-PATTERN UMGEDREHT: Real Madrid mit Mbappe + Guler + Valverde OUT â†’ Gonzalo Garcia (Castilla-9er, Moonshot @ 5.75) WINNER (+5.20â‚¬), NICHT der verbliebene Star-Backup Vinicius @ 2.25 (-8.25â‚¬). HR24-Form-Edge-These ('Vinicius mit 4 Toren in 5 Spielen') versagte gegen Bottom-Defense weil Vinicius auf Doppel-Tor-Rolle ueberlastet wurde + Energie-Mangel post-Clasico. NEUE REGEL bei Top-Team mit 2+ Stamm-Stuermer-OUT: 1) den nominalen Castilla/B-Elf-Stand-In-9er als Torschuetzen-MOONSHOT/RISK (Quote 4.50-7.00) AKTIV scannen - er bekommt Startelf + alle Tor-Chancen weil Star aus dem Backup-Pool kommt. 2) den verbliebenen Star NICHT als VALUE/SAFE-Torschuetzen-Tipp - Doppel-Belastungs-Risiko + Tor-Festival-These greift bei diesen Konstellationen oft nicht (2:0 statt 4:0 typisch).",
+      "bezug_spiel_id": "2026-05-14-rma-ovi",
+      "anwenden_ab": "2026-05-15"
+    },
+    {
+      "datum": "2026-05-15",
+      "kategorie": "SAFE-Hitrate-Reality + Total-Einsatz-Disziplin bei Liga-ROI-Negativ-Cluster (Quelle 8e Kategorie-Reality + 8a Korrelation)",
+      "lesson": "TAGESBILANZ 14.05.: 75,10â‚¬ Total-Einsatz auf 550â‚¬-Kasse = 13.6% Kasse exponiert, ROI -56.3% (-42.28â‚¬). 4/4 Kombis verloren + 3/8 Einzel-WINs = SAFE-Hitrate 3/5 = 60% UNTER Soll 75-90%. Auswertung: Bei 3-Spiele-Tag MIT Liga-ROI-Negativ-Warnung (LaLiga -8.5% n=34) ist die Total-Einsatz-Disziplin zu lasch. NEUE HARDREGEL: Max 10% Kasse exponiert (statt aktuell 13.6%) wenn beide Bedingungen: (a) <=3 Spiele am Tag UND (b) Liga 30d-ROI < 0. Konkret: max 4 Kombis bei 3-Spiele-Tag NICHT, statt 4 nur 2-3 (Safe + Balance). Risiko + Moonshot nur dazunehmen wenn 5+ Spiele oder Liga-ROI positiv. Heutige Risiko (1,40â‚¬) + Moonshot (0,55â‚¬) = -1,95â‚¬ marginal, aber Safe-Kombi (-11â‚¬) + Balance-Kombi (-4,40â‚¬) als Hauptverlust waeren bei strikteren 10%-Limit ebenfalls reduziert.",
+      "bezug_spiel_id": "2026-05-14-gir-soc",
+      "anwenden_ab": "2026-05-15"
+    },
+    {
+      "datum": "2026-05-15",
+      "kategorie": "Stuani-Einwechslungs-Tor-Pattern bestaetigt: Backup-Veteran-9er-WACKEL ist eigene Goldgrube (Quelle 8i Einwechslungs-Boost-Trigger mit Tipp)",
+      "lesson": "STUANI-WACKEL @ 2.65 WON (+4.32â‚¬): Cristhian Stuani kam zur Halbzeit (46.) fuer Bryan Gil ALS Einwechslung rein und traf zum 1:1 (66.). Pattern-Bestaetigung: Veteran-9er als nominaler Backup bei jungen Vanat/Portu-Ausfaellen funktioniert besonders gut wenn das Heim-Team einen Klassenerhalts-Druck-Punkt erkaempfen MUSS und im 2. Durchgang offensiver wird. NEUE GOLDGRUBE-INDIKATION (n=1, beobachten): Veteran-Backup-9er-Torschuetzen-WACKEL/RISK-Tipps bei Heim-Team-Klassenerhalts-Pflichtspiel mit jungem Stamm-9er-Ausfall sind nicht-offensichtlich-WERT. ANWENDUNG: bei zukuenftigen Klassenerhalts-Heim-Spielen Veteran-Backup-9er (Stuani-Profil: 35+ Jahre, Karriere-Bonus, gewohnte Sub-Rolle) aktiv als WACKEL @ 2.30-2.80 scannen, NICHT als MOONSHOT abtun. Markt-Stat-Update: Goldgrube Torschuetzen Jederzeit (38.5% Hit / +21% ROI, n=26) profitiert auch von dieser Sub-Kategorie.",
+      "bezug_spiel_id": "2026-05-14-gir-soc",
+      "anwenden_ab": "2026-05-15"
+    },
+    {
+      "datum": "2026-05-15",
+      "kategorie": "Closeout-G6-Auswaerts-Blowout-Pattern (Quelle 8f - Markt-Pattern aus voller Analyse)",
+      "lesson": "EMPIRIE 15.05.: BEIDE NBA-G6-Closeouts (Cavs als Heim 3-2 vorne + Wolves als Heim 2-3 zurueck) verloren EKLATANT gegen Auswaerts-Teams: Pistons +21 (115:94) und Spurs +30 (139:109). Total Cavs-Pistons 209 (knapp Unter 209.5) - aber Spurs-Wolves 248 (deutlich Ueber 218.5) - Lesson 02.05. 'Closeout-Defensiv-Schlachten' nur fuer ELIMINATIONS-Druck-Spiele in engen Konfigurationen verlaesslich, NICHT fuer Spurs-style-Blowout-Closeouts. NEUE HARTREGEL G6-Closeout: (a) Heim-Closeout-ML/Spread-Tipp NIE als SAFE/VALUE wenn Heim-Team in Serie gegen Auswaerts-Team mit klarer Defensiv-/Tiefe-Edge spielt (Wolves vs Spurs-Wemby-Defense, Cavs vs Pistons-Cunningham-Tiefe). (b) Ueber/Unter-Tipps an Closeout-G6 mit Auswaerts-Blowout-Erwartung: bei Auswaerts-Team mit ueberdurchschnittlicher OffRtg (Spurs > 120) Ueber priorisieren statt Unter, auch wenn Linie unter Saison-Avg. (c) Korrelations-Vorsicht: Sieg + Spread auf gleiches Heim-Team in 2 Tipps gleichzeitig = Doppel-Risiko (heute: Cavs Sieg + Cavs -3.5 = beide -2.75 = -5.50 statt diversifiziert).",
+      "bezug_spiel_id": "2026-05-15-min-sas"
+    },
+    {
+      "datum": "2026-05-15",
+      "kategorie": "Sweep-Abwehr-Heim-Underdog-Edge VERFEINERT (Lesson 24.04. Update)",
+      "lesson": "WIDERLEGUNG 15.05.: Wolves +5.5 als Heim-Sweep-Abwehr-Underdog -> verloren mit 30 Pkt (Spurs 139:109, Castle 32 + Wembanyama 19 + Spurs-Bench dominant). Lesson 24.04. (Raptors als +5.5-Dog gegen Cavs gewann 22 Pkt Upset) galt Round-1-Top-Seed-Underperform-Pattern, NICHT Round-2-Conference-Semis gegen Top-3-Defense + Star-Form-Lauf. VERFEINERTE HARTREGEL: Sweep-Abwehr-Heim-Underdog-Edge gilt NUR bei (a) Round 1 ODER (b) Auswaerts-Team mit verletzungs-/form-bedingter Schwaeche ODER (c) Auswaerts-Team mit historischer Closeout-Verschlechterung. Bei Auswaerts-Team mit Wembanyama-/Castle-Form-Lauf + 3/4-Vor-Wins-Blowouts (Spurs-Avg +24.7 Pkt vor G6) ist Edge INVERTED -> Auswaerts-Spread-Cover wahrscheinlicher. Wolves-Beispiel: nicht Wolves +5.5 sondern Spurs -7.5 oder Total Ueber waere VALUE gewesen.",
+      "bezug_spiel_id": "2026-05-15-min-sas"
+    },
+    {
+      "datum": "2026-05-15",
+      "kategorie": "Top-Team-Final-Schon Lesson 14.05. INVERS bei Karriere-Highlight-Final (Quelle 8h - Rotation-Pattern)",
+      "lesson": "KONTRAFAKTISCHE EMPIRIE 15.05.: Lesson 14.05. (Top-Team-Rotation-vor-Pflicht-Final-7d-Schon) hat Watkins-Torschuetzen-Tipp gedroppt - aber Watkins spielte 90 Min + traf 2x (57', 73') beim 4:2 vs Liverpool. Quote ~2.10 -> Stake 0.5%=2.75 EUR -> ENTGANGENER GEWINN ~3.03 EUR. Pattern-Ursache: Lesson 14.05. basierte auf Bayern/Real/PSG-Routine-Final-Modus (jedes Jahr CL-HF -> Schon-Tendenzen). Aston Villa EL-Final ist KARRIERE-HIGHLIGHT fuer Emery-Coach + Volume-Stuermer - kein Schonen-Anreiz, sondern Form-Pflicht (Top-4 + EL-Form-Mitnahme). VERFEINERTE HARTREGEL: Lesson 14.05. NICHT auf Underdog-Final-Teams mit Karriere-Highlight-Final anwenden, NUR auf etablierte UEFA-Champions mit 3+ Final-Auftritten der letzten 5 Jahre. Konkret: Bayern, Real, PSG, ManCity, Liverpool -> JA. Villa, Frankfurt, Brighton, Atalanta -> NEIN, normal-bewerten. McGinn-Stamm-MF traf 89' = Stamm-Aufstellung uneingeschraenkt.",
+      "bezug_spiel_id": "2026-05-15-avl-liv"
+    },
+    {
+      "datum": "2026-05-15",
+      "kategorie": "Korrelations-Schutz - Doppelrisiko bei Heim-Sieg-Cluster (Quelle 8a)",
+      "lesson": "EMPIRIE 15.05.: Cleveland Cavaliers Cluster - Cavs Sieg (-2.75) + Cavs -3.5 Spread (-2.75) = -5.50 EUR Cluster-Verlust statt -2.75 bei diversifiziertem Set-up. Beide Tipps korreliert (beide brauchen Cavs-Sieg, Spread sogar Cavs-Sieg-mit-mind-4-Pkt). Cavs verloren mit 21 Pkt -> beide Tipps gerissen. ZUSATZ: Cavs -3.5 war auch in Balance-Kombi (Bein 2 von 3) -> Kombi-Reissung kostete weitere 4.40 EUR. Total Cleveland-Cluster-Exposure: 2.75 (et-5) + 2.75 (et-3 in Spielebene = 0 weil nur kombi) + 4.40 (Balance-Kombi) = 9.90 EUR an einem Spiel exponiert. NEUE HARTREGEL Korrelations-Cap: Pro Spiel max 1 Sieg-Outcome-Tipp im Einzeltipps-Bereich (ML ODER Spread ODER DC, nicht 2 davon gleichzeitig). Falls Spread + ML gewuenscht, dann 1 davon nur in Kombi (nicht zusaetzlich Einzeltipp). Konkret heute: et-5 Cavs ML UND cle-det-3 Cavs -3.5 in Balance-Kombi war Doppel-Tipp im Spielebene-Sinn - kuenftig Spread NUR in Kombi, nicht als zusaetzlichen Einzeltipp.",
+      "bezug_spiel_id": "2026-05-15-cle-det"
+    },
+    {
+      "datum": "2026-05-16",
+      "kategorie": "Existenz-Druck-Mismatch realisiert - Heidenheim-Abstiegs-Pflicht griff nicht (Quelle 8e Kategorie-Reality)",
+      "lesson": "EMPIRIE 16.05.: Heidenheim brauchte ZWINGEND Sieg gegen Mainz fuer Klassenerhalts-Hoffnung, Mainz ohne jeden Druck (Saisonende-Mitte-Tabelle). Trotzdem Heidenheim 0:2 verloren - HZ schon 0:2 nach Tietz 7. + Amiri 43. Zwei Tipps verloren: et-4 Sieg Heidenheim @2.09 (-8.25) + et-5 DC 1X @1.4 (-8.25) = -16.50 EUR an einem Spiel. Lattentreffer Pieringer 30. + Conteh-Einwechslung ohne Tor = Boost-Trigger fehlgeschlagen. NEUE HARTREGEL: bei Existenz-Druck-Edge MAX 1 Tipp (Sieg ODER DC, nicht beides). Das doppelte Heidenheim-Exposure (Sieg + DC 1X) verdoppelte den Schaden bei Sieg-Ausbleiben. Gegenmittel: Single-Outcome-Cap auch fuer Druck-Profile, nicht nur fuer NBA-Sieg-Cluster (vgl Lesson 15.05. Cleveland). Ab sofort: Heim-Existenz-Druck-Spiele = max 1 Outcome-Tipp im Einzelbereich; Tor-Markt (BTTS / Ueber) als Alternative pruefen statt Doppel-Outcome.",
+      "bezug_spiel_id": "2026-05-16-fch-m05"
+    },
+    {
+      "datum": "2026-05-16",
+      "kategorie": "Drehungs-Bestaetigung Mai-Cluster - DC X2 schuetzt, direkter Sieg-Tipp gefaehrlich (Quelle 8f Drehung)",
+      "lesson": "EMPIRIE 16.05.: Frankfurt-Stuttgart 2:2 - Stuttgart fuehrte 0:2 HZ (Baixauli 10., Nartey 45.) und gab 2-Tor-Polster ab (Burkardt-Doppel-Elfer 72. + 90+2.). Damit 5. Drehung im Mai 2026 (nach 02.05. Bayern-Heidenheim 3:3 von 0:2, 12.05./14.05./15.05.). DC X2 (Stuttgart+Remis) GEWONNEN trotz Drehung (et-6 +2.48 EUR) - direkter Stuttgart-Sieg-Tipp waere VERLOREN. 2:0-Insurance-Regel bet365 BL haette gegriffen wenn Sieg-Tipp gespielt, aber Insurance gilt NUR fuer Sieg-Tipp - DC X2 hat sie nicht. PFLICHT-PROFIL UPDATE: bei mit 0:2/2:0-Drehungs-historischer Liga (BL+CL Mai 2026 Drehungs-Quote ~30% bei 2-Tor-HZ-Polster) PFLICHT direkter Sieg-Tipp ODER DC-Variante - nie beide. Wenn Mai-Drehungs-Cluster bis Saisonende >=6 erreicht, Sieg-Tipps generell auf wackel kategorisieren bei <55% Faire-Hitrate.",
+      "bezug_spiel_id": "2026-05-16-sge-vfb"
+    },
+    {
+      "datum": "2026-05-16",
+      "kategorie": "Karriere-Highlight-Heim-Team NICHT-Rotation - Hoefler-Abschied-Boost realisiert (Quelle 8h Rotation-Pattern)",
+      "lesson": "EMPIRIE 16.05.: Freiburg 4:1 RB Leipzig - Hoefler letztes BL-Spiel (Karriere-Final) + Freiburg-Heim-Vorteil + Conference-Quali-Bestaetigung. Tipp et-8 DC X2 (Leipzig+Remis @1.5) GEROCHEN - Karriere-Highlight-INVERS-Caveat-Lesson 15.05. unterschaetzt. Hoefler-Motivation + Heim-Vorteil + Hochform (Beste 24. + Matanovic 26. = 2:0 in 2 Min) zermalmten Leipzig-B-Elf-Naehe. Korrektur 15.05.-Lesson: Karriere-Highlight bei HEIM-Team mit Saisonziel-Hoffnung (EL/CL/Conference-Quali) = anti-Rotation, voll motiviert. Karriere-Highlight bei AUSWAERTS-Team-ohne-Druck (z.B. Klopp letztes Spiel Liverpool ausserhalb Anfield gegen Mid-Table-Gegner) = NEUTRAL. UPDATE Pflicht-Filter: Heim-Karriere-Highlight = klare Form-Buchung gegen Underdog, NICHT als Coinflip behandeln. Mid-Tier-EL-Klub-Annahme aus 15.05. nur fuer Auswaerts-Spiele.",
+      "bezug_spiel_id": "2026-05-16-scf-rbl"
+    },
+    {
+      "datum": "2026-05-16",
+      "kategorie": "Einwechslungs-Boost-Trigger ohne Tipp - Bayern Jackson-Goretzka 82./83. (Quelle 8i)",
+      "lesson": "EMPIRIE 16.05.: Bayern - Koeln 5:1, Bayern wechselt Jackson fuer Goretzka 82., Jackson trifft 83. = klassischer Einwechslungs-Boost-Trigger nach bet365-Regel (Spieler X raus, Y kommt rein, Y trifft - haette fuer X-Torschuetzen-Tipp gegolten). Aber Goretzka war KEIN Torschuetzen-Tipp im Dossier, also Boost griff nicht praktisch. SCAN-AUFTRAG: Top-Team-Hauptstuermer-Kandidaten mit Bank-Backup naechste Tipps-Generation aktiv pruefen - Bayern Kane (Jackson-Backup mit Volume), BVB Guirassy (Beier/Adeyemi-Backup), Stuttgart Demirovic (Undav-Backup), Frankfurt Marmoush (Ekitike-Backup), Real Mbappe (Endrick-Backup). Realisiert-Bestaetigt: Backup-Stuermer-Tor-Konversion bei Wechsel ~83. Min in Top-6-Teams im Mai 2026 = 3 Bestaetigungen (02.05. Olise-Sane Bayern, 13.05. Brandt-Sabitzer BVB, 16.05. Jackson-Goretzka Bayern). NEUE PRAXIS: bei Bayern/BVB-Torschuetzen-Tipps Hauptstuermer-Quote @ ~2.0 = automatisch hoeher gewichten dank Boost-Erweiterung der Tor-Conversion-Wahrscheinlichkeit auf Backup.",
+      "bezug_spiel_id": "2026-05-16-bay-koe"
+    },
+    {
+      "datum": "2026-05-18",
+      "kategorie": "Top-Team-B-Elf-vor-CL-Final-CLUSTER (Quelle 8h Rotation-Pattern + 8a Korrelation)",
+      "lesson": "BEIDE CL-Finalisten am 30.05. (PSG + Inter) patzerten am 17.05. mit B-Elf-Rotation: PSG verlor 1:2 vs Aufsteiger Paris FC (Gory 76+90+4), Inter 1:1 vs Verona mit 90+2-Ausgleich Bowie. pfc-psg-1 DC X2 (PSG/Remis) @1.13 als value verloren - 'safe-nahe' Quote brutal kassiert. Lesson: bei einem CL-Finale in 7-14 Tagen werden BEIDE Finalisten in der Vor-Finale-Woche systematisch rotieren - Underdog-Sieg-Markt aktiv suchen (Paris FC ML @~7.0 wÃ¤re VALUE gewesen), Top-Team-Sieg-Markt komplett ausschlieÃŸen. ZusÃ¤tzlich: B-Elf-Schlussphasen-Crash in Min 80+ ist statistisch geh Ã¤uft (Bayern 02.05. 90+10, PSG 17.05. 90+4, Inter 17.05. 90+2) - bei B-Elf-Spielen Live-Quote-Beobachtung statt Pre-Match-Sieg-Tipp.",
+      "bezug_spiel_id": "2026-05-17-pfc-psg"
+    },
+    {
+      "datum": "2026-05-18",
+      "kategorie": "Karriere-Highlight-Tor-Markt auf GEEHRTEN ueberbewertet (Quelle 8h Rotation-Pattern)",
+      "lesson": "Lewandowski-Camp-Nou-Abschied: Tor-Festival 4 Tore + 3:1-Sieg + BTTS - ABER Lewa selbst kein Tor (83. fuer Casado raus, Casado MF, kein Einwechslungs-Boost). bar-bet-1 'Lewa trifft' @1.85 verloren. Griezmann-Atletico-Abschied (500 Spiele, 79. raus fuer Sorloth): Griezmann Assist auf Lookman, kein eigenes Tor. atm-gir-3 'Griezmann trifft' @2.65 verloren. Lesson 16.05. besagte Tor-These bei Karriere-Highlight - aber das gilt fuer DAS SPIEL (Ueber/BTTS), nicht zwingend fuer den GEEHRTEN selbst. Verfeinerung: Bei Karriere-Highlight (a) Ueber 2.5 + BTTS als VALUE auf das Spiel JA, (b) Torschuetzen-Tipp auf den Geehrten max WACKEL - speziell wenn Spielmacher (Griezmann) statt reiner Stuermer, oder wenn emotionale Auswechslung in 80er angekuendigt. Der Geehrte will gerne treffen, aber Mitspieler 'helfen' mit Vorlagen statt eigene Tore (siehe Mancini-Eckball heute Roma, Raphinha-Doppelpack Barca - keiner gibt Lewa den Ball gezielt fuer eigenes Tor).",
+      "bezug_spiel_id": "2026-05-17-bar-bet"
+    },
+    {
+      "datum": "2026-05-18",
+      "kategorie": "NBA-Game-7-Heim-Underdog-Komplett-Crash (Quelle 8g Markt-Pattern)",
+      "lesson": "Pistons-Cavs Game 7 @Detroit: Cavs 125:94 (-31!), HZ 47:64. ALLE 3 Pistons-Tipps verloren: det-cle-1 Pistons Sieg @1.74 verloren, det-cle-2 Unter 215.5 @1.9 verloren (Total 219 - Cavs ueber Tempo), det-cle-3 Cunningham Ueber 25.5 @1.8 verloren (nur 13 Pkt). Pattern verfeinert Lesson 24.04. (Sweep-Abwehr-Heim-Edge): Sweep-Abwehr-Edge gilt fuer G3/G4/G5 nach 0-2, NICHT fuer Game 7 nach 3-3. Game 7 = pure Klasse, Heim-Underdog kollabiert oft. Regel: (a) Heim-Underdog-Sieg-Tipp in Game 7 max RISIKO (nicht WACKEL), (b) Star-Spieler-Punkte des Heim-Underdogs max WACKEL mit 30%-Einsatz, (c) Unter-Total NUR wenn beide Teams defensiv - in 'Win-or-go-Home'-Druck wird Tempo hochgefahren auch von beidem Teams (-> Ueber-Edge). Heim-Crash-Cluster sind statistisch ~25-30% der Game-7-Faelle.",
+      "bezug_spiel_id": "2026-05-17-det-cle"
+    },
+    {
+      "datum": "2026-05-18",
+      "kategorie": "Einwechslungs-Boost-Timing-Filter (Quelle 8i Boost-Trigger-Analyse)",
+      "lesson": "Atletico-Girona: Griezmann 79. fuer Sorloth raus - et-4 'Sorloth trifft' @2.25 verloren weil Spiel entschieden (1:0 ab 21.). Sorloth hatte 11 Minuten + Nachspielzeit ohne offensive Aufgabe. Pattern: Einwechslungs-Boost-Trigger funktioniert NUR wenn Backup-Stuermer (a) frueh genug kommt (vor 75.) UND (b) das Team offensiv spielen MUSS (Rueckstand/Remis). Bei 1:0-Fuehrung mit Karriere-Highlight-Switch in 79. = Anti-Boost (Spiel entschieden, kein Antrieb). Filter-Regel: Sorloth/Ferran-Torres/Casado/etc. als 'Backup-Stuermer-Boost-Tipp' (Lesson 04.05. Einwechslungs-Boost) NUR setzen wenn (i) Spiel pre-Match als knapp erwartet wird (Quoten unter 1.40 fuer Favorit ausschlieÃŸen), (ii) Geehrter-Switch nicht erwartet ist (vor Spielende-Hommage-Switch ohne Tor-Auftrag), (iii) Hauptstuermer (X) trifft wahrscheinlich nicht spaet (Karriere-Highlight-Inszenierung verschiebt X-Auswechslung Richtung 80.+).",
+      "bezug_spiel_id": "2026-05-17-atm-gir"
+    },
+    {
+      "datum": "2026-05-19",
+      "kategorie": "Top-Team-Star-9er-Schon auch bei CL-Final 12d entfernt + Heim-Saisonfinale (Quelle 8h Rotation-Pattern, Refinement Lesson 16.05./14.05.)",
+      "lesson": "EMPIRIE 18.05.: Arsenal-Burnley 1:0 - GYOKERES (14 PL-Tore Saison + 14 Tore 2026 + 21 alle Wettbewerbe, klare Hebel-Regel-4-Form-Pflicht) NICHT in Startelf trotz Heim-Saisonfinale + Titel-Klar-Chance + 8 Tage ausgeruht. Havertz startete als 9er, Gyokeres erst 73. fuer Havertz rein bei 1:0-Fuehrung (kein Offensiv-Druck mehr). ars-bur-2 Gyokeres-Torschuetzen-VALUE @1.61 verloren (-8.25 EUR) + ars-bur-1 Ueber 1.5 SAFE @1.20 verloren (-11 EUR) + ars-bur-3 Ueber 2.5 @1.55 verloren (-8.25) + ars-bur-4 Arsenal AH-1.5 @1.65 verloren (-8.25). VERFEINERUNG Lesson 16.05. (Heim-Saisonfinale-Anti-Rotation): bei Top-Team mit Schuld-CL/EL-Final <= 14d (NICHT nur <= 7d wie Lesson 14.05. besagte) kann Coach trotz Heim-Saisonfinale + Titel-Klar-Chance den Star-Stuermer schonen - Arteta-Modus zementiert dass auch eine 12d-Distanz kein klares Schon-Schutz ist. NEUE HARTREGEL: bei Top-Team-Star-Stuermer mit Final-Termin <= 14d Tage Star-Stuermer-Torschuetzen-Tipp max WACKEL (nicht VALUE oder SAFE), egal welche Form-Edge. Aufstellungs-Verifikation 1h vor Anstoss (Lesson 22.04.) wird verpflichtend statt empfohlen.",
+      "bezug_spiel_id": "2026-05-18-ars-bur"
+    },
+    {
+      "datum": "2026-05-19",
+      "kategorie": "Markt-Goldgrube N=6-Sample-Bias bei Ueber 1.5 (Quelle 8c Markt-Bilanz + 8e Kategorie-Reality SAFE)",
+      "lesson": "EMPIRIE 18.05.: ars-bur-1 Ueber 1.5 SAFE @1.20 verloren (-11 EUR). Markt-Stat zur Tipp-Zeit war 83.3% Hit / +31.7% ROI bei N=6 - mit dem 7. Datenpunkt fallend. Statistisch zu kleine N fuer 'Goldgrube'-Label (Saison-Min-Schwelle sollte n>=10 sein, nicht n>=5 wie aktuell in statistik_berechnen.py). PL-MD37-Saisonende-Spiel mit abgestiegenem Auswaerts-Team + Notformation + Top-Favorit hat oft 1:0-Steuerungsmodus (Arteta priorisiert Sicherheit + Schonung, nicht Tor-Festival). NEUE FILTER-REGEL: Ueber 1.5 NICHT als SAFE setzen wenn (a) Markt-Goldgrube-Stat noch N<10 ist UND (b) Sub-Pattern 'Top-Favorit + abgestiegenes Schluss-Tabellenende' vorliegt (Sicherheits-Sieg-Modus dominiert). Lieber Ueber 1.5 als VALUE mit reduziertem Einsatz, oder direkt Sieg-Tipp ohne Tor-Total-Anforderung. Zusaetzlich: SAFE-Hitrate-Reality - mit ars-bur-1-Verlust ist SAFE-Kategorie weiter unter Soll 75-90%.",
+      "bezug_spiel_id": "2026-05-18-ars-bur"
+    },
+    {
+      "datum": "2026-05-19",
+      "kategorie": "Anti-Boost-Pattern bei 1:0-Fuehrungs-Spaet-Sub (Quelle 8i Boost-Trigger ohne Tipp-Win, Refinement Lesson 18.05.)",
+      "lesson": "EMPIRIE 18.05.: Gyokeres (Bench-Volume-9er-Tipp) kam 73. fuer Havertz rein bei 1:0-Arsenal-Fuehrung, kein Tor in 17 Min + Nachspielzeit. Lesson 18.05. (Sorloth-Filter: Boost-Tipp NUR wenn (a) vor 75. UND (b) Team muss offensiv spielen) hier Filter-(b)-Verletzung: bei 1:0-Fuehrung gegen abgestiegenes Gast-Team gibt es keinen Offensiv-Druck - Spiel wird 'kontrolliert nach Hause gefahren'. KOMPLEMENTAERE NEUE REGEL: nicht nur Backup-Sub-Tipp-Filter, auch UMGEKEHRT - wenn Star-9er-Tipp X gespielt wird und X NICHT in Startelf ist, ist der Tipp BEI Fuehrungs-Status de-facto erlegen, weil X als Bank-Spieler erst spaet kommt + dann ohne Druck. STRATEGIE: Star-9er-Tipp X NUR wenn Aufstellung verifiziert (Startelf). Bei Substituten-Slot-Erwartung mind. ein VALUE-Tipp auf das, was sich live entwickeln kann (Live-Quote-Beobachtung) statt Pre-Match-Star-Tor-Bet. Konkret 18.05.: Gyokeres-Torschuetzen-Tipp haette nach Aufstellungs-Bekanntgabe (Gyokeres Bank) gedroppt werden muessen - 1h-Cutoff-Regel ist KRITISCH.",
+      "bezug_spiel_id": "2026-05-18-ars-bur"
+    },
+    {
+      "datum": "2026-05-19",
+      "kategorie": "Mini-Spiele-Tag-Kombi-Diversifikations-Cap (Quelle 8a Korrelation, NEUE Hartregel)",
+      "lesson": "EMPIRIE 18.05.: 2-Spiele-Tag mit 2 Kombis (Safe-Mini + Balance) - beide verloren (Total -15.40 EUR), weil Layer-1 zwingt zu max 1 Bein/Spiel/Kombi, Arsenal-Spiel war strukturell doppelt-gerissen (Ueber 1.5 + Gyokeres beide weg) -> beide Kombis weg. Tagesbilanz: 70.40 EUR (12.8% Kasse) exponiert auf 1 PL + 1 NBA-Spiel = strukturell ueber-exponiert. Lesson 15.05. Max-10%-Kasse-Cap bei <=3 Spielen + Liga-ROI-Negativ ist hier nicht direkt anwendbar (PL nicht in beobachtungs_ligen.json mit ROI<0, NBA-WCF auch nicht), ABER bei nur 2 Spielen gilt strukturelle Diversifikations-Unmoeglichkeit. NEUE HARTREGEL Mini-Spiele-Tag: bei <=2 Spielen pro Tag MAX 1 Kombi (entweder Safe-Mini ODER Balance, NICHT beide). Kombi-Diversifikation ist mit 2 Beinen aus 2 Spielen strukturell nicht erreichbar - der Schaden eines Spiel-Komplett-Crashs verdoppelt sich auf beide Kombis. Konkret: heute haette nur Safe-Mini (Ueber 1.5 + Spurs +6.5) -> 11 EUR Einsatz, statt 11+4.40 = 15.40 EUR gespielt werden duerfen. Sparring der 4.40 EUR Balance-Einsatz.",
+      "bezug_spiel_id": "2026-05-18-ars-bur"
+    },
+    {
+      "datum": "2026-05-20",
+      "kategorie": "Tag-Retter Risiko-Kombi-Validierung @19.24x (Quelle 8a Korrelation, 3. Empirie-Tag 30d)",
+      "lesson": "ERFOLGS-VALIDIERUNG #3: Risiko-Kombi (Kroupi @3.25 Torschuetze + Richarlison @3.10 Torschuetze + Brunson Ueber 33.5 @1.91) gewann KOMPLETT @ 19.24x, +25.54 EUR Netto auf 1.40 EUR Einsatz. Rette den Tag (Einzel +4.97 + Safe -11 + Balance -4.40 + Moonshot -0.55 + Risiko +25.54 = +14.55 EUR / ROI +16.4% bei 88.85 EUR Einsatz). Pattern: 3-Bein-Risiko-Kombi mit Layer-3-Diversifikation (Spielertor Spiel 1 + Spielertor Spiel 2 + Player-Punkte Spiel 3, markt-entkoppelt zu Safe/Balance/Moonshot) ist statistisch +EV. Empirische Bilanz: 01.05. Risiko-Kombi @9.79x gewann (+8.79), 19.05. Risiko-Kombi @19.24x gewann (+24.14). Beide Erfolg bei kleinem-Spiele-Tag (4 bzw. 3 Spiele) UND perfekter Layer-3-Markt-Entkopplung. REGEL: 3-4-Bein-Risiko-Kombi mit 0.25% Einsatz + striktem Layer-3 (markt-entkoppelt zwischen allen Kombis) ist als 'Tag-Retter-Vorlage' beizubehalten - bei Negativ-Einzel-Tag immer noch potentielle Plus-Bilanz. Konkrete Implikation: NBA-Player-Punkte-Boykott (HR16) bleibt fuer Einzeltipps aber Risiko-/Moonshot-Kombi-Slot mit Heim-Star-im-Comeback-Setup (heute Brunson) ist legitim - 38 Pkt deutlich ueber Linie 33.5.",
+      "bezug_spiel_id": "2026-05-19-risiko-kombi-erfolg"
+    },
+    {
+      "datum": "2026-05-20",
+      "kategorie": "NBA-Heim-Comeback-Drehung bei Recovery-Asymmetrie (Quelle 8f Drehungs-Cluster + 8h Rotation)",
+      "lesson": "EMPIRIE 19.05.: Knicks-Cavs ECF-G1 (Heim-Recovery 9d vs Auswaerts 2d nach G7) - Cavs fuehrten 22 Pkt mit 7:52 in Q4 (93:71), Knicks-44-11-Lauf ueber Q4-Rest + OT zu 115:104-Sieg. Klassisches Drehungs-Pattern: Recovery-Vorteil materialisiert sich in Q4-Defense-Crash der muederen Auswaerts-Mannschaft + Heim-Crowd-Energie verstaerkt. STRATEGISCHE NUTZUNG: bei Heim-Spielen mit Recovery-Asymmetrie >=5d (Heim vs Auswaerts) sind Q4-Comebacks erheblich wahrscheinlicher als bei symmetrischer Recovery. Markt-Implikation: (1) Knicks Spread -6.5 + Ueber 217.5 als VALUE-Tipps beide gewannen, weil OT-Inflation + Brunson-Comeback-Volume sich addierten. (2) Mitchell Ueber 30.5 (29) verfehlte - Auswaerts-Lead-Volumen kann im Q4-Crash kollabieren. Mitchell scorte fast komplett in Q1-Q3 (Cavs-Fuehrung), aber in Q4-Crash trocken. ERWEITERUNG der HR16-Boycott: bei Auswaerts-Star-Punkte-Tipp mit Recovery-Nachteil >=5d kein VALUE/SAFE - max WACKEL/Moonshot-Slot. Bei Heim-Star-Comeback-Setup im Comeback-Tag (z.B. Brunson 38 ueber Linie 33.5) ist Volumen-Edge da. OT-Inflation-Pattern: OT addiert 10+ Min = 20-25 Pkt = Total-Linien (215-220) werden via OT regelmaessig gerissen. Bei Ueber-217.5-Type-Tipps strukturell die OT-Wahrscheinlichkeit (G1 H2H knapp = OT-Risiko hoch) einrechnen.",
+      "bezug_spiel_id": "2026-05-19-nyk-cle"
+    },
+    {
+      "datum": "2026-05-20",
+      "kategorie": "Heim-Festung >=15-Spiele-ungeschlagen als SAFE-Downgrade-Trigger (Quelle 8g Markt-Pattern aus nicht-erwartetem Spiel-Outcome)",
+      "lesson": "EMPIRIE 19.05.: Bournemouth-City Endstand 1:1 trotz City-Title-Druck-Maximum (Niederlage = Arsenal-Meister). City SAFE-Sieg-Tipp @ 1.60 (etc-2, 11 EUR) verloren - Klassen-Edge (H2H 94.1% Sieg-Quote in 17 PL-Begegnungen) + voller Pep-Kader (Rodri zurueck) + Auswaerts-Form 7S-3U-0N reichten nicht gegen Bournemouth-16-PL-ungeschlagen-zuhause-Festung. Kroupi 39' (Karriere-Highlight) + Haaland 90+5 (knappes Equalizer). Heim-Festungs-Stat war im Verifikations-Report als 'Warning aber keine Niederlage' gewertet - das war zu schwach. NEUE PFLICHTREGEL: bei Heim-Team mit >=15-PL/BL/LaLiga-Spiele-ungeschlagen-Heim-Statistik darf KEIN Auswaerts-Sieg-Tipp als SAFE gelabelt werden, auch wenn Klassen-Edge + Motivation gegen Heim-Team spricht - max VALUE @ schmaler Quote oder gar DC-Variante (Auswaerts-DC X2). Konkret 19.05.: City Sieg @1.60 haette VALUE statt SAFE sein muessen, oder DC City 12 @ engerer Quote. Ergaenzung der bestehenden Lesson 25.04. SAFE-Trefferquote-Reality-Check: SAFE-Label braucht JETZT Pflichtcheck (1) Heim-Festungs-Stat <15 ungeschlagen, (2) keine Form-Krise, (3) keine Verletzungs-Krise auf Tor-Position. Bei 1 von 3 verletzt -> max VALUE.",
+      "bezug_spiel_id": "2026-05-19-bou-mci"
+    },
+    {
+      "datum": "2026-05-20",
+      "kategorie": "HR2 Anti-Heim-Bias-Subfilter bei eigenem Existenz-Druck-Team-Verletzungs-Crash (Quelle 8e Kategorie-Reality + 8c Markt-Bilanz)",
+      "lesson": "EMPIRIE 19.05.: Chelsea-Tottenham Endstand 2:1 trotz Chelsea-Form-Krise (7 PL ohne Sieg seit Maerz, 1S-2U-7N). HR2 (Anti-Heim-Bias bei Form-Krise) hatte Spurs-X2-DC @1.82 als VALUE-Top-Pick fuer Existenz-Druck-Edge (1 Pkt fuer Klassenerhalt) markiert - aber DC X2 gerissen, weil Spurs-Verletzungs-Crash noch schlimmer war als Chelsea-Form-Krise (Solanke + Kudus + Romero + Xavi Simons + Kulusevski + Odobert + Davies alle OUT, Richarlison als einziger fitter ST). Richarlison traf zwar (74., WACKEL-Tipp @3.10 gewann), aber Spurs-Team-Niveau gesamt war unter Chelseas Klassen-Edge. NEUE SUBFILTER-PFLICHTREGEL fuer HR2: vor Spurs-/Auswaerts-X2-VALUE-Tipp pflicht-pruefen ob Auswaerts-Team selbst Verletzungs-Crash hat (>=3 Stammspieler OUT, insbesondere Stuermer/Innenverteidiger). Wenn ja -> Spurs-X2 max WACKEL, nicht VALUE. Asymmetrie-Quotient = (Heim-Form-Defizit-Severitaet) vs (Auswaerts-Verletzungs-Defizit-Severitaet). Heute war Chelsea-Form-Krise = 7 ohne Sieg, Spurs-Verletzungs-Crash = 7+ Stammspieler OUT - quantitativ Spurs schlechter. Strategie-Implikation: in Spielen mit beidseitiger Krise (Form vs Verletzung) ist Klassen-Edge entscheidend, nicht Motivations-Asymmetrie. Auch Markt-Konsens (Asian-Handicap Spurs +0.5 @1.83) war im Tipp als Argument genutzt - das ist Buchmacher-Linie, nicht Edge-Beweis. Tipp-Routine soll Asian-Handicap-Konsens als Risiko-Indikator, nicht als Edge-Bestaetigung lesen.",
+      "bezug_spiel_id": "2026-05-19-che-tot"
+    },
+    {
+      "datum": "2026-05-21",
+      "kategorie": "Klassen-Edge-Final-Volume-9er-Schweigen (Quelle 8f volle_analyse Markt-Pattern)",
+      "lesson": "EMPIRIE EL-Final 20.05.: Villa 0:3 - ALLE 3 Tore durch Mittelfeld-Schuetzen (Tielemans 42' / Buendia 45+4' / Rogers 59'), kein Volume-9er-Tor (Watkins kein Tor + Matanovic kein Tor). Pattern: in Klassen-Edge-Finals (PL Top-4 vs BL-Mid-Table) spielen die Volume-9er als Pressing-Anker / Hold-Up-Spieler, Tor-Verteilung verlagert sich strukturell auf attacking Mids + Wings, die ihre 'Goal-of-the-Career'-Momente nutzen. NEUE REGEL fuer kommende Klassen-Edge-Finals (CL-Final 30.05. + zukuenftige): Volume-9er-Tor-Tipp @1.80-2.10 nur noch WACKEL, NICHT VALUE. Stattdessen aktiv suchen: zentrale Mittelfeldspieler / attacking Mids mit Karriere-Highlight-Motivation und Quote 4.0-8.0 als VALUE. Watkins-Tipp @1.95 und Matanovic-Tipp @3.70 waeren als WACKEL bzw RISIKO zu labeln gewesen - nicht VALUE/WACKEL. Strategie-Implikation: Klassen-Edge-Final hat strukturell breitere Tor-Verteilung als Standard-Liga-Spiel.",
+      "bezug_spiel_id": "2026-05-20-fre-avl"
+    },
+    {
+      "datum": "2026-05-21",
+      "kategorie": "Volume-Player-Stat-Theses sport-uebergreifend korreliert (Layer-3-Erweiterung) (Quelle 8a Korrelations-Analyse)",
+      "lesson": "EMPIRIE Balance-Kombi 20.05.: Watkins-Tor (Fussball) + Wembanyama-Ueber-24.5 (NBA) - beide gerissen, obwohl sport-uebergreifend (Diversifikation-Annahme). MECHANIK identisch: beide Volume-Player-Stat-Theses ('Top-Star trifft seine Linie/Tor'), beide gegen Top-Defense (Villa-8-Clean-Sheets-Mauer / OKC-Top-3-Defense), beide unterlegen. Trotz unterschiedlicher Sportart sind beide Theses durch denselben Mechanismus ('Volume-Player gegen Defense-Mauer im Final/Decider-Setup') korreliert. LAYER-3-PRAEZISIERUNG: Volume-Player-Stat-Theses zaehlen als KORRELIERT auch sport-uebergreifend, weil der Mechanismus identisch ist - Defense-Mauer faengt gerade die Volume-Player als Erstes. REGEL: in einer Kombi max 1 Volume-Player-Stat-These (Tor / Player-Punkte / Player-Treffer). Heute Balance-Kombi haette stattdessen 1x Volume-Player + 1x Total-Markt (z.B. Watkins-Tor + Ueber 215.5 NBA) bauen muessen - Markt-Typ-Diversifikation reicht NICHT als Layer-3, Mechanismus-Diversifikation muss zusaetzlich erzwungen werden.",
+      "bezug_spiel_id": "2026-05-20-fre-avl"
+    },
+    {
+      "datum": "2026-05-21",
+      "kategorie": "Konsens-Best-Bet-Cluster-Trap: beide Aggregator-Konsens-Bets gleicher Tag gerissen (Quelle 8c Markt-Bilanz + 8g Markt-Pattern)",
+      "lesson": "EMPIRIE 20.05.: BEIDE Aggregator-Konsens-Best-Bets verloren am gleichen Tag - 'Unter 2.5 Tore' (NBCSports/CBSSports/SBD/Covers) im EL-Final + 'Unter 216.5 Punkte' (NBCSports/CBSSports) in NBA-WCF-G2. Beide als 'Modell-Edge +6-8%' aufgenommen mit 4-Quellen-Konsens. Realitaet: EL endete 0:3 (+0.5 ueber 2.5), NBA endete 235 (+18.5 ueber 216.5). KONSENS-TRAP-PATTERN: Aggregator-Quellen schreiben oft gegenseitig ab und reflektieren Markt-Erwartung statt Edge-Signal - bei Klassen-Edge-Asymmetrie / Bounce-Back-Druck-Setups produziert das systematisch Fehlsignale. NEUE REGEL: max 1 Aggregator-Konsens-Best-Bet pro Tag als VALUE in einzeltipps[]. Bei 2+ Konsens-Bets am Tag: 1 davon als VALUE behalten (mit hoechstem Sample-N im Markt-Typ), Rest auf WACKEL degradieren. ZUSATZ: bei Klassen-Edge-Final + bei NBA-Bounce-Back-Decider-Setup ist Konsens-Unter-Markt strukturell schwach - Konsens-Best-Bets in diesen Setups sind als 'Konsens-Trap' zu kennzeichnen und mit Marker im begruendung-Feld zu markieren.",
+      "bezug_spiel_id": "2026-05-20-fre-avl"
+    },
+    {
+      "datum": "2026-05-21",
+      "kategorie": "Mini-Spiele-Tag-Bilanz-Realitaet: Safe-Kombi als einziger Tag-Retter, Balance/Risiko strukturell Verlustverstaerker (Quelle 8a Korrelation + 8e Kategorie-Reality)",
+      "lesson": "EMPIRIE Mini-Spiele-Tag 20.05. (2 Spiele): Safe-Kombi gewann @2.39x (Brutto 26.29â‚¬ / Netto +15.29â‚¬) = TAG-RETTER bei sonstiger Bilanz 2W-4L Einzeltipps + 0W-3L Kombis (Balance/Risiko/Moonshot alle aus). Bei nur 2 Spielen ist jede 2-Bein-Kombi mathematisch eine '50%-Bein Ã— 50%-Bein = 25%-Kombi'-Realitaet, mit nur 2 Spielen kein Diversifikations-Raum fuer markt-entkoppelte Beine - jeder Verlust eines Beins killt die Kombi. Balance + Risiko + Moonshot in Mini-Tag-Setting waren faktisch garantierte Verluste (3-fach -6.35â‚¬ Kombi-Einsatz fuer 0 Auszahlung). NEUE HARTREGEL fuer kommende <=2-Spiele-Tage: Routine generiert NUR Safe-Kombi + Moonshot (Spass-Slot 0.1%). Balance + Risiko ueberspringen, weil 2-Bein-Konstruktionen weder Edge noch substantielles Risiko-Profil bieten. Begrundung: bei 4+ Spielen liefert 4-Bein-Risiko bei 10-13% Hitrate sinnvolles EV-Profil, bei 2-Bein-Risiko ist Hitrate ~25% und Quote unter Master-Soll = Negative EV. Total-Exposure-Cap bei Mini-Tagen automatisch reduziert auf max 4% Kasse (Safe 2% + Moonshot 0.1% + Einzel-Polster <=2%).",
+      "bezug_spiel_id": "2026-05-20-okc-sas"
+    },
+    {
+      "datum": "2026-05-22",
+      "kategorie": "Doppelspiel-Hinspiel-Tor-Festival-These widerlegt (Existenz-Druck-Relegation defensiv)",
+      "lesson": "EMPIRISCHE WIDERLEGUNG: WOB-PAD Relegations-Hinspiel 21.05. endete 0:0 trotz vor-Spiel-Markt-Goldgrube Ueber 2.5 @ 1.75 (Pre-Match-These '+33.2% ROI Marktstat + H2H 4/5 mit 3+ Toren + Paderborn MUSS Auswaerts-Tor erzielen'). Realitaet: Karriere-Highlight-Aufstiegs-Underdog (Paderborn) ging in Existenz-Druck-Hinspiel auswaerts auf DEFENSIVE Schiene, nicht offensive - die 'Auswaerts-Tor-Logik treibt Offensive'-Annahme war systematisch falsch. Bei Doppelspiel-Format-Hinspielen mit beidseitig Existenz-Druck (Aufstieg vs Abstieg, Karriere-Highlight vs Existenz-Erhalt) spielen beide Teams oft 0:0 oder 1:0/1:1 - Vorsichts-Defensive ueberwiegt Tor-Druck. Pattern bestaetigt durch 30.04.-Lesson (EL/Conference-HF-Hinspiele defensive Bias). NEUE REGEL: BTTS und Ueber 2.5 in Hinspielen von BL-Relegation, DFB-Pokal-Halbfinale, Coppa-Italia-Halbfinale, EL/Conference-HF/Final-Hinspielen ab sofort max WACKEL - nicht VALUE/SAFE, nicht als Markt-Goldgruben-Bevorzugung in Einzel-Set. Bevorzugte Maerkte fuer solche Hinspiele: Unter 2.5/3.5, DC fuer das defensiv staerkere Team, 'Beide treffen NEIN'. Erst im Rueckspiel mit klarem Tor-Druck-Trigger (Hinspiel-Score notwendig zu egalisieren) ist Tor-Markt VALUE. Markt-Goldgruben-Statistik 'Ueber 2.5 +33.2% ROI' war auf regulaeren Liga-Spielen aufgebaut - Hinspiel-Subfilter fehlt.",
+      "bezug_spiel_id": "2026-05-21-wob-pad"
+    },
+    {
+      "datum": "2026-05-22",
+      "kategorie": "NBA-Star-Defense-Adjust nach G1-30+-Show (Player-Punkte-Subfilter)",
+      "lesson": "EMPIRIE: Brunson 38 Pkt G1 (19.05.) -> 19 Pkt G2 (21.05., HZ erst 2 Pkt) wegen Cavs-Atkinson-Switch-Coverage-Adjust. Pre-Match-Tipp 'Brunson Mehr als 26.5 Punkte @ 1.90' erfuellte alle 4 Lesson-04.05.-Player-Punkte-Kriterien (Spread <=7.5, Form-Edge >80%, Linie Saison-Schnitt-1, Heim-MSG) UND verlor trotzdem klar. NEUE PRAEZISIERUNG der Lesson 04.05.: wenn Top-Star im UNMITTELBAR vorigen Spiel der Serie 30+ Punkte erzielte UND der Gegner eine Top-5-Defense ist (Cavs Top-3 25/26), ist der NAECHSTE Adjust schneller als die Markt-Linie es einpreist (Linie nur -1 unter Saison-Schnitt = Markt erwartet 'nahe Saison-Schnitt' aber Defense reagiert auf den Outlier). Konkrete Subfilter-Regel: Player-Punkte-Ueber Tipps NUR dann VALUE/WACKEL, wenn (a) Spieler hatte im Vorspiel <=20% UEBER Saison-Schnitt (kein Hot-Hand-Markt-Echo), ODER (b) Gegner-Defense Rang 11+ in Saison (kein Top-Defense-Adjust-Risiko), ODER (c) Linie ist mind. 4 Punkte unter Saison-Schnitt (echte Markt-Unterschaetzung). Wenn keine der drei Bedingungen erfuellt: max RISIKO oder Moonshot-Bein, kein Einzel. Brunson 21.05. erfuellte 0/3 Subfilter-Bedingungen (G1 38 Pkt = 27% ueber Saison-Schnitt ~30, Cavs Top-3-Defense, Linie -1) - kein Edge sondern Falle.",
+      "bezug_spiel_id": "2026-05-21-nyk-cle"
+    },
+    {
+      "datum": "2026-05-22",
+      "kategorie": "Sekundaer-Volume-Star-Eruption (NEU aus Volle-Analyse 8h Rotation-Pattern)",
+      "lesson": "VOLLE-ANALYSE-DERIVAT: NYK-CLE G2 (21.05.) zeigt Pattern 'Defense-Lock auf Hauptstar -> Sekundaer-Star bricht aus' empirisch: Cavs-Defense fokussierte auf Brunson (38 G1 -> 19 G2 = -50% Output), Josh Hart als sekundaerer Volume-Player explodierte zu 26 Pkt Career-Playoff-High (Saison-Schnitt ~15 = +73% Outlier-Game). Wenn ein Team einen Star drosselt, verschiebt sich der Volume-Ball auf den 2nd/3rd-Option - klassisches Anpassungs-Paradox. STRATEGIE-IMPLIKATION fuer kuenftige Routine: bei NBA-Playoff-G2/G3 nach einem 30+-Pkt-G1 vom Hauptstar UND erwartbarer Top-5-Defense-Adjust beim Gegner -> Player-Punkte-Tipp auf SEKUNDAER-VOLUME-STAR (Saison-Schnitt 14-19 Pkt, Linie nahe Saison-Schnitt) als VALUE-Kandidat. Heim-Status + Sekundaer-Volume-Profil-Hist > 22% Pkt-Anteil-Spielzeit notwendig. Vorbedingung: Sekundaer-Star muss konstante Spielzeit haben (kein Bench-Spieler). Bei Knicks-Pattern waren Hart und Towns plausible Kandidaten (beide 30+ Min/Spiel). Diese Lesson erweitert die Player-Punkte-Erlaubnis um eine zweite Ebene (Sekundaer-Volume-Edge) statt nur auf Top-Star-Linien-Unterschaetzung zu setzen.",
+      "bezug_spiel_id": "2026-05-21-nyk-cle"
+    },
+    {
+      "datum": "2026-05-22",
+      "kategorie": "Anti-Heim-Festungs-Liga-Letzter zusaetzlich-Tor-Markt-Sperre (Quelle 8g Markt-Pattern)",
+      "lesson": "VERSCHAERFUNG der 20.05.-Anti-Festungs-Lesson: Wolfsburg als schwaechstes BL-Heim-Team Saison 25/26 (10 Pkt aus 17 Heimspielen + 11 Pkt Rueckrunde = Liga-Letzter) lieferte trotz 17 Schuesse + 70% Possession in 2.HZ KEIN Tor gegen Paderborn-Defense. Markt-Pattern aus volle_analyse: bei Heim-Anti-Festungs-Teams (10 Pkt oder weniger aus 17+ Heimspielen) ist nicht nur Sieg-Markt sondern AUCH Tor-Markt strukturell ueberschaetzt - die Schwaeche eines Anti-Festungs-Heim-Teams beinhaltet auch chronische Effizienz-Mangel im Strafraum (siehe Wolfsburg 17 SOG ohne Treffer). NEUE REGEL: bei Anti-Festungs-Heim-Teams (Punkte-Hitrate Heim <0.65 ueber 15+ Spiele) NICHT NUR Sieg-DC-Tipps streichen sondern AUCH Ueber-1.5/2.5/BTTS-Tipps auf Heim-Spiele dieser Teams als Markt-Goldgrube zu suchen sondern als WACKEL einstufen. Anti-Festungs-Heim-Teams produzieren tor-armes Spiel beidseitig (Defensiv-eingestellt + offensiv ineffektiv). Aktuell betroffen: Wolfsburg-Heim, plus Pruefen ob Hoffenheim/Heidenheim/St.Pauli etc. ebenfalls Anti-Festungs-Stati haben. Subfilter im Schema-Mapper: bei Heim-Anti-Festung + Ueber-2.5/BTTS-Tipp -> Auto-Downgrade auf WACKEL.",
+      "bezug_spiel_id": "2026-05-21-wob-pad"
+    },
+    {
+      "datum": "2026-05-23",
+      "kategorie": "NBA-Bench-Tiefen-Asymmetrie-Subfilter fuer HR18-G2-Reaktions-Spike (Quelle 8e Reality + 8h Rotation-Pattern)",
+      "lesson": "EMPIRISCHE WIDERLEGUNG des Triple-Edge-Stacks: Spurs hatten G2-Reaktions-Spike (HR18) + 4-0 Reg-Season H2H + Heim-16-4-letzte-20 als 3-fach-Edge-Stack vs OKC und verloren G3 trotzdem 108-123 (-15) bei HZ-Fuehrung 53-46 (+7). Killer-Faktor: OKC-Bench 76 Pkt vs Spurs-Bench 23 Pkt = -53 Pkt-Diff (McCain 24 Karriere-Conf-High + J.Williams 18). Spurs-Verletzungs-Cluster (Fox+Harper OUT) ohne adequate Backup-PG-Tiefe. NEUER SUBFILTER zu HR18: bei erwarteter Bench-Asymmetrie >=20 Pkt (z.B. eigene Top-3-Rotation-OUT vs intakte Gegner-Bench) HR18-Reaktions-Spike NICHT als VALUE-Trigger nutzen, max wackel. Stake-Reduktion (1% statt 1.5%) im Mini-Tag war Schritt in richtige Richtung aber nicht ausreichend - bei diesem Profil 0% in einzeltipps[] richtig. Goldgrube WCF-Total Ueber bestaetigt parallel (alle 3 Spiele >217.5).",
+      "bezug_spiel_id": "2026-05-22-sas-okc"
+    },
+    {
+      "datum": "2026-05-23",
+      "kategorie": "Sekundaer-Volume-Star-G3-Snap-Back-Risiko (Subfilter zur 22.05.-Erlaubnis-Erweiterung)",
+      "lesson": "PRAEZISIERUNG der Lesson 22.05. Sekundaer-Volume-Star-Eruption: Castle Ueber 22.5 als VALUE @1.85 verloren - Castle G3 nur 13 Pkt (von G2 25, -48%) nachdem OKC Caruso/Wallace als Defense-Specialist auf Castle switchte. Pattern ist ANALOG zu Wemby G1 41 -> G2 21 (-49%) nach Hartenstein-Adjust - jeder Hot-Hand-Sekundaer-Star wird im NAECHSTEN Spiel defensiv neutralisiert. NEUER SUBFILTER: Sekundaer-Volume-Star-Erlaubnis NUR wenn (a) eigene Bench-Asymmetrie nicht negativ (sonst Pace-Volume sinkt), (b) Gegner hat keinen Defense-Specialist auf Bench fuer 2.HZ-Switch verfuegbar, (c) NICHT direkt nach Karriere-Highlight G2 - Snap-Back-Statistik laut Brunson-Pattern. Castle erfuellte (b) und (c) NICHT - OKC hatte Caruso+Wallace, G3 war direkt nach Castle-G2-25-Ausbruch. Lesson 22.05. Sekundaer-Volume-Erlaubnis-Erweiterung damit auf wackel-Profil eingegrenzt, NICHT VALUE-Tier.",
+      "bezug_spiel_id": "2026-05-22-sas-okc"
+    },
+    {
+      "datum": "2026-05-23",
+      "kategorie": "NBA-Star-G3-Snap-Back-Erlaubnis nach G2-Defense-Adjust (Reverse-Lesson zu 22.05. Hot-Hand-Subfilter)",
+      "lesson": "WIDERLEGUNG der Lesson 22.05. NBA-Star-Defense-Adjust-G1-Hot-Hand-Subfilter im G3-Snap-Back-Profil: Wemby Ueber 24.5 @1.85 als wackel (NICHT in einzeltipps[]) markiert weil Subfilter 1/3 - aber gewann 26 Pkt klar ueber Linie. G2-Defense-Adjust (Hartenstein-Switch von 41 auf 21 Pkt) ist statistisch ein TEMPORAERER Shock, G3 zeigt Snap-Back Richtung Saison-Schnitt 25-26. Reverse-Subfilter-Logik: nach G2 -20% Output ist G3-Linie nahe Saison-Schnitt eine VALUE-Konstellation (Markt unterschaetzt Snap-Back). NEUE REGEL: NBA-Star-Punkte-Linie >= Saison-Schnitt -2 Pkt nach Defense-Adjust-G2-Crash = VALUE-Erlaubnis, statt komplettes HR16-Player-Punkte-Boykott + Subfilter-Pruefung. Sekundaer-Volume-Star (Castle) bleibt Subfilter-pflichtig (Lesson 23.05.2), aber Stamm-Volume-Star nach G2-Adjust hat klares Markt-Edge-Profil.",
+      "bezug_spiel_id": "2026-05-22-sas-okc"
+    },
+    {
+      "datum": "2026-05-23",
+      "kategorie": "Serie-A-Saisonende-Dead-Rubber Tor-Markt-Profil (Quelle 8g Markt-Pattern aus nicht-getipten Spielen)",
+      "lesson": "BESTAETIGUNG via volle_analyse: Fio-Ata 1:1 mit nur 2 Toren (1 echtes Spielertor Piccoli 39. + 1 Eigentor Comuzzo 82.) - dead-rubber-Saisonfinale-Profil tendiert zu defensiven Spielen trotz hoher impliziter Markt-Erwartung (Aggregator-Prognose 1-2, Ueber-Implizit 53%). Beobachtungs-Liga-Serie-A-Goldgrube DC X2 @1.40 gewann (Atalanta-Klassen-Edge + Unentschieden = 70% historisches DC-X2-Hitrate-Profil bestaetigt - jetzt n=16, ~70% Hitrate). Aber Ueber 2.5 verloren - bei Saison-Ende-Beobachtungs-Liga muss Tor-Markt KOMPLETT boykottiert werden (auch ueber Moonshot-Bein, NICHT nur einzeltipps), egal welche Goldgrube-Statistik. NEUE REGEL: bei Beobachtungs-Liga + Saison-Letzter-Spieltag + 'dead rubber' beidseitig: Tor-Markt (Ueber X.5 + BTTS + Spielertor) alle Kategorien sperren, DC-Maerkte koennen bei klarer Klassen-Edge als Goldgrube-Bein bleiben. Eigentor-Markt-Schiefe (50% der Tore waren Eigentor) verschaerft das Profil noch.",
+      "bezug_spiel_id": "2026-05-22-fio-ata"
+    },
+    {
+      "datum": "2026-05-24",
+      "kategorie": "Roster-Verifikation: Backup-Pick-Falle bei Vereins-Sperre (Vinicius-Fall)",
+      "lesson": "KRITISCH (Wiederholung Roster-Lesson 25.04. in neuer Auspraegung): Das Dossier wechselte den Torschuetzen-Tipp bewusst von Mbappe (Hamstring-ZWEIFELHAFT) auf Vinicius (angenommen FIT, HR3 Backup-Pflicht) - und erwischte damit genau den Falschen. Vinicius bekam am Spieltag eine VEREINS-/Disziplinar-Sperre (club decision), stand NICHT im Kader; Mbappe spielte dagegen UND traf (51.). Der Vinicius-Tipp wurde bet365-VOID (Spieler nicht eingesetzt -> Einsatz zurueck = push, kein Verlust, aber verschenkter Slot). Brahim Diaz ersetzte Vinicius in der Startelf und traf 88' - KEIN Einwechslungs-Boost, da der Boost die Auswechslung des Tipp-Spielers VON DEM PLATZ verlangt (Vinicius war nie drauf). REGEL: (1) Ein 'zweifelhafter' Star ist NICHT automatisch riskanter als sein 'fit' angenommener Ersatz - beide brauchen einen Lineup-Check 60-90 Min vor Anstoss. 'Club decision'-Sperren tauchen am Saisonende/Dead-Rubber gehaeuft auf und sind in Vorab-Quellen oft nicht gelistet. (2) Bei Star-Wechsel-Entscheidungen NICHT nur den Verletzungs-Status pruefen, sondern auch Sperren/Kader-Politik. (3) Torschuetzen-Tipp auf nicht-eingesetzten Spieler = void/push, kein ROI-Schaden, aber der Slot war wertlos - lieber auf einen quasi-sicheren Starter (Mbappe spielte ja).",
+      "bezug_spiel_id": "2026-05-23-rma-ath"
+    },
+    {
+      "datum": "2026-05-24",
+      "kategorie": "Drehungs-/Comeback-Cluster bei Champion-Saisonende (volle_analyse-Quelle)",
+      "lesson": "DREHUNGS-CLUSTER aus voller-Analyse ueber alle Spiele 23.05.: (A) Bologna fuehrte gegen die rotierte Inter-B-Elf 3:1 (48.) und verspielte den 2-Tore-Vorsprung zum 3:3 (Esposito 63., Diouf 87.) = echte Drehung. (B) Valencia drehte ein 0:1 gegen Meister Barca (Lewandowski 61.) in der 2.HZ zum 3:1 (Guerra 66., Rioja 70., Guido 90+). Gemeinsamer Nenner: BEIDE betroffenen Favoriten/Grossen (Inter, Barca) waren Champions im Saison-Auslauf ohne Tabellen-Druck und liessen in der Schlussphase nach bzw. rotierten. REGEL: Bei der Tipp-Generierung am Saison-Schlusstag/Dead-Rubber Sieg- und Fuehrungs-Tipps auf Meister/gesicherte Teams MAX wackel - die Motivations-Asymmetrie kippt zugunsten des Teams MIT Ziel (Valencia spielte befreit, Bologna wollte Saison-Highlight). Korrelations-Folge: Barca-Sieg killte die Balance-Kombi - ein Champion-Auslauf-Sieg-Bein ist ueberdurchschnittlich kombi-gefaehrlich.",
+      "bezug_spiel_id": "2026-05-23-bol-int"
+    },
+    {
+      "datum": "2026-05-24",
+      "kategorie": "LaLiga-Schlusstag Unter-2.5-Pattern aggregiert (volle_analyse-Quelle)",
+      "lesson": "MARKT-PATTERN aus markt_resultate[] aller LaLiga-MD38-Spiele 23.05.: 6 von 8 LaLiga-Partien blieben Unter 2.5 Tore (Celta 1:0, Mallorca 3:0=Ueber, Getafe 1:0, Girona 1:1, Alaves 1:0, Espanyol 1:1, Betis 2:1=knapp-Ueber, Real 4:2=Ueber). Reines Mittelfeld-/Abstiegs-/Auslauf-Profil: nur die Spiele MIT Top-Offensive (Real, Valencia-Barca) gingen klar Ueber, alle anreizlosen oder Abstiegs-nervoesen Partien blieben tor-arm. Beide getippten Unter-2.5 (Girona-Elche 1:1, Getafe-Osasuna 1:0) trafen. REGEL/Bestaetigung der Goldgrube Unter 2.5 (+22.8%): Am LaLiga-Schlusstag (und allg. dead-rubber/Abstiegs-Existenz-Duellen ohne Top-Offensive) Unter 2.5 aktiv als VALUE markieren; NUR Spiele mit mindestens einer Top-5-Offensive (Real/Barca/Atletico-Kaliber) davon ausnehmen.",
+      "bezug_spiel_id": "2026-05-23-gir-elc"
+    },
+    {
+      "datum": "2026-05-24",
+      "kategorie": "Torschuetzen-Goldgrube-Verfeinerung: Haushoher-Favorit-Elfschuetze INVERS zu Lesson 21.05.",
+      "lesson": "VERFEINERUNG der Lesson 21.05. (Klassen-Edge-Final-Volume-9er-Schweigen): Im DFB-Pokal-Final machte Kane einen lupenreinen HATTRICK (55., 80., 90+2 Elfmeter) - das Dossier hatte ihn aus Vorsicht (21.05.-Lesson) nur VALUE statt SAFE gelabelt. Auch Muriqi (@2.40) traf im Mallorca-Pflichtsieg. ERKENNTNIS: Die 'Final-Tore-verteilen-sich-aufs-Mittelfeld'-Skepsis gilt NICHT im Extremfall eines HAUSHOHEN Favoriten (Quote <=1.40) dessen Tipp-Stuermer ZUGLEICH designierter Elfmeter-/Standardschuetze ist - dann ist der Volume-9er-Torschuetzen-Tipp robust (Elfer-Wahrscheinlichkeit + Chancen-Volumen). REGEL: Torschuetzen-Jederzeit auf den Penalty-Taker eines Top-Favoriten (Sieg-Quote <=1.40) darf wieder bis VALUE/Grenz-SAFE hoch - die 21.05.-Vorsicht bleibt nur fuer ausgeglichene Klassen-Edge-Finals (Favoriten-Quote >1.50). Torschuetzen-Jederzeit insgesamt heute 3/4 (Kane, Muriqi, Lewa; nur Vinicius void) - Goldgrube intakt.",
+      "bezug_spiel_id": "2026-05-23-bay-vfb"
+    },
+    {
+      "datum": "2026-05-25",
+      "kategorie": "Schlusstag-Motivations-Asymmetrie-These widerlegt (motiviertes Team vs anreizloses Team)",
+      "lesson": "HARTE WIDERLEGUNG ueber den kompletten PL-Schlusstag 24.05.: Die System-Kern-These 'motiviertes Heim-Team mit Saisonziel schlaegt anreizloses/schon-qualifiziertes Team' kollabierte gleich dreifach: (1) Brighton (Heim-Favorit ~1.90, Europa-Ziel) verlor 0:3 gegen das laengst CL-qualifizierte, 'anreizlose' Manchester United im Carrick-Debuet als Dauer-Coach -> DC 1X (Safe-Kombi-Bein!) tot. (2) Manchester City (Pep-Abschieds-Emotion, Heim @1.34) verlor 1:2 gegen das EL-Sieger-Villa im Feier-Modus. (3) Liverpool (CL-Platz-5-Ziel @1.80) kam nur zu 1:1 gegen ein druckloses Brentford. Auto-Analyzer flaggte parallel 'PL Sieg/value 100% Verlust (3/3)'. ERKENNTNIS: Am Schlusstag ist 'anreizlos' KEIN verlaessliches Edge fuers Gegenueber - befreite Teams (Trainer-Debuet, Titel-/Pokal-Feier, gerettete Mittelfeld-Klubs) spielen oft lo(c)kerer und besser als das verkrampfte 'motivierte' Team unter Ziel-Druck. NEUE REGEL: Sieg- und DC-1X/X2-Tipps, deren These primaer auf 'Gegner ist anreizlos/schon-qualifiziert/im Feier-Modus' beruht, am Saison-Schlusstag MAX wackel - NICHT in Safe-Kombi, NICHT als VALUE-Einzel. Die Motivations-Asymmetrie zaehlt nur, wenn das motivierte Team auch ohne diesen Faktor klar ueberlegen ist (echte Klassendifferenz, nicht nur Tabellen-Anreiz).",
+      "bezug_spiel_id": "2026-05-24-bri-mun"
+    },
+    {
+      "datum": "2026-05-25",
+      "kategorie": "Champion/Favorit-Saisonende-Drehungs-Cluster jetzt 2-Tage-Serie (volle_analyse-Quelle 8f)",
+      "lesson": "DREHUNGS-CLUSTER aus volle_analyse, zweiter Tag in Folge: Torino-Juventus 24.05. -> Juventus fuehrte im Derby della Mole 0:2 (Vlahovic-Doppelpack, 54.) und verspielte den 2-Tore-Vorsprung zum 2:2 (Casadei 60., Che Adams 84.). Juve hatte zur HZ erfahren, dass Platz 4 (CL) ohnehin verpasst ist -> mentaler Einbruch in der Schlussphase. Das ist EXAKT das gleiche Muster wie am 23.05. (Bologna 3:1->3:3 vs Inter-B-Elf + Valencia dreht 0:1->3:1 gegen Barca). Gemeinsamer Nenner ueber beide Tage: Favorit/Champion mit erreichtem ODER verpasstem Saisonziel laesst in der Schlussphase nach, das Team MIT Rest-Motivation/Befreiung dreht auf. NEUE REGEL (Verschaerfung Lesson 24.05): Am Saison-Schlusstag/Dead-Rubber sind Sieg-, Fuehrungs- und -1.5-Handicap-Tipps auf Favoriten mit erreichtem/verpasstem Ziel HART max wackel - und als Kombi-Bein gesperrt, weil ein Drehungs-Favoriten-Bein ueberdurchschnittlich kombi-toedlich ist (heute killte kein einzelner, aber kumulativ trugen die Favoriten-Auslauf-Patzer alle 4 Kombi-Verluste mit). Drehungs-Risiko jetzt empirisch 2 Tage / 3 Spiele bestaetigt.",
+      "bezug_spiel_id": "2026-05-24-tor-juv"
+    },
+    {
+      "datum": "2026-05-25",
+      "kategorie": "Dead-Rubber/abgestiegene-Teams am Schlusstag = Unter-Tendenz, NICHT Ueber-Goldgrube (volle_analyse-Quelle 8g)",
+      "lesson": "MARKT-PATTERN aus markt_resultate[] aller PL-MD38-Spiele 24.05.: Die beiden reinen Dead-Rubber (Fulham-Newcastle 2:0 + Burnley-Wolves 1:1, beide abgestiegen) blieben BEIDE Unter 2.5 - die Pre-Match-These 'druckloses/befreites Schlusstag-Spiel = offen/torreich, Ueber 2.5 Goldgrube' traf NICHT. Auch das nervoese Abstiegs-Endspiel Tottenham-Everton (1:0) blieb tor-arm (Unter 2.5 + DC 1X durch - beide getippt, beide gewonnen). Insgesamt nur 5/10 PL-Spiele Ueber 2.5; die Ueber-Treffer kamen aus Spielen MIT echtem Anreiz/Klassengefaelle (City-Villa, Brighton-United, Sunderland-Chelsea, West Ham-Leeds, Palace-Arsenal). REGEL (Erweiterung des LaLiga-Schlusstag-Unter-Patterns vom 24.05. auf die PL): Bei Dead-Rubber (beide Teams ohne Tabellen-Anreiz / abgestiegen) und bei nervoesen Abstiegs-Existenz-Duellen am Schlusstag -> Ueber 2.5/BTTS NICHT als Goldgrube spielen (auch nicht als Kombi-Bein), stattdessen Unter 2.5 als VALUE markieren. 'Befreit' bedeutet Intensitaets-Mangel, nicht Tor-Festival. Die Ueber-2.5-Goldgrube (+30.2% ROI) gilt nur fuer Spiele mit mindestens einseitigem Anreiz/Klassengefaelle.",
+      "bezug_spiel_id": "2026-05-24-ful-new"
+    },
+    {
+      "datum": "2026-05-25",
+      "kategorie": "NBA-WCF-Total-Ueber-Goldgrube gebrochen: Muss-Sieg-Defensiv-Schlacht (volle_analyse-Quelle 8g + Sample-Bias)",
+      "lesson": "GOLDGRUBE-BRUCH: Die WCF-Total-Ueber-These (alle 3 Vorspiele >217.5: G1 243, G2 >217, G3 231) brach in G4 24.05. krachend - San Antonio 103:82 OKC = nur 185 Punkte, 34.5 UNTER der Linie 219.5. Ursache: Die Spurs (1-2 zurueck, Heim-Muss-Sieg) erzwangen eine DEFENSIV-Schlacht (OKC 33% FG, 18% 3P bei 6/33, 17 Turnover) statt eines offenen Schlagabtauschs - genau das Muster aus Lesson 02.05. (NBA-G6/G7-Druck-Spiele werden defensiv, Tempo sinkt). Die 'Muss-Sieg/Decider = hohes Tempo'-Annahme ist damit erneut widerlegt. NEUE REGEL: NBA-Serien-Total-Ueber-Patterns mit kleinem Sample (n<=4 Serien-Spiele) NICHT als Goldgrube ueber-gewichten - ein Muss-Sieg-Heim-Team kann das Spiel jederzeit in eine Defensiv-Schlacht zwingen (Tempo-Kontrolle = Win-Strategie wenn Bench-/Star-Asymmetrie sonst gegen einen spricht). WCF-Ueber kuenftig max wackel statt VALUE, ausser beide Teams haben Top-5-Pace UND es ist KEIN Muss-Sieg/Elimination-Spiel. Positiv-Befund parallel: Wembanyama 33 Pkt (Stamm-Volume-Star-Snap-Back-Erlaubnis Lesson 23.05. erneut bestaetigt - Moonshot-Bein durch); De'Aaron Fox spielte trotz Vorab-Ausfall-Annahme (12/10/5) -> Lineup-Check auch bei NBA Pflicht.",
+      "bezug_spiel_id": "2026-05-24-sas-okc"
+    },
+    {
+      "datum": "2026-05-26",
+      "kategorie": "NBA 0-3-Elimination-G4 = Blowout-Risiko (Sweep-Abwehr-These eingegrenzt)",
+      "lesson": "WICHTIGE EINGRENZUNG zweier bestehender Thesen nach Cavs-Knicks ECF G4 25.05 (Cleveland 93:130, -37, geschwept): (1) Die 'Sweep-Abwehr-Heim-Explosion'-These (Lessons 24.04/25.04) gilt NUR fuer ein Heimteam, das 0-2 zurueckliegt und in G3 mit Fight zuhause antritt - NICHT fuer ein 0-3-Team in G4 gegen einen ueberlegenen, formstarken Sweep-Gegner (Knicks: 11 Playoff-Siege in Folge). Solche Teams explodieren nicht, sie werden weggefegt. Cavs-ML-Flier @2.13 mit -37 verloren. (2) Die 'Elimination = Defensiv-Schlacht/Unter'-These (Lesson 24.05 WCF-G4 185 Pkt) gilt ebenfalls NICHT, wenn das chancenlose Team den Top-Gegner nicht bremsen kann: Total 223 (Ueber 217.5) statt Defensiv-Schlacht - Wire-to-wire-Blowout (Q1 +12, HZ +19, Q3 +30). NEUE REGEL: Bei 0-3-G4 gegen einen dominanten Sweep-Favoriten weder Heim-ML noch Unter spielen - Blowout-Richtung des Favoriten ist das Basisszenario (Spread-Favorit + Ueber eher), Heim-Fliers nur Moonshot. Distinktion: 0-2->G3 = Fight-Spot, 0-3->G4 gegen Top-Form = Hinrichtung.",
+      "bezug_spiel_id": "2026-05-25-cle-nyk"
+    },
+    {
+      "datum": "2026-05-26",
+      "kategorie": "K.o.-Entscheidungsspiel: 'Sieg regulÃ¤re Spielzeit'-Falle bei VerlÃ¤ngerungs-Option",
+      "lesson": "NEU nach Paderborn-Wolfsburg Relegations-Rueckspiel 25.05 (regulaer 1:1, 2:1 n.V., Paderborn aufgestiegen): Der Sieg-Tipp 'Paderborn regulÃ¤re Spielzeit' @1.85 VERLOR, obwohl Paderborn aufstieg - das entscheidende Tor (Curda) fiel erst in der 100. Minute (VerlÃ¤ngerung), regulÃ¤re Zeit endete 1:1. REGEL: In Coinflip-K.o.-Spielen mit VerlÃ¤ngerungs-Option (Relegation, Pokal-Rueckspiel bei Gleichstand, Hin/Rueck-Aggregat) ist der Standard-1X2-Sieg-Tipp 90-Min-Settlement - bei ausgeglichenen Quoten (~1.85/3.40/2.05) ist die VerlÃ¤ngerungs-/Remis-Wahrscheinlichkeit in regulÃ¤rer Zeit hoch, der Sieg-Tipp verliert also auch wenn das Team am Ende weiterkommt. Wenn man auf das Weiterkommen setzen will: 'Wer kommt weiter / steigt auf'-Markt (inkl. VerlÃ¤ngerung+Elfer) waehlen, NICHT den 90-Min-Sieg. Defensiv-Maerkte (Unter 2.5: gewonnen, regulÃ¤re 2 Tore) und TorschÃ¼tzen Jederzeit (Bilbija 38.: gewonnen) sind in solchen Spielen die robusteren Tipps.",
+      "bezug_spiel_id": "2026-05-25-pad-wob"
+    },
+    {
+      "datum": "2026-05-26",
+      "kategorie": "Goldgrube-PrioritÃ¤t validiert: an dÃ¼nnem Coinflip-Tag trugen nur die Goldgrube-MÃ¤rkte",
+      "lesson": "ERFOLGS-VALIDIERUNG: Am duennen 2-Spiele-Coinflip-Tag 25.05 gewannen AUSSCHLIESSLICH die beiden Goldgrube-Markt-Tipps: Unter 2.5 Tore (13 Tipps / 69.2% / +37.2% ROI - Paderborn regulÃ¤r 1:1) und TorschÃ¼tzen Jederzeit (43 Tipps / 39.0% / +24.1% ROI - Bilbija 38.). ALLE Nicht-Goldgrube-Fliers verloren: Paderborn-Sieg-regulÃ¤r, Cavs-ML, NBA-Unter 217.5. Netto: Einzeltipps +4.26â‚¬ (komplett aus den 2 Goldgruben), Kombis -5.80â‚¬ (beide gezogen vom NBA-Game). REGEL bestÃ¤tigt: an dÃ¼nnen Slates ohne klaren Favoriten-Spot die Goldgrube-MÃ¤rkte (Unter 2.5, TorschÃ¼tzen Jederzeit, Ãœber 2.5, DC X2) als Haupt-Einzeltipps priorisieren und Sieg-Outcome-Fliers (Coinflip-1X2, NBA-ML) auf Mini-Stake/Kombi-Bein begrenzen. Die Goldgrube-Disziplin ist der ROI-Anker an chaotischen Tagen.",
+      "bezug_spiel_id": "2026-05-25-pad-wob"
+    },
+    {
+      "datum": "2026-05-26",
+      "kategorie": "Mini-Spiele-Tag-Korrelation: 1 Game in jeder Kombi = Single-Point-of-Failure",
+      "lesson": "KORRELATIONS-BEFUND (Kombi-Verluste 25.05): Beide Kombis verloren, beide am SELBEN Spiel. kombi-balance (Unter 2.5 PAD + Unter 217.5 NBA) verlor nur am NBA-Bein (Football-Unter gewann); kombi-risiko (Paderborn-Sieg + Cavs-ML) verlor u.a. am NBA-Bein. Bei nur 2 Spielen ist jedes Spiel mathematisch in JEDER Kombi -> das NBA-Game (Blowout, +37) war Single-Point-of-Failure und kippte beide Kombis simultan, obwohl Layer-1 (max 1 Bein/Spiel) eingehalten war. VERSCHÃ„RFUNG Mini-Spiele-Tag-Cap (Lessons 19./21.05): Bei <=2 in-scope-Spielen sind 2 Kombis faktisch hoch korreliert (ein Spiel-Outcome steckt in beiden). REGEL: Bei genau 2 Spielen MAXIMAL 1 Kombi spielen (das saubere Tor-Total-Doppel als Balance), keine zweite Sieg-Outcome-Kombi - die zusÃ¤tzliche Kombi addiert Korrelations-Risiko ohne echte Diversifikation. Lieber Einsatz auf die Goldgrube-Einzeltipps konzentrieren.",
+      "bezug_spiel_id": "2026-05-25-cle-nyk"
+    },
+    {
+      "datum": "2026-05-27",
+      "kategorie": "Star-Out-Tiefe-These widerlegt bei Elite-Titelverteidiger (OKC ohne Jalen Williams)",
+      "lesson": "WIDERLEGUNG der 'fehlender 2. Star = duenneres Team'-Spread-These am Beispiel WCF-G5 (26.05): Spurs +5.5 @1.91 stuetzte sich zentral darauf, dass OKCs 2. Star Jalen Williams (Hamstring, OUT/3. Spiel in Folge) die Thunder-Tiefe drueckt - tatsaechlich gewann OKC mit +13 (127:114), die Tiefe des Titelverteidigers trug das Spiel locker: SGA 32, Caruso 22 (4/8 Dreier), Jared McCain 20 im 1. Playoff-Start (18 in der 2. HZ), 14/32 Dreier (43.8%). Reiht sich direkt in Lesson 01.05 (Wolves OHNE Edwards gewannen Closeout) ein. REGEL: Ein 2.-Star-Ausfall ist KEIN belastbarer Spread-Value-Treiber, wenn (a) das betroffene Team Elite-Tiefe/Titelverteidiger-Kader hat, (b) der MVP/1. Star spielt und (c) Heimvorteil dazukommt - dann kompensiert die Bank den Ausfall. Underdog-Spread-Value aus 'Gegner-Star-Out' nur bei echten Top-heavy-Kadern (1-2-Mann-Teams) ansetzen, nicht bei tiefen Contendern. Der 6-1-ATS-Underdog-Trend (Small-Sample) wurde ebenfalls gerissen.",
+      "bezug_spiel_id": "2026-05-26-okc-sas"
+    },
+    {
+      "datum": "2026-05-27",
+      "kategorie": "WCF-Total-Ueber-Goldgrube-Bruch war Einzel-Ausreisser - Re-Kalibrierung",
+      "lesson": "MARKT-PATTERN aus voller Analyse (WCF-G5 26.05 endete 241, Ueber 216.5 GEWANN): Die am 24.05 ausgerufene 'WCF-Ueber-Goldgrube gebrochen' (G4 nur 185) war ein EINZEL-Ausreisser, kein Serien-Trend. Serie komplett: 237/235/231/185/241 - nur das eine Spiel (G4) war Unter, und das war spezifisch das Muss-Level-Heim-Spiel der zurueckliegenden Spurs (Defensiv-Schlacht zum 2-2-Ausgleich). Alle OKC-Heim-/Pivotal-Spiele liefen klar hoch (G1 237 @OKC, G2 235 @OKC, G5 241 @OKC). Der Ueber wurde wegen der 24.05-Lesson + Small-Sample-Warnung (25.05) bewusst nur WACKEL gelabelt - im Nachhinein war das zu vorsichtig (haette VALUE sein koennen). RE-KALIBRIERUNG fuer ein etwaiges G6/G7: WCF-Ueber NICHT pauschal abwerten - der Unter-Faktor greift spezifisch beim zurueckliegenden Team mit Muss-Level-Heim-Defensiv-Druck, nicht bei OKC-Heimspielen mit hohem Tempo. Goldgrube-These differenziert wieder anwenden: hohes Tempo + Heim-Favorit-Volumen = Ueber bleibt belastbar, Defensiv-Muss-Sieg des Trailers = Unter-Risiko.",
+      "bezug_spiel_id": "2026-05-26-okc-sas"
+    },
+    {
+      "datum": "2026-05-28",
+      "kategorie": "HR24-Form-Edge-Defense-Spezialist-Subfilter (Sarr-Bruch)",
+      "lesson": "BRUCH der HR24-Form-Edge-Bedingung-1 (Topscorer-Hot-Hand) als alleinige Wackel-Begruendung: Sarr (9 CL-Tore, 5 Spiele Tor-Serie) traf NICHT gegen Rayo Vallecano im Conference-Finale 27.05. (1:0 fuer Palace, Mateta einziger Schuetze). Rayo hatte beide HF-Legs 1:0 zu null gewonnen + 9 Pflichtspiele unbesiegt = harter Defense-Spezialist. NEUE SUBFILTER-REGEL: HR24-Form-Edge (Bedingung 1) reicht NICHT mehr als alleinige Wackel-Begruendung wenn der Gegner (a) seine letzten 2 K.o.-Vorrunden-Spiele zu null gewann ODER (b) eine 5+ Spiele lange Defense-Serie hat. Mind. 2 von 3 HR24-Bedingungen erforderlich: Form-Edge UND (9er-Position ODER Defense-Krise Gegner). Sarr verlor -2.75â‚¬ - prozentuale Auswirkung des Sub-Filters auf die naechsten Final/K.o.-Torschuetzen-Tipps direkt.",
+      "bezug_spiel_id": "2026-05-27-cry-ray"
+    },
+    {
+      "datum": "2026-05-28",
+      "kategorie": "Europa-Pokal-Finale Unter-2.5-Default-Hartregel (Validation)",
+      "lesson": "VALIDATION + HARTREGEL: Conference-Finale Crystal Palace 1:0 Rayo Vallecano 27.05. â€” Unter 2.5 (Goldgrube +37.2 -> +39.9% ROI nach Tag) bestaetigt zum dritten Mal die Defensiv-These in europaeischen K.o.-Endspielen (Lessons 01.05./22.05.). HZ 0:0, einziges Tor Mateta 51' via Standard-Rebound. NEUE HARTREGEL fuer alle europaeischen Pokal-Finale (Conference/Europa/CL) + nationale Pokal-Finale: Unter 2.5 als Default-Top-VALUE-Tipp setzen, ausser BEIDE Teams haben Saison-Tore/Spiel > 2.0 UND keine Top-5-Defense-Bilanz. Konkrete Action: vor jedem Pokal-Final in der Tipps-Routine zuerst Unter 2.5 reservieren, dann andere Maerkte ergaenzen â€” nicht umgekehrt. Markt-Goldgrube Unter 2.5 jetzt n=14, 71.4% HR, +39.9% ROI â€” eine der profitabelsten Maerkte des Tools.",
+      "bezug_spiel_id": "2026-05-27-cry-ray"
+    },
+    {
+      "datum": "2026-05-28",
+      "kategorie": "Klassen-Edge-Final-Tor-Verteilung-Subfilter (Open-Play vs Standard)",
+      "lesson": "PARTIELLE WIDERLEGUNG der 21.05.-These (Wings/Mids treffen statt 9er in Klassen-Edge-Finals): Mateta (9er) traf im Conference-Finale 27.05. â€” ABER via Standard-Rebound (Wharton-Distanzschuss, Batalla parierte, Mateta abgestaubt aus 6m). Das war kein offenes Wing-Play sondern reine zentrale Strafraum-Praesenz. SUBFILTER: 21.05.-These gilt nur fuer OPEN-PLAY-Tore (Flanken, Konter, positionelle Verteilung). Bei Set-Piece/Rebound-Toren ist der zentrale 9er wieder bevorzugt (statistisch >60% aller Rebound-Tore gehen an den naechsten Strafraum-Spieler = meist 9er). Implikation fuer Finale-Torschuetzen-Tipps: Wing-Topscorer als 1. Pick + 9er als 2. Pick (Standards/Rebounds) â€” beide haben in defensiven Finalen reale Tor-Wege, nicht nur einer. Sarr-WACKEL war richtig, Mateta-WACKEL haette ergaenzend gespielt werden koennen (Quote heute ~3.40).",
+      "bezug_spiel_id": "2026-05-27-cry-ray"
+    },
+    {
+      "datum": "2026-05-28",
+      "kategorie": "Mini-Spiele-Tag Goldgrube-Stake-Konzentration validiert (3/4-Bilanz)",
+      "lesson": "ERFOLGS-VALIDIERUNG der 26.05.-Mini-Spiele-Tag-Hartregel + Goldgrube-Priorisierung: Ein-Spiel-Tag (CL-Finale) endete 3/4 = 75% Trefferquote, Netto +7.45â‚¬ bei 19.25â‚¬ Einsatz (+38.7% Tag-ROI). KEINE Kombis gebaut (Layer-1-Korrelations-Schutz korrekt angewandt) â€” stattdessen Stake-Konzentration auf Goldgrube-Maerkte (Unter 2.5 VALUE 8.25â‚¬ + DC 1X WACKEL 5.50â‚¬ + Palace Sieg WACKEL 2.75â‚¬) statt verteiltes Mini-Risiko. Pattern bestaetigt: bei 1 Spiel ist Goldgrube-Konzentration mit moderaten Stakes (Gesamt-Exposure 3.5% Kasse) profitabler als Spread-Mini-Tipps. NEUE REGEL: bei dokumentierten Mini-Spiele-Tagen (1-2 Spiele) duerfen Goldgrube-Stakes hoch bei 1.0-1.5% sein (statt aufgeteilt auf 0.3% x 4 Tipps), solange Gesamt-Exposure unter 4% Kasse bleibt. Konzentration auf hoechste-Edge-Maerkte schlaegt Spread bei kleinem Slate.",
+      "bezug_spiel_id": "2026-05-27-cry-ray"
+    },
+    {
+      "datum": "2026-05-29",
+      "kategorie": "Wemby-Bounce-Back-Stamm-Volume-Star-Snap-Back-Bestaetigung",
+      "lesson": "VALIDIERUNG der Lesson 23.05. (Stamm-Volume-Star-Snap-Back-Erlaubnis) am Wemby-Spezialfall: nach Karriere-kaltem G5 (20P bei 4/15 FG, von NBA wegen Media-Boykott verwarnt) drehte Wemby in G6 SAS-Heim-Elimination auf 28P/10R/3B mit 3x 3er allein im Q1 - der Trigger 'Stamm-Volume-Star + 'quiet effort' + Muss-Sieg-Heim' lieferte erneut. Pattern fuer Wemby spezifisch jetzt 2/2 in dieser Serie (auch G3-Bounce-Back nach G2-Schwaeche). STRATEGIE: bei Stars mit Saison-Avg 25+ PPG und einem registrierten 'cold game' (<60% Saisonschnitt-Punkte / FG% <35%) als unmittelbarer Vorgaenger in Elimination/Decider-Spielen ist Snap-Back-These ein VALUE-Treiber fuer Sieg-Tipp + Player-Ueber-Punkte (mit HR16-Einschraenkung Player-Punkte ueber Risiko/Moonshot-Kombi). NICHT als SAFE, weil Varianz; aber konsistent als VALUE-Filter wertvoll. Wemby DD @ 1.55 als HR16-konformer Anker zog perfekt mit. Datenbasis: 2/2 in WCF + G3 von Round 2 / 4/5 ueber Saison Bounce-Back-Pattern.",
+      "bezug_spiel_id": "2026-05-28-okc-sas"
+    },
+    {
+      "datum": "2026-05-29",
+      "kategorie": "SAS-Heim-Muss-Sieg-Unter-Pattern WCF-Re-Kalibrierung (n=2 Validierung)",
+      "lesson": "ZWEITE VALIDIERUNG der Lesson 27.05. (WCF-Total-Ueber-Goldgrube-Re-Kalibrierung via Heim-Differenzierung): SAS-Heim-Muss-Sieg Spiele in dieser WCF-Serie sind jetzt 2/2 UNTER ihre Spiel-Linien. G4 SAS-Heim-Muss-Sieg Total 185 < 211.5 (Linie -26.5), G6 SAS-Heim-Muss-Sieg Total 209 < 218.5 (Linie -9.5). Gegenstueck OKC-Heim 3/3 UEBER (G1 237, G2 235, G5 241) - klare Heim-Asymmetrie in dieser Serie. ABLEITUNG: in Conf-Finals mit dominantem Defense-Heim-Team und Muss-Sieg-Druck-Spot ist Unter-Total nicht nur 'Pattern', sondern wiederholt belastbarer Bias gegen Spiel-Linien die noch nicht voll re-kalibriert wurden. STRATEGIE fuer G7 (in OKC, Sa 30.05): OKC-Heim Ueber-Tendenz wieder aktiviert + kein Muss-Sieg-Spot fuer SAS (sie haben auch nichts zu verlieren) -> Total Ueber 218-220 wieder als VALUE markierbar. Lesson schliesst Wende: SAS-Heim = Unter-Bias erschoepft sich am Heimserien-Ende, OKC-Heim = Ueber-Bias bleibt. Lesson 27.05. WCF-Re-Kalibrierung jetzt vollstaendig validiert.",
+      "bezug_spiel_id": "2026-05-28-okc-sas"
+    },
+    {
+      "datum": "2026-05-29",
+      "kategorie": "OKC-Bench-Tiefe-These nicht serien-stabil - Defense-Adjust-Subfilter (Re-Re-Kalibrierung 27.05.)",
+      "lesson": "RE-RE-KALIBRIERUNG der Lesson 27.05. (Star-Out-Tiefe-These bestaetigt OKC ohne JWilliams) nach G6-Bruch: G5 trug die Bench (McCain 20P im 1. Playoff-Start + Caruso 22P) und OKC gewann auswaerts 127:114. G6 brach diese Tiefe komplett ein - SGA nur 15P bei 6/18 FG (Karriere-Tief in der Serie), Q3 20-0 OKC-Schwarzphase mit 7:27 ohne Punkt. NEUE PRAEZISIERUNG: Bench-Tiefe ohne Star ist KEIN serien-stabiler Faktor, weil der Gegner zwischen Spielen Defense-Adjusts fahren kann (Spurs neutralisierten McCain/Caruso komplett in G6). SUBFILTER: Star-Out-Tiefe-These nur als VALUE-Treiber gueltig im UNMITTELBAREN Folgespiel nach dem Star-Ausfall (G3/G4 nach Verletzung) - danach hat der Gegner Tape + Coach-Adjust + ggf. Lineup-Schwerpunkt, der die Bench-Eruption neutralisiert. STRATEGIE-IMPLIKATION fuer G7 OKC-Heim: WENN JWilliams immer noch out, NICHT mehr automatisch annehmen dass McCain/Caruso wieder traeten - Spurs haben G6-Tape, werden gezielter doppeln/switchen. Falls JWilliams zurueck (was wahrscheinlicher wird, je weiter Serie geht): zusaetzlicher Boost fuer OKC. Lesson 27.05. jetzt zeitlich begrenzt: nur G+1 nach Star-Ausfall, danach erloschen.",
+      "bezug_spiel_id": "2026-05-28-okc-sas"
+    },
+    {
+      "datum": "2026-05-29",
+      "kategorie": "Mini-Spiele-Tag-Konzentrations-Strategie validiert + NBA-DD-Anker-Bestaetigung",
+      "lesson": "EMPIRISCHE VALIDIERUNG der Lesson 28.05. (Mini-Spiele-Tag Goldgrube-Stake-Konzentration) plus NBA-Double-Double-Markt als robuster HR16-konformer Anker: Heutiger 1-Spiel-Tag (SAS-OKC G6 nur) mit Stake-Konzentration 1.5% auf hoechste-Edge SAS-ML + 2x 0.5% auf Unter/DD lieferte 3/3 Einzeltipps gewonnen + 1/1 spiele[].tipps[]-Block (Wemby O25.5) = 4/4 Tipps. Tages-ROI: 9.13â‚¬/13.75â‚¬ = +66.4% bei nur 2.5% Kasse-Exposure - perfekter Mini-Spiele-Tag-Verlauf. KERNVALIDIERUNG: (a) NBA-DD-Markt (HR16-konform, nicht im Bluter) @ 1.55 fuer Wemby = robuster Anker bei Star-Centern mit Saison-Avg ueber 25P + 10R - Trefferquote intuitiv >70% bei vollen Minuten, traegt sich mathematisch. (b) Stake-Konzentration auf Top-Edge (1.5% statt 3x 0.5% gleichverteilt) war richtig - SAS-ML brachte 5.12â‚¬ Netto-Loewenanteil (von 9.13â‚¬ Gesamt-Netto). (c) Single-Game-Korrelations-Risiko (alle Beine im selben Spiel) hier durch konservatives Gesamt-Exposure 3% Kasse abgesichert - mit Vorausschau-Cap reden vs. Mini-Tag-Risk-Profil neu kalibrieren? STRATEGIE fuer NBA-G7-Tag (30.05): wieder Mini-Spiele-Tag-Profil (CL-Finale + NBA-G7 = 2-Spiele-Tag), Single-Game-Cap 3% nicht ueberschreiten + NBA-DD-Markt als 'NBA-Anker-Goldgrube-Kandidat' aktiv suchen (sample-size n wachsen lassen).",
+      "bezug_spiel_id": "2026-05-28-okc-sas"
+    },
+    {
+      "datum": "2026-05-30",
+      "kategorie": "Pokal-Finale-1X2-Verlaengerungs-Hedge-Hartregel (CL-Finale-Validation)",
+      "lesson": "EMPIRISCHE VALIDIERUNG der Lesson 21.05. (Konsens-Best-Bet-Cluster-Trap) plus NEUE HARTREGEL: Im CL-Finale 30.05. (PSG-Arsenal 1:1 nach 90, 1:1 nach 120, PSG 4:3 i.E.) waere PSG-Sieg-Single @ 1.95 (impliziert 51%) VERLOREN gewesen - DC 1X @ 1.27 GEWANN als Remis-Treffer. Pattern: bet365 wertet 1X2/DC-Maerkte ausschliesslich nach 90 Min - Verlaengerung/Elfmeterschiessen sind 1X2-irrelevant. Bei den letzten 5 europ. Pokal-Finals in 2026 sind 3 in Verlaengerung gegangen (CL-Finale 1:1, Conference-Finale Palace 1:0 nach 90 keine ET, Coppa-Finale Lazio 1:1 nach 90 dann Inter via ET 2:1, EL-Finale Atletico 0:0 nach 90 dann ManUtd 2:0 ET). 60% ET-Quote bei Pokal-Finals zwischen quotaennlichen Klassen-Klubs. NEUE HARTREGEL fuer Top-Klub-Finals (CL/EL/Conference/Coppa) mit Sieg-Quote 1.70-2.20 fuer den Favoriten: STATT direkter Favoriten-Sieg-Tipp IMMER Doppelte-Chance-Variante (1X bzw X2) waehlen. Implied-Drop von ~10-15% wird ueberkompensiert durch ET-Wahrscheinlichkeit, die bei Klassen-Klub-Finals ueber 25% liegt. Praktisch: bei CL-Finale-Quoten 'Favorit 1.95 / Remis 3.40' impliziert DC-Favorit-oder-Remis @ ~1.27 = 78.7% - real schaetzbar 82-85%. Subregel: GREIFT NICHT in Pokal-Finals mit Klassen-Bruch (Top-Klub vs Liga-2/3-Klub) - dort Direkter-Sieg @ 1.20-1.40 zuverlaessig.",
+      "bezug_spiel_id": "2026-05-30-psg-ars"
+    },
+    {
+      "datum": "2026-05-30",
+      "kategorie": "Wemby-Rebound-Volatilitaet-G7-Auswaerts-DD-Subfilter",
+      "lesson": "DD-VERFEINERUNG nach Wemby-DD-Verlust in G7 OKC (22P + 7R = nur Punkte zweistellig, Saison-Avg 12.3 Reb verfehlt). Pattern: G7-Auswaerts-Decider erzwingt Pace-Shift Richtung Floor-Spacing + 3er-Show (Wemby selbst hatte 3x 3er!) - das reduziert Wemby's Rebound-Volume strukturell. Plus Champagnie + Castle als 2nd/3rd-Rebounders nahmen Reb-Anteile weg (Champagnie 20P mit 6 Triples - Spurs spielten Small Ball). Lesson 23.04. (DD-Realitaetscheck: zweite Stat-Verteilung pruefen, nicht nur Schnitt) ist hier zum 4. Mal empirisch eingetreten. NEUE SUBREGEL fuer Wemby-DD-Tipps: in G7-Auswaerts-Deciders ist Wemby DD max WACKEL (nicht VALUE), selbst bei Saison-Avg ~12 Reb. Reb-Volatilitaet steigt unter Decider-Pace-Druck signifikant (Wemby's WCF-Reb-Verteilung G1-G7: 11/10/12/15/10/10/7 - Median 10, aber 25%-Quantil bei ~9, 1 von 7 Spielen unter 8). Wenn Wemby zusaetzlich in vorigem Spiel schon Karriere-Highlight-DD geliefert hat (G6 28+10), zusaetzlicher Skeptizismus - Doppel-Performance in 24h ist physisch und statistisch unrealistisch. Praktisch: NBA-DD-Anker (Lesson 29.05.) bleibt valide als VALUE in Regulaer-Spielen / Eroeffnungs-Spielen / Heim-Spielen - aber NICHT in G7-Auswaerts-Deciders.",
+      "bezug_spiel_id": "2026-05-30-okc-sas"
+    },
+    {
+      "datum": "2026-05-30",
+      "kategorie": "G7-Heim-Crash-Defending-Champion-Star-OUT-These-validiert-n2",
+      "lesson": "VERSCHAERFUNG + SERIELLE VALIDIERUNG der Lesson 27.05. (Star-Out-Tiefe-These widerlegt bei Elite-Titelverteidiger): OKC verlor G7-Heim 103:111 trotz Defending-Champion-Status + Heim-Vorteil + 78%-historische-G7-Heim-Bilanz - zum ZWEITEN MAL in 48 Std hat Defending Champion ohne JWill verloren (G6 91:118 Auswaerts, G7 103:111 Heim). Pattern jetzt seriell ueber 2 aufeinanderfolgende Spiele bestaetigt: OKC-Bench-Tiefe (Caruso/McCain/Holmgren) konnte das Williams-Loch NICHT serien-stabil decken trotz Heim-Vorteil-Boost. SGA-Solo (35P/9A in G7) reichte nicht gegen Wemby-WCF-MVP-Performance + Champagnie-Bench-Eruption (20P/6 Triples). NEUE PRAEZISIERUNG der 27.05.-Lesson: bei Defending Champion mit Schluessel-2nd-Star OUT in Decider-Serien (G6/G7) ist '78%-Heim-G7-Bilanz' NICHT mehr anwendbar - reduziert sich empirisch auf ~50-55%. Sieg-Tipps auf Star-OUT-Defending-Champion in Decider-Heim max WACKEL, niemals SAFE/VALUE. Komplementaer-Lesson 02.05. (NBA G6/G7-Druck-Spiele Decider-Varianz-pur) jetzt seriell validiert - 2 Defending-Champion-Heim-Verluste in 48 Std in selber Serie ist statistisch nicht trivial. Lesson 27.05. von 'unmittelbarem G+1 Star-Ausfall' (Lesson 29.05. Begrenzung) WIDERLEGT - Star-Out-Tiefe-These greift ueber gesamte Serie wenn Bench keine Folge-Eruption liefert. Re-Re-Re-Kalibrierung der 29.05.-Begrenzung noetig: Bench-Tiefe haengt zusaetzlich von gegnerischer Defense-Adjust-Kapazitaet ab - die Spurs (Castle/Wemby-Defense) lieferten serien-stabil.",
+      "bezug_spiel_id": "2026-05-30-okc-sas"
+    },
+    {
+      "datum": "2026-05-30",
+      "kategorie": "Einwechslungs-Boost-Final-ET-Phase-Filter (Auswertung-Verfeinerung)",
+      "lesson": "AUSWERTUNGS-PATTERN aus volle_analyse-Quelle: Im CL-Finale 30.05. wurden in der 82.-83. Min beide Wing-Stuermer ausgewechselt - PSG: Kvara raus, Barcola rein; Arsenal: Saka raus, Madueke rein. Klassische Einwechslungs-Boost-Trigger fuer Tipps 'Kvara trifft' und 'Saka trifft' (CLAUDE.md-Regel: Tor des direkten Ersatzspielers zaehlt fuer Tipp-Spieler). ABER: KEINE der beiden Ersatzspieler traf - Barcola's Last-Minute-Schuss in 90+ ueber das Tor (Game-Winner-Versuch verfehlt), Madueke ohne Torchance in den verbleibenden 8 Min + 30 Min ET. Pattern: bei knappen Top-Klub-Finals (CL/EL/Conference) mit hoher ET-Wahrscheinlichkeit fehlt am Spielende oft die offene Phase, in der Boost-Tore ueblich sind - stattdessen taktische Lockdown-Spielweise (kein Risiko, Penalty-Shootout-Vorbereitung). NEUE SUBREGEL Einwechslungs-Boost-Filter: bei Top-Klub-Finals (CL/EL/Conference) zwischen quotaennlichen Klassen-Klubs (Sieg-Quoten beide unter 2.50) ist Einwechslungs-Boost-Bonus auf Torschuetzen-Tipps NICHT einzukalkulieren - Boost-Mechanik ist mathematisch wertlos in defensiv-orientierten ET-Phasen. Boost bleibt wertvoll in: (a) Klassen-Bruch-Finals (Top vs Mid), (b) regulaeren Liga-Spielen, (c) Pokal-Spielen mit Klassen-Asymmetrie. Praktisch: Kvara-Tipp @ 2.75 + Saka-Tipp @ 3.80 verloren -8.25â‚¬ + -2.75â‚¬ = -11.00â‚¬ - haette mit ET-Filter nicht in einzeltipps[] gehoert. Lesson 26.04. (Einwechslungs-Boost als VALUE-Filter) wird damit ergaenzt um ET-Phase-Filter fuer Top-Klub-Finals.",
+      "bezug_spiel_id": "2026-05-30-psg-ars"
+    },
+    {
+      "datum": "2026-06-03",
+      "kategorie": "NBA-Finals-G1-WCF-G7-Hangover-These-validiert-VALUE-Auswaerts-Underdog",
+      "lesson": "EMPIRISCHE BESTAETIGUNG der Spurs-G7-Hangover-These (in Tipps-Begruendung 03.06 als 'Pro vs Gegen' Argument formuliert): Spurs verloren als kleinster Heim-Favorit (-4.5, ML 1.53) ihr Finals-G1 mit 95:105 - genau das ESPN-Bontemps-'they slayed their dragon'-Pattern. Wembanyama 6/21 FG (28.6%) klar unter Saisonschnitt, Spurs Hz2 nur 40 Pkt vs 55 Hz1. Knicks 12. Auswaerts-Sieg in Folge in Playoffs + 6-Tage-Rest-Vorteil materialisierte sich. HARTREGEL fuer naechste WCF/ECF-G7-Sieger-Finals/Conf-Final-G1-Konstellationen: wenn (a) Heim-Team kommt direkt aus eigenem 7-Spiele-Conf-Final + (b) Auswaerts-Team hat >=2 Tage Rest-Vorteil + (c) Auswaerts-Defense ist Playoff-Top-3 = Auswaerts-DC/Sieg als VALUE (nicht WACKEL) spielbar. Pinnacle-Verfuegbarkeit voraussetzt, sonst weiter WACKEL. Bisher n=1 - braucht Validierungs-Faelle in 2027/2028er Conf-Finals. Trotzdem heute klare Sieg-Outcome-Asymmetrie zur Bet365-Linie.",
+      "bezug_spiel_id": "2026-06-04-sas-nyk"
+    },
+    {
+      "datum": "2026-06-03",
+      "kategorie": "NBA-Finals-Defense-System-Edge-Star-Bench-Comeback-Korridor-Subfilter",
+      "lesson": "VOLLE-ANALYSE-PATTERN aus 03.06 NBA Finals G1: Knicks-Comeback (14-Pkt-Rueckstand in Q3 -> 11-4-Run zur Tied-Q3 -> 11-0-Closing-Q4-Run) startete genau in Phase 'Wembanyama auf Bank' (Q3-Mitte). Knicks-#1-Playoff-Defense (Towns body-up + Bridges/Anunoby Wing-Help) komprimierte Wemby zu 6/21 FG, aber das entscheidende Coaching-Detail: Spurs gaben den Hot-Spurs-Tempo-Vorsprung exakt waehrend Wemby-Bench-Phase ab. SUBFILTER fuer NBA-Star-Heim-ML-Tipps: wenn Star sehr hohe Playoff-Minuten-Belastung kumulativ hat (Wemby >=42 Min pro Spiel in 14 Playoff-Spielen), MUSS sein Coach ihn in Q3 5-7 Min Bench geben - genau in dieser Bench-Phase erhoehte Comeback-Wahrscheinlichkeit der Gegner-Defense. Implikation fuer Unter-Totals: noch staerker untermauert (Unter 218.5 ging mit 18.5-Pkt-Puffer durch). Markt-Goldgrube-Kandidat NBA-Unter-Total bei WCF/ECF-Sieger-Bench-Druck-Konstellationen.",
+      "bezug_spiel_id": "2026-06-04-sas-nyk"
+    },
+    {
+      "datum": "2026-06-03",
+      "kategorie": "Mini-Spiele-Tag-Konzentrations-Strategie-validiert-n2-NBA-Pseudo-Hedge",
+      "lesson": "VALIDIERUNGSFALL #2 fuer Mini-Spiele-Tag-Konzentrations-Strategie (nach Lessons 28./29.05.): 03.06 Single-Event-Tag NBA Finals G1 - 2 unkorrelierte Einzeltipps (Spurs ML + Unter 218.5) je 0.5% Stake. Tipp 1 (Spurs Sieg 1.53) verloren - Knicks-Sieg. Tipp 2 (Unter 218.5 1.91) gewonnen - 200 Total mit 18.5-Pkt-Puffer. Bilanz: Einsatz 5.5 EUR, Ertrag (2.75 * 1.91 = 5.2525), Netto -0.2475 EUR = -4.5% Tages-ROI. Konkret: Pseudo-Hedge zwischen Sieg-These und Defensiv-Schlachten-These hat fast neutralen Tag erzeugt statt -100% bei Single-Tipp-All-In. Lesson 26.05 Mini-Spiele-Tag-Korrelation-1-Game-Single-Point-of-Failure - heute bestaetigt: Einzeltipp-Spread auf 2 unkorrelierte Maerkte = -4.5% statt -100% bei nur 1 Tipp + Schalg. Diese Strategie soll bei kuenftigen Single-Event-Tagen weiter angewendet werden, max 0.5%-1% pro Markt-entkoppeltem Tipp. ROI-Tracking-Hinweis: 2/4 dokumentierte Mini-Tage haben jetzt pseudo-Hedge-Pattern (28./29.05 + 03.06), bisher Bilanz -4.5% bis +5% Range, klar besser als Single-Tipp-Roulette.",
+      "bezug_spiel_id": "2026-06-04-sas-nyk"
+    },
+    {
+      "datum": "2026-06-06",
+      "kategorie": "NBA-Finals-G2-Heim-Bounce-Back-77-These-Re-Kalibrierung-Finals-Slot",
+      "lesson": "RE-KALIBRIERUNG der Heim-Bounce-Back-77%-G2-These (Sportico-Desperation-Datensatz, NBA-Playoffs Round 1-3 + Finals 2021/22 = 10-1 mit 6 zweistelligen Wins): nach NBA-Finals 2026 n=2 (G1 NYK +105:95 Auswaerts + G2 NYK +105:104 Auswaerts) ist Spurs trotz Heim + MUSS-Sieg + Wemby-Bounce-Back-Druck zum 0-2-Loch gefahren. Sportico-Bias erkannt: Round-1-3-G2-Heim-Bounces sind meist Series-Anker-Spiele (Underdog will Heimvorteil monetarisieren); NBA-Finals-G2 hat dagegen 75%-Win-Rate-Statistik bei 1-0-Auswaerts (klare Vorteile fuer Auswaerts-Konsolidierer). Implikation: NBA-Finals-G2-Heim-Sieg-Tipps duerfen nicht als Statistik-Edge-Bonus ueber Markt-Linie aufgenommen werden, wenn Markt scharf gepricet ist (1.44-Spurs-ML war ohne VALUE-Edge - Routine hatte korrekt WACKEL bewahrt). Lesson 03.06 G7-Hangover-These bleibt validiert (G1), aber Heim-Bounce-These getrennt davon FALSIFIZIERT fuer Finals-Slot. Kasse-Implikation: -2.75 EUR statt erwartbarer +1.21 EUR.",
+      "bezug_spiel_id": "2026-06-06-sas-nyk"
+    },
+    {
+      "datum": "2026-06-06",
+      "kategorie": "NBA-Finals-Drehungs-Cluster-Doppel-Heimfuehrung-zweistellig-verloren-volle-Analyse",
+      "lesson": "VOLLE-ANALYSE-PATTERN aus NBA-Finals 2026 G1+G2: doppelter Drehungs-Cluster bei beiden Spielen. G1: SAS hatte 14-Pkt-Heim-Fuehrung in Q3 -> Knicks Closing-Run Q4 11-0 zum 105:95-Auswaertssieg. G2: NYK hatte 14-Pkt-Fuehrung Mitte Q4 -> Spurs 14-0-Run zum kurzen 104:102-Wemby-And-1-Lead (57s vor Ende) -> Brunson-Go-Ahead-FT 9.5s + Wemby-Final-Jumper-Miss = 105:104-NYK-Sieg. ZUSAETZLICH G2: Spurs +12 H1 -> Knicks +14 Q4 = doppelte Drehung. PATTERN: NBA-Finals 2026 zeigt extreme intra-Spiel-Drehungs-Volatilitaet - Heim-Team-Fuehrungen zweistellig in beiden G1+G2 zusammengebrochen. Implikation: bei NBA-Finals-Sieg-Tipps mit Quote <= 1.55 (scharf gepricet) ist die intra-Game-Drehungs-Wahrscheinlichkeit empirisch unterzeichnet - WACKEL bleibt korrekt, KEIN VALUE-Upgrade. Stattdessen: Spread-Markt (Knicks +5.5 G2 ware spielbar gewesen, Spurs -5.5 verloren) oder Total-Markt (Decider-Defensiv-These stabil) bevorzugen.",
+      "bezug_spiel_id": "2026-06-06-sas-nyk"
+    },
+    {
+      "datum": "2026-06-06",
+      "kategorie": "NBA-Star-Bounce-Back-These-vs-Team-Sieg-Asymmetrie-Volume-Star-isoliert",
+      "lesson": "EMPIRISCHE WIDERLEGUNG der NBA-Star-Bounce-Back-These als Team-Sieg-Bezug: Wemby G2 29 Pkt / 9 Reb (22 davon in 2.HZ, 3-fach-Play Q4) = klares Mean-Reversion-Signal bestaetigt nach G1-6/21-FG-Tief. ABER: Spurs verloren 104:105, Wemby-Final-Jumper verfehlt. Star-Bounce wirkte personlich (statistisch nachweisbar), aber NICHT auf Team-Sieg-Markt. Pattern aehnlich zu 30.04. Wolves-Sieg trotz Edwards-OUT (Star-Out != Team-Loss): die Bounce-These ist VOLUME-spezifisch (Star feuert eigene Pkt-Zahl nach oben), nicht Sieg-spezifisch. Lesson-Implikation: Wenn Star-Bounce-Back-These als Pro-Argument fuer Team-Sieg-Tipp im Dossier gesetzt wird (wie 06.05. Routine bei Spurs-Sieg mit Wemby-Bounce-Druck), GEWICHTUNG max 0.5-Stern (statt 1.0-Stern). Player-Punkte-Markt bleibt durch Boykott geschlossen (Lesson 26.04). Stattdessen aktiv: Star-Bounce-Back-Signal als VALIDATOR fuer Total-OVER-Linien (Volume-Star feuert Total nach oben - heute aber NICHT eingetreten: Total 209 unter 214.5).",
+      "bezug_spiel_id": "2026-06-06-sas-nyk"
+    },
+    {
+      "datum": "2026-06-06",
+      "kategorie": "Mini-Spiele-Tag-Pseudo-Hedge-Pattern-n3-Validierung-NBA-Decider-Unter-Anker",
+      "lesson": "DRITTE EMPIRIE-VALIDATION fuer Mini-Spiele-Tag-Pseudo-Hedge-Strategie (nach Lessons 03.06 n2 + 28./29.05.): heute G2 NBA Finals n3-Tag mit 2 unkorrelierten WACKEL-Tipps (Spurs Sieg @ 1.44 + Unter 214.5 @ 1.91) ergab 1/2-Treffer = -0.09 EUR Tag (verlust 2.75 EUR Spurs Sieg + Gewinn 2.50 EUR Unter 214.5 = Netto -0.09 EUR / ROI Tag -4.5%) statt All-In-Single-Tipp-Schlag-Risiko (-5.50 EUR Voll-Schlag). Pattern bestaetigt: Pseudo-Hedge funktioniert auch bei 50%-Hitrate-Niveau, da Verluste durch Pendant gedaempft werden. SUBPATTERN: Unter-Total-Markt in NBA-Finals-Decider-Druck-Spielen = stabilster Anker - alle 3 bisherigen Finals-G1/G2-Tipps (Lesson 03.06 + heute) zeigen Decider-Defensiv-Cluster < Markt-Linie. Implikation fuer NBA-Finals-G3 (Mo 08.06 02:30 Berlin SAS @ NYK MSG): Mini-Spiele-Tag-Pseudo-Hedge weiter anwenden, mit Unter-Total als Anker-Tipp + 2. WACKEL-Tipp je nach Markt-Konstellation. Knicks-Heimserie-Drehungs-Pattern aus G1+G2 als Pro-Argument fuer Spurs-Auswaerts-Spread im Hinterkopf behalten.",
+      "bezug_spiel_id": "2026-06-06-sas-nyk"
+    },
+    {
+      "datum": "2026-06-07",
+      "kategorie": "Einwechslungs-Boost-Doppel-Hit WM-Test-Tag (PFLICHT-Anwendung 8h)",
+      "lesson": "WM-Test-Friendly 06.06.: 2 von 4 Torschuetzen-Tipps (Ronaldo, Lukaku) gewonnen NUR via Einwechslungs-Boost-Mechanik - beide Tipp-Spieler in HZ/65. Min direkt ausgewechselt, direkte Backups (Guedes, Lukebakio) trafen in 57. bzw 85. Min. Pattern: WM-Test-Phase = systematische HZ-Schon-Wechsel der Stamm-9er + Top-Backups bekommen 25-45 Min Volume. Bei naechster WM-Friendly-Routine: 1 Top-Stuermer-Tipp aktiv suchen wo Volume-Backup auf Bank zementiert sitzt (Brasilien Endrick, Belgien Lukebakio, Portugal Guedes - aktive WM-Test-Boost-Liste fuehren).",
+      "bezug_spiel_id": "2026-06-06-por-chi"
+    },
+    {
+      "datum": "2026-06-07",
+      "kategorie": "Boost-Massen-HZ-Sub-Falle (CLAUDE.md-Hartregel-Praezision)",
+      "lesson": "Vinicius-Falle 06.06.: ez-12 verloren obwohl Endrick HZ-Sub-Tor traf. Grund: Vinicius wurde DIREKT durch Luiz Henrique ersetzt (1:1-Sub), Endrick war Igor-Thiagos-Ersatz (separater 1:1-Sub) - bei Brasilien-Ancelotti-8-Spieler-HZ-Massen-Wechsel verschiebt sich Position-Aequivalenz, NICHT die direkte Boost-Anwendbarkeit. Lesson: vor Auswertung MUSS pro Sub-Slot exakte 1:1-Ersatz-Zuordnung verifiziert werden (welcher Backup ersetzt welchen Starter direkt). WICHTIG fuer Tipps-Generation: bei Teams mit angekuendigten Massen-HZ-Wechseln (Brasilien/USA-Stil) ist Boost-Hedge SCHWIERIGER als bei 1-2 gezielten Wechseln (Portugal/Belgien-Stil).",
+      "bezug_spiel_id": "2026-06-06-bra-egy"
+    },
+    {
+      "datum": "2026-06-07",
+      "kategorie": "Markt-Pattern aus volle_analyse: WM-Test-Tag-Ueber-2.5-Default-These (4/5 - 8g)",
+      "lesson": "WM-Test-Sa 06.06.: 4 von 5 Friendlies erreichten Ueber 2.5 Tore (Por 2:1, Bel 5:0, USA-Ger 1:2, Bra 2:1 - nur Eng-NZL 1:0 verloren). Lesson volle_analyse-Quelle 8g: WM-Test-Tag-Default-Markt-Goldgrube Ueber 2.5 bestaetigt mit 80% HR an n=5 Sample. Edge-Filter aus dieser Lesson: Tuchel-Stil-Coach mit angekuendigten Massen-HZ-Wechseln in einseitigen Spielen (England vs FIFA-#93) waren der einzige Aussreisser - wenn Generalprobe-Coach plant 'Achse zementieren statt Tor-Festival', Ueber-2.5 boykottieren. Sonst Default-Anker fuer naechstes WM-Friendly: 1 Ueber-2.5-Bein pro Spiel mit klassen-edge >25 FIFA-Plaetze + offensiver Coach-Profil.",
+      "bezug_spiel_id": "2026-06-06-eng-nzl"
+    },
+    {
+      "datum": "2026-06-07",
+      "kategorie": "Klassen-Edge realisiert in Sieg, NICHT in Tor-Anzahl bei B-Elf-2.HZ-Schon",
+      "lesson": "Tuchel-11-HZ-Wechsel-Falle 06.06.: ez-1 SAFE Ueber 2.5 verloren bei 89-Plaetze-FIFA-Diff (Eng #4 vs NZL #93). Klassen-Edge realisiert in 1:0-Sieg + Kane-45+1-Tor, aber 2.HZ komplette B-Elf scorete 0 weiter trotz NZL-FIFA-#93-Defense. Lesson: SAFE-Label Ueber 2.5 bei extremen Klassen-Diff + angekuendigter Stamm-Schon-Strategie ist FALSCH-Sicher - Markt-Goldgrube-Status (+30.2% ROI) ist nur dann SAFE-tauglich wenn beide Mannschaften Stamm-Elf 90 Min spielen. Reality-Check Stand 06.06.: SAFE-Kategorie 68.7% HR / +5.2% ROI - bewahrt Hartstand, aber nur knapp. KEIN SAFE-Ueber-2.5 mehr bei 'Coach-kuendigt-Massen-Wechsel-an'-Spielen. WM-Auftaktwoche 14.-21.06 mit Erwartungs-Diff-Spielen besonders beachten.",
+      "bezug_spiel_id": "2026-06-06-eng-nzl"
+    },
+    {
+      "datum": "2026-06-08",
+      "kategorie": "Roster-Verifikations-Joker-Falle (Plata WM-Test) - Pflicht-Profil-Bruch Spieler-Tipps",
+      "lesson": "ZWEITER WIEDERHOLUNGS-FALL nach Plata 07.06.: Roster-Verifikation-Lesson 25.04. wurde in lessons_angewandt[] aufgefuehrt - aber Plata-Spielzeit-Erwartung war fundamental falsch. Plata kam NICHT in Startelf von Beccacece (Beccacece schonte Pacho/M.Caicedo/Hincapie + setzte Backup-Konstellation Galindez/F.Torres/J.Alcivar/J.Porozo/Medina + J.Caicedo statt Plata vorne). Plata kam erst als JOKER fuer Jeremy Arevalo in 2. HZ (Min n/a). Boost-Mechanik konnte nicht greifen (Plata muesste raus + Ersatz traf - aber Plata war SELBST Ersatz). Tipp ez-3 @2.80 verloren (Plata kein Tor, J.Caicedo + Angulo + Estupinan trafen). VERSCHAERFUNG: Pre-Match-Recherche-Pflicht erweitern um 'Vorhersagbare Joker-Status': bei WM-Tests/Friendlies vor Turnieren - Top-Coach schont Stamm-Achse fuer Auftakt-Spiel-Frische. Plata + Pacho + M.Caicedo + Hincapie ALLE bei Ecuador zur Schonung Ersatzbank - waere mit Search 'Ecuador starting XI vs Guatemala' eindeutig erkennbar gewesen. HARTREGEL: Bei pre-Turnier-Friendlies (T-1 bis T-3 vor WM-/EM-Start) Torschuetzen-Tipps auf Top-Achse-Spieler NUR setzen wenn Aufstellung 90 Min vor Anstoss eindeutig bestaetigt. Bei Unsicherheit: Skip oder Wackel mit reduziertem Stake. Diese Lesson hat hoechste Prioritaet â€” Roster-Verifikations-Lesson 25.04. ist bei Friendlies in pre-Turnier-Phase strenger anzuwenden als in Liga-Saison.",
+      "bezug_spiel_id": "2026-06-07-ecu-gua"
+    },
+    {
+      "datum": "2026-06-08",
+      "kategorie": "WM-Test-Ueber25-Goldgrube erste Niederlage (Final-Test-Defensiv-Subfilter)",
+      "lesson": "GOLDGRUBE-BRUCH: Liga-Goldgrube 'WM-Test' vorher 85.7% HR / +36.5% ROI (n=14) - MAR-NOR 07.06. erste Niederlage. Marokko 1:0 HZ â†’ 1:1 Endstand, Total nur 2 Tore (unter 2.5). Pattern-Quelle aus volle_analyse[]: Marokko-Coach Ouahbi tauschte 7 Spieler in 64. Min komplett aus (Hakimi, Brahim Diaz, Saibari, Diop, Riad, Ounahi, El Aynaoui - Komplette Top-Achse raus), Norwegen-Coach Solbakken tauschte simultan 7 Spieler im Cooling-Break (Haaland, Berge, Ajer, Sorloth, Aursnes - inkl Haaland 72. raus). Resultat: Tor-Tempo schlagartig gebremst, kein 3. Tor mehr nach 75.'-Odegaard-Ausgleich. PRAEZISIERUNG WM-Test-Goldgrube: Im Final-Test (T-1 vor WM-Start) ist Schon-Substitutionen-Druck so hoch dass Tor-Anzahl niedriger ausfaellt als 'normale' WM-Tests (4-7 Tage vor Start). SUBFILTER: WM-Test innerhalb der letzten 7 Tage vor Turnier-Start mit Mass-Substitutions-Wahrscheinlichkeit (Stamm-Achse-Schon-Druck) Ueber 2.5 nicht mehr SAFE, max VALUE. Goldgrube-Pattern bleibt fuer T-14 bis T-7-Phase aktiv. Aktuell-Bilanz nach Bruch: 6/8 = 75% HR / +24.8% ROI - immer noch Goldgrube, aber nicht mehr 85.7%.",
+      "bezug_spiel_id": "2026-06-07-mar-nor"
+    },
+    {
+      "datum": "2026-06-08",
+      "kategorie": "Friendly-Torschuetzen-Mass-Substitution-Boost-Falle (Validierung n=3)",
+      "lesson": "EMPIRISCHE EVIDENZ: 3 Torschuetzen-Tipps in WM-Tests 07.06. ALLE verloren - alle 3 mit Boost-Mechanik-Hedge konzipiert, alle 3 ohne Boost-Ausloesung. (1) Musa (Kroatien Heim-9er) - Pasalic kam fuer Modric (Mittelfeld-Wechsel), nicht fuer Musa. Pasalic-Tor 90+3' zaehlt NICHT fuer Musa-Tipp. (2) Plata (Ecuador) - kam selbst als Joker, kein Boost moeglich (Roster-Falle, siehe Lesson 08.06. Plata). (3) Haaland (Norwegen) - 72. Min ausgewechselt fuer Strand Larsen. Strand Larsen kein Tor (Odegaard traf 75. als Senior, nicht Haalands Ersatz). Boost-Mechanik greift NICHT. PATTERN-SYNTHESE: In WM-Tests/Friendlies tauschen Coaches Mass-Substitutionen aus (7+ Spieler simultan) - die 1:1-Mapping zwischen Tipp-Spieler-X und Ersatz-Y wird unklar/verteilt. Ersatz-Volume-9er (Strand Larsen, Bobb, Pasalic) treffen oft, aber selten der DIREKTE Ersatz des Tipp-Spielers. HARTREGEL: In WM-Tests/Friendlies mit erwarteten Mass-Substitutionen (n>=5 Wechsel pro Team) Boost-Mechanik-Hedge in Begruendung NICHT mehr nutzbar (faire_quote-Aufschlag fuer Boost-Sicherung entfaellt). Torschuetzen-Tipps in dieser Konstellation max VALUE mit reduziertem Stake (1.0% statt 1.5%), niemals SAFE-Anker.",
+      "bezug_spiel_id": "2026-06-07-mar-nor"
+    },
+    {
+      "datum": "2026-06-08",
+      "kategorie": "Klassen-Edge-Sieg-Tipp-Goldgrube n=3 Validierung (Lesson 06.06. bestaetigt)",
+      "lesson": "DRITTE VALIDIERUNG: Lesson 06.06. 'Klassen-Edge realisiert sich als Sieg statt Tor-Anzahl' wurde heute n=3 weiter bestaetigt. Drei Klassen-Edge-Sieg-Tipps gesetzt - alle 3 GEWONNEN: (1) Kroatien Sieg @1.36 (FIFA10 vs FIFA44) â†’ 2:1 knapper Spaet-Sieg via Pasalic-Joker 90+3. (2) Ecuador Sieg @1.30 (FIFA23 vs FIFA105) â†’ 3:0 souveraen sogar OHNE Stamm-Achse Pacho/M.Caicedo/Hincapie (alle Bank). (3) Italien-U22 DC X2 @1.55 (Klassen-Edge vs Griechen-Form-Krise) â†’ 0:1 Sieg via Esposito 18'. PARALLEL: BTTS MAR-NOR @1.68 gewann (1:1), Unter 2.5 GRE-ITA @1.75 gewann (0:1 = 1 Tor), Unter 3.5 ECU-GUA @1.40 gewann (3:0). NEGATIV-PATTERN: Tor-Anzahl-Tipps (Ueber 2.5 MAR-NOR, Torschuetzen) verloren - genau wie Lesson 06.06. erwartet. ZUSAMMEN-STRATEGIE BESTAETIGT: In pre-Turnier-Friendlies mit Klassen-Edge ist Sieg-Tipp signifikant zuverlaessiger als Tor-Markt. Sieg-VALUE-Bilanz WM-Tests jetzt n=8 / 8/8 = 100% / +66% ROI seit Lesson-Anwendung. Lesson erhaelt 'STRATEGISCHES PRIMAERPATTERN'-Status, taeglich Pflicht in Tipps-Routine.",
+      "bezug_spiel_id": "2026-06-07-cro-svn"
+    },
+    {
+      "datum": "2026-06-09",
+      "kategorie": "NBA-Decider-Defensiv-These G3-Bruch (Lesson 02.05. Re-Kalibrierung Finals-Phase)",
+      "lesson": "EMPIRISCHE WIDERLEGUNG der Lesson 02.05. NBA-Decider/Finals-Defensiv-These im Finals-G3 (08.06.): Total 226 (NYK 111, SAS 115) UEBERschritt Linie 216.5 um 9.5 Pkt. Vorher 2/2 HIT in dieser Finals-Serie (G1: 200<218.5 / G2: 209<214.5), jetzt 2/3. Quelle aus volle_analyse[]: HZ-Stand 64:57 (121 nach 2 Vierteln auf 226-Pace), Spurs Q1 33-22 + Q3+Q4 58-47 - Tempo eskalierte in 2. Hz statt zu sinken. Pattern: bei G3+ einer Finals-Serie mit Underdog-Backs-against-the-Wall + Heim-Closeout-Lead-Druck wird Tempo BESCHLEUNIGT (beide Seiten muessen scoren) statt verlangsamt - umgekehrt zu G1/G2 wo Defensive-Adjustment dominiert. SUBFILTER fuer Lesson 02.05.: NBA-Finals-Unter-These nur fuer G1+G2 spielbar (Ankommens-Phase + erste Defensive-Anpassung). Ab G3 nicht mehr automatisch Unter-VALUE - Linien-Druck kann durchschnittlich Ueber 220 ausreichen lassen. NBA-Unter-Bilanz total nach 08.06.: 6/10 = 60% / -2% ROI (war 5/9 = 55.6% nach 01.05.). Lesson 02.05. behalt VALIDITAET fuer G1/G2 (n=2 mit 100% HR), wird fuer G3+ SUSPENDIERT bis weitere Daten.",
+      "bezug_spiel_id": "2026-06-08-nyk-sas"
+    },
+    {
+      "datum": "2026-06-09",
+      "kategorie": "Center-DD-Cluster-Falle bei High-Score-Spielen (Volle-Analyse-Pattern aus markt_resultate)",
+      "lesson": "PATTERN-IDENTIFIKATION aus volle_analyse[]: 3 Center-DD-Tipps in einem G3-NBA-Finals-Spiel ALLE VERLOREN trotz starkem Pre-Game-Pattern: KAT (G1 18/12 + G2 21/13) â†’ G3 nur 11/8, kein DD. Wemby (G1 26/12 + G2 29/9) â†’ G3 32/8, kein DD trotz Punkte-Hoch. Hart (G1 3/15) â†’ G3 nur 8/3, kein DD. PATTERN-SYNTHESE: In High-Score-NBA-Spielen mit Total >220 wird Rebound-Volumen verteilt (mehr Made-Buckets = weniger Rebounds), Center-DD-Pattern zerbricht. KAT-Punkte-Crash zusaetzlich durch Spurs-Frontcourt-Doppel-Druck (Wemby + Champagnie boxen). NEUE HARTREGEL: Pro Spiel max 1 Center-DD-Tipp setzen (statt Multi-DD-Stacking). Bei NBA-Finals/Decider-Spielen mit erwartetem Total >215 Center-DD generell auf max VALUE (kein Anker-VALUE/quasi-SAFE). DD-Markt-Bilanz NBA-Playoffs nach 08.06. zu pruefen, aktuell schon 6/12 letzte 14 Tage. Center-DD-Stacking in Single-Game-SGP-Kombi (heute kombi-balance 3xDD verlor) konzentriert Risiko statt zu diversifizieren - max 1 DD-Bein pro Kombi.",
+      "bezug_spiel_id": "2026-06-08-nyk-sas"
+    },
+    {
+      "datum": "2026-06-09",
+      "kategorie": "Mini-Spiele-Tag Total-Slate-Ausfall (Lesson 26.05. n=4 Validierung mit 0% Hit-Rate)",
+      "lesson": "EXTREMES PATTERN: 08.06. Single-Game-Slate (1 In-Scope-Spiel, NBA Finals G3) endete mit 0/5 Einzeltipps + 0/4 Kombis = 100% Slate-Ausfall, Tagesbilanz -33.55 EUR Einzeltipps + -17.35 EUR Kombis = -50.90 EUR (= -9.3% der Kasse von 550 EUR). Lesson 26.05. 'Mini-Spiele-Tag Single-Point-of-Failure' jetzt n=4 validiert mit dem schaerfsten Beispiel: alle 4 Kombis SGP auf dasselbe Spiel = volle Korrelation gegen Marktbewegung. Heute: Spurs gewannen ueberraschend (Aggregator-Konsens 38% Spurs-Sieg-WK), Total ueberraschend (Unter-Wahrscheinlichkeit 53% lt. SportsLine), KAT-DD ueberraschend nicht (3-in-Folge-Pattern), Wemby-DD ueberraschend nicht (G1/G2 mit 12+9 Rebs) - 4 unabhaengige Outcomes alle in Tipp-Gegenrichtung in einem Spiel. VERSCHAERFUNG der Lesson 26.05.: bei 1-Game-Slate Stake-Konzentration auf Safe-Kombi war bisher Strategie (Lesson 19.05./29.05./06.06.) - heute Bruch zeigt: Konzentration bei SGP-Spiel-Singularity ist Hazard, NICHT Edge. NEUE REGEL: Bei Single-Game-Slate-Tagen Gesamtstake-Cap einfuehren - max 3% der Kasse fuer alle Tipps + Kombis kumuliert (heute 6.5% gesetzt = zu hoch). Stake-Cap 3% bei 550 EUR = 16.50 EUR Total-Limit ueber alle Picks. Senkt Black-Swan-Tag-Verlust auf < -5% der Kasse.",
+      "bezug_spiel_id": "2026-06-08-nyk-sas"
+    },
+    {
+      "datum": "2026-06-09",
+      "kategorie": "Spurs-Bounce-Back-Wemby-Karriere-Finals-Hoch (Star-Bounce-Back-These bestaetigt im 0-2-Druck)",
+      "lesson": "POSITIV-PATTERN aus auffaellige_patterns[]: Wemby G2 verschoss Last-Shot 20-Fuss-Jumper 2 Sek vor Schluss (verlor G2 105-104), G3 dann Karriere-Finals-Hoch 32 Pkt / 8 Reb / 6 Ast / 3 Blk / 2 Stl + Castle 23 Pkt mit Clutch-3er (1:54 Q4) + Game-Clinching-FT (0:06 Q4). Pattern aus Lesson 22.05. (NBA-Star-Defense-Adjust-G1-Hot-Hand-Subfilter Reverse): Star-Bounce-Back nach klarem Miss-Moment ist Goldgrube-Trigger fuer Spieler-Punkte-Ueber (Wemby >31.5 in kombi-risiko GEWANN). NEUE LESSON: Bei NBA-Finals/Playoff-Stars mit klarem 'Last-Shot-Miss' in vorherigem Spiel UND 0-2/1-3-Druck-Kontext im naechsten Spiel: Spieler-Punkte-UEBER-Tipp (Saisonschnitt + 5-10%) ist VALUE-Kandidat - Star will Wiedergutmachung machen, holt Volumen-Punkte. Wemby Saisonschnitt 25, Bounce-Back-Spiel 32 (+28%). Lesson erlaubt Spieler-Punkte-Ueber als RISIKO-Kombi-Bein (nicht Einzeltipp, HR16 bleibt) bei klarem Bounce-Back-Trigger. Aktuell n=1 (Wemby 08.06.) - braucht Validierung.",
+      "bezug_spiel_id": "2026-06-08-nyk-sas"
+    },
+    {
+      "datum": "2026-06-10",
+      "kategorie": "HR25: WM-Gruppenphase-3.Spieltag-Außenseiter-Pattern (WM-Saison-Start)",
+      "lesson": "Im 3. Gruppen-Spieltag der WM: wenn Favorit-Team Achtelfinale schon sicher hat (6 Pkt + Tordiff klar positiv), sinkt Druck-Niveau massiv. Außenseiter mit Sieg-Druck (0-3 Pkt, MUSS gewinnen) holt historisch in 30 % der Fälle einen Punkt. Mapper-Verhalten: Favorit-Sieg-SAFE bei solchen Konstellationen verboten - max VALUE. Außenseiter-DC X2 als VALUE-Kandidat. Wenn beide schon weiter oder beide raus: Tor-Total Unter 2.5 als VALUE bevorzugt (taktisch, kein Druck).",
+      "bezug_spiel_id": null,
+      "auto_generiert": false
+    },
+    {
+      "datum": "2026-06-10",
+      "kategorie": "HR26: WM-K.O.-Phase Tor-Total tendiert nach unten",
+      "lesson": "In K.O.-Spielen (Runde der 32, Achtel-, Viertel-, Halbfinale, Finale) ist Tor-Total durchschnittlich 0,3-0,5 Tore niedriger als Gruppenphase wegen taktischer Vorsicht + Verlängerungs-Risiko. Über 2.5 Tore in K.O.-Spielen NIE SAFE, max VALUE und nur bei beidseitig-offensiven Mannschaften. Unter 2.5 Tore wird Goldgrube-Kandidat bei zwei taktisch versierten K.O.-Teams. 2:0-Insurance gilt bei direktem Sieg-Tipp (siehe CLAUDE.md WM-Erweiterung).",
+      "bezug_spiel_id": null,
+      "auto_generiert": false
+    },
+    {
+      "datum": "2026-06-10",
+      "kategorie": "HR27: Vereins-Saison-Müdigkeit bei Top-Spielern",
+      "lesson": "Spieler aus Top-Vereinen (38+ Liga-Spiele PL/LaLiga/Serie A + CL-Halbfinale/Finale 31.05.) haben nur ~10 Tage Pause bis WM-Start. Top-Stürmer-Tor max VALUE statt SAFE auch wenn Form gut. Backup-Stürmer (wenig genutzte 2.-Reihe) haben VALUE-Edge weil frisch. Erkennung über Pre-WM-Test-Spiele: wer wurde geschont, wer voll durchgespielt? Mapper-Hinweis: HR27 prüft im Recherche-File 'vereins_belastung_heim/gast' auf '38+'-Marker.",
+      "bezug_spiel_id": null,
+      "auto_generiert": false
+    },
+    {
+      "datum": "2026-06-10",
+      "kategorie": "HR28: WM-Spielort-Faktor (Höhe + Hitze + Lokal-Vorteil)",
+      "lesson": "Bei spielort_faktor.hoehe_m >= 1500 (Mexiko-Stadt 2240m, Toluca 2667m, Guadalajara 1566m): europäische + asiatische Teams haben Konditions-Nachteil ab Min 60. Tor-Total Über 2.5 in Hoch-Höhen-Stadien zurückhaltend (Tempo niedriger). Spät-Tor-Pattern (Min 75+) erhöht weil Auswechslungen + Konditions-Crashes häufiger. Bei Florida/Texas-Mittag-Spielen mit Hitze + Luftfeuchtigkeit: Tor-Total runter, Sieg-Tipps mit Vorsicht. Bei moderaten Klima-Stadien (Toronto/Vancouver/Boston/Westküste): kein Spielort-Bias.",
+      "bezug_spiel_id": null,
+      "auto_generiert": false
+    },
+    {
+      "datum": "2026-06-10",
+      "kategorie": "HR29: Pre-WM-Test-Spiele als Form-Indikator",
+      "lesson": "Pro WM-Team in letzten 14 Tagen vor Turnier-Start 1-3 Test-Spiele. Wer hat gespielt + getroffen? Spieler mit Test-Tor = Form-Edge-Kandidat für WM-Eröffnung. Spieler komplett geschont (verletzungsbedingt) = Risiko - kein Star-Tipp SAFE. Test-Spiel-Verlust oder Snoozer = Mannschafts-Stimmung-Negativ-Indikator → keine Sieg-SAFE auf das Team. Recherche-Routine sammelt 'pre_wm_test_spiele[]'-Liste pro Spiel.",
+      "bezug_spiel_id": null,
+      "auto_generiert": false
+    },
+    {
+      "datum": "2026-06-10",
+      "kategorie": "META: WM 2026 Saison-Phase-Wechsel - Vereins-Liga-Goldgrube-Stats nur als historische Referenz",
+      "lesson": "Mit WM-Start 11.06. ist die Vereins-Saison faktisch pausiert. Die historischen Liga-Goldgruben (PL/LaLiga/CL-HF) bleiben in liga_goldgruben.json gespeichert, sind aber NICHT für WM-Tipps relevant - bei WM-Spielen ist Liga = 'WM 2026' und greift nicht. Beobachtungs-Liga-Filter (z.B. 'NBA Playoffs - Finals Game 3' mit ROI -100%) gilt nur für exakt diesen String - WM-Spiele bleiben voll bespielbar (SAFE moeglich wenn Quote passt). Markt-Goldgruben (Über/Unter, DC, Torschützen Jederzeit) sind sport-übergreifend gültig, gelten auch bei WM. Neue WM-Statistik baut sich täglich auf, frühestens Mitte Juni greifen erste WM-spezifische Bluter/Goldgruben.",
+      "bezug_spiel_id": null,
+      "auto_generiert": false
+    },
+    {
+      "datum": "2026-06-11",
+      "kategorie": "Mini-Spiele-Tag-Pseudo-Hedge-Strategie n=4 validiert (Drehung-Stresstest bestanden)",
+      "lesson": "Mini-Spiele-Tag-Pseudo-Hedge mit 2 unkorrelierten WACKEL-Beinen (Sieg-Markt + Total-Markt) jetzt n=4 empirisch validiert. Heute (10.06.) extremster Stresstest aller Zeiten: GROESSTER COMEBACK in NBA-Finals-Geschichte (NYK aus -29 in HZ -> 107-106-Sieg durch Anunoby-Tip-In 1.2s vor Schluss) - trotz Drehung beide Tipps gewonnen (SAS +1.5 deckt 1-Pkt-Niederlage, Unter 216.5 trifft 213-Total knapp). Strategie funktioniert weil (a) Spread-Insurance faengt Sieg-Pattern-Bruch ab, (b) Total bleibt unabhaengig vom Sieg-Outcome bei beidseitigen 2.HZ-Wurf-Kollaps. Bilanz Mini-Spiele-Pseudo-Hedge n=4: 28.05 (1/2), 03.06 (1/2), 06.06 (Decider-Slot), 10.06 (2/2) - aggregiert >50% Hitrate auf Wackel-Linien = klar profitabel bei Quoten 1.85-2.00. NEUE Hartregel: bei Single-Event-Slate ist diese Strategie der Default (nicht All-In auf 1 Tipp), Cap bleibt 3% Kasse Total.",
+      "bezug_spiel_id": "2026-06-10-nyk-sas",
+      "auto_generiert": false
+    },
+    {
+      "datum": "2026-06-11",
+      "kategorie": "NBA-Decider-Defensiv-These G4-HIT Re-Validierung (Track-Record 3/4 = 75%)",
+      "lesson": "Lesson 02.05 NBA-Decider-Defensiv-These nach G4-HIT jetzt 3/4 = 75% (G1 200<218.5 HIT, G2 209<214.5 HIT, G3 226>216.5 MISS, G4 213<216.5 HIT). G3-Bruch war Einzelausreisser (Spurs-MUSS-Sieg-Q1-Eskalation 33 Pkt) - bei normalen Decider-Setups (selbst bei extremer 1.HZ-Eskalation wie G4 mit 125 projiziert) drueckt 2.HZ-Defensiv-Adjust + 3PT-Wurf-Volatilitaet (SAS 3/17 = 17.6%) Total wieder unter Linie. Re-Kalibrierung: Unter 216.5 in NBA-Finals-Deciders bleibt WACKEL-Default (nicht VALUE-Upgrade trotz 75%), weil 4-Spiele-Sample noch zu duenn fuer SAFE-Eligibility laut Lesson 27.04 Quoten-Hartregel + CLAUDE.md HR (NBA-Playoff max WACKEL). Bei G5 wenn benoetigt: gleiche WACKEL-Default-Behandlung.",
+      "bezug_spiel_id": "2026-06-10-nyk-sas",
+      "auto_generiert": false
+    },
+    {
+      "datum": "2026-06-11",
+      "kategorie": "Auswaerts-Pattern-Edge bei N<=5: Spread-Insurance statt Direktsieg (Pattern-N4-Bruch SAS)",
+      "lesson": "OddsShark-Auswaerts-Pattern 'Road-Team-2-1-Rueckstand-G4 seit 2013 = 4/4 SU+ATS' BRACH heute beim 5. Versuch - Spurs verloren 106-107. Aber +1.5-Spread-Insurance hat den Pattern-Bruch perfekt abgefangen (Quote 1.96, Sieg-Quote SAS waere 2.12 gewesen - ~8% Quote-Aufschlag fuer Verlust-Sicherung). NEUE Hartregel: bei Sport-Patterns mit Sample-N<=5 (statistisch nicht signifikant) NIE auf direkten Sieg-Markt setzen, immer auf +1.5/+2.5-Spread als Insurance-Edge. Differenzierung Pattern-Direkter-Sieg (instabil bei N<=5) vs Pattern-Spread-Hedge (faengt knappe Niederlagen ab). Anwendung auf zukuenftige NBA-Decider-Patterns + WM-Pattern-Edges (z.B. Pre-WM-Test-Form-Patterns mit N=2-3 sind ohne Spread-Hedge nicht spielbar).",
+      "bezug_spiel_id": "2026-06-10-nyk-sas",
+      "auto_generiert": false
+    },
+    {
+      "datum": "2026-06-11",
+      "kategorie": "Drehungs-Datapoint - Junges-Roster-Q3-Kollaps-Pattern (Volle-Analyse-Quelle 8f+8h)",
+      "lesson": "Volle-Analyse-Datapoint: GROESSTER Comeback der NBA-Finals-Geschichte (NYK aus -29 HZ-Defizit, Endstand 107-106). Q3-Kollaps SAS: 14 Pkt auf 4/20 FG = 20% Wurfquote, NYK 13-0-Run war Wende. Junges Spurs-Core (Wemby 22, Castle 20, Harper Rookie 19, Vassell 25) kollabierte unter NYK-MSG-Heimcrowd-Druck in 2.HZ (30 Pkt insgesamt vs 76 in 1.HZ). 3PT-2.HZ-Volatilitaet: 3/17 = 17.6%. NEUES Pattern fuer naechste Decider-Slates (G5 wenn benoetigt in San Antonio Heim-Kontext = umgekehrte Pattern-Achse): bei jungen Rookie-Heavy-Rostern (Durchschnittsalter Kern-Rotation <= 23) in Auswaerts-Closing-Druck-Situation: Q3-Kollaps-Risiko aktiv beobachten - Anti-Halbzeit-Endstand-Kombi (Heim-fuehrt-HZ + Heim-gewinnt-FT) wenn jung-Roster-Auswaerts. CLAUDE.md Markt-Boykotts-Erweiterung: Halbzeit-Endstand-Kombi bei jungen Auswaerts-Rostern unter Schluss-Druck = NIE.",
+      "bezug_spiel_id": "2026-06-10-nyk-sas",
+      "auto_generiert": false
+    },
+    {
+      "datum": "2026-06-12",
+      "kategorie": "WM-Einwechslungs-Boost LIVE-VALIDATION mit Mid-Game-Subst-Trigger (Volle-Analyse-Quelle 8i + Tipp-Treffer)",
+      "lesson": "EINWECHSLUNGS-BOOST funktioniert exakt nach CLAUDE.md-Regel — Son Heung-min 69. Min ausgewechselt fuer Oh Hyeon-gyu, der 80. Min das Siegtor erzielte. Tipp 'Son trifft jederzeit' @ 2.40 = GEWONNEN via Boost. Ohne Boost-Regel waere ez-7 verloren UND kombi-balance (4.03x, 17.73 EUR Auszahlung) verloren — Boost hat den Tagesgewinn um 17.18 EUR gehoben. Tags-Lessonsangewandt prognostizierte 'ohne Boost-Profit fuer Son' (LAFC-Pattern), aber Hong-Myung-bo-Wechsel-Tradition griff bei Top-Stuermer-Auswechslung bei knappem Stand. NEUE HARTREGEL: bei Torschuetzen-Jederzeit-Tipps auf nicht-90-Min-Spieler-Profile (Captain/Top-Scorer-mit-erwartetem-Wechsel) den Pool der wahrscheinlichen Einwechsel-Stuermer VOR Tipp-Setzung scannen — Backup-Sturm-Qualitaet ist effektiv Teil der Tipp-Wahrscheinlichkeit. Konkretisierung in CLAUDE.md-Regel passt; KEINE Reduktion noetig.",
+      "bezug_spiel_id": "2026-06-12-kor-cze",
+      "auto_generiert": false
+    },
+    {
+      "datum": "2026-06-12",
+      "kategorie": "WM-Spieltag-1-Defensiv-Pattern gilt nur 1.HZ — 2.HZ-Eskalations-Risiko (Volle-Analyse-Quelle 8g + tipps_ergebnis)",
+      "lesson": "Volle-Analyse-Datapoint: KOR-CZE 0:0 zur HZ, dann 3 Tore in 2.HZ (Krejci 59., Hwang 67., Oh 80.). Unter 2.5-Markt-Goldgrube-Tipp ez-4 verloren obwohl Spieltag-1-Defensiv-These (7/10 Eroeffnungs-Spiele Unter 2.5 historisch) aktiv war. Auch MEX-RSA: 1:0 HZ, dann Jimenez 67. Min. Beide Spiele zeigten dasselbe HZ-vs-2HZ-Pattern: Eroeffnungs-Druck weicht in 2.HZ auf wenn ein Team fuehrt UND der Gegner Risiko gehen muss. NEUES PATTERN: 'Unter 0.5 HZ' oder 'HZ unentschieden' als alternative WM-Spieltag-1-Markt-Edge waere sicherer gewesen (HZ in beiden Spielen Unter 0.5 erfuellt waere MEX 1:0 nicht, KOR 0:0 ja — partial). Schaerfer: 'Tore mehrheitlich in 2.HZ'-Pattern fuer Spieltag-1 in CLAUDE.md WM-Sonderregeln aufnehmen — Unter-2.5-Edge SCHWAECHT bei Coinflip-Spielen, wo Loser-Team in 2.HZ Druck macht.",
+      "bezug_spiel_id": "2026-06-12-kor-cze",
+      "auto_generiert": false
+    },
+    {
+      "datum": "2026-06-12",
+      "kategorie": "Markt-Goldgrube Unter 2.5 + BTTS-Nein Mid-Tier-Differenzierung (Volle-Analyse-Quelle 8c + tipps_ergebnis)",
+      "lesson": "Cross-Pattern Markt-Goldgrube: Unter 2.5 in MEX-RSA GEWONNEN (Klassen-Edge + Hoehe 2240m + Bafana 0-Tor-Pre-WM = strukturell defensiv), in KOR-CZE VERLOREN (Coinflip-Spiel + 2.HZ-Eskalation). BTTS-Nein dasselbe Muster: MEX GEWONNEN, KOR-CZE VERLOREN (Korea-14/15-Pattern brach). NEUE FILTER-REGEL: Markt-Goldgrube Unter 2.5/BTTS-Nein VOLL aktivieren nur bei klarem 1X2-Favoriten (Quote-Spread Heim-Gast Faktor 4+ wie MEX 1.48 vs RSA 6.50) UND Hoehen/Klima-Edge. Bei Coinflip-Spielen (Spread Faktor < 1.5 wie KOR 2.62 vs CZE 2.75) Markt-Goldgrube max VALUE statt SAFE-Behandlung, weil 2.HZ-Risk-Mode aktiv. Anwendung naechste Tage: Liga MX Quoten-Spread-Check vor Unter-2.5-Setzung.",
+      "bezug_spiel_id": "2026-06-12-kor-cze",
+      "auto_generiert": false
+    },
+    {
+      "datum": "2026-06-12",
+      "kategorie": "Hoehen-Stadion (2200m+) 'Heim zu Null'-Markt aktiv scannen (Volle-Analyse-Quelle 8g)",
+      "lesson": "Volle-Analyse-Datapoint: Mexico zu Null GEWONNEN gegen Bafana (Suedafrika 0 Tor, 0 echte Chancen ueber 90 Min). Hoehen-Defizit (Mexico-Stadt 2240m) + Bafana-Pre-WM-0-Tor-Pattern (4 Tests, 1 Tor insgesamt) + 3-Rote-Karten-Match-Disziplin = Mexico-zu-Null-Bein in Moonshot 1.85 war SICHERER als die 1.85-Quote suggeriert. NEUE BEACHTUNG fuer WM-Schedule: bei Mexico-Heim-Spielen Estadio Azteca (2240m) oder Guadalajara (1566m) gegen Mid-Tier-Aussenseiter mit 0-Tor-Pre-WM-Pattern: 'Heim zu Null'-Quote als VALUE-Kandidat scannen — meist gepreist wie Standard-Defensive-Spiel, aber Hoehen-Erstickung-Effekt verstaerkt. Pattern fuer Mexico-Spiele 2026-06-18 (Mexico vs Tschechien?) und 2026-06-24 (Mexico vs Suedkorea?) relevant.",
+      "bezug_spiel_id": "2026-06-11-mex-rsa",
+      "auto_generiert": false
+    }
+  ]
 };
