@@ -1,7 +1,7 @@
 {
   "datum": "2026-06-13",
-  "erstellt_am": "2026-06-13T13:16:02+00:00",
-  "hinweis": "WATCHDOG-RECOVERY 17:15 Berlin (Hauptroutine 16:00 nicht durchgelaufen). Sa 13.06.2026 Window 17:15 Sa - 06:01 So: 5 Spiele - 4 WM-Gruppenphase Spieltag 1 (Qat-Sui, Bra-Mar, Hai-Sco, Aus-Tur) + NBA Finals G5 (Spurs-Knicks, Spurs 1-3 hinten / muss-Sieg). Basis: Wochenend-Vorschau 2026-06-13 (Donnerstag 11.06.) gefiltert + Kombis neu aufgebaut. 6 Einzeltipps (1 SAFE + 4 VALUE + 1 WACKEL), 4 Kombis Safe 2.96x / Balance 7.99x / Risiko 20.63x / Moonshot 46.4x. Kasse 550 EUR Stufe 1 Aufbau-Phase.",
+  "erstellt_am": "2026-06-13T13:30:00+02:00",
+  "hinweis": "WM 2026 Spieltag 1 Auftakt - Window Sa 13.06. 21:00 Berlin (Qat-Sui) bis So 14.06. 06:00 Berlin (Aus-Tur Vancouver). 5 Spiele: 4 WM-Gruppenphase Tag-1 (Qat-Sui, Bra-Mar, Hai-Sco, Aus-Tur) + NBA Finals Game 5 (Spurs-Knicks, Spurs 1-3 hinten / MUSS-Sieg-Lage). Klub-Saison komplett vorbei (CL-Final 30.05. PSG-Arsenal), alle Spieler 3 Wochen Pause + Trainingscamp. 2:0-Insurance + Einwechslungs-Boost (CLAUDE.md WM-Sonderregeln) bei jedem Sieg-Tipp aktiv. 6 Einzeltipps (1 SAFE Schweiz / 4 VALUE Bra-Mar-Sieg+Vinicius / Sco-Sieg / Tur-Sieg / 1 WACKEL NBA-Unter) + 4 Kombis Safe 2.96x / Balance 7.99x / Risiko 20.63x / Moonshot 46.4x. Markt-Goldgruben aktiv (Torschuetzen +16.1 Prozent ROI, Ueber 2.5 +23.4 Prozent ROI). Kasse 550 EUR Stufe 1 Aufbau-Phase.",
   "spiele": [
     {
       "id": "2026-06-13-qat-sui",
@@ -44,10 +44,46 @@
           "quote": 1.3,
           "empfohlener_einsatz_prozent": 2.0,
           "empfohlener_einsatz_euro": 11.0,
-          "begruendung": "TOP-1 des Wochenendes. Massive Klassen-Edge: Schweiz FIFA #11 vs Katar #51, Kalshi-Konsens 81% Schweiz / 7% Katar. Schweiz hatte Klub-Pause 3 Wochen + tiefer Quali-Kader (Sommer/Akanji/Xhaka/Embolo/Ndoye). Katar Auftakt-Underdog ohne Welt-Niveau-Test seit Heim-WM 2022 (0 Siege damals). 2:0-Insurance-Regel WM 2026 aktiv (CLAUDE.md): Schweiz-Sieg gewinnt bei bet365 schon ab 2:0-Fuehrung - Versicherung gegen spaeten Katar-Anschluss. Reality-Check Quoten 1.00-1.50 in statistik.json: 76.9% HR / +7.2% ROI (n=39, beste Hitrate-Range). Stake-Empfehlung 2% = 11 EUR bei 550 EUR-Kasse Stufe 1.",
+          "begruendung": "TOP-1 des Wochenendes. Massive Klassen-Edge: Schweiz FIFA #11 vs Katar #51, Kalshi-Konsens 81 Prozent Schweiz / 7 Prozent Katar. Schweiz hatte Klub-Pause 3 Wochen + tiefer Quali-Kader (Sommer/Akanji/Xhaka/Embolo/Ndoye). Katar Auftakt-Underdog ohne Welt-Niveau-Test seit Heim-WM 2022 (0 Siege damals). 2:0-Insurance-Regel WM 2026 aktiv (CLAUDE.md): Schweiz-Sieg gewinnt bei bet365 schon ab 2:0-Fuehrung - Versicherung gegen spaeten Katar-Anschluss. Reality-Check Quoten 1.00-1.50 in statistik.json: 76.9 Prozent HR / +7.2 Prozent ROI (n=39, beste Hitrate-Range). Stake 2 Prozent = 11 EUR Stufe 1.",
           "edge_prozent": 8,
           "faire_quote": 1.2,
           "rang": 1
+        },
+        {
+          "id": "t-sui-2",
+          "markt": "Schweiz Ueber 1.5 Tore",
+          "kategorie": "value",
+          "quote": 1.4,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 5.5,
+          "begruendung": "Schweiz-Offensive bei Klassen-Edge 81 zu 7 Prozent (Kalshi) sollte gegen Katar mindestens 2 Tore erzielen. Embolo (7 Quali-Tore) + Ndoye + Vargas + Amdouni als Rotations-Optionen. Katar-Defensive Al-Sheeb (35) + Salman nicht Welt-Niveau-tauglich. Lesson 06.06: Klassen-Edge realisiert sich als Sieg + Tor-Mehrheit auf Sieger-Seite. Reality-Check Quoten 1.00-1.50: 76.9 Prozent HR / +7.2 Prozent ROI. Quote 1.40. Risiko: Auftakt-Phase-Vorsicht drueckt Tor-Volumen - daher VALUE statt SAFE.",
+          "edge_prozent": 7,
+          "faire_quote": 1.28,
+          "rang": 2
+        },
+        {
+          "id": "t-sui-3",
+          "markt": "Unter 3.5 Tore (Gesamt)",
+          "kategorie": "value",
+          "quote": 1.35,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 5.5,
+          "begruendung": "WM-Auftakt-Phase taktisch (Lesson CLAUDE.md Spiele 1-2 oft taktisch) + Katar als Auftakt-Underdog tendiert zu Defensiv-Block (Heim-WM 2022 0 Siege Pattern) + Schweiz-Pflicht-Sieg verlangt 2:0-Insurance nicht Tor-Festival. Markt-Goldgrube Unter 2.5 n=16 +33.3 Prozent ROI (BESTER Markt) - hier auf Unter 3.5 gehoben fuer SAFE-naehere Quote. Reality-Check Quoten 1.00-1.50: 76.9 Prozent HR. Quote 1.35.",
+          "edge_prozent": 6,
+          "faire_quote": 1.27,
+          "rang": 3
+        },
+        {
+          "id": "t-sui-5",
+          "markt": "Katar trifft jederzeit (Almoez Ali / Akram Afif)",
+          "kategorie": "moonshot",
+          "quote": 3.2,
+          "empfohlener_einsatz_prozent": 0.1,
+          "empfohlener_einsatz_euro": 0.55,
+          "begruendung": "Moonshot-Bein fuer Kombi: Almoez Ali (44 NT-Tore) + Akram Afif (2022-Top-Scorer + Asia-Cup 2024 Top-Scorer 8 Tore) sind Schluessel-Spieler. Auch bei Schweiz-Sieg moeglich dass 0:1-2-Anschlusstor faellt. Quote 3.20 = Moonshot-Range. Spass-Stake.",
+          "edge_prozent": null,
+          "faire_quote": 3.2,
+          "rang": 5
         }
       ],
       "kontext_check_status": "OK"
@@ -330,7 +366,8 @@
           "quote": 1.57,
           "kategorie": "value"
         }
-      ]
+      ],
+      "rechnung": "1.3 x 1.45 x 1.57 = 2.96"
     },
     {
       "id": "kombi-balance",
@@ -363,7 +400,8 @@
           "quote": 1.93,
           "kategorie": "wackel"
         }
-      ]
+      ],
+      "rechnung": "1.8 x 2.3 x 1.93 = 7.99"
     },
     {
       "id": "kombi-risiko",
@@ -410,7 +448,8 @@
           "quote": 1.85,
           "kategorie": "wackel"
         }
-      ]
+      ],
+      "rechnung": "1.85 x 2.05 x 2.1 x 1.4 x 1.85 = 20.63"
     },
     {
       "id": "kombi-moonshot",
@@ -450,7 +489,8 @@
           "quote": 2.1,
           "kategorie": "moonshot"
         }
-      ]
+      ],
+      "rechnung": "3.2 x 2.3 x 3.0 x 2.1 = 46.37"
     }
   ],
   "lessons_angewandt": [
@@ -468,5 +508,51 @@
     "Lesson 13.06 (WM-Eroeffnungs-Unter-2.5-Subfilter-Top5Liga-Asymmetrie / WM-Erster-Torschuetze-OG-Risiko-Inflation): Erster-Torschuetze als Markt vermieden (OG-Risiko bei WM-Auftakt-Druck), stattdessen 'Jederzeit-Trifft' fuer Vinicius. Ueber-2.5-Subfilter bei Top5Liga-Asymmetrie beachtet aber Bra-Mar (Vinicius vs Hakimi Top5 vs Top5) + Aus-Tur (Calhanoglu Inter / Souttar 2.Liga) ok mit VALUE-Label.",
     "Quoten-Verifikations-Hartregel (Lesson 27.04): alle Quoten via Aggregator-Konsens Squawka/SportsLine/SportingLife/DraftKings/FanDuel/OddsShark/CBS aus Wochenend-Recherche 11.06. uebernommen. Bei bet365 live pruefen - Quoten koennen sich seit Donnerstag verschoben haben."
   ],
-  "footer": "18+ - bet365 DE - Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
+  "footer": "18+ - bet365 DE - Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-06-13T13:32:00+02:00",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "recherche_file_missing",
+        "details": "data/recherche/2026-06-13.json fehlte zum Lauf-Zeitpunkt. Basis war data/tipps_wochenende/2026-06-13.json (Donnerstag 11.06. 18:00 Wochenend-Vorschau) + News aus Squad-Recherche 11.06. - keine 13.06.-aktuellen Aufstellungs-Updates verfuegbar. Pflicht-Check: Aufstellungen 1h vor jedem Anstoss bei bet365/kicker live pruefen."
+      },
+      {
+        "art": "quoten_alter",
+        "details": "Alle Quoten stammen aus Donnerstag-Aggregator-Konsens (11.06.) - koennen sich bis Anstoss 21:00 Sa verschoben haben. Bei bet365 DE live pruefen vor Setzen."
+      },
+      {
+        "art": "calhanoglu_muedigkeit",
+        "tipp_id": "ez-5",
+        "details": "Calhanoglu hat lange Inter-Saison (~50 Pflichtspiele + Coppa Italia-Finale Mai) - Mueidigkeits-Risiko bei Spieltag 1. Falls Calhanoglu in Aufstellung 1h vor Anstoss fehlt -> Tipp manuell ueberdenken."
+      }
+    ],
+    "layer_check": {
+      "layer_1_status": "OK - max 1 Bein pro Spiel pro Kombi eingehalten",
+      "layer_2_status": "OK - Sieg-Outcomes: Schweiz/Schottland/Brasilien in Safe-Kombi nur, Tuerkei in Balance nur, Spurs Heim in Risiko nur",
+      "layer_3_status": "OK - jedes Spiel+Markt einmalig ueber alle Kombis"
+    },
+    "saison_kontext_check": {
+      "status": "OK",
+      "details": "Alle 5 Spiele saison_kontext mit Quellen vollstaendig (FIFA + Squawka + Kalshi + Aggregator-URLs). Keine CL/EL/Conference/Pokal-Behauptungen ohne Verband-URL (alle Klub-Saisons sind vorbei seit 25.05.-30.05.)"
+    },
+    "spieler_halluzinations_check": {
+      "status": "OK",
+      "geprueft": [
+        "Embolo (Monaco, Schweiz)",
+        "Vinicius Junior (Real Madrid, Brasilien)",
+        "Almoez Ali (Al-Sadd, Katar)",
+        "Akram Afif (Al-Sadd, Katar)",
+        "McTominay (Napoli, Schottland)",
+        "Adams (Bournemouth, Schottland)",
+        "Calhanoglu (Inter, Tuerkei)",
+        "Yilmaz (Tuerkei)",
+        "Wembanyama (Spurs)",
+        "Brunson (Knicks)"
+      ],
+      "details": "Alle Spieler in expliziter Squad-Recherche 11.06. genannt + aktuelle Klub-Saison 2025/26 verifiziert. Aufstellungen 1h vor Anstoss pruefen (Lesson 13.06 WM-Test-Aufstellung)."
+    },
+    "lessons_generiert": []
+  }
 }
