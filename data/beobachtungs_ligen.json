@@ -1,5 +1,5 @@
 {
-  "stand": "2026-06-12T07:14:37+00:00",
+  "stand": "2026-06-13T07:12:41+00:00",
   "kriterium": "rolling 30 Tage ROI < -30.0% bei min. 4 Tipps",
   "ausstiegs_kriterium": "rolling 30 Tage ROI > -10.0% -> Liga wieder voll bespielbar",
   "ligen": [
@@ -9,6 +9,13 @@
       "roi_30d_prozent": -100.0,
       "trefferquote_30d": 0.0,
       "netto_30d": -5.0
+    },
+    {
+      "liga": "FIFA WM 2026 Gruppenphase Spieltag 1 (Gruppe B)",
+      "tipps_30d": 4,
+      "roi_30d_prozent": -57.0,
+      "trefferquote_30d": 25.0,
+      "netto_30d": -2.28
     }
   ]
 }

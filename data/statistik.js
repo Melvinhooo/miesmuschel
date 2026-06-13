@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-06-12T07:14:37+00:00",
+  "letzte_berechnung": "2026-06-13T07:12:41+00:00",
   "gesamt": {
-    "tipps": 330,
-    "gewonnen": 181,
-    "verloren": 138,
+    "tipps": 338,
+    "gewonnen": 184,
+    "verloren": 143,
     "push": 2,
     "offen": 9,
-    "einsatz": 321.0,
-    "netto": 27.07,
-    "trefferquote": 56.7,
-    "roi_prozent": 8.4
+    "einsatz": 329.0,
+    "netto": 25.09,
+    "trefferquote": 56.3,
+    "roi_prozent": 7.6
   },
   "letzte_30_tage": {
-    "tipps": 122,
-    "gewonnen": 61,
-    "verloren": 50,
+    "tipps": 120,
+    "gewonnen": 58,
+    "verloren": 51,
     "push": 2,
     "offen": 9,
-    "einsatz": 113.0,
-    "netto": 8.95,
-    "trefferquote": 55.0,
-    "roi_prozent": 7.9
+    "einsatz": 111.0,
+    "netto": 6.97,
+    "trefferquote": 53.2,
+    "roi_prozent": 6.3
   },
   "letzte_90_tage": {
-    "tipps": 330,
-    "gewonnen": 181,
-    "verloren": 138,
+    "tipps": 338,
+    "gewonnen": 184,
+    "verloren": 143,
     "push": 2,
     "offen": 9,
-    "einsatz": 321.0,
-    "netto": 27.07,
-    "trefferquote": 56.7,
-    "roi_prozent": 8.4
+    "einsatz": 329.0,
+    "netto": 25.09,
+    "trefferquote": 56.3,
+    "roi_prozent": 7.6
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -529,6 +529,28 @@ window.__MIESMUSCHEL_STAT = {
       "netto": -5.0,
       "trefferquote": 0.0,
       "roi_prozent": -100.0
+    },
+    "FIFA WM 2026 Gruppenphase Spieltag 1 (Gruppe B)": {
+      "tipps": 4,
+      "gewonnen": 1,
+      "verloren": 3,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 4.0,
+      "netto": -2.28,
+      "trefferquote": 25.0,
+      "roi_prozent": -57.0
+    },
+    "FIFA WM 2026 Gruppenphase Spieltag 1 (Gruppe D)": {
+      "tipps": 4,
+      "gewonnen": 2,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 4.0,
+      "netto": 0.3,
+      "trefferquote": 50.0,
+      "roi_prozent": 7.5
     }
   },
   "nach_markt": {
@@ -3336,6 +3358,83 @@ window.__MIESMUSCHEL_STAT = {
       "netto": -1.0,
       "trefferquote": 0.0,
       "roi_prozent": -100.0
+    },
+    "Unter 2.5 Tore (Gesamt)": {
+      "tipps": 2,
+      "gewonnen": 1,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": -0.28,
+      "trefferquote": 50.0,
+      "roi_prozent": -14.0
+    },
+    "Kanada Sieg (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "USA Sieg (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.9,
+      "trefferquote": 100.0,
+      "roi_prozent": 90.0
+    },
+    "Folarin Balogun Torschuetze Jederzeit": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.4,
+      "trefferquote": 100.0,
+      "roi_prozent": 140.0
+    },
+    "Jonathan David Torschuetze Jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Christian Pulisic Torschuetze Jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Beide Teams treffen — Nein": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
     }
   },
   "nach_markt_typ": {
@@ -3384,37 +3483,37 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 55.0
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 103,
-      "gewonnen": 62,
-      "verloren": 40,
+      "tipps": 105,
+      "gewonnen": 63,
+      "verloren": 41,
       "push": 0,
       "offen": 1,
-      "einsatz": 102.0,
-      "netto": 7.59,
-      "trefferquote": 60.8,
-      "roi_prozent": 7.4
+      "einsatz": 104.0,
+      "netto": 7.49,
+      "trefferquote": 60.6,
+      "roi_prozent": 7.2
     },
     "Torschuetzen Jederzeit": {
-      "tipps": 51,
-      "gewonnen": 19,
-      "verloren": 30,
+      "tipps": 54,
+      "gewonnen": 20,
+      "verloren": 32,
       "push": 2,
       "offen": 0,
-      "einsatz": 51.0,
-      "netto": 8.22,
-      "trefferquote": 38.8,
-      "roi_prozent": 16.1
+      "einsatz": 54.0,
+      "netto": 7.62,
+      "trefferquote": 38.5,
+      "roi_prozent": 14.1
     },
     "Unter 2.5 Tore": {
-      "tipps": 16,
-      "gewonnen": 11,
-      "verloren": 5,
+      "tipps": 18,
+      "gewonnen": 12,
+      "verloren": 6,
       "push": 0,
       "offen": 0,
-      "einsatz": 16.0,
-      "netto": 5.33,
-      "trefferquote": 68.8,
-      "roi_prozent": 33.3
+      "einsatz": 18.0,
+      "netto": 5.05,
+      "trefferquote": 66.7,
+      "roi_prozent": 28.1
     },
     "Doppelte Chance 1X": {
       "tipps": 22,
@@ -3811,30 +3910,41 @@ window.__MIESMUSCHEL_STAT = {
       "netto": -1.0,
       "trefferquote": 0.0,
       "roi_prozent": -100.0
+    },
+    "Beide Teams treffen NEIN": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
     }
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 164,
-      "gewonnen": 84,
-      "verloren": 75,
+      "tipps": 169,
+      "gewonnen": 86,
+      "verloren": 78,
       "push": 1,
       "offen": 4,
-      "einsatz": 160.0,
-      "netto": 12.63,
-      "trefferquote": 52.8,
-      "roi_prozent": 7.9
+      "einsatz": 165.0,
+      "netto": 11.25,
+      "trefferquote": 52.4,
+      "roi_prozent": 6.8
     },
     "2.00-3.00": {
-      "tipps": 40,
-      "gewonnen": 15,
-      "verloren": 23,
+      "tipps": 42,
+      "gewonnen": 16,
+      "verloren": 24,
       "push": 1,
       "offen": 1,
-      "einsatz": 39.0,
-      "netto": 1.34,
-      "trefferquote": 39.5,
-      "roi_prozent": 3.4
+      "einsatz": 41.0,
+      "netto": 1.74,
+      "trefferquote": 40.0,
+      "roi_prozent": 4.2
     },
     "1.00-1.50": {
       "tipps": 111,
@@ -3848,15 +3958,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 6.1
     },
     "3.00+": {
-      "tipps": 15,
+      "tipps": 16,
       "gewonnen": 5,
-      "verloren": 10,
+      "verloren": 11,
       "push": 0,
       "offen": 0,
-      "einsatz": 15.0,
-      "netto": 6.55,
-      "trefferquote": 33.3,
-      "roi_prozent": 43.7
+      "einsatz": 16.0,
+      "netto": 5.55,
+      "trefferquote": 31.2,
+      "roi_prozent": 34.7
     }
   },
   "nach_kategorie": {
@@ -3872,45 +3982,168 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 1.3
     },
     "value": {
-      "tipps": 200,
-      "gewonnen": 104,
-      "verloren": 85,
+      "tipps": 203,
+      "gewonnen": 106,
+      "verloren": 86,
       "push": 2,
       "offen": 9,
-      "einsatz": 191.0,
-      "netto": 17.36,
-      "trefferquote": 55.0,
-      "roi_prozent": 9.1
+      "einsatz": 194.0,
+      "netto": 17.98,
+      "trefferquote": 55.2,
+      "roi_prozent": 9.3
     },
     "wackel": {
-      "tipps": 57,
-      "gewonnen": 27,
-      "verloren": 30,
+      "tipps": 62,
+      "gewonnen": 28,
+      "verloren": 34,
       "push": 0,
       "offen": 0,
-      "einsatz": 57.0,
-      "netto": 8.73,
-      "trefferquote": 47.4,
-      "roi_prozent": 15.3
+      "einsatz": 62.0,
+      "netto": 6.13,
+      "trefferquote": 45.2,
+      "roi_prozent": 9.9
     }
   },
   "clv_gesamt": {
     "gesamt": {
-      "n": 0,
-      "durchschnitt": 0.0,
-      "median": 0.0
+      "n": 8,
+      "durchschnitt": 2.05,
+      "median": 2.02
     },
-    "nach_liga": {}
+    "nach_liga": {
+      "FIFA WM 2026 Gruppenphase Spieltag 1 (Gruppe B)": {
+        "n": 4,
+        "durchschnitt": 1.21,
+        "median": 1.14
+      },
+      "FIFA WM 2026 Gruppenphase Spieltag 1 (Gruppe D)": {
+        "n": 4,
+        "durchschnitt": 2.9,
+        "median": 3.09
+      }
+    }
   },
   "clv_30_tage": {
     "gesamt": {
-      "n": 0,
-      "durchschnitt": 0.0,
-      "median": 0.0
+      "n": 8,
+      "durchschnitt": 2.05,
+      "median": 2.02
     },
-    "nach_liga": {}
+    "nach_liga": {
+      "FIFA WM 2026 Gruppenphase Spieltag 1 (Gruppe B)": {
+        "n": 4,
+        "durchschnitt": 1.21,
+        "median": 1.14
+      },
+      "FIFA WM 2026 Gruppenphase Spieltag 1 (Gruppe D)": {
+        "n": 4,
+        "durchschnitt": 2.9,
+        "median": 3.09
+      }
+    }
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-06-12",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "Safe-Eroeffnungs-Doppel",
+          "kategorie": "safe",
+          "gesamtquote": 3.48,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Kanada vs Bosnien-Herzegowina: Kanada Sieg (90 Min)",
+              "quote": 1.83,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "USA vs Paraguay: USA Sieg (90 Min)",
+              "quote": 1.9,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Torschuetzen-Doppel",
+          "kategorie": "balance",
+          "gesamtquote": 6.84,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Kanada vs Bosnien-Herzegowina: Jonathan David Torschuetze Jederzeit",
+              "quote": 2.85,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "USA vs Paraguay: Folarin Balogun Torschuetze Jederzeit",
+              "quote": 2.4,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Erster-Torschuetze-Upset",
+          "kategorie": "risk",
+          "gesamtquote": 31.5,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "USA vs Paraguay: Christian Pulisic Erster Torschuetze",
+              "quote": 9.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Kanada vs Bosnien-Herzegowina: Edin Dzeko Torschuetze Jederzeit",
+              "quote": 3.5,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Larin-Almiron-Lotto",
+          "kategorie": "moonshot",
+          "gesamtquote": 50.0,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Kanada vs Bosnien-Herzegowina: Cyle Larin Doppelpack (2+ Tore)",
+              "quote": 10.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "USA vs Paraguay: Miguel Almiron Torschuetze Jederzeit",
+              "quote": 5.0,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-06-11",
       "gesamt": {

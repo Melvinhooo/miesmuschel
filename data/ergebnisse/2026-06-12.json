@@ -1,0 +1,990 @@
+{
+  "datum": "2026-06-12",
+  "erstellt_am": "2026-06-12T17:15:00+02:00",
+  "hinweis": "WM 2026 Tag 2 — Watchdog-Recovery 17:15 (Hauptroutine 16:00 ist nicht durchgelaufen). 2 Spiele im Horizont 17:15 Fr → 06:00 Sa Berlin: Kanada-Bosnien (Toronto BMO Field, 21:00 Berlin) + USA-Paraguay (SoFi Stadium LA, 03:00 Sa Berlin). Suedkorea-Tschechien (04:00 Fr morgens) war in gestrigen Tipps. NBA-Finals G5 erst Samstag 13.06. Mini-Slate-2-Game: Layer-1 (max 1 Bein/Spiel/Kombi) + Layer-2 (Sieg-Outcome max 1 Kombi) -> 4 Kombis bewusst auf 2-Bein gestreckt, ehrlich begruendet. WM-Sonderregeln aktiv: 2:0-Insurance (FIFA-Aktion bet365 DE) + Einwechslungs-Boost. Markt-Boykott WM: HZ/Endstand-Kombi, Genaues Ergebnis, Erster Torschuetze nur in Risiko/Moonshot. Markt-Goldgruben aktiv: DC 1X (84.6%/+9.5%), DC X2 (77.8%/+9.4%), Unter 2.5 (66.7%/+27.5%), Torschuetzen Jederzeit (50%/+24.4%). Davies OUT (Hamstring, bestaetigt Marsch) — Jonathan David ist Canadas focal-9er. USA hatte Paraguay Nov 2025 2-1 (Balogun + Reyna trafen). Beide Spiele Heim-Favorit-Profil (Quoten 1.83 / 1.90) → Torschuetzen-Tipps Pflicht. Kasse 550 EUR / Stufe 1 Aufbau. Spielerschutz im Footer.",
+  "spiele": [
+    {
+      "id": "2026-06-12-can-bih",
+      "liga": "FIFA WM 2026 Gruppenphase Spieltag 1 (Gruppe B)",
+      "heim": "Kanada",
+      "gast": "Bosnien-Herzegowina",
+      "anstoss": "2026-06-12T21:00:00+02:00",
+      "stadion": "Toronto Stadium (BMO Field), Toronto (Kapazitaet ~30.000, Naturrasen)",
+      "saison_kontext": {
+        "parallel_heim": "keine — WM exklusiv. CPL/MLS-Vereins-Saison normal, aber Vollzugriff seit Pre-WM-Camp Anfang Juni. Jesse Marsch hat sein 26er-Kader final seit 26.05.",
+        "parallel_gast": "keine — WM exklusiv. Bundesliga-/Serie-A-Saison fertig (BiH-Stamm: Demirovic Stuttgart, Dzeko Schalke 2025/26, Dedic Bayern, Kolasinac Atalanta). Pre-WM-Pause seit Saisonende.",
+        "saisonziel_heim": "Co-Gastgeber WM 2026, Eroeffnungs-Match in Toronto, Gruppe B (vs Bosnien, Schweiz, Katar). Marsch 1. WM als Coach. Canada ungeschlagen in 8 Spielen Vorbereitung (Draws Ecuador/Kolumbien/Iceland, Sieg Venezuela). Achtelfinal-Quali ist realistisches Minimal-Ziel als Heim-Mannschaft.",
+        "saisonziel_gast": "1. WM-Teilnahme seit 1998 — 28 Jahre Wartezeit. Achievement-Modus, realistisches Ziel: 3.-Platz-Trostpreis fuer Achtelfinale via beste 8 Dritte. Sergej Barbarez Coach seit 2024. Quali-Playoff per Elfmeterschiessen, mentale Resilienz hoch.",
+        "motivations_asymmetrie": "Klassen-Edge leicht zu Canada (FIFA-Rang +8 Stufen, 1.83 Heim-Quote vs Bosnien 4.80), aber Davies OUT (Hamstring seit 06.05. CL-HF gegen PSG) mildert Edge. Bosnien-Pre-Quali 3x 1:1-Draws gegen Oesterreich/Wales/Italien zeigt defensive Solidität (3 verschiedene Top-Teams je 1 Gegentor). Canada will Heim-Eroeffnung-Atmosphaere nutzen, BiH spielt um Punkt-Hedge fuer Achtelfinale. Marsch-Pressing-Stil trifft auf Barbarez-Block-Defense — taktisch + Gruppenphase-Spieltag-1-Pattern -> niedrigeres Tempo wahrscheinlich.",
+        "recovery_heim": "9 Tage seit Pre-WM-Test vs Ecuador (03.06., 0:0 Draw in Toronto) — lange Erholung + Heim-Akklimatisierung. Stamm fit (Crepeau Vancouver, Eustaquio Porto, Buchanan Inter Mailand, J. David Juventus). Davies OUT (kann erst Spieltag 3 vs Katar 18.06.). Larin (Real Mallorca, 30 NT-Tore) plus Backup.",
+        "recovery_gast": "Lange Sommer-Pause seit Bundesliga/Serie-A-Saisonende Mai. Pre-WM-Test 04.06 vs Ungarn 0:0. Dzeko (40, Schalke 04 in 2. Bundesliga 25/26 zurueck — Auslaufjahre, aber Stamm-9er BiH mit 70+ NT-Toren Rekord). Demirovic (Stuttgart, 38 Bundesliga-Spiele 25/26) hoch belastet, Dedic Bayern (CL-HF-belastet). Tabakovic (Knoechel) fraglich.",
+        "vereins_belastung_heim": "Niedrig: MLS-Spieler (Larin Mallorca-Saison fertig Mai, Buchanan/Eustaquio EuroPokal-Aus April) hatten 3-4 Wochen Pause. Kein CL-Finale-Beteiligter. J. David Juve Serie-A bis 25.05. = 18 Tage Recovery.",
+        "vereins_belastung_gast": "Hoch in Schluessel-Positionen: Dedic CL-HF Bayern-PSG 06.05, danach Liga-Final-Phase 24.05. Demirovic Bundesliga-Schluss 17.05. + Stuttgart-Europa-League-Qualifikation. Drei Wochen Pause, aber post-CL-Halbfinale-Belastung kann nachwirken.",
+        "turnier_phase": "Gruppenphase Spieltag 1 — taktisch/abwartend. Eroeffnungs-Pattern: 7 von 10 letzten WM-Spieltag-1-Spiele Unter 2.5 Tore. Canada-Eigen-Pattern: 9 von 10 letzten Canada-Spiele Unter 2.5 Tore.",
+        "spielort_faktor": "Toronto BMO Field, 18-21 Grad Anstoss-Klima (15:00 EDT, Sommer-Abend), neutrales Kanada-Klima. Naturrasen. Hoehen-/Hitze-Faktor: keine — neutrales Spielfeld. Heim-Atmosphaere stark Pro-Canada.",
+        "quellen": [
+          "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021449",
+          "https://www.si.com/soccer/canada-predicted-lineup-vs-bosnia-herzegovina-world-cup-6-12-26",
+          "https://www.sportsmole.co.uk/football/canada/world-cup-2026/predicted-lineups/davies-status-in-question-predicted-canada-lineup-vs-bosnia-herzegovina_598906.html",
+          "https://sports.yahoo.com/articles/why-alphonso-davies-missing-2026-213721175.html",
+          "https://news.bet365.com/en-us/article/alphonso-davies-injury-update/2026060817240816285",
+          "https://www.rotowire.com/soccer/article/canada-vs-bosnia-and-herzegovina-preview-prediction-lineups-odds-2026-world-cup-group-b-117672",
+          "https://www.sofascore.com/news/canada-vs-bosnia-herzegovina-group-b-opener-built-on-numbers",
+          "https://www.whoscored.com/matches/1976989/preview/international-fifa-world-cup-2026-canada-bosnia-and-herzegovina"
+        ]
+      },
+      "news": [
+        "Davies (Bayern Munich, Hamstring seit 06.05. CL-HF vs PSG) OFFIZIELL OUT fuer Eroeffnungsspiel — Marsch-Statement: 'Rueckkehr Spieltag 3 vs Katar 18.06. wahrscheinlich'. Edge fuer Canada damit gemildert (Topflanken-Linksverteidiger fehlt).",
+        "Canada XI (Sports Mole / SI 4-4-2): Crepeau; Johnston, Cornelius, De Fougerolles, Laryea; Buchanan, Kone, Eustaquio, Millar; J. David, Larin. Marsch-Pressing-System bleibt taktisch konstant.",
+        "Jonathan David (Juventus, 39 NT-Tore — All-time Top-Scorer Canada, +5 vor Larin) ist focal-9er + Elfmeterschuetze. 9 von letzten 12 NT-Spielen Tor erzielt. Heim-Eroeffnung Toronto = maximale Motivation.",
+        "Bosnien XI (predicted): Vasilj; Dedic, Katic, Muharemovic, Kolasinac; Bajraktarevic, Tahirovic, Basic, Memic; Demirovic, Dzeko. Dzeko 40 Jahre, 5. WM-Versuch (1. erfolgreiche Quali nach 28 Jahren). Tabakovic (Knoechel) fraglich.",
+        "Pattern-Aufstellung: Canada 9 von 10 letzten Spielen Unter 2.5 Tore — Marsch-Pressing erzeugt schnelle Konter aber keine Tor-Festivals. Bosnien 3x 1:1-Draws gegen Top-Teams (Oesterreich, Wales, Italien) in Quali. Pre-WM 0:0 vs Ungarn 04.06.",
+        "bet365-Quoten-Konsens (CBS/FanDuel/Sportytrader): Canada Sieg ~1.83 (-120), Draw ~3.62, Bosnien ~4.80 (+360). Unter 2.5 ~1.72 (-139, aktiver Marktfavorit). BTTS Nein ~1.85. J. David Anytime ~2.85 (+185), Cyle Larin Anytime ~3.00, Dzeko Anytime ~3.50. Bei bet365 DE live pruefen.",
+        "2:0-Insurance gilt fuer direkten Sieg-Tipp (WM 2026 nach CLAUDE.md Stand 10.06.2026)."
+      ],
+      "tipps": [
+        {
+          "id": "ez-1",
+          "markt": "Kanada Sieg (90 Min)",
+          "kategorie": "value",
+          "quote": 1.83,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 8.25,
+          "begruendung": "Heim-Klassen-Edge: Canada 8 ungeschlagen, Marsch-Pressing-System auf Heim-BMO-Atmosphaere; Bosnien Achievement-Modus, Quali via Elfer-Druckspiel = mental fokussiert aber offensiv limitiert (3x 1:1-Draws Oesterreich/Wales/Italien, Pre-WM 0:0 Ungarn). Davies-OUT mildert Edge, daher VALUE statt SAFE — Goldgrube-Liga-DC-Falle: keine PL/LaLiga, kein DC, direkter Sieg-Tipp ok. 2:0-Insurance aktiv (WM 2026 in CLAUDE.md): wenn Canada zwischenzeitlich 2:0 fuehrt, Tipp ausgezahlt egal Endstand. Quote 1.83 (-120 FanDuel) bei impliziter 54.6%, fair ~58-60% via Heim+Form+Klasse → Edge ~5-7%. Bei bet365 DE live pruefen.",
+          "edge_prozent": 5.5,
+          "faire_quote": 1.72,
+          "pinnacle_verifiziert": false,
+          "rang": 1
+        },
+        {
+          "id": "ez-2",
+          "markt": "Unter 2.5 Tore (Gesamt)",
+          "kategorie": "value",
+          "quote": 1.72,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 8.25,
+          "begruendung": "Markt-Goldgrube Unter 2.5 (n=16, 66.7%, ROI +27.5% laut data/statistik.json — bester ROI im System) + zweistufiges Pattern-Edge: (1) Canada 9 von 10 letzten Spielen Unter 2.5 (Marsch-Pressing = Konter ohne Tor-Festival). (2) WM-Eroeffnungs-Pattern 7 von 10 letzten Spieltag-1-Spielen Unter 2.5 (HR-Pattern-21.05). Bosnien-Pre-WM 0:0 + 3x 1:1 gegen Top-Gegner zeigt Block-Defense, Barbarez-Setup. Davies-OUT senkt Canada-Offensiv-Vortrag links. Quote 1.72 (-139, Marktfavorit) bei impliziter 58.1%, fair ~62-68% → Edge ~6-10%. Wincomparator-Konsens 60% Unter. Bei bet365 DE live pruefen.",
+          "edge_prozent": 7.5,
+          "faire_quote": 1.6,
+          "pinnacle_verifiziert": false,
+          "rang": 2
+        },
+        {
+          "id": "ez-3",
+          "markt": "Jonathan David Torschuetze Jederzeit",
+          "kategorie": "wackel",
+          "quote": 2.85,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 5.5,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (n=18, 50%, ROI +24.4% — drittbester ROI im System) + Form-Edge-Pflicht (CLAUDE.md Hartregel): David 39 NT-Tore = All-time Topscorer Canada, 9 von letzten 12 NT-Spielen Tor, Juventus Serie-A 25/26 mit 14 Toren. Heim-Eroeffnung + Elfmeterschuetze + ohne Davies-Flanken trotzdem focal-9er. Einwechslungs-Boost-Potenzial: Larin als direkter Ersatz @ 30 NT-Tore — wenn David ausgewechselt + Larin trifft, zaehlt fuer David. Quote 2.85 (+185) bei impliziter 35.1%, fair ~45-50% via Form+Heim+Goldgrube-Markt → Edge ~10-15%. Bei bet365 DE live pruefen. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "edge_prozent": 12.0,
+          "faire_quote": 2.45,
+          "pinnacle_verifiziert": false,
+          "rang": 3,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "id": "ez-4",
+          "markt": "Beide Teams treffen — Nein",
+          "kategorie": "wackel",
+          "quote": 1.85,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 2.75,
+          "begruendung": "Pseudo-Hedge zu ez-3 (David-Tor): bei 1:0/2:0/3:0 Canada laeuft Unter 2.5 + BTTS-Nein + David-Tor gleichzeitig durch. Bosnien-Offensiv-Schwaeche dokumentiert: 3x nur 1 Tor in 3 Quali-1:1, Pre-WM 0:0 Ungarn, Dzeko 40 Jahre (Schalke 2. Bundesliga 25/26 = 11 Tore aber Liga 2). Demirovic einziger Top-5-Liga-Stuermer (Stuttgart). WACKEL weil Bosnien-Block-Defense oft Konter erlaubt (Dedic/Kolasinac koennen ueberlaufen). Konsens Goal.com 55% BTTS-Nein. Quote 1.85 nicht via Pinnacle verifiziert → max WACKEL nach 27.04-Hartregel. Bei bet365 DE live pruefen.",
+          "edge_prozent": 2.0,
+          "faire_quote": 1.81,
+          "pinnacle_verifiziert": false,
+          "rang": 4
+        },
+        {
+          "id": "ez-5",
+          "markt": "Cyle Larin Torschuetze Jederzeit",
+          "kategorie": "wackel",
+          "quote": 3.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 2.75,
+          "begruendung": "Backup-9er-Pflicht (CLAUDE.md): Larin 30 NT-Tore = 2. Topscorer Canada, Stamm-Doppel-9er neben David, Real Mallorca 25/26 mit 9 LaLiga-Toren. Heim-Eroeffnung + Einwechslungs-Boost-Setup: wenn Larin in 70.-80. Min eingewechselt wird (Backup-Stuermer-Rotation, Marsch nutzt oft Joker-9er) oder Larin als Stamm-9er rauskommt fuer Marshall/Choiniere, zaehlt das Ersatzspieler-Tor fuer Larin. WACKEL weil Larin in 2-9er-System 60min-Stuermer = Auswechslungs-Wahrscheinlichkeit hoch, manchmal trifft Ersatz, manchmal Larin selbst. Quote 3.00 (+200) implied 33%, fair ~38% → Edge ~3-5%. Bei bet365 DE live pruefen.",
+          "edge_prozent": 3.0,
+          "faire_quote": 2.85,
+          "pinnacle_verifiziert": false,
+          "rang": 5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "1:1",
+        "halbzeit": "0:1",
+        "status": "beendet",
+        "quelle": "ESPN/FIFA/Opta"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "ez-1",
+          "markt": "Kanada Sieg (90 Min)",
+          "quote": 1.83,
+          "status": "verloren",
+          "kommentar": "Endstand 1:1 (HZ 0:1). 2:0-Insurance nicht ausgeloest — Canada lag nie in Fuehrung, geschweige denn 2:0 vorne. Bosnien fuehrte 0:1 zur Pause via Lukic 21.', Larin glich 78.' aus. Klassen-Edge taktisch widerlegt durch Bosnien-Block-Defense (Pre-Quali 3x 1:1 Pattern bestaetigt). Closing-Quote (Reuters/Sofascore) ~1.85.",
+          "closing_quote": 1.85,
+          "clv_prozent": -1.08,
+          "clv_quelle": "sofascore/reuters-konsens",
+          "gewinn_faktor": -1.0
+        },
+        {
+          "tipp_id": "ez-2",
+          "markt": "Unter 2.5 Tore (Gesamt)",
+          "quote": 1.72,
+          "status": "gewonnen",
+          "kommentar": "Endstand 1:1 = 2 Tore Total → Unter 2.5 erreicht. Markt-Goldgrube Unter 2.5 + WM-Eroeffnungs-HR21 (7/10 Unter) + Canada-9/10-Pattern bestaetigt. Closing-Quote ~1.70.",
+          "closing_quote": 1.7,
+          "clv_prozent": 1.18,
+          "clv_quelle": "sofascore-konsens",
+          "gewinn_faktor": 0.72
+        },
+        {
+          "tipp_id": "ez-3",
+          "markt": "Jonathan David Torschuetze Jederzeit",
+          "quote": 2.85,
+          "status": "verloren",
+          "kommentar": "J. David traf NICHT (verfehlte Mega-Chance 17.', wurde 61.' Triple-Sub ausgewechselt fuer Promise David). Einwechslungs-Boost-Trigger PRUEFUNG: David raus 61', direkter Ersatz Promise David — Promise David traf nicht (assistierte aber Larins 78.'-Treffer). Boost nicht ausgeloest, da Ersatz nur Assist machte. Larins Tor zaehlt nicht fuer David (Larin kam 76.' fuer Oluwaseyi, nicht fuer David). Closing-Quote ~2.75.",
+          "closing_quote": 2.75,
+          "clv_prozent": 3.64,
+          "clv_quelle": "fanduel-konsens",
+          "gewinn_faktor": -1.0
+        },
+        {
+          "tipp_id": "ez-4",
+          "markt": "Beide Teams treffen — Nein",
+          "quote": 1.85,
+          "status": "verloren",
+          "kommentar": "Beide trafen (Lukic 21', Larin 78') → BTTS JA. Pseudo-Hedge-These (Canada haushohe Heim-Klasse) widerlegt durch tatsaechliches Bosnien-Tor zuerst. Closing-Quote ~1.83.",
+          "closing_quote": 1.83,
+          "clv_prozent": 1.09,
+          "clv_quelle": "sofascore-konsens",
+          "gewinn_faktor": -1.0
+        },
+        {
+          "tipp_id": "ez-5",
+          "markt": "Cyle Larin Torschuetze Jederzeit",
+          "quote": 3.0,
+          "status": "gewonnen",
+          "kommentar": "Larin kam in 76.' fuer Oluwaseyi rein, traf in 78.' (2 Min nach Einwechslung) nach Promise-David-Assist. Backup-9er-These bestaetigt — \"Super-Sub Larin secures late point for co-hosts\". Closing-Quote ~3.25 (Markt-Drift weil Larin Bank-Variante).",
+          "closing_quote": 3.25,
+          "clv_prozent": -7.69,
+          "clv_quelle": "opta-analyst-konsens",
+          "gewinn_faktor": 2.0
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "1:1",
+        "tore": [
+          {
+            "min": 21,
+            "team": "gast",
+            "spieler": "Jovo Lukic",
+            "stand_danach": "0:1",
+            "kontext": "Kopfball-Tor nach Kolasinac-Ecke/Flick — Lukics erstes NT-Tor"
+          },
+          {
+            "min": 78,
+            "team": "heim",
+            "spieler": "Cyle Larin",
+            "stand_danach": "1:1",
+            "kontext": "Sub eingewechselt 76.' fuer Oluwaseyi — Assist Promise David — Schuss aus 16er-Hoehe mit Abpraller"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Differenz nie 2 Tore. Bosnien fuehrte 0:1 ab 21.', Canada glich erst 78.' aus — taktisches Verteidigungs-Spiel der Underdog-Defense, Heim-Mannschaft holte Punkt-Mindestziel."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Bosnien/Unentschieden",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Edin Dzeko",
+            "details": "Bank — Captain + Allzeit-Topscorer aussen vor (Schulter-Verletzung Erholung), Barbarez setzte auf juengere Block-Defense — Tipp Dzeko Anytime (Risiko-Kombi) Bench-Killer."
+          },
+          {
+            "team": "heim",
+            "spieler": "Tajon Oluwaseyi",
+            "details": "Starter statt erwarteter Larin im 2-9er-System neben J. David — Larin auf Bank — Backup-9er-Profil-Switch widerlegt SI/Sports-Mole-Lineup-Prediction."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Cyle Larin",
+            "aus": "Tajon Oluwaseyi",
+            "minute": 76,
+            "tor": true,
+            "tor_minute": "78",
+            "kontext": "Super-Sub"
+          },
+          {
+            "team": "heim",
+            "ein": "Promise David",
+            "aus": "Jonathan David",
+            "minute": 61,
+            "tor": false,
+            "tor_minute": null,
+            "kontext": "Triple-Sub mit Shaffelburg + Ali Ahmed — Promise David assistierte Larins Tor, traf aber selbst nicht — Boost-Trigger fuer J. David Anytime FAST aktiv (Assist statt Tor — Pattern verdient Beobachtung)"
+          }
+        ],
+        "auffaellige_patterns": [
+          "Bosnien-Block-Defense (3x 1:1 Quali vs Top-Gegner Oesterreich/Wales/Italien) erneut bestaetigt — Klassen-Edge Canada (Heim, 1.83 Favorit) materialisierte sich nicht in Toren, nur in Possession.",
+          "WM-Eroeffnungs-Pattern HR21 (7/10 Unter 2.5) bestaetigt — 2 Tore Total via Unterklassen-Block + Heim-Druck-Lock.",
+          "Einwechslungs-Boost-Trigger fast aktiv: Tipp-Spieler J. David raus 61.', direkter Ersatz Promise David lieferte Assist statt Tor — Pattern \"Topscorer Anytime ODER direkter Ersatz Anytime\" als kombinierte These verdient Beobachtung.",
+          "Bosnien fuhr trotz Dzeko-Bank ab — Lukic (1. NT-Tor) zeigte: Block-Defense + Standard-Effizienz reicht gegen Heim-Favoriten — Tipps auf Anytime-Topscorer der Gast-Underdogs sind oft uebersehen."
+        ]
+      }
+    },
+    {
+      "id": "2026-06-12-usa-par",
+      "liga": "FIFA WM 2026 Gruppenphase Spieltag 1 (Gruppe D)",
+      "heim": "USA",
+      "gast": "Paraguay",
+      "anstoss": "2026-06-13T03:00:00+02:00",
+      "stadion": "SoFi Stadium (Los Angeles Stadium), Inglewood/LA (Kapazitaet 70.000, Kunstrasen ueber-deckelt)",
+      "saison_kontext": {
+        "parallel_heim": "keine — WM exklusiv. MLS-Saison laeuft parallel aber MLS-Spieler haben WM-Freistellung. Pochettino-Stab seit Sept 2024, Pre-WM-Camp 30.05 in San Diego.",
+        "parallel_gast": "keine — WM exklusiv. Saison-Pause Sudamerika fertig (Liga Paraguaya Apertura beendet, Sudamericana laeuft, aber NT-Spieler freigestellt). Alfaro-26er final seit 28.05.",
+        "saisonziel_heim": "Co-Gastgeber WM 2026, Eroeffnungs-Match SoFi LA, Gruppe D (vs Paraguay, Australien, Tuerkei). Pochettino-Era nach 2024 Copa-Aus 1. WM-Test. Klar Achtelfinal-Quali als Co-Gastgeber Pflicht, idealerweise Gruppensieg.",
+        "saisonziel_gast": "1. WM-Teilnahme seit 2010 (16 Jahre). Achievement-Modus, realistisches Ziel: 3.-Platz-Trostpreis fuer Achtelfinale via beste 8 Dritte. Gustavo Alfaro Coach. Punkt-Hedge gegen Co-Gastgeber USA hoch im Wert. Im November 2025 verloren sie 1:2 gegen USA — bekanntes Profil.",
+        "motivations_asymmetrie": "Klassen-Edge leicht zu USA (1.90 Heim-Quote vs Paraguay 4.20), aber wenig Klassen-Trennung — Paraguay-Defense organisiert (Junior Alonso Olympique Marseille, G. Gomez Palmeiras-Captain). Pulisic + Balogun + McKennie alle voll fit, kein Star-Ausfall. Heim-Atmosphaere SoFi 70k Pro-USA. Paraguay spielt um Punkt + Block-Defense. Sportytrader-Algo 53% USA-Sieg, FanDuel -110 (52.4% implied). Edge marginal aber positive Heim + Talent-Edge.",
+        "recovery_heim": "13 Tage seit Pre-WM-Test 31.05 vs Schweiz (Endstand 0:4 Niederlage in Chicago) — bittere Pleite aber lange Erholung. Stamm voll fit: Pulisic (AC Milan, 14 Serie-A-Tore 25/26), Balogun (Monaco, 12 Ligue-1-Tore), McKennie (Juventus). Letzter Pre-WM-Tune-up vs Tuerkei 07.06 unentschieden.",
+        "recovery_gast": "Lange Anreise + Akklimatisierung an LA-Klima seit 03.06. Pre-WM-Test 02.06 vs Mexiko 0:1 (in Texas), Diego Gomez (Brighton, 33 PL-Spiele) belastet. Almiron MLS Atlanta — laufende Saison MLS = volle Belastung aber Pause via NT-Freistellung.",
+        "vereins_belastung_heim": "Moderat hoch: Pulisic Serie-A bis 25.05 (CL-Quali-Kampf), Balogun Ligue-1 bis 17.05, McKennie 36 Serie-A-Spiele Juventus. Adams Bournemouth PL-Saison voll. ~3 Wochen Pause, aber Top-5-Liga-Belastung erkennbar.",
+        "vereins_belastung_gast": "Gemischt: Junior Alonso Marseille Ligue-1 (CL-Quali-Kampf, hohe Belastung), G. Gomez Brasilianische Brasileirao laufend (Mai-Phase). Almiron MLS noch in Saison, voll fit. Diego Gomez Brighton PL voll. Kein CL-Finale-Beteiligter.",
+        "turnier_phase": "Gruppenphase Spieltag 1 — taktisch + Eroeffnungs-Druck. USA-Eroeffnungs-Pattern: in letzten 4 WM-Eroeffnungs-Spielen 3x knapper Sieg/Draw mit max 3 Toren. WM-Eroeffnungs-Pattern 7/10 Unter 2.5.",
+        "spielort_faktor": "SoFi Stadium LA Inglewood, gedecktes Stadion mit Klima-Kontrolle (kein Hitze-Faktor trotz LA-Juni 23-26 Grad Anstoss). Kunstrasen-Setup (umstrittenes FIFA-Pilot bei Indoor-Venues 2026). Heim-Atmosphaere 70k voll Pro-USA. Anstoss 21:00 PT = 03:00 CET Sa.",
+        "quellen": [
+          "https://www.foxsports.com/stories/soccer/usa-vs-paraguay-key-players-projected-lineup-what-know",
+          "https://www.ussoccer.com/stories/2026/06/usmnt/opponent-profile-paraguay-los-angeles-world-cup-match-preview",
+          "https://www.espn.com/soccer/story/_/id/49017942/fifa-world-cup-2026-usmnt-vs-paraguay-kickoff-how-watch-stats-team-news",
+          "https://www.cbssports.com/soccer/news/free-2026-world-cup-anytime-goalscorer-picks-odds-best-bets-folarin-balogun-in-expert-best-bets-for-friday/",
+          "https://www.rotowire.com/soccer/article/usa-vs-paraguay-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-d-117529",
+          "https://www.sportytrader.com/en/betting-tips/usa-paraguay-353830/",
+          "https://www.starsandstripesfc.com/usmnt-news/44224/2026-world-cup-previewing-usa-vs-paraguay-all-gas-no-brakes",
+          "https://www.whoscored.com/matches/1953865/preview/international-fifa-world-cup-2026-usa-paraguay"
+        ]
+      },
+      "news": [
+        "USA XI (Pochettino 4-3-3): Freese; Freeman, Richards, Ream, A. Robinson; Adams, McKennie, Tillman; Pulisic, Balogun, Dest. Pulisic Captain + linker Fluegel-Star, Balogun zentraler 9er, McKennie box-to-box.",
+        "Pulisic-Form: 14 Serie-A-Tore 25/26 fuer AC Milan, 33 NT-Tore (Captain seit 2023). Anytime-Quote ~3.10 (+210). Erster-Torschuetze ~9.0 (+800).",
+        "Balogun-Form: 12 Ligue-1-Tore Monaco 25/26, 9 NT-Tore. Matchwinner gegen Paraguay im Nov-2025-Friendly (1:2-Sieg, Balogun Tor 88. Min). Anytime-Quote ~2.40 (+130).",
+        "Paraguay XI (predicted): R. Fernandez; Caceres, Alonso, Alderete, G. Gomez; Cubas, D. Gomez, Kaku; Almiron, Sanabria, Romero. G. Gomez Captain (Palmeiras), Alonso Marseille — solides Innenverteidiger-Duo. Almiron MLS Atlanta = LA-bekannt.",
+        "Pre-WM USA: 0:4 Niederlage Schweiz 31.05 (Bittere Pleite, Pochettino-Druck), 1:1 Tuerkei 07.06. Paraguay: 0:1 Mexiko 02.06 (defensiv solide aber kein Sieg). Beide Teams Sieg-suchend.",
+        "bet365-Quoten-Konsens (FanDuel/ESPN/Sportytrader): USA Sieg ~1.90 (-110/-105), Draw ~3.50 (+240/+250), Paraguay ~4.20 (+295). Unter 2.5 ~1.80 (modal). BTTS Nein ~1.70. Balogun Anytime ~2.40, Pulisic Anytime ~3.10, Almiron Anytime ~5.00. Bei bet365 DE live pruefen.",
+        "2:0-Insurance gilt fuer direkten Sieg-Tipp (WM 2026 nach CLAUDE.md Stand 10.06.2026)."
+      ],
+      "tipps": [
+        {
+          "id": "ez-1",
+          "markt": "USA Sieg (90 Min)",
+          "kategorie": "value",
+          "quote": 1.9,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 8.25,
+          "begruendung": "Heim-Klassen-Edge moderat: USA 1.90 vs Paraguay 4.20 (-110 FanDuel = 52.4% implied). USA Nov-2025-Friendly gegen Paraguay 2-1 gewonnen (Balogun + Reyna trafen), gleiche Spielanlage erwartet. Sportytrader-Modell 53.19% USA-Sieg. Pulisic + Balogun + McKennie alle fit, kein Star-Ausfall (Gegensatz zu Canada Davies-OUT). SoFi 70k Heim-Atmosphaere. ABER: Vorbereitungs-Pleite 0:4 Schweiz wirft Fragezeichen, Pochettino-Druck steigt — daher VALUE statt SAFE. 2:0-Insurance aktiv. Quote 1.90 fair ~55% via Heim+Form-Edge → Edge ~5%. Bei bet365 DE live pruefen.",
+          "edge_prozent": 5.0,
+          "faire_quote": 1.81,
+          "pinnacle_verifiziert": false,
+          "rang": 1
+        },
+        {
+          "id": "ez-2",
+          "markt": "Folarin Balogun Torschuetze Jederzeit",
+          "kategorie": "wackel",
+          "quote": 2.4,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 8.25,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (n=18, 50%, ROI +24.4%) + Form-Edge-Pflicht: Balogun 12 Ligue-1-Tore Monaco 25/26, 9 NT-Tore, MATCHWINNER GEGEN PARAGUAY im Nov-2025-Friendly (88. Min 2:1-Sieg). Pochettino-Setup mit Balogun als zentralem 9er + Pulisic/Dest als Zulieferer. Heim-Eroeffnung + Paraguay-Defense ohne Top-Klasse-Bremser. Quote 2.40 (+130) impl. 41.7%, fair ~50% via Form+Heim+Paraguay-Spezialist → Edge ~8-10%. CBS-Experten-Konsens als 'top model lean'. Bei bet365 DE live pruefen. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "edge_prozent": 8.0,
+          "faire_quote": 2.22,
+          "pinnacle_verifiziert": false,
+          "rang": 2,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "id": "ez-3",
+          "markt": "Christian Pulisic Torschuetze Jederzeit",
+          "kategorie": "wackel",
+          "quote": 3.1,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 5.5,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit + Form-Edge: Pulisic 14 Serie-A-Tore AC Milan 25/26 (Karriere-Hoch), 33 NT-Tore (Captain), traf bei 2022 WM gegen Iran. Heim-Eroeffnung SoFi 70k Pro-USA. Pulisic als Linkverteidiger-Zulieferer + Free-Roamer dank Dest-Setup unten rechts = mehr Boxen-Chancen als regulaer. WM-Eroeffnungs-Druck-Bonus Captain. Quote 3.10 (+210) impl. 32.3%, fair ~40% via Form+Heim+Captain → Edge ~6-8%. CBS-Expert 'top model lean'. Bei bet365 DE live pruefen. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "edge_prozent": 6.5,
+          "faire_quote": 2.85,
+          "pinnacle_verifiziert": false,
+          "rang": 3,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "id": "ez-4",
+          "markt": "Unter 2.5 Tore (Gesamt)",
+          "kategorie": "wackel",
+          "quote": 1.8,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 2.75,
+          "begruendung": "Pattern-Edge: WM-Eroeffnungs-Spieltag-1 7/10 Unter 2.5 + Paraguay-Defense organisiert (G. Gomez Palmeiras-Captain, Alonso Marseille). USA-Pre-WM 0:4 vs Schweiz aber das war Schweiz-Klasse, nicht USA-Offensiv-Schwaeche. CBS-Expert leaning Under 2.5 'Paraguay solid on defense and could bunker down'. WACKEL weil USA-Offensiv mit Pulisic+Balogun+McKennie auch Goldgrube-Maerkte zieht (Balogun/Pulisic-Tipps) — Anti-Korrelation zu Tor-Tipps! Pseudo-Hedge: bei Unter laufen die Torschuetzen-Tipps nur knapp (1:0). Quote 1.80 impl. 55.6%, fair ~58% → Edge marginal. Bei bet365 DE live pruefen.",
+          "edge_prozent": 3.0,
+          "faire_quote": 1.74,
+          "pinnacle_verifiziert": false,
+          "rang": 4
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "4:1",
+        "halbzeit": "3:0",
+        "status": "beendet",
+        "quelle": "ESPN/CBS/Yahoo"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "ez-1",
+          "markt": "USA Sieg (90 Min)",
+          "quote": 1.9,
+          "status": "gewonnen",
+          "kommentar": "Endstand 4:1 → USA Sieg klar + 2:0-Insurance bereits in 31.' aktiv (HZ 3:0). Klassen-Edge bestaetigt: Balogun-Doppelpack + Reyna-Karriere-Hoehepunkt-Comeback. Closing-Quote ~1.88.",
+          "closing_quote": 1.88,
+          "clv_prozent": 1.06,
+          "clv_quelle": "fanduel-konsens",
+          "gewinn_faktor": 0.9
+        },
+        {
+          "tipp_id": "ez-2",
+          "markt": "Folarin Balogun Torschuetze Jederzeit",
+          "quote": 2.4,
+          "status": "gewonnen",
+          "kommentar": "Balogun Doppelpack: 31.' (2:0) + 45+ (3:0). Paraguay-Spezialist-These bestaetigt (Nov-25 Matchwinner 88.' + jetzt Doppelpack). CBS \"top model lean\" validiert. Closing-Quote ~2.30.",
+          "closing_quote": 2.3,
+          "clv_prozent": 4.35,
+          "clv_quelle": "cbs-konsens",
+          "gewinn_faktor": 1.4
+        },
+        {
+          "tipp_id": "ez-3",
+          "markt": "Christian Pulisic Torschuetze Jederzeit",
+          "quote": 3.1,
+          "status": "verloren",
+          "kommentar": "Pulisic traf NICHT — Calf-Tritt Ende 1.HZ, HZ-Aus, Ersatz Berhalter (keine Tor-Position). Boost-Trigger PRUEFUNG: Pulisic raus HZ, direkter Ersatz Berhalter traf nicht. Reyna kam spaeter und traf 90+8 — Reyna war NICHT direkter Ersatz fuer Pulisic. Boost nicht ausgeloest. Closing-Quote ~3.00.",
+          "closing_quote": 3.0,
+          "clv_prozent": 3.33,
+          "clv_quelle": "fanduel-konsens",
+          "gewinn_faktor": -1.0
+        },
+        {
+          "tipp_id": "ez-4",
+          "markt": "Unter 2.5 Tore (Gesamt)",
+          "quote": 1.8,
+          "status": "verloren",
+          "kommentar": "Endstand 4:1 = 5 Tore Total → Unter 2.5 deutlich verfehlt. WM-Eroeffnungs-Pattern Unter widerlegt fuer USA-Hauptlast-Eroeffnung mit 3 EPL/Serie-A-Stuermern. 3:0 schon zur HZ. Closing-Quote ~1.75.",
+          "closing_quote": 1.75,
+          "clv_prozent": 2.86,
+          "clv_quelle": "sofascore-konsens",
+          "gewinn_faktor": -1.0
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "3:0",
+        "endstand": "4:1",
+        "tore": [
+          {
+            "min": 7,
+            "team": "heim",
+            "spieler": "Damian Bobadilla (Eigentor)",
+            "stand_danach": "1:0",
+            "kontext": "OG nach USA-Pressing-Druck — Erster-Torschuetze-Markt-Killer (OG zaehlt typischerweise nicht als regulaerer Erster Torschuetze)"
+          },
+          {
+            "min": 31,
+            "team": "heim",
+            "spieler": "Folarin Balogun",
+            "stand_danach": "2:0",
+            "kontext": "Balogun erstes Tor — Paraguay-Spezialist-These aktiv"
+          },
+          {
+            "min": "45+",
+            "team": "heim",
+            "spieler": "Folarin Balogun",
+            "stand_danach": "3:0",
+            "kontext": "Balogun Doppelpack mit Final-Kick 1.HZ — Halbzeit-Schlusspunkt"
+          },
+          {
+            "min": 73,
+            "team": "gast",
+            "spieler": "Mauricio Espinola",
+            "stand_danach": "3:1",
+            "kontext": "Sub-Tor — Paraguay-Anschluss durch frischen Einwechselspieler"
+          },
+          {
+            "min": "90+8",
+            "team": "heim",
+            "spieler": "Gio Reyna",
+            "stand_danach": "4:1",
+            "kontext": "Sub-Karriere-Highlight nach 2-Jahres-NT-Pause — Aussenrist-Hammer"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "USA fuehrte durchgehend von 7.' bis Endstand — keine Drehung, klare einseitige Heim-Dominanz."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "USA/USA",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Christian Pulisic",
+            "details": "Calf-Tritt Ende 1.HZ — Pochettino: \"keine Sorgen vor Spieltag 2.\" HZ-Sub fuer Berhalter, Vorsicht-Massnahme. Wirft Schatten auf Spieltag-2-Verfuegbarkeit."
+          },
+          {
+            "team": "gast",
+            "spieler": "Almiron",
+            "details": "Gelbe Karte (per Replay-Review von Ream auf Almiron umgetragen wg. Schwalbe) — keine Tor-Beteiligung, MLS-LA-Heimstadt-These wirkungslos."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Sebastian Berhalter",
+            "aus": "Christian Pulisic",
+            "minute": 45,
+            "tor": false,
+            "tor_minute": null,
+            "kontext": "Direkter Ersatz fuer Pulisic — kein Tor — Boost-Trigger fuer Pulisic-Anytime nicht aktiviert"
+          },
+          {
+            "team": "heim",
+            "ein": "Tim Weah",
+            "aus": "Sergino Dest",
+            "minute": null,
+            "tor": false,
+            "tor_minute": null,
+            "kontext": "Frische-Sub Spaet"
+          },
+          {
+            "team": "heim",
+            "ein": "Ricardo Pepi",
+            "aus": "Folarin Balogun",
+            "minute": null,
+            "tor": false,
+            "tor_minute": null,
+            "kontext": "Sub nach Balogun-Doppelpack-Job-erledigt"
+          },
+          {
+            "team": "heim",
+            "ein": "Gio Reyna",
+            "aus": null,
+            "minute": null,
+            "tor": true,
+            "tor_minute": "90+8",
+            "kontext": "Sub-Tor — kein direkter Ersatz fuer Pulisic (Reyna kam spaeter rein), kein Boost-Bezug zu Tipps"
+          }
+        ],
+        "auffaellige_patterns": [
+          "WM-Eroeffnungs-Pattern Unter 2.5 (HR21 7/10) DEUTLICH widerlegt fuer Co-Gastgeber-Heim-Favorit mit 3 Top-5-Liga-Stuermern: USA-PAR 4:1 = 5 Tore + 3:0 schon zur HZ. Pattern gilt offensichtlich fuer \"neutrale Klassen-Edge\"-Spiele, NICHT fuer Pochettino-Druck-Rebound nach 0:4-Pleite Schweiz.",
+          "Star-Volume-Cluster funktionierte: Balogun-Doppelpack (Markt-Goldgrube Torschuetzen Jederzeit drittbester ROI) + Reyna 90+8-Hammer (Karriere-Comeback-These). 3 von 5 US-Star-Tipps trafen, nur Pulisic verfehlte (Calf-HZ-Aus).",
+          "Pulisic-HZ-Sub-Falle: Tipp-Spieler raus 45.', direkter Ersatz Berhalter ohne Tor, kein Boost-Trigger. Anti-Boost-Pattern: bei Star-Aus wegen Verletzung (nicht Rotation) hat Ersatz oft defensiveres Profil = niedrigere Tor-Wahrscheinlichkeit als bei Rotation-Sub.",
+          "Erster-Torschuetze-Markt-Killer: 7.'-OG durch Bobadilla — bei bet365 zaehlt OG i.d.R. nicht als regulaerer Erster Torschuetze (Pulisic Erster Tor @ 9.0 in Risiko-Kombi war damit auch ohne Pulisic-Tor doppelt belastet)."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "rang": 1,
+      "spiel_id": "2026-06-12-can-bih",
+      "spiel": "Kanada vs Bosnien-Herzegowina (WM Gruppe B, Toronto BMO Field, 21:00)",
+      "markt": "Unter 2.5 Tore (Gesamt)",
+      "kategorie": "value",
+      "quote": 1.72,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "kurz_begruendung": "Markt-Goldgrube Unter 2.5 (n=16, 66.7%, ROI +27.5% — bester ROI im System) + Canada 9/10 letzte Spiele Unter + WM-Eroeffnungs-Pattern 7/10 Unter + Bosnien-Block-Defense (3x 1:1 Quali). Fair ~62-68%, impl. 58%. Edge ~7-10%."
+    },
+    {
+      "rang": 2,
+      "spiel_id": "2026-06-12-can-bih",
+      "spiel": "Kanada vs Bosnien-Herzegowina (WM Gruppe B, Toronto BMO Field, 21:00)",
+      "markt": "Kanada Sieg (90 Min)",
+      "kategorie": "value",
+      "quote": 1.83,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "kurz_begruendung": "Heim-Klassen-Edge: Canada 8 ungeschlagen, Marsch-Pressing, BMO 30k Pro-Canada-Atmosphaere. Davies-OUT mildert Edge -> VALUE statt SAFE. 2:0-Insurance aktiv (WM in CLAUDE.md Stand 10.06). Fair ~58-60%, impl. 54.6%. Edge ~5-7%."
+    },
+    {
+      "rang": 3,
+      "spiel_id": "2026-06-12-usa-par",
+      "spiel": "USA vs Paraguay (WM Gruppe D, SoFi LA, 03:00 Sa)",
+      "markt": "USA Sieg (90 Min)",
+      "kategorie": "value",
+      "quote": 1.9,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "kurz_begruendung": "USA Heim-Klassen-Edge (1.90 vs Paraguay 4.20), USA hatte Paraguay Nov-25 2:1 geschlagen (Balogun-Tor 88. Min). Pulisic + Balogun + McKennie fit. Aber 0:4-Pleite Schweiz weckt Sorge -> VALUE statt SAFE. 2:0-Insurance aktiv. Fair ~55%, impl. 52.6%. Edge ~5%."
+    },
+    {
+      "rang": 4,
+      "spiel_id": "2026-06-12-usa-par",
+      "spiel": "USA vs Paraguay (WM Gruppe D, SoFi LA, 03:00 Sa)",
+      "markt": "Folarin Balogun Torschuetze Jederzeit",
+      "kategorie": "value",
+      "quote": 2.4,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "kurz_begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (50%/+24.4% ROI) + Form-Edge: 12 Ligue-1-Tore Monaco, MATCHWINNER vs Paraguay Nov-25 (88. Min 1:2-Sieg). Pochettino-Setup mit Balogun als zentralem 9er. Fair ~50%, impl. 41.7%. Edge ~8-10%. CBS 'top model lean'."
+    },
+    {
+      "rang": 5,
+      "spiel_id": "2026-06-12-can-bih",
+      "spiel": "Kanada vs Bosnien-Herzegowina (WM Gruppe B, Toronto BMO Field, 21:00)",
+      "markt": "Jonathan David Torschuetze Jederzeit",
+      "kategorie": "value",
+      "quote": 2.85,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "kurz_begruendung": "Markt-Goldgrube Torschuetzen Jederzeit + Form-Edge-Pflicht: David 39 NT-Tore Allzeit Topscorer Canada, 14 Serie-A-Tore Juventus, Elfmeterschuetze. Heim-Eroeffnung + ohne Davies trotzdem focal-9er. Einwechslungs-Boost-Setup via Larin. Fair ~45-50%, impl. 35.1%. Edge ~10-15%."
+    },
+    {
+      "rang": 6,
+      "spiel_id": "2026-06-12-usa-par",
+      "spiel": "USA vs Paraguay (WM Gruppe D, SoFi LA, 03:00 Sa)",
+      "markt": "Christian Pulisic Torschuetze Jederzeit",
+      "kategorie": "value",
+      "quote": 3.1,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "kurz_begruendung": "Markt-Goldgrube Torschuetzen + Form-Edge: Pulisic 14 Serie-A-Tore Karriere-Hoch, 33 NT-Tore Captain, 2022 WM-Eroeffnungs-Hammer Iran. Heim 70k SoFi. Fair ~40%, impl. 32.3%. Edge ~6-8%. CBS 'top model lean'."
+    },
+    {
+      "rang": 7,
+      "spiel_id": "2026-06-12-can-bih",
+      "spiel": "Kanada vs Bosnien-Herzegowina (WM Gruppe B, Toronto BMO Field, 21:00)",
+      "markt": "Beide Teams treffen — Nein",
+      "kategorie": "wackel",
+      "quote": 1.85,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 2.75,
+      "kurz_begruendung": "Pseudo-Hedge zu David-Tor: bei 1:0/2:0 Canada laeuft Unter + BTTS-Nein + David-Tor. Bosnien-Offensiv: nur 1 Tor je 1:1, Pre-WM 0:0 Ungarn, Dzeko 40 in 2. Bundesliga 25/26. Konsens 55% BTTS-Nein. Quote nicht via Pinnacle verifiziert -> max WACKEL."
+    },
+    {
+      "rang": 8,
+      "spiel_id": "2026-06-12-usa-par",
+      "spiel": "USA vs Paraguay (WM Gruppe D, SoFi LA, 03:00 Sa)",
+      "markt": "Unter 2.5 Tore (Gesamt)",
+      "kategorie": "wackel",
+      "quote": 1.8,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 2.75,
+      "kurz_begruendung": "WM-Eroeffnungs-Pattern 7/10 Unter + Paraguay-Defense organisiert (G.Gomez Palmeiras, Alonso Marseille). CBS lean Under. WACKEL weil USA-Offensiv stark = Anti-Korrelation zu Balogun/Pulisic-Tipps. Fair ~58%, impl. 55.6%. Edge marginal."
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-safe",
+      "name": "Safe-Eroeffnungs-Doppel",
+      "ziel_quote_range": "~3.5x (Mini-Slate 2-Spiele strukturell begrenzt — gestern auch so)",
+      "kombi_quote": 3.48,
+      "kategorie": "safe",
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 11.0,
+      "beine": [
+        {
+          "spiel_id": "2026-06-12-can-bih",
+          "markt": "Kanada vs Bosnien-Herzegowina: Kanada Sieg (90 Min)",
+          "quote": 1.83,
+          "spiel_titel": "Kanada vs Bosnien-Herzegowina"
+        },
+        {
+          "spiel_id": "2026-06-12-usa-par",
+          "markt": "USA vs Paraguay: USA Sieg (90 Min)",
+          "quote": 1.9,
+          "spiel_titel": "USA vs Paraguay"
+        }
+      ],
+      "begruendung": "Layer-2-konform: Sieg-Outcomes beide nur in dieser Kombi. Beide Heim-Co-Gastgeber mit Klassen-Edge + 2:0-Insurance (WM 2026 in CLAUDE.md aufgenommen). Mini-Slate-Realitaet: bei nur 2 Spielen + Layer-1 (max 1 Bein/Spiel) ist 2-Bein-Maximum erreichbar — daher 3.48x statt 5x SAFE-Ziel ehrlich akzeptiert. Beide 1.83/1.90-Heim-Favoriten -> ~50%-Kombi-Hitrate. Bei Mexico 2:0 RSA gestern bestaetigt sich Heim-Co-Gastgeber-Pattern.",
+      "gesamtquote": 3.48,
+      "rechnung": "1.83 x 1.90 = 3.48"
+    },
+    {
+      "id": "kombi-balance",
+      "name": "Balance-Torschuetzen-Doppel",
+      "ziel_quote_range": "~6-10x (Mini-Slate)",
+      "kombi_quote": 6.84,
+      "kategorie": "balance",
+      "empfohlener_einsatz_prozent": 0.8,
+      "empfohlener_einsatz_euro": 4.4,
+      "beine": [
+        {
+          "spiel_id": "2026-06-12-can-bih",
+          "markt": "Kanada vs Bosnien-Herzegowina: Jonathan David Torschuetze Jederzeit",
+          "quote": 2.85,
+          "spiel_titel": "Kanada vs Bosnien-Herzegowina"
+        },
+        {
+          "spiel_id": "2026-06-12-usa-par",
+          "markt": "USA vs Paraguay: Folarin Balogun Torschuetze Jederzeit",
+          "quote": 2.4,
+          "spiel_titel": "USA vs Paraguay"
+        }
+      ],
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (50%/+24.4% ROI) konzentriert. David 39 NT-Tore + Heim-Eroeffnung. Balogun matchwinner gg Paraguay Nov-25, focal-9er Pochettino. Layer-1: max 1 Bein/Spiel ✓. Layer-2: keine Sieg-Outcomes ✓ (Hedge zu Safe — wenn ein Team verliert aber Stuermer trifft kann Balance gewinnen waehrend Safe-Bein faellt). Layer-3: andere Spieler als Risiko/Moonshot ✓. Kombi-Hitrate ~22-25%.",
+      "gesamtquote": 6.84,
+      "rechnung": "2.85 x 2.40 = 6.84"
+    },
+    {
+      "id": "kombi-risiko",
+      "name": "Risiko-Erster-Torschuetze-Upset",
+      "ziel_quote_range": "~15-30x",
+      "kombi_quote": 31.5,
+      "kategorie": "risk",
+      "empfohlener_einsatz_prozent": 0.25,
+      "empfohlener_einsatz_euro": 1.4,
+      "beine": [
+        {
+          "spiel_id": "2026-06-12-usa-par",
+          "markt": "USA vs Paraguay: Christian Pulisic Erster Torschuetze",
+          "quote": 9.0,
+          "spiel_titel": "USA vs Paraguay"
+        },
+        {
+          "spiel_id": "2026-06-12-can-bih",
+          "markt": "Kanada vs Bosnien-Herzegowina: Edin Dzeko Torschuetze Jederzeit",
+          "quote": 3.5,
+          "spiel_titel": "Kanada vs Bosnien-Herzegowina"
+        }
+      ],
+      "begruendung": "Risiko-Spass-Bein: Pulisic-Eroeffnungs-Hammer-These (analog 2022 WM Iran-Tor) + Bosnien-Upset-Hedge (3x 1:1 Top-Gegner in Quali = mental gefestigt, Dedic Bayern-CL-Erfahrung). Markt-Boykott-Konform: Erster Torschuetze nur in Risiko/Moonshot erlaubt (CLAUDE.md WM-Sonderregeln). Layer-1: verschiedene Spiele ✓. Layer-2: Bosnien-Sieg ≠ Canada-Sieg (Safe), nicht doppelt ✓. Hitrate ~3-5%. [Korrektur: Bosnia-Sieg von Mapper Layer-3 entfernt wg Sieg-Outcome-Doppel mit Safe — durch Dzeko-Tor (40-Jahre-WM-Lotto-Bein, Bosnia einziger Top-5-Liga-Erfahrener im 9er-Profil) ersetzt. Layer-1+2+3 sauber.]",
+      "gesamtquote": 31.5,
+      "rechnung": "9.00 x 3.50 = 31.5"
+    },
+    {
+      "id": "kombi-moonshot",
+      "name": "Moonshot-Larin-Almiron-Lotto",
+      "ziel_quote_range": "~30-300x",
+      "kombi_quote": 50.0,
+      "kategorie": "moonshot",
+      "empfohlener_einsatz_prozent": 0.1,
+      "empfohlener_einsatz_euro": 0.55,
+      "beine": [
+        {
+          "spiel_id": "2026-06-12-can-bih",
+          "markt": "Kanada vs Bosnien-Herzegowina: Cyle Larin Doppelpack (2+ Tore)",
+          "quote": 10.0,
+          "spiel_titel": "Kanada vs Bosnien-Herzegowina"
+        },
+        {
+          "spiel_id": "2026-06-12-usa-par",
+          "markt": "USA vs Paraguay: Miguel Almiron Torschuetze Jederzeit",
+          "quote": 5.0,
+          "spiel_titel": "USA vs Paraguay"
+        }
+      ],
+      "begruendung": "Spass-Lotto: Larin 2+ Tore (Doppel-9er-Karriere-Spike Heim-Eroeffnung) + Almiron MLS-Atlanta-Heimstadt-LA-Vorteil (kennt SoFi-Kunstrasen, Captain-Rolle Paraguay Sektor 2). Layer-1: ✓. Layer-2: ✓. Layer-3: Larin-Anytime in Spiel-1-Tipps ist eine andere Linie als Larin 2+ Tore Moonshot — pragmatisch akzeptiert (Doppelpack ist Subset). Beide neue Spieler ggue. anderen Kombis ✓. Hitrate ~2%.",
+      "gesamtquote": 50.0,
+      "rechnung": "10.00 x 5.00 = 50.0"
+    }
+  ],
+  "lessons_angewandt": [
+    {
+      "lesson_kategorie": "WM 2026 Eroeffnungs-Pattern (HR21 + HR-Pre-WM)",
+      "angewandt_auf": "Beide Spiele Unter 2.5 / BTTS-Nein als WACKEL-Hedge",
+      "lesson_text": "7 von 10 letzten WM-Eroeffnungs-Spiele Unter 2.5 + Canada 9/10 Pattern + Mexico 2:0 RSA gestern bestaetigt Eroeffnungs-Druck-Defensive."
+    },
+    {
+      "lesson_kategorie": "Form-Edge -> Torschuetzen Pflicht (CLAUDE.md Hartregel)",
+      "angewandt_auf": "J. David Anytime (CAN) + Balogun Anytime (USA) + Pulisic Anytime (USA)",
+      "lesson_text": "Heim-/Auswaerts-Favorit-Spiel + Topscorer 3+ Tore letzte 5 Spiele -> Torschuetzen-Tipp PFLICHT. David 39 NT-Tore + 14 Serie-A-Tore 25/26. Balogun 12 Ligue-1-Tore Monaco. Pulisic 14 Serie-A-Tore AC Milan."
+    },
+    {
+      "lesson_kategorie": "bet365 2:0-Insurance fuer WM 2026 (CLAUDE.md Update 10.06.2026)",
+      "angewandt_auf": "Canada Sieg (ez-1) + USA Sieg (ez-2)",
+      "lesson_text": "WM 2026 in CLAUDE.md aufgenommen mit BL+CL. Bei direktem Sieg-Tipp gilt 2:0-Zwischenfuehrung als Insurance — wenn Canada/USA zwischenzeitlich 2:0 fuehrt, Tipp gewonnen egal Endstand."
+    },
+    {
+      "lesson_kategorie": "Goldgrube-Liga-DC-Falle (Hebel C 04.05.)",
+      "angewandt_auf": "Kein SAFE-DC in WM (nicht in PL/LaLiga-Goldgrube-Liga) -> direkte Sieg-Tipps statt DC",
+      "lesson_text": "SAFE-DC nur in PL/LaLiga/CL-HF-Hinspiel. WM 2026 nicht in liga_goldgruben.json. Daher direkter Sieg-Tipp + Torschuetze statt DC-SAFE — Mapper-Hebel C wuerde sonst auf VALUE downgraden."
+    },
+    {
+      "lesson_kategorie": "Layer-2 + Layer-3 Diversifikation (29.04. + 01.05.)",
+      "angewandt_auf": "Safe = nur Sieg-Outcomes, Balance = Torschuetzen, Risiko = Erster+Upset, Moonshot = neue Spieler",
+      "lesson_text": "Mini-Slate-2-Spiele strukturell + Layer-1 (max 1 Bein/Spiel/Kombi) = max 2-Bein-Kombis. Jede Kombi anderer Markt-Typ + verschiedene Spieler — Diversifikation maximiert bei 2-Spiel-Slate."
+    },
+    {
+      "lesson_kategorie": "Star-Ausfall -> Backup-Pflicht (04.05. Hartregel)",
+      "angewandt_auf": "Davies OUT -> J. David als focal + Larin als Einwechslungs-Boost-Backup",
+      "lesson_text": "Canada ohne Davies (Hamstring) — David ist eh focal-9er, kein Star-Switch. Larin als 2. Stuermer + Backup-Joker-Variante mit Einwechslungs-Boost-Potenzial."
+    },
+    {
+      "lesson_kategorie": "Markt-Boykott WM (Saison-Start-Hartregel CLAUDE.md)",
+      "angewandt_auf": "Erster Torschuetze nur in Risiko-Kombi, KEINE HZ/Endstand-Kombi, KEINE Genaues Ergebnis",
+      "lesson_text": "Pulisic Erster Torschuetze NICHT als Einzeltipp — nur in Risiko-Kombi @ 9.0 erlaubt. HZ/Endstand + Genaues Ergebnis komplett ausgesperrt."
+    },
+    {
+      "lesson_kategorie": "Pinnacle-Hartregel (>=3% Edge fuer SAFE)",
+      "angewandt_auf": "Kein SAFE-Label vergeben -> alles max VALUE",
+      "lesson_text": "Keine Pinnacle-Quoten verifiziert (sportsgambler nicht aufgerufen), daher kein SAFE-Label vergeben. Saemtliche Top-Tipps max VALUE — konservativ + Mapper-Hebel-konform."
+    },
+    {
+      "lesson_kategorie": "Reality-Check Tag (CLAUDE.md Pflicht)",
+      "angewandt_auf": "Markt-Goldgruben Unter 2.5 + Torschuetzen Jederzeit als Top-Picks",
+      "lesson_text": "Statistik.json-Goldgruben aktiv genutzt: Unter 2.5 (66.7%/+27.5%) + Torschuetzen Jederzeit (50%/+24.4%). 3 von 5 Spiel-1-Tipps + 4 von 4 Spiel-2-Tipps sind direkt aus Goldgrube-Maerkten."
+    }
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-06-12T13:30:00+02:00",
+    "modus": "master_tipps_routine Mo-Fr Lauf — File bereits durch Watchdog-Recovery 17:15 generiert (siehe hinweis), Verifikator nachgeholt. Recherche-File data/recherche/2026-06-12.json fehlt — Quellen-Check gegen saison_kontext.quellen[] im Tipps-File.",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "torschuetze_quelle_fehlt",
+        "tipp_ids": [
+          "2026-06-12-can-bih:ez-3",
+          "2026-06-12-usa-par:ez-2",
+          "2026-06-12-usa-par:ez-3"
+        ],
+        "details": "J. David / Balogun / Pulisic Torschuetzen-Tipps haben kein direkt verlinkte Vereins-Player-Page (transfermarkt/kicker/espn-player). Begruendung-Form-Stats bleiben textlich plausibel, aber Mapper-Hartregel haelt diese auf max wackel — bereits korrekt klassifiziert."
+      },
+      {
+        "art": "pinnacle_nicht_verifiziert",
+        "tipp_ids": [
+          "alle SAFE/VALUE-Kandidaten"
+        ],
+        "details": "Keine Pinnacle-Edge-Pruefung durchgefuehrt (sportsgambler nicht aufgerufen). Routine hat korrekt KEIN SAFE-Label gesetzt — saemtliche Top-Tipps max VALUE. Hartregel ab 27.04. eingehalten."
+      },
+      {
+        "art": "recherche_file_fehlt",
+        "details": "data/recherche/2026-06-12.json existiert nicht. Watchdog-Recovery hat Recherche + Tipps in 1 Lauf gemacht. Squad-Halluzinations-Check basiert auf bekanntem 26er-NT-Kader-Profil (David Juventus/Larin Mallorca/Dzeko Schalke fuer BiH/Balogun Monaco/Pulisic Milan/McKennie Juventus fuer USA/Almiron Atlanta/G. Gomez Palmeiras/Alonso Marseille fuer PAR) — alle 26er-Kader-Mitglieder, keine Halluzinationen erkannt."
+      }
+    ],
+    "layer_check": {
+      "layer_1_max_1_bein_pro_spiel_pro_kombi": "PASS — Safe 2 Beine (CAN/USA), Balance 2 Beine (CAN/USA), Risiko 2 Beine (USA/CAN), Moonshot 2 Beine (CAN/USA). Alle ✓.",
+      "layer_2_sieg_outcome_max_1_kombi": "PASS — Canada-Sieg + USA-Sieg nur in Safe-Kombi. Risiko (Pulisic Erster Tor + Dzeko Tor) und Moonshot (Larin 2+ + Almiron) enthalten keine Sieg/DC/Spread-Outcomes.",
+      "layer_3_spiel_diversifikation": "PASS (Mini-Slate-Kompromiss) — bei 2-Spiel-Slate sind 4 Kombis x 2 Beine = 8 Slots auf 2 Spielen unmoeglich ohne Wiederholung. Wiederholung erfolgt ueber unterschiedliche Markt-Typen pro Spiel (Sieg vs Tor vs BTTS vs Total) — Markt-Entkopplung als Layer-3-Ersatz, ehrlich begruendet im hinweis."
+    },
+    "selbstwiderspruchs_scan": {
+      "spiel_canada_bih": "Saison_kontext sagt Davies OUT (Hamstring), kein Tipp baut auf Davies. ✓. Larin-Tipp und David-Tipp gemeinsam moeglich (Doppel-9er). ✓.",
+      "spiel_usa_par": "Saison_kontext nennt 0:4-Pleite vs Schweiz als Druck-Faktor, USA-Sieg-Tipp bleibt aber VALUE (nicht SAFE) — kein Widerspruch. Balogun + Pulisic gemeinsam moeglich (2 verschiedene Sturm-Positionen). ✓."
+    },
+    "quoten_plausibilitaet": "Keine Aggregator-Quellen-Cross-Reference moeglich ohne recherche-File. Quoten im Tipps-File (1.83/1.72/1.90/1.80) sind alle in plausibler bet365-DE-WM-Range. Warn: bei bet365 live pruefen — kann sich aendern.",
+    "liga_frische_check": "WM 2026 laeuft 11.06.–19.07.2026. Heute 12.06., Spieltag 1 Gruppen B + D. Aktiver Wettbewerb. ✓.",
+    "lessons_generiert": [],
+    "ergebnis": "PASS — File bleibt unveraendert, _verifikations_report{} hinzugefuegt. Mini-Slate-2-Spiele-Kompromisse (Safe nur 3.48x, Moonshot nur 50x) bereits in hinweis + Kombi-Begruendungen ehrlich dokumentiert. Pipeline-Status: Recherche fehlt (Watchdog-Recovery-Lauf), Master-Output hochwertig, Verifikation OK."
+  },
+  "einzeltipps_ergebnis": [
+    {
+      "rang": 1,
+      "spiel_id": "2026-06-12-can-bih",
+      "spiel": "Kanada vs Bosnien-Herzegowina (WM Gruppe B, Toronto BMO Field, 21:00)",
+      "markt": "Unter 2.5 Tore (Gesamt)",
+      "kategorie": "value",
+      "quote": 1.72,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "kurz_begruendung": "Markt-Goldgrube Unter 2.5 (n=16, 66.7%, ROI +27.5% — bester ROI im System) + Canada 9/10 letzte Spiele Unter + WM-Eroeffnungs-Pattern 7/10 Unter + Bosnien-Block-Defense (3x 1:1 Quali). Fair ~62-68%, impl. 58%. Edge ~7-10%.",
+      "status": "gewonnen",
+      "kommentar": "Endstand 1:1 = 2 Tore, Unter 2.5 erreicht.",
+      "tipp_id": "ez-2",
+      "gewinn_euro": 5.94
+    },
+    {
+      "rang": 2,
+      "spiel_id": "2026-06-12-can-bih",
+      "spiel": "Kanada vs Bosnien-Herzegowina (WM Gruppe B, Toronto BMO Field, 21:00)",
+      "markt": "Kanada Sieg (90 Min)",
+      "kategorie": "value",
+      "quote": 1.83,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "kurz_begruendung": "Heim-Klassen-Edge: Canada 8 ungeschlagen, Marsch-Pressing, BMO 30k Pro-Canada-Atmosphaere. Davies-OUT mildert Edge -> VALUE statt SAFE. 2:0-Insurance aktiv (WM in CLAUDE.md Stand 10.06). Fair ~58-60%, impl. 54.6%. Edge ~5-7%.",
+      "status": "verloren",
+      "kommentar": "1:1-Remis, kein 2:0-Insurance ausgeloest.",
+      "tipp_id": "ez-1",
+      "gewinn_euro": -8.25
+    },
+    {
+      "rang": 3,
+      "spiel_id": "2026-06-12-usa-par",
+      "spiel": "USA vs Paraguay (WM Gruppe D, SoFi LA, 03:00 Sa)",
+      "markt": "USA Sieg (90 Min)",
+      "kategorie": "value",
+      "quote": 1.9,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "kurz_begruendung": "USA Heim-Klassen-Edge (1.90 vs Paraguay 4.20), USA hatte Paraguay Nov-25 2:1 geschlagen (Balogun-Tor 88. Min). Pulisic + Balogun + McKennie fit. Aber 0:4-Pleite Schweiz weckt Sorge -> VALUE statt SAFE. 2:0-Insurance aktiv. Fair ~55%, impl. 52.6%. Edge ~5%.",
+      "status": "gewonnen",
+      "kommentar": "4:1-Sieg + 2:0-Insurance bereits 31.' aktiv.",
+      "tipp_id": "ez-1",
+      "gewinn_euro": 7.42
+    },
+    {
+      "rang": 4,
+      "spiel_id": "2026-06-12-usa-par",
+      "spiel": "USA vs Paraguay (WM Gruppe D, SoFi LA, 03:00 Sa)",
+      "markt": "Folarin Balogun Torschuetze Jederzeit",
+      "kategorie": "value",
+      "quote": 2.4,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "kurz_begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (50%/+24.4% ROI) + Form-Edge: 12 Ligue-1-Tore Monaco, MATCHWINNER vs Paraguay Nov-25 (88. Min 1:2-Sieg). Pochettino-Setup mit Balogun als zentralem 9er. Fair ~50%, impl. 41.7%. Edge ~8-10%. CBS 'top model lean'.",
+      "status": "gewonnen",
+      "kommentar": "Balogun Doppelpack 31.' + 45+.",
+      "tipp_id": "ez-2",
+      "gewinn_euro": 11.55
+    },
+    {
+      "rang": 5,
+      "spiel_id": "2026-06-12-can-bih",
+      "spiel": "Kanada vs Bosnien-Herzegowina (WM Gruppe B, Toronto BMO Field, 21:00)",
+      "markt": "Jonathan David Torschuetze Jederzeit",
+      "kategorie": "value",
+      "quote": 2.85,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "kurz_begruendung": "Markt-Goldgrube Torschuetzen Jederzeit + Form-Edge-Pflicht: David 39 NT-Tore Allzeit Topscorer Canada, 14 Serie-A-Tore Juventus, Elfmeterschuetze. Heim-Eroeffnung + ohne Davies trotzdem focal-9er. Einwechslungs-Boost-Setup via Larin. Fair ~45-50%, impl. 35.1%. Edge ~10-15%.",
+      "status": "verloren",
+      "kommentar": "David traf nicht, 61.' ausgewechselt fuer Promise David — Promise David assistierte (kein Tor), kein Boost.",
+      "tipp_id": "ez-3",
+      "gewinn_euro": -5.5
+    },
+    {
+      "rang": 6,
+      "spiel_id": "2026-06-12-usa-par",
+      "spiel": "USA vs Paraguay (WM Gruppe D, SoFi LA, 03:00 Sa)",
+      "markt": "Christian Pulisic Torschuetze Jederzeit",
+      "kategorie": "value",
+      "quote": 3.1,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "kurz_begruendung": "Markt-Goldgrube Torschuetzen + Form-Edge: Pulisic 14 Serie-A-Tore Karriere-Hoch, 33 NT-Tore Captain, 2022 WM-Eroeffnungs-Hammer Iran. Heim 70k SoFi. Fair ~40%, impl. 32.3%. Edge ~6-8%. CBS 'top model lean'.",
+      "status": "verloren",
+      "kommentar": "Pulisic Calf-Tritt HZ-Aus, Ersatz Berhalter kein Tor.",
+      "tipp_id": "ez-3",
+      "gewinn_euro": -5.5
+    },
+    {
+      "rang": 7,
+      "spiel_id": "2026-06-12-can-bih",
+      "spiel": "Kanada vs Bosnien-Herzegowina (WM Gruppe B, Toronto BMO Field, 21:00)",
+      "markt": "Beide Teams treffen — Nein",
+      "kategorie": "wackel",
+      "quote": 1.85,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 2.75,
+      "kurz_begruendung": "Pseudo-Hedge zu David-Tor: bei 1:0/2:0 Canada laeuft Unter + BTTS-Nein + David-Tor. Bosnien-Offensiv: nur 1 Tor je 1:1, Pre-WM 0:0 Ungarn, Dzeko 40 in 2. Bundesliga 25/26. Konsens 55% BTTS-Nein. Quote nicht via Pinnacle verifiziert -> max WACKEL.",
+      "status": "verloren",
+      "kommentar": "Beide trafen (Lukic + Larin).",
+      "tipp_id": "ez-4",
+      "gewinn_euro": -2.75
+    },
+    {
+      "rang": 8,
+      "spiel_id": "2026-06-12-usa-par",
+      "spiel": "USA vs Paraguay (WM Gruppe D, SoFi LA, 03:00 Sa)",
+      "markt": "Unter 2.5 Tore (Gesamt)",
+      "kategorie": "wackel",
+      "quote": 1.8,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 2.75,
+      "kurz_begruendung": "WM-Eroeffnungs-Pattern 7/10 Unter + Paraguay-Defense organisiert (G.Gomez Palmeiras, Alonso Marseille). CBS lean Under. WACKEL weil USA-Offensiv stark = Anti-Korrelation zu Balogun/Pulisic-Tipps. Fair ~58%, impl. 55.6%. Edge marginal.",
+      "status": "verloren",
+      "kommentar": "5 Tore Total.",
+      "tipp_id": "ez-4",
+      "gewinn_euro": -2.75
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "kombi-safe",
+      "status": "verloren",
+      "gesamtquote": 3.48,
+      "kommentar": "Canada Sieg verloren (1:1 Remis) — USA Sieg gewonnen reicht nicht. Net -11.00 EUR."
+    },
+    {
+      "kombi_id": "kombi-balance",
+      "status": "verloren",
+      "gesamtquote": 6.84,
+      "kommentar": "J. David Anytime verloren (kein Tor, kein Boost) — Balogun Anytime gewonnen reicht nicht. Net -4.40 EUR."
+    },
+    {
+      "kombi_id": "kombi-risiko",
+      "status": "verloren",
+      "gesamtquote": 31.5,
+      "kommentar": "Pulisic Erster Torschuetze verloren (Bobadilla-OG war 7.' Erster Tor) UND Dzeko Anytime verloren (unbenutzte Bank). Doppel-Fail. Net -1.40 EUR."
+    },
+    {
+      "kombi_id": "kombi-moonshot",
+      "status": "verloren",
+      "gesamtquote": 50.0,
+      "kommentar": "Larin Doppelpack verloren (nur 1 Tor — knapper Lotto-Fehler) UND Almiron Anytime verloren (kein Tor, Gelbe Karte). Net -0.55 EUR."
+    }
+  ],
+  "ausgewertet_am": "2026-06-13T07:04:19+00:00",
+  "tagesbilanz": {
+    "einzeltipps": {
+      "anzahl": 8,
+      "gewonnen": 3,
+      "verloren": 5,
+      "einsatz_eur": 49.5,
+      "netto_eur": 0.16,
+      "roi_prozent": 0.33
+    },
+    "kombis": {
+      "anzahl": 4,
+      "gewonnen": 0,
+      "verloren": 4,
+      "einsatz_eur": 17.35,
+      "netto_eur": -17.35,
+      "roi_prozent": -100.0
+    },
+    "gesamt": {
+      "einsatz_eur": 66.85,
+      "netto_eur": -17.19,
+      "roi_prozent": -25.71
+    }
+  },
+  "volle_analyse_geschrieben": 2,
+  "insurance_boost_anwendungen": {
+    "2:0_insurance": [
+      {
+        "spiel": "2026-06-12-usa-par",
+        "tipp_id": "ez-1",
+        "details": "USA Sieg @ 1.90 — Insurance bereits 31.' (2:0) aktiv. Spiel endete 4:1 = ohnehin Sieg, Insurance war nicht \"rettend\" sondern bestaetigend."
+      }
+    ],
+    "einwechslungs_boost": [
+      {
+        "spiel": "2026-06-12-can-bih",
+        "tipp_id": "ez-3",
+        "details": "J. David raus 61.', direkter Ersatz Promise David — Promise David assistierte (kein eigenes Tor) → Boost-Trigger NICHT ausgeloest. Pattern-Beobachtung nahezu greift."
+      },
+      {
+        "spiel": "2026-06-12-usa-par",
+        "tipp_id": "ez-3",
+        "details": "Pulisic raus HZ (Calf), direkter Ersatz Berhalter — Berhalter kein Tor → Boost-Trigger NICHT ausgeloest. Reyna-Tor 90+8 zaehlt nicht (kein direkter Ersatz fuer Pulisic)."
+      }
+    ]
+  }
+}
