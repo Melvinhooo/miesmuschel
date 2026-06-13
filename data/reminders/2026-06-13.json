@@ -1,11 +1,17 @@
 {
-  "stand": "2026-06-13T18:05:35.613740+00:00",
+  "stand": "2026-06-14T00:05:54.726135+00:00",
   "gesendet": {
     "2026-06-13-qat-sui": {
       "sent_at": "2026-06-13T18:05:34.680794+00:00",
       "anstoss": "2026-06-13T21:00:00+02:00",
       "spiel": "Katar vs Schweiz",
       "top_tipp": "Schweiz Sieg (1X2)"
+    },
+    "2026-06-13-hai-sco": {
+      "sent_at": "2026-06-14T00:05:53.595884+00:00",
+      "anstoss": "2026-06-14T03:00:00+02:00",
+      "spiel": "Haiti vs Schottland",
+      "top_tipp": "Schottland Sieg (1X2)"
     }
   }
 }
