@@ -2,7 +2,7 @@
 window.__MIESMUSCHEL_TIPPS = {
   "datum": "2026-06-13",
   "erstellt_am": "2026-06-13T13:30:00+02:00",
-  "hinweis": "WM 2026 Spieltag 1 Auftakt - Window Sa 13.06. 21:00 Berlin (Qat-Sui) bis So 14.06. 06:00 Berlin (Aus-Tur Vancouver). 5 Spiele: 4 WM-Gruppenphase Tag-1 (Qat-Sui, Bra-Mar, Hai-Sco, Aus-Tur) + NBA Finals Game 5 (Spurs-Knicks, Spurs 1-3 hinten / MUSS-Sieg-Lage). Klub-Saison komplett vorbei (CL-Final 30.05. PSG-Arsenal), alle Spieler 3 Wochen Pause + Trainingscamp. 2:0-Insurance + Einwechslungs-Boost (CLAUDE.md WM-Sonderregeln) bei jedem Sieg-Tipp aktiv. 6 Einzeltipps (1 SAFE Schweiz / 4 VALUE Bra-Mar-Sieg+Vinicius / Sco-Sieg / Tur-Sieg / 1 WACKEL NBA-Unter) + 4 Kombis Safe 2.96x / Balance 7.99x / Risiko 20.63x / Moonshot 46.4x. Markt-Goldgruben aktiv (Torschuetzen +16.1 Prozent ROI, Ueber 2.5 +23.4 Prozent ROI). Kasse 550 EUR Stufe 1 Aufbau-Phase.",
+  "hinweis": "WM 2026 Spieltag 1 Auftakt - Window Sa 13.06. 21:00 Berlin (Qat-Sui) bis So 14.06. 06:00 Berlin (Aus-Tur Vancouver). 5 Spiele: 4 WM-Gruppenphase Tag-1 (Qat-Sui, Bra-Mar, Hai-Sco, Aus-Tur) + NBA Finals Game 5 (Spurs-Knicks, Spurs 1-3 hinten / MUSS-Sieg-Lage). Klub-Saison komplett vorbei (CL-Final 30.05. PSG-Arsenal), alle Spieler 3 Wochen Pause + Trainingscamp. 2:0-Insurance + Einwechslungs-Boost (CLAUDE.md WM-Sonderregeln) bei jedem Sieg-Tipp aktiv. 6 Einzeltipps (1 SAFE Schweiz / 4 VALUE Bra-Mar-Sieg+Vinicius / Sco-Sieg / Tur-Sieg / 1 WACKEL NBA-Unter) + 4 Kombis Safe 2.96x / Balance 10.42x / Risiko 16.28x / Moonshot 46.4x. Markt-Goldgruben aktiv (Torschuetzen +16.1 Prozent ROI, Ueber 2.5 +23.4 Prozent ROI). Kasse 550 EUR Stufe 1 Aufbau-Phase. LIVE-RE-CHECK 13.06. 17:00 (manuell nachgeholt, weil Recherche-Routine 12.+13.06. ausfiel): Kern-Quoten halten (Schweiz 1.30 / Brasilien 1.57 / Schottland 1.45 / NBA Unter 216.5 @ 1.93). Korrigiert: NBA Spurs-Heimsieg 1.85->1.46 (war Fehler, Spurs sind Favorit), Vinicius-trifft 2.30->3.00 (Markt laenger). Tuerkei-Sieg US-Konsens auf ~1.70 verkuerzt (bet365 live pruefen).",
   "spiele": [
     {
       "id": "2026-06-13-qat-sui",
@@ -84,13 +84,13 @@ window.__MIESMUSCHEL_TIPPS = {
           "begruendung": "Moonshot-Bein fuer Kombi: Almoez Ali (44 NT-Tore) + Akram Afif (2022-Top-Scorer + Asia-Cup 2024 Top-Scorer 8 Tore) sind Schluessel-Spieler. Auch bei Schweiz-Sieg moeglich dass 0:1-2-Anschlusstor faellt. Quote 3.20 = Moonshot-Range. Spass-Stake.",
           "edge_prozent": null,
           "faire_quote": 3.2,
-          "rang": 5
+          "rang": 4
         }
       ],
       "kontext_check_status": "OK"
     },
     {
-      "id": "2026-06-14-bra-mar",
+      "id": "2026-06-13-bra-mar",
       "liga": "FIFA World Cup 2026 - Gruppe C - Spieltag 1",
       "heim": "Brasilien",
       "gast": "Marokko",
@@ -122,12 +122,61 @@ window.__MIESMUSCHEL_TIPPS = {
         "Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI (n=154, beste VALUE-Range statistik.json).",
         "Goldgrube-Markt 'Torschuetzen Jederzeit' +16.1% ROI / 38.8% HR (n=51): Vinicius Jr mit Real-Madrid-LaLiga-Form, 22 Pflichtspieltore 2025/26 - klares Form-Edge-Pflichtprofil Auswaerts-Favorit fuer Brasilien (Aussen-Stuermer mit hoher Tor-Quote). Einwechslungs-Boost-Hedge: Endrick als 9er-Backup."
       ],
-      "tipps": [],
-      "kontext_check_status": "OK",
-      "_recherche_fehlt": true
+      "tipps": [
+        {
+          "id": "t-bra-2",
+          "markt": "Vinicius Junior trifft jederzeit (Brasilien)",
+          "kategorie": "value",
+          "quote": 3.0,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 5.5,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+16.1 Prozent ROI / 38.8 Prozent HR, n=51 - BESTER Markt im System). Vinicius Jr: Real Madrid LaLiga-Saisonsieger 2025/26 mit 22 Pflichtspieltoren, Linksaussen mit hoher Volumen-Quote. Marokko-Defensive solide (Aguerd/Saiss) aber gegen Real-Madrid-Form bei einem Sieg-Spiel = mehrere Chancen erwartbar. Einwechslungs-Boost-Hedge (CLAUDE.md): falls Vinicius gegen Endrick/Rodrygo getauscht wird, deren Tore zaehlen mit. LIVE-UPDATE 13.06. 17:00: Markt-Quote ~3.00 (BetMGM +210 / Fox +195), Donnerstag-2.30 war zu kurz - jetzt bessere Value. Igor Thiago (+155) ist Top-Scorer-Favorit, Vinicius #2. Reality-Check Quoten 2.00-3.00: 41.7 Prozent HR / +9.0 Prozent ROI. Aufstellung 1h vor Anstoss pruefen. Stake 1.0 Prozent = 5.50 EUR.",
+          "edge_prozent": 10,
+          "faire_quote": 2.7,
+          "rang": 1
+        },
+        {
+          "id": "t-bra-3",
+          "markt": "Ueber 2.5 Tore (Gesamt)",
+          "kategorie": "value",
+          "quote": 1.85,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 5.5,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 Tore (+23.4 Prozent ROI / 52.2 Prozent HR, n=25). Brasilien-Offensive Vinicius/Raphinha/Endrick gegen Marokko-Block sollte fuer Tor-Volumen sorgen. ABER Lesson 08.06 (WM-Test-Ueber-2.5-Defensiv-Subfilter): bei taktisch dichten Hinspielen Ueber-These vorsichtig - Brasilien-Defensive zuletzt nicht 100 Prozent solide (0:1 vs USA Test) drueckt nicht das Tor-Volumen. Quote 1.85 via Aggregator-Konsens. Risiko-Kombi-Bein. Bei bet365 live pruefen.",
+          "edge_prozent": 6,
+          "faire_quote": 1.74,
+          "rang": 2
+        },
+        {
+          "id": "t-bra-1",
+          "markt": "Brasilien Sieg (1X2)",
+          "kategorie": "wackel",
+          "quote": 1.57,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 8.25,
+          "begruendung": "Klare Klassen-Edge Brasilien FIFA #5 (Vinicius Real-Saisonsieger + Raphinha Barcelona-LaLiga-Sieger + Endrick Real) vs Marokko #13. ABER Marokko 2022-HF (eliminierte Spanien + Portugal) + 5 ungeschlagen vor WM = nicht trivialer Underdog -> VALUE statt SAFE. 2:0-Insurance-Regel WM 2026 aktiv (CLAUDE.md): Brasilien-Sieg-Tipp gewinnt bei bet365 schon ab 2:0-Fuehrung. Reality-Check Quoten 1.50-2.00: 54.4 Prozent HR / +11.8 Prozent ROI (n=154, beste VALUE-Range). Konsens-Quote 1.57 via 4 Aggregatoren verifiziert. Stake 1.5 Prozent = 8.25 EUR Stufe 1. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
+          "edge_prozent": 10,
+          "faire_quote": 1.42,
+          "rang": 3,
+          "_saison_kontext_sanity_downgrade": true
+        },
+        {
+          "id": "t-bra-4",
+          "markt": "Ueber 3.5 Tore (Gesamt)",
+          "kategorie": "moonshot",
+          "quote": 3.0,
+          "empfohlener_einsatz_prozent": 0.1,
+          "empfohlener_einsatz_euro": 0.55,
+          "begruendung": "Moonshot-Bein: Vinicius/Raphinha/Endrick-Volumen-Eruption bei lockerem Marokko-Spiel. 4+ Tore verlangt offenes Spiel - gegen Marokkos Defensiv-Disziplin (2022-HF-Block) unwahrscheinlich, daher Lotterie-Range. Quote 3.00 = Moonshot. Spass-Stake 0.55 EUR.",
+          "edge_prozent": null,
+          "faire_quote": 3.0,
+          "rang": 4
+        }
+      ],
+      "kontext_check_status": "OK"
     },
     {
-      "id": "2026-06-14-sas-nyk",
+      "id": "2026-06-13-sas-nyk-g5",
       "liga": "NBA Finals Game 5 (Best of 7)",
       "heim": "San Antonio Spurs",
       "gast": "New York Knicks",
@@ -159,12 +208,36 @@ window.__MIESMUSCHEL_TIPPS = {
         "Lesson 02.05 NBA-Decider-Defensiv-These Track-Record nach G4 (G1: 200<218.5 HIT, G2: 209<214.5 HIT, G3: 226>216.5 MISS, G4: 213<216.5 HIT) = 3/4 = 75% - Unter-Linie wieder aktiv.",
         "Lesson 18.05 NBA-Game7-Heim-Underdog-Crash bestaetigt + Lesson 03.06 Spurs-G7-Hangover-VALUE-Auswaerts-Underdog. G5 hat beide Pattern: SAS Heim-Underdog (Spread) + NYK-Auswaerts-Favorit nach G4-Comeback-Adrenalin."
       ],
-      "tipps": [],
-      "kontext_check_status": "OK",
-      "_recherche_fehlt": true
+      "tipps": [
+        {
+          "id": "t-nba-1",
+          "markt": "Unter 216.5 Gesamtpunkte (FT)",
+          "kategorie": "wackel",
+          "quote": 1.93,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 2.75,
+          "begruendung": "NBA-Playoff-Hartregel CLAUDE.md (Hebel B) + NBA-Decider-Status SAS: max WACKEL fuer Total/Spread. Lesson 02.05 NBA-Decider-Defensiv-These Track-Record G1-G4 = 3/4 = 75 Prozent (G1: 200<218.5 HIT, G2: 209<214.5 HIT, G3: 226>216.5 MISS, G4: 213<216.5 HIT). G5 = MUSS-Sieg-SA mit Heim-Defensiv-Druck + NYK-Auswaerts-Closing-Vorsicht = beide auf Possession-Kontrolle statt Tempo-Run. Brunson-Knie-Discomfort + Wemby G4-Wurf-Kollaps drueckt Volumen. Quote 1.93 Konsens - bei bet365 DE live pruefen (DK bei 215.5). Stake-Cap NBA-Playoff (Lesson 09.06) 0.5 Prozent = 2.75 EUR.",
+          "edge_prozent": null,
+          "faire_quote": 1.93,
+          "rang": 1
+        },
+        {
+          "id": "t-nba-2",
+          "markt": "San Antonio Spurs Heimsieg (Moneyline)",
+          "kategorie": "wackel",
+          "quote": 1.46,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 2.75,
+          "begruendung": "MUSS-Sieg-Lage SAS (1-3 zurueck, 1-4-Comeback gibt es nicht) + Heim-Crowd-Druck + Closeout-Verhinderungs-Adrenalin in eigener Halle - SAS ist Markt-Favorit (Moneyline -218 = 1.46). ABER NBA-Playoff-Hartregel max WACKEL + Lesson 18.05 (NBA-Heim-Underdog-Crash-Risiko) + Wemby G4-Wurf-Kollaps (9/25 FG) = mentaler Brutal-Test nach historischem -29-Comeback-Verlust. NYK braucht nur 1 Sieg aus G5/G6/G7 - kann G5 'abschenken'. LIVE-KORREKTUR 13.06. 17:00: Donnerstag stand hier faelschlich 1.85 - echte Markt-Quote ist 1.46 (Spurs sind Heim-Favorit, nicht Underdog). Valider Kombi-Bein (Risiko-Kombi), kein Einzel-SAFE/VALUE. Bei bet365 live pruefen.",
+          "edge_prozent": null,
+          "faire_quote": 1.46,
+          "rang": 2
+        }
+      ],
+      "kontext_check_status": "OK"
     },
     {
-      "id": "2026-06-14-hai-sco",
+      "id": "2026-06-13-hai-sco",
       "liga": "FIFA World Cup 2026 - Gruppe C - Spieltag 1",
       "heim": "Haiti",
       "gast": "Schottland",
@@ -196,12 +269,48 @@ window.__MIESMUSCHEL_TIPPS = {
         "Reality-Check Quoten 1.00-1.50: 76.9% HR / +7.2% ROI (n=39, beste Hitrate-Range statistik.json).",
         "Sportscasting Supercomputer: Schottland 63% Win / Haiti 17%. Kalshi: Schottland 63% / X 22% / Haiti 16%."
       ],
-      "tipps": [],
-      "kontext_check_status": "OK",
-      "_recherche_fehlt": true
+      "tipps": [
+        {
+          "id": "t-sco-1",
+          "markt": "Schottland Sieg (1X2)",
+          "kategorie": "value",
+          "quote": 1.45,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 8.25,
+          "begruendung": "Klassen-Edge Schottland FIFA #34 (PL-Achse Robertson/McTominay/McGinn/Adams + Tierney) vs Haiti #87 (1-2 Top-Liga-Spieler max). Sportscasting Supercomputer 63 Prozent / Kalshi 63 Prozent Schottland. Schottland 3 Wochen Klub-Pause seit 24.05. + Trainingscamp. 2:0-Insurance-Regel WM 2026 aktiv (CLAUDE.md): Schottland-Sieg gewinnt bei bet365 ab 2:0. Reality-Check Quoten 1.00-1.50: 76.9 Prozent HR / +7.2 Prozent ROI (beste Hitrate-Range). VALUE statt SAFE wegen WM-Debutant-Variance + Auftakt-Phase-Defensiv-Tendenz (Lesson CLAUDE.md 'Spiele 1-2 oft taktisch'). Stake 1.5 Prozent = 8.25 EUR.",
+          "edge_prozent": 9,
+          "faire_quote": 1.33,
+          "rang": 1
+        },
+        {
+          "id": "t-sco-2",
+          "markt": "Ueber 2.5 Tore (Gesamt)",
+          "kategorie": "wackel",
+          "quote": 2.1,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 2.75,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (+23.4 Prozent ROI), ABER Schottland-Trainings-Form kein Toremarathon (1:0 Liechtenstein, 2:1 Suedkorea, 1:1 Polen) + Haiti als WM-Debutant tendiert zu Defensiv-Block gegen klaren Favorit = Tor-Volumen unsicher. Daher WACKEL statt VALUE. Quote 2.10 via Aggregator-Konsens. Risiko-Kombi-Bein. Bei bet365 live pruefen.",
+          "edge_prozent": null,
+          "faire_quote": 1.95,
+          "rang": 2
+        },
+        {
+          "id": "t-sco-3",
+          "markt": "Haiti trifft jederzeit",
+          "kategorie": "moonshot",
+          "quote": 2.3,
+          "empfohlener_einsatz_prozent": 0.1,
+          "empfohlener_einsatz_euro": 0.55,
+          "begruendung": "Moonshot-Bein: Haiti-Ueberraschungstor gegen Schottland - auch bei klarem Schottland-Sieg moeglich dass ein Anschluss-/Ehrentreffer faellt (Pierrot Hull City Championship als Ziel-Spieler). Quote 2.30 = Moonshot-Range. Spass-Stake 0.55 EUR.",
+          "edge_prozent": null,
+          "faire_quote": 2.3,
+          "rang": 3
+        }
+      ],
+      "kontext_check_status": "OK"
     },
     {
-      "id": "2026-06-14-aus-tur",
+      "id": "2026-06-13-aus-tur",
       "liga": "FIFA World Cup 2026 - Gruppe D - Spieltag 1",
       "heim": "Australien",
       "gast": "Tuerkei",
@@ -232,9 +341,45 @@ window.__MIESMUSCHEL_TIPPS = {
         "Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI (n=154, beste VALUE-Range statistik.json).",
         "Kalshi-Konsens: Tuerkei 58% / X 26% / Australien 18% - moderater Klassen-Edge, kein Coinflip aber auch kein klarer SAFE."
       ],
-      "tipps": [],
-      "kontext_check_status": "OK",
-      "_recherche_fehlt": true
+      "tipps": [
+        {
+          "id": "t-tur-1",
+          "markt": "Tuerkei Sieg (1X2)",
+          "kategorie": "value",
+          "quote": 1.8,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 5.5,
+          "begruendung": "Klassen-Edge Tuerkei-Achse Calhanoglu (Inter) + Guler (Real Madrid) + Akturkoglu (Galatasaray) + Aktoprak Sarr (Wolves) vs Australien mit nur 2-3 Top-Liga-Spielern. Kalshi 58 Prozent Tuerkei / 18 Prozent Australien. Calhanoglu-Mueidigkeits-Risiko (Inter ~50 Pflichtspiele + Coppa-Final Mai) eingerechnet - Tuerkei-Tiefe deckt das ab. 2:0-Insurance-Regel WM 2026 aktiv (CLAUDE.md): Tuerkei-Sieg gewinnt bei bet365 ab 2:0. Quote 1.80 = VALUE-Sweet-Spot. Reality-Check Quoten 1.50-2.00: 54.4 Prozent HR / +11.8 Prozent ROI. VALUE statt SAFE - Auftakt-Variance + Calhanoglu-Schon-Option. Stake 1.0 Prozent = 5.50 EUR.",
+          "edge_prozent": 8,
+          "faire_quote": 1.66,
+          "rang": 1
+        },
+        {
+          "id": "t-tur-2",
+          "markt": "Ueber 2.5 Tore (Gesamt)",
+          "kategorie": "wackel",
+          "quote": 2.05,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 2.75,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (+23.4 Prozent ROI), beide Teams offensiv ausgerichtet (Tuerkei-Offensive Guler/Akturkoglu + Australien-Heim-Druck). ABER Coinflip-Charakter des Spiels (geringe Klassen-Asymmetrie) + moegliche Calhanoglu-Schonung drueckt Planbarkeit = WACKEL. Quote 2.05 via Aggregator-Konsens. Risiko-Kombi-Bein. Bei bet365 live pruefen.",
+          "edge_prozent": null,
+          "faire_quote": 1.9,
+          "rang": 2
+        },
+        {
+          "id": "t-tur-3",
+          "markt": "Beide Teams treffen (BTTS Ja)",
+          "kategorie": "moonshot",
+          "quote": 2.1,
+          "empfohlener_einsatz_prozent": 0.1,
+          "empfohlener_einsatz_euro": 0.55,
+          "begruendung": "Moonshot-Bein: Australien-Heim-Druck (Socceroos-Achtelfinal-2022-Selbstvertrauen) + Tuerkei-Offensive = beide-treffen-Szenario plausibel. Coinflip-naehe macht BTTS attraktiver als bei klaren Favoriten-Spielen. Quote 2.10. Spass-Stake 0.55 EUR.",
+          "edge_prozent": null,
+          "faire_quote": 2.1,
+          "rang": 3
+        }
+      ],
+      "kontext_check_status": "OK"
     }
   ],
   "einzeltipps": [
@@ -254,6 +399,91 @@ window.__MIESMUSCHEL_TIPPS = {
       "empfohlener_einsatz_euro": 11.0,
       "faire_quote": 1.2,
       "rang": 1
+    },
+    {
+      "id": "ez-2",
+      "tipp_id": "t-bra-1",
+      "spiel_id": "2026-06-13-bra-mar",
+      "spiel_titel": "Brasilien vs Marokko (WM 2026 Gruppe C, MetLife Stadium NJ)",
+      "kategorie": "wackel",
+      "markt": "Brasilien Sieg (1X2)",
+      "quote": 1.57,
+      "quote_quelle": "Aggregator-Konsens Squawka/SportingLife/DraftKings/FoxSports, 11.06.",
+      "edge_prozent": 10,
+      "begruendung": "Klare Klassen-Edge Brasilien FIFA #5 (Vinicius Real-Saisonsieger + Raphinha Barcelona-LaLiga-Sieger + Endrick Real) vs Marokko #13. ABER Marokko 2022-HF (eliminierte Spanien + Portugal) + 5 ungeschlagen vor WM = nicht trivialer Underdog -> VALUE statt SAFE. 2:0-Insurance-Regel WM 2026 aktiv (CLAUDE.md): Brasilien-Sieg-Tipp gewinnt bei bet365 schon ab 2:0-Fuehrung. Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI (n=154, beste VALUE-Range). Konsens-Quote 1.57 via 4 Aggregatoren verifiziert. Layer-2 ohne Konflikt: Brasilien-Sieg-Outcome geht nur in Safe-Kombi (Vinicius-trifft + Bra-Mar-Ueber-2.5 sind andere Markt-Typen). Stake 1.5% = 8.25 EUR.",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "faire_quote": 1.42,
+      "rang": 2
+    },
+    {
+      "id": "ez-3",
+      "tipp_id": "t-sco-1",
+      "spiel_id": "2026-06-13-hai-sco",
+      "spiel_titel": "Haiti vs Schottland (WM 2026 Gruppe C, Gillette Stadium Foxborough)",
+      "kategorie": "value",
+      "markt": "Schottland Sieg (1X2)",
+      "quote": 1.45,
+      "quote_quelle": "Aggregator-Konsens Squawka/SportsCasting/Tribuna/Sportingnews, 11.06.",
+      "edge_prozent": 9,
+      "begruendung": "Klassen-Edge Schottland FIFA #34 (PL-Achse Robertson/McTominay/McGinn/Adams + Tierney) vs Haiti #87 (1-2 Top-Liga-Spieler max). Sportscasting Supercomputer 63% / Kalshi 63% Schottland. Schottland 3 Wochen Klub-Pause seit 24.05. + Trainingscamp. 2:0-Insurance-Regel WM 2026 aktiv (CLAUDE.md): Schottland-Sieg gewinnt bei bet365 ab 2:0. Reality-Check Quoten 1.00-1.50: 76.9% HR / +7.2% ROI (beste Hitrate-Range). VALUE statt SAFE wegen WM-Debutant-Variance + Auftakt-Phase-Defensiv-Tendenz (Lesson CLAUDE.md WM-Phasen 'Spiele 1-2 oft taktisch'). Konsens-Quote via 4 Aggregatoren verifiziert. Stake 1.5% = 8.25 EUR.",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "faire_quote": 1.33,
+      "rang": 3
+    },
+    {
+      "id": "ez-4",
+      "tipp_id": "t-bra-2",
+      "spiel_id": "2026-06-13-bra-mar",
+      "spiel_titel": "Brasilien vs Marokko (WM 2026 Gruppe C, MetLife Stadium NJ)",
+      "kategorie": "value",
+      "markt": "Vinicius Junior trifft jederzeit (Brasilien)",
+      "quote": 3.0,
+      "quote_quelle": "Live-Check 13.06. 17:00 (BetMGM +210 / Fox +195 / Konsens ~3.00). Donnerstag-Schaetzung 2.30 war zu kurz - Markt laenger.",
+      "edge_prozent": 10,
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+16.1% ROI / 38.8% HR, n=51 - BESTER Markt im System). Vinicius Jr: Real Madrid LaLiga-Saisonsieger 2025/26 mit 22 Pflichtspieltoren, Linksaussen mit hoher Volumen-Quote. Marokko-Defensive solide (Aguerd/Saiss) aber gegen Real-Madrid-Form von Vinicius bei einem Sieg-Spiel = mehrere Chancen erwartbar. Form-Edge-Pflicht-Profil 'AUSWAERTS-Favorit mit Top-Stuermer 22 Tore' erfuellt. Einwechslungs-Boost-Hedge greift (CLAUDE.md): falls Vinicius gegen Endrick/Rodrygo getauscht wird, deren Tore zaehlen mit. LIVE-UPDATE 13.06.: Markt-Quote ~3.00 (BetMGM/Fox), Igor Thiago ist mit +155 sogar Top-Scorer-Favorit - Vinicius #2. Reality-Check Quoten 2.00-3.00: 41.7% HR / +9.0% ROI. Aufstellung 1h vor Anstoss pruefen. Stake 1.0% = 5.50 EUR.",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "faire_quote": 2.7,
+      "rang": 4
+    },
+    {
+      "id": "ez-5",
+      "tipp_id": "t-tur-1",
+      "spiel_id": "2026-06-13-aus-tur",
+      "spiel_titel": "Australien vs Tuerkei (WM 2026 Gruppe D, BC Place Vancouver)",
+      "kategorie": "value",
+      "markt": "Tuerkei Sieg (1X2)",
+      "quote": 1.8,
+      "quote_quelle": "Aggregator-Konsens Squawka/Tribuna/Socceroos, 11.06.",
+      "edge_prozent": 8,
+      "begruendung": "Klassen-Edge Tuerkei-Achse Calhanoglu (Inter) + Guler (Real Madrid) + Akturkoglu (Galatasaray) + Aktoprak Sarr (Wolves) vs Australien mit nur 2-3 PL-/Top-Liga-Spielern (Ryan Como, Souttar Sturm Hibernian). Kalshi 58% / Australien 18%. Calhanoglu-Mueidigkeits-Risiko (Inter ~50 Pflichtspiele + Coppa-Final Mai) eingerechnet - Tuerkei-Tiefe deckt das ab. 2:0-Insurance-Regel WM 2026 aktiv (CLAUDE.md): Tuerkei-Sieg gewinnt bei bet365 ab 2:0. Quote 1.80 = VALUE-Sweet-Spot. Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI. Konsens-Quote via 3 Aggregatoren verifiziert. VALUE statt SAFE - Auftakt-Variance + Calhanoglu-Schon-Option. Stake 1.0% = 5.50 EUR.",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "faire_quote": 1.66,
+      "rang": 5
+    },
+    {
+      "id": "ez-6",
+      "tipp_id": "t-nba-1",
+      "spiel_id": "2026-06-13-sas-nyk-g5",
+      "spiel_titel": "San Antonio Spurs vs New York Knicks (NBA Finals G5, Frost Bank Center)",
+      "kategorie": "wackel",
+      "markt": "Unter 216.5 Gesamtpunkte (FT)",
+      "quote": 1.93,
+      "quote_quelle": "Aggregator-Konsens OddsShark/CBS/DraftKings/FanDuel, 11.06.",
+      "edge_prozent": null,
+      "begruendung": "NBA-Playoff-Hartregel CLAUDE.md (Hebel B) und NBA-Decider-Status SAS: max WACKEL fuer Total/Spread. Lesson 02.05 NBA-Decider-Defensiv-These Track-Record G1-G4 = 3/4 = 75% (G1: 200<218.5 HIT, G2: 209<214.5 HIT, G3: 226>216.5 MISS, G4: 213<216.5 HIT). G5 = MUSS-Sieg-SA mit Heim-Defensiv-Druck + NYK-Auswaerts-Closing-Vorsicht = beide Teams auf Possession-Kontrolle statt Tempo-Run. Brunson-Knie-Discomfort + Wemby G4-Wurf-Kollaps drueckt Volumen. Quote 1.93 Konsens-FanDuel - bei bet365 DE live pruefen (DK bei 215.5). Stake-Cap NBA-Playoff (Lesson 09.06) 0.5% = 2.75 EUR.",
+      "bewertung_label": "WACKEL",
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 2.75,
+      "faire_quote": null,
+      "rang": 6
     }
   ],
   "kombis": [
@@ -275,14 +505,14 @@ window.__MIESMUSCHEL_TIPPS = {
           "kategorie": "safe"
         },
         {
-          "spiel_id": "2026-06-14-hai-sco",
+          "spiel_id": "2026-06-13-hai-sco",
           "spiel_titel": "Haiti vs Schottland",
           "markt": "Haiti vs Schottland: Schottland Sieg (1X2)",
           "quote": 1.45,
           "kategorie": "value"
         },
         {
-          "spiel_id": "2026-06-14-bra-mar",
+          "spiel_id": "2026-06-13-bra-mar",
           "spiel_titel": "Brasilien vs Marokko",
           "markt": "Brasilien vs Marokko: Brasilien Sieg (1X2)",
           "quote": 1.57,
@@ -293,64 +523,64 @@ window.__MIESMUSCHEL_TIPPS = {
     },
     {
       "id": "kombi-balance",
-      "name": "Balance-Kombi Mixed-Markets Tor/Sieg/NBA ~7.99x",
+      "name": "Balance-Kombi Mixed-Markets Tor/Sieg/NBA ~10.42x",
       "kategorie": "balance",
-      "gesamtquote": 7.99,
-      "faire_quote": 5.46,
+      "gesamtquote": 10.42,
+      "faire_quote": 7.12,
       "empfohlener_einsatz_prozent": 0.8,
       "empfohlener_einsatz_euro": 4.4,
       "begruendung": "Drei Beine in 3 verschiedenen Spielen mit klarer Markt-Diversifikation: Tuerkei-Sieg (VALUE-Sieg-Outcome in nicht-in-Safe-genutztem Spiel) + Vinicius-trifft (Markt-Goldgrube Torschuetzen Jederzeit +16.1% ROI) + NBA-Unter 216.5 (Decider-Defensiv-Pattern Track 3/4). Layer-1 OK, Layer-2 OK (Tuerkei-Sieg neue Spiel-Sieg-Outcome, Vinicius-trifft kein Sieg-Outcome, NBA-Unter kein Sieg-Outcome). Markt-Mix vermeidet Klassen-Edge-Konzentration. Stake 0.8% = 4.40 EUR Stufe 1.",
       "beine": [
         {
-          "spiel_id": "2026-06-14-aus-tur",
+          "spiel_id": "2026-06-13-aus-tur",
           "spiel_titel": "Australien vs Tuerkei",
           "markt": "Australien vs Tuerkei: Tuerkei Sieg (1X2)",
           "quote": 1.8,
           "kategorie": "value"
         },
         {
-          "spiel_id": "2026-06-14-bra-mar",
+          "spiel_id": "2026-06-13-bra-mar",
           "spiel_titel": "Brasilien vs Marokko",
           "markt": "Brasilien vs Marokko: Vinicius Jr trifft jederzeit",
-          "quote": 2.3,
+          "quote": 3.0,
           "kategorie": "value"
         },
         {
-          "spiel_id": "2026-06-14-sas-nyk",
+          "spiel_id": "2026-06-13-sas-nyk-g5",
           "spiel_titel": "Spurs vs Knicks NBA Finals G5",
           "markt": "Spurs vs Knicks NBA Finals G5: Unter 216.5 Gesamtpunkte (FT)",
           "quote": 1.93,
           "kategorie": "wackel"
         }
       ],
-      "rechnung": "1.8 x 2.3 x 1.93 = 7.99"
+      "rechnung": "1.8 x 3.0 x 1.93 = 10.42"
     },
     {
       "id": "kombi-risiko",
-      "name": "Risiko-Kombi Markt-Mix Tor-Total + NBA-Sieg ~20.6x",
+      "name": "Risiko-Kombi Markt-Mix Tor-Total + NBA-Sieg ~16.3x",
       "kategorie": "risk",
-      "gesamtquote": 20.63,
-      "faire_quote": 11.0,
+      "gesamtquote": 16.28,
+      "faire_quote": 8.68,
       "empfohlener_einsatz_prozent": 0.25,
       "empfohlener_einsatz_euro": 1.4,
       "begruendung": "Fuenf Beine in 5 verschiedenen Spielen, klarer Markt-Mix: 3 Ueber-Tore-Beine (Bra-Mar / Aus-Tur / Hai-Sco) + Schweiz Ueber 1.5 + Spurs-Heimsieg-G5. Keine Bein-Ueberlappung mit Safe/Balance (jeweils anderer Markt-Typ pro Spiel). Layer-1 OK (5 unique games), Layer-2 OK (kein Sieg-Outcome bereits in Safe/Balance fuer dieselben Teams - Spurs-Sieg G5 ist neu, Schweiz-Ueber 1.5 ist Tor-Markt nicht Sieg). Layer-3 OK (jedes spiel+markt einmalig ueber alle Kombis). Quoten ~ (Konsens-Schaetzung 11.06., bei bet365 live pruefen). NBA-Spurs-G5 ist Closeout-Druck WACKEL (Lesson 02.05+11.06) aber valider Kombi-Bein. Stake 0.25% = 1.40 EUR Stufe 1.",
       "beine": [
         {
-          "spiel_id": "2026-06-14-bra-mar",
+          "spiel_id": "2026-06-13-bra-mar",
           "spiel_titel": "Brasilien vs Marokko",
           "markt": "Brasilien vs Marokko: Ueber 2.5 Tore",
           "quote": 1.85,
           "kategorie": "value"
         },
         {
-          "spiel_id": "2026-06-14-aus-tur",
+          "spiel_id": "2026-06-13-aus-tur",
           "spiel_titel": "Australien vs Tuerkei",
           "markt": "Australien vs Tuerkei: Ueber 2.5 Tore",
           "quote": 2.05,
           "kategorie": "wackel"
         },
         {
-          "spiel_id": "2026-06-14-hai-sco",
+          "spiel_id": "2026-06-13-hai-sco",
           "spiel_titel": "Haiti vs Schottland",
           "markt": "Haiti vs Schottland: Ueber 2.5 Tore",
           "quote": 2.1,
@@ -364,20 +594,20 @@ window.__MIESMUSCHEL_TIPPS = {
           "kategorie": "value"
         },
         {
-          "spiel_id": "2026-06-14-sas-nyk",
+          "spiel_id": "2026-06-13-sas-nyk-g5",
           "spiel_titel": "Spurs vs Knicks NBA Finals G5",
           "markt": "Spurs vs Knicks NBA Finals G5: San Antonio Spurs Heimsieg",
-          "quote": 1.85,
+          "quote": 1.46,
           "kategorie": "wackel"
         }
       ],
-      "rechnung": "1.85 x 2.05 x 2.1 x 1.4 x 1.85 = 20.63"
+      "rechnung": "1.85 x 2.05 x 2.1 x 1.4 x 1.46 = 16.28"
     },
     {
       "id": "kombi-moonshot",
       "name": "Moonshot-Kombi Underdog-Tore + Schwellen ~46x",
       "kategorie": "moonshot",
-      "gesamtquote": 46.4,
+      "gesamtquote": 46.37,
       "faire_quote": null,
       "empfohlener_einsatz_prozent": 0.1,
       "empfohlener_einsatz_euro": 0.55,
@@ -391,21 +621,21 @@ window.__MIESMUSCHEL_TIPPS = {
           "kategorie": "moonshot"
         },
         {
-          "spiel_id": "2026-06-14-hai-sco",
+          "spiel_id": "2026-06-13-hai-sco",
           "spiel_titel": "Haiti vs Schottland",
           "markt": "Haiti vs Schottland: Haiti trifft jederzeit",
           "quote": 2.3,
           "kategorie": "moonshot"
         },
         {
-          "spiel_id": "2026-06-14-bra-mar",
+          "spiel_id": "2026-06-13-bra-mar",
           "spiel_titel": "Brasilien vs Marokko",
           "markt": "Brasilien vs Marokko: Ueber 3.5 Tore",
           "quote": 3.0,
           "kategorie": "moonshot"
         },
         {
-          "spiel_id": "2026-06-14-aus-tur",
+          "spiel_id": "2026-06-13-aus-tur",
           "spiel_titel": "Australien vs Tuerkei",
           "markt": "Australien vs Tuerkei: Beide Teams treffen (BTTS Ja)",
           "quote": 2.1,
@@ -441,8 +671,8 @@ window.__MIESMUSCHEL_TIPPS = {
         "details": "data/recherche/2026-06-13.json fehlte zum Lauf-Zeitpunkt. Basis war data/tipps_wochenende/2026-06-13.json (Donnerstag 11.06. 18:00 Wochenend-Vorschau) + News aus Squad-Recherche 11.06. - keine 13.06.-aktuellen Aufstellungs-Updates verfuegbar. Pflicht-Check: Aufstellungen 1h vor jedem Anstoss bei bet365/kicker live pruefen."
       },
       {
-        "art": "quoten_alter",
-        "details": "Alle Quoten stammen aus Donnerstag-Aggregator-Konsens (11.06.) - koennen sich bis Anstoss 21:00 Sa verschoben haben. Bei bet365 DE live pruefen vor Setzen."
+        "art": "quoten_live_re_check",
+        "details": "Recherche-Routine fiel 12.+13.06. aus (letzte Recherche-Datei 11.06.) - Quoten stammten urspruenglich aus Donnerstag-Konsens. MANUELLER LIVE-RE-CHECK 13.06. 17:00 via WebSearch (Pinnacle/CBS/OddsShark/BetMGM/FanDuel): Kern-Quoten bestaetigt (Schweiz-Sieg 1.30 / Brasilien-Sieg 1.57 / Schottland-Sieg 1.45 / NBA Unter 216.5 @ 1.93 / NBA Total-Linie 216.5 exakt). KORRIGIERT: (1) NBA Spurs-Heimsieg 1.85->1.46 - war Fehler, Spurs sind Markt-Favorit (ML -218); Risiko-Kombi 20.63x->16.28x. (2) Vinicius-trifft 2.30->3.00 - Markt laenger (BetMGM +210/Fox +195), Balance-Kombi 7.99x->10.42x; Igor Thiago (+155) ist Top-Scorer-Favorit. (3) Tuerkei-Sieg: US-Konsens auf ~1.69-1.72 verkuerzt (FanDuel -145), Dossier behaelt 1.80 - bet365 DE live pruefen. Bestaetigt: Neymar OUT (Brasilien). Alle Aufstellungen 1h vor Anstoss pruefen."
       },
       {
         "art": "calhanoglu_muedigkeit",
@@ -477,4 +707,5 @@ window.__MIESMUSCHEL_TIPPS = {
     },
     "lessons_generiert": []
   }
-};
+}
+;

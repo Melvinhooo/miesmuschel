@@ -759,7 +759,12 @@ def validate_spieler_squad_match(d):
         recherche_spiel = recherche_spiele.get(sid)
         if not recherche_spiel:
             continue
-        squad = (recherche_spiel.get('squad_heim') or []) + (recherche_spiel.get('squad_gast') or [])
+        # Recherche-Files nutzen 'squad_heim'/'squad_gast' (Tages-Recherche) ODER
+        # 'squad_heim_top'/'squad_gast_top' (Wochenend-/Woche-Vorschau). Beide lesen,
+        # sonst leere Squad -> jeder VALUE/SAFE-Torschuetzen-Tipp wird faelschlich
+        # gedroppt wenn das Dossier auf eine Vorschau-Recherche zurueckfaellt.
+        squad = ((recherche_spiel.get('squad_heim') or recherche_spiel.get('squad_heim_top') or [])
+                 + (recherche_spiel.get('squad_gast') or recherche_spiel.get('squad_gast_top') or []))
         squad_index = {}
         for sp in squad:
             n = _normalize_spielername(sp.get('name', ''))
