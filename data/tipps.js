@@ -707,5 +707,4 @@ window.__MIESMUSCHEL_TIPPS = {
     },
     "lessons_generiert": []
   }
-}
-;
+};
