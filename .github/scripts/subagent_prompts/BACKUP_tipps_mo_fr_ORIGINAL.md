@@ -126,9 +126,12 @@ Lies data/beobachtungs_ligen.json. Spiele in Liste-Liga: Praefix "🔍 Beobachtu
 **5b) Pro Spiel: `data/_temp/spiel_<NN>.json`** (PARALLEL alle Spiel-Writes in EINEM Block!)
 
 Schema (PFLICHT-Felder):
+
+**Spiel-ID-Regel (KRITISCH):** `id` = `<window-datum>-<heim_kuerzel>-<gast_kuerzel>`, wobei `<window-datum>` IMMER `meta['datum']` ist (das Dossier-Datum / Window-Anker), NIE das Kickoff-Datum. Nacht-Spiele (Anstoß nach Mitternacht Berlin, z.B. WM-USA-Spiele 00:00–06:00) behalten das Window-Datum in der ID; nur `anstoss` trägt die echte Kickoff-Zeit. NBA-Decider mit Suffix `-g<nr>` (z.B. `2026-06-13-sas-nyk-g5`). Falls du eine Wochenend-/Woche-Vorschau als Basis nutzt: übernimm deren Spiel-IDs wortgleich. Grund: `fix_schema.py::validate_recherche_completeness` matcht per exakter ID gegen die Recherche-Basis — abweichende ID ⇒ alle `tipps[]` des Spiels gedroppt.
+
 ```json
 {
-  "id": "YYYY-MM-DD-h-g", "liga": "...", "heim": "...", "gast": "...", "anstoss": "...+02:00", "stadion": "...",
+  "id": "<window-datum>-h-g", "liga": "...", "heim": "...", "gast": "...", "anstoss": "...+02:00", "stadion": "...",
   "saison_kontext": {
     "parallel_heim": "...", "parallel_gast": "...",
     "saisonziel_heim": "...", "saisonziel_gast": "...",

@@ -28,6 +28,16 @@ Diese Routine läuft 3h vor dem Tipps-Slot:
 - Donnerstag: `data/recherche_wochenende/<samstag-datum>.json` (date -d "next Saturday")
 - Sonntag: `data/recherche_woche/<montag-datum>.json` (date -d "next Monday")
 
+## Spiel-ID-Konvention (KRITISCH — sonst werden Tipps gestrippt)
+
+Die `id` MUSS sein: `<window-datum>-<heim_kuerzel>-<gast_kuerzel>`, wobei `<window-datum>` **immer das `datum`-Feld dieses Files** ist (Anker-/Window-Datum), **NICHT das Kickoff-Datum**.
+
+- **Nacht-Spiele** (Anstoß nach Mitternacht Berlin, z.B. WM-USA-Spiele 00:00–06:00 Berlin) bekommen TROTZDEM die Window-Datum-ID. Beispiel: Spiel stößt 14.06. 00:00 Berlin an, gehört aber zum Window 13.06. → id `2026-06-13-bra-mar` (NICHT `2026-06-14-bra-mar`). Das `anstoss`-Feld trägt die echte Kickoff-Zeit (`2026-06-14T00:00:00+02:00`) — nur die ID nutzt das Window-Datum.
+- Grund: `fix_schema.py::validate_recherche_completeness` matcht Tipps-Spiele per **exakter ID** gegen dieses Recherche-File. Weicht die ID ab (Kickoff- statt Window-Datum), fällt das Spiel durch → alle `tipps[]` werden gedroppt + `_recherche_fehlt` gesetzt → leere Spiele-Analyse in der PWA.
+- NBA-Decider explizit mit Suffix: `<window-datum>-<heim>-<gast>-g<spielnr>` (z.B. `2026-06-13-sas-nyk-g5`).
+
+Tipps-/Analyse-Subagents übernehmen die `id` **wortgleich** aus diesem File — sie bilden NIE eine eigene ID aus dem Kickoff-Datum.
+
 ## Pflicht-Felder pro Spiel
 
 ```json
@@ -37,7 +47,7 @@ Diese Routine läuft 3h vor dem Tipps-Slot:
   "modus": "tag|wochenende|woche",
   "spiele": [
     {
-      "id": "2026-05-08-bvb-fra",  // datum-heim_kuerzel-gast_kuerzel
+      "id": "2026-05-08-bvb-fra",  // <window-datum>-heim_kuerzel-gast_kuerzel
       "liga": "Bundesliga",
       "heim": "Borussia Dortmund",
       "gast": "Eintracht Frankfurt",

@@ -63,7 +63,7 @@ Lese alle `data/analyse/*_*.json` für die heutigen Spiele:
   "hinweis": "1-3 Sätze: heute Top-Spiele + Layer-Hinweise + Kasse-Stand",
   "spiele": [
     {
-      "id": "...",
+      "id": "...",   // WORTGLEICH aus dem Recherche-File uebernehmen (Window-Datum-ID, NIE aus Kickoff-Datum neu bilden) - sonst droppt fix_schema.py alle tipps[] dieses Spiels
       "liga": "...",
       "heim": "...",
       "gast": "...",

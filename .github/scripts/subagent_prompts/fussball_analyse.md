@@ -20,10 +20,12 @@ Du bist Fußball-Analyse-Subagent in der Magische-Miesmuschel-Pipeline. Lese die
 
 Pro Fußballspiel ein File: `data/analyse/<spiel-id>_fussball.json`
 
+`<spiel-id>` = die `id` des Spiels **wortgleich aus dem Recherche-File** (Window-Datum-ID). NIE selbst aus dem Kickoff-Datum bilden — bei Nacht-Spielen (Anstoß nach Mitternacht Berlin) bleibt es das Window-Datum, sonst droppt `fix_schema.py` alle Tipps dieses Spiels.
+
 Schema:
 ```json
 {
-  "spiel_id": "2026-05-08-bvb-fra",
+  "spiel_id": "2026-05-08-bvb-fra",  // wortgleich = recherche-file id
   "saison_kontext": {
     "parallel_heim": "...",
     "parallel_gast": "...",

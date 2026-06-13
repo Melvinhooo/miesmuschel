@@ -20,6 +20,8 @@ Du bist NBA-Analyse-Subagent in der Magische-Miesmuschel-Pipeline. Lese die fert
 
 Pro NBA-Spiel ein File: `data/analyse/<spiel-id>_nba.json`
 
+`<spiel-id>` = die `id` des Spiels **wortgleich aus dem Recherche-File** (Window-Datum-ID inkl. Decider-Suffix, z.B. `2026-06-13-sas-nyk-g5`). NIE aus dem Kickoff-Datum bilden — bei Nacht-Spielen (Anstoß nach Mitternacht Berlin) bleibt es das Window-Datum, sonst droppt `fix_schema.py` alle Tipps dieses Spiels.
+
 Schema gleich wie Fußball-Subagent (saison_kontext + tipps[]).
 
 ## NBA-spezifische Hartregeln

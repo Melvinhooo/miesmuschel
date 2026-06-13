@@ -4,7 +4,7 @@
 Routine schreibt manchmal eigene Feldnamen. Dieser Mapper bringt sie ins
 strikte Format das assets/app.js erwartet.
 """
-import json, glob, sys, os
+import json, glob, sys, os, re
 from pathlib import Path
 
 # Field-Mappings: alternative Namen -> kanonische Namen
@@ -681,10 +681,36 @@ def _normalize_spielername(name):
     return ' '.join(s.split())
 
 
+def _spiel_id_suffix(sid):
+    """Entfernt fuehrendes YYYY-MM-DD- vom Spiel-ID -> Team-Suffix (z.B. '2026-06-13-bra-mar'
+    -> 'bra-mar'). Fuer Datum-tolerante ID-Angleichung bei Nacht-Spielen."""
+    if not sid:
+        return ''
+    m = re.match(r'^\d{4}-\d{2}-\d{2}-(.+)$', sid)
+    return m.group(1) if m else sid
+
+
+def _angleiche_spiel_id(d, alt, neu):
+    """Setzt spiel['id'] sowie alle spiel_id-Referenzen in einzeltipps[] + kombis[].beine[]
+    von 'alt' auf 'neu'. Haelt das Dossier konsistent nach ID-Angleichung."""
+    for e in d.get('einzeltipps', []):
+        if e.get('spiel_id') == alt:
+            e['spiel_id'] = neu
+    for k in d.get('kombis', []):
+        for b in k.get('beine', []):
+            if b.get('spiel_id') == alt:
+                b['spiel_id'] = neu
+
+
 def validate_recherche_completeness(d):
     """Prueft ob fuer das Tipps-File ein passendes data/recherche/<datum>.json existiert.
     Wenn ja: pro Spiel im Tipps-File pruefen ob es im Recherche-File ist.
     Spiele OHNE Recherche bekommen ihre Tipps gedroppt (kein Datenfundament).
+
+    Datum-tolerantes Matching: weicht nur das Datum-Prefix ab (Nacht-Spiel mit
+    Kickoff- statt Window-Datum, z.B. Tipps '2026-06-14-bra-mar' vs Recherche
+    '2026-06-13-bra-mar'), wird die Tipps-ID an die Recherche angeglichen statt
+    die Tipps zu droppen. Eindeutigkeit erzwungen (genau 1 Suffix-Kandidat).
 
     Wenn das Recherche-File komplett fehlt: nur WARN, kein Drop (Bootstrap-Phase).
     Spaeter (nach 7 Tagen Live-Betrieb) sollte das Verhalten verschaerft werden.
@@ -698,10 +724,31 @@ def validate_recherche_completeness(d):
               f"(Bootstrap-Phase, spaeter verschaerfen)")
         return
     recherche_spiele = {s.get('id'): s for s in recherche.get('spiele', []) if s.get('id')}
+    # Suffix-Index (Datum entfernt) fuer Datum-tolerante Angleichung
+    suffix_index = {}
+    for rid in recherche_spiele:
+        suffix_index.setdefault(_spiel_id_suffix(rid), []).append(rid)
     drops = 0
+    angeglichen = 0
     for spiel in d.get('spiele', []):
         sid = spiel.get('id')
         if sid in recherche_spiele:
+            continue
+        # Datum-toleranter Match: gleicher Team-Suffix (nur Datum weicht ab)?
+        suf = _spiel_id_suffix(sid)
+        kandidaten = list(suffix_index.get(suf, []))
+        if not kandidaten and suf:
+            # Prefix-Toleranz fuer Decider-Suffixe ('sas-nyk' <-> 'sas-nyk-g5')
+            for rsuf, rids in suffix_index.items():
+                if rsuf and (suf.startswith(rsuf + '-') or rsuf.startswith(suf + '-')):
+                    kandidaten.extend(rids)
+        if len(kandidaten) == 1:
+            neu = kandidaten[0]
+            spiel['id'] = neu
+            _angleiche_spiel_id(d, sid, neu)
+            print(f"  Recherche-Completeness: Spiel-ID '{sid}' an Recherche angeglichen "
+                  f"-> '{neu}' (Datum-Drift Nacht-Spiel, Tipps behalten)")
+            angeglichen += 1
             continue
         # Spiel im Tipps aber nicht in Recherche - Tipps droppen
         n_tipps = len(spiel.get('tipps', []))
@@ -711,6 +758,9 @@ def validate_recherche_completeness(d):
             print(f"  Recherche-Completeness: Spiel '{sid}' nicht in recherche/{datum}.json "
                   f"-> {n_tipps} Tipps gedroppt")
             drops += n_tipps
+    if angeglichen:
+        print(f"  Recherche-Completeness: {angeglichen} Spiel-ID(s) an Recherche angeglichen "
+              f"(Datum-Drift, kein Drop)")
     if drops:
         print(f"  Recherche-Completeness: {drops} Tipps insgesamt gedroppt (ohne Datenbasis)")
 
