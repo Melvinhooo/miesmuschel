@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS = {
+{
   "datum": "2026-06-13",
   "erstellt_am": "2026-06-13T13:16:02+00:00",
   "hinweis": "WATCHDOG-RECOVERY 17:15 Berlin (Hauptroutine 16:00 nicht durchgelaufen). Sa 13.06.2026 Window 17:15 Sa - 06:01 So: 5 Spiele - 4 WM-Gruppenphase Spieltag 1 (Qat-Sui, Bra-Mar, Hai-Sco, Aus-Tur) + NBA Finals G5 (Spurs-Knicks, Spurs 1-3 hinten / muss-Sieg). Basis: Wochenend-Vorschau 2026-06-13 (Donnerstag 11.06.) gefiltert + Kombis neu aufgebaut. 6 Einzeltipps (1 SAFE + 4 VALUE + 1 WACKEL), 4 Kombis Safe 2.96x / Balance 7.99x / Risiko 20.63x / Moonshot 46.4x. Kasse 550 EUR Stufe 1 Aufbau-Phase.",
@@ -470,4 +469,4 @@ window.__MIESMUSCHEL_TIPPS = {
     "Quoten-Verifikations-Hartregel (Lesson 27.04): alle Quoten via Aggregator-Konsens Squawka/SportsLine/SportingLife/DraftKings/FanDuel/OddsShark/CBS aus Wochenend-Recherche 11.06. uebernommen. Bei bet365 live pruefen - Quoten koennen sich seit Donnerstag verschoben haben."
   ],
   "footer": "18+ - bet365 DE - Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
-};
+}
