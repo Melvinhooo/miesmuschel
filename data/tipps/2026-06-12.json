@@ -213,28 +213,6 @@
   "einzeltipps": [
     {
       "rang": 1,
-      "spiel_id": "2026-06-12-can-bih",
-      "spiel": "Kanada vs Bosnien-Herzegowina (WM Gruppe B, Toronto BMO Field, 21:00)",
-      "markt": "Unter 2.5 Tore (Gesamt)",
-      "kategorie": "value",
-      "quote": 1.72,
-      "empfohlener_einsatz_prozent": 1.5,
-      "empfohlener_einsatz_euro": 8.25,
-      "kurz_begruendung": "Markt-Goldgrube Unter 2.5 (n=16, 66.7%, ROI +27.5% — bester ROI im System) + Canada 9/10 letzte Spiele Unter + WM-Eroeffnungs-Pattern 7/10 Unter + Bosnien-Block-Defense (3x 1:1 Quali). Fair ~62-68%, impl. 58%. Edge ~7-10%."
-    },
-    {
-      "rang": 2,
-      "spiel_id": "2026-06-12-can-bih",
-      "spiel": "Kanada vs Bosnien-Herzegowina (WM Gruppe B, Toronto BMO Field, 21:00)",
-      "markt": "Kanada Sieg (90 Min)",
-      "kategorie": "value",
-      "quote": 1.83,
-      "empfohlener_einsatz_prozent": 1.5,
-      "empfohlener_einsatz_euro": 8.25,
-      "kurz_begruendung": "Heim-Klassen-Edge: Canada 8 ungeschlagen, Marsch-Pressing, BMO 30k Pro-Canada-Atmosphaere. Davies-OUT mildert Edge -> VALUE statt SAFE. 2:0-Insurance aktiv (WM in CLAUDE.md Stand 10.06). Fair ~58-60%, impl. 54.6%. Edge ~5-7%."
-    },
-    {
-      "rang": 3,
       "spiel_id": "2026-06-12-usa-par",
       "spiel": "USA vs Paraguay (WM Gruppe D, SoFi LA, 03:00 Sa)",
       "markt": "USA Sieg (90 Min)",
@@ -245,7 +223,7 @@
       "kurz_begruendung": "USA Heim-Klassen-Edge (1.90 vs Paraguay 4.20), USA hatte Paraguay Nov-25 2:1 geschlagen (Balogun-Tor 88. Min). Pulisic + Balogun + McKennie fit. Aber 0:4-Pleite Schweiz weckt Sorge -> VALUE statt SAFE. 2:0-Insurance aktiv. Fair ~55%, impl. 52.6%. Edge ~5%."
     },
     {
-      "rang": 4,
+      "rang": 2,
       "spiel_id": "2026-06-12-usa-par",
       "spiel": "USA vs Paraguay (WM Gruppe D, SoFi LA, 03:00 Sa)",
       "markt": "Folarin Balogun Torschuetze Jederzeit",
@@ -256,18 +234,7 @@
       "kurz_begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (50%/+24.4% ROI) + Form-Edge: 12 Ligue-1-Tore Monaco, MATCHWINNER vs Paraguay Nov-25 (88. Min 1:2-Sieg). Pochettino-Setup mit Balogun als zentralem 9er. Fair ~50%, impl. 41.7%. Edge ~8-10%. CBS 'top model lean'."
     },
     {
-      "rang": 5,
-      "spiel_id": "2026-06-12-can-bih",
-      "spiel": "Kanada vs Bosnien-Herzegowina (WM Gruppe B, Toronto BMO Field, 21:00)",
-      "markt": "Jonathan David Torschuetze Jederzeit",
-      "kategorie": "value",
-      "quote": 2.85,
-      "empfohlener_einsatz_prozent": 1.0,
-      "empfohlener_einsatz_euro": 5.5,
-      "kurz_begruendung": "Markt-Goldgrube Torschuetzen Jederzeit + Form-Edge-Pflicht: David 39 NT-Tore Allzeit Topscorer Canada, 14 Serie-A-Tore Juventus, Elfmeterschuetze. Heim-Eroeffnung + ohne Davies trotzdem focal-9er. Einwechslungs-Boost-Setup via Larin. Fair ~45-50%, impl. 35.1%. Edge ~10-15%."
-    },
-    {
-      "rang": 6,
+      "rang": 3,
       "spiel_id": "2026-06-12-usa-par",
       "spiel": "USA vs Paraguay (WM Gruppe D, SoFi LA, 03:00 Sa)",
       "markt": "Christian Pulisic Torschuetze Jederzeit",
@@ -278,18 +245,7 @@
       "kurz_begruendung": "Markt-Goldgrube Torschuetzen + Form-Edge: Pulisic 14 Serie-A-Tore Karriere-Hoch, 33 NT-Tore Captain, 2022 WM-Eroeffnungs-Hammer Iran. Heim 70k SoFi. Fair ~40%, impl. 32.3%. Edge ~6-8%. CBS 'top model lean'."
     },
     {
-      "rang": 7,
-      "spiel_id": "2026-06-12-can-bih",
-      "spiel": "Kanada vs Bosnien-Herzegowina (WM Gruppe B, Toronto BMO Field, 21:00)",
-      "markt": "Beide Teams treffen — Nein",
-      "kategorie": "wackel",
-      "quote": 1.85,
-      "empfohlener_einsatz_prozent": 0.5,
-      "empfohlener_einsatz_euro": 2.75,
-      "kurz_begruendung": "Pseudo-Hedge zu David-Tor: bei 1:0/2:0 Canada laeuft Unter + BTTS-Nein + David-Tor. Bosnien-Offensiv: nur 1 Tor je 1:1, Pre-WM 0:0 Ungarn, Dzeko 40 in 2. Bundesliga 25/26. Konsens 55% BTTS-Nein. Quote nicht via Pinnacle verifiziert -> max WACKEL."
-    },
-    {
-      "rang": 8,
+      "rang": 4,
       "spiel_id": "2026-06-12-usa-par",
       "spiel": "USA vs Paraguay (WM Gruppe D, SoFi LA, 03:00 Sa)",
       "markt": "Unter 2.5 Tore (Gesamt)",
@@ -311,12 +267,6 @@
       "empfohlener_einsatz_euro": 11.0,
       "beine": [
         {
-          "spiel_id": "2026-06-12-can-bih",
-          "markt": "Kanada vs Bosnien-Herzegowina: Kanada Sieg (90 Min)",
-          "quote": 1.83,
-          "spiel_titel": "Kanada vs Bosnien-Herzegowina"
-        },
-        {
           "spiel_id": "2026-06-12-usa-par",
           "markt": "USA vs Paraguay: USA Sieg (90 Min)",
           "quote": 1.9,
@@ -324,8 +274,8 @@
         }
       ],
       "begruendung": "Layer-2-konform: Sieg-Outcomes beide nur in dieser Kombi. Beide Heim-Co-Gastgeber mit Klassen-Edge + 2:0-Insurance (WM 2026 in CLAUDE.md aufgenommen). Mini-Slate-Realitaet: bei nur 2 Spielen + Layer-1 (max 1 Bein/Spiel) ist 2-Bein-Maximum erreichbar — daher 3.48x statt 5x SAFE-Ziel ehrlich akzeptiert. Beide 1.83/1.90-Heim-Favoriten -> ~50%-Kombi-Hitrate. Bei Mexico 2:0 RSA gestern bestaetigt sich Heim-Co-Gastgeber-Pattern.",
-      "gesamtquote": 3.48,
-      "rechnung": "1.83 x 1.90 = 3.48"
+      "gesamtquote": 1.9,
+      "rechnung": "1.90 = 1.9"
     },
     {
       "id": "kombi-balance",
@@ -337,12 +287,6 @@
       "empfohlener_einsatz_euro": 4.4,
       "beine": [
         {
-          "spiel_id": "2026-06-12-can-bih",
-          "markt": "Kanada vs Bosnien-Herzegowina: Jonathan David Torschuetze Jederzeit",
-          "quote": 2.85,
-          "spiel_titel": "Kanada vs Bosnien-Herzegowina"
-        },
-        {
           "spiel_id": "2026-06-12-usa-par",
           "markt": "USA vs Paraguay: Folarin Balogun Torschuetze Jederzeit",
           "quote": 2.4,
@@ -350,8 +294,8 @@
         }
       ],
       "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (50%/+24.4% ROI) konzentriert. David 39 NT-Tore + Heim-Eroeffnung. Balogun matchwinner gg Paraguay Nov-25, focal-9er Pochettino. Layer-1: max 1 Bein/Spiel ✓. Layer-2: keine Sieg-Outcomes ✓ (Hedge zu Safe — wenn ein Team verliert aber Stuermer trifft kann Balance gewinnen waehrend Safe-Bein faellt). Layer-3: andere Spieler als Risiko/Moonshot ✓. Kombi-Hitrate ~22-25%.",
-      "gesamtquote": 6.84,
-      "rechnung": "2.85 x 2.40 = 6.84"
+      "gesamtquote": 2.4,
+      "rechnung": "2.40 = 2.4"
     },
     {
       "id": "kombi-risiko",
@@ -367,17 +311,11 @@
           "markt": "USA vs Paraguay: Christian Pulisic Erster Torschuetze",
           "quote": 9.0,
           "spiel_titel": "USA vs Paraguay"
-        },
-        {
-          "spiel_id": "2026-06-12-can-bih",
-          "markt": "Kanada vs Bosnien-Herzegowina: Edin Dzeko Torschuetze Jederzeit",
-          "quote": 3.5,
-          "spiel_titel": "Kanada vs Bosnien-Herzegowina"
         }
       ],
       "begruendung": "Risiko-Spass-Bein: Pulisic-Eroeffnungs-Hammer-These (analog 2022 WM Iran-Tor) + Bosnien-Upset-Hedge (3x 1:1 Top-Gegner in Quali = mental gefestigt, Dedic Bayern-CL-Erfahrung). Markt-Boykott-Konform: Erster Torschuetze nur in Risiko/Moonshot erlaubt (CLAUDE.md WM-Sonderregeln). Layer-1: verschiedene Spiele ✓. Layer-2: Bosnien-Sieg ≠ Canada-Sieg (Safe), nicht doppelt ✓. Hitrate ~3-5%. [Korrektur: Bosnia-Sieg von Mapper Layer-3 entfernt wg Sieg-Outcome-Doppel mit Safe — durch Dzeko-Tor (40-Jahre-WM-Lotto-Bein, Bosnia einziger Top-5-Liga-Erfahrener im 9er-Profil) ersetzt. Layer-1+2+3 sauber.]",
-      "gesamtquote": 31.5,
-      "rechnung": "9.00 x 3.50 = 31.5"
+      "gesamtquote": 9.0,
+      "rechnung": "9.00 = 9.0"
     },
     {
       "id": "kombi-moonshot",
@@ -462,12 +400,18 @@
     "warns": [
       {
         "art": "torschuetze_quelle_fehlt",
-        "tipp_ids": ["2026-06-12-can-bih:ez-3", "2026-06-12-usa-par:ez-2", "2026-06-12-usa-par:ez-3"],
+        "tipp_ids": [
+          "2026-06-12-can-bih:ez-3",
+          "2026-06-12-usa-par:ez-2",
+          "2026-06-12-usa-par:ez-3"
+        ],
         "details": "J. David / Balogun / Pulisic Torschuetzen-Tipps haben kein direkt verlinkte Vereins-Player-Page (transfermarkt/kicker/espn-player). Begruendung-Form-Stats bleiben textlich plausibel, aber Mapper-Hartregel haelt diese auf max wackel — bereits korrekt klassifiziert."
       },
       {
         "art": "pinnacle_nicht_verifiziert",
-        "tipp_ids": ["alle SAFE/VALUE-Kandidaten"],
+        "tipp_ids": [
+          "alle SAFE/VALUE-Kandidaten"
+        ],
         "details": "Keine Pinnacle-Edge-Pruefung durchgefuehrt (sportsgambler nicht aufgerufen). Routine hat korrekt KEIN SAFE-Label gesetzt — saemtliche Top-Tipps max VALUE. Hartregel ab 27.04. eingehalten."
       },
       {
