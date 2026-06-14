@@ -221,7 +221,7 @@
       "kontext_check_status": "OK"
     },
     {
-      "id": "2026-05-12-cle-det",
+      "id": "2026-05-11-cle-det",
       "liga": "NBA Playoffs Round 2, Game 4",
       "heim": "Cleveland Cavaliers",
       "gast": "Detroit Pistons",
@@ -256,7 +256,7 @@
       "_recherche_fehlt": true
     },
     {
-      "id": "2026-05-12-lal-okc",
+      "id": "2026-05-11-lal-okc",
       "liga": "NBA Playoffs Round 2, Game 4",
       "heim": "Los Angeles Lakers",
       "gast": "Oklahoma City Thunder",
@@ -296,7 +296,7 @@
     {
       "id": "et-1",
       "spiel": "Cleveland Cavaliers - Detroit Pistons",
-      "spiel_id": "2026-05-12-cle-det",
+      "spiel_id": "2026-05-11-cle-det",
       "kategorie": "value",
       "markt": "Cleveland Cavaliers Sieg (Moneyline)",
       "quote": 1.59,
@@ -308,7 +308,7 @@
     {
       "id": "et-2",
       "spiel": "Oklahoma City Thunder - Los Angeles Lakers",
-      "spiel_id": "2026-05-12-lal-okc",
+      "spiel_id": "2026-05-11-lal-okc",
       "kategorie": "value",
       "markt": "Oklahoma City Thunder Sieg (Moneyline)",
       "quote": 1.19,
@@ -392,7 +392,7 @@
     {
       "id": "et-10",
       "spiel": "Cleveland Cavaliers - Detroit Pistons",
-      "spiel_id": "2026-05-12-cle-det",
+      "spiel_id": "2026-05-11-cle-det",
       "kategorie": "wackel",
       "markt": "Ueber 213.5 Punkte",
       "quote": 1.91,
@@ -404,7 +404,7 @@
     {
       "id": "et-11",
       "spiel": "Oklahoma City Thunder - Los Angeles Lakers",
-      "spiel_id": "2026-05-12-lal-okc",
+      "spiel_id": "2026-05-11-lal-okc",
       "kategorie": "wackel",
       "markt": "OKC -10.5 (Spread/Handicap)",
       "quote": 1.91,
@@ -437,7 +437,7 @@
           "spiel_titel": "Rayo Vallecano - Girona FC"
         },
         {
-          "spiel_id": "2026-05-12-lal-okc",
+          "spiel_id": "2026-05-11-lal-okc",
           "markt": "Oklahoma City Thunder - Los Angeles Lakers: Oklahoma City Thunder Sieg (Moneyline)",
           "quote": 1.19,
           "begruendung": "Doncic out + OKC 7-0 Playoffs. Implied 84%. HR22 Star-OUT-Implosion -> Auswaerts-ML als VALUE. NBA nie SAFE -> als Kombi-Bein VALUE-Stuetze.",
@@ -464,7 +464,7 @@
           "spiel_titel": "Rayo Vallecano - Girona FC"
         },
         {
-          "spiel_id": "2026-05-12-cle-det",
+          "spiel_id": "2026-05-11-cle-det",
           "markt": "Cleveland Cavaliers - Detroit Pistons: Ueber 213.5 Punkte",
           "quote": 1.91,
           "begruendung": "Serie 3/3 Spiele >210 Pkt, Cavs Heim hochskoring - Total-Bein zur Diversifikation gegen reine Sieg-These.",
@@ -498,7 +498,7 @@
           "spiel_titel": "Rayo Vallecano - Girona FC"
         },
         {
-          "spiel_id": "2026-05-12-cle-det",
+          "spiel_id": "2026-05-11-cle-det",
           "markt": "Cleveland Cavaliers - Detroit Pistons: Detroit Pistons +3.5 (Spread/Handicap)",
           "quote": 1.91,
           "begruendung": "Anti-These zu Safe-These (DC Spurs / Ueber Goals / OKC Win) und Balance-These (Cavs Total Ueber). Pistons 2-1-Fuehrung, Cunningham/Duren in Form - knappe Niederlage oder Sieg im 3.5-Korridor wahrscheinlich. HR19-Spread-Risiko bei 3.5 (knapper Spread) im akzeptablen Bereich.",

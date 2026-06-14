@@ -4,7 +4,7 @@
   "hinweis": "SINGLE-EVENT-TAG (Freitag, Saisonende-Sommerpause-Modus) - Master-Tipps-Routine-Lauf via GitHub-Action (Pipeline Mo-Fr nach Recherche-Cloud-Routine 13:55). Pruefung Zeitfenster Fr 13:30 - Sa 13:30: GENAU 1 In-Scope-Spiel terminiert = NBA Finals 2026 Game 2 New York Knicks @ San Antonio Spurs (Frost Bank Center San Antonio), Tip-off Fr 05.06 8:30 PM ET = Sa 06.06 02:30 Berlin. football-data.org global + Range 05.06-09.06 = 0 In-Scope-Fussball-Spiele (alle Top-5-Klub-Ligen + Domestic-Cups + UEFA-Klub-Saison seit 16.-30.05 durch, CL-Final PSG-Arsenal 30.05 i.E. 4-3, BL 2026-27 Saisonstart 28.08). Internationale Friendlies/WM-Vorbereitung (FIFA WM 2026 startet 11.06 USA/Mexico/Kanada) bewusst NICHT bespielt - Nationalteam-Markt n=0, kein Tool-Edge. Serien-Stand: Knicks fuehren 1-0 nach 105:95-Auswaertssieg in G1 (Spurs-G7-Hangover-These voll validiert, Wemby 6/21 FG = 28.6% drittschlechteste Saisoneffizienz, Knicks 11-0-Closing-Run Q4 mit Brunson 30/13). G2-Konstellation: Spurs MUSS-Sieg-Heim-Modus (0-2 fast Series-Death-Sentence, NBA-Finals-0-2-Comebacks nur 7.7% historisch), Spurs 1 Tag Rest gleich wie Knicks (Paritaet), Wemby-Bounce-Back-Druck (Spurs.com 3-Things-to-Watch: 'play big on both ends'). Markt-Linie: Spurs ML -225 (1.44), Knicks ML +185 (2.85), Spread Spurs -5.5 (1.91), Total 214.5 (1.91/1.91). Single-Event-Tag-Hartregel (Lessons 19./21./26./28.05./03.06): KEINE Kombis - jede Kombi waere Single-Game-Korrelation = SPOF; stattdessen 2 unkorrelierte WACKEL-Einzeltipps je 0.5%-Stake als Pseudo-Hedge (Spurs Sieg + Unter Total = beide gewinnen bei 105:100-Defensiv-Schlacht). NBA-Playoff-Hartregel Hebel B: NIE SAFE bei Decider/Finals -> max WACKEL fuer Sieg/Spread/Total. Player-Punkte/DD/TD-Boykott aktiv (Lesson 26.04, n=17 mit 5/17 Hitrate -46.2% ROI) - kein Brunson-/Wemby-/Towns-/Harper-/Castle-Punkte-Tipp obwohl Linien (Harper 13+ -112, KAT 4+ Ast -133) markt-aktiv. Einzel-Rebounds/Assists in DE verboten (CLAUDE.md Section 'Verboten in DE'). Liga-Goldgrube-Status: NBA Finals NICHT in data/liga_goldgruben.json (Goldgruben aktuell: EL HF Rueck / NBA R2 G2 / CL HF Hinspiel) -> Hebel C downgraded SAFE-DC automatisch auf VALUE (irrelevant da Hebel B sowieso kein SAFE). Markt-Goldgrube fuer NBA-Total/Sieg/Spread nicht in markt_goldgruben.json (Goldgruben: DC 1X/X2 Fussball, Unter 2.5 Tore Fussball, Torschuetzen Jederzeit Fussball - alle irrelevant heute). Pinnacle-Hartregel: sportsgambler.com HTTP 403 6. Tag in Folge (31.05/01.06/02.06/03.06/04.06/05.06) -> Default max WACKEL bis Pinnacle-Verifikation wieder moeglich. Kasse 550 EUR (Stufe 1 Aufbau, Stand 04.05.26). 2:0-Insurance + Einwechslungs-Boost heute nicht anwendbar (kein In-Scope-Fussball). Aktive Lessons: 03.06 Spurs-G7-Hangover-Fenster <= G1 abgelaufen (Spurs ab G2 wieder voll regeneriert, Hangover-These KEIN G2-Argument mehr), 03.06 Defense-System-Edge-Star-Bench-Comeback-Korridor (Wemby-Bench-Phasen waren Knicks-Comeback-Vehikel - Unter-Total-Markt-Goldgrube-Kandidat), 03.06 Mini-Spiele-Tag-Pseudo-Hedge-Validierung-n2 (2-Tipp-Konzentrations-Strategie statt All-In oder Kombi-Spread).",
   "spiele": [
     {
-      "id": "2026-06-06-sas-nyk",
+      "id": "2026-06-05-sas-nyk",
       "liga": "NBA Finals 2026 Game 2",
       "heim": "San Antonio Spurs",
       "gast": "New York Knicks",
@@ -45,7 +45,7 @@
   ],
   "einzeltipps": [
     {
-      "spiel_id": "2026-06-06-sas-nyk",
+      "spiel_id": "2026-06-05-sas-nyk",
       "spiel_label": "NBA Finals G2: Spurs vs Knicks (Fr-Nacht/Sa 02:30 Berlin)",
       "kategorie": "wackel",
       "markt": "San Antonio Spurs Sieg",
@@ -56,7 +56,7 @@
       "rang": 1
     },
     {
-      "spiel_id": "2026-06-06-sas-nyk",
+      "spiel_id": "2026-06-05-sas-nyk",
       "spiel_label": "NBA Finals G2: Spurs vs Knicks (Fr-Nacht/Sa 02:30 Berlin)",
       "kategorie": "wackel",
       "markt": "Unter 214.5 Punkte (Gesamt)",
