@@ -1,37 +1,37 @@
 {
-  "letzte_berechnung": "2026-06-13T07:12:41+00:00",
+  "letzte_berechnung": "2026-06-14T07:10:52+00:00",
   "gesamt": {
-    "tipps": 338,
-    "gewonnen": 184,
-    "verloren": 143,
+    "tipps": 344,
+    "gewonnen": 187,
+    "verloren": 146,
     "push": 2,
     "offen": 9,
-    "einsatz": 329.0,
-    "netto": 25.09,
-    "trefferquote": 56.3,
-    "roi_prozent": 7.6
+    "einsatz": 335.0,
+    "netto": 31.47,
+    "trefferquote": 56.2,
+    "roi_prozent": 9.4
   },
   "letzte_30_tage": {
-    "tipps": 120,
-    "gewonnen": 58,
-    "verloren": 51,
+    "tipps": 119,
+    "gewonnen": 59,
+    "verloren": 49,
     "push": 2,
     "offen": 9,
-    "einsatz": 111.0,
-    "netto": 6.97,
-    "trefferquote": 53.2,
-    "roi_prozent": 6.3
+    "einsatz": 110.0,
+    "netto": 10.15,
+    "trefferquote": 54.6,
+    "roi_prozent": 9.2
   },
   "letzte_90_tage": {
-    "tipps": 338,
-    "gewonnen": 184,
-    "verloren": 143,
+    "tipps": 344,
+    "gewonnen": 187,
+    "verloren": 146,
     "push": 2,
     "offen": 9,
-    "einsatz": 329.0,
-    "netto": 25.09,
-    "trefferquote": 56.3,
-    "roi_prozent": 7.6
+    "einsatz": 335.0,
+    "netto": 31.47,
+    "trefferquote": 56.2,
+    "roi_prozent": 9.4
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -550,6 +550,50 @@
       "netto": 0.3,
       "trefferquote": 50.0,
       "roi_prozent": 7.5
+    },
+    "FIFA World Cup 2026 - Gruppe B - Spieltag 1": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "FIFA World Cup 2026 - Gruppe C - Spieltag 1": {
+      "tipps": 3,
+      "gewonnen": 2,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 4.45,
+      "trefferquote": 66.7,
+      "roi_prozent": 148.3
+    },
+    "FIFA World Cup 2026 - Gruppe D - Spieltag 1": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "NBA Finals Game 5 (Best of 7)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.93,
+      "trefferquote": 100.0,
+      "roi_prozent": 193.0
     }
   },
   "nach_markt": {
@@ -3434,6 +3478,72 @@
       "netto": -1.0,
       "trefferquote": 0.0,
       "roi_prozent": -100.0
+    },
+    "Schweiz Sieg (1X2)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Brasilien Sieg (1X2)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Schottland Sieg (1X2)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.45,
+      "trefferquote": 100.0,
+      "roi_prozent": 145.0
+    },
+    "Vinicius Junior trifft jederzeit (Brasilien)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 3.0,
+      "trefferquote": 100.0,
+      "roi_prozent": 300.0
+    },
+    "Tuerkei Sieg (1X2)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Unter 216.5 Gesamtpunkte (FT)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.93,
+      "trefferquote": 100.0,
+      "roi_prozent": 193.0
     }
   },
   "nach_markt_typ": {
@@ -3449,15 +3559,15 @@
       "roi_prozent": 4.7
     },
     "Spieler-Punkte Unter (NBA)": {
-      "tipps": 13,
-      "gewonnen": 5,
+      "tipps": 14,
+      "gewonnen": 6,
       "verloren": 8,
       "push": 0,
       "offen": 0,
-      "einsatz": 13.0,
-      "netto": 0.54,
-      "trefferquote": 38.5,
-      "roi_prozent": 4.2
+      "einsatz": 14.0,
+      "netto": 2.47,
+      "trefferquote": 42.9,
+      "roi_prozent": 17.6
     },
     "Paolo Banchero Double-Double": {
       "tipps": 1,
@@ -3482,26 +3592,26 @@
       "roi_prozent": 55.0
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 105,
-      "gewonnen": 63,
-      "verloren": 41,
+      "tipps": 109,
+      "gewonnen": 64,
+      "verloren": 44,
       "push": 0,
       "offen": 1,
-      "einsatz": 104.0,
-      "netto": 7.49,
-      "trefferquote": 60.6,
-      "roi_prozent": 7.2
+      "einsatz": 108.0,
+      "netto": 8.94,
+      "trefferquote": 59.3,
+      "roi_prozent": 8.3
     },
     "Torschuetzen Jederzeit": {
-      "tipps": 54,
-      "gewonnen": 20,
+      "tipps": 55,
+      "gewonnen": 21,
       "verloren": 32,
       "push": 2,
       "offen": 0,
-      "einsatz": 54.0,
-      "netto": 7.62,
-      "trefferquote": 38.5,
-      "roi_prozent": 14.1
+      "einsatz": 55.0,
+      "netto": 10.62,
+      "trefferquote": 39.6,
+      "roi_prozent": 19.3
     },
     "Unter 2.5 Tore": {
       "tipps": 18,
@@ -3924,15 +4034,15 @@
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 169,
-      "gewonnen": 86,
-      "verloren": 78,
+      "tipps": 172,
+      "gewonnen": 87,
+      "verloren": 80,
       "push": 1,
       "offen": 4,
-      "einsatz": 165.0,
-      "netto": 11.25,
-      "trefferquote": 52.4,
-      "roi_prozent": 6.8
+      "einsatz": 168.0,
+      "netto": 13.18,
+      "trefferquote": 52.1,
+      "roi_prozent": 7.8
     },
     "2.00-3.00": {
       "tipps": 42,
@@ -3946,61 +4056,61 @@
       "roi_prozent": 4.2
     },
     "1.00-1.50": {
-      "tipps": 111,
-      "gewonnen": 77,
-      "verloren": 30,
+      "tipps": 113,
+      "gewonnen": 78,
+      "verloren": 31,
       "push": 0,
       "offen": 4,
-      "einsatz": 107.0,
-      "netto": 6.55,
-      "trefferquote": 72.0,
-      "roi_prozent": 6.1
+      "einsatz": 109.0,
+      "netto": 8.0,
+      "trefferquote": 71.6,
+      "roi_prozent": 7.3
     },
     "3.00+": {
-      "tipps": 16,
-      "gewonnen": 5,
+      "tipps": 17,
+      "gewonnen": 6,
       "verloren": 11,
       "push": 0,
       "offen": 0,
-      "einsatz": 16.0,
-      "netto": 5.55,
-      "trefferquote": 31.2,
-      "roi_prozent": 34.7
+      "einsatz": 17.0,
+      "netto": 8.55,
+      "trefferquote": 35.3,
+      "roi_prozent": 50.3
     }
   },
   "nach_kategorie": {
     "safe": {
-      "tipps": 73,
+      "tipps": 74,
       "gewonnen": 50,
-      "verloren": 23,
+      "verloren": 24,
       "push": 0,
       "offen": 0,
-      "einsatz": 73.0,
+      "einsatz": 74.0,
       "netto": 0.98,
-      "trefferquote": 68.5,
+      "trefferquote": 67.6,
       "roi_prozent": 1.3
     },
     "value": {
-      "tipps": 203,
-      "gewonnen": 106,
-      "verloren": 86,
+      "tipps": 206,
+      "gewonnen": 108,
+      "verloren": 87,
       "push": 2,
       "offen": 9,
-      "einsatz": 194.0,
-      "netto": 17.98,
-      "trefferquote": 55.2,
-      "roi_prozent": 9.3
+      "einsatz": 197.0,
+      "netto": 22.43,
+      "trefferquote": 55.4,
+      "roi_prozent": 11.4
     },
     "wackel": {
-      "tipps": 62,
-      "gewonnen": 28,
-      "verloren": 34,
+      "tipps": 64,
+      "gewonnen": 29,
+      "verloren": 35,
       "push": 0,
       "offen": 0,
-      "einsatz": 62.0,
-      "netto": 6.13,
-      "trefferquote": 45.2,
-      "roi_prozent": 9.9
+      "einsatz": 64.0,
+      "netto": 8.06,
+      "trefferquote": 45.3,
+      "roi_prozent": 12.6
     }
   },
   "clv_gesamt": {
@@ -4042,6 +4152,243 @@
     }
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-06-13",
+      "gesamt": {
+        "tipps": 6,
+        "gewonnen": 3,
+        "verloren": 3,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 6.0,
+        "netto": 6.38,
+        "trefferquote": 50.0,
+        "roi_prozent": 106.3
+      },
+      "spiele": [
+        {
+          "id": "2026-06-13-qat-sui",
+          "liga": "FIFA World Cup 2026 - Gruppe B - Spieltag 1",
+          "heim": "Katar",
+          "gast": "Schweiz",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Schweiz Sieg (1X2)",
+              "quote": 1.3,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Schweiz nur 1:0 Fuehrung, kein 2:0-Insurance-Auslosen - Khoukhi-Kopfball-Equalizer 90+4 sicherte Katar den ersten WM-Punkt der Geschichte."
+            }
+          ]
+        },
+        {
+          "id": "2026-06-13-bra-mar",
+          "liga": "FIFA World Cup 2026 - Gruppe C - Spieltag 1",
+          "heim": "Brasilien",
+          "gast": "Marokko",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Vinicius Junior trifft jederzeit (Brasilien)",
+              "quote": 3.0,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 3.0,
+              "kommentar": "Vinicius Jr 32' Top-Corner-Strike - klassischer Real-Madrid-Form-Edge realisiert. Torschuetzen-Goldgrube validiert."
+            },
+            {
+              "markt": "Brasilien Sieg (1X2)",
+              "quote": 1.57,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "1:1 Remis - Brasilien Sieg verloren, keine 2:0-Insurance (Brasilien fuehrte nie). Marokko-Defensiv-Block (2022-HF) widerlegte Top5-Klassen-Edge."
+            }
+          ]
+        },
+        {
+          "id": "2026-06-13-sas-nyk-g5",
+          "liga": "NBA Finals Game 5 (Best of 7)",
+          "heim": "San Antonio Spurs",
+          "gast": "New York Knicks",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Unter 216.5 Gesamtpunkte (FT)",
+              "quote": 1.93,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.93,
+              "kommentar": "Total 184 (90+94) deutlich unter 216.5 - NBA-Decider-Defensiv-Goldgrube G5 HIT (Track 4/5 = 80% in Finals)."
+            }
+          ]
+        },
+        {
+          "id": "2026-06-13-hai-sco",
+          "liga": "FIFA World Cup 2026 - Gruppe C - Spieltag 1",
+          "heim": "Haiti",
+          "gast": "Schottland",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Schottland Sieg (1X2)",
+              "quote": 1.45,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.45,
+              "kommentar": "Schottland 1:0 Sieg durch McGinn 28' - erster WM-Sieg seit 1990. Klassen-Edge-Sieg-These bestaetigt."
+            }
+          ]
+        },
+        {
+          "id": "2026-06-13-aus-tur",
+          "liga": "FIFA World Cup 2026 - Gruppe D - Spieltag 1",
+          "heim": "Australien",
+          "gast": "Tuerkei",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Tuerkei Sieg (1X2)",
+              "quote": 1.8,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Australien 2:0 Sieg ueber Tuerkei - Coinflip-Risiko realisiert. Calhanoglu spielte trotz Mueidigkeits-Warnung aber Tuerkei-Offensive ohne Durchschlagskraft."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi WM-Klassen-Edge 3er-Sieg ~2.96x",
+          "kategorie": "safe",
+          "gesamtquote": 2.96,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Katar vs Schweiz: Schweiz Sieg (1X2)",
+              "quote": 1.3,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Haiti vs Schottland: Schottland Sieg (1X2)",
+              "quote": 1.45,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Brasilien vs Marokko: Brasilien Sieg (1X2)",
+              "quote": 1.57,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi Mixed-Markets Tor/Sieg/NBA ~10.42x",
+          "kategorie": "balance",
+          "gesamtquote": 10.42,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Australien vs Tuerkei: Tuerkei Sieg (1X2)",
+              "quote": 1.8,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Brasilien vs Marokko: Vinicius Jr trifft jederzeit",
+              "quote": 3.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Spurs vs Knicks NBA Finals G5: Unter 216.5 Gesamtpunkte (FT)",
+              "quote": 1.93,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi Markt-Mix Tor-Total + NBA-Sieg ~16.3x",
+          "kategorie": "risk",
+          "gesamtquote": 16.28,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Brasilien vs Marokko: Ueber 2.5 Tore",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Australien vs Tuerkei: Ueber 2.5 Tore",
+              "quote": 2.05,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Haiti vs Schottland: Ueber 2.5 Tore",
+              "quote": 2.1,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Katar vs Schweiz: Schweiz Ueber 1.5 Tore",
+              "quote": 1.4,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Spurs vs Knicks NBA Finals G5: San Antonio Spurs Heimsieg",
+              "quote": 1.46,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi Underdog-Tore + Schwellen ~46x",
+          "kategorie": "moonshot",
+          "gesamtquote": 46.37,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Katar vs Schweiz: Katar trifft jederzeit (Almoez Ali / Akram Afif)",
+              "quote": 3.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Haiti vs Schottland: Haiti trifft jederzeit",
+              "quote": 2.3,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Brasilien vs Marokko: Ueber 3.5 Tore",
+              "quote": 3.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Australien vs Tuerkei: Beide Teams treffen (BTTS Ja)",
+              "quote": 2.1,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-06-12",
       "gesamt": {
