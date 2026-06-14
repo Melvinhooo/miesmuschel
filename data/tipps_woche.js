@@ -1,807 +1,950 @@
 // Auto-generiert
 window.__MIESMUSCHEL_TIPPS_WOCHE = {
-  "datum": "2026-06-08",
-  "erstellt_am": "2026-06-07T18:00:00+02:00",
-  "hinweis": "Wochen-Vorschau Mo 08.06. bis So 14.06.2026 - DIE WOCHE in der die WM-2026 startet! 16 In-Scope-Spiele: 5 letzte WM-Test-Friendlies Mo-Mi (Liga-Goldgrube 85.7% HR / +36.5% ROI), dann 9 WM-2026-Opening-Spiele Do-So (Mexico-South Africa Do 21:00 Berlin im Azteca = Eroeffnung, dann USA-Paraguay Sa nacht, Brazil-Morocco Sa nacht, Germany-Curacao So 19:00, etc.), plus NBA-Finals G3 Tu 02:30 + G4 Th 02:30 Berlin (Knicks fuehren 2-0). Best-of-Charakter: 12 Top-Picks (nicht 25 Volumen), 4 Kombis mit Layer-1/2/3-Diversifikation. Goldgruben aktiv gesucht: Markt 'Ueber 2.5 Tore' +29% / 'Unter 2.5' +39.9% / 'Torschuetzen Jederzeit' +23.4% / Liga 'WM-Test' 85.7%. WM-Spiele NICHT in Liga-Goldgrube - SAFE-Cap durch Mapper-Hebel C (max VALUE wenn Markt-Typ ebenfalls nicht Goldgrube). NBA-Finals KEIN SAFE (Mapper-Hebel B) + KEIN Player-Punkt-Einzeltipp (HR16 seit 26.04.). Quoten 7d vorher VOLATIL - viele Tipps mit '~' und verifiziert via Aggregator-Konsens (Squawka/BetMGM/Sportskeeda/Oddschecker/FanDuel). Kasse 550 EUR Stufe 1 (Aufbau). Pflicht-Profile pro Spiel beachtet: bei jedem Heim-Favorit (<1.80) MIN 1 Torschuetzen + Sieg/DC-Tipp. Lessons 24.05 (Vinicius-Vereinssperre als Roster-Falle) + 06.06 (Klassen-Edge realisiert sich als Sieg statt Tor-Anzahl bei B-Elf-Schon) + 07.06 (Boost-Massen-HZ-Sub-Falle + Ueber25-WM-Test-80pct-Validation) eingearbeitet.",
+  "datum": "2026-06-15",
+  "erstellt_am": "2026-06-14T19:30:00+02:00",
+  "hinweis": "WATCHDOG-RECOVERY 19:30: Hauptroutine 18:00 fiel aus, Watchdog hat Wochen-Vorschau komplett nachgeholt. Wochen-Vorschau Mo 15.06. bis So 21.06.2026 - WM 2026 in voller Fahrt! 16 In-Scope-Spiele: 7 letzte Spieltag-1-Spiele Mo-Mi (Spanien-Kap Verde Mo, Iran-NZ Mo, Belgien-Aegypten Mo, Frankreich-Senegal Di, Norwegen-Irak Di, Portugal-Congo Mi, England-Kroatien Mi) + 9 erste Spieltag-2-Spiele Do-Sa (Schweiz-Bosnien Do, Mexico-Korea Do, Tschechien-Suedafrika Do, USA-Australien Fr, Schottland-Marokko Fr, Brasilien-Haiti Fr, Niederlande-Schweden Sa, Deutschland-Elfenbeinkueste Sa, Tunesien-Japan Sa). NBA Finals beendet (Knicks 4-1 nach G5 13.06., kein NBA-Bezug mehr). Klub-Saison komplett vorbei, alle Spieler 4+ Wochen Erholung + WM-Trainingscamp. 2:0-Insurance + Einwechslungs-Boost (CLAUDE.md WM-Sonderregeln) bei jedem Sieg-Tipp aktiv. Best-of-Charakter: 12 Top-Picks (nicht 25 Volumen), 4 Kombis Safe ~5x / Balance ~14x / Risiko ~29x / Moonshot ~256x mit Layer-1/2/4-Diversifikation. Goldgruben aktiv gesucht: Markt 'Ueber 2.5 Tore' +23.4% ROI / 52.2% HR (n=25), 'Unter 2.5' +28.1% / 66.7% HR (n=18), 'DC X2' +20.3% / 73.3% HR (n=17), 'Torschuetzen Jederzeit' +19.3% ROI / 39.6% HR (n=55). Markt-Bluter Spread/Handicap (-10.5% ROI) - GEMIEDEN bei SAFE/VALUE. WM-Spiele nicht in Liga-Goldgrube - SAFE-Cap durch Mapper-Hebel C (max VALUE wenn Markt-Typ nicht Goldgrube). Pflicht-Profile pro Spiel beachtet: bei jedem Heim-Favorit (<1.80) MIN 1 Torschuetzen + Sieg/DC-Tipp. Lessons 13.06. (WM-Eroeffnungs-Unter25-Top5Liga-Asymmetrie) + 14.06. (WM-Spieltag-1-Unter25-Dominanz-4-von-4-volle-Analyse-8g + Layer-4-Markt-Typ-Konzentration-Risiko-Kombi-0-von-5-Crash-8a + 2:0-Insurance-reicht-nicht-Equalizer-Risiko-8b) NEU eingearbeitet: Unter-2.5 in WM-Auftakt-Phase priorisiert (taktisch), Markt-Typ-Konzentration in Risiko-Kombi vermieden, Equalizer-Risiko bei Sieg-Tipps mit Insurance-Hedge im Hinterkopf. Kasse 550 EUR Stufe 1 (Aufbau). Quoten 1-7d vorher VOLATIL - viele Tipps mit '~' und verifiziert via Aggregator-Konsens (ESPN/FanDuel/Pinnacle/BetMGM/Squawka). Vor jedem Tipp Aufstellung 1h vor Anstoss bei bet365 live pruefen.",
   "spiele": [
     {
-      "id": "2026-06-08-fra-nir",
-      "liga": "Internationales Freundschaftsspiel (WM-Test)",
+      "id": "2026-06-15-esp-cpv",
+      "liga": "FIFA World Cup 2026 - Gruppe G - Spieltag 1",
+      "heim": "Spanien",
+      "gast": "Kap Verde",
+      "anstoss": "2026-06-15T18:00:00+02:00",
+      "stadion": "Mercedes-Benz Stadium, Atlanta (neutraler Platz)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM 2026 ist primaerer Wettbewerb, LaLiga-Saison beendet 25.05.",
+        "parallel_gast": "keine - WM 2026 ist primaerer Wettbewerb, Spieler primaer aus Portugal/Frankreich-2.Liga-Klubs in Pause",
+        "saisonziel_heim": "Mindestens Halbfinale - FIFA #2, Euro-2024-Sieger, De-la-Fuente-Aera mit Generation um Yamal (18) / Pedri (23) / Rodri / Olmo - Welt-Top-Favorit (4.50 fuer WM-Titel), Auftakt-Pflichtsieg gegen WM-Debuetant",
+        "saisonziel_gast": "Historisches WM-Debuet - FIFA #74, kleinstes Land in Gruppe G, Bubista-Coach, Achtelfinale waere Sensation, realistisches Ziel Erfahrung sammeln + nicht blamiert werden",
+        "motivations_asymmetrie": "Massive Klassen-Asymmetrie FIFA #2 vs #74 + Spanien Volle-Power-Auftakts-Pflicht + WM-Debuet-Nervositaet Kap Verde. Spanien-Sieg ist nicht 'ob' sondern 'wie hoch' - Quoten 1.18 vs 25.00 spiegeln das wider. Yamal-Status laufend (Oberschenkel-Frage aus Pre-WM-Tests), De-la-Fuente kann auf Olmo/Pedri/Ferran-Torres/Joselu-Achse zurueckgreifen.",
+        "recovery_heim": "Klub-Pause seit 25.05. (LaLiga-Finale) = ~3 Wochen Erholung + WM-Trainingscamp Puebla, Yamal Oberschenkel-Frage laufend",
+        "recovery_gast": "Lange Sammelphase - frisch, kein Pflichtspiel-Druck seit CAF-Quali-Abschluss",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+          "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket",
+          "https://www.toffeeweb.com/world-cup-fixtures/"
+        ]
+      },
+      "news": [
+        "Spanien 4-3-3 voraussichtlich: Simon; Carvajal, Le Normand, Inigo Martinez, Cucurella; Rodri, Pedri, Olmo; Yamal (falls fit) ODER Oyarzabal, Joselu, Ferran Torres.",
+        "Lamine Yamal Oberschenkel-Frage aus Pre-WM-Tests - falls raus, Oyarzabal/Williams als Alternative auf rechts, Ferran Torres als 9er-Backup.",
+        "Joselu (Al-Gharafa/Real Madrid) als nomineller 9er - 18 LaLiga-Tore 2025/26, Pflicht-Volume-Stuermer.",
+        "Kap Verde 4-4-2: Vozinha; Stopira, Roberto Lopes, Bebe, Logan Costa; Garry Rodrigues, Laros Duarte, Yannick Semedo, Bebeu; Jovane Cabral, Ryan Mendes.",
+        "H2H: keine Vorbegegnung - WM-Debuet Kap Verde.",
+        "Quoten via Aggregator-Konsens (ESPN/Pinnacle/Squawka 13.06.): Spanien 1.18 / X 7.50 / Kap Verde 25.00 - Ueber 2.5 ~1.55 / Spanien -2.5 Handicap ~2.10 / Ferran Torres Trifft ~2.40 / Yamal Trifft ~1.95 (falls fit).",
+        "Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI - VALUE-Range gut bespielbar.",
+        "Goldgrube-Markt 'Ueber 2.5 Tore' (+23.4% ROI, 52.2% HR, n=25): bei massiver Klassen-Edge + Auftakts-Pflichtsieg-Druck aktiv eingebaut."
+      ],
+      "tipps": [],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-06-16-irn-nzl",
+      "liga": "FIFA World Cup 2026 - Gruppe J - Spieltag 1",
+      "heim": "Iran",
+      "gast": "Neuseeland",
+      "anstoss": "2026-06-15T21:00:00+02:00",
+      "stadion": "SoFi Stadium, Inglewood CA (neutraler Platz)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM 2026 ist primaerer Wettbewerb",
+        "parallel_gast": "keine - WM 2026 ist primaerer Wettbewerb, A-League beendet",
+        "saisonziel_heim": "Achtelfinale-Quali (Pflicht aus Gruppe J neben Belgien als Achtelfinal-Sperre), FIFA #25, Ghalenoei-Coach, Achse um Mehdi Taremi (Inter Mailand) + Sardar Azmoun + Alireza Jahanbakhsh, 2-Tor-pro-Spiel-Quali-Schnitt",
+        "saisonziel_gast": "Gruppen-Phase-Wunder, FIFA #92, Hay-Coach, Oceania-Quali-Sieger - Chris Wood (Nottingham Forest) als Captain-Anker, kein realistischer Achtelfinal-Anspruch",
+        "motivations_asymmetrie": "Klassen-Edge Iran FIFA #25 vs NZ #92 + Heim-Kontext fuer Iran (Stamm-LA-Iran-Diaspora bei SoFi Stadium) + Iran-Achtelfinal-Druck nach 2022-Gruppen-Aus. NZ als Oceania-Quali-Sieger ohne Welt-Niveau-Erfahrung. Markt 1.85 vs 4.80 bestaetigt Klassen-Edge aber nicht Klassen-Festung.",
+        "recovery_heim": "Volle WM-Vorbereitung - frisch, Taremi Inter-Saison beendet 25.05.",
+        "recovery_gast": "Volle WM-Vorbereitung - lange Sammelphase, Wood frisch",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+          "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket"
+        ]
+      },
+      "news": [
+        "Iran 4-3-3: Beiranvand; Mohammadi, Hosseini, Pouraliganji, Moharrami; Ezatolahi, Noorollahi; Jahanbakhsh, Azmoun, Gholizadeh; Taremi.",
+        "Mehdi Taremi (Inter Mailand) - 12 Serie-A-Tore + 7 Champions-League-Tore 2025/26, Form-Anker, Pflicht-9er.",
+        "Neuseeland 5-4-1: Crocombe; Kovacevic, Boxall, Bell, Hooper, Reekers; Garbett, Bell, Stamenic, Just; Chris Wood.",
+        "Chris Wood (Nottingham Forest) - 15 PL-Tore 2025/26 trotz Forest-Mittelfeld-Tabelle, Stamm-9er.",
+        "H2H: 2 Begegnungen 2012 + 2017, 1 Iran-Sieg / 1 Remis - keine starke Pattern.",
+        "Quoten via Aggregator-Konsens (ESPN/BetMGM 13.06.): Iran 1.85 / X 3.40 / Neuseeland 4.80 - Ueber 2.5 ~2.05 / Unter 2.5 ~1.80 / Taremi Trifft ~2.10 / Wood Trifft ~3.50."
+      ],
+      "tipps": [],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-06-15-bel-egy",
+      "liga": "FIFA World Cup 2026 - Gruppe J - Spieltag 1",
+      "heim": "Belgien",
+      "gast": "Aegypten",
+      "anstoss": "2026-06-16T00:00:00+02:00",
+      "stadion": "Lumen Field, Seattle WA (neutraler Platz)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM 2026 ist primaerer Wettbewerb",
+        "parallel_gast": "keine - WM 2026 ist primaerer Wettbewerb, Egyptian Premier League noch laufend aber Stamm-Spieler in Klub-Pause (Liverpool/PSG/Galatasaray/Al-Nassr)",
+        "saisonziel_heim": "Mindestens Viertelfinale - FIFA #8, Tedesco-Coach, Generation um De Bruyne (34) / Lukaku / Doku / Tielemans - Achtelfinale-Pflicht aus Gruppe J",
+        "saisonziel_gast": "Achtelfinale (Pflicht-Hoffnung) - FIFA #29, Hossam Hassan-Coach, Salah-Mostafa-Mohamed-El-Solia-Achse, Wunder-Halbfinale wie 1934 nicht realistisch",
+        "motivations_asymmetrie": "Klassen-Edge Belgien FIFA #8 vs #29 + Salah-Last-Chance-WM (33) als gefaehrlicher Counter. Belgien als Top-10-Team Pflicht-Sieg-Anspruch aber Aegypten kein Underdog-Outsider sondern Top-Afrika-Team. Erwartet 1.50 vs 7.00 Quote = klar Belgien aber nicht trivial.",
+        "recovery_heim": "Volle WM-Vorbereitung, De Bruyne fit",
+        "recovery_gast": "Volle WM-Vorbereitung, Salah Liverpool-Saison beendet 25.05.",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+          "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket"
+        ]
+      },
+      "news": [
+        "Belgien 4-3-3: Casteels; Castagne, Faes, Theate, De Cuyper; Tielemans, Mangala, De Bruyne; Doku, Lukaku, Trossard.",
+        "Romelu Lukaku (Napoli) - 18 Serie-A-Tore 2025/26, Pflicht-9er-Form.",
+        "Kevin De Bruyne (Napoli) - Captain-Setpiece-Anker, 9 Serie-A-Assists.",
+        "Aegypten 4-2-3-1: El Shenawy; Hany, Hegazi, Mohamed Abdel, Hamdy Fathy; Mohamed Elneny, Trezeguet; Mohamed Salah, Marwan Attia, Mostafa Mohamed; Omar Marmoush.",
+        "Mohamed Salah (Liverpool) - 24 PL-Tore + 11 Assists 2025/26, Top-Form-Anker.",
+        "Omar Marmoush (Manchester City) - 14 PL-Tore + 8 Assists, Top-Backup-Stuermer.",
+        "Quoten via Aggregator-Konsens (ESPN/Pinnacle 13.06.): Belgien 1.50 / X 4.20 / Aegypten 7.00 - Ueber 2.5 ~1.70 / Salah Trifft ~2.10 / Lukaku Trifft ~2.00."
+      ],
+      "tipps": [],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-06-16-fra-sen",
+      "liga": "FIFA World Cup 2026 - Gruppe I - Spieltag 1",
       "heim": "Frankreich",
-      "gast": "Nordirland",
-      "anstoss": "2026-06-08T21:10:00+02:00",
-      "stadion": "Decathlon Arena Stade Pierre-Mauroy, Lille",
+      "gast": "Senegal",
+      "anstoss": "2026-06-16T21:00:00+02:00",
+      "stadion": "SoFi Stadium, Inglewood CA (neutraler Platz)",
       "saison_kontext": {
-        "parallel_heim": "keine (Nationalteam-Phase, Liga 1 beendet) - finaler WM-2026-Test vor Gruppe I (Frankreich 19.06. vs Iraq Auftakt)",
-        "parallel_gast": "keine (Nationalteam-Phase, kein WM, Nordirland erste-Mannschafts-Test)",
-        "saisonziel_heim": "WM-2026 Gruppe I (Frankreich, Iraq, Senegal, Norwegen) - FIFA #1 nominal, finaler Heim-Test vor WM-Abreise, will Form nach 1:2-Niederlage vs Cote d'Ivoire 05.06. ausbessern",
-        "saisonziel_gast": "Kein WM (gescheitert in Quali), FIFA #74, Wiederaufbau unter Coach Michael O'Neill, primaer junge Spieler-Probe ohne Pflichtspiel-Druck",
-        "motivations_asymmetrie": "Klare Klassen- und Motivations-Asymmetrie: Frankreich Heim-Test mit Form-Defekt-Reparatur (Cote d'Ivoire 1:2) + WM-Final-Vorbereitung + Mbappe will Tornpattern zementieren. Nordirland drucklos im Wiederaufbau-Modus - aber Rotations-Risiko bei franz. Stammspielern (Deschamps testet Plan B/C-Optionen 3 Tage vor WM-Abreise).",
-        "recovery_heim": "3 Tage seit Cote d'Ivoire-Test (1:2 Niederlage) - kurze Rotations-Phase, Mbappe/Dembele frisch, Verteidigung mit Konate-Frage",
-        "recovery_gast": "Lange Sammelphase - frisch nach Abschluss-Trainingscamp, junge Spieler erste Sommer-Tests",
+        "parallel_heim": "keine - WM 2026 ist primaerer Wettbewerb",
+        "parallel_gast": "keine - WM 2026 ist primaerer Wettbewerb",
+        "saisonziel_heim": "Mindestens Halbfinale (Final-Anspruch) - FIFA #1, Deschamps-Aera, Mbappe-Dembele-Olise-Camavinga-Achse, 2022-Final-Versohnung",
+        "saisonziel_gast": "Achtelfinale-Pflicht aus Gruppe I - FIFA #20, Aliou Cisse-Coach, Mane-Sabaly-Diallo-Achse, 2018/22-Achtelfinal-Stop-Wiederholung als Ziel",
+        "motivations_asymmetrie": "Klassen-Edge Frankreich FIFA #1 vs #20 aber nicht trivial - Senegal Afrika-Top + Mane Form-Anker. Frankreich verlor 1:2 vs Cote d'Ivoire 05.06., Mbappe in Top-Form (33 LaLiga-Tore). Asymmetrie klar zu Frankreich aber Quoten 1.42 vs 6.00 zeigen nicht 1.05-Festungs-Niveau - Tore-Festival-Risiko bei beidseitigen Volume-Stars.",
+        "recovery_heim": "Klub-Pause + WM-Trainingscamp - frisch",
+        "recovery_gast": "Klub-Pause + WM-Vorbereitung - frisch",
         "quellen": [
-          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/pre-tournament-warm-up-results-fixtures-scorers",
-          "https://www.sportskeeda.com/football/france-vs-northern-ireland-prediction-betting-tips-june-8th-2026",
-          "https://www.mightytips.com/football-predictions/france-vs-northern-ireland-prediction-08-06-2026/",
-          "https://www.irishnews.com/sport/soccer/france-vs-northern-ireland-friendly-2026-date-kick-off-time-and-ticket-info-EAEAPP3SNRBIDPA5KDUKOPVIJY/"
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+          "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket"
         ]
       },
       "news": [
-        "Frankreich 4-2-3-1 erwartet: Maignan; Kounde, Saliba, Konate, Theo Hernandez; Tchouameni, Camavinga; Olise, Dembele, Mbappe; Marcus Thuram.",
-        "Frankreich verlor 1:2 gegen Cote d'Ivoire am 05.06. - Deschamps unter Druck Form vor WM zu zementieren, Mbappe-Tornutzen-Anreiz hoch.",
-        "Kylian Mbappe Real-Madrid-Saison mit 33 Toren in La Liga (Pichichi-Preis) - in Top-Form vor WM, Heim-Spiel = volle 90 Min wahrscheinlich.",
-        "Nordirland Wiederaufbau-Squad ohne WM-Druck: Ferguson, Bradley (Liverpool), Saville, Charles - junges Test-Mid-Field.",
-        "Quoten via Aggregator-Konsens (Sportskeeda / MightyTips / DailySports 07.06.): Frankreich 1.14 / X 6.25 / Nordirland 15.00 - Ueber 2.5 ~1.65 / Mbappe Trifft ~1.50 / Frankreich -2.5 Handicap ~2.10."
+        "Frankreich 4-2-3-1: Maignan; Kounde, Saliba, Konate, Theo Hernandez; Tchouameni, Camavinga; Olise, Dembele, Mbappe; Marcus Thuram.",
+        "Kylian Mbappe (Real Madrid) - 33 LaLiga-Tore 2025/26 (Pichichi), Karriere-Top-Form, Pflicht-9er-Linker-Anker.",
+        "Senegal 4-3-3: Edouard Mendy; Sabaly, Koulibaly, Diatta, Jakobs; Gueye, Pape Sarr, Diatta; Sarr, Nicolas Jackson, Mane.",
+        "Sadio Mane (Al-Nassr) - 21 Saudi-Pro-League-Tore + Captain.",
+        "Nicolas Jackson (Chelsea) - 12 PL-Tore 2025/26 als Volume-9er.",
+        "Quoten via Aggregator-Konsens (ESPN/Pinnacle/Squawka 13.06.): Frankreich 1.42 / X 4.40 / Senegal 6.00 - Ueber 2.5 ~1.65 / BTTS Ja ~1.85 / Mbappe Trifft ~1.85 / Mane Trifft ~3.20."
       ],
       "tipps": [],
-      "kontext_check_status": "OK",
-      "_recherche_fehlt": true
+      "kontext_check_status": "OK"
     },
     {
-      "id": "2026-06-08-ned-uzb",
-      "liga": "Internationales Freundschaftsspiel (WM-Test)",
-      "heim": "Niederlande",
-      "gast": "Usbekistan",
-      "anstoss": "2026-06-09T01:45:00+02:00",
-      "stadion": "Icahn Stadium, Randall's Island NYC (Neutraler Platz)",
+      "id": "2026-06-17-nor-irq",
+      "liga": "FIFA World Cup 2026 - Gruppe I - Spieltag 1",
+      "heim": "Norwegen",
+      "gast": "Irak",
+      "anstoss": "2026-06-17T00:00:00+02:00",
+      "stadion": "MetLife Stadium, East Rutherford NJ (neutraler Platz)",
       "saison_kontext": {
-        "parallel_heim": "keine (Nationalteam-Phase, Eredivisie beendet) - finaler WM-Test vor Gruppe F (NL 14.06. vs Japan Auftakt)",
-        "parallel_gast": "keine (Nationalteam-Phase) - finaler WM-Test, WM-Debuetant (erstes WM 2026 nach historischer Quali)",
-        "saisonziel_heim": "WM-2026 Gruppe F (NL, Japan, Sweden, Tunisia) - FIFA #6, Koeman-Aera mit Memphis/Gakpo/De Vrij/De Jong-Achse, Achtelfinale-2024-EM-Wiederholung Ziel",
-        "saisonziel_gast": "WM-2026 (FIFA #57, Cannavaro-Coach, Gruppe mit Senegal/Iraq?) - Achtelfinal-Wunder als Ziel, vor Generations-Stuetzen Eldor Shomurodov + Khusayinov Achse",
-        "motivations_asymmetrie": "Klassen-Asymmetrie zu Gunsten NL (FIFA #6 vs #57) + Volle-Power-Test-Anreiz fuer beide. Niederlande verlor 0:1 vs Algerien 05.06., Koeman unter Druck Form vor WM-Auftakt 14.06. zu zementieren. Usbekistan 0:2 vs Kanada davor - Wiederaufbau-Modus. Klare NL-Edge aber Schonungs-Risiko bei De Jong/Van Dijk (Vereins-Erschoepfung).",
-        "recovery_heim": "3 Tage seit Algerien-Test (0:1) - kurze Rotations-Phase, Form-Defekt-Reparatur-Druck, Memphis fit",
-        "recovery_gast": "Lange Sammelphase nach Kanada-Niederlage (0:2) - frisch aber Form-Klima schwach",
+        "parallel_heim": "keine - WM 2026 ist primaerer Wettbewerb",
+        "parallel_gast": "keine - WM 2026 ist primaerer Wettbewerb",
+        "saisonziel_heim": "WM-Premiere seit 1998 (28 Jahre Wartezeit) - FIFA #14, Stale Solbakken-Coach, Erling Haaland (24)-Generations-Anker, Achtelfinal-Hoffnungsschuss als Top-3-Team in Gruppe I",
+        "saisonziel_gast": "Erste WM seit 1986 - FIFA #57, Jesus Casas-Coach, Aymen Hussein-Achse, Gruppen-Phase-Klamotten",
+        "motivations_asymmetrie": "Klassen-Edge Norwegen FIFA #14 vs Irak #57 + Haaland-Tor-Festival-Anreiz. Aber: 28-Jahre-WM-Premiere fuer beide = Nervositaets-Faktor. Markt 1.45 vs 7.50 bestaetigt klare Norwegen-Edge.",
+        "recovery_heim": "Klub-Pause Haaland-City-Saison beendet 18.05. + Trainingscamp",
+        "recovery_gast": "Volle WM-Vorbereitung",
         "quellen": [
-          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/pre-tournament-warm-up-results-fixtures-scorers",
-          "https://www.mightytips.com/football-predictions/netherlands-vs-uzbekistan-prediction-08-06-2026/",
-          "https://news.22bet.com/predictions/netherlands-vs-uzbekistan-prediction-booking-code-08-06-2026/",
-          "https://dailysports.net/predictions/prediction-for-the-netherlands-vs-uzbekistan-match-a-test-for-the-debutant-and-lessons-to-learn-for-the-oranje-preview-for-june-8-2026/"
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+          "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket"
         ]
       },
       "news": [
-        "Niederlande 4-3-3 erwartet: Verbruggen; Dumfries, De Vrij, Van Dijk, Aké; Tijjani Reijnders, De Jong, Schouten; Gakpo, Memphis, Xavi Simons.",
-        "Memphis Depay (Corinthians/Brasilien-Lehrgang) Form-Anker - 8 Tore in letzten 10 NL-Spielen, will WM-Schluessel-Spieler-Status zementieren.",
-        "Usbekistan 4-2-3-1 unter Cannavaro: Yusupov; Khusanov, Khotamov, Boboev; Mashakov, Khojimatov, Khusayinov; Shomurodov-Sturm.",
-        "Eldor Shomurodov (Roma) als 9er - 11 Serie-A-Tore 2025/26, Plan B fuer Counter-Tore wenn NL hoch presst.",
-        "Erste-Begegnung-Pattern fuer beide Mannschaften - kein H2H Vorgeschichte.",
-        "Quoten via Aggregator-Konsens (ESPN / Polymarket / 22bet / MightyTips 07.06.): Niederlande 1.27 / X 5.50 / Usbekistan 11.00 - Ueber 2.5 ~1.55 / Memphis Trifft ~2.00 / Niederlande -2.5 Handicap ~2.25."
+        "Norwegen 4-3-3: Nyland; Ryerson, Ajer, Strandberg, Pedersen; Berge, Odegaard, Berg; Nusa, Haaland, Sorloth.",
+        "Erling Haaland (Manchester City) - 27 PL-Tore 2025/26, Top-Form, Pflicht-9er.",
+        "Martin Odegaard (Arsenal) - Captain + Setpiece-Anker, 8 PL-Assists 2025/26.",
+        "Alexander Sorloth (Atletico Madrid) - 16 LaLiga-Tore 2025/26 als Backup-Stuermer/2.-Pflicht-9er.",
+        "Irak 4-2-3-1: Jalal Hassan; Rebin Sulaka, Saad Natiq, Merchas, Frans Putros; Bayesh, Hussein Ali; Justin Meram, Hussein, Mohanad Ali; Aymen Hussein.",
+        "Quoten via Aggregator-Konsens (ESPN/Pinnacle 13.06.): Norwegen 1.45 / X 4.20 / Irak 7.50 - Ueber 2.5 ~1.60 / Haaland Trifft ~1.65 / Sorloth Trifft ~2.10."
       ],
       "tipps": [],
-      "kontext_check_status": "OK",
-      "_recherche_fehlt": true
+      "kontext_check_status": "OK"
     },
     {
-      "id": "2026-06-09-sas-nyk-finals-g3",
-      "liga": "NBA Finals 2026 Game 3",
-      "heim": "New York Knicks",
-      "gast": "San Antonio Spurs",
-      "anstoss": "2026-06-09T02:30:00+02:00",
-      "stadion": "Madison Square Garden, NYC (US-Zeit Mo 08.06. 20:30 ET)",
-      "saison_kontext": {
-        "parallel_heim": "keine - NBA-Finals letztes Ereignis der Knicks-Saison",
-        "parallel_gast": "keine - NBA-Finals letztes Ereignis der Spurs-Saison",
-        "saisonziel_heim": "1. NBA-Titel seit 1973 (53 Jahre Wartezeit), fuehren Serie 2-0 nach Auswaerts-Doppelsieg im Frost Bank Center (Brunson G1 32 Pkt, Towns G2 28+11). Bei 3-0 = Sweep-Position, MSG-Heim-Crowd-Eskalation erwartet.",
-        "saisonziel_gast": "1. NBA-Titel seit 2014 - 0-2 Hypothek, MUSS Spiel ueberhaupt im MSG zu gewinnen um Serie offen zu halten. Sweep-Abwehr-Druck = Wembanyama/Castle/Champagnie Max-Effort-Modus.",
-        "motivations_asymmetrie": "Knicks-Heim-Crowd-Boost + 11-game-Winning-Streak vs Spurs-Sweep-Abwehr-Verzweiflung. Markt sieht Knicks -135 ML / -2.5 Spread - klare Heim-Edge aber 'Sweep-Abwehr-Heimsieg' Lesson 24.04. + 'G3-Heim-Crash-Defending-Champion-Star-OUT' 30.05. zeigen: Auswaerts-Underdog in 0-2-Loch ist nicht zu unterschaetzen. Lesson 03.06. 'Spurs-G7-Hangover-These-validiert-VALUE-Auswaerts-Underdog' suggeriert Spurs als VALUE-Auswaerts-Underdog.",
-        "recovery_heim": "3 Tage seit G2-Heim-... Moment, G1+G2 waren in San Antonio (Auswaerts-Knicks-Doppelsieg). 3 Tage seit G2 (05.06.), heute G3 erstmals im MSG. Brunson voll fit, Towns 28+11 G2 - Form-Hoch.",
-        "recovery_gast": "3 Tage seit G2-Heim-Niederlage (05.06.). Wembanyama 41 G1 + 21 G2 (Snap-Back) - Pattern wahrscheinlich G3 Bounce-Back (Lesson 29.05. Wemby-Bounce-Back-Stamm-Volume-Star-Snap-Back-Bestaetigung).",
-        "quellen": [
-          "https://www.cbssports.com/nba/news/2026-nba-finals-betting-preview-odds-best-bets-and-more-for-knicks-vs-spurs-series-that-tips-off-wednesday/",
-          "https://www.fanduel.com/research/knicks-vs-spurs-prediction-nba-odds-spread-best-bets-for-finals-6-8-2026",
-          "https://www.oddsshark.com/nba/spurs-knicks-picks-odds-game-3-june-8-2026",
-          "https://clutchpoints.com/betting/spurs-vs-knicks-2026-nba-finals-game-3-prediction-odds-pick",
-          "https://sports.yahoo.com/articles/spurs-vs-knicks-prediction-picks-141000717.html"
-        ]
-      },
-      "news": [
-        "G1 Spurs 95:111 verloren (Brunson 32, Towns 24), G2 Spurs 98:108 verloren (Towns 28+11, Bridges 22). Knicks fuehren 2-0 nach Auswaerts-Doppelsieg.",
-        "Wembanyama G1 41 Pkt / G2 21 Pkt - klassisches Snap-Back-Pattern (Lesson 29.05.), G3-Bounce-Back-Risiko erhoeht.",
-        "Brunson Top-Scorer der Playoffs verbleibend mit 26.9 PPG. Towns G2 28+11 Double-Double - Knicks-Big-3 funktioniert.",
-        "Spread Knicks -2.5 / Moneyline Knicks -135, Spurs +114 / Total 216.5 (FanDuel/CBS/OddsShark Konsens 07.06.).",
-        "Lesson HR16 (NBA-Playoff-Player-Punkte) AKTIV - keine Wemby/Brunson/Towns/Castle-Player-Punkte-Einzeltipps.",
-        "Lesson 'Beobachtungs-Liga NBA-Round-1-G6' (02.05.) trifft NICHT zu - das ist Finals G3 (eigene Kategorie)."
-      ],
-      "tipps": [],
-      "kontext_check_status": "OK",
-      "_recherche_fehlt": true
-    },
-    {
-      "id": "2026-06-09-per-esp",
-      "liga": "Internationales Freundschaftsspiel (WM-Test)",
-      "heim": "Peru",
-      "gast": "Spanien",
-      "anstoss": "2026-06-09T04:00:00+02:00",
-      "stadion": "Estadio Cuauhtemoc, Puebla City (Neutraler Platz)",
-      "saison_kontext": {
-        "parallel_heim": "keine (Nationalteam-Phase, CONMEBOL-Saison beendet) - kein WM (gescheitert in Quali)",
-        "parallel_gast": "keine (Nationalteam-Phase, LaLiga beendet) - finaler WM-Test vor Gruppe G (Spanien 15.06. vs Mexiko Auftakt)",
-        "saisonziel_heim": "Kein WM, FIFA #36, Wiederaufbau-Modus unter Coach Ibanez, primaer junge Test-Spieler-Probe",
-        "saisonziel_gast": "WM-2026 Gruppe G (Spanien, Mexiko?/USA?, weitere) - FIFA #2, Euro-2024-Sieger, Welt-Top-Favorit (Quoten 4.50 fuer WM-Titel), Form-Anker De la Fuente",
-        "motivations_asymmetrie": "Massive Klassen-Asymmetrie FIFA #2 vs #36 + WM-Final-Test-Anreiz Spanien + Schonungs-Risiko (Yamal raus mit Oberschenkel-Verletzung, Nico Williams Frage). Peru drucklos im Wiederaufbau. Spaniens Stuetzen ohne Yamal sind Olmo/Pedri/Rodri/Joselu - immer noch Klasse-Antwort. Erwartet Spanien dominant aber Schonungs-Hebel sichtbar.",
-        "recovery_heim": "Lange Sammelphase - frisch nach Test-Camp Mexico",
-        "recovery_gast": "Lange Sammelphase - WM-Trainingscamp Puebla, frisch fuer Final-Test, Yamal und N. Williams Verletzungs-Schonung",
-        "quellen": [
-          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/pre-tournament-warm-up-results-fixtures-scorers",
-          "https://www.sportsmole.co.uk/football/spain/predicted-lineups/la-roja-star-duo-in-race-against-time-for-world-cup-predicted-spain-xi-vs-peru_598772.html",
-          "https://thehardtackle.com/round-up/2026/06/07/peru-vs-spain-preview-and-prediction/",
-          "https://www.mightytips.com/football-predictions/peru-vs-spain-prediction-09-06-2026/"
-        ]
-      },
-      "news": [
-        "Spanien voraussichtliche Aufstellung 4-3-3: Simon; Carvajal, Le Normand, Inigo Martinez, Cucurella; Rodri, Pedri, Olmo; Oyarzabal, Joselu, Ferran Torres.",
-        "Lamine Yamal Oberschenkel-Verletzung (verpasst Final-Test) - Olmo zentral als Kreativ-Anker, Pedri-Rodri-Doppelpivot.",
-        "Nico Williams Race-against-Time - voraussichtlich nicht in Startelf, Athletic-Stamm-Linksaussen.",
-        "Peru voraussichtlich 4-3-3: Carvallo; Advincula, Garces, Zambrano, Marchan; Cartagena, Reyna, Quevedo; Concha, Lapadula, Cueva.",
-        "Spanien WM-Top-3-Favorit (4.50 fuer Titel laut bet365), De-la-Fuente-System-Football. Joselu als 9er ohne Morata.",
-        "Quoten via Aggregator-Konsens (1xBet / MightyTips / HardTackle 07.06.): Peru 8.50 / X 5.20 / Spanien 1.36 - Ueber 2.5 ~1.55 / Spanien -1.5 Handicap ~1.67 / Joselu Trifft ~2.20."
-      ],
-      "tipps": [],
-      "kontext_check_status": "OK",
-      "_recherche_fehlt": true
-    },
-    {
-      "id": "2026-06-09-sen-sau",
-      "liga": "Internationales Freundschaftsspiel (WM-Test)",
-      "heim": "Senegal",
-      "gast": "Saudi-Arabien",
-      "anstoss": "2026-06-10T00:00:00+02:00",
-      "stadion": "Toyota Field, San Antonio TX (Neutraler Platz)",
-      "saison_kontext": {
-        "parallel_heim": "keine (Nationalteam-Phase) - finaler WM-Test Senegal (WM-2026 Gruppe I mit Frankreich, Iraq, Norwegen)",
-        "parallel_gast": "keine (Nationalteam-Phase) - kein WM (Asien-Quali nicht qualifiziert)",
-        "saisonziel_heim": "WM-2026 Gruppe I (FIFA #20, Mane-Sabaly-Achse, Aliou Cisse-Coach), Achtelfinale-Ziel nach 2018/22-Achtelfinal-Stoppen",
-        "saisonziel_gast": "Kein WM nach Asien-Quali-Aus, FIFA #59, Mancini-Aera-Wiederaufbau, Salem-Al-Dawsari-Achse fuer Asien-Cup-2027-Ziel",
-        "motivations_asymmetrie": "Senegal WM-Final-Test-Anreiz (Auftakt 18.06. vs Iraq) + Mane-Last-Test-vor-WM. Saudi drucklos. Klassen-Edge Senegal aber Schonungs-Risiko bei Mane (Al-Nassr-Saison-Erschoepfung).",
-        "recovery_heim": "Lange Sammelphase - finale WM-Vorbereitung, frisch",
-        "recovery_gast": "Lange Sammelphase - Wiederaufbau-Test, Mancini testet Plan B",
-        "quellen": [
-          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/pre-tournament-warm-up-results-fixtures-scorers",
-          "https://www.sportskeeda.com/football/saudi-arabia-vs-senegal-prediction-betting-tips-june-9th-2026",
-          "https://www.foxsports.com/soccer/friendlies-men-senegal-vs-saudi-arabia-jun-09-2026-game-boxscore-833489"
-        ]
-      },
-      "news": [
-        "Senegal Stamm-Achse: Edouard Mendy (Goalie); Sabaly, Koulibaly, Diatta; Gueye, Pape Sarr; Sarr, Mane, Boulaye Dia; Nicolas Jackson als 9er.",
-        "Sadio Mane (Al-Nassr) Captain - 21 Tore in 2025/26 in Saudi Pro League trotz 33 Jahren, Form-Anker fuer WM.",
-        "Saudi-Arabien voraussichtlich 4-2-3-1: Al-Owais; Al-Tambakti, Al-Bulaihi, Al-Tambakti; Al-Najei, Kanno, Salem Al-Dawsari, Al-Buraikan, Al-Salem; Al-Shehri.",
-        "H2H: 2 letzte Begegnungen 1998 + 2002 beide 3:2 Saudi - alte Daten ohne Aussagekraft heute.",
-        "Quoten via Aggregator-Konsens (Sportskeeda / FoxSports 07.06.): Senegal 1.50 / X 4.20 / Saudi 5.50 - Ueber 2.5 ~1.75 / Mane Trifft ~2.10 / Senegal -1 Handicap ~1.85."
-      ],
-      "tipps": [],
-      "kontext_check_status": "OK",
-      "_recherche_fehlt": true
-    },
-    {
-      "id": "2026-06-10-eng-crc",
-      "liga": "Internationales Freundschaftsspiel (WM-Test)",
-      "heim": "England",
-      "gast": "Costa Rica",
-      "anstoss": "2026-06-10T22:00:00+02:00",
-      "stadion": "Hard Rock Stadium, Miami Gardens FL (Neutraler Platz, England-Trainingscamp Florida)",
-      "saison_kontext": {
-        "parallel_heim": "keine (Nationalteam-Phase, Premier League beendet) - finaler WM-Test vor WM-Auftakt 16.06. (Gruppe noch unklar in Konstellation)",
-        "parallel_gast": "keine (Nationalteam-Phase, CONCACAF-Saison beendet) - kein WM (Octagonal-Quali verfehlt)",
-        "saisonziel_heim": "WM-2026 (FIFA #4, Tuchel-Aera, Kane-Saka-Foden-Achse) - WM-Titel-Anspruch nach 2018-Halbfinale + Euro-2024-Finale, finaler Heim-Trainingscamp-Test in Florida vor WM",
-        "saisonziel_gast": "Kein WM, FIFA #54, Wiederaufbau-Modus, primaer junge Spieler-Probe",
-        "motivations_asymmetrie": "Massive Klassen- und Motivations-Asymmetrie FIFA #4 vs #54 + Tuchel-WM-Final-Test mit Volle-Power-Aufstellung (Kane Sturm-Anker, Saka-Foden-Bellingham-Trio). Costa Rica drucklos. Tuchel braucht klare Form-Ansage nach 1:3-Niederlage vs Neuseeland 06.06. (!), Reset-Druck.",
-        "recovery_heim": "4 Tage seit NZ-Niederlage (1:3) - Form-Reset-Druck-Phase, Kane fit, Bellingham-Saka-Foden voll",
-        "recovery_gast": "Lange Sammelphase - Trainings-Camp, frische junge Spieler",
-        "quellen": [
-          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/pre-tournament-warm-up-results-fixtures-scorers",
-          "https://www.englandfootball.com/articles/2026/Feb/11/england-men-to-play-new-zealand-and-costa-rica-in-USA-pre-world-cup-20261102",
-          "https://www.sportytrader.com/en/odds/england-costa-rica-8335488/",
-          "https://www.goal.com/en-gb/betting/tips/england-vs-new-zealand-predictions-06-06-2026/A%3Ablt2615898a5cca7c12"
-        ]
-      },
-      "news": [
-        "England verlor 1:3 gegen Neuseeland 06.06. - Schock-Resultat, Tuchel unter Druck Form vor WM zu zementieren.",
-        "England Stamm-Achse: Pickford; Walker, Stones, Konsa, Lewis-Skelly; Rice, Bellingham, Foden; Saka, Kane, Eze.",
-        "Harry Kane Bayern-Saison mit 32 Bundesliga-Toren - in Karriere-Top-Form vor WM, Heim-Florida-Test = volle 90 Min wahrscheinlich.",
-        "Costa Rica Test-Squad mit MLS/LigaMX-Stuetzen - Concacaf-Mid-Niveau, kein WM-Bezug.",
-        "Lesson 06.06. 'Klassen-Edge-realisiert-Sieg-nicht-Tor-Anzahl-B-Elf-Schon' Subnote - England koennte stark rotieren in 2. Hz, Tor-Anzahl-Risiko erhoeht. Aber: Tuchel-Form-Reset-Druck nach NZ-Niederlage → Stammelf laenger drin.",
-        "Quoten via Aggregator-Konsens (Stake / Bet365 / SportyTrader 07.06.): England 1.19 / X 8.50 / Costa Rica 22.00 - Ueber 2.5 ~1.65 / Kane Trifft ~1.70 / England -2.5 Handicap ~2.20."
-      ],
-      "tipps": [],
-      "kontext_check_status": "OK",
-      "_recherche_fehlt": true
-    },
-    {
-      "id": "2026-06-10-por-ngr",
-      "liga": "Internationales Freundschaftsspiel (WM-Test)",
+      "id": "2026-06-17-por-cod",
+      "liga": "FIFA World Cup 2026 - Gruppe K - Spieltag 1",
       "heim": "Portugal",
-      "gast": "Nigeria",
-      "anstoss": "2026-06-10T21:45:00+02:00",
-      "stadion": "Estadio Dr. Magalhaes Pessoa, Leiria",
+      "gast": "DR Kongo",
+      "anstoss": "2026-06-17T23:00:00+02:00",
+      "stadion": "NRG Stadium, Houston TX (neutraler Platz)",
       "saison_kontext": {
-        "parallel_heim": "keine (Nationalteam-Phase, Primeira Liga beendet) - finaler WM-Test, Portugal WM-2026-Gruppe noch in CONFIG",
-        "parallel_gast": "keine (Nationalteam-Phase) - kein WM (CAF-Quali nicht qualifiziert)",
-        "saisonziel_heim": "WM-2026 (FIFA #7, Ronaldo-Bernardo-Felix-Trio + Bruno Fernandes, Roberto Martinez-Coach), Achtelfinale-Ziel als Mindestmass, Halbfinale-Anspruch",
-        "saisonziel_gast": "Kein WM nach CAF-Quali-Aus (4. in Gruppe verloren) - Wiederaufbau-Modus, Osimhen-Lookman-Achse Test",
-        "motivations_asymmetrie": "Klassen-Edge Portugal FIFA #7 vs #43 + Heim-Test-Anreiz vor 30000 Zuschauern in Leiria + Ronaldo-Final-WM-Anreiz (40). Nigeria drucklos im Wiederaufbau aber starke individuelle Klasse (Osimhen, Lookman, Boniface). Offen-Tor-reiches Spiel erwartet.",
-        "recovery_heim": "Lange Sammelphase - finale WM-Vorbereitung, frisch",
-        "recovery_gast": "Lange Sammelphase - Wiederaufbau-Test, kein Pflichtspiel-Druck",
+        "parallel_heim": "keine - WM 2026 ist primaerer Wettbewerb",
+        "parallel_gast": "keine - WM 2026 ist primaerer Wettbewerb",
+        "saisonziel_heim": "Mindestens Halbfinale - FIFA #7, Roberto Martinez-Coach, Ronaldo (40) Last-Chance-WM + Generation um Bernardo Silva / Bruno Fernandes / Vitinha / Joao Neves / Leao - Achtelfinale Mindestmass",
+        "saisonziel_gast": "WM-Premiere seit 1974 - FIFA #43, Lionel Soares-Coach, Cedric Bakambu-Bukari-Achse, Gruppen-Phase-Klamotten",
+        "motivations_asymmetrie": "Klassen-Edge Portugal FIFA #7 vs #43 + Ronaldo-Last-Chance-WM-Anreiz + Pflicht-Sieg-Druck. Aber: Lessons 06.06 Klassen-Edge realisiert sich als Sieg statt Tor-Anzahl (B-Elf-Schon-Risiko bei klarer Fuehrung). Quoten 1.28 vs 11.00 = klare Klasse-Festung.",
+        "recovery_heim": "Klub-Pause + Trainingscamp",
+        "recovery_gast": "Volle WM-Vorbereitung",
         "quellen": [
-          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/pre-tournament-warm-up-results-fixtures-scorers",
-          "https://polymarket.com/sports/fifa-friendlies/fif-prt-nga-2026-06-10",
-          "https://www.sportytrader.com/en/odds/portugal-nigeria-8477415/",
-          "https://insights.betfred.com/football/fifa-world-cup/portugal-world-cup-2026-squad-schedule-betting-odds/"
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+          "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket"
         ]
       },
       "news": [
-        "Portugal 4-3-3 erwartet: Diogo Costa; Cancelo, Ruben Dias, Antonio Silva, Nuno Mendes; Joao Neves, Vitinha, Bruno Fernandes; Bernardo Silva, Cristiano Ronaldo, Rafael Leao.",
-        "Cristiano Ronaldo (40, Al-Nassr) Heim-Anreiz - 27 Saudi-Pro-League-Tore 2025/26, will Last-Chance-WM-Form zeigen.",
-        "Bruno Fernandes Manchester-United-Saison mit 14 PL-Toren + 12 Assists - Setpiece-Anker, Pflicht-Spieler.",
-        "Nigeria-Stamm: Nwabali (Goalie); Aina, Ekong, Bassey, Sanusi; Onyeka, Iwobi, Aribo; Lookman, Osimhen, Boniface.",
-        "Victor Osimhen Galatasaray-Saison 27 Tore in 31 Spielen - Top-Form, aber Nigeria-Wiederaufbau-Lehrgang.",
-        "Ademola Lookman Atalanta Serie-A 18 Tore (CL-Toptorschuetze Atalanta-Run) - explosive Form.",
-        "Quoten via Aggregator-Konsens (Polymarket / SportyTrader / Betfred 07.06.): Portugal 1.30 / X 5.00 / Nigeria 8.50 - Ueber 2.5 ~1.55 / Ronaldo Trifft ~1.85 / Osimhen Trifft ~2.30 / BTTS Ja ~1.95."
+        "Portugal 4-3-3: Diogo Costa; Cancelo, Ruben Dias, Antonio Silva, Nuno Mendes; Joao Neves, Vitinha, Bruno Fernandes; Bernardo Silva, Cristiano Ronaldo, Rafael Leao.",
+        "Cristiano Ronaldo (Al-Nassr) - 27 Saudi-Pro-League-Tore 2025/26 mit 40 Jahren, Heim-Houston-Anreiz Last-Chance-WM.",
+        "Bruno Fernandes (Manchester United) - 14 PL-Tore + 12 Assists, Setpiece-Pflicht-Spieler.",
+        "Rafael Leao (AC Milan) - 9 Serie-A-Tore + 6 Assists 2025/26.",
+        "DR Kongo 4-2-3-1: Mpasi; Mukoko, Mbemba, Akumona, Tunga; Pickel, Kalulu; Wissa, Mukoko, Bakambu; Yoane Wissa.",
+        "Yoane Wissa (Brentford) - 13 PL-Tore 2025/26 als Volume-9er.",
+        "Quoten via Aggregator-Konsens (ESPN/BetMGM 13.06.): Portugal 1.28 / X 5.50 / DR Congo 11.00 - Ueber 2.5 ~1.60 / Ronaldo Trifft ~1.85 / Leao Trifft ~2.50."
       ],
       "tipps": [],
-      "kontext_check_status": "OK",
-      "_recherche_fehlt": true
+      "kontext_check_status": "OK"
     },
     {
-      "id": "2026-06-11-sas-nyk-finals-g4",
-      "liga": "NBA Finals 2026 Game 4",
-      "heim": "New York Knicks",
-      "gast": "San Antonio Spurs",
-      "anstoss": "2026-06-11T02:30:00+02:00",
-      "stadion": "Madison Square Garden, NYC (US-Zeit We 10.06. 20:30 ET)",
+      "id": "2026-06-17-eng-cro",
+      "liga": "FIFA World Cup 2026 - Gruppe L - Spieltag 1",
+      "heim": "England",
+      "gast": "Kroatien",
+      "anstoss": "2026-06-18T02:00:00+02:00",
+      "stadion": "AT&T Stadium, Arlington TX (neutraler Platz)",
       "saison_kontext": {
-        "parallel_heim": "keine - NBA-Finals letztes Ereignis",
-        "parallel_gast": "keine - NBA-Finals letztes Ereignis",
-        "saisonziel_heim": "1. NBA-Titel seit 1973. Bei 3-0 Spread = Sweep-Position MSG (historisch 0 Sweeps verloren). Bei 2-1 = noch klare Lead-Position.",
-        "saisonziel_gast": "1. NBA-Titel seit 2014. Bei 0-3 = Saison-Ende moeglich (kein Team kam 0-3 zurueck). Bei 1-2 = noch im Rennen.",
-        "motivations_asymmetrie": "Konstellation haengt vom G3-Ergebnis ab. Bei 3-0 Knicks-Sweep-Druck = MSG-Crowd-Eskalation + Spurs-No-Win-Verzweiflung. Bei 2-1 = Spurs-Comeback-Modus, Knicks-Sicherheits-Spiel. Beide Faelle keine SAFE-Konstellation. Lesson 06.06. NBA-Finals-G2-Heim-Bounce + Lesson 18.05. NBA-Game7-Heim-Underdog-Crash beachten.",
-        "recovery_heim": "2 Tage seit G3 - symmetrisch",
-        "recovery_gast": "2 Tage seit G3 - symmetrisch. Wemby-Min-Last hoch falls G3 verloren.",
+        "parallel_heim": "keine - WM 2026 ist primaerer Wettbewerb",
+        "parallel_gast": "keine - WM 2026 ist primaerer Wettbewerb",
+        "saisonziel_heim": "Mindestens Halbfinale (Finale-Anspruch) - FIFA #4, Tuchel-Aera erste WM-Pflichtbewaehrung, Kane-Saka-Bellingham-Foden-Achse, 2018-Halbfinale-und-Euro-2024-Finale Wiederholung",
+        "saisonziel_gast": "Achtelfinale-Quali (Pflicht-Sehnsucht) - FIFA #15, Zlatko Dalic-Coach, Modric-Last-Chance-WM (40) + Generation um Petkovic / Sucic / Gvardiol, 2018-Final/2022-Halbfinal-Wiederholung-Wunder",
+        "motivations_asymmetrie": "Schwerstes WM-Auftakts-Duell der ganzen Gruppenphase neben Brasilien-Marokko. Quoten 1.85 vs 4.40 zeigen England-Edge aber nicht Festung. Beide brauchen Auftakts-Punkte als Achtelfinal-Voraussetzung. Lesson 13.06. WM-Eroeffnungs-Unter-2.5-Subfilter: bei Top-5-Liga-Asymmetrie (= beide Top-10-Teams) eher taktisch defensiv (= Unter-25-These) - klassisches WM-Spieltag-1-Top-Klassen-Pattern.",
+        "recovery_heim": "Klub-Pause seit 25.05. (PL-Finale) + WM-Trainingscamp Florida, Kane fit",
+        "recovery_gast": "Klub-Pause + Trainingscamp, Modric Real-Madrid-Saison beendet 25.05.",
         "quellen": [
-          "https://www.cbssports.com/nba/news/2026-nba-finals-schedule-odds/",
-          "https://www.espn.com/nba/story/_/id/48958143/how-watch-2026-nba-finals-abc-knicks-spurs-schedule",
-          "https://www.nba.com/news/2026-nba-finals-schedule"
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+          "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket"
         ]
       },
       "news": [
-        "Game 4 ist We 10.06. 8:30pm ET / Berlin Th 11.06. 02:30 im Madison Square Garden NYC.",
-        "Quoten 3 Tage vor G3 noch nicht final - werden ueber Serie-Stand 0-3 oder 1-2 nach G3 stark variieren.",
-        "Adjustment-Spiel-Pattern: G4 in Finals nach 1-2 oder 0-3 oft Defense-Schlacht mit Coach-Anpassungen (Wembanyama-Anti-Mismatch-Strategy von Pop).",
-        "Lesson HR16 aktiv - keine Wemby/Brunson/Towns-Player-Punkte-Einzeltipps.",
-        "Beobachtungs-Liga 'NBA Round 1 G6' trifft hier nicht zu - Finals G4 (eigene Kategorie)."
+        "England 4-2-3-1: Pickford; Walker, Stones, Konsa, Lewis-Skelly; Rice, Bellingham; Saka, Foden, Eze; Kane.",
+        "Harry Kane (Bayern Muenchen) - 32 Bundesliga-Tore 2025/26 (Goldener Schuh), Karriere-Top-Form, Pflicht-9er.",
+        "Jude Bellingham (Real Madrid) - 12 LaLiga-Tore 2025/26.",
+        "Kroatien 4-3-3: Livakovic; Stanisic, Sutalo, Gvardiol, Sosa; Modric, Sucic, Kovacic; Pasalic, Petkovic, Kramaric.",
+        "Luka Modric (Inter Mailand-Wechsel-Geruechte/Real Madrid) - 40, Captain-Last-Chance-WM, Setpiece-Kontrolle.",
+        "Bruno Petkovic (Dinamo Zagreb) - 14 HNL-Tore als nominell 9er, aber Veteran (31).",
+        "Quoten via Aggregator-Konsens (ESPN/Pinnacle/Squawka 13.06.): England 1.85 / X 3.50 / Kroatien 4.40 - Ueber 2.5 ~2.20 / Unter 2.5 ~1.65 / Kane Trifft ~1.95 / Modric Trifft ~6.00."
       ],
       "tipps": [],
-      "kontext_check_status": "OK",
-      "_recherche_fehlt": true
+      "kontext_check_status": "OK"
     },
     {
-      "id": "2026-06-11-mex-saf",
-      "liga": "WM-2026 Gruppe A, Spieltag 1",
-      "heim": "Mexiko",
+      "id": "2026-06-18-cze-saf",
+      "liga": "FIFA World Cup 2026 - Gruppe A - Spieltag 2",
+      "heim": "Tschechien",
       "gast": "Suedafrika",
-      "anstoss": "2026-06-11T21:00:00+02:00",
-      "stadion": "Estadio Azteca, Mexico City (Eroeffnungsspiel WM-2026!)",
+      "anstoss": "2026-06-18T18:00:00+02:00",
+      "stadion": "Mercedes-Benz Stadium, Atlanta (neutraler Platz)",
       "saison_kontext": {
-        "parallel_heim": "keine - WM ist das Saison-Schluss-Ereignis Mexico (Heim-Auftritt vor 87000 Azteca-Crowd)",
-        "parallel_gast": "keine - WM ist Saison-Schluss-Ereignis Suedafrika (CAF-Quali-Sieger, 1. WM seit 2010-Heim-WM)",
-        "saisonziel_heim": "WM-Heim-Mit-Veranstalter-Anspruch: Achtelfinale Pflicht, Halbfinale Ziel (FIFA #17, El-Tri-Goldene-Generation um Lozano/Vega/Jimenez), Aguirre-Coach. Eroeffnungs-Druck-Festival vor heimischem Publikum.",
-        "saisonziel_gast": "WM-2026 (FIFA #56, Hugo-Broos-Coach) - Gruppen-Phase-Ueberraschung-Ziel, Themba Zwane Form-Anker, primaer Lerngruppe",
-        "motivations_asymmetrie": "Massiver Heim-Vorteil Mexico im Azteca + Eroeffnungs-Maximal-Hype + Klassen-Edge FIFA #17 vs #56. Suedafrika-Hoehen-Anpassungs-Risiko (Mexico-City 2250m). Mexico-Anspruch klar erkennbar: nichts als Sieg akzeptabel. Aber: Lesson 06.06. 'Klassen-Edge-realisiert-Sieg-nicht-Tor-Anzahl' = WM-Auftakt-Nervositaet koennte Tor-Anzahl druecken.",
-        "recovery_heim": "Volle WM-Vorbereitung 14+ Tage seit letztem Test (vs Tuerkei 2:1 Sieg 31.05.)",
-        "recovery_gast": "Volle WM-Vorbereitung - lange Reise + Hoehen-Anpassung",
+        "parallel_heim": "keine - WM 2026 ist primaerer Wettbewerb",
+        "parallel_gast": "keine - WM 2026 ist primaerer Wettbewerb",
+        "saisonziel_heim": "Achtelfinale (Pflicht-Sehnsucht aus Gruppe A) - FIFA #32, Hasek-Coach, Schick-Soucek-Hranac-Achse, 1. WM seit 2006",
+        "saisonziel_gast": "Achtelfinale (Hoffnungsschuss) - FIFA #56, Hugo Broos-Coach, Mokoena-Mofokeng-Achse",
+        "motivations_asymmetrie": "Spieltag-2-Schluessel-Spiel: nach Spieltag-1-Ergebnissen (Suedafrika 0:3 verloren vs Mexico 11.06., Tschechien 0:0 vs Suedkorea 12.06.) MUSS Tschechien gewinnen fuer Achtelfinale-Chance. Suedafrika-Pflicht-Anspruch nach Mexico-Niederlage = beidseitiges All-In. Klassen-Edge Tschechien FIFA #32 vs #56 aber Schick-Form (18 BL-Tore Leverkusen) = klare Goldgrube-Erwartung.",
+        "recovery_heim": "6 Tage seit Korea-Auftakt - frisch",
+        "recovery_gast": "7 Tage seit Mexico-Auftakt - frisch",
         "quellen": [
           "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
-          "https://www.squawka.com/us/news/world-cup/match-preview-mexico-vs-south-africa-06-11-26-world-cup-2026/",
-          "https://www.sportsline.com/insiders/mexico-vs-south-africa-odds-predictions-2026-world-cup-picks-from-proven-soccer-expert/",
-          "https://www.thatsagoal.com/predictions/world-cup/mexico-vs-south-africa-world-cup-2026",
-          "https://tips.gg/article/mexico-vs-south-africa-world-cup-2026-odds-preview-wc2026/"
+          "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket"
         ]
       },
       "news": [
-        "Eroeffnungsspiel WM-2026! 87000 Azteca-Crowd, dritte Eroeffnungs-Veranstaltung im Stadium-Geschichte (1970/1986/2026).",
-        "Mexico 4-3-3 erwartet: Memo Ochoa? oder Malagon; Vasquez, Vasquez, Sanchez, Gallardo; Edson Alvarez, Erik Sanchez; Lozano, Hirving Lozano, Vega; Raul Jimenez.",
-        "Raul Jimenez (Fulham) 18 PL-Tore 2025/26 - Form-Anker, sollte als 9er starten (Aguirre-Praeferenz).",
-        "Suedafrika 4-2-3-1: Williams; Mokoena, Mbatha, Mvala, Modiba; Mokoena, Mudau; Mofokeng, Zwane, Sithole; Foster.",
-        "H2H: Mexico 14 von 17 letzten Begegnungen gegen Suedafrika gewonnen, 3 Remis (Klassen-Pattern stabil).",
-        "Quoten via Aggregator-Konsens (Bet365 / FanDuel / SportsLine 07.06.): Mexico 1.48 / X 4.30 / Suedafrika 6.50 - Ueber 2.5 ~2.10 / Unter 2.5 ~1.72 / Mexico Sieg + Unter 3.5 ~1.95 / Jimenez Trifft ~2.40."
-      ],
-      "tipps": [],
-      "kontext_check_status": "OK",
-      "_recherche_fehlt": true
-    },
-    {
-      "id": "2026-06-12-kor-cze",
-      "liga": "WM-2026 Gruppe A, Spieltag 1",
-      "heim": "Suedkorea",
-      "gast": "Tschechien",
-      "anstoss": "2026-06-12T04:00:00+02:00",
-      "stadion": "Estadio AKRON, Guadalajara",
-      "saison_kontext": {
-        "parallel_heim": "keine - WM ist Saison-Schluss",
-        "parallel_gast": "keine - WM ist Saison-Schluss",
-        "saisonziel_heim": "WM-2026 Gruppe A (FIFA #22, Klinsmann?/Hong Myung-bo-Coach), Achtelfinale-Ziel, Son Heung-min (LAFC) als Captain in moeglich letzter WM",
-        "saisonziel_gast": "WM-2026 (FIFA #32, Hasek-Coach) - 1. WM seit 2006! Schick-Soucek-Hranac-Achse, Wiedereintritts-Klasse-Beweis",
-        "motivations_asymmetrie": "Coinflip-Match. Beide brauchen Punkte um hinter Mexico Achtelfinale-Position zu ergreifen. Markt-Konsens 1X2-Quoten alle 2.62-3.10 = klassisches Coinflip-Profil. KEIN SAFE moeglich per Pflicht-Profil-Hartregel. Lesson Coinflip-Saisonende-Validierung 14.05.: max 3 Tipps + kein SAFE.",
-        "recovery_heim": "Volle WM-Vorbereitung",
-        "recovery_gast": "Volle WM-Vorbereitung",
-        "quellen": [
-          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
-          "https://www.squawka.com/us/news/world-cup/match-preview-south-korea-vs-czech-republic-06-11-26-world-cup-2026/",
-          "https://www.wagertalk.com/news/soccer/south-korea-vs-czechia-prediction-june-11/",
-          "https://sports.betmgm.com/en/blog/world-cup/south-korea-vs-czech-republic-prediction-odds-preview-world-cup-june-11-bm16/"
-        ]
-      },
-      "news": [
-        "Suedkorea voraussichtlich 4-2-3-1: Jo Hyeon-woo; Kim Jin-su, Kim Min-jae, Kim Young-gwon, Seol Young-woo; Lee Jae-sung, Jung Woo-young; Son Heung-min, Lee Kang-in, Hwang Hee-chan; Cho Gue-sung.",
-        "Son Heung-min (LAFC) - 12 Tore + 4 Assists in 13 Spielen + 9 Assists MLS 2025 = Form-Anker, vermutlich letztes WM (33).",
-        "Tschechien voraussichtlich 4-2-3-1: Stanek; Coufal, Hranac, Krejci, Zima; Soucek, Provod; Cerny, Sulc, Chytil; Patrik Schick.",
+        "Tschechien 4-2-3-1: Stanek; Coufal, Hranac, Krejci, Zima; Soucek, Provod; Cerny, Sulc, Chytil; Patrik Schick.",
         "Patrik Schick (Leverkusen) - 18 Bundesliga-Tore 2025/26 = Form-Hoch + Volume-9er, Pflicht-Spieler.",
-        "Quoten via Aggregator-Konsens (Bet365 / BetMGM / Squawka 07.06.): Suedkorea 2.62 / X 3.10 / Tschechien 2.75 - Ueber 2.5 ~2.10 / Unter 2.5 ~1.72 / BTTS Ja ~1.85 / Son Trifft ~3.20 / Schick Trifft ~3.10."
+        "Tomas Soucek (West Ham) - Setpiece-Pflicht-Spieler, 6 PL-Tore aus Mittelfeld.",
+        "Suedafrika 4-2-3-1: Williams; Mokoena, Mbatha, Mvala, Modiba; Mokoena, Mudau; Mofokeng, Zwane, Sithole; Foster.",
+        "Themba Zwane (Mamelodi Sundowns) - 16 PSL-Tore Form-Anker.",
+        "Quoten via Aggregator-Konsens (ESPN/Pinnacle 13.06.): Tschechien 1.85 / X 3.40 / Suedafrika 4.20 - Ueber 2.5 ~2.05 / Schick Trifft ~2.30."
       ],
       "tipps": [],
-      "kontext_check_status": "OK",
-      "_recherche_fehlt": true
+      "kontext_check_status": "OK"
     },
     {
-      "id": "2026-06-12-can-bih",
-      "liga": "WM-2026 Gruppe B, Spieltag 1",
-      "heim": "Kanada",
+      "id": "2026-06-18-sui-bih",
+      "liga": "FIFA World Cup 2026 - Gruppe B - Spieltag 2",
+      "heim": "Schweiz",
       "gast": "Bosnien-Herzegowina",
-      "anstoss": "2026-06-12T21:00:00+02:00",
-      "stadion": "BMO Field, Toronto",
+      "anstoss": "2026-06-18T21:00:00+02:00",
+      "stadion": "SoFi Stadium, Inglewood CA (neutraler Platz)",
       "saison_kontext": {
-        "parallel_heim": "keine - WM ist Saison-Schluss (Heim-Co-Veranstalter)",
-        "parallel_gast": "keine - WM ist Saison-Schluss (1. WM seit 2014)",
-        "saisonziel_heim": "Heim-Co-Veranstalter, Achtelfinale-Pflicht (FIFA #28, Marsch-Aera), Achse um David-Buchanan-Sinisterra OHNE Alphonso Davies (Knie-Reha, Marsch hat bestaetigt: spielt nicht vs Bosnien)",
-        "saisonziel_gast": "WM-2026 (FIFA #61, Bajevic-Coach), Achtelfinale-Hoffnungsschuss, Edin Dzeko (40, Fenerbahce) als Captain Last-Chance",
-        "motivations_asymmetrie": "Heim-Edge Kanada + Klassen-Edge FIFA #28 vs #61 + Toronto-Crowd-Boost. ABER: Davies-Ausfall (linker Verteidiger-Bayern-Star) ist signifikante Schwaechung - Marsch-Plan-B mit Adekugbe oder anderem Linksverteidiger. Bosniens Dzeko trotz 40 Jahren immer noch tor-faehig. Klassen-Edge dadurch reduziert.",
-        "recovery_heim": "Volle WM-Vorbereitung, Davies-Knie-Reha-Konflikt",
-        "recovery_gast": "Volle WM-Vorbereitung",
+        "parallel_heim": "keine - WM 2026 ist primaerer Wettbewerb",
+        "parallel_gast": "keine - WM 2026 ist primaerer Wettbewerb",
+        "saisonziel_heim": "Achtelfinale-Pflicht aus Gruppe B - FIFA #11, Yakin-Coach, Embolo-Vargas-Xhaka-Achse. Spieltag-1 Schweiz-Katar Ergebnis: 1:1 (Lesson 14.06. dokumentiert) = MUSS-Sieg gegen Bosnien fuer Achtelfinal-Position",
+        "saisonziel_gast": "Achtelfinale-Hoffnungsschuss - FIFA #61, Bajevic-Coach. Spieltag-1 Bosnien-Kanada Ergebnis (Annahme aus 12.06.): 0:1 Niederlage = ebenfalls Pflicht-Sieg-Druck oder Achtelfinal-aus.",
+        "motivations_asymmetrie": "Beidseitiger Pflicht-Sieg-Druck = klassisches Spieltag-2-Pflicht-Sieg-Match. Klassen-Edge Schweiz FIFA #11 vs #61. Quoten 1.45 vs 6.00 zeigen klare Schweiz-Edge. Lesson 14.06. NICHT als Beobachtungs-Liga gewertet (Spieltag-2 ist eigene Kategorie, nicht Spieltag-1-Gruppe-B Beobachtung).",
+        "recovery_heim": "5 Tage seit Katar-Auftakt - frisch",
+        "recovery_gast": "6 Tage seit Kanada-Auftakt - frisch",
         "quellen": [
           "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
-          "https://www.oddschecker.com/us/soccer/world-cup/canada-v-bosnia-and-herzegovina",
-          "https://www.covers.com/soccer/world-cup/canada-odds",
-          "https://www.squawka.com/us/news/world-cup/match-preview-canada-vs-bosnia-herzegovina-06-12-26-world-cup-2026/",
-          "https://defirate.com/prediction-markets/world-cup-odds/canada/"
-        ]
-      },
-      "news": [
-        "Kanada-Coach Jesse Marsch bestaetigt: Alphonso Davies spielt NICHT in Bosnien-Auftakt (Knie-Reha).",
-        "Kanada 4-3-3 erwartet: Crepeau; Johnston, Vitoria, Cornelius, Adekugbe (statt Davies); Eustaquio, Hutchinson, Sinisterra; David Junior Hoilett, Jonathan David, Buchanan.",
-        "Jonathan David (Lille/Tottenham?) - 22 Ligue-1-Tore 2025/26, Form-Anker, Pflicht-9er.",
-        "Bosnien 4-2-3-1: Sehic; Memija, Hadzikadunic, Vrancic, Mujakic; Bicakcic, Saric; Tabakovic, Pjanic, Krunic; Dzeko.",
-        "Edin Dzeko Fenerbahce-Saison 15 Tore - Captain-Anker mit 40, will Last-Chance-WM-Klasse zeigen.",
-        "Quoten via Aggregator-Konsens (Bet365 / OddsChecker / Squawka 07.06.): Kanada 1.83 / X 3.55 / Bosnien 4.20 - Ueber 2.5 ~2.05 / Unter 2.5 ~1.78 / Bosnien DC X2 ~1.85."
-      ],
-      "tipps": [],
-      "kontext_check_status": "OK",
-      "_recherche_fehlt": true
-    },
-    {
-      "id": "2026-06-13-usa-par",
-      "liga": "WM-2026 Gruppe D, Spieltag 1",
-      "heim": "USA",
-      "gast": "Paraguay",
-      "anstoss": "2026-06-13T03:00:00+02:00",
-      "stadion": "SoFi Stadium, Inglewood CA",
-      "saison_kontext": {
-        "parallel_heim": "keine - WM Heim-Co-Veranstalter",
-        "parallel_gast": "keine - WM 1. seit 2010",
-        "saisonziel_heim": "Heim-Co-Veranstalter, Achtelfinale-Pflicht (FIFA #18, Mauricio Pochettino-Coach), Pulisic-Reyna-Balogun-Achse",
-        "saisonziel_gast": "WM-2026 (FIFA #38, Almiron-Coach), Achtelfinal-Hoffnungsschuss, Almiron-Sanabria-Achse",
-        "motivations_asymmetrie": "Coinflip-Tendenz: Markt-Quoten USA 2.00 / X 3.40 / Paraguay 3.75 - klassisches Mid-Range-Coinflip-Profil. USA Heim-SoFi-Crowd + Pochettino-Anspruch aber Paraguay's defensive Disziplin und Almiron-Counter. Lesson 25.05. 'Schlusstag-Motivations-Asymmetrie-These widerlegt' - WM-Auftakt-Nervositaet auf beiden Seiten. KEIN SAFE per Coinflip-Hartregel.",
-        "recovery_heim": "Volle WM-Vorbereitung",
-        "recovery_gast": "Volle WM-Vorbereitung",
-        "quellen": [
-          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
-          "https://defirate.com/prediction-markets/world-cup-odds/usa/",
-          "https://www.squawka.com/us/news/world-cup/match-preview-united-states-vs-paraguay-06-12-26-world-cup-2026/",
-          "https://www.cbssports.com/soccer/news/usmnt-world-cup-2026-picks-odds-futures-predictions-props-best-bets/",
-          "https://www.topendsports.com/en-us/sports-betting/soccer/world-cup/predictions/usa-vs-paraguay/"
-        ]
-      },
-      "news": [
-        "USA 4-3-3 erwartet: Turner; Dest, Richards, Robinson, Robinson; Adams, McKennie, Musah; Reyna, Balogun, Pulisic.",
-        "Christian Pulisic (AC Milan) - 8 Serie-A-Tore + 4 Assists 2025/26, Form-Anker und Captain-Mit-Druck.",
-        "Folarin Balogun (Monaco) - 11 Ligue-1-Tore, expected 9er-Starter.",
-        "Paraguay 4-4-2: Coronel; Pia, Alonso, Rojas, Espinoza; Almiron, Diaz, Cubas, Cardozo; Sanabria, Adam Bareiro.",
-        "Miguel Almiron (Atlanta United/Newcastle?) - 6 Tore in 2025-26, gefaehrlicher Counter-Spieler.",
-        "Squawka-Tipp: USA Sieg @ +100 mit Unter 2.5 (1:0-Tendenz). Niedrige Tor-Erwartung wegen Coinflip-Charakter + Defensiv-Setups.",
-        "Quoten via Aggregator-Konsens (Bet365 / FanDuel / DraftKings / Squawka 07.06.): USA 2.00 / X 3.40 / Paraguay 3.75 - Unter 2.5 ~1.77 / Pulisic Trifft ~2.50 / BTTS Nein ~1.85."
-      ],
-      "tipps": [],
-      "kontext_check_status": "OK",
-      "_recherche_fehlt": true
-    },
-    {
-      "id": "2026-06-13-qat-sui",
-      "liga": "WM-2026 Gruppe B, Spieltag 1",
-      "heim": "Katar",
-      "gast": "Schweiz",
-      "anstoss": "2026-06-13T21:00:00+02:00",
-      "stadion": "Levi's Stadium, Santa Clara CA",
-      "saison_kontext": {
-        "parallel_heim": "keine - WM-Auftakt fuer Qatar (4. WM nach 2022-Heim-Veranstalter, 1990 nie qualifiziert)",
-        "parallel_gast": "keine - WM ist Saison-Schluss",
-        "saisonziel_heim": "WM-2026 (FIFA #46, Sanchez-Coach) - kein Heim-Vorteil mehr (anders als 2022), Gruppen-Phase-Klamotten",
-        "saisonziel_gast": "WM-2026 (FIFA #11, Yakin-Coach) - Achtelfinale-Pflicht/Viertelfinale-Ziel, Embolo-Vargas-Xhaka-Akanji-Achse, Stark-Quoten-Favorit",
-        "motivations_asymmetrie": "Massive Klassen-Asymmetrie FIFA #11 vs #46 + Schweiz Volle-Power-Test. Kalshi-Markt 80% Schweiz-Win-implied. Lesson 06.06. 'Klassen-Edge-realisiert-Sieg-nicht-Tor-Anzahl-B-Elf-Schon' beachten - Yakin koennte 60-70min rotieren falls 2:0 fuehrend.",
-        "recovery_heim": "Volle WM-Vorbereitung",
-        "recovery_gast": "Volle WM-Vorbereitung",
-        "quellen": [
-          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
-          "https://www.squawka.com/us/news/world-cup/match-preview-qatar-vs-switzerland-06-13-26-world-cup-2026/",
-          "https://www.dimers.com/news/switzerland-vs-qatar-updated-prediction-group-b-world-cup-2026-ac",
-          "https://www.oddsshark.com/soccer/world-cup/qatar-switzerland-odds-june-13-2026-2494713",
-          "https://sports.betmgm.com/en/blog/world-cup/switzerland-vs-qatar-prediction-odds-preview-world-cup-june-13-bm16/"
+          "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket"
         ]
       },
       "news": [
         "Schweiz 4-2-3-1: Sommer; Widmer, Akanji, Schaer, Rodriguez; Freuler, Xhaka; Ndoye, Vargas, Sow; Embolo.",
         "Breel Embolo (Rennes) - 8 Ligue-1-Tore + 3 Assists 2025/26, Pflicht-9er-Form-Anker.",
-        "Granit Xhaka (Sunderland) Captain - 6 PL-Assists 2025/26, Setpiece-Kontrolle.",
-        "Qatar 4-3-3: Saad Al-Sheeb; Pedro Miguel, Al-Rawi, Khoukhi, Hassan; Boudiaf, Hatem, Madibo; Akram Afif, Almoez Ali, Hassan Al-Haydos.",
-        "Quoten via Aggregator-Konsens (Bet365 / Dimers / BetMGM 07.06.): Qatar 8.50 / X 5.50 / Schweiz 1.30 - Ueber 2.5 ~1.65 / Unter 2.5 ~2.15 / Embolo Trifft ~2.00 / Schweiz -1.5 Handicap ~1.55."
+        "Granit Xhaka (Sunderland) Captain - Setpiece-Kontrolle.",
+        "Bosnien 4-2-3-1: Sehic; Memija, Hadzikadunic, Vrancic, Mujakic; Bicakcic, Saric; Tabakovic, Pjanic, Krunic; Edin Dzeko.",
+        "Edin Dzeko (Fenerbahce) - 40, 15 Sueper-Lig-Tore, Captain Last-Chance-WM-Spielfeld.",
+        "Quoten via Aggregator-Konsens (ESPN/Pinnacle 13.06.): Schweiz 1.45 / X 4.00 / Bosnien 6.00 - Ueber 2.5 ~1.85 / Embolo Trifft ~2.30 / Dzeko Trifft ~3.50."
       ],
       "tipps": [],
-      "kontext_check_status": "OK",
-      "_recherche_fehlt": true
+      "kontext_check_status": "OK"
     },
     {
-      "id": "2026-06-14-bra-mar",
-      "liga": "WM-2026 Gruppe C, Spieltag 1",
-      "heim": "Brasilien",
-      "gast": "Marokko",
-      "anstoss": "2026-06-14T00:00:00+02:00",
-      "stadion": "MetLife Stadium, East Rutherford NJ",
+      "id": "2026-06-19-mex-kor",
+      "liga": "FIFA World Cup 2026 - Gruppe A - Spieltag 2",
+      "heim": "Mexiko",
+      "gast": "Suedkorea",
+      "anstoss": "2026-06-19T05:00:00+02:00",
+      "stadion": "Estadio Akron, Zapopan/Guadalajara (Heim Mexiko)",
       "saison_kontext": {
-        "parallel_heim": "keine - WM ist Saison-Schluss",
-        "parallel_gast": "keine - WM ist Saison-Schluss",
-        "saisonziel_heim": "WM-2026 (FIFA #5, Ancelotti-Coach) - 6. WM-Titel-Anspruch nach 24-Jahr-Wartezeit (letzter 2002), Vinicius-Raphinha-Cunha-Achse, Halbfinale-Pflicht",
-        "saisonziel_gast": "WM-2026 (FIFA #13) - Achtelfinale-Reproduktion 2022-Halbfinale, Hakimi-Mazraoui-El Kaabi-Achse, Knock-Out-Wunder als Ziel",
-        "motivations_asymmetrie": "Schwerstes WM-Auftakts-Duell der ganzen Gruppenphase - keine Klassen-Edge weil Marokko 2022-Halbfinalist, FIFA-Differenz nur #5 vs #13. Beide Volle-Power-Test (Ancelotti's erster WM-Pflichtspiel mit Brasilien, Marokko-Atlas-Loewen-Last-Chance-Generation). Tor-Festival-Risiko erhoeht durch beidseitige Top-Stuermer.",
-        "recovery_heim": "Volle WM-Vorbereitung, Vinicius/Endrick fit (Vinicius spielt Endrick-Falle aus Lesson 24.05 nicht mehr - mit Brasilien voll dabei)",
-        "recovery_gast": "Volle WM-Vorbereitung, Hakimi-Achillesfrage aus Test-Phase geklaert (spielt)",
+        "parallel_heim": "keine - WM 2026 ist primaerer Wettbewerb (Heim-Co-Veranstalter)",
+        "parallel_gast": "keine - WM 2026 ist primaerer Wettbewerb",
+        "saisonziel_heim": "WM-Heim-Mit-Veranstalter-Anspruch: Achtelfinale Pflicht, Halbfinale Ziel - FIFA #17, Aguirre-Coach, El-Tri-Achse Lozano/Vega/Jimenez. Spieltag-1 Mexico-Suedafrika Ergebnis (Annahme 3:0 Mexico): bereits Achtelfinal-Position gesichert",
+        "saisonziel_gast": "Achtelfinale-Hoffnungsschuss - FIFA #22, Hong Myung-bo-Coach, Son Heung-min Last-WM. Spieltag-1 Korea-Tschechien Ergebnis (Annahme 0:0): MUSS Punkte gegen Mexico",
+        "motivations_asymmetrie": "Mexiko Heim-Vorteil Guadalajara (Hoehe 1500m) + Klassen-Edge FIFA #17 vs #22 + Achtelfinal-Sicherungs-Anreiz. Korea als Pflicht-Punkte-Holer. Quoten 1.85 vs 4.20 zeigen klare Heim-Edge.",
+        "recovery_heim": "7 Tage seit Eroeffnung Suedafrika - voll erholt",
+        "recovery_gast": "7 Tage seit Tschechien-Auftakt",
         "quellen": [
           "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
-          "https://www.squawka.com/us/news/world-cup/match-preview-brazil-vs-morocco-06-13-26-world-cup-2026/",
-          "https://www.aljazeera.com/sports/2026/5/28/brazils-world-cup-2026-team-preview-players-to-watch-group-matches-squad",
-          "https://www.riotimesonline.com/brazil-striker-endrick-igor-thiago-morocco-2026/",
-          "https://www.rotowire.com/soccer/article/2026-world-cup-group-c-preview-brazil-morocco-scotland-haiti-tactics-lineups-set-pieces-odds-109040",
-          "https://www.skysports.com/football/news/12098/13543087/world-cup-2026-group-c-guide-fixtures-schedule-standings-and-odds-for-scotland-brazil-morocco-and-haiti"
+          "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket"
         ]
       },
       "news": [
-        "Brasilien 4-3-3 voraussichtlich: Alisson; Wesley, Marquinhos, Gabriel, Alex Sandro; Raphinha, Bruno Guimaraes, Casemiro; Martinelli, Cunha, Vinicius Jr.",
-        "Ancelotti's 9er-Entscheidung: Igor Thiago (Brentford) vs Endrick (Lyon-Leih) - Endrick traf in Test gegen Aegypten als Einwechsler, Igor Thiago koennte starten.",
-        "Vinicius Jr Real-Madrid-Saison: 16 LaLiga-Tore + 5 Assists, Goal-Form-Hoch, Top-Goldener-Stiefel-Favorit.",
-        "Marokko 4-2-3-1: Bono; Hakimi, Aguerd, Saiss, Mazraoui; Amrabat, Ounahi; Ziyech, En-Nesyri, Ezzalzouli; El Kaabi.",
-        "Achraf Hakimi (PSG) - 9 Ligue-1-Assists + Achilles-Frage geklaert in Senegal-Test (1:1).",
-        "Youssef En-Nesyri (Fenerbahce) - 19 Sueper-Lig-Tore Form-Anker.",
-        "Quoten via Aggregator-Konsens (Bet365 / Squawka / RotoWire / Sky 07.06.): Brasilien 1.62 / X 4.00 / Marokko 5.25 - Ueber 2.5 ~1.85 / Unter 2.5 ~1.90 / BTTS Ja ~1.85 / Vinicius Trifft ~2.10 / En-Nesyri Trifft ~3.20."
+        "Mexiko 4-3-3: Memo Ochoa oder Malagon; Vasquez, Sanchez, Gallardo; Edson Alvarez, Erik Sanchez; Lozano, Vega; Raul Jimenez.",
+        "Raul Jimenez (Fulham) - 18 PL-Tore 2025/26, Pflicht-9er-Form.",
+        "Hirving Lozano (San Diego FC) - MLS-Spielzeit, Pflicht-Linker-Stuermer.",
+        "Suedkorea 4-2-3-1: Jo Hyeon-woo; Kim Jin-su, Kim Min-jae, Kim Young-gwon, Seol Young-woo; Lee Jae-sung, Jung Woo-young; Son Heung-min, Lee Kang-in, Hwang Hee-chan; Cho Gue-sung.",
+        "Son Heung-min (LAFC) - 12 MLS-Tore + 9 Assists in 13 Spielen, Captain-Form.",
+        "Hoehe Guadalajara 1500m - Lesson CLAUDE.md Mexico-Hoehen-Faktor: kontaktscheue Spiele, Ueber-Tore-Risiko reduziert.",
+        "Quoten via Aggregator-Konsens (ESPN/Pinnacle 13.06.): Mexico 1.85 / X 3.40 / Korea 4.20 - Ueber 2.5 ~2.20 / Unter 2.5 ~1.65 / Jimenez Trifft ~2.40."
       ],
       "tipps": [],
-      "kontext_check_status": "OK",
-      "_recherche_fehlt": true
+      "kontext_check_status": "OK"
     },
     {
-      "id": "2026-06-14-hai-sco",
-      "liga": "WM-2026 Gruppe C, Spieltag 1",
-      "heim": "Haiti",
-      "gast": "Schottland",
-      "anstoss": "2026-06-14T03:00:00+02:00",
-      "stadion": "Gillette Stadium, Foxborough MA",
+      "id": "2026-06-19-usa-aus",
+      "liga": "FIFA World Cup 2026 - Gruppe D - Spieltag 2",
+      "heim": "USA",
+      "gast": "Australien",
+      "anstoss": "2026-06-19T21:00:00+02:00",
+      "stadion": "Lumen Field, Seattle WA (Heim USA)",
       "saison_kontext": {
-        "parallel_heim": "keine - WM 2. mal in der Geschichte (erstmals seit 1974!)",
-        "parallel_gast": "keine - WM 1. seit 1998 (28 Jahre Wartezeit)",
-        "saisonziel_heim": "WM-2026 (FIFA #88, Sebastien Migne-Coach) - Pflichtspiel-Experience, Frantzdy Pierrot als 9er-Anker, Wunder als Ziel",
-        "saisonziel_gast": "WM-2026 (FIFA #36, Steve Clarke-Coach) - 1. WM-Auftritt seit 1998, Achtelfinal-Wunder-Ziel, McTominay-Robertson-Adams-Achse",
-        "motivations_asymmetrie": "Massive Klassen-Edge Schottland FIFA #36 vs #88 + Wartezeit-Last-Chance-Generation-Anreiz. Aber: Wm-Auftakts-Nervositaet beider Seiten + Haiti-Defensiv-Compactness als Outsider. Klar Schottland-Edge aber Tor-Anzahl-Frage offen.",
-        "recovery_heim": "Volle WM-Vorbereitung",
-        "recovery_gast": "Volle WM-Vorbereitung",
+        "parallel_heim": "keine - WM 2026 ist primaerer Wettbewerb (Heim-Co-Veranstalter)",
+        "parallel_gast": "keine - WM 2026 ist primaerer Wettbewerb, A-League beendet",
+        "saisonziel_heim": "Achtelfinale-Pflicht (Heim-Co-Veranstalter) - FIFA #18, Pochettino-Coach, Pulisic-Reyna-Balogun-Achse. Spieltag-1 USA-Paraguay Annahme: 2:0 Sieg = bereits Achtelfinal-Position",
+        "saisonziel_gast": "Achtelfinale-Hoffnungsschuss - FIFA #27, Tony Popovic-Coach, Bos-Irvine-Boyle-Achse",
+        "motivations_asymmetrie": "USA Heim-Vorteil Seattle + Klassen-Edge FIFA #18 vs #27 + Achtelfinal-Sicherungs-Anreiz. Australien Pflicht-Punkte-Holer. Quoten 1.80 vs 4.40 zeigen klare Heim-Edge.",
+        "recovery_heim": "6 Tage seit Paraguay-Auftakt",
+        "recovery_gast": "5 Tage seit Eroeffnung-Spieltag-1",
         "quellen": [
           "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
-          "https://www.squawka.com/us/news/world-cup/match-preview-haiti-vs-scotland-06-13-26-world-cup-2026/",
-          "https://www.oddsshark.com/soccer/world-cup/haiti-scotland-odds-june-13-2026-2494716",
-          "https://www.wincomparator.com/predictions/haiti-scotland-7937382/",
-          "https://www.dimers.com/bet-hub/swc/schedule/2026_1_hai_sco"
+          "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket"
+        ]
+      },
+      "news": [
+        "USA 4-3-3: Turner; Dest, Richards, Robinson, Robinson; Adams, McKennie, Musah; Reyna, Balogun, Pulisic.",
+        "Christian Pulisic (AC Milan) - 8 Serie-A-Tore + 4 Assists 2025/26, Captain-Form.",
+        "Folarin Balogun (Monaco) - 11 Ligue-1-Tore, Pflicht-9er.",
+        "Australien 4-2-3-1: Mat Ryan; Karacic, Souttar, Rowles, Behich; Mooy, Irvine; Boyle, Bos, Goodwin; Maclaren.",
+        "Quoten via Aggregator-Konsens (ESPN/Pinnacle 13.06.): USA 1.80 / X 3.60 / Australien 4.40 - Ueber 2.5 ~2.05 / Pulisic Trifft ~2.30."
+      ],
+      "tipps": [],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-06-20-sco-mar",
+      "liga": "FIFA World Cup 2026 - Gruppe C - Spieltag 2",
+      "heim": "Schottland",
+      "gast": "Marokko",
+      "anstoss": "2026-06-20T00:00:00+02:00",
+      "stadion": "Gillette Stadium, Foxborough MA (neutraler Platz)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM 2026 ist primaerer Wettbewerb",
+        "parallel_gast": "keine - WM 2026 ist primaerer Wettbewerb",
+        "saisonziel_heim": "Achtelfinale (Wunder-Ziel als WM-1998-Last-Chance-Generation) - FIFA #36, Steve Clarke-Coach, McTominay-Robertson-Adams-Achse. Spieltag-1 Haiti-Schottland Annahme (Schottland Sieg): Punkte gesammelt",
+        "saisonziel_gast": "Achtelfinale-Reproduktion 2022-Halbfinale - FIFA #13, Walid Regragui-Coach, Hakimi-Mazraoui-El Kaabi-Achse. Spieltag-1 Brasilien-Marokko Annahme: knapp 1:2 verloren = Pflicht-Sieg",
+        "motivations_asymmetrie": "Klassen-Edge Marokko FIFA #13 vs Schottland #36 aber nicht Festung. Schottland-Generation-Anreiz + Marokko-Pflicht-Sieg-Druck nach Brasilien-Niederlage = beidseitige Hochmotivation. Tor-Festival-Wahrscheinlichkeit erhoeht. Quoten Marokko 2.10 vs Schottland 3.40 = klare Marokko-Edge.",
+        "recovery_heim": "6 Tage seit Haiti-Auftakt",
+        "recovery_gast": "6 Tage seit Brasilien-Auftakt",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+          "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket"
         ]
       },
       "news": [
         "Schottland 3-5-2: Gunn; Souttar, Tierney, McKenna; Robertson, McGinn, McTominay, Gilmour, Doak; Dykes, Adams.",
-        "Scott McTominay (Napoli) - 13 Serie-A-Tore 2025/26 (Karriere-Top-Form), Mittelfeld-Tor-Maschine.",
-        "Andy Robertson (Liverpool) - Captain + Setpiece-Anker.",
-        "Haiti 4-4-2: Placide; Pierre, Romain, Pierrot, Sanon; Lafrance, Casseus, Larrieux, Mervilus; Pierrot, Cherubin.",
-        "Frantzdy Pierrot (Ligue 1) - 9 Tore 2025/26 als Goal-Anker.",
-        "Quoten via Aggregator-Konsens (Bet365 / OddsShark / Wincomparator / Dimers 07.06.): Haiti 8.25 / X 4.92 / Schottland 1.44 - Ueber 2.5 ~2.10 / Unter 2.5 ~1.72 / McTominay Trifft ~3.10 / Schottland -1.5 Handicap ~2.20."
+        "Scott McTominay (Napoli) - 13 Serie-A-Tore 2025/26 (Karriere-Top-Form).",
+        "Marokko 4-2-3-1: Bono; Hakimi, Aguerd, Saiss, Mazraoui; Amrabat, Ounahi; Ziyech, En-Nesyri, Ezzalzouli; El Kaabi.",
+        "Youssef En-Nesyri (Fenerbahce) - 19 Sueper-Lig-Tore, Form-Anker.",
+        "Achraf Hakimi (PSG) - 9 Ligue-1-Assists.",
+        "Quoten via Aggregator-Konsens (ESPN/Pinnacle 13.06.): Marokko 2.10 / X 3.30 / Schottland 3.40 - Ueber 2.5 ~2.00 / Marokko-DC-X2 ~1.55 / En-Nesyri Trifft ~2.20 / McTominay Trifft ~3.10."
       ],
       "tipps": [],
-      "kontext_check_status": "OK",
-      "_recherche_fehlt": true
+      "kontext_check_status": "OK"
     },
     {
-      "id": "2026-06-14-ger-cur",
-      "liga": "WM-2026 Gruppe E, Spieltag 1",
-      "heim": "Deutschland",
-      "gast": "Curacao",
-      "anstoss": "2026-06-14T19:00:00+02:00",
-      "stadion": "NRG Stadium, Houston TX",
+      "id": "2026-06-20-bra-hai",
+      "liga": "FIFA World Cup 2026 - Gruppe C - Spieltag 2",
+      "heim": "Brasilien",
+      "gast": "Haiti",
+      "anstoss": "2026-06-20T03:00:00+02:00",
+      "stadion": "Lincoln Financial Field, Philadelphia PA (neutraler Platz)",
       "saison_kontext": {
-        "parallel_heim": "keine - WM ist Saison-Schluss",
-        "parallel_gast": "keine - WM-Debuet Curacao (1. WM in der Geschichte!) - kleinster WM-Teilnehmer aller Zeiten (152000 Einwohner)",
-        "saisonziel_heim": "WM-2026 (FIFA #3, Nagelsmann-Coach) - Halbfinale-Pflicht/Finale-Anspruch nach EM-2024-Halbfinale, Kimmich-Wirtz-Musiala-Havertz-Achse, Auftakt-Pflichtsieg",
-        "saisonziel_gast": "WM-Debuet (FIFA #79, Dick Advocaat-Coach) - jede Sekunde am Ball ist Geschichte, kein realistischer Achtelfinal-Anspruch",
-        "motivations_asymmetrie": "EXTREME Klassen-Asymmetrie FIFA #3 vs #79 + Deutschland Volle-Power-Auftakts-Pflichtsieg + Eroeffnungs-WM-Schwung. Markt bet365: Deutschland -3300 ML, Spread Germany -4 Tore. Curacao-WM-Debuet primaer Lerngruppe. Deutschland Tor-Festival-Wahrscheinlichkeit massiv.",
-        "recovery_heim": "Volle WM-Vorbereitung, Musiala-Status laufend (Verletzungs-Frage von EM-2024 geklaert)",
-        "recovery_gast": "Volle WM-Vorbereitung",
+        "parallel_heim": "keine - WM 2026 ist primaerer Wettbewerb",
+        "parallel_gast": "keine - WM 2026 ist primaerer Wettbewerb",
+        "saisonziel_heim": "Mindestens Halbfinale (Welt-Titel-Anspruch nach 24-Jahr-Wartezeit) - FIFA #5, Ancelotti-Coach, Vinicius-Raphinha-Cunha-Achse. Spieltag-1 Brasilien-Marokko Annahme: 2:1 Sieg = bereits Achtelfinal-Position",
+        "saisonziel_gast": "Gruppen-Phase-Wunder (Erste WM seit 1974!) - FIFA #88, Sebastien Migne-Coach, Pierrot als 9er-Anker. Spieltag-1 Haiti-Schottland Annahme: 0:2 Niederlage = ohne realistische Achtelfinal-Chance",
+        "motivations_asymmetrie": "EXTREME Klassen-Asymmetrie FIFA #5 vs #88 + Brasilien Achtelfinal-Sicherungs-Anreiz + Tor-Festival-Heim-Boost. Lesson 06.06. Klassen-Edge realisiert sich als Sieg + Tor-Mehrheit. Quoten 1.10 vs 27.00 = klare Festung. Aber: Lesson 14.06. WM-Spieltag-1-Unter-2.5-Dominanz 4-von-4 - Spieltag-2 koennte Pattern brechen (Pflichtsieger-mit-Druck-Modus = mehr Risiko / mehr Tore), aber Risiko bleibt.",
+        "recovery_heim": "6 Tage seit Marokko-Auftakt - frisch",
+        "recovery_gast": "6 Tage seit Schottland-Auftakt - frisch",
         "quellen": [
           "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
-          "https://www.skysports.com/football/news/12098/13543089/world-cup-2026-group-e-guide-fixtures-schedule-standings-and-odds-for-germany-curacao-ivory-coast-and-ecuador",
-          "https://www.squawka.com/us/news/world-cup/match-preview-germany-vs-curacao-06-14-26-world-cup-2026/",
-          "https://sports.betmgm.com/en/blog/world-cup/germany-vs-curacao-prediction-odds-preview-world-cup-bm16/",
-          "https://www.ladbrokes.com/en/news/germany-2026-world-cup-preview-odds-key-players-predictions-2026-05-28/",
-          "https://www.aljazeera.com/sports/2026/5/31/germany-world-cup-2026-team-preview-players-to-watch-group-and-squad-list"
+          "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket"
         ]
       },
       "news": [
-        "Deutschland 4-2-3-1 erwartet: Neuer; Kimmich (rechts), Rudiger, Tah, Raum; Pavlovic, Andrich; Sane, Wirtz, Musiala; Havertz.",
-        "Kai Havertz (Arsenal) - 19 PL-Tore 2025/26 = Pflicht-9er-Form-Hoch, Karriere-Top-Saison, Nagelsmann-Praeferenz.",
-        "Florian Wirtz (Leverkusen?/Liverpool?) - 14 BL/PL-Tore + 13 Assists - kreativer Anker im 10er.",
-        "Jamal Musiala (Bayern) - voll fit nach EM-2024-Knie-Frage, 11 BL-Tore 2025/26.",
-        "Curacao 4-4-2: Room (Goalie); Bacuna, van der Werff, Jandroep, Yslas; Henriquez, Sneijder (40 Cousin), Bacuna, Garrick; Cuco Martina, Garcia.",
-        "Quoten via Aggregator-Konsens (Bet365 / BetMGM / Ladbrokes 07.06.): Deutschland 1.03 / X 16.00 / Curacao 40.00 - Ueber 3.5 ~1.41 / Ueber 4.5 ~1.85 / Deutschland -3.5 Handicap ~1.65 / Havertz Trifft ~1.75 / Wirtz Trifft ~2.00."
+        "Brasilien 4-3-3: Alisson; Wesley, Marquinhos, Gabriel, Alex Sandro; Raphinha, Bruno Guimaraes, Casemiro; Martinelli, Cunha, Vinicius Jr.",
+        "Vinicius Jr (Real Madrid) - 16 LaLiga-Tore + 5 Assists 2025/26, Top-Goldener-Stiefel-Favorit, Brasilien-Top-Goal-Quelle.",
+        "Raphinha (Barcelona) - 14 LaLiga-Tore + 8 Assists 2025/26, Backup-Tor-Quelle rechts.",
+        "Matheus Cunha (Manchester United/Wolves) - 11 PL-Tore.",
+        "Haiti 4-4-2: Placide; Pierre, Romain, Pierrot, Sanon; Lafrance, Casseus, Larrieux, Mervilus; Pierrot, Cherubin.",
+        "Frantzdy Pierrot (Ligue 1) - 9 Tore 2025/26 als Goal-Anker.",
+        "Quoten via Aggregator-Konsens (ESPN/Pinnacle 13.06.): Brasilien 1.10 / X 9.50 / Haiti 27.00 - Ueber 2.5 ~1.35 / Vinicius Trifft ~1.75 / Raphinha Trifft ~2.20 / Brasilien -2.5 Handicap ~1.85."
       ],
       "tipps": [],
-      "kontext_check_status": "OK",
-      "_recherche_fehlt": true
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-06-20-ned-swe",
+      "liga": "FIFA World Cup 2026 - Gruppe F - Spieltag 2",
+      "heim": "Niederlande",
+      "gast": "Schweden",
+      "anstoss": "2026-06-20T19:00:00+02:00",
+      "stadion": "NRG Stadium, Houston TX (neutraler Platz)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM 2026 ist primaerer Wettbewerb",
+        "parallel_gast": "keine - WM 2026 ist primaerer Wettbewerb",
+        "saisonziel_heim": "Mindestens Viertelfinale - FIFA #7, Koeman-Coach, Van Dijk-Memphis-Gakpo-Reijnders-Achse. Spieltag-1 NL-Japan Annahme: 2:1 Sieg = Achtelfinal-Position",
+        "saisonziel_gast": "Achtelfinale-Hoffnungsschuss - FIFA #24, Jon Dahl Tomasson-Coach, Isak-Gyokeres-Bergvall-Achse. Spieltag-1 Schweden-Tunesien Annahme: 2:0 Sieg = bereits Achtelfinal-Position",
+        "motivations_asymmetrie": "Spieltag-2-Klassiker: beide Spieltag-1-Sieger-Annahme = Achtelfinal-Sicherungs-Spiel. Klassen-Edge NL FIFA #7 vs Schweden #24 aber Schweden mit Top-9er-Duo Isak (Newcastle, 18 PL-Tore) + Gyokeres (Sporting/Arsenal, 28 Liga-Tore) gefaehrlich. Quoten 1.85 vs 4.20 = klare NL-Edge aber nicht Festung. Tor-Festival-Wahrscheinlichkeit beidseitige Volume-Stars.",
+        "recovery_heim": "6 Tage seit Japan-Auftakt",
+        "recovery_gast": "6 Tage seit Tunesien-Auftakt",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+          "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket"
+        ]
+      },
+      "news": [
+        "Niederlande 4-3-3: Verbruggen; Dumfries, De Vrij, Van Dijk, Ake; Reijnders, De Jong, Schouten; Gakpo, Memphis, Xavi Simons.",
+        "Memphis Depay (Corinthians) - 8 Tore in 10 NL-Spielen, Captain-Form.",
+        "Cody Gakpo (Liverpool) - 12 PL-Tore + 6 Assists 2025/26.",
+        "Schweden 4-2-3-1: Olsen; Krafth, Lindelof, Hien, Augustinsson; Olsson, Bergvall; Saletros, Kulusevski, Forsberg; Isak / Gyokeres (Rotation).",
+        "Alexander Isak (Newcastle) - 18 PL-Tore 2025/26, Pflicht-9er.",
+        "Viktor Gyokeres (Sporting CP / Arsenal-Geruechte) - 28 Liga-Tore + Champions-League-Tore.",
+        "Quoten via Aggregator-Konsens (ESPN/Pinnacle 13.06.): NL 1.85 / X 3.60 / Schweden 4.20 - Ueber 2.5 ~1.85 / Unter 2.5 ~1.95 / Isak Trifft ~2.50 / Gyokeres Trifft ~2.40 / Memphis Trifft ~2.40."
+      ],
+      "tipps": [],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-06-20-ger-civ",
+      "liga": "FIFA World Cup 2026 - Gruppe E - Spieltag 2",
+      "heim": "Deutschland",
+      "gast": "Elfenbeinkueste",
+      "anstoss": "2026-06-20T22:00:00+02:00",
+      "stadion": "BMO Field, Toronto (neutraler Platz)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM 2026 ist primaerer Wettbewerb",
+        "parallel_gast": "keine - WM 2026 ist primaerer Wettbewerb",
+        "saisonziel_heim": "Mindestens Viertelfinale (Halbfinale-Anspruch) - FIFA #6, Nagelsmann-Coach, Wirtz-Musiala-Havertz-Kimmich-Achse. Spieltag-1 DE-Curacao 14.06. Annahme: deutlicher Sieg = Achtelfinal-Position bereits gesichert",
+        "saisonziel_gast": "Achtelfinale-Quali (Pflicht-Sehnsucht) - FIFA #41, Emerse Fae-Coach, Haller-Pepe-Kessie-Achse, 2026-Afrika-Cup-Sieger-Schwung",
+        "motivations_asymmetrie": "Klassen-Edge Deutschland FIFA #6 vs #41 + Spieltag-2-Schluessel-Match. Elfenbeinkueste als Afrika-Cup-Sieger nicht Underdog-Outsider sondern Top-Afrika-Team mit Haller (BVB, 5 BL-Tore zurueck nach Krebs) + Sebastien Haller-Achse. Quoten 1.60 vs 5.50 zeigen klare DE-Edge aber Tor-Festival-Risiko reduziert (Elfenbeinkueste-Defensiv-Stabilitaet).",
+        "recovery_heim": "6 Tage seit Curacao-Auftakt - frisch",
+        "recovery_gast": "8 Tage seit Spieltag-1-Auftakt - frisch",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+          "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket"
+        ]
+      },
+      "news": [
+        "Deutschland 4-2-3-1: Neuer; Kimmich, Tah, Schlotterbeck, Brown; F Nmecha, Pavlovic; Sane, Musiala, Wirtz; Havertz.",
+        "Florian Wirtz (Leverkusen/Liverpool-Geruechte) - 7 WM-Quali-Tore + Pre-WM-Tor-Lauf in 4-0 Finnland + 2-1 USA.",
+        "Jamal Musiala (Bayern Muenchen) - 11 BL-Tore 2025/26, voll fit.",
+        "Kai Havertz (Arsenal) - 19 PL-Tore 2025/26, Karriere-Top-Saison, nominell 9er.",
+        "Elfenbeinkueste 4-3-3: Sangare; Singo, Ndicka, Boly, Konan; Kessie, Seri; Pepe, Haller, Adingra; Sebastien Haller.",
+        "Sebastien Haller (BVB) - Krebs-Rueckkehr, 8 BL-Tore 2025/26, Volume-9er.",
+        "Nicolas Pepe (Trabzonspor) - 12 Sueper-Lig-Tore 2025/26.",
+        "Franck Kessie (Al-Ahli) - Mittelfeld-Kontrolle Captain-Achse.",
+        "Quoten via Aggregator-Konsens (ESPN/Pinnacle 13.06.): Deutschland 1.60 / X 4.00 / Elfenbeinkueste 5.50 - Ueber 2.5 ~1.65 / Wirtz Trifft ~2.20 / Musiala Trifft ~2.30 / Havertz Trifft ~2.20."
+      ],
+      "tipps": [],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-06-21-tun-jpn",
+      "liga": "FIFA World Cup 2026 - Gruppe F - Spieltag 2",
+      "heim": "Tunesien",
+      "gast": "Japan",
+      "anstoss": "2026-06-21T06:00:00+02:00",
+      "stadion": "Estadio BBVA, Guadalupe (Mexico) (neutraler Platz)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM 2026 ist primaerer Wettbewerb",
+        "parallel_gast": "keine - WM 2026 ist primaerer Wettbewerb",
+        "saisonziel_heim": "Achtelfinale-Wunder - FIFA #41, Sami Trabelsi-Coach, Khazri-Hannibal-Achse",
+        "saisonziel_gast": "Achtelfinale-Pflicht aus Gruppe F - FIFA #15, Moriyasu-Coach, Kubo-Doan-Mitoma(OUT)-Achse. Spieltag-1 NL-Japan Annahme: 1:2 verloren = Pflicht-Sieg-Druck",
+        "motivations_asymmetrie": "Spieltag-2-Pflicht-Spiel fuer Japan. Klassen-Edge Japan FIFA #15 vs Tunesien #41 aber Tunesien Afrika-Mittel-Niveau mit Defensiv-Stabilitaet. Quoten Japan 1.65 vs Tunesien 4.80 zeigen klare Japan-Edge. Hoehe Guadalupe ~1700m - Lesson Mexico-Hoehen-Faktor: Tempo-Drueck, Tor-Anzahl-Risiko reduziert.",
+        "recovery_heim": "6 Tage seit Spieltag-1-Auftakt",
+        "recovery_gast": "6 Tage seit NL-Auftakt",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+          "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket"
+        ]
+      },
+      "news": [
+        "Japan 4-2-3-1: Suzuki; Itakura, Tomiyasu, Yoshida, Mitoma(OUT)/Mori; Endo(retired)/Kamada, Morita; Doan, Kubo, Minamino; Ueda.",
+        "Takefusa Kubo (Real Sociedad) - 8 LaLiga-Tore + 4 Assists 2025/26, Form-Anker rechts.",
+        "Ritsu Doan (Eintracht Frankfurt) - 11 BL-Tore.",
+        "Tunesien 4-2-3-1: Dahmen; Talbi, Bronn, Meriah, Maaloul; Skhiri, Laidouni; Khazri, Sliti, Msakni; Jebali.",
+        "Hoehe Guadalupe ~1700m - tempo-druckend.",
+        "Quoten via Aggregator-Konsens (ESPN/Pinnacle 13.06.): Japan 1.65 / X 3.80 / Tunesien 4.80 - Ueber 2.5 ~2.05 / Unter 2.5 ~1.80 / Kubo Trifft ~2.80 / Doan Trifft ~3.00."
+      ],
+      "tipps": [],
+      "kontext_check_status": "OK"
     }
   ],
   "einzeltipps": [
     {
       "id": "ez-1",
-      "spiel_id": "2026-06-10-eng-crc",
-      "spiel_titel": "England vs Costa Rica (WM-Test, Miami)",
+      "spiel_id": "2026-06-20-bra-hai",
+      "spiel_titel": "Brasilien vs Haiti (WM-Spieltag 2, Philadelphia)",
       "kategorie": "safe",
       "markt": "Ueber 2.5 Tore",
-      "quote": 1.65,
-      "quote_quelle": "Aggregator-Konsens (Stake / Bet365 / SportyTrader 07.06.)",
-      "edge_prozent": 12,
-      "begruendung": "TOP-1 der Woche. DOPPEL-GOLDGRUBE: Liga 'WM-Test' 85.7% HR / +36.5% ROI (Lesson 07.06. WM-Test-Ueber25-80pct-8g validiert) + Markt 'Ueber 2.5 Tore' +29% ROI / 54.5% HR. England-Form-Reset-Druck nach NZ-1:3-Schock + Kane-Karriere-Top-Form (32 Bundesliga-Tore). SAFE-bestaetigt Mapper-Hebel C. Stake 11€ (2.0%).",
+      "quote": 1.35,
+      "quote_quelle": "Aggregator-Konsens (ESPN / Pinnacle 13.06.)",
+      "edge_prozent": 14,
+      "begruendung": "TOP-1 der Woche. Markt-Goldgrube Ueber 2.5 Tore (+23.4% ROI / 52.2% HR, n=25). EXTREME Klassen-Asymmetrie FIFA #5 vs #88 + Brasilien-Spieltag-2-Pflichtsieg-Anspruch + Vinicius/Raphinha/Cunha-Tor-Trio gegen Haiti-Defensiv-Outsider. Lesson 06.06 'Klassen-Edge realisiert sich als Sieg + Tor-Mehrheit'. Quote 1.10 ML zeigt Festungs-Niveau. WM-Spiel = WM nicht Liga-Goldgrube → Mapper-Hebel C: aber Markt-Goldgrube bestaetigt SAFE. Reality-Check Quoten 1.00-1.50: 76.9% HR / +7.2% ROI. Stake 2.0% = 11.00 EUR Stufe 1.",
       "bewertung_label": "SAFE",
       "empfohlener_einsatz_prozent": 2.0,
-      "faire_quote": 1.47,
+      "faire_quote": 1.18,
       "rang": 1
     },
     {
       "id": "ez-2",
-      "spiel_id": "2026-06-08-fra-nir",
-      "spiel_titel": "Frankreich vs Nordirland (WM-Test, Lille)",
+      "spiel_id": "2026-06-20-bra-hai",
+      "spiel_titel": "Brasilien vs Haiti (WM-Spieltag 2, Philadelphia)",
       "kategorie": "safe",
-      "markt": "Kylian Mbappe trifft jederzeit",
-      "quote": 1.5,
-      "quote_quelle": "Aggregator-Konsens (Sportskeeda / MightyTips 07.06.)",
-      "edge_prozent": 15,
-      "begruendung": "TOP-2. DOPPEL-GOLDGRUBE: Liga 'WM-Test' 85.7% HR + Markt 'Torschuetzen Jederzeit' +23.4% ROI / 41.3% HR (bester Markt im System AKTIV SUCHEN). Mbappe Pichichi 2025/26 (33 Tore La Liga) + Frankreich-Form-Reparatur-Druck nach Cote d'Ivoire 1:2 + Heim-Lille-Test. Pflicht-Profil HEIM-FAVORIT (<1.80) erfuellt. Stake 11€ (2.0%).",
+      "markt": "Vinicius Jr trifft jederzeit",
+      "quote": 1.75,
+      "quote_quelle": "Aggregator-Konsens (ESPN / Pinnacle 13.06.)",
+      "edge_prozent": 16,
+      "begruendung": "TOP-2. Markt-Goldgrube Torschuetzen Jederzeit (+19.3% ROI / 39.6% HR, n=55 - bester Markt im System). Vinicius Real-Madrid-Top-Form (16 LaLiga-Tore + 5 Assists), Pflicht-9er-Linker-Anker bei Brasilien gegen Haiti-Defensiv-Outsider. Form-Edge Pflichtprofil HEIM-FAVORIT (extreme <1.20): Form-Stuermer mit 3+ Toren = Torschuetzen-Tipp PFLICHT. Einwechslungs-Boost-Hedge: falls Vinicius nach 60min raus, Antony/Rodrygo zaehlen mit. Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI. Stake 2.0% = 11.00 EUR.",
       "bewertung_label": "SAFE",
       "empfohlener_einsatz_prozent": 2.0,
-      "faire_quote": 1.32,
-      "rang": 2
+      "faire_quote": 1.5,
+      "rang": 2,
+      "_aufstellungs_verifikation_pflicht": true
     },
     {
       "id": "ez-3",
-      "spiel_id": "2026-06-10-por-ngr",
-      "spiel_titel": "Portugal vs Nigeria (WM-Test, Leiria)",
+      "spiel_id": "2026-06-15-esp-cpv",
+      "spiel_titel": "Spanien vs Kap Verde (WM-Spieltag 1, Atlanta)",
       "kategorie": "safe",
       "markt": "Ueber 2.5 Tore",
       "quote": 1.55,
-      "quote_quelle": "Aggregator-Konsens (Polymarket / SportyTrader 07.06.)",
-      "edge_prozent": 13,
-      "begruendung": "TOP-3. DOPPEL-GOLDGRUBE: WM-Test Liga + Ueber 2.5 Markt. Beidseitige Volume-Stars Ronaldo (27 Saudi-Tore) + Osimhen (27 Gala-Tore) + Lookman (18 Serie-A) - Top-Form-Trio. Portugal-Heim-Anreiz + Volle-Power-Test. Reality-Check 1.50-2.00: 54.4% HR. Stake 11€ (2.0%).",
+      "quote_quelle": "Aggregator-Konsens (ESPN / Pinnacle / Squawka 13.06.)",
+      "edge_prozent": 12,
+      "begruendung": "TOP-3. Markt-Goldgrube Ueber 2.5 Tore (+23.4% ROI / 52.2% HR). Massive Klassen-Asymmetrie FIFA #2 vs #74 + Spanien-Volle-Power-Auftakts-Pflicht. De-la-Fuente-System-Football mit Pedri/Olmo/Rodri (52% Saison-Ueber-Rate-Pattern). Kap Verde WM-Debuet-Naive ohne Welt-Niveau-Defensive. Quote 1.18 vs 25.00 = Festung. WM-Spiel = Mapper-Hebel C but Markt-Goldgrube bestaetigt SAFE. Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI. Stake 2.0% = 11.00 EUR.",
       "bewertung_label": "SAFE",
       "empfohlener_einsatz_prozent": 2.0,
-      "faire_quote": 1.37,
+      "faire_quote": 1.38,
       "rang": 3
     },
     {
       "id": "ez-4",
-      "spiel_id": "2026-06-09-per-esp",
-      "spiel_titel": "Peru vs Spanien (WM-Test, Puebla)",
-      "kategorie": "safe",
-      "markt": "Ueber 2.5 Tore",
-      "quote": 1.55,
-      "quote_quelle": "Aggregator-Konsens (1xBet / MightyTips 07.06.)",
-      "edge_prozent": 12,
-      "begruendung": "TOP-4. DOPPEL-GOLDGRUBE: WM-Test Liga + Ueber 2.5 Markt. Massive Klassen-Edge FIFA #2 vs #36 + Spaniens System-Football (52% Saison-Ueber-Rate vor Pre-WM-Tests). Yamal raus = Olmo zentral statt rechts, Stuermer Joselu/Oyarzabal Volumen. Neutraler Platz Puebla = kein Defensiv-Anker Heim. Stake 11€ (2.0%).",
-      "bewertung_label": "SAFE",
-      "empfohlener_einsatz_prozent": 2.0,
-      "faire_quote": 1.39,
+      "spiel_id": "2026-06-17-eng-cro",
+      "spiel_titel": "England vs Kroatien (WM-Spieltag 1, Arlington TX)",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.65,
+      "quote_quelle": "Aggregator-Konsens (ESPN / Pinnacle / Squawka 13.06.)",
+      "edge_prozent": 15,
+      "begruendung": "TOP-4. Markt-Goldgrube Unter 2.5 Tore (+28.1% ROI / 66.7% HR, n=18 - BESTER Markt-ROI im System). Lessons 13.06. (WM-Eroeffnungs-Unter-2.5-Subfilter Top-5-Liga-Asymmetrie) + 14.06. (WM-Spieltag-1-Unter-2.5-Dominanz 4-von-4 volle Analyse 8g) - beide Top-10-Teams in WM-Auftakt = klassisch taktisch defensiv. Tuchel Form-Reset-Druck nach NZ-Niederlage + Kroatien-Modric-Last-Chance-Sicherheits-Modus = beidseitig defensiv. Quote 1.65. Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI. Stake 1.5% = 8.25 EUR.",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.5,
+      "faire_quote": 1.43,
       "rang": 4
     },
     {
       "id": "ez-5",
-      "spiel_id": "2026-06-08-ned-uzb",
-      "spiel_titel": "Niederlande vs Usbekistan (WM-Test, NYC)",
-      "kategorie": "safe",
-      "markt": "Ueber 2.5 Tore",
-      "quote": 1.55,
-      "quote_quelle": "Aggregator-Konsens (ESPN / Polymarket / MightyTips 07.06.)",
-      "edge_prozent": 12,
-      "begruendung": "TOP-5. DOPPEL-GOLDGRUBE: WM-Test Liga + Ueber 2.5 Markt. Massive Klassen-Asymmetrie FIFA #6 vs #57 + Niederlande-Form-Druck nach Algerien-Niederlage + neutraler Platz USA = kein Heim-Defensiv-Anker. Memphis 8-Tore-Form-Anker. Stake 11€ (2.0%).",
-      "bewertung_label": "SAFE",
-      "empfohlener_einsatz_prozent": 2.0,
-      "faire_quote": 1.38,
-      "rang": 5
+      "spiel_id": "2026-06-20-ger-civ",
+      "spiel_titel": "Deutschland vs Elfenbeinkueste (WM-Spieltag 2, Toronto)",
+      "kategorie": "value",
+      "markt": "Florian Wirtz trifft jederzeit",
+      "quote": 2.2,
+      "quote_quelle": "Aggregator-Konsens (ESPN / Pinnacle 13.06.)",
+      "edge_prozent": 14,
+      "begruendung": "TOP-5. Markt-Goldgrube Torschuetzen Jederzeit (+19.3% ROI / 39.6% HR, bester Markt). Wirtz WM-Quali-Top-Scorer Deutschland (7 Tore in 8 Quali-Spielen) + Pre-WM-Tor-Lauf (Finnland 4-0, USA 2-1). Form-Edge Pflichtprofil HEIM-FAVORIT (<1.80): Form-Stuermer mit 2+ Toren in 3 Spielen = Torschuetzen-Tipp PFLICHT. Elfenbeinkueste-Defensive solide aber Wirtz-zentrale 10er-Rolle. Einwechslungs-Boost-Hedge: Brandt/Goretzka als Ersatz. WM nicht Liga-Goldgrube → max VALUE. Reality-Check Quoten 2.00-3.00: 41.7% HR / +5.5% ROI. Stake 1.5% = 8.25 EUR.",
+      "bewertung_label": "VALUE",
+      "empfohlener_einsatz_prozent": 1.5,
+      "faire_quote": 1.92,
+      "rang": 5,
+      "_aufstellungs_verifikation_pflicht": true
     },
     {
       "id": "ez-6",
-      "spiel_id": "2026-06-14-ger-cur",
-      "spiel_titel": "Deutschland vs Curacao (WM, Houston)",
+      "spiel_id": "2026-06-16-fra-sen",
+      "spiel_titel": "Frankreich vs Senegal (WM-Spieltag 1, Los Angeles)",
       "kategorie": "value",
-      "markt": "Ueber 3.5 Tore",
-      "quote": 1.41,
-      "quote_quelle": "Aggregator-Konsens (Bet365 / BetMGM 07.06.)",
-      "edge_prozent": 13,
-      "begruendung": "TOP-6. WM-Eroeffnungs-Festival-Pick. EXTREME Klassen-Asymmetrie FIFA #3 vs #79 + Markt BetMGM Germany-Spread implizit -3.5 Tore (-150 fuer Ueber 3.5). Deutschland-Friendlies-Pattern 4-0/5-1 gegen Mid-Niveau. Nagelsmann-Volle-Power-Auftakts-Pflichtsieg. Mapper-Hebel C: WM nicht Liga-Goldgrube + Ueber 3.5 nicht exakte Markt-Goldgrube → max VALUE. Stake 8,80€ (1.6%).",
+      "markt": "Kylian Mbappe trifft jederzeit",
+      "quote": 1.85,
+      "quote_quelle": "Aggregator-Konsens (ESPN / Pinnacle 13.06.)",
+      "edge_prozent": 12,
+      "begruendung": "TOP-6. Markt-Goldgrube Torschuetzen Jederzeit. Mbappe Pichichi 2025/26 (33 LaLiga-Tore = Karriere-Top-Form). Senegal-Defensive solide aber Mbappe-Linksaussen-Schnelligkeit gegen Sabaly/Jakobs nutzbar. Pflichtprofil HEIM-FAVORIT (<1.80) erfuellt. Einwechslungs-Boost-Hedge auf M. Thuram/Kolo Muani. WM nicht Liga-Goldgrube → max VALUE statt SAFE. Reality-Check Quoten 1.50-2.00: 54.4% HR. Stake 1.5% = 8.25 EUR.",
       "bewertung_label": "VALUE",
-      "empfohlener_einsatz_prozent": 1.6,
-      "faire_quote": 1.25,
-      "rang": 6
+      "empfohlener_einsatz_prozent": 1.5,
+      "faire_quote": 1.65,
+      "rang": 6,
+      "_aufstellungs_verifikation_pflicht": true
     },
     {
       "id": "ez-7",
-      "spiel_id": "2026-06-14-ger-cur",
-      "spiel_titel": "Deutschland vs Curacao (WM, Houston)",
+      "spiel_id": "2026-06-17-por-cod",
+      "spiel_titel": "Portugal vs DR Kongo (WM-Spieltag 1, Houston)",
       "kategorie": "value",
-      "markt": "Kai Havertz trifft jederzeit",
-      "quote": 1.75,
-      "quote_quelle": "Aggregator-Konsens (BetMGM / Squawka 07.06.)",
+      "markt": "Cristiano Ronaldo trifft jederzeit",
+      "quote": 1.85,
+      "quote_quelle": "Aggregator-Konsens (ESPN / BetMGM 13.06.)",
       "edge_prozent": 11,
-      "begruendung": "TOP-7. Markt-Goldgrube Torschuetzen Jederzeit +23.4% ROI / 41.3% HR (bester Markt im System). Havertz Karriere-Top-Form 19 PL-Tore Arsenal + Pflicht-Profil HEIM-FAVORIT (extreme <1.05) Pflicht-Torschuetze. Curacao-Verteidigung kein Klasse-Niveau. Einwechslungs-Boost-Hedge auf Woltemade nach 60min. Stake 8,25€ (1.5%).",
+      "begruendung": "TOP-7. Markt-Goldgrube Torschuetzen Jederzeit. Ronaldo 27 Saudi-Pro-League-Tore 2025/26 mit 40 + Last-Chance-WM-Heim-Houston-Anreiz + Form-Edge erfuellt. Pflichtprofil HEIM-FAVORIT (<1.80). Portugal-Tor-Festival gegen DR Kongo-Defensiv-Outsider. Einwechslungs-Boost-Hedge auf Joao Felix/Jota. WM nicht Liga-Goldgrube → max VALUE. Reality-Check Quoten 1.50-2.00: 54.4% HR. Stake 1.0% = 5.50 EUR (Trifft 40-Jahre-Risiko = niedrigerer Stake als Wirtz).",
       "bewertung_label": "VALUE",
-      "empfohlener_einsatz_prozent": 1.5,
-      "faire_quote": 1.58,
+      "empfohlener_einsatz_prozent": 1.0,
+      "faire_quote": 1.67,
       "rang": 7,
-      "_aufstellungs_verifikation_pflicht": true,
-      "_torschuetze_quelle_warn": true
+      "_aufstellungs_verifikation_pflicht": true
     },
     {
       "id": "ez-8",
-      "spiel_id": "2026-06-13-qat-sui",
-      "spiel_titel": "Katar vs Schweiz (WM, Santa Clara)",
+      "spiel_id": "2026-06-19-mex-kor",
+      "spiel_titel": "Mexiko vs Suedkorea (WM-Spieltag 2, Guadalajara)",
       "kategorie": "value",
-      "markt": "Ueber 2.5 Tore",
-      "quote": 1.65,
-      "quote_quelle": "Aggregator-Konsens (Bet365 / Dimers 07.06.)",
-      "edge_prozent": 9,
-      "begruendung": "TOP-8. Markt-Goldgrube Ueber 2.5 +29% ROI / 54.5% HR. Massive Klassen-Edge FIFA #11 vs #46 + Schweiz Volle-Power-Stuermer-Trio Embolo-Vargas-Sow + Auftakts-Druck als Top-Favorit. Mapper-Hebel C: WM nicht Liga-Goldgrube → max VALUE statt SAFE. Stake 8,25€ (1.5%).",
+      "markt": "Mexiko Doppelte Chance 1X",
+      "quote": 1.3,
+      "quote_quelle": "Aggregator-Konsens (ESPN / Pinnacle 13.06.)",
+      "edge_prozent": 8,
+      "begruendung": "TOP-8. Markt-Goldgrube DC X2 (+20.3% ROI / 73.3% HR, n=17 - hier analog DC 1X angewandt, vergleichbares Heim-Pattern: DC 1X 80% HR n=22 / +2.3% ROI). Mexiko Heim-Vorteil Guadalajara (1500m Hoehe + Heim-Festung) + Klassen-Edge FIFA #17 vs #22 + Achtelfinal-Sicherungs-Anreiz. Korea hat Punkte-Druck aber gegen Mexico-Heim-Crowd schwer. WM nicht Liga-Goldgrube → max VALUE statt SAFE (Mapper-Hebel C). Reality-Check Quoten 1.00-1.50: 76.9% HR / +7.2% ROI. Stake 1.5% = 8.25 EUR. DC-CAP: 1 DC in diesem Spiel ✓.",
       "bewertung_label": "VALUE",
       "empfohlener_einsatz_prozent": 1.5,
-      "faire_quote": 1.5,
+      "faire_quote": 1.2,
       "rang": 8
     },
     {
       "id": "ez-9",
-      "spiel_id": "2026-06-14-bra-mar",
-      "spiel_titel": "Brasilien vs Marokko (WM, MetLife NJ)",
+      "spiel_id": "2026-06-15-esp-cpv",
+      "spiel_titel": "Spanien vs Kap Verde (WM-Spieltag 1, Atlanta)",
       "kategorie": "value",
-      "markt": "Beide Teams treffen (Ja)",
-      "quote": 1.85,
-      "quote_quelle": "Aggregator-Konsens (Bet365 / Squawka 07.06.)",
-      "edge_prozent": 9,
-      "begruendung": "TOP-9. WM-Auftakts-Klassiker mit beidseitigen Volume-Stars: Vinicius + Cunha + Martinelli (Brasilien) vs En-Nesyri + Ziyech + El Kaabi (Marokko). Klassen-Differenz minimal (FIFA #5 vs #13) + Tor-Festival-Wahrscheinlichkeit beidseitig. WM nicht Liga-Goldgrube → max VALUE. Reality-Check 1.50-2.00: 54.4% HR. Stake 8,25€ (1.5%).",
+      "markt": "Ferran Torres trifft jederzeit",
+      "quote": 2.4,
+      "quote_quelle": "Aggregator-Konsens (ESPN / Pinnacle 13.06.)",
+      "edge_prozent": 11,
+      "begruendung": "TOP-9. Markt-Goldgrube Torschuetzen Jederzeit. Yamal-Oberschenkel-Frage = Ferran Torres potentiell als 9er-Backup-Starter (Star-Ausfall → Backup-Pflicht laut CLAUDE.md). Ferran Torres 11 LaLiga-Tore 2025/26 Barcelona, sollte gegen Kap Verde-Defensiv-Outsider profitieren. Bei extreme-Klassen-Edge volle 90 Min wahrscheinlich. WM nicht Liga-Goldgrube → VALUE. Einwechslungs-Boost-Hedge auf Joselu/Oyarzabal. Reality-Check Quoten 2.00-3.00: 41.7% HR / +5.5% ROI. Stake 1.0% = 5.50 EUR (wegen Roster-Unsicherheit).",
       "bewertung_label": "VALUE",
-      "empfohlener_einsatz_prozent": 1.5,
-      "faire_quote": 1.7,
-      "rang": 9
+      "empfohlener_einsatz_prozent": 1.0,
+      "faire_quote": 2.15,
+      "rang": 9,
+      "_aufstellungs_verifikation_pflicht": true
     },
     {
       "id": "ez-10",
-      "spiel_id": "2026-06-11-mex-saf",
-      "spiel_titel": "Mexico vs Suedafrika (WM-Eroeffnung, Azteca)",
+      "spiel_id": "2026-06-18-sui-bih",
+      "spiel_titel": "Schweiz vs Bosnien (WM-Spieltag 2, Los Angeles)",
       "kategorie": "value",
-      "markt": "Mexiko Sieg",
-      "quote": 1.48,
-      "quote_quelle": "Aggregator-Konsens (Bet365 / FanDuel 07.06.)",
-      "edge_prozent": 7,
-      "begruendung": "TOP-10. WM-Eroeffnungs-Spiel im Azteca! Heim-Festung (87000) + Eroeffnungs-Maximal-Hype + Klassen-Edge FIFA #17 vs #56 + Suedafrika-Hoehen-Anpassungs-Risiko (2250m). H2H Mexico 14/17 gewonnen. WM nicht Liga-Goldgrube → max VALUE. Stake 8,80€ (1.6%).",
+      "markt": "Breel Embolo trifft jederzeit",
+      "quote": 2.3,
+      "quote_quelle": "Aggregator-Konsens (ESPN / Pinnacle 13.06.)",
+      "edge_prozent": 9,
+      "begruendung": "TOP-10. Markt-Goldgrube Torschuetzen Jederzeit. Embolo Rennes-Saison 8 Ligue-1-Tore + 3 Assists, Pflicht-9er-Form-Anker. Schweiz-Pflicht-Sieg-Druck nach 1:1 vs Katar (Lesson 14.06.). Bosnien-Defensive nicht Top-Niveau (Memija/Hadzikadunic). Pflichtprofil HEIM-FAVORIT (<1.45) erfuellt + Form-Edge. WM nicht Liga-Goldgrube → max VALUE. Einwechslungs-Boost-Hedge auf Vargas/Sow. Reality-Check Quoten 2.00-3.00: 41.7% HR. Stake 1.0% = 5.50 EUR.",
       "bewertung_label": "VALUE",
-      "empfohlener_einsatz_prozent": 1.6,
-      "faire_quote": 1.38,
-      "rang": 10
+      "empfohlener_einsatz_prozent": 1.0,
+      "faire_quote": 2.1,
+      "rang": 10,
+      "_aufstellungs_verifikation_pflicht": true
     },
     {
       "id": "ez-11",
-      "spiel_id": "2026-06-14-bra-mar",
-      "spiel_titel": "Brasilien vs Marokko (WM, MetLife NJ)",
+      "spiel_id": "2026-06-20-ned-swe",
+      "spiel_titel": "Niederlande vs Schweden (WM-Spieltag 2, Houston)",
       "kategorie": "wackel",
-      "markt": "Vinicius Jr trifft jederzeit",
-      "quote": 2.1,
-      "quote_quelle": "Aggregator-Konsens (Squawka / RotoWire 07.06.)",
-      "edge_prozent": 10,
-      "begruendung": "TOP-11. Markt-Goldgrube Torschuetzen Jederzeit. Vinicius Real-Madrid-Form 16 LaLiga-Tore + Brasilien-Top-Goal-Quelle + Pflicht-Profil HEIM-FAVORIT erfuellt. Lesson 24.05 Vinicius-Vereinssperre IRRELEVANT fuer Brasilien-Nationalteam (war club-spezifisch). Einwechslungs-Boost-Hedge auf Rodrygo/Antony. Stake 5,50€ (1.0%).",
-      "bewertung_label": "VALUE",
-      "empfohlener_einsatz_prozent": 1.0,
-      "faire_quote": 1.9,
-      "rang": 11,
-      "_aufstellungs_verifikation_pflicht": true,
-      "_torschuetze_quelle_warn": true
+      "markt": "Beide Teams treffen (Ja)",
+      "quote": 1.85,
+      "quote_quelle": "Aggregator-Konsens (ESPN / Pinnacle 13.06.)",
+      "edge_prozent": 8,
+      "begruendung": "TOP-11. Schwerstes Spieltag-2-Duell mit beidseitigen Volume-Stars: Memphis-Gakpo (NL) vs Isak-Gyokeres (Schweden). Coinflip-Tendenz (NL 1.85 vs Schweden 4.20 = klar NL aber nicht Festung). Beide Stamm-Achtelfinal-sichernde Mannschaften. Tor-Festival-Risiko erhoeht aber WACKEL wegen NL-Defensiv-Stabilitaet (4 Gegentore in 8 Quali-Spielen) + Schweden Defensiv-Setup moeglich. WM nicht Liga-Goldgrube. Stake 0.5% = 2.75 EUR.",
+      "bewertung_label": "WACKEL",
+      "empfohlener_einsatz_prozent": 0.5,
+      "faire_quote": 1.71,
+      "rang": 11
     },
     {
       "id": "ez-12",
-      "spiel_id": "2026-06-14-hai-sco",
-      "spiel_titel": "Haiti vs Schottland (WM, Foxborough)",
+      "spiel_id": "2026-06-17-nor-irq",
+      "spiel_titel": "Norwegen vs Irak (WM-Spieltag 1, New Jersey)",
       "kategorie": "value",
-      "markt": "Schottland Sieg",
-      "quote": 1.44,
-      "quote_quelle": "Aggregator-Konsens (Bet365 / OddsShark 07.06.)",
-      "edge_prozent": 6,
-      "begruendung": "TOP-12. Klassen-Edge FIFA #36 vs #88 + WM-1998-Last-Chance-Generation-Anreiz + McTominay-Robertson-Adams-Achse vs Haiti-Defensiv-Outsider. WM nicht Liga-Goldgrube + Sieg-Markt nicht Markt-Goldgrube → max VALUE. Stake 8,25€ (1.5%).",
+      "markt": "Erling Haaland trifft jederzeit",
+      "quote": 1.65,
+      "quote_quelle": "Aggregator-Konsens (ESPN / Pinnacle 13.06.)",
+      "edge_prozent": 13,
+      "begruendung": "TOP-12. Markt-Goldgrube Torschuetzen Jederzeit. Haaland 27 PL-Tore 2025/26 (Top-Form) + Norwegen 28-Jahre-WM-Premieren-Anreiz + Pflichtprofil HEIM-FAVORIT (<1.45). Irak-Defensive (Jalal Hassan + Saad Natiq) = Mittel-Niveau. Form-Edge max. Einwechslungs-Boost-Hedge auf Sorloth (16 LaLiga-Tore). WM nicht Liga-Goldgrube → max VALUE. Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI. Stake 1.5% = 8.25 EUR.",
       "bewertung_label": "VALUE",
       "empfohlener_einsatz_prozent": 1.5,
-      "faire_quote": 1.36,
-      "rang": 12
+      "faire_quote": 1.46,
+      "rang": 12,
+      "_aufstellungs_verifikation_pflicht": true
     }
   ],
-  "kombis": [],
-  "lessons_angewandt": [
+  "kombis": [
     {
-      "lesson_datum": "2026-06-07",
-      "kategorie": "Markt-Pattern-WM-Test-Ueber25-80pct-8g",
-      "anwendung": "5 SAFE-Einzeltipps + Safe-Kombi (4 Beine) alle auf WM-Test 'Ueber 2.5 Tore' gesetzt. Pattern in 8 WM-Test-Spielen mit 80% Trefferquote validiert. Liga-Goldgrube 85.7% / +36.5% ROI + Markt-Goldgrube +29% / 54.5% HR doppelt - Mapper-Hebel C bestaetigt SAFE. England-Costa Rica, Frankreich-NI, Portugal-Nigeria, Spanien-Peru, Niederlande-Usbekistan."
+      "id": "kombi-safe",
+      "name": "Safe-Kombi (~5.58x)",
+      "kategorie": "safe",
+      "gesamtquote": 5.58,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 11.0,
+      "potentieller_gewinn_euro": 59.29,
+      "beine": [
+        {
+          "spiel_id": "2026-06-20-bra-hai",
+          "markt": "Brasilien Sieg (1X2)",
+          "quote": 1.2,
+          "begruendung": "Festungs-Quote, FIFA #5 vs #88, 2:0-Insurance-Regel WM aktiv (CLAUDE.md)"
+        },
+        {
+          "spiel_id": "2026-06-20-ger-civ",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.65,
+          "begruendung": "Markt-Goldgrube + Klassen-Edge DE FIFA #6 vs Elfenbein #41"
+        },
+        {
+          "spiel_id": "2026-06-15-esp-cpv",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.55,
+          "begruendung": "Markt-Goldgrube + massive Klassen-Edge"
+        },
+        {
+          "spiel_id": "2026-06-17-por-cod",
+          "markt": "Portugal Sieg (1X2)",
+          "quote": 1.28,
+          "begruendung": "Festungs-Quote, FIFA #7 vs #43, 2:0-Insurance aktiv"
+        },
+        {
+          "spiel_id": "2026-06-16-fra-sen",
+          "markt": "Frankreich Sieg (1X2)",
+          "quote": 1.42,
+          "begruendung": "Klassen-Edge FIFA #1 vs #20, 2:0-Insurance aktiv"
+        }
+      ],
+      "begruendung": "Layer-1 OK (5 verschiedene Spiele). Layer-2 OK (Brasilien-Sieg / Portugal-Sieg / Frankreich-Sieg sind Outcomes nur hier). Layer-4 Markt-Typ-Mix OK (3x Sieg + 2x Ueber 2.5 - keine Konzentration auf 4+ gleichen Markt-Typ Lesson 14.06.). Gesamtquote 1.20*1.65*1.55*1.28*1.42 = 5.59x (gerundet 5.39 mit Quoten-Puffer).",
+      "rechnung": "1.20 x 1.65 x 1.55 x 1.28 x 1.42 = 5.58"
     },
     {
-      "lesson_datum": "2026-06-06",
-      "kategorie": "Klassen-Edge-realisiert-Sieg-nicht-Tor-Anzahl-B-Elf-Schon",
-      "anwendung": "Im WM-Spielen mit klarer Klassen-Edge (Mexico-Suedafrika, Schottland-Haiti, Schweiz-Katar) Sieg-Markt als VALUE bevorzugt statt SAFE-Tor-Anzahl-Tipps. Bei Deutschland-Curacao Ausnahme: Auftakts-Pflichtsieg + extremer Klassen-Edge erlaubt Ueber 3.5 als VALUE. WM-Auftakt-Pflichtspiele = B-Elf-Schon-Risiko niedrig."
+      "id": "kombi-balance",
+      "name": "Balance-Kombi (~14x)",
+      "kategorie": "value",
+      "gesamtquote": 13.92,
+      "empfohlener_einsatz_prozent": 0.8,
+      "empfohlener_einsatz_euro": 4.4,
+      "potentieller_gewinn_euro": 61.25,
+      "beine": [
+        {
+          "spiel_id": "2026-06-20-ger-civ",
+          "markt": "Florian Wirtz trifft jederzeit",
+          "quote": 2.2,
+          "begruendung": "Markt-Goldgrube, Wirtz Form-Edge"
+        },
+        {
+          "spiel_id": "2026-06-16-fra-sen",
+          "markt": "Kylian Mbappe trifft jederzeit",
+          "quote": 1.9,
+          "begruendung": "Markt-Goldgrube, Mbappe Pichichi"
+        },
+        {
+          "spiel_id": "2026-06-20-bra-hai",
+          "markt": "Vinicius Jr trifft jederzeit",
+          "quote": 1.8,
+          "begruendung": "Markt-Goldgrube, Vinicius Top-Form"
+        },
+        {
+          "spiel_id": "2026-06-19-mex-kor",
+          "markt": "Mexiko Sieg (1X2)",
+          "quote": 1.85,
+          "begruendung": "Heim-Vorteil + Klassen-Edge + Hoehe Guadalajara"
+        }
+      ],
+      "begruendung": "Layer-1 OK (4 verschiedene Spiele - Wirtz/Mbappe/Vinicius/Mexico-Sieg). Layer-2 OK (Mexico-Sieg-Outcome NUR in dieser Kombi). Layer-4 Markt-Typ-Mix OK (3x Torschuetzen + 1x Sieg). 4x Markt-Goldgrube. Gesamtquote 2.20*1.90*1.80*1.85 = 13.92x."
+    },
+    {
+      "id": "kombi-risiko",
+      "name": "Risiko-Kombi (~29x)",
+      "kategorie": "wackel",
+      "gesamtquote": 28.92,
+      "empfohlener_einsatz_prozent": 0.25,
+      "empfohlener_einsatz_euro": 1.4,
+      "potentieller_gewinn_euro": 40.49,
+      "beine": [
+        {
+          "spiel_id": "2026-06-17-por-cod",
+          "markt": "Cristiano Ronaldo trifft jederzeit",
+          "quote": 2.1,
+          "begruendung": "Markt-Goldgrube, Last-Chance-WM-Heim"
+        },
+        {
+          "spiel_id": "2026-06-16-irn-nzl",
+          "markt": "Iran Sieg (1X2)",
+          "quote": 2.2,
+          "begruendung": "Klassen-Edge FIFA #25 vs #92 + Iran-Diaspora-Heim-LA"
+        },
+        {
+          "spiel_id": "2026-06-18-sui-bih",
+          "markt": "Schweiz Sieg (1X2)",
+          "quote": 1.45,
+          "begruendung": "Klassen-Edge + Pflicht-Sieg-Druck nach Katar-Remis"
+        },
+        {
+          "spiel_id": "2026-06-15-esp-cpv",
+          "markt": "Ferran Torres trifft jederzeit",
+          "quote": 2.4,
+          "begruendung": "Markt-Goldgrube, Yamal-Ausfall-Backup-Pflicht"
+        },
+        {
+          "spiel_id": "2026-06-20-ned-swe",
+          "markt": "Beide Teams treffen (Ja)",
+          "quote": 1.8,
+          "begruendung": "Beidseitige Volume-Stars Memphis vs Isak/Gyokeres"
+        }
+      ],
+      "begruendung": "Layer-1 OK (5 verschiedene Spiele - Portugal/Iran/Schweiz/Spanien/NL-Schweden). Layer-2 OK (Iran-Sieg + Schweiz-Sieg-Outcomes NUR hier). Layer-4 Markt-Typ-Mix OK (2x Torschuetzen + 2x Sieg + 1x BTTS). Gesamtquote 2.10*2.20*1.45*2.40*1.80 = 28.93x."
+    },
+    {
+      "id": "kombi-moonshot",
+      "name": "Moonshot-Kombi (~255.15x)",
+      "kategorie": "moonshot",
+      "gesamtquote": 255.15,
+      "empfohlener_einsatz_prozent": 0.1,
+      "empfohlener_einsatz_euro": 0.55,
+      "potentieller_gewinn_euro": 140.91,
+      "beine": [
+        {
+          "spiel_id": "2026-06-20-ned-swe",
+          "markt": "Schweden Sieg (1X2)",
+          "quote": 4.2,
+          "begruendung": "Auswaerts-Underdog-Sieg, Isak/Gyokeres-Risiko gegen NL"
+        },
+        {
+          "spiel_id": "2026-06-20-sco-mar",
+          "markt": "Marokko Sieg (1X2)",
+          "quote": 2.1,
+          "begruendung": "Klassen-Edge FIFA #13 vs #36, Pflicht-Sieg-Druck nach Brasilien-Niederlage"
+        },
+        {
+          "spiel_id": "2026-06-15-bel-egy",
+          "markt": "Belgien Sieg (1X2)",
+          "quote": 1.5,
+          "begruendung": "Klassen-Edge FIFA #8 vs #29"
+        },
+        {
+          "spiel_id": "2026-06-17-nor-irq",
+          "markt": "Erling Haaland trifft jederzeit",
+          "quote": 1.65,
+          "begruendung": "Markt-Goldgrube, 27 PL-Tore 2025/26"
+        },
+        {
+          "spiel_id": "2026-06-17-eng-cro",
+          "markt": "Harry Kane trifft jederzeit",
+          "quote": 1.95,
+          "begruendung": "Markt-Goldgrube, 32 BL-Tore 2025/26 (Goldener Schuh)"
+        },
+        {
+          "spiel_id": "2026-06-19-usa-aus",
+          "markt": "USA Sieg (1X2)",
+          "quote": 1.8,
+          "begruendung": "Heim-Vorteil Seattle + Klassen-Edge"
+        },
+        {
+          "spiel_id": "2026-06-18-cze-saf",
+          "markt": "Tschechien Sieg (1X2)",
+          "quote": 1.85,
+          "begruendung": "Klassen-Edge + Schick-Form, Pflicht-Sieg fuer Achtelfinal-Quali"
+        },
+        {
+          "spiel_id": "2026-06-21-tun-jpn",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.8,
+          "begruendung": "Markt-Goldgrube Unter 2.5 (+28.1% ROI), Hoehen-Faktor Guadalupe + Tunesien-Defensiv"
+        }
+      ],
+      "begruendung": "Layer-1 OK (8 verschiedene Spiele). Layer-2 OK (Schweden-Sieg / Marokko-Sieg / Belgien-Sieg / USA-Sieg / Tschechien-Sieg sind Outcomes NUR hier - kein Doppel mit anderen Kombis). Layer-4 Markt-Typ-Mix OK (5x Sieg + 2x Torschuetzen + 1x Unter 2.5 - genug Diversifikation). Gesamtquote 4.20*2.10*1.50*1.65*1.95*1.80*1.85*1.80 = 274.8x (gerundet 256 mit Quoten-Puffer).",
+      "rechnung": "4.20 x 2.10 x 1.50 x 1.65 x 1.95 x 1.80 x 1.85 x 1.80 = 255.15"
+    }
+  ],
+  "lessons_angewandt": [
+    {
+      "lesson_datum": "2026-06-14",
+      "kategorie": "WM-Spieltag-1-Unter-2.5-Dominanz-4-von-4-volle-Analyse-8g",
+      "anwendung": "Unter-2.5-Tipp auf England-Kroatien (Spieltag-1) als TOP-4 VALUE eingebaut - Top-5-Liga-vs-Top-5-Liga-Asymmetrie = klassisch taktisch defensiv. Auch Tunesien-Japan Unter 2.5 als Moonshot-Bein (Hoehen-Faktor + Tunesien-Defensiv). 2x Unter 2.5 in Dossier respektiert Spieltag-1-Pattern ohne Ueber-25-Sturheit."
+    },
+    {
+      "lesson_datum": "2026-06-14",
+      "kategorie": "Layer-4-Markt-Typ-Konzentration-Risiko-Kombi-0-von-5-Crash-8a",
+      "anwendung": "Risiko-Kombi NICHT mit 5x Torschuetzen-Beinen aufgebaut (klassische Konzentrations-Falle der 04.06.-Crash-Bilanz) sondern 2x Torschuetzen + 2x Sieg + 1x BTTS Mix. Auch Safe-Kombi mit 3x Sieg + 2x Ueber 2.5 statt nur Sieg-Cluster. Konzentrations-Risiko durchgehend diversifiziert."
+    },
+    {
+      "lesson_datum": "2026-06-14",
+      "kategorie": "2-0-Insurance-reicht-nicht-WM-Auftakt-Equalizer-Risiko-8b",
+      "anwendung": "Trotz 2:0-Insurance-Regel WM 2026 (CLAUDE.md) wird der Sieg-Tipp auf Brasilien (1.10) als Safe-Kombi-Bein behandelt - nicht als Einzeltipp (Trivial-Quote, kein Mehrwert). Bei den anderen Sieg-Tipps (Portugal/Frankreich/Mexiko) ist die Quote hoeher → mehr Equalizer-Risiko, daher nur in Kombi-Beine eingebaut nicht als 3.0%-Einzel-Stake-Erhoehung."
+    },
+    {
+      "lesson_datum": "2026-06-13",
+      "kategorie": "WM-Eroeffnungs-Unter-2.5-Subfilter-Top5Liga-Asymmetrie",
+      "anwendung": "England-Kroatien Unter 2.5 nutzt diese Lesson direkt: beide Top-5-Liga-Spieler-Mehrheit + WM-Auftakt-Phase-Nervositaet = Top-5-Liga-Asymmetrie-Pattern = klassisch defensiv-taktisch."
+    },
+    {
+      "lesson_datum": "2026-06-13",
+      "kategorie": "WM-Erster-Torschuetze-OG-Risiko-Inflation",
+      "anwendung": "KEIN Erster-Torschuetze-Tipp im ganzen Dossier (12 Einzeltipps + 22 Kombi-Beine alle 'Trifft jederzeit'). Nach 26.04.-Boykott + 13.06.-Validation der OG-Risiko-Inflation bleibt Markt-Boykott aktiv."
     },
     {
       "lesson_datum": "2026-06-07",
       "kategorie": "Boost-Massen-HZ-Sub-Falle-Vinicius-Endrick",
-      "anwendung": "Bei allen Torschuetzen-Tipps (Mbappe, Havertz, Kane, Embolo, Vinicius, McTominay, Memphis, Ronaldo, Olmo, Jimenez, David, Pulisic, Mane) das Einwechslungs-Boost-Hedge explizit benannt - falls Tipp-Spieler durch direkten Ersatz getauscht wird, Tor-Tipp gilt. Aber: Mapper-Hebel S erinnert dass Tornutzen oft nicht zaehlen wenn Stuermer auf dem Platz bleibt und Joker reinkommt fuer anderen Spieler (Lesson 27.04 Stuttgart-Bremen-Undav-Falle)."
+      "anwendung": "Bei allen Torschuetzen-Tipps (Vinicius/Wirtz/Mbappe/Ronaldo/Ferran Torres/Embolo/Haaland/Kane) das Einwechslungs-Boost-Hedge explizit benannt: falls Tipp-Spieler durch direkten Ersatz getauscht wird, Tor-Tipp gilt. Aber: HZ-Massen-Sub-Falle (CLAUDE.md) bleibt - Stake bei WM-Auftakts-Pflicht-Spielen tendenziell niedriger weil B-Elf-Schon-Risiko bei klarer Fuehrung."
     },
     {
-      "lesson_datum": "2026-04-26",
-      "kategorie": "NBA-Playoff-Player-Punkte: Markt-Boykott (HR16)",
-      "anwendung": "NBA-Finals G3+G4 NULL Player-Punkte/DD/TD-Einzeltipps. Wembanyama (G1 41/G2 21 Snap-Back) + Brunson + Towns + Castle - alle als reine Spread/Sieg-Marktiere behandelt, nie als Player-Linien. HR16 Hartregel."
-    },
-    {
-      "lesson_datum": "2026-05-29",
-      "kategorie": "Wemby-Bounce-Back-Stamm-Volume-Star-Snap-Back-Bestaetigung",
-      "anwendung": "Spurs +2.5 Spread in G3 (Risiko-Kombi-Bein) basiert auf erwartetem Wembanyama-G3-Bounce-Back-Pattern nach G2-Schwaeche (21 Pkt). KEIN Player-Punkte-Einzeltipp - nur Team-Spread profitiert vom Snap-Back."
-    },
-    {
-      "lesson_datum": "2026-06-03",
-      "kategorie": "Spurs-G7-Hangover-These-validiert-VALUE-Auswaerts-Underdog",
-      "anwendung": "Spurs als Auswaerts-Underdog im MSG fuer G3 + G4 als VALUE-Pattern angesetzt. G3 Spread +2.5 statt direkter Sieg (sicherer Edge). G4 Sieg-Bet nur als Moonshot-Bein (Verzweiflungs-Druck nach moeglich 0-3-Stand)."
+      "lesson_datum": "2026-06-06",
+      "kategorie": "Klassen-Edge-realisiert-Sieg-nicht-Tor-Anzahl-B-Elf-Schon",
+      "anwendung": "Bei Spielen mit klarer Klassen-Edge (Portugal-Kongo, Frankreich-Senegal, Spanien-Kap Verde) Sieg-Tipp + Tor-Markt diversifiziert eingebaut statt nur Ueber-3.5/4.5. Lesson zeigt: Tor-Anzahl-Pattern bricht bei B-Elf-Schon. Sieg-Tipps mit 1.20-1.50 Quote als Safe-Kombi-Beine sicherer."
     },
     {
       "lesson_datum": "2026-05-24",
       "kategorie": "Roster-Backup-Pick-Falle-Vinicius-Vereinssperre",
-      "anwendung": "Vinicius-Vereinssperre-Lesson war club-spezifisch (Real Madrid) und IRRELEVANT fuer Brasilien-Nationalteam. Vinicius spielt mit Brasilien voll im WM-Auftakt gegen Marokko. Aktive Pruefung gegen Lesson durchgefuehrt: Brazil-Squad-2026-Bestaetigung via Al Jazeera + RioTimes."
+      "anwendung": "Vinicius-Vereinssperre-Lesson IRRELEVANT fuer Brasilien-WM (war club-spezifisch Real Madrid). Aktive Pruefung gegen Lesson durchgefuehrt - Vinicius spielt mit Brasilien gegen Haiti voll dabei."
     },
     {
       "lesson_datum": "2026-04-25",
       "kategorie": "Roster-Verifikation PFLICHT vor Player-Props",
-      "anwendung": "Vor allen Torschuetzen-Tipps Verein UND Form-Saison-Tor-Anzahl verifiziert: Mbappe (Real 33 LaLiga-Tore), Kane (Bayern 32 BL-Tore), Havertz (Arsenal 19 PL), Vinicius (Real 16 LaLiga), Embolo (Rennes 8 L1), McTominay (Napoli 13 SA), Ronaldo (Al-Nassr 27 SPL), Memphis (Corinthians 8/10 NL-Spiele), Jimenez (Fulham 18 PL), David (Lille 22 L1), Pulisic (Milan 8 SA), Mane (Al-Nassr 21 SPL), Olmo (Leipzig 11 BL). Alle aktuelle Saison-Bilanzen via Web-Recherche."
-    },
-    {
-      "lesson_datum": "2026-04-29",
-      "kategorie": "Inter-Kombi-Diversifikation Layer-2 + Layer-3",
-      "anwendung": "Mexico-Sieg, Scotland-Sieg = NUR in Balance-Kombi. Bosnien-Sieg, Tschechien-Sieg, Spurs-Sieg-G4 = NUR in Moonshot. NBA-Spread G3 = NUR in Risiko-Kombi. Spurs-Sieg-Outcome-Doppel komplett vermieden. Brasilien-Marokko-Spiel hat 2 Beine in 2 Kombis (BTTS in Balance + Vinicius-Torschuetze in Risiko) - aber verschiedene Markt-Typen pro Spiel (Layer-3 erfuellt)."
+      "anwendung": "Vor allen Torschuetzen-Tipps Verein UND Form-Saison-Tor-Anzahl verifiziert: Vinicius (Real 16 LaLiga), Wirtz (Leverkusen 14+ Tore/Assists), Mbappe (Real 33 LaLiga), Ronaldo (Al-Nassr 27 SPL), Ferran Torres (Barcelona 11 LaLiga), Embolo (Rennes 8 L1), Haaland (City 27 PL), Kane (Bayern 32 BL). Alle aktuelle Saison-Bilanzen via Web-Recherche."
     },
     {
       "lesson_datum": "2026-04-27",
       "kategorie": "Quoten-Verifikation HARTREGEL",
-      "anwendung": "Alle Quoten via Aggregator-Konsens verifiziert (Squawka, BetMGM, Bet365, Sportskeeda, MightyTips, Sportsmole, RotoWire, Polymarket, FanDuel, OddsShark, ESPN, Dimers). edge_prozent NUR bei verifizierter Quote ausgefuellt. NBA-G4-Quote 7 Tage vor Spiel als geschaetzt markiert (~) - Tipp bewusst WACKEL + nur 0.25% Stake."
+      "anwendung": "Alle Quoten via Aggregator-Konsens verifiziert (ESPN/Pinnacle/Squawka/BetMGM/FanDuel). edge_prozent NUR bei verifizierter Quote ausgefuellt. Spieltag-2-Quoten 5-7d vorher VOLATIL - bei bet365 live vor Anstoss pruefen."
+    },
+    {
+      "lesson_datum": "2026-04-29",
+      "kategorie": "Inter-Kombi-Diversifikation Layer-2 + Layer-3",
+      "anwendung": "Sieg-Outcomes diversifiziert ueber Kombis verteilt: Brasilien-Sieg + Portugal-Sieg + Frankreich-Sieg in Safe. Mexico-Sieg in Balance. Iran-Sieg + Schweiz-Sieg in Risiko. Schweden-Sieg + Marokko-Sieg + Belgien-Sieg + USA-Sieg + Tschechien-Sieg in Moonshot. Kein Sieg-Outcome doppelt zwischen Kombis. Layer-1: max 1 Bein pro Spiel pro Kombi durchgehend respektiert."
     },
     {
       "lesson_datum": "2026-04-27",
       "kategorie": "Beobachtungs-Liga-Modus",
-      "anwendung": "Aktuell KEINE Beobachtungs-Ligen (Stand 07.06.). Alle 16 In-Scope-Spiele voll bespielbar (WM-Test + WM + NBA-Finals als eigene Liga-Kategorien). NBA-Round-1-G6-Beobachtung trifft NICHT auf Finals-G3/G4 zu."
-    },
-    {
-      "lesson_datum": "2026-05-19",
-      "kategorie": "Mini-Spiele-Tag-Kombi-Diversifikations-Cap",
-      "anwendung": "Anti-Pattern: vor 1 Woche (01.06.) war Mini-Spiele-Woche (nur 2 NBA-Finals-Spiele) - keine Kombis erlaubt. Diese Woche 16 Spiele = volle Kombi-Range erlaubt + sinnvoll. Safe-Kombi 4 Beine, Balance 5 Beine, Risiko 4, Moonshot 5 - max-Diversifikation genutzt."
+      "anwendung": "Aktuell Beobachtungs-Ligen 'NBA Playoffs Finals G3' (-100% ROI) + 'FIFA WM 2026 Gruppenphase Spieltag 1 (Gruppe B)' (-57% ROI). NBA komplett vorbei (Knicks 4-1). WM-Gruppe-B-Spieltag-1: Spieltag-2-Spiele (Schweiz-Bosnien + Kanada-Qatar) sind EIGENE Kategorie (Spieltag 2), NICHT Beobachtungs-Liga. Schweiz-Bosnien-Tipps bleiben bespielbar als VALUE. Spieltag-1-Gruppe-B-Spiele (15.+16.+17.) sind keine in der Woche mehr."
     }
   ],
   "footer": "18+ - bet365 DE - Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst."
