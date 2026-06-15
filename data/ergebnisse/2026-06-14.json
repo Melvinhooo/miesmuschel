@@ -1,0 +1,1407 @@
+{
+  "datum": "2026-06-14",
+  "erstellt_am": "2026-06-14T17:15:00+02:00",
+  "hinweis": "WATCHDOG-RECOVERY 17:15: Hauptroutine 16:00 fiel aus, Watchdog hat Tipps-Dossier komplett nachgeholt. WM 2026 Spieltag 1 Sonntag 14.06. - Window 17:15 Berlin (DE-Curacao 19:00) bis 06:00 Mo 15.06. 4 Spiele: DE-Curacao (Gruppe E, 19:00 Berlin Houston), Niederlande-Japan (Gruppe F, 22:00 Arlington TX), Elfenbeinkueste-Ecuador (Gruppe E, 01:00 Berlin Philadelphia), Schweden-Tunesien (Gruppe F, 04:00 Berlin Monterrey). NBA Finals beendet (Knicks 4-1 nach G5-Sieg Sa 13.06., Brunson 45 Pkt). Klub-Saison ueberall Pause, alle Spieler 3 Wochen Erholung. 2:0-Insurance + Einwechslungs-Boost (CLAUDE.md WM-Sonderregeln) bei jedem Sieg-Tipp aktiv. 10 Einzeltipps (3 SAFE Deutschland-Cluster + 6 VALUE / 1 WACKEL) + 4 Kombis Safe 3.50x / Balance 9.55x / Risiko 25.91x / Moonshot 79.20x. Markt-Goldgruben aktiv (Torschuetzen +19.3 Prozent ROI, Ueber 2.5 +23.4 Prozent ROI, Unter 2.5 +28.1 Prozent ROI). Kasse 550 EUR Stufe 1 Aufbau-Phase - Einsaetze konservativ. Pre-Match-Aufstellung 1h vor Anstoss bei bet365 nochmal verifizieren.",
+  "spiele": [
+    {
+      "id": "2026-06-14-ger-cur",
+      "liga": "FIFA World Cup 2026 - Gruppe E - Spieltag 1",
+      "heim": "Deutschland",
+      "gast": "Curacao",
+      "anstoss": "2026-06-14T19:00:00+02:00",
+      "stadion": "NRG Stadium, Houston TX (neutraler Platz)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM 2026 ist primaerer Wettbewerb, Bundesliga-Saison beendet 17.05.",
+        "parallel_gast": "keine - WM 2026 ist primaerer Wettbewerb, Curacao-Liga (Sekula Promociado) beendet, Stamm-Spieler im niederlaendischen/MLS-Umfeld in Klub-Pause",
+        "saisonziel_heim": "Mindestens Viertelfinale (Achtelfinale Pflicht aus Gruppe E mit Curacao/Sambia/Marokko-Achtelfinale Spaeter) - FIFA #6, Nagelsmann zweiter WM-Auftritt nach EM 2024 VF, Generation um Musiala (23) / Wirtz (23) / Havertz / Kimmich / Tah - Auftakt-Sieg gegen Underdog Curacao Pflicht",
+        "saisonziel_gast": "Historische WM-Premiere - kleinstes Land in WM-Geschichte qualifiziert, FIFA #~80, Achtelfinale waere Sensation jenseits aller Erwartungen, realistisches Ziel ist gut aussehen + Erfahrung sammeln",
+        "motivations_asymmetrie": "Maximaler Klassen-Asymmetrie-Tag: Deutschland mit klarer Pflichtaufgabe + ausgeschlafenes Team nach 4-Siege-Vorbereitung (4-3 Schweiz, 2-1 Ghana, 4-0 Finnland, 2-1 USA) vs Curacao als WM-Premieren-Naive ohne Top-5-Liga-Erfahrung im Stamm-Kader. Deutsche Sieg-These ist nicht 'ob' sondern 'wie hoch' - bet365-Quoten 1.05 vs 41 bestaetigen das.",
+        "recovery_heim": "Bundesliga-Pause seit 17.05. = ~4 Wochen Erholung + 4 Vorbereitungsspiele - frisch, Wirtz nach starker Saison (Leverkusen Vize-Meister + DFB-Pokal-Sieger) topfit",
+        "recovery_gast": "Lange Vorbereitungsphase - frisch, aber kein Welt-Niveau-Test-Erfahrung",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/schedule",
+          "https://www.espn.com/soccer/odds/_/gameId/760422",
+          "https://www.si.com/soccer/germany-predicted-lineup-vs-curacao-world-cup-6-14-26",
+          "https://www.racingpost.com/sport/football-tips/world-cup-2026/germany-vs-curacao-world-cup-prediction-team-news-odds-betting-tips-and-bet-builder-aCceV7d7CMtv/",
+          "https://www.kicker.de/wm"
+        ]
+      },
+      "news": [
+        "Klassen-Asymmetrie maximal: Deutschland FIFA #6 (EM 2024 VF, 4 Vorbereitungssiege) vs Curacao FIFA #~80 (WM-Premiere). Quoten-Konsens bet365 -3300 / X +1600 / Curacao +4000.",
+        "Deutschland-Aufstellung erwartet: Neuer; Kimmich, Tah, Schlotterbeck, Brown; F Nmecha, Pavlovic; Sane, Musiala, Wirtz; Havertz. Doppel-10er Wirtz + Musiala beide topfit.",
+        "Wirtz-Form: 7 Tore in 8 Quali-Spielen = WM-Quali-Topscorer Deutschland, plus Tor gegen Finnland (4-0) + USA (2-1) in Vorbereitung.",
+        "Musiala-Form: schoss in 4-0 vs Finnland + 2-1 vs USA, voll fit nach starker Bayern-Saison.",
+        "Havertz-Form: nominell 9er, 2 Tore in 4 Vorbereitungsspielen.",
+        "Wetter Houston: Tag 32 Grad C + hohe Luftfeuchtigkeit (Subtropisch-Karibik). Lesson CLAUDE.md Florida-Pattern - Hitze drueckt Tempo - Vorsicht bei sehr hohen Ueber-Toren-Quoten.",
+        "Quoten Aggregator-Konsens (Squawka/ESPN/FoxSports/Racing Post, 13.06.): Deutschland Sieg 1.05 / X 17.0 / Curacao 41.0. Ueber 2.5 ~1.20 (Klassen-Edge max). Wirtz trifft ~2.00. Musiala trifft ~2.10. Havertz trifft ~2.30. Ueber 4.5 Tore ~2.20.",
+        "Reality-Check Quoten 1.00-1.50 in statistik.json: 76.9 Prozent HR / +7.2 Prozent ROI (n=39, beste Hitrate-Range) - SAFE-Niveau gerechtfertigt fuer Klassen-Edge.",
+        "Goldgrube-Markt 'Torschuetzen Jederzeit' (+19.3 Prozent ROI, 39.6 Prozent HR, n=55) + 'Ueber 2.5 Tore' (+23.4 Prozent ROI, 52.2 Prozent HR, n=25) - beide aktiv eingebaut.",
+        "Form-Edge-Pflicht erfuellt (Heim-Favorit unter 1.80): Wirtz UND Musiala Torschuetzen-Tipps drin, Klassen-Sieg-Tipp drin, kein Marktkonzentrations-Risiko."
+      ],
+      "tipps": [
+        {
+          "id": "t-ger-1",
+          "markt": "Deutschland Sieg (1X2)",
+          "kategorie": "safe",
+          "quote": 1.05,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 5.5,
+          "begruendung": "Maximaler Klassen-Edge - Deutschland FIFA #6 vs Curacao FIFA #~80 (kleinstes Land in WM-Geschichte). 4 Siege in 4 Vorbereitungsspielen (Schweiz/Ghana/Finnland/USA), voll fitte Generation um Wirtz/Musiala/Havertz/Kimmich. 2:0-Insurance-Regel WM 2026 aktiv (CLAUDE.md): Deutschland-Sieg gewinnt bei bet365 schon ab 2:0-Fuehrung. Quote 1.05 = trivial-Range aber unverlierbare Logik (Top-6-vs-#80). Reality-Check Quoten 1.00-1.50: 76.9 Prozent HR / +7.2 Prozent ROI. Stake 1.0 Prozent = 5.50 EUR (reduziert wegen Trivial-Quote, kein Mehrwert beim Hochfahren). Sieg ist 1.05-floor Safe-Kombi-Anker.",
+          "edge_prozent": 6,
+          "faire_quote": 1.0,
+          "rang": 1
+        },
+        {
+          "id": "t-ger-2",
+          "markt": "Florian Wirtz trifft jederzeit (Deutschland)",
+          "kategorie": "safe",
+          "quote": 2.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 8.25,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+19.3 Prozent ROI / 39.6 Prozent HR, n=55 - bester Markt im System). Wirtz ist WM-Quali-Topscorer Deutschland mit 7 Toren in 8 Spielen + traf in 4-0 Finnland + 2-1 USA Vorbereitung. Form-Edge Pflichtprofil HEIM-FAVORIT (CLAUDE.md): bei Form-Stuermer mit 3+ Toren in 5 Spielen ist Torschuetzen-Tipp PFLICHT. Wirtz spielt zentrale 10er-Rolle hinter Havertz, maximales Anteilsrisiko. Einwechslungs-Boost-Hedge: falls Wirtz fuer Goretzka/Brandt rausgeht, deren Tore zaehlen mit. Quote 2.00 mit Edge ueber Goldgrube-Hitrate (Wirtz tor-individuelle Quote eher 65 Prozent gegen Curacao). Reality-Check Quoten 1.50-2.00: 54.4 Prozent HR / +11.8 Prozent ROI. Stake 1.5 Prozent = 8.25 EUR.",
+          "edge_prozent": 15,
+          "faire_quote": 1.7,
+          "rang": 2
+        },
+        {
+          "id": "t-ger-3",
+          "markt": "Ueber 2.5 Tore (Gesamt)",
+          "kategorie": "safe",
+          "quote": 1.2,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 11.0,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 Tore (+23.4 Prozent ROI / 52.2 Prozent HR, n=25). Deutschland-Offensive mit Wirtz/Musiala/Havertz/Sane gegen Curacao-Defensive ohne Top-5-Liga-Standard = klares Tor-Festival-Setup. 4 Vorbereitungsspiele: 4-3, 2-1, 4-0, 2-1 = im Schnitt 3.0 Tore Deutschland-Spiele. Quote 1.20 sehr kurz wegen Klassen-Edge max - aber Goldgrube-Niveau begruendet SAFE. Reality-Check Quoten 1.00-1.50: 76.9 Prozent HR / +7.2 Prozent ROI. Stake 2.0 Prozent = 11.00 EUR Stufe 1.",
+          "edge_prozent": 10,
+          "faire_quote": 1.1,
+          "rang": 3
+        },
+        {
+          "id": "t-ger-4",
+          "markt": "Jamal Musiala trifft jederzeit (Deutschland)",
+          "kategorie": "value",
+          "quote": 2.1,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 5.5,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+19.3 Prozent ROI / 39.6 Prozent HR). Musiala startklar nach Bayern-Saison, traf in 4-0 Finnland + 2-1 USA - Form-Lauf vor WM-Start. Zweiter Volumen-Stuermer hinter Wirtz, gegen Curacao-Defensive jede Chance Goldgrube-Treffer. Einwechslungs-Boost-Hedge (CLAUDE.md): Backup-Stuermer-Pflicht erfuellt - falls Musiala rausgeht (Schon-Wechsel zur Halbzeit moeglich bei klarer Fuehrung), Brandt/Goretzka als Ersatz-Tore wuerden Tipp gewinnen. Quote 2.10. Stake 1.0 Prozent = 5.50 EUR.",
+          "edge_prozent": 12,
+          "faire_quote": 1.85,
+          "rang": 4
+        },
+        {
+          "id": "t-ger-5",
+          "markt": "Deutschland Ueber 4.5 Tore",
+          "kategorie": "moonshot",
+          "quote": 2.2,
+          "empfohlener_einsatz_prozent": 0.1,
+          "empfohlener_einsatz_euro": 0.55,
+          "begruendung": "Moonshot-Bein: Deutschland-Tor-Festival bei maximaler Klassen-Edge ist plausibel - aber 5+ Tore verlangt vollstaendige Curacao-Kollaps-Phase nach 2. HZ. Lesson Hitze-Houston-Pattern (CLAUDE.md Florida): Tempo-Drueck koennte Tor-Volumen reduzieren. Quote 2.20 = Moonshot-Range. Spass-Stake.",
+          "edge_prozent": null,
+          "faire_quote": 2.2,
+          "rang": 5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand_heim": 7,
+        "endstand_gast": 1,
+        "halbzeit_heim": 3,
+        "halbzeit_gast": 1,
+        "quelle": "WebSearch (FIFA/ESPN/SkySports/NBC/FoxSports) - manuell ergaenzt, API kannte Liga nicht (WM 2026 nicht im Free-Tier)"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t-ger-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.05,
+          "kommentar": "Deutschland 7:1 - klarer Klassen-Edge realisiert, 2:0-Insurance gar nicht noetig (HZ 3:1)."
+        },
+        {
+          "tipp_id": "t-ger-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Wirtz selber kein Tor (Assist Brown 68.). Wirtz in 72. fuer Goretzka ausgewechselt - Goretzka traf 72.-90. NICHT. Einwechslungs-Boost greift nicht. Lesson: Form-Stuermer mit 7 Quali-Toren liefert auch bei 7:1-Tor-Festival nicht zwingend selber."
+        },
+        {
+          "tipp_id": "t-ger-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.2,
+          "kommentar": "DE 7 Tore + CUR 1 Tor = 8 Tore - klar ueber 2.5. Markt-Goldgrube Ueber 2.5 voll bestaetigt."
+        },
+        {
+          "tipp_id": "t-ger-4",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.1,
+          "kommentar": "Musiala traf 47. (zweite Halbzeit-Eroeffnungs-Tor). Markt-Goldgrube Torschuetzen Jederzeit voll bestaetigt."
+        },
+        {
+          "tipp_id": "t-ger-5",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.2,
+          "kommentar": "Deutschland 7 Tore - klar ueber 4.5. Moonshot voll eingeschlagen."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "3:1",
+        "endstand": "7:1",
+        "tore": [
+          {
+            "min": 6,
+            "team": "heim",
+            "spieler": "Felix Nmecha",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 21,
+            "team": "gast",
+            "spieler": "Livano Comenecia",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 38,
+            "team": "heim",
+            "spieler": "Nico Schlotterbeck",
+            "stand_danach": "2:1"
+          },
+          {
+            "min": "45+5",
+            "team": "heim",
+            "spieler": "Kai Havertz (Pen)",
+            "stand_danach": "3:1"
+          },
+          {
+            "min": 47,
+            "team": "heim",
+            "spieler": "Jamal Musiala",
+            "stand_danach": "4:1"
+          },
+          {
+            "min": 68,
+            "team": "heim",
+            "spieler": "Nathaniel Brown",
+            "stand_danach": "5:1"
+          },
+          {
+            "min": 78,
+            "team": "heim",
+            "spieler": "Deniz Undav",
+            "stand_danach": "6:1"
+          },
+          {
+            "min": 88,
+            "team": "heim",
+            "spieler": "Kai Havertz",
+            "stand_danach": "7:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Curacao 21. Equalizer auf 1:1 nach Nmecha-Fruehfuehrung, danach Deutschland 6 unbeantwortete Tore - keine Drehung sondern monotone Eskalation nach Anfangs-Schreck."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": true,
+          "ueber_6_5": true,
+          "ueber_7_5": false,
+          "halbzeit_endstand": "Deutschland/Deutschland",
+          "kein_team_zu_null": true,
+          "deutschland_tore": 7
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Goretzka",
+            "aus": "Wirtz",
+            "minute": 72,
+            "tor": false,
+            "kommentar": "Wirtz raus, Goretzka rein - Goretzka traf nicht. Einwechslungs-Boost greift NICHT fuer Wirtz-Tipp."
+          },
+          {
+            "team": "heim",
+            "ein": "Undav",
+            "aus": "Havertz_oder_Musiala",
+            "minute": null,
+            "tor": true,
+            "tor_minute": 78,
+            "kommentar": "Backup-9er Undav traf 10 Minuten nach Einwechslung - Backup-Volume-Pattern bestaetigt."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Curacao-Equalizer 21. nach Nmecha-Fruehfuehrung war einziger CUR-Lichtblick - danach Klassen-Edge total ausgespielt.",
+          "Tor-Festival mit 8 Toren - Ueber 5.5 / Ueber 6.5 / Ueber 4.5 alle locker erreicht, Ueber 7.5 verfehlt.",
+          "Einwechslungs-Boost-Anti-Pattern: Form-Stuermer Wirtz (7 Quali-Tore) selbst tor-leer + sein direkter Ersatz Goretzka auch tor-leer trotz 7:1-Endstand - Volume-Tor-Festival garantiert nicht jedem Spieler ein Tor.",
+          "Schlotterbeck-Tor 38. + Brown-Tor 68. (Verteidiger-Doppelpack DE) zeigt: Tor-Festival-These reicht in Klassen-Asymmetrie auch fuer Verteidiger."
+        ]
+      }
+    },
+    {
+      "id": "2026-06-14-ned-jap",
+      "liga": "FIFA World Cup 2026 - Gruppe F - Spieltag 1",
+      "heim": "Niederlande",
+      "gast": "Japan",
+      "anstoss": "2026-06-14T22:00:00+02:00",
+      "stadion": "AT&T Stadium, Arlington TX (neutraler Platz)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM 2026 ist primaerer Wettbewerb, Eredivisie-Saison beendet 17.05.",
+        "parallel_gast": "keine - WM 2026 ist primaerer Wettbewerb, J-League noch laufend (Saison-Halbzeit) aber WM-Stamm-Spieler aus Europa-Klubs (PSV/Brighton/Stuttgart) seit 24.05. in Pause",
+        "saisonziel_heim": "Mindestens Viertelfinale - FIFA #7, Koeman zweiter WM-Auftritt nach 2022 VF, Generation um Van Dijk (34, Liverpool-Captain) + Frenkie de Jong / Memphis / Gakpo / Reijnders. Quali ungeschlagen mit 27 Toren in 8 Spielen, nur 4 Gegentore.",
+        "saisonziel_gast": "Achtelfinal-Quali (Pflicht aus Gruppe F mit NED/Schweden/Tunesien) - FIFA #15, Moriyasu seit 2018 Coach, junges aktives Roster mit Kubo (Real Sociedad) / Mitoma (Brighton, OUT) / Endo (Liverpool, retired) - 2022 hat Japan Deutschland + Spanien geschlagen (Achtelfinale aus), 2026 ohne 2 Stamm-Spieler aber 6-Siegen-Vor-Lauf inkl. 3-2 vs Brasilien.",
+        "motivations_asymmetrie": "Asymmetrie kleiner als Klassen-Differenz suggeriert: NED auf Papier klarer Favorit aber 3 Stamm-Spieler-Verletzungen (Memphis Hamstring, Xavi Simons + Schouten ACL) treffen Defensiv-Mittelfeld - Japan-Achse Kubo/Doan auf Aussen plus Suzuki Goalie 6 ungeschlagene Tests einschliesslich 3-2 ueber Brasilien. Klassen-Edge halbwegs, aber Form-Edge Japan klar. NICHT klassischer Heim-Favorit-Profil-Anti-Setup -> max VALUE/WACKEL kein SAFE.",
+        "recovery_heim": "Klub-Pause seit 17.05. (PL/Eredivisie/LaLiga) = ~4 Wochen Erholung. Memphis hat Hamstring-Frage aus Mai, Van Dijk topfit nach PL-Topplatz mit Liverpool.",
+        "recovery_gast": "J-League laeuft - Doan/Itakura/Suzuki haben WM-Pause vom Klub seit Mai. Endo verpasst WM (Foot-Verletzung + Retirement).",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/schedule",
+          "https://www.espn.com/soccer/odds/_/gameId/760425",
+          "https://sports.yahoo.com/articles/netherlands-vs-japan-picks-predictions-164551362.html",
+          "https://www.rotowire.com/soccer/article/netherlands-vs-japan-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-f-117958",
+          "https://www.kicker.de/wm"
+        ]
+      },
+      "news": [
+        "Verletzungen Niederlande: Memphis Depay (Hamstring, Twijfel - vermutlich startet aber mit Risiko), Xavi Simons (ACL, OUT), Jerdy Schouten (ACL, OUT). Mittelfeld-Tiefe reduziert.",
+        "Verletzungen Japan: Kaoru Mitoma (Hamstring, OUT komplette WM), Wataru Endo (retired - Foot-Verletzung). Linke Aussen-Position vakant.",
+        "NED-Aufstellung erwartet 4-3-3: Verbruggen; Dumfries, Van de Ven, Van Dijk (c), Ake; Gravenberch, De Jong, Reijnders; Malen, Depay, Gakpo.",
+        "Japan-Aufstellung erwartet 3-4-2-1: Z Suzuki; Ito, Itakura, Taniguchi; Sugawara, Sano, K Endo, Nagatomo; Kubo, Doan; Ueda.",
+        "NED-Form Quali: 8/0/0, 27 Tore (3.4/Spiel), 4 Gegentore - dominante Quali-Phase.",
+        "Japan-Form Vorbereitung: 6 Siege in Folge ohne Gegentor (Ghana, Bolivien, Schottland, England, Island + 3-2 vs Brasilien!) - hoechste Form-Edge eines WM-Aussenseiters.",
+        "Wetter Arlington TX: Tag 33 Grad C + Indoor-Stadion AT&T (klimatisiert), neutral.",
+        "Quoten Aggregator-Konsens (Yahoo/RotoWire/FoxSports/Racing Post, 13.06.): NED Sieg 2.10 (+112) / X 3.65 (+265) / Japan 3.75 (+275). Ueber 2.5 ~1.85. BTTS Ja ~2.00. Gakpo trifft ~2.50. Depay trifft ~2.85. Reijnders trifft ~3.50.",
+        "Reality-Check Quoten 2.00-3.00: 41.7 Prozent HR / +9.0 Prozent ROI (n=121). Quoten 1.50-2.00: 54.4 Prozent HR / +11.8 Prozent ROI (beste VALUE-Range).",
+        "Goldgrube-Markt 'Torschuetzen Jederzeit' (+19.3 Prozent ROI, 39.6 Prozent HR) + 'Ueber 2.5 Tore' (+23.4 Prozent ROI, 52.2 Prozent HR) - aktiv eingebaut."
+      ],
+      "tipps": [
+        {
+          "id": "t-ned-1",
+          "markt": "Cody Gakpo trifft jederzeit (Niederlande)",
+          "kategorie": "value",
+          "quote": 2.5,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 5.5,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+19.3 Prozent ROI / 39.6 Prozent HR, n=55). Gakpo ist Liverpool-Linksaussen mit starker 2025/26-Saison (~15 Pflichtspieltore), Hauptanker NED-Offensive bei moeglichem Memphis-Hamstring-Risiko. Form-Edge-Pflicht (Heim-leichter-Favorit-Profil) durch Goldgrube-Tipp erfuellt. Japan-Defensive 3-Mann-Kette (Itakura/Taniguchi/Ito) gegen direkten Aussenstuermer-Aufprall verwundbar - bei NED-Sieg-Pfad Tor wahrscheinlich. Einwechslungs-Boost-Hedge (CLAUDE.md): falls Gakpo gegen Malen/Weghorst rausgeht, deren Tore zaehlen mit. Quote 2.50. Reality-Check Quoten 2.00-3.00: 41.7 Prozent HR. Stake 1.0 Prozent = 5.50 EUR.",
+          "edge_prozent": 10,
+          "faire_quote": 2.25,
+          "rang": 1
+        },
+        {
+          "id": "t-ned-2",
+          "markt": "Ueber 2.5 Tore (Gesamt)",
+          "kategorie": "value",
+          "quote": 1.85,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 5.5,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 Tore (+23.4 Prozent ROI / 52.2 Prozent HR, n=25). Beide Teams aktuell offensiv-aktiv: NED 27 Tore in 8 Quali, Japan 6 Tests siegreich ohne Gegentor aber mit hohem Tor-Volumen (3-2 vs Brasilien). NED-Defensiv-Tiefe reduziert (Schouten OUT). Reality-Check Quoten 1.50-2.00: 54.4 Prozent HR / +11.8 Prozent ROI (n=154, beste VALUE-Range). ABER Lesson 08.06 WM-Test-Ueber-Defensiv-Subfilter: Indoor-AT&T-Stadion bei 33 Grad ist klimatisiert, neutral, drueckt nicht das Tor-Volumen. Quote 1.85. Stake 1.0 Prozent = 5.50 EUR.",
+          "edge_prozent": 8,
+          "faire_quote": 1.72,
+          "rang": 2
+        },
+        {
+          "id": "t-ned-3",
+          "markt": "Niederlande Sieg (1X2)",
+          "kategorie": "wackel",
+          "quote": 2.1,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 2.75,
+          "begruendung": "Klassen-Edge NED FIFA #7 vs Japan #15 plus Quali-Dominanz (8/0/0) - aber Form-Asymmetrie kleiner als auf Papier: Japan 6 Tests siegreich inkl. 3-2 vs Brasilien zeigt Welt-Niveau-Form, NED 3 Stamm-Spieler verletzt (Memphis/Xavi Simons/Schouten). 2:0-Insurance-Regel WM 2026 aktiv (CLAUDE.md): NED-Sieg-Tipp gewinnt bei bet365 schon ab 2:0-Fuehrung - extra Versicherung. Reality-Check Quoten 2.00-3.00: 41.7 Prozent HR / +9.0 Prozent ROI. Quote 2.10. Stake 0.5 Prozent = 2.75 EUR Wackel-Range.",
+          "edge_prozent": 5,
+          "faire_quote": 2.0,
+          "rang": 3
+        },
+        {
+          "id": "t-ned-4",
+          "markt": "Beide Teams treffen (BTTS Ja)",
+          "kategorie": "wackel",
+          "quote": 2.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 2.75,
+          "begruendung": "Japan 3-2 vs Brasilien zeigt Tor-Faehigkeit + NED-Defensive ohne Schouten anfaelliger - BTTS-Konstellation klassisch. Kubo (Real Sociedad) plus Doan plus Ueda Sturm-Achse Japan kann gegen Van Dijk + Ake Verteidiger Lücken finden. ABER NED-Defensive auch elite (4 Gegentore in 8 Quali). Lesson 30.04 BTTS-These-Vorsicht in Phase-1-Spielen. Quote 2.00 in Reality-Check 41.7 Prozent HR / +9.0 Prozent ROI Range. Stake 0.5 Prozent Wackel.",
+          "edge_prozent": 6,
+          "faire_quote": 1.88,
+          "rang": 4
+        },
+        {
+          "id": "t-ned-5",
+          "markt": "Japan Sieg (1X2)",
+          "kategorie": "moonshot",
+          "quote": 3.75,
+          "empfohlener_einsatz_prozent": 0.1,
+          "empfohlener_einsatz_euro": 0.55,
+          "begruendung": "Moonshot-Bein: Japan-Form (6 Siege inkl Brasilien-Sturz) plus NED-Verletzungs-Druck plus 2022-Erinnerung (Deutschland/Spanien geschlagen) macht Schock-These plausibel - aber bleibt Lottery. Quote 3.75 = Moonshot-Range fuer Spass-Stake.",
+          "edge_prozent": null,
+          "faire_quote": 3.75,
+          "rang": 5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand_heim": 2,
+        "endstand_gast": 2,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 0,
+        "quelle": "WebSearch (FIFA/ESPN/SkySports/Outlook/Opta) - manuell ergaenzt, API kannte Liga nicht (WM 2026 nicht im Free-Tier)"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t-ned-1",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Gakpo selber kein Tor. In 85. fuer Brobbey ausgewechselt - Brobbey traf 85.-90. NICHT (Japan equalisierte stattdessen mit Kamada 89.). Einwechslungs-Boost greift nicht."
+        },
+        {
+          "tipp_id": "t-ned-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.85,
+          "kommentar": "2+2 = 4 Tore total - klar ueber 2.5. Goldgrube-Markt bestaetigt."
+        },
+        {
+          "tipp_id": "t-ned-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "NED 2:2 - kein Sieg, kein 2:0-Insurance (max-Fuehrung war 2:1 in 63., Kamada 89. equalisierte). 2:0-Insurance setzt 2-Tore-Vorsprung voraus - hier nie erreicht."
+        },
+        {
+          "tipp_id": "t-ned-4",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.0,
+          "kommentar": "Beide Teams trafen 2x - BTTS Ja klar erfuellt."
+        },
+        {
+          "tipp_id": "t-ned-5",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Japan 2:2 nicht gewonnen, Last-Gasp-Punkt-Rettung. Moonshot verfehlt."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "2:2",
+        "tore": [
+          {
+            "min": 51,
+            "team": "heim",
+            "spieler": "Virgil van Dijk (Kopf nach Gravenberch-Flanke)",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 57,
+            "team": "gast",
+            "spieler": "Keito Nakamura",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 63,
+            "team": "heim",
+            "spieler": "Crysencio Summerville",
+            "stand_danach": "2:1"
+          },
+          {
+            "min": 89,
+            "team": "gast",
+            "spieler": "Daichi Kamada",
+            "stand_danach": "2:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "NED fuehrte nie mit 2 Toren Vorsprung - max-Fuehrung war 2:1 (63.). Kamada 89. equalisierte zum 2:2 = Last-Gasp-Punkt-Verlust statt Drehung. Vergleichbar mit Schweiz-Katar 13.06. - WM-Auftakt-Last-Gasp-Pattern bereits 2 Tage in Folge."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Unentschieden/Unentschieden",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Brobbey",
+            "aus": "Gakpo",
+            "minute": 85,
+            "tor": false,
+            "kommentar": "Gakpo raus 85., Brobbey rein. Brobbey traf 85.-90. NICHT (stattdessen Japan-Equalizer Kamada 89.). Einwechslungs-Boost greift NICHT fuer Gakpo-Tipp."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Japan 6 Tests siegreich (inkl Brasilien 3-2) Form bestaetigt - kein WM-Naivling, NED-Klassen-Edge-These ueberschaetzt.",
+          "WM-Auftakt-Last-Gasp-Pattern Tag 2: Kamada 89. Equalizer nach Schweiz-Katar Khoukhi 90+4. - 2 Tage in Folge equalisierten Underdogs in der Schluss-Phase.",
+          "NED-Defensiv-Tiefe ohne Schouten-Xavi Simons sichtbar - Japan 2 Tore aus 2. HZ-Druck, beide gegen vermeintliche NED-Festung.",
+          "Summerville-Star-Game (Brighton-Linksaussen): Tor + starke Performance - NED hat ueberraschenden Star-Faktor jenseits Gakpo entdeckt."
+        ]
+      }
+    },
+    {
+      "id": "2026-06-14-civ-ecu",
+      "liga": "FIFA World Cup 2026 - Gruppe E - Spieltag 1",
+      "heim": "Elfenbeinkueste",
+      "gast": "Ecuador",
+      "anstoss": "2026-06-15T01:00:00+02:00",
+      "stadion": "Lincoln Financial Field, Philadelphia PA (neutraler Platz)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM 2026 ist primaerer Wettbewerb, Stamm-Spieler aus PL/Ligue 1/Bundesliga in Klub-Pause seit 24.05.",
+        "parallel_gast": "keine - WM 2026 ist primaerer Wettbewerb, Stamm-Spieler aus PL (Caicedo/Estupinan/Pacho) in Klub-Pause seit 24.05.",
+        "saisonziel_heim": "Achtelfinale (aus Gruppe E mit Deutschland/Curacao/Marokko-Achtelfinal-Spaeter) - FIFA #38, regierender Afrika-Cup-Meister 2024, Trainer Emerse Fae im 2. WM-Zyklus, Achse Haller (Dortmund) / Pepe / Kessie / Konan / Diomande",
+        "saisonziel_gast": "Achtelfinale (aus Gruppe E) - FIFA #25, Trainer Sebastian Beccacece neu seit 2024, Generation um Caicedo (Chelsea) / Estupinan (Brighton) / Plata (Flamengo) / Valencia (Captain). Quali Suedamerika 6 unentschiedene Spiele zu Null (Defensiv-Stein-mauer).",
+        "motivations_asymmetrie": "Klassischer Coinflip-Tag: Ecuador knapper Buchmacher-Favorit (+135 ML), beide Teams Achtelfinal-Pflicht in offener Gruppe E mit Marokko + Deutschland-Wert. Defensiv-Pendant: Ecuador 6 zu-Null in Quali, Ivorier 7/9 Quali-Siege mit konservativen Margins. Eher Schach-Spiel als Klassen-Edge - typisches Unter-2.5-Setup. KEIN SAFE-Setup, max 3 Tipps (Coinflip-Regel CLAUDE.md).",
+        "recovery_heim": "Klub-Pause seit 24.05. (PL/Ligue 1/Bundesliga) - frisch. Haller-Form 2025/26 bei BVB durchwachsen (Backup-9er hinter Guirassy).",
+        "recovery_gast": "Klub-Pause seit 24.05. (PL fuer Stamm-Achse) - frisch. Caicedo Chelsea-Stamm, Estupinan Brighton-Stamm, beide voll fit.",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/schedule",
+          "https://www.espn.com/soccer/odds/_/gameId/760423",
+          "https://www.cbssports.com/soccer/news/ivory-coast-ecuador-world-cup-2026-preview-predictions-watch/",
+          "https://www.foxsports.com/stories/soccer/2026-world-cup-ivory-coast-ecuador-odds-prediction-picks",
+          "https://www.kicker.de/wm"
+        ]
+      },
+      "news": [
+        "Coinflip-Quoten: Ivory Coast +270 / X +180 / Ecuador +135 - Ecuador minimal-Favorit, aber alle drei Outcomes in 2.35-3.50-Range = klassischer Coinflip-Tag.",
+        "Ecuador-Defensiv-Form: in Suedamerika-Quali 6 Spiele zu Null - eine der dichtesten Defensive im WM-Feld. Anker: Caicedo (Chelsea) + Pacho (PSG) + Estupinan (Brighton).",
+        "Ivory Coast-Form: 7/9 Quali-Siege, 4 Siege in Folge vor WM - solider Lauf aber gegen schwaechere Afrika-Gegner. Ihrer-Defensive auch dicht, aber Offensive Haller/Pepe nicht Welt-Niveau-konstant.",
+        "Stamm-Achsen: Ivory Coast 4-3-3 - Fofana; Konan, Agbadou, Kossounou, Doue; Kessie, Seri, Sangare; Pepe, Haller, Diakite. Ecuador 4-3-3 - Galindez; Preciado, Pacho, Hincapie, Estupinan; Caicedo, Sarmiento, Paez; Plata, Valencia, Yeboah.",
+        "Wetter Philadelphia: Tag/Abend 27 Grad C, leicht regnerisch moeglich - kein Tor-Verdrueck.",
+        "Quoten Aggregator-Konsens (CBS/ESPN/FoxSports/Covers, 13.06.): Ivory Coast 3.70 (+270) / X 2.80 (+180) / Ecuador 2.35 (+135). Unter 2.5 ~1.80 / Ueber 2.5 ~2.00. BTTS Nein ~1.85. Valencia trifft ~3.50. Plata trifft ~3.50-4.00. Haller trifft ~3.00.",
+        "Reality-Check Quoten 1.50-2.00: 54.4 Prozent HR / +11.8 Prozent ROI (beste VALUE-Range).",
+        "Goldgrube-Markt 'Unter 2.5 Tore' (+28.1 Prozent ROI, 66.7 Prozent HR, n=18 - BESTER Markt im System!) ist ideal-Setup hier: beide Teams defensiv-stark + Auftakt-Phase-Vorsicht + kein klarer Tor-Stuermer auf Welt-Niveau.",
+        "Coinflip-Regel CLAUDE.md erfuellt: kein SAFE im Spiel, max 3 Tipps, KEIN klares Edge-Signal -> defensive-Total + leicht-Favorit-Sieg-Wackel + Moonshot-Tor."
+      ],
+      "tipps": [
+        {
+          "id": "t-civ-1",
+          "markt": "Unter 2.5 Tore (Gesamt)",
+          "kategorie": "value",
+          "quote": 1.8,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 8.25,
+          "begruendung": "Markt-Goldgrube Unter 2.5 Tore (+28.1 Prozent ROI / 66.7 Prozent HR, n=18 - BESTER Markt im System!). Beide Teams hochgradig defensiv: Ecuador 6 Quali-Spiele zu Null, Ivory Coast 7/9 Siege mit knappen Margins. Caicedo (Chelsea) + Pacho (PSG) plus Konan + Agbadou bilden Mauer-Konstellationen. Auftakt-Phase-Pattern WM (CLAUDE.md): Spiele 1-2 oft taktisch, Edges Defensiv-Block bei Achtelfinal-Quali-Druck. Lesson 13.06 'WM-Eroeffnungs-Unter-2.5-Subfilter Top5-Liga-Asymmetrie' bestaetigt: bei nicht-Top-5-Liga-Gegner-Konstellation Unter-Tendenz stark. Quote 1.80. Reality-Check Quoten 1.50-2.00: 54.4 Prozent HR / +11.8 Prozent ROI. Stake 1.5 Prozent = 8.25 EUR.",
+          "edge_prozent": 15,
+          "faire_quote": 1.57,
+          "rang": 1
+        },
+        {
+          "id": "t-civ-2",
+          "markt": "Ecuador Sieg (1X2)",
+          "kategorie": "wackel",
+          "quote": 2.35,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 2.75,
+          "begruendung": "Ecuador knapper Buchmacher-Favorit (+135 ML) mit dichtester Defensive im Spiel + Klub-Stamm aus PL-Spitze (Caicedo Chelsea, Pacho PSG, Estupinan Brighton). Defensive-Vorteil koennte 1-0 oder 2-1 Sieg-These ausspielen. ABER Coinflip-Profil heisst keine SAFE-Hochstufung - Ivory Coast als Afrika-Cup-Meister 2024 hat auch eigene Edges. 2:0-Insurance-Regel WM 2026 aktiv. Quote 2.35 in Reality-Check 2.00-3.00 Range (41.7 Prozent HR / +9.0 Prozent ROI). Stake 0.5 Prozent = 2.75 EUR Wackel.",
+          "edge_prozent": 6,
+          "faire_quote": 2.2,
+          "rang": 2
+        },
+        {
+          "id": "t-civ-3",
+          "markt": "Gonzalo Plata trifft jederzeit (Ecuador)",
+          "kategorie": "moonshot",
+          "quote": 3.5,
+          "empfohlener_einsatz_prozent": 0.1,
+          "empfohlener_einsatz_euro": 0.55,
+          "begruendung": "Moonshot-Bein Ecuador-Aussenstuermer Plata (Flamengo) als zweitwichtigster Volumen-Schuetze hinter Captain Valencia. Bei Ecuador-1-0-Sieg-Szenario einer-der-zwei-Plata-Treffer plausibel. Quote 3.50 = Moonshot-Range. Spass-Stake 0.55 EUR.",
+          "edge_prozent": null,
+          "faire_quote": 3.5,
+          "rang": 3
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand_heim": 1,
+        "endstand_gast": 0,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 0,
+        "quelle": "WebSearch (FIFA/ESPN/SkySports/Outlook/FoxSports) - manuell ergaenzt"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t-civ-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.8,
+          "kommentar": "Nur 1 Tor (Amad Diallo 90.) - klar unter 2.5. Goldgrube-Markt (+28.1 ROI) voll bestaetigt - Unter-Pattern WM-Auftakt-Spiel 2 Tage in Folge."
+        },
+        {
+          "tipp_id": "t-civ-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Ecuador 0:1 - Buchmacher-Favorit-Crash durch CIV-Joker Amad Diallo 90. Coinflip-Wackel-Tipp ohne Edge."
+        },
+        {
+          "tipp_id": "t-civ-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Plata kein Tor (Ecuador insgesamt 0 Tore). Moonshot verfehlt."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "1:0",
+        "tore": [
+          {
+            "min": 90,
+            "team": "heim",
+            "spieler": "Amad Diallo (Sub, Manchester United)",
+            "stand_danach": "1:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "0:0 zur HZ, 1:0 in 90. = kein Drehungs-Pattern, sondern klassisches Last-Gasp-Eintor-Spiel."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Unentschieden/Elfenbeinkueste",
+          "kein_team_zu_null": false,
+          "ecuador_tore": 0
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Amad Diallo",
+            "aus": "Bazoumana Toure",
+            "minute": 55,
+            "tor": true,
+            "tor_minute": 90,
+            "kommentar": "Joker-Tor 35 Minuten nach Einwechslung - kein Boost-Trigger fuer einen Tipp-Spieler (Diallo war nicht getippt)."
+          }
+        ],
+        "auffaellige_patterns": [
+          "WM-Auftakt-Unter-2.5-Pattern Tag 2: 1 Tor in 90 Minuten (1:0 durch 90.-Joker) bestaetigt Goldgrube-Edge - +28.1% ROI Markt-Bilanz erweitert.",
+          "Ecuador 6 Quali-zu-Null-Spiele Defensive haelt 89 Minuten - nur Joker-Tor 90. bricht durch. Unter-2.5-These war richtig, Ecuador-Sieg-These falsch.",
+          "Beide Teams zusammen 4 Pfostentreffer (Yeboah/Minda CIV-Pfosten/Latte mehrmals) - Tor-Glueck-Statistik mit Defensive-Block-Pattern, nicht Tor-Festival-Anti-These.",
+          "CIV 1. WM-Sieg in 12 Jahren via Manchester-United-Joker - Bench-Tiefe ueber Roster-Tiefe entscheidet bei Coinflip-Spielen."
+        ]
+      }
+    },
+    {
+      "id": "2026-06-14-swe-tun",
+      "liga": "FIFA World Cup 2026 - Gruppe F - Spieltag 1",
+      "heim": "Schweden",
+      "gast": "Tunesien",
+      "anstoss": "2026-06-15T04:00:00+02:00",
+      "stadion": "Estadio BBVA, Monterrey (neutraler Platz, Mexiko)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM 2026 ist primaerer Wettbewerb, Allsvenskan laeuft (Saison-Halbzeit) aber WM-Stamm-Spieler aus Europa-Top-Klubs (Arsenal/Liverpool/Forest) in Klub-Pause seit 24.05.",
+        "parallel_gast": "keine - WM 2026 ist primaerer Wettbewerb, Tunesien-Stamm-Spieler aus Ligue 1 / Premier League / Belgien in Klub-Pause seit 24.05.",
+        "saisonziel_heim": "Achtelfinal-Quali (aus Gruppe F mit NED/Japan/Tunesien) - FIFA #22, Coach Jon Dahl Tomasson seit Maerz 2024, Stamm um Gyokeres (Arsenal, PL-Sieger 2025/26) + Isak (Liverpool) + Elanga (Forest) + Lindelof + Forsberg. Quali Playoffs gewonnen (vs Polen Gyokeres Winning-Goal).",
+        "saisonziel_gast": "Achtelfinale-Premiere (nie geschafft seit 1978-Premiere) - FIFA #41, Coach Sami Trabelsi seit 2022, junge Achse um Hannibal Mejbri (Sevilla) + Skhiri (Frankfurt) + Talbi (Lille) + Achouri (LASK). Defensiv-organisiert, geringer Tor-Output in Quali.",
+        "motivations_asymmetrie": "Coinflip-leichter-Favorit: Schweden knapper Buchmacher-Favorit ~1.91 (-110), aber Tunesien-Defensive sehr organisiert (Lesson Auftakt-Phase-Pattern - Underdog spielt taktisch). Klassen-Edge halbwegs (Top-5-Liga-Stamm vs Mid-Liga-Stamm), aber Stuermer-Form-Edge Schweden klar (Gyokeres 5 Tore in letzten 3 NT-Spielen). Form-Edge-Pflicht Heim-Favorit-Profil knapp ueberschritten (1.91 statt 1.80) -> Torschuetzen-Tipp Pflicht.",
+        "recovery_heim": "Klub-Pause seit 17.-24.05. (PL/Eredivisie/Bundesliga) = ~4 Wochen Erholung + Trainingscamp. Gyokeres Arsenal PL-Sieger-Saison (~21 Pflichtspieltore) topfit, Isak nach Knochenbruch Fruehjahr zurueck mit 4 Tests gespielt.",
+        "recovery_gast": "Klub-Pause seit 24.-25.05. - frisch, Mejbri starke Saison Sevilla, Skhiri Stamm Frankfurt.",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/schedule",
+          "https://www.whoscored.com/articles/ipFZZmr5006eIX53plphHw/show/20260615-sweden-vs-tunisia-prediction-1781371177",
+          "https://www.sportsgambler.com/betting-tips/football/sweden-vs-tunisia-prediction-lineups-odds-2026-06-15/",
+          "https://www.livescore.com/en/news/football/world-cup/predictions/sweden-vs-tunisia-predictions-gyokeres-to-make-his-mark/",
+          "https://www.kicker.de/wm"
+        ]
+      },
+      "news": [
+        "Schweden-Aufstellung erwartet 4-3-3: Olsen; Larsson, Lindelof, Holm, Augustinsson; Bergvall, Forsberg, Ayari; Elanga, Gyokeres, Isak.",
+        "Tunesien-Aufstellung erwartet 4-3-3: Dahmen; Talbi, Bronn, Meriah, A Abdi; Skhiri, Sliti, Mejbri; Achouri, Saad, Tounekti.",
+        "Gyokeres-Form: 21 Pflichtspieltore Arsenal 2025/26 (PL-Meister), 5 Tore in letzten 3 NT-Spielen (inkl. Polen Quali-Playoff Winning-Goal) - hoechste Stuermer-Form-Edge.",
+        "Isak-Form: nach Knochenbruch-Reha aktiv zurueck, Liverpool PL-Vize-Saison ~12 Pflichtspieltore, 4 Tests fuer Schweden gespielt - nicht 100 Prozent Form aber spielbar.",
+        "Wetter Monterrey: Tag 28 Grad C + Hoehenlage 538m (deutlich niedriger als Mexiko Stadt 2240m). Lesson CLAUDE.md Mexiko-Hitze-Pattern: leicht angepasst aber kein extremer Faktor.",
+        "Quoten Aggregator-Konsens (TNT Sports/LiveScore/Covers/WhoScored, 13.06.): Schweden Sieg 1.91 (-110) / X 3.50 / Tunesien 4.40. Ueber 2.5 ~2.00. BTTS Ja ~2.00. Gyokeres trifft ~2.40. Isak trifft ~2.50. Gyokeres Doppelpack ~6.00.",
+        "Reality-Check Quoten 1.50-2.00: 54.4 Prozent HR / +11.8 Prozent ROI (beste VALUE-Range).",
+        "Goldgrube-Markt 'Torschuetzen Jederzeit' (+19.3 Prozent ROI, 39.6 Prozent HR) - Gyokeres + Isak beide Goldgrube-Setup mit Form-Edge.",
+        "Form-Edge-Pflicht erfuellt: Gyokeres als Volumen-Stuermer mit 5 Toren in 3 Spielen, Torschuetzen-Tipp PFLICHT (CLAUDE.md Hebel S+M)."
+      ],
+      "tipps": [
+        {
+          "id": "t-swe-1",
+          "markt": "Viktor Gyokeres trifft jederzeit (Schweden)",
+          "kategorie": "value",
+          "quote": 2.4,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 8.25,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+19.3 Prozent ROI / 39.6 Prozent HR, n=55 - bester Markt im System). Gyokeres ist Arsenal-Premier-League-Meister 2025/26 mit 21 Pflichtspieltoren + 5 Tore in letzten 3 NT-Spielen (Quali-Playoff-Winner vs Polen + 2 weitere Tests) - hoechste Stuermer-Form-Edge im heutigen Slate. Form-Edge-Pflicht (Heim-leichter-Favorit-Profil): bei 3+ Toren in 5 Spielen ist Torschuetzen-Tipp PFLICHT (CLAUDE.md Hebel S). Tunesien-Defensive solide (Bronn/Meriah) aber gegen Arsenal-Niveau-Sturm nicht 90 Min unverwundbar. Einwechslungs-Boost-Hedge: falls Gyokeres gegen Forsberg/Dahlin rausgeht, deren Tore zaehlen mit. Quote 2.40. Reality-Check Quoten 2.00-3.00: 41.7 Prozent HR / +9.0 Prozent ROI. Stake 1.5 Prozent = 8.25 EUR.",
+          "edge_prozent": 15,
+          "faire_quote": 2.08,
+          "rang": 1
+        },
+        {
+          "id": "t-swe-2",
+          "markt": "Alexander Isak trifft jederzeit (Schweden)",
+          "kategorie": "value",
+          "quote": 2.5,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 5.5,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+19.3 Prozent ROI / 39.6 Prozent HR). Isak ist Liverpool-Stuermer (~12 Pflichtspieltore 2025/26) und Backup-Volumen-Schuetze hinter Gyokeres - klassisches Doppel-9er-Schweden-Setup. Nach Knochenbruch Fruehjahr 2026 zurueck mit 4 Test-Einsaetzen, nicht 100 Prozent Form aber spielbar. Tunesien-Defensive bei 2-Spitzen-Druck nicht skalierbar. Backup-Stuermer-Pflicht (CLAUDE.md): wenn Gyokeres als Top-Stuermer Tipp da ist, ist Backup-Stuermer-Tipp HARTREGEL bei Doppel-9er-Setup. Einwechslungs-Boost: bei spaeter Substitution wuerde Backup-Tor zaehlen. Quote 2.50. Reality-Check Quoten 2.00-3.00: 41.7 Prozent HR. Stake 1.0 Prozent = 5.50 EUR.",
+          "edge_prozent": 10,
+          "faire_quote": 2.27,
+          "rang": 2
+        },
+        {
+          "id": "t-swe-3",
+          "markt": "Schweden Sieg (1X2)",
+          "kategorie": "wackel",
+          "quote": 1.91,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 2.75,
+          "begruendung": "Schweden knapper Buchmacher-Favorit (1.91) bei Klassen-Edge (Top-5-Liga-Stamm vs Mid-Liga-Stamm) + Form-Edge Gyokeres/Isak. ABER Tunesien defensiv-organisiert (Lesson Auftakt-Phase) + Monterrey-Hoehenlage drueckt Tempo - knappes Spiel mit 1-0 oder 2-1 Schweden-Ausgang. 2:0-Insurance-Regel WM 2026 aktiv. Reality-Check Quoten 1.50-2.00: 54.4 Prozent HR / +11.8 Prozent ROI (beste VALUE-Range). Quote 1.91. Stake 0.5 Prozent = 2.75 EUR Wackel-Range wegen Coinflip-naehe.",
+          "edge_prozent": 7,
+          "faire_quote": 1.78,
+          "rang": 3
+        },
+        {
+          "id": "t-swe-4",
+          "markt": "Ueber 2.5 Tore (Gesamt)",
+          "kategorie": "wackel",
+          "quote": 2.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 2.75,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 Tore (+23.4 Prozent ROI / 52.2 Prozent HR). Schweden-Tor-Power Gyokeres + Isak + Elanga gegen Tunesien-Solide-Defensive - bei knappem Schweden-Sieg (2-1, 3-1) Tor-Volumen leicht ueber 2.5. ABER Auftakt-Phase + Hoehenlage-Tempo-Drueck koennte Tor-Volumen reduzieren (Lesson 13.06 WM-Eroeffnungs-Unter-2.5-Pattern, war 4/4 Unter am 13.06.). Quote 2.00. Reality-Check Quoten 2.00-3.00: 41.7 Prozent HR. Wackel-Stake 0.5 Prozent.",
+          "edge_prozent": 5,
+          "faire_quote": 1.9,
+          "rang": 4
+        },
+        {
+          "id": "t-swe-5",
+          "markt": "Gyokeres Doppelpack (2+ Tore)",
+          "kategorie": "moonshot",
+          "quote": 6.0,
+          "empfohlener_einsatz_prozent": 0.1,
+          "empfohlener_einsatz_euro": 0.55,
+          "begruendung": "Moonshot-Bein: Gyokeres mit 5 Toren in 3 NT-Spielen Form-Lauf + Doppel-9er-Setup mit Isak macht Doppelpack-These plausibel - aber gegen Tunesien-Defensiv-Block bleibt 2+ Tore Lottery-Range. Einwechslungs-Boost-Hedge: Isak-Tore zaehlen fuer Gyokeres-Doppelpack falls Gyokeres rausgeht (CLAUDE.md). Quote 6.00 = Moonshot. Spass-Stake.",
+          "edge_prozent": null,
+          "faire_quote": 6.0,
+          "rang": 5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand_heim": 5,
+        "endstand_gast": 1,
+        "halbzeit_heim": 2,
+        "halbzeit_gast": 1,
+        "quelle": "WebSearch (FIFA/SkySports/Opta/FoxSports/VAVEL) - manuell ergaenzt"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t-swe-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.4,
+          "kommentar": "Gyokeres traf 59. (Skhiri-Fehler ausgenutzt). Goldgrube-Markt + Form-Edge voll bestaetigt - 6. Tor in 4 NT-Spielen."
+        },
+        {
+          "tipp_id": "t-swe-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.5,
+          "kommentar": "Isak traf 29. nach Gyokeres-Assist auf Konter. Backup-9er-Pflicht-Tipp voll bestaetigt - Doppel-9er-Setup performte."
+        },
+        {
+          "tipp_id": "t-swe-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.91,
+          "kommentar": "Schweden 5:1 dominanter Sieg, 2:0-Insurance ab 29. (Isak-Tor) gegeben aber gar nicht noetig."
+        },
+        {
+          "tipp_id": "t-swe-4",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.0,
+          "kommentar": "6 Tore total - klar ueber 2.5. Goldgrube-Markt voll bestaetigt."
+        },
+        {
+          "tipp_id": "t-swe-5",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Gyokeres nur 1 Tor (59.) - kein Doppelpack. Einwechslungs-Boost-Hedge greift nicht (Gyokeres spielte durch). Moonshot verfehlt."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "2:1",
+        "endstand": "5:1",
+        "tore": [
+          {
+            "min": 7,
+            "team": "heim",
+            "spieler": "Yasin Ayari (Distanzschuss)",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 29,
+            "team": "heim",
+            "spieler": "Alexander Isak (Konter nach Gyokeres-Vorlage)",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 42,
+            "team": "gast",
+            "spieler": "Omar Rekik",
+            "stand_danach": "2:1"
+          },
+          {
+            "min": 59,
+            "team": "heim",
+            "spieler": "Viktor Gyokeres (nach Skhiri-Fehler)",
+            "stand_danach": "3:1"
+          },
+          {
+            "min": 84,
+            "team": "heim",
+            "spieler": "Mattias Svanberg (Sub, VAR-bestaetigt)",
+            "stand_danach": "4:1"
+          },
+          {
+            "min": "90+6",
+            "team": "heim",
+            "spieler": "Yasin Ayari (zweiter Tagestor)",
+            "stand_danach": "5:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Schweden fuehrte 2:0 in 29., Rekik-Anschluss 42. auf 2:1 zur HZ - aber Tunesien hat sich danach nicht zurueckgekaempft, Schweden 3 weitere Tore in 2. HZ. Keine Drehung sondern Tunesien-Eintor-Hoffnung schnell zerschlagen."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": true,
+          "ueber_6_5": false,
+          "halbzeit_endstand": "Schweden/Schweden",
+          "kein_team_zu_null": true,
+          "schweden_tore": 5
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Svanberg",
+            "aus": "unbekannt",
+            "minute": null,
+            "tor": true,
+            "tor_minute": 84,
+            "kommentar": "Joker-Tor 84. (VAR-bestaetigt) - Backup-Stuermer-Pattern bestaetigt, aber nicht direkt Gyokeres-Ersatz."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Goldgrube-Triple-Hit: Gyokeres + Isak + Schweden Sieg + Ueber 2.5 - 4/4 Goldgrube-Tipps bestaetigt, Doppel-9er-Setup-These voll erfuellt.",
+          "WM-Auftakt-Defensiv-Pattern an SWE-TUN gebrochen: erstes Tor-Festival-Spiel der WM Spieltage 1-2 (6 Tore) - alle anderen 7 Spiele waren Auftakt-Unter-Pattern.",
+          "Ayari-Doppelpack (Mittelfeld-Spieler) als Game-Changer - Ueberraschungs-Volumen-Tor-Quelle jenseits der zwei 9er.",
+          "Tunesien-Skhiri-Fehler beim 3:1 = Kapitaen-Fehler unter WM-Druck-Phase 1 - Lesson: Mid-Tier-Captains in Auftakt-Phase fuer Defensive-Fehler verwundbar."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "rang": 1,
+      "spiel_id": "2026-06-14-ger-cur",
+      "tipp_ref": "t-ger-3",
+      "markt": "Deutschland Ueber 2.5 Tore",
+      "kategorie": "safe",
+      "quote": 1.2,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 11.0,
+      "begruendung": "TOP-1 des Tages. Markt-Goldgrube Ueber 2.5 Tore +23.4 Prozent ROI / 52.2 Prozent HR (n=25). Maximaler Klassen-Edge DE FIFA #6 vs Curacao FIFA #~80 (kleinstes WM-Teilnehmerland je). 4 Vorbereitungssiege mit Schnitt 3.0 Tore/Spiel (4-3, 2-1, 4-0, 2-1). Reality-Check Quoten 1.00-1.50: 76.9 Prozent HR / +7.2 Prozent ROI. Stake 2.0 Prozent = 11 EUR Stufe 1.",
+      "tipp_id": "t-ger-3"
+    },
+    {
+      "rang": 2,
+      "spiel_id": "2026-06-14-ger-cur",
+      "tipp_ref": "t-ger-2",
+      "markt": "Florian Wirtz trifft jederzeit (Deutschland)",
+      "kategorie": "safe",
+      "quote": 2.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit +19.3 Prozent ROI / 39.6 Prozent HR (n=55). Wirtz ist DE-Quali-Topscorer 7 Tore in 8 Spielen + Vorbereitungs-Treffer (Finnland 4-0, USA 2-1). Form-Edge Pflicht. Einwechslungs-Boost (CLAUDE.md): Ersatz-Tore zaehlen mit. Quote 2.00. Stake 1.5 Prozent = 8.25 EUR.",
+      "tipp_id": "t-ger-2"
+    },
+    {
+      "rang": 3,
+      "spiel_id": "2026-06-14-ger-cur",
+      "tipp_ref": "t-ger-1",
+      "markt": "Deutschland Sieg (1X2)",
+      "kategorie": "safe",
+      "quote": 1.05,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "begruendung": "Klassen-Edge max + 4 Vorbereitungssiege + Reality-Check 1.00-1.50: 76.9 Prozent HR / +7.2 Prozent ROI. 2:0-Insurance WM 2026 aktiv. Quote 1.05 trivial-Range, daher Stake reduziert auf 1.0 Prozent = 5.50 EUR (kein Mehrwert beim Hochfahren bei 1.05).",
+      "tipp_id": "t-ger-1"
+    },
+    {
+      "rang": 4,
+      "spiel_id": "2026-06-14-civ-ecu",
+      "tipp_ref": "t-civ-1",
+      "markt": "Unter 2.5 Tore CIV-ECU (Gesamt)",
+      "kategorie": "value",
+      "quote": 1.8,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Markt-Goldgrube Unter 2.5 Tore +28.1 Prozent ROI / 66.7 Prozent HR (n=18 - BESTER Markt!). Beide Teams defensiv-stark: Ecuador 6 Quali-zu-Null, Ivory Coast 7/9 Siege mit knappen Margins. Auftakt-Phase + Lesson 13.06 (WM-Eroeffnungs-Unter-Dominanz 4/4 am 13.06.). Quote 1.80. Stake 1.5 Prozent = 8.25 EUR.",
+      "tipp_id": "t-civ-1"
+    },
+    {
+      "rang": 5,
+      "spiel_id": "2026-06-14-swe-tun",
+      "tipp_ref": "t-swe-1",
+      "markt": "Viktor Gyokeres trifft jederzeit (Schweden)",
+      "kategorie": "value",
+      "quote": 2.4,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Markt-Goldgrube Torschuetzen +19.3 Prozent ROI / 39.6 Prozent HR. Gyokeres Arsenal-PL-Meister 21 Pflichtspieltore + 5 in letzten 3 NT-Spielen - hoechste Form-Edge im Slate. Form-Pflicht. Einwechslungs-Boost. Quote 2.40. Stake 1.5 Prozent = 8.25 EUR.",
+      "tipp_id": "t-swe-1"
+    },
+    {
+      "rang": 6,
+      "spiel_id": "2026-06-14-ger-cur",
+      "tipp_ref": "t-ger-4",
+      "markt": "Jamal Musiala trifft jederzeit (Deutschland)",
+      "kategorie": "value",
+      "quote": 2.1,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "begruendung": "Markt-Goldgrube Torschuetzen. Musiala Bayern-Saison topfit, traf in Finnland 4-0 + USA 2-1. Backup-Star-Tor neben Wirtz. Einwechslungs-Boost-Hedge. Quote 2.10. Stake 1.0 Prozent = 5.50 EUR.",
+      "tipp_id": "t-ger-4"
+    },
+    {
+      "rang": 7,
+      "spiel_id": "2026-06-14-ned-jap",
+      "tipp_ref": "t-ned-1",
+      "markt": "Cody Gakpo trifft jederzeit (Niederlande)",
+      "kategorie": "value",
+      "quote": 2.5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "begruendung": "Markt-Goldgrube Torschuetzen. Gakpo Liverpool ~15 Pflichtspieltore, Hauptanker bei moeglichem Memphis-Hamstring-Risiko. Form-Edge-Pflicht. Quote 2.50. Stake 1.0 Prozent = 5.50 EUR.",
+      "tipp_id": "t-ned-1"
+    },
+    {
+      "rang": 8,
+      "spiel_id": "2026-06-14-ned-jap",
+      "tipp_ref": "t-ned-2",
+      "markt": "Ueber 2.5 Tore NED-JAP (Gesamt)",
+      "kategorie": "value",
+      "quote": 1.85,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "begruendung": "Markt-Goldgrube Ueber 2.5 +23.4 Prozent ROI. NED 27 Tore in 8 Quali + Japan 6 offensive Test-Siege (inkl 3-2 Brasilien). NED-Defensive ohne Schouten anfaelliger. Reality-Check 1.50-2.00: 54.4 Prozent HR / +11.8 Prozent ROI (beste VALUE-Range). Quote 1.85. Stake 1.0 Prozent = 5.50 EUR.",
+      "tipp_id": "t-ned-2"
+    },
+    {
+      "rang": 9,
+      "spiel_id": "2026-06-14-swe-tun",
+      "tipp_ref": "t-swe-2",
+      "markt": "Alexander Isak trifft jederzeit (Schweden)",
+      "kategorie": "value",
+      "quote": 2.5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "begruendung": "Markt-Goldgrube Torschuetzen. Isak Liverpool ~12 Pflichtspieltore, Backup-9er-Setup mit Gyokeres. Nach Knochenbruch-Reha spielbar. Backup-Stuermer-Pflicht (Doppel-9er-Setup). Quote 2.50. Stake 1.0 Prozent = 5.50 EUR.",
+      "tipp_id": "t-swe-2"
+    },
+    {
+      "rang": 10,
+      "spiel_id": "2026-06-14-ned-jap",
+      "tipp_ref": "t-ned-3",
+      "markt": "Niederlande Sieg (1X2)",
+      "kategorie": "wackel",
+      "quote": 2.1,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 2.75,
+      "begruendung": "Klassen-Edge halbwegs aber Japan 6 Test-Siege inkl. 3-2 Brasilien + NED 3 Stamm-Verletzungen drueckt. 2:0-Insurance aktiv. Reality-Check 2.00-3.00: 41.7 Prozent HR. Quote 2.10. Stake 0.5 Prozent = 2.75 EUR Wackel.",
+      "tipp_id": "t-ned-3"
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-safe-2026-06-14",
+      "name": "Safe-Kombi 3.50x",
+      "kategorie": "safe",
+      "gesamtquote": 3.5,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 11.0,
+      "beine": [
+        {
+          "spiel_id": "2026-06-14-ger-cur",
+          "markt": "Deutschland Sieg (1X2)",
+          "quote": 1.05,
+          "begruendung_kurz": "Klassen-Edge maximal vs Curacao FIFA #~80",
+          "tipp_id": "t-ger-1"
+        },
+        {
+          "spiel_id": "2026-06-14-civ-ecu",
+          "markt": "Unter 2.5 Tore (Gesamt)",
+          "quote": 1.8,
+          "begruendung_kurz": "Markt-Goldgrube +28.1 Prozent ROI - beide Teams defensiv-stark",
+          "tipp_id": "t-civ-1"
+        },
+        {
+          "spiel_id": "2026-06-14-ned-jap",
+          "markt": "Ueber 2.5 Tore (Gesamt)",
+          "quote": 1.85,
+          "begruendung_kurz": "Markt-Goldgrube +23.4 Prozent ROI - beide Teams offensiv-aktiv",
+          "tipp_id": "t-ned-2"
+        }
+      ],
+      "begruendung": "3-Bein Safe mit Markt-Diversifikation: 1 Sieg-Outcome (DE) + 2 Total-Goldgruben. Layer-1 OK (3 verschiedene Spiele). Layer-2 OK (DE-Sieg einziger Sieg-Outcome - andere Kombis kein DE-Sieg). Layer-3 OK (DE-Sieg / CIV-ECU-Unter / NED-JAP-Ueber - alle unterschiedlich von anderen Kombis). Gesamtquote 1.05 * 1.80 * 1.85 = 3.50x. Stake 2.0 Prozent = 11.00 EUR Stufe 1."
+    },
+    {
+      "id": "kombi-balance-2026-06-14",
+      "name": "Balance-Kombi 9.55x",
+      "kategorie": "balance",
+      "gesamtquote": 9.55,
+      "empfohlener_einsatz_prozent": 0.8,
+      "empfohlener_einsatz_euro": 4.4,
+      "beine": [
+        {
+          "spiel_id": "2026-06-14-ger-cur",
+          "markt": "Florian Wirtz trifft jederzeit",
+          "quote": 2.0,
+          "begruendung_kurz": "Markt-Goldgrube Torschuetzen, Wirtz Quali-Topscorer 7 Tore",
+          "tipp_id": "t-ger-2"
+        },
+        {
+          "spiel_id": "2026-06-14-ned-jap",
+          "markt": "Cody Gakpo trifft jederzeit",
+          "quote": 2.5,
+          "begruendung_kurz": "Markt-Goldgrube Torschuetzen, Liverpool-Linksaussen",
+          "tipp_id": "t-ned-1"
+        },
+        {
+          "spiel_id": "2026-06-14-swe-tun",
+          "markt": "Schweden Sieg (1X2)",
+          "quote": 1.91,
+          "begruendung_kurz": "Heim-Favorit-leicht mit Form-Edge Gyokeres",
+          "tipp_id": "t-swe-3"
+        }
+      ],
+      "begruendung": "3-Bein Balance mit Mix: 2 Torschuetzen-Goldgruben + 1 Sieg-Outcome (Schweden). Layer-1 OK (3 verschiedene Spiele). Layer-2 OK (Schweden-Sieg einziger Sieg-Outcome dieser Kombi - kein Konflikt mit anderen Kombis). Layer-3 OK (Wirtz/Gakpo/Sweden-Sieg - alle unterschiedlich von Safe). Gesamtquote 2.00 * 2.50 * 1.91 = 9.55x. Stake 0.8 Prozent = 4.40 EUR."
+    },
+    {
+      "id": "kombi-risiko-2026-06-14",
+      "name": "Risiko-Kombi 25.91x",
+      "kategorie": "risk",
+      "gesamtquote": 25.91,
+      "empfohlener_einsatz_prozent": 0.25,
+      "empfohlener_einsatz_euro": 1.4,
+      "beine": [
+        {
+          "spiel_id": "2026-06-14-ger-cur",
+          "markt": "Jamal Musiala trifft jederzeit",
+          "quote": 2.1,
+          "begruendung_kurz": "Markt-Goldgrube Torschuetzen, Backup-Star neben Wirtz",
+          "tipp_id": "t-ger-4"
+        },
+        {
+          "spiel_id": "2026-06-14-ned-jap",
+          "markt": "Niederlande Sieg (1X2)",
+          "quote": 2.1,
+          "begruendung_kurz": "Heim-leichter-Favorit mit Klassen-Edge",
+          "tipp_id": "t-ned-3"
+        },
+        {
+          "spiel_id": "2026-06-14-civ-ecu",
+          "markt": "Ecuador Sieg (1X2)",
+          "quote": 2.35,
+          "begruendung_kurz": "Coinflip-Favorit mit dichtester Defensive",
+          "tipp_id": "t-civ-2"
+        },
+        {
+          "spiel_id": "2026-06-14-swe-tun",
+          "markt": "Alexander Isak trifft jederzeit",
+          "quote": 2.5,
+          "begruendung_kurz": "Markt-Goldgrube Torschuetzen, Backup-9er",
+          "tipp_id": "t-swe-2"
+        }
+      ],
+      "begruendung": "4-Bein Risiko mit Mix: 2 Torschuetzen (Musiala/Isak) + 2 Sieg-Outcomes (NED + ECU). Layer-1 OK (4 verschiedene Spiele). Layer-2 OK (NED-Sieg + ECU-Sieg - jeder nur in dieser Kombi, andere Kombis haben DE-Sieg bzw SWE-Sieg). Layer-3 OK (alle 4 Beine unique vs Safe + Balance). Gesamtquote 2.10 * 2.10 * 2.35 * 2.50 = 25.91x. Stake 0.25 Prozent = 1.40 EUR."
+    },
+    {
+      "id": "kombi-moonshot-2026-06-14",
+      "name": "Moonshot-Kombi 79.20x",
+      "kategorie": "moonshot",
+      "gesamtquote": 79.2,
+      "empfohlener_einsatz_prozent": 0.1,
+      "empfohlener_einsatz_euro": 0.55,
+      "beine": [
+        {
+          "spiel_id": "2026-06-14-ger-cur",
+          "markt": "Deutschland Ueber 4.5 Tore",
+          "quote": 2.2,
+          "begruendung_kurz": "Klassen-Tor-Festival-Lottery",
+          "tipp_id": "t-ger-5"
+        },
+        {
+          "spiel_id": "2026-06-14-ned-jap",
+          "markt": "Beide Teams treffen (BTTS Ja)",
+          "quote": 2.0,
+          "begruendung_kurz": "Japan 3-2 Brasilien-Pattern + NED-Defensiv-Luecken",
+          "tipp_id": "t-ned-4"
+        },
+        {
+          "spiel_id": "2026-06-14-civ-ecu",
+          "markt": "Gonzalo Plata trifft jederzeit",
+          "quote": 3.0,
+          "begruendung_kurz": "Ecuador Volumen-Aussenstuermer",
+          "tipp_id": "t-civ-3"
+        },
+        {
+          "spiel_id": "2026-06-14-swe-tun",
+          "markt": "Gyokeres Doppelpack (2+ Tore)",
+          "quote": 6.0,
+          "begruendung_kurz": "Form-Eruption 5 Tore in 3 NT-Spielen",
+          "tipp_id": "t-swe-5"
+        }
+      ],
+      "begruendung": "4-Bein Moonshot mit 4 unterschiedlichen Markttypen: Total-extrem / BTTS / Tor / Doppelpack. Layer-1 OK (4 verschiedene Spiele). Layer-2 OK (kein Sieg-Outcome - alle 4 Beine sind Total/BTTS/Tor-Markets, kein Layer-2-Konflikt). Layer-3 OK (alle 4 Beine unique vs andere Kombis). Gesamtquote 2.20 * 2.00 * 3.00 * 6.00 = 79.20x. Spass-Stake 0.55 EUR (0.1 Prozent)."
+    }
+  ],
+  "lessons_angewandt": [
+    {
+      "datum": "2026-04-26",
+      "kategorie": "bet365 2:0-Insurance-Regel",
+      "anwendung": "Aktiv bei allen Sieg-Tipps WM 2026 (CLAUDE.md WM-Sonderregel): DE-Sieg / NED-Sieg / Ecuador-Sieg / Sweden-Sieg gewinnen bei 2:0-Fuehrung im Spiel selbst bei spaeterer Niederlage."
+    },
+    {
+      "datum": "2026-04-26",
+      "kategorie": "bet365 Einwechslungs-Boost",
+      "anwendung": "Backup-Stuermer-Pflicht erfuellt: Musiala neben Wirtz (DE), Isak neben Gyokeres (SWE) - falls Top-Stuermer rausgeht, zaehlt Ersatz-Tor. Doppel-9er-Setup auf Schweden + Deutschland."
+    },
+    {
+      "datum": "2026-04-27",
+      "kategorie": "Quoten-Verifikation HARTREGEL",
+      "anwendung": "Alle Quoten via 5 Aggregator-Quellen verifiziert (Squawka/ESPN/Yahoo/FoxSports/Racing Post). Keine SAFE/VALUE ohne Beleg."
+    },
+    {
+      "datum": "2026-05-01",
+      "kategorie": "Inter-Kombi-Diversifikation Layer 2+3",
+      "anwendung": "Sieg-Outcomes verteilt: DE-Sieg in Safe / Sweden-Sieg in Balance / NED-Sieg + Ecuador-Sieg in Risiko - kein Outcome in 2 Kombis. Markt-Typ-Diversifikation: Safe = 1 Sieg + 2 Totals, Balance = 2 Torschuetzen + 1 Sieg, Risiko = 2 Torschuetzen + 2 Siege, Moonshot = 4 Spezial-Markets."
+    },
+    {
+      "datum": "2026-06-13",
+      "kategorie": "WM-Eroeffnungs-Unter-2.5-Subfilter",
+      "anwendung": "Am 13.06. waren Unter 2.5 4/4 in Top5-Liga-vs-Non-Top5-Konstellationen. Heute CIV-Ecuador und potentiell SWE-Tunesien ausgewaehlt mit Unter-Bias (Unter 2.5 CIV-ECU als TOP-VALUE / Sweden-Ueber 2.5 nur Wackel)."
+    },
+    {
+      "datum": "2026-06-13",
+      "kategorie": "Layer-4 Markt-Typ-Konzentration",
+      "anwendung": "Risiko-Kombi 13.06. war 5/5 Verlust durch Markt-Typ-Konzentration (5x WM-Tor-Bezogene Beine). Heute Risiko-Kombi diversifiziert mit Mix Torschuetzen + Sieg-Outcomes (Musiala+NED-Sieg+ECU-Sieg+Isak)."
+    },
+    {
+      "datum": "2026-06-14",
+      "kategorie": "WATCHDOG-RECOVERY",
+      "anwendung": "Hauptroutine 16:00 fiel aus. Watchdog 17:15 hat komplette Tipps-Generation nachgeholt. 4 WM-Spiele recherchiert mit Pflicht-saison_kontext (alle 7 Felder + Quellen) + 4 Markt-Goldgruben-aktiv-Suche + Form-Edge-Pflicht (Gyokeres/Wirtz/Gakpo Torschuetzen)."
+    },
+    {
+      "datum": "2026-06-14",
+      "kategorie": "Heim-Favorit-Profil-Pflicht (CLAUDE.md Hebel S+M)",
+      "anwendung": "DE-Curacao (Quote 1.05): MIN 1 Torschuetzen-Tipp (Wirtz UND Musiala drin) + Sieg-Tipp (DE Sieg). NED-Japan (Quote 2.10): nicht klassischer Heim-Favorit -> KEIN SAFE, Gakpo-Torschuetze + NED-Sieg Wackel. SWE-Tunesien (Quote 1.91): Form-Edge-Pflicht erfuellt (Gyokeres 5 Tore in 3 NT-Spielen) + Backup-Stuermer Isak. CIV-Ecuador (alle 2.35-3.50): Coinflip-Regel - KEIN SAFE, max 3 Tipps."
+    }
+  ],
+  "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool, keine Einnahmequelle",
+  "einzeltipps_ergebnis": [
+    {
+      "rang": 1,
+      "spiel_id": "2026-06-14-ger-cur",
+      "tipp_ref": "t-ger-3",
+      "markt": "Deutschland Ueber 2.5 Tore",
+      "kategorie": "safe",
+      "quote": 1.2,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 11.0,
+      "begruendung": "TOP-1 des Tages. Markt-Goldgrube Ueber 2.5 Tore +23.4 Prozent ROI / 52.2 Prozent HR (n=25). Maximaler Klassen-Edge DE FIFA #6 vs Curacao FIFA #~80 (kleinstes WM-Teilnehmerland je). 4 Vorbereitungssiege mit Schnitt 3.0 Tore/Spiel (4-3, 2-1, 4-0, 2-1). Reality-Check Quoten 1.00-1.50: 76.9 Prozent HR / +7.2 Prozent ROI. Stake 2.0 Prozent = 11 EUR Stufe 1.",
+      "status": "gewonnen",
+      "gewinn_faktor": 1.2,
+      "netto_euro": 2.2,
+      "kommentar": "DE 7 Tore + CUR 1 Tor = 8 Tore - klar ueber 2.5. Markt-Goldgrube Ueber 2.5 voll bestaetigt.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "t-ger-3",
+      "id": "ez-1"
+    },
+    {
+      "rang": 2,
+      "spiel_id": "2026-06-14-ger-cur",
+      "tipp_ref": "t-ger-2",
+      "markt": "Florian Wirtz trifft jederzeit (Deutschland)",
+      "kategorie": "safe",
+      "quote": 2.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit +19.3 Prozent ROI / 39.6 Prozent HR (n=55). Wirtz ist DE-Quali-Topscorer 7 Tore in 8 Spielen + Vorbereitungs-Treffer (Finnland 4-0, USA 2-1). Form-Edge Pflicht. Einwechslungs-Boost (CLAUDE.md): Ersatz-Tore zaehlen mit. Quote 2.00. Stake 1.5 Prozent = 8.25 EUR.",
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "netto_euro": -8.25,
+      "kommentar": "Wirtz selber kein Tor (Assist Brown 68.). Wirtz in 72. fuer Goretzka ausgewechselt - Goretzka traf 72.-90. NICHT. Einwechslungs-Boost greift nicht. Lesson: Form-Stuermer mit 7 Quali-Toren liefert auch bei 7:1-Tor-Festival nicht zwingend selber.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "t-ger-2",
+      "id": "ez-2"
+    },
+    {
+      "rang": 3,
+      "spiel_id": "2026-06-14-ger-cur",
+      "tipp_ref": "t-ger-1",
+      "markt": "Deutschland Sieg (1X2)",
+      "kategorie": "safe",
+      "quote": 1.05,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "begruendung": "Klassen-Edge max + 4 Vorbereitungssiege + Reality-Check 1.00-1.50: 76.9 Prozent HR / +7.2 Prozent ROI. 2:0-Insurance WM 2026 aktiv. Quote 1.05 trivial-Range, daher Stake reduziert auf 1.0 Prozent = 5.50 EUR (kein Mehrwert beim Hochfahren bei 1.05).",
+      "status": "gewonnen",
+      "gewinn_faktor": 1.05,
+      "netto_euro": 0.28,
+      "kommentar": "Deutschland 7:1 - klarer Klassen-Edge realisiert, 2:0-Insurance gar nicht noetig (HZ 3:1).",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "t-ger-1",
+      "id": "ez-3"
+    },
+    {
+      "rang": 4,
+      "spiel_id": "2026-06-14-civ-ecu",
+      "tipp_ref": "t-civ-1",
+      "markt": "Unter 2.5 Tore CIV-ECU (Gesamt)",
+      "kategorie": "value",
+      "quote": 1.8,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Markt-Goldgrube Unter 2.5 Tore +28.1 Prozent ROI / 66.7 Prozent HR (n=18 - BESTER Markt!). Beide Teams defensiv-stark: Ecuador 6 Quali-zu-Null, Ivory Coast 7/9 Siege mit knappen Margins. Auftakt-Phase + Lesson 13.06 (WM-Eroeffnungs-Unter-Dominanz 4/4 am 13.06.). Quote 1.80. Stake 1.5 Prozent = 8.25 EUR.",
+      "status": "gewonnen",
+      "gewinn_faktor": 1.8,
+      "netto_euro": 6.6,
+      "kommentar": "Nur 1 Tor (Amad Diallo 90.) - klar unter 2.5. Goldgrube-Markt (+28.1 ROI) voll bestaetigt - Unter-Pattern WM-Auftakt-Spiel 2 Tage in Folge.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "t-civ-1",
+      "id": "ez-4"
+    },
+    {
+      "rang": 5,
+      "spiel_id": "2026-06-14-swe-tun",
+      "tipp_ref": "t-swe-1",
+      "markt": "Viktor Gyokeres trifft jederzeit (Schweden)",
+      "kategorie": "value",
+      "quote": 2.4,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Markt-Goldgrube Torschuetzen +19.3 Prozent ROI / 39.6 Prozent HR. Gyokeres Arsenal-PL-Meister 21 Pflichtspieltore + 5 in letzten 3 NT-Spielen - hoechste Form-Edge im Slate. Form-Pflicht. Einwechslungs-Boost. Quote 2.40. Stake 1.5 Prozent = 8.25 EUR.",
+      "status": "gewonnen",
+      "gewinn_faktor": 2.4,
+      "netto_euro": 11.55,
+      "kommentar": "Gyokeres traf 59. (Skhiri-Fehler ausgenutzt). Goldgrube-Markt + Form-Edge voll bestaetigt - 6. Tor in 4 NT-Spielen.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "t-swe-1",
+      "id": "ez-5"
+    },
+    {
+      "rang": 6,
+      "spiel_id": "2026-06-14-ger-cur",
+      "tipp_ref": "t-ger-4",
+      "markt": "Jamal Musiala trifft jederzeit (Deutschland)",
+      "kategorie": "value",
+      "quote": 2.1,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "begruendung": "Markt-Goldgrube Torschuetzen. Musiala Bayern-Saison topfit, traf in Finnland 4-0 + USA 2-1. Backup-Star-Tor neben Wirtz. Einwechslungs-Boost-Hedge. Quote 2.10. Stake 1.0 Prozent = 5.50 EUR.",
+      "status": "gewonnen",
+      "gewinn_faktor": 2.1,
+      "netto_euro": 6.05,
+      "kommentar": "Musiala traf 47. (zweite Halbzeit-Eroeffnungs-Tor). Markt-Goldgrube Torschuetzen Jederzeit voll bestaetigt.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "t-ger-4",
+      "id": "ez-6"
+    },
+    {
+      "rang": 7,
+      "spiel_id": "2026-06-14-ned-jap",
+      "tipp_ref": "t-ned-1",
+      "markt": "Cody Gakpo trifft jederzeit (Niederlande)",
+      "kategorie": "value",
+      "quote": 2.5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "begruendung": "Markt-Goldgrube Torschuetzen. Gakpo Liverpool ~15 Pflichtspieltore, Hauptanker bei moeglichem Memphis-Hamstring-Risiko. Form-Edge-Pflicht. Quote 2.50. Stake 1.0 Prozent = 5.50 EUR.",
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "netto_euro": -5.5,
+      "kommentar": "Gakpo selber kein Tor. In 85. fuer Brobbey ausgewechselt - Brobbey traf 85.-90. NICHT (Japan equalisierte stattdessen mit Kamada 89.). Einwechslungs-Boost greift nicht.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "t-ned-1",
+      "id": "ez-7"
+    },
+    {
+      "rang": 8,
+      "spiel_id": "2026-06-14-ned-jap",
+      "tipp_ref": "t-ned-2",
+      "markt": "Ueber 2.5 Tore NED-JAP (Gesamt)",
+      "kategorie": "value",
+      "quote": 1.85,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "begruendung": "Markt-Goldgrube Ueber 2.5 +23.4 Prozent ROI. NED 27 Tore in 8 Quali + Japan 6 offensive Test-Siege (inkl 3-2 Brasilien). NED-Defensive ohne Schouten anfaelliger. Reality-Check 1.50-2.00: 54.4 Prozent HR / +11.8 Prozent ROI (beste VALUE-Range). Quote 1.85. Stake 1.0 Prozent = 5.50 EUR.",
+      "status": "gewonnen",
+      "gewinn_faktor": 1.85,
+      "netto_euro": 4.68,
+      "kommentar": "2+2 = 4 Tore total - klar ueber 2.5. Goldgrube-Markt bestaetigt.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "t-ned-2",
+      "id": "ez-8"
+    },
+    {
+      "rang": 9,
+      "spiel_id": "2026-06-14-swe-tun",
+      "tipp_ref": "t-swe-2",
+      "markt": "Alexander Isak trifft jederzeit (Schweden)",
+      "kategorie": "value",
+      "quote": 2.5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "begruendung": "Markt-Goldgrube Torschuetzen. Isak Liverpool ~12 Pflichtspieltore, Backup-9er-Setup mit Gyokeres. Nach Knochenbruch-Reha spielbar. Backup-Stuermer-Pflicht (Doppel-9er-Setup). Quote 2.50. Stake 1.0 Prozent = 5.50 EUR.",
+      "status": "gewonnen",
+      "gewinn_faktor": 2.5,
+      "netto_euro": 8.25,
+      "kommentar": "Isak traf 29. nach Gyokeres-Assist auf Konter. Backup-9er-Pflicht-Tipp voll bestaetigt - Doppel-9er-Setup performte.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "t-swe-2",
+      "id": "ez-9"
+    },
+    {
+      "rang": 10,
+      "spiel_id": "2026-06-14-ned-jap",
+      "tipp_ref": "t-ned-3",
+      "markt": "Niederlande Sieg (1X2)",
+      "kategorie": "wackel",
+      "quote": 2.1,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 2.75,
+      "begruendung": "Klassen-Edge halbwegs aber Japan 6 Test-Siege inkl. 3-2 Brasilien + NED 3 Stamm-Verletzungen drueckt. 2:0-Insurance aktiv. Reality-Check 2.00-3.00: 41.7 Prozent HR. Quote 2.10. Stake 0.5 Prozent = 2.75 EUR Wackel.",
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "netto_euro": -2.75,
+      "kommentar": "NED 2:2 - kein Sieg, kein 2:0-Insurance (max-Fuehrung war 2:1 in 63., Kamada 89. equalisierte). 2:0-Insurance setzt 2-Tore-Vorsprung voraus - hier nie erreicht.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "t-ned-3",
+      "id": "ez-10"
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "kombi-safe-2026-06-14",
+      "status": "gewonnen",
+      "gesamtquote": 3.5,
+      "gewinn_faktor": 3.5,
+      "netto_euro": 27.5,
+      "beine_status": [
+        {
+          "bein": "Deutschland Sieg (1X2) @1.05",
+          "status": "gewonnen"
+        },
+        {
+          "bein": "Unter 2.5 Tore (Gesamt) @1.80",
+          "status": "gewonnen"
+        },
+        {
+          "bein": "Ueber 2.5 Tore (Gesamt) @1.85",
+          "status": "gewonnen"
+        }
+      ],
+      "details": "Alle 3 Beine gewonnen. Kombi @ 3.50x voll bestaetigt."
+    },
+    {
+      "kombi_id": "kombi-balance-2026-06-14",
+      "status": "verloren",
+      "gesamtquote": 9.55,
+      "gewinn_faktor": 0.0,
+      "netto_euro": -4.4,
+      "beine_status": [
+        {
+          "bein": "Florian Wirtz trifft jederzeit @2.00",
+          "status": "verloren"
+        },
+        {
+          "bein": "Cody Gakpo trifft jederzeit @2.50",
+          "status": "verloren"
+        },
+        {
+          "bein": "Schweden Sieg (1X2) @1.91",
+          "status": "gewonnen"
+        }
+      ],
+      "details": "1/3 Beine gewonnen - verlorene: Florian Wirtz trifft jederzeit @2.00; Cody Gakpo trifft jederzeit @2.50."
+    },
+    {
+      "kombi_id": "kombi-risiko-2026-06-14",
+      "status": "verloren",
+      "gesamtquote": 25.91,
+      "gewinn_faktor": 0.0,
+      "netto_euro": -1.4,
+      "beine_status": [
+        {
+          "bein": "Jamal Musiala trifft jederzeit @2.10",
+          "status": "gewonnen"
+        },
+        {
+          "bein": "Niederlande Sieg (1X2) @2.10",
+          "status": "verloren"
+        },
+        {
+          "bein": "Ecuador Sieg (1X2) @2.35",
+          "status": "verloren"
+        },
+        {
+          "bein": "Alexander Isak trifft jederzeit @2.50",
+          "status": "gewonnen"
+        }
+      ],
+      "details": "2/4 Beine gewonnen - verlorene: Niederlande Sieg (1X2) @2.10; Ecuador Sieg (1X2) @2.35."
+    },
+    {
+      "kombi_id": "kombi-moonshot-2026-06-14",
+      "status": "verloren",
+      "gesamtquote": 79.2,
+      "gewinn_faktor": 0.0,
+      "netto_euro": -0.55,
+      "beine_status": [
+        {
+          "bein": "Deutschland Ueber 4.5 Tore @2.20",
+          "status": "gewonnen"
+        },
+        {
+          "bein": "Beide Teams treffen (BTTS Ja) @2.00",
+          "status": "gewonnen"
+        },
+        {
+          "bein": "Gonzalo Plata trifft jederzeit @3.00",
+          "status": "verloren"
+        },
+        {
+          "bein": "Gyokeres Doppelpack (2+ Tore) @6.00",
+          "status": "verloren"
+        }
+      ],
+      "details": "2/4 Beine gewonnen - verlorene: Gonzalo Plata trifft jederzeit @3.00; Gyokeres Doppelpack (2+ Tore) @6.00."
+    }
+  ],
+  "ausgewertet_am": "2026-06-15T07:05:44+00:00"
+}

@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-06-14T07:10:52+00:00",
+  "letzte_berechnung": "2026-06-15T07:16:02+00:00",
   "gesamt": {
-    "tipps": 344,
-    "gewonnen": 187,
-    "verloren": 146,
+    "tipps": 354,
+    "gewonnen": 194,
+    "verloren": 149,
     "push": 2,
     "offen": 9,
-    "einsatz": 335.0,
-    "netto": 31.47,
-    "trefferquote": 56.2,
-    "roi_prozent": 9.4
+    "einsatz": 345.0,
+    "netto": 44.37,
+    "trefferquote": 56.6,
+    "roi_prozent": 12.9
   },
   "letzte_30_tage": {
-    "tipps": 119,
-    "gewonnen": 59,
-    "verloren": 49,
+    "tipps": 129,
+    "gewonnen": 66,
+    "verloren": 52,
     "push": 2,
     "offen": 9,
-    "einsatz": 110.0,
-    "netto": 10.15,
-    "trefferquote": 54.6,
-    "roi_prozent": 9.2
+    "einsatz": 120.0,
+    "netto": 23.05,
+    "trefferquote": 55.9,
+    "roi_prozent": 19.2
   },
   "letzte_90_tage": {
-    "tipps": 344,
-    "gewonnen": 187,
-    "verloren": 146,
+    "tipps": 354,
+    "gewonnen": 194,
+    "verloren": 149,
     "push": 2,
     "offen": 9,
-    "einsatz": 335.0,
-    "netto": 31.47,
-    "trefferquote": 56.2,
-    "roi_prozent": 9.4
+    "einsatz": 345.0,
+    "netto": 44.37,
+    "trefferquote": 56.6,
+    "roi_prozent": 12.9
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -595,6 +595,28 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 1.93,
       "trefferquote": 100.0,
       "roi_prozent": 193.0
+    },
+    "FIFA World Cup 2026 - Gruppe E - Spieltag 1": {
+      "tipps": 5,
+      "gewonnen": 4,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 5.0,
+      "netto": 6.15,
+      "trefferquote": 80.0,
+      "roi_prozent": 123.0
+    },
+    "FIFA World Cup 2026 - Gruppe F - Spieltag 1": {
+      "tipps": 5,
+      "gewonnen": 3,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 5.0,
+      "netto": 6.75,
+      "trefferquote": 60.0,
+      "roi_prozent": 135.0
     }
   },
   "nach_markt": {
@@ -3404,15 +3426,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -100.0
     },
     "Unter 2.5 Tore (Gesamt)": {
-      "tipps": 2,
-      "gewonnen": 1,
+      "tipps": 3,
+      "gewonnen": 2,
       "verloren": 1,
       "push": 0,
       "offen": 0,
-      "einsatz": 2.0,
-      "netto": -0.28,
-      "trefferquote": 50.0,
-      "roi_prozent": -14.0
+      "einsatz": 3.0,
+      "netto": 1.52,
+      "trefferquote": 66.7,
+      "roi_prozent": 50.7
     },
     "Kanada Sieg (90 Min)": {
       "tipps": 1,
@@ -3545,6 +3567,94 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 1.93,
       "trefferquote": 100.0,
       "roi_prozent": 193.0
+    },
+    "Ueber 2.5 Tore (Gesamt)": {
+      "tipps": 2,
+      "gewonnen": 2,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 3.05,
+      "trefferquote": 100.0,
+      "roi_prozent": 152.5
+    },
+    "Florian Wirtz trifft jederzeit (Deutschland)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Deutschland Sieg (1X2)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.05,
+      "trefferquote": 100.0,
+      "roi_prozent": 105.0
+    },
+    "Viktor Gyokeres trifft jederzeit (Schweden)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 2.4,
+      "trefferquote": 100.0,
+      "roi_prozent": 240.0
+    },
+    "Jamal Musiala trifft jederzeit (Deutschland)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 2.1,
+      "trefferquote": 100.0,
+      "roi_prozent": 210.0
+    },
+    "Cody Gakpo trifft jederzeit (Niederlande)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Alexander Isak trifft jederzeit (Schweden)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 2.5,
+      "trefferquote": 100.0,
+      "roi_prozent": 250.0
+    },
+    "Niederlande Sieg (1X2)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt_typ": {
@@ -3593,37 +3703,37 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 55.0
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 109,
-      "gewonnen": 64,
-      "verloren": 44,
+      "tipps": 111,
+      "gewonnen": 65,
+      "verloren": 45,
       "push": 0,
       "offen": 1,
-      "einsatz": 108.0,
-      "netto": 8.94,
-      "trefferquote": 59.3,
-      "roi_prozent": 8.3
+      "einsatz": 110.0,
+      "netto": 9.99,
+      "trefferquote": 59.1,
+      "roi_prozent": 9.1
     },
     "Torschuetzen Jederzeit": {
-      "tipps": 55,
-      "gewonnen": 21,
-      "verloren": 32,
+      "tipps": 60,
+      "gewonnen": 24,
+      "verloren": 34,
       "push": 2,
       "offen": 0,
-      "einsatz": 55.0,
-      "netto": 10.62,
-      "trefferquote": 39.6,
-      "roi_prozent": 19.3
+      "einsatz": 60.0,
+      "netto": 17.62,
+      "trefferquote": 41.4,
+      "roi_prozent": 29.4
     },
     "Unter 2.5 Tore": {
-      "tipps": 18,
-      "gewonnen": 12,
+      "tipps": 19,
+      "gewonnen": 13,
       "verloren": 6,
       "push": 0,
       "offen": 0,
-      "einsatz": 18.0,
-      "netto": 5.05,
-      "trefferquote": 66.7,
-      "roi_prozent": 28.1
+      "einsatz": 19.0,
+      "netto": 6.85,
+      "trefferquote": 68.4,
+      "roi_prozent": 36.1
     },
     "Doppelte Chance 1X": {
       "tipps": 22,
@@ -3648,15 +3758,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 20.3
     },
     "Ueber 2.5 Tore": {
-      "tipps": 25,
-      "gewonnen": 12,
+      "tipps": 27,
+      "gewonnen": 14,
       "verloren": 11,
       "push": 0,
       "offen": 2,
-      "einsatz": 23.0,
-      "netto": 5.38,
-      "trefferquote": 52.2,
-      "roi_prozent": 23.4
+      "einsatz": 25.0,
+      "netto": 8.43,
+      "trefferquote": 56.0,
+      "roi_prozent": 33.7
     },
     "Beide Teams treffen JA": {
       "tipps": 9,
@@ -4035,37 +4145,37 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 172,
-      "gewonnen": 87,
+      "tipps": 174,
+      "gewonnen": 89,
       "verloren": 80,
       "push": 1,
       "offen": 4,
-      "einsatz": 168.0,
-      "netto": 13.18,
-      "trefferquote": 52.1,
-      "roi_prozent": 7.8
+      "einsatz": 170.0,
+      "netto": 16.83,
+      "trefferquote": 52.7,
+      "roi_prozent": 9.9
     },
     "2.00-3.00": {
-      "tipps": 42,
-      "gewonnen": 16,
-      "verloren": 24,
+      "tipps": 48,
+      "gewonnen": 19,
+      "verloren": 27,
       "push": 1,
       "offen": 1,
-      "einsatz": 41.0,
-      "netto": 1.74,
-      "trefferquote": 40.0,
-      "roi_prozent": 4.2
+      "einsatz": 47.0,
+      "netto": 8.74,
+      "trefferquote": 41.3,
+      "roi_prozent": 18.6
     },
     "1.00-1.50": {
-      "tipps": 113,
-      "gewonnen": 78,
+      "tipps": 115,
+      "gewonnen": 80,
       "verloren": 31,
       "push": 0,
       "offen": 4,
-      "einsatz": 109.0,
-      "netto": 8.0,
-      "trefferquote": 71.6,
-      "roi_prozent": 7.3
+      "einsatz": 111.0,
+      "netto": 10.25,
+      "trefferquote": 72.1,
+      "roi_prozent": 9.2
     },
     "3.00+": {
       "tipps": 17,
@@ -4081,37 +4191,37 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_kategorie": {
     "safe": {
-      "tipps": 74,
-      "gewonnen": 50,
-      "verloren": 24,
+      "tipps": 77,
+      "gewonnen": 52,
+      "verloren": 25,
       "push": 0,
       "offen": 0,
-      "einsatz": 74.0,
-      "netto": 0.98,
-      "trefferquote": 67.6,
-      "roi_prozent": 1.3
+      "einsatz": 77.0,
+      "netto": 3.23,
+      "trefferquote": 67.5,
+      "roi_prozent": 4.2
     },
     "value": {
-      "tipps": 206,
-      "gewonnen": 108,
-      "verloren": 87,
+      "tipps": 212,
+      "gewonnen": 113,
+      "verloren": 88,
       "push": 2,
       "offen": 9,
-      "einsatz": 197.0,
-      "netto": 22.43,
-      "trefferquote": 55.4,
-      "roi_prozent": 11.4
+      "einsatz": 203.0,
+      "netto": 33.08,
+      "trefferquote": 56.2,
+      "roi_prozent": 16.3
     },
     "wackel": {
-      "tipps": 64,
+      "tipps": 65,
       "gewonnen": 29,
-      "verloren": 35,
+      "verloren": 36,
       "push": 0,
       "offen": 0,
-      "einsatz": 64.0,
+      "einsatz": 65.0,
       "netto": 8.06,
-      "trefferquote": 45.3,
-      "roi_prozent": 12.6
+      "trefferquote": 44.6,
+      "roi_prozent": 12.4
     }
   },
   "clv_gesamt": {
@@ -4153,6 +4263,260 @@ window.__MIESMUSCHEL_STAT = {
     }
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-06-14",
+      "gesamt": {
+        "tipps": 10,
+        "gewonnen": 7,
+        "verloren": 3,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 10.0,
+        "netto": 12.9,
+        "trefferquote": 70.0,
+        "roi_prozent": 129.0
+      },
+      "spiele": [
+        {
+          "id": "2026-06-14-ger-cur",
+          "liga": "FIFA World Cup 2026 - Gruppe E - Spieltag 1",
+          "heim": "Deutschland",
+          "gast": "Curacao",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Deutschland Sieg (1X2)",
+              "quote": 1.05,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.05,
+              "kommentar": "Deutschland 7:1 - klarer Klassen-Edge realisiert, 2:0-Insurance gar nicht noetig (HZ 3:1)."
+            },
+            {
+              "markt": "Florian Wirtz trifft jederzeit (Deutschland)",
+              "quote": 2.0,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Wirtz selber kein Tor (Assist Brown 68.). Wirtz in 72. fuer Goretzka ausgewechselt - Goretzka traf 72.-90. NICHT. Einwechslungs-Boost greift nicht. Lesson: Form-Stuermer mit 7 Quali-Toren liefert auch bei 7:1-Tor-Festival nicht zwingend selber."
+            },
+            {
+              "markt": "Ueber 2.5 Tore (Gesamt)",
+              "quote": 1.2,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.2,
+              "kommentar": "DE 7 Tore + CUR 1 Tor = 8 Tore - klar ueber 2.5. Markt-Goldgrube Ueber 2.5 voll bestaetigt."
+            },
+            {
+              "markt": "Jamal Musiala trifft jederzeit (Deutschland)",
+              "quote": 2.1,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 2.1,
+              "kommentar": "Musiala traf 47. (zweite Halbzeit-Eroeffnungs-Tor). Markt-Goldgrube Torschuetzen Jederzeit voll bestaetigt."
+            }
+          ]
+        },
+        {
+          "id": "2026-06-14-ned-jap",
+          "liga": "FIFA World Cup 2026 - Gruppe F - Spieltag 1",
+          "heim": "Niederlande",
+          "gast": "Japan",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Cody Gakpo trifft jederzeit (Niederlande)",
+              "quote": 2.5,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Gakpo selber kein Tor. In 85. fuer Brobbey ausgewechselt - Brobbey traf 85.-90. NICHT (Japan equalisierte stattdessen mit Kamada 89.). Einwechslungs-Boost greift nicht."
+            },
+            {
+              "markt": "Ueber 2.5 Tore (Gesamt)",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.85,
+              "kommentar": "2+2 = 4 Tore total - klar ueber 2.5. Goldgrube-Markt bestaetigt."
+            },
+            {
+              "markt": "Niederlande Sieg (1X2)",
+              "quote": 2.1,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "NED 2:2 - kein Sieg, kein 2:0-Insurance (max-Fuehrung war 2:1 in 63., Kamada 89. equalisierte). 2:0-Insurance setzt 2-Tore-Vorsprung voraus - hier nie erreicht."
+            }
+          ]
+        },
+        {
+          "id": "2026-06-14-civ-ecu",
+          "liga": "FIFA World Cup 2026 - Gruppe E - Spieltag 1",
+          "heim": "Elfenbeinkueste",
+          "gast": "Ecuador",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Unter 2.5 Tore (Gesamt)",
+              "quote": 1.8,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.8,
+              "kommentar": "Nur 1 Tor (Amad Diallo 90.) - klar unter 2.5. Goldgrube-Markt (+28.1 ROI) voll bestaetigt - Unter-Pattern WM-Auftakt-Spiel 2 Tage in Folge."
+            }
+          ]
+        },
+        {
+          "id": "2026-06-14-swe-tun",
+          "liga": "FIFA World Cup 2026 - Gruppe F - Spieltag 1",
+          "heim": "Schweden",
+          "gast": "Tunesien",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Viktor Gyokeres trifft jederzeit (Schweden)",
+              "quote": 2.4,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 2.4,
+              "kommentar": "Gyokeres traf 59. (Skhiri-Fehler ausgenutzt). Goldgrube-Markt + Form-Edge voll bestaetigt - 6. Tor in 4 NT-Spielen."
+            },
+            {
+              "markt": "Alexander Isak trifft jederzeit (Schweden)",
+              "quote": 2.5,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 2.5,
+              "kommentar": "Isak traf 29. nach Gyokeres-Assist auf Konter. Backup-9er-Pflicht-Tipp voll bestaetigt - Doppel-9er-Setup performte."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi 3.50x",
+          "kategorie": "safe",
+          "gesamtquote": 3.5,
+          "einsatz_prozent": 2.0,
+          "status": "gewonnen",
+          "beine": [
+            {
+              "markt": "Deutschland Sieg (1X2)",
+              "quote": 1.05,
+              "status": "gewonnen",
+              "kommentar": "Deutschland 7:1 - klarer Klassen-Edge realisiert, 2:0-Insurance gar nicht noetig (HZ 3:1)."
+            },
+            {
+              "markt": "Unter 2.5 Tore (Gesamt)",
+              "quote": 1.8,
+              "status": "gewonnen",
+              "kommentar": "Nur 1 Tor (Amad Diallo 90.) - klar unter 2.5. Goldgrube-Markt (+28.1 ROI) voll bestaetigt - Unter-Pattern WM-Auftakt-Spiel 2 Tage in Folge."
+            },
+            {
+              "markt": "Ueber 2.5 Tore (Gesamt)",
+              "quote": 1.85,
+              "status": "gewonnen",
+              "kommentar": "2+2 = 4 Tore total - klar ueber 2.5. Goldgrube-Markt bestaetigt."
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi 9.55x",
+          "kategorie": "balance",
+          "gesamtquote": 9.55,
+          "einsatz_prozent": 0.8,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Florian Wirtz trifft jederzeit",
+              "quote": 2.0,
+              "status": "verloren",
+              "kommentar": "Wirtz selber kein Tor (Assist Brown 68.). Wirtz in 72. fuer Goretzka ausgewechselt - Goretzka traf 72.-90. NICHT. Einwechslungs-Boost greift nicht. Lesson: Form-Stuermer mit 7 Quali-Toren liefert auch bei 7:1-Tor-Festival nicht zwingend selber."
+            },
+            {
+              "markt": "Cody Gakpo trifft jederzeit",
+              "quote": 2.5,
+              "status": "verloren",
+              "kommentar": "Gakpo selber kein Tor. In 85. fuer Brobbey ausgewechselt - Brobbey traf 85.-90. NICHT (Japan equalisierte stattdessen mit Kamada 89.). Einwechslungs-Boost greift nicht."
+            },
+            {
+              "markt": "Schweden Sieg (1X2)",
+              "quote": 1.91,
+              "status": "gewonnen",
+              "kommentar": "Schweden 5:1 dominanter Sieg, 2:0-Insurance ab 29. (Isak-Tor) gegeben aber gar nicht noetig."
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi 25.91x",
+          "kategorie": "risk",
+          "gesamtquote": 25.91,
+          "einsatz_prozent": 0.25,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Jamal Musiala trifft jederzeit",
+              "quote": 2.1,
+              "status": "gewonnen",
+              "kommentar": "Musiala traf 47. (zweite Halbzeit-Eroeffnungs-Tor). Markt-Goldgrube Torschuetzen Jederzeit voll bestaetigt."
+            },
+            {
+              "markt": "Niederlande Sieg (1X2)",
+              "quote": 2.1,
+              "status": "verloren",
+              "kommentar": "NED 2:2 - kein Sieg, kein 2:0-Insurance (max-Fuehrung war 2:1 in 63., Kamada 89. equalisierte). 2:0-Insurance setzt 2-Tore-Vorsprung voraus - hier nie erreicht."
+            },
+            {
+              "markt": "Ecuador Sieg (1X2)",
+              "quote": 2.35,
+              "status": "verloren",
+              "kommentar": "Ecuador 0:1 - Buchmacher-Favorit-Crash durch CIV-Joker Amad Diallo 90. Coinflip-Wackel-Tipp ohne Edge."
+            },
+            {
+              "markt": "Alexander Isak trifft jederzeit",
+              "quote": 2.5,
+              "status": "gewonnen",
+              "kommentar": "Isak traf 29. nach Gyokeres-Assist auf Konter. Backup-9er-Pflicht-Tipp voll bestaetigt - Doppel-9er-Setup performte."
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi 79.20x",
+          "kategorie": "moonshot",
+          "gesamtquote": 79.2,
+          "einsatz_prozent": 0.1,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Deutschland Ueber 4.5 Tore",
+              "quote": 2.2,
+              "status": "gewonnen",
+              "kommentar": "Deutschland 7 Tore - klar ueber 4.5. Moonshot voll eingeschlagen."
+            },
+            {
+              "markt": "Beide Teams treffen (BTTS Ja)",
+              "quote": 2.0,
+              "status": "gewonnen",
+              "kommentar": "Beide Teams trafen 2x - BTTS Ja klar erfuellt."
+            },
+            {
+              "markt": "Gonzalo Plata trifft jederzeit",
+              "quote": 3.0,
+              "status": "verloren",
+              "kommentar": "Plata kein Tor (Ecuador insgesamt 0 Tore). Moonshot verfehlt."
+            },
+            {
+              "markt": "Gyokeres Doppelpack (2+ Tore)",
+              "quote": 6.0,
+              "status": "verloren",
+              "kommentar": "Gyokeres nur 1 Tor (59.) - kein Doppelpack. Einwechslungs-Boost-Hedge greift nicht (Gyokeres spielte durch). Moonshot verfehlt."
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-06-13",
       "gesamt": {
