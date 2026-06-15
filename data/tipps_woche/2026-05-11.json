@@ -245,7 +245,7 @@
       "_recherche_fehlt": true
     },
     {
-      "id": "2026-05-16-sev-rma",
+      "id": "2026-05-17-sev-rma",
       "liga": "LaLiga",
       "heim": "Sevilla FC",
       "gast": "Real Madrid",
@@ -370,7 +370,7 @@
     },
     {
       "id": "wo-top-3",
-      "spiel_id": "2026-05-16-sev-rma",
+      "spiel_id": "2026-05-17-sev-rma",
       "kategorie": "value",
       "markt": "Vinicius Junior trifft (Sevilla - Real Madrid, LaLiga J37)",
       "quote": 1.85,
@@ -447,7 +447,7 @@
     },
     {
       "id": "wo-top-10",
-      "spiel_id": "2026-05-16-sev-rma",
+      "spiel_id": "2026-05-17-sev-rma",
       "kategorie": "value",
       "markt": "Unentschieden oder Real Madrid (Sevilla - Real, LaLiga J37)",
       "quote": 1.2,
@@ -488,7 +488,7 @@
           "quote": 1.65
         },
         {
-          "spiel_id": "2026-05-16-sev-rma",
+          "spiel_id": "2026-05-17-sev-rma",
           "markt": "Doppelte Chance X2",
           "quote": 1.2
         },
@@ -521,7 +521,7 @@
           "quote": 2.2
         },
         {
-          "spiel_id": "2026-05-16-sev-rma",
+          "spiel_id": "2026-05-17-sev-rma",
           "markt": "Torschuetzen Jederzeit",
           "quote": 1.85
         },
@@ -582,7 +582,7 @@
           "quote": 8.0
         },
         {
-          "spiel_id": "2026-05-16-sev-rma",
+          "spiel_id": "2026-05-17-sev-rma",
           "markt": "Torschuetzen Doppelpack",
           "quote": 6.0
         },
