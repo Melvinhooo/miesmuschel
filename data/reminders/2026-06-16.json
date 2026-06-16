@@ -1,11 +1,17 @@
 {
-  "stand": "2026-06-16T17:34:50.596369+00:00",
+  "stand": "2026-06-16T21:23:33.090630+00:00",
   "gesendet": {
     "2026-06-16-fra-sen": {
       "sent_at": "2026-06-16T17:34:48.734969+00:00",
       "anstoss": "2026-06-16T21:00:00+02:00",
       "spiel": "Frankreich vs Senegal",
       "top_tipp": "Kylian Mbappe trifft jederzeit (Frankreich)"
+    },
+    "2026-06-16-irq-nor": {
+      "sent_at": "2026-06-16T21:23:31.498981+00:00",
+      "anstoss": "2026-06-17T00:00:00+02:00",
+      "spiel": "Irak vs Norwegen",
+      "top_tipp": "Erling Haaland trifft jederzeit (Norwegen)"
     }
   }
 }
