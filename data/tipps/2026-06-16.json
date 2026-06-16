@@ -1,7 +1,8 @@
 {
   "datum": "2026-06-16",
   "erstellt_am": "2026-06-16T17:15:00+02:00",
-  "hinweis": "WATCHDOG-RECOVERY 17:15 Berlin (Hauptroutine 16:00 ausgefallen, File fehlte). WM 2026 Spieltag 1 Dienstag 16.06. - 3 Spiele in Window 17:15 Berlin (France-Senegal 21:00 MetLife) bis 06:00 Mi 17.06.: France-Senegal (Gruppe I, 21:00 East Rutherford), Iraq-Norway (Gruppe I, 00:00 Foxborough Gillette), Argentina-Algeria (Gruppe J, 03:00 Kansas City). NBA Finals BEENDET: Knicks 4-1 Serie geschlossen 14.06. mit 94:90 G5-Win (Brunson 45 Pkt) - kein Decider mehr. Klub-Saison ueberall Pause, alle Spieler 3+ Wochen Erholung. 2:0-Insurance + Einwechslungs-Boost (CLAUDE.md WM-Sonderregeln) bei jedem Sieg-Tipp aktiv. Lessons 14.-16.06 KRITISCH: (a) WM-Spieltag-1-Klassen-Edge-Sieg-Massenversagen 0/4 Tage 14.06., Draw-Cluster 4/4 Tage 16.06. - DIREKTE SIEG-TIPPS auf hohe Favoriten max WACKEL nicht SAFE; (b) 2:0-Insurance-Half-Trigger-Fail 2 Tage in Folge - Insurance rettet nicht mehr; (c) Form-Edge-10er-vs-9er-Falle (Wirtz tor leer trotz 7:1) - Torschuetzen-Tipp auf Top-Spieler bleibt PFLICHT bei Heim-Favorit aber als VALUE/WACKEL nicht SAFE; (d) Last-Gasp-Equalizer-Cluster (Iran-NZ gestern 2-2 trotz Iran-Fuehrung). 9 Einzeltipps + 4 Kombis (Safe ~3.2x / Balance ~7-8x / Risiko ~22-26x / Moonshot ~110x). Markt-Goldgruben aktiv (Torschuetzen Jederzeit +21.3%, DC X2 +19.8%, Unter 2.5 +29.2%, Ueber 2.5 +28.6%, DC 1X 80% HR). Markt-Bluter (Spread/Handicap) NICHT als SAFE. Beobachtungs-Ligen aktuell: NBA Finals G3 (-100% n=5) + WM Gruppe B Spieltag 1 (-57% n=4) - heute Gruppe I + J keine Beobachtung, aber Vorsicht durch Massenausfall-Lesson. Kasse 550 EUR Stufe 1 Aufbau-Phase - Einsaetze konservativ (1-2% safe/value, 0.5% wackel, 0.25% risiko, 0.1% moonshot). Pre-Match-Aufstellung 1h vor Anstoss bei bet365 nochmal verifizieren.",
+  "_emergency_recovery": true,
+  "hinweis": "WATCHDOG-RECOVERY 17:15 Berlin (Hauptroutine 16:00 ausgefallen, File fehlte). WM 2026 Spieltag 1 Dienstag 16.06. - 3 Spiele in Window 17:15 Berlin (France-Senegal 21:00 MetLife) bis 06:00 Mi 17.06.: France-Senegal (Gruppe I, 21:00 East Rutherford), Iraq-Norway (Gruppe I, 00:00 Foxborough Gillette), Argentina-Algeria (Gruppe J, 03:00 Kansas City). NBA Finals BEENDET: Knicks 4-1 Serie geschlossen 14.06. mit 94:90 G5-Win (Brunson 45 Pkt) - kein Decider mehr. Klub-Saison ueberall Pause, alle Spieler 3+ Wochen Erholung. 2:0-Insurance + Einwechslungs-Boost (CLAUDE.md WM-Sonderregeln) bei jedem Sieg-Tipp aktiv. Lessons 14.-16.06 KRITISCH: (a) WM-Spieltag-1-Klassen-Edge-Sieg-Massenversagen 0/4 Tage 14.06., Draw-Cluster 4/4 Tage 16.06. - DIREKTE SIEG-TIPPS auf hohe Favoriten max WACKEL nicht SAFE; (b) 2:0-Insurance-Half-Trigger-Fail 2 Tage in Folge - Insurance rettet nicht mehr; (c) Form-Edge-10er-vs-9er-Falle (Wirtz tor leer trotz 7:1) - Torschuetzen-Tipp auf Top-Spieler bleibt PFLICHT bei Heim-Favorit aber als VALUE/WACKEL nicht SAFE; (d) Last-Gasp-Equalizer-Cluster (Iran-NZ gestern 2-2 trotz Iran-Fuehrung). 9 Einzeltipps + 4 Kombis (Safe 2.49x / Balance 5.66x / Risiko 13.16x / Moonshot 67.38x — alle unter Hartregel-Range, Mini-Spiele-Tag-Cap: nur 3 WM-Spiele verfuegbar, Layer-1 begrenzt Beine auf 3, siehe lessons_angewandt). Markt-Goldgruben aktiv (Torschuetzen Jederzeit +21.3%, DC X2 +19.8%, Unter 2.5 +29.2%, Ueber 2.5 +28.6%, DC 1X 80% HR). Markt-Bluter (Spread/Handicap) NICHT als SAFE. Beobachtungs-Ligen aktuell: NBA Finals G3 (-100% n=5) + WM Gruppe B Spieltag 1 (-57% n=4) - heute Gruppe I + J keine Beobachtung, aber Vorsicht durch Massenausfall-Lesson. Kasse 550 EUR Stufe 1 Aufbau-Phase - Einsaetze konservativ (1-2% safe/value, 0.5% wackel, 0.25% risiko, 0.1% moonshot). Pre-Match-Aufstellung 1h vor Anstoss bei bet365 nochmal verifizieren.",
   "spiele": [
     {
       "id": "2026-06-16-fra-sen",
@@ -599,5 +600,33 @@
       ]
     }
   ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-06-16T17:45:00+02:00",
+    "modus": "post-watchdog-recovery (recherche-File 2026-06-16 fehlte, Squad-Abgleich nicht moeglich, Spieler-Halluzinations-Check nur via news[]-Aufstellungen statt squad_heim/gast)",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "kombi_quote_unter_hartregel_range",
+        "details": "Safe 2.49x (Soll 3-5x), Balance 5.66x (Soll 6-10x), Risiko 13.16x (Soll 15-30x), Moonshot 67.38x (Soll 100x+). Ursache: Mini-Spiele-Tag mit nur 3 WM-Spielen, Layer-1 begrenzt auf 3 Beine. In lessons_angewandt 'Mini-Spiele-Tag-Konzentrations-Strategie' bewusst dokumentiert - akzeptierte Abweichung."
+      },
+      {
+        "art": "torschuetzen_quelle_warn_aktiv",
+        "details": "Tipps t-fra-3 (Mbappe), t-fra-4 (Dembele), t-irn-3 (Haaland), t-irn-4 (Sorloth), t-arg-3 (Messi), t-arg-4 (Lautaro Martinez) tragen _torschuetze_quelle_warn:true. Vereins-Quelle (transfermarkt/kicker/espn) in quellen[] fehlt - im Watchdog-Recovery-Modus erwartet, max wackel-Cap bereits angewandt."
+      },
+      {
+        "art": "recherche_file_fehlt",
+        "details": "data/recherche/2026-06-16.json existiert nicht (Hauptroutine 16:00 ausgefallen). Squad-Halluzinations-Cross-Check basiert ausschliesslich auf news[]-Aufstellungen im Tipps-File. Spielername-Position-Cross-Check vs squad_heim/squad_gast war nicht moeglich."
+      }
+    ],
+    "layer_1_check": "OK - kein Spiel in einer Kombi doppelt mit zwei Beinen.",
+    "layer_2_check": "OK - alle 3 Sieg-Outcomes (Norway/France/Argentina 1X2) konzentriert in Safe-Kombi, kein Sieg-Outcome doppelt in Balance/Risiko/Moonshot.",
+    "layer_3_check": "WEICH - 3 von 3 Spielen erscheinen in allen 4 Kombis (unvermeidlich bei Mini-Spiele-Tag mit nur 3 Spielen). Markt-Diversifikation (Sieg/Anytime/2+) entkoppelt.",
+    "gesamtquote_rechnung_check": "Alle 4 Kombi-Quoten mathematisch korrekt (Safe 1.22*1.44*1.42=2.495, Balance 1.43*1.80*2.20=5.663, Risiko 2.30*2.20*2.60=13.156, Moonshot 3.50*3.50*5.50=67.375).",
+    "selbstwiderspruchs_scan": "OK nach hinweis-Korrektur (Soll-Quoten in hinweis auf actual-Quoten angeglichen). NBA-Finals-Beendet-Statement konsistent mit Knicks 4-1 Serien-Ende 14.06. Kein Spieler-OUT-vs-IN-Widerspruch in news[]/Tipps. Mbappe-Thigh-Issue korrekt als VALUE/WACKEL eingeordnet (kein SAFE).",
+    "saison_kontext_quellen_check": "OK - jedes Spiel hat quellen[] mit fifa.com-Verband-URL + transfermarkt + ESPN + bet365-news + spezifische Match-Preview-URLs (5+ pro Spiel).",
+    "lessons_generiert": [],
+    "erfolgs_kriterium": "ERFUELLT (post-watchdog, ohne squad-Cross-Check). 0 Drops, 0 Downgrades, 3 Warns (kombi-Range-Documentation, Torschuetzen-Quelle-Warn-active, Recherche-File-Fehlt-Hinweis). PWA-Ampel: GELB (Warns vorhanden, kein kritischer Drop)."
+  },
   "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
 }
