@@ -1,5 +1,5 @@
 {
-  "stand": "2026-06-16T21:23:33.090630+00:00",
+  "stand": "2026-06-17T00:01:13.789749+00:00",
   "gesendet": {
     "2026-06-16-fra-sen": {
       "sent_at": "2026-06-16T17:34:48.734969+00:00",
@@ -12,6 +12,12 @@
       "anstoss": "2026-06-17T00:00:00+02:00",
       "spiel": "Irak vs Norwegen",
       "top_tipp": "Erling Haaland trifft jederzeit (Norwegen)"
+    },
+    "2026-06-16-arg-alg": {
+      "sent_at": "2026-06-17T00:01:12.056846+00:00",
+      "anstoss": "2026-06-17T03:00:00+02:00",
+      "spiel": "Argentinien vs Algerien",
+      "top_tipp": "Lautaro Martinez trifft jederzeit (Argentinien)"
     }
   }
 }
