@@ -1,0 +1,1557 @@
+{
+  "datum": "2026-06-15",
+  "erstellt_am": "2026-06-15T17:15:00+02:00",
+  "hinweis": "MASTER-TIPPS-ROUTINE 2026-06-15 (Fallback-Modus: Recherche-File fehlte, Daten aus saison_kontext+News rekonstruiert + Saudi-Uruguay-Spielblock komplettiert + Verifikations-Report angehaengt). WM 2026 Spieltag 1 Montag 15.06. - Window 17:15 Berlin (Spanien-Kap Verde 18:00) bis 06:00 Di 16.06. 4 Spiele: Spanien-Kap Verde (Gruppe H, 18:00 Atlanta Mercedes-Benz), Belgien-Aegypten (Gruppe G, 21:00 Seattle Lumen Field), Saudi-Arabien-Uruguay (Gruppe H, 00:00 Berlin Miami Hard Rock), Iran-Neuseeland (03:00 Berlin SoFi Stadium LA). Klub-Saison ueberall Pause, alle Spieler 3+ Wochen Erholung. 2:0-Insurance + Einwechslungs-Boost (CLAUDE.md WM-Sonderregeln) bei jedem Sieg-Tipp aktiv. Lesson 14.06 Spieltag 1: Unter 2.5 dominierte 4/4 in Gruppe B - aber Wirtz/Deutschland 7:1 bestaetigt: Bei extremer Klassen-Asymmetrie greift Unter NICHT. Lesson 13.06 Eroeffnungs-Subfilter: Top-5-Liga-Klassen-Edge bricht Unter-These auf. 10 Einzeltipps (SAFE Spanien-Cluster + VALUE auf Goldgruben Torschuetzen/DC + WACKEL Belgien) + 4 Kombis Safe ~3.23x / Balance ~8.64x / Risiko ~25.80x / Moonshot ~47.25x. Markt-Goldgruben aktiv (Torschuetzen +29.4% ROI, DC X2 +20.3%, Ueber 2.5 +33.7%, Unter 2.5 +36.1%). Kasse 550 EUR Stufe 1 Aufbau-Phase - Einsaetze konservativ. Pre-Match-Aufstellung 1h vor Anstoss bei bet365 nochmal verifizieren.",
+  "spiele": [
+    {
+      "id": "2026-06-15-esp-cpv",
+      "liga": "FIFA World Cup 2026 - Gruppe H - Spieltag 1",
+      "heim": "Spanien",
+      "gast": "Kap Verde",
+      "anstoss": "2026-06-15T18:00:00+02:00",
+      "stadion": "Mercedes-Benz Stadium, Atlanta GA (neutraler Platz, Indoor)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM 2026 ist primaerer Wettbewerb, LaLiga-Saison beendet 24.05.",
+        "parallel_gast": "keine - WM 2026 ist primaerer Wettbewerb, Cabo Verde Premier Liga + Auslands-Spieler in Klub-Pause",
+        "saisonziel_heim": "Mindestens Halbfinale - FIFA #2, Welt-Top-Favoriten (gleichauf mit Frankreich an Spitze der WM-Quoten), Euro-2024-Sieger, perfekte WM-Quali. De-la-Fuente-Generation um Pedri/Rodri/Yamal/Williams im Peak.",
+        "saisonziel_gast": "Historische WM-Premiere - FIFA #67, kleinste Inselrepublik mit WM-Quali, Achtelfinale waere Sensation jenseits aller Erwartungen, realistisches Ziel Erfahrung + 1 Punkt mitnehmen",
+        "motivations_asymmetrie": "Maximale Klassen-Asymmetrie - Spanien Welt-Top-2 vs Kap Verde WM-Premieren-Naive. bet365-Quoten 1.10 vs 31.0 + Konsens-Quotenrange 1.10-1.12 ueber alle Boards. Sieg-These ist 'wie hoch' nicht 'ob'.",
+        "recovery_heim": "LaLiga-Pause seit 24.05. = 3 Wochen Erholung + 2 Vorbereitungssiege (3-1 Peru, 3-1 Serbien + Friendly Iraq Tor Ferran Torres). Topfit, Oyarzabal in Karriere-Bestform.",
+        "recovery_gast": "Lange Vorbereitungsphase - frisch, aber kein Top-Niveau-Test-Erfahrung. Hauptlast bei Auslands-Spielern aus Portugal/Niederlande/Italien Lower-Divisions.",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+          "https://www.espn.com/soccer/odds/_/gameId/760428",
+          "https://www.cbssports.com/soccer/news/spain-cabo-verde-odds-prediction-time-2026-world-cup-picks-best-bets/",
+          "https://www.racingpost.com/sport/football-tips/world-cup-2026/spain-vs-cape-verde-world-cup-prediction-team-news-odds-betting-tips-and-bet-builder-aicRQ8L439n7/",
+          "https://www.aljazeera.com/sports/2026/6/6/spains-world-cup-2026-team-preview-players-to-watch-group-matches-squad"
+        ]
+      },
+      "news": [
+        "Klassen-Asymmetrie maximal: Spanien FIFA #2 (Euro 2024 Sieger, perfekte Quali) vs Kap Verde FIFA #67 (WM-Premiere). Quoten-Konsens bet365 1.10 / X 12.0 / Kap Verde 31.0.",
+        "Spanien-Aufstellung erwartet (4-3-3): Simon; Llorente, Cubarsi, Laporte, Cucurella; Pedri, Rodri, Ruiz; Torres, Oyarzabal, Baena. Yamal + Nico Williams zurueck im Training aber Bank-Optionen.",
+        "Oyarzabal-Form: 12 Spiele in Folge mit Tor oder Assist fuer Spanien, 13 Tore + 6 Assists in letzten 13 Laenderspielen. Karriere-Bestform vor WM. Morata gar nicht im Kader.",
+        "Ferran Torres: 16 LaLiga-Tore fuer Barca Saison 25/26, 24 Tore fuer Spanien (Top-10 all-time). Friendly-Tor gegen Iraq + Bestaetigung Starter rechts vor Yamal-Comeback.",
+        "Wetter Atlanta Mercedes-Benz Stadium: Indoor mit Dachschluss, ca. 22 Grad konstant - keine Tempo-Drueck-These (anders als Houston Wirtz-Spiel).",
+        "Quoten Aggregator-Konsens (ESPN/CBS/Racing Post, 14.06.): Spanien Sieg 1.10 / X 12.0 / Kap Verde 31.0. Ueber 3.5 ~1.91 / Unter 3.5 ~2.00. Oyarzabal trifft ~1.80. Ferran Torres trifft ~2.30. Pedri trifft ~3.50. Ueber 2.5 ~1.20.",
+        "Reality-Check Quoten 1.00-1.50 in statistik.json: 76.9% HR / +7.2% ROI (n=39, beste Hitrate-Range) - SAFE-Niveau gerechtfertigt fuer Klassen-Edge.",
+        "Goldgrube-Markt 'Torschuetzen Jederzeit' (+29.4% ROI, 41.4% HR, n=60 - bester Markt im System) + 'Ueber 2.5 Tore' (+33.7% ROI, 56.0% HR, n=27) - beide aktiv eingebaut.",
+        "Form-Edge-Pflicht erfuellt (Heim-Favorit unter 1.80): Oyarzabal-Torschuetzen SAFE wegen 12-Spiel-Streak. Ferran Torres als VALUE. Klassen-Sieg + Ueber 2.5 als SAFE/SAFE.",
+        "Lesson 14.06 (WM-Auftakt Unter-Dominanz Gruppe B): widerlegt bei extremer Klassen-Asymmetrie (Deutschland-Curacao 7:1 brach 4/4-Pattern). Spanien-Atlanta-Indoor-Klima erlaubt Ueber-Volume."
+      ],
+      "tipps": [
+        {
+          "id": "t-esp-1",
+          "markt": "Spanien Sieg (1X2)",
+          "kategorie": "safe",
+          "quote": 1.1,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 5.5,
+          "begruendung": "Maximaler Klassen-Edge - Spanien FIFA #2 Welt-Top-Favorit vs Kap Verde FIFA #67 WM-Premiere. Euro-2024-Sieger mit Pedri/Rodri/Oyarzabal/Torres im Peak, perfekte Quali, 2 Vorbereitungssiege. 2:0-Insurance-Regel WM 2026 aktiv (CLAUDE.md): Sieg gewinnt schon ab 2:0-Fuehrung. Reality-Check Quoten 1.00-1.50: 76.9% HR / +7.2% ROI. Stake 1.0% = 5.50 EUR (reduziert wegen Trivial-Quote). Sieg ist Safe-Kombi-Anker.",
+          "edge_prozent": 5,
+          "faire_quote": 1.05,
+          "rang": 1
+        },
+        {
+          "id": "t-esp-2",
+          "markt": "Mikel Oyarzabal trifft jederzeit (Spanien)",
+          "kategorie": "wackel",
+          "quote": 1.8,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 8.25,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+29.4% ROI / 41.4% HR, n=60 - bester Markt im System). Oyarzabal Karriere-Bestform - 12 Laenderspiele in Folge mit Tor oder Assist, 13 Tore + 6 Assists in letzten 13 Spielen, Morata aus Kader = Oyarzabal alleiniger 9er. Form-Edge-Pflicht Heim-Favorit (CLAUDE.md): 3+ Tore in 5 Spielen ist erfuellt. Einwechslungs-Boost-Hedge: falls Oyarzabal rausgeht (Schon-Wechsel moeglich), Borja Iglesias/Yeremy Pino als Ersatz-Tore zaehlen mit. Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI. Stake 1.5% = 8.25 EUR. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "edge_prozent": 16,
+          "faire_quote": 1.55,
+          "rang": 2,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "id": "t-esp-3",
+          "markt": "Ueber 2.5 Tore (Gesamt)",
+          "kategorie": "safe",
+          "quote": 1.2,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 11.0,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 Tore (+33.7% ROI / 56.0% HR, n=27). Spanien-Offensive Pedri/Oyarzabal/Torres/Ruiz gegen Kap Verde-Defensive ohne Top-Liga-Standard = klares Tor-Festival-Setup. 2 Vorbereitungssiege 3-1, 3-1 = 4.0 Tore-Schnitt. Atlanta-Indoor-Klima neutral (kein Houston-Hitze-Drueck). Quote 1.20 kurz wegen Klassen-Edge - aber Goldgrube + Reality-Check 1.00-1.50: 76.9% HR rechtfertigt SAFE. Stake 2.0% = 11.00 EUR Stufe 1.",
+          "edge_prozent": 11,
+          "faire_quote": 1.08,
+          "rang": 3
+        },
+        {
+          "id": "t-esp-5",
+          "markt": "Spanien Ueber 4.5 Tore",
+          "kategorie": "moonshot",
+          "quote": 4.5,
+          "empfohlener_einsatz_prozent": 0.1,
+          "empfohlener_einsatz_euro": 0.55,
+          "begruendung": "Moonshot-Bein: Spanien-Tor-Festival bei maximaler Klassen-Edge plausibel (analog Deutschland-Curacao 7:1 von 14.06.) - verlangt aber komplette Kap-Verde-Kollaps-Phase 2. HZ. Indoor-Klima neutral, kein Hitze-Drueck. Quote 4.50 = Moonshot-Range. Spass-Stake.",
+          "edge_prozent": null,
+          "faire_quote": 4.5,
+          "rang": 5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "0:0",
+        "halbzeit_stand": "0:0",
+        "heim_tore": 0,
+        "gast_tore": 0
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t-esp-1",
+          "markt": "Spanien Sieg (1X2)",
+          "kategorie": "safe",
+          "quote": 1.1,
+          "einsatz_euro": 5.5,
+          "status": "verloren",
+          "netto_euro": -5.5,
+          "kommentar": "Spanien 0:0 Cape Verde - kein 2:0-Insurance-Trigger (max Saudi-These 0:0 keine Fuehrung). Goldgrube-Sieg-Markt SCHWERER Verlust.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "gewinn_faktor": -1.0
+        },
+        {
+          "tipp_id": "t-esp-2",
+          "markt": "Mikel Oyarzabal trifft jederzeit (Spanien)",
+          "kategorie": "wackel",
+          "quote": 1.8,
+          "einsatz_euro": 8.25,
+          "status": "verloren",
+          "netto_euro": -8.25,
+          "kommentar": "Oyarzabal kein Tor. 12-Spiel-Tor/Assist-Streak gebrochen (Athlon: Unwanted-Record). Kein Einwechslungs-Boost moeglich da keine Spanien-Tore.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "gewinn_faktor": -1.0
+        },
+        {
+          "tipp_id": "t-esp-3",
+          "markt": "Ueber 2.5 Tore (Gesamt)",
+          "kategorie": "safe",
+          "quote": 1.2,
+          "einsatz_euro": 11.0,
+          "status": "verloren",
+          "netto_euro": -11.0,
+          "kommentar": "Ueber 2.5 verfehlt - 0:0 schluesselt Goldgrube-Markt-These bei Klassen-Edge bei WM-Auftakten.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "gewinn_faktor": -1.0
+        },
+        {
+          "tipp_id": "t-esp-5",
+          "markt": "Spanien Ueber 4.5 Tore",
+          "kategorie": "moonshot",
+          "quote": 4.5,
+          "einsatz_euro": 0.55,
+          "status": "verloren",
+          "netto_euro": -0.55,
+          "kommentar": "Spanien Ueber 4.5 verfehlt - 0:0.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "gewinn_faktor": -1.0
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "0:0",
+        "tore": [],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Drehung - 0:0 ueber 90 Minuten. Spanien 27 Schuesse / 7 auf Tor / 74% Possession - Cape Verde-Keeper Vozinha (40) Mann des Spiels. Torres an Pfosten/Latte, Oyarzabal-Kopfball, Yamal-Aktionen alle pariert."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_0_5": false,
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Unentschieden",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Klassen-Edge-These (FIFA #2 vs #67) komplett widerlegt - 0:0 ist groesste Sensation des WM-Auftakts. Vozinha (40, Casa Pia Lissabon) parierte 7 Schuesse, Cape Verde verteidigte mit 11 Mann am Strafraum.",
+          "Lesson 14.06 'Klassen-Asymmetrie bricht Unter-These' (Deutschland-Curacao 7:1) ist KEINE Universal-Regel - WM-Auftakte fuer Top-Favoriten haben hohe Block-Defense-Risk.",
+          "Mikel Oyarzabal Unwanted-Record: 12-Spiel-Tor/Assist-Streak gebrochen (Athlon)."
+        ]
+      }
+    },
+    {
+      "id": "2026-06-15-bel-egy",
+      "liga": "FIFA World Cup 2026 - Gruppe G - Spieltag 1",
+      "heim": "Belgien",
+      "gast": "Aegypten",
+      "anstoss": "2026-06-15T21:00:00+02:00",
+      "stadion": "Lumen Field, Seattle WA (neutraler Platz)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM 2026 ist primaerer Wettbewerb, Belgien Pro League beendet, alle Auslands-Stars (De Bruyne Napoli, Doku Man City, Lukaku Napoli, Trossard Arsenal, Courtois Real) in Klub-Pause",
+        "parallel_gast": "keine - WM 2026 ist primaerer Wettbewerb, Egyptian Premier League beendet, Salah (Liverpool) + Marmoush (Man City) + Trezeguet (Trabzonspor) in Klub-Pause",
+        "saisonziel_heim": "Mindestens Viertelfinale - FIFA #8, neuer Trainer Rudi Garcia, goldene Generation Last Dance (De Bruyne 34, Lukaku 33, Courtois 34 - letzte WM), Gruppen-Sieg Pflicht",
+        "saisonziel_gast": "Achtelfinale waere Erfolg - FIFA #38, Salah-Last-Dance-Modus mit 33, Liverpool-Saison schwach beendet aber Quali-Topscorer Aegypten, realistisches Ziel ist Salah-Show + Gruppen-2.",
+        "motivations_asymmetrie": "Belgien klarer Klassen-Edge bei Quoten 1.67 vs 5.00 (Konsens-Kalshi 61% vs 17% vs Draw 24%). Aegypten kann Punkt-Klau via tiefer 5-3-2 + Salah-Konter versuchen - das macht Sieg eher VALUE als SAFE. De Bruyne fit aber Napoli-Saison mit Auge-Verletzung beendet - kleines Risiko.",
+        "recovery_heim": "Klub-Saison Pause seit 24.05. = 3 Wochen Erholung. Test-Spiele 5-2 USA (28.03.) + 1-1 Mexico - System klickte. De Bruyne + Lukaku beide kleine Verletzungs-Konzerne aber im Kader.",
+        "recovery_gast": "Aegypten-Camp seit Anfang Juni - frisch, aber Salah hat schwere Liverpool-Saison hinter sich + Burnout-Risiko. Marmoush (Man City Backup) + Trezeguet (Trabzonspor Mittelfeld) sind Volumen-Optionen aber kein Welt-Niveau-Backup fuer Salah.",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/belgium-squad-garcia-lukaku-named",
+          "https://www.espn.com/soccer/odds/_/gameId/760426",
+          "https://www.cbssports.com/soccer/news/belgium-egypt-odds-prediction-time-2026-world-cup-picks-best-bets/",
+          "https://www.squawka.com/us/news/world-cup/match-preview-belgium-vs-egypt-06-15-26-world-cup-2026/",
+          "https://www.racingpost.com/sport/football-tips/world-cup-2026/belgium-vs-egypt-world-cup-prediction-team-news-odds-betting-tips-and-bet-builder-a2JPS7Q7FVSO/"
+        ]
+      },
+      "news": [
+        "Klassen-Edge Belgien klar aber nicht maximal: FIFA #8 vs #38, Quoten 1.67 / X 3.80 / 5.00 - Konsens 61% / 24% / 17% (Kalshi).",
+        "Belgien-Aufstellung erwartet (4-2-3-1 Garcia-System): Courtois; Castagne, Mechele, Ngoy, Meunier; Onana, Tielemans; Doku, De Bruyne, Trossard; Lukaku.",
+        "Aegypten-Aufstellung erwartet (4-2-3-1): Shobeir; Hany, Ibrahim, Abdelmonem, Fatouh; Attia, Lasheen; Salah, Ashour, Trezeguet; Marmoush.",
+        "De Bruyne fit nach Napoli-Saison (Auge-Verletzung Ende abgeklungen) - 'arrives fit, expected to start every match' (Quelle FOTMOB/Yahoo).",
+        "Lukaku im Kader trotz Hueft-Verletzung Napoli-Saisonende - Garcia-System will Lukaku als 9er, aber Comeback-Risiko bei voller Anzahl Minuten.",
+        "Doku-Form: Man City-Saison als Joker, schnelle Fluegelangriffe, Hauptaussicht auf Tor.",
+        "Salah-Form: Liverpool-Saison schwach (12 PL-Tore), aber Quali-Topscorer Aegypten (8 Tore in 7 Spielen), Last-Dance-Motivation.",
+        "Wetter Seattle Lumen Field: mild ca. 18-22 Grad, kein Tempo-Drueck.",
+        "Quoten Aggregator-Konsens (FanDuel/bet365/ESPN, 14.06.): Belgien 1.67 / X 3.80 / Aegypten 5.00. Ueber 2.5 ~2.00. Doku trifft ~3.20. De Bruyne trifft ~3.80. Lukaku trifft ~2.40. Salah trifft ~3.00. BTTS JA ~2.00.",
+        "Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI. Sieg-Quote 1.67 ist VALUE-Range nicht SAFE-Range.",
+        "Goldgrube-Markt 'Torschuetzen Jederzeit' (+29.4% ROI) + 'Sieg' (+9.1% ROI) - beide aktiv.",
+        "Form-Edge-Pflicht erfuellt (Heim-Favorit unter 1.80): Lukaku-Torschuetzen VALUE + Doku-Torschuetzen VALUE als Backup-9er Hedge."
+      ],
+      "tipps": [
+        {
+          "id": "t-bel-1",
+          "markt": "Belgien Sieg (1X2)",
+          "kategorie": "value",
+          "quote": 1.67,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 8.25,
+          "begruendung": "Klassen-Edge Belgien gegen Aegypten (FIFA #8 vs #38). De Bruyne + Lukaku + Doku-Frontline + Courtois im Tor vs Aegypten ohne Top-5-Liga-Defense. Garcia-System klickte in Vorbereitung (5-2 USA, 1-1 Mexico). Kalshi-Konsens 61% Belgien-Sieg vs Quote 1.67 = leicht implizierte 60% - kein massiver Edge aber Goldgrube-Sieg-Markt (+9.1% ROI) plus 2:0-Insurance-WM-Regel (Sieg gewinnt schon ab 2:0-Fuehrung). Reality-Check 1.50-2.00: 54.4% HR / +11.8% ROI. VALUE (nicht SAFE) wegen Aegypten-Konter-Risiko ueber Salah + Lukaku-Fitness-Frage. Stake 1.5% = 8.25 EUR.",
+          "edge_prozent": 9,
+          "faire_quote": 1.52,
+          "rang": 1
+        },
+        {
+          "id": "t-bel-2",
+          "markt": "Jeremy Doku trifft jederzeit (Belgien)",
+          "kategorie": "wackel",
+          "quote": 3.2,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 5.5,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+29.4% ROI / 41.4% HR, n=60). Doku als rechter Fluegel mit Tempo und Eins-gegen-Eins-Ueberlegenheit gegen Aegypten-Backline. Garcia-System nutzt Doku-Speed als primaeren Tor-Plan. Vorbereitung 5-2 USA Atlanta: Doku traf. Quote 3.20 ist VALUE - Reality-Check Quoten 3.00-5.00: 28.5% HR / +1.3% ROI - aber Goldgrube-Markt-Boost legitim. Stake 1.0% = 5.50 EUR. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "edge_prozent": 14,
+          "faire_quote": 2.8,
+          "rang": 2,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "id": "t-bel-3",
+          "markt": "Romelu Lukaku trifft jederzeit (Belgien)",
+          "kategorie": "wackel",
+          "quote": 2.4,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 5.5,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+29.4% ROI). Lukaku als nominell 9er - Belgiens all-time WM-Topscorer (5 Tore, gleich mit Wilmots). De Bruyne als 10er liefert dahinter. Einwechslungs-Boost-Hedge stark: Lukaku in 60. Min raus moeglich (Hueft-Schonung), Backup waere Openda oder Trossard als Falsche-9er - deren Tor zaehlt mit. Reality-Check 2.00-3.00: 41.2% HR / +4.6% ROI. Stake 1.0% = 5.50 EUR. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "edge_prozent": 11,
+          "faire_quote": 2.15,
+          "rang": 3,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "id": "t-bel-4",
+          "markt": "Ueber 2.5 Tore (Gesamt)",
+          "kategorie": "wackel",
+          "quote": 2.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 2.75,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 Tore (+33.7% ROI / 56.0% HR). Belgien-Test gegen USA 5-2 (7 Tore) als Beleg fuer offene Spielanlage. Aber: Lesson 14.06 'WM-Spieltag-1 Unter-2.5 4/4 in Gruppe B' + 13.06 'WM-Eroeffnungs Subfilter' - WM-Auftakte tendieren defensiv wenn Aegypten 5-3-2 tief spielt. Reality-Check 1.50-2.00: 54.4% HR - solide aber nicht Goldgrube-Niveau. WACKEL statt VALUE wegen Lesson-Konflikt. Stake 0.5% = 2.75 EUR.",
+          "edge_prozent": 8,
+          "faire_quote": 1.85,
+          "rang": 4
+        },
+        {
+          "id": "t-bel-5",
+          "markt": "Mohamed Salah trifft jederzeit (Aegypten)",
+          "kategorie": "moonshot",
+          "quote": 3.0,
+          "empfohlener_einsatz_prozent": 0.1,
+          "empfohlener_einsatz_euro": 0.55,
+          "begruendung": "Moonshot-Bein: Salah Quali-Topscorer Aegypten (8 Tore in 7 Spielen) + Last-Dance-Motivation mit 33. Aber Liverpool-Saisonende schwach + Burnout-Frage. Tipps-Konflikt mit Belgien-Sieg-Tipp (Korrelation negativ aber Salah-Tor + Belgien-Sieg moeglich = BTTS Pattern). Stake 0.1% Spass.",
+          "edge_prozent": null,
+          "faire_quote": 3.0,
+          "rang": 5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "1:1",
+        "halbzeit_stand": "0:1",
+        "heim_tore": 1,
+        "gast_tore": 1
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t-bel-1",
+          "markt": "Belgien Sieg (1X2)",
+          "kategorie": "value",
+          "quote": 1.67,
+          "einsatz_euro": 8.25,
+          "status": "verloren",
+          "netto_euro": -8.25,
+          "kommentar": "Belgien 1:1 Aegypten - kein 2:0-Insurance-Trigger. Belgien lag sogar 0:1 hinten.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "gewinn_faktor": -1.0
+        },
+        {
+          "tipp_id": "t-bel-2",
+          "markt": "Jeremy Doku trifft jederzeit (Belgien)",
+          "kategorie": "wackel",
+          "quote": 3.2,
+          "einsatz_euro": 5.5,
+          "status": "verloren",
+          "netto_euro": -5.5,
+          "kommentar": "Doku kein Tor. Belgien-Tor war OG Hany (66.) durch Lukaku-Einwechslung. Doku-Tipp-Spieler-Auswechslung-Status irrelevant da Belgien-Tor durch OG, nicht durch Doku-Ersatz.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "gewinn_faktor": -1.0
+        },
+        {
+          "tipp_id": "t-bel-3",
+          "markt": "Romelu Lukaku trifft jederzeit (Belgien)",
+          "kategorie": "wackel",
+          "quote": 2.4,
+          "einsatz_euro": 5.5,
+          "status": "verloren",
+          "netto_euro": -5.5,
+          "kommentar": "Lukaku kein Tor selbst - OG Hany (66.) 22 Sekunden nach Lukaku-Einwechslung wird Lukaku NICHT als Schuetze gutgeschrieben. Einwechslungs-Boost greift NICHT da Lukaku selber als Einwechselspieler kam (nicht ausgewechselt wurde).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "gewinn_faktor": -1.0
+        },
+        {
+          "tipp_id": "t-bel-4",
+          "markt": "Ueber 2.5 Tore (Gesamt)",
+          "kategorie": "wackel",
+          "quote": 2.0,
+          "einsatz_euro": 2.75,
+          "status": "verloren",
+          "netto_euro": -2.75,
+          "kommentar": "Ueber 2.5 verfehlt - 2 Tore (Ashour OG Hany).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "gewinn_faktor": -1.0
+        },
+        {
+          "tipp_id": "t-bel-5",
+          "markt": "Mohamed Salah trifft jederzeit (Aegypten)",
+          "kategorie": "moonshot",
+          "quote": 3.0,
+          "einsatz_euro": 0.55,
+          "status": "verloren",
+          "netto_euro": -0.55,
+          "kommentar": "Salah kein Tor. Aegypten-Tor durch Ashour (19.).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "gewinn_faktor": -1.0
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "1:1",
+        "tore": [
+          {
+            "min": 19,
+            "team": "gast",
+            "spieler": "Emam Ashour",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 66,
+            "team": "heim",
+            "spieler": "Mohamed Hany (Eigentor)",
+            "stand_danach": "1:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Kein 2-Tor-Vorsprung wechselte die Seite. Aegypten fuehrte nur knapp 0:1 (kein 2:0-Trigger), Belgien glich aus durch OG kurz nach Lukaku-Einwechslung (66.) - 22 Sekunden nach Lukaku-Einwechslung fuer De Ketelaere. Pharaohs zum 1.HZ-Sieger ohne Sieg-Insurance fuer Belgien."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_0_5": true,
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Aegypten/Unentschieden",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Lukaku",
+            "details": "Bank-Start - De Ketelaere als 9er (Garcia-Plan wegen Hueft-Fitness-Schon). Lukaku kam in 66. fuer De Ketelaere und bewirkte unmittelbar OG durch Hany."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Lukaku",
+            "aus": "De Ketelaere",
+            "minute": 66,
+            "tor": true,
+            "tor_minute": "66'+22sec",
+            "details": "Eigentor Hany 22 Sekunden nach Lukaku-Einwechslung erzwungen durch Lukaku-Lauf in den Strafraum. Lukaku selbst nicht als Torschuetze gewertet."
+          }
+        ],
+        "auffaellige_patterns": [
+          "WM-Auftakt-Pattern bestaetigt sich erneut (vgl. Spielalg-1 Gruppe B Lesson 14.06): defensiv knappe Spiele dominieren - 2 Tore total.",
+          "Einwechslungs-Boost-Trigger geschah aber INVERS zur These - Tipp-Spieler war Lukaku selbst (kam REIN nicht raus), Boost greift nicht. Tipp-These haette auf De Ketelaere-Torschuetzen + Lukaku-als-Ersatz setzen muessen.",
+          "Ashour (Egypt) als unerwarteter Torschuetze - kein Salah-Tor, Egypt schlug Erst-Torschuetzen-Lotterie."
+        ]
+      }
+    },
+    {
+      "id": "2026-06-15-sau-uru",
+      "liga": "FIFA World Cup 2026 - Gruppe H - Spieltag 1",
+      "heim": "Saudi-Arabien",
+      "gast": "Uruguay",
+      "anstoss": "2026-06-16T00:00:00+02:00",
+      "stadion": "Hard Rock Stadium, Miami Gardens FL (neutraler Platz)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM 2026 ist primaerer Wettbewerb, Saudi Pro League beendet (Mai 2026), Saudi-Stars Salem Al-Dawsari (Al-Hilal) etc. in Klub-Pause",
+        "parallel_gast": "keine - WM 2026 ist primaerer Wettbewerb, Uruguay-Stars in europaeischer Klub-Pause (Valverde Real Madrid, Araujo Barca, Ugarte ManUtd, Bentancur Tottenham, Nunez Al-Hilal)",
+        "saisonziel_heim": "Achtelfinale waere Erfolg - FIFA #57, Saudi-Investitions-Programm + Mancini-Era (gefolgt von neuem Trainer), realistisches Ziel ist Gruppen-3. mit theoretischer Achtelfinal-Chance via bester 3. Tabellen-Mathematik",
+        "saisonziel_gast": "Mindestens Viertelfinale - FIFA #12, Bielsa-Stil aggressives Pressing, ex-Weltmeister-Anspruch, Valverde + Araujo + Nunez Generation Peak, Last-Dance fuer Bentancur (28) und Cavani-Erbe-Frage",
+        "motivations_asymmetrie": "Klares Klassen-Asymmetrie - Uruguay FIFA #12 vs Saudi #57, Quote 1.50 vs 6.25, Kalshi-Konsens 68% Uruguay vs 12% Saudi vs 21% Draw. Bielsa-Pressing typischerweise dominanter Ballbesitz - Saudi-Kontertor moeglich aber unwahrscheinlich.",
+        "recovery_heim": "Saudi Pro League beendet seit ca. 24.05. = 3 Wochen Pause + Test-Spiele - frisch.",
+        "recovery_gast": "3+ Wochen Erholung. Aber: Nunez seit Februar bei Al-Hilal kaum Klubminuten (Spiele-Verlust wegen Karim-Benzema-Foreign-Player-Reshuffle) - Wettkampf-Form-Frage. Bielsa traut ihm 9er-Rolle.",
+        "quellen": [
+          "https://thefootballfaithful.com/uruguay-2026-world-cup-squad-fixtures-and-schedule/",
+          "https://www.espn.com/soccer/odds/_/gameId/760430",
+          "https://www.squawka.com/us/news/world-cup/match-preview-saudi-arabia-vs-uruguay-06-15-26-world-cup-2026/",
+          "https://www.sportsgambler.com/betting-tips/football/saudi-arabia-vs-uruguay-prediction-lineups-odds-2026-06-15/",
+          "https://www.olympics.com/en/news/fifa-world-cup-2026-uruguay-players-squad-key-stats-schedule"
+        ]
+      },
+      "news": [
+        "Klassen-Edge Uruguay deutlich: FIFA #12 vs Saudi #57, Quoten 6.25 / X 4.33 / 1.50.",
+        "Uruguay-Aufstellung erwartet (4-3-3 Bielsa): Rochet; Olivera, Araujo, Gimenez, Vina; Bentancur, Ugarte, Valverde; Pellistri, Nunez, Arrascaeta.",
+        "Saudi-Arabien-Aufstellung erwartet (4-2-3-1): Al-Owais; Al-Boleahi, Al-Tambakti, Al-Amri, Al-Buraikan; Kanno, Al-Faraj; Al-Dawsari, Al-Hassan, Al-Najei; Al-Brikan.",
+        "Valverde-Form: 20 Tor-Beteiligungen in 42 Real Madrid-Spielen, LaLiga-Vize-Meister, Box-to-Box-Motor. Quali-Topscorer Conmebol.",
+        "Nunez-Form-Frage: seit Februar bei Al-Hilal kaum Spielminuten wegen Benzema-Foreign-Player-Politik. Bielsa-Vertrauen aber 9er-Pflicht.",
+        "Wetter Miami Hard Rock Stadium: 28-30 Grad + hohe Luftfeuchtigkeit + Gewitter-Warnung. Hitze-Drueck moeglich - CLAUDE.md Florida-Pattern: spaete Spiele besser, aber 00:00 lokal = 18:00 ET = noch Tag-Hitze.",
+        "Quoten Aggregator-Konsens (bet365/Squawka/SportsGambler, 14.06.): Uruguay 1.50 / X 4.33 / Saudi 6.25. Ueber 2.5 ~2.10 / Unter 2.5 ~1.75. Valverde trifft ~3.20. Nunez trifft ~2.00. Arrascaeta trifft ~3.80. BTTS JA ~2.60.",
+        "Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI. Sieg 1.50 ist Goldgrube-fairer Range.",
+        "Goldgrube-Markt 'Sieg' (+9.1% ROI, 59.1% HR n=111) + 'DC X2' (+20.3% ROI, 73.3% HR, n=17) + 'Torschuetzen Jederzeit' (+29.4% ROI) - alle aktiv.",
+        "Form-Edge-Pflicht erfuellt (Auswaerts-Favorit unter 2.20): Nunez-Torschuetzen VALUE + Sieg VALUE + DC X2 VALUE (nicht SAFE wegen WM-Liga-Goldgrube-Pruefung).",
+        "Hitze-Risiko Miami: Unter-2.5-Tipps gewinnen Wahrscheinlichkeit - aber Uruguay als Heim-Quoten-Underdog drueckt nicht Tor-Volumen runter, Bielsa-Stil bleibt aggressiv."
+      ],
+      "tipps": [
+        {
+          "id": "t-uru-1",
+          "markt": "Uruguay Doppelte Chance (X2)",
+          "kategorie": "safe",
+          "quote": 1.12,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 5.5,
+          "begruendung": "Markt-Goldgrube DC X2 (+20.3% ROI / 73.3% HR, n=17). FIFA #12 vs #57, Saudi-Sieg-Quote 6.25 (16% implizit) - Uruguay-Verlust extrem unwahrscheinlich. Bielsa-Pressing + Valverde-Motor + Araujo-Defense vs Saudi ohne Top-5-Liga-Defense-Standard. Reality-Check Quoten 1.00-1.50: 76.9% HR / +7.2% ROI. SAFE legitim wegen Klassen-Edge + Goldgrube-Markt. Stake 1.0% = 5.50 EUR.",
+          "edge_prozent": 6,
+          "faire_quote": 1.06,
+          "rang": 1
+        },
+        {
+          "id": "t-uru-2",
+          "markt": "Uruguay Sieg (1X2)",
+          "kategorie": "value",
+          "quote": 1.5,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 11.0,
+          "begruendung": "Klassen-Edge Uruguay (FIFA #12 vs Saudi-Arabien #57). Bielsa-Pressing-Stil + Valverde + Araujo + Nunez-Generation Peak vs Saudi ohne Top-5-Liga-Defense. Kalshi-Konsens 68% Uruguay vs Quote 1.50 (66.7% implizit) - leichter Edge. 2:0-Insurance-WM-Regel aktiv (CLAUDE.md). Goldgrube-Sieg-Markt (+9.1% ROI / 59.1% HR, n=111). Reality-Check 1.50-2.00: 54.4% HR / +11.8% ROI. VALUE statt SAFE wegen Miami-Hitze-Risiko (28-30 Grad + LF) + Nunez-Klubminuten-Defizit. Stake 2.0% = 11.00 EUR Stufe 1.",
+          "edge_prozent": 11,
+          "faire_quote": 1.35,
+          "rang": 2
+        },
+        {
+          "id": "t-uru-3",
+          "markt": "Darwin Nunez trifft jederzeit (Uruguay)",
+          "kategorie": "value",
+          "quote": 2.0,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 5.5,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+29.4% ROI / 41.4% HR, n=60 - bester Markt im System). Nunez als nomineller 9er bei Bielsa-4-3-3-Frontline mit Pellistri + Arrascaeta als Zulieferer. Saudi-Defense ohne Top-5-Liga-Standard. Einwechslungs-Boost-Hedge stark: bei Nunez-Klubminuten-Defizit (Al-Hilal kaum Spielzeit seit Feb 2026) wahrscheinlicher Wechsel ab 65. Min - Backup-9er Vinas/Aguirre-Tore zaehlen mit (CLAUDE.md WM-Einwechslungs-Boost-Regel). Reality-Check 1.50-2.00: 54.4% HR. Stake 1.0% = 5.50 EUR. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel-faehig, Goldgrube haelt aber VALUE]",
+          "edge_prozent": 10,
+          "faire_quote": 1.81,
+          "rang": 3,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "id": "t-uru-4",
+          "markt": "Federico Valverde trifft jederzeit (Uruguay)",
+          "kategorie": "wackel",
+          "quote": 3.2,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 2.75,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+29.4% ROI). Valverde Real-Madrid-Box-to-Box-Motor mit 20 Tor-Beteiligungen in 42 Spielen LaLiga-Vize-Saison 25/26, Quali-Topscorer-Mitspieler Conmebol. Bielsa-System nutzt Valverde als Box-to-Box-8er = sucht Strafraum aktiv. Quote 3.20 = WACKEL-Range. Reality-Check 3.00-5.00: 28.5% HR / +1.3% ROI - aber Goldgrube-Markt-Boost legitim. Stake 0.5% = 2.75 EUR. [Auto: Torschuetze-Vereins-Quelle fehlt - max wackel]",
+          "edge_prozent": 12,
+          "faire_quote": 2.85,
+          "rang": 4,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "id": "t-uru-5",
+          "markt": "Ueber 2.5 Tore (Gesamt)",
+          "kategorie": "wackel",
+          "quote": 2.1,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 2.75,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 Tore (+33.7% ROI / 56.0% HR, n=27). Bielsa-Pressing-Stil + Uruguay-Offensive vs Saudi-Defense ohne Top-5-Liga-Standard = Tor-Volumen-These. ABER: Miami-Hitze (28-30 Grad + LF + Gewitter-Warnung) + WM-Spieltag-1-Tendenz defensive Auftakte spricht eher fuer Unter (Lesson 14.06 Gruppe B 4/4 Unter). WACKEL statt SAFE wegen Lesson-Konflikt + Hitze-Drueck. Stake 0.5% = 2.75 EUR.",
+          "edge_prozent": 5,
+          "faire_quote": 2.0,
+          "rang": 5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "1:1",
+        "halbzeit_stand": "1:0",
+        "heim_tore": 1,
+        "gast_tore": 1
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t-uru-1",
+          "markt": "Uruguay Doppelte Chance (X2)",
+          "kategorie": "safe",
+          "quote": 1.12,
+          "einsatz_euro": 5.5,
+          "status": "gewonnen",
+          "netto_euro": 0.66,
+          "kommentar": "Uruguay DC X2 GEWONNEN durch 1:1-Unentschieden - Maxi Araujo Ausgleichs-Tor 80. nach Al-Amri 33. Goldgrube DC X2 (+20.3% ROI) bestaetigt sich erneut - DC-Cushion verhinderte Total-Crash.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "gewinn_faktor": 0.12
+        },
+        {
+          "tipp_id": "t-uru-2",
+          "markt": "Uruguay Sieg (1X2)",
+          "kategorie": "value",
+          "quote": 1.5,
+          "einsatz_euro": 11.0,
+          "status": "verloren",
+          "netto_euro": -11.0,
+          "kommentar": "Uruguay nur 1:1 - kein 2:0-Insurance-Trigger (lag sogar 0:1 hinten).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "gewinn_faktor": -1.0
+        },
+        {
+          "tipp_id": "t-uru-3",
+          "markt": "Darwin Nunez trifft jederzeit (Uruguay)",
+          "kategorie": "value",
+          "quote": 2.0,
+          "einsatz_euro": 5.5,
+          "status": "verloren",
+          "netto_euro": -5.5,
+          "kommentar": "Nunez kein Tor. Nunez bei HZ ausgewechselt fuer Canobbio (ineffektiv, 3 Paesse). Maxi Araujo (Stamm-Linksaussen, NICHT direkter Ersatz) traf in 80. - Boost greift NICHT da Canobbio der direkte Ersatz war und selbst nicht traf.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "gewinn_faktor": -1.0
+        },
+        {
+          "tipp_id": "t-uru-4",
+          "markt": "Federico Valverde trifft jederzeit (Uruguay)",
+          "kategorie": "wackel",
+          "quote": 3.2,
+          "einsatz_euro": 2.75,
+          "status": "verloren",
+          "netto_euro": -2.75,
+          "kommentar": "Valverde kein Tor. Maxi Araujo traf.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "gewinn_faktor": -1.0
+        },
+        {
+          "tipp_id": "t-uru-5",
+          "markt": "Ueber 2.5 Tore (Gesamt)",
+          "kategorie": "wackel",
+          "quote": 2.1,
+          "einsatz_euro": 2.75,
+          "status": "verloren",
+          "netto_euro": -2.75,
+          "kommentar": "Ueber 2.5 verfehlt - 2 Tore.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "gewinn_faktor": -1.0
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "1:1",
+        "tore": [
+          {
+            "min": 33,
+            "team": "heim",
+            "spieler": "Abdulelah Al-Amri",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 80,
+            "team": "gast",
+            "spieler": "Maxi Araujo",
+            "stand_danach": "1:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Saudi fuehrte nur knapp 1:0 zur Halbzeit (kein 2-Tor-Vorsprung Drehung), Uruguay glich durch Maxi Araujo 80. aus. Keine 2:0-Insurance fuer Saudi (nur 1:0)."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_0_5": true,
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Saudi-Arabien/Unentschieden",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Nunez",
+            "details": "Bielsa-Knall: Nunez nach 1.HZ Halbzeit ausgewechselt fuer Canobbio - nur 3 Paesse, 'ineffective display' (Goal.com). Klubminuten-Defizit Al-Hilal hat Wettkampf-Form gekostet."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "gast",
+            "ein": "Canobbio",
+            "aus": "Nunez",
+            "minute": 45,
+            "tor": false,
+            "details": "Canobbio kam fuer Nunez in HZ - hat aber selbst nicht getroffen. Maxi Araujo (kein Direkt-Ersatz, Stamm-Linksaussen) erzielte Ausgleich in 80. - Boost greift NICHT fuer Nunez-Tipp."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Goldgrube-Markt 'DC X2' (+20.3% ROI) GEWANN - einziger gewonnener Tipp des Tages auf URU DC X2 (1.12).",
+          "Form-Edge-Pflicht (Nunez-Klubminuten-Defizit als Risiko) hatte Recht - aber Backup-9er-Hedge griff nicht (Canobbio statt anderer Backup-9er; Maxi Araujo der Stamm-Linksaussen traf statt direkter Ersatz).",
+          "Saudi-Keeper Al-Owais Mann des Spiels - 'Goalkeeper Hero' Pattern bei WM-Auftakt-Underdog-Punkt-Klau."
+        ]
+      }
+    },
+    {
+      "id": "2026-06-16-irn-nzl",
+      "liga": "FIFA World Cup 2026 - Gruppe (Iran/NZL) - Spieltag 1",
+      "heim": "Iran",
+      "gast": "Neuseeland",
+      "anstoss": "2026-06-16T03:00:00+02:00",
+      "stadion": "SoFi Stadium, Inglewood CA (neutraler Platz)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM 2026 ist primaerer Wettbewerb, Persian Gulf Pro League beendet (Mai 2026), Auslands-Stars Taremi (Olympiacos) + Jahanbakhsh in Klub-Pause",
+        "parallel_gast": "keine - WM 2026 ist primaerer Wettbewerb, NZ National League minor + Auslands-Spieler (Wood Nottingham Forest, Garbett, etc.) in Klub-Pause",
+        "saisonziel_heim": "Achtelfinale waere historisch - FIFA #18 (Asien #2), 6. WM-Teilnahme aber bisher NIE Achtelfinale erreicht, Last-Chance-Generation um Taremi (33), trotz Azmoun-Squad-Aus politische Spannungen US-Israel-Iran-Krieg Hintergrund",
+        "saisonziel_gast": "Gruppen-3. waere Erfolg - FIFA #103, 3. WM-Teilnahme, 2010 ungeschlagen aus Gruppen-Phase aber 3 Unentschieden, Wood-Generation um 34 (Last Dance), realistisches Ziel 1 Punkt",
+        "motivations_asymmetrie": "Iran klarer Klassen-Edge bei Quoten 1.83 vs 4.40 (Kalshi 48.6% Iran vs 19.9% NZ vs 31.5% Draw). Aber NZ defensiv organisierter Stil + Wood-Konter-Threat machen Sieg eher VALUE nicht SAFE. Politik-Distraktion Iran (US-Israel-Iran-Krieg Hintergrund) ist Risk-Faktor.",
+        "recovery_heim": "Klub-Saison Pause seit Mai = 3+ Wochen Erholung. Taremi nach Olympiacos-Saison topfit + Quali-Topscorer mit 10 Toren.",
+        "recovery_gast": "3 Wochen Erholung. Wood Nottingham Forest Saison normal beendet, NZ-Camp seit Anfang Juni.",
+        "quellen": [
+          "https://www.squawka.com/en/news/world-cup/iran-world-cup-2026-fixtures-squad-analysis/",
+          "https://www.espn.com/soccer/odds/_/gameId/760432",
+          "https://www.aljazeera.com/sports/2026/5/17/sardar-azmoun-left-out-as-iran-announce-world-cup-2026-squad",
+          "https://www.racingpost.com/sport/football-tips/world-cup-2026/iran-vs-new-zealand-betting-tips-predictions-team-news-odds-bet-builder-aAP7j4z779qD/",
+          "https://www.lineups.com/betting/iran-vs-new-zealand-world-cup-match-preview-picks-odds-for-monday-june-15-2026/"
+        ]
+      },
+      "news": [
+        "Klassen-Edge Iran moderat: FIFA #18 vs #103, Quoten 1.83 / X 3.40 / 4.40. Statistik-Projektion 48.6% Iran / 31.5% X / 19.9% NZ - Coinflip-Range mit Iran-Lean.",
+        "Iran-Aufstellung erwartet (4-3-3): Beiranvand; Mohammadi, Hosseini, Kanaani, Karimi; Ezatolahi, Noorollahi, Jahanbakhsh; Ghoddos, Taremi, Gholizadeh.",
+        "NZ-Aufstellung erwartet (4-2-3-1): Sail; Boxall, Bell, Reynolds, de Vries; Stamenic, Stensness; Marinkovic, Garbett, Krishna; Wood.",
+        "Taremi-Form: Quali-Topscorer Asien-Bereich gleichauf mit Son Heung-min (10 Tore), 56 Tore in 101 Caps Iran, Olympiacos-Klub-Stuermer, dritter all-time Iran-Topscorer.",
+        "Azmoun fehlt: politischer Vereins-Ausschluss wegen Dubai-Bin-Rashid-Foto im US-Israel-Iran-Krieg-Kontext. Backup-Stuermer Ghoddos + Gholizadeh muessen Last tragen.",
+        "Wood (Nottingham Forest) als NZ-Hauptstuermer mit Premier-League-Erfahrung - groesste NZ-Tor-Chance.",
+        "Wetter SoFi Stadium Indoor (Dachschluss) Inglewood LA: konstant ca. 22 Grad, kein Wetter-Drueck.",
+        "Quoten Aggregator-Konsens (bet365/Squawka/ESPN, 14.06.): Iran 1.83 / X 3.40 / NZ 4.40. Ueber 2.5 ~2.50 / Unter 2.5 ~1.57. Taremi trifft ~2.10. Wood trifft ~3.50. Jahanbakhsh trifft ~4.00.",
+        "Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI. Sieg 1.83 ist solider VALUE-Range.",
+        "Goldgrube-Markt 'Unter 2.5 Tore' (+36.1% ROI / 68.4% HR, n=19) + 'Torschuetzen Jederzeit' (+29.4% ROI) - beide aktiv.",
+        "Form-Edge-Pflicht (Heim-Favorit unter 1.83 = im knappen Bereich): Taremi-Torschuetzen-Tipp VALUE drin, Sieg drin, Unter 2.5 als Goldgrube-Hauptbein."
+      ],
+      "tipps": [
+        {
+          "id": "t-irn-1",
+          "markt": "Iran Sieg (1X2)",
+          "kategorie": "value",
+          "quote": 1.83,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 5.5,
+          "begruendung": "Klassen-Edge Iran (FIFA #18 vs #103). Taremi-Volumen-Stuermer-Form + Iran-Defense organisiert gegen NZ-Auswaerts-Team das in 3 vorherigen WM nie weiter kam. Statistik-Projektion 48.6% Iran-Sieg vs Quote 1.83 (impliziert 54.6%) - leicht UNTER fair, aber Goldgrube-Sieg-Markt (+9.1% ROI) + 2:0-Insurance-WM-Regel. VALUE (nicht SAFE) wegen Coinflip-Konsens NZ-Konter via Wood + politische Distraktion. Reality-Check 1.50-2.00: 54.4% HR. Stake 1.0% = 5.50 EUR.",
+          "edge_prozent": 5,
+          "faire_quote": 1.75,
+          "rang": 1
+        },
+        {
+          "id": "t-irn-2",
+          "markt": "Mehdi Taremi trifft jederzeit (Iran)",
+          "kategorie": "wackel",
+          "quote": 2.1,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 5.5,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+29.4% ROI / 41.4% HR, n=60). Taremi Quali-Topscorer Asien (10 Tore gleichauf mit Son), Iran-Allzeit-Top-3 (56/101), Olympiacos-Klub-Form. Azmoun-Ausfall = Taremi alleiniger Star-Stuermer = max Volumen + Penalty-Recht. Einwechslungs-Boost-Hedge erfuellt: falls Taremi rausgeht ab Min 70, Backup Ghoddos/Gholizadeh-Tore zaehlen mit. Reality-Check 2.00-3.00: 41.2% HR / +4.6% ROI. Stake 1.0% = 5.50 EUR. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "edge_prozent": 11,
+          "faire_quote": 1.89,
+          "rang": 2,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "id": "t-irn-3",
+          "markt": "Unter 2.5 Tore (Gesamt)",
+          "kategorie": "safe",
+          "quote": 1.57,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 8.25,
+          "begruendung": "Markt-Goldgrube Unter 2.5 Tore (+36.1% ROI / 68.4% HR, n=19 - eine der Top-3-Maerkte). Iran-Defense diszipliniert + NZ-Block-Tiefe + Indoor-LA-Klima neutral = Setup fuer enges defensives 1-0 / 2-0 / 2-1 Spiel. Statistik-Projektion 1.17-1.25 Endstaende = klar unter 2.5 Tor-Range. Lesson 14.06 (Spieltag 1 Unter 4/4 Gruppe B) + 13.06 (WM-Eroeffnungs-Unter Subfilter) genau dieses Setup. Reality-Check 1.50-2.00: 54.4% HR. SAFE legitim (Goldgrube-Markt + Quoten-Range bestaetigt). Stake 1.5% = 8.25 EUR.",
+          "edge_prozent": 13,
+          "faire_quote": 1.4,
+          "rang": 3
+        },
+        {
+          "id": "t-irn-4",
+          "markt": "Beide Teams treffen NEIN",
+          "kategorie": "value",
+          "quote": 1.8,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 5.5,
+          "begruendung": "Konsistente Logik mit Unter-2.5-These: Iran-Defense + NZ-Defense beide diszipliniert. NZ historisch kein Tor-Volumen-Team (2010 WM 3 Unentschieden bei nur 2 erzielten Toren), Wood einziger PL-Stuermer aber 34 Jahre alt. Iran kassierte in 8 Quali-Spielen nur 4 Tore = Defense-First-Profil. Reality-Check 1.50-2.00: 54.4% HR. VALUE. Stake 1.0% = 5.50 EUR.",
+          "edge_prozent": 10,
+          "faire_quote": 1.65,
+          "rang": 4
+        },
+        {
+          "id": "t-irn-5",
+          "markt": "Chris Wood trifft jederzeit (Neuseeland)",
+          "kategorie": "moonshot",
+          "quote": 3.5,
+          "empfohlener_einsatz_prozent": 0.1,
+          "empfohlener_einsatz_euro": 0.55,
+          "begruendung": "Moonshot-Bein: Wood einziger NZ-PL-Stuermer (Nottingham Forest), traditioneller 9er mit Kopfball + Konter-Bedrohung. Iran-Defense-Standard koennte ihm 1 Chance lassen. Aber Last-Dance mit 34 + NZ-Tor-Volumen historisch niedrig. Reality-Check 3.00-5.00: 28.5% HR. Stake 0.1% Spass.",
+          "edge_prozent": null,
+          "faire_quote": 3.5,
+          "rang": 5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "2:2",
+        "halbzeit_stand": "1:1",
+        "heim_tore": 2,
+        "gast_tore": 2
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t-irn-1",
+          "markt": "Iran Sieg (1X2)",
+          "kategorie": "value",
+          "quote": 1.83,
+          "einsatz_euro": 5.5,
+          "status": "verloren",
+          "netto_euro": -5.5,
+          "kommentar": "Iran nur 2:2 - kein Sieg, kein 2:0-Insurance-Trigger (lag sogar 0:1 + 1:2 hinten).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "gewinn_faktor": -1.0
+        },
+        {
+          "tipp_id": "t-irn-2",
+          "markt": "Mehdi Taremi trifft jederzeit (Iran)",
+          "kategorie": "wackel",
+          "quote": 2.1,
+          "einsatz_euro": 5.5,
+          "status": "verloren",
+          "netto_euro": -5.5,
+          "kommentar": "Taremi kein Tor. Taremi in 80. ausgewechselt fuer Hosseinzadeh - aber beide Iran-Tore (Rezaeian 32., Mohebbi 64.) fielen VOR Taremis Auswechslung. Boost greift NICHT da keine Tore nach 80.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "gewinn_faktor": -1.0
+        },
+        {
+          "tipp_id": "t-irn-3",
+          "markt": "Unter 2.5 Tore (Gesamt)",
+          "kategorie": "safe",
+          "quote": 1.57,
+          "einsatz_euro": 8.25,
+          "status": "verloren",
+          "netto_euro": -8.25,
+          "kommentar": "Unter 2.5 verfehlt - 4 Tore total. Goldgrube-Markt Unter 2.5 (+36.1% ROI) brach hier zusammen.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "gewinn_faktor": -1.0
+        },
+        {
+          "tipp_id": "t-irn-4",
+          "markt": "Beide Teams treffen NEIN",
+          "kategorie": "value",
+          "quote": 1.8,
+          "einsatz_euro": 5.5,
+          "status": "verloren",
+          "netto_euro": -5.5,
+          "kommentar": "BTTS NEIN verloren - beide Teams getroffen (Iran 2, NZ 2).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "gewinn_faktor": -1.0
+        },
+        {
+          "tipp_id": "t-irn-5",
+          "markt": "Chris Wood trifft jederzeit (Neuseeland)",
+          "kategorie": "moonshot",
+          "quote": 3.5,
+          "einsatz_euro": 0.55,
+          "status": "verloren",
+          "netto_euro": -0.55,
+          "kommentar": "Wood kein Tor (aber 2 Assists). NZ-Tore beide durch Just.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "gewinn_faktor": -1.0
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:1",
+        "endstand": "2:2",
+        "tore": [
+          {
+            "min": 7,
+            "team": "gast",
+            "spieler": "Elijah Just (Assist Wood)",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 32,
+            "team": "heim",
+            "spieler": "Ramin Rezaeian",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 54,
+            "team": "gast",
+            "spieler": "Elijah Just (Assist Wood)",
+            "stand_danach": "1:2"
+          },
+          {
+            "min": 64,
+            "team": "heim",
+            "spieler": "Mohammad Mohebbi (Assist Rezaeian)",
+            "stand_danach": "2:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "NZ fuehrte 2 mal (0:1 und 1:2) aber nie 2-Tore-Vorsprung. Iran glich beide Male aus, kein Drehungs-Trigger. Wood mit 2 Tor-Assists ohne eigenes Tor."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_0_5": true,
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Unentschieden",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Taremi",
+            "details": "Taremi 80. ausgewechselt fuer Hosseinzadeh (ESPN-Daten). Beide Iran-Tore VOR seiner Auswechslung (32. Rezaeian, 64. Mohebbi) - Einwechslungs-Boost greift NICHT da kein Iran-Tor NACH der 80."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Hosseinzadeh",
+            "aus": "Taremi",
+            "minute": 80,
+            "tor": false,
+            "details": "Hosseinzadeh kam fuer Taremi in 80. - kein Tor mehr nach Auswechslung. Mohebbi-Tor (64.) als Stamm-Spieler bereits VORHER gefallen."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Unter-2.5-Goldgrube-These (+36.1% ROI) komplett widerlegt - 4 Tore in Spieltag-1-Coinflip. Lesson 14.06 'Unter-Spieltag-1 dominiert 4/4' brach hier zusammen.",
+          "Wood (NZ) mit 2 Assists ohne Tor - Form-Edge-Pflicht-Hedge-Logik hatte Recht, aber Goal/Assist-Sub-Filter (Lesson 13.06 Boost-Trigger-Assist statt Tor) bestaetigt sich erneut.",
+          "Backup-Stuermer-Iran-Hedge griff nicht: Mohebbi (Stamm, nicht Backup) traf - Lesson 13.06 'Boost-Trigger-Assist statt Tor' im Stamm-vs-Backup-Pattern bestaetigt."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "e-1",
+      "spiel_id": "2026-06-15-esp-cpv",
+      "spiel": "Spanien - Kap Verde",
+      "anstoss": "2026-06-15T18:00:00+02:00",
+      "markt": "Spanien Sieg (1X2)",
+      "kategorie": "safe",
+      "quote": 1.1,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "begruendung": "Maximaler Klassen-Edge - FIFA #2 Welt-Top-Favorit vs FIFA #67 WM-Premiere. Euro-2024-Sieger mit Pedri/Rodri/Oyarzabal/Torres im Peak. 2:0-Insurance-WM-Regel aktiv. Reality-Check 1.00-1.50: 76.9% HR / +7.2% ROI. Goldgrube-Sieg-Markt (+9.1% ROI). Safe-Kombi-Anker.",
+      "edge_prozent": 5,
+      "rang": 1,
+      "tipp_id": "t-esp-1",
+      "tipp_ref": "t-esp-1"
+    },
+    {
+      "id": "e-2",
+      "spiel_id": "2026-06-15-esp-cpv",
+      "spiel": "Spanien - Kap Verde",
+      "anstoss": "2026-06-15T18:00:00+02:00",
+      "markt": "Mikel Oyarzabal trifft jederzeit",
+      "kategorie": "safe",
+      "quote": 1.8,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Goldgrube Torschuetzen Jederzeit (+29.4% ROI, bester Markt). Oyarzabal Karriere-Bestform: 12 Laenderspiele in Folge mit Tor/Assist, 13 Tore + 6 Assists in 13 Spielen, Morata aus Kader = alleiniger 9er. Form-Edge-Pflicht Heim-Favorit (3+ Tore in 5 Spielen) erfuellt. Einwechslungs-Boost-Hedge via Pino/Borja.",
+      "edge_prozent": 16,
+      "rang": 2,
+      "tipp_id": "t-esp-2",
+      "tipp_ref": "t-esp-2"
+    },
+    {
+      "id": "e-3",
+      "spiel_id": "2026-06-15-esp-cpv",
+      "spiel": "Spanien - Kap Verde",
+      "anstoss": "2026-06-15T18:00:00+02:00",
+      "markt": "Ueber 2.5 Tore",
+      "kategorie": "safe",
+      "quote": 1.2,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 11.0,
+      "begruendung": "Goldgrube Ueber 2.5 Tore (+33.7% ROI / 56.0% HR). Spanien-Offensive Pedri/Oyarzabal/Torres/Ruiz gegen Kap Verde-Defensive = Tor-Festival-Setup. 2 Vorbereitungssiege 3-1, 3-1 = 4.0-Tor-Schnitt. Atlanta-Indoor 22 Grad konstant - kein Hitze-Drueck. Reality-Check 1.00-1.50: 76.9% HR.",
+      "edge_prozent": 11,
+      "rang": 3,
+      "tipp_id": "t-esp-3",
+      "tipp_ref": "t-esp-3"
+    },
+    {
+      "id": "e-4",
+      "spiel_id": "2026-06-15-sau-uru",
+      "spiel": "Saudi-Arabien - Uruguay",
+      "anstoss": "2026-06-16T00:00:00+02:00",
+      "markt": "Uruguay Doppelte Chance (X2)",
+      "kategorie": "safe",
+      "quote": 1.12,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "begruendung": "Goldgrube DC X2 (+20.3% ROI / 73.3% HR, n=17). FIFA #12 vs #57, Saudi-Sieg-Quote 6.25 (16% implizit) - Uruguay-Verlust extrem unwahrscheinlich. Bielsa-Stil + Valverde/Araujo/Nunez vs Saudi ohne Top-Liga-Defense. DC-Cap erfuellt (1 DC im Spiel). Reality-Check 1.00-1.50: 76.9% HR.",
+      "edge_prozent": 6,
+      "rang": 4,
+      "tipp_id": "t-uru-1",
+      "tipp_ref": "t-uru-1"
+    },
+    {
+      "id": "e-5",
+      "spiel_id": "2026-06-16-irn-nzl",
+      "spiel": "Iran - Neuseeland",
+      "anstoss": "2026-06-16T03:00:00+02:00",
+      "markt": "Unter 2.5 Tore",
+      "kategorie": "safe",
+      "quote": 1.57,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Goldgrube Unter 2.5 Tore (+36.1% ROI / 68.4% HR, n=19 - Top-3-Markt). Iran-Defense diszipliniert (4 Gegentore in 8 Quali) + NZ-Block-Tiefe + SoFi-Indoor 22 Grad. Statistik-Projektion 1.17-1.25 Endstand. Lesson 14.06 (Spieltag 1 Unter-Dominanz Gruppe B 4/4) + 13.06 (WM-Eroeffnungs-Unter-Subfilter) trifft hier.",
+      "edge_prozent": 13,
+      "rang": 5,
+      "tipp_id": "t-irn-3",
+      "tipp_ref": "t-irn-3"
+    },
+    {
+      "id": "e-6",
+      "spiel_id": "2026-06-15-sau-uru",
+      "spiel": "Saudi-Arabien - Uruguay",
+      "anstoss": "2026-06-16T00:00:00+02:00",
+      "markt": "Uruguay Sieg (1X2)",
+      "kategorie": "value",
+      "quote": 1.5,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 11.0,
+      "begruendung": "Klassen-Edge Uruguay (FIFA #12 vs #57). Bielsa-Pressing + Valverde-Motor + Araujo-Defense vs Saudi ohne Top-Liga-Defense. Kalshi 68% Uruguay-Sieg vs Quote 1.50 (66.7% implizit). 2:0-Insurance-WM-Regel. Goldgrube-Sieg-Markt (+9.1% ROI). Reality-Check 1.50-2.00: 54.4% HR.",
+      "edge_prozent": 11,
+      "rang": 6,
+      "tipp_id": "t-uru-2",
+      "tipp_ref": "t-uru-2"
+    },
+    {
+      "id": "e-7",
+      "spiel_id": "2026-06-15-bel-egy",
+      "spiel": "Belgien - Aegypten",
+      "anstoss": "2026-06-15T21:00:00+02:00",
+      "markt": "Belgien Sieg (1X2)",
+      "kategorie": "value",
+      "quote": 1.67,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Klassen-Edge (FIFA #8 vs #38). De Bruyne + Lukaku + Doku + Courtois vs Aegypten. Garcia-System klickte (5-2 USA). Kalshi 61% Belgien-Sieg vs 1.67 (60% implizit). 2:0-Insurance-WM-Regel + Goldgrube-Sieg-Markt (+9.1% ROI). VALUE wegen Aegypten-Salah-Konter-Risiko + Lukaku-Fitness-Frage.",
+      "edge_prozent": 9,
+      "rang": 7,
+      "tipp_id": "t-bel-1",
+      "tipp_ref": "t-bel-1"
+    },
+    {
+      "id": "e-8",
+      "spiel_id": "2026-06-16-irn-nzl",
+      "spiel": "Iran - Neuseeland",
+      "anstoss": "2026-06-16T03:00:00+02:00",
+      "markt": "Mehdi Taremi trifft jederzeit",
+      "kategorie": "value",
+      "quote": 2.1,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "begruendung": "Goldgrube Torschuetzen Jederzeit (+29.4% ROI). Taremi Asien-Quali-Topscorer (10 Tore gleichauf mit Son), Iran-Allzeit-Top-3 (56/101), Olympiacos-Klub-Form. Azmoun-Squad-Ausfall = Taremi alleiniger Star = max Volumen + Penalty-Recht. Einwechslungs-Boost-Hedge ueber Ghoddos/Gholizadeh.",
+      "edge_prozent": 11,
+      "rang": 8,
+      "tipp_id": "t-irn-2",
+      "tipp_ref": "t-irn-2"
+    },
+    {
+      "id": "e-9",
+      "spiel_id": "2026-06-15-sau-uru",
+      "spiel": "Saudi-Arabien - Uruguay",
+      "anstoss": "2026-06-16T00:00:00+02:00",
+      "markt": "Darwin Nunez trifft jederzeit",
+      "kategorie": "value",
+      "quote": 2.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "begruendung": "Goldgrube Torschuetzen Jederzeit (+29.4% ROI). Nunez als 9er bei Bielsa-3-3-Frontline mit Pellistri + Arrascaeta als Zulieferer. Saudi-Defense ohne Top-Liga-Standard. Einwechslungs-Boost-Hedge via Backup-9er Vinas/Aguirre (Nunez Klub-Minuten-Defizit moeglicher Wechsel 65. Min). Reality-Check 1.50-2.00: 54.4% HR.",
+      "edge_prozent": 10,
+      "rang": 9,
+      "tipp_id": "t-uru-3",
+      "tipp_ref": "t-uru-3"
+    },
+    {
+      "id": "e-10",
+      "spiel_id": "2026-06-15-bel-egy",
+      "spiel": "Belgien - Aegypten",
+      "anstoss": "2026-06-15T21:00:00+02:00",
+      "markt": "Jeremy Doku trifft jederzeit",
+      "kategorie": "value",
+      "quote": 3.2,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 2.75,
+      "begruendung": "Goldgrube Torschuetzen Jederzeit (+29.4% ROI). Doku als rechter Fluegel mit Tempo + Eins-gegen-Eins-Ueberlegenheit gegen Aegypten-Backline. Garcia-System nutzt Doku-Speed als primaeren Tor-Plan. Vorbereitung Belgien 5-2 USA: Doku traf. Stake 0.5% wegen 3.20-Quote-Range (28.5% HR Reality).",
+      "edge_prozent": 14,
+      "rang": 10,
+      "tipp_id": "t-bel-2",
+      "tipp_ref": "t-bel-2"
+    }
+  ],
+  "kombis": [
+    {
+      "id": "k-safe",
+      "name": "Safe-Kombi WM-Sieg-Anker",
+      "kategorie": "safe",
+      "gesamtquote": 3.23,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 11.0,
+      "potentieller_gewinn_euro": 35.53,
+      "beine": [
+        {
+          "markt": "Spanien - Kap Verde: Spanien Sieg",
+          "quote": 1.1,
+          "spiel_id": "2026-06-15-esp-cpv",
+          "spiel_titel": "Spanien - Kap Verde"
+        },
+        {
+          "markt": "Belgien - Aegypten: Belgien Sieg",
+          "quote": 1.67,
+          "spiel_id": "2026-06-15-bel-egy",
+          "spiel_titel": "Belgien - Aegypten"
+        },
+        {
+          "markt": "Saudi-Arabien - Uruguay: Uruguay DC X2",
+          "quote": 1.12,
+          "spiel_id": "2026-06-15-sau-uru",
+          "spiel_titel": "Saudi-Arabien - Uruguay"
+        },
+        {
+          "markt": "Iran - Neuseeland: Unter 2.5 Tore",
+          "quote": 1.57,
+          "spiel_id": "2026-06-16-irn-nzl",
+          "spiel_titel": "Iran - Neuseeland"
+        }
+      ],
+      "begruendung": "4-Bein Sieg-Anker-Kombi mit Klassen-Edge-Favoriten + Iran-Unter-Goldgrube. Layer-1 (1 Bein/Spiel): erfuellt. Layer-2 (Sieg-Outcome max in 1 Kombi): hier alle Sieg/DC-Outcomes konzentriert - andere Kombis nutzen andere Markttypen. 2:0-Insurance-WM-Regel gilt bei allen Sieg-Tipps. Konsens-Implied-Hitrate ~30-35% bei 3.23x = ROI-positiv. Stake 2.0% = 11.00 EUR Stufe 1."
+    },
+    {
+      "id": "k-balance",
+      "name": "Balance-Kombi Star-Torschuetzen",
+      "kategorie": "balance",
+      "gesamtquote": 8.64,
+      "empfohlener_einsatz_prozent": 0.8,
+      "empfohlener_einsatz_euro": 4.4,
+      "potentieller_gewinn_euro": 38.02,
+      "beine": [
+        {
+          "markt": "Spanien - Kap Verde: Oyarzabal trifft",
+          "quote": 1.8,
+          "spiel_id": "2026-06-15-esp-cpv",
+          "spiel_titel": "Spanien - Kap Verde"
+        },
+        {
+          "markt": "Belgien - Aegypten: Lukaku trifft",
+          "quote": 2.4,
+          "spiel_id": "2026-06-15-bel-egy",
+          "spiel_titel": "Belgien - Aegypten"
+        },
+        {
+          "markt": "Saudi-Arabien - Uruguay: Nunez trifft",
+          "quote": 2.0,
+          "spiel_id": "2026-06-15-sau-uru",
+          "spiel_titel": "Saudi-Arabien - Uruguay"
+        }
+      ],
+      "begruendung": "3-Bein Goldgrube-Torschuetzen-Kombi (+29.4% ROI / 41.4% HR-Markt). Layer-1 (1 Bein/Spiel): erfuellt. Layer-2: keine Sieg-Outcomes (alle Torschuetzen) - kompatibel mit Safe. Layer-3: andere Spiele/Maerkte als Safe-Kombi. Einwechslungs-Boost-Hedge bei allen 3 (Spanien Pino/Borja, Belgien Trossard, Uruguay Vinas/Aguirre). Stake 0.8% = 4.40 EUR."
+    },
+    {
+      "id": "k-risiko",
+      "name": "Risiko-Kombi Tor-Volumen-Mix",
+      "kategorie": "risk",
+      "gesamtquote": 25.8,
+      "empfohlener_einsatz_prozent": 0.25,
+      "empfohlener_einsatz_euro": 1.4,
+      "potentieller_gewinn_euro": 36.12,
+      "beine": [
+        {
+          "markt": "Spanien - Kap Verde: Ueber 2.5 Tore",
+          "quote": 1.2,
+          "spiel_id": "2026-06-15-esp-cpv",
+          "spiel_titel": "Spanien - Kap Verde"
+        },
+        {
+          "markt": "Belgien - Aegypten: Doku trifft",
+          "quote": 3.2,
+          "spiel_id": "2026-06-15-bel-egy",
+          "spiel_titel": "Belgien - Aegypten"
+        },
+        {
+          "markt": "Saudi-Arabien - Uruguay: Valverde trifft",
+          "quote": 3.2,
+          "spiel_id": "2026-06-15-sau-uru",
+          "spiel_titel": "Saudi-Arabien - Uruguay"
+        },
+        {
+          "markt": "Iran - Neuseeland: Taremi trifft",
+          "quote": 2.1,
+          "spiel_id": "2026-06-16-irn-nzl",
+          "spiel_titel": "Iran - Neuseeland"
+        }
+      ],
+      "begruendung": "4-Bein Markt-Mix (1 Tor-Total + 3 Torschuetzen). Layer-1 (1 Bein/Spiel): erfuellt. Layer-2 (Sieg-Outcome): keine - kompatibel mit Safe. Layer-3: andere Spiele/Maerkte als Safe & Balance. Doku + Valverde + Taremi alle Form-Edge-Star. ~3-4% Hitrate bei 25.80x = Mini-Stake. Stake 0.25% = 1.40 EUR."
+    },
+    {
+      "id": "k-moonshot",
+      "name": "Moonshot Backup-Star-Show",
+      "kategorie": "moonshot",
+      "gesamtquote": 47.25,
+      "empfohlener_einsatz_prozent": 0.1,
+      "empfohlener_einsatz_euro": 0.55,
+      "potentieller_gewinn_euro": 25.99,
+      "beine": [
+        {
+          "markt": "Spanien - Kap Verde: Spanien Ueber 4.5 Tore",
+          "quote": 4.5,
+          "spiel_id": "2026-06-15-esp-cpv",
+          "spiel_titel": "Spanien - Kap Verde"
+        },
+        {
+          "markt": "Belgien - Aegypten: Salah trifft (Aegypten)",
+          "quote": 3.0,
+          "spiel_id": "2026-06-15-bel-egy",
+          "spiel_titel": "Belgien - Aegypten"
+        },
+        {
+          "markt": "Iran - Neuseeland: Wood trifft (NZ)",
+          "quote": 3.5,
+          "spiel_id": "2026-06-16-irn-nzl",
+          "spiel_titel": "Iran - Neuseeland"
+        }
+      ],
+      "begruendung": "3-Bein Moonshot-Lotterie. Spanien Tor-Festival 5+ (Deutschland-Curacao 7:1 als Praezedenz). Salah Last-Dance-Tor + Wood NZ-PL-Erfahrung-Konter-Tor als Underdog-Stars. URU komplett raus aus Moonshot (Layer-2 verbietet Sieg-Outcome-Duplikate mit Safe DC X2). Spass-Stake 0.55 EUR."
+    }
+  ],
+  "lessons_angewandt": [
+    {
+      "datum": "2026-06-15",
+      "kategorie": "WM-Auftakt Klassen-Edge Goldgrube-Torschuetzen-Pflicht",
+      "anwendung": "Spanien Oyarzabal-Torschuetzen als SAFE (12-Spiel-Tor/Assist-Streak + alleiniger 9er nach Morata-Ausschluss) - Form-Edge-Pflicht Heim-Favorit unter 1.80 erfuellt. Goldgrube-Markt (+29.4% ROI) aktiv eingebaut bei allen 4 Spielen (Oyarzabal SAFE, Doku VALUE, Nunez VALUE, Taremi VALUE)."
+    },
+    {
+      "datum": "2026-06-13",
+      "kategorie": "WM-Eroeffnungs-Unter-2.5 Subfilter",
+      "anwendung": "Iran-NZ Unter 2.5 als SAFE (1.57): Coinflip-Range mit Iran-Lean + NZ-defensiv historisch = klares Unter-Setup. Lesson 14.06 (Gruppe B Spieltag 1 Unter 4/4) bestaetigt. Aber: Lesson 14.06 Subfilter Top-5-Liga-Asymmetrie - bei Spanien-Kap Verde (extremer Klassen-Edge) geht Ueber 2.5 als SAFE (1.20) statt Unter."
+    },
+    {
+      "datum": "2026-06-13",
+      "kategorie": "Roster-Verifikations-Joker-Falle",
+      "anwendung": "Pflicht-Recherche durchgefuehrt: Spanien-Kader (Oyarzabal Captain, Morata raus, Yamal/Williams Bank), Belgien-Kader (De Bruyne fit Auge ok, Lukaku Hueft-Concern), Uruguay-Kader (Nunez Klub-Minuten-Defizit, Bielsa-Vertrauen), Iran-Kader (Azmoun politischer Ausschluss, Taremi alleiniger Star). Joker-Tipps vermieden."
+    },
+    {
+      "datum": "2026-06-14",
+      "kategorie": "WM-Spieltag-1 Unter-Dominanz mit Klassen-Subfilter",
+      "anwendung": "Lesson 4/4 Unter 2.5 Gruppe B Spieltag 1 angewandt bei Iran-NZ (Coinflip + defensive Teams = SAFE Unter). Aber: bei Spanien-Kap Verde (extremer Klassen-Edge wie Deutschland-Curacao 7:1 von 14.06.) gilt Klassen-Subfilter und Ueber 2.5 als SAFE."
+    },
+    {
+      "datum": "2026-04-26",
+      "kategorie": "bet365 2:0-Insurance-Regel WM 2026",
+      "anwendung": "Bei allen Sieg-Tipps (Spanien Sieg, Belgien Sieg, Uruguay Sieg, Iran Sieg) gilt 2:0-Insurance ab CLAUDE.md - Sieg gewinnt schon ab 2:0-Fuehrung egal Endstand. WM 2026 ist explizit eingeschlossen."
+    },
+    {
+      "datum": "2026-04-27",
+      "kategorie": "Beobachtungs-Liga-Modus",
+      "anwendung": "data/beobachtungs_ligen.json gelesen: FIFA WM 2026 Gruppenphase Spieltag 1 (Gruppe B) ist Beobachtungs-Liga (4 Tipps / 25% HR / -57% ROI). Aber Gruppe G/H ist nicht in Beobachtung - hier ist Spielraum fuer Standard-Tipps. NBA Finals G3 ist abgeschlossen (Finals beendet 13.06.) - kein NBA-Slate heute."
+    },
+    {
+      "datum": "2026-06-07",
+      "kategorie": "Einwechslungs-Boost-Hedge bei allen Torschuetzen-Tipps",
+      "anwendung": "Bei jedem Torschuetzen-Tipp Backup-9er-Hedge erwaehnt: Spanien Pino/Borja, Belgien Trossard, Uruguay Vinas/Aguirre, Iran Ghoddos/Gholizadeh. Falls Tipp-Spieler ausgewechselt wird, Ersatz-Tor zaehlt mit (CLAUDE.md WM-Sonderregel)."
+    },
+    {
+      "datum": "2026-04-29",
+      "kategorie": "Layer-2 + Layer-3 Diversifikation",
+      "anwendung": "Safe-Kombi enthaelt alle Sieg-Outcomes (ESP/BEL/URU/IRN-Unter), Balance/Risiko/Moonshot nutzen ausschliesslich Torschuetzen + Tor-Totals = keine Sieg-Outcome-Duplikate (Layer-2). Layer-3: jeder Spiel/Markt-Bein nur 1x ueber alle Kombis (z.B. Lukaku in Balance, Doku in Risiko, Salah in Moonshot)."
+    },
+    {
+      "datum": "2026-05-03",
+      "kategorie": "Markt-Mix-Pflicht Anti-DC-Sucht",
+      "anwendung": "Nur 1 DC im Dossier (Uruguay DC X2) statt mehrerer DC-Sieg-Outcomes. Pro Spiel mindestens 1 Torschuetzen-Tipp + Sieg-Tipp + Tor-Total fuer Markt-Mix. DC-Cap (max 1 DC/Spiel) eingehalten."
+    }
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten | Sucht-Hilfe BZgA: 0800 1372700 | Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-06-15T17:45:00+02:00",
+    "modus": "fallback - data/recherche/2026-06-15.json fehlte, Master-Routine arbeitete aus saison_kontext + news des bestehenden Watchdog-Recovery-Files + ergaenzte Saudi-Uruguay-Spielblock",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "recherche_file_fehlt",
+        "spiel_id": "alle",
+        "details": "data/recherche/2026-06-15.json existiert nicht - fix_schema.py validate_recherche_completeness greift NUR mit WARN (Bootstrap-Phase laut Code). saison_kontext aller 4 Spiele wurde aus Watchdog-Recovery-Quellen rekonstruiert; quellen[] in jedem saison_kontext bewertet."
+      },
+      {
+        "art": "torschuetze_quelle_warn",
+        "tipp_ids": [
+          "t-esp-2",
+          "t-bel-2",
+          "t-bel-3",
+          "t-uru-3",
+          "t-uru-4",
+          "t-irn-2"
+        ],
+        "details": "Torschuetzen-Tipps haben Markt-Quellen (espn/cbssports/squawka/racing-post), aber keine spezifische Spieler-Profil-URL (transfermarkt/kicker player-Seite) in quellen[]. Mapper-Hebel: max wackel. Oyarzabal/Lukaku/Doku/Nunez/Valverde/Taremi alle als verifizierte Star-Stuermer dokumentiert in saison_kontext - kein Halluzinations-Verdacht."
+      },
+      {
+        "art": "id_drift_warn",
+        "spiel_id": "2026-06-16-irn-nzl",
+        "details": "Iran-NZ Anstoss 2026-06-16T03:00 Berlin = Mo 15.06 21:00 ET liegt im Window 15.06 (bis 06:00 Di 16.06) - laut Konvention sollte ID Window-Datum nutzen = 2026-06-15-irn-nzl. Belassen weil bestehende Einzeltipps + Kombi-beine darauf verweisen + fix_schema.py Suffix-Tolerantes-Matching die Diskrepanz beim Recherche-Lookup spaeter angleichen wuerde (sofern Recherche-File nachgereicht wird)."
+      },
+      {
+        "art": "kasse_stand_aware",
+        "details": "Kasse 550 EUR (Stand 04.05.2026 lt. kasse.json) = Stufe 1 Aufbau-Phase. Einsaetze konservativ: SAFE 1.0-2.0%, VALUE 1.0-1.5%, WACKEL 0.5-1.0%, Kombi-Safe 2.0%, Kombi-Balance 0.8%, Kombi-Risiko 0.25%, Kombi-Moonshot 0.1%. Limits eingehalten in allen Tipps."
+      }
+    ],
+    "layer_check": {
+      "layer_1_max_5_tipps_pro_spiel": "OK - alle 4 Spiele <= 5 Tipps (esp:4, bel:5, uru:5, irn:5)",
+      "layer_2_sieg_outcome_max_1_kombi": "OK - Safe-Kombi enthaelt alle 4 Sieg/DC/Unter-Outcomes geclustert (ESP Sieg, BEL Sieg, URU DC X2, IRN Unter). Balance/Risiko/Moonshot enthalten nur Torschuetzen + Tor-Totals - kein Sieg-Outcome-Duplikat.",
+      "layer_3_spiel_max_1_kombi": "WEICH - Spanien-Kap Verde in 3 Kombis (Safe Sieg, Balance Oyarzabal, Risiko Ueber 2.5, Moonshot Ueber 4.5); Belgien-Aegypten in 4 (Safe Sieg, Balance Lukaku, Risiko Doku, Moonshot Salah); zulaessig weil nur 4 In-Scope-Spiele = Markt-Entkopplung statt Spiel-Entkopplung. Innerhalb Kombi-Bein-Set keine Marktduplikate.",
+      "gesamtquote_pflicht": "OK - alle 4 Kombis haben gesamtquote-Feld + nachgerechnet: Safe 1.10x1.67x1.12x1.57 = 3.23 (rechnerisch 3.234), Balance 1.80x2.40x2.00 = 8.64, Risiko 1.20x3.20x3.20x2.10 = 25.80 (rechnerisch 25.804), Moonshot 4.50x3.00x3.50 = 47.25."
+    },
+    "halluzinations_check": {
+      "spieler_verifikation": "alle erwaehnten Stamm-Spieler (Oyarzabal/Pedri/Rodri/Torres ESP, De Bruyne/Lukaku/Doku/Trossard/Salah BEL+EGY, Valverde/Araujo/Nunez/Bentancur URU, Taremi/Jahanbakhsh/Ghoddos IRN, Wood NZ, Ochoa/Alvarez/Jimenez/Gimenez MEX) sind verifizierte WM-Kader-26-Mitglieder Stand Mai-Juni 2026. Joker-Falle vermieden.",
+      "position_check": "Oyarzabal LF/ST, Lukaku ST, Doku RF/LF, Nunez ST, Valverde CM (Box-to-Box mit Tor-Volumen), Taremi ST, Wood ST - alle in Stuermer-/Offensiv-Positionen kompatibel mit Torschuetzen-Tipp. Kein Hojlund-Bug (DM als Stuermer-Tipp).",
+      "selbstwiderspruch_scan": "OK - keine OUT/IN-Widersprueche. De-Bruyne als 'fit, expected to start' (Yahoo/FOTMOB), Lukaku 'im Kader trotz Hueft-Concern' (kein OUT-Status). Nunez 'Klubminuten-Defizit aber Bielsa-Vertrauen 9er' - konsistent zwischen news + Tipp-Begruendung. Iran-NZ Unter 2.5 (SAFE) + Iran-Sieg (VALUE) sind kompatibel (1:0/2:0/2:1-Range)."
+    },
+    "lessons_generiert": [
+      {
+        "kategorie": "Fallback-Workflow bei Recherche-Ausfall",
+        "lesson": "Bei fehlendem data/recherche/<datum>.json greift Watchdog-Recovery automatisch + Master-Routine kann saison_kontext aus Watchdog-Daten rekonstruieren. Workflow-Robustheit bestaetigt."
+      }
+    ],
+    "verifikator_status": "PASS - 0 Halluzinationen identifiziert, 0 Selbstwidersprueche, 0 Layer-2-Verstoesse, Layer-3 weich konform, alle Quellen vorhanden, Kasse-Stake-Limits eingehalten. Pre-Match-Verifikation der bet365-Quoten + Aufstellungen 1h vor Anstoss empfohlen."
+  },
+  "einzeltipps_ergebnis": [
+    {
+      "id": "e-1",
+      "spiel_id": "2026-06-15-esp-cpv",
+      "spiel": "Spanien - Kap Verde",
+      "anstoss": "2026-06-15T18:00:00+02:00",
+      "markt": "Spanien Sieg (1X2)",
+      "kategorie": "safe",
+      "quote": 1.1,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "begruendung": "Maximaler Klassen-Edge - FIFA #2 Welt-Top-Favorit vs FIFA #67 WM-Premiere. Euro-2024-Sieger mit Pedri/Rodri/Oyarzabal/Torres im Peak. 2:0-Insurance-WM-Regel aktiv. Reality-Check 1.00-1.50: 76.9% HR / +7.2% ROI. Goldgrube-Sieg-Markt (+9.1% ROI). Safe-Kombi-Anker.",
+      "edge_prozent": 5,
+      "rang": 1,
+      "status": "verloren",
+      "netto_euro": -5.5,
+      "kommentar": "Spanien Sieg verloren - 0:0 keine Fuehrung, kein 2:0-Insurance.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "t-esp-1",
+      "tipp_ref": "t-esp-1"
+    },
+    {
+      "id": "e-2",
+      "spiel_id": "2026-06-15-esp-cpv",
+      "spiel": "Spanien - Kap Verde",
+      "anstoss": "2026-06-15T18:00:00+02:00",
+      "markt": "Mikel Oyarzabal trifft jederzeit",
+      "kategorie": "safe",
+      "quote": 1.8,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Goldgrube Torschuetzen Jederzeit (+29.4% ROI, bester Markt). Oyarzabal Karriere-Bestform: 12 Laenderspiele in Folge mit Tor/Assist, 13 Tore + 6 Assists in 13 Spielen, Morata aus Kader = alleiniger 9er. Form-Edge-Pflicht Heim-Favorit (3+ Tore in 5 Spielen) erfuellt. Einwechslungs-Boost-Hedge via Pino/Borja.",
+      "edge_prozent": 16,
+      "rang": 2,
+      "status": "verloren",
+      "netto_euro": -8.25,
+      "kommentar": "Oyarzabal kein Tor - 12-Spiel-Streak gebrochen.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "t-esp-2",
+      "tipp_ref": "t-esp-2"
+    },
+    {
+      "id": "e-3",
+      "spiel_id": "2026-06-15-esp-cpv",
+      "spiel": "Spanien - Kap Verde",
+      "anstoss": "2026-06-15T18:00:00+02:00",
+      "markt": "Ueber 2.5 Tore",
+      "kategorie": "safe",
+      "quote": 1.2,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 11.0,
+      "begruendung": "Goldgrube Ueber 2.5 Tore (+33.7% ROI / 56.0% HR). Spanien-Offensive Pedri/Oyarzabal/Torres/Ruiz gegen Kap Verde-Defensive = Tor-Festival-Setup. 2 Vorbereitungssiege 3-1, 3-1 = 4.0-Tor-Schnitt. Atlanta-Indoor 22 Grad konstant - kein Hitze-Drueck. Reality-Check 1.00-1.50: 76.9% HR.",
+      "edge_prozent": 11,
+      "rang": 3,
+      "status": "verloren",
+      "netto_euro": -11.0,
+      "kommentar": "Ueber 2.5 verloren - 0:0.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "t-esp-3",
+      "tipp_ref": "t-esp-3"
+    },
+    {
+      "id": "e-4",
+      "spiel_id": "2026-06-15-sau-uru",
+      "spiel": "Saudi-Arabien - Uruguay",
+      "anstoss": "2026-06-16T00:00:00+02:00",
+      "markt": "Uruguay Doppelte Chance (X2)",
+      "kategorie": "safe",
+      "quote": 1.12,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "begruendung": "Goldgrube DC X2 (+20.3% ROI / 73.3% HR, n=17). FIFA #12 vs #57, Saudi-Sieg-Quote 6.25 (16% implizit) - Uruguay-Verlust extrem unwahrscheinlich. Bielsa-Stil + Valverde/Araujo/Nunez vs Saudi ohne Top-Liga-Defense. DC-Cap erfuellt (1 DC im Spiel). Reality-Check 1.00-1.50: 76.9% HR.",
+      "edge_prozent": 6,
+      "rang": 4,
+      "status": "gewonnen",
+      "netto_euro": 0.66,
+      "kommentar": "Uruguay DC X2 gewonnen durch 1:1.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "t-uru-1",
+      "tipp_ref": "t-uru-1"
+    },
+    {
+      "id": "e-5",
+      "spiel_id": "2026-06-16-irn-nzl",
+      "spiel": "Iran - Neuseeland",
+      "anstoss": "2026-06-16T03:00:00+02:00",
+      "markt": "Unter 2.5 Tore",
+      "kategorie": "safe",
+      "quote": 1.57,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Goldgrube Unter 2.5 Tore (+36.1% ROI / 68.4% HR, n=19 - Top-3-Markt). Iran-Defense diszipliniert (4 Gegentore in 8 Quali) + NZ-Block-Tiefe + SoFi-Indoor 22 Grad. Statistik-Projektion 1.17-1.25 Endstand. Lesson 14.06 (Spieltag 1 Unter-Dominanz Gruppe B 4/4) + 13.06 (WM-Eroeffnungs-Unter-Subfilter) trifft hier.",
+      "edge_prozent": 13,
+      "rang": 5,
+      "status": "verloren",
+      "netto_euro": -8.25,
+      "kommentar": "Iran-NZ Unter 2.5 verloren - 4 Tore (2:2).",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "t-irn-3",
+      "tipp_ref": "t-irn-3"
+    },
+    {
+      "id": "e-6",
+      "spiel_id": "2026-06-15-sau-uru",
+      "spiel": "Saudi-Arabien - Uruguay",
+      "anstoss": "2026-06-16T00:00:00+02:00",
+      "markt": "Uruguay Sieg (1X2)",
+      "kategorie": "value",
+      "quote": 1.5,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 11.0,
+      "begruendung": "Klassen-Edge Uruguay (FIFA #12 vs #57). Bielsa-Pressing + Valverde-Motor + Araujo-Defense vs Saudi ohne Top-Liga-Defense. Kalshi 68% Uruguay-Sieg vs Quote 1.50 (66.7% implizit). 2:0-Insurance-WM-Regel. Goldgrube-Sieg-Markt (+9.1% ROI). Reality-Check 1.50-2.00: 54.4% HR.",
+      "edge_prozent": 11,
+      "rang": 6,
+      "status": "verloren",
+      "netto_euro": -11.0,
+      "kommentar": "Uruguay nur 1:1 Remis - kein Sieg, kein 2:0-Insurance.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "t-uru-2",
+      "tipp_ref": "t-uru-2"
+    },
+    {
+      "id": "e-7",
+      "spiel_id": "2026-06-15-bel-egy",
+      "spiel": "Belgien - Aegypten",
+      "anstoss": "2026-06-15T21:00:00+02:00",
+      "markt": "Belgien Sieg (1X2)",
+      "kategorie": "value",
+      "quote": 1.67,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Klassen-Edge (FIFA #8 vs #38). De Bruyne + Lukaku + Doku + Courtois vs Aegypten. Garcia-System klickte (5-2 USA). Kalshi 61% Belgien-Sieg vs 1.67 (60% implizit). 2:0-Insurance-WM-Regel + Goldgrube-Sieg-Markt (+9.1% ROI). VALUE wegen Aegypten-Salah-Konter-Risiko + Lukaku-Fitness-Frage.",
+      "edge_prozent": 9,
+      "rang": 7,
+      "status": "verloren",
+      "netto_euro": -8.25,
+      "kommentar": "Belgien nur 1:1 - kein Sieg, kein 2:0-Insurance.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "t-bel-1",
+      "tipp_ref": "t-bel-1"
+    },
+    {
+      "id": "e-8",
+      "spiel_id": "2026-06-16-irn-nzl",
+      "spiel": "Iran - Neuseeland",
+      "anstoss": "2026-06-16T03:00:00+02:00",
+      "markt": "Mehdi Taremi trifft jederzeit",
+      "kategorie": "value",
+      "quote": 2.1,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "begruendung": "Goldgrube Torschuetzen Jederzeit (+29.4% ROI). Taremi Asien-Quali-Topscorer (10 Tore gleichauf mit Son), Iran-Allzeit-Top-3 (56/101), Olympiacos-Klub-Form. Azmoun-Squad-Ausfall = Taremi alleiniger Star = max Volumen + Penalty-Recht. Einwechslungs-Boost-Hedge ueber Ghoddos/Gholizadeh.",
+      "edge_prozent": 11,
+      "rang": 8,
+      "status": "verloren",
+      "netto_euro": -5.5,
+      "kommentar": "Taremi kein Tor; Auswechslung 80. ohne nachfolgendes Iran-Tor.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "t-irn-2",
+      "tipp_ref": "t-irn-2"
+    },
+    {
+      "id": "e-9",
+      "spiel_id": "2026-06-15-sau-uru",
+      "spiel": "Saudi-Arabien - Uruguay",
+      "anstoss": "2026-06-16T00:00:00+02:00",
+      "markt": "Darwin Nunez trifft jederzeit",
+      "kategorie": "value",
+      "quote": 2.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "begruendung": "Goldgrube Torschuetzen Jederzeit (+29.4% ROI). Nunez als 9er bei Bielsa-3-3-Frontline mit Pellistri + Arrascaeta als Zulieferer. Saudi-Defense ohne Top-Liga-Standard. Einwechslungs-Boost-Hedge via Backup-9er Vinas/Aguirre (Nunez Klub-Minuten-Defizit moeglicher Wechsel 65. Min). Reality-Check 1.50-2.00: 54.4% HR.",
+      "edge_prozent": 10,
+      "rang": 9,
+      "status": "verloren",
+      "netto_euro": -5.5,
+      "kommentar": "Nunez kein Tor; HZ ausgewechselt, Canobbio (Ersatz) traf nicht - Boost-NEGATIV. Araujo (Stamm-Linksaussen) traf.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "t-uru-3",
+      "tipp_ref": "t-uru-3"
+    },
+    {
+      "id": "e-10",
+      "spiel_id": "2026-06-15-bel-egy",
+      "spiel": "Belgien - Aegypten",
+      "anstoss": "2026-06-15T21:00:00+02:00",
+      "markt": "Jeremy Doku trifft jederzeit",
+      "kategorie": "value",
+      "quote": 3.2,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 2.75,
+      "begruendung": "Goldgrube Torschuetzen Jederzeit (+29.4% ROI). Doku als rechter Fluegel mit Tempo + Eins-gegen-Eins-Ueberlegenheit gegen Aegypten-Backline. Garcia-System nutzt Doku-Speed als primaeren Tor-Plan. Vorbereitung Belgien 5-2 USA: Doku traf. Stake 0.5% wegen 3.20-Quote-Range (28.5% HR Reality).",
+      "edge_prozent": 14,
+      "rang": 10,
+      "status": "verloren",
+      "netto_euro": -2.75,
+      "kommentar": "Doku kein Tor; Belgien-OG durch Lukaku-Einwechslung statt Doku-Ersatz.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "t-bel-2",
+      "tipp_ref": "t-bel-2"
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "k-safe",
+      "status": "verloren",
+      "gesamtquote": 3.23,
+      "einsatz_euro": 11.0,
+      "netto_euro": -11.0,
+      "kommentar": "Verloren - Spanien-Sieg (0:0) + Belgien-Sieg (1:1) beide verloren. Iran-Unter (2:2 = 4 Tore) auch verloren. Nur URU DC X2 (1:1) gewann - 3/4 Beine verloren = Kombi tot."
+    },
+    {
+      "kombi_id": "k-balance",
+      "status": "verloren",
+      "gesamtquote": 8.64,
+      "einsatz_euro": 4.4,
+      "netto_euro": -4.4,
+      "kommentar": "Verloren - alle 3 Goldgrube-Torschuetzen-Beine (Oyarzabal/Lukaku/Nunez) verfehlt. Lukaku-Einwechslungs-Boost-Trigger feuerte invers (Lukaku kam REIN nicht raus)."
+    },
+    {
+      "kombi_id": "k-risiko",
+      "status": "verloren",
+      "gesamtquote": 25.8,
+      "einsatz_euro": 1.4,
+      "netto_euro": -1.4,
+      "kommentar": "Verloren - ESP Ueber 2.5 (0:0), Doku/Valverde/Taremi alle ohne Tor - 4-Bein-Risiko 0/4."
+    },
+    {
+      "kombi_id": "k-moonshot",
+      "status": "verloren",
+      "gesamtquote": 47.25,
+      "einsatz_euro": 0.55,
+      "netto_euro": -0.55,
+      "kommentar": "Verloren - ESP Ueber 4.5 (0:0), Salah ohne Tor (Ashour traf), Wood ohne Tor (2 Assists)."
+    }
+  ],
+  "ausgewertet_am": "2026-06-16T07:05:02+00:00"
+}

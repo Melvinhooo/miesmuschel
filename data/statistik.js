@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-06-15T07:16:02+00:00",
+  "letzte_berechnung": "2026-06-16T07:14:55+00:00",
   "gesamt": {
-    "tipps": 354,
-    "gewonnen": 194,
-    "verloren": 149,
+    "tipps": 364,
+    "gewonnen": 195,
+    "verloren": 158,
     "push": 2,
     "offen": 9,
-    "einsatz": 345.0,
-    "netto": 44.37,
-    "trefferquote": 56.6,
-    "roi_prozent": 12.9
+    "einsatz": 355.0,
+    "netto": 35.49,
+    "trefferquote": 55.2,
+    "roi_prozent": 10.0
   },
   "letzte_30_tage": {
-    "tipps": 129,
-    "gewonnen": 66,
-    "verloren": 52,
+    "tipps": 128,
+    "gewonnen": 65,
+    "verloren": 61,
     "push": 2,
-    "offen": 9,
-    "einsatz": 120.0,
-    "netto": 23.05,
-    "trefferquote": 55.9,
-    "roi_prozent": 19.2
+    "offen": 0,
+    "einsatz": 128.0,
+    "netto": 14.17,
+    "trefferquote": 51.6,
+    "roi_prozent": 11.1
   },
   "letzte_90_tage": {
-    "tipps": 354,
-    "gewonnen": 194,
-    "verloren": 149,
+    "tipps": 364,
+    "gewonnen": 195,
+    "verloren": 158,
     "push": 2,
     "offen": 9,
-    "einsatz": 345.0,
-    "netto": 44.37,
-    "trefferquote": 56.6,
-    "roi_prozent": 12.9
+    "einsatz": 355.0,
+    "netto": 35.49,
+    "trefferquote": 55.2,
+    "roi_prozent": 10.0
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -617,6 +617,39 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 6.75,
       "trefferquote": 60.0,
       "roi_prozent": 135.0
+    },
+    "FIFA World Cup 2026 - Gruppe H - Spieltag 1": {
+      "tipps": 6,
+      "gewonnen": 1,
+      "verloren": 5,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 6.0,
+      "netto": -4.88,
+      "trefferquote": 16.7,
+      "roi_prozent": -81.3
+    },
+    "FIFA World Cup 2026 - Gruppe (Iran/NZL) - Spieltag 1": {
+      "tipps": 2,
+      "gewonnen": 0,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": -2.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "FIFA World Cup 2026 - Gruppe G - Spieltag 1": {
+      "tipps": 2,
+      "gewonnen": 0,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": -2.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
     }
   },
   "nach_markt": {
@@ -3426,15 +3459,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -100.0
     },
     "Unter 2.5 Tore (Gesamt)": {
-      "tipps": 3,
+      "tipps": 4,
       "gewonnen": 2,
-      "verloren": 1,
+      "verloren": 2,
       "push": 0,
       "offen": 0,
-      "einsatz": 3.0,
-      "netto": 1.52,
-      "trefferquote": 66.7,
-      "roi_prozent": 50.7
+      "einsatz": 4.0,
+      "netto": 0.52,
+      "trefferquote": 50.0,
+      "roi_prozent": 13.0
     },
     "Kanada Sieg (90 Min)": {
       "tipps": 1,
@@ -3569,15 +3602,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 193.0
     },
     "Ueber 2.5 Tore (Gesamt)": {
-      "tipps": 2,
+      "tipps": 3,
       "gewonnen": 2,
-      "verloren": 0,
+      "verloren": 1,
       "push": 0,
       "offen": 0,
-      "einsatz": 2.0,
-      "netto": 3.05,
-      "trefferquote": 100.0,
-      "roi_prozent": 152.5
+      "einsatz": 3.0,
+      "netto": 2.05,
+      "trefferquote": 66.7,
+      "roi_prozent": 68.3
     },
     "Florian Wirtz trifft jederzeit (Deutschland)": {
       "tipps": 1,
@@ -3655,6 +3688,94 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.0,
       "trefferquote": 0.0,
       "roi_prozent": 0.0
+    },
+    "Spanien Sieg (1X2)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Mikel Oyarzabal trifft jederzeit (Spanien)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Uruguay Doppelte Chance (X2)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.12,
+      "trefferquote": 100.0,
+      "roi_prozent": 12.0
+    },
+    "Uruguay Sieg (1X2)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Belgien Sieg (1X2)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Mehdi Taremi trifft jederzeit (Iran)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Darwin Nunez trifft jederzeit (Uruguay)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Jeremy Doku trifft jederzeit (Belgien)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
     }
   },
   "nach_markt_typ": {
@@ -3703,37 +3824,37 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 55.0
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 111,
+      "tipps": 114,
       "gewonnen": 65,
-      "verloren": 45,
+      "verloren": 48,
       "push": 0,
       "offen": 1,
-      "einsatz": 110.0,
-      "netto": 9.99,
-      "trefferquote": 59.1,
-      "roi_prozent": 9.1
+      "einsatz": 113.0,
+      "netto": 6.99,
+      "trefferquote": 57.5,
+      "roi_prozent": 6.2
     },
     "Torschuetzen Jederzeit": {
-      "tipps": 60,
+      "tipps": 64,
       "gewonnen": 24,
-      "verloren": 34,
+      "verloren": 38,
       "push": 2,
       "offen": 0,
-      "einsatz": 60.0,
-      "netto": 17.62,
-      "trefferquote": 41.4,
-      "roi_prozent": 29.4
+      "einsatz": 64.0,
+      "netto": 13.62,
+      "trefferquote": 38.7,
+      "roi_prozent": 21.3
     },
     "Unter 2.5 Tore": {
-      "tipps": 19,
+      "tipps": 20,
       "gewonnen": 13,
-      "verloren": 6,
+      "verloren": 7,
       "push": 0,
       "offen": 0,
-      "einsatz": 19.0,
-      "netto": 6.85,
-      "trefferquote": 68.4,
-      "roi_prozent": 36.1
+      "einsatz": 20.0,
+      "netto": 5.85,
+      "trefferquote": 65.0,
+      "roi_prozent": 29.2
     },
     "Doppelte Chance 1X": {
       "tipps": 22,
@@ -3747,26 +3868,26 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 2.3
     },
     "Doppelte Chance X2": {
-      "tipps": 17,
-      "gewonnen": 11,
+      "tipps": 18,
+      "gewonnen": 12,
       "verloren": 4,
       "push": 0,
       "offen": 2,
-      "einsatz": 15.0,
-      "netto": 3.05,
-      "trefferquote": 73.3,
-      "roi_prozent": 20.3
+      "einsatz": 16.0,
+      "netto": 3.17,
+      "trefferquote": 75.0,
+      "roi_prozent": 19.8
     },
     "Ueber 2.5 Tore": {
-      "tipps": 27,
+      "tipps": 28,
       "gewonnen": 14,
-      "verloren": 11,
+      "verloren": 12,
       "push": 0,
       "offen": 2,
-      "einsatz": 25.0,
-      "netto": 8.43,
-      "trefferquote": 56.0,
-      "roi_prozent": 33.7
+      "einsatz": 26.0,
+      "netto": 7.43,
+      "trefferquote": 53.8,
+      "roi_prozent": 28.6
     },
     "Beide Teams treffen JA": {
       "tipps": 9,
@@ -4145,83 +4266,83 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 174,
+      "tipps": 178,
       "gewonnen": 89,
-      "verloren": 80,
+      "verloren": 84,
       "push": 1,
       "offen": 4,
-      "einsatz": 170.0,
-      "netto": 16.83,
-      "trefferquote": 52.7,
-      "roi_prozent": 9.9
+      "einsatz": 174.0,
+      "netto": 12.83,
+      "trefferquote": 51.4,
+      "roi_prozent": 7.4
     },
     "2.00-3.00": {
-      "tipps": 48,
+      "tipps": 50,
       "gewonnen": 19,
-      "verloren": 27,
+      "verloren": 29,
       "push": 1,
       "offen": 1,
-      "einsatz": 47.0,
-      "netto": 8.74,
-      "trefferquote": 41.3,
-      "roi_prozent": 18.6
+      "einsatz": 49.0,
+      "netto": 6.74,
+      "trefferquote": 39.6,
+      "roi_prozent": 13.8
     },
     "1.00-1.50": {
-      "tipps": 115,
-      "gewonnen": 80,
-      "verloren": 31,
+      "tipps": 118,
+      "gewonnen": 81,
+      "verloren": 33,
       "push": 0,
       "offen": 4,
-      "einsatz": 111.0,
-      "netto": 10.25,
-      "trefferquote": 72.1,
-      "roi_prozent": 9.2
+      "einsatz": 114.0,
+      "netto": 8.37,
+      "trefferquote": 71.1,
+      "roi_prozent": 7.3
     },
     "3.00+": {
-      "tipps": 17,
+      "tipps": 18,
       "gewonnen": 6,
-      "verloren": 11,
+      "verloren": 12,
       "push": 0,
       "offen": 0,
-      "einsatz": 17.0,
-      "netto": 8.55,
-      "trefferquote": 35.3,
-      "roi_prozent": 50.3
+      "einsatz": 18.0,
+      "netto": 7.55,
+      "trefferquote": 33.3,
+      "roi_prozent": 41.9
     }
   },
   "nach_kategorie": {
     "safe": {
-      "tipps": 77,
-      "gewonnen": 52,
-      "verloren": 25,
+      "tipps": 81,
+      "gewonnen": 53,
+      "verloren": 28,
       "push": 0,
       "offen": 0,
-      "einsatz": 77.0,
-      "netto": 3.23,
-      "trefferquote": 67.5,
-      "roi_prozent": 4.2
+      "einsatz": 81.0,
+      "netto": 0.35,
+      "trefferquote": 65.4,
+      "roi_prozent": 0.4
     },
     "value": {
-      "tipps": 212,
+      "tipps": 215,
       "gewonnen": 113,
-      "verloren": 88,
+      "verloren": 91,
       "push": 2,
       "offen": 9,
-      "einsatz": 203.0,
-      "netto": 33.08,
-      "trefferquote": 56.2,
-      "roi_prozent": 16.3
+      "einsatz": 206.0,
+      "netto": 30.08,
+      "trefferquote": 55.4,
+      "roi_prozent": 14.6
     },
     "wackel": {
-      "tipps": 65,
+      "tipps": 68,
       "gewonnen": 29,
-      "verloren": 36,
+      "verloren": 39,
       "push": 0,
       "offen": 0,
-      "einsatz": 65.0,
-      "netto": 8.06,
-      "trefferquote": 44.6,
-      "roi_prozent": 12.4
+      "einsatz": 68.0,
+      "netto": 5.06,
+      "trefferquote": 42.6,
+      "roi_prozent": 7.4
     }
   },
   "clv_gesamt": {
@@ -4263,6 +4384,260 @@ window.__MIESMUSCHEL_STAT = {
     }
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-06-15",
+      "gesamt": {
+        "tipps": 10,
+        "gewonnen": 1,
+        "verloren": 9,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 10.0,
+        "netto": -8.88,
+        "trefferquote": 10.0,
+        "roi_prozent": -88.8
+      },
+      "spiele": [
+        {
+          "id": "2026-06-15-esp-cpv",
+          "liga": "FIFA World Cup 2026 - Gruppe H - Spieltag 1",
+          "heim": "Spanien",
+          "gast": "Kap Verde",
+          "endstand": "0:0",
+          "tipps": [
+            {
+              "markt": "Spanien Sieg (1X2)",
+              "quote": 1.1,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Spanien 0:0 Cape Verde - kein 2:0-Insurance-Trigger (max Saudi-These 0:0 keine Fuehrung). Goldgrube-Sieg-Markt SCHWERER Verlust."
+            },
+            {
+              "markt": "Mikel Oyarzabal trifft jederzeit (Spanien)",
+              "quote": 1.8,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Oyarzabal kein Tor. 12-Spiel-Tor/Assist-Streak gebrochen (Athlon: Unwanted-Record). Kein Einwechslungs-Boost moeglich da keine Spanien-Tore."
+            },
+            {
+              "markt": "Ueber 2.5 Tore (Gesamt)",
+              "quote": 1.2,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Ueber 2.5 verfehlt - 0:0 schluesselt Goldgrube-Markt-These bei Klassen-Edge bei WM-Auftakten."
+            }
+          ]
+        },
+        {
+          "id": "2026-06-15-bel-egy",
+          "liga": "FIFA World Cup 2026 - Gruppe G - Spieltag 1",
+          "heim": "Belgien",
+          "gast": "Aegypten",
+          "endstand": "1:1",
+          "tipps": [
+            {
+              "markt": "Belgien Sieg (1X2)",
+              "quote": 1.67,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Belgien 1:1 Aegypten - kein 2:0-Insurance-Trigger. Belgien lag sogar 0:1 hinten."
+            },
+            {
+              "markt": "Jeremy Doku trifft jederzeit (Belgien)",
+              "quote": 3.2,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Doku kein Tor. Belgien-Tor war OG Hany (66.) durch Lukaku-Einwechslung. Doku-Tipp-Spieler-Auswechslung-Status irrelevant da Belgien-Tor durch OG, nicht durch Doku-Ersatz."
+            }
+          ]
+        },
+        {
+          "id": "2026-06-15-sau-uru",
+          "liga": "FIFA World Cup 2026 - Gruppe H - Spieltag 1",
+          "heim": "Saudi-Arabien",
+          "gast": "Uruguay",
+          "endstand": "1:1",
+          "tipps": [
+            {
+              "markt": "Uruguay Doppelte Chance (X2)",
+              "quote": 1.12,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.12,
+              "kommentar": "Uruguay DC X2 GEWONNEN durch 1:1-Unentschieden - Maxi Araujo Ausgleichs-Tor 80. nach Al-Amri 33. Goldgrube DC X2 (+20.3% ROI) bestaetigt sich erneut - DC-Cushion verhinderte Total-Crash."
+            },
+            {
+              "markt": "Uruguay Sieg (1X2)",
+              "quote": 1.5,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Uruguay nur 1:1 - kein 2:0-Insurance-Trigger (lag sogar 0:1 hinten)."
+            },
+            {
+              "markt": "Darwin Nunez trifft jederzeit (Uruguay)",
+              "quote": 2.0,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Nunez kein Tor. Nunez bei HZ ausgewechselt fuer Canobbio (ineffektiv, 3 Paesse). Maxi Araujo (Stamm-Linksaussen, NICHT direkter Ersatz) traf in 80. - Boost greift NICHT da Canobbio der direkte Ersatz war und selbst nicht traf."
+            }
+          ]
+        },
+        {
+          "id": "2026-06-16-irn-nzl",
+          "liga": "FIFA World Cup 2026 - Gruppe (Iran/NZL) - Spieltag 1",
+          "heim": "Iran",
+          "gast": "Neuseeland",
+          "endstand": "2:2",
+          "tipps": [
+            {
+              "markt": "Mehdi Taremi trifft jederzeit (Iran)",
+              "quote": 2.1,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Taremi kein Tor. Taremi in 80. ausgewechselt fuer Hosseinzadeh - aber beide Iran-Tore (Rezaeian 32., Mohebbi 64.) fielen VOR Taremis Auswechslung. Boost greift NICHT da keine Tore nach 80."
+            },
+            {
+              "markt": "Unter 2.5 Tore (Gesamt)",
+              "quote": 1.57,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Unter 2.5 verfehlt - 4 Tore total. Goldgrube-Markt Unter 2.5 (+36.1% ROI) brach hier zusammen."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi WM-Sieg-Anker",
+          "kategorie": "safe",
+          "gesamtquote": 3.23,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Spanien - Kap Verde: Spanien Sieg",
+              "quote": 1.1,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Belgien - Aegypten: Belgien Sieg",
+              "quote": 1.67,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Saudi-Arabien - Uruguay: Uruguay DC X2",
+              "quote": 1.12,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Iran - Neuseeland: Unter 2.5 Tore",
+              "quote": 1.57,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi Star-Torschuetzen",
+          "kategorie": "balance",
+          "gesamtquote": 8.64,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Spanien - Kap Verde: Oyarzabal trifft",
+              "quote": 1.8,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Belgien - Aegypten: Lukaku trifft",
+              "quote": 2.4,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Saudi-Arabien - Uruguay: Nunez trifft",
+              "quote": 2.0,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi Tor-Volumen-Mix",
+          "kategorie": "risk",
+          "gesamtquote": 25.8,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Spanien - Kap Verde: Ueber 2.5 Tore",
+              "quote": 1.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Belgien - Aegypten: Doku trifft",
+              "quote": 3.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Saudi-Arabien - Uruguay: Valverde trifft",
+              "quote": 3.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Iran - Neuseeland: Taremi trifft",
+              "quote": 2.1,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot Backup-Star-Show",
+          "kategorie": "moonshot",
+          "gesamtquote": 47.25,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Spanien - Kap Verde: Spanien Ueber 4.5 Tore",
+              "quote": 4.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Belgien - Aegypten: Salah trifft (Aegypten)",
+              "quote": 3.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Iran - Neuseeland: Wood trifft (NZ)",
+              "quote": 3.5,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-06-14",
       "gesamt": {
