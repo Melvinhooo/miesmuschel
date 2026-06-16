@@ -230,71 +230,9 @@
         "Form-Edge-Pflicht erfuellt (Auswaerts-Favorit unter 2.20): Nunez-Torschuetzen VALUE + Sieg VALUE + DC X2 VALUE (nicht SAFE wegen WM-Liga-Goldgrube-Pruefung).",
         "Hitze-Risiko Miami: Unter-2.5-Tipps gewinnen Wahrscheinlichkeit - aber Uruguay als Heim-Quoten-Underdog drueckt nicht Tor-Volumen runter, Bielsa-Stil bleibt aggressiv."
       ],
-      "tipps": [
-        {
-          "id": "t-uru-1",
-          "markt": "Uruguay Doppelte Chance (X2)",
-          "kategorie": "safe",
-          "quote": 1.12,
-          "empfohlener_einsatz_prozent": 1.0,
-          "empfohlener_einsatz_euro": 5.5,
-          "begruendung": "Markt-Goldgrube DC X2 (+20.3% ROI / 73.3% HR, n=17). FIFA #12 vs #57, Saudi-Sieg-Quote 6.25 (16% implizit) - Uruguay-Verlust extrem unwahrscheinlich. Bielsa-Pressing + Valverde-Motor + Araujo-Defense vs Saudi ohne Top-5-Liga-Defense-Standard. Reality-Check Quoten 1.00-1.50: 76.9% HR / +7.2% ROI. SAFE legitim wegen Klassen-Edge + Goldgrube-Markt. Stake 1.0% = 5.50 EUR.",
-          "edge_prozent": 6,
-          "faire_quote": 1.06,
-          "rang": 1
-        },
-        {
-          "id": "t-uru-2",
-          "markt": "Uruguay Sieg (1X2)",
-          "kategorie": "value",
-          "quote": 1.5,
-          "empfohlener_einsatz_prozent": 2.0,
-          "empfohlener_einsatz_euro": 11.0,
-          "begruendung": "Klassen-Edge Uruguay (FIFA #12 vs Saudi-Arabien #57). Bielsa-Pressing-Stil + Valverde + Araujo + Nunez-Generation Peak vs Saudi ohne Top-5-Liga-Defense. Kalshi-Konsens 68% Uruguay vs Quote 1.50 (66.7% implizit) - leichter Edge. 2:0-Insurance-WM-Regel aktiv (CLAUDE.md). Goldgrube-Sieg-Markt (+9.1% ROI / 59.1% HR, n=111). Reality-Check 1.50-2.00: 54.4% HR / +11.8% ROI. VALUE statt SAFE wegen Miami-Hitze-Risiko (28-30 Grad + LF) + Nunez-Klubminuten-Defizit. Stake 2.0% = 11.00 EUR Stufe 1.",
-          "edge_prozent": 11,
-          "faire_quote": 1.35,
-          "rang": 2
-        },
-        {
-          "id": "t-uru-3",
-          "markt": "Darwin Nunez trifft jederzeit (Uruguay)",
-          "kategorie": "value",
-          "quote": 2.0,
-          "empfohlener_einsatz_prozent": 1.0,
-          "empfohlener_einsatz_euro": 5.5,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+29.4% ROI / 41.4% HR, n=60 - bester Markt im System). Nunez als nomineller 9er bei Bielsa-4-3-3-Frontline mit Pellistri + Arrascaeta als Zulieferer. Saudi-Defense ohne Top-5-Liga-Standard. Einwechslungs-Boost-Hedge stark: bei Nunez-Klubminuten-Defizit (Al-Hilal kaum Spielzeit seit Feb 2026) wahrscheinlicher Wechsel ab 65. Min - Backup-9er Vinas/Aguirre-Tore zaehlen mit (CLAUDE.md WM-Einwechslungs-Boost-Regel). Reality-Check 1.50-2.00: 54.4% HR. Stake 1.0% = 5.50 EUR. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel-faehig, Goldgrube haelt aber VALUE]",
-          "edge_prozent": 10,
-          "faire_quote": 1.81,
-          "rang": 3,
-          "_torschuetze_quelle_warn": true
-        },
-        {
-          "id": "t-uru-4",
-          "markt": "Federico Valverde trifft jederzeit (Uruguay)",
-          "kategorie": "wackel",
-          "quote": 3.2,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 2.75,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+29.4% ROI). Valverde Real-Madrid-Box-to-Box-Motor mit 20 Tor-Beteiligungen in 42 Spielen LaLiga-Vize-Saison 25/26, Quali-Topscorer-Mitspieler Conmebol. Bielsa-System nutzt Valverde als Box-to-Box-8er = sucht Strafraum aktiv. Quote 3.20 = WACKEL-Range. Reality-Check 3.00-5.00: 28.5% HR / +1.3% ROI - aber Goldgrube-Markt-Boost legitim. Stake 0.5% = 2.75 EUR. [Auto: Torschuetze-Vereins-Quelle fehlt - max wackel]",
-          "edge_prozent": 12,
-          "faire_quote": 2.85,
-          "rang": 4,
-          "_torschuetze_quelle_warn": true
-        },
-        {
-          "id": "t-uru-5",
-          "markt": "Ueber 2.5 Tore (Gesamt)",
-          "kategorie": "wackel",
-          "quote": 2.1,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 2.75,
-          "begruendung": "Markt-Goldgrube Ueber 2.5 Tore (+33.7% ROI / 56.0% HR, n=27). Bielsa-Pressing-Stil + Uruguay-Offensive vs Saudi-Defense ohne Top-5-Liga-Standard = Tor-Volumen-These. ABER: Miami-Hitze (28-30 Grad + LF + Gewitter-Warnung) + WM-Spieltag-1-Tendenz defensive Auftakte spricht eher fuer Unter (Lesson 14.06 Gruppe B 4/4 Unter). WACKEL statt SAFE wegen Lesson-Konflikt + Hitze-Drueck. Stake 0.5% = 2.75 EUR.",
-          "edge_prozent": 5,
-          "faire_quote": 2.0,
-          "rang": 5
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-06-16-irn-nzl",
@@ -735,7 +673,14 @@
       },
       {
         "art": "torschuetze_quelle_warn",
-        "tipp_ids": ["t-esp-2", "t-bel-2", "t-bel-3", "t-uru-3", "t-uru-4", "t-irn-2"],
+        "tipp_ids": [
+          "t-esp-2",
+          "t-bel-2",
+          "t-bel-3",
+          "t-uru-3",
+          "t-uru-4",
+          "t-irn-2"
+        ],
         "details": "Torschuetzen-Tipps haben Markt-Quellen (espn/cbssports/squawka/racing-post), aber keine spezifische Spieler-Profil-URL (transfermarkt/kicker player-Seite) in quellen[]. Mapper-Hebel: max wackel. Oyarzabal/Lukaku/Doku/Nunez/Valverde/Taremi alle als verifizierte Star-Stuermer dokumentiert in saison_kontext - kein Halluzinations-Verdacht."
       },
       {
