@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-06-16T07:14:55+00:00",
+  "letzte_berechnung": "2026-06-17T07:12:44+00:00",
   "gesamt": {
-    "tipps": 364,
-    "gewonnen": 195,
-    "verloren": 158,
+    "tipps": 373,
+    "gewonnen": 202,
+    "verloren": 160,
     "push": 2,
     "offen": 9,
-    "einsatz": 355.0,
-    "netto": 35.49,
-    "trefferquote": 55.2,
-    "roi_prozent": 10.0
+    "einsatz": 364.0,
+    "netto": 37.2,
+    "trefferquote": 55.8,
+    "roi_prozent": 10.2
   },
   "letzte_30_tage": {
-    "tipps": 128,
-    "gewonnen": 65,
-    "verloren": 61,
+    "tipps": 137,
+    "gewonnen": 72,
+    "verloren": 63,
     "push": 2,
     "offen": 0,
-    "einsatz": 128.0,
-    "netto": 14.17,
-    "trefferquote": 51.6,
-    "roi_prozent": 11.1
+    "einsatz": 137.0,
+    "netto": 15.88,
+    "trefferquote": 53.3,
+    "roi_prozent": 11.6
   },
   "letzte_90_tage": {
-    "tipps": 364,
-    "gewonnen": 195,
-    "verloren": 158,
+    "tipps": 373,
+    "gewonnen": 202,
+    "verloren": 160,
     "push": 2,
     "offen": 9,
-    "einsatz": 355.0,
-    "netto": 35.49,
-    "trefferquote": 55.2,
-    "roi_prozent": 10.0
+    "einsatz": 364.0,
+    "netto": 37.2,
+    "trefferquote": 55.8,
+    "roi_prozent": 10.2
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -650,6 +650,28 @@ window.__MIESMUSCHEL_STAT = {
       "netto": -2.0,
       "trefferquote": 0.0,
       "roi_prozent": -100.0
+    },
+    "FIFA World Cup 2026 - Gruppe I - Spieltag 1": {
+      "tipps": 6,
+      "gewonnen": 5,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 6.0,
+      "netto": 2.18,
+      "trefferquote": 83.3,
+      "roi_prozent": 36.3
+    },
+    "FIFA World Cup 2026 - Gruppe J - Spieltag 1": {
+      "tipps": 3,
+      "gewonnen": 2,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": -0.47,
+      "trefferquote": 66.7,
+      "roi_prozent": -15.7
     }
   },
   "nach_markt": {
@@ -3602,15 +3624,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 193.0
     },
     "Ueber 2.5 Tore (Gesamt)": {
-      "tipps": 3,
-      "gewonnen": 2,
+      "tipps": 4,
+      "gewonnen": 3,
       "verloren": 1,
       "push": 0,
       "offen": 0,
-      "einsatz": 3.0,
-      "netto": 2.05,
-      "trefferquote": 66.7,
-      "roi_prozent": 68.3
+      "einsatz": 4.0,
+      "netto": 2.75,
+      "trefferquote": 75.0,
+      "roi_prozent": 68.8
     },
     "Florian Wirtz trifft jederzeit (Deutschland)": {
       "tipps": 1,
@@ -3776,6 +3798,94 @@ window.__MIESMUSCHEL_STAT = {
       "netto": -1.0,
       "trefferquote": 0.0,
       "roi_prozent": -100.0
+    },
+    "Erling Haaland trifft jederzeit (Norwegen)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.43,
+      "trefferquote": 100.0,
+      "roi_prozent": 43.0
+    },
+    "Lautaro Martinez trifft jederzeit (Argentinien)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Kylian Mbappe trifft jederzeit (Frankreich)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.8,
+      "trefferquote": 100.0,
+      "roi_prozent": 80.0
+    },
+    "Ousmane Dembele trifft jederzeit (Frankreich)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.2,
+      "trefferquote": 100.0,
+      "roi_prozent": 120.0
+    },
+    "Doppelte Chance X2 (Unentschieden/Norwegen)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.05,
+      "trefferquote": 100.0,
+      "roi_prozent": 5.0
+    },
+    "Doppelte Chance 1X (Argentinien/Unentschieden)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.08,
+      "trefferquote": 100.0,
+      "roi_prozent": 8.0
+    },
+    "Alexander Sorloth trifft jederzeit (Norwegen)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Unter 3.5 Tore (Gesamt)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.45,
+      "trefferquote": 100.0,
+      "roi_prozent": 45.0
     }
   },
   "nach_markt_typ": {
@@ -3835,15 +3945,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 6.2
     },
     "Torschuetzen Jederzeit": {
-      "tipps": 64,
-      "gewonnen": 24,
-      "verloren": 38,
+      "tipps": 69,
+      "gewonnen": 27,
+      "verloren": 40,
       "push": 2,
       "offen": 0,
-      "einsatz": 64.0,
-      "netto": 13.62,
-      "trefferquote": 38.7,
-      "roi_prozent": 21.3
+      "einsatz": 69.0,
+      "netto": 14.05,
+      "trefferquote": 40.3,
+      "roi_prozent": 20.4
     },
     "Unter 2.5 Tore": {
       "tipps": 20,
@@ -3857,37 +3967,37 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 29.2
     },
     "Doppelte Chance 1X": {
-      "tipps": 22,
-      "gewonnen": 16,
+      "tipps": 23,
+      "gewonnen": 17,
       "verloren": 4,
       "push": 0,
       "offen": 2,
-      "einsatz": 20.0,
-      "netto": 0.46,
-      "trefferquote": 80.0,
-      "roi_prozent": 2.3
+      "einsatz": 21.0,
+      "netto": 0.54,
+      "trefferquote": 81.0,
+      "roi_prozent": 2.6
     },
     "Doppelte Chance X2": {
-      "tipps": 18,
-      "gewonnen": 12,
+      "tipps": 19,
+      "gewonnen": 13,
       "verloren": 4,
       "push": 0,
       "offen": 2,
-      "einsatz": 16.0,
-      "netto": 3.17,
-      "trefferquote": 75.0,
-      "roi_prozent": 19.8
+      "einsatz": 17.0,
+      "netto": 3.22,
+      "trefferquote": 76.5,
+      "roi_prozent": 18.9
     },
     "Ueber 2.5 Tore": {
-      "tipps": 28,
-      "gewonnen": 14,
+      "tipps": 29,
+      "gewonnen": 15,
       "verloren": 12,
       "push": 0,
       "offen": 2,
-      "einsatz": 26.0,
-      "netto": 7.43,
-      "trefferquote": 53.8,
-      "roi_prozent": 28.6
+      "einsatz": 27.0,
+      "netto": 8.13,
+      "trefferquote": 55.6,
+      "roi_prozent": 30.1
     },
     "Beide Teams treffen JA": {
       "tipps": 9,
@@ -4044,15 +4154,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -100.0
     },
     "Unter 3.5 Tore": {
-      "tipps": 4,
-      "gewonnen": 2,
+      "tipps": 5,
+      "gewonnen": 3,
       "verloren": 2,
       "push": 0,
       "offen": 0,
-      "einsatz": 4.0,
-      "netto": -1.2,
-      "trefferquote": 50.0,
-      "roi_prozent": -30.0
+      "einsatz": 5.0,
+      "netto": -0.75,
+      "trefferquote": 60.0,
+      "roi_prozent": -15.0
     },
     "Unentschieden oder Sunderland": {
       "tipps": 1,
@@ -4266,37 +4376,37 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 178,
-      "gewonnen": 89,
+      "tipps": 180,
+      "gewonnen": 91,
       "verloren": 84,
       "push": 1,
       "offen": 4,
-      "einsatz": 174.0,
-      "netto": 12.83,
-      "trefferquote": 51.4,
-      "roi_prozent": 7.4
+      "einsatz": 176.0,
+      "netto": 14.33,
+      "trefferquote": 52.0,
+      "roi_prozent": 8.1
     },
     "2.00-3.00": {
-      "tipps": 50,
-      "gewonnen": 19,
-      "verloren": 29,
+      "tipps": 53,
+      "gewonnen": 20,
+      "verloren": 31,
       "push": 1,
       "offen": 1,
-      "einsatz": 49.0,
-      "netto": 6.74,
-      "trefferquote": 39.6,
-      "roi_prozent": 13.8
+      "einsatz": 52.0,
+      "netto": 5.94,
+      "trefferquote": 39.2,
+      "roi_prozent": 11.4
     },
     "1.00-1.50": {
-      "tipps": 118,
-      "gewonnen": 81,
+      "tipps": 122,
+      "gewonnen": 85,
       "verloren": 33,
       "push": 0,
       "offen": 4,
-      "einsatz": 114.0,
-      "netto": 8.37,
-      "trefferquote": 71.1,
-      "roi_prozent": 7.3
+      "einsatz": 118.0,
+      "netto": 9.38,
+      "trefferquote": 72.0,
+      "roi_prozent": 7.9
     },
     "3.00+": {
       "tipps": 18,
@@ -4323,26 +4433,26 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 0.4
     },
     "value": {
-      "tipps": 215,
-      "gewonnen": 113,
+      "tipps": 219,
+      "gewonnen": 117,
       "verloren": 91,
       "push": 2,
       "offen": 9,
-      "einsatz": 206.0,
-      "netto": 30.08,
-      "trefferquote": 55.4,
-      "roi_prozent": 14.6
+      "einsatz": 210.0,
+      "netto": 31.36,
+      "trefferquote": 56.2,
+      "roi_prozent": 14.9
     },
     "wackel": {
-      "tipps": 68,
-      "gewonnen": 29,
-      "verloren": 39,
+      "tipps": 73,
+      "gewonnen": 32,
+      "verloren": 41,
       "push": 0,
       "offen": 0,
-      "einsatz": 68.0,
-      "netto": 5.06,
-      "trefferquote": 42.6,
-      "roi_prozent": 7.4
+      "einsatz": 73.0,
+      "netto": 5.49,
+      "trefferquote": 43.8,
+      "roi_prozent": 7.5
     }
   },
   "clv_gesamt": {
@@ -4384,6 +4494,131 @@ window.__MIESMUSCHEL_STAT = {
     }
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-06-16",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "Safe-Kombi (3 WM-Sieg-Anker)",
+          "kategorie": "safe",
+          "gesamtquote": 2.49,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Norwegen Sieg (1X2)",
+              "quote": 1.22,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Frankreich Sieg (1X2)",
+              "quote": 1.44,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Argentinien Sieg (1X2)",
+              "quote": 1.42,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi (3 Top-Stuermer Anytime)",
+          "kategorie": "balance",
+          "gesamtquote": 5.66,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Erling Haaland trifft jederzeit",
+              "quote": 1.43,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Kylian Mbappe trifft jederzeit",
+              "quote": 1.8,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Lautaro Martinez trifft jederzeit",
+              "quote": 2.2,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi (Backup-Stuermer + Veteran-Anytime)",
+          "kategorie": "risk",
+          "gesamtquote": 13.16,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Alexander Sorloth trifft jederzeit",
+              "quote": 2.3,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ousmane Dembele trifft jederzeit",
+              "quote": 2.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Lionel Messi trifft jederzeit",
+              "quote": 2.6,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi (3x 2+ Tore)",
+          "kategorie": "moonshot",
+          "gesamtquote": 67.38,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Erling Haaland 2+ Tore",
+              "quote": 3.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Kylian Mbappe 2+ Tore",
+              "quote": 3.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Lautaro Martinez 2+ Tore",
+              "quote": 5.5,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-06-15",
       "gesamt": {

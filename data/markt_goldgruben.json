@@ -1,8 +1,15 @@
 {
-  "stand": "2026-06-16T07:14:55+00:00",
+  "stand": "2026-06-17T07:12:44+00:00",
   "kriterium": "Hitrate > 75.0% UND ROI > 15.0% bei min. 5 Tipps",
   "wirkung": "Tipps-Routinen sollen diese Maerkte aktiv suchen. Schema-Mapper warnt wenn Spiel im Dossier ist und der Markt nicht als Tipp gesetzt wurde.",
   "maerkte": [
+    {
+      "markt": "Ueber 2.5 Tore",
+      "tipps": 29,
+      "trefferquote": 55.6,
+      "roi_prozent": 30.1,
+      "netto": 8.13
+    },
     {
       "markt": "Unter 2.5 Tore",
       "tipps": 20,
@@ -11,25 +18,18 @@
       "netto": 5.85
     },
     {
-      "markt": "Ueber 2.5 Tore",
-      "tipps": 28,
-      "trefferquote": 53.8,
-      "roi_prozent": 28.6,
-      "netto": 7.43
-    },
-    {
       "markt": "Torschuetzen Jederzeit",
-      "tipps": 64,
-      "trefferquote": 38.7,
-      "roi_prozent": 21.3,
-      "netto": 13.62
+      "tipps": 69,
+      "trefferquote": 40.3,
+      "roi_prozent": 20.4,
+      "netto": 14.05
     },
     {
       "markt": "Doppelte Chance X2",
-      "tipps": 18,
-      "trefferquote": 75.0,
-      "roi_prozent": 19.8,
-      "netto": 3.17
+      "tipps": 19,
+      "trefferquote": 76.5,
+      "roi_prozent": 18.9,
+      "netto": 3.22
     },
     {
       "markt": "Spieler-Punkte Unter (NBA)",
@@ -40,10 +40,10 @@
     },
     {
       "markt": "Doppelte Chance 1X",
-      "tipps": 22,
-      "trefferquote": 80.0,
-      "roi_prozent": 2.3,
-      "netto": 0.46
+      "tipps": 23,
+      "trefferquote": 81.0,
+      "roi_prozent": 2.6,
+      "netto": 0.54
     }
   ]
 }

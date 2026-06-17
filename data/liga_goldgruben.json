@@ -1,5 +1,5 @@
 {
-  "stand": "2026-06-16T07:14:55+00:00",
+  "stand": "2026-06-17T07:12:44+00:00",
   "kriterium": "ROI > 15.0% ODER (Trefferquote >= 65.0% UND ROI > 0%) bei min. 5 Tipps",
   "wirkung": "Schema-Mapper bestaetigt SAFE-Tipps in diesen Ligen. Andere SAFE-Tipps werden auf VALUE downgegradet wenn der Markt-Typ nicht in markt_goldgruben.json ist (Hebel C ROI-Sanierung 04.05.).",
   "ligen": [
@@ -30,6 +30,13 @@
       "trefferquote": 37.5,
       "roi_prozent": 56.2,
       "netto": 4.5
+    },
+    {
+      "liga": "FIFA World Cup 2026 - Gruppe I - Spieltag 1",
+      "tipps": 6,
+      "trefferquote": 83.3,
+      "roi_prozent": 36.3,
+      "netto": 2.18
     },
     {
       "liga": "Champions League Halbfinale, Hinspiel",

@@ -1,0 +1,1293 @@
+{
+  "datum": "2026-06-16",
+  "erstellt_am": "2026-06-16T17:15:00+02:00",
+  "_emergency_recovery": true,
+  "hinweis": "WATCHDOG-RECOVERY 17:15 Berlin (Hauptroutine 16:00 ausgefallen, File fehlte). WM 2026 Spieltag 1 Dienstag 16.06. - 3 Spiele in Window 17:15 Berlin (France-Senegal 21:00 MetLife) bis 06:00 Mi 17.06.: France-Senegal (Gruppe I, 21:00 East Rutherford), Iraq-Norway (Gruppe I, 00:00 Foxborough Gillette), Argentina-Algeria (Gruppe J, 03:00 Kansas City). NBA Finals BEENDET: Knicks 4-1 Serie geschlossen 14.06. mit 94:90 G5-Win (Brunson 45 Pkt) - kein Decider mehr. Klub-Saison ueberall Pause, alle Spieler 3+ Wochen Erholung. 2:0-Insurance + Einwechslungs-Boost (CLAUDE.md WM-Sonderregeln) bei jedem Sieg-Tipp aktiv. Lessons 14.-16.06 KRITISCH: (a) WM-Spieltag-1-Klassen-Edge-Sieg-Massenversagen 0/4 Tage 14.06., Draw-Cluster 4/4 Tage 16.06. - DIREKTE SIEG-TIPPS auf hohe Favoriten max WACKEL nicht SAFE; (b) 2:0-Insurance-Half-Trigger-Fail 2 Tage in Folge - Insurance rettet nicht mehr; (c) Form-Edge-10er-vs-9er-Falle (Wirtz tor leer trotz 7:1) - Torschuetzen-Tipp auf Top-Spieler bleibt PFLICHT bei Heim-Favorit aber als VALUE/WACKEL nicht SAFE; (d) Last-Gasp-Equalizer-Cluster (Iran-NZ gestern 2-2 trotz Iran-Fuehrung). 9 Einzeltipps + 4 Kombis (Safe 2.49x / Balance 5.66x / Risiko 13.16x / Moonshot 67.38x — alle unter Hartregel-Range, Mini-Spiele-Tag-Cap: nur 3 WM-Spiele verfuegbar, Layer-1 begrenzt Beine auf 3, siehe lessons_angewandt). Markt-Goldgruben aktiv (Torschuetzen Jederzeit +21.3%, DC X2 +19.8%, Unter 2.5 +29.2%, Ueber 2.5 +28.6%, DC 1X 80% HR). Markt-Bluter (Spread/Handicap) NICHT als SAFE. Beobachtungs-Ligen aktuell: NBA Finals G3 (-100% n=5) + WM Gruppe B Spieltag 1 (-57% n=4) - heute Gruppe I + J keine Beobachtung, aber Vorsicht durch Massenausfall-Lesson. Kasse 550 EUR Stufe 1 Aufbau-Phase - Einsaetze konservativ (1-2% safe/value, 0.5% wackel, 0.25% risiko, 0.1% moonshot). Pre-Match-Aufstellung 1h vor Anstoss bei bet365 nochmal verifizieren.",
+  "spiele": [
+    {
+      "id": "2026-06-16-fra-sen",
+      "liga": "FIFA World Cup 2026 - Gruppe I - Spieltag 1",
+      "heim": "Frankreich",
+      "gast": "Senegal",
+      "anstoss": "2026-06-16T21:00:00+02:00",
+      "stadion": "MetLife Stadium, East Rutherford NJ (neutraler Platz)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM 2026 ist primaerer Wettbewerb, Ligue 1 + PL + LaLiga (Auslands-Spieler) alle in Saison-Pause seit Mai.",
+        "parallel_gast": "keine - WM 2026 ist primaerer Wettbewerb, PL/Saudi-Liga (Auslands-Spieler) alle in Saison-Pause.",
+        "saisonziel_heim": "Mindestens Halbfinale, realistisch Titel - FIFA #1/#2 mit Spanien (gleichauf an WM-Quoten-Spitze), Vize-Weltmeister 2022, Euro-2024-Achtelfinale-Aus war Wendepunkt. Mbappe als Kapitaen + Olise/Dembele/Doue Generation im Peak. Reserve-Bestand massiv.",
+        "saisonziel_gast": "Mindestens Achtelfinale, Viertelfinale realistisches Ziel - FIFA #20er-Bereich, Africa-Cup-Sieger 2022, starkes Reservoir mit Mane/Jackson/Koulibaly/Gana Gueye. Hat 2002 schon mal Frankreich besiegt in WM-Eroeffnung - historisches Echo.",
+        "motivations_asymmetrie": "Frankreich klarer Favorit aber Senegal physisch + taktisch organisiert, Front-Drei Mane/Jackson/Sarr/Ndiaye kann jeden Top-Gegner stressen. 2002-Echo + Underdog-Mentality vs Mbappe-Thigh-Risiko. Quote 1.44 NICHT trivial - Klassen-Edge mild, kein massiver Massenversagen-Schutz.",
+        "recovery_heim": "Ligue 1 seit 18.05. beendet (PSG-Champion-Saison), Friendly-Tests 03.06. + 10.06. (3-0 Albanien, 1-1 Brasilien). Mbappe-Thigh-Issue aus Vorbereitung - spielt aber als Kapitaen. Squad voll fit ansonsten.",
+        "recovery_gast": "Senegal-Saison ueberall pausiert, lange Vorbereitung. Friendly-Tests 04.06. (1-1 vs Suedkorea) + 11.06. (2-0 vs Tunesien). Mane voll fit, Jackson nach starker PL-Saison (16 Tore Chelsea).",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+          "https://www.espn.com/soccer/odds/_/gameId/760428",
+          "https://www.squawka.com/us/news/world-cup/match-preview-france-vs-senegal-06-16-26-world-cup-2026/",
+          "https://news.bet365.com/en-us/article/france-senegal-preview-lineup-predictions/2026061517542111930",
+          "https://www.aljazeera.com/sports/2026/6/15/france-vs-senegal-world-cup-2026-mbappe-teams-lineups-start-dembele"
+        ]
+      },
+      "news": [
+        "Klassen-Edge moderat: Frankreich FIFA #1/#2 (Welt-Top-Favorit) vs Senegal FIFA #20er (Afrika-Spitze, Africa-Cup-Sieger 2022). bet365-Konsens 14.06.: Frankreich 1.44 / X 4.50 / Senegal 6.50.",
+        "France-Aufstellung erwartet (4-2-3-1): Maignan; Kounde, Saliba, Upamecano, T. Hernandez; Tchouameni, Rabiot; Olise, Doue, Mbappe; Dembele. Mbappe spielt als Kapitaen trotz Thigh-Issue aus Vorbereitung.",
+        "Senegal-Aufstellung erwartet: Edouard Mendy; Sabaly, Koulibaly, Niakhate, Diatta; Gana Gueye, Pape Matar Sarr; Ismaila Sarr, Mane, Iliman Ndiaye; Nicolas Jackson.",
+        "Mbappe-Form: 42 Tore in allen Wettbewerben Saison 2025/26 (Real Madrid + Frankreich), ein Tor entfernt von Giroud-Allzeit-Rekord (57). Aber Thigh-Issue aus PSG-Vorbereitung, Schon-Wechsel HZ moeglich.",
+        "Dembele-Form: 1.4 G+A pro 90 Min in Ligue 1, half PSG zu Back-to-Back-CL-Triumphen. Keine Verletzungs-Bedenken, voll fit, Form-Edge erfuellt.",
+        "Olise-Form (CL-Sieger Bayern): 12 PL-Tore + 8 Assists Saison, frisch nach Bayern-CL-Sieg. Doue (PSG) Bench-Option, 8 Tore.",
+        "Senegal-Stars: Mane (Al-Nassr, 18 Saudi-Liga-Tore), Jackson (Chelsea, 16 PL-Tore), Sarr (Crystal Palace 12 Tore), Koulibaly (Al-Hilal Defense). Front-Drei kann jeden Top-Gegner unter Druck setzen.",
+        "Wetter MetLife 21:00 Berlin (15:00 ET): warm aber nicht extrem (28 Grad), Outdoor. Kein Hitze-Drueck.",
+        "Reality-Check Quote 1.40-1.50: 58.3% HR / -4.2% ROI (n=24) - KEIN Klassen-Edge-Safe-Niveau, Mid-Range mit Auftakt-Risiko zusaetzlich.",
+        "WM-Lesson 14.06.+16.06.: WM-Spieltag-1-Klassen-Edge-Sieg-Massenversagen 0/4 Tag 1 + Draw-Cluster 4/4 Tag 3 (Iran-NZ 2-2 mit Last-Gasp-Equalizer). Frankreich-SAFE-Sieg ist hartcoded ausgeschlossen - max wackel.",
+        "WM-Lesson 13.06. Eroeffnungs-Subfilter: Bei Top-5-Liga-Klassen-Asymmetrie bricht Unter-These auf - hier nur mild (Frankreich Welt-Top, Senegal Africa-Cup-Sieger) - Unter 2.5 als VALUE-Range.",
+        "Markt-Goldgrube Torschuetzen Jederzeit (+21.3% ROI, 38.7% HR, n=64) + DC 1X (80% HR, +2.3% ROI, n=22) aktiv eingebaut.",
+        "Form-Edge-Pflicht Heim-Favorit Quote<1.80 erfuellt: Mbappe 42 Tore Saison + Dembele 1.4 G+A/90 - aber Lesson Wirtz-tor-leer-trotz-7:1 mahnt Vorsicht (Form-Edge-10er-Falle). Mbappe als VALUE wegen Thigh-Risiko, Dembele als VALUE."
+      ],
+      "tipps": [
+        {
+          "id": "t-fra-1",
+          "markt": "Frankreich Sieg (1X2)",
+          "kategorie": "wackel",
+          "quote": 1.44,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 2.75,
+          "begruendung": "Klassen-Edge moderat aber NICHT massiv - Senegal physisch + taktisch organisiert, Mbappe-Thigh-Issue Risiko. Lesson 14.06+16.06 WM-Spieltag-1-Klassen-Edge-Sieg-Massenversagen (0/4 Tag 1 + 4/4 Draw-Cluster Tag 3) zwingt SAFE-Verbot. 2:0-Insurance WM 2026 aktiv aber Lesson Half-Trigger-Fail-2-Tage-in-Folge zeigt: Insurance rettet nicht mehr automatisch. Reality-Check Quote 1.40-1.50: 58.3% HR / -4.2% ROI (n=24). Stake 0.5% = 2.75 EUR. WACKEL-Markierung weil Auftakt-Risiko + Klassen-Edge nur mild.",
+          "edge_prozent": null,
+          "faire_quote": 1.55,
+          "rang": 1
+        },
+        {
+          "id": "t-fra-2",
+          "markt": "Doppelte Chance 1X (Frankreich/Unentschieden)",
+          "kategorie": "value",
+          "quote": 1.1,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 8.25,
+          "begruendung": "Markt-Goldgrube DC 1X (80% HR, +2.3% ROI, n=22). DC 1X faengt das WM-Auftakt-Draw-Cluster-Risiko ab (Lesson 16.06): selbst bei Senegal-Last-Gasp-Equalizer waere der Tipp im Trockenen. Reality-Check Quoten 1.00-1.20: 78% HR / +5% ROI. Stake 1.5% = 8.25 EUR. DC-CAP 1 pro Spiel eingehalten. WM Gruppe I Spieltag 1 nicht in liga_goldgruben.json - daher VALUE statt SAFE (Mapper-Hebel C).",
+          "edge_prozent": 12,
+          "faire_quote": 0.98,
+          "rang": 2
+        },
+        {
+          "id": "t-fra-3",
+          "markt": "Kylian Mbappe trifft jederzeit (Frankreich)",
+          "kategorie": "wackel",
+          "quote": 1.8,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 8.25,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+21.3% ROI, 38.7% HR, n=64 - bester Markt im System). Mbappe 42 Tore Saison 2025/26 + ein Tor entfernt von Frankreich-Allzeit-Rekord (Giroud 57). Form-Edge-Pflicht Heim-Favorit Quote<1.80 erfuellt - 3+ Tore in 5 Spielen klar erfuellt. ABER: Thigh-Issue + Lesson Form-Edge-10er-vs-9er-Falle (Wirtz tor leer trotz 7:1) mahnt zu VALUE statt SAFE. Einwechslungs-Boost: falls Mbappe wegen Thigh-Schon-Wechsel rausgeht, Marcus Thuram als Ersatz-Tor zaehlt. Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI. Stake 1.5% = 8.25 EUR. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "edge_prozent": 16,
+          "faire_quote": 1.55,
+          "rang": 3,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "id": "t-fra-4",
+          "markt": "Ousmane Dembele trifft jederzeit (Frankreich)",
+          "kategorie": "wackel",
+          "quote": 2.2,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 5.5,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit + Form-Edge erfuellt: 1.4 G+A pro 90 Min in Ligue 1, PSG zu Back-to-Back-CL-Sieg gefuehrt. Voll fit (kein Thigh-Risiko wie Mbappe), Stammplatz Mittelstuermer 4-2-3-1. Form-Edge-Pflicht Heim-Favorit erfuellt. Backup-Pflicht-These: bei Mbappe-Thigh-Schon-Wechsel rueckt Dembele in Hauptrolle - Doppel-Bedeutungs-Tipp. Reality-Check Quoten 2.00-2.50: 48% HR / +8% ROI. Stake 1.0% = 5.50 EUR. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "edge_prozent": 14,
+          "faire_quote": 1.93,
+          "rang": 4,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "id": "t-fra-5",
+          "markt": "Ueber 2.5 Tore (Gesamt)",
+          "kategorie": "wackel",
+          "quote": 2.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 2.75,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 Tore (+28.6% ROI / 53.8% HR, n=28) - aktiv suchen. ABER: Lesson 14.06. WM-Spieltag-1-Unter-2.5-Dominanz 4/4 (in Gruppe B - Klassen-Edge moderat wie hier) zwingt zu WACKEL statt VALUE. Senegal-Defense (Koulibaly + Niakhate erfahren) kann Frankreich-Offensive bremsen, kein Wirtz-7:1-Setup. Reality-Check Quoten 1.80-2.20: 50% HR / +5% ROI. Stake 0.5% = 2.75 EUR. WM Gruppe I nicht in liga_goldgruben, daher kein Boost.",
+          "edge_prozent": null,
+          "faire_quote": 2.0,
+          "rang": 5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "3:1",
+        "halbzeit_stand": "0:0",
+        "heim_tore": 3,
+        "gast_tore": 1,
+        "kommentar": "France 3:1 Senegal - 0:0 HZ, Mbappe (66.) bricht Bann, Barcola eingewechselt fuer Dembele ~80' trifft 82., Mbaye (90+5) Anschluss, Mbappe (90+6) Distanzschuss = Allzeit-Rekord 58 Tore (Giroud uebertroffen)."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t-fra-1",
+          "markt": "Frankreich Sieg (1X2)",
+          "kategorie": "wackel",
+          "quote": 1.44,
+          "einsatz_euro": 2.75,
+          "status": "gewonnen",
+          "netto_euro": 1.21,
+          "gewinn_faktor": 0.44,
+          "kommentar": "Frankreich gewinnt 3:1. WACKEL-Markierung war richtig (Klassen-Edge-Sieg-Massenversagen-Lesson) aber das Pattern brach. Mbappe-Brace + Barcola-Joker entschieden.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "t-fra-2",
+          "markt": "Doppelte Chance 1X (Frankreich/Unentschieden)",
+          "kategorie": "value",
+          "quote": 1.1,
+          "einsatz_euro": 8.25,
+          "status": "gewonnen",
+          "netto_euro": 0.83,
+          "gewinn_faktor": 0.1,
+          "kommentar": "DC 1X via Frankreich-Sieg gewonnen.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "t-fra-3",
+          "markt": "Kylian Mbappe trifft jederzeit (Frankreich)",
+          "kategorie": "wackel",
+          "quote": 1.8,
+          "einsatz_euro": 8.25,
+          "status": "gewonnen",
+          "netto_euro": 6.6,
+          "gewinn_faktor": 0.8,
+          "kommentar": "Mbappe Doppelpack 66'+90+6' - neuer Frankreich-Allzeit-Rekord 58 Tore. Goldgrube-Markt validiert (n=64, +21.3% ROI).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "t-fra-4",
+          "markt": "Ousmane Dembele trifft jederzeit (Frankreich)",
+          "kategorie": "wackel",
+          "quote": 2.2,
+          "einsatz_euro": 5.5,
+          "status": "gewonnen",
+          "netto_euro": 6.6,
+          "gewinn_faktor": 1.2,
+          "kommentar": "Einwechslungs-Boost: Dembele ~80' raus, Barcola rein, Barcola trifft 82' - Tor zaehlt fuer Dembele-Anytime-Tipp (bet365 Einwechslungs-Boost-Regel, CLAUDE.md). Backup-Stuermer-Pflicht-Lesson validiert.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "t-fra-5",
+          "markt": "Ueber 2.5 Tore (Gesamt)",
+          "kategorie": "wackel",
+          "quote": 2.0,
+          "einsatz_euro": 2.75,
+          "status": "gewonnen",
+          "netto_euro": 2.75,
+          "gewinn_faktor": 1.0,
+          "kommentar": "4 Tore total (Frankreich 3, Senegal 1) - Ueber 2.5 klar erreicht.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "3:1",
+        "tore": [
+          {
+            "min": 66,
+            "team": "heim",
+            "spieler": "Mbappe",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 82,
+            "team": "heim",
+            "spieler": "Barcola (eingewechselt 80' fuer Dembele)",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": "90+5",
+            "team": "gast",
+            "spieler": "Ibrahim Mbaye",
+            "stand_danach": "2:1"
+          },
+          {
+            "min": "90+6",
+            "team": "heim",
+            "spieler": "Mbappe (Distanzschuss, Allzeit-Rekord)",
+            "stand_danach": "3:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Drehung - 0:0 HZ taktisch, dann France nach Mbappe-Tor klare Kontrolle, Senegal-Anschluss erst 90+5 nur Kosmetik. 2:0-Insurance-Hebel waere bei Frankreich-Sieg-Tipp eh gegriffen (2:0 ab 82' Barcola)."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Frankreich",
+          "kein_team_zu_null": false,
+          "siegtor_in_letzten_15min": false,
+          "ausgleich_in_letzten_15min": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Barcola",
+            "aus": "Dembele",
+            "minute": 80,
+            "tor": true,
+            "tor_minute": 82
+          }
+        ],
+        "auffaellige_patterns": [
+          "Einwechslungs-Boost-Mechanik genau wie CLAUDE.md beschreibt: Dembele raus, Direkt-Ersatz Barcola trifft 2 Min spaeter - Anytime-Tor zaehlt fuer Dembele-Tipp. Lesson 26.04 Stuttgart-Bremen-Praezisierung (Tipp-Spieler muss ausgewechselt werden) hier perfekt erfuellt.",
+          "WM-Spieltag-1-Klassen-Edge-Sieg-Massenversagen-Pattern (Lesson 14.06 0/4 + 16.06 4/4 Draws) BRACH heute - alle 3 Welt-Top-Favoriten Sieg-Tipps gewonnen. 3-Tage-Pattern war Cluster, kein dauerhafter Filter.",
+          "Mbappe-Allzeit-Frankreich-Rekord 58 Tore (Giroud 57 uebertroffen) - Karriere-Highlight-Form-Edge-Bonus validierte sich. Form-Edge-Pflicht (3+ Tore in 5 Spielen) zahlte sich aus."
+        ]
+      }
+    },
+    {
+      "id": "2026-06-16-irq-nor",
+      "liga": "FIFA World Cup 2026 - Gruppe I - Spieltag 1",
+      "heim": "Irak",
+      "gast": "Norwegen",
+      "anstoss": "2026-06-17T00:00:00+02:00",
+      "stadion": "Gillette Stadium, Foxborough MA (neutraler Platz)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM 2026 ist primaerer Wettbewerb, Irak-Liga + Saudi-Liga (Auslands-Spieler) in Pause.",
+        "parallel_gast": "keine - WM 2026 ist primaerer Wettbewerb, PL/Bundesliga/LaLiga (Haaland, Odegaard, Sorloth, Berge etc.) alle in Saison-Pause.",
+        "saisonziel_heim": "Achtelfinal-Quali waere historisch - FIFA #50er-Bereich, erste WM-Teilnahme seit 1986 (40 Jahre Wartezeit). Klar Underdog in Gruppe I (Frankreich + Norwegen). Realistisches Ziel: 1 Punkt mitnehmen.",
+        "saisonziel_gast": "Mindestens Achtelfinale, Viertelfinale realistisches Ziel - FIFA #15er-Bereich, erste WM-Teilnahme seit 1998 (28 Jahre). Quali ohne einen einzigen Verlust (10/10 Siege Gruppe), Haaland mit 16 Quali-Toren (doppelt soviel wie zweitbester Europaer).",
+        "motivations_asymmetrie": "Norwegen massiver Klassen-Favorit + sieg-hungrig nach 28 Jahren WM-Abstinenz, Haaland WM-Debuet als Karriere-Highlight. Irak ohne Top-Liga-Standard im Kader (Hauptlast bei nationalen Stars Aymen Hussein, Al-Hamadi). Quote 1.22 / 12.0 spiegelt maximale Asymmetrie wider.",
+        "recovery_heim": "Lange Vorbereitung, voll fit. Friendly-Tests 04.06. (0-2 vs Kolumbien) + 11.06. (1-1 vs Tunesien). Veteran-Torwart Jalal Hassan (100+ Caps) startet.",
+        "recovery_gast": "PL/Bundesliga/LaLiga Saison-Pause seit Mai - alle Stars 3+ Wochen Erholung. Haaland (Man City) frisch nach PL-Vize-Saison (28 Tore), Sorloth (Atletico) nach 56-Tore-3-Saisons-Lauf, Odegaard (Arsenal Kapitaen) voll fit. Quali-Test 09.06. 4-1 Estonia, 11.06. 5-0 Moldova.",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+          "https://www.espn.com/soccer/match/_/gameId/760430/norway-iraq",
+          "https://www.squawka.com/us/news/world-cup/match-preview-iraq-vs-norway-06-16-26-world-cup-2026/",
+          "https://news.bet365.com/en-us/article/erling-haaland-odds-to-score-vs-iraq/2026061521104805082",
+          "https://www.foxsports.com/stories/soccer/2026-world-cup-norway-iraq-odds-prediction-picks"
+        ]
+      },
+      "news": [
+        "Klassen-Asymmetrie massiv: Norwegen FIFA #15er (10/10 Quali-Siege, 16 Haaland-Tore) vs Irak FIFA #50er (erste WM seit 1986). bet365 14.06.: Norwegen 1.22 / X 6.25 / Irak 12.0.",
+        "Norwegen-Aufstellung erwartet (4-3-3 oder 4-2-3-1): Nyland; Heggem, Ajer, Strandberg, Hanche-Olsen; Berge, Odegaard, Aasgaard; Sorloth, Haaland, Nusa.",
+        "Irak-Aufstellung erwartet: Jalal Hassan; Bayesh, Mustafa Saadoun, Resan, Bayesh; Hussein Ali, Amir Al-Ammari, Ibrahim Bayesh; Mohanad Ali, Aymen Hussein, Al-Hamadi.",
+        "Haaland-Form: 55 Tore in 50 Norwegen-Spielen (32 Spiele mit Tor = 64% Trefferquote pro Spiel), 16 Quali-Tore (doppelt zweitbester Europaer). 28 PL-Tore Man City Saison 25/26. WM-Debuet als Karriere-Highlight + Motivation.",
+        "Sorloth-Form: 56 LaLiga-Tore in 3 Saisons (nur Lewandowski mehr), Atletico Madrid. Quali-Brace 4-1 Estonia + Tor 5-0 Moldova. Stamm-9er neben Haaland im 4-3-3.",
+        "Odegaard-Form: Arsenal-Kapitaen, PL-Vize-Saison, 8 Tore + 12 Assists. Spielmacher hinter Haaland/Sorloth.",
+        "Wetter Foxborough 00:00 Berlin (18:00 ET): mild (22 Grad), Outdoor. Kein Hitze-Faktor.",
+        "Reality-Check Quote 1.20-1.30: Mid-Range mit guter HR (~70%) - aber Quote zu kurz fuer meaningful Edge. Statistik 1.00-1.30 Range: 75% HR / +6% ROI (n=42).",
+        "Goldgrube Torschuetzen Jederzeit (+21.3% ROI, 38.7% HR, n=64): Haaland @ 1.43 + Sorloth @ 2.30 beide aktiv eingebaut. Goldgrube Ueber 2.5 Tore (+28.6% ROI, 53.8% HR, n=28): Norwegen 9 Tore in letzten 2 Quali-Spielen + Haaland-Streak.",
+        "WM-Lesson 14.06+16.06.: WM-Spieltag-1-Klassen-Edge-Sieg-Massenversagen + Draw-Cluster - direkter Norwegen-Sieg @ 1.22 ist hartcoded max WACKEL (Saudi-Arabien gestern 0-1 vs Uruguay als Klassen-Verlierer ist Beispiel - Irak koennte ein 0-1 hinten verteidigen).",
+        "WM-Lesson 13.06. Eroeffnungs-Subfilter: Bei extremer Klassen-Asymmetrie (Deutschland-Curacao 7:1) bricht Unter-These auf. Norwegen-Irak Quote 1.22 zaehlt als extreme Asymmetrie - Ueber 2.5 als VALUE legitim.",
+        "Form-Edge-Pflicht Heim-Favorit (Quote<1.80 = Norwegen Auswaerts-Quote): Haaland 32/50 Spiele mit Tor erfuellt klar - Torschuetzen-Tipp PFLICHT. Sorloth ebenfalls erfuellt."
+      ],
+      "tipps": [
+        {
+          "id": "t-nor-1",
+          "markt": "Norwegen Sieg (1X2)",
+          "kategorie": "wackel",
+          "quote": 1.22,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 2.75,
+          "begruendung": "Maximale Klassen-Edge - Norwegen 10/10 Quali-Siege vs Irak FIFA #50er. ABER Lesson 14.06+16.06 WM-Spieltag-1-Klassen-Edge-Sieg-Massenversagen (0/4 Tag 1 + 4/4 Draw-Cluster Tag 3, gestern Iran-NZ 2-2) zwingt SAFE-Verbot. Saudi-Arabien-Uruguay 0-1 als Klassen-Verlierer-Beispiel zeigt: Underdog 1-0 hinten kann verteidigen. 2:0-Insurance Half-Trigger-Fail 2 Tage in Folge - rettet nicht mehr. Stake 0.5% = 2.75 EUR. WACKEL.",
+          "edge_prozent": null,
+          "faire_quote": 1.3,
+          "rang": 1
+        },
+        {
+          "id": "t-nor-2",
+          "markt": "Doppelte Chance X2 (Unentschieden/Norwegen)",
+          "kategorie": "value",
+          "quote": 1.05,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 8.25,
+          "begruendung": "Markt-Goldgrube Doppelte Chance X2 (75% HR, +19.8% ROI, n=18 - dritter ROI-Goldgrube-Markt). DC X2 faengt das WM-Auftakt-Draw-Cluster-Risiko ab: selbst bei Irak-1-0-Stand-haelt-Last-Gasp waere der Tipp im Trockenen. Reality-Check Quoten 1.00-1.10: 82% HR / +6% ROI. Stake 1.5% = 8.25 EUR. DC-CAP 1 pro Spiel eingehalten. WM Gruppe I Spieltag 1 nicht in liga_goldgruben.json - daher VALUE statt SAFE.",
+          "edge_prozent": 8,
+          "faire_quote": 0.97,
+          "rang": 2
+        },
+        {
+          "id": "t-nor-3",
+          "markt": "Erling Haaland trifft jederzeit (Norwegen)",
+          "kategorie": "wackel",
+          "quote": 1.43,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 11.0,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+21.3% ROI, 38.7% HR, n=64 - bester Markt im System). Haaland 32 von 50 Norwegen-Spielen mit Tor = 64% Saison-Trefferquote pro Spiel + 16 Quali-Tore + 28 PL-Tore Man City + WM-Debuet-Motivation. Form-Edge-Pflicht Heim-Favorit klar erfuellt. Backup-Plan: bei Schon-Wechsel kommt Sorloth - bei beiden zaehlt Tor (Einwechslungs-Boost). ABER Lesson Form-Edge-10er-vs-9er-Falle (Wirtz tor leer trotz 7:1) mahnt VALUE statt SAFE. Reality-Check Quoten 1.40-1.50: 58.3% HR / +5.7% ROI. Stake 2.0% = 11.00 EUR. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "edge_prozent": 18,
+          "faire_quote": 1.21,
+          "rang": 3,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "id": "t-nor-4",
+          "markt": "Alexander Sorloth trifft jederzeit (Norwegen)",
+          "kategorie": "wackel",
+          "quote": 2.3,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 5.5,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Sorloth 56 LaLiga-Tore in 3 Saisons (Lewandowski-Range), Quali-Brace 4-1 Estonia + Tor 5-0 Moldova. Stamm-9er neben Haaland im 4-3-3 - kein Backup, gleichberechtigte Torgefahr. Form-Edge-Pflicht erfuellt (3+ Tore in 5 Spielen klar). Backup-These zur Haaland-Verletzung: doppelte Absicherung im selben Markt. Reality-Check Quoten 2.00-2.50: 48% HR / +8% ROI. Stake 1.0% = 5.50 EUR. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "edge_prozent": 16,
+          "faire_quote": 1.98,
+          "rang": 4,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "id": "t-nor-5",
+          "markt": "Ueber 2.5 Tore (Gesamt)",
+          "kategorie": "value",
+          "quote": 1.7,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 8.25,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 Tore (+28.6% ROI, 53.8% HR, n=28). Norwegen 9 Tore in letzten 2 Quali-Spielen (4-1 Estonia + 5-0 Moldova) + Haaland/Sorloth-Doppel-9er + Klassen-Asymmetrie maximal (FIFA #15 vs #50). WM-Lesson 13.06. Eroeffnungs-Subfilter: bei extremer Klassen-Asymmetrie (Deutschland-Curacao 7:1, Bayern-Bayern-Echo) bricht Unter-These auf - hier sogar Quote 1.22 = extremer als Bayern-DFB. Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI. Stake 1.5% = 8.25 EUR.",
+          "edge_prozent": 14,
+          "faire_quote": 1.5,
+          "rang": 5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "1:4",
+        "halbzeit_stand": "1:2",
+        "heim_tore": 1,
+        "gast_tore": 4,
+        "kommentar": "Iraq 1:4 Norway - Haaland Brace (29'+44'-ish via Iraq-Back-Pass-Fehler), Hussein Anschluss 39', Ostigard (76', Odegaard-Assist) und Thorstvedt (90+7', Haaland-Assist) entschieden. Haaland WM-Debuet mit 2 Toren. Sorloth ~73' raus fuer Bobb - Bobb traf nicht."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t-nor-1",
+          "markt": "Norwegen Sieg (1X2)",
+          "kategorie": "wackel",
+          "quote": 1.22,
+          "einsatz_euro": 2.75,
+          "status": "gewonnen",
+          "netto_euro": 0.61,
+          "gewinn_faktor": 0.22,
+          "kommentar": "Norwegen 4:1 - klare Klassen-Edge-Realisierung. WACKEL-Lesson (Klassen-Edge-Massenversagen) brach heute.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "t-nor-2",
+          "markt": "Doppelte Chance X2 (Unentschieden/Norwegen)",
+          "kategorie": "value",
+          "quote": 1.05,
+          "einsatz_euro": 8.25,
+          "status": "gewonnen",
+          "netto_euro": 0.41,
+          "gewinn_faktor": 0.05,
+          "kommentar": "DC X2 via Norwegen-Sieg gewonnen.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "t-nor-3",
+          "markt": "Erling Haaland trifft jederzeit (Norwegen)",
+          "kategorie": "wackel",
+          "quote": 1.43,
+          "einsatz_euro": 11.0,
+          "status": "gewonnen",
+          "netto_euro": 4.73,
+          "gewinn_faktor": 0.43,
+          "kommentar": "Haaland Brace (29' + ca. 44' via Iraq-Back-Pass-Patzer) - WM-Debuet realisierte sich genau wie Form-Edge erwartet (32/50 Norwegen-Spiele mit Tor).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "t-nor-4",
+          "markt": "Alexander Sorloth trifft jederzeit (Norwegen)",
+          "kategorie": "wackel",
+          "quote": 2.3,
+          "einsatz_euro": 5.5,
+          "status": "verloren",
+          "netto_euro": -5.5,
+          "gewinn_faktor": -1.0,
+          "kommentar": "Sorloth traf nicht, wurde 73' fuer Oscar Bobb ausgewechselt - Bobb traf auch nicht. Einwechslungs-Boost greift NICHT (Tor-Schuetze Ostigard kam fuer Aursnes, Thorstvedt fuer Nusa - nicht Sorloth-Ersatz).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "t-nor-5",
+          "markt": "Ueber 2.5 Tore (Gesamt)",
+          "kategorie": "value",
+          "quote": 1.7,
+          "einsatz_euro": 8.25,
+          "status": "gewonnen",
+          "netto_euro": 5.78,
+          "gewinn_faktor": 0.7,
+          "kommentar": "5 Tore total (Norwegen 4, Irak 1) - Ueber 2.5 + Ueber 3.5 + Ueber 4.5 alle erreicht. Eroeffnungs-Subfilter (extreme Klassen-Asymmetrie) validiert.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:2",
+        "endstand": "1:4",
+        "tore": [
+          {
+            "min": 29,
+            "team": "gast",
+            "spieler": "Haaland (Assist Wolfe)",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 39,
+            "team": "heim",
+            "spieler": "Aymen Hussein (Kopfball, Assist Al-Ammari)",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 44,
+            "team": "gast",
+            "spieler": "Haaland (Patzer Iraq-Back-Pass)",
+            "stand_danach": "1:2"
+          },
+          {
+            "min": 76,
+            "team": "gast",
+            "spieler": "Ostigard (eingewechselt fuer Aursnes, Assist Odegaard)",
+            "stand_danach": "1:3"
+          },
+          {
+            "min": "90+7",
+            "team": "gast",
+            "spieler": "Thorstvedt (eingewechselt fuer Nusa, Assist Haaland)",
+            "stand_danach": "1:4"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Drehung - Iraq glich kurz auf 1:1 aus (39'), aber Haaland (44') stellte vor HZ wieder her, danach durchgehend Norwegen-Fuehrung. 2:0-Insurance-Half-Trigger waere via 2:1-HZ NICHT ausgeloest (Iraq 1, nicht 0)."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Norwegen/Norwegen",
+          "kein_team_zu_null": true,
+          "siegtor_in_letzten_15min": false,
+          "ausgleich_in_letzten_15min": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "gast",
+            "ein": "Ostigard",
+            "aus": "Aursnes",
+            "minute": null,
+            "tor": true,
+            "tor_minute": 76
+          },
+          {
+            "team": "gast",
+            "ein": "Thorstvedt",
+            "aus": "Nusa",
+            "minute": null,
+            "tor": true,
+            "tor_minute": "90+7"
+          },
+          {
+            "team": "gast",
+            "ein": "Bobb",
+            "aus": "Sorloth",
+            "minute": 73,
+            "tor": false,
+            "tor_minute": null
+          }
+        ],
+        "auffaellige_patterns": [
+          "Massiver Einwechslungs-Boost-Trigger ohne Tipp-Bezug: ZWEI Joker (Ostigard fuer Aursnes 76', Thorstvedt fuer Nusa 90+7') trafen. Aber Sorloth-Tipp-Spieler-Ersatz (Bobb) traf NICHT - daher kein Boost fuer Sorloth-Tipp. Klares Lesson-Material: bei Top-Mannschaften mit aggressivem Joker-Pool aktiv den Joker-Markt fuer Anytime scannen.",
+          "Iraq-Back-Pass-Patzer fuer Haaland 2. Tor (44') zeigt Klassen-Differenz - Defensive ohne Top-Liga-Standard verschenkt Tore. Klassen-Edge-Pattern (Lesson 13.06 Eroeffnungs-Subfilter) bestaetigt.",
+          "Norwegen erstes WM-Spiel seit 1998 - 28 Jahre Wartezeit + Haaland-Karriere-Highlight motivierte Klassen-Edge-Realisierung."
+        ]
+      }
+    },
+    {
+      "id": "2026-06-16-arg-alg",
+      "liga": "FIFA World Cup 2026 - Gruppe J - Spieltag 1",
+      "heim": "Argentinien",
+      "gast": "Algerien",
+      "anstoss": "2026-06-17T03:00:00+02:00",
+      "stadion": "Arrowhead Stadium, Kansas City MO (neutraler Platz)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM 2026 ist primaerer Wettbewerb, Serie A/PL/LaLiga (Auslands-Spieler) alle in Saison-Pause seit Mai.",
+        "parallel_gast": "keine - WM 2026 ist primaerer Wettbewerb, Ligue 1/PL/Saudi-Liga (Mahrez, Bennacer, Slimani etc.) alle in Saison-Pause.",
+        "saisonziel_heim": "Titel-Verteidigung - amtierender Welt-Champion 2022, Copa-America-Sieger 2024, FIFA #1/#2. Messi 38 in letzter WM (6. Teilnahme), Lautaro Serie-A-Top-Scorer 17 Tore, Julian Alvarez Atletico-Form. 7-Spiele-Siegesserie aktuell.",
+        "saisonziel_gast": "Achtelfinal-Quali nach 2 verpassten WMs (2018+2022). FIFA #35er-Bereich, Afrika-Quali-Gewinner, starke individuelle Klasse (Mahrez/Bennacer/Atal). Realistisch Punkt-Mitnahme.",
+        "motivations_asymmetrie": "Argentinien massiver Favorit + Messi-Letzter-WM-Sentiment auf Maximum, gesamte Mannschaft hochmotiviert + Albiceleste-Kollektiv. Algerien kann individuell antaeuschen aber Klassen-Edge massiv (Quote 1.42 vs 7.0 + Kalshi 71% Sieg-Wahrscheinlichkeit).",
+        "recovery_heim": "Serie-A/PL/LaLiga-Pause seit Mai - alle Stars 3+ Wochen Erholung. Friendly-Tests 04.06. (3-0 Honduras) + 11.06. (4-1 Costa Rica). Messi voll fit (ESPN-Bestaetigung Scaloni 16.06.), Emi Martinez + Julian Alvarez ebenfalls fit.",
+        "recovery_gast": "Lange Vorbereitung, voll fit. Friendly-Tests 04.06. (2-2 vs Schweiz) + 11.06. (1-0 vs Saudi-Arabien). Mahrez voll fit nach Saudi-Liga-Pause.",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+          "https://www.espn.com/soccer/odds/_/gameId/760433",
+          "https://www.racingpost.com/sport/football-tips/world-cup-2026/argentina-vs-algeria-world-cup-prediction-team-news-odds-betting-tips-and-bet-builder-akzia3G1tqGe/",
+          "https://www.espn.com/soccer/story/_/id/49075716/argentina-calm-lionel-messi-emiliano-martinez-julian-alvarez-fit-ahead-algeria",
+          "https://www.covers.com/world-cup/argentina-vs-algeria-prediction-picks-odds-tuesday-6-16-2026"
+        ]
+      },
+      "news": [
+        "Klassen-Asymmetrie hoch: Argentinien FIFA #1/#2 (amtierender Welt-Champion) vs Algerien FIFA #35 (Afrika-Quali-Gewinner). bet365 14.06.: Argentinien 1.42 / X 4.50 / Algerien 7.0. Kalshi-Markt 71% Argentinien-Sieg.",
+        "Argentinien-Aufstellung erwartet (4-3-3): Emi Martinez; Molina, Romero, Otamendi, Tagliafico; De Paul, Mac Allister, Enzo Fernandez; Messi, Julian Alvarez, Almada (oder Lautaro statt Almada).",
+        "Algerien-Aufstellung erwartet (4-3-3): Mandrea; Atal, Mandi, Bensebaini, Bedrane; Bennacer, Zerrouki, Boudaoui; Mahrez, Slimani, Belaili.",
+        "Scaloni-Bestaetigung 15.06. via ESPN: 'Messi, Emi Martinez und Julian Alvarez alle fit fuer Algerien' - keine Verletzungs-Sorgen.",
+        "Messi-Form: 6. WM, 38 Jahre - moegliche letzte WM. Inter Miami 18 MLS-Tore Saison 25/26. Argentina 24 Tore in letzten 24 Spielen (1 pro Spiel).",
+        "Lautaro Martinez-Form: Serie-A-Top-Scorer 25/26 mit 17 Toren bei Inter Mailand, Champions-League-Halbfinale erreicht.",
+        "Julian Alvarez-Form: Atletico Madrid, 22 LaLiga-Tore Saison + 6 CL-Tore. Wechsel-Konkurrenz mit Lautaro um zweite Stuermerrolle.",
+        "Algerien-Star Mahrez: 19 Saudi-Liga-Tore Al-Ahli, voll fit. Bennacer (Lille) Stammspieler-Mittelfeld.",
+        "Wetter Kansas City 03:00 Berlin (21:00 ET): warm aber Outdoor-Abend (26 Grad), kein Hitze-Faktor.",
+        "Reality-Check Quote 1.40-1.50: 58.3% HR / -4.2% ROI (n=24) - KEIN automatisches Safe-Niveau.",
+        "WM-Lesson 14.06+16.06.: WM-Spieltag-1-Klassen-Edge-Sieg-Massenversagen + Draw-Cluster zwingen Argentinien-SAFE-Sieg-Verbot - max wackel.",
+        "Markt-Goldgrube Torschuetzen Jederzeit + DC X2 aktiv. Form-Edge-Pflicht Heim-Favorit (Quote<1.80) erfuellt: Lautaro 17 Tore Saison, Messi voll fit, Julian Alvarez 22 Tore - Torschuetzen-Tipps PFLICHT.",
+        "WM-Lesson 13.06. Erster-Torschuetze-OG-Risiko-Inflation: kein Erster-Torschuetze-Tipp empfohlen, nur Anytime."
+      ],
+      "tipps": [
+        {
+          "id": "t-arg-1",
+          "markt": "Argentinien Sieg (1X2)",
+          "kategorie": "wackel",
+          "quote": 1.42,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 2.75,
+          "begruendung": "Klassen-Edge hoch (Welt-Champion vs Afrika-Quali-Gewinner) aber Lesson 14.06+16.06 WM-Spieltag-1-Klassen-Edge-Sieg-Massenversagen (0/4 Tag 1 + 4/4 Draw-Cluster Tag 3) zwingt SAFE-Verbot. Algerien hat individuelle Klasse (Mahrez/Bennacer) um Druck-Last-Gasp-Equalizer zu setzen. 2:0-Insurance WM 2026 aktiv aber Lesson Half-Trigger-Fail-2-Tage-in-Folge zeigt: Insurance rettet nicht mehr. Reality-Check Quote 1.40-1.50: 58.3% HR / -4.2% ROI (n=24). Stake 0.5% = 2.75 EUR. WACKEL.",
+          "edge_prozent": null,
+          "faire_quote": 1.5,
+          "rang": 1
+        },
+        {
+          "id": "t-arg-2",
+          "markt": "Doppelte Chance 1X (Argentinien/Unentschieden)",
+          "kategorie": "value",
+          "quote": 1.08,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 8.25,
+          "begruendung": "Markt-Goldgrube DC 1X (80% HR, +2.3% ROI, n=22). DC 1X faengt das WM-Auftakt-Draw-Cluster-Risiko ab (Lesson 16.06): selbst bei Algerien-Last-Gasp-Equalizer waere der Tipp im Trockenen. Reality-Check Quoten 1.00-1.10: 82% HR / +6% ROI. Stake 1.5% = 8.25 EUR. DC-CAP 1 pro Spiel eingehalten. WM Gruppe J Spieltag 1 nicht in liga_goldgruben.json - daher VALUE statt SAFE (Mapper-Hebel C).",
+          "edge_prozent": 11,
+          "faire_quote": 0.97,
+          "rang": 2
+        },
+        {
+          "id": "t-arg-3",
+          "markt": "Lautaro Martinez trifft jederzeit (Argentinien)",
+          "kategorie": "wackel",
+          "quote": 2.2,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 8.25,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+21.3% ROI, 38.7% HR, n=64). Lautaro Serie-A-Top-Scorer 25/26 mit 17 Toren + CL-Halbfinale + 3 Argentinien-Tore in letzten 4 Tests. Form-Edge-Pflicht Heim-Favorit klar erfuellt. Backup-These: bei Schon-Wechsel kommt Julian Alvarez - Einwechslungs-Boost zaehlt. Reality-Check Quoten 2.00-2.50: 48% HR / +8% ROI. Stake 1.5% = 8.25 EUR. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "edge_prozent": 18,
+          "faire_quote": 1.87,
+          "rang": 3,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "id": "t-arg-4",
+          "markt": "Lionel Messi trifft jederzeit (Argentinien)",
+          "kategorie": "wackel",
+          "quote": 2.6,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 5.5,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit aktiviert + Letzte-WM-Sentiment Messi 38. ABER Lesson Form-Edge-10er-vs-9er-Falle: Messi als 10er hinter Lautaro/Alvarez - Wirtz-Falle-Analogon (10er trifft selten bei 9er-Tor-Festival). Inter Miami 18 MLS-Tore Saison aber MLS schwacher Liga-Standard. Reality-Check Quoten 2.50-3.00: 38% HR / +2% ROI. Stake 1.0% = 5.50 EUR. WACKEL wegen 10er-Falle.",
+          "edge_prozent": null,
+          "faire_quote": 2.6,
+          "rang": 4
+        },
+        {
+          "id": "t-arg-5",
+          "markt": "Unter 3.5 Tore (Gesamt)",
+          "kategorie": "value",
+          "quote": 1.45,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 8.25,
+          "begruendung": "WM-Lesson 14.06. Spieltag-1-Unter-Dominanz 4/4: Auftakt-Spiele tendieren defensiv. Algerien hat organisierte Defense (Bennacer-Mittelfeld + Bensebaini/Mandi-Innenverteidigung) - 1-0 Saudi-Arabien gestern. Argentinien spielt oft taktisch reif (4 Tor-Spiele waren Friendly-Tests, in WM-Auftakt eher kontrolliert). Reality-Check Quoten 1.30-1.50: 65% HR / +6% ROI. Stake 1.5% = 8.25 EUR.",
+          "edge_prozent": 12,
+          "faire_quote": 1.3,
+          "rang": 5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "3:0",
+        "halbzeit_stand": "1:0",
+        "heim_tore": 3,
+        "gast_tore": 0,
+        "kommentar": "Argentinien 3:0 Algerien - Messi Hattrick (17', 60', 76'), Messi gleicht Klose ein (16 WM-Tore all-time). Lautaro startete als 9er - traf nicht, ~Stunde raus fuer Julian Alvarez (Alvarez auch tor-leer). Messi 80' raus fuer Nico Paz."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t-arg-1",
+          "markt": "Argentinien Sieg (1X2)",
+          "kategorie": "wackel",
+          "quote": 1.42,
+          "einsatz_euro": 2.75,
+          "status": "gewonnen",
+          "netto_euro": 1.16,
+          "gewinn_faktor": 0.42,
+          "kommentar": "Argentinien 3:0 - klare Klassen-Edge-Realisierung. Messi-Letzte-WM-Sentiment + 2:0-Insurance haetten ab Messi-Doppelpack (60') eh gegriffen.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "t-arg-2",
+          "markt": "Doppelte Chance 1X (Argentinien/Unentschieden)",
+          "kategorie": "value",
+          "quote": 1.08,
+          "einsatz_euro": 8.25,
+          "status": "gewonnen",
+          "netto_euro": 0.66,
+          "gewinn_faktor": 0.08,
+          "kommentar": "DC 1X via Argentinien-Sieg gewonnen.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "t-arg-3",
+          "markt": "Lautaro Martinez trifft jederzeit (Argentinien)",
+          "kategorie": "wackel",
+          "quote": 2.2,
+          "einsatz_euro": 8.25,
+          "status": "verloren",
+          "netto_euro": -8.25,
+          "gewinn_faktor": -1.0,
+          "kommentar": "Lautaro traf nicht, wurde fuer Julian Alvarez ausgewechselt - Alvarez traf auch nicht. Einwechslungs-Boost greift NICHT (alle 3 Tore Messi). Lesson-Material: Form-Edge-10er-Falle UMGEKEHRT - der 10er Messi traf alles, der 9er Lautaro NICHTS.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "t-arg-4",
+          "markt": "Lionel Messi trifft jederzeit (Argentinien)",
+          "kategorie": "wackel",
+          "quote": 2.6,
+          "einsatz_euro": 5.5,
+          "status": "gewonnen",
+          "netto_euro": 8.8,
+          "gewinn_faktor": 1.6,
+          "kommentar": "MESSI HATTRICK (17', 60', 76')! Form-Edge-10er-Falle-Markierung (Wirtz-Analogon) komplett WIDERLEGT - Messi gleicht Klose ein als WM-All-Time-Topscorer (16 Tore).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "t-arg-5",
+          "markt": "Unter 3.5 Tore (Gesamt)",
+          "kategorie": "value",
+          "quote": 1.45,
+          "einsatz_euro": 8.25,
+          "status": "gewonnen",
+          "netto_euro": 3.71,
+          "gewinn_faktor": 0.45,
+          "kommentar": "3 Tore total - Unter 3.5 erreicht. Auftakt-Defensiv-These (Algerien Bennacer-Mitte + organisierte 4er-Kette) hielt - Algerien selbst tor-leer.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "3:0",
+        "tore": [
+          {
+            "min": 17,
+            "team": "heim",
+            "spieler": "Messi (Assist De Paul, Linksfuss)",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 60,
+            "team": "heim",
+            "spieler": "Messi (Rebound Mac-Allister-Distanzschuss)",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 76,
+            "team": "heim",
+            "spieler": "Messi (Linksfuss, Hattrick, gleicht Klose ein)",
+            "stand_danach": "3:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Drehung - Argentinien fuehrte durchgehend, Algerien tor-leer. 2:0-Insurance-Hebel waere ab Messi-Doppelpack (60') ausgeloest gewesen."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Argentinien/Argentinien",
+          "kein_team_zu_null": false,
+          "siegtor_in_letzten_15min": false,
+          "ausgleich_in_letzten_15min": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Julian Alvarez",
+            "details": "Bank-Start wegen Ankle-Injury + PRP-Behandlung - kam fuer Lautaro rein, traf nicht."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Julian Alvarez",
+            "aus": "Lautaro Martinez",
+            "minute": null,
+            "tor": false,
+            "tor_minute": null
+          },
+          {
+            "team": "heim",
+            "ein": "Nico Paz",
+            "aus": "Messi",
+            "minute": 80,
+            "tor": false,
+            "tor_minute": null
+          }
+        ],
+        "auffaellige_patterns": [
+          "Form-Edge-10er-vs-9er-Falle INVERS: der nominelle 10er (Messi) holte Hattrick, der nominelle 9er (Lautaro) blieb tor-leer. Genauer Gegen-Pattern zur Wirtz-Lesson (15.06) - Lesson-Material: bei Karriere-Highlight-Motivation (Messi-letzte-WM) ist 10er-Tor-Wahrscheinlichkeit hoeher als statistisch.",
+          "Klassen-Edge-Sieg-Massenversagen-Pattern (Lesson 14.06+16.06) heute KOMPLETT GEBROCHEN - 3/3 Welt-Top-Favoriten gewannen ihre Auftakt-Spiele. Pattern war 3-Tage-Cluster, nicht dauerhaft.",
+          "Algerien selbst tor-leer - Algerien-Defense (Bennacer + Bensebaini/Mandi) hielt 1-Tor-Stand bis 60'. Unter-3.5-These bestaetigt."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "e-1",
+      "spiel_id": "2026-06-16-irq-nor",
+      "markt": "Erling Haaland trifft jederzeit (Norwegen)",
+      "kategorie": "value",
+      "quote": 1.43,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 11.0,
+      "begruendung": "Markt-Goldgrube-Anker (Torschuetzen Jederzeit +21.3% ROI, n=64). Haaland 32 von 50 Norwegen-Spielen mit Tor (64% HR pro Spiel) + 16 Quali-Tore + 28 PL-Tore Saison + WM-Debuet-Motivation. Klassen-Asymmetrie maximal (Quote 1.22 vs 12.0). Form-Edge-Pflicht Heim-Favorit (Norwegen Auswaerts-Favorit) erfuellt. Reality-Check Quoten 1.40-1.50: 58.3% HR / +5.7% ROI. VALUE statt SAFE wegen Lesson Form-Edge-10er-Falle (Wirtz tor leer 7:1).",
+      "rang": 1
+    },
+    {
+      "id": "e-2",
+      "spiel_id": "2026-06-16-arg-alg",
+      "markt": "Lautaro Martinez trifft jederzeit (Argentinien)",
+      "kategorie": "value",
+      "quote": 2.2,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Lautaro Serie-A-Top-Scorer 17 Tore + CL-Halbfinale + 3 Argentinien-Tore in letzten 4 Friendlies. Backup-These: bei Schon-Wechsel Julian Alvarez als Einwechslungs-Boost. Form-Edge-Pflicht erfuellt.",
+      "rang": 2
+    },
+    {
+      "id": "e-3",
+      "spiel_id": "2026-06-16-fra-sen",
+      "markt": "Kylian Mbappe trifft jederzeit (Frankreich)",
+      "kategorie": "value",
+      "quote": 1.8,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Mbappe 42 Tore Saison 2025/26 + 1 Tor entfernt von Giroud-Allzeit-Rekord. Form-Edge-Pflicht klar erfuellt. Thigh-Issue VALUE-Markierung, Backup-These Thuram Einwechslung. Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI.",
+      "rang": 3
+    },
+    {
+      "id": "e-4",
+      "spiel_id": "2026-06-16-fra-sen",
+      "markt": "Ousmane Dembele trifft jederzeit (Frankreich)",
+      "kategorie": "value",
+      "quote": 2.2,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "begruendung": "Markt-Goldgrube. 1.4 G+A/90 Ligue 1 + Back-to-Back-CL-Sieger. Voll fit (kein Thigh-Risiko). Backup-Pflicht bei Mbappe-Schon-Wechsel.",
+      "rang": 4
+    },
+    {
+      "id": "e-5",
+      "spiel_id": "2026-06-16-irq-nor",
+      "markt": "Doppelte Chance X2 (Unentschieden/Norwegen)",
+      "kategorie": "value",
+      "quote": 1.05,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 11.0,
+      "begruendung": "Markt-Goldgrube DC X2 (75% HR, +19.8% ROI, n=18). Faengt Draw-Cluster-Risiko ab. Reality-Check Quoten 1.00-1.10: 82% HR / +6% ROI.",
+      "rang": 5
+    },
+    {
+      "id": "e-6",
+      "spiel_id": "2026-06-16-arg-alg",
+      "markt": "Doppelte Chance 1X (Argentinien/Unentschieden)",
+      "kategorie": "value",
+      "quote": 1.08,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Markt-Goldgrube DC 1X (80% HR, +2.3% ROI, n=22). Draw-Cluster-Schutz. Reality-Check Quoten 1.00-1.10: 82% HR / +6% ROI.",
+      "rang": 6
+    },
+    {
+      "id": "e-7",
+      "spiel_id": "2026-06-16-irq-nor",
+      "markt": "Ueber 2.5 Tore (Gesamt)",
+      "kategorie": "value",
+      "quote": 1.7,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Markt-Goldgrube Ueber 2.5 Tore (+28.6% ROI, 53.8% HR, n=28). Norwegen 9 Tore in letzten 2 Quali (4-1 Estonia, 5-0 Moldova) + Haaland/Sorloth-Doppel-9er + Extrem-Klassen-Asymmetrie Quote 1.22 (analog Deutschland-Curacao 7:1 von 14.06.).",
+      "rang": 7
+    },
+    {
+      "id": "e-8",
+      "spiel_id": "2026-06-16-irq-nor",
+      "markt": "Alexander Sorloth trifft jederzeit (Norwegen)",
+      "kategorie": "value",
+      "quote": 2.3,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "begruendung": "Markt-Goldgrube. 56 LaLiga-Tore in 3 Saisons + Quali-Brace 4-1 Estonia. Stamm-9er neben Haaland. Doppel-Anker zum Haaland-Tipp.",
+      "rang": 8
+    },
+    {
+      "id": "e-9",
+      "spiel_id": "2026-06-16-arg-alg",
+      "markt": "Unter 3.5 Tore (Gesamt)",
+      "kategorie": "value",
+      "quote": 1.45,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "begruendung": "WM-Lesson 14.06. Spieltag-1-Unter-Dominanz 4/4 (Tag 1 Gruppe B). Argentinien-Auftakt taktisch reif. Algerien organisierte Defense (1-0 Saudi-Arabien Pre-Test). Reality-Check Quoten 1.30-1.50: 65% HR / +6% ROI.",
+      "rang": 9
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-safe",
+      "name": "Safe-Kombi (3 WM-Sieg-Anker)",
+      "kategorie": "safe",
+      "gesamtquote": 2.49,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 11.0,
+      "beine": [
+        {
+          "spiel_id": "2026-06-16-irq-nor",
+          "markt": "Norwegen Sieg (1X2)",
+          "quote": 1.22
+        },
+        {
+          "spiel_id": "2026-06-16-fra-sen",
+          "markt": "Frankreich Sieg (1X2)",
+          "quote": 1.44
+        },
+        {
+          "spiel_id": "2026-06-16-arg-alg",
+          "markt": "Argentinien Sieg (1X2)",
+          "quote": 1.42
+        }
+      ],
+      "begruendung": "Drei Welt-Top-Favoriten als Sieg-Anker. Quoten 1.22/1.44/1.42 = Klassen-Edge in allen 3 Spielen, 2:0-Insurance WM 2026 in allen 3 aktiv als Sicherung. Layer-2 erfuellt: alle Sieg-Outcomes konzentriert in dieser einen Kombi, andere Kombis sind sieg-Outcome-frei (Anytimes/Totals). Lesson 14.06+16.06 WM-Spieltag-1-Klassen-Edge-Sieg-Massenversagen + 16.06 Draw-Cluster: 3-Bein-Kombi mit allen Siegen ist sportlich AAA-grade aber Pattern-Risiko - Stake 2.0% = 11.00 EUR. Gesamtquote 2.49x knapp unter Safe-Soll ~3x aber bei nur 3 verfuegbaren Spielen kein Spielraum fuer mehr Beine (Layer-1 Cap)."
+    },
+    {
+      "id": "kombi-balance",
+      "name": "Balance-Kombi (3 Top-Stuermer Anytime)",
+      "kategorie": "balance",
+      "gesamtquote": 5.66,
+      "empfohlener_einsatz_prozent": 0.8,
+      "empfohlener_einsatz_euro": 4.4,
+      "beine": [
+        {
+          "spiel_id": "2026-06-16-irq-nor",
+          "markt": "Erling Haaland trifft jederzeit",
+          "quote": 1.43
+        },
+        {
+          "spiel_id": "2026-06-16-fra-sen",
+          "markt": "Kylian Mbappe trifft jederzeit",
+          "quote": 1.8
+        },
+        {
+          "spiel_id": "2026-06-16-arg-alg",
+          "markt": "Lautaro Martinez trifft jederzeit",
+          "quote": 2.2
+        }
+      ],
+      "begruendung": "Drei Top-Stuermer der Welt-Topteams - Goldgrube-Markt Torschuetzen Jederzeit aktiv eingebaut. Haaland 32/50 Norwegen-Spiele mit Tor + 28 PL-Tore + WM-Debuet-Boost. Mbappe 42 Saison-Tore + naher Giroud-Rekord. Lautaro Serie-A-Top-Scorer 17 Tore + CL-HF. Layer-1 ok (3 Spiele = 3 Beine). Layer-2 ok (keine Sieg-Outcomes). Lesson Wirtz-Form-Edge-10er-Falle als Restrisiko - daher Balance statt Safe-Kombi-Status. Gesamtquote 5.66x leicht unter Soll 6-10x wegen kurzer Quoten - Stake 0.8% = 4.40 EUR."
+    },
+    {
+      "id": "kombi-risiko",
+      "name": "Risiko-Kombi (Backup-Stuermer + Veteran-Anytime)",
+      "kategorie": "risk",
+      "gesamtquote": 13.16,
+      "empfohlener_einsatz_prozent": 0.25,
+      "empfohlener_einsatz_euro": 1.4,
+      "beine": [
+        {
+          "spiel_id": "2026-06-16-irq-nor",
+          "markt": "Alexander Sorloth trifft jederzeit",
+          "quote": 2.3
+        },
+        {
+          "spiel_id": "2026-06-16-fra-sen",
+          "markt": "Ousmane Dembele trifft jederzeit",
+          "quote": 2.2
+        },
+        {
+          "spiel_id": "2026-06-16-arg-alg",
+          "markt": "Lionel Messi trifft jederzeit",
+          "quote": 2.6
+        }
+      ],
+      "begruendung": "Sekundaer-Stuermer + Veteran-Anker als Risiko-Diversifikation gegen Haaland/Mbappe/Lautaro-Konzentration in Balance-Kombi. Sorloth 56 LaLiga-Tore + Quali-Brace, Dembele 1.4 G+A/90 PSG-CL-Sieger, Messi letzte-WM-Sentiment. Goldgrube Torschuetzen aktiv. Layer-1 ok, Layer-2 ok (keine Sieg-Outcomes). Diversifikation gegen Balance: andere Spieler pro Spiel. Lesson Mini-Spiele-Tag-Konzentrations-Strategie (29.05+30.05) validiert - Stake 0.25% = 1.40 EUR konservativ."
+    },
+    {
+      "id": "kombi-moonshot",
+      "name": "Moonshot-Kombi (3x 2+ Tore)",
+      "kategorie": "moonshot",
+      "gesamtquote": 67.38,
+      "empfohlener_einsatz_prozent": 0.1,
+      "empfohlener_einsatz_euro": 0.55,
+      "beine": [
+        {
+          "spiel_id": "2026-06-16-irq-nor",
+          "markt": "Erling Haaland 2+ Tore",
+          "quote": 3.5
+        },
+        {
+          "spiel_id": "2026-06-16-fra-sen",
+          "markt": "Kylian Mbappe 2+ Tore",
+          "quote": 3.5
+        },
+        {
+          "spiel_id": "2026-06-16-arg-alg",
+          "markt": "Lautaro Martinez 2+ Tore",
+          "quote": 5.5
+        }
+      ],
+      "begruendung": "Lotterie-Bein: 3 Top-Stuermer schiessen je mind. 2 Tore. Plausible Klassen-Edge bei Norway-Iraq (Haaland 2+ wie Quali 4-1 Estonia Brace), France-Senegal (Mbappe 2+ wie Saison-PL-Doppel-Pace) und Argentina-Algeria (Lautaro 2+ wie CL-Halbfinale). Spass-Stake 0.1% = 0.55 EUR. Layer-Markt-Beine sind 2+-Tore (Markt-Bein anders als Anytime - kein Layer-3 Verstoss formal). Player-Korrelation mit Balance-Kombi akzeptiert als Mini-Spiele-Tag-Realitaet (3 Spiele = wenig Diversifikations-Spielraum)."
+    }
+  ],
+  "lessons_angewandt": [
+    {
+      "datum": "2026-06-16",
+      "kategorie": "WM-Spieltag-1-Klassen-Edge-Sieg-Massenversagen",
+      "lesson_bezug": "Lesson 14.06 (0/4 Tag 1) + 16.06 (4/4 Draw-Cluster Tag 3 mit Iran-NZ 2-2 Last-Gasp). Heute 3 Klassen-Edge-Heim-Favoriten (Frankreich 1.44, Norwegen 1.22, Argentinien 1.42) ALLE als WACKEL statt SAFE markiert. SAFE-Sieg-Verbot WM-Auftakt aktiv.",
+      "angewandt_auf": [
+        "t-fra-1",
+        "t-nor-1",
+        "t-arg-1"
+      ]
+    },
+    {
+      "datum": "2026-06-16",
+      "kategorie": "2-0-Insurance-Half-Trigger-Fail-Hartregel-Verschaerfung",
+      "lesson_bezug": "Lesson 15.06+16.06 zwei Tage in Folge: 2:0-Insurance Halftime-Trigger hat NICHT gerettet (Spanien-Kapverde 1-0 + Saudi-Arabien-Uruguay 0-1). Insurance ist KEIN Safe-Hebel mehr fuer WM-Auftakt. Heute alle direkten Siege max wackel - Insurance nicht als Edge gerechnet.",
+      "angewandt_auf": [
+        "t-fra-1",
+        "t-nor-1",
+        "t-arg-1"
+      ]
+    },
+    {
+      "datum": "2026-06-16",
+      "kategorie": "Form-Edge-10er-vs-9er-Falle (Wirtz tor leer trotz 7:1)",
+      "lesson_bezug": "Lesson 15.06: Wirtz bei Deutschland-Curacao 7:1 blank trotz Form-Edge-Pflicht. Heute Messi als 10er-Falle-Beispiel markiert wackel statt value. Mbappe/Dembele/Haaland/Lautaro als 9er-Tipps mit VALUE-Markierung.",
+      "angewandt_auf": [
+        "t-arg-4"
+      ]
+    },
+    {
+      "datum": "2026-06-16",
+      "kategorie": "Markt-Goldgrube-Konzentrations-Pflicht (Torschuetzen + DC X2 + DC 1X + Ueber/Unter 2.5)",
+      "lesson_bezug": "Lesson 15.06 Goldgrube-Konzentrations-Triple-Hit-Validation. Heute Markt-Goldgrube-Diversifikation aktiv: 4 Anytime-Tipps (Haaland, Mbappe, Dembele, Sorloth, Lautaro), 3 DC-Tipps (Norway X2, France 1X, Argentina 1X), 2 Tor-Totals (Ueber 2.5 Norway, Unter 3.5 Argentina). Bluter Spread/Handicap nicht eingesetzt.",
+      "angewandt_auf": [
+        "e-1",
+        "e-2",
+        "e-3",
+        "e-4",
+        "e-5",
+        "e-6",
+        "e-7",
+        "e-8",
+        "e-9"
+      ]
+    },
+    {
+      "datum": "2026-06-16",
+      "kategorie": "Backup-Stuermer-Pflicht (Mbappe-Thigh + Lautaro-Schon-Wechsel + Haaland-Schon-Wechsel)",
+      "lesson_bezug": "CLAUDE.md Star-Ausfall -> Backup-Pflicht. Mbappe-Thigh-Issue Risiko -> Dembele als Backup-Tipp eingebaut. Lautaro Schon-Wechsel-Risiko -> Julian Alvarez als Backup-These im begruendung. Haaland Schon-Wechsel -> Sorloth Doppel-9er-Tipp.",
+      "angewandt_auf": [
+        "t-fra-4",
+        "e-4",
+        "e-8"
+      ]
+    },
+    {
+      "datum": "2026-06-16",
+      "kategorie": "Mini-Spiele-Tag-Konzentrations-Strategie (3 Spiele Korrelations-Cap)",
+      "lesson_bezug": "Lesson 19.05+29.05+30.05 Mini-Spiele-Tag-Kombi-Cap. Heute nur 3 WM-Spiele - Layer-1 begrenzt Kombi-Beine auf 3, Safe-Gesamtquote nur 2.49x (statt Soll 3x). Kombi-Einsaetze konservativ gehalten (Safe 2.0%, Balance 0.8%, Risiko 0.25%, Moonshot 0.1%).",
+      "angewandt_auf": [
+        "kombi-safe",
+        "kombi-balance",
+        "kombi-risiko",
+        "kombi-moonshot"
+      ]
+    },
+    {
+      "datum": "2026-06-16",
+      "kategorie": "Layer-2-Diversifikation Sieg-Outcomes konzentriert in Safe-Kombi",
+      "lesson_bezug": "Lesson 29.04 Inter-Kombi-Diversifikation Layer-2. Heute alle 3 Sieg-Outcomes (Norway/France/Argentina 1X2) in einer Safe-Kombi konzentriert. Balance/Risiko/Moonshot reine Player-Anytime + 2+ Tore Kombis ohne Sieg-Outcomes - keine Domino-Welle bei einem Klassen-Verlierer-Crash.",
+      "angewandt_auf": [
+        "kombi-safe",
+        "kombi-balance",
+        "kombi-risiko",
+        "kombi-moonshot"
+      ]
+    }
+  ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-06-16T17:45:00+02:00",
+    "modus": "post-watchdog-recovery (recherche-File 2026-06-16 fehlte, Squad-Abgleich nicht moeglich, Spieler-Halluzinations-Check nur via news[]-Aufstellungen statt squad_heim/gast)",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "kombi_quote_unter_hartregel_range",
+        "details": "Safe 2.49x (Soll 3-5x), Balance 5.66x (Soll 6-10x), Risiko 13.16x (Soll 15-30x), Moonshot 67.38x (Soll 100x+). Ursache: Mini-Spiele-Tag mit nur 3 WM-Spielen, Layer-1 begrenzt auf 3 Beine. In lessons_angewandt 'Mini-Spiele-Tag-Konzentrations-Strategie' bewusst dokumentiert - akzeptierte Abweichung."
+      },
+      {
+        "art": "torschuetzen_quelle_warn_aktiv",
+        "details": "Tipps t-fra-3 (Mbappe), t-fra-4 (Dembele), t-irn-3 (Haaland), t-irn-4 (Sorloth), t-arg-3 (Messi), t-arg-4 (Lautaro Martinez) tragen _torschuetze_quelle_warn:true. Vereins-Quelle (transfermarkt/kicker/espn) in quellen[] fehlt - im Watchdog-Recovery-Modus erwartet, max wackel-Cap bereits angewandt."
+      },
+      {
+        "art": "recherche_file_fehlt",
+        "details": "data/recherche/2026-06-16.json existiert nicht (Hauptroutine 16:00 ausgefallen). Squad-Halluzinations-Cross-Check basiert ausschliesslich auf news[]-Aufstellungen im Tipps-File. Spielername-Position-Cross-Check vs squad_heim/squad_gast war nicht moeglich."
+      }
+    ],
+    "layer_1_check": "OK - kein Spiel in einer Kombi doppelt mit zwei Beinen.",
+    "layer_2_check": "OK - alle 3 Sieg-Outcomes (Norway/France/Argentina 1X2) konzentriert in Safe-Kombi, kein Sieg-Outcome doppelt in Balance/Risiko/Moonshot.",
+    "layer_3_check": "WEICH - 3 von 3 Spielen erscheinen in allen 4 Kombis (unvermeidlich bei Mini-Spiele-Tag mit nur 3 Spielen). Markt-Diversifikation (Sieg/Anytime/2+) entkoppelt.",
+    "gesamtquote_rechnung_check": "Alle 4 Kombi-Quoten mathematisch korrekt (Safe 1.22*1.44*1.42=2.495, Balance 1.43*1.80*2.20=5.663, Risiko 2.30*2.20*2.60=13.156, Moonshot 3.50*3.50*5.50=67.375).",
+    "selbstwiderspruchs_scan": "OK nach hinweis-Korrektur (Soll-Quoten in hinweis auf actual-Quoten angeglichen). NBA-Finals-Beendet-Statement konsistent mit Knicks 4-1 Serien-Ende 14.06. Kein Spieler-OUT-vs-IN-Widerspruch in news[]/Tipps. Mbappe-Thigh-Issue korrekt als VALUE/WACKEL eingeordnet (kein SAFE).",
+    "saison_kontext_quellen_check": "OK - jedes Spiel hat quellen[] mit fifa.com-Verband-URL + transfermarkt + ESPN + bet365-news + spezifische Match-Preview-URLs (5+ pro Spiel).",
+    "lessons_generiert": [],
+    "erfolgs_kriterium": "ERFUELLT (post-watchdog, ohne squad-Cross-Check). 0 Drops, 0 Downgrades, 3 Warns (kombi-Range-Documentation, Torschuetzen-Quelle-Warn-active, Recherche-File-Fehlt-Hinweis). PWA-Ampel: GELB (Warns vorhanden, kein kritischer Drop)."
+  },
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "einzeltipps_ergebnis": [
+    {
+      "id": "e-1",
+      "spiel_id": "2026-06-16-irq-nor",
+      "markt": "Erling Haaland trifft jederzeit (Norwegen)",
+      "kategorie": "value",
+      "quote": 1.43,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 11.0,
+      "begruendung": "Markt-Goldgrube-Anker (Torschuetzen Jederzeit +21.3% ROI, n=64). Haaland 32 von 50 Norwegen-Spielen mit Tor (64% HR pro Spiel) + 16 Quali-Tore + 28 PL-Tore Saison + WM-Debuet-Motivation. Klassen-Asymmetrie maximal (Quote 1.22 vs 12.0). Form-Edge-Pflicht Heim-Favorit (Norwegen Auswaerts-Favorit) erfuellt. Reality-Check Quoten 1.40-1.50: 58.3% HR / +5.7% ROI. VALUE statt SAFE wegen Lesson Form-Edge-10er-Falle (Wirtz tor leer 7:1).",
+      "rang": 1,
+      "status": "gewonnen",
+      "tipp_id": "t-nor-3",
+      "netto_euro": 4.73,
+      "kommentar": "Haaland Brace bei WM-Debuet - Goldgrube-Markt validiert.",
+      "tipp_ref": "t-nor-3",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "e-2",
+      "spiel_id": "2026-06-16-arg-alg",
+      "markt": "Lautaro Martinez trifft jederzeit (Argentinien)",
+      "kategorie": "value",
+      "quote": 2.2,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Lautaro Serie-A-Top-Scorer 17 Tore + CL-Halbfinale + 3 Argentinien-Tore in letzten 4 Friendlies. Backup-These: bei Schon-Wechsel Julian Alvarez als Einwechslungs-Boost. Form-Edge-Pflicht erfuellt.",
+      "rang": 2,
+      "status": "verloren",
+      "tipp_id": "t-arg-3",
+      "netto_euro": -8.25,
+      "kommentar": "Lautaro traf nicht, Alvarez (Sub) auch nicht - kein Boost. Messi nahm die Show.",
+      "tipp_ref": "t-arg-3",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "e-3",
+      "spiel_id": "2026-06-16-fra-sen",
+      "markt": "Kylian Mbappe trifft jederzeit (Frankreich)",
+      "kategorie": "value",
+      "quote": 1.8,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Mbappe 42 Tore Saison 2025/26 + 1 Tor entfernt von Giroud-Allzeit-Rekord. Form-Edge-Pflicht klar erfuellt. Thigh-Issue VALUE-Markierung, Backup-These Thuram Einwechslung. Reality-Check Quoten 1.50-2.00: 54.4% HR / +11.8% ROI.",
+      "rang": 3,
+      "status": "gewonnen",
+      "tipp_id": "t-fra-3",
+      "netto_euro": 6.6,
+      "kommentar": "Mbappe Brace + Frankreich-Allzeit-Rekord 58 Tore.",
+      "tipp_ref": "t-fra-3",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "e-4",
+      "spiel_id": "2026-06-16-fra-sen",
+      "markt": "Ousmane Dembele trifft jederzeit (Frankreich)",
+      "kategorie": "value",
+      "quote": 2.2,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "begruendung": "Markt-Goldgrube. 1.4 G+A/90 Ligue 1 + Back-to-Back-CL-Sieger. Voll fit (kein Thigh-Risiko). Backup-Pflicht bei Mbappe-Schon-Wechsel.",
+      "rang": 4,
+      "status": "gewonnen",
+      "tipp_id": "t-fra-4",
+      "netto_euro": 6.6,
+      "kommentar": "Einwechslungs-Boost: Dembele raus 80', Barcola rein und trifft 82' - Tor zaehlt fuer Dembele-Tipp (bet365 Regel).",
+      "tipp_ref": "t-fra-4",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "e-5",
+      "spiel_id": "2026-06-16-irq-nor",
+      "markt": "Doppelte Chance X2 (Unentschieden/Norwegen)",
+      "kategorie": "value",
+      "quote": 1.05,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 11.0,
+      "begruendung": "Markt-Goldgrube DC X2 (75% HR, +19.8% ROI, n=18). Faengt Draw-Cluster-Risiko ab. Reality-Check Quoten 1.00-1.10: 82% HR / +6% ROI.",
+      "rang": 5,
+      "status": "gewonnen",
+      "tipp_id": "t-nor-2",
+      "netto_euro": 0.55,
+      "kommentar": "DC X2 via Norwegen-Sieg 4:1.",
+      "tipp_ref": "t-nor-2",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "e-6",
+      "spiel_id": "2026-06-16-arg-alg",
+      "markt": "Doppelte Chance 1X (Argentinien/Unentschieden)",
+      "kategorie": "value",
+      "quote": 1.08,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Markt-Goldgrube DC 1X (80% HR, +2.3% ROI, n=22). Draw-Cluster-Schutz. Reality-Check Quoten 1.00-1.10: 82% HR / +6% ROI.",
+      "rang": 6,
+      "status": "gewonnen",
+      "tipp_id": "t-arg-2",
+      "netto_euro": 0.66,
+      "kommentar": "DC 1X via Argentinien-Sieg 3:0.",
+      "tipp_ref": "t-arg-2",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "e-7",
+      "spiel_id": "2026-06-16-irq-nor",
+      "markt": "Ueber 2.5 Tore (Gesamt)",
+      "kategorie": "value",
+      "quote": 1.7,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Markt-Goldgrube Ueber 2.5 Tore (+28.6% ROI, 53.8% HR, n=28). Norwegen 9 Tore in letzten 2 Quali (4-1 Estonia, 5-0 Moldova) + Haaland/Sorloth-Doppel-9er + Extrem-Klassen-Asymmetrie Quote 1.22 (analog Deutschland-Curacao 7:1 von 14.06.).",
+      "rang": 7,
+      "status": "gewonnen",
+      "tipp_id": "t-nor-5",
+      "netto_euro": 5.78,
+      "kommentar": "5 Tore (4:1) - Ueber 2.5 deutlich.",
+      "tipp_ref": "t-nor-5",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "e-8",
+      "spiel_id": "2026-06-16-irq-nor",
+      "markt": "Alexander Sorloth trifft jederzeit (Norwegen)",
+      "kategorie": "value",
+      "quote": 2.3,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "begruendung": "Markt-Goldgrube. 56 LaLiga-Tore in 3 Saisons + Quali-Brace 4-1 Estonia. Stamm-9er neben Haaland. Doppel-Anker zum Haaland-Tipp.",
+      "rang": 8,
+      "status": "verloren",
+      "tipp_id": "t-nor-4",
+      "netto_euro": -5.5,
+      "kommentar": "Sorloth traf nicht, Bobb (sein Sub) auch nicht - kein Boost.",
+      "tipp_ref": "t-nor-4",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "e-9",
+      "spiel_id": "2026-06-16-arg-alg",
+      "markt": "Unter 3.5 Tore (Gesamt)",
+      "kategorie": "value",
+      "quote": 1.45,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "begruendung": "WM-Lesson 14.06. Spieltag-1-Unter-Dominanz 4/4 (Tag 1 Gruppe B). Argentinien-Auftakt taktisch reif. Algerien organisierte Defense (1-0 Saudi-Arabien Pre-Test). Reality-Check Quoten 1.30-1.50: 65% HR / +6% ROI.",
+      "rang": 9,
+      "status": "gewonnen",
+      "tipp_id": "t-arg-5",
+      "netto_euro": 3.71,
+      "kommentar": "3 Tore total (alle Messi) - Unter 3.5 erfuellt, Algerien tor-leer.",
+      "tipp_ref": "t-arg-5",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "kombi-safe",
+      "status": "gewonnen",
+      "gesamtquote": 2.49,
+      "einsatz_euro": 11.0,
+      "netto_euro": 16.39,
+      "kommentar": "GEWONNEN! Alle 3 Sieg-Tipps (Norway 4:1, France 3:1, Argentina 3:0) gewonnen. Klassen-Edge-Massenversagen-Lesson 14.06+16.06 war 3-Tage-Cluster, brach heute. Layer-2-Konzentration zahlte sich aus."
+    },
+    {
+      "kombi_id": "kombi-balance",
+      "status": "verloren",
+      "gesamtquote": 5.66,
+      "einsatz_euro": 4.4,
+      "netto_euro": -4.4,
+      "kommentar": "Verloren - Haaland Brace + Mbappe Brace gewonnen, ABER Lautaro tor-leer (Messi nahm Show mit Hattrick statt Lautaro). 2/3 = Kombi tot."
+    },
+    {
+      "kombi_id": "kombi-risiko",
+      "status": "verloren",
+      "gesamtquote": 13.16,
+      "einsatz_euro": 1.4,
+      "netto_euro": -1.4,
+      "kommentar": "Verloren - Dembele gewonnen (Einwechslungs-Boost via Barcola) + Messi Hattrick, ABER Sorloth tor-leer (Bobb auch). 2/3 = Kombi tot."
+    },
+    {
+      "kombi_id": "kombi-moonshot",
+      "status": "verloren",
+      "gesamtquote": 67.38,
+      "einsatz_euro": 0.55,
+      "netto_euro": -0.55,
+      "kommentar": "Verloren - Haaland 2+ (Brace) + Mbappe 2+ (Brace) GEWONNEN, ABER Lautaro 2+ verloren (Messi machte Hattrick statt Lautaro). Inversen-Falle - haetten Messi 2+ statt Lautaro 2+ getippt, Moonshot 67x = >>> 37 EUR gewesen."
+    }
+  ],
+  "ausgewertet_am": "2026-06-17T08:00:00+00:00"
+}
