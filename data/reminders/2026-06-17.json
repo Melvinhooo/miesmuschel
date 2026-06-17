@@ -1,11 +1,17 @@
 {
-  "stand": "2026-06-17T18:44:18.754273+00:00",
+  "stand": "2026-06-18T00:59:03.602312+00:00",
   "gesendet": {
     "2026-06-17-eng-cro": {
       "sent_at": "2026-06-17T18:44:17.465930+00:00",
       "anstoss": "2026-06-17T22:00:00+02:00",
       "spiel": "England vs Kroatien",
       "top_tipp": "Harry Kane trifft jederzeit"
+    },
+    "2026-06-17-uzb-col": {
+      "sent_at": "2026-06-18T00:59:02.952252+00:00",
+      "anstoss": "2026-06-18T04:00:00+02:00",
+      "spiel": "Usbekistan vs Kolumbien",
+      "top_tipp": "Luis Diaz trifft jederzeit"
     }
   }
 }
