@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS = {
+{
   "datum": "2026-06-17",
   "erstellt_am": "2026-06-17T17:15:00+02:00",
   "hinweis": "Watchdog-Recovery 17:15 (Hauptroutine 16:00 nicht durchgelaufen). WM-Spieltag-1 Gruppen K + L mit 4 Spielen. Kasse-Stufe 1 (550€). Per Lesson 17.06 Tag-4-Cluster-Bruch: Klassen-Edge-Sieg-Tipps Quote 1.20-1.45 wieder VALUE erlaubt. Mexiko-Hoehe-Sonderregel aktiv fuer UZB-COL (Estadio Azteca 2240m).",
@@ -583,4 +582,4 @@ window.__MIESMUSCHEL_TIPPS = {
     }
   ],
   "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
-};
+}
