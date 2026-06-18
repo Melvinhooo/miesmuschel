@@ -36,15 +36,16 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
       ],
       "tipps": [
         {
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Niederlande Sieg",
           "quote": 1.75,
           "edge_prozent": 4.5,
           "empfohlener_einsatz_euro": 8.25,
           "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "Klassen-Edge real (Top-Liga-Roster mit Van Dijk-CB-Klasse + De Jong/Reijnders Mittelfeld vs Schweden-Mittelfeld-Engpass). MUSS-Sieg-Druck + Heim-Fan-Atmosphaere NRG. Per Lesson 18.06 'Tag-5-Re-Massenversagen-Cluster' max VALUE (kein SAFE). Quote 1.75 = 57% implied vs faire ~61%. Reality-Check 1X2-Klassen-Edge-Bilanz positiv aus statistik.json. Quote via Squawka/OneFootball verifiziert.",
+          "begruendung": "Klassen-Edge real (Top-Liga-Roster mit Van Dijk-CB-Klasse + De Jong/Reijnders Mittelfeld vs Schweden-Mittelfeld-Engpass). MUSS-Sieg-Druck + Heim-Fan-Atmosphaere NRG. Per Lesson 18.06 'Tag-5-Re-Massenversagen-Cluster' max VALUE (kein SAFE). Quote 1.75 = 57% implied vs faire ~61%. Reality-Check 1X2-Klassen-Edge-Bilanz positiv aus statistik.json. Quote via Squawka/OneFootball verifiziert. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
           "reality_check": "WM-Spieltag-2 Klassen-Edge VALUE-Status. NICHT SAFE wegen Sweden-Top-Form-Sturm + Coinflip-Risiko.",
-          "faire_quote": 1.64
+          "faire_quote": 1.64,
+          "_saison_kontext_sanity_downgrade": true
         },
         {
           "kategorie": "wackel",
@@ -380,13 +381,13 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "faire_quote": 1.59
         },
         {
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Lamine Yamal trifft jederzeit",
           "quote": 2.4,
           "edge_prozent": 8.0,
           "empfohlener_einsatz_euro": 8.25,
           "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "Markt-Goldgrube 'Torschuetzen Jederzeit' (40.3% / +20.4% ROI). Yamal MASSIVE Klassen-Edge + Frust-Push nach Auftakt-Sperre + voraussichtlich Startelf gegen schwaches SAU. Saudi-Defense gegen Yamal-Dribbling-Profil bestmoeglich angreifbar. RW-Position, hoher Schuss-Volume. CLAUDE.md HEIM-FAVORIT-PFLICHT (Quote 1.10 < 1.80): Torschuetzen-Tipp PFLICHT. Quote 2.40 = 42% implied vs faire ~47%. [Auto: Torschuetze-Vereins-Quelle fehlt in quellen[] - max wackel via Mapper]",
+          "begruendung": "Markt-Goldgrube 'Torschuetzen Jederzeit' (40.3% / +20.4% ROI). Yamal MASSIVE Klassen-Edge + Frust-Push nach Auftakt-Sperre + voraussichtlich Startelf gegen schwaches SAU. Saudi-Defense gegen Yamal-Dribbling-Profil bestmoeglich angreifbar. RW-Position, hoher Schuss-Volume. CLAUDE.md HEIM-FAVORIT-PFLICHT (Quote 1.10 < 1.80): Torschuetzen-Tipp PFLICHT. Quote 2.40 = 42% implied vs faire ~47%. [Auto: Torschuetze-Vereins-Quelle fehlt in quellen[] - max wackel via Mapper] [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "reality_check": "Torschuetzen Jederzeit Goldgrube + Heim-Favorit-Pflicht + Karriere-Highlight-INVERSE-Hebel deaktiviert (war Auftakt-Schweigen, kein Highlight).",
           "faire_quote": 2.13,
           "_torschuetze_quelle_warn": true
@@ -669,18 +670,20 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
       "edge_prozent": 3.0,
       "empfohlener_einsatz_euro": 8.25,
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Klassen-Edge maximal (Top-Liga-Roster + Auftakt-7:1 vs Curacao) gegen CIV-Block-Defense. Lesson 18.06 max VALUE."
+      "begruendung": "Klassen-Edge maximal (Top-Liga-Roster + Auftakt-7:1 vs Curacao) gegen CIV-Block-Defense. Lesson 18.06 max VALUE.",
+      "rang": 1
     },
     {
       "spiel_id": "2026-06-20-ned-swe",
       "spiel_kurz": "Niederlande - Schweden",
-      "kategorie": "value",
+      "kategorie": "wackel",
       "markt": "Niederlande Sieg",
       "quote": 1.75,
       "edge_prozent": 4.5,
       "empfohlener_einsatz_euro": 8.25,
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Klassen-Edge (Van Dijk/De Jong/Reijnders) + MUSS-Sieg-Druck-Heim. Lesson 18.06 max VALUE."
+      "begruendung": "Klassen-Edge (Van Dijk/De Jong/Reijnders) + MUSS-Sieg-Druck-Heim. Lesson 18.06 max VALUE.",
+      "rang": 2
     },
     {
       "spiel_id": "2026-06-21-tun-jpn",
@@ -691,7 +694,8 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
       "edge_prozent": 4.0,
       "empfohlener_einsatz_euro": 8.25,
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Klassen-Edge + Tunesien-Trainer-Chaos nach Renard-Notmandat 4 Tage. Lesson 18.06 max VALUE."
+      "begruendung": "Klassen-Edge + Tunesien-Trainer-Chaos nach Renard-Notmandat 4 Tage. Lesson 18.06 max VALUE.",
+      "rang": 3
     },
     {
       "spiel_id": "2026-06-22-uru-cpv",
@@ -702,7 +706,8 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
       "edge_prozent": 4.0,
       "empfohlener_einsatz_euro": 8.25,
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Klassen-Edge (Nunez/Valverde/Bentancur) + MUSS-Sieg-Frust-Push nach Auftakt-Stolperer. Lesson 18.06 max VALUE."
+      "begruendung": "Klassen-Edge (Nunez/Valverde/Bentancur) + MUSS-Sieg-Frust-Push nach Auftakt-Stolperer. Lesson 18.06 max VALUE.",
+      "rang": 4
     },
     {
       "spiel_id": "2026-06-22-nzl-egy",
@@ -713,7 +718,8 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
       "edge_prozent": 4.0,
       "empfohlener_einsatz_euro": 8.25,
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Klassen-Edge (Salah/Marmoush Top-5-Liga) + Auftakt-1:1 vs Belgien beweist Klasse. Lesson 18.06 max VALUE."
+      "begruendung": "Klassen-Edge (Salah/Marmoush Top-5-Liga) + Auftakt-1:1 vs Belgien beweist Klasse. Lesson 18.06 max VALUE.",
+      "rang": 5
     },
     {
       "spiel_id": "2026-06-21-bel-irn",
@@ -724,7 +730,8 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
       "edge_prozent": 3.0,
       "empfohlener_einsatz_euro": 8.25,
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Klassen-Edge real + Belgien-Frust-Push. Lesson 18.06 max VALUE."
+      "begruendung": "Klassen-Edge real + Belgien-Frust-Push. Lesson 18.06 max VALUE.",
+      "rang": 6
     },
     {
       "spiel_id": "2026-06-21-ecu-cur",
@@ -735,18 +742,20 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
       "edge_prozent": 6.0,
       "empfohlener_einsatz_euro": 8.25,
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Klassen-Edge maximal + Curacao-Defense-Trauma (1:7-Crash) + Ecuador-Tordifferenz-Aufholjagd-Push. Reine ECU-Quote 1.10 zu kurz - Kombi mit Goldgrube-Markt."
+      "begruendung": "Klassen-Edge maximal + Curacao-Defense-Trauma (1:7-Crash) + Ecuador-Tordifferenz-Aufholjagd-Push. Reine ECU-Quote 1.10 zu kurz - Kombi mit Goldgrube-Markt.",
+      "rang": 7
     },
     {
       "spiel_id": "2026-06-21-esp-sau",
       "spiel_kurz": "Spanien - Saudi-Arabien",
-      "kategorie": "value",
+      "kategorie": "wackel",
       "markt": "Spanien Sieg & Ueber 2.5 Tore",
       "quote": 1.75,
       "edge_prozent": 6.0,
       "empfohlener_einsatz_euro": 8.25,
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Klassen-Edge maximal + Spanien-Auftakt-Frust-Push (0:0 vs CPV) + Yamal-Sturmlinie. Reine ESP-Quote 1.10 zu kurz - Kombi mit Goldgrube-Markt."
+      "begruendung": "Klassen-Edge maximal + Spanien-Auftakt-Frust-Push (0:0 vs CPV) + Yamal-Sturmlinie. Reine ESP-Quote 1.10 zu kurz - Kombi mit Goldgrube-Markt.",
+      "rang": 8
     },
     {
       "spiel_id": "2026-06-20-ger-civ",
@@ -757,18 +766,20 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
       "edge_prozent": 8.0,
       "empfohlener_einsatz_euro": 8.25,
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Goldgrube Torschuetzen Jederzeit (+20.4% ROI) + Form-Edge (6 Tor-Beteiligungen letzte 5) + Heim-Favorit-Pflicht <1.80. INVERSE-Hebel deaktiviert per Hinweis-Block."
+      "begruendung": "Goldgrube Torschuetzen Jederzeit (+20.4% ROI) + Form-Edge (6 Tor-Beteiligungen letzte 5) + Heim-Favorit-Pflicht <1.80. INVERSE-Hebel deaktiviert per Hinweis-Block.",
+      "rang": 9
     },
     {
       "spiel_id": "2026-06-21-esp-sau",
       "spiel_kurz": "Spanien - Saudi-Arabien",
-      "kategorie": "value",
+      "kategorie": "wackel",
       "markt": "Lamine Yamal trifft jederzeit",
       "quote": 2.4,
       "edge_prozent": 8.0,
       "empfohlener_einsatz_euro": 8.25,
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Goldgrube Torschuetzen Jederzeit + Frust-Push (Auftakt-Schweigen kein Highlight) + SAU-Block-Loecher gegen Dribbler-Profile + Heim-Favorit-Pflicht."
+      "begruendung": "Goldgrube Torschuetzen Jederzeit + Frust-Push (Auftakt-Schweigen kein Highlight) + SAU-Block-Loecher gegen Dribbler-Profile + Heim-Favorit-Pflicht.",
+      "rang": 10
     }
   ],
   "kombis": [
@@ -831,7 +842,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
     },
     {
       "name": "Risiko-Kombi (4er Torschuetzen-Joker)",
-      "kategorie": "risiko",
+      "kategorie": "risk",
       "beine": [
         {
           "spiel_id": "2026-06-20-ned-swe",
