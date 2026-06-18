@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-06-17T07:12:44+00:00",
+  "letzte_berechnung": "2026-06-18T07:11:21+00:00",
   "gesamt": {
-    "tipps": 373,
-    "gewonnen": 202,
-    "verloren": 160,
+    "tipps": 383,
+    "gewonnen": 208,
+    "verloren": 164,
     "push": 2,
     "offen": 9,
-    "einsatz": 364.0,
+    "einsatz": 374.0,
     "netto": 37.2,
-    "trefferquote": 55.8,
-    "roi_prozent": 10.2
+    "trefferquote": 55.9,
+    "roi_prozent": 9.9
   },
   "letzte_30_tage": {
-    "tipps": 137,
-    "gewonnen": 72,
-    "verloren": 63,
+    "tipps": 139,
+    "gewonnen": 77,
+    "verloren": 60,
     "push": 2,
     "offen": 0,
-    "einsatz": 137.0,
-    "netto": 15.88,
-    "trefferquote": 53.3,
-    "roi_prozent": 11.6
+    "einsatz": 139.0,
+    "netto": 21.93,
+    "trefferquote": 56.2,
+    "roi_prozent": 15.8
   },
   "letzte_90_tage": {
-    "tipps": 373,
-    "gewonnen": 202,
-    "verloren": 160,
+    "tipps": 383,
+    "gewonnen": 208,
+    "verloren": 164,
     "push": 2,
     "offen": 9,
-    "einsatz": 364.0,
+    "einsatz": 374.0,
     "netto": 37.2,
-    "trefferquote": 55.8,
-    "roi_prozent": 10.2
+    "trefferquote": 55.9,
+    "roi_prozent": 9.9
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -672,6 +672,28 @@ window.__MIESMUSCHEL_STAT = {
       "netto": -0.47,
       "trefferquote": 66.7,
       "roi_prozent": -15.7
+    },
+    "FIFA World Cup 2026 - Gruppe K - Spieltag 1": {
+      "tipps": 6,
+      "gewonnen": 2,
+      "verloren": 4,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 6.0,
+      "netto": 0.0,
+      "trefferquote": 33.3,
+      "roi_prozent": 0.0
+    },
+    "FIFA World Cup 2026 - Gruppe L - Spieltag 1": {
+      "tipps": 4,
+      "gewonnen": 4,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 4.0,
+      "netto": 0.0,
+      "trefferquote": 100.0,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt": {
@@ -3261,15 +3283,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 91.0
     },
     "Portugal Sieg": {
-      "tipps": 1,
+      "tipps": 4,
       "gewonnen": 1,
-      "verloren": 0,
+      "verloren": 3,
       "push": 0,
       "offen": 0,
-      "einsatz": 1.0,
+      "einsatz": 4.0,
       "netto": 0.22,
-      "trefferquote": 100.0,
-      "roi_prozent": 22.0
+      "trefferquote": 25.0,
+      "roi_prozent": 5.5
     },
     "Belgien Sieg": {
       "tipps": 1,
@@ -3294,15 +3316,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 30.0
     },
     "England Sieg": {
-      "tipps": 1,
-      "gewonnen": 1,
+      "tipps": 4,
+      "gewonnen": 4,
       "verloren": 0,
       "push": 0,
       "offen": 0,
-      "einsatz": 1.0,
+      "einsatz": 4.0,
       "netto": 0.12,
       "trefferquote": 100.0,
-      "roi_prozent": 12.0
+      "roi_prozent": 3.0
     },
     "Harry Kane trifft (Jederzeit)": {
       "tipps": 1,
@@ -3886,6 +3908,28 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.45,
       "trefferquote": 100.0,
       "roi_prozent": 45.0
+    },
+    "Kolumbien Sieg": {
+      "tipps": 3,
+      "gewonnen": 2,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 0.0,
+      "trefferquote": 66.7,
+      "roi_prozent": 0.0
+    },
+    "Ghana Doppelte Chance 1X (Sieg oder Remis)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 100.0,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt_typ": {
@@ -3934,15 +3978,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 55.0
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 114,
-      "gewonnen": 65,
-      "verloren": 48,
+      "tipps": 123,
+      "gewonnen": 70,
+      "verloren": 52,
       "push": 0,
       "offen": 1,
-      "einsatz": 113.0,
+      "einsatz": 122.0,
       "netto": 6.99,
-      "trefferquote": 57.5,
-      "roi_prozent": 6.2
+      "trefferquote": 57.4,
+      "roi_prozent": 5.7
     },
     "Torschuetzen Jederzeit": {
       "tipps": 69,
@@ -3967,15 +4011,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 29.2
     },
     "Doppelte Chance 1X": {
-      "tipps": 23,
-      "gewonnen": 17,
+      "tipps": 24,
+      "gewonnen": 18,
       "verloren": 4,
       "push": 0,
       "offen": 2,
-      "einsatz": 21.0,
+      "einsatz": 22.0,
       "netto": 0.54,
-      "trefferquote": 81.0,
-      "roi_prozent": 2.6
+      "trefferquote": 81.8,
+      "roi_prozent": 2.5
     },
     "Doppelte Chance X2": {
       "tipps": 19,
@@ -4376,15 +4420,15 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 180,
-      "gewonnen": 91,
+      "tipps": 183,
+      "gewonnen": 94,
       "verloren": 84,
       "push": 1,
       "offen": 4,
-      "einsatz": 176.0,
+      "einsatz": 179.0,
       "netto": 14.33,
-      "trefferquote": 52.0,
-      "roi_prozent": 8.1
+      "trefferquote": 52.8,
+      "roi_prozent": 8.0
     },
     "2.00-3.00": {
       "tipps": 53,
@@ -4398,15 +4442,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 11.4
     },
     "1.00-1.50": {
-      "tipps": 122,
-      "gewonnen": 85,
-      "verloren": 33,
+      "tipps": 129,
+      "gewonnen": 88,
+      "verloren": 37,
       "push": 0,
       "offen": 4,
-      "einsatz": 118.0,
+      "einsatz": 125.0,
       "netto": 9.38,
-      "trefferquote": 72.0,
-      "roi_prozent": 7.9
+      "trefferquote": 70.4,
+      "roi_prozent": 7.5
     },
     "3.00+": {
       "tipps": 18,
@@ -4433,26 +4477,26 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 0.4
     },
     "value": {
-      "tipps": 219,
-      "gewonnen": 117,
-      "verloren": 91,
+      "tipps": 228,
+      "gewonnen": 122,
+      "verloren": 95,
       "push": 2,
       "offen": 9,
-      "einsatz": 210.0,
+      "einsatz": 219.0,
       "netto": 31.36,
       "trefferquote": 56.2,
-      "roi_prozent": 14.9
+      "roi_prozent": 14.3
     },
     "wackel": {
-      "tipps": 73,
-      "gewonnen": 32,
+      "tipps": 74,
+      "gewonnen": 33,
       "verloren": 41,
       "push": 0,
       "offen": 0,
-      "einsatz": 73.0,
+      "einsatz": 74.0,
       "netto": 5.49,
-      "trefferquote": 43.8,
-      "roi_prozent": 7.5
+      "trefferquote": 44.6,
+      "roi_prozent": 7.4
     }
   },
   "clv_gesamt": {
@@ -4494,6 +4538,143 @@ window.__MIESMUSCHEL_STAT = {
     }
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-06-17",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "Safe",
+          "kategorie": "",
+          "gesamtquote": 3.06,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "1X2",
+              "quote": 1.27,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "1X2",
+              "quote": 1.72,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "1X2",
+              "quote": 1.4,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance",
+          "kategorie": "",
+          "gesamtquote": 9.3,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Torschuetzen Jederzeit",
+              "quote": 1.72,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Torschuetzen Jederzeit",
+              "quote": 2.35,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Torschuetzen Jederzeit",
+              "quote": 2.3,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko",
+          "kategorie": "",
+          "gesamtquote": 27.18,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Tor-Total",
+              "quote": 1.8,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "BTTS",
+              "quote": 1.65,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Tor-Total",
+              "quote": 1.83,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Torschuetzen Jederzeit",
+              "quote": 5.0,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot",
+          "kategorie": "",
+          "gesamtquote": 33.12,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Tor-Total",
+              "quote": 2.65,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "1X2",
+              "quote": 2.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Genau zu Null",
+              "quote": 2.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "BTTS",
+              "quote": 2.5,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-06-16",
       "gesamt": {
