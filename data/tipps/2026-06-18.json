@@ -171,17 +171,6 @@
           "reality_check": "Goldgrube + Auswaerts-Underdog-Hauptstuermer-Edge bei 1-1-Cluster-Risk.",
           "faire_quote": 5.25,
           "_torschuetze_quelle_warn": true
-        },
-        {
-          "kategorie": "moonshot",
-          "markt": "Endstand 1:1 (Genaues Ergebnis)",
-          "quote": 6.5,
-          "edge_prozent": 8.0,
-          "empfohlener_einsatz_euro": 0.55,
-          "empfohlener_einsatz_prozent": 0.1,
-          "begruendung": "Moonshot-Lotterie. BIH-Draw-Cluster (5/6 1:1) + Schweiz-Stolperer-Pattern (1:1 Auftakt + 3/4 Schweiz-Spiele mit Draws laut Opta-Article) = exakt 1-1-Pattern-Risk. Spass-Einsatz wegen Lotterie. NIE als SAFE/VALUE per CLAUDE.md (Genaues Ergebnis-Boykott bei K.O. - hier Gruppenphase erlaubt aber max Moonshot).",
-          "reality_check": "Draw-Cluster-Pattern - Moonshot-Spass.",
-          "faire_quote": 6.0
         }
       ],
       "kontext_check_status": "OK"
@@ -355,17 +344,6 @@
           "reality_check": "Goldgrube + Top5Liga-Volume-Anbau in 10er-Position-Hybrid.",
           "faire_quote": 3.8,
           "_torschuetze_quelle_warn": true
-        },
-        {
-          "kategorie": "moonshot",
-          "markt": "Endstand 1:1 (Genaues Ergebnis)",
-          "quote": 6.5,
-          "edge_prozent": 7.0,
-          "empfohlener_einsatz_euro": 0.55,
-          "empfohlener_einsatz_prozent": 0.1,
-          "begruendung": "Moonshot-Lotterie. Beide-Stamm-Modus + Mexico-Hoehe-Defensiv-Profil + Korea-Form-Serien = 1:1-Profil moeglich. Spass-Einsatz.",
-          "reality_check": "Beide-Stamm-Modus 1:1-Pattern moeglich.",
-          "faire_quote": 6.0
         }
       ],
       "kontext_check_status": "OK"
