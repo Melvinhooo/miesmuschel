@@ -1,0 +1,863 @@
+{
+  "datum": "2026-06-20",
+  "erstellt_am": "2026-06-18T17:45:00+00:00",
+  "modus": "wochenende",
+  "hinweis": "Wochenend-Vorschau Sa 20.06 + So 21.06.2026 (Donnerstag-18:00-Slot Vorab-Datenbasis). WM 2026 SPIELTAG-2-WOCHENENDE: insgesamt 9 WM-Gruppenphase-Spieltag-2-Spiele. NBA Finals 2026 BEENDET: Knicks holten Titel 4-1 mit Sieg G5 14.06 (94-90 SAS, Brunson 45 Pkt) - keine NBA-Spiele am Wochenende. === WM-SPIELE BERLIN-ZEIT (sortiert): (1) Sa 20.06 06:00 Berlin = Sat 00:00 ET: Tuerkei-Paraguay, Gruppe D, Levi's Stadium Santa Clara CA - MUSS-Sieg fuer beide (TUR 0 Pkt nach 0:2 vs AUS, PAR 0 Pkt nach 1:4 vs USA). (2) Sa 20.06 19:00 Berlin = Sat 13:00 ET: Niederlande-Schweden, Gruppe F, NRG Stadium Houston - SWE fuehrt Gruppe nach 5:1 Tunesien, NED nach 2:2 Japan auf Druck. (3) Sa 20.06 22:00 Berlin = Sat 16:00 ET: DEUTSCHLAND-Elfenbeinkueste, Gruppe E, BMO Field Toronto - TOP-OF-GROUP-DUELL beide 3 Pkt nach Spieltag-1 (GER 7:1 vs Curacao, CIV 1:0 vs Ecuador). (4) So 21.06 02:00 Berlin = Sat 20:00 ET: Ecuador-Curacao, Gruppe E, Arrowhead Stadium Kansas City MO - ECU MUSS-Sieg (0 Pkt nach 0:1 vs CIV), CUW de-facto eliminiert (0 Pkt nach 1:7 GER). (5) So 21.06 06:00 Berlin = Sun 00:00 ET: Tunesien-Japan, Gruppe F, Estadio BBVA Monterrey Mexiko - TUN praktisch raus (1:5 SWE), JPN sucht ersten Sieg. (6) So 21.06 18:00 Berlin = Sun 12:00 ET: Spanien-Saudi-Arabien, Gruppe H, Mercedes-Benz Stadium Atlanta - ESP nach 0:0 Kap Verde Druck-Match, KSA frisch nach 1:1 vs Uruguay. (7) So 21.06 21:00 Berlin = Sun 15:00 ET: Belgien-Iran, Gruppe G, SoFi Stadium Inglewood CA - beide 1 Pkt, MUSS-Sieg-Druck fuer KOQuali. (8) Mo 22.06 00:00 Berlin = Sun 18:00 ET: Uruguay-Kap Verde, Gruppe H, Hard Rock Stadium Miami Gardens - URU 1 Pkt, CPV 1 Pkt nach 0:0 ESP-Sensation. (9) Mo 22.06 03:00 Berlin = Sun 21:00 ET: Neuseeland-Aegypten, Gruppe G, BC Place Vancouver - beide 1 Pkt nach 2:2/1:1, Salah Star-Faktor EGY. Spiele 8+9 technisch Mo-frueh Berlin aber Sonntag-Abend US-Zeit, gehoeren zum Sonntag-WM-Tag (Berlin-Window-Konvention der bestehenden Tipps-Datei). === VEREINS-FUSSBALL: Saison-Pause bis August 2026 weltweit (BL, PL, LaLiga, Serie A, Ligue 1, CL/EL/Conference alle abgeschlossen, DFB-Pokal/Coppa Italia ausgespielt). Keine Vereins-Spiele Wochenende = ausser Scope. === NBA-FINALS BEENDET: Knicks 4-1 Sieg Series, kein G6/G7 noetig. Keine NBA-Spiele weiteres Postseason 25/26 = NBA-Saison komplett vorbei bis Oktober 2026. === REGEL-ANWENDBARKEIT WOCHENENDE: 2:0-Insurance-Regel gilt fuer WM-2026-Spiele direkt-Sieg-Tipps (CLAUDE.md Stand 10.06.2026 - FIFA WM in Liste neben BL+CL). Einwechslungs-Boost gilt bei Torschuetzen-Tipps (gilt auch WM). Markt-Boykott WM: Halbzeit-Endstand-Kombi NIE, Genaues Ergebnis NIE, Erster Torschuetze WACKEL-max bei Aussenseitern ohne Pre-WM-Form (Curacao, Kap Verde, Iran, Neuseeland-NZL). === GRUPPEN-STAND VOR SPIELTAG-2 (live aus data/ergebnisse/ kalkuliert): Gruppe-A Mexiko 3 + Suedkorea 3, Tschechien 0 + Suedafrika 0; Gruppe-B alle 1 (4x 1:1); Gruppe-C Schottland 3 + Brasilien 1 + Marokko 1 + Haiti 0; Gruppe-D USA 3 + Australien 3, Paraguay 0 + Tuerkei 0; Gruppe-E Deutschland 3 + Elfenbeinkueste 3, Ecuador 0 + Curacao 0; Gruppe-F Schweden 3 + Niederlande 1 + Japan 1 + Tunesien 0; Gruppe-G alle 1 (BEL/EGY 1:1, IRN/NZL 2:2); Gruppe-H alle 1 (ESP/CPV 0:0, KSA/URU 1:1). === SPIELORT-FAKTOR (data/wm_2026.json gelesen): Levi's Santa Clara 5m Kuestenklima neutral; NRG Houston 13m Hitze+Klimaanlage indoor; BMO Toronto 76m moderates Klima neutral; Arrowhead Kansas City 274m Mittel-Hitze Sommer; Estadio BBVA Monterrey 540m Hitze+Hoehe-moderat; Mercedes-Benz Atlanta 327m neutral ueberdacht; SoFi Inglewood 38m moderates Klima ueberdacht; Hard Rock Miami 2m Hitze + Luftfeuchtigkeit; BC Place Vancouver 0m moderates Klima neutral. KEIN Spiel in Mexico-Stadt (2240m extrem). === KASSE-STAND-LESEN: data/kasse.json Pflichtlesen vor Tipps - Stand 04.05.2026 550 EUR -> Stufe 1 (Aufbau, <1000 EUR Schwelle): Einzel SAFE/VALUE 1-2% = 5.50-11 EUR, Wackel-Einzel 0.5% = 2.75 EUR, Kombi-Safe 2% = 11 EUR, Kombi-Balance 0.8% = 4.40 EUR. === AUTO-MARKT-FILTER 03.05.: Goldgruben = Doppelte Chance 1X (84.6%/+9.5%) + Doppelte Chance X2 (77.8%/+9.4%) + Unter 2.5 Tore (66.7%/+27.5%) + Torschuetzen Jederzeit (50%/+24.4%). === LESSON-RELEVANZ Spieltag-2: Spieltag-1-Lessons aus data/ergebnisse/ ableitbar - 7:1 Curacao zeigt GER offensiv stark, CIV verteidigend kompakt (1:0 ECU), SWE-Massaker (5:1 TUN) zeigt Isak+Gyokeres + Mittelfeld-Dominanz, ITA-Stil-1:1-Cluster Gruppe-B + Gruppe-G-H zeigt Spieltag-1-Vorsicht (5x 1:1 / 1x 0:0 / 1x 2:2). === QUELLEN-PFLICHT WM-Spiele: parallele_wettbewerbe immer 'keine - WM exklusiv' mit FIFA-Verband-Quelle. POSITION-Genauigkeit eingehalten (Lamine Yamal RF Barcelona, Pedri ZM, Wirtz OM, Musiala OM/RF, Havertz ST, Isak ST, Gyokeres ST, Mitoma LF, Kubo RF, Salah RF, De Bruyne OM, Lukaku ST, Doku LF, Caicedo DM, Valverde ZM, Nunez ST, Wood ST, Haller ST). KEINE Tipps generiert - reine Daten-Vorab-Briefing fuer Donnerstag-Wochenend-Vorschau-Tipps-Routine 18:00 + ggf. Tagesroutinen Sa+So.",
+
+  "spiele": [
+    {
+      "id": "2026-06-20-tur-par",
+      "liga": "FIFA WM 2026 - Gruppe D - Spieltag 2",
+      "wettbewerb_kontext": "WM 2026 USA/Kanada/Mexiko, Gruppe D (USA, Paraguay, Australien, Tuerkei) Spieltag 2. MUSS-Sieg-Match: beide nach Spieltag-1 mit 0 Pkt (TUR verlor 0:2 vs Australien 13.06., PAR verlor 1:4 vs USA 12.06.). Verlierer = praktisch raus aus 32er-K.O.-Quali (selbst als bester Dritter sehr schwer).",
+      "heim": "Tuerkei",
+      "gast": "Paraguay",
+      "heim_kuerzel": "TUR",
+      "gast_kuerzel": "PAR",
+      "anstoss": "2026-06-20T06:00:00+02:00",
+      "anstoss_lokal": "Fri 21:00 PT / Sat 00:00 ET / Sat 06:00 Berlin",
+      "anstoss_utc": "2026-06-20T04:00:00Z",
+      "stadion": "Levi's Stadium, Santa Clara CA",
+      "spielort_faktor": {
+        "stadt": "Santa Clara CA",
+        "stadion": "Levi's Stadium",
+        "land": "USA",
+        "hoehe_m": 5,
+        "kapazitaet": 68500,
+        "klima_anstoss": "Juni-Standort SF Bay Area: Spaetabend-PT (21:00) ca. 16-19 Grad Kuestenklima, niedrige Luftfeuchtigkeit, kein Niederschlag erwartet - LIVE-Wetter via NOAA/Weather Underground vor Anstoss",
+        "anstoss_lokal": "Fri 21:00 PT (Spaetabend Lokal)",
+        "lokal_faktor": "Neutraler Boden ohne klare Diaspora-Heimatmosphaere; Spaet-PT-Anstoss limitiert Publikumsdichte. Beide Mannschaften kaempfen um WM-Ueberleben - hohe Intensitaet erwartet.",
+        "implikationen": ["Kuestenklima neutral, kein Konditions-Faktor", "Spaet-Anstoss kann muede Beine begunstigen + reduzierte Konzentration in entscheidenden Phasen", "Beide Teams Saisonpause-frisch (kein CL-Finale-Drain bei TUR/PAR)"]
+      },
+      "turnier_phase": "Gruppenphase Spieltag 2",
+      "gruppe": "D",
+      "gruppen_stand_vor_spiel": {
+        "kontext": "Gruppe D nach Spieltag 1: USA 3 (4:1 vs Paraguay), Australien 3 (2:0 vs Tuerkei), Tuerkei 0, Paraguay 0. Sieger Tur-Par lebt mit 3 Pkt weiter, Verlierer faktisch raus.",
+        "heim_pkt": 0, "heim_tordiff": "-2",
+        "gast_pkt": 0, "gast_tordiff": "-3"
+      },
+      "squad_heim_top": [
+        {"name": "Arda Guler", "nummer": 8, "position": "OM/RF", "verein": "Real Madrid (LaLiga)", "rolle": "Spielmacher-Talent, Real-Madrid-Rotation 25/26", "verifiziert_via": "https://en.wikipedia.org/wiki/Turkey_at_the_2026_FIFA_World_Cup"},
+        {"name": "Hakan Calhanoglu", "nummer": 10, "position": "ZM/OM", "verein": "Inter Mailand (Serie A)", "rolle": "Kapitaen, Box-to-Box, Set-Piece-Werkzeug", "verifiziert_via": "https://en.wikipedia.org/wiki/Turkey_at_the_2026_FIFA_World_Cup"},
+        {"name": "Kerem Akturkoglu", "nummer": 7, "position": "LF", "verein": "Benfica (Liga Portugal)", "rolle": "Stamm-Linksaussen, Speed-Element", "verifiziert_via": "https://en.wikipedia.org/wiki/Turkey_at_the_2026_FIFA_World_Cup"},
+        {"name": "Ferdi Kadioglu", "nummer": 14, "position": "LV/RV", "verein": "Brighton (PL)", "rolle": "Flexibler Aussenverteidiger", "verifiziert_via": "https://en.wikipedia.org/wiki/Turkey_at_the_2026_FIFA_World_Cup"},
+        {"name": "Merih Demiral", "nummer": 3, "position": "IV", "verein": "Al-Ahli (Saudi)", "rolle": "Stamm-IV, Saisonpause-frisch", "verifiziert_via": "https://en.wikipedia.org/wiki/Turkey_at_the_2026_FIFA_World_Cup"}
+      ],
+      "squad_gast_top": [
+        {"name": "Antonio Sanabria", "nummer": 9, "position": "ST", "verein": "Torino (Serie A)", "rolle": "Stamm-Stuermer", "verifiziert_via": "https://en.wikipedia.org/wiki/Paraguay_at_the_2026_FIFA_World_Cup"},
+        {"name": "Miguel Almiron", "nummer": 10, "position": "OM/RF", "verein": "Atlanta United (MLS)", "rolle": "Spielmacher-Veteran, USA-erfahren", "verifiziert_via": "https://en.wikipedia.org/wiki/Paraguay_at_the_2026_FIFA_World_Cup"},
+        {"name": "Julio Enciso", "nummer": 17, "position": "OM/LF", "verein": "Brighton (PL)", "rolle": "Junges Talent, kreativ", "verifiziert_via": "https://en.wikipedia.org/wiki/Paraguay_at_the_2026_FIFA_World_Cup"},
+        {"name": "Gustavo Gomez", "nummer": 4, "position": "IV", "verein": "Palmeiras (Brasilien)", "rolle": "Kapitaen + Abwehr-Anker", "verifiziert_via": "https://en.wikipedia.org/wiki/Paraguay_at_the_2026_FIFA_World_Cup"}
+      ],
+      "squad_heim_stand": "Tuerkei-Kader unter Vincenzo Montella - Stamm mit Guler/Calhanoglu im Mittelfeld nach 0:2-Niederlage vs Australien",
+      "squad_gast_stand": "Paraguay-Kader unter Gustavo Alfaro - Stamm nach 1:4-Niederlage vs USA, Sanabria/Almiron tragen Offensive",
+      "injuries_heim": ["Live-Check vor Anstoss: nach 0:2 vs Australien evtl. Anpassungen - kicker.de/wm/kader/tuerkei pruefen"],
+      "injuries_gast": ["Live-Check vor Anstoss: kicker.de/wm/kader/paraguay - nach 1:4 vs USA evtl. Aufstellungs-Anpassungen"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM exklusiv",
+        "gast": "keine - WM exklusiv",
+        "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026", "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures"]
+      },
+      "saisonziel_heim": "Tuerkei: WM-Achtelfinale (32er-K.O.) - nach 0:2 vs Australien MUSS-Sieg gegen Paraguay sonst Tuerkei praktisch raus. Coach Montella unter Druck.",
+      "saisonziel_gast": "Paraguay: WM-Achtelfinale-Quali - nach 1:4 USA brutaler Reality-Check, MUSS-Sieg Tuerkei sonst raus. Erste WM-Teilnahme seit 2010.",
+      "tabellenstand": {"heim_fifa_rank_ca": 28, "gast_fifa_rank_ca": 49, "_kommentar": "Tuerkei FIFA-Rank deutlich hoeher (Guler-Generation), aber Spieltag-1 zeigte Defensiv-Probleme (0:2 vs AUS) - Markt-Konsens TUR leichter Favorit nicht klarer Killshot."},
+      "form_heim_letzte_5": "Spieltag-1: N (0:2 vs Australien); UEFA-Quali Phase positiv, Pre-WM-Tests mit Generations-Lifting unter Montella",
+      "form_gast_letzte_5": "Spieltag-1: N (1:4 vs USA); Conmebol-Quali via Stichkampf, Pre-WM-Test gegen USA 07.06. verloren - Defensiv-Schwaeche identifiziert",
+      "recovery_heim": "Spieltag-2: 7 Tage Pause seit 13.06.-Niederlage (06.-13. Camp + 13.-20. Reise); volle Recovery",
+      "recovery_gast": "Spieltag-2: 8 Tage Pause seit 12.06.-Niederlage; volle Recovery + Reise von Texas/Mexico-Stadt-Camp",
+      "quoten": {
+        "bet365_indikativ": {
+          "sieg_heim": 1.65,
+          "draw": 3.7,
+          "sieg_gast": 5.5,
+          "ueber_2_5": 2.05,
+          "unter_2_5": 1.75,
+          "btts_ja": 1.95,
+          "btts_nein": 1.8,
+          "dc_1x": 1.20,
+          "dc_x2": 2.20,
+          "dc_12": 1.30,
+          "torschuetzen_jederzeit": {"Guler": 3.50, "Akturkoglu": 4.50, "Sanabria": 3.20, "Almiron": 5.00, "Enciso": 5.50},
+          "kommentar": "Tuerkei trotz 0:2 Spieltag-1 Favorit (Squad-Tiefe + Guler-Talent), aber kein Killshot-Floor; Markt rechnet leicht Unter-2.5 + offene Tor-Tendenz"
+        },
+        "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup", "https://www.bet365.com/hub/en-gb/football/football-competitions/world-cup"],
+        "hinweis": "Quoten indikativ aus Pre-Spieltag-2-Aggregator-Recherche. bet365-DE-Lines koennen +-5-10% abweichen, ggf. nach Spieltag-1-Form-Update. VOR Einsatz live in bet365-DE verifizieren."
+      },
+      "news_kompakt": [
+        "MUSS-SIEG-MATCH: beide 0 Pkt nach Spieltag-1, Verlierer raus aus 32er-K.O.-Hoffnung",
+        "Tuerkei Spieltag-1-Niederlage 0:2 vs Australien zeigte Defensiv-Schwaeche - Montella unter Druck",
+        "Paraguay 1:4 vs USA war brutaler Reality-Check fuer Conmebol-Comeback",
+        "Stadion: Levi's Stadium Santa Clara CA - Spaetabend-PT-Anstoss, kuehles Kuestenklima",
+        "Markt-Konsens Tuerkei Favorit (1.65), aber Unter-2.5 leicht favorisiert (1.75)"
+      ],
+      "quellen_squad_news": [
+        "https://en.wikipedia.org/wiki/Turkey_at_the_2026_FIFA_World_Cup",
+        "https://en.wikipedia.org/wiki/Paraguay_at_the_2026_FIFA_World_Cup",
+        "https://www.kicker.de/wm-2026/teams",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/turkey/squad",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/paraguay/squad"
+      ],
+      "wm_marktregeln_aktiv": "2:0-Insurance gilt bei direktem Sieg-Tipp (1X2). Einwechslungs-Boost gilt bei Torschuetzen-Tipps. Markt-Boykott Halbzeit-Endstand-Kombi + Genaues Ergebnis. Erster-Torschuetze WACKEL-max bei beiden Squads (keine etablierte Pre-WM-Tor-Datenbasis fuer Spieltag-2)."
+    },
+
+    {
+      "id": "2026-06-20-ned-swe",
+      "liga": "FIFA WM 2026 - Gruppe F - Spieltag 2",
+      "wettbewerb_kontext": "WM 2026 USA/Kanada/Mexiko, Gruppe F (Niederlande, Japan, Schweden, Tunesien) Spieltag 2. SWE fuehrt Gruppe nach 5:1-Massaker vs Tunesien (Isak+Gyokeres je 2 Tore Spieltag-1). NED nach enttaeuschendem 2:2 vs Japan unter Druck. Sieger nimmt klare KO-Quali-Pole-Position.",
+      "heim": "Niederlande",
+      "gast": "Schweden",
+      "heim_kuerzel": "NED",
+      "gast_kuerzel": "SWE",
+      "anstoss": "2026-06-20T19:00:00+02:00",
+      "anstoss_lokal": "Sat 12:00 CT / Sat 13:00 ET / Sat 19:00 Berlin",
+      "anstoss_utc": "2026-06-20T17:00:00Z",
+      "stadion": "NRG Stadium, Houston TX",
+      "spielort_faktor": {
+        "stadt": "Houston TX",
+        "stadion": "NRG Stadium",
+        "land": "USA",
+        "hoehe_m": 13,
+        "kapazitaet": 72200,
+        "klima_anstoss": "Juni Houston: aussen 30-35 Grad + hohe Luftfeuchtigkeit - aber NRG ueberdacht + klimatisiert, indoor-Klima ca. 22-24 Grad. Mittagsspiel-Slot 12:00 CT.",
+        "anstoss_lokal": "Sat 12:00 CT (Mittag Lokal)",
+        "lokal_faktor": "Indoor-Spiel, kein Konditions-Faktor durch Hitze trotz Sommer-Houston-Wetter. Hollaendisch + Schwedische Diaspora in USA klein - neutrale Atmosphaere.",
+        "implikationen": ["NRG-Indoor-Klima neutralisiert Houston-Hitze", "Beide Teams Mittagsspiel-Slot (12:00 CT) - kein Spaet-Anstoss-Risiko"]
+      },
+      "turnier_phase": "Gruppenphase Spieltag 2",
+      "gruppe": "F",
+      "gruppen_stand_vor_spiel": {
+        "kontext": "Gruppe F nach Spieltag 1: Schweden 3 (5:1 vs Tunesien), Niederlande 1 (2:2 vs Japan), Japan 1 (2:2 vs Niederlande), Tunesien 0 (1:5). SWE+NED Sieger nimmt 1. Platz + KO-Pass.",
+        "heim_pkt": 1, "heim_tordiff": "0",
+        "gast_pkt": 3, "gast_tordiff": "+4"
+      },
+      "squad_heim_top": [
+        {"name": "Virgil van Dijk", "nummer": 4, "position": "IV", "verein": "Liverpool (PL)", "rolle": "Kapitaen, Welt-Klasse-IV", "verifiziert_via": "https://en.wikipedia.org/wiki/Netherlands_at_the_2026_FIFA_World_Cup"},
+        {"name": "Memphis Depay", "nummer": 10, "position": "ST/OM", "verein": "Corinthians (Brasilien)", "rolle": "Top-Scorer-Veteran, von Oberschenkel-Verletzung zurueck", "verifiziert_via": "https://en.wikipedia.org/wiki/Netherlands_at_the_2026_FIFA_World_Cup"},
+        {"name": "Cody Gakpo", "nummer": 11, "position": "LF/ST", "verein": "Liverpool (PL)", "rolle": "Stamm-Fluegel-Stuermer", "verifiziert_via": "https://en.wikipedia.org/wiki/Netherlands_at_the_2026_FIFA_World_Cup"},
+        {"name": "Frenkie de Jong", "nummer": 21, "position": "ZM", "verein": "FC Barcelona (LaLiga)", "rolle": "Spielmacher-Sechser", "verifiziert_via": "https://en.wikipedia.org/wiki/Netherlands_at_the_2026_FIFA_World_Cup"},
+        {"name": "Donyell Malen", "nummer": 7, "position": "RF/ST", "verein": "AS Roma (Serie A)", "rolle": "Speed-Fluegel, Roma-Top-Performer 25/26", "verifiziert_via": "https://en.wikipedia.org/wiki/Netherlands_at_the_2026_FIFA_World_Cup"},
+        {"name": "Xavi Simons", "nummer": 7, "position": "OM", "verein": "Tottenham (PL)", "rolle": "Junger Spielmacher-Star, Speed + Kreativ", "verifiziert_via": "https://en.wikipedia.org/wiki/Netherlands_at_the_2026_FIFA_World_Cup"}
+      ],
+      "squad_gast_top": [
+        {"name": "Alexander Isak", "nummer": 11, "position": "ST", "verein": "Newcastle United (PL)", "rolle": "Star-Stuermer, 2 Tore Spieltag-1 vs TUN", "verifiziert_via": "https://en.wikipedia.org/wiki/Sweden_at_the_2026_FIFA_World_Cup"},
+        {"name": "Viktor Gyokeres", "nummer": 9, "position": "ST", "verein": "Arsenal (PL)", "rolle": "Stamm-Stuermer/Backup neben Isak, 2 Tore Spieltag-1 vs TUN - Doppel-Spitzen-System bei SWE", "verifiziert_via": "https://en.wikipedia.org/wiki/Sweden_at_the_2026_FIFA_World_Cup"},
+        {"name": "Dejan Kulusevski", "nummer": 21, "position": "OM/RF", "verein": "Tottenham (PL)", "rolle": "Spielmacher-Fluegel rechts", "verifiziert_via": "https://en.wikipedia.org/wiki/Sweden_at_the_2026_FIFA_World_Cup"},
+        {"name": "Anthony Elanga", "nummer": 17, "position": "LF/RF", "verein": "Newcastle (PL Transfer)", "rolle": "Speed-Fluegel, Tempo-Konter", "verifiziert_via": "https://en.wikipedia.org/wiki/Sweden_at_the_2026_FIFA_World_Cup"}
+      ],
+      "squad_heim_stand": "Niederlande-Kader unter Ronald Koeman, Van Dijk Kapitaen. Spieltag-1-Aufstellung mit Depay als 9er aufgestellt, Xavi Simons + Gakpo als Fluegel.",
+      "squad_gast_stand": "Schweden-Kader unter Jon-Dahl Tomasson. Spieltag-1: Doppel-Spitzen Isak+Gyokeres dominant (je 2 Tore), Kulusevski hinter den Spitzen.",
+      "injuries_heim": ["Live-Check kicker.de/wm/kader/niederlande - nach 2:2 vs Japan eventuell Aufstellung-Anpassungen, Depay-Form-Frage"],
+      "injuries_gast": ["Live-Check kicker.de/wm/kader/schweden - alle Stamm-Spieler fit nach 5:1-Sieg"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM exklusiv",
+        "gast": "keine - WM exklusiv",
+        "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026", "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures"]
+      },
+      "saisonziel_heim": "Niederlande: Halbfinale-Wiederholung 2022; nach 2:2 Japan auf KO-Quali angewiesen vs SWE. Verlust = praktisch raus auf Platz-3-Tiebreak.",
+      "saisonziel_gast": "Schweden: Erste WM seit 2018 (verpassten 2022), Achtelfinale Pflicht-Ziel. Sieg vs NED = KO-Quali fixiert. Bei Sieg Gruppen-Sieger-Hoffnung gegen schwaecheren K.O.-Gegner.",
+      "tabellenstand": {"heim_fifa_rank_ca": 7, "gast_fifa_rank_ca": 22, "_kommentar": "Niederlande FIFA-Rank deutlich hoeher, aber Schweden Spieltag-1-Form ueberlegen. Markt-Konsens NED leichter Favorit (Heim-Status), aber Schweden Quoten-Wert nach 5:1."},
+      "form_heim_letzte_5": "Spieltag-1: U 2:2 vs Japan (Spielmacher-Probleme im Mittelfeld); UEFA-Nations-League-Phase, Pre-WM-Tests stabil",
+      "form_gast_letzte_5": "Spieltag-1: S 5:1 vs Tunesien (Isak+Gyokeres je 2 Tore, Kulusevski 1 Assist); UEFA-Quali via Playoff erfolgreich",
+      "recovery_heim": "Spieltag-2: 6 Tage Pause seit 14.06.-2:2; volle Recovery",
+      "recovery_gast": "Spieltag-2: 6 Tage Pause seit 14.06.-5:1; volle Recovery + Aufstiegs-Momentum",
+      "quoten": {
+        "bet365_indikativ": {
+          "sieg_heim": 1.95,
+          "draw": 3.5,
+          "sieg_gast": 3.8,
+          "ueber_2_5": 1.80,
+          "unter_2_5": 2.00,
+          "btts_ja": 1.70,
+          "btts_nein": 2.05,
+          "dc_1x": 1.30,
+          "dc_x2": 1.85,
+          "dc_12": 1.40,
+          "torschuetzen_jederzeit": {"Depay": 3.00, "Gakpo": 3.40, "Malen": 4.50, "Simons": 5.00, "Isak": 2.60, "Gyokeres": 2.90, "Kulusevski": 5.50},
+          "kommentar": "Knappes Match Markt-Konsens; BTTS-Ja leicht favorisiert (offensive Mannschaften); Top-Stuermer-Tore stark gepreist (Depay/Gakpo/Isak/Gyokeres je ~3.00)"
+        },
+        "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup", "https://www.bet365.com/hub/en-gb/football/football-competitions/world-cup"],
+        "hinweis": "Quoten Pre-Spieltag-2-Schaetzung. bet365-DE-Lines +-5-10% Spielraum. LIVE pruefen."
+      },
+      "news_kompakt": [
+        "TOP-OF-GRUPPE-F-DUELL: SWE 3 Pkt vs NED 1 Pkt, Sieger nimmt KO-Quali-Pole",
+        "Schweden Spieltag-1-Massaker 5:1 vs Tunesien mit Isak+Gyokeres-Doppel-Spitzen (4 Tore zusammen)",
+        "Niederlande 2:2 vs Japan zeigte Spielmacher-Probleme - Depay-Form-Frage + de-Jong-Rolle-Frage",
+        "Stadion: NRG Houston indoor klimatisiert - kein Hitze-Faktor trotz Houston-Juni-Wetter",
+        "Markt-Konsens NED leichter Favorit (1.95) durch FIFA-Rank #7, aber SWE-Form-Edge nach 5:1"
+      ],
+      "quellen_squad_news": [
+        "https://en.wikipedia.org/wiki/Netherlands_at_the_2026_FIFA_World_Cup",
+        "https://en.wikipedia.org/wiki/Sweden_at_the_2026_FIFA_World_Cup",
+        "https://www.skysports.com/football/news/12098/13543070/world-cup-2026-squad-lists-england-scotland-brazil-usa-spain-france-germany-netherlands-argentina-portugal-and-more",
+        "https://www.kicker.de/wm-2026/teams",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/netherlands/squad",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/sweden/squad"
+      ],
+      "wm_marktregeln_aktiv": "2:0-Insurance gilt bei direktem Sieg-Tipp (1X2). Einwechslungs-Boost gilt bei Torschuetzen-Tipps (relevant: Isak <-> Gyokeres Doppel-Spitzen-Wechsel + NED-Stuermer-Rotation Depay/Gakpo). Markt-Boykott Halbzeit-Endstand-Kombi + Genaues Ergebnis."
+    },
+
+    {
+      "id": "2026-06-20-ger-civ",
+      "liga": "FIFA WM 2026 - Gruppe E - Spieltag 2",
+      "wettbewerb_kontext": "WM 2026 USA/Kanada/Mexiko, Gruppe E (Deutschland, Curacao, Elfenbeinkueste, Ecuador) Spieltag 2. TOP-OF-GRUPPE-E-DUELL: beide 3 Pkt nach Spieltag-1 (Deutschland 7:1 Curacao zerstoeert mit Wirtz+Musiala+Havertz; Elfenbeinkueste 1:0 vs Ecuador kompakt-defensiv). Sieger fixiert KO-Quali + Gruppen-Sieg moeglich.",
+      "heim": "Deutschland",
+      "gast": "Elfenbeinkueste",
+      "heim_kuerzel": "GER",
+      "gast_kuerzel": "CIV",
+      "anstoss": "2026-06-20T22:00:00+02:00",
+      "anstoss_lokal": "Sat 16:00 ET / Sat 22:00 Berlin",
+      "anstoss_utc": "2026-06-20T20:00:00Z",
+      "stadion": "BMO Field, Toronto",
+      "spielort_faktor": {
+        "stadt": "Toronto",
+        "stadion": "BMO Field",
+        "land": "Kanada",
+        "hoehe_m": 76,
+        "kapazitaet": 45500,
+        "klima_anstoss": "Juni Toronto: 22-25 Grad moderates Klima, niedrige Luftfeuchtigkeit, kein Niederschlag typisch - LIVE Wetter-Check Pflicht",
+        "anstoss_lokal": "Sat 16:00 ET (Spaetnachmittag Lokal)",
+        "lokal_faktor": "Deutsche Diaspora in Toronto signifikant (Ontario ~150k deutscher Abstammung) - leichte Heim-Atmosphaere fuer DFB. BMO Field kleinste WM-Arena (45.500) - intime Atmosphaere.",
+        "implikationen": ["Moderates Klima neutral - kein Konditions-Faktor", "Deutsche Diaspora-Heimvorteil leicht GER", "Kleines Stadion = laut + emotional"]
+      },
+      "turnier_phase": "Gruppenphase Spieltag 2",
+      "gruppe": "E",
+      "gruppen_stand_vor_spiel": {
+        "kontext": "Gruppe E nach Spieltag 1: Deutschland 3 (7:1 vs Curacao - Demolition), Elfenbeinkueste 3 (1:0 vs Ecuador), Ecuador 0, Curacao 0. GER+CIV Sieger fixiert KO-Quali.",
+        "heim_pkt": 3, "heim_tordiff": "+6",
+        "gast_pkt": 3, "gast_tordiff": "+1"
+      },
+      "squad_heim_top": [
+        {"name": "Manuel Neuer", "nummer": 1, "position": "TW", "verein": "Bayern Muenchen (BL)", "rolle": "Stamm-TW (40 Jahre alt) - Comeback nach Auszeit fuer WM", "verifiziert_via": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/germany-squad-neuer-nagelsmann-named"},
+        {"name": "Joshua Kimmich", "nummer": 6, "position": "DM/RV", "verein": "Bayern Muenchen (BL)", "rolle": "Kapitaen, vielseitig - Spieltag-1 als RV gestartet", "verifiziert_via": "https://www.uefa.com/european-qualifiers/news/02a6-20d1594eb137-0095e9baf9f5-1000--germany-at-the-world-cup-2026-squad-fixtures-group-and-hi/"},
+        {"name": "Florian Wirtz", "nummer": 10, "position": "OM", "verein": "Liverpool (PL Transfer Sommer 25)", "rolle": "Star-Spielmacher - 1 Tor + 2 Assists Spieltag-1 vs Curacao", "verifiziert_via": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/germany-squad-neuer-nagelsmann-named"},
+        {"name": "Jamal Musiala", "nummer": 14, "position": "OM/RF", "verein": "Bayern Muenchen (BL)", "rolle": "Top-Spielmacher 95% fit nach Club-WM-2025-Reha, Spieltag-1 1 Tor + Speed-Dribbling", "verifiziert_via": "https://rg.org/en-ca/sportsbooks/world-cup-2026/germany"},
+        {"name": "Kai Havertz", "nummer": 7, "position": "ST", "verein": "Arsenal (PL)", "rolle": "Stamm-Stuermer/Falsche-9 - Spieltag-1 2 Tore vs Curacao (Hat-Trick verfehlt durch Pfostentreffer)", "verifiziert_via": "https://www.bundesliga.com/en/bundesliga/news/how-will-germany-line-up-havertz-musiala-wirtz-nagelsmann-world-cup-2026-28807"},
+        {"name": "Nico Schlotterbeck", "nummer": 4, "position": "IV", "verein": "Borussia Dortmund (BL)", "rolle": "Stamm-IV", "verifiziert_via": "https://www.aljazeera.com/sports/2026/5/31/germany-world-cup-2026-team-preview-players-to-watch-group-and-squad-list"},
+        {"name": "Antonio Ruediger", "nummer": 2, "position": "IV", "verein": "Real Madrid (LaLiga)", "rolle": "Stamm-IV neben Schlotterbeck", "verifiziert_via": "https://www.aljazeera.com/sports/2026/5/31/germany-world-cup-2026-team-preview-players-to-watch-group-and-squad-list"},
+        {"name": "Aleksandar Pavlovic", "nummer": 8, "position": "DM/ZM", "verein": "Bayern Muenchen (BL)", "rolle": "Junger DM-Partner neben Kimmich", "verifiziert_via": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/germany-squad-neuer-nagelsmann-named"}
+      ],
+      "squad_gast_top": [
+        {"name": "Sebastien Haller", "nummer": 9, "position": "ST", "verein": "FC Utrecht (NL Leihrueckkehr)", "rolle": "Stamm-Stuermer, Krebs-Comeback abgeschlossen - Spieltag-1 1 Tor vs Ecuador (entscheidender 1:0-Treffer)", "verifiziert_via": "https://en.wikipedia.org/wiki/Ivory_Coast_at_the_2026_FIFA_World_Cup"},
+        {"name": "Franck Kessie", "nummer": 8, "position": "ZM", "verein": "Al-Ahli (Saudi)", "rolle": "Box-to-Box-Sechser - Kapitaen + Mittelfeld-Schluessel", "verifiziert_via": "https://en.wikipedia.org/wiki/Ivory_Coast_at_the_2026_FIFA_World_Cup"},
+        {"name": "Nicolas Pepe", "nummer": 19, "position": "RF", "verein": "Villarreal (LaLiga)", "rolle": "Speed-Fluegel-Veteran, Set-Piece-Werkzeug", "verifiziert_via": "https://en.wikipedia.org/wiki/Ivory_Coast_at_the_2026_FIFA_World_Cup"},
+        {"name": "Simon Adingra", "nummer": 11, "position": "LF", "verein": "Brighton (PL)", "rolle": "Speed-Linksfluegel, Tempo + Dribbling", "verifiziert_via": "https://en.wikipedia.org/wiki/Ivory_Coast_at_the_2026_FIFA_World_Cup"},
+        {"name": "Eric Bailly", "nummer": 5, "position": "IV", "verein": "Besiktas (Tuerkei)", "rolle": "Stamm-IV (Routinier ex-Man-United)", "verifiziert_via": "https://en.wikipedia.org/wiki/Ivory_Coast_at_the_2026_FIFA_World_Cup"}
+      ],
+      "squad_heim_stand": "Deutschland-Kader 26-Mann von Julian Nagelsmann am 21.05.2026 angekuendigt - Stamm-11 fix nach 7:1 vs Curacao (Wirtz/Musiala/Havertz Offensiv-Achse)",
+      "squad_gast_stand": "Elfenbeinkueste-Kader unter Coach Emerse Fae - Stamm nach 1:0-Sieg vs Ecuador mit Haller-Mannschaft, Kessie als Anker",
+      "injuries_heim": ["Jamal Musiala (Genesung von Club-WM-2025-Verletzung 95% Fitness laut Nagelsmann, Spieltag-1 mit 1 Tor bestaetigt) - keine offene Verletzung", "Aufstellungs-Anpassungen nach 7:1-Demolition: ggf. Kimmich/Pavlovic-Mittelfeld-Tausch oder Wirtz-Schonung-Plan denkbar"],
+      "injuries_gast": ["Live-Check kicker.de/wm/kader/elfenbeinkueste nach 1:0-Sieg - keine groesseren Verletzungen gemeldet"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM exklusiv",
+        "gast": "keine - WM exklusiv",
+        "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026", "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures"]
+      },
+      "saisonziel_heim": "Deutschland: WM-Titel-Anwaerter Nagelsmann-Aera (Coach seit 09/2023). Saisonziel Halbfinale Minimum, Finale realistisch. Mit 7:1-Auftakt Selbstvertrauen + Tor-Diff-Vorsprung in Gruppe.",
+      "saisonziel_gast": "Elfenbeinkueste: Africa-Cup-Sieger 2023 (Heim-Turnier), WM-Achtelfinale-Quali = Pflicht-Ziel. Mit 3 Pkt nach Spieltag-1 + Sieg vs GER = Gruppen-Sieger-Coup machbar.",
+      "tabellenstand": {"heim_fifa_rank_ca": 8, "gast_fifa_rank_ca": 39, "_kommentar": "Deutschland klar hoeher gerankt + Heim-Diaspora-Vorteil + 7:1-Form-Edge. Markt-Konsens GER klarer Favorit (~1.55), aber CIV-Set-Piece-Bedrohung nicht unterschaetzen."},
+      "form_heim_letzte_5": "Spieltag-1: S 7:1 vs Curacao (Havertz 2, Wirtz 1, Musiala 1, Sane 1, Goretzka 1, Eigentor); UEFA-Quali ungeschlagen unter Nagelsmann",
+      "form_gast_letzte_5": "Spieltag-1: S 1:0 vs Ecuador (Haller-Tor 62. Min, kompakt-defensiv); Afrika-WM-Quali stabil",
+      "recovery_heim": "Spieltag-2: 6 Tage Pause seit 14.06.-Sieg; volle Recovery + Form-Hoch",
+      "recovery_gast": "Spieltag-2: 6 Tage Pause seit 14.06.-Sieg; volle Recovery + 1:0-Defensive-Stabilitaet",
+      "quoten": {
+        "bet365_indikativ": {
+          "sieg_heim": 1.45,
+          "draw": 4.5,
+          "sieg_gast": 7.0,
+          "ueber_2_5": 1.75,
+          "unter_2_5": 2.05,
+          "btts_ja": 1.85,
+          "btts_nein": 1.95,
+          "dc_1x": 1.12,
+          "dc_x2": 2.70,
+          "dc_12": 1.22,
+          "torschuetzen_jederzeit": {"Havertz": 2.40, "Wirtz": 2.80, "Musiala": 2.90, "Sane": 3.20, "Kleindienst": 4.50, "Adeyemi": 5.00, "Haller": 4.00, "Pepe": 6.00, "Adingra": 5.50, "Kessie": 8.50},
+          "kommentar": "Deutschland Favorit nach 7:1-Demolition, aber CIV-Defensive (1:0 vs ECU bewies) limitiert Run-up; Ueber-2.5 leicht favorisiert (DFB-Tor-Wahrscheinlichkeit hoch); Top-Stuermer-Tore (Havertz 2.40 nach 2-Tore-Auftakt = Goldgrube-Markt nach Filter-Liste)"
+        },
+        "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup", "https://www.bet365.com/hub/en-gb/football/football-competitions/world-cup"],
+        "hinweis": "Quoten Pre-Spieltag-2-Schaetzung. bet365-DE-Lines +-5-10% Spielraum. LIVE pruefen."
+      },
+      "news_kompakt": [
+        "TOP-OF-GRUPPE-E-DUELL: beide 3 Pkt - Sieger nimmt KO-Quali fix + Gruppen-Sieger-Plus",
+        "Deutschland 7:1-Demolition vs Curacao (Havertz 2, Wirtz 1+2A, Musiala 1) = Form-Hoch",
+        "Elfenbeinkueste 1:0 vs Ecuador defensiv kompakt - Kessie/Bailly-Anker stabil",
+        "Stadion: BMO Field Toronto (kleinste WM-Arena 45.500) - intime Atmosphaere + DFB-Diaspora-Vorteil leicht",
+        "Goldgruben-Markt-Hinweis (Auto-Filter 03.05.): Torschuetzen-Jederzeit-Markt Hitrate 50%+24% ROI = Havertz/Wirtz/Musiala-Tor stark"
+      ],
+      "quellen_squad_news": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/germany-squad-neuer-nagelsmann-named",
+        "https://en.wikipedia.org/wiki/Ivory_Coast_at_the_2026_FIFA_World_Cup",
+        "https://www.kicker.de/wm-2026/teams",
+        "https://www.bundesliga.com/en/bundesliga/news/how-will-germany-line-up-havertz-musiala-wirtz-nagelsmann-world-cup-2026-28807",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/germany/squad",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/cote-divoire/squad"
+      ],
+      "wm_marktregeln_aktiv": "2:0-Insurance gilt bei direktem Sieg-Tipp (1X2) - bei Deutschland-Sieg-Tipp besonders wertvoll falls 7:1-Demolition-Modus reproduziert. Einwechslungs-Boost gilt bei Torschuetzen-Tipps (relevant: Havertz <-> Kleindienst-Backup, Wirtz <-> Goretzka-Rotation, Musiala <-> Adeyemi-Wechsel). Markt-Boykott Halbzeit-Endstand-Kombi + Genaues Ergebnis. Erster-Torschuetze WACKEL-max bei CIV-Squad."
+    },
+
+    {
+      "id": "2026-06-21-ecu-cur",
+      "liga": "FIFA WM 2026 - Gruppe E - Spieltag 2",
+      "wettbewerb_kontext": "WM 2026 USA/Kanada/Mexiko, Gruppe E Spieltag 2 - Verlierer-Duell. ECU 0 Pkt nach 0:1-Niederlage vs Elfenbeinkueste, CUW 0 Pkt nach 1:7-Demolition durch Deutschland. ECU MUSS-Sieg sonst raus, CUW de-facto eliminiert (Tor-Diff -6 + Tabellen-Letzter Gruppe E).",
+      "heim": "Ecuador",
+      "gast": "Curacao",
+      "heim_kuerzel": "ECU",
+      "gast_kuerzel": "CUR",
+      "anstoss": "2026-06-21T02:00:00+02:00",
+      "anstoss_lokal": "Sat 19:00 CT / Sat 20:00 ET / Sun 02:00 Berlin",
+      "anstoss_utc": "2026-06-21T00:00:00Z",
+      "stadion": "Arrowhead Stadium, Kansas City MO",
+      "spielort_faktor": {
+        "stadt": "Kansas City MO",
+        "stadion": "Arrowhead Stadium",
+        "land": "USA",
+        "hoehe_m": 274,
+        "kapazitaet": 76400,
+        "klima_anstoss": "Juni Kansas City: Spaet-Abend 19:00 CT ca. 25-28 Grad nach Tagesabkuehlung, moderate Luftfeuchtigkeit - LIVE Wetter via NOAA pruefen",
+        "anstoss_lokal": "Sat 19:00 CT (Spaetnachmittag/Abend Lokal)",
+        "lokal_faktor": "Neutraler Boden ohne Heim-Atmosphaere; ECU-Diaspora in USA klein, CUW-Diaspora vernachlaessigbar. Arrowhead-Riesen-Stadion (76.400) ggf. unterbesetzt fuer dieses Match.",
+        "implikationen": ["Mittel-Hitze Sommer Spaetnachmittag - mild", "Arrowhead-Lautstaerke fuer NFL bekannt - wahrscheinlich ruhig bei diesem Match", "Beide Mannschaften Saisonpause-frisch (keine CL-Belastung)"]
+      },
+      "turnier_phase": "Gruppenphase Spieltag 2",
+      "gruppe": "E",
+      "gruppen_stand_vor_spiel": {
+        "kontext": "Gruppe E nach Spieltag 1: Deutschland 3 + Elfenbeinkueste 3 fuehren, Ecuador 0 + Curacao 0. ECU MUSS Sieg, sonst raus. CUW Tor-Diff -6 nach 1:7 GER = nur Wunder-Quali als bester Dritter ueberhaupt denkbar.",
+        "heim_pkt": 0, "heim_tordiff": "-1",
+        "gast_pkt": 0, "gast_tordiff": "-6"
+      },
+      "squad_heim_top": [
+        {"name": "Moises Caicedo", "nummer": 23, "position": "DM", "verein": "Chelsea (PL)", "rolle": "Stamm-Sechser, Welt-Klasse-DM", "verifiziert_via": "https://en.wikipedia.org/wiki/Ecuador_at_the_2026_FIFA_World_Cup"},
+        {"name": "Enner Valencia", "nummer": 13, "position": "ST", "verein": "Internacional (Brasilien)", "rolle": "Kapitaen + Stamm-Stuermer-Veteran (3. WM)", "verifiziert_via": "https://en.wikipedia.org/wiki/Ecuador_at_the_2026_FIFA_World_Cup"},
+        {"name": "Pervis Estupinan", "nummer": 7, "position": "LV", "verein": "Milan (Serie A)", "rolle": "Stamm-LV, offensiv-veranlagt", "verifiziert_via": "https://en.wikipedia.org/wiki/Ecuador_at_the_2026_FIFA_World_Cup"},
+        {"name": "Kendry Paez", "nummer": 10, "position": "OM", "verein": "Chelsea (PL Loan)", "rolle": "Junges Talent-10er (18 Jahre)", "verifiziert_via": "https://en.wikipedia.org/wiki/Ecuador_at_the_2026_FIFA_World_Cup"},
+        {"name": "Piero Hincapie", "nummer": 3, "position": "IV", "verein": "Bayer Leverkusen (BL)", "rolle": "Stamm-IV", "verifiziert_via": "https://en.wikipedia.org/wiki/Ecuador_at_the_2026_FIFA_World_Cup"}
+      ],
+      "squad_gast_top": [
+        {"name": "Leandro Bacuna", "nummer": 8, "position": "ZM", "verein": "Trabzonspor (Tuerkei)", "rolle": "Kapitaen, Stamm-Mittelfeld", "verifiziert_via": "https://en.wikipedia.org/wiki/Curacao_at_the_2026_FIFA_World_Cup"},
+        {"name": "Tahith Chong", "nummer": 11, "position": "LF/RF", "verein": "Sheffield United (Championship)", "rolle": "Speed-Fluegel, Talent ex-Man-United-Akademie", "verifiziert_via": "https://en.wikipedia.org/wiki/Curacao_at_the_2026_FIFA_World_Cup"},
+        {"name": "Juninho Bacuna", "nummer": 14, "position": "ZM", "verein": "Birmingham (Championship)", "rolle": "Bruder von Leandro, Mittelfeld", "verifiziert_via": "https://en.wikipedia.org/wiki/Curacao_at_the_2026_FIFA_World_Cup"}
+      ],
+      "squad_heim_stand": "Ecuador-Kader unter Coach Sebastian Beccacece (Argentinier, seit 06/2024) - Stamm nach 0:1-Niederlage vs Elfenbeinkueste mit Caicedo-Anker, Valencia-Stuermer",
+      "squad_gast_stand": "Curacao-Kader unter Coach Dick Advocaat (Niederlaender, 77 Jahre) - kleinste WM-Nation aller Zeiten (155.000 Einwohner); Squad nach 1:7-Demolition GER moralisch geschwaecht",
+      "injuries_heim": ["Live-Check kicker.de/wm/kader/ecuador nach 0:1-Niederlage - Caicedo + Valencia fit"],
+      "injuries_gast": ["Live-Check nach 1:7-Demolition: koerperliche + mentale Belastung hoch; Stamm-Aufstellungs-Anpassungen denkbar"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM exklusiv",
+        "gast": "keine - WM exklusiv",
+        "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026", "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures"]
+      },
+      "saisonziel_heim": "Ecuador: WM-Achtelfinale-Quali. Nach 0:1 vs CIV MUSS-Sieg gegen Curacao + Sieg/Remis gegen Deutschland am letzten Spieltag (sehr schwer).",
+      "saisonziel_gast": "Curacao: WM-Debut Stolz - bereits Top-Erfolg, KO-Quali realistisch nicht erreichbar nach 1:7-Demolition. Punktgewinn vs Ecuador = Sensations-Bonus.",
+      "tabellenstand": {"heim_fifa_rank_ca": 24, "gast_fifa_rank_ca": 86, "_kommentar": "Ecuador klar hoeher (Conmebol-Strom); CUW-Mini-Staat fundamentaler Underdog. Markt-Konsens klarer ECU-Sieg (~1.45)."},
+      "form_heim_letzte_5": "Spieltag-1: N 0:1 vs Elfenbeinkueste (defensiv solide aber Tor-Mangel); Conmebol-Quali Platz 4 mit Caicedo-Mittelfeld stabil",
+      "form_gast_letzte_5": "Spieltag-1: N 1:7 vs Deutschland (totale Demolition); CONCACAF-Quali via Stichkampf knapp; jeder einzelne Test-Lauf vor WM war engl. Liga-Backup-Spieler",
+      "recovery_heim": "Spieltag-2: 7 Tage Pause seit 14.06.-Niederlage; volle Recovery + Druck-Match-Mentalitaet",
+      "recovery_gast": "Spieltag-2: 7 Tage Pause seit 14.06.-Demolition; physische Recovery ok, mentale Belastung Faktor",
+      "quoten": {
+        "bet365_indikativ": {
+          "sieg_heim": 1.40,
+          "draw": 4.50,
+          "sieg_gast": 9.0,
+          "ueber_2_5": 1.95,
+          "unter_2_5": 1.85,
+          "btts_ja": 2.20,
+          "btts_nein": 1.65,
+          "dc_1x": 1.15,
+          "dc_x2": 3.10,
+          "dc_12": 1.20,
+          "torschuetzen_jederzeit": {"Valencia": 2.50, "Estupinan": 4.50, "Paez": 5.00, "Bacuna": 8.00, "Chong": 7.50},
+          "kommentar": "Ecuador klarer Favorit mit MUSS-Sieg-Druck; Unter-2.5 leicht favorisiert (ECU 0 Tore Spieltag-1, defensiv-erfahren); BTTS-Nein dominant nach beider Spieltag-1-Profile (ECU keine Offensive, CUW 1 Tor von 7 Gegentoren bei GER)"
+        },
+        "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup", "https://www.bet365.com/hub/en-gb/football/football-competitions/world-cup"],
+        "hinweis": "Quoten Pre-Spieltag-2-Schaetzung. bet365-DE-Lines +-5-10% Spielraum. LIVE pruefen."
+      },
+      "news_kompakt": [
+        "ECU MUSS-Sieg sonst praktisch raus; CUW de-facto eliminiert nach 1:7-Demolition",
+        "Caicedo (Chelsea-Welt-Klasse-DM) Mittelfeld-Schluessel ECU, Valencia Kapitaen-Stuermer",
+        "Curacao kleinste WM-Nation aller Zeiten (155k Einwohner) - Sensation der Quali bereits Erfolg",
+        "Stadion: Arrowhead Kansas City - Sommer-Hitze moderat 25-28 Grad, NFL-Riesen-Stadion ggf. unterbesetzt",
+        "Markt-Konsens ECU 1.40 + DC-1X-Goldgruben-Markt (84.6% Hitrate Filter 03.05.) attraktiv"
+      ],
+      "quellen_squad_news": [
+        "https://en.wikipedia.org/wiki/Ecuador_at_the_2026_FIFA_World_Cup",
+        "https://en.wikipedia.org/wiki/Curacao_at_the_2026_FIFA_World_Cup",
+        "https://www.kicker.de/wm-2026/teams",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/ecuador/squad",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/curacao/squad"
+      ],
+      "wm_marktregeln_aktiv": "2:0-Insurance gilt bei direktem Sieg-Tipp (1X2) - bei ECU-Sieg-Tipp wertvoll. Einwechslungs-Boost gilt bei Torschuetzen-Tipps. Markt-Boykott Halbzeit-Endstand-Kombi + Genaues Ergebnis. Erster-Torschuetze WACKEL-max bei Curacao-Squad (CUW-Squad-Daten duenn, einziger Spieltag-1-Schuetze waere Bonus)."
+    },
+
+    {
+      "id": "2026-06-21-tun-jpn",
+      "liga": "FIFA WM 2026 - Gruppe F - Spieltag 2",
+      "wettbewerb_kontext": "WM 2026 USA/Kanada/Mexiko, Gruppe F Spieltag 2 - Verlierer-Frische-Duell. TUN 0 Pkt nach 1:5-Demolition vs Schweden (praktisch raus), JPN 1 Pkt nach 2:2 vs Niederlande (KO-Quali noch lebendig). JPN MUSS-Sieg fuer KO-Quali, TUN spielt um Wuerde.",
+      "heim": "Tunesien",
+      "gast": "Japan",
+      "heim_kuerzel": "TUN",
+      "gast_kuerzel": "JPN",
+      "anstoss": "2026-06-21T05:00:00+02:00",
+      "anstoss_lokal": "Sat 22:00 CT (Mexico) / Sun 00:00 ET / Sun 05:00 Berlin",
+      "anstoss_utc": "2026-06-21T03:00:00Z",
+      "stadion": "Estadio BBVA, Monterrey (Guadalupe NL Suburb)",
+      "spielort_faktor": {
+        "stadt": "Monterrey (Stadion in Guadalupe NL)",
+        "stadion": "Estadio BBVA",
+        "land": "Mexiko",
+        "hoehe_m": 540,
+        "kapazitaet": 53500,
+        "klima_anstoss": "Juni Monterrey: Spaet-Abend 22:00 CT (lokal Mexiko) ca. 22-26 Grad nach Tagesabkuehlung, niedrige bis moderate Luftfeuchtigkeit, Hoehe 540m leicht spuerbar",
+        "anstoss_lokal": "Sat 22:00 CT (Spaetabend Lokal Mexiko)",
+        "lokal_faktor": "Spaet-Anstoss Mexiko = abgekuehlte Temperatur; JPN-Diaspora in Nordmexiko vernachlaessigbar, TUN-Diaspora ebenfalls minimal. Mexikanisches Publikum als neutral-orientierte Zuschauer (Mexiko spielt parallel Spieltag-2).",
+        "implikationen": ["Hoehe 540m leichte Konditions-Belastung, aber kein Faktor wie Mexico-Stadt 2240m", "Mittel-Hitze + Hoehe spaetabends mild", "Saisonpause-frische Squads (keine CL-Finale-Drain)"]
+      },
+      "turnier_phase": "Gruppenphase Spieltag 2",
+      "gruppe": "F",
+      "gruppen_stand_vor_spiel": {
+        "kontext": "Gruppe F nach Spieltag 1: Schweden 3 (5:1 vs Tunesien), Niederlande 1 + Japan 1 (2:2 zwischen ihnen), Tunesien 0. JPN-Sieg = 4 Pkt + KO-Quali-Pole; TUN-Sieg = 3 Pkt + Wunder-Hoffnung als bester Dritter.",
+        "heim_pkt": 0, "heim_tordiff": "-4",
+        "gast_pkt": 1, "gast_tordiff": "0"
+      },
+      "squad_heim_top": [
+        {"name": "Wahbi Khazri", "nummer": 10, "position": "OM", "verein": "Etoile du Sahel (Tunesien)", "rolle": "Spielmacher-Veteran (35 Jahre), Set-Piece-Schluessel", "verifiziert_via": "https://en.wikipedia.org/wiki/Tunisia_at_the_2026_FIFA_World_Cup"},
+        {"name": "Hannibal Mejbri", "nummer": 19, "position": "ZM", "verein": "Burnley (PL)", "rolle": "Box-to-Box-Talent (ex Man-United-Akademie)", "verifiziert_via": "https://en.wikipedia.org/wiki/Tunisia_at_the_2026_FIFA_World_Cup"},
+        {"name": "Aissa Laidouni", "nummer": 8, "position": "DM", "verein": "Union Berlin (BL)", "rolle": "Defensiv-Sechser", "verifiziert_via": "https://en.wikipedia.org/wiki/Tunisia_at_the_2026_FIFA_World_Cup"}
+      ],
+      "squad_gast_top": [
+        {"name": "Kaoru Mitoma", "nummer": 9, "position": "LF", "verein": "Brighton (PL)", "rolle": "Star-Linksfluegel, Speed-Dribbler, PL-Form-Hoch 25/26", "verifiziert_via": "https://en.wikipedia.org/wiki/Japan_at_the_2026_FIFA_World_Cup"},
+        {"name": "Takefusa Kubo", "nummer": 11, "position": "RF", "verein": "Real Sociedad (LaLiga)", "rolle": "Stamm-Rechtsfluegel, Spielmacher-Talent", "verifiziert_via": "https://en.wikipedia.org/wiki/Japan_at_the_2026_FIFA_World_Cup"},
+        {"name": "Wataru Endo", "nummer": 6, "position": "DM", "verein": "Liverpool (PL)", "rolle": "Kapitaen, Stamm-Sechser", "verifiziert_via": "https://en.wikipedia.org/wiki/Japan_at_the_2026_FIFA_World_Cup"},
+        {"name": "Daichi Kamada", "nummer": 15, "position": "OM", "verein": "Crystal Palace (PL)", "rolle": "Spielmacher-10er", "verifiziert_via": "https://en.wikipedia.org/wiki/Japan_at_the_2026_FIFA_World_Cup"},
+        {"name": "Ayase Ueda", "nummer": 18, "position": "ST", "verein": "Feyenoord (NL)", "rolle": "Hauptstuermer", "verifiziert_via": "https://en.wikipedia.org/wiki/Japan_at_the_2026_FIFA_World_Cup"}
+      ],
+      "squad_heim_stand": "Tunesien-Kader unter Coach Sami Trabelsi - Stamm nach 1:5-Demolition vs Schweden, Khazri-Spielmacher-Achse",
+      "squad_gast_stand": "Japan-Kader unter Coach Hajime Moriyasu - Stamm nach 2:2 vs Niederlande mit Mitoma/Kubo-Fluegelspiel + Endo-Anker",
+      "injuries_heim": ["Live-Check nach 1:5 - koerperliche Recovery ok, Aufstellung-Anpassungen denkbar"],
+      "injuries_gast": ["Live-Check kicker.de/wm/kader/japan - Mitoma + Kubo fit nach 2:2"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM exklusiv",
+        "gast": "keine - WM exklusiv",
+        "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026", "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures"]
+      },
+      "saisonziel_heim": "Tunesien: WM-Achtelfinale realistisch nicht erreichbar nach 1:5; Saisonziel = Wuerde-Sieg gegen Japan + Lessons fuer Afrika-Cup 2027.",
+      "saisonziel_gast": "Japan: WM-Achtelfinale Pflicht-Ziel (analog 2022 mit Sieg vs DEU + ESP); nach 2:2 NED MUSS-Sieg vs TUN, sonst Druck im letzten Gruppen-Spieltag.",
+      "tabellenstand": {"heim_fifa_rank_ca": 41, "gast_fifa_rank_ca": 17, "_kommentar": "Japan klar hoeher gerankt + bessere Liga-Stamm-Spieler (PL-Kontingent). Markt-Konsens JPN Favorit (~1.80)."},
+      "form_heim_letzte_5": "Spieltag-1: N 1:5 vs Schweden (totale Demolition, Defensiv-Linie zerfallen); Afrika-Quali via Playoffs, Pre-WM-Tests durchwachsen",
+      "form_gast_letzte_5": "Spieltag-1: U 2:2 vs Niederlande (Mitoma 1 Tor, Kubo 1 Assist); Asia-Quali ungeschlagen unter Moriyasu",
+      "recovery_heim": "Spieltag-2: 7 Tage Pause seit 14.06.-Demolition; volle koerperliche Recovery",
+      "recovery_gast": "Spieltag-2: 7 Tage Pause seit 14.06.-2:2; volle Recovery + Form-Stabilitaet",
+      "quoten": {
+        "bet365_indikativ": {
+          "sieg_heim": 4.50,
+          "draw": 3.40,
+          "sieg_gast": 1.80,
+          "ueber_2_5": 2.05,
+          "unter_2_5": 1.75,
+          "btts_ja": 2.00,
+          "btts_nein": 1.80,
+          "dc_1x": 1.90,
+          "dc_x2": 1.22,
+          "dc_12": 1.25,
+          "torschuetzen_jederzeit": {"Mitoma": 2.50, "Kubo": 3.20, "Ueda": 3.40, "Kamada": 4.50, "Khazri": 4.50, "Mejbri": 7.00, "Laidouni": 10.0},
+          "kommentar": "Japan klarer Favorit (PL-Stamm + Form); BTTS-Markt geteilt (TUN-Tor moeglich aber JPN-Defensive solider als TUN); Mitoma Top-Goldgruben-Tor-Wert (2.50, Filter 03.05. Tor-Markt 50%+24% ROI)"
+        },
+        "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup", "https://www.bet365.com/hub/en-gb/football/football-competitions/world-cup"],
+        "hinweis": "Quoten Pre-Spieltag-2-Schaetzung. bet365-DE-Lines +-5-10% Spielraum. LIVE pruefen."
+      },
+      "news_kompakt": [
+        "JPN MUSS-Sieg fuer KO-Quali nach 2:2 vs Niederlande; TUN praktisch raus nach 1:5",
+        "Mitoma (Brighton-Star) + Kubo (Real Sociedad) Fluegel-Achse PL/LaLiga-Niveau",
+        "Tunesien Defensiv-Linie nach 1:5-Demolition unter Druck - Khazri-Veteran muss kreieren",
+        "Stadion: Estadio BBVA Monterrey 540m Hoehe leicht spuerbar - Spaet-Anstoss-Kuehlung mildert Hitze",
+        "Markt-Konsens JPN 1.80 + DC-X2-Goldgruben-Markt (77.8% Hitrate Filter 03.05.) attraktiv"
+      ],
+      "quellen_squad_news": [
+        "https://en.wikipedia.org/wiki/Tunisia_at_the_2026_FIFA_World_Cup",
+        "https://en.wikipedia.org/wiki/Japan_at_the_2026_FIFA_World_Cup",
+        "https://www.kicker.de/wm-2026/teams",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/tunisia/squad",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/japan/squad"
+      ],
+      "wm_marktregeln_aktiv": "2:0-Insurance gilt bei direktem Sieg-Tipp (1X2). Einwechslungs-Boost gilt bei Torschuetzen-Tipps (relevant: JPN-Ueda <-> Mitoma-Aushilfe, Kubo-Speed-Anpassung). Markt-Boykott Halbzeit-Endstand-Kombi + Genaues Ergebnis. Erster-Torschuetze WACKEL-max bei TUN (keine Pre-WM-Datenbasis fuer Spieltag-2)."
+    },
+
+    {
+      "id": "2026-06-21-esp-sau",
+      "liga": "FIFA WM 2026 - Gruppe H - Spieltag 2",
+      "wettbewerb_kontext": "WM 2026 USA/Kanada/Mexiko, Gruppe H (Spanien, Kap Verde, Saudi-Arabien, Uruguay) Spieltag 2. ESP nach UEBERRASCHENDEM 0:0 vs Kap Verde unter Druck (Top-Favorit-Probleme); KSA frisch nach 1:1 vs Uruguay. ESP-Sieg = KO-Quali bestaetigt, ein Stolper-Match wuerde Gruppe-Sieg gefaehrden.",
+      "heim": "Spanien",
+      "gast": "Saudi-Arabien",
+      "heim_kuerzel": "ESP",
+      "gast_kuerzel": "SAU",
+      "anstoss": "2026-06-21T18:00:00+02:00",
+      "anstoss_lokal": "Sun 12:00 ET / Sun 18:00 Berlin",
+      "anstoss_utc": "2026-06-21T16:00:00Z",
+      "stadion": "Mercedes-Benz Stadium, Atlanta",
+      "spielort_faktor": {
+        "stadt": "Atlanta GA",
+        "stadion": "Mercedes-Benz Stadium",
+        "land": "USA",
+        "hoehe_m": 327,
+        "kapazitaet": 75000,
+        "klima_anstoss": "Juni Atlanta: 30+ Grad + Luftfeuchtigkeit aussen, aber Mercedes-Benz-Stadion ueberdacht + klimatisiert - indoor 22-24 Grad. Mittagsspiel 12:00 ET = Spiel zur heissesten Tageszeit, aber drinnen mild.",
+        "anstoss_lokal": "Sun 12:00 ET (Mittag Lokal)",
+        "lokal_faktor": "Atlanta hat starke Latino-Gemeinde - leichte ESP-Heim-Atmosphaere fuer Hispanic-Fans erwartbar. Mercedes-Benz auch Brasilien-Marokko-Eroeffnung-Stil-Ort? Nein, MetLife war Bra-Mar.",
+        "implikationen": ["Indoor-Klima neutralisiert Atlanta-Hitze", "Hispanic-Fan-Vorteil leicht ESP", "ESP Spieler PL/LaLiga-Saisonmuedigkeit-Faktor (38+ Spiele Hintergrund)"]
+      },
+      "turnier_phase": "Gruppenphase Spieltag 2",
+      "gruppe": "H",
+      "gruppen_stand_vor_spiel": {
+        "kontext": "Gruppe H nach Spieltag 1: alle Teams 1 Pkt - ESP 0:0 vs Kap Verde (Sensation), KSA 1:1 vs Uruguay. Sieg fixiert KO-Quali-Pole.",
+        "heim_pkt": 1, "heim_tordiff": "0",
+        "gast_pkt": 1, "gast_tordiff": "0"
+      },
+      "squad_heim_top": [
+        {"name": "Lamine Yamal", "nummer": 19, "position": "RF", "verein": "FC Barcelona (LaLiga)", "rolle": "Star-Stuermer (18 Jahre), Hauptchance auf Tore, LaLiga-Top-Scorer-Kandidat 25/26", "saison_tore_klub_2526": 18, "verifiziert_via": "https://www.espn.com/soccer/story/_/id/48870392/spain-world-cup-2026-squad-confirmed-lamine-yamal-stars-no-real-madrid-players"},
+        {"name": "Pedri", "nummer": 8, "position": "ZM", "verein": "FC Barcelona (LaLiga)", "rolle": "Zentrale Schalt-Stelle Mittelfeld", "verifiziert_via": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/spain-squad-announcement-luis-de-la-fuente"},
+        {"name": "Mikel Oyarzabal", "nummer": 21, "position": "ST/LF", "verein": "Real Sociedad (LaLiga)", "rolle": "Stamm-Stuermer, Set-Piece-Spezi, Euro-2024-Sieg-Torschuetze", "verifiziert_via": "https://www.aljazeera.com/sports/2026/6/6/spains-world-cup-2026-team-preview-players-to-watch-group-matches-squad"},
+        {"name": "Dani Olmo", "nummer": 10, "position": "OM", "verein": "FC Barcelona (LaLiga)", "rolle": "Box-to-Box-10er, Tor-Treffer", "verifiziert_via": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/spain-squad-announcement-luis-de-la-fuente"},
+        {"name": "Nico Williams", "nummer": 17, "position": "LF", "verein": "Athletic Bilbao (LaLiga)", "rolle": "Speed-Linksfluegel, Tor-Bedrohung", "verifiziert_via": "https://www.espn.com/soccer/story/_/id/48870392/spain-world-cup-2026-squad-confirmed-lamine-yamal-stars-no-real-madrid-players"},
+        {"name": "Rodri", "nummer": 16, "position": "DM", "verein": "Manchester City (PL)", "rolle": "Defensiv-Sechser, Spielmacher - 2024-Ballon-d'Or-Sieger", "verifiziert_via": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/spain-squad-announcement-luis-de-la-fuente"}
+      ],
+      "squad_gast_top": [
+        {"name": "Salem Al-Dawsari", "nummer": 10, "position": "LF", "verein": "Al-Hilal (Saudi)", "rolle": "Star-Fluegel, 2022 WM-Schuetze gegen Argentinien (1:2-Sensation)", "verifiziert_via": "https://en.wikipedia.org/wiki/Saudi_Arabia_at_the_2026_FIFA_World_Cup"},
+        {"name": "Firas Al-Buraikan", "nummer": 9, "position": "ST", "verein": "Al-Ahli (Saudi)", "rolle": "Stamm-Stuermer", "verifiziert_via": "https://en.wikipedia.org/wiki/Saudi_Arabia_at_the_2026_FIFA_World_Cup"},
+        {"name": "Mohamed Kanno", "nummer": 13, "position": "DM", "verein": "Al-Hilal (Saudi)", "rolle": "Stamm-Sechser", "verifiziert_via": "https://en.wikipedia.org/wiki/Saudi_Arabia_at_the_2026_FIFA_World_Cup"}
+      ],
+      "squad_heim_stand": "Spanien-Kader 26-Mann am 19.05.2026 von Luis de la Fuente angekuendigt. KEINE Real-Madrid-Spieler nominiert (Bruch nach RM-vs-DFB-Pokal-Saga). Spieltag-1-Sensation 0:0 vs Kap Verde mit Yamal-Pfostentreffer + 1 nicht-gegebener Elfmeter.",
+      "squad_gast_stand": "Saudi-Arabien unter Coach Roberto Mancini (seit 2023) - Stamm nach 1:1 vs Uruguay solide, Al-Dawsari-Hauptbedrohung",
+      "injuries_heim": [
+        "Lamine Yamal (leichte Oberschenkel-Klemme Pre-WM, Spieltag-1 fit gespielt) - keine offene Verletzung",
+        "Mikel Merino (Stress-Fraktur rechter Fuss, OP Februar 2026 - WM-Teilnahme fraglich, vorerst nicht im Spieltag-2-Plan)",
+        "Fermin Lopez (Fuss-Bruch - nicht im Kader, alternative ZM-Optionen Pedri/Olmo/Zubimendi)",
+        "Dean Huijsen (nicht nominiert wegen Position-Konkurrenz)"
+      ],
+      "injuries_gast": ["Live-Check kicker.de/wm/kader/saudi-arabien - keine groesseren Verletzungen gemeldet"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM exklusiv",
+        "gast": "keine - WM exklusiv",
+        "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026", "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures"]
+      },
+      "saisonziel_heim": "Spanien: WM-Titel-Anwaerter (Euro-2024-Sieger, Nations-League-Sieger 2023+). Saisonziel Halbfinale Minimum. Nach 0:0 vs Kap Verde Druck im Spieltag-2.",
+      "saisonziel_gast": "Saudi-Arabien: WM-Achtelfinale realistisch mit Mancini-Aufbau. Punktgewinn vs ESP = Sensations-Bonus, Sieg-Hoffnung gering aber Erinnerung an 2022-Argentinien-Sensation lebt.",
+      "tabellenstand": {"heim_fifa_rank_ca": 3, "gast_fifa_rank_ca": 60, "_kommentar": "Spanien klar hoeher gerankt (FIFA-Rank Top-3, Euro-2024-Sieger). Markt-Konsens klarer ESP-Sieg (1.22)."},
+      "form_heim_letzte_5": "Spieltag-1: U 0:0 vs Kap Verde (Yamal-Pfostentreffer, ESP dominant aber kein Tor); UEFA-Quali ungeschlagen unter de la Fuente",
+      "form_gast_letzte_5": "Spieltag-1: U 1:1 vs Uruguay (Al-Dawsari 1 Tor, defensiv solide); Asia-Quali via Mancini-Reset",
+      "recovery_heim": "Spieltag-2: 6 Tage Pause seit 15.06.-0:0; volle Recovery + Druck-Match-Mentalitaet",
+      "recovery_gast": "Spieltag-2: 6 Tage Pause seit 15.06.-1:1; volle Recovery + Underdog-Bonus",
+      "quoten": {
+        "bet365_indikativ": {
+          "sieg_heim": 1.22,
+          "draw": 6.50,
+          "sieg_gast": 13.0,
+          "ueber_2_5": 1.50,
+          "unter_2_5": 2.55,
+          "btts_ja": 2.30,
+          "btts_nein": 1.60,
+          "dc_1x": 1.04,
+          "dc_x2": 4.20,
+          "dc_12": 1.10,
+          "torschuetzen_jederzeit": {"Yamal": 2.10, "Oyarzabal": 2.40, "Olmo": 3.00, "N.Williams": 3.20, "Pedri": 4.50, "Al-Dawsari": 5.00, "Al-Buraikan": 6.00},
+          "kommentar": "Spanien klarer Favorit; Ueber-2.5 leicht favorisiert (ESP-Offensive trotz 0:0 dominant); Lamine Yamal Top-Goldgruben-Markt (2.10, Tor-Markt 50%+24% ROI Filter)"
+        },
+        "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup", "https://www.bet365.com/hub/en-gb/football/football-competitions/world-cup"],
+        "hinweis": "Quoten Pre-Spieltag-2-Schaetzung. bet365-DE-Lines +-5-10% Spielraum. LIVE pruefen."
+      },
+      "news_kompakt": [
+        "ESP unter Druck nach 0:0 vs Kap Verde-Sensation - MUSS-Sieg fuer KO-Quali + Gruppen-Sieger",
+        "Lamine Yamal (Barcelona-18-Jahre-Star) Hauptchance-Maschine - 18 Tore 25/26 LaLiga",
+        "KSA-Underdog-Erinnerung 2022 (1:2-Sieg ARG-Sensation), aber LaLiga/PL-Stamm ESP klar ueberlegen",
+        "Stadion: Mercedes-Benz Atlanta indoor klimatisiert + Hispanic-Diaspora-Heim-Atmosphaere leicht ESP",
+        "Markt-Konsens ESP 1.22 (DC-1X-Goldgruben 1.04 = Quote-Aufbau-Wert), aber kein Killshot wegen 0:0-Surprise"
+      ],
+      "quellen_squad_news": [
+        "https://www.espn.com/soccer/story/_/id/48870392/spain-world-cup-2026-squad-confirmed-lamine-yamal-stars-no-real-madrid-players",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/spain-squad-announcement-luis-de-la-fuente",
+        "https://en.wikipedia.org/wiki/Saudi_Arabia_at_the_2026_FIFA_World_Cup",
+        "https://www.aljazeera.com/sports/2026/6/6/spains-world-cup-2026-team-preview-players-to-watch-group-matches-squad",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/spain/squad",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/saudi-arabia/squad"
+      ],
+      "wm_marktregeln_aktiv": "2:0-Insurance gilt bei direktem Sieg-Tipp (1X2) - bei ESP-Sieg-Tipp wertvoll. Einwechslungs-Boost gilt bei Torschuetzen-Tipps (relevant: Yamal <-> Nico-Williams-Rotation, Oyarzabal <-> Olmo-Stuermer-Tausch). Markt-Boykott Halbzeit-Endstand-Kombi + Genaues Ergebnis. Erster-Torschuetze WACKEL-max bei KSA-Squad ohne klar definierte Spieltag-2-Aufstellung."
+    },
+
+    {
+      "id": "2026-06-21-bel-irn",
+      "liga": "FIFA WM 2026 - Gruppe G - Spieltag 2",
+      "wettbewerb_kontext": "WM 2026 USA/Kanada/Mexiko, Gruppe G (Belgien, Aegypten, Iran, Neuseeland) Spieltag 2. Gruppe komplett offen: alle 4 Teams 1 Pkt nach Spieltag-1 (BEL 1:1 EGY, IRN 2:2 NZL). MUSS-Sieg-Druck fuer KO-Quali-Pole.",
+      "heim": "Belgien",
+      "gast": "Iran",
+      "heim_kuerzel": "BEL",
+      "gast_kuerzel": "IRN",
+      "anstoss": "2026-06-21T21:00:00+02:00",
+      "anstoss_lokal": "Sun 12:00 PT / Sun 15:00 ET / Sun 21:00 Berlin",
+      "anstoss_utc": "2026-06-21T19:00:00Z",
+      "stadion": "SoFi Stadium, Inglewood CA (Greater LA)",
+      "spielort_faktor": {
+        "stadt": "Inglewood CA (Greater LA)",
+        "stadion": "SoFi Stadium",
+        "land": "USA",
+        "hoehe_m": 38,
+        "kapazitaet": 70200,
+        "klima_anstoss": "Juni LA-Region: Mittag PT ca. 22-26 Grad Kuestenklima moderat, niedrige Luftfeuchtigkeit. SoFi ist ueberdacht + halb-klimatisiert (indoor-aequivalent).",
+        "anstoss_lokal": "Sun 12:00 PT (Mittag Lokal)",
+        "lokal_faktor": "LA-Region hat signifikante Iran-Diaspora ('Tehrangeles' = westliche Welt-zweitgroesste Iran-Community); Heim-Atmosphaere fuer IRN moeglich. BEL-Diaspora vernachlaessigbar.",
+        "implikationen": ["Indoor-Klima neutralisiert mild-Hitze - kein Faktor", "Iran-Diaspora-Heim-Atmosphaere leicht IRN", "Saisonpause-frische Squads"]
+      },
+      "turnier_phase": "Gruppenphase Spieltag 2",
+      "gruppe": "G",
+      "gruppen_stand_vor_spiel": {
+        "kontext": "Gruppe G nach Spieltag 1: alle 4 Teams 1 Pkt (BEL/EGY 1:1, IRN/NZL 2:2). Gruppe weit offen, Sieg = klare KO-Quali-Pole.",
+        "heim_pkt": 1, "heim_tordiff": "0",
+        "gast_pkt": 1, "gast_tordiff": "0"
+      },
+      "squad_heim_top": [
+        {"name": "Kevin De Bruyne", "nummer": 7, "position": "OM", "verein": "Napoli (Serie A, Wechsel von Man City Sommer 2025)", "rolle": "Spielmacher-Veteran, Assist-Maschine - Spielmacher-Anker BEL", "verifiziert_via": "https://www.skysports.com/football/news/12098/13543070/world-cup-2026-squad-lists-england-scotland-brazil-usa-spain-france-germany-netherlands-argentina-portugal-and-more"},
+        {"name": "Romelu Lukaku", "nummer": 10, "position": "ST", "verein": "Napoli (Serie A)", "rolle": "Stamm-Stuermer, klassischer Box-Spieler", "verifiziert_via": "https://www.skysports.com/football/news/12098/13543070/world-cup-2026-squad-lists-england-scotland-brazil-usa-spain-france-germany-netherlands-argentina-portugal-and-more"},
+        {"name": "Jeremy Doku", "nummer": 11, "position": "LF", "verein": "Manchester City (PL)", "rolle": "Speed-Fluegel, Tempo-Dribbler", "verifiziert_via": "https://www.skysports.com/football/news/12098/13543070/world-cup-2026-squad-lists-england-scotland-brazil-usa-spain-france-germany-netherlands-argentina-portugal-and-more"},
+        {"name": "Youri Tielemans", "nummer": 8, "position": "ZM", "verein": "Aston Villa (PL)", "rolle": "Achter, Spielmacher-Sechser", "verifiziert_via": "https://www.skysports.com/football/news/12098/13543070/world-cup-2026-squad-lists-england-scotland-brazil-usa-spain-france-germany-netherlands-argentina-portugal-and-more"},
+        {"name": "Amadou Onana", "nummer": 16, "position": "DM", "verein": "Aston Villa (PL)", "rolle": "Defensiv-Sechser, Lukaku-Backup-Stuermer-Alternative", "verifiziert_via": "https://www.skysports.com/football/news/12098/13543070/world-cup-2026-squad-lists-england-scotland-brazil-usa-spain-france-germany-netherlands-argentina-portugal-and-more"}
+      ],
+      "squad_gast_top": [
+        {"name": "Mehdi Taremi", "nummer": 9, "position": "ST", "verein": "Inter Mailand (Serie A)", "rolle": "Stamm-Stuermer, Set-Piece-Tor-Bedrohung", "verifiziert_via": "https://en.wikipedia.org/wiki/Iran_at_the_2026_FIFA_World_Cup"},
+        {"name": "Sardar Azmoun", "nummer": 20, "position": "ST", "verein": "Schachtjor Donezk (Ukraine)", "rolle": "Backup-Stuermer, Power-Forward", "verifiziert_via": "https://en.wikipedia.org/wiki/Iran_at_the_2026_FIFA_World_Cup"},
+        {"name": "Alireza Jahanbakhsh", "nummer": 7, "position": "RF", "verein": "Heerenveen (NL)", "rolle": "Fluegel-Veteran, Set-Piece-Schluessel", "verifiziert_via": "https://en.wikipedia.org/wiki/Iran_at_the_2026_FIFA_World_Cup"}
+      ],
+      "squad_heim_stand": "Belgien-Kader unter Coach Rudi Garcia (seit 01/2025 nach Tedesco-Aus) - Stamm mit De Bruyne als Veteran + Lukaku-Stuermer-Anker",
+      "squad_gast_stand": "Iran-Kader unter Coach Amir Ghalenoei - Stamm nach 2:2 vs Neuseeland (Defensiv-Probleme erkannt)",
+      "injuries_heim": ["Live-Check kicker.de/wm/kader/belgien nach 1:1 vs EGY - De Bruyne + Lukaku fit"],
+      "injuries_gast": ["Live-Check nach 2:2 vs NZL - Taremi + Jahanbakhsh fit"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM exklusiv",
+        "gast": "keine - WM exklusiv",
+        "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026", "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures"]
+      },
+      "saisonziel_heim": "Belgien: Goldene-Generation-Rest (De Bruyne 34, Lukaku 33) - WM-Viertelfinal-Ziel realistisch. Nach 1:1 vs EGY MUSS-Sieg fuer KO-Pole.",
+      "saisonziel_gast": "Iran: WM-Achtelfinale = Sensation aber denkbar (Spieltag-1 2:2 zeigte KO-Quali-Ambitionen). MUSS-Sieg vs BEL fuer Pole-Position.",
+      "tabellenstand": {"heim_fifa_rank_ca": 9, "gast_fifa_rank_ca": 18, "_kommentar": "Belgien hoeher gerankt + PL/Serie-A-Stamm. Markt-Konsens BEL Favorit (1.80), aber IRN-Diaspora-Bonus + 2:2-Form-Stabilitaet."},
+      "form_heim_letzte_5": "Spieltag-1: U 1:1 vs Aegypten (Spielmacher-Probleme De Bruyne, Lukaku-Tor); UEFA-Quali via Group-Sieg",
+      "form_gast_letzte_5": "Spieltag-1: U 2:2 vs Neuseeland (Taremi-Tor, Defensiv-Patzer 2 Tore Wood); Asia-Quali stabil",
+      "recovery_heim": "Spieltag-2: 6 Tage Pause seit 15.06.; volle Recovery",
+      "recovery_gast": "Spieltag-2: 5 Tage Pause seit 16.06. (kurzer Spieltag-1-Anstoss); ggf. minimal weniger Recovery",
+      "quoten": {
+        "bet365_indikativ": {
+          "sieg_heim": 1.85,
+          "draw": 3.50,
+          "sieg_gast": 4.40,
+          "ueber_2_5": 1.90,
+          "unter_2_5": 1.90,
+          "btts_ja": 1.95,
+          "btts_nein": 1.80,
+          "dc_1x": 1.27,
+          "dc_x2": 2.05,
+          "dc_12": 1.32,
+          "torschuetzen_jederzeit": {"Lukaku": 2.40, "DeBruyne": 3.20, "Doku": 3.40, "Onana": 6.00, "Taremi": 3.20, "Azmoun": 4.50, "Jahanbakhsh": 5.50},
+          "kommentar": "Belgien Favorit (PL/Serie-A-Stamm), aber kein Killshot - IRN-Diaspora-Bonus + 2:2-Defensiv-Profil; Tor-Markt geteilt"
+        },
+        "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup", "https://www.bet365.com/hub/en-gb/football/football-competitions/world-cup"],
+        "hinweis": "Quoten Pre-Spieltag-2-Schaetzung. bet365-DE-Lines +-5-10% Spielraum. LIVE pruefen."
+      },
+      "news_kompakt": [
+        "Gruppe G komplett offen (alle 1 Pkt) - Sieg = KO-Quali-Pole",
+        "De Bruyne (Napoli-Wechsel Sommer 25) Spielmacher-Veteran, Lukaku Stamm-Stuermer",
+        "Taremi (Inter) IRN-Hauptbedrohung; LA-Region Iran-Diaspora ('Tehrangeles') = leichter Heim-Vorteil IRN",
+        "Stadion: SoFi Inglewood CA - Mittag-Anstoss-PT moderat-mild",
+        "Markt-Konsens BEL 1.85, DC-X2-Goldgruben (77.8%/+9.4%) Iran-Unentschieden-Schutz attraktiv"
+      ],
+      "quellen_squad_news": [
+        "https://www.skysports.com/football/news/12098/13543070/world-cup-2026-squad-lists-england-scotland-brazil-usa-spain-france-germany-netherlands-argentina-portugal-and-more",
+        "https://en.wikipedia.org/wiki/Iran_at_the_2026_FIFA_World_Cup",
+        "https://www.kicker.de/wm-2026/teams",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/belgium/squad",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/ir-iran/squad"
+      ],
+      "wm_marktregeln_aktiv": "2:0-Insurance gilt bei direktem Sieg-Tipp (1X2). Einwechslungs-Boost gilt bei Torschuetzen-Tipps (relevant: Lukaku <-> Onana-Wechsel, Doku <-> Trossard-Speed-Rotation, IRN Taremi <-> Azmoun-Backup-Stuermer). Markt-Boykott Halbzeit-Endstand-Kombi + Genaues Ergebnis."
+    },
+
+    {
+      "id": "2026-06-22-uru-cpv",
+      "liga": "FIFA WM 2026 - Gruppe H - Spieltag 2",
+      "wettbewerb_kontext": "WM 2026 USA/Kanada/Mexiko, Gruppe H Spieltag 2. Uruguay nach erwartungsgemaesem 1:1 vs Saudi-Arabien unter Bielsa-Druck (Conmebol-Star erwartet mehr); Kap Verde Sensation des Spieltags-1 mit 0:0 vs Spanien - WM-Debut mit erstem Punkt der Geschichte.",
+      "heim": "Uruguay",
+      "gast": "Kap Verde",
+      "heim_kuerzel": "URU",
+      "gast_kuerzel": "CPV",
+      "anstoss": "2026-06-22T00:00:00+02:00",
+      "anstoss_lokal": "Sun 18:00 ET / Mon 00:00 Berlin",
+      "anstoss_utc": "2026-06-21T22:00:00Z",
+      "stadion": "Hard Rock Stadium, Miami Gardens FL",
+      "spielort_faktor": {
+        "stadt": "Miami Gardens FL",
+        "stadion": "Hard Rock Stadium",
+        "land": "USA",
+        "hoehe_m": 2,
+        "kapazitaet": 65300,
+        "klima_anstoss": "Juni Miami: 18:00 ET (Spaetnachmittag) ca. 28-30 Grad + hohe Luftfeuchtigkeit (~80%) typisch Florida-Sommer. Stadion offen, kein Klimaanlage - heisses + schwueles Mikroklima Spielfeld.",
+        "anstoss_lokal": "Sun 18:00 ET (Spaetnachmittag Lokal)",
+        "lokal_faktor": "Miami sehr starke Latino-Diaspora (Uruguay-Community kleiner als Argentinien-Gemeinde, aber Conmebol-Solidaritaet); Kap-Verde-Diaspora in Miami klein. URU leichter Heim-Vorteil moeglich.",
+        "implikationen": ["Hitze + Luftfeuchtigkeit Faktor (~80% LF Miami-Juni) - Kondition wichtig", "Conmebol-Diaspora-Bonus URU", "Hard-Rock offen, kein Klimaanlage - Tagesspiel-Schwitzen-Match"]
+      },
+      "turnier_phase": "Gruppenphase Spieltag 2",
+      "gruppe": "H",
+      "gruppen_stand_vor_spiel": {
+        "kontext": "Gruppe H nach Spieltag 1: alle 4 Teams 1 Pkt. URU 1:1 vs Saudi-Arabien, CPV 0:0 vs Spanien-Sensation. Gruppe komplett offen.",
+        "heim_pkt": 1, "heim_tordiff": "0",
+        "gast_pkt": 1, "gast_tordiff": "0"
+      },
+      "squad_heim_top": [
+        {"name": "Federico Valverde", "nummer": 15, "position": "ZM", "verein": "Real Madrid (LaLiga)", "rolle": "Box-to-Box-Powerhouse, Distanz-Schuetze, CL-Sieger 24/25", "verifiziert_via": "https://en.wikipedia.org/wiki/Uruguay_at_the_2026_FIFA_World_Cup"},
+        {"name": "Darwin Nunez", "nummer": 19, "position": "ST", "verein": "Al-Hilal (Saudi seit Sommer 2025)", "rolle": "Speed-Stuermer, Tor-Bedrohung", "verifiziert_via": "https://en.wikipedia.org/wiki/Uruguay_at_the_2026_FIFA_World_Cup"},
+        {"name": "Maximiliano Araujo", "nummer": 11, "position": "LF", "verein": "Sporting CP (Liga Portugal)", "rolle": "Stamm-Linksfluegel, Tempo + Dribbling", "verifiziert_via": "https://en.wikipedia.org/wiki/Uruguay_at_the_2026_FIFA_World_Cup"},
+        {"name": "Rodrigo Bentancur", "nummer": 6, "position": "DM", "verein": "Tottenham (PL)", "rolle": "Defensiv-Achter, Mittelfeld-Anker", "verifiziert_via": "https://en.wikipedia.org/wiki/Uruguay_at_the_2026_FIFA_World_Cup"},
+        {"name": "Jose Maria Gimenez", "nummer": 2, "position": "IV", "verein": "Atletico Madrid (LaLiga)", "rolle": "Stamm-IV, Routinier", "verifiziert_via": "https://en.wikipedia.org/wiki/Uruguay_at_the_2026_FIFA_World_Cup"}
+      ],
+      "squad_gast_top": [
+        {"name": "Ryan Mendes", "nummer": 10, "position": "OM/ST", "verein": "Al-Wakrah (Katar)", "rolle": "Kapitaen + Schluessel-Spieler, Erfahrungs-Veteran", "verifiziert_via": "https://en.wikipedia.org/wiki/Cape_Verde_at_the_2026_FIFA_World_Cup"},
+        {"name": "Jamiro Monteiro", "nummer": 8, "position": "ZM", "verein": "San Jose Earthquakes (MLS)", "rolle": "Box-to-Box-Achter", "verifiziert_via": "https://en.wikipedia.org/wiki/Cape_Verde_at_the_2026_FIFA_World_Cup"},
+        {"name": "Dailon Livramento", "nummer": 9, "position": "ST", "verein": "Casa Pia (Liga Portugal)", "rolle": "Sturm-Hoffnung, Liga-Portugal-Stamm", "verifiziert_via": "https://en.wikipedia.org/wiki/Cape_Verde_at_the_2026_FIFA_World_Cup"},
+        {"name": "Bebe", "nummer": 7, "position": "LF/RF", "verein": "Sporting Charleroi (Belgien)", "rolle": "Fluegel-Veteran (ex Man United)", "verifiziert_via": "https://en.wikipedia.org/wiki/Cape_Verde_at_the_2026_FIFA_World_Cup"}
+      ],
+      "squad_heim_stand": "Uruguay-Kader unter Marcelo Bielsa (Argentinier seit 2023) - Stamm mit Valverde-Bentancur Mittelfeld + Nunez/Araujo Offensive",
+      "squad_gast_stand": "Kap Verde-Kader unter Coach Pedro 'Bubista' Brito - erste WM-Teilnahme der Inselrepublik (500.000 Einwohner); Sensations-Punkt vs Spanien Spieltag-1",
+      "injuries_heim": ["Live-Check kicker.de/wm/kader/uruguay - Valverde + Nunez fit"],
+      "injuries_gast": ["Live-Check nach 0:0 vs ESP - Stamm fit"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM exklusiv",
+        "gast": "keine - WM exklusiv",
+        "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026", "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures"]
+      },
+      "saisonziel_heim": "Uruguay: WM-Halbfinal-Ziel (analog 2010 4. Platz, 2022 KO-Aus). Nach 1:1 vs KSA MUSS-Sieg vs CPV fuer KO-Pole.",
+      "saisonziel_gast": "Kap Verde: WM-Debut Stolz - 0:0 vs Spanien bereits historischer Erfolg. KO-Quali als Mini-Staat-Insel-Republik = Wunder-Wunsch.",
+      "tabellenstand": {"heim_fifa_rank_ca": 12, "gast_fifa_rank_ca": 76, "_kommentar": "Uruguay klar hoeher gerankt + Bielsa-Lehre + LaLiga/PL-Stamm. Markt-Konsens klarer URU-Sieg (~1.25), aber CPV-Defensiv-Sensation Spieltag-1 verlangt Vorsicht."},
+      "form_heim_letzte_5": "Spieltag-1: U 1:1 vs Saudi-Arabien (Nunez-Tor, Konter-Verluste); Conmebol-Quali Platz 2 hinter Argentinien stabil",
+      "form_gast_letzte_5": "Spieltag-1: U 0:0 vs Spanien-Sensation (defensiv kompakt, Counter-Attacking-Mentalitaet); Afrika-Quali via Stichkampf-Lauf",
+      "recovery_heim": "Spieltag-2: 6 Tage Pause seit 15.06.-1:1; volle Recovery",
+      "recovery_gast": "Spieltag-2: 6 Tage Pause seit 15.06.-0:0; volle Recovery + Sensation-Momentum",
+      "quoten": {
+        "bet365_indikativ": {
+          "sieg_heim": 1.30,
+          "draw": 5.00,
+          "sieg_gast": 10.0,
+          "ueber_2_5": 1.65,
+          "unter_2_5": 2.20,
+          "btts_ja": 2.10,
+          "btts_nein": 1.70,
+          "dc_1x": 1.08,
+          "dc_x2": 3.50,
+          "dc_12": 1.15,
+          "torschuetzen_jederzeit": {"Nunez": 2.20, "Valverde": 3.50, "Araujo": 4.50, "Pellistri": 5.00, "Mendes": 7.50, "Livramento": 8.50, "Monteiro": 9.00},
+          "kommentar": "Uruguay klarer Favorit; Ueber-2.5 leicht favorisiert (URU-Tor-Erwartung); Hitze-Faktor + CPV-Defensiv-Stabilitaet (0:0 vs ESP) sind Limits"
+        },
+        "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup", "https://www.bet365.com/hub/en-gb/football/football-competitions/world-cup"],
+        "hinweis": "Quoten Pre-Spieltag-2-Schaetzung. bet365-DE-Lines +-5-10% Spielraum. LIVE pruefen."
+      },
+      "news_kompakt": [
+        "Uruguay-Bielsa-Druck nach 1:1 vs KSA; CPV Sensations-Punkt vs Spanien (0:0)",
+        "Valverde (Real Madrid CL-Sieger) + Nunez (Al-Hilal Saisonpause-frisch) Achse URU",
+        "Kap Verde Insel-Republik 500.000 Einwohner - kompakt-defensiv-Counter wie 0:0 ESP",
+        "Stadion: Hard Rock Miami offen + hohe Luftfeuchtigkeit ~80% - Hitze-Kondition wichtig",
+        "Markt-Konsens URU 1.30, DC-1X-Goldgruben 1.08 als Aufbau-Wert attraktiv"
+      ],
+      "quellen_squad_news": [
+        "https://en.wikipedia.org/wiki/Uruguay_at_the_2026_FIFA_World_Cup",
+        "https://en.wikipedia.org/wiki/Cape_Verde_at_the_2026_FIFA_World_Cup",
+        "https://www.kicker.de/wm-2026/teams",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/uruguay/squad",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/cape-verde/squad"
+      ],
+      "wm_marktregeln_aktiv": "2:0-Insurance gilt bei direktem Sieg-Tipp (1X2) - bei URU-Sieg-Tipp wertvoll. Einwechslungs-Boost gilt bei Torschuetzen-Tipps (relevant: Nunez <-> Pellistri-Speed-Tausch, Araujo <-> Vecino-Mittelfeld-Rotation). Markt-Boykott Halbzeit-Endstand-Kombi + Genaues Ergebnis. Erster-Torschuetze WACKEL-max bei CPV-Squad (duenne Pre-WM-Tor-Datenbasis)."
+    },
+
+    {
+      "id": "2026-06-22-nzl-egy",
+      "liga": "FIFA WM 2026 - Gruppe G - Spieltag 2",
+      "wettbewerb_kontext": "WM 2026 USA/Kanada/Mexiko, Gruppe G Spieltag 2 - Salah-Schaukel-Match. NZL nach Sensations-2:2 vs Iran (Wood Doppelpack) + EGY nach 1:1 vs Belgien (Salah-Hauptakteur). Beide brauchen Sieg fuer KO-Quali-Pole.",
+      "heim": "Neuseeland",
+      "gast": "Aegypten",
+      "heim_kuerzel": "NZL",
+      "gast_kuerzel": "EGY",
+      "anstoss": "2026-06-22T03:00:00+02:00",
+      "anstoss_lokal": "Sun 18:00 PT / Sun 21:00 ET / Mon 03:00 Berlin",
+      "anstoss_utc": "2026-06-22T01:00:00Z",
+      "stadion": "BC Place, Vancouver",
+      "spielort_faktor": {
+        "stadt": "Vancouver BC",
+        "stadion": "BC Place",
+        "land": "Kanada",
+        "hoehe_m": 0,
+        "kapazitaet": 54500,
+        "klima_anstoss": "Juni Vancouver: 18:00 PT ca. 18-22 Grad moderates Kuestenklima, niedrige Luftfeuchtigkeit, ggf. leichter Regen typisch (Sommer-Vancouver). BC Place hat einziehbares Dach.",
+        "anstoss_lokal": "Sun 18:00 PT (Spaetnachmittag Lokal)",
+        "lokal_faktor": "Neuseeland-Diaspora in Vancouver minimal, Aegypten-Diaspora ebenfalls klein. Vancouver-Publikum neutral-orientiert.",
+        "implikationen": ["Moderates Klima neutral - kein Konditions-Faktor", "BC-Place-Dach-Option falls Regen", "EGY-Salah PL-Form (Liverpool) sollte gut transferieren"]
+      },
+      "turnier_phase": "Gruppenphase Spieltag 2",
+      "gruppe": "G",
+      "gruppen_stand_vor_spiel": {
+        "kontext": "Gruppe G nach Spieltag 1: alle 4 Teams 1 Pkt - BEL/EGY 1:1, IRN/NZL 2:2. Gruppe komplett offen.",
+        "heim_pkt": 1, "heim_tordiff": "0",
+        "gast_pkt": 1, "gast_tordiff": "0"
+      },
+      "squad_heim_top": [
+        {"name": "Chris Wood", "nummer": 9, "position": "ST", "verein": "Nottingham Forest (PL)", "rolle": "Kapitaen, PL-Stuermer 20+ Tore 25/26 Saison, Hauptbedrohung - 2 Tore Spieltag-1 vs Iran", "verifiziert_via": "https://en.wikipedia.org/wiki/New_Zealand_at_the_2026_FIFA_World_Cup"},
+        {"name": "Marko Stamenic", "nummer": 8, "position": "ZM", "verein": "Olympiakos (Griechenland)", "rolle": "Box-to-Box-Achter, Set-Piece-Werkzeug", "verifiziert_via": "https://en.wikipedia.org/wiki/New_Zealand_at_the_2026_FIFA_World_Cup"},
+        {"name": "Liberato Cacace", "nummer": 3, "position": "LV", "verein": "Wolves (PL)", "rolle": "Stamm-Linksverteidiger, offensiv-veranlagt", "verifiziert_via": "https://en.wikipedia.org/wiki/New_Zealand_at_the_2026_FIFA_World_Cup"},
+        {"name": "Tyler Bindon", "nummer": 5, "position": "IV", "verein": "Reading (League One)", "rolle": "Junger IV-Aufsteiger", "verifiziert_via": "https://en.wikipedia.org/wiki/New_Zealand_at_the_2026_FIFA_World_Cup"}
+      ],
+      "squad_gast_top": [
+        {"name": "Mohamed Salah", "nummer": 10, "position": "RF", "verein": "Liverpool (PL)", "rolle": "Star-Spieler, Hauptbedrohung, PL-Top-Scorer-Kandidat 25/26 (28 Tore Liga)", "verifiziert_via": "https://en.wikipedia.org/wiki/Egypt_at_the_2026_FIFA_World_Cup"},
+        {"name": "Trezeguet", "nummer": 22, "position": "LF", "verein": "Trabzonspor (Tuerkei)", "rolle": "Schneller Fluegel-Stuermer, Speed-Konter", "verifiziert_via": "https://en.wikipedia.org/wiki/Egypt_at_the_2026_FIFA_World_Cup"},
+        {"name": "Mohamed Elneny", "nummer": 17, "position": "DM", "verein": "Al-Jazira (UAE)", "rolle": "Veteran-Sechser, ex-Arsenal", "verifiziert_via": "https://en.wikipedia.org/wiki/Egypt_at_the_2026_FIFA_World_Cup"},
+        {"name": "Omar Marmoush", "nummer": 9, "position": "ST", "verein": "Manchester City (PL)", "rolle": "Stamm-Stuermer neben Salah - PL-Transfer Sommer 2025", "verifiziert_via": "https://en.wikipedia.org/wiki/Egypt_at_the_2026_FIFA_World_Cup"}
+      ],
+      "squad_heim_stand": "Neuseeland-Kader unter Darren Bazeley - Stamm mit Wood-Stuermer-Anker, nach Sensations-2:2 vs Iran (Wood-Doppelpack) Selbstvertrauen",
+      "squad_gast_stand": "Aegypten-Kader unter Hossam Hassan (ex-Star-Stuermer) - Stamm mit Salah/Marmoush Liverpool/City-Achse",
+      "injuries_heim": ["Live-Check kicker.de/wm/kader/neuseeland - Wood + Stamenic fit nach 2:2"],
+      "injuries_gast": ["Live-Check nach 1:1 vs BEL - Salah + Marmoush fit; Saisonmuedigkeit Salah Liverpool 38+ Spiele Faktor"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM exklusiv",
+        "gast": "keine - WM exklusiv",
+        "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026", "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures"]
+      },
+      "saisonziel_heim": "Neuseeland: WM-Achtelfinale = Wunder-Ziel (Erstes Mal seit 2010 dabei). 2:2 vs IRN bereits historisch - Punktgewinn vs EGY wuerde KO-Quali realistisch machen.",
+      "saisonziel_gast": "Aegypten: WM-Achtelfinale Salah-Aera-Pflicht-Ziel (zuletzt 2018 dabei). Nach 1:1 vs BEL MUSS-Sieg vs NZL fuer KO-Quali.",
+      "tabellenstand": {"heim_fifa_rank_ca": 89, "gast_fifa_rank_ca": 37, "_kommentar": "Aegypten klar hoeher gerankt + Salah-Star-Faktor + Marmoush-PL-Transfer. Markt-Konsens EGY Favorit (~1.75), aber NZL-Sensation-Wood-Hoffnung."},
+      "form_heim_letzte_5": "Spieltag-1: U 2:2 vs Iran (Wood-Doppelpack 12./76. Min) - historischer Punktgewinn",
+      "form_gast_letzte_5": "Spieltag-1: U 1:1 vs Belgien (Salah-Tor 38. Min); Afrika-Quali via Cup-Sieg",
+      "recovery_heim": "Spieltag-2: 7 Tage Pause seit 15.06.-Sensation; volle Recovery + Form-Hoch",
+      "recovery_gast": "Spieltag-2: 7 Tage Pause seit 15.06.-1:1; volle Recovery + Salah-Saisonmuedigkeit-Risiko Faktor",
+      "quoten": {
+        "bet365_indikativ": {
+          "sieg_heim": 5.00,
+          "draw": 3.50,
+          "sieg_gast": 1.65,
+          "ueber_2_5": 2.10,
+          "unter_2_5": 1.70,
+          "btts_ja": 2.05,
+          "btts_nein": 1.75,
+          "dc_1x": 2.00,
+          "dc_x2": 1.18,
+          "dc_12": 1.25,
+          "torschuetzen_jederzeit": {"Salah": 2.00, "Marmoush": 2.80, "Trezeguet": 4.00, "Mohamed": 5.00, "Wood": 2.80, "Stamenic": 6.00, "Cacace": 8.00},
+          "kommentar": "EGY Favorit (Salah Star-Faktor + Marmoush PL-Niveau); NZL Wood-Hoffnung als Counter; BTTS-Markt geteilt"
+        },
+        "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup", "https://www.bet365.com/hub/en-gb/football/football-competitions/world-cup"],
+        "hinweis": "Quoten Pre-Spieltag-2-Schaetzung. bet365-DE-Lines +-5-10% Spielraum. LIVE pruefen."
+      },
+      "news_kompakt": [
+        "Gruppe G komplett offen (alle 1 Pkt) - Sieg = KO-Quali-Pole",
+        "Salah (Liverpool PL-Top-Scorer 28 Tore) + Marmoush (Man-City-Transfer Sommer 25) EGY-Achse",
+        "Neuseeland-Sensation: Wood-Doppelpack 2:2 vs Iran - PL-Stamm-Stuermer in Form (20+ Tore Forest)",
+        "Stadion: BC Place Vancouver moderates Klima, kein Konditions-Faktor",
+        "Salah-Saisonmuedigkeit-Risiko: 38+ Liga-Spiele Liverpool + CL-Aus Halbfinale gegen Arsenal = grossest Pause-Drain im Squad"
+      ],
+      "quellen_squad_news": [
+        "https://en.wikipedia.org/wiki/New_Zealand_at_the_2026_FIFA_World_Cup",
+        "https://en.wikipedia.org/wiki/Egypt_at_the_2026_FIFA_World_Cup",
+        "https://www.kicker.de/wm-2026/teams",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/new-zealand/squad",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/egypt/squad"
+      ],
+      "wm_marktregeln_aktiv": "2:0-Insurance gilt bei direktem Sieg-Tipp (1X2). Einwechslungs-Boost gilt bei Torschuetzen-Tipps (sehr relevant: Salah <-> Trezeguet-Wechsel + Marmoush <-> Mohamed-Sturm-Rotation; NZL Wood <-> Bayliss-Backup-Stuermer). Markt-Boykott Halbzeit-Endstand-Kombi + Genaues Ergebnis."
+    }
+  ]
+}
