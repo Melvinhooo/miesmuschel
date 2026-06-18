@@ -1,7 +1,7 @@
 {
   "datum": "2026-06-18",
-  "erstellt_am": "2026-06-18T15:05:00+02:00",
-  "hinweis": "Watchdog-Recovery 15:05 (Hauptroutine 16:00 noch nicht durch). WM-Spieltag-2 Tag 8: Gruppe A komplett (CZE-RSA + MEX-KOR) + Gruppe B komplett (SUI-BIH + CAN-QAT). Kasse-Stufe 1 (550€). Per Lesson 18.06 Tag-5-Re-Massenversagen-Cluster: Tag-4-Cluster-Bruch WIDERLEGT (Portugal @ 1.27 1:1 vs DR Kongo, Ronaldo+James Doppel-Anytime-Fail). Class-Edge-Sieg-Tipps WM-Spieltag-2 max VALUE (kein SAFE), Karriere-Highlight-INVERS-Hebel deaktiviert. Gruppe-B-Spieltag-1 noch auf Beobachtungs-Liste — SUI-BIH dennoch im Dossier aber max VALUE. Mexico-Hoehe-Sonderregel CLAUDE.md aktiv fuer MEX-KOR (Estadio Akron Guadalajara 1566m moderate Hoehe).",
+  "erstellt_am": "2026-06-18T16:00:00+02:00",
+  "hinweis": "Hauptroutine 16:00 (Pipeline Mo-Fr via GitHub Action). WM-Spieltag-2 Tag 8: Gruppe A komplett (CZE-RSA + MEX-KOR) + Gruppe B komplett (SUI-BIH + CAN-QAT). Kasse-Stufe 1 (550€). Per Lesson 18.06 Tag-5-Re-Massenversagen-Cluster: Tag-4-Cluster-Bruch WIDERLEGT (Portugal @ 1.27 1:1 vs DR Kongo, Ronaldo+James Doppel-Anytime-Fail). Class-Edge-Sieg-Tipps WM-Spieltag-2 max VALUE (kein SAFE), Karriere-Highlight-INVERS-Hebel deaktiviert. Gruppe-B-Spieltag-1 noch auf Beobachtungs-Liste — SUI-BIH dennoch im Dossier aber max VALUE. Mexico-Hoehe-Sonderregel CLAUDE.md aktiv fuer MEX-KOR (Estadio Akron Guadalajara 1566m moderate Hoehe). Verifikation: 'Endstand 1:1' Moonshot-Bein gedropt (CLAUDE.md WM-Markt-Boykott 'Genaues Ergebnis NIE'), ersetzt durch Demirovic Anytime.",
   "spiele": [
     {
       "id": "2026-06-18-cze-rsa",
@@ -537,14 +537,14 @@
     },
     {
       "name": "Moonshot",
-      "berechnete_quote": 91.0,
+      "berechnete_quote": 77.0,
       "empfohlener_einsatz_euro": 0.55,
       "empfohlener_einsatz_prozent": 0.1,
       "beine": [
         {
           "spiel_id": "2026-06-18-sui-bih",
-          "markt": "Endstand 1:1",
-          "quote": 6.5
+          "markt": "Ermedin Demirovic trifft jederzeit",
+          "quote": 5.5
         },
         {
           "spiel_id": "2026-06-18-can-qat",
@@ -557,9 +557,9 @@
           "quote": 4.0
         }
       ],
-      "begruendung": "3-Bein Markt-Mix Moonshot. Layer-1: 3 verschiedene Spiele (CZE-RSA ausgelassen wegen Doppel-Beleg). Layer-3: 3 neue Spieler/Markets nicht in Risk/Balance. SUI 1:1 Pattern-Lotterie (BIH-Draw-Cluster 5/6) + Davies-Comeback-Form-Trigger + Son-Top5Liga-Volume. Spass-Einsatz. Quote 6.50 * 3.50 * 4.00 = 91.00.",
-      "gesamtquote": 91.0,
-      "rechnung": "6.50 x 3.50 x 4.00 = 91.00"
+      "begruendung": "3-Bein Anytime-Joker-Moonshot. Layer-1: 3 verschiedene Spiele (CZE-RSA ausgelassen wegen Mehrfach-Beleg). Layer-3: 3 neue Spieler nicht in Balance (J.David/Schick/Embolo). Demirovic (BIH-Stamm-9er bei 1-1-Cluster-Risk) + Davies-Comeback-Form-Trigger nach Achilles-Pause + Son-Top5Liga-Volume in 10er-Hybrid. Spass-Einsatz. Quote 5.50 * 3.50 * 4.00 = 77.00. Replaced 'Endstand 1:1' Bein per Verifikation (CLAUDE.md WM-Markt-Boykott 'Genaues Ergebnis NIE').",
+      "gesamtquote": 77.0,
+      "rechnung": "5.50 x 3.50 x 4.00 = 77.00"
     }
   ],
   "lessons_angewandt": [
@@ -604,5 +604,87 @@
       "lesson_kurz": "Suedafrika ohne Sithole(CB) + Zwane(CM) wegen 2 Rote-Karten vs Mexico (erste Nation seit 2006 mit 2 Roten in WM-Spiel). Klassen-Edge-Boost fuer Tschechien + Schick-Form-Edge-Plus."
     }
   ],
-  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-06-18T16:00:00+02:00",
+    "drops": [
+      {
+        "tipp_id": "kombi-moonshot-sui-bih-endstand-1-1",
+        "grund": "CLAUDE.md WM-Markt-Boykott 'Genaues Ergebnis NIE' (Lotterie, in Gruppenphase trotzdem boykottiert). Zudem war 'Endstand 1:1' nicht in spiele[].tipps[] fuer SUI-BIH - Markt-Halluzination aus Kombi-Builder.",
+        "lesson_vorschlag": "Master-Routine MUSS Kombi-Beine ausschliesslich aus spiele[].tipps[] des jeweiligen Spiels ziehen. Genaues-Ergebnis-Markt aktiv blacklisten (WM-Markt-Boykott)."
+      }
+    ],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "torschuetze_quelle_warn",
+        "tipp_id": "cze-rsa-schick-anytime",
+        "details": "Vereins-Quelle (transfermarkt/kicker) fehlt in saison_kontext.quellen[]. Tipp bereits selbst-degradiert auf wackel per fix_schema-Pattern. Hit-These (6 Tore in 10 Quali) durch ESPN/FIFA-Quelle gestuetzt."
+      },
+      {
+        "art": "torschuetze_quelle_warn",
+        "tipp_id": "cze-rsa-soucek-anytime",
+        "details": "Vereins-Quelle fehlt. Soucek-Aerial-Profile bekannt aus West-Ham-PL-Saison aber nicht in quellen[]. Auf wackel."
+      },
+      {
+        "art": "torschuetze_quelle_warn",
+        "tipp_id": "sui-bih-embolo-anytime",
+        "details": "Form-Behauptung '5 Tore in letzten 7 Spielen' braucht transfermarkt/kicker-Beleg. Auf wackel."
+      },
+      {
+        "art": "torschuetze_quelle_warn",
+        "tipp_id": "sui-bih-demirovic-anytime",
+        "details": "Stuttgart-Bundesliga-Profile nicht in quellen[]. Auf wackel."
+      },
+      {
+        "art": "torschuetze_quelle_warn",
+        "tipp_id": "can-qat-jonathan-david-anytime",
+        "details": "Lille-Quelle (Liga-Profil) fehlt. Auf wackel."
+      },
+      {
+        "art": "torschuetze_quelle_warn",
+        "tipp_id": "mex-kor-jimenez-anytime",
+        "details": "Mexico-Liga-Quelle fehlt. Auf wackel."
+      },
+      {
+        "art": "torschuetze_quelle_warn",
+        "tipp_id": "mex-kor-son-anytime",
+        "details": "Tottenham-PL-Quelle nicht in quellen[]. Auf wackel."
+      },
+      {
+        "art": "layer_3_weich_unvermeidbar",
+        "details": "Mit nur 4 WM-Spielen + 4 Kombis ist Layer-3 (Spiel max in 1 Kombi) nicht erfuellbar. Diversifikation via Markt-Typen (Sieg/Anytime/Unter/BTTS) sichert Bein-Unabhaengigkeit."
+      },
+      {
+        "art": "kontext_check_recherche_fehlt",
+        "details": "data/recherche/2026-06-18.json war nicht vorhanden. Fallback-Recherche aus Watchdog-Run 15:05 uebernommen (Quellen via FIFA/ESPN/CBS/FOX/bet365-Articles). Routine markiert das aber Tipps bleiben SAFE/VALUE/WACKEL-konform da Quellen pro Spiel >=4 gelistet."
+      }
+    ],
+    "layer_2_check": {
+      "status": "OK",
+      "details": "Sieg-Outcomes (Kanada Sieg, Tschechien Sieg, Schweiz Sieg) nur in Safe-Kombi. Mexico Sieg in einzeltipps aber nicht in Kombis. Layer-2 sauber."
+    },
+    "layer_4_markt_typ_check": {
+      "status": "OK",
+      "details": "Balance: 3x Torschuetzen (3 verschiedene Spiele). Risiko: 2x Unter 2.5 + 1x BTTS NEIN + 1x Torschuetzen. Moonshot: 3x Torschuetzen (alternative Spieler). Master-Prompt erlaubt explizit Anytime-Cluster wenn Form-Edges gegeben."
+    },
+    "quoten_plausibilitaets_check": {
+      "status": "OK",
+      "details": "Quoten konsistent mit ESPN/bet365/CBS/FOX/Opta-Sources die in saison_kontext.quellen[] referenziert sind. Faire Quoten alle <= bet365-Quote (positiver Edge)."
+    },
+    "selbstwiderspruch_scan": {
+      "status": "OK",
+      "details": "Keine OUT/IN-Widersprueche. Davies-Rueckkehr konsistent in news+begruendung. RSA-Suspensions Sithole/Zwane konsistent."
+    },
+    "lessons_generiert": [
+      {
+        "kategorie": "WM-Markt-Boykott-Hartregel-Endstand",
+        "lesson": "Master-Tipps-Routine darf 'Endstand X:Y' (Genaues Ergebnis) NIE in Kombi-Bein verwenden waehrend WM 2026 Saison aktiv (CLAUDE.md Markt-Boykott). Bei Moonshot Ersatz via Anytime-Joker (Demirovic/Soucek o.ae.) statt exact-score-Lotterie."
+      },
+      {
+        "kategorie": "Kombi-Bein-Squad-Pflicht",
+        "lesson": "Kombi-Beine MUESSEN als Tipp in spiele[].tipps[] des entsprechenden Spiels vorhanden sein. Markt-Halluzinationen in Kombis ohne Tipp-Existenz droppt Verifikator."
+      }
+    ]
+  }
 }
