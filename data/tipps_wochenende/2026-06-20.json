@@ -60,18 +60,6 @@
         },
         {
           "kategorie": "wackel",
-          "markt": "Viktor Gyoekeres trifft jederzeit",
-          "quote": 2.4,
-          "edge_prozent": 6.0,
-          "empfohlener_einsatz_euro": 2.75,
-          "empfohlener_einsatz_prozent": 0.5,
-          "begruendung": "Markt-Goldgrube 'Torschuetzen Jederzeit'. Gyoekeres MASSIVE Form-Edge: 20 Tore in 33 Caps + Tor gegen Tunesien Auftakt + Top-5-Liga-Stuermer (Arsenal/Sporting). 9er-Position, klassische Form-Edge-Lesson 04.05. Auch wenn Sweden defensiv spielt, Gyoekeres kommt zu Chancen via Konter. Joker-Bein-Diversifikation (Gegen-Heim-Tipp-Hedge). [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker) fehlt - max wackel]",
-          "reality_check": "Goldgrube + Form-Edge + Sweden-Konter-Strategie-Pattern.",
-          "faire_quote": 2.27,
-          "_torschuetze_quelle_warn": true
-        },
-        {
-          "kategorie": "wackel",
           "markt": "Ueber 2.5 Tore",
           "quote": 1.75,
           "edge_prozent": 5.0,
@@ -240,18 +228,6 @@
           "begruendung": "Markt-Goldgrube 'Torschuetzen Jederzeit'. Valencia Ecuador-Allzeit-Top-Torjaeger (WM-Erfahrung 2022). Curacao-Defense nach 1:7-Crash defensiv geschwaecht. Quote 2.50 = 40% implied vs faire ~45%. [Auto: Torschuetze-Vereins-Quelle fehlt in quellen[] - max wackel]",
           "reality_check": "Goldgrube + Klassen-Edge 9er gegen demoralisierte Defense.",
           "faire_quote": 2.22,
-          "_torschuetze_quelle_warn": true
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Gonzalo Plata trifft jederzeit",
-          "quote": 3.25,
-          "edge_prozent": 5.0,
-          "empfohlener_einsatz_euro": 2.75,
-          "empfohlener_einsatz_prozent": 0.5,
-          "begruendung": "Markt-Goldgrube 'Torschuetzen Jederzeit'. Plata (Flamengo, dribbelstark) als rechter Fluegel mit hohem xG-Profil + Konter-Tor-Wahrscheinlichkeit. Lopsided-Spiel oeffnet Buehne. Joker-Bein-Diversifikation. [Auto: Torschuetze-Vereins-Quelle fehlt - max wackel]",
-          "reality_check": "Goldgrube + Sekundaer-Volume-9er Joker.",
-          "faire_quote": 3.0,
           "_torschuetze_quelle_warn": true
         }
       ],

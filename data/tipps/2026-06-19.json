@@ -35,26 +35,28 @@
       ],
       "tipps": [
         {
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Doppelte Chance USA (1X)",
           "quote": 1.22,
           "edge_prozent": 4.5,
           "empfohlener_einsatz_euro": 11.0,
           "empfohlener_einsatz_prozent": 2.0,
-          "begruendung": "Markt-Goldgrube Doppelte Chance 1X (84.6% / +9.5% ROI laut data/statistik.json + statistik-recent +18.9% X2). USA Klassen-Edge (FIFA-Rank vs Australien Differenz) + Heim-Vorteil Lumen Field + Australien Toure-Doubt. DC weicht Sieg-Cluster-Brick (Lesson 8b) aus — Heim-Niederlage statistisch unwahrscheinlich (4 Niederlagen in letzten 30 US-Heimspielen). Quote 1.22 = 82% implied vs faire ~86%. Quote via ESPN-Odds verifiziert.",
+          "begruendung": "Markt-Goldgrube Doppelte Chance 1X (84.6% / +9.5% ROI laut data/statistik.json + statistik-recent +18.9% X2). USA Klassen-Edge (FIFA-Rank vs Australien Differenz) + Heim-Vorteil Lumen Field + Australien Toure-Doubt. DC weicht Sieg-Cluster-Brick (Lesson 8b) aus — Heim-Niederlage statistisch unwahrscheinlich (4 Niederlagen in letzten 30 US-Heimspielen). Quote 1.22 = 82% implied vs faire ~86%. Quote via ESPN-Odds verifiziert. [Auto HR4: Story-Konflikt v2 (Heim-Krise-Token in eigener Begruendung) -> value->wackel]",
           "reality_check": "Goldgrube DC + Klassen-Edge + Sieg-Brick-Ausweich.",
-          "faire_quote": 1.16
+          "faire_quote": 1.16,
+          "_story_konflikt_v2": true
         },
         {
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Christian Pulisic trifft jederzeit",
           "quote": 2.5,
           "edge_prozent": 8.0,
           "empfohlener_einsatz_euro": 8.25,
           "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "Markt-Goldgrube Torschützen Jederzeit (40.3% / +20.4% ROI). Pulisic in Top-Form: 1 Tor + 1 Assist vs Paraguay, 12 Tore in Milan-Saison 25/26, Heim-Star-Status Seattle. CLAUDE.md Heim-Favorit-Pflicht (DC-Quote 1.22 = klarer Favorit): Torschützen-Tipp PFLICHT. Australien-Defense gegen Türkei zwar 0 Gegentore aber gegen Pulisic-Klasse anders. Quelle: ESPN/Lineups USA-Aufstellung + Form-Daten via FanDuel.",
+          "begruendung": "Markt-Goldgrube Torschützen Jederzeit (40.3% / +20.4% ROI). Pulisic in Top-Form: 1 Tor + 1 Assist vs Paraguay, 12 Tore in Milan-Saison 25/26, Heim-Star-Status Seattle. CLAUDE.md Heim-Favorit-Pflicht (DC-Quote 1.22 = klarer Favorit): Torschützen-Tipp PFLICHT. Australien-Defense gegen Türkei zwar 0 Gegentore aber gegen Pulisic-Klasse anders. Quelle: ESPN/Lineups USA-Aufstellung + Form-Daten via FanDuel. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "reality_check": "Form-Edge real + Goldgrube + Heim-Favorit-Pflicht.",
-          "faire_quote": 2.3
+          "faire_quote": 2.3,
+          "_torschuetze_quelle_warn": true
         },
         {
           "kategorie": "wackel",
@@ -147,26 +149,28 @@
           "faire_quote": 1.18
         },
         {
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Vinicius Jr trifft jederzeit",
           "quote": 1.95,
           "edge_prozent": 7.0,
           "empfohlener_einsatz_euro": 8.25,
           "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "Markt-Goldgrube Torschützen Jederzeit (+20.4% ROI). Vinicius Volume-Star + Form-Edge (Tore in WM-Test-Phase), Real Madrid LM, gegen unterklassiges Haiti-RV-Loch. CLAUDE.md Heim-Favorit-Pflicht erfüllt. Mbappe seit CL-Aus weg → Vinicius Real-Madrid-Volume + WM-Anker — exakt das Backup-Profile aus CLAUDE.md. Per Lesson 8a Cluster-Brick degradiert auf VALUE (statt SAFE), per Klassen-Edge-Asymmetrie bleibt VALUE haltbar. Quelle: Rotowire Aufstellung + Lineups.",
+          "begruendung": "Markt-Goldgrube Torschützen Jederzeit (+20.4% ROI). Vinicius Volume-Star + Form-Edge (Tore in WM-Test-Phase), Real Madrid LM, gegen unterklassiges Haiti-RV-Loch. CLAUDE.md Heim-Favorit-Pflicht erfüllt. Mbappe seit CL-Aus weg → Vinicius Real-Madrid-Volume + WM-Anker — exakt das Backup-Profile aus CLAUDE.md. Per Lesson 8a Cluster-Brick degradiert auf VALUE (statt SAFE), per Klassen-Edge-Asymmetrie bleibt VALUE haltbar. Quelle: Rotowire Aufstellung + Lineups. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "reality_check": "Klassen-Edge stützt Goldgrube + Mbappe-Backup-Profile + Heim-Favorit-Pflicht.",
-          "faire_quote": 1.82
+          "faire_quote": 1.82,
+          "_torschuetze_quelle_warn": true
         },
         {
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Raphinha trifft jederzeit",
           "quote": 2.1,
           "edge_prozent": 6.0,
           "empfohlener_einsatz_euro": 5.5,
           "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "Markt-Goldgrube Torschützen. Raphinha bereits Torschütze gegen Marokko (14') = Form-Edge bestätigt. Barcelona-Saison 24/25 mit 26 Liga-Toren = Volume-Star. Per Lesson 8a Brick → max VALUE statt SAFE. Quelle: Lineups Match-Preview + Aufstellung.",
+          "begruendung": "Markt-Goldgrube Torschützen. Raphinha bereits Torschütze gegen Marokko (14') = Form-Edge bestätigt. Barcelona-Saison 24/25 mit 26 Liga-Toren = Volume-Star. Per Lesson 8a Brick → max VALUE statt SAFE. Quelle: Lineups Match-Preview + Aufstellung. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "reality_check": "Form-Edge + Volume-Star Goldgrube — Klassen-Edge stützt VALUE.",
-          "faire_quote": 1.98
+          "faire_quote": 1.98,
+          "_torschuetze_quelle_warn": true
         },
         {
           "kategorie": "moonshot",
@@ -366,7 +370,7 @@
   "einzeltipps": [
     {
       "spiel_id": "2026-06-19-bra-hai",
-      "kategorie": "safe",
+      "kategorie": "wackel",
       "markt": "Brasilien Sieg",
       "quote": 1.1,
       "edge_prozent": 4.0,
@@ -374,11 +378,12 @@
       "empfohlener_einsatz_prozent": 1.0,
       "begruendung": "Einziger SAFE-Kandidat heute — Klassen-Edge maximal (3 Klassen-Unterschied, Haiti faktisch ausgeschieden), Sieg-Brick-Lesson greift nur 1.50-2.00, Brasilien-Tor-Druck wegen Tordifferenz für Gruppensieg. 2:0-Insurance bei bet365 + WM 2026 zwingend bei direktem Sieg-Tipp.",
       "faire_quote": 1.06,
-      "reality_check": "SAFE-Hitrate-Reality nur bei Klassen-Edge sehr hoch + Quote <1.20."
+      "reality_check": "SAFE-Hitrate-Reality nur bei Klassen-Edge sehr hoch + Quote <1.20.",
+      "rang": 1
     },
     {
       "spiel_id": "2026-06-19-bra-hai",
-      "kategorie": "safe",
+      "kategorie": "wackel",
       "markt": "Über 2.5 Tore",
       "quote": 1.35,
       "edge_prozent": 6.0,
@@ -386,11 +391,12 @@
       "empfohlener_einsatz_prozent": 1.0,
       "begruendung": "Markt-Goldgrube Über 2.5 (+30.1% ROI). Brasilien historisch nie unter 6 Tore vs Haiti + Tordifferenz-Druck wegen Marokko-Remis. Klassen-Edge.",
       "faire_quote": 1.18,
-      "reality_check": "Goldgrube + historische Klassen-Eskalation."
+      "reality_check": "Goldgrube + historische Klassen-Eskalation.",
+      "rang": 2
     },
     {
       "spiel_id": "2026-06-19-bra-hai",
-      "kategorie": "value",
+      "kategorie": "wackel",
       "markt": "Vinicius Jr trifft jederzeit",
       "quote": 1.95,
       "edge_prozent": 7.0,
@@ -398,11 +404,12 @@
       "empfohlener_einsatz_prozent": 1.5,
       "begruendung": "Markt-Goldgrube Torschützen (+20.4% ROI). Real-Madrid LM + Volume-Star + Klassen-Edge gegen Haiti-RV. Mbappe-Backup-Profile aus CLAUDE.md.",
       "faire_quote": 1.82,
-      "reality_check": "Form + Goldgrube + Klassen-Edge stützt VALUE trotz Lesson 8a."
+      "reality_check": "Form + Goldgrube + Klassen-Edge stützt VALUE trotz Lesson 8a.",
+      "rang": 3
     },
     {
       "spiel_id": "2026-06-19-bra-hai",
-      "kategorie": "value",
+      "kategorie": "wackel",
       "markt": "Raphinha trifft jederzeit",
       "quote": 2.1,
       "edge_prozent": 6.0,
@@ -410,11 +417,12 @@
       "empfohlener_einsatz_prozent": 1.0,
       "begruendung": "Markt-Goldgrube. Raphinha bereits Tor gegen Marokko = Form-Edge bestätigt + Barcelona-Volume-Star.",
       "faire_quote": 1.98,
-      "reality_check": "Form-Edge bestätigt + Goldgrube."
+      "reality_check": "Form-Edge bestätigt + Goldgrube.",
+      "rang": 4
     },
     {
       "spiel_id": "2026-06-19-usa-aus",
-      "kategorie": "value",
+      "kategorie": "wackel",
       "markt": "Doppelte Chance USA (1X)",
       "quote": 1.22,
       "edge_prozent": 4.5,
@@ -422,11 +430,12 @@
       "empfohlener_einsatz_prozent": 2.0,
       "begruendung": "Goldgrube DC + Klassen-Edge + Heim-Vorteil Lumen Field + DC weicht Sieg-Brick (Lesson 8b) aus. Australien-Toure-Doubt.",
       "faire_quote": 1.16,
-      "reality_check": "DC stabiler als Sieg in Brick-Korridor."
+      "reality_check": "DC stabiler als Sieg in Brick-Korridor.",
+      "rang": 5
     },
     {
       "spiel_id": "2026-06-19-usa-aus",
-      "kategorie": "value",
+      "kategorie": "wackel",
       "markt": "Christian Pulisic trifft jederzeit",
       "quote": 2.5,
       "edge_prozent": 8.0,
@@ -434,7 +443,8 @@
       "empfohlener_einsatz_prozent": 1.5,
       "begruendung": "Form-Edge maximal (1 Tor + 1 Assist vs PAR, 12 Tore Milan-Saison) + Heim-Star + Goldgrube.",
       "faire_quote": 2.3,
-      "reality_check": "Form-Edge real + Heim-Favorit-Pflicht."
+      "reality_check": "Form-Edge real + Heim-Favorit-Pflicht.",
+      "rang": 6
     },
     {
       "spiel_id": "2026-06-19-tur-par",
@@ -446,7 +456,8 @@
       "empfohlener_einsatz_prozent": 1.5,
       "begruendung": "Klassen-Edge real (Calhanoglu/Yildiz/Demiral Top-Niveau) + Heim-MUST-WIN-Druck. DC-Goldgrube + Brick-Ausweich.",
       "faire_quote": 1.33,
-      "reality_check": "DC + Goldgrube + Klassen-Edge."
+      "reality_check": "DC + Goldgrube + Klassen-Edge.",
+      "rang": 7
     }
   ],
   "kombis": [
@@ -502,7 +513,7 @@
     },
     {
       "name": "Risiko-Kombi",
-      "kategorie": "risiko",
+      "kategorie": "risk",
       "gesamtquote": 22.1,
       "empfohlener_einsatz_euro": 1.4,
       "empfohlener_einsatz_prozent": 0.25,
