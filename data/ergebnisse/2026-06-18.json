@@ -1,0 +1,1406 @@
+{
+  "datum": "2026-06-18",
+  "erstellt_am": "2026-06-18T16:00:00+02:00",
+  "hinweis": "Hauptroutine 16:00 (Pipeline Mo-Fr via GitHub Action). WM-Spieltag-2 Tag 8: Gruppe A komplett (CZE-RSA + MEX-KOR) + Gruppe B komplett (SUI-BIH + CAN-QAT). Kasse-Stufe 1 (550€). Per Lesson 18.06 Tag-5-Re-Massenversagen-Cluster: Tag-4-Cluster-Bruch WIDERLEGT (Portugal @ 1.27 1:1 vs DR Kongo, Ronaldo+James Doppel-Anytime-Fail). Class-Edge-Sieg-Tipps WM-Spieltag-2 max VALUE (kein SAFE), Karriere-Highlight-INVERS-Hebel deaktiviert. Gruppe-B-Spieltag-1 noch auf Beobachtungs-Liste — SUI-BIH dennoch im Dossier aber max VALUE. Mexico-Hoehe-Sonderregel CLAUDE.md aktiv fuer MEX-KOR (Estadio Akron Guadalajara 1566m moderate Hoehe). Verifikation: 'Endstand 1:1' Moonshot-Bein gedropt (CLAUDE.md WM-Markt-Boykott 'Genaues Ergebnis NIE'), ersetzt durch Demirovic Anytime.",
+  "spiele": [
+    {
+      "id": "2026-06-18-cze-rsa",
+      "liga": "FIFA World Cup 2026 - Gruppe A - Spieltag 2",
+      "heim": "Tschechien",
+      "gast": "Suedafrika",
+      "anstoss": "2026-06-18T18:00:00+02:00",
+      "stadion": "Mercedes-Benz Stadium, Atlanta (USA)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM-Gruppenphase Spieltag 2, alle Top-Liga-Saisons abgeschlossen",
+        "parallel_gast": "keine - WM-Gruppenphase Spieltag 2, kein paralleler Wettbewerb",
+        "saisonziel_heim": "Achtelfinale-Quali in Gruppe A noch moeglich. Nach 1:2-Niederlage gegen Suedkorea (Krejci Header 59', dann 2 Gegentore in letzten 30 Min) MUSS-Sieg-Modus - bei Niederlage + Mexico-Sieg/Remis raus. Schick fuehrt Sturm, Soucek Mittelfeld-Anker.",
+        "saisonziel_gast": "Achtelfinale-Quali noch moeglich aber massiv erschwert. Nach 0:2-Niederlage gegen Mexico (mit ZWEI roten Karten - Sithole + Zwane = erste Nation seit 2006 mit 2 Roten in WM-Spiel) MUSS-Sieg-Modus, aber ohne 2 Stammspieler.",
+        "motivations_asymmetrie": "Beide MUST-WIN-Druck nach Auftakt-Niederlagen, ABER Suedafrika doppelt belastet: 2 Stammspieler suspendiert (Sithole CB + Zwane CM) UND Klassen-Edge Tschechien. Tschechien-Edge real nach Tag-5-Lesson aber max VALUE (Re-Massenversagen-Cluster nicht trauen).",
+        "recovery_heim": "Spieltag 1 am 11.06 (1:2 vs KOR) - 7 Tage Pause. Kein Schluesselspieler-Verletzt. Schick fit + traf in Quali.",
+        "recovery_gast": "Spieltag 1 am 11.06 (0:2 vs MEX, 2 Rote ab Min 60) - 7 Tage Pause. Suspendierungen: Sithole + Zwane out. 9-vs-11 zwar nicht aber 2 Stammspieler-Loch.",
+        "quellen": [
+          "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021440",
+          "https://www.espn.com/soccer/match/_/gameId/760438/south-africa-czechia",
+          "https://www.cbssports.com/soccer/news/czechia-vs-south-africa-odds-prediction-time-2026-world-cup-picks-best-bets/",
+          "https://www.foxsports.com/stories/soccer/2026-world-cup-czechia-south-africa-odds-prediction-picks",
+          "https://news.bet365.com/en-us/article/czechia-vs-south-africa-odds-picks-predictions/2026061711572743134"
+        ]
+      },
+      "news": [
+        "Suedafrika ohne Sithole (CB) + Zwane (CM) - Rote Karten gegen Mexico, gesperrt fuer dieses Spiel.",
+        "Schick = 6 Tore in 10 Quali-Spielen, in Form. 4-3-3 mit Schick als 9er.",
+        "Soucek (West Ham) Mittelfeld-Anker mit Aerial-Bedrohung bei Standards.",
+        "Krejci Header 59' gegen Korea aber Czech kollabierte 2 Gegentore letzten 30 Min - Defensiv-Verbesserung-Druck.",
+        "Mercedes-Benz Stadium Atlanta ueberdacht/klimaregelt - keine Hitze-Faktoren."
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Tschechien Sieg",
+          "quote": 1.77,
+          "edge_prozent": 4.0,
+          "empfohlener_einsatz_euro": 8.25,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Klassen-Edge real (Tschechien moderate WM-Erfahrung vs Bafana Bafana mit 2 Stammspieler-Suspendierung) + MUST-WIN-Symmetrie aber Tschechien-Klassen-Edge ueberwiegt. Per Lesson 18.06 'Tag-5-Re-Massenversagen-Cluster' max VALUE (kein SAFE-Trust mehr nach Portugal-1:1-DR-Kongo-Fail). Quote 1.77 = 56.5% implied vs faire ~60%. Reality-Check: 1X2-Markt-Bilanz aus statistik.json positiv. Quote via FOX Sports + bet365-Article.",
+          "reality_check": "WM-Spieltag-2 Tag 8 Klassen-Edge VALUE (Re-Massenversagen-Lesson aktiv).",
+          "faire_quote": 1.67
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Patrik Schick trifft jederzeit",
+          "quote": 2.4,
+          "edge_prozent": 6.0,
+          "empfohlener_einsatz_euro": 8.25,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Markt-Goldgrube 'Torschuetzen Jederzeit' (40.3% / +20.4% ROI). Schick Form-Edge maximal: 6 Tore in 10 Quali-Spielen + Box-Striker mit aerialer Bedrohung + Standards-Threat. 9er-Position (kein Wirtz-10er-Falle). CLAUDE.md HEIM-FAVORIT-PFLICHT (Quote 1.77 < 1.80): Torschuetzen-Tipp PFLICHT. Suedafrika ohne Sithole (CB) = Schwaechung Verteidiger-Block. Karriere-Highlight-INVERS deaktiviert (Lesson 18.06) - aber Schick 30J kein Karriere-Highlight, sondern Form-Edge. Quote via bet365 verifiziert. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn) fehlt in quellen[] - max wackel]",
+          "reality_check": "Torschuetzen Jederzeit Goldgrube + Form-Edge 9er + Heim-Favorit-Pflicht.",
+          "faire_quote": 2.27,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Unter 2.5 Tore",
+          "quote": 2.1,
+          "edge_prozent": 3.0,
+          "empfohlener_einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Markt-Goldgrube 'Unter 2.5 Tore' (65% / +29.2% ROI). Beide-MUST-WIN-Druck kann nach hinten losgehen (vorsichtiger Beginn fuer 30 Min). Suedafrika dezimiert (2 Suspendierungen) wird tief verteidigen. Tschechien gegen Block-Defense oft Tor-Mangel. ABER: Schick Form-Edge + MUST-WIN-Anti-Block-Push = max WACKEL (Counter-Pattern moeglich).",
+          "reality_check": "Unter 2.5 Goldgrube + MUST-WIN-Vorsicht-Pattern aber Schick-Edge Gegen-Trend.",
+          "faire_quote": 2.04
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Tomas Soucek trifft jederzeit",
+          "quote": 5.25,
+          "edge_prozent": 5.0,
+          "empfohlener_einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Markt-Goldgrube 'Torschuetzen Jederzeit'. Soucek (West Ham, 6er/8er Mittelfeld) bekannt fuer Aerial-Threat + Standards-Specialist - typischer 'aus zweiter Reihe'-Schuetze. Tschechien spielt viele Eckbaelle + Freistoesse erwartet gegen Block. 10er/6er-Position aber: nicht klassischer Schuetze - max WACKEL Wert. Joker-Bein-Diversifikation. [Auto: Torschuetze-Quelle fehlt]",
+          "reality_check": "Goldgrube + Aerial-Standards-Spezialist Joker-Profil.",
+          "faire_quote": 5.0,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "kategorie": "moonshot",
+          "markt": "Tschechien Sieg mit Unter 2.5 Tore",
+          "quote": 3.5,
+          "edge_prozent": 6.0,
+          "empfohlener_einsatz_euro": 0.55,
+          "empfohlener_einsatz_prozent": 0.1,
+          "begruendung": "Moonshot-Profil: Suedafrika dezimiert + tiefer Block + MUST-WIN-Vorsicht-Eroeffnung = Profil 1:0 / 2:0 Schick-Treffer. Tschechien Klassen-Edge + Schick-Form. Bei niedriger Quote 3.50 grosser Wert wenn 1-0/2-0/2-1 trifft. Moonshot-Spass-Einsatz.",
+          "reality_check": "Kombi 1X2 + Unter aus eigenen Tipps - eigene These konsistent.",
+          "faire_quote": 3.3
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "1:1",
+        "halbzeit_stand": "1:0",
+        "heim_tore": 1,
+        "gast_tore": 1,
+        "kommentar": "Tschechien 1:1 Suedafrika. Sadilek 6' (Assist Sojka), HZ 1:0 CZE. Schick mehrfach beste Chancen vergeben (2 Kopfball-Faller), 67' fuer Chory ausgewechselt. Mokoena 83' Elfmeter (Maseko-Schuss an Sulc-Arm im Strafraum) Ausgleich. Klassen-Edge-Sieg-Tipp CZE @ 1.77 verloren - Schick-Form-Edge ebenfalls nicht eingeloest. Kein 2:0-Insurance-Trigger (CZE nie 2 Tore vorn)."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "tipp-1",
+          "markt": "Tschechien Sieg",
+          "kategorie": "value",
+          "quote": 1.77,
+          "einsatz_euro": 8.25,
+          "status": "verloren",
+          "netto_euro": -8.25,
+          "gewinn_faktor": -1.0,
+          "kommentar": "Nur 1:1 - Klassen-Edge-Sieg-Fail. Mokoena 83' Elfmeter-Ausgleich. Schick Riesenchancen vergeben. Kein 2:0-Insurance (HZ 1:0). Tag-5-Re-Massenversagen-Lesson VALIDIERT.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "tipp-2",
+          "markt": "Patrik Schick trifft jederzeit",
+          "kategorie": "wackel",
+          "quote": 2.4,
+          "einsatz_euro": 8.25,
+          "status": "verloren",
+          "netto_euro": -8.25,
+          "gewinn_faktor": -1.0,
+          "kommentar": "Schick zwei Kopfball-Riesenchancen vergeben, 67' ausgewechselt fuer Chory. Chory kein Tor nach Einwechslung. Kein Einwechslungs-Boost-Hit.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "tipp-3",
+          "markt": "Unter 2.5 Tore",
+          "kategorie": "wackel",
+          "quote": 2.1,
+          "einsatz_euro": 2.75,
+          "status": "gewonnen",
+          "netto_euro": 3.03,
+          "gewinn_faktor": 1.1,
+          "kommentar": "Endstand 1:1 = 2 Tore < 2.5. Goldgrube-Markt erneut bestaetigt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "tipp-4",
+          "markt": "Tomas Soucek trifft jederzeit",
+          "kategorie": "wackel",
+          "quote": 5.25,
+          "einsatz_euro": 2.75,
+          "status": "verloren",
+          "netto_euro": -2.75,
+          "gewinn_faktor": -1.0,
+          "kommentar": "Nur Sadilek 6' fuer CZE, Soucek kein Tor.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "tipp-5",
+          "markt": "Tschechien Sieg mit Unter 2.5 Tore",
+          "kategorie": "moonshot",
+          "quote": 3.5,
+          "einsatz_euro": 0.55,
+          "status": "verloren",
+          "netto_euro": -0.55,
+          "gewinn_faktor": -1.0,
+          "kommentar": "CZE-Sieg fail (1:1).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "1:1",
+        "tore": [
+          {
+            "min": 6,
+            "team": "heim",
+            "spieler": "Michal Sadilek (Assist Sojka)",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 83,
+            "team": "gast",
+            "spieler": "Teboho Mokoena (Elfmeter, nach Sulc-Handspiel)",
+            "stand_danach": "1:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Drehung - max Vorsprung Heim 1 / Gast 0, Endstand 1:1."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Tschechien/Unentschieden",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Tomas Chory",
+            "aus": "Patrik Schick",
+            "minute": 67,
+            "tor": false,
+            "tor_minute": null,
+            "kommentar": "Schick Tipp-Spieler ausgewechselt - Chory blieb torlos, kein Boost-Hit."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Klassen-Edge-Sieg-Tipp WM-Spieltag-2 Tag-8 erneut nicht eingeloest (1:1) - Re-Massenversagen-Cluster-Lesson 18.06 VALIDIERT (Tag 5 jetzt).",
+          "Schick MASSIVE Form-Edge (6 Tore 10 Quali) traf nicht trotz Riesenchancen - 9er-Form-Edge-These eingeschraenkt durch WM-Druck-Pattern.",
+          "Unter 2.5 Goldgrube-Markt erneut Hit (jetzt 6 von 8 WM-Spielen).",
+          "Spaeter-Elfmeter-Equaliser-Cluster fortgesetzt - 2 von 4 Spielen heute hatten 80+min-Tor."
+        ]
+      }
+    },
+    {
+      "id": "2026-06-18-sui-bih",
+      "liga": "FIFA World Cup 2026 - Gruppe B - Spieltag 2",
+      "heim": "Schweiz",
+      "gast": "Bosnien-Herzegowina",
+      "anstoss": "2026-06-18T21:00:00+02:00",
+      "stadion": "SoFi Stadium, Inglewood CA (USA)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM-Gruppenphase Spieltag 2, alle Top-Liga-Saisons abgeschlossen",
+        "parallel_gast": "keine - WM-Gruppenphase Spieltag 2, kein paralleler Wettbewerb",
+        "saisonziel_heim": "Achtelfinale-Quali in Gruppe B mit Druck. Nach 1:1 vs Katar Spieltag 1 (94. Minute Eigentor von Katar genuegte fuer den glueck-Punkt) - hoechster Erwartungs-Druck. Yakin-Squad mit Xhaka-Captain, Akanji-CB, Embolo als 9er-Stuermer.",
+        "saisonziel_gast": "Erste WM seit 2014 (Brasilien). Nach 1:1 vs Kanada Spieltag 1 (resilient defensiv) - 0-Punkt-Verlust-Modus. Petev-Squad mit Demirovic 9er, Lukic 10er, Kolasinac-Block-Defense.",
+        "motivations_asymmetrie": "Schweiz Klassen-Edge real (FIFA-Top-20, Top-5-Liga-Stuermer wie Akanji/Xhaka/Embolo) aber Spieltag-1-Stolperer-Druck-Erhoehung. BIH defensiv-organisiert + 1-1-Draw-Cluster (5 von 6 letzten BIH-Spielen mit 1:1-Ergebnis laut Opta). Pattern-Risk: Wieder 1:1.",
+        "recovery_heim": "Spieltag 1 am 12.06 (1:1 vs Katar, 94. OG) - 6 Tage Pause. Kein Schluesselspieler-Verletzt-Bericht.",
+        "recovery_gast": "Spieltag 1 am 12.06 (1:1 vs Kanada) - 6 Tage Pause. Kolasinac-Verletzungs-Sorge - Predicted-XI laut Sportsmole zeigt ihn ggf. ausfallend. Wenn out: zusaetzliche Block-Schwaechung.",
+        "quellen": [
+          "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021446",
+          "https://www.espn.com/soccer/match/_/gameId/760439/bosnia-herzegovina-switzerland",
+          "https://www.goal.com/en/news/switzerland-bosnia-herzegovina-world-cup-preview/bltb96d9176142a8fe0",
+          "https://theanalyst.com/articles/switzerland-vs-bosnia-herzegovina-prediction-world-cup-2026-match-preview",
+          "https://www.si.com/soccer/switzerland-vs-bosnia-herzegovina-world-cup-preview-predictions-lineups-6-18-26"
+        ]
+      },
+      "news": [
+        "Schweiz 1:1 vs Katar im Auftakt - 94. Minute Eigentor von Katar = grosse Enttaeuschung trotz Punkt.",
+        "Embolo 5 Tore in letzten 7 Spielen - Form-Edge maximal.",
+        "BIH 5/6 letzten Spielen mit 1:1 Endergebnis (Opta) - Draw-Cluster.",
+        "Kolasinac Verletzungs-Sorge - moeglich out (Sportsmole Vorhersage).",
+        "Opta Supercomputer: SUI 61.6% Sieg / Draw 21.4% / BIH 17%.",
+        "Beobachtungs-Liga 'WM-Spieltag-1 Gruppe B' aktiv - heute Spieltag 2, technisch NICHT in Watch-Liga aber Vorsicht."
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Schweiz Sieg",
+          "quote": 1.62,
+          "edge_prozent": 3.0,
+          "empfohlener_einsatz_euro": 8.25,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Klassen-Edge real (Top-5-Liga-Stuermer-Roster vs Block-Defense BIH). Per Lesson 18.06 'Tag-5-Re-Massenversagen' max VALUE (kein SAFE). Spieltag-1-Stolperer (1:1 Katar) ist eigentlich gutes-Quoten-Signal (BIH wertet sich nicht hoch wegen Schweiz-Stolperer). 1-1-Draw-Cluster (5/6 BIH) ist Risiko - dafuer max VALUE. Quote 1.62 = 61.7% implied vs faire ~64%. Quote via Opta-Computer + ESPN verifiziert.",
+          "reality_check": "WM-Spieltag-2 Klassen-Edge VALUE-Status. Group-B-Spieltag-1-Watchlist nicht aktiv heute (Spieltag 2 != Spieltag 1).",
+          "faire_quote": 1.56
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Breel Embolo trifft jederzeit",
+          "quote": 2.35,
+          "edge_prozent": 7.0,
+          "empfohlener_einsatz_euro": 8.25,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Markt-Goldgrube 'Torschuetzen Jederzeit' (40.3% / +20.4% ROI). Embolo MASSIVE Form-Edge: 5 Tore in letzten 7 Spielen (Real-Saison + Nationalteam) = ueber 70% Hit-Rate-Approximation. 9er-Position (kein Wirtz-10er-Falle). CLAUDE.md HEIM-FAVORIT-PFLICHT (Quote 1.62 < 1.80): Torschuetzen-Tipp PFLICHT. Form-Edge-Lesson 04.05. (5+ Tore Letzte 7 -> PFLICHT-Tipp). Quote +135 = decimal 2.35 via bet365. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker) fehlt in quellen[] - max wackel]",
+          "reality_check": "Torschuetzen Jederzeit Goldgrube + Form-Edge 5/7 letzte Spiele + Heim-Favorit-Pflicht.",
+          "faire_quote": 2.2,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen NEIN",
+          "quote": 2.0,
+          "edge_prozent": 4.0,
+          "empfohlener_einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "BIH-Block-Defense + Kolasinac-Verletzung schwaecht Sturm-Output + Schweiz-Akanji/Elvedi-CB-Klasse + BIH-Spieltag-1 nur 1 Tor (1:1 Kanada). Lesson 14.06 WM-Defensiv-Pattern Spieltag-1 trug zu BTTS-NEIN-Tendenz. Aber 1-1-Draw-Cluster der BIH waere BTTS-JA, deshalb max WACKEL (Pattern-Konflikt).",
+          "reality_check": "BTTS-NEIN Pattern-Mix WM-Spieltag-2 - moderate Edge bei Klassen-Lopsided + Block-Defense.",
+          "faire_quote": 1.92
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Ermedin Demirovic trifft jederzeit",
+          "quote": 5.5,
+          "edge_prozent": 5.0,
+          "empfohlener_einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Markt-Goldgrube 'Torschuetzen Jederzeit'. Demirovic (Stuttgart, Bundesliga Volume-9er) als BIH-Hauptstuermer - bei 1-1-Draw-Cluster ist sein Tor das wahrscheinliche BIH-Tor. Joker-Bein-Diversifikation (BTTS-NEIN-Hedge). +450 = decimal 5.50. [Auto: Torschuetze-Quelle fehlt]",
+          "reality_check": "Goldgrube + Auswaerts-Underdog-Hauptstuermer-Edge bei 1-1-Cluster-Risk.",
+          "faire_quote": 5.25,
+          "_torschuetze_quelle_warn": true
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "4:1",
+        "halbzeit_stand": "0:0",
+        "heim_tore": 4,
+        "gast_tore": 1,
+        "kommentar": "Schweiz 4:1 BIH. HZ 0:0, dann Sub-Festival: Manzambi 74' Volley (kam 71' fuer Ndoye), Muharemovic Rote Karte (Foul an Embolo), Vargas 84' (Assist Embolo), Manzambi 90' (Vargas-Pass), Mahmic 90+3 (BIH Volley), Xhaka 90+7 Elfmeter. Embolo 89' fuer Itten ausgewechselt - Itten kein Tor (Manzambi+Xhaka-Tore nach 89' nicht von Itten). Klassen-Edge VALIDIERT. SUI Sieg @ 1.62 GEWONNEN. Embolo Anytime FAIL (nur Assist 84'). BTTS NEIN FAIL (Mahmic 90+3)."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "tipp-1",
+          "markt": "Schweiz Sieg",
+          "kategorie": "value",
+          "quote": 1.62,
+          "einsatz_euro": 8.25,
+          "status": "gewonnen",
+          "netto_euro": 5.12,
+          "gewinn_faktor": 0.62,
+          "kommentar": "Schweiz 4:1 ueberlegen - Klassen-Edge realisiert. Manzambi-Sub-Doppelpack + Xhaka-Penalty.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "tipp-2",
+          "markt": "Breel Embolo trifft jederzeit",
+          "kategorie": "wackel",
+          "quote": 2.35,
+          "einsatz_euro": 8.25,
+          "status": "verloren",
+          "netto_euro": -8.25,
+          "gewinn_faktor": -1.0,
+          "kommentar": "Embolo nur Assist (Vargas-Tor 84'). 89' fuer Itten ausgewechselt, Itten kein Tor. Manzambi (74'+90') war Ndoye-Ersatz - kein Boost fuer Embolo-Tipp. Form-Edge 5/7 nicht eingeloest.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "tipp-3",
+          "markt": "Beide Teams treffen NEIN",
+          "kategorie": "wackel",
+          "quote": 2.0,
+          "einsatz_euro": 2.75,
+          "status": "verloren",
+          "netto_euro": -2.75,
+          "gewinn_faktor": -1.0,
+          "kommentar": "Mahmic 90+3 BTTS-JA. BIH-1-1-Cluster-Pattern teilweise bestaetigt (BIH-Tor faellt zumindest in Stoppage).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "tipp-4",
+          "markt": "Ermedin Demirovic trifft jederzeit",
+          "kategorie": "wackel",
+          "quote": 5.5,
+          "einsatz_euro": 2.75,
+          "status": "verloren",
+          "netto_euro": -2.75,
+          "gewinn_faktor": -1.0,
+          "kommentar": "BIH-Tor durch Mahmic, nicht Demirovic. 1-1-Cluster-Hedge-These widerlegt durch Schweiz-Klassen-Eskalation 4:1.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "4:1",
+        "tore": [
+          {
+            "min": 74,
+            "team": "heim",
+            "spieler": "Johan Manzambi (Volley, Einwechselspieler fuer Ndoye)",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 84,
+            "team": "heim",
+            "spieler": "Ruben Vargas (Assist Embolo)",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 90,
+            "team": "heim",
+            "spieler": "Johan Manzambi (Vargas-Pass)",
+            "stand_danach": "3:0"
+          },
+          {
+            "min": "90+3",
+            "team": "gast",
+            "spieler": "Ermin Mahmic (Volley)",
+            "stand_danach": "3:1"
+          },
+          {
+            "min": "90+7",
+            "team": "heim",
+            "spieler": "Granit Xhaka (Elfmeter, Foul an Sow)",
+            "stand_danach": "4:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Drehung - max Vorsprung Heim 3 / Gast 0, Endstand 4:1."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Schweiz",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Cedric Itten",
+            "aus": "Breel Embolo",
+            "minute": 89,
+            "tor": false,
+            "tor_minute": null,
+            "kommentar": "Embolo Tipp-Spieler ausgewechselt 89' - Itten kein Tor. Manzambi 90' war Ndoye-Ersatz nicht Embolo-Ersatz."
+          },
+          {
+            "team": "heim",
+            "ein": "Johan Manzambi",
+            "aus": "Dan Ndoye",
+            "minute": 71,
+            "tor": true,
+            "tor_minute": "74' + 90'",
+            "kommentar": "Manzambi-Doppelpack als Ndoye-Ersatz - kein Tipp auf Ndoye/Manzambi, deshalb kein Boost-Hit. Massiver Boost-Trigger-ohne-Tipp-Lesson."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Klassen-Edge-Sieg-Tipp eingeloest aber 0:0 HZ - 2:0-Insurance-Trigger zu spaet (74' bis 2:0 dauerte).",
+          "Substitute-Tor-Festival: Manzambi 74'+90' (Sub fuer Ndoye), spielentscheidende 3 Tore in letzten 20 Min.",
+          "Embolo-Form-Edge-These (5 von 7) widerlegt - nur Assist, kein Tor. 9er-Form-Edge-WM-Brick-Cluster (Schick auch ohne Tor).",
+          "BIH 1-1-Cluster-Pattern (5/6) gebrochen - aber Mahmic-Tor in 90+3 zeigt Stoppage-Cluster fortgesetzt."
+        ]
+      }
+    },
+    {
+      "id": "2026-06-18-can-qat",
+      "liga": "FIFA World Cup 2026 - Gruppe B - Spieltag 2",
+      "heim": "Kanada",
+      "gast": "Katar",
+      "anstoss": "2026-06-19T00:00:00+02:00",
+      "stadion": "BC Place Stadium, Vancouver (Kanada)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM-Gruppenphase Spieltag 2, alle Top-Liga-Saisons abgeschlossen",
+        "parallel_gast": "keine - WM-Gruppenphase Spieltag 2, Katar-Qatar-Stars Liga lange in Pause",
+        "saisonziel_heim": "Achtelfinale-Quali in Gruppe B als Co-Gastgeber-Pflicht. Nach 1:1 vs BIH (Larin 78' sub-Tor = Equalizer) Druck zum Heimsieg. Jesse Marsch-Squad mit Alphonso Davies BACK (fehlte Spieltag 1 wegen Verletzung), Jonathan David als 9er, Buchanan + Millar Fluegel.",
+        "saisonziel_gast": "Erste WM 2022 als Gastgeber abgeschlossen, nun zweite. Nach 1:1 vs Schweiz (94. Minute Tor Afif = sensationelles Equaliser) - Achtelfinal-Pfad jetzt realistisch.  Christensen-Squad mit Afif als Schluessel.",
+        "motivations_asymmetrie": "Kanada massive Klassen-Edge (Top-5-Liga-Stars Davies/J.David vs Katar-Heim-Liga-only-Spieler). Davies-Rueckkehr nach Spieltag-1-Pause = Klassen-Boost. Katar nach Schweiz-1:1-Moral-Sieg aber Klassen-Differenz bleibt. Per Lesson 18.06 'Re-Massenversagen' max VALUE statt SAFE.",
+        "recovery_heim": "Spieltag 1 am 12.06 (1:1 vs BIH) - 6 Tage Pause. Davies Pause-Profit (Achilles-Erholung).",
+        "recovery_gast": "Spieltag 1 am 13.06 (1:1 vs SUI) - 5 Tage Pause. Kein klarer Verletzungs-Bericht.",
+        "quellen": [
+          "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021450",
+          "https://www.espn.com/soccer/match/_/gameId/760440/qatar-canada",
+          "https://www.cbssports.com/soccer/news/canada-qatar-odds-prediction-time-2026-world-cup-picks-best-bets/",
+          "https://news.bet365.com/en-us/article/jonathan-david-goal-odds-vs-qatar/2026061721420742714",
+          "https://www.squawka.com/us/news/world-cup/match-preview-canada-vs-qatar-06-18-26-world-cup-2026/"
+        ]
+      },
+      "news": [
+        "Alphonso Davies BACK - verpasste Spieltag 1 vs BIH, fit fuer Qatar laut Marsch.",
+        "Jonathan David als 9er, +100 First Goal / -118 Anytime via bet365.",
+        "Cyle Larin Sub-Tor 78' vs BIH = Beweis fuer Joker-Pool-Tiefe.",
+        "Katar 94' Afif-Tor vs SUI = sensationelles Equalizer-Profil.",
+        "BC Place Vancouver moderates Klima neutral.",
+        "Kanada Sieg-Quote -350 = decimal 1.29 (heavy favorite)."
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Kanada Sieg",
+          "quote": 1.29,
+          "edge_prozent": 4.0,
+          "empfohlener_einsatz_euro": 8.25,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Klassen-Edge max (Top-5-Liga-Roster + Davies-Rueckkehr vs Katar-Heim-Liga). Per Lesson 18.06 'Tag-5-Re-Massenversagen-Cluster': Portugal @ 1.27 als VALUE gegen DR Kongo 52J-Comeback brach in 1:1 - GENAU vergleichbares Profil heute (Kanada @ 1.29 vs Katar). Daher max VALUE, kein SAFE. Quote 1.29 = 77.5% implied vs faire ~80%. Reality-Check: 1X2-Bilanz statistik.json positiv. Quote via ESPN/bet365.",
+          "reality_check": "Direkter Parallel-Vergleich Portugal-DR-Kongo gestern - Massenversagen-Risk-Trigger.",
+          "faire_quote": 1.25
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Jonathan David trifft jederzeit",
+          "quote": 1.85,
+          "edge_prozent": 5.0,
+          "empfohlener_einsatz_euro": 8.25,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Markt-Goldgrube 'Torschuetzen Jederzeit' (40.3% / +20.4% ROI). Jonathan David = Lille/Bundesliga-Hauptstuermer (Top-5-Liga-Volume) + CONCACAF-Top-Scorer-Profil. 9er-Position. CLAUDE.md HEIM-FAVORIT-PFLICHT (Quote 1.29 < 1.80): Torschuetzen-Tipp PFLICHT. Bei Kanada-Klassen-Edge + Tor-Druck als Top-Stuermer hohe Hit-Rate. Quote -118 = decimal 1.85 via bet365. [Auto: Torschuetze-Vereins-Quelle fehlt in quellen[] - max wackel]",
+          "reality_check": "Torschuetzen Jederzeit Goldgrube + HEIM-FAVORIT-PFLICHT-Markt.",
+          "faire_quote": 1.76,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.71,
+          "edge_prozent": 3.0,
+          "empfohlener_einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Markt-Goldgrube 'Unter 2.5 Tore' (65% / +29.2% ROI). Katar wird tief verteidigen (10-Mann-Block) + Spieltag-1-Pattern WM-Defensiv-Dominanz aus Lesson 14.06. Aber Kanada-Klassen-Edge mit Davies-Rueckkehr koennte Tor-Festival-Eskalation = max WACKEL. Quote -140 = decimal 1.71 via bet365.",
+          "reality_check": "Unter 2.5 Goldgrube + Katar-Block-Defense aber Kanada-Klassen-Boost-Risk.",
+          "faire_quote": 1.66
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen NEIN",
+          "quote": 1.56,
+          "edge_prozent": 3.0,
+          "empfohlener_einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "BTTS-NEIN-Edge bei extremem Klassen-Lopsided: Katar nur 1 Tor in Spieltag 1 (94. Min Wunder-Equalizer Afif gegen 10-Mann-SUI). Kanada-Defense (Akanji-aehnliches Niveau Auswaerts mit J. David im Schweden-Pendant) sollte Katar dominieren. Aber Late-Goal-Cluster-Lesson 18.06 (3 von 4 Spielen 90+ Tor gestern) = Risk. Max WACKEL.",
+          "reality_check": "Klassen-Lopsided BTTS-NEIN-Edge + Late-Goal-Cluster-Risk.",
+          "faire_quote": 1.52
+        },
+        {
+          "kategorie": "moonshot",
+          "markt": "Alphonso Davies trifft jederzeit",
+          "quote": 3.5,
+          "edge_prozent": 6.0,
+          "empfohlener_einsatz_euro": 0.55,
+          "empfohlener_einsatz_prozent": 0.1,
+          "begruendung": "Moonshot-Lotterie. Davies Rueckkehr nach Verletzungs-Pause = Comeback-Trigger. Bayern-Stuermer-Links-Fluegel mit Tor-Volume. Klassen-Lopsided + viele Tor-Chancen-Erwartung fuer Kanada. Moonshot-Spass-Einsatz.",
+          "reality_check": "Comeback-Form-Trigger + Goldgrube-Markt.",
+          "faire_quote": 3.3
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "6:0",
+        "halbzeit_stand": "3:0",
+        "heim_tore": 6,
+        "gast_tore": 0,
+        "kommentar": "Kanada 6:0 Katar - historischer CONCACAF-WM-Rekord. Larin 16', J.David 29' + 45+3, Saliba 64', Manai 75' OG, J.David 90+2 (Hattrick). Katar 2 Rote Karten (Homan Ahmed 1.HZ, Madibo Anfang 2.HZ). Davies kam als Sub (nicht in Starting XI), kein Tor. CAN Sieg @ 1.29 + J.David Anytime @ 1.85 + BTTS NEIN @ 1.56 = 3/5 Tipps gewonnen. Unter 2.5 @ 1.71 + Davies Moonshot Fails."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "tipp-1",
+          "markt": "Kanada Sieg",
+          "kategorie": "value",
+          "quote": 1.29,
+          "einsatz_euro": 8.25,
+          "status": "gewonnen",
+          "netto_euro": 2.39,
+          "gewinn_faktor": 0.29,
+          "kommentar": "Kanada 6:0 ueberlegen + 2 Qatar-Rote. Heaviest CONCACAF-WM-Sieg historisch.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "tipp-2",
+          "markt": "Jonathan David trifft jederzeit",
+          "kategorie": "wackel",
+          "quote": 1.85,
+          "einsatz_euro": 8.25,
+          "status": "gewonnen",
+          "netto_euro": 7.01,
+          "gewinn_faktor": 0.85,
+          "kommentar": "J.David Hattrick (29', 45+3, 90+2). Top5Liga-Volume-9er-These maximal validiert. Goldgrube-Markt + HEIM-FAVORIT-PFLICHT-Hit.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "tipp-3",
+          "markt": "Unter 2.5 Tore",
+          "kategorie": "wackel",
+          "quote": 1.71,
+          "einsatz_euro": 2.75,
+          "status": "verloren",
+          "netto_euro": -2.75,
+          "gewinn_faktor": -1.0,
+          "kommentar": "6 Tore - Katar-Block-Defense durch 2 Rote Karten kollabiert. Klassen-Eskalation-Risk realisiert.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "tipp-4",
+          "markt": "Beide Teams treffen NEIN",
+          "kategorie": "wackel",
+          "quote": 1.56,
+          "einsatz_euro": 2.75,
+          "status": "gewonnen",
+          "netto_euro": 1.54,
+          "gewinn_faktor": 0.56,
+          "kommentar": "Katar 0 Tore - Klassen-Lopsided + 2 Rote validierte BTTS-NEIN-These.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "tipp-5",
+          "markt": "Alphonso Davies trifft jederzeit",
+          "kategorie": "moonshot",
+          "quote": 3.5,
+          "einsatz_euro": 0.55,
+          "status": "verloren",
+          "netto_euro": -0.55,
+          "gewinn_faktor": -1.0,
+          "kommentar": "Davies kam als Sub (war nicht in Starting XI), kein Tor. Comeback-Form-Trigger nicht aktiviert. Kein Boost-Pattern (Davies nicht Tipp-Spieler-Ersatz).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "3:0",
+        "endstand": "6:0",
+        "tore": [
+          {
+            "min": 16,
+            "team": "heim",
+            "spieler": "Cyle Larin",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 29,
+            "team": "heim",
+            "spieler": "Jonathan David",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": "45+3",
+            "team": "heim",
+            "spieler": "Jonathan David",
+            "stand_danach": "3:0"
+          },
+          {
+            "min": 64,
+            "team": "heim",
+            "spieler": "Nathan Saliba",
+            "stand_danach": "4:0"
+          },
+          {
+            "min": 75,
+            "team": "gast",
+            "spieler": "Mohamed Manai (Eigentor)",
+            "stand_danach": "5:0"
+          },
+          {
+            "min": "90+2",
+            "team": "heim",
+            "spieler": "Jonathan David (Hattrick-Vollendung)",
+            "stand_danach": "6:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Drehung - max Vorsprung Heim 4 / Gast 0, Endstand 6:0."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": true,
+          "halbzeit_endstand": "Kanada/Kanada",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Alphonso Davies",
+            "details": "Bank trotz Fitness-Freigabe (Marsch Vorsichts-Approach Achilles-Pause), kam als Sub - kein Tor."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "J.David HATTRICK (29', 45+3, 90+2) maximales Goldgrube-Torschuetzen-Markt-Hit - Lille/Bundesliga-Volume-9er-These massiv validiert.",
+          "Katar 2 Rote Karten (Ahmed 1.HZ, Madibo 2.HZ) - Spiel-Eskalation-Pattern (Korrelation Rote-Karten + Tor-Festival).",
+          "Davies Comeback-Sub aber kein Tor - Joker-Pool-Tiefen-These nicht aktiviert, hatte Larin/J.David als Volume-Drittel-Vergleich.",
+          "Historisch CONCACAF-WM-Rekord (groesster Sieg) zeigt Co-Gastgeber-Heim-Eskalations-Potenzial."
+        ]
+      }
+    },
+    {
+      "id": "2026-06-18-mex-kor",
+      "liga": "FIFA World Cup 2026 - Gruppe A - Spieltag 2",
+      "heim": "Mexiko",
+      "gast": "Suedkorea",
+      "anstoss": "2026-06-19T03:00:00+02:00",
+      "stadion": "Estadio Akron, Guadalajara (Mexiko, 1566m Hoehe)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM-Gruppenphase Spieltag 2, kein paralleler Wettbewerb",
+        "parallel_gast": "keine - WM-Gruppenphase Spieltag 2, K-League und Top-5-Liga abgeschlossen",
+        "saisonziel_heim": "Achtelfinale-Top-1 als Co-Gastgeber-Pflicht. Nach 2:0 vs Suedafrika (Quinones + Jimenez Tore) - 4-Spiele-Sieg-Serie + 9-Spiele-unbesiegt. Aguirre-Squad mit Jimenez/Quinones-Sturm-Trio + Guadalajara-Mexiko-Heim-Spiel.",
+        "saisonziel_gast": "Achtelfinale-Quali. Nach 2:1 vs Tschechien (Hwang In-beom + Oh Hyeon-gyu Tore) - 3-Spiele-Sieg-Serie. Hong Myung-Bo-Squad mit Son (Tottenham, Kapitan) als 10er + Hwang als Top-Stuermer.",
+        "motivations_asymmetrie": "Beide-3-Punkte-Modus: Sieger sichert Achtelfinale + Gruppen-Spitze. Mexico Heim-Edge in Guadalajara + Klassen-Edge moderat (FIFA-Top-15 vs Top-25). Korea-Form besser als historisch (Klasen-Edge schmaler als 2.00-Quote suggeriert). Per CLAUDE.md WM-Sonderregel Mexico-Hoehe-Faktor (Estadio Akron 1566m moderate Hoehe = leichte Konditions-Belastung).",
+        "recovery_heim": "Spieltag 1 am 11.06 (2:0 vs RSA in Mexico-Stadt 2240m Hoehe) - 7 Tage Pause. Hoehen-Adaptiert (heimisches Hochland).",
+        "recovery_gast": "Spieltag 1 am 11.06 (2:1 vs CZE in Los Angeles) - 7 Tage Pause. Korea-Top-5-Liga-Stars (Son/Lee/Hwang Top5Liga-Saison-Belastung).",
+        "quellen": [
+          "https://www.espn.com/soccer/odds/_/gameId/760441",
+          "https://www.squawka.com/us/news/world-cup/match-preview-mexico-vs-south-korea-06-18-26-world-cup-2026/",
+          "https://www.rotowire.com/soccer/article/mexico-vs-south-korea-picks-tips-odds-best-bets-2026-world-cup-group-a-118649",
+          "https://news.bet365.com/en-us/article/julian-quinones-odds-to-score-for-mexico-vs-korea/2026061721055720457",
+          "https://sports.yahoo.com/articles/mexico-vs-south-korea-2026-013455010.html"
+        ]
+      },
+      "news": [
+        "Mexico 4-Spiele-Sieg-Serie + 9-Spiele-unbesiegt - Aguirre-System eingespielt.",
+        "Korea 3-Spiele-Sieg-Serie - Form auch top.",
+        "Quinones erstes Tor des gesamten Turniers gegen RSA (links Fluegel).",
+        "Jimenez Stamm-9er Mexico, erwartet zu starten.",
+        "Son Kapitan (Tottenham PL), Hwang Top-Tor-Scorer Korea.",
+        "Estadio Akron Guadalajara 1566m moderate Hoehe (CLAUDE.md WM-Sonderregel - leichte Konditions-Belastung).",
+        "Quoten via bet365 ESPN: Mexico +100 (2.00), Draw +230 (3.30), Korea +310 (4.10)."
+      ],
+      "tipps": [
+        {
+          "kategorie": "wackel",
+          "markt": "Mexiko Sieg",
+          "quote": 2.0,
+          "edge_prozent": 3.0,
+          "empfohlener_einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Borderline-Heim-Favorit (Quote 2.00 = 50% implied) - CLAUDE.md HEIM-FAVORIT-Schwelle ist < 1.80, hier NICHT erfuellt = max WACKEL per Hartregel. Klassen-Edge schmaler als bei 1.29-1.77-Spielen. Heim-Edge Guadalajara + Form-Serien-Lopsided (4-Sieg-Serie Mexico). Aber Korea-Form-Serien-Parallel + Top5Liga-Star-Power Son/Hwang. Per Lesson 18.06 'Re-Massenversagen': Borderline-Klassen-Edge nicht trauen.",
+          "reality_check": "Borderline-Quote-Hartregel CLAUDE.md + Korea-Form-Serien.",
+          "faire_quote": 1.94
+        },
+        {
+          "kategorie": "value",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.61,
+          "edge_prozent": 5.0,
+          "empfohlener_einsatz_euro": 8.25,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Markt-Goldgrube 'Unter 2.5 Tore' (65% / +29.2% ROI). CLAUDE.md WM-Sonderregel Mexico-Hoehe-Faktor (Estadio Akron 1566m = Tempo niedriger). Beide-Stamm-Modus: Kein MUST-WIN-Druck (mit Punkt sind beide weiter) = vorsichtiger Beginn. Mexico-Pattern Spieltag 1 (2:0 RSA = nur 2 Tore + Mexico-Heim-Schliessung 60 Min nach 2:0). Korea-Pattern (2:1 CZE = 3 Tore, aber gegen offen-spielenden CZE). Quote -165 = decimal 1.61. Klare Goldgrube + Hoehen-Pattern.",
+          "reality_check": "Unter 2.5 Goldgrube + Mexico-Hoehe-Sonderregel + Beide-Stamm-Modus.",
+          "faire_quote": 1.53
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Raul Jimenez trifft jederzeit",
+          "quote": 2.5,
+          "edge_prozent": 4.0,
+          "empfohlener_einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Markt-Goldgrube 'Torschuetzen Jederzeit' (40.3% / +20.4% ROI). Jimenez Stamm-9er Mexico, traf bereits gegen RSA. Aber Mexico-Hoehe-Sonderregel + Spieltag-2-Beide-Stamm-Modus + Korea-Defensiv-Kompakt-Profil (nur 1 Gegentor CZE) = max WACKEL trotz Goldgrube. CLAUDE.md HEIM-FAVORIT nicht erfuellt (Quote 2.00) = nicht Torschuetzen-Pflicht aber sinnvoll. [Auto: Torschuetze-Vereins-Quelle fehlt]",
+          "reality_check": "Goldgrube + Stamm-9er aber Hoehe/Korea-Defensiv-Hedge.",
+          "faire_quote": 2.4,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Son Heung-Min trifft jederzeit",
+          "quote": 4.0,
+          "edge_prozent": 5.0,
+          "empfohlener_einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Markt-Goldgrube 'Torschuetzen Jederzeit'. Son (Tottenham PL Top5Liga-Volume) als Korea-Captain + 10er hinter Hwang. 10er-Position normalerweise Wirtz-Falle - aber Son hat als 10er ueberperformt (PL Volume-Scorer historisch). Mexico-Defense ausserhalb Heim-Form schwaecher. Karriere-Highlight-INVERS deaktiviert (Lesson 18.06) - aber Son ist 34 noch nicht 'Karriere-Highlight' - sondern Volume-Top5Liga-Stuermer. [Auto: Torschuetze-Quelle fehlt]",
+          "reality_check": "Goldgrube + Top5Liga-Volume-Anbau in 10er-Position-Hybrid.",
+          "faire_quote": 3.8,
+          "_torschuetze_quelle_warn": true
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "1:0",
+        "halbzeit_stand": "0:0",
+        "heim_tore": 1,
+        "gast_tore": 0,
+        "kommentar": "Mexico 1:0 Suedkorea in Guadalajara (Estadio Akron 1566m moderate Hoehe). HZ 0:0 (nervoeser First-Half, 0.22 xG kombiniert). Romo 50' Geschenk-Tor (Kim Seung-gyu kollidierte mit eigenem Verteidiger Lee Gi-hyuk, Ball lose, Romo schiebt ins leere Tor). Mexico erstes Team das KO-Runde sichert. 71' Pineda + O. Vargas (Mexico) fuer Romo, Korea: Yang Hyun-jun + Eom Ji-sung kommen. Mexico Sieg @ 2.00 + Unter 2.5 @ 1.61 GEWONNEN; Jimenez + Son Anytime FAIL (kein Tor durch beide)."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "tipp-1",
+          "markt": "Mexiko Sieg",
+          "kategorie": "wackel",
+          "quote": 2.0,
+          "einsatz_euro": 2.75,
+          "status": "gewonnen",
+          "netto_euro": 2.75,
+          "gewinn_faktor": 1.0,
+          "kommentar": "Mexico 1:0 nach Geschenk-Tor. Borderline-Heim-Favorit-Hartregel ueberraschend eingeloest. Hoehen-Pattern validierte Defensiv-Match.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "tipp-2",
+          "markt": "Unter 2.5 Tore",
+          "kategorie": "value",
+          "quote": 1.61,
+          "einsatz_euro": 8.25,
+          "status": "gewonnen",
+          "netto_euro": 5.03,
+          "gewinn_faktor": 0.61,
+          "kommentar": "Nur 1 Tor - Mexico-Hoehe-Sonderregel Akron-1566m + Beide-Stamm-Modus-These maximal validiert. Goldgrube + Sonderregel-Doppel-Hit.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "tipp-3",
+          "markt": "Raul Jimenez trifft jederzeit",
+          "kategorie": "wackel",
+          "quote": 2.5,
+          "einsatz_euro": 2.75,
+          "status": "verloren",
+          "netto_euro": -2.75,
+          "gewinn_faktor": -1.0,
+          "kommentar": "Nur Romo 50' fuer Mexico. Jimenez kein Tor. Hoehen-Pattern + Korea-Defensiv-Kompakt-These validiert (gegen Jimenez-Goldgrube-Edge).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "tipp-4",
+          "markt": "Son Heung-Min trifft jederzeit",
+          "kategorie": "wackel",
+          "quote": 4.0,
+          "einsatz_euro": 2.75,
+          "status": "verloren",
+          "netto_euro": -2.75,
+          "gewinn_faktor": -1.0,
+          "kommentar": "Korea torlos - Son in 3-4-2-1 zentraler Stuermer aber Mexico-Defense-Block ohne Durchbruch. 10er-Hybrid-Position-Falle-INVERS bestaetigt nicht (kein Tor durch Wirtz-aehnliche Position).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "1:0",
+        "tore": [
+          {
+            "min": 50,
+            "team": "heim",
+            "spieler": "Luis Romo (Geschenk-Tor nach Kim-Lee-Kollision)",
+            "stand_danach": "1:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Drehung - max Vorsprung Heim 1 / Gast 0, Endstand 1:0."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Mexiko",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Mexico-Hoehe-Sonderregel-Lesson VALIDIERT (Akron 1566m): 1 Tor gesamt = Unter 2.5 + Unter 1.5 (knapp drueber).",
+          "Geschenk-Tor 50' (Goalkeeper-Verteidiger-Kollision) - Coinflip-Sieg trotz Borderline-Hartregel @ 2.00 unwahrscheinlich gewonnen.",
+          "Son + Jimenez beide ohne Tor - Top5Liga-Stuermer-Anytime bei niedrig-Total-Spielen WACKEL-bestaetigt.",
+          "Sieger-sichert-KO-Pattern bei beide-3-Pkt fuehrte zu vorsichtig-vorsichtigem Spiel (xG 0.22 First Half kombiniert)."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "rang": 1,
+      "spiel_id": "2026-06-18-mex-kor",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore (MEX-KOR)",
+      "quote": 1.61,
+      "empfohlener_einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Markt-Goldgrube Unter 2.5 (65%/+29.2% ROI). CLAUDE.md WM-Sonderregel Mexico-Hoehe (Estadio Akron 1566m moderate Hoehe). Beide-Stamm-Modus (3 Pkt jeder, Punkt reicht beiden), kein MUST-WIN. Mexico-Spieltag-1 Pattern 2:0 RSA = 2 Tore."
+    },
+    {
+      "rang": 2,
+      "spiel_id": "2026-06-18-can-qat",
+      "kategorie": "value",
+      "markt": "Kanada Sieg",
+      "quote": 1.29,
+      "empfohlener_einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Klassen-Edge max + Davies-Rueckkehr. Per Lesson 18.06 'Re-Massenversagen' max VALUE (kein SAFE) - direkter Parallel zu Portugal-DR-Kongo @ 1.27 gestern 1:1. Quote 1.29 = 77.5% implied vs faire ~80%."
+    },
+    {
+      "rang": 3,
+      "spiel_id": "2026-06-18-sui-bih",
+      "kategorie": "value",
+      "markt": "Schweiz Sieg",
+      "quote": 1.62,
+      "empfohlener_einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Klassen-Edge real (Top5Liga-Roster vs BIH-Block-Defense). Per Lesson 18.06 max VALUE. Spieltag-1-Stolperer-Quoten-Signal positiv (BIH wertet sich nicht hoch). Opta 61.6% Sieg-Wahrscheinlichkeit."
+    },
+    {
+      "rang": 4,
+      "spiel_id": "2026-06-18-cze-rsa",
+      "kategorie": "value",
+      "markt": "Tschechien Sieg",
+      "quote": 1.77,
+      "empfohlener_einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Klassen-Edge real (CZE Schick-Form + Soucek-Aerial vs Bafana Bafana). RSA dezimiert mit 2 Suspensions (Sithole + Zwane Rote-Karten-WM-Erst-seit-2006). Per Lesson 18.06 max VALUE."
+    },
+    {
+      "rang": 5,
+      "spiel_id": "2026-06-18-can-qat",
+      "kategorie": "wackel",
+      "markt": "Jonathan David trifft jederzeit",
+      "quote": 1.85,
+      "empfohlener_einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Markt-Goldgrube Torschuetzen (40.3%/+20.4%). J.David Top5Liga-Volume-9er + Lille-Bundesliga-Stamm. CLAUDE.md HEIM-FAVORIT-PFLICHT (1.29 < 1.80). Torschuetze-Quelle-Warn-Flag = max WACKEL."
+    },
+    {
+      "rang": 6,
+      "spiel_id": "2026-06-18-cze-rsa",
+      "kategorie": "wackel",
+      "markt": "Patrik Schick trifft jederzeit",
+      "quote": 2.4,
+      "empfohlener_einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Markt-Goldgrube Torschuetzen. Schick MASSIVE Form-Edge 6 Tore in 10 Quali-Spielen + 9er-Position + RSA-Suspensions Sithole(CB). CLAUDE.md HEIM-FAVORIT-PFLICHT (1.77 < 1.80). Quelle-Warn = WACKEL."
+    },
+    {
+      "rang": 7,
+      "spiel_id": "2026-06-18-sui-bih",
+      "kategorie": "wackel",
+      "markt": "Breel Embolo trifft jederzeit",
+      "quote": 2.35,
+      "empfohlener_einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Markt-Goldgrube. Embolo MASSIVE Form-Edge 5 Tore in letzten 7 Spielen + 9er-Position. CLAUDE.md HEIM-FAVORIT-PFLICHT (1.62 < 1.80). Quelle-Warn = WACKEL."
+    },
+    {
+      "rang": 8,
+      "spiel_id": "2026-06-18-mex-kor",
+      "kategorie": "wackel",
+      "markt": "Mexiko Sieg",
+      "quote": 2.0,
+      "empfohlener_einsatz_euro": 2.75,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Borderline-Heim-Favorit (Quote 2.00, CLAUDE.md HEIM-FAVORIT-Schwelle 1.80 nicht erreicht). Klassen-Edge schmaler + Korea-Form-Serien + Mexico-Hoehen-Effekt 1566m moderat - max WACKEL."
+    },
+    {
+      "rang": 9,
+      "spiel_id": "2026-06-18-can-qat",
+      "kategorie": "wackel",
+      "markt": "Unter 2.5 Tore (CAN-QAT)",
+      "quote": 1.71,
+      "empfohlener_einsatz_euro": 2.75,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Markt-Goldgrube Unter 2.5. Katar-Block-Defense + Spieltag-1-WM-Defensiv-Pattern aber Kanada-Klassen-Eskalation-Risk = max WACKEL."
+    },
+    {
+      "rang": 10,
+      "spiel_id": "2026-06-18-mex-kor",
+      "kategorie": "wackel",
+      "markt": "Raul Jimenez trifft jederzeit",
+      "quote": 2.5,
+      "empfohlener_einsatz_euro": 2.75,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Markt-Goldgrube. Jimenez Stamm-9er Mexico, traf gegen RSA. Coinflip-Profil + Mexico-Hoehen-Effekt Hedge = max WACKEL. Quelle-Warn-Flag."
+    }
+  ],
+  "kombis": [
+    {
+      "name": "Safe",
+      "berechnete_quote": 3.7,
+      "empfohlener_einsatz_euro": 11.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "beine": [
+        {
+          "spiel_id": "2026-06-18-can-qat",
+          "markt": "1X2",
+          "quote": 1.29
+        },
+        {
+          "spiel_id": "2026-06-18-cze-rsa",
+          "markt": "1X2",
+          "quote": 1.77
+        },
+        {
+          "spiel_id": "2026-06-18-sui-bih",
+          "markt": "1X2",
+          "quote": 1.62
+        }
+      ],
+      "begruendung": "Drei WM-Spieltag-2-Klassen-Edge-Siege. Layer-2: Sieg-Outcomes NUR in Safe-Kombi. Per Lesson 18.06 'Tag-5-Re-Massenversagen-Cluster' max VALUE - aber wenn alle 3 hit ist ROI fettete. CAN @ 1.29 (Davies-Rueckkehr Schwer-Favorit), CZE @ 1.77 (Schick-Form + RSA-Suspensions), SUI @ 1.62 (Klassen + Embolo-Form). Quote 1.29 * 1.77 * 1.62 = 3.70.",
+      "gesamtquote": 3.7,
+      "rechnung": "1.29 x 1.77 x 1.62 = 3.70"
+    },
+    {
+      "name": "Balance",
+      "berechnete_quote": 10.43,
+      "empfohlener_einsatz_euro": 4.4,
+      "empfohlener_einsatz_prozent": 0.8,
+      "beine": [
+        {
+          "spiel_id": "2026-06-18-can-qat",
+          "markt": "Torschuetzen Jederzeit",
+          "quote": 1.85
+        },
+        {
+          "spiel_id": "2026-06-18-cze-rsa",
+          "markt": "Torschuetzen Jederzeit",
+          "quote": 2.4
+        },
+        {
+          "spiel_id": "2026-06-18-sui-bih",
+          "markt": "Torschuetzen Jederzeit",
+          "quote": 2.35
+        }
+      ],
+      "begruendung": "Triple-Top-Stuermer-Anytime via Markt-Goldgrube (40.3%/+20.4%). J.David (Lille/Bundesliga) + Schick (Form 6/10 Quali) + Embolo (Form 5/7) - alle drei 9er-Position + alle drei HEIM-FAVORIT-PFLICHT-Profil. Layer-3: 3 verschiedene Spieler / 3 verschiedene Spiele. Layer-1: 3 Beine in 3 Spielen (MEX-KOR ausgelassen). Quote 1.85 * 2.40 * 2.35 = 10.43.",
+      "gesamtquote": 10.43,
+      "rechnung": "1.85 x 2.40 x 2.35 = 10.43"
+    },
+    {
+      "name": "Risiko",
+      "berechnete_quote": 17.96,
+      "empfohlener_einsatz_euro": 1.4,
+      "empfohlener_einsatz_prozent": 0.25,
+      "beine": [
+        {
+          "spiel_id": "2026-06-18-cze-rsa",
+          "markt": "Unter 2.5 Tore",
+          "quote": 2.1
+        },
+        {
+          "spiel_id": "2026-06-18-sui-bih",
+          "markt": "Beide Teams treffen NEIN",
+          "quote": 2.0
+        },
+        {
+          "spiel_id": "2026-06-18-can-qat",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.71
+        },
+        {
+          "spiel_id": "2026-06-18-mex-kor",
+          "markt": "Raul Jimenez trifft jederzeit",
+          "quote": 2.5
+        }
+      ],
+      "begruendung": "4-Bein-Markt-Mix Layer-4: 2x Unter 2.5 + 1x BTTS NEIN + 1x Torschuetze (max 2 pro Typ erfuellt). Layer-1: 4 Beine in 4 Spielen. Layer-3: keine Spiel-Markt-Konflikte mit Safe (Sieg-Tipps) oder Balance (Torschuetzen anderer Spieler). Defensiv-Tendenz dreier Spiele (CZE-RSA MUST-WIN, SUI-BIH Block-Defense, CAN-QAT Klassen-Lopsided) + Jimenez als Heim-9er-Hedge. Quote 2.10 * 2.00 * 1.71 * 2.50 = 17.96.",
+      "gesamtquote": 17.96,
+      "rechnung": "2.10 x 2.00 x 1.71 x 2.50 = 17.96"
+    },
+    {
+      "name": "Moonshot",
+      "berechnete_quote": 77.0,
+      "empfohlener_einsatz_euro": 0.55,
+      "empfohlener_einsatz_prozent": 0.1,
+      "beine": [
+        {
+          "spiel_id": "2026-06-18-sui-bih",
+          "markt": "Ermedin Demirovic trifft jederzeit",
+          "quote": 5.5
+        },
+        {
+          "spiel_id": "2026-06-18-can-qat",
+          "markt": "Alphonso Davies trifft jederzeit",
+          "quote": 3.5
+        },
+        {
+          "spiel_id": "2026-06-18-mex-kor",
+          "markt": "Son Heung-Min trifft jederzeit",
+          "quote": 4.0
+        }
+      ],
+      "begruendung": "3-Bein Anytime-Joker-Moonshot. Layer-1: 3 verschiedene Spiele (CZE-RSA ausgelassen wegen Mehrfach-Beleg). Layer-3: 3 neue Spieler nicht in Balance (J.David/Schick/Embolo). Demirovic (BIH-Stamm-9er bei 1-1-Cluster-Risk) + Davies-Comeback-Form-Trigger nach Achilles-Pause + Son-Top5Liga-Volume in 10er-Hybrid. Spass-Einsatz. Quote 5.50 * 3.50 * 4.00 = 77.00. Replaced 'Endstand 1:1' Bein per Verifikation (CLAUDE.md WM-Markt-Boykott 'Genaues Ergebnis NIE').",
+      "gesamtquote": 77.0,
+      "rechnung": "5.50 x 3.50 x 4.00 = 77.00"
+    }
+  ],
+  "lessons_angewandt": [
+    {
+      "datum": "2026-06-18",
+      "kategorie": "WM-Spieltag-2-Re-Massenversagen-Cluster-Lesson",
+      "lesson_kurz": "Per Lesson 18.06 'Tag-5-Re-Massenversagen': Class-Edge-Sieg-Tipps WM Spieltag-2 max VALUE (kein SAFE). CAN @ 1.29 + CZE @ 1.77 + SUI @ 1.62 = VALUE statt SAFE."
+    },
+    {
+      "datum": "2026-06-18",
+      "kategorie": "Karriere-Highlight-INVERS-deaktiviert",
+      "lesson_kurz": "Per Lesson 18.06 Doppel-Fail (Ronaldo + James) - Karriere-Highlight-INVERS-Hebel DEAKTIVIERT. Heute: kein Aging-Star-Anytime-VALUE-Boost. Embolo/Schick/J.David sind Form-Edge-Cases, kein Highlight."
+    },
+    {
+      "datum": "2026-06-18",
+      "kategorie": "Markt-Goldgrube-Konzentration",
+      "lesson_kurz": "Torschuetzen Jederzeit (+20.4%), Unter 2.5 (+29.2%) aktiv gesucht. Triple-Anytime-Balance (J.David/Schick/Embolo) + Risk-2x-Unter (CZE/CAN) + Einzel Mexico Unter."
+    },
+    {
+      "datum": "2026-06-18",
+      "kategorie": "Mexico-Hoehe-Sonderregel-Akron-1566m",
+      "lesson_kurz": "Estadio Akron Guadalajara 1566m moderate Hoehe (Mittel-Hitze + Konditions-Belastung). MEX-KOR Unter 2.5 als VALUE; Mexico Sieg max WACKEL (Borderline-Quote 2.00)."
+    },
+    {
+      "datum": "2026-06-18",
+      "kategorie": "DC-CAP-Hartregel-Anti-DC-Sucht",
+      "lesson_kurz": "KEIN DC im gesamten Dossier (heute alle Sieg/Anytime/Unter/BTTS). Markt-Diversifikation via Tor-Total + Torschuetzen + BTTS statt DC-Sucht."
+    },
+    {
+      "datum": "2026-06-18",
+      "kategorie": "Layer-1-2-3-4-Diversifikation",
+      "lesson_kurz": "Layer-1: 1 Bein pro Spiel pro Kombi. Layer-2: Sieg-Outcomes nur in Safe. Layer-3: 3 verschiedene Spieler Anytime ueber Balance + Moonshot (J.David/Schick/Embolo vs Davies/Son). Layer-4: max 2 Beine pro Markt-Typ (Risk: 2x Unter)."
+    },
+    {
+      "datum": "2026-06-18",
+      "kategorie": "Group-B-Watchlist-Spieltag-1-only-not-Spieltag-2",
+      "lesson_kurz": "Beobachtungs-Liga 'FIFA WM 2026 Gruppenphase Spieltag 1 (Gruppe B)' aktiv - heute Spieltag 2 (technisch nicht in Watch). SUI-BIH dennoch max VALUE (kein SAFE)."
+    },
+    {
+      "datum": "2026-06-18",
+      "kategorie": "RSA-Suspensions-Klassen-Edge-Boost-CZE",
+      "lesson_kurz": "Suedafrika ohne Sithole(CB) + Zwane(CM) wegen 2 Rote-Karten vs Mexico (erste Nation seit 2006 mit 2 Roten in WM-Spiel). Klassen-Edge-Boost fuer Tschechien + Schick-Form-Edge-Plus."
+    }
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-06-18T16:00:00+02:00",
+    "drops": [
+      {
+        "tipp_id": "kombi-moonshot-sui-bih-endstand-1-1",
+        "grund": "CLAUDE.md WM-Markt-Boykott 'Genaues Ergebnis NIE' (Lotterie, in Gruppenphase trotzdem boykottiert). Zudem war 'Endstand 1:1' nicht in spiele[].tipps[] fuer SUI-BIH - Markt-Halluzination aus Kombi-Builder.",
+        "lesson_vorschlag": "Master-Routine MUSS Kombi-Beine ausschliesslich aus spiele[].tipps[] des jeweiligen Spiels ziehen. Genaues-Ergebnis-Markt aktiv blacklisten (WM-Markt-Boykott)."
+      }
+    ],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "torschuetze_quelle_warn",
+        "tipp_id": "cze-rsa-schick-anytime",
+        "details": "Vereins-Quelle (transfermarkt/kicker) fehlt in saison_kontext.quellen[]. Tipp bereits selbst-degradiert auf wackel per fix_schema-Pattern. Hit-These (6 Tore in 10 Quali) durch ESPN/FIFA-Quelle gestuetzt."
+      },
+      {
+        "art": "torschuetze_quelle_warn",
+        "tipp_id": "cze-rsa-soucek-anytime",
+        "details": "Vereins-Quelle fehlt. Soucek-Aerial-Profile bekannt aus West-Ham-PL-Saison aber nicht in quellen[]. Auf wackel."
+      },
+      {
+        "art": "torschuetze_quelle_warn",
+        "tipp_id": "sui-bih-embolo-anytime",
+        "details": "Form-Behauptung '5 Tore in letzten 7 Spielen' braucht transfermarkt/kicker-Beleg. Auf wackel."
+      },
+      {
+        "art": "torschuetze_quelle_warn",
+        "tipp_id": "sui-bih-demirovic-anytime",
+        "details": "Stuttgart-Bundesliga-Profile nicht in quellen[]. Auf wackel."
+      },
+      {
+        "art": "torschuetze_quelle_warn",
+        "tipp_id": "can-qat-jonathan-david-anytime",
+        "details": "Lille-Quelle (Liga-Profil) fehlt. Auf wackel."
+      },
+      {
+        "art": "torschuetze_quelle_warn",
+        "tipp_id": "mex-kor-jimenez-anytime",
+        "details": "Mexico-Liga-Quelle fehlt. Auf wackel."
+      },
+      {
+        "art": "torschuetze_quelle_warn",
+        "tipp_id": "mex-kor-son-anytime",
+        "details": "Tottenham-PL-Quelle nicht in quellen[]. Auf wackel."
+      },
+      {
+        "art": "layer_3_weich_unvermeidbar",
+        "details": "Mit nur 4 WM-Spielen + 4 Kombis ist Layer-3 (Spiel max in 1 Kombi) nicht erfuellbar. Diversifikation via Markt-Typen (Sieg/Anytime/Unter/BTTS) sichert Bein-Unabhaengigkeit."
+      },
+      {
+        "art": "kontext_check_recherche_fehlt",
+        "details": "data/recherche/2026-06-18.json war nicht vorhanden. Fallback-Recherche aus Watchdog-Run 15:05 uebernommen (Quellen via FIFA/ESPN/CBS/FOX/bet365-Articles). Routine markiert das aber Tipps bleiben SAFE/VALUE/WACKEL-konform da Quellen pro Spiel >=4 gelistet."
+      }
+    ],
+    "layer_2_check": {
+      "status": "OK",
+      "details": "Sieg-Outcomes (Kanada Sieg, Tschechien Sieg, Schweiz Sieg) nur in Safe-Kombi. Mexico Sieg in einzeltipps aber nicht in Kombis. Layer-2 sauber."
+    },
+    "layer_4_markt_typ_check": {
+      "status": "OK",
+      "details": "Balance: 3x Torschuetzen (3 verschiedene Spiele). Risiko: 2x Unter 2.5 + 1x BTTS NEIN + 1x Torschuetzen. Moonshot: 3x Torschuetzen (alternative Spieler). Master-Prompt erlaubt explizit Anytime-Cluster wenn Form-Edges gegeben."
+    },
+    "quoten_plausibilitaets_check": {
+      "status": "OK",
+      "details": "Quoten konsistent mit ESPN/bet365/CBS/FOX/Opta-Sources die in saison_kontext.quellen[] referenziert sind. Faire Quoten alle <= bet365-Quote (positiver Edge)."
+    },
+    "selbstwiderspruch_scan": {
+      "status": "OK",
+      "details": "Keine OUT/IN-Widersprueche. Davies-Rueckkehr konsistent in news+begruendung. RSA-Suspensions Sithole/Zwane konsistent."
+    },
+    "lessons_generiert": [
+      {
+        "kategorie": "WM-Markt-Boykott-Hartregel-Endstand",
+        "lesson": "Master-Tipps-Routine darf 'Endstand X:Y' (Genaues Ergebnis) NIE in Kombi-Bein verwenden waehrend WM 2026 Saison aktiv (CLAUDE.md Markt-Boykott). Bei Moonshot Ersatz via Anytime-Joker (Demirovic/Soucek o.ae.) statt exact-score-Lotterie."
+      },
+      {
+        "kategorie": "Kombi-Bein-Squad-Pflicht",
+        "lesson": "Kombi-Beine MUESSEN als Tipp in spiele[].tipps[] des entsprechenden Spiels vorhanden sein. Markt-Halluzinationen in Kombis ohne Tipp-Existenz droppt Verifikator."
+      }
+    ]
+  },
+  "einzeltipps_ergebnis": [
+    {
+      "rang": 1,
+      "spiel_id": "2026-06-18-mex-kor",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore (MEX-KOR)",
+      "quote": 1.61,
+      "empfohlener_einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Markt-Goldgrube Unter 2.5 (65%/+29.2% ROI). CLAUDE.md WM-Sonderregel Mexico-Hoehe (Estadio Akron 1566m moderate Hoehe). Beide-Stamm-Modus (3 Pkt jeder, Punkt reicht beiden), kein MUST-WIN. Mexico-Spieltag-1 Pattern 2:0 RSA = 2 Tore.",
+      "status": "gewonnen",
+      "kommentar": "Unter 2.5 (MEX-KOR) GEWONNEN - 1 Tor (Romo 50'). Hoehen-Pattern + Beide-Stamm-Modus maximal validiert. Goldgrube + WM-Sonderregel-Doppel-Hit.",
+      "netto_euro": 5.03,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "rang": 2,
+      "spiel_id": "2026-06-18-can-qat",
+      "kategorie": "value",
+      "markt": "Kanada Sieg",
+      "quote": 1.29,
+      "empfohlener_einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Klassen-Edge max + Davies-Rueckkehr. Per Lesson 18.06 'Re-Massenversagen' max VALUE (kein SAFE) - direkter Parallel zu Portugal-DR-Kongo @ 1.27 gestern 1:1. Quote 1.29 = 77.5% implied vs faire ~80%.",
+      "status": "gewonnen",
+      "kommentar": "Kanada Sieg 6:0 - historischer CONCACAF-Rekord. Klassen-Edge + 2 Qatar-Rote Karten validiert.",
+      "netto_euro": 2.39,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "rang": 3,
+      "spiel_id": "2026-06-18-sui-bih",
+      "kategorie": "value",
+      "markt": "Schweiz Sieg",
+      "quote": 1.62,
+      "empfohlener_einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Klassen-Edge real (Top5Liga-Roster vs BIH-Block-Defense). Per Lesson 18.06 max VALUE. Spieltag-1-Stolperer-Quoten-Signal positiv (BIH wertet sich nicht hoch). Opta 61.6% Sieg-Wahrscheinlichkeit.",
+      "status": "gewonnen",
+      "kommentar": "Schweiz 4:1 BIH - Manzambi-Sub-Doppelpack + Xhaka-Penalty. Klassen-Edge realisiert.",
+      "netto_euro": 5.12,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "rang": 4,
+      "spiel_id": "2026-06-18-cze-rsa",
+      "kategorie": "value",
+      "markt": "Tschechien Sieg",
+      "quote": 1.77,
+      "empfohlener_einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Klassen-Edge real (CZE Schick-Form + Soucek-Aerial vs Bafana Bafana). RSA dezimiert mit 2 Suspensions (Sithole + Zwane Rote-Karten-WM-Erst-seit-2006). Per Lesson 18.06 max VALUE.",
+      "status": "verloren",
+      "kommentar": "Tschechien 1:1 RSA. Mokoena 83' Penalty-Equaliser nach Sulc-Handspiel. Schick-Riesenchancen vergeben. Tag-5-Re-Massenversagen-Lesson VALIDIERT.",
+      "netto_euro": -8.25,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "rang": 5,
+      "spiel_id": "2026-06-18-can-qat",
+      "kategorie": "wackel",
+      "markt": "Jonathan David trifft jederzeit",
+      "quote": 1.85,
+      "empfohlener_einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Markt-Goldgrube Torschuetzen (40.3%/+20.4%). J.David Top5Liga-Volume-9er + Lille-Bundesliga-Stamm. CLAUDE.md HEIM-FAVORIT-PFLICHT (1.29 < 1.80). Torschuetze-Quelle-Warn-Flag = max WACKEL.",
+      "status": "gewonnen",
+      "kommentar": "J.David HATTRICK (29', 45+3, 90+2) - Top5Liga-Volume-9er-Goldgrube-Markt-Hit maximal.",
+      "netto_euro": 7.01,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "rang": 6,
+      "spiel_id": "2026-06-18-cze-rsa",
+      "kategorie": "wackel",
+      "markt": "Patrik Schick trifft jederzeit",
+      "quote": 2.4,
+      "empfohlener_einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Markt-Goldgrube Torschuetzen. Schick MASSIVE Form-Edge 6 Tore in 10 Quali-Spielen + 9er-Position + RSA-Suspensions Sithole(CB). CLAUDE.md HEIM-FAVORIT-PFLICHT (1.77 < 1.80). Quelle-Warn = WACKEL.",
+      "status": "verloren",
+      "kommentar": "Schick kein Tor trotz 2 Kopfball-Riesenchancen, 67' fuer Chory ausgewechselt (Chory auch kein Tor). Kein Boost-Trigger.",
+      "netto_euro": -8.25,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "rang": 7,
+      "spiel_id": "2026-06-18-sui-bih",
+      "kategorie": "wackel",
+      "markt": "Breel Embolo trifft jederzeit",
+      "quote": 2.35,
+      "empfohlener_einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Markt-Goldgrube. Embolo MASSIVE Form-Edge 5 Tore in letzten 7 Spielen + 9er-Position. CLAUDE.md HEIM-FAVORIT-PFLICHT (1.62 < 1.80). Quelle-Warn = WACKEL.",
+      "status": "verloren",
+      "kommentar": "Embolo nur Assist (Vargas-Tor 84'). 89' fuer Itten ausgewechselt, Itten torlos. Form-Edge 5/7 nicht eingeloest.",
+      "netto_euro": -8.25,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "rang": 8,
+      "spiel_id": "2026-06-18-mex-kor",
+      "kategorie": "wackel",
+      "markt": "Mexiko Sieg",
+      "quote": 2.0,
+      "empfohlener_einsatz_euro": 2.75,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Borderline-Heim-Favorit (Quote 2.00, CLAUDE.md HEIM-FAVORIT-Schwelle 1.80 nicht erreicht). Klassen-Edge schmaler + Korea-Form-Serien + Mexico-Hoehen-Effekt 1566m moderat - max WACKEL.",
+      "status": "gewonnen",
+      "kommentar": "Mexico 1:0 nach Geschenk-Tor (Kim-Lee-Kollision). Borderline-Heim-Favorit-Hartregel unwahrscheinlich aufgegangen.",
+      "netto_euro": 2.75,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "rang": 9,
+      "spiel_id": "2026-06-18-can-qat",
+      "kategorie": "wackel",
+      "markt": "Unter 2.5 Tore (CAN-QAT)",
+      "quote": 1.71,
+      "empfohlener_einsatz_euro": 2.75,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Markt-Goldgrube Unter 2.5. Katar-Block-Defense + Spieltag-1-WM-Defensiv-Pattern aber Kanada-Klassen-Eskalation-Risk = max WACKEL.",
+      "status": "verloren",
+      "kommentar": "CAN-QAT 6:0 - 6 Tore weit ueber 2.5. Katar 2 Rote = Klassen-Eskalation-Risk realisiert.",
+      "netto_euro": -2.75,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "rang": 10,
+      "spiel_id": "2026-06-18-mex-kor",
+      "kategorie": "wackel",
+      "markt": "Raul Jimenez trifft jederzeit",
+      "quote": 2.5,
+      "empfohlener_einsatz_euro": 2.75,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Markt-Goldgrube. Jimenez Stamm-9er Mexico, traf gegen RSA. Coinflip-Profil + Mexico-Hoehen-Effekt Hedge = max WACKEL. Quelle-Warn-Flag.",
+      "status": "verloren",
+      "kommentar": "Jimenez kein Tor. Romo (Mexico Mittelfeld) einziges Mexico-Tor. Hoehen-Korea-Defensiv-Hedge validiert.",
+      "netto_euro": -2.75,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": null,
+      "status": "verloren",
+      "gesamtquote": 3.7,
+      "kommentar": "Safe-Kombi: CAN Sieg + SUI Sieg HIT aber CZE Sieg (1:1) FAIL - WM-Re-Massenversagen-Tag-5. Layer-2 Sieg-Konzentration-Cluster-Crash.",
+      "einsatz_euro": 11.0,
+      "netto_euro": -11.0
+    },
+    {
+      "kombi_id": null,
+      "status": "verloren",
+      "gesamtquote": 10.43,
+      "kommentar": "Balance-Kombi: J.David Hattrick HIT aber Schick + Embolo Anytime-Fails - WM-9er-Form-Edge-Cluster-Brick (Schick 6/10 Quali + Embolo 5/7 beide ohne Tor).",
+      "einsatz_euro": 4.4,
+      "netto_euro": -4.4
+    },
+    {
+      "kombi_id": null,
+      "status": "verloren",
+      "gesamtquote": 17.96,
+      "kommentar": "Risiko-Kombi: CZE Unter 2.5 HIT aber SUI BTTS NEIN (Mahmic 90+3) + CAN Unter 2.5 (6 Tore Eskalation) + Jimenez Anytime FAILS. 1/4 Beine.",
+      "einsatz_euro": 1.4,
+      "netto_euro": -1.4
+    },
+    {
+      "kombi_id": null,
+      "status": "verloren",
+      "gesamtquote": 77.0,
+      "kommentar": "Moonshot: Demirovic + Davies + Son alle ohne Tor. Joker-Pool-Anytime-Trippel-Crash.",
+      "einsatz_euro": 0.55,
+      "netto_euro": -0.55
+    }
+  ],
+  "ausgewertet_am": "2026-06-19T07:03:46+00:00"
+}
