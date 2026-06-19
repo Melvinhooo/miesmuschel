@@ -370,7 +370,7 @@
   "einzeltipps": [
     {
       "spiel_id": "2026-06-19-bra-hai",
-      "kategorie": "wackel",
+      "kategorie": "safe",
       "markt": "Brasilien Sieg",
       "quote": 1.1,
       "edge_prozent": 4.0,
@@ -383,7 +383,7 @@
     },
     {
       "spiel_id": "2026-06-19-bra-hai",
-      "kategorie": "wackel",
+      "kategorie": "safe",
       "markt": "Über 2.5 Tore",
       "quote": 1.35,
       "edge_prozent": 6.0,
@@ -555,7 +555,7 @@
         },
         {
           "spiel_id": "2026-06-19-tur-par",
-          "markt": "Hakan Çalhanoğlu trifft jederzeit",
+          "markt": "Hakan Calhanoglu trifft jederzeit",
           "quote": 4.0
         }
       ],
@@ -604,5 +604,67 @@
       "anwendung": "Komplette Tipps-Generation als Recovery durchgeführt — 4 Spiele (USA-AUS, BRA-HAI, SCO-MAR, TUR-PAR) inkl. saison_kontext + Pinnacle-Recherche + Goldgrube-Filter."
     }
   ],
-  "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA Glücksspielsucht-Hotline: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst."
+  "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA Glücksspielsucht-Hotline: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-06-19T18:30:00+02:00",
+    "modus": "post-watchdog-master-final",
+    "drops": [],
+    "downgrades": [],
+    "fixes": [
+      {
+        "art": "einzeltipps_kategorie_sync",
+        "spiel_id": "2026-06-19-bra-hai",
+        "markt": "Brasilien Sieg",
+        "alt": "wackel",
+        "neu": "safe",
+        "grund": "spiele[].tipps Kategorie safe, einzeltipps[] hatte wackel — kanonisch (Quote 1.10 + Klassen-Edge maximal + Begründung 'Einziger SAFE-Kandidat') = safe."
+      },
+      {
+        "art": "einzeltipps_kategorie_sync",
+        "spiel_id": "2026-06-19-bra-hai",
+        "markt": "Über 2.5 Tore",
+        "alt": "wackel",
+        "neu": "safe",
+        "grund": "spiele[].tipps Kategorie safe (Goldgrube-Markt + Brasilien historisch nie <6 Tore vs Haiti) — einzeltipps[] synchronisiert."
+      },
+      {
+        "art": "kombi_bein_markt_normalisierung",
+        "spiel_id": "2026-06-19-tur-par",
+        "markt_alt": "Hakan Çalhanoğlu trifft jederzeit",
+        "markt_neu": "Hakan Calhanoglu trifft jederzeit",
+        "grund": "Moonshot-Kombi-Bein hatte Diakritika (Ç, ğ) während spiele[].tipps ASCII-Variante nutzt — Markt-String-Match war broken, Mapper-Layer-Check hätte Bein nicht gefunden."
+      }
+    ],
+    "warns": [
+      {
+        "art": "torschuetze_quelle_fehlt",
+        "tipps_betroffen": ["Vinicius Jr (BRA)", "Raphinha (BRA)", "Pulisic (USA)", "Balogun (USA)", "En-Nesyri (MAR)", "Hakimi (MAR)", "Yildiz (TUR)", "Calhanoglu (TUR)"],
+        "details": "Alle Torschützen-Tipps haben keine Verein-Player-Seite (transfermarkt/kicker/espn-player) in saison_kontext.quellen[]. Mapper hat sie auto-degradiert auf wackel (_torschuetze_quelle_warn). Konsistent mit aktueller Lesson 8a-Brick (9er-Form-Edge-Cluster Tag 8) — kein VALUE/SAFE-Torschütze heute."
+      },
+      {
+        "art": "watchdog_recovery_label",
+        "details": "Hinweis-Text zeigt 'WATCHDOG-RECOVERY 17:15' — File wurde initial vom 17:15-Watchdog generiert nachdem Hauptroutine 16:00 nicht durchlief. Master-Routine 18:30 hat das File NICHT komplett neu gebaut (Recherche-File fehlt, Daten identisch), sondern verifiziert + Inkonsistenzen gefixt."
+      },
+      {
+        "art": "anstoss_zeit_doublecheck",
+        "spiel_id": "2026-06-19-tur-par",
+        "details": "Day-Tipps anstoss = 2026-06-20T03:00+02:00, Wochenende-Recherche (20.06) anstoss = 2026-06-20T06:00+02:00. 3h-Differenz. Beide Spiele referenzieren dasselbe TUR-PAR-Match (Levi's Stadium Santa Clara) — Wochenende-Variante 06:00 (Sat 00:00 ET) ist die FIFA-publizierte Zeit. Day-Tipps-ID 2026-06-19-tur-par bleibt erhalten (Window-Date-ID-Konvention), aber Anstoßzeit ggf. bei bet365 live verifizieren."
+      }
+    ],
+    "layer_check": {
+      "layer_1_max_1_bein_pro_spiel_pro_kombi": "OK (jeder Kombi nutzt max 1 Bein pro Spiel)",
+      "layer_2_sieg_outcome_max_1_kombi": "OK (BRA-Sieg Safe, USA-DC Safe, TUR-DC Safe, MAR-Sieg Balance — jedes Spiel-Sieg-Outcome max 1 Kombi)",
+      "layer_3_spiel_max_1_kombi_wo_moeglich": "WEICH (jedes Spiel in 3 von 4 Kombis — bei nur 4 Spielen unvermeidbar, Markt-Diversifikation aktiv)"
+    },
+    "quoten_check": {
+      "safe_kombi": "1.10 × 1.22 × 1.40 = 1.88 ✓",
+      "balance_kombi": "1.35 × 2.80 × 1.74 = 6.58 ≈ 6.57 ✓",
+      "risiko_kombi": "2.50 × 2.60 × 3.40 = 22.10 ✓",
+      "moonshot_kombi": "3.25 × 4.50 × 4.00 = 58.50 ✓"
+    },
+    "halluzinations_check": "OK - keine erfundenen Spielernamen. Pulisic/Balogun/Reyna (USA-Stamm), Vinicius/Raphinha/Neymar (Brasilien-Stamm), En-Nesyri/Hakimi (Marokko-Stamm), Yildiz/Calhanoglu (Türkei-Stamm), Duke/Irvine (Australien-Stamm) — alle real und im jeweiligen Nationalteam-Kontext plausibel.",
+    "selbstwiderspruchs_check": "OK - keine 'OUT + Tipp-baut-auf-X'-Konflikte gefunden. Toure-Doubt (Australien) korrekt als Doubt markiert, kein Tipp auf ihn. Yildiz-Verletzungs-Rückkehr korrekt als Risiko-Faktor in wackel-Tipp eingearbeitet.",
+    "gesamt_status": "OK - 3 Fixes, 3 Warns, 0 Drops. Pipeline-fertig.",
+    "kasse_check": "Kasse 550€ (Stufe 1) — Einsätze: Safe-Kombi 11€ (2%), Balance-Kombi 4.40€ (0.8%), Risiko-Kombi 1.40€ (0.25%), Moonshot 0.55€ (0.1%). Einzeltipps SAFE/VALUE 5.50€ (1%) / WACKEL 2.75€ (0.5%). Konform zu CLAUDE.md Stufe-1-Limits."
+  }
 }
