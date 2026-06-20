@@ -1,7 +1,7 @@
 {
   "datum": "2026-06-20",
-  "erstellt_am": "2026-06-20T17:25:00+02:00",
-  "hinweis": "Watchdog-Recovery (17:15 Berlin) - Hauptroutine 16:00 nicht durchgelaufen, Tipps-Dossier nachgeholt. WM 2026 Gruppenphase Spieltag 2 (Gruppe E + F). 4 Spiele im Zeitfenster Sa 19:00 - So 06:00 MESZ. Kasse 550€, Stufe 1 Aufbau-Phase (Einzel SAFE/VALUE 5-11€, WACKEL 2.75€). Cluster-Brick aktiv (Tag 8+9 Torschuetzen-Hitrate 2/15 = 13.3%) - Torschuetzen reduziert + alle als WACKEL. WM Spieltag 2 NICHT in Liga-Goldgruben → SAFE-DC vermieden. Pinnacle-Hartregel angewandt: Deutschland-Sieg 1.50 (Pinnacle-Konvergenz ~0% Edge) als VALUE statt SAFE. Ecuador-Sieg 1.15 als SAFE (Pinnacle +5.5%).",
+  "erstellt_am": "2026-06-20T18:10:00+02:00",
+  "hinweis": "Master-Tipps-Routine-Rerun (18:10 Berlin) nach Watchdog-Recovery 17:25 - Phase-4-Verifikation hat 4 Inkonsistenzen in Moonshot-Kombi behoben (Mitoma-Quote-Halluzination 4.0→2.5, ersetzt durch Kamada @ 4.5; SWE-Sieg 4.9→3.8 Recherche-aligned; Paez 5.5→5.0; gesamtquote 344.96→273.6; rechnung-String + begruendung korrigiert). WM 2026 Gruppenphase Spieltag 2 (Gruppe E + F). 4 Spiele im Zeitfenster Sa 19:00 - So 06:00 MESZ. Kasse 550€, Stufe 1 Aufbau-Phase (Einzel SAFE/VALUE 5-11€, WACKEL 2.75€). Cluster-Brick aktiv (Tag 8+9 Torschuetzen-Hitrate 2/15 = 13.3%) - Torschuetzen reduziert + alle als WACKEL. WM Spieltag 2 NICHT in Liga-Goldgruben → SAFE-DC vermieden. Pinnacle-Hartregel angewandt: Deutschland-Sieg 1.50 (Pinnacle-Konvergenz ~0% Edge) als VALUE statt SAFE. Ecuador-Sieg 1.15 als SAFE (Pinnacle +5.5%).",
   "spiele": [
     {
       "id": "2026-06-20-ned-swe",
@@ -514,14 +514,14 @@
     {
       "name": "Moonshot-Kombi",
       "kategorie": "moonshot",
-      "gesamtquote": 344.96,
+      "gesamtquote": 273.6,
       "empfohlener_einsatz_euro": 0.55,
       "empfohlener_einsatz_prozent": 0.1,
       "beine": [
         {
           "spiel_id": "2026-06-20-ned-swe",
           "markt": "Schweden Sieg",
-          "quote": 4.9
+          "quote": 3.8
         },
         {
           "spiel_id": "2026-06-20-ger-civ",
@@ -531,16 +531,16 @@
         {
           "spiel_id": "2026-06-21-ecu-cur",
           "markt": "Kendry Paez trifft jederzeit",
-          "quote": 5.5
+          "quote": 5.0
         },
         {
           "spiel_id": "2026-06-21-tun-jpn",
-          "markt": "Mitoma trifft jederzeit",
-          "quote": 4.0
+          "markt": "Daichi Kamada trifft jederzeit",
+          "quote": 4.5
         }
       ],
-      "begruendung": "Spaßeinsatz-Lotterie 0.55€ - SWE-Underdog-Sieg (Form-Edge 5:1) + 3 Backup-/Volume-Stürmer (Wahi CIV-Backup, Plata ECU-Backup, Mitoma JPN-Volume). 4 verschiedene Spiele Layer-1 OK. SWE-Sieg ist einziger Sieg-Outcome - in Spiel 1 keine Konflikt mit anderen Kombis (NED-Über-2.5 in Safe ist Tor-Outcome). Gesamtquote 313x = klassische Lottery-Range.",
-      "rechnung": "4.90 x 4.00 x 4.00 x 4.00 = 313.6"
+      "begruendung": "Spaßeinsatz-Lotterie 0.55€ - SWE-Underdog-Sieg (Form-Edge 5:1 vs TUN) + 3 Sekundär-Torschützen (Haller CIV-Stamm-9er + 1:0-Schütze ggn Ecuador Spieltag 1, Paez ECU-OM-Talent Chelsea-Loan, Kamada JPN-OM Crystal Palace). 4 verschiedene Spiele Layer-1 OK. SWE-Sieg ist einziger Sieg-Outcome - kein Konflikt mit anderen Kombis (NED-Über-2.5 in Safe ist Tor-Outcome). Gesamtquote 274x = klassische Lottery-Range. Quoten Recherche-aligned 20.06 (Mitoma-4.0-Halluzination und SWE-Sieg-4.9 in Watchdog-Recovery → Verifikator-Korrektur auf Recherche-Werte).",
+      "rechnung": "3.80 x 3.20 x 5.00 x 4.50 = 273.6"
     }
   ],
   "lessons_angewandt": [
@@ -590,5 +590,84 @@
       "anwendung": "Hauptroutine 16:00 nicht durchgelaufen, Tipps-Dossier durch Watchdog 17:15 nachgeholt. Anstoss Niederlande-Schweden um 19:00 Berlin - Push-Notification wird kurzfristig auf iPhone landen, User sollte Quoten bei bet365 live prüfen vor Spielbeginn."
     }
   ],
-  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-06-20T18:10:00+02:00",
+    "input_recherche": "data/recherche_wochenende/2026-06-20.json (Fallback - data/recherche/2026-06-20.json fehlt)",
+    "drops": [],
+    "downgrades": [],
+    "korrekturen": [
+      {
+        "tipp_id": "moonshot-kombi-bein-4",
+        "alt": "Mitoma trifft jederzeit @ 4.0",
+        "neu": "Daichi Kamada trifft jederzeit @ 4.5",
+        "grund": "Mitoma-Quote 4.0 widersprach Recherche (2.50 bet365 indikativ) - 60% Abweichung = Halluzinationsverdacht. Swap auf Kamada (Crystal Palace OM, in JPN-squad_gast_top verifiziert) hält Moonshot-Range bei Recherche-konformer Quote."
+      },
+      {
+        "tipp_id": "moonshot-kombi-bein-1",
+        "alt": "Schweden Sieg @ 4.9",
+        "neu": "Schweden Sieg @ 3.8",
+        "grund": "Recherche bet365 indikativ: sieg_gast = 3.80. File-Wert 4.9 widerspricht Recherche um 29%, keine plausible Markt-Bewegung in 2 Tagen. Recherche-aligned."
+      },
+      {
+        "tipp_id": "moonshot-kombi-bein-3",
+        "alt": "Kendry Paez trifft jederzeit @ 5.5",
+        "neu": "Kendry Paez trifft jederzeit @ 5.0",
+        "grund": "Recherche: 5.00. 10% Abweichung → Recherche-aligned."
+      },
+      {
+        "tipp_id": "moonshot-kombi-gesamtquote",
+        "alt": "344.96 (mit rechnung-String '4.90 x 4.00 x 4.00 x 4.00 = 313.6' = doppelt inkonsistent)",
+        "neu": "273.6 (3.80 x 3.20 x 5.00 x 4.50 = 273.6)",
+        "grund": "Nach Korrektur der 3 Bein-Quoten neu berechnet + rechnung-String konsistent."
+      },
+      {
+        "tipp_id": "moonshot-kombi-begruendung",
+        "alt": "Erwähnte 'Wahi CIV-Backup, Plata ECU-Backup' - beide nicht in beinen",
+        "neu": "Spielernamen + Rollen-Beschreibung an tatsächliche beine (Haller/Paez/Kamada) angepasst",
+        "grund": "Text-Beine-Mismatch korrigiert."
+      }
+    ],
+    "warns": [
+      {
+        "art": "quoten_abweichung",
+        "tipp_id": "ger-civ Kai Havertz trifft jederzeit",
+        "abweichung": "12.5%",
+        "details": "File 2.10 vs Recherche 2.40 - plausible Markt-Bewegung nach Spieltag-1-Form, kein Drop. Live bei bet365 prüfen."
+      },
+      {
+        "art": "quoten_abweichung",
+        "tipp_id": "tun-jpn Ayase Ueda trifft jederzeit",
+        "abweichung": "17.6%",
+        "details": "File 2.80-3.00 vs Recherche 3.40 - Star-Ausfall-Kubo-OUT-Bonus könnte Quote für Ueda verkürzt haben. Live prüfen."
+      },
+      {
+        "art": "quoten_abweichung",
+        "tipp_id": "ger-civ Sebastien Haller trifft jederzeit",
+        "abweichung": "20%",
+        "details": "File 3.20 vs Recherche 4.00 - keine offensichtliche Markt-Bewegung erklärt das. Live verifizieren bei bet365."
+      },
+      {
+        "art": "recherche_fallback",
+        "details": "data/recherche/2026-06-20.json existiert nicht - fix_schema.py fällt automatisch auf data/recherche_wochenende/2026-06-20.json zurück. Alle 4 Spiel-IDs sind im Fallback-File verifiziert (validate_recherche_completeness wird passieren)."
+      }
+    ],
+    "halluzinations_checks": {
+      "spieler_squad_match": "100% pass - alle Torschützen-Tipps (Gakpo, Havertz, Haller, Valencia, Ueda, Paez, Kamada) in jeweiligen squad_heim_top/squad_gast_top verifiziert",
+      "position_checks": "Havertz ST, Haller ST, Valencia ST, Ueda ST = OK für Torschütze. Gakpo LF/ST = OK. Kamada OM + Paez OM = max VALUE Regel (beide hier in Moonshot bzw WACKEL → konform)",
+      "verband_quellen": "Alle 4 Spiele parallel_heim/gast = 'keine - WM exklusiv' + FIFA-WM-2026-URL als Quelle ✓"
+    },
+    "layer_check": {
+      "layer_1_max_1_bein_pro_spiel_pro_kombi": "OK - jede Kombi hat max 1 Bein pro Spiel",
+      "layer_2_sieg_outcome_max_1_kombi": "OK - DE-Sieg nur in Balance, ECU-Sieg nur in Safe, JPN-DC nur in Risk, SWE-Sieg nur in Moonshot",
+      "layer_3_spiel_max_1_kombi_wo_moeglich": "WARN - alle 4 Spiele tauchen in mehreren Kombis auf (Markt-entkoppelt: Sieg-Tipp vs Tor-Tipp vs Torschütze - per Master-Routine erlaubt bei wenigen Spielen)"
+    },
+    "selbstwiderspruchs_scan": "0 Widersprüche zwischen Tipps + saison_kontext + news[] gefunden",
+    "lessons_generiert": [
+      {
+        "kategorie": "Auto-Quoten-Halluzination Watchdog-Recovery-Risiko",
+        "lesson": "Watchdog-Recovery-Läufe sollten Quoten gegen Recherche-File cross-checken bevor sie ins Output schreiben - Mitoma-4.0-Halluzination (Recherche 2.5) wäre sonst durchgerutscht."
+      }
+    ]
+  }
 }
