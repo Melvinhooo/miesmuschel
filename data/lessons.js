@@ -1402,6 +1402,30 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "Tag-5-Re-Massenversagen-Cluster-Lesson-Tag-6-VALIDIERT-Klassen-Sieg-CZE-8b",
       "lesson": "Re-Massenversagen-Lesson 18.06 Tag 5 jetzt Tag 6 mit CZE-RSA 1:1 erneut validiert (Tschechien @ 1.77 vs Bafana Bafana 2-Suspensions hochwahrscheinlich aber Mokoena 83' Penalty bringt RSA 1:1). CAN @ 1.29 (6:0) + SUI @ 1.62 (4:1) hits aber CZE @ 1.77 fail = 2/3 von Klassen-Edge-Triple Safe-Kombi (3.70) immer noch verloren. Pattern: WM-Quoten-Bereich 1.50-2.00 ist GENAU der gefaehrliche Slot - Top-Favorit kann patzen, fairer Quote-Edge minimal. Routine soll Sieg-Tipps mit Quote 1.50-2.00 in WM nur als Einzeltipp setzen, nicht in Multi-Bein-Safe-Kombi. Quote < 1.40 ueberlebt Safe-Kombi sicherer, Quote > 2.30 ist explicit Risk. Cluster 1.50-2.00 ist der Cluster-Brick-Slot. CZE-RSA 1.77 = mittiger Cluster-Brick-Spot bestaetigt.",
       "bezug_spiel_id": "2026-06-18-cze-rsa"
+    },
+    {
+      "datum": "2026-06-20",
+      "kategorie": "Pre-Match-Squad-Volatilitaet-9er-Tipps-Cluster-WM-Tag-9-8a-8i",
+      "lesson": "Tag 9 (19.06.) Doppel-Schock: Pulisic (USA) kurzfristig wegen Wadenverletzung OUT (Pepi-Startelf-Ersatz) + En-Nesyri (MAR) NICHT im Spieltag-Squad (Ouahbi-Entscheidung, Saibari als 9er). Beide Volume-9er-Torschuetzen-Tipps tot ohne dass die Spieler je auf dem Platz standen — Einwechslungs-Boost greift in keinem Fall (X muss SELBST raus, nicht Pre-Match-Out). 16.50€ Einsatz auf diese 2 Tipps komplett verloren OHNE Pattern-Edge der eigenen These zu testen. Hinzu: Yildiz (TUR) Verletzungs-Rueckkehr-Doubt war markiert, Tipp blieb aber im Pool — Yildiz spielte, kein Tor, Tipp verloren. Pattern: WM-Spieltag-2 hat hohe Pre-Match-Volatilitaet (Doubts kippen in OUT, Trainer-Squad-Rotation zu unerwarteten Backup-9ern). Routine soll Torschuetzen-Tipps auf Spieler mit ANY pre-existierendem Doubt-Faktor (vorherige Verletzung, Squad-Rotations-Risiko, Trainer-Linien-Wechsel) als max WACKEL einstufen UND nur in Joker-Bein-Rolle (max 1 pro Routine) zulassen — niemals als Heim-Favorit-Pflicht-Tipp wenn Doubt-Faktor vorhanden. Aufstellung 1h-vor-Anstoss verifizieren (FIFA-Lineup-Tweet, kicker/ESPN late-line-up) bevor Tipp final ins File geht.",
+      "bezug_spiel_id": "2026-06-19-usa-aus"
+    },
+    {
+      "datum": "2026-06-20",
+      "kategorie": "Frueh-Tor-Cluster-WM-Spieltag-2-Tag-9-3-von-4-spiele-1-Tor-vor-Min-23-volle-Analyse-8f",
+      "lesson": "Volle-Analyse Tag 9 (19.06.): 3 von 4 Spielen hatten 1. Tor sehr frueh: Saibari (MAR) 2', Galarza (PAR) 2', Burgess-OG (USA-AUS) 11'. Nur Brasilien-Haiti hatte 1. Tor erst 23' (Cunha) — aber dann 36' + 45+3 fuer Halbzeit-Hattrick. Drei der vier Spiele blieben unter 2.5 Toren (USA 2:0, SCO 0:1, TUR 0:1) — Frueh-Tor lockt Team in Block-Defense + 2. HZ wird kontrolliert. Markt-Konsequenz: Unter-2.5-Goldgrube (vorher +29.2% ROI) durch SCO-MAR + TUR-PAR DOPPELT validiert (beide 1 Tor Endstand). Routine soll bei WM-Spieltag-2/3-Spielen mit Klassen-Edge-These ODER MUST-WIN-Symmetrie Unter-2.5 als VALUE-Kandidat aktiv suchen, NICHT Ueber-2.5 (heute alle 3 Ueber-2.5-Tipps fielen: USA 2:0, TUR 0:1, plus Moonshots — Ueber-2.5-Markt war heute -8.25€ Verlust auf 8.25€ Einsatz). Frueh-Tor-Cluster zerstoert Ueber-2.5-Tipps systematisch.",
+      "bezug_spiel_id": "2026-06-19-tur-par"
+    },
+    {
+      "datum": "2026-06-20",
+      "kategorie": "Sieg-Quote-Cluster-Brick-1.40-1.75-Tag-9-RE-VALIDIERT-TUR-PAR-Brick-Erweiterung-8b",
+      "lesson": "Tag 9 (19.06.) hat Sieg-Quote-Brick erneut validiert UND ERWEITERT: TUR-DC 1X @ 1.40 (SAFE-Kombi-Bein) verlor — Tuerkei 0:1 zu Hause gegen Paraguay (mit 10 Mann ab 45+3). USA-DC 1X @ 1.22 (in Safe-Kombi) hit, MAR-Sieg @ 1.74 hit. Pattern-Update: Brick-Korridor war bisher 1.50-2.00. Tag 9 zeigt: bei MUST-WIN-Doppel-Druck-Konstellation (TUR + PAR beide 0 Pkt) erweitert sich Brick bis Quote 1.40-Bereich. Klassen-Edge-These wird durch Underdog-MUST-WIN-Verzweiflung neutralisiert (Galarza 2' frueh-Tor + Block-Defense ueber 88+ Min). Routine soll fuer WM-MUST-WIN-Doppel-Druck-Spiele (beide Teams 0 Pkt nach Spieltag 1 ODER beide brauchen Sieg fuer Achtelfinal-Quali) Sieg/DC-Heim-Tipps unter 1.50 als max WACKEL einstufen — nicht als Safe-Kombi-Bein. Brick-Erweiterung: 1.40-2.00 bei MUST-WIN-Symmetrie, 1.50-2.00 bei Standard. Safe-Kombi-Quote heute 1.88 brach an genau diesem Bein — exakt das Pattern aus Lesson Tag 6.",
+      "bezug_spiel_id": "2026-06-19-tur-par"
+    },
+    {
+      "datum": "2026-06-20",
+      "kategorie": "WM-Torschuetzen-Hit-Crash-Tag-8-plus-9-2-von-15-Cluster-Brick-Validierung-8a",
+      "lesson": "Cluster-Brick Update: Tag 8 (1/7 Torschuetzen-Hit) + Tag 9 (1/8 Torschuetzen-Hit) = 2/15 Torschuetzen-Hits in 2 Tagen = 13.3% Hitrate bei avg-Quote ~2.85 (impliziert 35% fair) → -56% effektiver Hitrate-Brick. Heute trafen NUR Vinicius Jr (1.95). Pulisic out, Balogun-Vorlage-aber-Tor-OG-Burgess, Raphinha 12' Tor abgeerkannt (Abseits) + 40' verletzt raus (Rayan-Ersatz traf nicht), En-Nesyri nicht im Squad, Hakimi 90' ohne Tor, Yildiz 90' ohne Tor, Calhanoglu 90' ohne Tor. Pattern: WM-Gruppenphase Spieltag 2 hat (a) hohe Pre-Match-Volatilitaet (Doubts/Squad-Rotation), (b) Frueh-Tor-Cluster-Block (1. Tor frueh + danach Spiel-Zu = wenig Spaeter-Tor-Chancen fuer Volume-Star-Anytime), (c) Block-Defense-Pattern bei Klassen-Edge-Spielen (USA-AUS, BRA-HAI Vinicius nur 1 Goal, MAR-SCO). KOMBINIERT zerstoert das die statistisch erwartete Torschuetzen-Hit-Rate. Routine soll ab sofort in WM-Gruppenphase: max 1 Torschuetzen-Anytime pro Spieltag im SAFE/VALUE-Pool (statt 3-4), Rest als WACKEL-Joker (Einsatz 0.5%), Pflicht-Verein-Quelle (transfermarkt/kicker/ESPN-player) sonst Auto-Downgrade beibehalten. Kombi-Beine mit Torschuetzen-Anytime in WM-Gruppenphase max 1 Kombi (statt heutiger Risiko-Kombi mit 3 Beinen).",
+      "bezug_spiel_id": "2026-06-19-sco-mar"
     }
   ]
 };

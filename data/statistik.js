@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-06-19T07:11:29+00:00",
+  "letzte_berechnung": "2026-06-20T07:10:12+00:00",
   "gesamt": {
-    "tipps": 393,
-    "gewonnen": 213,
-    "verloren": 169,
+    "tipps": 400,
+    "gewonnen": 219,
+    "verloren": 170,
     "push": 2,
     "offen": 9,
-    "einsatz": 384.0,
+    "einsatz": 391.0,
     "netto": 37.2,
-    "trefferquote": 55.8,
-    "roi_prozent": 9.7
+    "trefferquote": 56.3,
+    "roi_prozent": 9.5
   },
   "letzte_30_tage": {
-    "tipps": 138,
-    "gewonnen": 75,
-    "verloren": 61,
+    "tipps": 139,
+    "gewonnen": 79,
+    "verloren": 58,
     "push": 2,
     "offen": 0,
-    "einsatz": 138.0,
-    "netto": 18.17,
-    "trefferquote": 55.1,
-    "roi_prozent": 13.2
+    "einsatz": 139.0,
+    "netto": 15.55,
+    "trefferquote": 57.7,
+    "roi_prozent": 11.2
   },
   "letzte_90_tage": {
-    "tipps": 393,
-    "gewonnen": 213,
-    "verloren": 169,
+    "tipps": 400,
+    "gewonnen": 219,
+    "verloren": 170,
     "push": 2,
     "offen": 9,
-    "einsatz": 384.0,
+    "einsatz": 391.0,
     "netto": 37.2,
-    "trefferquote": 55.8,
-    "roi_prozent": 9.7
+    "trefferquote": 56.3,
+    "roi_prozent": 9.5
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -715,6 +715,28 @@ window.__MIESMUSCHEL_STAT = {
       "einsatz": 5.0,
       "netto": 0.0,
       "trefferquote": 60.0,
+      "roi_prozent": 0.0
+    },
+    "FIFA World Cup 2026 - Gruppe C - Spieltag 2": {
+      "tipps": 4,
+      "gewonnen": 4,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 4.0,
+      "netto": 0.0,
+      "trefferquote": 100.0,
+      "roi_prozent": 0.0
+    },
+    "FIFA World Cup 2026 - Gruppe D - Spieltag 2": {
+      "tipps": 3,
+      "gewonnen": 2,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 0.0,
+      "trefferquote": 66.7,
       "roi_prozent": 0.0
     }
   },
@@ -3327,15 +3349,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 30.0
     },
     "Brasilien Sieg": {
-      "tipps": 1,
-      "gewonnen": 1,
+      "tipps": 5,
+      "gewonnen": 5,
       "verloren": 0,
       "push": 0,
       "offen": 0,
-      "einsatz": 1.0,
+      "einsatz": 5.0,
       "netto": 0.3,
       "trefferquote": 100.0,
-      "roi_prozent": 30.0
+      "roi_prozent": 6.0
     },
     "England Sieg": {
       "tipps": 4,
@@ -3996,6 +4018,28 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.0,
       "trefferquote": 0.0,
       "roi_prozent": 0.0
+    },
+    "Doppelte Chance USA (1X)": {
+      "tipps": 2,
+      "gewonnen": 2,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 0.0,
+      "trefferquote": 100.0,
+      "roi_prozent": 0.0
+    },
+    "Doppelte Chance Türkei (1X)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt_typ": {
@@ -4044,15 +4088,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 55.0
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 133,
-      "gewonnen": 75,
+      "tipps": 137,
+      "gewonnen": 79,
       "verloren": 57,
       "push": 0,
       "offen": 1,
-      "einsatz": 132.0,
+      "einsatz": 136.0,
       "netto": 6.99,
-      "trefferquote": 56.8,
-      "roi_prozent": 5.3
+      "trefferquote": 58.1,
+      "roi_prozent": 5.1
     },
     "Torschuetzen Jederzeit": {
       "tipps": 69,
@@ -4077,15 +4121,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 29.2
     },
     "Doppelte Chance 1X": {
-      "tipps": 24,
-      "gewonnen": 18,
-      "verloren": 4,
+      "tipps": 27,
+      "gewonnen": 20,
+      "verloren": 5,
       "push": 0,
       "offen": 2,
-      "einsatz": 22.0,
+      "einsatz": 25.0,
       "netto": 0.54,
-      "trefferquote": 81.8,
-      "roi_prozent": 2.5
+      "trefferquote": 80.0,
+      "roi_prozent": 2.2
     },
     "Doppelte Chance X2": {
       "tipps": 19,
@@ -4508,15 +4552,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 10.8
     },
     "1.00-1.50": {
-      "tipps": 132,
-      "gewonnen": 90,
-      "verloren": 38,
+      "tipps": 139,
+      "gewonnen": 96,
+      "verloren": 39,
       "push": 0,
       "offen": 4,
-      "einsatz": 128.0,
+      "einsatz": 135.0,
       "netto": 9.38,
-      "trefferquote": 70.3,
-      "roi_prozent": 7.3
+      "trefferquote": 71.1,
+      "roi_prozent": 6.9
     },
     "3.00+": {
       "tipps": 18,
@@ -4532,37 +4576,37 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_kategorie": {
     "safe": {
-      "tipps": 81,
-      "gewonnen": 53,
+      "tipps": 85,
+      "gewonnen": 57,
       "verloren": 28,
       "push": 0,
       "offen": 0,
-      "einsatz": 81.0,
+      "einsatz": 85.0,
       "netto": 0.35,
-      "trefferquote": 65.4,
+      "trefferquote": 67.1,
       "roi_prozent": 0.4
     },
     "value": {
-      "tipps": 235,
+      "tipps": 236,
       "gewonnen": 125,
-      "verloren": 99,
+      "verloren": 100,
       "push": 2,
       "offen": 9,
-      "einsatz": 226.0,
+      "einsatz": 227.0,
       "netto": 31.36,
-      "trefferquote": 55.8,
-      "roi_prozent": 13.9
+      "trefferquote": 55.6,
+      "roi_prozent": 13.8
     },
     "wackel": {
-      "tipps": 77,
-      "gewonnen": 35,
+      "tipps": 79,
+      "gewonnen": 37,
       "verloren": 42,
       "push": 0,
       "offen": 0,
-      "einsatz": 77.0,
+      "einsatz": 79.0,
       "netto": 5.49,
-      "trefferquote": 45.5,
-      "roi_prozent": 7.1
+      "trefferquote": 46.8,
+      "roi_prozent": 6.9
     }
   },
   "clv_gesamt": {
@@ -4604,6 +4648,131 @@ window.__MIESMUSCHEL_STAT = {
     }
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-06-19",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "Safe-Kombi",
+          "kategorie": "safe",
+          "gesamtquote": 1.88,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Brasilien Sieg",
+              "quote": 1.1,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Doppelte Chance USA (1X)",
+              "quote": 1.22,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Doppelte Chance Türkei (1X)",
+              "quote": 1.4,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi",
+          "kategorie": "balance",
+          "gesamtquote": 6.57,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.35,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Folarin Balogun trifft jederzeit",
+              "quote": 2.8,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Marokko Sieg",
+              "quote": 1.74,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi",
+          "kategorie": "risk",
+          "gesamtquote": 22.1,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Christian Pulisic trifft jederzeit",
+              "quote": 2.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Youssef En-Nesyri trifft jederzeit",
+              "quote": 2.6,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Kenan Yildiz trifft jederzeit",
+              "quote": 3.4,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi",
+          "kategorie": "moonshot",
+          "gesamtquote": 58.5,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Über 4.5 Tore",
+              "quote": 3.25,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Achraf Hakimi trifft jederzeit",
+              "quote": 4.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Hakan Calhanoglu trifft jederzeit",
+              "quote": 4.0,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-06-18",
       "gesamt": {

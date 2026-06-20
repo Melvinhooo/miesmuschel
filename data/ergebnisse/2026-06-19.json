@@ -1,0 +1,1196 @@
+{
+  "datum": "2026-06-19",
+  "erstellt_am": "2026-06-19T17:15:00+02:00",
+  "hinweis": "WATCHDOG-RECOVERY 17:15 (Hauptroutine 16:00 nicht durchgelaufen). WM-Spieltag-2 Tag 9: Gruppe D komplett (USA-AUS + TUR-PAR) + Gruppe C komplett (BRA-HAI + SCO-MAR). Kasse-Stufe 1 (550€). LESSONS-CASCADE: (8a) WM-9er-Form-Edge-Cluster-Brick Tag 8 (7 Tipps / 1 Hit) → Form-Edge-9er nicht mehr SAFE. (8b) Sieg-Quote-Cluster-Brick 1.50-2.00-Slot Tag 6 validiert → Heim-Favorit-Siege in diesem Quoten-Korridor max VALUE. (8g) Spät-Tor-Cluster WM-Spieltag-2 80+min 3-von-4 → BTTS-NEIN-Downgrade. (8i) Junge Sub-Talente Pool aktiv (Manzambi Doppelpack ohne Tipp 18.06) → Backup-Sub-Scan Pflicht. Goldgruben aktiv: Über 2.5 (+30.1% ROI), Unter 2.5 (+29.2%), Torschützen Jederzeit (+20.4%), Doppelte Chance X2 (+18.9%). Brasilien-Klassen-Edge ist DER einzige SAFE-Kandidat heute (Quote ~1.10, Haiti unterklassig — selbst Brick-Cluster greift nicht in diesem Quoten-Bereich). USA -165 (1.60-Slot) = direkt im Brick-Korridor → max VALUE.",
+  "spiele": [
+    {
+      "id": "2026-06-19-usa-aus",
+      "liga": "FIFA World Cup 2026 - Gruppe D - Spieltag 2",
+      "heim": "USA",
+      "gast": "Australien",
+      "anstoss": "2026-06-19T21:00:00+02:00",
+      "stadion": "Lumen Field, Seattle (USA)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM-Gruppenphase Spieltag 2, MLS-Saison läuft aber US-Spieler primär in Europa (Pulisic/AC Milan, McKennie/Juventus, Adams/Bournemouth) → alle Top-Liga-Saisons abgeschlossen, kein paralleler Wettbewerb",
+        "parallel_gast": "keine - WM-Gruppenphase Spieltag 2, A-League-Saison längst beendet, australische Spieler primär in Europa/Saudi-Arabia/Schottland (Mooy/Celtic, Irvine/St. Pauli), Vereinssaison durch",
+        "saisonziel_heim": "Achtelfinale-Quali als Gastgeber. Nach 4:1-Sieg über Paraguay (Pulisic + Balogun + Reyna) Tabellenführer Gruppe D mit 3 Pkt. Bei Sieg heute = Achtelfinale-Quali sicher (vor letztem Spieltag).",
+        "saisonziel_gast": "Achtelfinale-Quali noch komplett offen. Nach 2:0-Sieg über Türkei (Duke + Irvine) ebenfalls 3 Pkt. Bei Sieg = ebenfalls Achtelfinale sicher. Bei Remis = beide auf 4 Pkt = vermutlich beide durch.",
+        "motivations_asymmetrie": "Beide haben Achtelfinal-Druck — bei Doppel-Sieg-Konstellation beide klar weiter. USA hat Heim-Vorteil (Seattle Sound Crowd) + Klassen-Edge gegen 39-Plätze-niedriger eingestuftes Australien, aber Australien defensiv stabil (2:0 gegen Türkei nur 1 Großchance zugelassen). KEIN klares Über-USA-Edge wie Klassen-Quote suggeriert — Türkei-Spiel hat Australien gut verteidigt.",
+        "recovery_heim": "Spieltag 1 am 13.06 (4:1 vs PAR) - 6 Tage Pause. Pulisic fit, Squad voll. Keine Suspendierungen.",
+        "recovery_gast": "Spieltag 1 am 13.06 (2:0 vs TUR) - 6 Tage Pause. Toure (CB) Wadenkrampf-Doubt aus Türkei-Spiel, ansonsten Stamm-XI. Mooy als MF-Kapitän fit.",
+        "quellen": [
+          "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021442",
+          "https://www.espn.com/soccer/odds/_/gameId/760442",
+          "https://www.lineups.com/betting/usa-vs-australia-world-cup-match-preview-picks-odds-for-friday-june-19-2026/",
+          "https://www.foxsports.com/stories/soccer/2026-world-cup-usa-australia-odds-prediction-picks",
+          "https://www.fanduel.com/research/usa-vs-australia-lineups-predictions-availability-and-best-bets-for-world-cup-2026-june-19"
+        ]
+      },
+      "news": [
+        "USA Tabellenführer Gruppe D nach 4:1 vs Paraguay (13.06) — Pulisic 1 Tor + 1 Assist, Balogun Doppelpack, Reyna 1 Tor.",
+        "Australien 3 Pkt nach 2:0 vs Türkei (13.06) — Duke + Irvine Tore, defensiv organisiert (kein Gegentor).",
+        "Toure (CB Australien) Wadenkrampf-Doubt - falls Ausfall, Souttar/Wright könnten ergänzen.",
+        "USA Lumen-Field-Heimkulisse (~69k Fans) - 'Seattle Sound' Atmosphäre-Vorteil.",
+        "Lessons 8b aktiv: USA-Sieg-Quote ~1.55-1.60 fällt direkt in Cluster-Brick-Korridor — max VALUE, kein SAFE."
+      ],
+      "tipps": [
+        {
+          "kategorie": "wackel",
+          "markt": "Doppelte Chance USA (1X)",
+          "quote": 1.22,
+          "edge_prozent": 4.5,
+          "empfohlener_einsatz_euro": 11.0,
+          "empfohlener_einsatz_prozent": 2.0,
+          "begruendung": "Markt-Goldgrube Doppelte Chance 1X (84.6% / +9.5% ROI laut data/statistik.json + statistik-recent +18.9% X2). USA Klassen-Edge (FIFA-Rank vs Australien Differenz) + Heim-Vorteil Lumen Field + Australien Toure-Doubt. DC weicht Sieg-Cluster-Brick (Lesson 8b) aus — Heim-Niederlage statistisch unwahrscheinlich (4 Niederlagen in letzten 30 US-Heimspielen). Quote 1.22 = 82% implied vs faire ~86%. Quote via ESPN-Odds verifiziert. [Auto HR4: Story-Konflikt v2 (Heim-Krise-Token in eigener Begruendung) -> value->wackel]",
+          "reality_check": "Goldgrube DC + Klassen-Edge + Sieg-Brick-Ausweich.",
+          "faire_quote": 1.16,
+          "_story_konflikt_v2": true
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Christian Pulisic trifft jederzeit",
+          "quote": 2.5,
+          "edge_prozent": 8.0,
+          "empfohlener_einsatz_euro": 8.25,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Markt-Goldgrube Torschützen Jederzeit (40.3% / +20.4% ROI). Pulisic in Top-Form: 1 Tor + 1 Assist vs Paraguay, 12 Tore in Milan-Saison 25/26, Heim-Star-Status Seattle. CLAUDE.md Heim-Favorit-Pflicht (DC-Quote 1.22 = klarer Favorit): Torschützen-Tipp PFLICHT. Australien-Defense gegen Türkei zwar 0 Gegentore aber gegen Pulisic-Klasse anders. Quelle: ESPN/Lineups USA-Aufstellung + Form-Daten via FanDuel. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "reality_check": "Form-Edge real + Goldgrube + Heim-Favorit-Pflicht.",
+          "faire_quote": 2.3,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Über 2.5 Tore",
+          "quote": 2.05,
+          "edge_prozent": 4.0,
+          "empfohlener_einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Markt-Goldgrube Über 2.5 (+30.1% ROI). USA 4 Tore vs Paraguay zeigt Offensiv-Power, beide Teams mit Achtelfinal-Druck offen spielen. ABER: Australien defensiv hartnäckig (0 Gegentore vs Türkei), max WACKEL. Per Lesson 8c (Form-Edge-Game-Total-Koppelung-Brick Tag 8): Form-Edge + Über koppeln kann gefährlich sein → wackel statt value.",
+          "reality_check": "Goldgrube + USA-Offensive aber Australien-Defense-Block.",
+          "faire_quote": 1.97
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Folarin Balogun trifft jederzeit",
+          "quote": 2.8,
+          "edge_prozent": 5.0,
+          "empfohlener_einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Markt-Goldgrube Torschützen Jederzeit. Balogun Doppelpack gegen Paraguay (4:1) — Form-Edge eindeutig. ABER: Lesson 8a (9er-Form-Edge-Cluster-Brick Tag 8) aktiv → Form-Edge-9er sind nicht mehr SAFE/VALUE-Material. Max WACKEL (Joker-Bein). Quelle: ESPN USA-Aufstellung. [Auto: Verein-Quelle Monaco fehlt - max wackel]",
+          "reality_check": "Form-Edge 9er aber Lesson-8a-Brick aktiv.",
+          "faire_quote": 2.67,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "kategorie": "moonshot",
+          "markt": "USA Sieg mit Über 2.5 Tore",
+          "quote": 2.4,
+          "edge_prozent": 6.0,
+          "empfohlener_einsatz_euro": 0.55,
+          "empfohlener_einsatz_prozent": 0.1,
+          "begruendung": "Moonshot-Profil: USA Heim-Sieg + offenes Spiel beider mit Achtelfinal-Druck. Per Lesson 8b max wackel-Bewertung der Sieg-These, aber als Moonshot-Kombi-Form akzeptabel. Pulisic + Balogun in Form.",
+          "reality_check": "Eigene Tipps konsistent (DC-1X + Über 2.5 Bausteine).",
+          "faire_quote": 2.26
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 2,
+        "gast": 0,
+        "endstand": "2:0",
+        "kommentar": "USA 2:0 Australien — Burgess OG 11' (Balogun-Vorlage), Alex Freeman 43' Kopfball. Pulisic kurzfristig wegen Wadenverletzung raus, Pepi Ersatz im Starting-XI. USA Achtelfinale + Gruppensieg D fix."
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "2:0",
+        "endstand": "2:0",
+        "tore": [
+          {
+            "min": 11,
+            "team": "heim",
+            "spieler": "Cameron Burgess (Eigentor)",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 43,
+            "team": "heim",
+            "spieler": "Alex Freeman",
+            "stand_danach": "2:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "USA fuehrte zur HZ 2:0 und brachte den Sieg sauber nach Hause. Australien war defensiv gut organisiert wie gegen Tuerkei (nur 1 echtes Gegentor + 1 Eigentor)."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "USA/USA",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Pulisic",
+            "details": "Wadenverletzung — Pre-Match-Ausfall. Pepi rueckte ins Starting-XI, USA gewann trotzdem souveraen."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Heim-Klassen-Edge greift trotz Top-Star-Ausfall (Pulisic raus) — Team-Tiefe USA zeigt sich.",
+          "Beide Heim-Tore in 1. HZ (OG + Standard-Kopfball) — danach kontrollierter Match-Management-Modus ohne weitere Tore. Ueber-2.5-Brick weil Match nach 43' faktisch gelaufen war.",
+          "Pulisic-Pre-Match-Out validiert Lesson 8i: Aufstellung-Risiko bei Top-Star-Tipps ohne Late-Lineup-Quelle ist real (Pulisic-Tipp tot ohne dass Spieler je auf dem Platz war)."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "markt": "Doppelte Chance USA (1X)",
+          "kategorie": "wackel",
+          "quote": 1.22,
+          "empfohlener_einsatz_euro": 11.0,
+          "status": "gewonnen",
+          "kommentar": "USA 2:0 Sieg — DC 1X eingeloest."
+        },
+        {
+          "markt": "Christian Pulisic trifft jederzeit",
+          "kategorie": "wackel",
+          "quote": 2.5,
+          "empfohlener_einsatz_euro": 8.25,
+          "status": "verloren",
+          "kommentar": "Pulisic kurzfristig wegen Wadenverletzung NICHT im Kader (Pepi-Startelf-Ersatz). CLAUDE.md Einwechslungs-Boost greift NICHT (Pulisic wurde nicht ausgewechselt, er stand nie auf dem Platz). Pre-Match-Out = Tipp tot."
+        },
+        {
+          "markt": "Über 2.5 Tore",
+          "kategorie": "wackel",
+          "quote": 2.05,
+          "empfohlener_einsatz_euro": 2.75,
+          "status": "verloren",
+          "kommentar": "Endstand 2:0 = 2 Tore < 2.5. USA brachte Sieg nach HZ-2:0 sauber nach Hause ohne weitere Treffer."
+        },
+        {
+          "markt": "Folarin Balogun trifft jederzeit",
+          "kategorie": "wackel",
+          "quote": 2.8,
+          "empfohlener_einsatz_euro": 2.75,
+          "status": "verloren",
+          "kommentar": "Balogun hatte Vorlage zum 1:0 (Burgess-OG) aber traf NICHT selbst. 89' raus fuer Wright (kein Tor mehr danach) — kein Einwechslungs-Boost."
+        },
+        {
+          "markt": "USA Sieg mit Über 2.5 Tore",
+          "kategorie": "moonshot",
+          "quote": 2.4,
+          "empfohlener_einsatz_euro": 0.55,
+          "status": "verloren",
+          "kommentar": "USA Sieg ja (2:0), aber Ueber 2.5 verfehlt. Moonshot-Kombi-Bedingung nicht erfuellt."
+        }
+      ]
+    },
+    {
+      "id": "2026-06-19-bra-hai",
+      "liga": "FIFA World Cup 2026 - Gruppe C - Spieltag 2",
+      "heim": "Brasilien",
+      "gast": "Haiti",
+      "anstoss": "2026-06-20T02:30:00+02:00",
+      "stadion": "Lincoln Financial Field, Philadelphia (USA)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM-Gruppenphase Spieltag 2, Vereinssaisons (Real Madrid, Barcelona, PSG, Inter etc.) abgeschlossen seit Mai/Anfang Juni 2026, kein paralleler Wettbewerb.",
+        "parallel_gast": "keine - WM-Gruppenphase Spieltag 2, Haiti-Spieler primär in MLS / Ligue 1 / niederen Ligen, Saisons abgeschlossen.",
+        "saisonziel_heim": "Achtelfinale-Quali nach enttäuschendem 1:1 vs Marokko in Spieltag 1 (Raphinha 14', Hakimi 71' Ausgleich) zwingend notwendig. Mit 1 Pkt aktuell Platz 2 Gruppe C hinter Schottland (3 Pkt). Sieg gegen Haiti + im 3. Spieltag Punkte → Achtelfinale.",
+        "saisonziel_gast": "Achtelfinale-Quali nach 0:1-Niederlage vs Schottland (Tor McTominay) faktisch durch. 0 Pkt + extreme Klassen-Unterlegenheit gegen Brasilien = Ausscheiden nach diesem Spiel besiegelt. Letzte Spiel vs Marokko für Stolz.",
+        "motivations_asymmetrie": "Maximal asymmetrisch: Brasilien WILL hoch gewinnen um Tordifferenz für Gruppensieg aufzubauen (gegen Schottland 3. Spieltag entscheidend), Haiti praktisch ausgeschieden + drei Klassen Unterschied. Brasilien 'hat noch nie weniger als 6 Tore gegen Haiti erzielt' (historisch).",
+        "recovery_heim": "Spieltag 1 am 14.06 (1:1 vs MAR) - 5 Tage Pause. Voller Kader fit, Neymar als 9er, Vinicius LM, Raphinha RM, Casemiro/Bruno MF.",
+        "recovery_gast": "Spieltag 1 am 14.06 (0:1 vs SCO) - 5 Tage Pause. Pierrot (9er) trifft selten, generell unterklassig.",
+        "quellen": [
+          "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021443",
+          "https://www.lineups.com/betting/brazil-vs-haiti-world-cup-match-preview-picks-odds-for-friday-june-19-2026/",
+          "https://www.si.com/soccer/brazil-vs-haiti-world-cup-preview-predictions-lineups-6-19-26",
+          "https://www.rotowire.com/soccer/article/brazil-vs-haiti-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-c-118660",
+          "https://news.sportsinteraction.com/soccer/fifa-world-cup/story/brazil-vs-haiti-odds-prediction-062026-217248"
+        ]
+      },
+      "news": [
+        "Brasilien nach 1:1 vs Marokko unter Druck — Carlo Ancelotti braucht klaren Sieg + viele Tore wegen Tordifferenz.",
+        "Vinicius Jr LM + Raphinha RM + Neymar 9er — vermutliche Aufstellung (Quelle: Rotowire/Lineups).",
+        "Haiti gegen Schottland 0:1 verloren — schwacher Angriff, defensiv nicht WM-Niveau.",
+        "Brasilien historisch nie unter 6 Tore vs Haiti — Klassen-Edge maximal.",
+        "Über 2.5 Tore +30.1% ROI Goldgrube + Vinicius/Raphinha 9er-Klasse-Form aktiv suchen."
+      ],
+      "tipps": [
+        {
+          "kategorie": "safe",
+          "markt": "Brasilien Sieg",
+          "quote": 1.1,
+          "edge_prozent": 4.0,
+          "empfohlener_einsatz_euro": 5.5,
+          "empfohlener_einsatz_prozent": 1.0,
+          "begruendung": "Klassen-Edge maximal (3 Klassen Unterschied, Haiti faktisch ausgeschieden, Brasilien hoher Tor-Druck). Quote 1.10 = 91% implied vs faire ~95%. Per Lesson 8b (Sieg-Quote-Cluster-Brick) GREIFT NICHT bei <1.20 Quoten — der Brick gilt für 1.50-2.00-Slot. Brasilien-Klassen-Edge ist einziger SAFE-Kandidat heute. Quote via bet365 -1000 = 1.10. 2:0-Insurance ZWINGEND da WM 2026 + direkter Sieg-Tipp.",
+          "reality_check": "Klassen-Edge extrem + Sieg-Brick gilt nur 1.50-2.00 + Heim-Tor-Druck.",
+          "faire_quote": 1.06
+        },
+        {
+          "kategorie": "safe",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.35,
+          "edge_prozent": 6.0,
+          "empfohlener_einsatz_euro": 5.5,
+          "empfohlener_einsatz_prozent": 1.0,
+          "begruendung": "Markt-Goldgrube Über 2.5 (+30.1% ROI). Brasilien hat NIE unter 6 Tore vs Haiti erzielt + Druck wegen Tordifferenz-Notwendigkeit + Haiti defensiv weit unter WM-Niveau. Quote 1.35 = 74% implied vs faire ~85%. Edge real und groß. CLAUDE.md Heim-Favorit-Pflicht (Quote 1.10 = klar Favorit): Torschützen-Tipp PFLICHT — separater Tipp folgt. Quelle: SI Preview.",
+          "reality_check": "Goldgrube + historischer Tor-Druck + Klassen-Edge maximal.",
+          "faire_quote": 1.18
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Vinicius Jr trifft jederzeit",
+          "quote": 1.95,
+          "edge_prozent": 7.0,
+          "empfohlener_einsatz_euro": 8.25,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Markt-Goldgrube Torschützen Jederzeit (+20.4% ROI). Vinicius Volume-Star + Form-Edge (Tore in WM-Test-Phase), Real Madrid LM, gegen unterklassiges Haiti-RV-Loch. CLAUDE.md Heim-Favorit-Pflicht erfüllt. Mbappe seit CL-Aus weg → Vinicius Real-Madrid-Volume + WM-Anker — exakt das Backup-Profile aus CLAUDE.md. Per Lesson 8a Cluster-Brick degradiert auf VALUE (statt SAFE), per Klassen-Edge-Asymmetrie bleibt VALUE haltbar. Quelle: Rotowire Aufstellung + Lineups. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "reality_check": "Klassen-Edge stützt Goldgrube + Mbappe-Backup-Profile + Heim-Favorit-Pflicht.",
+          "faire_quote": 1.82,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Raphinha trifft jederzeit",
+          "quote": 2.1,
+          "edge_prozent": 6.0,
+          "empfohlener_einsatz_euro": 5.5,
+          "empfohlener_einsatz_prozent": 1.0,
+          "begruendung": "Markt-Goldgrube Torschützen. Raphinha bereits Torschütze gegen Marokko (14') = Form-Edge bestätigt. Barcelona-Saison 24/25 mit 26 Liga-Toren = Volume-Star. Per Lesson 8a Brick → max VALUE statt SAFE. Quelle: Lineups Match-Preview + Aufstellung. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "reality_check": "Form-Edge + Volume-Star Goldgrube — Klassen-Edge stützt VALUE.",
+          "faire_quote": 1.98,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "kategorie": "moonshot",
+          "markt": "Über 4.5 Tore",
+          "quote": 3.25,
+          "edge_prozent": 8.0,
+          "empfohlener_einsatz_euro": 0.55,
+          "empfohlener_einsatz_prozent": 0.1,
+          "begruendung": "Moonshot: Brasilien historisch 6+ Tore gegen Haiti. Tordifferenz-Druck max. Klassen-Edge extrem. Bei 5+ Toren klassischer Brasilien-Vorstellung gewinnt. Spaßeinsatz wegen WM-Spieltag-2-Vorsicht.",
+          "reality_check": "Eigene Tipps konsistent (Über 2.5 SAFE + 2 Torschützen).",
+          "faire_quote": 3.0
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 3,
+        "gast": 0,
+        "endstand": "3:0",
+        "kommentar": "Brasilien 3:0 Haiti — Cunha 23', Cunha 36', Vinicius Jr 45+3'. Raphinha 40' verletzt raus (Hamstring), Rayan-Debuet als Ersatz. Haiti erstes Team ausgeschieden bei WM 2026."
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "3:0",
+        "endstand": "3:0",
+        "tore": [
+          {
+            "min": 23,
+            "team": "heim",
+            "spieler": "Matheus Cunha",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 36,
+            "team": "heim",
+            "spieler": "Matheus Cunha",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": "45+3",
+            "team": "heim",
+            "spieler": "Vinicius Junior",
+            "stand_danach": "3:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Brasilien fuehrte 3:0 zur HZ und kontrollierte die 2. HZ ohne weitere Tore. Klassen-Edge maximal."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Brasilien/Brasilien",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Igor Thiago",
+            "details": "Bank — Cunha rueckte als 9er ins Starting-XI und entschied das Spiel mit Doppelpack."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Rayan",
+            "aus": "Raphinha",
+            "minute": 40,
+            "tor": false,
+            "tor_minute": null,
+            "details": "Raphinha-Verletzung (Hamstring) 40' — Rayan-WM-Debuet als direkter Ersatz. Rayan traf NICHT in der 2. HZ — kein Einwechslungs-Boost fuer Raphinha-Tipp. Vinicius-Tor 45+3 ist NICHT Raphinha-Boost (Vinicius war nicht Raphinhas Ersatz)."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Brasilien-Klassen-Edge wirkte aber Tor-Festival blieb aus (kein Ueber 3.5/4.5/5.5) — historische 'nie unter 6 Tore vs Haiti'-Statistik gebrochen. Ueber-2.5-SAFE knapp durchgekommen.",
+          "Raphinha-Hamstring-Verletzung minutiose ABER der Mapper-erzwungene Wackel-Downgrade (fehlende Verein-Quelle) hat retrospektiv geschuetzt: Verlust auf 5.50€ statt 8.25€ begrenzt.",
+          "Vinicius Tor 45+3 ohne dass Raphinha-Boost trigger (Rayan war direkter Ersatz, nicht Vinicius) — CLAUDE.md Einwechslungs-Regel sauber angewandt."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "markt": "Brasilien Sieg",
+          "kategorie": "safe",
+          "quote": 1.1,
+          "empfohlener_einsatz_euro": 5.5,
+          "status": "gewonnen",
+          "kommentar": "Brasilien 3:0 Sieg — Klassen-Edge bestaetigt. 2:0-Insurance haette ab 36' gegriffen (Cunha-Doppelpack zur 2:0-Fuehrung)."
+        },
+        {
+          "markt": "Über 2.5 Tore",
+          "kategorie": "safe",
+          "quote": 1.35,
+          "empfohlener_einsatz_euro": 5.5,
+          "status": "gewonnen",
+          "kommentar": "Endstand 3:0 = 3 Tore > 2.5. Goldgrube-Markt + Klassen-Edge bestaetigt — alle 3 Tore in 1. HZ (23', 36', 45+3)."
+        },
+        {
+          "markt": "Vinicius Jr trifft jederzeit",
+          "kategorie": "wackel",
+          "quote": 1.95,
+          "empfohlener_einsatz_euro": 8.25,
+          "status": "gewonnen",
+          "kommentar": "Vinicius Tor 45+3' — Form-Edge eingeloest. Real-Madrid-Volume-Star-These bestaetigt."
+        },
+        {
+          "markt": "Raphinha trifft jederzeit",
+          "kategorie": "wackel",
+          "quote": 2.1,
+          "empfohlener_einsatz_euro": 5.5,
+          "status": "verloren",
+          "kommentar": "Raphinha 12' Tor wegen Abseits aberkannt + 40' verletzt raus (Hamstring). Direkter Ersatz Rayan (WM-Debuet) traf NICHT in der 2. HZ — kein Einwechslungs-Boost. Vinicius-Tor zaehlt NICHT fuer Raphinha (nicht direkter Ersatz)."
+        },
+        {
+          "markt": "Über 4.5 Tore",
+          "kategorie": "moonshot",
+          "quote": 3.25,
+          "empfohlener_einsatz_euro": 0.55,
+          "status": "verloren",
+          "kommentar": "Endstand 3:0 = 3 Tore < 4.5. Moonshot historisches 6+-Tore-vs-Haiti-Pattern gebrochen — Brasilien kontrollierte 2. HZ ohne weitere Treffer."
+        }
+      ]
+    },
+    {
+      "id": "2026-06-19-sco-mar",
+      "liga": "FIFA World Cup 2026 - Gruppe C - Spieltag 2",
+      "heim": "Schottland",
+      "gast": "Marokko",
+      "anstoss": "2026-06-20T00:00:00+02:00",
+      "stadion": "Gillette Stadium, Foxborough (USA)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM-Gruppenphase Spieltag 2. Schottland-Spieler primär in PL (McTominay/United, Robertson/Liverpool, McGinn/Villa) und Bundesliga (Hickey/Brentford). Vereinssaisons abgeschlossen.",
+        "parallel_gast": "keine - WM-Gruppenphase Spieltag 2. Marokko-Spieler in Top-5-Ligen (Hakimi/PSG, En-Nesyri/Fenerbahce, Ziyech/Galatasaray, Mazraoui/United). Saisons abgeschlossen, kein paralleler Wettbewerb.",
+        "saisonziel_heim": "Achtelfinale-Quali fast sicher nach 1:0-Sieg gegen Haiti (McTominay) - Tabellenführer Gruppe C mit 3 Pkt. Sieg/Remis heute = Achtelfinale-Quali quasi sicher.",
+        "saisonziel_gast": "Achtelfinale-Quali offen nach 1:1 vs Brasilien (Hakimi 71') - 1 Pkt. Sieg heute fast Pflicht für sichere Quali. Klassen-Edge gegen Schottland real (Top-12-FIFA-Rank vs ~Top-40).",
+        "motivations_asymmetrie": "Marokko muss mehr (1 Pkt nach Brasilien-Remis vs Schottlands 3 Pkt nach Haiti-Sieg) UND Klassen-Edge real (Marokko hat WM 2022 Halbfinale erreicht, aktuelle Generation top: Hakimi PSG-CL-Sieger 2025, En-Nesyri Topscorer Türkei-Liga). Schottland wird wieder tief stehen + auf Counter setzen wie gegen Haiti. Anti-Klassen-Edge-Erwartung: Schottland-Block schwer zu knacken.",
+        "recovery_heim": "Spieltag 1 am 13.06 (1:0 vs HAI) - 6 Tage Pause. Voller Kader fit. McTominay (Tor vs Haiti) als Stütze.",
+        "recovery_gast": "Spieltag 1 am 14.06 (1:1 vs BRA) - 5 Tage Pause. Hakimi (PSG-Kapitän) fit nach Pre-WM-CL-Saison. En-Nesyri 18 Tore Süper Lig 25/26.",
+        "quellen": [
+          "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021454",
+          "https://www.espn.com/soccer/match/_/gameId/760445/morocco-scotland",
+          "https://www.foxsports.com/soccer/fifa-world-cup-men-scotland-vs-morocco-jun-19-2026-game-boxscore-647646",
+          "https://www.skysports.com/football/scotland-vs-morocco/549795"
+        ]
+      },
+      "news": [
+        "Marokko 1:1 vs Brasilien (Hakimi 71') - Klassen bewiesen.",
+        "Schottland 1:0 vs Haiti (McTominay) — defensiv stark aber wenig Tore.",
+        "En-Nesyri 18 Tore Süper Lig 25/26 — Top-Form (Form-Edge real).",
+        "Hakimi PSG-CL-Sieger 2025, Saison 25/26 abgeschlossen — fit.",
+        "Schottland-Block-Defense + Counter Strategie — Marokko muss Block knacken."
+      ],
+      "tipps": [
+        {
+          "kategorie": "wackel",
+          "markt": "Marokko Sieg",
+          "quote": 1.74,
+          "edge_prozent": 3.0,
+          "empfohlener_einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Klassen-Edge Marokko real (FIFA-Rank ~12 vs Schottland ~40, WM-HF-Vergangenheit 2022, Hakimi/En-Nesyri-Klasse) ABER Lesson 8b (Sieg-Quote-Cluster-Brick 1.50-2.00-Slot Tag 6 validiert) AKTIV → Quote 1.74 fällt direkt in Brick-Korridor. Max WACKEL. Schottland-Block-Defense schwer zu knacken (Haiti zwar nicht maßgeblich aber 1 Tor reichte). Quote via ESPN-Odds.",
+          "reality_check": "Klassen-Edge real aber Brick-Korridor → max wackel.",
+          "faire_quote": 1.68
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Youssef En-Nesyri trifft jederzeit",
+          "quote": 2.6,
+          "edge_prozent": 5.0,
+          "empfohlener_einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Markt-Goldgrube Torschützen (+20.4% ROI). En-Nesyri 18 Tore Süper Lig 25/26 = Form-Edge maximal. Box-Striker 9er, Schottland-Mannschafts-Größe (Robertson 1.78m, etc) hilft nicht gegen En-Nesyris Höhe (1.89m). Per Lesson 8a (9er-Form-Edge-Cluster-Brick) auf wackel runter — nicht VALUE. Quelle: ESPN Aufstellungs-Preview. [Auto: Verein-Quelle Fenerbahce fehlt → max wackel]",
+          "reality_check": "Form-Edge 9er Goldgrube aber Lesson-8a-Brick.",
+          "faire_quote": 2.48,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.85,
+          "edge_prozent": 4.0,
+          "empfohlener_einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Markt-Goldgrube Unter 2.5 (+29.2% ROI). Schottland-Block-Defense (gegen Haiti 0 Gegentore) + WM-Spieltag-2-Vorsicht-Pattern + Marokko-Klassen will kontrolliert spielen. Hist. Schottland-Spiele Unter 2.5: 4 von 6 letzten Pflichtspielen Unter 2.5. Quote 1.85 = 54% implied vs faire ~58%.",
+          "reality_check": "Goldgrube + Schottland-Defense-Pattern + WM-Spieltag-2-Druck-Vorsicht.",
+          "faire_quote": 1.72
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Achraf Hakimi trifft jederzeit",
+          "quote": 4.5,
+          "edge_prozent": 4.0,
+          "empfohlener_einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Markt-Goldgrube Torschützen. Hakimi Tor gegen Brasilien (71') = Form-Edge bestätigt + Standard-Bedrohung von Außen-Verteidiger. PSG-Karriere-Stärke + Ziyech-/Hakimi-Standards bei Block-Defense oft Schlüssel. Joker-Bein. [Auto: Verein-Quelle fehlt - max wackel]",
+          "reality_check": "Form-Edge + Standards-Threat Joker-Profil.",
+          "faire_quote": 4.32,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "kategorie": "moonshot",
+          "markt": "Marokko Sieg mit Unter 2.5 Tore",
+          "quote": 3.3,
+          "edge_prozent": 5.0,
+          "empfohlener_einsatz_euro": 0.55,
+          "empfohlener_einsatz_prozent": 0.1,
+          "begruendung": "Moonshot-Profil: 1:0 / 2:1 für Marokko via En-Nesyri oder Hakimi-Standard gegen Schottland-Block. WM-Spieltag-2-Vorsicht-Pattern + Schottland-Defense-Stärke unterstützt knappes Ergebnis. Spaßeinsatz.",
+          "reality_check": "Eigene Tipps konsistent (Marokko-Sieg + Unter 2.5 Bausteine).",
+          "faire_quote": 3.13
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 0,
+        "gast": 1,
+        "endstand": "0:1",
+        "kommentar": "Schottland 0:1 Marokko — Ismael Saibari 2' (schnellstes Tor WM 2026 bisher). En-Nesyri NICHT im Spieltag-Squad (Ouahbi-Entscheidung). Hakimi spielte als Kapitaen, traf nicht. McTominay-Elfmeter-Forderung abgelehnt."
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "0:1",
+        "tore": [
+          {
+            "min": 2,
+            "team": "gast",
+            "spieler": "Ismael Saibari",
+            "stand_danach": "0:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Marokko fuehrte ab 2. Min und Schottland-Block-Defense + Marokko-Klassen brachten den Sieg ohne weitere Tore. Erwartetes Block-Spiel-Profil."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Marokko/Marokko",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "En-Nesyri",
+            "details": "Bank/Out — Ouahbi liess den 18-Tore-Topscorer KOMPLETT raus aus Spieltag-Squad. Form-Edge-Tipp ohne Kader-Bestaetigung tot."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Saibari-2'-Goal = schnellster Treffer WM 2026 bisher — Unter-2.5-Tipp profitierte direkt vom fruehen Tor + Schottland-Block-Mechanik (keine offene Partie noetig).",
+          "En-Nesyri-Pre-Match-Squad-Ausfall validiert Lesson 8i Pflicht-Backup-Sub-Scan: Marokko-Block-Strategie wechselt zu Saibari/Brahim/Ounahi statt 9er-Volume — Form-Edge auf nominellen Topscorer ohne Aufstellungs-Bestaetigung ist FALLE.",
+          "Hakimi spielte 90' aber Standard-Threat blieb stumm — kein Standard-Tor, kein Hakimi-Tipp-Hit. Joker-Bein-Charakter bestaetigt (Quote 4.5 = ~22% impl. fair)."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "markt": "Marokko Sieg",
+          "kategorie": "wackel",
+          "quote": 1.74,
+          "empfohlener_einsatz_euro": 2.75,
+          "status": "gewonnen",
+          "kommentar": "Marokko 0:1 Sieg via Saibari 2'. Klassen-Edge bestaetigt trotz Brick-Korridor-Quote."
+        },
+        {
+          "markt": "Youssef En-Nesyri trifft jederzeit",
+          "kategorie": "wackel",
+          "quote": 2.6,
+          "empfohlener_einsatz_euro": 2.75,
+          "status": "verloren",
+          "kommentar": "En-Nesyri NICHT im Spieltag-Squad — Ouahbi-Entscheidung Pre-Match. Saibari startete als 9er. Kein Einwechslungs-Boost moeglich (En-Nesyri wurde nicht ausgewechselt, er war gar nicht im Kader)."
+        },
+        {
+          "markt": "Unter 2.5 Tore",
+          "kategorie": "wackel",
+          "quote": 1.85,
+          "empfohlener_einsatz_euro": 2.75,
+          "status": "gewonnen",
+          "kommentar": "Endstand 0:1 = 1 Tor < 2.5. Goldgrube-Markt + Schottland-Block-Defense + Marokko-Klassen-Kontrolle = saubere Hit."
+        },
+        {
+          "markt": "Achraf Hakimi trifft jederzeit",
+          "kategorie": "wackel",
+          "quote": 4.5,
+          "empfohlener_einsatz_euro": 2.75,
+          "status": "verloren",
+          "kommentar": "Hakimi spielte als Kapitaen 90', traf nicht. Standards-Threat blieb stumm. Joker-Bein-Quote-4.5-Profil korrekt eingestuft (~22% impl)."
+        },
+        {
+          "markt": "Marokko Sieg mit Unter 2.5 Tore",
+          "kategorie": "moonshot",
+          "quote": 3.3,
+          "empfohlener_einsatz_euro": 0.55,
+          "status": "gewonnen",
+          "kommentar": "Beide Bedingungen erfuellt: Marokko-Sieg + 0:1 (Unter 2.5). Moonshot-Hit @ 3.3 = +1.27€ Gewinn."
+        }
+      ]
+    },
+    {
+      "id": "2026-06-19-tur-par",
+      "liga": "FIFA World Cup 2026 - Gruppe D - Spieltag 2",
+      "heim": "Türkei",
+      "gast": "Paraguay",
+      "anstoss": "2026-06-20T03:00:00+02:00",
+      "stadion": "Levi's Stadium, Santa Clara/SF (USA)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM-Gruppenphase Spieltag 2. Türkei-Spieler primär Serie A (Calhanoglu/Inter, Yildiz/Juventus, Demiral/Al-Ahli), Saisons abgeschlossen.",
+        "parallel_gast": "keine - WM-Gruppenphase Spieltag 2. Paraguay-Spieler aus Brasilien Serie A + Argentinien Liga, Saisons in der Pause/abgeschlossen.",
+        "saisonziel_heim": "Achtelfinal-Quali stark gefährdet nach 0:2 vs Australien (Duke, Irvine) - 0 Pkt, Platz 4 Gruppe D. MUST-WIN heute, sonst rechnerisch fast raus.",
+        "saisonziel_gast": "Achtelfinal-Quali stark gefährdet nach 1:4 vs USA (Almiron Anschlusstor) - 0 Pkt, Platz 3 Gruppe D. MUST-WIN ebenfalls — bei Niederlage definitiv raus.",
+        "motivations_asymmetrie": "Maximaler MUST-WIN-Druck beidseitig (beide 0 Pkt, beide brauchen Sieg sonst rechnerisch ausgeschieden). Türkei-Klassen-Edge real (Calhanoglu/Yildiz/Demiral Top-Niveau vs Paraguay Mid-Tier-Südamerika), aber Yildiz Verletzungs-Rückkehr (Auswechslung wegen Verletzung vs Australien) Doubt. Open-Coinflip-Charakter.",
+        "recovery_heim": "Spieltag 1 am 13.06 (0:2 vs AUS) - 6 Tage Pause. Yildiz Auswechslung vs AUS wegen Verletzung — laut Squawka 'sollte fit für Paraguay'. Calhanoglu fit. Demiral fit.",
+        "recovery_gast": "Spieltag 1 am 13.06 (1:4 vs USA) - 6 Tage Pause. Voller Kader fit, keine Suspendierungen, Almiron + Sosa Stamm.",
+        "quellen": [
+          "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021455",
+          "https://www.espn.com/soccer/odds/_/gameId/760443",
+          "https://www.squawka.com/us/news/world-cup/match-preview-turkey-vs-paraguay-06-19-26-world-cup-2026/",
+          "https://sports.betmgm.com/en/blog/world-cup/turkey-vs-paraguay-prediction-odds-preview-world-cup-june-19-bm16/",
+          "https://www.covers.com/world-cup/turkey-vs-paraguay-prediction-picks-odds-friday-6-19-2026"
+        ]
+      },
+      "news": [
+        "Türkei 0:2 vs Australien Spieltag 1 — Yildiz verletzungsbedingt ausgewechselt, sollte fit zurück sein.",
+        "Paraguay 1:4 vs USA Spieltag 1 (Almiron Anschluss) — defensiv komplett überspielt.",
+        "Calhanoglu Inter-Saison 25/26 (CL-HF erreicht) — Top-Form aber Müdigkeit-Risiko nach langer Saison.",
+        "Beide 0 Pkt = MUST-WIN-beidseitig — Open-Coinflip mit Türkei-Klassen-Edge."
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Doppelte Chance Türkei (1X)",
+          "quote": 1.4,
+          "edge_prozent": 5.0,
+          "empfohlener_einsatz_euro": 8.25,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Markt-Goldgrube Doppelte Chance 1X (+9.5% ROI). Türkei-Klassen-Edge real (Calhanoglu Inter-CL-HF, Yildiz Juventus-Talent, Demiral Saudi-Solid-CB) + Heim-MUST-WIN-Druck. Quote 1.40 = 71% implied vs faire ~75%. DC weicht Sieg-Cluster-Brick aus (Lesson 8b). Per Lesson 8a (9er-Form-Edge-Brick): Yildiz-Tor allein nicht hochwertig - DC stabiler. Quelle: ESPN-Odds.",
+          "reality_check": "Klassen-Edge + Heim-MUST-WIN + DC-Goldgrube + Brick-Ausweich.",
+          "faire_quote": 1.33
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Kenan Yildiz trifft jederzeit",
+          "quote": 3.4,
+          "edge_prozent": 4.0,
+          "empfohlener_einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Markt-Goldgrube Torschützen. Yildiz Juventus-Saison 25/26 mit 12 Toren + Top-Talent + Form-Edge ABER Verletzungs-Rückkehr (Doubt-Faktor) → max WACKEL. CLAUDE.md Heim-Favorit-Pflicht: Torschützen-Tipp PFLICHT bei DC-Favorit. [Auto: Quelle Juventus fehlt - max wackel]",
+          "reality_check": "Form-Edge + Goldgrube aber Yildiz-Verletzung-Doubt → wackel.",
+          "faire_quote": 3.27,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Über 2.5 Tore",
+          "quote": 2.0,
+          "edge_prozent": 3.0,
+          "empfohlener_einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Markt-Goldgrube Über 2.5 (+30.1% ROI). MUST-WIN-Symmetrie beider = beide müssen Risiko gehen → offene Partie wahrscheinlich. ABER: Per Lesson 8b/8c MUST-WIN-Konstellation kann auch in vorsichtigem Beginn enden (Anti-Push-Pattern) → wackel.",
+          "reality_check": "Goldgrube + MUST-WIN-Symmetrie aber Anti-Push-Risiko.",
+          "faire_quote": 1.94
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Hakan Calhanoglu trifft jederzeit",
+          "quote": 4.0,
+          "edge_prozent": 3.0,
+          "empfohlener_einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Markt-Goldgrube Torschützen. Calhanoglu Inter-CM mit Freistoß-/Elfmeter-Specialist-Status + Standards-Threat + langer CL-HF-Saison-Müdigkeits-Risiko (Inter CL-HF gegen Real). Backup-Pflicht falls Yildiz nicht startet. [Auto: Quelle Inter fehlt - max wackel]",
+          "reality_check": "Standards-Threat + Backup-Pflicht aber Müdigkeits-Risiko.",
+          "faire_quote": 3.88,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "kategorie": "moonshot",
+          "markt": "Türkei Sieg + Über 2.5 Tore",
+          "quote": 3.5,
+          "edge_prozent": 6.0,
+          "empfohlener_einsatz_euro": 0.55,
+          "empfohlener_einsatz_prozent": 0.1,
+          "begruendung": "Moonshot-Profil: MUST-WIN-Druck + Türkei-Klassen-Edge → 2:1 / 3:1 Türkei plausibel. Calhanoglu + Yildiz + Demiral-Defense gegen Paraguay-Mid-Tier reicht. Spaßeinsatz.",
+          "reality_check": "Eigene Tipps (DC + Über 2.5 Bausteine) konsistent.",
+          "faire_quote": 3.3
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 0,
+        "gast": 1,
+        "endstand": "0:1",
+        "kommentar": "Tuerkei 0:1 Paraguay — Matias Galarza ca. 2. Min (schnellstes Tor WM 2026 nahezu gleichauf mit Saibari). Almiron Rot 45+3 (Mund-Bedeckung-Regel) — Paraguay 45 Min in Unterzahl, hielt 0:1 mit Galarza-Tor von 10 Mann. Tuerkei ausgeschieden."
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "0:1",
+        "tore": [
+          {
+            "min": 2,
+            "team": "gast",
+            "spieler": "Matias Galarza",
+            "stand_danach": "0:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Paraguay fuehrte ab 2. Min, ueberlebte Rote Karte Almiron (45+3) mit 10 Mann ueber 45+ Min und behielt den knappen Sieg. Tuerkei-Druck-Tore blieben aus trotz Yildiz-/Calhanoglu-Schuessen (48', 58', 62')."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Paraguay/Paraguay",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Akturkoglu",
+            "details": "45' raus fuer B. Yilmaz — Halbzeit-Wechsel als Reaktion auf 0:1-Rueckstand."
+          },
+          {
+            "team": "heim",
+            "spieler": "Yuksek",
+            "details": "60' raus fuer Uzun."
+          },
+          {
+            "team": "heim",
+            "spieler": "Akgun",
+            "details": "60' raus fuer D. Gul."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Paraguay-Underdog-Coup gegen MUST-WIN-Tuerkei + 45 Min in Unterzahl gehalten — Validierung Lesson 8b 1.50-2.00-Sieg-Brick-Korridor (Tuerkei-DC 1.40 nicht ganz im Brick aber Klassen-Edge-These war falsch).",
+          "Triple-Tuerkei-Sub-Welle in 1./2. HZ ohne Tor-Effekt — Lesson 8h Rotation-Pattern: MUST-WIN-Druck + fruehe Rueckstaende fuehren zu Hektik-Subs statt strukturiertem Comeback.",
+          "Yildiz + Calhanoglu Schuesse 48'/58'/62' aber ohne Tor — Volume-Star-Schuesse generieren bei MUST-WIN-Druck nicht automatisch Tore. Torschuetzen-Tipps auf Hektik-Match-Stars hatten kein Edge.",
+          "Galarza-2'-Goal + Saibari-2'-Goal am gleichen Tag = TAG-PATTERN 'WM Spieltag 2 Underdog-Fruehfuehrung-Cluster'."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "markt": "Doppelte Chance Türkei (1X)",
+          "kategorie": "value",
+          "quote": 1.4,
+          "empfohlener_einsatz_euro": 8.25,
+          "status": "verloren",
+          "kommentar": "Tuerkei 0:1 Niederlage — Paraguay-Underdog-Sieg trotz Almiron-Rot ab 45+3. DC 1X verfehlt."
+        },
+        {
+          "markt": "Kenan Yildiz trifft jederzeit",
+          "kategorie": "wackel",
+          "quote": 3.4,
+          "empfohlener_einsatz_euro": 2.75,
+          "status": "verloren",
+          "kommentar": "Yildiz spielte, Schuesse 48' + 62' aber kein Tor. Keine bestaetigte Auswechslung von Yildiz vor Spielende — kein Einwechslungs-Boost-Trigger."
+        },
+        {
+          "markt": "Über 2.5 Tore",
+          "kategorie": "wackel",
+          "quote": 2.0,
+          "empfohlener_einsatz_euro": 2.75,
+          "status": "verloren",
+          "kommentar": "Endstand 0:1 = 1 Tor < 2.5. MUST-WIN-Symmetrie endete in Anti-Push-Pattern (knappes 0:1 mit Tuerkei in Unterzahl-Druck der nicht durchkam) — exakt das Risiko aus der eigenen Begruendung."
+        },
+        {
+          "markt": "Hakan Calhanoglu trifft jederzeit",
+          "kategorie": "wackel",
+          "quote": 4.0,
+          "empfohlener_einsatz_euro": 2.75,
+          "status": "verloren",
+          "kommentar": "Calhanoglu Schuss 58' aber kein Tor. Standards-Threat blieb stumm. Inter-CL-HF-Muedigkeit eventuell sichtbar."
+        },
+        {
+          "markt": "Türkei Sieg + Über 2.5 Tore",
+          "kategorie": "moonshot",
+          "quote": 3.5,
+          "empfohlener_einsatz_euro": 0.55,
+          "status": "verloren",
+          "kommentar": "Beide Bedingungen verfehlt: weder Tuerkei-Sieg (0:1) noch Ueber 2.5 (1 Tor)."
+        }
+      ]
+    }
+  ],
+  "einzeltipps": [
+    {
+      "spiel_id": "2026-06-19-bra-hai",
+      "kategorie": "safe",
+      "markt": "Brasilien Sieg",
+      "quote": 1.1,
+      "edge_prozent": 4.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Einziger SAFE-Kandidat heute — Klassen-Edge maximal (3 Klassen-Unterschied, Haiti faktisch ausgeschieden), Sieg-Brick-Lesson greift nur 1.50-2.00, Brasilien-Tor-Druck wegen Tordifferenz für Gruppensieg. 2:0-Insurance bei bet365 + WM 2026 zwingend bei direktem Sieg-Tipp.",
+      "faire_quote": 1.06,
+      "reality_check": "SAFE-Hitrate-Reality nur bei Klassen-Edge sehr hoch + Quote <1.20.",
+      "rang": 1
+    },
+    {
+      "spiel_id": "2026-06-19-bra-hai",
+      "kategorie": "safe",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.35,
+      "edge_prozent": 6.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Markt-Goldgrube Über 2.5 (+30.1% ROI). Brasilien historisch nie unter 6 Tore vs Haiti + Tordifferenz-Druck wegen Marokko-Remis. Klassen-Edge.",
+      "faire_quote": 1.18,
+      "reality_check": "Goldgrube + historische Klassen-Eskalation.",
+      "rang": 2
+    },
+    {
+      "spiel_id": "2026-06-19-bra-hai",
+      "kategorie": "wackel",
+      "markt": "Vinicius Jr trifft jederzeit",
+      "quote": 1.95,
+      "edge_prozent": 7.0,
+      "empfohlener_einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Markt-Goldgrube Torschützen (+20.4% ROI). Real-Madrid LM + Volume-Star + Klassen-Edge gegen Haiti-RV. Mbappe-Backup-Profile aus CLAUDE.md.",
+      "faire_quote": 1.82,
+      "reality_check": "Form + Goldgrube + Klassen-Edge stützt VALUE trotz Lesson 8a.",
+      "rang": 3
+    },
+    {
+      "spiel_id": "2026-06-19-bra-hai",
+      "kategorie": "wackel",
+      "markt": "Raphinha trifft jederzeit",
+      "quote": 2.1,
+      "edge_prozent": 6.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Markt-Goldgrube. Raphinha bereits Tor gegen Marokko = Form-Edge bestätigt + Barcelona-Volume-Star.",
+      "faire_quote": 1.98,
+      "reality_check": "Form-Edge bestätigt + Goldgrube.",
+      "rang": 4
+    },
+    {
+      "spiel_id": "2026-06-19-usa-aus",
+      "kategorie": "wackel",
+      "markt": "Doppelte Chance USA (1X)",
+      "quote": 1.22,
+      "edge_prozent": 4.5,
+      "empfohlener_einsatz_euro": 11.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "Goldgrube DC + Klassen-Edge + Heim-Vorteil Lumen Field + DC weicht Sieg-Brick (Lesson 8b) aus. Australien-Toure-Doubt.",
+      "faire_quote": 1.16,
+      "reality_check": "DC stabiler als Sieg in Brick-Korridor.",
+      "rang": 5
+    },
+    {
+      "spiel_id": "2026-06-19-usa-aus",
+      "kategorie": "wackel",
+      "markt": "Christian Pulisic trifft jederzeit",
+      "quote": 2.5,
+      "edge_prozent": 8.0,
+      "empfohlener_einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Form-Edge maximal (1 Tor + 1 Assist vs PAR, 12 Tore Milan-Saison) + Heim-Star + Goldgrube.",
+      "faire_quote": 2.3,
+      "reality_check": "Form-Edge real + Heim-Favorit-Pflicht.",
+      "rang": 6
+    },
+    {
+      "spiel_id": "2026-06-19-tur-par",
+      "kategorie": "value",
+      "markt": "Doppelte Chance Türkei (1X)",
+      "quote": 1.4,
+      "edge_prozent": 5.0,
+      "empfohlener_einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Klassen-Edge real (Calhanoglu/Yildiz/Demiral Top-Niveau) + Heim-MUST-WIN-Druck. DC-Goldgrube + Brick-Ausweich.",
+      "faire_quote": 1.33,
+      "reality_check": "DC + Goldgrube + Klassen-Edge.",
+      "rang": 7
+    }
+  ],
+  "kombis": [
+    {
+      "name": "Safe-Kombi",
+      "kategorie": "safe",
+      "gesamtquote": 1.88,
+      "empfohlener_einsatz_euro": 11.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "beine": [
+        {
+          "spiel_id": "2026-06-19-bra-hai",
+          "markt": "Brasilien Sieg",
+          "quote": 1.1
+        },
+        {
+          "spiel_id": "2026-06-19-usa-aus",
+          "markt": "Doppelte Chance USA (1X)",
+          "quote": 1.22
+        },
+        {
+          "spiel_id": "2026-06-19-tur-par",
+          "markt": "Doppelte Chance Türkei (1X)",
+          "quote": 1.4
+        }
+      ],
+      "begruendung": "3-Bein Sieg-Outcome-Kombi mit hoher Hitrate. Brasilien-Klassen-Edge maximal (Quote unter Brick-Korridor), USA + Türkei DC weichen Sieg-Brick (Lesson 8b) aus. Gesamtquote bewusst niedrig (1.88x) wegen WM-Spieltag-2-Vorsicht-Pattern. Stufe 1 Kasse 550€ → 2% = 11€."
+    },
+    {
+      "name": "Balance-Kombi",
+      "kategorie": "balance",
+      "gesamtquote": 6.57,
+      "empfohlener_einsatz_euro": 4.4,
+      "empfohlener_einsatz_prozent": 0.8,
+      "beine": [
+        {
+          "spiel_id": "2026-06-19-bra-hai",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.35
+        },
+        {
+          "spiel_id": "2026-06-19-usa-aus",
+          "markt": "Folarin Balogun trifft jederzeit",
+          "quote": 2.8
+        },
+        {
+          "spiel_id": "2026-06-19-sco-mar",
+          "markt": "Marokko Sieg",
+          "quote": 1.74
+        }
+      ],
+      "begruendung": "Balance-Kombi mischt Über-Goldgrube (Brasilien) + Torschütze-Goldgrube (Balogun Form-Edge nach Doppelpack vs PAR) + Marokko-Klassen-Edge. Layer-1 OK (3 verschiedene Spiele), Layer-2 OK (kein Sieg-Outcome aus Safe-Kombi-Spielen wiederholt), Layer-3 OK (alle Beine in Balance neu)."
+    },
+    {
+      "name": "Risiko-Kombi",
+      "kategorie": "risk",
+      "gesamtquote": 22.1,
+      "empfohlener_einsatz_euro": 1.4,
+      "empfohlener_einsatz_prozent": 0.25,
+      "beine": [
+        {
+          "spiel_id": "2026-06-19-usa-aus",
+          "markt": "Christian Pulisic trifft jederzeit",
+          "quote": 2.5
+        },
+        {
+          "spiel_id": "2026-06-19-sco-mar",
+          "markt": "Youssef En-Nesyri trifft jederzeit",
+          "quote": 2.6
+        },
+        {
+          "spiel_id": "2026-06-19-tur-par",
+          "markt": "Kenan Yildiz trifft jederzeit",
+          "quote": 3.4
+        }
+      ],
+      "begruendung": "Triple-Torschütze-Goldgrube (+20.4% ROI Markt) auf Heim-Star-Spieler. Pulisic (Form-Edge), En-Nesyri (18 Tore Süper Lig 25/26), Yildiz (Juventus-Form, Verletzungs-Rückkehr-Doubt). Layer-1 OK (3 verschiedene Spiele), Layer-2 OK (keine Sieg-Outcomes), Layer-3 OK (Pulisic nicht in Balance/Safe)."
+    },
+    {
+      "name": "Moonshot-Kombi",
+      "kategorie": "moonshot",
+      "gesamtquote": 58.5,
+      "empfohlener_einsatz_euro": 0.55,
+      "empfohlener_einsatz_prozent": 0.1,
+      "beine": [
+        {
+          "spiel_id": "2026-06-19-bra-hai",
+          "markt": "Über 4.5 Tore",
+          "quote": 3.25
+        },
+        {
+          "spiel_id": "2026-06-19-sco-mar",
+          "markt": "Achraf Hakimi trifft jederzeit",
+          "quote": 4.5
+        },
+        {
+          "spiel_id": "2026-06-19-tur-par",
+          "markt": "Hakan Calhanoglu trifft jederzeit",
+          "quote": 4.0
+        }
+      ],
+      "begruendung": "Moonshot-Spaß-Einsatz. Brasilien hist. 6+ Tore vs Haiti + Hakimi Standards-Threat (1 Tor vs BRA bewiesen) + Çalhanoğlu Freistoß-Specialist. 58x bei 0.55€ = bei Hit 32€-Gewinn (5.8% Kasse). Layer-1/2/3 alle clean."
+    }
+  ],
+  "lessons_angewandt": [
+    {
+      "datum": "2026-06-19",
+      "kategorie": "Lesson 8a (WM-9er-Form-Edge-Cluster-Brick Tag 8 → Cluster-Brick aktiv)",
+      "anwendung": "Balogun + Vinicius + Raphinha + Pulisic + En-Nesyri + Yildiz alle Form-Edge-9er → ALLE max VALUE (statt SAFE). Kein 9er-Form-Edge als SAFE-Anker. Brasilien-SAFE allein durch Klassen-Edge + Sieg-Quote-Unter-Brick (1.10)."
+    },
+    {
+      "datum": "2026-06-19",
+      "kategorie": "Lesson 8b (Sieg-Quote-Cluster-Brick 1.50-2.00 Tag 6 validiert)",
+      "anwendung": "USA Sieg @ 1.55-1.60 + Marokko Sieg @ 1.74 + Türkei Sieg @ 2.05 ALLE im Brick-Korridor → keine SAFE-Sieg-Tipps. USA Sieg auf DC 1X (1.22) ausgewichen, Marokko Sieg max WACKEL, Türkei Sieg auf DC 1X (1.40) ausgewichen. Brasilien Sieg @ 1.10 UNTER Brick-Korridor → SAFE legitim."
+    },
+    {
+      "datum": "2026-06-19",
+      "kategorie": "Lesson 8g (Spät-Tor-Cluster WM-Spieltag-2 80+min 3-von-4)",
+      "anwendung": "BTTS-NEIN-Tipps systematisch downgraded → kein BTTS-NEIN heute. Stattdessen Unter 2.5 (Schottland-Marokko) als sauberer Markt — kein 90+min-Equalizer-Risiko da Linie statisch."
+    },
+    {
+      "datum": "2026-06-19",
+      "kategorie": "Lesson 8i (Junge Sub-Talente Pool aktiv — Manzambi-Doppelpack 18.06 ohne Tipp)",
+      "anwendung": "Backup-Sub-Scan: Brasilien hat Endrick / Igor Jesus als Sub-Talente, USA hat Reyna als Sub-Joker, Türkei hat Akturkoglu. Aktuelle Tipps fokussieren Starter-Volume-Stars (Vinicius/Pulisic/Yildiz) — Sub-Joker bewusst nicht aufgenommen wegen Aufstellungs-Unsicherheit (Aufstellung erst 1h vor Anstoss bestätigt)."
+    },
+    {
+      "datum": "2026-06-19",
+      "kategorie": "Goldgrube-Markt-Konzentration (Über 2.5 +30.1% / Torschützen Jederzeit +20.4% / DC X2 +18.9%)",
+      "anwendung": "Risiko-Kombi triple-Torschütze + Balance Über 2.5 + DC-Tipps systematisch eingebaut. Markt-Bluter Spread/Handicap (-10.5%) komplett gemieden."
+    },
+    {
+      "datum": "2026-06-19",
+      "kategorie": "CLAUDE.md Heim-Favorit-Pflicht (Quote < 1.80 → Torschützen-Tipp PFLICHT)",
+      "anwendung": "Brasilien (1.10) → Vinicius + Raphinha Anytime erfüllt. USA (DC 1.22) → Pulisic Anytime erfüllt. Türkei (DC 1.40) → Yildiz Anytime erfüllt."
+    },
+    {
+      "datum": "2026-06-19",
+      "kategorie": "CLAUDE.md 2:0-Insurance bet365 WM 2026 aktiv",
+      "anwendung": "Brasilien Sieg-Tipp profitiert von 2:0-Insurance (selbst falls Haiti spät 2 Tore aufholen würde wäre 2:0-Insurance ausreichend). Marokko Sieg und Türkei DC ähnlich gestützt — alle direkten Sieg-Tipps in WM 2026."
+    },
+    {
+      "datum": "2026-06-19",
+      "kategorie": "Watchdog-Recovery 17:15 (Hauptroutine 16:00 nicht durchgelaufen)",
+      "anwendung": "Komplette Tipps-Generation als Recovery durchgeführt — 4 Spiele (USA-AUS, BRA-HAI, SCO-MAR, TUR-PAR) inkl. saison_kontext + Pinnacle-Recherche + Goldgrube-Filter."
+    }
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA Glücksspielsucht-Hotline: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-06-19T18:30:00+02:00",
+    "modus": "post-watchdog-master-final",
+    "drops": [],
+    "downgrades": [],
+    "fixes": [
+      {
+        "art": "einzeltipps_kategorie_sync",
+        "spiel_id": "2026-06-19-bra-hai",
+        "markt": "Brasilien Sieg",
+        "alt": "wackel",
+        "neu": "safe",
+        "grund": "spiele[].tipps Kategorie safe, einzeltipps[] hatte wackel — kanonisch (Quote 1.10 + Klassen-Edge maximal + Begründung 'Einziger SAFE-Kandidat') = safe."
+      },
+      {
+        "art": "einzeltipps_kategorie_sync",
+        "spiel_id": "2026-06-19-bra-hai",
+        "markt": "Über 2.5 Tore",
+        "alt": "wackel",
+        "neu": "safe",
+        "grund": "spiele[].tipps Kategorie safe (Goldgrube-Markt + Brasilien historisch nie <6 Tore vs Haiti) — einzeltipps[] synchronisiert."
+      },
+      {
+        "art": "kombi_bein_markt_normalisierung",
+        "spiel_id": "2026-06-19-tur-par",
+        "markt_alt": "Hakan Çalhanoğlu trifft jederzeit",
+        "markt_neu": "Hakan Calhanoglu trifft jederzeit",
+        "grund": "Moonshot-Kombi-Bein hatte Diakritika (Ç, ğ) während spiele[].tipps ASCII-Variante nutzt — Markt-String-Match war broken, Mapper-Layer-Check hätte Bein nicht gefunden."
+      }
+    ],
+    "warns": [
+      {
+        "art": "torschuetze_quelle_fehlt",
+        "tipps_betroffen": [
+          "Vinicius Jr (BRA)",
+          "Raphinha (BRA)",
+          "Pulisic (USA)",
+          "Balogun (USA)",
+          "En-Nesyri (MAR)",
+          "Hakimi (MAR)",
+          "Yildiz (TUR)",
+          "Calhanoglu (TUR)"
+        ],
+        "details": "Alle Torschützen-Tipps haben keine Verein-Player-Seite (transfermarkt/kicker/espn-player) in saison_kontext.quellen[]. Mapper hat sie auto-degradiert auf wackel (_torschuetze_quelle_warn). Konsistent mit aktueller Lesson 8a-Brick (9er-Form-Edge-Cluster Tag 8) — kein VALUE/SAFE-Torschütze heute."
+      },
+      {
+        "art": "watchdog_recovery_label",
+        "details": "Hinweis-Text zeigt 'WATCHDOG-RECOVERY 17:15' — File wurde initial vom 17:15-Watchdog generiert nachdem Hauptroutine 16:00 nicht durchlief. Master-Routine 18:30 hat das File NICHT komplett neu gebaut (Recherche-File fehlt, Daten identisch), sondern verifiziert + Inkonsistenzen gefixt."
+      },
+      {
+        "art": "anstoss_zeit_doublecheck",
+        "spiel_id": "2026-06-19-tur-par",
+        "details": "Day-Tipps anstoss = 2026-06-20T03:00+02:00, Wochenende-Recherche (20.06) anstoss = 2026-06-20T06:00+02:00. 3h-Differenz. Beide Spiele referenzieren dasselbe TUR-PAR-Match (Levi's Stadium Santa Clara) — Wochenende-Variante 06:00 (Sat 00:00 ET) ist die FIFA-publizierte Zeit. Day-Tipps-ID 2026-06-19-tur-par bleibt erhalten (Window-Date-ID-Konvention), aber Anstoßzeit ggf. bei bet365 live verifizieren."
+      }
+    ],
+    "layer_check": {
+      "layer_1_max_1_bein_pro_spiel_pro_kombi": "OK (jeder Kombi nutzt max 1 Bein pro Spiel)",
+      "layer_2_sieg_outcome_max_1_kombi": "OK (BRA-Sieg Safe, USA-DC Safe, TUR-DC Safe, MAR-Sieg Balance — jedes Spiel-Sieg-Outcome max 1 Kombi)",
+      "layer_3_spiel_max_1_kombi_wo_moeglich": "WEICH (jedes Spiel in 3 von 4 Kombis — bei nur 4 Spielen unvermeidbar, Markt-Diversifikation aktiv)"
+    },
+    "quoten_check": {
+      "safe_kombi": "1.10 × 1.22 × 1.40 = 1.88 ✓",
+      "balance_kombi": "1.35 × 2.80 × 1.74 = 6.58 ≈ 6.57 ✓",
+      "risiko_kombi": "2.50 × 2.60 × 3.40 = 22.10 ✓",
+      "moonshot_kombi": "3.25 × 4.50 × 4.00 = 58.50 ✓"
+    },
+    "halluzinations_check": "OK - keine erfundenen Spielernamen. Pulisic/Balogun/Reyna (USA-Stamm), Vinicius/Raphinha/Neymar (Brasilien-Stamm), En-Nesyri/Hakimi (Marokko-Stamm), Yildiz/Calhanoglu (Türkei-Stamm), Duke/Irvine (Australien-Stamm) — alle real und im jeweiligen Nationalteam-Kontext plausibel.",
+    "selbstwiderspruchs_check": "OK - keine 'OUT + Tipp-baut-auf-X'-Konflikte gefunden. Toure-Doubt (Australien) korrekt als Doubt markiert, kein Tipp auf ihn. Yildiz-Verletzungs-Rückkehr korrekt als Risiko-Faktor in wackel-Tipp eingearbeitet.",
+    "gesamt_status": "OK - 3 Fixes, 3 Warns, 0 Drops. Pipeline-fertig.",
+    "kasse_check": "Kasse 550€ (Stufe 1) — Einsätze: Safe-Kombi 11€ (2%), Balance-Kombi 4.40€ (0.8%), Risiko-Kombi 1.40€ (0.25%), Moonshot 0.55€ (0.1%). Einzeltipps SAFE/VALUE 5.50€ (1%) / WACKEL 2.75€ (0.5%). Konform zu CLAUDE.md Stufe-1-Limits."
+  },
+  "einzeltipps_ergebnis": [
+    {
+      "spiel_id": "2026-06-19-bra-hai",
+      "kategorie": "safe",
+      "markt": "Brasilien Sieg",
+      "quote": 1.1,
+      "edge_prozent": 4.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Einziger SAFE-Kandidat heute — Klassen-Edge maximal (3 Klassen-Unterschied, Haiti faktisch ausgeschieden), Sieg-Brick-Lesson greift nur 1.50-2.00, Brasilien-Tor-Druck wegen Tordifferenz für Gruppensieg. 2:0-Insurance bei bet365 + WM 2026 zwingend bei direktem Sieg-Tipp.",
+      "faire_quote": 1.06,
+      "reality_check": "SAFE-Hitrate-Reality nur bei Klassen-Edge sehr hoch + Quote <1.20.",
+      "rang": 1,
+      "status": "gewonnen",
+      "kommentar": "Brasilien 3:0 Sieg — Klassen-Edge bestaetigt. 2:0-Insurance haette ab 36' gegriffen (Cunha-Doppelpack zur 2:0-Fuehrung)."
+    },
+    {
+      "spiel_id": "2026-06-19-bra-hai",
+      "kategorie": "safe",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.35,
+      "edge_prozent": 6.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Markt-Goldgrube Über 2.5 (+30.1% ROI). Brasilien historisch nie unter 6 Tore vs Haiti + Tordifferenz-Druck wegen Marokko-Remis. Klassen-Edge.",
+      "faire_quote": 1.18,
+      "reality_check": "Goldgrube + historische Klassen-Eskalation.",
+      "rang": 2,
+      "status": "gewonnen",
+      "kommentar": "Endstand 3:0 = 3 Tore > 2.5. Goldgrube-Markt + Klassen-Edge bestaetigt — alle 3 Tore in 1. HZ (23', 36', 45+3)."
+    },
+    {
+      "spiel_id": "2026-06-19-bra-hai",
+      "kategorie": "wackel",
+      "markt": "Vinicius Jr trifft jederzeit",
+      "quote": 1.95,
+      "edge_prozent": 7.0,
+      "empfohlener_einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Markt-Goldgrube Torschützen (+20.4% ROI). Real-Madrid LM + Volume-Star + Klassen-Edge gegen Haiti-RV. Mbappe-Backup-Profile aus CLAUDE.md.",
+      "faire_quote": 1.82,
+      "reality_check": "Form + Goldgrube + Klassen-Edge stützt VALUE trotz Lesson 8a.",
+      "rang": 3,
+      "status": "gewonnen",
+      "kommentar": "Vinicius Tor 45+3' — Form-Edge eingeloest. Real-Madrid-Volume-Star-These bestaetigt."
+    },
+    {
+      "spiel_id": "2026-06-19-bra-hai",
+      "kategorie": "wackel",
+      "markt": "Raphinha trifft jederzeit",
+      "quote": 2.1,
+      "edge_prozent": 6.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Markt-Goldgrube. Raphinha bereits Tor gegen Marokko = Form-Edge bestätigt + Barcelona-Volume-Star.",
+      "faire_quote": 1.98,
+      "reality_check": "Form-Edge bestätigt + Goldgrube.",
+      "rang": 4,
+      "status": "verloren",
+      "kommentar": "Raphinha 12' Tor wegen Abseits aberkannt + 40' verletzt raus (Hamstring). Direkter Ersatz Rayan (WM-Debuet) traf NICHT in der 2. HZ — kein Einwechslungs-Boost. Vinicius-Tor zaehlt NICHT fuer Raphinha (nicht direkter Ersatz)."
+    },
+    {
+      "spiel_id": "2026-06-19-usa-aus",
+      "kategorie": "wackel",
+      "markt": "Doppelte Chance USA (1X)",
+      "quote": 1.22,
+      "edge_prozent": 4.5,
+      "empfohlener_einsatz_euro": 11.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "Goldgrube DC + Klassen-Edge + Heim-Vorteil Lumen Field + DC weicht Sieg-Brick (Lesson 8b) aus. Australien-Toure-Doubt.",
+      "faire_quote": 1.16,
+      "reality_check": "DC stabiler als Sieg in Brick-Korridor.",
+      "rang": 5,
+      "status": "gewonnen",
+      "kommentar": "USA 2:0 Sieg — DC 1X eingeloest."
+    },
+    {
+      "spiel_id": "2026-06-19-usa-aus",
+      "kategorie": "wackel",
+      "markt": "Christian Pulisic trifft jederzeit",
+      "quote": 2.5,
+      "edge_prozent": 8.0,
+      "empfohlener_einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Form-Edge maximal (1 Tor + 1 Assist vs PAR, 12 Tore Milan-Saison) + Heim-Star + Goldgrube.",
+      "faire_quote": 2.3,
+      "reality_check": "Form-Edge real + Heim-Favorit-Pflicht.",
+      "rang": 6,
+      "status": "verloren",
+      "kommentar": "Pulisic kurzfristig wegen Wadenverletzung NICHT im Kader (Pepi-Startelf-Ersatz). CLAUDE.md Einwechslungs-Boost greift NICHT (Pulisic wurde nicht ausgewechselt, er stand nie auf dem Platz). Pre-Match-Out = Tipp tot."
+    },
+    {
+      "spiel_id": "2026-06-19-tur-par",
+      "kategorie": "value",
+      "markt": "Doppelte Chance Türkei (1X)",
+      "quote": 1.4,
+      "edge_prozent": 5.0,
+      "empfohlener_einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Klassen-Edge real (Calhanoglu/Yildiz/Demiral Top-Niveau) + Heim-MUST-WIN-Druck. DC-Goldgrube + Brick-Ausweich.",
+      "faire_quote": 1.33,
+      "reality_check": "DC + Goldgrube + Klassen-Edge.",
+      "rang": 7,
+      "status": "verloren",
+      "kommentar": "Tuerkei 0:1 Niederlage — Paraguay-Underdog-Sieg trotz Almiron-Rot ab 45+3. DC 1X verfehlt."
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "Safe-Kombi",
+      "status": "verloren",
+      "gesamtquote": 1.88
+    },
+    {
+      "kombi_id": "Balance-Kombi",
+      "status": "verloren",
+      "gesamtquote": 6.57
+    },
+    {
+      "kombi_id": "Risiko-Kombi",
+      "status": "verloren",
+      "gesamtquote": 22.1
+    },
+    {
+      "kombi_id": "Moonshot-Kombi",
+      "status": "verloren",
+      "gesamtquote": 58.5
+    }
+  ],
+  "ausgewertet_am": "2026-06-20T07:08:22+00:00"
+}
