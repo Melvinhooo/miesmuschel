@@ -638,7 +638,16 @@
     "warns": [
       {
         "art": "torschuetze_quelle_fehlt",
-        "tipps_betroffen": ["Vinicius Jr (BRA)", "Raphinha (BRA)", "Pulisic (USA)", "Balogun (USA)", "En-Nesyri (MAR)", "Hakimi (MAR)", "Yildiz (TUR)", "Calhanoglu (TUR)"],
+        "tipps_betroffen": [
+          "Vinicius Jr (BRA)",
+          "Raphinha (BRA)",
+          "Pulisic (USA)",
+          "Balogun (USA)",
+          "En-Nesyri (MAR)",
+          "Hakimi (MAR)",
+          "Yildiz (TUR)",
+          "Calhanoglu (TUR)"
+        ],
         "details": "Alle Torschützen-Tipps haben keine Verein-Player-Seite (transfermarkt/kicker/espn-player) in saison_kontext.quellen[]. Mapper hat sie auto-degradiert auf wackel (_torschuetze_quelle_warn). Konsistent mit aktueller Lesson 8a-Brick (9er-Form-Edge-Cluster Tag 8) — kein VALUE/SAFE-Torschütze heute."
       },
       {
