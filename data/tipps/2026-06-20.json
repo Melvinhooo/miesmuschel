@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS = {
+{
   "datum": "2026-06-20",
   "erstellt_am": "2026-06-20T17:25:00+02:00",
   "hinweis": "Watchdog-Recovery (17:15 Berlin) - Hauptroutine 16:00 nicht durchgelaufen, Tipps-Dossier nachgeholt. WM 2026 Gruppenphase Spieltag 2 (Gruppe E + F). 4 Spiele im Zeitfenster Sa 19:00 - So 06:00 MESZ. Kasse 550€, Stufe 1 Aufbau-Phase (Einzel SAFE/VALUE 5-11€, WACKEL 2.75€). Cluster-Brick aktiv (Tag 8+9 Torschuetzen-Hitrate 2/15 = 13.3%) - Torschuetzen reduziert + alle als WACKEL. WM Spieltag 2 NICHT in Liga-Goldgruben → SAFE-DC vermieden. Pinnacle-Hartregel angewandt: Deutschland-Sieg 1.50 (Pinnacle-Konvergenz ~0% Edge) als VALUE statt SAFE. Ecuador-Sieg 1.15 als SAFE (Pinnacle +5.5%).",
@@ -592,4 +591,4 @@ window.__MIESMUSCHEL_TIPPS = {
     }
   ],
   "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
-};
+}
