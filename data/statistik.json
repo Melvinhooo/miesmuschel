@@ -1,37 +1,37 @@
 {
-  "letzte_berechnung": "2026-06-20T07:10:12+00:00",
+  "letzte_berechnung": "2026-06-21T07:08:18+00:00",
   "gesamt": {
-    "tipps": 400,
-    "gewonnen": 219,
-    "verloren": 170,
+    "tipps": 410,
+    "gewonnen": 227,
+    "verloren": 172,
     "push": 2,
     "offen": 9,
-    "einsatz": 391.0,
+    "einsatz": 401.0,
     "netto": 37.2,
-    "trefferquote": 56.3,
-    "roi_prozent": 9.5
+    "trefferquote": 56.9,
+    "roi_prozent": 9.3
   },
   "letzte_30_tage": {
-    "tipps": 139,
-    "gewonnen": 79,
-    "verloren": 58,
+    "tipps": 149,
+    "gewonnen": 87,
+    "verloren": 60,
     "push": 2,
     "offen": 0,
-    "einsatz": 139.0,
+    "einsatz": 149.0,
     "netto": 15.55,
-    "trefferquote": 57.7,
-    "roi_prozent": 11.2
+    "trefferquote": 59.2,
+    "roi_prozent": 10.4
   },
   "letzte_90_tage": {
-    "tipps": 400,
-    "gewonnen": 219,
-    "verloren": 170,
+    "tipps": 410,
+    "gewonnen": 227,
+    "verloren": 172,
     "push": 2,
     "offen": 9,
-    "einsatz": 391.0,
+    "einsatz": 401.0,
     "netto": 37.2,
-    "trefferquote": 56.3,
-    "roi_prozent": 9.5
+    "trefferquote": 56.9,
+    "roi_prozent": 9.3
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -736,6 +736,28 @@
       "einsatz": 3.0,
       "netto": 0.0,
       "trefferquote": 66.7,
+      "roi_prozent": 0.0
+    },
+    "FIFA World Cup 2026 - Gruppe E - Spieltag 2": {
+      "tipps": 5,
+      "gewonnen": 3,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 5.0,
+      "netto": 0.0,
+      "trefferquote": 60.0,
+      "roi_prozent": 0.0
+    },
+    "FIFA World Cup 2026 - Gruppe F - Spieltag 2": {
+      "tipps": 5,
+      "gewonnen": 5,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 5.0,
+      "netto": 0.0,
+      "trefferquote": 100.0,
       "roi_prozent": 0.0
     }
   },
@@ -3150,15 +3172,15 @@
       "roi_prozent": -100.0
     },
     "Über 2.5 Tore": {
-      "tipps": 3,
-      "gewonnen": 2,
+      "tipps": 5,
+      "gewonnen": 4,
       "verloren": 1,
       "push": 0,
       "offen": 0,
-      "einsatz": 3.0,
+      "einsatz": 5.0,
       "netto": 0.45,
-      "trefferquote": 66.7,
-      "roi_prozent": 15.0
+      "trefferquote": 80.0,
+      "roi_prozent": 9.0
     },
     "Über 219.5 Punkte (Spiel-Total)": {
       "tipps": 1,
@@ -3381,15 +3403,15 @@
       "roi_prozent": 55.0
     },
     "Deutschland Sieg": {
-      "tipps": 1,
-      "gewonnen": 1,
+      "tipps": 4,
+      "gewonnen": 4,
       "verloren": 0,
       "push": 0,
       "offen": 0,
-      "einsatz": 1.0,
+      "einsatz": 4.0,
       "netto": 0.62,
       "trefferquote": 100.0,
-      "roi_prozent": 62.0
+      "roi_prozent": 15.5
     },
     "Beide Teams treffen - Ja": {
       "tipps": 1,
@@ -3480,15 +3502,15 @@
       "roi_prozent": 68.0
     },
     "Ecuador Sieg": {
-      "tipps": 1,
+      "tipps": 3,
       "gewonnen": 1,
-      "verloren": 0,
+      "verloren": 2,
       "push": 0,
       "offen": 0,
-      "einsatz": 1.0,
+      "einsatz": 3.0,
       "netto": 0.3,
-      "trefferquote": 100.0,
-      "roi_prozent": 30.0
+      "trefferquote": 33.3,
+      "roi_prozent": 10.0
     },
     "Italien Doppelte Chance (X2)": {
       "tipps": 1,
@@ -4039,6 +4061,17 @@
       "netto": 0.0,
       "trefferquote": 0.0,
       "roi_prozent": 0.0
+    },
+    "Doppelte Chance Japan (X2)": {
+      "tipps": 3,
+      "gewonnen": 3,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 0.0,
+      "trefferquote": 100.0,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt_typ": {
@@ -4087,15 +4120,15 @@
       "roi_prozent": 55.0
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 137,
-      "gewonnen": 79,
-      "verloren": 57,
+      "tipps": 142,
+      "gewonnen": 82,
+      "verloren": 59,
       "push": 0,
       "offen": 1,
-      "einsatz": 136.0,
+      "einsatz": 141.0,
       "netto": 6.99,
-      "trefferquote": 58.1,
-      "roi_prozent": 5.1
+      "trefferquote": 58.2,
+      "roi_prozent": 5.0
     },
     "Torschuetzen Jederzeit": {
       "tipps": 69,
@@ -4131,26 +4164,26 @@
       "roi_prozent": 2.2
     },
     "Doppelte Chance X2": {
-      "tipps": 19,
-      "gewonnen": 13,
+      "tipps": 22,
+      "gewonnen": 16,
       "verloren": 4,
       "push": 0,
       "offen": 2,
-      "einsatz": 17.0,
+      "einsatz": 20.0,
       "netto": 3.22,
-      "trefferquote": 76.5,
-      "roi_prozent": 18.9
+      "trefferquote": 80.0,
+      "roi_prozent": 16.1
     },
     "Ueber 2.5 Tore": {
-      "tipps": 29,
-      "gewonnen": 15,
+      "tipps": 31,
+      "gewonnen": 17,
       "verloren": 12,
       "push": 0,
       "offen": 2,
-      "einsatz": 27.0,
+      "einsatz": 29.0,
       "netto": 8.13,
-      "trefferquote": 55.6,
-      "roi_prozent": 30.1
+      "trefferquote": 58.6,
+      "roi_prozent": 28.0
     },
     "Beide Teams treffen JA": {
       "tipps": 9,
@@ -4529,15 +4562,15 @@
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 187,
-      "gewonnen": 95,
+      "tipps": 192,
+      "gewonnen": 100,
       "verloren": 87,
       "push": 1,
       "offen": 4,
-      "einsatz": 183.0,
+      "einsatz": 188.0,
       "netto": 14.33,
-      "trefferquote": 52.2,
-      "roi_prozent": 7.8
+      "trefferquote": 53.5,
+      "roi_prozent": 7.6
     },
     "2.00-3.00": {
       "tipps": 56,
@@ -4551,15 +4584,15 @@
       "roi_prozent": 10.8
     },
     "1.00-1.50": {
-      "tipps": 139,
-      "gewonnen": 96,
-      "verloren": 39,
+      "tipps": 144,
+      "gewonnen": 99,
+      "verloren": 41,
       "push": 0,
       "offen": 4,
-      "einsatz": 135.0,
+      "einsatz": 140.0,
       "netto": 9.38,
-      "trefferquote": 71.1,
-      "roi_prozent": 6.9
+      "trefferquote": 70.7,
+      "roi_prozent": 6.7
     },
     "3.00+": {
       "tipps": 18,
@@ -4575,26 +4608,26 @@
   },
   "nach_kategorie": {
     "safe": {
-      "tipps": 85,
+      "tipps": 87,
       "gewonnen": 57,
-      "verloren": 28,
+      "verloren": 30,
       "push": 0,
       "offen": 0,
-      "einsatz": 85.0,
+      "einsatz": 87.0,
       "netto": 0.35,
-      "trefferquote": 67.1,
+      "trefferquote": 65.5,
       "roi_prozent": 0.4
     },
     "value": {
-      "tipps": 236,
-      "gewonnen": 125,
+      "tipps": 244,
+      "gewonnen": 133,
       "verloren": 100,
       "push": 2,
       "offen": 9,
-      "einsatz": 227.0,
+      "einsatz": 235.0,
       "netto": 31.36,
-      "trefferquote": 55.6,
-      "roi_prozent": 13.8
+      "trefferquote": 57.1,
+      "roi_prozent": 13.3
     },
     "wackel": {
       "tipps": 79,
@@ -4647,6 +4680,143 @@
     }
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-06-20",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "Safe-Kombi",
+          "kategorie": "safe",
+          "gesamtquote": 3.72,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Ecuador Sieg",
+              "quote": 1.15,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi",
+          "kategorie": "balance",
+          "gesamtquote": 7.65,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Deutschland Sieg",
+              "quote": 1.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.7,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ayase Ueda trifft jederzeit",
+              "quote": 3.0,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi",
+          "kategorie": "risk",
+          "gesamtquote": 21.68,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Cody Gakpo trifft jederzeit",
+              "quote": 3.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Kai Havertz trifft jederzeit",
+              "quote": 2.1,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Enner Valencia trifft jederzeit",
+              "quote": 2.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Doppelte Chance Japan (X2)",
+              "quote": 1.18,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi",
+          "kategorie": "moonshot",
+          "gesamtquote": 273.6,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Schweden Sieg",
+              "quote": 3.8,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sebastien Haller trifft jederzeit",
+              "quote": 3.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Kendry Paez trifft jederzeit",
+              "quote": 5.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Daichi Kamada trifft jederzeit",
+              "quote": 4.5,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-06-19",
       "gesamt": {
