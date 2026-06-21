@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS_WOCHE = {
+{
   "datum": "2026-06-22",
   "erstellt_am": "2026-06-21T18:10:00+02:00",
   "hinweis": "Sonntag-Routine 18:10 Berlin. Wochen-Vorschau Mo 22.06. bis So 28.06.2026 - WM 2026 Endspurt Gruppenphase: Spieltag 2 (Mo/Di Gruppen I,J,K,L) + Spieltag 3 (Mi-Sa Gruppen A,C,E + B,D,F + G,H,I + J,K,L) + Round-of-32 Start So 28.06. Insgesamt 32 In-Scope-Spiele in 7 Tagen - VOLUME-Modus geboykottiert, BEST-OF-Auswahl: 16 Highlight-Spiele aufgenommen, 11 mit Tipps[], 10 Top-Einzeltipps + 4 Kombis. Kasse 550 EUR Stufe 1 (Aufbau-Phase, 1-2% Einzel SAFE/VALUE = 5.50-11 EUR, 0.5% WACKEL = 2.75 EUR). LESSONS aktiv: (21.06 ECU-Bust) Klassen-Edge-Sieg-Quoten UNTER 1.50 trotz Brick-Frei + Pinnacle-Konvergenz NICHT mehr SAFE auf WM Spieltag 2/3 - max VALUE. (21.06 Underdog-Trauma-Defensiv-Igel) Trauma-Auftakt (Saudi 1:1, Iran 2:2) fuehrt NICHT zu Defense-Kollaps - vorsicht bei Ueber 2.5 auf Trauma-Teams. (21.06 Cluster-Brick Torschuetzen Tag 10 GEBROCHEN) Goldgrube wieder VALUE bei Klassen-Edge-Max-Spielen (Gakpo+Ueda+Kamada 3/6). (14.06 Layer-4 Markt-Typ-Konzentration Risiko-Kombi 0/5 Crash) Risiko-Kombi diversifiziert Markt-Typen - nicht nur Torschuetzen. Goldgruben aktiv gesucht: Ueber 2.5 (+28% ROI / 58.6% HR), Unter 2.5 (+29.2% / 65%), Torschuetzen Jederzeit (+20.4% / 40.3%), DC X2 (+16.1% / 80%). Markt-Bluter Spread/Handicap (-10.5% ROI) GEMIEDEN. WM Spieltag 2/3 NICHT in Liga-Goldgrube (data/liga_goldgruben.json zeigt nur Spieltag 1 Gruppen E/F/I als Goldgrube) - SAFE-DC daher max VALUE (Mapper-Hebel C). DC-CAP: max 2-3 DC im gesamten Dossier (Hebel M). Quoten 1-7d vorher VOLATIL - verifiziert via Aggregator-Konsens (oddschecker, sportsgambler, BetMGM, ESPN, Squawka, RotoWire, CBS, FOX Sports). Aufstellung 1h vor Anstoss bei bet365 live pruefen. 18+ - BZgA Gluecksspielsucht-Hotline: 0800 1372700.",
@@ -1084,4 +1083,4 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
     "Best-of-Charakter erzwungen: 10 Einzeltipps statt 25 (Volumen-Boykott), 4 Kombis statt 6, 16 Hauptspiele statt 30+ (nur Highlight-Spiele)"
   ],
   "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool, keine Einkommensquelle · Nur setzen was du verlieren kannst · Stress → Pause · Probleme → Hilfe holen"
-};
+}
