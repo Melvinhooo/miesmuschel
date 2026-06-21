@@ -1,0 +1,970 @@
+{
+  "datum": "2026-06-22",
+  "erstellt_am": "2026-06-21T18:00:00+02:00",
+  "modus": "woche",
+  "anker_montag": "2026-06-22",
+  "fenster": {"von": "2026-06-22", "bis": "2026-06-28"},
+  "hinweis": "Wochen-Vorschau-Daten Mo 22.06 - So 28.06.2026 (Anker = Mo 22.06). === SCOPE WOCHE: WM 2026 (jedes einzelne Spiel wird analysiert, CLAUDE.md-Schwerpunkt; 11.06.-19.07.2026 in USA/Kanada/Mexiko, 48 Teams, 104 Spiele). NBA-Saison 13.06. beendet (Knicks gewinnen Serie 4-1). Vereins-Fussball pausiert bis August 2026. === HORIZONT WOCHE: 33 WM-Spiele im Mo-So-Fenster - 8 abschliessende Spieltag-2-Spiele (Mo+Di Gruppen I/J/K/L) + 24 Spieltag-3-Spiele (Mi-Sa Gruppen A-L jeweils parallel-Anstoss-paarweise gegen Manipulation seit 1986) + 1 erstes Runde-32-Spiel So 28.06 (Inglewood SoFi). TAGES-Aufteilung Berlin: Mo 22.06 = 1 (arg-aut 19:00), Mo 22.06 abend = 1 (fra-irq 23:00), in Nacht zu Di 23.06 = 2 (nor-sen 02:00 + jor-alg 05:00). Di 23.06 abend = 2 (por-uzb 19:00 + eng-gha 22:00), in Nacht zu Mi 24.06 = 2 (pan-cro 01:00 + col-cod 04:00 Guadalajara-Hoehe). Mi 24.06 abend = 2 (sui-can 21:00 Vancouver + bih-qat 21:00 Seattle), in Nacht zu Do 25.06 = 4 (sco-bra 00:00 Miami + mar-hai 00:00 Atlanta + cze-mex 03:00 Mexiko-Stadt-Hoehe + rsa-kor 03:00 Monterrey). Do 25.06 abend = 2 (cuw-civ 22:00 Philadelphia + ecu-ger 22:00 MetLife), in Nacht zu Fr 26.06 = 4 (jpn-swe 01:00 Arlington + tun-ned 01:00 Kansas-City + tur-usa 04:00 Inglewood + par-aus 04:00 Santa-Clara). Fr 26.06 abend = 2 (nor-fra 21:00 Foxborough + sen-irq 21:00 Toronto), in Nacht zu Sa 27.06 = 4 (cpv-ksa 02:00 Houston + uru-esp 02:00 Guadalajara-Hoehe + egy-irn 05:00 Seattle + nzl-bel 05:00 Vancouver). Sa 27.06 abend = 2 (pan-eng 23:00 MetLife + cro-gha 23:00 Philadelphia), in Nacht zu So 28.06 = 4 (col-por 01:30 Miami + cod-uzb 01:30 Atlanta + alg-aut 04:00 Kansas-City + jor-arg 04:00 Arlington). So 28.06 abend = 1 (r32-b2-vs-a2 21:00 Inglewood SoFi, R32-Eroeffnung). === SPIEL-ID-KONVENTION fuer Wochen-Routine: Spiel-IDs nutzen das Berlin-Anstoss-Datum, NICHT das einheitliche Anker-Window-Datum. Nacht-Spiele bekommen also das Datum, das in Berlin-Zeit der Anstoss-Zeitstempel anzeigt. Beispiel: 'Norwegen-Senegal kickt 8pm ET Mo 22.06 = 02:00 Berlin Di 23.06' -> id '2026-06-23-nor-sen'. Vorbild: recherche_woche-File 2026-06-15 mit Anker-Mo. Tipps-Routine uebernimmt diese IDs wortgleich. === KASSE-STAND 04.05.2026: 550 EUR (data/kasse.json) -> Stufe 1 (Aufbau-Phase, Kasse <1000 EUR) aktiv -> konservative Einsaetze: Einzel SAFE/VALUE 1-2% (5.50-11 EUR), Wackel-Einzel 0.5% (2.75 EUR), Kombi-Safe 2% (11 EUR), Kombi-Balance 0.8% (4.40 EUR), Kombi-Risiko 0.25% (1.40 EUR), Moonshot 0.1% (0.55 EUR). Tipps-Routine MUSS Euro-Betraege ausrechnen. Stufe-2-Trigger (Kasse>=1000 EUR + 30d-ROI>+5%) nicht erreicht. === WM-SPEZIAL-REGELN aktiv (CLAUDE.md): 2:0-Insurance gilt bei direktem-Sieg-Tipp (1X2) auf jedes WM-Team (FIFA-Aktionsregel 2026 fuer 1.BL+CL+WM aufgenommen). NICHT fuer DC/Handicap/Ueber-Unter/BTTS/Genaues Ergebnis/Halbzeit. Einwechslungs-Boost gilt bei Torschuetzen-Tipps. === WM-MARKT-BOYKOTT: Halbzeit-Endstand-Kombi NIE, Genaues Ergebnis NIE, Erster Torschuetze WACKEL-max bei Aussenseiter-Teams ohne Pre-WM-Form. Spieltag-3-spezial: bei bereits-qualifizierten Teams ggf. Rotation -> Stamm-Torschuetzen-Tipps Vorsicht. Bei do-or-die-Teams (3.+4. Tabelle vor Sp.3) maximale Motivation. === AUTO-MARKT-GOLDGRUBEN-Stand 03.05.: Doppelte Chance 1X (84.6%/+9.5%), Doppelte Chance X2 (77.8%/+9.4%), Unter 2.5 Tore (66.7%/+27.5%), Torschuetzen Jederzeit (50%/+24.4%). Auf WM Sp.3 vorsicht (Rotation-Risiko schwer kalkulierbar). === SPIELORT-FAKTOR-IMPLIKATIONEN: 4 Hoehen-Spiele im Fenster: Estadio Azteca Mexico-Stadt 2240m (cze-mex 25.06 03:00 Berlin), Estadio Akron Guadalajara 1566m (col-cod 24.06 04:00 Berlin + uru-esp 27.06 02:00 Berlin), Estadio BBVA Monterrey 540m (rsa-kor 25.06 03:00 Berlin). Mittag/Spaetnachmittag-Hitze-Spiele in Inglewood/Santa-Clara/Arlington/Miami/Houston/Kansas-City. 3 Kanada-Spiele (Vancouver 2x Mi+Fr + Toronto 1x Fr) mit moderatem Klima. Mehrere Indoor-Stadien (Mercedes-Benz Atlanta + AT&T Dallas + NRG Houston + SoFi Inglewood + Lucas Oil) mit Klimaanlage. === TURNIER-PHASEN-STAND ZUM WOCHENBEGINN (Mo 22.06): Bereits qualifiziert vor Sp.3 (Stand nach Sp.2): Mexiko (Grp A 6 Pkt), Kanada (Grp B 6 Pkt, 6:0 vs Katar Sp.2), USA (Grp D 6 Pkt, 2:0 vs Australien Sp.2), Deutschland (Grp E 6 Pkt, 2:1 vs Elfenbeinkueste Sp.2). Niederlande Grp F dominiert (5:1 vs Schweden Sp.2). Japan Grp F mit 4:0 vs Tunesien Sp.2. Brasilien + Marokko Grp C beide 4 Pkt (0:0 oder 1:1 untereinander). Haiti aus Grp C ausgeschieden (Erster Eliminierter der WM). Spanien Grp H mit Lex-CPV-0-0-Schock + Sp.2 vs KSA noch offen Sonntag-Abend. Belgien Grp G 1-1 vs Aegypten Sp.1. Portugal Grp K 1-1 vs DR Kongo Sp.1. Frankreich Grp I 3-1 vs Senegal Sp.1. Norwegen Grp I 4-1 vs Irak Sp.1. Argentinien Grp J 3-0 vs Algerien Sp.1. Oesterreich Grp J 3-1 vs Jordanien Sp.1. === KAESE/SAISON-MUEDIGKEIT-PROFIL Stamm-Spieler (CLAUDE.md): PL/LaLiga/Serie-A-Stamm spielten 38+ Liga-Spiele + Cup + ggf. CL-Finale 31.05.2025 - nur ca. 10 Tage Pause zwischen Vereins-Ende und WM-Start. Hauptindikatoren: Mbappe (Real Madrid CL-Final), Vinicius/Rodrygo/Bellingham (Real Madrid Spannungs-Saison), Lamine Yamal (Barca-Marathon), Cole Palmer (Chelsea + Club WM 2025), Wirtz (Liverpool-Transfer Sommer 25), Salah (Liverpool 38+ Spiele). Sp.3-Effekt: nach 3 WM-Spielen in 10-13 Tagen + Reise (USA-Mexiko-Kanada) Müdigkeit-Akkumulation. Saudi-Liga-Stars (Ronaldo, Mahrez, Benzema) typisch frischer. === LESSONS-RELEVANT FUER WOCHE: (1) Lesson 21.06 ECU-Sieg-SAFE-Brick-Pinnacle-Konvergenz GEBUSTET (Single-Point-of-Failure 0:0) -> SAFE-Sieg-UNTER-1.50 auf WM Sp.3 jetzt MAX VALUE. (2) Lesson Cape-Verde-Defense-Festungs-Effekt: Aussenseiter mit Defense-Trauma-Auftakt igeln nach Bestaetigung (CPV vs ESP 0:0). (3) Lesson Cluster-Brick Torschuetzen Tag 10 GEBROCHEN bei Klassen-Edge-Max-Spielen (Gakpo+Ueda+Kamada 3/6 Hits) -> Torschuetzen VALUE bei Klassen-Edge-Max. (4) Sp.3-spezifischer Rotation-Effekt: bereits-qualifizierte Teams (MEX/CAN/USA/GER) ggf. B-Elf -> Stamm-Torschuetzen WACKEL, Backup-Spieler-Torschuetzen MOONSHOT-Quote. (5) Sp.3 do-or-die-Pattern: Tabelle-3-und-4-Teams maximale Motivation Underdog-Edge (siehe historisch WM-Sp.3-Eroeffnungs-Vorbild Spanien-2022, Deutschland-2018). === SPIELTAG-3-PARALLEL-ANSTOSS-REGEL (CRITICAL): Pro Gruppe spielen beide Sp.3-Spiele zur gleichen Zeit (FIFA-Regel seit 1986). Daraus: keine Pre-Last-Game-Adjustment-Quoten moeglich (Spiele laufen gleichzeitig), Teams im Tab.1+2 koennen NICHT spaeter rotieren mit Sicherheits-Vorsprung. Markt-Spread bei do-or-die-Spielen typisch breiter (mehr Volatilitaet). === QUELLEN-PFLICHT (CLAUDE.md): bei Erwaehnung von CL/EL/Conference/Pokal MUSS Verband-URL beim parallele_wettbewerbe-Feld dabei sein. Da WM-Sommer-Pause-Phase = parallele_wettbewerbe immer 'keine - WM exklusiv' mit FIFA-Quelle. === APIs LIVE ABGEFRAGT 21.06.2026 ~17:30-18:00 Berlin via WebSearch (FIFA + ESPN + CBS Sports + Sky Sports + Yahoo Sports + Al Jazeera + Olympics.com + NBC Sports + Wikipedia). Standings nach Spieltag 1+2 verifiziert. Squad-Daten aus Pre-WM-Wochenrecherche 2026-06-15 + 2026-06-08 + 2026-06-01 uebernommen + Tipps-Routine 2026-06-21 verifiziert. NIE Spielernamen erfunden. KEINE Tipps generiert - reine Datensammlung.",
+  "spiele": [
+    {
+      "id": "2026-06-22-arg-aut",
+      "liga": "FIFA WM 2026 - Gruppe J - Spieltag 2",
+      "wettbewerb_kontext": "WM 2026, Gruppe J (Argentinien, Algerien, Oesterreich, Jordanien). Sp.2 Top-Showdown beider Sp.1-Sieger.",
+      "heim": "Argentinien", "gast": "Oesterreich",
+      "heim_kuerzel": "ARG", "gast_kuerzel": "AUT",
+      "anstoss": "2026-06-22T19:00:00+02:00", "anstoss_lokal": "1:00 PM ET (Mon 22.06)", "anstoss_utc": "2026-06-22T17:00:00Z",
+      "stadion": "AT&T Stadium",
+      "spielort_faktor": {"stadt": "Arlington", "stadion": "AT&T Stadium", "land": "USA", "hoehe_m": 175, "kapazitaet": 80000, "klima_anstoss": "Hitze tagsueber, aber Klimaanlage indoor", "anstoss_lokal": "12:00 PM CT", "lokal_faktor": "Hitze, aber Klimaanlage indoor", "implikationen": ["Indoor-klimatisiert, Hitze-Faktor neutralisiert", "Saisonmuedigkeit-Profil: ARG-Stamm mit MLS/Saudi/Europa-Mix"]},
+      "turnier_phase": "Gruppenphase Spieltag 2", "gruppe": "J",
+      "gruppen_stand_vor_spiel": {"heim_pkt": 3, "heim_tordiff": "+3", "gast_pkt": 3, "gast_tordiff": "+2", "kontext": "Beide nach 3:0/3:1 Sp.1-Siegen Tabelle-1+2, ARG vorn auf Tordiff. Sieger qualifiziert wahrscheinlich vorzeitig fuer R32."},
+      "squad_heim_top": [
+        {"name": "Lionel Messi", "nummer": 10, "position": "RF/OM", "verein": "Inter Miami (MLS)", "verifiziert_via": "https://en.wikipedia.org/wiki/Argentina_at_the_2026_FIFA_World_Cup", "hinweis": "Kapitaen, Hauptbedrohung, 38 Jahre alt"},
+        {"name": "Julian Alvarez", "nummer": 9, "position": "ST", "verein": "Atletico Madrid", "verifiziert_via": "https://en.wikipedia.org/wiki/Argentina_at_the_2026_FIFA_World_Cup", "hinweis": "Stamm-9er, Box-Spieler"},
+        {"name": "Lautaro Martinez", "nummer": 22, "position": "ST", "verein": "Inter Mailand", "verifiziert_via": "https://en.wikipedia.org/wiki/Argentina_at_the_2026_FIFA_World_Cup", "hinweis": "Backup-9er + Serie-A-Top-Scorer-Profil"},
+        {"name": "Enzo Fernandez", "nummer": 24, "position": "ZM", "verein": "Chelsea (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Argentina_at_the_2026_FIFA_World_Cup", "hinweis": "Schalt-Mittelfeld, hohe PL-Belastung 2025/26"}
+      ],
+      "squad_gast_top": [
+        {"name": "Marko Arnautovic", "nummer": 7, "position": "ST", "verein": "Roter Stern Belgrad", "verifiziert_via": "https://en.wikipedia.org/wiki/Austria_at_the_2026_FIFA_World_Cup", "hinweis": "Veteran-Kapitaen, Erfahrung"},
+        {"name": "Marcel Sabitzer", "nummer": 8, "position": "ZM", "verein": "Borussia Dortmund (BL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Austria_at_the_2026_FIFA_World_Cup", "hinweis": "Stamm-Achter, BL-Saison 38+ Spiele"},
+        {"name": "Konrad Laimer", "nummer": 6, "position": "DM", "verein": "Bayern Muenchen (BL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Austria_at_the_2026_FIFA_World_Cup", "hinweis": "Defensiv-Sechser, hohe Saisonbelastung"}
+      ],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine - WM exklusiv", "gast": "keine - WM exklusiv", "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"]},
+      "saisonziel_heim": "Titel-Verteidigung 2022; Sieg Sp.2 = R32-Quali sicher", "saisonziel_gast": "Achtelfinale historisch erstmals seit 1982; Sieg Sp.2 = R32-Quali sicher",
+      "form_heim_letzte_5": "S-S-S-S-S (Sp.1 3:0 ALG)", "form_gast_letzte_5": "Sp.1 3:1 JOR", "recovery_heim": "6 Tage seit Sp.1", "recovery_gast": "5 Tage seit Sp.1",
+      "quoten": {"bet365_indikativ": {"sieg_heim": 1.55, "draw": 4.0, "sieg_gast": 5.5, "ueber_2_5": 1.95, "unter_2_5": 1.85, "btts_ja": 2.0, "btts_nein": 1.75, "dc_1x": 1.18, "dc_x2": 2.4, "kommentar": "ARG-Edge ueber Klasse + Messi-Faktor"}, "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup", "https://www.cbssports.com/soccer/news/world-cup-group-standings-table-results/"], "hinweis": "Quoten indikativ, bet365-DE live verifizieren."},
+      "news_kompakt": ["ARG-AUT Top-Showdown Grp J Sp.2, beide Sp.1-Sieger.", "ARG 3:0 vs ALG Sp.1, AUT 3:1 vs JOR Sp.1 - Tabelle 1+2.", "Sieger qualifiziert vorzeitig fuer R32 (4 Pkt + 1 Sp.3 noch).", "AT&T Arlington indoor klimatisiert, kein Hitze-Faktor."],
+      "wm_marktregeln_aktiv": "2:0-Insurance bei 1X2. Einwechslungs-Boost bei Torschuetzen. Markt-Boykott Halbzeit-Endstand + Genaues Ergebnis. Sp.2-Showdown beider Top-Teams - hohe Markt-Liquiditaet.",
+      "skipped_due_to_token_budget": false
+    },
+    {
+      "id": "2026-06-22-fra-irq",
+      "liga": "FIFA WM 2026 - Gruppe I - Spieltag 2",
+      "wettbewerb_kontext": "WM 2026, Gruppe I (Frankreich, Senegal, Irak, Norwegen). FRA als Sp.1-Sieger trifft auf Sp.1-Verlierer IRQ.",
+      "heim": "Frankreich", "gast": "Irak",
+      "heim_kuerzel": "FRA", "gast_kuerzel": "IRQ",
+      "anstoss": "2026-06-22T23:00:00+02:00", "anstoss_lokal": "5:00 PM ET (Mon 22.06)", "anstoss_utc": "2026-06-22T21:00:00Z",
+      "stadion": "Lincoln Financial Field",
+      "spielort_faktor": {"stadt": "Philadelphia", "stadion": "Lincoln Financial Field", "land": "USA", "hoehe_m": 12, "kapazitaet": 67600, "klima_anstoss": "Spaetnachmittag East Coast, typisch warm-mild Juni", "anstoss_lokal": "5:00 PM ET", "lokal_faktor": "neutral, East-Coast-Klima", "implikationen": ["neutral", "FRA-Stamm mit Real-Madrid/PL-Belastung (Mbappe + Tchouameni 38+ Spiele + CL-Final 31.05)"]},
+      "turnier_phase": "Gruppenphase Spieltag 2", "gruppe": "I",
+      "gruppen_stand_vor_spiel": {"heim_pkt": 3, "heim_tordiff": "+2", "gast_pkt": 0, "gast_tordiff": "-3", "kontext": "FRA Tabelle 1 nach 3:1 vs SEN, IRQ Tabelle 4 nach 1:4 vs NOR. FRA-Sieg = R32-Quali sicher."},
+      "squad_heim_top": [
+        {"name": "Kylian Mbappe", "nummer": 10, "position": "ST/LF", "verein": "Real Madrid (LaLiga)", "verifiziert_via": "https://en.wikipedia.org/wiki/France_at_the_2026_FIFA_World_Cup", "hinweis": "Kapitaen, Hauptbedrohung, Real-Madrid-CL-Final-31.05 Belastung"},
+        {"name": "Ousmane Dembele", "nummer": 11, "position": "RF", "verein": "Paris SG", "verifiziert_via": "https://en.wikipedia.org/wiki/France_at_the_2026_FIFA_World_Cup", "hinweis": "Speed-Fluegel rechts"},
+        {"name": "Aurelien Tchouameni", "nummer": 8, "position": "DM", "verein": "Real Madrid", "verifiziert_via": "https://en.wikipedia.org/wiki/France_at_the_2026_FIFA_World_Cup", "hinweis": "Defensiv-Sechser"},
+        {"name": "Bradley Barcola", "nummer": 7, "position": "LF", "verein": "Paris SG", "verifiziert_via": "https://en.wikipedia.org/wiki/France_at_the_2026_FIFA_World_Cup", "hinweis": "Backup-Fluegel + PSG-Saison-Top"}
+      ],
+      "squad_gast_top": [
+        {"name": "Aymen Hussein", "nummer": 9, "position": "ST", "verein": "Al-Khor (Katar)", "verifiziert_via": "https://en.wikipedia.org/wiki/Iraq_at_the_2026_FIFA_World_Cup", "hinweis": "Stamm-9er + Asian-Cup-Top-Scorer"},
+        {"name": "Ali Al-Hamadi", "nummer": 7, "position": "ST", "verein": "Ipswich (Championship)", "verifiziert_via": "https://en.wikipedia.org/wiki/Iraq_at_the_2026_FIFA_World_Cup", "hinweis": "Zweit-Stuermer, England-Profi"}
+      ],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine - WM exklusiv", "gast": "keine - WM exklusiv", "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"]},
+      "saisonziel_heim": "Titel-Anwaerter; Sieg Sp.2 = R32-Quali sicher", "saisonziel_gast": "Erstes WM seit 1986; Klassenerhalt im Turnier (bester Dritter Hoffnung)",
+      "form_heim_letzte_5": "Sp.1 3:1 SEN", "form_gast_letzte_5": "Sp.1 1:4 NOR", "recovery_heim": "6 Tage Pause", "recovery_gast": "6 Tage Pause",
+      "quoten": {"bet365_indikativ": {"sieg_heim": 1.18, "draw": 7.0, "sieg_gast": 17.0, "ueber_2_5": 1.55, "unter_2_5": 2.5, "btts_ja": 2.4, "btts_nein": 1.55, "dc_1x": 1.04, "dc_x2": 5.0, "kommentar": "FRA massiver Favorit"}, "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup"], "hinweis": "bet365-DE live verifizieren."},
+      "news_kompakt": ["FRA Tabelle 1 Grp I nach 3:1 vs SEN.", "IRQ Tabelle 4 nach 1:4 vs NOR, do-or-die-Lage.", "Mbappe-Saisonmuedigkeit-Risiko (Real Madrid CL-Final 31.05).", "Philadelphia Mittag-Spiel neutral."],
+      "wm_marktregeln_aktiv": "2:0-Insurance bei 1X2. Einwechslungs-Boost bei Torschuetzen. Markt-Boykott Halbzeit-Endstand + Genaues Ergebnis. Erster-Torschuetze IRQ-Spieler WACKEL-max.",
+      "skipped_due_to_token_budget": false
+    },
+    {
+      "id": "2026-06-23-nor-sen",
+      "liga": "FIFA WM 2026 - Gruppe I - Spieltag 2",
+      "wettbewerb_kontext": "WM 2026, Gruppe I. NOR als Sp.1-4:1-Sieger trifft SEN nach 1:3-Niederlage gegen FRA.",
+      "heim": "Norwegen", "gast": "Senegal",
+      "heim_kuerzel": "NOR", "gast_kuerzel": "SEN",
+      "anstoss": "2026-06-23T02:00:00+02:00", "anstoss_lokal": "8:00 PM ET (Mon 22.06)", "anstoss_utc": "2026-06-23T00:00:00Z",
+      "stadion": "MetLife Stadium",
+      "spielort_faktor": {"stadt": "East Rutherford NJ", "stadion": "MetLife Stadium", "land": "USA", "hoehe_m": 3, "kapazitaet": 82500, "klima_anstoss": "Abend East Coast, mild Juni", "anstoss_lokal": "8:00 PM ET", "lokal_faktor": "neutral, Finale-Stadion", "implikationen": ["neutral", "SEN-Stamm meist Europa-Profi (PL/SerieA): Saisonbelastung erheblich"]},
+      "turnier_phase": "Gruppenphase Spieltag 2", "gruppe": "I",
+      "gruppen_stand_vor_spiel": {"heim_pkt": 3, "heim_tordiff": "+3", "gast_pkt": 0, "gast_tordiff": "-2", "kontext": "NOR Tabelle 2 Grp I nach 4:1 vs IRQ, SEN Tabelle 3 nach 1:3 vs FRA. NOR-Sieg = R32-Quali sicher."},
+      "squad_heim_top": [
+        {"name": "Erling Haaland", "nummer": 9, "position": "ST", "verein": "Manchester City (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Norway_at_the_2026_FIFA_World_Cup", "hinweis": "Star-9er, PL-Top-Scorer-Profil, Volume-Stuermer"},
+        {"name": "Martin Odegaard", "nummer": 10, "position": "OM", "verein": "Arsenal (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Norway_at_the_2026_FIFA_World_Cup", "hinweis": "Kapitaen, Spielmacher"},
+        {"name": "Alexander Sorloth", "nummer": 11, "position": "ST", "verein": "Atletico Madrid", "verifiziert_via": "https://en.wikipedia.org/wiki/Norway_at_the_2026_FIFA_World_Cup", "hinweis": "Backup-Stuermer + Set-Piece-Bedrohung"}
+      ],
+      "squad_gast_top": [
+        {"name": "Sadio Mane", "nummer": 10, "position": "LF/ST", "verein": "Al-Nassr (Saudi)", "verifiziert_via": "https://en.wikipedia.org/wiki/Senegal_at_the_2026_FIFA_World_Cup", "hinweis": "Kapitaen, Saudi-Liga-Profi (frischer)"},
+        {"name": "Nicolas Jackson", "nummer": 9, "position": "ST", "verein": "Chelsea (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Senegal_at_the_2026_FIFA_World_Cup", "hinweis": "PL-Volume-Stuermer"},
+        {"name": "Ismaila Sarr", "nummer": 18, "position": "RF", "verein": "Crystal Palace (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Senegal_at_the_2026_FIFA_World_Cup", "hinweis": "Speed-Fluegel"}
+      ],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine - WM exklusiv", "gast": "keine - WM exklusiv", "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"]},
+      "saisonziel_heim": "Erstes WM seit 1998; Achtelfinale Ziel; Sieg = R32-Quali sicher", "saisonziel_gast": "Achtelfinale-Hoffnung; muss punkten nach FRA-Niederlage",
+      "form_heim_letzte_5": "Sp.1 4:1 IRQ", "form_gast_letzte_5": "Sp.1 1:3 FRA", "recovery_heim": "6 Tage Pause", "recovery_gast": "6 Tage Pause",
+      "quoten": {"bet365_indikativ": {"sieg_heim": 2.2, "draw": 3.4, "sieg_gast": 3.1, "ueber_2_5": 1.75, "unter_2_5": 2.05, "btts_ja": 1.7, "btts_nein": 2.1, "dc_1x": 1.35, "dc_x2": 1.62, "kommentar": "Knapp-Favorit NOR mit Haaland-Edge"}, "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup"], "hinweis": "bet365-DE live verifizieren."},
+      "news_kompakt": ["NOR 4:1 vs IRQ Sp.1 - Haaland-Doppelpack erwartet.", "SEN 1:3 vs FRA Sp.1 - do-or-die-Drucklage.", "MetLife NJ Abend-Spiel neutral.", "Saisonmuedigkeit SEN-PL-Stamm (Jackson/Sarr) vs NOR-PL-Stamm (Haaland/Odegaard)."],
+      "wm_marktregeln_aktiv": "2:0-Insurance bei 1X2. Einwechslungs-Boost bei Torschuetzen. Haaland Volume-Stuermer-Profil = VALUE.",
+      "skipped_due_to_token_budget": false
+    },
+    {
+      "id": "2026-06-23-jor-alg",
+      "liga": "FIFA WM 2026 - Gruppe J - Spieltag 2",
+      "wettbewerb_kontext": "WM 2026, Gruppe J. Beide Sp.1-Verlierer treffen sich.",
+      "heim": "Jordanien", "gast": "Algerien",
+      "heim_kuerzel": "JOR", "gast_kuerzel": "ALG",
+      "anstoss": "2026-06-23T05:00:00+02:00", "anstoss_lokal": "11:00 PM ET (Mon 22.06)", "anstoss_utc": "2026-06-23T03:00:00Z",
+      "stadion": "Levi's Stadium",
+      "spielort_faktor": {"stadt": "Santa Clara CA", "stadion": "Levi's Stadium", "land": "USA", "hoehe_m": 5, "kapazitaet": 68500, "klima_anstoss": "Spaetabend Bay Area, mild", "anstoss_lokal": "8:00 PM PT", "lokal_faktor": "Kuestenklima neutral", "implikationen": ["neutral", "Beide Squads mit gemischten Liga-Profis (ALG Frankreich-Profi-lastig, JOR Saudi/Asia-lastig)"]},
+      "turnier_phase": "Gruppenphase Spieltag 2", "gruppe": "J",
+      "gruppen_stand_vor_spiel": {"heim_pkt": 0, "heim_tordiff": "-2", "gast_pkt": 0, "gast_tordiff": "-3", "kontext": "Beide Tab.3+4 nach Sp.1-Niederlagen. Verlierer praktisch eliminiert."},
+      "squad_heim_top": [
+        {"name": "Musa Al-Tamari", "nummer": 7, "position": "RF", "verein": "Montpellier (Ligue 1)", "verifiziert_via": "https://en.wikipedia.org/wiki/Jordan_at_the_2026_FIFA_World_Cup", "hinweis": "Top-Spieler, Speed-Fluegel"},
+        {"name": "Yazan Al-Naimat", "nummer": 9, "position": "ST", "verein": "Al-Ahli Doha", "verifiziert_via": "https://en.wikipedia.org/wiki/Jordan_at_the_2026_FIFA_World_Cup", "hinweis": "Stamm-Stuermer"}
+      ],
+      "squad_gast_top": [
+        {"name": "Riyad Mahrez", "nummer": 7, "position": "RF", "verein": "Al-Ahli (Saudi)", "verifiziert_via": "https://en.wikipedia.org/wiki/Algeria_at_the_2026_FIFA_World_Cup", "hinweis": "Kapitaen, Saudi-Liga-Profi (frischer)"},
+        {"name": "Said Benrahma", "nummer": 11, "position": "LF", "verein": "Lyon (Ligue 1)", "verifiziert_via": "https://en.wikipedia.org/wiki/Algeria_at_the_2026_FIFA_World_Cup", "hinweis": "Fluegel-Kreator"},
+        {"name": "Mohamed Amoura", "nummer": 9, "position": "ST", "verein": "Wolfsburg (BL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Algeria_at_the_2026_FIFA_World_Cup", "hinweis": "BL-Top-Scorer-Profil"}
+      ],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine - WM exklusiv", "gast": "keine - WM exklusiv", "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"]},
+      "saisonziel_heim": "Erstes WM ueberhaupt; Erstes WM-Tor/Punkt", "saisonziel_gast": "Achtelfinale-Hoffnung erst Sp.3, jetzt Restchance",
+      "form_heim_letzte_5": "Sp.1 1:3 AUT", "form_gast_letzte_5": "Sp.1 0:3 ARG", "recovery_heim": "5 Tage Pause", "recovery_gast": "6 Tage Pause",
+      "quoten": {"bet365_indikativ": {"sieg_heim": 3.8, "draw": 3.2, "sieg_gast": 1.85, "ueber_2_5": 2.1, "unter_2_5": 1.7, "btts_ja": 2.05, "btts_nein": 1.75, "dc_1x": 1.7, "dc_x2": 1.2, "kommentar": "ALG knapp Favorit, Coinflip-Edge"}, "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup"], "hinweis": "bet365-DE live verifizieren."},
+      "news_kompakt": ["JOR-ALG Sp.2 - beide muessen punkten.", "JOR erster WM-Auftritt + 1:3 vs AUT Sp.1.", "ALG-Star Mahrez (Saudi-Liga) frischer als JOR-Squad.", "Coinflip mit ALG-Edge ueber Klasse - Empfehlung Skip oder Wackel-Tipp."],
+      "wm_marktregeln_aktiv": "2:0-Insurance bei 1X2. Erster-Torschuetze WACKEL-max bei beiden Aussenseiter-Teams.",
+      "skipped_due_to_token_budget": false
+    },
+    {
+      "id": "2026-06-23-por-uzb",
+      "liga": "FIFA WM 2026 - Gruppe K - Spieltag 2",
+      "wettbewerb_kontext": "WM 2026, Gruppe K. POR nach 1:1-Schock vs COD trifft UZB (Sp.1 vs COL).",
+      "heim": "Portugal", "gast": "Usbekistan",
+      "heim_kuerzel": "POR", "gast_kuerzel": "UZB",
+      "anstoss": "2026-06-23T19:00:00+02:00", "anstoss_lokal": "1:00 PM ET", "anstoss_utc": "2026-06-23T17:00:00Z",
+      "stadion": "NRG Stadium",
+      "spielort_faktor": {"stadt": "Houston", "stadion": "NRG Stadium", "land": "USA", "hoehe_m": 13, "kapazitaet": 72200, "klima_anstoss": "Hitze tagsueber, Klimaanlage indoor", "anstoss_lokal": "12:00 PM CT", "lokal_faktor": "Hitze + Klimaanlage indoor", "implikationen": ["Indoor-klimatisiert, kein Hitze-Faktor", "POR-Stamm mit PL/LaLiga-Belastung (Bruno Fernandes/Bernardo Silva 38+ Spiele)"]},
+      "turnier_phase": "Gruppenphase Spieltag 2", "gruppe": "K",
+      "gruppen_stand_vor_spiel": {"heim_pkt": 1, "gast_pkt_indikativ": "Sp.1 vs COL 21.06 abend", "kontext": "POR nach 1:1-COD-Schock Tab.3 indikativ, UZB Sp.1 noch laufend 21.06."},
+      "squad_heim_top": [
+        {"name": "Cristiano Ronaldo", "nummer": 7, "position": "ST", "verein": "Al-Nassr (Saudi)", "verifiziert_via": "https://en.wikipedia.org/wiki/Portugal_at_the_2026_FIFA_World_Cup", "hinweis": "Kapitaen 41 Jahre, Saudi-Liga (frischer), letztes WM"},
+        {"name": "Bernardo Silva", "nummer": 10, "position": "OM", "verein": "Manchester City (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Portugal_at_the_2026_FIFA_World_Cup", "hinweis": "Spielmacher, PL-Saison-Marathon"},
+        {"name": "Bruno Fernandes", "nummer": 8, "position": "OM", "verein": "Manchester United (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Portugal_at_the_2026_FIFA_World_Cup", "hinweis": "Box-to-Box, Set-Piece-Spezi"},
+        {"name": "Rafael Leao", "nummer": 11, "position": "LF", "verein": "AC Milan", "verifiziert_via": "https://en.wikipedia.org/wiki/Portugal_at_the_2026_FIFA_World_Cup", "hinweis": "Speed-Fluegel"}
+      ],
+      "squad_gast_top": [
+        {"name": "Eldor Shomurodov", "nummer": 9, "position": "ST", "verein": "AS Roma (Serie A)", "verifiziert_via": "https://en.wikipedia.org/wiki/Uzbekistan_at_the_2026_FIFA_World_Cup", "hinweis": "Top-Stuermer, Serie-A-Profi"},
+        {"name": "Khusayn Norchaev", "nummer": 11, "position": "LF", "verein": "Pakhtakor", "verifiziert_via": "https://en.wikipedia.org/wiki/Uzbekistan_at_the_2026_FIFA_World_Cup", "hinweis": "Heim-Liga-Star"}
+      ],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine - WM exklusiv", "gast": "keine - WM exklusiv", "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"]},
+      "saisonziel_heim": "Achtelfinale-Quali; nach 1:1-Schock vs COD MUSS-SIEG-Lage", "saisonziel_gast": "Erstes WM ueberhaupt; Klassenerhalt Turnier",
+      "form_heim_letzte_5": "Sp.1 1:1 COD", "form_gast_letzte_5": "Sp.1 vs COL 21.06 abend (Resultat live nachpruefen)", "recovery_heim": "5 Tage Pause", "recovery_gast": "1-2 Tage Pause (kurz)",
+      "quoten": {"bet365_indikativ": {"sieg_heim": 1.25, "draw": 5.5, "sieg_gast": 11.0, "ueber_2_5": 1.55, "unter_2_5": 2.45, "btts_ja": 2.3, "btts_nein": 1.6, "dc_1x": 1.07, "dc_x2": 3.5, "kommentar": "POR Klassen-Favorit, MUSS-Sieg-Druck"}, "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup"], "hinweis": "bet365-DE live verifizieren."},
+      "news_kompakt": ["POR 1:1 vs DR Kongo Sp.1 - Schock-Punkt-Verlust.", "MUSS-Sieg-Druck zur R32-Quali.", "Ronaldo 41 Jahre, letztes WM - Motivation hoch.", "Houston Indoor klimatisiert."],
+      "wm_marktregeln_aktiv": "2:0-Insurance bei 1X2 (POR-Sieg-Tipp). Ronaldo-Torschuetze VALUE (Volume + Set-Piece + Einwechslungs-Boost ueber Felix/Diogo Jota).",
+      "skipped_due_to_token_budget": false
+    },
+    {
+      "id": "2026-06-23-eng-gha",
+      "liga": "FIFA WM 2026 - Gruppe L - Spieltag 2",
+      "wettbewerb_kontext": "WM 2026, Gruppe L. ENG nach Sp.1 vs CRO.",
+      "heim": "England", "gast": "Ghana",
+      "heim_kuerzel": "ENG", "gast_kuerzel": "GHA",
+      "anstoss": "2026-06-23T22:00:00+02:00", "anstoss_lokal": "4:00 PM ET", "anstoss_utc": "2026-06-23T20:00:00Z",
+      "stadion": "Gillette Stadium",
+      "spielort_faktor": {"stadt": "Foxborough MA", "stadion": "Gillette Stadium", "land": "USA", "hoehe_m": 64, "kapazitaet": 65900, "klima_anstoss": "Spaetnachmittag Boston-Area, mild", "anstoss_lokal": "4:00 PM ET", "lokal_faktor": "neutral, gemaessigt", "implikationen": ["neutral", "ENG-Stamm massiv PL-belastet (Kane Bayern + Bellingham/Saka/Foden 38+ Spiele)"]},
+      "turnier_phase": "Gruppenphase Spieltag 2", "gruppe": "L",
+      "gruppen_stand_vor_spiel": {"kontext": "Sp.1 ENG vs CRO am 17.06 Berlin abend (4 Tage vor Sp.2) - Stand live verifizieren bei Tipps-Routine; GHA vs PAN ebenfalls Sp.1."},
+      "squad_heim_top": [
+        {"name": "Harry Kane", "nummer": 9, "position": "ST", "verein": "Bayern Muenchen (BL)", "verifiziert_via": "https://en.wikipedia.org/wiki/England_at_the_2026_FIFA_World_Cup", "hinweis": "Kapitaen, Top-Scorer-Garantie, Volume-Stuermer"},
+        {"name": "Jude Bellingham", "nummer": 10, "position": "OM", "verein": "Real Madrid", "verifiziert_via": "https://en.wikipedia.org/wiki/England_at_the_2026_FIFA_World_Cup", "hinweis": "Box-to-Box, Real-Madrid-CL-Final-Belastung 31.05"},
+        {"name": "Bukayo Saka", "nummer": 7, "position": "RF", "verein": "Arsenal (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/England_at_the_2026_FIFA_World_Cup", "hinweis": "Speed-Fluegel, PL-Marathon"},
+        {"name": "Cole Palmer", "nummer": 11, "position": "OM/RF", "verein": "Chelsea (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/England_at_the_2026_FIFA_World_Cup", "hinweis": "Chelsea-Club-WM-2025-Belastung extra hoch"}
+      ],
+      "squad_gast_top": [
+        {"name": "Mohammed Kudus", "nummer": 11, "position": "OM/RF", "verein": "Tottenham (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Ghana_at_the_2026_FIFA_World_Cup", "hinweis": "PL-Star, Hauptbedrohung"},
+        {"name": "Jordan Ayew", "nummer": 10, "position": "ST", "verein": "Leicester City", "verifiziert_via": "https://en.wikipedia.org/wiki/Ghana_at_the_2026_FIFA_World_Cup", "hinweis": "Veteran-Stuermer"}
+      ],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine - WM exklusiv", "gast": "keine - WM exklusiv", "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"]},
+      "saisonziel_heim": "Titel-Anwaerter; R32 Pflicht", "saisonziel_gast": "Achtelfinale-Hoffnung",
+      "form_heim_letzte_5": "Sp.1 vs CRO 17.06 - Stand live nachpruefen", "form_gast_letzte_5": "Sp.1 vs PAN ebenfalls 17.06", "recovery_heim": "6 Tage Pause", "recovery_gast": "6 Tage Pause",
+      "quoten": {"bet365_indikativ": {"sieg_heim": 1.35, "draw": 4.5, "sieg_gast": 8.5, "ueber_2_5": 1.65, "unter_2_5": 2.25, "btts_ja": 1.95, "btts_nein": 1.85, "dc_1x": 1.1, "dc_x2": 2.9, "kommentar": "ENG Klassen-Favorit, GHA-Saka/Kudus-Speed-Risiko"}, "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup"], "hinweis": "bet365-DE live verifizieren."},
+      "news_kompakt": ["ENG-GHA Sp.2 Grp L, Foxborough Boston-Area.", "ENG-Stamm massiv PL-belastet (Kane/Saka/Bellingham/Palmer 40+ Saison-Spiele).", "GHA mit Kudus-Edge gefaehrlich auf Konter.", "Kane Volume-Stuermer-Profil VALUE."],
+      "wm_marktregeln_aktiv": "2:0-Insurance bei 1X2 (ENG). Kane-Torschuetze SAFE/VALUE (Volume + Einwechslungs-Boost ueber Watkins/Toney).",
+      "skipped_due_to_token_budget": false
+    },
+    {
+      "id": "2026-06-24-pan-cro",
+      "liga": "FIFA WM 2026 - Gruppe L - Spieltag 2",
+      "wettbewerb_kontext": "WM 2026, Gruppe L. PAN Sp.1 vs GHA, CRO Sp.1 vs ENG.",
+      "heim": "Panama", "gast": "Kroatien",
+      "heim_kuerzel": "PAN", "gast_kuerzel": "CRO",
+      "anstoss": "2026-06-24T01:00:00+02:00", "anstoss_lokal": "7:00 PM ET (Tue 23.06)", "anstoss_utc": "2026-06-23T23:00:00Z",
+      "stadion": "BMO Field",
+      "spielort_faktor": {"stadt": "Toronto", "stadion": "BMO Field", "land": "Kanada", "hoehe_m": 76, "kapazitaet": 45500, "klima_anstoss": "Abend Toronto, mild", "anstoss_lokal": "7:00 PM ET", "lokal_faktor": "moderates Klima, neutral", "implikationen": ["neutral, kuehler", "CRO-Stamm mit Veteranen (Modric 40 Jahre) + jungen Liga-Profis"]},
+      "turnier_phase": "Gruppenphase Spieltag 2", "gruppe": "L",
+      "gruppen_stand_vor_spiel": {"kontext": "Stand nach Sp.1 17.06 live nachpruefen."},
+      "squad_heim_top": [
+        {"name": "Ismael Diaz", "nummer": 11, "position": "ST", "verein": "Sporting CP B", "verifiziert_via": "https://en.wikipedia.org/wiki/Panama_at_the_2026_FIFA_World_Cup", "hinweis": "Top-Stuermer"},
+        {"name": "Jose Fajardo", "nummer": 9, "position": "ST", "verein": "Tauro FC", "verifiziert_via": "https://en.wikipedia.org/wiki/Panama_at_the_2026_FIFA_World_Cup", "hinweis": "Heim-Liga-Star"}
+      ],
+      "squad_gast_top": [
+        {"name": "Luka Modric", "nummer": 10, "position": "ZM", "verein": "AC Milan (Wechsel 25)", "verifiziert_via": "https://en.wikipedia.org/wiki/Croatia_at_the_2026_FIFA_World_Cup", "hinweis": "Kapitaen 40 Jahre, letzte WM"},
+        {"name": "Andrej Kramaric", "nummer": 9, "position": "ST", "verein": "TSG Hoffenheim (BL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Croatia_at_the_2026_FIFA_World_Cup", "hinweis": "Veteran-9er"},
+        {"name": "Mateo Kovacic", "nummer": 8, "position": "ZM", "verein": "Manchester City (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Croatia_at_the_2026_FIFA_World_Cup", "hinweis": "Stamm-Achter, PL-Saison-Marathon"}
+      ],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine - WM exklusiv", "gast": "keine - WM exklusiv", "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"]},
+      "saisonziel_heim": "Klassenerhalt Turnier; erstes WM-Tor moeglich", "saisonziel_gast": "Achtelfinale-Hoffnung",
+      "form_heim_letzte_5": "Sp.1 vs GHA 17.06", "form_gast_letzte_5": "Sp.1 vs ENG 17.06", "recovery_heim": "6 Tage", "recovery_gast": "6 Tage",
+      "quoten": {"bet365_indikativ": {"sieg_heim": 7.5, "draw": 4.2, "sieg_gast": 1.5, "ueber_2_5": 1.85, "unter_2_5": 1.95, "btts_ja": 2.0, "btts_nein": 1.8, "dc_1x": 2.7, "dc_x2": 1.12, "kommentar": "CRO Klassen-Favorit"}, "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup"], "hinweis": "bet365-DE live verifizieren."},
+      "news_kompakt": ["PAN-CRO Sp.2 Toronto.", "CRO Klassen-Edge ueber Modric/Kovacic.", "Modric 40 Jahre, letzte WM - Motivation max."],
+      "wm_marktregeln_aktiv": "2:0-Insurance bei 1X2 (CRO). Erster-Torschuetze PAN-Spieler WACKEL-max.",
+      "skipped_due_to_token_budget": false
+    },
+    {
+      "id": "2026-06-24-col-cod",
+      "liga": "FIFA WM 2026 - Gruppe K - Spieltag 2",
+      "wettbewerb_kontext": "WM 2026, Gruppe K. COL Sp.1 vs UZB, COD nach 1:1-Schock-Punkt vs POR.",
+      "heim": "Kolumbien", "gast": "DR Kongo",
+      "heim_kuerzel": "COL", "gast_kuerzel": "COD",
+      "anstoss": "2026-06-24T04:00:00+02:00", "anstoss_lokal": "10:00 PM ET (Tue 23.06)", "anstoss_utc": "2026-06-24T02:00:00Z",
+      "stadion": "Estadio Akron",
+      "spielort_faktor": {"stadt": "Guadalajara/Zapopan", "stadion": "Estadio Akron", "land": "Mexiko", "hoehe_m": 1566, "kapazitaet": 49000, "klima_anstoss": "Abend Mexiko-Mittelhoehe", "anstoss_lokal": "9:00 PM CT", "lokal_faktor": "Mittelhoehe, leichte Konditions-Belastung", "implikationen": ["Mittelhoehe 1566m - Konditions-Vorteil Sued-Amerikaner (Hoehen-Erfahrung)", "COD-Spieler meist Europa-Profis"]},
+      "turnier_phase": "Gruppenphase Spieltag 2", "gruppe": "K",
+      "gruppen_stand_vor_spiel": {"heim_pkt_indikativ": "Sp.1 vs UZB", "gast_pkt": 1, "kontext": "COD mit Schock-Punkt vs POR (1:1 Sp.1) - Selbstvertrauen hoch."},
+      "squad_heim_top": [
+        {"name": "James Rodriguez", "nummer": 10, "position": "OM", "verein": "Rayo Vallecano (LaLiga)", "verifiziert_via": "https://en.wikipedia.org/wiki/Colombia_at_the_2026_FIFA_World_Cup", "hinweis": "Kapitaen, Spielmacher-Veteran"},
+        {"name": "Luis Diaz", "nummer": 7, "position": "LF", "verein": "Liverpool (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Colombia_at_the_2026_FIFA_World_Cup", "hinweis": "Speed-Fluegel, PL-Marathon"},
+        {"name": "Jhon Duran", "nummer": 9, "position": "ST", "verein": "Al-Nassr (Saudi)", "verifiziert_via": "https://en.wikipedia.org/wiki/Colombia_at_the_2026_FIFA_World_Cup", "hinweis": "Stamm-9er, Saudi-Liga frischer"}
+      ],
+      "squad_gast_top": [
+        {"name": "Cedric Bakambu", "nummer": 9, "position": "ST", "verein": "Real Betis (LaLiga)", "verifiziert_via": "https://en.wikipedia.org/wiki/DR_Congo_at_the_2026_FIFA_World_Cup", "hinweis": "Stamm-9er, Veteran"},
+        {"name": "Yoane Wissa", "nummer": 11, "position": "ST/LF", "verein": "Brentford (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/DR_Congo_at_the_2026_FIFA_World_Cup", "hinweis": "PL-Top-Scorer-Profil"},
+        {"name": "Chancel Mbemba", "nummer": 5, "position": "IV", "verein": "Lille (Ligue 1)", "verifiziert_via": "https://en.wikipedia.org/wiki/DR_Congo_at_the_2026_FIFA_World_Cup", "hinweis": "Defense-Anker, AFCON-Top"}
+      ],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine - WM exklusiv", "gast": "keine - WM exklusiv", "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"]},
+      "saisonziel_heim": "Achtelfinale-Quali", "saisonziel_gast": "Achtelfinale-Sensation moeglich nach POR-Schock",
+      "form_heim_letzte_5": "Sp.1 vs UZB", "form_gast_letzte_5": "Sp.1 1:1 POR", "recovery_heim": "6 Tage", "recovery_gast": "5 Tage",
+      "quoten": {"bet365_indikativ": {"sieg_heim": 1.95, "draw": 3.5, "sieg_gast": 3.7, "ueber_2_5": 1.85, "unter_2_5": 1.95, "btts_ja": 1.75, "btts_nein": 2.05, "dc_1x": 1.25, "dc_x2": 1.75, "kommentar": "COL knapp Favorit, COD nach POR-Schock gefaehrlich"}, "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup"], "hinweis": "bet365-DE live verifizieren."},
+      "news_kompakt": ["COL-COD Sp.2 Guadalajara, Mittelhoehe 1566m.", "COD mit Schock-1:1-vs-POR Selbstvertrauen.", "COL Klassen-Edge knapp, kein klarer Favorit.", "Hoehen-Faktor COL-Vorteil (Sued-Amerikaner)."],
+      "wm_marktregeln_aktiv": "2:0-Insurance bei 1X2. Coinflip-Spiel - Skip-Empfehlung moeglich, sonst Wackel-Doppelte-Chance.",
+      "skipped_due_to_token_budget": false
+    },
+    {
+      "id": "2026-06-24-sui-can",
+      "liga": "FIFA WM 2026 - Gruppe B - Spieltag 3",
+      "wettbewerb_kontext": "WM 2026, Gruppe B. CAN bereits qualifiziert (6 Pkt nach 6:0 vs Qatar Sp.2). SUI muss punkten.",
+      "heim": "Schweiz", "gast": "Kanada",
+      "heim_kuerzel": "SUI", "gast_kuerzel": "CAN",
+      "anstoss": "2026-06-24T21:00:00+02:00", "anstoss_lokal": "12:00 PM PT / 3:00 PM ET", "anstoss_utc": "2026-06-24T19:00:00Z",
+      "stadion": "BC Place",
+      "spielort_faktor": {"stadt": "Vancouver", "stadion": "BC Place", "land": "Kanada", "hoehe_m": 0, "kapazitaet": 54500, "klima_anstoss": "Tagsueber Vancouver, mild", "anstoss_lokal": "12:00 PM PT", "lokal_faktor": "moderates Klima, neutral - CAN-Heim-Atmosphaere", "implikationen": ["CAN-Heim-Atmosphaere", "Sp.3-Rotation-Risiko bei CAN (bereits qualifiziert)"]},
+      "turnier_phase": "Gruppenphase Spieltag 3", "gruppe": "B",
+      "gruppen_stand_vor_spiel": {"heim_pkt_indikativ": "Sp.1+2 verifizieren", "gast_pkt": 6, "gast_tordiff": "+7+", "kontext": "CAN qualifiziert mit 6 Pkt + 6:0 vs Qatar. SUI je nach Sp.1+2-Stand do-or-die."},
+      "squad_heim_top": [
+        {"name": "Granit Xhaka", "nummer": 10, "position": "ZM", "verein": "Bayer Leverkusen (BL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Switzerland_at_the_2026_FIFA_World_Cup", "hinweis": "Kapitaen, Schalt-Mittelfeld"},
+        {"name": "Breel Embolo", "nummer": 9, "position": "ST", "verein": "AS Monaco", "verifiziert_via": "https://en.wikipedia.org/wiki/Switzerland_at_the_2026_FIFA_World_Cup", "hinweis": "Stamm-Stuermer"},
+        {"name": "Dan Ndoye", "nummer": 11, "position": "RF", "verein": "Bologna", "verifiziert_via": "https://en.wikipedia.org/wiki/Switzerland_at_the_2026_FIFA_World_Cup", "hinweis": "Speed-Fluegel"}
+      ],
+      "squad_gast_top": [
+        {"name": "Jonathan David", "nummer": 20, "position": "ST", "verein": "Juventus (Wechsel 25)", "verifiziert_via": "https://en.wikipedia.org/wiki/Canada_at_the_2026_FIFA_World_Cup", "hinweis": "Stamm-9er"},
+        {"name": "Alphonso Davies", "nummer": 19, "position": "LV", "verein": "Bayern Muenchen (BL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Canada_at_the_2026_FIFA_World_Cup", "hinweis": "Speed-Linksverteidiger"}
+      ],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine - WM exklusiv", "gast": "keine - WM exklusiv", "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"]},
+      "saisonziel_heim": "R32 ueber Sieg/Remis je nach Sp.2-Stand", "saisonziel_gast": "Qualifiziert - Gruppen-Sieger-Position absichern",
+      "form_heim_letzte_5": "Sp.1+2 nachpruefen", "form_gast_letzte_5": "S-S (Sp.1+2)", "recovery_heim": "5 Tage", "recovery_gast": "5 Tage",
+      "quoten": {"bet365_indikativ": {"sieg_heim": 2.65, "draw": 3.2, "sieg_gast": 2.6, "ueber_2_5": 2.0, "unter_2_5": 1.8, "btts_ja": 1.85, "btts_nein": 1.95, "dc_1x": 1.45, "dc_x2": 1.45, "kommentar": "Toss-up, CAN-Heim-Vorteil + Quali-Status"}, "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup"], "hinweis": "bet365-DE live verifizieren."},
+      "news_kompakt": ["SUI-CAN Sp.3 Vancouver, Parallel-Anstoss zu BIH-QAT.", "CAN bereits qualifiziert nach 6:0 vs Qatar Sp.2.", "CAN-Rotation-Risiko (Schlussspiel-Aufstellung).", "SUI muss je nach Sp.2-Stand punkten."],
+      "wm_marktregeln_aktiv": "2:0-Insurance bei 1X2. CAN-Rotation = Stamm-Torschuetzen-Tipps Vorsicht; Unter 2.5 VALUE (Sp.3 do-or-die-Spiel oft taktisch).",
+      "skipped_due_to_token_budget": false
+    },
+    {
+      "id": "2026-06-24-bih-qat",
+      "liga": "FIFA WM 2026 - Gruppe B - Spieltag 3",
+      "wettbewerb_kontext": "WM 2026, Gruppe B. Beide vor Sp.3 wahrscheinlich um R32-Plaetze 2+3 oder eliminiert.",
+      "heim": "Bosnien-Herzegowina", "gast": "Katar",
+      "heim_kuerzel": "BIH", "gast_kuerzel": "QAT",
+      "anstoss": "2026-06-24T21:00:00+02:00", "anstoss_lokal": "12:00 PM PT / 3:00 PM ET", "anstoss_utc": "2026-06-24T19:00:00Z",
+      "stadion": "Lumen Field",
+      "spielort_faktor": {"stadt": "Seattle", "stadion": "Lumen Field", "land": "USA", "hoehe_m": 11, "kapazitaet": 68700, "klima_anstoss": "Tagsueber Seattle, mild", "anstoss_lokal": "12:00 PM PT", "lokal_faktor": "moderates Klima, ggf. Regen", "implikationen": ["neutral", "QAT-Stamm meist Heim-Liga - frischer als BIH-Europa-Mix"]},
+      "turnier_phase": "Gruppenphase Spieltag 3", "gruppe": "B",
+      "gruppen_stand_vor_spiel": {"gast_pkt_indikativ": 0, "kontext": "QAT nach 0:6 vs CAN sehr wahrscheinlich Tab.4. BIH Sp.1+2-Stand pruefen."},
+      "squad_heim_top": [
+        {"name": "Edin Dzeko", "nummer": 11, "position": "ST", "verein": "Fenerbahce", "verifiziert_via": "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina_at_the_2026_FIFA_World_Cup", "hinweis": "Veteran-Stuermer 40 Jahre, letzte WM"},
+        {"name": "Edin Visca", "nummer": 7, "position": "RF", "verein": "Trabzonspor", "verifiziert_via": "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina_at_the_2026_FIFA_World_Cup", "hinweis": "Fluegel-Veteran"}
+      ],
+      "squad_gast_top": [
+        {"name": "Akram Afif", "nummer": 11, "position": "OM", "verein": "Al-Sadd", "verifiziert_via": "https://en.wikipedia.org/wiki/Qatar_at_the_2026_FIFA_World_Cup", "hinweis": "Kapitaen, Asian-Cup-MVP"},
+        {"name": "Almoez Ali", "nummer": 19, "position": "ST", "verein": "Al-Duhail", "verifiziert_via": "https://en.wikipedia.org/wiki/Qatar_at_the_2026_FIFA_World_Cup", "hinweis": "Stamm-9er, Heim-Liga"}
+      ],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine - WM exklusiv", "gast": "keine - WM exklusiv", "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"]},
+      "saisonziel_heim": "Bester-Dritter-Hoffnung wenn Sieg", "saisonziel_gast": "Eliminiert wahrscheinlich, Prestige-Sieg",
+      "form_heim_letzte_5": "Sp.1+2 nachpruefen", "form_gast_letzte_5": "Sp.1 + 0:6 vs CAN Sp.2", "recovery_heim": "5 Tage", "recovery_gast": "5 Tage",
+      "quoten": {"bet365_indikativ": {"sieg_heim": 1.6, "draw": 3.8, "sieg_gast": 5.5, "ueber_2_5": 1.95, "unter_2_5": 1.85, "btts_ja": 2.0, "btts_nein": 1.8, "dc_1x": 1.2, "dc_x2": 2.3, "kommentar": "BIH Favorit, QAT nach 0:6-Trauma desolat"}, "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup"], "hinweis": "bet365-DE live verifizieren."},
+      "news_kompakt": ["BIH-QAT Sp.3 Seattle, Parallel-Anstoss zu SUI-CAN.", "QAT nach 0:6 vs CAN praktisch eliminiert.", "BIH-Bester-Dritter-Hoffnung via Sieg.", "Dzeko 40 Jahre, letzte WM-Motivation."],
+      "wm_marktregeln_aktiv": "2:0-Insurance bei 1X2 (BIH). Dzeko-Torschuetze VALUE bei Sieg-Lage.",
+      "skipped_due_to_token_budget": false
+    },
+    {
+      "id": "2026-06-25-sco-bra",
+      "liga": "FIFA WM 2026 - Gruppe C - Spieltag 3",
+      "wettbewerb_kontext": "WM 2026, Gruppe C. BRA 4 Pkt (Sp.2-Stand). SCO 3 Pkt. Beide noch alles offen.",
+      "heim": "Schottland", "gast": "Brasilien",
+      "heim_kuerzel": "SCO", "gast_kuerzel": "BRA",
+      "anstoss": "2026-06-25T00:00:00+02:00", "anstoss_lokal": "6:00 PM ET (Wed 24.06)", "anstoss_utc": "2026-06-24T22:00:00Z",
+      "stadion": "Hard Rock Stadium",
+      "spielort_faktor": {"stadt": "Miami Gardens", "stadion": "Hard Rock Stadium", "land": "USA", "hoehe_m": 2, "kapazitaet": 65300, "klima_anstoss": "Abend Miami, Hitze + hohe Luftfeuchtigkeit", "anstoss_lokal": "6:00 PM ET", "lokal_faktor": "Hitze + hohe Luftfeuchtigkeit", "implikationen": ["Hitze + Luftfeuchtigkeit - SCO-Konditions-Risiko", "BRA-Spieler Hitze-erfahrener"]},
+      "turnier_phase": "Gruppenphase Spieltag 3", "gruppe": "C",
+      "gruppen_stand_vor_spiel": {"heim_pkt": 3, "gast_pkt": 4, "kontext": "BRA + MAR 4 Pkt, SCO 3 Pkt, Haiti eliminiert. SCO braucht Punkte (Bester-Dritter-Hoffnung)."},
+      "squad_heim_top": [
+        {"name": "Scott McTominay", "nummer": 4, "position": "ZM", "verein": "Napoli (Serie A)", "verifiziert_via": "https://en.wikipedia.org/wiki/Scotland_at_the_2026_FIFA_World_Cup", "hinweis": "Schalt-Mittelfeld, Serie-A-Champion 24/25"},
+        {"name": "Che Adams", "nummer": 10, "position": "ST", "verein": "Torino", "verifiziert_via": "https://en.wikipedia.org/wiki/Scotland_at_the_2026_FIFA_World_Cup", "hinweis": "Stamm-9er"},
+        {"name": "John McGinn", "nummer": 8, "position": "OM", "verein": "Aston Villa (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Scotland_at_the_2026_FIFA_World_Cup", "hinweis": "Kapitaen, Box-to-Box"}
+      ],
+      "squad_gast_top": [
+        {"name": "Vinicius Junior", "nummer": 7, "position": "LF", "verein": "Real Madrid", "verifiziert_via": "https://en.wikipedia.org/wiki/Brazil_at_the_2026_FIFA_World_Cup", "hinweis": "Star-Fluegel, Real-Madrid-CL-Belastung"},
+        {"name": "Rodrygo", "nummer": 9, "position": "RF/ST", "verein": "Real Madrid", "verifiziert_via": "https://en.wikipedia.org/wiki/Brazil_at_the_2026_FIFA_World_Cup", "hinweis": "Real-Madrid-Doppel, Hauptbedrohung"},
+        {"name": "Bruno Guimaraes", "nummer": 8, "position": "ZM", "verein": "Newcastle (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Brazil_at_the_2026_FIFA_World_Cup", "hinweis": "Schalt-Mittelfeld"},
+        {"name": "Endrick", "nummer": 21, "position": "ST", "verein": "Real Madrid", "verifiziert_via": "https://en.wikipedia.org/wiki/Brazil_at_the_2026_FIFA_World_Cup", "hinweis": "Junger Backup-9er"}
+      ],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine - WM exklusiv", "gast": "keine - WM exklusiv", "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"]},
+      "saisonziel_heim": "Erstes-WM-Achtelfinale seit 1998 (Bester-Dritter via Punkt)", "saisonziel_gast": "Titel-Anwaerter; Gruppen-Sieger absichern",
+      "form_heim_letzte_5": "Sp.1+2", "form_gast_letzte_5": "Sp.1+2 (4 Pkt)", "recovery_heim": "5-6 Tage", "recovery_gast": "5-6 Tage",
+      "quoten": {"bet365_indikativ": {"sieg_heim": 7.5, "draw": 4.88, "sieg_gast": 1.47, "ueber_2_5": 1.65, "unter_2_5": 2.25, "btts_ja": 2.05, "btts_nein": 1.75, "dc_1x": 2.7, "dc_x2": 1.13, "kommentar": "BRA 70% Sieg-Wahrscheinlichkeit lt. Modellen"}, "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup", "https://sports.betmgm.com/en/blog/world-cup/brazil-vs-scotland-prediction-odds-preview-world-cup-june-24-bm16/"], "hinweis": "bet365-DE live verifizieren."},
+      "news_kompakt": ["SCO-BRA Sp.3 Miami Hitze.", "SCO Bester-Dritter-Hoffnung via Punkt.", "BRA mit Vinicius/Rodrygo/Endrick Real-Madrid-Trio Hauptbedrohung.", "Hitze + Luftfeuchtigkeit SCO-Konditions-Risiko."],
+      "wm_marktregeln_aktiv": "2:0-Insurance bei 1X2 (BRA). Vinicius/Rodrygo-Torschuetze VALUE.",
+      "skipped_due_to_token_budget": false
+    },
+    {
+      "id": "2026-06-25-mar-hai",
+      "liga": "FIFA WM 2026 - Gruppe C - Spieltag 3",
+      "wettbewerb_kontext": "WM 2026, Gruppe C. HAI bereits eliminiert. MAR 4 Pkt, Sieg sichert Quali fast.",
+      "heim": "Marokko", "gast": "Haiti",
+      "heim_kuerzel": "MAR", "gast_kuerzel": "HAI",
+      "anstoss": "2026-06-25T00:00:00+02:00", "anstoss_lokal": "6:00 PM ET (Wed 24.06)", "anstoss_utc": "2026-06-24T22:00:00Z",
+      "stadion": "Mercedes-Benz Stadium",
+      "spielort_faktor": {"stadt": "Atlanta", "stadion": "Mercedes-Benz Stadium", "land": "USA", "hoehe_m": 327, "kapazitaet": 75000, "klima_anstoss": "Abend, ueberdacht klimatisiert", "anstoss_lokal": "6:00 PM ET", "lokal_faktor": "neutral, ueberdacht klimatisiert", "implikationen": ["Indoor klimatisiert, kein Hitze-Faktor"]},
+      "turnier_phase": "Gruppenphase Spieltag 3", "gruppe": "C",
+      "gruppen_stand_vor_spiel": {"heim_pkt": 4, "gast_pkt": 0, "kontext": "MAR 4 Pkt nach Sp.1+2. HAI eliminiert (Erster Eliminierter der WM)."},
+      "squad_heim_top": [
+        {"name": "Achraf Hakimi", "nummer": 2, "position": "RV", "verein": "Paris SG", "verifiziert_via": "https://en.wikipedia.org/wiki/Morocco_at_the_2026_FIFA_World_Cup", "hinweis": "Kapitaen, Speed-Rechtsverteidiger"},
+        {"name": "Hakim Ziyech", "nummer": 7, "position": "OM/RF", "verein": "Al-Duhail (Katar)", "verifiziert_via": "https://en.wikipedia.org/wiki/Morocco_at_the_2026_FIFA_World_Cup", "hinweis": "Spielmacher, Saudi-Liga frischer"},
+        {"name": "Brahim Diaz", "nummer": 10, "position": "OM", "verein": "Real Madrid", "verifiziert_via": "https://en.wikipedia.org/wiki/Morocco_at_the_2026_FIFA_World_Cup", "hinweis": "Real-Madrid-Profi"},
+        {"name": "Youssef En-Nesyri", "nummer": 9, "position": "ST", "verein": "Fenerbahce", "verifiziert_via": "https://en.wikipedia.org/wiki/Morocco_at_the_2026_FIFA_World_Cup", "hinweis": "Stamm-9er, AFCON-Top-Scorer-Profil"}
+      ],
+      "squad_gast_top": [
+        {"name": "Duckens Nazon", "nummer": 9, "position": "ST", "verein": "Sukhothai (Thailand)", "verifiziert_via": "https://en.wikipedia.org/wiki/Haiti_at_the_2026_FIFA_World_Cup", "hinweis": "Top-Stuermer"}
+      ],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine - WM exklusiv", "gast": "keine - WM exklusiv", "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"]},
+      "saisonziel_heim": "R32 + Gruppen-Sieg-Position", "saisonziel_gast": "Eliminiert; Prestige-Tor",
+      "form_heim_letzte_5": "Sp.1+2 (4 Pkt)", "form_gast_letzte_5": "Sp.1+2 (eliminiert)", "recovery_heim": "5-6 Tage", "recovery_gast": "5-6 Tage",
+      "quoten": {"bet365_indikativ": {"sieg_heim": 1.18, "draw": 7.0, "sieg_gast": 17.0, "ueber_2_5": 1.5, "unter_2_5": 2.55, "btts_ja": 2.5, "btts_nein": 1.55, "dc_1x": 1.04, "dc_x2": 5.0, "kommentar": "MAR Klassen-Favorit massiv"}, "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup"], "hinweis": "bet365-DE live verifizieren."},
+      "news_kompakt": ["MAR-HAI Sp.3 Atlanta indoor.", "HAI eliminiert (1. der WM).", "MAR muss Sieg + Tordiff fuer Gruppen-Sieg.", "Indoor-klimatisiert."],
+      "wm_marktregeln_aktiv": "2:0-Insurance bei 1X2 (MAR). En-Nesyri-Torschuetze SAFE/VALUE.",
+      "skipped_due_to_token_budget": false
+    },
+    {
+      "id": "2026-06-25-cze-mex",
+      "liga": "FIFA WM 2026 - Gruppe A - Spieltag 3",
+      "wettbewerb_kontext": "WM 2026, Gruppe A. MEX qualifiziert (6 Pkt nach 1:0 vs Korea Sp.2). CZE Sp.1+2 unter Druck.",
+      "heim": "Tschechien", "gast": "Mexiko",
+      "heim_kuerzel": "CZE", "gast_kuerzel": "MEX",
+      "anstoss": "2026-06-25T03:00:00+02:00", "anstoss_lokal": "7:00 PM CDT / 9:00 PM ET", "anstoss_utc": "2026-06-25T01:00:00Z",
+      "stadion": "Estadio Azteca",
+      "spielort_faktor": {"stadt": "Mexico-Stadt", "stadion": "Estadio Azteca", "land": "Mexiko", "hoehe_m": 2240, "kapazitaet": 87000, "klima_anstoss": "Abend Mexiko-Stadt, kuehler in 2240m Hoehe", "anstoss_lokal": "7:00 PM CDT", "lokal_faktor": "MEX-Heim-Festung 80k Lärm, Hoehe extrem", "implikationen": ["Hoehen-Faktor 2240m: CZE-europa-Konditions-Schwaeche", "MEX-Heim-Atmosphaere 87k Kapazitaet maximal lärmend"]},
+      "turnier_phase": "Gruppenphase Spieltag 3", "gruppe": "A",
+      "gruppen_stand_vor_spiel": {"gast_pkt": 6, "gast_status": "qualifiziert", "kontext": "MEX qualifiziert via 6 Pkt + 1:0 vs Korea Sp.2. CZE braucht Punkte je nach Sp.1+2-Stand."},
+      "squad_heim_top": [
+        {"name": "Patrik Schick", "nummer": 9, "position": "ST", "verein": "Bayer Leverkusen (BL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Czech_Republic_at_the_2026_FIFA_World_Cup", "hinweis": "Stamm-9er, Volume-Stuermer-Profil"},
+        {"name": "Tomas Soucek", "nummer": 15, "position": "DM", "verein": "West Ham (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Czech_Republic_at_the_2026_FIFA_World_Cup", "hinweis": "Kapitaen, PL-Saison-Marathon"}
+      ],
+      "squad_gast_top": [
+        {"name": "Raul Jimenez", "nummer": 9, "position": "ST", "verein": "Fulham (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Mexico_at_the_2026_FIFA_World_Cup", "hinweis": "Stamm-9er, Tor vs Serbien (Pre-WM 5:1)"},
+        {"name": "Hirving Lozano", "nummer": 22, "position": "LF/RF", "verein": "San Diego FC (MLS)", "verifiziert_via": "https://en.wikipedia.org/wiki/Mexico_at_the_2026_FIFA_World_Cup", "hinweis": "Veteran-Fluegel"},
+        {"name": "Edson Alvarez", "nummer": 4, "position": "DM", "verein": "Fenerbahce", "verifiziert_via": "https://en.wikipedia.org/wiki/Mexico_at_the_2026_FIFA_World_Cup", "hinweis": "Kapitaen-Sechser"}
+      ],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine - WM exklusiv", "gast": "keine - WM exklusiv", "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"]},
+      "saisonziel_heim": "Bester-Dritter-Hoffnung via Punkt", "saisonziel_gast": "Qualifiziert - Gruppen-Sieg-Position absichern",
+      "form_heim_letzte_5": "Sp.1+2 nachpruefen", "form_gast_letzte_5": "S-S (Sp.1+2, qualifiziert)", "recovery_heim": "5-6 Tage", "recovery_gast": "5-6 Tage",
+      "quoten": {"bet365_indikativ": {"sieg_heim": 4.5, "draw": 3.5, "sieg_gast": 1.75, "ueber_2_5": 2.0, "unter_2_5": 1.8, "btts_ja": 1.9, "btts_nein": 1.9, "dc_1x": 1.95, "dc_x2": 1.18, "kommentar": "MEX Heim-Favorit, CZE-Hoehen-Risiko"}, "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup"], "hinweis": "bet365-DE live verifizieren."},
+      "news_kompakt": ["CZE-MEX Sp.3 Estadio Azteca 2240m Hoehe!", "MEX qualifiziert nach 6 Pkt + 1:0 vs Korea Sp.2.", "MEX-Heim-Festung 87k Kapazitaet.", "CZE-Konditions-Schwaeche-Risiko Hoehen-Faktor.", "MEX-Rotation-Risiko bereits qualifiziert."],
+      "wm_marktregeln_aktiv": "2:0-Insurance bei 1X2 (MEX). MEX-Rotation = Torschuetzen-Tipps vorsicht; Unter 2.5 VALUE (CZE-Defense + Hoehen-Tempo-Bremse).",
+      "skipped_due_to_token_budget": false
+    },
+    {
+      "id": "2026-06-25-rsa-kor",
+      "liga": "FIFA WM 2026 - Gruppe A - Spieltag 3",
+      "wettbewerb_kontext": "WM 2026, Gruppe A. Beide muessen punkten gegen MEX-Klasse.",
+      "heim": "Suedafrika", "gast": "Suedkorea",
+      "heim_kuerzel": "RSA", "gast_kuerzel": "KOR",
+      "anstoss": "2026-06-25T03:00:00+02:00", "anstoss_lokal": "7:00 PM CDT / 9:00 PM ET", "anstoss_utc": "2026-06-25T01:00:00Z",
+      "stadion": "Estadio BBVA",
+      "spielort_faktor": {"stadt": "Monterrey/Guadalupe", "stadion": "Estadio BBVA", "land": "Mexiko", "hoehe_m": 540, "kapazitaet": 53500, "klima_anstoss": "Abend, moderate Hoehe + Hitze", "anstoss_lokal": "7:00 PM CDT", "lokal_faktor": "Hitze + Hoehe moderat", "implikationen": ["Hoehe 540m + Hitze - mittel-belastend", "KOR-Squad mit PL/Bundesliga-Profis (Son/Lee Kang-in)"]},
+      "turnier_phase": "Gruppenphase Spieltag 3", "gruppe": "A",
+      "gruppen_stand_vor_spiel": {"kontext": "Sp.1+2 Stand nachpruefen - beide moeglich noch alles offen."},
+      "squad_heim_top": [
+        {"name": "Lyle Foster", "nummer": 9, "position": "ST", "verein": "Burnley (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/South_Africa_at_the_2026_FIFA_World_Cup", "hinweis": "Stamm-9er"},
+        {"name": "Percy Tau", "nummer": 11, "position": "OM/RF", "verein": "Al-Ahli (Saudi)", "verifiziert_via": "https://en.wikipedia.org/wiki/South_Africa_at_the_2026_FIFA_World_Cup", "hinweis": "Veteran-Kreator, Saudi frischer"}
+      ],
+      "squad_gast_top": [
+        {"name": "Son Heung-min", "nummer": 7, "position": "LF/ST", "verein": "LAFC (MLS, Wechsel 25)", "verifiziert_via": "https://en.wikipedia.org/wiki/South_Korea_at_the_2026_FIFA_World_Cup", "hinweis": "Kapitaen, Star-Spieler"},
+        {"name": "Lee Kang-in", "nummer": 18, "position": "OM", "verein": "Paris SG", "verifiziert_via": "https://en.wikipedia.org/wiki/South_Korea_at_the_2026_FIFA_World_Cup", "hinweis": "Stamm-10er PSG"},
+        {"name": "Kim Min-jae", "nummer": 3, "position": "IV", "verein": "Bayern Muenchen (BL)", "verifiziert_via": "https://en.wikipedia.org/wiki/South_Korea_at_the_2026_FIFA_World_Cup", "hinweis": "Defense-Anker"}
+      ],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine - WM exklusiv", "gast": "keine - WM exklusiv", "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"]},
+      "saisonziel_heim": "R32 ueber Sieg/Punkt + Tordiff", "saisonziel_gast": "R32 ueber Sieg/Punkt + Tordiff",
+      "form_heim_letzte_5": "Sp.1+2", "form_gast_letzte_5": "Sp.1 + 0:1 vs MEX Sp.2", "recovery_heim": "5-6 Tage", "recovery_gast": "5-6 Tage",
+      "quoten": {"bet365_indikativ": {"sieg_heim": 3.4, "draw": 3.1, "sieg_gast": 2.2, "ueber_2_5": 2.05, "unter_2_5": 1.75, "btts_ja": 1.85, "btts_nein": 1.95, "dc_1x": 1.6, "dc_x2": 1.28, "kommentar": "KOR knapp Favorit, Coinflip-Edge"}, "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup"], "hinweis": "bet365-DE live verifizieren."},
+      "news_kompakt": ["RSA-KOR Sp.3 Monterrey, Mittelhoehe 540m.", "Beide do-or-die nach MEX-Edge.", "Son-Heung-min Star-Faktor KOR.", "Coinflip-Spiel-Charakter."],
+      "wm_marktregeln_aktiv": "2:0-Insurance bei 1X2. Erster-Torschuetze RSA WACKEL-max.",
+      "skipped_due_to_token_budget": false
+    },
+    {
+      "id": "2026-06-25-cuw-civ",
+      "liga": "FIFA WM 2026 - Gruppe E - Spieltag 3",
+      "wettbewerb_kontext": "WM 2026, Gruppe E. GER bereits qualifiziert. CUW + CIV um R32-Platz-2.",
+      "heim": "Curacao", "gast": "Elfenbeinkueste",
+      "heim_kuerzel": "CUW", "gast_kuerzel": "CIV",
+      "anstoss": "2026-06-25T22:00:00+02:00", "anstoss_lokal": "4:00 PM ET", "anstoss_utc": "2026-06-25T20:00:00Z",
+      "stadion": "Lincoln Financial Field",
+      "spielort_faktor": {"stadt": "Philadelphia", "stadion": "Lincoln Financial Field", "land": "USA", "hoehe_m": 12, "kapazitaet": 67600, "klima_anstoss": "Spaetnachmittag East Coast", "anstoss_lokal": "4:00 PM ET", "lokal_faktor": "neutral, East-Coast-Klima", "implikationen": ["neutral", "CIV-Squad mit PL/Ligue-1-Profis Saisonbelastung"]},
+      "turnier_phase": "Gruppenphase Spieltag 3", "gruppe": "E",
+      "gruppen_stand_vor_spiel": {"kontext": "GER qualifiziert (6 Pkt). ECU 0:0 vs CUW Sp.2. CIV 1:2 vs GER Sp.2. Tabelle 2+3+4 noch alles offen."},
+      "squad_heim_top": [
+        {"name": "Leandro Bacuna", "nummer": 7, "position": "ZM/RV", "verein": "Norwich (Championship)", "verifiziert_via": "https://en.wikipedia.org/wiki/Cura%C3%A7ao_at_the_2026_FIFA_World_Cup", "hinweis": "Veteran-Profi"},
+        {"name": "Juninho Bacuna", "nummer": 8, "position": "ZM", "verein": "Pendekor", "verifiziert_via": "https://en.wikipedia.org/wiki/Cura%C3%A7ao_at_the_2026_FIFA_World_Cup", "hinweis": "Bruder Leandro, Stamm-8er"}
+      ],
+      "squad_gast_top": [
+        {"name": "Sebastien Haller", "nummer": 9, "position": "ST", "verein": "Borussia Dortmund (BL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Ivory_Coast_at_the_2026_FIFA_World_Cup", "hinweis": "AFCON-Held 2024, Stamm-9er"},
+        {"name": "Franck Kessie", "nummer": 8, "position": "ZM", "verein": "Al-Ahli (Saudi)", "verifiziert_via": "https://en.wikipedia.org/wiki/Ivory_Coast_at_the_2026_FIFA_World_Cup", "hinweis": "Kapitaen, Saudi-Liga frischer"},
+        {"name": "Simon Adingra", "nummer": 11, "position": "LF", "verein": "Sunderland (PL Wechsel 25)", "verifiziert_via": "https://en.wikipedia.org/wiki/Ivory_Coast_at_the_2026_FIFA_World_Cup", "hinweis": "Speed-Fluegel"}
+      ],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine - WM exklusiv", "gast": "keine - WM exklusiv", "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"]},
+      "saisonziel_heim": "Erstes WM ueberhaupt; Sensation R32 via Sieg", "saisonziel_gast": "R32 via Sieg + Tordiff",
+      "form_heim_letzte_5": "Sp.1 + 0:0 vs ECU Sp.2", "form_gast_letzte_5": "Sp.1 + 1:2 vs GER Sp.2", "recovery_heim": "5-6 Tage", "recovery_gast": "5-6 Tage",
+      "quoten": {"bet365_indikativ": {"sieg_heim": 5.5, "draw": 3.5, "sieg_gast": 1.6, "ueber_2_5": 1.95, "unter_2_5": 1.85, "btts_ja": 1.95, "btts_nein": 1.85, "dc_1x": 2.2, "dc_x2": 1.12, "kommentar": "CIV Klassen-Favorit nach AFCON-Titel"}, "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup"], "hinweis": "bet365-DE live verifizieren."},
+      "news_kompakt": ["CUW-CIV Sp.3 Philadelphia, do-or-die fuer beide.", "CIV mit Haller/Kessie Klassen-Edge.", "CUW erster WM-Sieg-Sensation moeglich."],
+      "wm_marktregeln_aktiv": "2:0-Insurance bei 1X2. Haller-Torschuetze VALUE.",
+      "skipped_due_to_token_budget": false
+    },
+    {
+      "id": "2026-06-25-ecu-ger",
+      "liga": "FIFA WM 2026 - Gruppe E - Spieltag 3",
+      "wettbewerb_kontext": "WM 2026, Gruppe E. GER qualifiziert (6 Pkt). ECU braucht Sieg/Punkt fuer R32.",
+      "heim": "Ecuador", "gast": "Deutschland",
+      "heim_kuerzel": "ECU", "gast_kuerzel": "GER",
+      "anstoss": "2026-06-25T22:00:00+02:00", "anstoss_lokal": "4:00 PM ET", "anstoss_utc": "2026-06-25T20:00:00Z",
+      "stadion": "MetLife Stadium",
+      "spielort_faktor": {"stadt": "East Rutherford NJ", "stadion": "MetLife Stadium", "land": "USA", "hoehe_m": 3, "kapazitaet": 82500, "klima_anstoss": "Spaetnachmittag East Coast", "anstoss_lokal": "4:00 PM ET", "lokal_faktor": "neutral, Finale-Stadion", "implikationen": ["neutral", "GER-Stamm mit BL/PL-Belastung (Wirtz Liverpool-Wechsel Sommer25, Musiala Bayern 38+ Spiele)"]},
+      "turnier_phase": "Gruppenphase Spieltag 3", "gruppe": "E",
+      "gruppen_stand_vor_spiel": {"heim_pkt_indikativ": 1, "gast_pkt": 6, "gast_status": "qualifiziert", "kontext": "GER qualifiziert mit 6 Pkt + 2:1 vs CIV Sp.2. ECU 0:0 vs CUW Sp.2 - 1 Pkt."},
+      "squad_heim_top": [
+        {"name": "Enner Valencia", "nummer": 13, "position": "ST", "verein": "Internacional", "verifiziert_via": "https://en.wikipedia.org/wiki/Ecuador_at_the_2026_FIFA_World_Cup", "hinweis": "Kapitaen-Veteran"},
+        {"name": "Moises Caicedo", "nummer": 23, "position": "DM", "verein": "Chelsea (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Ecuador_at_the_2026_FIFA_World_Cup", "hinweis": "Defensiv-Sechser PL-Top-Profi, Chelsea-Club-WM-2025-Belastung"},
+        {"name": "Kendry Paez", "nummer": 14, "position": "OM", "verein": "Chelsea (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Ecuador_at_the_2026_FIFA_World_Cup", "hinweis": "Junges Top-Talent"}
+      ],
+      "squad_gast_top": [
+        {"name": "Florian Wirtz", "nummer": 10, "position": "OM", "verein": "Liverpool (PL, Transfer Sommer25)", "verifiziert_via": "https://en.wikipedia.org/wiki/Germany_at_the_2026_FIFA_World_Cup", "hinweis": "Spielmacher, Wechsel-Belastung"},
+        {"name": "Jamal Musiala", "nummer": 14, "position": "OM", "verein": "Bayern Muenchen (BL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Germany_at_the_2026_FIFA_World_Cup", "hinweis": "Hauptbedrohung, BL-Saison-Marathon"},
+        {"name": "Niclas Fuellkrug", "nummer": 9, "position": "ST", "verein": "West Ham (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Germany_at_the_2026_FIFA_World_Cup", "hinweis": "Stamm-9er Volume"},
+        {"name": "Kai Havertz", "nummer": 7, "position": "ST/OM", "verein": "Arsenal (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Germany_at_the_2026_FIFA_World_Cup", "hinweis": "Backup-9er"}
+      ],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine - WM exklusiv", "gast": "keine - WM exklusiv", "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"]},
+      "saisonziel_heim": "R32 via Punkt/Sieg", "saisonziel_gast": "Qualifiziert - Gruppen-Sieg-Position absichern",
+      "form_heim_letzte_5": "Sp.1 + 0:0 vs CUW", "form_gast_letzte_5": "S-S (qualifiziert)", "recovery_heim": "5-6 Tage", "recovery_gast": "5-6 Tage",
+      "quoten": {"bet365_indikativ": {"sieg_heim": 5.0, "draw": 3.4, "sieg_gast": 1.65, "ueber_2_5": 1.85, "unter_2_5": 1.95, "btts_ja": 1.95, "btts_nein": 1.85, "dc_1x": 2.05, "dc_x2": 1.15, "kommentar": "GER Klassen-Favorit, ECU defensiv stark (0:0 vs CUW)"}, "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup"], "hinweis": "bet365-DE live verifizieren."},
+      "news_kompakt": ["ECU-GER Sp.3 MetLife NJ.", "GER qualifiziert nach 6 Pkt - Rotation-Risiko.", "ECU defensiv stark gezeigt (0:0 vs CUW).", "GER-Rotation = Stamm-Torschuetzen Vorsicht."],
+      "wm_marktregeln_aktiv": "2:0-Insurance bei 1X2 (GER). GER-Rotation = Wirtz/Musiala-Torschuetze Vorsicht; Unter 2.5 VALUE (ECU-Defense + GER-Rotation).",
+      "skipped_due_to_token_budget": false
+    },
+    {
+      "id": "2026-06-26-jpn-swe",
+      "liga": "FIFA WM 2026 - Gruppe F - Spieltag 3",
+      "wettbewerb_kontext": "WM 2026, Gruppe F. NED dominant (5:1 vs SWE Sp.2). JPN 4:0 vs TUN Sp.2.",
+      "heim": "Japan", "gast": "Schweden",
+      "heim_kuerzel": "JPN", "gast_kuerzel": "SWE",
+      "anstoss": "2026-06-26T01:00:00+02:00", "anstoss_lokal": "7:00 PM ET", "anstoss_utc": "2026-06-25T23:00:00Z",
+      "stadion": "AT&T Stadium",
+      "spielort_faktor": {"stadt": "Arlington TX", "stadion": "AT&T Stadium", "land": "USA", "hoehe_m": 175, "kapazitaet": 80000, "klima_anstoss": "Abend Texas, Klimaanlage indoor", "anstoss_lokal": "6:00 PM CT", "lokal_faktor": "Hitze + Klimaanlage indoor", "implikationen": ["Indoor klimatisiert", "SWE-Stamm mit BL/PL-Belastung (Isak Newcastle 38+ Spiele)"]},
+      "turnier_phase": "Gruppenphase Spieltag 3", "gruppe": "F",
+      "gruppen_stand_vor_spiel": {"heim_pkt_indikativ": 4, "gast_pkt_indikativ": 1, "kontext": "JPN nach 4:0 vs TUN + Sp.1 wahrscheinlich Tab.2. SWE nach 1:5 vs NED Tab.4 do-or-die."},
+      "squad_heim_top": [
+        {"name": "Wataru Endo", "nummer": 6, "position": "DM", "verein": "Liverpool (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Japan_at_the_2026_FIFA_World_Cup", "hinweis": "Kapitaen-Sechser"},
+        {"name": "Takumi Minamino", "nummer": 18, "position": "OM/LF", "verein": "AS Monaco", "verifiziert_via": "https://en.wikipedia.org/wiki/Japan_at_the_2026_FIFA_World_Cup", "hinweis": "Stamm-10er"},
+        {"name": "Daichi Kamada", "nummer": 15, "position": "OM", "verein": "Crystal Palace (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Japan_at_the_2026_FIFA_World_Cup", "hinweis": "Trefffaehiger OM, Tor vs TUN Sp.2"},
+        {"name": "Ayase Ueda", "nummer": 9, "position": "ST", "verein": "Feyenoord", "verifiziert_via": "https://en.wikipedia.org/wiki/Japan_at_the_2026_FIFA_World_Cup", "hinweis": "Stamm-9er, Tor vs TUN Sp.2"}
+      ],
+      "squad_gast_top": [
+        {"name": "Alexander Isak", "nummer": 11, "position": "ST", "verein": "Newcastle (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Sweden_at_the_2026_FIFA_World_Cup", "hinweis": "Star-9er, PL-Top-Scorer-Profil"},
+        {"name": "Viktor Gyokeres", "nummer": 9, "position": "ST", "verein": "Arsenal (PL Transfer Sommer25)", "verifiziert_via": "https://en.wikipedia.org/wiki/Sweden_at_the_2026_FIFA_World_Cup", "hinweis": "Volume-Stuermer, Transfer-Belastung"},
+        {"name": "Dejan Kulusevski", "nummer": 21, "position": "RF/OM", "verein": "Tottenham (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Sweden_at_the_2026_FIFA_World_Cup", "hinweis": "Stamm-10/RF"}
+      ],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine - WM exklusiv", "gast": "keine - WM exklusiv", "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"]},
+      "saisonziel_heim": "R32-Quali", "saisonziel_gast": "R32-Hoffnung via Sieg + Tordiff",
+      "form_heim_letzte_5": "Sp.1 + 4:0 TUN", "form_gast_letzte_5": "Sp.1 + 1:5 NED", "recovery_heim": "5 Tage", "recovery_gast": "5 Tage",
+      "quoten": {"bet365_indikativ": {"sieg_heim": 2.4, "draw": 3.2, "sieg_gast": 2.9, "ueber_2_5": 1.7, "unter_2_5": 2.15, "btts_ja": 1.7, "btts_nein": 2.1, "dc_1x": 1.4, "dc_x2": 1.55, "kommentar": "JPN knapp Favorit nach 4:0-Stand"}, "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup"], "hinweis": "bet365-DE live verifizieren."},
+      "news_kompakt": ["JPN-SWE Sp.3 Arlington Indoor.", "JPN 4:0 vs TUN Sp.2 - Form-Hoch.", "SWE 1:5 vs NED Sp.2 - schwer angeschlagen.", "Isak/Gyokeres muessen liefern."],
+      "wm_marktregeln_aktiv": "2:0-Insurance bei 1X2. Ueda/Kamada-Torschuetze VALUE (Form-Hit Sp.2 bestaetigt - Lesson 21.06).",
+      "skipped_due_to_token_budget": false
+    },
+    {
+      "id": "2026-06-26-tun-ned",
+      "liga": "FIFA WM 2026 - Gruppe F - Spieltag 3",
+      "wettbewerb_kontext": "WM 2026, Gruppe F. NED 5:1 vs SWE Sp.2 - Gruppen-Sieg-Position. TUN 0:4 vs JPN Sp.2.",
+      "heim": "Tunesien", "gast": "Niederlande",
+      "heim_kuerzel": "TUN", "gast_kuerzel": "NED",
+      "anstoss": "2026-06-26T01:00:00+02:00", "anstoss_lokal": "7:00 PM ET / 6:00 PM CT", "anstoss_utc": "2026-06-25T23:00:00Z",
+      "stadion": "Arrowhead Stadium",
+      "spielort_faktor": {"stadt": "Kansas City MO", "stadion": "Arrowhead Stadium", "land": "USA", "hoehe_m": 274, "kapazitaet": 76400, "klima_anstoss": "Abend Mid-West, mittel-Hitze Sommer", "anstoss_lokal": "6:00 PM CT", "lokal_faktor": "Mittel-Hitze Sommer", "implikationen": ["Mittel-Hitze", "NED-Stamm mit PL/Eredivisie-Mix"]},
+      "turnier_phase": "Gruppenphase Spieltag 3", "gruppe": "F",
+      "gruppen_stand_vor_spiel": {"heim_pkt_indikativ": 0, "gast_pkt_indikativ": 4, "kontext": "NED nach 5:1 vs SWE + Sp.1-Stand pruefen, fast qualifiziert. TUN nach 0:4 vs JPN praktisch eliminiert."},
+      "squad_heim_top": [
+        {"name": "Wahbi Khazri", "nummer": 10, "position": "OM", "verein": "Montpellier", "verifiziert_via": "https://en.wikipedia.org/wiki/Tunisia_at_the_2026_FIFA_World_Cup", "hinweis": "Kapitaen-Veteran"},
+        {"name": "Hannibal Mejbri", "nummer": 6, "position": "ZM", "verein": "Burnley (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Tunisia_at_the_2026_FIFA_World_Cup", "hinweis": "Junger Box-to-Box"}
+      ],
+      "squad_gast_top": [
+        {"name": "Cody Gakpo", "nummer": 11, "position": "LF/ST", "verein": "Liverpool (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Netherlands_at_the_2026_FIFA_World_Cup", "hinweis": "Star-Stuermer, Tor vs SWE Sp.2"},
+        {"name": "Memphis Depay", "nummer": 10, "position": "ST/OM", "verein": "Corinthians (Brasilien)", "verifiziert_via": "https://en.wikipedia.org/wiki/Netherlands_at_the_2026_FIFA_World_Cup", "hinweis": "Veteran-Kapitaen"},
+        {"name": "Xavi Simons", "nummer": 7, "position": "OM/RF", "verein": "RB Leipzig (BL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Netherlands_at_the_2026_FIFA_World_Cup", "hinweis": "Stamm-10er"}
+      ],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine - WM exklusiv", "gast": "keine - WM exklusiv", "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"]},
+      "saisonziel_heim": "Prestige nach Eliminierung", "saisonziel_gast": "R32 via Sieg + Gruppen-Sieg",
+      "form_heim_letzte_5": "Sp.1 + 0:4 JPN", "form_gast_letzte_5": "Sp.1 + 5:1 SWE", "recovery_heim": "5 Tage", "recovery_gast": "5 Tage",
+      "quoten": {"bet365_indikativ": {"sieg_heim": 7.0, "draw": 4.0, "sieg_gast": 1.5, "ueber_2_5": 1.65, "unter_2_5": 2.25, "btts_ja": 2.0, "btts_nein": 1.8, "dc_1x": 2.55, "dc_x2": 1.12, "kommentar": "NED massiver Favorit, Form-Hoch nach 5:1"}, "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup"], "hinweis": "bet365-DE live verifizieren."},
+      "news_kompakt": ["TUN-NED Sp.3 Kansas City.", "NED Form-Hoch nach 5:1 vs SWE.", "TUN nach 0:4 vs JPN eliminiert.", "Gakpo-Torschuetze SAFE/VALUE."],
+      "wm_marktregeln_aktiv": "2:0-Insurance bei 1X2 (NED). Gakpo-Torschuetze VALUE (Lesson 21.06 Cluster-Brick gebrochen).",
+      "skipped_due_to_token_budget": false
+    },
+    {
+      "id": "2026-06-26-tur-usa",
+      "liga": "FIFA WM 2026 - Gruppe D - Spieltag 3",
+      "wettbewerb_kontext": "WM 2026, Gruppe D. USA qualifiziert (6 Pkt nach 2:0 vs AUS Sp.2). TUR 0:1 vs PAR Sp.2.",
+      "heim": "Tuerkei", "gast": "USA",
+      "heim_kuerzel": "TUR", "gast_kuerzel": "USA",
+      "anstoss": "2026-06-26T04:00:00+02:00", "anstoss_lokal": "7:00 PM PT / 10:00 PM ET", "anstoss_utc": "2026-06-26T02:00:00Z",
+      "stadion": "SoFi Stadium",
+      "spielort_faktor": {"stadt": "Inglewood CA", "stadion": "SoFi Stadium", "land": "USA", "hoehe_m": 38, "kapazitaet": 70200, "klima_anstoss": "Abend LA, moderate Kuestenklima ueberdacht", "anstoss_lokal": "7:00 PM PT", "lokal_faktor": "moderates Klima, ueberdacht", "implikationen": ["Indoor-Stadion mit Dach, klimatisiert", "USA-Heim-Atmosphaere LA-Region"]},
+      "turnier_phase": "Gruppenphase Spieltag 3", "gruppe": "D",
+      "gruppen_stand_vor_spiel": {"heim_pkt_indikativ": 0, "gast_pkt": 6, "gast_status": "qualifiziert", "kontext": "USA qualifiziert. TUR 0:1 vs PAR + Sp.1 - wahrscheinlich Tab.3+4 do-or-die."},
+      "squad_heim_top": [
+        {"name": "Hakan Calhanoglu", "nummer": 10, "position": "DM/OM", "verein": "Inter Mailand", "verifiziert_via": "https://en.wikipedia.org/wiki/Turkey_at_the_2026_FIFA_World_Cup", "hinweis": "Kapitaen, Set-Piece-Spezi"},
+        {"name": "Arda Guler", "nummer": 8, "position": "OM", "verein": "Real Madrid", "verifiziert_via": "https://en.wikipedia.org/wiki/Turkey_at_the_2026_FIFA_World_Cup", "hinweis": "Junger Spielmacher"},
+        {"name": "Kerem Akturkoglu", "nummer": 11, "position": "LF", "verein": "Benfica", "verifiziert_via": "https://en.wikipedia.org/wiki/Turkey_at_the_2026_FIFA_World_Cup", "hinweis": "Speed-Fluegel"}
+      ],
+      "squad_gast_top": [
+        {"name": "Christian Pulisic", "nummer": 10, "position": "OM/LF", "verein": "AC Milan", "verifiziert_via": "https://en.wikipedia.org/wiki/United_States_at_the_2026_FIFA_World_Cup", "hinweis": "Kapitaen, Spielmacher"},
+        {"name": "Folarin Balogun", "nummer": 9, "position": "ST", "verein": "AS Monaco", "verifiziert_via": "https://en.wikipedia.org/wiki/United_States_at_the_2026_FIFA_World_Cup", "hinweis": "Stamm-9er"},
+        {"name": "Weston McKennie", "nummer": 8, "position": "ZM", "verein": "Juventus", "verifiziert_via": "https://en.wikipedia.org/wiki/United_States_at_the_2026_FIFA_World_Cup", "hinweis": "Stamm-8er"}
+      ],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine - WM exklusiv", "gast": "keine - WM exklusiv", "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"]},
+      "saisonziel_heim": "Bester-Dritter-Hoffnung via Sieg", "saisonziel_gast": "Qualifiziert - Gruppen-Sieg sichern, Rotation moeglich",
+      "form_heim_letzte_5": "Sp.1 + 0:1 PAR", "form_gast_letzte_5": "S-S (qualifiziert)", "recovery_heim": "5 Tage", "recovery_gast": "5 Tage",
+      "quoten": {"bet365_indikativ": {"sieg_heim": 2.5, "draw": 3.2, "sieg_gast": 2.85, "ueber_2_5": 1.85, "unter_2_5": 1.95, "btts_ja": 1.8, "btts_nein": 2.0, "dc_1x": 1.42, "dc_x2": 1.53, "kommentar": "Coinflip, USA-Rotation + TUR-Druck"}, "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup"], "hinweis": "bet365-DE live verifizieren."},
+      "news_kompakt": ["TUR-USA Sp.3 SoFi LA.", "USA qualifiziert nach 2:0 vs AUS Sp.2 - Rotation-Risiko.", "TUR muss Sieg + Tordiff.", "USA-Heim-Stadion-Vorteil."],
+      "wm_marktregeln_aktiv": "2:0-Insurance bei 1X2. USA-Rotation = Stamm-Torschuetzen Vorsicht; Calhanoglu-Torschuetze (Freistoss) VALUE.",
+      "skipped_due_to_token_budget": false
+    },
+    {
+      "id": "2026-06-26-par-aus",
+      "liga": "FIFA WM 2026 - Gruppe D - Spieltag 3",
+      "wettbewerb_kontext": "WM 2026, Gruppe D. AUS + PAR um Tab.2 - Sp.2 0:1 PAR-Sieg vs TUR jetzt Edge.",
+      "heim": "Paraguay", "gast": "Australien",
+      "heim_kuerzel": "PAR", "gast_kuerzel": "AUS",
+      "anstoss": "2026-06-26T04:00:00+02:00", "anstoss_lokal": "7:00 PM PT / 10:00 PM ET", "anstoss_utc": "2026-06-26T02:00:00Z",
+      "stadion": "Levi's Stadium",
+      "spielort_faktor": {"stadt": "Santa Clara CA", "stadion": "Levi's Stadium", "land": "USA", "hoehe_m": 5, "kapazitaet": 68500, "klima_anstoss": "Abend Bay Area, mild", "anstoss_lokal": "7:00 PM PT", "lokal_faktor": "Kuestenklima neutral", "implikationen": ["neutral", "AUS-Stamm meist Europa-Profi"]},
+      "turnier_phase": "Gruppenphase Spieltag 3", "gruppe": "D",
+      "gruppen_stand_vor_spiel": {"heim_pkt_indikativ": 3, "gast_pkt_indikativ": 3, "kontext": "AUS 3 Pkt nach Sp.1-Sieg. PAR 3 Pkt nach 1:0 vs TUR Sp.2 - beide Tab.2 mit gleicher Tordiff Wahrscheinlich."},
+      "squad_heim_top": [
+        {"name": "Julio Enciso", "nummer": 10, "position": "OM", "verein": "Ipswich (PL Wechsel 25)", "verifiziert_via": "https://en.wikipedia.org/wiki/Paraguay_at_the_2026_FIFA_World_Cup", "hinweis": "Junger Top-Spieler"},
+        {"name": "Antonio Sanabria", "nummer": 9, "position": "ST", "verein": "Torino", "verifiziert_via": "https://en.wikipedia.org/wiki/Paraguay_at_the_2026_FIFA_World_Cup", "hinweis": "Stamm-9er"}
+      ],
+      "squad_gast_top": [
+        {"name": "Mathew Ryan", "nummer": 1, "position": "TW", "verein": "Lens (Ligue 1)", "verifiziert_via": "https://en.wikipedia.org/wiki/Australia_at_the_2026_FIFA_World_Cup", "hinweis": "Kapitaen-Goalie"},
+        {"name": "Mitchell Duke", "nummer": 7, "position": "ST", "verein": "Machida Zelvia (Japan)", "verifiziert_via": "https://en.wikipedia.org/wiki/Australia_at_the_2026_FIFA_World_Cup", "hinweis": "Stamm-9er, AFC-Cup-Profi"}
+      ],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine - WM exklusiv", "gast": "keine - WM exklusiv", "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"]},
+      "saisonziel_heim": "R32 via Sieg/Punkt", "saisonziel_gast": "R32 via Sieg/Punkt",
+      "form_heim_letzte_5": "Sp.1 + 1:0 TUR", "form_gast_letzte_5": "Sp.1 + 0:2 USA", "recovery_heim": "5 Tage", "recovery_gast": "5 Tage",
+      "quoten": {"bet365_indikativ": {"sieg_heim": 2.5, "draw": 3.0, "sieg_gast": 2.85, "ueber_2_5": 2.0, "unter_2_5": 1.8, "btts_ja": 1.85, "btts_nein": 1.95, "dc_1x": 1.4, "dc_x2": 1.5, "kommentar": "Coinflip-Spiel, do-or-die-Charakter"}, "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup"], "hinweis": "bet365-DE live verifizieren."},
+      "news_kompakt": ["PAR-AUS Sp.3 Santa Clara Bay Area.", "Do-or-die fuer R32-Quali.", "Beide 3 Pkt - direkter Duell.", "Coinflip-Spiel-Charakter."],
+      "wm_marktregeln_aktiv": "2:0-Insurance bei 1X2. Unter 2.5 VALUE (Sp.3 do-or-die oft taktisch).",
+      "skipped_due_to_token_budget": false
+    },
+    {
+      "id": "2026-06-26-nor-fra",
+      "liga": "FIFA WM 2026 - Gruppe I - Spieltag 3",
+      "wettbewerb_kontext": "WM 2026, Gruppe I. NOR + FRA Top-Showdown nach Sp.1+2 Siegen.",
+      "heim": "Norwegen", "gast": "Frankreich",
+      "heim_kuerzel": "NOR", "gast_kuerzel": "FRA",
+      "anstoss": "2026-06-26T21:00:00+02:00", "anstoss_lokal": "3:00 PM ET", "anstoss_utc": "2026-06-26T19:00:00Z",
+      "stadion": "Gillette Stadium",
+      "spielort_faktor": {"stadt": "Foxborough MA", "stadion": "Gillette Stadium", "land": "USA", "hoehe_m": 64, "kapazitaet": 65900, "klima_anstoss": "Nachmittag Boston-Area, mild", "anstoss_lokal": "3:00 PM ET", "lokal_faktor": "neutral, gemaessigt", "implikationen": ["neutral", "FRA-Stamm mit Real-Madrid/PSG-Belastung"]},
+      "turnier_phase": "Gruppenphase Spieltag 3", "gruppe": "I",
+      "gruppen_stand_vor_spiel": {"heim_pkt_indikativ": "Sp.2 vs SEN nachpruefen", "gast_pkt_indikativ": "Sp.2 vs IRQ nachpruefen", "kontext": "Beide Sp.1-Sieger - Sp.2-Stand entscheidet ob beide qualifiziert oder noch alles offen."},
+      "squad_heim_top": [
+        {"name": "Erling Haaland", "nummer": 9, "position": "ST", "verein": "Manchester City (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Norway_at_the_2026_FIFA_World_Cup", "hinweis": "Star-9er PL-Volume"},
+        {"name": "Martin Odegaard", "nummer": 10, "position": "OM", "verein": "Arsenal (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Norway_at_the_2026_FIFA_World_Cup", "hinweis": "Kapitaen-Spielmacher"}
+      ],
+      "squad_gast_top": [
+        {"name": "Kylian Mbappe", "nummer": 10, "position": "ST/LF", "verein": "Real Madrid", "verifiziert_via": "https://en.wikipedia.org/wiki/France_at_the_2026_FIFA_World_Cup", "hinweis": "Kapitaen, Real-Madrid-CL-Final-31.05 Belastung hoch"},
+        {"name": "Ousmane Dembele", "nummer": 11, "position": "RF", "verein": "Paris SG", "verifiziert_via": "https://en.wikipedia.org/wiki/France_at_the_2026_FIFA_World_Cup", "hinweis": "Speed-Fluegel"}
+      ],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine - WM exklusiv", "gast": "keine - WM exklusiv", "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"]},
+      "saisonziel_heim": "Gruppen-Sieg via Sieg/Punkt", "saisonziel_gast": "Gruppen-Sieg via Sieg/Punkt",
+      "form_heim_letzte_5": "Sp.1 4:1 + Sp.2", "form_gast_letzte_5": "Sp.1 3:1 + Sp.2", "recovery_heim": "4 Tage", "recovery_gast": "4 Tage",
+      "quoten": {"bet365_indikativ": {"sieg_heim": 3.4, "draw": 3.4, "sieg_gast": 2.1, "ueber_2_5": 1.65, "unter_2_5": 2.25, "btts_ja": 1.65, "btts_nein": 2.2, "dc_1x": 1.7, "dc_x2": 1.28, "kommentar": "FRA Edge ueber Klasse + Tiefe, NOR-Heim-Atmosphaere"}, "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup"], "hinweis": "bet365-DE live verifizieren."},
+      "news_kompakt": ["NOR-FRA Sp.3 Top-Duell Gruppe I.", "Beide Sp.1-Sieger - Gruppen-Sieg-Showdown.", "Haaland vs Mbappe Star-Duell.", "BTTS-Tendenz hoch."],
+      "wm_marktregeln_aktiv": "2:0-Insurance bei 1X2. Haaland + Mbappe-Torschuetze VALUE jeweils.",
+      "skipped_due_to_token_budget": false
+    },
+    {
+      "id": "2026-06-26-sen-irq",
+      "liga": "FIFA WM 2026 - Gruppe I - Spieltag 3",
+      "wettbewerb_kontext": "WM 2026, Gruppe I. SEN braucht Sieg + Tordiff fuer R32. IRQ Prestige.",
+      "heim": "Senegal", "gast": "Irak",
+      "heim_kuerzel": "SEN", "gast_kuerzel": "IRQ",
+      "anstoss": "2026-06-26T21:00:00+02:00", "anstoss_lokal": "3:00 PM ET", "anstoss_utc": "2026-06-26T19:00:00Z",
+      "stadion": "BMO Field",
+      "spielort_faktor": {"stadt": "Toronto", "stadion": "BMO Field", "land": "Kanada", "hoehe_m": 76, "kapazitaet": 45500, "klima_anstoss": "Nachmittag Toronto, mild", "anstoss_lokal": "3:00 PM ET", "lokal_faktor": "moderates Klima neutral", "implikationen": ["neutral", "SEN-PL-Stamm-Belastung"]},
+      "turnier_phase": "Gruppenphase Spieltag 3", "gruppe": "I",
+      "gruppen_stand_vor_spiel": {"heim_pkt_indikativ": "Sp.2 nachpruefen", "gast_pkt": 0, "kontext": "IRQ nach 1:4-Auftakt + Sp.2-Stand nachpruefen. SEN do-or-die nach FRA-Niederlage."},
+      "squad_heim_top": [
+        {"name": "Sadio Mane", "nummer": 10, "position": "LF", "verein": "Al-Nassr (Saudi)", "verifiziert_via": "https://en.wikipedia.org/wiki/Senegal_at_the_2026_FIFA_World_Cup", "hinweis": "Kapitaen, Saudi frischer"},
+        {"name": "Nicolas Jackson", "nummer": 9, "position": "ST", "verein": "Chelsea (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Senegal_at_the_2026_FIFA_World_Cup", "hinweis": "PL-Volume-Stuermer"},
+        {"name": "Ismaila Sarr", "nummer": 18, "position": "RF", "verein": "Crystal Palace (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Senegal_at_the_2026_FIFA_World_Cup", "hinweis": "Speed-Fluegel"}
+      ],
+      "squad_gast_top": [
+        {"name": "Aymen Hussein", "nummer": 9, "position": "ST", "verein": "Al-Khor (Katar)", "verifiziert_via": "https://en.wikipedia.org/wiki/Iraq_at_the_2026_FIFA_World_Cup", "hinweis": "Stamm-9er"}
+      ],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine - WM exklusiv", "gast": "keine - WM exklusiv", "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"]},
+      "saisonziel_heim": "R32 via Sieg", "saisonziel_gast": "Prestige-Sieg",
+      "form_heim_letzte_5": "Sp.1 1:3 FRA + Sp.2", "form_gast_letzte_5": "Sp.1 1:4 NOR + Sp.2", "recovery_heim": "4 Tage", "recovery_gast": "4 Tage",
+      "quoten": {"bet365_indikativ": {"sieg_heim": 1.5, "draw": 4.0, "sieg_gast": 7.0, "ueber_2_5": 1.7, "unter_2_5": 2.2, "btts_ja": 2.05, "btts_nein": 1.75, "dc_1x": 1.2, "dc_x2": 2.6, "kommentar": "SEN klarer Favorit + MUSS-Sieg"}, "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup"], "hinweis": "bet365-DE live verifizieren."},
+      "news_kompakt": ["SEN-IRQ Sp.3 Toronto.", "SEN MUSS-Sieg + Tordiff fuer R32.", "Mane/Jackson/Sarr Sturm-Trio."],
+      "wm_marktregeln_aktiv": "2:0-Insurance bei 1X2 (SEN). Jackson-Torschuetze VALUE.",
+      "skipped_due_to_token_budget": false
+    },
+    {
+      "id": "2026-06-27-cpv-ksa",
+      "liga": "FIFA WM 2026 - Gruppe H - Spieltag 3",
+      "wettbewerb_kontext": "WM 2026, Gruppe H. CPV nach 0:0 vs ESP Sp.1 + Sp.2-Stand. KSA nach 1:1 URU Sp.1 + Sp.2-Stand.",
+      "heim": "Kap Verde", "gast": "Saudi-Arabien",
+      "heim_kuerzel": "CPV", "gast_kuerzel": "KSA",
+      "anstoss": "2026-06-27T02:00:00+02:00", "anstoss_lokal": "7:00 PM CDT / 8:00 PM ET (Fri 26.06)", "anstoss_utc": "2026-06-27T00:00:00Z",
+      "stadion": "NRG Stadium",
+      "spielort_faktor": {"stadt": "Houston", "stadion": "NRG Stadium", "land": "USA", "hoehe_m": 13, "kapazitaet": 72200, "klima_anstoss": "Abend Texas Indoor", "anstoss_lokal": "7:00 PM CDT", "lokal_faktor": "Hitze + Klimaanlage indoor", "implikationen": ["Indoor-klimatisiert", "KSA-Squad meist Heim-Liga frischer"]},
+      "turnier_phase": "Gruppenphase Spieltag 3", "gruppe": "H",
+      "gruppen_stand_vor_spiel": {"heim_pkt_indikativ": "CPV 1+ Pkt", "gast_pkt_indikativ": "KSA 1+ Pkt", "kontext": "Beide Sp.1-Remis. Sp.2-Stand bestimmt R32-Hoffnung."},
+      "squad_heim_top": [
+        {"name": "Ryan Mendes", "nummer": 10, "position": "ST", "verein": "Al-Wakrah (Katar)", "verifiziert_via": "https://en.wikipedia.org/wiki/Cape_Verde_at_the_2026_FIFA_World_Cup", "hinweis": "Kapitaen + Schluessel-Spieler"},
+        {"name": "Vozinha", "nummer": 1, "position": "TW", "verein": "OFI Crete", "verifiziert_via": "https://en.wikipedia.org/wiki/Cape_Verde_at_the_2026_FIFA_World_Cup", "hinweis": "40-jaehriger GK, 7-Paraden-MOM vs ESP Sp.1"}
+      ],
+      "squad_gast_top": [
+        {"name": "Salem Al-Dawsari", "nummer": 10, "position": "LF", "verein": "Al-Hilal", "verifiziert_via": "https://en.wikipedia.org/wiki/Saudi_Arabia_at_the_2026_FIFA_World_Cup", "hinweis": "Star-Fluegel"},
+        {"name": "Mohamed Al-Owais", "nummer": 21, "position": "TW", "verein": "Al-Hilal", "verifiziert_via": "https://en.wikipedia.org/wiki/Saudi_Arabia_at_the_2026_FIFA_World_Cup", "hinweis": "MOM Sp.1 vs URU"}
+      ],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine - WM exklusiv", "gast": "keine - WM exklusiv", "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"]},
+      "saisonziel_heim": "R32-Sensation via Punkt/Sieg", "saisonziel_gast": "R32-Hoffnung via Sieg",
+      "form_heim_letzte_5": "Sp.1 0:0 ESP + Sp.2", "form_gast_letzte_5": "Sp.1 1:1 URU + Sp.2", "recovery_heim": "5-6 Tage", "recovery_gast": "5-6 Tage",
+      "quoten": {"bet365_indikativ": {"sieg_heim": 2.7, "draw": 3.0, "sieg_gast": 2.7, "ueber_2_5": 2.4, "unter_2_5": 1.55, "btts_ja": 2.15, "btts_nein": 1.7, "dc_1x": 1.45, "dc_x2": 1.45, "kommentar": "Coinflip, Unter-Tendenz beide defensiv-Igel-Profile"}, "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup"], "hinweis": "bet365-DE live verifizieren."},
+      "news_kompakt": ["CPV-KSA Sp.3 Houston Indoor.", "Beide defensiv-Igel-Profile (CPV-Defense-Festung Sp.1).", "Coinflip-Spiel-Charakter.", "Unter 2.5 VALUE wegen taktischer Defense beider."],
+      "wm_marktregeln_aktiv": "2:0-Insurance bei 1X2. Unter 2.5 VALUE wegen Defense-Profile.",
+      "skipped_due_to_token_budget": false
+    },
+    {
+      "id": "2026-06-27-uru-esp",
+      "liga": "FIFA WM 2026 - Gruppe H - Spieltag 3",
+      "wettbewerb_kontext": "WM 2026, Gruppe H. ESP nach 0:0-CPV-Schock + Sp.2 vs KSA. URU nach 1:1 KSA Sp.1 + Sp.2.",
+      "heim": "Uruguay", "gast": "Spanien",
+      "heim_kuerzel": "URU", "gast_kuerzel": "ESP",
+      "anstoss": "2026-06-27T02:00:00+02:00", "anstoss_lokal": "6:00 PM CDT / 8:00 PM ET (Fri 26.06)", "anstoss_utc": "2026-06-27T00:00:00Z",
+      "stadion": "Estadio Akron",
+      "spielort_faktor": {"stadt": "Guadalajara/Zapopan", "stadion": "Estadio Akron", "land": "Mexiko", "hoehe_m": 1566, "kapazitaet": 49000, "klima_anstoss": "Abend, Mittelhoehe 1566m", "anstoss_lokal": "6:00 PM CDT", "lokal_faktor": "Mittelhoehe, Konditions-Belastung leicht", "implikationen": ["Hoehe 1566m - Konditions-Schwaeche ESP/URU-Europa-Stamm leicht", "URU-Sued-Amerikaner hoehen-erfahrener"]},
+      "turnier_phase": "Gruppenphase Spieltag 3", "gruppe": "H",
+      "gruppen_stand_vor_spiel": {"kontext": "ESP nach 0:0-CPV-Trauma + Sp.2 vs KSA - Stand live nachpruefen. URU nach 1:1-KSA + Sp.2 vs CPV ebenfalls Pruefen."},
+      "squad_heim_top": [
+        {"name": "Federico Valverde", "nummer": 15, "position": "ZM", "verein": "Real Madrid", "verifiziert_via": "https://en.wikipedia.org/wiki/Uruguay_at_the_2026_FIFA_World_Cup", "hinweis": "Box-to-Box-Power, Real-Madrid-CL-Belastung"},
+        {"name": "Darwin Nunez", "nummer": 19, "position": "ST", "verein": "Al-Hilal (Saudi)", "verifiziert_via": "https://en.wikipedia.org/wiki/Uruguay_at_the_2026_FIFA_World_Cup", "hinweis": "Speed-Stuermer, Saudi frischer"},
+        {"name": "Maximiliano Araujo", "nummer": 11, "position": "LF", "verein": "Sporting CP", "verifiziert_via": "https://en.wikipedia.org/wiki/Uruguay_at_the_2026_FIFA_World_Cup", "hinweis": "Stamm-Fluegel, Tor vs KSA Sp.1"}
+      ],
+      "squad_gast_top": [
+        {"name": "Lamine Yamal", "nummer": 19, "position": "RF", "verein": "Barcelona", "verifiziert_via": "https://en.wikipedia.org/wiki/Spain_at_the_2026_FIFA_World_Cup", "hinweis": "Star-Stuermer"},
+        {"name": "Mikel Oyarzabal", "nummer": 21, "position": "ST/LF", "verein": "Real Sociedad", "verifiziert_via": "https://en.wikipedia.org/wiki/Spain_at_the_2026_FIFA_World_Cup", "hinweis": "Stamm-9er"},
+        {"name": "Pedri", "nummer": 8, "position": "ZM", "verein": "Barcelona", "verifiziert_via": "https://en.wikipedia.org/wiki/Spain_at_the_2026_FIFA_World_Cup", "hinweis": "Spielmacher"},
+        {"name": "Rodri", "nummer": 16, "position": "DM", "verein": "Manchester City (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Spain_at_the_2026_FIFA_World_Cup", "hinweis": "Defensiv-Sechser"}
+      ],
+      "injuries_heim": [], "injuries_gast": ["Mikel Merino (Stress-Fraktur Feb 2026, WM-Status pruefen)"],
+      "parallele_wettbewerbe": {"heim": "keine - WM exklusiv", "gast": "keine - WM exklusiv", "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"]},
+      "saisonziel_heim": "R32-Quali + Gruppen-Sieg via Sieg", "saisonziel_gast": "R32-Quali + Gruppen-Sieg",
+      "form_heim_letzte_5": "Sp.1 1:1 KSA + Sp.2", "form_gast_letzte_5": "Sp.1 0:0 CPV + Sp.2 vs KSA", "recovery_heim": "5-6 Tage", "recovery_gast": "5-6 Tage",
+      "quoten": {"bet365_indikativ": {"sieg_heim": 3.6, "draw": 3.0, "sieg_gast": 2.05, "ueber_2_5": 1.85, "unter_2_5": 1.95, "btts_ja": 1.7, "btts_nein": 2.15, "dc_1x": 1.7, "dc_x2": 1.25, "kommentar": "ESP Klassen-Favorit, Hoehen-Faktor pro URU"}, "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup"], "hinweis": "bet365-DE live verifizieren."},
+      "news_kompakt": ["URU-ESP Sp.3 Guadalajara 1566m Hoehe.", "ESP Trauma-Spieltag-1 (0:0 vs CPV - 27 Schuss, 7 auf Tor).", "URU-Hoehen-Vorteil leicht.", "Top-Showdown beider Sued-Amerikaner-Klassiker."],
+      "wm_marktregeln_aktiv": "2:0-Insurance bei 1X2. Yamal/Oyarzabal-Torschuetze VALUE (Lesson 21.06 Cluster-Brick gebrochen bei Klassen-Edge-Max).",
+      "skipped_due_to_token_budget": false
+    },
+    {
+      "id": "2026-06-27-egy-irn",
+      "liga": "FIFA WM 2026 - Gruppe G - Spieltag 3",
+      "wettbewerb_kontext": "WM 2026, Gruppe G. EGY (Salah-Faktor) vs IRN, beide noch Hoffnung auf R32.",
+      "heim": "Aegypten", "gast": "Iran",
+      "heim_kuerzel": "EGY", "gast_kuerzel": "IRN",
+      "anstoss": "2026-06-27T05:00:00+02:00", "anstoss_lokal": "8:00 PM PT / 11:00 PM ET (Fri 26.06)", "anstoss_utc": "2026-06-27T03:00:00Z",
+      "stadion": "Lumen Field",
+      "spielort_faktor": {"stadt": "Seattle", "stadion": "Lumen Field", "land": "USA", "hoehe_m": 11, "kapazitaet": 68700, "klima_anstoss": "Abend Seattle, mild moeglich Regen", "anstoss_lokal": "8:00 PM PT", "lokal_faktor": "moderates Klima, ggf. Regen", "implikationen": ["neutral", "Salah Liverpool 38+ PL-Saison Belastung extrem"]},
+      "turnier_phase": "Gruppenphase Spieltag 3", "gruppe": "G",
+      "gruppen_stand_vor_spiel": {"heim_pkt_indikativ": "Sp.2 vs BEL pruefen", "gast_pkt_indikativ": "Sp.2 vs NZL pruefen", "kontext": "EGY 1 Pkt nach 1:1 vs BEL Sp.1. IRN-Stand pruefen."},
+      "squad_heim_top": [
+        {"name": "Mohamed Salah", "nummer": 10, "position": "RF", "verein": "Liverpool (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Egypt_at_the_2026_FIFA_World_Cup", "hinweis": "Star-Spieler, PL-Top-Scorer-Profil"},
+        {"name": "Trezeguet", "nummer": 22, "position": "LF", "verein": "Trabzonspor", "verifiziert_via": "https://en.wikipedia.org/wiki/Egypt_at_the_2026_FIFA_World_Cup", "hinweis": "Speed-Fluegel"}
+      ],
+      "squad_gast_top": [
+        {"name": "Mehdi Taremi", "nummer": 9, "position": "ST", "verein": "Inter Mailand (Serie A)", "verifiziert_via": "https://en.wikipedia.org/wiki/Iran_at_the_2026_FIFA_World_Cup", "hinweis": "Star-9er"},
+        {"name": "Sardar Azmoun", "nummer": 20, "position": "ST", "verein": "Shabab Al-Ahli (UAE)", "verifiziert_via": "https://en.wikipedia.org/wiki/Iran_at_the_2026_FIFA_World_Cup", "hinweis": "Backup-Stuermer-Veteran"}
+      ],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine - WM exklusiv", "gast": "keine - WM exklusiv", "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"]},
+      "saisonziel_heim": "R32 via Sieg", "saisonziel_gast": "R32 via Sieg",
+      "form_heim_letzte_5": "Sp.1 1:1 BEL + Sp.2", "form_gast_letzte_5": "Sp.1 + Sp.2", "recovery_heim": "5-6 Tage", "recovery_gast": "5-6 Tage",
+      "quoten": {"bet365_indikativ": {"sieg_heim": 2.3, "draw": 3.0, "sieg_gast": 3.3, "ueber_2_5": 2.05, "unter_2_5": 1.75, "btts_ja": 1.85, "btts_nein": 1.95, "dc_1x": 1.35, "dc_x2": 1.55, "kommentar": "EGY knapp Favorit ueber Salah-Klasse"}, "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup"], "hinweis": "bet365-DE live verifizieren."},
+      "news_kompakt": ["EGY-IRN Sp.3 Seattle Spaetabend.", "Beide do-or-die fuer R32.", "Salah Volume-Stuermer-Profil VALUE.", "Coinflip-Element vorhanden."],
+      "wm_marktregeln_aktiv": "2:0-Insurance bei 1X2. Salah-Torschuetze VALUE (Volume + Set-Piece).",
+      "skipped_due_to_token_budget": false
+    },
+    {
+      "id": "2026-06-27-nzl-bel",
+      "liga": "FIFA WM 2026 - Gruppe G - Spieltag 3",
+      "wettbewerb_kontext": "WM 2026, Gruppe G. BEL nach 1:1 EGY Sp.1. NZL Sp.1+2-Stand pruefen.",
+      "heim": "Neuseeland", "gast": "Belgien",
+      "heim_kuerzel": "NZL", "gast_kuerzel": "BEL",
+      "anstoss": "2026-06-27T05:00:00+02:00", "anstoss_lokal": "8:00 PM PT / 11:00 PM ET (Fri 26.06)", "anstoss_utc": "2026-06-27T03:00:00Z",
+      "stadion": "BC Place",
+      "spielort_faktor": {"stadt": "Vancouver", "stadion": "BC Place", "land": "Kanada", "hoehe_m": 0, "kapazitaet": 54500, "klima_anstoss": "Abend Vancouver, mild", "anstoss_lokal": "8:00 PM PT", "lokal_faktor": "moderates Klima neutral", "implikationen": ["neutral", "BEL-Stamm mit Serie-A/PL-Belastung"]},
+      "turnier_phase": "Gruppenphase Spieltag 3", "gruppe": "G",
+      "gruppen_stand_vor_spiel": {"gast_pkt_indikativ": "BEL 1+ Pkt", "kontext": "BEL nach 1:1 EGY Sp.1 + Sp.2 vs IRN."},
+      "squad_heim_top": [
+        {"name": "Chris Wood", "nummer": 9, "position": "ST", "verein": "Nottingham Forest (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/New_Zealand_at_the_2026_FIFA_World_Cup", "hinweis": "Stamm-9er, PL-Top-Scorer-Profil"}
+      ],
+      "squad_gast_top": [
+        {"name": "Kevin De Bruyne", "nummer": 7, "position": "OM", "verein": "Napoli (Serie A)", "verifiziert_via": "https://en.wikipedia.org/wiki/Belgium_at_the_2026_FIFA_World_Cup", "hinweis": "Spielmacher-Veteran"},
+        {"name": "Romelu Lukaku", "nummer": 10, "position": "ST", "verein": "Napoli (Serie A)", "verifiziert_via": "https://en.wikipedia.org/wiki/Belgium_at_the_2026_FIFA_World_Cup", "hinweis": "Stamm-9er Box-Spieler"},
+        {"name": "Jeremy Doku", "nummer": 11, "position": "LF", "verein": "Manchester City (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Belgium_at_the_2026_FIFA_World_Cup", "hinweis": "Speed-Fluegel"}
+      ],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine - WM exklusiv", "gast": "keine - WM exklusiv", "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"]},
+      "saisonziel_heim": "Prestige + erstes WM-Tor", "saisonziel_gast": "R32 via Sieg",
+      "form_heim_letzte_5": "Sp.1 + Sp.2", "form_gast_letzte_5": "Sp.1 1:1 EGY + Sp.2", "recovery_heim": "5-6 Tage", "recovery_gast": "5-6 Tage",
+      "quoten": {"bet365_indikativ": {"sieg_heim": 7.0, "draw": 4.2, "sieg_gast": 1.5, "ueber_2_5": 1.6, "unter_2_5": 2.3, "btts_ja": 2.1, "btts_nein": 1.7, "dc_1x": 2.5, "dc_x2": 1.12, "kommentar": "BEL massiv Favorit"}, "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup"], "hinweis": "bet365-DE live verifizieren."},
+      "news_kompakt": ["NZL-BEL Sp.3 Vancouver.", "BEL muss Sieg fuer R32-Quali.", "Lukaku/De Bruyne-Trio Hauptbedrohung."],
+      "wm_marktregeln_aktiv": "2:0-Insurance bei 1X2 (BEL). Lukaku-Torschuetze SAFE/VALUE.",
+      "skipped_due_to_token_budget": false
+    },
+    {
+      "id": "2026-06-27-pan-eng",
+      "liga": "FIFA WM 2026 - Gruppe L - Spieltag 3",
+      "wettbewerb_kontext": "WM 2026, Gruppe L. ENG Sp.1+2 vs CRO+GHA. PAN nach Sp.1+2.",
+      "heim": "Panama", "gast": "England",
+      "heim_kuerzel": "PAN", "gast_kuerzel": "ENG",
+      "anstoss": "2026-06-27T23:00:00+02:00", "anstoss_lokal": "5:00 PM ET", "anstoss_utc": "2026-06-27T21:00:00Z",
+      "stadion": "MetLife Stadium",
+      "spielort_faktor": {"stadt": "East Rutherford NJ", "stadion": "MetLife Stadium", "land": "USA", "hoehe_m": 3, "kapazitaet": 82500, "klima_anstoss": "Spaetnachmittag East Coast", "anstoss_lokal": "5:00 PM ET", "lokal_faktor": "neutral, Finale-Stadion", "implikationen": ["neutral", "ENG-Stamm massiv PL-belastet"]},
+      "turnier_phase": "Gruppenphase Spieltag 3", "gruppe": "L",
+      "gruppen_stand_vor_spiel": {"kontext": "ENG nach Sp.1+2 (vs CRO+GHA) wahrscheinlich qualifiziert. PAN do-or-die."},
+      "squad_heim_top": [
+        {"name": "Ismael Diaz", "nummer": 11, "position": "ST", "verein": "Sporting CP B", "verifiziert_via": "https://en.wikipedia.org/wiki/Panama_at_the_2026_FIFA_World_Cup", "hinweis": "Top-Stuermer"},
+        {"name": "Jose Fajardo", "nummer": 9, "position": "ST", "verein": "Tauro FC", "verifiziert_via": "https://en.wikipedia.org/wiki/Panama_at_the_2026_FIFA_World_Cup", "hinweis": "Heim-Liga-Star"}
+      ],
+      "squad_gast_top": [
+        {"name": "Harry Kane", "nummer": 9, "position": "ST", "verein": "Bayern Muenchen (BL)", "verifiziert_via": "https://en.wikipedia.org/wiki/England_at_the_2026_FIFA_World_Cup", "hinweis": "Kapitaen, Volume-Stuermer SAFE"},
+        {"name": "Jude Bellingham", "nummer": 10, "position": "OM", "verein": "Real Madrid", "verifiziert_via": "https://en.wikipedia.org/wiki/England_at_the_2026_FIFA_World_Cup", "hinweis": "Real-Madrid-CL-Belastung"},
+        {"name": "Bukayo Saka", "nummer": 7, "position": "RF", "verein": "Arsenal (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/England_at_the_2026_FIFA_World_Cup", "hinweis": "Speed-Fluegel"}
+      ],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine - WM exklusiv", "gast": "keine - WM exklusiv", "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"]},
+      "saisonziel_heim": "Klassenerhalt Turnier", "saisonziel_gast": "R32 + Gruppen-Sieg-Position - Rotation moeglich",
+      "form_heim_letzte_5": "Sp.1+2", "form_gast_letzte_5": "Sp.1+2", "recovery_heim": "3-4 Tage (nach Sp.2 Mi 23.06)", "recovery_gast": "3-4 Tage (nach Sp.2 Mi 23.06)",
+      "quoten": {"bet365_indikativ": {"sieg_heim": 11.0, "draw": 5.5, "sieg_gast": 1.25, "ueber_2_5": 1.65, "unter_2_5": 2.25, "btts_ja": 2.3, "btts_nein": 1.6, "dc_1x": 3.5, "dc_x2": 1.05, "kommentar": "ENG massiv Favorit, Rotation moeglich"}, "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup"], "hinweis": "bet365-DE live verifizieren."},
+      "news_kompakt": ["PAN-ENG Sp.3 MetLife NJ.", "ENG Klassen-Edge massiv, Kane-Volume-Stuermer.", "Rotation-Risiko bei ENG falls qualifiziert.", "Kane-Torschuetze trotz Rotation oft Stamm."],
+      "wm_marktregeln_aktiv": "2:0-Insurance bei 1X2 (ENG). Kane-Torschuetze SAFE/VALUE (Volume + Einwechslungs-Boost ueber Watkins).",
+      "skipped_due_to_token_budget": false
+    },
+    {
+      "id": "2026-06-27-cro-gha",
+      "liga": "FIFA WM 2026 - Gruppe L - Spieltag 3",
+      "wettbewerb_kontext": "WM 2026, Gruppe L. Beide muessen punkten je nach Sp.1+2-Stand.",
+      "heim": "Kroatien", "gast": "Ghana",
+      "heim_kuerzel": "CRO", "gast_kuerzel": "GHA",
+      "anstoss": "2026-06-27T23:00:00+02:00", "anstoss_lokal": "5:00 PM ET", "anstoss_utc": "2026-06-27T21:00:00Z",
+      "stadion": "Lincoln Financial Field",
+      "spielort_faktor": {"stadt": "Philadelphia", "stadion": "Lincoln Financial Field", "land": "USA", "hoehe_m": 12, "kapazitaet": 67600, "klima_anstoss": "Spaetnachmittag East Coast", "anstoss_lokal": "5:00 PM ET", "lokal_faktor": "neutral", "implikationen": ["neutral", "CRO-Modric 40 Jahre + GHA-Kudus PL-belastet"]},
+      "turnier_phase": "Gruppenphase Spieltag 3", "gruppe": "L",
+      "gruppen_stand_vor_spiel": {"kontext": "Sp.1+2 Stand pruefen."},
+      "squad_heim_top": [
+        {"name": "Luka Modric", "nummer": 10, "position": "ZM", "verein": "AC Milan", "verifiziert_via": "https://en.wikipedia.org/wiki/Croatia_at_the_2026_FIFA_World_Cup", "hinweis": "Kapitaen 40 Jahre, letzte WM"},
+        {"name": "Andrej Kramaric", "nummer": 9, "position": "ST", "verein": "Hoffenheim (BL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Croatia_at_the_2026_FIFA_World_Cup", "hinweis": "Veteran-9er"}
+      ],
+      "squad_gast_top": [
+        {"name": "Mohammed Kudus", "nummer": 11, "position": "OM/RF", "verein": "Tottenham (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Ghana_at_the_2026_FIFA_World_Cup", "hinweis": "PL-Star"},
+        {"name": "Jordan Ayew", "nummer": 10, "position": "ST", "verein": "Leicester", "verifiziert_via": "https://en.wikipedia.org/wiki/Ghana_at_the_2026_FIFA_World_Cup", "hinweis": "Veteran-Stuermer"}
+      ],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine - WM exklusiv", "gast": "keine - WM exklusiv", "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"]},
+      "saisonziel_heim": "R32 via Sieg/Punkt", "saisonziel_gast": "R32 via Sieg",
+      "form_heim_letzte_5": "Sp.1+2", "form_gast_letzte_5": "Sp.1+2", "recovery_heim": "3-4 Tage", "recovery_gast": "3-4 Tage",
+      "quoten": {"bet365_indikativ": {"sieg_heim": 2.0, "draw": 3.3, "sieg_gast": 3.6, "ueber_2_5": 1.95, "unter_2_5": 1.85, "btts_ja": 1.85, "btts_nein": 1.95, "dc_1x": 1.27, "dc_x2": 1.7, "kommentar": "CRO knapp Favorit ueber Klasse"}, "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup"], "hinweis": "bet365-DE live verifizieren."},
+      "news_kompakt": ["CRO-GHA Sp.3 Philadelphia.", "Modric Letztes-WM-Motivation.", "GHA Kudus-Konter-Bedrohung."],
+      "wm_marktregeln_aktiv": "2:0-Insurance bei 1X2. Kudus-Torschuetze WACKEL/VALUE.",
+      "skipped_due_to_token_budget": false
+    },
+    {
+      "id": "2026-06-28-col-por",
+      "liga": "FIFA WM 2026 - Gruppe K - Spieltag 3",
+      "wettbewerb_kontext": "WM 2026, Gruppe K. POR nach 1:1 COD Sp.1 + Sp.2 vs UZB. COL nach Sp.1+2.",
+      "heim": "Kolumbien", "gast": "Portugal",
+      "heim_kuerzel": "COL", "gast_kuerzel": "POR",
+      "anstoss": "2026-06-28T01:30:00+02:00", "anstoss_lokal": "7:30 PM ET (Sat 27.06)", "anstoss_utc": "2026-06-27T23:30:00Z",
+      "stadion": "Hard Rock Stadium",
+      "spielort_faktor": {"stadt": "Miami Gardens", "stadion": "Hard Rock Stadium", "land": "USA", "hoehe_m": 2, "kapazitaet": 65300, "klima_anstoss": "Abend Miami, Hitze + Luftfeuchtigkeit", "anstoss_lokal": "7:30 PM ET", "lokal_faktor": "Hitze + hohe Luftfeuchtigkeit", "implikationen": ["Hitze + Luftfeuchtigkeit", "POR-Stamm mit PL/LaLiga/Serie-A-Belastung"]},
+      "turnier_phase": "Gruppenphase Spieltag 3", "gruppe": "K",
+      "gruppen_stand_vor_spiel": {"kontext": "POR-Stand vs UZB-Sp.2 pruefen. COL-Stand vs UZB Sp.1 + Sp.2 vs COD."},
+      "squad_heim_top": [
+        {"name": "James Rodriguez", "nummer": 10, "position": "OM", "verein": "Rayo Vallecano", "verifiziert_via": "https://en.wikipedia.org/wiki/Colombia_at_the_2026_FIFA_World_Cup", "hinweis": "Kapitaen-Veteran"},
+        {"name": "Luis Diaz", "nummer": 7, "position": "LF", "verein": "Liverpool (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Colombia_at_the_2026_FIFA_World_Cup", "hinweis": "Speed-Fluegel"},
+        {"name": "Jhon Duran", "nummer": 9, "position": "ST", "verein": "Al-Nassr (Saudi)", "verifiziert_via": "https://en.wikipedia.org/wiki/Colombia_at_the_2026_FIFA_World_Cup", "hinweis": "Stamm-9er Saudi frischer"}
+      ],
+      "squad_gast_top": [
+        {"name": "Cristiano Ronaldo", "nummer": 7, "position": "ST", "verein": "Al-Nassr (Saudi)", "verifiziert_via": "https://en.wikipedia.org/wiki/Portugal_at_the_2026_FIFA_World_Cup", "hinweis": "Kapitaen 41 Jahre, Saudi frisch"},
+        {"name": "Bernardo Silva", "nummer": 10, "position": "OM", "verein": "Manchester City (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Portugal_at_the_2026_FIFA_World_Cup", "hinweis": "Spielmacher"},
+        {"name": "Bruno Fernandes", "nummer": 8, "position": "OM", "verein": "Manchester United (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Portugal_at_the_2026_FIFA_World_Cup", "hinweis": "Box-to-Box"},
+        {"name": "Rafael Leao", "nummer": 11, "position": "LF", "verein": "AC Milan", "verifiziert_via": "https://en.wikipedia.org/wiki/Portugal_at_the_2026_FIFA_World_Cup", "hinweis": "Speed-Fluegel"}
+      ],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine - WM exklusiv", "gast": "keine - WM exklusiv", "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"]},
+      "saisonziel_heim": "R32 + Gruppen-Sieg-Position", "saisonziel_gast": "R32 + Gruppen-Sieg-Position",
+      "form_heim_letzte_5": "Sp.1+2", "form_gast_letzte_5": "Sp.1 1:1 COD + Sp.2 vs UZB", "recovery_heim": "3-4 Tage", "recovery_gast": "3-4 Tage",
+      "quoten": {"bet365_indikativ": {"sieg_heim": 3.0, "draw": 3.2, "sieg_gast": 2.4, "ueber_2_5": 1.85, "unter_2_5": 1.95, "btts_ja": 1.7, "btts_nein": 2.15, "dc_1x": 1.55, "dc_x2": 1.35, "kommentar": "POR knapp Favorit, COL-Sued-Amerikaner-Edge"}, "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup"], "hinweis": "bet365-DE live verifizieren."},
+      "news_kompakt": ["COL-POR Sp.3 Miami Hitze.", "Beide um Gruppen-Sieg.", "Ronaldo-Letztes-WM-Motivation.", "Top-Klassen-Duell."],
+      "wm_marktregeln_aktiv": "2:0-Insurance bei 1X2. Ronaldo-Torschuetze VALUE (Volume + Einwechslungs-Boost ueber Diogo Jota/Felix).",
+      "skipped_due_to_token_budget": false
+    },
+    {
+      "id": "2026-06-28-cod-uzb",
+      "liga": "FIFA WM 2026 - Gruppe K - Spieltag 3",
+      "wettbewerb_kontext": "WM 2026, Gruppe K. Beide muessen punkten je nach Sp.2-Stand.",
+      "heim": "DR Kongo", "gast": "Usbekistan",
+      "heim_kuerzel": "COD", "gast_kuerzel": "UZB",
+      "anstoss": "2026-06-28T01:30:00+02:00", "anstoss_lokal": "7:30 PM ET (Sat 27.06)", "anstoss_utc": "2026-06-27T23:30:00Z",
+      "stadion": "Mercedes-Benz Stadium",
+      "spielort_faktor": {"stadt": "Atlanta", "stadion": "Mercedes-Benz Stadium", "land": "USA", "hoehe_m": 327, "kapazitaet": 75000, "klima_anstoss": "Abend Atlanta indoor", "anstoss_lokal": "7:30 PM ET", "lokal_faktor": "neutral, ueberdacht klimatisiert", "implikationen": ["Indoor klimatisiert"]},
+      "turnier_phase": "Gruppenphase Spieltag 3", "gruppe": "K",
+      "gruppen_stand_vor_spiel": {"heim_pkt_indikativ": "COD 1+ Pkt nach POR-Schock", "kontext": "COD mit Schock-1:1-vs-POR Selbstvertrauen. UZB-Sp.2 vs COL Stand pruefen."},
+      "squad_heim_top": [
+        {"name": "Cedric Bakambu", "nummer": 9, "position": "ST", "verein": "Real Betis", "verifiziert_via": "https://en.wikipedia.org/wiki/DR_Congo_at_the_2026_FIFA_World_Cup", "hinweis": "Stamm-9er"},
+        {"name": "Yoane Wissa", "nummer": 11, "position": "ST/LF", "verein": "Brentford (PL)", "verifiziert_via": "https://en.wikipedia.org/wiki/DR_Congo_at_the_2026_FIFA_World_Cup", "hinweis": "Volume-Stuermer PL"}
+      ],
+      "squad_gast_top": [
+        {"name": "Eldor Shomurodov", "nummer": 9, "position": "ST", "verein": "AS Roma", "verifiziert_via": "https://en.wikipedia.org/wiki/Uzbekistan_at_the_2026_FIFA_World_Cup", "hinweis": "Top-Stuermer Serie A"},
+        {"name": "Khusayn Norchaev", "nummer": 11, "position": "LF", "verein": "Pakhtakor", "verifiziert_via": "https://en.wikipedia.org/wiki/Uzbekistan_at_the_2026_FIFA_World_Cup", "hinweis": "Heim-Liga"}
+      ],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine - WM exklusiv", "gast": "keine - WM exklusiv", "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"]},
+      "saisonziel_heim": "R32-Sensation moeglich", "saisonziel_gast": "Erstes WM ueberhaupt, Sieg = Sensation",
+      "form_heim_letzte_5": "Sp.1 1:1 POR + Sp.2 vs COL", "form_gast_letzte_5": "Sp.1 + Sp.2 vs POR", "recovery_heim": "3-4 Tage", "recovery_gast": "4 Tage",
+      "quoten": {"bet365_indikativ": {"sieg_heim": 1.95, "draw": 3.2, "sieg_gast": 3.7, "ueber_2_5": 1.85, "unter_2_5": 1.95, "btts_ja": 1.8, "btts_nein": 2.0, "dc_1x": 1.25, "dc_x2": 1.75, "kommentar": "COD knapp Favorit"}, "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup"], "hinweis": "bet365-DE live verifizieren."},
+      "news_kompakt": ["COD-UZB Sp.3 Atlanta Indoor.", "Beide do-or-die.", "Coinflip-Spiel."],
+      "wm_marktregeln_aktiv": "2:0-Insurance bei 1X2. Wissa-Torschuetze VALUE.",
+      "skipped_due_to_token_budget": false
+    },
+    {
+      "id": "2026-06-28-alg-aut",
+      "liga": "FIFA WM 2026 - Gruppe J - Spieltag 3",
+      "wettbewerb_kontext": "WM 2026, Gruppe J. AUT nach Sp.2 vs ARG. ALG nach Sp.2 vs JOR.",
+      "heim": "Algerien", "gast": "Oesterreich",
+      "heim_kuerzel": "ALG", "gast_kuerzel": "AUT",
+      "anstoss": "2026-06-28T04:00:00+02:00", "anstoss_lokal": "9:00 PM CDT / 10:00 PM ET (Sat 27.06)", "anstoss_utc": "2026-06-28T02:00:00Z",
+      "stadion": "Arrowhead Stadium",
+      "spielort_faktor": {"stadt": "Kansas City MO", "stadion": "Arrowhead Stadium", "land": "USA", "hoehe_m": 274, "kapazitaet": 76400, "klima_anstoss": "Spaetabend Mid-West", "anstoss_lokal": "9:00 PM CT", "lokal_faktor": "Mittel-Hitze Sommer", "implikationen": ["mittel-warm", "AUT-Stamm mit BL/Bundesliga-Belastung (Sabitzer Dortmund, Laimer Bayern)"]},
+      "turnier_phase": "Gruppenphase Spieltag 3", "gruppe": "J",
+      "gruppen_stand_vor_spiel": {"kontext": "AUT nach Sp.2 vs ARG. ALG nach Sp.2 vs JOR."},
+      "squad_heim_top": [
+        {"name": "Riyad Mahrez", "nummer": 7, "position": "RF", "verein": "Al-Ahli (Saudi)", "verifiziert_via": "https://en.wikipedia.org/wiki/Algeria_at_the_2026_FIFA_World_Cup", "hinweis": "Kapitaen Saudi frischer"},
+        {"name": "Said Benrahma", "nummer": 11, "position": "LF", "verein": "Lyon (Ligue 1)", "verifiziert_via": "https://en.wikipedia.org/wiki/Algeria_at_the_2026_FIFA_World_Cup", "hinweis": "Fluegel-Kreator"},
+        {"name": "Mohamed Amoura", "nummer": 9, "position": "ST", "verein": "Wolfsburg (BL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Algeria_at_the_2026_FIFA_World_Cup", "hinweis": "BL-Top-Scorer-Profil"}
+      ],
+      "squad_gast_top": [
+        {"name": "Marko Arnautovic", "nummer": 7, "position": "ST", "verein": "Roter Stern Belgrad", "verifiziert_via": "https://en.wikipedia.org/wiki/Austria_at_the_2026_FIFA_World_Cup", "hinweis": "Veteran-Kapitaen"},
+        {"name": "Marcel Sabitzer", "nummer": 8, "position": "ZM", "verein": "Borussia Dortmund (BL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Austria_at_the_2026_FIFA_World_Cup", "hinweis": "Stamm-Achter BL"},
+        {"name": "Konrad Laimer", "nummer": 6, "position": "DM", "verein": "Bayern Muenchen (BL)", "verifiziert_via": "https://en.wikipedia.org/wiki/Austria_at_the_2026_FIFA_World_Cup", "hinweis": "Defensiv-Sechser"}
+      ],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine - WM exklusiv", "gast": "keine - WM exklusiv", "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"]},
+      "saisonziel_heim": "R32 via Sieg", "saisonziel_gast": "R32 via Sieg/Punkt",
+      "form_heim_letzte_5": "Sp.1 0:3 ARG + Sp.2 vs JOR", "form_gast_letzte_5": "Sp.1 3:1 JOR + Sp.2 vs ARG", "recovery_heim": "4 Tage", "recovery_gast": "5 Tage",
+      "quoten": {"bet365_indikativ": {"sieg_heim": 2.7, "draw": 3.0, "sieg_gast": 2.7, "ueber_2_5": 2.0, "unter_2_5": 1.8, "btts_ja": 1.8, "btts_nein": 2.0, "dc_1x": 1.5, "dc_x2": 1.45, "kommentar": "Toss-up Sp.3 do-or-die"}, "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup"], "hinweis": "bet365-DE live verifizieren."},
+      "news_kompakt": ["ALG-AUT Sp.3 Kansas City.", "Beide um R32-Quali.", "Mahrez (Saudi) vs Arnautovic Veteran-Duell."],
+      "wm_marktregeln_aktiv": "2:0-Insurance bei 1X2.",
+      "skipped_due_to_token_budget": false
+    },
+    {
+      "id": "2026-06-28-jor-arg",
+      "liga": "FIFA WM 2026 - Gruppe J - Spieltag 3",
+      "wettbewerb_kontext": "WM 2026, Gruppe J. ARG (Messi) qualifiziert wahrscheinlich. JOR Prestige.",
+      "heim": "Jordanien", "gast": "Argentinien",
+      "heim_kuerzel": "JOR", "gast_kuerzel": "ARG",
+      "anstoss": "2026-06-28T04:00:00+02:00", "anstoss_lokal": "9:00 PM CDT / 10:00 PM ET (Sat 27.06)", "anstoss_utc": "2026-06-28T02:00:00Z",
+      "stadion": "AT&T Stadium",
+      "spielort_faktor": {"stadt": "Arlington TX", "stadion": "AT&T Stadium", "land": "USA", "hoehe_m": 175, "kapazitaet": 80000, "klima_anstoss": "Spaetabend Texas Indoor", "anstoss_lokal": "9:00 PM CT", "lokal_faktor": "Indoor klimatisiert", "implikationen": ["Indoor klimatisiert", "ARG-Stamm mit Messi 38 Jahre"]},
+      "turnier_phase": "Gruppenphase Spieltag 3", "gruppe": "J",
+      "gruppen_stand_vor_spiel": {"kontext": "ARG nach Sp.1 3:0 + Sp.2 vs AUT. JOR Prestige."},
+      "squad_heim_top": [
+        {"name": "Musa Al-Tamari", "nummer": 7, "position": "RF", "verein": "Montpellier", "verifiziert_via": "https://en.wikipedia.org/wiki/Jordan_at_the_2026_FIFA_World_Cup", "hinweis": "Top-Spieler"},
+        {"name": "Yazan Al-Naimat", "nummer": 9, "position": "ST", "verein": "Al-Ahli Doha", "verifiziert_via": "https://en.wikipedia.org/wiki/Jordan_at_the_2026_FIFA_World_Cup", "hinweis": "Stamm-9er"}
+      ],
+      "squad_gast_top": [
+        {"name": "Lionel Messi", "nummer": 10, "position": "RF/OM", "verein": "Inter Miami (MLS)", "verifiziert_via": "https://en.wikipedia.org/wiki/Argentina_at_the_2026_FIFA_World_Cup", "hinweis": "Kapitaen 38 Jahre"},
+        {"name": "Julian Alvarez", "nummer": 9, "position": "ST", "verein": "Atletico Madrid", "verifiziert_via": "https://en.wikipedia.org/wiki/Argentina_at_the_2026_FIFA_World_Cup", "hinweis": "Stamm-9er"},
+        {"name": "Lautaro Martinez", "nummer": 22, "position": "ST", "verein": "Inter Mailand", "verifiziert_via": "https://en.wikipedia.org/wiki/Argentina_at_the_2026_FIFA_World_Cup", "hinweis": "Backup-9er Serie-A-Top"}
+      ],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine - WM exklusiv", "gast": "keine - WM exklusiv", "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"]},
+      "saisonziel_heim": "Erstes WM-Punkt/Tor", "saisonziel_gast": "Qualifiziert wahrscheinlich - Gruppen-Sieg + Rotation",
+      "form_heim_letzte_5": "Sp.1 1:3 AUT + Sp.2 vs ALG", "form_gast_letzte_5": "Sp.1 3:0 ALG + Sp.2 vs AUT", "recovery_heim": "5 Tage", "recovery_gast": "5 Tage",
+      "quoten": {"bet365_indikativ": {"sieg_heim": 13.0, "draw": 6.5, "sieg_gast": 1.18, "ueber_2_5": 1.65, "unter_2_5": 2.25, "btts_ja": 2.4, "btts_nein": 1.55, "dc_1x": 4.0, "dc_x2": 1.04, "kommentar": "ARG massiv Favorit"}, "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup"], "hinweis": "bet365-DE live verifizieren."},
+      "news_kompakt": ["JOR-ARG Sp.3 Arlington Indoor.", "ARG wahrscheinlich qualifiziert - Rotation moeglich.", "Messi Star-Faktor, ggf. Schonung.", "Alvarez/Lautaro-Torschuetzen VALUE."],
+      "wm_marktregeln_aktiv": "2:0-Insurance bei 1X2 (ARG). Messi-Schonung-Risiko - Lautaro/Alvarez-Torschuetzen VALUE.",
+      "skipped_due_to_token_budget": false
+    },
+    {
+      "id": "2026-06-28-r32m1-b2-a2",
+      "liga": "FIFA WM 2026 - Runde der 32 - Match 1",
+      "wettbewerb_kontext": "WM 2026 K.O.-Runde der 32. Erstes R32-Match. Paarung: Tab.2-Grp-B vs Tab.2-Grp-A. Beide Teams erst nach Sp.3 22.-25.06 bekannt.",
+      "heim": "TBD Grp-B Tab.2", "gast": "TBD Grp-A Tab.2",
+      "heim_kuerzel": "B2", "gast_kuerzel": "A2",
+      "anstoss": "2026-06-28T21:00:00+02:00", "anstoss_lokal": "12:00 PM PT / 3:00 PM ET", "anstoss_utc": "2026-06-28T19:00:00Z",
+      "stadion": "SoFi Stadium",
+      "spielort_faktor": {"stadt": "Inglewood CA", "stadion": "SoFi Stadium", "land": "USA", "hoehe_m": 38, "kapazitaet": 70200, "klima_anstoss": "Mittag LA, moderate Kuestenklima ueberdacht", "anstoss_lokal": "12:00 PM PT", "lokal_faktor": "moderates Klima, ueberdacht", "implikationen": ["Indoor-Stadion mit Dach", "Klassischer Achtelfinal-Druck, Verlaengerung + Elfmeter moeglich"]},
+      "turnier_phase": "Runde der 32",
+      "gruppen_stand_vor_spiel": {"kontext": "Paarung erst nach Sp.3 25.06 fix. Mogliche Kandidaten Tab.2-Grp-B (CAN/SUI/BIH/QAT - wahrscheinlich SUI oder BIH da CAN bereits Tab.1), Tab.2-Grp-A (MEX/CZE/RSA/KOR - wahrscheinlich nicht MEX da Tab.1)."},
+      "squad_heim_top": [{"name": "TBD nach Sp.3", "nummer": null, "position": "TBD", "verein": "TBD", "verifiziert_via": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/standings", "hinweis": "Paarung erst nach Sp.3 25.06 fix - Squad-Recherche dann durch Tipps-Routine"}],
+      "squad_gast_top": [{"name": "TBD nach Sp.3", "nummer": null, "position": "TBD", "verein": "TBD", "verifiziert_via": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/standings", "hinweis": "Paarung erst nach Sp.3 25.06 fix"}],
+      "injuries_heim": [], "injuries_gast": [],
+      "parallele_wettbewerbe": {"heim": "keine - WM exklusiv", "gast": "keine - WM exklusiv", "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"]},
+      "saisonziel_heim": "Viertelfinale K.O.", "saisonziel_gast": "Viertelfinale K.O.",
+      "form_heim_letzte_5": "Sp.1+2+3 nach 25.06", "form_gast_letzte_5": "Sp.1+2+3 nach 25.06", "recovery_heim": "3 Tage nach Sp.3", "recovery_gast": "3 Tage nach Sp.3",
+      "quoten": {"bet365_indikativ": {"kommentar": "Quoten erst nach Paarungs-Fixing 25.06 verfuegbar"}, "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup"], "hinweis": "Erst nach Sp.3 25.06 verfuegbar. bet365-DE live verifizieren."},
+      "news_kompakt": ["Erstes R32-K.O.-Spiel der WM 2026.", "Paarung erst nach Sp.3 25.06 fix.", "SoFi Inglewood Stadion, Indoor-Komfort.", "K.O.-Druck = oft taktisch + Unter-Tore-Tendenz."],
+      "wm_marktregeln_aktiv": "2:0-Insurance bei 1X2 (gilt fuer R32). Unter 2.5 VALUE-Tendenz bei K.O.-Druck-Spielen. KEIN Halbzeit-Endstand-Kombi, KEIN Genaues Ergebnis (CLAUDE.md). Verlaengerung + Elfmeter moeglich - Tipps mit 90-Min-Regular-Time klar markieren.",
+      "skipped_due_to_token_budget": false
+    }
+  ]
+}
