@@ -110,15 +110,16 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       ],
       "tipps": [
         {
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Kylian Mbappe trifft jederzeit",
           "quote": 1.5,
           "edge_prozent": 6.0,
           "empfohlener_einsatz_euro": 11.0,
           "empfohlener_einsatz_prozent": 2.0,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+20.4% ROI). Mbappe-Karriere-Top-Form (33 LaLiga-Tore Pichichi + Doppelpack vs SEN Spieltag 1). Klassen-Edge-Max (FIFA #1 vs #57) + Frankreich-MUSS-Sieg-Druck = Mbappe-Tor-Anker. Iran-Defense-Schwaeche (2 Gegentore vs NOR Spieltag 1). Cluster-Brick Torschuetzen GEBROCHEN bei Klassen-Edge-Max-Spielen (Lesson 21.06). Einwechslungs-Boost-Backup: Marcus Thuram + Kolo Muani als Joker-Ersatz mit Tor-Volumen. Pinnacle ~1.40 → +7% Edge. UNTER Brick-Korridor 1.50-2.00 frei.",
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+20.4% ROI). Mbappe-Karriere-Top-Form (33 LaLiga-Tore Pichichi + Doppelpack vs SEN Spieltag 1). Klassen-Edge-Max (FIFA #1 vs #57) + Frankreich-MUSS-Sieg-Druck = Mbappe-Tor-Anker. Iran-Defense-Schwaeche (2 Gegentore vs NOR Spieltag 1). Cluster-Brick Torschuetzen GEBROCHEN bei Klassen-Edge-Max-Spielen (Lesson 21.06). Einwechslungs-Boost-Backup: Marcus Thuram + Kolo Muani als Joker-Ersatz mit Tor-Volumen. Pinnacle ~1.40 → +7% Edge. UNTER Brick-Korridor 1.50-2.00 frei. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "faire_quote": 1.4,
-          "reality_check": "Goldgrube + Form-Top + Klassen-Edge-Max + 2:0-Insurance-Logik."
+          "reality_check": "Goldgrube + Form-Top + Klassen-Edge-Max + 2:0-Insurance-Logik.",
+          "_torschuetze_quelle_warn": true
         },
         {
           "kategorie": "value",
@@ -546,15 +547,16 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
           "reality_check": "Beidseitige Star-9er + Defense-Schwaechen beidseitig."
         },
         {
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Kylian Mbappe trifft jederzeit",
           "quote": 1.6,
           "edge_prozent": 4.5,
           "empfohlener_einsatz_euro": 8.25,
           "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Mbappe-Form-Top (Pichichi + Spieltag-1-Doppelpack + erwartet Spieltag-2-Tor vs IRQ). Frankreich-MUSS-Sieg-Druck = Mbappe-Tor-Pflicht. Cluster-Brick GEBROCHEN bei Klassen-Edge-Max (Lesson 21.06). Pinnacle ~1.55 → +3.2% Edge. UNTER Brick-Korridor.",
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Mbappe-Form-Top (Pichichi + Spieltag-1-Doppelpack + erwartet Spieltag-2-Tor vs IRQ). Frankreich-MUSS-Sieg-Druck = Mbappe-Tor-Pflicht. Cluster-Brick GEBROCHEN bei Klassen-Edge-Max (Lesson 21.06). Pinnacle ~1.55 → +3.2% Edge. UNTER Brick-Korridor. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "faire_quote": 1.55,
-          "reality_check": "Goldgrube + Form-Top + MUSS-Sieg-Tor-Druck."
+          "reality_check": "Goldgrube + Form-Top + MUSS-Sieg-Tor-Druck.",
+          "_torschuetze_quelle_warn": true
         }
       ],
       "kontext_check_status": "OK"
@@ -791,7 +793,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
     {
       "spiel_id": "2026-06-22-fra-irq",
       "spiel_titel": "Frankreich vs Irak (Mo 22.06. 23:00, Philadelphia)",
-      "kategorie": "value",
+      "kategorie": "wackel",
       "markt": "Kylian Mbappe trifft jederzeit",
       "quote": 1.5,
       "edge_prozent": 6.0,
@@ -799,7 +801,8 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       "empfohlener_einsatz_prozent": 2.0,
       "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+20.4% ROI). Mbappe-Karriere-Top-Form (33 LaLiga-Tore Pichichi) + Doppelpack Spieltag 1 vs SEN. Klassen-Edge-Max + MUSS-Sieg-Druck. Cluster-Brick GEBROCHEN bei Klassen-Edge-Max (Lesson 21.06).",
       "faire_quote": 1.4,
-      "reality_check": "Goldgrube + Form-Top + Klassen-Edge-Max."
+      "reality_check": "Goldgrube + Form-Top + Klassen-Edge-Max.",
+      "rang": 1
     },
     {
       "spiel_id": "2026-06-22-arg-aut",
@@ -812,12 +815,13 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       "empfohlener_einsatz_prozent": 2.0,
       "begruendung": "Klassen-Edge gross (FIFA #2 vs #28). 2:0-Insurance WM 2026 aktiv. Pflicht-Profile HEIM-FAVORIT erzwingt Sieg-Tipp. Pinnacle ~1.50 → +3.3% Edge. Lesson 8b: 1.55 KNAPP im Brick-Korridor → VALUE konservativ statt SAFE.",
       "faire_quote": 1.48,
-      "reality_check": "Klassen-Edge + Form-Edge Messi-Hattrick."
+      "reality_check": "Klassen-Edge + Form-Edge Messi-Hattrick.",
+      "rang": 2
     },
     {
       "spiel_id": "2026-06-22-fra-irq",
       "spiel_titel": "Frankreich vs Irak (Mo 22.06. 23:00, Philadelphia)",
-      "kategorie": "value",
+      "kategorie": "wackel",
       "markt": "Ueber 2.5 Tore",
       "quote": 1.3,
       "edge_prozent": 4.0,
@@ -825,7 +829,8 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       "empfohlener_einsatz_prozent": 1.5,
       "begruendung": "Markt-Goldgrube Ueber 2.5 Tore (+28% ROI). FRA-MUSS-Sieg + Klassen-Edge-Max + Iran-Defense-Schwaeche-bewiesen (2 Gegentore vs NOR). UNTER Brick-Korridor frei.",
       "faire_quote": 1.25,
-      "reality_check": "Goldgrube + Klassen-Edge + Iran-Defense-leaky."
+      "reality_check": "Goldgrube + Klassen-Edge + Iran-Defense-leaky.",
+      "rang": 3
     },
     {
       "spiel_id": "2026-06-22-arg-aut",
@@ -838,7 +843,8 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       "empfohlener_einsatz_prozent": 1.5,
       "begruendung": "Markt-Goldgrube + Form-Edge-Max (Hattrick Spieltag 1) + Last-Turnier-Anreiz. Cluster-Brick GEBROCHEN bei Klassen-Edge-Max (Lesson 21.06).",
       "faire_quote": 1.95,
-      "reality_check": "Goldgrube + Form-Edge-Max."
+      "reality_check": "Goldgrube + Form-Edge-Max.",
+      "rang": 4
     },
     {
       "spiel_id": "2026-06-25-sco-bra",
@@ -851,7 +857,8 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       "empfohlener_einsatz_prozent": 1.5,
       "begruendung": "Klassen-Edge BRA (FIFA #6 vs #38) + 2:0-Insurance. Pinnacle ~1.40 → +3.6% Edge. UNTER Brick-Korridor. ECU-Bust-Lesson 21.06 verschaerfend max VALUE.",
       "faire_quote": 1.4,
-      "reality_check": "Klassen-Edge + Form-Edge Vinicius."
+      "reality_check": "Klassen-Edge + Form-Edge Vinicius.",
+      "rang": 5
     },
     {
       "spiel_id": "2026-06-25-sco-bra",
@@ -864,12 +871,13 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       "empfohlener_einsatz_prozent": 1.5,
       "begruendung": "Markt-Goldgrube. Vinicius-Form (5 Tore letzte Brasil-Aktionen + Spieltag-1-Tor). Klassen-Edge-Max + Cluster-Bruch-Lesson.",
       "faire_quote": 1.65,
-      "reality_check": "Goldgrube + Form-Edge-Max."
+      "reality_check": "Goldgrube + Form-Edge-Max.",
+      "rang": 6
     },
     {
       "spiel_id": "2026-06-26-nor-fra",
       "spiel_titel": "Norwegen vs Frankreich (Fr 26.06. 21:00, Foxborough)",
-      "kategorie": "value",
+      "kategorie": "wackel",
       "markt": "Beide Teams treffen - Ja",
       "quote": 1.7,
       "edge_prozent": 6.0,
@@ -877,12 +885,13 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       "empfohlener_einsatz_prozent": 1.5,
       "begruendung": "Top-vs-Top mit Haaland + Mbappe als beidseitige Tor-Anker. FRA-Defense gegen SEN-Mane bereits leaky. Pinnacle ~1.65 → +3% Edge.",
       "faire_quote": 1.65,
-      "reality_check": "Beidseitige Star-9er-Power."
+      "reality_check": "Beidseitige Star-9er-Power.",
+      "rang": 7
     },
     {
       "spiel_id": "2026-06-26-nor-fra",
       "spiel_titel": "Norwegen vs Frankreich (Fr 26.06. 21:00, Foxborough)",
-      "kategorie": "value",
+      "kategorie": "wackel",
       "markt": "Kylian Mbappe trifft jederzeit",
       "quote": 1.6,
       "edge_prozent": 4.5,
@@ -890,7 +899,8 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       "empfohlener_einsatz_prozent": 1.5,
       "begruendung": "Markt-Goldgrube + Form-Top + FRA-MUSS-Sieg fuer Gruppensieg. Cluster-Bruch-Lesson.",
       "faire_quote": 1.55,
-      "reality_check": "Goldgrube + Form-Top + MUSS-Sieg-Druck."
+      "reality_check": "Goldgrube + Form-Top + MUSS-Sieg-Druck.",
+      "rang": 8
     },
     {
       "spiel_id": "2026-06-27-uru-esp",
@@ -903,7 +913,8 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       "empfohlener_einsatz_prozent": 1.5,
       "begruendung": "Top-vs-Top + beidseitige MUSS-SIEG-Anreiz. URU-D.Nunez + ESP-Yamal-Comeback = Tor-Wahrscheinlichkeit beidseitig.",
       "faire_quote": 1.7,
-      "reality_check": "Top-vs-Top + Punkte-Druck-Spiel."
+      "reality_check": "Top-vs-Top + Punkte-Druck-Spiel.",
+      "rang": 9
     },
     {
       "spiel_id": "2026-06-27-cpv-sau",
@@ -916,7 +927,8 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       "empfohlener_einsatz_prozent": 1.5,
       "begruendung": "Markt-Goldgrube Unter 2.5 (+29.2% ROI / 65% HR). Beide Defense-Igel-Teams: CPV-Festung (0:0 vs ESP + 7 Vozinha-Paraden) + Saudi-Wand (1:1 vs URU). Houston-Hitze Tempo-reduzierend.",
       "faire_quote": 1.35,
-      "reality_check": "Goldgrube + beidseitige Defense-Festung-Pattern."
+      "reality_check": "Goldgrube + beidseitige Defense-Festung-Pattern.",
+      "rang": 10
     }
   ],
   "kombis": [
@@ -931,21 +943,21 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       "beine": [
         {
           "spiel_id": "2026-06-22-fra-irq",
-          "spiel": "FRA-IRQ",
-          "markt": "Mbappe trifft jederzeit",
-          "quote": 1.5
+          "markt": "FRA-IRQ: Mbappe trifft jederzeit",
+          "quote": 1.5,
+          "spiel_titel": "FRA-IRQ"
         },
         {
           "spiel_id": "2026-06-22-arg-aut",
-          "spiel": "ARG-AUT",
-          "markt": "Argentinien Sieg",
-          "quote": 1.55
+          "markt": "ARG-AUT: Argentinien Sieg",
+          "quote": 1.55,
+          "spiel_titel": "ARG-AUT"
         },
         {
           "spiel_id": "2026-06-25-sco-bra",
-          "spiel": "SCO-BRA",
-          "markt": "Brasilien Sieg",
-          "quote": 1.45
+          "markt": "SCO-BRA: Brasilien Sieg",
+          "quote": 1.45,
+          "spiel_titel": "SCO-BRA"
         }
       ],
       "begruendung": "Layer-1 erfuellt (3 verschiedene Spiele). Layer-2: 1 Sieg-Outcome (ARG-Sieg). 3 Goldgrube-Maerkte: Mbappe-Goldgrube + ARG-Sieg-Klassen-Edge + BRA-Sieg-Klassen-Edge. Alle in 22.-25.06. Window. KEIN SAFE-Label trotz Name 'Safe-Kombi' weil WM Spieltag 2/3 NICHT in Liga-Goldgrube + ECU-Bust-Lesson. Kombi-Aufbau auf 3 unabhaengigen Klassen-Edge-Pillars.",
@@ -962,27 +974,27 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       "beine": [
         {
           "spiel_id": "2026-06-22-fra-irq",
-          "spiel": "FRA-IRQ",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.3
+          "markt": "FRA-IRQ: Ueber 2.5 Tore",
+          "quote": 1.3,
+          "spiel_titel": "FRA-IRQ"
         },
         {
           "spiel_id": "2026-06-25-sco-bra",
-          "spiel": "SCO-BRA",
-          "markt": "Vinicius trifft jederzeit",
-          "quote": 1.7
+          "markt": "SCO-BRA: Vinicius trifft jederzeit",
+          "quote": 1.7,
+          "spiel_titel": "SCO-BRA"
         },
         {
           "spiel_id": "2026-06-26-nor-fra",
-          "spiel": "NOR-FRA",
-          "markt": "Beide Teams treffen Ja",
-          "quote": 1.7
+          "markt": "NOR-FRA: Beide Teams treffen Ja",
+          "quote": 1.7,
+          "spiel_titel": "NOR-FRA"
         },
         {
           "spiel_id": "2026-06-27-uru-esp",
-          "spiel": "URU-ESP",
-          "markt": "Beide Teams treffen Ja",
-          "quote": 1.75
+          "markt": "URU-ESP: Beide Teams treffen Ja",
+          "quote": 1.75,
+          "spiel_titel": "URU-ESP"
         }
       ],
       "begruendung": "Layer-1 erfuellt (4 verschiedene Spiele). Layer-2: 0 Sieg-Outcomes (alle Tor-Maerkte). Markt-Typ-Diversifikation Lesson 14.06 erfuellt: 1 Ueber-2.5 + 1 Torschuetzen + 2 BTTS - keine Konzentration. Alle Goldgrube-Maerkte.",
@@ -990,7 +1002,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
     },
     {
       "name": "Risiko ~9-15x",
-      "kategorie": "risiko",
+      "kategorie": "risk",
       "gesamtquote": 9.17,
       "rechnung": "2.10 * 1.95 * 1.60 * 1.40 = 9.17",
       "empfohlener_einsatz_euro": 1.38,
@@ -999,27 +1011,27 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       "beine": [
         {
           "spiel_id": "2026-06-22-arg-aut",
-          "spiel": "ARG-AUT",
-          "markt": "Messi trifft jederzeit",
-          "quote": 2.1
+          "markt": "ARG-AUT: Messi trifft jederzeit",
+          "quote": 2.1,
+          "spiel_titel": "ARG-AUT"
         },
         {
           "spiel_id": "2026-06-23-por-uzb",
-          "spiel": "POR-UZB",
-          "markt": "Ronaldo trifft jederzeit",
-          "quote": 1.95
+          "markt": "POR-UZB: Ronaldo trifft jederzeit",
+          "quote": 1.95,
+          "spiel_titel": "POR-UZB"
         },
         {
           "spiel_id": "2026-06-26-nor-fra",
-          "spiel": "NOR-FRA",
-          "markt": "Mbappe trifft jederzeit",
-          "quote": 1.6
+          "markt": "NOR-FRA: Mbappe trifft jederzeit",
+          "quote": 1.6,
+          "spiel_titel": "NOR-FRA"
         },
         {
           "spiel_id": "2026-06-27-cpv-sau",
-          "spiel": "CPV-SAU",
-          "markt": "Unter 2.5 Tore",
-          "quote": 1.4
+          "markt": "CPV-SAU: Unter 2.5 Tore",
+          "quote": 1.4,
+          "spiel_titel": "CPV-SAU"
         }
       ],
       "begruendung": "Layer-1 erfuellt (4 verschiedene Spiele). Layer-2: 0 Sieg-Outcomes. Markt-Typ-Diversifikation Lesson 14.06 erfuellt: 3 Torschuetzen + 1 Unter-2.5 - NICHT alle gleicher Markt-Typ. Risiko-Faktor: Spaet-Tor-Anreiz Mbappe + Messi + Ronaldo + Defense-Festung CPV-SAU. Goldgrube-Konzentration: Torschuetzen + Unter-2.5.",
@@ -1036,33 +1048,33 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       "beine": [
         {
           "spiel_id": "2026-06-25-ecu-ger",
-          "spiel": "ECU-GER",
-          "markt": "Wirtz trifft jederzeit",
-          "quote": 1.85
+          "markt": "ECU-GER: Wirtz trifft jederzeit",
+          "quote": 1.85,
+          "spiel_titel": "ECU-GER"
         },
         {
           "spiel_id": "2026-06-27-nzl-bel",
-          "spiel": "NZL-BEL",
-          "markt": "Lukaku trifft jederzeit",
-          "quote": 1.85
+          "markt": "NZL-BEL: Lukaku trifft jederzeit",
+          "quote": 1.85,
+          "spiel_titel": "NZL-BEL"
         },
         {
           "spiel_id": "2026-06-25-mex-cze",
-          "spiel": "MEX-CZE",
-          "markt": "Schick trifft jederzeit",
-          "quote": 2.8
+          "markt": "MEX-CZE: Schick trifft jederzeit",
+          "quote": 2.8,
+          "spiel_titel": "MEX-CZE"
         },
         {
           "spiel_id": "2026-06-23-eng-gha",
-          "spiel": "ENG-GHA",
-          "markt": "Kane trifft jederzeit",
-          "quote": 1.8
+          "markt": "ENG-GHA: Kane trifft jederzeit",
+          "quote": 1.8,
+          "spiel_titel": "ENG-GHA"
         },
         {
           "spiel_id": "2026-06-24-col-cod",
-          "spiel": "COL-COD",
-          "markt": "Luis Diaz trifft jederzeit",
-          "quote": 2.6
+          "markt": "COL-COD: Luis Diaz trifft jederzeit",
+          "quote": 2.6,
+          "spiel_titel": "COL-COD"
         }
       ],
       "begruendung": "Layer-1 erfuellt (5 verschiedene Spiele). Layer-2: 0 Sieg-Outcomes. ALLE Torschuetzen-Tipps = Markt-Typ-Konzentration RISIKO (Lesson 14.06 Layer-4) - Spass-Einsatz 0.55 EUR akzeptiert. Konzept: 5 Klassen-Edge-Stuermer-Tipps querbeet (Wirtz/Lukaku/Schick/Kane/L.Diaz). Realistische Auszahlung 24.67 EUR.",
