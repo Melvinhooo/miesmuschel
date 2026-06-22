@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS = {
+{
   "datum": "2026-06-22",
   "erstellt_am": "2026-06-22T17:15:00+02:00",
   "hinweis": "Tipps-Watchdog Recovery-Lauf (Hauptroutine 16:00 fehlte). WM-2026-Gruppenphase Spieltag 2 - 4 Spiele heute (Gruppe I + J). Vereins-Ligen pausieren bis August 2026. NBA Finals durch (Knicks 4-1 ueber Spurs am 13.06.). Kasse 550€/Stufe 1 (1-2% Einzel, 0.5% Wackel). 30d-ROI +9.8% (Stufe 2 erst ab Kasse 1000€). Goldgrube-Maerkte heute: Torschuetzen Jederzeit (+20.4% ROI), Ueber 2.5 Tore (+28% ROI), Unter 2.5 Tore (+29.2% ROI). Bluter: Spread/Handicap (Boykott). Beobachtungs-Liga: WM Gruppe-B-Spieltag 1 (-57% ROI) - heute nicht aktiv. Quoten bei bet365 live pruefen.",
@@ -666,4 +665,4 @@ window.__MIESMUSCHEL_TIPPS = {
     "Watchdog-Recovery 17:15: Hauptroutine 16:00 fehlte, vollstaendige Tipps-Generation jetzt durchgefuehrt. 4 Spiele mit saison_kontext komplett. Spiel-IDs der Nacht-Spiele (NOR-SEN, JOR-ALG) auf 23.06. angepasst weil Anstoss nach Mitternacht (Datum-Drift)."
   ],
   "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
-};
+}
