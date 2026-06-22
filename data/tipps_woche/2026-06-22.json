@@ -130,17 +130,6 @@
           "begruendung": "Markt-Goldgrube Ueber 2.5 Tore (+28% ROI, 58.6% HR). Frankreich-Offensiv-Power + Iran-Defense-Schwaeche-bewiesen (2 Gegentore Spieltag 1 vs NOR) + FRA-MUSS-Sieg-Druck = Tor-Festival-Anreiz. Pinnacle ~1.25 → +4% Edge. UNTER Brick-Korridor frei. Wirkliche Reality-Check: 12/12 letzte FRA-Pflichtspiele Ueber 2.5 wenn Mbappe Stamm. Iran-Igel-Risiko ABER Klassen-Edge so gross dass Igel-Bruch erwartbar.",
           "faire_quote": 1.25,
           "reality_check": "Goldgrube + Klassen-Edge-Max + Iran-Defense-bewiesen-leaky."
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Michael Olise trifft jederzeit",
-          "quote": 2.3,
-          "edge_prozent": 5.0,
-          "empfohlener_einsatz_euro": 2.75,
-          "empfohlener_einsatz_prozent": 0.5,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Olise Bayern-Bundesliga-Meister 2025/26 mit 16 Toren, Stamm-AM-rechts bei Deschamps. Klassen-Edge + Iran-Defense-Schwaeche = Sekundaer-Volume-Star-Eruption-Pattern (Lesson 22.05). Pinnacle ~2.20 → +4.5% Edge. Wackel statt Value: Cluster-Brick-Restbedenken + Olise nicht primaerer Zielspieler.",
-          "faire_quote": 2.18,
-          "reality_check": "Goldgrube + Form-Edge + Sekundaer-Star, aber kein Primaer-Ziel."
         }
       ],
       "kontext_check_status": "OK"
@@ -680,20 +669,9 @@
         "Beide Defense-Igel-Teams - Goldgrube 'Unter 2.5 Tore' (+29.2% ROI) aktiv gesucht.",
         "Quoten via Aggregator-Konsens: Cape Verde 3.00 / X 2.85 / Saudi-Arabien 2.50 - Ueber 2.5 ~3.10 / Unter 2.5 ~1.40 / BTTS Nein ~1.65."
       ],
-      "tipps": [
-        {
-          "kategorie": "value",
-          "markt": "Unter 2.5 Tore",
-          "quote": 1.4,
-          "edge_prozent": 5.0,
-          "empfohlener_einsatz_euro": 8.25,
-          "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "Markt-Goldgrube Unter 2.5 Tore (+29.2% ROI, 65% Hitrate laut markt_goldgruben.json). Beide Defense-Igel-Teams: CPV-Festung gegen Spanien (0:0 + 7 Paraden Vozinha) + Saudi-Defense-Wand gegen Uruguay (1:1, Al-Owais MOM). Houston-Hitze-Faktor zusaetzlich Tempo-reduzierend. Pinnacle ~1.36 → +2.9% Edge. UNTER Brick-Korridor frei. Reality-Check: 6/8 Spiele beider Teams 2025/26 Unter 2.5.",
-          "faire_quote": 1.35,
-          "reality_check": "Goldgrube + beidseitige Defense-Festung-Pattern + Hitze-Faktor."
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-06-28-col-por",
