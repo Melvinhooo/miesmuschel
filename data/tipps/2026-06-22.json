@@ -1,7 +1,9 @@
 {
   "datum": "2026-06-22",
   "erstellt_am": "2026-06-22T17:15:00+02:00",
-  "hinweis": "Tipps-Watchdog Recovery-Lauf (Hauptroutine 16:00 fehlte). WM-2026-Gruppenphase Spieltag 2 - 4 Spiele heute (Gruppe I + J). Vereins-Ligen pausieren bis August 2026. NBA Finals durch (Knicks 4-1 ueber Spurs am 13.06.). Kasse 550€/Stufe 1 (1-2% Einzel, 0.5% Wackel). 30d-ROI +9.8% (Stufe 2 erst ab Kasse 1000€). Goldgrube-Maerkte heute: Torschuetzen Jederzeit (+20.4% ROI), Ueber 2.5 Tore (+28% ROI), Unter 2.5 Tore (+29.2% ROI). Bluter: Spread/Handicap (Boykott). Beobachtungs-Liga: WM Gruppe-B-Spieltag 1 (-57% ROI) - heute nicht aktiv. Quoten bei bet365 live pruefen.",
+  "_emergency_recovery": true,
+  "_recovery_grund": "data/recherche/2026-06-22.json fehlt - Master-Tipps-Routine hat Watchdog-Recovery (17:15) verifiziert + Verifikation nachgeholt. Recherche-Substrat war data/tipps_woche/2026-06-22.json (Sonntag 18:10 Vorausanalyse) + lessons.json + markt_goldgruben/bluter.",
+  "hinweis": "Master-Tipps-Routine Mo-Fr Pipeline-Lauf (Recherche-File fehlte, Watchdog-Recovery um 17:15 hat Tipps gebaut, jetzt Verifikation nachgeholt). WM-2026-Gruppenphase Spieltag 2 - 4 Spiele im 24h-Fenster (Mo Abend ARG-AUT + FRA-IRQ; Di Nacht NOR-SEN + JOR-ALG). Vereins-Ligen pausieren bis August 2026. NBA Finals durch (Knicks 4-1 ueber Spurs am 13.06.). Kasse 550€/Stufe 1 (1-2% Einzel, 0.5% Wackel). 30d-ROI laut letzten Ergebnissen ueber Schwelle, aber Stufe 2 erst ab Kasse 1000€. Goldgrube-Maerkte heute aktiv genutzt: Torschuetzen Jederzeit (+20.4% ROI), Ueber 2.5 Tore (+28% ROI), Unter 2.5 Tore (+29.2% ROI), DC X2 (+14% ROI). Bluter Spread/Handicap (-10.5% ROI) komplett geboykottet. Beobachtungs-Liga WM Gruppe-B-Spieltag 1 (-57% ROI) heute nicht aktiv. Lessons 21./22.06. eingeflossen: ECU-Bust-Brick-Frei-Pinnacle-Konvergenz reicht NICHT mehr fuer SAFE auf WM Spieltag 2 (alle Klassen-Sieg-Tipps daher max VALUE), Cape-Verde-Defensiv-Festung-Pattern als Mahnung fuer Ueber-2.5-Tipps gegen Trauma-Underdogs, Cluster-Brick Torschuetzen GEBROCHEN bei Klassen-Edge-Max-Spielen. Quoten bei bet365 vor Anstoss live pruefen.",
   "spiele": [
     {
       "id": "2026-06-22-arg-aut",
@@ -664,5 +666,97 @@
     "Kasse-Stufe 1 (550€, < 1000€): Einzeltipps 1-2% / Wackel 0.5% / Kombis Safe 2% / Balance 0.8% / Risiko 0.25% / Moonshot 0.1%. Eingehalten.",
     "Watchdog-Recovery 17:15: Hauptroutine 16:00 fehlte, vollstaendige Tipps-Generation jetzt durchgefuehrt. 4 Spiele mit saison_kontext komplett. Spiel-IDs der Nacht-Spiele (NOR-SEN, JOR-ALG) auf 23.06. angepasst weil Anstoss nach Mitternacht (Datum-Drift)."
   ],
-  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-06-22T18:30:00+02:00",
+    "modus": "Master-Tipps-Routine Phase 4 - Verifikator-Lauf auf Watchdog-Recovery-Output. Recherche-File fehlte, daher Cross-Check gegen data/tipps_woche/2026-06-22.json (Sonntag-Vorausanalyse) + Squad-Plausibilitaets-Lookup + Layer-Cross-Check + Quoten-Rechnung.",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "quoten_drift_negativ",
+        "tipp_id": "2026-06-22-fra-irq-t4",
+        "details": "Dembele trifft @ 1.91 im Tipps-File - Sonntags-Aggregator-Konsens war 2.30-2.40. -17% Quoten-Drift bedeutet entweder neuer Pinnacle-Read oder Lineup-News (Olise/Dembele-Rotation). bet365 live pruefen vor Setzen, ggf. nicht setzen wenn Quote im Aggregator-Mittel deutlich besser."
+      },
+      {
+        "art": "quoten_drift_negativ",
+        "tipp_id": "2026-06-22-arg-aut-t4",
+        "details": "Lautaro trifft @ 2.10 - Sonntags-Aggregator war 2.40. -12% Drift. bet365 live pruefen."
+      },
+      {
+        "art": "quoten_drift_negativ",
+        "tipp_id": "2026-06-22-arg-aut-t2",
+        "details": "Messi trifft @ 1.95 - Sonntags-Aggregator hatte 2.10. -7% Drift, plausibel nach Hattrick-Form-Edge-Markt-Reaktion. Akzeptabel aber Stake nicht erhoehen."
+      },
+      {
+        "art": "stadion_namen_mismatch",
+        "spiel_id": "2026-06-22-fra-irq",
+        "details": "Tipps-File: 'Philadelphia Stadium, Philadelphia, Pennsylvania' - korrekter offizieller Name ist 'Lincoln Financial Field, Philadelphia PA' (Sonntags-Recherche). Kein Tipp-Impact, nur kosmetisch."
+      },
+      {
+        "art": "layer_3_konzentration",
+        "kombi_id": "k-2026-06-22-balance / k-2026-06-22-risiko / k-2026-06-22-moonshot / k-2026-06-22-safe",
+        "details": "FRA-IRQ erscheint in allen 4 Kombis (Safe-Mbappe, Balance-Ueber-2.5, Risiko-Dembele, Moonshot-Mbappe-2+). Bei nur 4 verfuegbaren Spielen ist Layer-3 weich akzeptabel - aber Korrelations-Risiko erhoeht: wenn FRA-Spiel verkorkst, treffen mehrere Kombis. Markt-Typ-Diversifikation bleibt OK (Sieg/Total/Torschuetzen/2+-Tore)."
+      },
+      {
+        "art": "einsatz_feld_inkonsistenz",
+        "tipp_id": "et-2026-06-22-01 / et-02 / et-03 / et-04",
+        "details": "Felder 'einsatz_prozent_kasse' (z.B. 2.0) und 'empfohlener_einsatz_prozent' (z.B. 1.5) widersprechen sich in mehreren Einzeltipps. Eingestellt: Watchdog-Schema-Quirk - PWA zeigt 'empfohlener_einsatz_prozent' an, Schema-Mapper toleriert das. Kein Drop."
+      },
+      {
+        "art": "fifa_rang_plausibilitaet",
+        "tipp_id": "2026-06-22-arg-aut-t1",
+        "details": "Begruendung sagt 'FIFA Nr.1 vs Nr.21'. Aktueller FIFA-Rang Juni 2026: Argentinien Nr.1-2 OK, Oesterreich liegt eher um Nr.25-28 (Sonntags-Recherche: '#28'). Marginal-Diskrepanz, keine Tipp-Auswirkung."
+      },
+      {
+        "art": "fifa_rang_plausibilitaet",
+        "tipp_id": "2026-06-22-fra-irq-t3",
+        "details": "Begruendung sagt 'FIFA-Nr.2 vs Nr.59'. Frankreich tatsaechlich Nr.1-3, Irak Nr.57-66 - innerhalb Toleranz. Keine Tipp-Auswirkung."
+      }
+    ],
+    "spieler_halluzinations_check": {
+      "geprueft": [
+        "Lionel Messi (ARG, ST/LF)",
+        "Lautaro Martinez (ARG, ST)",
+        "Kylian Mbappe (FRA, ST/LF)",
+        "Ousmane Dembele (FRA, RW/AOM)",
+        "Erling Haaland (NOR, ST)",
+        "Sadio Mane (SEN, LW/ST)",
+        "Mohamed Amoura (ALG, ST)",
+        "Riyad Mahrez (ALG, RW/AOM)"
+      ],
+      "ergebnis": "OK - alle Spieler verifiziert in offizieller Squad-Liste, alle in Offensiv-Position (ST/LW/RW/AOM). Kein Position-Mismatch wie Hojlund-Bug 08.05."
+    },
+    "layer_2_cross_check": {
+      "sieg_outcomes_pro_spiel": {
+        "2026-06-22-arg-aut": [{"kombi": "k-2026-06-22-balance", "tipp": "Argentinien Sieg"}],
+        "2026-06-22-fra-irq": [],
+        "2026-06-23-nor-sen": [{"kombi": "k-2026-06-22-moonshot", "tipp": "Senegal Sieg"}],
+        "2026-06-23-jor-alg": [{"kombi": "k-2026-06-22-balance", "tipp": "Algerien Sieg"}]
+      },
+      "ergebnis": "OK - kein Spiel hat 2+ Sieg-Outcomes in verschiedenen Kombis. Layer-2 hart eingehalten."
+    },
+    "saison_kontext_verband_quellen_check": {
+      "ergebnis": "OK - alle 4 Spiele sagen 'WM ist alleiniger Wettbewerb' fuer parallel_heim/gast. Keine CL/EL/Cup-Behauptung also keine Verband-URL-Pflicht. Frankfurt-EU-Bug-Falle umgangen."
+    },
+    "liga_frische_check": {
+      "ergebnis": "OK - WM 2026 laeuft (11.06.-19.07.2026, Stand CLAUDE.md 10.06.2026). NBA Finals durch (13.06., Knicks 4-1 Spurs, in lessons.json bestaetigt). Vereins-Ligen Saisonpause-Validierung OK."
+    },
+    "selbstwiderspruchs_scan": {
+      "ergebnis": "OK - keine Inkonsistenzen zwischen news/saison_kontext/begruendung gefunden. Mahrez-Frische-Spitze in Begruendung und news konsistent. Saliba-Schmerzen-Risiko in news mit Aufstellung konsistent."
+    },
+    "gesamtquote_nachrechnung": {
+      "k-2026-06-22-safe": "1.50 x 1.95 = 2.925 ~ 2.93 OK",
+      "k-2026-06-22-balance": "1.60 x 1.85 x 1.60 x 1.50 = 7.104 ~ 7.10 OK",
+      "k-2026-06-22-risiko": "2.10 x 1.91 x 2.80 x 2.25 = 25.273 ~ 25.27 OK",
+      "k-2026-06-22-moonshot": "3.10 x 2.80 x 2.80 = 24.304 ~ 24.30 OK"
+    },
+    "stake_check": {
+      "kasse_euro": 550,
+      "stufe": 1,
+      "ergebnis": "OK - alle Einsaetze in Stufe-1-Limits (Kombis Safe 11€ / Balance 4.40€ / Risiko 1.40€ / Moonshot 0.55€). Einzeltipps Safe/Value 5.50-11€, Wackel 2.75€ - eingehalten."
+    },
+    "lessons_generiert": [],
+    "abschluss_status": "OK - alle 4 Spiele, 11 Einzeltipps, 4 Kombis verifiziert. 8 WARNs (kosmetisch + Quoten-Drift), 0 Drops, 0 Downgrades. Vor Setzen Quoten bei bet365 live pruefen (besonders Dembele- und Lautaro-Torschuetzen-Markt)."
+  }
 }
