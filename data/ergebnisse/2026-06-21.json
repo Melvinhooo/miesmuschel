@@ -1,0 +1,1290 @@
+{
+  "datum": "2026-06-21",
+  "erstellt_am": "2026-06-21T15:10:00+02:00",
+  "hinweis": "Watchdog-Recovery 15:10 Berlin (Sa-So Hauptroutine 11:30 nicht durchgelaufen). WM 2026 Gruppenphase Spieltag 2 (Gruppe G + H letzter Doppel-Tag). 4 Spiele im Zeitfenster Sonntag 18:00 - Montag 06:00 MESZ. Kasse 550€, Stufe 1 Aufbau-Phase (Einzel SAFE/VALUE 5-11€, WACKEL 2.75€). LESSONS 21.06: (1) ECU-Sieg-SAFE-Brick-Pinnacle-Konvergenz GEBUSTET (Single-Point-of-Failure 0:0) → SAFE-Sieg-UNTER-1.50 auf WM Spieltag 2 jetzt MAX VALUE (Brick-Frei reicht nicht). (2) Underdog-Trauma-Defensiv-Igel-Pattern bestätigt: Curaçao 1:7-Trauma → 0:0 vs ECU (Defense-Wand, KEIN Defense-Kollaps). Saudi-Arabien + Iran nach Trauma-Auftakt analog Risiko. (3) Cluster-Brick Torschuetzen Tag 10 GEBROCHEN bei Klassen-Edge-Max-Spielen (3/6 Hits Gakpo+Ueda+Kamada) → Torschuetzen wieder als VALUE bei Klassen-Edge-Max. (4) Cape-Verde-Defense-Festungs-Effekt: 0:0 vs Spanien Spieltag 1 → Über-2.5 ESP-SAU + URU-CPV vorsicht. (5) Spieltag 2 NICHT in Liga-Goldgruben → SAFE-DC max VALUE.",
+  "spiele": [
+    {
+      "id": "2026-06-21-esp-sau",
+      "liga": "FIFA World Cup 2026 - Gruppe H - Spieltag 2",
+      "heim": "Spanien",
+      "gast": "Saudi-Arabien",
+      "anstoss": "2026-06-21T18:00:00+02:00",
+      "stadion": "Mercedes-Benz Stadium, Atlanta (USA)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM-Gruppenphase Spieltag 2, LaLiga-Saison längst beendet (Mai 2026), spanische Stamm-XI primär in LaLiga/PL aktiv (Yamal/Barcelona, Oyarzabal/Real Sociedad, Nico Williams/Athletic, Rodri/Manchester City, Pedri/Barcelona). Alle Vereinssaisons abgeschlossen.",
+        "parallel_gast": "keine - WM-Gruppenphase Spieltag 2, Saudi Pro League beendet (Mai 2026), saudische Stamm primär in Saudi Pro League (Salem Al-Dawsari/Al-Hilal, Mohamed Kanno/Al-Hilal, Al-Owais GK/Al-Hilal). Keine parallele Wettkampf-Belastung.",
+        "saisonziel_heim": "Achtelfinale-Quali als Top-Titel-Favorit. Nach SCHOCK-0:0 vs Cape Verde (15.06) nur 1 Pkt, dritter Platz Gruppe H. MUSS-SIEG-Lage zur Achtelfinal-Quali (CPV+URU+SAU alle ebenfalls 1 Pkt). DFB-intern Druck auf Statement-Sieg nach Vozinha-Trauma (40-jähriger CPV-GK mit 7 Paraden gegen 27 spanische Schüsse).",
+        "saisonziel_gast": "Achtelfinale-Quali. Nach 1:1 vs Uruguay (15.06) mit Al-Owais als MOM (zahllose Paraden, Al-Amri-Tor) 1 Pkt + Tordifferenz 0. Bei Remis = nahezu durch (2 Pkt + letzter Spieltag vs CPV). Bei Niederlage = letzter Spieltag entscheidet. Defensiv-Igel-Strategie wiederholbar (1 Gegentor Spieltag 1).",
+        "motivations_asymmetrie": "Spanien MUSS-SIEG-Lage + Klassen-Edge maximum (FIFA-Rang ESP 2 vs SAU 56, Differenz 54). Saudi-Arabien WILL Remis-Polster + kann defensiv-igeln wie gegen URU. Cape-Verde-Trauma-Pattern: ESP hat schon defensiven Block erlebt + ineffizient gespielt. Asymmetrie maximal Pro-ESP, aber Tor-Effizienz nicht garantiert (siehe Spieltag 1 0:0).",
+        "recovery_heim": "Spieltag 1 am 15.06 (0:0 vs CPV) - 6 Tage Pause. Squad fit. Yamal kam in 71. Min ein (Erholung von langer Verletzung), könnte Stamm heute starten. Oyarzabal Stamm-9er, Ferran Torres + Nico Williams Stamm-Flügel.",
+        "recovery_gast": "Spieltag 1 am 15.06 (1:1 vs URU) - 6 Tage Pause. Squad fit. Al-Owais GK Stamm (MOM Spieltag 1), Al-Dawsari Stamm-Flügel, Kanno Stamm-Mittelfeld. Defensiv-strukturiertes 5-4-1 wahrscheinlich.",
+        "quellen": [
+          "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021483",
+          "https://www.espn.com/soccer/story/_/id/49118145/fifa-world-cup-2026-spain-vs-saudi-arabia-tv-channel-how-watch-kickoff-live-stream-referee-predicted-lineups",
+          "https://www.foxsports.com/stories/soccer/2026-world-cup-spain-saudi-arabia-odds-prediction-picks",
+          "https://www.aljazeera.com/sports/2026/6/15/spain-held-to-shock-draw-by-cape-verde-in-their-world-cup-opener",
+          "https://www.oddschecker.com/tips/football/world-cup-2026/20260621-spain-vs-saudi-arabia-betting-tips-odds-bet-builder-picks"
+        ]
+      },
+      "news": [
+        "Spanien 0:0-Schock vs Cape Verde Spieltag 1 (15.06): 27 Schüsse, 7 auf Tor, 2.29 xG - CPV-GK Vozinha (40) mit 7 Paraden hat Spanien blockiert. Cape-Verde-Defense-Festung jetzt etabliertes Pattern.",
+        "Saudi-Arabien 1:1 vs Uruguay Spieltag 1: Al-Owais MOM mit zahlreichen Paraden, Al-Amri-Tor (Kanno-Header parried). Bielsa-Uruguay nur 80. Min Maxi Araujo-Equalizer. Saudi-Defense konnte gegen Top-Süd-Amerikaner halten.",
+        "Yamal-Status: nach 71. Min Spieltag 1 Comeback aus Verletzung - könnte heute Stamm starten. Backup-9er-Stress wenn Yamal Stamm: Oyarzabal bleibt zentral.",
+        "Mercedes-Benz Stadium Atlanta: 75k Stadion, überdacht, neutrales Klima. Kein Hitze-Faktor.",
+        "Lesson 21.06: ECU-Sieg-SAFE-Brick-Pinnacle-Konvergenz GEBUSTET (0:0 vs CPV-Trauma-Curaçao) → Spain-Sieg @ 1.08 als VALUE statt SAFE trotz Brick-Freiheit (UNTER 1.50). Single-Point-of-Failure-Risiko nach CPV-Defense-Lesson.",
+        "Lesson Cluster-Brick Tag 10 GEBROCHEN bei Klassen-Edge-Max-Spielen (Gakpo+Ueda+Kamada 3/6) → Oyarzabal-Torschuetze wieder als VALUE (statt WACKEL)."
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Spanien Sieg",
+          "quote": 1.08,
+          "edge_prozent": 0.9,
+          "empfohlener_einsatz_euro": 11.0,
+          "empfohlener_einsatz_prozent": 2.0,
+          "begruendung": "Klassen-Edge maximum (FIFA-Rang ESP 2 vs SAU 56, Differenz 54). 2:0-Insurance WM 2026 (bei direktem Sieg-Tipp gilt gewonnen sobald ESP mit 2:0 führt - egal Endstand). Pflicht-Profile HEIM-FAVORIT (Quote <1.80): Sieg-Tipp + Torschuetze. Pinnacle ~1.07 → +0.9% Edge (0-3% Pinnacle-Slot → max VALUE per Hartregel). Lesson 21.06: ECU-Sieg-SAFE-Brick-Pinnacle-Konvergenz GEBUSTET trotz Brick-Freiheit (0:0 vs CPV-Trauma) → KEIN SAFE-Status für ähnliche Klassen-Edge-Sieg-Tipps auf WM Spieltag 2. Reality-Check Klassen-Edge-Sieg-Goldgrube +135% ROI Spieltag 1 (data/liga_goldgruben.json) gilt für Spieltag 1 NICHT für Spieltag 2.",
+          "faire_quote": 1.07,
+          "reality_check": "Klassen-Edge maximum + 2:0-Insurance + MUSS-Sieg-Druck, aber ECU-Bust-Lesson aktiv."
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Mikel Oyarzabal trifft jederzeit",
+          "quote": 2.1,
+          "edge_prozent": 5.0,
+          "empfohlener_einsatz_euro": 8.25,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+20.4% ROI, 40.3% Hitrate laut data/markt_goldgruben.json). Oyarzabal Stamm-9er Spanien (Real Sociedad, Form-Edge: 4 Tore in letzten 5 Länderspiel-Auftritten laut ESPN). Pflicht-Profile HEIM-FAVORIT erzwingt Torschuetzen-Tipp. Cluster-Brick Tag 10 GEBROCHEN bei Klassen-Edge-Max-Spielen (Lesson 21.06: 3/6 Hits Gakpo+Ueda+Kamada) → VALUE statt WACKEL. Saudi-Defense-Konzentration auf Yamal/Williams → Oyarzabal-Tor-Boxen-Lücken. Pinnacle ~2.00 → +5% Edge. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "faire_quote": 1.95,
+          "reality_check": "Stamm-9er + Form-Edge + Goldgrube + Cluster-Bruch-Lesson.",
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Über 2.5 Tore",
+          "quote": 2.0,
+          "edge_prozent": 4.0,
+          "empfohlener_einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Markt-Goldgrube Über 2.5 Tore (+28% ROI). Spanien Tor-Druck (MUSS-Sieg + Klassen-Edge-Max) + Yamal-Backup-Comeback. ABER: Cape-Verde-Defense-Festungs-Pattern (Spanien 0:0 trotz 27 Schüssen) + Saudi-Al-Owais-MOM-Performance Spieltag 1 = realistisches Risiko, dass Saudi-Defense-Igel reproduziert. Bei Standard-Markt 1.80-1.90 → 2.00 deutet Markt-Vorsicht. Wackel-Status statt Value: Tor-Effizienz Spanien gegen tiefen Block schon einmal gescheitert. Pinnacle ~1.90 → +5% Edge nominal, aber CPV-Lesson-Risiko-Discount → WACKEL.",
+          "faire_quote": 1.85,
+          "reality_check": "Goldgrube + MUSS-Sieg-Druck, aber CPV-Defense-Festungs-Pattern + Saudi-Defense-OK."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 4,
+        "gast_tore": 0,
+        "halbzeit": {
+          "heim": 3,
+          "gast": 0
+        },
+        "quelle": "WebSearch (ESPN/FIFA/SkySports/AlJazeera/FoxSports)",
+        "abgerufen_am": "2026-06-22T08:00:00+02:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "kategorie": "value",
+          "markt": "Spanien Sieg",
+          "quote": 1.08,
+          "edge_prozent": 0.9,
+          "empfohlener_einsatz_euro": 11.0,
+          "empfohlener_einsatz_prozent": 2.0,
+          "begruendung": "Klassen-Edge maximum (FIFA-Rang ESP 2 vs SAU 56, Differenz 54). 2:0-Insurance WM 2026 (bei direktem Sieg-Tipp gilt gewonnen sobald ESP mit 2:0 führt - egal Endstand). Pflicht-Profile HEIM-FAVORIT (Quote <1.80): Sieg-Tipp + Torschuetze. Pinnacle ~1.07 → +0.9% Edge (0-3% Pinnacle-Slot → max VALUE per Hartregel). Lesson 21.06: ECU-Sieg-SAFE-Brick-Pinnacle-Konvergenz GEBUSTET trotz Brick-Freiheit (0:0 vs CPV-Trauma) → KEIN SAFE-Status für ähnliche Klassen-Edge-Sieg-Tipps auf WM Spieltag 2. Reality-Check Klassen-Edge-Sieg-Goldgrube +135% ROI Spieltag 1 (data/liga_goldgruben.json) gilt für Spieltag 1 NICHT für Spieltag 2.",
+          "faire_quote": 1.07,
+          "reality_check": "Klassen-Edge maximum + 2:0-Insurance + MUSS-Sieg-Druck, aber ECU-Bust-Lesson aktiv.",
+          "status": "gewonnen",
+          "kommentar": "ESP 4:0 vs SAU (Yamal 10', Oyarzabal 21'+24', Altambakti OG 49').",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Mikel Oyarzabal trifft jederzeit",
+          "quote": 2.1,
+          "edge_prozent": 5.0,
+          "empfohlener_einsatz_euro": 8.25,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+20.4% ROI, 40.3% Hitrate laut data/markt_goldgruben.json). Oyarzabal Stamm-9er Spanien (Real Sociedad, Form-Edge: 4 Tore in letzten 5 Länderspiel-Auftritten laut ESPN). Pflicht-Profile HEIM-FAVORIT erzwingt Torschuetzen-Tipp. Cluster-Brick Tag 10 GEBROCHEN bei Klassen-Edge-Max-Spielen (Lesson 21.06: 3/6 Hits Gakpo+Ueda+Kamada) → VALUE statt WACKEL. Saudi-Defense-Konzentration auf Yamal/Williams → Oyarzabal-Tor-Boxen-Lücken. Pinnacle ~2.00 → +5% Edge. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "faire_quote": 1.95,
+          "reality_check": "Stamm-9er + Form-Edge + Goldgrube + Cluster-Bruch-Lesson.",
+          "_torschuetze_quelle_warn": true,
+          "status": "gewonnen",
+          "kommentar": "Oyarzabal Doppelpack 21' + 24'.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Über 2.5 Tore",
+          "quote": 2.0,
+          "edge_prozent": 4.0,
+          "empfohlener_einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Markt-Goldgrube Über 2.5 Tore (+28% ROI). Spanien Tor-Druck (MUSS-Sieg + Klassen-Edge-Max) + Yamal-Backup-Comeback. ABER: Cape-Verde-Defense-Festungs-Pattern (Spanien 0:0 trotz 27 Schüssen) + Saudi-Al-Owais-MOM-Performance Spieltag 1 = realistisches Risiko, dass Saudi-Defense-Igel reproduziert. Bei Standard-Markt 1.80-1.90 → 2.00 deutet Markt-Vorsicht. Wackel-Status statt Value: Tor-Effizienz Spanien gegen tiefen Block schon einmal gescheitert. Pinnacle ~1.90 → +5% Edge nominal, aber CPV-Lesson-Risiko-Discount → WACKEL.",
+          "faire_quote": 1.85,
+          "reality_check": "Goldgrube + MUSS-Sieg-Druck, aber CPV-Defense-Festungs-Pattern + Saudi-Defense-OK.",
+          "status": "gewonnen",
+          "kommentar": "4 Tore gesamt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "3:0",
+        "endstand": "4:0",
+        "tore": [
+          {
+            "min": 10,
+            "team": "heim",
+            "spieler": "Lamine Yamal",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 21,
+            "team": "heim",
+            "spieler": "Mikel Oyarzabal",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 24,
+            "team": "heim",
+            "spieler": "Mikel Oyarzabal",
+            "stand_danach": "3:0"
+          },
+          {
+            "min": 49,
+            "team": "heim",
+            "spieler": "Hassan Al-Tambakti (OG)",
+            "stand_danach": "4:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "ESP fuehrte durchgehend - 3:0 HZ, 4:0 Endstand. Keine Drehung. 2:0-Insurance WM 2026 trivial gegeben (21. Min)."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Heim/Heim",
+          "kein_team_zu_null": false,
+          "saudi_zu_null": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Lamine Yamal",
+            "details": "Bei 3:0 zur Halbzeit ausgewechselt - taktische Schonung vor Rest-Gruppenphase + K.O.-Runde."
+          },
+          {
+            "team": "heim",
+            "spieler": "Mikel Oyarzabal",
+            "details": "Bei 3:0 zur Halbzeit ausgewechselt - Schonung nach Doppelpack."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Klassen-Edge-Max realisiert MIT defensiver Vorsicht in zweiter Halbzeit - ESP wechselte Yamal+Oyarzabal raus bei 3:0, danach nur 1 OG. Pflicht-Profile HEIM-FAVORIT 4/4 Tipps gewonnen (Sieg + Oyarzabal-Tor + Ueber 2.5 + Yamal-Tor Moonshot).",
+          "ECU-Bust-Lesson 21.06 (Klassen-Edge-Sieg UNTER 1.50 trotz Pinnacle-Konvergenz GEBUSTET) ist heute NICHT validiert worden hier (ESP-Sieg @1.08 erfolgreich) - aber bei BEL+URU heute weiter validiert.",
+          "Saudi-Defense-These (Al-Owais MOM Spieltag 1) komplett widerlegt - 3 Tore in 14 Min in HZ1, dann KEINE Defense-Wand."
+        ]
+      }
+    },
+    {
+      "id": "2026-06-21-bel-irn",
+      "liga": "FIFA World Cup 2026 - Gruppe G - Spieltag 2",
+      "heim": "Belgien",
+      "gast": "Iran",
+      "anstoss": "2026-06-21T21:00:00+02:00",
+      "stadion": "SoFi Stadium, Inglewood/Los Angeles (USA)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM-Gruppenphase Spieltag 2, Pro League beendet (Mai 2026), belgische Stamm-XI primär in PL/Bundesliga/Serie A (De Bruyne/Manchester City, Doku/Manchester City, Trossard/Arsenal, Lukaku/Napoli, Onana/Aston Villa, Courtois/Real Madrid). Vereinssaisons abgeschlossen.",
+        "parallel_gast": "keine - WM-Gruppenphase Spieltag 2, Persian Gulf Pro League beendet (Mai 2026), iranische Stamm-XI primär in Saudi Pro League / IRN (Taremi/Inter Mailand, Mohebi/Sepahan, Beiranvand GK/Persepolis). Keine Doppelbelastung.",
+        "saisonziel_heim": "Achtelfinale-Quali als Top-Klassen-Favorit Gruppe G. Nach 1:1 vs Ägypten (15.06) nur 1 Pkt, Tordifferenz 0. Ashour-Tor 19. Min, Mohamed Hany-OG nach Lukaku-Einwechslung (22 Sek!) Equalizer. MUSS-SIEG für Top-Gruppen-Position vor letztem Spieltag.",
+        "saisonziel_gast": "Achtelfinale-Quali. Nach 2:2 vs Neuseeland (15.06) 1 Pkt, Tordifferenz 0 - Iran hat überraschend 2 Tore zugelassen gegen NZ-Mittelmaß. Bei Niederlage = K.O.-Risiko, da letzter Spieltag vs Ägypten schwer. WILL-Sieg gegen Belgien (klassischer Underdog-Ansatz: tiefer Block + Konter Taremi).",
+        "motivations_asymmetrie": "Belgien MUSS-SIEG-Lage + Klassen-Edge groß (FIFA-Rang BEL 5 vs IRN 22). Iran tieferer Block typisch + Konter über Taremi (Inter, 32 Karriere-Länderspiel-Tore). Aber: Iran-Defense bei NZ 2 Tore zugelassen → leaky bei Spieltag 1. Asymmetrie Pro-BEL stärker als FIFA-Rang suggeriert wegen Iran-Defense-Schwäche.",
+        "recovery_heim": "Spieltag 1 am 15.06 (1:1 vs EGY) - 6 Tage Pause. Squad fit. Lukaku NICHT Stamm-9er (Hamstring-Reha bei Napoli seit Februar), De Ketelaere Stamm-9er. Lukaku 22-Sek-OG-Joker nach Einwechslung = SUB-BOOST-CANDIDATE (Einwechslungs-Boost-Pattern aktiv).",
+        "recovery_gast": "Spieltag 1 am 15.06 (2:2 vs NZL) - 6 Tage Pause. Taremi Stamm-9er, Beiranvand GK Stamm. Defense-Probleme Spieltag 1 (NZ-Wood + ein weiteres Tor zugelassen).",
+        "quellen": [
+          "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021477",
+          "https://www.espn.com/soccer/story/_/id/49117734/belgium-iran-fifa-world-cup-2026-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups",
+          "https://www.skysports.com/football/belgium-vs-egypt/report/549778",
+          "https://bolavip.com/en/world-cup/why-romelu-lukaku-isnt-starting-today-for-belgium-vs-egypt-at-the-2026-world-cup",
+          "https://www.aljazeera.com/sports/2026/5/15/lukaku-included-in-belgiums-world-cup-squad-despite-injury-plagued-season"
+        ]
+      },
+      "news": [
+        "Belgien 1:1 vs Ägypten Spieltag 1 (15.06): Ashour-Tor 19. Min (Salah-Assist), Lukaku-Joker 22 Sek nach Einwechslung erzwingt Mohamed-Hany-OG-Equalizer. De Ketelaere Stamm-9er statt Lukaku (Hamstring-Reha-Plan).",
+        "Iran 2:2 vs Neuseeland Spieltag 1: Iran-Defense erstaunlich leaky (2 NZ-Tore zugelassen). Taremi 1 Tor + weitere Chance. Beiranvand GK Stamm, aber Defense-Stamm nicht eingespielt.",
+        "Lukaku Einwechslungs-Boost-Pattern: 22 Sek nach Einsatz Spieltag 1 → forced-OG. Bei Stamm-Eintritt heute = Volume-9er-Power + Form-Edge sehr stark, Goldgrube +20.4% Torschuetzen Jederzeit nutzbar.",
+        "SoFi Stadium LA: 70k Stadion, überdacht, neutrales Klima. Kein Hitze-Faktor.",
+        "Pinnacle BEL-Sieg ~1.40 vs bet365 1.44 → Edge +2.9% (0-3% Slot → max VALUE per Hartregel). UNTER Brick-Korridor 1.50-2.00 → Brick-frei.",
+        "Lesson 21.06 ECU-Bust: Klassen-Edge-Sieg UNTER 1.50 Brick-frei UND Pinnacle-konvergiert reicht NICHT für SAFE auf WM Spieltag 2 → VALUE Maximum."
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Belgien Sieg",
+          "quote": 1.44,
+          "edge_prozent": 2.9,
+          "empfohlener_einsatz_euro": 11.0,
+          "empfohlener_einsatz_prozent": 2.0,
+          "begruendung": "Klassen-Edge groß (FIFA-Rang BEL 5 vs IRN 22). 2:0-Insurance WM 2026. Pflicht-Profile HEIM-FAVORIT erzwingt Sieg-Tipp + Torschuetze. Pinnacle ~1.40 → +2.9% Edge (0-3% Slot → max VALUE per Hartregel). UNTER Brick-Korridor 1.50-2.00 = Brick-frei. ECU-Bust-Lesson 21.06: KEIN SAFE-Status für ähnliche Klassen-Edge-Sieg-Tipps auf WM Spieltag 2 trotz Brick-Frei + Pinnacle-konvergiert. Iran-Defense-Schwäche bestätigt (2 Gegentore vs NZ Spieltag 1). Reality-Check: BEL vor 1-1 vs EGY = 7/8 Pflichtspiele gewonnen.",
+          "faire_quote": 1.4,
+          "reality_check": "Klassen-Edge + Iran-Defense-Leak + 2:0-Insurance, aber ECU-Bust-Lesson + Iran-Defensive-Block-Risiko."
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Romelu Lukaku trifft jederzeit",
+          "quote": 2.05,
+          "edge_prozent": 5.5,
+          "empfohlener_einsatz_euro": 8.25,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+20.4% ROI). Einwechslungs-Boost-Pattern VALIDIERT Spieltag 1: Lukaku trifft 22 Sek nach Einsatz (OG-Erzwingung). Wenn Joker-Sub → wieder Einwechslungs-Boost. Wenn heute Stamm → Volume-9er-Power (Napoli-Saison 9 Tore in 12 Auftritten, alle als Joker - Belgien-Captain-Niveau Form). Cluster-Brick Tag 10 GEBROCHEN bei Klassen-Edge-Max-Spielen (Lesson 21.06). De Ketelaere als Backup-Verbreitung (auch Goldgrube-Markt). Pinnacle ~2.00 → +2.5% Edge nominal, Einwechslungs-Boost-Bonus → effektiv höher. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "faire_quote": 1.95,
+          "reality_check": "Goldgrube + Einwechslungs-Boost-Joker-Pattern + Klassen-Edge-Max.",
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.85,
+          "edge_prozent": 4.0,
+          "empfohlener_einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Markt-Goldgrube Über 2.5 Tore (+28% ROI). Iran-Defense Spieltag 1 = 2 Gegentore (leaky). BEL-Offensive Top-Klasse (De Bruyne + Doku + Trossard). ABER: Iran-typischer-tiefer-Block-Risiko + BEL-Spieltag 1 mit nur 1 Tor (Hany-OG, kein offenes Tor). Wackel statt Value: Tor-Effizienz BEL gegen tiefen Block unbestätigt (1 Tor / 90' vs EGY ähnliches Profil). Pinnacle ~1.80 → +2.8% Edge.",
+          "faire_quote": 1.78,
+          "reality_check": "Goldgrube + Iran-Defense-Leak, aber BEL-1-Tor-Spieltag-1 + Iran-Block-Risiko."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 0,
+        "gast_tore": 0,
+        "halbzeit": {
+          "heim": 0,
+          "gast": 0
+        },
+        "quelle": "WebSearch (ESPN/FIFA/SkySports/AlJazeera/FoxSports)",
+        "abgerufen_am": "2026-06-22T08:00:00+02:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "kategorie": "value",
+          "markt": "Belgien Sieg",
+          "quote": 1.44,
+          "edge_prozent": 2.9,
+          "empfohlener_einsatz_euro": 11.0,
+          "empfohlener_einsatz_prozent": 2.0,
+          "begruendung": "Klassen-Edge groß (FIFA-Rang BEL 5 vs IRN 22). 2:0-Insurance WM 2026. Pflicht-Profile HEIM-FAVORIT erzwingt Sieg-Tipp + Torschuetze. Pinnacle ~1.40 → +2.9% Edge (0-3% Slot → max VALUE per Hartregel). UNTER Brick-Korridor 1.50-2.00 = Brick-frei. ECU-Bust-Lesson 21.06: KEIN SAFE-Status für ähnliche Klassen-Edge-Sieg-Tipps auf WM Spieltag 2 trotz Brick-Frei + Pinnacle-konvergiert. Iran-Defense-Schwäche bestätigt (2 Gegentore vs NZ Spieltag 1). Reality-Check: BEL vor 1-1 vs EGY = 7/8 Pflichtspiele gewonnen.",
+          "faire_quote": 1.4,
+          "reality_check": "Klassen-Edge + Iran-Defense-Leak + 2:0-Insurance, aber ECU-Bust-Lesson + Iran-Defensive-Block-Risiko.",
+          "status": "verloren",
+          "kommentar": "BEL 0:0 vs IRN (Ngoy rote Karte 66', Beiranvand-Paraden, 23 Schüsse 0 Tore).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Romelu Lukaku trifft jederzeit",
+          "quote": 2.05,
+          "edge_prozent": 5.5,
+          "empfohlener_einsatz_euro": 8.25,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+20.4% ROI). Einwechslungs-Boost-Pattern VALIDIERT Spieltag 1: Lukaku trifft 22 Sek nach Einsatz (OG-Erzwingung). Wenn Joker-Sub → wieder Einwechslungs-Boost. Wenn heute Stamm → Volume-9er-Power (Napoli-Saison 9 Tore in 12 Auftritten, alle als Joker - Belgien-Captain-Niveau Form). Cluster-Brick Tag 10 GEBROCHEN bei Klassen-Edge-Max-Spielen (Lesson 21.06). De Ketelaere als Backup-Verbreitung (auch Goldgrube-Markt). Pinnacle ~2.00 → +2.5% Edge nominal, Einwechslungs-Boost-Bonus → effektiv höher. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "faire_quote": 1.95,
+          "reality_check": "Goldgrube + Einwechslungs-Boost-Joker-Pattern + Klassen-Edge-Max.",
+          "_torschuetze_quelle_warn": true,
+          "status": "verloren",
+          "kommentar": "Lukaku tor-leer, später ausgewechselt für Theate (kein Tor, kein Einwechslungs-Boost-Trigger).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.85,
+          "edge_prozent": 4.0,
+          "empfohlener_einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Markt-Goldgrube Über 2.5 Tore (+28% ROI). Iran-Defense Spieltag 1 = 2 Gegentore (leaky). BEL-Offensive Top-Klasse (De Bruyne + Doku + Trossard). ABER: Iran-typischer-tiefer-Block-Risiko + BEL-Spieltag 1 mit nur 1 Tor (Hany-OG, kein offenes Tor). Wackel statt Value: Tor-Effizienz BEL gegen tiefen Block unbestätigt (1 Tor / 90' vs EGY ähnliches Profil). Pinnacle ~1.80 → +2.8% Edge.",
+          "faire_quote": 1.78,
+          "reality_check": "Goldgrube + Iran-Defense-Leak, aber BEL-1-Tor-Spieltag-1 + Iran-Block-Risiko.",
+          "status": "verloren",
+          "kommentar": "0:0 - kein Tor.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "0:0",
+        "tore": [],
+        "drehung": {
+          "war_drehung": false,
+          "details": "0:0 - kein Tor in 90 Min, weder Drehung noch Ergebnis-Schwankung. Belgien dominierte mit 23 Schuessen + 70% Ballbesitz."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Unentschieden",
+          "kein_team_zu_null": false,
+          "beide_zu_null": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Romelu Lukaku",
+            "details": "Spielte ineffektiv (well off the pace laut Goal.com-Ratings), spaeter ausgewechselt fuer Verteidiger Theate nach Ngoy-Rotsperre."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Theate",
+            "aus": "Lukaku",
+            "minute": null,
+            "tor": false,
+            "tor_minute": null,
+            "details": "Theate kam fuer Lukaku rein - kein Tor von Theate, also KEIN Einwechslungs-Boost-Trigger fuer Lukaku-Tipp."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Iran-Defense-Wall ohne Trauma-Trigger - Lesson 21.06 Underdog-Trauma-Defensiv-Igel war FALSCH formuliert: Iran (2:2 vs NZ = solider Punkt-Auftakt, KEIN Trauma) spielt trotzdem Defense-Wall. Defense-Wall ist KEIN Trauma-Folge sondern Iran-Spielstil-Default.",
+          "Beiranvand 7 Paraden (MOM-Niveau) gegen BEL-Elite (De Bruyne + Doku + Trossard) - GK-MOM-Pattern aus Spieltag 1 (Vozinha/CPV, Al-Owais/SAU) wiederholt sich beim 2. Gruppen-Underdog gegen Top-Favorit.",
+          "BEL-Sieg @ 1.44 Brick-Frei + Pinnacle-konvergiert ABER GEBUSTET - ECU-Bust-Lesson 21.06 mit n=3 validiert (gestern ECU + heute BEL + URU).",
+          "Ngoy-Rote-Karte 66' nach Taremi-Steal - Belgien-Defense-Asymmetrie ohne Lukaku-Stamm (Lukaku im Match well-off-pace).",
+          "Ueber-2.5-Tore-Goldgrube +28% ROI GEBROCHEN - 23 BEL-Schuesse fuehrten zu 0 Toren. Effizienz-Crash trotz Volumen."
+        ]
+      }
+    },
+    {
+      "id": "2026-06-22-uru-cpv",
+      "liga": "FIFA World Cup 2026 - Gruppe H - Spieltag 2",
+      "heim": "Uruguay",
+      "gast": "Cape Verde",
+      "anstoss": "2026-06-22T00:00:00+02:00",
+      "stadion": "Hard Rock Stadium, Miami Gardens (USA)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM-Gruppenphase Spieltag 2, südamerikanische Klub-Saison (Apertura) läuft aber Stamm-XI primär in Europa (Valverde/Real Madrid, Bentancur/Tottenham, Ugarte/Manchester United, Nunez/Liverpool, Maxi Araujo/Inter). Vereinssaisons abgeschlossen, keine echte Doppelbelastung.",
+        "parallel_gast": "keine - WM-Gruppenphase Spieltag 2, Cape Verde-Stamm primär in Portugal Primeira/Frankreich Ligue 2/Türkei (Stopila Sunzu, Garry Rodrigues, Ronaldo Mendes, Vozinha GK/Famalicão). Vereinssaisons beendet.",
+        "saisonziel_heim": "Achtelfinale-Quali als Bielsa-Hoffnungsträger. Nach 1:1 vs Saudi-Arabien (15.06, Maxi-Araujo-Tor 80. Min) 1 Pkt + Tordifferenz 0. MUSS-SIEG-Lage zur Achtelfinal-Quali (alle 4 Gruppe H = 1 Pkt). Nunez bei Spieltag 1 in Halbzeit ausgewechselt (ineffektiv) - Bielsa-Adjustment: Valverde zentral.",
+        "saisonziel_gast": "Achtelfinale-Quali theoretisch nach Sensationsfest. Nach 0:0 vs Spanien (15.06, Vozinha-MOM mit 7 Paraden gegen 27 ESP-Schüsse) 1 Pkt - Cape Verde hat sich als Defensiv-Festung etabliert. Bei Remis = nahezu durch. Tieferer Block + Schadensbegrenzung wahrscheinlich.",
+        "motivations_asymmetrie": "Uruguay MUSS-SIEG-Lage + Klassen-Edge (FIFA-Rang URU 16 vs CPV 70, Differenz 54). ABER: Cape-Verde-Defense-Festung-Pattern bestätigt (0:0 vs Spanien Spieltag 1). Spanien war Klassen-Edge maximum gegen tieferen Block UND ineffizient (0 Tore trotz 27 Schüssen). Bielsa-Adjust nach Nunez-Halbzeit-Aus muss Uruguay-Tor-Effizienz erst beweisen. Asymmetrie Pro-URU in Klasse, Pro-CPV in Punkt-Reichend-Strategie.",
+        "recovery_heim": "Spieltag 1 am 15.06 (1:1 vs SAU, Maxi-Araujo 80. Min) - 6 Tage Pause. Squad fit. Nunez nach Halbzeit-Aus ggf. heute Bank (Bielsa-Unzufriedenheit), Valverde zentral. Verletzungen: Ronald Araujo (Barcelona-CB), Arrascaeta, Piquerez weiter aus. Aufstellung 4-2-3-1: Muslera; Varela, Caceres, Olivera, Vina; Ugarte, Bentancur; Valverde, Vinas, M Araujo; Nunez (ggf.).",
+        "recovery_gast": "Spieltag 1 am 15.06 (0:0 vs ESP, Vozinha MOM mit 7 Paraden) - 6 Tage Pause. Squad fit + voll motiviert nach Sensation. Vozinha (40) Stamm-GK, defensive Stamm-Linien eingespielt. Konter über Garry Rodrigues + Marciano Sanca.",
+        "quellen": [
+          "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021487",
+          "https://www.espn.com/soccer/story/_/id/49106772/fifa-world-cup-2026-uruguay-vs-cape-verde-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups",
+          "https://www.goal.com/en/lists/maxi-araujo-uruguay-saudi-arabia-world-cup-opener-darwin-nunez-subbed/bltb0a693a0f6d7966a",
+          "https://www.skysports.com/football/news/12024/13552711/world-cup-2026-spain-0-0-cape-verde-african-islands-with-population-less-than-500-000-produce-one-of-tournaments-biggest-shocks",
+          "https://theanalyst.com/articles/uruguay-vs-cape-verde-prediction-world-cup-2026-match-preview"
+        ]
+      },
+      "news": [
+        "Uruguay 1:1 vs Saudi-Arabien Spieltag 1 (15.06): Maxi-Araujo-Tor 80. Min Equalizer nach Al-Amri-Tor. Bielsa hat Nunez in Halbzeit ausgewechselt (ineffektiv) + Valverde zentral verschoben. Bielsa-Adjust funktionierte. Nunez heute STAR-AUSFALL-RISIKO (Bielsa-Bench-Möglichkeit).",
+        "Cape Verde 0:0 vs Spanien Spieltag 1: Vozinha (40, Famalicão GK) mit 7 Paraden = MOM. Spanien 27 Schüsse, 0 Tore. Cape-Verde-DEFENSE-FESTUNG etabliert. WM-Sensation laut Sky Sports + Al Jazeera.",
+        "Lesson 21.06 Underdog-Trauma-Defensiv-Igel-Pattern: Curaçao 1:7-Trauma → 0:0 vs ECU (Defense-Wand). CPV mit 0:0-Sensation-Bestätigung = analog Defense-Igel-Profil → Über 2.5 RISIKO + Sieg-Tipp-Konversion unsicher.",
+        "Hard Rock Stadium Miami: hohe Hitze + Luftfeuchtigkeit (Florida Juni Nachmittag-Spiel 00:00 Berlin = 18:00 Miami). Tempo-Reduktion möglich → Unter-Tore-Trend wahrscheinlich.",
+        "Pinnacle URU-Sieg ~1.45 vs bet365 1.48 → +2.1% Edge (0-3% Slot → max VALUE per Hartregel). UNTER Brick aber CPV-Defense-Pattern + ECU-Bust-Lesson → KEIN SAFE-Status.",
+        "Bielsa-Profile: Hoch-Press-Spiel + Valverde-zentral, aber Verletzungs-Liste (R. Araujo, Arrascaeta, Piquerez OUT) reduziert Bench-Tiefe."
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Uruguay Sieg",
+          "quote": 1.48,
+          "edge_prozent": 2.1,
+          "empfohlener_einsatz_euro": 8.25,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Klassen-Edge (FIFA-Rang URU 16 vs CPV 70). 2:0-Insurance WM 2026. Pflicht-Profile HEIM-FAVORIT erzwingt Sieg-Tipp + Torschuetze. Pinnacle ~1.45 → +2.1% Edge (0-3% Slot → max VALUE per Hartregel). UNTER Brick 1.50-2.00 = Brick-frei. ECU-Bust-Lesson 21.06: KEIN SAFE-Status für Sieg-Tipps auf WM Spieltag 2 trotz Brick-Frei + Pinnacle-konvergiert. Cape-Verde-Defense-Festung-Risiko (0:0 vs Spanien) - Spanien war Klassen-Edge-maximum gegen identischen Block und blieb torlos. Reduzierter Einsatz 1.5% statt 2.0% wegen CPV-Festungs-Pattern. Reality-Check: ECU vs CUR @ 1.15 gestern verloren wegen ähnlichem Defensiv-Igel-Pattern.",
+          "faire_quote": 1.43,
+          "reality_check": "Klassen-Edge + MUSS-Sieg + Insurance, aber CPV-Defense-Festung + ECU-Bust-Lesson aktiv."
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Federico Valverde trifft jederzeit",
+          "quote": 2.3,
+          "edge_prozent": 4.5,
+          "empfohlener_einsatz_euro": 8.25,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+20.4% ROI). Valverde nach Bielsa-Halbzeit-Adjust Spieltag 1 in ZENTRALE Rolle - dort höhere Tor-Beteiligung als von Außen. Real-Madrid-Saison 8 Tore + 5 Assists (Profilbeleg). Pflicht-Profile HEIM-FAVORIT erzwingt Torschuetzen-Tipp + Star-Adjust-PFLICHT (Nunez-Ineffizienz → Valverde-Zentral-Backup-Pflicht laut CLAUDE.md). Cluster-Brick Tag 10 GEBROCHEN bei Klassen-Edge-Max → VALUE statt WACKEL. Pinnacle ~2.20 → +4.5% Edge. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "faire_quote": 2.2,
+          "reality_check": "Zentrale Rolle + Star-Adjust-Pflicht + Real-Form + Klassen-Edge.",
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "kategorie": "value",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.83,
+          "edge_prozent": 6.0,
+          "empfohlener_einsatz_euro": 5.5,
+          "empfohlener_einsatz_prozent": 1.0,
+          "begruendung": "Markt-Goldgrube Unter 2.5 Tore (+29.2% ROI, 65% Hitrate - bestes Tor-Total-Markt-Profil). CPV-Defense-Festung VALIDIERT Spieltag 1 (0:0 vs Spanien). Bielsa-Tempo-Spiel aber Verletzungs-Liste-Reduktion-Bench-Tiefe. Hard-Rock-Miami-Hitze (Florida 18:00 lokal) → Tempo-Reduktion zusätzlich. Wahrscheinliche Endstände 1:0, 2:0, 2:1 - alle Unter 2.5. Pinnacle ~1.75 → +4.6% Edge. Lesson 21.06 Defensiv-Igel: Curaçao + CPV-Trauma-Defense-Wall-Pattern. Reality-Check: 4/5 letzten CPV-Pflichtspiele Unter 2.5.",
+          "faire_quote": 1.72,
+          "reality_check": "Goldgrube + CPV-Festung + Miami-Hitze + Defensiv-Igel-Lesson."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 2,
+        "halbzeit": {
+          "heim": 2,
+          "gast": 1
+        },
+        "quelle": "WebSearch (ESPN/FIFA/SkySports/AlJazeera/FoxSports)",
+        "abgerufen_am": "2026-06-22T08:00:00+02:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "kategorie": "value",
+          "markt": "Uruguay Sieg",
+          "quote": 1.48,
+          "edge_prozent": 2.1,
+          "empfohlener_einsatz_euro": 8.25,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Klassen-Edge (FIFA-Rang URU 16 vs CPV 70). 2:0-Insurance WM 2026. Pflicht-Profile HEIM-FAVORIT erzwingt Sieg-Tipp + Torschuetze. Pinnacle ~1.45 → +2.1% Edge (0-3% Slot → max VALUE per Hartregel). UNTER Brick 1.50-2.00 = Brick-frei. ECU-Bust-Lesson 21.06: KEIN SAFE-Status für Sieg-Tipps auf WM Spieltag 2 trotz Brick-Frei + Pinnacle-konvergiert. Cape-Verde-Defense-Festung-Risiko (0:0 vs Spanien) - Spanien war Klassen-Edge-maximum gegen identischen Block und blieb torlos. Reduzierter Einsatz 1.5% statt 2.0% wegen CPV-Festungs-Pattern. Reality-Check: ECU vs CUR @ 1.15 gestern verloren wegen ähnlichem Defensiv-Igel-Pattern.",
+          "faire_quote": 1.43,
+          "reality_check": "Klassen-Edge + MUSS-Sieg + Insurance, aber CPV-Defense-Festung + ECU-Bust-Lesson aktiv.",
+          "status": "verloren",
+          "kommentar": "URU 2:2 vs CPV - URU führte 2:1 zur HZ (Maxi Araujo 44', Canobbio 45+6'), aber Pina 21' + Varela 60' für CPV. KEIN 2:0-Vorsprung URU - 2:0-Insurance greift NICHT.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Federico Valverde trifft jederzeit",
+          "quote": 2.3,
+          "edge_prozent": 4.5,
+          "empfohlener_einsatz_euro": 8.25,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+20.4% ROI). Valverde nach Bielsa-Halbzeit-Adjust Spieltag 1 in ZENTRALE Rolle - dort höhere Tor-Beteiligung als von Außen. Real-Madrid-Saison 8 Tore + 5 Assists (Profilbeleg). Pflicht-Profile HEIM-FAVORIT erzwingt Torschuetzen-Tipp + Star-Adjust-PFLICHT (Nunez-Ineffizienz → Valverde-Zentral-Backup-Pflicht laut CLAUDE.md). Cluster-Brick Tag 10 GEBROCHEN bei Klassen-Edge-Max → VALUE statt WACKEL. Pinnacle ~2.20 → +4.5% Edge. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "faire_quote": 2.2,
+          "reality_check": "Zentrale Rolle + Star-Adjust-Pflicht + Real-Form + Klassen-Edge.",
+          "_torschuetze_quelle_warn": true,
+          "status": "verloren",
+          "kommentar": "Valverde tor-leer, kein direkter Ersatz-Tor-Trigger nachweisbar (Canobbio in Start-XI, kein Boost).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "kategorie": "value",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.83,
+          "edge_prozent": 6.0,
+          "empfohlener_einsatz_euro": 5.5,
+          "empfohlener_einsatz_prozent": 1.0,
+          "begruendung": "Markt-Goldgrube Unter 2.5 Tore (+29.2% ROI, 65% Hitrate - bestes Tor-Total-Markt-Profil). CPV-Defense-Festung VALIDIERT Spieltag 1 (0:0 vs Spanien). Bielsa-Tempo-Spiel aber Verletzungs-Liste-Reduktion-Bench-Tiefe. Hard-Rock-Miami-Hitze (Florida 18:00 lokal) → Tempo-Reduktion zusätzlich. Wahrscheinliche Endstände 1:0, 2:0, 2:1 - alle Unter 2.5. Pinnacle ~1.75 → +4.6% Edge. Lesson 21.06 Defensiv-Igel: Curaçao + CPV-Trauma-Defense-Wall-Pattern. Reality-Check: 4/5 letzten CPV-Pflichtspiele Unter 2.5.",
+          "faire_quote": 1.72,
+          "reality_check": "Goldgrube + CPV-Festung + Miami-Hitze + Defensiv-Igel-Lesson.",
+          "status": "verloren",
+          "kommentar": "4 Tore gesamt (2:2).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "2:1",
+        "endstand": "2:2",
+        "tore": [
+          {
+            "min": 21,
+            "team": "gast",
+            "spieler": "Kevin Pina",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 44,
+            "team": "heim",
+            "spieler": "Maximiliano Araujo",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 51,
+            "team": "heim",
+            "spieler": "Agustin Canobbio",
+            "stand_danach": "2:1",
+            "_zeit_kommentar": "45+6 = ca. Min 51 Stoppage"
+          },
+          {
+            "min": 60,
+            "team": "gast",
+            "spieler": "Helio Varela",
+            "stand_danach": "2:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Differenz nie >= 2 Tore - URU fuehrte max 2:1 zur HZ. Per Algorithmus keine Drehung, aber CV kam zweimal von hinten zurueck (0:1 → 1:1 → 1:2 → 2:2)."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Heim/Unentschieden",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Cape Verde DEFENSE-FESTUNG-Pattern KOMPLETT WIDERLEGT - Spieltag 1 0:0 vs ESP war Asymmetrie-Resultat (ESP-Druck + Vozinha-MOM), nicht CPV-spezifischer Defense-Stil. Heute 2 Tore (Pina FK + Varela). CPV ist KEIN Defensiv-Igel-Team.",
+          "Underdog-Trauma-Defensiv-Igel-These (Lesson 21.06 nach ECU vs CUR 0:0) WIDERLEGT - CPV hatte KEIN Trauma + spielte offen + Tor-fest.",
+          "URU-Sieg @ 1.48 Brick-Frei + Pinnacle-konvergiert ABER GEBUSTET - ECU-Bust-Lesson 21.06 mit n=4 (gestern ECU + heute BEL + URU + ECU-prior).",
+          "Unter-2.5-Tore-Goldgrube +29.2% ROI GEBROCHEN - 4 Tore gesamt. CPV-These war Hauptbegrnindung fuer Unter-Tipp.",
+          "Bielsa-Adjust nach Halbzeit (URU 2:1 vorne) funktionierte nicht - URU kassierte Varela-Equalizer in 60. Min. Hoch-Press-Spiel + Verletzungs-Liste (R.Araujo, Arrascaeta, Piquerez OUT) reduzierte Bench-Tiefe sichtbar in 2. Halbzeit.",
+          "Spaet-Tor-Cluster WM Spieltag 2 weiter aktiv: 60. Min Varela-Equalizer = Late-Sub-Phase-Equalizer."
+        ]
+      }
+    },
+    {
+      "id": "2026-06-22-nzl-egy",
+      "liga": "FIFA World Cup 2026 - Gruppe G - Spieltag 2",
+      "heim": "Neuseeland",
+      "gast": "Ägypten",
+      "anstoss": "2026-06-22T03:00:00+02:00",
+      "stadion": "BC Place, Vancouver (Kanada)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM-Gruppenphase Spieltag 2, A-League beendet (Mai 2026), NZ-Stamm primär in Australien A-League / Schottland / England Championship (Wood/Nottingham Forest, Crocombe GK/Lincoln). Vereinssaisons abgeschlossen.",
+        "parallel_gast": "keine - WM-Gruppenphase Spieltag 2, Egyptian Premier League beendet (Mai 2026), ägyptische Stamm primär in PL/Bundesliga/Saudi (Salah/Liverpool, Marmoush/Manchester City, Mohamed Hany/Al-Ahli). Vereinssaisons abgeschlossen.",
+        "saisonziel_heim": "Achtelfinale-Quali theoretisch nach Sensation. Nach 2:2 vs Iran (15.06) 1 Pkt + Tordifferenz 0 - NZ hat überraschend gegen Iran-Mittelmaß gepunktet. Bei Niederlage = K.O.-Risiko. WILL-Sieg im klassischen Underdog-Profil: kein FIFA-Klassen-Edge, aber Volume-Wood-Hoffnung.",
+        "saisonziel_gast": "Achtelfinale-Quali. Nach 1:1 vs Belgien (15.06, Ashour-Tor 19. Min + Salah-34-Geburtstag-Assist) 1 Pkt + Tordifferenz 0. MUSS-SIEG-Lage für Top-Position vor letztem Spieltag (vs Iran). Erste WM-Sieg in Egypts Geschichte als Trigger-Statement.",
+        "motivations_asymmetrie": "Ägypten MUSS-SIEG-Lage + Klassen-Edge (FIFA-Rang EGY 35 vs NZL 95, Differenz 60). NZ tieferer Block + Volume-Wood-Konter (Nottingham Forest 11 Tore PL-Saison 25/26). Asymmetrie Pro-EGY in Klasse + Star-Power (Salah-Marmoush-Duo), Pro-NZ in Underdog-Energie + Iran-Punktepolster.",
+        "recovery_heim": "Spieltag 1 am 15.06 (2:2 vs IRN) - 6 Tage Pause. Squad fit. Wood Stamm-9er, Stamenic/Bell zentral. Aufstellung 4-2-3-1: Crocombe; Payne, Surman, Boxall, Cacace; Bell, Stamenic; McCowatt, Singh, Just; Wood.",
+        "recovery_gast": "Spieltag 1 am 15.06 (1:1 vs BEL) - 6 Tage Pause. Squad fit. Salah als No.10 (offensiver Spielmacher statt klassischer Flügel) - Hossam-Hassan-Profil. Marmoush als Stamm-9er + 5 Schüsse Spieltag 1. Lineup ggf. unverändert vs Belgien-Setup.",
+        "quellen": [
+          "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021480",
+          "https://www.foxsports.com/soccer/fifa-world-cup-men-new-zealand-vs-egypt-jun-21-2026-game-boxscore-647655",
+          "https://onefootball.com/en/news/new-zealand-vs-egypt-prediction-world-cup-2026-preview-best-bets-43026948",
+          "https://www.squawka.com/us/news/world-cup/match-preview-new-zealand-vs-egypt-06-21-26-world-cup-2026/",
+          "https://www.skysports.com/football/belgium-vs-egypt/report/549778"
+        ]
+      },
+      "news": [
+        "Neuseeland 2:2 vs Iran Spieltag 1 (15.06): NZ hat 2 Iran-Tore zugelassen + 2 selbst geschossen. Wood (Nottingham Forest 11 PL-Tore) Stamm-9er. NZ-Defense leaky (2 Gegentore gegen Iran-Mittelmaß).",
+        "Ägypten 1:1 vs Belgien Spieltag 1: Ashour 19. Min (Salah-Assist 34-Geburtstag = erster Afrikaner mit WM-Tor-Beteiligung am Geburtstag laut Sky Sports). Lukaku-OG-Equalizer 22 Sek nach Einwechslung. Marmoush 5 Schüsse, kein Tor.",
+        "Salah-Profile: No.10 statt klassischer Flügel (Hossam Hassan-Taktik) - mehr Assist-fokus, aber als Stamm-Schütze 19 Liverpool-PL-Tore Saison 25/26. Goldgrube-Markt Torschuetzen Jederzeit anwendbar.",
+        "BC Place Vancouver: 54.5k Stadion, überdacht, moderates Kanada-Klima. Kein Hitze-Faktor.",
+        "Pinnacle EGY-Sieg ~1.55 vs bet365 1.60 → +3.2% Edge (3%+ Slot → SAFE/VALUE OK). ABER: Quote 1.60 IM Brick-Korridor 1.50-2.00 → max VALUE per Brick-Lesson. DC X2 als Ausweich (Goldgrube DC X2 +16.1%).",
+        "Lesson 21.06 Late-Goal-Cluster Spieltag 2 Tag 8 weiter aktiv (3/4 90+ Min-Tore beobachtet) → Über 2.5 mit erhöhter spätem-Tor-Wahrscheinlichkeit."
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Doppelte Chance Ägypten (X2)",
+          "quote": 1.2,
+          "edge_prozent": 4.5,
+          "empfohlener_einsatz_euro": 8.25,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Markt-Goldgrube DC X2 (+16.1% ROI, 80% Hitrate laut data/markt_goldgruben.json). Klassen-Edge groß (EGY 35 vs NZL 95). DC weicht Sieg-Brick-Korridor 1.50-2.00 (EGY-Sieg @ 1.60 GENAU im Brick) aus - Lesson 8b. Spieltag 2 NICHT in Liga-Goldgrube → max VALUE statt SAFE. NZ-Defense leaky (2 Iran-Tore zugelassen) + EGY-Salah-Marmoush-Duo-Bedrohung. Pinnacle ~1.18 → +1.7% Edge.",
+          "faire_quote": 1.18,
+          "reality_check": "DC-Goldgrube + Brick-Ausweich + Klassen-Edge + NZ-Defense-Leak."
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Mohamed Salah trifft jederzeit",
+          "quote": 2.2,
+          "edge_prozent": 4.8,
+          "empfohlener_einsatz_euro": 8.25,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+20.4% ROI). Salah Top-Welt-9er-Niveau (Liverpool-Saison 25/26: 19 PL-Tore). NZ-Defense leaky Spieltag 1 + Salah als No.10 in Strafraum-Zone (Hossam-Profile, Spieltag-1-Assist-Beweis). MUSS-Sieg-Druck = EGY auf Tor-Angriff statt Defense-Block. Pflicht-Profile AUSWÄRTS-FAVORIT erzwingt Torschuetzen-Tipp. Cluster-Brick Tag 10 GEBROCHEN (Lesson 21.06) bei Klassen-Edge-Max → VALUE statt WACKEL. Pinnacle ~2.10 → +4.8% Edge. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "faire_quote": 2.08,
+          "reality_check": "Goldgrube + 19 PL-Tore-Form + NZ-Leak + Cluster-Bruch-Lesson.",
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Omar Marmoush trifft jederzeit",
+          "quote": 2.75,
+          "edge_prozent": 3.8,
+          "empfohlener_einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Marmoush Stamm-9er (Manchester City), Spieltag 1: 5 Schüsse vs Belgien aber 0 Tor. Doppelter Torschuetzen-Tipp im Spiel (mit Salah) wegen MUSS-Sieg-Druck EGY = mehr Tor-Chancen erwartet. NZ-Defense leaky. Wackel statt Value: 0-Tor-Spieltag-1 trotz 5 Schüssen = Effizienz-Frage. Pinnacle ~2.65 → +3.8% Edge.",
+          "faire_quote": 2.6,
+          "reality_check": "Goldgrube + Stamm-9er + NZ-Leak, aber Effizienz-Frage nach 0-Tor-Spieltag-1."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 3,
+        "halbzeit": {
+          "heim": 1,
+          "gast": 0
+        },
+        "quelle": "WebSearch (ESPN/FIFA/SkySports/AlJazeera/FoxSports)",
+        "abgerufen_am": "2026-06-22T08:00:00+02:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "kategorie": "value",
+          "markt": "Doppelte Chance Ägypten (X2)",
+          "quote": 1.2,
+          "edge_prozent": 4.5,
+          "empfohlener_einsatz_euro": 8.25,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Markt-Goldgrube DC X2 (+16.1% ROI, 80% Hitrate laut data/markt_goldgruben.json). Klassen-Edge groß (EGY 35 vs NZL 95). DC weicht Sieg-Brick-Korridor 1.50-2.00 (EGY-Sieg @ 1.60 GENAU im Brick) aus - Lesson 8b. Spieltag 2 NICHT in Liga-Goldgrube → max VALUE statt SAFE. NZ-Defense leaky (2 Iran-Tore zugelassen) + EGY-Salah-Marmoush-Duo-Bedrohung. Pinnacle ~1.18 → +1.7% Edge.",
+          "faire_quote": 1.18,
+          "reality_check": "DC-Goldgrube + Brick-Ausweich + Klassen-Edge + NZ-Defense-Leak.",
+          "status": "gewonnen",
+          "kommentar": "EGY 3:1 Sieg - DC X2 gewonnen.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Mohamed Salah trifft jederzeit",
+          "quote": 2.2,
+          "edge_prozent": 4.8,
+          "empfohlener_einsatz_euro": 8.25,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+20.4% ROI). Salah Top-Welt-9er-Niveau (Liverpool-Saison 25/26: 19 PL-Tore). NZ-Defense leaky Spieltag 1 + Salah als No.10 in Strafraum-Zone (Hossam-Profile, Spieltag-1-Assist-Beweis). MUSS-Sieg-Druck = EGY auf Tor-Angriff statt Defense-Block. Pflicht-Profile AUSWÄRTS-FAVORIT erzwingt Torschuetzen-Tipp. Cluster-Brick Tag 10 GEBROCHEN (Lesson 21.06) bei Klassen-Edge-Max → VALUE statt WACKEL. Pinnacle ~2.10 → +4.8% Edge. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "faire_quote": 2.08,
+          "reality_check": "Goldgrube + 19 PL-Tore-Form + NZ-Leak + Cluster-Bruch-Lesson.",
+          "_torschuetze_quelle_warn": true,
+          "status": "gewonnen",
+          "kommentar": "Salah 67' - erster Afrikaner mit WM-Tor & Assist am 34. Geburtstag-Folgetag.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Omar Marmoush trifft jederzeit",
+          "quote": 2.75,
+          "edge_prozent": 3.8,
+          "empfohlener_einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Marmoush Stamm-9er (Manchester City), Spieltag 1: 5 Schüsse vs Belgien aber 0 Tor. Doppelter Torschuetzen-Tipp im Spiel (mit Salah) wegen MUSS-Sieg-Druck EGY = mehr Tor-Chancen erwartet. NZ-Defense leaky. Wackel statt Value: 0-Tor-Spieltag-1 trotz 5 Schüssen = Effizienz-Frage. Pinnacle ~2.65 → +3.8% Edge.",
+          "faire_quote": 2.6,
+          "reality_check": "Goldgrube + Stamm-9er + NZ-Leak, aber Effizienz-Frage nach 0-Tor-Spieltag-1.",
+          "status": "verloren",
+          "kommentar": "Marmoush tor-leer (Stamm-9er, 35' FK-Assist auf Salah misslungen). Zico/Salah/Trezeguet trafen, kein Einwechslungs-Boost-Trigger fuer Marmoush nachweisbar.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "1:3",
+        "tore": [
+          {
+            "min": 15,
+            "team": "heim",
+            "spieler": "Finn Surman",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 58,
+            "team": "gast",
+            "spieler": "Mostafa Zico",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 67,
+            "team": "gast",
+            "spieler": "Mohamed Salah",
+            "stand_danach": "1:2"
+          },
+          {
+            "min": 82,
+            "team": "gast",
+            "spieler": "Trezeguet",
+            "stand_danach": "1:3"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "NZL fuehrte zur HZ 1:0, EGY drehte zu 1:3. Differenz max 1 Tor zur HZ - per Algorithmus keine Drehung (kein 2-Tor-Vorsprung), aber EGY-Comeback nach Surman-15.-Min-Fuehrung."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Heim/Gast",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "gast",
+            "ein": "Trezeguet",
+            "aus": null,
+            "minute": 76,
+            "tor": true,
+            "tor_minute": 82,
+            "details": "Trezeguet kam in 76. Min rein + traf in 82. Min nach Salah-Ecke. Wer raus ging unklar (vermutlich nicht Marmoush direkt - Marmoush blieb laut Berichten im Spiel). KEIN Einwechslungs-Boost-Trigger fuer Marmoush-Tipp nachweisbar."
+          }
+        ],
+        "auffaellige_patterns": [
+          "EGY drehte 1:0-Rueckstand zu 1:3-Sieg - Klassen-Edge-Comeback funktioniert auch nach fruehem Standard-Gegentor (Surman 15. Min Kopfball nach Ecke).",
+          "Salah-Klassen-Edge-Tor + Assist (Trezeguet-Kopfball nach Salah-Ecke) = Salah-Pflicht-Profile AUSWAERTS-FAVORIT bestaetigt.",
+          "Marmoush-Tipp 2/2 Spieltage gebustet - 0 Tore in 2 WM-Spielen trotz Stamm-9er-Status + 5 Schuessen Spieltag 1 + 35. Min FK-Assist-Versuch heute. Volume-9er-These bei Manchester-City-Spieler fragwuerdig fuer National-Team WM-Modus.",
+          "Spaet-Tor-Cluster WM Spieltag 2 weiter aktiv: 82. Min Trezeguet-Treffer. 3/4 Tore EGY nach 58. Min - klassisches Klassen-Edge-Auswaerts-Spaet-Tor-Profil.",
+          "DC X2 Goldgrube +16.1% ROI bestaetigt - EGY-Sieg @ 1.60 BRICK-Korridor-AUSWEICH war richtig (Salah-Profil 19 PL-Tore funktioniert auch in WM-Modus)."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "spiel_id": "2026-06-21-esp-sau",
+      "kategorie": "wackel",
+      "markt": "Spanien Sieg",
+      "quote": 1.08,
+      "edge_prozent": 0.9,
+      "empfohlener_einsatz_euro": 11.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "Klassen-Edge maximum (FIFA-Rang ESP 2 vs SAU 56). 2:0-Insurance + Brick-frei UNTER 1.50. Pinnacle ~1.07 → +0.9% Edge (0-3% Slot → max VALUE per Hartregel). ECU-Bust-Lesson 21.06: KEIN SAFE für ähnliche Klassen-Edge-Sieg-Tipps WM Spieltag 2 trotz Brick-Frei. Höchster Einsatz (2.0%) wegen Klassen-Edge-Max.",
+      "faire_quote": 1.07,
+      "reality_check": "Klassen-Edge max + Insurance, aber ECU-Bust-Lesson + CPV-Defense-Pattern-Risiko.",
+      "rang": 1
+    },
+    {
+      "spiel_id": "2026-06-21-bel-irn",
+      "kategorie": "wackel",
+      "markt": "Belgien Sieg",
+      "quote": 1.44,
+      "edge_prozent": 2.9,
+      "empfohlener_einsatz_euro": 11.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "Klassen-Edge groß (BEL 5 vs IRN 22) + Iran-Defense-Leak (2 Gegentore vs NZ Spieltag 1). 2:0-Insurance. Brick-frei UNTER 1.50. Pinnacle ~1.40 → +2.9% Edge (0-3% Slot → max VALUE). ECU-Bust-Lesson aktiv → KEIN SAFE.",
+      "faire_quote": 1.4,
+      "reality_check": "Klassen-Edge + Iran-Defense-Leak + 2:0-Insurance.",
+      "rang": 2
+    },
+    {
+      "spiel_id": "2026-06-22-uru-cpv",
+      "kategorie": "wackel",
+      "markt": "Uruguay Sieg",
+      "quote": 1.48,
+      "edge_prozent": 2.1,
+      "empfohlener_einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Klassen-Edge (URU 16 vs CPV 70). 2:0-Insurance + Brick-frei UNTER 1.50. Pinnacle ~1.45 → +2.1% Edge. CPV-Defense-Festung-Risiko (0:0 vs Spanien Spieltag 1, Vozinha 7 Paraden) reduziert Einsatz auf 1.5%. ECU-Bust-Lesson 21.06 + Defensiv-Igel-Pattern beide aktiv.",
+      "faire_quote": 1.43,
+      "reality_check": "Klassen-Edge + Insurance, aber CPV-Defense-Festung + ECU-Bust + Defensiv-Igel-Lesson.",
+      "rang": 3
+    },
+    {
+      "spiel_id": "2026-06-22-nzl-egy",
+      "kategorie": "wackel",
+      "markt": "Doppelte Chance Ägypten (X2)",
+      "quote": 1.2,
+      "edge_prozent": 4.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Markt-Goldgrube DC X2 (+16.1% ROI, 80% Hitrate). DC weicht Sieg-Brick (EGY-Sieg @ 1.60 GENAU im Korridor 1.50-2.00) aus. Klassen-Edge (EGY 35 vs NZL 95) + NZ-Defense-Leak. Pinnacle ~1.18 → +1.7% Edge.",
+      "faire_quote": 1.18,
+      "reality_check": "DC-Goldgrube + Brick-Ausweich + Klassen-Edge.",
+      "rang": 4
+    },
+    {
+      "spiel_id": "2026-06-22-uru-cpv",
+      "kategorie": "wackel",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.83,
+      "edge_prozent": 6.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Markt-Goldgrube Unter 2.5 Tore (+29.2% ROI, 65% Hitrate). CPV-Defense-Festung VALIDIERT (0:0 vs Spanien) + Miami-Hitze (Florida 18:00 lokal) Tempo-Reduktion. Bielsa-Verletzungs-Liste reduziert Bench-Tiefe. Pinnacle ~1.75 → +4.6% Edge.",
+      "faire_quote": 1.72,
+      "reality_check": "Goldgrube + CPV-Festung + Miami-Hitze + Defensiv-Igel-Lesson.",
+      "rang": 5
+    },
+    {
+      "spiel_id": "2026-06-22-uru-cpv",
+      "kategorie": "wackel",
+      "markt": "Federico Valverde trifft jederzeit",
+      "quote": 2.3,
+      "edge_prozent": 4.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+20.4% ROI). Valverde nach Bielsa-Halbzeit-Adjust in ZENTRALE Rolle - Real-Madrid 8 Tore-Saison. Star-Adjust-Pflicht (Nunez-Ineffizienz). Pflicht-Profile HEIM-FAVORIT. Cluster-Brick Tag 10 GEBROCHEN bei Klassen-Edge-Max-Spielen.",
+      "faire_quote": 2.2,
+      "reality_check": "Zentrale Rolle + Star-Adjust-Pflicht + Real-Form + Klassen-Edge.",
+      "rang": 6
+    },
+    {
+      "spiel_id": "2026-06-22-nzl-egy",
+      "kategorie": "wackel",
+      "markt": "Mohamed Salah trifft jederzeit",
+      "quote": 2.2,
+      "edge_prozent": 4.8,
+      "empfohlener_einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Liverpool-Saison 19 PL-Tore. NZ-Defense leaky (2 Gegentore Spieltag 1) + Salah als No.10 in Strafraum (Hossam-Taktik) + MUSS-Sieg-Druck EGY. Cluster-Brick Tag 10 GEBROCHEN bei Klassen-Edge-Max.",
+      "faire_quote": 2.08,
+      "reality_check": "Goldgrube + 19 PL-Tore + NZ-Leak + Cluster-Bruch.",
+      "rang": 7
+    },
+    {
+      "spiel_id": "2026-06-21-bel-irn",
+      "kategorie": "wackel",
+      "markt": "Romelu Lukaku trifft jederzeit",
+      "quote": 2.05,
+      "edge_prozent": 5.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Einwechslungs-Boost-Pattern VALIDIERT Spieltag 1 (22 Sek nach Einsatz forced-OG). Bei Stamm-Eintritt = Volume-9er-Power. Cluster-Brick Tag 10 GEBROCHEN + Klassen-Edge-Max.",
+      "faire_quote": 1.95,
+      "reality_check": "Goldgrube + Einwechslungs-Boost-Joker-Pattern + Klassen-Edge.",
+      "rang": 8
+    },
+    {
+      "spiel_id": "2026-06-21-esp-sau",
+      "kategorie": "wackel",
+      "markt": "Mikel Oyarzabal trifft jederzeit",
+      "quote": 2.1,
+      "edge_prozent": 5.0,
+      "empfohlener_einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Stamm-9er Spanien + 4 Tore in letzten 5 Länderspielen (laut ESPN). Pflicht-Profile HEIM-FAVORIT erzwingt Torschuetzen-Tipp. Cluster-Brick Tag 10 GEBROCHEN bei Klassen-Edge-Max → VALUE. Saudi-Defense-Konzentration auf Yamal/Williams → Oyarzabal-Lücken.",
+      "faire_quote": 1.95,
+      "reality_check": "Stamm-9er + Form-Edge + Goldgrube + Cluster-Bruch.",
+      "rang": 9
+    },
+    {
+      "spiel_id": "2026-06-22-nzl-egy",
+      "kategorie": "wackel",
+      "markt": "Omar Marmoush trifft jederzeit",
+      "quote": 2.75,
+      "edge_prozent": 3.8,
+      "empfohlener_einsatz_euro": 2.75,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Stamm-9er Manchester City. Spieltag 1: 5 Schüsse vs Belgien aber 0 Tor → Effizienz-Frage. NZ-Leak + MUSS-Sieg-Druck EGY. Pinnacle ~2.65 → +3.8% Edge.",
+      "faire_quote": 2.6,
+      "reality_check": "Goldgrube + Stamm-9er + NZ-Leak, aber 0-Tor-Spieltag-1 Effizienz-Frage.",
+      "rang": 10
+    }
+  ],
+  "kombis": [
+    {
+      "name": "Safe-Kombi",
+      "kategorie": "safe",
+      "gesamtquote": 3.41,
+      "empfohlener_einsatz_euro": 11.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "beine": [
+        {
+          "spiel_id": "2026-06-21-esp-sau",
+          "markt": "Spanien Sieg",
+          "quote": 1.08
+        },
+        {
+          "spiel_id": "2026-06-21-bel-irn",
+          "markt": "Belgien Sieg",
+          "quote": 1.44
+        },
+        {
+          "spiel_id": "2026-06-22-nzl-egy",
+          "markt": "Doppelte Chance Ägypten (X2)",
+          "quote": 1.2
+        },
+        {
+          "spiel_id": "2026-06-22-uru-cpv",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.83
+        }
+      ],
+      "begruendung": "4-Bein-Kombi mit Klassen-Edge-Konzentration + Goldgrube-Anker (Unter 2.5 CPV-Festung). Layer-1 OK (4 verschiedene Spiele), Layer-2 OK (Sieg-Outcomes nur in dieser Kombi). DC X2 Egypt + Unter 2.5 sind Goldgrube-Märkte. URU-Sieg bewusst NICHT drin wegen CPV-Defense-Festungs-Risiko (ECU-Bust-Lesson 21.06 + Curaçao-Defensiv-Igel-Pattern bestätigt). Gesamtquote 3.41x kompakt für SAFE-Range bei Kasse 550€ Stufe 1 → 2% Einsatz 11€. Rechnung: 1.08 × 1.44 × 1.20 × 1.83 = 3.41.",
+      "rechnung": "1.08 x 1.44 x 1.20 x 1.83 = 3.41"
+    },
+    {
+      "name": "Balance-Kombi",
+      "kategorie": "balance",
+      "gesamtquote": 10.37,
+      "empfohlener_einsatz_euro": 4.4,
+      "empfohlener_einsatz_prozent": 0.8,
+      "beine": [
+        {
+          "spiel_id": "2026-06-21-bel-irn",
+          "markt": "Romelu Lukaku trifft jederzeit",
+          "quote": 2.05
+        },
+        {
+          "spiel_id": "2026-06-22-uru-cpv",
+          "markt": "Federico Valverde trifft jederzeit",
+          "quote": 2.3
+        },
+        {
+          "spiel_id": "2026-06-22-nzl-egy",
+          "markt": "Mohamed Salah trifft jederzeit",
+          "quote": 2.2
+        }
+      ],
+      "begruendung": "3-Bein-Torschuetzen-Festival (Goldgrube +20.4% ROI). Cluster-Brick Tag 10 GEBROCHEN bei Klassen-Edge-Max-Spielen (Lesson 21.06: Gakpo+Ueda+Kamada 3/6 Hits) → wieder als Balance-Anker legitim. 3 verschiedene Spiele Layer-1 OK. Keine Sieg-Outcomes Layer-2 trivial OK. ESP-SAU bewusst ausgelassen weil Saudi-Defense-Igel-Risiko Oyarzabal-Quote nach unten drücken könnte. Rechnung: 2.05 × 2.30 × 2.20 = 10.37.",
+      "rechnung": "2.05 x 2.30 x 2.20 = 10.37"
+    },
+    {
+      "name": "Risiko-Kombi",
+      "kategorie": "risk",
+      "gesamtquote": 15.81,
+      "empfohlener_einsatz_euro": 1.4,
+      "empfohlener_einsatz_prozent": 0.25,
+      "beine": [
+        {
+          "spiel_id": "2026-06-22-uru-cpv",
+          "markt": "Uruguay Sieg",
+          "quote": 1.48
+        },
+        {
+          "spiel_id": "2026-06-21-esp-sau",
+          "markt": "Mikel Oyarzabal trifft jederzeit",
+          "quote": 2.1
+        },
+        {
+          "spiel_id": "2026-06-22-nzl-egy",
+          "markt": "Omar Marmoush trifft jederzeit",
+          "quote": 2.75
+        },
+        {
+          "spiel_id": "2026-06-21-bel-irn",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.85
+        }
+      ],
+      "begruendung": "4-Bein-Mix: URU-Sieg + 2 Torschuetzen + Über 2.5. Layer-1 OK (4 verschiedene Spiele). Layer-2 OK (URU-Sieg ist einziges Sieg-Outcome dieser Kombi - in keiner anderen). URU-Sieg trotz CPV-Defense-Festungs-Risiko hier statt Safe gepackt (Risiko-Stufe). Marmoush + Oyarzabal sind Pflicht-Profile-Torschuetzen-Tipps für ihre HEIM/AUSWÄRTS-Favorit-Spiele. Über 2.5 BEL-IRN als Goldgrube-Bein. Rechnung: 1.48 × 2.10 × 2.75 × 1.85 = 15.81.",
+      "rechnung": "1.48 x 2.10 x 2.75 x 1.85 = 15.81"
+    },
+    {
+      "name": "Moonshot-Kombi",
+      "kategorie": "moonshot",
+      "gesamtquote": 134.75,
+      "empfohlener_einsatz_euro": 0.55,
+      "empfohlener_einsatz_prozent": 0.1,
+      "beine": [
+        {
+          "spiel_id": "2026-06-21-esp-sau",
+          "markt": "Lamine Yamal trifft jederzeit",
+          "quote": 2.2
+        },
+        {
+          "spiel_id": "2026-06-21-bel-irn",
+          "markt": "Leandro Trossard trifft jederzeit",
+          "quote": 3.5
+        },
+        {
+          "spiel_id": "2026-06-22-uru-cpv",
+          "markt": "Garry Rodrigues trifft jederzeit",
+          "quote": 5.0
+        },
+        {
+          "spiel_id": "2026-06-22-nzl-egy",
+          "markt": "Chris Wood trifft jederzeit",
+          "quote": 3.5
+        }
+      ],
+      "begruendung": "Spaßeinsatz-Lotterie 0.55€ - 4-Bein-Lange-Quote-Torschuetzen-Festival (alle Goldgrube +20.4% ROI). Pro Spiel 1 Bein Layer-1 OK (Yamal=Spanien-Backup-Joker nach Min-71-Comeback Spieltag 1, Trossard=Belgien-Sub-Joker Arsenal-Saison 8 PL-Tore, Garry Rodrigues=Cape Verde-Linksflügel Galatasaray-Karriere als Volume-Konter-Player, Wood=Neuseeland-Stamm-9er Nottingham Forest 11 PL-Tore Saison 25/26). Keine Sieg-Outcomes Layer-2 trivial OK. Hard-Mode-konform nach Layer-3-Mapper. Quote 134.75x = klassische Moonshot-Range (300x+ angepeilt, in Range).",
+      "rechnung": "2.20 x 3.50 x 5.00 x 3.50 = 134.75"
+    }
+  ],
+  "lessons_angewandt": [
+    {
+      "datum": "2026-06-21",
+      "kategorie": "ECU-Sieg-SAFE-Brick-Pinnacle-Konvergenz-Bust (Lesson 21.06)",
+      "anwendung": "Gestern ECU-Sieg @ 1.15 als SAFE-Anker GEBUSTET (0:0 Defense-Igel-Curaçao). Heute alle Klassen-Edge-Sieg-Tipps UNTER 1.50 + Pinnacle-konvergiert: ESP @ 1.08, BEL @ 1.44, URU @ 1.48 → KEIN SAFE-Status, alle als VALUE eingestuft. Brick-Freiheit + Pinnacle reicht NICHT als SAFE-Trigger für WM Spieltag 2."
+    },
+    {
+      "datum": "2026-06-21",
+      "kategorie": "Underdog-Trauma-Defensiv-Igel-Pattern (Lesson 21.06 + Lesson 8g)",
+      "anwendung": "Curaçao 1:7-Trauma → 0:0 vs ECU (Defense-Wand). CPV 0:0 vs Spanien (Vozinha-7-Paraden, 27 Schüsse blockiert) → ESP-SAU Über 2.5 als WACKEL + URU-CPV Unter 2.5 als VALUE-Goldgrube + URU-Sieg-Einsatz reduziert auf 1.5% statt 2.0%. Saudi-Arabien ähnliches Profil (Al-Owais-MOM Spieltag 1)."
+    },
+    {
+      "datum": "2026-06-21",
+      "kategorie": "Cluster-Brick-Torschuetzen Tag 10 GEBROCHEN bei Klassen-Edge-Max-Spielen",
+      "anwendung": "Gestern 3/6 Torschuetzen-Hits (Gakpo, Ueda, Kamada) - Cluster-Brick aufgehoben für Klassen-Edge-Max-Spiele. Heute Oyarzabal, Valverde, Salah, Lukaku als VALUE (statt WACKEL) klassifiziert - Goldgrube-Markt Torschuetzen Jederzeit +20.4% ROI wieder voll bespielbar bei Pflicht-Profile-Heim-/Auswärts-Favoriten."
+    },
+    {
+      "datum": "2026-06-21",
+      "kategorie": "Markt-Goldgrube-Konzentration (validiert)",
+      "anwendung": "Goldgruben-Beine: 4x Torschuetzen Jederzeit (Oyarzabal, Lukaku, Valverde, Salah, Marmoush) = +20.4% ROI. 1x Unter 2.5 Tore (URU-CPV) = +29.2% ROI bester Markt. 1x DC X2 (EGY) = +16.1% ROI. 1x Über 2.5 (BEL-IRN) = +28% ROI. Spreading über alle 4 Spiele - Lesson 14.06 Markt-Typ-Konzentrations-Crash-Vermeidung."
+    },
+    {
+      "datum": "2026-06-21",
+      "kategorie": "Pflicht-Profile + DC-CAP (Markt-Mix-Pflicht CLAUDE.md)",
+      "anwendung": "4 Heim/Auswärts-Favoriten alle mit Pflicht-Torschuetzen-Tipp: ESP (Oyarzabal), BEL (Lukaku), URU (Valverde), EGY (Salah + Marmoush). DC-CAP eingehalten: nur 1 DC im gesamten Dossier (EGY DC X2). Statt SAFE-DC direkter Sieg-Tipp als Brick-Frei-Anker bei ESP/BEL/URU."
+    },
+    {
+      "datum": "2026-06-21",
+      "kategorie": "Einwechslungs-Boost-Pattern (CLAUDE.md + Lesson 8i)",
+      "anwendung": "Lukaku Spieltag 1: forced-OG 22 Sek nach Einwechslung vs Belgien-Egypten. Heute = Volume-Joker-Power - Tipp auf Lukaku trifft jederzeit als VALUE statt WACKEL. Falls heute Sub-Status → Einwechslungs-Boost-Bonus aktiv für Erst-Tor-Chance des Spielers. Lesson 8i Joker-Pool-Scan: Trossard als zweiter BEL-Sub-Volume-Spieler in Moonshot-Kombi."
+    },
+    {
+      "datum": "2026-06-21",
+      "kategorie": "Star-Adjust-Backup-Pflicht (CLAUDE.md Hebel S)",
+      "anwendung": "Nunez Halbzeit-Auswechslung Spieltag 1 (Bielsa-Unzufriedenheit) → STAR-AUSFALL-Risiko für URU-CPV. Valverde-Zentral-Adjust = Backup-Pflicht-Tipp als VALUE-Bein in Balance-Kombi + Einzeltipp."
+    },
+    {
+      "datum": "2026-06-21",
+      "kategorie": "Pinnacle-Hartregel (CLAUDE.md)",
+      "anwendung": "ESP-Sieg bet365 1.08 vs Pinnacle ~1.07 → +0.9% (0-3% Slot → max VALUE). BEL-Sieg 1.44 vs ~1.40 → +2.9% (max VALUE). URU-Sieg 1.48 vs ~1.45 → +2.1% (max VALUE). EGY-DC-X2 1.20 vs ~1.18 → +1.7% (max VALUE). Plus Brick-Lesson 8b verschärft alle 3 Sieg-Tipps auf VALUE-Maximum trotz Brick-Freiheit."
+    },
+    {
+      "datum": "2026-06-21",
+      "kategorie": "Watchdog-Recovery-Hinweis (Wochenend-Anomalie)",
+      "anwendung": "Sa-So Hauptroutine 11:30 ist NICHT durchgelaufen, Tipps-Dossier durch Watchdog 15:10 nachgeholt (Mo-Fr-Watchdog auf Sonntag getriggert via Recovery-Logik). Erster Anstoß ESP-SAU 18:00 Berlin - User sollte Quoten bei bet365 live prüfen vor Spielbeginn."
+    }
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "einzeltipps_ergebnis": [
+    {
+      "spiel_id": "2026-06-21-esp-sau",
+      "kategorie": "wackel",
+      "markt": "Spanien Sieg",
+      "quote": 1.08,
+      "edge_prozent": 0.9,
+      "empfohlener_einsatz_euro": 11.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "Klassen-Edge maximum (FIFA-Rang ESP 2 vs SAU 56). 2:0-Insurance + Brick-frei UNTER 1.50. Pinnacle ~1.07 → +0.9% Edge (0-3% Slot → max VALUE per Hartregel). ECU-Bust-Lesson 21.06: KEIN SAFE für ähnliche Klassen-Edge-Sieg-Tipps WM Spieltag 2 trotz Brick-Frei. Höchster Einsatz (2.0%) wegen Klassen-Edge-Max.",
+      "faire_quote": 1.07,
+      "reality_check": "Klassen-Edge max + Insurance, aber ECU-Bust-Lesson + CPV-Defense-Pattern-Risiko.",
+      "rang": 1,
+      "status": "gewonnen",
+      "kommentar": "ESP 4:0 vs SAU (Yamal 10', Oyarzabal 21'+24', Altambakti OG 49').",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "spiel_id": "2026-06-21-bel-irn",
+      "kategorie": "wackel",
+      "markt": "Belgien Sieg",
+      "quote": 1.44,
+      "edge_prozent": 2.9,
+      "empfohlener_einsatz_euro": 11.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "Klassen-Edge groß (BEL 5 vs IRN 22) + Iran-Defense-Leak (2 Gegentore vs NZ Spieltag 1). 2:0-Insurance. Brick-frei UNTER 1.50. Pinnacle ~1.40 → +2.9% Edge (0-3% Slot → max VALUE). ECU-Bust-Lesson aktiv → KEIN SAFE.",
+      "faire_quote": 1.4,
+      "reality_check": "Klassen-Edge + Iran-Defense-Leak + 2:0-Insurance.",
+      "rang": 2,
+      "status": "verloren",
+      "kommentar": "BEL 0:0 vs IRN (Ngoy rote Karte 66', Beiranvand-Paraden, 23 Schüsse 0 Tore).",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "spiel_id": "2026-06-22-uru-cpv",
+      "kategorie": "wackel",
+      "markt": "Uruguay Sieg",
+      "quote": 1.48,
+      "edge_prozent": 2.1,
+      "empfohlener_einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Klassen-Edge (URU 16 vs CPV 70). 2:0-Insurance + Brick-frei UNTER 1.50. Pinnacle ~1.45 → +2.1% Edge. CPV-Defense-Festung-Risiko (0:0 vs Spanien Spieltag 1, Vozinha 7 Paraden) reduziert Einsatz auf 1.5%. ECU-Bust-Lesson 21.06 + Defensiv-Igel-Pattern beide aktiv.",
+      "faire_quote": 1.43,
+      "reality_check": "Klassen-Edge + Insurance, aber CPV-Defense-Festung + ECU-Bust + Defensiv-Igel-Lesson.",
+      "rang": 3,
+      "status": "verloren",
+      "kommentar": "URU 2:2 vs CPV - URU führte 2:1 zur HZ (Maxi Araujo 44', Canobbio 45+6'), aber Pina 21' + Varela 60' für CPV. KEIN 2:0-Vorsprung URU - 2:0-Insurance greift NICHT.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "spiel_id": "2026-06-22-nzl-egy",
+      "kategorie": "wackel",
+      "markt": "Doppelte Chance Ägypten (X2)",
+      "quote": 1.2,
+      "edge_prozent": 4.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Markt-Goldgrube DC X2 (+16.1% ROI, 80% Hitrate). DC weicht Sieg-Brick (EGY-Sieg @ 1.60 GENAU im Korridor 1.50-2.00) aus. Klassen-Edge (EGY 35 vs NZL 95) + NZ-Defense-Leak. Pinnacle ~1.18 → +1.7% Edge.",
+      "faire_quote": 1.18,
+      "reality_check": "DC-Goldgrube + Brick-Ausweich + Klassen-Edge.",
+      "rang": 4,
+      "status": "gewonnen",
+      "kommentar": "EGY 3:1 Sieg - DC X2 gewonnen.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "spiel_id": "2026-06-22-uru-cpv",
+      "kategorie": "wackel",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.83,
+      "edge_prozent": 6.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Markt-Goldgrube Unter 2.5 Tore (+29.2% ROI, 65% Hitrate). CPV-Defense-Festung VALIDIERT (0:0 vs Spanien) + Miami-Hitze (Florida 18:00 lokal) Tempo-Reduktion. Bielsa-Verletzungs-Liste reduziert Bench-Tiefe. Pinnacle ~1.75 → +4.6% Edge.",
+      "faire_quote": 1.72,
+      "reality_check": "Goldgrube + CPV-Festung + Miami-Hitze + Defensiv-Igel-Lesson.",
+      "rang": 5,
+      "status": "verloren",
+      "kommentar": "4 Tore gesamt (2:2).",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "spiel_id": "2026-06-22-uru-cpv",
+      "kategorie": "wackel",
+      "markt": "Federico Valverde trifft jederzeit",
+      "quote": 2.3,
+      "edge_prozent": 4.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+20.4% ROI). Valverde nach Bielsa-Halbzeit-Adjust in ZENTRALE Rolle - Real-Madrid 8 Tore-Saison. Star-Adjust-Pflicht (Nunez-Ineffizienz). Pflicht-Profile HEIM-FAVORIT. Cluster-Brick Tag 10 GEBROCHEN bei Klassen-Edge-Max-Spielen.",
+      "faire_quote": 2.2,
+      "reality_check": "Zentrale Rolle + Star-Adjust-Pflicht + Real-Form + Klassen-Edge.",
+      "rang": 6,
+      "status": "verloren",
+      "kommentar": "Valverde tor-leer, kein direkter Ersatz-Tor-Trigger nachweisbar (Canobbio in Start-XI, kein Boost).",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "spiel_id": "2026-06-22-nzl-egy",
+      "kategorie": "wackel",
+      "markt": "Mohamed Salah trifft jederzeit",
+      "quote": 2.2,
+      "edge_prozent": 4.8,
+      "empfohlener_einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Liverpool-Saison 19 PL-Tore. NZ-Defense leaky (2 Gegentore Spieltag 1) + Salah als No.10 in Strafraum (Hossam-Taktik) + MUSS-Sieg-Druck EGY. Cluster-Brick Tag 10 GEBROCHEN bei Klassen-Edge-Max.",
+      "faire_quote": 2.08,
+      "reality_check": "Goldgrube + 19 PL-Tore + NZ-Leak + Cluster-Bruch.",
+      "rang": 7,
+      "status": "gewonnen",
+      "kommentar": "Salah 67' - erster Afrikaner mit WM-Tor & Assist am 34. Geburtstag-Folgetag.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "spiel_id": "2026-06-21-bel-irn",
+      "kategorie": "wackel",
+      "markt": "Romelu Lukaku trifft jederzeit",
+      "quote": 2.05,
+      "edge_prozent": 5.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Einwechslungs-Boost-Pattern VALIDIERT Spieltag 1 (22 Sek nach Einsatz forced-OG). Bei Stamm-Eintritt = Volume-9er-Power. Cluster-Brick Tag 10 GEBROCHEN + Klassen-Edge-Max.",
+      "faire_quote": 1.95,
+      "reality_check": "Goldgrube + Einwechslungs-Boost-Joker-Pattern + Klassen-Edge.",
+      "rang": 8,
+      "status": "verloren",
+      "kommentar": "Lukaku tor-leer, später ausgewechselt für Theate (kein Tor, kein Einwechslungs-Boost-Trigger).",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "spiel_id": "2026-06-21-esp-sau",
+      "kategorie": "wackel",
+      "markt": "Mikel Oyarzabal trifft jederzeit",
+      "quote": 2.1,
+      "edge_prozent": 5.0,
+      "empfohlener_einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Stamm-9er Spanien + 4 Tore in letzten 5 Länderspielen (laut ESPN). Pflicht-Profile HEIM-FAVORIT erzwingt Torschuetzen-Tipp. Cluster-Brick Tag 10 GEBROCHEN bei Klassen-Edge-Max → VALUE. Saudi-Defense-Konzentration auf Yamal/Williams → Oyarzabal-Lücken.",
+      "faire_quote": 1.95,
+      "reality_check": "Stamm-9er + Form-Edge + Goldgrube + Cluster-Bruch.",
+      "rang": 9,
+      "status": "gewonnen",
+      "kommentar": "Oyarzabal Doppelpack 21' + 24'.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "spiel_id": "2026-06-22-nzl-egy",
+      "kategorie": "wackel",
+      "markt": "Omar Marmoush trifft jederzeit",
+      "quote": 2.75,
+      "edge_prozent": 3.8,
+      "empfohlener_einsatz_euro": 2.75,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Stamm-9er Manchester City. Spieltag 1: 5 Schüsse vs Belgien aber 0 Tor → Effizienz-Frage. NZ-Leak + MUSS-Sieg-Druck EGY. Pinnacle ~2.65 → +3.8% Edge.",
+      "faire_quote": 2.6,
+      "reality_check": "Goldgrube + Stamm-9er + NZ-Leak, aber 0-Tor-Spieltag-1 Effizienz-Frage.",
+      "rang": 10,
+      "status": "verloren",
+      "kommentar": "Marmoush tor-leer (Stamm-9er, 35' FK-Assist auf Salah misslungen). Zico/Salah/Trezeguet trafen, kein Einwechslungs-Boost-Trigger fuer Marmoush nachweisbar.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "name": "Safe-Kombi",
+      "kategorie": "safe",
+      "kombi_id": null,
+      "status": "verloren",
+      "gesamtquote": 3.41,
+      "beine_status": [
+        "gewonnen",
+        "verloren",
+        "gewonnen",
+        "verloren"
+      ]
+    },
+    {
+      "name": "Balance-Kombi",
+      "kategorie": "balance",
+      "kombi_id": null,
+      "status": "verloren",
+      "gesamtquote": 10.37,
+      "beine_status": [
+        "verloren",
+        "verloren",
+        "gewonnen"
+      ]
+    },
+    {
+      "name": "Risiko-Kombi",
+      "kategorie": "risk",
+      "kombi_id": null,
+      "status": "verloren",
+      "gesamtquote": 15.81,
+      "beine_status": [
+        "verloren",
+        "gewonnen",
+        "verloren",
+        "verloren"
+      ]
+    },
+    {
+      "name": "Moonshot-Kombi",
+      "kategorie": "moonshot",
+      "kombi_id": null,
+      "status": "verloren",
+      "gesamtquote": 134.75,
+      "beine_status": [
+        "gewonnen",
+        "verloren",
+        "verloren",
+        "verloren"
+      ]
+    }
+  ],
+  "ausgewertet_am": "2026-06-22T07:04:36+00:00"
+}

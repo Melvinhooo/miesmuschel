@@ -1,37 +1,37 @@
 {
-  "letzte_berechnung": "2026-06-21T07:08:18+00:00",
+  "letzte_berechnung": "2026-06-22T07:12:59+00:00",
   "gesamt": {
-    "tipps": 410,
-    "gewonnen": 227,
-    "verloren": 172,
+    "tipps": 420,
+    "gewonnen": 232,
+    "verloren": 177,
     "push": 2,
     "offen": 9,
-    "einsatz": 401.0,
+    "einsatz": 411.0,
     "netto": 37.2,
-    "trefferquote": 56.9,
-    "roi_prozent": 9.3
+    "trefferquote": 56.7,
+    "roi_prozent": 9.1
   },
   "letzte_30_tage": {
-    "tipps": 149,
-    "gewonnen": 87,
-    "verloren": 60,
+    "tipps": 159,
+    "gewonnen": 92,
+    "verloren": 65,
     "push": 2,
     "offen": 0,
-    "einsatz": 149.0,
+    "einsatz": 159.0,
     "netto": 15.55,
-    "trefferquote": 59.2,
-    "roi_prozent": 10.4
+    "trefferquote": 58.6,
+    "roi_prozent": 9.8
   },
   "letzte_90_tage": {
-    "tipps": 410,
-    "gewonnen": 227,
-    "verloren": 172,
+    "tipps": 420,
+    "gewonnen": 232,
+    "verloren": 177,
     "push": 2,
     "offen": 9,
-    "einsatz": 401.0,
+    "einsatz": 411.0,
     "netto": 37.2,
-    "trefferquote": 56.9,
-    "roi_prozent": 9.3
+    "trefferquote": 56.7,
+    "roi_prozent": 9.1
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -758,6 +758,28 @@
       "einsatz": 5.0,
       "netto": 0.0,
       "trefferquote": 100.0,
+      "roi_prozent": 0.0
+    },
+    "FIFA World Cup 2026 - Gruppe H - Spieltag 2": {
+      "tipps": 5,
+      "gewonnen": 2,
+      "verloren": 3,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 5.0,
+      "netto": 0.0,
+      "trefferquote": 40.0,
+      "roi_prozent": 0.0
+    },
+    "FIFA World Cup 2026 - Gruppe G - Spieltag 2": {
+      "tipps": 5,
+      "gewonnen": 3,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 5.0,
+      "netto": 0.0,
+      "trefferquote": 60.0,
       "roi_prozent": 0.0
     }
   },
@@ -3359,15 +3381,15 @@
       "roi_prozent": 5.5
     },
     "Belgien Sieg": {
-      "tipps": 1,
+      "tipps": 3,
       "gewonnen": 1,
-      "verloren": 0,
+      "verloren": 2,
       "push": 0,
       "offen": 0,
-      "einsatz": 1.0,
+      "einsatz": 3.0,
       "netto": 0.3,
-      "trefferquote": 100.0,
-      "roi_prozent": 30.0
+      "trefferquote": 33.3,
+      "roi_prozent": 10.0
     },
     "Brasilien Sieg": {
       "tipps": 5,
@@ -4072,6 +4094,39 @@
       "netto": 0.0,
       "trefferquote": 100.0,
       "roi_prozent": 0.0
+    },
+    "Spanien Sieg": {
+      "tipps": 2,
+      "gewonnen": 2,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 0.0,
+      "trefferquote": 100.0,
+      "roi_prozent": 0.0
+    },
+    "Uruguay Sieg": {
+      "tipps": 3,
+      "gewonnen": 0,
+      "verloren": 3,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Doppelte Chance Ägypten (X2)": {
+      "tipps": 3,
+      "gewonnen": 3,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 0.0,
+      "trefferquote": 100.0,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt_typ": {
@@ -4120,15 +4175,15 @@
       "roi_prozent": 55.0
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 142,
-      "gewonnen": 82,
-      "verloren": 59,
+      "tipps": 149,
+      "gewonnen": 84,
+      "verloren": 64,
       "push": 0,
       "offen": 1,
-      "einsatz": 141.0,
+      "einsatz": 148.0,
       "netto": 6.99,
-      "trefferquote": 58.2,
-      "roi_prozent": 5.0
+      "trefferquote": 56.8,
+      "roi_prozent": 4.7
     },
     "Torschuetzen Jederzeit": {
       "tipps": 69,
@@ -4164,15 +4219,15 @@
       "roi_prozent": 2.2
     },
     "Doppelte Chance X2": {
-      "tipps": 22,
-      "gewonnen": 16,
+      "tipps": 25,
+      "gewonnen": 19,
       "verloren": 4,
       "push": 0,
       "offen": 2,
-      "einsatz": 20.0,
+      "einsatz": 23.0,
       "netto": 3.22,
-      "trefferquote": 80.0,
-      "roi_prozent": 16.1
+      "trefferquote": 82.6,
+      "roi_prozent": 14.0
     },
     "Ueber 2.5 Tore": {
       "tipps": 31,
@@ -4584,15 +4639,15 @@
       "roi_prozent": 10.8
     },
     "1.00-1.50": {
-      "tipps": 144,
-      "gewonnen": 99,
-      "verloren": 41,
+      "tipps": 154,
+      "gewonnen": 104,
+      "verloren": 46,
       "push": 0,
       "offen": 4,
-      "einsatz": 140.0,
+      "einsatz": 150.0,
       "netto": 9.38,
-      "trefferquote": 70.7,
-      "roi_prozent": 6.7
+      "trefferquote": 69.3,
+      "roi_prozent": 6.3
     },
     "3.00+": {
       "tipps": 18,
@@ -4619,15 +4674,15 @@
       "roi_prozent": 0.4
     },
     "value": {
-      "tipps": 244,
-      "gewonnen": 133,
-      "verloren": 100,
+      "tipps": 254,
+      "gewonnen": 138,
+      "verloren": 105,
       "push": 2,
       "offen": 9,
-      "einsatz": 235.0,
+      "einsatz": 245.0,
       "netto": 31.36,
-      "trefferquote": 57.1,
-      "roi_prozent": 13.3
+      "trefferquote": 56.8,
+      "roi_prozent": 12.8
     },
     "wackel": {
       "tipps": 79,
@@ -4680,6 +4735,149 @@
     }
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-06-21",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "Safe-Kombi",
+          "kategorie": "safe",
+          "gesamtquote": 3.41,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Spanien Sieg",
+              "quote": 1.08,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Belgien Sieg",
+              "quote": 1.44,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Doppelte Chance Ägypten (X2)",
+              "quote": 1.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.83,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi",
+          "kategorie": "balance",
+          "gesamtquote": 10.37,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Romelu Lukaku trifft jederzeit",
+              "quote": 2.05,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Federico Valverde trifft jederzeit",
+              "quote": 2.3,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Mohamed Salah trifft jederzeit",
+              "quote": 2.2,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi",
+          "kategorie": "risk",
+          "gesamtquote": 15.81,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Uruguay Sieg",
+              "quote": 1.48,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Mikel Oyarzabal trifft jederzeit",
+              "quote": 2.1,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Omar Marmoush trifft jederzeit",
+              "quote": 2.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi",
+          "kategorie": "moonshot",
+          "gesamtquote": 134.75,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Lamine Yamal trifft jederzeit",
+              "quote": 2.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Leandro Trossard trifft jederzeit",
+              "quote": 3.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Garry Rodrigues trifft jederzeit",
+              "quote": 5.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Chris Wood trifft jederzeit",
+              "quote": 3.5,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-06-20",
       "gesamt": {
