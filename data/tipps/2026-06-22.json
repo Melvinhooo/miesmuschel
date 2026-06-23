@@ -729,10 +729,25 @@
     },
     "layer_2_cross_check": {
       "sieg_outcomes_pro_spiel": {
-        "2026-06-22-arg-aut": [{"kombi": "k-2026-06-22-balance", "tipp": "Argentinien Sieg"}],
+        "2026-06-22-arg-aut": [
+          {
+            "kombi": "k-2026-06-22-balance",
+            "tipp": "Argentinien Sieg"
+          }
+        ],
         "2026-06-22-fra-irq": [],
-        "2026-06-23-nor-sen": [{"kombi": "k-2026-06-22-moonshot", "tipp": "Senegal Sieg"}],
-        "2026-06-23-jor-alg": [{"kombi": "k-2026-06-22-balance", "tipp": "Algerien Sieg"}]
+        "2026-06-23-nor-sen": [
+          {
+            "kombi": "k-2026-06-22-moonshot",
+            "tipp": "Senegal Sieg"
+          }
+        ],
+        "2026-06-23-jor-alg": [
+          {
+            "kombi": "k-2026-06-22-balance",
+            "tipp": "Algerien Sieg"
+          }
+        ]
       },
       "ergebnis": "OK - kein Spiel hat 2+ Sieg-Outcomes in verschiedenen Kombis. Layer-2 hart eingehalten."
     },

@@ -52,14 +52,15 @@ window.__MIESMUSCHEL_TIPPS = {
           "id": "2026-06-23-por-usb-t2",
           "markt": "Cristiano Ronaldo trifft jederzeit",
           "tipp": "Cristiano Ronaldo trifft (jederzeit)",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "einsatz_prozent_kasse": 1.5,
           "einsatz_euro": 8.25,
           "edge_prozent": 10,
-          "begruendung": "Ronaldo bleibt 9er (Goncalo Ramos Bank) trotz 1:1-Tor-Schweigen vs DR Kongo - Druck steigt, Karriere-Highlight-Profil (47 WM-Rekord-Jagd geht weiter). Goldgrube Torschuetzen Jederzeit (40.3%/+20.4% ROI). Einwechslungs-Boost wenn Ramos kommt. bet365-Quote ~1.85.",
+          "begruendung": "Ronaldo bleibt 9er (Goncalo Ramos Bank) trotz 1:1-Tor-Schweigen vs DR Kongo - Druck steigt, Karriere-Highlight-Profil (47 WM-Rekord-Jagd geht weiter). Goldgrube Torschuetzen Jederzeit (40.3%/+20.4% ROI). Einwechslungs-Boost wenn Ramos kommt. bet365-Quote ~1.85. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "quote": 1.85,
           "faire_quote": 1.68,
-          "empfohlener_einsatz_prozent": 1.5
+          "empfohlener_einsatz_prozent": 1.5,
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "2026-06-23-por-usb-t3",
@@ -87,7 +88,8 @@ window.__MIESMUSCHEL_TIPPS = {
           "faire_quote": 3.1,
           "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-06-23-eng-gha",
@@ -124,14 +126,15 @@ window.__MIESMUSCHEL_TIPPS = {
           "id": "2026-06-23-eng-gha-t1",
           "markt": "Harry Kane trifft jederzeit",
           "tipp": "Harry Kane trifft (jederzeit)",
-          "kategorie": "safe",
+          "kategorie": "wackel",
           "einsatz_prozent_kasse": 2.0,
           "einsatz_euro": 11.0,
           "edge_prozent": 10,
-          "begruendung": "Pflicht-Profile Heim-Favorit: MIN 1 Torschuetzen-Tipp auf Top-9er. Kane ist gesetzter Stammspieler 90min + Elfer-Schuetze + Header-Star vs Ghana-Defense. Goldgrube Torschuetzen Jederzeit (40.3%/+20.4% ROI). Watkins/Toney als Backups = Einwechslungs-Boost-Schutz. bet365-Quote ~1.62.",
+          "begruendung": "Pflicht-Profile Heim-Favorit: MIN 1 Torschuetzen-Tipp auf Top-9er. Kane ist gesetzter Stammspieler 90min + Elfer-Schuetze + Header-Star vs Ghana-Defense. Goldgrube Torschuetzen Jederzeit (40.3%/+20.4% ROI). Watkins/Toney als Backups = Einwechslungs-Boost-Schutz. bet365-Quote ~1.62. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "quote": 1.62,
           "faire_quote": 1.47,
-          "empfohlener_einsatz_prozent": 2.0
+          "empfohlener_einsatz_prozent": 2.0,
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "2026-06-23-eng-gha-t2",
@@ -172,7 +175,8 @@ window.__MIESMUSCHEL_TIPPS = {
           "faire_quote": 2.69,
           "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-06-24-pan-cro",
@@ -236,14 +240,15 @@ window.__MIESMUSCHEL_TIPPS = {
           "id": "2026-06-24-pan-cro-t3",
           "markt": "Andrej Kramaric trifft jederzeit",
           "tipp": "Andrej Kramaric trifft (jederzeit)",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "einsatz_prozent_kasse": 1.0,
           "einsatz_euro": 5.5,
           "edge_prozent": 12,
-          "begruendung": "Pflicht-Torschuetzen-Tipp Auswaerts-Favorit. Kramaric ist zentral 9er + Elfer-Schuetze + 7 WM-Quali-Tore = klare Form-Edge. Petar Musa Backup-9er fuer Einwechslungs-Boost-Schutz. Goldgrube Torschuetzen Jederzeit (40.3%/+20.4% ROI). bet365-Quote ~2.50.",
+          "begruendung": "Pflicht-Torschuetzen-Tipp Auswaerts-Favorit. Kramaric ist zentral 9er + Elfer-Schuetze + 7 WM-Quali-Tore = klare Form-Edge. Petar Musa Backup-9er fuer Einwechslungs-Boost-Schutz. Goldgrube Torschuetzen Jederzeit (40.3%/+20.4% ROI). bet365-Quote ~2.50. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "quote": 2.5,
           "faire_quote": 2.23,
-          "empfohlener_einsatz_prozent": 1.0
+          "empfohlener_einsatz_prozent": 1.0,
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "2026-06-24-pan-cro-t4",
@@ -258,7 +263,8 @@ window.__MIESMUSCHEL_TIPPS = {
           "faire_quote": 1.76,
           "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-06-24-col-cod",
@@ -296,14 +302,15 @@ window.__MIESMUSCHEL_TIPPS = {
           "id": "2026-06-24-col-cod-t1",
           "markt": "Luis Diaz trifft jederzeit",
           "tipp": "Luis Diaz trifft (jederzeit)",
-          "kategorie": "safe",
+          "kategorie": "wackel",
           "einsatz_prozent_kasse": 2.0,
           "einsatz_euro": 11.0,
           "edge_prozent": 14,
-          "begruendung": "Pflicht-Torschuetzen-Tipp Heim-Favorit + Form-Edge maximal (MoM Auftakt: 1 Tor + 1 Assist, 23 Tore Bayern-Saison 25-26). Stamm-9er-Profil + Elfer-Schuetze. Luis Suarez Backup-9er = Einwechslungs-Boost-Schutz. Goldgrube Torschuetzen Jederzeit (40.3%/+20.4% ROI - bester Markt). bet365-Quote ~2.20.",
+          "begruendung": "Pflicht-Torschuetzen-Tipp Heim-Favorit + Form-Edge maximal (MoM Auftakt: 1 Tor + 1 Assist, 23 Tore Bayern-Saison 25-26). Stamm-9er-Profil + Elfer-Schuetze. Luis Suarez Backup-9er = Einwechslungs-Boost-Schutz. Goldgrube Torschuetzen Jederzeit (40.3%/+20.4% ROI - bester Markt). bet365-Quote ~2.20. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "quote": 2.2,
           "faire_quote": 1.93,
-          "empfohlener_einsatz_prozent": 2.0
+          "empfohlener_einsatz_prozent": 2.0,
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "2026-06-24-col-cod-t2",
@@ -344,7 +351,8 @@ window.__MIESMUSCHEL_TIPPS = {
           "faire_quote": 3.18,
           "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     }
   ],
   "einzeltipps": [
@@ -355,7 +363,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "tipp_kurz": "Harry Kane trifft jederzeit",
       "quote": 1.62,
       "einsatz_euro": 11.0,
-      "begruendung_kurz": "Pflicht-Torschuetzen Heim-Favorit, Stamm-9er + Header gegen Ghana-Defense, Goldgrube-Markt."
+      "begruendung_kurz": "Pflicht-Torschuetzen Heim-Favorit, Stamm-9er + Header gegen Ghana-Defense, Goldgrube-Markt.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1
     },
     {
       "ref": "2026-06-24-col-cod-t1",
@@ -364,7 +374,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "tipp_kurz": "Luis Diaz trifft jederzeit",
       "quote": 2.2,
       "einsatz_euro": 11.0,
-      "begruendung_kurz": "Form-Edge maximal (MoM Auftakt, 23 Bayern-Tore), Stamm-9er + Backup-Schutz Suarez, beste Goldgrube."
+      "begruendung_kurz": "Form-Edge maximal (MoM Auftakt, 23 Bayern-Tore), Stamm-9er + Backup-Schutz Suarez, beste Goldgrube.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2
     },
     {
       "ref": "2026-06-24-pan-cro-t1",
@@ -373,7 +385,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "tipp_kurz": "Kroatien Doppelte Chance X2",
       "quote": 1.18,
       "einsatz_euro": 11.0,
-      "begruendung_kurz": "Top-Goldgrube DC X2 (82.6%/+14% ROI), Klassen-Edge + MUSS-Sieg-Profil, DC-Cap eingehalten."
+      "begruendung_kurz": "Top-Goldgrube DC X2 (82.6%/+14% ROI), Klassen-Edge + MUSS-Sieg-Profil, DC-Cap eingehalten.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 3
     },
     {
       "ref": "2026-06-23-por-usb-t1",
@@ -382,7 +396,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "tipp_kurz": "Ueber 2.5 Tore Portugal-Usbekistan",
       "quote": 1.65,
       "einsatz_euro": 8.25,
-      "begruendung_kurz": "Portugal Druck-Auftritt nach 1:1-Stolperer, Klassen-Edge fuer Tor-Volumen, Goldgrube +28% ROI."
+      "begruendung_kurz": "Portugal Druck-Auftritt nach 1:1-Stolperer, Klassen-Edge fuer Tor-Volumen, Goldgrube +28% ROI.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 4
     },
     {
       "ref": "2026-06-23-por-usb-t2",
@@ -391,7 +407,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "tipp_kurz": "Cristiano Ronaldo trifft jederzeit",
       "quote": 1.85,
       "einsatz_euro": 8.25,
-      "begruendung_kurz": "Stamm-9er + Karriere-Highlight-Druck + Ramos Backup-Boost, Goldgrube Torschuetzen."
+      "begruendung_kurz": "Stamm-9er + Karriere-Highlight-Druck + Ramos Backup-Boost, Goldgrube Torschuetzen.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 5
     },
     {
       "ref": "2026-06-23-eng-gha-t2",
@@ -400,7 +418,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "tipp_kurz": "England Sieg",
       "quote": 1.3,
       "einsatz_euro": 8.25,
-      "begruendung_kurz": "Klassen-Edge + Heim-Atmosphaere Foxborough + 2:0-Insurance aktiv, kein Stolper-Risiko erkennbar."
+      "begruendung_kurz": "Klassen-Edge + Heim-Atmosphaere Foxborough + 2:0-Insurance aktiv, kein Stolper-Risiko erkennbar.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 6
     },
     {
       "ref": "2026-06-24-pan-cro-t3",
@@ -409,7 +429,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "tipp_kurz": "Andrej Kramaric trifft jederzeit",
       "quote": 2.5,
       "einsatz_euro": 5.5,
-      "begruendung_kurz": "Kroatien-9er + Elfer-Schuetze + 7 WM-Quali-Tore, Goldgrube + Musa als Backup-Sub-Schutz."
+      "begruendung_kurz": "Kroatien-9er + Elfer-Schuetze + 7 WM-Quali-Tore, Goldgrube + Musa als Backup-Sub-Schutz.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 7
     },
     {
       "ref": "2026-06-24-col-cod-t3",
@@ -418,7 +440,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "tipp_kurz": "Unter 2.5 Tore Kolumbien-Kongo",
       "quote": 1.65,
       "einsatz_euro": 5.5,
-      "begruendung_kurz": "Guadalajara Hoehe + Hitze + DR Kongo 5-3-2-Defensive, beste Goldgrube +29% ROI."
+      "begruendung_kurz": "Guadalajara Hoehe + Hitze + DR Kongo 5-3-2-Defensive, beste Goldgrube +29% ROI.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 8
     },
     {
       "ref": "2026-06-23-por-usb-t3",
@@ -427,7 +451,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "tipp_kurz": "Portugal Sieg",
       "quote": 1.2,
       "einsatz_euro": 8.25,
-      "begruendung_kurz": "Klassen-Edge + 2:0-Insurance WM, 1:1-Stolperer mahnt zu Vorsicht, daher VALUE statt SAFE."
+      "begruendung_kurz": "Klassen-Edge + 2:0-Insurance WM, 1:1-Stolperer mahnt zu Vorsicht, daher VALUE statt SAFE.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 9
     },
     {
       "ref": "2026-06-24-col-cod-t2",
@@ -436,13 +462,15 @@ window.__MIESMUSCHEL_TIPPS = {
       "tipp_kurz": "Kolumbien Sieg",
       "quote": 1.51,
       "einsatz_euro": 5.5,
-      "begruendung_kurz": "Klassen-Edge + Heim-Atmosphaere Guadalajara, aber Kongo-Defensive zaeh - VALUE-Kategorie."
+      "begruendung_kurz": "Klassen-Edge + Heim-Atmosphaere Guadalajara, aber Kongo-Defensive zaeh - VALUE-Kategorie.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 10
     }
   ],
   "kombis": [
     {
       "id": "kombi_safe_2026-06-23",
-      "name": "Safe-Kombi Spieltag 2 (~3x)",
+      "name": "Safe-Kombi Spieltag 2 (~6.94x)",
       "kategorie": "safe",
       "beine": [
         {
@@ -470,10 +498,11 @@ window.__MIESMUSCHEL_TIPPS = {
           "quote": 2.2
         }
       ],
-      "gesamt_quote": 6.95,
       "einsatz_euro": 11.0,
       "potenzieller_gewinn_euro": 76.45,
-      "begruendung": "4 Goldgrube-Beine ueber alle 4 Tagesspiele: Tor-Total + 2 Torschuetzen + 1 DC X2 - alle Markt-Goldgruben. Layer-1: max 1 Bein pro Spiel ✓. Layer-2: kein direkter 1X2-Sieg-Outcome im Set ✓. DC-Cap: 1 DC im Set ✓. Reality-Check: Goldgrube-Konzentrations-Hit-Validation 8c, gleichzeitig Diversifikation ueber 2 Markt-Typen + 2 Sportarten gefehlt (nur Fussball heute - akzeptiert weil NBA durch)."
+      "begruendung": "4 Goldgrube-Beine ueber alle 4 Tagesspiele: Tor-Total + 2 Torschuetzen + 1 DC X2 - alle Markt-Goldgruben. Layer-1: max 1 Bein pro Spiel ✓. Layer-2: kein direkter 1X2-Sieg-Outcome im Set ✓. DC-Cap: 1 DC im Set ✓. Reality-Check: Goldgrube-Konzentrations-Hit-Validation 8c, gleichzeitig Diversifikation ueber 2 Markt-Typen + 2 Sportarten gefehlt (nur Fussball heute - akzeptiert weil NBA durch).",
+      "gesamtquote": 6.95,
+      "empfohlener_einsatz_prozent": 1.5
     },
     {
       "id": "kombi_balance_2026-06-23",
@@ -505,15 +534,16 @@ window.__MIESMUSCHEL_TIPPS = {
           "quote": 1.51
         }
       ],
-      "gesamt_quote": 3.6,
       "einsatz_euro": 4.4,
       "potenzieller_gewinn_euro": 15.84,
-      "begruendung": "4 Klassen-Edge-Sieg-Beine ueber alle 4 Tagesspiele - alle 1X2-Sieg-Outcomes konzentriert in dieser einen Kombi (Layer-2 erfuellt durch Exklusiv-Konzentration). 2:0-Insurance bei allen 4 aktiv (WM). Reality-Check: Cluster-Brick-Mahnung 19./21.06. (Klassen-Edge-Massenversagen am Spieltag 2) - daher BALANCE statt SAFE."
+      "begruendung": "4 Klassen-Edge-Sieg-Beine ueber alle 4 Tagesspiele - alle 1X2-Sieg-Outcomes konzentriert in dieser einen Kombi (Layer-2 erfuellt durch Exklusiv-Konzentration). 2:0-Insurance bei allen 4 aktiv (WM). Reality-Check: Cluster-Brick-Mahnung 19./21.06. (Klassen-Edge-Massenversagen am Spieltag 2) - daher BALANCE statt SAFE.",
+      "gesamtquote": 3.6,
+      "empfohlener_einsatz_prozent": 0.5
     },
     {
       "id": "kombi_risiko_2026-06-23",
       "name": "Risiko-Kombi Spieltag 2 (~19x)",
-      "kategorie": "risiko",
+      "kategorie": "risk",
       "beine": [
         {
           "ref": "2026-06-23-por-usb-t4",
@@ -534,14 +564,15 @@ window.__MIESMUSCHEL_TIPPS = {
           "quote": 2.2
         }
       ],
-      "gesamt_quote": 19.25,
       "einsatz_euro": 1.4,
       "potenzieller_gewinn_euro": 26.95,
-      "begruendung": "3 Torschuetzen-Beine: 2 echte Top-9er (L.Diaz + Kramaric) + 1 sekundaer-Volume-10er (Fernandes). Spieler-Diversifikation Layer-3 ✓. Layer-1: 3 verschiedene Spiele ✓. Reality-Check: Goldgrube Torschuetzen Jederzeit, aber Mahnung WM-9er-Form-Edge-Brick 19.06. (Tag-8 1/7 Hit) - daher RISIKO-Kategorie nicht VALUE."
+      "begruendung": "3 Torschuetzen-Beine: 2 echte Top-9er (L.Diaz + Kramaric) + 1 sekundaer-Volume-10er (Fernandes). Spieler-Diversifikation Layer-3 ✓. Layer-1: 3 verschiedene Spiele ✓. Reality-Check: Goldgrube Torschuetzen Jederzeit, aber Mahnung WM-9er-Form-Edge-Brick 19.06. (Tag-8 1/7 Hit) - daher RISIKO-Kategorie nicht VALUE.",
+      "gesamtquote": 19.25,
+      "empfohlener_einsatz_prozent": 0.25
     },
     {
       "id": "kombi_moonshot_2026-06-23",
-      "name": "Moonshot-Kombi Spieltag 2 (~70x)",
+      "name": "Moonshot-Kombi Spieltag 2 (~114.19x)",
       "kategorie": "moonshot",
       "beine": [
         {
@@ -569,10 +600,12 @@ window.__MIESMUSCHEL_TIPPS = {
           "quote": 3.5
         }
       ],
-      "gesamt_quote": 113.4,
       "einsatz_euro": 0.55,
       "potenzieller_gewinn_euro": 62.37,
-      "begruendung": "Moonshot 4-Bein-Torschuetzen-Festival: Ronaldo-Doppelpack-Sub (Karriere-Rekord-Druck) + Bellingham + Kramaric + James Rodriguez. Layer-1: 4 verschiedene Spiele ✓. Spaszeinsatz 0,55 EUR. Quote ~113x ist im Moonshot-Korridor 30-300x. Reality-Check: 10er-Falle-Karriere-Highlight-Lehren 18.06. - bewusst Moonshot, kein VALUE-Versuch."
+      "begruendung": "Moonshot 4-Bein-Torschuetzen-Festival: Ronaldo-Doppelpack-Sub (Karriere-Rekord-Druck) + Bellingham + Kramaric + James Rodriguez. Layer-1: 4 verschiedene Spiele ✓. Spaszeinsatz 0,55 EUR. Quote ~113x ist im Moonshot-Korridor 30-300x. Reality-Check: 10er-Falle-Karriere-Highlight-Lehren 18.06. - bewusst Moonshot, kein VALUE-Versuch.",
+      "gesamtquote": 114.19,
+      "empfohlener_einsatz_prozent": 0.1,
+      "rechnung": "4.50 x 2.90 x 2.50 x 3.50 = 114.19"
     }
   ],
   "lessons_angewandt": [
