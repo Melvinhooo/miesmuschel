@@ -1,5 +1,5 @@
 {
-  "letzte_berechnung": "2026-06-22T07:12:59+00:00",
+  "letzte_berechnung": "2026-06-23T07:14:39+00:00",
   "gesamt": {
     "tipps": 420,
     "gewonnen": 232,
@@ -12,15 +12,15 @@
     "roi_prozent": 9.1
   },
   "letzte_30_tage": {
-    "tipps": 159,
-    "gewonnen": 92,
+    "tipps": 151,
+    "gewonnen": 85,
     "verloren": 65,
-    "push": 2,
+    "push": 1,
     "offen": 0,
-    "einsatz": 159.0,
-    "netto": 15.55,
-    "trefferquote": 58.6,
-    "roi_prozent": 9.8
+    "einsatz": 151.0,
+    "netto": 10.91,
+    "trefferquote": 56.7,
+    "roi_prozent": 7.2
   },
   "letzte_90_tage": {
     "tipps": 420,
@@ -4735,6 +4735,137 @@
     }
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-06-22",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "Safe-Kombi WM-Stars",
+          "kategorie": "safe",
+          "gesamtquote": 2.93,
+          "einsatz_prozent": 1.5,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Kylian Mbappe trifft jederzeit",
+              "quote": 1.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Lionel Messi trifft jederzeit",
+              "quote": 1.95,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi Favoriten + Tor-Flut",
+          "kategorie": "balance",
+          "gesamtquote": 7.1,
+          "einsatz_prozent": 0.5,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Argentinien Sieg (1X2)",
+              "quote": 1.6,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber/Unter Tore",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Algerien Sieg (1X2)",
+              "quote": 1.6,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber/Unter Tore",
+              "quote": 1.5,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi Backup-Stuermer & Form",
+          "kategorie": "risk",
+          "gesamtquote": 25.27,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Lautaro Martinez trifft jederzeit",
+              "quote": 2.1,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ousmane Dembele trifft jederzeit",
+              "quote": 1.91,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sadio Mane trifft jederzeit",
+              "quote": 2.8,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Mohamed Amoura trifft jederzeit",
+              "quote": 2.25,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot WM-Underdog-Lotterie",
+          "kategorie": "moonshot",
+          "gesamtquote": 24.3,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Senegal Sieg (1X2)",
+              "quote": 3.1,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Kylian Mbappe 2+ Tore",
+              "quote": 2.8,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Riyad Mahrez trifft jederzeit",
+              "quote": 2.8,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-06-21",
       "gesamt": {
