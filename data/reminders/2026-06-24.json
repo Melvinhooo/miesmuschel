@@ -1,0 +1,17 @@
+{
+  "stand": "2026-06-24T18:02:25.924433+00:00",
+  "gesendet": {
+    "2026-06-24-sui-can": {
+      "sent_at": "2026-06-24T18:02:23.934244+00:00",
+      "anstoss": "2026-06-24T21:00:00+02:00",
+      "spiel": "Schweiz vs Kanada",
+      "top_tipp": "Ueber 2.5 Tore"
+    },
+    "2026-06-24-bih-qat": {
+      "sent_at": "2026-06-24T18:02:23.934244+00:00",
+      "anstoss": "2026-06-24T21:00:00+02:00",
+      "spiel": "Bosnien-Herzegowina vs Katar",
+      "top_tipp": "Bosnien Sieg (1X2)"
+    }
+  }
+}
