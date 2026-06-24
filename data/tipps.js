@@ -74,7 +74,8 @@ window.__MIESMUSCHEL_TIPPS = {
           "faire_quote": 2.1,
           "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-06-24-bih-qat",
@@ -111,14 +112,15 @@ window.__MIESMUSCHEL_TIPPS = {
           "id": "2026-06-24-bih-qat-t1",
           "markt": "Bosnien Sieg (1X2)",
           "tipp": "Bosnien-Herzegowina gewinnt",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "einsatz_prozent_kasse": 1.5,
           "einsatz_euro": 8.25,
           "edge_prozent": 8,
-          "begruendung": "Klassen-Edge + 2 Katar-Sperren (defensiver Schluessel-Spieler raus) + Muss-Sieg-Motiv beidseitig. 2:0-Insurance WM aktiv. Mapper-Hebel C: WM-Spieltag-3 nicht in liga_goldgruben -> max VALUE statt SAFE. Sieg-Tipps Bilanz 56.8%/+4.7% ROI. bet365 ca. 1.37.",
+          "begruendung": "Klassen-Edge + 2 Katar-Sperren (defensiver Schluessel-Spieler raus) + Muss-Sieg-Motiv beidseitig. 2:0-Insurance WM aktiv. Mapper-Hebel C: WM-Spieltag-3 nicht in liga_goldgruben -> max VALUE statt SAFE. Sieg-Tipps Bilanz 56.8%/+4.7% ROI. bet365 ca. 1.37. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
           "quote": 1.37,
           "faire_quote": 1.27,
-          "empfohlener_einsatz_prozent": 1.5
+          "empfohlener_einsatz_prozent": 1.5,
+          "_saison_kontext_sanity_downgrade": true
         },
         {
           "id": "2026-06-24-bih-qat-t2",
@@ -159,7 +161,8 @@ window.__MIESMUSCHEL_TIPPS = {
           "faire_quote": 2.15,
           "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-06-25-mar-hai",
@@ -245,7 +248,8 @@ window.__MIESMUSCHEL_TIPPS = {
           "faire_quote": 1.4,
           "empfohlener_einsatz_prozent": 1.0
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-06-25-sco-bra",
@@ -283,14 +287,15 @@ window.__MIESMUSCHEL_TIPPS = {
           "id": "2026-06-25-sco-bra-t1",
           "markt": "Vinicius Junior trifft jederzeit",
           "tipp": "Vinicius Junior trifft (jederzeit)",
-          "kategorie": "safe",
+          "kategorie": "wackel",
           "einsatz_prozent_kasse": 1.5,
           "einsatz_euro": 8.25,
           "edge_prozent": 18,
-          "begruendung": "FORM-EDGE-PFLICHT: Vinicius 2 Tore in 2 WM-Spielen + Real-Madrid-Form 25-26 Top + Raphinha out -> Vini primaerer Kreativer + Schottland-Fullbacks unterlegen 1v1. Star-Spieler-Performance erwartbar. Markt-Goldgrube Torschuetzen Jederzeit (40.3%/+20.4% ROI). 04.05.-Mahnung: 'naheliegende Torschuetzen-Tipps NICHT uebersehen'. bet365 ca. 1.80.",
+          "begruendung": "FORM-EDGE-PFLICHT: Vinicius 2 Tore in 2 WM-Spielen + Real-Madrid-Form 25-26 Top + Raphinha out -> Vini primaerer Kreativer + Schottland-Fullbacks unterlegen 1v1. Star-Spieler-Performance erwartbar. Markt-Goldgrube Torschuetzen Jederzeit (40.3%/+20.4% ROI). 04.05.-Mahnung: 'naheliegende Torschuetzen-Tipps NICHT uebersehen'. bet365 ca. 1.80. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "quote": 1.8,
           "faire_quote": 1.53,
-          "empfohlener_einsatz_prozent": 1.5
+          "empfohlener_einsatz_prozent": 1.5,
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "2026-06-25-sco-bra-t2",
@@ -331,7 +336,8 @@ window.__MIESMUSCHEL_TIPPS = {
           "faire_quote": 2.3,
           "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-06-25-sar-kor",
@@ -368,14 +374,15 @@ window.__MIESMUSCHEL_TIPPS = {
           "id": "2026-06-25-sar-kor-t1",
           "markt": "Suedkorea Sieg (1X2)",
           "tipp": "Suedkorea gewinnt",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "einsatz_prozent_kasse": 1.5,
           "einsatz_euro": 8.25,
           "edge_prozent": 8,
-          "begruendung": "Klassen-Edge + Muss-Sieg-Motiv + SAR vulnerable Defensive + Korea Achtelfinal-Quali via Sieg. 2:0-Insurance WM aktiv. Mapper-Hebel C: WM-Spieltag-3 nicht in liga_goldgruben -> max VALUE statt SAFE. Sieg-Tipps Bilanz 56.8%/+4.7%. bet365 ca. 1.67.",
+          "begruendung": "Klassen-Edge + Muss-Sieg-Motiv + SAR vulnerable Defensive + Korea Achtelfinal-Quali via Sieg. 2:0-Insurance WM aktiv. Mapper-Hebel C: WM-Spieltag-3 nicht in liga_goldgruben -> max VALUE statt SAFE. Sieg-Tipps Bilanz 56.8%/+4.7%. bet365 ca. 1.67. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
           "quote": 1.67,
           "faire_quote": 1.54,
-          "empfohlener_einsatz_prozent": 1.5
+          "empfohlener_einsatz_prozent": 1.5,
+          "_saison_kontext_sanity_downgrade": true
         },
         {
           "id": "2026-06-25-sar-kor-t2",
@@ -404,7 +411,8 @@ window.__MIESMUSCHEL_TIPPS = {
           "empfohlener_einsatz_prozent": 0.5,
           "_torschuetze_quelle_warn": false
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-06-25-cze-mex",
@@ -478,7 +486,8 @@ window.__MIESMUSCHEL_TIPPS = {
           "empfohlener_einsatz_prozent": 0.5,
           "_torschuetze_quelle_warn": false
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     }
   ],
   "einzeltipps": [
@@ -493,7 +502,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "einsatz_prozent_kasse": 2.0,
       "einsatz_euro": 11.0,
       "edge_prozent": 12,
-      "begruendung": "Marokko 31 Spiele unbesiegt + Quali-Sicherung-Motiv + Haiti-Defensive zerbroeckelt (3 Tore in letzter HZ vs Brasilien). Markt-Goldgrube Ueber 2.5 Tore (58.6%/+28% ROI)."
+      "begruendung": "Marokko 31 Spiele unbesiegt + Quali-Sicherung-Motiv + Haiti-Defensive zerbroeckelt (3 Tore in letzter HZ vs Brasilien). Markt-Goldgrube Ueber 2.5 Tore (58.6%/+28% ROI).",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1
     },
     {
       "id": "et_value_sco_bra_vini",
@@ -506,7 +517,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "einsatz_prozent_kasse": 1.5,
       "einsatz_euro": 8.25,
       "edge_prozent": 18,
-      "begruendung": "FORM-EDGE-PFLICHT: 2 Tore in 2 WM-Spielen + Raphinha out + Schottland-Fullbacks 1v1-Mismatch. Markt-Goldgrube Torschuetzen Jederzeit (40.3%/+20.4% ROI)."
+      "begruendung": "FORM-EDGE-PFLICHT: 2 Tore in 2 WM-Spielen + Raphinha out + Schottland-Fullbacks 1v1-Mismatch. Markt-Goldgrube Torschuetzen Jederzeit (40.3%/+20.4% ROI).",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2
     },
     {
       "id": "et_value_bih_qat_sieg",
@@ -519,7 +532,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "einsatz_prozent_kasse": 1.5,
       "einsatz_euro": 8.25,
       "edge_prozent": 8,
-      "begruendung": "Klassen-Edge + 2 Katar-Sperren + Muss-Sieg-Motiv beidseitig. 2:0-Insurance WM. Mapper-Hebel: WM-Spieltag-3 nicht in liga_goldgruben -> VALUE."
+      "begruendung": "Klassen-Edge + 2 Katar-Sperren + Muss-Sieg-Motiv beidseitig. 2:0-Insurance WM. Mapper-Hebel: WM-Spieltag-3 nicht in liga_goldgruben -> VALUE.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 3
     },
     {
       "id": "et_value_bih_qat_ueber25",
@@ -532,7 +547,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "einsatz_prozent_kasse": 1.5,
       "einsatz_euro": 8.25,
       "edge_prozent": 12,
-      "begruendung": "BiH muss Tordiff aufholen + Katar Rumpf-Defensive (2 gesperrt) + Mental-Schaden 0:6. Markt-Goldgrube Ueber 2.5 Tore."
+      "begruendung": "BiH muss Tordiff aufholen + Katar Rumpf-Defensive (2 gesperrt) + Mental-Schaden 0:6. Markt-Goldgrube Ueber 2.5 Tore.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 4
     },
     {
       "id": "et_value_sui_can_ueber25",
@@ -545,7 +562,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "einsatz_prozent_kasse": 1.0,
       "einsatz_euro": 5.5,
       "edge_prozent": 10,
-      "begruendung": "Beide ohne Defensiv-Druck, Embolo + David in Form, Gruppensieg-Duell mit offensivem Profil. Markt-Goldgrube Ueber 2.5 Tore."
+      "begruendung": "Beide ohne Defensiv-Druck, Embolo + David in Form, Gruppensieg-Duell mit offensivem Profil. Markt-Goldgrube Ueber 2.5 Tore.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 5
     },
     {
       "id": "et_value_sar_kor_sieg",
@@ -558,7 +577,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "einsatz_prozent_kasse": 1.5,
       "einsatz_euro": 8.25,
       "edge_prozent": 8,
-      "begruendung": "Klassen-Edge + Muss-Sieg + SAR vulnerable Defensive + Korea Achtelfinal-Quali-Motiv. 2:0-Insurance WM aktiv."
+      "begruendung": "Klassen-Edge + Muss-Sieg + SAR vulnerable Defensive + Korea Achtelfinal-Quali-Motiv. 2:0-Insurance WM aktiv.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 6
     },
     {
       "id": "et_value_cze_mex_unter25",
@@ -571,7 +592,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "einsatz_prozent_kasse": 1.5,
       "einsatz_euro": 8.25,
       "edge_prozent": 10,
-      "begruendung": "Azteca Hoehe 2240m + Mexico-Rotation (durch, schont) + Tschechien tiefe Defensive + Regen. Markt-Goldgrube Unter 2.5 Tore (65%/+29.2% ROI)."
+      "begruendung": "Azteca Hoehe 2240m + Mexico-Rotation (durch, schont) + Tschechien tiefe Defensive + Regen. Markt-Goldgrube Unter 2.5 Tore (65%/+29.2% ROI).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 7
     },
     {
       "id": "et_value_mar_hai_zunull",
@@ -584,7 +607,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "einsatz_prozent_kasse": 1.0,
       "einsatz_euro": 5.5,
       "edge_prozent": 10,
-      "begruendung": "Haiti 0 Tore in 2 WM-Spielen + Marokko nur 1 Gegentor (Brasilien-Schock). Klare Konsistenz-Edge."
+      "begruendung": "Haiti 0 Tore in 2 WM-Spielen + Marokko nur 1 Gegentor (Brasilien-Schock). Klare Konsistenz-Edge.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 8
     },
     {
       "id": "et_wackel_bih_qat_dzeko",
@@ -597,7 +622,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "einsatz_prozent_kasse": 0.5,
       "einsatz_euro": 2.75,
       "edge_prozent": 15,
-      "begruendung": "Stamm-9er + 2.BL-Top-Torjaeger 2026 + Karriere-Highlight (potentiell letztes WM). Markt-Goldgrube Torschuetzen Jederzeit."
+      "begruendung": "Stamm-9er + 2.BL-Top-Torjaeger 2026 + Karriere-Highlight (potentiell letztes WM). Markt-Goldgrube Torschuetzen Jederzeit.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 9
     },
     {
       "id": "et_wackel_sar_kor_son",
@@ -610,7 +637,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "einsatz_prozent_kasse": 0.5,
       "einsatz_euro": 2.75,
       "edge_prozent": 10,
-      "begruendung": "Star-Druck + 13. WM-Spiel-Rekord-Naehe + 2 Tore vs T&T-Vorbereitung. WACKEL wg. 0 WM-Tore-2026-Schweigen."
+      "begruendung": "Star-Druck + 13. WM-Spiel-Rekord-Naehe + 2 Tore vs T&T-Vorbereitung. WACKEL wg. 0 WM-Tore-2026-Schweigen.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 10
     }
   ],
   "kombis": [
@@ -624,151 +653,158 @@ window.__MIESMUSCHEL_TIPPS = {
       "moeglicher_gewinn_euro": 32.34,
       "beine": [
         {
-          "spiel": "Marokko - Haiti",
           "tipp": "Ueber 2.5 Tore",
           "quote": 1.55,
-          "kategorie": "safe"
+          "kategorie": "safe",
+          "spiel_titel": "Marokko - Haiti"
         },
         {
-          "spiel": "Bosnien - Katar",
           "tipp": "Bosnien Sieg",
           "quote": 1.37,
-          "kategorie": "value"
+          "kategorie": "value",
+          "spiel_titel": "Bosnien - Katar"
         },
         {
-          "spiel": "Schottland - Brasilien",
           "tipp": "Brasilien Sieg",
           "quote": 1.36,
-          "kategorie": "value"
+          "kategorie": "value",
+          "spiel_titel": "Schottland - Brasilien"
         }
       ],
-      "begruendung": "3x Klassen-Edge-Bein in WM-Spieltag-3: Marokko-Haiti Tor-Festival (Markt-Goldgrube Ueber 2.5), BiH-Sieg klar (Katar mit 2 Sperren), Brasilien-Sieg Gruppensieg-Motiv. Layer-1 OK (3 verschiedene Spiele). Layer-2 OK (Bosnien-Sieg + Brasilien-Sieg sind zwei verschiedene Outcome-Typen aus zwei verschiedenen Spielen + Marokko-Tore ist Markt-Tipp, kein Sieg-Outcome - keine Korrelation). Layer-2-Sieg-Outcome-Cap: 2 Sieg-Tipps, aber aus zwei verschiedenen Spielen - OK pro CLAUDE.md (max 1 Sieg pro Spiel)."
+      "begruendung": "3x Klassen-Edge-Bein in WM-Spieltag-3: Marokko-Haiti Tor-Festival (Markt-Goldgrube Ueber 2.5), BiH-Sieg klar (Katar mit 2 Sperren), Brasilien-Sieg Gruppensieg-Motiv. Layer-1 OK (3 verschiedene Spiele). Layer-2 OK (Bosnien-Sieg + Brasilien-Sieg sind zwei verschiedene Outcome-Typen aus zwei verschiedenen Spielen + Marokko-Tore ist Markt-Tipp, kein Sieg-Outcome - keine Korrelation). Layer-2-Sieg-Outcome-Cap: 2 Sieg-Tipps, aber aus zwei verschiedenen Spielen - OK pro CLAUDE.md (max 1 Sieg pro Spiel).",
+      "empfohlener_einsatz_prozent": 1.5
     },
     {
       "id": "kombi_balance_7x",
       "name": "Balance-Kombi ~7x",
       "kategorie": "balance",
-      "gesamtquote": 7.13,
+      "gesamtquote": 8.62,
       "einsatz_prozent_kasse": 0.8,
       "einsatz_euro": 4.4,
       "moeglicher_gewinn_euro": 31.37,
       "beine": [
         {
-          "spiel": "Schottland - Brasilien",
           "tipp": "Vinicius trifft jederzeit",
           "quote": 1.8,
-          "kategorie": "safe"
+          "kategorie": "safe",
+          "spiel_titel": "Schottland - Brasilien"
         },
         {
-          "spiel": "Marokko - Haiti",
           "tipp": "Marokko zu Null",
           "quote": 1.55,
-          "kategorie": "value"
+          "kategorie": "value",
+          "spiel_titel": "Marokko - Haiti"
         },
         {
-          "spiel": "Schweiz - Kanada",
           "tipp": "Ueber 2.5 Tore",
           "quote": 1.85,
-          "kategorie": "value"
+          "kategorie": "value",
+          "spiel_titel": "Schweiz - Kanada"
         },
         {
-          "spiel": "Suedafrika - Suedkorea",
           "tipp": "Suedkorea Sieg",
           "quote": 1.67,
-          "kategorie": "value"
+          "kategorie": "value",
+          "spiel_titel": "Suedafrika - Suedkorea"
         }
       ],
-      "begruendung": "4 Beine, je ein Markt pro Spiel, Layer-1 OK. Layer-2: 1 Sieg-Outcome (Korea), 1 Torschuetze (Vini), 1 Markt-Tor-Total (SUI-CAN), 1 Markt-Defensive (MAR-HAI zu Null) - 4 verschiedene Outcome-Cluster, keine Korrelation. Reine Goldgruben-Komp: Torschuetzen Jederzeit + Ueber 2.5 + Sieg + Zu-Null."
+      "begruendung": "4 Beine, je ein Markt pro Spiel, Layer-1 OK. Layer-2: 1 Sieg-Outcome (Korea), 1 Torschuetze (Vini), 1 Markt-Tor-Total (SUI-CAN), 1 Markt-Defensive (MAR-HAI zu Null) - 4 verschiedene Outcome-Cluster, keine Korrelation. Reine Goldgruben-Komp: Torschuetzen Jederzeit + Ueber 2.5 + Sieg + Zu-Null.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rechnung": "1.80 x 1.55 x 1.85 x 1.67 = 8.62"
     },
     {
       "id": "kombi_risiko_22x",
       "name": "Risiko-Kombi ~22x",
-      "kategorie": "risiko",
-      "gesamtquote": 21.85,
+      "kategorie": "risk",
+      "gesamtquote": 44.04,
       "einsatz_prozent_kasse": 0.25,
       "einsatz_euro": 1.4,
       "moeglicher_gewinn_euro": 30.59,
       "beine": [
         {
-          "spiel": "Bosnien - Katar",
           "tipp": "Dzeko trifft jederzeit",
           "quote": 2.5,
-          "kategorie": "wackel"
+          "kategorie": "wackel",
+          "spiel_titel": "Bosnien - Katar"
         },
         {
-          "spiel": "Schottland - Brasilien",
           "tipp": "Vinicius trifft jederzeit",
           "quote": 1.8,
-          "kategorie": "safe"
+          "kategorie": "safe",
+          "spiel_titel": "Schottland - Brasilien"
         },
         {
-          "spiel": "Suedafrika - Suedkorea",
           "tipp": "Son Heung-min trifft jederzeit",
           "quote": 2.3,
-          "kategorie": "wackel"
+          "kategorie": "wackel",
+          "spiel_titel": "Suedafrika - Suedkorea"
         },
         {
-          "spiel": "Tschechien - Mexico",
           "tipp": "Unter 2.5 Tore",
           "quote": 1.85,
-          "kategorie": "value"
+          "kategorie": "value",
+          "spiel_titel": "Tschechien - Mexico"
         },
         {
-          "spiel": "Schweiz - Kanada",
           "tipp": "Schweiz Sieg",
           "quote": 2.3,
-          "kategorie": "wackel"
+          "kategorie": "wackel",
+          "spiel_titel": "Schweiz - Kanada"
         }
       ],
-      "begruendung": "5 Beine Mix. Torschuetzen-Cluster (3 verschiedene Spieler aus 3 verschiedenen Spielen) + Unter 2.5 (Markt) + Schweiz-Sieg. Layer-1 OK. Layer-2: 1 Sieg-Outcome (Schweiz) - Cap eingehalten. Markt-Goldgruben-Mix Torschuetzen + Unter 2.5 + Sieg."
+      "begruendung": "5 Beine Mix. Torschuetzen-Cluster (3 verschiedene Spieler aus 3 verschiedenen Spielen) + Unter 2.5 (Markt) + Schweiz-Sieg. Layer-1 OK. Layer-2: 1 Sieg-Outcome (Schweiz) - Cap eingehalten. Markt-Goldgruben-Mix Torschuetzen + Unter 2.5 + Sieg.",
+      "empfohlener_einsatz_prozent": 0.25,
+      "rechnung": "2.50 x 1.80 x 2.30 x 1.85 x 2.30 = 44.04"
     },
     {
       "id": "kombi_moonshot_92x",
       "name": "Moonshot-Kombi ~92x",
       "kategorie": "moonshot",
-      "gesamtquote": 91.86,
+      "gesamtquote": 468.83,
       "einsatz_prozent_kasse": 0.1,
       "einsatz_euro": 0.55,
       "moeglicher_gewinn_euro": 50.52,
       "beine": [
         {
-          "spiel": "Bosnien - Katar",
           "tipp": "Dzeko trifft jederzeit",
           "quote": 2.5,
-          "kategorie": "wackel"
+          "kategorie": "wackel",
+          "spiel_titel": "Bosnien - Katar"
         },
         {
-          "spiel": "Schweiz - Kanada",
           "tipp": "Embolo trifft jederzeit",
           "quote": 2.8,
-          "kategorie": "wackel"
+          "kategorie": "wackel",
+          "spiel_titel": "Schweiz - Kanada"
         },
         {
-          "spiel": "Tschechien - Mexico",
           "tipp": "Schick trifft jederzeit",
           "quote": 3.5,
-          "kategorie": "wackel"
+          "kategorie": "wackel",
+          "spiel_titel": "Tschechien - Mexico"
         },
         {
-          "spiel": "Suedafrika - Suedkorea",
           "tipp": "Son Heung-min trifft jederzeit",
           "quote": 2.3,
-          "kategorie": "wackel"
+          "kategorie": "wackel",
+          "spiel_titel": "Suedafrika - Suedkorea"
         },
         {
-          "spiel": "Marokko - Haiti",
           "tipp": "Brahim Diaz trifft jederzeit",
           "quote": 3.2,
-          "kategorie": "wackel"
+          "kategorie": "wackel",
+          "spiel_titel": "Marokko - Haiti"
         },
         {
-          "spiel": "Schottland - Brasilien",
           "tipp": "Matheus Cunha trifft jederzeit",
           "quote": 2.6,
-          "kategorie": "wackel"
+          "kategorie": "wackel",
+          "spiel_titel": "Schottland - Brasilien"
         }
       ],
-      "begruendung": "6-Bein-Torschuetzen-Lotterie: 6 verschiedene Stuermer aus 6 verschiedenen Spielen treffen. Markt-Goldgrube Torschuetzen Jederzeit (40.3%/+20.4% ROI) in reiner Form. Layer-1 OK (6 verschiedene Spiele). Layer-2 sauber: KEIN Sieg-Outcome irgendwo - alle 6 sind Torschuetzen-Markt -> keine Korrelation zu anderen Kombis. Wenn alle 6 treffen: 50 EUR. Realistische Chance ca. 1-2%."
+      "begruendung": "6-Bein-Torschuetzen-Lotterie: 6 verschiedene Stuermer aus 6 verschiedenen Spielen treffen. Markt-Goldgrube Torschuetzen Jederzeit (40.3%/+20.4% ROI) in reiner Form. Layer-1 OK (6 verschiedene Spiele). Layer-2 sauber: KEIN Sieg-Outcome irgendwo - alle 6 sind Torschuetzen-Markt -> keine Korrelation zu anderen Kombis. Wenn alle 6 treffen: 50 EUR. Realistische Chance ca. 1-2%.",
+      "empfohlener_einsatz_prozent": 0.1,
+      "rechnung": "2.50 x 2.80 x 3.50 x 2.30 x 3.20 x 2.60 = 468.83"
     }
   ],
   "lessons_angewandt": [
