@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS = {
+{
   "datum": "2026-06-24",
   "erstellt_am": "2026-06-24T15:15:00+02:00",
   "hinweis": "Watchdog-Recovery Mo-Fr 17:15 Berlin (Lauf um ~15:15 wg. frueh-getriggertem Cron - vor 17:15-Zeitfenster gefahren weil Hauptroutine 16:00 nicht durch). WM-2026-Gruppenphase ABSCHLUSS-SPIELTAG 3 fuer Gruppen A, B, C - 6 Spiele im Fenster 21:00-03:00 Berlin (Schweiz-Kanada, Bosnien-Katar, Marokko-Haiti, Schottland-Brasilien, Suedafrika-Suedkorea, Tschechien-Mexiko). Mehrere Decider/Muss-Siege: BiH+Katar Muss-Sieg fuer Drittplatzierten-Quali, Schweiz-Kanada Gruppensieg-Duell, Tschechien Muss-Sieg gegen Mexico-B. NBA Finals abgeschlossen (Knicks 4-1 vs Spurs am 19.06.) - kein Basketball heute. Vereinsfussball Saison-Pause bis August. Kasse 550 EUR -> Stufe 1 (Aufbau, konservative Einsaetze 0.5-1.5%). 30-Tage-ROI +10.7% bei 138 Tipps - System laeuft. Beobachtungs-Liste hat nur Group-B-Spieltag-1 (heute Spieltag 3, nicht Block), aber generelle WM-Vorsicht bei Spieltag-3-Decider-Profilen ist eingebaut. Markt-Goldgruben: Ueber 2.5/Unter 2.5/Torschuetzen Jederzeit/Doppelte Chance.",
@@ -814,4 +813,4 @@ window.__MIESMUSCHEL_TIPPS = {
     }
   ],
   "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA-Hotline: 0800 1372700 · Keine Einkommensquelle. Nur setzen was du verlieren kannst."
-};
+}
