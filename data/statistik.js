@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-06-23T07:14:39+00:00",
+  "letzte_berechnung": "2026-06-24T07:13:25+00:00",
   "gesamt": {
     "tipps": 420,
     "gewonnen": 232,
@@ -13,15 +13,15 @@ window.__MIESMUSCHEL_STAT = {
     "roi_prozent": 9.1
   },
   "letzte_30_tage": {
-    "tipps": 151,
-    "gewonnen": 85,
-    "verloren": 65,
-    "push": 1,
+    "tipps": 138,
+    "gewonnen": 80,
+    "verloren": 58,
+    "push": 0,
     "offen": 0,
-    "einsatz": 151.0,
-    "netto": 10.91,
-    "trefferquote": 56.7,
-    "roi_prozent": 7.2
+    "einsatz": 138.0,
+    "netto": 14.76,
+    "trefferquote": 58.0,
+    "roi_prozent": 10.7
   },
   "letzte_90_tage": {
     "tipps": 420,
@@ -4736,6 +4736,149 @@ window.__MIESMUSCHEL_STAT = {
     }
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-06-23",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "Safe-Kombi Spieltag 2 (~6.94x)",
+          "kategorie": "safe",
+          "gesamtquote": 6.95,
+          "einsatz_prozent": 1.5,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": null,
+              "quote": 1.65,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": null,
+              "quote": 1.62,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": null,
+              "quote": 1.18,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": null,
+              "quote": 2.2,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi Spieltag 2 (~6-9x)",
+          "kategorie": "balance",
+          "gesamtquote": 3.6,
+          "einsatz_prozent": 0.5,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": null,
+              "quote": 1.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": null,
+              "quote": 1.3,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": null,
+              "quote": 1.53,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": null,
+              "quote": 1.51,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi Spieltag 2 (~19x)",
+          "kategorie": "risk",
+          "gesamtquote": 19.25,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": null,
+              "quote": 3.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": null,
+              "quote": 2.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": null,
+              "quote": 2.2,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi Spieltag 2 (~114.19x)",
+          "kategorie": "moonshot",
+          "gesamtquote": 114.19,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": null,
+              "quote": 4.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": null,
+              "quote": 2.9,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": null,
+              "quote": 2.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": null,
+              "quote": 3.5,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-06-22",
       "gesamt": {
