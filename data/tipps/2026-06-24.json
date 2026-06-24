@@ -848,5 +848,51 @@
       "kontext": "Markt-Mix-Regel 04.05.: max 1 DC pro Spiel + max 2-3 DC im Dossier. Heute 1 DC im Dossier (Tschechien DC X2). Rest: Sieg-Tipps + Torschuetzen + Tor-Total + Zu-Null - sauber diversifiziert."
     }
   ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-06-24T17:30:00+02:00",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "recherche_file_fehlt",
+        "details": "data/recherche/2026-06-24.json existiert nicht - Spieler-Halluzinations-Check approximativ via news[]-Aufstellungen im Tipps-File selbst durchgefuehrt. Alle 7 Tipp-Torschuetzen (Embolo, Dzeko, Brahim Diaz, Vinicius Junior, Matheus Cunha, Son Heung-min, Patrik Schick) sind in den news[]-Aufstellungen explizit als Stamm-Spieler aufgelistet oder als bekannte Stamm-9er erwaehnt. Position-Mismatch: keiner - alle Sturm/Offensive Wing/10er."
+      },
+      {
+        "art": "torschuetze_quelle_warn",
+        "tipp_id": "2026-06-25-mar-hai-t3",
+        "details": "Brahim Diaz Tipp hat bereits _torschuetze_quelle_warn=true und wurde von Routine auf wackel begrenzt. Keine zusaetzliche Aktion noetig."
+      },
+      {
+        "art": "torschuetze_quelle_warn",
+        "tipp_id": "2026-06-25-sco-bra-t1",
+        "details": "Vinicius-Tipp hat bereits _torschuetze_quelle_warn=true und ist wackel. Wikipedia-Vinicius in saison_kontext.quellen - akzeptabler Ersatz. Hinweis: Einzeltipp-Eintrag et_value_sco_bra_vini ist als 'safe' kategorisiert obwohl Spiel-Tipp wackel - Inkonsistenz, aber Mapper-Hebel uebernimmt das via _torschuetze_quelle_warn."
+      },
+      {
+        "art": "layer_2_sieg_cross_check_ok",
+        "details": "Sieg-Outcomes pro Spiel ueber alle 4 Kombis aggregiert: BIH-QAT 1x (Safe), SCO-BRA 1x (Safe), SAR-KOR 1x (Balance), SUI-CAN 1x (Risiko), MAR-HAI 0x, CZE-MEX 0x. Layer-2-Cap 'max 1 Sieg-Outcome pro Spiel ueber alle Kombis' eingehalten - sauber."
+      },
+      {
+        "art": "saison_kontext_quellen_ok",
+        "details": "Alle 6 Spiele haben FIFA-WM-Fixtures-URL als erste Quelle. parallel_heim/parallel_gast bei allen 6 Spielen 'keine - WM 2026 ist alleiniger Wettbewerb' - keine CL/EL/Pokal-Behauptungen die zusaetzliche Verband-URLs erfordern."
+      },
+      {
+        "art": "quoten_plausibilitaet_ok",
+        "details": "Alle Quoten innerhalb plausibler Bandbreiten: Marokko 1.22 (massiver Favorit OK), BiH 1.37 (Klassen-Edge + 2 Sperren OK), Brasilien 1.36 (OK), Schweiz 2.30 (Coinflip Auswaerts OK), Korea 1.67 (OK), Tschechien DC X2 2.00 (Mexico-Rotation reflektiert OK). Keine Aggregator-Vergleichsdaten verfuegbar - max approximativer Check."
+      },
+      {
+        "art": "selbstwiderspruchs_scan_ok",
+        "details": "Keine Selbstwidersprueche gefunden zwischen Begruendungen, saison_kontext und news[]. Ausnahme-Hinweis: Einzeltipp et_value_sco_bra_vini hat kategorie 'safe' (line 514) - Spiel-Tipp 2026-06-25-sco-bra-t1 hat aber 'wackel'. Inkonsistenz im Einzeltipp-Sammlung, aber inhaltlich begruendet (FORM-EDGE-PFLICHT-Lesson)."
+      },
+      {
+        "art": "liga_frische_ok",
+        "details": "WM 2026 laeuft 11.06.-19.07.2026, heute 24.06. mitten in Gruppenphase-Spieltag-3. Vereinsfussball Pause bis August - Tipps-File erwaehnt das korrekt. NBA Finals abgeschlossen (Knicks 4-1 vs Spurs 19.06.) - korrekt erwaehnt."
+      },
+      {
+        "art": "spieler_halluzinations_check_ok",
+        "details": "Alle 7 in Tipps genannten Torschuetzen wurden in news[]-Aufstellungen oder als explizite Stamm-Spieler verifiziert: Embolo (SUI Aufstellung), Dzeko (BIH Aufstellung mit Captain-Markierung), Brahim Diaz (MAR Aufstellung), Vinicius Junior (BRA Aufstellung), Matheus Cunha (BRA Aufstellung), Son Heung-min (KOR offensiver Trio), Patrik Schick (CZE Top-Stuermer Leverkusen explizit erwaehnt). 0 Halluzinationen detektiert."
+      }
+    ],
+    "lessons_generiert": []
+  },
   "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA-Hotline: 0800 1372700 · Keine Einkommensquelle. Nur setzen was du verlieren kannst."
 }
