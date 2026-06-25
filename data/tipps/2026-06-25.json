@@ -563,7 +563,7 @@
   "kombis": [
     {
       "kategorie": "safe",
-      "ziel_quote_range": "~2.5x-3x",
+      "ziel_quote_range": "~1.5x-2x",
       "einsatz_euro": 11.0,
       "beine": [
         {
@@ -582,12 +582,12 @@
           "quote": 1.18
         }
       ],
-      "kombi_quote": 1.61,
-      "potenzieller_gewinn_euro": 17.71,
-      "begruendung": "3 stark dominante DC-X2-Faelle (NL/GER/IC) + Ueber-1.5 in dem NL-Spiel wo 4+ Tore Standard war. Layer-1: 3 unterschiedliche Spiele + 4. Bein im NL-Spiel (anderer Markt als DC). Achtung: NL-Spiel doppelt belegt mit DC + Ueber 1.5 - das ist Korrelations-Beste-Praxis weil NL deutlich gewinnen wird (DC + Ueber 1.5 sind dann beide durch). Markt-Goldgruben DC X2 + indirekt Ueber-Markt.",
+      "kombi_quote": 1.49,
+      "potenzieller_gewinn_euro": 16.39,
+      "begruendung": "3 stark dominante DC-X2-Faelle (NL/GER/IC) aus 3 unterschiedlichen Spielen. Layer-1 erfuellt (max 1 Bein/Spiel). Gesamtquote 1.49 unter typischem Safe-Range (~2.5-3x), aber die 3 Beine sind die sichersten Faelle des Tages: NL @ 95% Implied vs eliminiertes Tunesien, Deutschland Klassen-Edge vs Ecuador-0-Tor-Sturm, IC reicht Remis fuer Achtelfinale. Bewusste Konzentration auf Edge statt Quotenhebel - Stufe-1-Kasse-Modus. Markt-Goldgrube DC X2 (82.6% / +14% ROI) auf allen 3 Beinen.",
       "empfohlener_einsatz_prozent": 2.0,
       "gesamtquote": 1.49,
-      "rechnung": "1.05 × 1.20 × 1.18 = 1.49"
+      "rechnung": "1.05 x 1.20 x 1.18 = 1.49"
     },
     {
       "kategorie": "balance",
@@ -706,5 +706,86 @@
     "NBA-Finals beendet (Knicks 4-1 vs Spurs 13.06.) - kein Basketball mehr. Beobachtungs-Liste 'NBA Playoffs Finals Game 3' wirkt nicht mehr.",
     "Lesson Watchdog-Recovery: Hauptroutine 16:00 lief heute nicht durch - 17:15-Watchdog-Recovery uebernimmt Tipps-Generation. Identisches Schema, gleiche Hartregeln."
   ],
-  "footer": "18+ · bet365 DE · Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
+  "footer": "18+ · bet365 DE · Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-06-25T18:35:00+02:00",
+    "modus": "Post-Watchdog-Verifikation (Hauptroutine-Trigger Phase 4)",
+    "input_files": {
+      "tipps": "data/tipps/2026-06-25.json",
+      "recherche": "FEHLT (Recherche-File 2026-06-25.json nicht im Repo) - Pruefung basiert auf saison_kontext.quellen[] der Spiele + statistik.json + lessons.json",
+      "lessons": "data/lessons.json",
+      "statistik": "data/statistik.json"
+    },
+    "drops": [],
+    "downgrades": [],
+    "fixes_angewandt": [
+      {
+        "kombi": "safe",
+        "art": "konsistenz_fix_kombi_quote",
+        "alt": {"kombi_quote": 1.61, "potenzieller_gewinn_euro": 17.71, "ziel_quote_range": "~2.5x-3x"},
+        "neu": {"kombi_quote": 1.49, "potenzieller_gewinn_euro": 16.39, "ziel_quote_range": "~1.5x-2x"},
+        "grund": "kombi_quote 1.61 stimmte nicht mit gesamtquote 1.49 (= 1.05 x 1.20 x 1.18) ueberein. Begruendung referenzierte ein 4. Bein im NL-Spiel (Ueber 1.5), das jedoch nicht in beine[] stand. Layer-1 hard verbietet 2 Beine im selben Spiel pro Kombi - daher Begruendung gefixt + kombi_quote/potenzieller_gewinn auf die tatsaechlichen 3 Beine angepasst."
+      }
+    ],
+    "warns": [
+      {
+        "art": "recherche_file_fehlt",
+        "details": "data/recherche/2026-06-25.json fehlt im Repo. Watchdog-Recovery-Pfad wurde gegangen, aber Spieler-Halluzinations-Check kann nicht gegen squad_heim/squad_gast-Listen aus Recherche-Datei laufen. Plausibilitaet anhand allgemein bekannter WM-Kader 26 geprueft - keine offensichtliche Halluzination gefunden (Undav/Wirtz/Sane DE, Gakpo/Malen NL, Haller/A.Diallo/Y.Diomande CIV, Isak/Gyoekeres SWE, Yildiz TR alle plausibel)."
+      },
+      {
+        "art": "torschuetze_quelle_warn",
+        "tipps_betroffen": ["Haller", "Undav", "Wirtz", "Isak", "Gyoekeres", "Gakpo", "Malen", "Yildiz", "A. Diallo"],
+        "details": "Alle Torschuetzen-Tipps haben _torschuetze_quelle_warn: true Flag, weil saison_kontext.quellen[] keine Vereins-spezifische Spieler-Quelle (transfermarkt/kicker/espn player-Seite) enthaelt. Mapper-Regel: max wackel statt value/safe. Kategorie schon korrekt auf wackel gesetzt - kein zusaetzliches Downgrade noetig."
+      },
+      {
+        "art": "layer_3_weich_nicht_erfuellt",
+        "details": "Mit 6 Spielen verteilt auf 4 Kombis (3 + 4 + 4 + 5 = 16 Beine) ist Layer-3 weich (max 1 Bein/Spiel ueber alle Kombis) mathematisch unmoeglich. NL-Spiel in 4 Kombis je 1 Bein, GER-Spiel in 4 Kombis je 1 Bein, IC-Spiel in 4 Kombis je 1 Bein, JPN-SWE in 3 Kombis. Markt-Entkopplung erfuellt: pro Spiel + Kombi unterschiedlicher Markt-Typ. Akzeptiert."
+      },
+      {
+        "art": "quoten_tief_warn",
+        "tipp": "NL DC X2 @ 1.05",
+        "details": "Quote 1.05 entspricht 95% Implied - sehr tief. Plausibel angesichts Tunesien-eliminiert + NL @ 90% Sieg + 7 Tore in 2 Spielen. bei bet365 live pruefen - kann sich aendern."
+      }
+    ],
+    "selbstwiderspruchs_scan": {
+      "status": "OK (1 gefunden + gefixt)",
+      "details": "Safe-Kombi-Begruendung enthielt Widerspruch (4. Bein erwaehnt, beine[] hatte nur 3) - gefixt. Sonst keine Widersprueche."
+    },
+    "layer_2_check": {
+      "status": "OK",
+      "sieg_outcomes_pro_spiel_kombi": {
+        "2026-06-26-tun-ned": ["safe-kombi DC X2"],
+        "2026-06-25-ecu-ger": ["safe-kombi DC X2"],
+        "2026-06-25-cur-civ": ["safe-kombi DC X2"]
+      },
+      "details": "Sieg-Outcomes (DC X2) alle 3 nur in safe-kombi. Kein Sieg-Outcome doppelt in 2 Kombis. Layer-2 hard erfuellt."
+    },
+    "saison_kontext_check": {
+      "status": "OK",
+      "details": "Alle 6 Spiele haben quellen[] mit FIFA-Verband-URL (fifa.com world cup 2026). Verband-Quellen-Pflicht erfuellt fuer Wettbewerbs-Behauptungen (WM 2026 ist alleiniger aktiver Wettbewerb - keine CL/EL/Pokal-Referenzen). 7-Felder-Pflicht in saison_kontext{} erfuellt (parallel_heim/gast, saisonziel_heim/gast, motivations_asymmetrie, recovery_heim/gast, quellen[])."
+    },
+    "kombi_gesamtquoten_recheck": {
+      "safe": "1.05 x 1.20 x 1.18 = 1.4868 -> 1.49 OK",
+      "balance": "1.45 x 2.10 x 1.85 x 2.20 = 12.392 -> 12.39 OK",
+      "risk": "1.80 x 2.40 x 2.75 x 2.00 = 23.76 OK",
+      "moonshot": "4.00 x 4.50 x 3.00 x 4.50 x 3.50 = 850.5 OK"
+    },
+    "lessons_generiert": [
+      {
+        "kategorie": "Kombi-Begruendungs-Synchronisation",
+        "lesson": "Wenn Kombi nachtraeglich ein Bein verliert (z.B. wegen Layer-1-Verstoss), MUESSEN kombi_quote + potenzieller_gewinn_euro + begruendung + ziel_quote_range synchron angepasst werden, nicht nur gesamtquote + rechnung. Sonst entstehen Selbstwiderspruchs-Faelle wie safe-kombi 2026-06-25 (3 Beine in beine[], 4 Beine in begruendung, kombi_quote noch fuer 4 Beine berechnet)."
+      },
+      {
+        "kategorie": "Watchdog-Recovery-Standard",
+        "lesson": "Wenn Hauptroutine-Recherche-File fehlt und Watchdog-Recovery uebernimmt: saison_kontext.quellen[] MUSS pro Spiel mind. 1 Verband-URL (FIFA fuer WM) + mind. 1 Lineup/News-Quelle enthalten - Verifikator pruefen ob das so ist, da kein Recherche-File als Fallback zur Verfuegung steht."
+      }
+    ],
+    "erfolgs_kriterien": {
+      "halluzinierte_spieler": "0 (nach Plausibilitaets-Check ohne Recherche-File)",
+      "unbegruendete_wettbewerbe": "0 (alle Spiele WM 2026, FIFA-URL in quellen[])",
+      "selbstwidersprueche": "0 (1 gefunden, gefixt)",
+      "layer_2_sauber": "ja",
+      "verifikations_report_im_file": "ja"
+    }
+  }
 }
