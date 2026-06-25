@@ -1,0 +1,17 @@
+{
+  "stand": "2026-06-25T19:26:01.626544+00:00",
+  "gesendet": {
+    "2026-06-25-cur-civ": {
+      "sent_at": "2026-06-25T19:25:59.682659+00:00",
+      "anstoss": "2026-06-25T22:00:00+02:00",
+      "spiel": "Curacao vs Elfenbeinkueste",
+      "top_tipp": "Elfenbeinkueste Doppelte Chance X2 (IC oder Remis)"
+    },
+    "2026-06-25-ecu-ger": {
+      "sent_at": "2026-06-25T19:25:59.682659+00:00",
+      "anstoss": "2026-06-25T22:00:00+02:00",
+      "spiel": "Ecuador vs Deutschland",
+      "top_tipp": "Deniz Undav Jederzeit-Torschuetze"
+    }
+  }
+}
