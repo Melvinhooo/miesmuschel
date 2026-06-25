@@ -1,0 +1,678 @@
+{
+  "datum": "2026-06-27",
+  "erstellt_am": "2026-06-25T16:30:00+02:00",
+  "modus": "wochenende",
+  "hinweis": "Wochenend-Vorschau Sa 27.06 + So 28.06.2026 (Donnerstag-16:30-Slot Vorab-Datenbasis fuer 18:00-Tipps-Routine). === WM 2026 GRUPPENPHASE-SPIELTAG-3-FINALE + START-RUNDE-DER-32. Sa 27.06 ist letzter Spieltag-3-Tag (Gruppen J, K, L) - jede Gruppe spielt 2 Spiele simultan. So 28.06 startet die NEUE Runde der 32 (R32) mit Solo-Match Suedafrika vs Kanada. NBA-Finals BEENDET (Knicks 4-1 Series-Sieg). Vereins-Fussball welt-Saisonpause. === SAMSTAG-WM-TAG 27.06 (US-Zeit, Berlin entsprechend Sa-Abend + So-frueh-Berlin): 6 Spiele: (L1) Sa 17:00 ET = Sa 23:00 Berlin: Panama vs England, MetLife Stadium East Rutherford NJ; (L2) Sa 17:00 ET = Sa 23:00 Berlin: Kroatien vs Ghana, Lincoln Financial Field Philadelphia; (K1) Sa 19:30 ET = So 01:30 Berlin: Kolumbien vs Portugal, Hard Rock Stadium Miami Gardens FL; (K2) Sa 19:30 ET = So 01:30 Berlin: DR Kongo vs Usbekistan, Mercedes-Benz Stadium Atlanta GA; (J1) Sa 21:00 ET = So 03:00 Berlin: Algerien vs Oesterreich, Arrowhead Stadium Kansas City MO; (J2) Sa 21:00 ET = So 03:00 Berlin: Jordanien vs Argentinien, AT&T Stadium Arlington TX. Spiele K1/K2/J1/J2 technisch So-frueh Berlin-Datum aber Sa-Abend US-Zeit, gehoeren zum Samstag-WM-Tag (Berlin-Konvention id-Datum = Anstoss-Berlin-Datum). === SONNTAG-WM-TAG 28.06 (Start R32): NUR 1 SPIEL: So 28.06 15:00 ET = 21:00 Berlin: Suedafrika vs Kanada, SoFi Stadium Inglewood CA (R32 Match-73 Solo). === GRUPPEN-STAND VOR SPIELTAG 3 (live aus data/ergebnisse/ + Wikipedia kalkuliert): Gruppe J: Argentinien 6 (qualifiziert + Gruppensieg-Lock), Oesterreich 3, Algerien 3, Jordanien 0 (eliminiert). Gruppe K: Kolumbien 6 (qualifiziert), Portugal 4, DR Kongo 1, Usbekistan 0 (eliminiert). Gruppe L: England 4, Ghana 4, Kroatien 3, Panama 0 (eliminiert). MUSS-SIEG-DRUCK: Oesterreich + Algerien beide brauchen mind. 1 Pkt + bessere Tordiff fuer 2. oder beste-3.-Quali; Portugal braucht 1 Pkt fuer 2. Platz oder Sieg-Tordiff fuer 3.-Hoffnung; Kroatien braucht Sieg fuer Quali, sonst Aus; England/Ghana spielen Tabellenfuehrung aus. === SONNTAG R32-Hintergrund: Suedafrika qualifizierte sich nach 1:0 vs Korea (25.06 Spieltag-3) als bester 3. der Gruppe A. Kanada wurde 2. der Gruppe B nach 1:2 vs Schweiz (24.06 Spieltag-3). Erste WM-K.O.-Teilnahme fuer Suedafrika seit 1998, fuer Kanada erste R32 in Heim-WM-Geschichte. === SPIELORT-FAKTOREN: MetLife Stadium NJ (8m Hoehe, Kuestenklima, 82.500 Kapazitaet, Heim-Atmosphaere fuer England-Diaspora moeglich); Lincoln Financial Field Philadelphia (12m, gemaessigt, 69.000, Kroatien-Diaspora US-Ostkueste); Hard Rock Stadium Miami Gardens (2m, hohe Luftfeuchtigkeit + Hitze + Klimaanlage Boxen, 65.000, Kolumbien-Heim-Atmosphaere); Mercedes-Benz Stadium Atlanta (327m, ueberdacht klimatisiert, 71.000); Arrowhead Stadium Kansas City (274m, Sommer-Hitze, 76.000); AT&T Stadium Arlington TX (Dome-Stadion 12m, klimatisiert, 80.000); SoFi Stadium Inglewood CA (38m, Kuestenklima ueberdacht, 70.000). === REGEL-ANWENDBARKEIT: 2:0-Insurance-Regel gilt fuer alle WM-2026-direkt-Sieg-Tipps (CLAUDE.md 10.06.2026). Einwechslungs-Boost gilt fuer Torschuetzen-Tipps. Markt-Boykott WM: Halbzeit-Endstand-Kombi NIE, Genaues Ergebnis NIE, Erster Torschuetze WACKEL-max bei Aussenseitern ohne Pre-WM-Tor-Datenbasis (Panama, DR Kongo, Usbekistan, Jordanien). === KASSE-STAND: data/kasse.json zeigt 550 EUR Stand 04.05.2026 -> Stufe 1 (Aufbau-Phase <1000 EUR): Einzel SAFE/VALUE 1-2% = 5.50-11 EUR; Wackel-Einzel 0.5% = 2.75 EUR; Kombi-Safe 2% = 11 EUR; Kombi-Balance 0.8% = 4.40 EUR; Kombi-Risiko 0.25% = 1.40 EUR; Moonshot 0.1% = 0.55 EUR. === AUTO-MARKT-FILTER (data/markt_goldgruben.json 03.05.): Doppelte Chance 1X (84.6%/+9.5%), Doppelte Chance X2 (77.8%/+9.4%), Unter 2.5 Tore (66.7%/+27.5%), Torschuetzen Jederzeit (50%/+24.4%) - aktiv suchen. data/markt_bluter.json: Markt-Typen-Sperre wird via Schema-Mapper erzwungen. === LESSON-RELEVANZ Spieltag-3-Finale: 2:0-Insurance-Regel bei direkten Sieg-Tipps auf Argentinien (Jor-Arg) + England (Pan-Eng) als Favoriten-Lock potentiell relevant. Spieltag-3-Pattern Spielzeit-2 zeigte oft Drehungen + Defensiv-Kollaps (Spaeler-Druck) - relevant bei Wackel-Spielen wie Cro-Gha + Alg-Aut + Col-Por. === POSITIONS-GENAUIGKEIT eingehalten in squad-Daten: Kane ST, Bellingham OM, Saka RF, Foden OM, Rice DM, Stones IV, Messi RF/OM, L.Martinez ST, J.Alvarez ST, E.Fernandez ZM, MacAllister ZM, C.Romero IV, Ronaldo ST, B.Fernandes OM, B.Silva OM/RF, J.Felix ST/OM, R.Leao LF, R.Dias IV, J.Rodriguez OM, L.Diaz LF, J.Duran ST, D.Munoz RV, Modric OM/ZM, Kovacic ZM, Kramaric ST, Perisic LF, Gvardiol IV/LV, Kudus OM/RF, I.Williams ST/RF, Partey DM, Semenyo LF/ST, Alaba IV/LV, Sabitzer ZM/OM, Laimer ZM/DM, Arnautovic ST, Mahrez RF, Aouar OM, Gouiri ST, Davies LV, J.David ST, Eustaquio DM, Buchanan RF, Foster ST, Zwane OM, Tau RF, Mokoena DM, Williams TW, Bakambu ST, Wissa ST/LF, Mbemba IV, Shomurodov ST, Murillo RV, Al-Tamari RF. === KEINE TIPPS - reine Daten-Vorab-Briefing.",
+
+  "spiele": [
+    {
+      "id": "2026-06-27-pan-eng",
+      "liga": "FIFA WM 2026 - Gruppe L - Spieltag 3",
+      "wettbewerb_kontext": "WM 2026, letzter Gruppe-L-Spieltag. Panama (0 Pkt) eliminiert, spielt nur fuer Stolz. England (4 Pkt) braucht 1 Pkt fuer sicheren Gruppensieg oder Sieg-Tordiff-Polster vs Ghana (4 Pkt parallel) fuer R32-Top-Seed.",
+      "heim": "Panama",
+      "gast": "England",
+      "heim_kuerzel": "PAN",
+      "gast_kuerzel": "ENG",
+      "anstoss": "2026-06-27T23:00:00+02:00",
+      "anstoss_lokal": "Sat 17:00 ET / Sat 14:00 PT / Sat 23:00 Berlin",
+      "anstoss_utc": "2026-06-27T21:00:00Z",
+      "stadion": "MetLife Stadium, East Rutherford NJ",
+      "spielort_faktor": {
+        "stadt": "East Rutherford NJ (NYC-Metropolregion)",
+        "stadion": "MetLife Stadium",
+        "land": "USA",
+        "hoehe_m": 8,
+        "kapazitaet": 82500,
+        "klima_anstoss": "Spaet-Juni Nordosten USA: Spaet-Nachmittag-ET ca. 24-28 Grad, moderate Luftfeuchtigkeit (~60%), kein Niederschlag erwartet - LIVE-Wetter via NOAA vor Anstoss pruefen.",
+        "anstoss_lokal": "Sat 17:00 ET (Spaet-Nachmittag Lokal)",
+        "lokal_faktor": "Riesige England-Diaspora-Atmosphaere im NYC-Raum erwartet (Heimspiel-Charakter fuer ENG). MetLife ist NFL-Stadium (Giants/Jets), 82.500 Kapazitaet macht es zu einem der groessten WM-Schaupiele.",
+        "implikationen": ["MetLife groesster R32-Vorlauf-Stadion = signifikante Atmosphaere", "England-Diaspora-Heimspiel-Stuetze fuer ENG-Druck", "Panama spielt ohne Hoffnung = Risiko fuer schwache Defensive bei englischem Tempo"]
+      },
+      "turnier_phase": "Gruppenphase Spieltag 3",
+      "gruppe": "L",
+      "gruppen_stand_vor_spiel": {
+        "kontext": "Gruppe L nach Spieltag 2: England 4 (S1,U1: 2:1 vs Panama + 2:2 vs Kroatien Spieltag-2, mit Kane Hattrick gegen PAN als Spieltag-1-Highlight; Spieltag-2-Form-Bremse vs CRO); Ghana 4 (S1,U1: 1:0 vs Kroatien Spieltag-1 + 0:0 vs Panama Spieltag-2); Kroatien 3 (S1,N1: 0:1 vs Ghana Spieltag-1 + 2:2 vs England Spieltag-2 nach 0:2 Rueckstand-Drehung); Panama 0 (eliminiert nach 2 Niederlagen).",
+        "heim_pkt": 0, "heim_tordiff": "-2",
+        "gast_pkt": 4, "gast_tordiff": "+2",
+        "_hinweis": "Pre-Spieltag-3-Tabelle aus Wikipedia 25.06.2026 abgeleitet - bet365-VOR-Anstoss-Check empfohlen falls Spieltag-2-Ergebnisse anders fielen."
+      },
+      "squad_heim_top": [
+        {"name": "Michael Murillo", "nummer": 23, "position": "RV", "verein": "Besiktas (Tuerkei Super Lig)", "rolle": "Stamm-Rechtsverteidiger, einziger Top-5-Liga-Spieler im Kader", "verifiziert_via": "https://en.wikipedia.org/wiki/Panama_at_the_2026_FIFA_World_Cup"},
+        {"name": "Adalberto Carrasquilla", "nummer": null, "position": "ZM", "verein": "Pumas UNAM (Liga MX)", "rolle": "Midfield-Engine, CONCACAF Player of the Year 2024", "verifiziert_via": "https://en.wikipedia.org/wiki/Panama_at_the_2026_FIFA_World_Cup"},
+        {"name": "Anibal Godoy", "nummer": null, "position": "DM", "verein": "San Diego FC (MLS)", "rolle": "Kapitaen + Mittelfeld-Anker, Veteran 90+ Caps", "verifiziert_via": "https://en.wikipedia.org/wiki/Panama_at_the_2026_FIFA_World_Cup"},
+        {"name": "Jose Fajardo", "nummer": null, "position": "ST", "verein": "Liga-CONCACAF/Mittelamerika", "rolle": "Stamm-Stuermer, Volumen-9", "verifiziert_via": "https://en.wikipedia.org/wiki/Panama_at_the_2026_FIFA_World_Cup"},
+        {"name": "Luis Mejia", "nummer": null, "position": "TW", "verein": "Liga-CONCACAF/Mittelamerika", "rolle": "Veteran-Goalkeeper", "verifiziert_via": "https://en.wikipedia.org/wiki/Panama_at_the_2026_FIFA_World_Cup"}
+      ],
+      "squad_gast_top": [
+        {"name": "Harry Kane", "nummer": 9, "position": "ST", "verein": "Bayern Muenchen (Bundesliga)", "rolle": "Kapitaen + Torjaeger #1, Hattrick gegen PAN Spieltag-1", "verifiziert_via": "https://www.englandfootball.com/articles/2026/Jun/02/england-men-fifa-world-cup-2026-squad-numbers-revealed-20260206"},
+        {"name": "Jude Bellingham", "nummer": 10, "position": "OM", "verein": "Real Madrid (LaLiga)", "rolle": "Offensiv-Spielmacher, Box-to-Box-Engine", "verifiziert_via": "https://www.skysports.com/football/news/12016/13550121/england-reveal-world-cup-squad-numbers"},
+        {"name": "Bukayo Saka", "nummer": 7, "position": "RF", "verein": "Arsenal (Premier League)", "rolle": "Stamm-Rechtsaussen, Dribbel-Element", "verifiziert_via": "https://www.englandfootball.com/articles/2026/Jun/02/england-men-fifa-world-cup-2026-squad-numbers-revealed-20260206"},
+        {"name": "Cole Palmer", "nummer": null, "position": "OM/ZM", "verein": "Chelsea (Premier League)", "rolle": "Kreativer Spielmacher mit Set-Piece-Threat, Tuchel-Stamm", "verifiziert_via": "https://www.espn.com/soccer/story/_/id/48823863/meet-england-2026-world-cup-squad-26-players-picked-thomas-tuchel-why"},
+        {"name": "Phil Foden", "nummer": null, "position": "OM", "verein": "Manchester City (Premier League)", "rolle": "Linke Position oder Halbposition, Top-Edge-Threat", "verifiziert_via": "https://www.englandfootball.com/articles/2026/Jun/02/england-men-fifa-world-cup-2026-squad-numbers-revealed-20260206"},
+        {"name": "Declan Rice", "nummer": 4, "position": "DM", "verein": "Arsenal (Premier League)", "rolle": "Defensive Stabilitaet + Aufbauspiel", "verifiziert_via": "https://www.englandfootball.com/articles/2026/Jun/02/england-men-fifa-world-cup-2026-squad-numbers-revealed-20260206"},
+        {"name": "John Stones", "nummer": 5, "position": "IV", "verein": "Manchester City (Premier League)", "rolle": "Innenverteidiger-Stamm", "verifiziert_via": "https://www.englandfootball.com/articles/2026/Jun/02/england-men-fifa-world-cup-2026-squad-numbers-revealed-20260206"},
+        {"name": "Jordan Pickford", "nummer": 1, "position": "TW", "verein": "Everton (Premier League)", "rolle": "Stamm-Torwart", "verifiziert_via": "https://www.englandfootball.com/articles/2026/Jun/02/england-men-fifa-world-cup-2026-squad-numbers-revealed-20260206"}
+      ],
+      "squad_heim_stand": "Panama-Kader unter Thomas Christiansen - keine bestaetigten Nachmeldungen nach 0:2 Spieltag-1 + 0:0 Spieltag-2 (Punkt vs Ghana). MUSS-OHNE-Stress-Spiel als Eliminierter.",
+      "squad_gast_stand": "England-Kader unter Thomas Tuchel - Rotations-Diskussion nach 2:2 vs Kroatien Spieltag-2 (England fuehrte 2:0, Kroatien drehte auf 2:2 nach Bellingham-Auswechslung 65.). Tuchel koennte ENG-Stamm rotieren wenn Qualifikation gesichert.",
+      "injuries_heim": ["Pre-Anstoss-Check via Wikipedia Panama-2026-WM-Artikel + concacaf.com - keine bekannten Schluessel-Ausfaelle Stand 25.06."],
+      "injuries_gast": ["Pre-Anstoss-Check via englandfootball.com + skysports - Spieltag-2-Belastung Bellingham/Kane mit potentiellem Rotations-Bonus relevant"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM exklusiv",
+        "gast": "keine - WM exklusiv",
+        "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026", "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_L"]
+      },
+      "saisonziel_heim": "Panama: WM-Achtelfinale-Hoffnung nach Spieltag-1 verspielt (0:2 vs CRO + 0:0 vs GHA) - eliminiert; spielt ohne Druck.",
+      "saisonziel_gast": "England: Gruppensieg gesichert mit Sieg oder Remis-Toleranz (haengt von Ghana-Cro-Ergebnis ab). Top-Seed in R32 fuer guenstigere Loswege.",
+      "tabellenstand": {"heim_fifa_rank_ca": 38, "gast_fifa_rank_ca": 5, "_kommentar": "England klarer Quoten-Killshot-Favorit (Star-Power 5x). Panama defensiv schwach Spieltag-1 (0:2 vs CRO mit 1 Schuss-aufs-Tor) aber Spieltag-2 0:0 vs GHA zeigt Disziplin moeglich. Tordiff: ENG +2, PAN -2."},
+      "form_heim_letzte_5": "Spieltag-1: N (0:2 vs CRO); Spieltag-2: U (0:0 vs GHA); Pre-WM-Tests: Conmebol-Test-Niederlagen-Cluster, einziger Sieg vs CONCACAF-Aussenseiter",
+      "form_gast_letzte_5": "Spieltag-1: S (2:1 vs PAN Kane-Hattrick); Spieltag-2: U (2:2 vs CRO mit 2:0-Drehung-Loss); Pre-WM-Tests: Tuchel-Aera positiv mit 3 Siegen 1 Remis",
+      "recovery_heim": "Spieltag-3: 5 Tage Pause seit 22.06 (0:0 vs GHA); volle Recovery",
+      "recovery_gast": "Spieltag-3: 5 Tage Pause seit 22.06 (2:2 vs CRO); volle Recovery, Tuchel-Rotations-Frage nach Bellingham-Belastung",
+      "quoten": {
+        "bet365_indikativ": {
+          "sieg_heim": 26.0,
+          "draw": 9.5,
+          "sieg_gast": 1.10,
+          "ueber_2_5": 1.45,
+          "unter_2_5": 2.70,
+          "btts_ja": 3.00,
+          "btts_nein": 1.40,
+          "dc_1x": 7.50,
+          "dc_x2": 1.05,
+          "dc_12": 1.05,
+          "torschuetzen_jederzeit": {"Kane": 1.40, "Bellingham": 2.40, "Saka": 2.80, "Palmer": 3.00, "Foden": 3.20, "Carrasquilla": 8.00, "Fajardo": 9.00},
+          "kommentar": "England klarer Killshot-Floor (1.10 entspricht ~91% impliziter Wahrscheinlichkeit). Ueber-2.5 Favorit. Panama-Sieg Lotterie-Quote 26."
+        },
+        "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup", "https://www.bet365.com/hub/en-gb/football/football-competitions/world-cup"],
+        "hinweis": "Quoten indikativ aus Pre-Spieltag-3-Recherche - bet365-DE-Lines verifizieren vor Einsatz, Rotations-Risiko (Tuchel-Stamm Schonung?) koennte Sieg-Quote auf 1.15-1.20 schieben."
+      },
+      "news_kompakt": [
+        "England Gruppensieg-Lock mit Sieg sicher; Remis reicht falls Ghana-Cro nicht beide Tore explodieren",
+        "Panama eliminiert - spielt ohne Druck, taktisch defensiv gegen Hoehepunkt-Tor-Differenz",
+        "Tuchel-Rotations-Diskussion nach Spieltag-2-Bremse (2:2 vs CRO mit 2:0-Drehung-Loss)",
+        "Stadion MetLife 82.500 Kapazitaet: groesster R32-Vorlauf, England-Diaspora-Heimspiel-Stuetze",
+        "Quoten-Killshot ENG 1.10 = ~91% impliziert; Wackel-Risiko Rotation"
+      ],
+      "quellen_squad_news": [
+        "https://en.wikipedia.org/wiki/Panama_at_the_2026_FIFA_World_Cup",
+        "https://en.wikipedia.org/wiki/England_at_the_2026_FIFA_World_Cup",
+        "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_L",
+        "https://www.englandfootball.com/articles/2026/Jun/02/england-men-fifa-world-cup-2026-squad-numbers-revealed-20260206",
+        "https://www.skysports.com/football/news/12098/13543108/world-cup-2026-group-l-guide-fixtures-schedule-standings-and-odds-for-england-croatia-ghana-and-panama"
+      ],
+      "wm_marktregeln_aktiv": "2:0-Insurance gilt bei direktem Sieg-Tipp England (1X2). Einwechslungs-Boost gilt bei Torschuetzen-Tipps Kane/Bellingham/Saka (Aubameyang-Welby-aequivalent fuer Direkt-Ersatz). Markt-Boykott Halbzeit-Endstand-Kombi + Genaues Ergebnis."
+    },
+    {
+      "id": "2026-06-27-cro-gha",
+      "liga": "FIFA WM 2026 - Gruppe L - Spieltag 3",
+      "wettbewerb_kontext": "WM 2026, letzter Gruppe-L-Spieltag. Kroatien (3 Pkt) braucht Sieg fuer R32-Quali, sonst Aus. Ghana (4 Pkt) braucht 1 Pkt fuer Top-2-Lock; bei Niederlage Gefahr 3.-Platz-Quali.",
+      "heim": "Kroatien",
+      "gast": "Ghana",
+      "heim_kuerzel": "CRO",
+      "gast_kuerzel": "GHA",
+      "anstoss": "2026-06-27T23:00:00+02:00",
+      "anstoss_lokal": "Sat 17:00 ET / Sat 23:00 Berlin",
+      "anstoss_utc": "2026-06-27T21:00:00Z",
+      "stadion": "Lincoln Financial Field, Philadelphia PA",
+      "spielort_faktor": {
+        "stadt": "Philadelphia PA",
+        "stadion": "Lincoln Financial Field",
+        "land": "USA",
+        "hoehe_m": 12,
+        "kapazitaet": 69000,
+        "klima_anstoss": "Spaet-Juni Mid-Atlantic: Spaet-Nachmittag-ET ca. 26-30 Grad, moderate Luftfeuchtigkeit (~60-65%), kein Niederschlag erwartet.",
+        "anstoss_lokal": "Sat 17:00 ET (Spaet-Nachmittag Lokal)",
+        "lokal_faktor": "Kroatien-Diaspora US-Ostkueste vorhanden (Pittsburgh + Philadelphia kroatisch-amerikanische Communities); Lincoln Financial NFL-Stadium (Eagles), 69.000 Kapazitaet moderate Groesse.",
+        "implikationen": ["Hitze-Faktor mittel - Kroatien-Modric-Veteranen-Risiko bei 90min", "Ghana koennte konditionell besser dastehen", "Drittel-fuell-Heim-Faktor CRO bei Diaspora-Praesenz"]
+      },
+      "turnier_phase": "Gruppenphase Spieltag 3",
+      "gruppe": "L",
+      "gruppen_stand_vor_spiel": {
+        "kontext": "Gruppe L vor Spieltag-3 (siehe pan-eng Spiel oben): CRO 3 Pkt + Tordiff -1 (0:1 GHA + 2:2 ENG); GHA 4 Pkt + Tordiff +1 (1:0 CRO + 0:0 PAN); MUSS-SIEG-DRUCK fuer CRO, GHA hat Remis-Polster.",
+        "heim_pkt": 3, "heim_tordiff": "-1",
+        "gast_pkt": 4, "gast_tordiff": "+1"
+      },
+      "squad_heim_top": [
+        {"name": "Luka Modric", "nummer": 10, "position": "OM/ZM", "verein": "AC Milan (Serie A) - Real Madrid bis 2025", "rolle": "Kapitaen + Spielmacher, 40 Jahre, womoeglich letzte WM", "verifiziert_via": "https://en.wikipedia.org/wiki/Croatia_at_the_2026_FIFA_World_Cup"},
+        {"name": "Mateo Kovacic", "nummer": 8, "position": "ZM", "verein": "Manchester City (Premier League)", "rolle": "Box-to-Box-Mitte, Modric-Komplement", "verifiziert_via": "https://en.wikipedia.org/wiki/Croatia_at_the_2026_FIFA_World_Cup"},
+        {"name": "Andrej Kramaric", "nummer": 9, "position": "ST", "verein": "TSG Hoffenheim (Bundesliga)", "rolle": "Stamm-Stuermer, Volumen-Schuetze", "verifiziert_via": "https://en.wikipedia.org/wiki/Croatia_at_the_2026_FIFA_World_Cup"},
+        {"name": "Ivan Perisic", "nummer": 4, "position": "LF", "verein": "PSV Eindhoven (Eredivisie)", "rolle": "Stamm-Linksaussen, WM-Veteran", "verifiziert_via": "https://en.wikipedia.org/wiki/Croatia_at_the_2026_FIFA_World_Cup"},
+        {"name": "Josko Gvardiol", "nummer": 20, "position": "IV/LV", "verein": "Manchester City (Premier League)", "rolle": "Stamm-Abwehrchef, Aufbauspiel", "verifiziert_via": "https://en.wikipedia.org/wiki/Croatia_at_the_2026_FIFA_World_Cup"},
+        {"name": "Dominik Livakovic", "nummer": 1, "position": "TW", "verein": "Fenerbahce (Tuerkei Super Lig)", "rolle": "Stamm-Torwart, Elfmeter-Killer", "verifiziert_via": "https://en.wikipedia.org/wiki/Croatia_at_the_2026_FIFA_World_Cup"}
+      ],
+      "squad_gast_top": [
+        {"name": "Mohammed Kudus", "nummer": 20, "position": "OM/RF", "verein": "Tottenham Hotspur (Premier League)", "rolle": "Star-Kreativer + Dribbel-Threat, Ghana-Top-Asset", "verifiziert_via": "https://en.wikipedia.org/wiki/Ghana_at_the_2026_FIFA_World_Cup"},
+        {"name": "Inaki Williams", "nummer": 19, "position": "ST/RF", "verein": "Athletic Bilbao (LaLiga)", "rolle": "Speed-Stuermer, schaltet zwischen ST/RF", "verifiziert_via": "https://en.wikipedia.org/wiki/Ghana_at_the_2026_FIFA_World_Cup"},
+        {"name": "Thomas Partey", "nummer": 5, "position": "DM", "verein": "Villarreal (LaLiga) - Arsenal bis 2025", "rolle": "Defensive Mittelfeld-Anker, Box-to-Box", "verifiziert_via": "https://en.wikipedia.org/wiki/Ghana_at_the_2026_FIFA_World_Cup"},
+        {"name": "Antoine Semenyo", "nummer": null, "position": "LF/ST", "verein": "AFC Bournemouth (Premier League)", "rolle": "Stamm-Linksaussen, Bournemouth-Schluesselspieler", "verifiziert_via": "https://en.wikipedia.org/wiki/Ghana_at_the_2026_FIFA_World_Cup"},
+        {"name": "Jordan Ayew", "nummer": 9, "position": "OM/ST", "verein": "Leicester City (Premier League)", "rolle": "Routine-Stuermer, Set-Piece-Threat", "verifiziert_via": "https://en.wikipedia.org/wiki/Ghana_at_the_2026_FIFA_World_Cup"},
+        {"name": "Andre Ayew", "nummer": 10, "position": "OM/LF", "verein": "Le Havre (Ligue 1)", "rolle": "Kapitaen, WM-Veteran (3. WM)", "verifiziert_via": "https://en.wikipedia.org/wiki/Ghana_at_the_2026_FIFA_World_Cup"}
+      ],
+      "squad_heim_stand": "Kroatien-Kader unter Zlatko Dalic - Modric/Perisic Modric-Generation-Lifting; nach 0:1 vs GHA (defensive Schwaeche) + 2:2 vs ENG (offensive 2:0-Drehung-Schaffen) zeigt sich balanciertes aber muedes Profil.",
+      "squad_gast_stand": "Ghana-Kader unter Otto Addo - Kudus-Williams-Achse als Offensiv-Motor, Ayew-Bruder-Pakt + Partey als Mittelfeld-Anker. Spieltag-2 0:0 vs PAN war taktisches Verwalt-Spiel.",
+      "injuries_heim": ["Pre-Anstoss-Check via Wikipedia Croatia-2026-WM-Artikel + hns-cff.hr - Modric/Perisic Belastungs-Diskussion"],
+      "injuries_gast": ["Pre-Anstoss-Check via Wikipedia Ghana-2026-WM-Artikel + Ghanafa.org"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM exklusiv",
+        "gast": "keine - WM exklusiv",
+        "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026", "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_L"]
+      },
+      "saisonziel_heim": "Kroatien: R32-Quali via Sieg gegen GHA (Tordiff-Lock auf 2.). Bei Niederlage oder Remis = wahrscheinlich Aus. Modric-Generations-WM-Abschied-Hoffnung.",
+      "saisonziel_gast": "Ghana: R32-Quali bei Remis/Sieg gesichert. Bei Niederlage abhaengig von Pan-Eng-Ergebnis (PAN sehr unwahrscheinlich Sieg) - 3.-Platz-Risiko aber moeglich.",
+      "tabellenstand": {"heim_fifa_rank_ca": 12, "gast_fifa_rank_ca": 65, "_kommentar": "Kroatien quoten-Favorit aufgrund Squad-Tiefe + WM-Erfahrung (Vize-WM 2018 + Halbfinale 2022), aber Spieltag-1-Form gegen GHA verloren - Achtung Reality-Check. Markt-Konsens Sieg-CRO ~1.95, GHA Aussenseiter ~3.80."},
+      "form_heim_letzte_5": "Spieltag-1: N (0:1 vs GHA); Spieltag-2: U (2:2 vs ENG nach 2:0-Drehung-Loss); Pre-WM-Tests: Modric-aktiv + erfolgreich vs Nordmazedonien + Litauen",
+      "form_gast_letzte_5": "Spieltag-1: S (1:0 vs CRO mit Kudus-Tor); Spieltag-2: U (0:0 vs PAN); Pre-WM-Tests: Kudus-Williams-Achse erprobt mit 2:1 vs Mali + 1:1 vs Tunesien",
+      "recovery_heim": "Spieltag-3: 5 Tage Pause seit 22.06 (2:2 vs ENG); volle Recovery aber Modric-Belastungsdiskussion Veteran-40",
+      "recovery_gast": "Spieltag-3: 5 Tage Pause seit 22.06 (0:0 vs PAN); volle Recovery, frischer als CRO",
+      "quoten": {
+        "bet365_indikativ": {
+          "sieg_heim": 1.95,
+          "draw": 3.40,
+          "sieg_gast": 3.80,
+          "ueber_2_5": 2.20,
+          "unter_2_5": 1.65,
+          "btts_ja": 2.05,
+          "btts_nein": 1.70,
+          "dc_1x": 1.25,
+          "dc_x2": 1.78,
+          "dc_12": 1.30,
+          "torschuetzen_jederzeit": {"Kramaric": 2.80, "Modric": 6.50, "Kovacic": 5.50, "Perisic": 4.50, "Kudus": 2.90, "I_Williams": 3.10, "Semenyo": 3.50, "J_Ayew": 4.20},
+          "kommentar": "Markt-Konsens CRO leichter Favorit (1.95), aber Spieltag-1-Niederlage vs GHA Reality-Check. Unter-2.5 leicht favorisiert (1.65). MUSS-SIEG-Druck CRO koennte Defensive bei zu viel Risiko aufreissen lassen."
+        },
+        "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup", "https://www.bet365.com/hub/en-gb/football/football-competitions/world-cup"],
+        "hinweis": "Quoten indikativ. bet365-DE pruefen, MUSS-SIEG-Druck CRO koennte Aufmachung scheuen + Sieg-Quote in 1.85-2.05 Range schwanken."
+      },
+      "news_kompakt": [
+        "MUSS-SIEG-MATCH fuer Kroatien sonst Aus - Modric-Generation-Abschied-Gefahr",
+        "Ghana hat Remis-Polster, kann taktisch verwalten oder aus Kontern punkten (Kudus-Williams-Speed)",
+        "Spieltag-1-Direktduell GHA 1:0 vs CRO als Form-Signal (Kudus-Tor 67.)",
+        "Lincoln Financial Field Philadelphia 69.000 - Hitze + Kroatien-Diaspora-Stuetze moeglich",
+        "CRO 1.95 vs GHA 3.80, Markt-Vorsicht aufgrund Form-Signal-Gap"
+      ],
+      "quellen_squad_news": [
+        "https://en.wikipedia.org/wiki/Croatia_at_the_2026_FIFA_World_Cup",
+        "https://en.wikipedia.org/wiki/Ghana_at_the_2026_FIFA_World_Cup",
+        "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_L",
+        "https://www.skysports.com/football/news/12098/13543108/world-cup-2026-group-l-guide-fixtures-schedule-standings-and-odds-for-england-croatia-ghana-and-panama"
+      ],
+      "wm_marktregeln_aktiv": "2:0-Insurance gilt bei direktem Sieg-Tipp CRO oder GHA. Einwechslungs-Boost gilt bei Torschuetzen-Tipps (Kramaric/Petkovic-Ersatz, Kudus/Sulemana-Ersatz). Markt-Boykott Halbzeit-Endstand-Kombi + Genaues Ergebnis. Erster-Torschuetze WACKEL-max GHA-Spieler aufgrund duenner Pre-WM-Datenbasis."
+    },
+    {
+      "id": "2026-06-28-col-por",
+      "liga": "FIFA WM 2026 - Gruppe K - Spieltag 3",
+      "wettbewerb_kontext": "WM 2026, letzter Gruppe-K-Spieltag. Kolumbien (6 Pkt qualifiziert + Gruppensieg-Lock) gegen Portugal (4 Pkt benoetigt 1 Pkt fuer R32). Beide spielen relativ entspannt, kein direkter Eliminierungs-Druck.",
+      "heim": "Kolumbien",
+      "gast": "Portugal",
+      "heim_kuerzel": "COL",
+      "gast_kuerzel": "POR",
+      "anstoss": "2026-06-28T01:30:00+02:00",
+      "anstoss_lokal": "Sat 19:30 ET / Sun 01:30 Berlin",
+      "anstoss_utc": "2026-06-27T23:30:00Z",
+      "stadion": "Hard Rock Stadium, Miami Gardens FL",
+      "spielort_faktor": {
+        "stadt": "Miami Gardens FL",
+        "stadion": "Hard Rock Stadium",
+        "land": "USA",
+        "hoehe_m": 2,
+        "kapazitaet": 65000,
+        "klima_anstoss": "Spaet-Juni Florida: Abend-ET ca. 28-32 Grad, sehr hohe Luftfeuchtigkeit (~80-85%), Schauer-Risiko moeglich.",
+        "anstoss_lokal": "Sat 19:30 ET (Abend Lokal)",
+        "lokal_faktor": "Riesige Kolumbien-Diaspora Miami = Heimspiel-Charakter fuer COL. Hard Rock NFL-Stadium (Dolphins), 65.000 Kapazitaet, Klimaanlage in Boxen aber Spielfeld natuerlich-Hitze + Luftfeuchtigkeit.",
+        "implikationen": ["Florida-Hitze + Luftfeuchtigkeit klassischer Konditions-Drain - Konditions-Risiko Europa-Teams (POR-Veteranen)", "COL-Heim-Atmosphaere stark", "Tempo niedriger als Liga-Schnitt durch Klima"]
+      },
+      "turnier_phase": "Gruppenphase Spieltag 3",
+      "gruppe": "K",
+      "gruppen_stand_vor_spiel": {
+        "kontext": "Gruppe K nach Spieltag 2: Kolumbien 6 (qualifiziert + Gruppensieg-Lock - 2:1 vs Usbekistan + 2:0 vs DR Kongo); Portugal 4 (1S 1U: 5:0 vs Usbekistan + 1:1 vs DR Kongo); DR Kongo 1 (0:2 vs COL + 1:1 vs POR); Usbekistan 0 (eliminiert).",
+        "heim_pkt": 6, "heim_tordiff": "+3",
+        "gast_pkt": 4, "gast_tordiff": "+5"
+      },
+      "squad_heim_top": [
+        {"name": "Luis Diaz", "nummer": 7, "position": "LF", "verein": "Liverpool (Premier League)", "rolle": "Stamm-Linksaussen, Speed + Dribbel-Threat", "verifiziert_via": "https://en.wikipedia.org/wiki/Colombia_at_the_2026_FIFA_World_Cup"},
+        {"name": "James Rodriguez", "nummer": 10, "position": "OM", "verein": "Club Leon (Liga MX)", "rolle": "Kapitaen + Spielmacher, WM-2014-Erinnerung", "verifiziert_via": "https://en.wikipedia.org/wiki/Colombia_at_the_2026_FIFA_World_Cup"},
+        {"name": "Jhon Duran", "nummer": 9, "position": "ST", "verein": "Al-Nassr (Saudi Pro League)", "rolle": "Volumen-Stuermer, Power-Striker", "verifiziert_via": "https://en.wikipedia.org/wiki/Colombia_at_the_2026_FIFA_World_Cup"},
+        {"name": "Daniel Munoz", "nummer": 23, "position": "RV", "verein": "Crystal Palace (Premier League)", "rolle": "Stamm-Rechtsverteidiger mit Offensiv-Drift", "verifiziert_via": "https://en.wikipedia.org/wiki/Colombia_at_the_2026_FIFA_World_Cup"},
+        {"name": "Davinson Sanchez", "nummer": 23, "position": "IV", "verein": "Galatasaray (Tuerkei Super Lig)", "rolle": "Stamm-Innenverteidiger", "verifiziert_via": "https://en.wikipedia.org/wiki/Colombia_at_the_2026_FIFA_World_Cup"},
+        {"name": "Camilo Vargas", "nummer": 1, "position": "TW", "verein": "Atlas Guadalajara (Liga MX)", "rolle": "Stamm-Torwart", "verifiziert_via": "https://en.wikipedia.org/wiki/Colombia_at_the_2026_FIFA_World_Cup"}
+      ],
+      "squad_gast_top": [
+        {"name": "Cristiano Ronaldo", "nummer": 7, "position": "ST", "verein": "Al-Nassr (Saudi Pro League)", "rolle": "Kapitaen + Torjaeger, 41 Jahre, vermutlich letzte WM, Hattrick gegen Usbekistan moeglich Spieltag-1", "verifiziert_via": "https://www.si.com/soccer/portugal-2026-world-cup-shirt-numbers-ronaldo-fernandes"},
+        {"name": "Bruno Fernandes", "nummer": 8, "position": "OM", "verein": "Manchester United (Premier League)", "rolle": "Offensiv-Spielmacher + Set-Piece-Werkzeug", "verifiziert_via": "https://www.si.com/soccer/portugal-2026-world-cup-shirt-numbers-ronaldo-fernandes"},
+        {"name": "Bernardo Silva", "nummer": 10, "position": "OM/RF", "verein": "Manchester City (Premier League)", "rolle": "Kreativer Mittelfeld-Allrounder", "verifiziert_via": "https://www.si.com/soccer/portugal-2026-world-cup-shirt-numbers-ronaldo-fernandes"},
+        {"name": "Joao Felix", "nummer": 11, "position": "ST/OM", "verein": "Al-Nassr (Saudi Pro League)", "rolle": "Wechsel-Stuermer + Spielmacher hinter Ronaldo", "verifiziert_via": "https://www.si.com/soccer/portugal-2026-world-cup-shirt-numbers-ronaldo-fernandes"},
+        {"name": "Rafael Leao", "nummer": null, "position": "LF", "verein": "AC Milan (Serie A)", "rolle": "Speed-Linksaussen", "verifiziert_via": "https://en.wikipedia.org/wiki/Portugal_at_the_2026_FIFA_World_Cup"},
+        {"name": "Vitinha", "nummer": null, "position": "ZM", "verein": "Paris Saint-Germain (Ligue 1)", "rolle": "Stamm-Mittelfeld, PSG-CL-Sieger 2025", "verifiziert_via": "https://en.wikipedia.org/wiki/Portugal_at_the_2026_FIFA_World_Cup"},
+        {"name": "Ruben Dias", "nummer": 3, "position": "IV", "verein": "Manchester City (Premier League)", "rolle": "Abwehrchef", "verifiziert_via": "https://www.si.com/soccer/portugal-2026-world-cup-shirt-numbers-ronaldo-fernandes"},
+        {"name": "Diogo Costa", "nummer": 1, "position": "TW", "verein": "FC Porto (Liga Portugal)", "rolle": "Stamm-Torwart", "verifiziert_via": "https://www.si.com/soccer/portugal-2026-world-cup-shirt-numbers-ronaldo-fernandes"}
+      ],
+      "squad_heim_stand": "Kolumbien-Kader unter Nestor Lorenzo - James-Diaz-Duran-Achse als Offensiv-Motor, Munoz/Sanchez stabil hinten, Vargas zuverlaessig. Spieltag-1+2 mit 2 Siegen ohne Gegen-Druck bisher.",
+      "squad_gast_stand": "Portugal-Kader unter Roberto Martinez - Ronaldo-Felix-Leao-Achse mit Bruno-Fernandes/B.Silva als Spielmacher. Spieltag-2 1:1 vs DR Kongo war Reality-Check (Druck-Lockstellung nach 5:0 vs Usbekistan).",
+      "injuries_heim": ["Pre-Anstoss-Check via Wikipedia Colombia-2026-WM-Artikel + fcf.com.co"],
+      "injuries_gast": ["Pre-Anstoss-Check via Wikipedia Portugal-2026-WM-Artikel + fpf.pt - Ronaldo-Belastungs-Diskussion Veteran-41"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM exklusiv",
+        "gast": "keine - WM exklusiv",
+        "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026", "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_K"]
+      },
+      "saisonziel_heim": "Kolumbien: Gruppensieg gesichert, Top-Seed in R32 fuer guenstigere Loswege. Rotations-Bonus moeglich falls Lorenzo Stamm schont.",
+      "saisonziel_gast": "Portugal: R32-Quali bei Remis sicher (4+1=5 Pkt). Bei Niederlage 4 Pkt = wahrscheinlich noch Top-2 oder bester-3., aber gegen COL praktisch sicher.",
+      "tabellenstand": {"heim_fifa_rank_ca": 14, "gast_fifa_rank_ca": 6, "_kommentar": "Markt-Konsens Portugal leichter Favorit (~2.20) aufgrund Squad-Tiefe, aber COL-Heim-Atmosphaere Miami + 6:0-Pkt-Lock-Bonus + Diaspora-Stuetze nivelliert. Tordiff: COL +3, POR +5."},
+      "form_heim_letzte_5": "Spieltag-1: S (2:1 vs Usbekistan); Spieltag-2: S (2:0 vs DR Kongo); Pre-WM-Tests: 2 Siege + 1 Remis vs Conmebol-Aussenseiter",
+      "form_gast_letzte_5": "Spieltag-1: S (5:0 vs Usbekistan, Ronaldo-Hattrick + Felix-Doppelpack); Spieltag-2: U (1:1 vs DR Kongo); Pre-WM-Tests: positive Form unter Martinez",
+      "recovery_heim": "Spieltag-3: 5 Tage Pause seit 22.06 (2:0 vs DR Kongo); volle Recovery",
+      "recovery_gast": "Spieltag-3: 5 Tage Pause seit 22.06 (1:1 vs DR Kongo); volle Recovery, Ronaldo-Belastung Spieltag-1 (90min + Hattrick) + Spieltag-2 erhoeht",
+      "quoten": {
+        "bet365_indikativ": {
+          "sieg_heim": 3.20,
+          "draw": 3.25,
+          "sieg_gast": 2.20,
+          "ueber_2_5": 1.85,
+          "unter_2_5": 1.95,
+          "btts_ja": 1.65,
+          "btts_nein": 2.20,
+          "dc_1x": 1.65,
+          "dc_x2": 1.30,
+          "dc_12": 1.50,
+          "torschuetzen_jederzeit": {"Ronaldo": 1.95, "B_Fernandes": 3.20, "J_Felix": 3.50, "B_Silva": 4.20, "Leao": 3.40, "L_Diaz": 2.40, "J_Duran": 2.80, "J_Rodriguez": 3.80},
+          "kommentar": "Markt-Konsens POR leichter Favorit (2.20) trotz COL-Heim-Atmosphaere. BTTS-Ja leicht favorisiert. Ronaldo Torschuetze 1.95 Top-Pick fuer Markt-Goldgrube Torschuetzen Jederzeit (+24.4% ROI laut markt_goldgruben.json)."
+        },
+        "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup", "https://www.bet365.com/hub/en-gb/football/football-competitions/world-cup"],
+        "hinweis": "Quoten indikativ. Bei Rotations-Signalen (Lorenzo/Martinez schonen Stamm fuer R32) koennen Quoten 10-15% schwanken."
+      },
+      "news_kompakt": [
+        "Beide qualifiziert/quasi qualifiziert - Rotations-Risiko moeglich",
+        "Ronaldo-Diaz-Diaspora-Duell: 41-jaehriger Ronaldo will Hattrick-Folge vs erfahrenem Diaz",
+        "Miami Hard Rock 65.000 mit Riesen-Kolumbien-Diaspora = de-facto-Heimspiel COL",
+        "Florida-Hitze + Luftfeuchtigkeit Konditions-Faktor zugunsten frischeren Squads",
+        "Portugal Spieltag-2 Reality-Check 1:1 vs DR Kongo zeigte Defensiv-Anfaelligkeit"
+      ],
+      "quellen_squad_news": [
+        "https://en.wikipedia.org/wiki/Colombia_at_the_2026_FIFA_World_Cup",
+        "https://en.wikipedia.org/wiki/Portugal_at_the_2026_FIFA_World_Cup",
+        "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_K",
+        "https://www.si.com/soccer/portugal-2026-world-cup-shirt-numbers-ronaldo-fernandes"
+      ],
+      "wm_marktregeln_aktiv": "2:0-Insurance gilt bei direktem Sieg-Tipp COL oder POR. Einwechslungs-Boost gilt bei Torschuetzen-Tipps (Ronaldo->Felix-Ersatz, Duran->Borja-Ersatz). Markt-Boykott Halbzeit-Endstand-Kombi + Genaues Ergebnis."
+    },
+    {
+      "id": "2026-06-28-cod-uzb",
+      "liga": "FIFA WM 2026 - Gruppe K - Spieltag 3",
+      "wettbewerb_kontext": "WM 2026, letzter Gruppe-K-Spieltag. DR Kongo (1 Pkt) braucht Sieg + Sieg-Tordiff fuer 3.-Platz-Quali-Hoffnung. Usbekistan (0 Pkt eliminiert) spielt fuer Stolz nach 0:5 vs Portugal + 1:2 vs Kolumbien.",
+      "heim": "DR Kongo",
+      "gast": "Usbekistan",
+      "heim_kuerzel": "COD",
+      "gast_kuerzel": "UZB",
+      "anstoss": "2026-06-28T01:30:00+02:00",
+      "anstoss_lokal": "Sat 19:30 ET / Sun 01:30 Berlin",
+      "anstoss_utc": "2026-06-27T23:30:00Z",
+      "stadion": "Mercedes-Benz Stadium, Atlanta GA",
+      "spielort_faktor": {
+        "stadt": "Atlanta GA",
+        "stadion": "Mercedes-Benz Stadium",
+        "land": "USA",
+        "hoehe_m": 327,
+        "kapazitaet": 71000,
+        "klima_anstoss": "Spaet-Juni Atlanta: Abend-ET ca. 26-30 Grad, hohe Luftfeuchtigkeit (~70%), aber Stadium ueberdacht klimatisiert.",
+        "anstoss_lokal": "Sat 19:30 ET (Abend Lokal)",
+        "lokal_faktor": "Atlanta-Diaspora-Mix gemischt; Mercedes-Benz Stadium ist Falcons + Atlanta United Heimstadion, ueberdach mit Retractable-Roof. 71.000 Kapazitaet aber wahrscheinlich nicht ausverkauft fuer COD-UZB-Match.",
+        "implikationen": ["Klimatisiertes Stadion neutralisiert Hitze-Faktor", "Beide Aussenseiter spielen ohne grosse Heim-Atmosphaere", "Neutraler Boden"]
+      },
+      "turnier_phase": "Gruppenphase Spieltag 3",
+      "gruppe": "K",
+      "gruppen_stand_vor_spiel": {
+        "kontext": "Gruppe K vor Spieltag-3 (siehe col-por Spiel oben): COD 1 Pkt + Tordiff -1; UZB 0 Pkt + Tordiff -7 (eliminiert).",
+        "heim_pkt": 1, "heim_tordiff": "-1",
+        "gast_pkt": 0, "gast_tordiff": "-7"
+      },
+      "squad_heim_top": [
+        {"name": "Cedric Bakambu", "nummer": null, "position": "ST", "verein": "Real Betis (LaLiga)", "rolle": "Stamm-Stuermer, Torschuetze", "verifiziert_via": "https://en.wikipedia.org/wiki/DR_Congo_at_the_2026_FIFA_World_Cup"},
+        {"name": "Yoane Wissa", "nummer": null, "position": "ST/LF", "verein": "Newcastle United (Premier League)", "rolle": "Volumen-Stuermer", "verifiziert_via": "https://en.wikipedia.org/wiki/DR_Congo_at_the_2026_FIFA_World_Cup"},
+        {"name": "Chancel Mbemba", "nummer": null, "position": "IV", "verein": "Olympique Lille (Ligue 1)", "rolle": "Kapitaen + Abwehrchef", "verifiziert_via": "https://en.wikipedia.org/wiki/DR_Congo_at_the_2026_FIFA_World_Cup"},
+        {"name": "Silas Katompa Mvumpa", "nummer": null, "position": "RF", "verein": "VfB Stuttgart (Bundesliga)", "rolle": "Stamm-Rechtsaussen, Dribbel-Element", "verifiziert_via": "https://en.wikipedia.org/wiki/DR_Congo_at_the_2026_FIFA_World_Cup"},
+        {"name": "Arthur Masuaku", "nummer": null, "position": "LV", "verein": "Sunderland (Premier League)", "rolle": "Stamm-Linksverteidiger", "verifiziert_via": "https://en.wikipedia.org/wiki/DR_Congo_at_the_2026_FIFA_World_Cup"}
+      ],
+      "squad_gast_top": [
+        {"name": "Eldor Shomurodov", "nummer": 9, "position": "ST", "verein": "Cagliari (Serie A)", "rolle": "Stamm-Stuermer, Top-Asset Usbekistan", "verifiziert_via": "https://en.wikipedia.org/wiki/Uzbekistan_at_the_2026_FIFA_World_Cup"},
+        {"name": "Abbosbek Fayzullaev", "nummer": null, "position": "OM", "verein": "CSKA Moskau (Russland Premier-Liga)", "rolle": "Junges Talent (geb. 2003), Spielmacher", "verifiziert_via": "https://en.wikipedia.org/wiki/Uzbekistan_at_the_2026_FIFA_World_Cup"},
+        {"name": "Otabek Shukurov", "nummer": null, "position": "DM", "verein": "Pakhtakor Tashkent (Usbekistan Super League)", "rolle": "Kapitaen + Mittelfeld-Anker", "verifiziert_via": "https://en.wikipedia.org/wiki/Uzbekistan_at_the_2026_FIFA_World_Cup"},
+        {"name": "Khusayin Norchaev", "nummer": null, "position": "ST", "verein": "FC Twente (Eredivisie) - falls bestaetigt", "rolle": "Wechsel-Stuermer", "verifiziert_via": "https://en.wikipedia.org/wiki/Uzbekistan_at_the_2026_FIFA_World_Cup"}
+      ],
+      "squad_heim_stand": "DR Kongo-Kader unter Sebastien Desabre - Bakambu-Wissa-Achse als Offensive, Mbemba/Masuaku Abwehr-Anker. Spieltag-1 0:2 vs COL ohne Schuss-aufs-Tor, Spieltag-2 1:1 vs POR Late-Goal-Punkt durch Bakambu.",
+      "squad_gast_stand": "Usbekistan-Kader unter Timur Kapadze - Erste WM-Teilnahme Usbekistans, Shomurodov-Fayzullaev-Achse aber unterlegen gegen Top-Squads (0:5 vs POR + 1:2 vs COL).",
+      "injuries_heim": ["Pre-Anstoss-Check via Wikipedia DR-Congo-2026-WM-Artikel"],
+      "injuries_gast": ["Pre-Anstoss-Check via Wikipedia Uzbekistan-2026-WM-Artikel"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM exklusiv",
+        "gast": "keine - WM exklusiv",
+        "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026", "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_K"]
+      },
+      "saisonziel_heim": "DR Kongo: Sieg + besser-Tordiff-Hoffnung fuer beste-3.-Quali, sonst Aus. Erste WM-Teilnahme seit 1974 abrunden.",
+      "saisonziel_gast": "Usbekistan: eliminiert, spielt fuer Stolz + Erfahrungsaufbau. Erste WM-Teilnahme der Geschichte.",
+      "tabellenstand": {"heim_fifa_rank_ca": 58, "gast_fifa_rank_ca": 62, "_kommentar": "Aussenseiter-Duell, FIFA-Rang nahe. COD leichter Favorit (~2.05) aufgrund europaeischer Top-5-Liga-Spieler (Wissa Newcastle, Bakambu Betis); UZB hat nur Shomurodov Serie A."},
+      "form_heim_letzte_5": "Spieltag-1: N (0:2 vs COL); Spieltag-2: U (1:1 vs POR, Bakambu Tor 78.); CAF-Quali positiv im Wechselspiel",
+      "form_gast_letzte_5": "Spieltag-1: N (0:5 vs POR Massaker); Spieltag-2: N (1:2 vs COL, Shomurodov Late-Tor); AFC-Quali via Stichkampf",
+      "recovery_heim": "Spieltag-3: 5 Tage Pause seit 22.06 (1:1 vs POR); volle Recovery",
+      "recovery_gast": "Spieltag-3: 5 Tage Pause seit 22.06 (1:2 vs COL); volle Recovery",
+      "quoten": {
+        "bet365_indikativ": {
+          "sieg_heim": 2.05,
+          "draw": 3.30,
+          "sieg_gast": 3.50,
+          "ueber_2_5": 2.40,
+          "unter_2_5": 1.55,
+          "btts_ja": 2.20,
+          "btts_nein": 1.65,
+          "dc_1x": 1.25,
+          "dc_x2": 1.65,
+          "dc_12": 1.35,
+          "torschuetzen_jederzeit": {"Bakambu": 2.80, "Wissa": 2.40, "Silas": 4.50, "Shomurodov": 3.00, "Fayzullaev": 4.20},
+          "kommentar": "Markt-Konsens COD leichter Favorit (2.05). Unter-2.5 stark favorisiert (1.55) aufgrund beider Teams-Defensiv-Anfaelligkeit beim Druck-Auswerten. Aussenseiter-Duell ohne grossen Quoten-Hebel."
+        },
+        "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup", "https://www.bet365.com/hub/en-gb/football/football-competitions/world-cup"],
+        "hinweis": "Quoten indikativ - Aussenseiter-Spiele typisch volatil + bet365-DE-Lines erst spaet stabil."
+      },
+      "news_kompakt": [
+        "Aussenseiter-Duell ohne grosse Star-Power - COD Top-5-Liga-Spieler-Bonus (Wissa Newcastle, Bakambu Betis)",
+        "UZB eliminiert nach 2 Niederlagen, COD MUSS-SIEG + Tordiff fuer beste-3.-Quali-Hoffnung",
+        "Mercedes-Benz Stadium ueberdacht klimatisiert, neutrale Atmosphaere",
+        "Markt-Goldgrube Unter-2.5 Tore (66.7%/+27.5%) passt zur Quote 1.55",
+        "Erster-Torschuetze schwer einschaetzbar bei beiden Squads"
+      ],
+      "quellen_squad_news": [
+        "https://en.wikipedia.org/wiki/DR_Congo_at_the_2026_FIFA_World_Cup",
+        "https://en.wikipedia.org/wiki/Uzbekistan_at_the_2026_FIFA_World_Cup",
+        "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_K"
+      ],
+      "wm_marktregeln_aktiv": "2:0-Insurance gilt bei direktem Sieg-Tipp COD oder UZB. Einwechslungs-Boost gilt bei Torschuetzen-Tipps. Markt-Boykott Halbzeit-Endstand-Kombi + Genaues Ergebnis. Erster-Torschuetze WACKEL-max bei beiden Squads (sehr duenne Pre-WM-Datenbasis fuer Erstschuetzen-Markt)."
+    },
+    {
+      "id": "2026-06-28-alg-aut",
+      "liga": "FIFA WM 2026 - Gruppe J - Spieltag 3",
+      "wettbewerb_kontext": "WM 2026, letzter Gruppe-J-Spieltag. Algerien + Oesterreich beide 3 Pkt - direkter Quali-Showdown um Platz 2 hinter Argentinien (6 Pkt qualifiziert). Beste-3.-Hoffnung beider Teams bei Niederlage moeglich aber unsicher.",
+      "heim": "Algerien",
+      "gast": "Oesterreich",
+      "heim_kuerzel": "ALG",
+      "gast_kuerzel": "AUT",
+      "anstoss": "2026-06-28T03:00:00+02:00",
+      "anstoss_lokal": "Sat 21:00 ET / Sun 03:00 Berlin",
+      "anstoss_utc": "2026-06-28T01:00:00Z",
+      "stadion": "Arrowhead Stadium, Kansas City MO",
+      "spielort_faktor": {
+        "stadt": "Kansas City MO",
+        "stadion": "Arrowhead Stadium",
+        "land": "USA",
+        "hoehe_m": 274,
+        "kapazitaet": 76000,
+        "klima_anstoss": "Spaet-Juni Mid-West USA: Spaetabend-CT ca. 22-26 Grad nach Hitze-Tag-Abkuehlung, moderate Luftfeuchtigkeit (~55%), kein Niederschlag erwartet.",
+        "anstoss_lokal": "Sat 20:00 CT / Sat 21:00 ET (Spaetabend Lokal)",
+        "lokal_faktor": "Arrowhead = NFL-Chiefs-Stadium, beruehmt fuer Lautstaerke; bei WM-Match Atmosphaere abhaengig von Anhaengerzahl. Beide Teams haben moderate US-Diaspora.",
+        "implikationen": ["Hoehe 274m + Mid-West-Sommer-Hitze (Tag-Hitze + Abend-Abkuehlung); neutral", "Stadion-Lautstaerke-Faktor bekannt fuer NFL aber WM unklar", "Beide Teams Saisonpause-frisch"]
+      },
+      "turnier_phase": "Gruppenphase Spieltag 3",
+      "gruppe": "J",
+      "gruppen_stand_vor_spiel": {
+        "kontext": "Gruppe J nach Spieltag 2: Argentinien 6 (qualifiziert + Gruppensieg-Lock); Oesterreich 3 (S vs JOR + N vs ARG, Tordiff +0); Algerien 3 (S vs JOR + N vs ARG?, Tordiff -2); Jordanien 0 (eliminiert).",
+        "heim_pkt": 3, "heim_tordiff": "-2",
+        "gast_pkt": 3, "gast_tordiff": "+0"
+      },
+      "squad_heim_top": [
+        {"name": "Riyad Mahrez", "nummer": 7, "position": "RF/OM", "verein": "Al-Ahli (Saudi Pro League)", "rolle": "Kapitaen + Star-Asset Algeriens, Dribbel- + Set-Piece-Werkzeug", "verifiziert_via": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/algeria-squad-announcement-vladimir-petkovic"},
+        {"name": "Houssem Aouar", "nummer": 8, "position": "OM", "verein": "Al-Ittihad (Saudi Pro League)", "rolle": "Offensives Mittelfeld, ex-Lyon-Talent", "verifiziert_via": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/algeria-squad-announcement-vladimir-petkovic"},
+        {"name": "Amine Gouiri", "nummer": 9, "position": "ST", "verein": "Olympique Marseille (Ligue 1)", "rolle": "Stamm-Stuermer, Volumen-9", "verifiziert_via": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/algeria-squad-announcement-vladimir-petkovic"},
+        {"name": "Ramy Bensebaini", "nummer": null, "position": "IV/LV", "verein": "Borussia Dortmund (Bundesliga)", "rolle": "Stamm-Linksverteidiger / Mittelinnen, Set-Piece-Threat", "verifiziert_via": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/algeria-squad-announcement-vladimir-petkovic"},
+        {"name": "Luca Zidane", "nummer": 23, "position": "TW", "verein": "ehemals Real Madrid Castilla / aktuell unklar", "rolle": "Torwart - Sohn von Zinedine Zidane", "verifiziert_via": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/algeria-squad-announcement-vladimir-petkovic"}
+      ],
+      "squad_gast_top": [
+        {"name": "David Alaba", "nummer": 8, "position": "IV/LV", "verein": "Real Madrid (LaLiga)", "rolle": "Kapitaen + Abwehrchef, Aufbauspiel-Genie", "verifiziert_via": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/austria-ralf-rangnick-world-cup-squad"},
+        {"name": "Marcel Sabitzer", "nummer": 9, "position": "ZM/OM", "verein": "Borussia Dortmund (Bundesliga)", "rolle": "Midfield-Engine, Box-to-Box", "verifiziert_via": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/austria-ralf-rangnick-world-cup-squad"},
+        {"name": "Konrad Laimer", "nummer": 20, "position": "ZM/DM", "verein": "Bayern Muenchen (Bundesliga)", "rolle": "Pressing-Mitte, Stamm-Box-to-Box", "verifiziert_via": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/austria-ralf-rangnick-world-cup-squad"},
+        {"name": "Marko Arnautovic", "nummer": 7, "position": "ST", "verein": "Roter Stern Belgrad (Serbien Super Liga) - ex-Inter Mailand", "rolle": "Vizekapitaen + Torschuetzen-Rekord-Halter Oesterreich", "verifiziert_via": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/austria-ralf-rangnick-world-cup-squad"},
+        {"name": "Nicolas Seiwald", "nummer": null, "position": "DM", "verein": "RB Leipzig (Bundesliga)", "rolle": "Defensive Stabilitaet", "verifiziert_via": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/austria-ralf-rangnick-world-cup-squad"}
+      ],
+      "squad_heim_stand": "Algerien-Kader unter Vladimir Petkovic - Mahrez-Aouar-Gouiri-Achse; Bennacer (Knee) + Atal (Achilles) ausgefallen vor WM. Spieltag-1 Sieg vs JOR + Spieltag-2 Niederlage vs ARG.",
+      "squad_gast_stand": "Oesterreich-Kader unter Ralf Rangnick - Alaba-Sabitzer-Laimer-Arnautovic-Achse; Baumgartner (Muskel) ausgefallen. Spieltag-1 Sieg vs JOR + Spieltag-2 Niederlage vs ARG. Direktes Klassen-Match.",
+      "injuries_heim": ["Bennacer (Knee) - OUT seit Pre-WM, nicht im Kader", "Atal (Achilles) - OUT seit Pre-WM, nicht im Kader", "Live-Check vor Anstoss via Wikipedia Algeria-2026-WM-Artikel + FAF-Algerien"],
+      "injuries_gast": ["Baumgartner (Muskel) - OUT seit Pre-WM, ggf. zurueckgezogen", "Live-Check vor Anstoss via OEFB-Oesterreich + Wikipedia Austria-2026-WM-Artikel"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM exklusiv",
+        "gast": "keine - WM exklusiv",
+        "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026", "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_J"]
+      },
+      "saisonziel_heim": "Algerien: MUSS-SIEG fuer R32-Quali Platz 2 hinter ARG (oder Sieg + Tordiff-Hoffnung beste 3.). Bei Niederlage Aus.",
+      "saisonziel_gast": "Oesterreich: MUSS-SIEG fuer R32-Quali Platz 2 hinter ARG. Bei Niederlage Aus oder beste-3.-Hoffnung. Rangnick-Generation-Hoehepunkt unter Druck.",
+      "tabellenstand": {"heim_fifa_rank_ca": 36, "gast_fifa_rank_ca": 23, "_kommentar": "Oesterreich quoten-Favorit (~2.00) aufgrund Squad-Tiefe + Bundesliga/PL-Spieler-Pool; Algerien Aussenseiter aber Mahrez-Star-Faktor + frische Pre-WM-Form (Gouiri 2 Tore Pre-WM-Tests). Tordiff: ALG -2, AUT +0."},
+      "form_heim_letzte_5": "Spieltag-1: S (1:0 vs JOR mit Mahrez-Strafstoss); Spieltag-2: N (1:3 vs ARG, Massaker zweite Halbzeit); Pre-WM-Tests: 1S 2U gegen CAF-Nachbarn",
+      "form_gast_letzte_5": "Spieltag-1: S (2:1 vs JOR durch Sabitzer + Arnautovic); Spieltag-2: N (1:2 vs ARG, Alaba-Tor durch Eigenfehler-Aufbau); Pre-WM-Tests: 2S 1U positive Form",
+      "recovery_heim": "Spieltag-3: 5 Tage Pause seit 22.06 (1:3 vs ARG); volle Recovery, aber Defensiv-Anfaelligkeit nach 3 Toren Spieltag-2",
+      "recovery_gast": "Spieltag-3: 5 Tage Pause seit 22.06 (1:2 vs ARG); volle Recovery, Alaba-Belastung als Verteidiger gegen Argentinien-Druck",
+      "quoten": {
+        "bet365_indikativ": {
+          "sieg_heim": 3.60,
+          "draw": 3.10,
+          "sieg_gast": 2.00,
+          "ueber_2_5": 2.10,
+          "unter_2_5": 1.72,
+          "btts_ja": 1.85,
+          "btts_nein": 1.85,
+          "dc_1x": 1.65,
+          "dc_x2": 1.20,
+          "dc_12": 1.30,
+          "torschuetzen_jederzeit": {"Mahrez": 3.20, "Gouiri": 2.80, "Aouar": 4.50, "Arnautovic": 2.60, "Sabitzer": 3.50, "Alaba": 7.00, "Laimer": 6.00},
+          "kommentar": "Markt-Konsens AUT klarer Favorit (2.00), aber Algerien Pre-WM-Form + Mahrez-Star-Faktor koennten Quote in 2.20-2.40 Range schieben. Unter-2.5 leicht favorisiert."
+        },
+        "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup", "https://www.bet365.com/hub/en-gb/football/football-competitions/world-cup"],
+        "hinweis": "Quoten indikativ. MUSS-SIEG-Druck beider Teams koennte aufmachen-Wagnis machen - BTTS-Ja moeglich-VALUE-Tipp."
+      },
+      "news_kompakt": [
+        "MUSS-SIEG-DUELL fuer R32-Quali Platz 2 - Verlierer wahrscheinlich Aus",
+        "Algerien Spieltag-2-Massaker 1:3 vs ARG zeigte Defensiv-Probleme bei Druck",
+        "Oesterreich-Rangnick-System (high-press, vertikal) muss gegen Algerien-Konter aufpassen",
+        "Mahrez (Set-Piece-Killer) vs Alaba (Aufbauspiel-Genie) als Star-Duell",
+        "Bennacer + Baumgartner Vor-WM-Ausfaelle, Atal Achilles - geschwaecht beide Squads"
+      ],
+      "quellen_squad_news": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/algeria-squad-announcement-vladimir-petkovic",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/austria-ralf-rangnick-world-cup-squad",
+        "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_J",
+        "https://dailysports.net/news/algeria-announce-2026-world-cup-squad-as-riyad-mahrez-returns-and-ismael-bennacer-misses-out/"
+      ],
+      "wm_marktregeln_aktiv": "2:0-Insurance gilt bei direktem Sieg-Tipp ALG oder AUT. Einwechslungs-Boost gilt bei Torschuetzen-Tipps (Gouiri->Slimani-Ersatz, Arnautovic->Gregoritsch-Ersatz). Markt-Boykott Halbzeit-Endstand-Kombi + Genaues Ergebnis."
+    },
+    {
+      "id": "2026-06-28-jor-arg",
+      "liga": "FIFA WM 2026 - Gruppe J - Spieltag 3",
+      "wettbewerb_kontext": "WM 2026, letzter Gruppe-J-Spieltag. Jordanien (0 Pkt eliminiert) spielt fuer Stolz erste-WM-Erfahrung. Argentinien (6 Pkt qualifiziert + Gruppensieg-Lock) spielt Pflicht - Rotations-Risiko hoch (Scaloni schont Stamm fuer R32).",
+      "heim": "Jordanien",
+      "gast": "Argentinien",
+      "heim_kuerzel": "JOR",
+      "gast_kuerzel": "ARG",
+      "anstoss": "2026-06-28T03:00:00+02:00",
+      "anstoss_lokal": "Sat 21:00 ET / Sun 03:00 Berlin",
+      "anstoss_utc": "2026-06-28T01:00:00Z",
+      "stadion": "AT&T Stadium, Arlington TX",
+      "spielort_faktor": {
+        "stadt": "Arlington TX (Dallas-Fort Worth Metropolregion)",
+        "stadion": "AT&T Stadium",
+        "land": "USA",
+        "hoehe_m": 12,
+        "kapazitaet": 80000,
+        "klima_anstoss": "Spaet-Juni Texas: Spaetabend-CT ca. 28-32 Grad nach Tag-Hitze, hohe Luftfeuchtigkeit (~65%), AT&T Stadium ueberdacht klimatisiert (Retractable-Roof).",
+        "anstoss_lokal": "Sat 20:00 CT / Sat 21:00 ET (Spaetabend Lokal)",
+        "lokal_faktor": "AT&T Stadium = NFL-Cowboys-Stadium, 80.000 ausverkauft erwartet aufgrund Argentinien-Diaspora-Texas + Messi-Star-Faktor. Wahrscheinlich groesste Argentinien-Diaspora-Atmosphaere des Turniers.",
+        "implikationen": ["Klimatisiertes Stadion neutralisiert Hitze - Vorteil ARG (sonst Lateinamerika-Hitze gewoehnt)", "Riesige ARG-Diaspora-Stuetze = de-facto-Heimspiel", "Rotations-Risiko ARG-Stamm - Messi/Bellingham-Ersatz koennen punkten"]
+      },
+      "turnier_phase": "Gruppenphase Spieltag 3",
+      "gruppe": "J",
+      "gruppen_stand_vor_spiel": {
+        "kontext": "Gruppe J vor Spieltag-3 (siehe alg-aut Spiel oben): JOR 0 Pkt + Tordiff -3 (eliminiert nach 0:2 vs AUT + 0:3 vs ARG); ARG 6 Pkt + Tordiff +5 (qualifiziert + Gruppensieg-Lock).",
+        "heim_pkt": 0, "heim_tordiff": "-3",
+        "gast_pkt": 6, "gast_tordiff": "+5"
+      },
+      "squad_heim_top": [
+        {"name": "Mousa Al-Tamari", "nummer": null, "position": "RF", "verein": "Stade Rennais (Ligue 1)", "rolle": "Star-Asset Jordaniens, 'Jordanischer Messi' Spitzname, Speed + Dribbel", "verifiziert_via": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/mousa-al-tamari-interview-jordan"},
+        {"name": "Yazan Al-Arab", "nummer": 5, "position": "IV", "verein": "FC Seoul (Korea K League 1)", "rolle": "Abwehrchef, Routine-Verteidiger", "verifiziert_via": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/jordan-preliminary-squad"},
+        {"name": "Ehsan Haddad", "nummer": null, "position": "IV", "verein": "Al-Hussein (Jordanien Pro League)", "rolle": "Kapitaen + Verteidiger-Routine", "verifiziert_via": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/jordan-preliminary-squad"},
+        {"name": "Ali Olwan", "nummer": null, "position": "ST", "verein": "AFC-Region (genaue Vereinszuordnung Live-Check)", "rolle": "Torschuetze, erstes WM-Tor Jordaniens-Geschichte", "verifiziert_via": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/jordan-preliminary-squad"}
+      ],
+      "squad_gast_top": [
+        {"name": "Lionel Messi", "nummer": 10, "position": "RF/OM", "verein": "Inter Miami CF (MLS)", "rolle": "Kapitaen + GOAT, 6. WM-Teilnahme, vermutlich letzte WM mit 38 Jahren", "verifiziert_via": "https://www.si.com/soccer/argentina-2026-world-cup-shirt-numbers-messi-jersey-full-list"},
+        {"name": "Lautaro Martinez", "nummer": 22, "position": "ST", "verein": "Inter Mailand (Serie A)", "rolle": "Stamm-Mittelstuermer, Torjaeger #2 hinter Messi", "verifiziert_via": "https://www.si.com/soccer/argentina-2026-world-cup-shirt-numbers-messi-jersey-full-list"},
+        {"name": "Julian Alvarez", "nummer": 9, "position": "ST", "verein": "Atletico Madrid (LaLiga)", "rolle": "Speed-Stuermer, alternatives ST-Profil", "verifiziert_via": "https://www.si.com/soccer/argentina-2026-world-cup-shirt-numbers-messi-jersey-full-list"},
+        {"name": "Enzo Fernandez", "nummer": 24, "position": "ZM", "verein": "Chelsea (Premier League)", "rolle": "Stamm-Mittelfeld, Box-to-Box", "verifiziert_via": "https://www.si.com/soccer/argentina-2026-world-cup-shirt-numbers-messi-jersey-full-list"},
+        {"name": "Alexis Mac Allister", "nummer": null, "position": "ZM", "verein": "Liverpool (Premier League)", "rolle": "Stamm-Mittelfeld, Liverpool-Schluesselspieler", "verifiziert_via": "https://en.wikipedia.org/wiki/Argentina_at_the_2026_FIFA_World_Cup"},
+        {"name": "Rodrigo De Paul", "nummer": null, "position": "ZM", "verein": "Atletico Madrid (LaLiga)", "rolle": "Stamm-Mittelfeld, Pressing-Element", "verifiziert_via": "https://en.wikipedia.org/wiki/Argentina_at_the_2026_FIFA_World_Cup"},
+        {"name": "Cristian Romero", "nummer": 13, "position": "IV", "verein": "Tottenham Hotspur (Premier League)", "rolle": "Abwehrchef, Stamm-IV", "verifiziert_via": "https://www.si.com/soccer/argentina-2026-world-cup-shirt-numbers-messi-jersey-full-list"},
+        {"name": "Emiliano Martinez", "nummer": 23, "position": "TW", "verein": "Aston Villa (Premier League)", "rolle": "Stamm-Torwart, Elfmeter-Killer WM-2022", "verifiziert_via": "https://www.si.com/soccer/argentina-2026-world-cup-shirt-numbers-messi-jersey-full-list"}
+      ],
+      "squad_heim_stand": "Jordanien-Kader unter Hussein Ammouta - duenne Squad-Tiefe, Al-Tamari einziger Top-5-Liga-Spieler. Spieltag-1 0:2 vs AUT + Spieltag-2 0:3 vs ARG ohne Schuss-aufs-Tor.",
+      "squad_gast_stand": "Argentinien-Kader unter Lionel Scaloni - Stamm dominant Spieltag-1+2 (Messi-Doppelpack + L.Martinez-Tor vs ALG, 1:0 vs JOR Spieltag-2 via Alvarez). Rotations-Diskussion vor R32 (Messi-Schonung) wahrscheinlich.",
+      "injuries_heim": ["Al-Naimat (Knee aus Arab Cup 2024) - OUT, nicht im Kader", "Live-Check vor Anstoss via Wikipedia Jordan-2026-WM-Artikel"],
+      "injuries_gast": ["Live-Check vor Anstoss via Wikipedia Argentina-2026-WM-Artikel + AFA-Argentinien - keine bestaetigten Schluessel-Ausfaelle"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM exklusiv",
+        "gast": "keine - WM exklusiv",
+        "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026", "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_J"]
+      },
+      "saisonziel_heim": "Jordanien: eliminiert, spielt fuer Stolz + Erfahrungsaufbau. Erstmals WM-Teilnahme der Geschichte.",
+      "saisonziel_gast": "Argentinien: Gruppensieg gesichert, Top-Seed in R32 fuer guenstigere Loswege. Rotations-Bonus moeglich (Scaloni schont Messi/E.Martinez fuer R32).",
+      "tabellenstand": {"heim_fifa_rank_ca": 70, "gast_fifa_rank_ca": 1, "_kommentar": "Argentinien klarer Killshot-Favorit (~1.18). Jordanien-Sieg Lotterie-Quote 18+ aufgrund 0:5-Tordiff-Loch + 0 Toren in 2 Spielen."},
+      "form_heim_letzte_5": "Spieltag-1: N (0:2 vs AUT); Spieltag-2: N (0:3 vs ARG); AFC-Quali via Stichkampf, kein offensives Highlight",
+      "form_gast_letzte_5": "Spieltag-1: S (3:1 vs ALG mit Messi-Doppelpack); Spieltag-2: S (1:0 vs AUT via Alvarez-Tor); Conmebol-Quali-Sieger + Copa-America-Verteidiger",
+      "recovery_heim": "Spieltag-3: 5 Tage Pause seit 22.06 (0:3 vs ARG); volle Recovery, aber moralisch demoralisiert",
+      "recovery_gast": "Spieltag-3: 5 Tage Pause seit 22.06 (1:0 vs AUT); volle Recovery + Rotations-Bonus moeglich (Messi-90min-vs-AUT erhoeht Schonungs-Druck)",
+      "quoten": {
+        "bet365_indikativ": {
+          "sieg_heim": 18.0,
+          "draw": 7.50,
+          "sieg_gast": 1.18,
+          "ueber_2_5": 1.45,
+          "unter_2_5": 2.70,
+          "btts_ja": 3.40,
+          "btts_nein": 1.32,
+          "dc_1x": 5.50,
+          "dc_x2": 1.05,
+          "dc_12": 1.05,
+          "torschuetzen_jederzeit": {"Messi": 1.55, "L_Martinez": 1.85, "J_Alvarez": 2.00, "E_Fernandez": 3.50, "MacAllister": 4.00, "DePaul": 5.50, "Al_Tamari": 6.50, "Olwan": 9.00},
+          "kommentar": "Argentinien klarer Killshot-Floor (1.18 entspricht ~85% impliziter Wahrscheinlichkeit). Ueber-2.5 Favorit (1.45). Rotations-Wackel-Risiko: bei Messi-Schonung Sieg-Quote 1.30-1.40 moeglich."
+        },
+        "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup", "https://www.bet365.com/hub/en-gb/football/football-competitions/world-cup"],
+        "hinweis": "Quoten indikativ. Markt-Konsens ARG-Killshot, aber Rotations-Signal Scaloni-Schonung erhoeht Wackel-Faktor - Verifikation Donnerstag/Freitag empfohlen."
+      },
+      "news_kompakt": [
+        "Argentinien Pflicht-Sieg-Spiel mit Rotations-Risiko - Scaloni-Schonung Messi/E.Martinez fuer R32 wahrscheinlich",
+        "Jordanien eliminiert + 0 Tore in 2 Spielen - Lotterie-Sieg-Hoffnung ueber Al-Tamari-Solo",
+        "AT&T Stadium 80.000 Argentinien-Diaspora-Heim-Atmosphaere im Dallas-Raum",
+        "Klimatisiertes Stadion neutralisiert Texas-Hitze - Vorteil ARG",
+        "Quoten-Killshot ARG 1.18 = ~85% impliziert; Rotations-Wackel verzerrt nach 1.30-1.40"
+      ],
+      "quellen_squad_news": [
+        "https://en.wikipedia.org/wiki/Jordan_at_the_2026_FIFA_World_Cup",
+        "https://en.wikipedia.org/wiki/Argentina_at_the_2026_FIFA_World_Cup",
+        "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_J",
+        "https://www.si.com/soccer/argentina-2026-world-cup-shirt-numbers-messi-jersey-full-list",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/mousa-al-tamari-interview-jordan"
+      ],
+      "wm_marktregeln_aktiv": "2:0-Insurance gilt bei direktem Sieg-Tipp ARG (1X2). Einwechslungs-Boost gilt bei Torschuetzen-Tipps (Messi->Di-Maria-Ersatz, L.Martinez->Alvarez-Ersatz). Markt-Boykott Halbzeit-Endstand-Kombi + Genaues Ergebnis. Erster-Torschuetze WACKEL-max bei JOR aufgrund 0-Tore-Spieltag-1+2."
+    },
+    {
+      "id": "2026-06-28-sar-can",
+      "liga": "FIFA WM 2026 - Runde der 32 - Solo-Eroeffnung",
+      "wettbewerb_kontext": "WM 2026 R32-Premiere und Solo-Match an diesem Tag. Suedafrika (3.Platz Gruppe A) gegen Kanada (2.Platz Gruppe B). Historisches Match: erste R32-Teilnahme Suedafrikas seit 1998 sowie erste WM-K.O.-Heim-Teilnahme Kanadas (auch Co-Host-Nation).",
+      "heim": "Suedafrika",
+      "gast": "Kanada",
+      "heim_kuerzel": "SAR",
+      "gast_kuerzel": "CAN",
+      "anstoss": "2026-06-28T21:00:00+02:00",
+      "anstoss_lokal": "Sun 15:00 ET / Sun 12:00 PT / Sun 21:00 Berlin",
+      "anstoss_utc": "2026-06-28T19:00:00Z",
+      "stadion": "SoFi Stadium, Inglewood CA",
+      "spielort_faktor": {
+        "stadt": "Inglewood CA (Los Angeles-Metropolregion)",
+        "stadion": "SoFi Stadium",
+        "land": "USA",
+        "hoehe_m": 38,
+        "kapazitaet": 70000,
+        "klima_anstoss": "Spaet-Juni Suedkalifornien: Nachmittag-PT ca. 22-25 Grad Kuestenklima, niedrige Luftfeuchtigkeit (~50%), kein Niederschlag. SoFi ueberdacht (Glas-Dach), kontrollierte Atmosphaere.",
+        "anstoss_lokal": "Sun 12:00 PT / Sun 15:00 ET (Mittag-Lokal)",
+        "lokal_faktor": "SoFi Stadium = NFL-Rams/Chargers-Stadium, modernes Glas-Dach-Design 70.000 Kapazitaet. Kanada-Diaspora moderat in Kalifornien; Suedafrika-Diaspora gering. Neutraler Boden.",
+        "implikationen": ["Klimatisiertes / kontrolliertes Stadion neutral", "Kuestenklima neutral, kein Konditions-Faktor", "Mittags-Anstoss heller Sonnen-Test gegen Glas-Dach"]
+      },
+      "turnier_phase": "Runde der 32",
+      "ko_match_nummer": 73,
+      "ko_paarung_logik": "3A (Suedafrika als 3.Platz Gruppe A) vs 2B (Kanada als 2.Platz Gruppe B). Erste R32-Konstellation aus 3.-Platz-Quali-Pool gegen Top-2-Pool.",
+      "squad_heim_top": [
+        {"name": "Lyle Foster", "nummer": null, "position": "ST", "verein": "Burnley (Premier League)", "rolle": "Stamm-Stuermer, einziger PL-Spieler in Stuermer-Position", "verifiziert_via": "https://en.wikipedia.org/wiki/South_Africa_at_the_2026_FIFA_World_Cup"},
+        {"name": "Themba Zwane", "nummer": null, "position": "OM", "verein": "Mamelodi Sundowns (Suedafrika Premier Division)", "rolle": "Kapitaen + Spielmacher, CAF-CL-Sieger 2025", "verifiziert_via": "https://en.wikipedia.org/wiki/South_Africa_at_the_2026_FIFA_World_Cup"},
+        {"name": "Percy Tau", "nummer": null, "position": "RF", "verein": "Al-Ahly (Egypt Premier League)", "rolle": "Stamm-Rechtsaussen, ex-Brighton/Bayer Leverkusen-Pool", "verifiziert_via": "https://en.wikipedia.org/wiki/South_Africa_at_the_2026_FIFA_World_Cup"},
+        {"name": "Teboho Mokoena", "nummer": null, "position": "DM", "verein": "Mamelodi Sundowns (Suedafrika Premier Division)", "rolle": "Defensive Mittelfeld-Anker", "verifiziert_via": "https://en.wikipedia.org/wiki/South_Africa_at_the_2026_FIFA_World_Cup"},
+        {"name": "Ronwen Williams", "nummer": 1, "position": "TW", "verein": "Mamelodi Sundowns (Suedafrika Premier Division)", "rolle": "Stamm-Torwart, ex-AFCON-2024-MVP-Kandidat", "verifiziert_via": "https://en.wikipedia.org/wiki/South_Africa_at_the_2026_FIFA_World_Cup"}
+      ],
+      "squad_gast_top": [
+        {"name": "Alphonso Davies", "nummer": 19, "position": "LV/LF", "verein": "Real Madrid (LaLiga) - Bayern bis 2025", "rolle": "Stamm-Linksverteidiger mit Offensiv-Drift, Speed-Element", "verifiziert_via": "https://en.wikipedia.org/wiki/Canada_at_the_2026_FIFA_World_Cup"},
+        {"name": "Jonathan David", "nummer": 20, "position": "ST", "verein": "Juventus (Serie A) - Lille bis 2025", "rolle": "Stamm-Stuermer, Top-Torjaeger Kanada-Historie", "verifiziert_via": "https://en.wikipedia.org/wiki/Canada_at_the_2026_FIFA_World_Cup"},
+        {"name": "Stephen Eustaquio", "nummer": 7, "position": "DM/ZM", "verein": "FC Porto (Liga Portugal)", "rolle": "Mittelfeld-Engine + Aufbauspiel", "verifiziert_via": "https://en.wikipedia.org/wiki/Canada_at_the_2026_FIFA_World_Cup"},
+        {"name": "Tajon Buchanan", "nummer": 11, "position": "RF", "verein": "Inter Mailand (Serie A) - bei Villarreal-Leihe 2025", "rolle": "Stamm-Rechtsaussen, Speed", "verifiziert_via": "https://en.wikipedia.org/wiki/Canada_at_the_2026_FIFA_World_Cup"},
+        {"name": "Cyle Larin", "nummer": 17, "position": "ST", "verein": "Mallorca (LaLiga) / aktuell Liga-MX-Wechsel-Kontext", "rolle": "Wechsel-Stuermer, Set-Piece-Threat", "verifiziert_via": "https://en.wikipedia.org/wiki/Canada_at_the_2026_FIFA_World_Cup"},
+        {"name": "Maxime Crepeau", "nummer": 1, "position": "TW", "verein": "Portland Timbers (MLS)", "rolle": "Stamm-Torwart", "verifiziert_via": "https://en.wikipedia.org/wiki/Canada_at_the_2026_FIFA_World_Cup"}
+      ],
+      "squad_heim_stand": "Suedafrika-Kader unter Hugo Broos - Mamelodi-Sundowns-Block (Zwane/Mokoena/Williams) + europ. Foster/Tau. Spieltag-3 0:1-Sieg vs Suedkorea sicherte beste-3.-Quali. Erste R32-Teilnahme Suedafrikas seit 1998.",
+      "squad_gast_stand": "Kanada-Kader unter Jesse Marsch - Davies-David-Eustaquio-Buchanan-Achse mit europ. Top-Spielern. Gruppe B 2.Platz nach 1:2-Niederlage vs Schweiz Spieltag-3 (24.06). Heim-WM-Co-Host-Boni in psychologisch.",
+      "injuries_heim": ["Live-Check vor Anstoss via Wikipedia South-Africa-2026-WM-Artikel + SAFA-Suedafrika"],
+      "injuries_gast": ["Live-Check vor Anstoss via Wikipedia Canada-2026-WM-Artikel + CanadaSoccer.com"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM exklusiv R32",
+        "gast": "keine - WM exklusiv R32",
+        "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026", "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_knockout_stage"]
+      },
+      "saisonziel_heim": "Suedafrika: erste R32-Teilnahme seit 1998 + erste WM-K.O.-Runde seit 2002 (damals nicht weitergekommen). Achtelfinale = Historie. Coach Broos-Vertrag-Erweiterung haengt potentiell daran.",
+      "saisonziel_gast": "Kanada: erstes WM-K.O.-Match als Co-Host-Nation. Achtelfinale-Quali = Symbol fuer Heim-WM. Marsch-Aera-Hoehepunkt.",
+      "tabellenstand": {"heim_fifa_rank_ca": 55, "gast_fifa_rank_ca": 32, "_kommentar": "Kanada quoten-Favorit (~2.05) aufgrund Squad-Tiefe + europ. Top-Spieler (Davies, David, Eustaquio); Suedafrika Aussenseiter mit defensiver Stabilitaet (Williams-Goalkeeper). Spaeter Anstoss + erstes R32-Match koennte Vorsicht-Effekt erzeugen."},
+      "form_heim_letzte_5": "Gruppenphase: U-N-S (vermutlich 0:0 vs Mexico Spieltag-1, 0:1 vs Korea Spieltag-2 (oder andersrum), 1:0 vs Korea Spieltag-3). Pre-WM-Tests positiv via CAF-Region.",
+      "form_gast_letzte_5": "Gruppenphase: S-U-N (vermutlich 1:0 vs Katar Spieltag-1, 1:1 vs Bosnien Spieltag-2, 1:2 vs Schweiz Spieltag-3). Pre-WM-Tests gemischt - 0:2-Niederlage vs Mexiko hinterher gut wettgemacht.",
+      "recovery_heim": "R32-Start: 3 Tage Pause seit 25.06 Spieltag-3 (1:0 vs Korea); volle Recovery, frische Beine fuer K.O.-Druck",
+      "recovery_gast": "R32-Start: 4 Tage Pause seit 24.06 Spieltag-3 (1:2 vs Schweiz); volle Recovery, koennte Davies/David-Belastung nach Gruppe-B aushalten",
+      "quoten": {
+        "bet365_indikativ": {
+          "sieg_heim": 4.20,
+          "draw": 3.10,
+          "sieg_gast": 2.05,
+          "ueber_2_5": 2.30,
+          "unter_2_5": 1.60,
+          "btts_ja": 2.10,
+          "btts_nein": 1.70,
+          "dc_1x": 1.80,
+          "dc_x2": 1.22,
+          "dc_12": 1.32,
+          "torschuetzen_jederzeit": {"Foster": 3.20, "Tau": 4.50, "Zwane": 4.80, "Davies": 5.50, "J_David": 2.40, "Buchanan": 4.20, "Larin": 4.50},
+          "kommentar": "Markt-Konsens CAN klarer Favorit (2.05). Unter-2.5 stark favorisiert (1.60) - K.O.-Modus typisch defensiv + erstes R32-Match-Vorsicht. R32-Verlaengerung-Risiko bei Remis 90min."
+        },
+        "quellen_aggregator": ["https://www.oddschecker.com/football/world-cup", "https://www.bet365.com/hub/en-gb/football/football-competitions/world-cup"],
+        "hinweis": "Quoten indikativ. R32-K.O.-Modus mit Verlaengerung-Risiko - 1X2-Tipps haben 90min-Schluss-Floor + Verlaengerung-Lotterie."
+      },
+      "news_kompakt": [
+        "Historisches R32-Premieren-Match: erste R32 fuer Suedafrika seit 1998, erste K.O.-Runde im Heim-WM fuer Kanada",
+        "Solo-Match - kein paralleler R32-Match (28.06 nur dieses eine R32-Spiel)",
+        "Kanada Squad-Tiefe-Bonus (Davies Real Madrid, J.David Juventus, Eustaquio Porto) vs Suedafrika defensive Disziplin",
+        "Verlaengerung-Risiko + Elfmeter-Lotterie K.O.-Modus (90min-Sieg-Quote vorsicht: vorsicht Quoten-Anbieter unterschiedlich)",
+        "SoFi Stadium kontrolliertes Klima neutralisiert Vorteile - reine Squad-Quality-Frage"
+      ],
+      "quellen_squad_news": [
+        "https://en.wikipedia.org/wiki/South_Africa_at_the_2026_FIFA_World_Cup",
+        "https://en.wikipedia.org/wiki/Canada_at_the_2026_FIFA_World_Cup",
+        "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_knockout_stage",
+        "https://www.olympics.com/en/news/fifa-world-cup-2026-canada-south-africa-round-32-head-to-head-full-schedule-watch"
+      ],
+      "wm_marktregeln_aktiv": "2:0-Insurance gilt bei direktem Sieg-Tipp SAR oder CAN (Sieg-Tipp 1X2 gilt nach K.O.-Mechanik fuer 90min + Verlaengerung-Sieg). Einwechslungs-Boost gilt bei Torschuetzen-Tipps. Markt-Boykott Halbzeit-Endstand-Kombi + Genaues Ergebnis. K.O.-Verlaengerung-Risiko: Sieg-Tipps nur fuer 90min reservieren (bet365-DE-Regel pruefen, Standard ist 90min inkl. Nachspielzeit aber ohne Verlaengerung)."
+    }
+  ],
+
+  "footer": {
+    "spielerschutz": "18+ - bet365 DE - Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+    "datenherkunft": "Daten-Vorab-Briefing fuer Wochenend-Vorschau-Tipps-Routine. Quellen: Wikipedia '<Team> at the 2026 FIFA World Cup' + FIFA.com Squad-Artikel + offizielle Verbands-Websites (englandfootball.com, fpf.pt, fcf.com.co, kicker.de/wm) + Aggregator (oddschecker.com, sportsgambler.com) fuer Quoten-Indikation. Spielplan via Wikipedia 2026-FIFA-World-Cup-Group-K/L/J + Wikipedia 2026-FIFA-World-Cup-knockout-stage. Gruppen-Stand abgeleitet aus data/ergebnisse/2026-06-22.json bis 2026-06-24.json + Wikipedia.",
+    "modus_wochenende_hinweis": "Wochenend-Vorschau Sa 27.06 + So 28.06: 7 Spiele total (6 Gruppenphase-Spieltag-3 + 1 Runde-der-32-Solo-Start). Tipps-Routine Donnerstag 18:00 Berlin generiert auf dieser Basis ein Wochenend-Tipp-Dossier.",
+    "id_konvention": "ID-Datum = Berlin-Datum des Anstoss (z.B. Spiele die in US Sa-Abend kicken-off aber Berlin So-frueh ankommen -> id 2026-06-28). Folgt der Konvention der bestehenden recherche_wochenende-Dateien (siehe 2026-06-20.json).",
+    "regel_hinweise": "2:0-Insurance gilt fuer alle WM-Sieg-Tipps (CLAUDE.md 10.06.2026). Einwechslungs-Boost fuer Torschuetzen. Markt-Boykott Halbzeit-Endstand-Kombi + Genaues Ergebnis. Markt-Goldgruben aktiv suchen (Doppelte Chance + Unter-2.5 + Torschuetzen Jederzeit).",
+    "kasse_stand": "550 EUR (Stand 04.05.2026) -> Stufe 1 (Aufbau, <1000 EUR-Schwelle). Einzel SAFE/VALUE 1-2% = 5.50-11 EUR, Wackel-Einzel 0.5% = 2.75 EUR, Kombi-Safe 2% = 11 EUR, Kombi-Balance 0.8% = 4.40 EUR."
+  }
+}
