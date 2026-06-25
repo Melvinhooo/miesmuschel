@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS = {
+{
   "datum": "2026-06-25",
   "erstellt_am": "2026-06-25T17:15:00+02:00",
   "hinweis": "Watchdog-Recovery Mo-Fr 17:15 Berlin (Hauptroutine 16:00 nicht durchgelaufen). WM-2026-Gruppenphase ABSCHLUSS-SPIELTAG 3 fuer Gruppen D, E, F - 6 Spiele im Fenster 22:00 bis 04:00 Berlin. Mehrere echte Decider: Curacao MUSS Sieg + IC reicht Remis (Group E), Ecuador MUSS Sieg vs schon-durch-Deutschland, Sweden MUSS Sieg + Japan reicht Remis (Group F), Niederlande gegen schon-out-Tunesien (Gruppensieg-Sicherung), USA schon durch + Tuerkiye out (Quasi-Test), Paraguay-Australien echter Decider um Platz 2. NBA Finals abgeschlossen (Knicks 4-1 vs Spurs am 13.06.) - kein Basketball heute. Vereinsfussball Saison-Pause bis August. Kasse 550 EUR -> Stufe 1 (Aufbau, konservative Einsaetze 0.5-1.5%). Beobachtungs-Liste hat nur Group-B-Spieltag-1 + NBA-Game-3 - heute nicht betroffen. Markt-Goldgruben: Ueber/Unter 2.5 Tore, Torschuetzen Jederzeit, Doppelte Chance X2/1X. Form-Edge-Schwerpunkte: Undav (3 Tore in 57min), Gakpo (Form-Lauf), Isak + Gyoekeres (Sweden Doppelsturm), Diomande (90.-Minute-Goal MD1). PFLICHT-PROFILE umgesetzt: pro Heim/Auswaerts-Favorit mind. 1 Torschuetzen-Tipp, Paraguay-Australien als COINFLIP nur 3 Tipps ohne SAFE.",
@@ -659,4 +658,4 @@ window.__MIESMUSCHEL_TIPPS = {
     "Lesson Watchdog-Recovery: Hauptroutine 16:00 lief heute nicht durch - 17:15-Watchdog-Recovery uebernimmt Tipps-Generation. Identisches Schema, gleiche Hartregeln."
   ],
   "footer": "18+ · bet365 DE · Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
-};
+}
