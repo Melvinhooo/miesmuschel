@@ -1,37 +1,37 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-06-24T07:13:25+00:00",
+  "letzte_berechnung": "2026-06-25T07:15:04+00:00",
   "gesamt": {
-    "tipps": 420,
-    "gewonnen": 232,
-    "verloren": 177,
+    "tipps": 430,
+    "gewonnen": 238,
+    "verloren": 181,
     "push": 2,
     "offen": 9,
-    "einsatz": 411.0,
-    "netto": 37.2,
-    "trefferquote": 56.7,
+    "einsatz": 421.0,
+    "netto": 38.27,
+    "trefferquote": 56.8,
     "roi_prozent": 9.1
   },
   "letzte_30_tage": {
-    "tipps": 138,
-    "gewonnen": 80,
-    "verloren": 58,
+    "tipps": 143,
+    "gewonnen": 84,
+    "verloren": 59,
     "push": 0,
     "offen": 0,
-    "einsatz": 138.0,
-    "netto": 14.76,
-    "trefferquote": 58.0,
-    "roi_prozent": 10.7
+    "einsatz": 143.0,
+    "netto": 15.18,
+    "trefferquote": 58.7,
+    "roi_prozent": 10.6
   },
   "letzte_90_tage": {
-    "tipps": 420,
-    "gewonnen": 232,
-    "verloren": 177,
+    "tipps": 430,
+    "gewonnen": 238,
+    "verloren": 181,
     "push": 2,
     "offen": 9,
-    "einsatz": 411.0,
-    "netto": 37.2,
-    "trefferquote": 56.7,
+    "einsatz": 421.0,
+    "netto": 38.27,
+    "trefferquote": 56.8,
     "roi_prozent": 9.1
   },
   "nach_liga": {
@@ -782,6 +782,72 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.0,
       "trefferquote": 60.0,
       "roi_prozent": 0.0
+    },
+    "FIFA WM 2026 - Gruppe C - Spieltag 3 (Marokko-Quali / Haiti raus)": {
+      "tipps": 2,
+      "gewonnen": 1,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": -0.45,
+      "trefferquote": 50.0,
+      "roi_prozent": -22.5
+    },
+    "FIFA WM 2026 - Gruppe C - Spieltag 3 (Brasilien Gruppensieg-Chance)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.8,
+      "trefferquote": 100.0,
+      "roi_prozent": 80.0
+    },
+    "FIFA WM 2026 - Gruppe B - Spieltag 3 (BiH Muss-Sieg)": {
+      "tipps": 3,
+      "gewonnen": 3,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 2.87,
+      "trefferquote": 100.0,
+      "roi_prozent": 95.7
+    },
+    "FIFA WM 2026 - Gruppe B - Spieltag 3 (Gruppensieg-Duell)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.85,
+      "trefferquote": 100.0,
+      "roi_prozent": 85.0
+    },
+    "FIFA WM 2026 - Gruppe A - Spieltag 3 (Korea Quali-Chance / SAR Existenz)": {
+      "tipps": 2,
+      "gewonnen": 0,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": -2.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "FIFA WM 2026 - Gruppe A - Spieltag 3 (Mexico schon Gruppensieger / Tschechien Existenz)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
     }
   },
   "nach_markt": {
@@ -1589,15 +1655,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 42.0
     },
     "Unter 2.5 Tore": {
-      "tipps": 12,
+      "tipps": 13,
       "gewonnen": 9,
-      "verloren": 3,
+      "verloren": 4,
       "push": 0,
       "offen": 0,
-      "einsatz": 12.0,
-      "netto": 5.48,
-      "trefferquote": 75.0,
-      "roi_prozent": 45.7
+      "einsatz": 13.0,
+      "netto": 4.48,
+      "trefferquote": 69.2,
+      "roi_prozent": 34.5
     },
     "Unter 211.5 Punkte (Total)": {
       "tipps": 1,
@@ -1952,15 +2018,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -100.0
     },
     "Ueber 2.5 Tore": {
-      "tipps": 17,
-      "gewonnen": 8,
+      "tipps": 20,
+      "gewonnen": 11,
       "verloren": 7,
       "push": 0,
       "offen": 2,
-      "einsatz": 15.0,
-      "netto": 5.53,
-      "trefferquote": 53.3,
-      "roi_prozent": 36.9
+      "einsatz": 18.0,
+      "netto": 7.93,
+      "trefferquote": 61.1,
+      "roi_prozent": 44.1
     },
     "Unter 3.5 Tore": {
       "tipps": 4,
@@ -3096,15 +3162,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 36.0
     },
     "Vinicius Junior trifft jederzeit": {
-      "tipps": 1,
-      "gewonnen": 0,
+      "tipps": 2,
+      "gewonnen": 1,
       "verloren": 0,
       "push": 1,
       "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
+      "einsatz": 2.0,
+      "netto": 0.8,
+      "trefferquote": 100.0,
+      "roi_prozent": 40.0
     },
     "Vedat Muriqi trifft jederzeit": {
       "tipps": 1,
@@ -4128,6 +4194,61 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.0,
       "trefferquote": 100.0,
       "roi_prozent": 0.0
+    },
+    "Bosnien Sieg (1X2)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.37,
+      "trefferquote": 100.0,
+      "roi_prozent": 37.0
+    },
+    "Suedkorea Sieg (1X2)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Marokko zu Null": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Edin Dzeko trifft jederzeit": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.5,
+      "trefferquote": 100.0,
+      "roi_prozent": 150.0
+    },
+    "Son Heung-min trifft jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
     }
   },
   "nach_markt_typ": {
@@ -4176,37 +4297,37 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 55.0
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 149,
-      "gewonnen": 84,
-      "verloren": 64,
+      "tipps": 151,
+      "gewonnen": 85,
+      "verloren": 65,
       "push": 0,
       "offen": 1,
-      "einsatz": 148.0,
-      "netto": 6.99,
-      "trefferquote": 56.8,
-      "roi_prozent": 4.7
+      "einsatz": 150.0,
+      "netto": 6.36,
+      "trefferquote": 56.7,
+      "roi_prozent": 4.2
     },
     "Torschuetzen Jederzeit": {
-      "tipps": 69,
-      "gewonnen": 27,
-      "verloren": 40,
+      "tipps": 72,
+      "gewonnen": 29,
+      "verloren": 41,
       "push": 2,
       "offen": 0,
-      "einsatz": 69.0,
-      "netto": 14.05,
-      "trefferquote": 40.3,
-      "roi_prozent": 20.4
+      "einsatz": 72.0,
+      "netto": 15.35,
+      "trefferquote": 41.4,
+      "roi_prozent": 21.3
     },
     "Unter 2.5 Tore": {
-      "tipps": 20,
+      "tipps": 21,
       "gewonnen": 13,
-      "verloren": 7,
+      "verloren": 8,
       "push": 0,
       "offen": 0,
-      "einsatz": 20.0,
-      "netto": 5.85,
-      "trefferquote": 65.0,
-      "roi_prozent": 29.2
+      "einsatz": 21.0,
+      "netto": 4.85,
+      "trefferquote": 61.9,
+      "roi_prozent": 23.1
     },
     "Doppelte Chance 1X": {
       "tipps": 27,
@@ -4231,15 +4352,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 14.0
     },
     "Ueber 2.5 Tore": {
-      "tipps": 31,
-      "gewonnen": 17,
+      "tipps": 34,
+      "gewonnen": 20,
       "verloren": 12,
       "push": 0,
       "offen": 2,
-      "einsatz": 29.0,
-      "netto": 8.13,
-      "trefferquote": 58.6,
-      "roi_prozent": 28.0
+      "einsatz": 32.0,
+      "netto": 10.53,
+      "trefferquote": 62.5,
+      "roi_prozent": 32.9
     },
     "Beide Teams treffen JA": {
       "tipps": 9,
@@ -4614,41 +4735,52 @@ window.__MIESMUSCHEL_STAT = {
       "netto": -1.0,
       "trefferquote": 0.0,
       "roi_prozent": -100.0
+    },
+    "Marokko zu Null": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
     }
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 192,
-      "gewonnen": 100,
-      "verloren": 87,
+      "tipps": 198,
+      "gewonnen": 103,
+      "verloren": 90,
       "push": 1,
       "offen": 4,
-      "einsatz": 188.0,
-      "netto": 14.33,
-      "trefferquote": 53.5,
-      "roi_prozent": 7.6
+      "einsatz": 194.0,
+      "netto": 13.53,
+      "trefferquote": 53.4,
+      "roi_prozent": 7.0
     },
     "2.00-3.00": {
-      "tipps": 56,
-      "gewonnen": 22,
-      "verloren": 32,
+      "tipps": 59,
+      "gewonnen": 24,
+      "verloren": 33,
       "push": 1,
       "offen": 1,
-      "einsatz": 55.0,
-      "netto": 5.94,
-      "trefferquote": 40.7,
-      "roi_prozent": 10.8
+      "einsatz": 58.0,
+      "netto": 7.44,
+      "trefferquote": 42.1,
+      "roi_prozent": 12.8
     },
     "1.00-1.50": {
-      "tipps": 154,
-      "gewonnen": 104,
+      "tipps": 155,
+      "gewonnen": 105,
       "verloren": 46,
       "push": 0,
       "offen": 4,
-      "einsatz": 150.0,
-      "netto": 9.38,
-      "trefferquote": 69.3,
-      "roi_prozent": 6.3
+      "einsatz": 151.0,
+      "netto": 9.75,
+      "trefferquote": 69.5,
+      "roi_prozent": 6.5
     },
     "3.00+": {
       "tipps": 18,
@@ -4664,37 +4796,37 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_kategorie": {
     "safe": {
-      "tipps": 87,
-      "gewonnen": 57,
+      "tipps": 88,
+      "gewonnen": 58,
       "verloren": 30,
       "push": 0,
       "offen": 0,
-      "einsatz": 87.0,
-      "netto": 0.35,
-      "trefferquote": 65.5,
-      "roi_prozent": 0.4
+      "einsatz": 88.0,
+      "netto": 0.9,
+      "trefferquote": 65.9,
+      "roi_prozent": 1.0
     },
     "value": {
-      "tipps": 254,
-      "gewonnen": 138,
-      "verloren": 105,
+      "tipps": 258,
+      "gewonnen": 140,
+      "verloren": 107,
       "push": 2,
       "offen": 9,
-      "einsatz": 245.0,
-      "netto": 31.36,
-      "trefferquote": 56.8,
-      "roi_prozent": 12.8
+      "einsatz": 249.0,
+      "netto": 31.21,
+      "trefferquote": 56.7,
+      "roi_prozent": 12.5
     },
     "wackel": {
-      "tipps": 79,
-      "gewonnen": 37,
-      "verloren": 42,
+      "tipps": 84,
+      "gewonnen": 40,
+      "verloren": 44,
       "push": 0,
       "offen": 0,
-      "einsatz": 79.0,
-      "netto": 5.49,
-      "trefferquote": 46.8,
-      "roi_prozent": 6.9
+      "einsatz": 84.0,
+      "netto": 6.16,
+      "trefferquote": 47.6,
+      "roi_prozent": 7.3
     }
   },
   "clv_gesamt": {
@@ -4736,6 +4868,167 @@ window.__MIESMUSCHEL_STAT = {
     }
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-06-24",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "Safe-Kombi ~3x",
+          "kategorie": "safe",
+          "gesamtquote": 2.94,
+          "einsatz_prozent": 1.5,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": null,
+              "quote": 1.55,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": null,
+              "quote": 1.37,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": null,
+              "quote": 1.36,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi ~7x",
+          "kategorie": "balance",
+          "gesamtquote": 8.62,
+          "einsatz_prozent": 0.5,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": null,
+              "quote": 1.8,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": null,
+              "quote": 1.55,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": null,
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": null,
+              "quote": 1.67,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi ~22x",
+          "kategorie": "risk",
+          "gesamtquote": 44.04,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": null,
+              "quote": 2.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": null,
+              "quote": 1.8,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": null,
+              "quote": 2.3,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": null,
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": null,
+              "quote": 2.3,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi ~92x",
+          "kategorie": "moonshot",
+          "gesamtquote": 468.83,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": null,
+              "quote": 2.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": null,
+              "quote": 2.8,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": null,
+              "quote": 3.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": null,
+              "quote": 2.3,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": null,
+              "quote": 3.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": null,
+              "quote": 2.6,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-06-23",
       "gesamt": {
