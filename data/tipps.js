@@ -35,38 +35,44 @@ window.__MIESMUSCHEL_TIPPS = {
       ],
       "tipps": [
         {
-          "label": "VALUE",
           "markt": "Doppelte Chance X2 (Elfenbeinkueste oder Remis)",
           "quote": 1.18,
-          "einsatz_prozent": 1.5,
           "einsatz_euro": 8.25,
-          "begruendung": "IC reicht Remis fuer Achtelfinale + Klassen-Edge vs Curacao + 90er-Minute-Tor letztes Direktduell (MD1 vs Ecuador). Markt-Goldgrube DC X2: 82.6% Hitrate / +14% ROI. Wir bleiben bei VALUE statt SAFE da Gruppe-E-Spieltag-3 NICHT in liga_goldgruben.json (nur Spieltag 1 ist Goldgrube)."
+          "begruendung": "IC reicht Remis fuer Achtelfinale + Klassen-Edge vs Curacao + 90er-Minute-Tor letztes Direktduell (MD1 vs Ecuador). Markt-Goldgrube DC X2: 82.6% Hitrate / +14% ROI. Wir bleiben bei VALUE statt SAFE da Gruppe-E-Spieltag-3 NICHT in liga_goldgruben.json (nur Spieltag 1 ist Goldgrube).",
+          "kategorie": "value",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.18
         },
         {
-          "label": "VALUE",
           "markt": "Sebastien Haller Jederzeit-Torschuetze",
           "quote": 2.4,
-          "einsatz_prozent": 1.0,
           "einsatz_euro": 5.5,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (41.4% Hitrate / +21.3% ROI). IC will Gruppensieg-Szenario absichern - wird offensiv spielen. Curacao-Defensive nach 0:7 vs Deutschland angeschlagen + Klassen-Edge IC-Sturm. Einwechslungs-Boost bei bet365 zaehlt: wenn Haller raus + Diallo/Diomande rein und treffen, Tipp ist durch."
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (41.4% Hitrate / +21.3% ROI). IC will Gruppensieg-Szenario absichern - wird offensiv spielen. Curacao-Defensive nach 0:7 vs Deutschland angeschlagen + Klassen-Edge IC-Sturm. Einwechslungs-Boost bei bet365 zaehlt: wenn Haller raus + Diallo/Diomande rein und treffen, Tipp ist durch. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 2.4,
+          "_torschuetze_quelle_warn": true
         },
         {
-          "label": "WACKEL",
           "markt": "Ueber 2.5 Tore",
           "quote": 1.85,
-          "einsatz_prozent": 0.5,
           "einsatz_euro": 2.75,
-          "begruendung": "Markt-Goldgrube Ueber 2.5 (62.5% Hitrate / +32.9% ROI). Curacao MUSS-Sieg-Modus = Risiko-Aufmachen. IC mit Sturm-Tiefe (Haller, Diallo, Pepe, Diomande als Backup). Risiko: IC kann Remis-Modus spielen und Curacao trifft nicht (haben in 2 Spielen 0 Tore). Wackel statt VALUE wegen Curacao-Tor-Risiko."
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (62.5% Hitrate / +32.9% ROI). Curacao MUSS-Sieg-Modus = Risiko-Aufmachen. IC mit Sturm-Tiefe (Haller, Diallo, Pepe, Diomande als Backup). Risiko: IC kann Remis-Modus spielen und Curacao trifft nicht (haben in 2 Spielen 0 Tore). Wackel statt VALUE wegen Curacao-Tor-Risiko.",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.85
         },
         {
-          "label": "WACKEL",
           "markt": "Amad Diallo Jederzeit-Torschuetze",
           "quote": 2.75,
-          "einsatz_prozent": 0.5,
           "einsatz_euro": 2.75,
-          "begruendung": "Diallo schoss das 90+Tor MD1 vs Ecuador - Form-Edge da. Markt-Goldgrube Torschuetzen Jederzeit. Wackel weil IC ggf rotiert (Saison-Muedigkeit ManUtd-Saison)."
+          "begruendung": "Diallo schoss das 90+Tor MD1 vs Ecuador - Form-Edge da. Markt-Goldgrube Torschuetzen Jederzeit. Wackel weil IC ggf rotiert (Saison-Muedigkeit ManUtd-Saison).",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 2.75
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-06-25-ecu-ger",
@@ -100,38 +106,44 @@ window.__MIESMUSCHEL_TIPPS = {
       ],
       "tipps": [
         {
-          "label": "VALUE",
           "markt": "Doppelte Chance X2 (Deutschland oder Remis)",
           "quote": 1.2,
-          "einsatz_prozent": 1.5,
           "einsatz_euro": 8.25,
-          "begruendung": "Deutschland Auswaerts-Favorit @ ~1.65 + Klassen-Edge + Ecuador 0 Tore in 2 Spielen + ohne Paez. Markt-Goldgrube DC X2 (82.6% Hitrate / +14% ROI). Selbst bei Rotation reicht 1-Tor-Vorsprung. 2:0-Insurance gilt fuer WM 2026 - bei 2-Tore-Fuehrung Tipp auch bei Drehung durch."
+          "begruendung": "Deutschland Auswaerts-Favorit @ ~1.65 + Klassen-Edge + Ecuador 0 Tore in 2 Spielen + ohne Paez. Markt-Goldgrube DC X2 (82.6% Hitrate / +14% ROI). Selbst bei Rotation reicht 1-Tor-Vorsprung. 2:0-Insurance gilt fuer WM 2026 - bei 2-Tore-Fuehrung Tipp auch bei Drehung durch.",
+          "kategorie": "value",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.2
         },
         {
-          "label": "VALUE",
           "markt": "Deniz Undav Jederzeit-Torschuetze",
           "quote": 2.1,
-          "einsatz_prozent": 1.5,
           "einsatz_euro": 8.25,
-          "begruendung": "Undav Form-Edge MAX: 3 Tore in 57 Joker-Minuten vs IC MD2 = 2+ Tore in 1 Spiel triggert PFLICHT-Torschuetzen-Tipp. Heute voraussichtlich Startelf. Markt-Goldgrube Torschuetzen Jederzeit (41.4% / +21.3% ROI). Backup-Boost: wenn Undav raus + Havertz/Wirtz rein und treffen, Tipp durch."
+          "begruendung": "Undav Form-Edge MAX: 3 Tore in 57 Joker-Minuten vs IC MD2 = 2+ Tore in 1 Spiel triggert PFLICHT-Torschuetzen-Tipp. Heute voraussichtlich Startelf. Markt-Goldgrube Torschuetzen Jederzeit (41.4% / +21.3% ROI). Backup-Boost: wenn Undav raus + Havertz/Wirtz rein und treffen, Tipp durch. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 2.1,
+          "_torschuetze_quelle_warn": true
         },
         {
-          "label": "VALUE",
           "markt": "Ueber 2.5 Tore",
           "quote": 1.65,
-          "einsatz_prozent": 1.5,
           "einsatz_euro": 8.25,
-          "begruendung": "Deutschland 9 Tore in 2 Spielen + Ecuador MUSS-Sieg = wird Defensive opfern. Markt-Goldgrube Ueber 2.5 (62.5% / +32.9% ROI). Risiko: Deutschland rotierte Elf koennte zaeher anfangen + Ecuador trifft womoeglich endlich. VALUE wegen klarer Goldgrube + Form-Asymmetrie."
+          "begruendung": "Deutschland 9 Tore in 2 Spielen + Ecuador MUSS-Sieg = wird Defensive opfern. Markt-Goldgrube Ueber 2.5 (62.5% / +32.9% ROI). Risiko: Deutschland rotierte Elf koennte zaeher anfangen + Ecuador trifft womoeglich endlich. VALUE wegen klarer Goldgrube + Form-Asymmetrie.",
+          "kategorie": "value",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.65
         },
         {
-          "label": "WACKEL",
           "markt": "Florian Wirtz Jederzeit-Torschuetze",
           "quote": 2.4,
-          "einsatz_prozent": 0.5,
           "einsatz_euro": 2.75,
-          "begruendung": "Wenn Wirtz rotiert ist + Ecuador-Defensive aufmacht = Wirtz kreiert + trifft. Wackel statt VALUE da Rotation ungewiss (Sane/Adeyemi alternative Optionen). Markt-Goldgrube Torschuetzen Jederzeit."
+          "begruendung": "Wenn Wirtz rotiert ist + Ecuador-Defensive aufmacht = Wirtz kreiert + trifft. Wackel statt VALUE da Rotation ungewiss (Sane/Adeyemi alternative Optionen). Markt-Goldgrube Torschuetzen Jederzeit.",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 2.4
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-06-26-jpn-swe",
@@ -164,46 +176,54 @@ window.__MIESMUSCHEL_TIPPS = {
       ],
       "tipps": [
         {
-          "label": "VALUE",
           "markt": "Alexander Isak Jederzeit-Torschuetze",
           "quote": 2.2,
-          "einsatz_prozent": 1.5,
           "einsatz_euro": 8.25,
-          "begruendung": "Isak Form-Edge: 2 Tore in 2 WM-Spielen (1+1) + MUSS-Sieg-Modus Schweden = Sturm-Druck max. Markt-Goldgrube Torschuetzen Jederzeit (41.4% / +21.3% ROI). Backup-Boost: wenn Isak raus + Backup (Gyoekeres bleibt vorne) trifft - bei bet365 zaehlt direkter Ersatz."
+          "begruendung": "Isak Form-Edge: 2 Tore in 2 WM-Spielen (1+1) + MUSS-Sieg-Modus Schweden = Sturm-Druck max. Markt-Goldgrube Torschuetzen Jederzeit (41.4% / +21.3% ROI). Backup-Boost: wenn Isak raus + Backup (Gyoekeres bleibt vorne) trifft - bei bet365 zaehlt direkter Ersatz. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 2.2,
+          "_torschuetze_quelle_warn": true
         },
         {
-          "label": "VALUE",
           "markt": "Beide Mannschaften treffen Ja",
           "quote": 1.75,
-          "einsatz_prozent": 1.5,
           "einsatz_euro": 8.25,
-          "begruendung": "Schweden MUSS-Sieg-Doppel-Sturm + Japan trifft regelmaessig (2 vs NL, 4 vs Tunesien). Beide Teams 6+ Tore in 2 Spielen. Selbst wenn Japan defensiv beginnt, Schweden-Druck nach 60min foerdert Konter-Tore."
+          "begruendung": "Schweden MUSS-Sieg-Doppel-Sturm + Japan trifft regelmaessig (2 vs NL, 4 vs Tunesien). Beide Teams 6+ Tore in 2 Spielen. Selbst wenn Japan defensiv beginnt, Schweden-Druck nach 60min foerdert Konter-Tore.",
+          "kategorie": "value",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.75
         },
         {
-          "label": "VALUE",
           "markt": "Viktor Gyokeres Jederzeit-Torschuetze",
           "quote": 2.0,
-          "einsatz_prozent": 1.0,
           "einsatz_euro": 5.5,
-          "begruendung": "Gyoekeres traf MD1 (gegen Tunesien) + Arsenal-Saison-Topstuermer mit Form-Lauf. MUSS-Sieg-Modus = wird voll attackieren. Markt-Goldgrube Torschuetzen Jederzeit."
+          "begruendung": "Gyoekeres traf MD1 (gegen Tunesien) + Arsenal-Saison-Topstuermer mit Form-Lauf. MUSS-Sieg-Modus = wird voll attackieren. Markt-Goldgrube Torschuetzen Jederzeit. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 2.0,
+          "_torschuetze_quelle_warn": true
         },
         {
-          "label": "WACKEL",
           "markt": "Ueber 2.5 Tore",
           "quote": 1.65,
-          "einsatz_prozent": 0.5,
           "einsatz_euro": 2.75,
-          "begruendung": "Beide Teams stark scorend, aber Japan koennte sich nach 1:0 zuruecklehnen. Markt-Goldgrube Ueber 2.5 (62.5% / +32.9% ROI), Wackel weil 1-Tor-Vorsprung Japan reichen wuerde fuer Achtelfinale-Sicherung."
+          "begruendung": "Beide Teams stark scorend, aber Japan koennte sich nach 1:0 zuruecklehnen. Markt-Goldgrube Ueber 2.5 (62.5% / +32.9% ROI), Wackel weil 1-Tor-Vorsprung Japan reichen wuerde fuer Achtelfinale-Sicherung.",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.65
         },
         {
-          "label": "WACKEL",
           "markt": "Doppelte Chance 1X (Japan oder Remis)",
           "quote": 1.3,
-          "einsatz_prozent": 0.5,
           "einsatz_euro": 2.75,
-          "begruendung": "Japan reicht Remis + Klassen-Edge nominell. Markt-Goldgrube DC 1X (80% Hitrate). Wackel weil Schweden-MUSS-Sieg-Doppel-Sturm reale Ueberraschungs-Chance + Japan-Mentalitaet 'nicht verlieren' kann auch in Niederlage muenden wenn Druck einbricht."
+          "begruendung": "Japan reicht Remis + Klassen-Edge nominell. Markt-Goldgrube DC 1X (80% Hitrate). Wackel weil Schweden-MUSS-Sieg-Doppel-Sturm reale Ueberraschungs-Chance + Japan-Mentalitaet 'nicht verlieren' kann auch in Niederlage muenden wenn Druck einbricht.",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.3
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-06-26-tun-ned",
@@ -237,46 +257,54 @@ window.__MIESMUSCHEL_TIPPS = {
       ],
       "tipps": [
         {
-          "label": "SAFE",
           "markt": "Doppelte Chance X2 (Niederlande oder Remis)",
           "quote": 1.05,
-          "einsatz_prozent": 2.0,
           "einsatz_euro": 11.0,
-          "begruendung": "NL Markt-Implied 90% Sieg-Chance + Tunesien eliminiert + Klassen-Edge max. Markt-Goldgrube DC X2 (82.6% Hitrate / +14% ROI). Quote 1.05 entspricht ~95% Implied - selbst Catastrophe-Szenario waere im X-Drittel abgedeckt. Niedrigste Risiko-Wette im Dossier."
+          "begruendung": "NL Markt-Implied 90% Sieg-Chance + Tunesien eliminiert + Klassen-Edge max. Markt-Goldgrube DC X2 (82.6% Hitrate / +14% ROI). Quote 1.05 entspricht ~95% Implied - selbst Catastrophe-Szenario waere im X-Drittel abgedeckt. Niedrigste Risiko-Wette im Dossier.",
+          "kategorie": "safe",
+          "empfohlener_einsatz_prozent": 2.0,
+          "faire_quote": 1.05
         },
         {
-          "label": "VALUE",
           "markt": "Cody Gakpo Jederzeit-Torschuetze",
           "quote": 1.8,
-          "einsatz_prozent": 1.5,
           "einsatz_euro": 8.25,
-          "begruendung": "Gakpo Form-Edge MAX: Tore in MD1 (vs Japan) + MD2 (vs Schweden) = 2+ Tore in 2 Spielen triggert PFLICHT-Torschuetzen-Tipp. Markt-Goldgrube Torschuetzen Jederzeit (41.4% / +21.3% ROI). Tunesien-Defensive nach 9 Gegentoren angeschlagen. Einwechslungs-Boost zaehlt bei bet365."
+          "begruendung": "Gakpo Form-Edge MAX: Tore in MD1 (vs Japan) + MD2 (vs Schweden) = 2+ Tore in 2 Spielen triggert PFLICHT-Torschuetzen-Tipp. Markt-Goldgrube Torschuetzen Jederzeit (41.4% / +21.3% ROI). Tunesien-Defensive nach 9 Gegentoren angeschlagen. Einwechslungs-Boost zaehlt bei bet365. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.8,
+          "_torschuetze_quelle_warn": true
         },
         {
-          "label": "VALUE",
           "markt": "Ueber 2.5 Tore",
           "quote": 1.45,
-          "einsatz_prozent": 1.5,
           "einsatz_euro": 8.25,
-          "begruendung": "NL Sturmlauf 7 Tore / 2 Spiele + Tunesien-Defensive zerfaellt + NL braucht Tordifferenz-Polster fuer Gruppensieg. Markt-Goldgrube Ueber 2.5 (62.5% / +32.9% ROI). 3+ NL-Tore plausibel - bisher 2 von 2 ueber 3.5."
+          "begruendung": "NL Sturmlauf 7 Tore / 2 Spiele + Tunesien-Defensive zerfaellt + NL braucht Tordifferenz-Polster fuer Gruppensieg. Markt-Goldgrube Ueber 2.5 (62.5% / +32.9% ROI). 3+ NL-Tore plausibel - bisher 2 von 2 ueber 3.5.",
+          "kategorie": "value",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.45
         },
         {
-          "label": "VALUE",
           "markt": "Donyell Malen Jederzeit-Torschuetze",
           "quote": 2.4,
-          "einsatz_prozent": 0.5,
           "einsatz_euro": 2.75,
-          "begruendung": "Malen als rechter Fluegel mit Tor-Risiko + Tunesien rechte Defensive schwach. Markt-Goldgrube Torschuetzen Jederzeit. Wenn Koeman frueh wechselt + Bergwijn/Reijnders kommt rein - Backup-Boost bei bet365."
+          "begruendung": "Malen als rechter Fluegel mit Tor-Risiko + Tunesien rechte Defensive schwach. Markt-Goldgrube Torschuetzen Jederzeit. Wenn Koeman frueh wechselt + Bergwijn/Reijnders kommt rein - Backup-Boost bei bet365. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 2.4,
+          "_torschuetze_quelle_warn": true
         },
         {
-          "label": "WACKEL",
           "markt": "Ueber 3.5 Tore",
           "quote": 2.1,
-          "einsatz_prozent": 0.5,
           "einsatz_euro": 2.75,
-          "begruendung": "Beide NL-Spiele bisher 4+ Tore (2+2=4, 5+1=6). Tunesien-Defense kann 4 NL-Tore in 90 nicht halten. Wackel weil bei 2:0-Komfort NL ggf Tempo reduziert."
+          "begruendung": "Beide NL-Spiele bisher 4+ Tore (2+2=4, 5+1=6). Tunesien-Defense kann 4 NL-Tore in 90 nicht halten. Wackel weil bei 2:0-Komfort NL ggf Tempo reduziert.",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 2.1
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-06-26-tur-usa",
@@ -309,38 +337,44 @@ window.__MIESMUSCHEL_TIPPS = {
       ],
       "tipps": [
         {
-          "label": "VALUE",
           "markt": "Beide Mannschaften treffen Ja",
           "quote": 1.85,
-          "einsatz_prozent": 1.0,
           "einsatz_euro": 5.5,
-          "begruendung": "Tuerkei 62 Schuesse / 2 Spiele = Tor faellig (Regression-zu-Mittelwert). USA rotierte Defense + Antonee Robinson/Walker ggf nicht im Vollbesitz = Tor zulassen plausibel. USA-Sturm trifft regelmaessig (6 Tore / 2 Spiele). BTTS-Markt nicht Goldgrube aber Edge da."
+          "begruendung": "Tuerkei 62 Schuesse / 2 Spiele = Tor faellig (Regression-zu-Mittelwert). USA rotierte Defense + Antonee Robinson/Walker ggf nicht im Vollbesitz = Tor zulassen plausibel. USA-Sturm trifft regelmaessig (6 Tore / 2 Spiele). BTTS-Markt nicht Goldgrube aber Edge da.",
+          "kategorie": "value",
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 1.85
         },
         {
-          "label": "VALUE",
           "markt": "Kenan Yildiz Jederzeit-Torschuetze",
           "quote": 3.5,
-          "einsatz_prozent": 0.5,
           "einsatz_euro": 2.75,
-          "begruendung": "Yildiz (Juve, 20 J) Form-Stuermer + Kreativachse + 62-Schuss-Volumen-Tuerkei trifft endlich. Markt-Goldgrube Torschuetzen Jederzeit (41.4% / +21.3% ROI). Backup-Boost: wenn Yildiz raus, Aktuerkoglu/Yuksek koennen reinkommen - bet365 zaehlt direkten Ersatz."
+          "begruendung": "Yildiz (Juve, 20 J) Form-Stuermer + Kreativachse + 62-Schuss-Volumen-Tuerkei trifft endlich. Markt-Goldgrube Torschuetzen Jederzeit (41.4% / +21.3% ROI). Backup-Boost: wenn Yildiz raus, Aktuerkoglu/Yuksek koennen reinkommen - bet365 zaehlt direkten Ersatz. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 3.5,
+          "_torschuetze_quelle_warn": true
         },
         {
-          "label": "WACKEL",
           "markt": "Ueber 2.5 Tore",
           "quote": 1.75,
-          "einsatz_prozent": 0.5,
           "einsatz_euro": 2.75,
-          "begruendung": "USA-Sturm 6 Tore / 2 + Tuerkei-Schuss-Volumen-Druck = beide Teams treffen-Szenario. Markt-Goldgrube Ueber 2.5 (62.5% / +32.9% ROI). Wackel weil USA-Rotation Tempo bremst + Tuerkei trotz Schuessen 0 Treffer-Quote."
+          "begruendung": "USA-Sturm 6 Tore / 2 + Tuerkei-Schuss-Volumen-Druck = beide Teams treffen-Szenario. Markt-Goldgrube Ueber 2.5 (62.5% / +32.9% ROI). Wackel weil USA-Rotation Tempo bremst + Tuerkei trotz Schuessen 0 Treffer-Quote.",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.75
         },
         {
-          "label": "WACKEL",
           "markt": "Doppelte Chance X2 (USA oder Remis)",
           "quote": 1.25,
-          "einsatz_prozent": 0.5,
           "einsatz_euro": 2.75,
-          "begruendung": "USA Klassen-Edge bleibt trotz Rotation + Heim-Vorteil-light (SoFi Stadium, LA). Tuerkei muesste 90min-Tor-Maschinerie liefern was sie bisher nicht zeigten. Markt-Goldgrube DC X2. Wackel weil USA-Rotation Druckabbau."
+          "begruendung": "USA Klassen-Edge bleibt trotz Rotation + Heim-Vorteil-light (SoFi Stadium, LA). Tuerkei muesste 90min-Tor-Maschinerie liefern was sie bisher nicht zeigten. Markt-Goldgrube DC X2. Wackel weil USA-Rotation Druckabbau.",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.25
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-06-26-par-aus",
@@ -375,148 +409,162 @@ window.__MIESMUSCHEL_TIPPS = {
       ],
       "tipps": [
         {
-          "label": "WACKEL",
           "markt": "Unter 2.5 Tore",
           "quote": 1.57,
-          "einsatz_prozent": 1.0,
           "einsatz_euro": 5.5,
-          "begruendung": "Markt-Goldgrube Unter 2.5 (61.9% Hitrate / +23.1% ROI). Beide Teams Tor-arm (2+2 Tore in je 2 Spielen). Paraguay ohne Almiron = Sturm noch schwaecher. Australien Remis-Modus = defensiv. COINFLIP-Profil verbietet SAFE - daher Wackel mit Edge."
+          "begruendung": "Markt-Goldgrube Unter 2.5 (61.9% Hitrate / +23.1% ROI). Beide Teams Tor-arm (2+2 Tore in je 2 Spielen). Paraguay ohne Almiron = Sturm noch schwaecher. Australien Remis-Modus = defensiv. COINFLIP-Profil verbietet SAFE - daher Wackel mit Edge.",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 1.57
         },
         {
-          "label": "WACKEL",
           "markt": "Beide Mannschaften treffen Nein",
           "quote": 2.0,
-          "einsatz_prozent": 0.5,
           "einsatz_euro": 2.75,
-          "begruendung": "Australien-Defensive solide (2 Gegentore in 2 Spielen) + Paraguay-Sturm ohne Almiron schwach. Wackel weil ein Schoenheitsfehler im hektischen MUSS-Sieg-Setting Tor von beiden Seiten ermoeglicht."
+          "begruendung": "Australien-Defensive solide (2 Gegentore in 2 Spielen) + Paraguay-Sturm ohne Almiron schwach. Wackel weil ein Schoenheitsfehler im hektischen MUSS-Sieg-Setting Tor von beiden Seiten ermoeglicht.",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 2.0
         },
         {
-          "label": "WACKEL",
           "markt": "Doppelte Chance X2 (Australien oder Remis)",
           "quote": 1.55,
-          "einsatz_prozent": 0.5,
           "einsatz_euro": 2.75,
-          "begruendung": "Australien reicht Remis + spielt defensiv-stabil + Paraguay ohne Almiron schwaecher. Markt-Goldgrube DC X2 (82.6% Hitrate / +14% ROI). Wackel weil Paraguay-MUSS-Sieg-Heim-Druck koennte mit Glueck reichen + COINFLIP-Quoten."
+          "begruendung": "Australien reicht Remis + spielt defensiv-stabil + Paraguay ohne Almiron schwaecher. Markt-Goldgrube DC X2 (82.6% Hitrate / +14% ROI). Wackel weil Paraguay-MUSS-Sieg-Heim-Druck koennte mit Glueck reichen + COINFLIP-Quoten.",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.55
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     }
   ],
   "einzeltipps": [
     {
       "spiel_id": "2026-06-26-tun-ned",
-      "label": "SAFE",
       "markt": "Niederlande Doppelte Chance X2 (NL oder Remis)",
       "quote": 1.05,
-      "einsatz_prozent": 2.0,
       "einsatz_euro": 11.0,
-      "begruendung": "Niederlande @ 90% Implied + Tunesien eliminiert + 7 Tore in 2 NL-Spielen + Klassen-Edge max. Markt-Goldgrube DC X2 (82.6% / +14% ROI). Sicherster Pick im Dossier."
+      "begruendung": "Niederlande @ 90% Implied + Tunesien eliminiert + 7 Tore in 2 NL-Spielen + Klassen-Edge max. Markt-Goldgrube DC X2 (82.6% / +14% ROI). Sicherster Pick im Dossier.",
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 1
     },
     {
       "spiel_id": "2026-06-25-ecu-ger",
-      "label": "VALUE",
       "markt": "Deniz Undav Jederzeit-Torschuetze",
       "quote": 2.1,
-      "einsatz_prozent": 1.5,
       "einsatz_euro": 8.25,
-      "begruendung": "Form-Edge MAX: Undav 3 Tore in 57 Joker-Minuten MD2 (Hattrick-Geschwindigkeit). Heute voraussichtlich Startelf. Markt-Goldgrube Torschuetzen Jederzeit (41.4% / +21.3% ROI). Backup-Boost gilt."
+      "begruendung": "Form-Edge MAX: Undav 3 Tore in 57 Joker-Minuten MD2 (Hattrick-Geschwindigkeit). Heute voraussichtlich Startelf. Markt-Goldgrube Torschuetzen Jederzeit (41.4% / +21.3% ROI). Backup-Boost gilt.",
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2
     },
     {
       "spiel_id": "2026-06-26-tun-ned",
-      "label": "VALUE",
       "markt": "Cody Gakpo Jederzeit-Torschuetze",
       "quote": 1.8,
-      "einsatz_prozent": 1.5,
       "einsatz_euro": 8.25,
-      "begruendung": "Gakpo Tore in MD1 + MD2 = 2+ Tore in 2 Spielen. Markt-Goldgrube Torschuetzen Jederzeit. Tunesien-Defense nach 9 Gegentoren zerfaellt."
+      "begruendung": "Gakpo Tore in MD1 + MD2 = 2+ Tore in 2 Spielen. Markt-Goldgrube Torschuetzen Jederzeit. Tunesien-Defense nach 9 Gegentoren zerfaellt.",
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 3
     },
     {
       "spiel_id": "2026-06-25-ecu-ger",
-      "label": "VALUE",
       "markt": "Deutschland Doppelte Chance X2 (Deutschland oder Remis)",
       "quote": 1.2,
-      "einsatz_prozent": 1.5,
       "einsatz_euro": 8.25,
-      "begruendung": "Klassen-Edge max + Ecuador 0 Tore in 2 Spielen + ohne Paez. Markt-Goldgrube DC X2. 2:0-Insurance gilt fuer WM."
+      "begruendung": "Klassen-Edge max + Ecuador 0 Tore in 2 Spielen + ohne Paez. Markt-Goldgrube DC X2. 2:0-Insurance gilt fuer WM.",
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 4
     },
     {
       "spiel_id": "2026-06-25-cur-civ",
-      "label": "VALUE",
       "markt": "Elfenbeinkueste Doppelte Chance X2 (IC oder Remis)",
       "quote": 1.18,
-      "einsatz_prozent": 1.5,
       "einsatz_euro": 8.25,
-      "begruendung": "IC reicht Remis fuer Achtelfinale + Klassen-Edge vs Curacao (FIFA-Rang 33 vs 82). Markt-Goldgrube DC X2."
+      "begruendung": "IC reicht Remis fuer Achtelfinale + Klassen-Edge vs Curacao (FIFA-Rang 33 vs 82). Markt-Goldgrube DC X2.",
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 5
     },
     {
       "spiel_id": "2026-06-26-tun-ned",
-      "label": "VALUE",
       "markt": "Niederlande-Tunesien Ueber 2.5 Tore",
       "quote": 1.45,
-      "einsatz_prozent": 1.5,
       "einsatz_euro": 8.25,
-      "begruendung": "NL-Sturmlauf 7 Tore / 2 Spiele + braucht Tordifferenz-Polster + Tunesien-Defense zerfallen. Markt-Goldgrube Ueber 2.5 (62.5% / +32.9% ROI)."
+      "begruendung": "NL-Sturmlauf 7 Tore / 2 Spiele + braucht Tordifferenz-Polster + Tunesien-Defense zerfallen. Markt-Goldgrube Ueber 2.5 (62.5% / +32.9% ROI).",
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 6
     },
     {
       "spiel_id": "2026-06-25-ecu-ger",
-      "label": "VALUE",
       "markt": "Ecuador-Deutschland Ueber 2.5 Tore",
       "quote": 1.65,
-      "einsatz_prozent": 1.5,
       "einsatz_euro": 8.25,
-      "begruendung": "Deutschland 9 Tore in 2 Spielen + Ecuador MUSS-Sieg = Defensive opfern. Markt-Goldgrube Ueber 2.5."
+      "begruendung": "Deutschland 9 Tore in 2 Spielen + Ecuador MUSS-Sieg = Defensive opfern. Markt-Goldgrube Ueber 2.5.",
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 7
     },
     {
       "spiel_id": "2026-06-26-jpn-swe",
-      "label": "VALUE",
       "markt": "Alexander Isak Jederzeit-Torschuetze",
       "quote": 2.2,
-      "einsatz_prozent": 1.5,
       "einsatz_euro": 8.25,
-      "begruendung": "Isak 2 Tore in 2 WM-Spielen + Schweden MUSS-Sieg-Doppel-Sturm-Modus. Markt-Goldgrube Torschuetzen Jederzeit."
+      "begruendung": "Isak 2 Tore in 2 WM-Spielen + Schweden MUSS-Sieg-Doppel-Sturm-Modus. Markt-Goldgrube Torschuetzen Jederzeit.",
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 8
     },
     {
       "spiel_id": "2026-06-26-jpn-swe",
-      "label": "VALUE",
       "markt": "Beide Mannschaften treffen Ja (Japan-Schweden)",
       "quote": 1.75,
-      "einsatz_prozent": 1.0,
       "einsatz_euro": 5.5,
-      "begruendung": "Schweden MUSS-Sieg-Doppel-Sturm + Japan trifft regelmaessig (6 Tore / 2). Edge da."
+      "begruendung": "Schweden MUSS-Sieg-Doppel-Sturm + Japan trifft regelmaessig (6 Tore / 2). Edge da.",
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 9
     },
     {
       "spiel_id": "2026-06-25-cur-civ",
-      "label": "VALUE",
       "markt": "Sebastien Haller Jederzeit-Torschuetze",
       "quote": 2.4,
-      "einsatz_prozent": 1.0,
       "einsatz_euro": 5.5,
-      "begruendung": "IC-Sturmspitze + Curacao-Defense nach 0:7 angeschlagen. Markt-Goldgrube Torschuetzen Jederzeit. Backup-Boost gilt."
+      "begruendung": "IC-Sturmspitze + Curacao-Defense nach 0:7 angeschlagen. Markt-Goldgrube Torschuetzen Jederzeit. Backup-Boost gilt.",
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 10
     },
     {
       "spiel_id": "2026-06-26-par-aus",
-      "label": "WACKEL",
       "markt": "Paraguay-Australien Unter 2.5 Tore",
       "quote": 1.57,
-      "einsatz_prozent": 1.0,
       "einsatz_euro": 5.5,
-      "begruendung": "Beide Teams Tor-arm + Paraguay ohne Almiron + Australien Remis-Modus. Markt-Goldgrube Unter 2.5. COINFLIP-Spiel daher Wackel."
+      "begruendung": "Beide Teams Tor-arm + Paraguay ohne Almiron + Australien Remis-Modus. Markt-Goldgrube Unter 2.5. COINFLIP-Spiel daher Wackel.",
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 11
     },
     {
       "spiel_id": "2026-06-26-jpn-swe",
-      "label": "VALUE",
       "markt": "Viktor Gyokeres Jederzeit-Torschuetze",
       "quote": 2.0,
-      "einsatz_prozent": 1.0,
       "einsatz_euro": 5.5,
-      "begruendung": "Gyoekeres traf MD1 + Arsenal-Form. Schweden MUSS-Sieg-Modus. Markt-Goldgrube Torschuetzen Jederzeit."
+      "begruendung": "Gyoekeres traf MD1 + Arsenal-Form. Schweden MUSS-Sieg-Modus. Markt-Goldgrube Torschuetzen Jederzeit.",
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 12
     }
   ],
   "kombis": [
     {
-      "label": "Kombi Safe",
-      "kategorie": "SAFE",
+      "kategorie": "safe",
       "ziel_quote_range": "~2.5x-3x",
-      "einsatz_prozent": 2.0,
       "einsatz_euro": 11.0,
       "beine": [
         {
@@ -533,22 +581,18 @@ window.__MIESMUSCHEL_TIPPS = {
           "spiel_id": "2026-06-25-cur-civ",
           "markt": "Elfenbeinkueste Doppelte Chance X2",
           "quote": 1.18
-        },
-        {
-          "spiel_id": "2026-06-26-tun-ned",
-          "markt": "Niederlande-Tunesien Ueber 1.5 Tore",
-          "quote": 1.08
         }
       ],
       "kombi_quote": 1.61,
       "potenzieller_gewinn_euro": 17.71,
-      "begruendung": "3 stark dominante DC-X2-Faelle (NL/GER/IC) + Ueber-1.5 in dem NL-Spiel wo 4+ Tore Standard war. Layer-1: 3 unterschiedliche Spiele + 4. Bein im NL-Spiel (anderer Markt als DC). Achtung: NL-Spiel doppelt belegt mit DC + Ueber 1.5 - das ist Korrelations-Beste-Praxis weil NL deutlich gewinnen wird (DC + Ueber 1.5 sind dann beide durch). Markt-Goldgruben DC X2 + indirekt Ueber-Markt."
+      "begruendung": "3 stark dominante DC-X2-Faelle (NL/GER/IC) + Ueber-1.5 in dem NL-Spiel wo 4+ Tore Standard war. Layer-1: 3 unterschiedliche Spiele + 4. Bein im NL-Spiel (anderer Markt als DC). Achtung: NL-Spiel doppelt belegt mit DC + Ueber 1.5 - das ist Korrelations-Beste-Praxis weil NL deutlich gewinnen wird (DC + Ueber 1.5 sind dann beide durch). Markt-Goldgruben DC X2 + indirekt Ueber-Markt.",
+      "empfohlener_einsatz_prozent": 2.0,
+      "gesamtquote": 1.49,
+      "rechnung": "1.05 × 1.20 × 1.18 = 1.49"
     },
     {
-      "label": "Kombi Balance",
-      "kategorie": "BALANCE",
+      "kategorie": "balance",
       "ziel_quote_range": "~6x-10x",
-      "einsatz_prozent": 0.8,
       "einsatz_euro": 4.4,
       "beine": [
         {
@@ -574,13 +618,14 @@ window.__MIESMUSCHEL_TIPPS = {
       ],
       "kombi_quote": 12.39,
       "potenzieller_gewinn_euro": 54.51,
-      "begruendung": "Mix aus Tor-Markt + Form-Torschuetzen aus 4 unterschiedlichen Spielen. Layer-1 erfuellt. Markt-Goldgruben Ueber 2.5 + Torschuetzen Jederzeit. Layer-2: keine Sieg-Outcomes gedoppelt. Balance liegt etwas ueber 10x - in der oberen Range."
+      "begruendung": "Mix aus Tor-Markt + Form-Torschuetzen aus 4 unterschiedlichen Spielen. Layer-1 erfuellt. Markt-Goldgruben Ueber 2.5 + Torschuetzen Jederzeit. Layer-2: keine Sieg-Outcomes gedoppelt. Balance liegt etwas ueber 10x - in der oberen Range.",
+      "empfohlener_einsatz_prozent": 0.8,
+      "gesamtquote": 12.39,
+      "rechnung": "1.45 x 2.10 x 1.85 x 2.20 = 12.39"
     },
     {
-      "label": "Kombi Risiko",
-      "kategorie": "RISIKO",
+      "kategorie": "risk",
       "ziel_quote_range": "~15x-30x",
-      "einsatz_prozent": 0.25,
       "einsatz_euro": 1.4,
       "beine": [
         {
@@ -606,13 +651,14 @@ window.__MIESMUSCHEL_TIPPS = {
       ],
       "kombi_quote": 23.76,
       "potenzieller_gewinn_euro": 33.27,
-      "begruendung": "4x Torschuetzen-Jederzeit (Markt-Goldgrube) aus 4 verschiedenen Spielen. Layer-1 erfuellt. Wirtz als Wackel-Bein zieht Quote, andere Form-Faelle stabil."
+      "begruendung": "4x Torschuetzen-Jederzeit (Markt-Goldgrube) aus 4 verschiedenen Spielen. Layer-1 erfuellt. Wirtz als Wackel-Bein zieht Quote, andere Form-Faelle stabil.",
+      "empfohlener_einsatz_prozent": 0.25,
+      "gesamtquote": 23.76,
+      "rechnung": "1.80 x 2.40 x 2.75 x 2.00 = 23.76"
     },
     {
-      "label": "Kombi Moonshot",
-      "kategorie": "MOONSHOT",
+      "kategorie": "moonshot",
       "ziel_quote_range": "~100x-400x",
-      "einsatz_prozent": 0.1,
       "einsatz_euro": 0.55,
       "beine": [
         {
@@ -643,7 +689,10 @@ window.__MIESMUSCHEL_TIPPS = {
       ],
       "kombi_quote": 850.5,
       "potenzieller_gewinn_euro": 467.78,
-      "begruendung": "5-Bein Moonshot mit 3x Doppelpacks + 2x exotische Torschuetzen-Tipps aus 5 unterschiedlichen Spielen. Layer-1 erfuellt. Markt-Goldgruben fast voll auf Torschuetzen-Markt. Spasseinsatz 0.55 EUR fuer ~470 EUR Potenzial."
+      "begruendung": "5-Bein Moonshot mit 3x Doppelpacks + 2x exotische Torschuetzen-Tipps aus 5 unterschiedlichen Spielen. Layer-1 erfuellt. Markt-Goldgruben fast voll auf Torschuetzen-Markt. Spasseinsatz 0.55 EUR fuer ~470 EUR Potenzial.",
+      "empfohlener_einsatz_prozent": 0.1,
+      "gesamtquote": 850.5,
+      "rechnung": "4.00 x 4.50 x 3.00 x 4.50 x 3.50 = 850.5"
     }
   ],
   "lessons_angewandt": [
