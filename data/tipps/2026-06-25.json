@@ -722,8 +722,16 @@
       {
         "kombi": "safe",
         "art": "konsistenz_fix_kombi_quote",
-        "alt": {"kombi_quote": 1.61, "potenzieller_gewinn_euro": 17.71, "ziel_quote_range": "~2.5x-3x"},
-        "neu": {"kombi_quote": 1.49, "potenzieller_gewinn_euro": 16.39, "ziel_quote_range": "~1.5x-2x"},
+        "alt": {
+          "kombi_quote": 1.61,
+          "potenzieller_gewinn_euro": 17.71,
+          "ziel_quote_range": "~2.5x-3x"
+        },
+        "neu": {
+          "kombi_quote": 1.49,
+          "potenzieller_gewinn_euro": 16.39,
+          "ziel_quote_range": "~1.5x-2x"
+        },
         "grund": "kombi_quote 1.61 stimmte nicht mit gesamtquote 1.49 (= 1.05 x 1.20 x 1.18) ueberein. Begruendung referenzierte ein 4. Bein im NL-Spiel (Ueber 1.5), das jedoch nicht in beine[] stand. Layer-1 hard verbietet 2 Beine im selben Spiel pro Kombi - daher Begruendung gefixt + kombi_quote/potenzieller_gewinn auf die tatsaechlichen 3 Beine angepasst."
       }
     ],
@@ -734,7 +742,17 @@
       },
       {
         "art": "torschuetze_quelle_warn",
-        "tipps_betroffen": ["Haller", "Undav", "Wirtz", "Isak", "Gyoekeres", "Gakpo", "Malen", "Yildiz", "A. Diallo"],
+        "tipps_betroffen": [
+          "Haller",
+          "Undav",
+          "Wirtz",
+          "Isak",
+          "Gyoekeres",
+          "Gakpo",
+          "Malen",
+          "Yildiz",
+          "A. Diallo"
+        ],
         "details": "Alle Torschuetzen-Tipps haben _torschuetze_quelle_warn: true Flag, weil saison_kontext.quellen[] keine Vereins-spezifische Spieler-Quelle (transfermarkt/kicker/espn player-Seite) enthaelt. Mapper-Regel: max wackel statt value/safe. Kategorie schon korrekt auf wackel gesetzt - kein zusaetzliches Downgrade noetig."
       },
       {
@@ -754,9 +772,15 @@
     "layer_2_check": {
       "status": "OK",
       "sieg_outcomes_pro_spiel_kombi": {
-        "2026-06-26-tun-ned": ["safe-kombi DC X2"],
-        "2026-06-25-ecu-ger": ["safe-kombi DC X2"],
-        "2026-06-25-cur-civ": ["safe-kombi DC X2"]
+        "2026-06-26-tun-ned": [
+          "safe-kombi DC X2"
+        ],
+        "2026-06-25-ecu-ger": [
+          "safe-kombi DC X2"
+        ],
+        "2026-06-25-cur-civ": [
+          "safe-kombi DC X2"
+        ]
       },
       "details": "Sieg-Outcomes (DC X2) alle 3 nur in safe-kombi. Kein Sieg-Outcome doppelt in 2 Kombis. Layer-2 hard erfuellt."
     },
