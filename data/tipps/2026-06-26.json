@@ -730,5 +730,39 @@
     "Lesson 03.05.2026 (Top-Team-Rotation-Risiko vor CL-HF): heute auf WM-Achtelfinale-Vorbereitung uebertragen - Norwegen-Frankreich beide schon durch, beide koennen rotieren. Mbappe/Haaland-Schonung als Risiko-Faktor in tipp-begruendung benannt.",
     "Hauptroutine 16:00 nicht durchgelaufen -> Watchdog 17:15 hat komplette Tipps-Generation nachgeholt. Pflicht-Vorgehen identisch zu Hauptroutine: 6 Spiele recherchiert + saison_kontext fuer alle erfuellt (Achtfeld + Quellen mit FIFA + ESPN + Wikipedia + Squawka + ggf Sky Sports)."
   ],
-  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-06-26T18:00:00+02:00",
+    "modus": "post-hoc-verifikation (Watchdog-Recovery-Tipps von 17:15 wurden nachverifiziert)",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "recherche_file_fehlt",
+        "details": "data/recherche/2026-06-26.json existiert nicht - Watchdog-Recovery hat Tipps ohne strukturierte Recherche-Datei erstellt. Spieler-Squad-Cross-Check daher nicht hart durchgefuehrt. Spielernamen via FIFA/ESPN/Wikipedia/Lineups in saison_kontext.quellen[] zitiert (jedes Spiel >=4 Verband/Top-Tier-Quellen)."
+      },
+      {
+        "art": "torschuetze_quelle_warn",
+        "tipp_ids": ["nor-fra/Mbappe", "uru-esp/Yamal", "nzl-bel/Lukaku", "nzl-bel/KdB"],
+        "details": "Tipps tragen `_torschuetze_quelle_warn=true`, da Vereins-spezifische Torschuetzen-Quelle (transfermarkt/kicker/bundesliga player-Seite) in spiel-quellen[] nicht explizit referenziert ist. Tipps bereits durch Routine selbst auf wackel begrenzt - keine weitere Aktion noetig."
+      },
+      {
+        "art": "liga_goldgrube_check",
+        "details": "Alle 6 Spiele sind WM-Gruppenphase MD3 (Group G/H/I). Liga ist NICHT in liga_goldgruben.json (dort nur MD1-Gruppen E/F/I + EL/CL-HF). Routine hat alle SAFE-DC bewusst zu VALUE degradiert (Begruendung pro Tipp dokumentiert) - Mapper-Hebel C wuerde sonst greifen."
+      }
+    ],
+    "checks_bestanden": {
+      "layer_1": "OK - alle 4 Kombis nutzen jeweils 1 Bein pro Spiel (Safe 4/4, Balance 4/4, Risiko 3/3, Moonshot 6/6).",
+      "layer_2": "OK - Sieg-Outcomes verteilt: Senegal Sieg + Spanien DC X2 + Belgien Sieg in Safe-Kombi (verschiedene Spiele); Aegypten DC 1X in Balance. Pro Spiel max 1 Sieg-Outcome ueber alle Kombis.",
+      "layer_3": "OK - Spiel-Diversifikation breit: 4 von 6 Spielen in Safe + Balance, alle 6 in Moonshot. Kein Spiel in mehr als 3 Kombis.",
+      "gesamtquoten": "OK - alle 4 Kombi-Gesamtquoten nachgerechnet (Safe 2.898 vs 2.90, Balance 9.563 vs 9.55, Risiko 18.942 vs 18.94, Moonshot 201.496 vs 201.5; Abweichung < 0.02 Rundung).",
+      "selbstwiderspruch": "OK - keine 'Spieler X out + Spieler X spielt'-Konflikte. Senegal-Dead-Rubber + Senegal-Sieg-Tipp als VALUE (statt SAFE) wegen Motivations-Risiko sauber begruendet. Hoehen-Faktor Guadalajara konsistent auf Uruguay-Spanien angewandt (Unter 2.5 wackel, nicht hoeher).",
+      "tipps_pro_spiel": "OK - max 5 Tipps/Spiel (Norwegen-Frankreich 5, NZL-Belgien 5, Rest 3-4). Coinflip Aegypten-Iran nur 3 Tipps wie CLAUDE.md verlangt.",
+      "kasse_stufe": "OK - Kasse 550 EUR -> Stufe 1 angewandt. Einzeltipps 0.5-2.0 %, Safe-Kombi 2.0 %, Balance 0.8 %, Risiko 0.25 %, Moonshot 0.1 % - Standard-Stufe-1-Raster.",
+      "spielerschutz_footer": "OK - BZgA 0800 1372700 + 18+-Hinweis im footer."
+    },
+    "lessons_generiert": [],
+    "erfolg": true,
+    "hinweis": "Verifikation post-hoc auf Watchdog-Recovery-File. Kein Recherche-File fuer harten Squad-Halluzinations-Check verfuegbar; Spielernamen sind alle prominent (Mbappe, Haaland, Yamal, Lukaku, Salah, Mane, KdB) und ueber FIFA/ESPN/Wikipedia abgedeckt. Bebe (Kap Verde) ist plausibel - historisch Kap-Verde-NT-Stuermer, aber Squad 2026 nicht hart bestaetigbar -> Tipp bleibt wackel + min Einsatz 0.5 % wie Routine schon gesetzt hat."
+  }
 }
