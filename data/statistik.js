@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-06-25T07:15:04+00:00",
+  "letzte_berechnung": "2026-06-26T07:13:55+00:00",
   "gesamt": {
-    "tipps": 430,
-    "gewonnen": 238,
-    "verloren": 181,
+    "tipps": 442,
+    "gewonnen": 244,
+    "verloren": 187,
     "push": 2,
     "offen": 9,
-    "einsatz": 421.0,
-    "netto": 38.27,
-    "trefferquote": 56.8,
-    "roi_prozent": 9.1
+    "einsatz": 433.0,
+    "netto": 34.92,
+    "trefferquote": 56.6,
+    "roi_prozent": 8.1
   },
   "letzte_30_tage": {
-    "tipps": 143,
-    "gewonnen": 84,
-    "verloren": 59,
+    "tipps": 153,
+    "gewonnen": 89,
+    "verloren": 64,
     "push": 0,
     "offen": 0,
-    "einsatz": 143.0,
-    "netto": 15.18,
-    "trefferquote": 58.7,
-    "roi_prozent": 10.6
+    "einsatz": 153.0,
+    "netto": 11.92,
+    "trefferquote": 58.2,
+    "roi_prozent": 7.8
   },
   "letzte_90_tage": {
-    "tipps": 430,
-    "gewonnen": 238,
-    "verloren": 181,
+    "tipps": 442,
+    "gewonnen": 244,
+    "verloren": 187,
     "push": 2,
     "offen": 9,
-    "einsatz": 421.0,
-    "netto": 38.27,
-    "trefferquote": 56.8,
-    "roi_prozent": 9.1
+    "einsatz": 433.0,
+    "netto": 34.92,
+    "trefferquote": 56.6,
+    "roi_prozent": 8.1
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -848,6 +848,39 @@ window.__MIESMUSCHEL_STAT = {
       "netto": -1.0,
       "trefferquote": 0.0,
       "roi_prozent": -100.0
+    },
+    "FIFA WM 2026 - Gruppe F - Spieltag 3 (Decider)": {
+      "tipps": 6,
+      "gewonnen": 3,
+      "verloren": 3,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 6.0,
+      "netto": -1.75,
+      "trefferquote": 50.0,
+      "roi_prozent": -29.2
+    },
+    "FIFA WM 2026 - Gruppe E - Spieltag 3 (Decider)": {
+      "tipps": 5,
+      "gewonnen": 2,
+      "verloren": 3,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 5.0,
+      "netto": -2.17,
+      "trefferquote": 40.0,
+      "roi_prozent": -43.4
+    },
+    "FIFA WM 2026 - Gruppe D - Spieltag 3 (Decider, Coinflip)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.57,
+      "trefferquote": 100.0,
+      "roi_prozent": 57.0
     }
   },
   "nach_markt": {
@@ -1655,15 +1688,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 42.0
     },
     "Unter 2.5 Tore": {
-      "tipps": 13,
-      "gewonnen": 9,
+      "tipps": 14,
+      "gewonnen": 10,
       "verloren": 4,
       "push": 0,
       "offen": 0,
-      "einsatz": 13.0,
-      "netto": 4.48,
-      "trefferquote": 69.2,
-      "roi_prozent": 34.5
+      "einsatz": 14.0,
+      "netto": 5.05,
+      "trefferquote": 71.4,
+      "roi_prozent": 36.1
     },
     "Unter 211.5 Punkte (Total)": {
       "tipps": 1,
@@ -2018,15 +2051,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -100.0
     },
     "Ueber 2.5 Tore": {
-      "tipps": 20,
-      "gewonnen": 11,
+      "tipps": 22,
+      "gewonnen": 13,
       "verloren": 7,
       "push": 0,
       "offen": 2,
-      "einsatz": 18.0,
-      "netto": 7.93,
-      "trefferquote": 61.1,
-      "roi_prozent": 44.1
+      "einsatz": 20.0,
+      "netto": 9.03,
+      "trefferquote": 65.0,
+      "roi_prozent": 45.1
     },
     "Unter 3.5 Tore": {
       "tipps": 4,
@@ -4249,6 +4282,105 @@ window.__MIESMUSCHEL_STAT = {
       "netto": -1.0,
       "trefferquote": 0.0,
       "roi_prozent": -100.0
+    },
+    "Doppelte Chance X2 (Niederlande oder Remis)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.05,
+      "trefferquote": 100.0,
+      "roi_prozent": 5.0
+    },
+    "Deniz Undav Jederzeit-Torschuetze": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Cody Gakpo Jederzeit-Torschuetze": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Doppelte Chance X2 (Deutschland oder Remis)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Doppelte Chance X2 (Elfenbeinkueste oder Remis)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.18,
+      "trefferquote": 100.0,
+      "roi_prozent": 18.0
+    },
+    "Alexander Isak Jederzeit-Torschuetze": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Beide Mannschaften treffen Ja": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.75,
+      "trefferquote": 100.0,
+      "roi_prozent": 75.0
+    },
+    "Sebastien Haller Jederzeit-Torschuetze": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Viktor Gyokeres Jederzeit-Torschuetze": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
     }
   },
   "nach_markt_typ": {
@@ -4308,26 +4440,26 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 4.2
     },
     "Torschuetzen Jederzeit": {
-      "tipps": 72,
+      "tipps": 77,
       "gewonnen": 29,
-      "verloren": 41,
+      "verloren": 46,
       "push": 2,
       "offen": 0,
-      "einsatz": 72.0,
-      "netto": 15.35,
-      "trefferquote": 41.4,
-      "roi_prozent": 21.3
+      "einsatz": 77.0,
+      "netto": 10.35,
+      "trefferquote": 38.7,
+      "roi_prozent": 13.4
     },
     "Unter 2.5 Tore": {
-      "tipps": 21,
-      "gewonnen": 13,
+      "tipps": 22,
+      "gewonnen": 14,
       "verloren": 8,
       "push": 0,
       "offen": 0,
-      "einsatz": 21.0,
-      "netto": 4.85,
-      "trefferquote": 61.9,
-      "roi_prozent": 23.1
+      "einsatz": 22.0,
+      "netto": 5.42,
+      "trefferquote": 63.6,
+      "roi_prozent": 24.6
     },
     "Doppelte Chance 1X": {
       "tipps": 27,
@@ -4341,26 +4473,26 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 2.2
     },
     "Doppelte Chance X2": {
-      "tipps": 25,
-      "gewonnen": 19,
-      "verloren": 4,
+      "tipps": 28,
+      "gewonnen": 21,
+      "verloren": 5,
       "push": 0,
       "offen": 2,
-      "einsatz": 23.0,
-      "netto": 3.22,
-      "trefferquote": 82.6,
-      "roi_prozent": 14.0
+      "einsatz": 26.0,
+      "netto": 2.45,
+      "trefferquote": 80.8,
+      "roi_prozent": 9.4
     },
     "Ueber 2.5 Tore": {
-      "tipps": 34,
-      "gewonnen": 20,
+      "tipps": 36,
+      "gewonnen": 22,
       "verloren": 12,
       "push": 0,
       "offen": 2,
-      "einsatz": 32.0,
-      "netto": 10.53,
-      "trefferquote": 62.5,
-      "roi_prozent": 32.9
+      "einsatz": 34.0,
+      "netto": 11.63,
+      "trefferquote": 64.7,
+      "roi_prozent": 34.2
     },
     "Beide Teams treffen JA": {
       "tipps": 9,
@@ -4746,41 +4878,52 @@ window.__MIESMUSCHEL_STAT = {
       "netto": -1.0,
       "trefferquote": 0.0,
       "roi_prozent": -100.0
+    },
+    "Beide Mannschaften treffen Ja": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.75,
+      "trefferquote": 100.0,
+      "roi_prozent": 75.0
     }
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 198,
-      "gewonnen": 103,
-      "verloren": 90,
+      "tipps": 202,
+      "gewonnen": 106,
+      "verloren": 91,
       "push": 1,
       "offen": 4,
-      "einsatz": 194.0,
-      "netto": 13.53,
-      "trefferquote": 53.4,
-      "roi_prozent": 7.0
+      "einsatz": 198.0,
+      "netto": 14.5,
+      "trefferquote": 53.8,
+      "roi_prozent": 7.3
     },
     "2.00-3.00": {
-      "tipps": 59,
+      "tipps": 63,
       "gewonnen": 24,
-      "verloren": 33,
+      "verloren": 37,
       "push": 1,
       "offen": 1,
-      "einsatz": 58.0,
-      "netto": 7.44,
-      "trefferquote": 42.1,
-      "roi_prozent": 12.8
+      "einsatz": 62.0,
+      "netto": 3.44,
+      "trefferquote": 39.3,
+      "roi_prozent": 5.5
     },
     "1.00-1.50": {
-      "tipps": 155,
-      "gewonnen": 105,
-      "verloren": 46,
+      "tipps": 159,
+      "gewonnen": 108,
+      "verloren": 47,
       "push": 0,
       "offen": 4,
-      "einsatz": 151.0,
-      "netto": 9.75,
-      "trefferquote": 69.5,
-      "roi_prozent": 6.5
+      "einsatz": 155.0,
+      "netto": 9.43,
+      "trefferquote": 69.7,
+      "roi_prozent": 6.1
     },
     "3.00+": {
       "tipps": 18,
@@ -4796,37 +4939,37 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_kategorie": {
     "safe": {
-      "tipps": 88,
-      "gewonnen": 58,
+      "tipps": 89,
+      "gewonnen": 59,
       "verloren": 30,
       "push": 0,
       "offen": 0,
-      "einsatz": 88.0,
-      "netto": 0.9,
-      "trefferquote": 65.9,
-      "roi_prozent": 1.0
+      "einsatz": 89.0,
+      "netto": 0.95,
+      "trefferquote": 66.3,
+      "roi_prozent": 1.1
     },
     "value": {
-      "tipps": 258,
-      "gewonnen": 140,
-      "verloren": 107,
+      "tipps": 263,
+      "gewonnen": 144,
+      "verloren": 108,
       "push": 2,
       "offen": 9,
-      "einsatz": 249.0,
-      "netto": 31.21,
-      "trefferquote": 56.7,
-      "roi_prozent": 12.5
+      "einsatz": 254.0,
+      "netto": 32.24,
+      "trefferquote": 57.1,
+      "roi_prozent": 12.7
     },
     "wackel": {
-      "tipps": 84,
-      "gewonnen": 40,
-      "verloren": 44,
+      "tipps": 90,
+      "gewonnen": 41,
+      "verloren": 49,
       "push": 0,
       "offen": 0,
-      "einsatz": 84.0,
-      "netto": 6.16,
-      "trefferquote": 47.6,
-      "roi_prozent": 7.3
+      "einsatz": 90.0,
+      "netto": 1.73,
+      "trefferquote": 45.6,
+      "roi_prozent": 1.9
     }
   },
   "clv_gesamt": {
@@ -4868,6 +5011,155 @@ window.__MIESMUSCHEL_STAT = {
     }
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-06-25",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "?",
+          "kategorie": "safe",
+          "gesamtquote": 1.49,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Niederlande Doppelte Chance X2",
+              "quote": 1.05,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Deutschland Doppelte Chance X2",
+              "quote": 1.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Elfenbeinkueste Doppelte Chance X2",
+              "quote": 1.18,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "?",
+          "kategorie": "balance",
+          "gesamtquote": 12.39,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Niederlande-Tunesien Ueber 2.5 Tore",
+              "quote": 1.45,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Deniz Undav Jederzeit-Torschuetze",
+              "quote": 2.1,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Alexander Isak Jederzeit-Torschuetze",
+              "quote": 2.2,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "?",
+          "kategorie": "risk",
+          "gesamtquote": 23.76,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Cody Gakpo Jederzeit-Torschuetze",
+              "quote": 1.8,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Florian Wirtz Jederzeit-Torschuetze",
+              "quote": 2.4,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Amad Diallo Jederzeit-Torschuetze",
+              "quote": 2.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Viktor Gyokeres Jederzeit-Torschuetze",
+              "quote": 2.0,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "?",
+          "kategorie": "moonshot",
+          "gesamtquote": 850.5,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Deniz Undav Doppelpack (2+ Tore)",
+              "quote": 4.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Alexander Isak Doppelpack (2+ Tore)",
+              "quote": 4.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Yan Diomande Jederzeit-Torschuetze (Bench-Joker)",
+              "quote": 3.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Cody Gakpo Doppelpack (2+ Tore)",
+              "quote": 4.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Kenan Yildiz Jederzeit-Torschuetze",
+              "quote": 3.5,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-06-24",
       "gesamt": {

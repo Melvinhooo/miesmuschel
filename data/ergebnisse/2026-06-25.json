@@ -1,0 +1,1691 @@
+{
+  "datum": "2026-06-25",
+  "erstellt_am": "2026-06-25T17:15:00+02:00",
+  "hinweis": "Watchdog-Recovery Mo-Fr 17:15 Berlin (Hauptroutine 16:00 nicht durchgelaufen). WM-2026-Gruppenphase ABSCHLUSS-SPIELTAG 3 fuer Gruppen D, E, F - 6 Spiele im Fenster 22:00 bis 04:00 Berlin. Mehrere echte Decider: Curacao MUSS Sieg + IC reicht Remis (Group E), Ecuador MUSS Sieg vs schon-durch-Deutschland, Sweden MUSS Sieg + Japan reicht Remis (Group F), Niederlande gegen schon-out-Tunesien (Gruppensieg-Sicherung), USA schon durch + Tuerkiye out (Quasi-Test), Paraguay-Australien echter Decider um Platz 2. NBA Finals abgeschlossen (Knicks 4-1 vs Spurs am 13.06.) - kein Basketball heute. Vereinsfussball Saison-Pause bis August. Kasse 550 EUR -> Stufe 1 (Aufbau, konservative Einsaetze 0.5-1.5%). Beobachtungs-Liste hat nur Group-B-Spieltag-1 + NBA-Game-3 - heute nicht betroffen. Markt-Goldgruben: Ueber/Unter 2.5 Tore, Torschuetzen Jederzeit, Doppelte Chance X2/1X. Form-Edge-Schwerpunkte: Undav (3 Tore in 57min), Gakpo (Form-Lauf), Isak + Gyoekeres (Sweden Doppelsturm), Diomande (90.-Minute-Goal MD1). PFLICHT-PROFILE umgesetzt: pro Heim/Auswaerts-Favorit mind. 1 Torschuetzen-Tipp, Paraguay-Australien als COINFLIP nur 3 Tipps ohne SAFE.",
+  "spiele": [
+    {
+      "id": "2026-06-25-cur-civ",
+      "liga": "FIFA WM 2026 - Gruppe E - Spieltag 3 (Decider)",
+      "heim": "Curacao",
+      "gast": "Elfenbeinkueste",
+      "anstoss": "2026-06-25T22:00:00+02:00",
+      "stadion": "Lincoln Financial Field, Philadelphia",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM 2026 ist alleiniger Wettbewerb. Curacao zum 2. Mal bei einer WM, kein Vereins-Doppelbelastungs-Thema.",
+        "parallel_gast": "keine - WM 2026 ist alleiniger Wettbewerb. Vereinsspieler aus PL/Serie A/Ligue 1 hatten ~10 Tage Pause vor WM-Start.",
+        "saisonziel_heim": "Curacao Gruppe E mit 1 Pkt (0:7 vs Deutschland MD1, 0:0 vs Ecuador MD2). Tabelle Platz 4 mit Tordifferenz -7. Saisonziel: ueberhaupt Achtelfinal-Chance halten. MUSS-Sieg + braucht Ivory-Coast-Niederlage gegen Ecuador-Tabelle... bzw. Drittplatzierten-Quali. Sehr unwahrscheinlich.",
+        "saisonziel_gast": "Elfenbeinkueste Gruppe E mit 3 Pkt (1:0 vs Ecuador MD1 - Amad Diallo 90+, 1:2 vs Deutschland MD2). Tabelle Platz 2 mit Tordifferenz 0. Saisonziel: Achtelfinale - durch Remis bereits gesichert (vor Ecuador mit nur 1 Pkt). AFCON-2023-Sieger, Klassen-Edge gegen Curacao deutlich.",
+        "motivations_asymmetrie": "Curacao MUSS-Sieg ohne realistische Chance auf Tabelle - Underdog-Outsider-Modus (FIFA-Rang ~82). Elfenbeinkueste reicht Remis fuer Achtelfinal-Quali, kann aber auch auf Sieg gehen um Gruppensieg-Szenario abzusichern (falls Deutschland gegen Ecuador stolpert). Klassen-Edge + Motivations-Doppel-Spiel zugunsten IC.",
+        "recovery_heim": "5 Tage Pause seit 0:0 vs Ecuador (20.06.) - Standard-Erholung. Kaderbelastung gering, da kaum Vereins-Top-Niveau.",
+        "recovery_gast": "5 Tage Pause seit 1:2 vs Deutschland (20.06.) - Standard-Erholung. Saison-Muedigkeit bei PL-Spielern (Amad Diallo/ManUtd, Haller/Dortmund-Leihe) moeglich.",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+          "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_E",
+          "https://www.foxsports.com/stories/soccer/2026-world-cup-curacao-ivory-coast-odds-prediction-picks",
+          "https://www.sportsmole.co.uk/football/curacao/world-cup-2026/preview/curacao-vs-ivory-coast-prediction-team-news-lineups_599885.html",
+          "https://www.skysports.com/football/news/12098/13543089/world-cup-2026-group-e-guide-fixtures-schedule-standings-and-odds-for-germany-curacao-ivory-coast-and-ecuador"
+        ]
+      },
+      "news": [
+        "Elfenbeinkueste Aufstellung erwartet (3-4-3): Sangare; Singo, Boli, Diomande; A Ndiaye, Seri, Kessie, K Konan; Pepe, Haller, Diallo. Bei Sieg-Strategie ggf Diomande/Yan vorne.",
+        "Curacao Aufstellung erwartet (4-2-3-1): Roemeratoe; Bacuna, Pieter, Sambo, Martina; Schoop, Lo-A-Njoe; Anita, Bandeira, Kasanwirjo; Cuypers.",
+        "IC braucht nur Remis fuer Achtelfinale - kann sicher spielen. Curacao MUSS Sieg = wird offensiv aufmachen - Raum hinter ihrer Abwehr.",
+        "Yan Diomande (RB Leipzig) ist im IC-Kader als Bench-Option fuer Doppel-Sturm in Sieg-Szenario - Backup-Stuermer mit Form."
+      ],
+      "tipps": [
+        {
+          "markt": "Doppelte Chance X2 (Elfenbeinkueste oder Remis)",
+          "quote": 1.18,
+          "einsatz_euro": 8.25,
+          "begruendung": "IC reicht Remis fuer Achtelfinale + Klassen-Edge vs Curacao + 90er-Minute-Tor letztes Direktduell (MD1 vs Ecuador). Markt-Goldgrube DC X2: 82.6% Hitrate / +14% ROI. Wir bleiben bei VALUE statt SAFE da Gruppe-E-Spieltag-3 NICHT in liga_goldgruben.json (nur Spieltag 1 ist Goldgrube).",
+          "kategorie": "value",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.18,
+          "id": "2026-06-25-cur-civ-t1"
+        },
+        {
+          "markt": "Sebastien Haller Jederzeit-Torschuetze",
+          "quote": 2.4,
+          "einsatz_euro": 5.5,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (41.4% Hitrate / +21.3% ROI). IC will Gruppensieg-Szenario absichern - wird offensiv spielen. Curacao-Defensive nach 0:7 vs Deutschland angeschlagen + Klassen-Edge IC-Sturm. Einwechslungs-Boost bei bet365 zaehlt: wenn Haller raus + Diallo/Diomande rein und treffen, Tipp ist durch. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 2.4,
+          "_torschuetze_quelle_warn": true,
+          "id": "2026-06-25-cur-civ-t2"
+        },
+        {
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.85,
+          "einsatz_euro": 2.75,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (62.5% Hitrate / +32.9% ROI). Curacao MUSS-Sieg-Modus = Risiko-Aufmachen. IC mit Sturm-Tiefe (Haller, Diallo, Pepe, Diomande als Backup). Risiko: IC kann Remis-Modus spielen und Curacao trifft nicht (haben in 2 Spielen 0 Tore). Wackel statt VALUE wegen Curacao-Tor-Risiko.",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.85,
+          "id": "2026-06-25-cur-civ-t3"
+        },
+        {
+          "markt": "Amad Diallo Jederzeit-Torschuetze",
+          "quote": 2.75,
+          "einsatz_euro": 2.75,
+          "begruendung": "Diallo schoss das 90+Tor MD1 vs Ecuador - Form-Edge da. Markt-Goldgrube Torschuetzen Jederzeit. Wackel weil IC ggf rotiert (Saison-Muedigkeit ManUtd-Saison).",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 2.75,
+          "id": "2026-06-25-cur-civ-t4"
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 0,
+        "gast": 2,
+        "endstand": "0:2",
+        "kommentar": "Curacao 0:2 Elfenbeinkueste - Pepe Doppelpack (7' nach Diomande-Assist, 64'). IC erreicht Achtelfinale erstmals. Curacao eliminiert."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-06-25-cur-civ-t1",
+          "markt": "Doppelte Chance X2 (Elfenbeinkueste oder Remis)",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.18,
+          "kommentar": "IC gewann 2:0.",
+          "clv_prozent": null,
+          "opening_quote": 1.18,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-25-cur-civ-t2",
+          "markt": "Sebastien Haller Jederzeit-Torschuetze",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Haller traf nicht. Pepe-Doppelpack.",
+          "clv_prozent": null,
+          "opening_quote": 2.4,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-25-cur-civ-t3",
+          "markt": "Ueber 2.5 Tore",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Nur 2 Tore total.",
+          "clv_prozent": null,
+          "opening_quote": 1.85,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-25-cur-civ-t4",
+          "markt": "Amad Diallo Jederzeit-Torschuetze",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Diallo subbed off 45' fuer Oulai. Oulai traf nicht - kein Einwechslungs-Boost.",
+          "clv_prozent": null,
+          "opening_quote": 2.75,
+          "closing_quote": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "0:2",
+        "tore": [
+          {
+            "min": 7,
+            "team": "gast",
+            "spieler": "Nicolas Pepe (Vorlage Y. Diomande)",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 64,
+            "team": "gast",
+            "spieler": "Nicolas Pepe (Vorlage I. Sangare)",
+            "stand_danach": "0:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "IC fuehrte 0:1 HZ, 0:2 nach 64'. Klassen-Edge realisiert ohne Comeback-Risiko."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Gast/Gast",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Pepe Karriere-Highlight (35) - Doppelpack im Decider. Yan Diomande (Bench-Joker im Moonshot getippt) hatte zwar Assist zum 1:0 aber kein Tor - 67' fuer Toure ausgewechselt.",
+          "A. Diallo zur HZ fuer Oulai ausgewechselt - kein Boost da Oulai nicht traf. Curacao 0 Tore in 3 WM-Spielen - Sturm-Total-Ausfall."
+        ]
+      }
+    },
+    {
+      "id": "2026-06-25-ecu-ger",
+      "liga": "FIFA WM 2026 - Gruppe E - Spieltag 3 (Decider)",
+      "heim": "Ecuador",
+      "gast": "Deutschland",
+      "anstoss": "2026-06-25T22:00:00+02:00",
+      "stadion": "MetLife Stadium, East Rutherford NJ",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM 2026 ist alleiniger Wettbewerb. Ecuador-Spieler ueberwiegend aus heimischer Liga + Brasilien-Argentinien-Klubs - Saison-Belastung moderat.",
+        "parallel_gast": "keine - WM 2026 ist alleiniger Wettbewerb. Bundesliga-Spieler hatten ~10 Tage Pause nach Saisonende (Mai). UEFA-Club-Wettbewerbe abgeschlossen (CL-Finale 31.05.).",
+        "saisonziel_heim": "Ecuador Gruppe E mit 1 Pkt (0:1 vs IC MD1, 0:0 vs Curacao MD2). Tabelle Platz 3 mit Tordifferenz -1. 0 Tore in 2 Spielen - Sturm-Problem. MUSS-Sieg + braucht Drittplatzierten-Quali (theoretisch noch moeglich, aber unwahrscheinlich).",
+        "saisonziel_gast": "Deutschland Gruppe E mit 6 Pkt (7:1 vs Curacao MD1, 2:1 vs IC MD2 mit Undav-Doppelpack als Joker). Tabelle Platz 1, Achtelfinale gesichert, Gruppensieg quasi sicher (+8 Tordifferenz). Saisonziel: bis HF/Final laufen - Nagelsmann will rotieren um Stammkraefte zu schonen.",
+        "motivations_asymmetrie": "Ecuador MUSS-Sieg mit kaputter Offensive (0 Tore in 2 Spielen, ohne ihren wichtigsten Kreativspieler Kendry Paez wegen Gelb-Sperre). Deutschland reicht alles + wird voraussichtlich rotieren (Schlotterbeck Tournament-out). Klassen-Edge Deutschland deutlich, aber Rotations-Risiko + Ecuador-MUSS-Sieg-Druck koennte Ueberraschung ermoeglichen. Edge fuer Deutschland trotz Rotation.",
+        "recovery_heim": "5 Tage Pause seit 0:0 vs Curacao (20.06.) - Standard-Erholung.",
+        "recovery_gast": "5 Tage Pause seit 2:1 vs IC (20.06.) - Standard-Erholung. Nagelsmann signalisierte Rotation - Stammkraft-Schonung im Sicherheits-Spiel.",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+          "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_E",
+          "https://www.squawka.com/us/news/world-cup/match-preview-ecuador-vs-germany-06-25-26-world-cup-2026/",
+          "https://www.covers.com/world-cup/germany-vs-ecuador-prediction-picks-odds-thursday-6-25-2026",
+          "https://www.racingpost.com/sport/football-tips/world-cup-2026/ecuador-vs-germany-betting-tips-predictions-team-news-odds-bet-builder-aq3YX8o0kQbj/",
+          "https://www.rotowire.com/soccer/article/ecuador-vs-germany-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-e-119485"
+        ]
+      },
+      "news": [
+        "Deutschland: Schlotterbeck Tournament-out (Verletzung), Nagelsmann rotiert. Undav (3 Tore in 57min Joker) ist Form-Stuermer - heute moeglicherweise von Beginn an statt/mit Havertz.",
+        "Ecuador: Kendry Paez gesperrt (Gelb-Akkumulation). 0 Tore in 2 Spielen - Sturm um Enner Valencia + Plata laeuft nicht.",
+        "Ecuador Aufstellung erwartet (3-1-4-2): Galindez; Franco, Pacho, Hincapie; Alcivar; Yeboah, Vite, M Caicedo, Estupinan; Plata, E Valencia.",
+        "Deutschland Aufstellung erwartet: rotierte Elf mit Undav vorne, Sane/Wirtz/Adeyemi auf Fluegeln, Pavlovic + Goretzka oder Stiller + Andrich im Mittelfeld - genaue Aufstellung wird vor Anpfiff klar."
+      ],
+      "tipps": [
+        {
+          "markt": "Doppelte Chance X2 (Deutschland oder Remis)",
+          "quote": 1.2,
+          "einsatz_euro": 8.25,
+          "begruendung": "Deutschland Auswaerts-Favorit @ ~1.65 + Klassen-Edge + Ecuador 0 Tore in 2 Spielen + ohne Paez. Markt-Goldgrube DC X2 (82.6% Hitrate / +14% ROI). Selbst bei Rotation reicht 1-Tor-Vorsprung. 2:0-Insurance gilt fuer WM 2026 - bei 2-Tore-Fuehrung Tipp auch bei Drehung durch.",
+          "kategorie": "value",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.2,
+          "id": "2026-06-25-ecu-ger-t1"
+        },
+        {
+          "markt": "Deniz Undav Jederzeit-Torschuetze",
+          "quote": 2.1,
+          "einsatz_euro": 8.25,
+          "begruendung": "Undav Form-Edge MAX: 3 Tore in 57 Joker-Minuten vs IC MD2 = 2+ Tore in 1 Spiel triggert PFLICHT-Torschuetzen-Tipp. Heute voraussichtlich Startelf. Markt-Goldgrube Torschuetzen Jederzeit (41.4% / +21.3% ROI). Backup-Boost: wenn Undav raus + Havertz/Wirtz rein und treffen, Tipp durch. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 2.1,
+          "_torschuetze_quelle_warn": true,
+          "id": "2026-06-25-ecu-ger-t2"
+        },
+        {
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.65,
+          "einsatz_euro": 8.25,
+          "begruendung": "Deutschland 9 Tore in 2 Spielen + Ecuador MUSS-Sieg = wird Defensive opfern. Markt-Goldgrube Ueber 2.5 (62.5% / +32.9% ROI). Risiko: Deutschland rotierte Elf koennte zaeher anfangen + Ecuador trifft womoeglich endlich. VALUE wegen klarer Goldgrube + Form-Asymmetrie.",
+          "kategorie": "value",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.65,
+          "id": "2026-06-25-ecu-ger-t3"
+        },
+        {
+          "markt": "Florian Wirtz Jederzeit-Torschuetze",
+          "quote": 2.4,
+          "einsatz_euro": 2.75,
+          "begruendung": "Wenn Wirtz rotiert ist + Ecuador-Defensive aufmacht = Wirtz kreiert + trifft. Wackel statt VALUE da Rotation ungewiss (Sane/Adeyemi alternative Optionen). Markt-Goldgrube Torschuetzen Jederzeit.",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 2.4,
+          "id": "2026-06-25-ecu-ger-t4"
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 2,
+        "gast": 1,
+        "endstand": "2:1",
+        "kommentar": "Ecuador 2:1 Deutschland - Sane 2' Fuehrung, Angulo 7' Ausgleich, Plata 77' Siegtreffer. Deutschland verliert trotz Klassen-Edge - Drittplatzierten-Quali fuer Ecuador."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-06-25-ecu-ger-t1",
+          "markt": "Doppelte Chance X2 (Deutschland oder Remis)",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Deutschland verlor 1:2. Keine 2:0-Schwelle erreicht - kein Insurance-Trigger.",
+          "clv_prozent": null,
+          "opening_quote": 1.2,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-25-ecu-ger-t2",
+          "markt": "Deniz Undav Jederzeit-Torschuetze",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Undav 60' eingewechselt, kein Tor. Sane traf vor Undav-Sub - kein Vor-Sub-Boost moeglich.",
+          "clv_prozent": null,
+          "opening_quote": 2.1,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-25-ecu-ger-t3",
+          "markt": "Ueber 2.5 Tore",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.65,
+          "kommentar": "3 Tore (Sane/Angulo/Plata).",
+          "clv_prozent": null,
+          "opening_quote": 1.65,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-25-ecu-ger-t4",
+          "markt": "Florian Wirtz Jederzeit-Torschuetze",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Wirtz Vorlage zum Sane-Tor, kein eigener Treffer. Subbed off 75' fuer Gross - Gross traf nicht. Plata-Tor 77' = Ecuador-Tor, kein Boost moeglich.",
+          "clv_prozent": null,
+          "opening_quote": 2.4,
+          "closing_quote": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:1",
+        "endstand": "2:1",
+        "tore": [
+          {
+            "min": 2,
+            "team": "gast",
+            "spieler": "Leroy Sane (Vorlage Wirtz)",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 7,
+            "team": "heim",
+            "spieler": "Nilson Angulo",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 77,
+            "team": "heim",
+            "spieler": "Gonzalo Plata (Vorlage Rodriguez)",
+            "stand_danach": "2:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Deutschland fuehrte 0:1 nach 2 Min, Ecuador glich nach 5 Min aus. Keine 2-Tore-Differenz -> kein 2:0-Insurance-Trigger. Plata 77' Siegtreffer."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Heim",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Nagelsmann Rotation (Pavlovic+Kimmich aus, Stiller+Thiaw rein)",
+            "details": "Nagelsmann rotierte mit Achtelfinal-sicher-Modus - keine Schlagkraft im 2.HZ"
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "gast",
+            "ein": "Undav",
+            "aus": "Havertz",
+            "minute": 60,
+            "tor": false,
+            "tor_minute": null
+          },
+          {
+            "team": "gast",
+            "ein": "Gross",
+            "aus": "Wirtz",
+            "minute": 75,
+            "tor": false,
+            "tor_minute": null
+          }
+        ],
+        "auffaellige_patterns": [
+          "Schock-Niederlage Deutschland trotz fruehem 1:0 - Klassen-Edge nicht realisiert wegen Rotation + Ecuador-Muss-Sieg-Modus. Re-Validation der 'Top-Team-Rotation-vor-K.O. = Drehungs-Risiko' These.",
+          "Undav (Joker-Form-Edge MAX, 3 Tore in 57 Min vs IC) heute kein Tor in 30 Min Einsatz - Form-Edge gebrochen. Kein Boost-Trigger fuer Wirtz/Undav.",
+          "2:0-Insurance nicht erreicht (max 1-Tor-Differenz). DC X2 (GER) verloren da Ecuador 2:1 gewann."
+        ]
+      }
+    },
+    {
+      "id": "2026-06-26-jpn-swe",
+      "liga": "FIFA WM 2026 - Gruppe F - Spieltag 3 (Decider)",
+      "heim": "Japan",
+      "gast": "Schweden",
+      "anstoss": "2026-06-26T01:00:00+02:00",
+      "stadion": "AT&T Stadium, Arlington TX",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM 2026 ist alleiniger Wettbewerb. Japan-Spieler aus PL/Bundesliga (Doan/Eintracht, J Ito, Ueda, Itakura) hatten ~10 Tage Pause nach Saison.",
+        "parallel_gast": "keine - WM 2026 ist alleiniger Wettbewerb. Schweden-Spieler aus PL (Gyoekeres/Arsenal, Isak/Newcastle, Elanga/Forest, Lindelof/ManUtd) - Saison-Muedigkeit moeglich.",
+        "saisonziel_heim": "Japan Gruppe F mit 4 Pkt (2:2 vs NL MD1, 4:0 vs Tunesien MD2). Tabelle Platz 2 hinter NL (auch 4 Pkt, aber +4 vs NL +4 - praktisch gleich). Saisonziel: Achtelfinale - braucht nur Remis. Klassen-Edge gegen Schweden in Asien-Pace-Stil.",
+        "saisonziel_gast": "Schweden Gruppe F mit 3 Pkt (5:1 vs Tunesien MD1, 1:5 vs NL MD2 - Klatsche). Tabelle Platz 3. MUSS-Sieg fuer Achtelfinale (sonst eliminiert). Doppelsturm Gyoekeres+Isak als Form-Edge: Gyoekeres traf MD1, Isak traf MD1+MD2 = je 1+ Tore in 2 Spielen.",
+        "motivations_asymmetrie": "Schweden MUSS-Sieg = Doppel-Sturm-Risiko-Modus. Japan reicht Remis = potentiell defensiver. Gegen Schweden-Sturm-Doppelpack (Isak+Gyoekeres beide Form-fit) heisst das BTTS-Risiko + Goal-Activity hoch. Klassen-Edge eher Japan, aber Motivation deutlich Schweden.",
+        "recovery_heim": "5 Tage Pause seit 4:0 vs Tunesien (20.06.) - Standard-Erholung + Form-Schub.",
+        "recovery_gast": "5 Tage Pause seit 1:5 vs NL (20.06.) - Standard-Erholung, aber Selbstvertrauen angeknackst nach Klatsche.",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+          "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_F",
+          "https://www.squawka.com/us/news/world-cup/match-preview-japan-vs-sweden-06-25-26-world-cup-2026/",
+          "https://www.racingpost.com/sport/football-tips/world-cup-2026/japan-vs-sweden-world-cup-prediction-team-news-odds-betting-tips-and-bet-builder-aKsXj1J6aMIS/",
+          "https://news.sportsinteraction.com/soccer/fifa-world-cup/story/japan-vs-sweden-odds-prediction-062526-217233",
+          "https://www.rotowire.com/soccer/article/japan-vs-sweden-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-f-119486"
+        ]
+      },
+      "news": [
+        "Japan Aufstellung erwartet (3-4-2-1): Z Suzuki; Tomiyasu, Itakura, H Ito; Doan, Sano, Tanaka, Nakamura; J Ito, Kamada; Ueda.",
+        "Schweden Aufstellung erwartet (4-1-4-1 mit Doppel-Sturm-Variante): Nordfeldt; Lagerbielke, Hien, Lindelof; Karlstrom; Elanga, Bergvall, Ayari, Gudmundsson; Gyokeres, Isak.",
+        "Isak hat 2+ Tore in 2 WM-Spielen (MD1+MD2 jeweils 1) - Form-Edge. Gyoekeres traf MD1. Beide laufen in MUSS-Sieg-Mode."
+      ],
+      "tipps": [
+        {
+          "markt": "Alexander Isak Jederzeit-Torschuetze",
+          "quote": 2.2,
+          "einsatz_euro": 8.25,
+          "begruendung": "Isak Form-Edge: 2 Tore in 2 WM-Spielen (1+1) + MUSS-Sieg-Modus Schweden = Sturm-Druck max. Markt-Goldgrube Torschuetzen Jederzeit (41.4% / +21.3% ROI). Backup-Boost: wenn Isak raus + Backup (Gyoekeres bleibt vorne) trifft - bei bet365 zaehlt direkter Ersatz. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 2.2,
+          "_torschuetze_quelle_warn": true,
+          "id": "2026-06-26-jpn-swe-t1"
+        },
+        {
+          "markt": "Beide Mannschaften treffen Ja",
+          "quote": 1.75,
+          "einsatz_euro": 8.25,
+          "begruendung": "Schweden MUSS-Sieg-Doppel-Sturm + Japan trifft regelmaessig (2 vs NL, 4 vs Tunesien). Beide Teams 6+ Tore in 2 Spielen. Selbst wenn Japan defensiv beginnt, Schweden-Druck nach 60min foerdert Konter-Tore.",
+          "kategorie": "value",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.75,
+          "id": "2026-06-26-jpn-swe-t2"
+        },
+        {
+          "markt": "Viktor Gyokeres Jederzeit-Torschuetze",
+          "quote": 2.0,
+          "einsatz_euro": 5.5,
+          "begruendung": "Gyoekeres traf MD1 (gegen Tunesien) + Arsenal-Saison-Topstuermer mit Form-Lauf. MUSS-Sieg-Modus = wird voll attackieren. Markt-Goldgrube Torschuetzen Jederzeit. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 2.0,
+          "_torschuetze_quelle_warn": true,
+          "id": "2026-06-26-jpn-swe-t3"
+        },
+        {
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.65,
+          "einsatz_euro": 2.75,
+          "begruendung": "Beide Teams stark scorend, aber Japan koennte sich nach 1:0 zuruecklehnen. Markt-Goldgrube Ueber 2.5 (62.5% / +32.9% ROI), Wackel weil 1-Tor-Vorsprung Japan reichen wuerde fuer Achtelfinale-Sicherung.",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.65,
+          "id": "2026-06-26-jpn-swe-t4"
+        },
+        {
+          "markt": "Doppelte Chance 1X (Japan oder Remis)",
+          "quote": 1.3,
+          "einsatz_euro": 2.75,
+          "begruendung": "Japan reicht Remis + Klassen-Edge nominell. Markt-Goldgrube DC 1X (80% Hitrate). Wackel weil Schweden-MUSS-Sieg-Doppel-Sturm reale Ueberraschungs-Chance + Japan-Mentalitaet 'nicht verlieren' kann auch in Niederlage muenden wenn Druck einbricht.",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.3,
+          "id": "2026-06-26-jpn-swe-t5"
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 1,
+        "gast": 1,
+        "endstand": "1:1",
+        "kommentar": "Japan 1:1 Schweden - Maeda 56' (Doan-Assist), Elanga 62' Curve-Schuss. Beide Teams qualifiziert (Japan 2., Schweden 3.). Japan trifft auf Brasilien."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-06-26-jpn-swe-t1",
+          "markt": "Alexander Isak Jederzeit-Torschuetze",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Isak Latte-Treffer spaet, kein Tor.",
+          "clv_prozent": null,
+          "opening_quote": 2.2,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-26-jpn-swe-t2",
+          "markt": "Beide Mannschaften treffen Ja",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.75,
+          "kommentar": "Beide trafen (Maeda 56', Elanga 62').",
+          "clv_prozent": null,
+          "opening_quote": 1.75,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-26-jpn-swe-t3",
+          "markt": "Viktor Gyokeres Jederzeit-Torschuetze",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Gyokeres kein Tor.",
+          "clv_prozent": null,
+          "opening_quote": 2.0,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-26-jpn-swe-t4",
+          "markt": "Ueber 2.5 Tore",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Nur 2 Tore.",
+          "clv_prozent": null,
+          "opening_quote": 1.65,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-26-jpn-swe-t5",
+          "markt": "Doppelte Chance 1X (Japan oder Remis)",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.3,
+          "kommentar": "Remis 1:1.",
+          "clv_prozent": null,
+          "opening_quote": 1.3,
+          "closing_quote": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "1:1",
+        "tore": [
+          {
+            "min": 56,
+            "team": "heim",
+            "spieler": "Daizen Maeda (Vorlage R. Doan)",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 62,
+            "team": "gast",
+            "spieler": "Anthony Elanga",
+            "stand_danach": "1:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Japan fuehrte 1:0 (56') - Schweden glich nach 6 Min aus (62'). Keine 2-Tore-Differenz, kein 2:0-Trigger. Isak traf Latte spaet, kein Tor."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Unentschieden",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Decider-Remis trotz Schweden-MUSS-Sieg - sowohl Japan-Klassen-Edge als auch Schweden-Doppelsturm-Form-Edge neutralisiert (Isak/Gyokeres beide 0 Tore).",
+          "Form-Edge-Stuermer-Trauma: Isak (2 Tore in 2 MD) und Gyokeres (1 Tor MD1) heute beide leer trotz MUSS-Sieg-Modus. Form-Edge-Tag-12 Cluster-Brick.",
+          "Itakura ausgewechselt 1.HZ (Verletzungs-Sub Taniguchi) - Defensive umgebaut, Japan-Tor kam trotzdem."
+        ]
+      }
+    },
+    {
+      "id": "2026-06-26-tun-ned",
+      "liga": "FIFA WM 2026 - Gruppe F - Spieltag 3 (Decider)",
+      "heim": "Tunesien",
+      "gast": "Niederlande",
+      "anstoss": "2026-06-26T01:00:00+02:00",
+      "stadion": "Arrowhead Stadium, Kansas City",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM 2026 ist alleiniger Wettbewerb. Tunesien-Kader gemischt Frankreich-Ligue 1 + heimische Liga + Tuerkei - Saison-Belastung moderat.",
+        "parallel_gast": "keine - WM 2026 ist alleiniger Wettbewerb. NL-Kern aus PL (Van Dijk, Gakpo) + Eredivisie + Bundesliga (Reijnders, Gravenberch) - ~10 Tage Pause vor WM.",
+        "saisonziel_heim": "Tunesien Gruppe F mit 0 Pkt (1:5 vs Schweden MD1, 0:4 vs Japan MD2). Tabelle Platz 4, -9 Tordifferenz, bereits ELIMINIERT. Saisonziel: Wuerde-Tor. Motivation minimal.",
+        "saisonziel_gast": "Niederlande Gruppe F mit 4 Pkt (2:2 vs Japan MD1, 5:1 vs Schweden MD2). Tabelle Platz 1 (Tordifferenz +4 = gleich mit Japan +4, aber Tor-Total entscheidet). Saisonziel: Gruppensieg fuer guenstigeres Achtelfinal-Bracket. Heute MUSS-Sieg fuer Gruppensieg, da bei Punkt-Gleichheit Japan vorne sein koennte je nach Tordifferenz.",
+        "motivations_asymmetrie": "Niederlande MUSS-Sieg + Tordifferenz-Polster aufbauen (Japan parallel sicher gegen Schweden). Tunesien eliminiert + minimal motiviert = wenig Widerstand. Klassen-Edge NL extrem (PL/Champions-League-Top-Niveau vs Ligue 1/National-Mid-Tier). Markt-Implied-Probability NL @ 90%.",
+        "recovery_heim": "5 Tage Pause seit 0:4 vs Japan (20.06.) - Standard-Erholung, aber kein Motivations-Schub.",
+        "recovery_gast": "5 Tage Pause seit 5:1 vs Schweden (20.06.) - Standard-Erholung + Selbstvertrauen-Schub aus 5-Tore-Sieg.",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+          "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_F",
+          "https://www.sportsline.com/insiders/netherlands-vs-tunisia-odds-predictions-2026-world-cup-picks-from-proven-soccer-expert/",
+          "https://www.racingpost.com/sport/football-tips/world-cup-2026/tunisia-vs-netherlands-betting-tips-predictions-team-news-odds-bet-builder-aPd0q4Q4DXe3/",
+          "https://www.sportsgambler.com/betting-tips/football/tunisia-vs-netherlands-prediction-lineups-odds-2026-06-25/",
+          "https://www.sportsmole.co.uk/football/tunisia/world-cup-2026/preview/tunisia-vs-netherlands-prediction-team-news-lineups_599913.html"
+        ]
+      },
+      "news": [
+        "NL Aufstellung erwartet (4-3-3): Verbruggen; Wieffer, Van Hecke, Van Dijk, Hato; Gravenberch, Koopmeiners, Reijnders; Malen, Brobbey, Gakpo. Koeman koennte Brobbey statt Depay vorne lassen oder Depay bringen.",
+        "Tunesien Aufstellung erwartet (3-4-2-1): Dahmen; Talbi, Ben Hamida, Rekik; Valery, Ben Slimane, Skhiri, Abdi; Saad, Mejbri; Tounekti.",
+        "NL hat 7 Tore in 2 Spielen (2 vs Japan, 5 vs Schweden) - Sturm-Maschine laeuft. Cody Gakpo Form-Hauptmann mit Toren in beiden Spielen.",
+        "Tunesien 1 Tor in 2 Spielen - Sturm faktisch nicht existent."
+      ],
+      "tipps": [
+        {
+          "markt": "Doppelte Chance X2 (Niederlande oder Remis)",
+          "quote": 1.05,
+          "einsatz_euro": 11.0,
+          "begruendung": "NL Markt-Implied 90% Sieg-Chance + Tunesien eliminiert + Klassen-Edge max. Markt-Goldgrube DC X2 (82.6% Hitrate / +14% ROI). Quote 1.05 entspricht ~95% Implied - selbst Catastrophe-Szenario waere im X-Drittel abgedeckt. Niedrigste Risiko-Wette im Dossier.",
+          "kategorie": "safe",
+          "empfohlener_einsatz_prozent": 2.0,
+          "faire_quote": 1.05,
+          "id": "2026-06-26-tun-ned-t1"
+        },
+        {
+          "markt": "Cody Gakpo Jederzeit-Torschuetze",
+          "quote": 1.8,
+          "einsatz_euro": 8.25,
+          "begruendung": "Gakpo Form-Edge MAX: Tore in MD1 (vs Japan) + MD2 (vs Schweden) = 2+ Tore in 2 Spielen triggert PFLICHT-Torschuetzen-Tipp. Markt-Goldgrube Torschuetzen Jederzeit (41.4% / +21.3% ROI). Tunesien-Defensive nach 9 Gegentoren angeschlagen. Einwechslungs-Boost zaehlt bei bet365. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.8,
+          "_torschuetze_quelle_warn": true,
+          "id": "2026-06-26-tun-ned-t2"
+        },
+        {
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.45,
+          "einsatz_euro": 8.25,
+          "begruendung": "NL Sturmlauf 7 Tore / 2 Spiele + Tunesien-Defensive zerfaellt + NL braucht Tordifferenz-Polster fuer Gruppensieg. Markt-Goldgrube Ueber 2.5 (62.5% / +32.9% ROI). 3+ NL-Tore plausibel - bisher 2 von 2 ueber 3.5.",
+          "kategorie": "value",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.45,
+          "id": "2026-06-26-tun-ned-t3"
+        },
+        {
+          "markt": "Donyell Malen Jederzeit-Torschuetze",
+          "quote": 2.4,
+          "einsatz_euro": 2.75,
+          "begruendung": "Malen als rechter Fluegel mit Tor-Risiko + Tunesien rechte Defensive schwach. Markt-Goldgrube Torschuetzen Jederzeit. Wenn Koeman frueh wechselt + Bergwijn/Reijnders kommt rein - Backup-Boost bei bet365. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 2.4,
+          "_torschuetze_quelle_warn": true,
+          "id": "2026-06-26-tun-ned-t4"
+        },
+        {
+          "markt": "Ueber 3.5 Tore",
+          "quote": 2.1,
+          "einsatz_euro": 2.75,
+          "begruendung": "Beide NL-Spiele bisher 4+ Tore (2+2=4, 5+1=6). Tunesien-Defense kann 4 NL-Tore in 90 nicht halten. Wackel weil bei 2:0-Komfort NL ggf Tempo reduziert.",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 2.1,
+          "id": "2026-06-26-tun-ned-t5"
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 1,
+        "gast": 3,
+        "endstand": "1:3",
+        "kommentar": "Tunesien 1:3 Niederlande - Skhiri OG 3', Brobbey 7', Mastouri 54' (Anschluss), van Hecke/OG Slimane 62'. NL Gruppensieg gesichert."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-06-26-tun-ned-t1",
+          "markt": "Doppelte Chance X2 (Niederlande oder Remis)",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.05,
+          "kommentar": "NL gewann 3:1.",
+          "clv_prozent": null,
+          "opening_quote": 1.05,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-26-tun-ned-t2",
+          "markt": "Cody Gakpo Jederzeit-Torschuetze",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Gakpo kein Tor heute. NL Tore: Skhiri OG, Brobbey, van Hecke/Slimane OG. Form-Edge-Brick.",
+          "clv_prozent": null,
+          "opening_quote": 1.8,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-26-tun-ned-t3",
+          "markt": "Ueber 2.5 Tore",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.45,
+          "kommentar": "4 Tore total.",
+          "clv_prozent": null,
+          "opening_quote": 1.45,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-26-tun-ned-t4",
+          "markt": "Donyell Malen Jederzeit-Torschuetze",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Malen kein Tor.",
+          "clv_prozent": null,
+          "opening_quote": 2.4,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-26-tun-ned-t5",
+          "markt": "Ueber 3.5 Tore",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.1,
+          "kommentar": "4 Tore = Ueber 3.5 erreicht.",
+          "clv_prozent": null,
+          "opening_quote": 2.1,
+          "closing_quote": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:2",
+        "endstand": "1:3",
+        "tore": [
+          {
+            "min": 3,
+            "team": "gast",
+            "spieler": "Eigentor E. Skhiri",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 7,
+            "team": "gast",
+            "spieler": "Brian Brobbey (Vorlage Van Dijk)",
+            "stand_danach": "0:2"
+          },
+          {
+            "min": 54,
+            "team": "heim",
+            "spieler": "Hazem Mastouri (Kopfball nach Ecke)",
+            "stand_danach": "1:2"
+          },
+          {
+            "min": 62,
+            "team": "gast",
+            "spieler": "Jan Paul van Hecke (abgefaelscht von A. Slimane)",
+            "stand_danach": "1:3"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "NL fuehrte 0:2 HZ, ausgebaut auf 1:3. Klassen-Edge realisiert. Tunesien Anschluss aus Standard nach 54 Min nicht ausreichend."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Gast/Gast",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Brobbey 2. WM-Tor + 9er-Konstanz - Markt-Pattern 'NL-Sturm 7+3 = 10 Tore in 3 Spielen' bestaetigt Goldgrube-Konzentration auf Tor-Total.",
+          "Gakpo (Form-Edge MAX, 2 Tore in 2 MD) - Cluster-Brick: heute kein Tor trotz NL-Tor-Festival (3 Tore). Form-Edge-Stuermer-Tag-12 Streak gebrochen 2/2 (Gakpo + Isak + Gyokeres = 3 von 3 Form-Edge-Stars leer).",
+          "Standardisierte Decider-NL-Klassen-Edge-Realisierung wie erwartet - DC X2 + Ueber 2.5 + Ueber 3.5 alle Hits."
+        ]
+      }
+    },
+    {
+      "id": "2026-06-26-tur-usa",
+      "liga": "FIFA WM 2026 - Gruppe D - Spieltag 3 (Quasi-Test)",
+      "heim": "Tuerkei",
+      "gast": "USA",
+      "anstoss": "2026-06-26T04:00:00+02:00",
+      "stadion": "SoFi Stadium, Inglewood CA",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM 2026 ist alleiniger Wettbewerb. Tuerkei-Kader vorwiegend Tuerkei-Sueperlig + paar PL/Serie A - Saison-Belastung moderat.",
+        "parallel_gast": "keine - WM 2026 ist alleiniger Wettbewerb. USA-Kern aus PL/Bundesliga/Serie A (Pulisic/Milan, Balogun/Monaco, Reyna/Dortmund, Adams/Bournemouth) - Saison-Muedigkeit moeglich.",
+        "saisonziel_heim": "Tuerkei Gruppe D mit 0 Pkt (0:2 vs Australien MD1, 0:1 vs Paraguay MD2). Tabelle Platz 4, ELIMINIERT trotz 62 Schuessen (13 aufs Tor - meiste im Turnier) ohne Tor. Saisonziel: Wuerde-Tor + Tuerkei-Pride. Motivations-Aspekt vorhanden trotz K.O.",
+        "saisonziel_gast": "USA Gruppe D mit 6 Pkt (4:1 vs Paraguay MD1, 2:0 vs Australien MD2). Tabelle Platz 1, Achtelfinale + Gruppensieg gesichert (+5 Tordifferenz). Co-Gastgeber-Druck weiter da, aber heute Sicherheitsspiel. Pochettino kuendigte Rotation an um Stammkraefte zu schonen.",
+        "motivations_asymmetrie": "USA Achtelfinale + Gruppensieg sicher = Rotation extrem wahrscheinlich (Pulisic/Balogun/Reyna ggf raus) = Klassen-Edge halbiert. Tuerkei eliminiert aber Pride-Faktor + 62-Schuss-Volumen suggeriert Tor-Druck. COINFLIP-Tendenz mit leichten USA-Klassen-Edge. Quote USA @ 1.85 spiegelt das nicht voll wider.",
+        "recovery_heim": "6 Tage Pause seit 0:1 vs Paraguay (19.06.) - Standard-Erholung mit Frust-Aufladung.",
+        "recovery_gast": "6 Tage Pause seit 2:0 vs Australien (19.06.) - Standard-Erholung, USA wird rotieren.",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+          "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_D",
+          "https://www.fanduel.com/research/us-vs-turkey-prediction-lineups-preview-picks-and-best-bets-world-cup-2026-group-d",
+          "https://www.cbssports.com/soccer/news/usa-vs-turkiye-odds-picks-prediction-betting-preview-start-time-for-2026-world-cup-match-on-thursday/",
+          "https://www.squawka.com/us/news/world-cup/match-preview-turkey-vs-usa-06-25-26-world-cup-2026/",
+          "https://www.tntsports.co.uk/betting/tips/turkey-vs-usa-prediction-tips-and-odds-world-cup-2026/"
+        ]
+      },
+      "news": [
+        "USA rotiert vermutlich stark - Pulisic/Balogun ggf raus, Reyna/Aaronson/Tillman rein. Adams im Mittelfeld bleibt.",
+        "Tuerkei mit Yildiz, Aktuerkoglu, Calhanoglu als Kreativ-Achse - 62 Schuesse in 2 Spielen ohne Tor wird als 'Variance' eingeordnet.",
+        "Tuerkei spielt um Pride - Trainer Montella braucht ein Ergebnis fuer den Aufbruch zur EM-Quali."
+      ],
+      "tipps": [
+        {
+          "markt": "Beide Mannschaften treffen Ja",
+          "quote": 1.85,
+          "einsatz_euro": 5.5,
+          "begruendung": "Tuerkei 62 Schuesse / 2 Spiele = Tor faellig (Regression-zu-Mittelwert). USA rotierte Defense + Antonee Robinson/Walker ggf nicht im Vollbesitz = Tor zulassen plausibel. USA-Sturm trifft regelmaessig (6 Tore / 2 Spiele). BTTS-Markt nicht Goldgrube aber Edge da.",
+          "kategorie": "value",
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 1.85,
+          "id": "2026-06-26-tur-usa-t1"
+        },
+        {
+          "markt": "Kenan Yildiz Jederzeit-Torschuetze",
+          "quote": 3.5,
+          "einsatz_euro": 2.75,
+          "begruendung": "Yildiz (Juve, 20 J) Form-Stuermer + Kreativachse + 62-Schuss-Volumen-Tuerkei trifft endlich. Markt-Goldgrube Torschuetzen Jederzeit (41.4% / +21.3% ROI). Backup-Boost: wenn Yildiz raus, Aktuerkoglu/Yuksek koennen reinkommen - bet365 zaehlt direkten Ersatz. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 3.5,
+          "_torschuetze_quelle_warn": true,
+          "id": "2026-06-26-tur-usa-t2"
+        },
+        {
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.75,
+          "einsatz_euro": 2.75,
+          "begruendung": "USA-Sturm 6 Tore / 2 + Tuerkei-Schuss-Volumen-Druck = beide Teams treffen-Szenario. Markt-Goldgrube Ueber 2.5 (62.5% / +32.9% ROI). Wackel weil USA-Rotation Tempo bremst + Tuerkei trotz Schuessen 0 Treffer-Quote.",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.75,
+          "id": "2026-06-26-tur-usa-t3"
+        },
+        {
+          "markt": "Doppelte Chance X2 (USA oder Remis)",
+          "quote": 1.25,
+          "einsatz_euro": 2.75,
+          "begruendung": "USA Klassen-Edge bleibt trotz Rotation + Heim-Vorteil-light (SoFi Stadium, LA). Tuerkei muesste 90min-Tor-Maschinerie liefern was sie bisher nicht zeigten. Markt-Goldgrube DC X2. Wackel weil USA-Rotation Druckabbau.",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.25,
+          "id": "2026-06-26-tur-usa-t4"
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 3,
+        "gast": 2,
+        "endstand": "3:2",
+        "kommentar": "Tuerkei 3:2 USA - Trusty 3', Guler 10', Kokcu 31', Berhalter 49', Ayhan 98' (Last-Gasp-Stoppage). USA gewinnt trotz Niederlage Gruppe D."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-06-26-tur-usa-t1",
+          "markt": "Beide Mannschaften treffen Ja",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.85,
+          "kommentar": "Beide trafen (Trusty/Berhalter USA, Guler/Kokcu/Ayhan TUR).",
+          "clv_prozent": null,
+          "opening_quote": 1.85,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-26-tur-usa-t2",
+          "markt": "Kenan Yildiz Jederzeit-Torschuetze",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Yildiz subbed off 84' fuer Uzun, kein Tor. Uzun (Ersatz) traf nicht. Ayhan 98' kam fuer Kokcu rein - kein Boost fuer Yildiz.",
+          "clv_prozent": null,
+          "opening_quote": 3.5,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-26-tur-usa-t3",
+          "markt": "Ueber 2.5 Tore",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.75,
+          "kommentar": "5 Tore total.",
+          "clv_prozent": null,
+          "opening_quote": 1.75,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-26-tur-usa-t4",
+          "markt": "Doppelte Chance X2 (USA oder Remis)",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Tuerkei gewann 3:2 dank Ayhan-Last-Gasp 98'.",
+          "clv_prozent": null,
+          "opening_quote": 1.25,
+          "closing_quote": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "2:1",
+        "endstand": "3:2",
+        "tore": [
+          {
+            "min": 3,
+            "team": "gast",
+            "spieler": "Auston Trusty (Vorlage S. Berhalter, Ecke)",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 10,
+            "team": "heim",
+            "spieler": "Arda Guler",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 31,
+            "team": "heim",
+            "spieler": "Orkun Kokcu",
+            "stand_danach": "2:1"
+          },
+          {
+            "min": 49,
+            "team": "gast",
+            "spieler": "Sebastian Berhalter",
+            "stand_danach": "2:2"
+          },
+          {
+            "min": 98,
+            "team": "heim",
+            "spieler": "Kaan Ayhan",
+            "stand_danach": "3:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "USA fuehrte 0:1 (3'), Tuerkei drehte zu 2:1 HZ, USA glich zu 2:2 (49'), Ayhan 98' Last-Gasp. Keine 2-Tore-Schwelle fuer USA - kein Insurance-Trigger."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Heim/Heim",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Pochettino Rotation (Pulisic spaet rein 58')",
+            "details": "USA mit Schoneff-Modus (Achtelfinale + Gruppensieg sicher) - Pulisic erst 58' eingewechselt"
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Cengiz Uzun",
+            "aus": "Yildiz",
+            "minute": 84,
+            "tor": false,
+            "tor_minute": null
+          },
+          {
+            "team": "heim",
+            "ein": "Kaan Ayhan",
+            "aus": "Kokcu",
+            "minute": 88,
+            "tor": true,
+            "tor_minute": "90+8"
+          }
+        ],
+        "auffaellige_patterns": [
+          "Last-Gasp-Stoppage-Goal Cluster: 5. Stoppage-Goal in WM 2026 (Pattern aus Lessons Tag 5/8). 98' Ayhan via Sub-fuer-Kokcu - Boost-Indirekt-Trigger (aber kein Tipp drauf).",
+          "62-Schuss-Tuerkei traf endlich (3 Tore in 1 Spiel nach 0 in 2 Spielen) - Regression-zu-Mittelwert-These bestaetigt. BTTS Ja klarer Hit.",
+          "Yildiz subbed off 84' fuer Uzun - kein Tor (vor + nach Sub), kein Boost. Aber Ayhan-fuer-Kokcu (88'->98' Tor) ist klassischer Volume-Backup-Pattern - hier ohne Tipp drauf."
+        ]
+      }
+    },
+    {
+      "id": "2026-06-26-par-aus",
+      "liga": "FIFA WM 2026 - Gruppe D - Spieltag 3 (Decider, Coinflip)",
+      "heim": "Paraguay",
+      "gast": "Australien",
+      "anstoss": "2026-06-26T04:00:00+02:00",
+      "stadion": "Levi's Stadium, Santa Clara CA",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM 2026 ist alleiniger Wettbewerb. Paraguay-Kader vorwiegend Brasilien-Liga + Argentinien-Liga + paar Europa-Klubs (Almiron/Newcastle gesperrt, Sosa/Bayer Leverkusen) - Saison-Belastung moderat.",
+        "parallel_gast": "keine - WM 2026 ist alleiniger Wettbewerb. Australien-Kader stark im Inland + paar A-League + PL/Bundesliga (Irvine/St Pauli, Irankunda/Bayern) - Saison-Belastung moderat.",
+        "saisonziel_heim": "Paraguay Gruppe D mit 3 Pkt (1:4 vs USA MD1, 1:0 vs Tuerkei MD2). Tabelle Platz 2 oder 3 nach Tordifferenz (-2). MUSS-Sieg fuer Achtelfinale (oder Remis + Hoffen auf Drittplatzierten-Quali ueber Tordifferenz).",
+        "saisonziel_gast": "Australien Gruppe D mit 3 Pkt (2:0 vs Tuerkei MD1, 0:2 vs USA MD2). Tabelle Platz 2 oder 3 (Tordifferenz 0). Remis reicht Australien (besseres Direktduell oder Tordifferenz). Australien zufrieden mit Remis-Modus.",
+        "motivations_asymmetrie": "Paraguay MUSS-Sieg + Almiron gesperrt (Kreativausfall) = Druck max ohne Hauptkreativer. Australien reicht Remis = werden hinten dicht stehen + auf Konter spielen. COINFLIP-Quoten (Paraguay 2.15 / Remis 3.25 / Aus 3.40) bestaetigen das. Edge eher Australien fuer Remis-Holen-Strategie + bessere Form-Stabilitaet.",
+        "recovery_heim": "6 Tage Pause seit 1:0 vs Tuerkei (19.06.) - Standard-Erholung. Almiron-Sperre = Aufstellungs-Schock.",
+        "recovery_gast": "6 Tage Pause seit 0:2 vs USA (19.06.) - Standard-Erholung. Irankunda/Irvine + Defensive um Souttar stabil.",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+          "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_D",
+          "https://www.compare.bet/news/paraguay-vs-australia-betting-preview-predictions-tips-and-live-odds",
+          "https://www.covers.com/world-cup/paraguay-vs-australia-prediction-picks-odds-thursday-6-25-2026",
+          "https://shekicks.net/paraguay-v-australia-predictions/",
+          "https://totalfootballanalysis.com/competitions/fifa-world-cup-2026/paraguay-v-australia-predictions",
+          "https://www.racingpost.com/sport/football-tips/world-cup-2026/paraguay-vs-australia-betting-tips-predictions-team-news-odds-bet-builder-a6fxb9K2yEUl/"
+        ]
+      },
+      "news": [
+        "Paraguay ohne Miguel Almiron (Gelb-Sperre) - Kreativ-Achse weggebrochen.",
+        "Australien Defensive-Plan: Souttar/Rowles/Degenek + Konter ueber Irankunda + Irvine.",
+        "Beide Teams haben nur 2 bzw 2 Tore in je 2 Spielen erzielt - Tor-Quote niedrig.",
+        "Bet365 Quoten: Paraguay 2.15 / Remis 3.25 / Australien 3.40 = COINFLIP-Profil"
+      ],
+      "tipps": [
+        {
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.57,
+          "einsatz_euro": 5.5,
+          "begruendung": "Markt-Goldgrube Unter 2.5 (61.9% Hitrate / +23.1% ROI). Beide Teams Tor-arm (2+2 Tore in je 2 Spielen). Paraguay ohne Almiron = Sturm noch schwaecher. Australien Remis-Modus = defensiv. COINFLIP-Profil verbietet SAFE - daher Wackel mit Edge.",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 1.57,
+          "id": "2026-06-26-par-aus-t1"
+        },
+        {
+          "markt": "Beide Mannschaften treffen Nein",
+          "quote": 2.0,
+          "einsatz_euro": 2.75,
+          "begruendung": "Australien-Defensive solide (2 Gegentore in 2 Spielen) + Paraguay-Sturm ohne Almiron schwach. Wackel weil ein Schoenheitsfehler im hektischen MUSS-Sieg-Setting Tor von beiden Seiten ermoeglicht.",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 2.0,
+          "id": "2026-06-26-par-aus-t2"
+        },
+        {
+          "markt": "Doppelte Chance X2 (Australien oder Remis)",
+          "quote": 1.55,
+          "einsatz_euro": 2.75,
+          "begruendung": "Australien reicht Remis + spielt defensiv-stabil + Paraguay ohne Almiron schwaecher. Markt-Goldgrube DC X2 (82.6% Hitrate / +14% ROI). Wackel weil Paraguay-MUSS-Sieg-Heim-Druck koennte mit Glueck reichen + COINFLIP-Quoten.",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.55,
+          "id": "2026-06-26-par-aus-t3"
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 0,
+        "gast": 0,
+        "endstand": "0:0",
+        "kommentar": "Paraguay 0:0 Australien - torlos. Beide ziehen ins Achtelfinale. Beach (AUS) Save spaet auf Mauricio-Schuss. Popovic-Massensubs 1H + frueh 2H."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-06-26-par-aus-t1",
+          "markt": "Unter 2.5 Tore",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.57,
+          "kommentar": "Torlos 0:0.",
+          "clv_prozent": null,
+          "opening_quote": 1.57,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-26-par-aus-t2",
+          "markt": "Beide Mannschaften treffen Nein",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.0,
+          "kommentar": "Beide nicht getroffen.",
+          "clv_prozent": null,
+          "opening_quote": 2.0,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-26-par-aus-t3",
+          "markt": "Doppelte Chance X2 (Australien oder Remis)",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.55,
+          "kommentar": "Remis 0:0.",
+          "clv_prozent": null,
+          "opening_quote": 1.55,
+          "closing_quote": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "0:0",
+        "tore": [],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Torlos. Beide Teams zufrieden mit Remis (beide weiter)."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Unentschieden",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Popovic Rotation (6 Aenderungen, 18-J Herrington Debut)",
+            "details": "Popovic massive Rotation (4 Subs in den ersten 16 Min 2.HZ) - taktische Schon-Wechsel"
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "COINFLIP-Spiel-These bestaetigt: torloses Remis trotz Paraguay-MUSS-Sieg ohne Almiron + Australien-Remis-Modus. Unter 2.5 + BTTS Nein + DC X2 alle Hits (Tor-armes Coinflip-Profil).",
+          "Australien Remis-Modus-Strategie perfekt aufgegangen - massive Rotation als Schon-Pattern. Defensive-Souttar-Linie hielt erneut.",
+          "Paraguay ohne Almiron (Gelb-Sperre) faktisch sturm-stumm - These 'MUSS-Sieg ohne Hauptkreativer = Unter 2.5' bestaetigt."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "spiel_id": "2026-06-26-tun-ned",
+      "markt": "Niederlande Doppelte Chance X2 (NL oder Remis)",
+      "quote": 1.05,
+      "einsatz_euro": 11.0,
+      "begruendung": "Niederlande @ 90% Implied + Tunesien eliminiert + 7 Tore in 2 NL-Spielen + Klassen-Edge max. Markt-Goldgrube DC X2 (82.6% / +14% ROI). Sicherster Pick im Dossier.",
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 1
+    },
+    {
+      "spiel_id": "2026-06-25-ecu-ger",
+      "markt": "Deniz Undav Jederzeit-Torschuetze",
+      "quote": 2.1,
+      "einsatz_euro": 8.25,
+      "begruendung": "Form-Edge MAX: Undav 3 Tore in 57 Joker-Minuten MD2 (Hattrick-Geschwindigkeit). Heute voraussichtlich Startelf. Markt-Goldgrube Torschuetzen Jederzeit (41.4% / +21.3% ROI). Backup-Boost gilt.",
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2
+    },
+    {
+      "spiel_id": "2026-06-26-tun-ned",
+      "markt": "Cody Gakpo Jederzeit-Torschuetze",
+      "quote": 1.8,
+      "einsatz_euro": 8.25,
+      "begruendung": "Gakpo Tore in MD1 + MD2 = 2+ Tore in 2 Spielen. Markt-Goldgrube Torschuetzen Jederzeit. Tunesien-Defense nach 9 Gegentoren zerfaellt.",
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 3
+    },
+    {
+      "spiel_id": "2026-06-25-ecu-ger",
+      "markt": "Deutschland Doppelte Chance X2 (Deutschland oder Remis)",
+      "quote": 1.2,
+      "einsatz_euro": 8.25,
+      "begruendung": "Klassen-Edge max + Ecuador 0 Tore in 2 Spielen + ohne Paez. Markt-Goldgrube DC X2. 2:0-Insurance gilt fuer WM.",
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 4
+    },
+    {
+      "spiel_id": "2026-06-25-cur-civ",
+      "markt": "Elfenbeinkueste Doppelte Chance X2 (IC oder Remis)",
+      "quote": 1.18,
+      "einsatz_euro": 8.25,
+      "begruendung": "IC reicht Remis fuer Achtelfinale + Klassen-Edge vs Curacao (FIFA-Rang 33 vs 82). Markt-Goldgrube DC X2.",
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 5
+    },
+    {
+      "spiel_id": "2026-06-26-tun-ned",
+      "markt": "Niederlande-Tunesien Ueber 2.5 Tore",
+      "quote": 1.45,
+      "einsatz_euro": 8.25,
+      "begruendung": "NL-Sturmlauf 7 Tore / 2 Spiele + braucht Tordifferenz-Polster + Tunesien-Defense zerfallen. Markt-Goldgrube Ueber 2.5 (62.5% / +32.9% ROI).",
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 6
+    },
+    {
+      "spiel_id": "2026-06-25-ecu-ger",
+      "markt": "Ecuador-Deutschland Ueber 2.5 Tore",
+      "quote": 1.65,
+      "einsatz_euro": 8.25,
+      "begruendung": "Deutschland 9 Tore in 2 Spielen + Ecuador MUSS-Sieg = Defensive opfern. Markt-Goldgrube Ueber 2.5.",
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 7
+    },
+    {
+      "spiel_id": "2026-06-26-jpn-swe",
+      "markt": "Alexander Isak Jederzeit-Torschuetze",
+      "quote": 2.2,
+      "einsatz_euro": 8.25,
+      "begruendung": "Isak 2 Tore in 2 WM-Spielen + Schweden MUSS-Sieg-Doppel-Sturm-Modus. Markt-Goldgrube Torschuetzen Jederzeit.",
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 8
+    },
+    {
+      "spiel_id": "2026-06-26-jpn-swe",
+      "markt": "Beide Mannschaften treffen Ja (Japan-Schweden)",
+      "quote": 1.75,
+      "einsatz_euro": 5.5,
+      "begruendung": "Schweden MUSS-Sieg-Doppel-Sturm + Japan trifft regelmaessig (6 Tore / 2). Edge da.",
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 9
+    },
+    {
+      "spiel_id": "2026-06-25-cur-civ",
+      "markt": "Sebastien Haller Jederzeit-Torschuetze",
+      "quote": 2.4,
+      "einsatz_euro": 5.5,
+      "begruendung": "IC-Sturmspitze + Curacao-Defense nach 0:7 angeschlagen. Markt-Goldgrube Torschuetzen Jederzeit. Backup-Boost gilt.",
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 10
+    },
+    {
+      "spiel_id": "2026-06-26-par-aus",
+      "markt": "Paraguay-Australien Unter 2.5 Tore",
+      "quote": 1.57,
+      "einsatz_euro": 5.5,
+      "begruendung": "Beide Teams Tor-arm + Paraguay ohne Almiron + Australien Remis-Modus. Markt-Goldgrube Unter 2.5. COINFLIP-Spiel daher Wackel.",
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 11
+    },
+    {
+      "spiel_id": "2026-06-26-jpn-swe",
+      "markt": "Viktor Gyokeres Jederzeit-Torschuetze",
+      "quote": 2.0,
+      "einsatz_euro": 5.5,
+      "begruendung": "Gyoekeres traf MD1 + Arsenal-Form. Schweden MUSS-Sieg-Modus. Markt-Goldgrube Torschuetzen Jederzeit.",
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 12
+    }
+  ],
+  "kombis": [
+    {
+      "kategorie": "safe",
+      "ziel_quote_range": "~1.5x-2x",
+      "einsatz_euro": 11.0,
+      "beine": [
+        {
+          "spiel_id": "2026-06-26-tun-ned",
+          "markt": "Niederlande Doppelte Chance X2",
+          "quote": 1.05
+        },
+        {
+          "spiel_id": "2026-06-25-ecu-ger",
+          "markt": "Deutschland Doppelte Chance X2",
+          "quote": 1.2
+        },
+        {
+          "spiel_id": "2026-06-25-cur-civ",
+          "markt": "Elfenbeinkueste Doppelte Chance X2",
+          "quote": 1.18
+        }
+      ],
+      "kombi_quote": 1.49,
+      "potenzieller_gewinn_euro": 16.39,
+      "begruendung": "3 stark dominante DC-X2-Faelle (NL/GER/IC) aus 3 unterschiedlichen Spielen. Layer-1 erfuellt (max 1 Bein/Spiel). Gesamtquote 1.49 unter typischem Safe-Range (~2.5-3x), aber die 3 Beine sind die sichersten Faelle des Tages: NL @ 95% Implied vs eliminiertes Tunesien, Deutschland Klassen-Edge vs Ecuador-0-Tor-Sturm, IC reicht Remis fuer Achtelfinale. Bewusste Konzentration auf Edge statt Quotenhebel - Stufe-1-Kasse-Modus. Markt-Goldgrube DC X2 (82.6% / +14% ROI) auf allen 3 Beinen.",
+      "empfohlener_einsatz_prozent": 2.0,
+      "gesamtquote": 1.49,
+      "rechnung": "1.05 x 1.20 x 1.18 = 1.49"
+    },
+    {
+      "kategorie": "balance",
+      "ziel_quote_range": "~6x-10x",
+      "einsatz_euro": 4.4,
+      "beine": [
+        {
+          "spiel_id": "2026-06-26-tun-ned",
+          "markt": "Niederlande-Tunesien Ueber 2.5 Tore",
+          "quote": 1.45
+        },
+        {
+          "spiel_id": "2026-06-25-ecu-ger",
+          "markt": "Deniz Undav Jederzeit-Torschuetze",
+          "quote": 2.1
+        },
+        {
+          "spiel_id": "2026-06-25-cur-civ",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.85
+        },
+        {
+          "spiel_id": "2026-06-26-jpn-swe",
+          "markt": "Alexander Isak Jederzeit-Torschuetze",
+          "quote": 2.2
+        }
+      ],
+      "kombi_quote": 12.39,
+      "potenzieller_gewinn_euro": 54.51,
+      "begruendung": "Mix aus Tor-Markt + Form-Torschuetzen aus 4 unterschiedlichen Spielen. Layer-1 erfuellt. Markt-Goldgruben Ueber 2.5 + Torschuetzen Jederzeit. Layer-2: keine Sieg-Outcomes gedoppelt. Balance liegt etwas ueber 10x - in der oberen Range.",
+      "empfohlener_einsatz_prozent": 0.8,
+      "gesamtquote": 12.39,
+      "rechnung": "1.45 x 2.10 x 1.85 x 2.20 = 12.39"
+    },
+    {
+      "kategorie": "risk",
+      "ziel_quote_range": "~15x-30x",
+      "einsatz_euro": 1.4,
+      "beine": [
+        {
+          "spiel_id": "2026-06-26-tun-ned",
+          "markt": "Cody Gakpo Jederzeit-Torschuetze",
+          "quote": 1.8
+        },
+        {
+          "spiel_id": "2026-06-25-ecu-ger",
+          "markt": "Florian Wirtz Jederzeit-Torschuetze",
+          "quote": 2.4
+        },
+        {
+          "spiel_id": "2026-06-25-cur-civ",
+          "markt": "Amad Diallo Jederzeit-Torschuetze",
+          "quote": 2.75
+        },
+        {
+          "spiel_id": "2026-06-26-jpn-swe",
+          "markt": "Viktor Gyokeres Jederzeit-Torschuetze",
+          "quote": 2.0
+        }
+      ],
+      "kombi_quote": 23.76,
+      "potenzieller_gewinn_euro": 33.27,
+      "begruendung": "4x Torschuetzen-Jederzeit (Markt-Goldgrube) aus 4 verschiedenen Spielen. Layer-1 erfuellt. Wirtz als Wackel-Bein zieht Quote, andere Form-Faelle stabil.",
+      "empfohlener_einsatz_prozent": 0.25,
+      "gesamtquote": 23.76,
+      "rechnung": "1.80 x 2.40 x 2.75 x 2.00 = 23.76"
+    },
+    {
+      "kategorie": "moonshot",
+      "ziel_quote_range": "~100x-400x",
+      "einsatz_euro": 0.55,
+      "beine": [
+        {
+          "spiel_id": "2026-06-25-ecu-ger",
+          "markt": "Deniz Undav Doppelpack (2+ Tore)",
+          "quote": 4.0
+        },
+        {
+          "spiel_id": "2026-06-26-jpn-swe",
+          "markt": "Alexander Isak Doppelpack (2+ Tore)",
+          "quote": 4.5
+        },
+        {
+          "spiel_id": "2026-06-25-cur-civ",
+          "markt": "Yan Diomande Jederzeit-Torschuetze (Bench-Joker)",
+          "quote": 3.0
+        },
+        {
+          "spiel_id": "2026-06-26-tun-ned",
+          "markt": "Cody Gakpo Doppelpack (2+ Tore)",
+          "quote": 4.5
+        },
+        {
+          "spiel_id": "2026-06-26-tur-usa",
+          "markt": "Kenan Yildiz Jederzeit-Torschuetze",
+          "quote": 3.5
+        }
+      ],
+      "kombi_quote": 850.5,
+      "potenzieller_gewinn_euro": 467.78,
+      "begruendung": "5-Bein Moonshot mit 3x Doppelpacks + 2x exotische Torschuetzen-Tipps aus 5 unterschiedlichen Spielen. Layer-1 erfuellt. Markt-Goldgruben fast voll auf Torschuetzen-Markt. Spasseinsatz 0.55 EUR fuer ~470 EUR Potenzial.",
+      "empfohlener_einsatz_prozent": 0.1,
+      "gesamtquote": 850.5,
+      "rechnung": "4.00 x 4.50 x 3.00 x 4.50 x 3.50 = 850.5"
+    }
+  ],
+  "lessons_angewandt": [
+    "WM 2026 Spieltag-3-Decider-Profile: bei MUSS-Sieg-Teams + 'reicht-Remis'-Gegner ist BTTS + Ueber-Tore-Markt-Edge oft besser als reine Sieg-Tipps (Asymmetrie spielt sich in Tor-Aktivitaet aus, nicht zwingend in Ergebnis).",
+    "Form-Edge-Stuermer-Lesson: Undav (3 Tore in 57min vs IC), Gakpo (Tore in MD1+MD2), Isak (Tore in MD1+MD2) - Torschuetzen Jederzeit-Markt Goldgrube (+21.3% ROI laut statistik.json) muss bei Form-Lauf PFLICHT-Tipp sein, nicht Optional.",
+    "WM 2:0-Insurance-Regel aktiv: bei direkten Sieg-Tipps und DC-X2/1X gilt Tipp als gewonnen sobald Tipp-Team 2:0 in Fuehrung liegt - egal was danach kommt.",
+    "Einwechslungs-Boost gilt fuer alle bet365-Torschuetzen-Maerkte: bei Auswechslung zaehlen Tore des direkten Ersatzspielers fuer den getippten Stuermer. Bei Backup-Stuermern-Qualitaet (Deutschland Undav/Havertz/Wirtz, IC Haller/Diomande, NL Gakpo/Depay/Brobbey) sind Torschuetzen-Tipps sicherer als nominale Quote suggeriert.",
+    "Group-D-Lesson Paraguay-Australien als COINFLIP (alle Quoten 2.15-3.40): KEIN SAFE moeglich, max 3 Tipps, Fokus auf Tor-Total-Markt (Unter 2.5 = Markt-Goldgrube + Almiron-Sperre + Australien-Remis-Modus passt).",
+    "Liga-Goldgrube-DC-Falle aktiv: Spieltag 3 WM ist NICHT in liga_goldgruben.json (nur Spieltag 1 Gruppe E/F/I) - SAFE-DC daher nur bei eindeutigen Faellen (NL 90%-Implied), sonst VALUE-DC.",
+    "DC-CAP umgesetzt: max 1 DC-Tipp pro Spiel (Mapper-Hebel M drueckt sonst). Mehrfach-DC durch Torschuetzen oder Tor-Total ersetzt.",
+    "Markt-Goldgrube-Prioritaet: 4x Tipps aus Ueber/Unter 2.5 + 7x Tipps aus Torschuetzen Jederzeit + 4x Tipps aus DC X2/1X - aktive Suche statt 'wenn Lust'.",
+    "NBA-Finals beendet (Knicks 4-1 vs Spurs 13.06.) - kein Basketball mehr. Beobachtungs-Liste 'NBA Playoffs Finals Game 3' wirkt nicht mehr.",
+    "Lesson Watchdog-Recovery: Hauptroutine 16:00 lief heute nicht durch - 17:15-Watchdog-Recovery uebernimmt Tipps-Generation. Identisches Schema, gleiche Hartregeln."
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-06-25T18:35:00+02:00",
+    "modus": "Post-Watchdog-Verifikation (Hauptroutine-Trigger Phase 4)",
+    "input_files": {
+      "tipps": "data/tipps/2026-06-25.json",
+      "recherche": "FEHLT (Recherche-File 2026-06-25.json nicht im Repo) - Pruefung basiert auf saison_kontext.quellen[] der Spiele + statistik.json + lessons.json",
+      "lessons": "data/lessons.json",
+      "statistik": "data/statistik.json"
+    },
+    "drops": [],
+    "downgrades": [],
+    "fixes_angewandt": [
+      {
+        "kombi": "safe",
+        "art": "konsistenz_fix_kombi_quote",
+        "alt": {
+          "kombi_quote": 1.61,
+          "potenzieller_gewinn_euro": 17.71,
+          "ziel_quote_range": "~2.5x-3x"
+        },
+        "neu": {
+          "kombi_quote": 1.49,
+          "potenzieller_gewinn_euro": 16.39,
+          "ziel_quote_range": "~1.5x-2x"
+        },
+        "grund": "kombi_quote 1.61 stimmte nicht mit gesamtquote 1.49 (= 1.05 x 1.20 x 1.18) ueberein. Begruendung referenzierte ein 4. Bein im NL-Spiel (Ueber 1.5), das jedoch nicht in beine[] stand. Layer-1 hard verbietet 2 Beine im selben Spiel pro Kombi - daher Begruendung gefixt + kombi_quote/potenzieller_gewinn auf die tatsaechlichen 3 Beine angepasst."
+      }
+    ],
+    "warns": [
+      {
+        "art": "recherche_file_fehlt",
+        "details": "data/recherche/2026-06-25.json fehlt im Repo. Watchdog-Recovery-Pfad wurde gegangen, aber Spieler-Halluzinations-Check kann nicht gegen squad_heim/squad_gast-Listen aus Recherche-Datei laufen. Plausibilitaet anhand allgemein bekannter WM-Kader 26 geprueft - keine offensichtliche Halluzination gefunden (Undav/Wirtz/Sane DE, Gakpo/Malen NL, Haller/A.Diallo/Y.Diomande CIV, Isak/Gyoekeres SWE, Yildiz TR alle plausibel)."
+      },
+      {
+        "art": "torschuetze_quelle_warn",
+        "tipps_betroffen": [
+          "Haller",
+          "Undav",
+          "Wirtz",
+          "Isak",
+          "Gyoekeres",
+          "Gakpo",
+          "Malen",
+          "Yildiz",
+          "A. Diallo"
+        ],
+        "details": "Alle Torschuetzen-Tipps haben _torschuetze_quelle_warn: true Flag, weil saison_kontext.quellen[] keine Vereins-spezifische Spieler-Quelle (transfermarkt/kicker/espn player-Seite) enthaelt. Mapper-Regel: max wackel statt value/safe. Kategorie schon korrekt auf wackel gesetzt - kein zusaetzliches Downgrade noetig."
+      },
+      {
+        "art": "layer_3_weich_nicht_erfuellt",
+        "details": "Mit 6 Spielen verteilt auf 4 Kombis (3 + 4 + 4 + 5 = 16 Beine) ist Layer-3 weich (max 1 Bein/Spiel ueber alle Kombis) mathematisch unmoeglich. NL-Spiel in 4 Kombis je 1 Bein, GER-Spiel in 4 Kombis je 1 Bein, IC-Spiel in 4 Kombis je 1 Bein, JPN-SWE in 3 Kombis. Markt-Entkopplung erfuellt: pro Spiel + Kombi unterschiedlicher Markt-Typ. Akzeptiert."
+      },
+      {
+        "art": "quoten_tief_warn",
+        "tipp": "NL DC X2 @ 1.05",
+        "details": "Quote 1.05 entspricht 95% Implied - sehr tief. Plausibel angesichts Tunesien-eliminiert + NL @ 90% Sieg + 7 Tore in 2 Spielen. bei bet365 live pruefen - kann sich aendern."
+      }
+    ],
+    "selbstwiderspruchs_scan": {
+      "status": "OK (1 gefunden + gefixt)",
+      "details": "Safe-Kombi-Begruendung enthielt Widerspruch (4. Bein erwaehnt, beine[] hatte nur 3) - gefixt. Sonst keine Widersprueche."
+    },
+    "layer_2_check": {
+      "status": "OK",
+      "sieg_outcomes_pro_spiel_kombi": {
+        "2026-06-26-tun-ned": [
+          "safe-kombi DC X2"
+        ],
+        "2026-06-25-ecu-ger": [
+          "safe-kombi DC X2"
+        ],
+        "2026-06-25-cur-civ": [
+          "safe-kombi DC X2"
+        ]
+      },
+      "details": "Sieg-Outcomes (DC X2) alle 3 nur in safe-kombi. Kein Sieg-Outcome doppelt in 2 Kombis. Layer-2 hard erfuellt."
+    },
+    "saison_kontext_check": {
+      "status": "OK",
+      "details": "Alle 6 Spiele haben quellen[] mit FIFA-Verband-URL (fifa.com world cup 2026). Verband-Quellen-Pflicht erfuellt fuer Wettbewerbs-Behauptungen (WM 2026 ist alleiniger aktiver Wettbewerb - keine CL/EL/Pokal-Referenzen). 7-Felder-Pflicht in saison_kontext{} erfuellt (parallel_heim/gast, saisonziel_heim/gast, motivations_asymmetrie, recovery_heim/gast, quellen[])."
+    },
+    "kombi_gesamtquoten_recheck": {
+      "safe": "1.05 x 1.20 x 1.18 = 1.4868 -> 1.49 OK",
+      "balance": "1.45 x 2.10 x 1.85 x 2.20 = 12.392 -> 12.39 OK",
+      "risk": "1.80 x 2.40 x 2.75 x 2.00 = 23.76 OK",
+      "moonshot": "4.00 x 4.50 x 3.00 x 4.50 x 3.50 = 850.5 OK"
+    },
+    "lessons_generiert": [
+      {
+        "kategorie": "Kombi-Begruendungs-Synchronisation",
+        "lesson": "Wenn Kombi nachtraeglich ein Bein verliert (z.B. wegen Layer-1-Verstoss), MUESSEN kombi_quote + potenzieller_gewinn_euro + begruendung + ziel_quote_range synchron angepasst werden, nicht nur gesamtquote + rechnung. Sonst entstehen Selbstwiderspruchs-Faelle wie safe-kombi 2026-06-25 (3 Beine in beine[], 4 Beine in begruendung, kombi_quote noch fuer 4 Beine berechnet)."
+      },
+      {
+        "kategorie": "Watchdog-Recovery-Standard",
+        "lesson": "Wenn Hauptroutine-Recherche-File fehlt und Watchdog-Recovery uebernimmt: saison_kontext.quellen[] MUSS pro Spiel mind. 1 Verband-URL (FIFA fuer WM) + mind. 1 Lineup/News-Quelle enthalten - Verifikator pruefen ob das so ist, da kein Recherche-File als Fallback zur Verfuegung steht."
+      }
+    ],
+    "erfolgs_kriterien": {
+      "halluzinierte_spieler": "0 (nach Plausibilitaets-Check ohne Recherche-File)",
+      "unbegruendete_wettbewerbe": "0 (alle Spiele WM 2026, FIFA-URL in quellen[])",
+      "selbstwidersprueche": "0 (1 gefunden, gefixt)",
+      "layer_2_sauber": "ja",
+      "verifikations_report_im_file": "ja"
+    }
+  },
+  "einzeltipps_ergebnis": [
+    {
+      "spiel_id": "2026-06-26-tun-ned",
+      "markt": "Niederlande Doppelte Chance X2 (NL oder Remis)",
+      "kategorie": "wackel",
+      "quote": 1.05,
+      "einsatz_euro": 11.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 1,
+      "begruendung": "Niederlande @ 90% Implied + Tunesien eliminiert + 7 Tore in 2 NL-Spielen + Klassen-Edge max. Markt-Goldgrube DC X2 (82.6% / +14% ROI). Sicherster Pick im Dossier.",
+      "status": "gewonnen",
+      "gewinn_faktor": 0.05,
+      "kommentar": "NL gewann 3:1.",
+      "clv_prozent": null,
+      "opening_quote": 1.05,
+      "closing_quote": null,
+      "tipp_id": "2026-06-26-tun-ned-t1"
+    },
+    {
+      "spiel_id": "2026-06-25-ecu-ger",
+      "markt": "Deniz Undav Jederzeit-Torschuetze",
+      "kategorie": "wackel",
+      "quote": 2.1,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2,
+      "begruendung": "Form-Edge MAX: Undav 3 Tore in 57 Joker-Minuten MD2 (Hattrick-Geschwindigkeit). Heute voraussichtlich Startelf. Markt-Goldgrube Torschuetzen Jederzeit (41.4% / +21.3% ROI). Backup-Boost gilt.",
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Undav 60' eingewechselt, kein Tor. Sane traf vor Undav-Sub - kein Vor-Sub-Boost moeglich.",
+      "clv_prozent": null,
+      "opening_quote": 2.1,
+      "closing_quote": null,
+      "tipp_id": "2026-06-25-ecu-ger-t2"
+    },
+    {
+      "spiel_id": "2026-06-26-tun-ned",
+      "markt": "Cody Gakpo Jederzeit-Torschuetze",
+      "kategorie": "wackel",
+      "quote": 1.8,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 3,
+      "begruendung": "Gakpo Tore in MD1 + MD2 = 2+ Tore in 2 Spielen. Markt-Goldgrube Torschuetzen Jederzeit. Tunesien-Defense nach 9 Gegentoren zerfaellt.",
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Gakpo kein Tor heute. NL Tore: Skhiri OG, Brobbey, van Hecke/Slimane OG. Form-Edge-Brick.",
+      "clv_prozent": null,
+      "opening_quote": 1.8,
+      "closing_quote": null,
+      "tipp_id": "2026-06-26-tun-ned-t2"
+    },
+    {
+      "spiel_id": "2026-06-25-ecu-ger",
+      "markt": "Deutschland Doppelte Chance X2 (Deutschland oder Remis)",
+      "kategorie": "wackel",
+      "quote": 1.2,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 4,
+      "begruendung": "Klassen-Edge max + Ecuador 0 Tore in 2 Spielen + ohne Paez. Markt-Goldgrube DC X2. 2:0-Insurance gilt fuer WM.",
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Deutschland verlor 1:2. Keine 2:0-Schwelle erreicht - kein Insurance-Trigger.",
+      "clv_prozent": null,
+      "opening_quote": 1.2,
+      "closing_quote": null,
+      "tipp_id": "2026-06-25-ecu-ger-t1"
+    },
+    {
+      "spiel_id": "2026-06-25-cur-civ",
+      "markt": "Elfenbeinkueste Doppelte Chance X2 (IC oder Remis)",
+      "kategorie": "wackel",
+      "quote": 1.18,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 5,
+      "begruendung": "IC reicht Remis fuer Achtelfinale + Klassen-Edge vs Curacao (FIFA-Rang 33 vs 82). Markt-Goldgrube DC X2.",
+      "status": "gewonnen",
+      "gewinn_faktor": 0.18,
+      "kommentar": "IC gewann 2:0.",
+      "clv_prozent": null,
+      "opening_quote": 1.18,
+      "closing_quote": null,
+      "tipp_id": "2026-06-25-cur-civ-t1"
+    },
+    {
+      "spiel_id": "2026-06-26-tun-ned",
+      "markt": "Niederlande-Tunesien Ueber 2.5 Tore",
+      "kategorie": "wackel",
+      "quote": 1.45,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 6,
+      "begruendung": "NL-Sturmlauf 7 Tore / 2 Spiele + braucht Tordifferenz-Polster + Tunesien-Defense zerfallen. Markt-Goldgrube Ueber 2.5 (62.5% / +32.9% ROI).",
+      "status": "gewonnen",
+      "gewinn_faktor": 0.45,
+      "kommentar": "4 Tore total.",
+      "clv_prozent": null,
+      "opening_quote": 1.45,
+      "closing_quote": null,
+      "tipp_id": "2026-06-26-tun-ned-t3"
+    },
+    {
+      "spiel_id": "2026-06-25-ecu-ger",
+      "markt": "Ecuador-Deutschland Ueber 2.5 Tore",
+      "kategorie": "wackel",
+      "quote": 1.65,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 7,
+      "begruendung": "Deutschland 9 Tore in 2 Spielen + Ecuador MUSS-Sieg = Defensive opfern. Markt-Goldgrube Ueber 2.5.",
+      "status": "gewonnen",
+      "gewinn_faktor": 0.65,
+      "kommentar": "3 Tore (Sane/Angulo/Plata).",
+      "clv_prozent": null,
+      "opening_quote": 1.65,
+      "closing_quote": null,
+      "tipp_id": "2026-06-25-ecu-ger-t3"
+    },
+    {
+      "spiel_id": "2026-06-26-jpn-swe",
+      "markt": "Alexander Isak Jederzeit-Torschuetze",
+      "kategorie": "wackel",
+      "quote": 2.2,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 8,
+      "begruendung": "Isak 2 Tore in 2 WM-Spielen + Schweden MUSS-Sieg-Doppel-Sturm-Modus. Markt-Goldgrube Torschuetzen Jederzeit.",
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Isak Latte-Treffer spaet, kein Tor.",
+      "clv_prozent": null,
+      "opening_quote": 2.2,
+      "closing_quote": null,
+      "tipp_id": "2026-06-26-jpn-swe-t1"
+    },
+    {
+      "spiel_id": "2026-06-26-jpn-swe",
+      "markt": "Beide Mannschaften treffen Ja (Japan-Schweden)",
+      "kategorie": "wackel",
+      "quote": 1.75,
+      "einsatz_euro": 5.5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 9,
+      "begruendung": "Schweden MUSS-Sieg-Doppel-Sturm + Japan trifft regelmaessig (6 Tore / 2). Edge da.",
+      "status": "gewonnen",
+      "gewinn_faktor": 0.75,
+      "kommentar": "Beide trafen (Maeda 56', Elanga 62').",
+      "clv_prozent": null,
+      "opening_quote": 1.75,
+      "closing_quote": null,
+      "tipp_id": "2026-06-26-jpn-swe-t2"
+    },
+    {
+      "spiel_id": "2026-06-25-cur-civ",
+      "markt": "Sebastien Haller Jederzeit-Torschuetze",
+      "kategorie": "wackel",
+      "quote": 2.4,
+      "einsatz_euro": 5.5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 10,
+      "begruendung": "IC-Sturmspitze + Curacao-Defense nach 0:7 angeschlagen. Markt-Goldgrube Torschuetzen Jederzeit. Backup-Boost gilt.",
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Haller traf nicht. Pepe-Doppelpack.",
+      "clv_prozent": null,
+      "opening_quote": 2.4,
+      "closing_quote": null,
+      "tipp_id": "2026-06-25-cur-civ-t2"
+    },
+    {
+      "spiel_id": "2026-06-26-par-aus",
+      "markt": "Paraguay-Australien Unter 2.5 Tore",
+      "kategorie": "wackel",
+      "quote": 1.57,
+      "einsatz_euro": 5.5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 11,
+      "begruendung": "Beide Teams Tor-arm + Paraguay ohne Almiron + Australien Remis-Modus. Markt-Goldgrube Unter 2.5. COINFLIP-Spiel daher Wackel.",
+      "status": "gewonnen",
+      "gewinn_faktor": 0.57,
+      "kommentar": "Torlos 0:0.",
+      "clv_prozent": null,
+      "opening_quote": 1.57,
+      "closing_quote": null,
+      "tipp_id": "2026-06-26-par-aus-t1"
+    },
+    {
+      "spiel_id": "2026-06-26-jpn-swe",
+      "markt": "Viktor Gyokeres Jederzeit-Torschuetze",
+      "kategorie": "wackel",
+      "quote": 2.0,
+      "einsatz_euro": 5.5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 12,
+      "begruendung": "Gyoekeres traf MD1 + Arsenal-Form. Schweden MUSS-Sieg-Modus. Markt-Goldgrube Torschuetzen Jederzeit.",
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Gyokeres kein Tor.",
+      "clv_prozent": null,
+      "opening_quote": 2.0,
+      "closing_quote": null,
+      "tipp_id": "2026-06-26-jpn-swe-t3"
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "kombi_safe",
+      "kategorie": "safe",
+      "einsatz_euro": 11.0,
+      "status": "verloren",
+      "gesamtquote": 1.49,
+      "gewinn_faktor": -1.0,
+      "kommentar": "1 Bein(e) busted: Doppelte Chance X2 (Deutschland oder Remis) (ecu-ger)."
+    },
+    {
+      "kombi_id": "kombi_balance",
+      "kategorie": "balance",
+      "einsatz_euro": 4.4,
+      "status": "verloren",
+      "gesamtquote": 12.39,
+      "gewinn_faktor": -1.0,
+      "kommentar": "3 Bein(e) busted: Deniz Undav Jederzeit-Torschuetze (ecu-ger); Ueber 2.5 Tore (cur-civ); Alexander Isak Jederzeit-Torschuetze (jpn-swe)."
+    },
+    {
+      "kombi_id": "kombi_risk",
+      "kategorie": "risk",
+      "einsatz_euro": 1.4,
+      "status": "verloren",
+      "gesamtquote": 23.76,
+      "gewinn_faktor": -1.0,
+      "kommentar": "4 Bein(e) busted: Cody Gakpo Jederzeit-Torschuetze (tun-ned); Florian Wirtz Jederzeit-Torschuetze (ecu-ger); Amad Diallo Jederzeit-Torschuetze (cur-civ); Viktor Gyokeres Jederzeit-Torschuetze (jpn-swe)."
+    },
+    {
+      "kombi_id": "kombi_moonshot",
+      "kategorie": "moonshot",
+      "einsatz_euro": 0.55,
+      "status": "verloren",
+      "gesamtquote": 850.5,
+      "gewinn_faktor": -1.0,
+      "kommentar": "5/5 Beine verloren. Form-Edge-Stars (Undav, Isak, Gakpo) alle leer, Diomande+Yildiz auch ohne Tor. Moonshot busted."
+    }
+  ],
+  "ausgewertet_am": "2026-06-26T07:10:47Z"
+}

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-06-25T07:15:04+00:00",
+  "stand": "2026-06-26T07:13:55+00:00",
   "kriterium": "rolling 30 Tage ROI < -30.0% bei min. 4 Tipps",
   "ausstiegs_kriterium": "rolling 30 Tage ROI > -10.0% -> Liga wieder voll bespielbar",
   "ligen": [
@@ -16,6 +16,13 @@
       "roi_30d_prozent": -57.0,
       "trefferquote_30d": 25.0,
       "netto_30d": -2.28
+    },
+    {
+      "liga": "FIFA WM 2026 - Gruppe E - Spieltag 3 (Decider)",
+      "tipps_30d": 5,
+      "roi_30d_prozent": -43.4,
+      "trefferquote_30d": 40.0,
+      "netto_30d": -2.17
     }
   ]
 }
