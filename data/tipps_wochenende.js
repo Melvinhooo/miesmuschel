@@ -469,43 +469,9 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
         "SoFi Stadium Inglewood: moderates Klima, ueberdacht - keine Klima-Faktoren.",
         "bet365 erwartet: CAN ~1.71 / Draw ~3.84 / ZAF ~5.60 - klarer Kanada-Favorit 90min."
       ],
-      "tipps": [
-        {
-          "kategorie": "value",
-          "markt": "Doppelte Chance Kanada oder Remis (X2)",
-          "quote": 1.2,
-          "edge_prozent": 5.0,
-          "empfohlener_einsatz_euro": 5.5,
-          "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "Markt-Goldgrube DC X2 (82.6% / +14.0% ROI - Top-Hitrate). Klassen-Edge real + ZAF-Sturm-Klasse-Limit. Bei K.O.-Spiel ueblich engerer Spielverlauf -> Remis-Schutz wertvoll. Per Schema-Mapper-Hebel-M: max 1 DC pro Spiel - der einzige. Per Hebel-C: WM-R32 nicht in liga_goldgruben.json -> max VALUE. Quote 1.20 = 83% implied vs faire ~87%.",
-          "reality_check": "DC X2 Goldgrube + Klassen-Edge + K.O.-Risiko-Absicherung. Solider VALUE.",
-          "faire_quote": 1.15
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Jonathan David trifft jederzeit",
-          "quote": 2.4,
-          "edge_prozent": 8.0,
-          "empfohlener_einsatz_euro": 5.5,
-          "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "Markt-Goldgrube 'Torschuetzen Jederzeit' (+21.3% ROI). David Standard-9er Kanada + Top-Liga-Erfahrung (Lille/Juventus). HEIM-FAVORIT-PFLICHT (Kanada Quote 1.71 < 1.80): Torschuetzen-Tipp PFLICHT auf Top-Stuermer. Einwechslungs-Boost: Ersatzstuermer (Larin/Cavallini) zaehlt fuer David. Quote 2.40 = 42% implied vs faire ~46%. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
-          "reality_check": "Goldgrube + 9er + Einwechslungs-Boost + Heim-Favorit-Pflicht. Solider VALUE.",
-          "faire_quote": 2.22,
-          "_torschuetze_quelle_warn": true
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 2.1,
-          "edge_prozent": 4.0,
-          "empfohlener_einsatz_euro": 2.75,
-          "empfohlener_einsatz_prozent": 0.5,
-          "begruendung": "Markt-Goldgrube 'Ueber 2.5 Tore' (+32.9% ROI) aber K.O.-Modus Tor-Total tendiert niedriger (per CLAUDE.md WM-Phase 'Achtelfinale Tor-Total niedriger, Ueber 2.5 schwerer'). Kanada-Sturm-Klasse + ZAF-Defensiv-Klasse-Limit. Quote 2.10 = 48% implied vs faire ~50%. WACKEL wegen K.O.-Modus-Vorsicht.",
-          "reality_check": "Goldgrube vs K.O.-Modus-Warnung. WACKEL angemessen.",
-          "faire_quote": 2.0
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     }
   ],
   "einzeltipps": [
