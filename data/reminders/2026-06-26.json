@@ -1,5 +1,5 @@
 {
-  "stand": "2026-06-26T17:55:16.343843+00:00",
+  "stand": "2026-06-26T23:20:47.085004+00:00",
   "gesendet": {
     "2026-06-26-nor-fra": {
       "sent_at": "2026-06-26T17:55:15.167083+00:00",
@@ -12,6 +12,18 @@
       "anstoss": "2026-06-26T21:00:00+02:00",
       "spiel": "Senegal vs Irak",
       "top_tipp": "Senegal Sieg (1)"
+    },
+    "2026-06-27-uru-esp": {
+      "sent_at": "2026-06-26T23:20:45.036596+00:00",
+      "anstoss": "2026-06-27T02:00:00+02:00",
+      "spiel": "Uruguay vs Spanien",
+      "top_tipp": "Spanien Doppelte Chance X2"
+    },
+    "2026-06-27-cpv-ksa": {
+      "sent_at": "2026-06-26T23:20:45.036596+00:00",
+      "anstoss": "2026-06-27T02:00:00+02:00",
+      "spiel": "Kap Verde vs Saudi-Arabien",
+      "top_tipp": "Ueber 2.5 Tore"
     }
   }
 }
