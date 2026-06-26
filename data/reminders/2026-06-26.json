@@ -1,0 +1,17 @@
+{
+  "stand": "2026-06-26T17:55:16.343843+00:00",
+  "gesendet": {
+    "2026-06-26-nor-fra": {
+      "sent_at": "2026-06-26T17:55:15.167083+00:00",
+      "anstoss": "2026-06-26T21:00:00+02:00",
+      "spiel": "Norwegen vs Frankreich",
+      "top_tipp": "Kylian Mbappe Jederzeit-Torschuetze"
+    },
+    "2026-06-26-sen-irq": {
+      "sent_at": "2026-06-26T17:55:15.167083+00:00",
+      "anstoss": "2026-06-26T21:00:00+02:00",
+      "spiel": "Senegal vs Irak",
+      "top_tipp": "Senegal Sieg (1)"
+    }
+  }
+}
