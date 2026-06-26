@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS = {
+{
   "datum": "2026-06-26",
   "erstellt_am": "2026-06-26T17:15:00+02:00",
   "hinweis": "Watchdog-Recovery Mo-Fr 17:15 Berlin (Hauptroutine 16:00 nicht durchgelaufen). WM-2026-Gruppenphase ABSCHLUSS-SPIELTAG 3 fuer Gruppen G, H, I - 6 Spiele im Fenster 21:00 heute bis 05:00 morgen Berlin. Top-Spiel Norwegen vs Frankreich (beide schon durch, geht um Gruppensieg, Mbappe + Haaland beide 4 Tore in 2 Spielen). Senegal-Irak Dead-Rubber (beide raus mit 0 Pkt). Uruguay-Spanien (Spanien braucht Draw, Uruguay auch noch Chance, Hoehen-Faktor Guadalajara 1566m). Kap Verde-Saudi Decider (beide brauchen Sieg). Aegypten-Iran Group-G-Decider (Coinflip-Profil). Neuseeland-Belgien (Belgien MUSS gewinnen sonst raus). NBA Finals abgeschlossen 13.06. - kein Basketball heute. Vereinsfussball Saison-Pause bis August. Kasse 550 EUR -> Stufe 1 (Aufbau, konservative Einsaetze 0.5-2%). Beobachtungs-Liste hat nur Group-B-MD1 + Group-E-MD3 + NBA-Finals-Game-3 - heute nicht betroffen. Markt-Goldgruben aktiv gesucht: Ueber/Unter 2.5 Tore, Torschuetzen Jederzeit, DC X2/1X (Spieltag 3 NICHT in liga_goldgruben.json - SAFE-DC wird ggf zu VALUE degradiert). Form-Edge-Schwerpunkte: Mbappe + Haaland (je 4 Tore), Salah (1G+2A), Lamine Yamal (Spaniens Schluessel). Star-Ausfall: Senegal Edouard Mendy GK out (kein Sturm-Backup-Trigger). Coinflip-Spiele bekommen kein SAFE - max 3 Tipps.",
@@ -732,4 +731,4 @@ window.__MIESMUSCHEL_TIPPS = {
     "Hauptroutine 16:00 nicht durchgelaufen -> Watchdog 17:15 hat komplette Tipps-Generation nachgeholt. Pflicht-Vorgehen identisch zu Hauptroutine: 6 Spiele recherchiert + saison_kontext fuer alle erfuellt (Achtfeld + Quellen mit FIFA + ESPN + Wikipedia + Squawka + ggf Sky Sports)."
   ],
   "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
-};
+}
