@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-06-26T07:13:55+00:00",
+  "letzte_berechnung": "2026-06-27T07:12:37+00:00",
   "gesamt": {
-    "tipps": 442,
-    "gewonnen": 244,
-    "verloren": 187,
+    "tipps": 452,
+    "gewonnen": 252,
+    "verloren": 189,
     "push": 2,
     "offen": 9,
-    "einsatz": 433.0,
+    "einsatz": 443.0,
     "netto": 34.92,
-    "trefferquote": 56.6,
-    "roi_prozent": 8.1
+    "trefferquote": 57.1,
+    "roi_prozent": 7.9
   },
   "letzte_30_tage": {
-    "tipps": 153,
-    "gewonnen": 89,
-    "verloren": 64,
+    "tipps": 159,
+    "gewonnen": 94,
+    "verloren": 65,
     "push": 0,
     "offen": 0,
-    "einsatz": 153.0,
-    "netto": 11.92,
-    "trefferquote": 58.2,
-    "roi_prozent": 7.8
+    "einsatz": 159.0,
+    "netto": 10.99,
+    "trefferquote": 59.1,
+    "roi_prozent": 6.9
   },
   "letzte_90_tage": {
-    "tipps": 442,
-    "gewonnen": 244,
-    "verloren": 187,
+    "tipps": 452,
+    "gewonnen": 252,
+    "verloren": 189,
     "push": 2,
     "offen": 9,
-    "einsatz": 433.0,
+    "einsatz": 443.0,
     "netto": 34.92,
-    "trefferquote": 56.6,
-    "roi_prozent": 8.1
+    "trefferquote": 57.1,
+    "roi_prozent": 7.9
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -881,6 +881,61 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.57,
       "trefferquote": 100.0,
       "roi_prozent": 57.0
+    },
+    "FIFA WM 2026 - Gruppe I - Spieltag 3 (Decider Gruppensieg)": {
+      "tipps": 3,
+      "gewonnen": 2,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 0.0,
+      "trefferquote": 66.7,
+      "roi_prozent": 0.0
+    },
+    "FIFA WM 2026 - Gruppe G - Spieltag 3 (Belgien-Decider)": {
+      "tipps": 2,
+      "gewonnen": 2,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 0.0,
+      "trefferquote": 100.0,
+      "roi_prozent": 0.0
+    },
+    "FIFA WM 2026 - Gruppe H - Spieltag 3 (Gruppensieg-Decider)": {
+      "tipps": 2,
+      "gewonnen": 1,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 0.0,
+      "trefferquote": 50.0,
+      "roi_prozent": 0.0
+    },
+    "FIFA WM 2026 - Gruppe I - Spieltag 3 (Dead-Rubber, beide raus)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 100.0,
+      "roi_prozent": 0.0
+    },
+    "FIFA WM 2026 - Gruppe G - Spieltag 3 (Decider, Coinflip)": {
+      "tipps": 2,
+      "gewonnen": 2,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 0.0,
+      "trefferquote": 100.0,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt": {
@@ -1688,15 +1743,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 42.0
     },
     "Unter 2.5 Tore": {
-      "tipps": 14,
-      "gewonnen": 10,
+      "tipps": 16,
+      "gewonnen": 12,
       "verloren": 4,
       "push": 0,
       "offen": 0,
-      "einsatz": 14.0,
+      "einsatz": 16.0,
       "netto": 5.05,
-      "trefferquote": 71.4,
-      "roi_prozent": 36.1
+      "trefferquote": 75.0,
+      "roi_prozent": 31.6
     },
     "Unter 211.5 Punkte (Total)": {
       "tipps": 1,
@@ -3481,15 +3536,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 5.5
     },
     "Belgien Sieg": {
-      "tipps": 3,
-      "gewonnen": 1,
+      "tipps": 5,
+      "gewonnen": 3,
       "verloren": 2,
       "push": 0,
       "offen": 0,
-      "einsatz": 3.0,
+      "einsatz": 5.0,
       "netto": 0.3,
-      "trefferquote": 33.3,
-      "roi_prozent": 10.0
+      "trefferquote": 60.0,
+      "roi_prozent": 6.0
     },
     "Brasilien Sieg": {
       "tipps": 5,
@@ -4381,6 +4436,39 @@ window.__MIESMUSCHEL_STAT = {
       "netto": -1.0,
       "trefferquote": 0.0,
       "roi_prozent": -100.0
+    },
+    "Frankreich Doppelte Chance X2 (Sieg oder Remis)": {
+      "tipps": 3,
+      "gewonnen": 2,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 0.0,
+      "trefferquote": 66.7,
+      "roi_prozent": 0.0
+    },
+    "Spanien Doppelte Chance X2 (Sieg oder Remis)": {
+      "tipps": 2,
+      "gewonnen": 1,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 0.0,
+      "trefferquote": 50.0,
+      "roi_prozent": 0.0
+    },
+    "Senegal Sieg (1)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 100.0,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt_typ": {
@@ -4429,14 +4517,14 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 55.0
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 151,
-      "gewonnen": 85,
+      "tipps": 154,
+      "gewonnen": 88,
       "verloren": 65,
       "push": 0,
       "offen": 1,
-      "einsatz": 150.0,
+      "einsatz": 153.0,
       "netto": 6.36,
-      "trefferquote": 56.7,
+      "trefferquote": 57.5,
       "roi_prozent": 4.2
     },
     "Torschuetzen Jederzeit": {
@@ -4451,15 +4539,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 13.4
     },
     "Unter 2.5 Tore": {
-      "tipps": 22,
-      "gewonnen": 14,
+      "tipps": 24,
+      "gewonnen": 16,
       "verloren": 8,
       "push": 0,
       "offen": 0,
-      "einsatz": 22.0,
+      "einsatz": 24.0,
       "netto": 5.42,
-      "trefferquote": 63.6,
-      "roi_prozent": 24.6
+      "trefferquote": 66.7,
+      "roi_prozent": 22.6
     },
     "Doppelte Chance 1X": {
       "tipps": 27,
@@ -4473,15 +4561,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 2.2
     },
     "Doppelte Chance X2": {
-      "tipps": 28,
-      "gewonnen": 21,
-      "verloren": 5,
+      "tipps": 33,
+      "gewonnen": 24,
+      "verloren": 7,
       "push": 0,
       "offen": 2,
-      "einsatz": 26.0,
+      "einsatz": 31.0,
       "netto": 2.45,
-      "trefferquote": 80.8,
-      "roi_prozent": 9.4
+      "trefferquote": 77.4,
+      "roi_prozent": 7.9
     },
     "Ueber 2.5 Tore": {
       "tipps": 36,
@@ -4915,15 +5003,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 5.5
     },
     "1.00-1.50": {
-      "tipps": 159,
-      "gewonnen": 108,
-      "verloren": 47,
+      "tipps": 169,
+      "gewonnen": 116,
+      "verloren": 49,
       "push": 0,
       "offen": 4,
-      "einsatz": 155.0,
+      "einsatz": 165.0,
       "netto": 9.43,
-      "trefferquote": 69.7,
-      "roi_prozent": 6.1
+      "trefferquote": 70.3,
+      "roi_prozent": 5.7
     },
     "3.00+": {
       "tipps": 18,
@@ -4950,15 +5038,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 1.1
     },
     "value": {
-      "tipps": 263,
-      "gewonnen": 144,
-      "verloren": 108,
+      "tipps": 273,
+      "gewonnen": 152,
+      "verloren": 110,
       "push": 2,
       "offen": 9,
-      "einsatz": 254.0,
+      "einsatz": 264.0,
       "netto": 32.24,
-      "trefferquote": 57.1,
-      "roi_prozent": 12.7
+      "trefferquote": 58.0,
+      "roi_prozent": 12.2
     },
     "wackel": {
       "tipps": 90,
@@ -5011,6 +5099,161 @@ window.__MIESMUSCHEL_STAT = {
     }
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-06-26",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "Safe-Kombi WM Decider",
+          "kategorie": "safe",
+          "gesamtquote": 2.9,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Norwegen - Frankreich: Kylian Mbappe Jederzeit-Torschuetze",
+              "quote": 1.65,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Senegal - Irak: Senegal Sieg (1)",
+              "quote": 1.22,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Uruguay - Spanien: Spanien Doppelte Chance X2",
+              "quote": 1.18,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Neuseeland - Belgien: Belgien Sieg (2)",
+              "quote": 1.22,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi Form-Stuermer",
+          "kategorie": "balance",
+          "gesamtquote": 9.55,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Norwegen - Frankreich: Ueber 2.5 Tore",
+              "quote": 1.55,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Uruguay - Spanien: Lamine Yamal Jederzeit-Torschuetze",
+              "quote": 2.3,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Aegypten - Iran: Aegypten Doppelte Chance 1X",
+              "quote": 1.45,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Neuseeland - Belgien: Romelu Lukaku Jederzeit-Torschuetze",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi Torschuetzen-Plus",
+          "kategorie": "risk",
+          "gesamtquote": 18.94,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Kap Verde - Saudi-Arabien: Bebe Jederzeit-Torschuetze",
+              "quote": 4.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Aegypten - Iran: Mohamed Salah Jederzeit-Torschuetze",
+              "quote": 2.87,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Neuseeland - Belgien: Kevin De Bruyne Jederzeit-Torschuetze oder Assist",
+              "quote": 1.65,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot WM-Torschuetzen-Festival",
+          "kategorie": "moonshot",
+          "gesamtquote": 201.5,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Norwegen - Frankreich: Kylian Mbappe Jederzeit-Torschuetze",
+              "quote": 1.65,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Senegal - Irak: Sadio Mane Jederzeit-Torschuetze",
+              "quote": 2.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Uruguay - Spanien: Lamine Yamal Jederzeit-Torschuetze",
+              "quote": 2.3,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Kap Verde - Saudi-Arabien: Bebe Jederzeit-Torschuetze",
+              "quote": 4.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Aegypten - Iran: Mohamed Salah Jederzeit-Torschuetze",
+              "quote": 2.87,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Neuseeland - Belgien: Romelu Lukaku Jederzeit-Torschuetze",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-06-25",
       "gesamt": {

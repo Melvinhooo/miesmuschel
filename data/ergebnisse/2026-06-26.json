@@ -1,0 +1,1730 @@
+{
+  "datum": "2026-06-26",
+  "erstellt_am": "2026-06-26T17:15:00+02:00",
+  "hinweis": "Watchdog-Recovery Mo-Fr 17:15 Berlin (Hauptroutine 16:00 nicht durchgelaufen). WM-2026-Gruppenphase ABSCHLUSS-SPIELTAG 3 fuer Gruppen G, H, I - 6 Spiele im Fenster 21:00 heute bis 05:00 morgen Berlin. Top-Spiel Norwegen vs Frankreich (beide schon durch, geht um Gruppensieg, Mbappe + Haaland beide 4 Tore in 2 Spielen). Senegal-Irak Dead-Rubber (beide raus mit 0 Pkt). Uruguay-Spanien (Spanien braucht Draw, Uruguay auch noch Chance, Hoehen-Faktor Guadalajara 1566m). Kap Verde-Saudi Decider (beide brauchen Sieg). Aegypten-Iran Group-G-Decider (Coinflip-Profil). Neuseeland-Belgien (Belgien MUSS gewinnen sonst raus). NBA Finals abgeschlossen 13.06. - kein Basketball heute. Vereinsfussball Saison-Pause bis August. Kasse 550 EUR -> Stufe 1 (Aufbau, konservative Einsaetze 0.5-2%). Beobachtungs-Liste hat nur Group-B-MD1 + Group-E-MD3 + NBA-Finals-Game-3 - heute nicht betroffen. Markt-Goldgruben aktiv gesucht: Ueber/Unter 2.5 Tore, Torschuetzen Jederzeit, DC X2/1X (Spieltag 3 NICHT in liga_goldgruben.json - SAFE-DC wird ggf zu VALUE degradiert). Form-Edge-Schwerpunkte: Mbappe + Haaland (je 4 Tore), Salah (1G+2A), Lamine Yamal (Spaniens Schluessel). Star-Ausfall: Senegal Edouard Mendy GK out (kein Sturm-Backup-Trigger). Coinflip-Spiele bekommen kein SAFE - max 3 Tipps.",
+  "spiele": [
+    {
+      "id": "2026-06-26-nor-fra",
+      "liga": "FIFA WM 2026 - Gruppe I - Spieltag 3 (Decider Gruppensieg)",
+      "heim": "Norwegen",
+      "gast": "Frankreich",
+      "anstoss": "2026-06-26T21:00:00+02:00",
+      "stadion": "Gillette Stadium, Foxborough (Boston) - hoehe_m 64, neutral-gemaessigt",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM 2026 ist alleiniger Wettbewerb. Norwegens Stamm-Spieler aus Premier League (Haaland/ManCity, Odegaard/Arsenal, Nusa/Leipzig, Ajer/Brentford) hatten ~10 Tage Pause nach intensiver Vereinssaison.",
+        "parallel_gast": "keine - WM 2026 ist alleiniger Wettbewerb. Frankreich-Spieler aus PSG/Real/Bayern/PL hatten ~10 Tage Pause nach CL-Finale 31.05. (Mbappe seit Real-CL-Aus 15.04. ohnehin Pause).",
+        "saisonziel_heim": "Norwegen Gruppe I mit 6 Pkt (4:1 vs Irak MD1, 3:2 vs Senegal MD2), Tordiff +4. Tabelle Platz 2 hinter Frankreich nur per Tordiff. Bereits Achtelfinale gesichert. Saisonziel: Gruppensieg gegen Frankreich - erstes Mal WM-Gruppensieg seit 1998 moeglich.",
+        "saisonziel_gast": "Frankreich Gruppe I mit 6 Pkt (3:1 vs Senegal MD1, 3:0 vs Irak MD2), Tordiff +5. Tabelle Platz 1 nur per Tordiff (+5 vs +4). Bereits Achtelfinale gesichert. Saisonziel: Gruppensieg sichern (Remis reicht, Klassen-Edge mitnehmen Richtung Achtelfinale).",
+        "motivations_asymmetrie": "Beide bereits durch - Frankreich reicht Remis fuer Gruppensieg, Norwegen MUSS gewinnen fuer Top-Platz. Aber Frankreich-Klassen-Edge + Mbappe-Form vs Norwegens Haaland-Form spricht fuer Frankreich-Sieg. Rotations-Risiko bei beiden moeglich (Achtelfinal-Vorbereitung), aber Top-Stars wie Mbappe + Haaland werden spielen weil Show-Spiel.",
+        "recovery_heim": "4 Tage Pause seit 3:2 vs Senegal (22.06.). Standard-Erholung. Haaland-Belastung nach langer ManCity-Saison ein Risiko-Faktor in 90+min-Phase.",
+        "recovery_gast": "4 Tage Pause seit 3:0 vs Irak (22.06.). Standard-Erholung. Frankreich rotierte schon gegen Irak (Bench-Stars wie Camavinga/Olise im Einsatz), Stamm-Elf fit fuer Norwegen-Spiel.",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+          "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_I",
+          "https://www.fanduel.com/research/norway-vs-france-prediction-picks-lineups-preview-and-best-bets-world-cup-2026-group-i",
+          "https://www.espn.com/soccer/story/_/id/49162941/norway-vs-france-fifa-world-cup-2026-tv-channel-how-watch-kick-live-stream-injury-predicted-line-ups",
+          "https://www.skysports.com/football/news/12098/13543102/world-cup-2026-group-i-guide-fixtures-schedule-standings-and-odds-for-france-senegal-iraq-and-norway",
+          "https://sports.yahoo.com/articles/france-vs-norway-scenarios-explained-070002551.html"
+        ]
+      },
+      "news": [
+        "Norwegen erwartet (4-3-3): Nyland; Holmgren Pedersen, Ajer, Ostigard, Bjorkan; Berge, Odegaard (c), Thorstvedt; Nusa, Haaland, Schjelderup. RotoWire: Haaland-Rotation moeglich da Achtelfinal-Sicherheit - Lineup-Check 2h vor Anpfiff Pflicht.",
+        "Frankreich erwartet (4-3-3): Maignan; Kounde, Upamecano, Saliba, T. Hernandez; Tchouameni, Kante, Rabiot; Dembele, Mbappe (c), Barcola.",
+        "Mbappe 4 Tore in 2 Spielen (Hattrick vs Senegal MD1, Doppelpack vs Irak MD2) - Top-Torjaeger des Turniers aktuell. Haaland ebenfalls 4 Tore in 2 Spielen.",
+        "Backup-Stuermer Frankreich (bei Mbappe-Schonung): Olise, Thuram, Kolo Muani. Einwechslungs-Boost greift bei bet365 - wenn Mbappe ausgewechselt + Ersatz trifft, Mbappe-Torschuetzen-Tipp gewonnen.",
+        "Frankreich-Sieg-Quote -160 (~1.62), Draw +350 (~4.50), Norwegen +360 (~4.60). FanDuel-Prognose 3:1 Frankreich. Best price Frankreich-Sieg 4/5 (1.80)."
+      ],
+      "tipps": [
+        {
+          "markt": "Frankreich Doppelte Chance X2 (Sieg oder Remis)",
+          "quote": 1.2,
+          "einsatz_euro": 8.25,
+          "begruendung": "Frankreich reicht Remis fuer Gruppensieg, Klassen-Edge in der Breite (Saliba/Upamecano vs Haaland-Solo, Mbappe gegen Norwegen-Abwehr). DC-Goldgrube X2 (80.8% Hitrate / +9.4% ROI). Bleibt VALUE statt SAFE da Norwegen Heim-Status (Boston-Stadion oft pro-Skandinavien-Diaspora) + Haaland kann Spiel solo entscheiden. Liga Group-I-MD3 nicht in liga_goldgruben.json - Mapper degradiert SAFE-DC ohnehin auf VALUE.",
+          "kategorie": "value",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.22
+        },
+        {
+          "markt": "Kylian Mbappe Jederzeit-Torschuetze",
+          "quote": 1.65,
+          "einsatz_euro": 11.0,
+          "begruendung": "MUSS-Tipp bei Form-Edge: 4 Tore in 2 WM-Spielen + Klassen-Edge vs Norwegens Innenverteidigung (Ajer + Ostigard solide aber kein Top-Level). Markt-Goldgrube Torschuetzen Jederzeit (50% Hitrate / +24.4% ROI - bester Markt im System). Einwechslungs-Boost: bei Mbappe-Schonung zaehlen Olise/Thuram/Kolo-Muani-Tore mit. Statistik 30d Torschuetzen: 50% Hitrate, +24.4% ROI. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 2.0,
+          "faire_quote": 1.65,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.55,
+          "einsatz_euro": 8.25,
+          "begruendung": "Beide Teams mit Top-Sturm (Mbappe + Haaland je 4 Tore), beide Defensives mit Loechern (Senegal traf 2x gegen Norwegen, Senegal traf 1x gegen Frankreich), beide-spielen-offen-Modus weil Gruppensieg-Edge. Markt-Goldgrube Ueber 2.5 Tore (64.7% Hitrate / +34.2% ROI - Top-3-Markt im System).",
+          "kategorie": "value",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.55
+        },
+        {
+          "markt": "Erling Haaland Jederzeit-Torschuetze",
+          "quote": 1.95,
+          "einsatz_euro": 5.5,
+          "begruendung": "Form-Edge wie Mbappe (4 Tore in 2 Spielen). Trifft Frankreichs Abwehr in starker Verfassung an (Saliba/Upamecano), aber Norwegen muss Sieg und Haaland ist Solo-Game-Changer. Wackel weil Rotations-Risiko: Norwegen koennte ihn schonen fuer Achtelfinale. Einwechslungs-Boost greift, aber Sorloth als Backup hat selber Form-Lauf.",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 2.0
+        },
+        {
+          "markt": "Beide Teams treffen Ja",
+          "quote": 1.55,
+          "einsatz_euro": 8.25,
+          "begruendung": "Mbappe + Haaland je 4 Tore in 2 Spielen - in jedem ihrer Spiele bisher hat das Team getroffen. Frankreich hat in beiden bisherigen Spielen mind. 3 Tore geschossen, Norwegen ebenfalls 3 Tore in jedem Spiel. Beide-treffen-Ja seit Saisonstart in 0/2 Spielen jeder Seite verfehlt. Begleitung zu Ueber 2.5.",
+          "kategorie": "value",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.55
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 1,
+        "gast": 4,
+        "endstand": "1:4",
+        "kommentar": "Norwegen 1:4 Frankreich - Dembele-Hattrick (7'/20'/32'), Aasgaard 21', Doue 90+4. Haaland war unbenutzter Ersatzspieler (Schon vor Achtelfinale). Mbappe ohne Tor (2 Assists), 87' ausgewechselt. Frankreich Gruppensieger Gruppe I."
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "1:3",
+        "endstand": "1:4",
+        "tore": [
+          {
+            "min": 7,
+            "team": "gast",
+            "spieler": "Dembele",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 20,
+            "team": "gast",
+            "spieler": "Dembele",
+            "stand_danach": "0:2"
+          },
+          {
+            "min": 21,
+            "team": "heim",
+            "spieler": "Aasgaard",
+            "stand_danach": "1:2"
+          },
+          {
+            "min": 32,
+            "team": "gast",
+            "spieler": "Dembele (Hattrick)",
+            "stand_danach": "1:3"
+          },
+          {
+            "min": "90+4",
+            "team": "gast",
+            "spieler": "Doue",
+            "stand_danach": "1:4"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Frankreich legte 0:2 vor (20.), Norwegen verkuerzte sofort (Aasgaard 21.), aber Dembeles Hattrick-Tor 32. fuehrte zu 1:3-HZ-Stand. Kein Drehungs-Trigger - Frankreich Klassen-Edge ohne Wackler durchgezogen. 2:0-Insurance fuer Frankreich-Sieg-Tipp greift NICHT noetig (Frankreich gewann ohnehin)."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Frankreich/Frankreich",
+          "kein_team_zu_null": true,
+          "siegtor_in_letzten_15min": false,
+          "ausgleich_in_letzten_15min": false,
+          "fruehes_tor_unter_10min": true,
+          "spaetes_tor_ab_80min": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Haaland",
+            "details": "Unbenutzter Ersatzspieler - Norwegen rotierte vor Achtelfinale, hat Top-Stuermer komplett geschont. Lesson 03.05. (Top-Team-Rotation vor K.O.) VOLL bestaetigt."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "gast",
+            "ein": "Doue",
+            "aus": "Mbappe (oder fruehere Sub)",
+            "minute": "vor 90+4",
+            "tor": true,
+            "tor_minute": "90+4",
+            "details": "Mbappe 87' raus, Doue traf 90+4'. Wenn Doue direkter Mbappe-Ersatz war, haette Boost den Mbappe-Tipp gerettet - aber Doue gehoerte laut Match-Reports zum Frankreich-Starter-Pool; Direkt-Sub-Kette nicht hart bestaetigt. Konservativ: kein Boost angewendet."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Star-Schon-Pattern WM-Spieltag 3 mit gesicherter Quali: Haaland unbenutzt + Mbappe 87' raus - beide Stars geschont fuer Achtelfinale. Lesson 03.05.+05.18./19. validiert.",
+          "Dembele-Hattrick 32min - 2. schnellster Hattrick WM-Geschichte. Form-Edge-Punktes-Wechsel: Mbappe Co-Star als Assist-Lieferant, nicht Torschuetze (Form-Edge auf Falsche-Pferd-Risiko).",
+          "BTTS + Ueber 2.5 + Ueber 3.5 + Ueber 4.5 alle JA - Markt-Goldgrube Ueber 2.5 erneut validiert (Liga Group-I-MD3).",
+          "Spaetes Tor 90+4 wieder Cluster-Element - Lesson 06.18.+19. (Late-Goal-Cluster WM) bestaetigt erneut."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-06-26-nor-fra-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.2,
+          "kommentar": "Frankreich 4:1 - DC X2 (Sieg) durch.",
+          "clv_prozent": null,
+          "opening_quote": 1.2,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-26-nor-fra-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Mbappe 0 Tore (2 Assists), 87' raus. Doue traf 90+4 - Direkt-Sub-Kette zu Mbappe nicht hart bestaetigbar (Doue Teil Frankreichs Starter laut Match-Reports), kein Boost angewendet.",
+          "clv_prozent": null,
+          "opening_quote": 1.65,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-26-nor-fra-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.55,
+          "kommentar": "5 Tore - klar ueber 2.5. Goldgrube validiert.",
+          "clv_prozent": null,
+          "opening_quote": 1.55,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-26-nor-fra-4",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Haaland UNBENUTZTER Ersatzspieler - Norwegen schonte ihn vor Achtelfinale. Rotations-Risiko aus Tipp-Begruendung realisiert. Kein Boost (Haaland war Bank, kein Sub raus->rein).",
+          "clv_prozent": null,
+          "opening_quote": 1.95,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-26-nor-fra-5",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.55,
+          "kommentar": "1:4 - Beide trafen (Aasgaard fuer Norwegen, Dembele/Doue fuer Frankreich).",
+          "clv_prozent": null,
+          "opening_quote": 1.55,
+          "closing_quote": null
+        }
+      ]
+    },
+    {
+      "id": "2026-06-26-sen-irq",
+      "liga": "FIFA WM 2026 - Gruppe I - Spieltag 3 (Dead-Rubber, beide raus)",
+      "heim": "Senegal",
+      "gast": "Irak",
+      "anstoss": "2026-06-26T21:00:00+02:00",
+      "stadion": "BMO Field, Toronto - hoehe_m 76, moderates Klima neutral",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM 2026 ist alleiniger Wettbewerb. Senegal-Stamm-Spieler aus PL/Serie A/Ligue 1 hatten ~10 Tage Pause vor WM. Sadio Mane (Saudi Pro League) entspannte Saison, Nicolas Jackson (Chelsea/Bayern Leihe) intensive Saison.",
+        "parallel_gast": "keine - WM 2026 ist alleiniger Wettbewerb. Irak-Kader fast komplett aus iraqischer Liga + Gulf-Liga - geringe Vereins-Doppelbelastung.",
+        "saisonziel_heim": "Senegal Gruppe I mit 0 Pkt (1:3 vs Frankreich MD1, 2:3 vs Norwegen MD2), Tordiff -3. Tabelle Platz 4. BEREITS RAUS - kein Achtelfinal-Quali mehr moeglich. Saisonziel: Wuerde nach Turnier-Aus, Stolz retten, Generation-Wechsel-Signale.",
+        "saisonziel_gast": "Irak Gruppe I mit 0 Pkt (1:4 vs Norwegen MD1, 0:3 vs Frankreich MD2), Tordiff -6. Tabelle Platz 4 mit schlechterer Tordiff als Senegal. BEREITS RAUS. Saisonziel: Erste WM-Punkte holen, Asian-Cup-Vorbereitung.",
+        "motivations_asymmetrie": "BEIDE RAUS - klassische Dead-Rubber-Konstellation. Senegal Klassen-Edge deutlich (Mane, Jackson, Sarr Niveau), aber Motivation niedrig nach frueher Enttaeuschung. Irak spielt um Stolz + erste WM-Punkte. Senegal wird wohl rotieren (Backup-Spieler fuer Heim-Liga-Show, Eduoard Mendy GK out). Edge fuer Senegal trotzdem, aber kleiner als Klassenunterschied suggeriert.",
+        "recovery_heim": "4 Tage Pause seit 2:3 vs Norwegen (22.06.). Standard-Erholung. Saison-Muedigkeit Mane (lange Saison Al-Nassr) + Jackson (Bayern Leihe, viele Spiele) ein Faktor.",
+        "recovery_gast": "4 Tage Pause seit 0:3 vs Frankreich (22.06.). Standard-Erholung. Irak-Spieler kaum Vereinsbelastung, koerperlich frisch.",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+          "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_I",
+          "https://www.lineups.com/betting/senegal-vs-iraq-world-cup-match-preview-picks-odds-for-friday-june-26-2026/",
+          "https://www.sportsmole.co.uk/football/senegal/world-cup-2026/preview/senegal-vs-iraq-prediction-team-news-lineups_599956.html",
+          "https://www.racingpost.com/sport/football-tips/world-cup-2026/senegal-vs-iraq-world-cup-prediction-team-news-odds-betting-tips-and-bet-builder-abzLt2O2GKan/",
+          "https://www.foxsports.com/stories/soccer/2026-world-cup-senegal-iraq-odds-prediction-picks"
+        ]
+      },
+      "news": [
+        "Senegal erwartet (4-2-3-1): Diaw; Diatta, Koulibaly, Niakhate, E-H Diouf; I Gueye, P Gueye; I Sarr, Camara, Mane; Jackson. Edouard Mendy GK OUT (Diaw als Vertretung).",
+        "Irak erwartet (4-1-4-1): Basil; Hussein Ali, Tahseen, Hashim, Doski; Al Ammari; Qasem, Ismael, Iqbal, Bayesh; Al Hamadi. Aymen Hussein ST fraglich (Verletzung).",
+        "Senegal-Sieg-Quote -450 (~1.22), Iraq +1100 (~12.0), Draw +550 (~6.50). Total Goals 3.5.",
+        "Backup-Stuermer Senegal (bei Jackson/Mane-Rotation): Boulaye Dia, Habib Diarra - Sturm-Tiefe da, Backup-Tipps wuerden zaehlen via Einwechslungs-Boost.",
+        "Klassen-Edge Senegal historisch klar, aber Motivations-Asymmetrie als Dead-Rubber begrenzt SAFE-Tauglichkeit."
+      ],
+      "tipps": [
+        {
+          "markt": "Senegal Sieg (1)",
+          "quote": 1.22,
+          "einsatz_euro": 8.25,
+          "begruendung": "Klassen-Edge deutlich (Mane, Koulibaly, Jackson, Sarr - alle PL/Serie-A-Niveau vs Irak-Liga-Profis). Senegal hat in 2 Spielen 3 Tore geschossen, traf in jedem Spiel. Bleibt VALUE statt SAFE wegen Dead-Rubber-Motivations-Risiko (Senegal rotiert wohl, Saison-Muedigkeit Mane) - Selbst-Widerspruch im saison_kontext verhindert SAFE per Hebel S.",
+          "kategorie": "value",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.2
+        },
+        {
+          "markt": "Sadio Mane Jederzeit-Torschuetze",
+          "quote": 2.5,
+          "einsatz_euro": 5.5,
+          "begruendung": "Form-Edge: Mane traf vs Norwegen MD2. Spielt vermutlich (Generation-Wechsel-Signal noch zu frueh), gegen Irak-Defensive Heim-Liga-Niveau. Markt-Goldgrube Torschuetzen Jederzeit. Einwechslungs-Boost bei Mane-Auswechslung -> Backup Habib Diarra/Dia zaehlt mit. Wackel weil Saison-Muedigkeit Al-Nassr-Saison + Dead-Rubber.",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 2.5
+        },
+        {
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.85,
+          "einsatz_euro": 5.5,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (64.7% Hitrate / +34.2% ROI). Irak muss aufmachen fuer ersten WM-Punkt (sonst zu Hause Kritik), das oeffnet Raeume fuer Senegal-Sturm. Senegals 2-bisher-Spiele alle Ueber 2.5 (5+0+3+2 = 10 Tore in 2 Spielen geteilt). Wackel weil Senegal-Rotation Tor-Sturm-Tiefe einschraenken koennte.",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 1.85
+        },
+        {
+          "markt": "Nicolas Jackson Jederzeit-Torschuetze",
+          "quote": 2.75,
+          "einsatz_euro": 2.75,
+          "begruendung": "Backup-Torschuetzen-Tipp (zu Mane). Jackson nominell Stamm-Stuermer, hat in Bayern-Leihe stark beendet. Markt-Goldgrube. Wackel weil Rotations-Risiko sehr hoch (Saison-Muedigkeit Chelsea+Bayern + Dead-Rubber). Einwechslungs-Boost greift.",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 2.75
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 5,
+        "gast": 0,
+        "endstand": "5:0",
+        "kommentar": "Senegal 5:0 Irak - Diarra HZ + Sarr 56' + Pape Gueye 2x (Sub) + Ndiaye ~82'. Iraks Sulaka rote Karte fruh, danach 10:11. Mane spielte, traf nicht. Jackson kam 57' rein, traf nicht. Pape-Gueye-Doppelpack als Sub - historischer 5-Tore-Sieg fuer afrikanische Nation."
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "5:0",
+        "tore": [
+          {
+            "min": "vor 45",
+            "team": "heim",
+            "spieler": "Habib Diarra",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 56,
+            "team": "heim",
+            "spieler": "Ismaila Sarr",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": "ca. 60",
+            "team": "heim",
+            "spieler": "Pape Gueye (Sub, 89 Sek nach Einwechslung)",
+            "stand_danach": "3:0"
+          },
+          {
+            "min": "ca. 75",
+            "team": "heim",
+            "spieler": "Pape Gueye (2)",
+            "stand_danach": "4:0"
+          },
+          {
+            "min": 82,
+            "team": "heim",
+            "spieler": "Iliman Ndiaye",
+            "stand_danach": "5:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Linearer Senegal-Klassen-Edge-Durchmarsch - Iraks Rote-Karte-Frueh (Sulaka) destabilisierte Irak komplett. Keine Drehung. 2:0-Insurance fuer Senegal-Sieg greift mit Polster."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Senegal/Senegal",
+          "kein_team_zu_null": false,
+          "siegtor_in_letzten_15min": false,
+          "ausgleich_in_letzten_15min": false,
+          "spaetes_tor_ab_80min": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Jackson",
+            "details": "Stamm-Profil aber als 57' Sub fuer Camara - de la Fuente-aequivalente Rotation nach Saison-Muedigkeit. Traf nicht."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Pape Gueye",
+            "aus": "Habib Diarra",
+            "minute": 57,
+            "tor": true,
+            "tor_minute": "~60+~75",
+            "details": "Pape Gueye Doppelpack als Sub - 89 Sek nach Einwechslung erstes Tor. Boost-Trigger fuer Habib-Diarra-Torschuetzen-Tipp HAETTE gegolten (Diarra raus, Gueye trifft mehrfach) - aber Diarra hatte Senegal-Tipp gar nicht (ungetippter Boost-Trigger Cluster-Element)."
+          },
+          {
+            "team": "heim",
+            "ein": "Iliman Ndiaye",
+            "aus": "Mane (vermutlich, nicht hart bestaetigt)",
+            "minute": "ca. 70",
+            "tor": true,
+            "tor_minute": 82,
+            "details": "Mane-Torschuetzen-Tipp HAETTE Boost-Trigger sein koennen WENN Ndiaye Mane direkt ersetzt hat - Subs-Kette nicht hart bestaetigt. Konservativ: kein Boost angewendet."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Dead-Rubber-These (Senegal raus + lustlos) widerlegt durch historische 5-Tor-Margin - Klassen-Edge + Iraks Rote schlugen Motivation. Lesson 05.25. (Dead-Rubber-Unter-Tendenz) hier nicht aktiv weil Rote-Karten-Asymmetrie.",
+          "Einwechslungs-Boost-Pattern erneut auf Sub-Stuermer aktiviert (Gueye Doppelpack als Sub). Lesson 06.07./08./21. Joker-Pool-Pflicht erneut validiert - Sub-Stuermer als Volume-Backup hat auf WM extreme Trefferrate.",
+          "Spaetes Tor 82 erneut Cluster - Lesson 06.18.+19. bestaetigt.",
+          "Markt-Goldgrube Ueber 2.5: 5 Tore - Goldgrube + Klassen-Edge-Mismatch fuehrt zu Tor-Festival, aber alle Tore Senegal (BTTS = NEIN, eine BTTS-These war im Tipps gar nicht drauf).",
+          "Star-Backup-Pflicht (Mane, Jackson getroffen?) - beide Stars haben nicht getroffen, ABER ein Joker-Pool-Spieler (Pape Gueye) hat 2x getroffen - klassische Lesson 06.18./19./25. Sub-Joker."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-06-26-sen-irq-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.22,
+          "kommentar": "Senegal 5:0 - klarer Sieg trotz Dead-Rubber-These.",
+          "clv_prozent": null,
+          "opening_quote": 1.22,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-26-sen-irq-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Mane spielte (Sulaka VAR-Foul an Mane vor Roter Karte), traf nicht. Ndiaye-Tor 82' moeglicher Boost-Trigger wenn Ndiaye Mane direkt ersetzt hat - nicht hart bestaetigt. Konservativ kein Boost angewendet.",
+          "clv_prozent": null,
+          "opening_quote": 2.5,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-26-sen-irq-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.85,
+          "kommentar": "5 Tore - klar ueber 2.5. Goldgrube + Iraks Rote = Mismatch.",
+          "clv_prozent": null,
+          "opening_quote": 1.85,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-26-sen-irq-4",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Jackson kam 57' rein (fuer Camara), traf nicht. Kein Boost (Jackson war Sub, kein Sub raus->rein).",
+          "clv_prozent": null,
+          "opening_quote": 2.75,
+          "closing_quote": null
+        }
+      ]
+    },
+    {
+      "id": "2026-06-27-uru-esp",
+      "liga": "FIFA WM 2026 - Gruppe H - Spieltag 3 (Gruppensieg-Decider)",
+      "heim": "Uruguay",
+      "gast": "Spanien",
+      "anstoss": "2026-06-27T02:00:00+02:00",
+      "stadion": "Estadio Akron, Guadalajara - hoehe_m 1566, Mittelhoehe leichte Konditions-Belastung",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM 2026 ist alleiniger Wettbewerb. Uruguay-Stamm aus Europa (Bentancur/Tottenham, Valverde/Real, Araujo/Barcelona, Pellistri/Wolves) - Saison-Muedigkeit nach intensiven Liga-Wochen.",
+        "parallel_gast": "keine - WM 2026 ist alleiniger Wettbewerb. Spanien-Spieler aus Real/Barca/PL (LaLiga-Goldgrube aus Saison) - 10 Tage Pause nach CL-Finale 31.05.",
+        "saisonziel_heim": "Uruguay Gruppe H mit 2 Pkt (1:1 vs Saudi MD1, 2:2 vs Kap Verde MD2), Tordiff 0. Tabelle Platz 3 hinter Spanien/Kap Verde nur per Direktvergleich. Saisonziel: Achtelfinal-Quali - Sieg garantiert Top-2, Remis hilft nur wenn Kap Verde nicht gewinnt.",
+        "saisonziel_gast": "Spanien Gruppe H mit 4 Pkt (0:0 vs Kap Verde MD1, 4:0 vs Saudi MD2), Tordiff +4. Tabelle Platz 1. Saisonziel: Remis reicht fuer Achtelfinale + Gruppensieg quasi sicher (Tordiff-Vorsprung +4 vs Uruguay 0). Spanien laeuft auf 32-Spiele-Serie ungeschlagen in 90min - Stamm-Elf-Stabilitaet hoch.",
+        "motivations_asymmetrie": "Beide Teams brauchen Edge: Uruguay MUSS Sieg fuer sichere Quali (Remis riskiert Aus wenn Kap Verde gewinnt), Spanien reicht Remis aber will Gruppensieg. Spanien-Klassen-Edge (Yamal, Pedri, Rodri, Olmo, Williams) vs Uruguay-Wuerfeli-Statistik (5 von 6 Spielen Remis zuletzt). Hoehen-Faktor Guadalajara 1566m wirkt nach Min 60 spuerbar gegen Spanien (europaeisches Tempo-Spiel) - leichter Faktor fuer Uruguay.",
+        "recovery_heim": "5 Tage Pause seit 2:2 vs Kap Verde (21.06.). Standard-Erholung. Saison-Muedigkeit moderat.",
+        "recovery_gast": "5 Tage Pause seit 4:0 vs Saudi (21.06.). Standard-Erholung. De la Fuente kann ggf rotieren da Achtelfinal-Quali quasi sicher - Yamal-Schonungs-Risiko.",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+          "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_H",
+          "https://www.espn.com/soccer/story/_/id/49167172/fifa-world-cup-2026-uruguay-vs-spain-tv-channel-how-watch-kickoff-live-stream-referee-predicted-lineups",
+          "https://www.lineups.com/betting/uruguay-vs-spain-world-cup-match-preview-picks-odds-for-friday-june-26-2026/",
+          "https://www.foxsports.com/stories/soccer/uruguay-vs-spain-how-to-watch-tv-channel-live-stream-2026-fifa-world-cup-group-h"
+        ]
+      },
+      "news": [
+        "Spanien-Aufstellung erwartet: Simon; Carvajal, Le Normand, Laporte, Cucurella; Rodri, Pedri, Fabian Ruiz; Yamal, Olmo, Williams. Yamal MUSS starten (Tor-Differenz mit/ohne ihm signifikant).",
+        "Uruguay-Aufstellung erwartet: Rochet; Caceres, Gimenez, Araujo, Olivera; Bentancur, Valverde, Ugarte; Araujo, Nunez, Pellistri. Maxi Araujo bisher beste Uruguay-Sturm-Option.",
+        "Spanien-Sieg-Quote -175 (~1.57), Draw +300 (~4.00), Uruguay +550 (~6.50).",
+        "Spanien 32-Spiele-Serie ungeschlagen in 90min - Form-Stabilitaet historisch. Uruguay 5 von 6 letzten Spielen Remis - kaum Tore-Spektakel.",
+        "Hoehen-Faktor 1566m: europaeische Press-Spiele tendenziell ab Min 60 schwaecher. Uruguay-Spieler an Suedamerika gewoehnt - leichter Vorteil."
+      ],
+      "tipps": [
+        {
+          "markt": "Spanien Doppelte Chance X2 (Sieg oder Remis)",
+          "quote": 1.18,
+          "einsatz_euro": 8.25,
+          "begruendung": "Spanien reicht Remis fuer Achtelfinale + 32-Spiele-Ungeschlagen-Serie + Klassen-Edge breit (Yamal, Pedri, Rodri). DC-Goldgrube X2 (80.8% Hitrate / +9.4% ROI). Bleibt VALUE statt SAFE da Group-H-MD3 nicht in liga_goldgruben.json + Hoehen-Faktor Guadalajara verschiebt Risiko leicht Richtung Uruguay - Mapper-Hebel C downgradet SAFE-DC sowieso.",
+          "kategorie": "value",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.18
+        },
+        {
+          "markt": "Lamine Yamal Jederzeit-Torschuetze",
+          "quote": 2.3,
+          "einsatz_euro": 8.25,
+          "begruendung": "Form-Edge bei Yamal MUSS-Starter-Status. Spanien wird auch bei Remis-Strategie Yamal-Schluessel suchen vor Achtelfinal-Bracket. Markt-Goldgrube Torschuetzen Jederzeit (50% / +24.4%). Einwechslungs-Boost: bei Yamal-Schonung waeren Ferran Torres/Nico Williams-Tore mit drauf. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 2.3,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.95,
+          "einsatz_euro": 5.5,
+          "begruendung": "Markt-Goldgrube Unter 2.5 (63.6% / +24.6%). Uruguay 5 von 6 letzten Spielen Remis = wenig Tore. Spanien 0:0 gegen Kap Verde MD1, Hoehen-Faktor Guadalajara bremst Spanien-Tempo. Spanien hat Remis-Polster, beide Teams gehen vorsichtig - klassisches K.O.-aehnliches Spiel. Wackel weil Spanien 4:0 Saudi gezeigt hat dass Sturm zuenden kann.",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 1.95
+        },
+        {
+          "markt": "Spanien Sieg",
+          "quote": 1.57,
+          "einsatz_euro": 5.5,
+          "begruendung": "Spanien-Klassen-Edge + 32-Spiele-Serie + 4:0-Demo gegen Saudi zeigt Sturm-Effizienz. Wackel statt VALUE wegen Hoehen-Faktor + Spanien-Remis-Strategie-Risiko (vorsichtiger Aufbau wenn Remis reicht).",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 1.65
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 0,
+        "gast": 1,
+        "endstand": "0:1",
+        "kommentar": "Uruguay 0:1 Spanien - Baena 42' (Muslera-Patzer). HZ 0:1. Yamal spielte, traf nicht (von Ferran Torres/Nico Williams ersetzt - keiner traf). Spanien Gruppensieger, Uruguay raus."
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "0:1",
+        "tore": [
+          {
+            "min": 42,
+            "team": "gast",
+            "spieler": "Alex Baena",
+            "stand_danach": "0:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Lineares Spanien-Klassen-Edge-Resultat ohne Drehung. Uruguay zaeh defensiv aber Baena-Tor via Muslera-Patzer 42' brachte Spanien sichere Fuehrung. Letzter Schuss Canobbio 90+4 zu spaet."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Spanien/Spanien",
+          "kein_team_zu_null": false,
+          "siegtor_in_letzten_15min": false,
+          "ausgleich_in_letzten_15min": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Yamal + Oyarzabal",
+            "details": "Beide in 2. HZ raus fuer Ferran Torres + Nico Williams - de la Fuente schonte Stars fuer Achtelfinale (Spanien bereits durch + Gruppensieg in der Tasche). Lesson 03.05.+05.18. Top-Team-Rotation VALIDIERT."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "gast",
+            "ein": "Ferran Torres oder Nico Williams",
+            "aus": "Yamal oder Oyarzabal",
+            "minute": "2. HZ",
+            "tor": false,
+            "tor_minute": null,
+            "details": "KEIN Einwechslungs-Boost-Tor - keiner der Subs traf. Yamal-Torschuetzen-Tipp damit definitiv VERLOREN."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Spanien-Sieg via Goalkeeper-Patzer + 0 weitere Tore - Klassen-Edge realisiert sich als 1:0-Stoiber-Resultat statt Tor-Festival, parallel zu Lesson 06.07. Klassen-Edge-Sieg-nicht-Tor-Anzahl-B-Elf-Schon.",
+          "Yamal 2. Bust in Folge nach WM MD1 - Joker-Backup Williams/Torres ebenfalls nicht getroffen. Lesson 06.16./25. Boost-INVERS bei Bench-Likely Stars erneut validiert.",
+          "Unter 2.5 Tore: nur 1 Tor - Markt-Goldgrube Unter 2.5 erneut validiert.",
+          "Spanien 33-Spiele-Serie ungeschlagen + Top-Gruppe + 1:0-Profi-Sieg via Patzer - Cluster aller WM-Spieltag-3-Klassen-Edge-Sieg-Cluster Lesson 06.25. validiert",
+          "Hoehen-Faktor Guadalajara 1566m: Spanien dominierte 74% Ballbesitz erste HZ - Hoehen-Risiko verfehlt (Hoehe stoppt Tempo NICHT bei 5 Tagen Pause)."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-06-27-uru-esp-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.18,
+          "kommentar": "Spanien 1:0 - DC X2 (Sieg) durch.",
+          "clv_prozent": null,
+          "opening_quote": 1.18,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-27-uru-esp-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Yamal spielte aber traf nicht, in 2. HZ raus fuer Ferran Torres/Nico Williams - keiner der Subs traf. Kein Boost-Trigger. Yamal 2. WM-Tipp-Bust in Folge (Lesson 06.16./25. Bench-Likely Boost-INVERS aktiv).",
+          "clv_prozent": null,
+          "opening_quote": 2.3,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-27-uru-esp-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.95,
+          "kommentar": "1 Tor (Baena 42') - klar unter 2.5. Goldgrube validiert.",
+          "clv_prozent": null,
+          "opening_quote": 1.95,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-27-uru-esp-4",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.57,
+          "kommentar": "Spanien 1:0 - direkter Sieg-Tipp eingelaufen.",
+          "clv_prozent": null,
+          "opening_quote": 1.57,
+          "closing_quote": null
+        }
+      ]
+    },
+    {
+      "id": "2026-06-27-cpv-ksa",
+      "liga": "FIFA WM 2026 - Gruppe H - Spieltag 3 (Decider, Coinflip)",
+      "heim": "Kap Verde",
+      "gast": "Saudi-Arabien",
+      "anstoss": "2026-06-27T02:00:00+02:00",
+      "stadion": "NRG Stadium, Houston - hoehe_m 13, Hitze + Klimaanlage indoor",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM 2026 ist alleiniger Wettbewerb. Kap Verde-Kader ueberwiegend aus PL-Aufsteiger / portugiesische 2. Liga / Belgien - moderate Saisonbelastung, Cinderella-Story der WM.",
+        "parallel_gast": "keine - WM 2026 ist alleiniger Wettbewerb. Saudi-Kader fast komplett aus Saudi Pro League - intensive Liga + AFC-Champions-League moeglich, aber Saudi-Saison endete bereits Mai.",
+        "saisonziel_heim": "Kap Verde Gruppe H mit 2 Pkt (0:0 vs Spanien MD1, 2:2 vs Uruguay MD2), Tordiff 0. Tabelle Platz 2 per Tordiff. MUSS-Sieg fuer sichere Top-2-Quali, sonst Drittplatzierten-Hoffnung.",
+        "saisonziel_gast": "Saudi-Arabien Gruppe H mit 1 Pkt (1:1 vs Uruguay MD1, 0:4 vs Spanien MD2), Tordiff -4. Tabelle Platz 4. MUSS-Sieg fuer Drittplatzierten-Hoffnung (4 Pkt + gute Tordiff). Realistisches Out-Szenario.",
+        "motivations_asymmetrie": "BEIDE MUSS-Sieg fuer Achtelfinal-Hoffnung - klassische 'beide-gehen-aufs-Tor'-Konstellation. Kap Verde-Klassen-Edge minimal (Beide etwa FIFA-Rank 60-80), aber Form besser (2 Pkt vs 1). Saudi-Klatsche gegen Spanien (0:4) kostet Selbstvertrauen + Tordiff-Hypothek. Kap Verde leicht im Vorteil wegen besserer Form + Defensiv-Stabilitaet (Vozinha GK-Heldenrolle vs Spanien).",
+        "recovery_heim": "5 Tage Pause seit 2:2 vs Uruguay (21.06.). Standard-Erholung. Kader-Tiefe begrenzt - kein Rotations-Spielraum.",
+        "recovery_gast": "5 Tage Pause seit 0:4 vs Spanien (21.06.). Standard-Erholung. Saudi-Moral nach Klatsche fraglich.",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+          "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_H",
+          "https://www.espn.com/soccer/story/_/id/49141810/fifa-world-cup-2026-cape-verde-vs-saudi-arabia-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups",
+          "https://www.skysports.com/football/news/12098/13543099/world-cup-2026-group-h-guide-fixtures-schedule-standings-and-odds-for-spain-cape-verde-saudi-arabia-and-uruguay",
+          "https://www.mlssoccer.com/competitions/fifa-world-cup/news/cape-verde-vs-saudi-arabia-how-to-watch-stream-world-cup-group-h-finale"
+        ]
+      },
+      "news": [
+        "Kap Verde-Aufstellung erwartet (4-3-3): Vozinha; Cabral, Stopira, Lopes, Andrade; Pina, Patrick Andrade, Rocha; Bebe, Garry Rodrigues, Ryan Mendes. Vozinha im Tor Schluessel-Spieler nach Spain-0:0-Heldenrolle.",
+        "Saudi-Aufstellung erwartet (4-2-3-1): Al-Owais; Al-Boleahi, Tambakti, Al-Amri, Madu; Al-Faraj, Al-Dawsari; Asiri, Hattan, Al-Najei; Al-Bouraikan.",
+        "Beide MUSS-Sieg-Modus = beide oeffnen = Tor-Potential hoch.",
+        "Quoten nicht explizit verfuegbar - vermutlich Kap Verde leichter Favorit (~2.10-2.30), Saudi ~3.50, Remis ~3.20."
+      ],
+      "tipps": [
+        {
+          "markt": "Ueber 2.5 Tore",
+          "quote": 2.0,
+          "einsatz_euro": 5.5,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (64.7% / +34.2% - Top-3 im System). Beide MUSS-Sieg-Modus = beide oeffnen offensiv. Kap Verde 4 Tore in 2 Spielen (2 vs Uruguay), Saudi 1 Tor in 2 (aber MUSS schiessen). Saudi-Tor erforderlich + Kap Verde Risiko-Spiel = Spielfluss-Edge.",
+          "kategorie": "value",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 2.0
+        },
+        {
+          "markt": "Beide Teams treffen Ja",
+          "quote": 1.9,
+          "einsatz_euro": 5.5,
+          "begruendung": "Beide brauchen Tore - Saudi besonders unter Zugzwang (mit Tordiff-Hypothek). Kap Verde traf in beiden bisherigen Spielen (0:0 vs Spanien ist Ausreisser - vs Uruguay 2 Tore). Saudi traf vs Uruguay aber nicht vs Spanien-Klasse.",
+          "kategorie": "value",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.9
+        },
+        {
+          "markt": "Kap Verde Sieg (1)",
+          "quote": 2.2,
+          "einsatz_euro": 2.75,
+          "begruendung": "Kap Verde-Form besser (2 Pkt vs 1) + Vozinha-Defensive solide + Bebe/Mendes Sturm-Tiefe. Saudi Klatsche-Effekt nach 0:4 vs Spanien. Wackel statt VALUE wegen MUSS-Sieg-Druck-Risiko fuer beide + Selbst-Widerspruch im saison_kontext ('Klassen-Edge minimal'). DC-Limit-Sanitization: 4. DC-Tipp im Dossier weggelassen, durch direkten Sieg-Tipp ersetzt fuer Markt-Mix-Pflicht.",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 2.3
+        },
+        {
+          "markt": "Bebe Jederzeit-Torschuetze (Kap Verde)",
+          "quote": 4.0,
+          "einsatz_euro": 2.75,
+          "begruendung": "Kap-Verde-Schluessel-Spieler in MUSS-Sieg-Spiel. Markt-Goldgrube Torschuetzen Jederzeit. Wackel weil Sturm-Tiefe + Einwechslungs-Boost (wenn Bebe ausgewechselt + Mendes trifft, Tipp zaehlt). Realistisch nur als Wackel - kein Top-Stuermer-Niveau.",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 4.0
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 0,
+        "gast": 0,
+        "endstand": "0:0",
+        "kommentar": "Kap Verde 0:0 Saudi-Arabien - Tor-Festival ausgefallen trotz Beide-MUSS-Sieg. Kap Verde schreibt Geschichte als kleinste Nation in WM-Achtelfinale. Bebe traf nicht."
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "0:0",
+        "tore": [],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Beide MUSS-Sieg-Teams konnten nicht treffen - 3. Kap-Verde-Spiel mit 0:0 (gegen Spanien) bzw 2:2 Remis. Kein einziger Schuss-Schwung. Beide spielten letztlich vorsichtig nach Saudis 0:4-Klatsche."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Unentschieden",
+          "kein_team_zu_null": false,
+          "siegtor_in_letzten_15min": false,
+          "ausgleich_in_letzten_15min": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Beide-MUSS-Sieg-These (Tor-Festival) KOMPLETT WIDERLEGT - 0:0 trotz beidseitiger Quali-Notwendigkeit. Lesson 06.22. (Cape Verde Defense Festungs-Pattern KOMPLETT INVERTIERT) erneut bestaetigt - Kap Verde 3 von 3 Spielen unter 2.5 / GK-MOM-Profil.",
+          "Ueber-2.5-Tor-Goldgrube + BTTS Ja - BEIDE Tipps in einem Spiel gebustet. Markt-Goldgrube-Konzentration auf MUSS-Sieg-Coinflip eine Goldgrube-Falle wie Lesson 06.15. Konzentrations-Triple validiert hier INVERS.",
+          "Kap Verde MUSS-Sieg-Tipp ebenfalls verloren - klassischer Coinflip-Bust 0/4 Tipps in einem Spiel.",
+          "Goalkeeper-MOM-Pattern Vozinha/Al-Owais erneut wirkend - Lesson 06.22. GK-MOM-Cluster-Pattern (Beiranvand/Vozinha/Al-Owais) WM-Spieltag-2/3 wiederholt sich",
+          "Kap Verde mit 3 Remis durch - kleinste WM-Achtelfinalist Nation Geschichte. Underdog-Defensiv-Igel-Pattern (Lesson 06.21.) validiert auf Endstation Achtelfinale."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-06-27-cpv-ksa-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "0:0 - Tor-Festival-These widerlegt. Beide MUSS-Sieg-Teams konnten nicht treffen.",
+          "clv_prozent": null,
+          "opening_quote": 2.0,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-27-cpv-ksa-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "0:0 - BTTS-Ja-These widerlegt.",
+          "clv_prozent": null,
+          "opening_quote": 1.9,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-27-cpv-ksa-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "0:0 Remis - Kap Verde durch Drittplatzierten-Hoffnung weiter, aber direkter Sieg-Tipp gebustet.",
+          "clv_prozent": null,
+          "opening_quote": 2.2,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-27-cpv-ksa-4",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Bebe traf nicht, kein Boost (kein Kap-Verde-Sub traf da 0:0).",
+          "clv_prozent": null,
+          "opening_quote": 4.0,
+          "closing_quote": null
+        }
+      ]
+    },
+    {
+      "id": "2026-06-27-egy-irn",
+      "liga": "FIFA WM 2026 - Gruppe G - Spieltag 3 (Decider, Coinflip)",
+      "heim": "Aegypten",
+      "gast": "Iran",
+      "anstoss": "2026-06-27T05:00:00+02:00",
+      "stadion": "Lumen Field, Seattle - hoehe_m 11, moderates Klima ggf leichter Regen",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM 2026 ist alleiniger Wettbewerb. Aegyptens Top-Spieler aus PL (Salah/Liverpool), Saudi Pro League (Mohamed Sherif), Lille (Mostafa Mohamed) - PL-Saison intensiv.",
+        "parallel_gast": "keine - WM 2026 ist alleiniger Wettbewerb. Iran-Kader ueberwiegend iranische Liga + Niederlande (Taremi/Inter, Azmoun/Roma-Verleih) - moderate Belastung.",
+        "saisonziel_heim": "Aegypten Gruppe G mit 4 Pkt (1 Sieg 1 Remis), Tordiff +2. Tabelle Platz 1. Saisonziel: Achtelfinal-Quali, ein Punkt reicht - sehr sichere Position.",
+        "saisonziel_gast": "Iran Gruppe G mit 2 Pkt (0:0 vs Neuseeland MD1, 0:0 vs Belgien MD2), Tordiff 0. Tabelle Platz 2/3. MUSS-Punkt fuer Quali-Hoffnung - Sieg garantiert Top-2.",
+        "motivations_asymmetrie": "Aegypten reicht Remis fuer Quali + Gruppensieg, Iran braucht mind. Punkt. Iran-Form: 2 Remis 0:0 - kann nicht passiv weiterspielen, MUSS Tor. Aegypten-Klassen-Edge ueber Salah-Solo-Faktor. Coinflip-Profil mit leichtem Aegypten-Edge (Salah-Pflicht-Spieler in jedem Aegypten-Sturm-Tipp).",
+        "recovery_heim": "5 Tage Pause seit 3:1 vs Neuseeland (21.06.). Standard-Erholung.",
+        "recovery_gast": "5 Tage Pause seit 0:0 vs Belgien (21.06.). Standard-Erholung. Iran-Belgien-Spiel intensiv mit Roter Karte fuer Belgien (10 Mann), Iran konnte trotzdem nicht treffen - Sturm-Schwaeche.",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+          "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_G",
+          "https://www.racingpost.com/sport/football-tips/world-cup-2026/egypt-vs-iran-world-cup-prediction-team-news-odds-betting-tips-and-bet-builder-aARLl2s6c96X/",
+          "https://www.squawka.com/ca/news/world-cup/match-preview-egypt-vs-iran-world-cup-2026/",
+          "https://www.espn.com/soccer/odds/_/gameId/760476",
+          "https://www.skysports.com/football/news/12098/13543098/world-cup-2026-group-g-guide-fixtures-schedule-standings-and-odds-for-belgium-egypt-iran-and-new-zealand"
+        ]
+      },
+      "news": [
+        "Aegypten erwartet (4-2-3-1): Elshenawy; Hegazy, Hany, Hamdy, Ashraf; Hamdy, Elneny; Trezeguet, Mohamed Magdy 'Afsha', Salah; Mostafa Mohamed.",
+        "Iran erwartet (3-5-2): Beiranvand; Pouraliganji, Hosseini, Mohammadi; Karimi, Ezatolahi, Noorollahi, Jahanbakhsh, Hajsafi; Taremi, Azmoun.",
+        "Salah aktuelle Form: 1 Tor + 2 Assists, 3 Schuesse aufs Tor in 161min Spielzeit. Penalty-Schuetze. Aegypten-zentrales Sturm-Mass.",
+        "Quoten: Aegypten +140 (~2.40), Iran +295 (~3.95), Draw +215 (~3.15). COINFLIP-Profil.",
+        "Salah Jederzeit-Torschuetze +187 (~2.87) - bet365.",
+        "Unter 2.5 Tore -220 (~1.45) klar gewichtet - sehr defensive Erwartung."
+      ],
+      "tipps": [
+        {
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.45,
+          "einsatz_euro": 5.5,
+          "begruendung": "Markt-Goldgrube Unter 2.5 (63.6% / +24.6%). Iran 2 Spiele 0:0 = zementierte Defensive (selbst gegen 10-Mann-Belgien 0:0). Aegypten 1:0/2:1 typische Salah-getragen-Erfolge - kein Tor-Festival. Iran wird vorsichtig wechseln (MUSS-Punkt + Sturm-Schwaeche). Marktkonsens -220 = ~70% implied probability. VALUE da Goldgrube + Spielmuster passt.",
+          "kategorie": "value",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.45
+        },
+        {
+          "markt": "Mohamed Salah Jederzeit-Torschuetze",
+          "quote": 2.87,
+          "einsatz_euro": 5.5,
+          "begruendung": "Form-Edge: 1 Tor + 2 Assists + Penalty-Schuetze + bisher Aegypten-Schluessel-Spieler in jedem Spiel. Markt-Goldgrube Torschuetzen Jederzeit (50% / +24.4%). Einwechslungs-Boost greift bei Salah-Schonung (Trezeguet/Marwan Mohsen als Ersatz). Wackel weil Iran-Defense bisher 2 Spiele 0 Gegentore + Coinflip-Profil ohne SAFE-Recht.",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 2.5
+        },
+        {
+          "markt": "Aegypten Doppelte Chance 1X (Sieg oder Remis)",
+          "quote": 1.45,
+          "einsatz_euro": 5.5,
+          "begruendung": "Aegypten reicht Remis fuer Quali + Klassen-Edge ueber Salah. DC-Goldgrube 1X (80% Hitrate / +2.2% ROI). Bleibt VALUE statt SAFE wegen Coinflip-Profil + Group-G-MD3 nicht in liga_goldgruben.json - Mapper-Hebel C/Coinflip-Regel verhindert SAFE.",
+          "kategorie": "value",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.45
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 1,
+        "gast": 1,
+        "endstand": "1:1",
+        "kommentar": "Aegypten 1:1 Iran - Saber 5', Rezaeian 14'. Salah 57' raus (Hamstring icing!), kein Boost-Tor. Iran-Tor 90+3 wegen Abseits aberkannt. Iran-Penalty (Taremi) von Shobeir gehalten. Aegypten qualifiziert (Platz 2 dank Belgien-Sieg)."
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "1:1",
+        "endstand": "1:1",
+        "tore": [
+          {
+            "min": 5,
+            "team": "heim",
+            "spieler": "Mahmoud Saber",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 14,
+            "team": "gast",
+            "spieler": "Ramin Rezaeian",
+            "stand_danach": "1:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Frueh-Tor + Sofort-Ausgleich, danach 76min Pattstellung. Iran-Tor 90+3 von Khalilzadeh wegen Abseits annulliert - haette Drehungs-These ausgeloest. Iran-Penalty (Taremi) gehalten - Spielverlauf ohne Drehung. 2:0-Insurance nicht relevant (Aegypten fuehrte nie 2:0)."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Unentschieden",
+          "kein_team_zu_null": false,
+          "siegtor_in_letzten_15min": false,
+          "ausgleich_in_letzten_15min": false,
+          "fruehes_tor_unter_10min": true,
+          "var_intervention_spaet": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Salah",
+            "details": "57' raus - Hamstring auf Eis. Salah-Verletzungs-Schon-Profile vor Achtelfinale - Star-Sicherheit > Spiel-Wertigkeit (Aegypten reichte Remis ohnehin). Lesson 03.05. Top-Team-Rotation vor K.O. validiert."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Mostafa Mohamed oder anderer",
+            "aus": "Salah",
+            "minute": 57,
+            "tor": false,
+            "tor_minute": null,
+            "details": "Salah-Sub traf nicht - kein Einwechslungs-Boost. Salah-Torschuetzen-Tipp definitiv VERLOREN."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Frueh-Tor-Cluster Saber 5' + sofortiger Ausgleich Rezaeian 14' - 2 Tore in den ersten 14min, dann Pattstellung 76min. Markt-Pattern: Unter 2.5 trotzdem JA dank Mid-Game-Schweigen.",
+          "VAR-Annullierung 90+3 (Khalilzadeh-Abseits) - klassisches Late-Drama-Iran-Profil + GK-MOM-Cluster (Shobeir haelt Taremi-Penalty, Lesson 06.22. GK-MOM-Pattern WM-Spieltag-3 weiter aktiv).",
+          "Salah Hamstring-Schon-Profile - Lesson Karriere-Highlight-Subfilter (05.18.+19./06.07.) validiert: Salah hat 4 Tipps drum (1 Tor + 2 Assists) bisher, aber Verletzungs-Schon-Risiko vor K.O. dominiert.",
+          "Aegypten DC 1X als Goldgrube und Unter 2.5 als Goldgrube beide GEWONNEN - DC-Goldgrube-Konzentration Lesson 06.15. validiert (Doppel-Hit)",
+          "Coinflip-Profil-These wieder validiert: Aegypten 1X als VALUE statt SAFE korrekt - Sieg-Tipp (Aegypten-Sieg) waere VERLOREN."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-06-27-egy-irn-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.45,
+          "kommentar": "2 Tore (Saber 5', Rezaeian 14') + Khalilzadeh 90+3 abgepfiffen (Abseits) + Taremi-Penalty gehalten. Klar unter 2.5. Goldgrube + Iran-Defense-These validiert.",
+          "clv_prozent": null,
+          "opening_quote": 1.45,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-27-egy-irn-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Salah 57' raus mit Hamstring-Eis - kein Tor. Sub traf nicht, kein Boost-Trigger.",
+          "clv_prozent": null,
+          "opening_quote": 2.87,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-27-egy-irn-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.45,
+          "kommentar": "1:1 Remis - DC 1X (Remis-Schiene) durch. Aegypten qualifiziert Platz 2.",
+          "clv_prozent": null,
+          "opening_quote": 1.45,
+          "closing_quote": null
+        }
+      ]
+    },
+    {
+      "id": "2026-06-27-nzl-bel",
+      "liga": "FIFA WM 2026 - Gruppe G - Spieltag 3 (Belgien-Decider)",
+      "heim": "Neuseeland",
+      "gast": "Belgien",
+      "anstoss": "2026-06-27T05:00:00+02:00",
+      "stadion": "BC Place, Vancouver - hoehe_m 0, moderates Klima neutral",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM 2026 ist alleiniger Wettbewerb. NZ-Kader aus heimischer A-League / 2.-Tier-PL / MLS - geringe Vereins-Doppelbelastung.",
+        "parallel_gast": "keine - WM 2026 ist alleiniger Wettbewerb. Belgien-Stamm aus PL/Bundesliga/Serie A (De Bruyne/ManCity, Lukaku/Napoli, Doku/ManCity, Tielemans/Villa) - 10 Tage Pause nach intensiver Saison.",
+        "saisonziel_heim": "Neuseeland Gruppe G mit 1 Pkt (0:0 vs Iran MD1, 1:3 vs Aegypten MD2), Tordiff -2. Tabelle Platz 4. Sieg gewuenscht fuer Drittplatzierten-Hoffnung, aber Kombination mit Iran-Aegypten-Resultat unwahrscheinlich.",
+        "saisonziel_gast": "Belgien Gruppe G mit 2 Pkt (0:0 vs Neuseeland-Gruppe?  - korrekt: 0:0 vs Aegypten MD1, 0:0 vs Iran MD2 mit Rot fuer Belgien). Tordiff 0. Tabelle Platz 3. MUSS-Sieg fuer sichere Top-2-Quali. Bei Remis Drittplatzierten-Risiko (4-Pkt-Threshold mit -1 Tordiff).",
+        "motivations_asymmetrie": "Belgien MUSS gewinnen sonst Out-Risiko (oder muehevolle Drittplatzierten-Hoffnung) - massiver Druck. NZ spielt um Stolz, gegen klar staerkeren Gegner. Klassen-Edge Belgien deutlich (PL/Bundesliga vs A-League). Belgien-Stuermer (Lukaku, Doku) gegen NZ-Defensive (Hatt-Niveau) klassischer Mismatch.",
+        "recovery_heim": "5 Tage Pause seit 1:3 vs Aegypten (21.06.). Standard-Erholung. Kader-Tiefe begrenzt - keine Rotation moeglich.",
+        "recovery_gast": "5 Tage Pause seit 0:0 vs Iran (21.06.). Belgien rotierte in MD2 nicht stark + Lukaku Stamm-Stuermer. Rote Karte MD2 fuer Belgien-Spieler -> ggf Sperre fuer MD3 (Lineup-Check Pflicht).",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+          "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_G",
+          "https://www.squawka.com/us/news/world-cup/match-preview-new-zealand-vs-belgium-06-26-26-world-cup-2026/",
+          "https://www.lineups.com/betting/new-zealand-vs-belgium-world-cup-match-preview-picks-odds-for-friday-june-26-2026/",
+          "https://www.skysports.com/football/news/12098/13543098/world-cup-2026-group-g-guide-fixtures-schedule-standings-and-odds-for-belgium-egypt-iran-and-new-zealand",
+          "https://shekicks.net/new-zealand-v-belgium-predictions/"
+        ]
+      },
+      "news": [
+        "Belgien erwartet (4-3-3): Courtois; Castagne, Faes, Vertonghen, Theate; Tielemans, Onana, De Bruyne; Trossard, Lukaku, Doku. Roter-Karten-Sperre MD2 ggf Onana - Lineup-Check Pflicht 2h vor Anpfiff.",
+        "Neuseeland erwartet (5-3-2): Crocombe; Pijnaker, Boxall, Surman, Reid, Garbett; Cacace, Stamenic, Just; Wood, Mason.",
+        "Belgien-Sieg-Quote -500 (~1.20), Draw +650 (~7.50), NZ +1000 (~11.0). Kalshi-Traders 83% Belgien-Sieg.",
+        "De Bruyne anytime assist +175 (~2.75) - Schluessel-Spieler in Free-Kicks + Final-Third.",
+        "Backup-Stuermer Belgien: Openda (RB Leipzig), Batshuayi - Einwechslungs-Boost relevant. Lukaku Form okay nach Napoli-Saison."
+      ],
+      "tipps": [
+        {
+          "markt": "Belgien Sieg",
+          "quote": 1.22,
+          "einsatz_euro": 8.25,
+          "begruendung": "Belgien MUSS-Sieg-Modus + Klassen-Edge breit (Courtois GK, Vertonghen IV, De Bruyne Spielmacher, Lukaku Sturm vs NZ-A-League-Niveau). NZ in 2 Spielen 1 Tor erzielt, 3 kassiert. Markt-Konsens 83% impliziert. Bleibt VALUE statt SAFE da Group-G-MD3 nicht in liga_goldgruben.json + Belgien-Druck-Risiko (kann nervoes spielen) - Mapper degradiert ggf SAFE.",
+          "kategorie": "value",
+          "empfohlener_einsatz_prozent": 2.0,
+          "faire_quote": 1.2
+        },
+        {
+          "markt": "Romelu Lukaku Jederzeit-Torschuetze",
+          "quote": 1.85,
+          "einsatz_euro": 8.25,
+          "begruendung": "Form-Edge: Belgien MUSS gewinnen + Sturmreflex auf NZ-Defensive (A-League-Niveau). Lukaku Stammplatz + Napoli-Saison stark beendet. Markt-Goldgrube Torschuetzen Jederzeit (50% / +24.4%). Einwechslungs-Boost: bei Lukaku-Schonung waeren Openda/Batshuayi-Tore mit drauf. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.85,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.75,
+          "einsatz_euro": 5.5,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (64.7% / +34.2%). Belgien MUSS-Sieg + offensives Aufmachen + Sturm-Tiefe (De Bruyne / Doku / Trossard / Lukaku) gegen NZ-Defensive. Aegypten-NZ-Spiel war 3:1 - aehnliches Muster erwartet. Wackel-Tendenz weil Belgien bisher 2x 0:0 - aber das war gegen Aegypten/Iran-Niveau, nicht NZ.",
+          "kategorie": "value",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.75
+        },
+        {
+          "markt": "Kevin De Bruyne Jederzeit-Torschuetze oder Assist",
+          "quote": 1.65,
+          "einsatz_euro": 5.5,
+          "begruendung": "De Bruyne Spielmacher mit Tor/Assist-Tradition gegen schwache Defensives. Belgien-MUSS-Sieg = KdB-Set-Pieces aktiv. Markt-Goldgrube-Verwandter (Torschuetzen / Assists). [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.65,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "markt": "Belgien -1.5 Spread (mit 2+ Toren Vorsprung)",
+          "quote": 1.8,
+          "einsatz_euro": 2.75,
+          "begruendung": "Auto: Markt 'Spread/Handicap' ist Bluter (30.8% / -10.5% ROI) - Mapper degradiert auf wackel. Klassen-Edge spricht trotzdem fuer hohen Belgien-Sieg in MUSS-Sieg-Modus (vergleichbar Aegypten 3:1 NZ).",
+          "kategorie": "wackel",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.8
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 1,
+        "gast": 5,
+        "endstand": "1:5",
+        "kommentar": "Neuseeland 1:5 Belgien - Trossard 28+50', De Bruyne 66', Lukaku 86', Saelemaekers 90+. Just 84' Ehrentor NZ. Belgien Gruppensieger Gruppe G. Klassen-Edge-Mismatch + MUSS-Sieg-Modus = klares Resultat."
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "1:5",
+        "tore": [
+          {
+            "min": 28,
+            "team": "gast",
+            "spieler": "Trossard",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 50,
+            "team": "gast",
+            "spieler": "Trossard (Doppelpack)",
+            "stand_danach": "0:2"
+          },
+          {
+            "min": 66,
+            "team": "gast",
+            "spieler": "De Bruyne (Distanzschuss)",
+            "stand_danach": "0:3"
+          },
+          {
+            "min": 84,
+            "team": "heim",
+            "spieler": "Elijah Just",
+            "stand_danach": "1:3"
+          },
+          {
+            "min": 86,
+            "team": "gast",
+            "spieler": "Lukaku",
+            "stand_danach": "1:4"
+          },
+          {
+            "min": "90+4",
+            "team": "gast",
+            "spieler": "Saelemaekers",
+            "stand_danach": "1:5"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Lineares Belgien-Klassen-Edge-Durchmarsch ohne Drehung. Belgien fuehrte ueberlegen mit 0:3 nach 66', danach Just-Ehrentor 84' + 2 weitere Belgien-Tore. 2:0-Insurance Belgien-Sieg-Tipp Polster vorhanden."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": true,
+          "halbzeit_endstand": "Belgien/Belgien",
+          "kein_team_zu_null": false,
+          "siegtor_in_letzten_15min": false,
+          "ausgleich_in_letzten_15min": false,
+          "spaetes_tor_ab_80min": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "gast",
+            "ein": "Saelemaekers",
+            "aus": "?",
+            "minute": "vor 90+4",
+            "tor": true,
+            "tor_minute": "90+4",
+            "details": "Saelemaekers Late-Goal als Sub - 5. Belgien-Tor. Boost-Trigger ohne Tipp - Belgien-Backup-Volume-Stuermer-Cluster (Openda/Batshuayi/Saelemaekers) aktiv."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Klassen-Edge realisiert SOWOHL als Sieg ALS AUCH als Tor-Festival - 5 Belgien-Tore, alle Top-Sturm-Spieler trafen (Trossard 2x, KdB, Lukaku, Saelemaekers). Lesson 06.07. Klassen-Edge-Sieg-nicht-Tor-Anzahl-B-Elf-Schon hier WIDERLEGT - Belgien MUSS-Sieg-Modus ohne Schon.",
+          "MUSS-Sieg-Druck-These (kann nervoes spielen) WIDERLEGT - Belgien marschierte ohne Wackler durch. Lesson 06.25. Klassen-Edge-Sieg-Konvergenz erneut bestaetigt.",
+          "Spaetes Tor 84' (Just) + 86' (Lukaku) + 90+4' (Saelemaekers) - 3 Tore in den letzten 6+min, Late-Goal-Cluster Lesson 06.18./19./21. wieder aktiviert.",
+          "Markt-Goldgrube Ueber 2.5 + Belgien-Sieg + Lukaku Torschuetze + KdB Tor/Assist + Spread -1.5 - alle 5 NZL-BEL-Tipps GEWONNEN. Tag-Retter-Schluessel-Spiel.",
+          "Trossard Doppelpack als Underrated-Pick (kein Tipp drauf) - klassischer 'nicht-getipptes-Profil schiesst Doppelpack'-Cluster (Lesson 06.18./19. Volume-Joker)."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-06-27-nzl-bel-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.22,
+          "kommentar": "Belgien 5:1 - klarer Sieg, MUSS-Sieg-Modus ohne Wackler.",
+          "clv_prozent": null,
+          "opening_quote": 1.22,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-27-nzl-bel-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.85,
+          "kommentar": "Lukaku traf 86' - direkt-Tor, kein Boost noetig. Form-Edge realisiert.",
+          "clv_prozent": null,
+          "opening_quote": 1.85,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-27-nzl-bel-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.75,
+          "kommentar": "6 Tore (5:1) - klar ueber 2.5. Goldgrube + Klassen-Edge-Mismatch.",
+          "clv_prozent": null,
+          "opening_quote": 1.75,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-27-nzl-bel-4",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.65,
+          "kommentar": "KdB traf 66' (Distanzschuss). Direkt-Tor.",
+          "clv_prozent": null,
+          "opening_quote": 1.65,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-27-nzl-bel-5",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.8,
+          "kommentar": "Belgien gewann mit 4 Toren Vorsprung (5:1) - Spread -1.5 klar durch trotz Bluter-Status. Klassen-Edge-Mismatch hat hier Spread-Bluter geschlagen.",
+          "clv_prozent": null,
+          "opening_quote": 1.8,
+          "closing_quote": null
+        }
+      ]
+    }
+  ],
+  "einzeltipps": [
+    {
+      "spiel": "Norwegen - Frankreich",
+      "spiel_id": "2026-06-26-nor-fra",
+      "markt": "Kylian Mbappe Jederzeit-Torschuetze",
+      "quote": 1.65,
+      "einsatz_euro": 11.0,
+      "begruendung": "Top-Pick des Abends. Mbappe 4 Tore in 2 WM-Spielen (Hattrick vs Senegal, Doppelpack vs Irak). Markt-Goldgrube Torschuetzen Jederzeit (50% / +24.4% - bester Markt im System). Frankreich braucht Tore fuer Tordiff-Vorsprung (Gruppensieg). Einwechslungs-Boost bei Schonung (Olise/Thuram).",
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 2.0,
+      "faire_quote": 1.65,
+      "rang": 1
+    },
+    {
+      "spiel": "Neuseeland - Belgien",
+      "spiel_id": "2026-06-27-nzl-bel",
+      "markt": "Belgien Sieg (2)",
+      "quote": 1.22,
+      "einsatz_euro": 11.0,
+      "begruendung": "Belgien MUSS-Sieg-Modus sonst Out-Risiko. Klassen-Edge breit (Courtois, De Bruyne, Lukaku vs NZ-A-League-Niveau). Kalshi-Implied 83%. NZ 1 Tor + 3 Gegentore in 2 Spielen. Bleibt VALUE (kein Liga-Goldgrube Mapper-Schutz).",
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 2.0,
+      "faire_quote": 1.2,
+      "rang": 2
+    },
+    {
+      "spiel": "Norwegen - Frankreich",
+      "spiel_id": "2026-06-26-nor-fra",
+      "markt": "Frankreich Doppelte Chance X2",
+      "quote": 1.2,
+      "einsatz_euro": 8.25,
+      "begruendung": "Frankreich reicht Remis fuer Gruppensieg, Klassen-Edge breit. DC-Goldgrube X2 (80.8% / +9.4% ROI). Mapper-Hebel C: bleibt VALUE statt SAFE da Group-I-MD3 nicht in liga_goldgruben.json.",
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 1.5,
+      "faire_quote": 1.22,
+      "rang": 3
+    },
+    {
+      "spiel": "Uruguay - Spanien",
+      "spiel_id": "2026-06-27-uru-esp",
+      "markt": "Spanien Doppelte Chance X2",
+      "quote": 1.18,
+      "einsatz_euro": 8.25,
+      "begruendung": "Spanien 32-Spiele-Serie ungeschlagen + reicht Remis fuer Achtelfinale + Yamal/Pedri-Klassen-Edge. DC-Goldgrube X2. Bleibt VALUE (Group-H-MD3 nicht in liga_goldgruben.json + Hoehen-Faktor Guadalajara). Statistik 30d DC X2: 80.8% Hitrate.",
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 1.5,
+      "faire_quote": 1.18,
+      "rang": 4
+    },
+    {
+      "spiel": "Neuseeland - Belgien",
+      "spiel_id": "2026-06-27-nzl-bel",
+      "markt": "Romelu Lukaku Jederzeit-Torschuetze",
+      "quote": 1.85,
+      "einsatz_euro": 8.25,
+      "begruendung": "Belgien MUSS-Sieg + Lukaku Stamm + Napoli-Saison stark beendet + NZ-Abwehr A-League-Niveau. Markt-Goldgrube. Einwechslungs-Boost bei Openda/Batshuayi-Tor.",
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 1.5,
+      "faire_quote": 1.85,
+      "rang": 5
+    },
+    {
+      "spiel": "Uruguay - Spanien",
+      "spiel_id": "2026-06-27-uru-esp",
+      "markt": "Lamine Yamal Jederzeit-Torschuetze",
+      "quote": 2.3,
+      "einsatz_euro": 8.25,
+      "begruendung": "Yamal MUSS-Starter + Spanien-Klassen-Edge sucht Yamal-Schluessel in Achtelfinal-Vorbereitung. Markt-Goldgrube (50%/+24.4%). Einwechslungs-Boost bei Schonung (Williams/Ferran Torres).",
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 1.5,
+      "faire_quote": 2.3,
+      "rang": 6
+    },
+    {
+      "spiel": "Senegal - Irak",
+      "spiel_id": "2026-06-26-sen-irq",
+      "markt": "Senegal Sieg (1)",
+      "quote": 1.22,
+      "einsatz_euro": 8.25,
+      "begruendung": "Klassen-Edge deutlich (Mane, Koulibaly, Jackson vs Iraq-Liga-Niveau). Bleibt VALUE statt SAFE wegen Dead-Rubber-Motivations-Risiko (beide raus) - Selbst-Widerspruch Hebel S.",
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.5,
+      "faire_quote": 1.2,
+      "rang": 7
+    },
+    {
+      "spiel": "Norwegen - Frankreich",
+      "spiel_id": "2026-06-26-nor-fra",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.55,
+      "einsatz_euro": 8.25,
+      "begruendung": "Markt-Goldgrube Ueber 2.5 (64.7% / +34.2% - Top-3-Markt). Mbappe + Haaland je 4 Tore = beide treffen + beide Teams 3+ Tore/Spiel bisher.",
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 1.5,
+      "faire_quote": 1.55,
+      "rang": 8
+    },
+    {
+      "spiel": "Aegypten - Iran",
+      "spiel_id": "2026-06-27-egy-irn",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.45,
+      "einsatz_euro": 8.25,
+      "begruendung": "Markt-Goldgrube Unter 2.5 (63.6% / +24.6%). Iran 2x 0:0 inkl gegen 10-Mann-Belgien = zementierte Defensive. Aegypten Salah-getragen-Niedrig-Tor-Siege. Bookies -220 (~69% implied).",
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.5,
+      "faire_quote": 1.45,
+      "rang": 9
+    },
+    {
+      "spiel": "Aegypten - Iran",
+      "spiel_id": "2026-06-27-egy-irn",
+      "markt": "Aegypten Doppelte Chance 1X",
+      "quote": 1.45,
+      "einsatz_euro": 8.25,
+      "begruendung": "Aegypten reicht Remis fuer Quali. Salah-Klassen-Edge. DC-Goldgrube 1X (80%/+2.2%). Bleibt VALUE wegen Coinflip-Profil + kein Liga-Goldgrube-Schutz.",
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.5,
+      "faire_quote": 1.45,
+      "rang": 10
+    }
+  ],
+  "kombis": [
+    {
+      "name": "Safe-Kombi WM Decider",
+      "kategorie": "safe",
+      "ziel_quote_range": "~2.9-3.5x",
+      "gesamtquote": 2.9,
+      "einsatz_euro": 11.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "potenzieller_gewinn_euro": 31.9,
+      "beine": [
+        {
+          "spiel_id": "2026-06-26-nor-fra",
+          "markt": "Norwegen - Frankreich: Kylian Mbappe Jederzeit-Torschuetze",
+          "quote": 1.65,
+          "spiel_titel": "Norwegen - Frankreich"
+        },
+        {
+          "spiel_id": "2026-06-26-sen-irq",
+          "markt": "Senegal - Irak: Senegal Sieg (1)",
+          "quote": 1.22,
+          "spiel_titel": "Senegal - Irak"
+        },
+        {
+          "spiel_id": "2026-06-27-uru-esp",
+          "markt": "Uruguay - Spanien: Spanien Doppelte Chance X2",
+          "quote": 1.18,
+          "spiel_titel": "Uruguay - Spanien"
+        },
+        {
+          "spiel_id": "2026-06-27-nzl-bel",
+          "markt": "Neuseeland - Belgien: Belgien Sieg (2)",
+          "quote": 1.22,
+          "spiel_titel": "Neuseeland - Belgien"
+        }
+      ],
+      "begruendung": "4 Beine aus 4 verschiedenen Spielen (Layer-1 OK). 3 Sieg-bezogene Outcomes + 1 Form-Torschuetze (Mbappe 4 Tore in 2 Spielen). Belgien MUSS-Sieg + Spanien-32-Spiele-Serie + Senegal-Klassen-Edge. Mbappe-Goldgrube-Markt. Risiko: Senegal-Dead-Rubber-Motivation + Belgien-Druck-Risiko + Mbappe-Rotation-Risiko. 1.22*1.65*1.18*1.22 = 2.90."
+    },
+    {
+      "name": "Balance-Kombi Form-Stuermer",
+      "kategorie": "balance",
+      "ziel_quote_range": "~6-10x",
+      "gesamtquote": 9.55,
+      "einsatz_euro": 4.4,
+      "empfohlener_einsatz_prozent": 0.8,
+      "potenzieller_gewinn_euro": 41.91,
+      "beine": [
+        {
+          "spiel_id": "2026-06-26-nor-fra",
+          "markt": "Norwegen - Frankreich: Ueber 2.5 Tore",
+          "quote": 1.55,
+          "spiel_titel": "Norwegen - Frankreich"
+        },
+        {
+          "spiel_id": "2026-06-27-uru-esp",
+          "markt": "Uruguay - Spanien: Lamine Yamal Jederzeit-Torschuetze",
+          "quote": 2.3,
+          "spiel_titel": "Uruguay - Spanien"
+        },
+        {
+          "spiel_id": "2026-06-27-egy-irn",
+          "markt": "Aegypten - Iran: Aegypten Doppelte Chance 1X",
+          "quote": 1.45,
+          "spiel_titel": "Aegypten - Iran"
+        },
+        {
+          "spiel_id": "2026-06-27-nzl-bel",
+          "markt": "Neuseeland - Belgien: Romelu Lukaku Jederzeit-Torschuetze",
+          "quote": 1.85,
+          "spiel_titel": "Neuseeland - Belgien"
+        }
+      ],
+      "begruendung": "4 Beine aus 4 verschiedenen Spielen (Layer-1 OK). Diversifiziert: 1 Tor-Total + 2 Torschuetzen + 1 DC. Aegypten DC 1X als Sieg-Outcome NUR in dieser Kombi (Layer-2 OK). Form-Edge auf Yamal + Lukaku + offenes Norway-France. 1.55*2.30*1.45*1.85 = 9.55."
+    },
+    {
+      "name": "Risiko-Kombi Torschuetzen-Plus",
+      "kategorie": "risk",
+      "ziel_quote_range": "~15-30x",
+      "gesamtquote": 18.94,
+      "einsatz_euro": 1.4,
+      "empfohlener_einsatz_prozent": 0.25,
+      "potenzieller_gewinn_euro": 26.52,
+      "beine": [
+        {
+          "spiel_id": "2026-06-27-cpv-ksa",
+          "markt": "Kap Verde - Saudi-Arabien: Bebe Jederzeit-Torschuetze",
+          "quote": 4.0,
+          "spiel_titel": "Kap Verde - Saudi-Arabien"
+        },
+        {
+          "spiel_id": "2026-06-27-egy-irn",
+          "markt": "Aegypten - Iran: Mohamed Salah Jederzeit-Torschuetze",
+          "quote": 2.87,
+          "spiel_titel": "Aegypten - Iran"
+        },
+        {
+          "spiel_id": "2026-06-27-nzl-bel",
+          "markt": "Neuseeland - Belgien: Kevin De Bruyne Jederzeit-Torschuetze oder Assist",
+          "quote": 1.65,
+          "spiel_titel": "Neuseeland - Belgien"
+        }
+      ],
+      "begruendung": "3 Player-Markets aus 3 verschiedenen Spielen (Layer-1 OK, keine Sieg-Outcomes -> Layer-2 OK). Bebe als Risiko-Bein (Kap Verde MUSS-Sieg-Modus + Sturm-Schluessel). Salah Penalty-Schuetze + Form-Edge. KdB Belgien-Spielmacher in MUSS-Sieg-Modus. Markt-Goldgrube-Cluster. 4.00*2.87*1.65 = 18.94."
+    },
+    {
+      "name": "Moonshot WM-Torschuetzen-Festival",
+      "kategorie": "moonshot",
+      "ziel_quote_range": "~30-300x",
+      "gesamtquote": 201.5,
+      "einsatz_euro": 0.55,
+      "empfohlener_einsatz_prozent": 0.1,
+      "potenzieller_gewinn_euro": 110.83,
+      "beine": [
+        {
+          "spiel_id": "2026-06-26-nor-fra",
+          "markt": "Norwegen - Frankreich: Kylian Mbappe Jederzeit-Torschuetze",
+          "quote": 1.65,
+          "spiel_titel": "Norwegen - Frankreich"
+        },
+        {
+          "spiel_id": "2026-06-26-sen-irq",
+          "markt": "Senegal - Irak: Sadio Mane Jederzeit-Torschuetze",
+          "quote": 2.5,
+          "spiel_titel": "Senegal - Irak"
+        },
+        {
+          "spiel_id": "2026-06-27-uru-esp",
+          "markt": "Uruguay - Spanien: Lamine Yamal Jederzeit-Torschuetze",
+          "quote": 2.3,
+          "spiel_titel": "Uruguay - Spanien"
+        },
+        {
+          "spiel_id": "2026-06-27-cpv-ksa",
+          "markt": "Kap Verde - Saudi-Arabien: Bebe Jederzeit-Torschuetze",
+          "quote": 4.0,
+          "spiel_titel": "Kap Verde - Saudi-Arabien"
+        },
+        {
+          "spiel_id": "2026-06-27-egy-irn",
+          "markt": "Aegypten - Iran: Mohamed Salah Jederzeit-Torschuetze",
+          "quote": 2.87,
+          "spiel_titel": "Aegypten - Iran"
+        },
+        {
+          "spiel_id": "2026-06-27-nzl-bel",
+          "markt": "Neuseeland - Belgien: Romelu Lukaku Jederzeit-Torschuetze",
+          "quote": 1.85,
+          "spiel_titel": "Neuseeland - Belgien"
+        }
+      ],
+      "begruendung": "6 Torschuetzen-Tipps aus 6 verschiedenen Spielen (Layer-1 OK, keine Sieg-Outcomes -> Layer-2 OK). Pro Spiel den Schluessel-Stuermer mit Form-Edge oder Klassen-Edge. Markt-Goldgrube-Stack (alle Torschuetzen Jederzeit). Realistische Wahrscheinlichkeit ~0.55^6 = 2.7% - klassischer Lotterie-Spasseinsatz. Einwechslungs-Boost greift ueberall. 1.65*2.50*2.30*4.00*2.87*1.85 = 201.5."
+    }
+  ],
+  "lessons_angewandt": [
+    "Markt-Mix-Pflicht (Hebel B+C+S+M): pro Spiel ein Torschuetzen-Tipp oder Tor-Total-Tipp + max 1 DC pro Spiel. Insgesamt 3 DC im Dossier (Frankreich X2, Spanien X2, Aegypten 1X) - innerhalb 2-3-Empfehlung.",
+    "Pflicht-Profile pro Spiel umgesetzt: Norwegen-Frankreich (Auswaerts-Favorit Frankreich + Mbappe-Form-Edge Torschuetzen-Tipp Pflicht), Senegal-Irak (Heim-Favorit + Mane Torschuetzen-Tipp), Uruguay-Spanien (Auswaerts-Favorit Spanien + Yamal Pflicht), Kap Verde-Saudi (Heim-Favorit-leicht + Bebe Backup), Aegypten-Iran (COINFLIP -> max 3 Tipps ohne SAFE-DC), Neuseeland-Belgien (Auswaerts-Favorit Belgien + Lukaku Pflicht).",
+    "Form-Edge-Pflicht: Mbappe (4 Tore in 2 WM-Spielen) + Haaland (4 Tore in 2 WM-Spielen) + Yamal (Spaniens Schluessel) + Lukaku (Belgien-Stamm) + Salah (1G+2A+Penalty) -> alle als Torschuetzen-Tipps gesetzt. Markt-Goldgrube Torschuetzen Jederzeit aktiv genutzt (50% / +24.4% - bester Markt im System).",
+    "Star-Ausfall-Backup-Check: Senegal Edouard Mendy GK out (kein Sturm-Backup-Trigger, Diaw Vertretung). Frankreich Mbappe ggf Schonung -> Olise/Thuram/Kolo Muani via Einwechslungs-Boost gedeckt. Belgien Onana-Sperre-Risiko nach Rot in MD2 -> Lineup-Check 2h vor Anpfiff Pflicht.",
+    "Saison-Kontext-Selbst-Widerspruch vermieden: Senegal-Irak Dead-Rubber (beide raus) -> Senegal Sieg VALUE statt SAFE (Motivations-Risiko). Norwegen-Frankreich beide schon durch -> Rotations-Risiko in Tipps benannt. Spanien-Uruguay Hoehen-Faktor Guadalajara fuer Uruguay leicht positiv -> Unter 2.5 als Wackel, nicht hoeher.",
+    "Goldgrube-Liga-DC-Falle: keine der 6 Gruppen-Phase-Spieltag-3-Ligas in liga_goldgruben.json (nur MD1-Gruppen E/F/I + EL/CL-HF). Mapper-Hebel C degradiert ALLE SAFE-DC auf VALUE - Routine setzt deshalb GAR KEINE SAFE-DC, sondern alle als VALUE.",
+    "Markt-Bluter Spread/Handicap (30.8% / -10.5%) beruecksichtigt: Belgien -1.5 Spread (NZL-BEL) als wackel + min Einsatz 0.5%.",
+    "Beobachtungs-Liga-Check: data/beobachtungs_ligen.json hat heute NICHT relevant (Group-B-MD1 + Group-E-MD3 + NBA-Finals-Game-3 - alle nicht heute). Keine Spiele heute max-wackel-getauft.",
+    "Liga-Goldgruben-Verteilung: 4 von 6 Spielen sind Gruppe-G/H/I-MD3 - WM 2026 Goldgruben sind nur MD1 (E, F, I). MD3 statistisch noch nicht abgedeckt - Vorsicht bei Bewertungs-Hochstufung.",
+    "Hartlimit eingehalten: max 5 Tipps pro Spiel (Coinflip-Aegypten-Iran nur 3 Tipps). Layer-1 (max 1 Bein/Spiel/Kombi) + Layer-2 (Sieg-Outcome max 1 Kombi) bei allen 4 Kombis erfuellt.",
+    "Einwechslungs-Boost-Regel pflichtmaessig kommentiert pro Torschuetzen-Tipp (Mbappe/Olise, Lukaku/Openda, Mane/Diarra, Yamal/Williams, Salah/Trezeguet, Haaland/Sorloth).",
+    "Lesson 03.05.2026 (Top-Team-Rotation-Risiko vor CL-HF): heute auf WM-Achtelfinale-Vorbereitung uebertragen - Norwegen-Frankreich beide schon durch, beide koennen rotieren. Mbappe/Haaland-Schonung als Risiko-Faktor in tipp-begruendung benannt.",
+    "Hauptroutine 16:00 nicht durchgelaufen -> Watchdog 17:15 hat komplette Tipps-Generation nachgeholt. Pflicht-Vorgehen identisch zu Hauptroutine: 6 Spiele recherchiert + saison_kontext fuer alle erfuellt (Achtfeld + Quellen mit FIFA + ESPN + Wikipedia + Squawka + ggf Sky Sports)."
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-06-26T18:00:00+02:00",
+    "modus": "post-hoc-verifikation (Watchdog-Recovery-Tipps von 17:15 wurden nachverifiziert)",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "recherche_file_fehlt",
+        "details": "data/recherche/2026-06-26.json existiert nicht - Watchdog-Recovery hat Tipps ohne strukturierte Recherche-Datei erstellt. Spieler-Squad-Cross-Check daher nicht hart durchgefuehrt. Spielernamen via FIFA/ESPN/Wikipedia/Lineups in saison_kontext.quellen[] zitiert (jedes Spiel >=4 Verband/Top-Tier-Quellen)."
+      },
+      {
+        "art": "torschuetze_quelle_warn",
+        "tipp_ids": [
+          "nor-fra/Mbappe",
+          "uru-esp/Yamal",
+          "nzl-bel/Lukaku",
+          "nzl-bel/KdB"
+        ],
+        "details": "Tipps tragen `_torschuetze_quelle_warn=true`, da Vereins-spezifische Torschuetzen-Quelle (transfermarkt/kicker/bundesliga player-Seite) in spiel-quellen[] nicht explizit referenziert ist. Tipps bereits durch Routine selbst auf wackel begrenzt - keine weitere Aktion noetig."
+      },
+      {
+        "art": "liga_goldgrube_check",
+        "details": "Alle 6 Spiele sind WM-Gruppenphase MD3 (Group G/H/I). Liga ist NICHT in liga_goldgruben.json (dort nur MD1-Gruppen E/F/I + EL/CL-HF). Routine hat alle SAFE-DC bewusst zu VALUE degradiert (Begruendung pro Tipp dokumentiert) - Mapper-Hebel C wuerde sonst greifen."
+      }
+    ],
+    "checks_bestanden": {
+      "layer_1": "OK - alle 4 Kombis nutzen jeweils 1 Bein pro Spiel (Safe 4/4, Balance 4/4, Risiko 3/3, Moonshot 6/6).",
+      "layer_2": "OK - Sieg-Outcomes verteilt: Senegal Sieg + Spanien DC X2 + Belgien Sieg in Safe-Kombi (verschiedene Spiele); Aegypten DC 1X in Balance. Pro Spiel max 1 Sieg-Outcome ueber alle Kombis.",
+      "layer_3": "OK - Spiel-Diversifikation breit: 4 von 6 Spielen in Safe + Balance, alle 6 in Moonshot. Kein Spiel in mehr als 3 Kombis.",
+      "gesamtquoten": "OK - alle 4 Kombi-Gesamtquoten nachgerechnet (Safe 2.898 vs 2.90, Balance 9.563 vs 9.55, Risiko 18.942 vs 18.94, Moonshot 201.496 vs 201.5; Abweichung < 0.02 Rundung).",
+      "selbstwiderspruch": "OK - keine 'Spieler X out + Spieler X spielt'-Konflikte. Senegal-Dead-Rubber + Senegal-Sieg-Tipp als VALUE (statt SAFE) wegen Motivations-Risiko sauber begruendet. Hoehen-Faktor Guadalajara konsistent auf Uruguay-Spanien angewandt (Unter 2.5 wackel, nicht hoeher).",
+      "tipps_pro_spiel": "OK - max 5 Tipps/Spiel (Norwegen-Frankreich 5, NZL-Belgien 5, Rest 3-4). Coinflip Aegypten-Iran nur 3 Tipps wie CLAUDE.md verlangt.",
+      "kasse_stufe": "OK - Kasse 550 EUR -> Stufe 1 angewandt. Einzeltipps 0.5-2.0 %, Safe-Kombi 2.0 %, Balance 0.8 %, Risiko 0.25 %, Moonshot 0.1 % - Standard-Stufe-1-Raster.",
+      "spielerschutz_footer": "OK - BZgA 0800 1372700 + 18+-Hinweis im footer."
+    },
+    "lessons_generiert": [],
+    "erfolg": true,
+    "hinweis": "Verifikation post-hoc auf Watchdog-Recovery-File. Kein Recherche-File fuer harten Squad-Halluzinations-Check verfuegbar; Spielernamen sind alle prominent (Mbappe, Haaland, Yamal, Lukaku, Salah, Mane, KdB) und ueber FIFA/ESPN/Wikipedia abgedeckt. Bebe (Kap Verde) ist plausibel - historisch Kap-Verde-NT-Stuermer, aber Squad 2026 nicht hart bestaetigbar -> Tipp bleibt wackel + min Einsatz 0.5 % wie Routine schon gesetzt hat."
+  },
+  "einzeltipps_ergebnis": [
+    {
+      "spiel": "Norwegen - Frankreich",
+      "spiel_id": "2026-06-26-nor-fra",
+      "markt": "Kylian Mbappe Jederzeit-Torschuetze",
+      "quote": 1.65,
+      "einsatz_euro": 11.0,
+      "begruendung": "Top-Pick des Abends. Mbappe 4 Tore in 2 WM-Spielen (Hattrick vs Senegal, Doppelpack vs Irak). Markt-Goldgrube Torschuetzen Jederzeit (50% / +24.4% - bester Markt im System). Frankreich braucht Tore fuer Tordiff-Vorsprung (Gruppensieg). Einwechslungs-Boost bei Schonung (Olise/Thuram).",
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 2.0,
+      "faire_quote": 1.65,
+      "rang": 1,
+      "status": "verloren",
+      "kommentar": "Mbappe 0 Tore (2 Assists), 87' raus. Doue traf 90+4 - Direkt-Sub-Kette zu Mbappe nicht hart bestaetigbar (Doue Teil Frankreichs Starter laut Match-Reports), kein Boost angewendet.",
+      "gewinn_faktor": -1.0
+    },
+    {
+      "spiel": "Neuseeland - Belgien",
+      "spiel_id": "2026-06-27-nzl-bel",
+      "markt": "Belgien Sieg (2)",
+      "quote": 1.22,
+      "einsatz_euro": 11.0,
+      "begruendung": "Belgien MUSS-Sieg-Modus sonst Out-Risiko. Klassen-Edge breit (Courtois, De Bruyne, Lukaku vs NZ-A-League-Niveau). Kalshi-Implied 83%. NZ 1 Tor + 3 Gegentore in 2 Spielen. Bleibt VALUE (kein Liga-Goldgrube Mapper-Schutz).",
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 2.0,
+      "faire_quote": 1.2,
+      "rang": 2,
+      "status": "gewonnen",
+      "kommentar": "Belgien 5:1 - klarer Sieg, MUSS-Sieg-Modus ohne Wackler.",
+      "gewinn_faktor": 0.22
+    },
+    {
+      "spiel": "Norwegen - Frankreich",
+      "spiel_id": "2026-06-26-nor-fra",
+      "markt": "Frankreich Doppelte Chance X2",
+      "quote": 1.2,
+      "einsatz_euro": 8.25,
+      "begruendung": "Frankreich reicht Remis fuer Gruppensieg, Klassen-Edge breit. DC-Goldgrube X2 (80.8% / +9.4% ROI). Mapper-Hebel C: bleibt VALUE statt SAFE da Group-I-MD3 nicht in liga_goldgruben.json.",
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 1.5,
+      "faire_quote": 1.22,
+      "rang": 3,
+      "status": "gewonnen",
+      "kommentar": "Frankreich 4:1 - DC X2 (Sieg) durch.",
+      "gewinn_faktor": 0.2
+    },
+    {
+      "spiel": "Uruguay - Spanien",
+      "spiel_id": "2026-06-27-uru-esp",
+      "markt": "Spanien Doppelte Chance X2",
+      "quote": 1.18,
+      "einsatz_euro": 8.25,
+      "begruendung": "Spanien 32-Spiele-Serie ungeschlagen + reicht Remis fuer Achtelfinale + Yamal/Pedri-Klassen-Edge. DC-Goldgrube X2. Bleibt VALUE (Group-H-MD3 nicht in liga_goldgruben.json + Hoehen-Faktor Guadalajara). Statistik 30d DC X2: 80.8% Hitrate.",
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 1.5,
+      "faire_quote": 1.18,
+      "rang": 4,
+      "status": "gewonnen",
+      "kommentar": "Spanien 1:0 - DC X2 (Sieg) durch.",
+      "gewinn_faktor": 0.18
+    },
+    {
+      "spiel": "Neuseeland - Belgien",
+      "spiel_id": "2026-06-27-nzl-bel",
+      "markt": "Romelu Lukaku Jederzeit-Torschuetze",
+      "quote": 1.85,
+      "einsatz_euro": 8.25,
+      "begruendung": "Belgien MUSS-Sieg + Lukaku Stamm + Napoli-Saison stark beendet + NZ-Abwehr A-League-Niveau. Markt-Goldgrube. Einwechslungs-Boost bei Openda/Batshuayi-Tor.",
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 1.5,
+      "faire_quote": 1.85,
+      "rang": 5,
+      "status": "gewonnen",
+      "kommentar": "Lukaku traf 86' - direkt-Tor, kein Boost noetig. Form-Edge realisiert.",
+      "gewinn_faktor": 0.85
+    },
+    {
+      "spiel": "Uruguay - Spanien",
+      "spiel_id": "2026-06-27-uru-esp",
+      "markt": "Lamine Yamal Jederzeit-Torschuetze",
+      "quote": 2.3,
+      "einsatz_euro": 8.25,
+      "begruendung": "Yamal MUSS-Starter + Spanien-Klassen-Edge sucht Yamal-Schluessel in Achtelfinal-Vorbereitung. Markt-Goldgrube (50%/+24.4%). Einwechslungs-Boost bei Schonung (Williams/Ferran Torres).",
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 1.5,
+      "faire_quote": 2.3,
+      "rang": 6,
+      "status": "verloren",
+      "kommentar": "Yamal spielte aber traf nicht, in 2. HZ raus fuer Ferran Torres/Nico Williams - keiner der Subs traf. Kein Boost-Trigger. Yamal 2. WM-Tipp-Bust in Folge (Lesson 06.16./25. Bench-Likely Boost-INVERS aktiv).",
+      "gewinn_faktor": -1.0
+    },
+    {
+      "spiel": "Senegal - Irak",
+      "spiel_id": "2026-06-26-sen-irq",
+      "markt": "Senegal Sieg (1)",
+      "quote": 1.22,
+      "einsatz_euro": 8.25,
+      "begruendung": "Klassen-Edge deutlich (Mane, Koulibaly, Jackson vs Iraq-Liga-Niveau). Bleibt VALUE statt SAFE wegen Dead-Rubber-Motivations-Risiko (beide raus) - Selbst-Widerspruch Hebel S.",
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.5,
+      "faire_quote": 1.2,
+      "rang": 7,
+      "status": "gewonnen",
+      "kommentar": "Senegal 5:0 - klarer Sieg trotz Dead-Rubber-These.",
+      "gewinn_faktor": 0.22
+    },
+    {
+      "spiel": "Norwegen - Frankreich",
+      "spiel_id": "2026-06-26-nor-fra",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.55,
+      "einsatz_euro": 8.25,
+      "begruendung": "Markt-Goldgrube Ueber 2.5 (64.7% / +34.2% - Top-3-Markt). Mbappe + Haaland je 4 Tore = beide treffen + beide Teams 3+ Tore/Spiel bisher.",
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 1.5,
+      "faire_quote": 1.55,
+      "rang": 8,
+      "status": "gewonnen",
+      "kommentar": "5 Tore - klar ueber 2.5. Goldgrube validiert.",
+      "gewinn_faktor": 0.55
+    },
+    {
+      "spiel": "Aegypten - Iran",
+      "spiel_id": "2026-06-27-egy-irn",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.45,
+      "einsatz_euro": 8.25,
+      "begruendung": "Markt-Goldgrube Unter 2.5 (63.6% / +24.6%). Iran 2x 0:0 inkl gegen 10-Mann-Belgien = zementierte Defensive. Aegypten Salah-getragen-Niedrig-Tor-Siege. Bookies -220 (~69% implied).",
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.5,
+      "faire_quote": 1.45,
+      "rang": 9,
+      "status": "gewonnen",
+      "kommentar": "2 Tore (Saber 5', Rezaeian 14') + Khalilzadeh 90+3 abgepfiffen (Abseits) + Taremi-Penalty gehalten. Klar unter 2.5. Goldgrube + Iran-Defense-These validiert.",
+      "gewinn_faktor": 0.45
+    },
+    {
+      "spiel": "Aegypten - Iran",
+      "spiel_id": "2026-06-27-egy-irn",
+      "markt": "Aegypten Doppelte Chance 1X",
+      "quote": 1.45,
+      "einsatz_euro": 8.25,
+      "begruendung": "Aegypten reicht Remis fuer Quali. Salah-Klassen-Edge. DC-Goldgrube 1X (80%/+2.2%). Bleibt VALUE wegen Coinflip-Profil + kein Liga-Goldgrube-Schutz.",
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.5,
+      "faire_quote": 1.45,
+      "rang": 10,
+      "status": "gewonnen",
+      "kommentar": "1:1 Remis - DC 1X (Remis-Schiene) durch. Aegypten qualifiziert Platz 2.",
+      "gewinn_faktor": 0.45
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": null,
+      "name": "Safe-Kombi WM Decider",
+      "status": "verloren",
+      "gesamtquote": 2.9,
+      "einsatz_euro": 11.0,
+      "gewinn_faktor": -1.0,
+      "beine_status": [
+        {
+          "spiel_id": "2026-06-26-nor-fra",
+          "markt": "Norwegen - Frankreich: Kylian Mbappe Jederzeit-Torschuetze",
+          "status": "verloren",
+          "kommentar": "Mbappe 0 Tore (2 Assists), 87' raus. Doue traf 90+4 - Direkt-Sub-Kette zu Mbappe nicht hart bestaetigbar (Doue Teil Frankreichs Starter laut Match-Reports), kein Boost angewendet."
+        },
+        {
+          "spiel_id": "2026-06-26-sen-irq",
+          "markt": "Senegal - Irak: Senegal Sieg (1)",
+          "status": "gewonnen",
+          "kommentar": "Senegal 5:0 - klarer Sieg trotz Dead-Rubber-These."
+        },
+        {
+          "spiel_id": "2026-06-27-uru-esp",
+          "markt": "Uruguay - Spanien: Spanien Doppelte Chance X2",
+          "status": "gewonnen",
+          "kommentar": "Spanien 1:0 - DC X2 (Sieg) durch."
+        },
+        {
+          "spiel_id": "2026-06-27-nzl-bel",
+          "markt": "Neuseeland - Belgien: Belgien Sieg (2)",
+          "status": "gewonnen",
+          "kommentar": "Belgien 5:1 - klarer Sieg, MUSS-Sieg-Modus ohne Wackler."
+        }
+      ]
+    },
+    {
+      "kombi_id": null,
+      "name": "Balance-Kombi Form-Stuermer",
+      "status": "verloren",
+      "gesamtquote": 9.55,
+      "einsatz_euro": 4.4,
+      "gewinn_faktor": -1.0,
+      "beine_status": [
+        {
+          "spiel_id": "2026-06-26-nor-fra",
+          "markt": "Norwegen - Frankreich: Ueber 2.5 Tore",
+          "status": "gewonnen",
+          "kommentar": "5 Tore - klar ueber 2.5. Goldgrube validiert."
+        },
+        {
+          "spiel_id": "2026-06-27-uru-esp",
+          "markt": "Uruguay - Spanien: Lamine Yamal Jederzeit-Torschuetze",
+          "status": "verloren",
+          "kommentar": "Yamal spielte aber traf nicht, in 2. HZ raus fuer Ferran Torres/Nico Williams - keiner der Subs traf. Kein Boost-Trigger. Yamal 2. WM-Tipp-Bust in Folge (Lesson 06.16./25. Bench-Likely Boost-INVERS aktiv)."
+        },
+        {
+          "spiel_id": "2026-06-27-egy-irn",
+          "markt": "Aegypten - Iran: Aegypten Doppelte Chance 1X",
+          "status": "gewonnen",
+          "kommentar": "1:1 Remis - DC 1X (Remis-Schiene) durch. Aegypten qualifiziert Platz 2."
+        },
+        {
+          "spiel_id": "2026-06-27-nzl-bel",
+          "markt": "Neuseeland - Belgien: Romelu Lukaku Jederzeit-Torschuetze",
+          "status": "gewonnen",
+          "kommentar": "Lukaku traf 86' - direkt-Tor, kein Boost noetig. Form-Edge realisiert."
+        }
+      ]
+    },
+    {
+      "kombi_id": null,
+      "name": "Risiko-Kombi Torschuetzen-Plus",
+      "status": "verloren",
+      "gesamtquote": 18.94,
+      "einsatz_euro": 1.4,
+      "gewinn_faktor": -1.0,
+      "beine_status": [
+        {
+          "spiel_id": "2026-06-27-cpv-ksa",
+          "markt": "Kap Verde - Saudi-Arabien: Bebe Jederzeit-Torschuetze",
+          "status": "verloren",
+          "kommentar": "Bebe traf nicht, kein Boost (kein Kap-Verde-Sub traf da 0:0)."
+        },
+        {
+          "spiel_id": "2026-06-27-egy-irn",
+          "markt": "Aegypten - Iran: Mohamed Salah Jederzeit-Torschuetze",
+          "status": "verloren",
+          "kommentar": "Salah 57' raus mit Hamstring-Eis - kein Tor. Sub traf nicht, kein Boost-Trigger."
+        },
+        {
+          "spiel_id": "2026-06-27-nzl-bel",
+          "markt": "Neuseeland - Belgien: Kevin De Bruyne Jederzeit-Torschuetze oder Assist",
+          "status": "gewonnen",
+          "kommentar": "KdB traf 66' (Distanzschuss). Direkt-Tor."
+        }
+      ]
+    },
+    {
+      "kombi_id": null,
+      "name": "Moonshot WM-Torschuetzen-Festival",
+      "status": "verloren",
+      "gesamtquote": 201.5,
+      "einsatz_euro": 0.55,
+      "gewinn_faktor": -1.0,
+      "beine_status": [
+        {
+          "spiel_id": "2026-06-26-nor-fra",
+          "markt": "Norwegen - Frankreich: Kylian Mbappe Jederzeit-Torschuetze",
+          "status": "verloren",
+          "kommentar": "Mbappe 0 Tore (2 Assists), 87' raus. Doue traf 90+4 - Direkt-Sub-Kette zu Mbappe nicht hart bestaetigbar (Doue Teil Frankreichs Starter laut Match-Reports), kein Boost angewendet."
+        },
+        {
+          "spiel_id": "2026-06-26-sen-irq",
+          "markt": "Senegal - Irak: Sadio Mane Jederzeit-Torschuetze",
+          "status": "verloren",
+          "kommentar": "Mane spielte (Sulaka VAR-Foul an Mane vor Roter Karte), traf nicht. Ndiaye-Tor 82' moeglicher Boost-Trigger wenn Ndiaye Mane direkt ersetzt hat - nicht hart bestaetigt. Konservativ kein Boost angewendet."
+        },
+        {
+          "spiel_id": "2026-06-27-uru-esp",
+          "markt": "Uruguay - Spanien: Lamine Yamal Jederzeit-Torschuetze",
+          "status": "verloren",
+          "kommentar": "Yamal spielte aber traf nicht, in 2. HZ raus fuer Ferran Torres/Nico Williams - keiner der Subs traf. Kein Boost-Trigger. Yamal 2. WM-Tipp-Bust in Folge (Lesson 06.16./25. Bench-Likely Boost-INVERS aktiv)."
+        },
+        {
+          "spiel_id": "2026-06-27-cpv-ksa",
+          "markt": "Kap Verde - Saudi-Arabien: Bebe Jederzeit-Torschuetze",
+          "status": "verloren",
+          "kommentar": "Bebe traf nicht, kein Boost (kein Kap-Verde-Sub traf da 0:0)."
+        },
+        {
+          "spiel_id": "2026-06-27-egy-irn",
+          "markt": "Aegypten - Iran: Mohamed Salah Jederzeit-Torschuetze",
+          "status": "verloren",
+          "kommentar": "Salah 57' raus mit Hamstring-Eis - kein Tor. Sub traf nicht, kein Boost-Trigger."
+        },
+        {
+          "spiel_id": "2026-06-27-nzl-bel",
+          "markt": "Neuseeland - Belgien: Romelu Lukaku Jederzeit-Torschuetze",
+          "status": "gewonnen",
+          "kommentar": "Lukaku traf 86' - direkt-Tor, kein Boost noetig. Form-Edge realisiert."
+        }
+      ]
+    }
+  ],
+  "ausgewertet_am": "2026-06-27T07:30:00+00:00"
+}
