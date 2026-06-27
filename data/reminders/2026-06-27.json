@@ -1,0 +1,17 @@
+{
+  "stand": "2026-06-28T00:31:21.858867+00:00",
+  "gesendet": {
+    "2026-06-28-jor-arg": {
+      "sent_at": "2026-06-28T00:31:19.680670+00:00",
+      "anstoss": "2026-06-28T04:00:00+02:00",
+      "spiel": "Jordanien vs Argentinien",
+      "top_tipp": "Argentinien Sieg"
+    },
+    "2026-06-28-alg-aut": {
+      "sent_at": "2026-06-28T00:31:19.680670+00:00",
+      "anstoss": "2026-06-28T04:00:00+02:00",
+      "spiel": "Algerien vs Oesterreich",
+      "top_tipp": "Doppelte Chance Oesterreich oder Remis (X2)"
+    }
+  }
+}
