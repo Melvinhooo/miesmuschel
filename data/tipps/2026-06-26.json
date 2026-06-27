@@ -743,7 +743,12 @@
       },
       {
         "art": "torschuetze_quelle_warn",
-        "tipp_ids": ["nor-fra/Mbappe", "uru-esp/Yamal", "nzl-bel/Lukaku", "nzl-bel/KdB"],
+        "tipp_ids": [
+          "nor-fra/Mbappe",
+          "uru-esp/Yamal",
+          "nzl-bel/Lukaku",
+          "nzl-bel/KdB"
+        ],
         "details": "Tipps tragen `_torschuetze_quelle_warn=true`, da Vereins-spezifische Torschuetzen-Quelle (transfermarkt/kicker/bundesliga player-Seite) in spiel-quellen[] nicht explizit referenziert ist. Tipps bereits durch Routine selbst auf wackel begrenzt - keine weitere Aktion noetig."
       },
       {

@@ -1,4 +1,4 @@
-// Auto-generiert aus data/tipps/2026-06-27.json (Watchdog-Recovery)
+// Auto-generiert
 window.__MIESMUSCHEL_TIPPS = {
   "datum": "2026-06-27",
   "erstellt_am": "2026-06-27T15:10:19+02:00",
