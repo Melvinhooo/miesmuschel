@@ -1,5 +1,5 @@
 {
-  "stand": "2026-06-26T23:20:47.085004+00:00",
+  "stand": "2026-06-27T02:10:44.588655+00:00",
   "gesendet": {
     "2026-06-26-nor-fra": {
       "sent_at": "2026-06-26T17:55:15.167083+00:00",
@@ -24,6 +24,18 @@
       "anstoss": "2026-06-27T02:00:00+02:00",
       "spiel": "Kap Verde vs Saudi-Arabien",
       "top_tipp": "Ueber 2.5 Tore"
+    },
+    "2026-06-27-egy-irn": {
+      "sent_at": "2026-06-27T02:10:42.038166+00:00",
+      "anstoss": "2026-06-27T05:00:00+02:00",
+      "spiel": "Aegypten vs Iran",
+      "top_tipp": "Unter 2.5 Tore"
+    },
+    "2026-06-27-nzl-bel": {
+      "sent_at": "2026-06-27T02:10:42.038166+00:00",
+      "anstoss": "2026-06-27T05:00:00+02:00",
+      "spiel": "Neuseeland vs Belgien",
+      "top_tipp": "Belgien Sieg (2)"
     }
   }
 }
