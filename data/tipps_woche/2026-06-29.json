@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS_WOCHE = {
+{
   "datum": "2026-06-29",
   "erstellt_am": "2026-06-28T18:05:00+02:00",
   "hinweis": "Wochen-Vorschau Mo 29.06 bis So 05.07.2026 - WM 2026 K.O.-Phase total dominant: Mo-Fr je 3 R32-Spiele (15 R32 insgesamt), Sa-So je 2 Achtelfinale (R16, 4 insgesamt). Vereinsfussball Sommer-Pause bis August (keine Liga-Tipps). NBA Finals beendet (13.06., Knicks 4-1). Kasse 550€ Stufe 1 (1-2% Einzel, 0.5% Wackel, 2% Kombi-Safe, 0.8% Balance, 0.25% Risiko, 0.1% Moonshot). Best-of-Set: 10 sicherste Einzel-Tipps der ganzen Woche + 4 Kombis. Achtelfinale-Spiele Sa+So nur als Platzhalter ohne Tipps (Paarungen ergeben sich erst nach R32-Abschluss am Fr 03.07. - Tagesroutinen ueberschreiben mit echten Tipps). Aktive Mapper-Hebel: WM-KO nicht in Liga-Goldgruben -> SAFE-DC automatisch auf VALUE downgegradet (Hebel C). Goldgruben aktiv gesucht (Torschuetzen Jederzeit, Ueber/Unter 2.5, DC 1X+X2). Lessons-Cluster aktiv: 2:0-Insurance bei WM-Sieg-Tipps, Einwechslungs-Boost-Volume-Backup, MUSS-Sieg-Druck-Cluster vorbei (alle weiter), 10er-INVERS-Falle (Bellingham), Bench-Star-Trigger (Lukaku 33+Hueftrisiko).",
@@ -1894,4 +1893,4 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
     "Best-of-Set: 10 Einzel-Tipps statt 25 - alle haben klares Form-Edge oder DC-Goldgrube oder beides."
   ],
   "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool, keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
-};
+}
