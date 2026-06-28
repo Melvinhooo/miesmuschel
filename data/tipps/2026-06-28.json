@@ -214,5 +214,39 @@
       "lesson_kurz": "NBA-Finals beendet (Knicks 4-1 Sweep-Ende Game 5 13.06.) → seit 26.04. NBA-Player-Punkte-Boykott aktiv, heute ohnehin keine NBA-Spiele. Vereinsfußball Sommerpause bis August → einziger Liefer-Kontext WM 2026."
     }
   ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-06-28T15:25:00+02:00",
+    "modus": "watchdog_recovery_offline_verifikation",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "torschuetze_vereins_quelle_fehlt",
+        "tipp_id": "2026-06-28-rsa-can-t2",
+        "details": "Jonathan David Anytime: keine Verein-Squad-Quelle (transfermarkt/kicker/espn player-Seite) in saison_kontext.quellen[] - bereits via _torschuetze_quelle_warn=true im Tipp markiert und auf wackel eingestuft (kein zusaetzliches Downgrade noetig). Form-Plausibilitaet (3 Tore Gruppenphase, Hattrick vs Katar) konsistent mit Lessons 12.06./13.06."
+      },
+      {
+        "art": "torschuetze_vereins_quelle_fehlt",
+        "tipp_id": "2026-06-28-rsa-can-t5",
+        "details": "Cyle Larin Anytime: keine Verein-Squad-Quelle (Toronto FC / MLS) in quellen[]. Tipp bereits wackel mit niedrigem Einsatz (2.75 EUR / 0.5 % Kasse). Kein zusaetzliches Downgrade."
+      },
+      {
+        "art": "sieg_outcome_doppel_einzel",
+        "spiel_id": "2026-06-28-rsa-can",
+        "details": "t1 (DC X2 Kanada @ 1.18) + t3 (Kanada Sieg 90min @ 1.75) sind beides Sieg-Outcomes auf Kanada als EINZELwetten - kein Kombi, daher KEIN Layer-2-Cap-Bruch (Layer-2 betrifft Kombis). Hinweis: t3 ist nur lukrativ bei klarem 90min-Sieg, t1 deckt das X-Szenario zusaetzlich ab. Risk-Stack bewusst akzeptiert."
+      }
+    ],
+    "pruefungen": {
+      "spieler_halluzination": "OK - Jonathan David (CAN Top-Scorer Allzeit, 3 Tore Gruppenphase, Hattrick vs Katar 18.06. - mehrfach in lessons.json 12.06. + 13.06. dokumentiert) UND Cyle Larin (CAN Stuermer, MLS Toronto FC, Sturm-Backup-Rolle) beide real + Sturm-Position + Kanada-WM-Kader 2026 plausibel.",
+      "saison_kontext_quellen": "OK - parallel_heim/gast = 'keine (Nationalteam)' = kein Wettbewerb-Claim, daher keine Verband-URL-Pflicht. quellen[] enthaelt fifa.com + olympics.com + cbc.ca + espn + sportsmole = 6 offizielle/serioese URLs.",
+      "layer_2_check": "TRIVIAL OK - kombis[] ist leer. Einzeltipps t1+t3 doppel-Sieg-Outcome auf Kanada nur als WARN markiert (siehe oben), kein Regelverstoss.",
+      "quoten_plausibilitaet": "OK - DC X2 1.18 (84.7%), Sieg 1.75 (57.1%), David Jederzeit 2.75 (36.4%), Larin Jederzeit 3.25 (30.8%), Unter 3.5 1.30 (76.9%) - alle bewegungsplausibel fuer Co-Gastgeber-Favorit Kanada vs Aussenseiter RSA in WM-R32-Premiere. bet365-live-Pruefung weiter empfohlen.",
+      "selbstwiderspruchs_scan": "OK - Kone (Beinbruch vs Katar) konsistent als out gefuehrt (kein David/Larin-Tipp baut auf Kone). Zwane out (RSA) hat keinen Tipp-Bezug. Davies + Bombito Comeback wirkt sich nicht widerspruechlich auf David-Tipp aus (Davies ist LV, kein Sturm-Konkurrent). Form-Argument David (Hattrick vs Katar) plausibel via lessons.json 12.06./13.06.",
+      "liga_frische_check": "OK - hinweis_text 'Vereinsfussball Sommer-Pause bis August' = stimmt fuer Juni 2026. Alle saison_kontext-Felder konsistent mit Nationalmannschafts-Kontext (WM K.O.-Premiere).",
+      "wm_sonderregel_check": "OK - 2:0-Insurance in t3-Begruendung korrekt angewandt (CLAUDE.md: gilt fuer WM 2026 + direkter Sieg-Tipp). Einwechslungs-Boost-Insurance in t2-Begruendung korrekt erwaehnt (David ausgewechselt -> Ersatz-Tor zaehlt). Konsistent mit CLAUDE.md WM-Sonderregeln + bet365-Spezifika."
+    },
+    "lessons_generiert": [],
+    "fazit": "Watchdog-Recovery-Output ist sauber. Keine Halluzinationen, keine Selbstwidersprueche, Layer-Check trivial OK (keine Kombis). 2 Quellen-WARNs fuer Torschuetzen-Tipps (David + Larin) - bereits via wackel-Einstufung + niedrige Einsaetze gepuffert. Tipps freigegeben fuer PWA-Anzeige."
+  },
   "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
 }
