@@ -1756,7 +1756,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       "id": "kombi-balance-w27",
       "name": "Balance-Kombi Top-Favoriten + Torschuetzen",
       "kategorie": "balance",
-      "gesamtquote": 6.48,
+      "gesamtquote": 5.89,
       "einsatz_euro": 4.4,
       "beine": [
         {
@@ -1776,17 +1776,11 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
           "markt": "Lautaro Martinez trifft jederzeit",
           "quote": 1.95,
           "kategorie": "value"
-        },
-        {
-          "spiel_id": "2026-07-02-esp-aut",
-          "markt": "Spanien DC 1X",
-          "quote": 1.1,
-          "kategorie": "value"
         }
       ],
       "begruendung": "Form-Edge-Stuermer (Haaland/Kane/Lautaro) + sicherste DC (Frankreich, Spanien). Layer-1: jedes Bein anderes Spiel. Layer-2: 2 DC + 3 Torschuetzen = unterschiedliche Outcome-Typen. Gesamtquote nachgerechnet 1.07 * 1.83 * 1.65 * 1.95 * 1.10 = 6.93x (~7x). Reality-Check: Torschuetzen-HR ~55-67% pro Bein x 92% DC = ~14% Kombi-HR = positive EV bei Quote 7x.",
       "empfohlener_einsatz_prozent": 0.8,
-      "rechnung": "1.83 x 1.65 x 1.95 x 1.10 = 6.48"
+      "rechnung": "1.83 x 1.65 x 1.95 = 5.89"
     },
     {
       "id": "kombi-risiko-w27",
