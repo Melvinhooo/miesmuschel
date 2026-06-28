@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS = {
+{
   "datum": "2026-06-28",
   "erstellt_am": "2026-06-28T15:15:00+02:00",
   "hinweis": "Watchdog-Recovery Sonntag (Hauptroutine 11:30 nicht durchgelaufen). WM 2026 Knockout-Round-of-32 startet - nur 1 Spiel heute (RSA vs CAN, Eröffnung der K.O.-Phase, SoFi Stadium LA, 21:00 Berlin). NBA-Finals abgeschlossen (Knicks 4-1). Vereinsfußball Sommer-Pause bis August. Kombis nicht möglich (Layer-1 max 1 Bein/Spiel → mind. 2 Spiele nötig), daher nur Einzeltipps. Kasse: 550€ Stufe 1.",
@@ -216,4 +215,4 @@ window.__MIESMUSCHEL_TIPPS = {
     }
   ],
   "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
-};
+}
