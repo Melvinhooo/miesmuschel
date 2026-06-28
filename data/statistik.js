@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-06-27T07:12:37+00:00",
+  "letzte_berechnung": "2026-06-28T07:10:06+00:00",
   "gesamt": {
-    "tipps": 452,
-    "gewonnen": 252,
-    "verloren": 189,
+    "tipps": 460,
+    "gewonnen": 259,
+    "verloren": 190,
     "push": 2,
     "offen": 9,
-    "einsatz": 443.0,
+    "einsatz": 451.0,
     "netto": 34.92,
-    "trefferquote": 57.1,
-    "roi_prozent": 7.9
+    "trefferquote": 57.7,
+    "roi_prozent": 7.7
   },
   "letzte_30_tage": {
-    "tipps": 159,
-    "gewonnen": 94,
-    "verloren": 65,
+    "tipps": 164,
+    "gewonnen": 98,
+    "verloren": 66,
     "push": 0,
     "offen": 0,
-    "einsatz": 159.0,
-    "netto": 10.99,
-    "trefferquote": 59.1,
-    "roi_prozent": 6.9
+    "einsatz": 164.0,
+    "netto": 5.91,
+    "trefferquote": 59.8,
+    "roi_prozent": 3.6
   },
   "letzte_90_tage": {
-    "tipps": 452,
-    "gewonnen": 252,
-    "verloren": 189,
+    "tipps": 460,
+    "gewonnen": 259,
+    "verloren": 190,
     "push": 2,
     "offen": 9,
-    "einsatz": 443.0,
+    "einsatz": 451.0,
     "netto": 34.92,
-    "trefferquote": 57.1,
-    "roi_prozent": 7.9
+    "trefferquote": 57.7,
+    "roi_prozent": 7.7
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -933,6 +933,50 @@ window.__MIESMUSCHEL_STAT = {
       "push": 0,
       "offen": 0,
       "einsatz": 2.0,
+      "netto": 0.0,
+      "trefferquote": 100.0,
+      "roi_prozent": 0.0
+    },
+    "FIFA World Cup 2026 - Gruppe J - Spieltag 3": {
+      "tipps": 3,
+      "gewonnen": 3,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 0.0,
+      "trefferquote": 100.0,
+      "roi_prozent": 0.0
+    },
+    "FIFA World Cup 2026 - Gruppe L - Spieltag 3": {
+      "tipps": 3,
+      "gewonnen": 2,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 0.0,
+      "trefferquote": 66.7,
+      "roi_prozent": 0.0
+    },
+    "FIFA World Cup 2026 - Gruppe L - Spieltag 3 (Decider)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 100.0,
+      "roi_prozent": 0.0
+    },
+    "FIFA World Cup 2026 - Gruppe J - Spieltag 3 (Decider)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
       "netto": 0.0,
       "trefferquote": 100.0,
       "roi_prozent": 0.0
@@ -3558,15 +3602,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 6.0
     },
     "England Sieg": {
-      "tipps": 4,
-      "gewonnen": 4,
-      "verloren": 0,
+      "tipps": 7,
+      "gewonnen": 6,
+      "verloren": 1,
       "push": 0,
       "offen": 0,
-      "einsatz": 4.0,
+      "einsatz": 7.0,
       "netto": 0.12,
-      "trefferquote": 100.0,
-      "roi_prozent": 3.0
+      "trefferquote": 85.7,
+      "roi_prozent": 1.7
     },
     "Harry Kane trifft (Jederzeit)": {
       "tipps": 1,
@@ -3657,15 +3701,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -100.0
     },
     "Kroatien Sieg": {
-      "tipps": 1,
-      "gewonnen": 1,
+      "tipps": 2,
+      "gewonnen": 2,
       "verloren": 0,
       "push": 0,
       "offen": 0,
-      "einsatz": 1.0,
+      "einsatz": 2.0,
       "netto": 0.36,
       "trefferquote": 100.0,
-      "roi_prozent": 36.0
+      "roi_prozent": 18.0
     },
     "Beide Teams treffen (Ja)": {
       "tipps": 1,
@@ -4469,6 +4513,28 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.0,
       "trefferquote": 100.0,
       "roi_prozent": 0.0
+    },
+    "Argentinien Sieg": {
+      "tipps": 3,
+      "gewonnen": 3,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 0.0,
+      "trefferquote": 100.0,
+      "roi_prozent": 0.0
+    },
+    "Doppelte Chance Oesterreich oder Remis (X2)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 100.0,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt_typ": {
@@ -4517,15 +4583,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 55.0
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 154,
-      "gewonnen": 88,
-      "verloren": 65,
+      "tipps": 161,
+      "gewonnen": 94,
+      "verloren": 66,
       "push": 0,
       "offen": 1,
-      "einsatz": 153.0,
+      "einsatz": 160.0,
       "netto": 6.36,
-      "trefferquote": 57.5,
-      "roi_prozent": 4.2
+      "trefferquote": 58.8,
+      "roi_prozent": 4.0
     },
     "Torschuetzen Jederzeit": {
       "tipps": 77,
@@ -4561,15 +4627,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 2.2
     },
     "Doppelte Chance X2": {
-      "tipps": 33,
-      "gewonnen": 24,
+      "tipps": 34,
+      "gewonnen": 25,
       "verloren": 7,
       "push": 0,
       "offen": 2,
-      "einsatz": 31.0,
+      "einsatz": 32.0,
       "netto": 2.45,
-      "trefferquote": 77.4,
-      "roi_prozent": 7.9
+      "trefferquote": 78.1,
+      "roi_prozent": 7.7
     },
     "Ueber 2.5 Tore": {
       "tipps": 36,
@@ -4981,14 +5047,14 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 202,
-      "gewonnen": 106,
+      "tipps": 203,
+      "gewonnen": 107,
       "verloren": 91,
       "push": 1,
       "offen": 4,
-      "einsatz": 198.0,
+      "einsatz": 199.0,
       "netto": 14.5,
-      "trefferquote": 53.8,
+      "trefferquote": 54.0,
       "roi_prozent": 7.3
     },
     "2.00-3.00": {
@@ -5003,15 +5069,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 5.5
     },
     "1.00-1.50": {
-      "tipps": 169,
-      "gewonnen": 116,
-      "verloren": 49,
+      "tipps": 176,
+      "gewonnen": 122,
+      "verloren": 50,
       "push": 0,
       "offen": 4,
-      "einsatz": 165.0,
+      "einsatz": 172.0,
       "netto": 9.43,
-      "trefferquote": 70.3,
-      "roi_prozent": 5.7
+      "trefferquote": 70.9,
+      "roi_prozent": 5.5
     },
     "3.00+": {
       "tipps": 18,
@@ -5027,26 +5093,26 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_kategorie": {
     "safe": {
-      "tipps": 89,
-      "gewonnen": 59,
-      "verloren": 30,
+      "tipps": 95,
+      "gewonnen": 64,
+      "verloren": 31,
       "push": 0,
       "offen": 0,
-      "einsatz": 89.0,
+      "einsatz": 95.0,
       "netto": 0.95,
-      "trefferquote": 66.3,
-      "roi_prozent": 1.1
+      "trefferquote": 67.4,
+      "roi_prozent": 1.0
     },
     "value": {
-      "tipps": 273,
-      "gewonnen": 152,
+      "tipps": 275,
+      "gewonnen": 154,
       "verloren": 110,
       "push": 2,
       "offen": 9,
-      "einsatz": 264.0,
+      "einsatz": 266.0,
       "netto": 32.24,
-      "trefferquote": 58.0,
-      "roi_prozent": 12.2
+      "trefferquote": 58.3,
+      "roi_prozent": 12.1
     },
     "wackel": {
       "tipps": 90,
@@ -5099,6 +5165,155 @@ window.__MIESMUSCHEL_STAT = {
     }
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-06-27",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "Tag-Safe ~3x (Klassen-Edge-Doppel + DC-Goldgrube-Trio)",
+          "kategorie": "safe",
+          "gesamtquote": 3.04,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Argentinien Sieg",
+              "quote": 1.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "England Sieg",
+              "quote": 1.16,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Doppelte Chance Oesterreich oder Remis (X2)",
+              "quote": 1.4,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Doppelte Chance Kroatien oder Remis (1X)",
+              "quote": 1.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 1.5 Tore",
+              "quote": 1.3,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Tag-Balance ~6.7x (Torschuetzen-Klasse-Duo + Tor-Total-Polster)",
+          "kategorie": "balance",
+          "gesamtquote": 6.72,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Harry Kane trifft jederzeit",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Lautaro Martinez trifft jederzeit",
+              "quote": 2.1,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.73,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Tag-Risk ~26x (Sekundaer-Torschuetzen-Trio)",
+          "kategorie": "risk",
+          "gesamtquote": 26.5,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Jude Bellingham trifft jederzeit",
+              "quote": 3.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Cristiano Ronaldo trifft jederzeit",
+              "quote": 2.3,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Marko Arnautovic trifft jederzeit",
+              "quote": 3.6,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Tag-Moonshot ~52x (Total + Player + BTTS, 5 Spiele)",
+          "kategorie": "moonshot",
+          "gesamtquote": 52.13,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Julian Alvarez trifft jederzeit",
+              "quote": 2.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Andrej Kramaric trifft jederzeit",
+              "quote": 3.4,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen - Ja",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen - Ja",
+              "quote": 1.95,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.7,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-06-26",
       "gesamt": {

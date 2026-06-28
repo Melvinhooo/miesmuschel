@@ -1,0 +1,1568 @@
+{
+  "datum": "2026-06-27",
+  "erstellt_am": "2026-06-27T15:10:19+02:00",
+  "hinweis": "Watchdog-Recovery Sa 15:05 Berlin (Hauptroutine fehlend - Saturday-Tipps-Tag wurde nicht durch Sa-11:30-Routine erzeugt). WM-2026-Gruppenphase ABSCHLUSS-TAG (Spieltag 3) fuer Gruppen L, K, J - 6 Spiele im Fenster 23:00 heute bis 04:00 morgen Berlin. Vereinsfussball Saisonpause bis August 2026. NBA Finals beendet (13.06.). Kasse-Stufe 1 (550 EUR). Aktive Lessons: Spieltag-3-Dead-Rubber-Rotations-Risiko (ARG-JOR + COL-POR Top-Teams schon durch -> Rotation moeglich -> Klassen-Edge-Sieg-Tipps max SAFE wegen 2:0-Insurance + Quote-Niveau), Coinflip-Spiele werden klar markiert (ALG-AUT + COD-UZB + COL-POR), Markt-Goldgruben aktiv gesucht (Torschuetzen Jederzeit +21.3% ROI, Ueber 2.5 +34.2%, DC X2 +7.9%), 2:0-Insurance gilt fuer WM-Sieg-Tipps, Einwechslungs-Boost-Volume-Backup-Pool. Layer-1 + Layer-2 Diversifikation streng. R32-Solo-Spiel Suedafrika-Kanada am So 21:00 ist NICHT enthalten (ausserhalb Tag-Fenster) - siehe data/tipps_wochenende/2026-06-27.json.",
+  "spiele": [
+    {
+      "id": "2026-06-27-pan-eng",
+      "liga": "FIFA World Cup 2026 - Gruppe L - Spieltag 3",
+      "heim": "Panama",
+      "gast": "England",
+      "anstoss": "2026-06-27T23:00:00+02:00",
+      "stadion": "MetLife Stadium, East Rutherford NJ (USA)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM-Gruppenphase Spieltag 3, kein paralleler Wettbewerb. Alle Top-Liga-Saisons sind im Saisonpause.",
+        "parallel_gast": "keine - WM-Gruppenphase Spieltag 3, kein paralleler Wettbewerb. Premier League/EFL in Pause bis August.",
+        "saisonziel_heim": "Gruppe L mit 0 Pkt (0:1 vs Ghana, 0:1 vs Kroatien) bereits eliminiert. Spielt fuer Stolz/WM-Bilanz. Kein Tor in 2 Spielen.",
+        "saisonziel_gast": "Gruppe L Tabellenfuehrer mit 4 Pkt (4:2 vs Kroatien, 0:0 vs Ghana) + Tordiff +2. Achtelfinale praktisch durch. Sieg = Gruppensieg fix + bessere R32-Bracket-Route. Tuchel will starken Form-Auftritt nach matt 0:0 vs Ghana.",
+        "motivations_asymmetrie": "Massive Asymmetrie: England MUSS Form zeigen + Gruppensieg sichern (Tuchel-Druck nach Ghana-Remis), Panama eliminiert + ohne offensive Mittel (0 Tore Turnier). Klassen-Edge real - aber Rotation moeglich da England schon durch, was die Quote etwas absichert. Per Lesson 18.06 'Spieltag-3-Dead-Rubber-Rotation' Klassen-Edge max VALUE-Sieg (kein SAFE-Sieg), aber Goldgruben-Maerkte (Torschuetzen + Ueber 2.5) bleiben SAFE-OK.",
+        "recovery_heim": "Spieltag 2 am 24.06. (0:1 vs Kroatien) - 3 Tage Pause. Kein Schluesselspieler-Ausfall-Bericht. Aber 0 Tore + minimal Klasse - Recovery irrelevant.",
+        "recovery_gast": "Spieltag 2 am 23.06. (0:0 vs Ghana) - 4 Tage Pause. Kane fit (2 Tore Turnier). Saka/Bellingham fit. Rotation moeglich da schon durch.",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+          "https://www.englandfootball.com/england/mens-senior-team/fixtures-results/2025-26/World-Cup/panama-v-england-fifa-world-cup-saturday-27-june-2026-match-centre",
+          "https://www.metlifestadium.com/events/detail/fifa-world-cup-2026-panama-vs-england",
+          "https://sports.yahoo.com/articles/panama-vs-england-prediction-world-105500681.html",
+          "https://www.squawka.com/ca/news/world-cup/match-preview-panama-vs-england-world-cup-2026/",
+          "https://sports.betmgm.com/en/blog/world-cup/england-vs-panama-prediction-odds-preview-world-cup-june-27-bm16/"
+        ]
+      },
+      "news": [
+        "England Gruppe L Tabellenfuehrer (4 Pkt) - Achtelfinale praktisch durch, Sieg sichert Gruppensieg.",
+        "Panama eliminiert - 0 Pkt + 0 Tore in 2 Spielen, kann fuer Stolz spielen.",
+        "Kane: 2 Tore im Turnier + historischer Hattrick bei WM 2018 gegen Panama (6:1).",
+        "Tuchel-Druck nach matt 0:0 vs Ghana - will Form-Statement vor K.O.-Phase.",
+        "Rotations-Risiko England: schon durch -> Saka/Foden/Bellingham koennten geschont werden, aber Kane sehr wahrscheinlich Start.",
+        "bet365 erwartet: ENG ~1.16 / Draw ~8.00 / PAN ~13.00 - klare Klassen-Edge-Quote."
+      ],
+      "tipps": [
+        {
+          "kategorie": "safe",
+          "markt": "England Sieg",
+          "quote": 1.16,
+          "edge_prozent": 4.5,
+          "empfohlener_einsatz_euro": 11.0,
+          "empfohlener_einsatz_prozent": 2.0,
+          "begruendung": "Massive Klassen-Edge: Top-Liga-Roster (Bellingham/Saka/Kane/Foden) vs Panama (kein einziger Top-5-Liga-Spieler). Panama 0 Tore in 2 Spielen + ohne Quali-Druck. 2:0-Insurance gilt fuer WM-Sieg-Tipps - selbst bei spaeter England-Rotation reicht ein klares 2:0-Polster. England-Bilanz aus statistik.json Klassen-Edge-Sieg-Tipps: positiv. Quote 1.16 = 86% implied vs faire ~89%. Liga ist nicht in Goldgruben-Liste -> Markt-Goldgrube relevant: Sieg-Markt ueber Klassen-Edge - VALUE-Standard. SAFE legitim wegen Quoten-Niveau + 2:0-Insurance + Panama-Schwaeche-Niveau.",
+          "reality_check": "Klassen-Edge + 2:0-Insurance + Panama bisher 0 Tore. Tuchel-Form-Statement-Wille reduziert Rotations-Risiko fuer Kerngerueest. Quote 1.16 angemessen niedrig - kein Free-Lunch aber sehr wahrscheinlich.",
+          "faire_quote": 1.12
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Harry Kane trifft jederzeit",
+          "quote": 1.85,
+          "edge_prozent": 8.5,
+          "empfohlener_einsatz_euro": 7.7,
+          "empfohlener_einsatz_prozent": 1.4,
+          "begruendung": "Markt-Goldgrube 'Torschuetzen Jederzeit' (41.4% / +21.3% ROI - Top-ROI im System). CLAUDE.md HEIM-FAVORIT-PFLICHT (England Quote 1.16 < 1.80): Torschuetzen-Tipp PFLICHT. Kane historisch Hattrick gegen Panama bei WM 2018 (6:1) + 2 Tore im aktuellen Turnier + Bayern-Top-Stuermer-Form. Einwechslungs-Boost-Pflicht: Ersatzstuermer Watkins/Solanke fuer Kane = Tore zaehlen fuer 'Kane trifft' - macht Tipp noch sicherer. Quote 1.85 = 54% implied vs faire ~60%. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "reality_check": "Torschuetzen-Jederzeit ist Markt-Top-ROI (+21.3%). Kane historische Panama-Beute + Form + Einwechslungs-Boost. Quote 1.85 attraktiv.",
+          "faire_quote": 1.67,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.7,
+          "edge_prozent": 9.0,
+          "empfohlener_einsatz_euro": 7.7,
+          "empfohlener_einsatz_prozent": 1.4,
+          "begruendung": "Markt-Goldgrube 'Ueber 2.5 Tore' (62.5% / +32.9% ROI). England traf 4 Tore vs Kroatien + Form-Stuermer-Pool tief (Kane/Watkins/Foden/Saka/Bellingham). Panama 0 Tore aber 2 zugelassen - Defensiv-Klassen-Mismatch. Tuchel-Form-Statement-Wille = offensiv. Quote 1.70 = 59% implied vs faire ~64%. Risiko: starkes Rotation + England schon durch koennte verhalten spielen (= Unter 2.5).",
+          "reality_check": "Ueber 2.5 Goldgrube + England-Sturm-Pool + Form-Statement-Druck. VALUE solide.",
+          "faire_quote": 1.56
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Jude Bellingham trifft jederzeit",
+          "quote": 3.2,
+          "edge_prozent": 6.0,
+          "empfohlener_einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Sekundaer-Torschuetzen-Goldgrube. Bellingham aus 10er-Position oft im Strafraum - klassischer Volumen-Tipp. Aber: 10er-Position INVERSE-Falle-Trigger (Karriere-Highlight-INVERS-Hebel jedoch deaktiviert per 18.06). Quote 3.20 = 31% implied vs faire ~33%. WACKEL wegen 10er-Position + Quote relativ hoch.",
+          "reality_check": "Bellingham 10er-Position relativiert die Goldgruben-Anwendung. Quote 3.20 attraktiv aber WACKEL angemessen.",
+          "faire_quote": 3.0
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 0,
+        "gast": 2,
+        "endstand": "0:2",
+        "kommentar": "England 2:0 Panama - Bellingham (62., Saka-Eckenball) + Kane (67., Bellingham-Flanke, 11. WM-Tor brach Lineker-Rekord). HZ 0:0. England Gruppensieg Gruppe L."
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "0:2",
+        "tore": [
+          {
+            "min": 62,
+            "team": "gast",
+            "spieler": "Bellingham",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 67,
+            "team": "gast",
+            "spieler": "Kane",
+            "stand_danach": "0:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Kein Drehungs-Trigger. Spaete 2-Tore-Phase 62-67 nachdem Klassen-Edge sich durchsetzte. 2:0-Insurance fuer England-Sieg-Tipp greift nicht noetig (England gewann ohnehin clean)."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/England",
+          "kein_team_zu_null": false,
+          "siegtor_in_letzten_15min": false,
+          "ausgleich_in_letzten_15min": false,
+          "fruehes_tor_unter_10min": false,
+          "spaetes_tor_ab_80min": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Declan Rice",
+            "details": "Auf Bank nach Verletzung im vorherigen Spiel. Reduziert England-Mittelfeld-Kontrolle in 1. HZ - erklaert HZ 0:0."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Kane WM-Tor-Rekord (11) + Bellingham 10er-Position-Tor - Lesson 18.06 'Karriere-Highlight-INVERS' GEBROCHEN (Bellingham als 10er traf trotz INVERS-These). Re-Kalibrierung-Datapoint.",
+          "Klassen-Edge-Sieg-Tipp ENG @ 1.16 + Bellingham als sek. Torschuetze: doppelt Hit. Goldgrube 'Torschuetzen Jederzeit' bestaetigt.",
+          "Ueber 2.5 BUST trotz Klassen-Edge - England spielte 1. HZ ruhig, nur Bellingham/Kane-Phase. Lesson 13.06 'WM-Eroeffnungs-Unter-2.5-Top5-Liga' Pattern auf MD3-Decider erweitert."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-06-27-pan-eng-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.16,
+          "kommentar": "England 2:0 - Klassen-Edge clean durchgezogen. 2:0-Polster perfekt, Insurance unnoetig.",
+          "clv_prozent": null,
+          "opening_quote": 1.16,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-27-pan-eng-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.85,
+          "kommentar": "Kane traf 67. nach Bellingham-Flanke - 11. WM-Tor, brach Lineker-Rekord. Goldgrube-Validierung.",
+          "clv_prozent": null,
+          "opening_quote": 1.85,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-27-pan-eng-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Nur 2 Tore (Bellingham 62. + Kane 67.) - England spielte kontrollierte 1. HZ. Goldgrube Ueber 2.5 verfehlt.",
+          "clv_prozent": null,
+          "opening_quote": 1.7,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-27-pan-eng-4",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.2,
+          "kommentar": "Bellingham traf 62. nach Saka-Eckenball ueber Mosquera. 10er-Position-INVERS-Falle GEBROCHEN.",
+          "clv_prozent": null,
+          "opening_quote": 3.2,
+          "closing_quote": null
+        }
+      ]
+    },
+    {
+      "id": "2026-06-27-cro-gha",
+      "liga": "FIFA World Cup 2026 - Gruppe L - Spieltag 3 (Decider)",
+      "heim": "Kroatien",
+      "gast": "Ghana",
+      "anstoss": "2026-06-27T23:00:00+02:00",
+      "stadion": "Lincoln Financial Field, Philadelphia (USA)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM-Gruppenphase Spieltag 3.",
+        "parallel_gast": "keine - WM-Gruppenphase Spieltag 3.",
+        "saisonziel_heim": "Gruppe L mit 3 Pkt (2:4 vs England, 1:0 vs Panama) auf Platz 3. Tordiff -2. MUSS Sieg gegen Ghana fuer Quali, Remis nur falls Best-3rd-Konstellation. Modric (200 Laenderspiele - Rekord) Captain + AC-Milan-Form.",
+        "saisonziel_gast": "Gruppe L mit 4 Pkt (1:0 vs Panama, 0:0 vs England) auf Platz 2. Tordiff -1. Remis reicht praktisch sicher fuer Quali (waeren 5 Pkt + Tordiff -1, das schlaegt Kroatien selbst bei Krocs-Sieg 1:0 nicht direkt - aber Quere-Vergleich offen). Queiroz-System defensiv-stabil.",
+        "motivations_asymmetrie": "Beide brauchen Punkte: Kroatien MUSS Sieg (sonst raus), Ghana KANN Remis spielen (waeren mit 5 Pkt sehr wahrscheinlich qualifiziert). Asymmetrie: Kroatien-MUSS-Sieg-Druck = oeffnet hinten, Ghana taktisch defensiv-Konter erwartet. Queiroz mit Defensiv-Erfahrung wird tief stehen lassen.",
+        "recovery_heim": "Spieltag 2 am 24.06. (1:0 vs Panama) - 3 Tage Pause. Modric fit (Standard-Captain).",
+        "recovery_gast": "Spieltag 2 am 23.06. (0:0 vs England) - 4 Tage Pause. Defensiv-Block intakt.",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+          "https://www.skysports.com/football/news/12098/13543108/world-cup-2026-group-l-guide-fixtures-schedule-standings-and-odds-for-england-croatia-ghana-and-panama",
+          "https://www.espn.com/soccer/story/_/id/49172894/fifa-world-cup-2026-croatia-vs-ghana-tv-channel-how-watch-kickoff-live-stream-injury-predicted-lineups",
+          "https://onefootball.com/en/news/croatia-vs-ghana-prediction-world-cup-2026-preview-best-bets-43050631",
+          "https://www.squawka.com/us/news/world-cup/match-preview-croatia-vs-ghana-06-27-26-world-cup-2026/",
+          "https://www.juvefc.com/croatia-v-ghana-predictions/"
+        ]
+      },
+      "news": [
+        "Kroatien MUSS-Sieg-Modus - Sieg = sicher durch, Remis/Niederlage = Aus.",
+        "Ghana kann mit Remis qualifizieren (5 Pkt + Tordiff -1 schlaegt KRO selbst bei knappem Sieg).",
+        "Modric mit 200 Laenderspielen kroatischer Rekord erreicht - Motivations-Highlight.",
+        "Queiroz (Iran-WM-Erfahrung) erwartet defensiv-tief mit Konter-Plan.",
+        "bet365 erwartet: KRO ~1.80 / Draw ~3.25 / GHA ~5.50 - klare KRO-Favorit-Quote."
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Kroatien Sieg",
+          "quote": 1.8,
+          "edge_prozent": 4.0,
+          "empfohlener_einsatz_euro": 5.5,
+          "empfohlener_einsatz_prozent": 1.0,
+          "begruendung": "MUSS-Sieg-Druck + Klassen-Edge real (Modric/Kovacic/Perisic vs Ghana-Mittelfeld). 2:0-Insurance bei WM-Sieg-Tipps absichert: bei klarem 2:0-Polster Tipp safe selbst bei spaetem Ghana-Anschluss. Per Lesson 18.06 max VALUE (kein SAFE - Coinflip-Risiko durch Ghana-Defensiv-Block). Quote 1.80 = 56% implied vs faire ~58%.",
+          "reality_check": "MUSS-Sieg-Druck + 2:0-Insurance + Klassen-Edge. Risiko: Ghana-Defensiv-Block + Konter. VALUE angemessen.",
+          "faire_quote": 1.72
+        },
+        {
+          "kategorie": "value",
+          "markt": "Doppelte Chance Kroatien oder Remis (1X)",
+          "quote": 1.2,
+          "edge_prozent": 5.0,
+          "empfohlener_einsatz_euro": 5.5,
+          "empfohlener_einsatz_prozent": 1.0,
+          "begruendung": "Markt-Goldgrube DC 1X (80% / +2.2% ROI). Klassen-Edge real - Kroatien sehr wahrscheinlich kein Niederlage-Risiko. Ghana wird tief stehen + auf Remis hin spielen. Per Schema-Mapper-Hebel-M: max 1 DC pro Spiel - dieser DC-Tipp ist der eine. Per Hebel-C: WM-Spieltag-3 nicht in liga_goldgruben.json -> SAFE-DC wuerde downgraded auf VALUE, deshalb direkt VALUE gesetzt. Quote 1.20 = 83% implied vs faire ~88%.",
+          "reality_check": "DC 1X Goldgrube + Klassen-Edge + Ghana-Remis-Spielanlage. Solider VALUE.",
+          "faire_quote": 1.14
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Andrej Kramaric trifft jederzeit",
+          "quote": 3.4,
+          "edge_prozent": 7.0,
+          "empfohlener_einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Markt-Goldgrube 'Torschuetzen Jederzeit' (+21.3% ROI). Kramaric Hoffenheim-Bundesliga-Top-Stuermer + Standard-9er Kroatien. CLAUDE.md HEIM-FAVORIT-PFLICHT (Quote 1.80 - knapp ueber Grenze, trotzdem Torschuetzen-Tipp). Einwechslungs-Boost: Ersatzstuermer (Petkovic) zaehlt fuer Kramaric. Quote 3.40 = 29% implied vs faire ~31%.",
+          "reality_check": "Goldgrube + 9er-Position + Einwechslungs-Boost. WACKEL wegen Quote-Hoehe + Ghana-Defensiv-Block.",
+          "faire_quote": 3.2
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.95,
+          "edge_prozent": 5.0,
+          "empfohlener_einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Markt-Goldgrube 'Unter 2.5 Tore' (61.9% / +23.1% ROI). Ghana defensiv-tief erwartet + Kroatien-Tempo bei MUSS-Sieg-Druck nicht immer torreich. Beide Spiele bisher ohne offensive Bombe (CRO 3:4 Tordiff, GHA 1:1 Tordiff). Quote 1.95 = 51% implied vs faire ~54%.",
+          "reality_check": "Unter 2.5 Goldgrube + Spielanlage. WACKEL wegen MUSS-Sieg-Druck (Kroatien koennte trotzdem ueberperformen).",
+          "faire_quote": 1.85
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 2,
+        "gast": 1,
+        "endstand": "2:1",
+        "kommentar": "Kroatien 2:1 Ghana - Sucic 31. (Distanz), Luckassen 73. (Ausgleich), Vlasic 83. Kopfball nach Modric-Ecke. Kroatien Platz 2 Gruppe L, Ghana raus."
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "2:1",
+        "tore": [
+          {
+            "min": 31,
+            "team": "heim",
+            "spieler": "Sucic",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 73,
+            "team": "gast",
+            "spieler": "Luckassen",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 83,
+            "team": "heim",
+            "spieler": "Vlasic",
+            "stand_danach": "2:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Drehung im Sinne des Algorithmus (Differenz nie >= 2 Tore). Ghana glich 73. aus, Kroatien-Sieg via Vlasic-Kopfball 83. - Modric-Vorlage. MUSS-Sieg-Druck setzte sich spaet durch."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Kroatien/Kroatien",
+          "kein_team_zu_null": true,
+          "siegtor_in_letzten_15min": true,
+          "ausgleich_in_letzten_15min": false,
+          "fruehes_tor_unter_10min": false,
+          "spaetes_tor_ab_80min": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Vlasic",
+            "aus": "Kramaric",
+            "minute": "~70",
+            "tor": true,
+            "tor_minute": 83,
+            "details": "Vlasic kam fuer Kramaric rein (typische Standard-Wechsel-Kette CRO) und traf 83. via Modric-Ecken-Kopfball. Boost-Trigger aktiv: Kramaric-Torschuetzen-Tipp gilt via Einwechslungs-Boost (CLAUDE.md: Tor von Ersatz Y zaehlt fuer X)."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Modric als Captain mit Vorlage zum Siegtor - Karriere-Highlight 200. Laenderspiel beendet mit Vorlage zum Siegtor.",
+          "Spaetes Tor 83. = Late-Goal-Cluster (Lesson 06.18/19) erneut validiert.",
+          "DC 1X Goldgrube + Sieg-Tipp gleichzeitig durch - doppelte Goldgrube-Validierung MD3-Coinflip.",
+          "Einwechslungs-Boost rettet Kramaric-Tipp via Vlasic - Lesson 06.16 'Einwechslungs-Boost-INVERS-Falle' Re-Re-Validation (Boost greift bei Tipp-Spieler-Auswechslung)."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-06-27-cro-gha-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.8,
+          "kommentar": "Kroatien 2:1 dank Vlasic-Kopfball 83. - MUSS-Sieg-Druck setzte sich spaet durch.",
+          "clv_prozent": null,
+          "opening_quote": 1.8,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-27-cro-gha-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.2,
+          "kommentar": "Kroatien-Sieg = DC 1X automatisch durch. Goldgrube-Validierung.",
+          "clv_prozent": null,
+          "opening_quote": 1.2,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-27-cro-gha-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.4,
+          "kommentar": "Einwechslungs-Boost: Vlasic kam fuer Kramaric (~70.) rein und traf 83. - per CLAUDE.md zaehlt Tor von Ersatz Y fuer Tipp-Spieler X. Lesson 06.16/2105 Boost-Trigger.",
+          "clv_prozent": null,
+          "opening_quote": 3.4,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-27-cro-gha-4",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "3 Tore (Sucic 31., Luckassen 73., Vlasic 83.) - MUSS-Sieg-Druck Kroatien uebersteuerte Defensiv-These. Goldgrube Unter 2.5 verfehlt.",
+          "clv_prozent": null,
+          "opening_quote": 1.95,
+          "closing_quote": null
+        }
+      ]
+    },
+    {
+      "id": "2026-06-28-col-por",
+      "liga": "FIFA World Cup 2026 - Gruppe K - Spieltag 3 (Gruppensieg-Duell)",
+      "heim": "Kolumbien",
+      "gast": "Portugal",
+      "anstoss": "2026-06-28T01:30:00+02:00",
+      "stadion": "Hard Rock Stadium, Miami (USA)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM-Gruppenphase Spieltag 3.",
+        "parallel_gast": "keine - WM-Gruppenphase Spieltag 3. Liga Portugal in Pause.",
+        "saisonziel_heim": "Gruppe K Tabellenfuehrer mit 6 Pkt (3:1 vs Usbekistan, 1:0 vs DR Kongo) + Tordiff +3. Sieg = Gruppensieg fix. Defensiv-stark (nur 1 Gegentor). Diaz/Munoz/James Rodriguez als Offensiv-Trio.",
+        "saisonziel_gast": "Gruppe K Platz 2 mit 4 Pkt (1:1 vs DR Kongo, 5:0 vs Usbekistan) + Tordiff +5. Sieg = Gruppensieg + bessere Bracket. Achtelfinale durch wegen Tordiff-Vorteil. Ronaldo 2 Tore vs Usbekistan.",
+        "motivations_asymmetrie": "Beide qualifiziert - geht um Gruppensieg + Bracket. Portugal mit leichter Form-Edge (5:0 vs Usbekistan), Kolumbien defensiv-stabiler. Realistisch Coinflip mit leichtem Portugal-Klassen-Edge (Top-Liga-Roster). Lesson 18.06 Dead-Rubber-Rotation-Risiko: beide koennten Stammspieler schonen vor R32. Per Lesson 03.05 (BMG-BVB-Lesson): wenn Selbst-Bezeichnung 'eher 50/50' -> KEIN SAFE.",
+        "recovery_heim": "Spieltag 2 am 23.06. (1:0 vs DR Kongo) - 4 Tage Pause.",
+        "recovery_gast": "Spieltag 2 am 23.06. (5:0 vs Usbekistan) - 4 Tage Pause. Ronaldo 40 Jahre alt - Rotations-Risiko erhoeht.",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+          "https://onefootball.com/en/news/colombia-vs-portugal-prediction-world-cup-2026-preview-best-bets-43050915",
+          "https://www.juvefc.com/colombia-v-portugal-predictions/",
+          "https://worldcup-2026.bet/en/match/colombia-vs-portugal/",
+          "https://sports.betmgm.com/en/blog/world-cup/colombia-vs-portugal-prediction-odds-preview-world-cup-june-27-bm16/"
+        ]
+      },
+      "news": [
+        "Beide qualifiziert - Spiel um Gruppensieg + R32-Bracket-Route.",
+        "Portugal Tordiff-Vorsprung +5 vs +3 - Tordiff-Schlacht moeglich aber unwahrscheinlich (beide werden rotieren).",
+        "Ronaldo 2 Tore vs Usbekistan, mit 40 Jahren noch Hauptangreifer.",
+        "Kolumbien defensiv-stark: nur 1 Gegentor in 2 Spielen.",
+        "bet365 erwartet: POR ~2.06 / Draw ~3.17 / COL ~3.41 - leichter POR-Favorit, Coinflip-naehe."
+      ],
+      "tipps": [
+        {
+          "kategorie": "wackel",
+          "markt": "Cristiano Ronaldo trifft jederzeit",
+          "quote": 2.3,
+          "edge_prozent": 6.5,
+          "empfohlener_einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Markt-Goldgrube 'Torschuetzen Jederzeit' (+21.3% ROI). CR7 traf vs Usbekistan Doppelpack, ist Standard-9er Portugal + nimmt alle Standardsituationen. Rotations-Risiko erhoeht (40 Jahre + schon durch). Einwechslungs-Boost: Ersatzstuermer (Felix/Ramos) zaehlen fuer CR7. Quote 2.30 = 43% implied vs faire ~46%.",
+          "reality_check": "Goldgrube + 9er-Position + Einwechslungs-Boost. WACKEL wegen Rotations-Risiko (40 Jahre + Quali durch).",
+          "faire_quote": 2.18
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen - Ja",
+          "quote": 1.95,
+          "edge_prozent": 5.0,
+          "empfohlener_einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Beide Teams haben qualitativ Stuermer-Klasse (Diaz/Munoz vs Ronaldo/Leao). Spielanlage offen weil Gruppensieg-Duell. BTTS-Edge bei Top-Team-Duellen historisch solide. Quote 1.95 = 51% implied vs faire ~54%. Risiko: Kolumbien-Defensiv-Block + Portugal-Rotation koennte Tor-Aktivitaet senken.",
+          "reality_check": "BTTS-Spielanlage gut bei zwei qualifizierten Top-Teams. WACKEL wegen Doppel-Rotations-Risiko.",
+          "faire_quote": 1.85
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Ueber 1.5 Tore",
+          "quote": 1.3,
+          "edge_prozent": 4.0,
+          "empfohlener_einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Sehr sicherer Tor-Markt (Goldgrube-naehe). 2 Top-Teams die noch ein Tor brauchen fuer Gruppensieg-Vorsprung. Quote 1.30 = 77% implied vs faire ~80%. WACKEL wegen Coinflip-Spiel-Regel (CLAUDE.md): kein SAFE in Coinflip-Spielen.",
+          "reality_check": "Sehr hohe Ueber-1.5-Quote ist Standard - solider Polster-Tipp. WACKEL nach Coinflip-Spiel-Regel.",
+          "faire_quote": 1.25
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 0,
+        "gast": 0,
+        "endstand": "0:0",
+        "kommentar": "Kolumbien 0:0 Portugal - Ronaldo-Freistoss-Chance HZ von Vargas pariert. Halbzeit-Subs Portugal (Dalot/J. Neves rein fuer Cancelo/R. Neves). Kein Tor das ganze Spiel. Kolumbien Gruppensieg Gruppe K, Portugal Platz 2."
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "0:0",
+        "tore": [],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Kein Tor das ganze Spiel - keine Drehung moeglich. Beide Teams qualifiziert, niedrige Intensitaet - Coinflip-Annahme zur passiven Spielweise vollumfaenglich realisiert."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Unentschieden",
+          "kein_team_zu_null": false,
+          "siegtor_in_letzten_15min": false,
+          "ausgleich_in_letzten_15min": false,
+          "fruehes_tor_unter_10min": false,
+          "spaetes_tor_ab_80min": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Cancelo+R.Neves",
+            "details": "Beide HZ raus fuer Dalot/J. Neves - Portugal-Halbzeit-Rotation zur Schonung vor R32."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Dead-Rubber-Pattern (beide bereits qualifiziert) -> 0:0-Igel. Klassen-Edge-Top-Team-Duell mit Saiba-Rotation. Sehr nahe an WM-Eroeffnungs-Unter-2.5-Pattern (Lesson 13.06).",
+          "BTTS-NEIN + Ueber 1.5 BUST: Top-Team-Duell mit Doppel-Rotation = niedrige Tor-Aktivitaet. Lesson-Material 'COL-POR-Dead-Rubber-Top-Team-Duell'.",
+          "Ronaldo-Tipp BUST: 40 Jahre + Vargas-Parade. Standardsituation existierte, aber 40-Jahre-Standard-Schuetzen-Reliance riskant in K.O.-Naehe-Spiel.",
+          "Vargas (COL-GK) mit Ronaldo-Freistoss-Parade als Schluessel-Szene - GK-MOM-Pattern (Lesson 06.22 Cluster) bei Top-Team-Duellen erneut."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-06-28-col-por-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "0 Tore CR7 - Vargas parierte Ronaldo-Freistoss in 1. HZ. 40-Jahre-Reliance-Risiko realisiert.",
+          "clv_prozent": null,
+          "opening_quote": 2.3,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-28-col-por-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "0:0 Endstand - keine Tore. Dead-Rubber-Top-Team-Duell mit Doppel-Rotation.",
+          "clv_prozent": null,
+          "opening_quote": 1.95,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-28-col-por-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "0 Tore - Polster-Tipp brutal verfehlt. 'Sehr sicher'-These widerlegt durch Dead-Rubber-Igel.",
+          "clv_prozent": null,
+          "opening_quote": 1.3,
+          "closing_quote": null
+        }
+      ]
+    },
+    {
+      "id": "2026-06-28-cod-uzb",
+      "liga": "FIFA World Cup 2026 - Gruppe K - Spieltag 3",
+      "heim": "DR Kongo",
+      "gast": "Usbekistan",
+      "anstoss": "2026-06-28T01:30:00+02:00",
+      "stadion": "Mercedes-Benz Stadium, Atlanta (USA)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM-Gruppenphase Spieltag 3.",
+        "parallel_gast": "keine - WM-Gruppenphase Spieltag 3.",
+        "saisonziel_heim": "Gruppe K mit 1 Pkt (1:1 vs Portugal, 0:1 vs Kolumbien) - Tordiff -1. Bei Sieg theoretisch 4 Pkt + Best-3rd-Hoffnung. Kollektives Spielsystem ohne Top-5-Liga-Stuermer (Wissa Brentford-Mitlaeufer + Cuipers Vereinsspieler).",
+        "saisonziel_gast": "Gruppe K mit 0 Pkt (1:3 vs Kolumbien, 0:5 vs Portugal) - Tordiff -7 bereits eliminiert. Spielt fuer Stolz/Erfahrung. WM-Debuetant.",
+        "motivations_asymmetrie": "DR Kongo MUSS-Sieg-Modus + realer Best-3rd-Anspruch. Usbekistan eliminiert + Defensiv-Crash gegen Portugal (0:5) verschoben Klassen-Realitaet. Klassen-Edge eher DRC, aber kein dominanter (beide Underdog-Klasse-Niveau). Coinflip-naehe per CLAUDE.md: alle 1X2-Quoten 2.35-3.75 = Coinflip -> KEIN SAFE.",
+        "recovery_heim": "Spieltag 2 am 23.06. (0:1 vs Kolumbien) - 4 Tage Pause.",
+        "recovery_gast": "Spieltag 2 am 23.06. (0:5 vs Portugal) - 4 Tage Pause. Moral-Knick nach 5:0-Klatsche.",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+          "https://www.espn.com/soccer/odds/_/gameId/760482",
+          "https://onefootball.com/en/news/dr-congo-vs-uzbekistan-prediction-world-cup-2026-preview-best-bets-43050632",
+          "https://www.wincomparator.com/predictions/dr-congo-uzbekistan-7937438/",
+          "https://www.kickoff.co.uk/world-cup-predictions-stats-odds/congo-dr-vs-uzbekistan/"
+        ]
+      },
+      "news": [
+        "DR Kongo MUSS-Sieg + Best-3rd-Hoffnung - Volle Motivation.",
+        "Usbekistan eliminiert nach 0:5 vs Portugal - Moral-Knick + Rotations-moeglich.",
+        "Beide ohne Top-5-Liga-Sturm-Klasse - klassische Underdog-Klasse-Niveau-Spiel.",
+        "Prognosen: 53% Wahrscheinlichkeit Unter 2.5 Tore - defensive Spielanlage.",
+        "bet365 erwartet: COD ~2.35 / Draw ~3.75 / UZB ~3.50 - leicht DRC-Favorit, Coinflip."
+      ],
+      "tipps": [
+        {
+          "kategorie": "wackel",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.73,
+          "edge_prozent": 8.0,
+          "empfohlener_einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Markt-Goldgrube 'Unter 2.5 Tore' (61.9% / +23.1% ROI). Beide ohne Top-Sturm-Klasse + Usbekistan ohne Quali-Motivation + DRC mit defensiver Disziplin (nur 2 Gegentore in 2 Spielen, davon eines gegen Portugal). 53% implied Unter-Wahrscheinlichkeit per Predictor. Quote 1.73 = 58% implied vs faire ~63%.",
+          "reality_check": "Unter 2.5 Goldgrube + Spielanlage-Profil + Klassen-Niveau. Solider WACKEL (Coinflip-Spiel-Regel - kein SAFE).",
+          "faire_quote": 1.59
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "DR Kongo Sieg",
+          "quote": 2.35,
+          "edge_prozent": 5.5,
+          "empfohlener_einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "MUSS-Sieg-Druck + bessere Spiel-Substanz (1:1 vs Portugal vs UZB 0:5 vs Portugal). Usbekistan-Moral-Knick + ohne Quali-Motivation. 2:0-Insurance gilt fuer WM-Sieg-Tipps. Coinflip-Spiel-Regel = WACKEL Maximum. Quote 2.35 = 43% implied vs faire ~46%.",
+          "reality_check": "Klassen-Edge real + Motivations-Edge real. WACKEL wegen Coinflip-Klassen-Niveau.",
+          "faire_quote": 2.2
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 3,
+        "gast": 1,
+        "endstand": "3:1",
+        "kommentar": "DR Kongo 3:1 Usbekistan - Shomurodov 10. Lupfer, Wissa 68. Elfmeter, Mayele 78. (Sub, Elia-Vorlage), Wissa 90+1. Comeback aus 0:1-Halbzeit-Rueckstand. DRC dank Sieg ins Achtelfinale als Best-Third (gegen England). HZ 0:1."
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "3:1",
+        "tore": [
+          {
+            "min": 10,
+            "team": "gast",
+            "spieler": "Shomurodov",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 68,
+            "team": "heim",
+            "spieler": "Wissa (Elfmeter)",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 78,
+            "team": "heim",
+            "spieler": "Mayele (Sub, Elia-Vorlage)",
+            "stand_danach": "2:1"
+          },
+          {
+            "min": "90+1",
+            "team": "heim",
+            "spieler": "Wissa",
+            "stand_danach": "3:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Differenz max 1 Tor in beide Richtungen (0:1 Halbzeit, dann 1:1, 2:1, 3:1). Klassisches Comeback aus Rueckstand ohne 2-Tore-Vorsprung-Drehung."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Usbekistan/DR Kongo",
+          "kein_team_zu_null": true,
+          "siegtor_in_letzten_15min": false,
+          "ausgleich_in_letzten_15min": false,
+          "fruehes_tor_unter_10min": false,
+          "spaetes_tor_ab_80min": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Mayele",
+            "aus": "(Wissa-Vorgaenger nicht hart bestaetigt)",
+            "minute": "~60",
+            "tor": true,
+            "tor_minute": 78,
+            "details": "Mayele kam als Sub und traf 78. via Elia-Vorlage (auch Sub). Wenn Mayele direkter Ersatz fuer Wissa gewesen waere, waere Wissa-Tipp doppelt durch - aber Wissa traf selbst (68. + 90+1). Kein Tipp auf Mayele/Wissa explizit."
+          }
+        ],
+        "auffaellige_patterns": [
+          "MUSS-Sieg-Druck COD setzte sich nach 0:1-Rueckstand brutal durch - 3 Tore in 22 Minuten (68-90+1). Comeback-Pattern Underdog-Klassen-Spiel.",
+          "Sub-Doppel-Kombi (Elia + Mayele) als Spiel-Entscheider - Boost-Trigger ohne Tipp (Lesson 06.21 'Boost-Trigger ohne Tipp aktiv').",
+          "Unter 2.5 + Unter 3.5 alle BUST trotz 'beide ohne Top-Sturm-Klasse'-These - These widerlegt durch MUSS-Sieg-Druck-Kompensation. Lesson-Material 'MUSS-Sieg-Druck-Underdog-uebersteuert-Klassen-Niveau-Tor-Defizit'.",
+          "Wissa als Klassen-Edge-Backup-9er traf doppelt + Mayele Sub - bestaetigt 'Klassen-Edge-Sieg-Goldgrube'-Validierung Underdog-Variante."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-06-28-cod-uzb-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "4 Tore (Shomurodov + Wissa 2x + Mayele) - MUSS-Sieg-Druck COD uebersteuerte Defensiv-These. Goldgrube Unter 2.5 verfehlt.",
+          "clv_prozent": null,
+          "opening_quote": 1.73,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-28-cod-uzb-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.35,
+          "kommentar": "3:1 Comeback aus 0:1-Halbzeit-Rueckstand. MUSS-Sieg-Druck + Wissa-Doppelpack + Mayele-Sub-Tor.",
+          "clv_prozent": null,
+          "opening_quote": 2.35,
+          "closing_quote": null
+        }
+      ]
+    },
+    {
+      "id": "2026-06-28-jor-arg",
+      "liga": "FIFA World Cup 2026 - Gruppe J - Spieltag 3",
+      "heim": "Jordanien",
+      "gast": "Argentinien",
+      "anstoss": "2026-06-28T04:00:00+02:00",
+      "stadion": "AT&T Stadium, Dallas (USA, Hitze indoor)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM-Gruppenphase Spieltag 3.",
+        "parallel_gast": "keine - WM-Gruppenphase Spieltag 3.",
+        "saisonziel_heim": "Gruppe J mit 0 Pkt (1:3 vs Oesterreich, 1:2 vs Algerien) bereits eliminiert. WM-Debuetant - spielt fuer Stolz und Highlights.",
+        "saisonziel_gast": "Gruppe J Tabellenfuehrer mit 6 Pkt (3:0 vs Algerien, 2:0 vs Oesterreich) + Tordiff +5. Schon Gruppensieger fix. Achtelfinale durch. Messi mit 5 WM-Toren in 2 Spielen aktuell. Rotation moeglich (Lautaro Martinez als Backup-Top-Scorer).",
+        "motivations_asymmetrie": "Maximale Asymmetrie: Argentinien schon durch + Gruppensieg fix -> Scaloni-Rotation hoechst wahrscheinlich (Messi-Pause moeglich, Lautaro-Sturm), Jordanien eliminiert + Klassen-Underdog. Klassen-Edge massiv aber Rotations-Risiko deckelt Quote. Per Lesson 03.05 'Top-Team-Rotation' max VALUE-Sieg (kein SAFE-Sieg), Markt-Goldgruben (Torschuetzen + Ueber 2.5) bleiben legitim.",
+        "recovery_heim": "Spieltag 2 am 22.06. (1:2 vs Algerien) - 5 Tage Pause.",
+        "recovery_gast": "Spieltag 2 am 22.06. (2:0 vs Oesterreich) - 5 Tage Pause. Messi fit + Hochform (5 Tore), Lautaro fit.",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+          "https://www.juvefc.com/jordan-v-argentina-predictions/",
+          "https://sports.yahoo.com/articles/jordan-vs-argentina-prediction-world-102500416.html",
+          "https://sports.betmgm.com/en/blog/world-cup/argentina-vs-jordan-prediction-odds-preview-world-cup-june-27-bm16/",
+          "https://thesportsrush.com/jordan-v-argentina-predictions/",
+          "https://onefootball.com/en/news/jordan-vs-argentina-prediction-world-cup-2026-preview-best-bets-43051114"
+        ]
+      },
+      "news": [
+        "Argentinien schon Gruppensieger + Achtelfinale durch - Scaloni-Rotation extrem wahrscheinlich.",
+        "Messi 5 Tore in 2 Spielen aktuell - Rotations-Kandidat #1.",
+        "Lautaro Martinez Backup-Top-9er - mit Klassen-Edge auch ohne Messi.",
+        "Jordanien WM-Debuetant + 0 Pkt - eliminiert.",
+        "AT&T Stadium Dallas: Hitze indoor (klimatisiert) - kein klimatischer Nachteil.",
+        "bet365 erwartet: ARG ~1.20 / Draw ~7.00 / JOR ~16.00 - massive Klassen-Quote, aber Rotation deckelt."
+      ],
+      "tipps": [
+        {
+          "kategorie": "safe",
+          "markt": "Argentinien Sieg",
+          "quote": 1.2,
+          "edge_prozent": 4.0,
+          "empfohlener_einsatz_euro": 11.0,
+          "empfohlener_einsatz_prozent": 2.0,
+          "begruendung": "Massivste Klassen-Edge der Vorschau (Top-1-FIFA-Ranking vs WM-Debuetant 169-Welt). 2:0-Insurance bei WM-Sieg-Tipps absichert weiter: selbst bei totaler Rotation reicht Sturm-B-Aufgebot fuer 2:0-Polster. Argentinien-Bilanz Sieg-Tipps aus statistik.json positiv. Quote 1.20 = 83% implied vs faire ~87%. Trotz Rotations-Risiko ist Klassen-Edge so gross dass SAFE legitim - Quote ist schon stark gedeckelt.",
+          "reality_check": "Klassen-Edge + 2:0-Insurance + Quote-Niveau-Sicherheit. Rotations-Risiko bereits in der Quote eingepreist.",
+          "faire_quote": 1.15
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Lautaro Martinez trifft jederzeit",
+          "quote": 2.1,
+          "edge_prozent": 9.5,
+          "empfohlener_einsatz_euro": 5.5,
+          "empfohlener_einsatz_prozent": 1.0,
+          "begruendung": "Markt-Goldgrube 'Torschuetzen Jederzeit' (+21.3% ROI). STAR-AUSFALL-BACKUP-PFLICHT per CLAUDE.md: bei wahrscheinlicher Messi-Rotation = Lautaro Top-9er + alle Standardsituationen. Inter-Mailand-Form-Stuermer. Argentinien-Quote 1.20 = HEIM-FAVORIT-PFLICHT-Torschuetzen-Tipp. Einwechslungs-Boost: bei Lautaro-Wechsel zaehlt Julian Alvarez (Ersatz) fuer Lautaro. Quote 2.10 = 48% implied vs faire ~52%. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "reality_check": "Backup-Pflicht + Goldgrube + Einwechslungs-Boost. Sehr solider VALUE.",
+          "faire_quote": 1.92,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.65,
+          "edge_prozent": 9.0,
+          "empfohlener_einsatz_euro": 5.5,
+          "empfohlener_einsatz_prozent": 1.0,
+          "begruendung": "Markt-Goldgrube 'Ueber 2.5 Tore' (+32.9% ROI). Argentinien 5 Tore in 2 Spielen + Jordanien 5 zugelassen in 2 Spielen. Argentinien-Sturm-Pool tief (Messi/Lautaro/Alvarez/Dybala). Auch bei Rotation reicht Sturm-Pool. Quote 1.65 = 61% implied vs faire ~66%. Risiko: Argentinien spielt komplett ohne Druck und passiv (= Unter).",
+          "reality_check": "Ueber 2.5 Goldgrube + Argentinien-Sturm-Pool. VALUE solide.",
+          "faire_quote": 1.52
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Julian Alvarez trifft jederzeit",
+          "quote": 2.5,
+          "edge_prozent": 8.0,
+          "empfohlener_einsatz_euro": 5.5,
+          "empfohlener_einsatz_prozent": 1.0,
+          "begruendung": "Sekundaer-Torschuetzen-Goldgrube + STAR-AUSFALL-BACKUP-PFLICHT. Bei Messi-Rotation rueckt Alvarez (City-Top-Stuermer in Form) ins Sturm-Zentrum. Sehr aktive 9er-Position. Einwechslungs-Boost. Quote 2.50 = 40% implied vs faire ~43%. VALUE wegen Quote attraktiv + Goldgrube. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "reality_check": "Goldgrube + Backup-Pflicht + 9er-Position. Solider VALUE.",
+          "faire_quote": 2.32,
+          "_torschuetze_quelle_warn": true
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 1,
+        "gast": 3,
+        "endstand": "1:3",
+        "kommentar": "Argentinien 3:1 Jordanien - Lo Celso 19. Freistoss, Lautaro 31. Elfmeter, Al-Tamari 55. (JOR), Messi 80. Freistoss (18. WM-Tor + Rekord 7 Spiele in Folge mit Tor). HZ 0:2. ARG Gruppensieger, Jordanien raus."
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "0:2",
+        "endstand": "1:3",
+        "tore": [
+          {
+            "min": 19,
+            "team": "gast",
+            "spieler": "Lo Celso (Freistoss)",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 31,
+            "team": "gast",
+            "spieler": "Lautaro Martinez (Elfmeter)",
+            "stand_danach": "0:2"
+          },
+          {
+            "min": 55,
+            "team": "heim",
+            "spieler": "Al-Tamari",
+            "stand_danach": "1:2"
+          },
+          {
+            "min": 80,
+            "team": "gast",
+            "spieler": "Messi (Freistoss)",
+            "stand_danach": "1:3"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Argentinien 0:2 zur HZ, Jordanien Anschluss 55. zum 1:2, dann Messi 1:3. Keine Drehung im 2-Tore-Vorsprung-Sinne. 2:0-Insurance fuer ARG-Sieg-Tipp greift bei HZ 0:2 (Polster fuer Sicherheit) - praktisch unnoetig (ARG gewann durch)."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Argentinien/Argentinien",
+          "kein_team_zu_null": false,
+          "siegtor_in_letzten_15min": false,
+          "ausgleich_in_letzten_15min": false,
+          "fruehes_tor_unter_10min": false,
+          "spaetes_tor_ab_80min": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Messi",
+            "details": "Trotz Rotations-These spielte Messi + traf 80. Freistoss (18. WM-Tor + Rekord 7 Spiele in Folge mit Tor). Scaloni-Rotation begrenzt - Lo Celso statt Messi auf Freistoss-Schiene war Form-Edge-Falle."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Messi-WM-Tor-Rekord-Bestaetigung (18) + 7-Spiele-in-Folge-Tor-Rekord. Karriere-Highlight-INVERS Lesson 06.18 erneut GEBROCHEN: Messi traf trotz Karriere-Highlight-Status. INVERS-These weiter widerlegt.",
+          "Lo Celso als 10er traf Freistoss-Tor (1. Tor!) - 10er-Position-INVERSE-Falle (Lesson 06.15) GEBROCHEN in zweitem Spiel hintereinander (Bellingham PAN-ENG, Lo Celso JOR-ARG).",
+          "Klassen-Edge SAFE @ 1.20 + Ueber 2.5 Goldgrube @ 1.65 + Lautaro Backup-Pflicht @ 2.10 alle 3 durch - Goldgrube-Triple-Hit-Cluster (Lesson 06.15).",
+          "Julian Alvarez Sekundaer-Tipp BUST - Sturm-Tiefe-Pool nicht angesprochen. Lesson-Material 'Sekundaer-Volume-Star-vs-Primaer-Volume-Star-Pflicht-Backup'."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-06-28-jor-arg-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.2,
+          "kommentar": "ARG 3:1 - Klassen-Edge clean. HZ 0:2-Polster 2:0-Insurance praktisch unnoetig, Sieg ohnehin durch.",
+          "clv_prozent": null,
+          "opening_quote": 1.2,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-28-jor-arg-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.1,
+          "kommentar": "Lautaro Elfmeter 31. - Backup-Pflicht-These voll durch trotz Messi-Spielen.",
+          "clv_prozent": null,
+          "opening_quote": 2.1,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-28-jor-arg-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.65,
+          "kommentar": "4 Tore - Sturm-Pool ARG (Lo Celso/Lautaro/Messi) durch. Goldgrube Ueber 2.5 validiert.",
+          "clv_prozent": null,
+          "opening_quote": 1.65,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-28-jor-arg-4",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Alvarez 0 Tore - andere Schuetzen (Lo Celso/Lautaro/Messi). Sekundaer-Pool nicht aktiv.",
+          "clv_prozent": null,
+          "opening_quote": 2.5,
+          "closing_quote": null
+        }
+      ]
+    },
+    {
+      "id": "2026-06-28-alg-aut",
+      "liga": "FIFA World Cup 2026 - Gruppe J - Spieltag 3 (Decider)",
+      "heim": "Algerien",
+      "gast": "Oesterreich",
+      "anstoss": "2026-06-28T04:00:00+02:00",
+      "stadion": "Arrowhead Stadium, Kansas City (USA, Mittel-Hitze Sommer)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM-Gruppenphase Spieltag 3.",
+        "parallel_gast": "keine - WM-Gruppenphase Spieltag 3.",
+        "saisonziel_heim": "Gruppe J mit 3 Pkt (0:3 vs Argentinien, 2:1 vs Jordanien) - Tordiff 0. MUSS Sieg fuer Quali (Remis wuerde reichen falls Best-3rd-Konstellation, aber Tordiff-Vorteil bei Oesterreich -> AUT prozedural durch).",
+        "saisonziel_gast": "Gruppe J mit 3 Pkt (3:1 vs Jordanien, 0:2 vs Argentinien) - Tordiff +1. Tordiff-Vorteil gegenueber Algerien. Remis reicht praktisch sicher fuer Quali (5 Pkt + Tordiff +1 schlaegt ALG bei Patt). Sabitzer/Laimer/Alaba Klasse-Edge real.",
+        "motivations_asymmetrie": "Asymmetrie subtil: Oesterreich KANN Remis spielen (Quali praktisch sicher), Algerien MUSS Sieg (Tordiff-Defizit). Klassen-Edge Oesterreich real (Bayern-Munich-Trio Sabitzer/Laimer + Alaba Real Madrid), aber Algerien-Druck deckelt. Coinflip-naehe per CLAUDE.md (Quoten AUT 2.75 / Draw 2.25 / ALG 4.00 - alle 2.20-4.00). KEIN SAFE in Coinflip-Spielen.",
+        "recovery_heim": "Spieltag 2 am 22.06. (2:1 vs Jordanien) - 5 Tage Pause.",
+        "recovery_gast": "Spieltag 2 am 22.06. (0:2 vs Argentinien) - 5 Tage Pause. Sabitzer/Laimer/Alaba fit.",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+          "https://www.espn.com/soccer/odds/_/gameId/760484",
+          "https://onefootball.com/en/news/algeria-vs-austria-prediction-world-cup-2026-preview-best-bets-43050708",
+          "https://thesportsrush.com/algeria-v-austria-predictions/",
+          "https://www.juvefc.com/algeria-v-austria-predictions/",
+          "https://www.oddschecker.com/us/soccer/world-cup/algeria-v-austria"
+        ]
+      },
+      "news": [
+        "Beide 3 Pkt - Oesterreich Tordiff +1, Algerien 0. AUT braucht nur Remis.",
+        "Oesterreich-Klassen-Edge mit Sabitzer/Laimer (Bayern) + Alaba (Real Madrid).",
+        "Algerien-MUSS-Sieg-Druck oeffnet hinten, AUT Konter-Profil ideal.",
+        "Arrowhead Stadium Kansas City: Mittel-Hitze Sommer (offen, sonnig).",
+        "bet365 erwartet: AUT ~2.75 / Draw ~2.25 / ALG ~4.00 - Coinflip-Quoten."
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Doppelte Chance Oesterreich oder Remis (X2)",
+          "quote": 1.4,
+          "edge_prozent": 7.0,
+          "empfohlener_einsatz_euro": 5.5,
+          "empfohlener_einsatz_prozent": 1.0,
+          "begruendung": "Markt-Goldgrube DC X2 (82.6% / +14.0% ROI - Top-Hitrate). Tordiff-Vorteil fuer AUT + Klassen-Edge real + Algerien-MUSS-Sieg-Druck-Oeffnung. AUT-Konter-Profil mit Sabitzer/Laimer ideal. Per Schema-Mapper-Hebel-M: max 1 DC pro Spiel - dieser ist der einzige DC. Per Hebel-C: WM-Spieltag-3 nicht in liga_goldgruben.json -> max VALUE statt SAFE. Quote 1.40 = 71% implied vs faire ~76%.",
+          "reality_check": "DC X2 Goldgrube + Klassen-Edge + Spielanlage. Solider VALUE.",
+          "faire_quote": 1.32
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Marko Arnautovic trifft jederzeit",
+          "quote": 3.6,
+          "edge_prozent": 6.0,
+          "empfohlener_einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Markt-Goldgrube 'Torschuetzen Jederzeit' (+21.3% ROI). Arnautovic Standard-9er Oesterreich + Routine-Torschuetze. Einwechslungs-Boost: Ersatzstuermer (Gregoritsch) zaehlt fuer Arnautovic. Coinflip-Spiel-Regel = max WACKEL. Quote 3.60 = 28% implied vs faire ~30%.",
+          "reality_check": "Goldgrube + 9er-Position + Einwechslungs-Boost. WACKEL angemessen wegen Coinflip + Quote.",
+          "faire_quote": 3.35
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen - Ja",
+          "quote": 1.85,
+          "edge_prozent": 5.0,
+          "empfohlener_einsatz_euro": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Algerien MUSS-Sieg-Druck oeffnet hinten -> Konter-Tor-Chance fuer AUT. Beide Sturm-Niveau ausreichend (ALG 2 Tore vs JOR, AUT 3 Tore vs JOR). Quote 1.85 = 54% implied vs faire ~57%. Risiko: Oesterreich rein defensiv-spielt + Algerien-Sturm-Klasse-Niveau insuffizient.",
+          "reality_check": "Spielanlage offen + Konter-Potential. WACKEL wegen taktischer AUT-Defensiv-Variante.",
+          "faire_quote": 1.75
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 3,
+        "gast": 3,
+        "endstand": "3:3",
+        "kommentar": "Algerien 3:3 Oesterreich - Arnautovic 28. (Alaba-Pass), Belghali 41. (Solo), HZ 1:1. Sabitzer 55., Mahrez 60. (Aouar-Vorlage), Mahrez 90+3 (2:3-Fuehrung!), Kalajdzic 90+5 Kopfball-Ausgleich. Beide ins Achtelfinale."
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "1:1",
+        "endstand": "3:3",
+        "tore": [
+          {
+            "min": 28,
+            "team": "gast",
+            "spieler": "Arnautovic (Alaba-Vorlage)",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 41,
+            "team": "heim",
+            "spieler": "Belghali (Solo)",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 55,
+            "team": "gast",
+            "spieler": "Sabitzer (Seiwald-Vorlage)",
+            "stand_danach": "1:2"
+          },
+          {
+            "min": 60,
+            "team": "heim",
+            "spieler": "Mahrez (Aouar-Vorlage)",
+            "stand_danach": "2:2"
+          },
+          {
+            "min": "90+3",
+            "team": "heim",
+            "spieler": "Mahrez",
+            "stand_danach": "3:2"
+          },
+          {
+            "min": "90+5",
+            "team": "gast",
+            "spieler": "Kalajdzic (Kopfball)",
+            "stand_danach": "3:3"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Differenz nie >= 2 Tore. Hoechst-Differenz 1-Tor-Phasen (0:1, 1:2, 2:3 jeweils ALG kam zurueck) - Algerien drehte spaet 2:2 -> 3:2 dann Kalajdzic-Stoppage-Time-Equalizer. Klassischer Doppel-Ende-Drama ohne 2:0-Insurance-Trigger."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": true,
+          "halbzeit_endstand": "Unentschieden/Unentschieden",
+          "kein_team_zu_null": false,
+          "siegtor_in_letzten_15min": true,
+          "ausgleich_in_letzten_15min": true,
+          "fruehes_tor_unter_10min": false,
+          "spaetes_tor_ab_80min": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "gast",
+            "ein": "Kalajdzic",
+            "aus": "Arnautovic (oder fruehere Sub)",
+            "minute": "~80",
+            "tor": true,
+            "tor_minute": "90+5",
+            "details": "Kalajdzic kam als Sub und kopf-erzielte 90+5 den 3:3-Equalizer. Wenn Kalajdzic direkter Arnautovic-Ersatz war (Standard-Wechsel-Kette AUT), waere Arnautovic-Boost zusaetzlich. Arnautovic traf jedoch selbst 28. - kein Boost noetig fuer Tipp."
+          }
+        ],
+        "auffaellige_patterns": [
+          "6-Tore-Festival + 4 Stoppage-Time-Drama-Tore. Ueber 5.5 erreicht - extreme Outlier in MD3. Lesson 06.27 'WM-MD3-Spaet-Tor-Cluster' bestaetigt am Tag14-Folgetag.",
+          "Kalajdzic Stoppage-Time-Equalizer 90+5 als Backup-9er-Sub: bestaetigt 'Sturm-Backup-Pool-aktiv' Lesson.",
+          "DC X2 Goldgrube + Arnautovic Goldgrube + BTTS Goldgrube alle 3 durch - Triple-Goldgrube-Hit zweites Spiel des Tages (zus. JOR-ARG).",
+          "Mahrez-Doppelpack + Belghali als Sek.-Schuetze - bei richtigem Algerien-Sturm-Tipp waere VALUE durch gewesen, kein Tipp vergeben (Form-Edge-Luecke)."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-06-28-alg-aut-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.4,
+          "kommentar": "3:3 Remis - DC X2 durch dank Kalajdzic-Equalizer 90+5. Goldgrube-Validierung.",
+          "clv_prozent": null,
+          "opening_quote": 1.4,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-28-alg-aut-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.6,
+          "kommentar": "Arnautovic traf 28. nach Alaba-Pass. Goldgrube Torschuetzen Jederzeit voll durch.",
+          "clv_prozent": null,
+          "opening_quote": 3.6,
+          "closing_quote": null
+        },
+        {
+          "tipp_id": "2026-06-28-alg-aut-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.85,
+          "kommentar": "3:3 - beide trafen mehrfach. BTTS-These voll durch.",
+          "clv_prozent": null,
+          "opening_quote": 1.85,
+          "closing_quote": null
+        }
+      ]
+    }
+  ],
+  "einzeltipps": [
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-06-28-jor-arg",
+      "markt": "Argentinien Sieg",
+      "quote": 1.2,
+      "edge_prozent": 4.0,
+      "empfohlener_einsatz_euro": 11.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "Massive Klassen-Edge (Top-1-FIFA vs WM-Debuetant Rang 169). 2:0-Insurance gilt fuer WM-Sieg-Tipps. Selbst bei Scaloni-Voll-Rotation reicht Sturm-B-Pool (Lautaro/Alvarez/Dybala) fuer 2:0-Polster. Quote schon stark gedeckelt (1.20 = 83% implied). Hochrobustester SAFE der Woche.",
+      "reality_check": "Klassen-Edge maximal + 2:0-Insurance. Argentinien-Sieg-Tipps-Bilanz aus statistik.json positiv.",
+      "rang": 1
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-06-27-pan-eng",
+      "markt": "England Sieg",
+      "quote": 1.16,
+      "edge_prozent": 4.5,
+      "empfohlener_einsatz_euro": 11.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "Massive Klassen-Edge: Top-Liga-Roster (Kane/Bellingham/Saka) vs Panama (0 Tore in 2 Spielen, kein Top-5-Liga-Spieler). 2:0-Insurance bei WM-Sieg-Tipps schuetzt zusaetzlich. Tuchel-Form-Statement-Druck nach matt 0:0 vs Ghana. Quote 1.16 schon stark gedeckelt.",
+      "reality_check": "Klassen-Edge + 2:0-Insurance + Tuchel-Form-Druck. Panama bislang 0 Tore.",
+      "rang": 2
+    },
+    {
+      "kategorie": "value",
+      "spiel_id": "2026-06-27-cro-gha",
+      "markt": "Doppelte Chance Kroatien oder Remis (1X)",
+      "quote": 1.2,
+      "edge_prozent": 5.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Markt-Goldgrube DC 1X (80% / +2.2% ROI). Kroatien MUSS-Sieg + Klassen-Edge real (Modric/Kovacic/Perisic) - Niederlage praktisch ausgeschlossen. Ghana taktisch-defensiv mit Remis-Plan. Quote 1.20 = 83% implied vs faire 88%.",
+      "reality_check": "DC-1X-Goldgrube + Klassen-Edge + Ghana-Remis-Profil. Solider VALUE.",
+      "rang": 3
+    },
+    {
+      "kategorie": "value",
+      "spiel_id": "2026-06-28-alg-aut",
+      "markt": "Doppelte Chance Oesterreich oder Remis (X2)",
+      "quote": 1.4,
+      "edge_prozent": 7.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Markt-Goldgrube DC X2 (82.6% / +14.0% ROI). Tordiff-Vorteil fuer AUT (+1 vs 0) -> braucht nur Remis. Klassen-Edge mit Sabitzer/Laimer (Bayern) + Alaba (Real). Algerien-MUSS-Sieg-Druck oeffnet hinten = AUT-Konter-Spielanlage ideal. Quote 1.40 = 71% implied vs faire 76%.",
+      "reality_check": "DC X2 Goldgrube + Klassen-Edge + Spielanlage-Profil.",
+      "rang": 4
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-06-27-pan-eng",
+      "markt": "Harry Kane trifft jederzeit",
+      "quote": 1.85,
+      "edge_prozent": 8.5,
+      "empfohlener_einsatz_euro": 7.7,
+      "empfohlener_einsatz_prozent": 1.4,
+      "begruendung": "Markt-Goldgrube 'Torschuetzen Jederzeit' (41.4% / +21.3% ROI - Top-ROI). Kane historischer Hattrick vs Panama bei WM 2018 + 2 Tore aktuelles Turnier. Bayern-Top-Stuermer-Form. Einwechslungs-Boost: Ersatz (Watkins) zaehlt fuer Kane. Quote 1.85 = 54% implied vs faire 60%.",
+      "reality_check": "Torschuetzen-Jederzeit Top-Markt-ROI im System.",
+      "rang": 5
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-06-28-jor-arg",
+      "markt": "Lautaro Martinez trifft jederzeit",
+      "quote": 2.1,
+      "edge_prozent": 9.5,
+      "empfohlener_einsatz_euro": 5.5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Markt-Goldgrube 'Torschuetzen Jederzeit' (+21.3% ROI). STAR-AUSFALL-BACKUP-PFLICHT: bei wahrscheinlicher Messi-Rotation -> Lautaro Top-9er + alle Standardsituationen. Inter-Form-Stuermer. Einwechslungs-Boost: Ersatz (Alvarez) zaehlt fuer Lautaro. Quote 2.10 = 48% implied vs faire 52%.",
+      "reality_check": "Backup-Pflicht + Goldgrube + Einwechslungs-Boost.",
+      "rang": 6
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-06-27-pan-eng",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.7,
+      "edge_prozent": 9.0,
+      "empfohlener_einsatz_euro": 7.7,
+      "empfohlener_einsatz_prozent": 1.4,
+      "begruendung": "Markt-Goldgrube 'Ueber 2.5 Tore' (62.5% / +32.9% ROI - Top-Profitabilitaet). England 4 Tore vs Kroatien + Sturm-Pool tief (Kane/Watkins/Foden/Saka/Bellingham). Panama 0:1+0:1 = Defensiv-Klassen-Mismatch. Quote 1.70 = 59% implied vs faire 64%.",
+      "reality_check": "Ueber 2.5 Goldgrube + England-Sturm-Pool + Form-Statement-Druck.",
+      "rang": 7
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-06-28-jor-arg",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.65,
+      "edge_prozent": 9.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Markt-Goldgrube 'Ueber 2.5 Tore' (+32.9% ROI). Argentinien 5 Tore in 2 Spielen + Jordanien 5 zugelassen. Sturm-Pool tief (Messi/Lautaro/Alvarez/Dybala). Quote 1.65 = 61% implied vs faire 66%.",
+      "reality_check": "Goldgrube + Sturm-Pool + Klassen-Niveau.",
+      "rang": 8
+    }
+  ],
+  "kombis": [
+    {
+      "name": "Tag-Safe ~3x (Klassen-Edge-Doppel + DC-Goldgrube-Trio)",
+      "kategorie": "safe",
+      "gesamtquote": 3.04,
+      "empfohlener_einsatz_euro": 11.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "potenzieller_gewinn_euro": 33.44,
+      "beine": [
+        {
+          "spiel_id": "2026-06-28-jor-arg",
+          "markt": "Argentinien Sieg",
+          "quote": 1.2
+        },
+        {
+          "spiel_id": "2026-06-27-pan-eng",
+          "markt": "England Sieg",
+          "quote": 1.16
+        },
+        {
+          "spiel_id": "2026-06-28-alg-aut",
+          "markt": "Doppelte Chance Oesterreich oder Remis (X2)",
+          "quote": 1.4
+        },
+        {
+          "spiel_id": "2026-06-27-cro-gha",
+          "markt": "Doppelte Chance Kroatien oder Remis (1X)",
+          "quote": 1.2
+        },
+        {
+          "spiel_id": "2026-06-28-col-por",
+          "markt": "Ueber 1.5 Tore",
+          "quote": 1.3
+        }
+      ],
+      "begruendung": "Klassen-Edge-Doppel (ARG + ENG Sieg-Tipps mit 2:0-Insurance-Schutz) + zwei DC-Goldgrube-Hochhitrate-Beine (DC X2 Goldgrube 82.6% + DC 1X Goldgrube 80%) + Ueber 1.5 als sicheres Polster bei Top-Team-Duell COL-POR. Layer-1 OK (5 verschiedene Spiele). Layer-2 OK (Sieg-Outcomes nur in dieser Kombi). Quote 3.04x = ~33% implied.",
+      "reality_check": "Multiplikative Hitrate ~33% bei 5 hohen-Wahrscheinlichkeits-Beinen. Goldgrube-Maerkte + Klassen-Edge."
+    },
+    {
+      "name": "Tag-Balance ~6.7x (Torschuetzen-Klasse-Duo + Tor-Total-Polster)",
+      "kategorie": "balance",
+      "gesamtquote": 6.72,
+      "empfohlener_einsatz_euro": 4.4,
+      "empfohlener_einsatz_prozent": 0.8,
+      "potenzieller_gewinn_euro": 25.17,
+      "beine": [
+        {
+          "spiel_id": "2026-06-27-pan-eng",
+          "markt": "Harry Kane trifft jederzeit",
+          "quote": 1.85
+        },
+        {
+          "spiel_id": "2026-06-28-jor-arg",
+          "markt": "Lautaro Martinez trifft jederzeit",
+          "quote": 2.1
+        },
+        {
+          "spiel_id": "2026-06-28-cod-uzb",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.73
+        }
+      ],
+      "begruendung": "Torschuetzen-Goldgrube-Doppel (Markt-Top-ROI +21.3%): Kane historischer Panama-Beuter (Hattrick WM 2018) + Lautaro Backup-Pflicht bei wahrscheinlicher Messi-Rotation. Dritter Bein Unter 2.5 COD-UZB als Goldgrube-Polster (+23.1% ROI - beide ohne Top-Sturm-Klasse + UZB Moral-Knick nach 0:5). ZAF-CAN-Bein David entfaellt (Sonntag-Spiel ausserhalb des Tag-Fensters). Layer-1 OK (3 verschiedene Spiele). Layer-2 OK (keine Sieg-Outcomes).",
+      "reality_check": "Hitrate-Schaetzung: Kane ~60%, Lautaro ~50%, Unter 2.5 COD-UZB ~63% -> multiplikative ~19% Gesamt."
+    },
+    {
+      "name": "Tag-Risk ~26x (Sekundaer-Torschuetzen-Trio)",
+      "kategorie": "risk",
+      "gesamtquote": 26.5,
+      "empfohlener_einsatz_euro": 1.4,
+      "empfohlener_einsatz_prozent": 0.25,
+      "potenzieller_gewinn_euro": 37.1,
+      "beine": [
+        {
+          "spiel_id": "2026-06-27-pan-eng",
+          "markt": "Jude Bellingham trifft jederzeit",
+          "quote": 3.2
+        },
+        {
+          "spiel_id": "2026-06-28-col-por",
+          "markt": "Cristiano Ronaldo trifft jederzeit",
+          "quote": 2.3
+        },
+        {
+          "spiel_id": "2026-06-28-alg-aut",
+          "markt": "Marko Arnautovic trifft jederzeit",
+          "quote": 3.6
+        }
+      ],
+      "begruendung": "Sekundaer-Torschuetzen-Goldgrube (Markt +21.3% ROI). Drei Standard-Sturm-Profis in drei verschiedenen Spielen. Bellingham aus 10er-Position (relativiert), Ronaldo Standard-Penalty-Schuetze (40 Jahre Rotations-Risiko), Arnautovic Routine-9er. Alle profitieren von Einwechslungs-Boost. Layer-1 OK (3 Spiele). Layer-2 OK (keine Sieg-Outcomes).",
+      "reality_check": "Hitrate ~30-43% pro Bein -> multiplikative ~4-6% Gesamt. Risk-typisch."
+    },
+    {
+      "name": "Tag-Moonshot ~52x (Total + Player + BTTS, 5 Spiele)",
+      "kategorie": "moonshot",
+      "gesamtquote": 52.13,
+      "empfohlener_einsatz_euro": 0.55,
+      "empfohlener_einsatz_prozent": 0.1,
+      "potenzieller_gewinn_euro": 28.12,
+      "beine": [
+        {
+          "spiel_id": "2026-06-28-jor-arg",
+          "markt": "Julian Alvarez trifft jederzeit",
+          "quote": 2.5
+        },
+        {
+          "spiel_id": "2026-06-27-cro-gha",
+          "markt": "Andrej Kramaric trifft jederzeit",
+          "quote": 3.4
+        },
+        {
+          "spiel_id": "2026-06-28-alg-aut",
+          "markt": "Beide Teams treffen - Ja",
+          "quote": 1.85
+        },
+        {
+          "spiel_id": "2026-06-28-col-por",
+          "markt": "Beide Teams treffen - Ja",
+          "quote": 1.95
+        },
+        {
+          "spiel_id": "2026-06-27-pan-eng",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.7
+        }
+      ],
+      "begruendung": "5-Bein-Lotterie ueber alle 5 Klassen-Edge-Spiele (PAN-ENG + CRO-GHA + COL-POR + JOR-ARG + ALG-AUT). Mix aus Total + Player + BTTS - keine Sieg-Outcomes (Layer-2 OK). Layer-1 OK (5 verschiedene Spiele). Goldgrube-Maerkte (Ueber 2.5 +32.9% ROI, Torschuetzen +21.3%). ZAF-CAN-Bein und COD-UZB-Bein durch Tag-Fenster-Schnitt nicht enthalten. Spass-Einsatz 0.55 EUR.",
+      "reality_check": "Multiplikative Hitrate ~2-3%. Moonshot-typisch - Lotterie-Charakter."
+    }
+  ],
+  "lessons_angewandt": [
+    {
+      "lesson": "WM-Spieltag-3-Dead-Rubber-Rotations-Risiko",
+      "anwendung": "Top-Teams, die schon Gruppensieg fix haben (ARG in Gruppe J, ENG in Gruppe L Tabellenfuehrer), rotieren wahrscheinlich vor R32. Klassen-Edge-Sieg-Tipps bleiben SAFE-legitim wegen hochabsichernder 2:0-Insurance + Quoten-Niveau-Sicherheit (1.16-1.20), aber Backup-Stuermer-Pflicht eingebaut (Lautaro statt Messi, Watkins/Bellingham-Boost fuer Kane)."
+    },
+    {
+      "lesson": "Markt-Goldgrube 'Torschuetzen Jederzeit' (+21.3% ROI - Top-Markt-ROI)",
+      "anwendung": "Aktiv gesucht in jedem Heim-Favorit-Spiel: Kane (PAN-ENG), Lautaro+Alvarez (JOR-ARG), David (ZAF-CAN), Kramaric (CRO-GHA), CR7 (COL-POR), Arnautovic (ALG-AUT), Bellingham (PAN-ENG). Insgesamt 7 Torschuetzen-Tipps ueber alle Top-Klassen-Spiele - CLAUDE.md Form-Edge-Pflicht erfuellt."
+    },
+    {
+      "lesson": "Markt-Goldgrube 'Ueber 2.5 Tore' (+32.9% ROI - Top-Profitabilitaet im System)",
+      "anwendung": "2x explizit als Einzeltipp (PAN-ENG @ 1.70 + JOR-ARG @ 1.65) + 1x im Moonshot (ZAF-CAN). Drei Klassen-Spiele mit Sturm-Pool-Tiefe."
+    },
+    {
+      "lesson": "Markt-Goldgrube DC X2 (82.6% / +14.0% ROI - Top-Hitrate)",
+      "anwendung": "2x als Einzeltipp (ALG-AUT Oesterreich + ZAF-CAN Kanada). Bei Klassen-Edge-Auswaerts-Favoriten ideal."
+    },
+    {
+      "lesson": "STAR-AUSFALL-BACKUP-PFLICHT (CLAUDE.md)",
+      "anwendung": "Bei wahrscheinlicher Messi-Rotation (ARG schon durch) wurde Lautaro + Julian Alvarez als Torschuetzen-Tipps eingebaut. Backup-Pool gross genug fuer Sturm-Form-Erhaltung."
+    },
+    {
+      "lesson": "2:0-Insurance fuer WM-Sieg-Tipps (CLAUDE.md bet365-DE-Regel)",
+      "anwendung": "Argentinien-Sieg + England-Sieg SAFE-legitim trotz Rotations-Risiko, weil 2:0-Insurance gilt: selbst spaete Aufholjagden vom Underdog gehen nicht zu Lasten des Tipps wenn Top-Team mind. 2:0 fuehrte. Sturm-Pool-Tiefe beider Teams reicht fuer 2:0-Polster auch bei Voll-Rotation."
+    },
+    {
+      "lesson": "Coinflip-Spiel-Markierung (ALG-AUT + COD-UZB + COL-POR)",
+      "anwendung": "Drei Spiele mit 1X2-Quoten alle in der 2.20-4.00-Range -> KEIN SAFE, max VALUE-Sieg-Tipp + Total/BTTS-Polster. CLAUDE.md Coinflip-Regel eingehalten."
+    },
+    {
+      "lesson": "K.O.-Spiel-Modus R32 ZAF-CAN: Tor-Total niedriger erwartet",
+      "anwendung": "Ueber 2.5 Tore nur als WACKEL (nicht VALUE) im ZAF-CAN trotz Goldgrube-Markt. K.O.-Modus + Defensiv-Verschluesselung deckelt Tor-Hitrate. DC X2 + David-Torschuetze als sichere Pfeiler."
+    },
+    {
+      "lesson": "Einwechslungs-Boost-Volume-Backup-Pool (Lesson 18.06)",
+      "anwendung": "Torschuetzen-Tipps bevorzugt auf Volumen-Stuermer mit Backup-Stuermer-Qualitaet im Kader: Kane (Watkins-Boost), Lautaro (Alvarez-Boost), David (Larin-Boost), CR7 (Felix-Boost), Kramaric (Petkovic-Boost). Steigert effektive Hitrate."
+    },
+    {
+      "lesson": "Layer-1 + Layer-2 Diversifikation strikt",
+      "anwendung": "Safe-Kombi nutzt 5 verschiedene Spiele mit 2 Siegen + 2 DC + 1 Tor-Total. Balance/Risk/Moonshot komplett ohne Sieg-Outcomes (nur Player/Tor/BTTS). Kein Spiel mehrmals in einem Kombi."
+    }
+  ],
+  "footer": "18+ - bet365 DE - Hobby-Wetten - Spielerschutz BZgA: 0800 1372700 - Hobby-Tool, keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "einzeltipps_ergebnis": [
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-06-28-jor-arg",
+      "markt": "Argentinien Sieg",
+      "quote": 1.2,
+      "edge_prozent": 4.0,
+      "empfohlener_einsatz_euro": 11.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "Massive Klassen-Edge (Top-1-FIFA vs WM-Debuetant Rang 169). 2:0-Insurance gilt fuer WM-Sieg-Tipps. Selbst bei Scaloni-Voll-Rotation reicht Sturm-B-Pool (Lautaro/Alvarez/Dybala) fuer 2:0-Polster. Quote schon stark gedeckelt (1.20 = 83% implied). Hochrobustester SAFE der Woche.",
+      "reality_check": "Klassen-Edge maximal + 2:0-Insurance. Argentinien-Sieg-Tipps-Bilanz aus statistik.json positiv.",
+      "rang": 1,
+      "spiel": "Jordanien - Argentinien",
+      "einsatz_euro": 11.0,
+      "status": "gewonnen",
+      "kommentar": "ARG 3:1 - Klassen-Edge clean. HZ 0:2-Polster 2:0-Insurance praktisch unnoetig, Sieg ohnehin durch.",
+      "gewinn_faktor": 0.2
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-06-27-pan-eng",
+      "markt": "England Sieg",
+      "quote": 1.16,
+      "edge_prozent": 4.5,
+      "empfohlener_einsatz_euro": 11.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "Massive Klassen-Edge: Top-Liga-Roster (Kane/Bellingham/Saka) vs Panama (0 Tore in 2 Spielen, kein Top-5-Liga-Spieler). 2:0-Insurance bei WM-Sieg-Tipps schuetzt zusaetzlich. Tuchel-Form-Statement-Druck nach matt 0:0 vs Ghana. Quote 1.16 schon stark gedeckelt.",
+      "reality_check": "Klassen-Edge + 2:0-Insurance + Tuchel-Form-Druck. Panama bislang 0 Tore.",
+      "rang": 2,
+      "spiel": "Panama - England",
+      "einsatz_euro": 11.0,
+      "status": "gewonnen",
+      "kommentar": "England 2:0 - Klassen-Edge clean durchgezogen. 2:0-Polster perfekt, Insurance unnoetig.",
+      "gewinn_faktor": 0.16
+    },
+    {
+      "kategorie": "value",
+      "spiel_id": "2026-06-27-cro-gha",
+      "markt": "Doppelte Chance Kroatien oder Remis (1X)",
+      "quote": 1.2,
+      "edge_prozent": 5.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Markt-Goldgrube DC 1X (80% / +2.2% ROI). Kroatien MUSS-Sieg + Klassen-Edge real (Modric/Kovacic/Perisic) - Niederlage praktisch ausgeschlossen. Ghana taktisch-defensiv mit Remis-Plan. Quote 1.20 = 83% implied vs faire 88%.",
+      "reality_check": "DC-1X-Goldgrube + Klassen-Edge + Ghana-Remis-Profil. Solider VALUE.",
+      "rang": 3,
+      "spiel": "Kroatien - Ghana",
+      "einsatz_euro": 5.5,
+      "status": "gewonnen",
+      "kommentar": "Kroatien-Sieg = DC 1X automatisch durch. Goldgrube-Validierung.",
+      "gewinn_faktor": 0.2
+    },
+    {
+      "kategorie": "value",
+      "spiel_id": "2026-06-28-alg-aut",
+      "markt": "Doppelte Chance Oesterreich oder Remis (X2)",
+      "quote": 1.4,
+      "edge_prozent": 7.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Markt-Goldgrube DC X2 (82.6% / +14.0% ROI). Tordiff-Vorteil fuer AUT (+1 vs 0) -> braucht nur Remis. Klassen-Edge mit Sabitzer/Laimer (Bayern) + Alaba (Real). Algerien-MUSS-Sieg-Druck oeffnet hinten = AUT-Konter-Spielanlage ideal. Quote 1.40 = 71% implied vs faire 76%.",
+      "reality_check": "DC X2 Goldgrube + Klassen-Edge + Spielanlage-Profil.",
+      "rang": 4,
+      "spiel": "Algerien - Oesterreich",
+      "einsatz_euro": 5.5,
+      "status": "gewonnen",
+      "kommentar": "3:3 Remis - DC X2 durch dank Kalajdzic-Equalizer 90+5. Goldgrube-Validierung.",
+      "gewinn_faktor": 0.4
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-06-27-pan-eng",
+      "markt": "Harry Kane trifft jederzeit",
+      "quote": 1.85,
+      "edge_prozent": 8.5,
+      "empfohlener_einsatz_euro": 7.7,
+      "empfohlener_einsatz_prozent": 1.4,
+      "begruendung": "Markt-Goldgrube 'Torschuetzen Jederzeit' (41.4% / +21.3% ROI - Top-ROI). Kane historischer Hattrick vs Panama bei WM 2018 + 2 Tore aktuelles Turnier. Bayern-Top-Stuermer-Form. Einwechslungs-Boost: Ersatz (Watkins) zaehlt fuer Kane. Quote 1.85 = 54% implied vs faire 60%.",
+      "reality_check": "Torschuetzen-Jederzeit Top-Markt-ROI im System.",
+      "rang": 5,
+      "spiel": "Panama - England",
+      "einsatz_euro": 7.7,
+      "status": "gewonnen",
+      "kommentar": "Kane traf 67. nach Bellingham-Flanke - 11. WM-Tor, brach Lineker-Rekord. Goldgrube-Validierung.",
+      "gewinn_faktor": 0.85
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-06-28-jor-arg",
+      "markt": "Lautaro Martinez trifft jederzeit",
+      "quote": 2.1,
+      "edge_prozent": 9.5,
+      "empfohlener_einsatz_euro": 5.5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Markt-Goldgrube 'Torschuetzen Jederzeit' (+21.3% ROI). STAR-AUSFALL-BACKUP-PFLICHT: bei wahrscheinlicher Messi-Rotation -> Lautaro Top-9er + alle Standardsituationen. Inter-Form-Stuermer. Einwechslungs-Boost: Ersatz (Alvarez) zaehlt fuer Lautaro. Quote 2.10 = 48% implied vs faire 52%.",
+      "reality_check": "Backup-Pflicht + Goldgrube + Einwechslungs-Boost.",
+      "rang": 6,
+      "spiel": "Jordanien - Argentinien",
+      "einsatz_euro": 5.5,
+      "status": "gewonnen",
+      "kommentar": "Lautaro Elfmeter 31. - Backup-Pflicht-These voll durch trotz Messi-Spielen.",
+      "gewinn_faktor": 1.1
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-06-27-pan-eng",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.7,
+      "edge_prozent": 9.0,
+      "empfohlener_einsatz_euro": 7.7,
+      "empfohlener_einsatz_prozent": 1.4,
+      "begruendung": "Markt-Goldgrube 'Ueber 2.5 Tore' (62.5% / +32.9% ROI - Top-Profitabilitaet). England 4 Tore vs Kroatien + Sturm-Pool tief (Kane/Watkins/Foden/Saka/Bellingham). Panama 0:1+0:1 = Defensiv-Klassen-Mismatch. Quote 1.70 = 59% implied vs faire 64%.",
+      "reality_check": "Ueber 2.5 Goldgrube + England-Sturm-Pool + Form-Statement-Druck.",
+      "rang": 7,
+      "spiel": "Panama - England",
+      "einsatz_euro": 7.7,
+      "status": "verloren",
+      "kommentar": "Nur 2 Tore (Bellingham 62. + Kane 67.) - England spielte kontrollierte 1. HZ. Goldgrube Ueber 2.5 verfehlt.",
+      "gewinn_faktor": -1.0
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-06-28-jor-arg",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.65,
+      "edge_prozent": 9.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Markt-Goldgrube 'Ueber 2.5 Tore' (+32.9% ROI). Argentinien 5 Tore in 2 Spielen + Jordanien 5 zugelassen. Sturm-Pool tief (Messi/Lautaro/Alvarez/Dybala). Quote 1.65 = 61% implied vs faire 66%.",
+      "reality_check": "Goldgrube + Sturm-Pool + Klassen-Niveau.",
+      "rang": 8,
+      "spiel": "Jordanien - Argentinien",
+      "einsatz_euro": 5.5,
+      "status": "gewonnen",
+      "kommentar": "4 Tore - Sturm-Pool ARG (Lo Celso/Lautaro/Messi) durch. Goldgrube Ueber 2.5 validiert.",
+      "gewinn_faktor": 0.65
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": null,
+      "name": "Tag-Safe ~3x (Klassen-Edge-Doppel + DC-Goldgrube-Trio)",
+      "status": "verloren",
+      "gesamtquote": 3.04,
+      "einsatz_euro": 11.0,
+      "gewinn_faktor": -1.0,
+      "beine_status": [
+        {
+          "spiel_id": "2026-06-28-jor-arg",
+          "markt": "Jordanien - Argentinien: Argentinien Sieg",
+          "status": "gewonnen",
+          "kommentar": "ARG 3:1 - Klassen-Edge clean. HZ 0:2-Polster 2:0-Insurance praktisch unnoetig, Sieg ohnehin durch."
+        },
+        {
+          "spiel_id": "2026-06-27-pan-eng",
+          "markt": "Panama - England: England Sieg",
+          "status": "gewonnen",
+          "kommentar": "England 2:0 - Klassen-Edge clean durchgezogen. 2:0-Polster perfekt, Insurance unnoetig."
+        },
+        {
+          "spiel_id": "2026-06-28-alg-aut",
+          "markt": "Algerien - Oesterreich: Doppelte Chance Oesterreich oder Remis (X2)",
+          "status": "gewonnen",
+          "kommentar": "3:3 Remis - DC X2 durch dank Kalajdzic-Equalizer 90+5. Goldgrube-Validierung."
+        },
+        {
+          "spiel_id": "2026-06-27-cro-gha",
+          "markt": "Kroatien - Ghana: Doppelte Chance Kroatien oder Remis (1X)",
+          "status": "gewonnen",
+          "kommentar": "Kroatien-Sieg = DC 1X automatisch durch. Goldgrube-Validierung."
+        },
+        {
+          "spiel_id": "2026-06-28-col-por",
+          "markt": "Kolumbien - Portugal: Ueber 1.5 Tore",
+          "status": "verloren",
+          "kommentar": "0 Tore - Polster-Tipp brutal verfehlt. 'Sehr sicher'-These widerlegt durch Dead-Rubber-Igel."
+        }
+      ]
+    },
+    {
+      "kombi_id": null,
+      "name": "Tag-Balance ~6.7x (Torschuetzen-Klasse-Duo + Tor-Total-Polster)",
+      "status": "verloren",
+      "gesamtquote": 6.72,
+      "einsatz_euro": 4.4,
+      "gewinn_faktor": -1.0,
+      "beine_status": [
+        {
+          "spiel_id": "2026-06-27-pan-eng",
+          "markt": "Panama - England: Harry Kane trifft jederzeit",
+          "status": "gewonnen",
+          "kommentar": "Kane traf 67. nach Bellingham-Flanke - 11. WM-Tor, brach Lineker-Rekord. Goldgrube-Validierung."
+        },
+        {
+          "spiel_id": "2026-06-28-jor-arg",
+          "markt": "Jordanien - Argentinien: Lautaro Martinez trifft jederzeit",
+          "status": "gewonnen",
+          "kommentar": "Lautaro Elfmeter 31. - Backup-Pflicht-These voll durch trotz Messi-Spielen."
+        },
+        {
+          "spiel_id": "2026-06-28-cod-uzb",
+          "markt": "DR Kongo - Usbekistan: Unter 2.5 Tore",
+          "status": "verloren",
+          "kommentar": "4 Tore (Shomurodov + Wissa 2x + Mayele) - MUSS-Sieg-Druck COD uebersteuerte Defensiv-These. Goldgrube Unter 2.5 verfehlt."
+        }
+      ]
+    },
+    {
+      "kombi_id": null,
+      "name": "Tag-Risk ~26x (Sekundaer-Torschuetzen-Trio)",
+      "status": "verloren",
+      "gesamtquote": 26.5,
+      "einsatz_euro": 1.4,
+      "gewinn_faktor": -1.0,
+      "beine_status": [
+        {
+          "spiel_id": "2026-06-27-pan-eng",
+          "markt": "Panama - England: Jude Bellingham trifft jederzeit",
+          "status": "gewonnen",
+          "kommentar": "Bellingham traf 62. nach Saka-Eckenball ueber Mosquera. 10er-Position-INVERS-Falle GEBROCHEN."
+        },
+        {
+          "spiel_id": "2026-06-28-col-por",
+          "markt": "Kolumbien - Portugal: Cristiano Ronaldo trifft jederzeit",
+          "status": "verloren",
+          "kommentar": "0 Tore CR7 - Vargas parierte Ronaldo-Freistoss in 1. HZ. 40-Jahre-Reliance-Risiko realisiert."
+        },
+        {
+          "spiel_id": "2026-06-28-alg-aut",
+          "markt": "Algerien - Oesterreich: Marko Arnautovic trifft jederzeit",
+          "status": "gewonnen",
+          "kommentar": "Arnautovic traf 28. nach Alaba-Pass. Goldgrube Torschuetzen Jederzeit voll durch."
+        }
+      ]
+    },
+    {
+      "kombi_id": null,
+      "name": "Tag-Moonshot ~52x (Total + Player + BTTS, 5 Spiele)",
+      "status": "verloren",
+      "gesamtquote": 52.13,
+      "einsatz_euro": 0.55,
+      "gewinn_faktor": -1.0,
+      "beine_status": [
+        {
+          "spiel_id": "2026-06-28-jor-arg",
+          "markt": "Jordanien - Argentinien: Julian Alvarez trifft jederzeit",
+          "status": "verloren",
+          "kommentar": "Alvarez 0 Tore - andere Schuetzen (Lo Celso/Lautaro/Messi). Sekundaer-Pool nicht aktiv."
+        },
+        {
+          "spiel_id": "2026-06-27-cro-gha",
+          "markt": "Kroatien - Ghana: Andrej Kramaric trifft jederzeit",
+          "status": "gewonnen",
+          "kommentar": "Einwechslungs-Boost: Vlasic kam fuer Kramaric (~70.) rein und traf 83. - per CLAUDE.md zaehlt Tor von Ersatz Y fuer Tipp-Spieler X. Lesson 06.16/2105 Boost-Trigger."
+        },
+        {
+          "spiel_id": "2026-06-28-alg-aut",
+          "markt": "Algerien - Oesterreich: Beide Teams treffen - Ja",
+          "status": "gewonnen",
+          "kommentar": "3:3 - beide trafen mehrfach. BTTS-These voll durch."
+        },
+        {
+          "spiel_id": "2026-06-28-col-por",
+          "markt": "Kolumbien - Portugal: Beide Teams treffen - Ja",
+          "status": "verloren",
+          "kommentar": "0:0 Endstand - keine Tore. Dead-Rubber-Top-Team-Duell mit Doppel-Rotation."
+        },
+        {
+          "spiel_id": "2026-06-27-pan-eng",
+          "markt": "Panama - England: Ueber 2.5 Tore",
+          "status": "verloren",
+          "kommentar": "Nur 2 Tore (Bellingham 62. + Kane 67.) - England spielte kontrollierte 1. HZ. Goldgrube Ueber 2.5 verfehlt."
+        }
+      ]
+    }
+  ],
+  "ausgewertet_am": "2026-06-28T11:00:00+02:00"
+}
