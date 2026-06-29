@@ -1,7 +1,7 @@
 {
   "datum": "2026-06-29",
   "erstellt_am": "2026-06-29T17:15:00+02:00",
-  "hinweis": "Watchdog-Recovery Mo (Hauptroutine 16:00 nicht durchgelaufen, 17:15 nachgeholt). WM-2026-Achtelfinale/Round-of-32 Tag 2: 3 K.O.-Spiele heute - Brasilien-Japan (19:00 Houston), Deutschland-Paraguay (22:30 Boston), Niederlande-Marokko (03:00 Di Monterrey). Vereins-Saison Sommer-Pause, NBA-Finals seit 13.06. durch (Knicks 4-1). 2:0-Insurance gilt fuer WM (FIFA-Aktionsregel). Liga-Goldgrube-Liste: WM-Knockout-R32 ist NICHT drin -> Mapper-Hebel C degraded SAFE-DC automatisch auf VALUE, daher heute kein SAFE-DC. Late-Goal-Cluster bereits 7 Tage in Folge (Lesson 06.29) + KO-Premiere-Defensiv-Laehmungs-Pattern (RSA-CAN 0:1 90+2). Lineup-Vorsicht (Lesson 06.29 RSA-CAN Larin-Bench-Falle): Predicted-Lineups sind nicht Confirmed-Lineups.",
+  "hinweis": "Pipeline-Update Mo 14:00 (Master-Tipps Mo-Fr) - Watchdog-Stand vom 17:15 als Basis, Risiko-Kombi + Verifikations-Report ergaenzt. WM-2026-Round-of-32 Tag 2: 3 K.O.-Spiele heute - Brasilien-Japan (19:00 Houston), Deutschland-Paraguay (22:30 Boston), Niederlande-Marokko (03:00 Di Monterrey). Vereins-Saison Sommer-Pause, NBA-Finals seit 13.06. durch (Knicks 4-1). 2:0-Insurance gilt fuer WM (FIFA-Aktionsregel). Liga-Goldgrube-Liste: WM-Knockout-R32 ist NICHT drin -> Mapper-Hebel C degraded SAFE-DC automatisch auf VALUE, daher heute kein SAFE-DC. Late-Goal-Cluster bereits 7 Tage in Folge (Lesson 06.29) + KO-Premiere-Defensiv-Laehmungs-Pattern (RSA-CAN 0:1 90+2). Lineup-Vorsicht (Lesson 06.29 RSA-CAN Larin-Bench-Falle): Predicted-Lineups sind nicht Confirmed-Lineups. MOONSHOT (100x+) heute geometrisch nicht erreichbar (Layer-1 hart + max 3 Spiele + max Einzel-Quote 3.40 -> ceiling ~21x).",
   "spiele": [
     {
       "id": "2026-06-29-bra-jpn",
@@ -419,7 +419,8 @@
         }
       ],
       "begruendung": "Doppelte Klassen-Edge: zwei klare Mit-Favoriten der WM (GER 1.36 / BRA 1.73). Beide profitieren von 2:0-Insurance (CLAUDE.md FIFA-WM-Regel). Layer-1 OK (1 Bein/Spiel). Layer-2 OK (Sieg-Outcomes in unterschiedlichen Spielen, in keiner anderen Kombi wiederverwendet).",
-      "gesamtquote": 2.35
+      "gesamtquote": 2.35,
+      "rechnung": "1.36 x 1.73 = 2.35"
     },
     {
       "name": "Balance-Kombi 11.0x",
@@ -453,6 +454,39 @@
       "begruendung": "Goldgrube-Kombi: 2x Ueber-2.5-Tore (Top-Goldgrube +34.2% ROI) + 1x Torschuetzen-Jederzeit-Goldgrube (+24.4% ROI). Wirtz als 10er-Position-Star-Triple-Treffer-Pattern-Match (Lesson 06.28). Layer-1 OK (1 Bein/Spiel). Layer-2 OK (keine Sieg-Outcomes -> kein Konflikt mit Safe-Kombi).",
       "gesamtquote": 12.89,
       "rechnung": "3.40 x 1.85 x 2.05 = 12.89"
+    },
+    {
+      "name": "Risiko-Kombi 15.63x",
+      "kategorie": "risiko",
+      "einsatz_euro": 1.4,
+      "empfohlener_einsatz_prozent": 0.25,
+      "moeglicher_gewinn_euro": 21.88,
+      "beine": [
+        {
+          "spiel_id": "2026-06-29-bra-jpn",
+          "tipp_id": "2026-06-29-bra-jpn-t2",
+          "markt": "Brasilien - Japan: Vinicius Junior trifft jederzeit",
+          "quote": 2.5,
+          "spiel_titel": "Brasilien - Japan (WM R32)"
+        },
+        {
+          "spiel_id": "2026-06-30-ger-par",
+          "tipp_id": "2026-06-29-ger-par-t2",
+          "markt": "Deutschland - Paraguay: Kai Havertz trifft jederzeit",
+          "quote": 2.5,
+          "spiel_titel": "Deutschland - Paraguay (WM R32)"
+        },
+        {
+          "spiel_id": "2026-06-30-ned-mar",
+          "tipp_id": "2026-06-29-ned-mar-t4",
+          "markt": "Niederlande - Marokko: Cody Gakpo trifft jederzeit",
+          "quote": 2.5,
+          "spiel_titel": "Niederlande - Marokko (WM R32)"
+        }
+      ],
+      "begruendung": "Drei-Spieler-Tor-Kombi auf der Goldgrube Torschuetzen-Jederzeit (+24.4% ROI / 50% HR, n=14). Jeder Spieler ist Volume-9er/Top-Aussen mit Einwechslungs-Boost-Sicherung (CLAUDE.md): falls Vinicius/Havertz/Gakpo ausgewechselt werden, zaehlen Ersatz-Tore mit. Layer-1 OK (3 verschiedene Spiele, 1 Bein/Spiel). Layer-2 OK (keine Sieg-Outcomes -> Safe-Kombi unangetastet). Layer-3 weich: Spiele werden mit anderem Markt als Safe (Sieg) und Balance (Tor-Total / Wirtz-Tor) gefahren -> Markt-entkoppelt. Wirtz absichtlich NICHT genutzt (schon in Balance) -> kein Identitaets-Doppel.",
+      "gesamtquote": 15.63,
+      "rechnung": "2.50 x 2.50 x 2.50 = 15.63"
     }
   ],
   "lessons_angewandt": [
@@ -467,7 +501,63 @@
     "Lesson 06.29 Late-Goal-Cluster 7 Tage in Folge: 2:0-Insurance-Hinweis fuer Sieg-Tipps explizit gemacht (BRA-Sieg + GER-Sieg). Bei zwischenzeitlich 2:0 fuer Tipp-Team ist Sieg-Tipp safe egal wie's endet.",
     "Lesson 06.28 (Karriere-Highlight-INVERS-DEAKTIVIERUNG Tag15 Bellingham/Lo Celso/Messi 3x Treffer): 10er-Position-Star-trifft-Cluster nicht mehr 'invers'-Falle - Wirtz-Torschuetze als WM-K.O.-Cluster-Match aufgenommen.",
     "Lesson 06.29 Pre-Match-Lineup-Single-Source-Falle (RSA-CAN Larin-Bench): heute KEIN Tipp basiert ausschliesslich auf Sports-Mole-Vorschau, alle Stuermer-Tipps sind Stamm-Spieler-Volume-Tipps (Vinicius, Havertz, Wirtz, Saibari, Gakpo) - Einwechslungs-Boost-Sicherung explizit in Begruendung erwaehnt.",
-    "Spread/Handicap = Markt-Bluter (-10.5% ROI / 30.8% HR, n=13): KEIN Spread-Tipp heute gesetzt (Mapper-Hebel B Pflicht-Wartung)."
+    "Spread/Handicap = Markt-Bluter (-10.5% ROI / 30.8% HR, n=13): KEIN Spread-Tipp heute gesetzt (Mapper-Hebel B Pflicht-Wartung).",
+    "Master-Routine-Kombi-Profile (Phase 4): Safe 2.35x, Balance 12.89x, Risiko 15.63x ergaenzt - MOONSHOT 100x+ weggelassen weil bei 3 Spielen + Layer-1 hart (max 1 Bein/Spiel/Kombi) die geometrische Quoten-Obergrenze bei ~21x liegt (max Einzelquote 3.40 x 2.50 x 2.50). Ehrliche Kommunikation > erzwungene Halluzinations-Kombi."
   ],
-  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-06-29T14:30:00+02:00",
+    "modus": "Pipeline-Update (Master-Routine Mo-Fr) - Recherche-File data/recherche/2026-06-29.json FEHLT, daher Fallback-Modus auf bestehendes Watchdog-Recovery-Tipps-File (17:15 Vortag-Lauf) ohne squad_*-Daten zur Spieler-Halluzinations-Verifikation.",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "recherche_fehlt",
+        "details": "data/recherche/2026-06-29.json nicht vorhanden - Fallback auf bestehendes Tipps-File. Spieler-Halluzinations-Check NICHT moeglich (kein squad_heim/squad_gast aus Recherche). Spielernamen Vinicius Junior (BRA), Kai Havertz/Florian Wirtz (GER), Cody Gakpo (NED) sind bekannte WM-2026-Stamm-Spieler -> kein Drop, aber Squad-Verifikation offen."
+      },
+      {
+        "art": "quoten_aggregator_fehlt",
+        "details": "Ohne Recherche-File keine Pinnacle/bet365-Cross-Check moeglich. Alle Quoten 'bei bet365 live pruefen' (siehe begruendung-Strings)."
+      },
+      {
+        "art": "moonshot_geometrie",
+        "details": "Moonshot 100x+ nicht baubar bei 3 Spielen + Layer-1 hart. Max Quote pro Spiel 3.40 (Wirtz) -> Theorie-Ceiling 3.40 x 2.50 x 2.50 = 21.25 (Wirtz-Doppel-Verwendung, Layer-3 weich). Statt Halluzinations-Moonshot -> bewusst weggelassen + in lessons_angewandt erklaert."
+      }
+    ],
+    "layer_2_check": {
+      "status": "OK",
+      "details": "Brasilien-Sieg nur in Safe-Kombi (1x), Deutschland-Sieg nur in Safe-Kombi (1x). Keine Doppel-Verwendung von Sieg-Outcomes. Balance + Risiko enthalten 0 Sieg-Outcomes."
+    },
+    "layer_1_check": {
+      "status": "OK",
+      "details": "Safe-Kombi: 1 Bein BRA-JPN + 1 Bein GER-PAR. Balance-Kombi: 1 Bein GER-PAR + 1 Bein NED-MAR + 1 Bein BRA-JPN. Risiko-Kombi: 1 Bein BRA-JPN + 1 Bein GER-PAR + 1 Bein NED-MAR. Alle Kombis erfuellen max 1 Bein/Spiel."
+    },
+    "layer_3_check": {
+      "status": "OK_MIT_MARKT_ENTKOPPLUNG",
+      "details": "Bei 3 Spielen + 3 Kombis ist Spiel-Recycling unausweichlich. Markt-Entkopplung umgesetzt: GER-PAR -> Safe(Sieg) + Balance(Wirtz-Tor) + Risiko(Havertz-Tor). BRA-JPN -> Safe(Sieg) + Balance(Ueber 2.5) + Risiko(Vinicius-Tor). NED-MAR -> Balance(Ueber 2.5) + Risiko(Gakpo-Tor). Jeweils verschiedene Maerkte/Spieler -> Hartregel HR23 (Layer-3 weich) eingehalten."
+    },
+    "gesamtquote_pruefung": [
+      {"kombi": "Safe 2.35x", "rechnung": "1.36 x 1.73 = 2.3528 -> 2.35", "ok": true},
+      {"kombi": "Balance 12.89x", "rechnung": "3.40 x 1.85 x 2.05 = 12.8945 -> 12.89", "ok": true},
+      {"kombi": "Risiko 15.63x", "rechnung": "2.50 x 2.50 x 2.50 = 15.625 -> 15.63", "ok": true}
+    ],
+    "selbstwiderspruchs_scan": {
+      "status": "OK",
+      "details": "BRA-JPN: Vinicius-Tor + Brasilien-Sieg + BTTS-Nein + Ueber 2.5 sind alle konsistent (z.B. BRA 3:0 erfuellt alle vier). GER-PAR: Havertz/Wirtz-Tor + GER-Sieg + Ueber 2.5 konsistent. NED-MAR: Ueber 2.5 + BTTS-Ja + Gakpo-Tor konsistent (z.B. 2:1 NED). Keine OUT/PLAYS-Selbstwiderspruechs gefunden."
+    },
+    "spielort_kontext_check": {
+      "status": "OK",
+      "details": "BRA-JPN Houston (Hitze 35°C, hohe LF) - in saison_kontext NICHT explizit erwaehnt (Recherche-File-Defizit). GER-PAR Boston (moderat). NED-MAR Monterrey (Hoehe 540m + Hitze, in saison_kontext-recovery erwaehnt). Recherche-Vollausbau wuerde HR28-Konfekt erhoehen."
+    },
+    "lessons_generiert": [
+      {
+        "kategorie": "Pipeline-Resilienz Recherche-Fehler",
+        "lesson": "Wenn data/recherche/<datum>.json fehlt aber data/tipps/<datum>.json bereits von Watchdog-Recovery existiert: Master-Routine soll Tipps-File als Recherche-Surrogat akzeptieren statt komplett neu zu halluzinieren. saison_kontext + quellen[] sind im Tipps-File enthalten -> Verifikator kann Quellen-Check trotzdem fahren."
+      },
+      {
+        "kategorie": "3-Spiele-Tag Kombi-Profil-Anpassung",
+        "lesson": "Bei <=3 Spielen ist Moonshot 100x+ geometrisch unmoeglich (Layer-1 hart begrenzt Beine pro Kombi auf Spiele-Anzahl). Master-Routine soll Moonshot-Pflicht bei 3-Spiele-Tagen aussetzen + statt 4 nur 3 Kombis bauen (Safe + Balance + Risiko). Im hinweis-Feld explizit machen."
+      }
+    ]
+  }
 }
