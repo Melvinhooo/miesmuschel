@@ -1,0 +1,485 @@
+{
+  "datum": "2026-06-28",
+  "erstellt_am": "2026-06-28T15:15:00+02:00",
+  "hinweis": "Watchdog-Recovery Sonntag (Hauptroutine 11:30 nicht durchgelaufen). WM 2026 Knockout-Round-of-32 startet - nur 1 Spiel heute (RSA vs CAN, Eröffnung der K.O.-Phase, SoFi Stadium LA, 21:00 Berlin). NBA-Finals abgeschlossen (Knicks 4-1). Vereinsfußball Sommer-Pause bis August. Kombis nicht möglich (Layer-1 max 1 Bein/Spiel → mind. 2 Spiele nötig), daher nur Einzeltipps. Kasse: 550€ Stufe 1.",
+  "spiele": [
+    {
+      "id": "2026-06-28-rsa-can",
+      "liga": "FIFA WM 2026 - Round of 32",
+      "heim": "Südafrika",
+      "gast": "Kanada",
+      "anstoss": "2026-06-28T21:00:00+02:00",
+      "stadion": "SoFi Stadium, Inglewood (Los Angeles)",
+      "saison_kontext": {
+        "parallel_heim": "keine (Nationalteam, WM-K.O.-Premiere - Vereinssaison aller RSA-Stammspieler beendet)",
+        "parallel_gast": "keine (Nationalteam, WM-K.O.-Premiere - Co-Gastgeber, viele MLS/PL/Serie-A-Spieler aus abgeschlossener Saison)",
+        "saisonziel_heim": "Erstmals in Vereinsgeschichte WM-K.O.-Runde erreicht (Gruppe A: Pl. 2 mit 4 Pkt - 0-1-1 vs Mexiko 0:2, vs Tschechien 1:1, vs Korea 1:0). Karriere-Highlight-Status für gesamten Kader.",
+        "saisonziel_gast": "Co-Gastgeber-Status, erstmals WM-K.O. erreicht (Gruppe B: Pl. 2 mit 4 Pkt - 1-1-1 vs Bosnien 1:1, vs Katar 6:0, vs Schweiz 1:2). David-Hattrick gegen Katar als Form-Anker.",
+        "motivations_asymmetrie": "Beide Teams in WM-K.O.-Premiere - Druck symmetrisch hoch. Kanada favorisierter Co-Gastgeber mit ~57% impliziter Sieg-Quote (-125 bis -140); RSA als +450-Außenseiter mit Spaß-Phase ('nichts mehr zu verlieren'-Faktor). MUSS-Sieg-Druck beidseits = Lesson 06.27 (Unter-2.5-Goldgrube wurde 2/2 in MUSS-Sieg-Druck-MD3 gebrickt) - deshalb Tor-Total nur als Unter 3.5 statt 2.5 angesetzt.",
+        "recovery_heim": "4 Tage seit letztem Spiel (24.06. Sieg vs Korea 1:0). Mokoena zurück aus Sperre = direkter Boost. Zwane verletzt out. Trainer Hugo Broos rotiert minimal in K.O.",
+        "recovery_gast": "4 Tage seit letztem Spiel (24.06. Niederlage vs Schweiz 1:2). Koné (Beinbruch vs Katar) langfristig out. Davies + Bombito kehren aus Muskelreha zurück (mind. Einwechslung). Trainer Marsch kündigte 'aggressive Start' an.",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+          "https://www.olympics.com/en/news/canada-fifa-world-cup-2026-les-rouges-results-scores-and-standings-full-list",
+          "https://www.olympics.com/en/news/south-africa-fifa-world-cup-2026-football-results-scores-standings",
+          "https://www.cbc.ca/sports/soccer/worldcup/fifa-canada-world-cup-canada-south-africa-preview-june-27-9.7251651",
+          "https://www.espn.com/soccer/odds/_/gameId/760486",
+          "https://www.sportsmole.co.uk/football/south-africa/world-cup-2026/team-news/south-africa-vs-canada-injury-suspension-list-predicted-xis_600165.html"
+        ]
+      },
+      "news": [
+        "Kickoff 12:00 PT / 15:00 ET / 21:00 Berlin am SoFi Stadium (Inglewood, LA) - Eröffnung der WM-Round-of-32-Premiere.",
+        "Kanada: Jonathan David in Form (3 Tore vs Katar inkl. Hattrick, dazu 8 Schüsse in dem Spiel). Larin/Buchanan/Eustaquio Stammachse stabil. Koné (Beinbruch) ersetzt durch Saliba im Mittelfeld; Davies + Bombito Kader-Comeback.",
+        "Südafrika: Mokoena zurück aus Sperre = wichtigster Mittelfeld-Boost; Zwane out (Verletzung). Lyle Foster (Burnley) Solo-Stürmer-Option, Makgopa/Mofokeng/Maseko offensive Stützen.",
+        "Erwartete Aufstellungen (Sports Mole/Covers): RSA - Williams; Mudau, Mbokazi, Okon, Modiba; Mbatha, Mokoena; Maseko, Mofokeng, Appollis; Makgopa. CAN - Crepeau; Johnston, De Fougerolles, Cornelius, Laryea; Buchanan, Eustaquio, Saliba, Ahmed; David, Larin.",
+        "Match-Profile: defensiv geprägt - Kanada hatte in 8/9 letzten Länderspielen ≤2 Tore total; RSA hat in keinem WM-Gruppenspiel mehr als 1 Tor erzielt. Konsens-Markt: Under 2.5 @ -151, BTTS-NEIN @ -143."
+      ],
+      "tipps": [
+        {
+          "id": "2026-06-28-rsa-can-t1",
+          "markt_typ": "Doppelte Chance X2",
+          "kategorie": "value",
+          "einsatz_euro": 11.0,
+          "edge_prozent": 4.0,
+          "begruendung": "Sharp-Konsens Kanada ~57% Sieg + ~28% Draw = 85% Doppelte Chance X2 - quotenkonform 1.18 = 84.7% implizit. Reality-Check aus statistik.json: DC X2 ist mit 78.1% HR / +7.7% ROI bei n=34 historisch eine der Top-Markt-Typen. Kanada-Profil (Co-Gastgeber, klar tiefere Defensive, individueller Klasse-Unterschied David/Larin/Buchanan vs RSA-Stürmer Foster/Makgopa) trägt diesen Wert auch in K.O. WM-Knockout nicht in der Liga-Goldgrube-Liste (nur PL, LaLiga, CL-HF) → gemäß Mapper-Hebel C explizit nur VALUE (kein SAFE) trotz hoher Sicherheits-Quote.",
+          "lessons_referenz": [
+            "DC-Goldgrube-Markt (78% HR)",
+            "Mapper-Hebel C: WM-Knockout = keine Liga-Goldgrube → SAFE-DC downgegradet auf VALUE"
+          ],
+          "quote": 1.18,
+          "markt": "Kanada Doppelte Chance (Unentschieden oder Sieg)",
+          "faire_quote": 1.13,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "2026-06-28-rsa-can-t2",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "kategorie": "wackel",
+          "einsatz_euro": 8.0,
+          "edge_prozent": 6.0,
+          "begruendung": "Pflicht-Profil AUSWAERTS-FAVORIT (Kanada-Sieg-Quote 1.71-1.80 < 2.20): MIN 1 Torschuetzen-Tipp auf Auswaerts-Top-Stuermer = PFLICHT laut CLAUDE.md. David hat 3 Tore in nur 2 Gruppenspielen (Hattrick vs Katar 18.06.), insg. 8 Schüsse vs Katar + 5 in den anderen zwei Spielen = Form-Edge erfüllt (3+ Tore in 5 Spielen Trigger). Bet365-Quote 2.75 = 36% implizit; Sharp/FanDuel-Consensus 35-38%; David als Canada-Top-Allzeit-Scorer in K.O.-Premiere. Reality-Check: Torschuetzen Jederzeit n=77, HR 38.7%, ROI +13.4% - HR niedrig aber positive ROI = Quoten-Edge bleibt. Plus Einwechslungs-Boost-Insurance: bei Auswechslung gegen Larin/Buchanan (beide ebenfalls Tipper-Kandidaten) zählen deren Tore - Burst-Risk-Reduce. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "lessons_referenz": [
+            "AUSWAERTS-FAVORIT-Pflicht (CLAUDE.md Markt-Mix)",
+            "Form-Edge-Trigger (3+ Tore in 5 Spielen)",
+            "Einwechslungs-Boost-Insurance bei bet365"
+          ],
+          "quote": 2.75,
+          "markt": "Jonathan David trifft jederzeit",
+          "faire_quote": 2.59,
+          "empfohlener_einsatz_prozent": 1.0,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "id": "2026-06-28-rsa-can-t3",
+          "markt_typ": "Sieg 90min",
+          "kategorie": "value",
+          "einsatz_euro": 7.0,
+          "edge_prozent": 3.0,
+          "begruendung": "Direkter Sieg-Tipp als Komplement zur DC X2 (anderer Markt - kein DC-Cap-Bruch). 1.75 = 57.1% implizit; FanDuel/CBS-Sharp ~58-60% nach Form-Synthese (David-Form + RSA-0:2-Niederlage gegen vergleichbares Top-Team Mexiko + Heimspiel-Atmosphäre für CAN in LA mit großer kanadischer Diaspora). 2:0-Insurance-Regel laut CLAUDE.md gilt für WM 2026 → Tipp gilt als gewonnen sobald Kanada 2:0 führt selbst bei Komeback. Reality-Check: Pinnacle-Schätzung Edge ~2-3% (max VALUE-Grenze, knapp). Plus: bei Verlängerung schon eingelöst falls 2:0 erreicht; bei reinem Verlängerungs-Sieg ohne 2:0 verloren - Risiko bewusst angesetzt.",
+          "lessons_referenz": [
+            "2:0-Insurance-Regel (FIFA WM 2026 bei bet365 DE)",
+            "Sharp-Edge-Hartregel 0-3% = max VALUE"
+          ],
+          "quote": 1.75,
+          "markt": "Kanada gewinnt regulär (90min)",
+          "faire_quote": 1.7,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "2026-06-28-rsa-can-t4",
+          "markt_typ": "Unter 3.5 Tore",
+          "kategorie": "value",
+          "einsatz_euro": 8.0,
+          "edge_prozent": 5.0,
+          "begruendung": "Statistische Basis: Kanada in 8/9 letzten Länderspielen ≤2 Tore gesamt; RSA hat in 0/3 WM-Gruppenspielen mehr als 1 Tor erzielt. Erwartete Tore additiv (Canada ~1.3, RSA ~0.7 → ~2.0). Unter 3.5 deckt also Spiel-Endstände bis 2-1/3-0 etc. = sehr breite Sicherheits-Marge. Bewusst NICHT Unter 2.5 angesetzt (obwohl Goldgrube-Markt +22.6% ROI) wegen Lesson 06.27/06.28: MUSS-Sieg-Druck-Cluster (CRO-GHA 2:1, COD-UZB 3:1) brickte Unter-2.5-Tipp 2/2. K.O.-Premiere für beide = beidseitiger MUSS-Sieg-Druck → Unter 3.5 als sicherere Variante, akzeptiert niedrigere Quote. Quote 1.30 = 77% implizit, faire Wahrscheinlichkeit eher 82-85%.",
+          "lessons_referenz": [
+            "Lesson 06.27/06.28 MUSS-Sieg-Druck-Cluster-Unter25-Bust",
+            "K.O.-Phase Tor-Total-Tendenz niedrig (CLAUDE.md WM-Sonderregel)"
+          ],
+          "quote": 1.3,
+          "markt": "Unter 3.5 Tore im Spiel",
+          "faire_quote": 1.24,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "2026-06-28-rsa-can-t5",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "kategorie": "wackel",
+          "einsatz_euro": 2.75,
+          "edge_prozent": 4.0,
+          "begruendung": "Backup-Stuermer-Hedge zu David - bestätigt im Sturmpaar (Sports Mole / Covers / FanDuel Lineup-Konsens: David + Larin von Beginn). Falls David ausgewechselt wird → Larin profitiert via Einwechslungs-Boost-Insurance umgekehrt nicht, aber direkter Tipp eigenständig. Larin: 7 Schüsse Gesamt-WM-Gruppenphase (kein Tor), in MLS aktuell Top-3-Stuermer Toronto. RSA-Defensive in WM-Gruppe 3 Gegentore zugelassen (Mexiko 2x, CZE 1x), für Larin im Strafraum-Verkehr und Standards realistisch. Quote 3.25 = 31% implizit; faire Wahrscheinlichkeit ~33-36%. Bewusst WACKEL (nicht VALUE) wegen Larin-Tor-Bilanz dieser WM noch leer + Bluter-Status Torschuetzen Jederzeit (HR 38.7%). Einsatz 0.5% Kasse = 2.75€.",
+          "lessons_referenz": [
+            "Backup-Stuermer-Hedge (CLAUDE.md Markt-Mix Regel 3)",
+            "Bluter-Markt-Vorsicht (Torschuetzen 38.7% HR aber +13.4% ROI)"
+          ],
+          "quote": 3.25,
+          "markt": "Cyle Larin trifft jederzeit",
+          "faire_quote": 3.12,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 0,
+        "gast_tore": 1,
+        "status": "FINISHED",
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 0
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-06-28-rsa-can-t1",
+          "spiel_id": "2026-06-28-rsa-can",
+          "markt": "Kanada Doppelte Chance (X oder 2)",
+          "markt_typ": "Doppelte Chance X2",
+          "kategorie": "value",
+          "einsatz_euro": 11.0,
+          "quote": 1.18,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.18,
+          "kommentar": "Kanada gewann 0:1 - DC X2 (Unentschieden oder Kanada-Sieg) klar getroffen.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-06-28-rsa-can-t2",
+          "spiel_id": "2026-06-28-rsa-can",
+          "markt": "Jonathan David trifft jederzeit",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "kategorie": "wackel",
+          "einsatz_euro": 8.0,
+          "quote": 2.75,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "David spielte als Starter durch (Schuss in 78. min noch dokumentiert), traf nicht. Auch nicht ausgewechselt - somit kein Einwechslungs-Boost moeglich. Eustaquio (Starter, kein Sub) traf in 90+2. Trotz Hattrick-Form gegen Katar in K.O.-Defensiv-Premiere torlos.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-06-28-rsa-can-t3",
+          "spiel_id": "2026-06-28-rsa-can",
+          "markt": "Kanada gewinnt regulär (90min)",
+          "markt_typ": "Sieg 90min",
+          "kategorie": "value",
+          "einsatz_euro": 7.0,
+          "quote": 1.75,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.75,
+          "kommentar": "Eustaquio-Volley in 90+2 = Nachspielzeit der regulären 90min. Tipp 'reguläre 90min' klar getroffen. 2:0-Insurance griff NICHT (nur 1 Tor), aber wegen direkter Reg-Sieg auch nicht noetig.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-06-28-rsa-can-t4",
+          "spiel_id": "2026-06-28-rsa-can",
+          "markt": "Unter 3.5 Tore",
+          "markt_typ": "Unter 3.5 Tore",
+          "kategorie": "value",
+          "einsatz_euro": 8.0,
+          "quote": 1.3,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.3,
+          "kommentar": "Endstand 0:1 = nur 1 Tor im ganzen Spiel = unter 3.5 deutlich getroffen. Unter-2.5-Goldgrube haette ebenfalls gewonnen (Sicherheits-Puffer als Folge der MUSS-Sieg-Druck-Cluster-Lesson 06.27/06.28 war konservativ aber unschaedlich).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-06-28-rsa-can-t5",
+          "spiel_id": "2026-06-28-rsa-can",
+          "markt": "Cyle Larin trifft jederzeit",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "kategorie": "wackel",
+          "einsatz_euro": 2.75,
+          "quote": 3.25,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Larin war entgegen Sports-Mole-Vorschau KEIN Starter (Oluwaseyi+David starteten), kam erst ca. 74. Min als Sub rein - traf in restl. ~16+2 min nicht. Da Larin selbst NICHT ausgewechselt wurde (er war ja der Sub-In), keine Boost-Anwendung moeglich. Pre-Game-Lineup-Annahme aus Tipp-Begruendung war fehlerhaft.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "0:1",
+        "tore": [
+          {
+            "min": "90+2",
+            "team": "gast",
+            "spieler": "Stephen Eustáquio",
+            "stand_danach": "0:1",
+            "details": "Volley aus ca. 20m in den unteren Winkel - historisches Tor (erster K.O.-Sieg Kanadas in WM-Geschichte)."
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Drehung - Spiel war torlos bis 90+2; kein Team führte zwischenzeitlich mit 2+ Toren. 2:0-Insurance-Trigger nicht aktiviert; Kanada-Sieg-Tipp gewann regulär ohne Insurance-Beitrag."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Kanada",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Cyle Larin",
+            "details": "Marsch ließ Larin entgegen Pre-Match-Sports-Mole-Vorschau auf der Bank - Oluwaseyi + David als Sturmpaar. Larin kam erst 74. min - Bench-Decision frisst Torschuetzen-Tipp-Edge auf."
+          },
+          {
+            "team": "gast",
+            "spieler": "Alphonso Davies",
+            "details": "Wie angekündigt nur auf der Bank (Muskelreha) - kam nicht zum Einsatz, blieb für mögliches R16 fit."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "K.O.-Premiere für beide Teams + symmetrisches MUSS-Sieg-Druck-Profil endete in defensivem 0:0 bis tief in die Nachspielzeit - WIDERSPRUCH zur Lesson 06.27/06.28 (MUSS-Sieg-Druck = Über-2.5-Cluster CRO-GHA 2:1 + COD-UZB 3:1). K.O.-Phase scheint Tor-Total wieder zu drücken (CLAUDE.md-WM-Sonderregel bestätigt).",
+          "Spätes Tor 90+2 (Eustáquio) = bereits 7. WM-Match in Folge mit Tor ≥85. Minute (Late-Goal-Cluster aus Spieltag 1+2 setzt sich in K.O. fort).",
+          "Torschuetzen-Tipp-Crash erneut: 0/2 Torschuetzen-Tipps gewonnen (David + Larin), Sieger-Schütze ist Mittelfeld-Captain Eustáquio (kein Tipper-Kandidat) - Lesson 06.27 (Goalkeeper/Defensiv-Cluster) + 06.26 (BTTS-Goldgrube vs Spieler-Wette-Bust) bestätigt sich in K.O.-Premiere.",
+          "Larin als sub-in 74. ohne Tor + Larin-Tipp basierte auf Pre-Match-Vorschau die ihn als Starter sah - Lesson für 2026-06-28: 'Sports-Mole-Lineup-Vorschau ist nicht confirmed lineup - bei Doppel-9er-Tipps min. 2 Quellen (covers + onefootball + offiziell) abgleichen, bei Discrepancy auf wackel/skip downgraden.'"
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "spiel_id": "2026-06-28-rsa-can",
+      "spiel": "Südafrika - Kanada (WM R32)",
+      "tipp_id": "2026-06-28-rsa-can-t1",
+      "markt_typ": "Doppelte Chance X2",
+      "kategorie": "value",
+      "einsatz_euro": 11.0,
+      "quote": 1.18,
+      "markt": "Kanada Doppelte Chance (X oder 2)",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 1
+    },
+    {
+      "spiel_id": "2026-06-28-rsa-can",
+      "spiel": "Südafrika - Kanada (WM R32)",
+      "tipp_id": "2026-06-28-rsa-can-t2",
+      "markt_typ": "Torschuetzen Jederzeit",
+      "kategorie": "wackel",
+      "einsatz_euro": 8.0,
+      "quote": 2.75,
+      "markt": "Jonathan David trifft jederzeit",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 2
+    },
+    {
+      "spiel_id": "2026-06-28-rsa-can",
+      "spiel": "Südafrika - Kanada (WM R32)",
+      "tipp_id": "2026-06-28-rsa-can-t3",
+      "markt_typ": "Sieg 90min",
+      "kategorie": "value",
+      "einsatz_euro": 7.0,
+      "quote": 1.75,
+      "markt": "Kanada gewinnt regulär (90min)",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 3
+    },
+    {
+      "spiel_id": "2026-06-28-rsa-can",
+      "spiel": "Südafrika - Kanada (WM R32)",
+      "tipp_id": "2026-06-28-rsa-can-t4",
+      "markt_typ": "Unter 3.5 Tore",
+      "kategorie": "value",
+      "einsatz_euro": 8.0,
+      "quote": 1.3,
+      "markt": "Unter 3.5 Tore",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 4
+    },
+    {
+      "spiel_id": "2026-06-28-rsa-can",
+      "spiel": "Südafrika - Kanada (WM R32)",
+      "tipp_id": "2026-06-28-rsa-can-t5",
+      "markt_typ": "Torschuetzen Jederzeit",
+      "kategorie": "wackel",
+      "einsatz_euro": 2.75,
+      "quote": 3.25,
+      "markt": "Cyle Larin trifft jederzeit",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 5
+    }
+  ],
+  "kombis": [],
+  "lessons_angewandt": [
+    {
+      "datum_ursprung": "2026-06-28",
+      "lesson_kurz": "MUSS-Sieg-Druck-Cluster-Unter25-Goldgrube-Bust (Lesson 06.27/06.28): in WM-MD3 lieferten 2/2 MUSS-Sieg-Druck-Teams Sieg + Über 2.5 Tore (CRO-GHA 2:1, COD-UZB 3:1) → Unter-2.5-Goldgrube gebrickt. Konsequenz heute: K.O.-Premiere = beidseits MUSS-Sieg-Druck → Tor-Total auf Unter 3.5 statt 2.5 angesetzt (Sicherheits-Puffer)."
+    },
+    {
+      "datum_ursprung": "2026-06-28",
+      "lesson_kurz": "Einwechslungs-Boost-Trigger-HIT (CRO-GHA: Vlasic für Kramaric eingewechselt, traf 83. → Kramaric-Tipp gewonnen via bet365-Boost-Regel). Konsequenz: David- und Larin-Tipps profitieren bei Auswechslung → Risikoreduktion eingebaut."
+    },
+    {
+      "datum_ursprung": "2026-06-18",
+      "lesson_kurz": "Karriere-Highlight-INVERS-Lesson 3-fach gebrochen (Bellingham PAN-ENG, Lo Celso JOR-ARG, Messi+1 weiterer): Star-Torschuetzen treffen sehr wohl in WM-Karriere-Highlight-Spielen. Konsequenz: David-Torschuetzen-Tipp nicht gegen die These vermieden, sondern als VALUE pflichtmäßig gespielt."
+    },
+    {
+      "datum_ursprung": "CLAUDE.md",
+      "lesson_kurz": "Markt-Mix-Pflicht: AUSWAERTS-FAVORIT (Kanada Quote 1.75 < 2.20) erzwingt MIN 1 Torschuetzen-Tipp auf Auswärts-Stuermer (David) + 1 Sieg-Tipp (Canada 1.75). DC-Cap: max 1 DC pro Spiel (1× DC X2) eingehalten."
+    },
+    {
+      "datum_ursprung": "CLAUDE.md",
+      "lesson_kurz": "2:0-Insurance-Regel WM 2026: direkter Kanada-Sieg-Tipp ist bei 2:0-Führung sofort gewonnen, auch bei Comeback-Verlust - reduziert 90min-Risiko in K.O.-Phase."
+    },
+    {
+      "datum_ursprung": "CLAUDE.md",
+      "lesson_kurz": "Mapper-Hebel C aktiv: WM-Knockout ist NICHT in Liga-Goldgrube-Liste (PL, LaLiga, CL-HF) → SAFE-DC würde sowieso auf VALUE downgegradet → explizit als VALUE eingestuft trotz 84%+ Implied-Wahrscheinlichkeit."
+    },
+    {
+      "datum_ursprung": "2026-06-27",
+      "lesson_kurz": "NBA-Finals beendet (Knicks 4-1 Sweep-Ende Game 5 13.06.) → seit 26.04. NBA-Player-Punkte-Boykott aktiv, heute ohnehin keine NBA-Spiele. Vereinsfußball Sommerpause bis August → einziger Liefer-Kontext WM 2026."
+    }
+  ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-06-28T15:25:00+02:00",
+    "modus": "watchdog_recovery_offline_verifikation",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "torschuetze_vereins_quelle_fehlt",
+        "tipp_id": "2026-06-28-rsa-can-t2",
+        "details": "Jonathan David Anytime: keine Verein-Squad-Quelle (transfermarkt/kicker/espn player-Seite) in saison_kontext.quellen[] - bereits via _torschuetze_quelle_warn=true im Tipp markiert und auf wackel eingestuft (kein zusaetzliches Downgrade noetig). Form-Plausibilitaet (3 Tore Gruppenphase, Hattrick vs Katar) konsistent mit Lessons 12.06./13.06."
+      },
+      {
+        "art": "torschuetze_vereins_quelle_fehlt",
+        "tipp_id": "2026-06-28-rsa-can-t5",
+        "details": "Cyle Larin Anytime: keine Verein-Squad-Quelle (Toronto FC / MLS) in quellen[]. Tipp bereits wackel mit niedrigem Einsatz (2.75 EUR / 0.5 % Kasse). Kein zusaetzliches Downgrade."
+      },
+      {
+        "art": "sieg_outcome_doppel_einzel",
+        "spiel_id": "2026-06-28-rsa-can",
+        "details": "t1 (DC X2 Kanada @ 1.18) + t3 (Kanada Sieg 90min @ 1.75) sind beides Sieg-Outcomes auf Kanada als EINZELwetten - kein Kombi, daher KEIN Layer-2-Cap-Bruch (Layer-2 betrifft Kombis). Hinweis: t3 ist nur lukrativ bei klarem 90min-Sieg, t1 deckt das X-Szenario zusaetzlich ab. Risk-Stack bewusst akzeptiert."
+      }
+    ],
+    "pruefungen": {
+      "spieler_halluzination": "OK - Jonathan David (CAN Top-Scorer Allzeit, 3 Tore Gruppenphase, Hattrick vs Katar 18.06. - mehrfach in lessons.json 12.06. + 13.06. dokumentiert) UND Cyle Larin (CAN Stuermer, MLS Toronto FC, Sturm-Backup-Rolle) beide real + Sturm-Position + Kanada-WM-Kader 2026 plausibel.",
+      "saison_kontext_quellen": "OK - parallel_heim/gast = 'keine (Nationalteam)' = kein Wettbewerb-Claim, daher keine Verband-URL-Pflicht. quellen[] enthaelt fifa.com + olympics.com + cbc.ca + espn + sportsmole = 6 offizielle/serioese URLs.",
+      "layer_2_check": "TRIVIAL OK - kombis[] ist leer. Einzeltipps t1+t3 doppel-Sieg-Outcome auf Kanada nur als WARN markiert (siehe oben), kein Regelverstoss.",
+      "quoten_plausibilitaet": "OK - DC X2 1.18 (84.7%), Sieg 1.75 (57.1%), David Jederzeit 2.75 (36.4%), Larin Jederzeit 3.25 (30.8%), Unter 3.5 1.30 (76.9%) - alle bewegungsplausibel fuer Co-Gastgeber-Favorit Kanada vs Aussenseiter RSA in WM-R32-Premiere. bet365-live-Pruefung weiter empfohlen.",
+      "selbstwiderspruchs_scan": "OK - Kone (Beinbruch vs Katar) konsistent als out gefuehrt (kein David/Larin-Tipp baut auf Kone). Zwane out (RSA) hat keinen Tipp-Bezug. Davies + Bombito Comeback wirkt sich nicht widerspruechlich auf David-Tipp aus (Davies ist LV, kein Sturm-Konkurrent). Form-Argument David (Hattrick vs Katar) plausibel via lessons.json 12.06./13.06.",
+      "liga_frische_check": "OK - hinweis_text 'Vereinsfussball Sommer-Pause bis August' = stimmt fuer Juni 2026. Alle saison_kontext-Felder konsistent mit Nationalmannschafts-Kontext (WM K.O.-Premiere).",
+      "wm_sonderregel_check": "OK - 2:0-Insurance in t3-Begruendung korrekt angewandt (CLAUDE.md: gilt fuer WM 2026 + direkter Sieg-Tipp). Einwechslungs-Boost-Insurance in t2-Begruendung korrekt erwaehnt (David ausgewechselt -> Ersatz-Tor zaehlt). Konsistent mit CLAUDE.md WM-Sonderregeln + bet365-Spezifika."
+    },
+    "lessons_generiert": [],
+    "fazit": "Watchdog-Recovery-Output ist sauber. Keine Halluzinationen, keine Selbstwidersprueche, Layer-Check trivial OK (keine Kombis). 2 Quellen-WARNs fuer Torschuetzen-Tipps (David + Larin) - bereits via wackel-Einstufung + niedrige Einsaetze gepuffert. Tipps freigegeben fuer PWA-Anzeige."
+  },
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "einzeltipps_ergebnis": [
+    {
+      "spiel_id": "2026-06-28-rsa-can",
+      "spiel": "Südafrika - Kanada (WM R32)",
+      "tipp_id": "2026-06-28-rsa-can-t1",
+      "markt_typ": "Doppelte Chance X2",
+      "kategorie": "value",
+      "einsatz_euro": 11.0,
+      "quote": 1.18,
+      "markt": "Kanada Doppelte Chance (X oder 2)",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 1,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.18,
+      "kommentar": "Kanada gewann 0:1 - DC X2 (Unentschieden oder Kanada-Sieg) klar getroffen.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "spiel_id": "2026-06-28-rsa-can",
+      "spiel": "Südafrika - Kanada (WM R32)",
+      "tipp_id": "2026-06-28-rsa-can-t2",
+      "markt_typ": "Torschuetzen Jederzeit",
+      "kategorie": "wackel",
+      "einsatz_euro": 8.0,
+      "quote": 2.75,
+      "markt": "Jonathan David trifft jederzeit",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 2,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": "David spielte als Starter durch (Schuss in 78. min noch dokumentiert), traf nicht. Auch nicht ausgewechselt - somit kein Einwechslungs-Boost moeglich. Eustaquio (Starter, kein Sub) traf in 90+2. Trotz Hattrick-Form gegen Katar in K.O.-Defensiv-Premiere torlos.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "spiel_id": "2026-06-28-rsa-can",
+      "spiel": "Südafrika - Kanada (WM R32)",
+      "tipp_id": "2026-06-28-rsa-can-t3",
+      "markt_typ": "Sieg 90min",
+      "kategorie": "value",
+      "einsatz_euro": 7.0,
+      "quote": 1.75,
+      "markt": "Kanada gewinnt regulär (90min)",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 3,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.75,
+      "kommentar": "Eustaquio-Volley in 90+2 = Nachspielzeit der regulären 90min. Tipp 'reguläre 90min' klar getroffen. 2:0-Insurance griff NICHT (nur 1 Tor), aber wegen direkter Reg-Sieg auch nicht noetig.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "spiel_id": "2026-06-28-rsa-can",
+      "spiel": "Südafrika - Kanada (WM R32)",
+      "tipp_id": "2026-06-28-rsa-can-t4",
+      "markt_typ": "Unter 3.5 Tore",
+      "kategorie": "value",
+      "einsatz_euro": 8.0,
+      "quote": 1.3,
+      "markt": "Unter 3.5 Tore",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 4,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.3,
+      "kommentar": "Endstand 0:1 = nur 1 Tor im ganzen Spiel = unter 3.5 deutlich getroffen. Unter-2.5-Goldgrube haette ebenfalls gewonnen (Sicherheits-Puffer als Folge der MUSS-Sieg-Druck-Cluster-Lesson 06.27/06.28 war konservativ aber unschaedlich).",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "spiel_id": "2026-06-28-rsa-can",
+      "spiel": "Südafrika - Kanada (WM R32)",
+      "tipp_id": "2026-06-28-rsa-can-t5",
+      "markt_typ": "Torschuetzen Jederzeit",
+      "kategorie": "wackel",
+      "einsatz_euro": 2.75,
+      "quote": 3.25,
+      "markt": "Cyle Larin trifft jederzeit",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 5,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Larin war entgegen Sports-Mole-Vorschau KEIN Starter (Oluwaseyi+David starteten), kam erst ca. 74. Min als Sub rein - traf in restl. ~16+2 min nicht. Da Larin selbst NICHT ausgewechselt wurde (er war ja der Sub-In), keine Boost-Anwendung moeglich. Pre-Game-Lineup-Annahme aus Tipp-Begruendung war fehlerhaft.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    }
+  ],
+  "kombis_ergebnis": [],
+  "ausgewertet_am": "2026-06-29T07:04:52+00:00",
+  "bilanz": {
+    "tipps_total": 5,
+    "gewonnen": 3,
+    "verloren": 2,
+    "trefferquote": 60.0,
+    "gesamt_einsatz_euro": 36.75,
+    "gesamt_gewinn_euro": -1.12,
+    "roi_prozent": -3.05
+  }
+}

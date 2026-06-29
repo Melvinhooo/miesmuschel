@@ -1,37 +1,37 @@
 {
-  "letzte_berechnung": "2026-06-28T07:10:06+00:00",
+  "letzte_berechnung": "2026-06-29T07:09:57+00:00",
   "gesamt": {
-    "tipps": 460,
-    "gewonnen": 259,
-    "verloren": 190,
+    "tipps": 465,
+    "gewonnen": 262,
+    "verloren": 192,
     "push": 2,
     "offen": 9,
-    "einsatz": 451.0,
-    "netto": 34.92,
+    "einsatz": 456.0,
+    "netto": 34.15,
     "trefferquote": 57.7,
-    "roi_prozent": 7.7
+    "roi_prozent": 7.5
   },
   "letzte_30_tage": {
-    "tipps": 164,
-    "gewonnen": 98,
-    "verloren": 66,
+    "tipps": 169,
+    "gewonnen": 101,
+    "verloren": 68,
     "push": 0,
     "offen": 0,
-    "einsatz": 164.0,
-    "netto": 5.91,
+    "einsatz": 169.0,
+    "netto": 5.14,
     "trefferquote": 59.8,
-    "roi_prozent": 3.6
+    "roi_prozent": 3.0
   },
   "letzte_90_tage": {
-    "tipps": 460,
-    "gewonnen": 259,
-    "verloren": 190,
+    "tipps": 465,
+    "gewonnen": 262,
+    "verloren": 192,
     "push": 2,
     "offen": 9,
-    "einsatz": 451.0,
-    "netto": 34.92,
+    "einsatz": 456.0,
+    "netto": 34.15,
     "trefferquote": 57.7,
-    "roi_prozent": 7.7
+    "roi_prozent": 7.5
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -979,6 +979,17 @@
       "netto": 0.0,
       "trefferquote": 100.0,
       "roi_prozent": 0.0
+    },
+    "FIFA WM 2026 - Round of 32": {
+      "tipps": 5,
+      "gewonnen": 3,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 5.0,
+      "netto": -0.77,
+      "trefferquote": 60.0,
+      "roi_prozent": -15.4
     }
   },
   "nach_markt": {
@@ -4534,6 +4545,61 @@
       "netto": 0.0,
       "trefferquote": 100.0,
       "roi_prozent": 0.0
+    },
+    "Kanada Doppelte Chance (Unentschieden oder Sieg)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.18,
+      "trefferquote": 100.0,
+      "roi_prozent": 18.0
+    },
+    "Jonathan David trifft jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Kanada gewinnt regulär (90min)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.75,
+      "trefferquote": 100.0,
+      "roi_prozent": 75.0
+    },
+    "Unter 3.5 Tore im Spiel": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.3,
+      "trefferquote": 100.0,
+      "roi_prozent": 30.0
+    },
+    "Cyle Larin trifft jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
     }
   },
   "nach_markt_typ": {
@@ -4593,15 +4659,15 @@
       "roi_prozent": 4.0
     },
     "Torschuetzen Jederzeit": {
-      "tipps": 77,
+      "tipps": 79,
       "gewonnen": 29,
-      "verloren": 46,
+      "verloren": 48,
       "push": 2,
       "offen": 0,
-      "einsatz": 77.0,
-      "netto": 10.35,
-      "trefferquote": 38.7,
-      "roi_prozent": 13.4
+      "einsatz": 79.0,
+      "netto": 8.35,
+      "trefferquote": 37.7,
+      "roi_prozent": 10.6
     },
     "Unter 2.5 Tore": {
       "tipps": 24,
@@ -4802,15 +4868,15 @@
       "roi_prozent": -100.0
     },
     "Unter 3.5 Tore": {
-      "tipps": 5,
-      "gewonnen": 3,
+      "tipps": 6,
+      "gewonnen": 4,
       "verloren": 2,
       "push": 0,
       "offen": 0,
-      "einsatz": 5.0,
-      "netto": -0.75,
-      "trefferquote": 60.0,
-      "roi_prozent": -15.0
+      "einsatz": 6.0,
+      "netto": -0.45,
+      "trefferquote": 66.7,
+      "roi_prozent": -7.5
     },
     "Unentschieden oder Sunderland": {
       "tipps": 1,
@@ -4978,15 +5044,15 @@
       "roi_prozent": 21.0
     },
     "Doppelte Chance": {
-      "tipps": 2,
-      "gewonnen": 1,
+      "tipps": 3,
+      "gewonnen": 2,
       "verloren": 1,
       "push": 0,
       "offen": 0,
-      "einsatz": 2.0,
-      "netto": -0.72,
-      "trefferquote": 50.0,
-      "roi_prozent": -36.0
+      "einsatz": 3.0,
+      "netto": -0.54,
+      "trefferquote": 66.7,
+      "roi_prozent": -18.0
     },
     "Victor Wembanyama Double-Double": {
       "tipps": 2,
@@ -5042,52 +5108,63 @@
       "netto": 0.75,
       "trefferquote": 100.0,
       "roi_prozent": 75.0
+    },
+    "Kanada gewinnt regulär (90min)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.75,
+      "trefferquote": 100.0,
+      "roi_prozent": 75.0
     }
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 203,
-      "gewonnen": 107,
+      "tipps": 204,
+      "gewonnen": 108,
       "verloren": 91,
       "push": 1,
       "offen": 4,
-      "einsatz": 199.0,
-      "netto": 14.5,
-      "trefferquote": 54.0,
-      "roi_prozent": 7.3
+      "einsatz": 200.0,
+      "netto": 15.25,
+      "trefferquote": 54.3,
+      "roi_prozent": 7.6
     },
     "2.00-3.00": {
-      "tipps": 63,
+      "tipps": 64,
       "gewonnen": 24,
-      "verloren": 37,
+      "verloren": 38,
       "push": 1,
       "offen": 1,
-      "einsatz": 62.0,
-      "netto": 3.44,
-      "trefferquote": 39.3,
-      "roi_prozent": 5.5
+      "einsatz": 63.0,
+      "netto": 2.44,
+      "trefferquote": 38.7,
+      "roi_prozent": 3.9
     },
     "1.00-1.50": {
-      "tipps": 176,
-      "gewonnen": 122,
+      "tipps": 178,
+      "gewonnen": 124,
       "verloren": 50,
       "push": 0,
       "offen": 4,
-      "einsatz": 172.0,
-      "netto": 9.43,
-      "trefferquote": 70.9,
-      "roi_prozent": 5.5
+      "einsatz": 174.0,
+      "netto": 9.91,
+      "trefferquote": 71.3,
+      "roi_prozent": 5.7
     },
     "3.00+": {
-      "tipps": 18,
+      "tipps": 19,
       "gewonnen": 6,
-      "verloren": 12,
+      "verloren": 13,
       "push": 0,
       "offen": 0,
-      "einsatz": 18.0,
-      "netto": 7.55,
-      "trefferquote": 33.3,
-      "roi_prozent": 41.9
+      "einsatz": 19.0,
+      "netto": 6.55,
+      "trefferquote": 31.6,
+      "roi_prozent": 34.5
     }
   },
   "nach_kategorie": {
@@ -5103,26 +5180,26 @@
       "roi_prozent": 1.0
     },
     "value": {
-      "tipps": 275,
-      "gewonnen": 154,
+      "tipps": 278,
+      "gewonnen": 157,
       "verloren": 110,
       "push": 2,
       "offen": 9,
-      "einsatz": 266.0,
-      "netto": 32.24,
-      "trefferquote": 58.3,
-      "roi_prozent": 12.1
+      "einsatz": 269.0,
+      "netto": 33.47,
+      "trefferquote": 58.8,
+      "roi_prozent": 12.4
     },
     "wackel": {
-      "tipps": 90,
+      "tipps": 92,
       "gewonnen": 41,
-      "verloren": 49,
+      "verloren": 51,
       "push": 0,
       "offen": 0,
-      "einsatz": 90.0,
-      "netto": 1.73,
-      "trefferquote": 45.6,
-      "roi_prozent": 1.9
+      "einsatz": 92.0,
+      "netto": -0.27,
+      "trefferquote": 44.6,
+      "roi_prozent": -0.3
     }
   },
   "clv_gesamt": {
@@ -5164,6 +5241,72 @@
     }
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-06-28",
+      "gesamt": {
+        "tipps": 5,
+        "gewonnen": 3,
+        "verloren": 2,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 5.0,
+        "netto": -0.77,
+        "trefferquote": 60.0,
+        "roi_prozent": -15.4
+      },
+      "spiele": [
+        {
+          "id": "2026-06-28-rsa-can",
+          "liga": "FIFA WM 2026 - Round of 32",
+          "heim": "Südafrika",
+          "gast": "Kanada",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Kanada Doppelte Chance (Unentschieden oder Sieg)",
+              "quote": 1.18,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.18,
+              "kommentar": "Kanada gewann 0:1 - DC X2 (Unentschieden oder Kanada-Sieg) klar getroffen."
+            },
+            {
+              "markt": "Jonathan David trifft jederzeit",
+              "quote": 2.75,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "David spielte als Starter durch (Schuss in 78. min noch dokumentiert), traf nicht. Auch nicht ausgewechselt - somit kein Einwechslungs-Boost moeglich. Eustaquio (Starter, kein Sub) traf in 90+2. Trotz Hattrick-Form gegen Katar in K.O.-Defensiv-Premiere torlos."
+            },
+            {
+              "markt": "Kanada gewinnt regulär (90min)",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.75,
+              "kommentar": "Eustaquio-Volley in 90+2 = Nachspielzeit der regulären 90min. Tipp 'reguläre 90min' klar getroffen. 2:0-Insurance griff NICHT (nur 1 Tor), aber wegen direkter Reg-Sieg auch nicht noetig."
+            },
+            {
+              "markt": "Unter 3.5 Tore im Spiel",
+              "quote": 1.3,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.3,
+              "kommentar": "Endstand 0:1 = nur 1 Tor im ganzen Spiel = unter 3.5 deutlich getroffen. Unter-2.5-Goldgrube haette ebenfalls gewonnen (Sicherheits-Puffer als Folge der MUSS-Sieg-Druck-Cluster-Lesson 06.27/06.28 war konservativ aber unschaedlich)."
+            },
+            {
+              "markt": "Cyle Larin trifft jederzeit",
+              "quote": 3.25,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Larin war entgegen Sports-Mole-Vorschau KEIN Starter (Oluwaseyi+David starteten), kam erst ca. 74. Min als Sub rein - traf in restl. ~16+2 min nicht. Da Larin selbst NICHT ausgewechselt wurde (er war ja der Sub-In), keine Boost-Anwendung moeglich. Pre-Game-Lineup-Annahme aus Tipp-Begruendung war fehlerhaft."
+            }
+          ]
+        }
+      ],
+      "kombis": []
+    },
     {
       "datum": "2026-06-27",
       "gesamt": {
