@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS = {
+{
   "datum": "2026-06-29",
   "erstellt_am": "2026-06-29T17:15:00+02:00",
   "hinweis": "Watchdog-Recovery Mo (Hauptroutine 16:00 nicht durchgelaufen, 17:15 nachgeholt). WM-2026-Achtelfinale/Round-of-32 Tag 2: 3 K.O.-Spiele heute - Brasilien-Japan (19:00 Houston), Deutschland-Paraguay (22:30 Boston), Niederlande-Marokko (03:00 Di Monterrey). Vereins-Saison Sommer-Pause, NBA-Finals seit 13.06. durch (Knicks 4-1). 2:0-Insurance gilt fuer WM (FIFA-Aktionsregel). Liga-Goldgrube-Liste: WM-Knockout-R32 ist NICHT drin -> Mapper-Hebel C degraded SAFE-DC automatisch auf VALUE, daher heute kein SAFE-DC. Late-Goal-Cluster bereits 7 Tage in Folge (Lesson 06.29) + KO-Premiere-Defensiv-Laehmungs-Pattern (RSA-CAN 0:1 90+2). Lineup-Vorsicht (Lesson 06.29 RSA-CAN Larin-Bench-Falle): Predicted-Lineups sind nicht Confirmed-Lineups.",
@@ -558,4 +557,4 @@ window.__MIESMUSCHEL_TIPPS = {
     "Spread/Handicap = Markt-Bluter (-10.5% ROI / 30.8% HR, n=13): KEIN Spread-Tipp heute gesetzt (Mapper-Hebel B Pflicht-Wartung)."
   ],
   "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
-};
+}
