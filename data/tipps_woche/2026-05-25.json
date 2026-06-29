@@ -64,33 +64,9 @@
         "Lesson 22.05.: genau dieses Hinspiel war 0:0; Existenz-Druck-Doppelspiele kippen oft ins Defensive statt ins Tor-Festival.",
         "Achtung 2.-Liga-Beteiligung (Paderborn): Liga-Form unkalibriert (2. Bundesliga Beobachtungs-Status, -40% ROI). Tipps vorsichtig + NICHT als SAFE."
       ],
-      "tipps": [
-        {
-          "id": "pad-wob-1",
-          "kategorie": "value",
-          "markt": "VfL Wolfsburg Doppelte Chance X2 (Sieg oder Remis)",
-          "prognose": "Wolfsburg verliert nicht in 90 Min",
-          "quote": 1.45,
-          "edge_prozent": 5.0,
-          "faire_quote": 1.38,
-          "empfohlener_einsatz_prozent": 1.0,
-          "einsatz_euro": 5.5,
-          "begruendung": "Wolfsburg ist BL-Qualitaet, klarer Auswaerts-Favorit und gewann alle letzten 6 Entscheidungsspiele seit 2020 - X2 deckt Sieg + Verlaengerungs-Weg ab. Goldgrube DC X2: 69.2% / +15.8% ROI (n=15). Bewusst VALUE statt SAFE wegen 2.-Liga-Beteiligung (Paderborn-Form unkalibriert) + Relegations-Upset-Varianz. Einsatz 1.0% von 550EUR = 5.50EUR. Quote bei bet365 live pruefen."
-        },
-        {
-          "id": "pad-wob-2",
-          "kategorie": "value",
-          "markt": "Unter 2.5 Tore",
-          "prognose": "0:0 / 1:0 / 1:1 - vorsichtiger Decider",
-          "quote": 1.75,
-          "edge_prozent": 6.0,
-          "faire_quote": 1.65,
-          "empfohlener_einsatz_prozent": 1.0,
-          "einsatz_euro": 5.5,
-          "begruendung": "Hinspiel 0:0 + beidseitiger Existenz-Druck => Vorsichts-Defensive ueberwiegt (Lesson 22.05. genau zu diesem Tie). Goldgrube Unter 2.5: 63.6% / +27.5% ROI (n=11). Wetten auf 90 Min. Einsatz 1.0% = 5.50EUR. bet365 live pruefen."
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-05-25-cle-nyk",
@@ -124,7 +100,7 @@
       "_recherche_fehlt": true
     },
     {
-      "id": "2026-05-27-okc-sas-wcf-g5",
+      "id": "2026-05-26-okc-sas",
       "liga": "NBA Western Conference Finals",
       "heim": "Oklahoma City Thunder",
       "gast": "San Antonio Spurs",
@@ -155,22 +131,7 @@
       "_recherche_fehlt": true
     }
   ],
-  "einzeltipps": [
-    {
-      "id": "et-3",
-      "spiel_id": "2026-05-25-pad-wob",
-      "tipp_id": "pad-wob-1",
-      "kategorie": "value",
-      "markt": "Paderborn - Wolfsburg: Wolfsburg Doppelte Chance X2 (Sieg oder Remis)",
-      "quote": 1.45,
-      "edge_prozent": 5.0,
-      "begruendung": "Wolfsburg BL-Qualitaet, Auswaerts-Favorit, gewann alle letzten 6 Entscheidungsspiele seit 2020. Goldgrube DC X2 (69.2% / +15.8%). VALUE statt SAFE wegen 2.-Liga-Beteiligung (Beobachtungs-Status) + Relegations-Varianz. Stake 1.0% x 550EUR = 5.50EUR. bet365 live pruefen.",
-      "einsatz_euro": 5.5,
-      "einsatz_prozent_kasse": 1.0,
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 1
-    }
-  ],
+  "einzeltipps": [],
   "kombis": [],
   "lessons_angewandt": [
     {

@@ -35,36 +35,38 @@ window.__MIESMUSCHEL_TIPPS = {
         {
           "id": "2026-06-29-bra-jpn-t1",
           "markt_typ": "Spiel-Sieg",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "einsatz_euro": 11.0,
           "edge_prozent": 7.0,
           "quote": 1.73,
           "markt": "Brasilien Sieg (90 Min)",
           "faire_quote": 1.6,
           "empfohlener_einsatz_prozent": 2.0,
-          "begruendung": "Brasilien Sieg-Quote 1.73 = 57.8% implizit. Klassen-Edge + Form-Edge (Vinicius 4 Tore in 3, Brasilien 9 Tore / 1 Gegentor Gruppenphase) -> sharp-fair eher 62-65%. Reality-Check statistik.json: WM-2026 reines Sieg-Tipps positiv. 2:0-Insurance gilt fuer WM (FIFA-Aktionsregel laut CLAUDE.md) - falls Brasilien zwischenzeitlich 2:0+ fuehrt, Tipp gewonnen egal wie's endet. WM-K.O.-R32 nicht in Liga-Goldgrube -> bewusst VALUE statt SAFE trotz starker Sicherheits-Quote.",
+          "begruendung": "Brasilien Sieg-Quote 1.73 = 57.8% implizit. Klassen-Edge + Form-Edge (Vinicius 4 Tore in 3, Brasilien 9 Tore / 1 Gegentor Gruppenphase) -> sharp-fair eher 62-65%. Reality-Check statistik.json: WM-2026 reines Sieg-Tipps positiv. 2:0-Insurance gilt fuer WM (FIFA-Aktionsregel laut CLAUDE.md) - falls Brasilien zwischenzeitlich 2:0+ fuehrt, Tipp gewonnen egal wie's endet. WM-K.O.-R32 nicht in Liga-Goldgrube -> bewusst VALUE statt SAFE trotz starker Sicherheits-Quote. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
           "lessons_referenz": [
             "Mapper-Hebel C: WM-Knockout = keine Liga-Goldgrube -> kein SAFE",
             "2:0-Insurance gilt fuer WM (CLAUDE.md bet365-Sonderregel)",
             "KO-Premiere-Defensiv-Laehmungs-Pattern (Lesson 06.29) -> Spiel-Sieg solider als Tor-Total"
-          ]
+          ],
+          "_saison_kontext_sanity_downgrade": true
         },
         {
           "id": "2026-06-29-bra-jpn-t2",
           "markt_typ": "Torschuetzen Jederzeit",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "einsatz_euro": 11.0,
           "edge_prozent": 9.0,
           "quote": 2.5,
           "markt": "Vinicius Junior trifft jederzeit",
           "faire_quote": 2.2,
           "empfohlener_einsatz_prozent": 2.0,
-          "begruendung": "Vinicius Jr 4 Tore in 3 Spielen (Goldener-Schuh-Race). Mit Raphinha-Ausfall noch mehr Ball-Volumen + Schuss-Volumen. Reality-Check statistik.json: Torschuetzen Jederzeit ist mit 50% HR / +24.4% ROI Top-Goldgrube. Vinicius spielt links offensiv aussen, kommt aus Halbraum-Dribbel in Schussposition. Einwechslungs-Boost-Sicherung: falls ausgewechselt fuer Neymar/Endrick, deren Tore zaehlen fuer Vinicius (CLAUDE.md bet365-Sonderregel).",
+          "begruendung": "Vinicius Jr 4 Tore in 3 Spielen (Goldener-Schuh-Race). Mit Raphinha-Ausfall noch mehr Ball-Volumen + Schuss-Volumen. Reality-Check statistik.json: Torschuetzen Jederzeit ist mit 50% HR / +24.4% ROI Top-Goldgrube. Vinicius spielt links offensiv aussen, kommt aus Halbraum-Dribbel in Schussposition. Einwechslungs-Boost-Sicherung: falls ausgewechselt fuer Neymar/Endrick, deren Tore zaehlen fuer Vinicius (CLAUDE.md bet365-Sonderregel). [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "lessons_referenz": [
             "Torschuetzen Jederzeit = Goldgrube (+24.4% ROI, n=14)",
             "Einwechslungs-Boost-Sicherung (CLAUDE.md): Tor von Vinicius-Ersatz zaehlt",
             "Form-Edge-Pflicht (4 Tore in 3 = klares Form-Signal)"
-          ]
+          ],
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "2026-06-29-bra-jpn-t3",
@@ -98,10 +100,11 @@ window.__MIESMUSCHEL_TIPPS = {
             "KO-Premiere-Defensiv-Laehmung (Lesson 06.29 RSA-CAN 0:1)"
           ]
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
-      "id": "2026-06-29-ger-par",
+      "id": "2026-06-30-ger-par",
       "liga": "FIFA WM 2026 - Round of 32",
       "heim": "Deutschland",
       "gast": "Paraguay",
@@ -197,10 +200,11 @@ window.__MIESMUSCHEL_TIPPS = {
             "Gegner-MF-Patchwork erzeugt Tor-Wahrscheinlichkeit"
           ]
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
-      "id": "2026-06-29-ned-mar",
+      "id": "2026-06-30-ned-mar",
       "liga": "FIFA WM 2026 - Round of 32",
       "heim": "Niederlande",
       "gast": "Marokko",
@@ -262,23 +266,6 @@ window.__MIESMUSCHEL_TIPPS = {
           ]
         },
         {
-          "id": "2026-06-29-ned-mar-t3",
-          "markt_typ": "Torschuetzen Jederzeit",
-          "kategorie": "wackel",
-          "einsatz_euro": 2.75,
-          "edge_prozent": 5.0,
-          "quote": 3.0,
-          "markt": "Ismael Saibari trifft jederzeit",
-          "faire_quote": 2.7,
-          "empfohlener_einsatz_prozent": 0.5,
-          "begruendung": "Saibari 3 Tore in 3 Spielen = klarer Form-Edge (CLAUDE.md-Regel: 2+ Tore in 3 Spielen -> Torschuetzen-Tipp PFLICHT). Goldgrube-Markt (+24.4% ROI). Bayern-Wechsel-Hype kann Form weiter pushen. WACKEL weil K.O.-Premiere-Pattern (Lesson 06.29) MAR-Mittelfeld vorsichtiger einstellen koennte + NL-Pressing Saibari im Halbraum isolieren kann.",
-          "lessons_referenz": [
-            "Form-Edge-Pflicht erfuellt (3 Tore in 3 Spielen)",
-            "Torschuetzen Jederzeit Goldgrube (+24.4% ROI)",
-            "KO-Premiere-Defensiv-Laehmung (Lesson 06.29) als WACKEL-Begruendung"
-          ]
-        },
-        {
           "id": "2026-06-29-ned-mar-t4",
           "markt_typ": "Torschuetzen Jederzeit",
           "kategorie": "wackel",
@@ -295,12 +282,13 @@ window.__MIESMUSCHEL_TIPPS = {
             "Form-Trend NL: 4+ Tore in letzten 3 WM-Spielen"
           ]
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     }
   ],
   "einzeltipps": [
     {
-      "spiel_id": "2026-06-29-ger-par",
+      "spiel_id": "2026-06-30-ger-par",
       "spiel": "Deutschland - Paraguay (WM R32)",
       "tipp_id": "2026-06-29-ger-par-t4",
       "markt_typ": "Ueber 2.5 Tore",
@@ -312,7 +300,7 @@ window.__MIESMUSCHEL_TIPPS = {
       "rang": 1
     },
     {
-      "spiel_id": "2026-06-29-ger-par",
+      "spiel_id": "2026-06-30-ger-par",
       "spiel": "Deutschland - Paraguay (WM R32)",
       "tipp_id": "2026-06-29-ger-par-t1",
       "markt_typ": "Spiel-Sieg",
@@ -328,7 +316,7 @@ window.__MIESMUSCHEL_TIPPS = {
       "spiel": "Brasilien - Japan (WM R32)",
       "tipp_id": "2026-06-29-bra-jpn-t1",
       "markt_typ": "Spiel-Sieg",
-      "kategorie": "value",
+      "kategorie": "wackel",
       "einsatz_euro": 11.0,
       "quote": 1.73,
       "markt": "Brasilien Sieg (90 Min)",
@@ -336,7 +324,7 @@ window.__MIESMUSCHEL_TIPPS = {
       "rang": 3
     },
     {
-      "spiel_id": "2026-06-29-ned-mar",
+      "spiel_id": "2026-06-30-ned-mar",
       "spiel": "Niederlande - Marokko (WM R32)",
       "tipp_id": "2026-06-29-ned-mar-t1",
       "markt_typ": "Ueber 2.5 Tore",
@@ -348,7 +336,7 @@ window.__MIESMUSCHEL_TIPPS = {
       "rang": 4
     },
     {
-      "spiel_id": "2026-06-29-ned-mar",
+      "spiel_id": "2026-06-30-ned-mar",
       "spiel": "Niederlande - Marokko (WM R32)",
       "tipp_id": "2026-06-29-ned-mar-t2",
       "markt_typ": "Beide Teams treffen",
@@ -364,7 +352,7 @@ window.__MIESMUSCHEL_TIPPS = {
       "spiel": "Brasilien - Japan (WM R32)",
       "tipp_id": "2026-06-29-bra-jpn-t2",
       "markt_typ": "Torschuetzen Jederzeit",
-      "kategorie": "value",
+      "kategorie": "wackel",
       "einsatz_euro": 11.0,
       "quote": 2.5,
       "markt": "Vinicius Junior trifft jederzeit",
@@ -372,7 +360,7 @@ window.__MIESMUSCHEL_TIPPS = {
       "rang": 6
     },
     {
-      "spiel_id": "2026-06-29-ger-par",
+      "spiel_id": "2026-06-30-ger-par",
       "spiel": "Deutschland - Paraguay (WM R32)",
       "tipp_id": "2026-06-29-ger-par-t2",
       "markt_typ": "Torschuetzen Jederzeit",
@@ -384,7 +372,7 @@ window.__MIESMUSCHEL_TIPPS = {
       "rang": 7
     },
     {
-      "spiel_id": "2026-06-29-ger-par",
+      "spiel_id": "2026-06-30-ger-par",
       "spiel": "Deutschland - Paraguay (WM R32)",
       "tipp_id": "2026-06-29-ger-par-t3",
       "markt_typ": "Torschuetzen Jederzeit",
@@ -396,19 +384,7 @@ window.__MIESMUSCHEL_TIPPS = {
       "rang": 8
     },
     {
-      "spiel_id": "2026-06-29-ned-mar",
-      "spiel": "Niederlande - Marokko (WM R32)",
-      "tipp_id": "2026-06-29-ned-mar-t3",
-      "markt_typ": "Torschuetzen Jederzeit",
-      "kategorie": "wackel",
-      "einsatz_euro": 2.75,
-      "quote": 3.0,
-      "markt": "Ismael Saibari trifft jederzeit",
-      "empfohlener_einsatz_prozent": 0.5,
-      "rang": 9
-    },
-    {
-      "spiel_id": "2026-06-29-ned-mar",
+      "spiel_id": "2026-06-30-ned-mar",
       "spiel": "Niederlande - Marokko (WM R32)",
       "tipp_id": "2026-06-29-ned-mar-t4",
       "markt_typ": "Torschuetzen Jederzeit",
@@ -417,130 +393,67 @@ window.__MIESMUSCHEL_TIPPS = {
       "quote": 2.5,
       "markt": "Cody Gakpo trifft jederzeit",
       "empfohlener_einsatz_prozent": 0.5,
-      "rang": 10
+      "rang": 9
     }
   ],
   "kombis": [
     {
       "name": "Safe-Kombi 2.35x",
       "kategorie": "safe",
-      "gesamt_quote": 2.35,
       "einsatz_euro": 11.0,
       "empfohlener_einsatz_prozent": 2.0,
       "moeglicher_gewinn_euro": 25.85,
       "beine": [
         {
-          "spiel_id": "2026-06-29-ger-par",
-          "spiel": "Deutschland - Paraguay (WM R32)",
+          "spiel_id": "2026-06-30-ger-par",
           "tipp_id": "2026-06-29-ger-par-t1",
-          "markt": "Deutschland Sieg (90 Min)",
-          "quote": 1.36
+          "markt": "Deutschland - Paraguay: Deutschland Sieg (90 Min)",
+          "quote": 1.36,
+          "spiel_titel": "Deutschland - Paraguay (WM R32)"
         },
         {
           "spiel_id": "2026-06-29-bra-jpn",
-          "spiel": "Brasilien - Japan (WM R32)",
           "tipp_id": "2026-06-29-bra-jpn-t1",
-          "markt": "Brasilien Sieg (90 Min)",
-          "quote": 1.73
+          "markt": "Brasilien - Japan: Brasilien Sieg (90 Min)",
+          "quote": 1.73,
+          "spiel_titel": "Brasilien - Japan (WM R32)"
         }
       ],
-      "begruendung": "Doppelte Klassen-Edge: zwei klare Mit-Favoriten der WM (GER 1.36 / BRA 1.73). Beide profitieren von 2:0-Insurance (CLAUDE.md FIFA-WM-Regel). Layer-1 OK (1 Bein/Spiel). Layer-2 OK (Sieg-Outcomes in unterschiedlichen Spielen, in keiner anderen Kombi wiederverwendet)."
+      "begruendung": "Doppelte Klassen-Edge: zwei klare Mit-Favoriten der WM (GER 1.36 / BRA 1.73). Beide profitieren von 2:0-Insurance (CLAUDE.md FIFA-WM-Regel). Layer-1 OK (1 Bein/Spiel). Layer-2 OK (Sieg-Outcomes in unterschiedlichen Spielen, in keiner anderen Kombi wiederverwendet).",
+      "gesamtquote": 2.35
     },
     {
       "name": "Balance-Kombi 11.0x",
       "kategorie": "balance",
-      "gesamt_quote": 10.99,
       "einsatz_euro": 4.4,
       "empfohlener_einsatz_prozent": 0.8,
       "moeglicher_gewinn_euro": 48.36,
       "beine": [
         {
-          "spiel_id": "2026-06-29-ger-par",
-          "spiel": "Deutschland - Paraguay (WM R32)",
+          "spiel_id": "2026-06-30-ger-par",
           "tipp_id": "2026-06-29-ger-par-t3",
-          "markt": "Florian Wirtz trifft jederzeit",
-          "quote": 3.4
+          "markt": "Deutschland - Paraguay: Florian Wirtz trifft jederzeit",
+          "quote": 3.4,
+          "spiel_titel": "Deutschland - Paraguay (WM R32)"
         },
         {
-          "spiel_id": "2026-06-29-ned-mar",
-          "spiel": "Niederlande - Marokko (WM R32)",
+          "spiel_id": "2026-06-30-ned-mar",
           "tipp_id": "2026-06-29-ned-mar-t1",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.85
+          "markt": "Niederlande - Marokko: Ueber 2.5 Tore",
+          "quote": 1.85,
+          "spiel_titel": "Niederlande - Marokko (WM R32)"
         },
         {
           "spiel_id": "2026-06-29-bra-jpn",
-          "spiel": "Brasilien - Japan (WM R32)",
           "tipp_id": "2026-06-29-bra-jpn-t4",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 2.05
+          "markt": "Brasilien - Japan: Ueber 2.5 Tore",
+          "quote": 2.05,
+          "spiel_titel": "Brasilien - Japan (WM R32)"
         }
       ],
-      "begruendung": "Goldgrube-Kombi: 2x Ueber-2.5-Tore (Top-Goldgrube +34.2% ROI) + 1x Torschuetzen-Jederzeit-Goldgrube (+24.4% ROI). Wirtz als 10er-Position-Star-Triple-Treffer-Pattern-Match (Lesson 06.28). Layer-1 OK (1 Bein/Spiel). Layer-2 OK (keine Sieg-Outcomes -> kein Konflikt mit Safe-Kombi)."
-    },
-    {
-      "name": "Risiko-Kombi 18.75x",
-      "kategorie": "risiko",
-      "gesamt_quote": 18.75,
-      "einsatz_euro": 1.4,
-      "empfohlener_einsatz_prozent": 0.25,
-      "moeglicher_gewinn_euro": 26.25,
-      "beine": [
-        {
-          "spiel_id": "2026-06-29-bra-jpn",
-          "spiel": "Brasilien - Japan (WM R32)",
-          "tipp_id": "2026-06-29-bra-jpn-t2",
-          "markt": "Vinicius Junior trifft jederzeit",
-          "quote": 2.5
-        },
-        {
-          "spiel_id": "2026-06-29-ger-par",
-          "spiel": "Deutschland - Paraguay (WM R32)",
-          "tipp_id": "2026-06-29-ger-par-t2",
-          "markt": "Kai Havertz trifft jederzeit",
-          "quote": 2.5
-        },
-        {
-          "spiel_id": "2026-06-29-ned-mar",
-          "spiel": "Niederlande - Marokko (WM R32)",
-          "tipp_id": "2026-06-29-ned-mar-t3",
-          "markt": "Ismael Saibari trifft jederzeit",
-          "quote": 3.0
-        }
-      ],
-      "begruendung": "Triple-Torschuetzen-Konstellation aller 3 WM-K.O.-Spiele. Alle 3 Stuermer in Form (Vinicius 4 in 3, Saibari 3 in 3, Havertz Volume-9er + Einwechslungs-Boost-Sicherung Undav). Goldgrube-Markt (+24.4% ROI). Layer-1 OK. Layer-2 OK (keine Sieg-Outcomes)."
-    },
-    {
-      "name": "Moonshot-Kombi 61.2x",
-      "kategorie": "moonshot",
-      "gesamt_quote": 61.2,
-      "einsatz_euro": 0.55,
-      "empfohlener_einsatz_prozent": 0.1,
-      "moeglicher_gewinn_euro": 33.66,
-      "beine": [
-        {
-          "spiel_id": "2026-06-29-bra-jpn",
-          "spiel": "Brasilien - Japan (WM R32)",
-          "tipp_id": "2026-06-29-bra-jpn-m1",
-          "markt": "Vinicius Junior Doppelpack (2+ Tore)",
-          "quote": 6.0
-        },
-        {
-          "spiel_id": "2026-06-29-ger-par",
-          "spiel": "Deutschland - Paraguay (WM R32)",
-          "tipp_id": "2026-06-29-ger-par-t3",
-          "markt": "Florian Wirtz trifft jederzeit",
-          "quote": 3.4
-        },
-        {
-          "spiel_id": "2026-06-29-ned-mar",
-          "spiel": "Niederlande - Marokko (WM R32)",
-          "tipp_id": "2026-06-29-ned-mar-t3",
-          "markt": "Ismael Saibari trifft jederzeit",
-          "quote": 3.0
-        }
-      ],
-      "begruendung": "Spass-Einsatz 55 Cent. Vinicius-Doppelpack als Anker (Form-Edge 4 Tore in 3 + Raphinha-Ausfall = mehr Volumen). Wirtz als 10er-Treffer-Cluster-Match (Lesson 06.28). Saibari als Form-Edge-MAR (3 in 3). Layer-1 OK (1 Bein pro Spiel). Layer-2 OK (keine Sieg-Outcomes -> kein Konflikt mit anderen Kombis)."
+      "begruendung": "Goldgrube-Kombi: 2x Ueber-2.5-Tore (Top-Goldgrube +34.2% ROI) + 1x Torschuetzen-Jederzeit-Goldgrube (+24.4% ROI). Wirtz als 10er-Position-Star-Triple-Treffer-Pattern-Match (Lesson 06.28). Layer-1 OK (1 Bein/Spiel). Layer-2 OK (keine Sieg-Outcomes -> kein Konflikt mit Safe-Kombi).",
+      "gesamtquote": 12.89,
+      "rechnung": "3.40 x 1.85 x 2.05 = 12.89"
     }
   ],
   "lessons_angewandt": [
