@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS = {
+{
   "datum": "2026-06-30",
   "erstellt_am": "2026-06-30T17:15:00+02:00",
   "hinweis": "Watchdog-Recovery 17:15 - Hauptroutine 16:00 ist nicht durchgelaufen. WM 2026 Round-of-32 Tag 4 (letzter R32-Tag): 3 Spiele tonight (CIV-NOR 19:00, FRA-SWE 23:00, MEX-ECU 03:00). NBA-Finals sind seit Knicks 4-1-Sieg vorbei. Vereins-Fussball Saison-Pause bis August 2026. Kasse-Stufe 1 (550€). Alle Tipps trotz Top-Favoriten-Pleiten gestern (GER+NED beide raus per Elfm) wegen K.O.-R32-Klassen-Edge-Lesson eine Stufe konservativer.",
@@ -461,4 +460,4 @@ window.__MIESMUSCHEL_TIPPS = {
     }
   ],
   "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
-};
+}
