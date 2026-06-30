@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-06-29T07:09:57+00:00",
+  "letzte_berechnung": "2026-06-30T07:12:42+00:00",
   "gesamt": {
-    "tipps": 465,
-    "gewonnen": 262,
-    "verloren": 192,
+    "tipps": 474,
+    "gewonnen": 266,
+    "verloren": 197,
     "push": 2,
     "offen": 9,
-    "einsatz": 456.0,
-    "netto": 34.15,
-    "trefferquote": 57.7,
-    "roi_prozent": 7.5
+    "einsatz": 465.0,
+    "netto": 33.53,
+    "trefferquote": 57.5,
+    "roi_prozent": 7.2
   },
   "letzte_30_tage": {
-    "tipps": 169,
-    "gewonnen": 101,
-    "verloren": 68,
+    "tipps": 178,
+    "gewonnen": 105,
+    "verloren": 73,
     "push": 0,
     "offen": 0,
-    "einsatz": 169.0,
-    "netto": 5.14,
-    "trefferquote": 59.8,
-    "roi_prozent": 3.0
+    "einsatz": 178.0,
+    "netto": 4.52,
+    "trefferquote": 59.0,
+    "roi_prozent": 2.5
   },
   "letzte_90_tage": {
-    "tipps": 465,
-    "gewonnen": 262,
-    "verloren": 192,
+    "tipps": 474,
+    "gewonnen": 266,
+    "verloren": 197,
     "push": 2,
     "offen": 9,
-    "einsatz": 456.0,
-    "netto": 34.15,
-    "trefferquote": 57.7,
-    "roi_prozent": 7.5
+    "einsatz": 465.0,
+    "netto": 33.53,
+    "trefferquote": 57.5,
+    "roi_prozent": 7.2
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -982,15 +982,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 0.0
     },
     "FIFA WM 2026 - Round of 32": {
-      "tipps": 5,
-      "gewonnen": 3,
-      "verloren": 2,
+      "tipps": 14,
+      "gewonnen": 7,
+      "verloren": 7,
       "push": 0,
       "offen": 0,
-      "einsatz": 5.0,
-      "netto": -0.77,
-      "trefferquote": 60.0,
-      "roi_prozent": -15.4
+      "einsatz": 14.0,
+      "netto": -1.39,
+      "trefferquote": 50.0,
+      "roi_prozent": -9.9
     }
   },
   "nach_markt": {
@@ -2161,15 +2161,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -100.0
     },
     "Ueber 2.5 Tore": {
-      "tipps": 22,
+      "tipps": 24,
       "gewonnen": 13,
-      "verloren": 7,
+      "verloren": 9,
       "push": 0,
       "offen": 2,
-      "einsatz": 20.0,
-      "netto": 9.03,
-      "trefferquote": 65.0,
-      "roi_prozent": 45.1
+      "einsatz": 22.0,
+      "netto": 7.03,
+      "trefferquote": 59.1,
+      "roi_prozent": 32.0
     },
     "Unter 3.5 Tore": {
       "tipps": 4,
@@ -2964,15 +2964,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 0.0
     },
     "Beide Teams treffen JA": {
-      "tipps": 3,
-      "gewonnen": 1,
+      "tipps": 4,
+      "gewonnen": 2,
       "verloren": 0,
       "push": 0,
       "offen": 2,
-      "einsatz": 1.0,
-      "netto": 1.57,
+      "einsatz": 2.0,
+      "netto": 2.22,
       "trefferquote": 100.0,
-      "roi_prozent": 157.0
+      "roi_prozent": 111.0
     },
     "Sieg Girona (1X2)": {
       "tipps": 1,
@@ -3305,15 +3305,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 36.0
     },
     "Vinicius Junior trifft jederzeit": {
-      "tipps": 2,
+      "tipps": 3,
       "gewonnen": 1,
-      "verloren": 0,
+      "verloren": 1,
       "push": 1,
       "offen": 0,
-      "einsatz": 2.0,
-      "netto": 0.8,
-      "trefferquote": 100.0,
-      "roi_prozent": 40.0
+      "einsatz": 3.0,
+      "netto": -0.2,
+      "trefferquote": 50.0,
+      "roi_prozent": -6.7
     },
     "Vedat Muriqi trifft jederzeit": {
       "tipps": 1,
@@ -4601,6 +4601,61 @@ window.__MIESMUSCHEL_STAT = {
       "netto": -1.0,
       "trefferquote": 0.0,
       "roi_prozent": -100.0
+    },
+    "Deutschland Sieg (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Brasilien Sieg (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.73,
+      "trefferquote": 100.0,
+      "roi_prozent": 73.0
+    },
+    "Kai Havertz trifft jederzeit": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.5,
+      "trefferquote": 100.0,
+      "roi_prozent": 150.0
+    },
+    "Florian Wirtz trifft jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Cody Gakpo trifft jederzeit": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.5,
+      "trefferquote": 100.0,
+      "roi_prozent": 150.0
     }
   },
   "nach_markt_typ": {
@@ -4649,26 +4704,26 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 55.0
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 161,
-      "gewonnen": 94,
-      "verloren": 66,
+      "tipps": 163,
+      "gewonnen": 95,
+      "verloren": 67,
       "push": 0,
       "offen": 1,
-      "einsatz": 160.0,
-      "netto": 6.36,
-      "trefferquote": 58.8,
-      "roi_prozent": 4.0
+      "einsatz": 162.0,
+      "netto": 6.09,
+      "trefferquote": 58.6,
+      "roi_prozent": 3.8
     },
     "Torschuetzen Jederzeit": {
-      "tipps": 79,
-      "gewonnen": 29,
-      "verloren": 48,
+      "tipps": 83,
+      "gewonnen": 31,
+      "verloren": 50,
       "push": 2,
       "offen": 0,
-      "einsatz": 79.0,
-      "netto": 8.35,
-      "trefferquote": 37.7,
-      "roi_prozent": 10.6
+      "einsatz": 83.0,
+      "netto": 9.35,
+      "trefferquote": 38.3,
+      "roi_prozent": 11.3
     },
     "Unter 2.5 Tore": {
       "tipps": 24,
@@ -4704,26 +4759,26 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 7.7
     },
     "Ueber 2.5 Tore": {
-      "tipps": 36,
+      "tipps": 38,
       "gewonnen": 22,
-      "verloren": 12,
+      "verloren": 14,
       "push": 0,
       "offen": 2,
-      "einsatz": 34.0,
-      "netto": 11.63,
-      "trefferquote": 64.7,
-      "roi_prozent": 34.2
+      "einsatz": 36.0,
+      "netto": 9.63,
+      "trefferquote": 61.1,
+      "roi_prozent": 26.7
     },
     "Beide Teams treffen JA": {
-      "tipps": 9,
-      "gewonnen": 4,
+      "tipps": 10,
+      "gewonnen": 5,
       "verloren": 3,
       "push": 0,
       "offen": 2,
-      "einsatz": 7.0,
-      "netto": 0.7,
-      "trefferquote": 57.1,
-      "roi_prozent": 10.0
+      "einsatz": 8.0,
+      "netto": 1.35,
+      "trefferquote": 62.5,
+      "roi_prozent": 16.9
     },
     "Ueber 1.5 Tore": {
       "tipps": 7,
@@ -5124,48 +5179,48 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 204,
-      "gewonnen": 108,
-      "verloren": 91,
+      "tipps": 208,
+      "gewonnen": 110,
+      "verloren": 93,
       "push": 1,
       "offen": 4,
-      "einsatz": 200.0,
-      "netto": 15.25,
-      "trefferquote": 54.3,
-      "roi_prozent": 7.6
+      "einsatz": 204.0,
+      "netto": 14.63,
+      "trefferquote": 54.2,
+      "roi_prozent": 7.2
     },
     "2.00-3.00": {
-      "tipps": 64,
-      "gewonnen": 24,
-      "verloren": 38,
+      "tipps": 67,
+      "gewonnen": 26,
+      "verloren": 39,
       "push": 1,
       "offen": 1,
-      "einsatz": 63.0,
-      "netto": 2.44,
-      "trefferquote": 38.7,
-      "roi_prozent": 3.9
+      "einsatz": 66.0,
+      "netto": 4.44,
+      "trefferquote": 40.0,
+      "roi_prozent": 6.7
     },
     "1.00-1.50": {
-      "tipps": 178,
+      "tipps": 179,
       "gewonnen": 124,
-      "verloren": 50,
+      "verloren": 51,
       "push": 0,
       "offen": 4,
-      "einsatz": 174.0,
-      "netto": 9.91,
-      "trefferquote": 71.3,
-      "roi_prozent": 5.7
+      "einsatz": 175.0,
+      "netto": 8.91,
+      "trefferquote": 70.9,
+      "roi_prozent": 5.1
     },
     "3.00+": {
-      "tipps": 19,
+      "tipps": 20,
       "gewonnen": 6,
-      "verloren": 13,
+      "verloren": 14,
       "push": 0,
       "offen": 0,
-      "einsatz": 19.0,
-      "netto": 6.55,
-      "trefferquote": 31.6,
-      "roi_prozent": 34.5
+      "einsatz": 20.0,
+      "netto": 5.55,
+      "trefferquote": 30.0,
+      "roi_prozent": 27.8
     }
   },
   "nach_kategorie": {
@@ -5181,26 +5236,26 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 1.0
     },
     "value": {
-      "tipps": 278,
-      "gewonnen": 157,
-      "verloren": 110,
+      "tipps": 284,
+      "gewonnen": 159,
+      "verloren": 114,
       "push": 2,
       "offen": 9,
-      "einsatz": 269.0,
-      "netto": 33.47,
-      "trefferquote": 58.8,
-      "roi_prozent": 12.4
+      "einsatz": 275.0,
+      "netto": 31.62,
+      "trefferquote": 58.2,
+      "roi_prozent": 11.5
     },
     "wackel": {
-      "tipps": 92,
-      "gewonnen": 41,
-      "verloren": 51,
+      "tipps": 95,
+      "gewonnen": 43,
+      "verloren": 52,
       "push": 0,
       "offen": 0,
-      "einsatz": 92.0,
-      "netto": -0.27,
-      "trefferquote": 44.6,
-      "roi_prozent": -0.3
+      "einsatz": 95.0,
+      "netto": 0.96,
+      "trefferquote": 45.3,
+      "roi_prozent": 1.0
     }
   },
   "clv_gesamt": {
@@ -5242,6 +5297,198 @@ window.__MIESMUSCHEL_STAT = {
     }
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-06-29",
+      "gesamt": {
+        "tipps": 9,
+        "gewonnen": 4,
+        "verloren": 5,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 9.0,
+        "netto": -0.62,
+        "trefferquote": 44.4,
+        "roi_prozent": -6.9
+      },
+      "spiele": [
+        {
+          "id": "2026-06-29-bra-jpn",
+          "liga": "FIFA WM 2026 - Round of 32",
+          "heim": "Brasilien",
+          "gast": "Japan",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Brasilien Sieg (90 Min)",
+              "quote": 1.73,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.73,
+              "kommentar": "Brasilien 2:1 nach 90+ Min - Martinelli-Tor 90+5 in regulaerer Nachspielzeit. Sieg-Tipp 90min sauber durchgezogen trotz HZ-Rueckstand 0:1. 2:0-Insurance nicht benoetigt (Brasilien fuehrte nie 2:0, Equalizer Casemiro 56' fuer 1:1)."
+            },
+            {
+              "markt": "Vinicius Junior trifft jederzeit",
+              "quote": 2.5,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Vinicius traf nicht (zwischenzeitlich Pfosten-Schuss 58' / Suzuki-Parade). Vinicius wurde NICHT direkt ausgewechselt (war auf dem Platz bis zum Ende oder spaet) - kein Einwechslungs-Boost greifbar. Martinelli (90+5-Tor) kam fuer Cunha (NICHT fuer Vinicius), Endrick fuer Paqueta zur HZ. Form-Edge-These (4 Tore in 3 Gruppenspielen) auf K.O.-Defensiv-Premiere ohne Tor ueberfuehrt - Lesson-Material fuer Volume-Stuermer-K.O.-Brick."
+            }
+          ]
+        },
+        {
+          "id": "2026-06-30-ger-par",
+          "liga": "FIFA WM 2026 - Round of 32",
+          "heim": "Deutschland",
+          "gast": "Paraguay",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Deutschland Sieg (90 Min)",
+              "quote": 1.36,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "1:1 nach 90 Min (Enciso 42' fuer PAR, Havertz 54' fuer GER) - kein 90min-Sieg, Tipp verloren. 2:0-Insurance griff NICHT (Deutschland nie 2:0 in Fuehrung, HZ-Stand sogar 0:1). Verlaengerung 0:0, Paraguay 4:3 i.E. - Deutschland WM-Aus. Klassen-Edge-Cluster-Bruch bei Schwere-Favorit-Quote 1.36."
+            },
+            {
+              "markt": "Kai Havertz trifft jederzeit",
+              "quote": 2.5,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.5,
+              "kommentar": "Havertz traf in 54. Min (Kopfball-Vollendung nach Wirtz-Flanke) zum 1:1. Volume-9er-Form-Edge eingeloest, Torschuetzen-Jederzeit-Goldgrube validiert."
+            },
+            {
+              "markt": "Florian Wirtz trifft jederzeit",
+              "quote": 3.4,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Wirtz lieferte den Assist zum 1:1 (Flanke auf Havertz 54'), traf aber nicht selbst. Wurde in 110. Min ausgewechselt (Verlaengerung) - nach Auswechslung kein weiteres Deutschland-Tor in Verlaengerung/Reg. Einwechslungs-Boost griff nicht (Ersatz unbekannt, jedenfalls torlos). 10er-Position-Star-Trifft-These (Lesson 06.28) gebrickt in WM-K.O.-Round-of-32."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.65,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "2 Tore in 90 Min (1:1, Enciso + Havertz) = Unter 2.5. In Verlaengerung 0:0. Form-Edge 8 GER-Spiele Ueber 2.5 in Folge in K.O.-Premiere gebrochen. Ueber-2.5-Goldgrube vs WM-K.O.-Defensiv-Pattern: K.O. dominiert - Lesson-Material."
+            }
+          ]
+        },
+        {
+          "id": "2026-06-30-ned-mar",
+          "liga": "FIFA WM 2026 - Round of 32",
+          "heim": "Niederlande",
+          "gast": "Marokko",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Nur 2 Tore in 90+ Min (Gakpo 72' NED, Diop 91' MAR) = Unter 2.5. In Verlaengerung 0:0. Tor-Festival-These (NL 3x 4+ Tore in WM-Folge) brach in K.O.-Defensiv-Premiere - Ueber-2.5-Goldgrube vs WM-K.O.-Pattern-Material."
+            },
+            {
+              "markt": "Beide Teams treffen JA",
+              "quote": 1.65,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.65,
+              "kommentar": "Beide Teams trafen (Gakpo 72' NED, Diop 91' MAR Header) - BTTS JA sauber. Coinflip-Profil + beidseitige Top-Stuermer-Form lieferte BTTS-Konstellation klassisch."
+            },
+            {
+              "markt": "Cody Gakpo trifft jederzeit",
+              "quote": 2.5,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.5,
+              "kommentar": "Gakpo traf in 72. Min (Weghorst-Sub-Header-Verlaengerung in den Lauf von Summerville, Querpass auf Gakpo zum Einschieben) - Torschuetzen-Jederzeit-Goldgrube validiert."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi 2.35x",
+          "kategorie": "safe",
+          "gesamtquote": 2.35,
+          "einsatz_prozent": 2.0,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Deutschland - Paraguay: Deutschland Sieg (90 Min)",
+              "quote": 1.36,
+              "status": "verloren",
+              "kommentar": "1:1 nach 90 Min (Enciso 42' fuer PAR, Havertz 54' fuer GER) - kein 90min-Sieg, Tipp verloren. 2:0-Insurance griff NICHT (Deutschland nie 2:0 in Fuehrung, HZ-Stand sogar 0:1). Verlaengerung 0:0, Paraguay 4:3 i.E. - Deutschland WM-Aus. Klassen-Edge-Cluster-Bruch bei Schwere-Favorit-Quote 1.36."
+            },
+            {
+              "markt": "Brasilien - Japan: Brasilien Sieg (90 Min)",
+              "quote": 1.73,
+              "status": "gewonnen",
+              "kommentar": "Brasilien 2:1 nach 90+ Min - Martinelli-Tor 90+5 in regulaerer Nachspielzeit. Sieg-Tipp 90min sauber durchgezogen trotz HZ-Rueckstand 0:1. 2:0-Insurance nicht benoetigt (Brasilien fuehrte nie 2:0, Equalizer Casemiro 56' fuer 1:1)."
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi 11.0x",
+          "kategorie": "balance",
+          "gesamtquote": 12.89,
+          "einsatz_prozent": 0.8,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Deutschland - Paraguay: Florian Wirtz trifft jederzeit",
+              "quote": 3.4,
+              "status": "verloren",
+              "kommentar": "Wirtz lieferte den Assist zum 1:1 (Flanke auf Havertz 54'), traf aber nicht selbst. Wurde in 110. Min ausgewechselt (Verlaengerung) - nach Auswechslung kein weiteres Deutschland-Tor in Verlaengerung/Reg. Einwechslungs-Boost griff nicht (Ersatz unbekannt, jedenfalls torlos). 10er-Position-Star-Trifft-These (Lesson 06.28) gebrickt in WM-K.O.-Round-of-32."
+            },
+            {
+              "markt": "Niederlande - Marokko: Ueber 2.5 Tore",
+              "quote": 1.85,
+              "status": "verloren",
+              "kommentar": "Nur 2 Tore in 90+ Min (Gakpo 72' NED, Diop 91' MAR) = Unter 2.5. In Verlaengerung 0:0. Tor-Festival-These (NL 3x 4+ Tore in WM-Folge) brach in K.O.-Defensiv-Premiere - Ueber-2.5-Goldgrube vs WM-K.O.-Pattern-Material."
+            },
+            {
+              "markt": "Brasilien - Japan: Ueber 2.5 Tore",
+              "quote": 2.05,
+              "status": "gewonnen",
+              "kommentar": "3 Tore total (1:0 JPN, 1:1 BRA, 2:1 BRA) = Ueber 2.5 sauber getroffen. Goldgrube-Markt validiert trotz vorsichtigem WACKEL wegen KO-Premiere-Pattern - das Pattern brach in BRA-JPN durch Sano-Standard + Martinelli-Late-Strike."
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi 15.63x",
+          "kategorie": "risiko",
+          "gesamtquote": 15.63,
+          "einsatz_prozent": 0.25,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Brasilien - Japan: Vinicius Junior trifft jederzeit",
+              "quote": 2.5,
+              "status": "verloren",
+              "kommentar": "Vinicius traf nicht (zwischenzeitlich Pfosten-Schuss 58' / Suzuki-Parade). Vinicius wurde NICHT direkt ausgewechselt (war auf dem Platz bis zum Ende oder spaet) - kein Einwechslungs-Boost greifbar. Martinelli (90+5-Tor) kam fuer Cunha (NICHT fuer Vinicius), Endrick fuer Paqueta zur HZ. Form-Edge-These (4 Tore in 3 Gruppenspielen) auf K.O.-Defensiv-Premiere ohne Tor ueberfuehrt - Lesson-Material fuer Volume-Stuermer-K.O.-Brick."
+            },
+            {
+              "markt": "Deutschland - Paraguay: Kai Havertz trifft jederzeit",
+              "quote": 2.5,
+              "status": "gewonnen",
+              "kommentar": "Havertz traf in 54. Min (Kopfball-Vollendung nach Wirtz-Flanke) zum 1:1. Volume-9er-Form-Edge eingeloest, Torschuetzen-Jederzeit-Goldgrube validiert."
+            },
+            {
+              "markt": "Niederlande - Marokko: Cody Gakpo trifft jederzeit",
+              "quote": 2.5,
+              "status": "gewonnen",
+              "kommentar": "Gakpo traf in 72. Min (Weghorst-Sub-Header-Verlaengerung in den Lauf von Summerville, Querpass auf Gakpo zum Einschieben) - Torschuetzen-Jederzeit-Goldgrube validiert."
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-06-28",
       "gesamt": {

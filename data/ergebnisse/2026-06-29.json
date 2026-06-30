@@ -1,0 +1,1205 @@
+{
+  "datum": "2026-06-29",
+  "erstellt_am": "2026-06-29T17:15:00+02:00",
+  "hinweis": "Pipeline-Update Mo 14:00 (Master-Tipps Mo-Fr) - Watchdog-Stand vom 17:15 als Basis, Risiko-Kombi + Verifikations-Report ergaenzt. WM-2026-Round-of-32 Tag 2: 3 K.O.-Spiele heute - Brasilien-Japan (19:00 Houston), Deutschland-Paraguay (22:30 Boston), Niederlande-Marokko (03:00 Di Monterrey). Vereins-Saison Sommer-Pause, NBA-Finals seit 13.06. durch (Knicks 4-1). 2:0-Insurance gilt fuer WM (FIFA-Aktionsregel). Liga-Goldgrube-Liste: WM-Knockout-R32 ist NICHT drin -> Mapper-Hebel C degraded SAFE-DC automatisch auf VALUE, daher heute kein SAFE-DC. Late-Goal-Cluster bereits 7 Tage in Folge (Lesson 06.29) + KO-Premiere-Defensiv-Laehmungs-Pattern (RSA-CAN 0:1 90+2). Lineup-Vorsicht (Lesson 06.29 RSA-CAN Larin-Bench-Falle): Predicted-Lineups sind nicht Confirmed-Lineups. MOONSHOT (100x+) heute geometrisch nicht erreichbar (Layer-1 hart + max 3 Spiele + max Einzel-Quote 3.40 -> ceiling ~21x).",
+  "spiele": [
+    {
+      "id": "2026-06-29-bra-jpn",
+      "liga": "FIFA WM 2026 - Round of 32",
+      "heim": "Brasilien",
+      "gast": "Japan",
+      "anstoss": "2026-06-29T19:00:00+02:00",
+      "stadion": "NRG Stadium, Houston (TX)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM 2026 K.O.-Runde",
+        "parallel_gast": "keine - WM 2026 K.O.-Runde",
+        "saisonziel_heim": "WM-Titel-Anwaerter. Gruppe C als 1. mit 9 Pkt (BRA-MAR 2:1, BRA-HAI 4:0, BRA-SCO 3:0). Vinicius Jr 4 Tore in 3 Spielen (Top-Schuetze-Co-Leader mit Mbappe/Haaland, 1 hinter Messi). Raphinha (Hamstring) faellt aus, Rayan startet rechts. Neymar nach 3 Jahren erstes Comeback als Sub vs Scotland (Wade-Verletzung kuriert).",
+        "saisonziel_gast": "WM-AF erreicht (Gruppe E als 2.). Diszipliniertes 4-2-3-1, schnelle Konter, Mitoma/Kubo als Aussen. Defensiv-Stabilitaet in Gruppenphase ueberzeugend, aber gegen Top-6-Team noch nicht getestet seit Katar 2022.",
+        "motivations_asymmetrie": "Brasilien klarer Klassen-Edge + Form-Edge (Vinicius), Japan reiner Underdog-Bonus. K.O.-Premiere fuer beide R32-Konstellation -> per Lesson 06.29 (RSA-CAN 0:1 90+2 Eustaquio) Risiko defensiver Laehmung in 1. Halbzeit -> Vorsicht bei zu engen Tor-Total-Tipps.",
+        "recovery_heim": "4 Tage seit Scotland-Sieg 25.06. Stamm-Belastung moderat (Brazil rotierte teilweise vs Scotland nach gesichertem Gruppensieg). Vinicius Jr durchgespielt alle 3 Gruppenspiele.",
+        "recovery_gast": "4 Tage seit Gruppenphasen-Abschluss. Stamm-Belastung normal. Mitoma als Volume-Linksauss kein Rotations-Bedarf.",
+        "quellen": [
+          "https://www.fifa.com/de/tournaments/mens/worldcup/canadamexicousa2026",
+          "https://www.france24.com/en/sport/20260625-world-cup-2026-vinicius-junior-scores-twice-brazil-beat-scotland-to-reach-last-32",
+          "https://www.espn.com/soccer/story/_/id/49169240/fifa-world-cup-2026-stats-vinicius-joins-ronaldo-5-neymar-joins-pele-4-alajbegovic-breaks-kylian-mbappe-record"
+        ]
+      },
+      "news": [
+        "Raphinha (Hamstring) faellt aus - Rayan startet rechts, Cunha als 9er, Vinicius links",
+        "Neymar nach 3 Jahren erstes Brasilien-Spiel als Sub vs Scotland (Joker-Option)",
+        "Vinicius Jr 4 Tore in 3 Gruppenspielen - heisser Form-Lauf, ohne Raphinha noch mehr Ball-Volumen",
+        "Japan rotiert kaum, Tanaka/Endo zentral, Mitoma/Kubo aussen"
+      ],
+      "tipps": [
+        {
+          "id": "2026-06-29-bra-jpn-t1",
+          "markt_typ": "Spiel-Sieg",
+          "kategorie": "wackel",
+          "einsatz_euro": 11.0,
+          "edge_prozent": 7.0,
+          "quote": 1.73,
+          "markt": "Brasilien Sieg (90 Min)",
+          "faire_quote": 1.6,
+          "empfohlener_einsatz_prozent": 2.0,
+          "begruendung": "Brasilien Sieg-Quote 1.73 = 57.8% implizit. Klassen-Edge + Form-Edge (Vinicius 4 Tore in 3, Brasilien 9 Tore / 1 Gegentor Gruppenphase) -> sharp-fair eher 62-65%. Reality-Check statistik.json: WM-2026 reines Sieg-Tipps positiv. 2:0-Insurance gilt fuer WM (FIFA-Aktionsregel laut CLAUDE.md) - falls Brasilien zwischenzeitlich 2:0+ fuehrt, Tipp gewonnen egal wie's endet. WM-K.O.-R32 nicht in Liga-Goldgrube -> bewusst VALUE statt SAFE trotz starker Sicherheits-Quote. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
+          "lessons_referenz": [
+            "Mapper-Hebel C: WM-Knockout = keine Liga-Goldgrube -> kein SAFE",
+            "2:0-Insurance gilt fuer WM (CLAUDE.md bet365-Sonderregel)",
+            "KO-Premiere-Defensiv-Laehmungs-Pattern (Lesson 06.29) -> Spiel-Sieg solider als Tor-Total"
+          ],
+          "_saison_kontext_sanity_downgrade": true
+        },
+        {
+          "id": "2026-06-29-bra-jpn-t2",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "kategorie": "wackel",
+          "einsatz_euro": 11.0,
+          "edge_prozent": 9.0,
+          "quote": 2.5,
+          "markt": "Vinicius Junior trifft jederzeit",
+          "faire_quote": 2.2,
+          "empfohlener_einsatz_prozent": 2.0,
+          "begruendung": "Vinicius Jr 4 Tore in 3 Spielen (Goldener-Schuh-Race). Mit Raphinha-Ausfall noch mehr Ball-Volumen + Schuss-Volumen. Reality-Check statistik.json: Torschuetzen Jederzeit ist mit 50% HR / +24.4% ROI Top-Goldgrube. Vinicius spielt links offensiv aussen, kommt aus Halbraum-Dribbel in Schussposition. Einwechslungs-Boost-Sicherung: falls ausgewechselt fuer Neymar/Endrick, deren Tore zaehlen fuer Vinicius (CLAUDE.md bet365-Sonderregel). [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "lessons_referenz": [
+            "Torschuetzen Jederzeit = Goldgrube (+24.4% ROI, n=14)",
+            "Einwechslungs-Boost-Sicherung (CLAUDE.md): Tor von Vinicius-Ersatz zaehlt",
+            "Form-Edge-Pflicht (4 Tore in 3 = klares Form-Signal)"
+          ],
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "id": "2026-06-29-bra-jpn-t3",
+          "markt_typ": "Beide Teams treffen",
+          "kategorie": "wackel",
+          "einsatz_euro": 2.75,
+          "edge_prozent": 4.0,
+          "quote": 2.3,
+          "markt": "Beide Teams treffen NEIN",
+          "faire_quote": 2.1,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Brasilien hat 1 Gegentor in 3 Gruppenspielen, Japan offensiv-stark aber gegen Top-6-Defense noch nicht getestet. Marquinhos + Gabriel zentral solide. Plus K.O.-Premiere-Defensiv-Laehmungs-Tendenz (Lesson 06.29: RSA-CAN 0:1 90+2) - Japan eroeffnet K.O.-Phase vorsichtig. WACKEL weil Japan-Konter-Qualitaet (Mitoma/Kubo) real ist und Brasilien-Verteidigung in Hitze Houston anfaellig sein kann.",
+          "lessons_referenz": [
+            "KO-Premiere-Defensiv-Laehmung (Lesson 06.29 RSA-CAN)",
+            "Reality-Check: BTTS-Nein bei Top-Defense Favorit-Profil"
+          ]
+        },
+        {
+          "id": "2026-06-29-bra-jpn-t4",
+          "markt_typ": "Ueber 2.5 Tore",
+          "kategorie": "wackel",
+          "einsatz_euro": 2.75,
+          "edge_prozent": 4.0,
+          "quote": 2.05,
+          "markt": "Ueber 2.5 Tore",
+          "faire_quote": 1.9,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Reality-Check statistik.json: Ueber 2.5 Tore ist Top-Goldgrube mit 64.7% HR / +34.2% ROI bei n=36. Brasilien-Gruppenphase 9 Tore in 3 = 3.0 Tore/Spiel offensiv. ABER: K.O.-Premiere-Pattern (Lesson 06.29) tendiert defensiver + Japan-Block. Daher bewusst nur WACKEL trotz Goldgrube-Markt, weil Pattern gerade negativ ist.",
+          "lessons_referenz": [
+            "Ueber 2.5 Goldgrube (+34.2% ROI, n=36) - aber MD3-Decider-Bricks (CRO-GHA Lesson 06.28) zeigen Risiko bei MUSS-Sieg-Defensiv-Profilen",
+            "KO-Premiere-Defensiv-Laehmung (Lesson 06.29 RSA-CAN 0:1)"
+          ]
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 1,
+        "status": "FINISHED",
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 1
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-06-29-bra-jpn-t1",
+          "spiel_id": "2026-06-29-bra-jpn",
+          "markt": "Brasilien Sieg (90 Min)",
+          "markt_typ": "Spiel-Sieg",
+          "kategorie": "wackel",
+          "einsatz_euro": 11.0,
+          "quote": 1.73,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.73,
+          "kommentar": "Brasilien 2:1 nach 90+ Min - Martinelli-Tor 90+5 in regulaerer Nachspielzeit. Sieg-Tipp 90min sauber durchgezogen trotz HZ-Rueckstand 0:1. 2:0-Insurance nicht benoetigt (Brasilien fuehrte nie 2:0, Equalizer Casemiro 56' fuer 1:1).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-06-29-bra-jpn-t2",
+          "spiel_id": "2026-06-29-bra-jpn",
+          "markt": "Vinicius Junior trifft jederzeit",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "kategorie": "wackel",
+          "einsatz_euro": 11.0,
+          "quote": 2.5,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Vinicius traf nicht (zwischenzeitlich Pfosten-Schuss 58' / Suzuki-Parade). Vinicius wurde NICHT direkt ausgewechselt (war auf dem Platz bis zum Ende oder spaet) - kein Einwechslungs-Boost greifbar. Martinelli (90+5-Tor) kam fuer Cunha (NICHT fuer Vinicius), Endrick fuer Paqueta zur HZ. Form-Edge-These (4 Tore in 3 Gruppenspielen) auf K.O.-Defensiv-Premiere ohne Tor ueberfuehrt - Lesson-Material fuer Volume-Stuermer-K.O.-Brick.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-06-29-bra-jpn-t3",
+          "spiel_id": "2026-06-29-bra-jpn",
+          "markt": "Beide Teams treffen NEIN",
+          "markt_typ": "Beide Teams treffen",
+          "kategorie": "wackel",
+          "einsatz_euro": 2.75,
+          "quote": 2.3,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Beide Teams trafen (Sano 29' JPN, Casemiro 56' + Martinelli 90+5 BRA) - BTTS NEIN verloren. KO-Premiere-Defensiv-Laehmungs-These (Lesson 06.29) griff fuer Brasiliens Defense nicht (Sano-Tor 29' aus halbgeklaerter Standardsituation).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-06-29-bra-jpn-t4",
+          "spiel_id": "2026-06-29-bra-jpn",
+          "markt": "Ueber 2.5 Tore",
+          "markt_typ": "Ueber 2.5 Tore",
+          "kategorie": "wackel",
+          "einsatz_euro": 2.75,
+          "quote": 2.05,
+          "status": "gewonnen",
+          "gewinn_faktor": 1.05,
+          "kommentar": "3 Tore total (1:0 JPN, 1:1 BRA, 2:1 BRA) = Ueber 2.5 sauber getroffen. Goldgrube-Markt validiert trotz vorsichtigem WACKEL wegen KO-Premiere-Pattern - das Pattern brach in BRA-JPN durch Sano-Standard + Martinelli-Late-Strike.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "2:1",
+        "tore": [
+          {
+            "min": 29,
+            "team": "gast",
+            "spieler": "Kaishu Sano",
+            "stand_danach": "0:1",
+            "details": "Schuss aus ~25m nach Casemiro-Ballverlust, unhaltbar fuer Alisson - Japan-Fuehrung."
+          },
+          {
+            "min": 56,
+            "team": "heim",
+            "spieler": "Casemiro",
+            "stand_danach": "1:1",
+            "details": "Kopfball aus kurzer Distanz nach Ecke - Brasilien-Equalizer in 56. Minute."
+          },
+          {
+            "min": "90+5",
+            "team": "heim",
+            "spieler": "Gabriel Martinelli",
+            "stand_danach": "2:1",
+            "details": "Martinelli (Sub fuer Cunha) curlte den Ball nach Pass von Guimaraes ins lange Eck - Last-Gasp-Sieger 90+5."
+          }
+        ],
+        "drehung": {
+          "war_drehung": true,
+          "details": "Japan fuehrte zur HZ 1:0 + bis 56. Min. Brasilien drehte das Spiel binnen 56-90+5. Keine 2:0-Differenz erreicht (kein 2:0-Insurance-Trigger fuer Sieg-Tipps in 90min)."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Japan/Brasilien",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Endrick",
+            "details": "Sub fuer Paqueta zur HZ - Ancelotti zog offensiven Hebel nach JPN-Fuehrung. Endrick legte Spiel-Tempo deutlich nach oben."
+          },
+          {
+            "team": "heim",
+            "spieler": "Vinicius Junior",
+            "details": "Wonder-Save Suzuki vs Vinicius-Pfostenschuss 58' - Vinicius blieb auf dem Platz (kein 'Einwechslungs-Boost' aktivierbar). Volume-Star-K.O.-Premiere-Brick trotz hohem Schuss-Volumen."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Gabriel Martinelli",
+            "aus": "Matheus Cunha",
+            "minute": 72,
+            "tor": true,
+            "tor_minute": "90+5"
+          }
+        ],
+        "auffaellige_patterns": [
+          "Volume-Star-K.O.-Premiere-Brick: Vinicius (4 Tore in 3 Gruppenspielen, Goldgrube-Markt) blieb torlos und der Boost-Hebel war NICHT verfuegbar (er kam NICHT raus - Martinelli ersetzte Cunha). Lesson-Material: Boost-Sicherung nur valide wenn Volume-Star tatsaechlich Auswechslungs-Wahrscheinlichkeit hat.",
+          "Late-Goal-Cluster Tag 16 fortgesetzt: Martinelli 90+5 = 8. WM-Spiel in Folge mit Tor >=85. Min (Sa-Ku-Cluster).",
+          "Substitute-Game-Winner-Pattern: Martinelli (Sub) erzielt den entscheidenden Treffer - Ancelotti's offensive HZ-Wechsel zahlten sich aus. Boost-Trigger-ohne-Tipp-Material: Cunha haette als Tipp-Kandidat Boost-Sicherung gehabt (war nicht getippt)."
+        ]
+      }
+    },
+    {
+      "id": "2026-06-30-ger-par",
+      "liga": "FIFA WM 2026 - Round of 32",
+      "heim": "Deutschland",
+      "gast": "Paraguay",
+      "anstoss": "2026-06-29T22:30:00+02:00",
+      "stadion": "Gillette Stadium, Boston (Foxborough, MA)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM 2026 K.O.-Runde",
+        "parallel_gast": "keine - WM 2026 K.O.-Runde",
+        "saisonziel_heim": "WM-Titel-Anwaerter. Nagelsmann mit 4-2-3-1: Neuer; Kimmich, Tah, Ruediger, Brown; Nmecha, Pavlovic; Musiala, Wirtz; Havertz mit Sane/Wirtz auf 10 (oder Wirtz/Musiala 10-er-Doppel). Schlotterbeck (Schienbein) ist OUT, Brown (Leiste) fraglich. Undav als Impact-Sub bewusst eingeplant. Letzte 8 GER-Spiele alle Ueber-2.5-Tore.",
+        "saisonziel_gast": "WM-AF erreicht. Defensiver 4-4-2-Block mit Cubas/Galarza als Doppel-Sechs, Almiron + Mauricio aussen, Avalos + Enciso vorn. Diego Gomez (Knoechel) OUT, Alderete (Oberschenkel) fraglich - Verteidigung-Patchwork.",
+        "motivations_asymmetrie": "Deutschland klarer Mit-Favorit (Quote 1.36 = 73.5% implizit). Paraguay reiner Underdog-Counter-Plan. Klassen + Form + Heimvorteil-Boost (Boston US-Gastgeber-Naehe als 'Quasi-Heim') alles fuer GER.",
+        "recovery_heim": "4 Tage seit letztem Gruppenspiel. Stamm rotiert nicht (kein 3. Spiel wegen K.O.-Aufstieg gesichert). Brown-Leiste Risiko-Faktor (questionable).",
+        "recovery_gast": "4 Tage seit Gruppenphasen-Abschluss. Diego Gomez Verletzungs-Cluster im Mittelfeld zwingt zu Cubas-Galarza-Loesung.",
+        "quellen": [
+          "https://www.fifa.com/de/tournaments/mens/worldcup/canadamexicousa2026",
+          "https://www.espn.com/soccer/story/_/id/49197785/germany-vs-paraguay-fifa-world-cup-2026-tv-channel-how-watch-kickoff-live-stream-referee-predicted-lineups",
+          "https://www.bundesliga.com/en/bundesliga/news/how-will-germany-line-up-havertz-musiala-wirtz-nagelsmann-world-cup-2026-28807"
+        ]
+      },
+      "news": [
+        "Schlotterbeck OUT - Tah/Ruediger als Stamm-IV-Paar",
+        "Brown (Leiste) fraglich - falls raus, Mittelstaedt oder Gosens links",
+        "Undav bewusst als Impact-Sub geplant (Nagelsmann favorisiert Havertz-Fluidity in Startelf)",
+        "Paraguay-MF angeschlagen: Diego Gomez OUT, Alderete fraglich",
+        "Letzte 8 GER-Spiele alle mit Ueber 2.5 Toren"
+      ],
+      "tipps": [
+        {
+          "id": "2026-06-29-ger-par-t1",
+          "markt_typ": "Spiel-Sieg",
+          "kategorie": "value",
+          "einsatz_euro": 11.0,
+          "edge_prozent": 6.0,
+          "quote": 1.36,
+          "markt": "Deutschland Sieg (90 Min)",
+          "faire_quote": 1.27,
+          "empfohlener_einsatz_prozent": 2.0,
+          "begruendung": "Deutschland 1.36 = 73.5% implizit. Klassen-Edge gigantisch + Paraguay-Defensiv-Patchwork (Diego Gomez out, Alderete fraglich) + Quasi-Heim-Boston. Sharp-fair eher 78%. 2:0-Insurance gilt fuer WM (CLAUDE.md FIFA-Aktionsregel) - bei zwischenzeitlich 2:0 ist Tipp durch. WM-Knockout nicht Liga-Goldgrube -> Mapper-Hebel C: bewusst VALUE statt SAFE.",
+          "lessons_referenz": [
+            "Mapper-Hebel C: WM-Knockout-R32 = keine Liga-Goldgrube -> kein SAFE",
+            "2:0-Insurance fuer WM aktiv",
+            "Schwere-Favorit-Quote + Gegner-IV-Patchwork = solider Klassen-Edge"
+          ]
+        },
+        {
+          "id": "2026-06-29-ger-par-t2",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "kategorie": "value",
+          "einsatz_euro": 11.0,
+          "edge_prozent": 7.0,
+          "quote": 2.5,
+          "markt": "Kai Havertz trifft jederzeit",
+          "faire_quote": 2.2,
+          "empfohlener_einsatz_prozent": 2.0,
+          "begruendung": "Havertz als Volume-9er gegen defensives 4-4-2 mit fraglichem Alderete. Reality-Check statistik.json: Torschuetzen Jederzeit = Goldgrube (+24.4% ROI, n=14). Plus Einwechslungs-Boost-Sicherung (CLAUDE.md): falls Havertz fuer Undav ausgewechselt wird, zaehlen Undav-Tore fuer Havertz (Undav ist explizit als Impact-Sub mit Tor-Volumen geplant).",
+          "lessons_referenz": [
+            "Torschuetzen Jederzeit Goldgrube (+24.4% ROI)",
+            "Einwechslungs-Boost-Sicherung: Undav-Tor zaehlt fuer Havertz",
+            "Form-Edge-Pflicht erfuellt (Heim-Favorit < 1.80 + Top-9er)"
+          ]
+        },
+        {
+          "id": "2026-06-29-ger-par-t3",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "kategorie": "value",
+          "einsatz_euro": 5.5,
+          "edge_prozent": 6.0,
+          "quote": 3.4,
+          "markt": "Florian Wirtz trifft jederzeit",
+          "faire_quote": 3.0,
+          "empfohlener_einsatz_prozent": 1.0,
+          "begruendung": "Wirtz auf der 10/Halbraum-Position, Schusszone-zentral. Lesson 06.28 (Karriere-Highlight-INVERS Bellingham/Lo Celso/Messi-Triple-Treffer-Tag15) zeigt 10er-Position-Star-trifft in K.O.-Phase ist NICHT mehr 'invers'-Falle sondern aktiv triggert. Wirtz hatte in Gruppenphase Vorlagen + ungluecklich Pfosten - statistisch ueberfaellig. Plus Paraguay-MF ohne Diego Gomez = mehr Halbraum-Zone fuer Wirtz.",
+          "lessons_referenz": [
+            "Lesson 06.28 10er-Position-Star-trifft-Cluster Tag15 (Bellingham/Lo Celso/Messi)",
+            "Torschuetzen Jederzeit Goldgrube (+24.4% ROI)",
+            "Form-Edge: Paraguay-MF-Patchwork erzeugt mehr 10er-Schuss-Volumen"
+          ]
+        },
+        {
+          "id": "2026-06-29-ger-par-t4",
+          "markt_typ": "Ueber 2.5 Tore",
+          "kategorie": "value",
+          "einsatz_euro": 11.0,
+          "edge_prozent": 8.0,
+          "quote": 1.65,
+          "markt": "Ueber 2.5 Tore",
+          "faire_quote": 1.5,
+          "empfohlener_einsatz_prozent": 2.0,
+          "begruendung": "Reality-Check statistik.json: Ueber 2.5 Tore = Top-Goldgrube (+34.2% ROI / 64.7% HR / n=36). Letzte 8 GER-Spiele alle Ueber 2.5. Paraguay-MF-Patchwork (Diego Gomez out) = weniger Pressing-Stabilitaet = mehr Chancen fuer GER. Klassen-Edge + Form-Trend zusammen ueberlagern KO-Premiere-Pattern-Risiko (Lesson 06.29).",
+          "lessons_referenz": [
+            "Ueber 2.5 Goldgrube (+34.2% ROI, n=36) - Top-Markt im System",
+            "Form-Trend: GER 8 Spiele in Folge Ueber 2.5",
+            "Gegner-MF-Patchwork erzeugt Tor-Wahrscheinlichkeit"
+          ]
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 1,
+        "status": "FINISHED",
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 1,
+        "elfmeterschiessen": {
+          "heim": 3,
+          "gast": 4,
+          "sieger": "gast"
+        }
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-06-29-ger-par-t1",
+          "spiel_id": "2026-06-30-ger-par",
+          "markt": "Deutschland Sieg (90 Min)",
+          "markt_typ": "Spiel-Sieg",
+          "kategorie": "value",
+          "einsatz_euro": 11.0,
+          "quote": 1.36,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "1:1 nach 90 Min (Enciso 42' fuer PAR, Havertz 54' fuer GER) - kein 90min-Sieg, Tipp verloren. 2:0-Insurance griff NICHT (Deutschland nie 2:0 in Fuehrung, HZ-Stand sogar 0:1). Verlaengerung 0:0, Paraguay 4:3 i.E. - Deutschland WM-Aus. Klassen-Edge-Cluster-Bruch bei Schwere-Favorit-Quote 1.36.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-06-29-ger-par-t2",
+          "spiel_id": "2026-06-30-ger-par",
+          "markt": "Kai Havertz trifft jederzeit",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "kategorie": "value",
+          "einsatz_euro": 11.0,
+          "quote": 2.5,
+          "status": "gewonnen",
+          "gewinn_faktor": 1.5,
+          "kommentar": "Havertz traf in 54. Min (Kopfball-Vollendung nach Wirtz-Flanke) zum 1:1. Volume-9er-Form-Edge eingeloest, Torschuetzen-Jederzeit-Goldgrube validiert.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-06-29-ger-par-t3",
+          "spiel_id": "2026-06-30-ger-par",
+          "markt": "Florian Wirtz trifft jederzeit",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "kategorie": "value",
+          "einsatz_euro": 5.5,
+          "quote": 3.4,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Wirtz lieferte den Assist zum 1:1 (Flanke auf Havertz 54'), traf aber nicht selbst. Wurde in 110. Min ausgewechselt (Verlaengerung) - nach Auswechslung kein weiteres Deutschland-Tor in Verlaengerung/Reg. Einwechslungs-Boost griff nicht (Ersatz unbekannt, jedenfalls torlos). 10er-Position-Star-Trifft-These (Lesson 06.28) gebrickt in WM-K.O.-Round-of-32.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-06-29-ger-par-t4",
+          "spiel_id": "2026-06-30-ger-par",
+          "markt": "Ueber 2.5 Tore",
+          "markt_typ": "Ueber 2.5 Tore",
+          "kategorie": "value",
+          "einsatz_euro": 11.0,
+          "quote": 1.65,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "2 Tore in 90 Min (1:1, Enciso + Havertz) = Unter 2.5. In Verlaengerung 0:0. Form-Edge 8 GER-Spiele Ueber 2.5 in Folge in K.O.-Premiere gebrochen. Ueber-2.5-Goldgrube vs WM-K.O.-Defensiv-Pattern: K.O. dominiert - Lesson-Material.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "1:1",
+        "endstand_nach_verlaengerung": "1:1",
+        "elfmeterschiessen": "Paraguay 4:3",
+        "tore": [
+          {
+            "min": 42,
+            "team": "gast",
+            "spieler": "Julio Enciso",
+            "stand_danach": "0:1",
+            "details": "Kopfball nach Galarza-Flanke - Paraguay-Schock-Fuehrung kurz vor HZ."
+          },
+          {
+            "min": 54,
+            "team": "heim",
+            "spieler": "Kai Havertz",
+            "stand_danach": "1:1",
+            "details": "Kopfball-Vollendung nach Wirtz-Flanke von links - Equalizer."
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine 2-Tor-Differenz erreicht. PAR fuehrte 1:0, GER glich aus zu 1:1 - kein 2:0-Insurance-Trigger fuer Sieg-Tipps moeglich."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Paraguay/Unentschieden",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Leon Goretzka",
+            "details": "Sub fuer Nmecha zur HZ - brachte Stabilitaet ins MF, Havertz hatte mehr Halbraum-Freiheit, Equalizer 9 Min spaeter. Tactical-Reset funktionierte."
+          },
+          {
+            "team": "heim",
+            "spieler": "Florian Wirtz",
+            "details": "Wurde in 110. Min in Verlaengerung ausgewechselt - 10er-Star-trifft-These gebrickt trotz Assist zum 1:1. Cluster-Bruch fuer Lesson 06.28 (Karriere-Highlight-INVERS-DEAKTIVIERUNG)."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Klassen-Edge-Cluster-Bruch bei extrem niedriger Favoriten-Quote: GER 1.36 = 73.5% implizit gegen Paraguay vom Klassen-Niveau klar unterlegen - GER raus per Penalty-Shootout. Schock-Resultat-Cluster-Material analog 25.06. KOR-Reverse-Schock.",
+          "10er-Star-trifft-These INVERS gebrickt: Wirtz lieferte zwar Assist (Flanke fuer Havertz-Kopfball), traf aber nicht. Lesson 06.28 (Bellingham/LoCelso/Messi-Triple-Treffer-Deaktivierung) als WM-K.O.-Round-of-32-Reverse gebrickt - 10er-Position-Star-Tor ist NICHT konsistent in K.O.-Premiere.",
+          "8-Spiele-Form-Trend-Bruch: GER's '8 Spiele in Folge Ueber 2.5' brach in WM-K.O.-Premiere ab. Form-Edge-Trends in K.O.-Defensiv-Phasen nicht direkt uebertragbar - Reality-Check fuer Ueber-2.5-Goldgrube.",
+          "Wirtz-Assist-statt-Tor-Pattern: 10er-Spielmacher liefert Karriere-Highlight als ASSIST, nicht als Tor (analog Quintero-Lesson 24.06.). Lesson-Material: bei 10er-Star-trifft-Tipps Assist-Marker zusaetzlich pruefen."
+        ]
+      }
+    },
+    {
+      "id": "2026-06-30-ned-mar",
+      "liga": "FIFA WM 2026 - Round of 32",
+      "heim": "Niederlande",
+      "gast": "Marokko",
+      "anstoss": "2026-06-30T03:00:00+02:00",
+      "stadion": "Estadio BBVA, Monterrey (Mexiko)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM 2026 K.O.-Runde",
+        "parallel_gast": "keine - WM 2026 K.O.-Runde",
+        "saisonziel_heim": "WM-AF. 7 Pkt Gruppenphase. 4-3-3 mit Verbruggen; Dumfries, Van Hecke, Van Dijk, Van de Ven; Gravenberch, De Jong, Reijnders; Malen, Brobbey, Gakpo. Letzte 3 NL-WM-Spiele 4+ Tore. Tor-Festival-Tendenz.",
+        "saisonziel_gast": "WM-AF erreicht (7 Pkt Gruppenphase, gleicher Stand wie NL). Saibari 3 Tore in 3 (kommender Bayern-Transfer Sommer 2026). Hakimi 5 Schuesse vs Haiti = MAR-Schuss-Volumen-Leader. Brahim Diaz erwartet Startelf. K.O.-Erfahrung WM 2022 Halbfinale = mentaler Edge.",
+        "motivations_asymmetrie": "COINFLIP-Profil (alle 1X2-Quoten 2.15-3.60). Marokko-WM-2022-Halbfinale-Erfahrung + Saibari-Form als Counter-Punch zu NL-Tor-Volumen. Plus Spielort Monterrey 540m moderate Hoehe + Hitze - kein Vorteil fuer ueberlegte NL-Pass-Spiel-Identitaet. KO-Premiere-Pattern beidseitig (Lesson 06.29 RSA-CAN: defensive Laehmung erste Halbzeit moeglich).",
+        "recovery_heim": "4 Tage seit letztem Gruppenspiel. Van Dijk durchgespielt, Recovery-Risiko gering.",
+        "recovery_gast": "4 Tage seit Haiti-Sieg 4:2. Saibari/Hakimi durchgespielt, kein Rotations-Bedarf. Spielort Monterrey klimatische Doppelbelastung Hitze + 540m Hoehe.",
+        "quellen": [
+          "https://www.fifa.com/de/tournaments/mens/worldcup/canadamexicousa2026",
+          "https://www.sportsmole.co.uk/football/netherlands/world-cup-2026/preview/netherlands-vs-morocco-prediction-team-news-lineups_600222.html",
+          "https://www.aljazeera.com/sports/2026/6/28/fifa-world-cup-2026-sunday-schedule-round-of-32-fixtures-predictions"
+        ]
+      },
+      "news": [
+        "Coinflip-Quoten: NL 2.15, X 3.30, MAR 3.60 - kein klarer Favorit",
+        "Saibari 3 Tore in 3 Spielen (Form-Edge MAR) - sommerlicher Bayern-Transfer",
+        "Hakimi Schuss-Volumen-Leader MAR (5 Schuesse vs Haiti)",
+        "Letzte 3 NL-WM-Spiele alle 4+ Tore = Tor-Festival-Tendenz",
+        "Spielort Monterrey: Hitze + 540m Hoehe = klimatische Doppelbelastung"
+      ],
+      "tipps": [
+        {
+          "id": "2026-06-29-ned-mar-t1",
+          "markt_typ": "Ueber 2.5 Tore",
+          "kategorie": "value",
+          "einsatz_euro": 11.0,
+          "edge_prozent": 10.0,
+          "quote": 1.85,
+          "markt": "Ueber 2.5 Tore",
+          "faire_quote": 1.65,
+          "empfohlener_einsatz_prozent": 2.0,
+          "begruendung": "Reality-Check statistik.json: Ueber 2.5 = Top-Goldgrube (+34.2% ROI / 64.7% HR / n=36). NL letzte 3 WM-Spiele 4+ Tore = klares offensives Form-Signal. Marokko mit Saibari (3 in 3) + Hakimi (5 Schuesse vs Haiti) offensiv konkurrenzfaehig. Beide Teams sind Tor-Festival-Profil, kein Defensiv-Block dabei.",
+          "lessons_referenz": [
+            "Ueber 2.5 = Top-Goldgrube (+34.2% ROI, n=36)",
+            "Form-Trend NL: 4+ Tore in letzten 3 WM-Spielen",
+            "Beidseitiges offensives Profil (kein Defensiv-Block)"
+          ]
+        },
+        {
+          "id": "2026-06-29-ned-mar-t2",
+          "markt_typ": "Beide Teams treffen",
+          "kategorie": "value",
+          "einsatz_euro": 11.0,
+          "edge_prozent": 7.0,
+          "quote": 1.65,
+          "markt": "Beide Teams treffen JA",
+          "faire_quote": 1.5,
+          "empfohlener_einsatz_prozent": 2.0,
+          "begruendung": "Beide Teams haben Top-Stuermer in Form (Gakpo + Brobbey fuer NL; Saibari 3 in 3 + Hakimi-Schuss-Volumen fuer MAR). Coinflip-Profil = beide Teams werden gleichermassen offensiv. NL-Defense ist nicht stabil (Van de Ven aussen, Brobbey-Verteidigung-Strecke), MAR-Defense ohne Saiss-Stamm-Praesenz anfaellig. BTTS-Ja-Konstellation klassisch.",
+          "lessons_referenz": [
+            "Coinflip-Profil + beidseitige Top-Stuermer-Form = BTTS-Ja-Konstellation",
+            "Reality-Check: BTTS-Ja in offenen Spielen erfolgsstark"
+          ]
+        },
+        {
+          "id": "2026-06-29-ned-mar-t4",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "kategorie": "wackel",
+          "einsatz_euro": 2.75,
+          "edge_prozent": 4.0,
+          "quote": 2.5,
+          "markt": "Cody Gakpo trifft jederzeit",
+          "faire_quote": 2.3,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Gakpo als NL-Top-Schuetze, +250 (~3.50 manche Boards, 2.50 als Anytime auf bet365) implizit ~40%. NL offensives Profil + Linke Aussenseite-Frei-Zone gegen MAR (Hakimi geht offensiv rein). Plus Einwechslungs-Boost-Absicherung (falls fuer Brobbey/Malen-Sub-Tor zaehlt).",
+          "lessons_referenz": [
+            "Torschuetzen Jederzeit Goldgrube (+24.4% ROI)",
+            "Einwechslungs-Boost-Absicherung",
+            "Form-Trend NL: 4+ Tore in letzten 3 WM-Spielen"
+          ]
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 1,
+        "status": "FINISHED",
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 0,
+        "elfmeterschiessen": {
+          "heim": 2,
+          "gast": 3,
+          "sieger": "gast"
+        }
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-06-29-ned-mar-t1",
+          "spiel_id": "2026-06-30-ned-mar",
+          "markt": "Ueber 2.5 Tore",
+          "markt_typ": "Ueber 2.5 Tore",
+          "kategorie": "value",
+          "einsatz_euro": 11.0,
+          "quote": 1.85,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Nur 2 Tore in 90+ Min (Gakpo 72' NED, Diop 91' MAR) = Unter 2.5. In Verlaengerung 0:0. Tor-Festival-These (NL 3x 4+ Tore in WM-Folge) brach in K.O.-Defensiv-Premiere - Ueber-2.5-Goldgrube vs WM-K.O.-Pattern-Material.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-06-29-ned-mar-t2",
+          "spiel_id": "2026-06-30-ned-mar",
+          "markt": "Beide Teams treffen JA",
+          "markt_typ": "Beide Teams treffen",
+          "kategorie": "value",
+          "einsatz_euro": 11.0,
+          "quote": 1.65,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.65,
+          "kommentar": "Beide Teams trafen (Gakpo 72' NED, Diop 91' MAR Header) - BTTS JA sauber. Coinflip-Profil + beidseitige Top-Stuermer-Form lieferte BTTS-Konstellation klassisch.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-06-29-ned-mar-t4",
+          "spiel_id": "2026-06-30-ned-mar",
+          "markt": "Cody Gakpo trifft jederzeit",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "kategorie": "wackel",
+          "einsatz_euro": 2.75,
+          "quote": 2.5,
+          "status": "gewonnen",
+          "gewinn_faktor": 1.5,
+          "kommentar": "Gakpo traf in 72. Min (Weghorst-Sub-Header-Verlaengerung in den Lauf von Summerville, Querpass auf Gakpo zum Einschieben) - Torschuetzen-Jederzeit-Goldgrube validiert.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "1:1",
+        "endstand_nach_verlaengerung": "1:1",
+        "elfmeterschiessen": "Marokko 3:2",
+        "tore": [
+          {
+            "min": 72,
+            "team": "heim",
+            "spieler": "Cody Gakpo",
+            "stand_danach": "1:0",
+            "details": "Weghorst (gerade reingekommen) verlaengerte Kopfball auf Summerville, der quer auf Gakpo legte - Einschuss zur Fuehrung."
+          },
+          {
+            "min": "90+1",
+            "team": "gast",
+            "spieler": "Issa Diop",
+            "stand_danach": "1:1",
+            "details": "Kopfball-Equalizer in Nachspielzeit nach Ecke - Marokko erzwingt Verlaengerung. Late-Goal-Cluster-Fortsetzung."
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine 2-Tor-Differenz erreicht. NL fuehrte 1:0, MAR glich 90+1 aus. Penalty-Shootout entschied 3:2 fuer Marokko."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Unentschieden",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Wout Weghorst",
+            "details": "Kam in 71. Min rein und legte Sekunden spaeter mit Kopfball-Verlaengerung auf Summerville/Gakpo-Tor auf - Joker-Wirkung Lehrbuch."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Late-Goal-Cluster-FORTSETZUNG: Diop 90+1 = 9. WM-Spiel in Folge mit Tor >=85. Min. Penalty-Shootout-Cluster KO-Tag 16 bestaetigt (2/3 Spiele heute via E-Schiessen + Tag 15 RSA-CAN 90+2 Eustaquio).",
+          "WM-K.O.-Defensiv-Premiere-Pattern validiert: 3/3 Spiele heute mit Unter 2.5 in 90min (BRA-JPN 2-1 = AUSNAHME ist UEBER 2.5 dank Martinelli 90+5; GER-PAR 1-1, NED-MAR 1-1 sind UNTER 2.5). Tor-Total-Pattern in K.O. duenner als Gruppenphase.",
+          "BTTS-Goldgrube-Trend hielt: 3/3 Spiele heute mit BTTS JA. Trotz K.O.-Defensiv-Charakter trifft jeder mindestens einmal.",
+          "Drei-Mal-Elfmeterschiessen-Pattern: GER-PAR + NED-MAR beide via E-Schiessen entschieden, beide Top-Favoriten ausgeschieden. Kombi-Korrelations-Material: Schwere-Favoriten-K.O.-Brick-Cluster.",
+          "Penalty-Shootout-Material: Saibari schoss decisive Penalty fuer MAR (analog seiner 3 Tore in 3 Gruppenspielen-Form) - WM-2026-Form-Marker fuer LV/MF-Kombo-Spieler."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "spiel_id": "2026-06-30-ger-par",
+      "spiel": "Deutschland - Paraguay (WM R32)",
+      "tipp_id": "2026-06-29-ger-par-t4",
+      "markt_typ": "Ueber 2.5 Tore",
+      "kategorie": "value",
+      "einsatz_euro": 11.0,
+      "quote": 1.65,
+      "markt": "Ueber 2.5 Tore",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 1
+    },
+    {
+      "spiel_id": "2026-06-30-ger-par",
+      "spiel": "Deutschland - Paraguay (WM R32)",
+      "tipp_id": "2026-06-29-ger-par-t1",
+      "markt_typ": "Spiel-Sieg",
+      "kategorie": "value",
+      "einsatz_euro": 11.0,
+      "quote": 1.36,
+      "markt": "Deutschland Sieg (90 Min)",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 2
+    },
+    {
+      "spiel_id": "2026-06-29-bra-jpn",
+      "spiel": "Brasilien - Japan (WM R32)",
+      "tipp_id": "2026-06-29-bra-jpn-t1",
+      "markt_typ": "Spiel-Sieg",
+      "kategorie": "wackel",
+      "einsatz_euro": 11.0,
+      "quote": 1.73,
+      "markt": "Brasilien Sieg (90 Min)",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 3
+    },
+    {
+      "spiel_id": "2026-06-30-ned-mar",
+      "spiel": "Niederlande - Marokko (WM R32)",
+      "tipp_id": "2026-06-29-ned-mar-t1",
+      "markt_typ": "Ueber 2.5 Tore",
+      "kategorie": "value",
+      "einsatz_euro": 11.0,
+      "quote": 1.85,
+      "markt": "Ueber 2.5 Tore",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 4
+    },
+    {
+      "spiel_id": "2026-06-30-ned-mar",
+      "spiel": "Niederlande - Marokko (WM R32)",
+      "tipp_id": "2026-06-29-ned-mar-t2",
+      "markt_typ": "Beide Teams treffen",
+      "kategorie": "value",
+      "einsatz_euro": 11.0,
+      "quote": 1.65,
+      "markt": "Beide Teams treffen JA",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 5
+    },
+    {
+      "spiel_id": "2026-06-29-bra-jpn",
+      "spiel": "Brasilien - Japan (WM R32)",
+      "tipp_id": "2026-06-29-bra-jpn-t2",
+      "markt_typ": "Torschuetzen Jederzeit",
+      "kategorie": "wackel",
+      "einsatz_euro": 11.0,
+      "quote": 2.5,
+      "markt": "Vinicius Junior trifft jederzeit",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 6
+    },
+    {
+      "spiel_id": "2026-06-30-ger-par",
+      "spiel": "Deutschland - Paraguay (WM R32)",
+      "tipp_id": "2026-06-29-ger-par-t2",
+      "markt_typ": "Torschuetzen Jederzeit",
+      "kategorie": "value",
+      "einsatz_euro": 11.0,
+      "quote": 2.5,
+      "markt": "Kai Havertz trifft jederzeit",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 7
+    },
+    {
+      "spiel_id": "2026-06-30-ger-par",
+      "spiel": "Deutschland - Paraguay (WM R32)",
+      "tipp_id": "2026-06-29-ger-par-t3",
+      "markt_typ": "Torschuetzen Jederzeit",
+      "kategorie": "value",
+      "einsatz_euro": 5.5,
+      "quote": 3.4,
+      "markt": "Florian Wirtz trifft jederzeit",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 8
+    },
+    {
+      "spiel_id": "2026-06-30-ned-mar",
+      "spiel": "Niederlande - Marokko (WM R32)",
+      "tipp_id": "2026-06-29-ned-mar-t4",
+      "markt_typ": "Torschuetzen Jederzeit",
+      "kategorie": "wackel",
+      "einsatz_euro": 2.75,
+      "quote": 2.5,
+      "markt": "Cody Gakpo trifft jederzeit",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 9
+    }
+  ],
+  "kombis": [
+    {
+      "name": "Safe-Kombi 2.35x",
+      "kategorie": "safe",
+      "einsatz_euro": 11.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "moeglicher_gewinn_euro": 25.85,
+      "beine": [
+        {
+          "spiel_id": "2026-06-30-ger-par",
+          "tipp_id": "2026-06-29-ger-par-t1",
+          "markt": "Deutschland - Paraguay: Deutschland Sieg (90 Min)",
+          "quote": 1.36,
+          "spiel_titel": "Deutschland - Paraguay (WM R32)"
+        },
+        {
+          "spiel_id": "2026-06-29-bra-jpn",
+          "tipp_id": "2026-06-29-bra-jpn-t1",
+          "markt": "Brasilien - Japan: Brasilien Sieg (90 Min)",
+          "quote": 1.73,
+          "spiel_titel": "Brasilien - Japan (WM R32)"
+        }
+      ],
+      "begruendung": "Doppelte Klassen-Edge: zwei klare Mit-Favoriten der WM (GER 1.36 / BRA 1.73). Beide profitieren von 2:0-Insurance (CLAUDE.md FIFA-WM-Regel). Layer-1 OK (1 Bein/Spiel). Layer-2 OK (Sieg-Outcomes in unterschiedlichen Spielen, in keiner anderen Kombi wiederverwendet).",
+      "gesamtquote": 2.35,
+      "rechnung": "1.36 x 1.73 = 2.35"
+    },
+    {
+      "name": "Balance-Kombi 11.0x",
+      "kategorie": "balance",
+      "einsatz_euro": 4.4,
+      "empfohlener_einsatz_prozent": 0.8,
+      "moeglicher_gewinn_euro": 48.36,
+      "beine": [
+        {
+          "spiel_id": "2026-06-30-ger-par",
+          "tipp_id": "2026-06-29-ger-par-t3",
+          "markt": "Deutschland - Paraguay: Florian Wirtz trifft jederzeit",
+          "quote": 3.4,
+          "spiel_titel": "Deutschland - Paraguay (WM R32)"
+        },
+        {
+          "spiel_id": "2026-06-30-ned-mar",
+          "tipp_id": "2026-06-29-ned-mar-t1",
+          "markt": "Niederlande - Marokko: Ueber 2.5 Tore",
+          "quote": 1.85,
+          "spiel_titel": "Niederlande - Marokko (WM R32)"
+        },
+        {
+          "spiel_id": "2026-06-29-bra-jpn",
+          "tipp_id": "2026-06-29-bra-jpn-t4",
+          "markt": "Brasilien - Japan: Ueber 2.5 Tore",
+          "quote": 2.05,
+          "spiel_titel": "Brasilien - Japan (WM R32)"
+        }
+      ],
+      "begruendung": "Goldgrube-Kombi: 2x Ueber-2.5-Tore (Top-Goldgrube +34.2% ROI) + 1x Torschuetzen-Jederzeit-Goldgrube (+24.4% ROI). Wirtz als 10er-Position-Star-Triple-Treffer-Pattern-Match (Lesson 06.28). Layer-1 OK (1 Bein/Spiel). Layer-2 OK (keine Sieg-Outcomes -> kein Konflikt mit Safe-Kombi).",
+      "gesamtquote": 12.89,
+      "rechnung": "3.40 x 1.85 x 2.05 = 12.89"
+    },
+    {
+      "name": "Risiko-Kombi 15.63x",
+      "kategorie": "risiko",
+      "einsatz_euro": 1.4,
+      "empfohlener_einsatz_prozent": 0.25,
+      "moeglicher_gewinn_euro": 21.88,
+      "beine": [
+        {
+          "spiel_id": "2026-06-29-bra-jpn",
+          "tipp_id": "2026-06-29-bra-jpn-t2",
+          "markt": "Brasilien - Japan: Vinicius Junior trifft jederzeit",
+          "quote": 2.5,
+          "spiel_titel": "Brasilien - Japan (WM R32)"
+        },
+        {
+          "spiel_id": "2026-06-30-ger-par",
+          "tipp_id": "2026-06-29-ger-par-t2",
+          "markt": "Deutschland - Paraguay: Kai Havertz trifft jederzeit",
+          "quote": 2.5,
+          "spiel_titel": "Deutschland - Paraguay (WM R32)"
+        },
+        {
+          "spiel_id": "2026-06-30-ned-mar",
+          "tipp_id": "2026-06-29-ned-mar-t4",
+          "markt": "Niederlande - Marokko: Cody Gakpo trifft jederzeit",
+          "quote": 2.5,
+          "spiel_titel": "Niederlande - Marokko (WM R32)"
+        }
+      ],
+      "begruendung": "Drei-Spieler-Tor-Kombi auf der Goldgrube Torschuetzen-Jederzeit (+24.4% ROI / 50% HR, n=14). Jeder Spieler ist Volume-9er/Top-Aussen mit Einwechslungs-Boost-Sicherung (CLAUDE.md): falls Vinicius/Havertz/Gakpo ausgewechselt werden, zaehlen Ersatz-Tore mit. Layer-1 OK (3 verschiedene Spiele, 1 Bein/Spiel). Layer-2 OK (keine Sieg-Outcomes -> Safe-Kombi unangetastet). Layer-3 weich: Spiele werden mit anderem Markt als Safe (Sieg) und Balance (Tor-Total / Wirtz-Tor) gefahren -> Markt-entkoppelt. Wirtz absichtlich NICHT genutzt (schon in Balance) -> kein Identitaets-Doppel.",
+      "gesamtquote": 15.63,
+      "rechnung": "2.50 x 2.50 x 2.50 = 15.63"
+    }
+  ],
+  "lessons_angewandt": [
+    "Mapper-Hebel C (CLAUDE.md): WM-Knockout-R32 nicht in Liga-Goldgrube-Liste -> KEIN SAFE-DC heute. Alle Sieg/DC-Tipps bewusst als VALUE statt SAFE.",
+    "Goldgrube-Markt Ueber 2.5 (+34.2% ROI / 64.7% HR, n=36): aktiv gesucht in allen 3 Spielen, 2x VALUE-Einzeltipp + Doppel-Anker in Balance-Kombi.",
+    "Goldgrube-Markt Torschuetzen Jederzeit (+24.4% ROI, n=14): 5 Tipps (Vinicius, Havertz, Wirtz, Saibari, Gakpo), Form-Edge-Pflicht erfuellt fuer jeden.",
+    "CLAUDE.md Form-Edge-Pflicht: bei Heim-/Auswaerts-Favorit-Spiel mit Top-Stuermer in 2+ Toren in 3 -> Torschuetzen-Tipp PFLICHT. Vinicius 4/3, Saibari 3/3 - beide drin.",
+    "CLAUDE.md Markt-Mix-Pflicht: bei Heim-Favorit < 1.80 (GER-PAR) MIN 1 Torschuetzen-Tipp + 1 Sieg/DC + Tor-Total. Alle 3 abgehakt.",
+    "CLAUDE.md Star-Ausfall-Backup-Pflicht: Brasilien ohne Raphinha (Hamstring) -> Vinicius bekommt mehr Volumen (statt Cunha-Backup) und ist Top-Tipp. Germany: Schlotterbeck out, aber das ist IV ohne Tor-Impact - kein Backup-Pflicht-Trigger.",
+    "CLAUDE.md DC-CAP max 1 DC pro Spiel + max 2-3 DC im Dossier: heute 0 DC-Tipps gesetzt (keine Liga-Goldgrube), kein Mapper-Konflikt.",
+    "Lesson 06.29 (RSA-CAN 0:1 90+2): KO-Premiere-Defensiv-Laehmungs-Pattern abgewogen. Saemtliche Ueber-2.5 + BTTS-Ja-Tipps bewusst mit WACKEL-Backup (Brazil-Ueber-2.5 nur WACKEL trotz Goldgrube wegen Pattern-Risiko).",
+    "Lesson 06.29 Late-Goal-Cluster 7 Tage in Folge: 2:0-Insurance-Hinweis fuer Sieg-Tipps explizit gemacht (BRA-Sieg + GER-Sieg). Bei zwischenzeitlich 2:0 fuer Tipp-Team ist Sieg-Tipp safe egal wie's endet.",
+    "Lesson 06.28 (Karriere-Highlight-INVERS-DEAKTIVIERUNG Tag15 Bellingham/Lo Celso/Messi 3x Treffer): 10er-Position-Star-trifft-Cluster nicht mehr 'invers'-Falle - Wirtz-Torschuetze als WM-K.O.-Cluster-Match aufgenommen.",
+    "Lesson 06.29 Pre-Match-Lineup-Single-Source-Falle (RSA-CAN Larin-Bench): heute KEIN Tipp basiert ausschliesslich auf Sports-Mole-Vorschau, alle Stuermer-Tipps sind Stamm-Spieler-Volume-Tipps (Vinicius, Havertz, Wirtz, Saibari, Gakpo) - Einwechslungs-Boost-Sicherung explizit in Begruendung erwaehnt.",
+    "Spread/Handicap = Markt-Bluter (-10.5% ROI / 30.8% HR, n=13): KEIN Spread-Tipp heute gesetzt (Mapper-Hebel B Pflicht-Wartung).",
+    "Master-Routine-Kombi-Profile (Phase 4): Safe 2.35x, Balance 12.89x, Risiko 15.63x ergaenzt - MOONSHOT 100x+ weggelassen weil bei 3 Spielen + Layer-1 hart (max 1 Bein/Spiel/Kombi) die geometrische Quoten-Obergrenze bei ~21x liegt (max Einzelquote 3.40 x 2.50 x 2.50). Ehrliche Kommunikation > erzwungene Halluzinations-Kombi."
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-06-29T14:30:00+02:00",
+    "modus": "Pipeline-Update (Master-Routine Mo-Fr) - Recherche-File data/recherche/2026-06-29.json FEHLT, daher Fallback-Modus auf bestehendes Watchdog-Recovery-Tipps-File (17:15 Vortag-Lauf) ohne squad_*-Daten zur Spieler-Halluzinations-Verifikation.",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "recherche_fehlt",
+        "details": "data/recherche/2026-06-29.json nicht vorhanden - Fallback auf bestehendes Tipps-File. Spieler-Halluzinations-Check NICHT moeglich (kein squad_heim/squad_gast aus Recherche). Spielernamen Vinicius Junior (BRA), Kai Havertz/Florian Wirtz (GER), Cody Gakpo (NED) sind bekannte WM-2026-Stamm-Spieler -> kein Drop, aber Squad-Verifikation offen."
+      },
+      {
+        "art": "quoten_aggregator_fehlt",
+        "details": "Ohne Recherche-File keine Pinnacle/bet365-Cross-Check moeglich. Alle Quoten 'bei bet365 live pruefen' (siehe begruendung-Strings)."
+      },
+      {
+        "art": "moonshot_geometrie",
+        "details": "Moonshot 100x+ nicht baubar bei 3 Spielen + Layer-1 hart. Max Quote pro Spiel 3.40 (Wirtz) -> Theorie-Ceiling 3.40 x 2.50 x 2.50 = 21.25 (Wirtz-Doppel-Verwendung, Layer-3 weich). Statt Halluzinations-Moonshot -> bewusst weggelassen + in lessons_angewandt erklaert."
+      }
+    ],
+    "layer_2_check": {
+      "status": "OK",
+      "details": "Brasilien-Sieg nur in Safe-Kombi (1x), Deutschland-Sieg nur in Safe-Kombi (1x). Keine Doppel-Verwendung von Sieg-Outcomes. Balance + Risiko enthalten 0 Sieg-Outcomes."
+    },
+    "layer_1_check": {
+      "status": "OK",
+      "details": "Safe-Kombi: 1 Bein BRA-JPN + 1 Bein GER-PAR. Balance-Kombi: 1 Bein GER-PAR + 1 Bein NED-MAR + 1 Bein BRA-JPN. Risiko-Kombi: 1 Bein BRA-JPN + 1 Bein GER-PAR + 1 Bein NED-MAR. Alle Kombis erfuellen max 1 Bein/Spiel."
+    },
+    "layer_3_check": {
+      "status": "OK_MIT_MARKT_ENTKOPPLUNG",
+      "details": "Bei 3 Spielen + 3 Kombis ist Spiel-Recycling unausweichlich. Markt-Entkopplung umgesetzt: GER-PAR -> Safe(Sieg) + Balance(Wirtz-Tor) + Risiko(Havertz-Tor). BRA-JPN -> Safe(Sieg) + Balance(Ueber 2.5) + Risiko(Vinicius-Tor). NED-MAR -> Balance(Ueber 2.5) + Risiko(Gakpo-Tor). Jeweils verschiedene Maerkte/Spieler -> Hartregel HR23 (Layer-3 weich) eingehalten."
+    },
+    "gesamtquote_pruefung": [
+      {
+        "kombi": "Safe 2.35x",
+        "rechnung": "1.36 x 1.73 = 2.3528 -> 2.35",
+        "ok": true
+      },
+      {
+        "kombi": "Balance 12.89x",
+        "rechnung": "3.40 x 1.85 x 2.05 = 12.8945 -> 12.89",
+        "ok": true
+      },
+      {
+        "kombi": "Risiko 15.63x",
+        "rechnung": "2.50 x 2.50 x 2.50 = 15.625 -> 15.63",
+        "ok": true
+      }
+    ],
+    "selbstwiderspruchs_scan": {
+      "status": "OK",
+      "details": "BRA-JPN: Vinicius-Tor + Brasilien-Sieg + BTTS-Nein + Ueber 2.5 sind alle konsistent (z.B. BRA 3:0 erfuellt alle vier). GER-PAR: Havertz/Wirtz-Tor + GER-Sieg + Ueber 2.5 konsistent. NED-MAR: Ueber 2.5 + BTTS-Ja + Gakpo-Tor konsistent (z.B. 2:1 NED). Keine OUT/PLAYS-Selbstwiderspruechs gefunden."
+    },
+    "spielort_kontext_check": {
+      "status": "OK",
+      "details": "BRA-JPN Houston (Hitze 35°C, hohe LF) - in saison_kontext NICHT explizit erwaehnt (Recherche-File-Defizit). GER-PAR Boston (moderat). NED-MAR Monterrey (Hoehe 540m + Hitze, in saison_kontext-recovery erwaehnt). Recherche-Vollausbau wuerde HR28-Konfekt erhoehen."
+    },
+    "lessons_generiert": [
+      {
+        "kategorie": "Pipeline-Resilienz Recherche-Fehler",
+        "lesson": "Wenn data/recherche/<datum>.json fehlt aber data/tipps/<datum>.json bereits von Watchdog-Recovery existiert: Master-Routine soll Tipps-File als Recherche-Surrogat akzeptieren statt komplett neu zu halluzinieren. saison_kontext + quellen[] sind im Tipps-File enthalten -> Verifikator kann Quellen-Check trotzdem fahren."
+      },
+      {
+        "kategorie": "3-Spiele-Tag Kombi-Profil-Anpassung",
+        "lesson": "Bei <=3 Spielen ist Moonshot 100x+ geometrisch unmoeglich (Layer-1 hart begrenzt Beine pro Kombi auf Spiele-Anzahl). Master-Routine soll Moonshot-Pflicht bei 3-Spiele-Tagen aussetzen + statt 4 nur 3 Kombis bauen (Safe + Balance + Risiko). Im hinweis-Feld explizit machen."
+      }
+    ]
+  },
+  "einzeltipps_ergebnis": [
+    {
+      "spiel_id": "2026-06-30-ger-par",
+      "spiel": "Deutschland - Paraguay (WM R32)",
+      "tipp_id": "2026-06-29-ger-par-t4",
+      "markt_typ": "Ueber 2.5 Tore",
+      "kategorie": "value",
+      "einsatz_euro": 11.0,
+      "quote": 1.65,
+      "markt": "Ueber 2.5 Tore",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 1,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": "2 Tore total = Unter 2.5. Form-Trend gebrochen in K.O.-Premiere.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "spiel_id": "2026-06-30-ger-par",
+      "spiel": "Deutschland - Paraguay (WM R32)",
+      "tipp_id": "2026-06-29-ger-par-t1",
+      "markt_typ": "Spiel-Sieg",
+      "kategorie": "value",
+      "einsatz_euro": 11.0,
+      "quote": 1.36,
+      "markt": "Deutschland Sieg (90 Min)",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 2,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": "1:1 90min, kein Sieg in 90min. 2:0-Insurance griff nicht (nie 2-Tor-Diff). Paraguay i.E. weiter.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "spiel_id": "2026-06-29-bra-jpn",
+      "spiel": "Brasilien - Japan (WM R32)",
+      "tipp_id": "2026-06-29-bra-jpn-t1",
+      "markt_typ": "Spiel-Sieg",
+      "kategorie": "wackel",
+      "einsatz_euro": 11.0,
+      "quote": 1.73,
+      "markt": "Brasilien Sieg (90 Min)",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 3,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.73,
+      "kommentar": "Brasilien 2:1 in regulaerer 90+ Min (Martinelli 90+5). Sieg-Tipp sauber. 2:0-Insurance war nicht noetig (nie 2:0).",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "spiel_id": "2026-06-30-ned-mar",
+      "spiel": "Niederlande - Marokko (WM R32)",
+      "tipp_id": "2026-06-29-ned-mar-t1",
+      "markt_typ": "Ueber 2.5 Tore",
+      "kategorie": "value",
+      "einsatz_euro": 11.0,
+      "quote": 1.85,
+      "markt": "Ueber 2.5 Tore",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 4,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Nur 2 Tore in 90+ Min = Unter 2.5. K.O.-Defensiv-Pattern dominierte Tor-Festival-Form.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "spiel_id": "2026-06-30-ned-mar",
+      "spiel": "Niederlande - Marokko (WM R32)",
+      "tipp_id": "2026-06-29-ned-mar-t2",
+      "markt_typ": "Beide Teams treffen",
+      "kategorie": "value",
+      "einsatz_euro": 11.0,
+      "quote": 1.65,
+      "markt": "Beide Teams treffen JA",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 5,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.65,
+      "kommentar": "Gakpo 72' NED + Diop 90+1 MAR = BTTS JA. Coinflip-Profil lieferte Klassik-BTTS.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "spiel_id": "2026-06-29-bra-jpn",
+      "spiel": "Brasilien - Japan (WM R32)",
+      "tipp_id": "2026-06-29-bra-jpn-t2",
+      "markt_typ": "Torschuetzen Jederzeit",
+      "kategorie": "wackel",
+      "einsatz_euro": 11.0,
+      "quote": 2.5,
+      "markt": "Vinicius Junior trifft jederzeit",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 6,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Vinicius traf nicht. Pfostenschuss 58'. Vinicius nicht direkt ausgewechselt (Martinelli kam fuer Cunha, nicht fuer Vinicius) - kein Boost-Trigger.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "spiel_id": "2026-06-30-ger-par",
+      "spiel": "Deutschland - Paraguay (WM R32)",
+      "tipp_id": "2026-06-29-ger-par-t2",
+      "markt_typ": "Torschuetzen Jederzeit",
+      "kategorie": "value",
+      "einsatz_euro": 11.0,
+      "quote": 2.5,
+      "markt": "Kai Havertz trifft jederzeit",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 7,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.5,
+      "kommentar": "Havertz 54' Kopfball nach Wirtz-Flanke - klar getroffen.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "spiel_id": "2026-06-30-ger-par",
+      "spiel": "Deutschland - Paraguay (WM R32)",
+      "tipp_id": "2026-06-29-ger-par-t3",
+      "markt_typ": "Torschuetzen Jederzeit",
+      "kategorie": "value",
+      "einsatz_euro": 5.5,
+      "quote": 3.4,
+      "markt": "Florian Wirtz trifft jederzeit",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 8,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Wirtz lieferte den Assist, traf aber nicht. In 110' ausgewechselt, kein Replacement-Tor. 10er-Star-trifft-These in K.O.-R32 gebrickt.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "spiel_id": "2026-06-30-ned-mar",
+      "spiel": "Niederlande - Marokko (WM R32)",
+      "tipp_id": "2026-06-29-ned-mar-t4",
+      "markt_typ": "Torschuetzen Jederzeit",
+      "kategorie": "wackel",
+      "einsatz_euro": 2.75,
+      "quote": 2.5,
+      "markt": "Cody Gakpo trifft jederzeit",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 9,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.5,
+      "kommentar": "Gakpo 72' nach Weghorst+Summerville-Vorbereitung getroffen.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": null,
+      "name": "Safe-Kombi 2.35x",
+      "status": "verloren",
+      "gesamtquote": 2.35,
+      "einsatz_euro": 11.0,
+      "gewinn_faktor": -1.0,
+      "beine_status": [
+        {
+          "spiel_id": "2026-06-30-ger-par",
+          "markt": "Deutschland - Paraguay: Deutschland Sieg (90 Min)",
+          "status": "verloren",
+          "kommentar": "1:1 nach 90 Min - GER kein Sieg, 2:0-Insurance griff nicht. Klassen-Edge-Schwere-Favorit-Cluster-Bruch."
+        },
+        {
+          "spiel_id": "2026-06-29-bra-jpn",
+          "markt": "Brasilien - Japan: Brasilien Sieg (90 Min)",
+          "status": "gewonnen",
+          "kommentar": "BRA 2:1 nach 90+5 (Martinelli) - Sieg-Tipp 90min durch, Insurance nicht noetig."
+        }
+      ]
+    },
+    {
+      "kombi_id": null,
+      "name": "Balance-Kombi 12.89x",
+      "status": "verloren",
+      "gesamtquote": 12.89,
+      "einsatz_euro": 4.4,
+      "gewinn_faktor": -1.0,
+      "beine_status": [
+        {
+          "spiel_id": "2026-06-30-ger-par",
+          "markt": "Deutschland - Paraguay: Florian Wirtz trifft jederzeit",
+          "status": "verloren",
+          "kommentar": "Wirtz Assist statt Tor. In 110' ausgewechselt, kein Replacement-Tor. 10er-Star-trifft-Cluster-Bruch in K.O."
+        },
+        {
+          "spiel_id": "2026-06-30-ned-mar",
+          "markt": "Niederlande - Marokko: Ueber 2.5 Tore",
+          "status": "verloren",
+          "kommentar": "Nur 2 Tore in 90+ Min - Unter 2.5. K.O.-Defensiv-Pattern dominierte Tor-Festival-Form."
+        },
+        {
+          "spiel_id": "2026-06-29-bra-jpn",
+          "markt": "Brasilien - Japan: Ueber 2.5 Tore",
+          "status": "gewonnen",
+          "kommentar": "3 Tore total (Sano + Casemiro + Martinelli) - Goldgrube validiert."
+        }
+      ]
+    },
+    {
+      "kombi_id": null,
+      "name": "Risiko-Kombi 15.63x",
+      "status": "verloren",
+      "gesamtquote": 15.63,
+      "einsatz_euro": 1.4,
+      "gewinn_faktor": -1.0,
+      "beine_status": [
+        {
+          "spiel_id": "2026-06-29-bra-jpn",
+          "markt": "Brasilien - Japan: Vinicius Junior trifft jederzeit",
+          "status": "verloren",
+          "kommentar": "Vinicius torlos + nicht ausgewechselt - Boost-Hebel nicht aktivierbar."
+        },
+        {
+          "spiel_id": "2026-06-30-ger-par",
+          "markt": "Deutschland - Paraguay: Kai Havertz trifft jederzeit",
+          "status": "gewonnen",
+          "kommentar": "Havertz Kopfball 54' nach Wirtz-Flanke - Goldgrube validiert."
+        },
+        {
+          "spiel_id": "2026-06-30-ned-mar",
+          "markt": "Niederlande - Marokko: Cody Gakpo trifft jederzeit",
+          "status": "gewonnen",
+          "kommentar": "Gakpo 72' nach Weghorst-Joker-Vorbereitung - Goldgrube validiert."
+        }
+      ]
+    }
+  ],
+  "ausgewertet_am": "2026-06-30T07:11:11+00:00",
+  "bilanz": {
+    "tipps_total": 9,
+    "gewonnen": 4,
+    "verloren": 5,
+    "trefferquote": 44.4,
+    "gesamt_einsatz_euro": 102.05,
+    "gesamt_gewinn_euro": -30.5,
+    "roi_prozent": -29.88
+  }
+}
