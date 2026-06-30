@@ -402,23 +402,18 @@
       "id": "kombi-moonshot",
       "name": "Moonshot-Kombi ~289x",
       "kategorie": "moonshot",
-      "gesamtquote": 26.25,
+      "gesamtquote": 7.0,
       "einsatz_euro": 0.55,
       "beine": [
         {
           "spiel_id": "2026-06-30-civ-nor",
           "markt": "Yan Diomande trifft (Jederzeit)",
           "quote": 7.0
-        },
-        {
-          "spiel_id": "2026-06-30-mex-ecu",
-          "markt": "Ecuador Sieg (90min)",
-          "quote": 3.75
         }
       ],
       "begruendung": "Lotterie. Y.Diomande (19, RB-Leipzig-Talent) als Aussenbahn-Stecher + Schweden-Schock-Sieg ala GER/NED gestern (K.O.-R32-Favoriten-Verlust-Lesson koennte heute weiter sein) + Ecuador-Underdog-Confidence nach GER-Schock-Sieg. Sieg-Outcomes Sweden+Ecuador NUR in Moonshot (Layer-2). Einsatz 0.55€ (0.1% Kasse). Spaß-Tipp.",
       "empfohlener_einsatz_prozent": 0.1,
-      "rechnung": "7.00 x 3.75 = 26.25"
+      "rechnung": "7.00 = 7.0"
     }
   ],
   "lessons_angewandt": [

@@ -457,7 +457,7 @@
     },
     {
       "name": "Risiko-Kombi 15.63x",
-      "kategorie": "risiko",
+      "kategorie": "risk",
       "einsatz_euro": 1.4,
       "empfohlener_einsatz_prozent": 0.25,
       "moeglicher_gewinn_euro": 21.88,
@@ -537,9 +537,21 @@
       "details": "Bei 3 Spielen + 3 Kombis ist Spiel-Recycling unausweichlich. Markt-Entkopplung umgesetzt: GER-PAR -> Safe(Sieg) + Balance(Wirtz-Tor) + Risiko(Havertz-Tor). BRA-JPN -> Safe(Sieg) + Balance(Ueber 2.5) + Risiko(Vinicius-Tor). NED-MAR -> Balance(Ueber 2.5) + Risiko(Gakpo-Tor). Jeweils verschiedene Maerkte/Spieler -> Hartregel HR23 (Layer-3 weich) eingehalten."
     },
     "gesamtquote_pruefung": [
-      {"kombi": "Safe 2.35x", "rechnung": "1.36 x 1.73 = 2.3528 -> 2.35", "ok": true},
-      {"kombi": "Balance 12.89x", "rechnung": "3.40 x 1.85 x 2.05 = 12.8945 -> 12.89", "ok": true},
-      {"kombi": "Risiko 15.63x", "rechnung": "2.50 x 2.50 x 2.50 = 15.625 -> 15.63", "ok": true}
+      {
+        "kombi": "Safe 2.35x",
+        "rechnung": "1.36 x 1.73 = 2.3528 -> 2.35",
+        "ok": true
+      },
+      {
+        "kombi": "Balance 12.89x",
+        "rechnung": "3.40 x 1.85 x 2.05 = 12.8945 -> 12.89",
+        "ok": true
+      },
+      {
+        "kombi": "Risiko 15.63x",
+        "rechnung": "2.50 x 2.50 x 2.50 = 15.625 -> 15.63",
+        "ok": true
+      }
     ],
     "selbstwiderspruchs_scan": {
       "status": "OK",
