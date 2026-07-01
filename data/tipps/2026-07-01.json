@@ -36,14 +36,15 @@
       "tipps": [
         {
           "id": "eng-cod-1",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Kane trifft (Jederzeit)",
           "quote": 1.72,
           "edge_prozent": 10,
           "einsatz_euro": 7,
-          "begruendung": "Kane 3 Turnier-Tore, Stamm-9er, 1.72-Quote = wahrscheinlichster Skorer laut bet365. Goldgrube 'Torschuetzen Jederzeit' +24.4% ROI / 50% Hitrate (bester Markt im System). Kongo-Defense zu weit unter England-Klasse. PFLICHT-Torschuetzen bei HEIM-CRUSHING-FAVORIT-Profil. Kategorie VALUE (nicht SAFE) wegen Lesson 06.30 'Torschuetzen-R32-WACKEL-Cluster verlor 3/4' + WM nicht in Liga-Goldgruben. Einsatz 7€ (Stufe 1, 1.3% Kasse 550€).",
+          "begruendung": "Kane 3 Turnier-Tore, Stamm-9er, 1.72-Quote = wahrscheinlichster Skorer laut bet365. Goldgrube 'Torschuetzen Jederzeit' +24.4% ROI / 50% Hitrate (bester Markt im System). Kongo-Defense zu weit unter England-Klasse. PFLICHT-Torschuetzen bei HEIM-CRUSHING-FAVORIT-Profil. Kategorie VALUE (nicht SAFE) wegen Lesson 06.30 'Torschuetzen-R32-WACKEL-Cluster verlor 3/4' + WM nicht in Liga-Goldgruben. Einsatz 7€ (Stufe 1, 1.3% Kasse 550€). [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "faire_quote": 1.56,
-          "empfohlener_einsatz_prozent": 1.0
+          "empfohlener_einsatz_prozent": 1.0,
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "eng-cod-2",
@@ -78,7 +79,8 @@
           "faire_quote": 2.05,
           "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-07-01-bel-sen",
@@ -114,14 +116,15 @@
       "tipps": [
         {
           "id": "bel-sen-1",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Belgien Doppelte Chance 1X",
           "quote": 1.28,
           "edge_prozent": 7,
           "einsatz_euro": 9,
-          "begruendung": "Belgien-Klasse-Edge auch ohne Lukaku aus Sicht Nicht-Verlieren = DC. Courtois-Weltklasse-Keeper + De-Bruyne-Spielmacher + Doku/Trossard-Fluegel-Speed. Goldgrube 'Doppelte Chance 1X' +9.5% ROI / 84.6% Hitrate. Kategorie VALUE (nicht SAFE) wegen WM nicht in Liga-Goldgruben + Lukaku-Bank-Toothless-Warnung + Lesson 06.30 K.O.-R32-Klassen-Edge unzuverlaessig. EINZIGER DC-Tipp im Spiel - DC-Cap erfuellt. Einsatz 9€ (1.6% Kasse 550€).",
+          "begruendung": "Belgien-Klasse-Edge auch ohne Lukaku aus Sicht Nicht-Verlieren = DC. Courtois-Weltklasse-Keeper + De-Bruyne-Spielmacher + Doku/Trossard-Fluegel-Speed. Goldgrube 'Doppelte Chance 1X' +9.5% ROI / 84.6% Hitrate. Kategorie VALUE (nicht SAFE) wegen WM nicht in Liga-Goldgruben + Lukaku-Bank-Toothless-Warnung + Lesson 06.30 K.O.-R32-Klassen-Edge unzuverlaessig. EINZIGER DC-Tipp im Spiel - DC-Cap erfuellt. Einsatz 9€ (1.6% Kasse 550€). [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
           "faire_quote": 1.2,
-          "empfohlener_einsatz_prozent": 1.6
+          "empfohlener_einsatz_prozent": 1.6,
+          "_saison_kontext_sanity_downgrade": true
         },
         {
           "id": "bel-sen-2",
@@ -156,7 +159,8 @@
           "faire_quote": 1.9,
           "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-07-01-usa-bih",
@@ -203,14 +207,15 @@
         },
         {
           "id": "usa-bih-2",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Balogun trifft (Jederzeit)",
           "quote": 2.2,
           "edge_prozent": 9,
           "einsatz_euro": 7,
-          "begruendung": "Balogun 2 Turnier-Tore + Stamm-9er + wahrscheinlichster Skorer laut Racing Post/FanDuel-Analyse. Bosnien-Innenverteidiger-Katic solid aber USA-Angriff-Druck hoch. Goldgrube 'Torschuetzen Jederzeit' +24.4% ROI / 50% Hitrate. PFLICHT-Torschuetze bei HEIM-KLARER-FAVORIT (1.45) Profile. Einsatz 7€ (1.3% Kasse).",
+          "begruendung": "Balogun 2 Turnier-Tore + Stamm-9er + wahrscheinlichster Skorer laut Racing Post/FanDuel-Analyse. Bosnien-Innenverteidiger-Katic solid aber USA-Angriff-Druck hoch. Goldgrube 'Torschuetzen Jederzeit' +24.4% ROI / 50% Hitrate. PFLICHT-Torschuetze bei HEIM-KLARER-FAVORIT (1.45) Profile. Einsatz 7€ (1.3% Kasse). [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "faire_quote": 2.02,
-          "empfohlener_einsatz_prozent": 1.3
+          "empfohlener_einsatz_prozent": 1.3,
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "usa-bih-3",
@@ -234,7 +239,8 @@
           "faire_quote": 2.1,
           "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     }
   ],
   "einzeltipps": [
