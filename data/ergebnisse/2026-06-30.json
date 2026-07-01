@@ -1,0 +1,989 @@
+{
+  "datum": "2026-06-30",
+  "erstellt_am": "2026-06-30T17:15:00+02:00",
+  "hinweis": "Watchdog-Recovery 17:15 - Hauptroutine 16:00 ist nicht durchgelaufen. WM 2026 Round-of-32 Tag 4 (letzter R32-Tag): 3 Spiele tonight (CIV-NOR 19:00, FRA-SWE 23:00, MEX-ECU 03:00). NBA-Finals sind seit Knicks 4-1-Sieg vorbei. Vereins-Fussball Saison-Pause bis August 2026. Kasse-Stufe 1 (550€). Alle Tipps trotz Top-Favoriten-Pleiten gestern (GER+NED beide raus per Elfm) wegen K.O.-R32-Klassen-Edge-Lesson eine Stufe konservativer.",
+  "spiele": [
+    {
+      "id": "2026-06-30-civ-nor",
+      "liga": "FIFA WM 2026 - Round of 32",
+      "heim": "Elfenbeinkueste",
+      "gast": "Norwegen",
+      "anstoss": "2026-06-30T19:00:00+02:00",
+      "stadion": "AT&T Stadium, Arlington, Texas",
+      "saison_kontext": {
+        "parallel_heim": "keine - Nationalmannschaft, WM-Vollfokus",
+        "parallel_gast": "keine - Nationalmannschaft, WM-Vollfokus",
+        "saisonziel_heim": "WM-2026-Erster-Knockout-Auftritt seit 2014, Gruppe-E-2. (nach Sieg ueber Curacao 2:0, Pepe-Doppelpack)",
+        "saisonziel_gast": "WM-2026-erster-Knockout-Auftritt seit 1998, Gruppe-I-2. (Sieg vs Senegal 3:2 Haaland-Brace, MD3 4:1-Niederlage vs Frankreich mit Haaland geschont)",
+        "motivations_asymmetrie": "Symmetrisches K.O.-Premieren-Profil (CIV erstmals seit 2014, NOR erstmals seit 1998) - Tor-Anreiz auf beiden Seiten gleich hoch, klassisches Defensive-Lock-up-Risiko per Lesson 06.29 (RSA-CAN 0:1 in 90+2).",
+        "recovery_heim": "4 Tage seit MD3 (26.06. Sieg vs Curacao), keine Belastungs-Sorgen, Pepe + Y.Diomande in Form",
+        "recovery_gast": "4 Tage seit MD3 (26.06. Niederlage vs Frankreich) - Haaland MD3 komplett geschont (unused sub) = ausgeruhter Top-Stuermer mit 4 Toren in 2 Spielen, klares Form-Edge",
+        "quellen": [
+          "https://www.espn.com/espn/story/_/id/49213630/ivory-coast-vs-norway-kick-team-news-how-watch-diomande-faces-haaland",
+          "https://www.aljazeera.com/news/2026/6/30/ivory-coast-norway-fifa-world-cup-round-of-32-prediction-haaland-diomande-lineups",
+          "https://www.foxsports.com/stories/soccer/erling-haaland-start-bench-norway-vs-france",
+          "https://www.rotowire.com/soccer/article/ivory-coast-vs-norway-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-round-of-32-120216"
+        ]
+      },
+      "news": [
+        "Haaland MD3 vs Frankreich (4:1-Niederlage) als unused sub geschont - kommt frisch zurueck mit 4 Toren in 2 Spielen (Brace Irak + Brace Senegal). Form-Edge klar.",
+        "CIV: Pepe Doppelpack vs Curacao 2:0 MD3. Y.Diomande (RB Leipzig, 19) als jugendliche Aussenbahn-Gefahr.",
+        "Erwartete Aufstellung CIV (4-1-4-1): Fofana - Doue, Kossounou, O.Diomande, Konan - Sangare - Diallo, Kessie, Oulai, Y.Diomande - Pepe.",
+        "NOR: keine bestaetigten Ausfaelle/Sperren. Solbakken hat Haaland-Frische-Joker.",
+        "Beide-Teams-K.O.-Premiere triggert Lesson 06.29 RSA-CAN-Pattern: Defensive-Lock-up + Tor faellt spaet via Standard."
+      ],
+      "tipps": [
+        {
+          "id": "civ-nor-1",
+          "kategorie": "wackel",
+          "markt": "Haaland trifft (Jederzeit)",
+          "quote": 1.65,
+          "edge_prozent": 8,
+          "einsatz_euro": 7,
+          "begruendung": "Haaland 4 Tore in 2 Spielen (Brace Irak + Brace Senegal), MD3 komplett geschont = ausgeruht + Form-Edge. Goldgrube 'Torschuetzen Jederzeit' +24.4% ROI. Kategorie VALUE statt SAFE wegen Lesson 06.30 'Torschuetzen-WACKEL-Cluster in WM-R32 verlor 3/4' + K.O.-Premieren-Defensive-Risiko. Einsatz 7€ (Stufe 1, 1.3% Kasse 550€). [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "faire_quote": 1.53,
+          "empfohlener_einsatz_prozent": 1.0,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "id": "civ-nor-2",
+          "kategorie": "value",
+          "markt": "Norwegen Doppelte Chance 1X",
+          "quote": 1.45,
+          "edge_prozent": 6,
+          "einsatz_euro": 7,
+          "begruendung": "Norwegen ist mit 2.10-Sieg-Quote nur moderater Favorit (-172 Advance-Odds). Haaland-Frische-Joker + bessere Tournament-Tiefe vs Pepe-One-Man-Show. Goldgrube 'Doppelte Chance 1X' +9.5% ROI / 84.6% Hitrate. Kategorie VALUE (nicht SAFE) weil WM nicht in Liga-Goldgruben + Klassen-Edge-K.O.-R32-Lesson (GER+NED gestern beide raus). Einsatz 7€ (1.3% Kasse). EINZIGER DC-Tipp im Spiel - DC-Cap erfuellt.",
+          "faire_quote": 1.37,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "civ-nor-3",
+          "kategorie": "wackel",
+          "markt": "Unter 3.5 Tore",
+          "quote": 1.4,
+          "edge_prozent": 4,
+          "einsatz_euro": 2.75,
+          "begruendung": "Markt-Goldgrube-Naehe (Unter 2.5 +27.5% / 66.7%) - hier ein Polster-Tipp Unter 3.5. K.O.-Premieren-Defensive-Pattern Lesson 06.29 (RSA-CAN 0:1 nach 90+2). 4-1-4-1-Igel-Setup CIV gegen Haaland-fokussierten Norwegen-Konter. Einsatz 2.75€ (0.5% Kasse, WACKEL-Standard).",
+          "faire_quote": 1.35,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 2,
+        "status": "FINISHED",
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 1
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-06-30-civ-nor-civ-nor-1",
+          "spiel_id": "2026-06-30-civ-nor",
+          "markt": "Haaland trifft (Jederzeit)",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "kategorie": "wackel",
+          "einsatz_euro": 7,
+          "quote": 1.65,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.65,
+          "kommentar": "Haaland trifft in der 86. Min (Late-Winner) - Torschuetzen-Tipp sauber gewonnen. Goldgrube-Markt Torschuetzen Jederzeit.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-06-30-civ-nor-civ-nor-2",
+          "spiel_id": "2026-06-30-civ-nor",
+          "markt": "Norwegen Doppelte Chance 1X",
+          "markt_typ": "Doppelte Chance 1X",
+          "kategorie": "value",
+          "einsatz_euro": 7,
+          "quote": 1.45,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.45,
+          "kommentar": "Doppelte Chance (Gast): Endstand 1:2 - Team gewinnt oder Remis. Tipp gewonnen. Goldgrube-Markt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-06-30-civ-nor-civ-nor-3",
+          "spiel_id": "2026-06-30-civ-nor",
+          "markt": "Unter 3.5 Tore",
+          "markt_typ": "Unter 3.5 Tore",
+          "kategorie": "wackel",
+          "einsatz_euro": 2.75,
+          "quote": 1.4,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.4,
+          "kommentar": "Unter 3.5 Tore: Endstand 1:2 = 3 Tore < 3.5. Sauber gewonnen.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "1:2",
+        "tore": [
+          {
+            "min": 39,
+            "team": "gast",
+            "spieler": "Antonio Nusa",
+            "stand_danach": "0:1",
+            "details": "Nusa curlte den Ball um Torwart Fofana ins Netz - Norwegen-Fuehrung nach 39."
+          },
+          {
+            "min": 74,
+            "team": "heim",
+            "spieler": "Amad Diallo",
+            "stand_danach": "1:1",
+            "details": "Diallo mit einem der Turnier-Highlights - Solo-Zauber-Tor zum Ausgleich."
+          },
+          {
+            "min": 86,
+            "team": "gast",
+            "spieler": "Erling Haaland",
+            "stand_danach": "1:2",
+            "details": "Haaland-Late-Winner 86. Min - qualifiziert Norwegen fuer Achtelfinale gegen Brasilien."
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Kein 2:0-Vorsprung zu keinem Zeitpunkt (Endstand 1:2). Kein 2:0-Insurance-Trigger. 3 Wechsel Fuehrender: 0:0 -> 0:1 -> 1:1 -> 1:2. Late-Goal-Cluster fortgesetzt (Haaland 86.)."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_0_5": true,
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "unter_2_5": false,
+          "unter_3_5": true,
+          "halbzeit_endstand": "Gast/Gast",
+          "kein_team_zu_null": true
+        },
+        "auffaellige_patterns": [
+          "Late-Goal-Cluster laufend fortgesetzt: Haaland 86. Min als 10. Spiel-in-Folge mit >=85er-Tor.",
+          "K.O.-Premieren-Beide-Teams-Regel (Lesson 06.29) nicht bestaetigt - 3 Tore statt Defensive-Lock-up, aber alle Tore in 39/74/86 Bereich (spaeter Rhythmus).",
+          "Amad Diallo (Man United, CIV Nr. 8) mit Solo-Tor-des-Turniers-Kandidat - Aussenbahn-Talent bestaetigt."
+        ]
+      }
+    },
+    {
+      "id": "2026-06-30-fra-swe",
+      "liga": "FIFA WM 2026 - Round of 32",
+      "heim": "Frankreich",
+      "gast": "Schweden",
+      "anstoss": "2026-06-30T23:00:00+02:00",
+      "stadion": "MetLife Stadium, East Rutherford, New Jersey",
+      "saison_kontext": {
+        "parallel_heim": "keine - Nationalmannschaft, WM-Vollfokus",
+        "parallel_gast": "keine - Nationalmannschaft, WM-Vollfokus",
+        "saisonziel_heim": "WM-2026-Titel-Anwaerter (3. Platz in der Endrunde 2022, Vize 2018). Gruppe-I-1. (MD3-Demonstration 4:1 vs Norwegen, 3 Wins).",
+        "saisonziel_gast": "WM-2026-Erster-Knockout-Auftritt seit 2018 (Viertelfinale damals). Gruppe-F-3. (best-3rd nach 5:1 Tunesien + 1:1 Japan + Niederlage NED).",
+        "motivations_asymmetrie": "Schweden hat Underdog-Mentalitaet + nichts zu verlieren ABER Star-Defensive-Ausfall Isak Hien (Atalanta-CB, Hamstring-Riss, ganzes Turnier raus) waehrend Frankreich-Sturm-Front (Mbappe-Olise-Dembele-Barcola) auf Hochform. Klassen-Edge VOLL aktiv aber Lesson 06.30 (GER+NED-K.O.-R32-Verlust per Elfm) erzwingt Vorsicht gegen Vollgas-SAFE.",
+        "recovery_heim": "4 Tage seit MD3 (26.06. 4:1 vs Norwegen mit Stamm-Lineup), Saliba 'probable', Stamm-Truppe einsatzbereit",
+        "recovery_gast": "4 Tage seit MD3, ABER STAR-DEFENSE Hien (Atalanta) komplett raus = signifikant geschwaechte 3-4-3-Dreier-Kette gegen 4-Stuermer-FRA",
+        "quellen": [
+          "https://www.rotowire.com/soccer/article/france-vs-sweden-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-round-of-32-120217",
+          "https://www.aljazeera.com/sports/2026/6/30/france-sweden-fifa-world-cup-round-of-32-prediction-schedule-lineups-mbappe-dembele",
+          "https://www.sabcsport.com/soccer/news/sweden-lose-isak-hien-as-injury-ends-world-cup-dream-ahead-of-france-clash",
+          "https://www.sportsmole.co.uk/football/sweden/world-cup-2026/predicted-lineups/who-replaces-hien-predicted-sweden-xi-vs-france_600279.html"
+        ]
+      },
+      "news": [
+        "Isak Hien (Atalanta-CB) HAMSTRING-RISS - Tournament-OUT. Schwedens 3-4-3-Dreierkette muss Backup-CB einbauen gegen 4-Stuermer-Frankreich.",
+        "Mbappe 4 Tore in 3 Spielen (Top-Scorer-Liga geteilt mit Haaland/Dembele/Vinicius @4), Form-Edge maximal. Karriere-Highlight-Trigger (10er-Lesson DEAKTIVIERT 06.28 - aber Mbappe ist 9er nicht 10er).",
+        "Dembele 4 Tore Group-Stage incl. France 4-1 NOR. Olise + Barcola im 4-2-3-1 hinter Mbappe.",
+        "Sweden: Gyokeres + Isak Sturm-Duo + Elanga. Isak/Gyokeres bei Tunesien beide getroffen, gegen Japan 1:1 nicht.",
+        "FRA-DH-Sieg-Quote 1.25 = -400 ML = sehr deutliches Klassen-Edge, ABER Lesson 06.30 (GER 1.36 + NED 2.15 beide gestern per Elfm-Schiessen raus) erzwingt Kategorie-Downgrade SAFE -> VALUE."
+      ],
+      "tipps": [
+        {
+          "id": "fra-swe-1",
+          "kategorie": "wackel",
+          "markt": "Frankreich Sieg (90min)",
+          "quote": 1.25,
+          "edge_prozent": 12,
+          "einsatz_euro": 9,
+          "begruendung": "Frankreich-Crushing-Favorit (1.25 = ~80% implizit) + Hien-Tournament-Out schwaecht Sweden-Defense + Frankreich-Sturm-Quartett vs Underdog. Kategorie VALUE (nicht SAFE) wegen Lesson 06.30: GER 1.36-Sieg + NED 2.15-Sieg gestern beide per Elfm raus = Klassen-Edge-Sieg-Tipps in K.O.-R32 NICHT zuverlaessig. Einsatz 9€ (1.6% Kasse 550€). [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
+          "faire_quote": 1.12,
+          "empfohlener_einsatz_prozent": 1.0,
+          "_saison_kontext_sanity_downgrade": true
+        },
+        {
+          "id": "fra-swe-2",
+          "kategorie": "wackel",
+          "markt": "Mbappe trifft (Jederzeit)",
+          "quote": 1.6,
+          "edge_prozent": 10,
+          "einsatz_euro": 7,
+          "begruendung": "Mbappe 4 Tore in 3 Spielen (Top-Scorer-geteilt). Goldgrube 'Torschuetzen Jederzeit' +24.4% ROI / 50% Hitrate (bester Markt im System). Sweden-Defense ohne Hien deutlich schwaecher. PFLICHT-Torschuetzen-Tipp bei HEIM-FAVORIT < 1.80-Profile. Einsatz 7€ (1.3% Kasse). [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "faire_quote": 1.45,
+          "empfohlener_einsatz_prozent": 1.0,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "id": "fra-swe-3",
+          "kategorie": "wackel",
+          "markt": "Dembele trifft (Jederzeit)",
+          "quote": 2.0,
+          "edge_prozent": 6,
+          "einsatz_euro": 2.75,
+          "begruendung": "Dembele 4 Tore Group-Stage inkl. Brace vs NOR. Backup-Form-Tipp neben Mbappe gegen geschwaechte Sweden-Defense. WACKEL-Standard (kein klares 2-Tor-Karriere-Highlight aber stabile Form). Einsatz 2.75€ (0.5% Kasse).",
+          "faire_quote": 1.89,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "fra-swe-4",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.6,
+          "edge_prozent": 8,
+          "einsatz_euro": 7,
+          "begruendung": "Goldgrube 'Ueber 2.5 Tore' +26.7% ROI / 61.1% Hitrate. Frankreich 4:1 + 3:1 + 4:0 im Group-Stage Mittelschnitt > 3 Tore. Sweden 5-1 Tunesien zeigt Offensive (Isak+Gyokeres) - Tore in beide Richtungen wahrscheinlich. Hien-Ausfall + Frankreich-Sturm-Druck. Einsatz 7€ (1.3% Kasse).",
+          "faire_quote": 1.48,
+          "empfohlener_einsatz_prozent": 1.0
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 3,
+        "gast_tore": 0,
+        "status": "FINISHED",
+        "halbzeit_heim": 1,
+        "halbzeit_gast": 0
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-06-30-fra-swe-fra-swe-1",
+          "spiel_id": "2026-06-30-fra-swe",
+          "markt": "Frankreich Sieg (90min)",
+          "markt_typ": "Sieg (1X2 / ML)",
+          "kategorie": "wackel",
+          "einsatz_euro": 9,
+          "quote": 1.25,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.25,
+          "kommentar": "Frankreich Sieg: FRA 3:0 SWE gewonnen. Klassen-Edge trotz Lesson 06.30-Warnung sauber durchgezogen (kein Elfm-Wahnsinn wie GER/NED).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-06-30-fra-swe-fra-swe-2",
+          "spiel_id": "2026-06-30-fra-swe",
+          "markt": "Mbappe trifft (Jederzeit)",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "kategorie": "wackel",
+          "einsatz_euro": 7,
+          "quote": 1.6,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.6,
+          "kommentar": "Mbappe Doppelpack (45. + 74. Min) - Torschuetzen-Tipp Jederzeit sauber gewonnen. Nun 6 Turnier-Tore, Level mit Messi.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-06-30-fra-swe-fra-swe-3",
+          "spiel_id": "2026-06-30-fra-swe",
+          "markt": "Dembele trifft (Jederzeit)",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "kategorie": "wackel",
+          "einsatz_euro": 2.75,
+          "quote": 2.0,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Dembele traf nicht + wurde 75. Min fuer Doue ausgewechselt, Doue traf nicht (Endstand-Tore 45'/53'/74' alle vor Auswechslung). Kein Einwechslungs-Boost-Trigger. Backup-Torschuetzen-Tipp Fehl.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-06-30-fra-swe-fra-swe-4",
+          "spiel_id": "2026-06-30-fra-swe",
+          "markt": "Ueber 2.5 Tore",
+          "markt_typ": "Ueber 2.5 Tore",
+          "kategorie": "value",
+          "einsatz_euro": 7,
+          "quote": 1.6,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.6,
+          "kommentar": "Ueber 2.5 Tore: Endstand 3:0 = 3 Tore > 2.5. Sauber gewonnen.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "3:0",
+        "tore": [
+          {
+            "min": 45,
+            "team": "heim",
+            "spieler": "Kylian Mbappe",
+            "stand_danach": "1:0",
+            "details": "Mbappe traf nach Kurz-Corner-Aktion mit Dembele-Vorlage - HZ-Fuehrung 1:0."
+          },
+          {
+            "min": 53,
+            "team": "heim",
+            "spieler": "Bradley Barcola",
+            "stand_danach": "2:0",
+            "details": "Barcola nach Olise-Steckpass klinisch abgeschlossen - fruehes Zwei-Tor-Polster."
+          },
+          {
+            "min": 74,
+            "team": "heim",
+            "spieler": "Kylian Mbappe",
+            "stand_danach": "3:0",
+            "details": "Mbappe-Konter ins lange Eck - 6. Turnier-Tor, Level mit Messi bei 18 WM-Karriere-Toren."
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Frankreich fuehrte 2:0 ab 53. Min - 2:0-Insurance greift theoretisch fuer FRA-Sieg-Tipp (aber Sieg eh 3:0 durchgezogen, keine Insurance-Rettung noetig)."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_0_5": true,
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "unter_2_5": false,
+          "unter_3_5": true,
+          "halbzeit_endstand": "Heim/Heim",
+          "kein_team_zu_null": false
+        },
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "aus": "Ousmane Dembele",
+            "ein": "Desire Doue",
+            "minute": 75,
+            "tor": false,
+            "tor_minute": null,
+            "kommentar": "Dembele ausgewechselt 75. Min fuer Doue - Doue traf nicht. Einwechslungs-Boost-Trigger vorhanden aber nicht ausgeloest. Dembele-Torschuetzen-Tipp verloren."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Frankreich-Klassen-Edge trotz K.O.-R32-Vorsichts-Lesson sauber durchgesetzt (3:0 ohne Elfmeter-Wahnsinn wie GER/NED).",
+          "Mbappe-Ligadouble via Kurz-Corner-Assist von Dembele - Dembele-Assist zaehlt aber nicht als Tor."
+        ]
+      }
+    },
+    {
+      "id": "2026-06-30-mex-ecu",
+      "liga": "FIFA WM 2026 - Round of 32",
+      "heim": "Mexiko",
+      "gast": "Ecuador",
+      "anstoss": "2026-07-01T03:00:00+02:00",
+      "stadion": "Estadio Azteca, Mexico-Stadt (Hoehe 2240m)",
+      "saison_kontext": {
+        "parallel_heim": "keine - Nationalmannschaft, WM-Vollfokus",
+        "parallel_gast": "keine - Nationalmannschaft, WM-Vollfokus",
+        "saisonziel_heim": "WM-2026-Heim-Turnier, Gruppe-A-1 (3-3-0, 6:0 Tore, 0 GA - perfekter Group-Stage). Achtelfinale erreichen ist Pflicht-Quote auf Heimboden, Viertelfinale waere Highlight nach 2018-Aus.",
+        "saisonziel_gast": "WM-2026-Erster-Knockout-Auftritt seit 2014. Gruppe-E-3. (best-3rd nach Schock-Sieg vs Deutschland MD3). 2 Gegentore in 3 Spielen, defensiv-extrem solide.",
+        "motivations_asymmetrie": "Mexico Heimboden + 80.000+ Azteca-Atmosphaere (Coach Aguirre: 'Fans sind unser 12. Mann') ABER Klassen-Edge nur moderat (2.20-Sieg-Quote = nicht klarer Favorit). Ecuador in Underdog-Rolle nach GER-Schock-Sieg = Confidence hoch. Beide-Teams-K.O.-Premiere triggert Lesson 06.29 Defensive-Pattern.",
+        "recovery_heim": "6 Tage seit MD3 (24.06., Gruppe A endete zuerst) - lange Pause = frisch ABER Rhythmus-Mangel-Risiko, kein Verletzungs-Druck",
+        "recovery_gast": "5 Tage seit MD3 (25.06. Schock-Sieg vs Deutschland), keine Belastungs-Sorgen",
+        "quellen": [
+          "https://www.espn.com/soccer/story/_/id/49212810/mexico-vs-ecuador-fifa-world-cup-2026-tv-channel-how-watch-kickoff-live-stream-referee-predicted-lineups",
+          "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_Group_A",
+          "https://www.cbssports.com/soccer/news/mexico-ecuador-odds-predictions-2026-world-cup-round-of-32-picks/",
+          "https://www.foxsports.com/stories/soccer/world-cup-mexico-odds",
+          "https://www.racingpost.com/sport/football-tips/world-cup-2026/mexico-vs-ecuador-world-cup-prediction-team-news-odds-betting-tips-and-bet-builder-ae7Gq2P3s8AX/"
+        ]
+      },
+      "news": [
+        "Estadio Azteca Hoehe 2240m: CLAUDE.md-Pflicht: kontaktscheue Spiele, Tempo niedriger, Ueber-Tore-Tipps Vorsicht.",
+        "Mexico Group A: 3 Wins / 6:0 / 0 GA. Defense+Heimstaerke = Pflicht-Achtelfinale.",
+        "Ecuador Group E: 2 GA in 3 Spielen, NUR 5 GA in 18 Quali-Spielen historisch. Defense erstklassig.",
+        "Mexico-Sturm: Raul Jimenez (35, Fulham) als Starter mit erstem WM-Tor vs Suedafrika (67. via Alvarado-Flanke). Santiago Gimenez (AC Milan, Knoechel-Probleme) Backup-3./4.-Stuermer.",
+        "Beide-Teams-K.O.-Premiere triggert Lesson 06.29 RSA-CAN 0:1-Pattern: Defensive-Lock-up + spaetes Tor (Standard / Sub).",
+        "Profile: COINFLIP-Naehe (MEX 2.20 / X 3.00 / ECU 3.75) - Mexico nur leichter Favorit ohne klares offensives Edge-Signal."
+      ],
+      "tipps": [
+        {
+          "id": "mex-ecu-1",
+          "kategorie": "value",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.8,
+          "edge_prozent": 12,
+          "einsatz_euro": 9,
+          "begruendung": "Goldgrube 'Unter 2.5 Tore' +27.5% ROI / 66.7% Hitrate (zweitbester Markt). Mexico 0 GA Group-Stage, Ecuador 2 GA in 3 Spielen. Azteca-Hoehe 2240m senkt Tempo + Kontakt (CLAUDE.md WM-Sonderregel). K.O.-Premiere-Defensive-Pattern (Lesson 06.29 RSA-CAN 0:1). Einsatz 9€ (1.6% Kasse). Kategorie VALUE (nicht SAFE) weil WM nicht in Liga-Goldgruben und Mexico-Rhythmus-Mangel-Risiko nach 6-Tage-Pause.",
+          "faire_quote": 1.61,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "mex-ecu-2",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen NEIN",
+          "quote": 1.65,
+          "edge_prozent": 8,
+          "einsatz_euro": 7,
+          "begruendung": "Mexico 0 GA + Ecuador 2 GA in 3 Spielen + Azteca-Hoehe + K.O.-Premieren-Defensive-Pattern. BTTS-NEIN passt zu Unter-2.5-These (low-scoring single-goal-decider). Einsatz 7€ (1.3% Kasse).",
+          "faire_quote": 1.53,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "mex-ecu-3",
+          "kategorie": "wackel",
+          "markt": "Mexiko Sieg (90min)",
+          "quote": 2.2,
+          "edge_prozent": 4,
+          "einsatz_euro": 2.75,
+          "begruendung": "Heimboden-Edge Azteca + Klassen-Edge moderat (2.20 = ~45% implizit). Kategorie WACKEL (NICHT SAFE/VALUE) wegen COINFLIP-naher Quoten-Range + Lesson 06.30 K.O.-R32-Klassen-Edge-Sieg-Tipps unzuverlaessig (GER+NED gestern Elfm-raus) + Mexico-6-Tage-Pause-Rhythmus-Risiko + Ecuador-Confidence-Hoch nach GER-Schock-Sieg. Einsatz 2.75€ (0.5% Kasse).",
+          "faire_quote": 2.12,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 0,
+        "status": "FINISHED",
+        "halbzeit_heim": 2,
+        "halbzeit_gast": 0
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-06-30-mex-ecu-mex-ecu-1",
+          "spiel_id": "2026-06-30-mex-ecu",
+          "markt": "Unter 2.5 Tore",
+          "markt_typ": "Unter 2.5 Tore",
+          "kategorie": "value",
+          "einsatz_euro": 9,
+          "quote": 1.8,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.8,
+          "kommentar": "Unter 2.5 Tore: Endstand 2:0 = 2 Tore < 2.5. Sauber gewonnen.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-06-30-mex-ecu-mex-ecu-2",
+          "spiel_id": "2026-06-30-mex-ecu",
+          "markt": "Beide Teams treffen NEIN",
+          "markt_typ": "Beide Teams treffen NEIN",
+          "kategorie": "value",
+          "einsatz_euro": 7,
+          "quote": 1.65,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.65,
+          "kommentar": "BTTS-NEIN: Endstand 2:0 - Gast 0 Tore. Tipp sauber durch.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-06-30-mex-ecu-mex-ecu-3",
+          "spiel_id": "2026-06-30-mex-ecu",
+          "markt": "Mexiko Sieg (90min)",
+          "markt_typ": "Sieg (1X2 / ML)",
+          "kategorie": "wackel",
+          "einsatz_euro": 2.75,
+          "quote": 2.2,
+          "status": "gewonnen",
+          "gewinn_faktor": 1.2,
+          "kommentar": "Mexiko Sieg: MEX 2:0 ECU gewonnen (HZ 2:0). Heim-Edge Azteca + Coinflip-Naehe zerstreut, 40-Jahre-KO-Fluch gebrochen.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "2:0",
+        "endstand": "2:0",
+        "tore": [
+          {
+            "min": 22,
+            "team": "heim",
+            "spieler": "Julian Quinones",
+            "stand_danach": "1:0",
+            "details": "Quinones nach Pass von Alvarado in die Box getrieben - unhaltbarer Schuss vorbei Galindez."
+          },
+          {
+            "min": 31,
+            "team": "heim",
+            "spieler": "Raul Jimenez",
+            "stand_danach": "2:0",
+            "details": "Jimenez nach Quinones-Steckpass mit Rakete ins Torwinkel - 40-Jahre-KO-Fluch gebrochen."
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Mexico fuehrte 2:0 ab 31. Min bis zum Ende - waere 2:0-Insurance-Trigger falls ECU noch gedreht haette. Endstand 2:0 sauber ohne 2. HZ-Tore. Rekord: Mexico erster K.O.-Sieg seit 40 Jahren."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_0_5": true,
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "unter_2_5": true,
+          "unter_3_5": true,
+          "halbzeit_endstand": "Heim/Heim",
+          "kein_team_zu_null": false
+        },
+        "auffaellige_patterns": [
+          "K.O.-Premieren-Defensive-Pattern (Lesson 06.29) klar bestaetigt: Nur 2 Tore, HZ 2:0 dann Zerstoerung im 2. HZ. Unter 2.5 + BTTS-NEIN + Sieg alle drei durch.",
+          "Azteca-Hoehe-These bestaetigt: kein Ecuador-Tor trotz 45+min Ballbesitz nach HZ. Kontaktscheu wie CLAUDE.md-WM-Sonderregel vorhersagte.",
+          "Mexico durchbrach 40-Jahre-Knockout-Sieg-Fluch (letzter K.O.-Sieg 1986). Heimboden-Edge Azteca ausschlaggebend."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "et-1",
+      "spiel_id": "2026-06-30-fra-swe",
+      "kategorie": "value",
+      "markt": "Frankreich Sieg (90min)",
+      "quote": 1.25,
+      "einsatz_euro": 9,
+      "begruendung": "Frankreich-Crushing-Favorit (1.25 / -400 ML) + Hien-Tournament-Out schwaecht Sweden-Defense + Sturm-Quartett Mbappe/Olise/Dembele/Barcola. Kategorie VALUE statt SAFE wegen Lesson 06.30 K.O.-R32-Klassen-Edge-Sieg unzuverlaessig (GER 1.36 + NED 2.15 gestern beide per Elfm raus). Einsatz 9€ (1.6% Kasse 550€).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 1
+    },
+    {
+      "id": "et-2",
+      "spiel_id": "2026-06-30-mex-ecu",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.8,
+      "einsatz_euro": 9,
+      "begruendung": "Goldgrube +27.5% ROI / 66.7% Hitrate. Mexico 0 GA + Ecuador 2 GA Group-Stage + Azteca-Hoehe 2240m senkt Tempo + K.O.-Premieren-Defensive-Pattern. Einsatz 9€ (1.6% Kasse).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 2
+    },
+    {
+      "id": "et-3",
+      "spiel_id": "2026-06-30-fra-swe",
+      "kategorie": "value",
+      "markt": "Mbappe trifft (Jederzeit)",
+      "quote": 1.6,
+      "einsatz_euro": 7,
+      "begruendung": "Mbappe 4 Tore in 3 Spielen + Goldgrube 'Torschuetzen Jederzeit' +24.4% ROI. Sweden-Defense ohne Hien deutlich schwaecher. Einsatz 7€ (1.3% Kasse).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 3
+    },
+    {
+      "id": "et-4",
+      "spiel_id": "2026-06-30-civ-nor",
+      "kategorie": "value",
+      "markt": "Haaland trifft (Jederzeit)",
+      "quote": 1.65,
+      "einsatz_euro": 7,
+      "begruendung": "Haaland 4 Tore in 2 Spielen, MD3 komplett geschont = ausgeruht. Goldgrube +24.4% ROI / 50%. Kategorie VALUE wegen WM-R32-Torschuetzen-WACKEL-Cluster-Lesson 06.30. Einsatz 7€ (1.3% Kasse).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 4
+    },
+    {
+      "id": "et-5",
+      "spiel_id": "2026-06-30-fra-swe",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.6,
+      "einsatz_euro": 7,
+      "begruendung": "Goldgrube +26.7% ROI / 61.1% Hitrate. Frankreich-Group-Stage-Schnitt > 3 Tore/Spiel + Sweden offensiv (Isak+Gyokeres) + Hien-Defense-Ausfall. Einsatz 7€ (1.3% Kasse).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 5
+    },
+    {
+      "id": "et-6",
+      "spiel_id": "2026-06-30-civ-nor",
+      "kategorie": "value",
+      "markt": "Norwegen Doppelte Chance 1X",
+      "quote": 1.45,
+      "einsatz_euro": 7,
+      "begruendung": "Goldgrube 'Doppelte Chance 1X' +9.5% ROI / 84.6% Hitrate. Haaland-Frische-Joker + Tournament-Tiefe gegen Pepe-One-Man-Show. WM-Liga-Goldgrube-Fehlen + Klassen-Edge-K.O.-Lesson erzwingt VALUE statt SAFE. Einsatz 7€ (1.3% Kasse).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 6
+    },
+    {
+      "id": "et-7",
+      "spiel_id": "2026-06-30-mex-ecu",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen NEIN",
+      "quote": 1.65,
+      "einsatz_euro": 7,
+      "begruendung": "Goldgrube 'BTTS-NEIN' Naehe + Mexico 0 GA + Ecuador 2 GA + Azteca-Hoehe + K.O.-Premieren-Pattern. Passt zu Unter-2.5-These. Einsatz 7€ (1.3% Kasse).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 7
+    },
+    {
+      "id": "et-8",
+      "spiel_id": "2026-06-30-fra-swe",
+      "kategorie": "wackel",
+      "markt": "Dembele trifft (Jederzeit)",
+      "quote": 2.0,
+      "einsatz_euro": 2.75,
+      "begruendung": "Dembele 4 Tore Group-Stage inkl. Brace vs NOR. Backup-Form-Tipp neben Mbappe gegen geschwaechte Sweden-Defense. Einsatz 2.75€ (0.5% Kasse).",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 8
+    },
+    {
+      "id": "et-9",
+      "spiel_id": "2026-06-30-mex-ecu",
+      "kategorie": "wackel",
+      "markt": "Mexiko Sieg (90min)",
+      "quote": 2.2,
+      "einsatz_euro": 2.75,
+      "begruendung": "Heim-Edge Azteca + moderates Klassen-Edge. WACKEL wegen COINFLIP-Naehe + K.O.-R32-Klassen-Edge-Sieg-Lesson + 6-Tage-Pause-Rhythmus-Risiko. Einsatz 2.75€ (0.5% Kasse).",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 9
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-safe",
+      "name": "Safe-Kombi ~3.7x",
+      "kategorie": "safe",
+      "gesamtquote": 3.71,
+      "einsatz_euro": 11,
+      "beine": [
+        {
+          "spiel_id": "2026-06-30-fra-swe",
+          "markt": "Frankreich Sieg (90min)",
+          "quote": 1.25
+        },
+        {
+          "spiel_id": "2026-06-30-civ-nor",
+          "markt": "Haaland trifft (Jederzeit)",
+          "quote": 1.65
+        },
+        {
+          "spiel_id": "2026-06-30-mex-ecu",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.8
+        }
+      ],
+      "begruendung": "3 Kern-Theses je Spiel: FRA-Sturm-Klassen-Edge vs Hien-loses Schweden + Haaland-Form-Rueckkehr nach MD3-Schonung + MEX-ECU-Azteca-Defensive-Lock. Layer-1 OK (1 Bein/Spiel). Gesamtquote 3.71x = oberes Ende Safe-Range. Einsatz 11€ (2% Kasse 550€). Single-Point-Risiko: Frankreich-Elfm-Wahnsinn ala GER/NED gestern.",
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "kombi-balance",
+      "name": "Balance-Kombi ~7.4x",
+      "kategorie": "balance",
+      "gesamtquote": 7.39,
+      "einsatz_euro": 4.4,
+      "beine": [
+        {
+          "spiel_id": "2026-06-30-fra-swe",
+          "markt": "Mbappe trifft (Jederzeit)",
+          "quote": 1.6
+        },
+        {
+          "spiel_id": "2026-06-30-civ-nor",
+          "markt": "Norwegen Sieg (90min)",
+          "quote": 2.1
+        },
+        {
+          "spiel_id": "2026-06-30-mex-ecu",
+          "markt": "Mexiko Sieg (90min)",
+          "quote": 2.2
+        }
+      ],
+      "begruendung": "Markt-Diversifikation gegenueber Safe-Kombi (Layer-2-Konformitaet: FRA-Sieg-Outcome NUR in Safe, NOR-Sieg-Outcome NUR hier, MEX-Sieg-Outcome NUR hier). Goldgrube-Markt Mbappe-Torschuetze + 2x Sieg-Tipps der leichten Favoriten. Einsatz 4.40€ (0.8% Kasse). Markt-Mix-Bilanz: 1 Torschuetze + 2 Sieg-Tipps, kein DC.",
+      "empfohlener_einsatz_prozent": 0.5
+    },
+    {
+      "id": "kombi-risiko",
+      "name": "Risiko-Kombi ~16x",
+      "kategorie": "risk",
+      "gesamtquote": 16.1,
+      "einsatz_euro": 1.4,
+      "beine": [
+        {
+          "spiel_id": "2026-06-30-fra-swe",
+          "markt": "Ueber 3.5 Tore",
+          "quote": 2.3
+        },
+        {
+          "spiel_id": "2026-06-30-civ-nor",
+          "markt": "Beide Teams treffen JA",
+          "quote": 2.0
+        },
+        {
+          "spiel_id": "2026-06-30-mex-ecu",
+          "markt": "Raul Jimenez trifft (Jederzeit)",
+          "quote": 3.5
+        }
+      ],
+      "begruendung": "Anti-Korrelation zur Safe-Kombi (Markt-Layer-2). FRA-Torfest-Risiko + CIV-NOR-Tore-trotz-Defense-These (Pepe+Haaland beide form) + Jimenez-Form-Verlaengerung (1 Tor schon im Turnier, Stamm-9er). Keine Sieg-Outcomes ueberlapp mit Safe/Balance. Einsatz 1.40€ (0.25% Kasse).",
+      "empfohlener_einsatz_prozent": 0.25
+    },
+    {
+      "id": "kombi-moonshot",
+      "name": "Moonshot-Kombi ~289x",
+      "kategorie": "moonshot",
+      "gesamtquote": 7.0,
+      "einsatz_euro": 0.55,
+      "beine": [
+        {
+          "spiel_id": "2026-06-30-civ-nor",
+          "markt": "Yan Diomande trifft (Jederzeit)",
+          "quote": 7.0
+        }
+      ],
+      "begruendung": "Lotterie. Y.Diomande (19, RB-Leipzig-Talent) als Aussenbahn-Stecher + Schweden-Schock-Sieg ala GER/NED gestern (K.O.-R32-Favoriten-Verlust-Lesson koennte heute weiter sein) + Ecuador-Underdog-Confidence nach GER-Schock-Sieg. Sieg-Outcomes Sweden+Ecuador NUR in Moonshot (Layer-2). Einsatz 0.55€ (0.1% Kasse). Spaß-Tipp.",
+      "empfohlener_einsatz_prozent": 0.1,
+      "rechnung": "7.00 = 7.0"
+    }
+  ],
+  "lessons_angewandt": [
+    {
+      "lesson_id": "lesson-2026-06-30-r32-klassen-edge-vorsicht",
+      "titel": "K.O.-R32-Klassen-Edge-Sieg-Tipps eine Stufe runter (gestern GER+NED per Elfm raus)",
+      "quelle": "Lesson 06.30 (data/lessons.json) - GER 1.36-Sieg + NED 2.15-Sieg gestern beide per Elfmeterschiessen raus",
+      "anwendung": "Frankreich-Sieg trotz Quote 1.25 NICHT SAFE sondern VALUE. Norwegen-DC und Mexiko-Sieg ebenfalls eine Kategorie konservativer."
+    },
+    {
+      "lesson_id": "lesson-2026-06-29-ko-premieren-defensive",
+      "titel": "K.O.-Premiere-Beide-Teams = Defensive-Lock-up + spaetes Tor",
+      "quelle": "Lesson 06.29 RSA-CAN 0:1 in 90+2 (Eustaquio) - bei BEIDE-Teams-erstmals-K.O. blocked Mittelfeld-Doppel-Sechs den Tor-Aufbau",
+      "anwendung": "Heute alle 3 Spiele K.O.-Premiere fuer mindestens 1 Team. Unter 2.5/3.5-Tipps + BTTS-NEIN priorisiert. Markt-Goldgrube +27.5%."
+    },
+    {
+      "lesson_id": "lesson-2026-06-27-late-goal-cluster",
+      "titel": "Late-Goal-Cluster: 9 WM-Spiele in Folge mit Tor >=85.Min (laufend)",
+      "quelle": "Lesson 06.27 + 06.29 + 06.30 - Martinelli 90+5 + Diop 90+1 gestern, Eustaquio 90+2 vorgestern",
+      "anwendung": "Bei sehr defensiven Spielen (Mexico-Ecuador) trotzdem Tor-Risiko in 85+ ueberlegen - Sieg-Tipps koennen via Late-Goal kippen. Unter-Limits eher 3.5 als 2.5 wenn unsicher."
+    },
+    {
+      "lesson_id": "lesson-2026-06-30-torschuetzen-r32-wackel-cap",
+      "titel": "WM-R32 Torschuetzen-WACKEL-Cluster verlor 3/4 - max VALUE statt SAFE",
+      "quelle": "Lesson 06.30 (auto-erkannter Verlust-Cluster R32) - 4 WACKEL-Torschuetzen-Tipps, 3 verloren",
+      "anwendung": "Haaland/Mbappe/Dembele alle VALUE (nicht SAFE) trotz Form-Edge. Backup-Stuermer-Tipps (Jimenez, Y.Diomande) im Risiko/Moonshot statt im Einzel-Hauptbereich."
+    },
+    {
+      "lesson_id": "lesson-2026-06-28-einwechslungs-boost",
+      "titel": "bet365-Einwechslungs-Boost zaehlt bei Torschuetzen-Tipps",
+      "quelle": "CLAUDE.md + Lesson 06.28 (Vlasic fuer Kramaric / Martinelli fuer Cunha)",
+      "anwendung": "Mbappe/Haaland-Torschuetzen-Tipps haben implizit Backup-Versicherung: wenn Mbappe gegen Ende fuer Olise raus + Olise trifft, zaehlt fuer Mbappe-Tipp. Erhoeht reale Hitrate."
+    },
+    {
+      "lesson_id": "lesson-2026-06-30-kasse-stufe-1",
+      "titel": "Kasse 550€ = Stufe 1, Einsaetze konservativ",
+      "quelle": "data/kasse.json - Stufe 1 (< 1000€) Einzel 1-2% / WACKEL 0.5% / Kombi-Skala 2-0.1%",
+      "anwendung": "Einzel SAFE/VALUE = 7-9€. WACKEL = 2.75€. Safe-Kombi 11€. Balance 4.40€. Risiko 1.40€. Moonshot 0.55€."
+    }
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "einzeltipps_ergebnis": [
+    {
+      "id": "et-1",
+      "spiel_id": "2026-06-30-fra-swe",
+      "kategorie": "value",
+      "markt": "Frankreich Sieg (90min)",
+      "quote": 1.25,
+      "einsatz_euro": 9,
+      "begruendung": "Frankreich-Crushing-Favorit (1.25 / -400 ML) + Hien-Tournament-Out schwaecht Sweden-Defense + Sturm-Quartett Mbappe/Olise/Dembele/Barcola. Kategorie VALUE statt SAFE wegen Lesson 06.30 K.O.-R32-Klassen-Edge-Sieg unzuverlaessig (GER 1.36 + NED 2.15 gestern beide per Elfm raus). Einsatz 9€ (1.6% Kasse 550€).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 1,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.25,
+      "kommentar": "Frankreich Sieg: FRA 3:0 SWE gewonnen. Klassen-Edge trotz Lesson 06.30-Warnung sauber durchgezogen (kein Elfm-Wahnsinn wie GER/NED).",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-2",
+      "spiel_id": "2026-06-30-mex-ecu",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.8,
+      "einsatz_euro": 9,
+      "begruendung": "Goldgrube +27.5% ROI / 66.7% Hitrate. Mexico 0 GA + Ecuador 2 GA Group-Stage + Azteca-Hoehe 2240m senkt Tempo + K.O.-Premieren-Defensive-Pattern. Einsatz 9€ (1.6% Kasse).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 2,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.8,
+      "kommentar": "Unter 2.5 Tore: Endstand 2:0 = 2 Tore < 2.5. Sauber gewonnen.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-3",
+      "spiel_id": "2026-06-30-fra-swe",
+      "kategorie": "value",
+      "markt": "Mbappe trifft (Jederzeit)",
+      "quote": 1.6,
+      "einsatz_euro": 7,
+      "begruendung": "Mbappe 4 Tore in 3 Spielen + Goldgrube 'Torschuetzen Jederzeit' +24.4% ROI. Sweden-Defense ohne Hien deutlich schwaecher. Einsatz 7€ (1.3% Kasse).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 3,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.6,
+      "kommentar": "Mbappe Doppelpack (45. + 74. Min) - Torschuetzen-Tipp Jederzeit sauber gewonnen. Nun 6 Turnier-Tore, Level mit Messi.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-4",
+      "spiel_id": "2026-06-30-civ-nor",
+      "kategorie": "value",
+      "markt": "Haaland trifft (Jederzeit)",
+      "quote": 1.65,
+      "einsatz_euro": 7,
+      "begruendung": "Haaland 4 Tore in 2 Spielen, MD3 komplett geschont = ausgeruht. Goldgrube +24.4% ROI / 50%. Kategorie VALUE wegen WM-R32-Torschuetzen-WACKEL-Cluster-Lesson 06.30. Einsatz 7€ (1.3% Kasse).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 4,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.65,
+      "kommentar": "Haaland trifft in der 86. Min (Late-Winner) - Torschuetzen-Tipp sauber gewonnen. Goldgrube-Markt Torschuetzen Jederzeit.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-5",
+      "spiel_id": "2026-06-30-fra-swe",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.6,
+      "einsatz_euro": 7,
+      "begruendung": "Goldgrube +26.7% ROI / 61.1% Hitrate. Frankreich-Group-Stage-Schnitt > 3 Tore/Spiel + Sweden offensiv (Isak+Gyokeres) + Hien-Defense-Ausfall. Einsatz 7€ (1.3% Kasse).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 5,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.6,
+      "kommentar": "Ueber 2.5 Tore: Endstand 3:0 = 3 Tore > 2.5. Sauber gewonnen.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-6",
+      "spiel_id": "2026-06-30-civ-nor",
+      "kategorie": "value",
+      "markt": "Norwegen Doppelte Chance 1X",
+      "quote": 1.45,
+      "einsatz_euro": 7,
+      "begruendung": "Goldgrube 'Doppelte Chance 1X' +9.5% ROI / 84.6% Hitrate. Haaland-Frische-Joker + Tournament-Tiefe gegen Pepe-One-Man-Show. WM-Liga-Goldgrube-Fehlen + Klassen-Edge-K.O.-Lesson erzwingt VALUE statt SAFE. Einsatz 7€ (1.3% Kasse).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 6,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.45,
+      "kommentar": "Doppelte Chance (Gast): Endstand 1:2 - Team gewinnt oder Remis. Tipp gewonnen. Goldgrube-Markt.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-7",
+      "spiel_id": "2026-06-30-mex-ecu",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen NEIN",
+      "quote": 1.65,
+      "einsatz_euro": 7,
+      "begruendung": "Goldgrube 'BTTS-NEIN' Naehe + Mexico 0 GA + Ecuador 2 GA + Azteca-Hoehe + K.O.-Premieren-Pattern. Passt zu Unter-2.5-These. Einsatz 7€ (1.3% Kasse).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 7,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.65,
+      "kommentar": "BTTS-NEIN: Endstand 2:0 - Gast 0 Tore. Tipp sauber durch.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-8",
+      "spiel_id": "2026-06-30-fra-swe",
+      "kategorie": "wackel",
+      "markt": "Dembele trifft (Jederzeit)",
+      "quote": 2.0,
+      "einsatz_euro": 2.75,
+      "begruendung": "Dembele 4 Tore Group-Stage inkl. Brace vs NOR. Backup-Form-Tipp neben Mbappe gegen geschwaechte Sweden-Defense. Einsatz 2.75€ (0.5% Kasse).",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 8,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Dembele traf nicht + wurde 75. Min fuer Doue ausgewechselt, Doue traf nicht (Endstand-Tore 45'/53'/74' alle vor Auswechslung). Kein Einwechslungs-Boost-Trigger. Backup-Torschuetzen-Tipp Fehl.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-9",
+      "spiel_id": "2026-06-30-mex-ecu",
+      "kategorie": "wackel",
+      "markt": "Mexiko Sieg (90min)",
+      "quote": 2.2,
+      "einsatz_euro": 2.75,
+      "begruendung": "Heim-Edge Azteca + moderates Klassen-Edge. WACKEL wegen COINFLIP-Naehe + K.O.-R32-Klassen-Edge-Sieg-Lesson + 6-Tage-Pause-Rhythmus-Risiko. Einsatz 2.75€ (0.5% Kasse).",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 9,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.2,
+      "kommentar": "Mexiko Sieg: MEX 2:0 ECU gewonnen (HZ 2:0). Heim-Edge Azteca + Coinflip-Naehe zerstreut, 40-Jahre-KO-Fluch gebrochen.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "kombi-safe",
+      "status": "gewonnen",
+      "gesamtquote": 3.71,
+      "gewinn_faktor": 2.71,
+      "beine_status": [
+        "gewonnen",
+        "gewonnen",
+        "gewonnen"
+      ],
+      "kommentar": "Beine: Frankreich Sieg (90min)=gewonnen | Haaland trifft (Jederzeit)=gewonnen | Unter 2.5 Tore=gewonnen"
+    },
+    {
+      "kombi_id": "kombi-balance",
+      "status": "gewonnen",
+      "gesamtquote": 7.39,
+      "gewinn_faktor": 6.39,
+      "beine_status": [
+        "gewonnen",
+        "gewonnen",
+        "gewonnen"
+      ],
+      "kommentar": "Beine: Mbappe trifft (Jederzeit)=gewonnen | Norwegen Sieg (90min)=gewonnen | Mexiko Sieg (90min)=gewonnen"
+    },
+    {
+      "kombi_id": "kombi-risiko",
+      "status": "verloren",
+      "gesamtquote": 16.1,
+      "gewinn_faktor": -1.0,
+      "beine_status": [
+        "verloren",
+        "gewonnen",
+        "gewonnen"
+      ],
+      "kommentar": "Beine: Ueber 3.5 Tore=verloren | Beide Teams treffen JA=gewonnen | Raul Jimenez trifft (Jederzeit)=gewonnen"
+    },
+    {
+      "kombi_id": "kombi-moonshot",
+      "status": "verloren",
+      "gesamtquote": 7.0,
+      "gewinn_faktor": -1.0,
+      "beine_status": [
+        "verloren"
+      ],
+      "kommentar": "Beine: Yan Diomande trifft (Jederzeit)=verloren"
+    }
+  ],
+  "ausgewertet_am": "2026-07-01T07:07:44+00:00"
+}

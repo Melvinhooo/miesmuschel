@@ -1673,6 +1673,52 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "Einwechslungs-Boost-Trigger ohne Tipp HIT - Cunha/Martinelli 90+5 (8i volle_analyse)",
       "lesson": "Aus volle_analyse BRA-JPN: Martinelli (Sub fuer Cunha @72') erzielte 90+5 das Sieg-Tor. Bei einem Cunha-Torschuetzen-Tipp (nicht gespielt heute) waere via bet365-Einwechslungs-Boost als gewonnen ausgezahlt worden. Im Gegensatz: Vinicius (Volume-Star getippt, Quote 2.5) blieb auf dem Platz und Vinicius-Tipp LOST trotz hoher Schuss-Volumens. PATTERN: Bei Top-Mannschaften mit klarem Backup-9er-Volume (Cunha/Endrick/Martinelli bei Brasilien, Undav/Woltemade bei GER, Brobbey/Weghorst bei NED) ist der Boost-Hebel via 9er-Tipp (Backup-Stammspieler) wertvoller als via Star-Volume-Tipp (Vinicius). Backup-9er hat hohe Auswechslungs-Wahrscheinlichkeit + Star-Volume-Replacement-Wahrscheinlichkeit = doppelte Boost-Chance. KONSEQUENZ: Pflicht-Backup-9er-Scan bei WM-Stammspieler-Volume-Edge. Aktiv Cunha bzw aktuelle Boost-Trigger-Hits dokumentieren (heute Martinelli-Joker passend zu Lesson 24.06. Dzeko-Mahmic). Backup-Identitaet-Pool fuer R16: BRA = Cunha/Endrick/Martinelli, MAR = Saibari/Brahim, ARG = Lautaro/Alvarez/Julian.",
       "bezug_spiel_id": "2026-06-29-bra-jpn"
+    },
+    {
+      "datum": "2026-07-01",
+      "kategorie": "Klassen-Edge-Sieg R32 stabil - Overreaction-Revision (8b/8e Kategorie-Reality)",
+      "bezug_spiel_id": [
+        "2026-06-30-fra-swe",
+        "2026-06-30-civ-nor",
+        "2026-06-30-mex-ecu"
+      ],
+      "lesson": "REVISION Lesson 06.30 (Klassen-Edge-Vorsicht nach GER+NED-Doppel-Elfm-Ausschied): am 30.06. wurden alle 3 Sieg-Tipps trotz sauberer Quoten auf VALUE statt SAFE gedowngradet (FRA 1.25 -> wackel/value, NOR-DC 1.45 -> value, MEX 2.20 -> wackel). Endstand: FRA 3:0 SWE (Mbappe-Brace + Barcola), NOR 2:1 CIV (Haaland-Late-Winner 86.), MEX 2:0 ECU (HZ 2:0). ALLE DREI sauber durchgezogen, kein einziger Elfmeter-Wahnsinn wie GER/NED tags zuvor. Einsatz-Prozent bewusst gedeckelt (Safe-Kombi 11€ statt Safe-Einzel-je-30€) - 2% Rendite-Deckelung durch Overreaction. Anpassung: Ein-Tag-Cluster (nur 2 Datenpunkte) reicht NICHT fuer Kategorie-Downgrade der Klassen-Edge-Tipps. Erst bei 2+ Tage aufeinanderfolgende Favoriten-Busts Vorsicht aktivieren. Naechster K.O.-Tag mit Klarem Klassen-Edge (Achtelfinale ab 04.07.) wieder SAFE-Klassifikation zulassen wenn Quote <=1.35 + Recovery + kein Star-Ausfall.",
+      "wirkung": "Bei naechsten Achtelfinale-Tipps: SAFE-Klassifikation fuer Sieg-Tipps mit Quote <=1.35 + saubere saison_kontext-Voraussetzungen wieder erlauben.",
+      "handlungsanweisung": "In Routine Klassen-Edge-Downgrade-Regel: braucht 2+ aufeinanderfolgende K.O.-Tage mit Favoriten-Bust, nicht 1-Tag-Panik."
+    },
+    {
+      "datum": "2026-07-01",
+      "kategorie": "WM-K.O.-R32 Tor-Schnitt niedrig - Unter 3.5 sichere Basis (8g volle_analyse Markt-Pattern)",
+      "bezug_spiel_id": [
+        "2026-06-30-fra-swe",
+        "2026-06-30-civ-nor",
+        "2026-06-30-mex-ecu"
+      ],
+      "lesson": "Aus volle_analyse aller 3 R32-Spiele heute: 3:0 FRA-SWE + 1:2 CIV-NOR + 2:0 MEX-ECU = 8 Tore, Schnitt 2.67 T/Spiel. Alle drei Unter 3.5 Tore. Nur 1/3 Ueber 2.5 (Fra-Swe + CIV-NOR mit je 3, Mex-Ecu nur 2). Ueber 4 R32-Tage aggregiert sammelte sich niedriger Tor-Schnitt als in Group-Stage. Risiko-Kombi verlor heute genau wegen Ueber 3.5 FRA-SWE-Bein (3 Tore = knapp unter Limit). Auto-Markt-Goldgruben-Datenlage bestaetigt: Unter 2.5 Tore weiterhin +27.5% ROI / 66.7% Hitrate, im K.O. sogar solider Sicherheits-Tipp. Anpassung: Ueber-3.5-Beine in Risiko/Balance-Kombis fuer WM-K.O. rausnehmen. Basis-Ueber-Tipp im K.O. maximal Ueber 2.5 (nicht Ueber 3.5), Unter 3.5 als default-safe-Value in Achtelfinale-Kombis empfohlen.",
+      "wirkung": "Naechster Achtelfinale-Tag: Ueber 3.5 nur bei klar offensivem Duo (z.B. Frankreich vs England), sonst Ueber 2.5 / Unter 3.5 als Standard-Tor-Markt.",
+      "handlungsanweisung": "In naechsten Tipps-Routine Kombi-Bein-Selektion: Ueber 3.5 aus Risiko-Kombi entfernen bei WM-K.O. bis Statistik andere Richtung zeigt."
+    },
+    {
+      "datum": "2026-07-01",
+      "kategorie": "Einwechslungs-Boost braucht Ersatz-Tor - nicht impliziter Schutz (8i volle_analyse)",
+      "bezug_spiel_id": [
+        "2026-06-30-fra-swe"
+      ],
+      "lesson": "Aus volle_analyse FRA-SWE: Dembele-Torschuetzen-Tipp (Quote 2.0, wackel) VERLOREN obwohl bet365-Einwechslungs-Boost-Trigger vorhanden. Dembele in 75. Min ausgewechselt fuer Desire Doue (regulaerer Backup-Fluegel). ABER: alle 3 FRA-Tore fielen bereits VOR Auswechslung (Mbappe 45' + Barcola 53' + Mbappe 74'). Doue traf nicht in 15+ verbleibenden Minuten. Kein Boost-Ausloesen. Kontrast zu Lesson 06.28 (Vlasic fuer Kramaric getroffen = Boost aktiviert). Anpassung: In lessons_angewandt Feld 'Einwechslungs-Boost implizite Backup-Versicherung' nicht mehr als bonus-Argument fuer Torschuetzen-Tipps zaehlen - reine mechanische Regel, Ersatz muss selbst treffen. Volume-Stuermer-Tipps ohne belegbaren Ersatz-Torhang trotzdem als WACKEL klassifizieren, nicht via Boost auf VALUE hochstufen.",
+      "wirkung": "In naechsten Torschuetzen-Tipps: Boost-Argument nur als Zusatz-Bonus (nicht Kategorie-Booster) - jeder Torschuetzen-Tipp muss auf eigenen Fuessen stehen.",
+      "handlungsanweisung": "Routine: Boost-Erwartung nur belegen wenn Backup-Stuermer BEIDE (a) im Kader UND (b) Torschuss-Historie >=1 Tor in letzten 3 Spielen zeigt. Sonst Boost-Argument streichen."
+    },
+    {
+      "datum": "2026-07-01",
+      "kategorie": "Kombi-Safe+Balance K.O.-Sieg-Beine +57.93€ Netto Grand-Slam (8b Kategorie-Reality positive)",
+      "bezug_spiel_id": [
+        "2026-06-30-fra-swe",
+        "2026-06-30-civ-nor",
+        "2026-06-30-mex-ecu"
+      ],
+      "lesson": "Kombi-Bilanz 30.06.: Safe (11€ auf 3.71x = FRA-Sieg 1.25 + Haaland-trifft 1.65 + Unter 2.5 Mex-Ecu 1.8) durch = +29.81€ Netto. Balance (4.40€ auf 7.39x = Mbappe-trifft 1.6 + NOR-Sieg 2.10 + MEX-Sieg 2.20) durch = +28.12€ Netto. Gesamt-Kombi-Netto +57.93€ aus 15.40€ Einsatz = 376% Return. Groesster Kombi-Tag der Woche (vs. gestern Safe+Balance beide raus wegen GER/NED). Kern-Pattern: 3 unabhaengige K.O.-Sieg-Beine aus verschiedenen Spielen (Layer-1 + Layer-2 sauber) mit Klassen-Edge auf allen 3 Seiten zahlt sich aus, WENN alle 3 Favoriten den Sieg durchsetzen (was heute im Ggs. zu gestern der Fall war). Anpassung: Kombi-Safe-Einsatz auf 2% Kasse (11€ bei 550€) beibehalten - nicht wg. 1-Tag-Overreaction senken. Risiko-Kombi-Ueber-3.5-Bein hingegen entfernen (siehe Lesson 8g).",
+      "wirkung": "Kombi-Safe 2%-Einsatz bleibt Standard, nicht auf 1% senken trotz Verlust-Tage im Cluster.",
+      "handlungsanweisung": "Bei Kombi-Safe-Bein-Selektion: 3 Kern-These je Spiel (Sieg/Torschuetze/Unter) mit Layer-1 + Layer-2 - so weiterfahren."
     }
   ]
 };
