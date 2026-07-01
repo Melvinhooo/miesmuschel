@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS = {
+{
   "datum": "2026-07-01",
   "erstellt_am": "2026-07-01T17:15:00+02:00",
   "hinweis": "Watchdog-Recovery 17:15 - Hauptroutine 16:00 ist nicht durchgelaufen. WM 2026 Round-of-32 finaler Mittwoch: 3 Spiele (ENG-COD 18:00, BEL-SEN 22:00, USA-BIH 02:00). NBA-Finals sind vorbei (Knicks 4-1). Vereins-Fussball Saison-Pause bis August. Kasse-Stufe 1 (550€). Lesson 06.30 Klassen-Edge-Sieg-Schock-Cluster (GER+NED Doppel-iE-out) erzwingt Kategorie-Downgrade auf allen Sieg-Tipps. Gestern 8/9 Einzeltipps HITS - kein Anlass ins Extreme zu drehen.",
@@ -507,4 +506,4 @@ window.__MIESMUSCHEL_TIPPS = {
     }
   ],
   "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
-};
+}
