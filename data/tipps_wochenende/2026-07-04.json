@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
+{
   "datum": "2026-07-04",
   "erstellt_am": "2026-07-02T18:00:00+02:00",
   "hinweis": "Wochenend-Vorschau Sa 04.07. bis So 05.07.2026 - WM 2026 Achtelfinale (Round of 16): 4 K.O.-Spiele. Sa 04.07.: Kanada-Marokko (19:00 Houston), Frankreich-Paraguay (23:00 Philadelphia). So 05.07.: Brasilien-Norwegen (22:00 New York/NJ), Mexiko-England (Mo 06.07. 02:00 Mexiko-Stadt Estadio Azteca 2.240m Hoehe). Vereins-Fussball Sommer-Pause bis August, NBA-Finals seit 13.06. durch (Knicks 4-1). WM 2026 R32-Sensationen: Deutschland raus (PSO 3-4 vs Paraguay), Niederlande raus (PSO gegen Marokko). 2:0-Insurance gilt fuer WM (FIFA-Aktionsregel laut CLAUDE.md). Liga-Goldgrube-Liste enthaelt WM-R16 NICHT -> Mapper-Hebel C degraded SAFE-DC/SAFE auf VALUE, daher heute kein SAFE. Kasse Stufe 1 (550EUR) - konservative Einsaetze. Goldgrube-Maerkte aktiv gesucht: Ueber/Unter 2.5 (+34.2/+22.6% ROI), Torschuetzen Jederzeit (+24.4% ROI, n=14).",
@@ -716,4 +715,4 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
     "Bellingham-Karten-Vorsicht (R32 gelb): bei zweiter gelber = QF-Sperre -> reduziert England-Kontrolle -> zusaetzliche Grundlage fuer Unter 2.5 MEX-ENG + Kane WACKEL statt VALUE."
   ],
   "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
-};
+}
