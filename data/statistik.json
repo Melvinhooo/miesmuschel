@@ -1,5 +1,5 @@
 {
-  "letzte_berechnung": "2026-07-01T07:10:26+00:00",
+  "letzte_berechnung": "2026-07-02T07:14:31+00:00",
   "gesamt": {
     "tipps": 474,
     "gewonnen": 266,
@@ -5296,6 +5296,131 @@
     }
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-07-01",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "Safe-Kombi ~3.6x",
+          "kategorie": "safe",
+          "gesamtquote": 3.58,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "England Sieg (90min)",
+              "quote": 1.27,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Belgien Doppelte Chance 1X",
+              "quote": 1.28,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Balogun trifft (Jederzeit)",
+              "quote": 2.2,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi ~7.9x",
+          "kategorie": "balance",
+          "gesamtquote": 7.94,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.65,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Trossard trifft (Jederzeit)",
+              "quote": 2.75,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi ~15.5x",
+          "kategorie": "risk",
+          "gesamtquote": 15.49,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Bellingham trifft (Jederzeit)",
+              "quote": 2.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Doku trifft (Jederzeit)",
+              "quote": 3.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Pulisic trifft (Jederzeit)",
+              "quote": 2.2,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi ~90x",
+          "kategorie": "moonshot",
+          "gesamtquote": 90.0,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Wissa trifft (Jederzeit)",
+              "quote": 5.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Mane trifft (Jederzeit)",
+              "quote": 4.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Dzeko trifft (Jederzeit)",
+              "quote": 4.5,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-06-30",
       "gesamt": {

@@ -1,0 +1,1221 @@
+{
+  "datum": "2026-07-01",
+  "erstellt_am": "2026-07-01T17:15:00+02:00",
+  "hinweis": "Watchdog-Recovery 17:15 - Hauptroutine 16:00 ist nicht durchgelaufen. WM 2026 Round-of-32 finaler Mittwoch: 3 Spiele (ENG-COD 18:00, BEL-SEN 22:00, USA-BIH 02:00). NBA-Finals sind vorbei (Knicks 4-1). Vereins-Fussball Saison-Pause bis August. Kasse-Stufe 1 (550€). Lesson 06.30 Klassen-Edge-Sieg-Schock-Cluster (GER+NED Doppel-iE-out) erzwingt Kategorie-Downgrade auf allen Sieg-Tipps. Gestern 8/9 Einzeltipps HITS - kein Anlass ins Extreme zu drehen.",
+  "spiele": [
+    {
+      "id": "2026-07-01-eng-cod",
+      "liga": "FIFA WM 2026 - Round of 32",
+      "heim": "England",
+      "gast": "DR Kongo",
+      "anstoss": "2026-07-01T18:00:00+02:00",
+      "stadion": "Mercedes-Benz Stadium, Atlanta",
+      "saison_kontext": {
+        "parallel_heim": "keine - Nationalmannschaft, WM-Vollfokus",
+        "parallel_gast": "keine - Nationalmannschaft, WM-Vollfokus",
+        "saisonziel_heim": "WM-2026-Titel-Anwaerter (Vize 2020 Euro, HF 2018 WM). Gruppe-L-1. mit 7 Pkt + Plus-4-Torverhaeltnis (Sieg vs Panama, Sieg vs Kroatien, X vs Serbien). Kane 3 Tore, Bellingham traf gegen Kroatien+Panama.",
+        "saisonziel_gast": "WM-2026-erster-K.O.-Auftritt der Verbands-Geschichte (nie zuvor R16 erreicht). Gruppe-K-3. mit 4 Pkt (best-3rd). 4 Tore Group-Stage, 3 davon Wissa (Brentford).",
+        "motivations_asymmetrie": "England Crushing-Favorit (1.27 Sieg = -370 ML) mit voller Elf + Rice-Rueckkehr nach Sperre. Kongo historisches Novum-Achtelfinale = Underdog-Confidence + nichts zu verlieren. Klassen-Edge klar, ABER Lesson 06.30 (GER 1.36 + NED 2.15 gestern beide per Elfm-out) erzwingt Kategorie-Downgrade auf Sieg-Tipps in K.O.-R32.",
+        "recovery_heim": "5 Tage seit MD3 (26.06.) - Rice nach Sperre zurueck, Reece James (Hamstring) + Quansah (Knoechel) OUT aber Defense-Alternativen (Spence/Konsa/Guehi/O'Reilly) intakt",
+        "recovery_gast": "5 Tage seit MD3, Wissa (Brentford, 3 Turniertore) Stamm-9, defensiver 4-4-2-Igel-Setup zu erwarten",
+        "quellen": [
+          "https://www.racingpost.com/sport/football-tips/world-cup-2026/england-vs-dr-congo-world-cup-prediction-team-news-odds-betting-tips-and-bet-builder-arLka8E5CJdU/",
+          "https://news.bet365.com/en-us/article/england-vs-dr-congo-world-cup-odds-picks-predictions/2026063014551497686",
+          "https://www.cbssports.com/soccer/news/england-congo-dr-odds-prediction-start-time-2026-world-cup-round-of-32-picks/",
+          "https://www.rotowire.com/soccer/article/england-vs-dr-congo-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-round-of-32-120375"
+        ]
+      },
+      "news": [
+        "England-Aufstellung erwartet (4-2-3-1): Pickford; Spence, Konsa, Guehi, O'Reilly; Anderson, Rice; Saka, Bellingham, Rashford; Kane.",
+        "Ausfaelle England: Reece James (Hamstring) + Jarell Quansah (Knoechel) - beide durch Konsa/Spence ersetzt.",
+        "Kane -138 (Quote 1.72) fuer sein 4. Turnier-Tor - wahrscheinlichster Skorer laut bet365-Preview.",
+        "Bellingham als Value-Pick genannt - 2 Tore Group-Stage (vs Kroatien + Panama).",
+        "DR Kongo: Wissa (Brentford) 3/4 Kongo-Toren im Turnier, 9 Torschuesse total. Defensiver 4-4-2-Igel-Setup zu erwarten.",
+        "Kongo-Verband erstmals in K.O.-Runde (Novum-Confidence) - Lesson 06.29 K.O.-Premiere-Beide-Teams triggert NICHT (nur COD Premiere), aber Underdog-Trotz-Pattern moeglich."
+      ],
+      "tipps": [
+        {
+          "id": "eng-cod-1",
+          "kategorie": "wackel",
+          "markt": "Kane trifft (Jederzeit)",
+          "quote": 1.72,
+          "edge_prozent": 10,
+          "einsatz_euro": 7,
+          "begruendung": "Kane 3 Turnier-Tore, Stamm-9er, 1.72-Quote = wahrscheinlichster Skorer laut bet365. Goldgrube 'Torschuetzen Jederzeit' +24.4% ROI / 50% Hitrate (bester Markt im System). Kongo-Defense zu weit unter England-Klasse. PFLICHT-Torschuetzen bei HEIM-CRUSHING-FAVORIT-Profil. Kategorie VALUE (nicht SAFE) wegen Lesson 06.30 'Torschuetzen-R32-WACKEL-Cluster verlor 3/4' + WM nicht in Liga-Goldgruben. Einsatz 7€ (Stufe 1, 1.3% Kasse 550€). [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "faire_quote": 1.56,
+          "empfohlener_einsatz_prozent": 1.0,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "id": "eng-cod-2",
+          "kategorie": "value",
+          "markt": "England Sieg (90min)",
+          "quote": 1.27,
+          "edge_prozent": 11,
+          "einsatz_euro": 9,
+          "begruendung": "England Crushing-Favorit (1.27 = -370 ML, ~79% implizit). Klassen-Edge maximal (WM-Titel-Anwaerter vs Novum-Verband). Voller Kader minus 2 Backup-Verteidiger. Kategorie VALUE (nicht SAFE) wegen Lesson 06.30 K.O.-R32-Klassen-Edge-Sieg unzuverlaessig - GER 1.36 + NED 2.15 gestern beide per Elfm-Schiessen raus. Ohne diese Warnung waere SAFE. Einsatz 9€ (1.6% Kasse).",
+          "faire_quote": 1.15,
+          "empfohlener_einsatz_prozent": 1.6
+        },
+        {
+          "id": "eng-cod-3",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.65,
+          "edge_prozent": 9,
+          "einsatz_euro": 7,
+          "begruendung": "Goldgrube 'Ueber 2.5 Tore' +26.7% ROI / 61.1% Hitrate. England-Group-Stage-Schnitt >2 Tore/Spiel + wahrscheinlicher 2:0/3:0/3:1-Score gegen Kongo-Igel + Late-Goal-Cluster-Lesson (WM 9-Spiele-Serie mit 85er-Tor). Sub-Wave in 60-80er-Minute (Rashford/Bellingham/Kane koennen jederzeit brechen). Einsatz 7€ (1.3% Kasse).",
+          "faire_quote": 1.51,
+          "empfohlener_einsatz_prozent": 1.3
+        },
+        {
+          "id": "eng-cod-4",
+          "kategorie": "wackel",
+          "markt": "Bellingham trifft (Jederzeit)",
+          "quote": 2.2,
+          "edge_prozent": 6,
+          "einsatz_euro": 2.75,
+          "begruendung": "Bellingham 2 Turnier-Tore (vs Kroatien + Panama) + als Value-Pick markiert von Racing Post. Backup-Torschuetzen neben Kane bei HEIM-CRUSHING-Favorit-Profil. WACKEL (nicht VALUE) wegen Lesson 06.30 R32-Torschuetzen-Cluster + kein Karriere-Highlight-Boost (Lesson 06.28 deaktiviert). Einsatz 2.75€ (0.5% Kasse).",
+          "faire_quote": 2.05,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 1,
+        "status": "FINISHED",
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 1
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-07-01-eng-cod-eng-cod-1",
+          "spiel_id": "2026-07-01-eng-cod",
+          "markt": "Kane trifft (Jederzeit)",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "kategorie": "wackel",
+          "einsatz_euro": 7,
+          "quote": 1.72,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.72,
+          "kommentar": "Kane traf zweimal in der 2.HZ (75. Kopfball nach Gordon-Flanke + 86. Fernschuss ins Netz) - Doppelpack-Retter. Goldgrube-Markt Torschuetzen Jederzeit.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-07-01-eng-cod-eng-cod-2",
+          "spiel_id": "2026-07-01-eng-cod",
+          "markt": "England Sieg (90min)",
+          "markt_typ": "England Sieg",
+          "kategorie": "value",
+          "einsatz_euro": 9,
+          "quote": 1.27,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.27,
+          "kommentar": "England kam von 0:1-Rueckstand zurueck und gewann 2:1 durch Kane-Doppelpack. Klassen-Edge-Sieg trotz VALUE-Downgrade validiert.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-07-01-eng-cod-eng-cod-3",
+          "spiel_id": "2026-07-01-eng-cod",
+          "markt": "Ueber 2.5 Tore",
+          "markt_typ": "Ueber 2.5 Tore",
+          "kategorie": "value",
+          "einsatz_euro": 7,
+          "quote": 1.65,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.65,
+          "kommentar": "Endstand 2:1 = 3 Tore = Ueber 2.5 gewonnen. Goldgrube-Markt. Late-Goal-Cluster fortgesetzt (Kane 86.).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-07-01-eng-cod-eng-cod-4",
+          "spiel_id": "2026-07-01-eng-cod",
+          "markt": "Bellingham trifft (Jederzeit)",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "kategorie": "wackel",
+          "einsatz_euro": 2.75,
+          "quote": 2.2,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Bellingham blieb ohne Tor + wurde nicht ausgewechselt (spielte durch bis Schlusspfiff) - kein Einwechslungs-Boost-Trigger. Sekundaer-Torschuetzen-Verlust.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "2:1",
+        "tore": [
+          {
+            "min": 7,
+            "team": "gast",
+            "spieler": "Brian Cipenga",
+            "stand_danach": "0:1",
+            "details": "Mbemba-Langball ueber Spence, Cipenga schlaegt aus kurzer Distanz zu - Novum-K.O.-Fuehrung fuer Kongo."
+          },
+          {
+            "min": 75,
+            "team": "heim",
+            "spieler": "Harry Kane",
+            "stand_danach": "1:1",
+            "details": "Kopfball nach Gordon-Flanke (Gordon zuvor eingewechselt fuer Rashford in 61.) - Ausgleich durch Wechsel-Impuls."
+          },
+          {
+            "min": 86,
+            "team": "heim",
+            "spieler": "Harry Kane",
+            "stand_danach": "2:1",
+            "details": "Kane macht Platz und schiesst ins obere Netz - 3. Turnier-Tor + 4. + Late-Winner."
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Kein 2-Tore-Rueckstand. 0:1 wurde zu 2:1 gedreht (Klassen-Edge realisiert Kabinen-Show). Fuer 2:0-Insurance haette England 2:0 fuehren muessen - erst 2:1 in 86., Kongo nie mehr im Spiel danach."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_0_5": true,
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "unter_2_5": false,
+          "unter_3_5": true,
+          "halbzeit_endstand": "DR Kongo/England",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Rice",
+            "details": "Rueckkehr nach Sperre - spielte durch bis 90+1 (dann Stones-Wechsel)."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Anthony Gordon",
+            "aus": "Marcus Rashford",
+            "minute": 61,
+            "tor": false,
+            "assist": true,
+            "tor_minute": "75. (Assist zum Kane-Kopfball)",
+            "details": "Gordon-Impuls-Sub 61. bringt in 75. die Flanke fuer Kane-1:1. Klassischer Wechsel-Impuls-Assist ohne eigenes Tor - Einwechslungs-Boost greift NICHT (nur Tore zaehlen, keine Assists per bet365-Regel)."
+          }
+        ],
+        "auffaellige_patterns": [
+          "K.O.-Premieren-Schock-Fuehrung fortgesetzt: 3. R32-Spiel in Folge mit Underdog-Fruehsatz (nach GER-JPN, NED-URU-Historie). Klassen-Edge dreht sich aber diesmal in 2.HZ durch.",
+          "Kane als Retter validiert Volume-Star-Under-Pressure-These - 4. + 5. Turnier-Tor beide in Rueckstand-Situation.",
+          "Late-Goal-Cluster WM-Serie fortgesetzt (Kane 86. Min).",
+          "Einwechslungs-Impuls-Assist-Pattern (Gordon->Kane) - Sub-Boost-Trigger nur bei Toren, nicht Assists."
+        ]
+      }
+    },
+    {
+      "id": "2026-07-01-bel-sen",
+      "liga": "FIFA WM 2026 - Round of 32",
+      "heim": "Belgien",
+      "gast": "Senegal",
+      "anstoss": "2026-07-01T22:00:00+02:00",
+      "stadion": "Lumen Field, Seattle",
+      "saison_kontext": {
+        "parallel_heim": "keine - Nationalmannschaft, WM-Vollfokus",
+        "parallel_gast": "keine - Nationalmannschaft, WM-Vollfokus",
+        "saisonziel_heim": "WM-2026-erster-K.O.-Auftritt seit VF-Aus 2022. 2. Runde Ziel unter neuem Coach Rudi Garcia. Squad-Tiefe (De Bruyne, Doku, Trossard, Courtois, Lukaku-Bank) klarer Belgium-Vorteil. Gruppe-2. mit erwartetem Group-Stage-Erfolg.",
+        "saisonziel_gast": "WM-2026-erster-K.O.-Auftritt seit VF-2002. 3. best-3rd nach Gruppe-Losses (6 Gegentore in 2 Niederlagen). Sturm-Duo Jackson/Mane + Sarr = weiter Achtelfinal-Kandidat mit Underdog-Chancen.",
+        "motivations_asymmetrie": "Belgium moderater Favorit (1.62 = ~62%) mit klar besserer Squad-Tiefe ABER Lukaku als Stamm-9er GEBANK'D (De Ketelaere False-9-Experiment) = Belgium sieht 'toothless' ohne Lukaku laut Analystenkonsens. Senegal offensiv gefaehrlich (Mane 33, Jackson-Form) aber defensiv nach 6 GA in 2 Group-Losses angeschlagen. Coinflip-Naehe nicht ganz gegeben (1.62 kein reines 50/50), aber Lesson 06.30 K.O.-R32 + Star-Ausfall erzwingt Vorsicht.",
+        "recovery_heim": "4-5 Tage seit MD3, kein akuter Verletzungsdruck, ABER Lukaku (Napoli-Serie-A-Saison von Verletzungen zerstoert, 4 Ligaspiele total) fitness-fraglich → Bank.",
+        "recovery_gast": "4-5 Tage seit MD3, kein akuter Ausfall-Report, defensive Solidität nach Gruppen-Losses fraglich",
+        "quellen": [
+          "https://www.rotowire.com/soccer/article/belgium-vs-senegal-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-round-of-32-120376",
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/belgium-romelu-lukaku-charles-de-ketelaere",
+          "https://sports.yahoo.com/articles/world-cup-2026-r32-belgium-130500423.html",
+          "https://www.foxsports.com/stories/soccer/belgium-vs-senegal-prediction-odds-picks-world-cup-match",
+          "https://www.sportsmole.co.uk/football/belgium/world-cup-2026/predicted-lineups/is-debast-back-for-the-knockouts-predicted-belgium-xi-vs-senegal_600367.html"
+        ]
+      },
+      "news": [
+        "STAR-AUSFALL: Lukaku als Stamm-9er GEBANK'D. Belgium spielt mit De Ketelaere als False-9. Lukaku wahrscheinlich Joker-Sub in 60-70er-Minute.",
+        "Belgium-Aufstellung erwartet (4-2-3-1): Courtois; Castagne, Mechele, Theate, De Cuyper; Vanaken, Tielemans; Trossard, De Bruyne (c), Doku; De Ketelaere.",
+        "BACKUP-STUERMER-PFLICHT nach STAR-AUSFALL-Regel: Trossard/Doku statt Lukaku als Torschuetzen-Tipp (analog Real-Vinicius-nach-Mbappe-Aus).",
+        "Senegal-Aufstellung erwartet (4-3-3): E. Mendy; Jakobs, Koulibaly (c), Niakhate, El H. M. Diouf; Gueye, P.M. Sarr, Camara; I. Sarr, Jackson, Mane.",
+        "Mane 33 Jahre, letztes grosses Turnier als Senegal-Kapitaen - motivations-hoch.",
+        "Belgium 'toothless ohne Lukaku' laut mehreren Analysten - klarer Widerspruch zur Klassen-Edge-These bei Sieg-Tipps."
+      ],
+      "tipps": [
+        {
+          "id": "bel-sen-1",
+          "kategorie": "wackel",
+          "markt": "Belgien Doppelte Chance 1X",
+          "quote": 1.28,
+          "edge_prozent": 7,
+          "einsatz_euro": 9,
+          "begruendung": "Belgien-Klasse-Edge auch ohne Lukaku aus Sicht Nicht-Verlieren = DC. Courtois-Weltklasse-Keeper + De-Bruyne-Spielmacher + Doku/Trossard-Fluegel-Speed. Goldgrube 'Doppelte Chance 1X' +9.5% ROI / 84.6% Hitrate. Kategorie VALUE (nicht SAFE) wegen WM nicht in Liga-Goldgruben + Lukaku-Bank-Toothless-Warnung + Lesson 06.30 K.O.-R32-Klassen-Edge unzuverlaessig. EINZIGER DC-Tipp im Spiel - DC-Cap erfuellt. Einsatz 9€ (1.6% Kasse 550€). [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
+          "faire_quote": 1.2,
+          "empfohlener_einsatz_prozent": 1.6,
+          "_saison_kontext_sanity_downgrade": true
+        },
+        {
+          "id": "bel-sen-2",
+          "kategorie": "wackel",
+          "markt": "Trossard trifft (Jederzeit)",
+          "quote": 2.75,
+          "edge_prozent": 8,
+          "einsatz_euro": 2.75,
+          "begruendung": "STAR-AUSFALL-BACKUP-PFLICHT (Lukaku Bank): Trossard als linker Fluegel im 4-2-3-1 hinter De Ketelaere. Arsenal-Form + Speed-Edge gegen Senegal-Rechtsverteidiger Jakobs. Alternativer Skorer wenn De-Ketelaere-False-9-Experiment stalls und Belgium umkonfigurieren muss. WACKEL wegen Volumen-Risiko + Lesson 06.30 R32-Torschuetzen-Cluster. Einsatz 2.75€ (0.5% Kasse).",
+          "faire_quote": 2.55,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "bel-sen-3",
+          "kategorie": "wackel",
+          "markt": "Doku trifft (Jederzeit)",
+          "quote": 3.2,
+          "edge_prozent": 6,
+          "einsatz_euro": 2.75,
+          "begruendung": "STAR-AUSFALL-BACKUP-PFLICHT #2: Doku als Man-City-Fluegel-Speedster gegen Senegal-Aussenbahnen. Backup zu Trossard - identisches Ausfall-Backup-Profil. Beide-Fluegel-Tipp verteilt Risiko. WACKEL Standard-Einsatz. Einsatz 2.75€ (0.5% Kasse).",
+          "faire_quote": 2.95,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "bel-sen-4",
+          "kategorie": "wackel",
+          "markt": "Unter 2.5 Tore",
+          "quote": 2.05,
+          "edge_prozent": 5,
+          "einsatz_euro": 2.75,
+          "begruendung": "Belgium ohne Lukaku 'toothless' + K.O.-R32-Vorsicht + Senegal-Igel-Setup moeglich mit Koulibaly-Fuehrung im 4-3-3. Markt-Goldgrube-Naehe (Unter 2.5 +27.5% / 66.7%). Late-Goal-Cluster-Risiko waere gegen 2.5-Cap - deshalb WACKEL (nicht VALUE). Einsatz 2.75€ (0.5% Kasse).",
+          "faire_quote": 1.9,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 3,
+        "gast_tore": 2,
+        "status": "FINISHED_AET",
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 1,
+        "endstand_90min_heim": 2,
+        "endstand_90min_gast": 2
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-07-01-bel-sen-bel-sen-1",
+          "spiel_id": "2026-07-01-bel-sen",
+          "markt": "Belgien Doppelte Chance 1X",
+          "markt_typ": "Doppelte Chance 1X",
+          "kategorie": "wackel",
+          "einsatz_euro": 9,
+          "quote": 1.28,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.28,
+          "kommentar": "DC 1X gewonnen weil 90-Min-Stand 2:2 = X (Draw). Tielemans-89.Min-Ausgleich rettet DC. AET-Winner (Tielemans 120+5 Pen) irrelevant fuer DC-90min-Regel. Goldgrube-Markt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-07-01-bel-sen-bel-sen-2",
+          "spiel_id": "2026-07-01-bel-sen",
+          "markt": "Trossard trifft (Jederzeit)",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "kategorie": "wackel",
+          "einsatz_euro": 2.75,
+          "quote": 2.75,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Trossard blieb ohne Tor (nur Assist zum Tielemans-89.Min-Ausgleich). Trossard wurde NICHT ausgewechselt (spielte durch bis AET-Ende) - kein Einwechslungs-Boost-Trigger.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-07-01-bel-sen-bel-sen-3",
+          "spiel_id": "2026-07-01-bel-sen",
+          "markt": "Doku trifft (Jederzeit)",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "kategorie": "wackel",
+          "einsatz_euro": 2.75,
+          "quote": 3.2,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Doku traf nicht + wurde in 56. Min fuer Lukebakio ausgewechselt. Lukebakio traf ebenfalls nicht - kein Einwechslungs-Boost. STAR-AUSFALL-BACKUP-Pflicht-These widerlegt (Fluegel-Backups trafen nicht, Volume-9er Lukaku und Tielemans trafen).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-07-01-bel-sen-bel-sen-4",
+          "spiel_id": "2026-07-01-bel-sen",
+          "markt": "Unter 2.5 Tore",
+          "markt_typ": "Unter 2.5 Tore",
+          "kategorie": "wackel",
+          "einsatz_euro": 2.75,
+          "quote": 2.05,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Endstand 90min 2:2 = 4 Tore = Ueber 2.5 (nicht Unter). 2 Tore Senegal + 2 Tore Belgien (Lukaku 86. + Tielemans 89.). Belgium war eben NICHT 'toothless ohne Lukaku' - Lukaku kam als HT-Sub UND traf.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "3:2 n.V.",
+        "endstand_90min": "2:2",
+        "tore": [
+          {
+            "min": 25,
+            "team": "gast",
+            "spieler": "Habib Diarra",
+            "stand_danach": "0:1",
+            "details": "Sarr-Kopfball nach Mane-Flanke prallt an Pfosten, Diarra staubt ab."
+          },
+          {
+            "min": 51,
+            "team": "gast",
+            "spieler": "Ismaila Sarr",
+            "stand_danach": "0:2",
+            "details": "Langball ueber Belgium-Defense, Sarr nimmt an der Brust an und schiesst herrlich ins Netz."
+          },
+          {
+            "min": 86,
+            "team": "heim",
+            "spieler": "Romelu Lukaku",
+            "stand_danach": "1:2",
+            "details": "Lukaku (HT-Sub fuer De Ketelaere) verwertet nach Meunier-Vorlage - Comeback beginnt."
+          },
+          {
+            "min": 89,
+            "team": "heim",
+            "spieler": "Youri Tielemans",
+            "stand_danach": "2:2",
+            "details": "Kopfball nach Trossard-Flanke - Ausgleich 2 Min 39 Sek nach Lukaku-Tor."
+          },
+          {
+            "min": 125,
+            "team": "heim",
+            "spieler": "Youri Tielemans",
+            "stand_danach": "3:2",
+            "details": "Umstrittener Elfmeter in 120+4/5. spaetester WM-Winner der Geschichte (124min 44sec)."
+          }
+        ],
+        "drehung": {
+          "war_drehung": true,
+          "details": "MEGA-DREHUNG: Belgien lag 0:2 zurueck bis 86. Min. Fuer 2:0-Insurance haette Senegal 2:0 fuehren muessen - Senegal fuehrte tatsaechlich 2:0 (25. + 51.). Bei Senegal-Sieg-Tipp waere 2:0-Insurance getriggert. Endstand Belgien Sieg 3:2 AET = Drehung + Insurance-Verlust-Absicherung fuer hypothetischen SEN-Tipp. WM-Sonderregel: 2:0-Insurance gilt fuer WM 2026 laut CLAUDE.md."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_0_5": true,
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": false,
+          "unter_2_5": false,
+          "unter_3_5": false,
+          "halbzeit_endstand": "Senegal/Unentschieden (90min) - Belgien AET",
+          "kein_team_zu_null": true,
+          "hinweis": "Ueber-2.5 und BTTS bereits im 90-Min-Regelverkehr entschieden. AET-Tore beeinflussen 90-Min-Wetten nicht."
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "De Ketelaere",
+            "details": "False-9-Experiment - Start-Stuermer, in HT fuer Lukaku ausgewechselt (offensive Umstellung)."
+          },
+          {
+            "team": "heim",
+            "spieler": "De Bruyne + Doku",
+            "details": "Beide in 56. Min RAUS bei 0:2-Rueckstand - Rudi-Garcia-Schock-Umstellung."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Romelu Lukaku",
+            "aus": "Charles De Ketelaere",
+            "minute": 46,
+            "tor": true,
+            "tor_minute": 86,
+            "details": "HT-Sub Lukaku traf 86.! HAETTE De-Ketelaere-Torschuetzen-Tipp existiert -> bet365-Einwechslungs-Boost-Trigger. Wir hatten Trossard/Doku als Backup, nicht De Ketelaere - Boost-Chance verpasst."
+          },
+          {
+            "team": "heim",
+            "ein": "Nicolas Raskin",
+            "aus": "Kevin De Bruyne",
+            "minute": 56,
+            "tor": false,
+            "details": "Kein Boost-Trigger fuer De-Bruyne-Tipp (haben wir nicht)."
+          },
+          {
+            "team": "heim",
+            "ein": "Dodi Lukebakio",
+            "aus": "Jeremy Doku",
+            "minute": 56,
+            "tor": false,
+            "details": "Lukebakio blieb ohne Tor -> kein Boost fuer Doku-Tipp (@3.2)."
+          },
+          {
+            "team": "heim",
+            "ein": "Thomas Meunier",
+            "aus": "Maxim De Cuyper",
+            "minute": 78,
+            "tor": false,
+            "assist": true,
+            "details": "Meunier-Assist zum Lukaku-1:2. Assist zaehlt NICHT als Boost."
+          }
+        ],
+        "auffaellige_patterns": [
+          "MEGA-DREHUNG: 0:2 zurueck bis 86. -> 2:2 in 89. -> 3:2 in 120+5 (Elfm). Spaetester WM-Winner aller Zeiten (124min 44sec Tielemans-Pen).",
+          "DC-Insurance-Effekt: 90-min-2:2-Draw rettet Belgien-DC-1X-Tipp @1.28. Waere reiner Belgien-Sieg-Tipp gewesen (nach 90 Min 2:2 = X = Sieg-Tipp verloren), waere er trotz AET-Winner verloren! DC ist in K.O.-R32 der bessere Wett-Weg als Sieg-Only.",
+          "BET365-EINWECHSLUNGS-BOOST-TRIGGER-OHNE-TIPP: De-Ketelaere-HT-Sub-Lukaku-Setup + Lukaku traf 86. Haette De-Ketelaere-Torschuetzen-Tipp existiert, waere Boost aktiv. False-9-Experiment mit Volume-9er-Backup ist Boost-Goldgrube.",
+          "STAR-AUSFALL-BACKUP-These (Trossard/Doku) WIDERLEGT: Fluegel-Backups trafen nicht, dafuer Volume-9er (Lukaku) + defensiver Mittelfeld (Tielemans). Star-Ausfall-Backup-Regel muss auf 'nur bei Sturmer-Backup, nicht Fluegel-Backup' praezisiert werden.",
+          "Late-Goal-Cluster ULTRA fortgesetzt: Lukaku 86 + Tielemans 89 + Tielemans 120+5 = 3 Tore in Belgien-Comeback in 34 Min AET-Endphase.",
+          "Kontroverser Elfmeter 120+4 fuer Belgien - Schiedsrichter-Faktor bei K.O.-Elfm-Wetten."
+        ]
+      }
+    },
+    {
+      "id": "2026-07-01-usa-bih",
+      "liga": "FIFA WM 2026 - Round of 32",
+      "heim": "USA",
+      "gast": "Bosnien-Herzegowina",
+      "anstoss": "2026-07-02T02:00:00+02:00",
+      "stadion": "Levi's Stadium, Santa Clara (San Francisco Bay Area)",
+      "saison_kontext": {
+        "parallel_heim": "keine - Nationalmannschaft, WM-Vollfokus + Heim-Turnier (Co-Ausrichter)",
+        "parallel_gast": "keine - Nationalmannschaft, WM-Vollfokus",
+        "saisonziel_heim": "WM-2026-Co-Ausrichter, Heim-Turnier-Pflicht min. VF (letzter K.O.-Auftritt 2022 R16-out). Gruppe-D-1. mit 6 Pkt (2-0-1). Balogun 2 Turnier-Tore + 1 provoziertes Eigentor.",
+        "saisonziel_gast": "WM-2026-erster-K.O.-Auftritt seit 2014 nicht-teilnahme-danach. Gruppe-B-3. mit 4 Pkt best-3rd. Dzeko + Demirovic Sturm-Duo, defensiv-solide-4-4-2.",
+        "motivations_asymmetrie": "USA klarer Favorit (1.45 = ~69%, Opta 67.5% USA-Sieg, 76.6% Advance-Wahrscheinlichkeit) + Heim-Turnier-Druck + volles Bay-Area-Publikum. Bosnien Underdog + Dzeko-Karriere-Highlight (40 Jahre, letzte WM). Klassen-Edge klar, ABER Lesson 06.30 (GER+NED gestern per Elfm-out) erzwingt Kategorie-Downgrade auf Sieg-Tipps in K.O.-R32.",
+        "recovery_heim": "5 Tage seit MD3, kein akuter Ausfall-Report, Balogun/Pulisic Stamm-Set einsatzbereit",
+        "recovery_gast": "5 Tage seit MD3, Dzeko (40) Fitness-Frage - hoehere Sub-Wahrscheinlichkeit als jueng. Kollegen",
+        "quellen": [
+          "https://www.fanduel.com/research/us-vs-bosnia-and-herzegovina-prediction-picks-lineups-preview-and-best-bets-world-cup-usa-2026",
+          "https://www.racingpost.com/sport/football-tips/world-cup-2026/usa-vs-bosnia-herzegovina-world-cup-prediction-team-news-odds-betting-tips-and-bet-builder-a0MdA8f5bp5B/",
+          "https://www.aljazeera.com/news/2026/7/1/usa-vs-bosnia-herzegovina-world-cup-round-of-32-prediction-team-lineups",
+          "https://www.cbssports.com/soccer/news/usmnt-bosnia-and-herzegovina-odds-prediction-start-time-2026-world-cup-round-of-32-picks/",
+          "https://www.rotowire.com/soccer/article/usa-vs-bosnia-picks-tips-odds-best-bets-2026-world-cup-round-of-32-120532"
+        ]
+      },
+      "news": [
+        "USA-Aufstellung erwartet (4-2-3-1): Freese; Freeman, Richards, Ream, Robinson; Adams, Tillman; Dest, McKenzie, Pulisic; Balogun. Alternative: Weah statt Dest.",
+        "Balogun Stamm-9, 2 Group-Stage-Tore (vs Paraguay Brace) + 1 provoziertes Eigentor vs Australien - Anytime-Quote +120 (2.20).",
+        "Pulisic 0 Turnier-Tore in 77 Minuten Spielzeit - Anytime-Quote +120 (2.20). Backup-Torschuetze.",
+        "Bosnien-Aufstellung erwartet (4-4-2): Vasilj; Dedic, Katic, Muharemovic, Kolasinac; Bajraktarevic, Basic, Sunjic, Alajbegovic; Demirovic, Dzeko.",
+        "Dzeko (40, Fenerbahce) letzte WM - Bosnien-Karriere-Highlight-Triggering, hoehere Motivations-Ceiling.",
+        "Opta-Supercomputer: 67.5% USA-Sieg, 76.6% Advance-Prozent - klar guenstiger fuer USA."
+      ],
+      "tipps": [
+        {
+          "id": "usa-bih-1",
+          "kategorie": "value",
+          "markt": "USA Doppelte Chance 1X",
+          "quote": 1.16,
+          "edge_prozent": 7,
+          "einsatz_euro": 9,
+          "begruendung": "USA-Heim-Turnier-Druck + Klassen-Edge + Opta 76.6% Advance = extrem stark. Goldgrube 'Doppelte Chance 1X' +9.5% ROI / 84.6% Hitrate. Kategorie VALUE (nicht SAFE) wegen WM nicht in Liga-Goldgruben + Lesson 06.30 K.O.-R32-Klassen-Edge unzuverlaessig. EINZIGER DC-Tipp im Spiel - DC-Cap erfuellt. Einsatz 9€ (1.6% Kasse 550€).",
+          "faire_quote": 1.08,
+          "empfohlener_einsatz_prozent": 1.6
+        },
+        {
+          "id": "usa-bih-2",
+          "kategorie": "wackel",
+          "markt": "Balogun trifft (Jederzeit)",
+          "quote": 2.2,
+          "edge_prozent": 9,
+          "einsatz_euro": 7,
+          "begruendung": "Balogun 2 Turnier-Tore + Stamm-9er + wahrscheinlichster Skorer laut Racing Post/FanDuel-Analyse. Bosnien-Innenverteidiger-Katic solid aber USA-Angriff-Druck hoch. Goldgrube 'Torschuetzen Jederzeit' +24.4% ROI / 50% Hitrate. PFLICHT-Torschuetze bei HEIM-KLARER-FAVORIT (1.45) Profile. Einsatz 7€ (1.3% Kasse). [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "faire_quote": 2.02,
+          "empfohlener_einsatz_prozent": 1.3,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "id": "usa-bih-3",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.75,
+          "edge_prozent": 8,
+          "einsatz_euro": 7,
+          "begruendung": "Goldgrube 'Ueber 2.5 Tore' +26.7% ROI / 61.1% Hitrate. Heim-Turnier-Druck + USA-Sturm-Trio (Balogun+Pulisic+Weah) + Bosnien-Sturm-Duo Dzeko+Demirovic = beide Seiten offensive Optionen. Late-Goal-Cluster-Lesson (WM-9-Serie mit 85er-Tor). Einsatz 7€ (1.3% Kasse).",
+          "faire_quote": 1.61,
+          "empfohlener_einsatz_prozent": 1.3
+        },
+        {
+          "id": "usa-bih-4",
+          "kategorie": "wackel",
+          "markt": "Pulisic trifft (Jederzeit)",
+          "quote": 2.2,
+          "edge_prozent": 5,
+          "einsatz_euro": 2.75,
+          "begruendung": "Pulisic bisher 0 Turnier-Tore in nur 77 Min Spielzeit - Nachhol-Bedarf + Heim-Publikum-Motivation Bay Area. Backup-Torschuetze neben Balogun. WACKEL statt VALUE wegen fehlender Form-Edge (0 Tore vs Balogun 2) + Lesson 06.30 R32-Torschuetzen-Cluster. Einsatz 2.75€ (0.5% Kasse).",
+          "faire_quote": 2.1,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 0,
+        "status": "FINISHED",
+        "halbzeit_heim": 1,
+        "halbzeit_gast": 0
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-07-01-usa-bih-usa-bih-1",
+          "spiel_id": "2026-07-01-usa-bih",
+          "markt": "USA Doppelte Chance 1X",
+          "markt_typ": "Doppelte Chance 1X",
+          "kategorie": "value",
+          "einsatz_euro": 9,
+          "quote": 1.16,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.16,
+          "kommentar": "USA gewann 2:0 = DC 1X (Sieg oder Remis) gewonnen. Klassen-Edge realisiert trotz Balogun-Rote-Karte 64.. Goldgrube-Markt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-07-01-usa-bih-usa-bih-2",
+          "spiel_id": "2026-07-01-usa-bih",
+          "markt": "Balogun trifft (Jederzeit)",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "kategorie": "wackel",
+          "einsatz_euro": 7,
+          "quote": 2.2,
+          "status": "gewonnen",
+          "gewinn_faktor": 1.2,
+          "kommentar": "Balogun traf in der 45. Min zur 1:0-Halbzeitfuehrung (Tillman-Assist). 3. Turnier-Tor. Rote Karte 64. irrelevant fuer Torschuetzen-Wette. Goldgrube-Markt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-07-01-usa-bih-usa-bih-3",
+          "spiel_id": "2026-07-01-usa-bih",
+          "markt": "Ueber 2.5 Tore",
+          "markt_typ": "Ueber 2.5 Tore",
+          "kategorie": "value",
+          "einsatz_euro": 7,
+          "quote": 1.75,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Endstand 2:0 = nur 2 Tore = Unter 2.5 (nicht Ueber). USA in Unterzahl nach Balogun-Rot-64 konservativ, Bosnien-Sturm ohne Durchschlag. Ueber-2.5-Goldgrube gebrochen an USA-Rot-Karten-Effekt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-07-01-usa-bih-usa-bih-4",
+          "spiel_id": "2026-07-01-usa-bih",
+          "markt": "Pulisic trifft (Jederzeit)",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "kategorie": "wackel",
+          "einsatz_euro": 2.75,
+          "quote": 2.2,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Pulisic blieb ohne Tor + wurde in 88. fuer Ricardo Pepi ausgewechselt. Pepi traf ebenfalls nicht - kein Einwechslungs-Boost-Trigger. Pulisic 0-Turnier-Tor-Nachhol-These weiter offen.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "2:0",
+        "tore": [
+          {
+            "min": 45,
+            "team": "heim",
+            "spieler": "Folarin Balogun",
+            "stand_danach": "1:0",
+            "details": "Tim Ream fing Bosnien-Abstoss ab, Tillman fand Balogun im Strafraum, Balogun schoss links flach ein. Halbzeit-Toroeffner."
+          },
+          {
+            "min": 82,
+            "team": "heim",
+            "spieler": "Malik Tillman",
+            "stand_danach": "2:0",
+            "details": "Direktfreistoss von ausserhalb des Strafraums - schoss ab der Hand von Torwart Vasilj ins Netz. Late-Goal-Cluster fortgesetzt."
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "USA fuehrte durchgehend, keine Fuehrungswechsel. Kein 2:0-Rueckstand-Comeback. USA war ab 45. Min 1:0 vorne, ab 82. Min 2:0 - 2:0-Insurance ab 82. aktiv (aber Endstand ist 2:0-Sieg, Insurance nicht benoetigt)."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_0_5": true,
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "unter_2_5": true,
+          "unter_3_5": true,
+          "halbzeit_endstand": "USA/USA",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Freese",
+            "details": "USA-Keeper - erster Keeper-Einsatz im Turnier, 5 Paraden, kein Gegentor."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Ricardo Pepi",
+            "aus": "Christian Pulisic",
+            "minute": 88,
+            "tor": false,
+            "details": "Pepi kam fuer Pulisic in 88. - blieb ohne Tor. Kein Boost fuer Pulisic-Tipp (@2.2). Pulisic-Ersatz-Backup-These heute nicht ausgeloest."
+          },
+          {
+            "team": "heim",
+            "ein": "Sebastian Berhalter",
+            "aus": "Sergino Dest",
+            "minute": 87,
+            "tor": false,
+            "details": "Kein Boost-Trigger fuer Dest-Tipp (haben wir nicht)."
+          }
+        ],
+        "auffaellige_patterns": [
+          "USA-BALOGUN-ROT-64: dumme Aktion (Foul an Muharemovic, Knoechel-Umknick des Gegners), USA in Unterzahl ab 64. Achtelfinale gegen Belgien am Montag OHNE Balogun - Sperre-Risiko fuer USA-Sturm. Ricardo Pepi (88. Sub) = wahrscheinlichster Balogun-Ersatz gegen Belgien.",
+          "Ueber-2.5-Goldgrube gebrochen an USA-Rot-Karten-Effekt: USA konservativ in Unterzahl, Bosnien-Sturm-Duo Dzeko+Demirovic (40+30J) ohne Durchschlag.",
+          "Tillman-Freistoss 82. = Late-Goal-Cluster fortgesetzt (jetzt 3/3 heute mit 80+min-Tor).",
+          "Balogun 45.-Halbzeit-Toroeffner klassisches Klassen-Edge-Realisieren + 3. Turnier-Tor validiert Stamm-9er-Form.",
+          "Bosnien-Sturm-Duo Dzeko (40) + Demirovic (30) = 0 Tore trotz Karriere-Highlight-These. Karriere-Highlight-Deakt-Lesson 06.28 weiter gueltig."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "et-1",
+      "spiel_id": "2026-07-01-usa-bih",
+      "kategorie": "value",
+      "markt": "USA Doppelte Chance 1X",
+      "quote": 1.16,
+      "einsatz_euro": 9,
+      "begruendung": "USA Heim-Turnier-Druck + Opta 76.6% Advance + Klasse-Edge klar. Goldgrube 'Doppelte Chance 1X' +9.5% ROI / 84.6% Hitrate. VALUE statt SAFE wegen Lesson 06.30 K.O.-R32-Klassen-Edge-Sieg unzuverlaessig (GER+NED gestern per Elfm out). Einsatz 9€ (1.6% Kasse 550€).",
+      "empfohlener_einsatz_prozent": 1.6,
+      "rang": 1
+    },
+    {
+      "id": "et-2",
+      "spiel_id": "2026-07-01-eng-cod",
+      "kategorie": "value",
+      "markt": "England Sieg (90min)",
+      "quote": 1.27,
+      "einsatz_euro": 9,
+      "begruendung": "England Crushing-Favorit (1.27 = -370 ML) gegen Kongo-Novum-K.O. Rice zurueck, Kane/Bellingham/Rashford/Saka fit. Goldgrube-Naehe Sieg-Klassen-Edge. VALUE statt SAFE wegen Lesson 06.30 R32-Klassen-Edge unzuverlaessig. Einsatz 9€ (1.6% Kasse).",
+      "empfohlener_einsatz_prozent": 1.6,
+      "rang": 2
+    },
+    {
+      "id": "et-3",
+      "spiel_id": "2026-07-01-bel-sen",
+      "kategorie": "value",
+      "markt": "Belgien Doppelte Chance 1X",
+      "quote": 1.28,
+      "einsatz_euro": 9,
+      "begruendung": "Belgien-Squad-Tiefe (Courtois/De-Bruyne/Doku/Trossard/Lukaku-Bank) klarer Vorteil gegen Senegal. Goldgrube 'DC 1X' +9.5% / 84.6%. VALUE wegen Lukaku-Bank-Toothless-Warnung + Lesson 06.30 K.O.-R32. Einsatz 9€ (1.6% Kasse).",
+      "empfohlener_einsatz_prozent": 1.6,
+      "rang": 3
+    },
+    {
+      "id": "et-4",
+      "spiel_id": "2026-07-01-eng-cod",
+      "kategorie": "value",
+      "markt": "Kane trifft (Jederzeit)",
+      "quote": 1.72,
+      "einsatz_euro": 7,
+      "begruendung": "Kane 3 Turnier-Tore + Stamm-9er + 1.72 wahrscheinlichster Skorer laut bet365. Goldgrube 'Torschuetzen Jederzeit' +24.4% ROI / 50% Hitrate (bester Markt). PFLICHT-Torschuetze bei Heim-Crushing-Favorit-Profil. Einsatz 7€ (1.3% Kasse).",
+      "empfohlener_einsatz_prozent": 1.3,
+      "rang": 4
+    },
+    {
+      "id": "et-5",
+      "spiel_id": "2026-07-01-usa-bih",
+      "kategorie": "value",
+      "markt": "Balogun trifft (Jederzeit)",
+      "quote": 2.2,
+      "einsatz_euro": 7,
+      "begruendung": "Balogun 2 Turnier-Tore + Stamm-9er. Goldgrube 'Torschuetzen' +24.4% / 50%. PFLICHT-Torschuetze bei Heim-Klarer-Favorit-Profil. Einsatz 7€ (1.3% Kasse).",
+      "empfohlener_einsatz_prozent": 1.3,
+      "rang": 5
+    },
+    {
+      "id": "et-6",
+      "spiel_id": "2026-07-01-eng-cod",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.65,
+      "einsatz_euro": 7,
+      "begruendung": "Goldgrube 'Ueber 2.5 Tore' +26.7% / 61.1%. England Group-Schnitt >2 Tore + wahrscheinliches 2:0/3:0/3:1. Late-Goal-Cluster-Lesson. Einsatz 7€ (1.3% Kasse).",
+      "empfohlener_einsatz_prozent": 1.3,
+      "rang": 6
+    },
+    {
+      "id": "et-7",
+      "spiel_id": "2026-07-01-usa-bih",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.75,
+      "einsatz_euro": 7,
+      "begruendung": "Goldgrube +26.7% / 61.1%. USA-Sturm-Trio + Bosnien-Sturm-Duo Dzeko+Demirovic = beide offensiv. Heim-Druck + Late-Goal-Cluster-Lesson. Einsatz 7€ (1.3% Kasse).",
+      "empfohlener_einsatz_prozent": 1.3,
+      "rang": 7
+    },
+    {
+      "id": "et-8",
+      "spiel_id": "2026-07-01-eng-cod",
+      "kategorie": "wackel",
+      "markt": "Bellingham trifft (Jederzeit)",
+      "quote": 2.2,
+      "einsatz_euro": 2.75,
+      "begruendung": "Bellingham 2 Turnier-Tore (Kroatien+Panama) + Racing-Post-Value-Pick. Backup-Torschuetze neben Kane. WACKEL wegen Lesson 06.30 R32-Torschuetzen-Cluster + Lesson 06.28-Highlight-Deakt. Einsatz 2.75€ (0.5% Kasse).",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 8
+    },
+    {
+      "id": "et-9",
+      "spiel_id": "2026-07-01-bel-sen",
+      "kategorie": "wackel",
+      "markt": "Trossard trifft (Jederzeit)",
+      "quote": 2.75,
+      "einsatz_euro": 2.75,
+      "begruendung": "STAR-AUSFALL-BACKUP (Lukaku Bank): Trossard-Arsenal-Form auf linkem Fluegel. WACKEL wegen Volumen-Risiko. Einsatz 2.75€ (0.5% Kasse).",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 9
+    },
+    {
+      "id": "et-10",
+      "spiel_id": "2026-07-01-usa-bih",
+      "kategorie": "wackel",
+      "markt": "Pulisic trifft (Jederzeit)",
+      "quote": 2.2,
+      "einsatz_euro": 2.75,
+      "begruendung": "Pulisic 0 Turnier-Tore in 77 Min Spielzeit = Nachhol-Bedarf + Bay-Area-Heim-Publikum. Backup-Torschuetze neben Balogun. WACKEL wegen fehlender Form-Edge (vs Balogun 2 Tore). Einsatz 2.75€ (0.5% Kasse).",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 10
+    },
+    {
+      "id": "et-11",
+      "spiel_id": "2026-07-01-bel-sen",
+      "kategorie": "wackel",
+      "markt": "Doku trifft (Jederzeit)",
+      "quote": 3.2,
+      "einsatz_euro": 2.75,
+      "begruendung": "STAR-AUSFALL-BACKUP #2 (Lukaku Bank): Doku-Man-City-Speed. Beide-Fluegel-Tipp-Verteilung mit Trossard. WACKEL Standard. Einsatz 2.75€ (0.5% Kasse).",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 11
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-safe",
+      "name": "Safe-Kombi ~3.6x",
+      "kategorie": "safe",
+      "gesamtquote": 3.58,
+      "einsatz_euro": 11,
+      "beine": [
+        {
+          "spiel_id": "2026-07-01-eng-cod",
+          "markt": "England Sieg (90min)",
+          "quote": 1.27
+        },
+        {
+          "spiel_id": "2026-07-01-bel-sen",
+          "markt": "Belgien Doppelte Chance 1X",
+          "quote": 1.28
+        },
+        {
+          "spiel_id": "2026-07-01-usa-bih",
+          "markt": "Balogun trifft (Jederzeit)",
+          "quote": 2.2
+        }
+      ],
+      "begruendung": "3 Kern-Theses je Spiel: England-Klasse-Edge + Belgien-DC-Squad-Tiefe trotz Lukaku-Bank + Balogun-Stamm-9-Form. Layer-1 OK (1 Bein/Spiel). Gesamtquote 1.27*1.28*2.20 = 3.58x = oberes Ende Safe-Range. Einsatz 11€ (2% Kasse 550€). Single-Point-Risiko: England-Elfm-Wahnsinn ala GER/NED gestern (Lesson 06.30).",
+      "empfohlener_einsatz_prozent": 2.0
+    },
+    {
+      "id": "kombi-balance",
+      "name": "Balance-Kombi ~7.9x",
+      "kategorie": "balance",
+      "gesamtquote": 7.94,
+      "einsatz_euro": 4.4,
+      "beine": [
+        {
+          "spiel_id": "2026-07-01-eng-cod",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.65
+        },
+        {
+          "spiel_id": "2026-07-01-usa-bih",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.75
+        },
+        {
+          "spiel_id": "2026-07-01-bel-sen",
+          "markt": "Trossard trifft (Jederzeit)",
+          "quote": 2.75
+        }
+      ],
+      "begruendung": "Markt-Diversifikation zu Safe (Layer-2: kein Sieg/DC-Outcome doppelt). 2x Ueber-2.5-Goldgrube + STAR-AUSFALL-BACKUP-Trossard. Einsatz 4.40€ (0.8% Kasse). Late-Goal-Cluster-Lesson stuetzt Ueber-These.",
+      "empfohlener_einsatz_prozent": 0.8
+    },
+    {
+      "id": "kombi-risiko",
+      "name": "Risiko-Kombi ~15.5x",
+      "kategorie": "risk",
+      "gesamtquote": 15.49,
+      "einsatz_euro": 1.4,
+      "beine": [
+        {
+          "spiel_id": "2026-07-01-eng-cod",
+          "markt": "Bellingham trifft (Jederzeit)",
+          "quote": 2.2
+        },
+        {
+          "spiel_id": "2026-07-01-bel-sen",
+          "markt": "Doku trifft (Jederzeit)",
+          "quote": 3.2
+        },
+        {
+          "spiel_id": "2026-07-01-usa-bih",
+          "markt": "Pulisic trifft (Jederzeit)",
+          "quote": 2.2
+        }
+      ],
+      "begruendung": "Sekundaer-Torschuetzen aller 3 Spiele. Anti-Korrelation zur Safe-Kombi (Markt-Layer-2: keine Sieg/DC-Ueberlapp, keine Torschuetzen-Ueberlapp mit Safe). Layer-1 OK (1 Bein/Spiel). Bellingham+Doku+Pulisic beide Form/Speed-Potenzial. Einsatz 1.40€ (0.25% Kasse).",
+      "empfohlener_einsatz_prozent": 0.25
+    },
+    {
+      "id": "kombi-moonshot",
+      "name": "Moonshot-Kombi ~90x",
+      "kategorie": "moonshot",
+      "gesamtquote": 90.0,
+      "einsatz_euro": 0.55,
+      "beine": [
+        {
+          "spiel_id": "2026-07-01-eng-cod",
+          "markt": "Wissa trifft (Jederzeit)",
+          "quote": 5.0
+        },
+        {
+          "spiel_id": "2026-07-01-bel-sen",
+          "markt": "Mane trifft (Jederzeit)",
+          "quote": 4.0
+        },
+        {
+          "spiel_id": "2026-07-01-usa-bih",
+          "markt": "Dzeko trifft (Jederzeit)",
+          "quote": 4.5
+        }
+      ],
+      "begruendung": "Lotterie. Alle 3 Underdog-Torschuetzen: Wissa (Kongo-Talisman, 3/4 Tore Group) + Mane (Senegal-Kapitaen letzte WM) + Dzeko (Bosnien-40-Jahre-letzte-WM). Sieg-Outcome Underdogs NUR in Moonshot (Layer-2). Einsatz 0.55€ (0.1% Kasse). Spass-Tipp.",
+      "empfohlener_einsatz_prozent": 0.1,
+      "rechnung": "5.0 * 4.0 * 4.5 = 90.0"
+    }
+  ],
+  "lessons_angewandt": [
+    {
+      "lesson_id": "lesson-2026-06-30-r32-klassen-edge-vorsicht",
+      "titel": "K.O.-R32-Klassen-Edge-Sieg-Tipps eine Stufe runter (GER+NED per Elfm out)",
+      "quelle": "Lesson 06.30 (data/lessons.json) - GER 1.36-Sieg + NED 2.15-Sieg beide per Elfmeterschiessen raus",
+      "anwendung": "England-Sieg trotz Quote 1.27 NICHT SAFE sondern VALUE. USA-DC + Belgien-DC ebenfalls eine Kategorie konservativer."
+    },
+    {
+      "lesson_id": "lesson-2026-06-30-torschuetzen-r32-wackel-cap",
+      "titel": "WM-R32 Torschuetzen max VALUE statt SAFE",
+      "quelle": "Lesson 06.30 (auto-erkannter Verlust-Cluster R32)",
+      "anwendung": "Kane/Balogun als VALUE (Form-Edge klar). Bellingham/Pulisic/Trossard/Doku als WACKEL (Backup). Underdog-Torschuetzen (Wissa/Mane/Dzeko) im Moonshot statt Einzeltipps."
+    },
+    {
+      "lesson_id": "lesson-2026-07-01-star-ausfall-backup-lukaku",
+      "titel": "STAR-AUSFALL-BACKUP-Pflicht (CLAUDE.md-Regel): Lukaku Bank -> Trossard + Doku",
+      "quelle": "CLAUDE.md 04.05.-Regel: 'wenn Top-Stuermer rausfaellt, Backup-Torschuetzen PFLICHT' (analog Real ohne Mbappe -> Vinicius)",
+      "anwendung": "Trossard (2.75) + Doku (3.2) als WACKEL-Backup neben Belgien-DC-Hauptbein. Kein Lukaku-Torschuetzen-Tipp bei Bank-Status."
+    },
+    {
+      "lesson_id": "lesson-2026-06-27-late-goal-cluster",
+      "titel": "Late-Goal-Cluster: WM 10 Spiele in Folge mit 85er-Tor",
+      "quelle": "Lesson 06.27/06.29/06.30 + gestern Haaland 86.",
+      "anwendung": "Ueber-2.5-Tipps ENG-COD + USA-BIH als Value. Bei Sieg-Tipps Elfm-Wahnsinn-Warnung wie GER/NED."
+    },
+    {
+      "lesson_id": "lesson-2026-06-28-einwechslungs-boost",
+      "titel": "bet365-Einwechslungs-Boost bei Torschuetzen-Tipps (Sub zaehlt fuer Original)",
+      "quelle": "CLAUDE.md + Lesson 06.28 (Vlasic fuer Kramaric HIT)",
+      "anwendung": "Kane-Backup Watkins/Toney kaeme fuer Kane rein -> zaehlt. Balogun-Backup Pepi kaeme fuer Balogun -> zaehlt. De-Ketelaere -> Lukaku waere Boost fuer De-Ketelaere-Tipp (haben wir NICHT), aber Trossard-Backup waere z.B. Bakayoko."
+    },
+    {
+      "lesson_id": "lesson-2026-07-01-kasse-stufe-1",
+      "titel": "Kasse 550€ = Stufe 1, Einsaetze konservativ",
+      "quelle": "data/kasse.json - Stufe 1 (< 1000€) Einzel 1-2% / WACKEL 0.5% / Kombi-Skala 2-0.1%",
+      "anwendung": "Einzel VALUE = 7-9€. WACKEL = 2.75€. Safe-Kombi 11€. Balance 4.40€. Risiko 1.40€. Moonshot 0.55€."
+    }
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "einzeltipps_ergebnis": [
+    {
+      "id": "et-1",
+      "spiel_id": "2026-07-01-usa-bih",
+      "kategorie": "value",
+      "markt": "USA Doppelte Chance 1X",
+      "quote": 1.16,
+      "einsatz_euro": 9,
+      "begruendung": "USA Heim-Turnier-Druck + Opta 76.6% Advance + Klasse-Edge klar. Goldgrube 'Doppelte Chance 1X' +9.5% ROI / 84.6% Hitrate. VALUE statt SAFE wegen Lesson 06.30 K.O.-R32-Klassen-Edge-Sieg unzuverlaessig (GER+NED gestern per Elfm out). Einsatz 9€ (1.6% Kasse 550€).",
+      "empfohlener_einsatz_prozent": 1.6,
+      "rang": 1,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.16,
+      "kommentar": "USA gewann 2:0 = DC 1X gewonnen. Klassen-Edge realisiert.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-2",
+      "spiel_id": "2026-07-01-eng-cod",
+      "kategorie": "value",
+      "markt": "England Sieg (90min)",
+      "quote": 1.27,
+      "einsatz_euro": 9,
+      "begruendung": "England Crushing-Favorit (1.27 = -370 ML) gegen Kongo-Novum-K.O. Rice zurueck, Kane/Bellingham/Rashford/Saka fit. Goldgrube-Naehe Sieg-Klassen-Edge. VALUE statt SAFE wegen Lesson 06.30 R32-Klassen-Edge unzuverlaessig. Einsatz 9€ (1.6% Kasse).",
+      "empfohlener_einsatz_prozent": 1.6,
+      "rang": 2,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.27,
+      "kommentar": "England 2:1 nach 0:1-Rueckstand - Klassen-Edge validiert.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-3",
+      "spiel_id": "2026-07-01-bel-sen",
+      "kategorie": "value",
+      "markt": "Belgien Doppelte Chance 1X",
+      "quote": 1.28,
+      "einsatz_euro": 9,
+      "begruendung": "Belgien-Squad-Tiefe (Courtois/De-Bruyne/Doku/Trossard/Lukaku-Bank) klarer Vorteil gegen Senegal. Goldgrube 'DC 1X' +9.5% / 84.6%. VALUE wegen Lukaku-Bank-Toothless-Warnung + Lesson 06.30 K.O.-R32. Einsatz 9€ (1.6% Kasse).",
+      "empfohlener_einsatz_prozent": 1.6,
+      "rang": 3,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.28,
+      "kommentar": "Belgien-DC 1X gewann via 90-Min-Stand 2:2 (X). Tielemans-89.-Ausgleich rettet Tipp. AET-Winner irrelevant fuer DC.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-4",
+      "spiel_id": "2026-07-01-eng-cod",
+      "kategorie": "value",
+      "markt": "Kane trifft (Jederzeit)",
+      "quote": 1.72,
+      "einsatz_euro": 7,
+      "begruendung": "Kane 3 Turnier-Tore + Stamm-9er + 1.72 wahrscheinlichster Skorer laut bet365. Goldgrube 'Torschuetzen Jederzeit' +24.4% ROI / 50% Hitrate (bester Markt). PFLICHT-Torschuetze bei Heim-Crushing-Favorit-Profil. Einsatz 7€ (1.3% Kasse).",
+      "empfohlener_einsatz_prozent": 1.3,
+      "rang": 4,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.72,
+      "kommentar": "Kane Doppelpack 75./86. - Goldgrube-Torschuetzen.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-5",
+      "spiel_id": "2026-07-01-usa-bih",
+      "kategorie": "value",
+      "markt": "Balogun trifft (Jederzeit)",
+      "quote": 2.2,
+      "einsatz_euro": 7,
+      "begruendung": "Balogun 2 Turnier-Tore + Stamm-9er. Goldgrube 'Torschuetzen' +24.4% / 50%. PFLICHT-Torschuetze bei Heim-Klarer-Favorit-Profil. Einsatz 7€ (1.3% Kasse).",
+      "empfohlener_einsatz_prozent": 1.3,
+      "rang": 5,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.2,
+      "kommentar": "Balogun-45.-Halbzeit-Toroeffner. 3. Turnier-Tor.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-6",
+      "spiel_id": "2026-07-01-eng-cod",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.65,
+      "einsatz_euro": 7,
+      "begruendung": "Goldgrube 'Ueber 2.5 Tore' +26.7% / 61.1%. England Group-Schnitt >2 Tore + wahrscheinliches 2:0/3:0/3:1. Late-Goal-Cluster-Lesson. Einsatz 7€ (1.3% Kasse).",
+      "empfohlener_einsatz_prozent": 1.3,
+      "rang": 6,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.65,
+      "kommentar": "Endstand 2:1 = 3 Tore = Ueber 2.5 gewonnen.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-7",
+      "spiel_id": "2026-07-01-usa-bih",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.75,
+      "einsatz_euro": 7,
+      "begruendung": "Goldgrube +26.7% / 61.1%. USA-Sturm-Trio + Bosnien-Sturm-Duo Dzeko+Demirovic = beide offensiv. Heim-Druck + Late-Goal-Cluster-Lesson. Einsatz 7€ (1.3% Kasse).",
+      "empfohlener_einsatz_prozent": 1.3,
+      "rang": 7,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Endstand 2:0 = nur 2 Tore. Ueber-2.5-Goldgrube gebrochen an USA-Rot-Karten-Effekt.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-8",
+      "spiel_id": "2026-07-01-eng-cod",
+      "kategorie": "wackel",
+      "markt": "Bellingham trifft (Jederzeit)",
+      "quote": 2.2,
+      "einsatz_euro": 2.75,
+      "begruendung": "Bellingham 2 Turnier-Tore (Kroatien+Panama) + Racing-Post-Value-Pick. Backup-Torschuetze neben Kane. WACKEL wegen Lesson 06.30 R32-Torschuetzen-Cluster + Lesson 06.28-Highlight-Deakt. Einsatz 2.75€ (0.5% Kasse).",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 8,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Bellingham blieb ohne Tor + nicht ausgewechselt - kein Boost.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-9",
+      "spiel_id": "2026-07-01-bel-sen",
+      "kategorie": "wackel",
+      "markt": "Trossard trifft (Jederzeit)",
+      "quote": 2.75,
+      "einsatz_euro": 2.75,
+      "begruendung": "STAR-AUSFALL-BACKUP (Lukaku Bank): Trossard-Arsenal-Form auf linkem Fluegel. WACKEL wegen Volumen-Risiko. Einsatz 2.75€ (0.5% Kasse).",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 9,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Trossard-Assist zum Ausgleich aber kein eigenes Tor. Nicht ausgewechselt - kein Boost.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-10",
+      "spiel_id": "2026-07-01-usa-bih",
+      "kategorie": "wackel",
+      "markt": "Pulisic trifft (Jederzeit)",
+      "quote": 2.2,
+      "einsatz_euro": 2.75,
+      "begruendung": "Pulisic 0 Turnier-Tore in 77 Min Spielzeit = Nachhol-Bedarf + Bay-Area-Heim-Publikum. Backup-Torschuetze neben Balogun. WACKEL wegen fehlender Form-Edge (vs Balogun 2 Tore). Einsatz 2.75€ (0.5% Kasse).",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 10,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Pulisic ohne Tor + 88.-Sub Pepi traf ebenfalls nicht - kein Boost.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-11",
+      "spiel_id": "2026-07-01-bel-sen",
+      "kategorie": "wackel",
+      "markt": "Doku trifft (Jederzeit)",
+      "quote": 3.2,
+      "einsatz_euro": 2.75,
+      "begruendung": "STAR-AUSFALL-BACKUP #2 (Lukaku Bank): Doku-Man-City-Speed. Beide-Fluegel-Tipp-Verteilung mit Trossard. WACKEL Standard. Einsatz 2.75€ (0.5% Kasse).",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 11,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Doku ohne Tor + 56.-Sub Lukebakio traf ebenfalls nicht - kein Boost.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "kombi-safe",
+      "status": "gewonnen",
+      "gesamtquote": 3.58,
+      "gewinn_faktor": 2.58,
+      "kommentar": "Alle 3 Beine gewonnen: England-Sieg (2:1) + Belgien-DC-1X (via 2:2-90min-X) + Balogun-Tor (45.). Gewinn 11€ * (3.58-1) = +28.38€."
+    },
+    {
+      "kombi_id": "kombi-balance",
+      "status": "verloren",
+      "gesamtquote": 7.94,
+      "gewinn_faktor": -1.0,
+      "kommentar": "Ueber 2.5 USA verloren (2:0=2 Tore) + Trossard-Tipp verloren. Ueber 2.5 ENG gewann isoliert. Kombi zerstoert."
+    },
+    {
+      "kombi_id": "kombi-risiko",
+      "status": "verloren",
+      "gesamtquote": 15.49,
+      "gewinn_faktor": -1.0,
+      "kommentar": "Alle 3 Sekundaer-Torschuetzen (Bellingham/Doku/Pulisic) blieben ohne Tor. STAR-AUSFALL-BACKUP-Fluegel-These flaechendeckend widerlegt."
+    },
+    {
+      "kombi_id": "kombi-moonshot",
+      "status": "verloren",
+      "gesamtquote": 90.0,
+      "gewinn_faktor": -1.0,
+      "kommentar": "Underdog-Torschuetzen: Wissa nicht (Cipenga traf 7.) + Mane nicht (Diarra+Sarr trafen) + Dzeko nicht (Bosnien 0 Tore). Alle 3 Beine verloren."
+    }
+  ],
+  "ausgewertet_am": "2026-07-02T07:11:22+00:00",
+  "gesamt_bilanz": {
+    "einzeltipps": {
+      "anzahl": 11,
+      "gewonnen": 6,
+      "verloren": 5,
+      "einsatz": 66.0,
+      "netto": 6.38,
+      "roi_prozent": 9.7
+    },
+    "kombis": {
+      "anzahl": 4,
+      "gewonnen": 1,
+      "verloren": 3,
+      "einsatz": 17.35,
+      "netto": 22.03,
+      "roi_prozent": 127.0
+    },
+    "total": {
+      "einsatz": 83.35,
+      "netto": 28.41,
+      "roi_prozent": 34.1
+    }
+  }
+}
