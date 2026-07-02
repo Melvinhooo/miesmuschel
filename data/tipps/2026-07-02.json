@@ -1,7 +1,7 @@
 {
   "datum": "2026-07-02",
-  "erstellt_am": "2026-07-02T15:15:00+02:00",
-  "hinweis": "Watchdog-Recovery 15:15 - Hauptroutine 16:00 noch nicht durchgelaufen (Trigger frueher als vorgesehen). WM 2026 Round-of-32 finaler Donnerstag: 3 Spiele (ESP-AUT 21:00, POR-CRO 01:00, SUI-ALG 05:00). NBA-Finals beendet (Knicks 4-1), Vereins-Fussball Saison-Pause bis August. Kasse-Stufe 1 (550EUR, Ziel 1000). Lesson 06.30 Klassen-Edge-Sieg-Schock-Cluster (GER 1.36-Elfm-out + NED 2.15-Elfm-out an einem Tag) erzwingt Kategorie-Downgrade auf ALLEN R32-Sieg-Tipps auf max VALUE. WM ist nicht in Liga-Goldgruben.json - keine SAFE-DC. Fokus auf Goldgruben-Maerkte Ueber/Unter 2.5 (+26.7% / +22.6% ROI) + Torschuetzen (+24.4% ROI, bester Markt im System) + BTTS JA (+16.9% ROI).",
+  "erstellt_am": "2026-07-02T15:31:00+02:00",
+  "hinweis": "Master-Tipps-Routine Mo-Fr Slot (Nachlauf nach Watchdog 15:15). WM 2026 Round-of-32 finaler Donnerstag: 3 Spiele (ESP-AUT 21:00, POR-CRO 01:00, SUI-ALG 05:00). NBA-Finals beendet (Knicks 4-1), Vereins-Fussball Saison-Pause bis August. Kasse-Stufe 1 (550EUR, Ziel 1000). Lesson 06.30 Klassen-Edge-Sieg-Schock-Cluster (GER 1.36-Elfm-out + NED 2.15-Elfm-out an einem Tag) erzwingt Kategorie-Downgrade auf ALLEN R32-Sieg-Tipps auf max VALUE. WM ist nicht in Liga-Goldgruben.json - keine SAFE-DC. Fokus auf Goldgruben-Maerkte Ueber/Unter 2.5 (+26.7% / +22.6% ROI) + Torschuetzen (+24.4% ROI, bester Markt im System) + BTTS JA (+16.9% ROI).",
   "spiele": [
     {
       "id": "2026-07-02-esp-aut",
