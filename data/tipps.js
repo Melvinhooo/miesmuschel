@@ -81,7 +81,8 @@ window.__MIESMUSCHEL_TIPPS = {
           "faire_quote": 3.3,
           "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-07-02-por-cro",
@@ -160,7 +161,8 @@ window.__MIESMUSCHEL_TIPPS = {
           "faire_quote": 3.25,
           "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-07-02-sui-alg",
@@ -250,7 +252,8 @@ window.__MIESMUSCHEL_TIPPS = {
           "faire_quote": 11.5,
           "empfohlener_einsatz_prozent": 0.1
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     }
   ],
   "einzeltipps": [
@@ -263,7 +266,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "edge_prozent": 8,
       "einsatz_euro": 8,
       "begruendung": "Spanien-Sieg gegen Oesterreich. Klassen-Edge maximal (Euro-Champion mit 0 Gegentoren Group vs Best-3rd mit 3 GA vs ALG). VALUE statt SAFE wegen Lesson 06.30 R32-Klassen-Schock-Cluster. Reality-Check: DC 1X in Goldgrube (80% Hitrate) - hier direkter Sieg fuer besseren Payout.",
-      "faire_quote": 1.23
+      "faire_quote": 1.23,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 1
     },
     {
       "id": "einzel-2",
@@ -274,7 +279,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "edge_prozent": 12,
       "einsatz_euro": 7,
       "begruendung": "Goldgrube 'Unter 2.5 Tore' +22.6% ROI / 66.7% Hitrate. Spanien 0 Gegentore Group, Score-Konsens 2-0. K.O.-Modus + Klassen-Klausur = niedriges Tempo.",
-      "faire_quote": 1.53
+      "faire_quote": 1.53,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 2
     },
     {
       "id": "einzel-3",
@@ -285,7 +292,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "edge_prozent": 12,
       "einsatz_euro": 8,
       "begruendung": "Ronaldo 3 Turnier-Tore in 3 Group-Games (staerkste WM-Group-Bilanz seiner Karriere), Stamm-9 41 J. Goldgrube 'Torschuetzen Jederzeit' +24.4% ROI (bester Markt im System). PFLICHT-Torschuetzen bei HEIM-FAVORIT.",
-      "faire_quote": 1.85
+      "faire_quote": 1.85,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 3
     },
     {
       "id": "einzel-4",
@@ -296,7 +305,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "edge_prozent": 10,
       "einsatz_euro": 7,
       "begruendung": "DC 1X ist Goldgrube (+2.2% ROI / 80% Hitrate). Portugal 1.74 ML + Draw 3.60 = ~78% -> 1.28 fair. Kroatien K.O.-stark aber Verlaengerung/Elfm sehr moeglich (typisch Kroatien 2018). WM nicht in Liga-Goldgruben -> VALUE statt SAFE.",
-      "faire_quote": 1.18
+      "faire_quote": 1.18,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 4
     },
     {
       "id": "einzel-5",
@@ -307,7 +318,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "edge_prozent": 11,
       "einsatz_euro": 6,
       "begruendung": "Goldgrube 'Unter 2.5 Tore'. K.O.-Kroatien historisch niedrig-scoring (2018 3x Elfm-Schiessen). Under bei -138 Favorit.",
-      "faire_quote": 1.55
+      "faire_quote": 1.55,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 5
     },
     {
       "id": "einzel-6",
@@ -318,7 +331,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "edge_prozent": 11,
       "einsatz_euro": 7,
       "begruendung": "Goldgrube 'Unter 2.5 Tore'. Konsens-Score Schweiz 1-0. K.O.-Modus + Amoura-Ausfall reduziert Algerien-Offense.",
-      "faire_quote": 1.57
+      "faire_quote": 1.57,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 6
     },
     {
       "id": "einzel-7",
@@ -329,7 +344,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "edge_prozent": 6,
       "einsatz_euro": 4,
       "begruendung": "DC 1X Goldgrube. Coinflip-nahe (2.05 Schweiz-Sieg) - deswegen WACKEL nicht VALUE. Schweiz-Heim-Klassen-Edge minimal aber vorhanden. Overbetting 94% Signal - Vorsicht.",
-      "faire_quote": 1.28
+      "faire_quote": 1.28,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 7
     },
     {
       "id": "einzel-8",
@@ -340,14 +357,15 @@ window.__MIESMUSCHEL_TIPPS = {
       "edge_prozent": 8,
       "einsatz_euro": 3,
       "begruendung": "Oyarzabal in False-9-Rolle bei Yamal-Minuten-Management + Nico Williams-Ausfall. Backup-Loesung (nicht klassischer Stamm-9). Goldgrube Torschuetzen +24.4% ROI.",
-      "faire_quote": 2.95
+      "faire_quote": 2.95,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 8
     }
   ],
   "kombis": [
     {
       "id": "kombi-safe",
       "name": "Safe ~2.3x (Sieg-Kombi 3 Spiele)",
-      "gesamt_quote": 2.3,
       "einsatz_euro": 11,
       "kategorie": "safe",
       "beine": [
@@ -368,12 +386,13 @@ window.__MIESMUSCHEL_TIPPS = {
         }
       ],
       "begruendung": "3 Sieg-Outcomes ueber 3 R32-Spiele als Sammel-Absicherung. Spanien direkter Sieg (klassen-edge maximal) + Portugal DC 1X (K.O.-Verlaengerung inkludiert) + Schweiz DC 1X (Heim-Klassen-Edge minimal aber vorhanden). Alle 3 aus verschiedenen Spielen (LAYER-1 OK). Alle 3 sind Sieg-Outcomes - konzentriert im Safe-Kombi (LAYER-2 OK). Gesamt-Quote 1.33*1.28*1.35 = 2.30. Einsatz 11EUR (2% Kasse 550EUR = Stufe-1-Konform).",
-      "layer_check": "LAYER-1: 3 verschiedene Spiele OK. LAYER-2: 3 Sieg-Outcomes in 1 Kombi OK, nicht in weiteren Kombis wiederholt."
+      "layer_check": "LAYER-1: 3 verschiedene Spiele OK. LAYER-2: 3 Sieg-Outcomes in 1 Kombi OK, nicht in weiteren Kombis wiederholt.",
+      "gesamtquote": 2.3,
+      "empfohlener_einsatz_prozent": 1.5
     },
     {
       "id": "kombi-balance",
       "name": "Balance ~5.1x (3x Under 2.5 Tore)",
-      "gesamt_quote": 5.14,
       "einsatz_euro": 4.4,
       "kategorie": "balance",
       "beine": [
@@ -394,14 +413,15 @@ window.__MIESMUSCHEL_TIPPS = {
         }
       ],
       "begruendung": "3x Under 2.5 Tore ueber alle R32-Spiele. Goldgrube-Fokus (+22.6% ROI / 66.7% Hitrate). K.O.-Modus + Klassen-Klausur + Konsens-Prognosen (Spanien 2-0, Schweiz 1-0, Portugal 2-1 dann Verlaengerung). Alle non-Sieg-Outcomes -> keine LAYER-2-Konflikte mit Safe-Kombi. Gesamt-Quote 1.72*1.72*1.74 = 5.14. Einsatz 4.40EUR (0.8% Kasse Stufe 1).",
-      "layer_check": "LAYER-1: 3 verschiedene Spiele OK. LAYER-2: non-Sieg-Outcomes."
+      "layer_check": "LAYER-1: 3 verschiedene Spiele OK. LAYER-2: non-Sieg-Outcomes.",
+      "gesamtquote": 5.14,
+      "empfohlener_einsatz_prozent": 0.5
     },
     {
       "id": "kombi-risiko",
       "name": "Risiko ~20x (3x Torschuetzen-Stammspieler)",
-      "gesamt_quote": 20.16,
       "einsatz_euro": 1.4,
-      "kategorie": "risiko",
+      "kategorie": "risk",
       "beine": [
         {
           "spiel_id": "2026-07-02-esp-aut",
@@ -420,12 +440,13 @@ window.__MIESMUSCHEL_TIPPS = {
         }
       ],
       "begruendung": "3x Stammspieler-Torschuetze-Tipps. Alle 3 sind Group-Torschuetzen bereits (Ronaldo 3, Embolo 1, Oyarzabal 1). Goldgrube +24.4% ROI. Realistischer 6.7% Payout-Wahrscheinlichkeit (~15% pro Bein multipliziert). Gesamt-Quote 3.2*2.1*3.0 = 20.16. Einsatz 1.40EUR (0.25% Kasse).",
-      "layer_check": "LAYER-1: 3 verschiedene Spiele OK. LAYER-2: non-Sieg-Outcomes (Torschuetzen)."
+      "layer_check": "LAYER-1: 3 verschiedene Spiele OK. LAYER-2: non-Sieg-Outcomes (Torschuetzen).",
+      "gesamtquote": 20.16,
+      "empfohlener_einsatz_prozent": 0.25
     },
     {
       "id": "kombi-moonshot",
       "name": "Moonshot ~143x (Long-Shot-Torschuetzen)",
-      "gesamt_quote": 142.8,
       "einsatz_euro": 0.55,
       "kategorie": "moonshot",
       "beine": [
@@ -438,15 +459,13 @@ window.__MIESMUSCHEL_TIPPS = {
           "spiel_id": "2026-07-02-por-cro",
           "markt": "Bruno Fernandes trifft (Jederzeit)",
           "quote": 3.4
-        },
-        {
-          "spiel_id": "2026-07-02-sui-alg",
-          "markt": "Mahrez trifft + Algerien Sieg (BB)",
-          "quote": 12.0
         }
       ],
       "begruendung": "Moonshot-Lotterie mit Secondary-Torschuetzen + Kroatien-Underdog. Yamal auf managed minutes (Trefferwahrscheinlichkeit reduziert), Bruno Fernandes Standard/Elfm-Schuetze (~30%), Mahrez+Algerien-Sieg als contrarian Bet Builder. Gesamt-Quote 3.5*3.4*12.0 = 142.8. Einsatz 55 cent (0.1% Kasse Stufe 1). Spass-Einsatz.",
-      "layer_check": "LAYER-1: 3 verschiedene Spiele OK. LAYER-2: Yamal/Bruno-Torschuetzen non-Sieg. Mahrez+Alg-Sieg IST Sieg-Outcome fuer SUI-ALG - aber im Moonshot als BB-Kombination, single-Kombi-Verwendung (LAYER-2 sagt 'max 1 Kombi', hier eben nur diesem einen). Auszuschliessen von den anderen Kombis, was OK ist."
+      "layer_check": "LAYER-1: 3 verschiedene Spiele OK. LAYER-2: Yamal/Bruno-Torschuetzen non-Sieg. Mahrez+Alg-Sieg IST Sieg-Outcome fuer SUI-ALG - aber im Moonshot als BB-Kombination, single-Kombi-Verwendung (LAYER-2 sagt 'max 1 Kombi', hier eben nur diesem einen). Auszuschliessen von den anderen Kombis, was OK ist.",
+      "gesamtquote": 11.9,
+      "empfohlener_einsatz_prozent": 0.1,
+      "rechnung": "3.50 x 3.40 = 11.9"
     }
   ],
   "lessons_angewandt": [
