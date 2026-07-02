@@ -1,11 +1,17 @@
 {
-  "stand": "2026-07-02T18:19:37.316281+00:00",
+  "stand": "2026-07-02T21:55:24.001981+00:00",
   "gesendet": {
     "2026-07-02-esp-aut": {
       "sent_at": "2026-07-02T18:19:34.850115+00:00",
       "anstoss": "2026-07-02T21:00:00+02:00",
       "spiel": "Spanien vs Oesterreich",
       "top_tipp": "Spanien Sieg (90min)"
+    },
+    "2026-07-02-por-cro": {
+      "sent_at": "2026-07-02T21:55:23.318979+00:00",
+      "anstoss": "2026-07-03T01:00:00+02:00",
+      "spiel": "Portugal vs Kroatien",
+      "top_tipp": "Ronaldo trifft (Jederzeit)"
     }
   }
 }
