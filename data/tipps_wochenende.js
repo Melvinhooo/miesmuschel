@@ -56,19 +56,20 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
         {
           "id": "2026-07-04-kan-mar-t2",
           "markt_typ": "Torschuetzen Jederzeit",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "einsatz_euro": 5.5,
           "edge_prozent": 8.0,
           "quote": 3.0,
           "markt": "Ismael Saibari trifft jederzeit",
           "faire_quote": 2.7,
           "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "Saibari 3 Tore in 3 Gruppenspielen + PSO-Held gegen NED = klarer Form-Lauf. CLAUDE.md Form-Edge-Pflicht (2+ Tore in 3 = Form-Signal) erfuellt. Reality-Check statistik.json: Torschuetzen Jederzeit = Goldgrube (+24.4% ROI). Marokko-Attack rotiert nicht vor R16 (Rest-Belastung ok), Saibari als 10er-Position mit Schusszone-zentral. Einwechslungs-Boost-Sicherung (CLAUDE.md): falls fuer En-Nesyri-Sub, dessen Tore zaehlen fuer Saibari.",
+          "begruendung": "Saibari 3 Tore in 3 Gruppenspielen + PSO-Held gegen NED = klarer Form-Lauf. CLAUDE.md Form-Edge-Pflicht (2+ Tore in 3 = Form-Signal) erfuellt. Reality-Check statistik.json: Torschuetzen Jederzeit = Goldgrube (+24.4% ROI). Marokko-Attack rotiert nicht vor R16 (Rest-Belastung ok), Saibari als 10er-Position mit Schusszone-zentral. Einwechslungs-Boost-Sicherung (CLAUDE.md): falls fuer En-Nesyri-Sub, dessen Tore zaehlen fuer Saibari. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "lessons_referenz": [
             "Form-Edge-Pflicht CLAUDE.md: 3 Tore in 3 Spielen = eindeutiges Signal",
             "Torschuetzen Jederzeit Goldgrube (+24.4% ROI)",
             "Einwechslungs-Boost-Sicherung (CLAUDE.md bet365-Sonderregel)"
-          ]
+          ],
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "2026-07-04-kan-mar-t3",
@@ -125,20 +126,21 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
         {
           "id": "2026-07-04-fra-par-t1",
           "markt_typ": "Torschuetzen Jederzeit",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "einsatz_euro": 11.0,
           "edge_prozent": 10.0,
           "quote": 1.6,
           "markt": "Kylian Mbappe trifft jederzeit",
           "faire_quote": 1.45,
           "empfohlener_einsatz_prozent": 2.0,
-          "begruendung": "Mbappe 6 Tore in 4 WM-Spielen (1.5/Spiel) = Turnier-Top-Schuetze + Form-Peak. Reality-Check statistik.json: Torschuetzen Jederzeit = Goldgrube (+24.4% ROI, n=14). CLAUDE.md Form-Edge-Pflicht erfuellt (2+ Tore in 3 = klares Signal, hier 4-fach uebererfuellt). Paraguay-Defense muede nach 130 Min + PSO gegen GER, Diego-Gomez-Cluster weiter aktiv. Einwechslungs-Boost-Sicherung: falls Mbappe fuer Barcola-Sub, dessen Tore zaehlen (CLAUDE.md bet365-Regel). Bewusst VALUE statt SAFE weil WM-R16 nicht Liga-Goldgrube (Mapper-Hebel C).",
+          "begruendung": "Mbappe 6 Tore in 4 WM-Spielen (1.5/Spiel) = Turnier-Top-Schuetze + Form-Peak. Reality-Check statistik.json: Torschuetzen Jederzeit = Goldgrube (+24.4% ROI, n=14). CLAUDE.md Form-Edge-Pflicht erfuellt (2+ Tore in 3 = klares Signal, hier 4-fach uebererfuellt). Paraguay-Defense muede nach 130 Min + PSO gegen GER, Diego-Gomez-Cluster weiter aktiv. Einwechslungs-Boost-Sicherung: falls Mbappe fuer Barcola-Sub, dessen Tore zaehlen (CLAUDE.md bet365-Regel). Bewusst VALUE statt SAFE weil WM-R16 nicht Liga-Goldgrube (Mapper-Hebel C). [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "lessons_referenz": [
             "Torschuetzen Jederzeit Goldgrube (+24.4% ROI, n=14)",
             "Form-Edge-Peak: 6 Tore in 4 Spielen (1.5/Spiel)",
             "Einwechslungs-Boost-Sicherung",
             "Mapper-Hebel C: WM-R16 keine Liga-Goldgrube -> kein SAFE"
-          ]
+          ],
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "2026-07-04-fra-par-t2",
@@ -248,20 +250,21 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
         {
           "id": "2026-07-05-bra-nor-t2",
           "markt_typ": "Torschuetzen Jederzeit",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "einsatz_euro": 11.0,
           "edge_prozent": 8.0,
           "quote": 2.5,
           "markt": "Vinicius Junior trifft jederzeit",
           "faire_quote": 2.2,
           "empfohlener_einsatz_prozent": 2.0,
-          "begruendung": "Vinicius 4 Tore in 3 Gruppenspielen + R32-Form fortgesetzt = Golden-Boot-Race-Fuehrer mit Mbappe. Reality-Check statistik.json: Torschuetzen Jederzeit = Goldgrube (+24.4% ROI). CLAUDE.md Form-Edge-Pflicht erfuellt (4 Tore in 3 klares Signal). Norwegen-Defense hoch-Linie (Haaland-Aufbau) - perfekt fuer Vinicius-Dribbel-Konter. Einwechslungs-Boost-Sicherung (CLAUDE.md): falls Vinicius fuer Rodrygo/Endrick, deren Tore zaehlen.",
+          "begruendung": "Vinicius 4 Tore in 3 Gruppenspielen + R32-Form fortgesetzt = Golden-Boot-Race-Fuehrer mit Mbappe. Reality-Check statistik.json: Torschuetzen Jederzeit = Goldgrube (+24.4% ROI). CLAUDE.md Form-Edge-Pflicht erfuellt (4 Tore in 3 klares Signal). Norwegen-Defense hoch-Linie (Haaland-Aufbau) - perfekt fuer Vinicius-Dribbel-Konter. Einwechslungs-Boost-Sicherung (CLAUDE.md): falls Vinicius fuer Rodrygo/Endrick, deren Tore zaehlen. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "lessons_referenz": [
             "Torschuetzen Jederzeit Goldgrube (+24.4% ROI, n=14)",
             "Form-Edge-Peak (4 Tore in 3)",
             "Norwegen-Hoch-Linie erzeugt Vinicius-Konter-Raum",
             "Einwechslungs-Boost-Sicherung"
-          ]
+          ],
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "2026-07-05-bra-nor-t3",
@@ -300,7 +303,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
         {
           "id": "2026-07-05-bra-nor-t5",
           "markt_typ": "Torschuetzen Jederzeit",
-          "kategorie": "risiko",
+          "kategorie": "risk",
           "einsatz_euro": 1.4,
           "edge_prozent": 3.0,
           "quote": 3.5,
@@ -408,7 +411,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
         {
           "id": "2026-07-05-mex-eng-bellingham-anytime",
           "markt_typ": "Torschuetzen Jederzeit",
-          "kategorie": "risiko",
+          "kategorie": "risk",
           "einsatz_euro": 1.4,
           "edge_prozent": 2.0,
           "quote": 6.0,
@@ -432,7 +435,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
       "spiel": "Frankreich - Paraguay (WM R16)",
       "tipp_id": "2026-07-04-fra-par-t1",
       "markt_typ": "Torschuetzen Jederzeit",
-      "kategorie": "value",
+      "kategorie": "wackel",
       "einsatz_euro": 11.0,
       "quote": 1.6,
       "markt": "Kylian Mbappe trifft jederzeit",
@@ -504,7 +507,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
       "spiel": "Brasilien - Norwegen (WM R16)",
       "tipp_id": "2026-07-05-bra-nor-t2",
       "markt_typ": "Torschuetzen Jederzeit",
-      "kategorie": "value",
+      "kategorie": "wackel",
       "einsatz_euro": 11.0,
       "quote": 2.5,
       "markt": "Vinicius Junior trifft jederzeit",
@@ -516,7 +519,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
       "spiel": "Kanada - Marokko (WM R16)",
       "tipp_id": "2026-07-04-kan-mar-t2",
       "markt_typ": "Torschuetzen Jederzeit",
-      "kategorie": "value",
+      "kategorie": "wackel",
       "einsatz_euro": 5.5,
       "quote": 3.0,
       "markt": "Ismael Saibari trifft jederzeit",
@@ -617,7 +620,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
     },
     {
       "name": "Risiko-Kombi 29.02x",
-      "kategorie": "risiko",
+      "kategorie": "risk",
       "einsatz_euro": 1.4,
       "empfohlener_einsatz_prozent": 0.25,
       "moeglicher_gewinn_euro": 40.63,
