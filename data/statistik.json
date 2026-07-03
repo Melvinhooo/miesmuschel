@@ -1,5 +1,5 @@
 {
-  "letzte_berechnung": "2026-07-02T07:14:31+00:00",
+  "letzte_berechnung": "2026-07-03T07:10:29+00:00",
   "gesamt": {
     "tipps": 474,
     "gewonnen": 266,
@@ -5296,6 +5296,125 @@
     }
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-07-02",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "Safe ~2.3x (Sieg-Kombi 3 Spiele)",
+          "kategorie": "safe",
+          "gesamtquote": 2.3,
+          "einsatz_prozent": 1.5,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Spanien Sieg (90min)",
+              "quote": 1.33,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Portugal Doppelte Chance 1X",
+              "quote": 1.28,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Schweiz Doppelte Chance 1X",
+              "quote": 1.35,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance ~5.1x (3x Under 2.5 Tore)",
+          "kategorie": "balance",
+          "gesamtquote": 5.14,
+          "einsatz_prozent": 0.5,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.72,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.72,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.74,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko ~20x (3x Torschuetzen-Stammspieler)",
+          "kategorie": "risk",
+          "gesamtquote": 20.16,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Oyarzabal trifft (Jederzeit)",
+              "quote": 3.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ronaldo trifft (Jederzeit)",
+              "quote": 2.1,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Embolo trifft (Jederzeit)",
+              "quote": 3.0,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot ~143x (Long-Shot-Torschuetzen)",
+          "kategorie": "moonshot",
+          "gesamtquote": 11.9,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Yamal trifft (Jederzeit)",
+              "quote": 3.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Bruno Fernandes trifft (Jederzeit)",
+              "quote": 3.4,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-07-01",
       "gesamt": {
