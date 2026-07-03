@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS = {
+{
   "datum": "2026-07-03",
   "erstellt_am": "2026-07-03T15:20:00+02:00",
   "hinweis": "WATCHDOG-RECOVERY 15:20 Berlin (Hauptroutine 16:00 noch nicht durch, aber Guard hat kein data/tipps/2026-07-03.json gefunden - hier vorgezogen). WM 2026 Round-of-32 letzter Tag: 2 Spiele - ARG-Kap Verde 00:00 CEST 04.07 in Miami + COL-GHA 03:30 CEST 04.07 in Kansas City. Beide Anstoss ueberschneiden in die Nacht, aber Berlin-Sicht 03.07 (Freitag) fuer Recherche + Einzahlung vor 22:00 CEST. NBA-Finals beendet (Knicks 4-1), Vereins-Fussball Saison-Pause bis August. Kasse Stufe 1 (550EUR, 55% Fortschritt zu 1000EUR Ziel). Torschuetzen-Jederzeit-Goldgrube (+24.4% ROI) + Ueber/Unter 2.5 (Goldgrube +22-26%) im Fokus. Lesson 06.30 R32-Klassen-Edge-Downgrade weiter aktiv, aber Lesson 07.02 REVISION: 01.07. + 02.07. haben ALLE 6 R32-Klassen-Edge-Favoriten regulaer 90min-Siege geliefert (FRA-SWE 3:0, CIV-NOR 2:1, MEX-ECU 2:0, ESP-AUT 3:0, POR-CRO 2:1 via Bruno-Boost-Rettung, SUI-ALG 2:0). Sieg-Tipps auf R32-Favoriten bleiben trotzdem max VALUE (WM nicht in liga_goldgruben.json). Spread/Handicap ist Bluter (ROI -10.5%) - max WACKEL.",
@@ -359,4 +358,4 @@ window.__MIESMUSCHEL_TIPPS = {
     "Kasse-Stufe-1-Einhaltung (550EUR, 55% zu 1000EUR): alle Einzel-Value 1-2% Kasse (5.50-11EUR), Wackel 0.5% (2.75EUR), Kombis Safe 2%/Balance 0.8%/Risiko 0.25%/Moonshot 0.1%. Gesamt-Einsatz Einzeltipps 60EUR + Kombis 17.35EUR = 77.35EUR (14% Kasse) - konservativ."
   ],
   "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
-};
+}
