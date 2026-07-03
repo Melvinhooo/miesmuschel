@@ -34,61 +34,9 @@
         "Houston Hitze ~34°C + hohe LF Anfang Juli, klimatische Doppelbelastung",
         "H2H Marokko ungeschlagen (4x), zuletzt WM 2022 Gruppenphase MAR 2:1"
       ],
-      "tipps": [
-        {
-          "id": "2026-07-04-kan-mar-t1",
-          "markt_typ": "Spiel-Sieg",
-          "kategorie": "value",
-          "einsatz_euro": 11.0,
-          "edge_prozent": 6.0,
-          "quote": 1.8,
-          "markt": "Marokko Sieg (90 Min)",
-          "faire_quote": 1.65,
-          "empfohlener_einsatz_prozent": 2.0,
-          "begruendung": "Marokko 1.80 = 55.6% implizit. WM-2022-HF-Erfahrung + Form-Edge (Saibari 3/3) + technische Ueberlegenheit gegen physisch-emotionalen Kanada-Ansatz. Sharp-fair eher 60-63%. 2:0-Insurance gilt fuer WM (CLAUDE.md FIFA-Aktionsregel) - bei zwischenzeitlich 2:0+ ist Tipp durch, egal wie's endet. WM-R16 nicht Liga-Goldgrube -> Mapper-Hebel C: bewusst VALUE statt SAFE. Reality-Check statistik.json: WM-KO-Tipps mit reinem Sieg-Angle positiv (Vortags-Brasilien-Sieg gewonnen).",
-          "lessons_referenz": [
-            "Mapper-Hebel C: WM-R16 keine Liga-Goldgrube -> kein SAFE",
-            "2:0-Insurance gilt fuer WM (CLAUDE.md)",
-            "H2H MAR ungeschlagen 4x - Klassen-Edge historisch bestaetigt"
-          ]
-        },
-        {
-          "id": "2026-07-04-kan-mar-t2",
-          "markt_typ": "Torschuetzen Jederzeit",
-          "kategorie": "wackel",
-          "einsatz_euro": 5.5,
-          "edge_prozent": 8.0,
-          "quote": 3.0,
-          "markt": "Ismael Saibari trifft jederzeit",
-          "faire_quote": 2.7,
-          "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "Saibari 3 Tore in 3 Gruppenspielen + PSO-Held gegen NED = klarer Form-Lauf. CLAUDE.md Form-Edge-Pflicht (2+ Tore in 3 = Form-Signal) erfuellt. Reality-Check statistik.json: Torschuetzen Jederzeit = Goldgrube (+24.4% ROI). Marokko-Attack rotiert nicht vor R16 (Rest-Belastung ok), Saibari als 10er-Position mit Schusszone-zentral. Einwechslungs-Boost-Sicherung (CLAUDE.md): falls fuer En-Nesyri-Sub, dessen Tore zaehlen fuer Saibari. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
-          "lessons_referenz": [
-            "Form-Edge-Pflicht CLAUDE.md: 3 Tore in 3 Spielen = eindeutiges Signal",
-            "Torschuetzen Jederzeit Goldgrube (+24.4% ROI)",
-            "Einwechslungs-Boost-Sicherung (CLAUDE.md bet365-Sonderregel)"
-          ],
-          "_torschuetze_quelle_warn": true
-        },
-        {
-          "id": "2026-07-04-kan-mar-t3",
-          "markt_typ": "Unter/Ueber Tore",
-          "kategorie": "value",
-          "einsatz_euro": 5.5,
-          "edge_prozent": 7.0,
-          "quote": 1.75,
-          "markt": "Unter 2.5 Tore",
-          "faire_quote": 1.6,
-          "empfohlener_einsatz_prozent": 1.0,
-          "begruendung": "Reality-Check statistik.json: Unter 2.5 = Goldgrube (+22.6% ROI, 66.7% HR, n=24). Marokko defensiv-organisiert (nur 2 Gegentore Gruppenphase + PSO gegen NED = strukturierte Rueckwaerts-Fokussierung). Kanada physik-orientiert, tiefer Block gegen Klassenteam typisch. Houston-Hitze verlangsamt zusaetzlich. K.O.-Achtelfinale-Pattern: bei klarem Favorit vs Underdog oft 1:0/2:0 durch Klassen-Edge ohne Toroffnung.",
-          "lessons_referenz": [
-            "Unter 2.5 = Goldgrube (+22.6% ROI, 66.7% HR)",
-            "K.O.-Premiere-Defensiv-Laehmungs-Pattern (Lesson 06.29 RSA-CAN 0:1)",
-            "Hitze Houston Anfang Juli reduziert Tempo"
-          ]
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-07-04-fra-par",
@@ -121,79 +69,9 @@
         "Dembele/Olise/Mbappe alle firing - komplette Offensiv-Waffen",
         "Paraguay-Diego-Gomez-Verletzungs-Cluster im Mittelfeld weiter aktiv"
       ],
-      "tipps": [
-        {
-          "id": "2026-07-04-fra-par-t1",
-          "markt_typ": "Torschuetzen Jederzeit",
-          "kategorie": "wackel",
-          "einsatz_euro": 11.0,
-          "edge_prozent": 10.0,
-          "quote": 1.6,
-          "markt": "Kylian Mbappe trifft jederzeit",
-          "faire_quote": 1.45,
-          "empfohlener_einsatz_prozent": 2.0,
-          "begruendung": "Mbappe 6 Tore in 4 WM-Spielen (1.5/Spiel) = Turnier-Top-Schuetze + Form-Peak. Reality-Check statistik.json: Torschuetzen Jederzeit = Goldgrube (+24.4% ROI, n=14). CLAUDE.md Form-Edge-Pflicht erfuellt (2+ Tore in 3 = klares Signal, hier 4-fach uebererfuellt). Paraguay-Defense muede nach 130 Min + PSO gegen GER, Diego-Gomez-Cluster weiter aktiv. Einwechslungs-Boost-Sicherung: falls Mbappe fuer Barcola-Sub, dessen Tore zaehlen (CLAUDE.md bet365-Regel). Bewusst VALUE statt SAFE weil WM-R16 nicht Liga-Goldgrube (Mapper-Hebel C). [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
-          "lessons_referenz": [
-            "Torschuetzen Jederzeit Goldgrube (+24.4% ROI, n=14)",
-            "Form-Edge-Peak: 6 Tore in 4 Spielen (1.5/Spiel)",
-            "Einwechslungs-Boost-Sicherung",
-            "Mapper-Hebel C: WM-R16 keine Liga-Goldgrube -> kein SAFE"
-          ],
-          "_torschuetze_quelle_warn": true
-        },
-        {
-          "id": "2026-07-04-fra-par-t2",
-          "markt_typ": "Spiel-Sieg",
-          "kategorie": "value",
-          "einsatz_euro": 11.0,
-          "edge_prozent": 5.0,
-          "quote": 1.17,
-          "markt": "Frankreich Sieg (90 Min)",
-          "faire_quote": 1.12,
-          "empfohlener_einsatz_prozent": 2.0,
-          "begruendung": "Frankreich 1.17 = 85.5% implizit. Klassen-Gap gigantisch (FIFA-Ranking 3 vs 41), Paraguay muede nach GER-PSO. Sharp-fair 89-90% (Sensations-Risiko real nach GER-Ausschaltung). Kurze Quote aber solides EV-Play. 2:0-Insurance gilt fuer WM (CLAUDE.md) - bei zwischenzeitlich 2:0+ Tipp durch. Reality-Check statistik.json: Sieg-Tipps auf klare Klassen-Edges positiv. WM-R16 nicht Liga-Goldgrube -> VALUE statt SAFE.",
-          "lessons_referenz": [
-            "Klassen-Gap-Edge (Ranking-Differenz 38)",
-            "2:0-Insurance gilt fuer WM",
-            "Mapper-Hebel C: WM-R16 -> kein SAFE",
-            "Post-GER-Sensations-Warnung: Paraguay hat gezeigt was moeglich ist"
-          ]
-        },
-        {
-          "id": "2026-07-04-fra-par-t3",
-          "markt_typ": "Unter/Ueber Tore",
-          "kategorie": "value",
-          "einsatz_euro": 11.0,
-          "edge_prozent": 8.0,
-          "quote": 1.57,
-          "markt": "Ueber 2.5 Tore",
-          "faire_quote": 1.45,
-          "empfohlener_einsatz_prozent": 2.0,
-          "begruendung": "Reality-Check statistik.json: Ueber 2.5 = Top-Goldgrube (+34.2% ROI, 64.7% HR, n=36). Frankreich 3 Tore vs Schweden R32 + FRA-Gruppenphase 8 Tore in 3 = offensives Volumen. Paraguay muss nach 0:0-Halbzeit oeffnen (Sensations-Play-Book), erzeugt Konter-Raum. Mbappe/Dembele/Olise komplette Offensiv-Waffen aktiv.",
-          "lessons_referenz": [
-            "Ueber 2.5 Top-Goldgrube (+34.2% ROI)",
-            "Klassen-Favorit-Aufmach-Pattern erzeugt Ueber-2.5-Wahrscheinlichkeit",
-            "Frankreich-Form: 3 Tore R32 + 8 Tore Gruppenphase"
-          ]
-        },
-        {
-          "id": "2026-07-04-fra-par-t4",
-          "markt_typ": "Torschuetzen Jederzeit",
-          "kategorie": "wackel",
-          "einsatz_euro": 2.75,
-          "edge_prozent": 5.0,
-          "quote": 4.0,
-          "markt": "Kylian Mbappe Doppelpack",
-          "faire_quote": 3.6,
-          "empfohlener_einsatz_prozent": 0.5,
-          "begruendung": "Mbappe hatte vs Sweden bereits Doppelpack im R32. Bei Paraguay-Defense-Muede + FRA-Volumen ist Doppelpack-Wiederholung realistisch. Golden-Boot-Race gegen Messi als zusaetzlicher Motivator. WACKEL statt VALUE weil Doppelpack-Markt geometrisch enger (nicht jedes Tor-Spiel = Doppelpack).",
-          "lessons_referenz": [
-            "Torschuetzen Jederzeit Goldgrube +Doppelpack-Skalierung",
-            "Form-Peak + Gegner-Muede = Doppelpack-Konstellation"
-          ]
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-07-05-bra-nor",
@@ -320,7 +198,7 @@
       "kontext_check_status": "OK"
     },
     {
-      "id": "2026-07-05-mex-eng",
+      "id": "2026-07-06-mex-eng",
       "liga": "FIFA WM 2026 - Achtelfinale (Round of 16)",
       "heim": "Mexiko",
       "gast": "England",
@@ -430,54 +308,6 @@
   ],
   "einzeltipps": [
     {
-      "spiel_id": "2026-07-04-fra-par",
-      "spiel": "Frankreich - Paraguay (WM R16)",
-      "tipp_id": "2026-07-04-fra-par-t1",
-      "markt_typ": "Torschuetzen Jederzeit",
-      "kategorie": "wackel",
-      "einsatz_euro": 11.0,
-      "quote": 1.6,
-      "markt": "Kylian Mbappe trifft jederzeit",
-      "empfohlener_einsatz_prozent": 2.0,
-      "rang": 1
-    },
-    {
-      "spiel_id": "2026-07-04-fra-par",
-      "spiel": "Frankreich - Paraguay (WM R16)",
-      "tipp_id": "2026-07-04-fra-par-t2",
-      "markt_typ": "Spiel-Sieg",
-      "kategorie": "value",
-      "einsatz_euro": 11.0,
-      "quote": 1.17,
-      "markt": "Frankreich Sieg (90 Min)",
-      "empfohlener_einsatz_prozent": 2.0,
-      "rang": 2
-    },
-    {
-      "spiel_id": "2026-07-04-fra-par",
-      "spiel": "Frankreich - Paraguay (WM R16)",
-      "tipp_id": "2026-07-04-fra-par-t3",
-      "markt_typ": "Unter/Ueber Tore",
-      "kategorie": "value",
-      "einsatz_euro": 11.0,
-      "quote": 1.57,
-      "markt": "Ueber 2.5 Tore",
-      "empfohlener_einsatz_prozent": 2.0,
-      "rang": 3
-    },
-    {
-      "spiel_id": "2026-07-04-kan-mar",
-      "spiel": "Kanada - Marokko (WM R16)",
-      "tipp_id": "2026-07-04-kan-mar-t1",
-      "markt_typ": "Spiel-Sieg",
-      "kategorie": "value",
-      "einsatz_euro": 11.0,
-      "quote": 1.8,
-      "markt": "Marokko Sieg (90 Min)",
-      "empfohlener_einsatz_prozent": 2.0,
-      "rang": 4
-    },
-    {
       "spiel_id": "2026-07-05-bra-nor",
       "spiel": "Brasilien - Norwegen (WM R16)",
       "tipp_id": "2026-07-05-bra-nor-t1",
@@ -487,10 +317,10 @@
       "quote": 1.89,
       "markt": "Brasilien Sieg (90 Min)",
       "empfohlener_einsatz_prozent": 2.0,
-      "rang": 5
+      "rang": 1
     },
     {
-      "spiel_id": "2026-07-05-mex-eng",
+      "spiel_id": "2026-07-06-mex-eng",
       "spiel": "Mexiko - England (WM R16)",
       "tipp_id": "2026-07-05-mex-eng-t1",
       "markt_typ": "Unter/Ueber Tore",
@@ -499,7 +329,7 @@
       "quote": 1.54,
       "markt": "Unter 2.5 Tore",
       "empfohlener_einsatz_prozent": 2.0,
-      "rang": 6
+      "rang": 2
     },
     {
       "spiel_id": "2026-07-05-bra-nor",
@@ -511,22 +341,10 @@
       "quote": 2.5,
       "markt": "Vinicius Junior trifft jederzeit",
       "empfohlener_einsatz_prozent": 2.0,
-      "rang": 7
+      "rang": 3
     },
     {
-      "spiel_id": "2026-07-04-kan-mar",
-      "spiel": "Kanada - Marokko (WM R16)",
-      "tipp_id": "2026-07-04-kan-mar-t2",
-      "markt_typ": "Torschuetzen Jederzeit",
-      "kategorie": "wackel",
-      "einsatz_euro": 5.5,
-      "quote": 3.0,
-      "markt": "Ismael Saibari trifft jederzeit",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 8
-    },
-    {
-      "spiel_id": "2026-07-05-mex-eng",
+      "spiel_id": "2026-07-06-mex-eng",
       "spiel": "Mexiko - England (WM R16)",
       "tipp_id": "2026-07-05-mex-eng-t3",
       "markt_typ": "Torschuetzen Jederzeit",
@@ -535,7 +353,7 @@
       "quote": 2.8,
       "markt": "Harry Kane trifft jederzeit",
       "empfohlener_einsatz_prozent": 0.5,
-      "rang": 9
+      "rang": 4
     },
     {
       "spiel_id": "2026-07-05-bra-nor",
@@ -547,157 +365,10 @@
       "quote": 1.8,
       "markt": "Ueber 2.5 Tore",
       "empfohlener_einsatz_prozent": 0.5,
-      "rang": 10
+      "rang": 5
     }
   ],
-  "kombis": [
-    {
-      "name": "Safe-Kombi 3.98x",
-      "kategorie": "safe",
-      "einsatz_euro": 11.0,
-      "empfohlener_einsatz_prozent": 2.0,
-      "moeglicher_gewinn_euro": 43.78,
-      "beine": [
-        {
-          "spiel_id": "2026-07-04-fra-par",
-          "tipp_id": "2026-07-04-fra-par-t2",
-          "markt": "Frankreich - Paraguay: Frankreich Sieg (90 Min)",
-          "quote": 1.17,
-          "spiel_titel": "Frankreich - Paraguay (WM R16)"
-        },
-        {
-          "spiel_id": "2026-07-04-kan-mar",
-          "tipp_id": "2026-07-04-kan-mar-t1",
-          "markt": "Kanada - Marokko: Marokko Sieg (90 Min)",
-          "quote": 1.8,
-          "spiel_titel": "Kanada - Marokko (WM R16)"
-        },
-        {
-          "spiel_id": "2026-07-05-bra-nor",
-          "tipp_id": "2026-07-05-bra-nor-t1",
-          "markt": "Brasilien - Norwegen: Brasilien Sieg (90 Min)",
-          "quote": 1.89,
-          "spiel_titel": "Brasilien - Norwegen (WM R16)"
-        }
-      ],
-      "begruendung": "Drei klare Klassen-Favoriten der WM-R16 (FRA 1.17, MAR 1.80, BRA 1.89). Alle drei profitieren von 2:0-Insurance (CLAUDE.md FIFA-WM-Regel). Layer-1 OK (1 Bein/Spiel). Layer-2 OK (Sieg-Outcomes nur in dieser Safe-Kombi, andere Kombis nutzen Tor-Total/Torschuetzen). Kein SAFE-Label trotz konservativer Kombi weil WM-R16 nicht Liga-Goldgrube - Mapper-Hebel C-konform ehrlich als Safe-Kategorie ohne SAFE-Einzel-Label.",
-      "gesamtquote": 3.98,
-      "rechnung": "1.17 x 1.80 x 1.89 = 3.98"
-    },
-    {
-      "name": "Balance-Kombi 6.16x",
-      "kategorie": "balance",
-      "einsatz_euro": 4.4,
-      "empfohlener_einsatz_prozent": 0.8,
-      "moeglicher_gewinn_euro": 27.1,
-      "beine": [
-        {
-          "spiel_id": "2026-07-04-fra-par",
-          "tipp_id": "2026-07-04-fra-par-t1",
-          "markt": "Frankreich - Paraguay: Kylian Mbappe trifft jederzeit",
-          "quote": 1.6,
-          "spiel_titel": "Frankreich - Paraguay (WM R16)"
-        },
-        {
-          "spiel_id": "2026-07-05-bra-nor",
-          "tipp_id": "2026-07-05-bra-nor-t2",
-          "markt": "Brasilien - Norwegen: Vinicius Junior trifft jederzeit",
-          "quote": 2.5,
-          "spiel_titel": "Brasilien - Norwegen (WM R16)"
-        },
-        {
-          "spiel_id": "2026-07-05-mex-eng",
-          "tipp_id": "2026-07-05-mex-eng-t1",
-          "markt": "Mexiko - England: Unter 2.5 Tore",
-          "quote": 1.54,
-          "spiel_titel": "Mexiko - England (WM R16)"
-        }
-      ],
-      "begruendung": "Goldgrube-Kombi: 2x Torschuetzen-Jederzeit (Mbappe 6 Tore Turnier + Vinicius 4/3 - Golden-Boot-Race) + 1x Unter 2.5 (Hoehe Azteca 2240m + Mex-Heim-Festungs-Statistik). Layer-1 OK (3 verschiedene Spiele). Layer-2 OK (keine Sieg-Outcomes - kein Konflikt mit Safe-Kombi). Layer-3 OK (Mbappe/Vinicius/Unter 2.5 keine Doppel-Verwendung mit Risiko/Moonshot-Beinen).",
-      "gesamtquote": 6.16,
-      "rechnung": "1.60 x 2.50 x 1.54 = 6.16"
-    },
-    {
-      "name": "Risiko-Kombi 29.02x",
-      "kategorie": "risk",
-      "einsatz_euro": 1.4,
-      "empfohlener_einsatz_prozent": 0.25,
-      "moeglicher_gewinn_euro": 40.63,
-      "beine": [
-        {
-          "spiel_id": "2026-07-04-kan-mar",
-          "tipp_id": "2026-07-04-kan-mar-t2",
-          "markt": "Kanada - Marokko: Ismael Saibari trifft jederzeit",
-          "quote": 3.0,
-          "spiel_titel": "Kanada - Marokko (WM R16)"
-        },
-        {
-          "spiel_id": "2026-07-05-bra-nor",
-          "tipp_id": "2026-07-05-bra-nor-t4",
-          "markt": "Brasilien - Norwegen: Erling Haaland trifft jederzeit",
-          "quote": 2.2,
-          "spiel_titel": "Brasilien - Norwegen (WM R16)"
-        },
-        {
-          "spiel_id": "2026-07-05-mex-eng",
-          "tipp_id": "2026-07-05-mex-eng-t3",
-          "markt": "Mexiko - England: Harry Kane trifft jederzeit",
-          "quote": 2.8,
-          "spiel_titel": "Mexiko - England (WM R16)"
-        },
-        {
-          "spiel_id": "2026-07-04-fra-par",
-          "tipp_id": "2026-07-04-fra-par-t3",
-          "markt": "Frankreich - Paraguay: Ueber 2.5 Tore",
-          "quote": 1.57,
-          "spiel_titel": "Frankreich - Paraguay (WM R16)"
-        }
-      ],
-      "begruendung": "Vier-Beine-Goldgrube-Kombi: 3x Torschuetzen-Jederzeit (+24.4% ROI) auf Turnier-Top-Schuetzen (Saibari 3/3, Haaland 5 Tore, Kane R32-Star) + 1x Ueber 2.5 (+34.2% ROI Top-Goldgrube). Einwechslungs-Boost-Sicherung fuer alle 3 Torschuetzen (CLAUDE.md bet365-Sonderregel). Layer-1 OK (4 verschiedene Spiele). Layer-2 OK (keine Sieg-Outcomes). Layer-3 OK (Saibari nur in Risiko/Moonshot Torschuetzen-Markt gleich - dokumentiert als bewusste Doppel-Payoff-Strategie).",
-      "gesamtquote": 29.02,
-      "rechnung": "3.00 x 2.20 x 2.80 x 1.57 = 29.02"
-    },
-    {
-      "name": "Moonshot-Kombi 252.00x",
-      "kategorie": "moonshot",
-      "einsatz_euro": 0.55,
-      "empfohlener_einsatz_prozent": 0.1,
-      "moeglicher_gewinn_euro": 138.6,
-      "beine": [
-        {
-          "spiel_id": "2026-07-05-mex-eng",
-          "tipp_id": "2026-07-05-mex-eng-bellingham-anytime",
-          "markt": "Mexiko - England: Jude Bellingham trifft jederzeit",
-          "quote": 6.0,
-          "spiel_titel": "Mexiko - England (WM R16)"
-        },
-        {
-          "spiel_id": "2026-07-05-bra-nor",
-          "tipp_id": "2026-07-05-bra-nor-t5",
-          "markt": "Brasilien - Norwegen: Neymar trifft jederzeit",
-          "quote": 3.5,
-          "spiel_titel": "Brasilien - Norwegen (WM R16)"
-        },
-        {
-          "spiel_id": "2026-07-04-fra-par",
-          "tipp_id": "2026-07-04-fra-par-t4",
-          "markt": "Frankreich - Paraguay: Kylian Mbappe Doppelpack",
-          "quote": 4.0,
-          "spiel_titel": "Frankreich - Paraguay (WM R16)"
-        },
-        {
-          "spiel_id": "2026-07-04-kan-mar",
-          "tipp_id": "2026-07-04-kan-mar-t2",
-          "markt": "Kanada - Marokko: Ismael Saibari trifft jederzeit",
-          "quote": 3.0,
-          "spiel_titel": "Kanada - Marokko (WM R16)"
-        }
-      ],
-      "begruendung": "Vier-Beine-Longshot-Torschuetzen: Bellingham (Star ohne Turnier-Tor bisher, Ueberfaellig-Faktor) + Neymar (Comeback-Highlight-Story Sub-Impact) + Mbappe-Doppelpack (Form-Peak vs muede Paraguay-Defense) + Saibari (Form 3/3, Golden-Boot-Race). Layer-1 OK (4 verschiedene Spiele). Layer-2 OK (keine Sieg-Outcomes). Layer-3-Weiche: Saibari doppelt in Risiko + Moonshot (selber Markt selber Spieler) - bewusst als Doppel-Payoff-Strategie akzeptiert, alternativ waeren geometrisch nur ~85x moeglich ohne Longshot-Bein. Lotterie-Spass-Einsatz 0.55EUR.",
-      "gesamtquote": 252.0,
-      "rechnung": "6.00 x 3.50 x 4.00 x 3.00 = 252.00"
-    }
-  ],
+  "kombis": [],
   "lessons_angewandt": [
     "Mapper-Hebel C (CLAUDE.md): WM-R16 nicht in Liga-Goldgrube-Liste -> KEIN SAFE-Label heute. Alle Sieg-/DC-Tipps bewusst als VALUE statt SAFE (FRA 1.17, MAR 1.80, BRA 1.89).",
     "Goldgrube-Markt Ueber 2.5 (+34.2% ROI, 64.7% HR, n=36): aktiv gesucht in 2 Spielen als VALUE-Tipp (FRA-PAR 1.57) + 1 Spiel als WACKEL-Absicherung (BRA-NOR 1.80).",
