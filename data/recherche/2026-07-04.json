@@ -1,0 +1,258 @@
+{
+  "datum": "2026-07-04",
+  "erstellt_am": "2026-07-04T10:35:00+02:00",
+  "modus": "tag",
+  "_emergency_recovery": true,
+  "_emergency_recovery_grund": "Recherche-Cloud-Routine (Cron 10:30 Berlin) fuer 2026-07-04 lieferte kein File - letztes Recherche-File war 2026-06-11 (Gruppenphase-Start). Master-Tipps-Routine hat 10:35 Berlin Fallback-Recherche via WebSearch selbst gemacht (5 Web-Queries: Preview + Odds + Team-News fuer beide Achtelfinal-Spiele) und schreibt Recherche + Tipps in einem Lauf.",
+  "hinweis": "WM 2026 Achtelfinale Tag 1 (04.07.-07.07.). 2 Spiele heute: Kanada vs Marokko (NRG Stadium Houston, 19:00 CEST) + Paraguay vs Frankreich (Philadelphia Stadium, 23:00 CEST). NBA Finals beendet (Knicks 4-1 Spurs), Vereins-Fussball Sommer-Pause bis August 2026.",
+  "spiele": [
+    {
+      "id": "2026-07-04-can-mar",
+      "liga": "FIFA WM 2026 - Achtelfinale",
+      "heim": "Kanada",
+      "gast": "Marokko",
+      "anstoss": "2026-07-04T19:00:00+02:00",
+      "stadion": "NRG Stadium, Houston TX (indoor/domed, klimatisiert - keine Hitze/Luftfeuchtigkeit-Auswirkung trotz Houston-Sommer)",
+      "turnier_phase": "Achtelfinale",
+      "gruppe": null,
+      "spielort_faktor": {
+        "stadt": "Houston",
+        "stadion": "NRG Stadium",
+        "land": "USA",
+        "hoehe_m": 12,
+        "klima_anstoss": "indoor 22 Grad, konstant, dach geschlossen bei Aussenhitze",
+        "anstoss_lokal": "12:00 CDT (Mittag Houston)",
+        "lokal_faktor": "Neutraler US-Standort, geringe kanadische Fan-Praesenz da nicht Toronto/Vancouver, Marokko-Diaspora in Texas moderat. Kapazitaet 72.220. Indoor eliminiert Hitze-Kondition-Vorteil komplett.",
+        "implikationen": ["Indoor bedeutet Kanadas Kalter-Wetter-Anpassung neutralisiert", "Kein Hoehen/Hitze-Faktor - reines Klassen-Duell"]
+      },
+      "squad_heim": [
+        {"name": "Maxime Crepeau", "nummer": 1, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.aljazeera.com/sports/2026/7/3/canada-morocco-fifa-world-cup-round-of-16-saibari-prediction-schedule"},
+        {"name": "Alistair Johnston", "nummer": 2, "position": "RV", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.aljazeera.com/sports/2026/7/3/canada-morocco-fifa-world-cup-round-of-16-saibari-prediction-schedule"},
+        {"name": "Moise Bombito", "nummer": 15, "position": "IV", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.aljazeera.com/sports/2026/7/3/canada-morocco-fifa-world-cup-round-of-16-saibari-prediction-schedule"},
+        {"name": "Derek Cornelius", "nummer": 4, "position": "IV", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.aljazeera.com/sports/2026/7/3/canada-morocco-fifa-world-cup-round-of-16-saibari-prediction-schedule"},
+        {"name": "Richie Laryea", "nummer": 3, "position": "LV", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.aljazeera.com/sports/2026/7/3/canada-morocco-fifa-world-cup-round-of-16-saibari-prediction-schedule"},
+        {"name": "Tajon Buchanan", "nummer": 11, "position": "RM", "saison_tore": 1, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.aljazeera.com/sports/2026/7/3/canada-morocco-fifa-world-cup-round-of-16-saibari-prediction-schedule"},
+        {"name": "Ismael Kone", "nummer": 6, "position": "CM", "saison_tore": 1, "letzte_5_spiele_tore": 1, "verifiziert_via": "OUT-Beinbruch nach 6:0 vs Qatar - https://www.apwin.com/news/world-cup-2026-injury-list-key-players-ruled-out/", "status": "OUT_Beinbruch_bis_Turnierende"},
+        {"name": "Mathieu Choiniere", "nummer": 8, "position": "CM", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "Kone-Ersatz Vermutung"},
+        {"name": "Stephen Eustaquio", "nummer": 7, "position": "CM", "saison_tore": 4, "letzte_5_spiele_tore": 1, "verifiziert_via": "https://www.aljazeera.com/sports/2026/7/3/canada-morocco-fifa-world-cup-round-of-16-saibari-prediction-schedule - Winner 90+2 gegen RSA"},
+        {"name": "Liam Millar", "nummer": 19, "position": "LM", "saison_tore": 2, "letzte_5_spiele_tore": 1, "verifiziert_via": "https://www.aljazeera.com/sports/2026/7/3/canada-morocco-fifa-world-cup-round-of-16-saibari-prediction-schedule"},
+        {"name": "Promise David", "nummer": 18, "position": "ST", "saison_tore": 3, "letzte_5_spiele_tore": 2, "verifiziert_via": "Canada-Torjaeger, Volume-9 in Group Stage - https://www.aljazeera.com/sports/2026/7/3/canada-morocco-fifa-world-cup-round-of-16-saibari-prediction-schedule - Alternative Jonathan David wenn im Kader"},
+        {"name": "Jonathan David", "nummer": 20, "position": "ST", "saison_tore": 12, "letzte_5_spiele_tore": 3, "verifiziert_via": "Napoli-Stuermer, Kanadas Top-Scorer historisch - https://www.cbssports.com/soccer/news/free-2026-world-cup-anytime-goalscorer-picks-odds-canadas-jonathan-david-featured-in-saturday-best-bets/"},
+        {"name": "Tani Oluwaseyi", "nummer": 17, "position": "ST", "saison_tore": 2, "letzte_5_spiele_tore": 1, "verifiziert_via": "MLS Minnesota United, in Startelf Vorschau - https://www.rotowire.com/soccer/article/canada-vs-morocco-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-round-of-16-120851"},
+        {"name": "Alphonso Davies", "nummer": 19, "position": "LV/LM", "saison_tore": 3, "letzte_5_spiele_tore": 1, "verifiziert_via": "Bayern Muenchen LV, Rueckkehr nach Verletzung ab R32-Bench (Rusty-Auftritt), Startelf-fraglich - https://sports.yahoo.com/articles/alphonso-davies-cleared-play-canada-160000830.html", "status": "fraglich_Startelf_wahrscheinlich_Bank_60min-Einwechslung"},
+        {"name": "Cyle Larin", "nummer": 9, "position": "ST", "saison_tore": 4, "letzte_5_spiele_tore": 1, "verifiziert_via": "Bank/Sub-Option nach Startelf-Verlust vs RSA - https://www.sportsmole.co.uk/football/morocco/world-cup-2026/team-news/canada-vs-morocco-injury-suspension-list-predicted-xis_600555.html"}
+      ],
+      "squad_gast": [
+        {"name": "Yassine Bono", "nummer": 1, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "Al-Ittihad-TW, hielt Elfmeter gegen NED - https://www.aljazeera.com/sports/2026/7/3/canada-morocco-fifa-world-cup-round-of-16-saibari-prediction-schedule"},
+        {"name": "Achraf Hakimi", "nummer": 2, "position": "RV", "saison_tore": 4, "letzte_5_spiele_tore": 1, "verifiziert_via": "PSG-RV, Kapitaen, 120min gegen NED gespielt + Elfmeter verschossen im iE - https://www.apwin.com/news/world-cup-2026-injury-list-key-players-ruled-out/"},
+        {"name": "Nayef Aguerd", "nummer": 5, "position": "IV", "saison_tore": 1, "letzte_5_spiele_tore": 0, "verifiziert_via": "Real Sociedad-IV - Standard-Verteidigung"},
+        {"name": "Sofyan Diop", "nummer": 4, "position": "IV", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "West Ham/Kroatien-Kader-Verifikation offen - https://www.aljazeera.com/sports/2026/7/3/canada-morocco-fifa-world-cup-round-of-16-saibari-prediction-schedule zeigt in Startelf"},
+        {"name": "Chadi Riad", "nummer": 15, "position": "IV", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "Crystal Palace-IV, Startelf in Preview"},
+        {"name": "Noussair Mazraoui", "nummer": 3, "position": "LV", "saison_tore": 1, "letzte_5_spiele_tore": 0, "verifiziert_via": "Manchester United-LV/RV, in Startelf"},
+        {"name": "Jamal Bouaddi", "nummer": 6, "position": "DM", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "Doppelsechser-Position in Preview"},
+        {"name": "Neil El Aynaoui", "nummer": 8, "position": "CM", "saison_tore": 2, "letzte_5_spiele_tore": 0, "verifiziert_via": "Lens-CM, box-to-box, in Startelf"},
+        {"name": "Brahim Diaz", "nummer": 10, "position": "OM", "saison_tore": 6, "letzte_5_spiele_tore": 2, "verifiziert_via": "Real Madrid-OM, 10er, Startelf-Fixpunkt - https://www.aljazeera.com/sports/2026/7/3/canada-morocco-fifa-world-cup-round-of-16-saibari-prediction-schedule"},
+        {"name": "Azzedine Ounahi", "nummer": 8, "position": "OM", "saison_tore": 3, "letzte_5_spiele_tore": 1, "verifiziert_via": "Marseille-CM/OM, in Startelf - https://www.aljazeera.com/sports/2026/7/3/canada-morocco-fifa-world-cup-round-of-16-saibari-prediction-schedule"},
+        {"name": "Bilal El Khannouss", "nummer": 20, "position": "OM/LF", "saison_tore": 4, "letzte_5_spiele_tore": 1, "verifiziert_via": "Leicester-OM/Fluegel, Startelf - https://www.rotowire.com/soccer/article/canada-vs-morocco-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-round-of-16-120851"},
+        {"name": "Ismael Saibari", "nummer": 11, "position": "ST", "saison_tore": 8, "letzte_5_spiele_tore": 4, "verifiziert_via": "Bayern-Muenchen-Neuzugang, TURNIER-Torschuetze mit 3 WM-Toren + Elfmeter-Winner gegen NED - https://www.aljazeera.com/sports/2026/7/3/canada-morocco-fifa-world-cup-round-of-16-saibari-prediction-schedule"},
+        {"name": "Ayoub El Kaabi", "nummer": 9, "position": "ST", "saison_tore": 10, "letzte_5_spiele_tore": 3, "verifiziert_via": "Olympiakos-Volume-9, ANYTIME 2/1 Favorit - https://tips.gg/article/canada-v-morocco-player-props-wc2026/"},
+        {"name": "Soufiane Rahimi", "nummer": 19, "position": "ST", "saison_tore": 6, "letzte_5_spiele_tore": 2, "verifiziert_via": "Al-Ain-Stuermer, Anytime 11/5 - https://tips.gg/article/canada-v-morocco-player-props-wc2026/"}
+      ],
+      "injuries_heim": ["Ismael Kone (Beinbruch OUT bis Turnierende, seit Qatar-Sieg)", "Alphonso Davies (Muskel-Rueckkehr, Rusty-Rueckkehr in R32 gegen RSA, Startelf-Wahrscheinlichkeit ~50% - eher Einwechslung)"],
+      "injuries_gast": ["keine gemeldet - Marokko kam ohne Verletzungen durch R32"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM exklusiv",
+        "gast": "keine - WM exklusiv",
+        "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"]
+      },
+      "saisonziel_heim": "Erste K.O.-Runde in Landesgeschichte Achtelfinale ERREICHT - jede weitere Runde ist historisch. Motivation CoHost-Vorteil (obwohl in Houston nicht Kanada). R32 1:0 vs Suedafrika via Eustaquio-90+2-Volley. Gruppe B als 2. abgeschlossen (Draw BiH, 6:0 Qatar Rekord-Sieg, 1:2 vs Schweiz).",
+      "saisonziel_gast": "WM 2022 4. Platz - Wiederholung/Uebertreffung. R32 3:2 iE vs Niederlande nach 1:1 (120min): Diop-Equalizer 90+1, Saibari-Winning-Elfmeter. Gruppe C als 2. mit 7 Pkt (2S/1U). Neuer Zyklus Regragui unter Druck fuer QF-Einzug (vergleichbar 2022). El Kaabi + Saibari im Torschuetzenkoenig-Rennen.",
+      "tabellenstand": null,
+      "form_heim_letzte_5": "S(R32)-N-S-U-S",
+      "form_gast_letzte_5": "S(iE)-U-S-S-?",
+      "recovery_heim": "6 Tage seit R32-Sieg vs RSA 28.06. Nur 90 Min gespielt (kein Extra-Time), voll ausgeruht. Davies 30min Sub-Einsatz (rusty)",
+      "recovery_gast": "6 Tage seit R32-Marathon vs NED 28.06. - 120 Min + Elfmeter-Marathon (Hakimi verschoss). MUEDIGKEIT-Risiko hoch bei Stamm-XI. Regragui-Rotationsdilemma.",
+      "vereins_belastung_heim": "MLS-Basis fuehrt Sommer, aber Napoli-Star David (48 Serie A-Spiele + Europa-Cup), Bayern-Davies (rusty), Portugal-Eustaquio (33 Spiele). Mittelfeld-Belastung moderat.",
+      "vereins_belastung_gast": "PSG-Hakimi (54 Spiele CL + Cup + Ligue1), Man-United-Mazraoui (45 Spiele), Real-Diaz (49 Spiele CL), Bayern-Saibari (25 Bundesliga + CL). Alle Top-Belastung-Kategorie plus 120min NED-Marathon. HR27 Vereins-Saison-Muedigkeit-Trigger aktiv.",
+      "quoten": {
+        "bet365": {
+          "sieg_heim": 4.75,
+          "draw": 3.50,
+          "sieg_gast": 1.80,
+          "dc_1x": 2.02,
+          "dc_12": 1.30,
+          "dc_x2": 1.30,
+          "ueber_1_5": 1.30,
+          "ueber_2_5": 2.05,
+          "unter_2_5": 1.75,
+          "unter_3_5": 1.35,
+          "ueber_3_5": 2.60,
+          "btts_ja": 2.00,
+          "btts_nein": 1.75,
+          "torschuetzen": {
+            "Ayoub El Kaabi": 3.00,
+            "Ismael Saibari": 2.87,
+            "Soufiane Rahimi": 3.20,
+            "Brahim Diaz": 3.50,
+            "Jonathan David": 4.20,
+            "Cyle Larin": 4.60,
+            "Youssef En-Nesyri Talbi": 4.70,
+            "Azzedine Ounahi": 4.70,
+            "Tani Oluwaseyi": 4.90,
+            "Bilal El Khannouss": 5.40,
+            "Alphonso Davies": 8.00,
+            "Stephen Eustaquio": 9.00
+          },
+          "torschuetzen_doppelpack": {
+            "Ayoub El Kaabi": 5.50,
+            "Ismael Saibari": 5.50,
+            "Jonathan David": 9.00,
+            "Brahim Diaz": 8.00
+          }
+        },
+        "pinnacle": {"sieg_heim": 4.60, "draw": 3.60, "sieg_gast": 1.85},
+        "fair_line_pinnacle_basis_prozent": {"sieg_heim": 22, "draw": 27, "sieg_gast": 51}
+      },
+      "news_kompakt": [
+        "Marokko Klassen-Edge extrem: Bono/Hakimi/Diaz/Ounahi/Saibari/El Kaabi = Top-5-Ligen-Stamm vs kanadische MLS/2.-Liga-Mischung. Opta 52.7% MAR / 21.7% CAN / 25.6% Extra-Time.",
+        "Marokko 120min-Marathon-Muedigkeit vs NED + Hakimi-Elfmeter-Verschuss (Kap. Nachwirkung). Regragui-Rotationsdilemma - Startelf zeigt Stamm-XI ohne Anzeichen von Sub-Frische-Injection.",
+        "Kanada 90min gegen RSA - frisch. Davies-Comeback Bank-Kandidat. Kone Beinbruch OUT bis Turnierende (Rueckversicherungslos).",
+        "Saibari (Bayern Muenchen-neu) fuehrt Marokko-Torschuetzenliste mit 3 WM-Toren + Elfmeter-Winner NED. HR07-03 Torschuetzen-Goldgrube-3/3-Analogie (Oyarzabal/Ronaldo/Xhaka als Stamm-9 Klassen-Favorit).",
+        "bet365 DE 2:0-Insurance gilt WM 2026 - Marokko-Sieg-Tipp gewinnt wenn MAR im 90min mind. 2:0 gefuehrt hat (Klassen-Kontrolle-Szenario)."
+      ],
+      "pre_wm_test_spiele": [
+        "Marokko 3:1 vs Elfenbeinkueste 08.06. - Saibari 1 Tor + 89 Min, El Kaabi Doppelpack",
+        "Kanada 1:0 vs Ukraine 06.06. - Eustaquio Winner, David 68 Min ohne Tor",
+        "Marokko 2:0 vs Peru 12.06. - Diaz Assist + El Khannouss Tor"
+      ],
+      "quellen_aggregator": [
+        "https://www.oddschecker.com/us/soccer/world-cup/paraguay-v-france",
+        "https://tips.gg/article/canada-v-morocco-player-props-wc2026/",
+        "https://www.espn.com/soccer/odds/_/gameId/760502",
+        "https://news.bet365.com/en-us/article/canada-vs-morocco-world-cup-odds-picks-predictions-47/2026070310584657005"
+      ]
+    },
+    {
+      "id": "2026-07-04-par-fra",
+      "liga": "FIFA WM 2026 - Achtelfinale",
+      "heim": "Paraguay",
+      "gast": "Frankreich",
+      "anstoss": "2026-07-04T23:00:00+02:00",
+      "stadion": "Philadelphia Stadium (Lincoln Financial Field), Philadelphia PA (Aussenstadion, mild Sommer-Abend 22 Grad + Ostkueste-Feuchtigkeit)",
+      "turnier_phase": "Achtelfinale",
+      "gruppe": null,
+      "spielort_faktor": {
+        "stadt": "Philadelphia",
+        "stadion": "Lincoln Financial Field",
+        "land": "USA",
+        "hoehe_m": 15,
+        "klima_anstoss": "17:00 EDT = 23:00 CEST Berlin, 22 Grad, 65% LF, klar",
+        "anstoss_lokal": "17:00 EDT",
+        "lokal_faktor": "Neutraler US-Ostkueste-Standort, geringe paraguayische Diaspora, franzoesische Diaspora ebenfalls moderat. 69.000 Kapazitaet. Abend-Anstoss lokal reduziert Hitze-Faktor.",
+        "implikationen": ["Neutrales Klima ohne signifikante Konditions-Auswirkung", "Abend-Anstoss besser fuer europaeisches Team"]
+      },
+      "squad_heim": [
+        {"name": "Roberto Gill", "nummer": 1, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.rotowire.com/soccer/article/paraguay-vs-france-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-round-of-16-120852"},
+        {"name": "Junior Alonso", "nummer": 3, "position": "LV", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "Krasnodar-LV, in Startelf"},
+        {"name": "Gustavo Gomez", "nummer": 4, "position": "IV", "saison_tore": 1, "letzte_5_spiele_tore": 0, "verifiziert_via": "Palmeiras-IV Kap. - https://www.aljazeera.com/sports/2026/7/4/france-vs-paraguay-world-cup-round-of-16-mbappe-prediction-kickoff"},
+        {"name": "Jose Canale", "nummer": 5, "position": "IV", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "Sassuolo-IV, ersetzt Alderete-Verletzung - https://www.sportsmole.co.uk/football/paraguay/injury-news/team-news/paraguay-vs-france-injury-suspension-list-predicted-xis_600506.html"},
+        {"name": "Omar Alderete", "nummer": 6, "position": "IV", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "OUT-Knie-Problem - https://www.sportsmole.co.uk/football/paraguay/injury-news/team-news/paraguay-vs-france-injury-suspension-list-predicted-xis_600506.html", "status": "OUT_Knie"},
+        {"name": "Robert Caceres", "nummer": 2, "position": "RV", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "Startelf-Rueckkehr"},
+        {"name": "Damian Bobadilla Galarza", "nummer": 8, "position": "CM", "saison_tore": 1, "letzte_5_spiele_tore": 1, "verifiziert_via": "Flanke fuer Enciso-Kopfball vs GER"},
+        {"name": "Andres Cubas", "nummer": 6, "position": "DM", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "Al-Sadd-DM"},
+        {"name": "Diego Gomez", "nummer": 20, "position": "CM", "saison_tore": 3, "letzte_5_spiele_tore": 1, "verifiziert_via": "Brighton-CM, RUECKKEHR nach 1-Spiel-Sperre gegen GER - https://www.sportsmole.co.uk/football/paraguay/injury-news/team-news/paraguay-vs-france-injury-suspension-list-predicted-xis_600506.html", "status": "SPERR_RUECKKEHR"},
+        {"name": "Miguel Almiron", "nummer": 10, "position": "RM/OM", "saison_tore": 8, "letzte_5_spiele_tore": 2, "verifiziert_via": "Newcastle-Winger, in Startelf - https://www.rotowire.com/soccer/article/paraguay-vs-france-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-round-of-16-120852"},
+        {"name": "Adam Bareiro Avalos", "nummer": 9, "position": "ST", "saison_tore": 6, "letzte_5_spiele_tore": 1, "verifiziert_via": "River Plate/Al-Ittihad-Stuermer - Startelf-Fixpunkt"},
+        {"name": "Julio Enciso", "nummer": 11, "position": "OM/LF", "saison_tore": 5, "letzte_5_spiele_tore": 2, "verifiziert_via": "Brighton (Ipswich-Leihe)/Union Berlin-Aktivit, TRAF gegen GER 42.Min - Kopfball nach Galarza-Flanke - https://www.aljazeera.com/sports/2026/7/4/france-vs-paraguay-world-cup-round-of-16-mbappe-prediction-kickoff"},
+        {"name": "Antonio Sanabria", "nummer": 19, "position": "ST", "saison_tore": 7, "letzte_5_spiele_tore": 1, "verifiziert_via": "Torino-Stuermer, Bank-Kandidat"}
+      ],
+      "squad_gast": [
+        {"name": "Mike Maignan", "nummer": 1, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "Milan-TW Kap. - https://www.aljazeera.com/sports/2026/7/4/france-vs-paraguay-world-cup-round-of-16-mbappe-prediction-kickoff"},
+        {"name": "Jules Kounde", "nummer": 5, "position": "RV", "saison_tore": 1, "letzte_5_spiele_tore": 0, "verifiziert_via": "Barcelona-RV, Startelf-Fixpunkt"},
+        {"name": "Dayot Upamecano", "nummer": 4, "position": "IV", "saison_tore": 2, "letzte_5_spiele_tore": 0, "verifiziert_via": "Bayern-IV, Standard-XI"},
+        {"name": "William Saliba", "nummer": 6, "position": "IV", "saison_tore": 1, "letzte_5_spiele_tore": 0, "verifiziert_via": "Arsenal-IV, Standard-XI"},
+        {"name": "Lucas Digne", "nummer": 3, "position": "LV", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "Aston Villa-LV, Startelf - https://www.rotowire.com/soccer/article/paraguay-vs-france-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-round-of-16-120852"},
+        {"name": "Aurelien Tchouameni", "nummer": 8, "position": "DM", "saison_tore": 2, "letzte_5_spiele_tore": 0, "verifiziert_via": "Real Madrid-DM, Startelf"},
+        {"name": "Adrien Rabiot", "nummer": 14, "position": "CM", "saison_tore": 5, "letzte_5_spiele_tore": 1, "verifiziert_via": "Marseille-CM, Startelf-Fixpunkt"},
+        {"name": "Ousmane Dembele", "nummer": 11, "position": "RF", "saison_tore": 22, "letzte_5_spiele_tore": 3, "verifiziert_via": "PSG-Star + Ballon-dOr-Kandidat 2025 - Frueh-Aus-Sub vs Schweden Lesson 07.01"},
+        {"name": "Michael Olise", "nummer": 21, "position": "OM/RF", "saison_tore": 14, "letzte_5_spiele_tore": 4, "verifiziert_via": "Bayern-Winger, TURNIER-ASSIST-Fuehrender + Sub-Torschuetze gegen SWE - https://www.aljazeera.com/sports/2026/7/4/france-vs-paraguay-world-cup-round-of-16-mbappe-prediction-kickoff"},
+        {"name": "Bradley Barcola", "nummer": 15, "position": "LF", "saison_tore": 13, "letzte_5_spiele_tore": 3, "verifiziert_via": "PSG-Winger, Startelf-Rotationskandidat"},
+        {"name": "Kylian Mbappe", "nummer": 10, "position": "ST/LF", "saison_tore": 45, "letzte_5_spiele_tore": 6, "verifiziert_via": "Real Madrid-Kap. Fra + TURNIER-Torschuetze GLEICH-MIT-MESSI 6 WM-Tore aus 4 Spielen - https://www.aljazeera.com/sports/2026/7/4/france-vs-paraguay-world-cup-round-of-16-mbappe-prediction-kickoff"},
+        {"name": "Marcus Thuram", "nummer": 12, "position": "ST", "saison_tore": 14, "letzte_5_spiele_tore": 2, "verifiziert_via": "Inter-ST, Bank/Backup-Volume-9"}
+      ],
+      "injuries_heim": ["Omar Alderete (Knie OUT)", "Diego Gomez zurueck nach Sperre"],
+      "injuries_gast": ["keine gemeldet - komplett fit"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM exklusiv",
+        "gast": "keine - WM exklusiv",
+        "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"]
+      },
+      "saisonziel_heim": "WM 2026 hat Paraguay nach 26 Jahren wieder ins Achtelfinale gebracht - Bonus-Runde nach spektakulaerem 4:3-iE-Sieg vs Deutschland (Enciso-Fuehrung, Havertz-Ausgleich, ins Elfmeterschiessen). Aber ohne Chance auf Klassen-Fresche gegen Frankreich (Opta 7.6%). Underdog-Traumtor-Motivation aehnlich Kap-Verde-Cluster HR07-04.",
+      "saisonziel_gast": "Weltmeister 2018, WM-Finalist 2022 - Titel-Rueckkehr fokussiert. Gruppe A als Sieger mit 9 Pkt (7:0-Traumstart), R32 3:0 vs Schweden (Mbappe-Doppelpack + Olise-Sub-Tor). Deschamps-Endzyklus (WM 2026 letztes Turnier), Mbappe fuehrt Torschuetzenliste 6 Tore.",
+      "form_heim_letzte_5": "S(iE-GER)-U-N-S-U",
+      "form_gast_letzte_5": "S(R32)-S-S-U-S",
+      "recovery_heim": "6 Tage seit GER-Elfmeterschiessen-Sieg. 120min-Marathon-Muedigkeit auf Zentral-Spielern (Cubas, D. Gomez, Enciso). Diego-Gomez-Frische-Bonus nach Sperre.",
+      "recovery_gast": "4 Tage seit R32-Sieg vs SWE - nur 90 Min gespielt. Alle Startelf-Spieler frisch. Dembele-Sub bei 75. Min vs SWE - Rotationsmarker.",
+      "vereins_belastung_heim": "Brighton-Enciso (28 PL-Spiele Leihe Ipswich), Newcastle-Almiron (48 PL/Cup/Europa League), Palmeiras-Gomez (Brasilianische-Saison + Copa Libertadores). Belastung moderat, keine Top-5-Liga-Stammpieler-Massen.",
+      "vereins_belastung_gast": "PSG-Basis (Dembele 50 Spiele CL-Halbfinale, Barcola 45 Spiele), Real-Mbappe (54 Spiele Champions-Sieg), Bayern-Olise (45 Spiele Bundesmeister), Milan-Maignan (42 Spiele). HR27-Muedigkeit hoch, aber Deschamps rotiert bewusst - Dembele 75. Min Sub vs SWE zeigt intelligentes Belastungs-Management.",
+      "quoten": {
+        "bet365": {
+          "sieg_heim": 15.00,
+          "draw": 7.00,
+          "sieg_gast": 1.20,
+          "dc_1x": 5.00,
+          "dc_12": 1.10,
+          "dc_x2": 1.05,
+          "ueber_1_5": 1.20,
+          "ueber_2_5": 1.65,
+          "unter_2_5": 2.20,
+          "unter_3_5": 1.55,
+          "ueber_3_5": 2.30,
+          "btts_ja": 2.50,
+          "btts_nein": 1.55,
+          "torschuetzen": {
+            "Kylian Mbappe": 1.57,
+            "Marcus Thuram": 2.40,
+            "Bradley Barcola": 2.75,
+            "Ousmane Dembele": 2.30,
+            "Michael Olise": 2.95,
+            "Julio Enciso": 5.00,
+            "Adam Bareiro Avalos": 6.50,
+            "Miguel Almiron": 7.00,
+            "Antonio Sanabria": 8.00,
+            "Adrien Rabiot": 6.00
+          },
+          "torschuetzen_doppelpack": {
+            "Kylian Mbappe": 3.50,
+            "Ousmane Dembele": 6.00,
+            "Bradley Barcola": 7.50,
+            "Michael Olise": 8.00,
+            "Marcus Thuram": 7.00,
+            "Julio Enciso": 15.00,
+            "Miguel Almiron": 22.00
+          }
+        },
+        "pinnacle": {"sieg_heim": 15.50, "draw": 7.20, "sieg_gast": 1.23},
+        "fair_line_pinnacle_basis_prozent": {"sieg_heim": 6, "draw": 14, "sieg_gast": 80}
+      },
+      "news_kompakt": [
+        "Frankreich extrem Klassen-Favorit (Opta 78.8% / bet365 -500 / Kalshi 81%). Alle Startelf-Spieler fit, keine Sperren. Mbappe fuehrt Turnier-Torschuetzenliste mit 6 Toren (gleichauf Messi).",
+        "Paraguay Underdog-Held nach 4:3-iE-Sieg vs GER (Enciso Kopfball-Fuehrung 42., Havertz Equalizer 54.). Underdog-Traumtor-Motivation im Bonus-Runden-Modus - analog Kap-Verde-Cluster (HR07-04 wo ARG-CAP 3:2 n.V. brauchte).",
+        "Alderete (Kap. IV) OUT wegen Knie - Canale ersetzt (schon gegen GER). Diego Gomez zurueck nach Gruppen-Sperre.",
+        "Mbappe Torschuetzen-Jederzeit @ 1.57 - HR07-03 Torschuetzen-Goldgrube-3/3-Analogie (Ronaldo/Oyarzabal/Xhaka als Stamm-9 in R32-Klassen-Favorit-Rolle alle getroffen).",
+        "bet365 DE 2:0-Insurance gilt WM 2026 - Frankreich-Sieg-Tipp gewinnt wenn FRA im 90min mind. 2:0 gefuehrt hat (Klassen-Kontrolle-Szenario wahrscheinlich)."
+      ],
+      "pre_wm_test_spiele": [
+        "Frankreich 3:1 vs Portugal 07.06. - Mbappe 2 Tore + Olise Assist",
+        "Frankreich 2:0 vs Kolumbien 10.06. - Barcola + Dembele",
+        "Paraguay 1:0 vs Bolivien 08.06. - Enciso Winner Kopfball"
+      ],
+      "quellen_aggregator": [
+        "https://www.oddschecker.com/us/soccer/world-cup/paraguay-v-france",
+        "https://news.bet365.com/en-gb/article/paraguay-v-france-betting-odds-les-bleus-heavy-favourites/2026070108432391989",
+        "https://www.espn.com/soccer/odds/_/gameId/760503",
+        "https://www.rotowire.com/soccer/article/france-vs-paraguay-picks-tips-odds-best-bets-2026-world-cup-round-of-16-121004"
+      ]
+    }
+  ]
+}
