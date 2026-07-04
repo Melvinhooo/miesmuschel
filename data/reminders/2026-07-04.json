@@ -1,11 +1,17 @@
 {
-  "stand": "2026-07-04T16:09:40.361914+00:00",
+  "stand": "2026-07-04T19:47:10.134657+00:00",
   "gesendet": {
     "2026-07-04-can-mar": {
       "sent_at": "2026-07-04T16:09:38.399355+00:00",
       "anstoss": "2026-07-04T19:00:00+02:00",
       "spiel": "Kanada vs Marokko",
       "top_tipp": "Unter 3.5 Tore CAN-MAR"
+    },
+    "2026-07-04-par-fra": {
+      "sent_at": "2026-07-04T19:47:08.260856+00:00",
+      "anstoss": "2026-07-04T23:00:00+02:00",
+      "spiel": "Paraguay vs Frankreich",
+      "top_tipp": "Kylian Mbappe Torschuetze Jederzeit"
     }
   }
 }
