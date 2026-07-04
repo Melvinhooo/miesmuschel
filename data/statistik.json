@@ -1,37 +1,37 @@
 {
-  "letzte_berechnung": "2026-07-03T07:10:29+00:00",
+  "letzte_berechnung": "2026-07-04T07:12:52+00:00",
   "gesamt": {
-    "tipps": 474,
-    "gewonnen": 266,
-    "verloren": 197,
+    "tipps": 484,
+    "gewonnen": 270,
+    "verloren": 203,
     "push": 2,
     "offen": 9,
-    "einsatz": 465.0,
-    "netto": 33.53,
-    "trefferquote": 57.5,
-    "roi_prozent": 7.2
+    "einsatz": 475.0,
+    "netto": 29.82,
+    "trefferquote": 57.1,
+    "roi_prozent": 6.3
   },
   "letzte_30_tage": {
-    "tipps": 178,
-    "gewonnen": 105,
-    "verloren": 73,
+    "tipps": 186,
+    "gewonnen": 108,
+    "verloren": 78,
     "push": 0,
     "offen": 0,
-    "einsatz": 178.0,
-    "netto": 4.52,
-    "trefferquote": 59.0,
-    "roi_prozent": 2.5
+    "einsatz": 186.0,
+    "netto": 0.81,
+    "trefferquote": 58.1,
+    "roi_prozent": 0.4
   },
   "letzte_90_tage": {
-    "tipps": 474,
-    "gewonnen": 266,
-    "verloren": 197,
+    "tipps": 484,
+    "gewonnen": 270,
+    "verloren": 203,
     "push": 2,
     "offen": 9,
-    "einsatz": 465.0,
-    "netto": 33.53,
-    "trefferquote": 57.5,
-    "roi_prozent": 7.2
+    "einsatz": 475.0,
+    "netto": 29.82,
+    "trefferquote": 57.1,
+    "roi_prozent": 6.3
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -981,15 +981,15 @@
       "roi_prozent": 0.0
     },
     "FIFA WM 2026 - Round of 32": {
-      "tipps": 14,
-      "gewonnen": 7,
-      "verloren": 7,
+      "tipps": 24,
+      "gewonnen": 11,
+      "verloren": 13,
       "push": 0,
       "offen": 0,
-      "einsatz": 14.0,
-      "netto": -1.39,
-      "trefferquote": 50.0,
-      "roi_prozent": -9.9
+      "einsatz": 24.0,
+      "netto": -5.1,
+      "trefferquote": 45.8,
+      "roi_prozent": -21.2
     }
   },
   "nach_markt": {
@@ -1797,15 +1797,15 @@
       "roi_prozent": 42.0
     },
     "Unter 2.5 Tore": {
-      "tipps": 16,
-      "gewonnen": 12,
+      "tipps": 17,
+      "gewonnen": 13,
       "verloren": 4,
       "push": 0,
       "offen": 0,
-      "einsatz": 16.0,
-      "netto": 5.05,
-      "trefferquote": 75.0,
-      "roi_prozent": 31.6
+      "einsatz": 17.0,
+      "netto": 5.62,
+      "trefferquote": 76.5,
+      "roi_prozent": 33.1
     },
     "Unter 211.5 Punkte (Total)": {
       "tipps": 1,
@@ -2160,15 +2160,15 @@
       "roi_prozent": -100.0
     },
     "Ueber 2.5 Tore": {
-      "tipps": 24,
+      "tipps": 25,
       "gewonnen": 13,
-      "verloren": 9,
+      "verloren": 10,
       "push": 0,
       "offen": 2,
-      "einsatz": 22.0,
-      "netto": 7.03,
-      "trefferquote": 59.1,
-      "roi_prozent": 32.0
+      "einsatz": 23.0,
+      "netto": 6.03,
+      "trefferquote": 56.5,
+      "roi_prozent": 26.2
     },
     "Unter 3.5 Tore": {
       "tipps": 4,
@@ -4655,6 +4655,94 @@
       "netto": 1.5,
       "trefferquote": 100.0,
       "roi_prozent": 150.0
+    },
+    "Lionel Messi Torschuetze Jederzeit": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.57,
+      "trefferquote": 100.0,
+      "roi_prozent": 57.0
+    },
+    "Argentinien gewinnt (Sieg 1)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Lautaro Martinez Torschuetze Jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Kolumbien gewinnt (Sieg 1)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.4,
+      "trefferquote": 100.0,
+      "roi_prozent": 40.0
+    },
+    "Luis Diaz Torschuetze Jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Beide Teams treffen NEIN": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.75,
+      "trefferquote": 100.0,
+      "roi_prozent": 75.0
+    },
+    "Julian Alvarez Torschuetze Jederzeit (Einwechsel-Kandidat)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "James Rodriguez Torschuetze Jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
     }
   },
   "nach_markt_typ": {
@@ -4714,26 +4802,26 @@
       "roi_prozent": 3.8
     },
     "Torschuetzen Jederzeit": {
-      "tipps": 83,
-      "gewonnen": 31,
-      "verloren": 50,
+      "tipps": 88,
+      "gewonnen": 32,
+      "verloren": 54,
       "push": 2,
       "offen": 0,
-      "einsatz": 83.0,
-      "netto": 9.35,
-      "trefferquote": 38.3,
-      "roi_prozent": 11.3
+      "einsatz": 88.0,
+      "netto": 5.92,
+      "trefferquote": 37.2,
+      "roi_prozent": 6.7
     },
     "Unter 2.5 Tore": {
-      "tipps": 24,
-      "gewonnen": 16,
+      "tipps": 25,
+      "gewonnen": 17,
       "verloren": 8,
       "push": 0,
       "offen": 0,
-      "einsatz": 24.0,
-      "netto": 5.42,
-      "trefferquote": 66.7,
-      "roi_prozent": 22.6
+      "einsatz": 25.0,
+      "netto": 5.99,
+      "trefferquote": 68.0,
+      "roi_prozent": 24.0
     },
     "Doppelte Chance 1X": {
       "tipps": 27,
@@ -4758,15 +4846,15 @@
       "roi_prozent": 7.7
     },
     "Ueber 2.5 Tore": {
-      "tipps": 38,
+      "tipps": 39,
       "gewonnen": 22,
-      "verloren": 14,
+      "verloren": 15,
       "push": 0,
       "offen": 2,
-      "einsatz": 36.0,
-      "netto": 9.63,
-      "trefferquote": 61.1,
-      "roi_prozent": 26.7
+      "einsatz": 37.0,
+      "netto": 8.63,
+      "trefferquote": 59.5,
+      "roi_prozent": 23.3
     },
     "Beide Teams treffen JA": {
       "tipps": 10,
@@ -5132,15 +5220,15 @@
       "roi_prozent": -100.0
     },
     "Beide Teams treffen NEIN": {
-      "tipps": 1,
-      "gewonnen": 0,
+      "tipps": 2,
+      "gewonnen": 1,
       "verloren": 1,
       "push": 0,
       "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
+      "einsatz": 2.0,
+      "netto": -0.25,
+      "trefferquote": 50.0,
+      "roi_prozent": -12.5
     },
     "Marokko zu Null": {
       "tipps": 1,
@@ -5174,52 +5262,74 @@
       "netto": 0.75,
       "trefferquote": 100.0,
       "roi_prozent": 75.0
+    },
+    "Argentinien gewinnt (Sieg 1)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Kolumbien gewinnt (Sieg 1)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.4,
+      "trefferquote": 100.0,
+      "roi_prozent": 40.0
     }
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 208,
-      "gewonnen": 110,
-      "verloren": 93,
+      "tipps": 213,
+      "gewonnen": 113,
+      "verloren": 95,
       "push": 1,
       "offen": 4,
-      "einsatz": 204.0,
-      "netto": 14.63,
-      "trefferquote": 54.2,
-      "roi_prozent": 7.2
+      "einsatz": 209.0,
+      "netto": 14.52,
+      "trefferquote": 54.3,
+      "roi_prozent": 6.9
     },
     "2.00-3.00": {
-      "tipps": 67,
+      "tipps": 69,
       "gewonnen": 26,
-      "verloren": 39,
+      "verloren": 41,
       "push": 1,
       "offen": 1,
-      "einsatz": 66.0,
-      "netto": 4.44,
-      "trefferquote": 40.0,
-      "roi_prozent": 6.7
+      "einsatz": 68.0,
+      "netto": 2.44,
+      "trefferquote": 38.8,
+      "roi_prozent": 3.6
     },
     "1.00-1.50": {
-      "tipps": 179,
-      "gewonnen": 124,
-      "verloren": 51,
+      "tipps": 181,
+      "gewonnen": 125,
+      "verloren": 52,
       "push": 0,
       "offen": 4,
-      "einsatz": 175.0,
-      "netto": 8.91,
-      "trefferquote": 70.9,
-      "roi_prozent": 5.1
+      "einsatz": 177.0,
+      "netto": 8.31,
+      "trefferquote": 70.6,
+      "roi_prozent": 4.7
     },
     "3.00+": {
-      "tipps": 20,
+      "tipps": 21,
       "gewonnen": 6,
-      "verloren": 14,
+      "verloren": 15,
       "push": 0,
       "offen": 0,
-      "einsatz": 20.0,
-      "netto": 5.55,
-      "trefferquote": 30.0,
-      "roi_prozent": 27.8
+      "einsatz": 21.0,
+      "netto": 4.55,
+      "trefferquote": 28.6,
+      "roi_prozent": 21.7
     }
   },
   "nach_kategorie": {
@@ -5235,26 +5345,26 @@
       "roi_prozent": 1.0
     },
     "value": {
-      "tipps": 284,
-      "gewonnen": 159,
-      "verloren": 114,
+      "tipps": 289,
+      "gewonnen": 162,
+      "verloren": 116,
       "push": 2,
       "offen": 9,
-      "einsatz": 275.0,
-      "netto": 31.62,
-      "trefferquote": 58.2,
-      "roi_prozent": 11.5
+      "einsatz": 280.0,
+      "netto": 31.34,
+      "trefferquote": 58.3,
+      "roi_prozent": 11.2
     },
     "wackel": {
-      "tipps": 95,
-      "gewonnen": 43,
-      "verloren": 52,
+      "tipps": 100,
+      "gewonnen": 44,
+      "verloren": 56,
       "push": 0,
       "offen": 0,
-      "einsatz": 95.0,
-      "netto": 0.96,
-      "trefferquote": 45.3,
-      "roi_prozent": 1.0
+      "einsatz": 100.0,
+      "netto": -2.47,
+      "trefferquote": 44.0,
+      "roi_prozent": -2.5
     }
   },
   "clv_gesamt": {
@@ -5296,6 +5406,107 @@
     }
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-07-03",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "Safe-Kombi (~3.74x)",
+          "kategorie": "safe",
+          "gesamtquote": 3.74,
+          "einsatz_prozent": 1.5,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Ueber 2.5 Tore ARG-CAP",
+              "quote": 1.7,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Luis Diaz Torschuetze Jederzeit",
+              "quote": 2.2,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi (~7.4x)",
+          "kategorie": "balance",
+          "gesamtquote": 7.4,
+          "einsatz_prozent": 0.5,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Lautaro Martinez Torschuetze Jederzeit",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "James Rodriguez Torschuetze Jederzeit",
+              "quote": 4.0,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi (~11.9x)",
+          "kategorie": "risk",
+          "gesamtquote": 11.9,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Lionel Messi Doppelpack (2+ Tore)",
+              "quote": 3.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Jhon Cordoba Torschuetze Jederzeit",
+              "quote": 3.4,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi (~35x)",
+          "kategorie": "moonshot",
+          "gesamtquote": 35.0,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Julian Alvarez Doppelpack (2+ Tore) - Einwechsel-Boost inbegriffen",
+              "quote": 5.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Jhon Cordoba Doppelpack (2+ Tore)",
+              "quote": 7.0,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-07-02",
       "gesamt": {

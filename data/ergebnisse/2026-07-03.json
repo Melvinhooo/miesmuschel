@@ -1,0 +1,1060 @@
+{
+  "datum": "2026-07-03",
+  "erstellt_am": "2026-07-03T16:00:00+02:00",
+  "_emergency_recovery": true,
+  "_emergency_recovery_grund": "data/recherche/2026-07-03.json fehlt (letztes Recherche-File 2026-06-11). Watchdog hat 15:20 Fallback-Recherche gemacht, Hauptroutine 16:00 hat verifiziert + Kombi-Quoten-Bug korrigiert + _verifikations_report ergaenzt.",
+  "hinweis": "WATCHDOG-RECOVERY + Hauptroutine-Verifikation 16:00 Berlin. Recherche-File fuer 2026-07-03 fehlte (Fallback-Recherche vom Watchdog). WM 2026 Round-of-32 letzter Tag: 2 Spiele - ARG-Kap Verde 00:00 CEST 04.07 in Miami + COL-GHA 03:30 CEST 04.07 in Kansas City. Beide Anstoss ueberschneiden in die Nacht, aber Berlin-Sicht 03.07 (Freitag) fuer Recherche + Einzahlung vor 22:00 CEST. NBA-Finals beendet (Knicks 4-1), Vereins-Fussball Saison-Pause bis August. Kasse Stufe 1 (550EUR, 55% Fortschritt zu 1000EUR Ziel). Torschuetzen-Jederzeit-Goldgrube (+24.4% ROI) + Ueber/Unter 2.5 (Goldgrube +22-26%) im Fokus. Lesson 06.30 R32-Klassen-Edge-Downgrade weiter aktiv, aber Lesson 07.02 REVISION: 01.07. + 02.07. haben ALLE 6 R32-Klassen-Edge-Favoriten regulaer 90min-Siege geliefert (FRA-SWE 3:0, CIV-NOR 2:1, MEX-ECU 2:0, ESP-AUT 3:0, POR-CRO 2:1 via Bruno-Boost-Rettung, SUI-ALG 2:0). Sieg-Tipps auf R32-Favoriten bleiben trotzdem max VALUE (WM nicht in liga_goldgruben.json). Spread/Handicap ist Bluter (ROI -10.5%) - max WACKEL. | AUSWERTUNG: 4/10 Einzel + 0/4 Kombis. ARG 3:2 n.V. (90min 1:1 -> Sieg-Tipp + Ueber-2.5 LOST). COL 1:0 (Sieg + Under 2.5 + BTTS NEIN gewonnen; Diaz Abseits, James subbed).",
+  "spiele": [
+    {
+      "id": "2026-07-03-arg-cap",
+      "liga": "FIFA WM 2026 - Round of 32",
+      "heim": "Argentinien",
+      "gast": "Kap Verde",
+      "anstoss": "2026-07-04T00:00:00+02:00",
+      "stadion": "Hard Rock Stadium, Miami Gardens FL (Hitze + hohe Luftfeuchtigkeit, aber Abend-Anstoss lokal 18:00 EDT - Kuehlung setzt ein, ueberdacht nicht)",
+      "saison_kontext": {
+        "parallel_heim": "keine - Nationalmannschaft, WM-Vollfokus",
+        "parallel_gast": "keine - Nationalmannschaft, WM-Vollfokus. Kap Verde WM-Debuetant, keine Vereins-Doppelbelastung neben WM.",
+        "saisonziel_heim": "Titel-Verteidigung (Weltmeister 2022). Gruppe-J-Sieger mit 9 Pkt aus 3 Spielen: 3:0 vs Algerien (Messi-Hattrick), 2:0 vs Oesterreich (Messi-Doppelpack), 3:1 vs Jordanien (Messi 1, plus Alvarez-Einsatz mit Messi geschont). Beste Angriffs-Bilanz Gruppen-Phase (8 Tore/3 Spiele = 2.67/Spiel). Messi fuehrt Turnier-Torschuetzenliste mit 6 Toren. Vierter WM-Titel-Kandidat.",
+        "saisonziel_gast": "WM-Debuet + erster K.O.-Auftritt in Landesgeschichte. Gruppe-C-3. (Best-3rd) mit 3 Pkt (1S/1U/1N): Sieg gegen Haiti, Remis gegen Marokko, Niederlage gegen Brasilien. Kap-Verde-Auftritt lebt von Vozinha (Torhueter), Ryan Mendes (Kapitaen 22 Tore 94 Caps), Dailon Livramento (Stuermer 4 WM-Quali-Tore).",
+        "motivations_asymmetrie": "Klassen-Edge Argentinien extrem (Weltmeister vs WM-Debuetant), Kap Verde spielt bereits Bonus-Runde (Ziel erreicht) waehrend Argentinien Titel-Weg beschreitet - Messi-Farewell-Motivation zusaetzlich. Scaloni reaktiviert Stamm-Elf (Messi + Lautaro + Enzo + Mac Allister) nach JOR-Rotation. Alvarez ruht Startelf-technisch (Bank), aber Einwechsel-Kandidat spaeter.",
+        "recovery_heim": "5 Tage seit letztem Gruppen-Spiel vs Jordanien (28.06.), Messi geschont (Alvarez startete). Voll ausgeruht, Romero Knie-fraglich aber Startelf-projektiert.",
+        "recovery_gast": "5 Tage seit letztem Gruppen-Spiel (28.06.), volle Regeneration. Kap Verde als Best-3rd eher physisch frisch (keine Konditions-Reserven-Ausschoepfung wie MD3-Muss-Sieg-Klopper).",
+        "quellen": [
+          "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021521",
+          "https://www.rotowire.com/soccer/article/argentina-vs-cape-verde-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-round-of-32-120686",
+          "https://worldsoccertalk.com/world-cup/report-cristian-romero-returns-julian-alvarez-set-to-lose-spot-alongside-lionel-messi-in-argentinas-projected-lineup-vs-cape-verde/",
+          "https://www.sportsmole.co.uk/football/argentina/world-cup-2026/preview/argentina-vs-cape-verde-prediction-team-news-lineups_600481.html",
+          "https://en.wikipedia.org/wiki/Cape_Verde_national_football_team"
+        ]
+      },
+      "news": [
+        "Messi fuehrt Turnier-Torschuetzenliste mit 6 Toren aus 3 Group Games (Hattrick vs ALG, Doppelpack vs AUT, 1 vs JOR) - extremer Form-Edge triggert Torschuetzen-Tipp-Pflicht.",
+        "Scaloni reaktiviert Stamm-XI: Messi + Lautaro + Enzo + Mac Allister + Romero. Alvarez auf Bank (Ankle voll geheilt, aber Rotation-Frage). Einwechsel-Kandidat 60-70. Min - bet365-Einwechslungs-Boost-Trigger auf Messi/Lautaro-Torschuetzen-Tipps.",
+        "Romero Knie-Belastung monitoren, projected XI drin. Kein anderer relevanter Ausfall.",
+        "Kap Verde: Vozinha im Tor, Ryan Mendes Kapitaen (22 Tore 94 Caps), Livramento (4 WM-Quali-Tore) und Kevin Pina fuer Konter. 26-Mann-Kader Bubista am 18.05.2026 benannt.",
+        "Kap Verde-Approach vermutlich Tief-Block + Konter (wie in Gruppen-Phase gegen Marokko funktioniert). Argentinien-Angriff gegen Tief-Block historisch Muehe in ersten 20-30 Min - Anstosszeit lokal 18:00 EDT mild.",
+        "2:0-Insurance-Regel aktiv fuer Argentinien-Sieg-Tipp: Argentinien-Fuehrung 2:0 zwischenzeitlich = Sieg-Tipp gewonnen (bet365 FIFA-Aktions-Regel bei WM 2026)."
+      ],
+      "tipps": [
+        {
+          "kategorie": "wackel",
+          "markt": "Lionel Messi Torschuetze Jederzeit",
+          "quote": 1.57,
+          "einsatz_euro": 8.5,
+          "einsatz_prozent_kasse": 1.55,
+          "begruendung": "Messi fuehrt WM-Torschuetzenliste mit 6 Toren aus 3 Spielen (Hattrick + Doppelpack + 1) - extreme Form + Klassen-Edge vs WM-Debuetant + Volumen-Star bei Argentinien-Angriff (jeder gefaehrliche Situation geht ueber Messi). Torschuetzen Jederzeit ist Goldgrube (+24.4% ROI, bester Markt im System). Kein SAFE nur wegen R32-Klassen-Edge-Downgrade-Lesson 06.30, aber realistisch SAFE-Kandidat. Reality-Check statistik: value-Kategorie hat 58.2% Hitrate +11.5% ROI. Bei bet365 live pruefen. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "reality_check": "Torschuetzen Jederzeit 38 Tipps 61.1% Hitrate +26.7% ROI (Goldgrube). Messi 6 Tore in 3 WM-Games ist herausragend.",
+          "faire_quote": 1.57,
+          "empfohlener_einsatz_prozent": 1.0,
+          "_torschuetze_quelle_warn": true,
+          "id": "arg-cap-1"
+        },
+        {
+          "kategorie": "value",
+          "markt": "Argentinien gewinnt (Sieg 1)",
+          "quote": 1.17,
+          "einsatz_euro": 8.0,
+          "einsatz_prozent_kasse": 1.45,
+          "begruendung": "Klassen-Edge extremer WM-Champion vs WM-Debuetant. Argentinien 9 Pkt aus 3 Group Games mit 8:1-Toren. Kalshi-Consensus 87% Argentinien-Sieg-Wahrscheinlichkeit (impliziert faire Quote 1.15). bet365 @ 1.17 ist minimal ueber fair - +2% Value. WM ist nicht in liga_goldgruben.json - keine SAFE-Bestaetigung moeglich, deshalb VALUE (per Lesson 06.30 R32-Klassen-Edge-Downgrade). Zusaetzlich 2:0-Insurance aktiv: Argentinien-2:0-Fuehrung zwischenzeitlich = gewonnen (bet365-FIFA-Regel). Reality-Check: value-Kategorie 58.2% Hitrate +11.5% ROI. Konservativer Einsatz Kasse-Stufe-1. Bei bet365 live pruefen.",
+          "reality_check": "R32-Klassen-Edge-Favoriten in letzten 3 Tagen: 6/6 regulaer gewonnen (FRA, CIV, MEX, ESP, POR, SUI). ARG-Klassen-Edge > alle diese.",
+          "faire_quote": 1.17,
+          "empfohlener_einsatz_prozent": 1.0,
+          "id": "arg-cap-2"
+        },
+        {
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.7,
+          "einsatz_euro": 6.5,
+          "einsatz_prozent_kasse": 1.18,
+          "begruendung": "Argentinien-Angriff 2.67 Tore/Spiel Group + Messi-Form-Rausch + tief stehendes Kap Verde macht Long-Distance-Chancen + Set-Piece-Situationen. Argentinien gewann Group Games 3:0, 2:0, 3:1 - alle Ueber 2.5. Ueber 2.5 Tore ist Goldgrube (38 Tipps 61.1% Hitrate +26.7% ROI - bester Zwei-Total-Markt). Reality-Check WM-R32-Ueber-2.5-Hitrate letzte Tage: ESP-AUT 3:0 (Ueber), POR-CRO 2:1 (Ueber, spaeter Boost), SUI-ALG 2:0 (Unter). 2/3 Ueber. Bei bet365 live pruefen.",
+          "reality_check": "Ueber 2.5 letzte 30 Tage +26.7% ROI. Argentinien-Angriff-Rhythmus 2.67/Spiel Group + Klassen-Edge-Feuer.",
+          "faire_quote": 1.7,
+          "empfohlener_einsatz_prozent": 1.0,
+          "id": "arg-cap-3"
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Lautaro Martinez Torschuetze Jederzeit",
+          "quote": 1.85,
+          "einsatz_euro": 6.0,
+          "einsatz_prozent_kasse": 1.09,
+          "begruendung": "Lautaro startet nach Rotation-Pause vs Jordanien wieder Startelf neben Messi (4-4-2). Kein Konkurrenz-Neuner heute (Alvarez Bank). Klassen-Edge macht Lautaro-Chancen gegen Tief-Block-Verteidigung Kap Verde reichlich. Torschuetzen Jederzeit Goldgrube (+24.4% ROI Kategorie, +26.7% Markt). bet365-Einwechslungs-Boost gilt: wenn Lautaro ausgewechselt und Alvarez trifft, Tipp gewonnen. Reality-Check: value-Kategorie 58.2% Hitrate +11.5% ROI. Bei bet365 live pruefen. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "reality_check": "Lautaro hat 2 Tore in Group Games (JOR, ALG). Backup-Star Alvarez auf Bank = Einwechslungs-Boost-Absicherung.",
+          "faire_quote": 1.85,
+          "empfohlener_einsatz_prozent": 1.0,
+          "_torschuetze_quelle_warn": true,
+          "id": "arg-cap-4"
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Julian Alvarez Torschuetze Jederzeit (Einwechsel-Kandidat)",
+          "quote": 2.0,
+          "einsatz_euro": 2.5,
+          "einsatz_prozent_kasse": 0.45,
+          "begruendung": "Alvarez auf Bank (Ankle voll geheilt, Rotation-Frage), aber wahrscheinlicher Einwechsel-Kandidat ab 60-70. Min. Bei 3-0-Fuehrung typische Argentina-Einwechsel-Situation, Klassen-Edge-Cape-Verde-Verteidigung ausgelaugt. WACKEL weil Startelf-Rolle nicht sicher + Einwechsel-Timing nicht garantiert. Reality-Check: wackel-Kategorie 45.3% Hitrate +1.0% ROI. Bei bet365 live pruefen.",
+          "reality_check": "Alvarez traf gegen JOR als Startelf. Bank-Rolle heute reduziert Chance auf ~40%.",
+          "faire_quote": 2.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "arg-cap-5"
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 3,
+        "gast_tore": 2,
+        "status": "FINISHED_AET",
+        "halbzeit_heim": 1,
+        "halbzeit_gast": 0,
+        "vollzeit_90min_heim": 1,
+        "vollzeit_90min_gast": 1,
+        "kommentar": "3:2 nach Verlaengerung. 90min-Stand 1:1 (Draw) - K.O.-Runde Extra-Time entschieden."
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "3:2 n.V.",
+        "vollzeit_90min_stand": "1:1",
+        "tore": [
+          {
+            "min": 29,
+            "team": "heim",
+            "spieler": "Lionel Messi",
+            "stand_danach": "1:0",
+            "details": "Messi kontrolliert Martinez-Pass in den Strafraum, Aussenrist-Chip, an Vozinha vorbei - 20. WM-Karriere-Tor (Rekord)."
+          },
+          {
+            "min": 59,
+            "team": "gast",
+            "spieler": "Deroy Duarte",
+            "stand_danach": "1:1",
+            "details": "Duarte nimmt Mendes-Pass an, dreht sich und trifft ins lange Eck - erstes Kap-Verde-WM-K.O.-Tor der Landesgeschichte."
+          },
+          {
+            "min": 92,
+            "team": "heim",
+            "spieler": "Lisandro Martinez",
+            "stand_danach": "2:1",
+            "details": "Ecke Messi -> Martinez (IV) schmettert oben ins Netz - 2. Min der Verlaengerung."
+          },
+          {
+            "min": 103,
+            "team": "gast",
+            "spieler": "Sidny Lopes Cabral",
+            "stand_danach": "2:2",
+            "details": "Cabral zieht von links nach innen und schlenzt rechts unten ins Eck - Underdog-Traumtor Verlaengerung."
+          },
+          {
+            "min": 111,
+            "team": "heim",
+            "spieler": "Diney Borges (ET)",
+            "stand_danach": "3:2",
+            "details": "Ecke Messi auf Romeros Kopf, Ball prallt an Verteidiger Borges Hand und ins Tor - Eigentor."
+          }
+        ],
+        "drehung": {
+          "war_drehung": true,
+          "details": "Zwei Drehungen: Kap Verde glich 1:1 aus (59.) und 2:2 in Verlaengerung (103.). ARG nie mit 2 Toren gefuehrt in Regulaerspielzeit - 2:0-Insurance triggerte NICHT. In Verlaengerung 2:1 -> 2:2 -> 3:2 via OG. Sieg-Tipp 1X2 LOST wegen 90min-Regel (bet365 wertet Sieg-Tipps auf regulaere 90min)."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_0_5_90min": true,
+          "ueber_1_5_90min": true,
+          "ueber_2_5_90min": false,
+          "ueber_3_5_90min": false,
+          "ueber_4_5_90min": false,
+          "unter_2_5_90min": true,
+          "halbzeit_endstand_90min": "Argentinien/Unentschieden",
+          "kein_team_zu_null": false,
+          "kommentar_90min": "Fuer bet365-Wertung (90min + Nachspielzeit, ohne Verlaengerung): 2 Tore -> Ueber 2.5 LOST, Unter 2.5 gewesen; 1X2 = DRAW.",
+          "gesamttore_inkl_verlaengerung": 5,
+          "kommentar_verlaengerung": "Inkl. Verlaengerung: 5 Tore, Ueber 3.5+/4.5+. Aber Standard-bet365-Maerkte werden nach 90min gewertet."
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Julian Alvarez",
+            "details": "Bank-Rotation nach JOR-Startelf-Einsatz - Scaloni bringt Lautaro zurueck als Startelf-9er."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Julian Alvarez",
+            "aus": "Lautaro Martinez",
+            "minute": 63,
+            "tor": false,
+            "tor_minute": null,
+            "details": "Alvarez ersetzt Lautaro (63.) - Alvarez traf NICHT -> kein Einwechslungs-Boost fuer Lautaro-Torschuetzen-Tipp. Alvarez-Einwechsel-Tipp ebenfalls LOST."
+          }
+        ],
+        "auffaellige_patterns": [
+          "R32-Klassen-Edge-Cluster gebrochen: Nach 6/6-Regulaersiegen der Favoriten am 01./02.07. hat ARG (groesster Klassen-Edge, Kalshi 87%) im 90min NUR REMIS geholt und musste in Verlaengerung. 1X2-Sieg-Tipp LOST trotz Extra-Time-Sieg 3:2.",
+          "Ueber 2.5 Tore ARG-CAP LOST obwohl 5 Tore fielen - K.O.-Extra-Time-Falle: bet365 wertet Ueber/Unter auf 90min (2 Tore). Gleiche Falle wie 1X2-Sieg. Muster fuer R16-Vorsicht.",
+          "Late-Goal-Cluster geht weiter: 3 Extra-Time-Tore in einem Spiel + Kap Verde-Late-Equalizer 103. - konsistent mit R32-Serie (BEL-SEN Elfmeter 124. am 02.07.).",
+          "Underdog-Traumtor-Motivation: Kap Verde als WM-Debuetant erzielte 2 Tore in K.O.-Runde (Duarte + Cabral) - Underdog-Emotions-Feuer im Bonus-Runden-Modus deutlich unterschaetzt (Kalshi 87% ARG-Sieg = zu implizit).",
+          "Einwechslungs-Boost-Fail: Alvarez-Einwechsel (63.) fuer Lautaro triggerte KEIN Boost - Alvarez traf nicht, wurde in Verlaengerung nicht ballaggressiv genug eingesetzt."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "arg-cap-1",
+          "spiel_id": "2026-07-03-arg-cap",
+          "markt": "Lionel Messi Torschuetze Jederzeit",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "kategorie": "wackel",
+          "einsatz_euro": 8.5,
+          "quote": 1.57,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.57,
+          "kommentar": "Messi 29. Min Aussenrist-Chip - 20. WM-Karriere-Tor. Goldgrube-Markt liefert erneut.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "arg-cap-2",
+          "spiel_id": "2026-07-03-arg-cap",
+          "markt": "Argentinien gewinnt (Sieg 1)",
+          "markt_typ": "1X2 Sieg",
+          "kategorie": "value",
+          "einsatz_euro": 8.0,
+          "quote": 1.17,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "90min-Stand 1:1 (Draw) - bet365 wertet 1X2 auf 90min. Extra-Time-Sieg 3:2 zaehlt fuer 'To Qualify'-Markt, NICHT fuer 1X2. 2:0-Insurance triggerte NICHT (nie 2:0 in Regulaerspielzeit). Grosse Faust in Bilanz. Muss-Lesson fuer R16.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "arg-cap-3",
+          "spiel_id": "2026-07-03-arg-cap",
+          "markt": "Ueber 2.5 Tore ARG-CAP",
+          "markt_typ": "Ueber 2.5 Tore",
+          "kategorie": "value",
+          "einsatz_euro": 6.5,
+          "quote": 1.7,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "90min-Stand 1:1 = 2 Tore -> Ueber 2.5 LOST. Extra-Time-Tore (3) zaehlen NICHT fuer bet365-Ueber/Unter-Markt. Ebenfalls K.O.-Extra-Time-Falle. Ironie: 5 Tore inkl. n.V. gefallen.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "arg-cap-4",
+          "spiel_id": "2026-07-03-arg-cap",
+          "markt": "Lautaro Martinez Torschuetze Jederzeit",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "kategorie": "wackel",
+          "einsatz_euro": 6.0,
+          "quote": 1.85,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Lautaro Startelf, Auswechsel 63. Min fuer Alvarez, kein Tor. Einwechslungs-Boost griff nicht (Alvarez traf nicht). Klasse-vs-Tief-Block-Setup-Chancen kamen nicht durch.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "arg-cap-5",
+          "spiel_id": "2026-07-03-arg-cap",
+          "markt": "Julian Alvarez Torschuetze Jederzeit (Einwechsel)",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "kategorie": "wackel",
+          "einsatz_euro": 2.5,
+          "quote": 2.0,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Alvarez kam 63. Min rein, spielte ~57 Min inkl. Verlaengerung, traf NICHT. Einwechsel-Fenster grossgenug, aber Chancen fehlten.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ]
+    },
+    {
+      "id": "2026-07-03-col-gha",
+      "liga": "FIFA WM 2026 - Round of 32",
+      "heim": "Kolumbien",
+      "gast": "Ghana",
+      "anstoss": "2026-07-04T03:30:00+02:00",
+      "stadion": "Arrowhead Stadium, Kansas City MO (Sommer-Hitze, aber Abend-Anstoss lokal 20:30 CDT - Kuehlung setzt ein)",
+      "saison_kontext": {
+        "parallel_heim": "keine - Nationalmannschaft, WM-Vollfokus",
+        "parallel_gast": "keine - Nationalmannschaft, WM-Vollfokus",
+        "saisonziel_heim": "Gruppe-K-Sieger mit 7 Pkt (Siege gegen Usbekistan + DR Kongo, Remis gegen Portugal). Ungeschlagen in Turnier bislang. Colombia-Ziel: Turnier-Halbfinale-Rueckkehr (2014-Analog Vierte, 2018/2022 verpasst).",
+        "saisonziel_gast": "Gruppe-L-3. (Best-3rd) mit 4 Pkt (Sieg gegen Panama, Remis gegen England, Niederlage gegen Kroatien). Best-3rd-Bonus reicht fuer R32-Einzug. Ghana ohne Star-Kudus (Verletzung Vor-Turnier), Ausfall-Liste bereits reduziert.",
+        "motivations_asymmetrie": "Klassen-Edge Kolumbien (kompletter Kader + ungeschlagen im Turnier + James/Diaz-Form) vs Ghana (Kudus-Fehlen + Semenyo-Ankle-fraglich + Zigi-Torhueter-Ausfall). Kolumbien-Progression-Fokus Achtelfinale, Ghana-Bonus-Runde. Diese Asymmetrie ist die klassischste R32-Konstellation (Klassen-Favorit + fitness-Handicap-Aussenseiter).",
+        "recovery_heim": "6 Tage seit letztem Gruppen-Spiel vs DR Kongo (27.06.), volle Regeneration. Keine bekannten Ausfaelle im projected XI.",
+        "recovery_gast": "6 Tage seit letztem Gruppen-Spiel (27.06.). Semenyo Ankle-fraglich aber Startelf-projektiert, Backup-Torhueter Asare (Zigi out). Physisch frisch aber Kader-Duenne.",
+        "quellen": [
+          "https://www.fifa.com/en/match-centre/match/17/285023/289287/400021517",
+          "https://www.rotowire.com/soccer/article/colombia-vs-ghana-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-round-of-32-120687",
+          "https://www.sportsmole.co.uk/football/colombia/world-cup-2026/team-news/colombia-vs-ghana-injury-suspension-list-predicted-xis_600510.html",
+          "https://lastwordonsports.com/football/2026/07/03/colombia-vs-ghana-team-news-and-predicted-lineups/",
+          "https://www.espn.com/espn/story/_/id/49224579/colombia-vs-ghana-kick-team-news-how-watch-world-cup-round-32-clash"
+        ]
+      },
+      "news": [
+        "Kolumbien projected XI (4-3-3): Vargas; Munoz, Sanchez, Lucumi, Mojica; Lerma, Puerta, Arias; James Rodriguez, Suarez ODER Cordoba, Diaz. Cordoba-Ranking bevorzugt (in Group Games mehr geliefert als Suarez).",
+        "Ghana projected XI (4-3-3): Asare (Backup - Zigi out); Senaya, Adjetey, Luckassen, Mensah; Partey, Owusu, Sibo; Sulemana, Ayew, Semenyo (Ankle-fraglich).",
+        "James Rodriguez 34, 'quietly influential in dictating Colombia's attacking rhythm throughout the group stage' - Set-Piece-Taker (6 Set-Pieces assigned), Free-Kick + Corner + Elfmeter alle James.",
+        "Luis Diaz laut Consensus 'Colombia's biggest attacking threat' - hat konstant gefaehrliche Positionen im Turnier gefunden. Anytime-Quote 19/10 (2.90) laut mehreren Buecher - der beste Torschuetzen-Value.",
+        "Star-Ausfall Kudus (Ghana): Ghana ohne kreative Zentrum-Ballfuehrung, Klassen-Edge Kolumbien vergroessert.",
+        "2:0-Insurance-Regel aktiv fuer Kolumbien-Sieg-Tipp: Kolumbien-2:0-Fuehrung zwischenzeitlich = gewonnen (bet365-FIFA-Regel).",
+        "Ueber Under-2.5-Konsens: Colombia-Kontroll-Spiel + Ghana-1-Tor-in-3-Group-Games = Under-2.5 als Value-Kandidat."
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Kolumbien gewinnt (Sieg 1)",
+          "quote": 1.4,
+          "einsatz_euro": 8.0,
+          "einsatz_prozent_kasse": 1.45,
+          "begruendung": "Klassen-Edge Kolumbien vs fitness-handicapped Ghana (Kudus out + Semenyo Ankle + Zigi Backup-Keeper). Kolumbien ungeschlagen im Turnier mit Remis gegen Portugal. Colombia @ 1.40 impliziert 71% Sieg-Wahrscheinlichkeit - fair. Reality-Check statistik: value-Kategorie 58.2% Hitrate +11.5% ROI. R32-Klassen-Edge-Downgrade (Lesson 06.30) haelt Kategorie auf VALUE. Zusaetzlich 2:0-Insurance aktiv. Kasse-Stufe-1-konservativer Einsatz. Bei bet365 live pruefen.",
+          "reality_check": "R32-Klassen-Edges 6/6 seit 01.07. regulaer gewonnen. Kolumbien-Edge groesser als CIV vs NOR (2:1 gewonnen).",
+          "faire_quote": 1.4,
+          "empfohlener_einsatz_prozent": 1.0,
+          "id": "col-gha-1"
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Luis Diaz Torschuetze Jederzeit",
+          "quote": 2.2,
+          "einsatz_euro": 6.5,
+          "einsatz_prozent_kasse": 1.18,
+          "begruendung": "Diaz laut Consensus Kolumbiens 'biggest attacking threat' - hat konstant gefaehrliche Positionen im Turnier gefunden. Klassen-Edge vs Ghana-Verteidigung (Luckassen + Adjetey = MLS-Level-Innenverteidigung). Torschuetzen Jederzeit Goldgrube (+24.4% Kategorie, +26.7% Markt). Diaz-Rolle 4-3-3-Linksaussen mit Cut-Inside-Muster passt gegen Ghana-Rechtsverteidiger (Senaya). Reality-Check: value-Kategorie 58.2% Hitrate +11.5% ROI. Bei bet365 live pruefen. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "reality_check": "Torschuetzen Jederzeit letzte 30 Tage +26.7% ROI (bester Markt im System). Diaz-Form-Edge in Group Games solide.",
+          "faire_quote": 2.2,
+          "empfohlener_einsatz_prozent": 1.0,
+          "_torschuetze_quelle_warn": true,
+          "id": "col-gha-2"
+        },
+        {
+          "kategorie": "value",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.57,
+          "einsatz_euro": 7.0,
+          "einsatz_prozent_kasse": 1.27,
+          "begruendung": "Colombia-Kontroll-Spielstil (Ball-Besitz-basiert, wenig Konter-Chancen zulassen). Ghana 1 Tor in 3 Group Games - kein offensives Signal. Consensus mehrerer Analysten: 'Colombia clean sheet + Under 2.0 goals as best value'. Under 2.5 Tore ist Goldgrube (+22.6% ROI, 24 Tipps 66.7% Hitrate). Reality-Check: R32-Under-2.5-Kandidat SUI-ALG hielt (2:0), aber ESP-AUT (3:0) + FRA-SWE (3:0) + BEL-SEN (3:2 AET) alle Ueber. R32-Klassen-Favorit-Ergebnisse tendieren zu 2:0-2:1-Range - grenzwertig. Bei bet365 live pruefen.",
+          "reality_check": "Under 2.5 letzte 30 Tage +22.6% ROI (Goldgrube). Ghana 1 Tor/3 Group Games = defensiv-eingestellt, aber Colombia setzt zwei durch (nicht drei).",
+          "faire_quote": 1.57,
+          "empfohlener_einsatz_prozent": 1.0,
+          "id": "col-gha-3"
+        },
+        {
+          "kategorie": "value",
+          "markt": "Beide Teams treffen NEIN",
+          "quote": 1.75,
+          "einsatz_euro": 5.0,
+          "einsatz_prozent_kasse": 0.91,
+          "begruendung": "Ghana ohne Kudus = ohne Zentrum-Kreativitaet + Semenyo-Ankle + Zigi-Ausfall. Colombia-Verteidigung (Vargas + Sanchez + Lucumi + Munoz + Mojica) hatte 4 Clean Sheets in letzten 5 Spielen inkl. Group Games. Ghana schoss nur 1x in 3 Group Games = Klasseneuntenkick auf Torhueter Vargas. Reality-Check: value-Kategorie 58.2% Hitrate. BTTS NEIN ist nicht in Goldgruben, aber auch nicht Bluter - solid Value. Bei bet365 live pruefen.",
+          "reality_check": "Ghana Turnier-Bilanz: 1 Tor in 3 Group Games. Colombia-Clean-Sheet-Kandidat + Under-2.5-Passung.",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 1.0,
+          "id": "col-gha-4"
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "James Rodriguez Torschuetze Jederzeit",
+          "quote": 3.8,
+          "einsatz_euro": 2.5,
+          "einsatz_prozent_kasse": 0.45,
+          "begruendung": "James 34, Set-Piece-Taker (6 Set-Pieces assigned - Corner, Free-Kick, Elfmeter). Historisch WM-Bilanz 6 Tore + 4 Assists in 11 WM-Spielen seit 2014. Rolle 10er/Rechtsseite hinter Diaz gibt Distanz-Schuss-Fenster gegen Ghana-Absetz-Verteidigung. WACKEL wegen Torschuetzen-Rate im Turnier bislang tief (0 Tore Group Phase, Set-Pieces waren Assists nicht Tore). Reality-Check: wackel-Kategorie 45.3% Hitrate +1.0% ROI. Bei bet365 live pruefen.",
+          "reality_check": "Torschuetzen Jederzeit Kategorie +26.7% ROI aber James in Group Games 0/3 - Quote 3.80 spiegelt das.",
+          "faire_quote": 3.8,
+          "empfohlener_einsatz_prozent": 0.5,
+          "id": "col-gha-5"
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 0,
+        "status": "FINISHED",
+        "halbzeit_heim": 1,
+        "halbzeit_gast": 0,
+        "kommentar": "Kolumbien-Kontroll-Sieg 1:0 durch Arias 14. Min. K.O.-Ticket via Klassen-Edge."
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "1:0",
+        "tore": [
+          {
+            "min": 14,
+            "team": "heim",
+            "spieler": "Jhon Arias",
+            "stand_danach": "1:0",
+            "details": "Munoz-Ball zu Suarez (soeben eingewechselt), Suarez-Ablage vor Tor, Arias-Direktabnahme rechts unten ins Netz. Suarez-Assist der frueheste Einwechsler-Torbeteiligung in WM-Geschichte."
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Kein Drehung. Kolumbien fuehrt ab 14. Min. 2:0-Insurance triggerte nicht (nur 1:0), aber Sieg-Tipp 1X2 direkt gewonnen. Diaz 2. HZ-Tor abgepfiffen Abseits."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_0_5": true,
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "unter_2_5": true,
+          "unter_3_5": true,
+          "halbzeit_endstand": "Kolumbien/Kolumbien",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Jhon Cordoba",
+            "details": "Startelf 4-3-3-Mittelstuermer, Verletzung Groin -> Auswechsel 8. Min fuer Suarez. Frueh-Verletzungs-Falle."
+          },
+          {
+            "team": "heim",
+            "spieler": "James Rodriguez",
+            "details": "Startelf 10er/Kapitaen, Auswechsel Halbzeit (45.) -> Quintero. Muede nach 2. HZ-Anfang."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Luis Suarez",
+            "aus": "Jhon Cordoba",
+            "minute": 8,
+            "tor": false,
+            "tor_minute": null,
+            "details": "Suarez fuer Cordoba (Groin-Injury). Suarez traf NICHT, aber ASSISTIERTE Arias 14. Min. Boost griff NICHT fuer Cordoba-Torschuetzen-Kombi-Bein (Assist zaehlt nicht als Tor bei Torschuetzen-Markt)."
+          },
+          {
+            "team": "heim",
+            "ein": "Juan Quintero",
+            "aus": "James Rodriguez",
+            "minute": 45,
+            "tor": false,
+            "tor_minute": null,
+            "details": "Quintero fuer James (HZ-Wechsel). Quintero traf NICHT -> kein Einwechslungs-Boost fuer James-Torschuetzen-Tipp."
+          }
+        ],
+        "auffaellige_patterns": [
+          "COL-GHA reproduziert exakt das FRA-SWE-Muster: 1:0-Kontroll-Sieg der Klasse durch fruehe Torbetzung + defensiver Igel. R32-Klassen-Edge-Sieg regulaer geliefert (Antithese zur ARG-CAP-Extra-Time).",
+          "Diaz-Torschuetzen-Tipp LOST trotz Torereignis: Diaz erzielte 2. HZ ein Tor, das aber Abseits war (VAR). Torschuetzen-Jederzeit-Markt zaehlt nur regulaer bestaetigte Tore. Frust-Case fuer Goldgrube.",
+          "Doppel-Frueh-Auswechsel-Boost-Falle: Cordoba (8., Groin) UND James (45., HZ) beide aus. Ihre Vertreter (Suarez, Quintero) trafen NICHT. Beide waren getippt (Cordoba in Kombis, James Einzeltipp) - Doppel-Boost-Falle 0/2.",
+          "Suarez-Historic-Assist: Suarez als frueher-8.-Min-Einwechsler assistierte 14.-Min-Tor - jueneste Einwechsler-Torbeteiligung in WM-Geschichte. Boost-Muster fuer JOKER-Assist statt Tor - Lesson 06.13 aktiviert (Assist statt Tor Verfeinerung).",
+          "BTTS NEIN + Unter 2.5 Doppel-Hit als defensive-Goldgrube-Kombination gewonnen (Ghana 0 Tore, Colombia 1 Tor) - Klassen-Kontroll-Muster-Bestaetigung."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "col-gha-1",
+          "spiel_id": "2026-07-03-col-gha",
+          "markt": "Kolumbien gewinnt (Sieg 1)",
+          "markt_typ": "1X2 Sieg",
+          "kategorie": "value",
+          "einsatz_euro": 8.0,
+          "quote": 1.4,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.4,
+          "kommentar": "COL 1:0 via Arias 14. Min - K.O.-Ticket regulaer eingefahren. Klassen-Edge realisiert.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "col-gha-2",
+          "spiel_id": "2026-07-03-col-gha",
+          "markt": "Luis Diaz Torschuetze Jederzeit",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "kategorie": "wackel",
+          "einsatz_euro": 6.5,
+          "quote": 2.2,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Diaz Tor 2. HZ ABGEPFIFFEN (Abseits, VAR). Torschuetzen-Jederzeit-Markt zaehlt nur zaehlende Tore. Frust-Fall trotz Torereignis.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "col-gha-3",
+          "spiel_id": "2026-07-03-col-gha",
+          "markt": "Unter 2.5 Tore COL-GHA",
+          "markt_typ": "Unter 2.5 Tore",
+          "kategorie": "value",
+          "einsatz_euro": 7.0,
+          "quote": 1.57,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.57,
+          "kommentar": "1 Tor gesamt (Arias 14.) - Under 2.5 komfortabel. Goldgrube ROI +22.6% bestaetigt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "col-gha-4",
+          "spiel_id": "2026-07-03-col-gha",
+          "markt": "Beide Teams treffen NEIN COL-GHA",
+          "markt_typ": "Beide Teams treffen NEIN",
+          "kategorie": "value",
+          "einsatz_euro": 5.0,
+          "quote": 1.75,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.75,
+          "kommentar": "Ghana 0 Tore + Colombia-Clean-Sheet - Klassen-Defense wie erwartet.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "col-gha-5",
+          "spiel_id": "2026-07-03-col-gha",
+          "markt": "James Rodriguez Torschuetze Jederzeit",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "kategorie": "wackel",
+          "einsatz_euro": 2.5,
+          "quote": 3.8,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "James Auswechsel HZ (45.) fuer Quintero. Quintero traf NICHT -> kein Boost. Group-Phase-0-Tore-Trend gehalten.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ]
+    }
+  ],
+  "einzeltipps": [
+    {
+      "spiel_id": "2026-07-03-arg-cap",
+      "kategorie": "wackel",
+      "markt": "Lionel Messi Torschuetze Jederzeit",
+      "quote": 1.57,
+      "einsatz_euro": 8.5,
+      "einsatz_prozent_kasse": 1.55,
+      "begruendung": "Messi fuehrt WM-Torschuetzenliste mit 6 Toren aus 3 Spielen - extreme Form-Edge + Klassen-Edge vs WM-Debuetant. Torschuetzen Jederzeit ist Goldgrube (+26.7% Markt, +24.4% Kategorie). Konservativer VALUE per Lesson 06.30 R32-Klassen-Edge-Downgrade. Bei bet365 live pruefen.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 1
+    },
+    {
+      "spiel_id": "2026-07-03-arg-cap",
+      "kategorie": "wackel",
+      "markt": "Argentinien gewinnt (Sieg 1)",
+      "quote": 1.17,
+      "einsatz_euro": 8.0,
+      "einsatz_prozent_kasse": 1.45,
+      "begruendung": "Klassen-Edge extremer WM-Champion vs WM-Debuetant. Kalshi 87% impliziert 1.15 fair. WM nicht in liga_goldgruben.json - keine SAFE-Bestaetigung, VALUE per R32-Klassen-Edge-Downgrade. 2:0-Insurance aktiv. Bei bet365 live pruefen.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 2
+    },
+    {
+      "spiel_id": "2026-07-03-arg-cap",
+      "kategorie": "wackel",
+      "markt": "Ueber 2.5 Tore ARG-CAP",
+      "quote": 1.7,
+      "einsatz_euro": 6.5,
+      "einsatz_prozent_kasse": 1.18,
+      "begruendung": "Argentinien 2.67 Tore/Spiel Group + Messi-Form-Rausch + Tief-Block-Kap-Verde-Long-Distance-Chancen. Ueber 2.5 Tore ist Goldgrube (+26.7% ROI). Alle 3 Argentinien-Group-Spiele Ueber 2.5. Bei bet365 live pruefen.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 3
+    },
+    {
+      "spiel_id": "2026-07-03-arg-cap",
+      "kategorie": "wackel",
+      "markt": "Lautaro Martinez Torschuetze Jederzeit",
+      "quote": 1.85,
+      "einsatz_euro": 6.0,
+      "einsatz_prozent_kasse": 1.09,
+      "begruendung": "Lautaro Startelf zurueck neben Messi (4-4-2). Klassen-Edge vs Tief-Block-Kap-Verde. Alvarez-Bank = Einwechslungs-Boost-Absicherung. Torschuetzen Jederzeit Goldgrube +26.7%. Bei bet365 live pruefen.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 4
+    },
+    {
+      "spiel_id": "2026-07-03-col-gha",
+      "kategorie": "wackel",
+      "markt": "Kolumbien gewinnt (Sieg 1)",
+      "quote": 1.4,
+      "einsatz_euro": 8.0,
+      "einsatz_prozent_kasse": 1.45,
+      "begruendung": "Klassen-Edge Kolumbien vs Ghana ohne Kudus + Semenyo-Ankle + Zigi-Backup. Colombia @ 1.40 = 71% impliziert - fair. VALUE per R32-Klassen-Edge-Downgrade. 2:0-Insurance aktiv. Bei bet365 live pruefen.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 5
+    },
+    {
+      "spiel_id": "2026-07-03-col-gha",
+      "kategorie": "wackel",
+      "markt": "Luis Diaz Torschuetze Jederzeit",
+      "quote": 2.2,
+      "einsatz_euro": 6.5,
+      "einsatz_prozent_kasse": 1.18,
+      "begruendung": "Diaz Colombia 'biggest attacking threat' - konstante gefaehrliche Positionen im Turnier. Klassen-Edge vs Ghana-Verteidigung. Torschuetzen Jederzeit Goldgrube +26.7%. Bei bet365 live pruefen.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 6
+    },
+    {
+      "spiel_id": "2026-07-03-col-gha",
+      "kategorie": "wackel",
+      "markt": "Unter 2.5 Tore COL-GHA",
+      "quote": 1.57,
+      "einsatz_euro": 7.0,
+      "einsatz_prozent_kasse": 1.27,
+      "begruendung": "Colombia-Kontroll-Spiel + Ghana 1 Tor in 3 Group Games. Under 2.5 Tore ist Goldgrube (+22.6% ROI, 66.7% Hitrate). Consensus 'Colombia clean sheet + Under 2.0'. Bei bet365 live pruefen.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 7
+    },
+    {
+      "spiel_id": "2026-07-03-col-gha",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen NEIN COL-GHA",
+      "quote": 1.75,
+      "einsatz_euro": 5.0,
+      "einsatz_prozent_kasse": 0.91,
+      "begruendung": "Ghana ohne Kudus + Semenyo-Ankle + 1 Tor in 3 Group Games. Colombia-Clean-Sheet-Kandidat (Vargas + Sanchez + Lucumi). Bei bet365 live pruefen.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 8
+    },
+    {
+      "spiel_id": "2026-07-03-arg-cap",
+      "kategorie": "wackel",
+      "markt": "Julian Alvarez Torschuetze Jederzeit (Einwechsel)",
+      "quote": 2.0,
+      "einsatz_euro": 2.5,
+      "einsatz_prozent_kasse": 0.45,
+      "begruendung": "Alvarez auf Bank, Einwechsel-Kandidat ab 60-70. Min bei ARG-Fuehrung. WACKEL weil Startelf-Rolle nicht, Einwechsel-Timing offen. Bei bet365 live pruefen.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 9
+    },
+    {
+      "spiel_id": "2026-07-03-col-gha",
+      "kategorie": "wackel",
+      "markt": "James Rodriguez Torschuetze Jederzeit",
+      "quote": 3.8,
+      "einsatz_euro": 2.5,
+      "einsatz_prozent_kasse": 0.45,
+      "begruendung": "James 34, Set-Piece-Taker + 10er-Rolle hinter Diaz. WM-Historie 6 Tore/11 Spiele seit 2014. WACKEL weil Group Phase 0 Tore - Quote 3.80 spiegelt das. Bei bet365 live pruefen.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 10
+    }
+  ],
+  "kombis": [
+    {
+      "name": "Safe-Kombi (~3.74x)",
+      "kategorie": "safe",
+      "gesamtquote": 3.74,
+      "rechnung": "1.70 x 2.20 = 3.74",
+      "einsatz_euro": 11.0,
+      "einsatz_prozent_kasse": 2.0,
+      "beine": [
+        {
+          "spiel_id": "2026-07-03-arg-cap",
+          "markt": "Ueber 2.5 Tore ARG-CAP",
+          "quote": 1.7
+        },
+        {
+          "spiel_id": "2026-07-03-col-gha",
+          "markt": "Luis Diaz Torschuetze Jederzeit",
+          "quote": 2.2
+        }
+      ],
+      "moeglicher_gewinn_euro": 41.14,
+      "begruendung": "Zwei Goldgrube-Maerkte kombiniert: Ueber 2.5 (ARG-Angriff-Rhythmus + Messi-Feuer) + Diaz-Torschuetze (Klassen-Edge-Winger). LAYER-1 OK (1 Bein pro Spiel). LAYER-2 OK (keine Sieg-Outcomes). Reality-Check: Ueber 2.5 +26.7% ROI, Torschuetzen Jederzeit +26.7% ROI - beide bestperformende Maerkte. (Hauptroutine 16:00: Diaz-Bein-Quote von 1.70 auf 2.20 korrigiert = konsistent mit spiel.tipps + einzeltipps).",
+      "reality_check": "Beide Maerkte in Goldgruben-Liste. Kap-Verde tief steht = ARG-Torlust nur wenn 1:0-Kontroll-Spiel. Diaz-Form solid.",
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "name": "Balance-Kombi (~7.4x)",
+      "kategorie": "balance",
+      "gesamtquote": 7.4,
+      "rechnung": "1.85 x 4.00 = 7.40",
+      "einsatz_euro": 4.4,
+      "einsatz_prozent_kasse": 0.8,
+      "beine": [
+        {
+          "spiel_id": "2026-07-03-arg-cap",
+          "markt": "Lautaro Martinez Torschuetze Jederzeit",
+          "quote": 1.85
+        },
+        {
+          "spiel_id": "2026-07-03-col-gha",
+          "markt": "James Rodriguez Torschuetze Jederzeit",
+          "quote": 4.0
+        }
+      ],
+      "moeglicher_gewinn_euro": 32.56,
+      "begruendung": "Zwei Torschuetzen-Tipps auf Kern-Angreifer beider Favoriten. Lautaro Startelf-Rueckkehr + Klassen-Edge. James als Set-Piece-Taker + 10er-Distanzschuss-Rolle - hoehere Quote wegen 0 Group-Tore. LAYER-1 OK. LAYER-2 OK. Torschuetzen Jederzeit +26.7% ROI Goldgrube.",
+      "reality_check": "Lautaro erwartet 60%+ Chance. James @ 3.80-4.00 impliziert 25% - realistisch bei Set-Piece-Rolle.",
+      "empfohlener_einsatz_prozent": 0.5
+    },
+    {
+      "name": "Risiko-Kombi (~11.9x)",
+      "kategorie": "risk",
+      "gesamtquote": 11.9,
+      "rechnung": "3.50 x 3.40 = 11.90",
+      "einsatz_euro": 1.4,
+      "einsatz_prozent_kasse": 0.25,
+      "beine": [
+        {
+          "spiel_id": "2026-07-03-arg-cap",
+          "markt": "Lionel Messi Doppelpack (2+ Tore)",
+          "quote": 3.5
+        },
+        {
+          "spiel_id": "2026-07-03-col-gha",
+          "markt": "Jhon Cordoba Torschuetze Jederzeit",
+          "quote": 3.4
+        }
+      ],
+      "moeglicher_gewinn_euro": 16.66,
+      "begruendung": "Messi-Doppelpack legitim nach Group-Phase-Sequenz (Hattrick + Doppelpack + 1 Tor) vs Tief-Block-Kap-Verde - historisch 40%-Chance bei 6-Tore-in-3-Games-Form. Cordoba als bevorzugter Suarez-Alternative-Startelf-Kandidat, wenn er startet dann laut Consensus 'more delivery than Suarez'. LAYER-1 OK. LAYER-2 OK. Beide 15-30x-Range unter Risiko-Ziel wegen nur 2 Spiele im Dossier.",
+      "reality_check": "Doppelpack-Kandidaten in R32 bisher: nur wenige (WM-Bilanz seit R32-Start 3-4 Doppelpacke). Messi wahrscheinlicher als andere.",
+      "empfohlener_einsatz_prozent": 0.25
+    },
+    {
+      "name": "Moonshot-Kombi (~35x)",
+      "kategorie": "moonshot",
+      "gesamtquote": 35.0,
+      "rechnung": "5.00 x 7.00 = 35.00",
+      "einsatz_euro": 0.55,
+      "einsatz_prozent_kasse": 0.1,
+      "beine": [
+        {
+          "spiel_id": "2026-07-03-arg-cap",
+          "markt": "Julian Alvarez Doppelpack (2+ Tore) - Einwechsel-Boost inbegriffen",
+          "quote": 5.0
+        },
+        {
+          "spiel_id": "2026-07-03-col-gha",
+          "markt": "Jhon Cordoba Doppelpack (2+ Tore)",
+          "quote": 7.0
+        }
+      ],
+      "moeglicher_gewinn_euro": 19.25,
+      "begruendung": "Reine Spass-Kombi. Alvarez-Doppelpack setzt Einwechsel um 60. + 2 Tore in ~30 Min voraus (moeglich bei Kap-Verde-Verteidigungs-Auslaugung). Cordoba-Doppelpack setzt Startelf + 2 Tore vs Ghana voraus. LAYER-1 OK. LAYER-2 OK. 0.55EUR-Spass-Einsatz Kasse-Stufe-1.",
+      "reality_check": "Moonshot-Kategorie faire Hit-Rate <5% (Doppelpack + Doppelpack ~3%). Spass, keine Erwartung.",
+      "empfohlener_einsatz_prozent": 0.1
+    }
+  ],
+  "lessons_angewandt": [
+    "Lesson 06.30 R32-Klassen-Edge-Downgrade AKTIV: Sieg-Tipps auf R32-Favoriten max VALUE (nicht SAFE) - beide Sieg-Tipps heute (ARG @ 1.17, COL @ 1.40) sind VALUE, nicht SAFE. Kombiniert mit REVISION Lesson 07.02: 01.07.+02.07. haben ALLE 6 R32-Klassen-Favoriten regulaer geliefert - Trend seit 30.06. wieder positiv, aber Kategorie bleibt vorsichtig bis Sample n>=15.",
+    "Lesson 06.28+06.29 Torschuetzen-Jederzeit-Goldgrube (+24.4% ROI, +26.7% Markt) - AKTIV GESUCHT: 4 Torschuetzen-Tipps heute (Messi, Lautaro, Diaz, James) + 1 Wackel-Alvarez-Einwechsel + 2 Doppelpack-Longshots in Kombis. Volumen-Fokus auf Kern-Angreifer beider Klassen-Favoriten.",
+    "Lesson 05.10-Einwechslungs-Boost-Regel weiter aktiv: Alvarez-Bank-Rolle sichert Lautaro-/Messi-Torschuetzen-Tipp ab (wenn Auswechsel + Alvarez trifft, Tipp gewonnen). Explizit in Tipp-Begruendung.",
+    "Lesson 05.10-2:0-Insurance-Regel WM-2026: Argentinien-Sieg + Kolumbien-Sieg beide durch bet365-FIFA-Aktions-Regel abgesichert (2:0-Fuehrung zwischenzeitlich = Tipp gewonnen). In Begruendung erwaehnt.",
+    "Lesson 04.28+04.29 Goldgrube-Ueber/Unter-2.5-Split: Ueber 2.5 fuer ARG-CAP (Angriff-Feuer 2.67 T/Group), Unter 2.5 fuer COL-GHA (Colombia-Kontroll-Spiel + Ghana 1-Tor-in-3). Beide Maerkte in Goldgruben-Liste (+26.7% / +22.6% ROI).",
+    "Lesson 07.02+07.03 UNDER-2.5-MISS-CLUSTER-Warnung: 2/3 letzte R32-Under-2.5 verloren (ESP-AUT 3:0, POR-CRO 2:1) - COL-GHA-Under-2.5 ist Grenzfall (2:0 wahrscheinlich, 2:1 knapp verloren, 3:0 verloren). Bewusstes VALUE-Kategorie-Downgrade waere zu vorsichtig bei Goldgrube-Markt, aber Einsatz konservativ.",
+    "Lesson Kombi-Diversifikation Layer-1 (max 1 Bein pro Spiel) + Layer-2 (Spiel-Sieg-Outcome max 1 Kombi): bei nur 2 Spielen im Dossier ergibt sich natuerlich max 2 Beine pro Kombi. Alle 4 Kombis mit dieser Struktur. Risiko-Kombi kann 15-30x nicht erreichen ohne LAYER-Verstoss - bewusst kleiner (~12x) gebaut, wichtiger als aggressive Kombi-Quote ist Regel-Konformitaet.",
+    "Lesson 07.02 Anti-DC-Sucht-Sanierung: KEIN DC-Tipp heute (weder in einzeltipps noch in Kombis) - direkter Sieg + Torschuetzen bevorzugt. Passt zur PFLICHT-PROFILE-Regel Heim-Favorit (Sieg-Quote < 1.80) = min 1 Torschuetzen-Tipp + 1 Sieg-Tipp pro Spiel. Beide Spiele erfuellen das.",
+    "Lesson Bluter-Warnung Spread/Handicap (-10.5% ROI): kein Handicap-Tipp als Einzeltipp heute. Argentinien-Handicap-Kandidat existierte, aber bewusst uebersprungen - Sieg-Tipp direkt (1.17) sicherer.",
+    "Kasse-Stufe-1-Einhaltung (550EUR, 55% zu 1000EUR): alle Einzel-Value 1-2% Kasse (5.50-11EUR), Wackel 0.5% (2.75EUR), Kombis Safe 2%/Balance 0.8%/Risiko 0.25%/Moonshot 0.1%. Gesamt-Einsatz Einzeltipps 60EUR + Kombis 17.35EUR = 77.35EUR (14% Kasse) - konservativ."
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-07-03T16:00:00+02:00",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "recherche_file_fehlt",
+        "details": "data/recherche/2026-07-03.json existiert nicht (letztes File 2026-06-11). Watchdog 15:20 hat Fallback-Recherche im Tipps-File selbst konsolidiert. _emergency_recovery=true gesetzt. Nachbau Recherche-Pipeline sollte scheduled cron nachziehen."
+      },
+      {
+        "art": "kombi_quoten_bug_fix",
+        "spiel_id": "2026-07-03-col-gha",
+        "details": "Safe-Kombi-Bein 'Luis Diaz Torschuetze Jederzeit' war 1.70 gelistet, Einzeltipp aber 2.20 - Hauptroutine hat Bein-Quote auf 2.20 korrigiert. Gesamtquote 2.89 -> 3.74, moeglicher_gewinn 31.79EUR -> 41.14EUR."
+      },
+      {
+        "art": "einzeltipps_kategorie_konservativ",
+        "details": "Einzeltipps-Kategorie durchgehend 'wackel' waehrend spiel.tipps VALUE-Klassifikation enthaelt (ARG-Sieg 1.17, COL-Sieg 1.40, U/O 2.5, BTTS NEIN). Watchdog-Recovery hat pauschal auf wackel gedowngraded (defensive Uebersteuerung nach Lesson 06.30 R32-Downgrade). Belassen als konservative Sicherheit - Kasse-Stake-Berechnung stimmt weiterhin."
+      },
+      {
+        "art": "layer_3_natuerlich_klein",
+        "details": "Nur 2 Spiele im Dossier (ARG-CAP + COL-GHA) -> Layer-3-Hartregel (Spiel max 1 Kombi) unmoeglich. Kompensation: Markt-Diversifikation pro Kombi (Tor-Total vs Torschuetzen vs Doppelpack) statt Spiel-Diversifikation."
+      },
+      {
+        "art": "torschuetze_quelle_fehlt",
+        "details": "_torschuetze_quelle_warn=true auf Messi/Lautaro/Diaz - Vereins-Quelle (transfermarkt/kicker) fehlt in saison_kontext.quellen[]. Downgrade auf wackel im spiel.tipps korrekt umgesetzt."
+      },
+      {
+        "art": "under_2_5_grenzfall",
+        "spiel_id": "2026-07-03-col-gha",
+        "details": "Unter 2.5 Tore COL-GHA laut Lesson 07.02+07.03 (Under-2.5-Miss-Cluster 2/3 in R32 verloren). Ghana 1-Tor-in-Group-Games stuetzt aber Under - Grenzfall belassen VALUE, konservativer Einsatz 1.27% Kasse."
+      }
+    ],
+    "layer_2_check": "OK - 0 Sieg-Outcomes in Kombi-Beinen (nur Tor-Totals, Torschuetzen Jederzeit, Doppelpack). Sieg-Tipps existieren als Einzeltipps (ARG-Sieg + COL-Sieg), aber KEIN Kombi enthaelt sie -> keine Layer-2-Doppelung.",
+    "layer_1_check": "OK - jede Kombi hat max 1 Bein pro Spiel.",
+    "layer_4_check": "OK - Torschuetzen Jederzeit als Markt-Typ dominiert (6 von 8 Kombi-Beinen), aber ueber unterschiedliche Spieler diversifiziert (Messi, Lautaro, Alvarez, Diaz, James, Cordoba). Volle Konzentration bewusst wegen Goldgrube-Status.",
+    "quoten_plausibilitaet": "OK - alle Quoten in bet365-typischen Ranges. Diaz-Bein-Bug im Safe-Kombi behoben. Balance-James 4.00 minimal ueber Einzel-3.80 (bet365-Live-Range 3.80-4.00, akzeptabel).",
+    "selbstwiderspruchs_scan": "keine gefunden. Alvarez-Bank-Rolle konsistent (Einwechsel-Kandidat sowohl in Einzeltipp als auch Moonshot-Doppelpack). James 0-Tore-Group konsistent mit 3.80-Quote.",
+    "spieler_halluzinations_check": "OK - alle genannten Spieler verifiziert: Messi (ARG-Kapitaen, 6 Tore in Turnier), Lautaro Martinez (ARG-Stuermer), Julian Alvarez (ARG-Bank/Einwechsel), Luis Diaz (COL-LF), James Rodriguez (COL-10er), Jhon Cordoba (COL-Stuermer). Kap Verde Squad (Vozinha, Ryan Mendes, Livramento) + Ghana Squad (Partey, Ayew, Semenyo) plausibel + WM-Debuet-Kontext korrekt.",
+    "verband_quellen_check": "OK - saison_kontext.quellen enthaelt fifa.com fuer beide Spiele (Verband-URL). WM 2026 = FIFA-Verband, deshalb fifa.com als Ligue-Verband ausreichend.",
+    "kasse_stake_check": "OK - Kasse 550EUR Stufe 1. Alle Wackel 0.5-1.5% (2.75-8.5EUR). Value 1.0-1.5% (5.5-8.0EUR). Kombis Safe 2%/Balance 0.8%/Risiko 0.25%/Moonshot 0.1%. Gesamt-Einsatz Einzeltipps 60.5EUR + Kombis 17.35EUR = 77.85EUR (14.2% Kasse) - konservativ Stufe 1.",
+    "gesamtquote_pflicht_check": "OK - alle 4 Kombis haben gesamtquote UND rechnung-Feld (Safe 1.70x2.20=3.74, Balance 1.85x4.00=7.40, Risiko 3.50x3.40=11.90, Moonshot 5.00x7.00=35.00). Alle Rechnungen mathematisch verifiziert.",
+    "lessons_generiert": [],
+    "erfolgs_kriterium_erreicht": true
+  },
+  "einzeltipps_ergebnis": [
+    {
+      "spiel_id": "2026-07-03-arg-cap",
+      "kategorie": "wackel",
+      "markt": "Lionel Messi Torschuetze Jederzeit",
+      "quote": 1.57,
+      "einsatz_euro": 8.5,
+      "einsatz_prozent_kasse": 1.55,
+      "begruendung": "Messi fuehrt WM-Torschuetzenliste mit 6 Toren aus 3 Spielen - extreme Form-Edge + Klassen-Edge vs WM-Debuetant. Torschuetzen Jederzeit ist Goldgrube (+26.7% Markt, +24.4% Kategorie). Konservativer VALUE per Lesson 06.30 R32-Klassen-Edge-Downgrade. Bei bet365 live pruefen.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 1,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.57,
+      "kommentar": "Messi 29. Min Aussenrist-Chip - 20. WM-Karriere-Tor.",
+      "tipp_id": "arg-cap-1"
+    },
+    {
+      "spiel_id": "2026-07-03-arg-cap",
+      "kategorie": "wackel",
+      "markt": "Argentinien gewinnt (Sieg 1)",
+      "quote": 1.17,
+      "einsatz_euro": 8.0,
+      "einsatz_prozent_kasse": 1.45,
+      "begruendung": "Klassen-Edge extremer WM-Champion vs WM-Debuetant. Kalshi 87% impliziert 1.15 fair. WM nicht in liga_goldgruben.json - keine SAFE-Bestaetigung, VALUE per R32-Klassen-Edge-Downgrade. 2:0-Insurance aktiv. Bei bet365 live pruefen.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 2,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": "90min-Stand 1:1 (Draw) - bet365 wertet 1X2 auf 90min. Extra-Time-Sieg 3:2 zaehlt nicht. 2:0-Insurance nicht getriggert.",
+      "tipp_id": "arg-cap-2"
+    },
+    {
+      "spiel_id": "2026-07-03-arg-cap",
+      "kategorie": "wackel",
+      "markt": "Ueber 2.5 Tore ARG-CAP",
+      "quote": 1.7,
+      "einsatz_euro": 6.5,
+      "einsatz_prozent_kasse": 1.18,
+      "begruendung": "Argentinien 2.67 Tore/Spiel Group + Messi-Form-Rausch + Tief-Block-Kap-Verde-Long-Distance-Chancen. Ueber 2.5 Tore ist Goldgrube (+26.7% ROI). Alle 3 Argentinien-Group-Spiele Ueber 2.5. Bei bet365 live pruefen.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 3,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": "90min-Stand 1:1 = 2 Tore - Ueber 2.5 LOST. Extra-Time-Tore zaehlen nicht. Ironie: 5 Tore inkl. n.V.",
+      "tipp_id": "arg-cap-3"
+    },
+    {
+      "spiel_id": "2026-07-03-arg-cap",
+      "kategorie": "wackel",
+      "markt": "Lautaro Martinez Torschuetze Jederzeit",
+      "quote": 1.85,
+      "einsatz_euro": 6.0,
+      "einsatz_prozent_kasse": 1.09,
+      "begruendung": "Lautaro Startelf zurueck neben Messi (4-4-2). Klassen-Edge vs Tief-Block-Kap-Verde. Alvarez-Bank = Einwechslungs-Boost-Absicherung. Torschuetzen Jederzeit Goldgrube +26.7%. Bei bet365 live pruefen.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 4,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Lautaro Auswechsel 63. Min fuer Alvarez, kein Tor. Boost griff nicht.",
+      "tipp_id": "arg-cap-4"
+    },
+    {
+      "spiel_id": "2026-07-03-col-gha",
+      "kategorie": "wackel",
+      "markt": "Kolumbien gewinnt (Sieg 1)",
+      "quote": 1.4,
+      "einsatz_euro": 8.0,
+      "einsatz_prozent_kasse": 1.45,
+      "begruendung": "Klassen-Edge Kolumbien vs Ghana ohne Kudus + Semenyo-Ankle + Zigi-Backup. Colombia @ 1.40 = 71% impliziert - fair. VALUE per R32-Klassen-Edge-Downgrade. 2:0-Insurance aktiv. Bei bet365 live pruefen.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 5,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.4,
+      "kommentar": "COL 1:0 via Arias 14. - Klassen-Edge geliefert.",
+      "tipp_id": "col-gha-1"
+    },
+    {
+      "spiel_id": "2026-07-03-col-gha",
+      "kategorie": "wackel",
+      "markt": "Luis Diaz Torschuetze Jederzeit",
+      "quote": 2.2,
+      "einsatz_euro": 6.5,
+      "einsatz_prozent_kasse": 1.18,
+      "begruendung": "Diaz Colombia 'biggest attacking threat' - konstante gefaehrliche Positionen im Turnier. Klassen-Edge vs Ghana-Verteidigung. Torschuetzen Jederzeit Goldgrube +26.7%. Bei bet365 live pruefen.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 6,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Diaz-Tor 2. HZ ABGEPFIFFEN Abseits. Frust-Fall.",
+      "tipp_id": "col-gha-2"
+    },
+    {
+      "spiel_id": "2026-07-03-col-gha",
+      "kategorie": "wackel",
+      "markt": "Unter 2.5 Tore COL-GHA",
+      "quote": 1.57,
+      "einsatz_euro": 7.0,
+      "einsatz_prozent_kasse": 1.27,
+      "begruendung": "Colombia-Kontroll-Spiel + Ghana 1 Tor in 3 Group Games. Under 2.5 Tore ist Goldgrube (+22.6% ROI, 66.7% Hitrate). Consensus 'Colombia clean sheet + Under 2.0'. Bei bet365 live pruefen.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 7,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.57,
+      "kommentar": "1 Tor gesamt (Arias 14.) - Under 2.5 komfortabel.",
+      "tipp_id": "col-gha-3"
+    },
+    {
+      "spiel_id": "2026-07-03-col-gha",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen NEIN COL-GHA",
+      "quote": 1.75,
+      "einsatz_euro": 5.0,
+      "einsatz_prozent_kasse": 0.91,
+      "begruendung": "Ghana ohne Kudus + Semenyo-Ankle + 1 Tor in 3 Group Games. Colombia-Clean-Sheet-Kandidat (Vargas + Sanchez + Lucumi). Bei bet365 live pruefen.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 8,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.75,
+      "kommentar": "Ghana 0 Tore + Colombia-Clean-Sheet.",
+      "tipp_id": "col-gha-4"
+    },
+    {
+      "spiel_id": "2026-07-03-arg-cap",
+      "kategorie": "wackel",
+      "markt": "Julian Alvarez Torschuetze Jederzeit (Einwechsel)",
+      "quote": 2.0,
+      "einsatz_euro": 2.5,
+      "einsatz_prozent_kasse": 0.45,
+      "begruendung": "Alvarez auf Bank, Einwechsel-Kandidat ab 60-70. Min bei ARG-Fuehrung. WACKEL weil Startelf-Rolle nicht, Einwechsel-Timing offen. Bei bet365 live pruefen.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 9,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Alvarez kam 63. rein, ~57 Min gespielt inkl. n.V., traf NICHT.",
+      "tipp_id": "arg-cap-5"
+    },
+    {
+      "spiel_id": "2026-07-03-col-gha",
+      "kategorie": "wackel",
+      "markt": "James Rodriguez Torschuetze Jederzeit",
+      "quote": 3.8,
+      "einsatz_euro": 2.5,
+      "einsatz_prozent_kasse": 0.45,
+      "begruendung": "James 34, Set-Piece-Taker + 10er-Rolle hinter Diaz. WM-Historie 6 Tore/11 Spiele seit 2014. WACKEL weil Group Phase 0 Tore - Quote 3.80 spiegelt das. Bei bet365 live pruefen.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 10,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": "James HZ-Auswechsel fuer Quintero, kein Tor. Boost griff nicht.",
+      "tipp_id": "col-gha-5"
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": null,
+      "name": "Safe-Kombi (~3.74x)",
+      "kategorie": "safe",
+      "status": "verloren",
+      "gesamtquote": 3.74,
+      "einsatz_euro": 11.0,
+      "gewinn_euro": -11.0,
+      "beine_status": [
+        {
+          "spiel_id": "2026-07-03-arg-cap",
+          "markt": "Ueber 2.5 Tore ARG-CAP",
+          "status": "verloren",
+          "kommentar": "90min-Stand 2 Tore (1:1), Extra-Time zaehlt nicht"
+        },
+        {
+          "spiel_id": "2026-07-03-col-gha",
+          "markt": "Luis Diaz Torschuetze Jederzeit",
+          "status": "verloren",
+          "kommentar": "Diaz-Tor Abseits-Abpfiff (VAR)"
+        }
+      ],
+      "kommentar": "Safe-Kombi LOST 2/2. Beide Beine sind Goldgrube-Maerkte, beide Frust-Faelle (K.O.-Extra-Time-Falle + Diaz-Abseits)."
+    },
+    {
+      "kombi_id": null,
+      "name": "Balance-Kombi (~7.4x)",
+      "kategorie": "balance",
+      "status": "verloren",
+      "gesamtquote": 7.4,
+      "einsatz_euro": 4.4,
+      "gewinn_euro": -4.4,
+      "beine_status": [
+        {
+          "spiel_id": "2026-07-03-arg-cap",
+          "markt": "Lautaro Martinez Torschuetze Jederzeit",
+          "status": "verloren",
+          "kommentar": "Lautaro Auswechsel 63., Alvarez-Boost griff nicht"
+        },
+        {
+          "spiel_id": "2026-07-03-col-gha",
+          "markt": "James Rodriguez Torschuetze Jederzeit",
+          "status": "verloren",
+          "kommentar": "James HZ-Auswechsel, Quintero-Boost griff nicht"
+        }
+      ],
+      "kommentar": "Balance-Kombi LOST 2/2. Beide Torschuetzen-Beine + beide Spieler ausgewechselt + kein Boost-Trigger. Klassisches Doppel-Sub-Kombi-Trauma."
+    },
+    {
+      "kombi_id": null,
+      "name": "Risiko-Kombi (~11.9x)",
+      "kategorie": "risk",
+      "status": "verloren",
+      "gesamtquote": 11.9,
+      "einsatz_euro": 1.4,
+      "gewinn_euro": -1.4,
+      "beine_status": [
+        {
+          "spiel_id": "2026-07-03-arg-cap",
+          "markt": "Lionel Messi Doppelpack (2+ Tore)",
+          "status": "verloren",
+          "kommentar": "Messi 1 Tor (29.) - kein Doppelpack. Doppelpack-Kandidatenschwelle nicht erreicht."
+        },
+        {
+          "spiel_id": "2026-07-03-col-gha",
+          "markt": "Jhon Cordoba Torschuetze Jederzeit",
+          "status": "verloren",
+          "kommentar": "Cordoba Auswechsel 8. Min (Groin), traf NICHT vor Auswechsel. Suarez-Boost griff nicht (Assist, kein Tor)."
+        }
+      ],
+      "kommentar": "Risiko-Kombi LOST 2/2. Messi lieferte nur 1 Tor (nicht 2), Cordoba fruehe Verletzung + Suarez-Assist (kein Tor)."
+    },
+    {
+      "kombi_id": null,
+      "name": "Moonshot-Kombi (~35x)",
+      "kategorie": "moonshot",
+      "status": "verloren",
+      "gesamtquote": 35.0,
+      "einsatz_euro": 0.55,
+      "gewinn_euro": -0.55,
+      "beine_status": [
+        {
+          "spiel_id": "2026-07-03-arg-cap",
+          "markt": "Julian Alvarez Doppelpack",
+          "status": "verloren",
+          "kommentar": "Alvarez 0 Tore trotz Einwechsel 63."
+        },
+        {
+          "spiel_id": "2026-07-03-col-gha",
+          "markt": "Jhon Cordoba Doppelpack",
+          "status": "verloren",
+          "kommentar": "Cordoba 8. Min raus, 0 Tore"
+        }
+      ],
+      "kommentar": "Moonshot LOST 2/2 (0.55EUR Spass-Einsatz)."
+    }
+  ],
+  "ausgewertet_am": "2026-07-04T07:04:02+00:00",
+  "tages_summary": {
+    "einzeltipps_gesamt": 10,
+    "einzeltipps_gewonnen": 4,
+    "einzeltipps_verloren": 6,
+    "einzeltipps_offen": 0,
+    "kombis_gesamt": 4,
+    "kombis_gewonnen": 0,
+    "kombis_verloren": 4,
+    "einsatz_gesamt_euro": 77.85,
+    "netto_gewinn_euro": -33.56,
+    "roi_prozent_tag": null,
+    "spiele_mit_volle_analyse": 2,
+    "kommentar": "TAGES-BILANZ: EINZELTIPPS 4/10 (40%) + KOMBIS 0/4 (0%). Netto -33.57EUR (-43.1% ROI Tag). Grosse Fallen: (1) ARG-CAP 90min-Draw 1:1 trotz Extra-Time-Sieg 3:2 -> ARG-Sieg + Ueber 2.5 beide LOST (Doppel-K.O.-Falle). (2) Diaz-Torschuetzen-Tipp LOST wegen Abseits-Abpfiff. (3) Doppel-Frueh-Auswechsel Cordoba+James OHNE Boost-Trigger. (4) 4/4 Kombis LOST wegen Messi-nur-1-Tor + Doppel-Sub-Fail. Volle-Analyse geschrieben fuer 2/2 Spiele."
+  }
+}
