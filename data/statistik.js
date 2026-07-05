@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-07-04T07:12:52+00:00",
+  "letzte_berechnung": "2026-07-05T07:13:58+00:00",
   "gesamt": {
-    "tipps": 484,
-    "gewonnen": 270,
-    "verloren": 203,
+    "tipps": 494,
+    "gewonnen": 275,
+    "verloren": 208,
     "push": 2,
     "offen": 9,
-    "einsatz": 475.0,
-    "netto": 29.82,
-    "trefferquote": 57.1,
-    "roi_prozent": 6.3
+    "einsatz": 485.0,
+    "netto": 28.61,
+    "trefferquote": 56.9,
+    "roi_prozent": 5.9
   },
   "letzte_30_tage": {
-    "tipps": 186,
-    "gewonnen": 108,
-    "verloren": 78,
+    "tipps": 196,
+    "gewonnen": 113,
+    "verloren": 83,
     "push": 0,
     "offen": 0,
-    "einsatz": 186.0,
-    "netto": 0.81,
-    "trefferquote": 58.1,
-    "roi_prozent": 0.4
+    "einsatz": 196.0,
+    "netto": -0.4,
+    "trefferquote": 57.7,
+    "roi_prozent": -0.2
   },
   "letzte_90_tage": {
-    "tipps": 484,
-    "gewonnen": 270,
-    "verloren": 203,
+    "tipps": 494,
+    "gewonnen": 275,
+    "verloren": 208,
     "push": 2,
     "offen": 9,
-    "einsatz": 475.0,
-    "netto": 29.82,
-    "trefferquote": 57.1,
-    "roi_prozent": 6.3
+    "einsatz": 485.0,
+    "netto": 28.61,
+    "trefferquote": 56.9,
+    "roi_prozent": 5.9
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -991,6 +991,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": -5.1,
       "trefferquote": 45.8,
       "roi_prozent": -21.2
+    },
+    "FIFA WM 2026 - Achtelfinale": {
+      "tipps": 10,
+      "gewonnen": 5,
+      "verloren": 5,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 10.0,
+      "netto": -1.21,
+      "trefferquote": 50.0,
+      "roi_prozent": -12.1
     }
   },
   "nach_markt": {
@@ -4744,6 +4755,116 @@ window.__MIESMUSCHEL_STAT = {
       "netto": -1.0,
       "trefferquote": 0.0,
       "roi_prozent": -100.0
+    },
+    "Kylian Mbappe Torschuetze Jederzeit": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.57,
+      "trefferquote": 100.0,
+      "roi_prozent": 57.0
+    },
+    "Unter 3.5 Tore CAN-MAR": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.35,
+      "trefferquote": 100.0,
+      "roi_prozent": 35.0
+    },
+    "Frankreich gewinnt (Sieg 2, 90min)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.2,
+      "trefferquote": 100.0,
+      "roi_prozent": 20.0
+    },
+    "Ueber 2.5 Tore PAR-FRA": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Marokko gewinnt (Sieg 2, 90min)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.8,
+      "trefferquote": 100.0,
+      "roi_prozent": 80.0
+    },
+    "Ismael Saibari Torschuetze Jederzeit": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.87,
+      "trefferquote": 100.0,
+      "roi_prozent": 187.0
+    },
+    "Beide Teams treffen JA CAN-MAR": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Michael Olise Torschuetze Jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Jonathan David Torschuetze Jederzeit (Kanada)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Julio Enciso Torschuetze Jederzeit (Paraguay)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
     }
   },
   "nach_markt_typ": {
@@ -4803,15 +4924,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 3.8
     },
     "Torschuetzen Jederzeit": {
-      "tipps": 88,
-      "gewonnen": 32,
-      "verloren": 54,
+      "tipps": 93,
+      "gewonnen": 34,
+      "verloren": 57,
       "push": 2,
       "offen": 0,
-      "einsatz": 88.0,
-      "netto": 5.92,
-      "trefferquote": 37.2,
-      "roi_prozent": 6.7
+      "einsatz": 93.0,
+      "netto": 5.36,
+      "trefferquote": 37.4,
+      "roi_prozent": 5.8
     },
     "Unter 2.5 Tore": {
       "tipps": 25,
@@ -4847,26 +4968,26 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 7.7
     },
     "Ueber 2.5 Tore": {
-      "tipps": 39,
+      "tipps": 40,
       "gewonnen": 22,
-      "verloren": 15,
+      "verloren": 16,
       "push": 0,
       "offen": 2,
-      "einsatz": 37.0,
-      "netto": 8.63,
-      "trefferquote": 59.5,
-      "roi_prozent": 23.3
+      "einsatz": 38.0,
+      "netto": 7.63,
+      "trefferquote": 57.9,
+      "roi_prozent": 20.1
     },
     "Beide Teams treffen JA": {
-      "tipps": 10,
+      "tipps": 11,
       "gewonnen": 5,
-      "verloren": 3,
+      "verloren": 4,
       "push": 0,
       "offen": 2,
-      "einsatz": 8.0,
-      "netto": 1.35,
-      "trefferquote": 62.5,
-      "roi_prozent": 16.9
+      "einsatz": 9.0,
+      "netto": 0.35,
+      "trefferquote": 55.6,
+      "roi_prozent": 3.9
     },
     "Ueber 1.5 Tore": {
       "tipps": 7,
@@ -5012,15 +5133,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -100.0
     },
     "Unter 3.5 Tore": {
-      "tipps": 6,
-      "gewonnen": 4,
+      "tipps": 7,
+      "gewonnen": 5,
       "verloren": 2,
       "push": 0,
       "offen": 0,
-      "einsatz": 6.0,
-      "netto": -0.45,
-      "trefferquote": 66.7,
-      "roi_prozent": -7.5
+      "einsatz": 7.0,
+      "netto": -0.1,
+      "trefferquote": 71.4,
+      "roi_prozent": -1.4
     },
     "Unentschieden oder Sunderland": {
       "tipps": 1,
@@ -5285,94 +5406,127 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.4,
       "trefferquote": 100.0,
       "roi_prozent": 40.0
+    },
+    "Frankreich gewinnt (Sieg 2, 90min)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.2,
+      "trefferquote": 100.0,
+      "roi_prozent": 20.0
+    },
+    "Marokko gewinnt (Sieg 2, 90min)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.8,
+      "trefferquote": 100.0,
+      "roi_prozent": 80.0
     }
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 213,
-      "gewonnen": 113,
-      "verloren": 95,
+      "tipps": 216,
+      "gewonnen": 115,
+      "verloren": 96,
       "push": 1,
       "offen": 4,
-      "einsatz": 209.0,
-      "netto": 14.52,
-      "trefferquote": 54.3,
-      "roi_prozent": 6.9
+      "einsatz": 212.0,
+      "netto": 14.89,
+      "trefferquote": 54.5,
+      "roi_prozent": 7.0
     },
     "2.00-3.00": {
-      "tipps": 69,
-      "gewonnen": 26,
-      "verloren": 41,
+      "tipps": 72,
+      "gewonnen": 27,
+      "verloren": 43,
       "push": 1,
       "offen": 1,
-      "einsatz": 68.0,
-      "netto": 2.44,
-      "trefferquote": 38.8,
-      "roi_prozent": 3.6
+      "einsatz": 71.0,
+      "netto": 2.31,
+      "trefferquote": 38.6,
+      "roi_prozent": 3.3
     },
     "1.00-1.50": {
-      "tipps": 181,
-      "gewonnen": 125,
+      "tipps": 183,
+      "gewonnen": 127,
       "verloren": 52,
       "push": 0,
       "offen": 4,
-      "einsatz": 177.0,
-      "netto": 8.31,
-      "trefferquote": 70.6,
-      "roi_prozent": 4.7
+      "einsatz": 179.0,
+      "netto": 8.86,
+      "trefferquote": 70.9,
+      "roi_prozent": 4.9
     },
     "3.00+": {
-      "tipps": 21,
+      "tipps": 23,
       "gewonnen": 6,
-      "verloren": 15,
+      "verloren": 17,
       "push": 0,
       "offen": 0,
-      "einsatz": 21.0,
-      "netto": 4.55,
-      "trefferquote": 28.6,
-      "roi_prozent": 21.7
+      "einsatz": 23.0,
+      "netto": 2.55,
+      "trefferquote": 26.1,
+      "roi_prozent": 11.1
     }
   },
   "nach_kategorie": {
     "safe": {
-      "tipps": 95,
-      "gewonnen": 64,
+      "tipps": 97,
+      "gewonnen": 66,
       "verloren": 31,
       "push": 0,
       "offen": 0,
-      "einsatz": 95.0,
-      "netto": 0.95,
-      "trefferquote": 67.4,
-      "roi_prozent": 1.0
+      "einsatz": 97.0,
+      "netto": 1.87,
+      "trefferquote": 68.0,
+      "roi_prozent": 1.9
     },
     "value": {
-      "tipps": 289,
-      "gewonnen": 162,
-      "verloren": 116,
+      "tipps": 293,
+      "gewonnen": 164,
+      "verloren": 118,
       "push": 2,
       "offen": 9,
-      "einsatz": 280.0,
-      "netto": 31.34,
-      "trefferquote": 58.3,
-      "roi_prozent": 11.2
+      "einsatz": 284.0,
+      "netto": 30.34,
+      "trefferquote": 58.2,
+      "roi_prozent": 10.7
     },
     "wackel": {
-      "tipps": 100,
-      "gewonnen": 44,
-      "verloren": 56,
+      "tipps": 102,
+      "gewonnen": 45,
+      "verloren": 57,
       "push": 0,
       "offen": 0,
-      "einsatz": 100.0,
-      "netto": -2.47,
-      "trefferquote": 44.0,
-      "roi_prozent": -2.5
+      "einsatz": 102.0,
+      "netto": -1.6,
+      "trefferquote": 44.1,
+      "roi_prozent": -1.6
+    },
+    "risiko": {
+      "tipps": 2,
+      "gewonnen": 0,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": -2.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
     }
   },
   "clv_gesamt": {
     "gesamt": {
-      "n": 8,
-      "durchschnitt": 2.05,
-      "median": 2.02
+      "n": 18,
+      "durchschnitt": -1.51,
+      "median": 1.08
     },
     "nach_liga": {
       "FIFA WM 2026 Gruppenphase Spieltag 1 (Gruppe B)": {
@@ -5384,14 +5538,19 @@ window.__MIESMUSCHEL_STAT = {
         "n": 4,
         "durchschnitt": 2.9,
         "median": 3.09
+      },
+      "FIFA WM 2026 - Achtelfinale": {
+        "n": 10,
+        "durchschnitt": -4.36,
+        "median": -4.55
       }
     }
   },
   "clv_30_tage": {
     "gesamt": {
-      "n": 8,
-      "durchschnitt": 2.05,
-      "median": 2.02
+      "n": 18,
+      "durchschnitt": -1.51,
+      "median": 1.08
     },
     "nach_liga": {
       "FIFA WM 2026 Gruppenphase Spieltag 1 (Gruppe B)": {
@@ -5403,10 +5562,116 @@ window.__MIESMUSCHEL_STAT = {
         "n": 4,
         "durchschnitt": 2.9,
         "median": 3.09
+      },
+      "FIFA WM 2026 - Achtelfinale": {
+        "n": 10,
+        "durchschnitt": -4.36,
+        "median": -4.55
       }
     }
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-07-04",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "Safe-Kombi (~3.44x)",
+          "kategorie": "safe",
+          "gesamtquote": 3.44,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Frankreich gewinnt (Sieg 2, 90min)",
+              "quote": 1.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ismael Saibari Torschuetze Jederzeit",
+              "quote": 2.87,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi (~6.50x)",
+          "kategorie": "balance",
+          "gesamtquote": 6.5,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Doppelte Chance X2 (Marokko/Unentschieden)",
+              "quote": 1.3,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Julio Enciso Torschuetze Jederzeit",
+              "quote": 5.0,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi (~16.22x)",
+          "kategorie": "risiko",
+          "gesamtquote": 16.22,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Ayoub El Kaabi Doppelpack (2+ Tore)",
+              "quote": 5.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Michael Olise Torschuetze Jederzeit",
+              "quote": 2.95,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi (~135x)",
+          "kategorie": "moonshot",
+          "gesamtquote": 135.0,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Jonathan David Doppelpack (2+ Tore)",
+              "quote": 9.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Julio Enciso Doppelpack (2+ Tore)",
+              "quote": 15.0,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-07-03",
       "gesamt": {

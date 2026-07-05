@@ -1791,6 +1791,30 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "8g Torschuetzen-Offside-Abpfiff-Cluster - Diaz-Fall + Torereignis-nicht-gleich-Tor",
       "lesson": "Luis Diaz-Torschuetzen-Jederzeit-Tipp (2.20) VERLOREN trotz Diaz-Torereignis im 2. HZ - VAR pfff Abseits ab, Tor annulliert. Torschuetzen-Jederzeit-Markt zaehlt NUR regulaer bestaetigte Tore (nicht disallowed goals). Ist die 2. Frust-Faelle-Kategorie fuer Torschuetzen-Goldgrube: (1) Boost-Fail wenn Sub nicht trifft, (2) Offside-Abpfiff. Kombiniert mit ARG-CAP-Doppel-Falle bedeuten das 3 verlorene Torschuetzen-Tipps heute (Diaz + Lautaro + James) obwohl in 2 Faellen (Diaz + Lautaro-Sub-Alvarez) das Torereignis knapp verfehlt wurde. Regel: bei Torschuetzen-Tipps auf Klassen-Edge-Winger (Diaz, Musiala, Yamal) Offside-Risiko-Anpassung durch impliziten Discount ~10-15% - keine Kombi-Aggregation aus 2+ Winger-Tipps im gleichen Spiel. Ausserdem: Kombi-Bein-Diversifikation NICHT nur ueber verschiedene Spieler, sondern auch ueber unterschiedliche Markt-Typen (Torschuetze + Ueber-Tor-Anzahl + Sieg-Tipp gemischt) um single-point-of-failure zu vermeiden. Heutiges Safe-Kombi (Ueber-2.5 ARG-CAP + Diaz-Torschuetze) hatte Doppel-Frust-Kombination.",
       "bezug_spiel_id": "2026-07-03-col-gha"
+    },
+    {
+      "datum": "2026-07-05",
+      "kategorie": "HR07-05-1 8i Einwechslungs-Boost-PRAEZISIERUNG - Ersatzspieler muss SELBST das Tor schiessen",
+      "lesson": "Doue kam 65.' fuer Olise, provozierte Elfmeter (Foul Diego Gomez), Mbappe schoss den Elfmeter. Olise-Torschuetzen-Tipp (2.95 WACKEL) VERLOREN weil Doue selbst KEIN Tor geschossen hat - Elfmeter-Provokation/Vorlage/Assist zaehlen NICHT fuer bet365-Einwechslungs-Boost. Praezisierung fuer alle kuenftigen Boost-Auswertungen: NUR direkter Torschuss des Ersatzspielers Y zaehlt fuer den ausgewechselten Spieler X. Zusatz-Regel-Formulierung fuer CLAUDE.md 'Einwechslungs-Boost bei Torschuetzen-Tipps' Sektion.",
+      "bezug_spiel_id": "2026-07-04-par-fra"
+    },
+    {
+      "datum": "2026-07-05",
+      "kategorie": "HR07-05-2 8g Ueber-2.5-Falle bei Klassen-Favorit-vs-Underdog-Beton in R16 K.O.",
+      "lesson": "Paraguay 0:1 Frankreich - NUR 1 Tor, Ueber-2.5-Tipp (1.65 VALUE) VERLOREN. Klassen-Favorit-Extremer-Sieg-Modus in R16 kann Klassen-Kontroll-Zero-Modus werden wenn Underdog vollstaendig auf Beton geht. Paraguay hatte in der 1.HZ 0 Schuesse aufs Tor, FRA erst 65.' erste echte Chance. Ueber-2.5-GOLDGRUBE (+27.5% ROI Gruppenphase) gilt NICHT 1:1 fuer R16 wenn Underdog-Beton-Strategie erwartet ist. Zukunft: Ueber-2.5 in R16 nur wenn Underdog Offensiv-Motiv hat (traumtor-Cluster wie Enciso GER) - bei tot-defensivem Underdog auf Unter-2.5 (Klassen-Kontroll-1:0/2:0-Modus) oder BTTS-NEIN wechseln.",
+      "bezug_spiel_id": "2026-07-04-par-fra"
+    },
+    {
+      "datum": "2026-07-05",
+      "kategorie": "HR07-05-3 8f Klassen-Favorit-1.HZ-0:0-Muster in R16 K.O. (Doppel-Cluster CAN-MAR + PAR-FRA)",
+      "lesson": "Beide R16-Achtelfinal-Spiele am 04.07. gingen 0:0 in die HZ und wurden dann von den Klassen-Favoriten in der 2.HZ entschieden - Marokko 3 Tore ab 50.', Frankreich Elfmeter 70.'. AUFFAELLIGES Muster: R16-Klassen-Favorit-Kontroll-1.HZ-abtasten + 2.HZ-Explosion. Markt-Kandidaten NEU zu evaluieren: (a) Halbzeit-Endstand X/Klassen-Favorit-Sieg, (b) Ueber 0.5 Tore 2.HZ. Wichtig: 2:0-Insurance-Rueckversicherung bei Klassen-Favorit-Sieg-Tipp bleibt aktiv auch bei 1.HZ-0:0 wenn 2.HZ-Kontroll-Muster (siehe MAR-Vorsprung ab 82.'). Fuer 05.07.-Achtelfinal-Sa-Spiele + folgende R16 pruefen.",
+      "bezug_spiel_id": "2026-07-04-can-mar"
+    },
+    {
+      "datum": "2026-07-05",
+      "kategorie": "HR07-05-4 8i Frueh-Verletzung-Einwechslungs-Boost - Positiv-Beispiel Saibari",
+      "lesson": "Saibari verletzt raus 22.' (Muskel), Rahimi kam DIREKT rein - Rahimi traf 90+8. Saibari-Torschuetzen-Wackel-Tipp (2.87) GEWONNEN via Einwechslungs-Boost. Frueh-Verletzung eines Volume-Volume-9-Torschuetzen-Kandidaten mit Volume-Backup ist DER perfekte Boost-Fall: Star-out mit Backup-Volume-9-Angriffs-Ersatz = Tipp hat mehr Wege zum Gewinn. Zukuenftige Torschuetzen-Tipps auf Volume-9-Star bevorzugen wenn Backup-Volume-9 auf der Bank (z.B. Bayern Kane/Olise-Backup, ARG Alvarez/Martinez, Marokko Saibari/Rahimi/El Kaabi). HR07-04-8i Doppel-Frueh-Auswechsel-Boost-Fail bleibt guelt fuer 2 GLEICHZEITIG frueh-Ausgetauschte, aber Einzel-Boost-Kandidat bei Verletzungs-Risiko + Backup-Volume-9 = starkes VALUE-Signal.",
+      "bezug_spiel_id": "2026-07-04-can-mar"
     }
   ]
 };
