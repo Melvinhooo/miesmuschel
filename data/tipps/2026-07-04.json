@@ -44,49 +44,39 @@
           "begruendung": "K.O.-Phase-Tor-Total tendiert historisch 0,3-0,5 nach unten (HR26). R32 Tor-Schnitt 2.67/Spiel (HR07-01). Marokko-Kontroll-Ball + Kanada-6er-Block ohne Kone = keine 4+ Tore. Nur Extra-Time oder Kanada-offen-nach-Rueckstand koennte 4+. Reality-Check: Unter 2.5 Tore ist GOLDGRUBE (+24% ROI n=25) - Unter 3.5 sichere Variante. Einsatz 1.0% = 5.50 EUR.",
           "faire_quote": 1.25,
           "empfohlener_einsatz_prozent": 1.0,
-          "empfohlener_einsatz_euro": 5.50
+          "empfohlener_einsatz_euro": 5.5
         },
         {
           "id": "can-mar-2",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Marokko gewinnt (Sieg 2, 90min)",
-          "quote": 1.80,
+          "quote": 1.8,
           "edge_prozent": 6.0,
-          "begruendung": "Klassen-Edge extrem (Diaz/Ounahi/Saibari/El Kaabi vs MLS-Mischung). Opta 52.7% MAR. bet365 DE 2:0-Insurance WM 2026 aktiv. Klassen-Kontroll-Muster analog COL-GHA 1:0 + ENG-COD + USA-BIH. Reality-Check: WM R32 nach_liga -21.2% ROI n=24, aber Klassen-Edge-Sieg R32 stabil VALUE-fest nach HR07-01-Revision. HR07-04-8b K.O.-Extra-Time-Falle: kein SAFE. Einsatz 2.0% = 11 EUR.",
+          "begruendung": "Klassen-Edge extrem (Diaz/Ounahi/Saibari/El Kaabi vs MLS-Mischung). Opta 52.7% MAR. bet365 DE 2:0-Insurance WM 2026 aktiv. Klassen-Kontroll-Muster analog COL-GHA 1:0 + ENG-COD + USA-BIH. Reality-Check: WM R32 nach_liga -21.2% ROI n=24, aber Klassen-Edge-Sieg R32 stabil VALUE-fest nach HR07-01-Revision. HR07-04-8b K.O.-Extra-Time-Falle: kein SAFE. Einsatz 2.0% = 11 EUR. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
           "faire_quote": 1.65,
           "empfohlener_einsatz_prozent": 2.0,
-          "empfohlener_einsatz_euro": 11.00
-        },
-        {
-          "id": "can-mar-3",
-          "kategorie": "wackel",
-          "markt": "Ismael Saibari Torschuetze Jederzeit",
-          "quote": 2.87,
-          "edge_prozent": 10.0,
-          "begruendung": "Saibari (Bayern-neu) 3 Turnier-Tore + Elfm-Winner NED. HR07-03-Goldgrube-3/3-Analogie (Oyarzabal/Ronaldo/Xhaka Stamm-9 Klassen-Favorit-Rolle alle getroffen). Bayern-Positionsuebergang zu ST bringt beste Chance. HR24 erfuellt. Reality-Check: Torschuetzen Jederzeit GOLDGRUBE (+24.4% ROI). WM K.O.-R32-Downgrade auf WACKEL (HR-Auto 30.06.). Einsatz 0.5% = 2.75 EUR.",
-          "faire_quote": 2.60,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 2.75
+          "empfohlener_einsatz_euro": 11.0,
+          "_saison_kontext_sanity_downgrade": true
         },
         {
           "id": "can-mar-4",
           "kategorie": "value",
           "markt": "Beide Teams treffen JA CAN-MAR",
-          "quote": 2.00,
+          "quote": 2.0,
           "edge_prozent": 5.0,
           "begruendung": "Marokko hoch-wahrscheinlich (Offensiv-Trio), Kanada trifft im WM 4/4 Spiele (David-Volume + Eustaquio-Late-Cluster). Marsch-Kontersystem funktioniert selbst gegen Klassen-Favoriten (6:0 vs Qatar). K.O.-Phase-Vorsicht HR26. Reality-Check: BTTS-JA Goldgrube (62.5% Hit +16.9% ROI). Quote 2.00 im VALUE-Range 1.65-2.30. Einsatz 1.0% = 5.50 EUR.",
-          "faire_quote": 1.90,
+          "faire_quote": 1.9,
           "empfohlener_einsatz_prozent": 1.0,
-          "empfohlener_einsatz_euro": 5.50
+          "empfohlener_einsatz_euro": 5.5
         },
         {
           "id": "can-mar-5",
-          "kategorie": "risiko",
+          "kategorie": "risk",
           "markt": "Jonathan David Torschuetze Jederzeit (Kanada)",
-          "quote": 4.20,
+          "quote": 4.2,
           "edge_prozent": 8.0,
           "begruendung": "Napoli-Stuermer David = Kanadas Volume-9 mit 12 Napoli-Toren. bet365-Einwechslungs-Boost via Larin-Sub aktivierbar. Marsch-Kontersystem sucht Tiefen-Ball. Kanada muss offen spielen bei Rueckstand. Reality-Check: Underdog-Torschuetzen R32 durchwachsen (David + Larin 0/2 vs RSA). Einsatz 0.5% = 2.75 EUR.",
-          "faire_quote": 4.00,
+          "faire_quote": 4.0,
           "empfohlener_einsatz_prozent": 0.5,
           "empfohlener_einsatz_euro": 2.75
         }
@@ -124,21 +114,10 @@
       ],
       "tipps": [
         {
-          "id": "par-fra-1",
-          "kategorie": "safe",
-          "markt": "Kylian Mbappe Torschuetze Jederzeit",
-          "quote": 1.57,
-          "edge_prozent": 12.0,
-          "begruendung": "Turnier-Fuehrender 6 WM-Tore in 4 Spielen. HR07-03 Torschuetzen-Goldgrube-3/3: Stamm-9 in R32-Klassen-Favorit-Rolle (Oyarzabal/Ronaldo/Xhaka alle getroffen) - Mbappe DIESELBE Rolle mit noch groesserem Form-Edge (2 Tore + Assist vs SWE). HR24 vollstaendig erfuellt. Paraguay-Defensive ohne Kap. Alderete + Canale-Backup = Real-Angst-Zone. Reality-Check: Torschuetzen Jederzeit AKTIVE GOLDGRUBE (+24.4% ROI). Quote 1.57 im SAFE-Range-Untergrenze. Einsatz 2.0% = 11 EUR.",
-          "faire_quote": 1.40,
-          "empfohlener_einsatz_prozent": 2.0,
-          "empfohlener_einsatz_euro": 11.00
-        },
-        {
           "id": "par-fra-2",
           "kategorie": "value",
           "markt": "Frankreich gewinnt (Sieg 2, 90min)",
-          "quote": 1.20,
+          "quote": 1.2,
           "edge_prozent": 4.0,
           "begruendung": "Klassen-Edge extrem: Mbappe/Dembele/Olise/Barcola vs Paraguay-IV-Notloesung. Opta 78.8% / Pinnacle 80%. bet365 DE 2:0-Insurance WM 2026 (Klassen-Kontroll-2:0-Szenario hoch-wahrscheinlich analog 3:0 SWE). HR07-01 Klassen-Edge-Sieg R32 stabil-Revision. ABER HR07-04-8b K.O.-Extra-Time-Falle bei 1.20 - Argentinien 1.17 GENAU DERSELBEN Struktur VERLOREN gegen CAP. Quote unter SAFE-Range 1.30-1.65 = max VALUE. Einsatz 1.5% = 8.25 EUR.",
           "faire_quote": 1.25,
@@ -157,24 +136,13 @@
           "empfohlener_einsatz_euro": 8.25
         },
         {
-          "id": "par-fra-4",
-          "kategorie": "wackel",
-          "markt": "Michael Olise Torschuetze Jederzeit",
-          "quote": 2.95,
-          "edge_prozent": 8.0,
-          "begruendung": "Turnier-ASSIST-Fuehrender + Sub-Torschuetze gegen SWE. Bayern-Winger 14 Bundesliga-Saisontore. HR24 erfuellt. Deschamps rotiert Dembele - Olise-Startelf-Wahrscheinlich oder 60-70. Min Sub mit bet365-Boost-Trigger. Reality-Check: Torschuetzen Jederzeit Goldgrube (+24.4%). WM K.O.-R32-Auto-Downgrade auf WACKEL. Einsatz 0.5% = 2.75 EUR.",
-          "faire_quote": 2.75,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 2.75
-        },
-        {
           "id": "par-fra-5",
-          "kategorie": "risiko",
+          "kategorie": "risk",
           "markt": "Julio Enciso Torschuetze Jederzeit (Paraguay)",
-          "quote": 5.00,
+          "quote": 5.0,
           "edge_prozent": 15.0,
           "begruendung": "Enciso traf gegen GER 42. Min (Kopfball nach Galarza-Flanke) = Turnier-Traumtor-Modus aktiv. Underdog-Traumtor-Cluster HR07-04 (Kap-Verde-Analogie: Duarte + Cabral trafen gegen ARG in K.O.). Frankreich-Standard-Defensive stark, aber Standard-Situation (Ecke/Freistoss) bei Kopfball-Schleuder Enciso realistisch. HR22 Star-OUT NICHT aktiv. Reality-Check: Risiko-Range 3.50-7.00, 5.00 zentraler Bereich. Einsatz 0.5% = 2.75 EUR.",
-          "faire_quote": 4.30,
+          "faire_quote": 4.3,
           "empfohlener_einsatz_prozent": 0.5,
           "empfohlener_einsatz_euro": 2.75
         }
@@ -190,8 +158,9 @@
       "markt": "Kylian Mbappe Torschuetze Jederzeit",
       "quote": 1.57,
       "empfohlener_einsatz_prozent": 2.0,
-      "empfohlener_einsatz_euro": 11.00,
-      "begruendung": "Turnier-Fuehrender 6 Tore, HR07-03-Goldgrube-3/3-Stamm-9-Analogie. SAFE-Range-Untergrenze. Wenn ein Tipp heute sicher liefern soll, dann dieser."
+      "empfohlener_einsatz_euro": 11.0,
+      "begruendung": "Turnier-Fuehrender 6 Tore, HR07-03-Goldgrube-3/3-Stamm-9-Analogie. SAFE-Range-Untergrenze. Wenn ein Tipp heute sicher liefern soll, dann dieser.",
+      "rang": 1
     },
     {
       "id": "einzeltipp-2",
@@ -200,18 +169,20 @@
       "markt": "Unter 3.5 Tore CAN-MAR",
       "quote": 1.35,
       "empfohlener_einsatz_prozent": 1.0,
-      "empfohlener_einsatz_euro": 5.50,
-      "begruendung": "K.O.-Phase-Tor-Total-Trend (HR26 + HR07-01). Marokko-Kontroll-Ball vs Kanada-6er-Block. Unter 2.5 waere aggressive Goldgrube-Variante."
+      "empfohlener_einsatz_euro": 5.5,
+      "begruendung": "K.O.-Phase-Tor-Total-Trend (HR26 + HR07-01). Marokko-Kontroll-Ball vs Kanada-6er-Block. Unter 2.5 waere aggressive Goldgrube-Variante.",
+      "rang": 2
     },
     {
       "id": "einzeltipp-3",
       "spiel_id": "2026-07-04-par-fra",
       "kategorie": "value",
       "markt": "Frankreich gewinnt (Sieg 2, 90min)",
-      "quote": 1.20,
+      "quote": 1.2,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 8.25,
-      "begruendung": "Klassen-Edge extrem + 2:0-Insurance-Chance. HR07-04-8b K.O.-Extra-Time-Falle: unter SAFE-Range max VALUE (ARG-1.17 gestern LOST!)."
+      "begruendung": "Klassen-Edge extrem + 2:0-Insurance-Chance. HR07-04-8b K.O.-Extra-Time-Falle: unter SAFE-Range max VALUE (ARG-1.17 gestern LOST!).",
+      "rang": 3
     },
     {
       "id": "einzeltipp-4",
@@ -221,17 +192,19 @@
       "quote": 1.65,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 8.25,
-      "begruendung": "Ueber 2.5 aktive Goldgrube (+27.5% ROI). FRA-Offensiv-Kontrolle-Modus reicht fuer 3 Tore. HR07-04-8b-Vorsicht: 90min-Regel."
+      "begruendung": "Ueber 2.5 aktive Goldgrube (+27.5% ROI). FRA-Offensiv-Kontrolle-Modus reicht fuer 3 Tore. HR07-04-8b-Vorsicht: 90min-Regel.",
+      "rang": 4
     },
     {
       "id": "einzeltipp-5",
       "spiel_id": "2026-07-04-can-mar",
       "kategorie": "value",
       "markt": "Marokko gewinnt (Sieg 2, 90min)",
-      "quote": 1.80,
+      "quote": 1.8,
       "empfohlener_einsatz_prozent": 2.0,
-      "empfohlener_einsatz_euro": 11.00,
-      "begruendung": "Klassen-Edge extrem + 2:0-Insurance-Chance. HR07-04-8b K.O.-Extra-Time-Falle - deswegen VALUE nicht SAFE."
+      "empfohlener_einsatz_euro": 11.0,
+      "begruendung": "Klassen-Edge extrem + 2:0-Insurance-Chance. HR07-04-8b K.O.-Extra-Time-Falle - deswegen VALUE nicht SAFE.",
+      "rang": 5
     },
     {
       "id": "einzeltipp-6",
@@ -241,17 +214,19 @@
       "quote": 2.87,
       "empfohlener_einsatz_prozent": 0.5,
       "empfohlener_einsatz_euro": 2.75,
-      "begruendung": "3 Turnier-Tore + Elfm-Winner NED. HR07-03-Goldgrube-3/3-Analogie Stamm-9. WM-K.O.-R32-Auto-Downgrade auf WACKEL."
+      "begruendung": "3 Turnier-Tore + Elfm-Winner NED. HR07-03-Goldgrube-3/3-Analogie Stamm-9. WM-K.O.-R32-Auto-Downgrade auf WACKEL.",
+      "rang": 6
     },
     {
       "id": "einzeltipp-7",
       "spiel_id": "2026-07-04-can-mar",
       "kategorie": "value",
       "markt": "Beide Teams treffen JA CAN-MAR",
-      "quote": 2.00,
+      "quote": 2.0,
       "empfohlener_einsatz_prozent": 1.0,
-      "empfohlener_einsatz_euro": 5.50,
-      "begruendung": "Kanada 4/4 WM-Spiele getroffen + Marokko-Offensiv-Trio. BTTS-Goldgrube (+16.9%). Quote 2.00 im VALUE-Range."
+      "empfohlener_einsatz_euro": 5.5,
+      "begruendung": "Kanada 4/4 WM-Spiele getroffen + Marokko-Offensiv-Trio. BTTS-Goldgrube (+16.9%). Quote 2.00 im VALUE-Range.",
+      "rang": 7
     },
     {
       "id": "einzeltipp-8",
@@ -261,27 +236,30 @@
       "quote": 2.95,
       "empfohlener_einsatz_prozent": 0.5,
       "empfohlener_einsatz_euro": 2.75,
-      "begruendung": "Turnier-Assist-Fuehrender + Sub-Tor vs SWE. Bayern-Winger-Form. Boost-Trigger via Rotation aktivierbar."
+      "begruendung": "Turnier-Assist-Fuehrender + Sub-Tor vs SWE. Bayern-Winger-Form. Boost-Trigger via Rotation aktivierbar.",
+      "rang": 8
     },
     {
       "id": "einzeltipp-9",
       "spiel_id": "2026-07-04-can-mar",
-      "kategorie": "risiko",
+      "kategorie": "risk",
       "markt": "Jonathan David Torschuetze Jederzeit (Kanada)",
-      "quote": 4.20,
+      "quote": 4.2,
       "empfohlener_einsatz_prozent": 0.5,
       "empfohlener_einsatz_euro": 2.75,
-      "begruendung": "Napoli-Volume-9, Underdog-Traumtor-Chance. bet365-Larin-Sub-Boost aktivierbar."
+      "begruendung": "Napoli-Volume-9, Underdog-Traumtor-Chance. bet365-Larin-Sub-Boost aktivierbar.",
+      "rang": 9
     },
     {
       "id": "einzeltipp-10",
       "spiel_id": "2026-07-04-par-fra",
-      "kategorie": "risiko",
+      "kategorie": "risk",
       "markt": "Julio Enciso Torschuetze Jederzeit (Paraguay)",
-      "quote": 5.00,
+      "quote": 5.0,
       "empfohlener_einsatz_prozent": 0.5,
       "empfohlener_einsatz_euro": 2.75,
-      "begruendung": "Enciso Traumtor-Modus (Kopfball vs GER 42.). Underdog-Cluster HR07-04 Kap-Verde-Analogie."
+      "begruendung": "Enciso Traumtor-Modus (Kopfball vs GER 42.). Underdog-Cluster HR07-04 Kap-Verde-Analogie.",
+      "rang": 10
     }
   ],
   "kombis": [
@@ -292,7 +270,7 @@
         {
           "spiel_id": "2026-07-04-par-fra",
           "markt": "Frankreich gewinnt (Sieg 2, 90min)",
-          "quote": 1.20
+          "quote": 1.2
         },
         {
           "spiel_id": "2026-07-04-can-mar",
@@ -303,7 +281,7 @@
       "gesamtquote": 3.44,
       "gesamtquote_rechnung": "1.20 x 2.87 = 3.44",
       "empfohlener_einsatz_prozent": 2.0,
-      "empfohlener_einsatz_euro": 11.00,
+      "empfohlener_einsatz_euro": 11.0,
       "potentieller_gewinn_euro": 37.85,
       "begruendung": "Klassen-Edge-Doppel: FRA-Sieg gegen den GER-Killer + Marokkos Turnier-Torschuetzenkoenig-Kandidat. Beide Beine mit 2:0-Insurance-Rueckversicherung. Safe-Range-Untergrenze aber Doppel-Story stark.",
       "layer_check": "Layer-1 OK (1 Bein/Spiel), Layer-2 nutzt PAR-FRA-Sieg-Outcome (einzige Kombi)"
@@ -315,30 +293,30 @@
         {
           "spiel_id": "2026-07-04-can-mar",
           "markt": "Doppelte Chance X2 (Marokko/Unentschieden)",
-          "quote": 1.30
+          "quote": 1.3
         },
         {
           "spiel_id": "2026-07-04-par-fra",
           "markt": "Julio Enciso Torschuetze Jederzeit",
-          "quote": 5.00
+          "quote": 5.0
         }
       ],
-      "gesamtquote": 6.50,
+      "gesamtquote": 6.5,
       "gesamtquote_rechnung": "1.30 x 5.00 = 6.50",
       "empfohlener_einsatz_prozent": 0.8,
-      "empfohlener_einsatz_euro": 4.40,
-      "potentieller_gewinn_euro": 28.60,
+      "empfohlener_einsatz_euro": 4.4,
+      "potentieller_gewinn_euro": 28.6,
       "begruendung": "Marokkos DC X2 als Klassen-Kontroll-Sicherung (Sieg oder Draw beide OK) + Paraguayer Traumtor-Held Enciso (GER-Skandal-Wiederholung). DC X2 Goldgrube (+9.4% ROI) trifft Underdog-Motivations-Cluster HR07-04.",
       "layer_check": "Layer-1 OK (1 Bein/Spiel), Layer-2 nutzt CAN-MAR-Sieg-Outcome (einzige Kombi mit CAN-MAR-Sieg)"
     },
     {
       "name": "Risiko-Kombi (~16.22x)",
-      "kategorie": "risiko",
+      "kategorie": "risk",
       "beine": [
         {
           "spiel_id": "2026-07-04-can-mar",
           "markt": "Ayoub El Kaabi Doppelpack (2+ Tore)",
-          "quote": 5.50
+          "quote": 5.5
         },
         {
           "spiel_id": "2026-07-04-par-fra",
@@ -349,7 +327,7 @@
       "gesamtquote": 16.22,
       "gesamtquote_rechnung": "5.50 x 2.95 = 16.22",
       "empfohlener_einsatz_prozent": 0.25,
-      "empfohlener_einsatz_euro": 1.50,
+      "empfohlener_einsatz_euro": 1.5,
       "potentieller_gewinn_euro": 24.33,
       "begruendung": "El Kaabi (bet365-Anytime-Favorit 2/1) Doppelpack-Ambition + Olise als FRA-Sub-Boost-Kandidat mit Bundesliga-Form. Kein Sieg-Outcome = Layer-2 sauber.",
       "layer_check": "Layer-1 OK, Layer-2 keine Sieg-Outcomes"
@@ -361,15 +339,15 @@
         {
           "spiel_id": "2026-07-04-can-mar",
           "markt": "Jonathan David Doppelpack (2+ Tore)",
-          "quote": 9.00
+          "quote": 9.0
         },
         {
           "spiel_id": "2026-07-04-par-fra",
           "markt": "Julio Enciso Doppelpack (2+ Tore)",
-          "quote": 15.00
+          "quote": 15.0
         }
       ],
-      "gesamtquote": 135.00,
+      "gesamtquote": 135.0,
       "gesamtquote_rechnung": "9.00 x 15.00 = 135.00",
       "empfohlener_einsatz_prozent": 0.1,
       "empfohlener_einsatz_euro": 0.55,
@@ -393,7 +371,7 @@
     "kasse_euro": 550,
     "stufe": 1,
     "stufe_grund": "Kasse < 1000 EUR + rolling 30-Tage-ROI +0.4% < +5% Skim-Voraussetzung",
-    "gesamt_einsatz_einzeltipps_euro": 60.50,
+    "gesamt_einsatz_einzeltipps_euro": 60.5,
     "gesamt_einsatz_kombis_euro": 17.45,
     "gesamt_einsatz_euro": 77.95,
     "prozent_kasse": 14.2,

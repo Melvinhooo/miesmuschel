@@ -35,26 +35,30 @@
       "tipps": [
         {
           "typ": "Unter 2.5 Tore",
-          "quote_bet365": 1.85,
           "kategorie": "value",
-          "einsatz_prozent": 1.5,
-          "begruendung": "Unter 2.5 Tore ist unser bester ROI-Markt (Goldgrube +24% ROI / 68% Hitrate laut statistik.json) und passt zur K.O.-Vorsicht - beide Teams defensiv stark, Spanien null Gegentore im Turnier, POR-CRO 2:1 mit spaeter Entscheidung. Lesson 07-05: R16 04.07. gingen beide 0:0 in HZ. Bei 550€ Kasse Stufe 1 = 8.25€ Einsatz."
+          "begruendung": "Unter 2.5 Tore ist unser bester ROI-Markt (Goldgrube +24% ROI / 68% Hitrate laut statistik.json) und passt zur K.O.-Vorsicht - beide Teams defensiv stark, Spanien null Gegentore im Turnier, POR-CRO 2:1 mit spaeter Entscheidung. Lesson 07-05: R16 04.07. gingen beide 0:0 in HZ. Bei 550€ Kasse Stufe 1 = 8.25€ Einsatz.",
+          "empfohlener_einsatz_prozent": 1.5,
+          "quote": 1.85,
+          "faire_quote": 1.85
         },
         {
           "typ": "Lamine Yamal Torschuetze Jederzeit",
-          "quote_bet365": 2.6,
           "kategorie": "value",
-          "einsatz_prozent": 1.0,
-          "begruendung": "Torschuetzen Jederzeit ist Goldgrube (+24.4% ROI / 50% Hitrate). Yamal xG 2.26 Turnier + 6 Schuesse auf Tor = Form-Edge. Bei Ausfall Rueckwart bet365-Einwechslungs-Boost bei Wechsel (Backup: Nico Williams). 550€ Kasse = 5.50€."
+          "begruendung": "Torschuetzen Jederzeit ist Goldgrube (+24.4% ROI / 50% Hitrate). Yamal xG 2.26 Turnier + 6 Schuesse auf Tor = Form-Edge. Bei Ausfall Rueckwart bet365-Einwechslungs-Boost bei Wechsel (Backup: Nico Williams). 550€ Kasse = 5.50€.",
+          "empfohlener_einsatz_prozent": 1.0,
+          "quote": 2.6,
+          "faire_quote": 2.6
         },
         {
           "typ": "Doppelte Chance Spanien oder Unentschieden (X2)",
-          "quote_bet365": 1.35,
           "kategorie": "value",
-          "einsatz_prozent": 1.5,
-          "begruendung": "Coinflip-Regel verbietet SAFE, aber Spanien-Klasse (unbesiegt Turnier, null Gegentore) rechtfertigt VALUE-Insurance-Route. DC X2 Goldgrube (78% Hitrate). Kein SAFE weil Portugal-Elfmeter/Ronaldo-Set-Piece jederzeit einschlagen kann + Coinflip. 550€ = 8.25€."
+          "begruendung": "Coinflip-Regel verbietet SAFE, aber Spanien-Klasse (unbesiegt Turnier, null Gegentore) rechtfertigt VALUE-Insurance-Route. DC X2 Goldgrube (78% Hitrate). Kein SAFE weil Portugal-Elfmeter/Ronaldo-Set-Piece jederzeit einschlagen kann + Coinflip. 550€ = 8.25€.",
+          "empfohlener_einsatz_prozent": 1.5,
+          "quote": 1.35,
+          "faire_quote": 1.35
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-07-07-usa-bel",
@@ -79,28 +83,10 @@
         "Kalshi-Trader: USA 36% / Draw 29% / Belgien 38% - kein klarer Fav",
         "Ueber-2.5-Tore-Goldgrube (+20.1% ROI): beide Teams offensiv-orientiert, gutes Ueber-Fenster"
       ],
-      "tipps": [
-        {
-          "typ": "Ueber 2.5 Tore",
-          "quote_bet365": 2.0,
-          "kategorie": "value",
-          "einsatz_prozent": 1.0,
-          "begruendung": "Ueber 2.5 Tore Goldgrube (+20.1% ROI / 57.9% Hitrate). BEL-SEN war 3:2 = 5 Tore (Belgien-Def-Wackel gegen Speed-Angriffe). USA-BOS 2:0 (Def stark). Pulisic + Balogun vs muedes Belgien-Def kann Tore bringen. Coinflip-Modus + offensive Teams = Ueber-VALUE. 550€ = 5.50€."
-        },
-        {
-          "typ": "Christian Pulisic Torschuetze Jederzeit",
-          "quote_bet365": 2.8,
-          "kategorie": "wackel",
-          "einsatz_prozent": 0.5,
-          "begruendung": "Home-Fav-Profil Regel MIN 1 Torschuetzen-Tipp fuer Heim-Fav. Pulisic USA-Star + AC-Milan Form + Seattle-Publikum-Boost. WACKEL weil Belgien-Def kompakt. bet365-Einwechslungs-Boost falls Pulisic frueh raus (Backup: Weah). 550€ = 2.75€."
-        },
-        {
-          "typ": "Beide Teams treffen JA",
-          "quote_bet365": 1.85,
-          "kategorie": "wackel",
-          "einsatz_prozent": 0.5,
-          "begruendung": "Coinflip-Modus + zwei Teams die je 2+ Tore in R32 kassiert/geschossen haben. BEL Def-Wackel + USA-Home-Druck. Kein SAFE weil K.O.-Modus manchmal in 0:0-Modus kippt (Lesson 07-05 Paraguay-Frankreich Kontroll-Zero). 550€ = 2.75€."
-        }
+      "tipps": [],
+      "kontext_check_status": "FAIL",
+      "kontext_check_fehler": [
+        "quellen[]"
       ]
     },
     {
@@ -135,26 +121,30 @@
       "tipps": [
         {
           "typ": "Argentinien Sieg 90min",
-          "quote_bet365": 1.37,
           "kategorie": "value",
-          "einsatz_prozent": 1.5,
-          "begruendung": "Klassen-Fav 90min @ 1.37 (implizite 73%). ARG-Cap-Lehre Lesson 07-04 verbietet SAFE, aber VALUE stark (Aegypten-Anti-Traumszenario schwach umsetzbar). Heim-Fav-Regel MIN 1 Sieg-Tipp erfuellt. Kein SAFE weil R16-K.O.-Volatilitaet + Kap-Verde-Kraftakt. 550€ = 8.25€."
+          "begruendung": "Klassen-Fav 90min @ 1.37 (implizite 73%). ARG-Cap-Lehre Lesson 07-04 verbietet SAFE, aber VALUE stark (Aegypten-Anti-Traumszenario schwach umsetzbar). Heim-Fav-Regel MIN 1 Sieg-Tipp erfuellt. Kein SAFE weil R16-K.O.-Volatilitaet + Kap-Verde-Kraftakt. 550€ = 8.25€.",
+          "empfohlener_einsatz_prozent": 1.5,
+          "quote": 1.37,
+          "faire_quote": 1.37
         },
         {
           "typ": "Lionel Messi Torschuetze Jederzeit",
-          "quote_bet365": 1.67,
           "kategorie": "value",
-          "einsatz_prozent": 1.5,
-          "begruendung": "Torschuetzen-Goldgrube (+24.4% ROI). Messi Golden-Boot-Traeger 7 Tore Turnier + xG 3.82 = massiver Form-Edge. Klassen-Favorit-Regel MIN 1 Torschuetzen-Tipp = Pflicht erfuellt. Backup-Boost falls ausgewechselt: Julian Alvarez (Ersatz-Traeger). 550€ = 8.25€."
+          "begruendung": "Torschuetzen-Goldgrube (+24.4% ROI). Messi Golden-Boot-Traeger 7 Tore Turnier + xG 3.82 = massiver Form-Edge. Klassen-Favorit-Regel MIN 1 Torschuetzen-Tipp = Pflicht erfuellt. Backup-Boost falls ausgewechselt: Julian Alvarez (Ersatz-Traeger). 550€ = 8.25€.",
+          "empfohlener_einsatz_prozent": 1.5,
+          "quote": 1.67,
+          "faire_quote": 1.67
         },
         {
           "typ": "Julian Alvarez Torschuetze Jederzeit",
-          "quote_bet365": 2.2,
           "kategorie": "wackel",
-          "einsatz_prozent": 0.5,
-          "begruendung": "Backup-Torschuetze bei Klassen-Favorit-Match. Alvarez traf n.V. vs Kap Verde + Volumen-Stuermer @ Man City. WACKEL weil Rotation moeglich nach 120min. bet365-Einwechslungs-Boost falls Alvarez raus (Backup Lautaro). 550€ = 2.75€."
+          "begruendung": "Backup-Torschuetze bei Klassen-Favorit-Match. Alvarez traf n.V. vs Kap Verde + Volumen-Stuermer @ Man City. WACKEL weil Rotation moeglich nach 120min. bet365-Einwechslungs-Boost falls Alvarez raus (Backup Lautaro). 550€ = 2.75€.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "quote": 2.2,
+          "faire_quote": 2.2
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-07-07-sui-col",
@@ -185,29 +175,9 @@
         "Cordoba (COL) Rotation-Frage nach fruehem Auswechseln R32 - Ersatz vermutlich Borre",
         "Kalshi: Kolumbien 60c / Schweiz 43c - klarer COL-Tilt aber nicht dominant"
       ],
-      "tipps": [
-        {
-          "typ": "Unter 2.5 Tore",
-          "quote_bet365": 1.85,
-          "kategorie": "wackel",
-          "einsatz_prozent": 0.5,
-          "begruendung": "Under 2.5 Tore Goldgrube (+24% ROI / 68% Hitrate). K.O.-Modus + zwei defensive Teams (SUI 0 Gegentore R32, COL 0 Gegentore R32). WACKEL statt VALUE weil Coinflip-Regel + zwei Traeger auf beiden Seiten koennen einzelnen Doppelpack tragen. 550€ = 2.75€."
-        },
-        {
-          "typ": "Doppelte Chance Kolumbien oder Unentschieden (1X)",
-          "quote_bet365": 1.35,
-          "kategorie": "wackel",
-          "einsatz_prozent": 0.5,
-          "begruendung": "COL slight Fav, DC 1X @ 1.35 als Insurance. Coinflip verbietet SAFE. WACKEL weil Schweiz gegen Klassen-Aussenseiter (Algerien) 2:0 dominierte + defensive Stabilitaet (Sommer stark). 550€ = 2.75€."
-        },
-        {
-          "typ": "James Rodriguez Torschuetze Jederzeit",
-          "quote_bet365": 3.5,
-          "kategorie": "wackel",
-          "einsatz_prozent": 0.5,
-          "begruendung": "Kolumbien-Klassen-Fav-Profil Regel MIN 1 Torschuetzen-Tipp. James Standardsituationen + Freistoss-Traeger, kompensiert Diaz-VAR-Volatilitaet (Lesson 07-04). WACKEL weil Rotation moeglich nach 90min gegen Ghana. 550€ = 2.75€."
-        }
-      ]
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-07-09-fra-mar",
@@ -242,26 +212,30 @@
       "tipps": [
         {
           "typ": "Frankreich Sieg 90min",
-          "quote_bet365": 1.65,
           "kategorie": "value",
-          "einsatz_prozent": 1.5,
-          "begruendung": "Klassen-Fav 90min @ 1.65 (implizite 60%). Kontroll-Zero-Modus vs schwaechere Underdogs bewaehrt (Paraguay 0:1). Marokko-Rematch-Motivation aber Kader-Klasse Frankreich klar. Kein SAFE weil ARG-Cap-Lehre + K.O.-Vorsicht Lesson 07-04. Klassen-Favorit-Regel MIN 1 Sieg-Tipp erfuellt. 550€ = 8.25€."
+          "begruendung": "Klassen-Fav 90min @ 1.65 (implizite 60%). Kontroll-Zero-Modus vs schwaechere Underdogs bewaehrt (Paraguay 0:1). Marokko-Rematch-Motivation aber Kader-Klasse Frankreich klar. Kein SAFE weil ARG-Cap-Lehre + K.O.-Vorsicht Lesson 07-04. Klassen-Favorit-Regel MIN 1 Sieg-Tipp erfuellt. 550€ = 8.25€.",
+          "empfohlener_einsatz_prozent": 1.5,
+          "quote": 1.65,
+          "faire_quote": 1.65
         },
         {
           "typ": "Kylian Mbappe Torschuetze Jederzeit",
-          "quote_bet365": 1.8,
           "kategorie": "value",
-          "einsatz_prozent": 1.5,
-          "begruendung": "Torschuetzen-Goldgrube (+24.4% ROI). Mbappe Elfm vs Paraguay = Elfmeter-Traeger + Form-Kontinuitaet. Klassen-Favorit-Regel MIN 1 Torschuetzen-Tipp = Pflicht erfuellt. bet365 boostet Backup falls Wechsel (Dembele oder Doue). 550€ = 8.25€."
+          "begruendung": "Torschuetzen-Goldgrube (+24.4% ROI). Mbappe Elfm vs Paraguay = Elfmeter-Traeger + Form-Kontinuitaet. Klassen-Favorit-Regel MIN 1 Torschuetzen-Tipp = Pflicht erfuellt. bet365 boostet Backup falls Wechsel (Dembele oder Doue). 550€ = 8.25€.",
+          "empfohlener_einsatz_prozent": 1.5,
+          "quote": 1.8,
+          "faire_quote": 1.8
         },
         {
           "typ": "Unter 2.5 Tore",
-          "quote_bet365": 1.87,
           "kategorie": "value",
-          "einsatz_prozent": 1.0,
-          "begruendung": "Under 2.5 Tore Goldgrube (+24% ROI / 68% Hitrate). Frankreich-Kontroll-Zero-Modus in K.O. + Marokko-Sitting-Deep-Modell (kaum Gegentore Turnier). Lesson 07-05 Frankreich Paraguay 1 Tor. 550€ = 5.50€."
+          "begruendung": "Under 2.5 Tore Goldgrube (+24% ROI / 68% Hitrate). Frankreich-Kontroll-Zero-Modus in K.O. + Marokko-Sitting-Deep-Modell (kaum Gegentore Turnier). Lesson 07-05 Frankreich Paraguay 1 Tor. 550€ = 5.50€.",
+          "empfohlener_einsatz_prozent": 1.0,
+          "quote": 1.87,
+          "faire_quote": 1.87
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-07-10-qf-la",
@@ -287,7 +261,8 @@
         "Gegner erst nach Achtelfinal-Doppelpack Mo/Di klar - Tages-Dossier Fr 10.07 wird konkretisieren",
         "SoFi Stadium neutral - kein extremer Wetter- oder Hoehenfaktor"
       ],
-      "tipps": []
+      "tipps": [],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-07-11-qf-miami",
@@ -313,7 +288,8 @@
         "Gegner erst nach heutigen Achtelfinals klar - Tages-Dossier Sa 11.07 wird konkretisieren",
         "Hard Rock Stadium in Miami: Abend-Anstoss reduziert Hitze-Faktor, aber Luftfeuchtigkeit bleibt Konditions-Belastung"
       ],
-      "tipps": []
+      "tipps": [],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-07-12-qf-kansas",
@@ -339,7 +315,8 @@
         "Gegner nach Achtelfinal-Doppelpack Di 07.07 klar - Tages-Dossier Sa 11.07 wird konkretisieren",
         "Nacht-Anstoss aus DE-Sicht (03:00 CEST) - dokumentieren, Ergebnis erst So Morgen"
       ],
-      "tipps": []
+      "tipps": [],
+      "kontext_check_status": "OK"
     }
   ],
   "einzeltipps": [
@@ -564,7 +541,7 @@
     {
       "id": "kombi-risiko-w28",
       "name": "Risiko-Kombi Backup-Torschuetzen-Volumen",
-      "kategorie": "risiko",
+      "kategorie": "risk",
       "gesamtquote": 73.3,
       "einsatz_euro": 1.4,
       "empfohlener_einsatz_prozent": 0.25,
