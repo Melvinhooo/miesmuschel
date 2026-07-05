@@ -1,0 +1,274 @@
+{
+  "datum": "2026-07-05",
+  "erstellt_am": "2026-07-05T10:35:00+02:00",
+  "modus": "tag",
+  "_emergency_recovery": true,
+  "_emergency_recovery_grund": "Recherche-Cloud-Routine (Cron 10:30 Berlin) fuer 2026-07-05 lieferte kein File - letztes Recherche-File war 2026-07-04 (Achtelfinale Tag 1). Master-Tipps-Routine hat 10:35 Berlin Fallback-Recherche via WebSearch selbst gemacht (8 Web-Queries: Preview + Odds + Team-News + R32-Recaps fuer beide Achtelfinal-Tag-2-Spiele) und schreibt Recherche + Tipps in einem Lauf.",
+  "hinweis": "WM 2026 Achtelfinale Tag 2 (05.07.). 2 Spiele im Window - Brasilien vs Norwegen (MetLife Stadium NJ, 22:00 CEST) + Mexiko vs England (Estadio Azteca, 03:00 CEST Nacht = Window 05.07.). NBA Finals beendet (Knicks 4-1 Spurs), Vereins-Fussball Sommer-Pause bis August 2026.",
+  "spiele": [
+    {
+      "id": "2026-07-05-bra-nor",
+      "liga": "FIFA WM 2026 - Achtelfinale",
+      "heim": "Brasilien",
+      "gast": "Norwegen",
+      "anstoss": "2026-07-05T22:00:00+02:00",
+      "stadion": "MetLife Stadium, East Rutherford NJ",
+      "turnier_phase": "Achtelfinale",
+      "gruppe": null,
+      "spielort_faktor": {
+        "stadt": "East Rutherford (New Jersey / New York Metro)",
+        "stadion": "MetLife Stadium",
+        "land": "USA",
+        "hoehe_m": 5,
+        "klima_anstoss": "26°C, 55% LF, teils bewoelkt (New Jersey Juli-Abend)",
+        "anstoss_lokal": "16:00 EDT",
+        "lokal_faktor": "Neutraler US-Standort. NY/NJ hat starke brasilianische Diaspora - erwartete leichte BRA-Fanmehrheit. Kapazitaet 82.500. Rasen ok fuer Sommer-Nachmittag. Kein Hoehen- oder Hitze-Faktor.",
+        "implikationen": ["BRA-Fan-Anteil vergibt leichten Heim-Vorteil", "Klima moderat - keine Kondition-Ausrede fuer NOR"]
+      },
+      "squad_heim": [
+        {"name": "Alisson", "nummer": 1, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "https://www.espn.com/soccer/story/_/id/49256507/brazil-vs-norway-fifa-world-cup-2026-tv-channel-how-watch-kickoff-live-stream-injury-predicted-lineups - R32 XI bestaetigt"},
+        {"name": "Danilo", "nummer": 2, "position": "RV", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "R32 vs Japan XI"},
+        {"name": "Marquinhos", "nummer": 4, "position": "IV", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "PSG-IV, Kapitaen-Kandidat"},
+        {"name": "Gabriel Magalhaes", "nummer": 3, "position": "IV", "saison_tore": 1, "letzte_5_spiele_tore": 0, "verifiziert_via": "Arsenal-IV Startelf-Fixpunkt"},
+        {"name": "Douglas Santos", "nummer": 6, "position": "LV", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "Zenit-LV, R32 XI"},
+        {"name": "Casemiro", "nummer": 5, "position": "DM", "saison_tore": 1, "letzte_5_spiele_tore": 0, "verifiziert_via": "Man Utd-DM, R32 XI"},
+        {"name": "Bruno Guimaraes", "nummer": 8, "position": "CM", "saison_tore": 2, "letzte_5_spiele_tore": 0, "verifiziert_via": "Newcastle-CM"},
+        {"name": "Lucas Paqueta", "nummer": 10, "position": "OM", "saison_tore": 2, "letzte_5_spiele_tore": 1, "verifiziert_via": "West Ham-OM, R32 XI"},
+        {"name": "Gabriel Martinelli", "nummer": 19, "position": "RF", "saison_tore": 3, "letzte_5_spiele_tore": 2, "verifiziert_via": "Arsenal-Fluegel, R32 90+5-Winner vs JPN - https://cryptobriefing.com/brazil-japan-world-cup-neymar-bench/"},
+        {"name": "Matheus Cunha", "nummer": 9, "position": "ST", "saison_tore": 2, "letzte_5_spiele_tore": 1, "verifiziert_via": "Wolves-ST, Startelf-Fixpunkt seit Neymar-Bank"},
+        {"name": "Vinicius Junior", "nummer": 11, "position": "LF", "saison_tore": 3, "letzte_5_spiele_tore": 2, "verifiziert_via": "Real Madrid-Fluegel, Turnier-3-Tore+1-Assist"},
+        {"name": "Neymar Jr", "nummer": 7, "position": "OM/LF", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "Al-Hilal-Wechsel + Kalb-Verletzung - Bank-Rolle nach 981 Tage int. Pause - https://www.si.com/soccer/will-neymar-play-brazil-vs-japan-2026-world-cup", "status": "Bank_Sub-Kandidat_60-70min"},
+        {"name": "Rodrygo", "nummer": 20, "position": "LF/RF", "saison_tore": 1, "letzte_5_spiele_tore": 0, "verifiziert_via": "Real Madrid-Fluegel, R32 Bank"},
+        {"name": "Rayan", "nummer": 21, "position": "RF", "saison_tore": 1, "letzte_5_spiele_tore": 1, "verifiziert_via": "Vasco-Youngster, R32 Bank"}
+      ],
+      "squad_gast": [
+        {"name": "Orjan Nyland", "nummer": 1, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "R32-XI - https://www.aljazeera.com/news/2026/6/30/ivory-coast-norway-fifa-world-cup-round-of-32-prediction-haaland-diomande-lineups"},
+        {"name": "Marcus Pedersen", "nummer": 2, "position": "RV", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "R32 XI vs CIV"},
+        {"name": "Kristoffer Ajer", "nummer": 5, "position": "IV", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "Brentford-IV Startelf-Fixpunkt"},
+        {"name": "Torbjorn Heggem", "nummer": 3, "position": "IV", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "West Brom-IV, R32 XI"},
+        {"name": "Fredrik Moller Wolfe", "nummer": 15, "position": "LV", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "R32 XI Ivory Coast"},
+        {"name": "Martin Odegaard", "nummer": 10, "position": "OM", "saison_tore": 3, "letzte_5_spiele_tore": 1, "verifiziert_via": "Arsenal-Kapitaen, Turnier-2-Assists"},
+        {"name": "Sander Berge", "nummer": 6, "position": "CM", "saison_tore": 1, "letzte_5_spiele_tore": 0, "verifiziert_via": "Fulham-CM"},
+        {"name": "Fredrik Aursnes", "nummer": 8, "position": "CM", "saison_tore": 1, "letzte_5_spiele_tore": 0, "verifiziert_via": "Benfica-CM"},
+        {"name": "Alexander Sorloth", "nummer": 9, "position": "ST", "saison_tore": 12, "letzte_5_spiele_tore": 2, "verifiziert_via": "Atletico Madrid-9er, Startelf neben Haaland als Zweiter"},
+        {"name": "Erling Haaland", "nummer": 21, "position": "ST", "saison_tore": 34, "letzte_5_spiele_tore": 5, "verifiziert_via": "Man City-9er, TURNIER-FUEHRENDER 6 Tore in 4 Spielen (5 Gruppe + 86.min-Winner vs CIV) - https://www.aljazeera.com/sports/2026/6/30/norway-edge-ivory-coast-2-1-to-enter-world-cup-round-of"},
+        {"name": "Antonio Nusa", "nummer": 20, "position": "LF/OM", "saison_tore": 4, "letzte_5_spiele_tore": 2, "verifiziert_via": "RB Leipzig-Youngster, R32-XI + 39.min Opener vs CIV"},
+        {"name": "Julian Ryerson", "nummer": 4, "position": "RV", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "Dortmund-RV Sub-Option"}
+      ],
+      "injuries_heim": ["Neymar (Kalb-Verletzung, Bank-Rolle nach 981 Tage Verletzungspause) - kein Startelf"],
+      "injuries_gast": ["keine gemeldet - Norwegen kam frisch durch R32"],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM exklusiv",
+        "gast": "keine - WM exklusiv",
+        "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"]
+      },
+      "saisonziel_heim": "Sechster WM-Titel als Ziel (letzter 2002). Gruppen-Erster mit 9 Pkt (3S/0U). R32 2:1 vs Japan via Martinelli 90+5 - Warnschuss dass es zu eng war gegen Klassen-Underdog. Ancelotti-Debuet-Turnier soll den Post-Tite-Neustart legitimieren.",
+      "saisonziel_gast": "Erste WM seit 1998. Aus 12 Gruppen-Draw. Gruppenphase Platz 2, R32 2:1 vs CIV via Haaland-86-Winner. Haaland-Show-Mission - individueller Ambitions-Zyklus 25 Jahre nach Riise/Solskjaer. HR: Norwegen hat gegen Brasilien NIE VERLOREN (2S/2U aus 4 Duellen, inkl. 2:1 in WM 1998 Gruppenphase).",
+      "tabellenstand": null,
+      "form_heim_letzte_5": "S(R32)-S-S-S-U",
+      "form_gast_letzte_5": "S(R32)-U-S-S-U",
+      "recovery_heim": "5 Tage seit R32 vs Japan (nur 90 Min, aber Martinelli-Winner erst 90+5 = leichte psychische Last). Kader breit, keine Sperren. Neymar-Sub-Trigger aktiv.",
+      "recovery_gast": "5 Tage seit R32 vs Ivory Coast (90 Min, Haaland-Winner 86.). Kader komplett fit.",
+      "vereins_belastung_heim": "Real-Madrid-Vinicius/Rodrygo (48 Spiele CL+Liga+Cup), Arsenal-Martinelli/G.Magalhaes (55+ PL+CL), PSG-Marquinhos (54 Spiele CL-Finale), Newcastle-Bruno/Casemiro (~48). Sehr hohe Belastung Klub-Saisonende.",
+      "vereins_belastung_gast": "Man-City-Haaland (54 Spiele PL+CL+Cup), Arsenal-Odegaard (~48 Spiele), Atletico-Sorloth (52 Spiele CL+Liga+Copa del Rey Cup-Sieger). Ebenfalls extrem belastet aber norwegisches Team kompakter.",
+      "quoten": {
+        "bet365": {
+          "sieg_heim": 1.90,
+          "draw": 3.40,
+          "sieg_gast": 4.20,
+          "dc_1x": 1.28,
+          "dc_12": 1.35,
+          "dc_x2": 1.85,
+          "ueber_1_5": 1.28,
+          "ueber_2_5": 1.85,
+          "unter_2_5": 1.95,
+          "unter_3_5": 1.55,
+          "ueber_3_5": 2.40,
+          "btts_ja": 1.85,
+          "btts_nein": 1.90,
+          "torschuetzen": {
+            "Erling Haaland": 2.20,
+            "Vinicius Junior": 2.30,
+            "Matheus Cunha": 3.20,
+            "Gabriel Martinelli": 3.20,
+            "Alexander Sorloth": 4.50,
+            "Antonio Nusa": 4.50,
+            "Lucas Paqueta": 4.50,
+            "Rodrygo (bei Einsatz)": 4.75,
+            "Rayan (Sub)": 6.50,
+            "Neymar (Sub)": 6.00,
+            "Martin Odegaard": 5.00,
+            "Bruno Guimaraes": 8.00,
+            "Casemiro": 12.00
+          },
+          "doppelpack": {
+            "Erling Haaland": 4.50,
+            "Vinicius Junior": 6.00,
+            "Alexander Sorloth": 15.00,
+            "Matheus Cunha": 9.00,
+            "Gabriel Martinelli": 9.50
+          },
+          "hattrick": {
+            "Erling Haaland": 12.00,
+            "Vinicius Junior": 25.00
+          }
+        },
+        "pinnacle": {"sieg_heim": 1.87, "draw": 3.60, "sieg_gast": 4.30},
+        "fair_line_pinnacle_basis_prozent": {"sieg_heim": 52, "draw": 26, "sieg_gast": 22}
+      },
+      "news_kompakt": [
+        "Opta-Supercomputer: BRA 53.6% (reg), NOR 22.4%, Extra-Time 24%.",
+        "Historischer Kontext: Norwegen hat gegen Brasilien NIE VERLOREN (2S/2U aus 4 Duellen inkl. WM 1998 Gruppen 2:1). Kein anderes aktuelles Nationalteam kann das behaupten.",
+        "Haaland fuehrt Turnier-Torschuetzenliste mit 6 Toren in 4 Spielen (5 Gruppe + 86.min-Winner vs Ivory Coast).",
+        "Vinicius Junior 3 Tore + 1 Assist durch 4 Spiele - Turnier-Formfluch aufgehoben.",
+        "Norwegen 4/4 WM-Spiele BTTS. Brasilien 7/8 letzten Spiele Ueber 2.5 Tore.",
+        "Neymar Bank-Rolle bestaetigt (Kalb) - Ancelotti setzt auf Cunha-9er + Vinicius/Martinelli Fluegel.",
+        "R32 Cliffhanger: Brasilien 2:1 Japan via Martinelli 90+5, Norwegen 2:1 CIV via Haaland 86. - keine 5+ Tore-Kaskade in beiden R32.",
+        "bet365 DE 2:0-Insurance gilt WM 2026 - Sieg-Tipps mit 2:0-Fuehrungs-Puffer abgesichert."
+      ],
+      "quellen_aggregator": [
+        "https://news.bet365.com/en-gb/article/brazil-v-norway-betting-odds-selecao-favourites-for-major-test/2026063021153717249",
+        "https://www.oddschecker.com/football/world-cup/brazil-v-norway/winner",
+        "https://tips.gg/article/brazil-v-norway-player-props-wc2026/",
+        "https://www.racingpost.com/sport/football-tips/world-cup-2026/brazil-vs-norway-betting-tips-predictions-team-news-odds-bet-builder-avJjw2l4sMxs/"
+      ],
+      "pre_wm_test_spiele": [
+        "Brasilien Post-R32: Martinelli-90+5-Winner vs Japan, Vinicius-Bruno-Guimaraes-Ass-Kette",
+        "Norwegen Post-R32: Haaland 86.min-Winner vs Ivory Coast, Nusa 39. Opener"
+      ]
+    },
+    {
+      "id": "2026-07-05-mex-eng",
+      "liga": "FIFA WM 2026 - Achtelfinale",
+      "heim": "Mexiko",
+      "gast": "England",
+      "anstoss": "2026-07-06T03:00:00+02:00",
+      "stadion": "Estadio Azteca, Mexiko-Stadt (Hoehe 2.240m - Altitude-Faktor kritisch)",
+      "turnier_phase": "Achtelfinale",
+      "gruppe": null,
+      "spielort_faktor": {
+        "stadt": "Mexiko-Stadt",
+        "stadion": "Estadio Azteca",
+        "land": "Mexiko",
+        "hoehe_m": 2240,
+        "klima_anstoss": "18°C, 65% LF, klar (Nacht in Mexiko-Stadt)",
+        "anstoss_lokal": "18:00 CDT (Sonntag Abend Mexiko-Stadt)",
+        "lokal_faktor": "MAXIMALER Heim-Vorteil. Azteca-Kapazitaet 87.000. Mexiko hat in WM am Azteca NIE VERLOREN: W8 D2 aus 10 WM-Spielen dort. Letzte 6 WM-Spiele am Azteca alle gewonnen. Ohrenbetaeubende Lautstaerke. England kommt mit anti-mexikanischer Fan-Feindschaft an - Fans fanden Team-Hotel + booten Three Lions bei Ankunft.",
+        "implikationen": ["ENG Startelf keine Azteca-Erfahrung - Puste-Krise nach 60min realistisch", "Mexiko-Heim-Advantage +Hoehe kombiniert = etwa 0.5-0.8 Tore Buchmacher-Adjustment", "Anti-England-Atmosphaere kann zu emotionalen Fehlern bei jungen ENG-Spielern fuehren"]
+      },
+      "squad_heim": [
+        {"name": "Raul Rangel", "nummer": 12, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "Startelf-TW seit R32 (Ochoa Bank) - https://www.si.com/soccer/mexico-vs-ecuador-world-cup-preview-predictions-lineups-6-30-26"},
+        {"name": "Jorge Sanchez", "nummer": 3, "position": "RV", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "R32 XI vs Ecuador"},
+        {"name": "Cesar Montes", "nummer": 2, "position": "IV", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "R32 XI"},
+        {"name": "Johan Vasquez", "nummer": 15, "position": "IV", "saison_tore": 1, "letzte_5_spiele_tore": 0, "verifiziert_via": "Genoa-IV R32 XI"},
+        {"name": "Jesus Gallardo", "nummer": 23, "position": "LV", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "R32 XI"},
+        {"name": "Erik Lira", "nummer": 6, "position": "DM", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "R32 XI vs Ecuador"},
+        {"name": "Luis Romo", "nummer": 4, "position": "CM", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "R32 XI"},
+        {"name": "Gilberto Mora", "nummer": 20, "position": "OM", "saison_tore": 2, "letzte_5_spiele_tore": 2, "verifiziert_via": "17-jaehriger Playmaker, historisches R32-Startelf-Debuet - https://www.sportsmole.co.uk/football/mexico/world-cup-2026/team-news/mexico-vs-ecuador-injury-suspension-list-predicted-xis_600277.html"},
+        {"name": "Roberto Alvarado", "nummer": 8, "position": "LF/RF", "saison_tore": 3, "letzte_5_spiele_tore": 1, "verifiziert_via": "R32 XI Attack"},
+        {"name": "Julian Quinones", "nummer": 11, "position": "RF", "saison_tore": 4, "letzte_5_spiele_tore": 2, "verifiziert_via": "R32 XI Attack"},
+        {"name": "Raul Jimenez", "nummer": 9, "position": "ST", "saison_tore": 8, "letzte_5_spiele_tore": 3, "verifiziert_via": "Fulham-9er, MEX-Torschuetzenkoenig historisch (45 int. Tore/124 caps), R32 XI"},
+        {"name": "Santiago Gimenez", "nummer": 24, "position": "ST", "saison_tore": 12, "letzte_5_spiele_tore": 2, "verifiziert_via": "AC Milan-9er Sub-Option"}
+      ],
+      "squad_gast": [
+        {"name": "Jordan Pickford", "nummer": 1, "position": "TW", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "R32 XI vs DR Congo - https://www.skysports.com/football/news/11095/13558802/world-cup-2026-england-2-1-dr-congo-harry-kane-scores-twice-as-three-lions-come-from-behind-to-set-up-last-16-tie-against-co-hosts-mexico"},
+        {"name": "Djed Spence", "nummer": 2, "position": "RV", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "Tottenham-RV Startelf seit R.James-Ausfall"},
+        {"name": "Ezri Konsa", "nummer": 3, "position": "IV", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "Aston Villa-IV R32 XI"},
+        {"name": "Marc Guehi", "nummer": 6, "position": "IV", "saison_tore": 1, "letzte_5_spiele_tore": 0, "verifiziert_via": "Crystal Palace-IV Startelf-Fixpunkt"},
+        {"name": "Nico O'Reilly", "nummer": 21, "position": "LV", "saison_tore": 0, "letzte_5_spiele_tore": 0, "verifiziert_via": "R32 XI"},
+        {"name": "Declan Rice", "nummer": 4, "position": "DM", "saison_tore": 2, "letzte_5_spiele_tore": 1, "verifiziert_via": "Arsenal-DM, R32 XI + Hamstring-Tightness ausgetauscht spaet - https://www.sportsmole.co.uk/football/england/world-cup-2026/injuries-and-suspensions/rice-james-quansah-latest-england-injury-suspension-list-vs-mexico_600617.html", "status": "fit_aber_Hamstring-Warnung_60-70min-Sub-Kandidat"},
+        {"name": "Elliot Anderson", "nummer": 8, "position": "CM", "saison_tore": 3, "letzte_5_spiele_tore": 1, "verifiziert_via": "Newcastle-CM R32 XI"},
+        {"name": "Jude Bellingham", "nummer": 10, "position": "OM", "saison_tore": 8, "letzte_5_spiele_tore": 2, "verifiziert_via": "Real Madrid-OM, R32 XI, WM-Turnier-3-Tore"},
+        {"name": "Noni Madueke", "nummer": 17, "position": "RF", "saison_tore": 4, "letzte_5_spiele_tore": 2, "verifiziert_via": "Chelsea-Fluegel, ersetzt Saka - R32 XI"},
+        {"name": "Marcus Rashford", "nummer": 11, "position": "LF", "saison_tore": 5, "letzte_5_spiele_tore": 2, "verifiziert_via": "Man Utd-Fluegel, R32 XI + Cross-Ass zu Kane 88."},
+        {"name": "Harry Kane", "nummer": 9, "position": "ST", "saison_tore": 24, "letzte_5_spiele_tore": 4, "verifiziert_via": "Bayern-9er + Kapitaen, 5 WM-Tore Turnier + 2 spaete gegen DR Congo (Kopfball 86. + Volley 88.) - https://www.skysports.com/football/news/11095/13558802/world-cup-2026-england-2-1-dr-congo-harry-kane-scores-twice-as-three-lions-come-from-behind-to-set-up-last-16-tie-against-co-hosts-mexico"},
+        {"name": "Anthony Gordon", "nummer": 7, "position": "LF/RF", "saison_tore": 3, "letzte_5_spiele_tore": 1, "verifiziert_via": "Newcastle-Fluegel Sub-Option R32 - assistierte Kane 86."},
+        {"name": "Bukayo Saka", "nummer": 7, "position": "RF", "saison_tore": 6, "letzte_5_spiele_tore": 1, "verifiziert_via": "Arsenal-Fluegel Achilles-Management, Rueckkehr-Kandidat Bank"}
+      ],
+      "injuries_heim": ["keine gemeldet - Mexiko ohne Fitness-Sorgen nach R32 vs Ecuador (Mora 17 gesund)"],
+      "injuries_gast": [
+        "Reece James (Hamstring OUT - keine schnelle Rueckkehr) - Spence bleibt RV",
+        "Jarell Quansah (Ankle OUT) - Konsa bleibt IV",
+        "Declan Rice (Hamstring-Tightness vs DR Congo - konnte nicht 90min - fraglich fuer 90+ am Azteca)",
+        "Bukayo Saka (Achilles-Management, Bank-Rueckkehr moeglich)"
+      ],
+      "parallele_wettbewerbe": {
+        "heim": "keine - WM exklusiv",
+        "gast": "keine - WM exklusiv",
+        "quellen": ["https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"]
+      },
+      "saisonziel_heim": "Co-Host Auftrag: mind. Viertelfinal-Einzug wuerde 39-Jahres-QF-Duerre (letzte QF 1986 als Ausrichter) brechen. Perfekte Gruppen-Bilanz 9 Pkt + 0 Gegentore, R32 2:0 vs Ecuador. Mora-Playmaker-Story + Jimenez-Volume-9. Azteca-WM-Rekord: W8 D2 nie verloren.",
+      "saisonziel_gast": "Tuchel-Interims-Zyklus. Gruppen-Erste. R32 2:1 vs DR Congo mit spaeter Kane-Show (86.+88.) - warnende Cliffhanger-Qualifikation gegen Klassen-Underdog. 5. WM-Halbfinale seit 1966-Meistertitel bleibt Ziel.",
+      "tabellenstand": null,
+      "form_heim_letzte_5": "S(R32)-S-S-S-S",
+      "form_gast_letzte_5": "S(R32)-S-U-S-S",
+      "recovery_heim": "5 Tage seit R32 vs Ecuador (nur 90 Min). Kader frisch inkl. Gimenez-Sub-Option.",
+      "recovery_gast": "4 Tage seit R32 vs DR Congo (90 Min, aber spaet-Belastung Kane 88.+ Bellingham). Rice-Hamstring-Warnung. Langstrecken-Flug NRG Houston zu Mexiko-Stadt.",
+      "vereins_belastung_heim": "MLS/Liga-MX-Basis - Sommer-Break-freundlich, weniger Belastung als Europa. Nur Jimenez (Fulham 42 PL+Cup) + Gimenez (Milan CL+Serie A 51 Spiele) + Vasquez (Genoa Serie A 38) europaeisch belastet.",
+      "vereins_belastung_gast": "Bayern-Kane (56 Spiele CL+BL+Cup), Real-Bellingham (50 CL-Halbfinale+Liga+Cup), Arsenal-Rice (52 PL+CL), Man-United-Rashford (48 PL+EL), Newcastle-Anderson (46), Chelsea-Madueke (44 CL+PL). EXTREM belastet - saisonende-Muedigkeits-Cluster.",
+      "quoten": {
+        "bet365": {
+          "sieg_heim": 3.20,
+          "draw": 3.10,
+          "sieg_gast": 2.35,
+          "dc_1x": 1.57,
+          "dc_12": 1.30,
+          "dc_x2": 1.34,
+          "ueber_1_5": 1.55,
+          "ueber_2_5": 2.50,
+          "unter_2_5": 1.55,
+          "unter_3_5": 1.25,
+          "ueber_3_5": 3.40,
+          "btts_ja": 2.10,
+          "btts_nein": 1.70,
+          "torschuetzen": {
+            "Harry Kane": 1.85,
+            "Jude Bellingham": 4.50,
+            "Marcus Rashford": 3.50,
+            "Noni Madueke": 4.00,
+            "Anthony Gordon (Sub)": 5.00,
+            "Elliot Anderson": 7.00,
+            "Raul Jimenez": 2.80,
+            "Julian Quinones": 4.00,
+            "Roberto Alvarado": 4.20,
+            "Santiago Gimenez (Sub)": 4.50,
+            "Gilberto Mora": 5.00
+          },
+          "doppelpack": {
+            "Harry Kane": 5.50,
+            "Jude Bellingham": 12.00,
+            "Marcus Rashford": 12.00,
+            "Raul Jimenez": 9.00,
+            "Santiago Gimenez": 15.00
+          },
+          "hattrick": {
+            "Harry Kane": 15.00,
+            "Raul Jimenez": 41.00
+          }
+        },
+        "pinnacle": {"sieg_heim": 3.10, "draw": 3.30, "sieg_gast": 2.40},
+        "fair_line_pinnacle_basis_prozent": {"sieg_heim": 34, "draw": 31, "sieg_gast": 45}
+      },
+      "news_kompakt": [
+        "Azteca-Faktor MAXIMAL: MEX WM-Rekord dort W8 D2 nie verloren + 2240m Hoehe (England kein Startelf-Spieler mit Azteca-Erfahrung).",
+        "Mexiko perfekte Gruppe 9 Pkt + 0 Gegentore. R32 2:0 vs Ecuador ohne Gegentor - 4/4 CleanSheet-Streak.",
+        "England 2:1 DR Congo Cliffhanger - Kane 86.+88. rettete Halbzeitrueckstand. HR-Warnzeichen fuer Cliffhanger-Qualifikanten (vgl. Argentinien 07-04).",
+        "England-Injuries: Reece James (OUT Hamstring), Quansah (OUT Ankle), Rice Hamstring-Tightness (60min-Sub-Kandidat).",
+        "Kane Anytime 1.85 - Turnier 5 Tore + gerade 2 gegen COD. Volume-9er-Form-Edge extrem.",
+        "Bellingham Anytime 4.50 (2 Tore in letzten 5 Spielen), Rashford 3.50 (Assist zu Kane 86.).",
+        "Anti-England-Fan-Feindschaft Mexiko-Stadt: Fans fanden ENG-Team-Hotel, boots-Empfang bei Ankunft.",
+        "bet365 DE 2:0-Insurance gilt WM 2026 - Sieg-Tipps mit 2:0-Puffer abgesichert (allerdings extra-time-Falle 07-04 aktiv)."
+      ],
+      "quellen_aggregator": [
+        "https://www.foxsports.com/stories/soccer/world-cup-mexico-odds",
+        "https://www.espn.com/soccer/odds/_/gameId/760505",
+        "https://www.cbssports.com/soccer/news/england-vs-mexico-prediction-picks-odds-betting-preview-start-time-for-world-cup-match-sunday/",
+        "https://www.sportsmole.co.uk/football/england/world-cup-2026/team-news/mexico-vs-england-injury-suspension-list-predicted-xis_600613.html"
+      ],
+      "pre_wm_test_spiele": [
+        "Mexiko Post-R32: Jimenez Kopfball-Tor + Alvarado-Volley (2:0 vs Ecuador)",
+        "England Post-R32: Kane Doppelpack (86. Kopfball + 88. Volley Top-Ecke) vs DR Congo, Gordon-Cross-Assist"
+      ]
+    }
+  ]
+}
