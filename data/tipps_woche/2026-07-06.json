@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS_WOCHE = {
+{
   "datum": "2026-07-06",
   "erstellt_am": "2026-07-05T18:15:00+02:00",
   "hinweis": "Wochen-Vorschau Mo 06.07. bis So 12.07.2026. Diese Woche = WM 2026 Achtelfinale (Mo/Di) + Viertelfinale (Do/Fr/Sa/So). Fussball-Vereinssaisonen alle in Sommerpause. NBA Finals abgeschlossen (Knicks 4:1 vs Spurs, MVP Brunson). Kasse Stufe 1 (550€/Basis 1000€). Best-of-Modus: 5 Kern-Spiele mit Tipps + 3 QF-Slots mit TBD-Gegnern (Kontext-Eintraege). Alle Quoten bei bet365 live pruefen - 7 Tage vor Anstoss volatil.",
@@ -674,4 +673,4 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
     }
   ],
   "footer": "18+ · bet365 DE · Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst."
-};
+}
