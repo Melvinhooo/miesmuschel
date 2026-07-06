@@ -71,7 +71,135 @@
           "empfohlener_einsatz_euro": 2.75
         }
       ],
-      "kontext_check_status": "OK"
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "1:2",
+        "halbzeit": "0:0",
+        "quelle": "ESPN + Al Jazeera + CBS Sports + CBC Sports"
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "1:2",
+        "tore": [
+          {
+            "min": 79,
+            "team": "gast",
+            "spieler": "Erling Haaland",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 90,
+            "team": "gast",
+            "spieler": "Erling Haaland",
+            "stand_danach": "0:2"
+          },
+          {
+            "min": "90+3",
+            "team": "heim",
+            "spieler": "Neymar (Elfmeter)",
+            "stand_danach": "1:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine echte Drehung - Norwegen fuehrte durchgehend ab 79.'. HZ 0:0 (nach saved Bruno Guimaraes-Elfer von Nyland). Klassen-Underdog-Sieg via Haaland-Doppel-Late-Winner."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Norwegen",
+          "kein_team_zu_null": true,
+          "norwegen_zu_null": false,
+          "brasilien_zu_null": false,
+          "dc_x2_nor_draw": true,
+          "dc_1x_bra_draw": false,
+          "elfmeter_gegeben": true,
+          "elfmeter_verwandelt_prozent": "1 von 2 (Neymar rein, Bruno Guimaraes von Nyland gehalten)",
+          "rote_karten": 0
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Solbakken-HZ-Doppelwechsel",
+            "details": "Schjelderup + Bobb kamen zur HZ - Schjelderup-Vorlage zum 0:1 (79.' Haaland-Kopfball nach Schjelderup-Flanke). Doppel-Sub-Trigger fuer Boost aktiv, aber ohne Torschuetzen-Tipp-Bezug fuer diese Namen."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Neymar",
+            "aus": "unklar (Cunha oder Vinicius, Sub 2.HZ)",
+            "minute": "2.HZ",
+            "tor": true,
+            "tor_minute": "90+3 (Elfmeter)",
+            "kommentar": "Neymar-Bench-Sub-Tor (Elfmeter) - Vinicius-Torschuetzen-Tipp KEIN Einwechslungs-Boost, da Neymar nicht als DIREKTER Ersatz fuer Vinicius bestaetigt (Cunha wahrscheinlicher Ersetzter). Vinicius-Tipp bleibt verloren."
+          },
+          {
+            "team": "gast",
+            "ein": "Andreas Schjelderup",
+            "aus": "unklar (HZ-Wechsel)",
+            "minute": 46,
+            "tor": false,
+            "assist": true,
+            "assist_minute": 79,
+            "kommentar": "Schjelderup Vorlage zum 0:1 Haaland-Kopfball - Assist zaehlt nicht als Tor fuer Torschuetzen-Tipp, aber Boost-Struktur-Trigger fuer Rotation-Lesson."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Klassen-Underdog-Sieg R16 Nummer 2 nach Marokko (07-04): Norwegen 2:1 BRA + Historik-Klassenbruch (NIE gegen BRA verloren) haelt weiter. R16-Klassen-Edge-Fragilitaet weiter bestaetigt.",
+          "Norwegen-BTTS-Streak jetzt 5/5 WM-Spiele (4/4 Gruppe + R16). Torschuetzen-Volume-Backup-Prinzip Haaland stabil (7 Tore Turnier-Fuehrer, Golden-Boot-Tie mit Messi/Mbappe).",
+          "HZ-Doppel-Sub-Boost via Schjelderup+Bobb war der Match-Winner: Solbakken-Sub-Kandidaten-Torbeteiligung als Muster gegen Klassen-Favorit. Cliffhanger-BRA (Martinelli 90+5 gg Japan) hat sich als Muedigkeits-Signal bestaetigt.",
+          "Elfmeter-Cluster im K.O.: 2 Elfer im Spiel (Bruno Guimaraes gehalten HZ, Neymar 90+3 verwandelt). K.O.-Elfmeter-Volatilitaets-Muster verstaerkt sich (07-04 hatte auch Elfer)."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "bra-nor-2",
+          "spiel_id": "2026-07-05-bra-nor",
+          "markt": "Ueber 2.5 Tore BRA-NOR",
+          "markt_typ": "Ueber X.5 Tore",
+          "kategorie": "value",
+          "einsatz_euro": 8.25,
+          "quote": 1.85,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.85,
+          "kommentar": "3 Tore (Haaland 79., 90., Neymar 90+3 Elfer). Ueber-2.5-Goldgrube haelt weiter. HR26 K.O.-Trend nach unten heute NICHT eingetreten (Klassen-Duell mit 2 Volume-9er hat gehalten).",
+          "closing_quote": null,
+          "clv_prozent": null
+        },
+        {
+          "tipp_id": "bra-nor-4",
+          "spiel_id": "2026-07-05-bra-nor",
+          "markt": "Beide Teams treffen JA BRA-NOR",
+          "markt_typ": "Beide Teams treffen",
+          "kategorie": "value",
+          "einsatz_euro": 5.5,
+          "quote": 1.85,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.85,
+          "kommentar": "BRA (Neymar 90+3 Elfer) + NOR (Haaland 79. + 90.). Norwegen-BTTS-Streak jetzt 5/5 WM.",
+          "closing_quote": null,
+          "clv_prozent": null
+        },
+        {
+          "tipp_id": "bra-nor-5",
+          "spiel_id": "2026-07-05-bra-nor",
+          "markt": "Norwegen gewinnt (Sieg 2, 90min)",
+          "markt_typ": "Sieg-Tipp",
+          "kategorie": "risk",
+          "einsatz_euro": 2.75,
+          "quote": 4.2,
+          "status": "gewonnen",
+          "gewinn_faktor": 3.2,
+          "kommentar": "Historik-Argument bestaetigt: Norwegen 4/4->5/5 gegen BRA nie verloren. Haaland-Golden-Boot-Motivation + Cliffhanger-BRA-Muedigkeit lieferte. Kein 2:0-Insurance-Trigger (BRA nie in Fuehrung).",
+          "closing_quote": null,
+          "clv_prozent": null
+        }
+      ]
     },
     {
       "id": "2026-07-05-mex-eng",
@@ -141,7 +269,134 @@
           "empfohlener_einsatz_euro": 2.75
         }
       ],
-      "kontext_check_status": "OK"
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "2:3",
+        "halbzeit": "1:2",
+        "quelle": "ESPN + Sky Sports + NBC Sports + England Football + FIFA",
+        "sonderfall": "Anpfiff 1h verspaetet wegen Gewitter am Azteca"
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "1:2",
+        "endstand": "2:3",
+        "tore": [
+          {
+            "min": 36,
+            "team": "gast",
+            "spieler": "Jude Bellingham",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 38,
+            "team": "gast",
+            "spieler": "Jude Bellingham",
+            "stand_danach": "0:2"
+          },
+          {
+            "min": 42,
+            "team": "heim",
+            "spieler": "Julian Quinones",
+            "stand_danach": "1:2"
+          },
+          {
+            "min": 60,
+            "team": "gast",
+            "spieler": "Harry Kane (Elfmeter)",
+            "stand_danach": "1:3"
+          },
+          {
+            "min": 69,
+            "team": "heim",
+            "spieler": "Raul Jimenez (Elfmeter)",
+            "stand_danach": "2:3"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Drehung - ENG fuehrte durchgehend ab 36.' Bellingham. MEX kam bis 2:3 heran aber nie in Fuehrung. Spektakel-Halbfinale mit 5 Toren + Rote Karte + Elfmeter-Duell."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "England/England",
+          "kein_team_zu_null": true,
+          "mexiko_zu_null": false,
+          "england_zu_null": false,
+          "dc_1x_mex_draw": false,
+          "dc_x2_eng_draw": true,
+          "elfmeter_gegeben": true,
+          "elfmeter_verwandelt_prozent": "2 von 2 (Kane 60. + Jimenez 69.)",
+          "rote_karten": 1,
+          "rote_karte_details": "Jarell Quansah 54.' (VAR-Review, gefaehrliches Foul an Jesus Gallardo)"
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Tuchel-Rashford-Bank",
+            "details": "Rashford bewusst nicht in Startelf trotz COD-Assist zu Kane-86. Anthony Gordon vorgezogen (der Elfmeter-Foul erlitt fuer Kane 60.). Tuchel-Taktik-Anpassung ging auf."
+          },
+          {
+            "team": "heim",
+            "spieler": "Mora 17j",
+            "details": "MEX-Wunderkind Mora startete + zeigte Kampf, wurde aber ueberrannt in 1.HZ von Bellingham-Explosion."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Cliffhanger-Klassen-Favorit-Sieg mit 10 Mann + Rote-Karte + 2 Elfer + 5 Toren = maximal spektakulaer. ENG haelt 40+ Minuten mit einem Spieler weniger. Kane-Elfer-Kaltbluetigkeit + Pickford-Paraden entscheidend.",
+          "Azteca-Fortress-Mythos GEBROCHEN: MEX hat trotz 2240m-Hoehe + perfekter Gruppe (9 Pkt, 0 Gegentore) + 4/4-CleanSheet-Streak zu Hause verloren. HR07-04-8b Klassen-Edge-Sieg K.O.-Extra-Time-Falle war TRAP - Klassen-Edge in R16 nicht mehr fragil wie 07-04, sondern klar bestaetigt.",
+          "Elfmeter-Cluster K.O. jetzt 3 Elfer in 2 Tagen (07-04 saved Guimaraes, 07-05 3 Elfer BRA-NOR+MEX-ENG). K.O.-Elfmeter-Volatilitaet-Muster-Trend deutlich.",
+          "Bellingham-Zweit-Volume-Star-Explosion: 2 Tore in 98 Sekunden (36.+38.) = HR07-03 Torschuetzen-Jederzeit-Goldgrube-Cluster erweitert auf Zweit-Volume-Sterne bei Klassen-Favoriten."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "mex-eng-1",
+          "spiel_id": "2026-07-05-mex-eng",
+          "markt": "Doppelte Chance 1X (Mexiko oder Unentschieden)",
+          "markt_typ": "Doppelte Chance 1X",
+          "kategorie": "value",
+          "einsatz_euro": 11.0,
+          "quote": 1.57,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "ENG-Sieg 3:2 - MEX-Draw-Szenario gebrochen. Azteca-Fortress-Mythos zerbrach. DC 1X Goldgrube (+7.7% ROI) verkraftet aber HZ-Bellingham-Doppel war frueh entscheidend.",
+          "closing_quote": null,
+          "clv_prozent": null
+        },
+        {
+          "tipp_id": "mex-eng-3",
+          "spiel_id": "2026-07-05-mex-eng",
+          "markt": "Unter 2.5 Tore MEX-ENG",
+          "markt_typ": "Unter X.5 Tore",
+          "kategorie": "value",
+          "einsatz_euro": 8.25,
+          "quote": 1.55,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "5 Tore (2:3) - Unter 2.5 GEBROCHEN. HR26 K.O.-Tor-Total-Trend nicht bestaetigt trotz Rote Karte + Cliffhanger-Muedigkeit. 2 Elfer haben Total nach oben getrieben.",
+          "closing_quote": null,
+          "clv_prozent": null
+        },
+        {
+          "tipp_id": "mex-eng-4",
+          "spiel_id": "2026-07-05-mex-eng",
+          "markt": "Mexiko gewinnt (Sieg 1, 90min)",
+          "markt_typ": "Sieg-Tipp",
+          "kategorie": "wackel",
+          "einsatz_euro": 2.75,
+          "quote": 3.2,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "MEX 2:3 verloren. Azteca-Faktor gebrochen. ENG-Injuries (R.James, Quansah-Rote-Karte 54.') konnten Klassen-Edge nicht wettmachen.",
+          "closing_quote": null,
+          "clv_prozent": null
+        }
+      ]
     }
   ],
   "einzeltipps": [
@@ -433,7 +688,10 @@
       "empfohlener_einsatz_euro": 11.0,
       "begruendung": "Turnier-Fuehrer 6 Tore, HR07-03-Goldgrube-3/3-Stamm-9-Analogie. Der sicherste Torschuetzen-Tipp des Tages.",
       "rang": 1,
-      "status": "offen"
+      "status": "gewonnen",
+      "gewinn_faktor": 1.2,
+      "netto_euro": 13.2,
+      "kommentar": "Haaland 2 Tore (79., 90.). SAFE gewonnen - Turnier-Fuehrer-Cluster HR07-03 4/4-Analogie bestaetigt."
     },
     {
       "id": "einzeltipp-2",
@@ -445,7 +703,10 @@
       "empfohlener_einsatz_euro": 11.0,
       "begruendung": "Azteca-Faktor MAX + ENG-Injuries + DC 1X Goldgrube (+7.7% ROI). Selbst wenn ENG nicht verliert, Draw reicht.",
       "rang": 2,
-      "status": "offen"
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "netto_euro": -11.0,
+      "kommentar": "ENG 3:2. Azteca-Fortress-Mythos gebrochen."
     },
     {
       "id": "einzeltipp-3",
@@ -457,7 +718,10 @@
       "empfohlener_einsatz_euro": 8.25,
       "begruendung": "Ueber 2.5 Goldgrube (+20.1% ROI). BRA 7/8 + NOR 4/4 BTTS. Klassen-Duell mit 2 Volume-9er.",
       "rang": 3,
-      "status": "offen"
+      "status": "gewonnen",
+      "gewinn_faktor": 0.85,
+      "netto_euro": 7.01,
+      "kommentar": "3 Tore total. Ueber-2.5-Goldgrube gehalten trotz Klassen-Underdog-Format."
     },
     {
       "id": "einzeltipp-4",
@@ -469,7 +733,10 @@
       "empfohlener_einsatz_euro": 8.25,
       "begruendung": "5 WM-Tore + Doppelpack COD. HR07-03-Goldgrube-3/3-Stamm-9-Analogie. VALUE wegen Diaz-Cluster-Warnung.",
       "rang": 4,
-      "status": "offen"
+      "status": "gewonnen",
+      "gewinn_faktor": 0.85,
+      "netto_euro": 7.01,
+      "kommentar": "Kane 60.-Elfer nach Foul an Gordon. HR07-03-Analogie 4/5 Stamm-9-Turnier-Fuehrer-Cluster."
     },
     {
       "id": "einzeltipp-5",
@@ -481,7 +748,10 @@
       "empfohlener_einsatz_euro": 8.25,
       "begruendung": "Unter 2.5 Goldgrube (+24% ROI). MEX 4/4 CleanSheet + Azteca-Tempo-Bremse + Hoehe. K.O.-Muster HR26.",
       "rang": 5,
-      "status": "offen"
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "netto_euro": -8.25,
+      "kommentar": "5 Tore (2:3). Unter-2.5-Goldgrube gebrochen durch 2 Elfer."
     },
     {
       "id": "einzeltipp-6",
@@ -493,7 +763,10 @@
       "empfohlener_einsatz_euro": 8.25,
       "begruendung": "3 Tore + Assist. Real-Madrid-Fluegel-Star gegen NOR-Pedersen-Zweitreihe. Klassen-Favorit-Rolle Cluster.",
       "rang": 6,
-      "status": "offen"
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "netto_euro": -8.25,
+      "kommentar": "Vinicius stumm. Neymar-Sub-Elfer 90+3 nicht als direkter Ersatz Vinicius bestaetigt - KEIN Einwechslungs-Boost."
     },
     {
       "id": "einzeltipp-7",
@@ -505,7 +778,10 @@
       "empfohlener_einsatz_euro": 5.5,
       "begruendung": "NOR 4/4 WM-BTTS. Haaland macht IMMER Chancen. BTTS-Cluster stabil.",
       "rang": 7,
-      "status": "offen"
+      "status": "gewonnen",
+      "gewinn_faktor": 0.85,
+      "netto_euro": 4.68,
+      "kommentar": "Norwegen-BTTS-Streak 5/5. Sauber."
     },
     {
       "id": "einzeltipp-8",
@@ -517,7 +793,10 @@
       "empfohlener_einsatz_euro": 2.75,
       "begruendung": "Azteca-Faktor + Hoehe + ENG-Injuries. Fair-Line 2.94 vs bet365 3.20.",
       "rang": 8,
-      "status": "offen"
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "netto_euro": -2.75,
+      "kommentar": "MEX 2:3 verloren. Azteca-Faktor gebrochen."
     },
     {
       "id": "einzeltipp-9",
@@ -529,7 +808,10 @@
       "empfohlener_einsatz_euro": 2.75,
       "begruendung": "Zweit-Volume-Star nach Kane. Wenn ENG braucht, Bellingham nach vorne.",
       "rang": 9,
-      "status": "offen"
+      "status": "gewonnen",
+      "gewinn_faktor": 3.5,
+      "netto_euro": 9.62,
+      "kommentar": "Bellingham 2 Tore in 98 Sekunden (36.+38.). Zweit-Volume-Star-Cluster HR07-03-Erweiterung. WACKEL-Range 4.50 bezahlte sich aus."
     },
     {
       "id": "einzeltipp-10",
@@ -541,30 +823,126 @@
       "empfohlener_einsatz_euro": 2.75,
       "begruendung": "Norwegen NIE gegen BRA verloren (2S/2U aus 4). Haaland-Golden-Boot + Cliffhanger-BRA Muedigkeit.",
       "rang": 10,
-      "status": "offen"
+      "status": "gewonnen",
+      "gewinn_faktor": 3.2,
+      "netto_euro": 8.8,
+      "kommentar": "Norwegen 2:1 - Historik-Klassenbruch bestaetigt. Haaland-Golden-Boot-Motivation."
     }
   ],
   "kombis_ergebnis": [
     {
       "kombi_id": null,
-      "status": "offen",
-      "gesamtquote": 3.45
+      "name": "Safe-Kombi (~3.45x)",
+      "status": "verloren",
+      "einsatz_euro": 11.0,
+      "gesamtquote": 3.45,
+      "beine_status": [
+        {
+          "spiel_id": "2026-07-05-mex-eng",
+          "markt": "Doppelte Chance 1X (Mexiko oder Unentschieden)",
+          "quote": 1.57,
+          "status": "verloren"
+        },
+        {
+          "spiel_id": "2026-07-05-bra-nor",
+          "markt": "Erling Haaland Torschuetze Jederzeit",
+          "quote": 2.2,
+          "status": "gewonnen"
+        }
+      ],
+      "netto_euro": -11.0,
+      "kommentar": "DC 1X MEX-ENG gebrochen durch ENG-Sieg 3:2 (Bellingham-Doppel 1.HZ). Haaland-Bein war da, aber Safe-Kombi geplatzt."
     },
     {
       "kombi_id": null,
-      "status": "offen",
-      "gesamtquote": 8.33
+      "name": "Balance-Kombi (~8.33x)",
+      "status": "gewonnen",
+      "einsatz_euro": 4.4,
+      "gesamtquote": 8.33,
+      "beine_status": [
+        {
+          "spiel_id": "2026-07-05-bra-nor",
+          "markt": "Beide Teams treffen JA BRA-NOR",
+          "quote": 1.85,
+          "status": "gewonnen"
+        },
+        {
+          "spiel_id": "2026-07-05-mex-eng",
+          "markt": "Jude Bellingham Torschuetze Jederzeit",
+          "quote": 4.5,
+          "status": "gewonnen"
+        }
+      ],
+      "netto_euro": 32.25,
+      "kommentar": "BEIDE Beine getroffen. Bellingham-Zweit-Volume-Star-Explosion (2 Tore in 98 Sekunden) + BTTS-Streak NOR. TAGES-JACKPOT: 4.40 EUR -> +32.25 EUR Gewinn."
     },
     {
       "kombi_id": null,
-      "status": "offen",
-      "gesamtquote": 23.1
+      "name": "Risiko-Kombi (~23.10x)",
+      "status": "verloren",
+      "einsatz_euro": 1.4,
+      "gesamtquote": 23.1,
+      "beine_status": [
+        {
+          "spiel_id": "2026-07-05-bra-nor",
+          "markt": "Norwegen gewinnt (Sieg 2, 90min)",
+          "quote": 4.2,
+          "status": "gewonnen"
+        },
+        {
+          "spiel_id": "2026-07-05-mex-eng",
+          "markt": "Harry Kane Doppelpack (2+ Tore)",
+          "quote": 5.5,
+          "status": "verloren",
+          "kommentar": "Kane hatte nur 1 Tor (Elfmeter 60.). Doppelpack knapp verpasst."
+        }
+      ],
+      "netto_euro": -1.4,
+      "kommentar": "Norwegen-Sieg-Bein war da (Historik-Klassenbruch!), aber Kane-Doppelpack verpasst (nur 1 Tor). KNAPP-Verlust."
     },
     {
       "kombi_id": null,
-      "status": "offen",
-      "gesamtquote": 144.0
+      "name": "Moonshot-Kombi (~144x)",
+      "status": "verloren",
+      "einsatz_euro": 0.55,
+      "gesamtquote": 144.0,
+      "beine_status": [
+        {
+          "spiel_id": "2026-07-05-mex-eng",
+          "markt": "Marcus Rashford Doppelpack (2+ Tore)",
+          "quote": 12.0,
+          "status": "verloren",
+          "kommentar": "Rashford nicht in Startelf (Tuchel-Rotation, Gordon vor Rashford). Sub-Rolle ohne Tor."
+        },
+        {
+          "spiel_id": "2026-07-05-bra-nor",
+          "markt": "Alexander Sorloth Doppelpack (2+ Tore)",
+          "quote": 12.0,
+          "status": "verloren",
+          "kommentar": "Sorloth stumm. Haaland-Show ohne Sorloth-Beteiligung."
+        }
+      ],
+      "netto_euro": -0.55,
+      "kommentar": "Beide Zweit-9er stumm. Reine Spass-Lotterie erwartungsgemaess geplatzt."
     }
   ],
-  "ausgewertet_am": "2026-07-06T07:04:28+00:00"
+  "ausgewertet_am": "2026-07-06T11:35:00+02:00",
+  "tag_bilanz": {
+    "gesamt_einsatz_euro": 86.1,
+    "gesamt_netto_euro": 39.37,
+    "roi_prozent": 45.7,
+    "einzeltipps_bilanz": {
+      "gewonnen": 6,
+      "verloren": 4,
+      "netto_euro": 20.07
+    },
+    "kombis_bilanz": {
+      "gewonnen": 1,
+      "verloren": 3,
+      "netto_euro": 19.3
+    },
+    "kommentar": "STARKER Tag: 6/10 Einzeltipps + 1/4 Kombis. Balance-Kombi (BTTS BRA-NOR + Bellingham Anytime) war der TAGES-JACKPOT (+32.25 EUR bei 4.40 EUR Einsatz, 8.33x). Klassen-Underdog-Sieg NOR (Historik-Klassenbruch) + Klassen-Edge-Sieg ENG (Azteca-Fortress-Mythos gebrochen) trotz Rote-Karte. Torschuetzen-Cluster HR07-03 mit Haaland/Kane/Bellingham stabil (3/3 Stamm-9-Turnier-Fuehrer)."
+  },
+  "_watchdog_recovery": true,
+  "_watchdog_recovery_grund": "Hauptroutine hat Ergebnisse + volle_analyse nicht geschrieben (nur Skelett-File mit status=offen). Watchdog holt Ergebnisse via WebSearch (ESPN, Al Jazeera, Sky, NBC, CBS) und ergaenzt vollstaendig."
 }

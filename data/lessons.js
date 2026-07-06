@@ -1815,6 +1815,30 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "HR07-05-4 8i Frueh-Verletzung-Einwechslungs-Boost - Positiv-Beispiel Saibari",
       "lesson": "Saibari verletzt raus 22.' (Muskel), Rahimi kam DIREKT rein - Rahimi traf 90+8. Saibari-Torschuetzen-Wackel-Tipp (2.87) GEWONNEN via Einwechslungs-Boost. Frueh-Verletzung eines Volume-Volume-9-Torschuetzen-Kandidaten mit Volume-Backup ist DER perfekte Boost-Fall: Star-out mit Backup-Volume-9-Angriffs-Ersatz = Tipp hat mehr Wege zum Gewinn. Zukuenftige Torschuetzen-Tipps auf Volume-9-Star bevorzugen wenn Backup-Volume-9 auf der Bank (z.B. Bayern Kane/Olise-Backup, ARG Alvarez/Martinez, Marokko Saibari/Rahimi/El Kaabi). HR07-04-8i Doppel-Frueh-Auswechsel-Boost-Fail bleibt guelt fuer 2 GLEICHZEITIG frueh-Ausgetauschte, aber Einzel-Boost-Kandidat bei Verletzungs-Risiko + Backup-Volume-9 = starkes VALUE-Signal.",
       "bezug_spiel_id": "2026-07-04-can-mar"
+    },
+    {
+      "datum": "2026-07-06",
+      "kategorie": "HR07-06-1 8g Zweit-Volume-Star-Explosion bei Klassen-Favorit R16",
+      "lesson": "Bellingham hat vs Mexiko 2 Tore in 98 Sekunden geschossen (36.+38.), Bellingham-Torschuetzen-Wackel-Tipp (4.50 WACKEL) GEWONNEN. Erweitert HR07-03 Torschuetzen-Jederzeit-Goldgrube-Cluster von Stamm-9-Turnier-Fuehrer auf ZWEIT-Volume-Sterne bei Klassen-Favoriten. Regel: wenn Klassen-Favorit in R16 K.O. gegen Underdog-Fortress spielt UND Zweit-Star Turnier-Volume 2+ Tore hat -> Zweit-Star-Torschuetzen-Anytime als VALUE/WACKEL setzen (nicht als SAFE, weil Wackel-Range 4.00-5.50 Volatilitaet).",
+      "bezug_spiel_id": "2026-07-05-mex-eng"
+    },
+    {
+      "datum": "2026-07-06",
+      "kategorie": "HR07-06-2 8g Doppel-Elfer-Cluster K.O.-R16 zerbricht Unter-2.5-Goldgrube",
+      "lesson": "MEX-ENG hatte 2 verwandelte Elfmeter (Kane 60., Jimenez 69.), + Rote Karte Quansah 54.'. Unter-2.5-Tipp (1.55 VALUE) VERLOREN bei 5 Toren total. K.O.-R16 hat jetzt 3 Elfer in 2 Tagen (07-04 saved Guimaraes + 07-05 3 Elfer BRA-NOR+MEX-ENG). Regel: bei R16 K.O. mit Klassen-Favorit vs Cohost-Fortress + moeglicher Rote-Karte-Trigger -> Unter-2.5 NICHT als Basis-Goldgrube wenn 2 Volume-9er + Elfmeter-Wahrscheinlichkeit hoch. HR26 K.O.-Tor-Total-Trend nach unten ist an Bedingungen geknuepft, nicht universal.",
+      "bezug_spiel_id": "2026-07-05-mex-eng"
+    },
+    {
+      "datum": "2026-07-06",
+      "kategorie": "HR07-06-3 8i Einwechslungs-Boost-Praezisierung - Direktheit MUSS bestaetigt werden",
+      "lesson": "Neymar kam als Sub in 2.HZ + verwandelte Elfmeter 90+3. Vinicius-Torschuetzen-Value-Tipp (2.30) VERLOREN weil Neymar-Ersetzung nicht als DIREKTER-Vinicius-Ersatz bestaetigt (Cunha wahrscheinlicher). Praezisierung HR07-05-1: Einwechslungs-Boost gilt NUR wenn direkte Ersatz-Kette (Position + Sub-Reihenfolge) BESTAETIGT ist. Bei Unklarheit Boost NICHT annehmen und Tipp verloren werten. Analog: bei Doppel-Sub in HZ + Torschuetze rein (Schjelderup Assist zum 0:1 Haaland) kein Boost fuer 'wen-auch-immer-Sub-Ersetzten'.",
+      "bezug_spiel_id": "2026-07-05-bra-nor"
+    },
+    {
+      "datum": "2026-07-06",
+      "kategorie": "HR07-06-4 8g/8h BTTS-Volume-Star-Backup bei Underdog-Sieger R16",
+      "lesson": "Norwegen 2:1 BRA - NOR-BTTS-Streak jetzt 5/5 WM. BTTS-JA-Value-Tipp (1.85) GEWONNEN. Klassen-Underdog-Sieger via 2 Late-Winner + Klassen-Favorit-Ehrentreffer = klassisches BTTS-Muster in R16 K.O. Regel: wenn Klassen-Underdog Turnier-Volume-9er hat (Haaland) UND Klassen-Favorit spaet-treffen kann (Neymar-Sub-Elfer) -> BTTS-JA VALUE stabiles Bein. Erweitert HR07-04-8g BTTS-Cluster-Muster auf Underdog-Sieger-Szenario.",
+      "bezug_spiel_id": "2026-07-05-bra-nor"
     }
   ]
 };
