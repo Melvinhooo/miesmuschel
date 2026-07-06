@@ -41,17 +41,6 @@ window.__MIESMUSCHEL_TIPPS = {
       ],
       "tipps": [
         {
-          "id": "por-esp-1",
-          "kategorie": "value",
-          "markt": "Mikel Oyarzabal Torschuetze Jederzeit",
-          "quote": 2.4,
-          "edge_prozent": 10.0,
-          "begruendung": "Oyarzabal Turnier-Top-Scorer (4 Tore aus 4 Spielen, 8 Torschuesse, xG 3.19). Aktivierung als False-9-Alternative + Backup-9-Rolle wenn Morata rausrotiert (R32 Doppelpack 36+88 aktivierte Rolle). Torschuetzen Jederzeit aktive Goldgrube (+5.8% ROI n gesamt, aktueller HR07-03-Cluster 3/3 R32-Stamm-9). Reality-Check: HR07-04-Diaz-Offside-Cluster erzwingt VALUE statt SAFE (Fair-Quote 2.10). Klassen-Duell-Charakter kann Volumen-Reduktion bringen wenn ESP tief steht - aber Oyarzabal aktueller Turnier-Fluegel-Strafraum-Kombinator. Einsatz 1.5% = 8.25 EUR.",
-          "faire_quote": 2.1,
-          "empfohlener_einsatz_prozent": 1.5,
-          "empfohlener_einsatz_euro": 8.25
-        },
-        {
           "id": "por-esp-2",
           "kategorie": "value",
           "markt": "Spanien gewinnt (Sieg 2, 90min)",
@@ -74,17 +63,6 @@ window.__MIESMUSCHEL_TIPPS = {
           "empfohlener_einsatz_euro": 8.25
         },
         {
-          "id": "por-esp-4",
-          "kategorie": "wackel",
-          "markt": "Cristiano Ronaldo Torschuetze Jederzeit",
-          "quote": 2.85,
-          "edge_prozent": 8.0,
-          "begruendung": "Ronaldo Volume-9 Portugal (3 Tore aus xG 4.15 + 7 Torschuesse Turnier, Volume-Elfmeter-Schuetze). Karriere-Highlight-Alter-Signal (41j) macht Motivation extrem. Aber R32 62.-Sub-Signal von Martinez macht Volumen-Reduktion moeglich (Ramos alternative Startelf-Kandidat). Reality-Check: HR07-04-Diaz-Offside-Cluster + HR-INVERS-Karriere-Highlight-Falle (Ronaldo James Bellingham-Bruch) rechtfertigt WACKEL nicht VALUE. Einsatz 0.5% = 2.75 EUR.",
-          "faire_quote": 2.6,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 2.75
-        },
-        {
           "id": "por-esp-5",
           "kategorie": "risk",
           "markt": "Portugal gewinnt (Sieg 1, 90min)",
@@ -99,7 +77,7 @@ window.__MIESMUSCHEL_TIPPS = {
       "kontext_check_status": "OK"
     },
     {
-      "id": "2026-07-06-usa-bel",
+      "id": "2026-07-07-usa-bel",
       "liga": "FIFA WM 2026 - Achtelfinale",
       "heim": "USA",
       "gast": "Belgien",
@@ -154,17 +132,6 @@ window.__MIESMUSCHEL_TIPPS = {
           "faire_quote": 1.75,
           "empfohlener_einsatz_prozent": 1.5,
           "empfohlener_einsatz_euro": 8.25
-        },
-        {
-          "id": "usa-bel-3",
-          "kategorie": "wackel",
-          "markt": "Ricardo Pepi Torschuetze Jederzeit",
-          "quote": 3.8,
-          "edge_prozent": 10.0,
-          "begruendung": "Backup-Torschuetzen-Star-Ausfall-PFLICHT: Balogun-Sperre aktiviert Pepi-Backup-9-Startelf-Rolle. Pepi PSV-Klub-Form + WM-Ligue-1-Erfahrung (bewaehrt Klub-Playoff-Volume). USA-Muss-Sieg-Konstellation + Belgien-IV-Faehigkeit-schwaecher-als-Frankreich-R32 (Vertonghen 37j + Debast). Reality-Check: HR-Backup-Pflicht-Regel (Star-Ausfall = Backup-Stuermer-Tipp PFLICHT) + HR07-04-8i Praezisierung Startelf-Bench-Direkt-Ersatz (Pepi klar Balogun-Direkt-Ersatz). Kein Doppel-Backup-Tipp (Wright NICHT parallel getippt = HR07-04-8i Massen-Sub-Falle-Sperre). Coinflip-Regel-2 respektiert (max 3 Tipps, kein SAFE - USA-Sieg-Wackel bewusst weggelassen zu Gunsten Backup-Pflicht). Einsatz 0.5% = 2.75 EUR.",
-          "faire_quote": 3.45,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 2.75
         }
       ],
       "kontext_check_status": "OK"
@@ -195,7 +162,7 @@ window.__MIESMUSCHEL_TIPPS = {
     },
     {
       "id": "einzeltipp-3",
-      "spiel_id": "2026-07-06-usa-bel",
+      "spiel_id": "2026-07-07-usa-bel",
       "kategorie": "value",
       "markt": "Ueber 2.5 Tore USA-BEL",
       "quote": 1.85,
@@ -206,7 +173,7 @@ window.__MIESMUSCHEL_TIPPS = {
     },
     {
       "id": "einzeltipp-4",
-      "spiel_id": "2026-07-06-usa-bel",
+      "spiel_id": "2026-07-07-usa-bel",
       "kategorie": "value",
       "markt": "Beide Teams treffen JA USA-BEL",
       "quote": 1.75,
@@ -228,7 +195,7 @@ window.__MIESMUSCHEL_TIPPS = {
     },
     {
       "id": "einzeltipp-6",
-      "spiel_id": "2026-07-06-usa-bel",
+      "spiel_id": "2026-07-07-usa-bel",
       "kategorie": "wackel",
       "markt": "Ricardo Pepi Torschuetze Jederzeit",
       "quote": 3.8,
@@ -271,7 +238,7 @@ window.__MIESMUSCHEL_TIPPS = {
           "quote": 1.75
         },
         {
-          "spiel_id": "2026-07-06-usa-bel",
+          "spiel_id": "2026-07-07-usa-bel",
           "markt": "Beide Teams treffen JA USA-BEL",
           "quote": 1.75
         }
@@ -294,7 +261,7 @@ window.__MIESMUSCHEL_TIPPS = {
           "quote": 1.9
         },
         {
-          "spiel_id": "2026-07-06-usa-bel",
+          "spiel_id": "2026-07-07-usa-bel",
           "markt": "Ricardo Pepi Torschuetze Jederzeit",
           "quote": 3.8
         }
@@ -317,7 +284,7 @@ window.__MIESMUSCHEL_TIPPS = {
           "quote": 3.2
         },
         {
-          "spiel_id": "2026-07-06-usa-bel",
+          "spiel_id": "2026-07-07-usa-bel",
           "markt": "Romelu Lukaku Doppelpack (2+ Tore)",
           "quote": 6.0
         }
@@ -340,7 +307,7 @@ window.__MIESMUSCHEL_TIPPS = {
           "quote": 6.5
         },
         {
-          "spiel_id": "2026-07-06-usa-bel",
+          "spiel_id": "2026-07-07-usa-bel",
           "markt": "Haji Wright Doppelpack (2+ Tore)",
           "quote": 11.0
         }
