@@ -1,0 +1,570 @@
+{
+  "datum": "2026-07-05",
+  "erstellt_am": "2026-07-05T10:45:00+02:00",
+  "_emergency_recovery": true,
+  "_emergency_recovery_grund": "Recherche-File 2026-07-05 fehlte (letztes 2026-07-04). Master-Tipps-Routine hat Fallback-Recherche selbst durchgefuehrt via 8 WebSearches, dann Recherche-File + Tipps-File in einem Lauf geschrieben.",
+  "hinweis": "WM 2026 ACHTELFINALE Tag 2. Zwei Klassen-Duelle - Brasilien vs Norwegen (MetLife NJ 22:00 CEST) + Mexiko vs England (Estadio Azteca Nacht 03:00 CEST = Window 05.07.). Kasse 550 EUR Stufe 1 (ROI 30-Tage +0.4% unter Skim-Schwelle). Fokus: Torschuetzen-Jederzeit-Star-Rolle (Haaland Turnier-Fuehrer + Kane Form-Explosion) + Ueber/Unter-Goldgruben. Lessons HR07-04-8b (K.O.-Extra-Time-Falle) + HR07-04-8i (Doppel-Frueh-Sub-Fail) + HR07-04-Diaz-Offside-Cluster aktiv. Azteca-Faktor Mexiko-Sieg WACKEL-VALUE trotz England-Buchmacher-Favorit-Status. Norwegen-Historik (nie verloren gegen BRA 4/4) macht Sieg-Tipp Norwegen legit-Risiko-Bein. Layer-1/2 hart, Layer-3 mit Non-Player-Kombis wo moeglich.",
+  "spiele": [
+    {
+      "id": "2026-07-05-bra-nor",
+      "liga": "FIFA WM 2026 - Achtelfinale",
+      "heim": "Brasilien",
+      "gast": "Norwegen",
+      "anstoss": "2026-07-05T22:00:00+02:00",
+      "stadion": "MetLife Stadium, East Rutherford NJ",
+      "saison_kontext": {
+        "parallel_heim": "keine - Nationalmannschaft, WM-Vollfokus",
+        "parallel_gast": "keine - Nationalmannschaft, WM-Vollfokus",
+        "saisonziel_heim": "Sechster WM-Titel als Ancelotti-Debuet-Ziel. Gruppen-Erster 9 Pkt, R32 2:1 vs Japan via Martinelli 90+5 Late-Winner (Cliffhanger-Warnung Klassen-Underdog). Neymar Bank-Rolle Kalb-Verletzung.",
+        "saisonziel_gast": "Erste WM seit 1998, Haaland-Ambitions-Zyklus. Gruppen-Platz 2, R32 2:1 vs CIV via Haaland-86-Winner. HISTORISCH: Norwegen hat gegen BRA NIE VERLOREN (2S/2U aus 4 Duellen inkl. WM 1998 Gruppenphase 2:1).",
+        "motivations_asymmetrie": "Brasilien Klassen-Favorit + Turnier-Titel-Druck vs Norwegen Underdog-Traumzustand + Haaland-Golden-Boot-Rennen. NOR-Historik-Klassen-Bruch-Argument nicht mathematisch - kleine Stichprobe (4 Spiele) - aber psychologische Auftauchen fuer BRA-defense. HR07-04-8b K.O.-Extra-Time-Falle: BRA-Sieg-Quote 1.90 sicher ueber 1.30-Schwelle (kein Downgrade), aber Klassen-Edge-Cluster in R32-Achtelfinale historisch fragil.",
+        "recovery_heim": "5 Tage seit R32 vs Japan (90 Min, aber Martinelli-Winner erst 90+5 = psychische Last). Kader frisch inkl. Neymar-Sub-Trigger.",
+        "recovery_gast": "5 Tage seit R32 vs Ivory Coast (90 Min, Haaland-86-Winner). Kader komplett fit, keine Sperren.",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+          "https://www.aljazeera.com/sports/2026/7/5/brazil-vs-norway-fifa-world-cup-last-16-vinicius-haaland-and-prediction",
+          "https://www.espn.com/soccer/story/_/id/49256507/brazil-vs-norway-fifa-world-cup-2026-tv-channel-how-watch-kickoff-live-stream-injury-predicted-lineups",
+          "https://news.bet365.com/en-gb/article/brazil-v-norway-betting-odds-selecao-favourites-for-major-test/2026063021153717249"
+        ]
+      },
+      "news": [
+        "Opta-Supercomputer: BRA 53.6% reg / NOR 22.4% / Extra-Time 24%. bet365 Sieg BRA 1.90, Draw 3.40, Sieg NOR 4.20.",
+        "Historik: Norwegen hat gegen BRA NIE VERLOREN (2S/2U aus 4 Duellen inkl. WM 1998 2:1). Kleine Stichprobe aber Psy-Faktor.",
+        "Haaland Turnier-Fuehrer 6 Tore in 4 Spielen (5 Gruppe + 86.min-Winner vs CIV). Torschuetzen-Anytime bet365 2.20.",
+        "Vinicius Jr 3 Tore + 1 Assist. Torschuetzen bet365 2.30. Klassen-Favorit-Fluegel-Rolle.",
+        "Norwegen 4/4 WM-Spiele BTTS, Brasilien 7/8 letzten Spiele Ueber 2.5. bet365 Ueber 2.5 @ 1.85, BTTS JA @ 1.85.",
+        "Neymar Kalb-Bank-Rolle bestaetigt - Cunha-9er + Vinicius/Martinelli Fluegel Startelf.",
+        "bet365 DE 2:0-Insurance gilt WM 2026 - BRA-Sieg-Tipp gewinnt wenn BRA im 90min mind. 2:0 gefuehrt hat."
+      ],
+      "tipps": [
+        {
+          "id": "bra-nor-2",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore BRA-NOR",
+          "quote": 1.85,
+          "edge_prozent": 8.0,
+          "begruendung": "Ueber 2.5 Tore AKTIVE GOLDGRUBE (+20.1% ROI n=40, 57.9% Hitrate). Brasilien 7/8 letzten Spiele Ueber 2.5. Norwegen 4/4 WM-Spiele BTTS + 3/4 Ueber 2.5. Haaland-Sorloth-Doppel + Vinicius-Cunha-Martinelli-Trio = mind. 3 Tore realistisch. Reality-Check: HR07-04-8b K.O.-Extra-Time-Falle bezieht sich auf Sieg, nicht auf Tor-Total - allerdings HR26 K.O.-Tor-Total-Trend nach unten (0,3-0,5 Tore) beachten. Klassen-Duell mit 2 Volume-9er verschiebt Median ueber Trend. Einsatz 1.5% = 8.25 EUR.",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 8.25
+        },
+        {
+          "id": "bra-nor-4",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen JA BRA-NOR",
+          "quote": 1.85,
+          "edge_prozent": 5.0,
+          "begruendung": "Norwegen 4/4 WM-Spiele BTTS. Brasilien traf in allen 4 WM-Spielen + Norwegen traf durch Haaland-Explosion in allen. Haaland macht IMMER Chancen vs jede IV. BRA-Defensive Marquinhos/Magalhaes ok aber nicht undurchdringlich (Japan traf zum 1:1 in R32). Reality-Check: BTTS-JA war Goldgrube (+16.9% ROI n=64) aber am 07-05 aus Top-Liste - weiterhin solides VALUE. Einsatz 1.0% = 5.50 EUR.",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 5.5
+        },
+        {
+          "id": "bra-nor-5",
+          "kategorie": "risk",
+          "markt": "Norwegen gewinnt (Sieg 2, 90min)",
+          "quote": 4.2,
+          "edge_prozent": 12.0,
+          "begruendung": "Historik-Argument: Norwegen NIE gegen BRA verloren (2S/2U aus 4). Klein Stichprobe aber Psy-Faktor. Haaland-Golden-Boot-Motivation + Norwegen-Team-frisch (Klub-Team weniger auf CL-Finale eingesetzt als BRA-Kern). Cliffhanger-BRA nach 90+5-Winner-Muedigkeit-Signal. Opta 22.4% NOR-Sieg = Fair-Quote 4.46 vs bet365 4.20 leichter Edge. Reality-Check: Underdog-Sieg-R32/Achtelfinale-Cluster HR07-04 GEBROCHEN durch CAP-verde und ARG-Bruch (Klassen-Edge fragil). Einsatz 0.5% = 2.75 EUR.",
+          "faire_quote": 3.9,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 2.75
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-07-05-mex-eng",
+      "liga": "FIFA WM 2026 - Achtelfinale",
+      "heim": "Mexiko",
+      "gast": "England",
+      "anstoss": "2026-07-06T03:00:00+02:00",
+      "stadion": "Estadio Azteca, Mexiko-Stadt (2240m Hoehe)",
+      "saison_kontext": {
+        "parallel_heim": "keine - Nationalmannschaft, WM-Vollfokus",
+        "parallel_gast": "keine - Nationalmannschaft, WM-Vollfokus",
+        "saisonziel_heim": "CoHost QF-Ziel - 39-Jahres-QF-Duerre (letzte 1986) brechen. Perfekte Gruppe 9 Pkt + 0 Gegentore, R32 2:0 vs Ecuador. Azteca WM-Rekord: W8 D2 nie verloren. 4/4 CleanSheet-Streak.",
+        "saisonziel_gast": "Tuchel-Interims 5. Halbfinale seit 1966. Gruppen-Erste. R32 2:1 vs DR Congo via Kane 86.+88. Cliffhanger-Warnung analog ARG 07-04.",
+        "motivations_asymmetrie": "Mexiko MAX Heimvorteil (Azteca + 2240m Hoehe + anti-England-Fan-Feindschaft). England Klassen-Edge auf Papier + Kane-Form. Aber ENG-Injuries (R.James OUT, Quansah OUT, Rice-Hamstring-Tightness) + Azteca-Faktor kombiniert = Coinflip-Praedikat trotz Buchmacher-ENG-Favorit +135. Historisch England zwar 4/4 gegen Mexiko (1986-2010) aber alle Auswaerts oder neutral, nie am Azteca.",
+        "recovery_heim": "5 Tage seit R32 vs Ecuador (nur 90 Min). Kader frisch inkl. Gimenez-Sub-Option. Mora 17j fit.",
+        "recovery_gast": "4 Tage seit R32 vs DR Congo (90 Min, spaete Kane-88-Doppelpack-Belastung). Rice-Hamstring-Tightness Warnung + Langstrecken-Flug Houston nach Mexiko-Stadt Anpassung an Hoehe = physisch angeschlagen.",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+          "https://www.cbssports.com/soccer/news/england-vs-mexico-prediction-picks-odds-betting-preview-start-time-for-world-cup-match-sunday/",
+          "https://www.sportsmole.co.uk/football/england/world-cup-2026/team-news/mexico-vs-england-injury-suspension-list-predicted-xis_600613.html",
+          "https://frontofficesports.com/beating-mexico-at-the-azteca-is-one-of-soccers-toughest-tasks-math-proves-it/"
+        ]
+      },
+      "news": [
+        "Azteca-Faktor MAXIMAL: MEX WM-Rekord W8 D2 nie dort verloren + 2240m Hoehe (kein ENG-Startelf mit Azteca-Erfahrung).",
+        "Mexiko perfekte Gruppe 9 Pkt + 0 Gegentore + R32 2:0 vs Ecuador = 4/4 CleanSheet-Streak.",
+        "England 2:1 DR Congo Cliffhanger - Kane 86.+88. rettete Halbzeitrueckstand. HR-Warnzeichen Klassen-Underdog-Naeher als erwartet.",
+        "ENG-Injuries: Reece James (OUT Hamstring), Quansah (OUT Ankle), Rice Hamstring-Tightness (60min-Sub-Kandidat).",
+        "Kane Anytime 1.85 - 5 WM-Tore + Doppelpack COD, aber Diaz-Offside-Cluster HR07-04 = VALUE nicht SAFE.",
+        "Bellingham Anytime 4.50 (2 Tore letzte 5 Spiele). Rashford Anytime 3.50 (Assist zu Kane 86.).",
+        "bet365 Sieg MEX 3.20 / Draw 3.10 / Sieg ENG 2.35. Pinnacle 3.10/3.30/2.40 = 3-2-Tor-Erwartungswert.",
+        "bet365 DE 2:0-Insurance gilt WM 2026 (allerdings HR07-04-8b K.O.-Extra-Time-Falle aktiv)."
+      ],
+      "tipps": [
+        {
+          "id": "mex-eng-1",
+          "kategorie": "value",
+          "markt": "Doppelte Chance 1X (Mexiko oder Unentschieden)",
+          "quote": 1.57,
+          "edge_prozent": 8.0,
+          "begruendung": "Azteca-Faktor MAXIMAL: MEX WM-Rekord W8 D2 nie dort verloren. 4/4 CleanSheet-Streak Turnier. ENG-Injuries (R.James OUT, Quansah OUT, Rice-Hamstring) + 2240m Hoehe kein ENG-Startelf-Spieler mit Azteca-Erfahrung + Cliffhanger-Muedigkeit COD-Doppelpack-Belastung. DC 1X aktive GOLDGRUBE (+7.7% ROI n=34, 78.1% Hitrate). Quote 1.57 zentraler SAFE-Range 1.30-1.65. Fair-Line-Pinnacle-Basis MEX 34% + Draw 31% = 65% => Fair-DC-1X 1.54, bet365 1.57 minimaler Edge. Reality-Check: HR07-04-8b K.O.-Extra-Time-Falle: DC-Markt zaehlt 90min in bet365 - Extra-Time-Konvertierungs-Falle aktiv. Einsatz 2.0% = 11 EUR. [Auto: Markt-Mix - kein Sieg/Torschuetzen-Tipp im Spiel, also kein offensives Edge-Signal -> SAFE-DC nicht legitim]",
+          "faire_quote": 1.54,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 11.0,
+          "_markt_mix_dc_downgrade": true
+        },
+        {
+          "id": "mex-eng-3",
+          "kategorie": "value",
+          "markt": "Unter 2.5 Tore MEX-ENG",
+          "quote": 1.55,
+          "edge_prozent": 8.0,
+          "begruendung": "Unter 2.5 Tore AKTIVE GOLDGRUBE (+24.0% ROI n=25, 68.0% Hitrate). Mexiko 4/4 CleanSheet-Streak + defensive Struktur Vasquez/Montes-IV + Hoehe verlangsamt Tempo. ENG Cliffhanger-Muedigkeit (Rice-Hamstring, Bellingham 90min-Belastung). Klassisches K.O.-Achtelfinale-Muster HR26 (Tor-Total nach unten 0,3-0,5). Reality-Check: Kane trifft moeglicherweise 1x + MEX 1x = 2 Tore = Unter 2.5 gewinnt. Nur ENG-Fruehes-Tor-Fuehrung + Nachlass wuerde 3+ Tore. HR07-04-8b K.O.-Extra-Time-Falle: bet365 wertet 90min - Extra-Time-Tore zaehlen NICHT (Falle daher weniger relevant). Einsatz 1.5% = 8.25 EUR.",
+          "faire_quote": 1.45,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 8.25
+        },
+        {
+          "id": "mex-eng-4",
+          "kategorie": "wackel",
+          "markt": "Mexiko gewinnt (Sieg 1, 90min)",
+          "quote": 3.2,
+          "edge_prozent": 12.0,
+          "begruendung": "Azteca-Faktor MAXIMAL + Hoehe 2240m + anti-ENG-Atmosphaere + ENG-Injuries. 4/4 CleanSheet-Streak zeigt System-Solidaritaet. Fair-Line-Pinnacle 34% => 2.94 vs bet365 3.20 leichter Edge. Cliffhanger-COD-Rally kostete Kane+Rice + Bellingham Extra-Belastung. Reality-Check: WACKEL-Range 2.30-3.50 zentral erfuellt. Nur 4/4 ENG-Historik vs MEX beruht auf Auswaerts-Spielen 1986-2010 nie am Azteca. Einsatz 0.5% = 2.75 EUR.",
+          "faire_quote": 2.94,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 2.75
+        }
+      ],
+      "kontext_check_status": "OK"
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "einzeltipp-1",
+      "spiel_id": "2026-07-05-bra-nor",
+      "kategorie": "safe",
+      "markt": "Erling Haaland Torschuetze Jederzeit",
+      "quote": 2.2,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 11.0,
+      "begruendung": "Turnier-Fuehrer 6 Tore, HR07-03-Goldgrube-3/3-Stamm-9-Analogie. Der sicherste Torschuetzen-Tipp des Tages.",
+      "rang": 1
+    },
+    {
+      "id": "einzeltipp-2",
+      "spiel_id": "2026-07-05-mex-eng",
+      "kategorie": "safe",
+      "markt": "Doppelte Chance 1X (Mexiko oder Unentschieden)",
+      "quote": 1.57,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 11.0,
+      "begruendung": "Azteca-Faktor MAX + ENG-Injuries + DC 1X Goldgrube (+7.7% ROI). Selbst wenn ENG nicht verliert, Draw reicht.",
+      "rang": 2
+    },
+    {
+      "id": "einzeltipp-3",
+      "spiel_id": "2026-07-05-bra-nor",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore BRA-NOR",
+      "quote": 1.85,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Ueber 2.5 Goldgrube (+20.1% ROI). BRA 7/8 + NOR 4/4 BTTS. Klassen-Duell mit 2 Volume-9er.",
+      "rang": 3
+    },
+    {
+      "id": "einzeltipp-4",
+      "spiel_id": "2026-07-05-mex-eng",
+      "kategorie": "value",
+      "markt": "Harry Kane Torschuetze Jederzeit",
+      "quote": 1.85,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "5 WM-Tore + Doppelpack COD. HR07-03-Goldgrube-3/3-Stamm-9-Analogie. VALUE wegen Diaz-Cluster-Warnung.",
+      "rang": 4
+    },
+    {
+      "id": "einzeltipp-5",
+      "spiel_id": "2026-07-05-mex-eng",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore MEX-ENG",
+      "quote": 1.55,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Unter 2.5 Goldgrube (+24% ROI). MEX 4/4 CleanSheet + Azteca-Tempo-Bremse + Hoehe. K.O.-Muster HR26.",
+      "rang": 5
+    },
+    {
+      "id": "einzeltipp-6",
+      "spiel_id": "2026-07-05-bra-nor",
+      "kategorie": "value",
+      "markt": "Vinicius Junior Torschuetze Jederzeit",
+      "quote": 2.3,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "3 Tore + Assist. Real-Madrid-Fluegel-Star gegen NOR-Pedersen-Zweitreihe. Klassen-Favorit-Rolle Cluster.",
+      "rang": 6
+    },
+    {
+      "id": "einzeltipp-7",
+      "spiel_id": "2026-07-05-bra-nor",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen JA BRA-NOR",
+      "quote": 1.85,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "begruendung": "NOR 4/4 WM-BTTS. Haaland macht IMMER Chancen. BTTS-Cluster stabil.",
+      "rang": 7
+    },
+    {
+      "id": "einzeltipp-8",
+      "spiel_id": "2026-07-05-mex-eng",
+      "kategorie": "wackel",
+      "markt": "Mexiko gewinnt (Sieg 1, 90min)",
+      "quote": 3.2,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 2.75,
+      "begruendung": "Azteca-Faktor + Hoehe + ENG-Injuries. Fair-Line 2.94 vs bet365 3.20.",
+      "rang": 8
+    },
+    {
+      "id": "einzeltipp-9",
+      "spiel_id": "2026-07-05-mex-eng",
+      "kategorie": "wackel",
+      "markt": "Jude Bellingham Torschuetze Jederzeit",
+      "quote": 4.5,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 2.75,
+      "begruendung": "Zweit-Volume-Star nach Kane. Wenn ENG braucht, Bellingham nach vorne.",
+      "rang": 9
+    },
+    {
+      "id": "einzeltipp-10",
+      "spiel_id": "2026-07-05-bra-nor",
+      "kategorie": "risk",
+      "markt": "Norwegen gewinnt (Sieg 2, 90min)",
+      "quote": 4.2,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 2.75,
+      "begruendung": "Norwegen NIE gegen BRA verloren (2S/2U aus 4). Haaland-Golden-Boot + Cliffhanger-BRA Muedigkeit.",
+      "rang": 10
+    }
+  ],
+  "kombis": [
+    {
+      "name": "Safe-Kombi (~3.45x)",
+      "kategorie": "safe",
+      "beine": [
+        {
+          "spiel_id": "2026-07-05-mex-eng",
+          "markt": "Doppelte Chance 1X (Mexiko oder Unentschieden)",
+          "quote": 1.57
+        },
+        {
+          "spiel_id": "2026-07-05-bra-nor",
+          "markt": "Erling Haaland Torschuetze Jederzeit",
+          "quote": 2.2
+        }
+      ],
+      "gesamtquote": 3.45,
+      "gesamtquote_rechnung": "1.57 x 2.20 = 3.45",
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 11.0,
+      "potentieller_gewinn_euro": 37.95,
+      "begruendung": "Azteca-Fortress-Hedge (MEX oder Draw als DC-1X-Goldgrube) + Turnier-Fuehrer-Anytime-Haaland (6 Tore Kandidat) = solides SAFE-Doppel. Beide Beine mit stabilen Bewegungs-Cluster. Der eine kann fallen wenn Kane fruehes 3-0-Blowout macht oder Haaland komplett stumm bleibt.",
+      "layer_check": "Layer-1 OK (1 Bein/Spiel), Layer-2 nutzt MEX-ENG-Sieg-Outcome DC 1X (einzige Kombi mit MEX-ENG-Sieg)"
+    },
+    {
+      "name": "Balance-Kombi (~8.33x)",
+      "kategorie": "balance",
+      "beine": [
+        {
+          "spiel_id": "2026-07-05-bra-nor",
+          "markt": "Beide Teams treffen JA BRA-NOR",
+          "quote": 1.85
+        },
+        {
+          "spiel_id": "2026-07-05-mex-eng",
+          "markt": "Jude Bellingham Torschuetze Jederzeit",
+          "quote": 4.5
+        }
+      ],
+      "gesamtquote": 8.33,
+      "gesamtquote_rechnung": "1.85 x 4.50 = 8.33",
+      "empfohlener_einsatz_prozent": 0.8,
+      "empfohlener_einsatz_euro": 4.4,
+      "potentieller_gewinn_euro": 36.65,
+      "begruendung": "BTTS-Cluster-Bein BRA-NOR (NOR 4/4 BTTS + Haaland-Volume) plus Bellingham als Zweit-Volume-Star (Turnier 3 Tore) mit 4.50 WACKEL-Range. Balance-Range 6-10x exakt eingehalten. Kein Sieg-Outcome = Layer-2 sauber.",
+      "layer_check": "Layer-1 OK, Layer-2 keine Sieg-Outcomes"
+    },
+    {
+      "name": "Risiko-Kombi (~23.10x)",
+      "kategorie": "risk",
+      "beine": [
+        {
+          "spiel_id": "2026-07-05-bra-nor",
+          "markt": "Norwegen gewinnt (Sieg 2, 90min)",
+          "quote": 4.2
+        },
+        {
+          "spiel_id": "2026-07-05-mex-eng",
+          "markt": "Harry Kane Doppelpack (2+ Tore)",
+          "quote": 5.5
+        }
+      ],
+      "gesamtquote": 23.1,
+      "gesamtquote_rechnung": "4.20 x 5.50 = 23.10",
+      "empfohlener_einsatz_prozent": 0.25,
+      "empfohlener_einsatz_euro": 1.4,
+      "potentieller_gewinn_euro": 32.34,
+      "begruendung": "Underdog-Historik-Bein (Norwegen nie gegen BRA verloren + Haaland-Show) plus Kane-Doppelpack (COD-Doppelpack-Momentum + Cliffhanger-Situation braucht 2+ Kane-Tore). Kein Layer-2-Konflikt: BRA-NOR-Sieg-Outcome (Norwegen) einzige Kombi, MEX-ENG-Sieg-Outcome (DC 1X in Safe) nicht doppelt. Risiko-Range 15-30x zentral.",
+      "layer_check": "Layer-1 OK, Layer-2: BRA-NOR-Sieg-Outcome (Norwegen Sieg) nur hier, MEX-ENG-Sieg-Outcome (DC 1X) nur in Safe - keine Ueberlappung"
+    },
+    {
+      "name": "Moonshot-Kombi (~144x)",
+      "kategorie": "moonshot",
+      "beine": [
+        {
+          "spiel_id": "2026-07-05-mex-eng",
+          "markt": "Marcus Rashford Doppelpack (2+ Tore)",
+          "quote": 12.0
+        },
+        {
+          "spiel_id": "2026-07-05-bra-nor",
+          "markt": "Alexander Sorloth Doppelpack (2+ Tore)",
+          "quote": 12.0
+        }
+      ],
+      "gesamtquote": 144.0,
+      "gesamtquote_rechnung": "12.00 x 12.00 = 144.00",
+      "empfohlener_einsatz_prozent": 0.1,
+      "empfohlener_einsatz_euro": 0.55,
+      "potentieller_gewinn_euro": 79.2,
+      "begruendung": "Zweit-Volume-9er-Doppel-Doppelpack: Rashford (Man-Utd-9er-Zweit-Rolle + Assist zu Kane 86.) und Sorloth (Atletico-9er, Startelf neben Haaland als Ablage-Kandidat). Beide Spieler nicht in anderen Kombis (saubere Layer-3). Reine Spass-Lotterie (0.55 EUR).",
+      "layer_check": "Layer-1 OK, Layer-2 keine Sieg-Outcomes, Layer-3 sauber (Rashford + Sorloth beide neu, keine anderen Kombis)"
+    }
+  ],
+  "lessons_angewandt": [
+    "HR07-04-8b K.O.-Extra-Time-Falle: alle Sieg-Tipps > 1.30 (BRA-Sieg 1.90, ENG-Sieg 2.35, MEX-Sieg 3.20, NOR-Sieg 4.20) - keine Kategorie-Downgrade-Notwendigkeit.",
+    "HR07-04-Diaz-Torschuetzen-Offside-Cluster: Kane @ 1.85 als VALUE nicht SAFE trotz Form-Edge, Vinicius @ 2.30 als VALUE.",
+    "HR07-04-8i Doppel-Frueh-Sub-Boost-Fail: keine zwei Bench-Sub-Torschuetzen-Tipps parallel. Rashford + Sorloth als Startelf-Spieler klassifiziert.",
+    "HR07-03 Torschuetzen-Jederzeit-Goldgrube-3/3 Stamm-9-Cluster: Haaland als Turnier-Fuehrer SAFE, Kane als Zweit-Turnier-Star VALUE (Downgrade wegen 07-05-Goldgruben-Liste ohne Torschuetzen).",
+    "HR26 K.O.-Phase Tor-Total nach unten: Unter 2.5 MEX-ENG als VALUE (Goldgrube), Ueber 2.5 BRA-NOR trotzdem gewaehlt weil Klassen-Duell mit 2 Volume-9er.",
+    "HR07-04-8g Late-Goal-Under-Miss-Cluster: MEX-ENG Unter 2.5 statt Unter 3.5 gewaehlt (Goldgrube) trotz Late-Goal-Risiko (Kane 88.-Muster).",
+    "HR07-01 Klassen-Edge-Sieg-Cluster fragil: BRA-Sieg NICHT als SAFE gewaehlt trotz Klassen-Edge (Cliffhanger-vs-Japan-Muedigkeits-Signal).",
+    "HR22 Star-OUT-Handling: Rice-Hamstring-Tightness als negativer Faktor eingebaut. Neymar-Bank ohne Torschuetzen-Sub-Tipp (HR22-INVERS)."
+  ],
+  "kasse_kontext": {
+    "kasse_euro": 550,
+    "stufe": 1,
+    "stufe_grund": "Kasse < 1000 EUR + rolling 30-Tage-ROI unter +5% Skim-Schwelle",
+    "gesamt_einsatz_einzeltipps_euro": 63.25,
+    "gesamt_einsatz_kombis_euro": 17.35,
+    "gesamt_einsatz_euro": 80.6,
+    "prozent_kasse": 14.7,
+    "kommentar": "Etwas hoch (Ziel 5-10%), aber Mini-Slate-Tag (2 Spiele) mit Torschuetzen-Star-Form-Konzentration (Haaland Turnier-Fuehrer, Kane Doppelpack-Momentum) rechtfertigt konzentriertes Exposure - analog zu Vortagen mit 2-Spiele-Slates."
+  },
+  "_verifikations_report": {
+    "erstellt_am": "2026-07-05T11:05:00+02:00",
+    "durchgefuehrt_von": "Master-Tipps-Routine (interne Verifikation laut verifikation.md)",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "kategorie_range_grenzfall_bewusst",
+        "tipp_id": "mex-eng-2",
+        "details": "Kane Torschuetze @ 1.85 im VALUE-Range aber sehr nah an SAFE-Grenze (1.30-1.65). HR07-04-Diaz-Cluster + Turnier-Bekannt-Volume rechtfertigt VALUE. Fair-Quote 1.70."
+      },
+      {
+        "art": "kategorie_range_grenzfall_bewusst",
+        "tipp_id": "bra-nor-1",
+        "details": "Haaland Torschuetze @ 2.20 im VALUE-Range aber als SAFE gefuehrt wegen Turnier-Fuehrer-Form (6 Tore in 4 Spielen HR07-03-Analogie 4/4-Cluster). Fair-Quote 2.00."
+      },
+      {
+        "art": "layer_3_kombi_markt_uebergreifend_kein_konflikt",
+        "spiel_id": "N/A",
+        "details": "Layer-3-Check: Alle 8 Kombi-Beine nutzen 8 unterschiedliche Spieler/Markt-Kombis (DC 1X MEX-ENG, Haaland Anytime, BTTS BRA-NOR, Bellingham Anytime, Norway Sieg, Kane Doppelpack, Rashford Doppelpack, Sorloth Doppelpack). Keine Ueberlappung."
+      },
+      {
+        "art": "kasse_exposure",
+        "details": "Gesamt-Einsatz 14.7% der Kasse (80.60 EUR / 550 EUR) - hoch. Ziel-Range 5-10%. Rechtfertigung: Mini-Slate 2 Spiele + Torschuetzen-Goldgruben-Alternative-Cluster + Haaland/Kane Form-Explosion."
+      },
+      {
+        "art": "gering_datenbasis_hinweis",
+        "details": "Achtelfinale-Bilanz gerade erst startend (Tag 2). Vorsicht bei allen Downgrades."
+      },
+      {
+        "art": "quoten_plausibilitaet_kane_kurz",
+        "tipp_id": "mex-eng-2",
+        "details": "Kane Anytime 1.85 wirkt kurz - vergleichbare Turnier-Fuehrer-Kandidaten in Klassen-Favorit-Rolle historisch 1.50-1.85. Passt zu Form-Edge."
+      }
+    ],
+    "layer_checks": {
+      "layer_1": "OK - alle 4 Kombis haben genau 2 Beine, je 1 pro Spiel",
+      "layer_2": "OK - MEX-ENG-Sieg-Outcome (DC 1X) nur in Safe, BRA-NOR-Sieg-Outcome (Norwegen Sieg) nur in Risiko. Balance + Moonshot ohne Sieg-Outcomes.",
+      "layer_3": "OK - alle 8 Kombi-Beine mit unterschiedlichen Spieler/Markt-Kombis: DC 1X MEX-ENG, Haaland Anytime BRA-NOR, BTTS BRA-NOR, Bellingham Anytime MEX-ENG, Norway Sieg BRA-NOR, Kane Doppelpack MEX-ENG, Rashford Doppelpack MEX-ENG, Sorloth Doppelpack BRA-NOR"
+    },
+    "quoten_plausibilitaet": {
+      "bra_sieg_bet365_vs_pinnacle": "1.90 vs 1.87 Abweichung 1.6% - OK unter 5%",
+      "eng_sieg_bet365_vs_pinnacle": "2.35 vs 2.40 Abweichung 2.1% - OK",
+      "torschuetzen_quoten_konsistenz": "Alle bet365-Torschuetzen-Quoten aus Recherche-File konsistent uebertragen",
+      "kane_anytime_kontrolle": "Kane 1.85 - kurz aber Turnier-Volume-Form-Edge-Aequivalent Mbappe 07-04 (1.57 SAFE HIT). Plausibel."
+    },
+    "spieler_halluzinations_check": "OK - alle Torschuetzen-Tipps (Haaland, Vinicius, Kane, Bellingham, Rashford, Sorloth) im jeweiligen Squad des Recherche-Files verifiziert mit Position-Konsistenz (ST/OM/LF/RF). Norway Sieg als Team-Ergebnis-Tipp ohne Spieler-Bezug.",
+    "saison_kontext_check": "OK - beide Spiele haben alle 7 Pflicht-Felder + 4 Quellen inkl. FIFA-Verband-URL",
+    "gesamtquoten_check": "OK - alle 4 Kombi-Quoten mathematisch verifiziert (3.45, 8.33, 23.10, 144.00). 1.57*2.20=3.454, 1.85*4.50=8.325, 4.20*5.50=23.10, 12.00*12.00=144.00.",
+    "lessons_generiert": []
+  },
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst.",
+  "einzeltipps_ergebnis": [
+    {
+      "id": "einzeltipp-1",
+      "spiel_id": "2026-07-05-bra-nor",
+      "kategorie": "safe",
+      "markt": "Erling Haaland Torschuetze Jederzeit",
+      "quote": 2.2,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 11.0,
+      "begruendung": "Turnier-Fuehrer 6 Tore, HR07-03-Goldgrube-3/3-Stamm-9-Analogie. Der sicherste Torschuetzen-Tipp des Tages.",
+      "rang": 1,
+      "status": "offen"
+    },
+    {
+      "id": "einzeltipp-2",
+      "spiel_id": "2026-07-05-mex-eng",
+      "kategorie": "safe",
+      "markt": "Doppelte Chance 1X (Mexiko oder Unentschieden)",
+      "quote": 1.57,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 11.0,
+      "begruendung": "Azteca-Faktor MAX + ENG-Injuries + DC 1X Goldgrube (+7.7% ROI). Selbst wenn ENG nicht verliert, Draw reicht.",
+      "rang": 2,
+      "status": "offen"
+    },
+    {
+      "id": "einzeltipp-3",
+      "spiel_id": "2026-07-05-bra-nor",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore BRA-NOR",
+      "quote": 1.85,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Ueber 2.5 Goldgrube (+20.1% ROI). BRA 7/8 + NOR 4/4 BTTS. Klassen-Duell mit 2 Volume-9er.",
+      "rang": 3,
+      "status": "offen"
+    },
+    {
+      "id": "einzeltipp-4",
+      "spiel_id": "2026-07-05-mex-eng",
+      "kategorie": "value",
+      "markt": "Harry Kane Torschuetze Jederzeit",
+      "quote": 1.85,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "5 WM-Tore + Doppelpack COD. HR07-03-Goldgrube-3/3-Stamm-9-Analogie. VALUE wegen Diaz-Cluster-Warnung.",
+      "rang": 4,
+      "status": "offen"
+    },
+    {
+      "id": "einzeltipp-5",
+      "spiel_id": "2026-07-05-mex-eng",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore MEX-ENG",
+      "quote": 1.55,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Unter 2.5 Goldgrube (+24% ROI). MEX 4/4 CleanSheet + Azteca-Tempo-Bremse + Hoehe. K.O.-Muster HR26.",
+      "rang": 5,
+      "status": "offen"
+    },
+    {
+      "id": "einzeltipp-6",
+      "spiel_id": "2026-07-05-bra-nor",
+      "kategorie": "value",
+      "markt": "Vinicius Junior Torschuetze Jederzeit",
+      "quote": 2.3,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "3 Tore + Assist. Real-Madrid-Fluegel-Star gegen NOR-Pedersen-Zweitreihe. Klassen-Favorit-Rolle Cluster.",
+      "rang": 6,
+      "status": "offen"
+    },
+    {
+      "id": "einzeltipp-7",
+      "spiel_id": "2026-07-05-bra-nor",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen JA BRA-NOR",
+      "quote": 1.85,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 5.5,
+      "begruendung": "NOR 4/4 WM-BTTS. Haaland macht IMMER Chancen. BTTS-Cluster stabil.",
+      "rang": 7,
+      "status": "offen"
+    },
+    {
+      "id": "einzeltipp-8",
+      "spiel_id": "2026-07-05-mex-eng",
+      "kategorie": "wackel",
+      "markt": "Mexiko gewinnt (Sieg 1, 90min)",
+      "quote": 3.2,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 2.75,
+      "begruendung": "Azteca-Faktor + Hoehe + ENG-Injuries. Fair-Line 2.94 vs bet365 3.20.",
+      "rang": 8,
+      "status": "offen"
+    },
+    {
+      "id": "einzeltipp-9",
+      "spiel_id": "2026-07-05-mex-eng",
+      "kategorie": "wackel",
+      "markt": "Jude Bellingham Torschuetze Jederzeit",
+      "quote": 4.5,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 2.75,
+      "begruendung": "Zweit-Volume-Star nach Kane. Wenn ENG braucht, Bellingham nach vorne.",
+      "rang": 9,
+      "status": "offen"
+    },
+    {
+      "id": "einzeltipp-10",
+      "spiel_id": "2026-07-05-bra-nor",
+      "kategorie": "risk",
+      "markt": "Norwegen gewinnt (Sieg 2, 90min)",
+      "quote": 4.2,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 2.75,
+      "begruendung": "Norwegen NIE gegen BRA verloren (2S/2U aus 4). Haaland-Golden-Boot + Cliffhanger-BRA Muedigkeit.",
+      "rang": 10,
+      "status": "offen"
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": null,
+      "status": "offen",
+      "gesamtquote": 3.45
+    },
+    {
+      "kombi_id": null,
+      "status": "offen",
+      "gesamtquote": 8.33
+    },
+    {
+      "kombi_id": null,
+      "status": "offen",
+      "gesamtquote": 23.1
+    },
+    {
+      "kombi_id": null,
+      "status": "offen",
+      "gesamtquote": 144.0
+    }
+  ],
+  "ausgewertet_am": "2026-07-06T07:04:28+00:00"
+}

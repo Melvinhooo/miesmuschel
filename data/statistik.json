@@ -1,5 +1,5 @@
 {
-  "letzte_berechnung": "2026-07-05T07:13:58+00:00",
+  "letzte_berechnung": "2026-07-06T07:04:28+00:00",
   "gesamt": {
     "tipps": 494,
     "gewonnen": 275,
@@ -12,13 +12,13 @@
     "roi_prozent": 5.9
   },
   "letzte_30_tage": {
-    "tipps": 196,
-    "gewonnen": 113,
-    "verloren": 83,
+    "tipps": 194,
+    "gewonnen": 112,
+    "verloren": 82,
     "push": 0,
     "offen": 0,
-    "einsatz": 196.0,
-    "netto": -0.4,
+    "einsatz": 194.0,
+    "netto": -0.31,
     "trefferquote": 57.7,
     "roi_prozent": -0.2
   },
@@ -5570,6 +5570,107 @@
     }
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-07-05",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "Safe-Kombi (~3.45x)",
+          "kategorie": "safe",
+          "gesamtquote": 3.45,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Doppelte Chance 1X (Mexiko oder Unentschieden)",
+              "quote": 1.57,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Erling Haaland Torschuetze Jederzeit",
+              "quote": 2.2,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi (~8.33x)",
+          "kategorie": "balance",
+          "gesamtquote": 8.33,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Beide Teams treffen JA BRA-NOR",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Jude Bellingham Torschuetze Jederzeit",
+              "quote": 4.5,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi (~23.10x)",
+          "kategorie": "risk",
+          "gesamtquote": 23.1,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Norwegen gewinnt (Sieg 2, 90min)",
+              "quote": 4.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Harry Kane Doppelpack (2+ Tore)",
+              "quote": 5.5,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi (~144x)",
+          "kategorie": "moonshot",
+          "gesamtquote": 144.0,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Marcus Rashford Doppelpack (2+ Tore)",
+              "quote": 12.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Alexander Sorloth Doppelpack (2+ Tore)",
+              "quote": 12.0,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-07-04",
       "gesamt": {
