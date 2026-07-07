@@ -129,17 +129,6 @@
           "faire_quote": 1.75,
           "empfohlener_einsatz_prozent": 1.5,
           "empfohlener_einsatz_euro": 8.25
-        },
-        {
-          "id": "usa-bel-3",
-          "kategorie": "value",
-          "markt": "Folarin Balogun Torschuetze Jederzeit",
-          "quote": 2.37,
-          "edge_prozent": 7.0,
-          "begruendung": "Turnier-Top-Scorer USA mit 3 Toren aus 0.50 xG = elite Verwertungs-Effizienz. Torschuetzen-Jederzeit Goldgrube (+24.4% ROI n gesamt laut statistik.json). Balogun-Rueckkehr-Motivation + Rache-Wut-Trigger nach entfernter Sperre. Klassen-Duell braucht ihn als Angriffspol. HR07-03-Analogie Stamm-9-Cluster in K.O.-R16. Fair-Line ~2.20. Einsatz 1.5% = 8.25 EUR.",
-          "faire_quote": 2.20,
-          "empfohlener_einsatz_prozent": 1.5,
-          "empfohlener_einsatz_euro": 8.25
         }
       ],
       "kontext_check_status": "OK"
@@ -278,7 +267,7 @@
       "gesamtquote_rechnung": "2.85 x 2.37 = 6.7545",
       "empfohlener_einsatz_prozent": 0.8,
       "empfohlener_einsatz_euro": 4.4,
-      "potentieller_gewinn_euro": 25.30,
+      "potentieller_gewinn_euro": 25.3,
       "begruendung": "Zwei-Volume-9-Torschuetzen-Doppelbein: Ronaldo (POR-Volume-9, 3 Tore Turnier, xG 4.15) plus Balogun (USA-Elite-Effizienz, 3 Tore aus 0.50 xG, Sperre aufgehoben). Balance-Range 6-10x sauber. Kein Sieg-Outcome. Torschuetzen-Jederzeit ist Goldgrube (+24.4% ROI). HR07-06-3 Einwechslungs-Boost-Bonus fuer Ronaldo (Ramos-Direkt-Ersatz-Muster aus POR-CRO R32).",
       "layer_check": "Layer-1 OK, Layer-2 OK (kein Sieg-Outcome), Layer-3 OK (Ronaldo Anytime + Balogun Anytime unique gegenueber Safe-Beinen)"
     },

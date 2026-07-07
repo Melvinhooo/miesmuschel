@@ -556,81 +556,6 @@
   ],
   "einzeltipps": [
     {
-      "id": "ez-1",
-      "spiel_id": "2026-06-10-eng-crc",
-      "spiel_titel": "England vs Costa Rica (WM-Test, Miami)",
-      "kategorie": "safe",
-      "markt": "Ueber 2.5 Tore",
-      "quote": 1.65,
-      "quote_quelle": "Aggregator-Konsens (Stake / Bet365 / SportyTrader 07.06.)",
-      "edge_prozent": 12,
-      "begruendung": "TOP-1 der Woche. DOPPEL-GOLDGRUBE: Liga 'WM-Test' 85.7% HR / +36.5% ROI (Lesson 07.06. WM-Test-Ueber25-80pct-8g validiert) + Markt 'Ueber 2.5 Tore' +29% ROI / 54.5% HR. England-Form-Reset-Druck nach NZ-1:3-Schock + Kane-Karriere-Top-Form (32 Bundesliga-Tore). SAFE-bestaetigt Mapper-Hebel C. Stake 11€ (2.0%).",
-      "bewertung_label": "SAFE",
-      "empfohlener_einsatz_prozent": 2.0,
-      "faire_quote": 1.47,
-      "rang": 1
-    },
-    {
-      "id": "ez-2",
-      "spiel_id": "2026-06-08-fra-nir",
-      "spiel_titel": "Frankreich vs Nordirland (WM-Test, Lille)",
-      "kategorie": "safe",
-      "markt": "Kylian Mbappe trifft jederzeit",
-      "quote": 1.5,
-      "quote_quelle": "Aggregator-Konsens (Sportskeeda / MightyTips 07.06.)",
-      "edge_prozent": 15,
-      "begruendung": "TOP-2. DOPPEL-GOLDGRUBE: Liga 'WM-Test' 85.7% HR + Markt 'Torschuetzen Jederzeit' +23.4% ROI / 41.3% HR (bester Markt im System AKTIV SUCHEN). Mbappe Pichichi 2025/26 (33 Tore La Liga) + Frankreich-Form-Reparatur-Druck nach Cote d'Ivoire 1:2 + Heim-Lille-Test. Pflicht-Profil HEIM-FAVORIT (<1.80) erfuellt. Stake 11€ (2.0%).",
-      "bewertung_label": "SAFE",
-      "empfohlener_einsatz_prozent": 2.0,
-      "faire_quote": 1.32,
-      "rang": 2
-    },
-    {
-      "id": "ez-3",
-      "spiel_id": "2026-06-10-por-ngr",
-      "spiel_titel": "Portugal vs Nigeria (WM-Test, Leiria)",
-      "kategorie": "safe",
-      "markt": "Ueber 2.5 Tore",
-      "quote": 1.55,
-      "quote_quelle": "Aggregator-Konsens (Polymarket / SportyTrader 07.06.)",
-      "edge_prozent": 13,
-      "begruendung": "TOP-3. DOPPEL-GOLDGRUBE: WM-Test Liga + Ueber 2.5 Markt. Beidseitige Volume-Stars Ronaldo (27 Saudi-Tore) + Osimhen (27 Gala-Tore) + Lookman (18 Serie-A) - Top-Form-Trio. Portugal-Heim-Anreiz + Volle-Power-Test. Reality-Check 1.50-2.00: 54.4% HR. Stake 11€ (2.0%).",
-      "bewertung_label": "SAFE",
-      "empfohlener_einsatz_prozent": 2.0,
-      "faire_quote": 1.37,
-      "rang": 3
-    },
-    {
-      "id": "ez-4",
-      "spiel_id": "2026-06-09-per-esp",
-      "spiel_titel": "Peru vs Spanien (WM-Test, Puebla)",
-      "kategorie": "safe",
-      "markt": "Ueber 2.5 Tore",
-      "quote": 1.55,
-      "quote_quelle": "Aggregator-Konsens (1xBet / MightyTips 07.06.)",
-      "edge_prozent": 12,
-      "begruendung": "TOP-4. DOPPEL-GOLDGRUBE: WM-Test Liga + Ueber 2.5 Markt. Massive Klassen-Edge FIFA #2 vs #36 + Spaniens System-Football (52% Saison-Ueber-Rate vor Pre-WM-Tests). Yamal raus = Olmo zentral statt rechts, Stuermer Joselu/Oyarzabal Volumen. Neutraler Platz Puebla = kein Defensiv-Anker Heim. Stake 11€ (2.0%).",
-      "bewertung_label": "SAFE",
-      "empfohlener_einsatz_prozent": 2.0,
-      "faire_quote": 1.39,
-      "rang": 4
-    },
-    {
-      "id": "ez-5",
-      "spiel_id": "2026-06-08-ned-uzb",
-      "spiel_titel": "Niederlande vs Usbekistan (WM-Test, NYC)",
-      "kategorie": "safe",
-      "markt": "Ueber 2.5 Tore",
-      "quote": 1.55,
-      "quote_quelle": "Aggregator-Konsens (ESPN / Polymarket / MightyTips 07.06.)",
-      "edge_prozent": 12,
-      "begruendung": "TOP-5. DOPPEL-GOLDGRUBE: WM-Test Liga + Ueber 2.5 Markt. Massive Klassen-Asymmetrie FIFA #6 vs #57 + Niederlande-Form-Druck nach Algerien-Niederlage + neutraler Platz USA = kein Heim-Defensiv-Anker. Memphis 8-Tore-Form-Anker. Stake 11€ (2.0%).",
-      "bewertung_label": "SAFE",
-      "empfohlener_einsatz_prozent": 2.0,
-      "faire_quote": 1.38,
-      "rang": 5
-    },
-    {
       "id": "ez-6",
       "spiel_id": "2026-06-14-ger-cur",
       "spiel_titel": "Deutschland vs Curacao (WM, Houston)",
@@ -643,7 +568,7 @@
       "bewertung_label": "VALUE",
       "empfohlener_einsatz_prozent": 1.6,
       "faire_quote": 1.25,
-      "rang": 6
+      "rang": 1
     },
     {
       "id": "ez-7",
@@ -658,7 +583,7 @@
       "bewertung_label": "VALUE",
       "empfohlener_einsatz_prozent": 1.5,
       "faire_quote": 1.58,
-      "rang": 7,
+      "rang": 2,
       "_aufstellungs_verifikation_pflicht": true,
       "_torschuetze_quelle_warn": true
     },
@@ -675,7 +600,7 @@
       "bewertung_label": "VALUE",
       "empfohlener_einsatz_prozent": 1.5,
       "faire_quote": 1.5,
-      "rang": 8
+      "rang": 3
     },
     {
       "id": "ez-9",
@@ -690,7 +615,7 @@
       "bewertung_label": "VALUE",
       "empfohlener_einsatz_prozent": 1.5,
       "faire_quote": 1.7,
-      "rang": 9
+      "rang": 4
     },
     {
       "id": "ez-10",
@@ -705,7 +630,7 @@
       "bewertung_label": "VALUE",
       "empfohlener_einsatz_prozent": 1.6,
       "faire_quote": 1.38,
-      "rang": 10
+      "rang": 5
     },
     {
       "id": "ez-11",
@@ -720,7 +645,7 @@
       "bewertung_label": "VALUE",
       "empfohlener_einsatz_prozent": 1.0,
       "faire_quote": 1.9,
-      "rang": 11,
+      "rang": 6,
       "_aufstellungs_verifikation_pflicht": true,
       "_torschuetze_quelle_warn": true
     },
@@ -737,7 +662,7 @@
       "bewertung_label": "VALUE",
       "empfohlener_einsatz_prozent": 1.5,
       "faire_quote": 1.36,
-      "rang": 12
+      "rang": 7
     }
   ],
   "kombis": [],
