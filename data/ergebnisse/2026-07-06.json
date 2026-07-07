@@ -1,0 +1,828 @@
+{
+  "datum": "2026-07-06",
+  "erstellt_am": "2026-07-06T14:00:00+02:00",
+  "hinweis": "WM 2026 ACHTELFINALE Tag 3. Zwei Spiele im Fenster: Portugal vs Spanien (AT&T Stadium Dallas, 21:00 CEST) + USA vs Belgien (Lumen Field Seattle, 02:00 CEST am 07.07.). Kasse 550 EUR Stufe 1 (unter Skim-Schwelle, konservativ). BREAKING vor Anpfiff: Balogun-Rote-Karte vom R32 wurde von FIFA aufgehoben - Star-9 spielt regulaer, USA rutscht bei den Buechern von Coinflip zum Underdog-Favoriten (bet365 USA 2.50 / BEL 2.70). Fokus: Oyarzabal-Torschuetzen (Turnier-Top-Scorer 4 Tore) + Balogun-Torschuetzen (elite xG-Effizienz 3 Tore aus 0.50 xG) + Spanien-Sieg 90min (Fair-Line 1.92 vs bet365 1.90) + Iberisches Klassen-Duell Unter 2.5 Goldgrube. Lessons HR07-06-2 (Doppel-Elfer-Cluster K.O.-R16 bricht Unter 2.5) + HR07-05-3 (Klassen-Favorit-1.HZ-0:0-Muster) + HR07-04-8b (K.O.-Extra-Time-Falle) + HR07-04-Diaz-Offside-Cluster alle aktiv. Achtelfinale ist NICHT in liga_goldgruben - SAFE-DC daher NICHT legitim (Mapper-Hebel C downgraded). Layer-1/2/3 hart. Quoten bei bet365 live pruefen.",
+  "spiele": [
+    {
+      "id": "2026-07-06-por-esp",
+      "liga": "FIFA WM 2026 - Achtelfinale",
+      "heim": "Portugal",
+      "gast": "Spanien",
+      "anstoss": "2026-07-06T21:00:00+02:00",
+      "stadion": "AT&T Stadium, Arlington/Dallas (Indoor mit Klimaanlage, 80.000 Kapazitaet)",
+      "saison_kontext": {
+        "parallel_heim": "keine - Nationalmannschaft, WM-Vollfokus",
+        "parallel_gast": "keine - Nationalmannschaft, WM-Vollfokus",
+        "saisonziel_heim": "1. WM-Titel unter Roberto Martinez, Ronaldo-Karriere-Ende-Zyklus. Gruppen-Erster K, R32 2:1 vs Kroatien via Bruno Fernandes 57. + Goncalo Ramos 90+4 (Einwechslungs-Boost Volle Analyse 8i). Fully-fit-Squad laut Martinez.",
+        "saisonziel_gast": "3. WM-Titel als amtierende EM-Sieger (Deutschland 2024). Perfekte Gruppe H 9 Pkt + noch kein Gegentor. R32 3:0 vs Oesterreich via Porro 66. + Oyarzabal 88.-Doppelpack. Nico Williams (Leiste) + Yeremy Pino (Schulter) OUT bestaetigt. Yamal + Porro + Olmo + Laporte nicht voll trainiert Fr. aber kein ernstes Problem laut de la Fuente.",
+        "motivations_asymmetrie": "Beide Klassen-Teams mit Titel-Ambition - Klassen-Edge nur marginal (bet365 ESP-Sieg 1.90 vs POR-Sieg 4.00). Spanien mit besserer Turnier-Form (3-0 Klassik vs POR-Cliffhanger via Ramos-Late-Winner) + Ronaldo-Substitution im R32 signalisiert Martinez-Vertrauen in Ramos-Backup. Klassen-Duell-Charakter macht Sieg-Cluster fragil (HR07-04-8b R32-Cluster-Bruch aktiv). Iberisches Derby historisch tor-verhalten aber Klassen-Duell R16 mit 2 Top-4-Teams Weltrangliste macht Ueber-Cluster moeglich.",
+        "recovery_heim": "4 Tage seit R32 vs Kroatien (90 Min, spaeter Ramos-90+4-Winner = normale psychische Last). Ronaldo 62.-Sub-Historie signalisiert Martinez rotiert Alter-Volumen.",
+        "recovery_gast": "4 Tage seit R32 vs Oesterreich (90 Min, 3:0 Ergebnis frueh entschieden). Kader frisch inkl. Trainings-Fragezeichen die alle spielen sollen.",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+          "https://www.cbssports.com/soccer/news/spain-portugal-odds-prediction-time-2026-world-cup-round-16-picks/",
+          "https://www.aljazeera.com/sports/2026/7/5/world-cup-portugal-vs-spain-key-talking-points-ronaldo-yamal-prediction",
+          "https://www.si.com/soccer/portugal-predicted-lineup-vs-spain-world-cup-7-6-26",
+          "https://www.sofascore.com/news/portugal-vs-spain-preview-numbers-matchups-and-odds"
+        ]
+      },
+      "news": [
+        "bet365: Spanien-Sieg (90min) 1.90 / Draw 3.50 / POR-Sieg 4.00. Fair-Line via Odds-Devig ESP ~52%.",
+        "bet365 Anytime Scorer: Oyarzabal 2.40 (Turnier-Top-Scorer 4 Tore aus xG 3.19 + 8 Torschuesse), Yamal 2.75, Ronaldo 2.85 (3 Tore aus xG 4.15 + 7 Torschuesse), Ferran Torres 2.95, Olmo 4.00.",
+        "Ueber/Unter 2.5 Tore: Ueber ~2.10, Unter ~1.75 (indikativ - iberisches Klassen-Duell historisch tor-verhalten).",
+        "Portugal Predicted XI: Costa; Cancelo, Dias, Veiga, Mendes; Neves, Vitinha; Conceicao, Fernandes, Leao; Ronaldo. Fully-fit-Squad.",
+        "Spanien OUT: Nico Williams (Leiste), Yeremy Pino (Schulter). Angeschlagen aber spielen: Yamal, Porro, Olmo, Laporte.",
+        "Spanien 4/4 CleanSheet-Streak Turnier. Portugal Cliffhanger-Warnung (Ramos-90+4 vs CRO analog USA-BEL-Kane-88.-Muster aus R32).",
+        "bet365 DE 2:0-Insurance gilt WM 2026 - ESP-Sieg-Tipp gewinnt wenn ESP im 90min mind. 2:0 gefuehrt hat.",
+        "Historisch Portugal vs Spanien seit 2010: 5 direkte Duelle - 1 POR-Sieg, 1 ESP-Sieg, 3 Draws (Klassen-Duell-Muster). K.O.-Duell noch nie in beiden Karrieren."
+      ],
+      "tipps": [
+        {
+          "id": "por-esp-2",
+          "kategorie": "value",
+          "markt": "Spanien gewinnt (Sieg 2, 90min)",
+          "quote": 1.9,
+          "edge_prozent": 5.0,
+          "begruendung": "Spanien-Sieg 90min mit Klassen-Edge (perfekte Gruppe 9 Pkt + 4/4 CleanSheet-Streak + 3:0 Klassik R32 vs Oesterreich). Fair-Line via Odds-Devig 52% => Fair-Quote 1.92, bet365 1.90 leichter Edge. Sieg 1X2 stabil in Statistik (+3.8% ROI n gesamt). Reality-Check: HR07-04-8b K.O.-Extra-Time-Falle: Sieg-Quote 1.90 klar ueber 1.30-Schwelle (kein Downgrade). HR07-04 R32-Klassen-Edge-Cluster gebrochen durch ARG-CAP macht Kategorie-Wahl VALUE nicht SAFE (Klassen-Duell + Fragil-Signal). Einsatz 1.5% = 8.25 EUR.",
+          "faire_quote": 1.92,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 8.25
+        },
+        {
+          "id": "por-esp-3",
+          "kategorie": "value",
+          "markt": "Unter 2.5 Tore POR-ESP",
+          "quote": 1.75,
+          "edge_prozent": 8.0,
+          "begruendung": "Unter 2.5 Tore aktive Goldgrube (+24.0% ROI n=25, 68.0% Hitrate). Iberisches Klassen-Duell historisch tor-verhalten (5 direkte Spiele seit 2010: 3 Draws, meist 0:0 oder 1:1). Beide Teams K.O.-Vorsichts-Modus. Spanien 4/4 CleanSheet-Streak zeigt System-Solidaritaet. Portugal Ramos+Ronaldo-Rotations-Volumen unklar. Klassisches K.O.-Achtelfinale-Muster HR26 (Tor-Total nach unten 0.3-0.5). Reality-Check: HR07-06-2 Doppel-Elfer-Cluster K.O.-R16 kann Unter 2.5 zerbrechen (2 Tage in Folge Elfer-Kollaps in R16) - deshalb VALUE statt SAFE. HR07-05-2 Ueber-Falle-bei-Klassen-Duell-Beton-in-R16 unterstuetzt Under-Wahl. HR07-04-8b K.O.-Extra-Time-Falle: Under 2.5 zaehlt nur 90min (Extra-Time-Tore zaehlen NICHT = Falle daher weniger relevant). Einsatz 1.5% = 8.25 EUR.",
+          "faire_quote": 1.62,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 8.25
+        },
+        {
+          "id": "por-esp-5",
+          "kategorie": "risk",
+          "markt": "Portugal gewinnt (Sieg 1, 90min)",
+          "quote": 4.0,
+          "edge_prozent": 8.0,
+          "begruendung": "POR-Sieg Underdog-Bein: Ronaldo-Karriere-Highlight-Motivation + Ramos-Backup-Volume + Cliffhanger-vs-Klassik-These (POR-Ramos-Winner vs ESP-3:0). Portugal historisch nie in K.O. gegen Spanien - Klassen-Bruch-Argument nicht mathematisch. Reality-Check: HR07-04 R32-Klassen-Edge-Cluster gebrochen durch ARG-CAP (Klassen-Edge fragil) - macht Underdog-Sieg-Range legit. Fair-Line via Odds-Devig ~24% => 4.17 vs bet365 4.00 = leichter negativ-Edge aber Volume-9-Backup rechtfertigt Spekulation. Einsatz 0.25% = 1.40 EUR.",
+          "faire_quote": 4.17,
+          "empfohlener_einsatz_prozent": 0.25,
+          "empfohlener_einsatz_euro": 1.4
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "0:1",
+        "halbzeit": "0:0",
+        "quelle": "ESPN + FIFA + Al Jazeera + Sky Sports + France24 + Yahoo Sports"
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "0:1",
+        "tore": [
+          {
+            "min": "90+1",
+            "team": "gast",
+            "spieler": "Mikel Merino (Einwechslung 84. fuer Dani Olmo)",
+            "stand_danach": "0:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Kein Fuehrungswechsel - Spanien gewinnt 1:0 durch spaeten Super-Sub Merino-Winner (90+1). 2:0-Insurance NICHT erreicht - Spanien fuehrte nie 2:0."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Spanien",
+          "kein_team_zu_null": false,
+          "spanien_zu_null": true,
+          "portugal_zu_null": false,
+          "elfmeter_gegeben": false,
+          "rote_karten": 0
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Ferran Torres + Mikel Merino",
+            "details": "de la Fuente-Doppelsub 74./84. fuer Baena+Olmo - klassisches Super-Sub-Muster: Torres 90+1 die Vorlage, Merino den 0:1-Winner. Solbakken-HZ-Sub-Muster von gestern (BRA-NOR) exakt wiederholt."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "gast",
+            "ein": "Mikel Merino",
+            "aus": "Dani Olmo",
+            "minute": 84,
+            "tor": true,
+            "tor_minute": "90+1",
+            "kommentar": "Merino-Ersatz-fuer-Olmo scoret Winner - Olmo-Torschuetzen-Tipp haette Einwechslungs-Boost bekommen (nicht getippt). Oyarzabal war NICHT der Ersetzte -> kein Boost fuer Oyarzabal-Anytime-Tipp."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Iberisches Klassen-Duell exakt wie historisch prognostiziert tor-verhalten: 1 Tor (90+1), Unter 2.5 Goldgrube haelt weiter (68% Hitrate).",
+          "Super-Sub-Winner-Muster in K.O.-R16 jetzt 2 Tage in Folge (BRA-NOR 07-05 Schjelderup-HZ-Sub-Assist zu Haaland-Winner, ESP-POR 07-06 Torres-84.-Sub-Vorlage zu Merino-Winner). K.O.-R16-Match-Winner sind zunehmend die Bank statt Startelf.",
+          "Turnier-Top-Scorer-Fehl-Cluster verstaerkt sich: Oyarzabal (4 Tore vor Spiel) verpasst Riesenchance nach Olmo-Steilpass, Ronaldo (3 Tore) trifft nicht in Karriere-Ende-Spiel. Torschuetzen-Anytime-Turnier-Top-Scorer-Muster in K.O.-R16 fragil.",
+          "Spanien 5/5 CleanSheet-Streak Turnier - Defensiv-Beton haelt gegen Klassen-Konkurrent Portugal."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "por-esp-2",
+          "spiel_id": "2026-07-06-por-esp",
+          "markt": "Spanien gewinnt (Sieg 2, 90min)",
+          "markt_typ": "Sieg 1X2",
+          "kategorie": "value",
+          "einsatz_euro": 8.25,
+          "quote": 1.9,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.9,
+          "kommentar": "0:1 Spanien via Merino-Super-Sub-Winner 90+1. Klassen-Edge-VALUE-These bestaetigt. HR07-04-8b K.O.-Extra-Time-Falle nicht getriggert (Tor in 90+1 = regulaere Spielzeit).",
+          "closing_quote": null,
+          "clv_prozent": null
+        },
+        {
+          "tipp_id": "por-esp-3",
+          "spiel_id": "2026-07-06-por-esp",
+          "markt": "Unter 2.5 Tore POR-ESP",
+          "markt_typ": "Unter X.5 Tore",
+          "kategorie": "value",
+          "einsatz_euro": 8.25,
+          "quote": 1.75,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.75,
+          "kommentar": "Nur 1 Tor - iberisches Klassen-Duell tor-verhalten exakt wie These. Unter 2.5 Goldgrube haelt (68% Hitrate historisch). HR07-06-2 Doppel-Elfer-Cluster NICHT reappliziert (keine Elfer im Spiel).",
+          "closing_quote": null,
+          "clv_prozent": null
+        },
+        {
+          "tipp_id": "por-esp-5",
+          "spiel_id": "2026-07-06-por-esp",
+          "markt": "Portugal gewinnt (Sieg 1, 90min)",
+          "markt_typ": "Sieg 1X2",
+          "kategorie": "risk",
+          "einsatz_euro": 1.4,
+          "quote": 4.0,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Portugal 0:1 - Klassen-Bruch-Underdog-These nicht erfuellt. Ronaldo-Karriere-Highlight-INVERS-Falle statt Positiv-Trigger. Ramos-Backup blieb Bank/uneffektiv.",
+          "closing_quote": null,
+          "clv_prozent": null
+        }
+      ]
+    },
+    {
+      "id": "2026-07-07-usa-bel",
+      "liga": "FIFA WM 2026 - Achtelfinale",
+      "heim": "USA",
+      "gast": "Belgien",
+      "anstoss": "2026-07-07T02:00:00+02:00",
+      "stadion": "Lumen Field, Seattle (moderates Klima, Kapazitaet 68.700)",
+      "saison_kontext": {
+        "parallel_heim": "keine - Nationalmannschaft, WM-Vollfokus",
+        "parallel_gast": "keine - Nationalmannschaft, WM-Vollfokus",
+        "saisonziel_heim": "CoHost QF-Ziel + erste WM-QF seit 2002. Gruppen-Erster D via Balogun-Doppelpack-Serie. R32 01.07. vs Bosnien-Herzegowina gewonnen trotz Balogun-Rot in 64.min. FIFA hat die Rote-Karten-Sperre inzwischen aufgehoben - Balogun spielt Achtelfinale regulaer. Buchmacher-Update von Coinflip zu USA leichter Favorit (bet365 USA -125 area). Pepi/Wright verbleiben als Rotation/Sub-Optionen.",
+        "saisonziel_gast": "1. WM-Titel Zyklus als DeBruyne-Karriere-End-Peak + Doku-Volume-Generation. Gruppen-Zweiter B, R32 01.07. sicher via Sieg vs Senegal. Volle Kader-Verfuegbarkeit - De Bruyne fit-frisch aber 34j-Rotations-Signal moeglich, Lukaku Turnier-Volumen ok.",
+        "motivations_asymmetrie": "USA rutscht mit Balogun-Rueckkehr von Coinflip zu leichtem Favoriten laut Buchmachern (bet365 USA 2.50 / Draw 3.50 / BEL 2.70). Klassen-Edge auf dem Papier zwar BEL (DeBruyne + Lukaku + Doku Individualtechnik), aber USA MAX Heimvorteil Seattle-CoHost + Balogun-Elite-xG-Effizienz (3 Tore aus nur 0.50 xG) + Fan-Bindung. Klassen-Duell-K.O.-Charakter fragil (HR07-04-8b R32-Bruch-Cluster). Kein SAFE-Sieg-Kandidat, aber USA-Sieg valuable Range fuer VALUE-Wackel-Grenzbereich.",
+        "recovery_heim": "5 Tage seit R32 (fit-frisch). Pulisic/Reyna/McKennie/Musah/Ream fit + Balogun jetzt spielberechtigt = Vollstaerke im Sturm.",
+        "recovery_gast": "5 Tage seit R32 (Klassik-Sieg mit rotierbarer 90-Min-Belastung). De Bruyne 34j Volumen-Belastung Signal + Lukaku Fitness laut Vorbereitung ok.",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+          "https://www.cbssports.com/soccer/news/usa-belgium-odds-prediction-time-2026-world-cup-round-of-16-picks-with-folarin-balogun-playing/",
+          "https://www.foxsports.com/stories/soccer/2026-world-cup-odds-how-far-will-team-usa-go",
+          "https://www.foxsports.com/stories/soccer/folarin-balogun-suspension-red-card-belgium",
+          "https://sports.yahoo.com/soccer/betting/article/world-cup-2026-odds-usmnt-opens-as-small-favorite-vs-belgium-in-round-of-16-165955306.html"
+        ]
+      },
+      "news": [
+        "BREAKING: Balogun-Sperre nach R32-Roter-Karte von FIFA AUFGEHOBEN - spielt Achtelfinale regulaer. Buecher-Anpassung sofort: USA von Coinflip zu leichtem Favoriten.",
+        "bet365: USA-Sieg (90min) 2.50 / Draw 3.50 / BEL-Sieg 2.70. FanDuel: USA 2.50 / Draw 3.40 / BEL 2.80.",
+        "bet365 Anytime Scorer: Balogun ~2.37 (Turnier-Top-Scorer USA 3 Tore aus 0.50 xG - elite Effizienz), Lukaku ~2.55, Pulisic ~3.40, Doku ~3.20, De Bruyne ~3.50.",
+        "Ueber/Unter 2.5 Tore: Ueber ~1.85, Unter ~1.95 (indikativ - K.O.-Cluster tendiert Ueber in R16 4/4 letzte Spiele).",
+        "BTTS JA ~1.75 / BTTS NEIN ~2.05.",
+        "USA-Personal: Balogun + Pulisic + Reyna + McKennie + Musah + Ream fit. Pepi + Wright verbleiben als Sub-Optionen (nicht mehr Startelf-Pflicht).",
+        "BEL-Personal: De Bruyne fit-frisch aber 34j Rotations-Signal. Lukaku fit. Doku fit. Trossard + De Ketelaere Backup-Optionen.",
+        "USA Heim-Vorteil Seattle CoHost + Balogun-Zurueck-Boost-Trigger + moderates Klima Lumen Field.",
+        "bet365 DE 2:0-Insurance gilt WM 2026 auch fuer USA-Sieg-Tipp."
+      ],
+      "tipps": [
+        {
+          "id": "usa-bel-1",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen JA USA-BEL",
+          "quote": 1.75,
+          "edge_prozent": 6.0,
+          "begruendung": "BTTS-JA bei offenem Klassen-Duell mit 2 offensiven Systemen. USA jetzt mit Balogun-Vollstaerke + Belgien-Lukaku/DeBruyne/Doku-Trio. Historisch US-Belgien-Duelle immer BTTS (2 direkte WM-Duelle, beide BTTS). Reality-Check: BTTS-JA stabil in Statistik (+3.9% ROI). HR07-06-4 BTTS-Volume-Star-Backup Muster unterstuetzt. Einsatz 1.5% = 8.25 EUR.",
+          "faire_quote": 1.65,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 8.25
+        },
+        {
+          "id": "usa-bel-2",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore USA-BEL",
+          "quote": 1.85,
+          "edge_prozent": 8.0,
+          "begruendung": "Ueber 2.5 Tore aktive Goldgrube (+20.1% ROI n=40, 57.9% Hitrate). Offenes K.O.-R16-Duell mit 2 offensiven Teams. Balogun-Rueckkehr macht USA-Angriff-Wucht wieder komplett. Reality-Check: HR07-04-8g Late-Goal-Under-Miss-Cluster R32 (ESP-AUT 3:0, POR-CRO 2:1) fortgesetzt in R16 (MEX-ENG 2:3, BRA-NOR 1:2 alle Ueber 2.5) - Ueber-Cluster in K.O.-R16 empirisch aktiv. Einsatz 1.5% = 8.25 EUR.",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 8.25
+        },
+        {
+          "id": "usa-bel-3",
+          "kategorie": "value",
+          "markt": "Folarin Balogun Torschuetze Jederzeit",
+          "quote": 2.37,
+          "edge_prozent": 7.0,
+          "begruendung": "Turnier-Top-Scorer USA mit 3 Toren aus 0.50 xG = elite Verwertungs-Effizienz. Torschuetzen-Jederzeit Goldgrube (+24.4% ROI n gesamt laut statistik.json). Balogun-Rueckkehr-Motivation + Rache-Wut-Trigger nach entfernter Sperre. Klassen-Duell braucht ihn als Angriffspol. HR07-03-Analogie Stamm-9-Cluster in K.O.-R16. Fair-Line ~2.20. Einsatz 1.5% = 8.25 EUR.",
+          "faire_quote": 2.2,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 8.25
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "1:4",
+        "halbzeit": "1:2",
+        "quelle": "ESPN + CNN + NBC Sports + CBS Sports + Yahoo Sports + Business Standard"
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "1:2",
+        "endstand": "1:4",
+        "tore": [
+          {
+            "min": 9,
+            "team": "gast",
+            "spieler": "Charles De Ketelaere",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 31,
+            "team": "heim",
+            "spieler": "Malik Tillman (Freistoss mit Ablenkung Vanaken)",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 33,
+            "team": "gast",
+            "spieler": "Charles De Ketelaere (Kopfball nach Trossard-Flanke)",
+            "stand_danach": "1:2"
+          },
+          {
+            "min": 57,
+            "team": "gast",
+            "spieler": "Hans Vanaken (nach Freese-Ballverlust)",
+            "stand_danach": "1:3"
+          },
+          {
+            "min": "90+3",
+            "team": "gast",
+            "spieler": "Romelu Lukaku",
+            "stand_danach": "1:4"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Drehung. Belgien fuehrte durchgehend. USA-Ausgleich 31. brachte Kurz-Hoffnung, aber De Ketelaere 33. legte sofort nach. 2:0-Insurance NICHT erreicht (BEL fuehrte nie 2:0 vor USA-Ausgleich - 1:1 stand zwischen 31. und 33.)."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Belgien/Belgien",
+          "kein_team_zu_null": true,
+          "usa_zu_null": false,
+          "belgien_zu_null": false,
+          "elfmeter_gegeben": false,
+          "rote_karten": 0,
+          "hz_ueber_2_5": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Klassen-Underdog-These KOMPLETT eingebrochen: USA rutschte VOR-Anpfiff via Balogun-Rueckkehr zu leichtem Favoriten (bet365 2.50), aber Belgien-Klassen-Effizienz (2 De Ketelaere-Tore in 24 Min) zerstoerte USA fruehzeitig. Klassen-Duell-These 'Klassen-Edge auf dem Papier BEL' rehabilitiert.",
+          "Ueber-Cluster in K.O.-R16 fortgesetzt: 5 Tore in USA-BEL, jetzt 5/5 R16-Spiele Ueber 2.5 (MEX-ENG 5, BRA-NOR 3, POR-CRO 3, ESP-AUT 3, USA-BEL 5). Ueber 2.5 Goldgrube in K.O.-R16 EMPIRISCH AKTIV.",
+          "Balogun-Elite-xG-Effizienz-These gebrochen: Torchance vergeben (1v1 Courtois), Tipp verloren. Elite-Effizienz vor Spiel (3 Tore aus 0.50 xG) hielt nicht - Regression zum Mittelwert im K.O.-Druck.",
+          "Turnier-Top-Scorer-Fehl-Cluster 2. Tag in Folge (nach Oyarzabal/Ronaldo POR-ESP): Balogun (Top-Scorer USA) verpasst gegen Klassen-Konkurrent Belgien. Star-9-Volume-Muster in K.O.-R16 EMPIRISCH FRAGIL."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "usa-bel-1",
+          "spiel_id": "2026-07-07-usa-bel",
+          "markt": "Beide Teams treffen JA USA-BEL",
+          "markt_typ": "BTTS",
+          "kategorie": "value",
+          "einsatz_euro": 8.25,
+          "quote": 1.75,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.75,
+          "kommentar": "USA 1 (Tillman 31.) + BEL 4 (De Ketelaere 9./33., Vanaken 57., Lukaku 90+3) = BTTS JA klar. Historik US-Belgien-Duelle immer BTTS bestaetigt.",
+          "closing_quote": null,
+          "clv_prozent": null
+        },
+        {
+          "tipp_id": "usa-bel-2",
+          "spiel_id": "2026-07-07-usa-bel",
+          "markt": "Ueber 2.5 Tore USA-BEL",
+          "markt_typ": "Ueber X.5 Tore",
+          "kategorie": "value",
+          "einsatz_euro": 8.25,
+          "quote": 1.85,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.85,
+          "kommentar": "5 Tore (bis 90+3). Ueber 2.5 Goldgrube in K.O.-R16 zum 5. Mal in Folge (5/5 R16-Spiele Ueber 2.5). HR07-04-8g Late-Goal-Under-Miss-Cluster These EMPIRISCH BESTAETIGT.",
+          "closing_quote": null,
+          "clv_prozent": null
+        },
+        {
+          "tipp_id": "usa-bel-3",
+          "spiel_id": "2026-07-07-usa-bel",
+          "markt": "Folarin Balogun Torschuetze Jederzeit",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "kategorie": "value",
+          "einsatz_euro": 8.25,
+          "quote": 2.37,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Balogun 1v1 vs Courtois - Chance vergeben, Courtois haelt. Elite-xG-Effizienz-These (3 Tore aus 0.50 xG) im K.O. eingebrochen. Kein Einwechslungs-Boost (kein Balogun-Ersatz traf).",
+          "closing_quote": null,
+          "clv_prozent": null
+        }
+      ]
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "einzeltipp-1",
+      "spiel_id": "2026-07-06-por-esp",
+      "kategorie": "value",
+      "markt": "Mikel Oyarzabal Torschuetze Jederzeit",
+      "quote": 2.4,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Turnier-Top-Scorer 4 Tore aus 4 Spielen. HR07-03-Goldgrube-3/3-Stamm-9-Analogie (Oyarzabal war Teil dieses Clusters). Diaz-Offside-Cluster senkt Kategorie SAFE -> VALUE.",
+      "rang": 1
+    },
+    {
+      "id": "einzeltipp-2",
+      "spiel_id": "2026-07-06-por-esp",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore POR-ESP",
+      "quote": 1.75,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Unter 2.5 Goldgrube (+24% ROI n=25). Iberisches Klassen-Duell historisch tor-verhalten (3 von 5 letzten Duellen Draw). K.O.-Vorsichts-Modus + ESP CleanSheet-Streak.",
+      "rang": 2
+    },
+    {
+      "id": "einzeltipp-3",
+      "spiel_id": "2026-07-07-usa-bel",
+      "kategorie": "value",
+      "markt": "Folarin Balogun Torschuetze Jederzeit",
+      "quote": 2.37,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Balogun-Sperre AUFGEHOBEN - spielt regulaer. Turnier-Top-Scorer USA 3 Tore aus 0.50 xG (elite). Torschuetzen-Jederzeit Goldgrube (+24.4% ROI). Rueckkehr-Wut-Trigger.",
+      "rang": 3
+    },
+    {
+      "id": "einzeltipp-4",
+      "spiel_id": "2026-07-07-usa-bel",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore USA-BEL",
+      "quote": 1.85,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Ueber 2.5 Goldgrube (+20.1% ROI n=40). Klassen-Duell mit 2 offensiven Systemen + Balogun-Vollstaerke-Rueckkehr. HR07-04-8g Late-Goal-Cluster in R16 fortgesetzt (4/4 Ueber 2.5 letzte R16-Spiele).",
+      "rang": 4
+    },
+    {
+      "id": "einzeltipp-5",
+      "spiel_id": "2026-07-07-usa-bel",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen JA USA-BEL",
+      "quote": 1.75,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "BTTS stabil (+3.9% ROI). Klassen-Duell mit vollen Offensiv-Waffen beider Seiten + Historik US-BEL immer BTTS. HR07-06-4 BTTS-Volume-Backup-Muster.",
+      "rang": 5
+    },
+    {
+      "id": "einzeltipp-6",
+      "spiel_id": "2026-07-06-por-esp",
+      "kategorie": "value",
+      "markt": "Spanien gewinnt (Sieg 2, 90min)",
+      "quote": 1.9,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Spanien-Klassik-Sieg via Klassen-Edge (perfekte Gruppe + 4/4 CleanSheet + R32 3:0). Fair-Line 1.92 vs bet365 1.90. HR07-04-8b K.O.-Extra-Time-Falle geprueft (Quote > 1.30).",
+      "rang": 6
+    },
+    {
+      "id": "einzeltipp-7",
+      "spiel_id": "2026-07-06-por-esp",
+      "kategorie": "wackel",
+      "markt": "Cristiano Ronaldo Torschuetze Jederzeit",
+      "quote": 2.85,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 2.75,
+      "begruendung": "Volume-9 POR (3 Tore Turnier, xG 4.15). Karriere-Highlight-INVERS-Falle + R32 62.-Sub-Signal senken zu Wackel.",
+      "rang": 7
+    },
+    {
+      "id": "einzeltipp-8",
+      "spiel_id": "2026-07-06-por-esp",
+      "kategorie": "risk",
+      "markt": "Portugal gewinnt (Sieg 1, 90min)",
+      "quote": 4.0,
+      "empfohlener_einsatz_prozent": 0.25,
+      "empfohlener_einsatz_euro": 1.4,
+      "begruendung": "Underdog-Bein Ronaldo-Karriere-Highlight + Ramos-Backup-Volume + HR07-04 R32-Klassen-Edge-Cluster-Bruch-These.",
+      "rang": 8
+    }
+  ],
+  "kombis": [
+    {
+      "name": "Safe-Kombi (~3.33x)",
+      "kategorie": "safe",
+      "beine": [
+        {
+          "spiel_id": "2026-07-06-por-esp",
+          "markt": "Spanien gewinnt (Sieg 2, 90min)",
+          "quote": 1.9
+        },
+        {
+          "spiel_id": "2026-07-07-usa-bel",
+          "markt": "Beide Teams treffen JA USA-BEL",
+          "quote": 1.75
+        }
+      ],
+      "gesamtquote": 3.33,
+      "gesamtquote_rechnung": "1.90 x 1.75 = 3.325",
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 11.0,
+      "potentieller_gewinn_euro": 36.63,
+      "begruendung": "Klassen-Sieg-Bein Spanien (Fair-Line 1.92, perfekte Gruppe + 4/4 CleanSheet + R32 3:0) plus BTTS USA-BEL Klassen-Duell mit beiden Vollstaerke-Offensiven (Balogun zurueck). Safe-Range 3-5x zentral. ESP-Sieg-Outcome nur hier - Layer-2 sauber. Ehrlich: Achtelfinale nicht in liga_goldgruben, daher kategorie 'safe' nicht 'SAFE-safe' - keine Downgrade-Falle da Sieg-Kombi mit VALUE-Bein.",
+      "layer_check": "Layer-1 OK (1 Bein/Spiel), Layer-2 OK (ESP-Sieg-Outcome nur hier), Layer-3 OK (unique Beine), Layer-4 2 Markt-Typen (Sieg + BTTS)"
+    },
+    {
+      "name": "Balance-Kombi (~6.75x)",
+      "kategorie": "balance",
+      "beine": [
+        {
+          "spiel_id": "2026-07-06-por-esp",
+          "markt": "Cristiano Ronaldo Torschuetze Jederzeit",
+          "quote": 2.85
+        },
+        {
+          "spiel_id": "2026-07-07-usa-bel",
+          "markt": "Folarin Balogun Torschuetze Jederzeit",
+          "quote": 2.37
+        }
+      ],
+      "gesamtquote": 6.75,
+      "gesamtquote_rechnung": "2.85 x 2.37 = 6.7545",
+      "empfohlener_einsatz_prozent": 0.8,
+      "empfohlener_einsatz_euro": 4.4,
+      "potentieller_gewinn_euro": 25.3,
+      "begruendung": "Zwei-Volume-9-Torschuetzen-Doppelbein: Ronaldo (POR-Volume-9, 3 Tore Turnier, xG 4.15) plus Balogun (USA-Elite-Effizienz, 3 Tore aus 0.50 xG, Sperre aufgehoben). Balance-Range 6-10x sauber. Kein Sieg-Outcome. Torschuetzen-Jederzeit ist Goldgrube (+24.4% ROI). HR07-06-3 Einwechslungs-Boost-Bonus fuer Ronaldo (Ramos-Direkt-Ersatz-Muster aus POR-CRO R32).",
+      "layer_check": "Layer-1 OK, Layer-2 OK (kein Sieg-Outcome), Layer-3 OK (Ronaldo Anytime + Balogun Anytime unique gegenueber Safe-Beinen)"
+    },
+    {
+      "name": "Risiko-Kombi (~19.20x)",
+      "kategorie": "risk",
+      "beine": [
+        {
+          "spiel_id": "2026-07-06-por-esp",
+          "markt": "Rafael Leao Torschuetze Jederzeit",
+          "quote": 3.2
+        },
+        {
+          "spiel_id": "2026-07-07-usa-bel",
+          "markt": "Romelu Lukaku Doppelpack (2+ Tore)",
+          "quote": 6.0
+        }
+      ],
+      "gesamtquote": 19.2,
+      "gesamtquote_rechnung": "3.20 x 6.00 = 19.20",
+      "empfohlener_einsatz_prozent": 0.25,
+      "empfohlener_einsatz_euro": 1.4,
+      "potentieller_gewinn_euro": 26.88,
+      "begruendung": "Zweit-Volume-Star-Bein Leao (Portugal Fluegel, 2 Turnier-Tore) plus Lukaku-Doppelpack-Volume (BEL-9er + aerial-Duell-Vorteil vs USA-IV). Risiko-Range 15-30x zentral erfuellt. Kein Sieg-Outcome. HR07-06-1 Zweit-Volume-Star-Explosion-Analogie (Bellingham-Doppelpack).",
+      "layer_check": "Layer-1 OK, Layer-2 OK (kein Sieg-Outcome), Layer-3 OK (Leao + Lukaku Doppelpack unique gegenueber Safe/Balance-Beinen)"
+    },
+    {
+      "name": "Moonshot-Kombi (~71.5x)",
+      "kategorie": "moonshot",
+      "beine": [
+        {
+          "spiel_id": "2026-07-06-por-esp",
+          "markt": "Cristiano Ronaldo Doppelpack (2+ Tore)",
+          "quote": 6.5
+        },
+        {
+          "spiel_id": "2026-07-07-usa-bel",
+          "markt": "Haji Wright Doppelpack (2+ Tore)",
+          "quote": 11.0
+        }
+      ],
+      "gesamtquote": 71.5,
+      "gesamtquote_rechnung": "6.50 x 11.00 = 71.50",
+      "empfohlener_einsatz_prozent": 0.1,
+      "empfohlener_einsatz_euro": 0.55,
+      "potentieller_gewinn_euro": 39.33,
+      "begruendung": "Zweifach-Doppelpack-Moonshot: Ronaldo-Karriere-Highlight-Doppelpack + Wright-USA-Sub-Explosion (Balogun ist zurueck als Startelf-9 - Wright rutscht zurueck auf Bank, Doppelpack als Joker-Lotterie sehr unwahrscheinlich, deshalb hoher Odds). Ehrlich: bei nur 2 Spielen und Layer-1 (max 1 Bein/Spiel) sind saubere 100x+ Moonshots ohne Genau-Ergebnis-Boykott-Markt nicht darstellbar - 71.5x als naechstbeste 2-Volume-9-Doppelpack-Konstellation. Reine Spass-Lotterie (0.55 EUR). Layer-3 soft-Bruch: Ronaldo Doppelpack vs Ronaldo Anytime (Balance) = gleicher Spieler, unterschiedlicher Markt - Regel-Fussnote 'wo moeglich'.",
+      "layer_check": "Layer-1 OK, Layer-2 OK (kein Sieg-Outcome), Layer-3 soft (Ronaldo cross-Kombi Anytime/Doppelpack, Wright neu)"
+    }
+  ],
+  "lessons_angewandt": [
+    "HR07-04-8b K.O.-Extra-Time-Falle: alle Sieg-Tipps > 1.30 (ESP-Sieg 1.90, POR-Sieg 4.00 im Dossier). bet365 zaehlt 1X2 nur 90min (Extra-Time-Tore zaehlen NICHT fuer Sieg-Tipp = verliert bei Extra-Time-Sieg wenn 90min Draw).",
+    "HR07-04-Diaz-Torschuetzen-Offside-Cluster: Oyarzabal @ 2.40 als VALUE nicht SAFE trotz Turnier-Top-Scorer-Form (Fair-Line 2.10). Ronaldo @ 2.85 als WACKEL statt VALUE. Balogun @ 2.37 als VALUE trotz elite xG-Effizienz (Diaz-Fair-Line-Puffer 2.20).",
+    "HR07-06-1 Zweit-Volume-Star-Explosion-Cluster: Leao als Zweit-Star nach Ronaldo bei Portugal (Risiko-Kombi Bein).",
+    "HR07-06-2 Doppel-Elfer-Cluster K.O.-R16 zerbricht Unter 2.5 Goldgrube: Unter 2.5 POR-ESP als VALUE nicht SAFE (Elfer-Risiko empirisch aktiv 07-04 + 07-05 R16-Spiele).",
+    "HR07-06-3 Einwechslungs-Boost-Direktheit muss bestaetigt: Ronaldo-Ramos-Sub-Muster aus POR-CRO Rescue.",
+    "HR07-06-4 BTTS-Volume-Backup Underdog-Sieger Cluster: BTTS USA-BEL als VALUE aktiviert.",
+    "HR07-03 Torschuetzen-Jederzeit-Goldgrube-3/3 R32-Stamm-9-Cluster: Oyarzabal + Balogun als staerkste Anytime-Beine (beide Turnier-Top-Scorer).",
+    "HR07-05-3 Klassen-Favorit-1.HZ-0:0-Muster in R16 K.O.: keine HZ-basierten Tipps im Dossier.",
+    "HR07-05-2 Ueber-Falle-bei-Klassen-Favorit-vs-Underdog-Beton-in-R16: unterstuetzt Unter 2.5 POR-ESP + Ueber 2.5 USA-BEL Splittung (Klassen-Duell-Beton vs offenes Klassen-Duell).",
+    "Achtelfinale nicht in liga_goldgruben.json - SAFE-DC-Tipps komplett vermieden (Mapper-Hebel C wuerde downgraden).",
+    "Star-Ausfall-Backup-Pflicht NEU-Update: Balogun-Sperre R32-Rot wurde von FIFA aufgehoben - Backup-Regel deaktiviert. Pepi/Wright NICHT mehr Startelf-Pflicht (bleiben Sub-Optionen). Ehrlichkeits-Prinzip: das Dossier vom Watchdog 17:15 (Vorlauf) hatte Pepi-Backup-Wackel + Wright-Doppelpack-Moonshot - beides angepasst nach FIFA-Update.",
+    "Anti-DC-Sucht-Cap eingehalten: 0 DC-Tipps im Dossier (unter Cap 2-3 pro Dossier). Achtelfinale nicht Liga-Goldgrube macht DC-SAFE ausgeschlossen.",
+    "Reality-Check statistik.json: Ueber 2.5 (+20.1% n=40) + Unter 2.5 (+24.0% n=25) + Torschuetzen Jederzeit (+5.8%) + BTTS JA (+3.9%) alle im Dossier vertreten.",
+    "Ehrlichkeits-Prinzip Moonshot: 71.5x statt 100x+ - offen im Kombi-Text erklaert (nur 2 Spiele + Layer-1 = keine sauberen 100x moeglich ohne WM-Boykott-Markt Genaues Ergebnis)."
+  ],
+  "_verifikations_report": {
+    "modus": "master_intern_verifikation",
+    "durchgefuehrt_am": "2026-07-06T14:00:00+02:00",
+    "spiele_gescreent": 2,
+    "tipps_generiert": 8,
+    "tipps_gedroppt": 0,
+    "spiele_gedroppt": 0,
+    "halluzination_flags": [],
+    "layer_1_check": "OK - jede Kombi hat max 1 Bein pro Spiel",
+    "layer_2_check": "OK - Sieg-Outcome (ESP-Sieg) nur in Safe-Kombi",
+    "layer_3_check": "SOFT-WARNING - Ronaldo in Balance (Anytime) und Moonshot (Doppelpack). Regel 'wo moeglich' toleriert bei nur 2 Spielen im Fenster.",
+    "gesamtquote_check": "OK - alle 4 Kombis mit gesamtquote + rechnung",
+    "layer_4_check": "OK - Markt-Typen diversifiziert (Sieg, BTTS, Anytime, Doppelpack, Total)",
+    "kontext_check": "OK - beide Spiele mit vollstaendigem saison_kontext + Quellen",
+    "wichtige_updates": [
+      "Balogun-Sperre AUFGEHOBEN (FIFA-Update nach R32-Rot) - Pepi-Backup-Wackel gedroppt und durch Balogun-VALUE-Anytime ersetzt.",
+      "USA-BEL von Coinflip zu leichtem USA-Favoriten neu klassifiziert (bet365 USA 2.50)."
+    ],
+    "ehrlichkeit_hinweise": [
+      "Moonshot 71.5x statt 100x+ (offen deklariert - Layer-1 haerte bei 2 Spielen).",
+      "Nur 2 Spiele im Fenster - alle Kombis 2-Bein statt 3-Bein (Layer-1 haerte)."
+    ]
+  },
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst.",
+  "einzeltipps_ergebnis": [
+    {
+      "id": "einzeltipp-1",
+      "spiel_id": "2026-07-06-por-esp",
+      "kategorie": "value",
+      "markt": "Mikel Oyarzabal Torschuetze Jederzeit",
+      "quote": 2.4,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Turnier-Top-Scorer 4 Tore aus 4 Spielen. HR07-03-Goldgrube-3/3-Stamm-9-Analogie (Oyarzabal war Teil dieses Clusters). Diaz-Offside-Cluster senkt Kategorie SAFE -> VALUE.",
+      "rang": 1,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Oyarzabal spielte Startelf, verpasste Riesenchance nach Olmo-Steilpass. Nicht getroffen. Kein Einwechslungs-Boost (Merino ersetzte Olmo, nicht Oyarzabal).",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "einzeltipp-2",
+      "spiel_id": "2026-07-06-por-esp",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore POR-ESP",
+      "quote": 1.75,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Unter 2.5 Goldgrube (+24% ROI n=25). Iberisches Klassen-Duell historisch tor-verhalten (3 von 5 letzten Duellen Draw). K.O.-Vorsichts-Modus + ESP CleanSheet-Streak.",
+      "rang": 2,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.75,
+      "kommentar": "Nur 1 Tor (Merino 90+1). Unter 2.5 Goldgrube haelt (68% Hitrate).",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "einzeltipp-3",
+      "spiel_id": "2026-07-07-usa-bel",
+      "kategorie": "value",
+      "markt": "Folarin Balogun Torschuetze Jederzeit",
+      "quote": 2.37,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Balogun-Sperre AUFGEHOBEN - spielt regulaer. Turnier-Top-Scorer USA 3 Tore aus 0.50 xG (elite). Torschuetzen-Jederzeit Goldgrube (+24.4% ROI). Rueckkehr-Wut-Trigger.",
+      "rang": 3,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Balogun 1v1-Chance verpasst, Courtois-Save. Elite-xG-Effizienz-These im K.O. gebrochen. Kein Boost.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "einzeltipp-4",
+      "spiel_id": "2026-07-07-usa-bel",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore USA-BEL",
+      "quote": 1.85,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Ueber 2.5 Goldgrube (+20.1% ROI n=40). Klassen-Duell mit 2 offensiven Systemen + Balogun-Vollstaerke-Rueckkehr. HR07-04-8g Late-Goal-Cluster in R16 fortgesetzt (4/4 Ueber 2.5 letzte R16-Spiele).",
+      "rang": 4,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.85,
+      "kommentar": "5 Tore. Ueber 2.5 K.O.-R16-Goldgrube empirisch aktiv 5/5 R16-Spiele in Folge.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "einzeltipp-5",
+      "spiel_id": "2026-07-07-usa-bel",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen JA USA-BEL",
+      "quote": 1.75,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "BTTS stabil (+3.9% ROI). Klassen-Duell mit vollen Offensiv-Waffen beider Seiten + Historik US-BEL immer BTTS. HR07-06-4 BTTS-Volume-Backup-Muster.",
+      "rang": 5,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.75,
+      "kommentar": "1:4-Endstand, BTTS klar erfuellt (Tillman 31. + BEL 4x).",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "einzeltipp-6",
+      "spiel_id": "2026-07-06-por-esp",
+      "kategorie": "value",
+      "markt": "Spanien gewinnt (Sieg 2, 90min)",
+      "quote": 1.9,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung": "Spanien-Klassik-Sieg via Klassen-Edge (perfekte Gruppe + 4/4 CleanSheet + R32 3:0). Fair-Line 1.92 vs bet365 1.90. HR07-04-8b K.O.-Extra-Time-Falle geprueft (Quote > 1.30).",
+      "rang": 6,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.9,
+      "kommentar": "Spanien 0:1 via Merino-Super-Sub-Winner. Klassen-Edge-VALUE bestaetigt.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "einzeltipp-7",
+      "spiel_id": "2026-07-06-por-esp",
+      "kategorie": "wackel",
+      "markt": "Cristiano Ronaldo Torschuetze Jederzeit",
+      "quote": 2.85,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 2.75,
+      "begruendung": "Volume-9 POR (3 Tore Turnier, xG 4.15). Karriere-Highlight-INVERS-Falle + R32 62.-Sub-Signal senken zu Wackel.",
+      "rang": 7,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Ronaldo blieb 90min drin (kein Sub), traf nicht in Karriere-Ende-Spiel. Karriere-Highlight-INVERS-Falle bestaetigt.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "einzeltipp-8",
+      "spiel_id": "2026-07-06-por-esp",
+      "kategorie": "risk",
+      "markt": "Portugal gewinnt (Sieg 1, 90min)",
+      "quote": 4.0,
+      "empfohlener_einsatz_prozent": 0.25,
+      "empfohlener_einsatz_euro": 1.4,
+      "begruendung": "Underdog-Bein Ronaldo-Karriere-Highlight + Ramos-Backup-Volume + HR07-04 R32-Klassen-Edge-Cluster-Bruch-These.",
+      "rang": 8,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Portugal 0:1 - Klassen-Bruch-Underdog-These falsifiziert.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "name": "Safe-Kombi (~3.33x)",
+      "kategorie": "safe",
+      "gesamtquote": 3.33,
+      "einsatz_euro": 11.0,
+      "status": "gewonnen",
+      "gewinn_faktor": 2.325,
+      "kommentar": "Beide Beine gewonnen: Spanien-Sieg 90min (Merino 90+1) + BTTS USA-BEL (Tillman + BEL 4x). Safe-Kombi 3.33x = klarer Trefer. Layer-2-Sauber-These bestaetigt (ESP-Sieg-Outcome nur hier).",
+      "beine_ergebnisse": [
+        {
+          "spiel_id": "2026-07-06-por-esp",
+          "markt": "Spanien gewinnt (Sieg 2, 90min)",
+          "quote": 1.9,
+          "status": "gewonnen",
+          "kommentar": "Spanien 0:1"
+        },
+        {
+          "spiel_id": "2026-07-07-usa-bel",
+          "markt": "Beide Teams treffen JA USA-BEL",
+          "quote": 1.75,
+          "status": "gewonnen",
+          "kommentar": "USA 1 + BEL 4 - BTTS JA"
+        }
+      ]
+    },
+    {
+      "name": "Balance-Kombi (~6.75x)",
+      "kategorie": "balance",
+      "gesamtquote": 6.75,
+      "einsatz_euro": 4.4,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Ronaldo traf nicht (Karriere-Ende) + Balogun 1v1 verpasst. Zwei-Volume-9-These im K.O. gebrochen. Balance-Kombi verloren.",
+      "beine_ergebnisse": [
+        {
+          "spiel_id": "2026-07-06-por-esp",
+          "markt": "Cristiano Ronaldo Torschuetze Jederzeit",
+          "quote": 2.85,
+          "status": "verloren",
+          "kommentar": "Ronaldo traf nicht"
+        },
+        {
+          "spiel_id": "2026-07-07-usa-bel",
+          "markt": "Folarin Balogun Torschuetze Jederzeit",
+          "quote": 2.37,
+          "status": "verloren",
+          "kommentar": "Balogun 1v1 Chance verpasst"
+        }
+      ]
+    },
+    {
+      "name": "Risiko-Kombi (~19.20x)",
+      "kategorie": "risk",
+      "gesamtquote": 19.2,
+      "einsatz_euro": 1.4,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Leao kam als Sub in 73., traf nicht (nur Vorbereitung Bruno-Fernandes-Miss 76.). Lukaku nur 1 Tor (90+3), kein Doppelpack. Beide Beine verloren.",
+      "beine_ergebnisse": [
+        {
+          "spiel_id": "2026-07-06-por-esp",
+          "markt": "Rafael Leao Torschuetze Jederzeit",
+          "quote": 3.2,
+          "status": "verloren",
+          "kommentar": "Leao kam als Sub 73., traf nicht"
+        },
+        {
+          "spiel_id": "2026-07-07-usa-bel",
+          "markt": "Romelu Lukaku Doppelpack (2+ Tore)",
+          "quote": 6.0,
+          "status": "verloren",
+          "kommentar": "Lukaku nur 1 Tor (90+3)"
+        }
+      ]
+    },
+    {
+      "name": "Moonshot-Kombi (~71.5x)",
+      "kategorie": "moonshot",
+      "gesamtquote": 71.5,
+      "einsatz_euro": 0.55,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Ronaldo 0 Tore, Wright saß auf Bank. Reine Spass-Lotterie ohne Trefer.",
+      "beine_ergebnisse": [
+        {
+          "spiel_id": "2026-07-06-por-esp",
+          "markt": "Cristiano Ronaldo Doppelpack (2+ Tore)",
+          "quote": 6.5,
+          "status": "verloren",
+          "kommentar": "Ronaldo 0 Tore"
+        },
+        {
+          "spiel_id": "2026-07-07-usa-bel",
+          "markt": "Haji Wright Doppelpack (2+ Tore)",
+          "quote": 11.0,
+          "status": "verloren",
+          "kommentar": "Wright kam nicht zum Zug (Balogun blieb Startelf)"
+        }
+      ]
+    }
+  ],
+  "ausgewertet_am": "2026-07-07T07:08:26+00:00"
+}

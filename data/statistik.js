@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-07-06T08:08:38+00:00",
+  "letzte_berechnung": "2026-07-07T07:10:00+00:00",
   "gesamt": {
     "tipps": 494,
     "gewonnen": 275,
@@ -13,15 +13,15 @@ window.__MIESMUSCHEL_STAT = {
     "roi_prozent": 5.9
   },
   "letzte_30_tage": {
-    "tipps": 194,
-    "gewonnen": 112,
-    "verloren": 82,
+    "tipps": 180,
+    "gewonnen": 100,
+    "verloren": 80,
     "push": 0,
     "offen": 0,
-    "einsatz": 194.0,
-    "netto": -0.31,
-    "trefferquote": 57.7,
-    "roi_prozent": -0.2
+    "einsatz": 180.0,
+    "netto": -5.42,
+    "trefferquote": 55.6,
+    "roi_prozent": -3.0
   },
   "letzte_90_tage": {
     "tipps": 494,
@@ -5571,6 +5571,107 @@ window.__MIESMUSCHEL_STAT = {
     }
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-07-06",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "Safe-Kombi (~3.33x)",
+          "kategorie": "safe",
+          "gesamtquote": 3.33,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Spanien gewinnt (Sieg 2, 90min)",
+              "quote": 1.9,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen JA USA-BEL",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi (~6.75x)",
+          "kategorie": "balance",
+          "gesamtquote": 6.75,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Cristiano Ronaldo Torschuetze Jederzeit",
+              "quote": 2.85,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Folarin Balogun Torschuetze Jederzeit",
+              "quote": 2.37,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi (~19.20x)",
+          "kategorie": "risk",
+          "gesamtquote": 19.2,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Rafael Leao Torschuetze Jederzeit",
+              "quote": 3.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Romelu Lukaku Doppelpack (2+ Tore)",
+              "quote": 6.0,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi (~71.5x)",
+          "kategorie": "moonshot",
+          "gesamtquote": 71.5,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Cristiano Ronaldo Doppelpack (2+ Tore)",
+              "quote": 6.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Haji Wright Doppelpack (2+ Tore)",
+              "quote": 11.0,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-07-05",
       "gesamt": {

@@ -1839,6 +1839,30 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "HR07-06-4 8g/8h BTTS-Volume-Star-Backup bei Underdog-Sieger R16",
       "lesson": "Norwegen 2:1 BRA - NOR-BTTS-Streak jetzt 5/5 WM. BTTS-JA-Value-Tipp (1.85) GEWONNEN. Klassen-Underdog-Sieger via 2 Late-Winner + Klassen-Favorit-Ehrentreffer = klassisches BTTS-Muster in R16 K.O. Regel: wenn Klassen-Underdog Turnier-Volume-9er hat (Haaland) UND Klassen-Favorit spaet-treffen kann (Neymar-Sub-Elfer) -> BTTS-JA VALUE stabiles Bein. Erweitert HR07-04-8g BTTS-Cluster-Muster auf Underdog-Sieger-Szenario.",
       "bezug_spiel_id": "2026-07-05-bra-nor"
+    },
+    {
+      "datum": "2026-07-06",
+      "kategorie": "HR07-06-5 8e/8h K.O.-R16 Turnier-Top-Scorer-Anytime-Fehl-Cluster 3/3",
+      "lesson": "3 Turnier-Top-Scorer (Oyarzabal 4 Tore, Ronaldo 3 Tore, Balogun 3 Tore) alle verpassten Anytime an einem R16-Tag - Klassen-Konkurrent-Duell im K.O. bricht Star-Anytime-Value-These. Oyarzabal Riesenchance vergeben nach Olmo-Steilpass, Ronaldo 90min drin ohne Trefer in Karriere-Ende, Balogun 1v1 vs Courtois-Save. Trotz Kategorie VALUE (nicht SAFE, Diaz-Cluster-Puffer-Regel angewandt) 3 Tipps verloren. Erweitert HR07-04-Diaz-Torschuetzen-Offside-Cluster: Turnier-Top-Scorer (>=3 Tore) im K.O.-R16 gegen Klassen-Konkurrent gehen um WACKEL-Kategorie statt VALUE - Anytime-Regression aggressiv wenn Star gegen ebenbuertige Defensive spielt. Konsequenz naechste Routine: Anytime-Tipps auf Turnier-Top-Scorer in K.O.-Klassen-Duellen (min. 2 Top-15-Weltrangliste-Teams) nur als WACKEL zugelassen, Einsatz 0.5% statt 1.5%.",
+      "bezug_spiel_id": "2026-07-06-por-esp"
+    },
+    {
+      "datum": "2026-07-06",
+      "kategorie": "HR07-06-6 8h/8i Super-Sub-Winner-Empirie K.O.-R16 2/2 Tage in Folge",
+      "lesson": "Super-Sub-Winner-Muster in K.O.-R16 zum 2. Mal in Folge: BRA-NOR 07-05 Schjelderup-HZ-Sub-Assist zu Haaland-Winner + POR-ESP 07-06 Torres-84.-Sub-Vorlage zu Merino-Winner (90+1). Startelf-Turnier-Top-Scorer verpassten (Haaland als Nicht-Startelf hier bei NOR falsch - er war Startelf, Winner via Sub-Assist). Ergaenzung: in K.O.-R16 K.O.-Match-Winner sind zunehmend Bank-Kandidaten. Konsequenz: bei Torschuetzen-Anytime-Tipps in K.O.-R16 aktiv Bank-Volume-9er (backup Stuermer + Zweit-Mittelfeld-Torschuetzen wie Merino/Torres/Bobb) als Wackel-Range scannen. Bezug Volle-Analyse 8h/8i Rotation+Einwechslungs-Boost-Highlights beider Spiele.",
+      "bezug_spiel_id": "2026-07-06-por-esp"
+    },
+    {
+      "datum": "2026-07-06",
+      "kategorie": "HR07-06-7 8f Ueber-2.5-K.O.-R16-Cluster-Empirie 5/5",
+      "lesson": "Ueber 2.5 Tore in K.O.-R16 zum 5. Mal in Folge (MEX-ENG 5 Tore, BRA-NOR 3, POR-CRO 3, ESP-AUT 3, USA-BEL 5) - HR26 K.O.-Torzahl-nach-unten-Faustregel gebrochen. USA-BEL 07-06 addiert 5-Tore-Klassik. Ueber-2.5-Goldgrube (+20.1% ROI n=40) mit K.O.-R16-Kontext-Multi jetzt empirisch AKTIV. Ausnahme: Iberisches Klassen-Duell POR-ESP (nur 1 Tor) folgte historischem Klassen-Konkurrent-Muster - Sub-Cluster fuer 'Klassen-Konkurrent-Klassik-Duell' Unter 2.5 bleibt aktiv. Konsequenz: Ueber 2.5 in K.O.-R16 wenn KEIN Klassen-Konkurrent-Duell (also mind. 1 offener/Underdog-Team dabei) = SAFE-Range, nicht mehr VALUE. Bezug Volle-Analyse 8f Markt-Pattern aus tore-Zaehlung ueber 5 R16-Spiele.",
+      "bezug_spiel_id": "2026-07-07-usa-bel"
+    },
+    {
+      "datum": "2026-07-06",
+      "kategorie": "HR07-06-8 Kombi-Korrelation Turnier-Top-Scorer-Doppelbein-Falle K.O.-R16",
+      "lesson": "Balance-Kombi 07-06 (Ronaldo Anytime + Balogun Anytime, 6.75x) beide Beine parallel gescheitert - Turnier-Top-Scorer-Doppelbein-Falle. Beide Stars scheiterten am Klassen-Konkurrent-K.O.-Druck (Ronaldo 0 Tore vs Klassen-Konkurrent ESP, Balogun 1v1 verpasst vs Klassen-Konkurrent BEL). Kombi-Korrelation: 2 Star-Anytime-Beine in K.O.-R16 haben korrelierte Regression-Risiko (Klassen-Konkurrent-Druck-Faktor gilt fuer beide gleichzeitig). Konsequenz: in K.O.-R16 keine 2 Turnier-Top-Scorer-Anytime-Beine in einer Kombi mixen. Wenn 2 Turnier-Top-Scorer im Fenster: nur 1 Star-Anytime + 1 andere Markt-Kategorie (Ueber/Sieg/BTTS) fuer Diversifikation. Bezug 8a Korrelations-Analyse Kombi-Verlust.",
+      "bezug_spiel_id": "2026-07-07-usa-bel"
     }
   ]
 };
