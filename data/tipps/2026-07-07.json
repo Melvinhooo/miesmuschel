@@ -282,7 +282,7 @@
         },
         {
           "spiel_id": "2026-07-07-sui-col",
-          "markt": "Schweiz vs Kolumbien: Beide Teams treffen",
+          "markt": "Schweiz vs Kolumbien: Beide Teams treffen: Nein",
           "quote": 1.8,
           "spiel_titel": "Schweiz vs Kolumbien"
         }
@@ -292,7 +292,8 @@
       "einsatz_euro": 11.0,
       "potentieller_gewinn_euro": 22.11,
       "begruendung": "Messi Turnier-Top-Scorer (8/8 Trefferspiele) + Kolumbien 4x zu null in Folge / Schweiz Round-32 zu null = 2 stabile Beine ohne Sieg-Outcome-Cluster. Layer-1 OK (1 Bein pro Spiel), Layer-2 OK (kein Sieg-Outcome-Doppel). Statistik-Reality: Messi-Anytime +5.8% ROI-System, BTTS-NEIN-Segment vom Kontext her stark.",
-      "empfohlener_einsatz_prozent": 1.5
+      "empfohlener_einsatz_prozent": 1.5,
+      "rechnung": "1.67 x 1.80 = 3.01"
     },
     {
       "name": "Balance ~7x",
@@ -316,7 +317,8 @@
       "einsatz_euro": 4.4,
       "potentieller_gewinn_euro": 30.84,
       "begruendung": "Messi-2+-Bein setzt auf Rekord-Verfolgung (bereits 7 Turnier-Tore, MSN-Volumen gegen offene Ägypten-Defense). Unter-2.5 zweites Spiel = defensiv-defensiv gepuffert. Layer-1 OK, Layer-2 OK. Anti-Doppel-Star-Falle HR07-06-8: nur 1 Star-Bein pro Kombi.",
-      "empfohlener_einsatz_prozent": 0.5
+      "empfohlener_einsatz_prozent": 0.5,
+      "rechnung": "4.33 x 1.62 = 7.01"
     },
     {
       "name": "Risiko ~19x",
@@ -340,7 +342,8 @@
       "einsatz_euro": 1.4,
       "potentieller_gewinn_euro": 26.25,
       "begruendung": "Anti-Klassen-Favorit-Doppelhedge: Salah nutzt Ägypten-Konter + Schweiz-Sieg als Contrarian-Bein bei Coinflip (27% implizit). Diversifiziert gegen Safe- und Balance-Beine (dort Kolumbien-lastig). Risiko-Charakter passt zur Kategorie.",
-      "empfohlener_einsatz_prozent": 0.25
+      "empfohlener_einsatz_prozent": 0.25,
+      "rechnung": "5.00 x 3.75 = 18.75"
     },
     {
       "name": "Moonshot ~32x",
@@ -348,18 +351,24 @@
       "beine": [
         {
           "spiel_id": "2026-07-07-arg-egy",
-          "markt": "Argentinien vs Ägypten: Hattrick (3+ Tore)",
+          "markt": "Argentinien vs Ägypten: Messi 3+ Tore (Hattrick)",
           "quote": 14.0,
           "spiel_titel": "Argentinien vs Ägypten"
+        },
+        {
+          "spiel_id": "2026-07-07-sui-col",
+          "markt": "Schweiz vs Kolumbien: Kolumbien-Sieg 90min (1X2)",
+          "quote": 2.3,
+          "spiel_titel": "Schweiz vs Kolumbien"
         }
       ],
-      "gesamtquote": 14.0,
+      "gesamtquote": 32.2,
       "einsatz_prozent_kasse": 0.1,
       "einsatz_euro": 0.55,
-      "potentieller_gewinn_euro": 17.72,
-      "begruendung": "Messi-Hattrick als WM-Rekord-Fantasie (bei 7 Turnier-Toren realistisches Lotterielos gegen tiefe Ägypten-Defense) + Kolumbien-Sieg 90min als Markt-Favorit-Untermauerung. Layer-2 OK: Kolumbien-Sieg 90min ist anderes Outcome als Schweiz-Sieg (Risiko-Kombi) - Verschiedene Sieg-Outcomes im selben Spiel sind zulässiger Hedge. Spaßeinsatz 55 Cent.",
+      "potentieller_gewinn_euro": 17.16,
+      "begruendung": "Messi-Hattrick als WM-Rekord-Fantasie (bei 7 Turnier-Toren realistisches Lotterielos gegen tiefe Ägypten-Defense) + Kolumbien-Sieg 90min als Markt-Favorit-Untermauerung. Layer-2 OK: Kolumbien-Sieg 90min ist anderes Sieg-Outcome als Schweiz-Sieg (Risiko-Kombi) - Kontra-Beine über verschiedene Kombis sind zulässiger Hedge. Layer-3 weich: 2 Spiele nur → Markt-entkoppelt zu Risiko/Balance/Safe. Spaßeinsatz 55 Cent.",
       "empfohlener_einsatz_prozent": 0.1,
-      "rechnung": "14.00 = 14.0"
+      "rechnung": "14.00 x 2.30 = 32.20"
     }
   ],
   "lessons_angewandt": [
@@ -375,5 +384,37 @@
     "Watchdog-Regel Goldgruben-Liga-DC-Falle: WM 2026 nicht in Liga-Goldgruben-Liste (Premier League, LaLiga, CL-HF) - deshalb DC-SAFE hier ohnehin nicht legit, direkte Sieg-Tipps sind der Weg.",
     "Watchdog-Regel Star-Ausfall-Backup: Salah-Verletzungs-Comeback bestätigt (Trainings-Return 1.7.), deshalb kein Marmoush-Zwangs-Backup-Tipp - Salah selbst als Wackel."
   ],
-  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "_verifikations_report": {
+    "verifiziert_am": "2026-07-07T19:30:00+02:00",
+    "quelle": "Master-Tipps-Routine Post-Watchdog-Verifikation (Recovery-File 17:15 als Basis, kein data/recherche/2026-07-07.json vorhanden)",
+    "halluzinations_checks": {
+      "squad_verifikation": "OK - Argentinien-Aufstellung (Messi/Lautaro/E.Fernandez/De Paul) + Ägypten-Aufstellung (Salah/Marmoush) aus WebSearch bestätigt (kicker.de + eurosport.de + fussballnationalmannschaft.net). Schweiz (Xhaka/Embolo/Manzambi/Ndoye) + Kolumbien (Diaz/J.Rodriguez/S.Suarez/Arias) via SRF + wettfreunde.net.",
+      "verletzungen_verifikation": "OK - Salah-Oberschenkelzerrung + Trainings-Return 1.7.; Neymar-Bank-Status Brasilien vorher (nicht heute). Keine spekulativen Ausfälle im Dossier.",
+      "quoten_plausibilitaets_check": "OK - alle Quoten in bet365-Marktband: ARG-Sieg 1.39 (72% implizit, Top-Favorit), SUI-COL Split 44/29/27 (Kolumbien-Sieg 1.58 als DC/Weiter, Schweiz-Sieg 3.75 - konsistent). Messi anytime 1.67, hattrick 14.0 - marktrealistisch bei 7 Turnier-Toren.",
+      "spielort_verifikation": "OK - Mercedes-Benz Stadium Atlanta (indoor, kein Wetter-Faktor) + BC Place Vancouver (indoor, moderat) - beides plausibel für R16-Slots."
+    },
+    "selbstwiderspruch_checks": {
+      "btts_konsistenz_safe_kombi": "FIXED - Safe-Kombi Bein 2 war 'Beide Teams treffen' ohne Ja/Nein-Label, aber begruendung + einzeltipp verwies auf BTTS-Nein. Label korrigiert zu 'Beide Teams treffen: Nein' (quote 1.80).",
+      "kombi_rechnung_pflicht": "FIXED - Safe/Balance/Risiko-Kombis hatten kein rechnung-Feld. Ergänzt: Safe '1.67 x 1.80 = 3.01', Balance '4.33 x 1.62 = 7.01', Risiko '5.00 x 3.75 = 18.75'.",
+      "moonshot_1_bein_bug": "FIXED - Moonshot-Kombi hatte im beine[] nur Messi-Hattrick (1 Leg, gesamtquote=14.0), aber Name 'Moonshot ~32x' + begruendung nannte Kolumbien-Sieg als 2. Bein. Kolumbien-Sieg-Bein (@2.30) hinzugefügt → 14.00 x 2.30 = 32.20, potentieller_gewinn 17.16€ (0.55€ x 32.20 - 0.55 einsatz).",
+      "safe_confirm_downgrade_flag": "OK - Messi-Anytime @1.67 im Einzeltipp-Spiel-Block korrekt mit _safe_confirm_downgrade:true markiert (Quote > 1.65 ohne Goldgrube-Kompensation gemäß Watchdog-MARKT-MIX-Regel)."
+    },
+    "layer_cross_check": {
+      "layer_1_pro_kombi": "OK - jede Kombi hat max 1 Bein pro Spiel: Safe/Balance/Risiko/Moonshot je 1 ARG-EGY + 1 SUI-COL Bein (Moonshot nach Fix).",
+      "layer_2_sieg_outcome_max_1": "OK - nur Risiko-Kombi hat 1 Sieg-Outcome (Schweiz-Sieg). Safe (Anytime + BTTS), Balance (2+Tore + Unter), Moonshot (Hattrick + Kolumbien-Sieg = 1 Sieg-Outcome) - alle konform.",
+      "layer_3_max_1_pro_spiel_ueber_kombis": "SOFT-VIOLATION_erlaubt - bei nur 2 Spielen unmöglich hart einzuhalten. Markt-entkoppelt: ARG-EGY-Beine sind Anytime/2+/Hattrick/Salah (4 verschiedene Torschützen-Märkte + 1 Underdog-Anytime). SUI-COL-Beine sind BTTS-Nein/Unter-2.5/Schweiz-Sieg/Kolumbien-Sieg (verschiedene Markt-Typen). Layer-3 weich-Klausel greift."
+    },
+    "hartregeln_check": {
+      "max_5_tipps_pro_spiel": "OK - ARG-EGY 5 Tipps (safe+3 value+wackel), SUI-COL 3 Tipps (3 value) - beide ≤ 5.",
+      "gesamtquote_pflicht": "OK nach Fix - alle 4 Kombis haben gesamtquote + rechnung.",
+      "einsatz_prozent_stufe_1": "OK - Kasse 550€ Stufe 1, alle Einsätze im Rahmen (Safe-Einzel 2%, Wackel 0.5%, Kombi Safe 2%, Balance 0.8%, Risiko 0.25%, Moonshot 0.1%).",
+      "saison_kontext_pflicht_felder": "OK - beide Spiele haben alle 7 Pflichtfelder (parallel_h/g, saisonziel_h/g, motivations_asymmetrie, recovery_h/g) + quellen[] mit ≥1 URL (jeweils 4 Quellen)."
+    },
+    "gedroppte_tipps": [],
+    "downgrades": [
+      "Messi-Anytime im Spiel-Block hat _safe_confirm_downgrade:true (bereits im Watchdog-Recovery gesetzt) - keine zusätzliche Aktion notwendig."
+    ],
+    "gesamturteil": "OK nach 4 Fixes - Dossier freigegeben für Push. Alle Halluzinations-Checks bestanden, alle Selbstwidersprüche + Layer-Cross-Checks bereinigt. 2 WM-R16-Spiele analysiert, 8 Einzeltipps + 4 Kombis (Safe 3.01x / Balance 7.01x / Risiko 18.75x / Moonshot 32.20x)."
+  }
 }
