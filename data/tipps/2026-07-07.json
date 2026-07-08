@@ -354,21 +354,15 @@
           "markt": "Argentinien vs Ägypten: Messi 3+ Tore (Hattrick)",
           "quote": 14.0,
           "spiel_titel": "Argentinien vs Ägypten"
-        },
-        {
-          "spiel_id": "2026-07-07-sui-col",
-          "markt": "Schweiz vs Kolumbien: Kolumbien-Sieg 90min (1X2)",
-          "quote": 2.3,
-          "spiel_titel": "Schweiz vs Kolumbien"
         }
       ],
-      "gesamtquote": 32.2,
+      "gesamtquote": 14.0,
       "einsatz_prozent_kasse": 0.1,
       "einsatz_euro": 0.55,
       "potentieller_gewinn_euro": 17.16,
       "begruendung": "Messi-Hattrick als WM-Rekord-Fantasie (bei 7 Turnier-Toren realistisches Lotterielos gegen tiefe Ägypten-Defense) + Kolumbien-Sieg 90min als Markt-Favorit-Untermauerung. Layer-2 OK: Kolumbien-Sieg 90min ist anderes Sieg-Outcome als Schweiz-Sieg (Risiko-Kombi) - Kontra-Beine über verschiedene Kombis sind zulässiger Hedge. Layer-3 weich: 2 Spiele nur → Markt-entkoppelt zu Risiko/Balance/Safe. Spaßeinsatz 55 Cent.",
       "empfohlener_einsatz_prozent": 0.1,
-      "rechnung": "14.00 x 2.30 = 32.20"
+      "rechnung": "14.00 = 14.0"
     }
   ],
   "lessons_angewandt": [
