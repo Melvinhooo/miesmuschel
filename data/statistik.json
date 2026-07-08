@@ -1,37 +1,37 @@
 {
-  "letzte_berechnung": "2026-07-07T07:10:00+00:00",
+  "letzte_berechnung": "2026-07-08T07:09:13+00:00",
   "gesamt": {
-    "tipps": 494,
-    "gewonnen": 275,
-    "verloren": 208,
+    "tipps": 502,
+    "gewonnen": 280,
+    "verloren": 211,
     "push": 2,
     "offen": 9,
-    "einsatz": 485.0,
+    "einsatz": 493.0,
     "netto": 28.61,
-    "trefferquote": 56.9,
-    "roi_prozent": 5.9
+    "trefferquote": 57.0,
+    "roi_prozent": 5.8
   },
   "letzte_30_tage": {
-    "tipps": 180,
-    "gewonnen": 100,
-    "verloren": 80,
+    "tipps": 177,
+    "gewonnen": 99,
+    "verloren": 78,
     "push": 0,
     "offen": 0,
-    "einsatz": 180.0,
-    "netto": -5.42,
-    "trefferquote": 55.6,
-    "roi_prozent": -3.0
+    "einsatz": 177.0,
+    "netto": -3.46,
+    "trefferquote": 55.9,
+    "roi_prozent": -2.0
   },
   "letzte_90_tage": {
-    "tipps": 494,
-    "gewonnen": 275,
-    "verloren": 208,
+    "tipps": 502,
+    "gewonnen": 280,
+    "verloren": 211,
     "push": 2,
     "offen": 9,
-    "einsatz": 485.0,
+    "einsatz": 493.0,
     "netto": 28.61,
-    "trefferquote": 56.9,
-    "roi_prozent": 5.9
+    "trefferquote": 57.0,
+    "roi_prozent": 5.8
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -1001,6 +1001,17 @@
       "netto": -1.21,
       "trefferquote": 50.0,
       "roi_prozent": -12.1
+    },
+    "FIFA WM 2026 - Achtelfinale (Round of 16)": {
+      "tipps": 8,
+      "gewonnen": 5,
+      "verloren": 3,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 8.0,
+      "netto": 0.0,
+      "trefferquote": 62.5,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt": {
@@ -4864,6 +4875,28 @@
       "netto": -1.0,
       "trefferquote": 0.0,
       "roi_prozent": -100.0
+    },
+    "Argentinien": {
+      "tipps": 5,
+      "gewonnen": 3,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 5.0,
+      "netto": 0.0,
+      "trefferquote": 60.0,
+      "roi_prozent": 0.0
+    },
+    "Kolumbien": {
+      "tipps": 3,
+      "gewonnen": 2,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 0.0,
+      "trefferquote": 66.7,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt_typ": {
@@ -5427,19 +5460,41 @@
       "netto": 0.8,
       "trefferquote": 100.0,
       "roi_prozent": 80.0
+    },
+    "Argentinien": {
+      "tipps": 5,
+      "gewonnen": 3,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 5.0,
+      "netto": 0.0,
+      "trefferquote": 60.0,
+      "roi_prozent": 0.0
+    },
+    "Kolumbien": {
+      "tipps": 3,
+      "gewonnen": 2,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 0.0,
+      "trefferquote": 66.7,
+      "roi_prozent": 0.0
     }
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 216,
-      "gewonnen": 115,
-      "verloren": 96,
+      "tipps": 219,
+      "gewonnen": 117,
+      "verloren": 97,
       "push": 1,
       "offen": 4,
-      "einsatz": 212.0,
+      "einsatz": 215.0,
       "netto": 14.89,
-      "trefferquote": 54.5,
-      "roi_prozent": 7.0
+      "trefferquote": 54.7,
+      "roi_prozent": 6.9
     },
     "2.00-3.00": {
       "tipps": 72,
@@ -5453,15 +5508,15 @@
       "roi_prozent": 3.3
     },
     "1.00-1.50": {
-      "tipps": 183,
-      "gewonnen": 127,
-      "verloren": 52,
+      "tipps": 188,
+      "gewonnen": 130,
+      "verloren": 54,
       "push": 0,
       "offen": 4,
-      "einsatz": 179.0,
+      "einsatz": 184.0,
       "netto": 8.86,
-      "trefferquote": 70.9,
-      "roi_prozent": 4.9
+      "trefferquote": 70.7,
+      "roi_prozent": 4.8
     },
     "3.00+": {
       "tipps": 23,
@@ -5477,26 +5532,26 @@
   },
   "nach_kategorie": {
     "safe": {
-      "tipps": 97,
-      "gewonnen": 66,
-      "verloren": 31,
+      "tipps": 102,
+      "gewonnen": 69,
+      "verloren": 33,
       "push": 0,
       "offen": 0,
-      "einsatz": 97.0,
+      "einsatz": 102.0,
       "netto": 1.87,
-      "trefferquote": 68.0,
-      "roi_prozent": 1.9
+      "trefferquote": 67.6,
+      "roi_prozent": 1.8
     },
     "value": {
-      "tipps": 293,
-      "gewonnen": 164,
-      "verloren": 118,
+      "tipps": 296,
+      "gewonnen": 166,
+      "verloren": 119,
       "push": 2,
       "offen": 9,
-      "einsatz": 284.0,
+      "einsatz": 287.0,
       "netto": 30.34,
       "trefferquote": 58.2,
-      "roi_prozent": 10.7
+      "roi_prozent": 10.6
     },
     "wackel": {
       "tipps": 102,
@@ -5570,6 +5625,107 @@
     }
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-07-07",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "Safe ~3x",
+          "kategorie": "safe",
+          "gesamtquote": 3.01,
+          "einsatz_prozent": 1.5,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Argentinien vs Ägypten: Torschützen Jederzeit",
+              "quote": 1.67,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Schweiz vs Kolumbien: Beide Teams treffen: Nein",
+              "quote": 1.8,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance ~7x",
+          "kategorie": "balance",
+          "gesamtquote": 7.01,
+          "einsatz_prozent": 0.5,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Argentinien vs Ägypten: Torschützen 2+ Tore",
+              "quote": 4.33,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Schweiz vs Kolumbien: Unter 2.5 Tore",
+              "quote": 1.62,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko ~19x",
+          "kategorie": "risk",
+          "gesamtquote": 18.75,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Argentinien vs Ägypten: Torschützen Jederzeit",
+              "quote": 5.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Schweiz vs Kolumbien: Sieg (1X2 / ML)",
+              "quote": 3.75,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot ~32x",
+          "kategorie": "moonshot",
+          "gesamtquote": 32.2,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Argentinien vs Ägypten: Messi 3+ Tore (Hattrick)",
+              "quote": 14.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Schweiz vs Kolumbien: Kolumbien-Sieg 90min (1X2)",
+              "quote": 2.3,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-07-06",
       "gesamt": {

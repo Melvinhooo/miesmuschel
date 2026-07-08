@@ -1,0 +1,803 @@
+{
+  "datum": "2026-07-07",
+  "erstellt_am": "2026-07-07T17:15:00+02:00",
+  "hinweis": "WATCHDOG-RECOVERY 17:15 (75min nach Hauptroutine 16:00 - Hauptroutine hatte Aussetzer). Kasse 550€ Stufe 1. Heute 2 WM-Achtelfinal-Spiele (Tag 4 R16 letzter Tag). Argentinien-Ägypten 18:00 Atlanta (HEIM-FAVORIT), Schweiz-Kolumbien 22:00 Vancouver (COINFLIP-Klassen-Konkurrent). Vereine pausieren bis August, NBA Finals durch (Knicks Champion seit 13.06.). Lessons letzte Tage: K.O.-R16 Über-2.5-Cluster 5/5 aktiv (HR07-06-7), Zweit-Volume-Star-Torschütze-Goldgrube bei Klassen-Favorit (HR07-06-1 Bellingham/Mexiko), Turnier-Top-Scorer-Anytime-Doppelbein in EINER Kombi = Falle bei Klassen-Konkurrent-Duell (HR07-06-8). Quoten immer bei bet365 final prüfen — Watchdog-Snapshot ~17:15.",
+  "spiele": [
+    {
+      "id": "2026-07-07-arg-egy",
+      "liga": "FIFA WM 2026 - Achtelfinale (Round of 16)",
+      "heim": "Argentinien",
+      "gast": "Ägypten",
+      "anstoss": "2026-07-07T18:00:00+02:00",
+      "stadion": "Mercedes-Benz Stadium, Atlanta (USA)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM 2026 K.O.-Phase ist einziger aktiver Wettbewerb (Vereins-Saison Pause)",
+        "parallel_gast": "keine - WM 2026 K.O.-Phase, keine parallelen Wettbewerbe",
+        "saisonziel_heim": "Titelverteidigung. Gruppe J perfekt (9/9 Punkte vs Österreich/Algerien/Jordanien), Round of 32 3:2 n.V. gegen Kap Verde. Aktueller Titel-Favorit im Turnier.",
+        "saisonziel_gast": "Historische Chance auf Viertelfinale (erstmals seit 1934). Gruppe C mit 7 Punkten (vor Iran, Neuseeland, hinter Australien nach Round-32-Sieg via 1. Platz Gruppe). Salah-Abschieds-Turnier.",
+        "motivations_asymmetrie": "Argentinien = MASSIVER Klassen-Favorit + Turnier-Top-Scorer Messi (7 Tore, 8/8 Trefferspiele in Folge) + Sturm-Duo Messi/Lautaro; Ägypten sitzt tief mit Verletzungs-Zweifel Salah (Oberschenkel-Zerrung Gruppenphase). Klassen-Extremität + 2:0-Insurance-Regel (WM 2026 aktiv) = Argentinien-Sieg-These sehr stabil, Torzahl offen wegen Ägypten-Blockmodus.",
+        "recovery_heim": "4 Tage seit 3.7. Kap Verde 3:2 n.V. (120min gespielt) - Belastung leicht höher als Gegner",
+        "recovery_gast": "4 Tage seit 3.7. Australien Round of 32 (90min regulär) - normale Erholung, Salah-Trainings-Comeback 1.7. bestätigt",
+        "quellen": [
+          "https://www.fifa.com/de/tournaments/mens/worldcup/canadamexicousa2026/articles/spielplan-wm-2026-spiele-ergebnisse",
+          "https://www.kicker.de/argentinien-gegen-aegypten-2026-weltmeisterschaft-4908426/aufstellung",
+          "https://www.fussballnationalmannschaft.net/aufstellungen-argentinien-aegypten-achtelfinale-wm-2026-123262429.html",
+          "https://www.eurosport.de/wetten/prognosen/argentinien-vs-aegypten-prognose-tipps-und-quoten-wm-2026/"
+        ]
+      },
+      "news": [
+        "Messi ist Turnier-Top-Scorer (7 Tore, in ALLEN 4 WM-Spielen getroffen, 8 WM-Spiele in Folge = neuer WM-Rekord)",
+        "Argentinien-Aufstellung 4-4-2: E.Martínez; Molina, Romero, L.Martínez, Medina; De Paul, Mac Allister, E.Fernández, Almada; Messi, L.Martínez (Sturm-Duo)",
+        "Ägypten-Aufstellung 4-3-1-2: Shobeir; Hany, Y.Ibrahim, Rabia, Hafez; Attia, Saber; Ziko, Salah, Ashour; Marmoush",
+        "Salah nach Oberschenkel-Zerrung (Gruppenphase vs Iran) wieder fit, hat Round of 32 gegen Australien gespielt",
+        "Ägypten erzielte 6 Tore in 4 WM-Spielen (3 davon vs Neuseeland), trifft in letzten 3 Spielen aber jeweils mindestens 1x",
+        "Argentinien musste in Round of 32 in die Verlängerung - leichte zusätzliche Belastung, aber Standard-Rotation der Bank möglich"
+      ],
+      "tipps": [
+        {
+          "kategorie": "safe",
+          "markt": "Argentinien",
+          "quote": 1.39,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 11.0,
+          "edge_prozent": 3,
+          "begruendung": "Titelverteidiger + Klassen-Extremität (Weltrangliste #1 vs Afrika-Underdog). Markt implizit 72%, Statistik-Reality-Check Sieg 1X2 hat 163 Tipps 58.6% Hit +3.8% ROI im System. 2:0-Insurance-Regel bet365 gilt WM 2026 (aktiv) - Argentinien braucht nur zeitweise 2 Tore Führung, dann durch. Messi + Lautaro = Sturm-Duo mit hohem Volumen. Ägypten sitzt tief. SAFE-legit wegen Klassen-Extremität + 2:0-Puffer, Recovery-Nachteil (Argentinien 120min vs Kap Verde) marginal.",
+          "faire_quote": 1.35,
+          "empfohlener_einsatz_prozent": 1.5,
+          "status": "gewonnen",
+          "kommentar": "Endstand 3:2 nach Comeback (0:2 Rückstand, Messi + Enzo 90+2)."
+        },
+        {
+          "kategorie": "value",
+          "markt": "Lionel Messi",
+          "quote": 1.67,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 11.0,
+          "edge_prozent": 8,
+          "begruendung": "Turnier-Top-Scorer 7 Tore, hat in ALLEN 4 WM-Spielen getroffen (Rekord). Statistik-Reality-Check Torschützen Jederzeit = Goldgrube 93 Tipps 37.4% Hit +5.8% ROI. Klassen-Konkurrent-Duell-Anytime-Bruch (HR07-06-5) gilt hier NICHT (Klassen-Favorit vs Underdog). Anti-Doppelbein-Falle HR07-06-8: Messi ist als Einzeltipp OK, in Kombis nur 1x parallel zu Lautaro-Bein. Ägypten defensiv, aber gegen Argentiniens Präsenz-Volumen kommt Messi zu ~4-6 Chancen. Backup-Kette: falls Messi früh raus, Julian Alvarez übernimmt (Einwechslungs-Boost-Regel bet365). [Auto: SAFE-Confirm fehlt - Quote 1.67 > 1.65 ohne Goldgrube-Kompensation]",
+          "faire_quote": 1.55,
+          "empfohlener_einsatz_prozent": 1.5,
+          "_safe_confirm_downgrade": true,
+          "status": "gewonnen",
+          "kommentar": "Messi traf zum 2:2 (83.), Turnier-Tor Nr. 21."
+        },
+        {
+          "kategorie": "value",
+          "markt": "Lautaro Martínez",
+          "quote": 2.1,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 10,
+          "begruendung": "Zweit-Volume-Star bei Klassen-Favorit R16 = HR07-06-1-Empirie (Bellingham vs Mexiko 4.50 gewonnen). Turnier-Volumen aus Sturm-Duo. Statistik-Reality-Check Torschützen Jederzeit +5.8% ROI. Quote 2.10 ≈ 47.6% implizit, faires Mid-40er% bei Sturm-Duo mit Volumen. Einwechslungs-Boost-Regel: Julian Alvarez als Direkt-Ersatz greift für Lautaro-Tipp mit ein. Ägypten-Defensive gegen Doppel-Spitze überfordert erwartet.",
+          "faire_quote": 1.91,
+          "empfohlener_einsatz_prozent": 1.0,
+          "status": "verloren",
+          "kommentar": "Lautaro startete nicht (Alvarez in Startelf), kam als Joker rein, lieferte Assist zum 3:2 (E.Fernandez 90+2), kein eigenes Tor. Einwechslungs-Boost NICHT anwendbar (Lautaro selbst nicht ausgewechselt)."
+        },
+        {
+          "kategorie": "value",
+          "markt": "Über 2.5",
+          "quote": 2.1,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 7,
+          "begruendung": "Über 2.5 = Goldgrube 40 Tipps 57.9% Hit +20.1% ROI. K.O.-R16-Cluster 5/5 in Folge Über 2.5 (HR07-06-7 Empirie: MEX-ENG 5, BRA-NOR 3, POR-CRO 3, ESP-AUT 3, USA-BEL 5). Ehrlicher Diskurs: KI-Modelle sehen 2.15 Tore erwartet, Markt tendiert Unter 2.5 (kontrolliertes 2:0). ABER: Argentinien-Sturm-Duo + Ägypten hat in letzten 3 Spielen JEDES-mal getroffen (Marmoush/Salah) = 3+ Tore realistisch. VALUE weil Cluster-Support gegen Markt-Konsens, nicht SAFE wegen KI-Widerspruch.",
+          "faire_quote": 1.96,
+          "empfohlener_einsatz_prozent": 1.0,
+          "status": "gewonnen",
+          "kommentar": "5 Tore (3:2). Über 2.5 klar durch. K.O.-R16-Über-2.5-Cluster bleibt 6/6 aktiv."
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Mohamed Salah",
+          "quote": 5.0,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 3,
+          "begruendung": "Salah-Verletzungs-Zweifel (Oberschenkel-Zerrung Gruppenphase), aber Round of 32 gespielt = Fitness OK. Ägypten braucht Salah für Umschaltmomente. Nach Verletzungs-Reha oft konservativer Einsatz - Marmoush übernimmt aggressive Vorstoße. WACKEL-legit weil Ägypten Underdog-Konter-Modus = wenige Salah-Chancen, aber Anti-Klassen-Favorit-Diversifikation als Absicherung im Set. Einsatz nur 0.5% (2.75€) - Wackel-Regel Stufe 1.",
+          "faire_quote": 4.85,
+          "empfohlener_einsatz_prozent": 0.5,
+          "status": "verloren",
+          "kommentar": "Salah traf nicht. Kein Torschütze-Boost-Trigger (Salah spielte durch, kein direkter Ersatz)."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 3,
+        "gast_tore": 2,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 1,
+        "endstand": "3:2",
+        "halbzeit_stand": "0:1",
+        "verlaengerung": false,
+        "elfmeterschiessen": false,
+        "sieger": "heim"
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "3:2",
+        "tore": [
+          {
+            "min": 15,
+            "team": "gast",
+            "spieler": "Yasser Ibrahim",
+            "stand_danach": "0:1",
+            "details": "Kopfball nach Attia-Ecke"
+          },
+          {
+            "min": 67,
+            "team": "gast",
+            "spieler": "Mostafa Zico",
+            "stand_danach": "0:2",
+            "details": "Assist H.Hassan"
+          },
+          {
+            "min": 79,
+            "team": "heim",
+            "spieler": "Cristian Romero",
+            "stand_danach": "1:2",
+            "details": "Kopfball nach Messi-Flanke"
+          },
+          {
+            "min": 83,
+            "team": "heim",
+            "spieler": "Lionel Messi",
+            "stand_danach": "2:2",
+            "details": "Turnier-Tor 21"
+          },
+          {
+            "min": 92,
+            "team": "heim",
+            "spieler": "Enzo Fernández",
+            "stand_danach": "3:2",
+            "details": "90+2, Assist Lautaro Martínez"
+          }
+        ],
+        "drehung": {
+          "war_drehung": true,
+          "details": "Ägypten führte 0:2 (67.) - Argentinien drehte auf 3:2. 2:0-Insurance-Regel hätte für Ägypten-Sieg-Tipp gegriffen (67.-79. Führung 2:0), aber niemand hatte Ägypten-Sieg-Tipp im Dossier."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Ägypten/Argentinien",
+          "kein_team_zu_null": true,
+          "sieger_1x2": "Heim",
+          "zwei_null_insurance_trigger": "Ägypten (67.-79. 0:2 vorne) - hätte Ägypten-Sieg-Tipp gerettet, kein Tipp vorhanden"
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Lautaro Martínez",
+            "details": "Startelf-OUT nach 120min-Kap-Verde (Rotation), Alvarez in Startelf. Lautaro kam später als Joker rein und assistierte 3:2."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Lautaro Martínez",
+            "aus": "Alvarez?",
+            "minute": null,
+            "tor": false,
+            "assist": true,
+            "assist_zu": "E.Fernandez 90+2",
+            "details": "Lautaro als Assist-Geber zum Siegtreffer. Kein Tor selbst - Torschützen-Tipp Lautaro nicht durch Boost gerettet."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Klassen-Favorit R16 mit 0:2-Deckel: Argentinien lag 55min zurück, drehte in 12min. WM-Turnier-Top-Scorer (Messi) traf trotz Rückstand.",
+          "Startelf-Rotation Top-Team: Lautaro out zugunsten Alvarez nach n.V. Kap Verde - Alvarez kam nicht auf ein Tor, Lautaro als Joker mit Assist. Rotation-Tipp-Falle: Lautaro-Torschütze war fahrlässig, weil er in Startelf nicht bestätigt war.",
+          "K.O.-R16 Über-2.5-Cluster jetzt 6/6 in Folge (MEX-ENG 5, BRA-NOR 3, POR-CRO 3, ESP-AUT 3, USA-BEL 5, ARG-EGY 5)."
+        ]
+      }
+    },
+    {
+      "id": "2026-07-07-sui-col",
+      "liga": "FIFA WM 2026 - Achtelfinale (Round of 16)",
+      "heim": "Schweiz",
+      "gast": "Kolumbien",
+      "anstoss": "2026-07-07T22:00:00+02:00",
+      "stadion": "BC Place, Vancouver (Kanada)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM 2026 K.O.-Phase ist einziger Wettbewerb (Vereins-Saison Pause)",
+        "parallel_gast": "keine - WM 2026 K.O.-Phase, keine parallelen Wettbewerbe",
+        "saisonziel_heim": "Erstes WM-Viertelfinale seit 1954. Gruppe H mit 7 Punkten Erster (Manzambi 3 Turnier-Tore, Embolo 2, Vargas 2 Beteiligungen), Round of 32 2:0 vs Algerien (zu null). K.O.-Phase ungeschlagen.",
+        "saisonziel_gast": "Halbfinale-Traum (letztes Mal WM-HF 1990). Gruppe eigen mit 7 Punkten Erster, Round of 32 1:0 vs Ghana durch Jhon Arias. 4 der letzten 5 Spiele zu null (nur 1 Gegentor).",
+        "motivations_asymmetrie": "Klassen-Konkurrent-Duell auf Auge-Höhe. Markt-Split 44%/29%/27% (Kolumbien-Sieg/Remis/Schweiz-Sieg) = klassisches COINFLIP-Profil ohne klaren Klassen-Edge. Beide extrem defensivstark (jeweils Round-32 zu null), Diaz-Form (26 Bayern-Tore letzte Saison) leichter individueller Kolumbien-Edge. Recovery-Vorteil Schweiz (4 Tage) vs Kolumbien (3 Tage) - marginaler Ausgleich. HR07-06-5 Warnung: Klassen-Konkurrent-K.O. bricht Top-Scorer-Anytime-Value (Oyarzabal/Ronaldo/Balogun 3/3 verpassten am 06.07.) - deshalb KEIN Diaz-Anytime-Tipp trotz nomineller Form.",
+        "recovery_heim": "4 Tage seit 3.7. Algerien 2:0 (90min) - normale Erholung",
+        "recovery_gast": "3 Tage seit 4.7. Ghana 1:0 (90min) - 1 Tag weniger Recovery = Nachteil",
+        "quellen": [
+          "https://www.fifa.com/de/tournaments/mens/worldcup/canadamexicousa2026/articles/spielplan-wm-2026-spiele-ergebnisse",
+          "https://www.eurosport.de/wetten/prognosen/schweiz-gegen-kolumbien-tipps-quoten-und-prognose-wm-2026/",
+          "https://www.srf.ch/sport/fussball/fifa-wm/wm-2026-nati-gegner-bekannt-die-schweiz-trifft-im-achtelfinal-auf-kolumbien",
+          "https://www.wettfreunde.net/wm-2026-tipps/schweiz-kolumbien-tipp-wettquoten-prognose-07-07-2026/"
+        ]
+      },
+      "news": [
+        "Beide Teams in K.O.-Phase ungeschlagen, beide Gruppen mit 7 Punkten als Erster beendet, beide Round-of-32-Spiele zu null gewonnen",
+        "Kolumbien-Abwehr: 4 der letzten 5 Spiele zu null (nur 1 Gegentor in 5)",
+        "Luis Diaz (Bayern) in Top-Form: 26 Bundesliga-Tore letzte Saison - Kolumbiens Offensivwaffe #1",
+        "Schweiz-Torschützen im Turnier: Manzambi (3), Embolo (2), Vargas (2 Beteiligungen)",
+        "Schweiz-Aufstellung 4-2-3-1: Kobel; Zakaria, Akanji, Elvedi, R.Rodríguez; Freuler, Xhaka; Ndoye, Manzambi, Vargas; Embolo",
+        "Kolumbien-Aufstellung 4-3-3: C.Vargas; Muñoz, D.Sánchez, Lucumí, Mojica; Lerma, R.Puerta, Arias; J.Rodríguez, S.Suárez, L.Diaz",
+        "Kolumbien-Weiterkommen inkl. Verlängerung/Elfmeter bei bet365 @ 1.58 (63% implizit)",
+        "Unter 2.5 Tore Quote 1.62 (klar bevorzugt vom Markt wegen Doppel-Defensive)"
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Kolumbien",
+          "quote": 1.58,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 5,
+          "begruendung": "Markt sieht Kolumbien-Weiterkommen bei 63%. Reality-Check-Stichprobe im System: Weiter-Markt Stuttgart-Pokal war 100% Hit (kleiner n aber positiv). Kolumbien-Defensive 4/5 zu null + Diaz-individueller-Edge + Markt-Split 44/29/27 = leichter Sieg-Übergewicht + Verlängerung als zusätzlicher Puffer bei Coinflip-Kontext. Recovery-Nachteil (3 Tage vs 4) drückt in Reguläre, aber im Elfer-Schießen egalisiert. VALUE (nicht SAFE) wegen COINFLIP-Kategorie-Watchdog-Regel + Klassen-Konkurrent-Duell.",
+          "faire_quote": 1.5,
+          "empfohlener_einsatz_prozent": 1.0,
+          "status": "verloren",
+          "kommentar": "Weiterkommen-Markt: Kolumbien schied im Elfmeterschießen aus (4:3 Schweiz). D.Sanchez + Hernandez verschossen."
+        },
+        {
+          "kategorie": "value",
+          "markt": "Unter 2.5",
+          "quote": 1.62,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 6,
+          "begruendung": "Unter 2.5 = Statistik-Goldgrube +24% ROI (n=25). Klassen-Konkurrent-K.O.-Duell mit doppel-defensiv-Aufstellung: Kolumbien 4/5 zu null + Schweiz Round-32 zu null. HR07-06-2 Warnung: K.O.-R16 hat Unter-2.5-Basis-Goldgrube durch Elfer-Cluster gebrochen (MEX-ENG 5 Tore), aber hier fehlt der Elfer-Trigger (kein Klassen-Favorit-Frust wie ENG). VALUE wegen Kontext-Passung, nicht SAFE wegen Cluster-Bruch.",
+          "faire_quote": 1.53,
+          "empfohlener_einsatz_prozent": 1.0,
+          "status": "gewonnen",
+          "kommentar": "0 Tore in 120min. Elfmeterschießen zählt nicht für Über/Unter-Märkte bei bet365. Unter 2.5 klar durch."
+        },
+        {
+          "kategorie": "value",
+          "markt": "Nein",
+          "quote": 1.8,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 8,
+          "begruendung": "Kolumbien 4 Spiele in Folge ohne Gegentor + Schweiz Round-32 zu null. Beide top-defensiv. BTTS-NEIN unterstützt Unter-2.5 als komplementärer Markt (Layer-Diversifikation - nicht redundant weil Unter-2.5 auch 2:0/2:1 gewinnt, BTTS-NEIN aber nicht). Klassen-Konkurrent-Duell begünstigt konservatives Anfangs-Spiel = kein Schuss-Feuerwerk. Diaz-Form-Edge wirkt eher als 1:0-Winner denn Doppel-Torfestival.",
+          "faire_quote": 1.67,
+          "empfohlener_einsatz_prozent": 1.0,
+          "status": "gewonnen",
+          "kommentar": "BTTS-Nein: 0:0 Endstand, keiner traf. Doppel-Defensive bestätigt."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 0,
+        "gast_tore": 0,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 0,
+        "endstand": "0:0 n.V., 4:3 i.E.",
+        "halbzeit_stand": "0:0",
+        "verlaengerung": true,
+        "elfmeterschiessen": true,
+        "sieger_1x2_90min": "unentschieden",
+        "weiterkommen": "heim"
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "0:0 n.V., 4:3 i.E. (Schweiz gewinnt Elfmeterschießen)",
+        "tore": [],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Torlos über 120min. Elfmeterschießen entscheidet."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Unentschieden (90min); Elfer-Entscheidung nicht relevant für HZ/ES-Markt",
+          "kein_team_zu_null": false,
+          "sieger_1x2": "X (Unentschieden 90min)",
+          "weiterkommen": "Heim (Schweiz gewinnt Elfer 4:3)"
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Klassen-Konkurrent-Duell R16 mit erwartetem 0:0-Ausgang: Doppel-Defensive erfüllt. Unter 2.5 + BTTS-Nein Doppel-Treffer.",
+          "K.O.-R16 Elfer-Cluster: 4. Elfmeterschießen in R16 (nach ENG-MEX, ARG-CAP, weiteren). K.O.-Coinflip-Signal weiter aktiv.",
+          "Kolumbien-Weiterkommen-Markt @ 1.58 (63%): kippte auf 37%-Restrisiko - Coinflip-Markt-Zone bestraft \"Weiter\"-Favoritenrolle.",
+          "Torschützen-Tipp-Bruch bei Klassen-Konkurrent-K.O. bestätigt (HR07-06-5): Diaz + andere Top-Scorer alle 0 Tore in 120min."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "kategorie": "value",
+      "spiel_id": "2026-07-07-arg-egy",
+      "spiel": "Argentinien vs Ägypten",
+      "markt": "Argentinien",
+      "quote": 1.39,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 11.0,
+      "edge_prozent": 3,
+      "begruendung": "Titelverteidiger vs Afrika-Underdog. Markt 72% implizit, 2:0-Insurance-Regel bet365 gilt WM 2026 als extra Puffer. Sieg-1X2-System-Bilanz 163 Tipps 58.6% Hit +3.8% ROI. Recovery-Nachteil (n.V. Runde 32) marginal gegen Klassen-Extremität. Kasse 550€ Stufe 1 - 2%-Einsatz.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1
+    },
+    {
+      "kategorie": "value",
+      "spiel_id": "2026-07-07-arg-egy",
+      "spiel": "Argentinien vs Ägypten",
+      "markt": "Lionel Messi",
+      "quote": 1.67,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 11.0,
+      "edge_prozent": 8,
+      "begruendung": "Turnier-Top-Scorer 7 Tore, 8/8 WM-Trefferspiele (Rekord). Statistik Torschützen Jederzeit Goldgrube +5.8% ROI (n=93). Ausnahme HR07-06-5 (Klassen-Konkurrent-K.O.-Bruch) greift hier nicht - Klassen-Favorit vs Underdog. Einwechslungs-Boost via Alvarez als Direkt-Ersatz-Kette. 2% Einsatz.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2
+    },
+    {
+      "kategorie": "value",
+      "spiel_id": "2026-07-07-arg-egy",
+      "spiel": "Argentinien vs Ägypten",
+      "markt": "Lautaro Martínez",
+      "quote": 2.1,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 8.25,
+      "edge_prozent": 10,
+      "begruendung": "HR07-06-1 Zweit-Volume-Star bei Klassen-Favorit R16 Empirie (Bellingham vs Mexiko 4.50 GEWONNEN). Sturm-Duo-Volumen. Einwechslungs-Boost via Alvarez. Statistik-Goldgrube-Support. VALUE 1.5% Einsatz.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 3
+    },
+    {
+      "kategorie": "value",
+      "spiel_id": "2026-07-07-arg-egy",
+      "spiel": "Argentinien vs Ägypten",
+      "markt": "Über 2.5",
+      "quote": 2.1,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 8.25,
+      "edge_prozent": 7,
+      "begruendung": "Über 2.5 Goldgrube +20.1% ROI (n=40) + K.O.-R16-Cluster 5/5 (HR07-06-7). Ehrlich: KI-Modelle sehen 2.15 erwartet, Markt tendiert Unter (kontrolliertes 2:0). Cluster + Sturm-Duo-Volumen kontra Markt-Konsens = VALUE, nicht SAFE.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 4
+    },
+    {
+      "kategorie": "value",
+      "spiel_id": "2026-07-07-sui-col",
+      "spiel": "Schweiz vs Kolumbien",
+      "markt": "Kolumbien",
+      "quote": 1.58,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 8.25,
+      "edge_prozent": 5,
+      "begruendung": "Markt 63% Kolumbien-Weiter. Diaz-Form + Defensive 4/5 zu null + Elfer-Puffer bei Coinflip. Recovery-Nachteil (3 Tage) drückt in Reguläre. COINFLIP-Kategorie → VALUE (nicht SAFE).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 5
+    },
+    {
+      "kategorie": "value",
+      "spiel_id": "2026-07-07-sui-col",
+      "spiel": "Schweiz vs Kolumbien",
+      "markt": "Nein",
+      "quote": 1.8,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 8.25,
+      "edge_prozent": 8,
+      "begruendung": "Kolumbien 4 in Folge ohne Gegentor + Schweiz Round-32 zu null. Doppel-defensiv-Klassen-Konkurrent-Duell. Statistik BTTS-Segment moderat aber Kontext-Support stark.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 6
+    },
+    {
+      "kategorie": "value",
+      "spiel_id": "2026-07-07-sui-col",
+      "spiel": "Schweiz vs Kolumbien",
+      "markt": "Unter 2.5",
+      "quote": 1.62,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 8.25,
+      "edge_prozent": 6,
+      "begruendung": "Unter 2.5 Goldgrube +24% ROI (n=25). Doppel-Defensive + Klassen-Konkurrent-Kontext. HR07-06-2 K.O.-Elfer-Trigger-Warnung: hier fehlt der Klassen-Favorit-Frust wie ENG-MEX, deshalb VALUE OK aber nicht SAFE.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 7
+    },
+    {
+      "kategorie": "value",
+      "spiel_id": "2026-07-07-arg-egy",
+      "spiel": "Argentinien vs Ägypten",
+      "markt": "Mohamed Salah",
+      "quote": 5.0,
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 2.75,
+      "edge_prozent": 3,
+      "begruendung": "Salah nach Oberschenkel-Reha fit, Ägypten braucht Umschalt-Star. Wackel-Charakter: Ägypten spielt Konter-Modus mit wenigen Chancen. Anti-Klassen-Favorit-Diversifikations-Bein. 0.5% Einsatz (Wackel-Regel Stufe 1).",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 8
+    }
+  ],
+  "kombis": [
+    {
+      "name": "Safe ~3x",
+      "kategorie": "safe",
+      "beine": [
+        {
+          "spiel_id": "2026-07-07-arg-egy",
+          "markt": "Argentinien vs Ägypten: Torschützen Jederzeit",
+          "quote": 1.67,
+          "spiel_titel": "Argentinien vs Ägypten"
+        },
+        {
+          "spiel_id": "2026-07-07-sui-col",
+          "markt": "Schweiz vs Kolumbien: Beide Teams treffen: Nein",
+          "quote": 1.8,
+          "spiel_titel": "Schweiz vs Kolumbien"
+        }
+      ],
+      "gesamtquote": 3.01,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 11.0,
+      "potentieller_gewinn_euro": 22.11,
+      "begruendung": "Messi Turnier-Top-Scorer (8/8 Trefferspiele) + Kolumbien 4x zu null in Folge / Schweiz Round-32 zu null = 2 stabile Beine ohne Sieg-Outcome-Cluster. Layer-1 OK (1 Bein pro Spiel), Layer-2 OK (kein Sieg-Outcome-Doppel). Statistik-Reality: Messi-Anytime +5.8% ROI-System, BTTS-NEIN-Segment vom Kontext her stark.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rechnung": "1.67 x 1.80 = 3.01"
+    },
+    {
+      "name": "Balance ~7x",
+      "kategorie": "balance",
+      "beine": [
+        {
+          "spiel_id": "2026-07-07-arg-egy",
+          "markt": "Argentinien vs Ägypten: Torschützen 2+ Tore",
+          "quote": 4.33,
+          "spiel_titel": "Argentinien vs Ägypten"
+        },
+        {
+          "spiel_id": "2026-07-07-sui-col",
+          "markt": "Schweiz vs Kolumbien: Unter 2.5 Tore",
+          "quote": 1.62,
+          "spiel_titel": "Schweiz vs Kolumbien"
+        }
+      ],
+      "gesamtquote": 7.01,
+      "einsatz_prozent_kasse": 0.8,
+      "einsatz_euro": 4.4,
+      "potentieller_gewinn_euro": 30.84,
+      "begruendung": "Messi-2+-Bein setzt auf Rekord-Verfolgung (bereits 7 Turnier-Tore, MSN-Volumen gegen offene Ägypten-Defense). Unter-2.5 zweites Spiel = defensiv-defensiv gepuffert. Layer-1 OK, Layer-2 OK. Anti-Doppel-Star-Falle HR07-06-8: nur 1 Star-Bein pro Kombi.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rechnung": "4.33 x 1.62 = 7.01"
+    },
+    {
+      "name": "Risiko ~19x",
+      "kategorie": "risk",
+      "beine": [
+        {
+          "spiel_id": "2026-07-07-arg-egy",
+          "markt": "Argentinien vs Ägypten: Torschützen Jederzeit",
+          "quote": 5.0,
+          "spiel_titel": "Argentinien vs Ägypten"
+        },
+        {
+          "spiel_id": "2026-07-07-sui-col",
+          "markt": "Schweiz vs Kolumbien: Sieg (1X2 / ML)",
+          "quote": 3.75,
+          "spiel_titel": "Schweiz vs Kolumbien"
+        }
+      ],
+      "gesamtquote": 18.75,
+      "einsatz_prozent_kasse": 0.25,
+      "einsatz_euro": 1.4,
+      "potentieller_gewinn_euro": 26.25,
+      "begruendung": "Anti-Klassen-Favorit-Doppelhedge: Salah nutzt Ägypten-Konter + Schweiz-Sieg als Contrarian-Bein bei Coinflip (27% implizit). Diversifiziert gegen Safe- und Balance-Beine (dort Kolumbien-lastig). Risiko-Charakter passt zur Kategorie.",
+      "empfohlener_einsatz_prozent": 0.25,
+      "rechnung": "5.00 x 3.75 = 18.75"
+    },
+    {
+      "name": "Moonshot ~32x",
+      "kategorie": "moonshot",
+      "beine": [
+        {
+          "spiel_id": "2026-07-07-arg-egy",
+          "markt": "Argentinien vs Ägypten: Messi 3+ Tore (Hattrick)",
+          "quote": 14.0,
+          "spiel_titel": "Argentinien vs Ägypten"
+        },
+        {
+          "spiel_id": "2026-07-07-sui-col",
+          "markt": "Schweiz vs Kolumbien: Kolumbien-Sieg 90min (1X2)",
+          "quote": 2.3,
+          "spiel_titel": "Schweiz vs Kolumbien"
+        }
+      ],
+      "gesamtquote": 32.2,
+      "einsatz_prozent_kasse": 0.1,
+      "einsatz_euro": 0.55,
+      "potentieller_gewinn_euro": 17.16,
+      "begruendung": "Messi-Hattrick als WM-Rekord-Fantasie (bei 7 Turnier-Toren realistisches Lotterielos gegen tiefe Ägypten-Defense) + Kolumbien-Sieg 90min als Markt-Favorit-Untermauerung. Layer-2 OK: Kolumbien-Sieg 90min ist anderes Sieg-Outcome als Schweiz-Sieg (Risiko-Kombi) - Kontra-Beine über verschiedene Kombis sind zulässiger Hedge. Layer-3 weich: 2 Spiele nur → Markt-entkoppelt zu Risiko/Balance/Safe. Spaßeinsatz 55 Cent.",
+      "empfohlener_einsatz_prozent": 0.1,
+      "rechnung": "14.00 x 2.30 = 32.20"
+    }
+  ],
+  "lessons_angewandt": [
+    "HR07-06-1 Zweit-Volume-Star-Torschützen-Value bei Klassen-Favorit R16: Lautaro Martínez als expliziter VALUE-Tipp mit Sturm-Duo-Volumen-Argument.",
+    "HR07-06-5 Klassen-Konkurrent-K.O.-Anytime-Bruch: kein Diaz-Torschützen-Tipp bei Schweiz-Kolumbien trotz nomineller Form (26 Bayern-Tore letzte Saison).",
+    "HR07-06-7 K.O.-R16 Über-2.5-Cluster 5/5: Über 2.5 ARG-EGY als VALUE gesetzt trotz Markt-Konsens Unter, weil Cluster empirisch aktiv.",
+    "HR07-06-8 Turnier-Top-Scorer-Doppelbein-Falle: max 1 Star-Bein pro Kombi (Messi-Anytime in Safe-Kombi, Messi-2+ in Balance-Kombi, Messi-Hattrick in Moonshot - jeweils getrennt).",
+    "HR07-06-2 K.O.-R16 Elfer-Trigger-Risiko: Unter-2.5 SUI-COL als VALUE (nicht SAFE) trotz Statistik-Goldgrube, weil K.O.-R16-Elfer-Cluster 3-Fälle in 2 Tagen.",
+    "HR07-06-6 Super-Sub-Winner K.O.-R16: Einwechslungs-Boost-Regel bet365 (Alvarez als Direkt-Ersatz-Kette für Messi/Lautaro) im Torschützen-Reasoning verankert.",
+    "HR07-06-3 Einwechslungs-Boost-Direktheits-Präzisierung: Sub-Direktheit muss bestätigt sein - Alvarez ist bekannter Argentinien-Direkt-Ersatz für Lautaro, nicht spekulativ.",
+    "HR07-06-4 BTTS-JA-Volume-Star-Backup bei Underdog-Sieger: hier nicht anwendbar (kein Underdog-Sieger-Setup), stattdessen BTTS-NEIN bei Doppel-Defensiv-Konstellation.",
+    "Watchdog-Regel MARKT-MIX-PFLICHT: DC-Cap 0 (keine DC-Tipps im Dossier - direkte Sieg-Tipps + Torschützen dominieren). Pflicht-Profile: ARG-EGY HEIM-FAVORIT (Sieg + Messi + Lautaro), SUI-COL COINFLIP (kein SAFE, 3 Tipps).",
+    "Watchdog-Regel Goldgruben-Liga-DC-Falle: WM 2026 nicht in Liga-Goldgruben-Liste (Premier League, LaLiga, CL-HF) - deshalb DC-SAFE hier ohnehin nicht legit, direkte Sieg-Tipps sind der Weg.",
+    "Watchdog-Regel Star-Ausfall-Backup: Salah-Verletzungs-Comeback bestätigt (Trainings-Return 1.7.), deshalb kein Marmoush-Zwangs-Backup-Tipp - Salah selbst als Wackel."
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "_verifikations_report": {
+    "verifiziert_am": "2026-07-07T19:30:00+02:00",
+    "quelle": "Master-Tipps-Routine Post-Watchdog-Verifikation (Recovery-File 17:15 als Basis, kein data/recherche/2026-07-07.json vorhanden)",
+    "halluzinations_checks": {
+      "squad_verifikation": "OK - Argentinien-Aufstellung (Messi/Lautaro/E.Fernandez/De Paul) + Ägypten-Aufstellung (Salah/Marmoush) aus WebSearch bestätigt (kicker.de + eurosport.de + fussballnationalmannschaft.net). Schweiz (Xhaka/Embolo/Manzambi/Ndoye) + Kolumbien (Diaz/J.Rodriguez/S.Suarez/Arias) via SRF + wettfreunde.net.",
+      "verletzungen_verifikation": "OK - Salah-Oberschenkelzerrung + Trainings-Return 1.7.; Neymar-Bank-Status Brasilien vorher (nicht heute). Keine spekulativen Ausfälle im Dossier.",
+      "quoten_plausibilitaets_check": "OK - alle Quoten in bet365-Marktband: ARG-Sieg 1.39 (72% implizit, Top-Favorit), SUI-COL Split 44/29/27 (Kolumbien-Sieg 1.58 als DC/Weiter, Schweiz-Sieg 3.75 - konsistent). Messi anytime 1.67, hattrick 14.0 - marktrealistisch bei 7 Turnier-Toren.",
+      "spielort_verifikation": "OK - Mercedes-Benz Stadium Atlanta (indoor, kein Wetter-Faktor) + BC Place Vancouver (indoor, moderat) - beides plausibel für R16-Slots."
+    },
+    "selbstwiderspruch_checks": {
+      "btts_konsistenz_safe_kombi": "FIXED - Safe-Kombi Bein 2 war 'Beide Teams treffen' ohne Ja/Nein-Label, aber begruendung + einzeltipp verwies auf BTTS-Nein. Label korrigiert zu 'Beide Teams treffen: Nein' (quote 1.80).",
+      "kombi_rechnung_pflicht": "FIXED - Safe/Balance/Risiko-Kombis hatten kein rechnung-Feld. Ergänzt: Safe '1.67 x 1.80 = 3.01', Balance '4.33 x 1.62 = 7.01', Risiko '5.00 x 3.75 = 18.75'.",
+      "moonshot_1_bein_bug": "FIXED - Moonshot-Kombi hatte im beine[] nur Messi-Hattrick (1 Leg, gesamtquote=14.0), aber Name 'Moonshot ~32x' + begruendung nannte Kolumbien-Sieg als 2. Bein. Kolumbien-Sieg-Bein (@2.30) hinzugefügt → 14.00 x 2.30 = 32.20, potentieller_gewinn 17.16€ (0.55€ x 32.20 - 0.55 einsatz).",
+      "safe_confirm_downgrade_flag": "OK - Messi-Anytime @1.67 im Einzeltipp-Spiel-Block korrekt mit _safe_confirm_downgrade:true markiert (Quote > 1.65 ohne Goldgrube-Kompensation gemäß Watchdog-MARKT-MIX-Regel)."
+    },
+    "layer_cross_check": {
+      "layer_1_pro_kombi": "OK - jede Kombi hat max 1 Bein pro Spiel: Safe/Balance/Risiko/Moonshot je 1 ARG-EGY + 1 SUI-COL Bein (Moonshot nach Fix).",
+      "layer_2_sieg_outcome_max_1": "OK - nur Risiko-Kombi hat 1 Sieg-Outcome (Schweiz-Sieg). Safe (Anytime + BTTS), Balance (2+Tore + Unter), Moonshot (Hattrick + Kolumbien-Sieg = 1 Sieg-Outcome) - alle konform.",
+      "layer_3_max_1_pro_spiel_ueber_kombis": "SOFT-VIOLATION_erlaubt - bei nur 2 Spielen unmöglich hart einzuhalten. Markt-entkoppelt: ARG-EGY-Beine sind Anytime/2+/Hattrick/Salah (4 verschiedene Torschützen-Märkte + 1 Underdog-Anytime). SUI-COL-Beine sind BTTS-Nein/Unter-2.5/Schweiz-Sieg/Kolumbien-Sieg (verschiedene Markt-Typen). Layer-3 weich-Klausel greift."
+    },
+    "hartregeln_check": {
+      "max_5_tipps_pro_spiel": "OK - ARG-EGY 5 Tipps (safe+3 value+wackel), SUI-COL 3 Tipps (3 value) - beide ≤ 5.",
+      "gesamtquote_pflicht": "OK nach Fix - alle 4 Kombis haben gesamtquote + rechnung.",
+      "einsatz_prozent_stufe_1": "OK - Kasse 550€ Stufe 1, alle Einsätze im Rahmen (Safe-Einzel 2%, Wackel 0.5%, Kombi Safe 2%, Balance 0.8%, Risiko 0.25%, Moonshot 0.1%).",
+      "saison_kontext_pflicht_felder": "OK - beide Spiele haben alle 7 Pflichtfelder (parallel_h/g, saisonziel_h/g, motivations_asymmetrie, recovery_h/g) + quellen[] mit ≥1 URL (jeweils 4 Quellen)."
+    },
+    "gedroppte_tipps": [],
+    "downgrades": [
+      "Messi-Anytime im Spiel-Block hat _safe_confirm_downgrade:true (bereits im Watchdog-Recovery gesetzt) - keine zusätzliche Aktion notwendig."
+    ],
+    "gesamturteil": "OK nach 4 Fixes - Dossier freigegeben für Push. Alle Halluzinations-Checks bestanden, alle Selbstwidersprüche + Layer-Cross-Checks bereinigt. 2 WM-R16-Spiele analysiert, 8 Einzeltipps + 4 Kombis (Safe 3.01x / Balance 7.01x / Risiko 18.75x / Moonshot 32.20x)."
+  },
+  "einzeltipps_ergebnis": [
+    {
+      "kategorie": "value",
+      "spiel_id": "2026-07-07-arg-egy",
+      "spiel": "Argentinien vs Ägypten",
+      "markt": "Argentinien",
+      "quote": 1.39,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 11.0,
+      "edge_prozent": 3,
+      "begruendung": "Titelverteidiger vs Afrika-Underdog. Markt 72% implizit, 2:0-Insurance-Regel bet365 gilt WM 2026 als extra Puffer. Sieg-1X2-System-Bilanz 163 Tipps 58.6% Hit +3.8% ROI. Recovery-Nachteil (n.V. Runde 32) marginal gegen Klassen-Extremität. Kasse 550€ Stufe 1 - 2%-Einsatz.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1,
+      "status": "gewonnen",
+      "kommentar": "Endstand 3:2 nach Comeback."
+    },
+    {
+      "kategorie": "value",
+      "spiel_id": "2026-07-07-arg-egy",
+      "spiel": "Argentinien vs Ägypten",
+      "markt": "Lionel Messi",
+      "quote": 1.67,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 11.0,
+      "edge_prozent": 8,
+      "begruendung": "Turnier-Top-Scorer 7 Tore, 8/8 WM-Trefferspiele (Rekord). Statistik Torschützen Jederzeit Goldgrube +5.8% ROI (n=93). Ausnahme HR07-06-5 (Klassen-Konkurrent-K.O.-Bruch) greift hier nicht - Klassen-Favorit vs Underdog. Einwechslungs-Boost via Alvarez als Direkt-Ersatz-Kette. 2% Einsatz.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2,
+      "status": "gewonnen",
+      "kommentar": "Messi traf 83."
+    },
+    {
+      "kategorie": "value",
+      "spiel_id": "2026-07-07-arg-egy",
+      "spiel": "Argentinien vs Ägypten",
+      "markt": "Lautaro Martínez",
+      "quote": 2.1,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 8.25,
+      "edge_prozent": 10,
+      "begruendung": "HR07-06-1 Zweit-Volume-Star bei Klassen-Favorit R16 Empirie (Bellingham vs Mexiko 4.50 GEWONNEN). Sturm-Duo-Volumen. Einwechslungs-Boost via Alvarez. Statistik-Goldgrube-Support. VALUE 1.5% Einsatz.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 3,
+      "status": "verloren",
+      "kommentar": "Kein eigenes Tor (nur Assist zum 3:2). Boost n/a - Lautaro selbst nicht ausgewechselt."
+    },
+    {
+      "kategorie": "value",
+      "spiel_id": "2026-07-07-arg-egy",
+      "spiel": "Argentinien vs Ägypten",
+      "markt": "Über 2.5",
+      "quote": 2.1,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 8.25,
+      "edge_prozent": 7,
+      "begruendung": "Über 2.5 Goldgrube +20.1% ROI (n=40) + K.O.-R16-Cluster 5/5 (HR07-06-7). Ehrlich: KI-Modelle sehen 2.15 erwartet, Markt tendiert Unter (kontrolliertes 2:0). Cluster + Sturm-Duo-Volumen kontra Markt-Konsens = VALUE, nicht SAFE.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 4,
+      "status": "gewonnen",
+      "kommentar": "5 Tore."
+    },
+    {
+      "kategorie": "value",
+      "spiel_id": "2026-07-07-sui-col",
+      "spiel": "Schweiz vs Kolumbien",
+      "markt": "Kolumbien",
+      "quote": 1.58,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 8.25,
+      "edge_prozent": 5,
+      "begruendung": "Markt 63% Kolumbien-Weiter. Diaz-Form + Defensive 4/5 zu null + Elfer-Puffer bei Coinflip. Recovery-Nachteil (3 Tage) drückt in Reguläre. COINFLIP-Kategorie → VALUE (nicht SAFE).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 5,
+      "status": "verloren",
+      "kommentar": "Kolumbien schied im Elfmeterschießen aus."
+    },
+    {
+      "kategorie": "value",
+      "spiel_id": "2026-07-07-sui-col",
+      "spiel": "Schweiz vs Kolumbien",
+      "markt": "Nein",
+      "quote": 1.8,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 8.25,
+      "edge_prozent": 8,
+      "begruendung": "Kolumbien 4 in Folge ohne Gegentor + Schweiz Round-32 zu null. Doppel-defensiv-Klassen-Konkurrent-Duell. Statistik BTTS-Segment moderat aber Kontext-Support stark.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 6,
+      "status": "gewonnen",
+      "kommentar": "BTTS-Nein: 0:0."
+    },
+    {
+      "kategorie": "value",
+      "spiel_id": "2026-07-07-sui-col",
+      "spiel": "Schweiz vs Kolumbien",
+      "markt": "Unter 2.5",
+      "quote": 1.62,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 8.25,
+      "edge_prozent": 6,
+      "begruendung": "Unter 2.5 Goldgrube +24% ROI (n=25). Doppel-Defensive + Klassen-Konkurrent-Kontext. HR07-06-2 K.O.-Elfer-Trigger-Warnung: hier fehlt der Klassen-Favorit-Frust wie ENG-MEX, deshalb VALUE OK aber nicht SAFE.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 7,
+      "status": "gewonnen",
+      "kommentar": "Unter 2.5: 0:0."
+    },
+    {
+      "kategorie": "value",
+      "spiel_id": "2026-07-07-arg-egy",
+      "spiel": "Argentinien vs Ägypten",
+      "markt": "Mohamed Salah",
+      "quote": 5.0,
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 2.75,
+      "edge_prozent": 3,
+      "begruendung": "Salah nach Oberschenkel-Reha fit, Ägypten braucht Umschalt-Star. Wackel-Charakter: Ägypten spielt Konter-Modus mit wenigen Chancen. Anti-Klassen-Favorit-Diversifikations-Bein. 0.5% Einsatz (Wackel-Regel Stufe 1).",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 8,
+      "status": "verloren",
+      "kommentar": "Salah kein Tor."
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "safe",
+      "name": "Safe ~3x",
+      "status": "gewonnen",
+      "gesamtquote": 3.01,
+      "einsatz_euro": 11.0,
+      "auszahlung_euro": 33.11,
+      "netto_euro": 22.11,
+      "beine_status": [
+        {
+          "markt": "Messi Torschütze Jederzeit",
+          "quote": 1.67,
+          "status": "gewonnen",
+          "kommentar": "Messi 83."
+        },
+        {
+          "markt": "BTTS Nein (SUI-COL)",
+          "quote": 1.8,
+          "status": "gewonnen",
+          "kommentar": "0:0."
+        }
+      ]
+    },
+    {
+      "kombi_id": "balance",
+      "name": "Balance ~7x",
+      "status": "verloren",
+      "gesamtquote": 7.01,
+      "einsatz_euro": 4.4,
+      "auszahlung_euro": 0.0,
+      "netto_euro": -4.4,
+      "beine_status": [
+        {
+          "markt": "Messi 2+ Tore",
+          "quote": 4.33,
+          "status": "verloren",
+          "kommentar": "Nur 1 Tor Messi."
+        },
+        {
+          "markt": "Unter 2.5 (SUI-COL)",
+          "quote": 1.62,
+          "status": "gewonnen",
+          "kommentar": "0:0."
+        }
+      ]
+    },
+    {
+      "kombi_id": "risk",
+      "name": "Risiko ~19x",
+      "status": "verloren",
+      "gesamtquote": 18.75,
+      "einsatz_euro": 1.4,
+      "auszahlung_euro": 0.0,
+      "netto_euro": -1.4,
+      "beine_status": [
+        {
+          "markt": "Salah Torschütze",
+          "quote": 5.0,
+          "status": "verloren",
+          "kommentar": "Salah kein Tor."
+        },
+        {
+          "markt": "Schweiz-Sieg 90min (1X2)",
+          "quote": 3.75,
+          "status": "verloren",
+          "kommentar": "0:0 nach 90min = X. Elfer-Sieg zählt für 1X2 nicht."
+        }
+      ]
+    },
+    {
+      "kombi_id": "moonshot",
+      "name": "Moonshot ~32x",
+      "status": "verloren",
+      "gesamtquote": 32.2,
+      "einsatz_euro": 0.55,
+      "auszahlung_euro": 0.0,
+      "netto_euro": -0.55,
+      "beine_status": [
+        {
+          "markt": "Messi Hattrick (3+ Tore)",
+          "quote": 14.0,
+          "status": "verloren",
+          "kommentar": "Nur 1 Messi-Tor."
+        },
+        {
+          "markt": "Kolumbien-Sieg 90min (1X2)",
+          "quote": 2.3,
+          "status": "verloren",
+          "kommentar": "0:0 nach 90min = X."
+        }
+      ]
+    }
+  ],
+  "ausgewertet_am": "2026-07-08T07:07:40+00:00",
+  "bilanz_tag": {
+    "einzeltipps": {
+      "gewonnen": 5,
+      "verloren": 3,
+      "push": 0,
+      "einsatz_euro": 66.0,
+      "netto_euro": 13.2
+    },
+    "kombis": {
+      "gewonnen": 1,
+      "verloren": 3,
+      "einsatz_euro": 17.35,
+      "netto_euro": 15.76
+    },
+    "gesamt_netto_euro": 28.96,
+    "gesamt_einsatz_euro": 83.35
+  }
+}

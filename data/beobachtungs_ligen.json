@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-07T07:10:00+00:00",
+  "stand": "2026-07-08T07:09:13+00:00",
   "kriterium": "rolling 30 Tage ROI < -30.0% bei min. 4 Tipps",
   "ausstiegs_kriterium": "rolling 30 Tage ROI > -10.0% -> Liga wieder voll bespielbar",
   "ligen": [
@@ -23,13 +23,6 @@
       "roi_30d_prozent": -43.4,
       "trefferquote_30d": 40.0,
       "netto_30d": -2.17
-    },
-    {
-      "liga": "Internationales Freundschaftsspiel (WM-Test)",
-      "tipps_30d": 9,
-      "roi_30d_prozent": -36.2,
-      "trefferquote_30d": 44.4,
-      "netto_30d": -3.26
     }
   ]
 }

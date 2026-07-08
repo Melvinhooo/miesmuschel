@@ -1862,6 +1862,30 @@
       "kategorie": "HR07-06-8 Kombi-Korrelation Turnier-Top-Scorer-Doppelbein-Falle K.O.-R16",
       "lesson": "Balance-Kombi 07-06 (Ronaldo Anytime + Balogun Anytime, 6.75x) beide Beine parallel gescheitert - Turnier-Top-Scorer-Doppelbein-Falle. Beide Stars scheiterten am Klassen-Konkurrent-K.O.-Druck (Ronaldo 0 Tore vs Klassen-Konkurrent ESP, Balogun 1v1 verpasst vs Klassen-Konkurrent BEL). Kombi-Korrelation: 2 Star-Anytime-Beine in K.O.-R16 haben korrelierte Regression-Risiko (Klassen-Konkurrent-Druck-Faktor gilt fuer beide gleichzeitig). Konsequenz: in K.O.-R16 keine 2 Turnier-Top-Scorer-Anytime-Beine in einer Kombi mixen. Wenn 2 Turnier-Top-Scorer im Fenster: nur 1 Star-Anytime + 1 andere Markt-Kategorie (Ueber/Sieg/BTTS) fuer Diversifikation. Bezug 8a Korrelations-Analyse Kombi-Verlust.",
       "bezug_spiel_id": "2026-07-07-usa-bel"
+    },
+    {
+      "datum": "2026-07-07",
+      "kategorie": "HR07-07-1 8h/8i Startelf-Rotation-Bestaetigungs-Pflicht bei Zweit-Volume-Star-Torschuetzen-Tipps",
+      "lesson": "Lautaro Martinez-Torschuetzen-Tipp (2.10 VALUE) VERLOREN weil Lautaro NICHT in Startelf war - Scaloni rotierte Alvarez statt Lautaro nach n.V. Kap Verde. Lautaro kam als Joker rein + lieferte Assist zum 3:2 (E.Fernandez 90+2) - aber KEIN Tor selbst. Einwechslungs-Boost-Regel bet365 greift NICHT (Lautaro selbst nicht ausgewechselt, sondern EINGEWECHSELT). Erweitert HR07-06-1 Zweit-Volume-Star-Empirie: Bellingham-Cluster galt bei bestaetigter Startelf. Regel: Zweit-Volume-Star-Torschuetzen-Tipp NUR wenn (a) Startelf-Bestaetigung <2h vor Anpfiff oder (b) Kader-Rotations-Wahrscheinlichkeit <30% dokumentiert. Bei R16-Klassen-Favorit nach 120min-R32 (Recovery-Belastung): Rotations-Wahrscheinlichkeit hoch -> Zweit-Star-Torschuetzen-Tipp NUR nach Bestaetigung.",
+      "bezug_spiel_id": "2026-07-07-arg-egy"
+    },
+    {
+      "datum": "2026-07-07",
+      "kategorie": "HR07-07-2 8f K.O.-R16 Ueber-2.5-Cluster erweitert auf 6/6 - jetzt SAFE-faehig bei Klassen-Favorit + Top-Scorer",
+      "lesson": "ARG-EGY 3:2 = 5 Tore. K.O.-R16-Ueber-2.5-Cluster jetzt 6/6 in Folge (MEX-ENG 5, BRA-NOR 3, POR-CRO 3, ESP-AUT 3, USA-BEL 5, ARG-EGY 5). Empirische Basis 6-Faelle robuster als Markt-Konsens (Markt tendierte Unter 2.5 im ARG-EGY-Spiel bei 1.80). Ueber-2.5-Goldgrube +20.1% ROI mit Kontext-Booster K.O.-R16-Cluster. Regel: bei R16-Match mit (a) Turnier-Top-Scorer bestaetigt im Startelf + (b) beiden Teams >=4 Tore Turnier-bisher -> Ueber 2.5 als SAFE-Kandidat (nicht nur VALUE) moeglich, wenn Quote > 1.90. Vorher galt VALUE als Cap wegen KI-Modell-Widerspruch; ab jetzt kann SAFE bei bestaetigten Cluster-Bedingungen greifen. HR26 Turnier-Phasen-Regel Achtelfinale (Tor-Total tendiert niedriger) durch Empirie widerlegt.",
+      "bezug_spiel_id": "2026-07-07-arg-egy"
+    },
+    {
+      "datum": "2026-07-07",
+      "kategorie": "HR07-07-3 8g/8f Klassen-Konkurrent-K.O.-R16 0:0-Doppel-Defensive-Pattern bestaetigt",
+      "lesson": "SUI-COL 0:0 nach 120min - Schweiz gewinnt Elfer 4:3. BTTS-Nein (1.80) + Unter 2.5 (1.62) beide GEWONNEN. Klassen-Konkurrent-Duell + Doppel-Defensive (Kolumbien 4/5 zu null, Schweiz R32 zu null) = klassisches 0:0-Signal. Erweitert HR07-06-5 Klassen-Konkurrent-Anytime-Bruch: nicht nur Star-Anytime bricht, sondern auch Tor-Total kollabiert. Regel: bei R16-Match mit (a) beide Teams K.O.-Phase ohne Gegentor + (b) Markt-Split 90min ohne Klassen-Edge (<50% Klassen-Favorit-Wahrscheinlichkeit) -> BTTS-Nein + Unter 2.5 als Doppel-Bein in EIN Set legit (Layer-2 weich weil Korrelation kontext-erklaerbar). K.O.-R16-Elfer-Cluster jetzt 4 Faelle in 4 Tagen - K.O.-Coinflip-Empirie robust.",
+      "bezug_spiel_id": "2026-07-07-sui-col"
+    },
+    {
+      "datum": "2026-07-07",
+      "kategorie": "HR07-07-4 8g/8i 2:0-Insurance-Underdog-Moonshot-Kandidat bei Klassen-Favorit-Comeback-Historie",
+      "lesson": "Aegypten fuehrte 0:2 (67.) - 2:0-Insurance-Regel bet365 (WM 2026 aktiv) waere fuer Aegypten-Sieg-Tipp GEGRIFFEN. Kein Aegypten-Sieg-Tipp im Dossier (wg Klassen-Extremitaet). Aber: Argentinien-Rueckkaempfer-Historie (3:2 n.V. gegen Kap Verde in R32) UND Aegypten-Turnier-Volumen (6 Tore in 4 Spielen, Marmoush/Salah) machten 2:0-Fuehrung realistischer als Markt-Konsens (Aegypten-Sieg @ 12.0+ Moonshot-Range). Regel: bei R16-Match mit (a) Klassen-Underdog >=1.5 Tore/Spiel im Turnier + (b) Klassen-Favorit-Comeback-Historie in R32 dokumentiert (n.V./Rueckstand) -> Underdog-Sieg-Moonshot 0.1-0.2% Einsatz (0.55-1.10€ Stufe 1) als 2:0-Insurance-Puffer legit. Bei 12.0+ Quote ist Moonshot-Ratio ok, im schlimmsten Fall Klassen-Favorit-Regel-Sieg -> geringer Einsatz. Erweitert HR07-06-4 BTTS-JA-Underdog-Sieger-Regel um Sieg-1X2-Underdog-Puffer.",
+      "bezug_spiel_id": "2026-07-07-arg-egy"
     }
   ]
 }
