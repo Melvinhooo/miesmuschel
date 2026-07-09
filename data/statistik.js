@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-07-08T07:09:13+00:00",
+  "letzte_berechnung": "2026-07-09T07:04:41+00:00",
   "gesamt": {
     "tipps": 502,
     "gewonnen": 280,
@@ -13,15 +13,15 @@ window.__MIESMUSCHEL_STAT = {
     "roi_prozent": 5.8
   },
   "letzte_30_tage": {
-    "tipps": 177,
+    "tipps": 172,
     "gewonnen": 99,
-    "verloren": 78,
+    "verloren": 73,
     "push": 0,
     "offen": 0,
-    "einsatz": 177.0,
-    "netto": -3.46,
-    "trefferquote": 55.9,
-    "roi_prozent": -2.0
+    "einsatz": 172.0,
+    "netto": 1.54,
+    "trefferquote": 57.6,
+    "roi_prozent": 0.9
   },
   "letzte_90_tage": {
     "tipps": 502,

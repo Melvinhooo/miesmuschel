@@ -1,0 +1,39 @@
+{
+  "datum": "2026-07-08",
+  "erstellt_am": "2026-07-08T15:43:00+02:00",
+  "modus": "tag",
+  "_emergency_recovery": true,
+  "_emergency_recovery_grund": "Recherche-Cloud-Routine (Cron 10:30 Berlin) fuer 2026-07-08 lieferte kein File - letztes Recherche-File war 2026-07-05 (WM-Achtelfinale Tag 2). Master-Tipps-Routine hat 15:43 Berlin Fallback-Recherche via WebSearch selbst gemacht (1 Web-Query: WM-VF-Schedule + Ruhetag-Check) und schreibt Recherche + Tipps in einem Lauf. Ergebnis: heute 8.7. ist RUHETAG zwischen WM-Achtelfinale (04.-07.07.) und Viertelfinale (09.-11.07.) - kein Spiel im Window.",
+  "hinweis": "RUHETAG. Heute 8.7. (Mittwoch) findet KEIN WM-Spiel statt. Achtelfinale-Fenster endete 7.7. (Argentinien 3:2 Aegypten n.V., Schweiz 1:1 Kolumbien n.E.). Viertelfinale startet erst morgen 9.7. mit Frankreich vs Marokko 22:00 MESZ Gillette Stadium Foxborough (Boston-Metro). Vereine pausieren bis August, NBA Finals lange durch (Knicks Champion seit 13.06.). CL/EL/Conference-Qualifikations-Vorrunde laeuft (z.B. Qairat Almaty, Flora Tallinn) - aber Mini-Ligen ohne belastbare Datenbasis, gehoeren zur Beobachtungs-Liga-Kategorie -> keine Tipps auf Datenmangel. Ehrlichkeits-Prinzip laut CLAUDE.md: lieber 0 Tipps als Zwang-Tipps. Kasse 550€ Stufe 1 -> null Einsatz = null Risiko. Naechstes Dossier: 9.7. Viertelfinal-Auftakt Frankreich vs Marokko + Vorschau Spanien-Belgien.",
+  "spiele": [],
+  "einzeltipps": [],
+  "kombis": [],
+  "lessons_angewandt": [
+    {
+      "lesson_id": "HR07-08-RUHETAG",
+      "titel": "Ruhetag ehrlich als solchen ausweisen",
+      "text": "Zwischen WM-Achtelfinale (04.-07.07.) und Viertelfinale (09.-11.07.) liegt am 8.7. ein Ruhetag. Kein Zwang-Dossier auf CL-Vorrunden-Mini-Ligen (Kasachstan/Estland/Montenegro Vorrunde 1) - diese sind Beobachtungs-Liga-Kandidaten mit duenner Datenbasis. Kasse 550€ Stufe 1: null Einsatz = null Risiko.",
+      "quelle": "CLAUDE.md Ehrlichkeits-Prinzipien + Beobachtungs-Liga-Regel + Kasse-Stufe-1-Konservatismus"
+    },
+    {
+      "lesson_id": "HR07-07-VORBLICK",
+      "titel": "Viertelfinal-Vorschau (Info-only, nicht getippt)",
+      "text": "Ab morgen 9.7.: Frankreich vs Marokko (Foxborough/Boston-Metro 22:00 MESZ). 10.7.: Spanien vs Belgien (SoFi Inglewood) + Norwegen vs England (Hard Rock Miami). 11.7.: Argentinien vs Schweiz (Arrowhead Kansas City). Argentinien = Turnier-Favorit (Messi Turnier-Top-Scorer, 8 Trefferspiele in Folge). Hauptroutine 9.7. 13:30 baut normales VF-Dossier.",
+      "quelle": "WebSearch 2026-07-08: aljazeera.com/sports/2026/7/6/which-teams-are-in-the-world-cup-quarterfinals-and-whats-the-schedule + olympics.com/en/news/fifa-world-cup-2026-bracket-quarter-finals-full-schedule-live-updates"
+    }
+  ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-07-08T15:43:00+02:00",
+    "drops": [],
+    "downgrades": [],
+    "warnungen": [
+      "Ruhetag - 0 Spiele im Window. Verifikations-Checklisten (Spieler-Halluzination, Layer-2-Cross, Quoten-Plausibilitaet) alle trivialerweise OK weil keine Tipps existieren."
+    ],
+    "kontext_check_status_gesamt": "OK_RUHETAG",
+    "verifikator_hinweis": "Kein Handlungsbedarf. WM-VF-Auftakt morgen 9.7. Fruehe Recherche-Vorbereitung durch Recherche-Cloud-Routine 10:30 Berlin morgen erwartet."
+  },
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "einzeltipps_ergebnis": [],
+  "kombis_ergebnis": [],
+  "ausgewertet_am": "2026-07-09T07:04:41+00:00"
+}
