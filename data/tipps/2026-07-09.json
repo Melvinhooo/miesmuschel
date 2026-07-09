@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS = {
+{
   "datum": "2026-07-09",
   "erstellt_am": "2026-07-09T17:15:00+02:00",
   "hinweis": "WATCHDOG-RECOVERY (17:15 Berlin). Hauptroutine 16:00 lief nicht, dieser Lauf holt Tipps-Generation nach. HEUTE Do 09.07.: **WM 2026 Viertelfinale startet** - **Frankreich vs Marokko 22:00 MESZ** im Gillette Stadium Foxborough (Boston-Metro). Einziges Top-Spiel des Tages: Vereins-Saisons pausieren (Bundesliga/PL/LaLiga/Serie A alle Sommerpause), NBA-Finals durch (Knicks Champion seit 13.06.). CL-Q1-Rueckspiele erst 14.-15.07. Nur EL-Q1-Hinspiele (Qarabag, Dynamo Kyiv, Hajduk Split, Sheriff, CSKA Sofia, Vojvodina) parallel - alle Rand-Ligen ohne verlaessliche Datengrundlage, daher heute NICHT bespielt. Kombis heute nicht moeglich (LAYER-1: max 1 Bein pro Spiel = nur 1 Spiel = keine Kombi). Kasse 550EUR Stufe 1 (Aufbau). 18+ / BZgA 0800 1372700.",
@@ -37,60 +36,73 @@ window.__MIESMUSCHEL_TIPPS = {
       "tipps": [
         {
           "id": "2026-07-09-fra-mar-t1",
-          "kategorie": "safe",
+          "kategorie": "wackel",
           "markt": "Kylian Mbappe trifft (Torschuetze Jederzeit)",
           "wette": "Kylian Mbappe erzielt mind. 1 Tor",
-          "quote_bet365": 1.85,
           "einsatz_prozent_kasse": 2.0,
           "einsatz_euro": 11.0,
           "edge_prozent": 8,
-          "begruendung": "**Form-Edge maximal**: 7 Tore in 6 Spielen = 1.17/G. Marokko-Abwehr um Diop/Mazraoui ist solide, aber Mbappe traf gegen alle bisherigen Gegner inkl. Paraguay. **Reality-Check**: Markt 'Torschuetzen Jederzeit' ist Goldgrube laut statistik.json (n=?, HR=50%, ROI=+24.4% - **bester Markt im System**). **Einwechslungs-Boost aktiv** (bet365-Regel): Sollte Mbappe frueh raus, zaehlt Backup-Tor auf Barcola/Doue. **Kasse Stufe 1 bei 550EUR**: 2% = 11EUR. Aktiv-Suchen-Regel gemaess Markt-Goldgrube erfuellt."
+          "begruendung": "**Form-Edge maximal**: 7 Tore in 6 Spielen = 1.17/G. Marokko-Abwehr um Diop/Mazraoui ist solide, aber Mbappe traf gegen alle bisherigen Gegner inkl. Paraguay. **Reality-Check**: Markt 'Torschuetzen Jederzeit' ist Goldgrube laut statistik.json (n=?, HR=50%, ROI=+24.4% - **bester Markt im System**). **Einwechslungs-Boost aktiv** (bet365-Regel): Sollte Mbappe frueh raus, zaehlt Backup-Tor auf Barcola/Doue. **Kasse Stufe 1 bei 550EUR**: 2% = 11EUR. Aktiv-Suchen-Regel gemaess Markt-Goldgrube erfuellt. [Auto: SAFE-Confirm fehlt - Quote 1.85 > 1.65 ohne Goldgrube-Kompensation] [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "quote": 1.85,
+          "faire_quote": 1.71,
+          "empfohlener_einsatz_prozent": 1.5,
+          "_safe_confirm_downgrade": true,
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "2026-07-09-fra-mar-t2",
           "kategorie": "value",
           "markt": "Ueber 2.5 Tore",
           "wette": "Endstand > 2 Tore insgesamt (90min)",
-          "quote_bet365": 1.69,
           "einsatz_prozent_kasse": 2.0,
           "einsatz_euro": 11.0,
           "edge_prozent": 12,
-          "begruendung": "**Frankreich-Torflut** 17 Tore in 6 Spielen = 2.83/G, defensive Marokko dagegen kassierte im Turnier 4 Tore. Erwartungswert Tore FRA-Sturm allein > 2.0. **Reality-Check**: 'Ueber 2.5 Tore' laut markt_goldgruben.json bei n=40, HR=57.9%, ROI=+20.1% - **etablierte Goldgrube**. Selbst wenn Marokko defensiv steht, forciert France mit Mbappe/Dembele/Olise/Barcola die Tore. Pinnacle 1.68-1.72 -> Edge minimal aber Goldgrube-Faktor. **K.O.-Modus-Risiko**: bei 1:0-Fuehrung koennte Frankreich Tempo rausnehmen - deshalb VALUE, nicht SAFE."
+          "begruendung": "**Frankreich-Torflut** 17 Tore in 6 Spielen = 2.83/G, defensive Marokko dagegen kassierte im Turnier 4 Tore. Erwartungswert Tore FRA-Sturm allein > 2.0. **Reality-Check**: 'Ueber 2.5 Tore' laut markt_goldgruben.json bei n=40, HR=57.9%, ROI=+20.1% - **etablierte Goldgrube**. Selbst wenn Marokko defensiv steht, forciert France mit Mbappe/Dembele/Olise/Barcola die Tore. Pinnacle 1.68-1.72 -> Edge minimal aber Goldgrube-Faktor. **K.O.-Modus-Risiko**: bei 1:0-Fuehrung koennte Frankreich Tempo rausnehmen - deshalb VALUE, nicht SAFE.",
+          "quote": 1.69,
+          "faire_quote": 1.51,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
           "id": "2026-07-09-fra-mar-t3",
           "kategorie": "value",
           "markt": "Frankreich Sieg 90min",
           "wette": "Frankreich gewinnt regulaere Spielzeit",
-          "quote_bet365": 1.57,
           "einsatz_prozent_kasse": 1.5,
           "einsatz_euro": 8.25,
           "edge_prozent": 5,
-          "begruendung": "**Klarer Klassen-Edge** (6/6 Bilanz, 17:2 Tore, Mbappe-Golden-Boot). Pinnacle-fair ca. 1.55-1.60, bet365 1.57 -> Edge knapp aber positiv. **2:0-INSURANCE aktiv** (WM 2026 laut bet365 DE Aktions-Regel): sobald FRA 2:0 fuehrt, gilt Tipp gewonnen egal was danach passiert - massive Zusatzsicherheit. **Reality-Check**: Statistik zeigt WM-Favoriten-Siege bei Klassen-Edge > 60% HR laut Turnier-Verlauf. Kein SAFE weil K.O.-Modus Restrisiko (Elfmeter-Chaos, MAR-Sturmlauf spaet) + Pinnacle-Edge nur knapp. **Reduziert auf 1.5% Einsatz = 8.25EUR** wegen Marokko-Underdog-Revanche-Faktor."
+          "begruendung": "**Klarer Klassen-Edge** (6/6 Bilanz, 17:2 Tore, Mbappe-Golden-Boot). Pinnacle-fair ca. 1.55-1.60, bet365 1.57 -> Edge knapp aber positiv. **2:0-INSURANCE aktiv** (WM 2026 laut bet365 DE Aktions-Regel): sobald FRA 2:0 fuehrt, gilt Tipp gewonnen egal was danach passiert - massive Zusatzsicherheit. **Reality-Check**: Statistik zeigt WM-Favoriten-Siege bei Klassen-Edge > 60% HR laut Turnier-Verlauf. Kein SAFE weil K.O.-Modus Restrisiko (Elfmeter-Chaos, MAR-Sturmlauf spaet) + Pinnacle-Edge nur knapp. **Reduziert auf 1.5% Einsatz = 8.25EUR** wegen Marokko-Underdog-Revanche-Faktor.",
+          "quote": 1.57,
+          "faire_quote": 1.5,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
           "id": "2026-07-09-fra-mar-t4",
           "kategorie": "wackel",
           "markt": "Ousmane Dembele trifft (Torschuetze Jederzeit)",
           "wette": "Dembele erzielt mind. 1 Tor",
-          "quote_bet365": 3.2,
           "einsatz_prozent_kasse": 0.5,
           "einsatz_euro": 2.75,
           "edge_prozent": 4,
-          "begruendung": "**Form-Edge Backup**: 4 Tore in 6 Spielen = 0.67/G, im Achtelfinale gegen Paraguay als Vorbereiter gesetzt. **Anti-Selbstwiderspruch**: Wenn Frankreich 2+ Tore erzielt (siehe Tipp #2), landet mind. 1 mit ~50% Wahrscheinlichkeit bei Dembele. Quote 3.20 impliziert 31% - fair oder leicht positiv. **Einwechslungs-Boost**: fallen Dembele-Tore an Barcola/Doue nach Auswechslung, zaehlen mit. **WACKEL**-Kategorie weil Marokko-Abwehr Dembele-links gut kontrolliert (Hakimi rechts). Kasse Stufe 1: 0.5% = 2.75EUR."
+          "begruendung": "**Form-Edge Backup**: 4 Tore in 6 Spielen = 0.67/G, im Achtelfinale gegen Paraguay als Vorbereiter gesetzt. **Anti-Selbstwiderspruch**: Wenn Frankreich 2+ Tore erzielt (siehe Tipp #2), landet mind. 1 mit ~50% Wahrscheinlichkeit bei Dembele. Quote 3.20 impliziert 31% - fair oder leicht positiv. **Einwechslungs-Boost**: fallen Dembele-Tore an Barcola/Doue nach Auswechslung, zaehlen mit. **WACKEL**-Kategorie weil Marokko-Abwehr Dembele-links gut kontrolliert (Hakimi rechts). Kasse Stufe 1: 0.5% = 2.75EUR.",
+          "quote": 3.2,
+          "faire_quote": 3.08,
+          "empfohlener_einsatz_prozent": 0.5
         },
         {
           "id": "2026-07-09-fra-mar-t5",
-          "kategorie": "risiko",
+          "kategorie": "risk",
           "markt": "Sieger + Ueber 1.5 Tore (Kombi in einem Tipp)",
           "wette": "Frankreich Sieg 90min UND mind. 2 Tore im Spiel",
-          "quote_bet365": 1.95,
           "einsatz_prozent_kasse": 0.3,
           "einsatz_euro": 1.65,
           "edge_prozent": 2,
-          "begruendung": "**Kombi-Ersatz-Tipp** weil heute nur 1 Spiel und LAYER-1 keine Kombis erlaubt. Verknuepft Klassen-Edge mit Torflut-Erwartung. Beide Bedingungen sind je einzeln >55% wahrscheinlich, kombiniert ca. 50%, Quote 1.95 impliziert 51%. **RISIKO** weil 90min-Bindung (kein 2:0-Insurance-Schutz auf Ueber-1.5-Bein) + K.O.-Modus mit Verlaengerung moeglich. **Minimal-Einsatz 1.65EUR** - Spass-Alternative zu klassischer Kombi. Kasse 550EUR, Stufe 1."
+          "begruendung": "**Kombi-Ersatz-Tipp** weil heute nur 1 Spiel und LAYER-1 keine Kombis erlaubt. Verknuepft Klassen-Edge mit Torflut-Erwartung. Beide Bedingungen sind je einzeln >55% wahrscheinlich, kombiniert ca. 50%, Quote 1.95 impliziert 51%. **RISIKO** weil 90min-Bindung (kein 2:0-Insurance-Schutz auf Ueber-1.5-Bein) + K.O.-Modus mit Verlaengerung moeglich. **Minimal-Einsatz 1.65EUR** - Spass-Alternative zu klassischer Kombi. Kasse 550EUR, Stufe 1.",
+          "quote": 1.95,
+          "faire_quote": 1.91,
+          "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     }
   ],
   "einzeltipps": [
@@ -100,10 +112,12 @@ window.__MIESMUSCHEL_TIPPS = {
       "kategorie": "safe",
       "markt": "Kylian Mbappe trifft (Torschuetze Jederzeit)",
       "wette": "Kylian Mbappe erzielt mind. 1 Tor - Frankreich vs Marokko",
-      "quote_bet365": 1.85,
       "einsatz_prozent_kasse": 2.0,
       "einsatz_euro": 11.0,
-      "begruendung": "**Top-Pick des Tages**. Golden-Boot-Fuehrer 7/6 Turniertore, Markt 'Torschuetzen Jederzeit' ist Goldgrube-Nr.1 (+24.4% ROI System-Rekord). Bei 550EUR Kasse Stufe 1 -> 2% = 11EUR. Einwechslungs-Boost sichert Backup-Tore."
+      "begruendung": "**Top-Pick des Tages**. Golden-Boot-Fuehrer 7/6 Turniertore, Markt 'Torschuetzen Jederzeit' ist Goldgrube-Nr.1 (+24.4% ROI System-Rekord). Bei 550EUR Kasse Stufe 1 -> 2% = 11EUR. Einwechslungs-Boost sichert Backup-Tore.",
+      "quote": 1.85,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1
     },
     {
       "id": "einzel-02",
@@ -111,10 +125,12 @@ window.__MIESMUSCHEL_TIPPS = {
       "kategorie": "value",
       "markt": "Ueber 2.5 Tore",
       "wette": "Frankreich vs Marokko - > 2 Tore insgesamt",
-      "quote_bet365": 1.69,
       "einsatz_prozent_kasse": 2.0,
       "einsatz_euro": 11.0,
-      "begruendung": "Markt-Goldgrube (+20.1% ROI, HR 57.9%). Frankreich 2.83 Tore/Spiel im Turnier, MAR-Verteidigung nicht undurchdringlich. Kasse Stufe 1: 2% = 11EUR."
+      "begruendung": "Markt-Goldgrube (+20.1% ROI, HR 57.9%). Frankreich 2.83 Tore/Spiel im Turnier, MAR-Verteidigung nicht undurchdringlich. Kasse Stufe 1: 2% = 11EUR.",
+      "quote": 1.69,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 2
     },
     {
       "id": "einzel-03",
@@ -122,10 +138,12 @@ window.__MIESMUSCHEL_TIPPS = {
       "kategorie": "value",
       "markt": "Frankreich Sieg 90min",
       "wette": "Frankreich schlaegt Marokko in regulaerer Spielzeit",
-      "quote_bet365": 1.57,
       "einsatz_prozent_kasse": 1.5,
       "einsatz_euro": 8.25,
-      "begruendung": "Klassen-Edge 6/6, 17:2 Tore. 2:0-Insurance-Regel WM 2026 aktiv - gilt sobald FRA 2:0 fuehrt. Kein SAFE weil K.O.-Restrisiko + Pinnacle nur knapp positiv. 1.5% = 8.25EUR."
+      "begruendung": "Klassen-Edge 6/6, 17:2 Tore. 2:0-Insurance-Regel WM 2026 aktiv - gilt sobald FRA 2:0 fuehrt. Kein SAFE weil K.O.-Restrisiko + Pinnacle nur knapp positiv. 1.5% = 8.25EUR.",
+      "quote": 1.57,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 3
     },
     {
       "id": "einzel-04",
@@ -133,10 +151,12 @@ window.__MIESMUSCHEL_TIPPS = {
       "kategorie": "wackel",
       "markt": "Ousmane Dembele trifft (Torschuetze Jederzeit)",
       "wette": "Dembele erzielt mind. 1 Tor - Frankreich vs Marokko",
-      "quote_bet365": 3.2,
       "einsatz_prozent_kasse": 0.5,
       "einsatz_euro": 2.75,
-      "begruendung": "Form 4 Tore in 6 Spielen. Backup-Torschuetzen-Tipp wenn Frankreich >2 Tore erzielt. Einwechslungs-Boost aktiv. Kasse Stufe 1 Wackel-Limit: 0.5% = 2.75EUR."
+      "begruendung": "Form 4 Tore in 6 Spielen. Backup-Torschuetzen-Tipp wenn Frankreich >2 Tore erzielt. Einwechslungs-Boost aktiv. Kasse Stufe 1 Wackel-Limit: 0.5% = 2.75EUR.",
+      "quote": 3.2,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 4
     }
   ],
   "kombis": [],
@@ -185,4 +205,4 @@ window.__MIESMUSCHEL_TIPPS = {
     }
   ],
   "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
-};
+}
