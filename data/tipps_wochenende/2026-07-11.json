@@ -52,16 +52,17 @@
         },
         {
           "id": "2026-07-11-nor-eng-t2",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Harry Kane trifft (Torschuetze Jederzeit)",
           "wette": "Harry Kane erzielt mind. 1 Tor",
           "einsatz_prozent_kasse": 2.0,
           "einsatz_euro": 11.0,
           "edge_prozent": 12,
-          "begruendung": "**Form-Edge maximal**: 6 Tore in 6 Spielen = 1.0/G, 4.19 xG, 10 Torschuesse - konstant produktiv. Norwegen-Abwehr Ajer/Heggem hat gegen Brasilien Vinicius nur teilweise gestoppt. **Reality-Check**: 'Torschuetzen Jederzeit' laut markt_goldgruben.json Goldgrube (obwohl nicht als solche gelistet aktuell) - laut CLAUDE.md 50% HR / +24.4% ROI System-Rekord. **Anti-Fehl-Cluster-Warnung Lesson HR07-06-5**: Turnier-Top-Scorer-Anytime R16 = 3/3 Fehl-Cluster. Ist Kane R16 auch drin? Ja (0 Tore vs Mexiko laut FIFA-Recherche). Deshalb VALUE statt SAFE - Torschuetzen-Pflicht bei Auswaerts-Favorit + Form-Edge, aber Fehl-Cluster-Warnung. **Einwechslungs-Boost aktiv**: Kane raus -> Watkins/Toney zaehlen. Kasse Stufe 1: 2%.",
+          "begruendung": "**Form-Edge maximal**: 6 Tore in 6 Spielen = 1.0/G, 4.19 xG, 10 Torschuesse - konstant produktiv. Norwegen-Abwehr Ajer/Heggem hat gegen Brasilien Vinicius nur teilweise gestoppt. **Reality-Check**: 'Torschuetzen Jederzeit' laut markt_goldgruben.json Goldgrube (obwohl nicht als solche gelistet aktuell) - laut CLAUDE.md 50% HR / +24.4% ROI System-Rekord. **Anti-Fehl-Cluster-Warnung Lesson HR07-06-5**: Turnier-Top-Scorer-Anytime R16 = 3/3 Fehl-Cluster. Ist Kane R16 auch drin? Ja (0 Tore vs Mexiko laut FIFA-Recherche). Deshalb VALUE statt SAFE - Torschuetzen-Pflicht bei Auswaerts-Favorit + Form-Edge, aber Fehl-Cluster-Warnung. **Einwechslungs-Boost aktiv**: Kane raus -> Watkins/Toney zaehlen. Kasse Stufe 1: 2%. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "quote": 2.0,
           "faire_quote": 1.78,
-          "empfohlener_einsatz_prozent": 1.5
+          "empfohlener_einsatz_prozent": 1.5,
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "2026-07-11-nor-eng-t3",
@@ -142,16 +143,17 @@
       "tipps": [
         {
           "id": "2026-07-12-arg-sui-t1",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Lionel Messi trifft (Torschuetze Jederzeit)",
           "wette": "Lionel Messi erzielt mind. 1 Tor",
           "einsatz_prozent_kasse": 2.0,
           "einsatz_euro": 11.0,
           "edge_prozent": 12,
-          "begruendung": "**Form-Edge maximal**: 8 Tore in 6 Spielen = 1.33/G, alleiniger Golden-Boot-Fuehrer. Comeback-Held gegen Kap Verde + Aegypten. **Reality-Check**: 'Torschuetzen Jederzeit' laut CLAUDE.md System-Rekord-Goldgrube (HR 50%, ROI +24.4%). **Anti-Fehl-Cluster-Warnung Lesson HR07-06-5**: Turnier-Top-Scorer-Anytime R16 = 3/3 Fehl - aber Messi im R16 hat gegen Aegypten getroffen (Comeback-Tor). Der Fehl-Cluster war anders (Cristiano-Ronaldo-Muster etc.). VALUE statt SAFE trotz Ausnahme wegen: **Schweiz-Verteidigung (Akanji/Elvedi) Elite** + Kolumbien konnte nicht treffen -> Messi hat harten Job. **Einwechslungs-Boost aktiv** bei bet365. Kasse Stufe 1: 2%.",
+          "begruendung": "**Form-Edge maximal**: 8 Tore in 6 Spielen = 1.33/G, alleiniger Golden-Boot-Fuehrer. Comeback-Held gegen Kap Verde + Aegypten. **Reality-Check**: 'Torschuetzen Jederzeit' laut CLAUDE.md System-Rekord-Goldgrube (HR 50%, ROI +24.4%). **Anti-Fehl-Cluster-Warnung Lesson HR07-06-5**: Turnier-Top-Scorer-Anytime R16 = 3/3 Fehl - aber Messi im R16 hat gegen Aegypten getroffen (Comeback-Tor). Der Fehl-Cluster war anders (Cristiano-Ronaldo-Muster etc.). VALUE statt SAFE trotz Ausnahme wegen: **Schweiz-Verteidigung (Akanji/Elvedi) Elite** + Kolumbien konnte nicht treffen -> Messi hat harten Job. **Einwechslungs-Boost aktiv** bei bet365. Kasse Stufe 1: 2%. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "quote": 2.0,
           "faire_quote": 1.79,
-          "empfohlener_einsatz_prozent": 1.5
+          "empfohlener_einsatz_prozent": 1.5,
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "2026-07-12-arg-sui-t2",
@@ -349,7 +351,7 @@
     },
     {
       "name": "Wochenend-Risiko ~30x (Winger-Torschuetzen-Doppel-Ueberraschung)",
-      "kategorie": "risiko",
+      "kategorie": "risk",
       "gesamtquote": 30.25,
       "empfohlener_einsatz_euro": 1.4,
       "empfohlener_einsatz_prozent": 0.25,
