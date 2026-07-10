@@ -55,16 +55,17 @@ window.__MIESMUSCHEL_TIPPS = {
         },
         {
           "id": "2026-07-10-esp-bel-t2",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Mikel Oyarzabal trifft (Torschuetze Jederzeit)",
           "wette": "Oyarzabal erzielt mind. 1 Tor",
           "einsatz_prozent_kasse": 1.5,
           "einsatz_euro": 8.25,
           "edge_prozent": 10,
-          "begruendung": "**Form-Edge Pflicht-Erfuellung** (MARKT-MIX-Regel HEIM-FAVORIT): Oyarzabal Turnier-Top-Scorer Spanien mit 4 Toren in 5 Spielen (0.8/G) - unangefochtener Mittelstuermer, klinische Verwertung. **Reality-Check**: Markt 'Torschuetzen Jederzeit' n=93, HR=37.4%, ROI=+5.8% - Basis solide. **Einwechslungs-Boost aktiv** (bet365-WM 2026): Backup Merino (R16-Winner Portugal) - falls Oyarzabal ausgewechselt und Merino trifft, Tipp durch. **Vorsicht Lesson HR07-06-5**: Turnier-Top-Scorer verpassten in R16 Cluster 3/3 (Oyarzabal / Ronaldo / Balogun). **Aber** Oyarzabal-Rolle in Startelf zentral (nicht rotier-gefaehrdet wie Ronaldo/Balogun) - Edge bleibt real. Pinnacle-fair ca. 2.05, bet365 1.95 -> Edge > 5%. Kein SAFE wegen R16-Fehl-Cluster-Warnung.",
+          "begruendung": "**Form-Edge Pflicht-Erfuellung** (MARKT-MIX-Regel HEIM-FAVORIT): Oyarzabal Turnier-Top-Scorer Spanien mit 4 Toren in 5 Spielen (0.8/G) - unangefochtener Mittelstuermer, klinische Verwertung. **Reality-Check**: Markt 'Torschuetzen Jederzeit' n=93, HR=37.4%, ROI=+5.8% - Basis solide. **Einwechslungs-Boost aktiv** (bet365-WM 2026): Backup Merino (R16-Winner Portugal) - falls Oyarzabal ausgewechselt und Merino trifft, Tipp durch. **Vorsicht Lesson HR07-06-5**: Turnier-Top-Scorer verpassten in R16 Cluster 3/3 (Oyarzabal / Ronaldo / Balogun). **Aber** Oyarzabal-Rolle in Startelf zentral (nicht rotier-gefaehrdet wie Ronaldo/Balogun) - Edge bleibt real. Pinnacle-fair ca. 2.05, bet365 1.95 -> Edge > 5%. Kein SAFE wegen R16-Fehl-Cluster-Warnung. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "quote": 1.95,
           "faire_quote": 1.75,
-          "empfohlener_einsatz_prozent": 1.5
+          "empfohlener_einsatz_prozent": 1.5,
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "2026-07-10-esp-bel-t3",
@@ -92,7 +93,8 @@ window.__MIESMUSCHEL_TIPPS = {
           "faire_quote": 2.6,
           "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     }
   ],
   "einzeltipps": [
@@ -106,7 +108,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "einsatz_prozent_kasse": 2.0,
       "einsatz_euro": 11.0,
       "edge_prozent": 8,
-      "kurz_begruendung": "Klassen-Edge: 5/5 Zu-Null-Serie einziges WM-Team ohne Gegentor. **2:0-Insurance aktiv** (WM 2026). Pinnacle-fair 1.55-1.60, Edge >3%. Reality-Check Sieg-Markt HR 58.6%/ROI +3.8%. Kein SAFE: K.O.-Modus-Restrisiko (Verlaengerung moeglich)."
+      "kurz_begruendung": "Klassen-Edge: 5/5 Zu-Null-Serie einziges WM-Team ohne Gegentor. **2:0-Insurance aktiv** (WM 2026). Pinnacle-fair 1.55-1.60, Edge >3%. Reality-Check Sieg-Markt HR 58.6%/ROI +3.8%. Kein SAFE: K.O.-Modus-Restrisiko (Verlaengerung moeglich).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 1
     },
     {
       "id": "einzel-2026-07-10-02",
@@ -118,7 +122,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "einsatz_prozent_kasse": 2.0,
       "einsatz_euro": 11.0,
       "edge_prozent": 12,
-      "kurz_begruendung": "Markt-Goldgrube Nr.1 (HR 68% / ROI +24%). Spanien 5 zu null + Belgien-Onana-Ausfall + Klassen-Konkurrent-K.O.-Pattern. Lesson HR07-09-1: QF-Auftakt FRA-MAR 2:0 startete Unter-2.5-Cluster (R16-Ueber-2.5-Serie 6/6 abgerissen)."
+      "kurz_begruendung": "Markt-Goldgrube Nr.1 (HR 68% / ROI +24%). Spanien 5 zu null + Belgien-Onana-Ausfall + Klassen-Konkurrent-K.O.-Pattern. Lesson HR07-09-1: QF-Auftakt FRA-MAR 2:0 startete Unter-2.5-Cluster (R16-Ueber-2.5-Serie 6/6 abgerissen).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 2
     },
     {
       "id": "einzel-2026-07-10-03",
@@ -130,7 +136,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "einsatz_prozent_kasse": 1.5,
       "einsatz_euro": 8.25,
       "edge_prozent": 10,
-      "kurz_begruendung": "Turnier-Top-Scorer Spanien (4 Tore/5 Spiele, unangefochtener CF). Form-Edge-Pflicht Heim-Favorit-Profil. Einwechslungs-Boost via Merino aktiv. Vorsicht Lesson HR07-06-5 (R16-Top-Scorer-Fehl-Cluster 3/3), aber Oyarzabal-Rolle zentral nicht rotier-gefaehrdet."
+      "kurz_begruendung": "Turnier-Top-Scorer Spanien (4 Tore/5 Spiele, unangefochtener CF). Form-Edge-Pflicht Heim-Favorit-Profil. Einwechslungs-Boost via Merino aktiv. Vorsicht Lesson HR07-06-5 (R16-Top-Scorer-Fehl-Cluster 3/3), aber Oyarzabal-Rolle zentral nicht rotier-gefaehrdet.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 3
     },
     {
       "id": "einzel-2026-07-10-04",
@@ -142,7 +150,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "einsatz_prozent_kasse": 0.5,
       "einsatz_euro": 2.75,
       "edge_prozent": 5,
-      "kurz_begruendung": "Volume-Star Alternativ-Torschuetze: Startelf-Rechtsflanke, hohe Schuss-Frequenz vs De Cuyper. Yamal-Turnier bislang mehr Assist-lastig - Wackel weil Torschuss-Umwandlung niedriger als reine CFs. Wackel-Einsatz Stufe 1 = 2.75 EUR."
+      "kurz_begruendung": "Volume-Star Alternativ-Torschuetze: Startelf-Rechtsflanke, hohe Schuss-Frequenz vs De Cuyper. Yamal-Turnier bislang mehr Assist-lastig - Wackel weil Torschuss-Umwandlung niedriger als reine CFs. Wackel-Einsatz Stufe 1 = 2.75 EUR.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 4
     }
   ],
   "kombis": [],
