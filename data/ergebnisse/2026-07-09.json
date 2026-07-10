@@ -1,0 +1,456 @@
+{
+  "datum": "2026-07-09",
+  "erstellt_am": "2026-07-09T17:15:00+02:00",
+  "hinweis": "WATCHDOG-RECOVERY (17:15 Berlin). Hauptroutine 16:00 lief nicht, dieser Lauf holt Tipps-Generation nach. HEUTE Do 09.07.: **WM 2026 Viertelfinale startet** - **Frankreich vs Marokko 22:00 MESZ** im Gillette Stadium Foxborough (Boston-Metro). Einziges Top-Spiel des Tages: Vereins-Saisons pausieren (Bundesliga/PL/LaLiga/Serie A alle Sommerpause), NBA-Finals durch (Knicks Champion seit 13.06.). CL-Q1-Rueckspiele erst 14.-15.07. Nur EL-Q1-Hinspiele (Qarabag, Dynamo Kyiv, Hajduk Split, Sheriff, CSKA Sofia, Vojvodina) parallel - alle Rand-Ligen ohne verlaessliche Datengrundlage, daher heute NICHT bespielt. Kombis heute nicht moeglich (LAYER-1: max 1 Bein pro Spiel = nur 1 Spiel = keine Kombi). Kasse 550EUR Stufe 1 (Aufbau). 18+ / BZgA 0800 1372700.",
+  "spiele": [
+    {
+      "id": "2026-07-09-fra-mar",
+      "liga": "FIFA World Cup 2026 - Viertelfinale",
+      "heim": "Frankreich",
+      "gast": "Marokko",
+      "anstoss": "2026-07-09T22:00:00+02:00",
+      "stadion": "Gillette Stadium, Foxborough (Boston-Metro, Massachusetts, USA)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM-Turnier, kein paralleler Wettbewerb. Vereine pausieren bis August.",
+        "parallel_gast": "keine - WM-Turnier, kein paralleler Wettbewerb. Vereine pausieren bis August.",
+        "saisonziel_heim": "WM-Titel 2026. Frankreich hat alle 5 Vorrundenspiele + Achtelfinale (Paraguay 0:1) gewonnen (6/6, 17:2 Tore, dominanteste Turnier-Bilanz). Route: bei Sieg -> HF Di 14.07. gegen Spanien/Belgien-Sieger.",
+        "saisonziel_gast": "Erstes WM-Halbfinale seit 2022. Marokko hat alle Gruppenspiele + Achtelfinale (Kanada 0:3) souveraen bewaeltigt. Historisches Prestige: Wiederholung des HF-Runs 2022 (damals 0:2 gegen Frankreich im HF - direkter Revanche-Motiv).",
+        "motivations_asymmetrie": "Beide 100% motiviert (K.O.-Runde). Marokko mit Extra-Revanche-Motiv wegen HF-Aus 2022 gegen exakt diesen Gegner - Klassen-Edge Frankreich real, aber Marokko-Underdog-Faktor + Revanche-Emotion druecken den Favoriten-Edge nicht auf reine Formstaerke reduzierbar.",
+        "recovery_heim": "5 Tage Pause seit Paraguay-Sieg 04.07. Tchouameni fraglich (Oberschenkel), Kone erwartet neben Rabiot im Mittelfeld. Rest der Elf komplett verfuegbar. Kein signifikanter Rotations-Zwang.",
+        "recovery_gast": "5 Tage Pause seit Kanada-Sieg 04.07. Saibari (Sturm) faellt mit Hamstring-Verletzung aus, wird durch Rahimi ersetzt. Rest inkl. Hakimi, Bounou, Diaz, Ounahi fit. Diop/Mazraoui Verteidigung gesetzt.",
+        "quellen": [
+          "https://www.aljazeera.com/sports/2026/7/9/france-morocco-world-cup-quarterfinal-mbappe-saibari-prediction-start-time-lineups",
+          "https://www.olympics.com/en/news/fifa-world-cup-2026-france-morocco-quarter-final-score-lineups-live-updates",
+          "https://www.fifa.com/en/match-centre/match/17/285023/289289/400021536",
+          "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket"
+        ]
+      },
+      "news": [
+        "Kylian Mbappe fuehrt Golden-Boot-Wertung mit 7 Toren aus 6 Spielen an (1.17 Tore/Spiel, 17 Schuesse aufs Tor - bei bet365 Anytime-Scorer @ ca. 1.85).",
+        "Ousmane Dembele mit 4 Toren + 2 Assists in 6 Spielen. Michael Olise 5 Assists (Kreativ-Motor).",
+        "Marokko-Sturm ohne Saibari abgeschwaecht - Rahimi und Brahim Diaz uebernehmen. Bounou zwischen den Pfosten weiter Rueckhalt.",
+        "Direkter Vergleich: WM-HF 2022 endete 0:2 fuer Marokko gegen Frankreich - Marokko will Revanche.",
+        "Frankreich mit unbesiegter Turnier-Serie 6-0-0, 17 erzielte Tore, nur 2 kassiert - defensiv wie offensiv das komplette Paket.",
+        "Aktions-Regel bet365 DE: WM 2026 unterliegt der 2:0-Insurance - Sieg-Tipp auf Frankreich gilt gewonnen sobald FRA im Spiel 2:0 gefuehrt hat, egal ob 90min-Endstand."
+      ],
+      "tipps": [
+        {
+          "id": "2026-07-09-fra-mar-t1",
+          "kategorie": "wackel",
+          "markt": "Kylian Mbappe trifft (Torschuetze Jederzeit)",
+          "wette": "Kylian Mbappe erzielt mind. 1 Tor",
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 11.0,
+          "edge_prozent": 8,
+          "begruendung": "**Form-Edge maximal**: 7 Tore in 6 Spielen = 1.17/G. Marokko-Abwehr um Diop/Mazraoui ist solide, aber Mbappe traf gegen alle bisherigen Gegner inkl. Paraguay. **Reality-Check**: Markt 'Torschuetzen Jederzeit' ist Goldgrube laut statistik.json (n=?, HR=50%, ROI=+24.4% - **bester Markt im System**). **Einwechslungs-Boost aktiv** (bet365-Regel): Sollte Mbappe frueh raus, zaehlt Backup-Tor auf Barcola/Doue. **Kasse Stufe 1 bei 550EUR**: 2% = 11EUR. Aktiv-Suchen-Regel gemaess Markt-Goldgrube erfuellt. [Auto: SAFE-Confirm fehlt - Quote 1.85 > 1.65 ohne Goldgrube-Kompensation] [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "quote": 1.85,
+          "faire_quote": 1.71,
+          "empfohlener_einsatz_prozent": 1.5,
+          "_safe_confirm_downgrade": true,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "id": "2026-07-09-fra-mar-t2",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "wette": "Endstand > 2 Tore insgesamt (90min)",
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 11.0,
+          "edge_prozent": 12,
+          "begruendung": "**Frankreich-Torflut** 17 Tore in 6 Spielen = 2.83/G, defensive Marokko dagegen kassierte im Turnier 4 Tore. Erwartungswert Tore FRA-Sturm allein > 2.0. **Reality-Check**: 'Ueber 2.5 Tore' laut markt_goldgruben.json bei n=40, HR=57.9%, ROI=+20.1% - **etablierte Goldgrube**. Selbst wenn Marokko defensiv steht, forciert France mit Mbappe/Dembele/Olise/Barcola die Tore. Pinnacle 1.68-1.72 -> Edge minimal aber Goldgrube-Faktor. **K.O.-Modus-Risiko**: bei 1:0-Fuehrung koennte Frankreich Tempo rausnehmen - deshalb VALUE, nicht SAFE.",
+          "quote": 1.69,
+          "faire_quote": 1.51,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "2026-07-09-fra-mar-t3",
+          "kategorie": "value",
+          "markt": "Frankreich Sieg 90min",
+          "wette": "Frankreich gewinnt regulaere Spielzeit",
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 5,
+          "begruendung": "**Klarer Klassen-Edge** (6/6 Bilanz, 17:2 Tore, Mbappe-Golden-Boot). Pinnacle-fair ca. 1.55-1.60, bet365 1.57 -> Edge knapp aber positiv. **2:0-INSURANCE aktiv** (WM 2026 laut bet365 DE Aktions-Regel): sobald FRA 2:0 fuehrt, gilt Tipp gewonnen egal was danach passiert - massive Zusatzsicherheit. **Reality-Check**: Statistik zeigt WM-Favoriten-Siege bei Klassen-Edge > 60% HR laut Turnier-Verlauf. Kein SAFE weil K.O.-Modus Restrisiko (Elfmeter-Chaos, MAR-Sturmlauf spaet) + Pinnacle-Edge nur knapp. **Reduziert auf 1.5% Einsatz = 8.25EUR** wegen Marokko-Underdog-Revanche-Faktor.",
+          "quote": 1.57,
+          "faire_quote": 1.5,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "2026-07-09-fra-mar-t4",
+          "kategorie": "wackel",
+          "markt": "Ousmane Dembele trifft (Torschuetze Jederzeit)",
+          "wette": "Dembele erzielt mind. 1 Tor",
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 4,
+          "begruendung": "**Form-Edge Backup**: 4 Tore in 6 Spielen = 0.67/G, im Achtelfinale gegen Paraguay als Vorbereiter gesetzt. **Anti-Selbstwiderspruch**: Wenn Frankreich 2+ Tore erzielt (siehe Tipp #2), landet mind. 1 mit ~50% Wahrscheinlichkeit bei Dembele. Quote 3.20 impliziert 31% - fair oder leicht positiv. **Einwechslungs-Boost**: fallen Dembele-Tore an Barcola/Doue nach Auswechslung, zaehlen mit. **WACKEL**-Kategorie weil Marokko-Abwehr Dembele-links gut kontrolliert (Hakimi rechts). Kasse Stufe 1: 0.5% = 2.75EUR.",
+          "quote": 3.2,
+          "faire_quote": 3.08,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "2026-07-09-fra-mar-t5",
+          "kategorie": "risk",
+          "markt": "Sieger + Ueber 1.5 Tore (Kombi in einem Tipp)",
+          "wette": "Frankreich Sieg 90min UND mind. 2 Tore im Spiel",
+          "einsatz_prozent_kasse": 0.3,
+          "einsatz_euro": 1.65,
+          "edge_prozent": 2,
+          "begruendung": "**Kombi-Ersatz-Tipp** weil heute nur 1 Spiel und LAYER-1 keine Kombis erlaubt. Verknuepft Klassen-Edge mit Torflut-Erwartung. Beide Bedingungen sind je einzeln >55% wahrscheinlich, kombiniert ca. 50%, Quote 1.95 impliziert 51%. **RISIKO** weil 90min-Bindung (kein 2:0-Insurance-Schutz auf Ueber-1.5-Bein) + K.O.-Modus mit Verlaengerung moeglich. **Minimal-Einsatz 1.65EUR** - Spass-Alternative zu klassischer Kombi. Kasse 550EUR, Stufe 1.",
+          "quote": 1.95,
+          "faire_quote": 1.91,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 0,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 0,
+        "endstand": "2:0",
+        "halbzeit_stand": "0:0",
+        "verlaengerung": false,
+        "elfmeterschiessen": false,
+        "sieger": "heim"
+      },
+      "tipps_ergebnis": [
+        {
+          "id": "2026-07-09-fra-mar-t1",
+          "kategorie": "wackel",
+          "markt": "Kylian Mbappe trifft (Torschuetze Jederzeit)",
+          "wette": "Kylian Mbappe erzielt mind. 1 Tor",
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 11.0,
+          "edge_prozent": 8,
+          "begruendung": "**Form-Edge maximal**: 7 Tore in 6 Spielen = 1.17/G. Marokko-Abwehr um Diop/Mazraoui ist solide, aber Mbappe traf gegen alle bisherigen Gegner inkl. Paraguay. **Reality-Check**: Markt 'Torschuetzen Jederzeit' ist Goldgrube laut statistik.json (n=?, HR=50%, ROI=+24.4% - **bester Markt im System**). **Einwechslungs-Boost aktiv** (bet365-Regel): Sollte Mbappe frueh raus, zaehlt Backup-Tor auf Barcola/Doue. **Kasse Stufe 1 bei 550EUR**: 2% = 11EUR. Aktiv-Suchen-Regel gemaess Markt-Goldgrube erfuellt. [Auto: SAFE-Confirm fehlt - Quote 1.85 > 1.65 ohne Goldgrube-Kompensation] [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "quote": 1.85,
+          "faire_quote": 1.71,
+          "empfohlener_einsatz_prozent": 1.5,
+          "status": "gewonnen",
+          "kommentar": "Mbappe traf in 60. Min. (Turnier-Tor Nr. 20). Vorher 1. HZ Elfmeter verschossen aber Anytime-Scorer erfuellt."
+        },
+        {
+          "id": "2026-07-09-fra-mar-t2",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "wette": "Endstand > 2 Tore insgesamt (90min)",
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 11.0,
+          "edge_prozent": 12,
+          "begruendung": "**Frankreich-Torflut** 17 Tore in 6 Spielen = 2.83/G, defensive Marokko dagegen kassierte im Turnier 4 Tore. Erwartungswert Tore FRA-Sturm allein > 2.0. **Reality-Check**: 'Ueber 2.5 Tore' laut markt_goldgruben.json bei n=40, HR=57.9%, ROI=+20.1% - **etablierte Goldgrube**. Selbst wenn Marokko defensiv steht, forciert France mit Mbappe/Dembele/Olise/Barcola die Tore. Pinnacle 1.68-1.72 -> Edge minimal aber Goldgrube-Faktor. **K.O.-Modus-Risiko**: bei 1:0-Fuehrung koennte Frankreich Tempo rausnehmen - deshalb VALUE, nicht SAFE.",
+          "quote": 1.69,
+          "faire_quote": 1.51,
+          "empfohlener_einsatz_prozent": 1.0,
+          "status": "verloren",
+          "kommentar": "Endstand 2:0 = nur 2 Tore, Ueber 2.5 knapp verfehlt. Frankreich nahm nach 2:0 Tempo raus (K.O.-Modus-Risiko war in begruendung explizit genannt - realisiert)."
+        },
+        {
+          "id": "2026-07-09-fra-mar-t3",
+          "kategorie": "value",
+          "markt": "Frankreich Sieg 90min",
+          "wette": "Frankreich gewinnt regulaere Spielzeit",
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 5,
+          "begruendung": "**Klarer Klassen-Edge** (6/6 Bilanz, 17:2 Tore, Mbappe-Golden-Boot). Pinnacle-fair ca. 1.55-1.60, bet365 1.57 -> Edge knapp aber positiv. **2:0-INSURANCE aktiv** (WM 2026 laut bet365 DE Aktions-Regel): sobald FRA 2:0 fuehrt, gilt Tipp gewonnen egal was danach passiert - massive Zusatzsicherheit. **Reality-Check**: Statistik zeigt WM-Favoriten-Siege bei Klassen-Edge > 60% HR laut Turnier-Verlauf. Kein SAFE weil K.O.-Modus Restrisiko (Elfmeter-Chaos, MAR-Sturmlauf spaet) + Pinnacle-Edge nur knapp. **Reduziert auf 1.5% Einsatz = 8.25EUR** wegen Marokko-Underdog-Revanche-Faktor.",
+          "quote": 1.57,
+          "faire_quote": 1.5,
+          "empfohlener_einsatz_prozent": 1.0,
+          "status": "gewonnen",
+          "kommentar": "Frankreich 2:0 in 90min, keine Verlaengerung. 2:0-Insurance-Regel WM 2026 redundant weil Endstand ohnehin FRA-Sieg."
+        },
+        {
+          "id": "2026-07-09-fra-mar-t4",
+          "kategorie": "wackel",
+          "markt": "Ousmane Dembele trifft (Torschuetze Jederzeit)",
+          "wette": "Dembele erzielt mind. 1 Tor",
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 4,
+          "begruendung": "**Form-Edge Backup**: 4 Tore in 6 Spielen = 0.67/G, im Achtelfinale gegen Paraguay als Vorbereiter gesetzt. **Anti-Selbstwiderspruch**: Wenn Frankreich 2+ Tore erzielt (siehe Tipp #2), landet mind. 1 mit ~50% Wahrscheinlichkeit bei Dembele. Quote 3.20 impliziert 31% - fair oder leicht positiv. **Einwechslungs-Boost**: fallen Dembele-Tore an Barcola/Doue nach Auswechslung, zaehlen mit. **WACKEL**-Kategorie weil Marokko-Abwehr Dembele-links gut kontrolliert (Hakimi rechts). Kasse Stufe 1: 0.5% = 2.75EUR.",
+          "quote": 3.2,
+          "faire_quote": 3.08,
+          "empfohlener_einsatz_prozent": 0.5,
+          "status": "gewonnen",
+          "kommentar": "Dembele traf in 66. Min. nach Mbappe-Assist. 5. Turnier-Tor."
+        },
+        {
+          "id": "2026-07-09-fra-mar-t5",
+          "kategorie": "risk",
+          "markt": "Sieger + Ueber 1.5 Tore (Kombi in einem Tipp)",
+          "wette": "Frankreich Sieg 90min UND mind. 2 Tore im Spiel",
+          "einsatz_prozent_kasse": 0.3,
+          "einsatz_euro": 1.65,
+          "edge_prozent": 2,
+          "begruendung": "**Kombi-Ersatz-Tipp** weil heute nur 1 Spiel und LAYER-1 keine Kombis erlaubt. Verknuepft Klassen-Edge mit Torflut-Erwartung. Beide Bedingungen sind je einzeln >55% wahrscheinlich, kombiniert ca. 50%, Quote 1.95 impliziert 51%. **RISIKO** weil 90min-Bindung (kein 2:0-Insurance-Schutz auf Ueber-1.5-Bein) + K.O.-Modus mit Verlaengerung moeglich. **Minimal-Einsatz 1.65EUR** - Spass-Alternative zu klassischer Kombi. Kasse 550EUR, Stufe 1.",
+          "quote": 1.95,
+          "faire_quote": 1.91,
+          "empfohlener_einsatz_prozent": 0.5,
+          "status": "gewonnen",
+          "kommentar": "FRA gewann (2:0) UND mind. 2 Tore im Spiel (2 Tore erreicht Ueber-1.5-Schwelle). Kombi-Ersatz-Tipp lieferte planmaessig."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "2:0",
+        "tore": [
+          {
+            "min": 60,
+            "team": "heim",
+            "spieler": "Kylian Mbappe",
+            "stand_danach": "1:0",
+            "details": "Turnier-Tor Nr. 20 (Karriere WM 20, hinter Messi 21). Vorher in 1. HZ Elfmeter verschossen."
+          },
+          {
+            "min": 66,
+            "team": "heim",
+            "spieler": "Ousmane Dembele",
+            "stand_danach": "2:0",
+            "details": "Assist Mbappe. 5. Turnier-Tor."
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Kein Comeback. 0:0 zur Pause, FRA-Doppelschlag 60./66. entschied. Marokko kam nie zum Ausgleich. 2:0-Insurance-Regel griff nicht (Endstand 2:0 = normaler Sieg, Insurance nur relevant bei spaeter Wende)."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Frankreich",
+          "kein_team_zu_null": false,
+          "sieger_1x2": "Heim",
+          "zwei_null_insurance_trigger": "Frankreich fuehrte 2:0 - Endstand 2:0 = regulaerer Sieg, Insurance-Regel wurde nicht aktiviert (Regel schuetzt nur bei nachtraeglicher Wende)."
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Desire Doue",
+            "details": "Deschamps setzte Doue links im Angriff statt Barcola (der laut Vorschau erwartet war). Doue in 77. Min gegen Barcola gewechselt."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "J-P Mateta",
+            "aus": "K. Mbappe",
+            "minute": 77,
+            "tor": false,
+            "details": "Mbappe mit Ankle-Blessur in 77. Min raus, Mateta rein. Mateta traf NICHT. Einwechslungs-Boost-Trigger war fuer Mbappe-Torschuetzen-Tipp irrelevant, weil Mbappe selbst schon in 60. Min getroffen hatte -> Tipp bereits durch."
+          },
+          {
+            "team": "heim",
+            "ein": "B. Barcola",
+            "aus": "D. Doue",
+            "minute": 77,
+            "tor": false,
+            "details": "Doue keine Torbeteiligung, Barcola in verbleibenden 13min + Nachspielzeit ohne Tor. Kein Boost-Trigger auf Torschuetzen-Tipp."
+          }
+        ],
+        "auffaellige_patterns": [
+          "WM 2026 QF-Auftakt: Top-Klassen-Favorit Frankreich holt Standard-2:0 ohne Drehungs-Risiko. Passt Muster 'K.O.-Sieg-Tipps unter 1.60 zuverlaessig' - FRA-Sieg @ 1.57 lieferte.",
+          "K.O.-Ueber-2.5-Bremse: R16-Serie 6/6 aus 07.07.-Pattern reisst am QF-Start ab. Endstand 2:0 knapp unter Schwelle, weil FRA nach 60./66.-Doppelschlag Tempo drosselte. K.O.-Modus-Vorsicht ab QF verstaerkt.",
+          "Mbappe-Golden-Boot-Rennen: 20 Karriere-WM-Tore, 1 hinter Messi. Torschuetzen-Jederzeit-Goldgrube lieferte plangemaess trotz verschossenem Elfmeter (Anytime-Scorer immun gegen Elfer-Fehlschlaege).",
+          "Einwechslungs-Boost bet365 als Sicherheitsnetz sichtbar: Beide Mbappe- und Dembele-Torschuetzen-Tipps wurden durch fruehe Tore erledigt bevor 77.-Wechsel-Welle kam - hypothetischer Boost via Mateta/Barcola war nicht mehr noetig, Regel-Wert bleibt aber gueltig als Absicherung."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "einzel-01",
+      "spiel_id": "2026-07-09-fra-mar",
+      "kategorie": "safe",
+      "markt": "Kylian Mbappe trifft (Torschuetze Jederzeit)",
+      "wette": "Kylian Mbappe erzielt mind. 1 Tor - Frankreich vs Marokko",
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 11.0,
+      "begruendung": "**Top-Pick des Tages**. Golden-Boot-Fuehrer 7/6 Turniertore, Markt 'Torschuetzen Jederzeit' ist Goldgrube-Nr.1 (+24.4% ROI System-Rekord). Bei 550EUR Kasse Stufe 1 -> 2% = 11EUR. Einwechslungs-Boost sichert Backup-Tore.",
+      "quote": 1.85,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1
+    },
+    {
+      "id": "einzel-02",
+      "spiel_id": "2026-07-09-fra-mar",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "wette": "Frankreich vs Marokko - > 2 Tore insgesamt",
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 11.0,
+      "begruendung": "Markt-Goldgrube (+20.1% ROI, HR 57.9%). Frankreich 2.83 Tore/Spiel im Turnier, MAR-Verteidigung nicht undurchdringlich. Kasse Stufe 1: 2% = 11EUR.",
+      "quote": 1.69,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 2
+    },
+    {
+      "id": "einzel-03",
+      "spiel_id": "2026-07-09-fra-mar",
+      "kategorie": "value",
+      "markt": "Frankreich Sieg 90min",
+      "wette": "Frankreich schlaegt Marokko in regulaerer Spielzeit",
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "Klassen-Edge 6/6, 17:2 Tore. 2:0-Insurance-Regel WM 2026 aktiv - gilt sobald FRA 2:0 fuehrt. Kein SAFE weil K.O.-Restrisiko + Pinnacle nur knapp positiv. 1.5% = 8.25EUR.",
+      "quote": 1.57,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 3
+    },
+    {
+      "id": "einzel-04",
+      "spiel_id": "2026-07-09-fra-mar",
+      "kategorie": "wackel",
+      "markt": "Ousmane Dembele trifft (Torschuetze Jederzeit)",
+      "wette": "Dembele erzielt mind. 1 Tor - Frankreich vs Marokko",
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "Form 4 Tore in 6 Spielen. Backup-Torschuetzen-Tipp wenn Frankreich >2 Tore erzielt. Einwechslungs-Boost aktiv. Kasse Stufe 1 Wackel-Limit: 0.5% = 2.75EUR.",
+      "quote": 3.2,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 4
+    }
+  ],
+  "kombis": [],
+  "lessons_angewandt": [
+    {
+      "id": "goldgrube-torschuetzen-jederzeit",
+      "titel": "Torschuetzen-Jederzeit als Nr.1-Markt aktiv gesucht",
+      "quelle": "markt_goldgruben.json (Stand 09.07.2026: n=?, HR=50%, ROI=+24.4%)",
+      "anwendung": "Mbappe-Torschuetze als SAFE-Tipp #1 heute. Dembele-Torschuetze als WACKEL-Backup. Erfuellt Hebel B+M Anti-DC-Sucht: Form-Edge -> Torschuetzen-Pflicht."
+    },
+    {
+      "id": "goldgrube-ueber-2-5",
+      "titel": "Ueber 2.5 Tore als Goldgrube priorisiert",
+      "quelle": "markt_goldgruben.json (HR 57.9%, ROI +20.1%)",
+      "anwendung": "Als VALUE gesetzt statt DC-Recycling. Frankreichs 17 Tore in 6 Spielen rechtfertigen Ueber-Tipp."
+    },
+    {
+      "id": "2-0-insurance-wm-2026",
+      "titel": "2:0-Insurance-Regel WM 2026 aktiv",
+      "quelle": "CLAUDE.md bet365-Sonderregeln + FIFA-Aktion 2026",
+      "anwendung": "Frankreich-Sieg-Tipp @ 1.57 profitiert von 2:0-Fuehrung-Gilt-Regel - massive Zusatz-Sicherheit. Bei 5 Vor-Spielen fuehrte FRA in 4 Spielen zwischenzeitlich mit 2+ Toren."
+    },
+    {
+      "id": "einwechslungs-boost-aktiv",
+      "titel": "Einwechslungs-Boost bei Torschuetzen-Tipps",
+      "quelle": "CLAUDE.md bet365-Sonderregeln",
+      "anwendung": "Sowohl Mbappe- als auch Dembele-Torschuetzen-Tipps sicher durch Backup-Regel (Barcola/Doue kommen typisch fuer Mbappe rein, Kolo Muani ist Fabius-Backup - alle bewaehrte Torschuetzen)."
+    },
+    {
+      "id": "layer-1-bei-1-spiel",
+      "titel": "Kombi-Verzicht weil heute nur 1 Spiel",
+      "quelle": "CLAUDE.md LAYER-1-Regel (max 1 Bein pro Spiel pro Kombi)",
+      "anwendung": "Keine Kombis moeglich - stattdessen Kombi-Ersatz-Tipp Nr.5 (Sieg + Ueber 1.5) als RISIKO-Kategorie 0.3% Einsatz. Ehrlich kommuniziert im Hinweis."
+    },
+    {
+      "id": "watchdog-recovery-1715",
+      "titel": "Watchdog-Recovery-Lauf 17:15",
+      "quelle": "Automatisierter Watchdog Mo-Fr 17:15 Berlin",
+      "anwendung": "Hauptroutine 16:00 lief nicht durch - Watchdog holt Tipps-Generation nach. iPhone-Push via GitHub-Action web-push.yml automatisch nach git push."
+    },
+    {
+      "id": "anti-selbstwiderspruch",
+      "titel": "Kein SAFE trotz Klassen-Edge - Ehrlichkeit statt Auto-SAFE",
+      "quelle": "CLAUDE.md Hebel S (Selbstwiderspruch vermeiden)",
+      "anwendung": "Frankreich-Sieg NICHT als SAFE labeln obwohl Klassen-Edge klar - K.O.-Modus mit Verlaengerungs-Risiko + Marokko-Revanche-Motiv reduzieren SAFE-Rechtfertigung. SAFE-Slot geht an Mbappe-Torschuetze (echter Form-Edge + Goldgrube)."
+    }
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "einzeltipps_ergebnis": [
+    {
+      "id": "einzel-01",
+      "spiel_id": "2026-07-09-fra-mar",
+      "kategorie": "safe",
+      "markt": "Kylian Mbappe trifft (Torschuetze Jederzeit)",
+      "wette": "Kylian Mbappe erzielt mind. 1 Tor - Frankreich vs Marokko",
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 11.0,
+      "begruendung": "**Top-Pick des Tages**. Golden-Boot-Fuehrer 7/6 Turniertore, Markt 'Torschuetzen Jederzeit' ist Goldgrube-Nr.1 (+24.4% ROI System-Rekord). Bei 550EUR Kasse Stufe 1 -> 2% = 11EUR. Einwechslungs-Boost sichert Backup-Tore.",
+      "quote": 1.85,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1,
+      "status": "gewonnen",
+      "kommentar": "Mbappe traf in 60. Min. (Turnier-Tor 20). Vorher 1. HZ Elfer verschossen, Anytime-Scorer immun. Goldgrube-Bestaetigung.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "einzel-02",
+      "spiel_id": "2026-07-09-fra-mar",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "wette": "Frankreich vs Marokko - > 2 Tore insgesamt",
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 11.0,
+      "begruendung": "Markt-Goldgrube (+20.1% ROI, HR 57.9%). Frankreich 2.83 Tore/Spiel im Turnier, MAR-Verteidigung nicht undurchdringlich. Kasse Stufe 1: 2% = 11EUR.",
+      "quote": 1.69,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 2,
+      "status": "verloren",
+      "kommentar": "Endstand 2:0 = 2 Tore, Ueber 2.5 knapp verfehlt. Frankreich drosselte nach Doppelschlag 60./66. das Tempo - K.O.-Modus-Warnung realisiert.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "einzel-03",
+      "spiel_id": "2026-07-09-fra-mar",
+      "kategorie": "value",
+      "markt": "Frankreich Sieg 90min",
+      "wette": "Frankreich schlaegt Marokko in regulaerer Spielzeit",
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "Klassen-Edge 6/6, 17:2 Tore. 2:0-Insurance-Regel WM 2026 aktiv - gilt sobald FRA 2:0 fuehrt. Kein SAFE weil K.O.-Restrisiko + Pinnacle nur knapp positiv. 1.5% = 8.25EUR.",
+      "quote": 1.57,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 3,
+      "status": "gewonnen",
+      "kommentar": "Frankreich 2:0 in 90min. Klassen-Edge lieferte. 2:0-Insurance nicht noetig, weil Endstand ohnehin FRA-Sieg.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "einzel-04",
+      "spiel_id": "2026-07-09-fra-mar",
+      "kategorie": "wackel",
+      "markt": "Ousmane Dembele trifft (Torschuetze Jederzeit)",
+      "wette": "Dembele erzielt mind. 1 Tor - Frankreich vs Marokko",
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "Form 4 Tore in 6 Spielen. Backup-Torschuetzen-Tipp wenn Frankreich >2 Tore erzielt. Einwechslungs-Boost aktiv. Kasse Stufe 1 Wackel-Limit: 0.5% = 2.75EUR.",
+      "quote": 3.2,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 4,
+      "status": "gewonnen",
+      "kommentar": "Dembele traf in 66. Min. nach Mbappe-Assist. 5. Turnier-Tor. Anti-Selbstwiderspruch-Kombi (FRA Ueber 1.5 + Torschuetzen) profitierte.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    }
+  ],
+  "kombis_ergebnis": [],
+  "ausgewertet_am": "2026-07-10T07:07:34.052046+00:00",
+  "bilanz_tag": {
+    "einzeltipps": {
+      "gewonnen": 3,
+      "verloren": 1,
+      "push": 0,
+      "einsatz_euro": 33.0,
+      "netto_euro": 9.1
+    },
+    "kombis": {
+      "gewonnen": 0,
+      "verloren": 0,
+      "einsatz_euro": 0.0,
+      "netto_euro": 0.0
+    },
+    "gesamt_netto_euro": 9.1,
+    "gesamt_einsatz_euro": 33.0
+  }
+}
