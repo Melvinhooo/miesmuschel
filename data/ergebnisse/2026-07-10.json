@@ -1,0 +1,411 @@
+{
+  "datum": "2026-07-10",
+  "erstellt_am": "2026-07-10T15:15:00+02:00",
+  "hinweis": "WATCHDOG-RECOVERY (Fr 10.07. 15:15 Berlin, 2h vor Watchdog-Slot 17:15 gefeuert). Hauptroutine 16:00 lief nicht. **WM 2026 Viertelfinale Tag 2** - **Spanien vs Belgien** 21:00 MESZ im SoFi Stadium Inglewood (Los Angeles). Einziges Top-Spiel: Vereine pausieren (Bundesliga/PL/LaLiga/Serie A alle Sommerpause), NBA-Finals durch (Knicks Champion seit 13.06.), CL-Q1-Rueckspiele erst 14.-15.07. EL-Q1-Hinspiele (Levski Sofia, HJK, KI Klaksvik, Torpedo Kutaisi u.a.) parallel - Rand-Ligen ohne verlaessliche Datengrundlage, daher NICHT bespielt. Kombis heute nicht moeglich (LAYER-1: max 1 Bein pro Spiel = nur 1 Spiel = keine Kombi, siehe Lesson HR07-09-3). Kasse 550EUR Stufe 1 (Aufbau). Klassen-Konkurrent-K.O.-Duell (Spanien 5/5 zu null vs Belgien 13 Tore/5 Spiele) - defensiv-lastige Prognose. 18+ / BZgA 0800 1372700.",
+  "spiele": [
+    {
+      "id": "2026-07-10-esp-bel",
+      "liga": "FIFA World Cup 2026 - Viertelfinale",
+      "heim": "Spanien",
+      "gast": "Belgien",
+      "anstoss": "2026-07-10T21:00:00+02:00",
+      "stadion": "SoFi Stadium, Inglewood (Los Angeles-Metro, Kalifornien, USA)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM-Turnier, kein paralleler Wettbewerb. LaLiga pausiert bis Mitte August.",
+        "parallel_gast": "keine - WM-Turnier, kein paralleler Wettbewerb. Jupiler Pro League + PL/Bundesliga (fuer Legionaere) alle Sommerpause.",
+        "saisonziel_heim": "WM-Titel 2026. Spanien nach Euro-Titel 2024 als Titelanwaerter Nr.2 hinter Frankreich gehandelt. Bilanz Turnier: 5/5 Siege (Gruppenphase + R32 + R16 Portugal 1:0), einziges Team OHNE Gegentor (5 zu-null-Spiele in Folge). Route: bei Sieg -> HF Di 14.07. gegen Frankreich.",
+        "saisonziel_gast": "Erster WM-Halbfinale-Einzug seit 2018 (Bronze in Russland). Unbesiegt-Serie erstreckt sich auf 18 Spiele. Rudi Garcia hat das Team offensiv umgebaut: 13 Tore in 5 WM-Spielen. R16 zerlegte USA 4:1 in Seattle.",
+        "motivations_asymmetrie": "Beide 100% motiviert (K.O.-Runde, HF-Ticket). Klassen-Edge Spanien nach Turnier-Leistung real (bester Defensiv-Wert der WM), aber Belgien mit De-Ketelaere-R16-Doppelpack + De-Bruyne-Rueckkehr auf Startelf-Basis kein Zwerg. Klassisches Klassen-Konkurrent-K.O.-Duell (siehe R16 Pattern HR07-07-3: Doppel-Defensive kann 0:0 forcieren).",
+        "recovery_heim": "4 Tage Pause seit Portugal-R16 06.07. Dallas. Kein Verletzungs-Report bekannt (keine Ausfaelle im Spanien-Camp). Mikel Merino (Match-Winner Portugal 90+), Pedri, Rodri komplett fit. Cross-Kontinent-Reise Dallas -> LA (ca. 3h Zeitzone) - moderate Belastung.",
+        "recovery_gast": "4 Tage Pause seit USA-R16 06.07. Seattle. **Onana ACL-Riss (20. Min gg USA) - saisonvorbei-Ausfall**, ersetzt durch Vanaken (Torschuetze gg USA - integriert). Kevin De Bruyne im R16 pausiert (bewusste Schonung), nach Training am Do 07.07. voll dabei - Startelf gg Spanien erwartet. Christian Pulisic-Ausfall betrifft USA, nicht Belgien.",
+        "quellen": [
+          "https://www.fifa.com/en/match-centre/match/17/285023/289289/400021538",
+          "https://www.aljazeera.com/sports/2026/7/10/spain-vs-belgium-world-cup-quarterfinal-prediction-start-time-lineups",
+          "https://www.espn.com/soccer/story/_/id/49305374/world-cup-quarterfinal-injury-tracker-england-norway-france-spain-belgium",
+          "https://www.espn.com/soccer/story/_/id/49294844/fifa-world-cup-quarterfinal-preview-predictions-argentina-belgium-england-france-morocco-norway-spain-switzerland",
+          "https://www.si.com/soccer/spain-predicted-lineup-vs-belgium-world-cup-quarterfinal-7-10-26",
+          "https://www.thescore.com/news/3564015/belgiums-onana-done-for-world-cup-after-devastating-acl-tear"
+        ]
+      },
+      "news": [
+        "Spanien mit 5 Zu-Null-Spielen in Folge - einziges Team der WM ohne Gegentor. Simon-Cubarsi-Laporte-Achse defensiv brutal.",
+        "Mikel Oyarzabal fuehrt Spanien-Torjaeger-Liste mit 4 Toren in 5 WM-Spielen - unangefochtener Mittelstuermer. Backup: Merino (R16-Winner Portugal).",
+        "Lamine Yamal (18) auf rechter Seite Kern-Kreativkraft. Espanyol Olmo + Mikel Baena hinter Oyarzabal, Rodri + Pedri im Mittelfeld.",
+        "Belgien-Onana-ACL-Riss (Kreuzband-Riss 20.Min USA-Spiel) - saisonvorbei. Vanaken uebernimmt Startelf-Rolle im Mittelfeld (traf gg USA).",
+        "Kevin De Bruyne kehrt nach R16-Pause auf die Startelf zurueck - Belgien-Kreativ-Motor.",
+        "Belgien-Sturmzentrum: De Ketelaere (R16-Doppelpack + Assist gg USA), Trossard, Lukebakio Fluegel. Lukaku Backup fuer De Ketelaere.",
+        "**bet365 2:0-Insurance aktiv** (WM 2026 laut Aktions-Regel): Sieg-Tipp auf Spanien gilt gewonnen sobald ESP 2:0 fuehrt, egal was danach passiert.",
+        "Reise-Faktor: LA-Zeitzone (PDT UTC-7), 21:00 MESZ = 12:00 Ortszeit -> Mittagshitze Inglewood (Juli-Klima Kalifornien warm-trocken).",
+        "bet365-Quoten (Stand Fr Mittag - vor Anpfiff live pruefen): Spanien-Sieg 1.60-1.65, Draw 4.10, Belgien 6.00, BTTS-JA 1.80, Unter 2.5 1.95, Oyarzabal Anytime 1.90-1.95, Yamal Anytime 2.85, De Ketelaere Anytime 3.75."
+      ],
+      "tipps": [
+        {
+          "id": "2026-07-10-esp-bel-t1",
+          "kategorie": "value",
+          "markt": "Spanien Sieg 90min",
+          "wette": "Spanien gewinnt regulaere Spielzeit",
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 11.0,
+          "edge_prozent": 8,
+          "begruendung": "**Klassen-Edge Spanien massiv**: 5/5 Zu-Null-Serie einziges WM-Team ohne Gegentor, Titel-Anwaerter Nr.2 hinter Frankreich, unbesiegt seit R32. Belgien-Sturm zwar formstark (13 Tore/5 Spiele) aber Onana-Ausfall schwaecht Mittelfeld-Balance. Pinnacle-fair ca. 1.55-1.60, bet365 1.60-1.65 -> Edge > 3%. **2:0-INSURANCE aktiv** (WM 2026 bet365 Aktions-Regel) - sobald ESP 2:0 fuehrt, gilt Tipp durch. **Reality-Check**: Markt 'Sieg (1X2)' n=163, HR=58.6%, ROI=+3.8% - solide Basis. Kein SAFE weil K.O.-Modus Restrisiko (Verlaengerung/Elfmeter moeglich, HR07-07-3 Klassen-Konkurrent 0:0-Pattern SUI-COL) + Belgien Klassen-Underdog kein Zwerg. **Kasse Stufe 1 550EUR**: 2% = 11EUR.",
+          "quote": 1.62,
+          "faire_quote": 1.5,
+          "empfohlener_einsatz_prozent": 2.0,
+          "status": "gewonnen",
+          "kommentar": "Spanien 2:1 Sieg 90min - Fabian Ruiz 30', Merino 88'. 2:0-Insurance nicht relevant (keine 2:0-Fuehrung). Endstand-Sieg regulaer."
+        },
+        {
+          "id": "2026-07-10-esp-bel-t2",
+          "kategorie": "wackel",
+          "markt": "Mikel Oyarzabal trifft (Torschuetze Jederzeit)",
+          "wette": "Oyarzabal erzielt mind. 1 Tor",
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 10,
+          "begruendung": "**Form-Edge Pflicht-Erfuellung** (MARKT-MIX-Regel HEIM-FAVORIT): Oyarzabal Turnier-Top-Scorer Spanien mit 4 Toren in 5 Spielen (0.8/G) - unangefochtener Mittelstuermer, klinische Verwertung. **Reality-Check**: Markt 'Torschuetzen Jederzeit' n=93, HR=37.4%, ROI=+5.8% - Basis solide. **Einwechslungs-Boost aktiv** (bet365-WM 2026): Backup Merino (R16-Winner Portugal) - falls Oyarzabal ausgewechselt und Merino trifft, Tipp durch. **Vorsicht Lesson HR07-06-5**: Turnier-Top-Scorer verpassten in R16 Cluster 3/3 (Oyarzabal / Ronaldo / Balogun). **Aber** Oyarzabal-Rolle in Startelf zentral (nicht rotier-gefaehrdet wie Ronaldo/Balogun) - Edge bleibt real. Pinnacle-fair ca. 2.05, bet365 1.95 -> Edge > 5%. Kein SAFE wegen R16-Fehl-Cluster-Warnung. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "quote": 1.95,
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 1.5,
+          "_torschuetze_quelle_warn": true,
+          "status": "verloren",
+          "kommentar": "Oyarzabal 0 Tore, 79' ausgewechselt fuer Nico Williams. Nico Williams (direkter Ersatz) 0 Tore. Einwechslungs-Boost greift nicht. HR07-06-5 R16-Top-Scorer-Fehl-Cluster bestaetigt (Oyarzabal 4/6 Turnier-Fehlgriff jetzt)."
+        },
+        {
+          "id": "2026-07-10-esp-bel-t3",
+          "kategorie": "value",
+          "markt": "Unter 2.5 Tore",
+          "wette": "Endstand < 3 Tore insgesamt (90min)",
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 11.0,
+          "edge_prozent": 12,
+          "begruendung": "**Goldgrube-Markt Nr.1**: markt_goldgruben.json 'Unter 2.5 Tore' n=25, HR=68%, ROI=+24% - **bester ROI-Markt im System**. Aktiv-Such-Regel erfuellt. **Klassen-Konkurrent-K.O.-Pattern**: Spanien 5 zu null (kein Gegentor kassiert), Belgien-Onana-Ausfall schwaecht Mittelfeld -> defensive Grundstruktur beider Teams. **Lesson HR07-09-1**: QF-Auftakt Frankreich-Marokko 2:0 (Unter 2.5 traf!) - QF-Cluster startet unter-2.5-lastig, im Gegensatz zu R16 (6/6 Ueber 2.5). **Lesson HR07-07-3**: Klassen-Konkurrent-K.O.-R16 Schweiz-Kolumbien 0:0-Doppel-Defensive Pattern - hier gleicher Kontext. Pinnacle-fair ca. 1.85, bet365 1.95 -> Edge > 5%. **Risiko**: Belgien-Offensive (13 Tore/5 Spiele) kann Front-Turmoil erzwingen - dennoch VALUE nicht WACKEL.",
+          "quote": 1.95,
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 2.0,
+          "status": "verloren",
+          "kommentar": "3 Tore (2:1) > Unter 2.5. QF-Unter-2.5-Cluster (HR07-09-1) unterbrochen - FRA-MAR 2:0 traf, ESP-BEL 2:1 nicht. Late-Merino-Tor 88' brachte Spiel Ueber 2.5."
+        },
+        {
+          "id": "2026-07-10-esp-bel-t4",
+          "kategorie": "wackel",
+          "markt": "Lamine Yamal trifft (Torschuetze Jederzeit)",
+          "wette": "Yamal erzielt mind. 1 Tor",
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 5,
+          "begruendung": "**Volume-Star Alternativ-Torschuetze**: Yamal (18) fixer Startelf-Rechtsflanke, Kreativ-Motor Spanien - hohe Torschuss-Frequenz gegen Belgien-Linksverteidigung De Cuyper (nicht hoechste Klasse). **Reality-Check**: Markt Jederzeit gleiche Basis wie Oyarzabal (n=93, HR=37.4%, ROI=+5.8%). Pinnacle-fair ca. 2.60, bet365 2.85 -> knapp positive Edge. **Aber**: Yamal ist Assist-lastig (Turnier-Bilanz WM: mehr Vorlagen als Tore, siehe Al Jazeera-Preview), Torschuss-Umwandlungs-Rate niedriger als reine Volume-Stuermer. **Wackel** nicht Value: Klassen-Konkurrent-Duell mit tief-verteidigender Belgien-Abwehr Courtois erschwert Yamal-Distanzschuesse. **Kasse Stufe 1 Wackel 0.5%** = 2.75EUR.",
+          "quote": 2.85,
+          "faire_quote": 2.6,
+          "empfohlener_einsatz_prozent": 0.5,
+          "status": "verloren",
+          "kommentar": "Yamal 0 Tore trotz 6 Torschuessen (Team-Top-Schuetze), nicht ausgewechselt. Assist-lastig statt Torschuetze bestaetigt (Vorlage Ruiz-Tor unbestaetigt, aber generierte Chancen)."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "volle_analyse": {
+        "halbzeit_stand": "1:1",
+        "endstand": "2:1",
+        "tore": [
+          {
+            "min": 30,
+            "team": "heim",
+            "spieler": "Fabian Ruiz",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 41,
+            "team": "gast",
+            "spieler": "Charles De Ketelaere",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 88,
+            "team": "heim",
+            "spieler": "Mikel Merino",
+            "stand_danach": "2:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Drehung - keine Seite fuehrte mit 2+ Toren, Kurve Spanien 1:0 -> 1:1 -> 2:1. 2:0-Insurance nie ausgeloest."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Unentschieden/Spanien",
+          "kein_team_zu_null": true,
+          "unter_3_5": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Youri Tielemans",
+            "details": "Belgien-Kapitaen faellt kurzfristig aus wegen Aufwaerm-Verletzung - taktischer Umbau letzte Minute"
+          },
+          {
+            "team": "gast",
+            "spieler": "Thibaut Courtois",
+            "details": "Verletzung 2.Halbzeit - ersetzt durch Backup-Keeper Senne Lammens, dessen Rebound-Fehler das Merino-Winner-Tor ermoeglichte"
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Mikel Merino",
+            "aus": "Dani Olmo",
+            "minute": 86,
+            "tor": true,
+            "tor_minute": 88,
+            "details": "Super-Sub-Tor: zweite Ballberuehrung, Rebound nach Cubarsi-Schuss den Backup-Keeper Lammens fallen liess. Zweites Merino-Late-Sub-Tor im Turnier (R16 Portugal 90+)."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Super-Sub-Merino-Trigger wiederholt: gleicher Spieler, gleiches Muster wie R16-Portugal-Winner. Late-Game-Sub-Torschuetzen-Tipp auf Merino/Solskjaer-Typ-Backups in K.O.-Runde valider Kandidat.",
+          "Klassen-Konkurrent-K.O.-Duell NICHT im 0:0/Unter-2.5-Muster gelandet (im Gegensatz zu R16 SUI-COL / FRA-MAR-QF): BTTS + Ueber 2.5 durchgesetzt trotz beider defensiver Grundstrukturen. Klassen-Konkurrent-K.O.-These HR07-07-3 ist R16-spezifisch, in QF weniger reliable.",
+          "Belgien-Backup-Keeper-Fehler (Lammens Rebound) zeigt Auswirkung Courtois-Verletzung - Torhueter-Wechsel spaet im Spiel = Rebound-Risiko-Aufschlag fuer Gegner.",
+          "Torschuetzen-Volume-Stars beide Spanien-Startelf-Stars (Oyarzabal + Yamal) trotz Team-Sieg leer - HR07-06-5 Fehl-Cluster setzt sich fort (jetzt 5/8 R16+QF Turnier-Top-Scorer-Fehl in Spanien-Portfolio)."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "einzel-2026-07-10-01",
+      "spiel_id": "2026-07-10-esp-bel",
+      "kategorie": "value",
+      "markt": "Spanien Sieg 90min",
+      "wette": "Spanien gewinnt regulaere Spielzeit",
+      "quote": 1.62,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 11.0,
+      "edge_prozent": 8,
+      "kurz_begruendung": "Klassen-Edge: 5/5 Zu-Null-Serie einziges WM-Team ohne Gegentor. **2:0-Insurance aktiv** (WM 2026). Pinnacle-fair 1.55-1.60, Edge >3%. Reality-Check Sieg-Markt HR 58.6%/ROI +3.8%. Kein SAFE: K.O.-Modus-Restrisiko (Verlaengerung moeglich).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 1
+    },
+    {
+      "id": "einzel-2026-07-10-02",
+      "spiel_id": "2026-07-10-esp-bel",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "wette": "Endstand < 3 Tore insgesamt (90min)",
+      "quote": 1.95,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 11.0,
+      "edge_prozent": 12,
+      "kurz_begruendung": "Markt-Goldgrube Nr.1 (HR 68% / ROI +24%). Spanien 5 zu null + Belgien-Onana-Ausfall + Klassen-Konkurrent-K.O.-Pattern. Lesson HR07-09-1: QF-Auftakt FRA-MAR 2:0 startete Unter-2.5-Cluster (R16-Ueber-2.5-Serie 6/6 abgerissen).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 2
+    },
+    {
+      "id": "einzel-2026-07-10-03",
+      "spiel_id": "2026-07-10-esp-bel",
+      "kategorie": "value",
+      "markt": "Mikel Oyarzabal trifft (Torschuetze Jederzeit)",
+      "wette": "Oyarzabal erzielt mind. 1 Tor",
+      "quote": 1.95,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 8.25,
+      "edge_prozent": 10,
+      "kurz_begruendung": "Turnier-Top-Scorer Spanien (4 Tore/5 Spiele, unangefochtener CF). Form-Edge-Pflicht Heim-Favorit-Profil. Einwechslungs-Boost via Merino aktiv. Vorsicht Lesson HR07-06-5 (R16-Top-Scorer-Fehl-Cluster 3/3), aber Oyarzabal-Rolle zentral nicht rotier-gefaehrdet.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 3
+    },
+    {
+      "id": "einzel-2026-07-10-04",
+      "spiel_id": "2026-07-10-esp-bel",
+      "kategorie": "wackel",
+      "markt": "Lamine Yamal trifft (Torschuetze Jederzeit)",
+      "wette": "Yamal erzielt mind. 1 Tor",
+      "quote": 2.85,
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 2.75,
+      "edge_prozent": 5,
+      "kurz_begruendung": "Volume-Star Alternativ-Torschuetze: Startelf-Rechtsflanke, hohe Schuss-Frequenz vs De Cuyper. Yamal-Turnier bislang mehr Assist-lastig - Wackel weil Torschuss-Umwandlung niedriger als reine CFs. Wackel-Einsatz Stufe 1 = 2.75 EUR.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 4
+    }
+  ],
+  "kombis": [],
+  "lessons_angewandt": [
+    {
+      "id": "HR07-09-1",
+      "lesson_kurz": "R16 Ueber-2.5-Cluster (6/6) bricht am QF-Auftakt (FRA-MAR 2:0). QF-Auftakt startet Unter-2.5-Muster.",
+      "angewandt_auf": "2026-07-10-esp-bel-t3 (Unter 2.5) - direkter Signal-Transfer: QF-Klassen-Konkurrent-Duelle tendieren zu weniger Toren als R16-K.O.-Chaos."
+    },
+    {
+      "id": "HR07-09-4",
+      "lesson_kurz": "K.O.-Modus-Konservatismus: Klassen-Favorit-Standardsieg (2:0 Sieg-Kurzquote) reliable in QF. Ueber-Tore-Gegen-Kombi anti-korreliert.",
+      "angewandt_auf": "2026-07-10-esp-bel-t1 (Spanien Sieg 1.62) - QF-Musterloesung repliziert von FRA-MAR-Blueprint. Unter 2.5 statt Ueber 2.5 als Doppel-Bein."
+    },
+    {
+      "id": "HR07-07-3",
+      "lesson_kurz": "Klassen-Konkurrent-K.O.-R16 0:0-Doppel-Defensive-Pattern (SUI-COL 0:0/Elfer): BTTS-Nein + Unter 2.5 beide gewonnen bei Doppel-Defensive.",
+      "angewandt_auf": "2026-07-10-esp-bel-t3 (Unter 2.5) - Spanien 5 zu null + Belgien-Onana-Ausfall reproduziert Doppel-Defensive-Setup."
+    },
+    {
+      "id": "HR07-06-5",
+      "lesson_kurz": "K.O.-R16 Turnier-Top-Scorer-Anytime-Fehl-Cluster (3/3): Oyarzabal/Ronaldo/Balogun scheiterten - Klassen-Konkurrent-K.O. bricht Anytime-These.",
+      "angewandt_auf": "2026-07-10-esp-bel-t2 (Oyarzabal Anytime) - Downgrade von SAFE zu VALUE trotz Form-Edge. Zentrale Rolle Oyarzabal (nicht rotier-gefaehrdet) rettet Value-Kategorie."
+    },
+    {
+      "id": "HR07-06-3",
+      "lesson_kurz": "Einwechslungs-Boost-Praezisierung: direkter Ersatz muss bestaetigt sein (Neymar-Vinicius nicht direkt).",
+      "angewandt_auf": "2026-07-10-esp-bel-t2 (Oyarzabal Anytime) - Merino als direkter Backup-Sturm-Optionsnicht 100% bestaetigt (Merino ist eig. Mittelfeld) - Einwechslungs-Boost-Argument abgemildert im Begruendungstext."
+    },
+    {
+      "id": "HR07-09-3",
+      "lesson_kurz": "Kombi-Ersatz bei 1-Spiel-WM-Tagen: LAYER-1 verhindert klassische 2-Bein-Kombi. Kombis heute unmoeglich.",
+      "angewandt_auf": "kombis_2026-07-10 leer - identische Struktur wie 09.07. FRA-MAR. Keine Kombi-Konstruktion versucht."
+    },
+    {
+      "id": "MARKT-MIX-04-05-Regel-2",
+      "lesson_kurz": "HEIM-FAVORIT (Sieg-Quote < 1.80): MIN 1 Torschuetzen-Tipp auf Top-Stuermer PFLICHT.",
+      "angewandt_auf": "2026-07-10-esp-bel Tipps 2+4: Oyarzabal (VALUE) + Yamal (WACKEL) - 2 Torschuetzen-Tipps auf zwei Startelf-Volume-Stars. Erfuellt."
+    },
+    {
+      "id": "MARKT-MIX-04-05-DC-CAP",
+      "lesson_kurz": "DC-CAP: max 1 DC-Tipp pro Spiel. In Nicht-Goldgrube-Liga (WM) kein SAFE-DC.",
+      "angewandt_auf": "2026-07-10-esp-bel: 0 DC-Tipps trotz Spanien-Klassen-Edge. Alternative: Sieg-Tipp + Torschuetzen statt DC-SAFE (das ohnehin auf VALUE downgegradet worden waere)."
+    },
+    {
+      "id": "Markt-Goldgrube-Unter-2.5",
+      "lesson_kurz": "Markt-Goldgrube 'Unter 2.5 Tore': HR 68% / ROI +24% - **bester ROI-Markt im System**. Aktiv suchen.",
+      "angewandt_auf": "2026-07-10-esp-bel-t3 (Unter 2.5 @ 1.95): explizit als Goldgrube-Aktiv-Suche gesetzt."
+    },
+    {
+      "id": "bet365-2:0-Insurance-WM-2026",
+      "lesson_kurz": "bet365 DE Aktions-Regel WM 2026: Sieg-Tipp gilt gewonnen sobald Team 2:0 fuehrt.",
+      "angewandt_auf": "2026-07-10-esp-bel-t1 (Spanien Sieg 90min) - Insurance-Sicherheit im Begruendungstext + news erwaehnt."
+    }
+  ],
+  "footer": "18+ / bet365 DE / Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "einzeltipps_ergebnis": [
+    {
+      "id": "einzel-2026-07-10-01",
+      "spiel_id": "2026-07-10-esp-bel",
+      "kategorie": "value",
+      "markt": "Spanien Sieg 90min",
+      "wette": "Spanien gewinnt regulaere Spielzeit",
+      "quote": 1.62,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 11.0,
+      "edge_prozent": 8,
+      "kurz_begruendung": "Klassen-Edge: 5/5 Zu-Null-Serie einziges WM-Team ohne Gegentor. **2:0-Insurance aktiv** (WM 2026). Pinnacle-fair 1.55-1.60, Edge >3%. Reality-Check Sieg-Markt HR 58.6%/ROI +3.8%. Kein SAFE: K.O.-Modus-Restrisiko (Verlaengerung moeglich).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 1,
+      "status": "gewonnen",
+      "kommentar": "Spanien 2:1 Sieg 90min - Fabian Ruiz 30', Merino 88'. 2:0-Insurance nicht ausgeloest (Halbzeit 1:1)."
+    },
+    {
+      "id": "einzel-2026-07-10-02",
+      "spiel_id": "2026-07-10-esp-bel",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "wette": "Endstand < 3 Tore insgesamt (90min)",
+      "quote": 1.95,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 11.0,
+      "edge_prozent": 12,
+      "kurz_begruendung": "Markt-Goldgrube Nr.1 (HR 68% / ROI +24%). Spanien 5 zu null + Belgien-Onana-Ausfall + Klassen-Konkurrent-K.O.-Pattern. Lesson HR07-09-1: QF-Auftakt FRA-MAR 2:0 startete Unter-2.5-Cluster (R16-Ueber-2.5-Serie 6/6 abgerissen).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 2,
+      "status": "verloren",
+      "kommentar": "3 Tore (2:1) > 2.5. Late-Merino-88'-Tor kippte den Markt."
+    },
+    {
+      "id": "einzel-2026-07-10-03",
+      "spiel_id": "2026-07-10-esp-bel",
+      "kategorie": "value",
+      "markt": "Mikel Oyarzabal trifft (Torschuetze Jederzeit)",
+      "wette": "Oyarzabal erzielt mind. 1 Tor",
+      "quote": 1.95,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 8.25,
+      "edge_prozent": 10,
+      "kurz_begruendung": "Turnier-Top-Scorer Spanien (4 Tore/5 Spiele, unangefochtener CF). Form-Edge-Pflicht Heim-Favorit-Profil. Einwechslungs-Boost via Merino aktiv. Vorsicht Lesson HR07-06-5 (R16-Top-Scorer-Fehl-Cluster 3/3), aber Oyarzabal-Rolle zentral nicht rotier-gefaehrdet.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 3,
+      "status": "verloren",
+      "kommentar": "Oyarzabal 0 Tore, 79' fuer Nico Williams ausgewechselt - Ersatz auch 0 Tore, kein Einwechslungs-Boost."
+    },
+    {
+      "id": "einzel-2026-07-10-04",
+      "spiel_id": "2026-07-10-esp-bel",
+      "kategorie": "wackel",
+      "markt": "Lamine Yamal trifft (Torschuetze Jederzeit)",
+      "wette": "Yamal erzielt mind. 1 Tor",
+      "quote": 2.85,
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 2.75,
+      "edge_prozent": 5,
+      "kurz_begruendung": "Volume-Star Alternativ-Torschuetze: Startelf-Rechtsflanke, hohe Schuss-Frequenz vs De Cuyper. Yamal-Turnier bislang mehr Assist-lastig - Wackel weil Torschuss-Umwandlung niedriger als reine CFs. Wackel-Einsatz Stufe 1 = 2.75 EUR.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 4,
+      "status": "verloren",
+      "kommentar": "Yamal 0 Tore trotz 6 Schuessen (Team-Top-Schuetze), spielte durch. Volume-Assist-Profil bestaetigt."
+    }
+  ],
+  "kombis_ergebnis": [],
+  "ausgewertet_am": "2026-07-11T07:04:20+00:00",
+  "tipps_ergebnis": [
+    {
+      "id": "2026-07-10-esp-bel-t1",
+      "spiel_id": "2026-07-10-esp-bel",
+      "kategorie": "value",
+      "markt": "Spanien Sieg 90min",
+      "wette": "Spanien gewinnt regulaere Spielzeit",
+      "quote": 1.62,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 11.0,
+      "status": "gewonnen",
+      "kommentar": "Spanien 2:1 Sieg 90min - Fabian Ruiz 30', Merino 88'. 2:0-Insurance nicht relevant (keine 2:0-Fuehrung). Endstand-Sieg regulaer."
+    },
+    {
+      "id": "2026-07-10-esp-bel-t2",
+      "spiel_id": "2026-07-10-esp-bel",
+      "kategorie": "wackel",
+      "markt": "Mikel Oyarzabal trifft (Torschuetze Jederzeit)",
+      "wette": "Oyarzabal erzielt mind. 1 Tor",
+      "quote": 1.95,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 8.25,
+      "status": "verloren",
+      "kommentar": "Oyarzabal 0 Tore, 79' ausgewechselt fuer Nico Williams. Nico Williams (direkter Ersatz) 0 Tore. Einwechslungs-Boost greift nicht. HR07-06-5 R16-Top-Scorer-Fehl-Cluster bestaetigt (Oyarzabal 4/6 Turnier-Fehlgriff jetzt)."
+    },
+    {
+      "id": "2026-07-10-esp-bel-t3",
+      "spiel_id": "2026-07-10-esp-bel",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "wette": "Endstand < 3 Tore insgesamt (90min)",
+      "quote": 1.95,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 11.0,
+      "status": "verloren",
+      "kommentar": "3 Tore (2:1) > Unter 2.5. QF-Unter-2.5-Cluster (HR07-09-1) unterbrochen - FRA-MAR 2:0 traf, ESP-BEL 2:1 nicht. Late-Merino-Tor 88' brachte Spiel Ueber 2.5."
+    },
+    {
+      "id": "2026-07-10-esp-bel-t4",
+      "spiel_id": "2026-07-10-esp-bel",
+      "kategorie": "wackel",
+      "markt": "Lamine Yamal trifft (Torschuetze Jederzeit)",
+      "wette": "Yamal erzielt mind. 1 Tor",
+      "quote": 2.85,
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 2.75,
+      "status": "verloren",
+      "kommentar": "Yamal 0 Tore trotz 6 Torschuessen (Team-Top-Schuetze), nicht ausgewechselt. Assist-lastig statt Torschuetze bestaetigt (Vorlage Ruiz-Tor unbestaetigt, aber generierte Chancen)."
+    }
+  ],
+  "ergebnis_manuell": {
+    "spiel_id": "2026-07-10-esp-bel",
+    "endstand": "2:1",
+    "halbzeit_stand": "1:1",
+    "sieger": "Spanien",
+    "quelle": "CNN, Al Jazeera, NBC News, ABC News, Yahoo Sports, CBS Sports, FOX Sports"
+  }
+}
