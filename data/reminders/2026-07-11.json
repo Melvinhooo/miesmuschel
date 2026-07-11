@@ -1,11 +1,17 @@
 {
-  "stand": "2026-07-11T19:30:35.472947+00:00",
+  "stand": "2026-07-11T23:51:57.152363+00:00",
   "gesendet": {
     "2026-07-11-nor-eng": {
       "sent_at": "2026-07-11T19:30:34.320723+00:00",
       "anstoss": "2026-07-11T23:00:00+02:00",
       "spiel": "Norwegen vs England",
       "top_tipp": "Ueber 2.5 Tore"
+    },
+    "2026-07-11-arg-sui": {
+      "sent_at": "2026-07-11T23:51:56.429295+00:00",
+      "anstoss": "2026-07-12T03:00:00+02:00",
+      "spiel": "Argentinien vs Schweiz",
+      "top_tipp": "Unter 2.5 Tore"
     }
   }
 }
