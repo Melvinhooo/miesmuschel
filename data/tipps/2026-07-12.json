@@ -1,0 +1,43 @@
+{
+  "datum": "2026-07-12",
+  "erstellt_am": "2026-07-12T13:30:00+02:00",
+  "modus": "tag",
+  "_emergency_recovery": true,
+  "_emergency_recovery_grund": "Recherche-Cloud-Routine (Cron 10:30 Berlin) fuer 2026-07-12 lieferte kein File - letztes Recherche-File war 2026-07-05. Master-Tipps-Routine hat 13:30 Berlin Fallback-Recherche via lokalem wm_2026.json + Ergebnisse-History (07-09..07-11) + letzten Tipps-Files gemacht. Ergebnis: heute 12.07. (Sonntag) ist RUHETAG zwischen WM-Viertelfinale (09.-11.07.) und Halbfinale (14.-15.07.) - kein Spiel im Window.",
+  "hinweis": "RUHETAG. Heute So 12.07. findet KEIN WM-Spiel statt. Viertelfinale abgeschlossen 11.07. (Norwegen 1:2 England n.V. via Bellingham-Doppelpack 93'+ET, Argentinien 3:1 Schweiz n.V. via Alvarez 112' + Lautaro 120+1', Embolo Rot 72'). Vier HF-Teilnehmer stehen: Frankreich (07-09 2:0 Marokko), Spanien (07-10 vs Belgien - Ergebnis lokal noch nicht persistiert), Argentinien, England. Halbfinale startet Di 14.07. + Mi 15.07. - konkrete Paarungen + Anstosszeiten liefert die naechste Recherche-Routine (Mo 13.07. 10:30 Berlin) belastbar aus FIFA-Quellen. Vereine pausieren bis August (Sommer-Pause), NBA Finals lange durch (Knicks Champion seit 13.06.), UEFA Vorrunden (Qairat, Flora, etc.) bleiben in Beobachtungs-Liga-Kategorie ohne belastbare Datenbasis - keine Tipps auf Datenmangel. Ehrlichkeits-Prinzip laut CLAUDE.md: lieber 0 Tipps als Zwang-Tipps. Kasse 550EUR Stufe 1 (Aufbau) - null Einsatz heute = null Risiko. 18+ / BZgA 0800 1372700.",
+  "spiele": [],
+  "einzeltipps": [],
+  "kombis": [],
+  "lessons_angewandt": [
+    {
+      "id": "HR07-12-RUHETAG",
+      "lesson_kurz": "Ruhetag zwischen VF und HF ehrlich als solchen ausweisen - kein Zwang-Dossier auf Beobachtungs-Ligen.",
+      "text": "Sonntag 12.07. liegt zwischen WM-Viertelfinale (09.-11.07. abgeschlossen) und Halbfinale (Di 14.07. + Mi 15.07.). Kein WM-Spiel im Window. UEFA-CL/EL/Conference-Vorrunden laufen zwar (Kasachstan/Estland/Montenegro-Ebene), gehoeren aber zur Beobachtungs-Liga-Kategorie mit duenner Datenbasis - kein Tipp-Trigger. Kasse 550EUR Stufe 1: null Einsatz = null Risiko - Basis-Zielrichtung 1000EUR bleibt unberuehrt.",
+      "quelle": "data/wm_2026.json (VF bis 07-11, HF ab 07-14) + CLAUDE.md Ehrlichkeits-Prinzipien + Beobachtungs-Liga-Regel + Kasse-Stufen-Modell Stufe 1"
+    },
+    {
+      "id": "HR07-12-HF-VORBLICK",
+      "lesson_kurz": "HF-Vorschau (Info-only, nicht getippt) - vier Teilnehmer bekannt, Paarungen morgen belastbar.",
+      "text": "Vier HF-Teilnehmer stehen fest: Frankreich (07-09 2:0 Marokko im Gillette Foxborough), Spanien (07-10 vs Belgien im SoFi Inglewood, laut internen Notizen HR07-10-4 Oyarzabal 0 = Spanien-Sieg-Signal), Argentinien (07-11 3:1 SUI n.V. Arrowhead Kansas City), England (07-11 2:1 NOR n.V. Hard Rock Miami). WM-2026-Rahmen: HF-Fenster 14.-15.07., Spiel um Platz 3 am 18.07., Finale 19.07. Konkrete HF-Paarungen (Bracket) + Anstosszeiten + Stadien werden morgen von Recherche-Routine 10:30 Berlin aus FIFA/kicker.de belastbar geholt - nicht heute halluzinieren.",
+      "quelle": "data/ergebnisse/2026-07-09.json (FRA 2:0 MAR) + data/ergebnisse/2026-07-11.json (NOR 1:2 ENG n.V., ARG 3:1 SUI n.V.) + data/wm_2026.json Phasen-Fenster + interne Notiz HR07-10-4"
+    },
+    {
+      "id": "HR07-12-K.O.-VERLAENGERUNGS-CLUSTER",
+      "lesson_kurz": "K.O.-Cluster VF: 2 von 4 Spielen (NOR-ENG, ARG-SUI) in Verlaengerung entschieden - 2:0-Insurance-Regel bei 90min-Sieg-Tipps wirkte fuer keinen der beiden.",
+      "text": "Beobachtung nur - keine Tipp-Wirkung heute. Muster K.O.-Runde WM 2026: enge Klassen-Duelle drehen haeufig in Verlaengerung (R32/R16 auch mehrfach beobachtet), 2:0-Insurance greift dann nicht mehr (weil kein 2:0-Vorsprung in 90min). Fuer HF-Tipps ab Di 14.07.: SAFE-Sieg-Tipps bei Klassen-Konkurrent-Duellen nach unten downgraden auf VALUE oder Doppelte Chance nutzen, wenn Klassen-Delta klein. Als Info fuer die naechste Tipp-Runde konserviert.",
+      "quelle": "data/ergebnisse/2026-07-11.json (beide Spiele n.V.) + CLAUDE.md 2:0-Insurance-Regel"
+    }
+  ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-07-12T13:30:00+02:00",
+    "drops": [],
+    "downgrades": [],
+    "warnungen": [
+      "Ruhetag - 0 Spiele im Window. Verifikations-Checklisten (Spieler-Halluzination, Layer-2-Cross, Quoten-Plausibilitaet, gesamtquote-Nachrechnung) alle trivialerweise OK weil keine Tipps existieren.",
+      "Spanien-vs-Belgien-Ergebnis (07-10) in data/ergebnisse/2026-07-10.json nicht persistiert (ergebnis={}) - Spanien-HF-Zugehoerigkeit hier nur aus internen Tipps-Notizen HR07-10-4 abgeleitet, nicht aus persistierten Ergebnis-Feldern. HF-Paarungs-Detail bewusst offen gelassen bis Recherche-Routine morgen 10:30 Berlin belastbar bestaetigt."
+    ],
+    "kontext_check_status_gesamt": "OK_RUHETAG",
+    "verifikator_hinweis": "Kein Handlungsbedarf. HF-Auftakt Di 14.07. Naechster Cron-Slot: Mo 13.07. 13:30 Berlin (Master-Tipps mit vorheriger Recherche-Routine 10:30). Kein Layer-1/2/3-Verstoss moeglich (0 Kombis, 0 Einzel)."
+  },
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
+}
