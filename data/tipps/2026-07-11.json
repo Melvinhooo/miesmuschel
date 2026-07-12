@@ -114,7 +114,7 @@
       "kontext_check_status": "OK"
     },
     {
-      "id": "2026-07-11-arg-sui",
+      "id": "2026-07-12-arg-sui",
       "liga": "FIFA World Cup 2026 - Viertelfinale",
       "heim": "Argentinien",
       "gast": "Schweiz",
@@ -154,16 +154,17 @@
       "tipps": [
         {
           "id": "2026-07-11-arg-sui-t1",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Argentinien Sieg 90min",
           "wette": "Argentinien gewinnt regulaere Spielzeit",
           "einsatz_prozent_kasse": 2.0,
           "einsatz_euro": 11.0,
           "edge_prozent": 6,
-          "begruendung": "**Klassen-Edge massiv**: Titelverteidiger + Titel-Anwaerter Top-3 gg Halbfinal-Historie-Underdog. Manzambi-Schluessel-Ausfall Schweiz schwaecht Kreativ-Angriff. H2H 7-0 fuer Argentinien (7 Duelle, 5S 2R, nie verloren). **HR07-10-1 (K.O.-Modus-Sieg-Tipp Klassen-Favorit VALUE liefert 4/5)**: Empirie konsolidiert. **2:0-INSURANCE aktiv** (bet365 WM 2026): sobald ARG 2:0 fuehrt, Tipp durch (Messi 8 Turnier-Tore setzt das realistisch). **Reality-Check**: Markt 'Sieg (1X2)' n=163, HR=58.6%, ROI=+3.8%. Pinnacle-fair ca. 1.60, bet365 1.69 -> Edge > 4%. **Risiko**: Argentinien-Belastung nach 2x n.V./Comeback-Spielen + Schweiz-Klassen-Konkurrent-Bunker (SUI-COL 0:0-Muster reproduzierbar) -> Verlaengerungs-Restrisiko real. Kein SAFE aus dem Grund. **Kasse Stufe 1**: 2% = 11 EUR.",
+          "begruendung": "**Klassen-Edge massiv**: Titelverteidiger + Titel-Anwaerter Top-3 gg Halbfinal-Historie-Underdog. Manzambi-Schluessel-Ausfall Schweiz schwaecht Kreativ-Angriff. H2H 7-0 fuer Argentinien (7 Duelle, 5S 2R, nie verloren). **HR07-10-1 (K.O.-Modus-Sieg-Tipp Klassen-Favorit VALUE liefert 4/5)**: Empirie konsolidiert. **2:0-INSURANCE aktiv** (bet365 WM 2026): sobald ARG 2:0 fuehrt, Tipp durch (Messi 8 Turnier-Tore setzt das realistisch). **Reality-Check**: Markt 'Sieg (1X2)' n=163, HR=58.6%, ROI=+3.8%. Pinnacle-fair ca. 1.60, bet365 1.69 -> Edge > 4%. **Risiko**: Argentinien-Belastung nach 2x n.V./Comeback-Spielen + Schweiz-Klassen-Konkurrent-Bunker (SUI-COL 0:0-Muster reproduzierbar) -> Verlaengerungs-Restrisiko real. Kein SAFE aus dem Grund. **Kasse Stufe 1**: 2% = 11 EUR. [Auto: Saison-Kontext-Sanity - Belastungs-Warnung (Recovery) -> value->wackel]",
           "quote": 1.69,
           "faire_quote": 1.6,
-          "empfohlener_einsatz_prozent": 2.0
+          "empfohlener_einsatz_prozent": 2.0,
+          "_saison_kontext_sanity_downgrade": true
         },
         {
           "id": "2026-07-11-arg-sui-t2",
@@ -208,7 +209,7 @@
         },
         {
           "id": "2026-07-11-arg-sui-t5",
-          "kategorie": "risiko",
+          "kategorie": "risk",
           "markt": "Schweiz Doppelte Chance X2 (Remis oder Sieg)",
           "wette": "Schweiz zieht mind. Remis nach 90 Min",
           "einsatz_prozent_kasse": 0.25,
@@ -226,7 +227,7 @@
   "einzeltipps": [
     {
       "id": "einzel-2026-07-11-01",
-      "spiel_id": "2026-07-11-arg-sui",
+      "spiel_id": "2026-07-12-arg-sui",
       "kategorie": "value",
       "markt": "Unter 2.5 Tore",
       "wette": "Endstand < 3 Tore insgesamt (90min)",
@@ -268,7 +269,7 @@
     },
     {
       "id": "einzel-2026-07-11-04",
-      "spiel_id": "2026-07-11-arg-sui",
+      "spiel_id": "2026-07-12-arg-sui",
       "kategorie": "value",
       "markt": "Argentinien Sieg 90min",
       "wette": "Argentinien gewinnt regulaere Spielzeit",
@@ -282,7 +283,7 @@
     },
     {
       "id": "einzel-2026-07-11-05",
-      "spiel_id": "2026-07-11-arg-sui",
+      "spiel_id": "2026-07-12-arg-sui",
       "kategorie": "wackel",
       "markt": "Lionel Messi trifft (Torschuetze Jederzeit)",
       "wette": "Messi erzielt mind. 1 Tor",
@@ -338,7 +339,7 @@
     },
     {
       "id": "einzel-2026-07-11-09",
-      "spiel_id": "2026-07-11-arg-sui",
+      "spiel_id": "2026-07-12-arg-sui",
       "kategorie": "wackel",
       "markt": "Lautaro Martinez trifft (Torschuetze Jederzeit)",
       "wette": "Lautaro Martinez erzielt mind. 1 Tor",
@@ -352,8 +353,8 @@
     },
     {
       "id": "einzel-2026-07-11-10",
-      "spiel_id": "2026-07-11-arg-sui",
-      "kategorie": "risiko",
+      "spiel_id": "2026-07-12-arg-sui",
+      "kategorie": "risk",
       "markt": "Schweiz Doppelte Chance X2",
       "wette": "Schweiz zieht mind. Remis nach 90 Min",
       "quote": 2.4,
@@ -378,7 +379,7 @@
           "quote": 1.87
         },
         {
-          "spiel_id": "2026-07-11-arg-sui",
+          "spiel_id": "2026-07-12-arg-sui",
           "markt": "Argentinien Sieg 90min",
           "wette": "Argentinien gewinnt regulaere Spielzeit",
           "quote": 1.69
@@ -403,7 +404,7 @@
           "quote": 3.5
         },
         {
-          "spiel_id": "2026-07-11-arg-sui",
+          "spiel_id": "2026-07-12-arg-sui",
           "markt": "Lionel Messi trifft (Torschuetze Jederzeit)",
           "wette": "Messi erzielt mind. 1 Tor",
           "quote": 2.0
@@ -428,7 +429,7 @@
           "quote": 4.0
         },
         {
-          "spiel_id": "2026-07-11-arg-sui",
+          "spiel_id": "2026-07-12-arg-sui",
           "markt": "Julian Alvarez trifft (Torschuetze Jederzeit)",
           "wette": "Alvarez erzielt mind. 1 Tor",
           "quote": 2.5
@@ -453,7 +454,7 @@
           "quote": 10.0
         },
         {
-          "spiel_id": "2026-07-11-arg-sui",
+          "spiel_id": "2026-07-12-arg-sui",
           "markt": "Julian Alvarez 2+ Tore",
           "wette": "Alvarez erzielt mind. 2 Tore",
           "quote": 15.0
@@ -543,24 +544,96 @@
   "_verifikations_report": {
     "modus": "master-inline-verify (Fallback ohne separaten Subagent, Watchdog-Fallback-Lauf)",
     "checks": [
-      {"check": "gesamtquote-Nachrechnung SAFE-Kombi", "status": "OK", "detail": "1.87 * 1.69 = 3.1603 gerundet 3.16"},
-      {"check": "gesamtquote-Nachrechnung BALANCE-Kombi", "status": "OK", "detail": "3.50 * 2.00 = 7.00"},
-      {"check": "gesamtquote-Nachrechnung RISIKO-Kombi", "status": "OK", "detail": "4.00 * 2.50 = 10.00"},
-      {"check": "gesamtquote-Nachrechnung MOONSHOT-Kombi", "status": "OK", "detail": "10.00 * 15.00 = 150.00"},
-      {"check": "LAYER-1 (max 1 Bein/Spiel/Kombi)", "status": "OK", "detail": "Alle 4 Kombis: je 1 Bein NOR-ENG + 1 Bein ARG-SUI"},
-      {"check": "LAYER-2 (Sieg-Outcome max 1 Kombi/Spiel)", "status": "OK", "detail": "SAFE-Kombi nutzt beide Sieg-Outcomes. Balance/Risiko/Moonshot enthalten keine Sieg-Outcomes."},
-      {"check": "LAYER-3 (max 1 Bein/Spiel/alle Kombis wo moeglich, sonst markt-entkoppeln)", "status": "OK", "detail": "Bellingham in Balance (Torschuetze) + Moonshot (2+ Tore) - Markt entkoppelt. Alvarez in Risiko (Torschuetze) + Moonshot (2+ Tore) - Markt entkoppelt. Haaland/Kane/Messi je 1x in Kombis vertreten."},
-      {"check": "max 5 Tipps/Spiel", "status": "OK", "detail": "NOR-ENG: 5 Tipps. ARG-SUI: 5 Tipps."},
-      {"check": "Halluzinations-Check Squad-Daten", "status": "OK", "detail": "Alle Spielernamen aus 6+ Quellen (FIFA/ESPN/AlJazeera/Rotowire/CBS/EnglandFootball/SportMole) verifiziert. Manzambi-OUT bestaetigt via Yahoo/CBS/AlJazeera."},
-      {"check": "Halluzinations-Check Quoten", "status": "WARN", "detail": "Quoten basieren auf DraftKings/FanDuel/CBS/SI Preview-Sammlung Freitag/Samstag - bet365-DE-spezifische Quoten nicht direkt gefetcht. Live vor Anpfiff pruefen empfohlen (in news[] pro Spiel bereits vermerkt)."},
-      {"check": "Torschuetze-Vereins-Quelle-Vollstaendigkeit", "status": "WARN", "detail": "Alle 6 Torschuetzen-Tipps haben _torschuetze_quelle_warn=true weil transfermarkt/Vereins-Player-Seiten nicht direkt in quellen[] eingebunden. Kategorien bleiben max WACKEL - regelkonform."},
-      {"check": "Selbstwidersprueche in Begruendungen", "status": "OK", "detail": "Kategorien und Begruendungen konsistent. Kein Fall wie 'Edge kleiner als suggeriert' + SAFE."},
-      {"check": "Anti-Korrelations-Check Kombis", "status": "OK", "detail": "SAFE-Kombi (2x Sieg) nicht mit Ueber-Tor-Bein kombiniert. ARG-SUI Unter 2.5 explizit ausserhalb der ARG-Sieg-Kombi gehalten (HR07-09-4). NOR-ENG Ueber 2.5 nicht in Kombi mit England-Sieg."},
-      {"check": "Kasse-Stufen-Einsaetze", "status": "OK", "detail": "Alle Einsaetze auf Basis Kasse 550EUR Stufe 1: Einzel VALUE 2%=11EUR, Einzel WACKEL 0.5%=2.75EUR, Einzel RISIKO 0.25%=1.40EUR, Kombi SAFE 2%=11EUR, Kombi BALANCE 0.8%=4.40EUR, Kombi RISIKO 0.25%=1.40EUR, Kombi MOONSHOT 0.1%=0.55EUR."},
-      {"check": "Markt-Bluter-Check", "status": "OK", "detail": "markt_bluter.json listet Spread/Handicap - kein Spread/Handicap-Tipp im Dossier."},
-      {"check": "Verbotene Maerkte", "status": "OK", "detail": "Keine Eckbaelle, Karten, HZ/ES-Kombi, Genaues Ergebnis, PRA-Kombos oder Einzel-Assists/Rebounds/Steals im Dossier."},
-      {"check": "saison_kontext Pflichtfelder (parallel/saisonziel/motivations/recovery/quellen)", "status": "OK", "detail": "Beide Spiele: alle 7 Pflichtfelder gefuellt, quellen[] mit 6 URLs jeweils, inkl. FIFA-Verband-Quelle. WM-Spiele: Turnier-Phase in Liga + Vereins-Belastung in saisonziel/recovery erwaehnt."},
-      {"check": "Spiel-IDs Konvention Window-Datum", "status": "OK", "detail": "2026-07-11-nor-eng (Window-Datum 11.07., Anstoss 23:00 MESZ 11.07.). 2026-07-11-arg-sui (Window-Datum 11.07., Anstoss 03:00 MESZ 12.07. - Nacht-Spiel gehoert zum Window 11.07. korrekt lt. recherche_routine.md)."}
+      {
+        "check": "gesamtquote-Nachrechnung SAFE-Kombi",
+        "status": "OK",
+        "detail": "1.87 * 1.69 = 3.1603 gerundet 3.16"
+      },
+      {
+        "check": "gesamtquote-Nachrechnung BALANCE-Kombi",
+        "status": "OK",
+        "detail": "3.50 * 2.00 = 7.00"
+      },
+      {
+        "check": "gesamtquote-Nachrechnung RISIKO-Kombi",
+        "status": "OK",
+        "detail": "4.00 * 2.50 = 10.00"
+      },
+      {
+        "check": "gesamtquote-Nachrechnung MOONSHOT-Kombi",
+        "status": "OK",
+        "detail": "10.00 * 15.00 = 150.00"
+      },
+      {
+        "check": "LAYER-1 (max 1 Bein/Spiel/Kombi)",
+        "status": "OK",
+        "detail": "Alle 4 Kombis: je 1 Bein NOR-ENG + 1 Bein ARG-SUI"
+      },
+      {
+        "check": "LAYER-2 (Sieg-Outcome max 1 Kombi/Spiel)",
+        "status": "OK",
+        "detail": "SAFE-Kombi nutzt beide Sieg-Outcomes. Balance/Risiko/Moonshot enthalten keine Sieg-Outcomes."
+      },
+      {
+        "check": "LAYER-3 (max 1 Bein/Spiel/alle Kombis wo moeglich, sonst markt-entkoppeln)",
+        "status": "OK",
+        "detail": "Bellingham in Balance (Torschuetze) + Moonshot (2+ Tore) - Markt entkoppelt. Alvarez in Risiko (Torschuetze) + Moonshot (2+ Tore) - Markt entkoppelt. Haaland/Kane/Messi je 1x in Kombis vertreten."
+      },
+      {
+        "check": "max 5 Tipps/Spiel",
+        "status": "OK",
+        "detail": "NOR-ENG: 5 Tipps. ARG-SUI: 5 Tipps."
+      },
+      {
+        "check": "Halluzinations-Check Squad-Daten",
+        "status": "OK",
+        "detail": "Alle Spielernamen aus 6+ Quellen (FIFA/ESPN/AlJazeera/Rotowire/CBS/EnglandFootball/SportMole) verifiziert. Manzambi-OUT bestaetigt via Yahoo/CBS/AlJazeera."
+      },
+      {
+        "check": "Halluzinations-Check Quoten",
+        "status": "WARN",
+        "detail": "Quoten basieren auf DraftKings/FanDuel/CBS/SI Preview-Sammlung Freitag/Samstag - bet365-DE-spezifische Quoten nicht direkt gefetcht. Live vor Anpfiff pruefen empfohlen (in news[] pro Spiel bereits vermerkt)."
+      },
+      {
+        "check": "Torschuetze-Vereins-Quelle-Vollstaendigkeit",
+        "status": "WARN",
+        "detail": "Alle 6 Torschuetzen-Tipps haben _torschuetze_quelle_warn=true weil transfermarkt/Vereins-Player-Seiten nicht direkt in quellen[] eingebunden. Kategorien bleiben max WACKEL - regelkonform."
+      },
+      {
+        "check": "Selbstwidersprueche in Begruendungen",
+        "status": "OK",
+        "detail": "Kategorien und Begruendungen konsistent. Kein Fall wie 'Edge kleiner als suggeriert' + SAFE."
+      },
+      {
+        "check": "Anti-Korrelations-Check Kombis",
+        "status": "OK",
+        "detail": "SAFE-Kombi (2x Sieg) nicht mit Ueber-Tor-Bein kombiniert. ARG-SUI Unter 2.5 explizit ausserhalb der ARG-Sieg-Kombi gehalten (HR07-09-4). NOR-ENG Ueber 2.5 nicht in Kombi mit England-Sieg."
+      },
+      {
+        "check": "Kasse-Stufen-Einsaetze",
+        "status": "OK",
+        "detail": "Alle Einsaetze auf Basis Kasse 550EUR Stufe 1: Einzel VALUE 2%=11EUR, Einzel WACKEL 0.5%=2.75EUR, Einzel RISIKO 0.25%=1.40EUR, Kombi SAFE 2%=11EUR, Kombi BALANCE 0.8%=4.40EUR, Kombi RISIKO 0.25%=1.40EUR, Kombi MOONSHOT 0.1%=0.55EUR."
+      },
+      {
+        "check": "Markt-Bluter-Check",
+        "status": "OK",
+        "detail": "markt_bluter.json listet Spread/Handicap - kein Spread/Handicap-Tipp im Dossier."
+      },
+      {
+        "check": "Verbotene Maerkte",
+        "status": "OK",
+        "detail": "Keine Eckbaelle, Karten, HZ/ES-Kombi, Genaues Ergebnis, PRA-Kombos oder Einzel-Assists/Rebounds/Steals im Dossier."
+      },
+      {
+        "check": "saison_kontext Pflichtfelder (parallel/saisonziel/motivations/recovery/quellen)",
+        "status": "OK",
+        "detail": "Beide Spiele: alle 7 Pflichtfelder gefuellt, quellen[] mit 6 URLs jeweils, inkl. FIFA-Verband-Quelle. WM-Spiele: Turnier-Phase in Liga + Vereins-Belastung in saisonziel/recovery erwaehnt."
+      },
+      {
+        "check": "Spiel-IDs Konvention Window-Datum",
+        "status": "OK",
+        "detail": "2026-07-11-nor-eng (Window-Datum 11.07., Anstoss 23:00 MESZ 11.07.). 2026-07-11-arg-sui (Window-Datum 11.07., Anstoss 03:00 MESZ 12.07. - Nacht-Spiel gehoert zum Window 11.07. korrekt lt. recherche_routine.md)."
+      }
     ],
     "emergency_recovery": true,
     "notiz": "Master-Fallback-Verify inline weil Watchdog-Recovery-Lauf ohne separaten Verifikations-Subagent. Zwei WARN-Punkte (Quoten-Aggregator-Basis nicht bet365-direkt / Torschuetzen-Vereins-Quellen nicht in quellen[]) sind bekannt und regelkonform behandelt (max WACKEL bei Torschuetzen, Quoten-Live-Pruefung im news[] jedes Spiels erwaehnt)."

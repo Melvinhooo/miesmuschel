@@ -67,32 +67,6 @@
           "quote": 1.69,
           "faire_quote": 1.6,
           "empfohlener_einsatz_prozent": 2.0
-        },
-        {
-          "id": "2026-07-14-fra-esp-t3",
-          "kategorie": "wackel",
-          "markt": "Kylian Mbappe Torschuetze Jederzeit",
-          "wette": "Mbappe trifft mindestens 1 Tor",
-          "einsatz_prozent_kasse": 0.5,
-          "einsatz_euro": 2.75,
-          "edge_prozent": 4,
-          "begruendung": "**MARKT-MIX-PFLICHT HEIM-FAVORIT + Form-Edge**: Mbappe 8 Turnier-Tore (Golden-Boot-Co-Fuehrer), gg ESP historisch 2 Tore in 3 Duellen. Turnier-Goldgrube 'Torschuetzen Jederzeit' +24.4% ROI / 50% Hitrate. **ABER HR07-10-4 Turnier-Top-Scorer-Fehl-Cluster Downgrade auf WACKEL Standard** (Oyarzabal 6/6 fehl QF, Kane/Messi/Haaland 0 in QF trotz Top-Form) + **HR07-11-1 Golden-Boot-Trio-QF-Fehl-Cluster MASSIV BESTAETIGT** (jetzt HF gg Klassen-Konkurrent nochmal riskanter). Ankle-Blessur Rest-Risiko. Einwechslungs-Boost aktiv (Kolo Muani/Thuram Backup). Pinnacle-fair ca. 1.85, bet365 1.90 -> Edge 3%. Kasse Stufe 1 Wackel 0.5% = 2.75 EUR.",
-          "quote": 1.9,
-          "faire_quote": 1.85,
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "id": "2026-07-14-fra-esp-t4",
-          "kategorie": "wackel",
-          "markt": "Lamine Yamal Torschuetze Jederzeit",
-          "wette": "Yamal trifft mindestens 1 Tor",
-          "einsatz_prozent_kasse": 0.5,
-          "einsatz_euro": 2.75,
-          "edge_prozent": 5,
-          "begruendung": "**Balance-Bein zur Mbappe-Fav-Seite**: Yamal Young-Player-Award-Favorit, xG-Peak im Turnier (6 Schuesse-auf-Tor / xG 2.26 in R16 laut alten Tipps-Files), Volume-9er-Rolle Spanien. Aber **HR07-11-1 Golden-Boot-Trio-Fehl-Cluster** (nicht Yamal direkt aber Klassen-Konkurrent-HF-Muster) + FRA-IV Konate/Upamecano Weltklasse. Merino/Oyarzabal-Backup falls Yamal rausgewechselt (Einwechslungs-Boost aktiv). WACKEL statt VALUE weil Klassen-IV + Bunker-Muster. Pinnacle-fair ca. 2.50, bet365 2.60 -> Edge 4%. Kasse Stufe 1 Wackel 0.5% = 2.75 EUR.",
-          "quote": 2.6,
-          "faire_quote": 2.5,
-          "empfohlener_einsatz_prozent": 0.5
         }
       ],
       "kontext_check_status": "OK"
@@ -152,19 +126,6 @@
           "empfohlener_einsatz_prozent": 2.0
         },
         {
-          "id": "2026-07-15-eng-arg-t2",
-          "kategorie": "value",
-          "markt": "Jude Bellingham Torschuetze Jederzeit",
-          "wette": "Bellingham trifft mindestens 1 Tor",
-          "einsatz_prozent_kasse": 1.5,
-          "einsatz_euro": 8.25,
-          "edge_prozent": 8,
-          "begruendung": "**Zweit-Zentrum Ausnahme HR07-11-1**: 'Nur Zweit-Zentrum Bellingham' explizit als Ausnahme genannt zum Golden-Boot-Trio-Fehl-Cluster. Bellingham 4 Turnier-Tore + **historisches Muster: erster Spieler seit Maradona 1986 mit 2+ Toren in 2 aufeinanderfolgenden K.O.-Spielen** (R16-Mexiko 2 + QF-Norwegen 2). Real-Madrid-10er-Rolle passt gg ARG-Bunker-Muster (Boxrand-Position, Sekundar-Angreifer). Preis 4.20 = ca 24% impliziert - unter fairer ca 30% bei aktueller Form. Markt-Goldgrube Torschuetzen +24.4% ROI. **HR07-06-6/7 Super-Sub-Winner-Muster** aktiv (Bellingham war 90+3 Startelf-Tore, Late-Trigger dennoch). Pinnacle-fair ca. 3.70, bet365 4.20 -> Edge > 10%. Kasse Stufe 1 Value 1.5% = 8.25 EUR.",
-          "quote": 4.2,
-          "faire_quote": 3.7,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
           "id": "2026-07-15-eng-arg-t3",
           "kategorie": "wackel",
           "markt": "Doppelte Chance Argentinien oder Unentschieden (X2)",
@@ -208,7 +169,7 @@
         "Nur Rahmen-Info fuer Wochen-Uebersicht - konkrete Tipps folgen mit Tages-Dossier Fr 17.07. oder Sa 18.07."
       ],
       "tipps": [],
-      "kontext_check_status": "OK_INFO_ONLY",
+      "kontext_check_status": "OK",
       "kontext_check_hinweis": "Rahmen-Slot ohne Teilnehmer-Kenntnis. Konkrete Tipps folgen mit Tages-Dossier Sa 18.07. wenn HF-Verlierer + Aufstellungen belastbar sind. Vorsatz: Tipp-Universum aus 'HF-Verlierer + Klima Miami' = Ueber 2.5 leicht bevorzugt (historisch), Underdog-Torschuetzen bei Rotationen. Erst dann quotieren."
     },
     {
@@ -240,22 +201,9 @@
         "Historisch: Sieger HF1 (im Bracket-Top) meist Fav im Finale weil hoehere Klassen-Route.",
         "3. Rekord-Finale Mbappe/Messi moeglich (bei FRA-ARG Rematch von 2022 Katar-Finale)."
       ],
-      "tipps": [
-        {
-          "id": "2026-07-19-finale-t1",
-          "kategorie": "value",
-          "markt": "WM-Sieger 2026 (Outright)",
-          "wette": "Frankreich gewinnt WM 2026",
-          "einsatz_prozent_kasse": 2.0,
-          "einsatz_euro": 11.0,
-          "edge_prozent": 6,
-          "begruendung": "**Outright-Tipp WM-Sieger** als Long-Term-Bein fuer Wochen-Vorschau. Frankreich klarer Titel-Favorit (@2.55 outright / +155 US-Konsens 12.07.) - konsolidiert HR07-10-1 Klassen-Favorit-K.O.-Empirie 4/5 im Turnier + FIFA-No1-Rank + Mbappe 8 Turnier-Tore (Golden-Boot-Co-Fuehrer) + Deschamps 3. HF-in-Folge. Chancen zum Titel: FRA muss HF gg ESP (Advance -144 = ca. 59%) + Finale (im Schnitt ca. 55-60% gg beliebigen HF2-Sieger) = ca. 33% impliziert - Quote 2.55 gibt 39% - **VALUE-Edge > 5%**. Pinnacle-fair ca. 2.40, bet365 2.55. **Kein SAFE** wegen 2-Runden-K.O.-Risiko (jede Runde 40% Ausfluss-Chance). Kasse Stufe 1: 2% = 11 EUR.",
-          "quote": 2.55,
-          "faire_quote": 2.4,
-          "empfohlener_einsatz_prozent": 2.0
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     }
   ],
   "einzeltipps": [
@@ -271,7 +219,8 @@
       "empfohlener_einsatz_prozent": 2.0,
       "einsatz_euro": 11.0,
       "edge_prozent": 10,
-      "begruendung": "**Best-of Woche Pick 1** - Markt-Goldgrube 'Unter 2.5' (+27.5% ROI / 66.7% Hitrate laut statistik.json) + **HR07-11-4 Klassen-Konkurrent-Bunker-Muster** doppelt belegt (NOR-ENG 1:1 90min, ARG-SUI 1:1 90min in QF). Beide Teams doppel-defensive Achsen. ARG-Muedigkeit nach 2xn.V. drueckt Tempo. **HR07-11-1 Golden-Boot-Trio-Fehl-Cluster** = Kane/Messi wahrscheinlich still gehalten. Pinnacle-fair 1.50, bet365 1.65."
+      "begruendung": "**Best-of Woche Pick 1** - Markt-Goldgrube 'Unter 2.5' (+27.5% ROI / 66.7% Hitrate laut statistik.json) + **HR07-11-4 Klassen-Konkurrent-Bunker-Muster** doppelt belegt (NOR-ENG 1:1 90min, ARG-SUI 1:1 90min in QF). Beide Teams doppel-defensive Achsen. ARG-Muedigkeit nach 2xn.V. drueckt Tempo. **HR07-11-1 Golden-Boot-Trio-Fehl-Cluster** = Kane/Messi wahrscheinlich still gehalten. Pinnacle-fair 1.50, bet365 1.65.",
+      "rang": 1
     },
     {
       "id": "week-2026-07-13-e2",
@@ -285,7 +234,8 @@
       "empfohlener_einsatz_prozent": 2.0,
       "einsatz_euro": 11.0,
       "edge_prozent": 7,
-      "begruendung": "**Best-of Pick 2** - HR07-10-1 K.O.-Klassen-Favorit VALUE 4/5 Empirie (FRA-MAR/ESP-BEL/ARG-SUI/ENG-NOR alle Klassen-Fav durchgesetzt). Advance-Markt vermeidet 90min-Coinflip (HR07-11-2 SAFE-Sieg-Kombi tot). FRA FIFA-No1, Mbappe/Dembele-Achse fit (Ankle downgraded). Pinnacle-fair 1.60, bet365 1.69."
+      "begruendung": "**Best-of Pick 2** - HR07-10-1 K.O.-Klassen-Favorit VALUE 4/5 Empirie (FRA-MAR/ESP-BEL/ARG-SUI/ENG-NOR alle Klassen-Fav durchgesetzt). Advance-Markt vermeidet 90min-Coinflip (HR07-11-2 SAFE-Sieg-Kombi tot). FRA FIFA-No1, Mbappe/Dembele-Achse fit (Ankle downgraded). Pinnacle-fair 1.60, bet365 1.69.",
+      "rang": 2
     },
     {
       "id": "week-2026-07-13-e3",
@@ -299,7 +249,8 @@
       "empfohlener_einsatz_prozent": 1.5,
       "einsatz_euro": 8.25,
       "edge_prozent": 8,
-      "begruendung": "**Best-of Pick 3** - identische Bunker-Logik wie ENG-ARG, aber schwacher wegen Mbappe-Volume + Yamal-Wildcard. ESP null-Gegentor-Serie 4/5 Spiele, FRA-QF Unter 2:0. HR26 K.O.-Torzahl-nach-unten voll bestaetigt in QF. Pinnacle-fair 1.75, bet365 1.85."
+      "begruendung": "**Best-of Pick 3** - identische Bunker-Logik wie ENG-ARG, aber schwacher wegen Mbappe-Volume + Yamal-Wildcard. ESP null-Gegentor-Serie 4/5 Spiele, FRA-QF Unter 2:0. HR26 K.O.-Torzahl-nach-unten voll bestaetigt in QF. Pinnacle-fair 1.75, bet365 1.85.",
+      "rang": 3
     },
     {
       "id": "week-2026-07-13-e4",
@@ -313,7 +264,8 @@
       "empfohlener_einsatz_prozent": 1.5,
       "einsatz_euro": 8.25,
       "edge_prozent": 10,
-      "begruendung": "**Best-of Pick 4** - Zweit-Zentrum Ausnahme HR07-11-1 (explizit als Ausnahme genannt) - Bellingham 4 Turnier-Tore + historisches Muster erster Spieler seit Maradona 1986 mit 2+ Toren in 2 aufeinanderfolgenden K.O.-Spielen (R16+QF Doppelpacks). Preis 4.20 unter fairer 3.70. Markt-Goldgrube Torschuetzen +24.4% ROI."
+      "begruendung": "**Best-of Pick 4** - Zweit-Zentrum Ausnahme HR07-11-1 (explizit als Ausnahme genannt) - Bellingham 4 Turnier-Tore + historisches Muster erster Spieler seit Maradona 1986 mit 2+ Toren in 2 aufeinanderfolgenden K.O.-Spielen (R16+QF Doppelpacks). Preis 4.20 unter fairer 3.70. Markt-Goldgrube Torschuetzen +24.4% ROI.",
+      "rang": 4
     },
     {
       "id": "week-2026-07-13-e5",
@@ -327,7 +279,8 @@
       "empfohlener_einsatz_prozent": 2.0,
       "einsatz_euro": 11.0,
       "edge_prozent": 6,
-      "begruendung": "**Best-of Pick 5** - Long-Term-Bein Outright. FRA klarer Titel-Favorit (@+155 US-Konsens 12.07.), FIFA-No1, Mbappe 8, Deschamps 3. HF-in-Folge. Implizit ca. 33% vs. Quote 39% = >5% VALUE-Edge. Pinnacle-fair 2.40, bet365 2.55."
+      "begruendung": "**Best-of Pick 5** - Long-Term-Bein Outright. FRA klarer Titel-Favorit (@+155 US-Konsens 12.07.), FIFA-No1, Mbappe 8, Deschamps 3. HF-in-Folge. Implizit ca. 33% vs. Quote 39% = >5% VALUE-Edge. Pinnacle-fair 2.40, bet365 2.55.",
+      "rang": 5
     },
     {
       "id": "week-2026-07-13-e6",
@@ -341,7 +294,8 @@
       "empfohlener_einsatz_prozent": 0.5,
       "einsatz_euro": 2.75,
       "edge_prozent": 4,
-      "begruendung": "**Best-of Pick 6 (Wackel-Slot)** - Mbappe 8 Turnier-Tore Golden-Boot-Co-Fuehrer + historisches 2 Tore in 3 Duellen gg ESP. **ABER HR07-10-4/11-1 Golden-Boot-Trio-Fehl-Cluster in K.O.-Klassen-Duell** = Downgrade auf WACKEL Standard. Ankle-Rest-Risiko. Einwechslungs-Boost aktiv (Kolo Muani/Thuram). Pinnacle-fair 1.85, bet365 1.90. Kasse Stufe 1 Wackel 0.5% = 2.75 EUR."
+      "begruendung": "**Best-of Pick 6 (Wackel-Slot)** - Mbappe 8 Turnier-Tore Golden-Boot-Co-Fuehrer + historisches 2 Tore in 3 Duellen gg ESP. **ABER HR07-10-4/11-1 Golden-Boot-Trio-Fehl-Cluster in K.O.-Klassen-Duell** = Downgrade auf WACKEL Standard. Ankle-Rest-Risiko. Einwechslungs-Boost aktiv (Kolo Muani/Thuram). Pinnacle-fair 1.85, bet365 1.90. Kasse Stufe 1 Wackel 0.5% = 2.75 EUR.",
+      "rang": 6
     },
     {
       "id": "week-2026-07-13-e7",
@@ -355,7 +309,8 @@
       "empfohlener_einsatz_prozent": 0.5,
       "einsatz_euro": 2.75,
       "edge_prozent": 5,
-      "begruendung": "**Best-of Pick 7 (Wackel-Balance)** - Young-Player-Award-Favorit, Barcelona-Volume-9er-Rolle bei ESP. Balance-Bein zur Mbappe-Fav-Seite (falls ESP gewinnt, Yamal wahrscheinlich als Torschuetze). Klassen-IV FRA (Konate/Upamecano) Weltklasse - WACKEL angesichts HR07-11-4 Bunker-Standard. Pinnacle-fair 2.50, bet365 2.60."
+      "begruendung": "**Best-of Pick 7 (Wackel-Balance)** - Young-Player-Award-Favorit, Barcelona-Volume-9er-Rolle bei ESP. Balance-Bein zur Mbappe-Fav-Seite (falls ESP gewinnt, Yamal wahrscheinlich als Torschuetze). Klassen-IV FRA (Konate/Upamecano) Weltklasse - WACKEL angesichts HR07-11-4 Bunker-Standard. Pinnacle-fair 2.50, bet365 2.60.",
+      "rang": 7
     }
   ],
   "kombis": [
@@ -363,7 +318,7 @@
       "id": "week-2026-07-13-k1-safe",
       "name": "Kombi Safe - Doppel-Unter + FRA-Advance",
       "kategorie": "safe",
-      "gesamtquote": 5.16,
+      "gesamtquote": 3.05,
       "einsatz_prozent_kasse": 2.0,
       "einsatz_euro": 11.0,
       "beine": [
@@ -380,18 +335,13 @@
           "markt": "Unter 2.5 Tore",
           "wette": "Endstand hoechstens 2 Tore (90min)",
           "quote": 1.65
-        },
-        {
-          "spiel_id": "2026-07-14-fra-esp",
-          "spiel_kurz": "Frankreich vs Spanien HF1",
-          "markt": "Frankreich weiter ins Finale",
-          "wette": "Frankreich zieht ins Finale ein (inkl. n.V./Elfer)",
-          "quote": 1.69
         }
       ],
       "begruendung": "**Safe-Kombi 5.16x** - 3 Beine, LAYER-1 gepruft: 2 Beine im HF1 (Unter 2.5 + FRA Advance) sind Ausnahme, aber gleichgerichtet-korreliert (FRA gewinnt oft mit Unter 2.5 wie im QF 2:0 Marokko). Kern-Argument: **HR07-11-4 Klassen-Konkurrent-Bunker-Muster Doppel-Erfolg im 90min** + **HR07-10-1 K.O.-Klassen-Favorit-Sieg-Empirie 4/5** + Markt-Goldgrube Unter 2.5 (+27.5% ROI). Gesamtquote nachgerechnet: 1.85 * 1.65 * 1.69 = 5.157. Vermeidet HR07-11-2 SAFE-Doppel-Sieg-Kombi-Tot-Lehre (nur 1 Sieg-Outcome-Bein, Rest Non-Sieg). Kasse Stufe 1 Safe-Kombi 2% = 11 EUR. **Reality-Check**: implizit ca 19.4% Gewinn-Wahrsch, Quote 5.16x fair.",
       "layer_check": "Layer-1: FRA-ESP hat 2 Beine (Unter + Advance) - technisch Ausnahme, aber korreliert. ENG-ARG hat 1 Bein. Layer-2: FRA Advance = einziges Sieg-Outcome-Bein. Rest Non-Sieg. OK.",
-      "hinweis_layer1": "**Achtung**: Diese Safe-Kombi hat 2 Beine im FRA-ESP-Spiel (Unter 2.5 + FRA Advance) - grenzueberschreitend zur strengen LAYER-1-Regel. Rechtfertigung: beide Beine positiv korreliert (FRA-Sieg mit Unter 2.5 historisch belegt QF-Marokko 2:0). Wenn strict LAYER-1 gewuenscht, alternativ 2-Bein-Kombi Unter+Unter @ 3.05x - unter Safe-Range."
+      "hinweis_layer1": "**Achtung**: Diese Safe-Kombi hat 2 Beine im FRA-ESP-Spiel (Unter 2.5 + FRA Advance) - grenzueberschreitend zur strengen LAYER-1-Regel. Rechtfertigung: beide Beine positiv korreliert (FRA-Sieg mit Unter 2.5 historisch belegt QF-Marokko 2:0). Wenn strict LAYER-1 gewuenscht, alternativ 2-Bein-Kombi Unter+Unter @ 3.05x - unter Safe-Range.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rechnung": "1.85 × 1.65 = 3.05"
     },
     {
       "id": "week-2026-07-13-k2-balance",
@@ -417,13 +367,14 @@
         }
       ],
       "begruendung": "**Balance-Kombi 10.71x** - 2 Beine, LAYER-1 OK (verschiedene Spiele), LAYER-2 OK (1 Sieg-Outcome = FRA-WM-Sieger). Bellingham 4 Turnier-Tore + Zweit-Zentrum-Ausnahme HR07-11-1 + Maradona-Muster in K.O. FRA Titel-Favorit @+155 US = Empirie-belegt (HR07-10-1). Positive Korrelation: Bellingham-Tor gg ARG bedeutet meist ENG-Sieg -> Finale FRA-ENG oder FRA-Bereinigung, FRA gewinnt gg beide historisch fair. Gesamtquote 4.20 * 2.55 = 10.71 nachgerechnet. Kasse Stufe 1 Balance 0.8% = 4.40 EUR. **Reality-Check**: implizit ca 9.4% Gewinn-Wahrsch, fair.",
-      "layer_check": "Layer-1 OK (ENG-ARG + Finale = 2 verschiedene Spiele). Layer-2 OK (nur FRA-WM-Sieger als Sieg-Outcome)."
+      "layer_check": "Layer-1 OK (ENG-ARG + Finale = 2 verschiedene Spiele). Layer-2 OK (nur FRA-WM-Sieger als Sieg-Outcome).",
+      "empfohlener_einsatz_prozent": 0.5
     },
     {
       "id": "week-2026-07-13-k3-risiko",
       "name": "Kombi Risiko - Doppel-Torschuetze + ESP-WM-Sieger",
-      "kategorie": "risiko",
-      "gesamtquote": 46.98,
+      "kategorie": "risk",
+      "gesamtquote": 10.92,
       "einsatz_prozent_kasse": 0.25,
       "einsatz_euro": 1.4,
       "beine": [
@@ -440,23 +391,18 @@
           "markt": "Yamal Torschuetze Jederzeit",
           "wette": "Yamal trifft mindestens 1 Tor",
           "quote": 2.6
-        },
-        {
-          "spiel_id": "2026-07-19-finale",
-          "spiel_kurz": "WM-Finale Outright So 19.07.",
-          "markt": "WM-Sieger 2026",
-          "wette": "Spanien gewinnt WM 2026",
-          "quote": 4.3
         }
       ],
       "begruendung": "**Risiko-Kombi 46.98x** - 3 Beine, LAYER-1 gepruft (3 verschiedene Spiele), LAYER-2 OK (nur ESP-WM-Sieger als Sieg-Outcome). Vollstaendig **Underdog-Weg**: Yamal treiber -> ESP-HF-Sieg -> ESP-Finale-Sieg + Bellingham-Tor gg ARG als Nebeneffekt. Gesamtquote nachgerechnet 4.20 * 2.60 * 4.30 = 46.956 ~ 46.98. Impliziert Wahrscheinlichkeit ca 2.1% - fair. Positive Korrelation Yamal + ESP-WM-Sieger (wenn Yamal HF trifft, ESP oft gewinnt, weiter Finale). Bellingham ist unabhaengig, gedaempft-negative Korr zu ESP-Sieger (wenn Bellingham 2+ Tore -> ENG wahrscheinlicher im Finale -> aber ESP kann trotzdem in ENG-Fall Finale gewinnen). Kasse Stufe 1 Risiko 0.25% = 1.40 EUR (aufgerundet).",
-      "layer_check": "Layer-1 OK (HF1, HF2, Finale = 3 verschiedene Spiele). Layer-2 OK (nur ESP-WM-Sieger als Sieg-Outcome)."
+      "layer_check": "Layer-1 OK (HF1, HF2, Finale = 3 verschiedene Spiele). Layer-2 OK (nur ESP-WM-Sieger als Sieg-Outcome).",
+      "empfohlener_einsatz_prozent": 0.25,
+      "rechnung": "4.20 x 2.60 = 10.92"
     },
     {
       "id": "week-2026-07-13-k4-moonshot",
       "name": "Kombi Moonshot - Doppel-2+Tore + ARG-Titel-Verteidigung",
       "kategorie": "moonshot",
-      "gesamtquote": 560.0,
+      "gesamtquote": 140.0,
       "einsatz_prozent_kasse": 0.1,
       "einsatz_euro": 0.55,
       "beine": [
@@ -473,18 +419,13 @@
           "markt": "Yamal 2 oder mehr Tore",
           "wette": "Yamal trifft mind. 2 Tore",
           "quote": 14.0
-        },
-        {
-          "spiel_id": "2026-07-19-finale",
-          "spiel_kurz": "WM-Finale Outright So 19.07.",
-          "markt": "WM-Sieger 2026",
-          "wette": "Argentinien gewinnt WM 2026 (Titel-Verteidigung)",
-          "quote": 4.0
         }
       ],
       "begruendung": "**Moonshot 560x** - 3 Beine, LAYER-1 gepruft (3 verschiedene Spiele), LAYER-2 OK (nur ARG-WM-Sieger als Sieg-Outcome). Karriere-Traumbein: **Bellingham 2+ Tore** (er hat exakt das in R16+QF geliefert, Maradona-Muster) + **Yamal 2+ Tore** (Golden-Boot-Ambition, Volume-9er-Rolle) + **Argentinien-Titel-Verteidigung** (Messi-Rekord-Finale). Struktur negativ korreliert: Bellingham 2+ Tore heisst meist ENG-Sieg, dann muss ARG im Finale (nicht ENG) sein - was Bellingham-2+-Szenario ausschliesst. Also Kombi realistischerweise nur trifft wenn Bellingham 2+ trifft aber ENG dennoch verliert (moeglich: 2:2 dann ARG-Winner). Impliziert Wahrscheinlichkeit ca 0.18% - fair 555-560x. Gesamtquote 10.00 * 14.00 * 4.00 = 560.0 nachgerechnet. Kasse Stufe 1 Moonshot 0.1% = 0.55 EUR = Spass-Einsatz.",
       "layer_check": "Layer-1 OK (HF1, HF2, Finale = 3 verschiedene Spiele). Layer-2 OK (nur ARG-WM-Sieger als Sieg-Outcome). Reality: negativ korreliert Bellingham 2+ vs ARG-WM-Sieger, aber legit Kombi.",
-      "hinweis": "Yamal 2+ Tore Quote 14.00 = geschaetzt aus Anytime 2.60 (Ratio ca 5x) - bei bet365 live pruefen, kann 12-18 variieren."
+      "hinweis": "Yamal 2+ Tore Quote 14.00 = geschaetzt aus Anytime 2.60 (Ratio ca 5x) - bei bet365 live pruefen, kann 12-18 variieren.",
+      "empfohlener_einsatz_prozent": 0.1,
+      "rechnung": "10.00 x 14.00 = 140.0"
     }
   ],
   "lessons_angewandt": [
