@@ -1,0 +1,1202 @@
+{
+  "datum": "2026-07-11",
+  "erstellt_am": "2026-07-11T15:20:00+02:00",
+  "hinweis": "WATCHDOG-FALLBACK Sa 11.07. 15:20 Berlin (Hauptroutine 10:00 nicht gelaufen, Recherche-File data/recherche/2026-07-11.json fehlt). **WM 2026 Viertelfinale Tag 3** - **Doppel-Slot**: Norwegen vs England 23:00 MESZ Hard Rock Stadium Miami + Argentinien vs Schweiz 03:00 MESZ (12.07.) Arrowhead Stadium Kansas City. Erste 2-Spiel-Tag seit langem -> LAYER-1-Kombis wieder moeglich (2-Bein statt HR07-09-3 Umgehung). Klassen-Duelle: England Turnier-Top-5 vs Norwegen Underdog-Ueberraschung mit Haaland 7 Turnier-Tore; Argentinien Titel-Anwaerter (Messi 8 Tore Golden-Boot-Fuehrer) vs Schweiz Klassen-Konkurrent mit Manzambi-Schluessel-Ausfall (Knie). Vereins-Fussball pausiert (Sommer-Pause), NBA-Finals durch. Kasse 550EUR Stufe 1 (Aufbau) - konservative Einsatz-Range 1-2%. 18+ / BZgA 0800 1372700.",
+  "spiele": [
+    {
+      "id": "2026-07-11-nor-eng",
+      "liga": "FIFA World Cup 2026 - Viertelfinale",
+      "heim": "Norwegen",
+      "gast": "England",
+      "anstoss": "2026-07-11T23:00:00+02:00",
+      "stadion": "Hard Rock Stadium, Miami Gardens (Florida, USA)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM-Turnier exklusiv. Eliteserien Norwegen Sommer-Pause bis Anfang August, Legionaere-Vereine (Man City Haaland, Arsenal Odegaard, RB Leipzig Nusa) ebenfalls in Pause.",
+        "parallel_gast": "keine - WM-Turnier exklusiv. Premier League Sommer-Pause bis 15.08., alle Legionaere WM-fokussiert.",
+        "saisonziel_heim": "Erstmalig Viertelfinale eines Major-Turniers (WM/EM) in der Historie erreicht. Route: R32 Sieg gg Elfenbeinkueste (Haaland Late-Winner), R16 Sensations-2:1 gg Brasilien (Haaland Doppelpack + Schjelderup-Sub-Assist). Weiterer Aufstieg = Halbfinale gg Spanien (14.07.). Turnier bislang 5/5 Spiele Ueber 2.5 Tore (7 Tore in 4 Spielen Haaland + Sorloth).",
+        "saisonziel_gast": "WM-Titel 2026-Anwaerter Top-3. Tuchel-Team stabil: R32 Comeback 2:1 gg DR Kongo (Kane 2 spaete Tore), R16 3:2 gg Mexiko in Mexico City trotz Roter Karte (Bellingham Doppelpack). Kane bei 6 Turnier-Toren, Bellingham 4 Tore. Route: bei Sieg -> HF Di 14.07. gg Spanien in Dallas.",
+        "motivations_asymmetrie": "Beide 100% motiviert (K.O.-HF-Ticket). Klassen-Edge England klar (Turnier-Top-5 gegen Underdog-Ueberraschung), aber Norwegen hat Klassen-Konkurrent-Sensation-Serie mit Haaland-Fokus. Haaland selbst hat gesagt WM-Chance sei 'wirklich niedrig' und Druck komplett auf England - klassische Underdog-Freiheit vs Favorit-Muss-Erwartung. Bellingham-Odegaard-Duell ist zentrales Sub-Duell.",
+        "recovery_heim": "5 Tage Pause seit BRA-Sensation 06.07. Boston. Kein Verletzungs-Report bekannt - Haaland/Sorloth/Odegaard/Nusa fit. Norwegen wechselte Hotel wegen Laerm-Beschwerden Miami-Beach - kleine Ablenkung. Cross-Kontinent-Reise Boston -> Miami (ca. 3h Flug, gleiche Zeitzone) - moderate Belastung.",
+        "recovery_gast": "4 Tage Pause seit MEX-R16 07.07. Mexico City. Marc Guehi angeschlagen (Startet-in-allen-5-Spielen, Doubtful), Jarell Quansah GESPERRT nach Roter Karte gg Mexiko - Konsequenz Innenverteidiger-Umbau (Stones-Konsa-Achse, evtl Guehi wenn fit). Reece James zurueck im Training, evtl Rechtsverteidiger. Bellingham-Kane-Achse voll fit. Reise Mexico City -> Miami (2 Zeitzonen zurueck) - Aklimatisierung ok.",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/norway-england-preview-live-stream-team-news-tickets",
+          "https://www.espn.com/soccer/story/_/id/49317174/norway-erling-haaland-chances-really-low-world-cup-pressure-england-quarterfinal",
+          "https://www.aljazeera.com/news/2026/7/10/norway-vs-england-world-cup-quarterfinal-haaland-kane-prediction-news",
+          "https://www.englandfootball.com/england/mens-senior-team/fixtures-results/2025-26/World-Cup/norway-england-fifa-world-cup-quarter-final-saturday-11-july-2026-match-centre",
+          "https://www.rotowire.com/soccer/article/norway-vs-england-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-quarterfinal-121923",
+          "https://www.cbssports.com/soccer/news/england-norway-odds-prediction-time-2026-world-cup-quarterfinals-picks/"
+        ]
+      },
+      "news": [
+        "England Turnier-Top-3-Anwaerter mit stabiler Tuchel-Ordnung: Kane 6 Turnier-Tore, Bellingham 4 Tore + Doppelpack in R16.",
+        "Norwegen historisches Viertelfinale (erstmalig!), Klassen-Konkurrent-Killer: Haaland Doppelpack gg Brasilien in R16 + Late-Winner gg Elfenbeinkueste in R32.",
+        "Haaland: 7 Turnier-Tore in 4 Spielen (Golden-Boot-Anwaerter mit Kane/Messi/Mbappe), 27 kompetitive Tore in letzten 14 Spielen fuer Norwegen.",
+        "Kane: 6 Turnier-Tore = erst dritter England-Spieler mit 6+ Toren in einem Major-Turnier. Kombi Kane-Bellingham-Foden zentral.",
+        "England-Verletzungen: Guehi (IV, Startelf-Stamm) angeschlagen. Quansah rot-gesperrt nach Mexiko-Spiel. Reece James wieder im Training.",
+        "Norwegen predicted 4-3-3: Nyland - Ryerson, Ajer, Heggem, Moller Wolfe - Berg, Berge, Odegaard - Sorloth, Haaland, Nusa.",
+        "England predicted 4-2-3-1: Pickford - Konsa, Stones, Guehi (?), O'Reilly - Rice, Anderson - Saka, Bellingham, Gordon - Kane.",
+        "Alle 5 Norwegen-Turnier-Spiele Ueber 2.5 Tore. Alle 5 England-Turnier-Spiele Ueber 2.5 Tore (auch MEX-R16 5 Tore).",
+        "**bet365 2:0-Insurance aktiv** (WM 2026 laut Aktions-Regel): direkter England-Sieg-Tipp gilt gewonnen sobald ENG 2:0 fuehrt, egal was danach.",
+        "**Einwechslungs-Boost aktiv** (WM 2026 alle Torschuetzen-Maerkte): Bei Kane-Auswechslung Ersatz-Torschuetze wird angerechnet (Backup Watkins). Bei Haaland-Auswechslung Ersatz Sorloth (bereits Startelf - kein direkter Ersatz).",
+        "Reise-/Klima-Faktor: Miami 23:00 MESZ = 17:00 ET Ortszeit - Nachmittag-Hitze Florida 32-34C mit hoher Luftfeuchtigkeit (~70%). HR28 Klima-Warnung: Tempo runter erwartbar in 2. HZ, Kondition entscheidet.",
+        "bet365-Quoten (Stand Fr Nacht - vor Anpfiff live pruefen): England Sieg 1.85-1.90, Draw 3.70, Norwegen 4.00-4.10, Ueber 2.5 1.70, Unter 2.5 2.15, Kane Anytime 1.95, Haaland Anytime 2.20, Bellingham Anytime 3.50, Nusa Anytime 4.50, Kane 2+ Tore 4.50, Bellingham 2+ Tore 10.00, Haaland 2+ Tore 4.00."
+      ],
+      "tipps": [
+        {
+          "id": "2026-07-11-nor-eng-t1",
+          "kategorie": "value",
+          "markt": "England Sieg 90min",
+          "wette": "England gewinnt regulaere Spielzeit",
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 11.0,
+          "edge_prozent": 7,
+          "begruendung": "**Klassen-Edge England klar**: Turnier-Top-3-Anwaerter mit stabiler Tuchel-Ordnung + Bellingham/Kane/Foden-Kern. Norwegen mit sensationellem R16-Sieg gg Brasilien Klassen-Konkurrent-Killer, aber gegen England eine Klasse tiefer (Haaland selbst sagt Chance 'wirklich niedrig'). **HR07-10-1 (K.O.-Modus-Sieg-Tipp Klassen-Favorit VALUE 4/5)**: Empirie R32/R16/QF liefert - Frankreich, Spanien, Argentinien-Sieg-Tipps trafen alle in K.O. **2:0-INSURANCE aktiv** (bet365 WM 2026): sobald ENG 2:0 fuehrt, Tipp durch (Kane/Bellingham 6+4 Tore setzen das realistisch). **Reality-Check**: Markt 'Sieg (1X2)' im System n=163, HR=58.6%, ROI=+3.8%. Pinnacle-fair ca. 1.75, bet365 1.87 -> Edge > 5%. **Vorsicht Guehi-Anschlag** + Quansah-Sperre = IV-Umbau, aber Konsa-Stones-Achse stabil. **Kasse Stufe 1**: 2% = 11 EUR.",
+          "quote": 1.87,
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 2.0
+        },
+        {
+          "id": "2026-07-11-nor-eng-t2",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "wette": "Endstand >= 3 Tore insgesamt (90min)",
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 11.0,
+          "edge_prozent": 9,
+          "begruendung": "**Markt-Goldgrube Nr.2**: markt_goldgruben.json 'Ueber 2.5 Tore' n=40, HR=57.9%, ROI=+20.1%. **Empirie stark**: alle 5 Norwegen-Turnier-Spiele Ueber 2.5 + alle 5 England-Turnier-Spiele Ueber 2.5 (auch defensiv-orientierte). Haaland (7) + Kane (6) + Bellingham (4) = 17 Turnier-Tore zusammen. **HR07-07-2 R16 Ueber-2.5-Cluster 6/6 in Folge** war Empirie-Basis, in QF gemischter (HR07-10-2 revidiert): FRA-MAR 2:0 Unter, ESP-BEL 2:1 Ueber. Hier klar Ueber-tendiert wegen bilateraler Offensive + Norwegen-Underdog-Freiheit (kein taktisch-defensives K.O.-Bunker-Muster). **HR26 K.O.-Torzahl-nach-unten** anerkannt aber Empirie im Turnier 100% Ueber bei beiden -> kein SAFE-Downgrade noetig, VALUE passt. Pinnacle-fair ca. 1.55, bet365 1.70 -> Edge > 8%.",
+          "quote": 1.7,
+          "faire_quote": 1.55,
+          "empfohlener_einsatz_prozent": 2.0
+        },
+        {
+          "id": "2026-07-11-nor-eng-t3",
+          "kategorie": "wackel",
+          "markt": "Harry Kane trifft (Torschuetze Jederzeit)",
+          "wette": "Kane erzielt mind. 1 Tor",
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 5,
+          "begruendung": "**Form-Edge Pflicht-Erfuellung** (MARKT-MIX HEIM-FAVORIT-Kategorie, aber gg umgekehrt Klassen-Favorit-Gast): Kane 6 Turnier-Tore = dritter England-Spieler mit 6+ Toren in einem Major-Turnier. Zentraler 9er ohne Rotations-Risiko. **HR07-10-4 Turnier-Top-Scorer-Fehl-Cluster in QF fortgesetzt** (Oyarzabal 0 gg Belgien) -> **DOWNGRADE auf WACKEL** statt VALUE. Kane-Fehl-Muster: bei zentralen Volume-9er in K.O. hoehere Bunker-Neigung Gegner. **Einwechslungs-Boost aktiv**: Backup Watkins (Villa 25/26 Bundesliga 22 Tore) - falls Kane rotiert-ausgewechselt und Watkins trifft, Tipp durch. Norwegen-IV Ajer/Heggem stabil aber nicht Weltklasse. Pinnacle-fair ca. 1.90, bet365 1.95 -> Edge >2%. **Kasse Stufe 1 Wackel 0.5%** = 2.75 EUR. [Auto: Torschuetze-Vereins-Quelle transfermarkt/Bayern-München-player-Seite fehlt in quellen[] - max wackel]",
+          "quote": 1.95,
+          "faire_quote": 1.85,
+          "empfohlener_einsatz_prozent": 0.5,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "id": "2026-07-11-nor-eng-t4",
+          "kategorie": "wackel",
+          "markt": "Erling Haaland trifft (Torschuetze Jederzeit)",
+          "wette": "Haaland erzielt mind. 1 Tor",
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 8,
+          "begruendung": "**Form-Edge extremer Volume-Star Norwegen**: 7 Turnier-Tore in 4 Spielen (1.75/G !), 27 kompetitive Tore in letzten 14 Spielen, Doppelpack in R16 gg Brasilien. Klassen-Konkurrent-Killer-Faehig - England-IV Stones-Konsa muss ihn stoppen (Guehi wenn fit als 3. Option). **HR07-10-4 Turnier-Top-Scorer-Fehl-Cluster**: WACKEL statt VALUE trotz Form-Edge - Muster Underdog-Anfuehrer wie Sorloth-Support (Sorloth 3 Turnier-Tore, direkter Backup) macht Haaland-Fehl-Kandidat plausibel. **Einwechslungs-Boost NEUTRALISIERT**: Sorloth ist Startelf-Support neben Haaland (nicht direkter Ersatz-Sub) -> Boost nicht anwendbar (HR07-06-3-Praezisierung). **Volume-Edge dennoch dominant**: Pinnacle-fair ca. 2.00, bet365 2.20 -> Edge > 5%. **Reality-Check**: Markt 'Torschuetzen Jederzeit' n=93, HR=37.4%, ROI=+5.8%. **Kasse Stufe 1 Wackel 0.5%** = 2.75 EUR. [Auto: Torschuetze-Vereins-Quelle fehlt in quellen[] - max wackel]",
+          "quote": 2.2,
+          "faire_quote": 2.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "id": "2026-07-11-nor-eng-t5",
+          "kategorie": "wackel",
+          "markt": "Jude Bellingham trifft (Torschuetze Jederzeit)",
+          "wette": "Bellingham erzielt mind. 1 Tor",
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 6,
+          "begruendung": "**Alternativ-Torschuetze mit Late-Star-Faktor**: Bellingham Turnier-Bilanz 4 Tore in 5 Spielen (0.8/G), Doppelpack in R16 gg Mexiko in Mexico City. HR07-10-4-Warnung greift wegen Bellingham Zweit-Zentrum (Kane primaerer Top-Scorer, Bellingham OM-Rolle mit Torschuss-Kreativitaet + Set-Piece-Threat). Norwegen-Mittelfeld Berg/Berge/Odegaard nicht defensiv-tight -> Bellingham-Halbraum-Chancen. **Reality-Check**: Torschuetzen-Markt n=93 HR=37.4%. Pinnacle-fair ca. 3.30, bet365 3.50 -> Edge > 5%. **WACKEL-Quote-Range 2.30-3.50** wird eingehalten (3.50 = Obergrenze). Kein Einwechslungs-Boost weil OM-Position ohne direkten Ersatz. **Kasse Stufe 1 Wackel 0.5%** = 2.75 EUR. [Auto: Torschuetze-Vereins-Quelle fehlt in quellen[] - max wackel]",
+          "quote": 3.5,
+          "faire_quote": 3.3,
+          "empfohlener_einsatz_prozent": 0.5,
+          "_torschuetze_quelle_warn": true
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 2,
+        "status": "beendet_nach_verlaengerung",
+        "kommentar": "Norwegen 1-2 England (a.e.t.). Endstand nach 90min: 1-1. Extra Time: Bellingham 93'. Bellingham Doppelpack.",
+        "halbzeit_heim": 1,
+        "halbzeit_gast": 1,
+        "regulaer_heim": 1,
+        "regulaer_gast": 1
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-07-11-nor-eng-t1",
+          "status": "verloren",
+          "kommentar": "England Sieg 90min: 90min-Endstand 1:1, England Sieg erst in Verlaengerung durch Bellingham 93'. 2:0-Insurance NICHT ausgeloest (England fuehrte nie 2:0 - Norwegen ging sogar 1:0 in Fuehrung durch Schjelderup 36'). Klassen-Konkurrent-Bunker-Muster von Norwegen umgesetzt.",
+          "quote": 1.87,
+          "einsatz_euro": 11.0,
+          "netto_euro": -11.0,
+          "gewinn_faktor": -1.0,
+          "closing_quote": null,
+          "clv_prozent": null,
+          "spiel_id": "2026-07-11-nor-eng",
+          "markt": "England Sieg 90min"
+        },
+        {
+          "tipp_id": "2026-07-11-nor-eng-t2",
+          "status": "verloren",
+          "kommentar": "Ueber 2.5 Tore (90min): Endstand nach 90min war 1:1 = 2 Tore, unter 2.5. In Verlaengerung fiel drittes Tor (Bellingham 93'), zaehlt nicht fuer 90min-Markt. HR26 K.O.-Torzahl-nach-unten voll bestaetigt.",
+          "quote": 1.7,
+          "einsatz_euro": 11.0,
+          "netto_euro": -11.0,
+          "gewinn_faktor": -1.0,
+          "closing_quote": null,
+          "clv_prozent": null,
+          "spiel_id": "2026-07-11-nor-eng",
+          "markt": "Ueber 2.5 Tore"
+        },
+        {
+          "tipp_id": "2026-07-11-nor-eng-t3",
+          "status": "verloren",
+          "kommentar": "Kane 0 Tore in Spiel. Kane spielte 90+ Minuten durch, NICHT ausgewechselt -> Einwechslungs-Boost via Watkins NICHT anwendbar (Watkins unused sub geblieben). HR07-10-4 Turnier-Top-Scorer-Fehl-Cluster in QF DRAMATISCH bestaetigt: Kane trotz 6 Turnier-Toren als zentraler 9er 0 Chancen im Bunker-Setup Norwegens.",
+          "quote": 1.95,
+          "einsatz_euro": 2.75,
+          "netto_euro": -2.75,
+          "gewinn_faktor": -1.0,
+          "closing_quote": null,
+          "clv_prozent": null,
+          "spiel_id": "2026-07-11-nor-eng",
+          "markt": "Harry Kane trifft (Torschuetze Jederzeit)"
+        },
+        {
+          "tipp_id": "2026-07-11-nor-eng-t4",
+          "status": "verloren",
+          "kommentar": "Haaland 0 Tore trotz 7 Turnier-Tore vorher. Sorloth Startelf-Support brachte auch nichts. HR07-10-4-Cluster bestaetigt: Haaland als Underdog-Anfuehrer + Klassen-Konkurrent-Match komplett von England-IV (Stones/Konsa) neutralisiert.",
+          "quote": 2.2,
+          "einsatz_euro": 2.75,
+          "netto_euro": -2.75,
+          "gewinn_faktor": -1.0,
+          "closing_quote": null,
+          "clv_prozent": null,
+          "spiel_id": "2026-07-11-nor-eng",
+          "markt": "Erling Haaland trifft (Torschuetze Jederzeit)"
+        },
+        {
+          "tipp_id": "2026-07-11-nor-eng-t5",
+          "status": "gewonnen",
+          "kommentar": "Bellingham traf 45+2' (Ausgleich zum 1:1 vor der Pause) - Anytime-Markt in 90min-Regulaerzeit erfuellt. Zusaetzlich Winning Goal 93' in ET. Bellingham-Doppelpack innerhalb 48 Stunden nach R16-Doppelpack (Mexiko). HR07-10-4 GEGENBEISPIEL: Zweit-Zentrum (nicht primaerer Top-Scorer) hat Muster GEBROCHEN.",
+          "quote": 3.5,
+          "einsatz_euro": 2.75,
+          "netto_euro": 6.88,
+          "gewinn_faktor": 2.5,
+          "closing_quote": null,
+          "clv_prozent": null,
+          "spiel_id": "2026-07-11-nor-eng",
+          "markt": "Jude Bellingham trifft (Torschuetze Jederzeit)"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:1",
+        "endstand": "1:2 (a.e.t. - 90min: 1:1)",
+        "tore": [
+          {
+            "min": 36,
+            "team": "heim",
+            "spieler": "Andreas Schjelderup",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": "45+2",
+            "team": "gast",
+            "spieler": "Jude Bellingham",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 93,
+            "team": "gast",
+            "spieler": "Jude Bellingham",
+            "stand_danach": "1:2",
+            "extra_time": true,
+            "kommentar": "3. Minute der Verlaengerung, Rueckpraller nach Long-Range-Save."
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Kein 2-Tore-Rueckstand fuer eine Seite - Norwegen fuehrte 1:0 (36.), England zog aber schon vor der Pause gleich (45+2'). Diff nie >= 2 Tore. Endstand 1:2 fuer England nach Verlaengerung - Klassen-Favorit setzte sich durch, aber ohne offensichtliches Drehungs-Muster."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Unentschieden/Unentschieden (HZ 1:1 - 90min 1:1)",
+          "kein_team_zu_null": true,
+          "notiz_90min": "Alle 90min-Maerkte auf Basis 1:1 gesettelt. Extra-Time-Tor zaehlt nicht fuer 90min-Maerkte (Ueber 2.5, DC, 1X2)."
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Eze/Saka/Watkins",
+            "details": "Tuchel wechselte frueh - Eze 45' fuer Rice, Saka 45' fuer Madueke. Kane blieb 90+min drin (kein Einwechslungs-Boost-Trigger). Watkins unused sub."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "gast",
+            "ein": "Reece James",
+            "aus": "Anthony Gordon",
+            "minute": 67,
+            "tor": false,
+            "kommentar": "Sub-Wechsel aber kein Tor vom Sub - kein Boost-Trigger."
+          }
+        ],
+        "auffaellige_patterns": [
+          "**Turnier-Top-Scorer-Cluster BESTAETIGT + massiv**: Kane 0 Tore, Haaland 0 Tore trotz 6+7 Turnier-Tore. Klassen-Konkurrent-Bunker in K.O. neutralisiert primaere 9er. HR07-10-4 nicht mehr Warnung sondern PATTERN.",
+          "**Zweit-Zentrum-Bellingham traf** - HR07-10-4-GEGENBEISPIEL: nicht der Golden-Boot-Kandidat sondern die Nr. 10 lieferte. Bestaetigt Balance-Kombi-Logik (nutze Zweit-Zentrum-Torschuetzen statt primaerer).",
+          "**Ueber 2.5 in QF wieder verloren** (nach ESP-BEL): NOR-ENG 2 Tore in 90min trotz 5/5 Turnier-Spiele beider Teams Ueber 2.5 vorher. HR26 K.O.-Torzahl-nach-unten bestaetigt sich, R16-Cluster-Extrapolation nicht mehr valide."
+        ]
+      }
+    },
+    {
+      "id": "2026-07-11-arg-sui",
+      "liga": "FIFA World Cup 2026 - Viertelfinale",
+      "heim": "Argentinien",
+      "gast": "Schweiz",
+      "anstoss": "2026-07-12T03:00:00+02:00",
+      "stadion": "GEHA Field at Arrowhead Stadium, Kansas City (Missouri, USA)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM-Turnier exklusiv. Argentinische Liga Sommer-Pause bis August, Legionaere-Vereine (Barcelona Messi-Ehrenrolle, Man City Alvarez, Aston Villa Emi Martinez, Chelsea Enzo Fernandez, Liverpool Mac Allister) alle in Pause.",
+        "parallel_gast": "keine - WM-Turnier exklusiv. Super League Sommer-Pause, Legionaere (BVB Kobel, Borussia Zakaria im DFB-Kader, Inter Sommer/Vargas, Arsenal Xhaka-Vorstuermer usw.) alle WM-fokussiert.",
+        "saisonziel_heim": "WM-Titel-Verteidigung 2026 (Weltmeister 2022 Katar). Route bislang: 3 Gruppen-Siege, R32 3:2 n.V. gg Kap Verde (Alvarez statt Lautaro-Rotation - siehe HR07-07-1), R16 3:2 Comeback gg Aegypten (Messi Assist+Tor in 4min 19s 0:2 zu 2:2). Messi 8 Turnier-Tore = Golden-Boot-Fuehrung. Bei Sieg -> HF Di 14.07. gg (NOR-ENG-Sieger) - Route beguenstigt Titel-Reise.",
+        "saisonziel_gast": "Historisches Halbfinale zum ersten Mal seit 1954. Route: Solide Gruppen-3.-Runde-Qualifikation, R32 Sieg gg Algerien, R16 0:0 n.V. + 4:3 Elfer-Sieg gg Kolumbien (Klassen-Konkurrent-Duell mit Doppel-Defensive - siehe HR07-07-3). Route bis HF spannend aber gg Argentinien-Titelanwaerter Klassen-Absteiger. H2H: 7 Duelle (5S 2R fuer Argentinien) - Argentinien nie gg Schweiz verloren.",
+        "motivations_asymmetrie": "Beide 100% motiviert. Klassen-Edge Argentinien massiv (Titel-Anwaerter Top-3 vs Underdog-Halbfinal-Historie). Aber Argentinien hatte zwei schwere K.O.-Kaempfe hintereinander (Kap Verde 3:2 n.V. + Aegypten 3:2 Comeback 0:2 zu 3:2) -> hohe Belastung. Schweiz-Xhaka/Freuler-Mittelfeld tight-defensiv + Kobel-BVB-Weltklasse-TW -> Klassen-Konkurrent-Bunker-Muster (siehe SUI-COL 0:0). Argentinien-Sturm-Alvarez off-form (Turnier bislang enttaeuscht).",
+        "recovery_heim": "4 Tage Pause seit AEG-R16 07.07. Kansas City. Cristian Romero Verletzungs-Update: NICHT im Ausfall - Spielbereit. Kein weiterer Verletzungs-Report. Emi Martinez (Villa 25/26 Stammform), Molina, Tagliafico, Lisandro Martinez alle fit. Belastung hoch: 2x n.V./Comeback-Spiele hintereinander -> Muskel-Rest-Belastung real.",
+        "recovery_gast": "4 Tage Pause seit COL-R16 07.07. (via Elfer nach 120min). **Johan Manzambi (20, Freiburg-Kreativ-Star, R32-Sensation) ACL/Knie OUT** - saison-vorbei-Ausfall bestaetigt Yakin, ersetzt durch Jashari/Sow. Aebischer doubtful. Jaquez Muskel OUT. Kobel/Elvedi/Akanji/Rodriguez-Defensive-Achse voll fit. **Extra-120-Min-Belastung** aus Kolumbien-Elfer - 4 Tage Pause knapp.",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/argentina-switzerland-preview-live-stream-team-news-tickets",
+          "https://www.aljazeera.com/sports/2026/7/11/argentina-switzerland-fifa-world-cup-quarterfinal-messi-prediction-news",
+          "https://www.cbssports.com/soccer/news/argentina-switzerland-odds-prediction-time-2026-world-cup-quarterfinal-picks-lionel-messi-props/",
+          "https://www.espn.com/soccer/story/_/id/49313407/argentina-vs-switzerland-fifa-world-cup-2026-tv-channel-how-watch-kick-live-stream-injury-predicted-line-ups",
+          "https://sports.yahoo.com/articles/switzerland-faces-injury-blow-prepare-215132075.html",
+          "https://www.coys.com/news/world-cup-news-argentina-receive-cristian-romero-injury-update-ahead-of-switzerland-quarter-final"
+        ]
+      },
+      "news": [
+        "Argentinien Titelverteidiger 2022 + Titel-Anwaerter Top-3. Messi (39) mit 8 Turnier-Toren = Golden-Boot-Fuehrung, 4-Minuten-Bilanz-Assist+Tor beim AEG-Comeback 0:2 zu 2:2.",
+        "Argentinien-Route: 3 Gruppen-Siege + R32 3:2 n.V. gg Kap Verde (Alvarez-Rotation statt Lautaro, HR07-07-1) + R16 3:2 Comeback gg Aegypten (Alvarez 78./85./89.-Verwandlungs-Serie).",
+        "Schweiz historisches Halbfinale-Ticket-Duell zum 1. Mal seit 1954. Route: Gruppe + R32 gg Algerien souveraen + R16 0:0 + 4:3 Elfer gg Kolumbien (Klassen-Konkurrent-Bunker).",
+        "**Schweiz-Manzambi (20, Freiburg) OUT Kreuzband/Knie** - saisonvorbei. Yakin bestaetigt Ausfall. Ersatz Jashari/Sow. Aebischer/Jaquez ebenfalls fraglich.",
+        "Argentinien predicted 4-4-2: Emi Martinez - Molina, Romero, Li. Martinez, Tagliafico - De Paul, Paredes, Fernandez, Mac Allister - Messi, La. Martinez.",
+        "Schweiz predicted 4-3-3: Kobel - Zakaria, Elvedi, Akanji, Rodriguez - Jashari, Xhaka, Freuler - Ndoye, Embolo, Vargas.",
+        "H2H Argentinien vs Schweiz: 7 Duelle (5 Siege / 2 Remis Argentinien) - nie verloren gg Schweiz.",
+        "Argentinien-Belastung: 2x n.V./Comeback-Spiele hintereinander -> Muskel-Belastung real. Alvarez off-form aber trotzdem Titel-Kandidat-Rotation.",
+        "**bet365 2:0-Insurance aktiv** (WM 2026): direkter Argentinien-Sieg-Tipp gilt gewonnen sobald ARG 2:0 fuehrt.",
+        "**Einwechslungs-Boost aktiv** (WM 2026 alle Torschuetzen-Maerkte): Messi-Auswechslung -> direkter Ersatz meist Nico Gonzalez oder Almada (nicht sicher gleiche Rolle). Alvarez-Auswechslung -> Lautaro (evtl. Sub-Startelf-Tausch).",
+        "Klima-Faktor: Kansas City 03:00 MESZ = 21:00 CDT Ortszeit - warm-mild ~25-27C, moderate LF, Nacht-Spiel angenehm. Arrowhead Stadium 76.416 Kapazitaet, kein Lokal-Vorteil-Zwerg fuer Suedamerika-Teams.",
+        "bet365-Quoten (Stand Sa Nachmittag - vor Anpfiff live pruefen): Argentinien Sieg 1.65-1.72, Draw 3.50, Schweiz 6.00, Ueber 2.5 2.20, Unter 2.5 1.67, Messi Anytime 2.00, Alvarez Anytime 2.50, La. Martinez Anytime 2.75, Embolo Anytime 5.00, Ndoye Anytime 6.50, Alvarez 2+ Tore 15.00, Messi 2+ Tore 6.50."
+      ],
+      "tipps": [
+        {
+          "id": "2026-07-11-arg-sui-t1",
+          "kategorie": "value",
+          "markt": "Argentinien Sieg 90min",
+          "wette": "Argentinien gewinnt regulaere Spielzeit",
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 11.0,
+          "edge_prozent": 6,
+          "begruendung": "**Klassen-Edge massiv**: Titelverteidiger + Titel-Anwaerter Top-3 gg Halbfinal-Historie-Underdog. Manzambi-Schluessel-Ausfall Schweiz schwaecht Kreativ-Angriff. H2H 7-0 fuer Argentinien (7 Duelle, 5S 2R, nie verloren). **HR07-10-1 (K.O.-Modus-Sieg-Tipp Klassen-Favorit VALUE liefert 4/5)**: Empirie konsolidiert. **2:0-INSURANCE aktiv** (bet365 WM 2026): sobald ARG 2:0 fuehrt, Tipp durch (Messi 8 Turnier-Tore setzt das realistisch). **Reality-Check**: Markt 'Sieg (1X2)' n=163, HR=58.6%, ROI=+3.8%. Pinnacle-fair ca. 1.60, bet365 1.69 -> Edge > 4%. **Risiko**: Argentinien-Belastung nach 2x n.V./Comeback-Spielen + Schweiz-Klassen-Konkurrent-Bunker (SUI-COL 0:0-Muster reproduzierbar) -> Verlaengerungs-Restrisiko real. Kein SAFE aus dem Grund. **Kasse Stufe 1**: 2% = 11 EUR.",
+          "quote": 1.69,
+          "faire_quote": 1.6,
+          "empfohlener_einsatz_prozent": 2.0
+        },
+        {
+          "id": "2026-07-11-arg-sui-t2",
+          "kategorie": "value",
+          "markt": "Unter 2.5 Tore",
+          "wette": "Endstand < 3 Tore insgesamt (90min)",
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 11.0,
+          "edge_prozent": 10,
+          "begruendung": "**Markt-Goldgrube Nr.1**: markt_goldgruben.json 'Unter 2.5 Tore' n=25, HR=68%, ROI=+24% - **bester ROI-Markt im System**. Aktiv-Such-Regel erfuellt. **Klassen-Konkurrent-K.O.-Muster reproduziert**: Schweiz identisches Profil zu Kolumbien-Duell (HR07-07-3 SUI-COL 0:0/Elfer, BTTS-Nein+Unter 2.5 beide getroffen). Schweiz-Defensive Kobel/Elvedi/Akanji tight + Xhaka/Freuler-Doppel-6 - Bunker-Setup gg Titelverteidiger identisch. **Argentinien-Belastung** nach 2x n.V./Comeback: Muskel-Restrisiko + eher konservativer Aufbau als offene Schlacht. **Buchmacher-Signal**: Under -150 = 1.67 favorisiert, 81% der Wetten-Volumen auf OVER trotzdem (Public-Bias!) -> Value-Edge auf Under. **HR07-10-2 (QF-Cluster gemischter revidiert HR07-09-1)**: FRA-MAR Unter traf, ESP-BEL Unter nicht - Situations-abhaengig. Hier deutlich Unter-tendiert wegen Bunker-Muster. Pinnacle-fair ca. 1.55, bet365 1.67 -> Edge > 7%.",
+          "quote": 1.67,
+          "faire_quote": 1.55,
+          "empfohlener_einsatz_prozent": 2.0
+        },
+        {
+          "id": "2026-07-11-arg-sui-t3",
+          "kategorie": "wackel",
+          "markt": "Lionel Messi trifft (Torschuetze Jederzeit)",
+          "wette": "Messi erzielt mind. 1 Tor",
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 5,
+          "begruendung": "**Form-Edge extremer Volume-Star**: Messi 8 Turnier-Tore = Golden-Boot-Fuehrung, 4-Minuten-Assist+Tor-Bilanz gg Aegypten. Zentrale Kreativ-9er-Rolle ohne Rotations-Risiko. **HR07-10-4 Turnier-Top-Scorer-Anytime-Fehl-Cluster in QF fortgesetzt** (Oyarzabal 0 gg Belgien) -> **DOWNGRADE auf WACKEL** statt VALUE - Muster-Warnung ernst nehmen bei zentralem Top-Scorer + Klassen-Konkurrent-Bunker-Gegner. Schweiz-Elvedi/Akanji werden Messi tight decken (Kolumbien-Muster). **Einwechslungs-Boost aktiv**: Nico Gonzalez/Almada oder Lautaro als Ersatz - falls Messi rotiert und Ersatz trifft, Tipp durch. **Reality-Check**: Torschuetzen-Markt n=93, HR=37.4%, ROI=+5.8%. Pinnacle-fair ca. 1.90, bet365 2.00 -> Edge > 5%. **Kasse Stufe 1 Wackel 0.5%** = 2.75 EUR. [Auto: Torschuetze-Vereins-Quelle transfermarkt/Inter-Miami-player-Seite fehlt in quellen[] - max wackel]",
+          "quote": 2.0,
+          "faire_quote": 1.9,
+          "empfohlener_einsatz_prozent": 0.5,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "id": "2026-07-11-arg-sui-t4",
+          "kategorie": "wackel",
+          "markt": "Lautaro Martinez trifft (Torschuetze Jederzeit)",
+          "wette": "Lautaro Martinez erzielt mind. 1 Tor",
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 4,
+          "begruendung": "**Startelf-Rueckkehr-Hedge nach HR07-07-1**: Lautaro war gg Kap Verde (R32) rotiert-raus (Alvarez traf statt Lautaro nichts), Startelf gg Aegypten (R16 3:2) und Kap Verde-Konsequenz kanalisiert nun Startelf-Muster. Predicted XI bestaetigt Lautaro-Startelf-Position vor Messi. **Zwei-Volume-Star-Hedge**: Bei Messi-Fehl-Turnier-Muster (HR07-10-4 QF fortgesetzt) - Lautaro als Ausweich-Sturm-Volume-Kandidat. **HR07-07-1 Warnung explizit**: 'Startelf-Rotation-Bestaetigungs-Pflicht' - **Auto-Warn** wenn Startelf-Datum-final-Update fehlt (kein vor-Ort-Aufstellung 03:00 MESZ deutscher Zeit). Wackel statt Value: Klassen-Konkurrent-Bunker + Rotation-Restrisiko + Alvarez-Konkurrenz-um-Startelf. Pinnacle-fair ca. 2.65, bet365 2.75 -> Edge >3%. **Kasse Stufe 1 Wackel 0.5%** = 2.75 EUR. [Auto: Torschuetze-Vereins-Quelle transfermarkt/Inter-player-Seite fehlt in quellen[] - max wackel]",
+          "quote": 2.75,
+          "faire_quote": 2.65,
+          "empfohlener_einsatz_prozent": 0.5,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "id": "2026-07-11-arg-sui-t5",
+          "kategorie": "risiko",
+          "markt": "Schweiz Doppelte Chance X2 (Remis oder Sieg)",
+          "wette": "Schweiz zieht mind. Remis nach 90 Min",
+          "einsatz_prozent_kasse": 0.25,
+          "einsatz_euro": 1.4,
+          "edge_prozent": 3,
+          "begruendung": "**Underdog-Bunker-Hedge**: Schweiz-Klassen-Konkurrent-K.O.-Setup identisch zu SUI-COL R16 (0:0 nach 120min + Elfer-Sieg). Xhaka/Freuler-Doppel-6 + Kobel/Elvedi/Akanji-Rueckhalt real, Manzambi-Ausfall aber Kreativ-Verlust im Angriff (weniger relevant fuer Remis). Argentinien-Belastung + Bunker-Muster + H2H nur 2 Remis in 7 Duellen (H2H eher Sieg-Argentinien-Bias). **RISIKO-Kategorie ehrlich** weil H2H-Historie deutlich fuer Argentinien: 5S 2R nie verloren. Aber SUI-COL-Empirie zeigt K.O.-Bunker funktioniert. **Reality-Check**: DC-Markt-Statistik (Goldgrube 1X 80%, X2 78.1%) nicht direkt uebertragbar auf QF-Klassen-Konkurrent-Duell, sondern Reference nur. Pinnacle-fair ca. 2.35, bet365 2.40 -> knapp Edge. **Kasse Stufe 1 Risiko 0.25%** = 1.40 EUR.",
+          "quote": 2.4,
+          "faire_quote": 2.35,
+          "empfohlener_einsatz_prozent": 0.25
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 3,
+        "gast_tore": 1,
+        "status": "beendet_nach_verlaengerung",
+        "kommentar": "Argentinien 3-1 Schweiz (a.e.t.). Endstand nach 90min: 1-1. ET: Alvarez 112', Lautaro 120+1'. Embolo rot in 72' (2. Gelbe fuer Schwalbe).",
+        "halbzeit_heim": 1,
+        "halbzeit_gast": 0,
+        "regulaer_heim": 1,
+        "regulaer_gast": 1
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-07-11-arg-sui-t1",
+          "status": "verloren",
+          "kommentar": "Argentinien Sieg 90min: 90min-Endstand 1:1 (Mac Allister 10', Ndoye 67'). Argentinien Sieg erst in Verlaengerung (Alvarez 112' + Lautaro 120+1'). 2:0-Insurance NICHT ausgeloest (Argentinien fuehrte nur 1:0 vor Ausgleich). Schweiz-Klassen-Konkurrent-Bunker-Muster (Kobel/Elvedi/Akanji + Xhaka/Freuler) hielt trotz frueher 1:0-Fuehrung. Embolo-Rot 72' kam zu spaet zum entscheiden der Regulaerzeit.",
+          "quote": 1.69,
+          "einsatz_euro": 11.0,
+          "netto_euro": -11.0,
+          "gewinn_faktor": -1.0,
+          "closing_quote": null,
+          "clv_prozent": null,
+          "spiel_id": "2026-07-11-arg-sui",
+          "markt": "Argentinien Sieg 90min"
+        },
+        {
+          "tipp_id": "2026-07-11-arg-sui-t2",
+          "status": "gewonnen",
+          "kommentar": "Unter 2.5 Tore (90min): Endstand nach 90min 1:1 = 2 Tore, unter 2.5. GOLDGRUBEN-BESTAETIGUNG: Unter 2.5 nun auf HR ~68%. HR07-07-3 Klassen-Konkurrent-Bunker-Muster (SUI-COL R16) exakt reproduziert - Schweiz Doppel-Defensive erneut erfolgreich in 90min.",
+          "quote": 1.67,
+          "einsatz_euro": 11.0,
+          "netto_euro": 7.37,
+          "gewinn_faktor": 0.67,
+          "closing_quote": null,
+          "clv_prozent": null,
+          "spiel_id": "2026-07-11-arg-sui",
+          "markt": "Unter 2.5 Tore"
+        },
+        {
+          "tipp_id": "2026-07-11-arg-sui-t3",
+          "status": "verloren",
+          "kommentar": "Messi 0 Tore - nur Corner-Assist zu Mac Allister 10'. Golden-Boot-Fuehrer (8 Turnier-Tore vorher) im Bunker-K.O.-Setup neutralisiert. HR07-10-4-Cluster massiv bestaetigt: Kane 0 + Haaland 0 + Messi 0 = ALLE 3 Golden-Boot-Anwaerter des Doppelslot ohne Tor. Einwechslungs-Boost nicht getriggert (Messi spielte durch).",
+          "quote": 2.0,
+          "einsatz_euro": 2.75,
+          "netto_euro": -2.75,
+          "gewinn_faktor": -1.0,
+          "closing_quote": null,
+          "clv_prozent": null,
+          "spiel_id": "2026-07-11-arg-sui",
+          "markt": "Lionel Messi trifft (Torschuetze Jederzeit)"
+        },
+        {
+          "tipp_id": "2026-07-11-arg-sui-t4",
+          "status": "verloren",
+          "kommentar": "Lautaro Martinez traf 120+1' - AUSSCHLIESSLICH in Verlaengerung. bet365 Anytime-Goalscorer-Markt settelt auf 90min+Nachspielzeit, NICHT auf Verlaengerung. Tor faellt komplett aus dem Markt heraus. HR07-07-1 Startelf-Rueckkehr-Bestaetigung war korrekt (Lautaro startete), aber 90min-Fehl-Cluster fortgesetzt.",
+          "quote": 2.75,
+          "einsatz_euro": 2.75,
+          "netto_euro": -2.75,
+          "gewinn_faktor": -1.0,
+          "closing_quote": null,
+          "clv_prozent": null,
+          "spiel_id": "2026-07-11-arg-sui",
+          "markt": "Lautaro Martinez trifft (Torschuetze Jederzeit)"
+        },
+        {
+          "tipp_id": "2026-07-11-arg-sui-t5",
+          "status": "gewonnen",
+          "kommentar": "Schweiz DC X2 (Remis oder Sieg) in 90min: 90min-Endstand 1:1 = Remis -> Bedingung erfuellt. HR07-07-3 Klassen-Konkurrent-Bunker-Empirie erneut aufgegangen (SUI-COL 0:0 nach 90min, SUI-ARG 1:1 nach 90min). Underdog-Bunker-Hedge klar aufgegangen.",
+          "quote": 2.4,
+          "einsatz_euro": 1.4,
+          "netto_euro": 1.96,
+          "gewinn_faktor": 1.4,
+          "closing_quote": null,
+          "clv_prozent": null,
+          "spiel_id": "2026-07-11-arg-sui",
+          "markt": "Schweiz Doppelte Chance X2 (Remis oder Sieg)"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "3:1 (a.e.t. - 90min: 1:1)",
+        "tore": [
+          {
+            "min": 10,
+            "team": "heim",
+            "spieler": "Alexis Mac Allister",
+            "stand_danach": "1:0",
+            "kommentar": "Nach Corner-Assist Messi."
+          },
+          {
+            "min": 67,
+            "team": "gast",
+            "spieler": "Dan Ndoye",
+            "stand_danach": "1:1",
+            "kommentar": "Aus spitzem Winkel."
+          },
+          {
+            "min": 112,
+            "team": "heim",
+            "spieler": "Julian Alvarez",
+            "stand_danach": "2:1",
+            "extra_time": true,
+            "kommentar": "Curler in obere Ecke, Long-Range."
+          },
+          {
+            "min": "120+1",
+            "team": "heim",
+            "spieler": "Lautaro Martinez",
+            "stand_danach": "3:1",
+            "extra_time": true,
+            "kommentar": "Sekunden vor Schlusspfiff n.V."
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Argentinien fuehrte nie 2:0, Schweiz nie 2:0. Kein Drehungs-Muster im 2-Tore-Sinn. 90min-Remis trotz Argentinien-Klassen-Edge = Klassen-Konkurrent-Bunker-Erfolg im 90min-Fenster."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Argentinien/Unentschieden (HZ 1:0 - 90min 1:1)",
+          "kein_team_zu_null": true,
+          "notiz_90min": "Alle 90min-Maerkte auf Basis 1:1 gesettelt. 2 Extra-Time-Tore fallen aus 90min-Maerkten (Ueber 2.5, DC, 1X2, Anytime-Torschuetzen).",
+          "rote_karte": "Embolo (Schweiz) 72' 2. Gelbe fuer Schwalbe nach VAR."
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "**Klassen-Konkurrent-Bunker-Doppel-Erfolg im 90min**: Beide QF-Klassen-Favoriten (England, Argentinien) mussten in Verlaengerung. SAFE-Kombi 'Doppel-Sieg-Klassen-Favorit' bei 3.16x TOT.",
+          "**HR07-10-4 MASSIV konsolidiert**: Kane + Haaland + Messi alle 3 Golden-Boot-Anwaerter mit 0 Toren. Nur Zweit-Zentrum-Bellingham hat Muster gebrochen. Bestaetigt: primaerer Top-Scorer in QF-Klassen-Konkurrent-Bunker = strukturell Downgrade-Kandidat, Zweit-Zentrum-Kreative als Alternative aktiver suchen.",
+          "**Unter 2.5 Goldgruben-Streak fortgesetzt**: SUI-COL R16 0:0, SUI-ARG QF 1:1 - Schweiz-Bunker-Muster im K.O. absolut reliable. Fuer HF-Route hoch relevant wenn Underdog-Bunker gg Klassen-Favorit.",
+          "**Rote-Karte-Signal fuer Extra-Time**: Embolo 72' fehlte in ET - dann Alvarez 112' + Lautaro 120+1'. Numerischer Vorteil hat sich zeitverzoegert in Extra-Time umgemuenzt, nicht in Regulaerzeit."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "einzel-2026-07-11-01",
+      "spiel_id": "2026-07-11-arg-sui",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "wette": "Endstand < 3 Tore insgesamt (90min)",
+      "quote": 1.67,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 11.0,
+      "edge_prozent": 10,
+      "kurz_begruendung": "Markt-Goldgrube Nr.1 (HR 68% / ROI +24%). Schweiz-Klassen-Konkurrent-Bunker-Setup identisch zu SUI-COL R16 (HR07-07-3). Argentinien-Belastung nach 2x n.V./Comeback-Spielen. Public-Bias auf OVER (81% Wetten-Volumen) -> Value auf UNDER.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 1,
+      "status": "gewonnen",
+      "netto_euro": 7.37,
+      "tipp_id": "2026-07-11-arg-sui-t2",
+      "gewinn_faktor": 0.67
+    },
+    {
+      "id": "einzel-2026-07-11-02",
+      "spiel_id": "2026-07-11-nor-eng",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "wette": "Endstand >= 3 Tore insgesamt (90min)",
+      "quote": 1.7,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 11.0,
+      "edge_prozent": 9,
+      "kurz_begruendung": "Markt-Goldgrube Nr.2 (HR 57.9% / ROI +20.1%). Alle 5 NOR-Turnier-Spiele + alle 5 ENG-Turnier-Spiele Ueber 2.5. Haaland+Kane+Bellingham 17 Turnier-Tore zusammen. R16-Ueber-Cluster 6/6 (HR07-07-2) - hier reproduzierbar wegen bilateraler Offensive.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 2,
+      "status": "verloren",
+      "netto_euro": -11.0,
+      "tipp_id": "2026-07-11-nor-eng-t2",
+      "gewinn_faktor": -1.0
+    },
+    {
+      "id": "einzel-2026-07-11-03",
+      "spiel_id": "2026-07-11-nor-eng",
+      "kategorie": "value",
+      "markt": "England Sieg 90min",
+      "wette": "England gewinnt regulaere Spielzeit",
+      "quote": 1.87,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 11.0,
+      "edge_prozent": 7,
+      "kurz_begruendung": "Klassen-Edge Top-3-Anwaerter vs Underdog-Sensation. HR07-10-1 K.O.-Sieg-Empirie 4/5. 2:0-Insurance aktiv (Kane 6 + Bellingham 4 Turnier-Tore setzen realistisch). Guehi-Zweifel + Quansah-Sperre = IV-Umbau aber Konsa-Stones stabil.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 3,
+      "status": "verloren",
+      "netto_euro": -11.0,
+      "tipp_id": "2026-07-11-nor-eng-t1",
+      "gewinn_faktor": -1.0
+    },
+    {
+      "id": "einzel-2026-07-11-04",
+      "spiel_id": "2026-07-11-arg-sui",
+      "kategorie": "value",
+      "markt": "Argentinien Sieg 90min",
+      "wette": "Argentinien gewinnt regulaere Spielzeit",
+      "quote": 1.69,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 11.0,
+      "edge_prozent": 6,
+      "kurz_begruendung": "Klassen-Edge massiv (Titelverteidiger vs Underdog). Manzambi-Schweiz-Ausfall + H2H 7-0 nie verloren. HR07-10-1 K.O.-Sieg-Empirie. 2:0-Insurance aktiv (Messi Golden-Boot-Fuehrung 8 Tore setzt realistisch). Verlaengerungs-Restrisiko wegen Argentinien-Belastung.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 4,
+      "status": "verloren",
+      "netto_euro": -11.0,
+      "tipp_id": "2026-07-11-arg-sui-t1",
+      "gewinn_faktor": -1.0
+    },
+    {
+      "id": "einzel-2026-07-11-05",
+      "spiel_id": "2026-07-11-arg-sui",
+      "kategorie": "wackel",
+      "markt": "Lionel Messi trifft (Torschuetze Jederzeit)",
+      "wette": "Messi erzielt mind. 1 Tor",
+      "quote": 2.0,
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 2.75,
+      "edge_prozent": 5,
+      "kurz_begruendung": "Golden-Boot-Fuehrung 8 Turnier-Tore. HR07-10-4 Turnier-Top-Scorer-Fehl-Cluster QF fortgesetzt -> Downgrade auf WACKEL. Einwechslungs-Boost via Nico Gonzalez/Almada aktiv aber weniger sicher (Rollen-Wechsel).",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 5,
+      "status": "verloren",
+      "netto_euro": -2.75,
+      "tipp_id": "2026-07-11-arg-sui-t3",
+      "gewinn_faktor": -1.0
+    },
+    {
+      "id": "einzel-2026-07-11-06",
+      "spiel_id": "2026-07-11-nor-eng",
+      "kategorie": "wackel",
+      "markt": "Harry Kane trifft (Torschuetze Jederzeit)",
+      "wette": "Kane erzielt mind. 1 Tor",
+      "quote": 1.95,
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 2.75,
+      "edge_prozent": 5,
+      "kurz_begruendung": "6 Turnier-Tore = 3. England-Spieler mit 6+ Toren in Major-Turnier. Zentraler 9er ohne Rotation. HR07-10-4 -> Downgrade auf WACKEL trotz Form-Edge. Einwechslungs-Boost via Watkins (Villa 22 Tore) aktiv.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 6,
+      "status": "verloren",
+      "netto_euro": -2.75,
+      "tipp_id": "2026-07-11-nor-eng-t3",
+      "gewinn_faktor": -1.0
+    },
+    {
+      "id": "einzel-2026-07-11-07",
+      "spiel_id": "2026-07-11-nor-eng",
+      "kategorie": "wackel",
+      "markt": "Erling Haaland trifft (Torschuetze Jederzeit)",
+      "wette": "Haaland erzielt mind. 1 Tor",
+      "quote": 2.2,
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 2.75,
+      "edge_prozent": 8,
+      "kurz_begruendung": "Extremer Volume-Star (7 Turnier-Tore, 1.75/G!, Doppelpack vs Brasilien). Klassen-Konkurrent-Killer-Faehig. HR07-10-4 Turnier-Top-Scorer Fehl-Cluster -> WACKEL. Einwechslungs-Boost neutralisiert (Sorloth Startelf-Support).",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 7,
+      "status": "verloren",
+      "netto_euro": -2.75,
+      "tipp_id": "2026-07-11-nor-eng-t4",
+      "gewinn_faktor": -1.0
+    },
+    {
+      "id": "einzel-2026-07-11-08",
+      "spiel_id": "2026-07-11-nor-eng",
+      "kategorie": "wackel",
+      "markt": "Jude Bellingham trifft (Torschuetze Jederzeit)",
+      "wette": "Bellingham erzielt mind. 1 Tor",
+      "quote": 3.5,
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 2.75,
+      "edge_prozent": 6,
+      "kurz_begruendung": "Alternativ-Torschuetze Late-Star. Turnier 4 Tore in 5 Spielen + Doppelpack in R16 gg Mexiko. Norwegen-Mittelfeld Berg/Berge/Odegaard nicht defensiv-tight -> Halbraum-Chancen. Wackel-Range-Obergrenze 3.50.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 8,
+      "status": "gewonnen",
+      "netto_euro": 6.88,
+      "tipp_id": "2026-07-11-nor-eng-t5",
+      "gewinn_faktor": 2.5
+    },
+    {
+      "id": "einzel-2026-07-11-09",
+      "spiel_id": "2026-07-11-arg-sui",
+      "kategorie": "wackel",
+      "markt": "Lautaro Martinez trifft (Torschuetze Jederzeit)",
+      "wette": "Lautaro Martinez erzielt mind. 1 Tor",
+      "quote": 2.75,
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 2.75,
+      "edge_prozent": 4,
+      "kurz_begruendung": "Startelf-Rueckkehr-Hedge nach HR07-07-1 (Kap Verde raus, Aegypten drin). Predicted XI bestaetigt Startelf. Zwei-Volume-Star-Hedge falls Messi HR07-10-4-Muster. WACKEL wegen Rotation-Restrisiko.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 9,
+      "status": "verloren",
+      "netto_euro": -2.75,
+      "tipp_id": "2026-07-11-arg-sui-t4",
+      "gewinn_faktor": -1.0
+    },
+    {
+      "id": "einzel-2026-07-11-10",
+      "spiel_id": "2026-07-11-arg-sui",
+      "kategorie": "risiko",
+      "markt": "Schweiz Doppelte Chance X2",
+      "wette": "Schweiz zieht mind. Remis nach 90 Min",
+      "quote": 2.4,
+      "einsatz_prozent_kasse": 0.25,
+      "einsatz_euro": 1.4,
+      "edge_prozent": 3,
+      "kurz_begruendung": "Klassen-Konkurrent-K.O.-Bunker-Hedge (SUI-COL R16 0:0 reproduziert). Xhaka/Freuler-Doppel-6 + Kobel/Elvedi/Akanji-Rueckhalt. H2H 5S 2R fuer Argentinien - RISIKO-Kategorie ehrlich.",
+      "empfohlener_einsatz_prozent": 0.25,
+      "rang": 10,
+      "status": "gewonnen",
+      "netto_euro": 1.96,
+      "tipp_id": "2026-07-11-arg-sui-t5",
+      "gewinn_faktor": 1.4
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-2026-07-11-safe",
+      "profil": "safe",
+      "titel": "SAFE-Doppel Klassen-Sieg-Duo (QF-Musterloesung)",
+      "beine": [
+        {
+          "spiel_id": "2026-07-11-nor-eng",
+          "markt": "England Sieg 90min",
+          "wette": "England gewinnt regulaere Spielzeit",
+          "quote": 1.87
+        },
+        {
+          "spiel_id": "2026-07-11-arg-sui",
+          "markt": "Argentinien Sieg 90min",
+          "wette": "Argentinien gewinnt regulaere Spielzeit",
+          "quote": 1.69
+        }
+      ],
+      "gesamtquote": 3.16,
+      "rechnung": "1.87 x 1.69 = 3.16",
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 11.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "**QF-Musterloesung repliziert**: HR07-10-1 K.O.-Modus-Sieg-Tipp Klassen-Favorit-Empirie 4/5 in R32/R16/QF. Beide Favoriten mit klarer Klassen-Edge + Empirie-Rueckhalt: England 5/5 Turnier-Siege bislang mit Kane/Bellingham-Duo, Argentinien Titelverteidiger + Messi Golden-Boot. **LAYER-1 hart erfuellt** (max 1 Bein/Spiel), **LAYER-2** (Sieg-Outcome max 1 Kombi/Spiel - hier je 1x sauber getrennt zwischen Spielen). **2:0-Insurance doppelt aktiv** (bet365 WM 2026): beide Sieg-Beine gelten durch sobald 2:0-Fuehrung erreicht. **Kasse Stufe 1 SAFE-Kombi 2%** = 11 EUR. **Risiko**: Klassen-Konkurrent-Bunker-Muster (SUI-COL / MEX-ENG Comeback) kann ARG oder ENG in n.V. zwingen -> Sieg-90min-Grenze wackelt bei einem der beiden. HR07-09-4-Anti-Korrelation-Warnung: hier nicht mit Ueber-Tor-Bein kombiniert weil das mit Sieg-Bein anti-korreliert. Ehrlicher 3.16x Doppel-Sieg = QF-Standard-Move.",
+      "status": "verloren",
+      "ergebnis_kommentar": "BEIDE Beine verloren (beide 90min = 1:1, Verlaengerung entscheidet). SAFE-Kombi bei 3.16x kollabiert - MASSIVE Lesson fuer HR07-10-1 Revision.",
+      "netto_euro": -11.0
+    },
+    {
+      "id": "kombi-2026-07-11-balance",
+      "profil": "balance",
+      "titel": "BALANCE-Doppel Volume-Star-Torschuetzen",
+      "beine": [
+        {
+          "spiel_id": "2026-07-11-nor-eng",
+          "markt": "Jude Bellingham trifft (Torschuetze Jederzeit)",
+          "wette": "Bellingham erzielt mind. 1 Tor",
+          "quote": 3.5
+        },
+        {
+          "spiel_id": "2026-07-11-arg-sui",
+          "markt": "Lionel Messi trifft (Torschuetze Jederzeit)",
+          "wette": "Messi erzielt mind. 1 Tor",
+          "quote": 2.0
+        }
+      ],
+      "gesamtquote": 7.0,
+      "rechnung": "3.50 x 2.00 = 7.00",
+      "einsatz_prozent_kasse": 0.8,
+      "einsatz_euro": 4.4,
+      "empfohlener_einsatz_prozent": 0.8,
+      "begruendung": "**Doppel-Star-Torschuetzen-Kombi Balance-Range 7.00**: Messi Golden-Boot-Fuehrung 8 Turnier-Tore + Bellingham 4 Turnier-Tore inkl. R16-Doppelpack. Beide zentrale Kreativspieler mit Halbraum-Kompletenz. **LAYER-1 sauber** (je 1 Bein/Spiel). **LAYER-2 nicht belegt** (keine Sieg-Outcomes). **LAYER-3 (Bein/Spiel/alle Kombis)**: Messi + Bellingham NUR in Balance vertreten - keine Doppelbelegung im Torschuetzen-Markt-Typ. **HR07-10-4 Warnung akzeptiert**: Turnier-Top-Scorer-Fehl-Cluster QF fortgesetzt (Oyarzabal 0 gg Belgien) -> Kombi eher WACKEL-Zone als klare Balance. Deshalb Balance-Kombi-Prozent-Cap (0.8% = 4.40EUR) statt Standard-Balance-Range. **Reality-Check**: Torschuetzen-Markt n=93 HR 37.4% ROI +5.8% (positive Basis aber Klassen-Konkurrent-K.O. Fehl-Risiko real). Faire Kombi-Quote ca. 6.10 (1.90 x 3.20) -> Quote 7.00 zeigt ca. 15% Kombi-Edge, aber Doppel-Fehl-Korrelations-Risiko (beide zentrale Top-Scorer im Bunker-K.O.) frisst grossen Teil davon. Ehrliche Balance-Kombi mit realem Fehl-Risiko.",
+      "status": "verloren",
+      "ergebnis_kommentar": "Bellingham traf (45+2 + 93) aber Messi 0 Tore -> Kombi verloren. HR07-10-4 Zweit-Zentrum-vs-Golden-Boot-Split reproduziert.",
+      "netto_euro": -4.4
+    },
+    {
+      "id": "kombi-2026-07-11-risiko",
+      "profil": "risiko",
+      "titel": "RISIKO-Doppel Haaland 2+ Tore + Alvarez Torschuetze",
+      "beine": [
+        {
+          "spiel_id": "2026-07-11-nor-eng",
+          "markt": "Erling Haaland 2+ Tore",
+          "wette": "Haaland erzielt mind. 2 Tore",
+          "quote": 4.0
+        },
+        {
+          "spiel_id": "2026-07-11-arg-sui",
+          "markt": "Julian Alvarez trifft (Torschuetze Jederzeit)",
+          "wette": "Alvarez erzielt mind. 1 Tor",
+          "quote": 2.5
+        }
+      ],
+      "gesamtquote": 10.0,
+      "rechnung": "4.00 x 2.50 = 10.00",
+      "einsatz_prozent_kasse": 0.25,
+      "einsatz_euro": 1.4,
+      "empfohlener_einsatz_prozent": 0.25,
+      "begruendung": "**Doppelpack-Haaland + Alvarez-Rebound-Kombi**: Haaland 7 Turnier-Tore in 4 Spielen (Doppelpack-Muster ausgeliefert gg Brasilien) - Volume-Star-Muster reproduzierbar gg England-IV (Stones-Konsa ohne Guehi wenn Anschlag-fit-Frage). Alvarez off-form aber Titel-Kandidat-Rotation kann Formsteigerung antriggern (Volume-Sub 3 Comeback-Verwandlungen 78./85./89. Aegypten-Spiel). **LAYER-1 sauber**. **LAYER-2 nicht belegt**. **LAYER-3 Markt-entkoppelt**: Alvarez in Risiko (Torschuetze) - noch nicht in Moonshot (dort Alvarez 2+ Tore = anderer Markt). Haaland in Risiko (2+ Tore) - Moonshot nutzt Bellingham-2+ (anderes Spiel/Spieler). RISIKO-Kategorie ehrlich weil Doppelpack-Bein anspruchsvoll + Alvarez Off-Form-Realitaet. **Kasse Stufe 1 Risiko 0.25%** = 1.40 EUR. Ehrliche 10.00x-Quote, kein Hype-Talk.",
+      "status": "verloren",
+      "ergebnis_kommentar": "Haaland 0 Tore und Alvarez traf nur in Verlaengerung (112) - Anytime-Markt settelt 90min. Beide Beine tot.",
+      "netto_euro": -1.4
+    },
+    {
+      "id": "kombi-2026-07-11-moonshot",
+      "profil": "moonshot",
+      "titel": "MOONSHOT-Doppel Bellingham + Alvarez je 2+ Tore",
+      "beine": [
+        {
+          "spiel_id": "2026-07-11-nor-eng",
+          "markt": "Jude Bellingham 2+ Tore",
+          "wette": "Bellingham erzielt mind. 2 Tore",
+          "quote": 10.0
+        },
+        {
+          "spiel_id": "2026-07-11-arg-sui",
+          "markt": "Julian Alvarez 2+ Tore",
+          "wette": "Alvarez erzielt mind. 2 Tore",
+          "quote": 15.0
+        }
+      ],
+      "gesamtquote": 150.0,
+      "rechnung": "10.00 x 15.00 = 150.00",
+      "einsatz_prozent_kasse": 0.1,
+      "einsatz_euro": 0.55,
+      "empfohlener_einsatz_prozent": 0.1,
+      "begruendung": "**Lotterie-Spass-Doppelpack-Duo 150x**: Bellingham hat R16-Doppelpack in Mexico City geliefert (Doppelpack-Muster juengst reproduziert!) - Wiederholung realistisch bei Norwegen-Mittelfeld-Schwaeche. Alvarez off-Form aber Comeback-Verwandlungs-Serie gg Aegypten (3 Tore in 11 Minuten!) zeigt Rebound-Faehigkeit. **LAYER-1 sauber**. **LAYER-2 nicht belegt**. **LAYER-3 Markt-entkoppelt**: Bellingham 2+ Tore Markt-getrennt zu Bellingham-Torschuetze (Balance), Alvarez 2+ Tore Markt-getrennt zu Alvarez-Torschuetze (Risiko). MOONSHOT-Range 100x+ erfuellt. **Ehrliche Warnung**: Lotterie-Spass-Charakter, Kasse-Stufe-1 Moonshot 0.1% = 0.55 EUR (unter 1EUR-Ehrlichkeits-Schwelle - kann alternativ 1-2EUR Spass-Einsatz gesetzt werden laut CLAUDE.md-Regel). Erwartungswert-negativ auf lange Sicht - nur setzen wenn Spass-Motivation da ist. Keine Erwartungshaltung fuer 100x-Hit.",
+      "status": "verloren",
+      "ergebnis_kommentar": "Bellingham nur 1 Tor in 90min (Doppelpack teils in ET), Alvarez 0 Tore in 90min. Beide 2+ Tore Beine verloren.",
+      "netto_euro": -0.55
+    }
+  ],
+  "lessons_angewandt": [
+    {
+      "id": "HR07-10-1",
+      "lesson_kurz": "K.O.-Modus-Sieg-Tipp Klassen-Favorit VALUE liefert 4/5 in R32/R16/QF - konsolidiert.",
+      "angewandt_auf": "2026-07-11-nor-eng-t1 (England Sieg 1.87) + 2026-07-11-arg-sui-t1 (Argentinien Sieg 1.69) + SAFE-Kombi. Beide Sieg-Tipps als VALUE gesetzt (nicht SAFE) wegen K.O.-Restrisiko + Klassen-Konkurrent-Bunker-Threat."
+    },
+    {
+      "id": "HR07-10-2",
+      "lesson_kurz": "QF-Cluster gemischter als R16 - Unter 2.5 in QF nicht konsistent (FRA-MAR Unter traf, ESP-BEL nicht) - situations-abhaengig.",
+      "angewandt_auf": "2026-07-11-arg-sui-t2 (Unter 2.5 im ARG-SUI) als VALUE weil Klassen-Konkurrent-Bunker-Muster reproduzierbar; 2026-07-11-nor-eng-t2 (Ueber 2.5 im NOR-ENG) als VALUE weil bilateral-offensiv-Muster reproduzierbar. Beide markt-entgegengesetzt aber spiel-spezifisch begruendet."
+    },
+    {
+      "id": "HR07-10-4",
+      "lesson_kurz": "Turnier-Top-Scorer-Anytime-Fehl-Cluster QF fortgesetzt (Oyarzabal 0 gg Belgien) - Downgrade auf WACKEL statt VALUE nun Standard.",
+      "angewandt_auf": "2026-07-11-nor-eng-t3 (Kane WACKEL @1.95) + t4 (Haaland WACKEL @2.20) + 2026-07-11-arg-sui-t3 (Messi WACKEL @2.00). Alle drei Golden-Boot-Anwaerter systematisch downgegradet trotz massiver Form-Edges. Balance-Kombi nutzt Bellingham (Zweit-Zentrum) + Messi (Volumen-Star mit Fehl-Warnung) - Kombi-Prozent-Cap 0.8% eingehalten wegen Doppel-Fehl-Korrelations-Risiko."
+    },
+    {
+      "id": "HR07-09-3",
+      "lesson_kurz": "Kombi-Ersatz bei 1-Spiel-WM-Tagen (LAYER-1-Umgehung) - Empirie 1/1.",
+      "angewandt_auf": "2-Spiel-Tag heute -> LAYER-1-Umgehung NICHT noetig. Klassische 2-Bein-Kombis moeglich, alle 4 Profile (Safe/Balance/Risiko/Moonshot) mit je 2 Beinen aus 2 verschiedenen Spielen. LAYER-1 hart erfuellt."
+    },
+    {
+      "id": "HR07-09-4",
+      "lesson_kurz": "K.O.-Modus-Konservatismus: Klassen-Favorit-Standardsieg (2:0 Sieg-Kurzquote) reliable in QF. Ueber-Tore-Gegen-Kombi anti-korreliert.",
+      "angewandt_auf": "SAFE-Kombi = beide Sieg-Beine (kein Ueber-Tore-Bein daneben). ARG-SUI Unter 2.5 explizit NICHT in Kombis (waere Anti-Korrelation zu ARG-Sieg-Bein). NOR-ENG Ueber 2.5 explizit NICHT mit ENG-Sieg-Bein in Kombi (Anti-Korrelation)."
+    },
+    {
+      "id": "HR07-07-3",
+      "lesson_kurz": "Klassen-Konkurrent-K.O.-R16 0:0-Doppel-Defensive-Pattern SUI-COL 0:0/Elfer - BTTS-Nein + Unter 2.5 beide gewonnen.",
+      "angewandt_auf": "2026-07-11-arg-sui-t2 (Unter 2.5) direkte Empirie-Uebertragung: Schweiz identisches Bunker-Profil zu Kolumbien-R16. 2026-07-11-arg-sui-t5 (Schweiz DC X2 RISIKO) als Underdog-Bunker-Hedge."
+    },
+    {
+      "id": "HR07-07-1",
+      "lesson_kurz": "Startelf-Rotation-Bestaetigungs-Pflicht bei Zweit-Volume-Star-Torschuetzen-Tipps (Lautaro-Fall Kap Verde).",
+      "angewandt_auf": "2026-07-11-arg-sui-t4 (Lautaro Anytime WACKEL @2.75): Predicted XI bestaetigt Lautaro-Startelf-Position, aber Auto-Warn-Flag weil finale Aufstellung 03:00 MESZ deutscher Zeit nicht vor Kick-Off pruefbar."
+    },
+    {
+      "id": "HR07-07-2",
+      "lesson_kurz": "R16 Ueber-2.5-Cluster 6/6 in Folge - QF-Auftakt gemischter (siehe HR07-10-2 Revision).",
+      "angewandt_auf": "2026-07-11-nor-eng-t2 (Ueber 2.5 im NOR-ENG @1.70): Empirie-Basis + spielespezifische Ueber-Wahrscheinlichkeit dank bilateraler Offensive."
+    },
+    {
+      "id": "HR26",
+      "lesson_kurz": "K.O.-Phase Tor-Total tendiert nach unten - Ueber 2.5 in K.O. NIE SAFE.",
+      "angewandt_auf": "2026-07-11-nor-eng-t2 (Ueber 2.5 @1.70) als VALUE gesetzt (NICHT SAFE), obwohl Quote knapp unter SAFE-Range wegen R16-Ueber-Cluster + bilateral-offensiv. HR26-Regel respektiert."
+    },
+    {
+      "id": "MARKT-MIX-04-05-Regel-2",
+      "lesson_kurz": "HEIM-FAVORIT (Sieg-Quote < 1.80): MIN 1 Torschuetzen-Tipp auf Top-Stuermer PFLICHT.",
+      "angewandt_auf": "2026-07-11-arg-sui (Argentinien Sieg 1.69 = Heim-Favorit-Kategorie): Messi + Lautaro Anytime-Tipps abgedeckt. 2026-07-11-nor-eng England ist AUSWAERTS-Favorit (Norwegen ist Heim aber Underdog) - Regel technisch nicht direkt anwendbar; trotzdem Kane + Haaland + Bellingham als Torschuetzen-Tipps drin (Volume-Star-Pflicht)."
+    },
+    {
+      "id": "Markt-Goldgrube-Unter-2.5",
+      "lesson_kurz": "Markt-Goldgrube 'Unter 2.5 Tore': HR 68% / ROI +24% - bester ROI-Markt im System. Aktiv suchen.",
+      "angewandt_auf": "2026-07-11-arg-sui-t2 (Unter 2.5 @1.67): explizit als Goldgrube-Aktiv-Suche gesetzt, mit Klassen-Konkurrent-Bunker-Empirie-Rueckhalt (SUI-COL R16)."
+    },
+    {
+      "id": "Markt-Goldgrube-Ueber-2.5",
+      "lesson_kurz": "Markt-Goldgrube 'Ueber 2.5 Tore': HR 57.9% / ROI +20.1%. Aktiv suchen bei bilateraler Offensive.",
+      "angewandt_auf": "2026-07-11-nor-eng-t2 (Ueber 2.5 @1.70): Aktiv-Such-Regel erfuellt, Haaland+Kane+Bellingham als Empirie-Rueckhalt (17 Turnier-Tore zusammen)."
+    },
+    {
+      "id": "bet365-2:0-Insurance-WM-2026",
+      "lesson_kurz": "bet365 DE Aktions-Regel WM 2026: Sieg-Tipp gilt gewonnen sobald Team 2:0 fuehrt.",
+      "angewandt_auf": "2026-07-11-nor-eng-t1 (England Sieg) + 2026-07-11-arg-sui-t1 (Argentinien Sieg) - Insurance-Sicherheit in beiden Begruendungen erwaehnt. SAFE-Kombi profitiert von beidseitiger Insurance."
+    },
+    {
+      "id": "HR07-10-3",
+      "lesson_kurz": "Late-Sub-Torschuetzen-Tipp auf bekannte Super-Subs als eigene Kategorie einfuehren (Merino-Muster).",
+      "angewandt_auf": "Keine Sub-Torschuetzen-Tipps im heutigen Set - keine bekannten aktiven Super-Sub-Muster in beiden Kadern (Norwegen: Sorloth Startelf; England: Watkins Backup ohne Late-Sub-Turnier-Historie; Argentinien: Nico Gonzalez/Almada nicht wiederkehrend). Lesson zur Kenntnis genommen aber nicht anwendbar."
+    }
+  ],
+  "footer": "18+ / bet365 DE / Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "_verifikations_report": {
+    "modus": "master-inline-verify (Fallback ohne separaten Subagent, Watchdog-Fallback-Lauf)",
+    "checks": [
+      {
+        "check": "gesamtquote-Nachrechnung SAFE-Kombi",
+        "status": "OK",
+        "detail": "1.87 * 1.69 = 3.1603 gerundet 3.16"
+      },
+      {
+        "check": "gesamtquote-Nachrechnung BALANCE-Kombi",
+        "status": "OK",
+        "detail": "3.50 * 2.00 = 7.00"
+      },
+      {
+        "check": "gesamtquote-Nachrechnung RISIKO-Kombi",
+        "status": "OK",
+        "detail": "4.00 * 2.50 = 10.00"
+      },
+      {
+        "check": "gesamtquote-Nachrechnung MOONSHOT-Kombi",
+        "status": "OK",
+        "detail": "10.00 * 15.00 = 150.00"
+      },
+      {
+        "check": "LAYER-1 (max 1 Bein/Spiel/Kombi)",
+        "status": "OK",
+        "detail": "Alle 4 Kombis: je 1 Bein NOR-ENG + 1 Bein ARG-SUI"
+      },
+      {
+        "check": "LAYER-2 (Sieg-Outcome max 1 Kombi/Spiel)",
+        "status": "OK",
+        "detail": "SAFE-Kombi nutzt beide Sieg-Outcomes. Balance/Risiko/Moonshot enthalten keine Sieg-Outcomes."
+      },
+      {
+        "check": "LAYER-3 (max 1 Bein/Spiel/alle Kombis wo moeglich, sonst markt-entkoppeln)",
+        "status": "OK",
+        "detail": "Bellingham in Balance (Torschuetze) + Moonshot (2+ Tore) - Markt entkoppelt. Alvarez in Risiko (Torschuetze) + Moonshot (2+ Tore) - Markt entkoppelt. Haaland/Kane/Messi je 1x in Kombis vertreten."
+      },
+      {
+        "check": "max 5 Tipps/Spiel",
+        "status": "OK",
+        "detail": "NOR-ENG: 5 Tipps. ARG-SUI: 5 Tipps."
+      },
+      {
+        "check": "Halluzinations-Check Squad-Daten",
+        "status": "OK",
+        "detail": "Alle Spielernamen aus 6+ Quellen (FIFA/ESPN/AlJazeera/Rotowire/CBS/EnglandFootball/SportMole) verifiziert. Manzambi-OUT bestaetigt via Yahoo/CBS/AlJazeera."
+      },
+      {
+        "check": "Halluzinations-Check Quoten",
+        "status": "WARN",
+        "detail": "Quoten basieren auf DraftKings/FanDuel/CBS/SI Preview-Sammlung Freitag/Samstag - bet365-DE-spezifische Quoten nicht direkt gefetcht. Live vor Anpfiff pruefen empfohlen (in news[] pro Spiel bereits vermerkt)."
+      },
+      {
+        "check": "Torschuetze-Vereins-Quelle-Vollstaendigkeit",
+        "status": "WARN",
+        "detail": "Alle 6 Torschuetzen-Tipps haben _torschuetze_quelle_warn=true weil transfermarkt/Vereins-Player-Seiten nicht direkt in quellen[] eingebunden. Kategorien bleiben max WACKEL - regelkonform."
+      },
+      {
+        "check": "Selbstwidersprueche in Begruendungen",
+        "status": "OK",
+        "detail": "Kategorien und Begruendungen konsistent. Kein Fall wie 'Edge kleiner als suggeriert' + SAFE."
+      },
+      {
+        "check": "Anti-Korrelations-Check Kombis",
+        "status": "OK",
+        "detail": "SAFE-Kombi (2x Sieg) nicht mit Ueber-Tor-Bein kombiniert. ARG-SUI Unter 2.5 explizit ausserhalb der ARG-Sieg-Kombi gehalten (HR07-09-4). NOR-ENG Ueber 2.5 nicht in Kombi mit England-Sieg."
+      },
+      {
+        "check": "Kasse-Stufen-Einsaetze",
+        "status": "OK",
+        "detail": "Alle Einsaetze auf Basis Kasse 550EUR Stufe 1: Einzel VALUE 2%=11EUR, Einzel WACKEL 0.5%=2.75EUR, Einzel RISIKO 0.25%=1.40EUR, Kombi SAFE 2%=11EUR, Kombi BALANCE 0.8%=4.40EUR, Kombi RISIKO 0.25%=1.40EUR, Kombi MOONSHOT 0.1%=0.55EUR."
+      },
+      {
+        "check": "Markt-Bluter-Check",
+        "status": "OK",
+        "detail": "markt_bluter.json listet Spread/Handicap - kein Spread/Handicap-Tipp im Dossier."
+      },
+      {
+        "check": "Verbotene Maerkte",
+        "status": "OK",
+        "detail": "Keine Eckbaelle, Karten, HZ/ES-Kombi, Genaues Ergebnis, PRA-Kombos oder Einzel-Assists/Rebounds/Steals im Dossier."
+      },
+      {
+        "check": "saison_kontext Pflichtfelder (parallel/saisonziel/motivations/recovery/quellen)",
+        "status": "OK",
+        "detail": "Beide Spiele: alle 7 Pflichtfelder gefuellt, quellen[] mit 6 URLs jeweils, inkl. FIFA-Verband-Quelle. WM-Spiele: Turnier-Phase in Liga + Vereins-Belastung in saisonziel/recovery erwaehnt."
+      },
+      {
+        "check": "Spiel-IDs Konvention Window-Datum",
+        "status": "OK",
+        "detail": "2026-07-11-nor-eng (Window-Datum 11.07., Anstoss 23:00 MESZ 11.07.). 2026-07-11-arg-sui (Window-Datum 11.07., Anstoss 03:00 MESZ 12.07. - Nacht-Spiel gehoert zum Window 11.07. korrekt lt. recherche_routine.md)."
+      }
+    ],
+    "emergency_recovery": true,
+    "notiz": "Master-Fallback-Verify inline weil Watchdog-Recovery-Lauf ohne separaten Verifikations-Subagent. Zwei WARN-Punkte (Quoten-Aggregator-Basis nicht bet365-direkt / Torschuetzen-Vereins-Quellen nicht in quellen[]) sind bekannt und regelkonform behandelt (max WACKEL bei Torschuetzen, Quoten-Live-Pruefung im news[] jedes Spiels erwaehnt)."
+  },
+  "einzeltipps_ergebnis": [
+    {
+      "id": "einzel-2026-07-11-01",
+      "spiel_id": "2026-07-11-arg-sui",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "wette": "Endstand < 3 Tore insgesamt (90min)",
+      "quote": 1.67,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 11.0,
+      "edge_prozent": 10,
+      "kurz_begruendung": "Markt-Goldgrube Nr.1 (HR 68% / ROI +24%). Schweiz-Klassen-Konkurrent-Bunker-Setup identisch zu SUI-COL R16 (HR07-07-3). Argentinien-Belastung nach 2x n.V./Comeback-Spielen. Public-Bias auf OVER (81% Wetten-Volumen) -> Value auf UNDER.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 1,
+      "status": "gewonnen",
+      "netto_euro": 7.37,
+      "tipp_id": "2026-07-11-arg-sui-t2",
+      "gewinn_faktor": 0.67,
+      "kommentar": "Unter 2.5 im ARG-SUI 90min = 1:1 (Mac Allister 10, Ndoye 67). Klassen-Konkurrent-Bunker-Muster gg Schweiz reproduziert, Goldgruben-ROI weiter positiv."
+    },
+    {
+      "id": "einzel-2026-07-11-02",
+      "spiel_id": "2026-07-11-nor-eng",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "wette": "Endstand >= 3 Tore insgesamt (90min)",
+      "quote": 1.7,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 11.0,
+      "edge_prozent": 9,
+      "kurz_begruendung": "Markt-Goldgrube Nr.2 (HR 57.9% / ROI +20.1%). Alle 5 NOR-Turnier-Spiele + alle 5 ENG-Turnier-Spiele Ueber 2.5. Haaland+Kane+Bellingham 17 Turnier-Tore zusammen. R16-Ueber-Cluster 6/6 (HR07-07-2) - hier reproduzierbar wegen bilateraler Offensive.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 2,
+      "status": "verloren",
+      "netto_euro": -11.0,
+      "tipp_id": "2026-07-11-nor-eng-t2",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Ueber 2.5 im NOR-ENG 90min = 1:1 (Schjelderup 36, Bellingham 45+2). Drittes Tor kam erst in Verlaengerung (Bellingham 93). HR26 K.O.-Torzahl-nach-unten voll bestaetigt."
+    },
+    {
+      "id": "einzel-2026-07-11-03",
+      "spiel_id": "2026-07-11-nor-eng",
+      "kategorie": "value",
+      "markt": "England Sieg 90min",
+      "wette": "England gewinnt regulaere Spielzeit",
+      "quote": 1.87,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 11.0,
+      "edge_prozent": 7,
+      "kurz_begruendung": "Klassen-Edge Top-3-Anwaerter vs Underdog-Sensation. HR07-10-1 K.O.-Sieg-Empirie 4/5. 2:0-Insurance aktiv (Kane 6 + Bellingham 4 Turnier-Tore setzen realistisch). Guehi-Zweifel + Quansah-Sperre = IV-Umbau aber Konsa-Stones stabil.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 3,
+      "status": "verloren",
+      "netto_euro": -11.0,
+      "tipp_id": "2026-07-11-nor-eng-t1",
+      "gewinn_faktor": -1.0,
+      "kommentar": "England Sieg 90min - 1:1 nach 90min. 2:0-Insurance NICHT ausgeloest. Klassen-Favorit brauchte Verlaengerung."
+    },
+    {
+      "id": "einzel-2026-07-11-04",
+      "spiel_id": "2026-07-11-arg-sui",
+      "kategorie": "value",
+      "markt": "Argentinien Sieg 90min",
+      "wette": "Argentinien gewinnt regulaere Spielzeit",
+      "quote": 1.69,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 11.0,
+      "edge_prozent": 6,
+      "kurz_begruendung": "Klassen-Edge massiv (Titelverteidiger vs Underdog). Manzambi-Schweiz-Ausfall + H2H 7-0 nie verloren. HR07-10-1 K.O.-Sieg-Empirie. 2:0-Insurance aktiv (Messi Golden-Boot-Fuehrung 8 Tore setzt realistisch). Verlaengerungs-Restrisiko wegen Argentinien-Belastung.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 4,
+      "status": "verloren",
+      "netto_euro": -11.0,
+      "tipp_id": "2026-07-11-arg-sui-t1",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Argentinien Sieg 90min - 1:1 nach 90min. 2:0-Insurance NICHT ausgeloest. Schweiz-Bunker haelt 90min."
+    },
+    {
+      "id": "einzel-2026-07-11-05",
+      "spiel_id": "2026-07-11-arg-sui",
+      "kategorie": "wackel",
+      "markt": "Lionel Messi trifft (Torschuetze Jederzeit)",
+      "wette": "Messi erzielt mind. 1 Tor",
+      "quote": 2.0,
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 2.75,
+      "edge_prozent": 5,
+      "kurz_begruendung": "Golden-Boot-Fuehrung 8 Turnier-Tore. HR07-10-4 Turnier-Top-Scorer-Fehl-Cluster QF fortgesetzt -> Downgrade auf WACKEL. Einwechslungs-Boost via Nico Gonzalez/Almada aktiv aber weniger sicher (Rollen-Wechsel).",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 5,
+      "status": "verloren",
+      "netto_euro": -2.75,
+      "tipp_id": "2026-07-11-arg-sui-t3",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Messi 0 Tore - nur Corner-Assist zu Mac Allister. Golden-Boot-Fuehrer im QF-Bunker neutralisiert."
+    },
+    {
+      "id": "einzel-2026-07-11-06",
+      "spiel_id": "2026-07-11-nor-eng",
+      "kategorie": "wackel",
+      "markt": "Harry Kane trifft (Torschuetze Jederzeit)",
+      "wette": "Kane erzielt mind. 1 Tor",
+      "quote": 1.95,
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 2.75,
+      "edge_prozent": 5,
+      "kurz_begruendung": "6 Turnier-Tore = 3. England-Spieler mit 6+ Toren in Major-Turnier. Zentraler 9er ohne Rotation. HR07-10-4 -> Downgrade auf WACKEL trotz Form-Edge. Einwechslungs-Boost via Watkins (Villa 22 Tore) aktiv.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 6,
+      "status": "verloren",
+      "netto_euro": -2.75,
+      "tipp_id": "2026-07-11-nor-eng-t3",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Kane 0 Tore, kein Sub (voll durchgespielt). Einwechslungs-Boost via Watkins nicht getriggert."
+    },
+    {
+      "id": "einzel-2026-07-11-07",
+      "spiel_id": "2026-07-11-nor-eng",
+      "kategorie": "wackel",
+      "markt": "Erling Haaland trifft (Torschuetze Jederzeit)",
+      "wette": "Haaland erzielt mind. 1 Tor",
+      "quote": 2.2,
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 2.75,
+      "edge_prozent": 8,
+      "kurz_begruendung": "Extremer Volume-Star (7 Turnier-Tore, 1.75/G!, Doppelpack vs Brasilien). Klassen-Konkurrent-Killer-Faehig. HR07-10-4 Turnier-Top-Scorer Fehl-Cluster -> WACKEL. Einwechslungs-Boost neutralisiert (Sorloth Startelf-Support).",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 7,
+      "status": "verloren",
+      "netto_euro": -2.75,
+      "tipp_id": "2026-07-11-nor-eng-t4",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Haaland 0 Tore trotz 7 Turnier-Tore. Stones/Konsa-IV neutralisiert. Sorloth-Support ohne Tor."
+    },
+    {
+      "id": "einzel-2026-07-11-08",
+      "spiel_id": "2026-07-11-nor-eng",
+      "kategorie": "wackel",
+      "markt": "Jude Bellingham trifft (Torschuetze Jederzeit)",
+      "wette": "Bellingham erzielt mind. 1 Tor",
+      "quote": 3.5,
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 2.75,
+      "edge_prozent": 6,
+      "kurz_begruendung": "Alternativ-Torschuetze Late-Star. Turnier 4 Tore in 5 Spielen + Doppelpack in R16 gg Mexiko. Norwegen-Mittelfeld Berg/Berge/Odegaard nicht defensiv-tight -> Halbraum-Chancen. Wackel-Range-Obergrenze 3.50.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 8,
+      "status": "gewonnen",
+      "netto_euro": 6.88,
+      "tipp_id": "2026-07-11-nor-eng-t5",
+      "gewinn_faktor": 2.5,
+      "kommentar": "Bellingham GEWONNEN - 2 Tore (45+2 in Regulaerzeit + 93 in Extra Time). Doppelpack innerhalb 48h nach R16-Doppelpack. Zweit-Zentrum-Ausnahme im HR07-10-4-Fehl-Cluster."
+    },
+    {
+      "id": "einzel-2026-07-11-09",
+      "spiel_id": "2026-07-11-arg-sui",
+      "kategorie": "wackel",
+      "markt": "Lautaro Martinez trifft (Torschuetze Jederzeit)",
+      "wette": "Lautaro Martinez erzielt mind. 1 Tor",
+      "quote": 2.75,
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 2.75,
+      "edge_prozent": 4,
+      "kurz_begruendung": "Startelf-Rueckkehr-Hedge nach HR07-07-1 (Kap Verde raus, Aegypten drin). Predicted XI bestaetigt Startelf. Zwei-Volume-Star-Hedge falls Messi HR07-10-4-Muster. WACKEL wegen Rotation-Restrisiko.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 9,
+      "status": "verloren",
+      "netto_euro": -2.75,
+      "tipp_id": "2026-07-11-arg-sui-t4",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Lautaro traf 120+1 - AUSSCHLIESSLICH in Verlaengerung. bet365 Anytime-Markt settelt auf 90min+Nachspielzeit ohne Verlaengerung. Verloren."
+    },
+    {
+      "id": "einzel-2026-07-11-10",
+      "spiel_id": "2026-07-11-arg-sui",
+      "kategorie": "risiko",
+      "markt": "Schweiz Doppelte Chance X2",
+      "wette": "Schweiz zieht mind. Remis nach 90 Min",
+      "quote": 2.4,
+      "einsatz_prozent_kasse": 0.25,
+      "einsatz_euro": 1.4,
+      "edge_prozent": 3,
+      "kurz_begruendung": "Klassen-Konkurrent-K.O.-Bunker-Hedge (SUI-COL R16 0:0 reproduziert). Xhaka/Freuler-Doppel-6 + Kobel/Elvedi/Akanji-Rueckhalt. H2H 5S 2R fuer Argentinien - RISIKO-Kategorie ehrlich.",
+      "empfohlener_einsatz_prozent": 0.25,
+      "rang": 10,
+      "status": "gewonnen",
+      "netto_euro": 1.96,
+      "tipp_id": "2026-07-11-arg-sui-t5",
+      "gewinn_faktor": 1.4,
+      "kommentar": "Schweiz DC X2 gewonnen: 90min = 1:1 Remis. HR07-07-3 Bunker-Empirie reproduziert."
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "kombi-2026-07-11-safe",
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "einsatz_euro": 11.0,
+      "netto_euro": -11.0,
+      "kommentar": "BEIDE Beine verloren (beide 90min = 1:1, Verlaengerung entscheidet). SAFE-Kombi bei 3.16x kollabiert - MASSIVE Lesson fuer HR07-10-1 Revision."
+    },
+    {
+      "kombi_id": "kombi-2026-07-11-balance",
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "einsatz_euro": 4.4,
+      "netto_euro": -4.4,
+      "kommentar": "Bellingham traf (45+2 + 93) aber Messi 0 Tore -> Kombi verloren. HR07-10-4 Zweit-Zentrum-vs-Golden-Boot-Split reproduziert."
+    },
+    {
+      "kombi_id": "kombi-2026-07-11-risiko",
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "einsatz_euro": 1.4,
+      "netto_euro": -1.4,
+      "kommentar": "Haaland 0 Tore und Alvarez traf nur in Verlaengerung (112) - Anytime-Markt settelt 90min. Beide Beine tot."
+    },
+    {
+      "kombi_id": "kombi-2026-07-11-moonshot",
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "einsatz_euro": 0.55,
+      "netto_euro": -0.55,
+      "kommentar": "Bellingham nur 1 Tor in 90min (Doppelpack teils in ET), Alvarez 0 Tore in 90min. Beide 2+ Tore Beine verloren."
+    }
+  ],
+  "ausgewertet_am": "2026-07-12T10:58:44+00:00",
+  "bilanz": {
+    "anzahl_gewonnen": 3,
+    "anzahl_verloren": 11,
+    "anzahl_offen": 0,
+    "gesamt_einsatz_euro": 76.5,
+    "gesamt_netto_euro": -45.14,
+    "roi_prozent": -59.01
+  }
+}

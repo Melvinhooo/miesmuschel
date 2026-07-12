@@ -1934,6 +1934,37 @@
       "kategorie": "HR07-10-4 (8h Boost-Trigger ohne Tipp) Turnier-Top-Scorer-Anytime-Fehl-Cluster setzt sich in QF fort (Oyarzabal 4/6 Turnier-Fehl) - Downgrade auf WACKEL statt VALUE nun Standard-Regel",
       "lesson": "Oyarzabal 0 Tore trotz VALUE-Set (HR07-06-5 R16-Downgrade auf Value nicht ausreichend). Turnier-Fehl-Cluster jetzt 4/6 Spielen ohne Tor bei zentraler CF-Rolle. **Regel-Verschaerfung** zu HR07-06-5: Turnier-Top-Scorer bei WM 2026 K.O.-Runden **Kategorie WACKEL max**, nicht VALUE (auch bei zentraler Rolle). Einsatz-Cap 0.5% (Kasse Stufe 1 = 2.75EUR max). Zusatz: **Ersatzspieler bei Sub-Rolle mit Late-Game-Tor-Historie (siehe HR07-10-3) hoeher priorisieren als Top-Scorer**. Beispiel HF: statt Oyarzabal-Anytime @ 1.95 -> Merino Anytime @ 2.80+ als Torschuetzen-Bein.",
       "bezug_spiel_id": "2026-07-10-esp-bel"
+    },
+    {
+      "datum": "2026-07-12",
+      "kategorie": "AUTO-PATTERN: FIFA World Cup 2026 - Viertelfinale / Torschuetze / wackel - 80% Verlust (4/5)",
+      "lesson": "Auto-erkannter Verlust-Cluster Stand 2026-07-12: in Liga 'FIFA World Cup 2026 - Viertelfinale' wurden 5 WACKEL-Tipps auf Markt-Kat 'Torschuetze' platziert, davon 4 verloren (80%). Empfehlung: diesen Cluster in den naechsten Lauefen NICHT mehr als WACKEL - max eine Stufe runter (safe->value, value->wackel) bis Verlust-Quote < 50%. Beispiele: 2026-07-11 Argentinien - Schweiz (Lionel Messi trifft (Torschuetze Jederzeit)) -> ?; 2026-07-11 Norwegen - England (Harry Kane trifft (Torschuetze Jederzeit)) -> ?; 2026-07-11 Norwegen - England (Erling Haaland trifft (Torschuetze Jederzeit)) -> ?",
+      "bezug_spiel_id": null,
+      "auto_generiert": true
+    },
+    {
+      "datum": "2026-07-11",
+      "kategorie": "HR07-11-1 (8a) Golden-Boot-Trio-QF-Fehl-Cluster MASSIV BESTAETIGT: primaerer Top-Scorer in QF-Klassen-Konkurrent-Bunker = strukturell Torschuetzen-verloren",
+      "lesson": "Kane 0 Tore, Haaland 0 Tore, Messi 0 Tore - ALLE 3 Golden-Boot-Anwaerter im QF-Doppelslot NOR-ENG + ARG-SUI ohne Tor. Trotz je 6/7/8 Turnier-Tore vorher. Nur Zweit-Zentrum Bellingham (4 Turnier-Tore, OM-Rolle) hat geliefert mit Doppelpack. HR07-10-4 wird zur HARTEN Regel: **primaerer Golden-Boot-Kandidat/zentraler 9er in QF/HF -> NIE als VALUE, immer WACKEL max, einsatz-Cap 0.5% (Kasse Stufe 1 = 2.75EUR).** Alternative aktiv suchen: Zweit-Zentrum-Kreativspieler (OM, Nr. 10, Set-Piece-Threat) - Bellingham-Muster als Referenz. Bezug: 2026-07-11-nor-eng-t3 (Kane), t4 (Haaland), 2026-07-11-arg-sui-t3 (Messi) - alle drei verloren nach Downgrade auf WACKEL. Cluster-Bilanz Turnier-Top-Scorer im QF: 0/4 (Oyarzabal + Kane + Haaland + Messi).",
+      "bezug_spiel_id": "2026-07-11-nor-eng, 2026-07-11-arg-sui"
+    },
+    {
+      "datum": "2026-07-11",
+      "kategorie": "HR07-11-2 (8a Korrelations-Analyse) SAFE-Kombi Doppel-Sieg-Klassen-Favorit in QF TOT - HR07-10-1 muss REVIDIERT werden (4/7 statt 4/5)",
+      "lesson": "SAFE-Kombi 3.16x (England Sieg + Argentinien Sieg, je 90min) BEIDE Beine verloren - beide Klassen-Favoriten wurden von Underdog-Bunker zum 90min-Remis gezwungen (NOR-ENG 1:1, ARG-SUI 1:1) und mussten in Verlaengerung. HR07-10-1-Empirie (K.O.-Sieg-Empirie 4/5) muss REVIDIERT werden: nun 4/7 = 57% Trefferquote (nicht mehr komfortable Basis fuer SAFE-Kombi). **Neue Regel HR07-11-2**: In QF/HF-K.O. NIE mehr Doppel-Klassen-Favorit-Sieg-90min-SAFE-Kombi. Statt dessen: SAFE-Kombi bevorzugt Doppelte Chance (1X oder X2) fuer Klassen-Favorit + Ueber/Unter/BTTS als Zweit-Bein. Alternativ: Klassen-Favorit-Sieg + Torschuetzen-Zweit-Zentrum (Bellingham-Muster). Bezug: kombi-2026-07-11-safe verloren -11EUR = groesster Kombi-Verlust seit BALANCE 4.05. Korrelation: Doppel-Bunker-Muster bei Klassen-Konkurrent-Duellen wird sich in HF (Di 14.07.) wiederholen koennen.",
+      "bezug_spiel_id": "kombi-2026-07-11-safe"
+    },
+    {
+      "datum": "2026-07-11",
+      "kategorie": "HR07-11-3 (8g Markt-Pattern aus volle_analyse) Ueber 2.5 in K.O. TROTZ Empirie-Rueckhalt-Faelle unzuverlaessig - HR26 K.O.-Torzahl-nach-unten VOLL bestaetigt",
+      "lesson": "NOR-ENG endete 90min mit 2 Toren trotz 5/5 Turnier-Spiele Ueber 2.5 fuer BEIDE Teams vorher. QF-Ueber-2.5-Bilanz nun: FRA-MAR Unter (2:0), ESP-BEL Ueber (2:1), NOR-ENG Unter (1:1 nach 90min) = 1/3 Ueber-Trefferquote in QF. R16-Cluster 6/6 war Zufall/R16-Phasen-Effekt, NICHT auf QF/HF uebertragbar. **Neue Regel HR07-11-3**: Ueber 2.5 in K.O. maximal WACKEL, nicht VALUE, selbst bei 10/10 Turnier-Empirie-Rueckhalt beider Teams. Unter 2.5 im K.O. hingegen Streak 5/5 fortsetzend + Goldgruben-ROI +24%. **Consequence**: bei HF-Doppelslot 14./15.07. Ueber-2.5-Tipps aus Kombis komplett rausnehmen oder max Wackel als Einzel. Bezug: 2026-07-11-nor-eng-t2 verloren -11EUR.",
+      "bezug_spiel_id": "2026-07-11-nor-eng"
+    },
+    {
+      "datum": "2026-07-11",
+      "kategorie": "HR07-11-4 (8g/8h Volle-Analyse-Pattern) Klassen-Konkurrent-Bunker-Muster reliable Doppel-Erfolg im 90min - Underdog-DC-X2/1X als Kombi-Bein aktiv einbauen",
+      "lesson": "Schweiz-Bunker in 2/2 K.O.-Spielen im 90min erfolgreich: SUI-COL R16 0:0/Elfer, SUI-ARG QF 1:1/aet. Kobel/Elvedi/Akanji + Xhaka/Freuler-Doppel-6 = reproduzierbares Muster. Auch NOR-ENG endete 90min 1:1 (Norwegen-Bunker), FRA-MAR 2:0 (Marokko-Halbtot). Aggregation: 4/4 QF-Spiele 90min-Endstand 1:0/1:1/2:0/2:1 = alles Kurz-Toter-Range. Underdog-DC in QF hoch reliable. **Neue Regel HR07-11-4**: In HF/Finale (Kl-Konkurrent-Situationen) Underdog-DC-X2 (oder DC 1X) als eigenstaendige Balance-Kategorie einfuehren (nicht mehr nur RISIKO). Kombi-Einsatz-Prozent 1% moeglich (statt 0.25% RISIKO). Bezug: 2026-07-11-arg-sui-t5 (Schweiz DC X2 @ 2.40) gewonnen +1.96EUR + einzel-2026-07-11-10 gewonnen +1.96EUR. In Verbindung mit 2026-07-11-arg-sui-t2 (Unter 2.5 @1.67) gewonnen: Doppel-Klassen-Konkurrent-Bunker-Doppel-Hit +7.37EUR.",
+      "bezug_spiel_id": "2026-07-11-arg-sui"
     }
   ]
 }
