@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-07-12T11:05:34+00:00",
+  "letzte_berechnung": "2026-07-13T07:05:23+00:00",
   "gesamt": {
     "tipps": 512,
     "gewonnen": 283,
@@ -13,15 +13,15 @@ window.__MIESMUSCHEL_STAT = {
     "roi_prozent": 5.2
   },
   "letzte_30_tage": {
-    "tipps": 182,
-    "gewonnen": 102,
-    "verloren": 80,
+    "tipps": 174,
+    "gewonnen": 99,
+    "verloren": 75,
     "push": 0,
     "offen": 0,
-    "einsatz": 182.0,
-    "netto": -0.89,
-    "trefferquote": 56.0,
-    "roi_prozent": -0.5
+    "einsatz": 174.0,
+    "netto": 1.09,
+    "trefferquote": 56.9,
+    "roi_prozent": 0.6
   },
   "letzte_90_tage": {
     "tipps": 512,
@@ -5702,21 +5702,11 @@ window.__MIESMUSCHEL_STAT = {
   },
   "clv_30_tage": {
     "gesamt": {
-      "n": 18,
-      "durchschnitt": -1.51,
-      "median": 1.08
+      "n": 10,
+      "durchschnitt": -4.36,
+      "median": -4.55
     },
     "nach_liga": {
-      "FIFA WM 2026 Gruppenphase Spieltag 1 (Gruppe B)": {
-        "n": 4,
-        "durchschnitt": 1.21,
-        "median": 1.14
-      },
-      "FIFA WM 2026 Gruppenphase Spieltag 1 (Gruppe D)": {
-        "n": 4,
-        "durchschnitt": 2.9,
-        "median": 3.09
-      },
       "FIFA WM 2026 - Achtelfinale": {
         "n": 10,
         "durchschnitt": -4.36,
