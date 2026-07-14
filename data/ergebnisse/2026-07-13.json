@@ -1,0 +1,47 @@
+{
+  "datum": "2026-07-13",
+  "erstellt_am": "2026-07-13T17:15:00+02:00",
+  "modus": "tag",
+  "_watchdog_recovery": true,
+  "_watchdog_recovery_grund": "Hauptroutine Cron 16:00 Berlin fuer 2026-07-13 hat kein File erzeugt. Watchdog 17:15 (75 Min Fallback) uebernimmt. Verifizierte Faktenlage via WebSearch: heute Mo 13.07. ist Ruhetag zwischen WM-Viertelfinale (abgeschlossen 11.07.) und Halbfinale (Di 14.07. Frankreich-Spanien AT&T Stadium Arlington + Mi 15.07. England-Argentinien Mercedes-Benz Stadium Atlanta, jeweils 21:00 CEST). Kein Spiel im Tages-Window 17:15-06:00.",
+  "hinweis": "RUHETAG. Heute Mo 13.07. findet KEIN WM-Spiel statt. Halbfinal-Auftakt Di 14.07. 21:00 CEST Frankreich vs Spanien (AT&T Stadium, Arlington TX), zweites HF Mi 15.07. 21:00 CEST England vs Argentinien (Mercedes-Benz Stadium, Atlanta) - beide belastbar per FIFA/kicker/NBC Sports/Al Jazeera/Sportschau/Wettbasis verifiziert. Vereine (Bundesliga, PL, LaLiga, Serie A, Ligue 1) pausieren bis August, NBA Finals durch seit 13.06. (Knicks Champion), UEFA-Vorrunden laufen zwar (Qairat, Flora & Co.) sind aber Beobachtungs-Liga ohne belastbare Daten - kein Tipp-Trigger. Kasse 550EUR Stufe 1 - null Einsatz heute = null Risiko. Ehrlichkeits-Prinzip laut CLAUDE.md: lieber 0 Tipps als Zwang-Tipps auf Ruhetag. Watchdog laesst Master-Log sauber. 18+ / BZgA 0800 1372700.",
+  "spiele": [],
+  "einzeltipps": [],
+  "kombis": [],
+  "lessons_angewandt": [
+    {
+      "id": "WD07-13-RUHETAG-HF-VORTAG",
+      "lesson_kurz": "Ruhetag am HF-Vortag ehrlich als solchen ausweisen - kein Zwang-Dossier trotz Watchdog-Trigger.",
+      "text": "Watchdog-Trigger 17:15 heisst NICHT dass Tipps erzwungen werden muessen. Wenn Recherche-Faktenlage sauber 'kein Spiel im Window' liefert (WM-Phasen-File zeigt HF-Fenster 14.-15.07., WebSearch bestaetigt konkrete HF-Paarungen FRA-ESP Di + ENG-ARG Mi), ist das leere Dossier die korrekte Antwort - Beobachtungs-Ligen bleiben tabu, Vereins-Sommer-Pause bleibt bindend, NBA ist durch. Ehrlichkeits-Prinzip aus CLAUDE.md schlaegt Watchdog-Automatismus. Kasse 550EUR Stufe 1 (Aufbau) - null Einsatz = null Risiko = Basis-Zielrichtung 1000EUR bleibt unberuehrt.",
+      "quelle": "data/wm_2026.json Phasen-Block (HF 14.-15.07.) + WebSearch aljazeera.com/sports/2026/7/12/which-teams-are-in-the-world-cup-semifinals + nbcsports.com/soccer/news/when-are-the-2026-fifa-world-cup-semifinals-dates-confirmed-teams + kicker.de weltmeisterschaft/spieltag + CLAUDE.md Ehrlichkeits-Prinzipien + Kasse-Stufen-Modell Stufe 1"
+    },
+    {
+      "id": "WD07-13-HF-PAARUNGEN-KONFIRMIERT",
+      "lesson_kurz": "HF-Paarungen belastbar: Di 14.07. FRA-ESP Arlington 21:00 CEST + Mi 15.07. ENG-ARG Atlanta 21:00 CEST. Recherche-Routine kommender Cron kann direkt draufgehen.",
+      "text": "Info-only, keine Tipp-Wirkung heute. FIFA/kicker/NBC/Al Jazeera/Sportschau/Wettbasis stimmen ueberein: HF1 Di 14.07. Frankreich vs Spanien AT&T Stadium Arlington TX 21:00 CEST (Ortszeit 14:00 CDT), HF2 Mi 15.07. England vs Argentinien Mercedes-Benz Stadium Atlanta 21:00 CEST (Ortszeit 15:00 EDT). Beide Stadien indoor/klimatisiert bzw. ueberdacht - Spielort-Faktor neutral, keine Hoehe/Hitze-Verzerrung wie in Mexiko-Stadt. Konsequenz fuer Tipps-Routine morgen (Di 14.07.): FRA-ESP als Klassen-Duell - K.O.-Muster aus VF beachten (2/4 Spiele in Verlaengerung, 2:0-Insurance greift dann NICHT - SAFE-Sieg vermeiden, DC oder Torschuetze auf Backup-Stuermer eher). Star-Ausfall-Check pflicht: wer aus FRA und ESP wackelt gelb/rot/verletzt? Recherche-Routine morgen 10:30 muss expected lineups holen (Mbappe-Status FRA, Yamal/Pedri-Status ESP).",
+      "quelle": "aljazeera.com/sports/2026/7/12/which-teams-are-in-the-world-cup-semifinals + nbcsports.com/soccer/news/when-are-the-2026-fifa-world-cup-semifinals-dates-confirmed-teams + fussballdaten.de/news/wann-wm-halbfinale-2026-termine-uhrzeit-spielorte + wettbasis.com/sportwetten-news/wm-2026-spielplan + data/wm_2026.json Stadien-Block"
+    },
+    {
+      "id": "WD07-13-BEOBACHTUNGS-LIGEN-STAND",
+      "lesson_kurz": "Aktuelle Beobachtungs-Liga: nur 'WM Gruppe E Spieltag 3 Decider' (30d ROI -43.4%). Deutschland-Decider-Historie bleibt gemieden bis Ausstiegs-Kriterium erreicht.",
+      "text": "beobachtungs_ligen.json Stand 2026-07-13T07:05 zeigt genau 1 Liga: 'FIFA WM 2026 - Gruppe E - Spieltag 3 (Decider)', 5 Tipps in 30d, 40% Hitrate, -43.4% ROI, Netto -2.17EUR. Kriterium 30d ROI < -30% bei min 4 Tipps ist getroffen - Ausstieg erst wenn ROI > -10% oder Datenbasis 30d abgekuehlt ist. Fuer Watchdog heute irrelevant (Deutschland ist ausgeschieden im Achtelfinale bzw. spielt heute nicht), aber fuer Tipps-Routine morgen wichtig: falls FRA-ESP Ableger-Betrachtungen zu deutscher WM auftauchen, keine daraus abgeleiteten Tipps.",
+      "quelle": "data/beobachtungs_ligen.json Kriterien-Block + CLAUDE.md Beobachtungs-Liga-Regel"
+    }
+  ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-07-13T17:15:00+02:00",
+    "drops": [],
+    "downgrades": [],
+    "warnungen": [
+      "Ruhetag - 0 Spiele im Window. Verifikations-Checklisten (Spieler-Halluzination, Layer-2-Cross, Quoten-Plausibilitaet, gesamtquote-Nachrechnung, Markt-Mix-Pflicht, saison_kontext-7-Felder) alle trivialerweise OK weil keine Tipps existieren.",
+      "Hauptroutine Cron 16:00 Berlin fuer 2026-07-13 nicht durchgelaufen (data/tipps/2026-07-13.json fehlte). Watchdog 17:15 hat uebernommen. Konsequenz Master-Log: Recherche-Cron und Statistik-Cron liefen (data/statistik.json und data/beobachtungs_ligen.json beide Stand 2026-07-13T07:05Z frisch), nur Hauptroutine-Slot fehlte. Vermutung: Ruhetag-Detection der Master-Cron hat schon vorher gegriffen und keine Tipps-Generation getriggert - Watchdog erstellt dieses File als expliziten Nachweis 'gepruft, nichts zu tun'.",
+      "Verzicht auf Tipps auf UEFA-Vorrunde (Qairat, Flora & Co.) und Freundschaftsspiele international bewusst - Beobachtungs-Liga-Kategorie, duenne Datenbasis, kein Edge. Sommer-Test-Spiele im Klub-Bereich (Bundesliga-Vorbereitung ab Anfang August) sind zusaetzlich CLAUDE.md-Sperrgebiet."
+    ],
+    "kontext_check_status_gesamt": "OK_RUHETAG_WATCHDOG_UEBERNOMMEN",
+    "verifikator_hinweis": "Kein Handlungsbedarf. HF-Auftakt Di 14.07. 21:00 CEST (FRA-ESP Arlington). Naechster planmaessiger Cron-Slot: Di 14.07. 10:30 Berlin (Recherche) + Di 14.07. 16:00 Berlin (Master-Tipps). Kein Layer-1/2/3-Verstoss moeglich (0 Kombis, 0 Einzel). Markt-Mix-Pflicht + Anti-DC-Sucht-Regeln trivialerweise befolgt."
+  },
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "einzeltipps_ergebnis": [],
+  "kombis_ergebnis": [],
+  "ausgewertet_am": "2026-07-14T07:05:07+00:00"
+}
