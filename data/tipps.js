@@ -139,7 +139,8 @@ window.__MIESMUSCHEL_TIPPS = {
             "Merino-Late-Sub-Muster + Bellingham-Late-Trigger (Doppelpack 93+ET vs Norwegen)"
           ]
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     }
   ],
   "einzeltipps": [
@@ -156,7 +157,8 @@ window.__MIESMUSCHEL_TIPPS = {
       "faire_quote": 1.5,
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 11.0,
-      "begruendung_kurz": "Markt-Goldgrube (+28% ROI n=27) + HR26 K.O.-Torzahl-nach-unten in HF1 (FRA-ESP 0:2) VOLL bestaetigt + Doppel-90min-Bunker-Erfahrung beider Teams im QF + ARG-Muedigkeit nach 2xn.V. Faire Quote 1.50, bet365 1.65 -> klarer VALUE."
+      "begruendung_kurz": "Markt-Goldgrube (+28% ROI n=27) + HR26 K.O.-Torzahl-nach-unten in HF1 (FRA-ESP 0:2) VOLL bestaetigt + Doppel-90min-Bunker-Erfahrung beider Teams im QF + ARG-Muedigkeit nach 2xn.V. Faire Quote 1.50, bet365 1.65 -> klarer VALUE.",
+      "rang": 1
     },
     {
       "id": "eng-arg-2",
@@ -171,7 +173,8 @@ window.__MIESMUSCHEL_TIPPS = {
       "faire_quote": 1.88,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 8.25,
-      "begruendung_kurz": "Portfolio-Uebertrag HF1 (FRA zu-null im 0:2 = BTTS-Nein-Doppel-Hit-Partner). Klassen-Konkurrent-K.O. mit organisierten Defensiv-Achsen (Konsa-Guehi / Otamendi-Romero) -> ~50% ein Team zu-null. Korrelation mit Tipp 1 - Stake defensiv 1.5%."
+      "begruendung_kurz": "Portfolio-Uebertrag HF1 (FRA zu-null im 0:2 = BTTS-Nein-Doppel-Hit-Partner). Klassen-Konkurrent-K.O. mit organisierten Defensiv-Achsen (Konsa-Guehi / Otamendi-Romero) -> ~50% ein Team zu-null. Korrelation mit Tipp 1 - Stake defensiv 1.5%.",
+      "rang": 2
     },
     {
       "id": "eng-arg-3",
@@ -186,7 +189,8 @@ window.__MIESMUSCHEL_TIPPS = {
       "faire_quote": 3.08,
       "empfohlener_einsatz_prozent": 0.5,
       "empfohlener_einsatz_euro": 2.75,
-      "begruendung_kurz": "Bellingham K.O.-Ausnahme (Doppelpack R16 + Doppelpack QF = seit Maradona 1986 nicht mehr), 6 Turnier-Tore, mehr Strafraum-Beruehrungen als Kane. WACKEL wegen QF-Torschuetzen-Verlust-Cluster (Lesson 2026-07-12: 4/5 verloren) + Klassen-Konkurrent-Dichte-Defense."
+      "begruendung_kurz": "Bellingham K.O.-Ausnahme (Doppelpack R16 + Doppelpack QF = seit Maradona 1986 nicht mehr), 6 Turnier-Tore, mehr Strafraum-Beruehrungen als Kane. WACKEL wegen QF-Torschuetzen-Verlust-Cluster (Lesson 2026-07-12: 4/5 verloren) + Klassen-Konkurrent-Dichte-Defense.",
+      "rang": 3
     }
   ],
   "kombis": [],
