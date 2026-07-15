@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-07-14T07:06:01+00:00",
+  "letzte_berechnung": "2026-07-15T07:11:25+00:00",
   "gesamt": {
-    "tipps": 512,
-    "gewonnen": 283,
-    "verloren": 218,
+    "tipps": 515,
+    "gewonnen": 285,
+    "verloren": 219,
     "push": 2,
     "offen": 9,
-    "einsatz": 503.0,
-    "netto": 26.18,
+    "einsatz": 506.0,
+    "netto": 27.13,
     "trefferquote": 56.5,
-    "roi_prozent": 5.2
+    "roi_prozent": 5.4
   },
   "letzte_30_tage": {
-    "tipps": 168,
-    "gewonnen": 96,
-    "verloren": 72,
+    "tipps": 161,
+    "gewonnen": 91,
+    "verloren": 70,
     "push": 0,
     "offen": 0,
-    "einsatz": 168.0,
-    "netto": -5.29,
-    "trefferquote": 57.1,
-    "roi_prozent": -3.1
+    "einsatz": 161.0,
+    "netto": -17.24,
+    "trefferquote": 56.5,
+    "roi_prozent": -10.7
   },
   "letzte_90_tage": {
-    "tipps": 512,
-    "gewonnen": 283,
-    "verloren": 218,
+    "tipps": 515,
+    "gewonnen": 285,
+    "verloren": 219,
     "push": 2,
     "offen": 9,
-    "einsatz": 503.0,
-    "netto": 26.18,
+    "einsatz": 506.0,
+    "netto": 27.13,
     "trefferquote": 56.5,
-    "roi_prozent": 5.2
+    "roi_prozent": 5.4
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -1024,6 +1024,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": -2.43,
       "trefferquote": 30.0,
       "roi_prozent": -24.3
+    },
+    "FIFA WM 2026 - Halbfinale": {
+      "tipps": 3,
+      "gewonnen": 2,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 0.95,
+      "trefferquote": 66.7,
+      "roi_prozent": 31.7
     }
   },
   "nach_markt": {
@@ -4997,6 +5008,39 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 1.4,
       "trefferquote": 100.0,
       "roi_prozent": 140.0
+    },
+    "Unter 2.5 Tore FRA-ESP (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.9,
+      "trefferquote": 100.0,
+      "roi_prozent": 90.0
+    },
+    "Beide Teams treffen: NEIN (BTTS Nein)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.05,
+      "trefferquote": 100.0,
+      "roi_prozent": 105.0
+    },
+    "Unentschieden 90 Min FRA-ESP": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
     }
   },
   "nach_markt_typ": {
@@ -5067,15 +5111,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 3.9
     },
     "Unter 2.5 Tore": {
-      "tipps": 26,
-      "gewonnen": 18,
+      "tipps": 27,
+      "gewonnen": 19,
       "verloren": 8,
       "push": 0,
       "offen": 0,
-      "einsatz": 26.0,
-      "netto": 6.66,
-      "trefferquote": 69.2,
-      "roi_prozent": 25.6
+      "einsatz": 27.0,
+      "netto": 7.56,
+      "trefferquote": 70.4,
+      "roi_prozent": 28.0
     },
     "Doppelte Chance 1X": {
       "tipps": 27,
@@ -5474,15 +5518,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -100.0
     },
     "Beide Teams treffen NEIN": {
-      "tipps": 2,
-      "gewonnen": 1,
+      "tipps": 3,
+      "gewonnen": 2,
       "verloren": 1,
       "push": 0,
       "offen": 0,
-      "einsatz": 2.0,
-      "netto": -0.25,
-      "trefferquote": 50.0,
-      "roi_prozent": -12.5
+      "einsatz": 3.0,
+      "netto": 0.8,
+      "trefferquote": 66.7,
+      "roi_prozent": 26.7
     },
     "Marokko zu Null": {
       "tipps": 1,
@@ -5582,30 +5626,41 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.0,
       "trefferquote": 66.7,
       "roi_prozent": 0.0
+    },
+    "Unentschieden 90 Min FRA-ESP": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
     }
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 224,
-      "gewonnen": 118,
+      "tipps": 225,
+      "gewonnen": 119,
       "verloren": 101,
       "push": 1,
       "offen": 4,
-      "einsatz": 220.0,
-      "netto": 11.56,
-      "trefferquote": 53.9,
-      "roi_prozent": 5.3
+      "einsatz": 221.0,
+      "netto": 12.46,
+      "trefferquote": 54.1,
+      "roi_prozent": 5.6
     },
     "2.00-3.00": {
-      "tipps": 76,
-      "gewonnen": 28,
+      "tipps": 77,
+      "gewonnen": 29,
       "verloren": 46,
       "push": 1,
       "offen": 1,
-      "einsatz": 75.0,
-      "netto": 0.71,
-      "trefferquote": 37.8,
-      "roi_prozent": 0.9
+      "einsatz": 76.0,
+      "netto": 1.76,
+      "trefferquote": 38.7,
+      "roi_prozent": 2.3
     },
     "1.00-1.50": {
       "tipps": 188,
@@ -5619,15 +5674,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 4.8
     },
     "3.00+": {
-      "tipps": 24,
+      "tipps": 25,
       "gewonnen": 7,
-      "verloren": 17,
+      "verloren": 18,
       "push": 0,
       "offen": 0,
-      "einsatz": 24.0,
-      "netto": 5.05,
-      "trefferquote": 29.2,
-      "roi_prozent": 21.0
+      "einsatz": 25.0,
+      "netto": 4.05,
+      "trefferquote": 28.0,
+      "roi_prozent": 16.2
     }
   },
   "nach_kategorie": {
@@ -5643,26 +5698,26 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 1.8
     },
     "value": {
-      "tipps": 300,
-      "gewonnen": 167,
+      "tipps": 302,
+      "gewonnen": 169,
       "verloren": 122,
       "push": 2,
       "offen": 9,
-      "einsatz": 291.0,
-      "netto": 28.01,
-      "trefferquote": 57.8,
-      "roi_prozent": 9.6
+      "einsatz": 293.0,
+      "netto": 29.96,
+      "trefferquote": 58.1,
+      "roi_prozent": 10.2
     },
     "wackel": {
-      "tipps": 107,
+      "tipps": 108,
       "gewonnen": 46,
-      "verloren": 61,
+      "verloren": 62,
       "push": 0,
       "offen": 0,
-      "einsatz": 107.0,
-      "netto": -3.1,
-      "trefferquote": 43.0,
-      "roi_prozent": -2.9
+      "einsatz": 108.0,
+      "netto": -4.1,
+      "trefferquote": 42.6,
+      "roi_prozent": -3.8
     },
     "risiko": {
       "tipps": 3,
@@ -5715,6 +5770,56 @@ window.__MIESMUSCHEL_STAT = {
     }
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-07-14",
+      "gesamt": {
+        "tipps": 3,
+        "gewonnen": 2,
+        "verloren": 1,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 3.0,
+        "netto": 0.95,
+        "trefferquote": 66.7,
+        "roi_prozent": 31.7
+      },
+      "spiele": [
+        {
+          "id": "2026-07-14-fra-esp",
+          "liga": "FIFA WM 2026 - Halbfinale",
+          "heim": "Frankreich",
+          "gast": "Spanien",
+          "endstand": "0:2",
+          "tipps": [
+            {
+              "markt": "Unter 2.5 Tore FRA-ESP (90 Min)",
+              "quote": 1.9,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.9,
+              "kommentar": "Endstand 0:2 = 2 Tore total, damit klar unter 2.5. Goldgrube-Markt hat exakt getriggert. Kein VAR-Elfmeter-Twist der die Wette ins Verluste haette drehen koennen."
+            },
+            {
+              "markt": "Beide Teams treffen: NEIN (BTTS Nein)",
+              "quote": 2.05,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.05,
+              "kommentar": "Frankreich 0 Tore, Spanien 2 - BTTS Nein glasklar getriggert. FRA-Angriff (Mbappe-Dembele-Barcola-Olise) an ESP-Rodri-Ruiz-Cubarsi-Laporte-Kette gescheitert."
+            },
+            {
+              "markt": "Unentschieden 90 Min FRA-ESP",
+              "quote": 3.25,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Spanien fuehrt bereits HZ 0:1 (Oyarzabal Elfmeter Min 22, Digne-Foul an Yamal), stellt Min 58 auf 0:2 (Porro nach Gib-und-Geh mit Olmo). Kein Draw-Muster im HF wie im VF - ESP zu dominant. Draw-Wackel-These war valide Absicherung, hat aber nicht getriggert."
+            }
+          ]
+        }
+      ],
+      "kombis": []
+    },
     {
       "datum": "2026-07-11",
       "gesamt": {
