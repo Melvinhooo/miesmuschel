@@ -1,0 +1,431 @@
+{
+  "datum": "2026-07-15",
+  "erstellt_am": "2026-07-15T15:15:00+02:00",
+  "modus": "tag",
+  "_watchdog_recovery": true,
+  "_watchdog_recovery_grund": "Hauptroutine 16:00 Berlin nicht durchgelaufen (Watchdog-Slot 17:15 vorgezogen weil Signal frueh eindeutig: kein tipps-file und HF-Slate seit Sonntag bekannt). Full-Generation vom Watchdog uebernommen, saison_kontext-Recherche komplett via WebSearch/covers/CBS/SI/ESPN/Al Jazeera/FIFA.",
+  "hinweis": "WATCHDOG-RECOVERY Mi 15.07. 15:15 Berlin (Hauptroutine 16:00 nicht durchgelaufen - Watchdog-Slot 17:15 vorgezogen weil Signal frueh eindeutig). **WM 2026 Halbfinale 2 - EIN Spiel**: England vs Argentinien 21:00 CEST im Mercedes-Benz Stadium Atlanta (indoor, klimatisiert - kein Hitze-/Hoehen-Faktor). Vereine alle in Sommerpause (Bundesliga/PL/LaLiga/Serie A bis August), NBA-Finals seit 13.06. durch (Knicks Champion), UEFA-Q1 laeuft aber komplett Beobachtungs-Liga ohne belastbare Daten. Kasse 550 EUR bleibt Stufe 1 (rolling 30-Tage-ROI -10.7% laut statistik.json, klar unter Skim-Schwelle +5% - keine Aggressiv-Skim-Erlaubnis). **Coinflip-Klassifikation** aus MARKT-MIX-Regel 2 aktiv: alle 1X2-Quoten im 2.40-3.50-Range (ENG 2.55 / D 3.10 / ARG 3.05 laut SI/CBS/covers/ESPN/2026worldcupodds) -> KEIN SAFE, max 3 Tipps, Fokus auf Tor-Total + BTTS + Wackel-Torschuetze. Portfolio-Uebertrag aus HF1 (0:2 FRA-ESP): Unter 2.5 + BTTS Nein Doppel-Hit VOLL bestaetigt (Lesson 2026-07-14), HR26 K.O.-Torzahl-nach-unten und HR07-11-4 Klassen-Konkurrent-Bunker-Muster in HF-Phase reliable. Nur 3 saubere Einzeltipps, Gesamteinsatz 22.00 EUR = 4.0% Kasse. **KEINE Kombis** heute - Mini-Slate 1 Spiel, Layer-1-Regel (max 1 Bein/Spiel/Kombi) macht Kombi-Bau strukturell unmoeglich, Single-Point-of-Failure aus Lesson 2026-06-11 respektieren. 18+ / BZgA 0800 1372700.",
+  "spiele": [
+    {
+      "id": "2026-07-15-eng-arg",
+      "liga": "FIFA WM 2026 - Halbfinale",
+      "heim": "England",
+      "gast": "Argentinien",
+      "anstoss": "2026-07-15T21:00:00+02:00",
+      "stadion": "Mercedes-Benz Stadium, Atlanta GA (indoor, klimatisiert, 71.000)",
+      "turnier_phase": "Halbfinale",
+      "spielort_faktor": {
+        "stadt": "Atlanta GA",
+        "stadion": "Mercedes-Benz Stadium",
+        "land": "USA",
+        "hoehe_m": 320,
+        "klima_anstoss": "indoor klimatisiert (retractable roof zu bei Hitze) - Aussenklima Atlanta Mitte Juli ca. 32 Grad + hohe Luftfeuchte, Halle konstant ~22 Grad",
+        "anstoss_lokal": "15:00 ET / 12:00 PT",
+        "lokal_faktor": "neutraler Ort, keine Heimatmosphaere - Zuschauer stark gemischt (grosse argentinische US-Diaspora + britische Fan-Anreise). FBI hat Spiel als 'highest risk' klassifiziert (Rivalitaets-Historie)",
+        "implikationen": [
+          "Kein Hoehen-Nachteil, kein Hitze-Faktor durch Dach - beide Teams voll leistungsfaehig 90 Min plus Verlaengerung",
+          "Argentinien-Muedigkeits-Risiko nach 2xn.V. (R32+QF) NICHT durch Hitze verstaerkt, aber koerperlicher Grundzustand bleibt kritisch",
+          "Klimatisiert = kein Konditions-Vorteil fuer eine Seite, reines Fussball-Duell"
+        ]
+      },
+      "saison_kontext": {
+        "parallel_heim": "keine - Nationalmannschaft im WM-Vollfokus. Premier League Sommer-Pause bis 15.08., alle Legionaere (Bellingham Real, Kane Bayern, Rice/Saka Arsenal, Watkins Villa) im WM-Kader.",
+        "parallel_gast": "keine - Nationalmannschaft im WM-Vollfokus. Argentinien-Liga Winter-Pause, Legionaere (Lautaro Inter, Alvarez Atletico, Enzo/Mac Allister Chelsea/Liverpool, Garnacho Man United) in WM-Fokus.",
+        "saisonziel_heim": "**Erste WM-Finale-Teilnahme seit 1966** (60 Jahre Warten). Tuchel-Team: Gruppen-Sieger, R32 2:1 gg DR Kongo (Kane spaete Doppel-Elfer), R16 3:2 gg Mexiko in Mexico City trotz Roter Karte Quansah 45' (Bellingham Doppelpack), QF 2:1 n.V. gg Norwegen in Miami (Bellingham Doppelpack 93+ET nach Haaland-Fuehrung). Kane 6 Turnier-Tore, Bellingham 6 Turnier-Tore (Doppelpack in 2 aufeinanderfolgenden K.O.-Runden = erster Spieler seit Maradona 1986).",
+        "saisonziel_gast": "**Titelverteidigung** (WM 2022 Sieger). Messi 6. WM = Rekord, 39 Jahre alt. Route Gruppen-Sieger, R32 gg Kap Verde spaeter Winner, R16 3:2 gg Aegypten spaeter Winner (drama-lastig), QF 3:1 n.V. gg Schweiz (Alvarez 112, Lautaro 120+1, Embolo Rot 72). Messi 8 Turnier-Tore = Golden-Boot-Fuehrer (+21 WM-Karriere-Tore neuer Rekord).",
+        "motivations_asymmetrie": "**Historisch aufgeladenes Duell, marginal ENG-Fav** (advance 1.83 vs 1.95, 90min +155 vs +205 - klarer Coinflip-Range). ENG-Edge = stabile Tuchel-Rotation + Klassen-Kader-Tiefe + Bellingham-K.O.-Form. ARG-Edge = Turnier-Erfahrung + Messi-Sonderklasse. **Argentinien Muedigkeits-Risiko** kritisch nach 2xn.V. R32+QF (Messi 210+ min in letzten 2 KO), England mit 30 min mehr Erholung als ARG (11.07. QF beide). Bunker-Vermutung ARG: hat in QF vs SUI in 90min gebunkert (1:1), erst n.V. gewonnen - HR07-11-4 Muster aktiv. Kein Klassen-Uebergewicht wie in HF1 (ESP vs FRA) - Draw-Weiterspiel realistischer aber Wackel-Zone.",
+        "recovery_heim": "5 Tage seit QF n.V. Norwegen 11.07. Miami (2:1 n.V. mit Bellingham-Doppelpack 93+ET). **Reece James zurueck im Training** und Startelf-Kandidat RV. **Marc Guehi Hamstring** wurde vor Wochenvorschau befuerchtet - laut ESPN/SI-Vorschau Guehi trotzdem Startelf-IV. **Declan Rice** hatte Krankheit + Muedigkeit in QF (HZ-Auswechslung), laut Al Jazeera 'shaken off illness and fatigue - hope back in starting XI'. Quansah 2. Spielsperre serviert (rot R16 Mexiko) - fuer HF nicht relevant. Kane/Bellingham/Kane voll fit.",
+        "recovery_gast": "4 Tage seit QF n.V. Schweiz 11.07. Kansas City (3:1 n.V. mit Alvarez 112 + Lautaro 120+1). **Doppelte-Verlaengerung-Ausgezehrtheit** (R32 Kap Verde + QF SUI beide ins 120min) - koerperlicher Zustand kritischer als ENG. Scaloni rotiert traditionell wenig - Messi/Enzo/Mac Allister/De Paul spielten 210+ min in letzten 2 KO. Keine gemeldeten neuen Ausfaelle, Otamendi/Romero-IV stabil, Alvarez + Lautaro angeschlagen aber Startelf.",
+        "quellen": [
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+          "https://www.espn.com/soccer/story/_/id/49349303/england-vs-argentina-fifa-world-cup-2026-tv-channel-how-watch-kick-live-stream-injury-predicted-line-ups",
+          "https://www.aljazeera.com/sports/2026/7/15/england-argentina-fifa-world-cup-semifinal-thomas-tuchel",
+          "https://www.aljazeera.com/sports/2026/7/15/argentina-england-world-cup-semifinal-messi-kane-prediction-time",
+          "https://www.si.com/soccer/england-predicted-lineup-vs-argentina-world-cup-semifinal-7-15-26",
+          "https://www.cbssports.com/soccer/news/free-2026-world-cup-anytime-goalscorer-picks-odds-lionel-messi-tops-best-bets-for-england-vs-argentina/",
+          "https://www.covers.com/world-cup/england-vs-argentina-prediction-picks-odds-wednesday-7-15-2026",
+          "https://2026worldcupodds.com/england-vs-argentina/",
+          "https://www.si.com/betting/england-vs-argentina-opening-odds-for-world-cup-semifinals-will-england-make-history"
+        ]
+      },
+      "aufstellung_erwartet_heim": "4-2-3-1: Pickford - James, Konsa, Guehi, O'Reilly - Rice, Anderson - Saka, Bellingham, Gordon - Kane (laut ESPN + SI 15.07. Vorschau, Rice-Rueckkehr aus Krankheit erwartet)",
+      "aufstellung_erwartet_gast": "4-3-3: Martinez - Molina, Romero, Otamendi, Tagliafico - De Paul, Enzo, Mac Allister - Messi, Alvarez, Lautaro (Scaloni Standard-XI, keine erwarteten Rotationen)",
+      "quoten_bet365": {
+        "sieg_heim_90min": 2.55,
+        "draw_90min": 3.1,
+        "sieg_gast_90min": 3.05,
+        "dc_1x": 1.4,
+        "dc_x2": 1.55,
+        "dc_12": 1.32,
+        "ueber_2_5": 2.15,
+        "unter_2_5": 1.65,
+        "btts_ja": 1.72,
+        "btts_nein": 2.0,
+        "kane_anytime": 2.7,
+        "bellingham_anytime": 3.2,
+        "messi_anytime": 2.4,
+        "lautaro_anytime": 3.75,
+        "alvarez_anytime": 4.2,
+        "saka_anytime": 4.5,
+        "gordon_anytime": 5.5,
+        "advance_eng": 1.83,
+        "advance_arg": 1.95,
+        "hinweis": "Stand 14.-15.07.2026 laut SI (+155 ENG / +205 ARG 90min) + CBS (Anytime-Torschuetzen-Preise Messi +140, Kane +170, Bellingham +220, Lautaro +275, Alvarez +320) + 2026worldcupodds.com + ESPN gameId 760515. Bei bet365 live pruefen - HF-Quoten koennen bei letzten Line-up-News schwanken."
+      },
+      "news": [
+        "**Coinflip-Klassifikation**: 1X2-Quoten alle im MARKT-MIX-Coinflip-Range (2.40-3.50) -> KEIN SAFE zulaessig, max 3 Tipps, Fokus Tor-Total + BTTS + Wackel-Torschuetze",
+        "**HR26 K.O.-Torzahl-nach-unten VOLL bestaetigt in HF1** (FRA-ESP 0:2 mit 2 Toren) - Unter-2.5-These traegt weiter in HF-Phase",
+        "**HR07-11-4 Klassen-Konkurrent-Bunker-Muster** aktiv: ARG hat in QF gg SUI in 90min gebunkert (1:1, Sieg erst n.V.), England hat in QF gg NOR ebenfalls 90min-Remis + n.V. gebraucht -> Doppel-90min-Bunker-Erfahrung reduziert Tor-Erwartung weiter",
+        "**Portfolio-Uebertrag HF1**: Unter 2.5 (Goldgrube +28% ROI n=27) + BTTS Nein Doppel-Hit war exakter Blueprint fuer FRA-ESP (0:2), gleiche These traegt fuer ENG-ARG",
+        "**Argentinien Muedigkeit** nach 2xn.V. R32+QF: Messi/Enzo/Mac Allister/De Paul 210+ min in letzten 2 KO, koerperlich kritischer als England (30min mehr Erholung)",
+        "**Bellingham als K.O.-Ausnahme** vom Top-Scorer-Wackel-Cluster: Doppelpack in R16 vs Mexiko + Doppelpack QF vs Norwegen = erster Spieler seit Maradona 1986 mit Back-to-Back-KO-Doppelpack. 6 Turnier-Tore, mehr Strafraum-Beruehrungen als Kane trotz 48min weniger. Torschuetzen-Tipp mit Wackel-Kategorie gerechtfertigt (Turnier-Fehl-Cluster fuer Top-Scorer siehe Lessons 2026-07-10/12)",
+        "**Kane 6 Turnier-Tore aber HR07-11-1 Fehl-Cluster im QF**: 0 Tore vs Norwegen trotz Turnier-Form. Klassen-Konkurrent-Modus mit dichter ARG-Defense (Otamendi/Romero) macht Kane-Anytime WACKEL statt VALUE",
+        "**Messi 8 Turnier-Tore aber ebenfalls 0 vs Schweiz im QF** - identisches HR07-11-1 Muster. Anytime @ 2.40 verlockend aber Wackel-Zone bei Klassen-Duell",
+        "**Historisches Duell**: erstes ENG-ARG WM-Duell seit 2005-Testspiel-Verweisung Messi (Messi wird das erste Mal gegen England spielen), FBI-Klassifikation 'highest risk' wegen Rivalitaets-Historie (1966 'Animals', 1986 Maradona-Hand, 2002 Beckham-Elfer)",
+        "**Referee**: laut ESPN Vorschau internationaler Top-Ref, Elfmeter-Wahrscheinlichkeit moderat",
+        "**bet365 2:0-Insurance aktiv** WM 2026 - aber nur bei direkter Sieg-Wette (nicht DC/Unter/BTTS)",
+        "**Einwechslungs-Boost aktiv**: Kane-Ersatz Watkins (Aston Villa Turnier-Bank), Bellingham-Ersatz Gallagher/Foden, Messi-Ersatz Nico Paz/Correa, Lautaro-Ersatz Alvarez (bereits Startelf - kein direkter Sub-Ersatz)"
+      ],
+      "tipps": [
+        {
+          "id": "eng-arg-1",
+          "kategorie": "value",
+          "markt": "Unter 2.5 Tore ENG-ARG (90 Min)",
+          "quote": 1.65,
+          "edge_prozent": 10.0,
+          "faire_quote": 1.5,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 11.0,
+          "begruendung": "**Bester Tipp des Dossiers**: Markt-Goldgrube 'Unter 2.5 Tore' fuehrt statistik.json mit +28.0% ROI / 70.4% Hitrate (n=27) - passt exakt auf Klassen-Konkurrent-K.O.-Setup. HR26 K.O.-Torzahl-nach-unten wurde in HF1 (FRA-ESP 0:2, 2 Tore) VOLL bestaetigt. **Beide Teams haben in ihren QF in 90min gebunkert** (ENG-NOR 1:1, ARG-SUI 1:1) - Doppel-90min-Bunker-Erfahrung + ARG-Muedigkeit nach 2xn.V. + zwei sehr organisierte Defensiv-Achsen (ENG Konsa-Guehi + Rice-Anderson-Doppel-6, ARG Otamendi-Romero + Enzo-Mac Allister-Riegel). Klassen-Konkurrent-Duell reduziert typischerweise Tor-Total, weil kein Team ins offene Messer laeuft. Faire Quote bei 55% real = 1.82, bei 60% = 1.67. bet365 1.65 -> klarer VALUE. Reality-Check statistik.json: Kategorie 'value' 58.1% Hitrate + 10.2% ROI, Unter 2.5 mein bestes Markt-Segment ueberhaupt. **90-Min-Regel**: Verlaengerung + Elfmeter zaehlen NICHT rein, was Wahrscheinlichkeit weiter erhoeht bei K.O.-HF wo Verlaengerungs-Wahrscheinlichkeit ~27% laut Opta-Supercomputer. Stake 2.0% = 11.00 EUR (Standard-VALUE-Stake Stufe 1, Kasse 550 EUR).",
+          "beruecksichtigte_lessons": [
+            "HR26 K.O.-Phase Tor-Total tendiert NACH UNTEN (VOLL bestaetigt in HF1 FRA-ESP)",
+            "Markt-Goldgrube 'Unter 2.5 Tore' aktiv suchen (Goldgrube +28.0% ROI / 70.4% n=27)",
+            "HR07-11-4 Klassen-Konkurrent-Bunker-Muster (beide Teams in QF gebunkert)",
+            "Portfolio-Uebertrag HF1 (Lesson 2026-07-14 Doppel-Hit These)"
+          ]
+        },
+        {
+          "id": "eng-arg-2",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen: NEIN (BTTS Nein)",
+          "quote": 2.0,
+          "edge_prozent": 6.0,
+          "faire_quote": 1.88,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 8.25,
+          "begruendung": "Passt schluessig zur Unter-2.5-These und war in HF1 FRA-ESP der Doppel-Hit-Partner (FRA zu-null blieb, 0:2). In K.O.-Klassen-Konkurrent-Duellen (ohne Muss-Sieg-Asymmetrie) haelt sich in ~50% der Faelle ein Team komplett zu-null. Historischer Rueckhalt WM 2026 K.O.-Runden: QF hatte 2 clean sheets in 4 (FRA 2:0 MAR, ARG 3:1 SUI mit SUI-Tor spaet), HF1 = ESP zu-null gg FRA. ENG Konsa-Guehi-Achse: 2 Gegentore in R32+R16+QF (Mexiko-2 + Norwegen-1 in n.V.), ARG Otamendi-Romero: 4 Gegentore aber alle im ersten Halbfeld (KO frueh dramatisch). Beide Teams 0-zu-null-faehig, insb. bei Bunker-Setup. Faire Quote bei 53% = 1.89, bei 50% = 2.00. bet365 bei 2.00 = leicht positiver Edge. **Korrelations-Warnung**: Tipp 1 (Unter 2.5) und Tipp 2 (BTTS Nein) sind hoch korreliert - beide fallen auf 'Defense wins' - daher Stake nur 1.5% (nicht 2.0%). Bei 0:0/1:0/0:1 gehen beide durch, bei 1:1 verliert Unter aber nicht BTTS-Nein, bei 2:1 verlieren beide. Reality-Check markt_bluter.json: BTTS unauffaellig sauber, nicht gelistet. Stake 1.5% = 8.25 EUR.",
+          "beruecksichtigte_lessons": [
+            "HR26 K.O.-Phase-Vorsicht - defensive Systeme dominieren",
+            "Klassen-Konkurrent-Duell K.O.-HF-Doku (CLAUDE.md WM-Turnier-Phasen)",
+            "Portfolio-Uebertrag HF1 Lesson 2026-07-14 (BTTS Nein Doppel-Hit-Partner)",
+            "Korrelations-Vorsicht: bei stark korrelierten Tipps Stake reduzieren (Portfolio-Risiko-Management)"
+          ]
+        },
+        {
+          "id": "eng-arg-3",
+          "kategorie": "wackel",
+          "markt": "Jude Bellingham trifft jederzeit",
+          "quote": 3.2,
+          "edge_prozent": 4.0,
+          "faire_quote": 3.08,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 2.75,
+          "begruendung": "**Bellingham als K.O.-Ausnahme** vom Top-Scorer-Wackel-Cluster (Lesson 2026-07-10 Kane/Messi/Haaland alle 0 im QF): Bellingham hat Doppelpack in R16 vs Mexiko UND Doppelpack in QF vs Norwegen (93+ET Winner) - erster Spieler seit Maradona 1986 mit Back-to-Back-KO-Doppelpack. 6 Turnier-Tore + mehr Strafraum-Beruehrungen als Kane trotz 48min weniger Spielzeit. Zweit-Zentrums-Rolle bricht Bunker aus zweiter Reihe (Argentinien wird sich auf Kane konzentrieren). Faire Quote bei 32% real = 3.13, bet365 bei 3.20 leicht positiver Edge. **WACKEL statt VALUE** trotz Form: WM-2026-Viertelfinale-Torschuetzen-Cluster (Lesson 2026-07-12: 5 WACKEL-Tipps auf Torschuetze in QF, 4 verloren = 80%) mahnt zur Vorsicht, plus Klassen-Konkurrent-Modus mit dichter Defense reduziert Chancen selbst fuer Form-Spieler. Reality-Check statistik.json: 'wackel' Kategorie 42.6% Hitrate / -3.8% ROI (n=108) - defensive Kategorie-Wahl. Stake 0.5% = 2.75 EUR (Standard-Wackel-Stake Stufe 1). Bellingham als Zweit-Zentrum weniger im Defensiv-Fokus als Kane -> valider Insurance-Tipp gg Under-These falls doch offen.",
+          "beruecksichtigte_lessons": [
+            "Bellingham Back-to-Back-KO-Doppelpack Ausnahme-Muster (R16+QF)",
+            "Top-Scorer-Wackel-Standard K.O. (Lesson 2026-07-10 - Bellingham als Zweit-Zentrum-Ausnahme statt Kane)",
+            "WM-2026-QF-Torschuetzen-Verlust-Cluster (Lesson 2026-07-12: 5 WACKEL, 4 verloren) -> WACKEL statt VALUE",
+            "Merino-Late-Sub-Muster + Bellingham-Late-Trigger (Doppelpack 93+ET vs Norwegen)"
+          ]
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "1:2",
+        "halbzeit": "0:0",
+        "status": "beendet",
+        "quelle": "WebSearch ESPN + Sky Sports + Al Jazeera + NBC + FIFA + sport.de + sportschau (15.-16.07.2026)"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "eng-arg-1",
+          "spiel_id": "2026-07-15-eng-arg",
+          "markt": "Unter 2.5 Tore ENG-ARG (90 Min)",
+          "markt_typ": "Unter 2.5 Tore",
+          "kategorie": "value",
+          "status": "verloren",
+          "einsatz_euro": 11.0,
+          "quote": 1.65,
+          "gewinn_faktor": -1.0,
+          "netto_euro": -11.0,
+          "kommentar": "Endstand 1:2 nach 90 Min = 3 Tore total, damit klar UEBER 2.5. Doppel-Bunker-These bis Min 55 gehalten (0:0 HZ + Gordon-Fuehrung erst Min 55), aber ARG-Comeback mit 2 Toren in Min 85 (Enzo Fernandez) + Min 90+2 (Lautaro Martinez per Kopf, beide Messi-Assist) hat Under-2.5-These gekippt. Portfolio-Uebertrag HF1 (0:2 FRA-ESP) hat sich NICHT wiederholt - HF2 doch offener trotz gleichem Klassen-Konkurrent-Setup.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "eng-arg-2",
+          "spiel_id": "2026-07-15-eng-arg",
+          "markt": "Beide Teams treffen: NEIN (BTTS Nein)",
+          "markt_typ": "Beide Teams treffen",
+          "kategorie": "value",
+          "status": "verloren",
+          "einsatz_euro": 8.25,
+          "quote": 2.0,
+          "gewinn_faktor": -1.0,
+          "netto_euro": -8.25,
+          "kommentar": "Beide Teams trafen - ENG (Gordon 55') + ARG (Fernandez 85' + Lautaro 90+2'). Korrelations-Falle wie im Dossier gewarnt (Stake defensiv 1.5% statt 2.0%) - beide 'Defense wins'-Tipps sind zusammen gefallen. Konsa-Guehi + Otamendi-Romero-Defensiv-Achsen hielten 84 Min stand, dann kollabierte das Portfolio doppelt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "eng-arg-3",
+          "spiel_id": "2026-07-15-eng-arg",
+          "markt": "Jude Bellingham trifft jederzeit",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "kategorie": "wackel",
+          "status": "verloren",
+          "einsatz_euro": 2.75,
+          "quote": 3.2,
+          "gewinn_faktor": -1.0,
+          "netto_euro": -2.75,
+          "kommentar": "Bellingham 90 Min auf dem Feld (Post-Match-Rangelei mit Barco bestaetigt Anwesenheit bis Schluss), kein Tor. Einwechslungs-Boost NICHT anwendbar - Bellingham selbst nicht ausgewechselt worden. Back-to-Back-KO-Doppelpack-Serie (R16+QF) ist im HF gerissen - WM-2026-QF-Torschuetzen-Verlust-Cluster (4/5 verloren) setzt sich damit im HF fort (jetzt 5/6 = 83%).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "1:2",
+        "tore": [
+          {"min": 55, "team": "heim", "spieler": "Anthony Gordon (Volley nach Rogers-Flanke)", "stand_danach": "1:0"},
+          {"min": 85, "team": "gast", "spieler": "Enzo Fernandez (Kopfball nach Messi-Assist)", "stand_danach": "1:1"},
+          {"min": "90+2", "team": "gast", "spieler": "Lautaro Martinez (Kopfball nach Messi-Assist)", "stand_danach": "1:2"}
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Kein Drehungs-Fall nach Algorithmus - Differenz nie >= 2 Tore. Aber DRAMATURGISCHER Fuehrungsverlust: England fuehrte 30min (Min 55 bis 85), dann 2 spaete ARG-Tore in 7 Minuten (85 + 90+2) kippten die Partie. Bei 2:0-Insurance-Regel (WM 2026 aktiv): keine Rettung fuer irgendeinen Sieg-Tipp da nie 2-Tore-Puffer erreicht wurde."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Argentinien",
+          "kein_team_zu_null": true,
+          "erster_torschuetze": "Anthony Gordon (Min 55)",
+          "elfmeter_im_spiel": false,
+          "gewinner": "Argentinien (2:1 in 90 Min, kein n.V. noetig)"
+        },
+        "rotation_highlights": [
+          {"team": "heim", "spieler": "Rogers", "details": "Startete statt Saka - Tuchel-Ueberraschungs-Rotation nach QF. Rogers lieferte trotzdem den Assist zum 1:0 (Flanke auf Gordon Min 55). Saka fiel aus Startelf raus, kam nur als Sub."},
+          {"team": "heim", "spieler": "Anderson", "details": "Rice-Partner im Doppel-6, dominante 1. HZ - trotzdem konnte England Dominanz nicht in Tore ummuenzen. Klassisches Mueller-Muster (viel Ballbesitz, wenig Zwingendes)."},
+          {"team": "gast", "spieler": "Alvarez", "details": "Angeschlagen aus QF (n.V.-Verlaengerung) - Scaloni liess ihn trotzdem starten. Messi + Lautaro + Fernandez lieferten den 2-Tor-Coup, Alvarez blieb blass."}
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "PORTFOLIO-KOMPLETT-CRASH: Alle 3 Tipps verloren (-22.00 EUR). Under 2.5 + BTTS Nein Doppel-Portfolio-Uebertrag aus HF1 (FRA-ESP 0:2) hat sich NICHT wiederholt trotz identischem Klassen-Konkurrent-Setup + Doppel-Bunker-QF-Erfahrung. Korrelations-Falle voll materialisiert - beide Value-Tipps fielen zusammen wie im Dossier als Risiko angesprochen.",
+          "SPAETE-TORE-CLUSTER-EXTREM: 2 Tore in Min 85 + 90+2 zerlegten die Under-2.5-These komplett. HF1 hatte spaeten Verlauf (Min 22 Elfmeter + 58 Verteidiger-Tor) - HF2 komplett anders (0:0 bis 55, dann 3 Tore in 35 min). K.O.-Muster ist heterogener als HR26 (Tor-Total NACH UNTEN) suggeriert.",
+          "MESSI-ASSIST-DOPPEL-COUP: Beide ARG-Tore aus Messi-Flanken (Kopfball Fernandez + Kopfball Lautaro). Messi 8 Turnier-Tore + jetzt 2 Assists im HF = kompletter Turnier-Impact. Messi-Anytime @ 2.40 im Dossier explizit ausgelassen wegen QF-0-Cluster-These - stimmte, aber Assist-Kalkulation wurde nicht aufgemacht.",
+          "BELLINGHAM-K.O.-DOPPELPACK-SERIE GEBROCHEN: R16 Doppelpack + QF Doppelpack + HF 0 Tore. Back-to-Back-KO-Doppelpack-Ausnahme-These aus Dossier gescheitert. WM-2026-QF-Torschuetzen-Verlust-Cluster (Lesson 2026-07-12: 4/5) erweitert sich auf HF (jetzt 5/6 = 83%) - Torschuetzen-Kategorie im K.O. bleibt hoch-riskant.",
+          "ARG-MUEDIGKEITS-THESE KLAR WIDERLEGT: Doppelte-Verlaengerung-Ausgezehrtheit aus R32+QF sollte Bunker-Modus verstaerken - stattdessen ARG-Comeback in letzten 5 Min mit 2 Toren. Physio/Fitness-Reserve-Interpretation von 'Muedigkeit' war zu einseitig - Messi-Konditions-Vorteil (Recovery + Klasse) hat Ausgezehrtheit ueberkompensiert.",
+          "ENG-TUCHEL-TAKTIK-KRITIK OEFFENTLICH: Al Jazeera/Sky/Yahoo/CODE Sports berichten 'sackable tactics' nach 1:0-Fuehrung: England zog sich zu tief zurueck statt zu killen. Klassisches Klassen-Konkurrent-Fuehrungs-Verwaltungs-Fehl-Muster - fuer Zukunfts-Analyse: bei 1:0-Fuehrung des marginalen Favoriten ab Min 55 gg Klassen-Gegner die BTTS-Nein-These aktiv gegen den 2. Halbzeit-Momentum-Shift pruefen."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "eng-arg-1",
+      "tipp_id": "eng-arg-1",
+      "spiel_id": "2026-07-15-eng-arg",
+      "spiel": "England vs Argentinien",
+      "liga": "FIFA WM 2026 - Halbfinale",
+      "anstoss": "2026-07-15T21:00:00+02:00",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore (90 Min)",
+      "quote": 1.65,
+      "edge_prozent": 10.0,
+      "faire_quote": 1.5,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 11.0,
+      "begruendung_kurz": "Markt-Goldgrube (+28% ROI n=27) + HR26 K.O.-Torzahl-nach-unten in HF1 (FRA-ESP 0:2) VOLL bestaetigt + Doppel-90min-Bunker-Erfahrung beider Teams im QF + ARG-Muedigkeit nach 2xn.V. Faire Quote 1.50, bet365 1.65 -> klarer VALUE.",
+      "rang": 1
+    },
+    {
+      "id": "eng-arg-2",
+      "tipp_id": "eng-arg-2",
+      "spiel_id": "2026-07-15-eng-arg",
+      "spiel": "England vs Argentinien",
+      "liga": "FIFA WM 2026 - Halbfinale",
+      "anstoss": "2026-07-15T21:00:00+02:00",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen: NEIN",
+      "quote": 2.0,
+      "edge_prozent": 6.0,
+      "faire_quote": 1.88,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung_kurz": "Portfolio-Uebertrag HF1 (FRA zu-null im 0:2 = BTTS-Nein-Doppel-Hit-Partner). Klassen-Konkurrent-K.O. mit organisierten Defensiv-Achsen (Konsa-Guehi / Otamendi-Romero) -> ~50% ein Team zu-null. Korrelation mit Tipp 1 - Stake defensiv 1.5%.",
+      "rang": 2
+    },
+    {
+      "id": "eng-arg-3",
+      "tipp_id": "eng-arg-3",
+      "spiel_id": "2026-07-15-eng-arg",
+      "spiel": "England vs Argentinien",
+      "liga": "FIFA WM 2026 - Halbfinale",
+      "anstoss": "2026-07-15T21:00:00+02:00",
+      "kategorie": "wackel",
+      "markt": "Jude Bellingham trifft jederzeit",
+      "quote": 3.2,
+      "edge_prozent": 4.0,
+      "faire_quote": 3.08,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 2.75,
+      "begruendung_kurz": "Bellingham K.O.-Ausnahme (Doppelpack R16 + Doppelpack QF = seit Maradona 1986 nicht mehr), 6 Turnier-Tore, mehr Strafraum-Beruehrungen als Kane. WACKEL wegen QF-Torschuetzen-Verlust-Cluster (Lesson 2026-07-12: 4/5 verloren) + Klassen-Konkurrent-Dichte-Defense.",
+      "rang": 3
+    }
+  ],
+  "kombis": [],
+  "lessons_angewandt": [
+    {
+      "lesson_id": "HR26",
+      "titel": "K.O.-Phase Tor-Total tendiert NACH UNTEN",
+      "quelle_datum": "2026-07-10",
+      "angewandt_auf": [
+        "eng-arg-1",
+        "eng-arg-2"
+      ],
+      "anwendung": "Unter 2.5 als Haupt-Tipp + BTTS Nein als Portfolio-Partner in HF-Klassen-Konkurrent-Duell. In HF1 FRA-ESP 0:2 VOLL bestaetigt."
+    },
+    {
+      "lesson_id": "HR07-11-4",
+      "titel": "Klassen-Konkurrent-K.O.-Bunker-Muster",
+      "quelle_datum": "2026-07-11",
+      "angewandt_auf": [
+        "eng-arg-1",
+        "eng-arg-2"
+      ],
+      "anwendung": "Beide Teams haben in QF in 90min gebunkert (ENG-NOR 1:1, ARG-SUI 1:1). Doppel-Bunker-Erfahrung reduziert Tor-Erwartung weiter."
+    },
+    {
+      "lesson_id": "Portfolio-Uebertrag-HF1",
+      "titel": "Unter 2.5 + BTTS Nein Doppel-Hit-Blueprint aus FRA-ESP",
+      "quelle_datum": "2026-07-14",
+      "angewandt_auf": [
+        "eng-arg-1",
+        "eng-arg-2"
+      ],
+      "anwendung": "HF1 lieferte exakt dieses Portfolio (0:2 mit 2 Toren, FRA zu-null). Fuer HF2 identische These bei zwei Klassen-Konkurrent-Defenses."
+    },
+    {
+      "lesson_id": "Top-Scorer-Wackel-K.O.-Standard",
+      "titel": "Kane/Messi/Haaland alle 0 im QF trotz Turnier-Form",
+      "quelle_datum": "2026-07-10",
+      "angewandt_auf": [
+        "eng-arg-3"
+      ],
+      "anwendung": "Bellingham als Zweit-Zentrum-Ausnahme statt Kane/Messi als Torschuetzen-Tipp. Ausnahme rechtfertigt WACKEL statt Verzicht - Doppelpack-Pattern in R16+QF empirischer Rueckhalt."
+    },
+    {
+      "lesson_id": "WM-2026-QF-Torschuetzen-Verlust-Cluster",
+      "titel": "5 WACKEL-Torschuetzen-Tipps im QF, 4 verloren (80%)",
+      "quelle_datum": "2026-07-12",
+      "angewandt_auf": [
+        "eng-arg-3"
+      ],
+      "anwendung": "Torschuetzen-Kategorie hoch gedrueckt auf WACKEL (nicht VALUE). Stake konservativ 0.5% - Cluster-Vorsicht dominant."
+    },
+    {
+      "lesson_id": "Kombi-Layer-1-Single-Match-Sperre",
+      "titel": "Max 1 Bein pro Spiel pro Kombi -> Mini-Slate keine Kombis",
+      "quelle_datum": "2026-06-11",
+      "angewandt_auf": [
+        "dossier"
+      ],
+      "anwendung": "1-Spiel-Slate macht Kombi-Bau strukturell unmoeglich - keine Kombis heute. Portfolio bleibt sauber, keine kuenstlich-korrelierten Kombis."
+    },
+    {
+      "lesson_id": "Coinflip-Kein-SAFE-Regel",
+      "titel": "1X2-Quoten alle 2.40-3.50 -> Coinflip-Modus",
+      "quelle_datum": "MARKT-MIX",
+      "angewandt_auf": [
+        "dossier"
+      ],
+      "anwendung": "ENG 2.55 / D 3.10 / ARG 3.05 exakt im Coinflip-Range. Kein SAFE-Tipp im Dossier zulaessig, max 3 Tipps, Fokus Tor-Total + BTTS + Wackel-Torschuetze."
+    },
+    {
+      "lesson_id": "Kasse-Stufe-1-Aufbau",
+      "titel": "550 EUR + rolling 30d ROI -10.7% -> Stufe 1 aktiv",
+      "quelle_datum": "CLAUDE.md",
+      "angewandt_auf": [
+        "dossier"
+      ],
+      "anwendung": "Aggressiv-Skim NICHT zugelassen (rolling ROI unter Schwelle +5%). Standard-Stakes 2% Value / 1.5% Value-korreliert / 0.5% Wackel. Gesamteinsatz 22 EUR = 4.0% Kasse - konservativ."
+    }
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "einzeltipps_ergebnis": [
+    {
+      "id": "eng-arg-1",
+      "tipp_id": "eng-arg-1",
+      "spiel_id": "2026-07-15-eng-arg",
+      "spiel": "England vs Argentinien",
+      "liga": "FIFA WM 2026 - Halbfinale",
+      "anstoss": "2026-07-15T21:00:00+02:00",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore (90 Min)",
+      "quote": 1.65,
+      "edge_prozent": 10.0,
+      "faire_quote": 1.5,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 11.0,
+      "begruendung_kurz": "Markt-Goldgrube (+28% ROI n=27) + HR26 K.O.-Torzahl-nach-unten in HF1 (FRA-ESP 0:2) VOLL bestaetigt + Doppel-90min-Bunker-Erfahrung beider Teams im QF + ARG-Muedigkeit nach 2xn.V. Faire Quote 1.50, bet365 1.65 -> klarer VALUE.",
+      "rang": 1,
+      "status": "verloren"
+    },
+    {
+      "id": "eng-arg-2",
+      "tipp_id": "eng-arg-2",
+      "spiel_id": "2026-07-15-eng-arg",
+      "spiel": "England vs Argentinien",
+      "liga": "FIFA WM 2026 - Halbfinale",
+      "anstoss": "2026-07-15T21:00:00+02:00",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen: NEIN",
+      "quote": 2.0,
+      "edge_prozent": 6.0,
+      "faire_quote": 1.88,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 8.25,
+      "begruendung_kurz": "Portfolio-Uebertrag HF1 (FRA zu-null im 0:2 = BTTS-Nein-Doppel-Hit-Partner). Klassen-Konkurrent-K.O. mit organisierten Defensiv-Achsen (Konsa-Guehi / Otamendi-Romero) -> ~50% ein Team zu-null. Korrelation mit Tipp 1 - Stake defensiv 1.5%.",
+      "rang": 2,
+      "status": "verloren"
+    },
+    {
+      "id": "eng-arg-3",
+      "tipp_id": "eng-arg-3",
+      "spiel_id": "2026-07-15-eng-arg",
+      "spiel": "England vs Argentinien",
+      "liga": "FIFA WM 2026 - Halbfinale",
+      "anstoss": "2026-07-15T21:00:00+02:00",
+      "kategorie": "wackel",
+      "markt": "Jude Bellingham trifft jederzeit",
+      "quote": 3.2,
+      "edge_prozent": 4.0,
+      "faire_quote": 3.08,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 2.75,
+      "begruendung_kurz": "Bellingham K.O.-Ausnahme (Doppelpack R16 + Doppelpack QF = seit Maradona 1986 nicht mehr), 6 Turnier-Tore, mehr Strafraum-Beruehrungen als Kane. WACKEL wegen QF-Torschuetzen-Verlust-Cluster (Lesson 2026-07-12: 4/5 verloren) + Klassen-Konkurrent-Dichte-Defense.",
+      "rang": 3,
+      "status": "verloren"
+    }
+  ],
+  "kombis_ergebnis": [],
+  "ausgewertet_am": "2026-07-16T07:04:44+00:00"
+}

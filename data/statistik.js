@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-07-15T07:11:25+00:00",
+  "letzte_berechnung": "2026-07-16T07:12:09+00:00",
   "gesamt": {
-    "tipps": 515,
+    "tipps": 518,
     "gewonnen": 285,
-    "verloren": 219,
+    "verloren": 222,
     "push": 2,
     "offen": 9,
-    "einsatz": 506.0,
-    "netto": 27.13,
-    "trefferquote": 56.5,
-    "roi_prozent": 5.4
+    "einsatz": 509.0,
+    "netto": 24.13,
+    "trefferquote": 56.2,
+    "roi_prozent": 4.7
   },
   "letzte_30_tage": {
-    "tipps": 161,
-    "gewonnen": 91,
-    "verloren": 70,
+    "tipps": 154,
+    "gewonnen": 90,
+    "verloren": 64,
     "push": 0,
     "offen": 0,
-    "einsatz": 161.0,
-    "netto": -17.24,
-    "trefferquote": 56.5,
-    "roi_prozent": -10.7
+    "einsatz": 154.0,
+    "netto": -11.36,
+    "trefferquote": 58.4,
+    "roi_prozent": -7.4
   },
   "letzte_90_tage": {
-    "tipps": 515,
+    "tipps": 518,
     "gewonnen": 285,
-    "verloren": 219,
+    "verloren": 222,
     "push": 2,
     "offen": 9,
-    "einsatz": 506.0,
-    "netto": 27.13,
-    "trefferquote": 56.5,
-    "roi_prozent": 5.4
+    "einsatz": 509.0,
+    "netto": 24.13,
+    "trefferquote": 56.2,
+    "roi_prozent": 4.7
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -1026,15 +1026,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -24.3
     },
     "FIFA WM 2026 - Halbfinale": {
-      "tipps": 3,
+      "tipps": 6,
       "gewonnen": 2,
-      "verloren": 1,
+      "verloren": 4,
       "push": 0,
       "offen": 0,
-      "einsatz": 3.0,
-      "netto": 0.95,
-      "trefferquote": 66.7,
-      "roi_prozent": 31.7
+      "einsatz": 6.0,
+      "netto": -2.05,
+      "trefferquote": 33.3,
+      "roi_prozent": -34.2
     }
   },
   "nach_markt": {
@@ -5021,17 +5021,39 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 90.0
     },
     "Beide Teams treffen: NEIN (BTTS Nein)": {
-      "tipps": 1,
+      "tipps": 2,
       "gewonnen": 1,
-      "verloren": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 0.05,
+      "trefferquote": 50.0,
+      "roi_prozent": 2.5
+    },
+    "Unentschieden 90 Min FRA-ESP": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
       "push": 0,
       "offen": 0,
       "einsatz": 1.0,
-      "netto": 1.05,
-      "trefferquote": 100.0,
-      "roi_prozent": 105.0
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
     },
-    "Unentschieden 90 Min FRA-ESP": {
+    "Unter 2.5 Tore ENG-ARG (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Jude Bellingham trifft jederzeit": {
       "tipps": 1,
       "gewonnen": 0,
       "verloren": 1,
@@ -5100,26 +5122,26 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 2.5
     },
     "Torschuetzen Jederzeit": {
-      "tipps": 98,
+      "tipps": 99,
       "gewonnen": 35,
-      "verloren": 61,
+      "verloren": 62,
       "push": 2,
       "offen": 0,
-      "einsatz": 98.0,
-      "netto": 3.86,
-      "trefferquote": 36.5,
-      "roi_prozent": 3.9
+      "einsatz": 99.0,
+      "netto": 2.86,
+      "trefferquote": 36.1,
+      "roi_prozent": 2.9
     },
     "Unter 2.5 Tore": {
-      "tipps": 27,
+      "tipps": 28,
       "gewonnen": 19,
-      "verloren": 8,
+      "verloren": 9,
       "push": 0,
       "offen": 0,
-      "einsatz": 27.0,
-      "netto": 7.56,
-      "trefferquote": 70.4,
-      "roi_prozent": 28.0
+      "einsatz": 28.0,
+      "netto": 6.56,
+      "trefferquote": 67.9,
+      "roi_prozent": 23.4
     },
     "Doppelte Chance 1X": {
       "tipps": 27,
@@ -5518,15 +5540,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -100.0
     },
     "Beide Teams treffen NEIN": {
-      "tipps": 3,
+      "tipps": 4,
       "gewonnen": 2,
-      "verloren": 1,
+      "verloren": 2,
       "push": 0,
       "offen": 0,
-      "einsatz": 3.0,
-      "netto": 0.8,
-      "trefferquote": 66.7,
-      "roi_prozent": 26.7
+      "einsatz": 4.0,
+      "netto": -0.2,
+      "trefferquote": 50.0,
+      "roi_prozent": -5.0
     },
     "Marokko zu Null": {
       "tipps": 1,
@@ -5641,26 +5663,26 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 225,
+      "tipps": 226,
       "gewonnen": 119,
-      "verloren": 101,
+      "verloren": 102,
       "push": 1,
       "offen": 4,
-      "einsatz": 221.0,
-      "netto": 12.46,
-      "trefferquote": 54.1,
-      "roi_prozent": 5.6
+      "einsatz": 222.0,
+      "netto": 11.46,
+      "trefferquote": 53.8,
+      "roi_prozent": 5.2
     },
     "2.00-3.00": {
-      "tipps": 77,
+      "tipps": 78,
       "gewonnen": 29,
-      "verloren": 46,
+      "verloren": 47,
       "push": 1,
       "offen": 1,
-      "einsatz": 76.0,
-      "netto": 1.76,
-      "trefferquote": 38.7,
-      "roi_prozent": 2.3
+      "einsatz": 77.0,
+      "netto": 0.76,
+      "trefferquote": 38.2,
+      "roi_prozent": 1.0
     },
     "1.00-1.50": {
       "tipps": 188,
@@ -5674,15 +5696,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 4.8
     },
     "3.00+": {
-      "tipps": 25,
+      "tipps": 26,
       "gewonnen": 7,
-      "verloren": 18,
+      "verloren": 19,
       "push": 0,
       "offen": 0,
-      "einsatz": 25.0,
-      "netto": 4.05,
-      "trefferquote": 28.0,
-      "roi_prozent": 16.2
+      "einsatz": 26.0,
+      "netto": 3.05,
+      "trefferquote": 26.9,
+      "roi_prozent": 11.7
     }
   },
   "nach_kategorie": {
@@ -5698,26 +5720,26 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 1.8
     },
     "value": {
-      "tipps": 302,
+      "tipps": 304,
       "gewonnen": 169,
-      "verloren": 122,
+      "verloren": 124,
       "push": 2,
       "offen": 9,
-      "einsatz": 293.0,
-      "netto": 29.96,
-      "trefferquote": 58.1,
-      "roi_prozent": 10.2
+      "einsatz": 295.0,
+      "netto": 27.96,
+      "trefferquote": 57.7,
+      "roi_prozent": 9.5
     },
     "wackel": {
-      "tipps": 108,
+      "tipps": 109,
       "gewonnen": 46,
-      "verloren": 62,
+      "verloren": 63,
       "push": 0,
       "offen": 0,
-      "einsatz": 108.0,
-      "netto": -4.1,
-      "trefferquote": 42.6,
-      "roi_prozent": -3.8
+      "einsatz": 109.0,
+      "netto": -5.1,
+      "trefferquote": 42.2,
+      "roi_prozent": -4.7
     },
     "risiko": {
       "tipps": 3,
@@ -5770,6 +5792,56 @@ window.__MIESMUSCHEL_STAT = {
     }
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-07-15",
+      "gesamt": {
+        "tipps": 3,
+        "gewonnen": 0,
+        "verloren": 3,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 3.0,
+        "netto": -3.0,
+        "trefferquote": 0.0,
+        "roi_prozent": -100.0
+      },
+      "spiele": [
+        {
+          "id": "2026-07-15-eng-arg",
+          "liga": "FIFA WM 2026 - Halbfinale",
+          "heim": "England",
+          "gast": "Argentinien",
+          "endstand": "1:2",
+          "tipps": [
+            {
+              "markt": "Unter 2.5 Tore ENG-ARG (90 Min)",
+              "quote": 1.65,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Endstand 1:2 nach 90 Min = 3 Tore total, damit klar UEBER 2.5. Doppel-Bunker-These bis Min 55 gehalten (0:0 HZ + Gordon-Fuehrung erst Min 55), aber ARG-Comeback mit 2 Toren in Min 85 (Enzo Fernandez) + Min 90+2 (Lautaro Martinez per Kopf, beide Messi-Assist) hat Under-2.5-These gekippt. Portfolio-Uebertrag HF1 (0:2 FRA-ESP) hat sich NICHT wiederholt - HF2 doch offener trotz gleichem Klassen-Konkurrent-Setup."
+            },
+            {
+              "markt": "Beide Teams treffen: NEIN (BTTS Nein)",
+              "quote": 2.0,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Beide Teams trafen - ENG (Gordon 55') + ARG (Fernandez 85' + Lautaro 90+2'). Korrelations-Falle wie im Dossier gewarnt (Stake defensiv 1.5% statt 2.0%) - beide 'Defense wins'-Tipps sind zusammen gefallen. Konsa-Guehi + Otamendi-Romero-Defensiv-Achsen hielten 84 Min stand, dann kollabierte das Portfolio doppelt."
+            },
+            {
+              "markt": "Jude Bellingham trifft jederzeit",
+              "quote": 3.2,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Bellingham 90 Min auf dem Feld (Post-Match-Rangelei mit Barco bestaetigt Anwesenheit bis Schluss), kein Tor. Einwechslungs-Boost NICHT anwendbar - Bellingham selbst nicht ausgewechselt worden. Back-to-Back-KO-Doppelpack-Serie (R16+QF) ist im HF gerissen - WM-2026-QF-Torschuetzen-Verlust-Cluster (4/5 verloren) setzt sich damit im HF fort (jetzt 5/6 = 83%)."
+            }
+          ]
+        }
+      ],
+      "kombis": []
+    },
     {
       "datum": "2026-07-14",
       "gesamt": {
