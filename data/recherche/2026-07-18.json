@@ -1,0 +1,129 @@
+{
+  "datum": "2026-07-18",
+  "erstellt_am": "2026-07-16T18:00:00+02:00",
+  "modus": "wochenende",
+  "hinweis": "Recherche-File Wochenend-Vorschau Sa 18.07.-So 19.07.2026: WM 2026 Spiel um Platz 3 (FRA-ENG) + WM-Finale (ARG-ESP). Squad-Verifikation via FIFA/Transfermarkt/kicker.",
+  "spiele": [
+    {
+      "id": "2026-07-18-fra-eng",
+      "liga": "FIFA WM 2026 - Spiel um Platz 3",
+      "heim": "Frankreich",
+      "gast": "England",
+      "anstoss": "2026-07-18T23:00:00+02:00",
+      "stadion": "Hard Rock Stadium, Miami Gardens FL",
+      "turnier_phase": "Spiel um Platz 3",
+      "squad_heim": [
+        {"name": "Mike Maignan", "position": "TW", "verein": "AC Milan"},
+        {"name": "Jules Kounde", "position": "RV", "verein": "FC Barcelona"},
+        {"name": "Dayot Upamecano", "position": "IV", "verein": "Bayern Muenchen"},
+        {"name": "Maxence Lacroix", "position": "IV", "verein": "Crystal Palace"},
+        {"name": "Theo Hernandez", "position": "LV", "verein": "AC Milan"},
+        {"name": "Adrien Rabiot", "position": "ZM", "verein": "Olympique Marseille"},
+        {"name": "Manu Kone", "position": "DM", "verein": "AS Roma"},
+        {"name": "Aurelien Tchouameni", "position": "DM", "verein": "Real Madrid"},
+        {"name": "Warren Zaire-Emery", "position": "ZM", "verein": "PSG"},
+        {"name": "Ousmane Dembele", "position": "RF", "verein": "PSG"},
+        {"name": "Rayan Cherki", "position": "OM", "verein": "Borussia Dortmund"},
+        {"name": "Desire Doue", "position": "LF", "verein": "PSG"},
+        {"name": "Michael Olise", "position": "RF", "verein": "Bayern Muenchen"},
+        {"name": "Kylian Mbappe", "position": "ST", "verein": "Real Madrid"},
+        {"name": "Marcus Thuram", "position": "ST", "verein": "Inter Mailand"},
+        {"name": "Hugo Ekitike", "position": "ST", "verein": "Liverpool"},
+        {"name": "Bradley Barcola", "position": "LF", "verein": "PSG"}
+      ],
+      "squad_gast": [
+        {"name": "Jordan Pickford", "position": "TW", "verein": "Everton"},
+        {"name": "Djed Spence", "position": "RV", "verein": "Tottenham"},
+        {"name": "Marc Guehi", "position": "IV", "verein": "Crystal Palace"},
+        {"name": "Ezri Konsa", "position": "IV", "verein": "Aston Villa"},
+        {"name": "Nico O'Reilly", "position": "LV", "verein": "Manchester City"},
+        {"name": "Reece James", "position": "RV", "verein": "Chelsea"},
+        {"name": "Kobbie Mainoo", "position": "DM", "verein": "Manchester United"},
+        {"name": "Elliot Anderson", "position": "DM", "verein": "Nottingham Forest"},
+        {"name": "Declan Rice", "position": "ZM", "verein": "Arsenal"},
+        {"name": "Morgan Rogers", "position": "OM", "verein": "Aston Villa"},
+        {"name": "Eberechi Eze", "position": "OM", "verein": "Crystal Palace"},
+        {"name": "Marcus Rashford", "position": "LF", "verein": "Aston Villa"},
+        {"name": "Bukayo Saka", "position": "RF", "verein": "Arsenal"},
+        {"name": "Jude Bellingham", "position": "OM", "verein": "Real Madrid"},
+        {"name": "Anthony Gordon", "position": "LF", "verein": "Newcastle"},
+        {"name": "Ollie Watkins", "position": "ST", "verein": "Aston Villa"},
+        {"name": "Harry Kane", "position": "ST", "verein": "Bayern Muenchen"}
+      ],
+      "injuries_heim": [
+        {"spieler": "William Saliba", "grund": "Rueckenverletzung", "status": "OUT saison-ende (aus HF Min 45)"}
+      ],
+      "injuries_gast": [
+        {"spieler": "Jordan Henderson", "grund": "Handgelenks-Bruch", "status": "OUT seit Turnier-Beginn"}
+      ],
+      "quellen_aggregator": [
+        "https://www.transfermarkt.de/frankreich/startseite/verein/3377",
+        "https://www.transfermarkt.de/england/startseite/verein/3299",
+        "https://www.kicker.de/wm-2026/spielplan",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+        "https://www.sportsmole.co.uk/football/france/world-cup-2026/predicted-lineups/saliba-out-cherki-in-predicted-france-xi-vs-england_601255.html",
+        "https://www.englandfootball.com/articles/2026/Jul/15/england-fixture-details-knockout-stage-20261107"
+      ]
+    },
+    {
+      "id": "2026-07-19-arg-esp",
+      "liga": "FIFA WM 2026 - Finale",
+      "heim": "Argentinien",
+      "gast": "Spanien",
+      "anstoss": "2026-07-19T21:00:00+02:00",
+      "stadion": "MetLife Stadium, East Rutherford NJ",
+      "turnier_phase": "Finale",
+      "squad_heim": [
+        {"name": "Emiliano Martinez", "position": "TW", "verein": "Aston Villa"},
+        {"name": "Nahuel Molina", "position": "RV", "verein": "Atletico Madrid"},
+        {"name": "Cristian Romero", "position": "IV", "verein": "Tottenham"},
+        {"name": "Lisandro Martinez", "position": "IV", "verein": "Manchester United"},
+        {"name": "Nicolas Otamendi", "position": "IV", "verein": "Benfica"},
+        {"name": "Nicolas Tagliafico", "position": "LV", "verein": "Olympique Lyon"},
+        {"name": "Leandro Paredes", "position": "DM", "verein": "Boca Juniors"},
+        {"name": "Rodrigo De Paul", "position": "ZM", "verein": "Atletico Madrid"},
+        {"name": "Enzo Fernandez", "position": "ZM", "verein": "Chelsea"},
+        {"name": "Alexis Mac Allister", "position": "ZM", "verein": "Liverpool"},
+        {"name": "Lionel Messi", "position": "ST", "verein": "Inter Miami"},
+        {"name": "Julian Alvarez", "position": "ST", "verein": "Atletico Madrid"},
+        {"name": "Lautaro Martinez", "position": "ST", "verein": "Inter Mailand"},
+        {"name": "Alejandro Garnacho", "position": "LF", "verein": "Manchester United"},
+        {"name": "Nico Paz", "position": "OM", "verein": "Como"},
+        {"name": "Angel Correa", "position": "ST", "verein": "Atletico Madrid"},
+        {"name": "Giovani Lo Celso", "position": "OM", "verein": "Tottenham"}
+      ],
+      "squad_gast": [
+        {"name": "Unai Simon", "position": "TW", "verein": "Athletic Bilbao"},
+        {"name": "Pedro Porro", "position": "RV", "verein": "Tottenham"},
+        {"name": "Pau Cubarsi", "position": "IV", "verein": "FC Barcelona"},
+        {"name": "Aymeric Laporte", "position": "IV", "verein": "Al Nassr"},
+        {"name": "Marc Cucurella", "position": "LV", "verein": "Chelsea"},
+        {"name": "Rodri", "position": "DM", "verein": "Manchester City"},
+        {"name": "Fabian Ruiz", "position": "DM", "verein": "PSG"},
+        {"name": "Pedri", "position": "ZM", "verein": "FC Barcelona"},
+        {"name": "Lamine Yamal", "position": "RF", "verein": "FC Barcelona"},
+        {"name": "Alex Baena", "position": "OM", "verein": "Aston Villa"},
+        {"name": "Dani Olmo", "position": "OM", "verein": "FC Barcelona"},
+        {"name": "Nico Williams", "position": "LF", "verein": "Athletic Bilbao"},
+        {"name": "Mikel Oyarzabal", "position": "ST", "verein": "Real Sociedad"},
+        {"name": "Ferran Torres", "position": "ST", "verein": "FC Barcelona"},
+        {"name": "Alvaro Morata", "position": "ST", "verein": "Galatasaray"},
+        {"name": "Mikel Merino", "position": "ZM", "verein": "Arsenal"}
+      ],
+      "injuries_heim": [],
+      "injuries_gast": [
+        {"spieler": "Yeremy Pino", "grund": "Schulterverletzung", "status": "OUT seit Gruppen-Phase"},
+        {"spieler": "Lamine Yamal", "grund": "Muskel-Sorge (humpelte nach HF)", "status": "erwartet fit"},
+        {"spieler": "Pedro Porro", "grund": "muskulaeres Problem", "status": "erwartet fit"}
+      ],
+      "quellen_aggregator": [
+        "https://www.transfermarkt.de/argentinien/startseite/verein/3437",
+        "https://www.transfermarkt.de/spanien/startseite/verein/3375",
+        "https://www.kicker.de/wm-2026/kader",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+        "https://www.sportsmole.co.uk/football/spain/world-cup-2026/predicted-lineups/yamal-status-and-pedri-decision-predicted-spain-xi-vs-argentina_601303.html",
+        "https://www.sportsmole.co.uk/football/argentina/world-cup-2026/predicted-lineups/alvarez-or-martinez-de-paul-or-simeone-predicted-argentina-xi-vs-spain_601305.html"
+      ]
+    }
+  ]
+}
