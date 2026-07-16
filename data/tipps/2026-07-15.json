@@ -142,56 +142,7 @@
       "kontext_check_status": "OK"
     }
   ],
-  "einzeltipps": [
-    {
-      "id": "eng-arg-1",
-      "spiel_id": "2026-07-15-eng-arg",
-      "spiel": "England vs Argentinien",
-      "liga": "FIFA WM 2026 - Halbfinale",
-      "anstoss": "2026-07-15T21:00:00+02:00",
-      "kategorie": "value",
-      "markt": "Unter 2.5 Tore (90 Min)",
-      "quote": 1.65,
-      "edge_prozent": 10.0,
-      "faire_quote": 1.5,
-      "empfohlener_einsatz_prozent": 2.0,
-      "empfohlener_einsatz_euro": 11.0,
-      "begruendung_kurz": "Markt-Goldgrube (+28% ROI n=27) + HR26 K.O.-Torzahl-nach-unten in HF1 (FRA-ESP 0:2) VOLL bestaetigt + Doppel-90min-Bunker-Erfahrung beider Teams im QF + ARG-Muedigkeit nach 2xn.V. Faire Quote 1.50, bet365 1.65 -> klarer VALUE.",
-      "rang": 1
-    },
-    {
-      "id": "eng-arg-2",
-      "spiel_id": "2026-07-15-eng-arg",
-      "spiel": "England vs Argentinien",
-      "liga": "FIFA WM 2026 - Halbfinale",
-      "anstoss": "2026-07-15T21:00:00+02:00",
-      "kategorie": "value",
-      "markt": "Beide Teams treffen: NEIN",
-      "quote": 2.0,
-      "edge_prozent": 6.0,
-      "faire_quote": 1.88,
-      "empfohlener_einsatz_prozent": 1.5,
-      "empfohlener_einsatz_euro": 8.25,
-      "begruendung_kurz": "Portfolio-Uebertrag HF1 (FRA zu-null im 0:2 = BTTS-Nein-Doppel-Hit-Partner). Klassen-Konkurrent-K.O. mit organisierten Defensiv-Achsen (Konsa-Guehi / Otamendi-Romero) -> ~50% ein Team zu-null. Korrelation mit Tipp 1 - Stake defensiv 1.5%.",
-      "rang": 2
-    },
-    {
-      "id": "eng-arg-3",
-      "spiel_id": "2026-07-15-eng-arg",
-      "spiel": "England vs Argentinien",
-      "liga": "FIFA WM 2026 - Halbfinale",
-      "anstoss": "2026-07-15T21:00:00+02:00",
-      "kategorie": "wackel",
-      "markt": "Jude Bellingham trifft jederzeit",
-      "quote": 3.2,
-      "edge_prozent": 4.0,
-      "faire_quote": 3.08,
-      "empfohlener_einsatz_prozent": 0.5,
-      "empfohlener_einsatz_euro": 2.75,
-      "begruendung_kurz": "Bellingham K.O.-Ausnahme (Doppelpack R16 + Doppelpack QF = seit Maradona 1986 nicht mehr), 6 Turnier-Tore, mehr Strafraum-Beruehrungen als Kane. WACKEL wegen QF-Torschuetzen-Verlust-Cluster (Lesson 2026-07-12: 4/5 verloren) + Klassen-Konkurrent-Dichte-Defense.",
-      "rang": 3
-    }
-  ],
+  "einzeltipps": [],
   "kombis": [],
   "lessons_angewandt": [
     {

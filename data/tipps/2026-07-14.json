@@ -119,41 +119,7 @@
       "kontext_check_status": "OK"
     }
   ],
-  "einzeltipps": [
-    {
-      "spiel_id": "2026-07-14-fra-esp",
-      "tipp_id": "fra-esp-1",
-      "kategorie": "value",
-      "markt": "Unter 2.5 Tore FRA-ESP (90 Min)",
-      "quote": 1.9,
-      "empfohlener_einsatz_prozent": 2.0,
-      "empfohlener_einsatz_euro": 11.0,
-      "prioritaet": 1,
-      "rang": 1
-    },
-    {
-      "spiel_id": "2026-07-14-fra-esp",
-      "tipp_id": "fra-esp-2",
-      "kategorie": "value",
-      "markt": "Beide Teams treffen: NEIN (BTTS Nein)",
-      "quote": 2.05,
-      "empfohlener_einsatz_prozent": 1.5,
-      "empfohlener_einsatz_euro": 8.25,
-      "prioritaet": 2,
-      "rang": 2
-    },
-    {
-      "spiel_id": "2026-07-14-fra-esp",
-      "tipp_id": "fra-esp-3",
-      "kategorie": "wackel",
-      "markt": "Unentschieden 90 Min FRA-ESP",
-      "quote": 3.25,
-      "empfohlener_einsatz_prozent": 0.5,
-      "empfohlener_einsatz_euro": 2.75,
-      "prioritaet": 3,
-      "rang": 3
-    }
-  ],
+  "einzeltipps": [],
   "kombis": [],
   "kombis_hinweis": "KEINE Kombis heute. Grund: Mini-Slate mit exakt 1 Spiel (FRA-ESP HF) - Layer-1 Hartregel (max 1 Bein/Spiel/Kombi) macht Kombi-Bau strukturell unmoeglich, und Single-Point-of-Failure-Warnung aus Lesson 2026-06-11 (Mini-Spiele-Pseudo-Hedge-n4-Drehung-Stresstest) sagt: bei 1 Spiel keine kuenstlichen Portfolio-Konstruktionen. 3 saubere Einzeltipps sind das ehrliche Optimum heute.",
   "lessons_angewandt": [
