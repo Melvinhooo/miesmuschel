@@ -1,0 +1,48 @@
+{
+  "datum": "2026-07-16",
+  "erstellt_am": "2026-07-16T13:30:00+02:00",
+  "modus": "tag",
+  "_emergency_recovery": true,
+  "_emergency_recovery_grund": "data/recherche/2026-07-16.json nicht vorhanden - Recherche-Cron hat fuer diesen Tag korrekterweise nichts erzeugt (0 Spiele im Window). Master-Tipps-Routine hat Fallback-Recherche selbst gemacht: WM-Phasen-File data/wm_2026.json bestaetigt Halbfinale-Fenster 14.-15.07. (durch), Spiel um Platz 3 am 18.07., Finale 19.07. - kein WM-Spiel am 16.07. Ergebnisse 14.+15.07. verifiziert (Spanien 2:0 Frankreich, Argentinien 2:1 England), Finalisten stehen fest: Spanien vs Argentinien am So 19.07. MetLife Stadium East Rutherford NJ, Platz-3-Spiel Frankreich vs England am Sa 18.07. Vereine in Sommer-Pause bis August, NBA Finals durch (Knicks Champion seit 13.06.), Beobachtungs-Ligen (WM-HF + Gruppe-E-Decider) laut data/beobachtungs_ligen.json aktuell gesperrt. Null Spiele = null Tipps. Vorheriger Watchdog-17:15-Report (chronologisch spaeter) wurde durch diese kanonische Hauptroutine-13:30-Version abgeloest - inhaltlich identisch, aber Hauptroutine fuehrt Master-Log sauber.",
+  "hinweis": "RUHETAG eins von zwei. Heute Do 16.07.2026 findet KEIN Spiel im Tages-Window statt. WM 2026 Halbfinals sind durch (Di 14.07. Spanien 2:0 Frankreich in Arlington + Mi 15.07. Argentinien 2:1 England in Atlanta) - Finale steht: Spanien vs Argentinien So 19.07. 21:00 CEST im MetLife Stadium East Rutherford NJ, Platz-3-Spiel Frankreich vs England Sa 18.07. Zwischen Halbfinale und Turnier-Wochenende liegen zwei ausgewiesene FIFA-Ruhetage (Do 16.07. + Fr 17.07.) - so in data/wm_2026.json Phasen-Block hinterlegt. Vereine (Bundesliga, PL, LaLiga, Serie A, Ligue 1, UEFA-Klub-Wettbewerbe) pausieren bis August 2026, NBA Finals lange durch (Knicks Champion seit 13.06.), UEFA-Vorrunden-Qualifikation (Qairat, Flora etc.) und WM-Halbfinal-Sample stehen laut data/beobachtungs_ligen.json auf Beobachtungs-Liste (30d-ROI -34.2% bzw. -43.4%) - kein belastbarer Edge. Ehrlichkeits-Prinzip aus CLAUDE.md schlaegt Zwang-Tipp: lieber 0 Tipps als Datenmangel-Tipps. Kasse 550EUR Stufe 1 (Aufbau) - null Einsatz heute = null Risiko = Basis-Zielrichtung 1000EUR bleibt fuer Turnier-Wochenende geladen. Naechster planmaessiger Recherche-Slot Fr 17.07. 10:30 Berlin fuer Wochenend-Dossier (Platz-3-Spiel Sa 18.07. Frankreich vs England + Finale So 19.07. Spanien vs Argentinien). 18+ / BZgA 0800 1372700.",
+  "spiele": [],
+  "einzeltipps": [],
+  "kombis": [],
+  "lessons_angewandt": [
+    {
+      "id": "MT07-16-RUHETAG-ZWISCHEN-HF-UND-WOCHENENDE",
+      "lesson_kurz": "Ruhetag zwischen WM-HF (Mi 15.07.) und Turnier-Wochenende (Sa 18.07. + So 19.07.) ehrlich als Null-Tipp-Tag ausweisen - kein Zwang trotz Master-Cron-Trigger.",
+      "text": "Erster von zwei aufeinanderfolgenden Ruhetagen (Do 16.07. + Fr 17.07.). Master-Cron 13:30 Berlin ist getriggert, aber Recherche-File data/recherche/2026-07-16.json ist bewusst nicht erzeugt worden weil 0 Spiele im Window. Master macht Fallback-Recherche via data/wm_2026.json Phasen-Block + Ergebnisse 14.+15.07. - Ergebnis eindeutig: Finalisten Spanien (2:0 vs Frankreich) und Argentinien (2:1 vs England), Platz-3-Spiel am 18.07., Finale am 19.07. Ehrlichkeits-Prinzip aus CLAUDE.md schlaegt Master-Cron-Automatismus - null Einsatz = null Risiko, Kasse 550EUR Stufe 1 (Aufbau) bleibt fuer Wochenende geladen. Praezedenz identisch zu 12.07., 13.07. und 08.07.",
+      "quelle": "data/wm_2026.json Phasen-Block (Halbfinale 14.-15.07., Spiel um Platz 3 18.07., Finale 19.07.) + data/ergebnisse/2026-07-14.json (FRA 0:2 ESP) + data/ergebnisse/2026-07-15.json (ENG 1:2 ARG) + CLAUDE.md Ehrlichkeits-Prinzipien + Kasse-Stufen-Modell Stufe 1"
+    },
+    {
+      "id": "MT07-16-FINALE-VORSCHAU-INFO-ONLY",
+      "lesson_kurz": "Finale Spanien vs Argentinien So 19.07. MetLife Stadium East Rutherford NJ. Info-only fuer heute, Recherche-Routine kann direkt draufgehen ab Fr 17.07.",
+      "text": "Info-only, keine Tipp-Wirkung heute. Finale steht: Spanien (nach 2:0 gegen Frankreich in Arlington/AT&T Stadium) vs Argentinien (nach 2:1 gegen England in Atlanta/Mercedes-Benz Stadium) am So 19.07. 21:00 CEST im MetLife Stadium East Rutherford NJ (open-air, NJ-Juli-Klima warm und schwuel - Spielort-Faktor beachten, Argentinien mit MLS-erprobten Spielern minimal im Vorteil beim Klima). Konsequenz fuer Recherche-Routine Fr 17.07. 10:30 (fuer Wochenend-Dossier data/tipps_wochenende/2026-07-18.json): Klassen-Duell auf Augenhoehe, Argentinien-Star-Kollektiv (Messi/Lautaro/Alvarez) vs spanisches Kollektiv (Yamal/Pedri/Rodri). K.O.-Muster aus VF+HF beachten - 2:0-Insurance greift nur bei 90-Min-Sieg-Tipp, NICHT bei Verlaengerung/Elfmeter-Sieg. Bei enger Klassen-Balance SAFE-Sieg-Tipp vermeiden, lieber DC oder Torschuetzen-Tipp auf Volumen-Stuermer mit Backup (Einwechslungs-Boost-Regel greift!). Fuer Platz-3-Spiel Frankreich vs England Sa 18.07.: Motivations-Downgrade-Prinzip (beide mental im Urlaub - Torflut oder Sparflamme beide moeglich, VALUE-Uber-2.5-Tore historisch bei Platz-3-Spielen ueberdurchschnittlich - aber recherche-pflicht Ruhepuls-Aufstellung).",
+      "quelle": "data/ergebnisse/2026-07-14.json + data/ergebnisse/2026-07-15.json + data/wm_2026.json Stadien-Block (MetLife Stadium East Rutherford NJ) + CLAUDE.md WM-2026-Sonderregeln (K.O.-Modus + 2:0-Insurance + Einwechslungs-Boost)"
+    },
+    {
+      "id": "MT07-16-BEOBACHTUNGS-LIGEN-STAND",
+      "lesson_kurz": "Beobachtungs-Ligen laut data/beobachtungs_ligen.json: 'WM HF' (30d ROI -34.2%) + 'WM Gruppe E Decider' (30d ROI -43.4%). Fuer heute irrelevant weil 0 Spiele, aber Finale-Tipps am 19.07. NICHT als Halbfinale-Ableger interpretieren.",
+      "text": "beobachtungs_ligen.json Stand 2026-07-16T07:12Z zeigt zwei Ligen im Beobachtungs-Modus: 'FIFA WM 2026 - Halbfinale' (6 Tipps 30d, 33.3% Hitrate, -34.2% ROI, Netto -2.05EUR) und 'FIFA WM 2026 - Gruppe E - Spieltag 3 (Decider)' (5 Tipps 30d, 40% Hitrate, -43.4% ROI, Netto -2.17EUR). Beide treffen Kriterium 30d ROI < -30% bei min 4 Tipps - Ausstieg erst wenn ROI > -10% oder Datenbasis 30d abgekuehlt. Fuer heute irrelevant (0 Spiele). Fuer Finale-Tipps am So 19.07.: 'FIFA WM 2026 - Finale' ist eigene Kategorie, NICHT als Halbfinale-Ableger degradieren - aber Halbfinale-Sample zeigt SAFE-Sieg-Tipps in K.O.-Runde tendenziell riskant (enge Klassen-Duelle) - lieber DC oder Torschuetzen-Tipp auf Volumen-Stuermer mit Einwechslungs-Boost-Backup als Sieg-SAFE. Fuer Platz-3-Spiel Sa 18.07.: keine eigene Beobachtungs-Kategorie aktiv, aber Motivations-Faktor beachten.",
+      "quelle": "data/beobachtungs_ligen.json Kriterien-Block + CLAUDE.md Beobachtungs-Liga-Regel + CLAUDE.md Einwechslungs-Boost bei Torschuetzen-Tipps"
+    }
+  ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-07-16T13:30:00+02:00",
+    "drops": [],
+    "downgrades": [],
+    "warnungen": [
+      "Ruhetag - 0 Spiele im Window. Verifikations-Checklisten (Spieler-Halluzination, Layer-1/2/3-Cross, Quoten-Plausibilitaet, gesamtquote-Nachrechnung, Markt-Mix-Pflicht, saison_kontext-7-Felder) alle trivialerweise OK weil keine Tipps existieren.",
+      "data/recherche/2026-07-16.json fehlt - Master-Tipps-Routine hat Fallback-Recherche via data/wm_2026.json + data/ergebnisse/2026-07-14.json + data/ergebnisse/2026-07-15.json + data/beobachtungs_ligen.json gemacht. Recherche-Cron hat korrekt reagiert und leeres File nicht erzwungen. _emergency_recovery-Flag ist gesetzt fuer Master-Log-Nachvollziehbarkeit.",
+      "Vorheriger Watchdog-Report (erstellt_am 17:15) wurde ueberschrieben - Inhalt war korrekt (Ruhetag), aber Hauptroutine-13:30-Version ist die kanonische Zeitreihe. Beide Diagnosen stimmen ueberein.",
+      "Verzicht auf Tipps auf UEFA-Vorrunde (Qairat, Flora & Co.) und internationale Freundschaftsspiele bewusst - Beobachtungs-Liga-Kategorie, duenne Datenbasis, kein Edge. Vereins-Test-Spiele in Bundesliga-Vorbereitung (Trainingslager Anfang Juli mit Test-Spielen) sind zusaetzlich CLAUDE.md-Sperrgebiet."
+    ],
+    "kontext_check_status_gesamt": "OK_RUHETAG_HAUPTROUTINE",
+    "verifikator_hinweis": "Kein Handlungsbedarf. Kasse 550EUR Stufe 1 (Aufbau) unveraendert - Basis-Ziel 1000EUR bleibt in Reichweite fuer Turnier-Wochenende (Platz 3 Sa 18.07. Frankreich vs England + Finale So 19.07. Spanien vs Argentinien). Naechster planmaessiger Master-Cron-Slot: Do 16.07. 18:00 Berlin (Wochenend-Vorschau data/tipps_wochenende/2026-07-18.json) - dann Fr 17.07. 10:30 Berlin (Recherche-Routine fuer Sa 18.07.) und Sa 18.07. 10:00 Berlin (Master-Tipps Platz-3-Spiel). Kein Layer-1/2/3-Verstoss moeglich (0 Kombis, 0 Einzel). Markt-Mix-Pflicht + Anti-DC-Sucht-Regeln trivialerweise befolgt."
+  },
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "einzeltipps_ergebnis": [],
+  "kombis_ergebnis": [],
+  "ausgewertet_am": "2026-07-17T07:05:08+00:00"
+}
