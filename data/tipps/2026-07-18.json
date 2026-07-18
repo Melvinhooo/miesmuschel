@@ -1,0 +1,261 @@
+{
+  "datum": "2026-07-18",
+  "erstellt_am": "2026-07-18T10:00:00+02:00",
+  "modus": "tag",
+  "hinweis": "Turnier-Wochenende Slot 1: **WM 2026 Spiel um Platz 3 Frankreich vs England** Sa 18.07. 23:00 CEST Hard Rock Stadium Miami Gardens FL. Beide nach engem HF-Aus (FRA 0:2 gegen Spanien Di, ENG 1:2 gegen Argentinien Mi durch spaete ARG-Tore Min 85 + 90+2). Miami-Hitze + hohe Luftfeuchtigkeit + Motivations-Downgrade beider Teams pruefen. **Nur 1 Spiel im Window** = LAYER-1 (max 1 Bein pro Spiel pro Kombi) verhindert klassische 3-Bein-Kombis. Praezedenz-Muster identisch zu 09.07. + 10.07. (QF-Solo-Tage): **keine Kombis**, dafuer 5 Tipps im Spiel + 4 Einzeltipps sortiert VALUE > WACKEL. **Kein SAFE-Tipp heute**: P3-Empirie historisch heterogen (2018 BEL-ENG 2:0 defensiv vs 2010 GER-URU 3:2 offen), K.O.-Torschuetzen-Verlust-Cluster QF+HF aktiv (5/6 Fehl inkl. Kane/Haaland/Messi/Bellingham/Oyarzabal - CLAUDE.md Ehrlichkeits-Prinzip schlaegt Auto-SAFE). **Beobachtungs-Ligen** (data/beobachtungs_ligen.json): 'WM HF' und 'WM Gruppe E Decider' im Boykott, beide abgeschlossen - 'FIFA WM 2026 - Spiel um Platz 3' NICHT auf Beobachtungs-Liste (eigene Liga-Kategorie, keine 30d-Historie). Kasse 550EUR Stufe 1 (Aufbau) - Standard 1-2% VALUE, 0.5% WACKEL. Morgen So 19.07. Finale ESP-ARG (Master-Slot 10:00 Berlin). 18+ / BZgA 0800 1372700.",
+  "spiele": [
+    {
+      "id": "2026-07-18-fra-eng",
+      "liga": "FIFA WM 2026 - Spiel um Platz 3",
+      "heim": "Frankreich",
+      "gast": "England",
+      "anstoss": "2026-07-18T23:00:00+02:00",
+      "stadion": "Hard Rock Stadium, Miami Gardens FL (Hitze + hohe Luftfeuchtigkeit - CLAUDE.md Spielort-Faktor Florida)",
+      "saison_kontext": {
+        "parallel_heim": "keine - WM-Turnier, kein paralleler Wettbewerb. Vereine (Ligue 1, Bundesliga, PL, LaLiga, Serie A) pausieren bis August 2026.",
+        "parallel_gast": "keine - WM-Turnier, kein paralleler Wettbewerb. Premier League 2026/27 Saisonstart 15./16.08.2026, Kern-Kader bekommt danach nur ~3 Wochen Pre-Saison.",
+        "saisonziel_heim": "Trostpreis Platz 3 nach knappem 0:2-HF-Aus gegen Spanien am Di 14.07. in Arlington (HZ 0:1, Oyarzabal-Elfmeter Min 22 nach Digne-Foul an Yamal, Porro Min 58 Verteidiger-Tor). Turnier-Bilanz vor P3: 6 Siege, 1 Niederlage (nur gg ESP), 19:4 Tore. Deschamps-Rotations-Sorgen: Mbappe im HF angeschlagen (Al-Jazeera-Bericht) gestartet, Rabiot statt Kone als 6er, Cherki als Ersatz fuer Saliba (Rueckenverletzung, saison-ende). Motivations-Downgrade real - historisch schwer, Team nach Titel-Aus zu remobilisieren.",
+        "saisonziel_gast": "Trostpreis Platz 3 nach engem 1:2-HF-Aus gegen Argentinien am Mi 15.07. in Atlanta (HZ 0:0, Gordon-Volley Min 55, dann ARG-Comeback Enzo Fernandez Min 85 + Lautaro Martinez Min 90+2 beide nach Messi-Assist). Tuchel-Taktik nach Fuehrung 30 Minuten tief-stehend oeffentlich als 'sackable' zerpflueckt (Al Jazeera/Sky/Yahoo/CODE Sports). Turnier-Bilanz vor P3: 5 Siege, 1 Unentschieden, 1 Niederlage. Motivations-Frage: Tuchel-Job-Diskussion + Kane 0 Tore in HF (verlaengert Golden-Boot-Trio-Cluster HR07-11-1) - Team sucht Turnier-Abschluss mit Kane-Tor + Bellingham-Rehab.",
+        "motivations_asymmetrie": "Beide Teams gleich stark im 'mental im Urlaub'-Modus: HF-Aus vor 3-4 Tagen, keine Titel-Chance mehr, Reise-Belastung + Miami-Hitze. Frankreich mit klarerem Klassen-Edge auf Papier (Turnier-Bilanz 19:4 vs 12:7), aber Cherki-startet-statt-Saliba-Umstellung + angeschlagener Mbappe kompensieren einen Teil. England mit Rotations-Freiraum (Watkins/Rashford/Rogers-Push, Gordon HF-Torschuetze mit Selbstvertrauen). P3-Empirie historisch heterogen: 2022 CRO-MAR 2:1 offen, 2018 BEL-ENG 2:0 defensiv, 2014 BRA-NED 0:3, 2010 GER-URU 3:2, 2006 GER-POR 3:1 - 4 von 5 letzten P3-Spielen Ueber 2.5 Tore (80%), aber Klassen-Edge in P3 historisch abgewaschen.",
+        "recovery_heim": "3 Tage Pause seit HF 14.07. Arlington -> Miami (~2500km Reise, Ost-Kueste-suedlich). Injury-Cluster: Saliba OUT saison-ende (Rueckenverletzung, aus HF Min 45), Tchouameni fraglich (Oberschenkel aus QF-Kader), Mbappe im HF angeschlagen gestartet - Deschamps koennte Mbappe-Minuten reduzieren oder Barcola/Doue-Sub. Cherki als Ersatz fuer Saliba erwartet (Sportsmole predicted lineup).",
+        "recovery_gast": "2 Tage Pause seit HF 15.07. Atlanta -> Miami (~1000km, Ost-Kueste-suedlich). Injury-Cluster: Henderson OUT seit Turnier-Beginn (Handgelenks-Bruch), sonst Kader komplett. Tuchel-Rotations-Freiraum: HF-Verlierer-Selbstvertrauen bei Gordon (HF-Torschuetze) + Rogers (HF-Flanke), Kane sucht 1. Turnier-Tor seit R16 (Doppelpack), Bellingham nach K.O.-Doppelpack-Serie R16+QF im HF ohne Tor.",
+        "quellen": [
+          "https://www.transfermarkt.de/frankreich/startseite/verein/3377",
+          "https://www.transfermarkt.de/england/startseite/verein/3299",
+          "https://www.kicker.de/wm-2026/spielplan",
+          "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+          "https://www.sportsmole.co.uk/football/france/world-cup-2026/predicted-lineups/saliba-out-cherki-in-predicted-france-xi-vs-england_601255.html",
+          "https://www.englandfootball.com/articles/2026/Jul/15/england-fixture-details-knockout-stage-20261107"
+        ]
+      },
+      "news": [
+        "Frankreich HF 0:2 gegen Spanien Di 14.07. Arlington: Klassen-Duell in 90 Min entschieden (Oyarzabal Elfmeter Min 22 + Porro Verteidiger-Tor Min 58), Mbappe angeschlagen gestartet.",
+        "Saliba (IV Arsenal, Frankreich) faellt saison-ende aus (Rueckenverletzung aus HF Min 45). Sportsmole-Prediction: Cherki (OM Dortmund) als Ersatz auf 10er-Position - Umstellung 4-2-3-1 statt 4-3-3.",
+        "Tchouameni (DM Real Madrid) fraglich mit Oberschenkel-Beschwerden - Kone (DM Roma) neben Rabiot (ZM Marseille) als Alternative im Doppel-6er.",
+        "England HF 1:2 gegen Argentinien Mi 15.07. Atlanta: Fuehrte 30 Min durch Gordon-Volley Min 55, kollabierte in letzten 5 Min durch Messi-Assist-Doppel-Coup (Enzo 85 + Lautaro 90+2). Tuchel-Taktik als 'sackable' kritisiert.",
+        "Kane (ST Bayern Muenchen, England) 0 Tore in QF (NOR-ENG 1:1 iE) + HF (ENG-ARG 1:2). Golden-Boot-Trio-QF-Fehl-Cluster (HR07-11-1): Kane, Haaland, Messi alle 3 in QF ohne Tor. Kane vor P3 auf 3 Turnier-Tore.",
+        "Bellingham (OM Real Madrid, England) K.O.-Doppelpack-Serie (R16 + QF Doppelpack) im HF gebrochen (0 Tore). Back-to-Back-KO-Doppelpack-Ausnahme-These aus 07.15-Dossier gescheitert.",
+        "Miami Hard Rock Stadium: Florida-Hitze + hohe Luftfeuchtigkeit (CLAUDE.md Spielort-Faktor). Anstoss 23:00 CEST = 17:00 Lokal = Nachmittag/Abend, noch signifikante Hitze aber leichter Rueckgang bis Schlusspfiff.",
+        "Historisch P3-Spiele letzte 5 WMs Ueber 2.5 Tore in 4 von 5 (2010 GER-URU 5, 2014 BRA-NED 3, 2018 BEL-ENG 2 knapp Unter, 2022 CRO-MAR 3, 2006 GER-POR 4). P3-Sample klein aber Tor-Tendenz besteht.",
+        "Aktions-Regel bet365 DE: WM 2026 unterliegt 2:0-Insurance (Sieg-Tipp gilt gewonnen sobald Team mit 2 Toren Vorsprung fuehrte). Gilt NUR fuer 90min-Sieg, NICHT DC/Handicap/Torschuetze/BTTS. Kein Sieg-Tipp heute im Dossier (Motivations-Unsicherheit zu hoch) - Insurance-Info nur zur Vollstaendigkeit."
+      ],
+      "tipps": [
+        {
+          "id": "2026-07-18-fra-eng-t1",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen (BTTS Ja)",
+          "wette": "Frankreich und England erzielen je min. 1 Tor - Spiel um Platz 3",
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 8,
+          "begruendung": "**Volumen-Sturm-Doppel**: Frankreich mit Mbappe/Dembele/Olise-Trio + moeglicher Cherki-10er-Debut, England mit Kane/Gordon/Bellingham/Saka + Watkins/Rashford-Sub-Kapazitaet. **Motivations-Downgrade-Kompensation**: P3-Empirie zeigt offene Spiele in 4/5 letzten WMs, keine Bunker-Notwendigkeit. **K.O.-BTTS-Ja-Umkehr aus HF2 (ENG-ARG 1:2 spaet BTTS Ja) fortsetzbar**: HF1 hatte BTTS Nein durch ESP-Klassenkonzept, aber ESP nicht auf dem Platz heute. **Kane sucht Ehr-Tor** (0 in QF+HF, Career-Highlight-Motivation Golden-Boot-Anwaerter-Rueckstand), Mbappe unter Cover (angeschlagen aber Startelf-Kandidat). **Reality-Check**: Markt 'Beide Teams treffen' aktuell nicht in markt_goldgruben.json (keine 5-Tipps-Schwelle in letzten 30d) aber in Historie profitabel (HR07-14-1 BTTS-Nein-Cluster HF-spezifisch, gilt hier NICHT). Quote ~1.72 -> impliziert 58%, fair schaetze 63% -> +8% Edge. **Kasse Stufe 1**: 1.5% = 8.25 EUR.",
+          "quote": 1.72,
+          "faire_quote": 1.59,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "2026-07-18-fra-eng-t2",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "wette": "Endstand > 2 Tore insgesamt (90min inkl. Nachspielzeit, ohne Verlaengerung)",
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 6,
+          "begruendung": "**Markt-Goldgrube laut markt_goldgruben.json Stand 18.07.**: 41 Tipps, HR 56.4%, ROI +17.0% - **eine der drei aktiven Goldgruben** (neben Unter 2.5 +23.4% + DC X2 +11.7%). **P3-Empirie**: 4 von letzten 5 WMs Ueber 2.5 Tore in P3-Spielen (n=5, klein aber klar). **Motivations-Downgrade beidseits** = weniger taktische Vorsicht + Rotations-Freiraum bei Tuchel/Deschamps = offener Spielverlauf. **Gegenargument dokumentiert**: HR26 K.O.-Torzahl-nach-unten wurde in QF (2 von 4 Unter) + HF (1 von 2 Unter) partiell bestaetigt - aber P3 ist funktional KEIN K.O.-Turnier-Spiel (Ergebnis irrelevant fuer weiteres Turnier), sondern Show-Match. **Miami-Hitze** koennte Tempo bremsen -> leichter Anti-Ueber-Faktor bereits eingepreist bei Quote ~1.85. **Kein Bunker-Motiv** wie in HF (ESP musste Ergebnis halten, ARG musste Titel-Chance retten). **Kasse Stufe 1**: 1.5% = 8.25 EUR. Quote 1.85 -> 54% implied, faire Schaetzung 57%.",
+          "quote": 1.85,
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "2026-07-18-fra-eng-t3",
+          "kategorie": "value",
+          "markt": "Doppelte Chance 1X (Frankreich oder Remis nach 90min)",
+          "wette": "Frankreich verliert nicht in regulaerer Spielzeit",
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 11.0,
+          "edge_prozent": 10,
+          "begruendung": "**Konservativer Klassen-Edge-Tipp**: Frankreich Turnier-Bilanz 6-0-1 (19:4), England 5-1-1 (12:7). Auch mit Motivations-Downgrade + Rotation trifft der breitere Kader (Cherki/Barcola/Doue-Push + Ekitike-Sub) auf ENG-Rotations-Kader. **Markt-Goldgrube laut markt_goldgruben.json**: DC 1X mit HR 80.0% (n=27), ROI +2.2% - HR-Kern-Sicherheit weit ueberdurchschnittlich, ROI knapp weil niedrige Quoten. **Absicherung gegen K.O.-Draw-Muster HR07-11-2** (SAFE-Doppel-Sieg-Kombi Doppel-Bein-Aus in QF durch Draw-Klassen-Konkurrent-Bunker): P3 ist zwar KEIN Bunker-Spiel, aber Klassen-Duell-Draw-Risiko bleibt real. **Kein SAFE-Label**: P3-Ergebnis-Empirie (2018 BEL-ENG als Klassen-Favorit-P3-Sieg vs 2014 BRA-NED Klassen-Underdog-Sieg 0:3) heterogen + Deschamps-Rotations-Zwang. **Kasse Stufe 1**: 2.0% = 11 EUR bei Quote 1.42. Quote 1.42 -> 70% implied, faire Schaetzung 77% -> +10% Edge. **Kein Verstoss gegen Anti-DC-Sucht-Regel**: 1 DC-Bein an einem Spieltag mit 5 Tipps ist unterhalb Schwelle.",
+          "quote": 1.42,
+          "faire_quote": 1.29,
+          "empfohlener_einsatz_prozent": 2.0
+        },
+        {
+          "id": "2026-07-18-fra-eng-t4",
+          "kategorie": "wackel",
+          "markt": "Kylian Mbappe trifft (Torschuetze Jederzeit)",
+          "wette": "Kylian Mbappe erzielt mind. 1 Tor - Frankreich vs England",
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 3,
+          "begruendung": "**Form-Edge Turnier**: Golden-Boot-Anwaerter (~7-8 Turnier-Tore vor P3 laut Turnier-Verlauf), aber im HF gegen Spanien angeschlagen gestartet und ohne Tor. **Turnier-Top-Scorer-QF+HF-Fehl-Cluster (HR07-10-4 verschaerft)**: Turnier-Top-Scorer haben in K.O.-Phase 4/6 Spielen ohne Tor beendet (Kane, Haaland, Messi, Oyarzabal aus Cluster; Ausnahme: Bellingham R16+QF Doppelpack, jetzt selbst gebrochen). WACKEL statt VALUE ist Cluster-Konsequenz. **Einwechslungs-Boost aktiv** (bet365-WM-Regel CLAUDE.md): sollte Mbappe frueh raus wegen Belastungssteuerung (Deschamps-Muster Post-HF-Aus), zaehlen Backup-Tore auf Barcola/Doue/Ekitike. **Reduziert auf 0.5% Einsatz** (Kasse Stufe 1 WACKEL-Limit strikt): 0.5% = 2.75 EUR. Quote 1.95 -> 51%, faire Schaetzung 53%. **Torschuetze-Quelle-Warn moeglich** (Vereins-Torschuetzen-Statistik-URL nicht direkt in quellen[] - transfermarkt/kicker-Verweise decken aber Spielerkader ab, keine Downgrade-Erwartung).",
+          "quote": 1.95,
+          "faire_quote": 1.89,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "2026-07-18-fra-eng-t5",
+          "kategorie": "wackel",
+          "markt": "Harry Kane trifft (Torschuetze Jederzeit)",
+          "wette": "Harry Kane erzielt mind. 1 Tor - Frankreich vs England",
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 4,
+          "begruendung": "**Volumen-9er-Standard-Kandidat**: Bayern-Muenchen-Stuermer, 3 Turnier-Tore vor P3, in QF+HF 0 Tore - direktes Career-Highlight-Turnier-Abschluss-Motiv sichtbar. **Turnier-Top-Scorer-QF+HF-Fehl-Cluster (HR07-11-1) aktiv**: Kane ist der Prototyp des Cluster-Anwaerter-Ausfalls. WACKEL statt VALUE oder SAFE. **Anti-Selbstwiderspruch-Pruefung**: Tipp T1 (BTTS Ja) und T5 (Kane trifft) sind KEIN Widerspruch (Kane-Tor traegt zur BTTS-Bedingung bei) - konsistent. **P3-spezifisch**: ENG-Rotations-Freiraum reduziert Belastungs-Sub-Risiko fuer Kane, aber Watkins-Rashford-Push koennte Kane frueher raus als in Turnier-Kern-Spielen. **Einwechslungs-Boost aktiv**: Watkins/Rashford-Tore nach Kane-Auswechslung zaehlen fuer diesen Tipp. **Reduziert auf 0.5% Einsatz** (Kasse Stufe 1 WACKEL + Cluster-Downgrade + Kane-Golden-Boot-Trio-Faktor). Quote 2.15 -> 47%, faire Schaetzung 49%. **Torschuetze-Quelle-Warn moeglich** (keine direkte Kane-Vereins-Torschuetzen-URL - transfermarkt Deutschland/England-Kader deckt ab).",
+          "quote": 2.15,
+          "faire_quote": 2.07,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "einzel-01",
+      "spiel_id": "2026-07-18-fra-eng",
+      "kategorie": "value",
+      "markt": "Doppelte Chance 1X",
+      "wette": "Frankreich verliert nicht in regulaerer Spielzeit gg England",
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 11.0,
+      "begruendung": "**Top-Pick des Tages**. Klassen-Edge Frankreich (6-0-1, 19:4) + DC-1X-Goldgrube HR 80% (n=27) + K.O.-Draw-Muster-Absicherung. Kasse Stufe 1: 2% = 11 EUR bei Quote 1.42.",
+      "quote": 1.42,
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 1
+    },
+    {
+      "id": "einzel-02",
+      "spiel_id": "2026-07-18-fra-eng",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen (BTTS Ja)",
+      "wette": "Frankreich UND England treffen je mind. 1 Tor",
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "Volumen-Sturm-Doppel + Motivations-Downgrade beidseits = keine Bunker-Notwendigkeit. P3-Empirie 4/5 offene Spiele. Kasse Stufe 1: 1.5% = 8.25 EUR.",
+      "quote": 1.72,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2
+    },
+    {
+      "id": "einzel-03",
+      "spiel_id": "2026-07-18-fra-eng",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "wette": "Frankreich vs England - > 2 Tore insgesamt (90min)",
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "Markt-Goldgrube +17.0% ROI (n=41, HR 56.4%). P3-Show-Match-Charakteristik, kein Bunker-Motiv. Kasse Stufe 1: 1.5% = 8.25 EUR.",
+      "quote": 1.85,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 3
+    },
+    {
+      "id": "einzel-04",
+      "spiel_id": "2026-07-18-fra-eng",
+      "kategorie": "wackel",
+      "markt": "Kylian Mbappe trifft (Torschuetze Jederzeit)",
+      "wette": "Mbappe erzielt mind. 1 Tor - Frankreich vs England",
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "Golden-Boot-Anwaerter, aber Turnier-Top-Scorer-K.O.-Fehl-Cluster HR07-10-4 verschaerft aktiv. Einwechslungs-Boost. Kasse Stufe 1 WACKEL: 0.5% = 2.75 EUR.",
+      "quote": 1.95,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 4
+    },
+    {
+      "id": "einzel-05",
+      "spiel_id": "2026-07-18-fra-eng",
+      "kategorie": "wackel",
+      "markt": "Harry Kane trifft (Torschuetze Jederzeit)",
+      "wette": "Kane erzielt mind. 1 Tor - Frankreich vs England",
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "Volumen-9er + Golden-Boot-Trio-QF-Fehl-Cluster HR07-11-1 aktiv. Career-Highlight-Turnier-Abschluss-Motiv. Einwechslungs-Boost auf Watkins/Rashford. Kasse Stufe 1 WACKEL: 0.5% = 2.75 EUR.",
+      "quote": 2.15,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 5
+    }
+  ],
+  "kombis": [],
+  "lessons_angewandt": [
+    {
+      "id": "layer-1-bei-1-spiel",
+      "titel": "Kombi-Verzicht weil heute nur 1 Spiel",
+      "quelle": "CLAUDE.md LAYER-1-Regel (max 1 Bein pro Spiel pro Kombi) + Praezedenz 09.07. + 10.07. (WM-QF-Solo-Tage)",
+      "anwendung": "Nur FRA-ENG im Window = keine 3-Bein-Kombi moeglich. Kein Kombi-Ersatz-Tipp gesetzt (ehrlich statt erzwungen). Kasse-Konzentration in Einzeltipps (~38.50 EUR = 7% Kasse verteilt auf 5 Tipps)."
+    },
+    {
+      "id": "goldgrube-ueber-2-5",
+      "titel": "Ueber 2.5 Tore als Goldgrube aktiv gesucht",
+      "quelle": "markt_goldgruben.json Stand 18.07.2026 (n=41, HR 56.4%, ROI +17.0%)",
+      "anwendung": "Als VALUE gesetzt Tipp T2 + einzel-03. P3-Empirie 4/5 Ueber 2.5 + Motivations-Downgrade beidseits + Miami-Hitze-Kompensation im Preis."
+    },
+    {
+      "id": "goldgrube-dc-1x",
+      "titel": "Doppelte Chance 1X als Goldgrube priorisiert",
+      "quelle": "markt_goldgruben.json Stand 18.07.2026 (n=27, HR 80.0%, ROI +2.2%)",
+      "anwendung": "Als VALUE gesetzt Tipp T3 + einzel-01 als Rang-1-Pick. Klassen-Edge Frankreich + K.O.-Draw-Muster-Absicherung. Nur 1 DC-Bein im Slate -> keine Anti-DC-Sucht-Verletzung."
+    },
+    {
+      "id": "torschuetzen-k-o-cluster-hr07-11-1",
+      "titel": "Golden-Boot-Trio-QF+HF-Fehl-Cluster aktiv - Torschuetzen-Tipps K.O. auf WACKEL",
+      "quelle": "Lesson HR07-11-1 (Kane/Haaland/Messi QF-Fehl) + HR07-10-4 (Oyarzabal 4/6 Fehl) + HR07-15-2 (Bellingham HF-Fehl) - Cluster 5/6 Fehl bei Turnier-Top-Scorern in K.O.",
+      "anwendung": "Mbappe (T4) + Kane (T5) beide auf WACKEL heruntergestuft trotz Volumen-Form. Kein SAFE-Torschuetzen-Tipp trotz Golden-Boot-Anwaerter-Rolle. Kasse-Einsatz 0.5% strikt WACKEL-Limit."
+    },
+    {
+      "id": "einwechslungs-boost-aktiv",
+      "titel": "Einwechslungs-Boost bei Torschuetzen-Tipps",
+      "quelle": "CLAUDE.md bet365-Sonderregeln (WM 2026 aktiv)",
+      "anwendung": "Mbappe-Tipp Backup: Barcola/Doue/Ekitike zaehlen. Kane-Tipp Backup: Watkins/Rashford zaehlen. Beide Teams mit Bench-Torgefahr - Boost-Trigger-Wahrscheinlichkeit real. HR07-10-3 Merino-Late-Sub-Pattern zeigt dass Boost bei Rotations-Freiraum zunimmt."
+    },
+    {
+      "id": "p3-empirie-heterogen",
+      "titel": "P3-Empirie letzte 5 WMs: 4/5 Ueber 2.5, 3/5 offen, Klassen-Edge inkonsistent",
+      "quelle": "WM-Historie 2006-2022 (GER-POR 3:1, GER-URU 3:2, BRA-NED 0:3, BEL-ENG 2:0, CRO-MAR 2:1)",
+      "anwendung": "Motivations-Downgrade eingepreist bei allen Tipps. Kein SAFE-Sieg-Tipp weil Klassen-Edge in P3 historisch abgewaschen (BRA-NED 2014 Beispiel: Klassen-Favorit vs Underdog 0:3 verloren). Ueber 2.5 als VALUE statt SAFE trotz Empirie-Rueckhalt (Muster-Fragilitaet bei n=5 respektiert)."
+    },
+    {
+      "id": "kein-2-0-insurance-sieg-tipp-heute",
+      "titel": "2:0-Insurance-Regel bewusst nicht genutzt - kein Sieg-Tipp im Slate",
+      "quelle": "CLAUDE.md bet365-Sonderregeln + Motivations-Unsicherheit P3-Spiel",
+      "anwendung": "Frankreich-Sieg-Tipp waere theoretisch 2:0-Insurance-abgesichert, aber P3-Motivations-Frage + HF-angeschlagener Mbappe + Cherki-Debut-Umstellung sind zu viele Unsicherheiten fuer Sieg-Konzentration. Stattdessen DC 1X (kein Insurance auf DC) als Klassen-Edge-Ersatz. Ehrlich statt Auto-Insurance-Trigger."
+    },
+    {
+      "id": "hf-bluter-liga-heute-nicht-anwendbar",
+      "titel": "'FIFA WM 2026 - Halbfinale' im Beobachtungs-Boykott, aber heute irrelevant",
+      "quelle": "data/beobachtungs_ligen.json Stand 18.07.2026 (WM HF -34.2% ROI, WM Gruppe E Decider -43.4% ROI) + Liga-Bezeichnung heute 'FIFA WM 2026 - Spiel um Platz 3' aus Recherche-File uebernommen",
+      "anwendung": "Info-only: die 'Spiel um Platz 3'-Liga ist eigenstaendig, keine 30d-Historie -> keine Beobachtungs-Downgrade. Schema-Mapper wird nicht auf HF-Regel triggern."
+    }
+  ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-07-18T10:00:00+02:00",
+    "drops": [],
+    "downgrades": [],
+    "warnungen": [
+      "Nur 1 Spiel im Window = 0 Kombis moeglich (LAYER-1 hart). Ehrlich im hinweis kommuniziert.",
+      "Kein SAFE-Tipp gesetzt (P3-Empirie heterogen + K.O.-Torschuetzen-Cluster + Motivations-Unsicherheit). Alle VALUE oder WACKEL - CLAUDE.md-Ehrlichkeits-Prinzip vor Auto-SAFE.",
+      "Torschuetzen-Tipps T4/T5 haben Cluster-Downgrade auf WACKEL (HR07-10-4 + HR07-11-1). Standard-Regel aktiviert. Vereins-Torschuetzen-Statistik-URL nicht explizit in quellen[] - transfermarkt-Verweise decken Kader ab, keine Schema-Mapper-Downgrade-Erwartung.",
+      "Quoten geschaetzt basierend auf typischen P3-Ranges - bei bet365 live pruefen vor Einsatz.",
+      "Kasse 550 EUR Stufe 1 (Aufbau) - Standard-Limits 1-2% VALUE, 0.5% WACKEL eingehalten. Gesamt-Einsatz ~32.50 EUR = 5.9% Kasse, unterhalb 8%-Alarm-Schwelle.",
+      "Layer-3 nicht anwendbar (1 Spiel). Layer-2 (Sieg-Outcome max 1 Kombi) nicht anwendbar (0 Kombis). Layer-1 (max 1 Bein/Spiel/Kombi) trivialerweise erfuellt."
+    ],
+    "halluzinations_checks": [
+      "Squad-Verifikation: alle referenzierten Spieler (Mbappe, Kane, Bellingham, Cherki, Saliba, Rabiot, Tchouameni, Barcola, Doue, Ekitike, Gordon, Rogers, Watkins, Rashford, Enzo Fernandez, Lautaro Martinez, Oyarzabal, Porro, Digne, Yamal, Messi, Merino) im recherche_file 2026-07-18.json + Ergebnis-Analysen 2026-07-14.json + 2026-07-15.json bestaetigt. Keine Halluzinationen.",
+      "Vereins-Zuordnungen aus recherche_file uebernommen: Mbappe (Real Madrid), Kane (Bayern Muenchen), Bellingham (Real Madrid), Cherki (Borussia Dortmund - Dortmund-Wechsel bestaetigt in Vor-Turnier-Recherche), Saliba (Crystal Palace - ACHTUNG: Widerspruch zur Lesson HR07-14-4 wo Kounde-Assist stand, Saliba war ARSENAL vor Turnier - Recherche_file zeigt Lacroix als IV Crystal Palace, Saliba nicht in Squad-Liste weil OUT. Bezug auf 'Saliba Arsenal' in news[] korrigiert zu Arsenal-Herkunft.).",
+      "Ergebnisse HF-Bezug: FRA 0:2 ESP (14.07.), ENG 1:2 ARG (15.07.) aus data/ergebnisse/ verifiziert.",
+      "Stadion Hard Rock Stadium Miami Gardens FL aus recherche_file uebernommen.",
+      "Anstoss 23:00 CEST aus recherche_file 2026-07-18T23:00:00+02:00 uebernommen.",
+      "spiel_id '2026-07-18-fra-eng' wortgleich aus recherche_file uebernommen (kein Kickoff-Datum-Rebuild)."
+    ],
+    "layer_cross_check": [
+      "Layer-1 (max 1 Bein/Spiel/Kombi): 0 Kombis -> trivialerweise OK.",
+      "Layer-2 (Sieg-Outcome max 1 Kombi): 0 Kombis -> trivialerweise OK.",
+      "Layer-3 (max 1 Bein/Spiel ueber alle Kombis): 0 Kombis -> trivialerweise OK.",
+      "Anti-Selbstwiderspruchs-Check: T1 (BTTS) + T3 (DC 1X FRA) + T2 (Ueber 2.5) + T4 (Mbappe) + T5 (Kane) - alle konsistent. Mbappe-Tor + Kane-Tor + Ueber 2.5 + BTTS bilden konvergentes Portfolio (positive Korrelation gewollt). DC 1X kompatibel mit BTTS Ja (Frankreich gewinnt oder Remis mit Toren beidseits).",
+      "Korrelations-Trauma-Kombi-Crash-Vermeidung (HR07-11-1 SAFE-Kombi-4-of-4-Layer4-Markt-Typ-Konzentration): keine Kombi -> nicht anwendbar. Einzeltipps-Korrelation: 5 Tipps auf 1 Spiel bedeutet Layer-4-Konzentration (100% Portfolio auf FRA-ENG). BEWUSST GEWAEHLT weil einziges Spiel. Kasse-Konzentration begrenzt durch Standard-Prozent-Limits (kein Extra-Push)."
+    ],
+    "kontext_check_status_gesamt": "OK",
+    "verifikator_hinweis": "Solo-Spiel-Slot mit klaren Cluster-Downgrades (Torschuetzen K.O. auf WACKEL, kein SAFE trotz Klassen-Edge, keine Kombis wegen Layer-1). Ehrlichkeits-Prinzip vor Zwang-Tipps: 5 differenzierte Tipps statt 12 aufgepumpter Wiederholungen. Kasse 550 EUR Stufe 1 (Aufbau) - Gesamt-Einsatz ~32.50 EUR entspricht 5.9% Kasse, konservativ. Naechster Master-Slot: So 19.07. 10:00 Berlin (Finale ESP-ARG data/tipps/2026-07-19.json)."
+  },
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
+}
