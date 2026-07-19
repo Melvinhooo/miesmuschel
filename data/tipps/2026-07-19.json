@@ -90,7 +90,7 @@
           "einsatz_euro": 2.75,
           "edge_prozent": 4,
           "begruendung": "**HR07-18-3 Cluster-Ausnahme-Trigger aktiv (individueller Karriere-Rekord vor Sicht)**: potenziell Messi's letztes WM-Spiel - Karriere-Krone-Motivation ueberragt Muede-/Rotations-Effekt. Analog zu Mbappe P3 (brach Cluster HR07-10-4 mit Brace + 22. WM-Tor All-Time-Rekord) - Motivations-Multiplikator schlaegt Cluster. **Cluster-Gegenargument HR07-11-1 (Golden-Boot-Trio-QF-Fehl) + HR07-15-2 (KO-Torschuetzen-Cluster jetzt 5/6 verloren)**: Messi in QF+HF ohne eigenes Tor, aber 2 Assist-Beitraege HF (Enzo Min 85 + Lautaro Min 90+2). **WACKEL statt VALUE ist Cluster-Konsequenz** trotz Cluster-Ausnahme-Trigger - beide Signale werden respektiert. **Einwechslungs-Boost aktiv** (bet365-WM-Regel CLAUDE.md): sollte Messi wegen Belastung frueh raus, zaehlen Backup-Tore auf Julian Alvarez / Lautaro Martinez (falls Alvarez ins Doppel-9-System kommt). Scaloni-Muster: Messi selten frueh raus, meist Min 75-85. **Anti-Selbstwiderspruchs-Check**: T1 (DC X2 ESP) + T4 (Messi trifft) kompatibel (ESP-Sieg 2:1 oder 1:1 mit Messi-Tor). T2 (Unter 2.5) + T4 kompatibel (1:1 mit Messi-Tor). T3 (BTTS Ja) + T4 kompatibel (Messi-Tor traegt zu BTTS Ja bei). **Reduziert auf 0.5% Einsatz** (Kasse Stufe 1 WACKEL-Limit strikt): 0.5% = 2.75 EUR. Quote 3.30 -> 30% implied, faire Schaetzung 32%. **Torschuetze-Quelle-Warn moeglich** (Vereins-Torschuetzen-Statistik-URL nicht direkt in quellen[] - transfermarkt/kicker Argentinien decken Kader ab).",
-          "quote": 3.30,
+          "quote": 3.3,
           "faire_quote": 3.13,
           "empfohlener_einsatz_prozent": 0.5
         },
@@ -160,7 +160,7 @@
       "einsatz_prozent_kasse": 0.5,
       "einsatz_euro": 2.75,
       "begruendung": "HR07-18-3 Cluster-Ausnahme-Trigger aktiv (potenziell letztes WM-Spiel - individueller Karriere-Rekord). Gegen Cluster HR07-15-2 (5/6 KO-Torschuetzen-Fehl) auf WACKEL nicht VALUE. Einwechslungs-Boost. Kasse Stufe 1 WACKEL: 0.5% = 2.75 EUR.",
-      "quote": 3.30,
+      "quote": 3.3,
       "empfohlener_einsatz_prozent": 0.5,
       "rang": 4
     },
