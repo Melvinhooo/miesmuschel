@@ -1,0 +1,93 @@
+{
+  "datum": "2026-07-20",
+  "erstellt_am": "2026-07-19T17:00:00+02:00",
+  "modus": "woche",
+  "anker_montag": "2026-07-20",
+  "fenster": {
+    "von": "2026-07-20",
+    "bis": "2026-07-26"
+  },
+  "hinweis": "Wochen-Vorschau-Daten Mo 20.07 - So 26.07.2026 (Anker = Mo 20.07). === SCOPE WOCHE: **ERSTE POST-WM-WOCHE - RUHE-WOCHE OHNE IN-SCOPE-SPIELE**. WM 2026 endet am So 19.07 mit dem Finale ARG vs ESP (MetLife Stadium East Rutherford NJ, 21:00 CEST, laeuft heute abend nach Erstellung dieser Recherche - Ergebnis noch offen). NBA-Saison seit 13.06.2026 abgeschlossen (Knicks 4-1 in Best-of-7 vs Spurs). Vereins-Fussball (Bundesliga, Premier League, LaLiga, Serie A, Ligue 1, DFB-Pokal, Coppa Italia, Champions League Hauptrunde, Europa League Hauptrunde, Conference League Hauptrunde) pausieren komplett bis August 2026 - PL 2026/27 Saisonstart 15./16.08.2026, Bundesliga 2026/27 ~21./22.08.2026, LaLiga 2026/27 ~22./23.08.2026, Serie A ~23./24.08.2026, Ligue 1 ~15.08.2026. === IN-SCOPE-CHECK PRO SPORT: (1) FUSSBALL WM 2026 = beendet 19.07 - keine weiteren Spiele. (2) FUSSBALL VEREINE Top-5-Ligen = Sommerpause - keine Spiele. (3) FUSSBALL DFB-Pokal 2026/27 = 1. Runde erst 15.-18.08.2026 - keine Spiele in Vorschau-Woche. (4) FUSSBALL Coppa Italia 2026/27 = 1. Runde 15./16.08.2026 - keine Spiele. (5) FUSSBALL Champions League 2026/27 = Hauptrunde-League-Phase startet erst ~16.09.2026 - Quali-Runde Q1+Q2 laeuft aber (siehe unten). (6) FUSSBALL Europa League 2026/27 = Hauptrunde-Phase startet erst ~24.09.2026 - Quali-Runde Q1+Q2 laeuft. (7) FUSSBALL Conference League 2026/27 = Hauptrunde-Phase startet erst ~01.10.2026 - Quali-Runde Q2+Q3 laeuft. (8) NBA = Off-Season, Summer League Las Vegas laeuft aber = NICHT in CLAUDE.md-Scope. === UEFA-QUALIFIKATION IN WOCHE 20.-26.07 (**ausserhalb Tipps-Scope wg. Beobachtungs-Liga-Regel**): CL Q2 First Legs 21./22.07 (Di+Mi) mit Klein-Klubs wie Shamrock Rovers, Ferencvaros, RFS Riga, Ludogorets, Ferencvarosi, HJK Helsinki etc.; EL Q2 First Legs 23.07 (Do); CoL Q2 First Legs 23.07 (Do) mit u.a. Vitoria SC, Sporting-Reserven, Riga FC etc. Alle diese Wettbewerbe sind aus 3 Gruenden aktuell NICHT tippfaehig: (a) beteiligte Klubs haben KEINE 30d-Historie in data/statistik.json (Basis fuer Reality-Check fehlt), (b) auf Beobachtungs-Ligen-Liste bzw. de-facto-Beobachtung wg. Kader-Fluktuation Sommer (Neuzugaenge/Abgaenge nicht integriert), (c) CLAUDE.md-Scope-Definition zielt auf europaeische Top-5-Klub-Ligen + CL/EL/Conference Hauptrunde + DFB-Pokal + Coppa Italia + WM + NBA - Quali-Rundenspiele der 3. und 4. Kategorie sind NICHT eigens gescope. **Empfehlung Tipps-Woche-Routine: KEINE Tipps auf UEFA-Quali-Runden dieser Woche generieren, da mapper via markt_bluter/lambda-Basis-Check droppen wuerde**. === PRE-SEASON-FRIENDLIES IN WOCHE 20.-26.07 (**strukturell nicht tippfaehig**): Premier-League-Sommer-Touren laufen an - Manchester United (US-Tour ab 20.07), Blackburn-Test in Albufeira 22.07, Feyenoord vs Rayo Vallecano 26.07, PSV Eindhoven vs Villarreal 25.07. Weitere DE-relevante Friendlies: Bayern Muenchen wahrscheinlich Trainingslager Rottach-Egern (Bayern-Testspiele ab ~26.07 mit Grasshoppers Zuerich?), Dortmund Trainingslager Bad Ragaz Schweiz, Real Madrid US-Tour laeuft. Diese Spiele sind aus 3 strukturellen Gruenden fuer Wett-Tipps ungeeignet: (a) Trainings-Format mit Massen-Wechseln (2x11 komplett gewechselt, oft nach jeder Halbzeit), (b) kein Motivations-Edge (kein Wettbewerbs-Punkt), (c) Aufstellungen bis kurz vor Anpfiff nicht sicher (Neuzugaenge testen, Jugendspieler bekommen Zeit). **CLAUDE.md-Empfehlung analog Sommerpause: keine Freundschafts-Tipps**. === KASSE-STAND 04.05.2026: 550 EUR (data/kasse.json) -> Stufe 1 (Aufbau-Phase Kasse <1000 EUR) aktiv. Stufe-2-Trigger nicht erreicht. === FAZIT DER WOCHE FUER TIPPS-ROUTINE: Die Wochen-Vorschau-Routine am Sonntag 19.07 abend soll ein **RUHE-WOCHEN-DOSSIER** produzieren mit: (1) Klarem Hinweis 'kein tippfaehiges In-Scope-Spiel in dieser Woche', (2) Empfehlung 'Woche als Analyse-/Retrospektive-Pause nutzen (WM-Bilanz + Bundesliga-Vorbereitung studieren)', (3) Ausblick auf **erste In-Scope-Rueckkehr Mitte August 2026**: Ligue 1 startet ~14./15.08, PL startet 15./16.08, DFB-Pokal 1. Runde 15.-18.08 (Amateur-Vereine vs Bundesligisten - Klassen-Duell-Analyse relevant, teils Beobachtungs-Liga da Amateur-Klub-Historie fehlt), Bundesliga 21./22.08, LaLiga 22./23.08, Serie A 23./24.08. (4) Spielerschutz-Hinweis + BZgA-Nummer wie sonst. (5) **Kasse-Auszahlungs-Check**: aktueller Stand 550 EUR wg. Stufe-1-Aufbau nicht auszahlungs-relevant. === LESSONS-BERUECKSICHTIGUNG WM-2026-BILANZ (relevant fuer Wochen-Dossier-Kontext): (1) WM-2026-K.O.-Torschuetzen-Verlust-Cluster HR07-15-2 = 5-6 KO-Fehl-Serie hat WM-Kern durchgezogen (Kane 0 in QF+HF, Haaland 0 in QF, Messi 0 in QF, Bellingham 0 in HF nach K.O.-Doppelpack-Serie R16+QF, Oyarzabal 0 in HF+HF-Assist), Lesson persistiert fuer Bundesliga-Start. (2) 2:0-Insurance-Regel WM-spezifisch (bet365-Aktion) = mit WM-Ende nicht mehr aktiv, Fussball-Sieg-Insurance ab Bundesliga-/CL-Start via Regel-Verifikation. (3) Einwechslungs-Boost-Regel Torschuetzen = bleibt aktiv fuer alle Bundesliga-/CL-Fussball-Tipps (bet365-Standard-DE). (4) Goldgruben-Liste stand 03.05 letztes Update: DC 1X 84.6%/+9.5%, DC X2 77.8%/+9.4%, Unter 2.5 Tore 66.7%/+27.5%, Torschuetzen JZ 50%/+24.4% - fuer Bundesliga-Rueckkehr wieder relevant. (5) Beobachtungs-Liga Boykotts: 'WM Gruppe E Decider' + 'WM HF' - beide abgeschlossen mit WM-Ende; werden aus data/beobachtungs_ligen.json am naechsten statistik_berechnen.py-Lauf via rolling-30d-Fenster-Loeschung entfernt bzw. bleiben Historie. (6) K.O.-Turnier-Empirie WM: 3 von 4 letzten Spiele-um-Platz-3 Ueber 2.5 Tore + 4 von 6 letzten WM-Finales iET/iE - fuer zukuenftige K.O.-Turniere (EM 2028 UEFA / Africa Cup 2027 / Copa America 2028) archiviert. === TECHNISCHE HINWEISE: (1) Datei-Erstellung Sonntag 19.07 17:00 Berlin, bevor WM-Finale um 21:00 anstoesst - Finale-Ergebnis daher NICHT in dieser Recherche verarbeitet, ist Aufgabe der Ergebnisse-Routine 20.07.2026 fruh. (2) recherche_woche-File hat leere spiele[]-Liste - das ist explizit BEABSICHTIGT und kein Bug. Tipps-Woche-Routine am Sonntag 19.07 abend interpretiert leere spiele[]-Liste als 'Ruhe-Woche' und erstellt entsprechend leeres Tipps-Woche-Dossier mit Ruhe-Hinweis, keine Fake-Spiele generieren. (3) Naechster substantieller Recherche-Lauf: **Do 13.08 (Wochenend-Recherche fuer Sa 15.08 / So 16.08 Bundesliga-1.Spieltag + DFB-Pokal-1.Runde-Wochenende)**. Zwischenzeitliche Tage-Recherche kann leere Ergebnisse liefern und ist unkritisch. (4) Kein API-Live-Poll fuer diese Woche noetig (WM abgeschlossen, keine tippbaren Spiele) - dennoch WebSearch zur Verifikation der Sommer-Pause-Situation durchgefuehrt: UEFA CL Q2 21+22.07, EL Q2 23.07, CoL Q2 21-23.07 bestaetigt via UEFA.com + Wikipedia 2026-27 UEFA Champions League qualifying; Pre-Season Friendlies bestaetigt via Sky Sports Premier League Pre-Season Schedule + Premier League offizielle Friendlies-Uebersicht. === QUELLEN-PFLICHT: parallele_wettbewerbe entfaellt fuer leere spiele[]-Liste. Datenverifikation via WebSearch 19.07.2026 ~16:30-17:00 Berlin. NIE Spielernamen erfunden. KEINE Tipps generiert - reine Datensammlung + Ruhe-Wochen-Klarstellung. 18+ / BZgA 0800 1372700.",
+  "spiele": [],
+  "leerschlag_metadata": {
+    "grund": "erste_post_wm_woche_ohne_in_scope_spiele",
+    "wm_2026_status": "endet am So 19.07.2026 mit Finale ARG vs ESP MetLife 21:00 CEST",
+    "nba_status": "Saison beendet seit 13.06.2026 (Knicks Champion 4-1 vs Spurs)",
+    "vereins_fussball_status": "Sommerpause aller Top-5-Ligen (BL/PL/PD/SA/FL1) + DFB-Pokal + Coppa bis August 2026",
+    "vereins_fussball_saisonstart_kalender": {
+      "ligue_1_2026_27": "~14./15.08.2026",
+      "premier_league_2026_27": "15./16.08.2026",
+      "dfb_pokal_2026_27_1_runde": "15.-18.08.2026",
+      "bundesliga_2026_27": "~21./22.08.2026",
+      "laliga_2026_27": "~22./23.08.2026",
+      "serie_a_2026_27": "~23./24.08.2026",
+      "coppa_italia_2026_27_1_runde": "15./16.08.2026",
+      "cl_leaguephase_2026_27": "~16.09.2026",
+      "el_leaguephase_2026_27": "~24.09.2026",
+      "conference_leaguephase_2026_27": "~01.10.2026"
+    },
+    "ausserhalb_scope_aber_geprueft": [
+      {
+        "kategorie": "UEFA Champions League Q2 First Legs",
+        "datum": "21./22.07.2026 (Di+Mi)",
+        "grund_skip": "Beobachtungs-Liga-Status: teilnehmende Klein-Klubs (Shamrock Rovers, HJK Helsinki, RFS Riga, Ludogorets, Ferencvaros etc.) haben keine belastbare 30d-Historie in data/statistik.json, CLAUDE.md-Scope zielt auf CL-Hauptrunde nicht Quali-Rundenspiele.",
+        "quellen": ["https://www.uefa.com/uefachampionsleague/news/02a6-20e5a8be4e63-ae971c582f8c-1000--champions-league-qualifying-fixtures-results-dates-how-it-/", "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League_qualifying"]
+      },
+      {
+        "kategorie": "UEFA Europa League Q2 First Legs",
+        "datum": "23.07.2026 (Do)",
+        "grund_skip": "gleicher Beobachtungs-Liga-Status wie CL Q2 - EL-Hauptrunde 24.09 In-Scope, Quali nicht.",
+        "quellen": ["https://www.uefa.com/uefaeuropaleague/news/02a6-20e5db0029dd-8241a8d00925-1000--europa-league-qualifying-fixtures-dates-how-it-works/", "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Europa_League_qualifying"]
+      },
+      {
+        "kategorie": "UEFA Conference League Q2 First Legs",
+        "datum": "21.-23.07.2026 (Di-Do)",
+        "grund_skip": "gleicher Beobachtungs-Liga-Status - Conference-Hauptrunde 01.10 In-Scope, Quali nicht.",
+        "quellen": ["https://www.uefa.com/uefaconferenceleague/news/02a6-20e5e911587f-cc10425958b3-1000--conference-league-qualifying-fixtures-results-dates-how-it-/", "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Conference_League_qualifying"]
+      },
+      {
+        "kategorie": "Premier-League-Sommer-Freundschaftsspiele (Pre-Season)",
+        "datum": "Woche 20.-26.07.2026 laufend",
+        "beispiele": ["Manchester United Sommer-US-Tour ab 20.07", "Blackburn Test in Albufeira 22.07", "PSV Eindhoven vs Villarreal 25.07", "Feyenoord vs Rayo Vallecano 26.07"],
+        "grund_skip": "Trainings-Format mit Massen-Wechseln (oft 2x11 komplett), kein Motivations-Edge, Aufstellungen bis kurz vor Anpfiff nicht sicher, Neuzugaenge und Jugendspieler bekommen Test-Zeit - strukturell nicht tippfaehig.",
+        "quellen": ["https://www.skysports.com/football/news/12040/13546612/premier-league-pre-season-friendlies-2026-27-fixtures-results-uk-kick-off-times-summer-tour-schedule-and-training-camps", "https://www.premierleague.com/en/news/4606700/premier-league-clubs-summer-2026-friendlies-and-tours"]
+      },
+      {
+        "kategorie": "Bundesliga-Sommer-Freundschaftsspiele (Pre-Season)",
+        "datum": "Woche 20.-26.07.2026 laufend",
+        "beispiele": ["Bayern Muenchen Trainingslager Rottach-Egern (Testspiele Grasshoppers Zuerich ab ~26.07)", "Dortmund Trainingslager Bad Ragaz Schweiz", "Real Madrid US-Tour parallel"],
+        "grund_skip": "wie Premier-League-Friendlies - Trainings-Format, kein Wettbewerbs-Charakter, hohe Rotations-Volatilitaet.",
+        "quellen": ["https://en.billet-de-match.com/club-friendly-match-schedule/"]
+      },
+      {
+        "kategorie": "NBA Summer League Las Vegas",
+        "datum": "10.-20.07.2026 (Ausklang in Vorschau-Woche)",
+        "grund_skip": "NICHT in CLAUDE.md-Scope (nur NBA-Regulaersaison+Playoffs+Finals) - Summer League ist Rookie-Turnier ohne Star-Aufgebot, strukturell nicht tippfaehig fuer Miesmuschel-Setup.",
+        "quellen": ["https://www.nba.com/summer-league"]
+      },
+      {
+        "kategorie": "Brasileirao Serie A + MLS + WNBA + NHL-Nachsaison",
+        "datum": "laufend",
+        "grund_skip": "NICHT in CLAUDE.md-Scope (nur europaeische Top-5-Klub-Ligen + DFB-Pokal + Coppa Italia + CL/EL/Conference Hauptrunde + WM + NBA)."
+      }
+    ]
+  },
+  "kasse_hinweis": {
+    "kasse_euro": 550,
+    "stand": "2026-05-04",
+    "stufe": 1,
+    "stufe_kommentar": "Aufbau-Phase Kasse <1000 EUR - Standard-Einsaetze bleiben konservativ (1-2% SAFE/VALUE, 0.5% Wackel, 2% Kombi-Safe, 0.8% Kombi-Balance, 0.25% Kombi-Risiko, 0.1% Moonshot). Diese Woche keine In-Scope-Tipps -> kein Einsatz.",
+    "auszahlungs_hinweis": "Auszahlungs-Trigger (Kasse >= basis_kasse_euro 1000 + auszahlungs_schwelle_euro 200 = 1200 EUR) nicht erreicht, keine Aktion."
+  },
+  "naechste_recherche_slots_pipeline": {
+    "tag_20_07_bis_24_07": "Mo-Fr Recherche-Slots 10:30 Berlin laufen weiter, werden aber leere Recherche-Files produzieren (kein In-Scope-Spiel) - unkritisch.",
+    "wochenende_25_26_07": "Do 23.07 16:30 Berlin Wochenend-Recherche-Slot produziert vermutlich leere Wochenend-Recherche (kein In-Scope-Wochenend-Spiel).",
+    "woche_27_07_bis_02_08": "So 26.07 16:30 Berlin naechste Wochen-Recherche - vermutlich weiterhin leer (Vereine noch pausiert, WM+NBA aus).",
+    "erste_relevante_recherche": "**Do 13.08.2026 16:30 Berlin - Wochenend-Recherche fuer Sa 15.08 + So 16.08**: Premier-League-1.-Spieltag + Ligue-1-2.-Spieltag + DFB-Pokal-1.-Runde-Wochenende. Bundesliga-1.-Spieltag Fr 21./22.08 folgt in Wochenend-Recherche 20.08. LaLiga+Serie-A-Start folgt in Wochenend-Recherche 20./27.08."
+  },
+  "footer": {
+    "spielerschutz_hinweis": "18+ - bet365 DE - Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+    "erstellt_von": "recherche_cloud_routine",
+    "modus_kommentar": "wochen-vorschau modus, anker montag 2026-07-20, empty-spiele-liste durch post-wm-plus-sommerpause-situation"
+  }
+}
