@@ -1,0 +1,108 @@
+{
+  "spiel_id": "2026-07-19-arg-esp",
+  "sport": "fussball",
+  "liga": "FIFA WM 2026 - Finale",
+  "heim": "Argentinien",
+  "gast": "Spanien",
+  "anstoss": "2026-07-19T21:00:00+02:00",
+  "stadion": "MetLife Stadium, East Rutherford NJ",
+  "erstellt_am": "2026-07-19T10:00:00+02:00",
+  "saison_kontext": {
+    "parallel_heim": "keine - WM-Finale, kein paralleler Wettbewerb. Vereine (Serie A, Ligue 1, Bundesliga, LaLiga, PL) pausieren bis August 2026 (PL-Saisonstart 15./16.08.2026).",
+    "parallel_gast": "keine - WM-Finale, kein paralleler Wettbewerb. LaLiga 2026/27 startet ~22./23.08.2026, ESP-Kernkader (Yamal/Pedri/Cubarsi/Ferran/Olmo Barcelona-Achse, Rodri City) bekommt danach ~4 Wochen Pre-Season.",
+    "saisonziel_heim": "Titel-Verteidigung (Weltmeister 2022 gegen FRA 4:2 iE). Turnier-Bilanz vor Finale: 6 Siege, 1 Unentschieden (Schweiz QF 1:1 iE), 0 Niederlagen, 15:5 Tore. HF-Sieg gg ENG 2:1 durch spaetes Doppel-Comeback (Enzo Fernandez Min 85 + Lautaro Martinez Min 90+2, beide nach Messi-Assist). Kader komplett fit. Motivations-Maximum: moeglicherweise Messi's letztes WM-Spiel + Titel-Doubel-Chance (Sudamerika + Weltmeister).",
+    "saisonziel_gast": "1. Weltmeistertitel seit 2010 (ESP-NED 1:0 iET). Turnier-Bilanz vor Finale: 6 Siege, 1 Unentschieden, 0 Niederlagen, 16:4 Tore. HF-Sieg gg FRA 2:0 in 90 Min (Oyarzabal-Elfmeter Min 22 nach Digne-Foul an Yamal, Porro Verteidiger-Tor Min 58) - dominante Vorstellung. De la Fuente-System 4-2-3-1 mit Rodri-Ruiz Doppel-6 + Cubarsi-Laporte IV-Achse. Motivations-Maximum: Golden-Generation Yamal/Pedri/Rodri erster WM-Titel + Doppel-EM (2024) + WM 2026 = spanische Aera-Signatur.",
+    "motivations_asymmetrie": "Beide Teams im Motivations-Maximum (WM-Finale = keine hoehere Buehne). Messi-Last-Ride-These + Argentinien-Doubel-Titelverteidigung stehen gegen Spaniens Golden-Generation-Erster-WM-Titel + EM-Kroenung. Klassen-Edge zart Spanien: ESP dominierte HF 90-Min souveraen (Klassen-Sieg vs FRA), ARG war in HF und QF ins Verlaengerungs-Wackel gerutscht (SUI QF 1:1 iE, ENG HF 2:1 durch spaetes Comeback). ESP-System organisiert (Rodri-Ruiz), ARG-Erfahrung + Messi-Kreativitaet Kontrapunkt. Verlaengerungs-Risiko real (WM-Finale-Empirie 3/6 letzte WMs iET/iE: 2022 iE, 2014 iET, 2010 iET). Elfmeter-Trigger-Muster HR07-14-3 aktiv: Klassen-Duelle mit organisierter Defense -> Fuehrungstor haeufig via Elfmeter (FRA-MAR VF, FRA-ESP HF).",
+    "recovery_heim": "4 Tage Pause seit HF 15.07. Atlanta -> East Rutherford NJ (~1400km, Ost-Kueste-noerdlich). Injury-Cluster: KEINE Verletzungssorgen im Kern-Kader laut recherche_file. Rotation-Freiraum: Scaloni-Muster ist Kontinuitaet - Stammelf mit Messi + Alvarez + Lautaro + Enzo + Mac Allister + De Paul + Otamendi + Cristian Romero + Molina + Tagliafico + Martinez erwartet. Spaeter Comeback-Elan HF (Enzo Min 85 + Lautaro Min 90+2) sollte Selbstvertrauen fuer Finale liefern.",
+    "recovery_gast": "5 Tage Pause seit HF 14.07. Arlington -> East Rutherford NJ (~2200km, quer durchs Land). Injury-Cluster: Lamine Yamal Muskel-Sorge (humpelte nach HF, laut recherche_file 'erwartet fit'), Pedro Porro muskulaeres Problem (erwartet fit), Yeremy Pino OUT seit Gruppen-Phase (Schulter). De la Fuente-Muster: Stammelf mit Simon + Cucurella-Laporte-Cubarsi-Porro + Rodri-Ruiz + Yamal-Olmo-Nico Williams + Oyarzabal. Bei Yamal-Ausfall waere Ferran Torres-Alternative auf RF. Ein Tag mehr Pause = leichter Recovery-Vorteil vs ARG.",
+    "quellen": [
+      "https://www.transfermarkt.de/argentinien/startseite/verein/3437",
+      "https://www.transfermarkt.de/spanien/startseite/verein/3375",
+      "https://www.kicker.de/wm-2026/kader",
+      "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+      "https://www.sportsmole.co.uk/football/spain/world-cup-2026/predicted-lineups/yamal-status-and-pedri-decision-predicted-spain-xi-vs-argentina_601303.html",
+      "https://www.sportsmole.co.uk/football/argentina/world-cup-2026/predicted-lineups/alvarez-or-martinez-de-paul-or-simeone-predicted-argentina-xi-vs-spain_601305.html"
+    ]
+  },
+  "news": [
+    "Argentinien HF 2:1 gg England Mi 15.07. Atlanta: Rueckstand 0:1 durch Gordon Min 55, Doppel-Comeback Enzo Fernandez Min 85 (Messi-Assist) + Lautaro Martinez Min 90+2 (Messi-Assist). Messi im Turnier auf ~4 direkte Tor-Beitraege (Tor/Assist) - Kreativ-Zentrum ARG.",
+    "Spanien HF 2:0 gg Frankreich Di 14.07. Arlington: Oyarzabal-Elfmeter Min 22 (nach Digne-Foul an Yamal), Porro Verteidiger-Tor Min 58 (Olmo-Vorlage nach Gib-und-Geh). Klassen-Sieg in 90 Min souveraen - ESP dominierte 60% Ballbesitz-Range.",
+    "Yamal (RF Barcelona) humpelte nach HF (muskulaere Sorge), laut recherche_file 'erwartet fit' aber Startelf-Status offen bis 4h vor Anpfiff. Alternative Ferran Torres (Barcelona) auf RF wenn Yamal geschont.",
+    "Pedri (ZM Barcelona) 'Entscheidung' laut recherche_file - Startelf oder Sub-Rolle. De la Fuente-Muster: Pedri als 10er neben Ruiz+Rodri im Doppel-6 wenn fit, sonst Olmo verrueckt in Zentrale.",
+    "Messi (ST Inter Miami, Argentinien) potenziell letztes WM-Spiel der Karriere - individuelle Karriere-Highlight-Motivation im Sichtfeld. Cluster HR07-11-1 (Golden-Boot-Trio-QF-HF-Fehl) hat Messi in QF+HF ohne Tor, aber 2 Assist-Beitraege HF - Cluster-Ausnahme-Trigger HR07-18-3 aktiv (individueller Karriere-Rekord vor Sicht).",
+    "Rodri (DM Man City, Spanien) - Ballon d'Or 2024 Traeger, Motor der ESP-Balance zwischen Aufbauspiel und Zerstoerung. Verletzungs-Comeback nach ACL 2024/25 komplett - im Turnier voll dabei.",
+    "MetLife Stadium East Rutherford NJ: neutrales Klima (New Jersey Ost-Kueste, Nachmittag/Abend-Slot 21:00 CEST = 15:00 Lokal). CLAUDE.md-Spielort-Faktor NICHT extremer Hitze-/Hoehen-Impact. 82.500 Zuschauer-Kapazitaet - historisch Finalstaette bereits fuer Copa America 2024 (ARG-COL 1:0 iET).",
+    "WM-Finale-Empirie letzte 6 WMs (90 Min): 2022 ARG-FRA 3:3 (iE, Ueber), 2018 FRA-CRO 4:2 (Ueber), 2014 GER-ARG 0:0 (iET, Unter), 2010 ESP-NED 0:0 (iET, Unter), 2006 ITA-FRA 1:1 (iE, Unter), 2002 BRA-GER 2:0 (Unter). = 4/6 Unter 2.5 in 90 Min, 3/6 iET/iE. Verlaengerungs-Risiko real - Sieg-Tipps 90min-Range zu beachten.",
+    "Aktions-Regel bet365 DE: WM 2026 unterliegt 2:0-Insurance (Sieg-Tipp gilt gewonnen sobald Team mit 2 Toren Vorsprung fuehrte). Gilt NUR fuer 90min-Sieg, NICHT DC/Handicap/Torschuetze/BTTS. Kein Sieg-Tipp heute im Dossier (Finale-Motivations-Maximum beidseits + Verlaengerungs-Risiko + Klassen-Duell-Enge) - Insurance-Info nur zur Vollstaendigkeit.",
+    "Lessons-Cluster aus HF-Doppel: HR07-14-1 (HF-Klassen-Duell Unter 2.5 + BTTS Nein HIT bei FRA-ESP 0:2) vs HR07-15-1 (Portfolio-Uebertrag-Falle: HF2 ENG-ARG 1:2 hat Blueprint UMGEDREHT). Doppel-Kausal-These 'Defense wins' KEINE mechanische Uebertrag-Sicherheit auf Finale.",
+    "Beobachtungs-Liga-Status: 'FIFA WM 2026 - Halbfinale' im Boykott (-34.2% ROI 30d), aber 'FIFA WM 2026 - Finale' NICHT auf Beobachtungs-Liste (eigene Liga-Kategorie, keine 30d-Historie) - keine Schema-Mapper-Downgrade-Erwartung."
+  ],
+  "tipps": [
+    {
+      "id": "2026-07-19-arg-esp-t1",
+      "kategorie": "value",
+      "markt": "Doppelte Chance X2 (Spanien oder Remis nach 90min)",
+      "wette": "Spanien verliert nicht in regulaerer Spielzeit",
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 11.0,
+      "edge_prozent": 9,
+      "begruendung": "**Konservativer Klassen-Edge-Tipp**: ESP Turnier-Bilanz 6-1-0 (16:4) mit dominantem HF-Sieg 2:0 gg FRA in 90 Min, ARG 6-0-1 (15:5) mit 2 Verlaengerungs-Wackeln (SUI QF 1:1 iE, ENG HF 2:1 durch spaetes Comeback). De la Fuente-System (Rodri-Ruiz Doppel-6 + Cubarsi-Laporte IV) hat groesste Defensive-Organisation im Turnier gezeigt. **Markt-Goldgrube laut markt_goldgruben.json Stand 19.07.**: DC X2 mit HR 78.8% (n=35), ROI +11.7% - **zweite starke Goldgrube nach Unter 2.5 (+23.4%)**. **Absicherung gegen K.O.-Draw-Muster HR07-11-4**: WM-Finales 3/6 letzte iET/iE nach 90-Min-Draw - DC X2 deckt sowohl 90-Min-ESP-Sieg als auch 90-Min-Remis ab (Verlaengerungs-Ausgang irrelevant). **Kein SAFE-Label**: WM-Finale-Klassen-Empirie heterogen (2014 GER-ARG 1:0 iET Klassen-Favorit, 2018 FRA-CRO 4:2 Klassen-Favorit; aber 2022 ARG-FRA 3:3 iE Klassen-Underdog + Messi-Faktor), ARG-Erfahrung + Messi-Kreativitaet = kein Selbstlaeufer. **Kein Verstoss gegen HR07-18-4** (DC-Klassen-Edge-These-Fehler bei Rotations-Asymmetrie): Finale = beide Teams Vollgas-Stammelf, KEINE Rotations-Asymmetrie. **Kasse Stufe 1**: 2.0% = 11 EUR bei Quote 1.65. Quote 1.65 -> 61% implied, faire Schaetzung 66% -> +9% Edge.",
+      "quote": 1.65,
+      "faire_quote": 1.51,
+      "empfohlener_einsatz_prozent": 2.0
+    },
+    {
+      "id": "2026-07-19-arg-esp-t2",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "wette": "Endstand < 3 Tore insgesamt (90min inkl. Nachspielzeit, ohne Verlaengerung)",
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 8.25,
+      "edge_prozent": 10,
+      "begruendung": "**Markt-Goldgrube laut markt_goldgruben.json Stand 19.07.**: Unter 2.5 Tore mit **n=28, HR 67.9%, ROI +23.4% - staerkste Goldgrube der Liste**. **WM-Finale-Empirie letzte 6 WMs (90 Min)**: 4/6 Unter 2.5 (2002 2:0, 2006 1:1, 2010 0:0, 2014 0:0) vs 2/6 Ueber (2018 4:2, 2022 3:3) - 67% Basis. **HF-Cluster-Rueckhalt (Klassen-Duell-Rezept)**: FRA-ESP 0:2 = Unter 2.5 HIT (Goldgrube-Beispiel HR07-14-1). ENG-ARG war 1:2 knapp Unter 3.5 aber Ueber 2.5. **Elfmeter-Trigger-Muster HR07-14-3 aktiv**: K.O.-HF-Klassen-Duelle mit organisierter Defense -> Fuehrungstor haeufig via Elfmeter (FRA-MAR VF Elfer, FRA-ESP HF Elfer). Standard-Muster Finale: 1 Elfer/Standard + 1 spaetes Open-Play-Tor = 2 Tore in 90 Min. **HR26 K.O.-Torzahl-nach-unten**: VF+HF partiell bestaetigt (VF 3/4 Unter, HF 1/2 Unter). Finale in dieser Serie funktional K.O.-Krone. **HR07-15-1 Portfolio-Uebertrag-Falle bewusst adressiert**: Unter 2.5 als EINZEL-Value gesetzt, NICHT als BTTS-Nein-Doppel-Kombi (das war HF2-Blueprint der umgekippt ist). **Kasse Stufe 1**: 1.5% = 8.25 EUR bei Quote 2.05. Quote 2.05 -> 49% implied, faire Schaetzung 54% -> +10% Edge.",
+      "quote": 2.05,
+      "faire_quote": 1.85,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "2026-07-19-arg-esp-t3",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen (BTTS Ja)",
+      "wette": "Argentinien und Spanien erzielen je mind. 1 Tor in 90 Min",
+      "einsatz_prozent_kasse": 1.0,
+      "einsatz_euro": 5.5,
+      "edge_prozent": 6,
+      "begruendung": "**Komplementaer-Tipp zu T2 (Unter 2.5)**: Beide Bedingungen zusammen = Endstand 1:1 (Klassen-Duell-Signatur mit beidseitigem Volumen-Sturm). **HF2-Muster-Rueckhalt**: ENG-ARG war BTTS Ja (Gordon + Enzo + Lautaro), obwohl ARG-Sieg. **Messi-Assist-Kapazitaet-Trigger**: 2 Assists HF (Enzo Min 85 + Lautaro Min 90+2) - ARG-Volumen-Sturm-Duo Alvarez/Lautaro + Messi-Kreativitaet vs ESP-Volumen-Sturm Yamal/Oyarzabal/Ferran (letzterer Barcelona-9er als Sub). **Kein direkter Widerspruch zu T2**: 1:1 erfuellt beide (Unter 2.5 UND BTTS Ja). **Kein Widerspruch zu T4/T5 (Torschuetzen-Tipps)**: Messi-Tor + Yamal-Tor triggern BTTS Ja + verstaerken Portfolio. **Alternative-Setup bewusst gegen BTTS Nein**: HR07-15-1 warnt vor Doppel-Kausal-These 'Defense wins' (Unter 2.5 + BTTS Nein Portfolio-Uebertrag-Falle in HF2 crashed). BTTS Ja neben Unter 2.5 = orthogonaler Setup (1:1 der Sweet Spot). **Kasse Stufe 1**: 1.0% = 5.50 EUR bei Quote 1.78. Quote 1.78 -> 56% implied, faire Schaetzung 60%.",
+      "quote": 1.78,
+      "faire_quote": 1.67,
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "2026-07-19-arg-esp-t4",
+      "kategorie": "wackel",
+      "markt": "Lionel Messi trifft (Torschuetze Jederzeit)",
+      "wette": "Lionel Messi erzielt mind. 1 Tor in 90 Min oder Verlaengerung",
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 2.75,
+      "edge_prozent": 4,
+      "begruendung": "**HR07-18-3 Cluster-Ausnahme-Trigger aktiv (individueller Karriere-Rekord vor Sicht)**: potenziell Messi's letztes WM-Spiel - Karriere-Krone-Motivation ueberragt Muede-/Rotations-Effekt. Analog zu Mbappe P3 (brach Cluster HR07-10-4 mit Brace + 22. WM-Tor All-Time-Rekord) - Motivations-Multiplikator schlaegt Cluster. **Cluster-Gegenargument HR07-11-1 (Golden-Boot-Trio-QF-Fehl) + HR07-15-2 (KO-Torschuetzen-Cluster jetzt 5/6 verloren)**: Messi in QF+HF ohne eigenes Tor, aber 2 Assist-Beitraege HF (Enzo Min 85 + Lautaro Min 90+2). **WACKEL statt VALUE ist Cluster-Konsequenz** trotz Cluster-Ausnahme-Trigger - beide Signale werden respektiert. **Einwechslungs-Boost aktiv** (bet365-WM-Regel CLAUDE.md): sollte Messi wegen Belastung frueh raus, zaehlen Backup-Tore auf Julian Alvarez / Lautaro Martinez (falls Alvarez ins Doppel-9-System kommt). Scaloni-Muster: Messi selten frueh raus, meist Min 75-85. **Anti-Selbstwiderspruchs-Check**: T1 (DC X2 ESP) + T4 (Messi trifft) kompatibel (ESP-Sieg 2:1 oder 1:1 mit Messi-Tor). T2 (Unter 2.5) + T4 kompatibel (1:1 mit Messi-Tor). T3 (BTTS Ja) + T4 kompatibel (Messi-Tor traegt zu BTTS Ja bei). **Reduziert auf 0.5% Einsatz** (Kasse Stufe 1 WACKEL-Limit strikt): 0.5% = 2.75 EUR. Quote 3.30 -> 30% implied, faire Schaetzung 32%. **Torschuetze-Quelle-Warn moeglich** (Vereins-Torschuetzen-Statistik-URL nicht direkt in quellen[] - transfermarkt/kicker Argentinien decken Kader ab).",
+      "quote": 3.30,
+      "faire_quote": 3.13,
+      "empfohlener_einsatz_prozent": 0.5
+    },
+    {
+      "id": "2026-07-19-arg-esp-t5",
+      "kategorie": "wackel",
+      "markt": "Lamine Yamal trifft (Torschuetze Jederzeit)",
+      "wette": "Lamine Yamal erzielt mind. 1 Tor in 90 Min oder Verlaengerung",
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 2.75,
+      "edge_prozent": 3,
+      "begruendung": "**HR07-18-3 Cluster-Ausnahme-Trigger sekundaer aktiv (junger Star mit Karriere-Krone-Chance)**: 18-jaehriger WM-Erst-Titel + EM-Sieger 2024 im Sichtfeld - Karriere-Grand-Slam-Motivation. **Muskulaere Sorge (HF-Nachwirkung) explizit als WACKEL-Downgrade-Grund**: Yamal humpelte nach HF, laut recherche_file 'erwartet fit' aber Startelf-Status offen bis 4h vor Anpfiff. Bei Yamal-Ausfall waere Ferran Torres RF-Backup - dann Tipp automatisch verloren (nicht in 90 Min gespielt). **Cluster HR07-15-2 Torschuetzen-KO-Fehl 5/6 aktiv**: WACKEL nicht VALUE. **Einwechslungs-Boost aktiv**: bei Yamal-Startelf + Auswechslung fuer Ferran Torres zaehlt Ferran-Tor fuer diesen Tipp. **Elfmeter-Trigger-Muster HR07-14-3**: Yamal wurde in HF gefault (Digne) und ESP bekam Elfmeter - Yamal-selbst-schiesst-Elfer waere Muster-Rueckhalt, aber ESP-Elfschuetze Standard Oyarzabal (nicht Yamal). **Anti-Selbstwiderspruchs-Check**: T1 (DC X2 ESP) + T5 kompatibel (ESP-Sieg mit Yamal-Tor). T2 (Unter 2.5) + T5 kompatibel (1:0 oder 1:1 mit Yamal-Tor). T3 (BTTS Ja) + T5 kompatibel (Yamal-Tor + ARG-Tor). **Reduziert auf 0.5% Einsatz** (Kasse Stufe 1 WACKEL + Muskel-Sorge + Cluster-Downgrade): 0.5% = 2.75 EUR. Quote 3.75 -> 27% implied, faire Schaetzung 28%. **Torschuetze-Quelle-Warn moeglich** (keine direkte Yamal-Vereins-Torschuetzen-URL - Barcelona-Kader in transfermarkt Spanien-Nationalmannschaft indirekt abgedeckt).",
+      "quote": 3.75,
+      "faire_quote": 3.57,
+      "empfohlener_einsatz_prozent": 0.5
+    }
+  ],
+  "kontext_check_status": "OK"
+}
