@@ -52,5 +52,4 @@ window.__MIESMUSCHEL_TIPPS = {
     "verifikator_hinweis": "Ehrlich-Ruhetag-Publikation analog 2026-07-16 + 2026-07-17. Watchdog-Recovery weil Hauptroutine 16:00 nicht triggerte - inhaltlich verlustfrei weil kein Spiel im Fokus-Liga-Perimeter. Naechster erwarteter Master-Slot ab Mitte August bei Bundesliga/PL/LaLiga-Restart. Kasse-Stufe 1 bleibt aktiv. PWA zeigt Ruhetag-Karte statt Fuell-Content."
   },
   "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
-}
-;
+};
