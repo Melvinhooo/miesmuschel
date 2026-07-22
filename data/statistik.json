@@ -1,5 +1,5 @@
 {
-  "letzte_berechnung": "2026-07-21T07:05:27+00:00",
+  "letzte_berechnung": "2026-07-22T07:05:16+00:00",
   "gesamt": {
     "tipps": 523,
     "gewonnen": 287,
@@ -12,26 +12,26 @@
     "roi_prozent": 4.4
   },
   "letzte_30_tage": {
-    "tipps": 113,
-    "gewonnen": 60,
-    "verloren": 53,
+    "tipps": 103,
+    "gewonnen": 55,
+    "verloren": 48,
     "push": 0,
     "offen": 0,
-    "einsatz": 113.0,
+    "einsatz": 103.0,
     "netto": -14.37,
-    "trefferquote": 53.1,
-    "roi_prozent": -12.7
+    "trefferquote": 53.4,
+    "roi_prozent": -14.0
   },
   "letzte_90_tage": {
-    "tipps": 523,
-    "gewonnen": 287,
-    "verloren": 225,
+    "tipps": 515,
+    "gewonnen": 283,
+    "verloren": 221,
     "push": 2,
     "offen": 9,
-    "einsatz": 514.0,
-    "netto": 22.83,
-    "trefferquote": 56.1,
-    "roi_prozent": 4.4
+    "einsatz": 506.0,
+    "netto": 23.43,
+    "trefferquote": 56.2,
+    "roi_prozent": 4.6
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
