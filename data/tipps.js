@@ -61,5 +61,4 @@ window.__MIESMUSCHEL_TIPPS = {
     "verifikator_hinweis": "Watchdog-Slot Berlin - Hauptroutine 16:00 nicht gelaufen (Watchdog leicht frueher gefeuert). Ehrlich-Ruhetag-Publikation analog 2026-07-16 + 2026-07-17 + 2026-07-20 + 2026-07-21. Kein Fokus-Liga-Spiel identifiziert (Sommer-Pause aktiv). Naechster erwarteter Master-Slot ab Mitte August bei Vereins-Restart. Kasse-Stufe 1 bleibt aktiv. PWA zeigt Ruhetag-Karte statt Fuell-Content."
   },
   "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
-}
-;
+};
