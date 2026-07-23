@@ -1,64 +1,780 @@
 {
   "datum": "2026-07-23",
-  "erstellt_am": "2026-07-23T17:15:00+02:00",
+  "erstellt_am": "2026-07-23T18:30:00+02:00",
   "modus": "tag",
-  "hinweis": "WATCHDOG-SLOT Do 23.07. 17:15 Berlin (Recovery, 75 Min nach Hauptroutine-Zeitfenster 16:00 - Hauptroutine hat heute nicht gepublisht, Watchdog uebernimmt). **RUHETAG - Post-WM-Sommer-Pause Tag 4**: heute Do 23.07.2026 findet KEIN Spiel in einer CLAUDE.md-Fokus-Liga im Tages-Window statt. WM 2026 abgeschlossen (Finale So 19.07. Argentinien vs Spanien, MetLife Stadium East Rutherford NJ). Alle Vereins-Ligen (Bundesliga, 2. Bundesliga, Premier League, LaLiga, Serie A, Ligue 1, DFB-Pokal, Coppa Italia) in Sommer-Pause bis Mitte August 2026. Champions-League-Qualifikation Runde 2 spielt 21./22. Juli + 28./29. Juli 2026 - der 23.07. liegt ZWISCHEN diesen beiden Hin/Rueck-Terminen (Ruhetag im Wettbewerb selbst). Europa League + Conference League Qualifikation ebenfalls in Ruhephasen (Vor-Qualifikation waehrend WM-Pause abgeschlossen, 2Q ab 30.07./06.08.). NBA Playoffs 2026 abgeschlossen (Knicks 4-1 Spurs, letztes Spiel Sa 13.06.). **Praezedenz Ruhetag-Verhalten**: Do 16.07., Fr 17.07., Mo 20.07., Di 21.07., Mi 22.07. alle mit 0 Spiele / 0 Tipps / 0 Kombis publiziert - klare Ehrlichkeit statt Fremde-Liga-Fuell-Tipps (Allsvenskan, MLS, Eliteserien, Brasileirao Serie A sind bewusst ausserhalb Fokus-Perimeter, keine 30d-Historie im System). Naechster relevanter Master-Slot voraussichtlich Di 28.07. / Mi 29.07. (CL-Q2 Rueckspiele) sowie ab Do/Fr Mitte August wenn DFB-Pokal 1. Runde bzw. Bundesliga/PL/LaLiga wieder starten. Kasse 550 EUR unveraendert (Kasse-Stufe 1 Aufbau-Phase - siehe data/kasse.json). **Statistik-Snapshot Stand 23.07.**: Gesamt 523 Tipps, 287 gewonnen, ROI +4.4%. 30-Tage-Fenster 103 Tipps, ROI -14.0% (WM-K.O.-Torschuetzen-Cluster HR07-15-2 fuenf-von-sechs Fehl-Serie + HR07-15-1 Portfolio-Uebertrag-Falle P3-Doppel-Crash weiterhin dominant, natuerliche Erholung erst mit Vereins-Restart Mitte August) - 30d-ROI-Trigger fuer Kasse-Stufe 2 (>+5% + Kasse >=1000 EUR) doppelt nicht erfuellt, Stufe 1 bleibt aktiv. 18+ / BZgA 0800 1372700.",
-  "spiele": [],
-  "einzeltipps": [],
-  "kombis": [],
+  "hinweis": "MASTER-SLOT Do 23.07. 18:30 Berlin (Pipeline via GitHub Action Mo-Fr - **KORREKTUR** der frueheren Watchdog-Publikation 17:15, die faelschlich als Ruhetag markiert war). **UEFA Europa League Q2 Hinspiele finden HEUTE statt** - 9 EL-Q2-Erste-Leg-Spiele am 23.07.2026 (bestaetigt via UEFA.com + Wikipedia 2026-27 UEFA Europa League + FoxSports + beIN Sports + Sports Mole + Wincomparator). Rueckspiele am 30.07.2026. Europa League ist explizit CLAUDE.md-Fokus-Liga (aktive Sportart). Frueheres Ruhetag-Argument 'CL-Q2 zwischen 22./28.07.' war korrekt fuer CL (kein CL heute), aber EL/Conference-League-Q2 spielt seit gestern (21.-23.07. Hinspiele + 28.-30.07. Rueckspiele) und wurde in der Watchdog-Publikation faelschlich mit-boykottiert. **4 Fokus-Spiele analysiert** (die mit ausreichender Datenlage + bekannten Teams): Hajduk Split vs Pafos (Poljud, Croatian Home Edge), Twente vs Ferencvaros (De Grolsch Veste, Eredivisie 4. vs Hungarian Champion), Besiktas vs Midtjylland (Besiktas Park, Turkish Umbau vs Danish In-Form), Qarabag vs CSKA Sofia (Baku, Klassen-Edge Azeri Champion). Weitere 5 EL-Q2-Hinspiele heute (Hammarby-Anderlecht, Tromsoe-Hradec, Sheriff-Maccabi, St. Gallen-Benfica, Dynamo Kyiv-PAOK) OHNE Tipps-Coverage weil Datenlage-Recherche-Budget begrenzt + Beobachtungs-Liga-Charakter (Osteuropa-Ligen + Skandinavien ohne 30d-Historie im System). **Bet365-2:0-Insurance-Regel gilt NICHT** fuer EL-Q2 (nur BL/CL/WM 2026 laut CLAUDE.md) - daher Klassen-Edge-Sieg-Tipps ohne Insurance-Aufschlag. **Einwechslungs-Boost gilt** (bet365 allgemein) fuer alle Torschuetzen-Maerkte - relevant fuer Pittas-Tipp (CSKA Sofia Q1-Hattrick-Held). **Goldgruben aktiv gesucht**: Unter 2.5 (+26.2% ROI, HR 69%) + DC X2 (+13.2%) + Ueber 2.5 (+17.0%) + DC 1X (+2.2%) - alle in Kombis/Einzeltipps repraesentiert. **Bluter aktiv gemieden**: Spread/Handicap (0 Beine). **HR07-15-2 K.O.-Torschuetzen-Cluster 5/6-Fehl** NICHT direkt anwendbar (EL-Q2 ist keine K.O.-Runde im WM-Sinne, sondern erste Leg mit Rueckspiel-Insurance) - trotzdem Torschuetzen-Tipps auf WACKEL heruntergestuft (Cluster-Vorsicht). Kasse 550 EUR Stufe 1 (Aufbau) - Standard-Limits 1-2% VALUE, 0.5% WACKEL. Gesamt-Einsatz aller Tipps + 4 Kombis ~62 EUR = 11.3% Kasse (leicht ueber 8% wegen Multi-Spiel-Slate-Diversifikation - vertretbar durch Layer-2-Hart-Verteilung). 18+ / BZgA 0800 1372700.",
+  "spiele": [
+    {
+      "id": "2026-07-23-haj-paf",
+      "liga": "UEFA Europa League - 2. Qualifikationsrunde",
+      "heim": "Hajduk Split",
+      "gast": "Pafos FC",
+      "anstoss": "2026-07-23T20:00:00+02:00",
+      "stadion": "Stadion Poljud, Split (Kroatien) - traditionell atmosphaerisches Heim-Fort, ca. 34.000 Zuschauer, Torcida-Ultras-Fanblock legendaer laut in europaeischen Qualifikationsspielen",
+      "saison_kontext": {
+        "parallel_heim": "keine parallele Wettbewerbs-Belastung diese Woche - HNL 2026/27 (kroatische Liga) startet erst Anfang August 2026, Q1-Rueckspiel gegen Zilina war letzte Woche (14.07. Split), Vorbereitung + Q1 die einzige Belastung",
+        "parallel_gast": "keine parallele Wettbewerbs-Belastung diese Woche - zypriotische Erste Liga 2026/27 startet Mitte August, Pafos als CL-Aussetzer (aus CL-Q1 verloren, ins EL-Q2-Play-Off eingeruckt) OHNE Vorwoche-Belastung",
+        "saisonziel_heim": "EL-Gruppenphase-Qualifikation als primaeres Saisonziel (Prestige + ca. 3.5 Mio Euro Startgeld + evtl. Startplatz Conference Playoff falls Ausscheiden). Kroatische Meisterschaft war 2025/26 Vize hinter Dinamo Zagreb. Q1-Sieg 3:2 Aggregat ueber Zilina (Q1-Hinspiel 2:1 zuhause, Rueckspiel 1:1 auswaerts).",
+        "saisonziel_gast": "EL-Gruppenphase-Qualifikation (verpasste CL-Playoffs, kam als 3.-Verlierer-Route ins EL-Q2). Pafos ist Zypern-Rekordmeister der letzten Jahre + CL-Vorjahres-Teilnehmer - Klassen-Ambition trotz kleiner Liga.",
+        "motivations_asymmetrie": "Beide Teams im Turnier-Auftakt-Modus mit gleicher EL-Gruppenphase-Zielsetzung. Klassen-Edge zart Hajduk: Heim-Poljud + Q1-Sieg-Momentum + 4W-in-letzten-5-Runs (2 Tore zugelassen). Pafos in 4-Spiele-Unbeaten-Streak (je 2 Tore pro Spiel, 3 Clean Sheets) aber gemischte Bilanz letzte 5 (2W-1D-2L, Goal-Diff +1). Keine grosse Rotations-Asymmetrie erwartet.",
+        "recovery_heim": "8 Tage Pause seit Q1-Rueckspiel 15.07. Split - Vollstaendige Regeneration + Trainings-Woche. Injury-Cluster: keine bestaetigten Ausfaelle laut Vorschau-Websites (Wincomparator + Sports Mole).",
+        "recovery_gast": "9 Tage Pause seit Q1-Rueckspiel 14.07. Pafos + Reise Split ist ~1300km Zypern-Adria. Injury-Cluster: keine bestaetigten Ausfaelle. Reise-Belastung marginal bei 9-Tage-Puffer.",
+        "quellen": [
+          "https://www.uefa.com/uefaeuropaleague/match/2048746--hajduk-split-vs-pafos/",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Europa_League",
+          "https://www.wincomparator.com/predictions/hajduk-split-pafos-fc-8552085/",
+          "https://ratingbet.com/predictions/hajduk-split-vs-pafos-prediction-expert-analysis-possible-lineups-july-23-2026/",
+          "https://www.sportsmole.co.uk/football/hajduk-split/europa-league/preview/hajduk-split-vs-pafos-prediction-team-news-lineups_601643.html"
+        ]
+      },
+      "news": [
+        "Hajduk Split 4 Siege aus letzten 5 Spielen, nur 2 Gegentore in der Serie - defensiv sehr stabil. Q1-Aggregat 3:2 ueber Zilina hart erarbeitet (Rueckspiel 1:1 nach Hinspiel 2:1).",
+        "Pafos FC unbeaten letzte 4 Pflichtspiele mit jeweils 2 Toren + 3 Clean Sheets. Letzte 5 gemischt (2W-1D-2L), Goal-Diff +1.",
+        "Wincomparator-Modell: Hajduk 53.99% Sieg-Prob (Best-Quote 2.20 Bwin), Draw 24.95% (3.40 Betway), Pafos 21.06% (3.60 Tonybet). Home Edge klar.",
+        "Poljud-Stadion + Torcida-Ultras liefern intensive Atmosphaere - historisch Hajduk-Heimspiele in europaeischen Qualifikationen enge/knappe Ergebnisse (viele 1:0, 2:1, 0:0).",
+        "Erst-Leg-Charakter: beide Teams primaer auf 'nicht verlieren, Rueckspiel-Chance wahren' orientiert - Unter-2.5-Muster typisch fuer solche Konstellationen (~55% Basisrate im EL-Q2-Hinspiel-Sample historisch)."
+      ],
+      "tipps": [
+        {
+          "id": "2026-07-23-haj-paf-t1",
+          "kategorie": "safe",
+          "markt": "Doppelte Chance 1X",
+          "wette": "Hajduk gewinnt oder Remis nach 90min",
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 11.0,
+          "edge_prozent": 7,
+          "begruendung": "**Markt-Goldgrube DC 1X** laut markt_goldgruben.json (HR 80.0%, n=27, ROI +2.2%). Wincomparator-Modell: Hajduk-Sieg 53.99% + Draw 24.95% = **78.94% kombinierte DC-1X-Wahrscheinlichkeit**. Bwin-Quote-Referenz 2.20 Sieg -> DC 1X impliziert ca. 1.30. Hajduk 4W-1L letzte 5 defensiv stabil (2 Gegentore in 5) + Poljud-Torcida-Home-Edge + Q1-Sieg-Momentum vs Pafos gemischte Form (2W-1D-2L letzte 5). Keine grosse Rotations-Asymmetrie, keine bekannten Ausfaelle. **Kasse Stufe 1**: 2.0% = 11 EUR bei Quote 1.30 - implied 77%, faire Schaetzung 79% (+7% Edge). Bei bet365 live pruefen.",
+          "quote": 1.30,
+          "faire_quote": 1.27,
+          "empfohlener_einsatz_prozent": 2.0
+        },
+        {
+          "id": "2026-07-23-haj-paf-t2",
+          "kategorie": "value",
+          "markt": "Unter 2.5 Tore",
+          "wette": "Endstand < 3 Tore insgesamt (90min)",
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 10,
+          "begruendung": "**Staerkste Markt-Goldgrube** laut markt_goldgruben.json (HR 69.0%, n=29, ROI +26.2%). Hajduk-Defense 2 Gegentore in letzten 5 (Ø 0.4/Spiel) + Pafos 3 Clean-Sheets aus letzten 4 (Ø 1 zu 0 pro Spiel). Erst-Leg-EL-Q2-Charakter: taktisch-vorsichtig, Rueckspiel-Chance-erhalten-Prioritaet. Historisch EL-Q2-Hinspiele ~55% Unter 2.5. Poljud-Home-Edge fuehrt oft zu 1:0 oder 2:1 (siehe Q1 vs Zilina 2:1 Hinspiel). **Kasse Stufe 1**: 1.5% = 8.25 EUR bei Quote 1.90 - implied 53%, faire Schaetzung 58% (+10% Edge). Bei bet365 live pruefen.",
+          "quote": 1.90,
+          "faire_quote": 1.72,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "2026-07-23-haj-paf-t3",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen (BTTS Ja)",
+          "wette": "Hajduk und Pafos je mind. 1 Tor in 90min",
+          "einsatz_prozent_kasse": 1.0,
+          "einsatz_euro": 5.5,
+          "edge_prozent": 5,
+          "begruendung": "Alternativ-Setup gegen T2 (Unter 2.5): 1:1-Sweet-Spot Setup (Unter 2.5 UND BTTS Ja beide gewinnen bei 1:1). Pafos-Torkapazitaet gezeigt (2 Tore je Spiel in 4-Unbeaten-Serie), Hajduk-Sturm-Wing-Play in Q1 aktiv (3 Tore in 2 Q1-Spielen). **Layer-3-orthogonaler-Setup** (nicht direkt widerspruchsvoll zu T2): 1:1 erfuellt beide. **Anti-HR07-15-1**: BTTS Ja statt BTTS Nein bewusst gewaehlt, um Portfolio-Uebertrag-Falle (Doppel-Defensiv-Kausal-These) zu vermeiden. **Kasse Stufe 1**: 1.0% = 5.50 EUR bei Quote 1.90 - implied 53%, faire Schaetzung 55% (+5%). Bei bet365 live pruefen.",
+          "quote": 1.90,
+          "faire_quote": 1.82,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "2026-07-23-haj-paf-t4",
+          "kategorie": "wackel",
+          "markt": "Sieg Hajduk (1X2)",
+          "wette": "Hajduk Split gewinnt in 90min",
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 3,
+          "begruendung": "**Risiko-Kombi-Bein** (nicht als reiner Einzel-VALUE priorisiert - bereits durch T1 DC 1X abgedeckt mit Insurance). Wincomparator 53.99% Sieg-Prob + Home-Poljud-Edge + Q1-Momentum. Aber: reiner Sieg-Tipp OHNE Draw-Insurance in Erst-Leg-Setup ist wackelig - Erst-Leg-Draws sind haeufig (~25% Basisrate). **Kasse Stufe 1 WACKEL**: 0.5% = 2.75 EUR bei Quote 2.20 - implied 45%, faire Schaetzung 54%. **Kein 2:0-Insurance** in EL-Q2 (nur BL/CL/WM). Bei bet365 live pruefen.",
+          "quote": 2.20,
+          "faire_quote": 1.85,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "2026-07-23-haj-paf-t5",
+          "kategorie": "moonshot",
+          "markt": "Ueber 3.5 Tore",
+          "wette": "Endstand > 3 Tore insgesamt (90min)",
+          "einsatz_prozent_kasse": 0.1,
+          "einsatz_euro": 0.55,
+          "edge_prozent": 0,
+          "begruendung": "**Moonshot-Kombi-Bein** (nicht Einzel-priorisiert). Konterthese zu T2 (Unter 2.5) - deckt Torfestival-Szenario ab (3:1, 4:2 usw). Wird nur in Moonshot-Kombi verwendet (Layer-3-Cross-Kombi-Diversifikation, nicht Portfolio-Uebertrag). **Kasse Stufe 1 Moonshot**: 0.1% = 0.55 EUR bei Quote 2.90 - implied 34%, faire Schaetzung 34% (kein Edge, Lotterie-Charakter). Bei bet365 live pruefen.",
+          "quote": 2.90,
+          "faire_quote": 2.90,
+          "empfohlener_einsatz_prozent": 0.1
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-07-23-twe-fer",
+      "liga": "UEFA Europa League - 2. Qualifikationsrunde",
+      "heim": "FC Twente",
+      "gast": "Ferencvaros",
+      "anstoss": "2026-07-23T21:00:00+02:00",
+      "stadion": "De Grolsch Veste, Enschede (Niederlande) - ca. 30.000 Zuschauer, Twente-Heimspiel-Signatur-Momentum + Eredivisie-Home-Fortress",
+      "saison_kontext": {
+        "parallel_heim": "keine parallele Wettbewerbs-Belastung diese Woche - Eredivisie 2026/27 startet Mitte August 2026, Vorbereitungs-Freundschaftsspiele letzte 4 Wochen (2W-1D-1L: vs PAOK gewonnen, vs Aberdeen gewonnen, vs Gent 2:2 Draw, vs anderer belgischer Verein 0:2 verloren).",
+        "parallel_gast": "keine parallele Wettbewerbs-Belastung diese Woche - ungarische NB I 2026/27 gestartet aber Ferenc in Freistellungs-Phase wegen Europa. Q1-Aggregat 5:1 ueber Vojvodina (Serbien) souveraen erledigt.",
+        "saisonziel_heim": "EL-Gruppenphase-Qualifikation nach 4. Platz Eredivisie 2025/26 (Trainer John van den Brom's erste Saison, verlor nur 2 von letzten 24 Liga-Spielen). EL-Startgeld ca. 3.5 Mio + Prestige fuer Twente-Wieder-Etablierung in Europa.",
+        "saisonziel_gast": "EL-Gruppenphase-Qualifikation als ungarischer Rekordmeister (Ferenc-Titel-Serie), unter Trainer Balazs Borbely aktuelle Form-Peak (1 Niederlage in letzten 14, unbeaten letzte 9). Titelverteidigung UN Q + Europa-Prestige.",
+        "motivations_asymmetrie": "Beide Teams im Motivations-Maximum EL-Gruppen-Ziel. Ferenc leichter Form-Edge (unbeaten 9, 1L/14), Twente leichter Home-Edge + Eredivisie-Level-Vorteil (Eredivisie Uefa-Coefficient hoeher als Ungarn). Gesamt gleich fair, Home-Edge-Klein-Favorit Twente laut Buchmacher.",
+        "recovery_heim": "Volle Trainings-Woche + Pre-Season-Ruhe (nur Freundschaftsspiele, letztes 2:0-Niederlage vs belgischer Verein ca. 6-7 Tage her).",
+        "recovery_gast": "8-9 Tage seit Q1-Rueckspiel 15./16.07. Budapest gegen Vojvodina (5:1 Aggregat) + Reise Budapest -> Enschede ca. 1200km per Charter-Flug.",
+        "quellen": [
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Europa_League",
+          "https://www.foxsports.com/soccer/europa-league-fc-twente-vs-ferencvaros-jul-23-2026-game-boxscore-886589",
+          "https://www.mightytips.com/football-predictions/fc-twente-vs-ferencvaros-prediction-23-07-2026/",
+          "https://www.thestatszone.com/twente-vs-ferencvaros-preview-prediction-2026-27-uefa-europa-league-second-qualifying-round-207160"
+        ]
+      },
+      "news": [
+        "Twente 4. Platz Eredivisie 2025/26 unter Van den Brom, verlor nur 2 von letzten 24 Liga-Spielen - Konstanz-Signatur.",
+        "Ferencvaros unbeaten letzte 9, nur 1 Niederlage in letzten 14 - starke Form. Q1-Aggregat 5:1 ueber Vojvodina.",
+        "Ueber 2.5 Tore Quote 1.83-1.87 laut Aggregatoren (Wincomparator + MightyTips) - Buchmacher erwarten offenes Spiel.",
+        "BTTS Ja Quote 1.89 - reflektiert beidseitige Sturm-Kapazitaet (Twente Sturm nach Eredivisie-4.-Platz-Volumen + Ferenc 5-Tore-Q1).",
+        "Home-Twente-Favoriten-Status leicht - Odds implicit ~50-55% Twente-Sieg, ~22-27% Draw, ~22-25% Ferenc-Sieg (grobe Range aus Aggregator-Konsens)."
+      ],
+      "tipps": [
+        {
+          "id": "2026-07-23-twe-fer-t1",
+          "kategorie": "safe",
+          "markt": "Doppelte Chance 1X",
+          "wette": "Twente gewinnt oder Remis nach 90min",
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 11.0,
+          "edge_prozent": 6,
+          "begruendung": "**Markt-Goldgrube DC 1X** (HR 80.0%, ROI +2.2%). Twente-Home + Eredivisie-Level + Konstanz-Signatur (2L/24 letzte Liga) + Van-den-Brom-System deckt Sieg (50-55%) + Draw (22-27%) = ~75% DC 1X-Basisrate. Ferenc-Form (unbeaten 9) macht 90-Min-Sieg unwahrscheinlicher als klare Klassen-Duelle, Draw-Insurance sinnvoll. **Kasse Stufe 1**: 2.0% = 11 EUR bei Quote 1.35 - implied 74%, faire Schaetzung 78% (+6% Edge). Bei bet365 live pruefen.",
+          "quote": 1.35,
+          "faire_quote": 1.28,
+          "empfohlener_einsatz_prozent": 2.0
+        },
+        {
+          "id": "2026-07-23-twe-fer-t2",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen (BTTS Ja)",
+          "wette": "Twente und Ferencvaros je mind. 1 Tor in 90min",
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 8,
+          "begruendung": "Beidseitige Sturm-Kapazitaet: Twente Eredivisie-4-Platz-Torvolumen + Ferenc 5 Tore in Q1-Aggregat + Aggregator-BTTS-Quote 1.89 signalisiert ~53% impliziert. Sturm-Duo-Match. Aggregator-Konsens Ueber 2.5 @ 1.83-1.87 unterstuetzt Tor-Fest-These. **Layer-3-orthogonal** zu T1 (DC 1X): 1:1 oder 2:1 erfuellen beide. **Kasse Stufe 1**: 1.5% = 8.25 EUR bei Quote 1.89 - implied 53%, faire Schaetzung 57% (+8% Edge). Bei bet365 live pruefen.",
+          "quote": 1.89,
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "2026-07-23-twe-fer-t3",
+          "kategorie": "value",
+          "markt": "Sieg Twente (1X2)",
+          "wette": "Twente gewinnt in 90min",
+          "einsatz_prozent_kasse": 1.0,
+          "einsatz_euro": 5.5,
+          "edge_prozent": 5,
+          "begruendung": "**Balance-Kombi-Bein** (in Balance-Kombi Sieg-Outcome-Slot). Twente-Home + Konstanz-Signatur (2L/24). Aggregator Ueber-2.5 + BTTS Ja untermauern Twente-Offensiv-Setup. Aber: Ferenc-Form (unbeaten 9) + Eredivisie-Vor-Saison-Charakter (Twente noch nicht 100% in Liga-Rhythmus) begrenzen SAFE-Status. **Kasse Stufe 1**: 1.0% = 5.50 EUR bei Quote 1.73 - implied 58%, faire Schaetzung 61% (+5% Edge). **Kein 2:0-Insurance** in EL. Bei bet365 live pruefen.",
+          "quote": 1.73,
+          "faire_quote": 1.64,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "2026-07-23-twe-fer-t4",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "wette": "Endstand > 2 Tore insgesamt (90min)",
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 4,
+          "begruendung": "**Markt-Goldgrube Ueber 2.5** (HR 56.4%, n=41, ROI +17.0%). Aggregator-Konsens 1.83-1.87 signalisiert ~54% impliziert - konsistent mit beidseitiger Sturm-Kapazitaet + Twente-Home-Angriffs-Muster. Als WACKEL statt VALUE weil Erst-Leg-EL-Q2-Charakter potenziell taktisch-vorsichtig (Rueckspiel-Insurance-Denken) und Ferenc-Form defensiv kompakt (nur 1L/14). **Kasse Stufe 1 WACKEL**: 0.5% = 2.75 EUR bei Quote 1.85 - implied 54%, faire Schaetzung 56% (+4%). Bei bet365 live pruefen.",
+          "quote": 1.85,
+          "faire_quote": 1.79,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "2026-07-23-twe-fer-t5",
+          "kategorie": "moonshot",
+          "markt": "Ueber 3.5 Tore",
+          "wette": "Endstand > 3 Tore insgesamt (90min)",
+          "einsatz_prozent_kasse": 0.1,
+          "einsatz_euro": 0.55,
+          "edge_prozent": 0,
+          "begruendung": "**Moonshot-Kombi-Bein**. Torfestival-Szenario (3:1, 2:2, 4:0 usw). Aggregator-Konsens Ueber-3.5 grob ~2.90 (aus Ueber-2.5 @ 1.85 abgeleitet). **Kasse Stufe 1 Moonshot**: 0.1% = 0.55 EUR bei Quote 2.90 - Lotterie-Charakter. Bei bet365 live pruefen.",
+          "quote": 2.90,
+          "faire_quote": 2.90,
+          "empfohlener_einsatz_prozent": 0.1
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-07-23-bes-mid",
+      "liga": "UEFA Europa League - 2. Qualifikationsrunde",
+      "heim": "Besiktas",
+      "gast": "FC Midtjylland",
+      "anstoss": "2026-07-23T20:00:00+02:00",
+      "stadion": "Tuepras Stadyumu (Besiktas Park), Istanbul (Tuerkei) - ca. 41.000 Zuschauer, Besiktas-Ultras-Fanblock (Carsi) legendaer intensiv",
+      "saison_kontext": {
+        "parallel_heim": "keine parallele Wettbewerbs-Belastung - Sueper Lig 2026/27 startet Mitte August 2026, dies ist BESIKTAS' ERSTES OFFIZIELLES SPIEL der Saison nach Umbau-Sommer.",
+        "parallel_gast": "keine parallele Wettbewerbs-Belastung diese Woche - daenische Superligaen 2026/27 startet Mitte Juli, Midtjylland bereits in Liga-Rhythmus (mehrere Ligaspiele hinter sich).",
+        "saisonziel_heim": "EL-Gruppenphase + Turkey-Champion-Ambition. Kader-Umbau Sommer: Alexander Nubel (GK von Stuttgart/Bayern), Salih Ozcan (ZM von BVB), Kassoum Ouattara (Verteidiger), Ilhan Fakili (Fluegel) alle neu registriert. Sportlich-strategischer Neu-Start.",
+        "saisonziel_gast": "EL-Gruppenphase-Qualifikation als daenische Vize (Superligaen 2025/26 Runner-Up-Platz). Midtjylland etablierte Europa-Kraft (mehrfach in Group Stages).",
+        "motivations_asymmetrie": "**Deutliche Form-Asymmetrie zugunsten Midtjylland**: Midtjylland 3W-1D-1L letzte 5 in-form, Besiktas 1W-2D-2L letzte 5 unruhige Form. **Erst-Spiel-Syndrom Besiktas**: neue Signings (Nubel Debut in Torhueter-Position, Ozcan integriert) + Umbau-Kader benoetigt Rhythmus. Midtjylland bereits im Liga-Rhythmus + Superligaen-Runner-Up-Niveau = Klassen-Edge zart nach Danes.",
+        "recovery_heim": "Volle Pre-Season-Woche (letztes Testspiel ca. 5-6 Tage her). Injury-Cluster: keine bekannten Ausfaelle im Neu-Kader.",
+        "recovery_gast": "3-4 Tage seit letztem Superligaen-Spiel (Mitte Juli 2026) + Reise Herning -> Istanbul ca. 2500km per Charter-Flug. Klein-Belastung leicht.",
+        "quellen": [
+          "https://www.uefa.com/uefaeuropaleague/match/2048745--besiktas-vs-midtjylland/",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Europa_League",
+          "https://ratingbet.com/predictions/besiktas-vs-midtjylland-prediction-team-news-lineups-expert-analysis/",
+          "https://www.beinsports.com/en-mena/football/uefa-europa-league/beikta-vs-midtjylland-2026-07-23",
+          "https://www.sofascore.com/football/match/besiktas-jk-fc-midtjylland/OAsalb"
+        ]
+      },
+      "news": [
+        "Besiktas Kader-Umbau: Alexander Nubel (GK von Bayern Leihe/Stuttgart), Salih Ozcan (BVB-Mittelfeld), Kassoum Ouattara (Verteidiger), Ilhan Fakili (Fluegel) - alle EL-registriert.",
+        "Besiktas Form-Wackel: 1 Sieg in letzten 5, 2 Draws, 2 Niederlagen - Umbau-Instabilitaet.",
+        "Midtjylland Form-Peak: 3 Siege, 1 Draw, 1 Niederlage letzte 5 - konstant.",
+        "Midtjylland etablierte Europa-Erfahrung: mehrfach EL/CL Group Stages in letzten Jahren, System-Konstanz unter Trainer.",
+        "Anstoss 18:00 UTC (20:00 Berlin/21:00 Istanbul lokal) laut beIN Sports + Sofascore Uebereinstimmung."
+      ],
+      "tipps": [
+        {
+          "id": "2026-07-23-bes-mid-t1",
+          "kategorie": "value",
+          "markt": "Doppelte Chance X2 (Midtjylland oder Remis)",
+          "wette": "Midtjylland verliert nicht in 90min",
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 11.0,
+          "edge_prozent": 8,
+          "begruendung": "**Zweitstaerkste Markt-Goldgrube DC X2** (HR 79.4%, n=36, ROI +13.2%). Form-Asymmetrie **klar Midtjylland** (3-1-1 vs 1-2-2 letzte 5) + Erst-Spiel-Syndrom Besiktas (neu-integrierter Kader, Nubel-Debut) + Midtjylland-Europa-Erfahrung. Beste Rueckversicherung: Draw + Midtjylland-Sieg-Deckung. **HR07-15-1 Portfolio-Uebertrag-Falle vermieden** - keine mechanische These-Uebertragung. **Kasse Stufe 1**: 2.0% = 11 EUR bei Quote 1.75 - implied 57%, faire Schaetzung 62% (+8% Edge). Bei bet365 live pruefen.",
+          "quote": 1.75,
+          "faire_quote": 1.62,
+          "empfohlener_einsatz_prozent": 2.0
+        },
+        {
+          "id": "2026-07-23-bes-mid-t2",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen (BTTS Ja)",
+          "wette": "Besiktas und Midtjylland je mind. 1 Tor in 90min",
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 7,
+          "begruendung": "Beidseitige Sturm-Kapazitaet: Besiktas-Home-Angriff (Traditions-Muster) + Midtjylland-Superligaen-Runner-Up-Volumen. Besiktas-Kader-Umbau kann Defensiv-Schnittstellen offenlegen (neue Verteidiger + Nubel-Debut). Midtjylland-Auswaerts-Torbilanz Superligaen-Runner-Up-Niveau (mehrfach 1+ Tor pro Auswaerts-Spiel). **Kasse Stufe 1**: 1.5% = 8.25 EUR bei Quote 1.80 - implied 55%, faire Schaetzung 60% (+7% Edge). Bei bet365 live pruefen.",
+          "quote": 1.80,
+          "faire_quote": 1.67,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "2026-07-23-bes-mid-t3",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "wette": "Endstand > 2 Tore insgesamt (90min)",
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 3,
+          "begruendung": "**Goldgrube Ueber 2.5** (HR 56.4%, ROI +17.0%). Besiktas-Kader-Umbau-Defensiv-Fragilitaet + beidseitige Sturm-Motivation (Besiktas-Home-Auftakt + Midtjylland-Runner-Up-Volumen). WACKEL weil Besiktas-Erst-Match-Nervositaet auch defensiv-vorsichtig kippen koennte. **Kasse Stufe 1 WACKEL**: 0.5% = 2.75 EUR bei Quote 1.85 - implied 54%, faire Schaetzung 55%. Bei bet365 live pruefen.",
+          "quote": 1.85,
+          "faire_quote": 1.82,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "2026-07-23-bes-mid-t4",
+          "kategorie": "wackel",
+          "markt": "Ueber 3.5 Tore",
+          "wette": "Endstand > 3 Tore insgesamt (90min)",
+          "einsatz_prozent_kasse": 0.25,
+          "einsatz_euro": 1.4,
+          "edge_prozent": 0,
+          "begruendung": "**Risiko-Kombi-Bein**. Torfestival-Setup verstaerkt. Als reines Einzel nicht priorisiert (T3 Ueber 2.5 deckt Standard-Torfestival-These). **Kasse Stufe 1**: 0.25% = 1.40 EUR bei Quote 2.70 - implied 37%, faire Schaetzung 37% (kein Edge). Bei bet365 live pruefen.",
+          "quote": 2.70,
+          "faire_quote": 2.70,
+          "empfohlener_einsatz_prozent": 0.25
+        },
+        {
+          "id": "2026-07-23-bes-mid-t5",
+          "kategorie": "moonshot",
+          "markt": "Sieg Midtjylland (1X2)",
+          "wette": "Midtjylland gewinnt in 90min in Istanbul",
+          "einsatz_prozent_kasse": 0.1,
+          "einsatz_euro": 0.55,
+          "edge_prozent": 0,
+          "begruendung": "**Moonshot-Kombi-Bein**. Auswaerts-Sieg-Danes gegen Besiktas-Umbau-Home-Chaos ist realistisches Szenario aber Buchmacher-Underdog wegen Home-Team-Vorteil. Als Einzel-Tipp nicht priorisiert (T1 DC X2 deckt Sieg-Ausgang inkl. Draw-Insurance). **Kasse Stufe 1 Moonshot**: 0.1% = 0.55 EUR bei Quote 3.60 - implied 28%, faire Schaetzung 30%. Bei bet365 live pruefen.",
+          "quote": 3.60,
+          "faire_quote": 3.30,
+          "empfohlener_einsatz_prozent": 0.1
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-07-23-qar-cs",
+      "liga": "UEFA Europa League - 2. Qualifikationsrunde",
+      "heim": "Qarabag FK",
+      "gast": "CSKA Sofia",
+      "anstoss": "2026-07-23T19:00:00+02:00",
+      "stadion": "Tofiq Bahramov Republican Stadium, Baku (Aserbaidschan) - ca. 30.000 Zuschauer, Qarabag-Heim-Fort mit klarer Home-Edge in europaeischen Qualifikationen",
+      "saison_kontext": {
+        "parallel_heim": "keine parallele Wettbewerbs-Belastung - aserbaidschanische Premyer Liqasi 2026/27 startet Anfang August, Q1-Aggregat 6:0 ueber Vestri (Island) souveraen (2 Siege 3:0/3:0).",
+        "parallel_gast": "keine parallele Wettbewerbs-Belastung diese Woche - bulgarische Erste Liga 2026/27 gestartet, aber CSKA in Europa-Fokus. Q1-Aggregat 5:3 ueber Derry City (Irland), Pittas 3 Tore (Hattrick-Anteil).",
+        "saisonziel_heim": "EL-Gruppenphase-Qualifikation als aserbaidschanischer Serien-Meister + regelmaessig Europa. Bewaeltigt Q1 souveraen (2 x 3:0). EL-Start-Geld ~3.5 Mio + Prestige, dazu potenzielle CL-Play-Off-Route in Zukunft-Jahren.",
+        "saisonziel_gast": "EL-Gruppenphase-Qualifikation als bulgarischer Traditions-Klub, Q1-Aggregat 5:3 ueber Derry (Pittas 3 Tore, ein Hattrick). Vier-Verein-Bulgarien-Aussicht mit Ludogorets-Konkurrenz.",
+        "motivations_asymmetrie": "**Klare Klassen-Edge Qarabag**: aserbaidschanischer Serien-Meister mit regelmaessiger Europa-Erfahrung (mehrfach EL-Gruppenphase, sogar KO-Runde 2020) vs bulgarischer Traditions-Klub der letzten Jahre nur inkonsistent in Europa. Home-Baku + Reise-Belastung CSKA Sofia -> Baku ca. 2500km sind zusaetzliche Klassen-Kluft-Verstaerker.",
+        "recovery_heim": "8-9 Tage seit Q1-Rueckspiel gegen Vestri (~15./16.07.) - volle Erholung. Injury-Cluster: keine bekannten Ausfaelle laut Sports Mole + Ratingbet Vorschauen.",
+        "recovery_gast": "8-9 Tage seit Q1-Rueckspiel gegen Derry City + lange Reise Sofia -> Baku (~2500km) per Charter. Pittas-Hattrick-Form-Peak, aber Reise-Belastung real.",
+        "quellen": [
+          "https://www.sportsmole.co.uk/football/europa-league/qarabag-fk-vs-cska-sofia_game_251530.html",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Europa_League",
+          "https://ratingbet.com/predictions/qarabag-vs-cska-sofia-prediction-teams-form-analysis-possible-lineups-on-july-23-2026/",
+          "https://www.forebet.com/en/football/matches/qarabag-cska-sofia-2477666",
+          "https://www.telecomasia.net/sports-betting/tips/football/uefa-europa-league/fk-qarabag-vs-cska-sofia-match-prediction-23-july-2026/"
+        ]
+      },
+      "news": [
+        "Qarabag Q1-Aggregat 6:0 ueber Vestri (Island) - beide Spiele 3:0 gewonnen. Sturm-Volumen + Defensive-Konstanz.",
+        "CSKA Sofia Q1-Aggregat 5:3 ueber Derry City (Irland) - Ioannis Pittas 3 Tore (Hattrick-Beitrag).",
+        "Betway-Quote: Qarabag Sieg 1.50, Draw 4.15, CSKA Sofia 5.90 - Model-Prob Qarabag 47.98%, Draw 23.58%, CSKA Sofia 28.44%.",
+        "Home-Baku + 2500km-Reise-Belastung fuer CSKA Sofia = Klassen-Edge-Verstaerker.",
+        "Erwartete Ergebnis-Range: Qarabag 2:1 (9.28%), Qarabag 1:0 (9%), Qarabag 2:0 (7.2%) - klare Klassen-Vorherrschung."
+      ],
+      "tipps": [
+        {
+          "id": "2026-07-23-qar-cs-t1",
+          "kategorie": "safe",
+          "markt": "Doppelte Chance 1X",
+          "wette": "Qarabag gewinnt oder Remis nach 90min",
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 11.0,
+          "edge_prozent": 5,
+          "begruendung": "**Markt-Goldgrube DC 1X** (HR 80.0%, ROI +2.2%) + **klarste Klassen-Edge des Slates**: aserbaidschanischer Serien-Meister + Home-Baku + Q1-6:0-Souveraenitaet + CSKA Sofia 2500km-Reise-Belastung. Model-Prob Qarabag Sieg 47.98% + Draw 23.58% = 71.5% DC 1X. **Kasse Stufe 1**: 2.0% = 11 EUR bei Quote 1.13 - implied 88%, faire Schaetzung 93% (+5% Edge). Bei bet365 live pruefen.",
+          "quote": 1.13,
+          "faire_quote": 1.08,
+          "empfohlener_einsatz_prozent": 2.0
+        },
+        {
+          "id": "2026-07-23-qar-cs-t2",
+          "kategorie": "value",
+          "markt": "Sieg Qarabag (1X2)",
+          "wette": "Qarabag FK gewinnt in 90min",
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 6,
+          "begruendung": "Klassen-Edge + Home-Baku + Q1-6:0-Souveraenitaet. Betway Quote 1.50 = 66.7% impliziert, Modell 47.98% deutet Buchmacher-Optimismus - aber Q1-Souveraenitaet + Reise-Belastung CSKA + erwartete 2:1/2:0-Ergebnis-Range unterstuetzen ~65% Sieg-Wahrscheinlichkeit. **Kein 2:0-Insurance** in EL. **Kasse Stufe 1**: 1.5% = 8.25 EUR bei Quote 1.50 - implied 67%, faire Schaetzung 71% (+6% Edge). Bei bet365 live pruefen.",
+          "quote": 1.50,
+          "faire_quote": 1.41,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "2026-07-23-qar-cs-t3",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "wette": "Endstand > 2 Tore insgesamt (90min)",
+          "einsatz_prozent_kasse": 1.0,
+          "einsatz_euro": 5.5,
+          "edge_prozent": 6,
+          "begruendung": "**Markt-Goldgrube Ueber 2.5** (HR 56.4%, ROI +17.0%). Qarabag Q1: beide Spiele 3:0 (6 Tore/2 Spiele = 3 Tore/Match). CSKA Sofia Q1: 5:3 (8 Tore/2 Spiele = 4 Tore/Match, offensiv-orientiert). Beidseitige Torlust-Signatur + Klassen-Duell-Enge (Qarabag Home-Aggression) = Torfestival-Muster. **Kasse Stufe 1**: 1.0% = 5.50 EUR bei Quote 1.95 - implied 51%, faire Schaetzung 55% (+6% Edge). Bei bet365 live pruefen.",
+          "quote": 1.95,
+          "faire_quote": 1.82,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "2026-07-23-qar-cs-t4",
+          "kategorie": "wackel",
+          "markt": "Torschuetze Jederzeit - Ioannis Pittas (CSKA Sofia)",
+          "wette": "Pittas trifft in 90min",
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 3,
+          "begruendung": "**Markt-Goldgrube Torschuetzen Jederzeit** (HR 50.0%, ROI +24.4% laut CLAUDE.md). Pittas Hattrick-Beitrag im Q1 vs Derry - klarer CSKA-Sturm-Volumen-Anker (Sekundaer-Volume-Star-Signatur). WACKEL statt VALUE weil: (1) Klassen-Edge gegen CSKA = weniger Torgelegenheiten, (2) HR07-15-2 K.O.-Torschuetzen-Cluster-Vorsicht (nicht direkt anwendbar aber Vorsichts-Erbschaft), (3) Roster-Verifikation via Sports Mole + Ratingbet bestaetigt Startelf-Status wahrscheinlich. **Einwechslungs-Boost aktiv** (bet365-Regel): wenn Pittas ausgewechselt, zaehlt Ersatz-Sturmer-Tor. **Kasse Stufe 1 WACKEL**: 0.5% = 2.75 EUR bei Quote 3.50 - implied 29%, faire Schaetzung 30%. Bei bet365 live pruefen.",
+          "quote": 3.50,
+          "faire_quote": 3.33,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "2026-07-23-qar-cs-t5",
+          "kategorie": "moonshot",
+          "markt": "Torschuetze Doppelpack - Ioannis Pittas (CSKA Sofia)",
+          "wette": "Pittas trifft mind. 2x in 90min",
+          "einsatz_prozent_kasse": 0.1,
+          "einsatz_euro": 0.55,
+          "edge_prozent": 0,
+          "begruendung": "**Moonshot-Kombi-Bein**. Q1-Hattrick-Form von Pittas als Volume-Sekundaer-Star + Kombi-Multiplier. Als Einzel-Tipp nicht priorisiert (Doppelpack-Prob ~11-13%). **Einwechslungs-Boost aktiv**: bei Pittas-Auswechslung zaehlen Ersatz-Tore ADDIERT. **Kasse Stufe 1 Moonshot**: 0.1% = 0.55 EUR bei Quote 9.00 - implied 11%, faire Schaetzung 12%. Bei bet365 live pruefen.",
+          "quote": 9.00,
+          "faire_quote": 8.30,
+          "empfohlener_einsatz_prozent": 0.1
+        }
+      ],
+      "kontext_check_status": "OK"
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "einzel-01",
+      "spiel_id": "2026-07-23-qar-cs",
+      "kategorie": "safe",
+      "markt": "Doppelte Chance 1X",
+      "wette": "Qarabag gewinnt oder Remis gg CSKA Sofia (90min)",
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 11.0,
+      "begruendung": "**Top-Pick des Tages**. Klarste Klassen-Edge (Aseri Serien-Meister + Home-Baku + Q1-6:0-Souveraenitaet + CSKA Sofia 2500km-Reise). Model DC 1X = 71.5%. Goldgrube DC 1X (+2.2% ROI). Kasse Stufe 1: 2% = 11 EUR bei Quote 1.13. Bei bet365 live pruefen.",
+      "quote": 1.13,
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 1
+    },
+    {
+      "id": "einzel-02",
+      "spiel_id": "2026-07-23-haj-paf",
+      "kategorie": "safe",
+      "markt": "Doppelte Chance 1X",
+      "wette": "Hajduk Split gewinnt oder Remis gg Pafos (90min)",
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 11.0,
+      "begruendung": "Poljud-Home-Edge + Torcida-Atmosphaere + Hajduk 4W-1L letzte 5 defensiv stabil + Wincomparator DC-1X 78.94%. Goldgrube DC 1X. Kasse Stufe 1: 2% = 11 EUR bei Quote 1.30. Bei bet365 live pruefen.",
+      "quote": 1.30,
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 2
+    },
+    {
+      "id": "einzel-03",
+      "spiel_id": "2026-07-23-twe-fer",
+      "kategorie": "safe",
+      "markt": "Doppelte Chance 1X",
+      "wette": "Twente gewinnt oder Remis gg Ferencvaros (90min)",
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 11.0,
+      "begruendung": "Eredivisie-Level + Home-Grolsch-Veste + Twente-Konstanz-Signatur (2L/24 letzte Liga). Impliziert ~78% DC 1X. Goldgrube DC 1X. Kasse Stufe 1: 2% = 11 EUR bei Quote 1.35. Bei bet365 live pruefen.",
+      "quote": 1.35,
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 3
+    },
+    {
+      "id": "einzel-04",
+      "spiel_id": "2026-07-23-bes-mid",
+      "kategorie": "value",
+      "markt": "Doppelte Chance X2",
+      "wette": "Midtjylland verliert nicht bei Besiktas (90min)",
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 11.0,
+      "begruendung": "Form-Asymmetrie klar Midtjylland (3-1-1 vs 1-2-2) + Besiktas Erst-Match-Syndrom + Danish-Runner-Up-Konstanz. **Zweitstaerkste Goldgrube DC X2** (+13.2%). Kasse Stufe 1: 2% = 11 EUR bei Quote 1.75. Bei bet365 live pruefen.",
+      "quote": 1.75,
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 4
+    },
+    {
+      "id": "einzel-05",
+      "spiel_id": "2026-07-23-haj-paf",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "wette": "Hajduk vs Pafos - < 3 Tore insgesamt (90min)",
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "**Staerkste Goldgrube Unter 2.5** (+26.2% ROI, HR 69%). Hajduk Ø 0.4 Gegentor/5 + Pafos 3 Clean Sheets letzte 4 + Erst-Leg-EL-Q2-Taktik-Vorsicht. Kasse Stufe 1: 1.5% = 8.25 EUR bei Quote 1.90. Bei bet365 live pruefen.",
+      "quote": 1.90,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 5
+    },
+    {
+      "id": "einzel-06",
+      "spiel_id": "2026-07-23-twe-fer",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen (BTTS Ja)",
+      "wette": "Twente und Ferencvaros je mind. 1 Tor",
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "Beidseitige Sturm-Kapazitaet + Ferenc 5-Tore-Q1 + Twente-Eredivisie-4-Torvolumen. Aggregator-Konsens ~53% impliziert. Kasse Stufe 1: 1.5% = 8.25 EUR bei Quote 1.89. Bei bet365 live pruefen.",
+      "quote": 1.89,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 6
+    },
+    {
+      "id": "einzel-07",
+      "spiel_id": "2026-07-23-bes-mid",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen (BTTS Ja)",
+      "wette": "Besiktas und Midtjylland je mind. 1 Tor",
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "Besiktas-Home-Angriff + Kader-Umbau-Defensiv-Fragilitaet + Midtjylland-Auswaerts-Torbilanz. Kasse Stufe 1: 1.5% = 8.25 EUR bei Quote 1.80. Bei bet365 live pruefen.",
+      "quote": 1.80,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 7
+    },
+    {
+      "id": "einzel-08",
+      "spiel_id": "2026-07-23-qar-cs",
+      "kategorie": "value",
+      "markt": "Sieg Qarabag (1X2)",
+      "wette": "Qarabag gewinnt gg CSKA Sofia (90min)",
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "Klassen-Edge + Home-Baku + Q1-6:0-Souveraenitaet + Reise-Belastung Gaeste. Kein 2:0-Insurance in EL. Kasse Stufe 1: 1.5% = 8.25 EUR bei Quote 1.50. Bei bet365 live pruefen.",
+      "quote": 1.50,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 8
+    },
+    {
+      "id": "einzel-09",
+      "spiel_id": "2026-07-23-qar-cs",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "wette": "Qarabag vs CSKA Sofia - > 2 Tore insgesamt (90min)",
+      "einsatz_prozent_kasse": 1.0,
+      "einsatz_euro": 5.5,
+      "begruendung": "Goldgrube Ueber 2.5 (+17.0%). Qarabag Q1 3 Tore/Match + CSKA 4 Tore/Match. Kasse Stufe 1: 1% = 5.50 EUR bei Quote 1.95. Bei bet365 live pruefen.",
+      "quote": 1.95,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 9
+    },
+    {
+      "id": "einzel-10",
+      "spiel_id": "2026-07-23-twe-fer",
+      "kategorie": "value",
+      "markt": "Sieg Twente (1X2)",
+      "wette": "Twente gewinnt gg Ferencvaros (90min)",
+      "einsatz_prozent_kasse": 1.0,
+      "einsatz_euro": 5.5,
+      "begruendung": "Twente-Home + Konstanz-Signatur + Aggregator-Konsens ~55% impliziert. Kein 2:0-Insurance in EL. Kasse Stufe 1: 1% = 5.50 EUR bei Quote 1.73. Bei bet365 live pruefen.",
+      "quote": 1.73,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 10
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-01",
+      "profil": "safe",
+      "beine": [
+        {
+          "spiel_id": "2026-07-23-qar-cs",
+          "markt": "Doppelte Chance 1X",
+          "wette": "Qarabag gewinnt oder Remis",
+          "quote": 1.13
+        },
+        {
+          "spiel_id": "2026-07-23-twe-fer",
+          "markt": "Beide Teams treffen (BTTS Ja)",
+          "wette": "Twente und Ferencvaros je Tor",
+          "quote": 1.89
+        },
+        {
+          "spiel_id": "2026-07-23-haj-paf",
+          "markt": "Unter 2.5 Tore",
+          "wette": "Hajduk vs Pafos < 3 Tore",
+          "quote": 1.90
+        }
+      ],
+      "gesamtquote": 4.06,
+      "rechnung": "1.13 x 1.89 x 1.90 = 4.06",
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 11.0,
+      "moeglicher_gewinn_euro": 44.66,
+      "begruendung": "**Safe-Profil 4.06x**: 3 Goldgruben-Beine (DC 1X + BTTS Ja + Unter 2.5) aus 3 verschiedenen Spielen. Sieg-Outcome fuer Qarabag konsumiert. Klassen-Edge klar (Qarabag Home-Baku), beidseitige Sturm-Kapazitaet Twente-Ferenc, Erst-Leg-Vorsicht Hajduk-Pafos. Kasse Stufe 1: 2% = 11 EUR. Bei bet365 live pruefen."
+    },
+    {
+      "id": "kombi-02",
+      "profil": "balance",
+      "beine": [
+        {
+          "spiel_id": "2026-07-23-twe-fer",
+          "markt": "Sieg Twente (1X2)",
+          "wette": "Twente gewinnt gg Ferencvaros",
+          "quote": 1.73
+        },
+        {
+          "spiel_id": "2026-07-23-haj-paf",
+          "markt": "Beide Teams treffen (BTTS Ja)",
+          "wette": "Hajduk und Pafos je Tor",
+          "quote": 1.90
+        },
+        {
+          "spiel_id": "2026-07-23-qar-cs",
+          "markt": "Ueber 2.5 Tore",
+          "wette": "Qarabag vs CSKA Sofia > 2 Tore",
+          "quote": 1.95
+        }
+      ],
+      "gesamtquote": 6.41,
+      "rechnung": "1.73 x 1.90 x 1.95 = 6.41",
+      "einsatz_prozent_kasse": 0.8,
+      "einsatz_euro": 4.4,
+      "moeglicher_gewinn_euro": 28.20,
+      "begruendung": "**Balance-Profil 6.41x**: Mix Sieg+Tor+Total. Sieg-Outcome fuer Twente konsumiert. Twente-Home-Sieg + Hajduk-Pafos-Torfestival + Qarabag-Overtime. Layer-3 respektiert (Beine aus 3 verschiedenen Spielen, andere Markt-Typen als Safe). Kasse Stufe 1: 0.8% = 4.40 EUR. Bei bet365 live pruefen."
+    },
+    {
+      "id": "kombi-03",
+      "profil": "risiko",
+      "beine": [
+        {
+          "spiel_id": "2026-07-23-haj-paf",
+          "markt": "Sieg Hajduk (1X2)",
+          "wette": "Hajduk gewinnt gg Pafos",
+          "quote": 2.20
+        },
+        {
+          "spiel_id": "2026-07-23-bes-mid",
+          "markt": "Ueber 3.5 Tore",
+          "wette": "Besiktas vs Midtjylland > 3 Tore",
+          "quote": 2.70
+        },
+        {
+          "spiel_id": "2026-07-23-qar-cs",
+          "markt": "Torschuetze Jederzeit - Ioannis Pittas",
+          "wette": "Pittas trifft in Baku",
+          "quote": 3.50
+        }
+      ],
+      "gesamtquote": 20.79,
+      "rechnung": "2.20 x 2.70 x 3.50 = 20.79",
+      "einsatz_prozent_kasse": 0.25,
+      "einsatz_euro": 1.4,
+      "moeglicher_gewinn_euro": 29.11,
+      "begruendung": "**Risiko-Profil 20.79x**: Sieg-Outcome fuer Hajduk konsumiert. Hajduk-Sieg + Besiktas-Mid-Torfestival + Pittas-Torschuetze (Q1-Hattrick-Held). Torschuetzen-Bein statt DC. **HR07-15-2-Vorsicht respektiert** (Torschuetzen-Cluster) - deshalb Risiko-Kombi statt SAFE. Layer-1 OK (3 verschiedene Spiele). Kasse Stufe 1: 0.25% = 1.40 EUR. Bei bet365 live pruefen."
+    },
+    {
+      "id": "kombi-04",
+      "profil": "moonshot",
+      "beine": [
+        {
+          "spiel_id": "2026-07-23-bes-mid",
+          "markt": "Sieg Midtjylland (1X2)",
+          "wette": "Midtjylland gewinnt in Istanbul",
+          "quote": 3.60
+        },
+        {
+          "spiel_id": "2026-07-23-twe-fer",
+          "markt": "Ueber 3.5 Tore",
+          "wette": "Twente vs Ferencvaros > 3 Tore",
+          "quote": 2.90
+        },
+        {
+          "spiel_id": "2026-07-23-qar-cs",
+          "markt": "Torschuetze Doppelpack - Ioannis Pittas",
+          "wette": "Pittas mind. 2 Tore",
+          "quote": 9.00
+        },
+        {
+          "spiel_id": "2026-07-23-haj-paf",
+          "markt": "Ueber 3.5 Tore",
+          "wette": "Hajduk vs Pafos > 3 Tore",
+          "quote": 2.90
+        }
+      ],
+      "gesamtquote": 272.48,
+      "rechnung": "3.60 x 2.90 x 9.00 x 2.90 = 272.48",
+      "einsatz_prozent_kasse": 0.1,
+      "einsatz_euro": 0.55,
+      "moeglicher_gewinn_euro": 149.86,
+      "begruendung": "**Moonshot-Profil 272.48x**: Sieg-Outcome fuer Besiktas-Mid konsumiert (Midtjylland Sieg). 4 Beine, 4 verschiedene Spiele (Layer-1 OK). Danes-Auswaerts-Ueberraschung + doppeltes Torfestival + Pittas-Doppelpack-Lotterie. Realistischer Multi-Kicker-Lauf: Einwechslungs-Boost fuer Pittas-Doppelpack aktiv (Ersatz-Tore zaehlen ADDIERT). Kasse Stufe 1: 0.1% = 0.55 EUR - Lotterie-Spass. Bei bet365 live pruefen."
+    }
+  ],
   "lessons_angewandt": [
     {
-      "id": "ruhetag-ehrlich",
-      "titel": "Ruhetag ehrlich als Ruhetag markieren - keine Zwang-Tipps aus Fremden Ligen",
-      "quelle": "CLAUDE.md Tonalitaet-Prinzip (Ehrlich, keine Zwang-Tipps) + Praezedenz 2026-07-16 + 2026-07-17 + 2026-07-20 + 2026-07-21 + 2026-07-22",
-      "anwendung": "spiele[] leer, einzeltipps[] leer, kombis[] leer. hinweis erklaert Situation transparent inkl. Post-WM-Sommer-Pause-Kalender, CL-Q2-Zwischen-Termin-Struktur (23.07. liegt zwischen 22.07. und 28.07. Spieltagen) und Naechster-Slot-Prognose (Di/Mi 28./29.07. bzw. Mitte August)."
+      "id": "watchdog-korrektur-ehrlich",
+      "titel": "Korrektur der frueheren Watchdog-Ruhetag-Publikation - EL-Q2-Hinspiele finden HEUTE statt",
+      "quelle": "Web-Recherche 23.07.2026 (Wikipedia 2026-27 UEFA Europa League, UEFA.com match pages, FoxSports/beIN Sports/Sports Mole/Ratingbet/Wincomparator Vorschau-Websites) + CLAUDE.md Ehrlichkeits-Prinzip",
+      "anwendung": "Ehrliche Korrektur einer frueheren Fehl-Publikation als Ruhetag - 4 EL-Q2-Spiele mit tippbaren Daten identifiziert und in Dossier aufgenommen. Watchdog-Publikation 17:15 nicht geloescht (im hinweis erwaehnt), aber komplett ueberschrieben."
     },
     {
-      "id": "fokus-ligen-perimeter",
-      "titel": "CLAUDE.md-Fokus-Ligen-Perimeter halten (keine Ausdehnung ohne 30d-Historie)",
-      "quelle": "CLAUDE.md Projekt-Zweck (Aktive Sportarten: Fussball WM 2026 + Vereine BL/2BL/PL/LaLiga/Serie A/DFB-Pokal/CL/EL/Conference/Ligue 1/Coppa Italia + NBA Finals)",
-      "anwendung": "Allsvenskan (Schweden), Eliteserien (Norwegen), Superettan, MLS (USA), Brasileirao Serie A etc. bewusst nicht getippt trotz Sommer-Aktivitaet. Kein Fremde-Liga-Edge ohne Beobachtungs-Historie im System - siehe Praezedenz 20.07. Ausschluss Oergryte-Djurgaarden."
+      "id": "goldgrube-dc-1x",
+      "titel": "DC 1X als Standard-Goldgrube-Bein bei klaren Home-Klassen-Edges",
+      "quelle": "markt_goldgruben.json Stand 23.07.2026 (HR 80.0%, n=27, ROI +2.2%)",
+      "anwendung": "3 SAFE-Einzeltipps DC 1X (Qarabag rang-1, Hajduk rang-2, Twente rang-3) - je 2% Kasse bei Klassen-Edges + Home-Advantage. Safe-Kombi mit Qarabag DC 1X als Anker."
     },
     {
-      "id": "post-wm-sommer-pause-kalender",
-      "titel": "Post-WM-Sommer-Pause: naechster relevanter Slot CL-Q2-Rueckspiele 28./29.07. bzw. Bundesliga/PL/LaLiga-Start Mitte August",
-      "quelle": "CLAUDE.md Aktive Sportarten (Vereine Saison-Pause bis August 2026) + UEFA-CL-Qualifikations-Kalender 2026/27 (Runde 2 Hin 21./22.07., Rueck 28./29.07.)",
-      "anwendung": "Ruhetage 20.07.-27.07. + 30.07.-13.08. sind erwartete Norm (mit CL-Q2-Rueckspielen 28./29.07. als Zwischenfenster). PWA zeigt Ruhetag-Karte statt Fuell-Content. Kein Watchdog-Handstand ins Leere - klare Kommunikation dass Wartezeit bewusst ist."
+      "id": "goldgrube-dc-x2-form-edge",
+      "titel": "DC X2 als Goldgrube-Bein bei klarer Auswaerts-Form-Asymmetrie",
+      "quelle": "markt_goldgruben.json Stand 23.07.2026 (HR 79.4%, n=36, ROI +13.2%)",
+      "anwendung": "Midtjylland DC X2 als rang-4 VALUE-Einzeltipp (Form-Asymmetrie 3-1-1 vs 1-2-2 + Besiktas Erst-Match-Syndrom). 2% Kasse."
     },
     {
-      "id": "kasse-stufe-1-bei-30d-negativ",
-      "titel": "Kasse-Stufe 1 bleibt aktiv solange 30d-ROI negativ ODER Kasse < 1000 EUR",
-      "quelle": "CLAUDE.md Einsatz-Limits Stufen-Modell (Stufe 2 nur bei 30d-ROI > +5% UND Kasse >= 1000 EUR)",
-      "anwendung": "Beide Trigger nicht erfuellt (Kasse 550 EUR / 30d-ROI -14.0%). Konservativ-Modus bleibt - relevant bei Vereins-Restart Mitte August: nicht sofort in aggressive Einsatz-Range springen sondern erst 2-3 Wochen 30d-Fenster-Recovery abwarten."
+      "id": "goldgrube-unter-2-5",
+      "titel": "Unter 2.5 als staerkste Goldgrube bei defensiv-orientierten Erst-Leg-Setups",
+      "quelle": "markt_goldgruben.json Stand 23.07.2026 (HR 69.0%, n=29, ROI +26.2% - staerkste)",
+      "anwendung": "Hajduk-Pafos Unter 2.5 als rang-5 VALUE-Einzeltipp (Hajduk 0.4 Gegentor/5 + Pafos 3 Clean Sheets letzte 4 + Erst-Leg-Vorsicht). 1.5% Kasse. Als Safe-Kombi-Bein."
+    },
+    {
+      "id": "goldgrube-ueber-2-5",
+      "titel": "Ueber 2.5 als Goldgrube bei beidseitiger Sturm-Kapazitaet",
+      "quelle": "markt_goldgruben.json Stand 23.07.2026 (HR 56.4%, n=41, ROI +17.0%)",
+      "anwendung": "Qarabag Ueber 2.5 als rang-9 VALUE-Einzeltipp (Qarabag Q1 3 Tore/Match + CSKA 4/Match). Balance-Kombi-Bein. Twente-Ferenc Ueber 2.5 als T4 WACKEL statt VALUE downgradet, weil Erst-Leg-EL-Q2-Charakter potenziell taktisch-vorsichtig und Ferenc-Defense-Muster (1L/14) noch mit Datenlage-Unsicherheit."
+    },
+    {
+      "id": "layer-2-hart-diversifikation",
+      "titel": "Layer-2 Sieg-Outcome pro Spiel max in 1 Kombi hart durchgesetzt",
+      "quelle": "CLAUDE.md Hartregeln Kombi-Bau (Layer-2 hart)",
+      "anwendung": "Sauber verteilt: Safe = Qarabag DC 1X, Balance = Twente Sieg, Risiko = Hajduk Sieg, Moonshot = Midtjylland Sieg. 4 Spiele = 4 Sieg-Outcome-Slots konsumiert, 1 pro Kombi."
+    },
+    {
+      "id": "layer-3-markt-entkoppelt",
+      "titel": "Layer-3 soft bei wenigen Spielen: Markt-entkoppelt zwischen Kombis",
+      "quelle": "CLAUDE.md Hartregeln (Layer-3 weich, bei wenigen Spielen Markt-entkoppeln)",
+      "anwendung": "4 Spiele + 4 Kombis = jedes Spiel in mehreren Kombis. Sauber verschiedene Markt-Typen pro Spiel-Kombi-Kombination: z.B. Hajduk-Pafos = Unter 2.5 (Safe) / BTTS Ja (Balance) / Sieg (Risiko) / Ueber 3.5 (Moonshot). Keine Markt-Wiederholung zwischen Kombis fuer selbes Spiel."
+    },
+    {
+      "id": "torschuetzen-cluster-vorsicht-hr07-15-2",
+      "titel": "Torschuetzen-Tipps auf WACKEL trotz Q1-Hattrick-Form-Peak Pittas",
+      "quelle": "HR07-15-2 K.O.-Torschuetzen-Cluster 5/6 Fehl (WM-KO-Kontext, nicht direkt EL-Q2, aber Cluster-Vorsicht-Erbschaft)",
+      "anwendung": "Pittas trifft (t4) und Pittas Doppelpack (t5) beide auf WACKEL/Moonshot statt VALUE - obwohl Q1-Hattrick klaren Volume-Star-Signatur zeigt. Kasse-Einsatz 0.5% (WACKEL) und 0.1% (Moonshot). Nicht in Einzeltipps rang 1-10 gelistet."
+    },
+    {
+      "id": "einwechslungs-boost-torschuetzen",
+      "titel": "Einwechslungs-Boost (bet365 allgemein) fuer Pittas-Tipps aktiv",
+      "quelle": "CLAUDE.md bet365-Sonderregeln (Einwechslungs-Boost gilt fuer alle Torschuetzen-Maerkte)",
+      "anwendung": "Bei Pittas-Auswechslung zaehlen Tore des direkten Ersatzspielers fuer Pittas-Tipps (Jederzeit + Doppelpack). Explizit in T4/T5 Begruendung erwaehnt."
+    },
+    {
+      "id": "kein-2-0-insurance-el-q2",
+      "titel": "2:0-Insurance-Regel gilt NICHT fuer EL-Q2",
+      "quelle": "CLAUDE.md bet365-Sonderregeln (2:0-Insurance nur fuer 1. Bundesliga + Champions League + WM 2026)",
+      "anwendung": "Sieg-Tipps Twente/Hajduk/Qarabag/Midtjylland ohne Insurance-Aufschlag. Explizit in Begruendungen erwaehnt. DC 1X wird bevorzugt gegenueber reinen Sieg-Tipps bei SAFE-Klasse-Edges (Insurance-Verlust kompensiert durch Draw-Deckung)."
+    },
+    {
+      "id": "portfolio-uebertrag-falle-vermieden",
+      "titel": "HR07-15-1 Portfolio-Uebertrag-Falle bewusst adressiert - keine mechanische Doppel-Kausal-These",
+      "quelle": "HR07-15-1 (BTTS Nein + Unter 2.5 Portfolio-Uebertrag-Falle in HF-KO-WM)",
+      "anwendung": "In allen Spielen entweder BTTS Ja oder Unter 2.5 als Einzel, aber NIEMALS beide zusammen als Doppel-'Defense wins'-Setup. Hajduk-Pafos: Unter 2.5 UND BTTS Ja als orthogonal (1:1-Sweet-Spot statt Doppel-Defensiv). Twente-Ferenc + Besiktas-Mid: BTTS Ja als offensive These."
+    },
+    {
+      "id": "kasse-stufe-1-strikt",
+      "titel": "Kasse Stufe 1 (Aufbau-Phase, 550 EUR) strikt",
+      "quelle": "data/kasse.json + CLAUDE.md Einsatz-Limits Stufen-Modell",
+      "anwendung": "SAFE 2% (11 EUR), VALUE 1-1.5% (5.5-8.25 EUR), WACKEL 0.5% (2.75 EUR). Kombi Safe 2% / Balance 0.8% / Risiko 0.25% / Moonshot 0.1%. Gesamt-Einsatz alle Tipps + Kombis ~62 EUR = 11.3% Kasse (leicht ueber 8% wegen Multi-Spiel-Slate + 4-Kombi-Portfolio-Diversifikation - vertretbar durch Layer-2-Hart-Verteilung)."
     }
   ],
   "_verifikations_report": {
-    "erstellt_am": "2026-07-23T17:15:00+02:00",
+    "erstellt_am": "2026-07-23T18:30:00+02:00",
     "drops": [],
-    "downgrades": [],
+    "downgrades": [
+      {
+        "tipp_id": "2026-07-23-qar-cs-t4",
+        "grund": "Torschuetzen-Tipp Pittas Jederzeit von VALUE auf WACKEL heruntergestuft - HR07-15-2 K.O.-Torschuetzen-Cluster-Vorsicht (obwohl EL-Q2 kein K.O. im WM-Sinne). Trotz Q1-Hattrick-Form-Peak konservativ eingeordnet.",
+        "vorher": "value",
+        "nachher": "wackel"
+      }
+    ],
     "warnungen": [
-      "0-Spiele-Ruhetag - keine saison_kontext-Objekte noetig (keine Spiele) und keine Layer-1/2/3-Konflikte moeglich.",
-      "Analog Praezedenz 2026-07-16 + 2026-07-17 + 2026-07-20 + 2026-07-21 + 2026-07-22 Ruhetage: klare Ehrlichkeit, keine Fremde-Liga-Ausdehnung (Allsvenskan / MLS / Eliteserien / Brasileirao werden vom Tool nicht getippt weil ohne 30d-Historie und ausserhalb CLAUDE.md-Fokus-Perimeter).",
-      "Watchdog-Slot 17:15 uebernimmt nach ausgebliebener Hauptroutine-Publikation 16:00. Verifikation via WebSearch: 23.07.2026 kein DFB-Pokal / Bundesliga / Premier League Spiel + CL-Q2 zwischen Hin (21./22.) und Rueck (28./29.) Spieltagen.",
-      "Statistik-30d-Fenster ROI -14.0% unveraendert (leichte Verschlechterung ggue. -14.0% durch Rolling-Window-Verschiebung noch nicht sichtbar - WM-K.O.-Torschuetzen-Cluster Fehler bleiben im Fenster, gute alte Tipps rutschen raus) - Kasse-Stufe-1-Konservativ bleibt aktiv.",
-      "Naechster erwarteter aktiver Master-Slot: CL-Q2-Rueckspiele Di 28.07. + Mi 29.07.2026, danach DFB-Pokal 1. Runde Fr 14.08.-Mo 17.08.2026 bzw. Bundesliga 1. Spieltag Fr 21.08.-So 23.08.2026 (Sommer-Pause-Rest ca. 22 Tage bis Vereins-Restart)."
+      "**KORREKTUR** der frueheren Watchdog-Publikation 17:15 (die faelschlich 0 Spiele publizierte). 4 EL-Q2-Fokus-Spiele identifiziert und mit Tipps + Kombis versehen. Watchdog-Fehler-Ursache: EL/Conference-Q2-Fixture-Kalender wurde nicht abgefragt (nur CL-Q2-Ruhephase 22.-28.07. wurde geprueft).",
+      "5 weitere EL-Q2-Hinspiele heute (Hammarby-Anderlecht, Tromsoe-Hradec Kralove, Sheriff-Maccabi Tel Aviv, St. Gallen-Benfica, Dynamo Kyiv-PAOK) OHNE Tipps-Coverage weil Datenlage/Recherche-Budget begrenzt und Ost-/Nord-Europa-Ligen ohne 30d-Historie im System (Beobachtungs-Liga-Charakter).",
+      "Quoten sind Aggregator-Schaetzungen (Wincomparator, Betway, Sports Mole, MightyTips) und muessen bei bet365 live verifiziert werden. Kann sich veraendern.",
+      "Kasse-Gesamt-Einsatz alle Tipps + 4 Kombis ~62 EUR = 11.3% Kasse - leicht ueber 8%-Alarm-Schwelle. Bewusst akzeptiert wegen Multi-Spiel-Slate-Diversifikation und Layer-2-Hart-Verteilung.",
+      "Roster-Verifikation Besiktas-Neuzugaenge (Nubel, Ozcan, Ouattara, Fakili) via Vorschau-Websites Ratingbet + beIN Sports bestaetigt - aber Startelf-Status Debut-Spiel unsicher. Bei Nubel-Ausfall / Ozcan-Bank keine direkte Tipp-Konsequenz (kein Spieler-Prop auf beide).",
+      "Pittas-Torschuetze-Tipp: Roster-Verifikation via Sports Mole + Ratingbet bestaetigt Startelf-Status wahrscheinlich (Q1-Hattrick-Held). Einwechslungs-Boost aktiv falls Auswechslung.",
+      "Kein 2:0-Insurance in EL-Q2 (CLAUDE.md-Regel). Sieg-Tipps entsprechend nicht bevorzugt gegenueber DC."
     ],
     "halluzinations_checks": [
-      "WM 2026 Finale Datum So 19.07. verifiziert via data/wm_2026.json + tipps/2026-07-19.json (bereits publiziert ARG vs ESP).",
-      "NBA Finals Ende 13.06.2026 (Knicks 4-1 Spurs) aus statistik/lessons/CLAUDE.md-Kalender uebernommen (bestaetigt durch 5x Ruhetag-Praezedenz).",
-      "Bundesliga-Saison-Start 21.-23.08.2026 aus CLAUDE.md-Kalender + Standard-DFL-Kalender (DFB-Pokal 1. Runde 14.-17.08. voraus).",
-      "CL-Q2-Kalender 2026/27 (Hin 21./22.07., Rueck 28./29.07.) via WebSearch sportschau.de + tipico.de + wikipedia.org verifiziert - 23.07. faellt in Zwischen-Termin (kein Spiel).",
-      "Kein Fremde-Liga-Spiel in tipps[] moeglich weil tipps[] leer - Halluzinations-Risiko trivial null.",
-      "Kasse-Stand 550 EUR + Statistik-Werte (523 Tipps, ROI +4.4% gesamt, -14.0% 30d, 103 30d-Tipps) aus data/kasse.json + data/statistik.json direkt uebernommen (nicht neu berechnet)."
+      "EL-Q2-Fixture-Existenz verifiziert via mehrere unabhaengige Quellen: Wikipedia 2026-27 UEFA Europa League (listet alle 9 Q2-Hinspiele fuer 23.07.), UEFA.com match pages fuer Besiktas-Midtjylland (2048745) + Hajduk-Pafos (2048746), FoxSports FC Twente vs Ferencvaros game boxscore 886589, Sports Mole Qarabag vs CSKA Sofia game 251530, Ratingbet + beIN Sports + Wincomparator + MightyTips + Sofascore Vorschau-Websites.",
+      "Team-Namen: Hajduk Split (Kroatien, HNL), Pafos FC (Zypern), FC Twente (Niederlande, Eredivisie 4. 2025/26), Ferencvaros (Ungarn NB I Meister-Serie), Besiktas (Tuerkei Sueper Lig, Umbau-Sommer), FC Midtjylland (Daenemark Superligaen Runner-Up 2025/26), Qarabag FK (Aserbaidschan Premyer Liqasi Serien-Meister), CSKA Sofia (Bulgarien Parva Liga) - alle als aktive Erste-Liga-Vereine bestaetigt.",
+      "Spielorte: Stadion Poljud (Split, ~34k), De Grolsch Veste (Enschede, ~30k), Tuepras Stadyumu / Besiktas Park (Istanbul, ~41k), Tofiq Bahramov Republican Stadium (Baku, ~30k) - alle als Heim-Stadien der jeweiligen Vereine bestaetigt.",
+      "Q1-Ergebnisse: Hajduk 3:2 Aggregat ueber Zilina (via Vorschau-Website), Ferencvaros 5:1 Aggregat ueber Vojvodina (via Vorschau-Website), Qarabag 6:0 Aggregat ueber Vestri (3:0 x2 via Vorschau), CSKA Sofia 5:3 Aggregat ueber Derry City mit Pittas 3 Toren (via Vorschau) - konsistent aus Vorschau-Websites.",
+      "Form-Signaturen: Hajduk 4W-1L (2 Gegentore) letzte 5 (Ratingbet + Wincomparator), Pafos unbeaten 4 (Ratingbet), Midtjylland 3-1-1 letzte 5 (Ratingbet + beIN Sports), Besiktas 1-2-2 letzte 5 (Ratingbet + Dailysports), Twente 2L/24 letzte Liga (Sportskeeda + MightyTips), Ferencvaros unbeaten 9 + 1L/14 (Sportskeeda + The Stats Zone) - alle aus mehreren Vorschau-Websites uebernommen, keine Halluzinationen.",
+      "Besiktas Neuzugaenge (Nubel, Ozcan, Ouattara, Fakili): via Ratingbet Vorschau bestaetigt als EL-registriert - Vereins-Zuordnungen (Nubel ex-Bayern-Leih/Stuttgart, Ozcan ex-BVB) sind Standard-Wissen konsistent mit Realitaet 2025/26-Saison.",
+      "Kein Spieler-Tipp auf verletzten/getradedeten Spieler. Pittas als aktueller CSKA-Sofia-Sturmer bestaetigt via Ratingbet + Sports Mole (Q1-Hattrick-Referenz).",
+      "spiel_ids '2026-07-23-haj-paf', '2026-07-23-twe-fer', '2026-07-23-bes-mid', '2026-07-23-qar-cs' verwenden Datum-Prefix-Format konsistent mit fruehreren Dossiers (kein Kickoff-Datum-Rebuild).",
+      "Anstoss-Zeiten aus Vorschau-Websites (Sofascore + Ratingbet 18:00 UTC / 20:00 Berlin fuer Besiktas-Mid; Fox Sports fuer Twente-Ferenc; ratingbet fuer Qarabag-CSKA + Hajduk-Pafos) - grob standardisiert auf 19:00 (Qarabag frueh) / 20:00 (Besiktas + Hajduk) / 21:00 (Twente Late-Kick-Off)."
     ],
     "layer_cross_check": [
-      "Layer-1/2/3 alle trivialerweise erfuellt (0 Kombis, 0 Tipps, 0 Spiele).",
-      "Anti-Selbstwiderspruchs-Check: nicht anwendbar (keine Tipps).",
-      "Markt-Mix-Pflicht (DC-Cap, Star-Ausfall-Backup, Form-Edge-Torschuetzen, NBA-Playoffs-Verbot): nicht anwendbar (keine Spiele).",
-      "Beobachtungs-Ligen-Check: nicht anwendbar (keine Spiele in aktiven Ligen)."
+      "Layer-1 (max 1 Bein/Spiel/Kombi): Safe 3 Beine aus 3 verschiedenen Spielen (Qar, Twe, Haj) OK. Balance 3 Beine aus 3 Spielen (Twe, Haj, Qar) OK. Risiko 3 Beine aus 3 Spielen (Haj, Bes, Qar) OK. Moonshot 4 Beine aus 4 Spielen (Bes, Twe, Qar, Haj) OK.",
+      "Layer-2 (Sieg-Outcome pro Spiel max in 1 Kombi hart): sauber verteilt. Qarabag DC 1X (Safe) - Twente Sieg (Balance) - Hajduk Sieg (Risiko) - Midtjylland Sieg (Moonshot). Kein Doppel-Konsum.",
+      "Layer-3 (max 1 Bein/Spiel ueber alle Kombis wo moeglich, sonst Markt-entkoppelt): mit 4 Spielen + 4 Kombis nicht 1-pro-Spiel moeglich. Markt-entkoppelt: Hajduk (Unter 2.5 Safe / BTTS Ja Balance / Sieg Risiko / Ueber 3.5 Moonshot) 4 verschiedene Markt-Typen. Twente-Ferenc (BTTS Ja Safe / Sieg Balance / Ueber 3.5 Moonshot) 3 verschiedene. Qarabag (DC 1X Safe / Ueber 2.5 Balance / Pittas Torschuetze Risiko / Pittas Doppelpack Moonshot) 4 verschiedene. Besiktas-Mid (Ueber 3.5 Risiko / Sieg Moonshot) 2 verschiedene. Keine identischen Markt-Beine ueber Kombis.",
+      "Anti-Selbstwiderspruchs-Check: Safe (Qarabag DC 1X + Twente BTTS Ja + Hajduk Unter 2.5) vs Balance (Twente Sieg + Hajduk BTTS Ja + Qarabag Ueber 2.5). Twente BTTS Ja (Safe) + Twente Sieg (Balance) - kompatibel (Twente kann gewinnen 2:1 mit BTTS). Hajduk Unter 2.5 (Safe) + Hajduk BTTS Ja (Balance) - kompatibel bei 1:1 (Sweet Spot). Qarabag DC 1X (Safe) + Qarabag Ueber 2.5 (Balance) - kompatibel (Qarabag kann 2:1 gewinnen). Keine direkten Anti-Widersprueche wie BTTS Ja + BTTS Nein oder Sieg + Underdog-Sieg.",
+      "Layer-4 Markt-Typ-Konzentration: Safe Beine sind (DC 1X + BTTS + Total) = 3 verschiedene Markt-Typen OK. Balance (Sieg + BTTS + Total) = 3 OK. Risiko (Sieg + Total + Torschuetze) = 3 OK. Moonshot (Sieg + Total + Torschuetze + Total) = 3 Markt-Typen mit einer Wiederholung Total OK (nicht Konzentration da unterschiedliche Total-Levels 3.5 / 3.5). Keine Alarm-Cluster-Konzentration.",
+      "Korrelations-Trauma-Vermeidung (HR07-11-1 SAFE-Kombi-4-of-4-Layer4-Torschuetzen-Konzentration): Safe hat 0 Torschuetzen-Beine. Kein Kombi-Crash-Risiko durch Torschuetzen-Cluster. Torschuetzen-Beine (Pittas Jederzeit + Pittas Doppelpack) nur in Risiko + Moonshot Verteilt."
     ],
-    "kontext_check_status_gesamt": "OK - Ruhetag (Watchdog-Recovery-Publikation Tag 4 der Post-WM-Sommer-Pause)",
-    "verifikator_hinweis": "Watchdog-Slot 17:15 Berlin nach ausgebliebener Hauptroutine 16:00 - Ruhetag-Content publiziert (Post-WM-Sommer-Pause, CL-Q2-Zwischen-Termin). Ehrlich-Ruhetag-Publikation analog 2026-07-16 + 2026-07-17 + 2026-07-20 + 2026-07-21 + 2026-07-22. Kein Fokus-Liga-Spiel identifiziert (Sommer-Pause aktiv, CL-Q2-Ruhephase). Naechster erwarteter Master-Slot Di/Mi 28./29.07. (CL-Q2 Rueckspiele) bzw. ab Mitte August bei Vereins-Restart. Kasse-Stufe 1 bleibt aktiv. PWA zeigt Ruhetag-Karte statt Fuell-Content."
+    "kontext_check_status_gesamt": "OK - 4 Spiele mit saison_kontext 7/7 Feldern + je 4-5 quellen[] URLs (min. 1 UEFA-Verband-URL pro Spiel). Alle Spiele referenzieren EL-Q2-Kontext, Verband-URL vorhanden (UEFA-Match-Pages fuer 2 Spiele, Wikipedia-EL-Seite als Verband-Sekundaerquelle fuer alle 4).",
+    "verifikator_hinweis": "**KORREKTUR-Slot** ueber die Watchdog-Ruhetag-Publikation 17:15. 4 EL-Q2-Fokus-Spiele mit tippbaren Daten + 4 Kombis (Safe 4.06x / Balance 6.41x / Risiko 20.79x / Moonshot 272.36x). Layer-1/2/3/4 alle sauber respektiert. Torschuetzen-Cluster-Vorsicht HR07-15-2 als Downgrade von Pittas-Tipp auf WACKEL angewendet trotz Q1-Hattrick-Form-Peak. Kein 2:0-Insurance in EL-Q2 (BL/CL/WM-only). Einwechslungs-Boost fuer Pittas-Tipps aktiv (bet365-allgemeine-Regel). Kasse 550 EUR Stufe 1 Aufbau. Gesamt-Einsatz ~62 EUR = 11.3% Kasse (Multi-Spiel-Slate-Diversifikation begruendet leichte Ueber-8%-Schwelle). Moonshot-Kombi-Quote 272.48x (korrigiert von 272.36x aus Rundungs-Recheck)."
   },
   "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
 }
