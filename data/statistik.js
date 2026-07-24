@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-07-23T07:06:21+00:00",
+  "letzte_berechnung": "2026-07-24T07:14:08+00:00",
   "gesamt": {
-    "tipps": 523,
-    "gewonnen": 287,
-    "verloren": 225,
+    "tipps": 533,
+    "gewonnen": 291,
+    "verloren": 231,
     "push": 2,
     "offen": 9,
-    "einsatz": 514.0,
-    "netto": 22.83,
-    "trefferquote": 56.1,
-    "roi_prozent": 4.4
+    "einsatz": 524.0,
+    "netto": 19.05,
+    "trefferquote": 55.7,
+    "roi_prozent": 3.6
   },
   "letzte_30_tage": {
-    "tipps": 103,
-    "gewonnen": 55,
-    "verloren": 48,
+    "tipps": 113,
+    "gewonnen": 59,
+    "verloren": 54,
     "push": 0,
     "offen": 0,
-    "einsatz": 103.0,
-    "netto": -14.37,
-    "trefferquote": 53.4,
-    "roi_prozent": -14.0
+    "einsatz": 113.0,
+    "netto": -18.15,
+    "trefferquote": 52.2,
+    "roi_prozent": -16.1
   },
   "letzte_90_tage": {
-    "tipps": 501,
-    "gewonnen": 273,
+    "tipps": 499,
+    "gewonnen": 271,
     "verloren": 217,
     "push": 2,
     "offen": 9,
-    "einsatz": 492.0,
-    "netto": 20.03,
-    "trefferquote": 55.7,
-    "roi_prozent": 4.1
+    "einsatz": 490.0,
+    "netto": 18.8,
+    "trefferquote": 55.5,
+    "roi_prozent": 3.8
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
@@ -1046,6 +1046,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": -1.3,
       "trefferquote": 40.0,
       "roi_prozent": -26.0
+    },
+    "UEFA Europa League - 2. Qualifikationsrunde": {
+      "tipps": 10,
+      "gewonnen": 4,
+      "verloren": 6,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 10.0,
+      "netto": -3.78,
+      "trefferquote": 40.0,
+      "roi_prozent": -37.8
     }
   },
   "nach_markt": {
@@ -1853,15 +1864,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 42.0
     },
     "Unter 2.5 Tore": {
-      "tipps": 19,
-      "gewonnen": 15,
+      "tipps": 20,
+      "gewonnen": 16,
       "verloren": 4,
       "push": 0,
       "offen": 0,
-      "einsatz": 19.0,
-      "netto": 7.34,
-      "trefferquote": 78.9,
-      "roi_prozent": 38.6
+      "einsatz": 20.0,
+      "netto": 8.24,
+      "trefferquote": 80.0,
+      "roi_prozent": 41.2
     },
     "Unter 211.5 Punkte (Total)": {
       "tipps": 1,
@@ -2216,15 +2227,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -100.0
     },
     "Ueber 2.5 Tore": {
-      "tipps": 26,
+      "tipps": 27,
       "gewonnen": 13,
-      "verloren": 11,
+      "verloren": 12,
       "push": 0,
       "offen": 2,
-      "einsatz": 24.0,
-      "netto": 5.03,
-      "trefferquote": 54.2,
-      "roi_prozent": 21.0
+      "einsatz": 25.0,
+      "netto": 4.03,
+      "trefferquote": 52.0,
+      "roi_prozent": 16.1
     },
     "Unter 3.5 Tore": {
       "tipps": 4,
@@ -5087,6 +5098,17 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 65.0
     },
     "Beide Teams treffen (BTTS Ja)": {
+      "tipps": 3,
+      "gewonnen": 1,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": -1.11,
+      "trefferquote": 33.3,
+      "roi_prozent": -37.0
+    },
+    "Lamine Yamal trifft (Torschuetze Jederzeit)": {
       "tipps": 1,
       "gewonnen": 0,
       "verloren": 1,
@@ -5097,7 +5119,40 @@ window.__MIESMUSCHEL_STAT = {
       "trefferquote": 0.0,
       "roi_prozent": -100.0
     },
-    "Lamine Yamal trifft (Torschuetze Jederzeit)": {
+    "Doppelte Chance 1X": {
+      "tipps": 3,
+      "gewonnen": 2,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": -0.57,
+      "trefferquote": 66.7,
+      "roi_prozent": -19.0
+    },
+    "Doppelte Chance X2 (Midtjylland oder Remis)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Sieg Qarabag (1X2)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Sieg Twente (1X2)": {
       "tipps": 1,
       "gewonnen": 0,
       "verloren": 1,
@@ -5155,15 +5210,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 55.0
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 165,
+      "tipps": 167,
       "gewonnen": 95,
-      "verloren": 69,
+      "verloren": 71,
       "push": 0,
       "offen": 1,
-      "einsatz": 164.0,
-      "netto": 4.09,
-      "trefferquote": 57.9,
-      "roi_prozent": 2.5
+      "einsatz": 166.0,
+      "netto": 2.09,
+      "trefferquote": 57.2,
+      "roi_prozent": 1.3
     },
     "Torschuetzen Jederzeit": {
       "tipps": 101,
@@ -5177,59 +5232,59 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 0.9
     },
     "Unter 2.5 Tore": {
-      "tipps": 29,
-      "gewonnen": 20,
+      "tipps": 30,
+      "gewonnen": 21,
       "verloren": 9,
       "push": 0,
       "offen": 0,
-      "einsatz": 29.0,
-      "netto": 7.61,
-      "trefferquote": 69.0,
-      "roi_prozent": 26.2
+      "einsatz": 30.0,
+      "netto": 8.51,
+      "trefferquote": 70.0,
+      "roi_prozent": 28.4
     },
     "Doppelte Chance 1X": {
-      "tipps": 27,
-      "gewonnen": 20,
-      "verloren": 5,
+      "tipps": 30,
+      "gewonnen": 22,
+      "verloren": 6,
       "push": 0,
       "offen": 2,
-      "einsatz": 25.0,
-      "netto": 0.54,
-      "trefferquote": 80.0,
-      "roi_prozent": 2.2
+      "einsatz": 28.0,
+      "netto": -0.03,
+      "trefferquote": 78.6,
+      "roi_prozent": -0.1
     },
     "Doppelte Chance X2": {
-      "tipps": 36,
+      "tipps": 37,
       "gewonnen": 27,
-      "verloren": 7,
+      "verloren": 8,
       "push": 0,
       "offen": 2,
-      "einsatz": 34.0,
-      "netto": 4.5,
-      "trefferquote": 79.4,
-      "roi_prozent": 13.2
+      "einsatz": 35.0,
+      "netto": 3.5,
+      "trefferquote": 77.1,
+      "roi_prozent": 10.0
     },
     "Ueber 2.5 Tore": {
-      "tipps": 41,
+      "tipps": 42,
       "gewonnen": 22,
-      "verloren": 17,
+      "verloren": 18,
       "push": 0,
       "offen": 2,
-      "einsatz": 39.0,
-      "netto": 6.63,
-      "trefferquote": 56.4,
-      "roi_prozent": 17.0
+      "einsatz": 40.0,
+      "netto": 5.63,
+      "trefferquote": 55.0,
+      "roi_prozent": 14.1
     },
     "Beide Teams treffen JA": {
-      "tipps": 12,
-      "gewonnen": 5,
-      "verloren": 5,
+      "tipps": 14,
+      "gewonnen": 6,
+      "verloren": 6,
       "push": 0,
       "offen": 2,
-      "einsatz": 10.0,
-      "netto": -0.65,
+      "einsatz": 12.0,
+      "netto": -0.76,
       "trefferquote": 50.0,
-      "roi_prozent": -6.5
+      "roi_prozent": -6.3
     },
     "Ueber 1.5 Tore": {
       "tipps": 7,
@@ -5707,15 +5762,15 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 228,
-      "gewonnen": 120,
-      "verloren": 103,
+      "tipps": 235,
+      "gewonnen": 122,
+      "verloren": 108,
       "push": 1,
       "offen": 4,
-      "einsatz": 224.0,
-      "netto": 11.11,
-      "trefferquote": 53.8,
-      "roi_prozent": 5.0
+      "einsatz": 231.0,
+      "netto": 7.9,
+      "trefferquote": 53.0,
+      "roi_prozent": 3.4
     },
     "2.00-3.00": {
       "tipps": 79,
@@ -5729,15 +5784,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 2.3
     },
     "1.00-1.50": {
-      "tipps": 188,
-      "gewonnen": 130,
-      "verloren": 54,
+      "tipps": 191,
+      "gewonnen": 132,
+      "verloren": 55,
       "push": 0,
       "offen": 4,
-      "einsatz": 184.0,
-      "netto": 8.86,
-      "trefferquote": 70.7,
-      "roi_prozent": 4.8
+      "einsatz": 187.0,
+      "netto": 8.29,
+      "trefferquote": 70.6,
+      "roi_prozent": 4.4
     },
     "3.00+": {
       "tipps": 28,
@@ -5753,26 +5808,26 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_kategorie": {
     "safe": {
-      "tipps": 102,
-      "gewonnen": 69,
-      "verloren": 33,
+      "tipps": 105,
+      "gewonnen": 71,
+      "verloren": 34,
       "push": 0,
       "offen": 0,
-      "einsatz": 102.0,
-      "netto": 1.87,
+      "einsatz": 105.0,
+      "netto": 1.3,
       "trefferquote": 67.6,
-      "roi_prozent": 1.8
+      "roi_prozent": 1.2
     },
     "value": {
-      "tipps": 307,
-      "gewonnen": 171,
-      "verloren": 125,
+      "tipps": 314,
+      "gewonnen": 173,
+      "verloren": 130,
       "push": 2,
       "offen": 9,
-      "einsatz": 298.0,
-      "netto": 28.66,
-      "trefferquote": 57.8,
-      "roi_prozent": 9.6
+      "einsatz": 305.0,
+      "netto": 25.45,
+      "trefferquote": 57.1,
+      "roi_prozent": 8.3
     },
     "wackel": {
       "tipps": 111,
@@ -5836,6 +5891,137 @@ window.__MIESMUSCHEL_STAT = {
     }
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-07-23",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "kombi-01",
+          "kategorie": "",
+          "gesamtquote": 4.06,
+          "einsatz_prozent": 0.5,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Doppelte Chance 1X",
+              "quote": 1.13,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen (BTTS Ja)",
+              "quote": 1.89,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.9,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "kombi-02",
+          "kategorie": "",
+          "gesamtquote": 6.41,
+          "einsatz_prozent": 0.5,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Twente (1X2)",
+              "quote": 1.73,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen (BTTS Ja)",
+              "quote": 1.9,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.95,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "kombi-03",
+          "kategorie": "",
+          "gesamtquote": 20.79,
+          "einsatz_prozent": 0.5,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Hajduk (1X2)",
+              "quote": 2.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 3.5 Tore",
+              "quote": 2.7,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Torschuetze Jederzeit - Ioannis Pittas",
+              "quote": 3.5,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "kombi-04",
+          "kategorie": "",
+          "gesamtquote": 272.48,
+          "einsatz_prozent": 0.5,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Midtjylland (1X2)",
+              "quote": 3.6,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 3.5 Tore",
+              "quote": 2.9,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Torschuetze Doppelpack - Ioannis Pittas",
+              "quote": 9.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 3.5 Tore",
+              "quote": 2.9,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-07-15",
       "gesamt": {

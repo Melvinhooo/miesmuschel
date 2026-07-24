@@ -1,5 +1,5 @@
 {
-  "stand": "2026-07-23T07:06:21+00:00",
+  "stand": "2026-07-24T07:14:08+00:00",
   "kriterium": "rolling 30 Tage ROI < -30.0% bei min. 4 Tipps",
   "ausstiegs_kriterium": "rolling 30 Tage ROI > -10.0% -> Liga wieder voll bespielbar",
   "ligen": [
@@ -9,6 +9,13 @@
       "roi_30d_prozent": -43.4,
       "trefferquote_30d": 40.0,
       "netto_30d": -2.17
+    },
+    {
+      "liga": "UEFA Europa League - 2. Qualifikationsrunde",
+      "tipps_30d": 10,
+      "roi_30d_prozent": -37.8,
+      "trefferquote_30d": 40.0,
+      "netto_30d": -3.78
     },
     {
       "liga": "FIFA WM 2026 - Halbfinale",
