@@ -2088,5 +2088,4 @@ window.__MIESMUSCHEL_LESSONS = {
       "bezug_spiel_id": null
     }
   ]
-}
-;
+};
