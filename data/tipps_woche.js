@@ -13,5 +13,4 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
     "Kasse-Stufe 1 bleibt aktiv bis 07.08. Vereins-Restart: Kasse 550 EUR + 30d-ROI -17.4% doppelte Nicht-Erfuellung Stufe-2-Trigger. Bei 2. Bundesliga Spieltag 1 Fr 07.08. (VfL Bochum vs Hertha BSC 20:30) NICHT sofort in aggressive Einsatz-Range springen sondern erst 2-3 Wochen 30d-Recovery abwarten - WM-K.O.-Torschuetzen-Cluster-Fehler muessen aus dem Rolling-30d-Fenster ausrollen."
   ],
   "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Nur Hobby, keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause."
-}
-;
+};

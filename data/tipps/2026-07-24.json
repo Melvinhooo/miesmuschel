@@ -39,8 +39,7 @@
     "warnungen": [
       "0-Spiele-Ruhetag - keine saison_kontext-Objekte noetig (keine Spiele) und keine Layer-1/2/3-Konflikte moeglich.",
       "Analog Praezedenz 2026-07-16 + 2026-07-17 + 2026-07-20 + 2026-07-21 + 2026-07-22 Ruhetage: klare Ehrlichkeit, keine Fremde-Liga-Ausdehnung (Allsvenskan / MLS / Eliteserien / Brasileirao werden vom Tool nicht getippt weil ohne 30d-Historie und ausserhalb CLAUDE.md-Fokus-Perimeter).",
-      "Master-Slot 18:05 bestaetigt Watchdog-Publikation 17:15 identisch (Ruhetag). Recherche-File data/recherche/2026-07-24.json fehlt (nicht angelegt weil 0 Spiele = kein Recherche-Bedarf), aber Fallback-Analyse Master-Slot Recherche-Routine ergibt trivial 0 Spiele (WM Ende 19.07. + Vereins-Sommer-Pause + NBA Ende 13.06. + UEFA-Q2-Konvention Di-Do)."
-      ,
+      "Master-Slot 18:05 bestaetigt Watchdog-Publikation 17:15 identisch (Ruhetag). Recherche-File data/recherche/2026-07-24.json fehlt (nicht angelegt weil 0 Spiele = kein Recherche-Bedarf), aber Fallback-Analyse Master-Slot Recherche-Routine ergibt trivial 0 Spiele (WM Ende 19.07. + Vereins-Sommer-Pause + NBA Ende 13.06. + UEFA-Q2-Konvention Di-Do).",
       "Statistik-30d-Fenster ROI -16.1% (leichte Verschlechterung ggue. vor 2 Tagen -14.0% durch Rolling-Window-Verschiebung - WM-K.O.-Torschuetzen-Cluster Fehler bleiben im Fenster, gute alte Tipps rutschen raus) - Kasse-Stufe-1-Konservativ bleibt aktiv.",
       "Naechster erwarteter aktiver Master-Slot: Di 28.07.2026 mit UEFA CL Q2 Hinspiele + EL Q2 Rueckspiele + Conference Q2 Rueckspiele (Fokus-Liga-Aktivitaet erwartet, potenziell 6-15 Spiele im Slate).",
       "Erster erwarteter Vereins-Liga-Slot: DFB-Pokal 1. Runde Fr 14.08.-Mo 17.08.2026 bzw. Bundesliga 1. Spieltag Fr 21.08.-So 23.08.2026 (Sommer-Pause-Rest ca. 21 Tage)."
