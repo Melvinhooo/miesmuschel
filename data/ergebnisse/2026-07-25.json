@@ -1,0 +1,69 @@
+{
+  "datum": "2026-07-25",
+  "erstellt_am": "2026-07-25T13:30:00+02:00",
+  "modus": "tag",
+  "hinweis": "MASTER-SLOT Sa 25.07. 13:30 Berlin (Sa+So-Slot Pipeline via GitHub Action). **RUHETAG - Post-WM-Sommer-Pause Tag 6 (Sa)**: heute Sa 25.07.2026 findet KEIN Spiel in einer CLAUDE.md-Fokus-Liga im Tages-Window statt. WM 2026 abgeschlossen (Finale So 19.07. Argentinien vs Spanien, MetLife Stadium East Rutherford NJ). Alle Vereins-Ligen (Bundesliga, 2. Bundesliga, Premier League, LaLiga, Serie A, Ligue 1, DFB-Pokal, Champions League, Europa League, Conference League, Coppa Italia) in Sommer-Pause: DFB-Pokal 1. Runde 14.-17.08., 2. Bundesliga 1. Spieltag Fr 07.08. (VfL Bochum vs Hertha BSC 20:30 Berlin), Bundesliga 1. Spieltag 21.-23.08., Premier League 15./16.08., LaLiga/Serie A ~22./23.08., Ligue 1 ~15./16.08. NBA Playoffs 2026 abgeschlossen (Knicks 4-1 Spurs, letztes Spiel Sa 13.06.), NBA Summer League ebenfalls beendet (Championship So 19.07. Warriors vs Grizzlies). **UEFA-Q2-Kalender-Check (analog Vortag Fr 24.07. bestaetigt via WebSearch + Wikipedia 2026-27 UEFA Conference League qualifying + UEFA.com)**: UEFA Conference League Q2 Hinspiele Do 23.07., Rueckspiele Do 30.07. (beides Donnerstag). UEFA Europa League Q2 Hinspiele Di-Do 21.-23.07., Rueckspiele Di-Do 28.-30.07. UEFA Champions League Q2 Hinspiele Di/Mi 28./29.07., Rueckspiele Di/Mi 04./05.08. - **Samstag 25.07. explizit KEIN UEFA-Q2-Spiel-Tag** (UEFA-Konvention: CL/EL/Conference-Wettbewerbstage sind Di-Do, nie Wochenende). Nur Vorbereitungs-Testspiele im Tages-Scan (Bayern @ SV Wehen-Wiesbaden 25.07., diverse Bundesliga-Trainingslager-Testspiele) - Testspiele sind KEIN CLAUDE.md-Fokus-Perimeter (kein 30d-Statistik-Edge, keine 2:0-Insurance-Regel-Anwendbarkeit, keine Wettbewerbs-Motivation, Kader-Rotation zu hoch in Trainingslager-Phase). Wochenend-Vorschau data/tipps_wochenende/2026-07-25.json (publiziert Do 23.07. 18:00) hat Sa 25.07. + So 26.07. bereits als Ruhe-Wochenende deklariert - Master-Slot 13:30 bestaetigt identisch. **Praezedenz Ruhetag-Verhalten (6 aufeinanderfolgende Tage)**: Do 16.07., Fr 17.07., Mo 20.07., Di 21.07., Mi 22.07., Do 23.07. (letzter mit nur 1 verifiziertem EL/Conf-Slate der bereits publiziert wurde), Fr 24.07. - klare Ehrlichkeit statt Fremde-Liga-Fuell-Tipps (Allsvenskan, MLS, Eliteserien, Brasileirao Serie A, LaLiga MX Apertura, chinesische Super League sind bewusst ausserhalb Fokus-Perimeter, keine 30d-Historie im System). **Naechster relevanter Slot**: Di 28.07.2026 (UEFA CL Q2 Hinspiele + UEFA EL Q2 Rueckspiele + UEFA Conference Q2 Rueckspiele im Fenster Di-Do 28.-30.07.) - potenziell 6-15 Spiele im Slate. Erster Vereins-Liga-Slot Fr 07.08. (2. Bundesliga Spieltag 1) bzw. 14.-17.08. (DFB-Pokal 1. Runde). **Kasse 550 EUR unveraendert** (Kasse-Stufe 1 Aufbau-Phase - siehe data/kasse.json). **Statistik-Snapshot Stand 25.07. 07:04 UTC**: Gesamt 533 Tipps, 291 gewonnen, ROI +3.6%. 30-Tage-Fenster 103 Tipps, ROI -18.7%, Hitrate 51.5% (WM-K.O.-Torschuetzen-Cluster HR07-15-2 + Portfolio-Uebertrag-Falle HR07-15-1 P3-Doppel-Crash weiterhin dominant; Verschlechterung ggue. Vortag -16.1% durch Rolling-30d-Fenster-Verschiebung - gute alte Tipps rutschen raus, WM-K.O.-Fehler bleiben im Fenster - natuerliche Erholung erst mit Vereins-Restart Mitte August erwartet). Kasse-Stufe-2-Trigger (Kasse >=1000 EUR UND 30d-ROI >+5%) doppelt nicht erfuellt - Konservativ-Modus bleibt aktiv. 18+ / BZgA 0800 1372700.",
+  "spiele": [],
+  "einzeltipps": [],
+  "kombis": [],
+  "lessons_angewandt": [
+    {
+      "id": "ruhetag-ehrlich",
+      "titel": "Ruhetag ehrlich als Ruhetag markieren - keine Zwang-Tipps aus Fremden Ligen",
+      "quelle": "CLAUDE.md Tonalitaet-Prinzip (Ehrlich, keine Zwang-Tipps) + Praezedenz 2026-07-16 + 2026-07-17 + 2026-07-20 + 2026-07-21 + 2026-07-22 + 2026-07-24",
+      "anwendung": "spiele[] leer, einzeltipps[] leer, kombis[] leer. hinweis erklaert Situation transparent inkl. Post-WM-Sommer-Pause-Kalender fuer alle 11 Fokus-Ligen, UEFA-Q2-Kalender-Verifikation (Sa 25.07. explizit spielfrei weil UEFA-Konvention Di-Do), Naechster-Slot-Prognose (Di 28.07. mit UEFA CL Q2 Hinspiele + EL/Conference Q2 Rueckspiele Slate 6-15 Spiele)."
+    },
+    {
+      "id": "fokus-ligen-perimeter",
+      "titel": "CLAUDE.md-Fokus-Ligen-Perimeter halten (keine Ausdehnung ohne 30d-Historie)",
+      "quelle": "CLAUDE.md Projekt-Zweck (Aktive Sportarten: Fussball WM 2026 + Vereine BL/2BL/PL/LaLiga/Serie A/DFB-Pokal/CL/EL/Conference/Ligue 1/Coppa Italia + NBA Finals)",
+      "anwendung": "Vorbereitungs-Testspiele Sa 25.07. (Bayern @ SV Wehen-Wiesbaden 25.07. u.a. Bundesliga-Trainingslager-Tests) bewusst nicht getippt - Testspiele haben keine Wettbewerbs-Motivation, keine 2:0-Insurance-Regel-Anwendbarkeit, keine 30d-Statistik-Historie im System, Kader-Rotation zu hoch in Trainingslager-Phase. liga_goldgruben.json-Eintrag 'Internationales Freundschaftsspiel (WM-Test)' bezieht sich auf Pre-WM-Nationalmannschafts-Tests (Sommer bis 10.06.), NICHT auf Post-Season-Vereins-Testspiele. Allsvenskan/MLS/Eliteserien/Brasileirao Serie A/LaLiga MX/CSL wie bisher ausserhalb Perimeter."
+    },
+    {
+      "id": "uefa-q2-wochenend-frei",
+      "titel": "UEFA-Q2-Wettbewerbe finden Di-Do statt - Wochenende immer spielfrei",
+      "quelle": "uefa.com Champions League / Europa League / Conference League qualifying calendar 2026-27 + Praezedenz Fr 24.07. Master-Slot Fallback-Recherche",
+      "anwendung": "Bestaetigt: CL Q2 Hinspiele Di/Mi 28./29.07. + Rueckspiele Di/Mi 04./05.08. (Werktag). EL Q2 Hinspiele Do 23.07. + Rueckspiele Do 30.07. (Werktag). Conference Q2 identischer Kalender wie EL. KEIN Wochenendtermin fuer alle drei UEFA-Q-Wettbewerbe im gesamten Sommer-Kalender - somit Samstag 25.07. + Sonntag 26.07. explizit spielfrei. Naechster Master-Slot Di 28.07. mit potenziell grosser Slate."
+    },
+    {
+      "id": "kasse-stufe-1-bei-30d-negativ",
+      "titel": "Kasse-Stufe 1 bleibt aktiv solange 30d-ROI negativ ODER Kasse < 1000 EUR",
+      "quelle": "CLAUDE.md Einsatz-Limits Stufen-Modell (Stufe 2 nur bei 30d-ROI > +5% UND Kasse >= 1000 EUR)",
+      "anwendung": "Beide Trigger nicht erfuellt (Kasse 550 EUR / 30d-ROI -18.7% - weitere Verschlechterung ggue. Vortag -16.1% durch Rolling-30d-Fenster-Verschiebung). Konservativ-Modus bleibt - relevant bei Vereins-Restart Mitte August: nicht sofort in aggressive Einsatz-Range springen sondern erst 2-3 Wochen 30d-Fenster-Recovery abwarten (WM-K.O.-Torschuetzen-Cluster-Fehler muessen erst aus 30d-Fenster ausrollen)."
+    }
+  ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-07-25T13:30:00+02:00",
+    "drops": [],
+    "downgrades": [],
+    "warnungen": [
+      "0-Spiele-Ruhetag - keine saison_kontext-Objekte noetig (keine Spiele) und keine Layer-1/2/3-Konflikte moeglich.",
+      "Analog Praezedenz 2026-07-16 + 2026-07-17 + 2026-07-20 + 2026-07-21 + 2026-07-22 + 2026-07-24 (6 aufeinanderfolgende Ruhetage): klare Ehrlichkeit, keine Fremde-Liga-Ausdehnung (Allsvenskan / MLS / Eliteserien / Brasileirao / LaLiga MX / CSL werden vom Tool nicht getippt weil ohne 30d-Historie und ausserhalb CLAUDE.md-Fokus-Perimeter).",
+      "Master-Slot 13:30 (Sa+So-Slot laut Master-Prompt Cron-Slots) bestaetigt Wochenend-Vorschau vom Do 23.07. 18:00 (data/tipps_wochenende/2026-07-25.json) identisch als Ruhe-Wochenende. Recherche-File data/recherche/2026-07-25.json fehlt (nicht angelegt weil 0 Spiele = kein Recherche-Bedarf), aber Fallback-Analyse Master-Slot Recherche-Routine ergibt trivial 0 Spiele (WM Ende 19.07. + Vereins-Sommer-Pause + NBA Ende 13.06. + UEFA-Q2-Konvention Di-Do).",
+      "Statistik-30d-Fenster ROI -18.7% (Verschlechterung ggue. Vortag -16.1% durch Rolling-Window-Verschiebung - WM-K.O.-Torschuetzen-Cluster Fehler bleiben im Fenster, gute alte Tipps rutschen raus) - Kasse-Stufe-1-Konservativ bleibt aktiv, Trigger-Doppel-Fail (Kasse 550 EUR + 30d-ROI negativ).",
+      "Naechster erwarteter aktiver Master-Slot: Di 28.07.2026 mit UEFA CL Q2 Hinspiele + EL Q2 Rueckspiele + Conference Q2 Rueckspiele (Fokus-Liga-Aktivitaet erwartet, potenziell 6-15 Spiele im Slate).",
+      "Erster erwarteter Vereins-Liga-Slot: 2. Bundesliga Spieltag 1 Fr 07.08.2026 (VfL Bochum vs Hertha BSC 20:30) bzw. DFB-Pokal 1. Runde Fr 14.08.-Mo 17.08.2026 bzw. Bundesliga 1. Spieltag Fr 21.08.-So 23.08.2026 (Sommer-Pause-Rest ca. 13-29 Tage)."
+    ],
+    "halluzinations_checks": [
+      "WM 2026 Finale Datum So 19.07. verifiziert via data/wm_2026.json + tipps/2026-07-19.json (bereits publiziert ARG vs ESP).",
+      "NBA Finals Ende 13.06.2026 (Knicks 4-1 Spurs) + NBA Summer League Ende So 19.07. (Warriors vs Grizzlies) aus statistik/lessons/CLAUDE.md-Kalender uebernommen (bestaetigt durch 6x Ruhetag-Praezedenz).",
+      "2. Bundesliga Spieltag 1 Fr 07.08.2026 (VfL Bochum vs Hertha BSC 20:30 Berlin) aus Wochenend-Vorschau data/tipps_wochenende/2026-07-25.json (Quelle bundesliga.com/dfl.de Kalender-Publikation 02.07.2026) uebernommen.",
+      "Bundesliga Spieltag 1 21.-23.08.2026 + DFB-Pokal 1. Runde 14.-17.08. aus CLAUDE.md-Kalender + Standard-DFL-Kalender uebernommen.",
+      "UEFA Conference League Q2 Datum Do 23.07. + CL Q2 Hinspiele Di/Mi 28./29.07. verifiziert via Vortag-Fallback-Recherche 24.07. (WebFetch Wikipedia 2026-27 UEFA Conference League qualifying + UEFA.com) - Samstag 25.07. + Sonntag 26.07. explizit ausserhalb UEFA-Q-Wettbewerbstage (UEFA-Konvention Di-Do, nie Wochenende).",
+      "Kein Fremde-Liga-Spiel in tipps[] moeglich weil tipps[] leer - Halluzinations-Risiko trivial null.",
+      "Kasse-Stand 550 EUR + Statistik-Werte (533 Tipps, ROI +3.6% gesamt, -18.7% 30d, 103 30d-Tipps, HR 51.5%) aus data/kasse.json + data/statistik.json direkt uebernommen (nicht neu berechnet)."
+    ],
+    "layer_cross_check": [
+      "Layer-1/2/3 alle trivialerweise erfuellt (0 Kombis, 0 Tipps, 0 Spiele).",
+      "Anti-Selbstwiderspruchs-Check: nicht anwendbar (keine Tipps).",
+      "Markt-Mix-Pflicht (DC-Cap, Star-Ausfall-Backup, Form-Edge-Torschuetzen, NBA-Playoffs-Verbot): nicht anwendbar (keine Spiele).",
+      "Beobachtungs-Ligen-Check: nicht anwendbar (keine Spiele in aktiven Ligen)."
+    ],
+    "kontext_check_status_gesamt": "OK - Ruhetag (Master-Slot 13:30 Sa bestaetigt Wochenend-Vorschau vom Do 23.07. 18:00 - Tag 6 der Post-WM-Sommer-Pause)",
+    "verifikator_hinweis": "Master-Slot Sa 13:30 Berlin bestaetigt Wochenend-Vorschau data/tipps_wochenende/2026-07-25.json (publiziert Do 23.07. 18:00) identisch als Ruhe-Wochenende. Ehrlich-Ruhetag-Publikation analog 2026-07-16 + 2026-07-17 + 2026-07-20 + 2026-07-21 + 2026-07-22 + 2026-07-24 (6 aufeinanderfolgende Ruhetage). Kein Fokus-Liga-Spiel identifiziert (Sommer-Pause aktiv + UEFA-Q2-Konvention Di-Do). Naechster erwarteter aktiver Master-Slot Di 28.07.2026 (UEFA CL Q2 Hinspiele + EL/Conference Q2 Rueckspiele Slate). Erster Vereins-Liga-Slot Fr 07.08. (2. Bundesliga Spieltag 1) bzw. 14.-17.08. (DFB-Pokal 1. Runde). Kasse-Stufe 1 bleibt aktiv. PWA zeigt Ruhetag-Karte statt Fuell-Content."
+  },
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "einzeltipps_ergebnis": [],
+  "kombis_ergebnis": [],
+  "ausgewertet_am": "2026-07-26T07:04:45+00:00"
+}

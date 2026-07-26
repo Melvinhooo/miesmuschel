@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-07-25T07:04:55+00:00",
+  "letzte_berechnung": "2026-07-26T07:04:45+00:00",
   "gesamt": {
     "tipps": 533,
     "gewonnen": 291,
@@ -13,26 +13,26 @@ window.__MIESMUSCHEL_STAT = {
     "roi_prozent": 3.6
   },
   "letzte_30_tage": {
-    "tipps": 103,
-    "gewonnen": 53,
-    "verloren": 50,
+    "tipps": 91,
+    "gewonnen": 47,
+    "verloren": 44,
     "push": 0,
     "offen": 0,
-    "einsatz": 103.0,
-    "netto": -19.22,
-    "trefferquote": 51.5,
-    "roi_prozent": -18.7
+    "einsatz": 91.0,
+    "netto": -15.87,
+    "trefferquote": 51.6,
+    "roi_prozent": -17.4
   },
   "letzte_90_tage": {
-    "tipps": 484,
-    "gewonnen": 259,
-    "verloren": 214,
+    "tipps": 468,
+    "gewonnen": 252,
+    "verloren": 205,
     "push": 2,
     "offen": 9,
-    "einsatz": 475.0,
-    "netto": 15.65,
-    "trefferquote": 54.8,
-    "roi_prozent": 3.3
+    "einsatz": 459.0,
+    "netto": 20.66,
+    "trefferquote": 55.1,
+    "roi_prozent": 4.5
   },
   "nach_liga": {
     "NBA Playoffs R1 G2": {
