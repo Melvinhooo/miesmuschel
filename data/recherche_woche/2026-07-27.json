@@ -1,0 +1,255 @@
+{
+  "datum": "2026-07-27",
+  "erstellt_am": "2026-07-26T17:00:00+02:00",
+  "modus": "woche",
+  "anker_montag": "2026-07-27",
+  "fenster": {
+    "von": "2026-07-27",
+    "bis": "2026-08-02"
+  },
+  "hinweis": "Wochen-Vorschau-Daten Mo 27.07 - So 02.08.2026 (Anker = Mo 27.07). === SCOPE WOCHE: **UEFA-Q2-RUECKSPIEL-WOCHE + Vereins-Sommerpause-Ausklang**. WM 2026 abgeschlossen (Finale 19.07 ARG-ESP MetLife). NBA Playoffs abgeschlossen (Knicks 4-1 Spurs am 13.06). Alle Top-5-Klub-Ligen weiter in Sommer-Pause. Erst-Vereins-Aktivitaet: 2. Bundesliga Spieltag 1 am Fr 07.08 (Bochum vs Hertha 20:30 CEST, Ruhrstadion) - AUSSERHALB Vorschau-Fenster. DFB-Pokal 1. Runde 14.-17.08.2026, PL Start 15./16.08, LaLiga ~22./23.08, Serie A ~22./23.08, Ligue 1 ~15./16.08, Bundesliga ~21./22.08 laut DFL-Rahmenterminkalender - alle nach Fenster-Ende. === WICHTIG KALENDER-KORREKTUR ZU 24.07/26.07-TIPPS-FILES: Der 24.07- + 26.07-Tages-Slot-Hinweis 'UEFA Champions League Q2 Hinspiele erst Di/Mi 28./29.07. (Rueckspiele 04./05.08.)' ist FALSCH und wird HIERMIT KORRIGIERT. Verifiziert via Wikipedia 2026-27 UEFA Champions League qualifying + Outlook India Draw-List + Groundhopper Guides: **CL Q2 Hinspiele wurden bereits am Di/Mi 21./22.07.2026 gespielt, Rueckspiele finden am Di/Mi 28./29.07.2026 statt** (also IN diesem Vorschau-Fenster). CL Q3 Hinspiele dann Di/Mi 04./05.08 (ausserhalb), Rueckspiele Di/Mi 11./12.08 (ausserhalb). Fehler im 24.07/26.07-Tipps-File ergab sich vermutlich aus einer Confusion mit CL-Q3-Slot. Tipps-Woche-Routine + naechster Tages-Slot MUSS mit korrigiertem Kalender arbeiten. === UEFA-Q2-RUECKSPIEL-KALENDER FUER FENSTER 27.07-02.08.2026 (Details siehe vorschau_fokus_kandidaten): (1) **Di 28.07.2026 + Mi 29.07.2026: UEFA Champions League Q2 Rueckspiele** - Champions Path 12 Ties (Mjallby, Red Star Belgrade, Dinamo Zagreb, Slovan Bratislava, Lech Poznan, Celje, Omonia Nikosia, Hapoel Beer Sheva, AGF Aarhus, Thun, Q1-Winners) + League Path 2 Ties (Fenerbahce vs Gornik Zabrze, Sturm Graz vs Hearts of Midlothian). Insgesamt bis zu 14 CL-Q2-R-Spiele auf Di+Mi verteilt. (2) **Do 30.07.2026: UEFA Europa League Q2 Rueckspiele** - 9 Ties (Ferencvaros vs Twente [Hin 2-1], Midtjylland vs Besiktas [Hin 0-1], Pafos vs Hajduk [Hin 0-2], Anderlecht vs Hammarby [Hin 1-1], CSKA Sofia vs Qarabag [Hin 0-0], Hradec Kralove vs Tromso [Hin 1-0], Maccabi Tel-Aviv vs Sheriff [Hin 5-0], Benfica vs St. Gallen [Hin 1-2 SG-Sensation], PAOK vs Dynamo Kyiv [Hin 3-2]). (3) **Do 30.07.2026: UEFA Conference League Q2 Rueckspiele** - Main Path + Champions Path, viele kleinere Klubs (Umfang ~40-45 Ties basierend auf CoL-Q2-Draw-Feld 98 Klub-Paarungen). === PRAEZEDENZ RECHERCHE-WOCHE 2026-07-20 (letzte Wochen-Recherche): dortiges leerschlag_metadata verortete alle UEFA-Q2-Runden explizit unter 'ausserhalb_scope_aber_geprueft' wegen (a) fehlender 30d-Historie fuer viele Klein-Klubs, (b) Beobachtungs-Liga-Charakter, (c) CLAUDE.md-Scope zielt auf Hauptrunde nicht Quali. **In dieser Woche 27.07-02.08 aber**: Tipps-Routine hat am Do 23.07 EL Q2 Hinspiele mit 4 Fokus-Spielen bespielt (Hajduk-Pafos, Twente-Ferencvaros, Besiktas-Midtjylland, Qarabag-CSKA). Die Rueckspiele dieser 4 Ties sind in diesem Fenster (Do 30.07) und damit **potentiell Follow-up-tippbar** (Auswertung + Rueck-Kontext). Weitere Fokus-Kandidaten siehe vorschau_fokus_kandidaten unten. **Tipps-Woche-Routine soll konservativ prognostizieren**: kein Wochen-Kombi-Fireworks (Q2-Zwischen-Runden zu unsicher fuer 4-6-er Kombis), max 2-4 Einzel-Tipp-Empfehlungen als Wochen-Fokus. Detaillierte Squad-Recherche + saison_kontext-Fuellung erfolgt in den Tages-Recherche-Runs Di 28.07 10:30 + Mi 29.07 10:30 + Do 30.07 10:30. === BEOBACHTUNGS-LIGEN-STATUS Stand 2026-07-26 (data/beobachtungs_ligen.json): (1) 'UEFA Europa League - 2. Qualifikationsrunde' aktiv beobachtet (10 Tipps 30d, ROI -37.8%, HR 40.0%). Auswirkung: alle EL-Q2-Rueckspiel-Tipps (Do 30.07) muessten mapper-technisch auf 'wackel' downgraded werden bzw. via valid_refs gedroppt werden falls SAFE/VALUE. Tipps-Routine soll darauf reagieren + eher gar keine EL-Q2-Tipps oder max WACKEL setzen. (2) 'FIFA WM 2026 - Halbfinale' aktiv beobachtet (6 Tipps 30d, ROI -34.2%, HR 33.3%) - irrelevant fuer diese Woche (WM abgeschlossen, keine WM-Tipps mehr). === KASSE-STAND 04.05.2026: 550 EUR (data/kasse.json) -> Stufe 1 (Aufbau-Phase Kasse <1000 EUR) aktiv. Stufe-2-Trigger nicht erreicht (30d-ROI aktuell -17.4% laut 26.07-Tipps-Snapshot). Einsatz-Limits Stufe 1: Einzel SAFE/VALUE 1-2% (5.50-11 EUR), Wackel-Einzel 0.5% (2.75 EUR), Kombi Safe 2% (11 EUR), Kombi Balance 0.8% (4.40 EUR), Kombi Risiko 0.25% (1.40 EUR), Moonshot 0.1% (0.55 EUR). === MARKT-GOLDGRUBEN Stand 03.05.2026 weiter aktiv (Statistik-Fenster unveraendert seit WM-Slate): Doppelte Chance 1X (84.6% / +9.5%), Doppelte Chance X2 (77.8% / +9.4%), Unter 2.5 Tore (66.7% / +27.5%), Torschuetzen Jederzeit (50% / +24.4%). Auch fuer UEFA-Q2-Rueckspiel-Tipps aktiv suchen falls Datenlage traegt. Markt-Bluter-Datei aktuell leer bzw. keine kritischen Bluter. === bet365-SONDERREGELN Woche-Fenster-Relevanz: (a) 2:0-Insurance-Regel gilt nur BL/CL/WM 2026. WM vorbei. BL-Restart erst 07.08 (2. BL) bzw. 21./22.08 (1. BL). **CL Q2 Rueckspiele Di+Mi 28./29.07 zaehlen unter 'Champions League'-Wettbewerb** - 2:0-Insurance gilt fuer Sieg-Tipp-Team laut bet365-DE-AGB (Verifikations-Pflicht bei tatsaechlichem Setzen, aber CL-Wettbewerbs-Rahmen gilt). EL-Q2 + CoL-Q2 NICHT unter Insurance-Regel. (b) Einwechslungs-Boost bei Torschuetzen-Tipps bleibt bet365-DE-Standard fuer ALLE Fussball-Maerkte inkl. CL/EL/CoL-Q2 - fuer volumen-starke Stuermer eher Follow-up positiv. === QUELLEN-VERIFIKATION Recherche 26.07 16:30-17:00 Berlin via WebSearch + WebFetch: Wikipedia 2026-27 UEFA Champions League qualifying (Kalender), Wikipedia 2026-27 UEFA Conference League qualifying (Kalender), Wikipedia 2026-27 UEFA Europa League qualifying (Ties + Ergebnisse), Outlook India Draw-List CL Q2, Groundhopper Guides CL Schedule, Terrikon 22.07-Ergebnis-Sammlung, DFL Rahmenterminkalender via Bundesliga.com (BL2-Start 07.08). WM-/NBA-/Vereins-Sommerpause-Kalender aus 2026-07-20-recherche-woche + 2026-07-25-recherche-wochenende uebernommen (unveraendert). 18+ / BZgA 0800 1372700.",
+  "spiele": [],
+  "leerschlag_metadata": {
+    "grund": "wochen_vorschau_mit_uefa_q2_rueckspielen_als_ausserhalb_hauptrunden_scope_plus_vereins_sommerpause",
+    "wm_2026_status": "beendet am So 19.07.2026 mit Finale ARG vs ESP MetLife 21:00 CEST",
+    "nba_status": "Saison beendet seit 13.06.2026 (Knicks Champion 4-1 vs Spurs)",
+    "vereins_fussball_status": "Sommerpause aller Top-5-Ligen (BL/PL/PD/SA/FL1) + DFB-Pokal + Coppa bis Mitte August 2026",
+    "vereins_fussball_saisonstart_kalender": {
+      "2_bundesliga_2026_27_spieltag_1": "Fr 07.08.2026 20:30 CEST Bochum vs Hertha BSC (Ruhrstadion), Rest-Spiele 08./09.08.2026",
+      "ligue_1_2026_27_spieltag_1": "~14./15./16.08.2026",
+      "premier_league_2026_27_spieltag_1": "15./16.08.2026",
+      "dfb_pokal_2026_27_1_runde": "14.-17.08.2026",
+      "coppa_italia_2026_27_1_runde": "15./16.08.2026 (Round of 64) - Preliminary Round 09.08.2026",
+      "bundesliga_2026_27_spieltag_1": "~21./22.08.2026 laut DFL-Rahmenterminkalender",
+      "laliga_2026_27_spieltag_1": "~22./23.08.2026",
+      "serie_a_2026_27_spieltag_1": "~22./23.08.2026",
+      "supercup_dfl_franz_beckenbauer": "22.08.2026 BVB vs FC Bayern Signal Iduna Park 20:30 CEST",
+      "supercup_fa_community_shield": "16.08.2026 Principality Stadium Cardiff Arsenal vs Man City",
+      "supercup_trophee_des_champions": "16.08.2026 Stade Bollaert-Delelis Lens - Lens vs PSG 20:45 CEST",
+      "cl_q3_hinspiele": "04./05.08.2026 (Di/Mi) - AUSSERHALB Fenster",
+      "cl_q3_rueckspiele": "11./12.08.2026 (Di/Mi) - AUSSERHALB Fenster",
+      "el_q3_hinspiele": "06.08.2026 (Do) - AUSSERHALB Fenster",
+      "el_q3_rueckspiele": "13.08.2026 (Do) - AUSSERHALB Fenster",
+      "cl_leaguephase_2026_27_start": "~16.09.2026",
+      "el_leaguephase_2026_27_start": "~24.09.2026",
+      "conference_leaguephase_2026_27_start": "~01.10.2026"
+    },
+    "kalender_korrektur_vs_vortag_tipps": {
+      "falsch_in_2026_07_24_tipps_und_2026_07_26_tipps": "'UEFA Champions League Q2 Hinspiele erst Di/Mi 28./29.07. (Rueckspiele 04./05.08.)'",
+      "richtig": "CL Q2 Hinspiele Di/Mi 21./22.07.2026 (bereits gespielt), CL Q2 Rueckspiele Di/Mi 28./29.07.2026 (in diesem Vorschau-Fenster)",
+      "verifikations_quellen": [
+        "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League_qualifying",
+        "https://www.outlookindia.com/sports/football/uefa-champions-league-2026-27-second-qualifying-round-teams-dates-draws-format-all-you-need-to-know",
+        "https://groundhopperguides.com/2026-27-champions-league-schedule/"
+      ]
+    },
+    "vorschau_fokus_kandidaten": [
+      {
+        "kategorie": "UEFA Champions League Q2 Rueckspiele - League Path (Fokus)",
+        "datum": "Di/Mi 28./29.07.2026",
+        "anzahl_ties": 2,
+        "ties": [
+          {
+            "heim_rueckspiel": "Gornik Zabrze",
+            "gast_rueckspiel": "Fenerbahce",
+            "hinspiel_ergebnis_annahme": "unverifiziert - benoetigt Tages-Recherche Di 28.07 10:30",
+            "kommentar": "Fenerbahce ist tuerkischer Vize-Meister 25/26 + CL-Playoff-Nostalgiker; Gornik polnischer Cup-Sieger 25/26. Klassen-Edge Fenerbahce. Rueckspiel wahrscheinlich in Polen (Gornik Heim) falls Standard-Reihenfolge Hin-Ausw / Rueck-Heim. Datum-Verifikation Di oder Mi in Tages-Recherche.",
+            "quellen": ["https://www.outlookindia.com/sports/football/uefa-champions-league-2026-27-second-qualifying-round-teams-dates-draws-format-all-you-need-to-know"]
+          },
+          {
+            "heim_rueckspiel": "Hearts of Midlothian",
+            "gast_rueckspiel": "Sturm Graz",
+            "hinspiel_ergebnis_annahme": "unverifiziert - benoetigt Tages-Recherche",
+            "kommentar": "Sturm Graz oesterreichischer Meister 25/26 + CL-Erfahrung; Hearts schottischer Pokal-Sieger 25/26. Klassen-Edge Sturm Graz. Rueckspiel wahrscheinlich in Schottland (Tynecastle) - Home-Heiber-Faktor gross. Datum-Verifikation in Tages-Recherche.",
+            "quellen": ["https://www.outlookindia.com/sports/football/uefa-champions-league-2026-27-second-qualifying-round-teams-dates-draws-format-all-you-need-to-know"]
+          }
+        ]
+      },
+      {
+        "kategorie": "UEFA Champions League Q2 Rueckspiele - Champions Path (Fokus-Kandidaten)",
+        "datum": "Di/Mi 28./29.07.2026",
+        "anzahl_ties": 12,
+        "ties": [
+          {"heim_rueckspiel": "Q1-Winner Match 4 (unklar)", "gast_rueckspiel": "Mjallby AIF", "kommentar": "Mjallby schwedischer Meister 25/26. Q1-Winner Match 4 aus AGF/Klaksvik-Runde."},
+          {"heim_rueckspiel": "Red Star Belgrade", "gast_rueckspiel": "Q1-Winner Match 5", "kommentar": "Red Star serbischer Meister + traditioneller CL-Kunde. Home-Heiber-Faktor Rajko-Mitic 55k."},
+          {"heim_rueckspiel": "Q1-Winner Match 14", "gast_rueckspiel": "Q1-Winner Match 7", "kommentar": "beide Klein-Klubs, mangelnde Datenlage."},
+          {"heim_rueckspiel": "AGF Aarhus", "gast_rueckspiel": "Q1-Winner Match 8", "kommentar": "AGF daenischer Runner-up 25/26. Aarhus Stadion 20k."},
+          {"heim_rueckspiel": "Q1-Winner Match 6", "gast_rueckspiel": "Lech Poznan", "kommentar": "Lech polnischer Meister 25/26 + CL-Erfahrung."},
+          {"heim_rueckspiel": "Q1-Winner Match 11", "gast_rueckspiel": "Q1-Winner Match 2 (aus Red Star)", "kommentar": "Verzweigt."},
+          {"heim_rueckspiel": "Omonia Nikosia", "gast_rueckspiel": "Q1-Winner Match 9", "kommentar": "Omonia zypriotischer Meister 25/26."},
+          {"heim_rueckspiel": "Thun", "gast_rueckspiel": "Q1-Winner Match 13", "kommentar": "Thun schweizerischer Meister 25/26 (Aufsteiger + Titel-Sensation)."},
+          {"heim_rueckspiel": "Q1-Winner Match 12", "gast_rueckspiel": "Dinamo Zagreb", "kommentar": "Dinamo kroatischer Meister 25/26. Maksimir 35k."},
+          {"heim_rueckspiel": "Q1-Winner Match 3", "gast_rueckspiel": "Hapoel Beer Sheva", "kommentar": "Hapoel israelischer Meister 25/26."},
+          {"heim_rueckspiel": "Q1-Winner Match 10", "gast_rueckspiel": "Slovan Bratislava", "kommentar": "Slovan slowakischer Meister 25/26 + CL-League-Phase Vorjahr."},
+          {"heim_rueckspiel": "TBD (Q1 aus Match 12)", "gast_rueckspiel": "Celje", "kommentar": "Celje slowenischer Meister 25/26 (Titel-Sensation gegen Maribor)."}
+        ],
+        "kommentar_gesamt": "Champions Path Q1-Winner-Zuordnungen benoetigen Verifikation in Tages-Recherche Di 28.07 (Wikipedia CL-Q1-Ergebnisse). Fokus-Empfehlung Tipps-Routine: 2-3 Ties mit Klassen-Edge (z.B. Dinamo Zagreb, Slovan, Red Star, Lech) auswaehlen. Osteuropa/Balkan-Ligen ohne 30d-Historie in data/statistik.json = markt_bluter-Risiko-Faktor beruecksichtigen.",
+        "quellen": [
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League_qualifying",
+          "https://www.outlookindia.com/sports/football/uefa-champions-league-2026-27-second-qualifying-round-teams-dates-draws-format-all-you-need-to-know"
+        ]
+      },
+      {
+        "kategorie": "UEFA Europa League Q2 Rueckspiele",
+        "datum": "Do 30.07.2026",
+        "anzahl_ties": 9,
+        "beobachtungs_liga_status": "AKTIV auf data/beobachtungs_ligen.json (ROI 30d -37.8%, HR 40.0%, n=10) - mapper-technisch degradieren SAFE/VALUE-Tipps auf wackel bzw. valid_refs droppt sie",
+        "ties": [
+          {
+            "heim_rueckspiel": "Ferencvaros",
+            "gast_rueckspiel": "Twente",
+            "hinspiel": "Twente 1 - 2 Ferencvaros (23.07 Enschede)",
+            "aggregat_stand": "Ferencvaros 2-1 vorn",
+            "kommentar": "Ferencvaros benoetigt nur 0:0/1:1 zum Weiterkommen (Auswaerts-Tor-Regel abgeschafft ab 2021/22 - aber Aggregat-Vorteil). Heim in Groupama Arena Budapest ~22k. Ferencvaros ist ungarischer Meister + Europacup-Stamm-Kunde.",
+            "quellen": ["https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Europa_League_qualifying", "https://www.uefa.com/uefaeuropaleague/match/2048744--twente-vs-ferencvaros/"]
+          },
+          {
+            "heim_rueckspiel": "Midtjylland",
+            "gast_rueckspiel": "Besiktas",
+            "hinspiel": "Besiktas 1 - 0 Midtjylland (23.07 Besiktas Park Istanbul)",
+            "aggregat_stand": "Besiktas 1-0 vorn",
+            "kommentar": "Midtjylland (DEN Runner-up 25/26 oder Meister?) muss Heim-Sieg mit 2+ Toren Differenz. Besiktas tuerkischer CL-Playoff-Aussteiger + starker Kader. MCH Arena Herning 30k. Aggregat-Fokus: DK-Team unter Druck.",
+            "quellen": ["https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Europa_League_qualifying"]
+          },
+          {
+            "heim_rueckspiel": "Pafos FC",
+            "gast_rueckspiel": "Hajduk Split",
+            "hinspiel": "Hajduk 2 - 0 Pafos (23.07 Poljud Split)",
+            "aggregat_stand": "Hajduk 2-0 vorn",
+            "kommentar": "Pafos braucht 3+ Tore Aufholjagd - schwierig gegen defensiv stabile Hajduk (2 Gegentore in letzten 5 vor Hinspiel). Alphamega Stadium Limassol ~13k. Pafos-Chance low (Wahrsch. Aggregat-Weiter Hajduk >75%).",
+            "quellen": ["https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Europa_League_qualifying"]
+          },
+          {
+            "heim_rueckspiel": "Anderlecht",
+            "gast_rueckspiel": "Hammarby",
+            "hinspiel": "Hammarby 1 - 1 Anderlecht (23.07 Tele2 Arena Stockholm)",
+            "aggregat_stand": "1-1 nach Hinspiel - offen",
+            "kommentar": "Klassen-Edge zart Anderlecht (belgischer Runner-up 25/26, europaeische Erfahrung). Lotto Park 21k. Hammarby schwedischer 25/26-Zweit-Tabellenplatz. Aggregat-Ausgang offen, taktisches Duell.",
+            "quellen": ["https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Europa_League_qualifying"]
+          },
+          {
+            "heim_rueckspiel": "CSKA Sofia",
+            "gast_rueckspiel": "Qarabag",
+            "hinspiel": "Qarabag 0 - 0 CSKA Sofia (23.07 Baku)",
+            "aggregat_stand": "0-0 nach Hinspiel - offen",
+            "kommentar": "CSKA Sofia braucht mindestens 1:0/2:1 - Qarabag ist aserbaidschanischer Meister + starker Q1-Hattrick-Held Pittas. Balgarska Armiya Sofia ~22k. Klassen-Edge Qarabag, aber CSKA-Heim-Bonus + Q1-Winner-Momentum.",
+            "quellen": ["https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Europa_League_qualifying"]
+          },
+          {
+            "heim_rueckspiel": "FC Hradec Kralove",
+            "gast_rueckspiel": "Tromso",
+            "hinspiel": "Tromso 0 - 1 Hradec Kralove (23.07 Alfheim Tromso)",
+            "aggregat_stand": "Hradec 1-0 vorn",
+            "kommentar": "Tschechischer Klub mit Aggregat-Vorteil zuhause (Stadion Malsovicka Hradec ~9k). Tromso benoetigt Auswaerts-Sieg. Klassen-Edge zart Hradec.",
+            "quellen": ["https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Europa_League_qualifying"]
+          },
+          {
+            "heim_rueckspiel": "Maccabi Tel-Aviv",
+            "gast_rueckspiel": "Sheriff Tiraspol",
+            "hinspiel": "Sheriff 0 - 5 Maccabi (23.07 Zimbru Chisinau als Ersatz-Stadion, Sheriff spielt oft aus Politik-Gruenden ausserhalb Transnistrien)",
+            "aggregat_stand": "Maccabi 5-0 vorn - de facto entschieden",
+            "kommentar": "Rueckspiel Maccabi Heim ist Formalitaet. Wg. Nahost-Sicherheits-Lage: Maccabi spielt europaeische Heimspiele oft in Backup-Stadion (Ungarn/Griechenland verifizieren in Tages-Recherche). Aggregat-Weiter Maccabi ~98%.",
+            "quellen": ["https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Europa_League_qualifying"]
+          },
+          {
+            "heim_rueckspiel": "Benfica",
+            "gast_rueckspiel": "St. Gallen",
+            "hinspiel": "St. Gallen 2 - 1 Benfica (23.07 Kybunpark St. Gallen - SENSATION)",
+            "aggregat_stand": "St. Gallen 2-1 vorn",
+            "kommentar": "**SENSATION-KANDIDAT**: Benfica portugiesischer Cup-Sieger + CL-Playoff-Aussteiger verlor Hinspiel in der Schweiz. Rueckspiel Estadio da Luz Lissabon 65k - Heim-Druck massiv. Benfica muss 2+ Tore Differenz. Klassen-Edge Benfica normal >80%, aber Hinspiel-Vorsprung St. Gallen macht Weiter-Chance St. Gallen ~35-40%. Wahrscheinlichste Tipps-Kandidaten: 'Benfica Sieg 90min' (VALUE-Kandidat, benoetigt 2+ Tore Differenz), 'Ueber 2.5 Tore' (Benfica-Heim + Aufhol-Druck = hohes Tor-Volumen), 'BTTS Ja' (St. Gallen hat schon gezeigt dass sie treffen koennen).",
+            "quellen": ["https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Europa_League_qualifying"]
+          },
+          {
+            "heim_rueckspiel": "PAOK Thessaloniki",
+            "gast_rueckspiel": "Dynamo Kyiv",
+            "hinspiel": "Dynamo Kyiv 2 - 3 PAOK (23.07 Auswaerts-Ersatz-Stadion - Ukraine-Krieg spielt Dynamo europaeische Heimspiele in Polen/Deutschland)",
+            "aggregat_stand": "PAOK 3-2 vorn",
+            "kommentar": "PAOK griechischer Cup-Sieger + Aggregat-Vorteil. Toumba Stadium ~29k, hoher Laermpegel. Dynamo Kyiv braucht mind. 2:0 oder besser 3:1. Klassen-Edge PAOK, Weiter-Chance ~70-75%.",
+            "quellen": ["https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Europa_League_qualifying"]
+          }
+        ],
+        "fokus_empfehlung_tipps_woche": "Bei beobachtungs_liga-Downgrade-Regel eher konservativ. 1-2 Einzeltipps auf klar-favorisierte Aggregat-Fuehrende (Maccabi-Weiter oder Hajduk-Weiter als Aggregat-Sieger) - beide sind aber Combined-Aggregat-Tipps (bei bet365 als 'Ueberholt Nach 180min' Markt). Sensation-Watch: Benfica-Rueckspiel als reines Heim-Sieg-Tipp (Formstand + 2:1-Aufholjagd Not-Wendigkeit -> hohes Motivations-Level). Bei EL-Q2-Beobachtungs-Liga-Status mapper degradiert auf wackel -> Tipps-Routine soll das antizipieren + max WACKEL setzen bzw. gar keine EL-Q2-Tipps.",
+        "quellen_gesamt": [
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Europa_League_qualifying",
+          "https://www.espn.com/soccer/team-stats/_/gameId/401896231",
+          "https://www.thestatszone.com/twente-vs-ferencvaros-preview-prediction-2026-27-uefa-europa-league-second-qualifying-round-207160"
+        ]
+      },
+      {
+        "kategorie": "UEFA Conference League Q2 Rueckspiele",
+        "datum": "Do 30.07.2026",
+        "anzahl_ties_grob": "40-45 Rueckspiele (Main Path + Champions Path, Draw-Feld 98 Klub-Paarungen laut Verrikalam-Bericht)",
+        "beobachtungs_liga_status": "aktuell NICHT auf data/beobachtungs_ligen.json (kein 30d-Sample im Miesmuschel-Statistik-System), aber de-facto-Beobachtungsliga wg. mangelnder Datenbasis",
+        "kommentar_gesamt": "Umfang zu gross fuer vollstaendige Wochen-Vorschau, Fokus-Auswahl erfolgt in Tages-Recherche Do 30.07 10:30 Berlin. Wahrscheinliche Fokus-Kandidaten: Klubs mit >=6.5 UEFA-Klub-Koeffizient bzw. Aggregat-Vorentscheidungen aus Hinspielen 23.07 (soweit publiziert und mit Fokus-Team-Bezug). Wahrscheinlich max 1-2 Tipp-Kandidaten fuer Tipps-Woche-Routine, weil hohe Klein-Klub-Dichte + fehlende 30d-Historie zu unsicherer Datenlage fuehrt.",
+        "referenz_hinspiel_datum": "Do 23.07.2026",
+        "quellen": [
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Conference_League_qualifying",
+          "https://www.uefa.com/uefaconferenceleague/news/02a6-20e5e911587f-cc10425958b3-1000--conference-league-qualifying-fixtures-results-dates-how-it-/"
+        ]
+      }
+    ],
+    "ausserhalb_scope_aber_geprueft": [
+      {
+        "kategorie": "Vereins-Fussball Top-5-Ligen + DFB-Pokal + Coppa Italia",
+        "datum": "gesamte Woche 27.07-02.08.2026",
+        "grund_skip": "Sommerpause vollstaendig - keine Ligaspiele. Coppa-Preliminary erst 09.08 (Sonntag nach Fenster-Ende).",
+        "quellen": ["https://www.dfl.de/de/aktuelles/rahmenterminkalender-fuer-die-saison-2026-27-bundesliga-auftakt-am-28-august-2-bundesliga-startet-am-7-august/", "https://en.wikipedia.org/wiki/2026%E2%80%9327_2._Bundesliga"]
+      },
+      {
+        "kategorie": "Pre-Season Freundschaftsspiele (PL/BL/LaLiga/Serie A/Ligue 1 Sommer-Touren)",
+        "datum": "gesamte Woche 27.07-02.08.2026 laufend",
+        "beispiele": ["Manchester United US-Tour laeuft weiter", "Real Madrid US-Tour laeuft", "Bayern Muenchen Trainingslager Rottach-Egern (Testspiele Grasshoppers Zuerich ~26.07 falls stattgefunden, weitere Testspiele wahrscheinlich)", "Dortmund Trainingslager Bad Ragaz Schweiz", "Nottingham Forest vs Vitoria 26.07 (behind closed doors) - vor Fenster-Start", "diverse weitere Testspiele PL/BL/LaLiga/Serie A/Ligue 1 im Fenster"],
+        "grund_skip": "Trainings-Format mit Massen-Wechseln (2x11 Voll-Rotation), kein Wettbewerbs-Motivations-Edge, Aufstellungen bis kurz vor Anpfiff unklar, Neuzugaenge + Jugend-Spieler bekommen Test-Zeit - strukturell nicht tippfaehig. Praezedenz Ruhetage 17.-26.07 haben Freundschaftsspiele explizit ausgeschlossen.",
+        "quellen": ["https://www.premierleague.com/en/news/4606700/premier-league-clubs-2026-pre-season-fixtures-and-results"]
+      },
+      {
+        "kategorie": "NBA Summer League Las Vegas + WNBA + NHL-Offseason + MLS + Brasileirao Serie A + LaLiga MX + weitere Beobachtungs-Ligen",
+        "datum": "laufend",
+        "grund_skip": "NICHT in CLAUDE.md-Scope. Summer League Las Vegas endete 20.07 (Warriors vs Grizzlies Championship 19.07)."
+      },
+      {
+        "kategorie": "Nationale Supercups (Franz-Beckenbauer-Supercup + FA Community Shield + Trophee des Champions)",
+        "datum": "alle 16.-22.08.2026 - AUSSERHALB Fenster",
+        "grund_skip": "Alle Supercups liegen 2-3 Wochen nach Fenster-Ende. In-Scope wenn Fenster-Recherche Mitte August faellt."
+      }
+    ]
+  },
+  "kasse_hinweis": {
+    "kasse_euro": 550,
+    "stand": "2026-05-04",
+    "stufe": 1,
+    "stufe_kommentar": "Aufbau-Phase Kasse <1000 EUR - Standard-Einsaetze konservativ. In dieser Woche wg. Beobachtungs-Liga-EL-Q2 + fehlender Historie Champions/Conference-Q2 max 1-3 sehr konservative Einzeltipps (0.5-1.5% Wackel bis Value). Kein Wochen-Kombi empfohlen.",
+    "auszahlungs_hinweis": "Auszahlungs-Trigger (Kasse >= basis_kasse_euro 1000 + auszahlungs_schwelle_euro 200 = 1200 EUR) nicht erreicht, keine Aktion.",
+    "stufe_2_check": "30d-ROI aktuell -17.4% laut 26.07-Snapshot -> Stufe-2-Trigger (rolling 30d ROI >+5%) doppelt nicht erfuellt (Kasse+ROI). Konservativ-Modus bleibt."
+  },
+  "naechste_recherche_slots_pipeline": {
+    "tag_slots_mo_27_bis_fr_31_07": "Mo 27.07 10:30 vermutlich leer (kein UEFA-Q2-Tag), Di 28.07 10:30 fuer CL-Q2-Rueckspiele-Slate 20:00-21:00 CEST-Kickoff-Wave, Mi 29.07 10:30 fuer Rest-CL-Q2-Slate, Do 30.07 10:30 fuer EL-Q2 + CoL-Q2-Rueckspiele-Slate (bis zu 50+ Spiele - Priorisierung auf ~5-8 Fokus-Ties noetig), Fr 31.07 10:30 vermutlich leer (kein UEFA-Wettbewerbstag) - ggf. Pre-Season-Test bewusst ausgeschlossen.",
+    "wochenende_01_02_08": "Do 30.07 16:30 Berlin Wochenend-Recherche-Slot fuer Sa 01./So 02.08 - vermutlich weiterhin leer (Vereine noch pausiert, WM+NBA aus, UEFA-Q2 zwischen Rueckspielen und Q3-Start).",
+    "woche_03_08_bis_09_08": "So 02.08 16:30 Berlin naechste Wochen-Recherche - dann faellt CL-Q3-Hinspiele-Slate (Di 04./Mi 05.08) in-Scope + evtl. Coppa-Italia-Preliminary 09.08 am letzten Tag.",
+    "erste_grosse_relevante_recherche": "**Do 06.08.2026 16:30 Berlin - Wochenend-Recherche fuer Sa 08./So 09.08**: 2. Bundesliga Spieltag 1 Rest-Spiele (Bochum-Hertha war Fr 07.08) + evtl. Coppa-Italia-Preliminary 09.08. **Do 13.08.2026 - Wochenend-Recherche fuer Sa 15./So 16.08**: Premier-League-Spieltag-1 + DFB-Pokal-1.-Runde-Wochenende + Ligue-1-Spieltag-1 + FA-Community-Shield + Trophee-des-Champions - erste substantielle Fokus-Liga-Slate seit WM-Ende."
+  },
+  "footer": {
+    "spielerschutz_hinweis": "18+ - bet365 DE - Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+    "erstellt_von": "recherche_cloud_routine",
+    "modus_kommentar": "wochen-vorschau modus, anker montag 2026-07-27, spiele[] leer weil vollstaendige squad-recherche fuer 40+ UEFA-Q2-Rueckspiele in einem Wochen-Slot nicht leistbar - Tages-Recherche-Runs Di/Mi/Do 28./29./30.07 fuellen fokus-fixtures konkret. Vorschau-Fokus-Kandidaten in leerschlag_metadata.vorschau_fokus_kandidaten strukturell fuer Tipps-Woche-Routine dokumentiert.",
+    "quellen_gesamt": [
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League_qualifying",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Europa_League_qualifying",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Conference_League_qualifying",
+      "https://www.outlookindia.com/sports/football/uefa-champions-league-2026-27-second-qualifying-round-teams-dates-draws-format-all-you-need-to-know",
+      "https://groundhopperguides.com/2026-27-champions-league-schedule/",
+      "https://terrikon.com/en/posts/2026/07/22/",
+      "https://www.dfl.de/de/aktuelles/rahmenterminkalender-fuer-die-saison-2026-27-bundesliga-auftakt-am-28-august-2-bundesliga-startet-am-7-august/",
+      "https://www.bundesliga.com/en/2bundesliga/news/bochum-to-host-hertha-berlin-in-opening-bundesliga-2-game-2026-27-38049",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_2._Bundesliga",
+      "https://www.uefa.com/uefaeuropaleague/match/2048744--twente-vs-ferencvaros/",
+      "https://www.thestatszone.com/twente-vs-ferencvaros-preview-prediction-2026-27-uefa-europa-league-second-qualifying-round-207160",
+      "data/recherche_woche/2026-07-20.json (Praezedenz-Format)",
+      "data/recherche_wochenende/2026-07-25.json (Post-WM-Sommerpause-Deklaration)",
+      "data/tipps/2026-07-24.json + 2026-07-26.json (Kalender-Korrektur-Anlass CL-Q2-Datierung)",
+      "data/tipps/2026-07-23.json (EL-Q2-Hinspiele-Praezedenz + Fokus-Tie-Auswahl-Muster)",
+      "data/beobachtungs_ligen.json (EL-Q2-Beobachtungs-Status)",
+      "data/kasse.json (Kasse + Stufe)"
+    ]
+  }
+}
