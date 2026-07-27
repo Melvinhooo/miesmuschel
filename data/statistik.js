@@ -1,29 +1,7 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-07-26T07:04:45+00:00",
+  "letzte_berechnung": "2026-07-27T07:12:48+00:00",
   "gesamt": {
-    "tipps": 533,
-    "gewonnen": 291,
-    "verloren": 231,
-    "push": 2,
-    "offen": 9,
-    "einsatz": 524.0,
-    "netto": 19.05,
-    "trefferquote": 55.7,
-    "roi_prozent": 3.6
-  },
-  "letzte_30_tage": {
-    "tipps": 91,
-    "gewonnen": 47,
-    "verloren": 44,
-    "push": 0,
-    "offen": 0,
-    "einsatz": 91.0,
-    "netto": -15.87,
-    "trefferquote": 51.6,
-    "roi_prozent": -17.4
-  },
-  "letzte_90_tage": {
     "tipps": 468,
     "gewonnen": 252,
     "verloren": 205,
@@ -34,128 +12,29 @@ window.__MIESMUSCHEL_STAT = {
     "trefferquote": 55.1,
     "roi_prozent": 4.5
   },
+  "letzte_30_tage": {
+    "tipps": 81,
+    "gewonnen": 39,
+    "verloren": 42,
+    "push": 0,
+    "offen": 0,
+    "einsatz": 81.0,
+    "netto": -15.87,
+    "trefferquote": 48.1,
+    "roi_prozent": -19.6
+  },
+  "letzte_90_tage": {
+    "tipps": 462,
+    "gewonnen": 247,
+    "verloren": 204,
+    "push": 2,
+    "offen": 9,
+    "einsatz": 453.0,
+    "netto": 18.53,
+    "trefferquote": 54.8,
+    "roi_prozent": 4.1
+  },
   "nach_liga": {
-    "NBA Playoffs R1 G2": {
-      "tipps": 8,
-      "gewonnen": 4,
-      "verloren": 4,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 8.0,
-      "netto": -0.6,
-      "trefferquote": 50.0,
-      "roi_prozent": -7.5
-    },
-    "DFB-Pokal Halbfinale": {
-      "tipps": 4,
-      "gewonnen": 3,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 4.0,
-      "netto": 1.85,
-      "trefferquote": 75.0,
-      "roi_prozent": 46.2
-    },
-    "NBA Playoffs R1 G3": {
-      "tipps": 10,
-      "gewonnen": 5,
-      "verloren": 5,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 10.0,
-      "netto": -0.95,
-      "trefferquote": 50.0,
-      "roi_prozent": -9.5
-    },
-    "LaLiga": {
-      "tipps": 48,
-      "gewonnen": 26,
-      "verloren": 20,
-      "push": 1,
-      "offen": 1,
-      "einsatz": 47.0,
-      "netto": 3.73,
-      "trefferquote": 56.5,
-      "roi_prozent": 7.9
-    },
-    "Bundesliga": {
-      "tipps": 37,
-      "gewonnen": 16,
-      "verloren": 14,
-      "push": 0,
-      "offen": 7,
-      "einsatz": 30.0,
-      "netto": -0.6,
-      "trefferquote": 53.3,
-      "roi_prozent": -2.0
-    },
-    "Serie A": {
-      "tipps": 5,
-      "gewonnen": 2,
-      "verloren": 3,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 5.0,
-      "netto": -2.3,
-      "trefferquote": 40.0,
-      "roi_prozent": -46.0
-    },
-    "2. Bundesliga": {
-      "tipps": 5,
-      "gewonnen": 3,
-      "verloren": 2,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 5.0,
-      "netto": -2.0,
-      "trefferquote": 60.0,
-      "roi_prozent": -40.0
-    },
-    "Premier League": {
-      "tipps": 58,
-      "gewonnen": 30,
-      "verloren": 26,
-      "push": 1,
-      "offen": 1,
-      "einsatz": 57.0,
-      "netto": -8.59,
-      "trefferquote": 53.6,
-      "roi_prozent": -15.1
-    },
-    "NBA Playoffs R1 G4": {
-      "tipps": 4,
-      "gewonnen": 3,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 4.0,
-      "netto": 1.06,
-      "trefferquote": 75.0,
-      "roi_prozent": 26.5
-    },
-    "Ligue 1": {
-      "tipps": 6,
-      "gewonnen": 2,
-      "verloren": 4,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 6.0,
-      "netto": 0.47,
-      "trefferquote": 33.3,
-      "roi_prozent": 7.8
-    },
-    "FA Cup Halbfinale": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
     "NBA Playoffs Round 1, Game 5": {
       "tipps": 13,
       "gewonnen": 7,
@@ -233,6 +112,28 @@ window.__MIESMUSCHEL_STAT = {
       "trefferquote": 33.3,
       "roi_prozent": -44.0
     },
+    "Premier League": {
+      "tipps": 54,
+      "gewonnen": 27,
+      "verloren": 25,
+      "push": 1,
+      "offen": 1,
+      "einsatz": 53.0,
+      "netto": -8.99,
+      "trefferquote": 51.9,
+      "roi_prozent": -17.0
+    },
+    "LaLiga": {
+      "tipps": 36,
+      "gewonnen": 18,
+      "verloren": 16,
+      "push": 1,
+      "offen": 1,
+      "einsatz": 35.0,
+      "netto": 4.28,
+      "trefferquote": 52.9,
+      "roi_prozent": 12.2
+    },
     "NBA Playoffs Round 1, Game 6": {
       "tipps": 7,
       "gewonnen": 2,
@@ -243,6 +144,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": -3.19,
       "trefferquote": 28.6,
       "roi_prozent": -45.6
+    },
+    "Bundesliga": {
+      "tipps": 26,
+      "gewonnen": 8,
+      "verloren": 11,
+      "push": 0,
+      "offen": 7,
+      "einsatz": 19.0,
+      "netto": -2.08,
+      "trefferquote": 42.1,
+      "roi_prozent": -10.9
     },
     "Champions League Halbfinale Rueckspiel": {
       "tipps": 4,
@@ -310,6 +222,17 @@ window.__MIESMUSCHEL_STAT = {
       "trefferquote": 83.3,
       "roi_prozent": 149.7
     },
+    "Ligue 1": {
+      "tipps": 4,
+      "gewonnen": 2,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 4.0,
+      "netto": 1.47,
+      "trefferquote": 50.0,
+      "roi_prozent": 36.8
+    },
     "NBA Playoffs Round 2, Game 3": {
       "tipps": 2,
       "gewonnen": 1,
@@ -331,6 +254,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.69,
       "trefferquote": 75.0,
       "roi_prozent": 17.2
+    },
+    "Serie A": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
     },
     "Coppa Italia Finale": {
       "tipps": 2,
@@ -1060,633 +994,6 @@ window.__MIESMUSCHEL_STAT = {
     }
   },
   "nach_markt": {
-    "Desmond Bane Mehr als 17.5 Punkte": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Jalen Williams Mehr als 18.5 Punkte": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.8,
-      "trefferquote": 100.0,
-      "roi_prozent": 80.0
-    },
-    "Franz Wagner Mehr als 15.5 Punkte": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Weniger als 218.5 Punkte gesamt": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.9,
-      "trefferquote": 100.0,
-      "roi_prozent": 90.0
-    },
-    "Cade Cunningham Mehr als 24.5 Punkte": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.85,
-      "trefferquote": 100.0,
-      "roi_prozent": 85.0
-    },
-    "Paolo Banchero Double-Double": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Weniger als 215.5 Punkte gesamt": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Shai Gilgeous-Alexander Mehr als 31.5 Punkte": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.85,
-      "trefferquote": 100.0,
-      "roi_prozent": 85.0
-    },
-    "Stuttgart weiter (inkl. Verlängerung/Elfmeter)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.55,
-      "trefferquote": 100.0,
-      "roi_prozent": 55.0
-    },
-    "Cleveland Cavaliers Sieg": {
-      "tipps": 2,
-      "gewonnen": 0,
-      "verloren": 2,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": -2.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Stuttgart Sieg (90 Min)": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Deniz Undav trifft": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 1.3,
-      "trefferquote": 100.0,
-      "roi_prozent": 130.0
-    },
-    "Atlanta Hawks Sieg": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.85,
-      "trefferquote": 100.0,
-      "roi_prozent": 85.0
-    },
-    "Minnesota Timberwolves Sieg": {
-      "tipps": 2,
-      "gewonnen": 2,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": 1.8,
-      "trefferquote": 100.0,
-      "roi_prozent": 90.0
-    },
-    "Donovan Mitchell Mehr als 26.5 Punkte": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Jalen Brunson Mehr als 24.5 Punkte": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.75,
-      "trefferquote": 100.0,
-      "roi_prozent": 75.0
-    },
-    "Anthony Edwards Mehr als 27.5 Punkte": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Weniger als 2.5 Tore": {
-      "tipps": 4,
-      "gewonnen": 2,
-      "verloren": 2,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 4.0,
-      "netto": -0.15,
-      "trefferquote": 50.0,
-      "roi_prozent": -3.7
-    },
-    "Rayo Vallecano Doppelte Chance (1X)": {
-      "tipps": 2,
-      "gewonnen": 2,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": 0.6,
-      "trefferquote": 100.0,
-      "roi_prozent": 30.0
-    },
-    "Villarreal Doppelte Chance (X2)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.3,
-      "trefferquote": 100.0,
-      "roi_prozent": 30.0
-    },
-    "Levante Doppelte Chance (1X)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.45,
-      "trefferquote": 100.0,
-      "roi_prozent": 45.0
-    },
-    "RB Leipzig Sieg": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.55,
-      "trefferquote": 100.0,
-      "roi_prozent": 55.0
-    },
-    "Napoli Sieg": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.3,
-      "trefferquote": 100.0,
-      "roi_prozent": 30.0
-    },
-    "Real Madrid Doppelte Chance (X2)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.35,
-      "trefferquote": 100.0,
-      "roi_prozent": 35.0
-    },
-    "Kaiserslautern Doppelte Chance (1X)": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Kaiserslautern Sieg": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Mehr als 2.5 Tore": {
-      "tipps": 3,
-      "gewonnen": 1,
-      "verloren": 2,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
-      "netto": -0.3,
-      "trefferquote": 33.3,
-      "roi_prozent": -10.0
-    },
-    "Kylian Mbappé trifft": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Beide Teams treffen: JA": {
-      "tipps": 3,
-      "gewonnen": 1,
-      "verloren": 2,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
-      "netto": -1.3,
-      "trefferquote": 33.3,
-      "roi_prozent": -43.3
-    },
-    "Boston Celtics Sieg": {
-      "tipps": 3,
-      "gewonnen": 2,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
-      "netto": 0.21,
-      "trefferquote": 66.7,
-      "roi_prozent": 7.0
-    },
-    "Houston Rockets Sieg": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Portland Trail Blazers Sieg": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Bayern München Sieg": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.45,
-      "trefferquote": 100.0,
-      "roi_prozent": 45.0
-    },
-    "Liverpool Sieg": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.3,
-      "trefferquote": 100.0,
-      "roi_prozent": 30.0
-    },
-    "Arsenal Sieg": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.65,
-      "trefferquote": 100.0,
-      "roi_prozent": 65.0
-    },
-    "Barcelona Doppelte Chance (X2)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.2,
-      "trefferquote": 100.0,
-      "roi_prozent": 20.0
-    },
-    "Atlético Doppelte Chance (1X)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.3,
-      "trefferquote": 100.0,
-      "roi_prozent": 30.0
-    },
-    "Leverkusen Doppelte Chance (X2)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.3,
-      "trefferquote": 100.0,
-      "roi_prozent": 30.0
-    },
-    "Bayer Leverkusen Sieg": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.85,
-      "trefferquote": 100.0,
-      "roi_prozent": 85.0
-    },
-    "Lewandowski trifft": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Roma Doppelte Chance (X2)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.4,
-      "trefferquote": 100.0,
-      "roi_prozent": 40.0
-    },
-    "Liverpool Mehr als 1.5 Tore": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.45,
-      "trefferquote": 100.0,
-      "roi_prozent": 45.0
-    },
-    "Oklahoma City Thunder Sieg": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.55,
-      "trefferquote": 100.0,
-      "roi_prozent": 55.0
-    },
-    "New York Knicks Sieg": {
-      "tipps": 2,
-      "gewonnen": 2,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": 1.63,
-      "trefferquote": 100.0,
-      "roi_prozent": 81.5
-    },
-    "Inter Mailand Sieg": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Borussia Dortmund Sieg": {
-      "tipps": 2,
-      "gewonnen": 1,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": -0.57,
-      "trefferquote": 50.0,
-      "roi_prozent": -28.5
-    },
-    "Olympique Marseille Sieg": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "VfB Stuttgart Doppelte Chance (1X)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.2,
-      "trefferquote": 100.0,
-      "roi_prozent": 20.0
-    },
-    "VfB Stuttgart Sieg": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Deniz Undav trifft (jederzeit)": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "Serhou Guirassy trifft (jederzeit)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 100.0,
-      "roi_prozent": 0.0
-    },
-    "Schalke 04 Doppelte Chance (X2)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 100.0,
-      "roi_prozent": 0.0
-    },
-    "VfL Bochum Sieg": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 100.0,
-      "roi_prozent": 0.0
-    },
-    "1. FC Nuernberg Doppelte Chance (1X)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 100.0,
-      "roi_prozent": 0.0
-    },
-    "Sevilla Doppelte Chance (X2)": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Marseille Handicap -1 (Marseille gewinnt mit 2+ Toren Vorsprung)": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "Leeds United Doppelte Chance (X2)": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
     "Nuggets Sieg (Moneyline)": {
       "tipps": 1,
       "gewonnen": 1,
@@ -1995,6 +1302,17 @@ window.__MIESMUSCHEL_STAT = {
       "trefferquote": 100.0,
       "roi_prozent": 30.0
     },
+    "Rayo Vallecano Doppelte Chance (1X)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.3,
+      "trefferquote": 100.0,
+      "roi_prozent": 30.0
+    },
     "Crystal Palace Sieg": {
       "tipps": 1,
       "gewonnen": 1,
@@ -2017,7 +1335,40 @@ window.__MIESMUSCHEL_STAT = {
       "trefferquote": 50.0,
       "roi_prozent": 7.0
     },
+    "New York Knicks Sieg": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.68,
+      "trefferquote": 100.0,
+      "roi_prozent": 68.0
+    },
+    "Boston Celtics Sieg": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
     "Denver Nuggets Sieg": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Beide Teams treffen: JA": {
       "tipps": 1,
       "gewonnen": 0,
       "verloren": 1,
@@ -2347,6 +1698,17 @@ window.__MIESMUSCHEL_STAT = {
       "trefferquote": 0.0,
       "roi_prozent": -100.0
     },
+    "Borussia Dortmund Sieg": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
     "Freiburg Sieg": {
       "tipps": 1,
       "gewonnen": 0,
@@ -2445,6 +1807,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 2.46,
       "trefferquote": 100.0,
       "roi_prozent": 123.0
+    },
+    "Mehr als 2.5 Tore": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
     },
     "Sieg FC Bayern Muenchen": {
       "tipps": 2,
@@ -5165,148 +4538,115 @@ window.__MIESMUSCHEL_STAT = {
     }
   },
   "nach_markt_typ": {
-    "Spieler-Punkte Ueber (NBA)": {
-      "tipps": 17,
-      "gewonnen": 9,
-      "verloren": 8,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 17.0,
-      "netto": 0.8,
-      "trefferquote": 52.9,
-      "roi_prozent": 4.7
-    },
-    "Spieler-Punkte Unter (NBA)": {
-      "tipps": 14,
-      "gewonnen": 6,
-      "verloren": 8,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 14.0,
-      "netto": 2.47,
-      "trefferquote": 42.9,
-      "roi_prozent": 17.6
-    },
-    "Paolo Banchero Double-Double": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Stuttgart weiter (inkl. Verlängerung/Elfmeter)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.55,
-      "trefferquote": 100.0,
-      "roi_prozent": 55.0
-    },
     "Sieg (1X2 / ML)": {
-      "tipps": 167,
-      "gewonnen": 95,
-      "verloren": 71,
+      "tipps": 143,
+      "gewonnen": 80,
+      "verloren": 62,
       "push": 0,
       "offen": 1,
-      "einsatz": 166.0,
-      "netto": 2.09,
-      "trefferquote": 57.2,
-      "roi_prozent": 1.3
+      "einsatz": 142.0,
+      "netto": 2.2,
+      "trefferquote": 56.3,
+      "roi_prozent": 1.5
     },
-    "Torschuetzen Jederzeit": {
-      "tipps": 101,
-      "gewonnen": 35,
-      "verloren": 64,
-      "push": 2,
-      "offen": 0,
-      "einsatz": 101.0,
-      "netto": 0.86,
-      "trefferquote": 35.4,
-      "roi_prozent": 0.9
-    },
-    "Unter 2.5 Tore": {
-      "tipps": 30,
-      "gewonnen": 21,
-      "verloren": 9,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 30.0,
-      "netto": 8.51,
-      "trefferquote": 70.0,
-      "roi_prozent": 28.4
-    },
-    "Doppelte Chance 1X": {
-      "tipps": 30,
-      "gewonnen": 22,
-      "verloren": 6,
-      "push": 0,
-      "offen": 2,
-      "einsatz": 28.0,
-      "netto": -0.03,
-      "trefferquote": 78.6,
-      "roi_prozent": -0.1
-    },
-    "Doppelte Chance X2": {
-      "tipps": 37,
-      "gewonnen": 27,
+    "Spread/Handicap": {
+      "tipps": 12,
+      "gewonnen": 4,
       "verloren": 8,
       "push": 0,
-      "offen": 2,
-      "einsatz": 35.0,
-      "netto": 3.5,
-      "trefferquote": 77.1,
-      "roi_prozent": 10.0
-    },
-    "Ueber 2.5 Tore": {
-      "tipps": 42,
-      "gewonnen": 22,
-      "verloren": 18,
-      "push": 0,
-      "offen": 2,
-      "einsatz": 40.0,
-      "netto": 5.63,
-      "trefferquote": 55.0,
-      "roi_prozent": 14.1
-    },
-    "Beide Teams treffen JA": {
-      "tipps": 14,
-      "gewonnen": 6,
-      "verloren": 6,
-      "push": 0,
-      "offen": 2,
+      "offen": 0,
       "einsatz": 12.0,
-      "netto": -0.76,
-      "trefferquote": 50.0,
-      "roi_prozent": -6.3
+      "netto": -1.36,
+      "trefferquote": 33.3,
+      "roi_prozent": -11.3
+    },
+    "Spieler-Punkte Ueber (NBA)": {
+      "tipps": 9,
+      "gewonnen": 5,
+      "verloren": 4,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 9.0,
+      "netto": 1.55,
+      "trefferquote": 55.6,
+      "roi_prozent": 17.2
+    },
+    "Spieler-Punkte Unter (NBA)": {
+      "tipps": 12,
+      "gewonnen": 5,
+      "verloren": 7,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 12.0,
+      "netto": 2.57,
+      "trefferquote": 41.7,
+      "roi_prozent": 21.4
+    },
+    "Doppelte Chance 1X": {
+      "tipps": 24,
+      "gewonnen": 17,
+      "verloren": 5,
+      "push": 0,
+      "offen": 2,
+      "einsatz": 22.0,
+      "netto": -0.28,
+      "trefferquote": 77.3,
+      "roi_prozent": -1.3
+    },
+    "Torschuetzen Jederzeit": {
+      "tipps": 96,
+      "gewonnen": 33,
+      "verloren": 61,
+      "push": 2,
+      "offen": 0,
+      "einsatz": 96.0,
+      "netto": 1.56,
+      "trefferquote": 35.1,
+      "roi_prozent": 1.6
+    },
+    "Unter 2.5 Tore": {
+      "tipps": 26,
+      "gewonnen": 19,
+      "verloren": 7,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 26.0,
+      "netto": 8.66,
+      "trefferquote": 73.1,
+      "roi_prozent": 33.3
     },
     "Ueber 1.5 Tore": {
-      "tipps": 7,
-      "gewonnen": 5,
+      "tipps": 6,
+      "gewonnen": 4,
       "verloren": 2,
       "push": 0,
       "offen": 0,
-      "einsatz": 7.0,
-      "netto": 0.9,
-      "trefferquote": 71.4,
-      "roi_prozent": 12.9
+      "einsatz": 6.0,
+      "netto": 0.45,
+      "trefferquote": 66.7,
+      "roi_prozent": 7.5
     },
-    "Spread/Handicap": {
-      "tipps": 13,
-      "gewonnen": 4,
-      "verloren": 9,
+    "Doppelte Chance X2": {
+      "tipps": 29,
+      "gewonnen": 21,
+      "verloren": 6,
       "push": 0,
-      "offen": 0,
-      "einsatz": 13.0,
-      "netto": -1.36,
-      "trefferquote": 30.8,
-      "roi_prozent": -10.5
+      "offen": 2,
+      "einsatz": 27.0,
+      "netto": 2.95,
+      "trefferquote": 77.8,
+      "roi_prozent": 10.9
+    },
+    "Beide Teams treffen JA": {
+      "tipps": 12,
+      "gewonnen": 5,
+      "verloren": 5,
+      "push": 0,
+      "offen": 2,
+      "einsatz": 10.0,
+      "netto": -0.46,
+      "trefferquote": 50.0,
+      "roi_prozent": -4.6
     },
     "Raptors +3.5": {
       "tipps": 1,
@@ -5428,6 +4768,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": -1.0,
       "trefferquote": 0.0,
       "roi_prozent": -100.0
+    },
+    "Ueber 2.5 Tore": {
+      "tipps": 40,
+      "gewonnen": 21,
+      "verloren": 17,
+      "push": 0,
+      "offen": 2,
+      "einsatz": 38.0,
+      "netto": 5.93,
+      "trefferquote": 55.3,
+      "roi_prozent": 15.6
     },
     "Unter 3.5 Tore": {
       "tipps": 7,
@@ -5761,38 +5112,38 @@ window.__MIESMUSCHEL_STAT = {
     }
   },
   "nach_quoten_range": {
-    "1.50-2.00": {
-      "tipps": 235,
-      "gewonnen": 122,
-      "verloren": 108,
-      "push": 1,
-      "offen": 4,
-      "einsatz": 231.0,
-      "netto": 7.9,
-      "trefferquote": 53.0,
-      "roi_prozent": 3.4
-    },
-    "2.00-3.00": {
-      "tipps": 79,
-      "gewonnen": 30,
-      "verloren": 47,
-      "push": 1,
-      "offen": 1,
-      "einsatz": 78.0,
-      "netto": 1.81,
-      "trefferquote": 39.0,
-      "roi_prozent": 2.3
-    },
     "1.00-1.50": {
-      "tipps": 191,
-      "gewonnen": 132,
-      "verloren": 55,
+      "tipps": 171,
+      "gewonnen": 116,
+      "verloren": 51,
       "push": 0,
       "offen": 4,
-      "einsatz": 187.0,
-      "netto": 8.29,
-      "trefferquote": 70.6,
-      "roi_prozent": 4.4
+      "einsatz": 167.0,
+      "netto": 7.2,
+      "trefferquote": 69.5,
+      "roi_prozent": 4.3
+    },
+    "1.50-2.00": {
+      "tipps": 197,
+      "gewonnen": 102,
+      "verloren": 90,
+      "push": 1,
+      "offen": 4,
+      "einsatz": 193.0,
+      "netto": 10.95,
+      "trefferquote": 53.1,
+      "roi_prozent": 5.7
+    },
+    "2.00-3.00": {
+      "tipps": 72,
+      "gewonnen": 27,
+      "verloren": 43,
+      "push": 1,
+      "offen": 1,
+      "einsatz": 71.0,
+      "netto": 1.46,
+      "trefferquote": 38.6,
+      "roi_prozent": 2.1
     },
     "3.00+": {
       "tipps": 28,
@@ -5808,37 +5159,37 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_kategorie": {
     "safe": {
-      "tipps": 105,
-      "gewonnen": 71,
-      "verloren": 34,
+      "tipps": 82,
+      "gewonnen": 54,
+      "verloren": 28,
       "push": 0,
       "offen": 0,
-      "einsatz": 105.0,
-      "netto": 1.3,
-      "trefferquote": 67.6,
-      "roi_prozent": 1.2
+      "einsatz": 82.0,
+      "netto": 0.51,
+      "trefferquote": 65.9,
+      "roi_prozent": 0.6
     },
     "value": {
-      "tipps": 314,
-      "gewonnen": 173,
-      "verloren": 130,
+      "tipps": 273,
+      "gewonnen": 152,
+      "verloren": 110,
       "push": 2,
       "offen": 9,
-      "einsatz": 305.0,
-      "netto": 25.45,
-      "trefferquote": 57.1,
-      "roi_prozent": 8.3
+      "einsatz": 264.0,
+      "netto": 28.85,
+      "trefferquote": 58.0,
+      "roi_prozent": 10.9
     },
     "wackel": {
-      "tipps": 111,
-      "gewonnen": 46,
+      "tipps": 110,
+      "gewonnen": 45,
       "verloren": 65,
       "push": 0,
       "offen": 0,
-      "einsatz": 111.0,
-      "netto": -7.1,
-      "trefferquote": 41.4,
-      "roi_prozent": -6.4
+      "einsatz": 110.0,
+      "netto": -8.1,
+      "trefferquote": 40.9,
+      "roi_prozent": -7.4
     },
     "risiko": {
       "tipps": 3,
@@ -17098,1660 +16449,6 @@ window.__MIESMUSCHEL_STAT = {
             {
               "markt": "Phoenix Suns vs OKC Thunder G4: Booker Mehr als 25.5 Punkte",
               "quote": 2.5,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-04-26",
-      "gesamt": {
-        "tipps": 16,
-        "gewonnen": 7,
-        "verloren": 8,
-        "push": 0,
-        "offen": 1,
-        "einsatz": 15.0,
-        "netto": -5.01,
-        "trefferquote": 46.7,
-        "roi_prozent": -33.4
-      },
-      "spiele": [
-        {
-          "id": "2026-04-26-stuttgart-bremen",
-          "liga": "Bundesliga",
-          "heim": "VfB Stuttgart",
-          "gast": "SV Werder Bremen",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "VfB Stuttgart Doppelte Chance (1X)",
-              "quote": 1.2,
-              "kategorie": "safe",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.2,
-              "kommentar": ""
-            },
-            {
-              "markt": "VfB Stuttgart Sieg",
-              "quote": 1.5,
-              "kategorie": "value",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": ""
-            },
-            {
-              "markt": "Deniz Undav trifft (jederzeit)",
-              "quote": 1.85,
-              "kategorie": "value",
-              "status": "verloren",
-              "gewinn_faktor": 0.0,
-              "kommentar": "Undav startete, traf nicht. Demirović traf in 61.' (kam fuer Tiago Tomas in 57.', NICHT fuer Undav) — kein Einwechslungs-Boost fuer Undav (Ersatz war fuer Tiago Tomas)."
-            }
-          ]
-        },
-        {
-          "id": "2026-04-26-dortmund-freiburg",
-          "liga": "Bundesliga",
-          "heim": "Borussia Dortmund",
-          "gast": "SC Freiburg",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Borussia Dortmund Sieg",
-              "quote": 1.43,
-              "kategorie": "safe",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.43,
-              "kommentar": ""
-            },
-            {
-              "markt": "Beide Teams treffen: JA",
-              "quote": 1.77,
-              "kategorie": "value",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": ""
-            },
-            {
-              "markt": "Serhou Guirassy trifft (jederzeit)",
-              "quote": 1.65,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.0,
-              "kommentar": "Guirassy traf 14.' zum 2:0 (Assist Brandt)."
-            }
-          ]
-        },
-        {
-          "id": "2026-04-26-paderborn-schalke",
-          "liga": "2. Bundesliga",
-          "heim": "SC Paderborn 07",
-          "gast": "FC Schalke 04",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Schalke 04 Doppelte Chance (X2)",
-              "quote": 1.5,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.0,
-              "kommentar": "Schalke gewann 3:2 nach 0:2-Rueckstand. DC X2 erfuellt."
-            }
-          ]
-        },
-        {
-          "id": "2026-04-26-bochum-fuerth",
-          "liga": "2. Bundesliga",
-          "heim": "VfL Bochum",
-          "gast": "SpVgg Greuther Fuerth",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "VfL Bochum Sieg",
-              "quote": 1.75,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.0,
-              "kommentar": "Bochum 2:1, Hofmann-Doppelpack (1.', 56.'). Fuerth Anschluss durch Futkeu (87.')."
-            }
-          ]
-        },
-        {
-          "id": "2026-04-26-nuernberg-magdeburg",
-          "liga": "2. Bundesliga",
-          "heim": "1. FC Nuernberg",
-          "gast": "1. FC Magdeburg",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "1. FC Nuernberg Doppelte Chance (1X)",
-              "quote": 1.45,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.0,
-              "kommentar": "Nuernberg 1:0 durch Lubach (45.+2). DC 1X klar erfuellt — Klassenerhalt gesichert."
-            }
-          ]
-        },
-        {
-          "id": "2026-04-26-torino-inter",
-          "liga": "Serie A",
-          "heim": "Torino",
-          "gast": "Inter Mailand",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Inter Mailand Sieg",
-              "quote": 1.4,
-              "kategorie": "safe",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "id": "2026-04-26-osasuna-sevilla",
-          "liga": "LaLiga",
-          "heim": "CA Osasuna",
-          "gast": "Sevilla FC",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Sevilla Doppelte Chance (X2)",
-              "quote": 1.7,
-              "kategorie": "value",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "id": "2026-04-26-marseille-nice",
-          "liga": "Ligue 1",
-          "heim": "Olympique Marseille",
-          "gast": "OGC Nice",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Olympique Marseille Sieg",
-              "quote": 1.46,
-              "kategorie": "safe",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": ""
-            },
-            {
-              "markt": "Marseille Handicap -1 (Marseille gewinnt mit 2+ Toren Vorsprung)",
-              "quote": 2.18,
-              "kategorie": "value",
-              "status": "verloren",
-              "gewinn_faktor": 0.0,
-              "kommentar": "Marseille 1:1 unentschieden — Handicap -1 (Marseille muesste mit 2+ Vorsprung gewinnen) verloren."
-            }
-          ]
-        },
-        {
-          "id": "2026-04-26-chelsea-leeds-facup",
-          "liga": "FA Cup Halbfinale",
-          "heim": "Chelsea",
-          "gast": "Leeds United",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Leeds United Doppelte Chance (X2)",
-              "quote": 1.75,
-              "kategorie": "value",
-              "status": "offen",
-              "gewinn_faktor": 0.0,
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "id": "2026-04-26-cavs-raptors-g4",
-          "liga": "NBA Playoffs R1 G4",
-          "heim": "Toronto Raptors",
-          "gast": "Cleveland Cavaliers",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Cleveland Cavaliers Sieg",
-              "quote": 1.6,
-              "kategorie": "value",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "id": "2026-04-26-celtics-76ers-g4",
-          "liga": "NBA Playoffs R1 G4",
-          "heim": "Philadelphia 76ers",
-          "gast": "Boston Celtics",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Boston Celtics Sieg",
-              "quote": 1.36,
-              "kategorie": "safe",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.36,
-              "kommentar": ""
-            }
-          ]
-        }
-      ],
-      "kombis": [
-        {
-          "name": "Safe-Vierer (4 Ligen, keine NBA-Player-Stats)",
-          "kategorie": "safe",
-          "gesamtquote": 3.97,
-          "einsatz_prozent": 1.5,
-          "status": "verloren",
-          "beine": [
-            {
-              "markt": "Inter Sieg",
-              "quote": 1.4,
-              "status": "verloren",
-              "kommentar": ""
-            },
-            {
-              "markt": "Dortmund Sieg",
-              "quote": 1.43,
-              "status": "gewonnen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Marseille Sieg",
-              "quote": 1.46,
-              "status": "verloren",
-              "kommentar": ""
-            },
-            {
-              "markt": "Boston Celtics Sieg",
-              "quote": 1.36,
-              "status": "gewonnen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Balance-Vierer (Sieg + DC + 2.BL + NBA Spielausgang)",
-          "kategorie": "value",
-          "gesamtquote": 7.14,
-          "einsatz_prozent": 0.5,
-          "status": "verloren",
-          "beine": [
-            {
-              "markt": "Schalke DC X2",
-              "quote": 1.5,
-              "status": "gewonnen",
-              "kommentar": "Schalke gewann 3:2 nach 0:2-Rueckstand. DC X2 erfuellt."
-            },
-            {
-              "markt": "Sevilla DC X2",
-              "quote": 1.7,
-              "status": "verloren",
-              "kommentar": ""
-            },
-            {
-              "markt": "Bochum Sieg",
-              "quote": 1.75,
-              "status": "gewonnen",
-              "kommentar": "Bochum 2:1, Hofmann-Doppelpack (1.', 56.'). Fuerth Anschluss durch Futkeu (87.')."
-            },
-            {
-              "markt": "Cleveland Cavaliers Sieg",
-              "quote": 1.6,
-              "status": "verloren",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Risiko-Sechser",
-          "kategorie": "risk",
-          "gesamtquote": 27.77,
-          "einsatz_prozent": 0.25,
-          "status": "verloren",
-          "beine": [
-            {
-              "markt": "BVB-Freiburg BTTS JA",
-              "quote": 1.77,
-              "status": "verloren",
-              "kommentar": ""
-            },
-            {
-              "markt": "Torino-Inter Mehr 2.5 Tore",
-              "quote": 1.85,
-              "status": "gewonnen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Marseille -1",
-              "quote": 2.18,
-              "status": "verloren",
-              "kommentar": "Marseille 1:1 unentschieden — Handicap -1 (Marseille muesste mit 2+ Vorsprung gewinnen) verloren."
-            },
-            {
-              "markt": "Juventus DC X2",
-              "quote": 1.45,
-              "status": "gewonnen",
-              "kommentar": ""
-            },
-            {
-              "markt": "San Antonio Spurs Sieg",
-              "quote": 1.45,
-              "status": "gewonnen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Stuttgart-Bremen Mehr 2.5 Tore",
-              "quote": 1.85,
-              "status": "verloren",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Moonshot",
-          "kategorie": "moonshot",
-          "gesamtquote": 557.64,
-          "einsatz_prozent": 0.1,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Leeds United Sieg (90 Min)",
-              "quote": 3.55,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "SV Werder Bremen Sieg (2:0-Insurance-Edge: BL-Sieg-Tipp, falls Bremen 2:0-Phase = bet365 zahlt aus auch bei spaeterer Niederlage)",
-              "quote": 6.2,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "1. FC Magdeburg Sieg",
-              "quote": 2.81,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Los Angeles Lakers Sieg (Sweep)",
-              "quote": 2.8,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "FC Schalke 04 Sieg",
-              "quote": 3.22,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-04-25",
-      "gesamt": {
-        "tipps": 15,
-        "gewonnen": 12,
-        "verloren": 3,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 15.0,
-        "netto": 3.15,
-        "trefferquote": 80.0,
-        "roi_prozent": 21.0
-      },
-      "spiele": [
-        {
-          "id": "2026-04-25-mainz-bayern",
-          "liga": "Bundesliga",
-          "heim": "1. FSV Mainz 05",
-          "gast": "FC Bayern München",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Bayern München Sieg",
-              "quote": 1.45,
-              "kategorie": "safe",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.45,
-              "kommentar": "Bayern gewann 4:3 (Mainz fuehrte zur HZ 3:0, Bayern drehte das Spiel)"
-            }
-          ]
-        },
-        {
-          "id": "2026-04-25-koeln-leverkusen",
-          "liga": "Bundesliga",
-          "heim": "1. FC Köln",
-          "gast": "Bayer 04 Leverkusen",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Bayer Leverkusen Sieg",
-              "quote": 1.85,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.85,
-              "kommentar": "Leverkusen gewann 2:1 in Koeln (HZ 0:1, Werkself dominierte)"
-            },
-            {
-              "markt": "Leverkusen Doppelte Chance (X2)",
-              "quote": 1.3,
-              "kategorie": "safe",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.3,
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "id": "2026-04-25-liverpool-cpalace",
-          "liga": "Premier League",
-          "heim": "Liverpool",
-          "gast": "Crystal Palace",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Liverpool Sieg",
-              "quote": 1.3,
-              "kategorie": "safe",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.3,
-              "kommentar": ""
-            },
-            {
-              "markt": "Liverpool Mehr als 1.5 Tore",
-              "quote": 1.45,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.45,
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "id": "2026-04-25-arsenal-newcastle",
-          "liga": "Premier League",
-          "heim": "Arsenal",
-          "gast": "Newcastle United",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Arsenal Sieg",
-              "quote": 1.65,
-              "kategorie": "safe",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.65,
-              "kommentar": ""
-            },
-            {
-              "markt": "Mehr als 2.5 Tore",
-              "quote": 1.75,
-              "kategorie": "value",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "id": "2026-04-25-getafe-barcelona",
-          "liga": "LaLiga",
-          "heim": "Getafe",
-          "gast": "FC Barcelona",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Barcelona Doppelte Chance (X2)",
-              "quote": 1.2,
-              "kategorie": "safe",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.2,
-              "kommentar": ""
-            },
-            {
-              "markt": "Lewandowski trifft",
-              "quote": 1.85,
-              "kategorie": "value",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": "Lewandowski blieb torlos (hatte Assist auf Rashford). Tore: Fermin Lopez + Marcus Rashford."
-            }
-          ]
-        },
-        {
-          "id": "2026-04-25-atletico-athletic",
-          "liga": "LaLiga",
-          "heim": "Atlético Madrid",
-          "gast": "Athletic Bilbao",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Atlético Doppelte Chance (1X)",
-              "quote": 1.3,
-              "kategorie": "safe",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.3,
-              "kommentar": ""
-            },
-            {
-              "markt": "Weniger als 2.5 Tore",
-              "quote": 1.95,
-              "kategorie": "value",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "id": "2026-04-25-bologna-roma",
-          "liga": "Serie A",
-          "heim": "Bologna",
-          "gast": "AS Roma",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Roma Doppelte Chance (X2)",
-              "quote": 1.4,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.4,
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "id": "2026-04-25-suns-thunder-g3",
-          "liga": "NBA Playoffs R1 G3",
-          "heim": "Phoenix Suns",
-          "gast": "Oklahoma City Thunder",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Oklahoma City Thunder Sieg",
-              "quote": 1.55,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.55,
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "id": "2026-04-26-hawks-knicks-g4",
-          "liga": "NBA Playoffs R1 G4",
-          "heim": "Atlanta Hawks",
-          "gast": "New York Knicks",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "New York Knicks Sieg",
-              "quote": 1.95,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.95,
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "id": "2026-04-26-wolves-nuggets-g4",
-          "liga": "NBA Playoffs R1 G4",
-          "heim": "Minnesota Timberwolves",
-          "gast": "Denver Nuggets",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Minnesota Timberwolves Sieg",
-              "quote": 1.75,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.75,
-              "kommentar": ""
-            }
-          ]
-        }
-      ],
-      "kombis": [
-        {
-          "name": "Safe-Vierer (4 Ligen, keine NBA, keine Player-Props)",
-          "kategorie": "safe",
-          "gesamtquote": 2.94,
-          "einsatz_prozent": 1.5,
-          "status": "gewonnen",
-          "beine": [
-            {
-              "markt": "Bayern Sieg",
-              "quote": 1.45,
-              "status": "gewonnen",
-              "kommentar": "Bayern gewann 4:3 (Mainz fuehrte zur HZ 3:0, Bayern drehte das Spiel)"
-            },
-            {
-              "markt": "Liverpool Sieg",
-              "quote": 1.3,
-              "status": "gewonnen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Barcelona DC (X2)",
-              "quote": 1.2,
-              "status": "gewonnen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Atlético DC (1X)",
-              "quote": 1.3,
-              "status": "gewonnen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Balance-Vierer (Sieg + Tor + Top-Liga + NBA Bounce-Back)",
-          "kategorie": "value",
-          "gesamtquote": 10.42,
-          "einsatz_prozent": 0.5,
-          "status": "verloren",
-          "beine": [
-            {
-              "markt": "Arsenal Sieg",
-              "quote": 1.65,
-              "status": "gewonnen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Leverkusen Sieg",
-              "quote": 1.85,
-              "status": "gewonnen",
-              "kommentar": "Leverkusen gewann 2:1 in Koeln (HZ 0:1, Werkself dominierte)"
-            },
-            {
-              "markt": "Atlético-Athletic U2.5",
-              "quote": 1.95,
-              "status": "verloren",
-              "kommentar": ""
-            },
-            {
-              "markt": "Timberwolves Sieg",
-              "quote": 1.75,
-              "status": "gewonnen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Risiko-Sechser",
-          "kategorie": "risk",
-          "gesamtquote": 22.55,
-          "einsatz_prozent": 0.25,
-          "status": "verloren",
-          "beine": [
-            {
-              "markt": "Liverpool Mehr als 1.5 Tore",
-              "quote": 1.45,
-              "status": "gewonnen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Arsenal-Newcastle Ü2.5 Tore",
-              "quote": 1.75,
-              "status": "verloren",
-              "kommentar": ""
-            },
-            {
-              "markt": "Lewandowski trifft",
-              "quote": 1.85,
-              "status": "verloren",
-              "kommentar": "Lewandowski blieb torlos (hatte Assist auf Rashford). Tore: Fermin Lopez + Marcus Rashford."
-            },
-            {
-              "markt": "Roma DC (X2)",
-              "quote": 1.4,
-              "status": "gewonnen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Knicks Sieg",
-              "quote": 1.95,
-              "status": "gewonnen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Timberwolves Sieg",
-              "quote": 1.75,
-              "status": "gewonnen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Moonshot",
-          "kategorie": "moonshot",
-          "gesamtquote": 646.8,
-          "einsatz_prozent": 0.1,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Mainz Doppelte Chance (X2)",
-              "quote": 2.8,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "1. FC Köln Sieg",
-              "quote": 5.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Newcastle Sieg",
-              "quote": 5.0,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Bologna Sieg",
-              "quote": 3.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Phoenix Suns Sieg",
-              "quote": 2.4,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-04-24",
-      "gesamt": {
-        "tipps": 12,
-        "gewonnen": 6,
-        "verloren": 6,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 12.0,
-        "netto": -2.55,
-        "trefferquote": 50.0,
-        "roi_prozent": -21.3
-      },
-      "spiele": [
-        {
-          "id": "2026-04-24-lautern-braunschweig",
-          "liga": "2. Bundesliga",
-          "heim": "1. FC Kaiserslautern",
-          "gast": "Eintracht Braunschweig",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Kaiserslautern Doppelte Chance (1X)",
-              "quote": 1.25,
-              "kategorie": "safe",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": "Lautern verlor 0:2 — DC 1X gescheitert (Auswaertssieg)"
-            },
-            {
-              "markt": "Kaiserslautern Sieg",
-              "quote": 2.0,
-              "kategorie": "value",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": "Lautern verlor 0:2 zuhause"
-            }
-          ]
-        },
-        {
-          "id": "2026-04-24-leipzig-union",
-          "liga": "Bundesliga",
-          "heim": "RB Leipzig",
-          "gast": "1. FC Union Berlin",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "RB Leipzig Sieg",
-              "quote": 1.55,
-              "kategorie": "safe",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.55,
-              "kommentar": ""
-            },
-            {
-              "markt": "Mehr als 2.5 Tore",
-              "quote": 1.7,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.7,
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "id": "2026-04-24-napoli-cremonese",
-          "liga": "Serie A",
-          "heim": "Napoli",
-          "gast": "Cremonese",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Napoli Sieg",
-              "quote": 1.3,
-              "kategorie": "safe",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.3,
-              "kommentar": ""
-            },
-            {
-              "markt": "Weniger als 2.5 Tore",
-              "quote": 1.87,
-              "kategorie": "value",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "id": "2026-04-24-betis-realmadrid",
-          "liga": "LaLiga",
-          "heim": "Real Betis",
-          "gast": "Real Madrid",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Real Madrid Doppelte Chance (X2)",
-              "quote": 1.35,
-              "kategorie": "safe",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.35,
-              "kommentar": ""
-            },
-            {
-              "markt": "Beide Teams treffen: JA",
-              "quote": 1.7,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.7,
-              "kommentar": ""
-            },
-            {
-              "markt": "Kylian Mbappé trifft",
-              "quote": 1.8,
-              "kategorie": "value",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": "Mbappé hat NICHT getroffen — Reals Tor durch Vinicius (17'), Mbappé musste mit Hamstring-Problem ausgewechselt werden"
-            }
-          ]
-        },
-        {
-          "id": "2026-04-25-celtics-76ers-g3",
-          "liga": "NBA Playoffs R1 G3",
-          "heim": "Philadelphia 76ers",
-          "gast": "Boston Celtics",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Boston Celtics Sieg",
-              "quote": 1.85,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.85,
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "id": "2026-04-25-rockets-lakers-g3",
-          "liga": "NBA Playoffs R1 G3",
-          "heim": "Houston Rockets",
-          "gast": "Los Angeles Lakers",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Houston Rockets Sieg",
-              "quote": 1.45,
-              "kategorie": "value",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "id": "2026-04-25-blazers-spurs-g3",
-          "liga": "NBA Playoffs R1 G3",
-          "heim": "Portland Trail Blazers",
-          "gast": "San Antonio Spurs",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Portland Trail Blazers Sieg",
-              "quote": 1.85,
-              "kategorie": "value",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": ""
-            }
-          ]
-        }
-      ],
-      "kombis": [
-        {
-          "name": "Safe-Vierer (4 Ligen, keine Player-Props)",
-          "kategorie": "safe",
-          "gesamtquote": 3.4,
-          "einsatz_prozent": 1.5,
-          "status": "verloren",
-          "beine": [
-            {
-              "markt": "Kaiserslautern DC (1X)",
-              "quote": 1.25,
-              "status": "verloren",
-              "kommentar": "Lautern verlor 0:2 — DC 1X gescheitert (Auswaertssieg)"
-            },
-            {
-              "markt": "RB Leipzig Sieg",
-              "quote": 1.55,
-              "status": "gewonnen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Napoli Sieg",
-              "quote": 1.3,
-              "status": "gewonnen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Real Madrid DC (X2)",
-              "quote": 1.35,
-              "status": "gewonnen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Balance-Vierer",
-          "kategorie": "value",
-          "gesamtquote": 9.65,
-          "einsatz_prozent": 0.8,
-          "status": "verloren",
-          "beine": [
-            {
-              "markt": "RB Leipzig Sieg",
-              "quote": 1.55,
-              "status": "gewonnen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Mbappé trifft",
-              "quote": 1.8,
-              "status": "verloren",
-              "kommentar": "Mbappé hat NICHT getroffen — Reals Tor durch Vinicius (17'), Mbappé musste mit Hamstring-Problem ausgewechselt werden"
-            },
-            {
-              "markt": "Napoli-Cremonese U2.5",
-              "quote": 1.87,
-              "status": "verloren",
-              "kommentar": ""
-            },
-            {
-              "markt": "Celtics Sieg",
-              "quote": 1.85,
-              "status": "gewonnen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Risiko-Fünfer",
-          "kategorie": "risk",
-          "gesamtquote": 24.75,
-          "einsatz_prozent": 0.3,
-          "status": "verloren",
-          "beine": [
-            {
-              "markt": "Kaiserslautern Sieg",
-              "quote": 2.0,
-              "status": "verloren",
-              "kommentar": "Lautern verlor 0:2 zuhause"
-            },
-            {
-              "markt": "Betis-Real BTTS: JA",
-              "quote": 1.7,
-              "status": "gewonnen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Real Madrid Sieg",
-              "quote": 2.1,
-              "status": "verloren",
-              "kommentar": ""
-            },
-            {
-              "markt": "Celtics Sieg",
-              "quote": 1.85,
-              "status": "gewonnen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Blazers Sieg",
-              "quote": 1.85,
-              "status": "verloren",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Moonshot",
-          "kategorie": "moonshot",
-          "gesamtquote": 630.0,
-          "einsatz_prozent": 0.1,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Cremonese gewinnt oder Remis",
-              "quote": 4.0,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "LeBron Mehr als 27.5 Punkte",
-              "quote": 3.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Genaues Ergebnis 2:2",
-              "quote": 15.0,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Blazers Sieg mit -6.5 Spread",
-              "quote": 3.0,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-04-23",
-      "gesamt": {
-        "tipps": 14,
-        "gewonnen": 10,
-        "verloren": 4,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 14.0,
-        "netto": 3.4,
-        "trefferquote": 71.4,
-        "roi_prozent": 24.3
-      },
-      "spiele": [
-        {
-          "id": "2026-04-23-stuttgart-freiburg",
-          "liga": "DFB-Pokal Halbfinale",
-          "heim": "VfB Stuttgart",
-          "gast": "SC Freiburg",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Stuttgart weiter (inkl. Verlängerung/Elfmeter)",
-              "quote": 1.55,
-              "kategorie": "safe",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.55,
-              "kommentar": "Stuttgart weiter (2:1 nach Verl.)"
-            },
-            {
-              "markt": "Stuttgart Sieg (90 Min)",
-              "quote": 2.0,
-              "kategorie": "value",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": "Nach 90 Min 1:1 — Stuttgart-Sieg im 90-Min-Markt verloren"
-            },
-            {
-              "markt": "Deniz Undav trifft",
-              "quote": 2.3,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 1.3,
-              "kommentar": "Undav hat das 1:1 nach 90 Min erzielt"
-            },
-            {
-              "markt": "Weniger als 2.5 Tore",
-              "quote": 2.0,
-              "kategorie": "wackel",
-              "status": "gewonnen",
-              "gewinn_faktor": 1.0,
-              "kommentar": "Nach 90 Min 2 Tore (1:1) — Under 2.5 getroffen"
-            }
-          ]
-        },
-        {
-          "id": "2026-04-23-levante-sevilla",
-          "liga": "LaLiga",
-          "heim": "Levante",
-          "gast": "Sevilla",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Levante Doppelte Chance (1X)",
-              "quote": 1.45,
-              "kategorie": "safe",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.45,
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "id": "2026-04-23-rayo-espanyol",
-          "liga": "LaLiga",
-          "heim": "Rayo Vallecano",
-          "gast": "Espanyol",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Rayo Vallecano Doppelte Chance (1X)",
-              "quote": 1.3,
-              "kategorie": "safe",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.3,
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "id": "2026-04-23-oviedo-villarreal",
-          "liga": "LaLiga",
-          "heim": "Real Oviedo",
-          "gast": "Villarreal",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Weniger als 2.5 Tore",
-              "quote": 1.85,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.85,
-              "kommentar": ""
-            },
-            {
-              "markt": "Villarreal Doppelte Chance (X2)",
-              "quote": 1.3,
-              "kategorie": "safe",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.3,
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "id": "2026-04-23-cavs-raptors",
-          "liga": "NBA Playoffs R1 G3",
-          "heim": "Toronto Raptors",
-          "gast": "Cleveland Cavaliers",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Cleveland Cavaliers Sieg",
-              "quote": 1.65,
-              "kategorie": "safe",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": ""
-            },
-            {
-              "markt": "Donovan Mitchell Mehr als 26.5 Punkte",
-              "quote": 1.85,
-              "kategorie": "value",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": "Mitchell 15 Pkt — Linie 26.5 deutlich verfehlt (Cavs blown out)"
-            }
-          ]
-        },
-        {
-          "id": "2026-04-23-knicks-hawks",
-          "liga": "NBA Playoffs R1 G3",
-          "heim": "Atlanta Hawks",
-          "gast": "New York Knicks",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Atlanta Hawks Sieg",
-              "quote": 1.85,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.85,
-              "kommentar": ""
-            },
-            {
-              "markt": "Jalen Brunson Mehr als 24.5 Punkte",
-              "quote": 1.75,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.75,
-              "kommentar": "Brunson 26 Pkt — Linie 24.5 getroffen"
-            }
-          ]
-        },
-        {
-          "id": "2026-04-23-wolves-nuggets",
-          "liga": "NBA Playoffs R1 G3",
-          "heim": "Minnesota Timberwolves",
-          "gast": "Denver Nuggets",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Minnesota Timberwolves Sieg",
-              "quote": 2.05,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 1.05,
-              "kommentar": ""
-            },
-            {
-              "markt": "Anthony Edwards Mehr als 27.5 Punkte",
-              "quote": 1.8,
-              "kategorie": "value",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": "Edwards 17 Pkt — Linie 27.5 deutlich verfehlt (trotz Blowout-Sieg)"
-            }
-          ]
-        }
-      ],
-      "kombis": [
-        {
-          "name": "Safe-Vierer (DFB + LaLiga-DCs + NBA)",
-          "kategorie": "safe",
-          "gesamtquote": 4.32,
-          "einsatz_prozent": 1.5,
-          "status": "verloren",
-          "beine": [
-            {
-              "markt": "Stuttgart weiter (inkl. Verl./Elfer)",
-              "quote": 1.55,
-              "status": "gewonnen",
-              "kommentar": "Stuttgart weiter (2:1 nach Verl.)"
-            },
-            {
-              "markt": "Rayo DC (1X)",
-              "quote": 1.3,
-              "status": "gewonnen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Villarreal DC (X2)",
-              "quote": 1.3,
-              "status": "gewonnen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Cleveland Sieg",
-              "quote": 1.65,
-              "status": "verloren",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Balance-Vierer",
-          "kategorie": "value",
-          "gesamtquote": 8.52,
-          "einsatz_prozent": 0.8,
-          "status": "verloren",
-          "beine": [
-            {
-              "markt": "Stuttgart weiter",
-              "quote": 1.55,
-              "status": "gewonnen",
-              "kommentar": "Stuttgart weiter (2:1 nach Verl.)"
-            },
-            {
-              "markt": "Cleveland Sieg",
-              "quote": 1.65,
-              "status": "verloren",
-              "kommentar": ""
-            },
-            {
-              "markt": "Mitchell >26.5 Pkt",
-              "quote": 1.85,
-              "status": "verloren",
-              "kommentar": "Mitchell 15 Pkt — Linie 26.5 deutlich verfehlt (Cavs blown out)"
-            },
-            {
-              "markt": "Edwards >27.5 Pkt",
-              "quote": 1.8,
-              "status": "verloren",
-              "kommentar": "Edwards 17 Pkt — Linie 27.5 deutlich verfehlt (trotz Blowout-Sieg)"
-            }
-          ]
-        },
-        {
-          "name": "Risiko-Vierer",
-          "kategorie": "risk",
-          "gesamtquote": 15.26,
-          "einsatz_prozent": 0.5,
-          "status": "gewonnen",
-          "beine": [
-            {
-              "markt": "Undav trifft",
-              "quote": 2.3,
-              "status": "gewonnen",
-              "kommentar": "Undav hat das 1:1 nach 90 Min erzielt"
-            },
-            {
-              "markt": "Hawks Sieg",
-              "quote": 1.85,
-              "status": "gewonnen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Wolves Sieg",
-              "quote": 2.05,
-              "status": "gewonnen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Brunson >24.5 Pkt",
-              "quote": 1.75,
-              "status": "gewonnen",
-              "kommentar": "Brunson 26 Pkt — Linie 24.5 getroffen"
-            }
-          ]
-        },
-        {
-          "name": "Moonshot",
-          "kategorie": "moonshot",
-          "gesamtquote": 579.15,
-          "einsatz_prozent": 0.1,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Stuttgart Genau 2:1",
-              "quote": 9.0,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Toronto Raptors Sieg",
-              "quote": 2.6,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "McCollum Mehr als 29.5 Punkte",
-              "quote": 5.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Edwards Mehr als 34.5 Punkte",
-              "quote": 4.5,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-04-22",
-      "gesamt": {
-        "tipps": 8,
-        "gewonnen": 4,
-        "verloren": 4,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 8.0,
-        "netto": -0.6,
-        "trefferquote": 50.0,
-        "roi_prozent": -7.5
-      },
-      "spiele": [
-        {
-          "id": "2026-04-22-pistons-magic",
-          "liga": "NBA Playoffs R1 G2",
-          "heim": "Detroit Pistons",
-          "gast": "Orlando Magic",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Weniger als 218.5 Punkte gesamt",
-              "quote": 1.9,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.9,
-              "kommentar": ""
-            },
-            {
-              "markt": "Cade Cunningham Mehr als 24.5 Punkte",
-              "quote": 1.85,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.85,
-              "kommentar": "Cunningham 27 Pkt -> ueber 24.5"
-            },
-            {
-              "markt": "Paolo Banchero Double-Double",
-              "quote": 2.1,
-              "kategorie": "value",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": "Banchero 18/6/8 - Double-Double verfehlt (6 Reb, 8 Ast, nur Punkte >=10)"
-            },
-            {
-              "markt": "Desmond Bane Mehr als 17.5 Punkte",
-              "quote": 1.7,
-              "kategorie": "safe",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": "Bane 12 Pkt -> unter 17.5"
-            },
-            {
-              "markt": "Franz Wagner Mehr als 15.5 Punkte",
-              "quote": 1.65,
-              "kategorie": "safe",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": "Wagner 12 Pkt -> unter 15.5"
-            }
-          ]
-        },
-        {
-          "id": "2026-04-22-thunder-suns",
-          "liga": "NBA Playoffs R1 G2",
-          "heim": "Oklahoma City Thunder",
-          "gast": "Phoenix Suns",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Weniger als 215.5 Punkte gesamt",
-              "quote": 1.9,
-              "kategorie": "value",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": ""
-            },
-            {
-              "markt": "Shai Gilgeous-Alexander Mehr als 31.5 Punkte",
-              "quote": 1.85,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.85,
-              "kommentar": "SGA 37 Pkt -> ueber 31.5"
-            },
-            {
-              "markt": "Jalen Williams Mehr als 18.5 Punkte",
-              "quote": 1.8,
-              "kategorie": "safe",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.8,
-              "kommentar": "Jalen Williams 19 Pkt -> ueber 18.5"
-            }
-          ]
-        }
-      ],
-      "kombis": [
-        {
-          "name": "Safe-Kombi (Under + Under)",
-          "kategorie": "safe",
-          "gesamtquote": 3.61,
-          "einsatz_prozent": 1.5,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Pistons-Magic: Weniger als 218.5 Pkt",
-              "quote": 1.9,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Thunder-Suns: Weniger als 215.5 Pkt",
-              "quote": 1.9,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Safe-Kombi 2 (3 Spieler-Punkte SAFE)",
-          "kategorie": "safe",
-          "gesamtquote": 5.05,
-          "einsatz_prozent": 1.0,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Bane Mehr als 17.5 Pkt",
-              "quote": 1.7,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Wagner Mehr als 15.5 Pkt",
-              "quote": 1.65,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Jalen Williams Mehr als 18.5 Pkt",
-              "quote": 1.8,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Value-Kombi (Star-Scorer + Paolo DD)",
-          "kategorie": "value",
-          "gesamtquote": 7.19,
-          "einsatz_prozent": 0.8,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Cunningham Mehr als 24.5 Pkt",
-              "quote": 1.85,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "SGA Mehr als 31.5 Pkt",
-              "quote": 1.85,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Banchero Double-Double",
-              "quote": 2.1,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Risiko-Kombi (5 Beine, ~26x)",
-          "kategorie": "risk",
-          "gesamtquote": 25.97,
-          "einsatz_prozent": 0.3,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Pistons-Magic: Weniger als 218.5 Pkt",
-              "quote": 1.9,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Cunningham Mehr als 24.5 Pkt",
-              "quote": 1.85,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Banchero Double-Double",
-              "quote": 2.1,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Thunder-Suns: Weniger als 215.5 Pkt",
-              "quote": 1.9,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "SGA Mehr als 31.5 Pkt",
-              "quote": 1.85,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Moonshot (Triple-Double + Big Numbers)",
-          "kategorie": "moonshot",
-          "gesamtquote": 459.0,
-          "einsatz_prozent": 0.1,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Banchero Triple-Double",
-              "quote": 17.0,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Cunningham Mehr als 34.5 Pkt",
-              "quote": 4.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "SGA Mehr als 39.5 Pkt",
-              "quote": 6.0,
               "status": "offen",
               "kommentar": ""
             }
