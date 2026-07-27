@@ -64,5 +64,4 @@ window.__MIESMUSCHEL_TIPPS = {
     "verifikator_hinweis": "Watchdog-Slot 15:20 Berlin (frueher als geplant 17:15 weil Hauptroutine 16:00 noch nicht gelaufen ist und Datei fehlte) - Ruhetag-Publikation analog 2026-07-16 bis 2026-07-26 (9 Praezedenz-Ruhetage in Folge). Kein Fokus-Liga-Spiel identifiziert (Sommer-Pause aktiv + UEFA-Q2-Konvention Di-Do schliesst Mo aus). Naechster erwarteter aktiver Slot Di 28.07.2026 (UEFA CL Q2 Hinspiele + EL Q2 Rueckspiele Slate). Erster Vereins-Liga-Slot Mitte August (DFB-Pokal 1. Runde 14.-17.08.). Kasse-Stufe 1 bleibt aktiv (Kasse 550 EUR + 30d-ROI -19.6%). PWA zeigt Ruhetag-Karte statt Fuell-Content."
   },
   "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
-}
-;
+};
