@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS = {
+{
   "datum": "2026-07-28",
   "erstellt_am": "2026-07-28T17:15:00+02:00",
   "hinweis": "WATCHDOG-SLOT Di 28.07. 17:15 Berlin (Hauptroutine 16:00 nicht gelaufen - Watchdog uebernimmt komplette Tipps-Generation). **UEFA CHAMPIONS LEAGUE Q2-RUECKSPIELE HEUTE** - Kalender bestaetigt: CL Q2 Hinspiele Di/Mi 21./22.07., Rueckspiele Di/Mi 28./29.07. Heute Di 28.07. sechs CL Q2 Rueckspiele: Hearts-Sturm Graz (Hin 0:4), Dinamo Zagreb-Thun (1:1), Lincoln Red Imps-Mjaellby (0:3), Shamrock Rovers-Ararat-Armenia (0:2), Celje-Egnatia (3:3), KuPS-Sabah (0:1). Anstoss-Zeiten 19:00-21:00 Berlin. **Liga NICHT auf Beobachtungs-Liste** (nur EL Q2 mit -37.8% ROI ist gesperrt, CL Q2 bespielbar). Kasse 550 EUR (Kasse-Stufe 1 Aufbau, siehe data/kasse.json). **Statistik-Snapshot Stand 28.07. 07:08 UTC**: Gesamt 468 Tipps ROI +4.5%, 30-Tage-Fenster 73 Tipps ROI -21.7% Hitrate 43.8% (WM-K.O.-Torschuetzen-Cluster + Portfolio-Uebertrag-Falle dominant im Fenster, Erholung erst mit Vereins-Restart Mitte August). 30d-ROI-Trigger fuer Kasse-Stufe 2 (>+5% + Kasse >=1000 EUR) doppelt nicht erfuellt, Stufe 1 aktiv. Alle SAFE/VALUE-Tipps heute im Aufbau-Rahmen (5.50-11 EUR SAFE-Einzel, 2.75 EUR Wackel-Einzel, 11 EUR Safe-Kombi, 4.40 EUR Balance-Kombi, 1.40 EUR Risiko-Kombi, 0.55 EUR Moonshot). Konservativ - 6 Q2-Spiele mit obskuren Teams, aggregate-Situationen dominant, Sturm/Ararat/Mjaellby sichern per Hin-Vorsprung. Fokus Goldgrube-Maerkte Ueber 2.5 Tore (+15.6% ROI), Doppelte Chance X2 (+10.9%). DC-Cap max 2 im Dossier gesetzt. Post-WM-Sommer-Pause fuer alle Vereins-Ligen (DFB-Pokal 14.-17.08., Bundesliga 28.08. laut Groundhopper, PL 21.08., LaLiga 16.08., Serie A 22./23.08.). NBA off. 18+ / BZgA 0800 1372700.",
@@ -717,4 +716,4 @@ window.__MIESMUSCHEL_TIPPS = {
     }
   ],
   "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst."
-};
+}
