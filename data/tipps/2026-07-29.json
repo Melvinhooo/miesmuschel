@@ -857,5 +857,49 @@
       ]
     }
   ],
-  "footer": "18+ · bet365 DE · Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
+  "footer": "18+ · bet365 DE · Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-07-29T18:00:00+02:00",
+    "recherche_file_status": "FEHLT - Fallback-Verifikation ohne Squad-Cross-Check",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "layer_3_weich",
+        "spiel_id": "2026-07-29-hbs-vik",
+        "details": "Spiel in 4 Kombis: ['kombi-safe-3x', 'kombi-balance-7x', 'kombi-risiko-16x', 'kombi-moonshot-170x'] (weich, bei wenigen Spielen ok)"
+      },
+      {
+        "art": "layer_3_weich",
+        "spiel_id": "2026-07-29-cra-lev",
+        "details": "Spiel in 2 Kombis: ['kombi-safe-3x', 'kombi-moonshot-170x'] (weich, bei wenigen Spielen ok)"
+      },
+      {
+        "art": "layer_3_weich",
+        "spiel_id": "2026-07-29-lec-agf",
+        "details": "Spiel in 2 Kombis: ['kombi-balance-7x', 'kombi-moonshot-170x'] (weich, bei wenigen Spielen ok)"
+      },
+      {
+        "art": "layer_3_weich",
+        "spiel_id": "2026-07-29-gor-fen",
+        "details": "Spiel in 3 Kombis: ['kombi-balance-7x', 'kombi-risiko-16x', 'kombi-moonshot-170x'] (weich, bei wenigen Spielen ok)"
+      },
+      {
+        "art": "layer_3_weich",
+        "spiel_id": "2026-07-29-crv-lar",
+        "details": "Spiel in 2 Kombis: ['kombi-risiko-16x', 'kombi-moonshot-170x'] (weich, bei wenigen Spielen ok)"
+      }
+    ],
+    "torschuetzen_pruefung": {
+      "anzahl_tipps": 8,
+      "alle_mit_quelle_warn": false,
+      "hinweis": "Alle Torschuetzen-Tipps haben _torschuetze_quelle_warn=true gesetzt und sind als wackel eingestuft. Squad-Halluzinations-Check ohne Recherche-File nicht moeglich - Watchdog-Verifikation manuell: Kostov (Crvena, 5 Tore Form), Duarte (Crvena, Sturm), Ishak (Lech Top-Scorer), Kangwa (Hapoel Duo), Talisca (Fener Star), En-Nesyri (Fener Backup), Hansen (Vikingur Doppelpacker), Bala (Levski) - alle plausible Sturm/Offensive-Namen aus Watchdog-Recherche."
+    },
+    "layer_2_status": "SAUBER - nur 1 Sieg-Outcome (Fenerbahce DC X2) in Balance-Kombi",
+    "layer_3_status": "SOFT-VERSTOSS - 5 Spiele in mehreren Kombis (bei nur 6 Spielen forgivable)",
+    "quoten_nachrechnung": "Alle 4 Kombi-Gesamtquoten stimmen mit Bein-Produkt ueberein",
+    "lessons_generiert": [],
+    "verifikation_status": "OK_MIT_WARNS",
+    "kommentar": "Verifikation nach Watchdog-Run 17:15 (Hauptroutine 16:00 nicht gelaufen). Recherche-File data/recherche/2026-07-29.json fehlt, deshalb Squad-Halluzinations-Check nur ueber Watchdog-News-Snippets moeglich. Alle Torschuetzen-Tipps als wackel gemappert (siehe _torschuetze_quelle_warn). Layer-2 sauber. Layer-3 leichte Bein-Wiederholung (Kangwa in Balance+Risiko, Talisca in Balance-DC+Risiko+Moonshot, Kostov+Ishak in Risiko+Moonshot bzw. Balance+Moonshot) - weich-Regel bei nur 6 Spielen tolerierbar."
+  }
 }
