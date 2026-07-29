@@ -563,17 +563,19 @@
       "beine": [
         {
           "spiel_ref": "2026-07-28-cel-egn",
-          "markt": "Celje-Egnatia Ueber 2.5 Tore",
+          "markt": "NK Celje - KF Egnatia Rrogozhine: Ueber 2.5 Tore",
           "quote": 1.67,
           "spiel_id": "2026-07-28-cel-egn",
-          "tipp_id": "2026-07-28-cel-egn-t0"
+          "tipp_id": "2026-07-28-cel-egn-t0",
+          "spiel_titel": "NK Celje - KF Egnatia Rrogozhine"
         },
         {
           "spiel_ref": "2026-07-28-hea-stu",
-          "markt": "Hearts-Sturm Ueber 2.5 Tore",
+          "markt": "Heart of Midlothian - SK Sturm Graz: Ueber 2.5 Tore",
           "quote": 1.75,
           "spiel_id": "2026-07-28-hea-stu",
-          "tipp_id": "2026-07-28-hea-stu-t0"
+          "tipp_id": "2026-07-28-hea-stu-t0",
+          "spiel_titel": "Heart of Midlothian - SK Sturm Graz"
         }
       ],
       "layer_1_check": "OK - 2 Beine 2 verschiedene Spiele",
@@ -590,31 +592,35 @@
       "beine": [
         {
           "spiel_ref": "2026-07-28-din-thu",
-          "markt": "Dinamo Zagreb Sieg",
+          "markt": "Dinamo Zagreb - FC Thun: Dinamo Zagreb Sieg",
           "quote": 1.43,
           "spiel_id": "2026-07-28-din-thu",
-          "tipp_id": "2026-07-28-din-thu-t1"
+          "tipp_id": "2026-07-28-din-thu-t1",
+          "spiel_titel": "Dinamo Zagreb - FC Thun"
         },
         {
           "spiel_ref": "2026-07-28-hea-stu",
-          "markt": "Hearts DC 1X",
+          "markt": "Heart of Midlothian - SK Sturm Graz: Doppelte Chance Hearts oder X (1X)",
           "quote": 1.35,
           "spiel_id": "2026-07-28-hea-stu",
-          "tipp_id": "2026-07-28-hea-stu-t1"
+          "tipp_id": "2026-07-28-hea-stu-t1",
+          "spiel_titel": "Heart of Midlothian - SK Sturm Graz"
         },
         {
           "spiel_ref": "2026-07-28-kup-sab",
-          "markt": "KuPS-Sabah BTTS Ja",
+          "markt": "KuPS Kuopio - Sabah FK: BTTS Ja",
           "quote": 1.75,
           "spiel_id": "2026-07-28-kup-sab",
-          "tipp_id": "2026-07-28-kup-sab-t0"
+          "tipp_id": "2026-07-28-kup-sab-t0",
+          "spiel_titel": "KuPS Kuopio - Sabah FK"
         },
         {
           "spiel_ref": "2026-07-28-cel-egn",
-          "markt": "Kvesic Torschuetze Jederzeit",
+          "markt": "NK Celje - KF Egnatia Rrogozhine: Marko Kvesic Torschuetze Jederzeit",
           "quote": 2.4,
           "spiel_id": "2026-07-28-cel-egn",
-          "tipp_id": "2026-07-28-cel-egn-t1"
+          "tipp_id": "2026-07-28-cel-egn-t1",
+          "spiel_titel": "NK Celje - KF Egnatia Rrogozhine"
         }
       ],
       "layer_1_check": "OK - 4 verschiedene Spiele (Din-Thu, Hea-Stu, Kup-Sab, Cel-Egn) je 1 Bein",
@@ -631,31 +637,35 @@
       "beine": [
         {
           "spiel_ref": "2026-07-28-lin-mja",
-          "markt": "Lincoln DC 1X",
+          "markt": "Lincoln Red Imps - Mjaellby AIF: Doppelte Chance Lincoln oder X (1X)",
           "quote": 2.1,
           "spiel_id": "2026-07-28-lin-mja",
-          "tipp_id": "2026-07-28-lin-mja-t0"
+          "tipp_id": "2026-07-28-lin-mja-t0",
+          "spiel_titel": "Lincoln Red Imps - Mjaellby AIF"
         },
         {
           "spiel_ref": "2026-07-28-sha-ara",
-          "markt": "Shamrock Rovers Sieg 90min",
+          "markt": "Shamrock Rovers - FC Ararat-Armenia: Shamrock Rovers Sieg 90min",
           "quote": 1.89,
           "spiel_id": "2026-07-28-sha-ara",
-          "tipp_id": "2026-07-28-sha-ara-t0"
+          "tipp_id": "2026-07-28-sha-ara-t0",
+          "spiel_titel": "Shamrock Rovers - FC Ararat-Armenia"
         },
         {
           "spiel_ref": "2026-07-28-din-thu",
-          "markt": "BTTS Ja",
+          "markt": "Dinamo Zagreb - FC Thun: BTTS Ja",
           "quote": 1.9,
           "spiel_id": "2026-07-28-din-thu",
-          "tipp_id": "2026-07-28-din-thu-t2"
+          "tipp_id": "2026-07-28-din-thu-t2",
+          "spiel_titel": "Dinamo Zagreb - FC Thun"
         },
         {
           "spiel_ref": "2026-07-28-cel-egn",
-          "markt": "BTTS Ja",
+          "markt": "NK Celje - KF Egnatia Rrogozhine: BTTS Ja",
           "quote": 1.87,
           "spiel_id": "2026-07-28-cel-egn",
-          "tipp_id": "2026-07-28-cel-egn-t2"
+          "tipp_id": "2026-07-28-cel-egn-t2",
+          "spiel_titel": "NK Celje - KF Egnatia Rrogozhine"
         }
       ],
       "layer_1_check": "OK - 4 verschiedene Spiele je 1 Bein",
