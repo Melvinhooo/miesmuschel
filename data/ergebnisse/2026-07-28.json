@@ -77,7 +77,98 @@
           "id": "2026-07-28-din-thu-t2"
         }
       ],
-      "kontext_check_status": "OK"
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "3:2 n.V.",
+        "endstand_90min": "2:2",
+        "halbzeit_stand": "0:2",
+        "kommentar": "Dinamo Zagreb schaltet Thun 4:3 im Aggregate nach Verlaengerung. HZ 0:2 (Labeau 4', Buerki 22'), Comeback in 2H auf 2:2, Valincic Winner 112' ET."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-07-28-din-thu-t0",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.75,
+          "kommentar": "Ueber 2.5 Tore WIN (4 Tore 90min)"
+        },
+        {
+          "tipp_id": "2026-07-28-din-thu-t1",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Dinamo Sieg LOSS 90min war 2:2 Draw - 2:0-Insurance nicht anwendbar (Dinamo lag NIE 2:0 vorne, sondern 0:2 zurueck). Erst n.V. Sieg."
+        },
+        {
+          "tipp_id": "2026-07-28-din-thu-t2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.9,
+          "kommentar": "BTTS Ja WIN (beide Teams trafen)"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:2",
+        "endstand": "3:2 n.V.",
+        "endstand_90min": "2:2",
+        "tore": [
+          {
+            "min": 4,
+            "team": "gast",
+            "spieler": "Brighton Labeau",
+            "stand_danach": "0:1",
+            "kontext": "Frueher Blitz - Thun-Konter, Labeau vollstreckt in erster Angriffsaktion"
+          },
+          {
+            "min": 22,
+            "team": "gast",
+            "spieler": "Marco Buerki",
+            "stand_danach": "0:2",
+            "kontext": "Zweiter Thun-Konter - Buerki schnappt sich Chance, Dinamo Schock"
+          },
+          {
+            "min": 60,
+            "team": "heim",
+            "spieler": "Dinamo (2H Anschluss)",
+            "stand_danach": "1:2",
+            "kontext": "Dinamo drueckt nach HZ, Anschluss durch Heim-Offensiv-Sturm - genauer Torschuetze in Recherche nicht eindeutig"
+          },
+          {
+            "min": 87,
+            "team": "heim",
+            "spieler": "Miha Zajc",
+            "stand_danach": "2:2",
+            "kontext": "Spaeter Ausgleich in 90min - Zajc als Held wie im Hinspiel"
+          },
+          {
+            "min": 112,
+            "team": "heim",
+            "spieler": "Moris Valincic",
+            "stand_danach": "3:2",
+            "kontext": "ET2 Winner - Valincic entscheidet Aggregate 4:3 fuer Dinamo"
+          }
+        ],
+        "drehung": {
+          "war_drehung": true,
+          "details": "Dinamo drehte 0:2-HZ-Rueckstand auf 2:2 in 90min und 3:2 n.V. - klassische Home-Comeback-Drehung mit ET-Winner nach Zajc-Doppel-Hinspiel-Rettung-Pattern."
+        },
+        "markt_resultate": {
+          "btts_90min": "JA",
+          "btts_gesamt": "JA",
+          "ueber_1_5_90min": true,
+          "ueber_2_5_90min": true,
+          "ueber_3_5_90min": true,
+          "ueber_4_5_90min": false,
+          "ueber_2_5_gesamt": true,
+          "ueber_3_5_gesamt": true,
+          "ueber_4_5_gesamt": true,
+          "halbzeit_endstand_90min": "Thun/Unentschieden",
+          "kein_team_zu_null_90min": true,
+          "endstand_1x2_90min": "X"
+        },
+        "auffaellige_patterns": [
+          "Comeback-Drehung 0:2-HZ auf 2:2-90min - Heim-Fortress-Effekt Dinamo (19-Unbesiegt) haelt trotz Schock-Beginn. Ueber 2.5 klar erfuellt (5 Tore inkl ET).",
+          "Zajc-Doppel-Hinspiel-Retter-Pattern verlaengert - schon Hinspiel 86' + hier 87' - Zajc als 'Notfall-9er' etabliert.",
+          "Q2-Rueckspiel Vertrauens-Drehung Underdog-Fuehrung wird eingeholt (Thun 0:2 HZ verspielt) - Q2-Underdog-Fuehrung-Halten-Rate < 50% bei UEFA-Underdog-Auswaertsspielen."
+        ]
+      }
     },
     {
       "id": "2026-07-28-cel-egn",
@@ -154,7 +245,91 @@
           "id": "2026-07-28-cel-egn-t2"
         }
       ],
-      "kontext_check_status": "OK"
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "2:2 n.V. (Celje 4:1 i.E.)",
+        "endstand_90min": "1:1",
+        "halbzeit_stand": "1:1",
+        "kommentar": "Celje weiter nach Elfmeterschiessen 4:1 - 90min 1:1, ET 2:2 (Kvesic 97'pen, Smajli 114'). Aggregate 5:5 in 90+ET, Celje im Pen-Duell dominant."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-07-28-cel-egn-t0",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Ueber 2.5 Tore LOSS (90min 1:1 = 2 Tore)"
+        },
+        {
+          "tipp_id": "2026-07-28-cel-egn-t1",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.4,
+          "kommentar": "Kvesic Torschuetze WIN (34' Regulaerzeit + 97' pen ET - 34' zaehlt 90min-Torschuetzen)"
+        },
+        {
+          "tipp_id": "2026-07-28-cel-egn-t2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.87,
+          "kommentar": "BTTS Ja WIN (beide Teams trafen im 90min)"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:1",
+        "endstand": "2:2 n.V. (Celje 4:1 i.E.)",
+        "endstand_90min": "1:1",
+        "tore": [
+          {
+            "min": 21,
+            "team": "gast",
+            "spieler": "Darko Hrka (OG)",
+            "stand_danach": "0:1",
+            "kontext": "Eigentor Celje-Verteidiger Hrka schiebt in eigenes Tor - Egnatia geht in Fuehrung"
+          },
+          {
+            "min": 34,
+            "team": "heim",
+            "spieler": "Marko Kvesic",
+            "stand_danach": "1:1",
+            "kontext": "Kvesic gleicht aus - HZ 1:1"
+          },
+          {
+            "min": 97,
+            "team": "heim",
+            "spieler": "Marko Kvesic (pen)",
+            "stand_danach": "2:1",
+            "kontext": "ET Elfmeter Kvesic - Fuehrung Celje"
+          },
+          {
+            "min": 114,
+            "team": "gast",
+            "spieler": "Geralb Smajli",
+            "stand_danach": "2:2",
+            "kontext": "Spaete Egnatia-Antwort - ET2 Ausgleich zwingt Pens"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Kein Fuehrungswechsel-Cluster - beide Teams fuehrten je einmal (0:1 -> 1:1 in 90min, 2:1 -> 2:2 in ET). Klassisches Wechselspiel-K.O. mit Pen-Entscheidung 4:1 Celje."
+        },
+        "markt_resultate": {
+          "btts_90min": "JA",
+          "btts_gesamt": "JA",
+          "ueber_1_5_90min": true,
+          "ueber_2_5_90min": false,
+          "ueber_3_5_90min": false,
+          "ueber_2_5_gesamt": true,
+          "ueber_3_5_gesamt": false,
+          "halbzeit_endstand_90min": "Unentschieden/Unentschieden",
+          "kein_team_zu_null_90min": true,
+          "endstand_1x2_90min": "X"
+        },
+        "auffaellige_patterns": [
+          "Torschuetzen-Goldgrube-Halte: Kvesic Doppelpack (34'+97'pen) verlaengert Volumen-9er-Form-Edge aus Hinspiel-Doppelpack - 4 Tore in 2 Spielen fuer Kvesic.",
+          "Ueber 2.5 (90min) LOSS trotz 3:3-Hinspiel + Both-Must-Win-These - Q2-Rueckspiel mit 3:3-Hin ist NICHT automatisch Tor-Festival, defensive Erwartungen zunehmen.",
+          "Selbstfaller-OG-Pattern - Hrka's OG als Egnatia-Fuehrung fuer 21' zeigt: Q2-Team-Fehler-Anfaelligkeit unter Druck.",
+          "Kein Fuehrungswechsel-Cluster (2 Fuehrungen, 2 Ausgleiche), aber Pen-4:1 zeigt Celje-Nerven-Vorteil Heim-Erfahrung."
+        ],
+        "einwechslungs_tor_highlights": []
+      }
     },
     {
       "id": "2026-07-28-hea-stu",
@@ -231,7 +406,74 @@
           "id": "2026-07-28-hea-stu-t2"
         }
       ],
-      "kontext_check_status": "OK"
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "0:2",
+        "endstand_90min": "0:2",
+        "halbzeit_stand": "0:0",
+        "kommentar": "Sturm 0:6 im Aggregate durchmarschiert - 0:0-HZ ohne Sturm-Star-Elf, 2 Tore in 2H von Seidl 64' + Soglo 68'. Hearts kein Comeback moeglich (4:0-Deficit)."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-07-28-hea-stu-t0",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Ueber 2.5 LOSS (2 Tore 90min)"
+        },
+        {
+          "tipp_id": "2026-07-28-hea-stu-t1",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Hearts DC 1X LOSS (Sturm gewann 0:2)"
+        },
+        {
+          "tipp_id": "2026-07-28-hea-stu-t2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "BTTS Ja LOSS (Hearts kein Tor)"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "0:2",
+        "endstand_90min": "0:2",
+        "tore": [
+          {
+            "min": 64,
+            "team": "gast",
+            "spieler": "Simon Seidl",
+            "stand_danach": "0:1",
+            "kontext": "Winkeltor - Kapitaen Gorenc Stankovic Flick-On, Seidl trifft aus 16 Meter oben in die Ecke"
+          },
+          {
+            "min": 68,
+            "team": "gast",
+            "spieler": "Emran Soglo",
+            "stand_danach": "0:2",
+            "kontext": "Soglo bricht durch, Schwolow-Save prallt zurueck an Soglo, staubt ab"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Klare Sturm-Rotation-Elf mit 0:6-Aggregate - kein Comeback von Hearts. HZ 0:0 dann 2 Tore in 4 Minuten Cluster (64'+68') = klassischer Rotator-Effizienz-Beweis."
+        },
+        "markt_resultate": {
+          "btts_90min": "NEIN",
+          "btts_gesamt": "NEIN",
+          "ueber_1_5_90min": true,
+          "ueber_2_5_90min": false,
+          "ueber_3_5_90min": false,
+          "halbzeit_endstand_90min": "Unentschieden/Sturm",
+          "kein_team_zu_null_90min": false,
+          "endstand_1x2_90min": "2"
+        },
+        "auffaellige_patterns": [
+          "Ueber 2.5 (90min) LOSS - Hearts schaffte trotz Zurueck-Zwang KEIN Tor gegen Sturm-Rotationself, entkraeftet These 'Hearts muss offen spielen'. Klassen-Edge realisiert Rueckspiel als Muster.",
+          "Q2-Rotator-Effizienz: Sturm-B-Elf schoss 2 Tore in 4 Minuten (64'+68') - CL-Q2-Star-Schoner-Elfen sind produktiver als erwartet.",
+          "BTTS Nein bestaetigt HR07-15-1-Portfolio-Uebertrag-Trauma Nachwirkungen - Q2-Rueckspiel bei 4:0-Hin ist typisch defensiv-Underdog UND offensiv-durchmarschier-Favorit, aber Underdog trifft selten.",
+          "Hearts-DC 1X LOSS - Sturm-Auswaertssieg trotz 4:0-Puffer klar - Klassen-Edge dominiert Q2-Rueckspiel wenn Aggregate-entschieden."
+        ]
+      }
     },
     {
       "id": "2026-07-28-sha-ara",
@@ -298,7 +540,75 @@
           "id": "2026-07-28-sha-ara-t1"
         }
       ],
-      "kontext_check_status": "OK"
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "2:1",
+        "endstand_90min": "2:1",
+        "halbzeit_stand": "2:0",
+        "kommentar": "Rovers gewinnt 2:1, kommt aber nicht weiter (3:2 Aggregate Ararat). HZ 2:0 (Healy 12' + Greene ~35'), Lima 2H Anschlusstor."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-07-28-sha-ara-t0",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.89,
+          "kommentar": "Rovers Sieg 90min WIN (2:1)"
+        },
+        {
+          "tipp_id": "2026-07-28-sha-ara-t1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.5,
+          "kommentar": "Unter 3.5 Tore WIN (3 Tore < 3.5)"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "2:0",
+        "endstand": "2:1",
+        "endstand_90min": "2:1",
+        "tore": [
+          {
+            "min": 12,
+            "team": "heim",
+            "spieler": "Matt Healy",
+            "stand_danach": "1:0",
+            "kontext": "Angriff ueber rechts, Byrne-Burke-Greene beteiligt, Healy trifft von ausserhalb"
+          },
+          {
+            "min": 35,
+            "team": "heim",
+            "spieler": "Aaron Greene",
+            "stand_danach": "2:0",
+            "kontext": "Byrne-Assist, Greene aus zentraler Position - HZ 2:0"
+          },
+          {
+            "min": 60,
+            "team": "gast",
+            "spieler": "Sandro Lima",
+            "stand_danach": "2:1",
+            "kontext": "Anschluss Ararat - Lima aus 2H, dampens Rovers-Comeback-Hoffnung"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Rovers gewinnt Spiel klar aber verpasst Aggregate-Aufholung - Ararat 3:2 Gesamt weiter. Kein 90min-Fuehrungswechsel."
+        },
+        "markt_resultate": {
+          "btts_90min": "JA",
+          "btts_gesamt": "JA",
+          "ueber_1_5_90min": true,
+          "ueber_2_5_90min": true,
+          "ueber_3_5_90min": false,
+          "halbzeit_endstand_90min": "Rovers/Rovers",
+          "kein_team_zu_null_90min": true,
+          "endstand_1x2_90min": "1"
+        },
+        "auffaellige_patterns": [
+          "Rovers-Heim-Sieg 2:1 90min VALUE-Tipp validiert - 19/20-Heim-Serie haelt, Pinnacle-Edge +1.1% ausreichend fuer WIN.",
+          "Ararat-Auswaerts-CL-Q-Historie durchbrochen (kein Auswaertssieg in Irland) - Rovers gewinnt zwar Spiel, aber Aggregate-Verwaltung Ararat 2:0-Hin haelt.",
+          "Unter 3.5 Tore WIN (3 Tore genau) - Cliff-hanger-Erfuellung, aber marginale These.",
+          "Torschuetzen-Cluster Rovers 12'+35' = Aggressive Fruehe-Attacke, klassisches Comeback-Zwang-Muster."
+        ]
+      }
     },
     {
       "id": "2026-07-28-lin-mja",
@@ -364,7 +674,54 @@
           "id": "2026-07-28-lin-mja-t1"
         }
       ],
-      "kontext_check_status": "OK"
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "0:0",
+        "endstand_90min": "0:0",
+        "halbzeit_stand": "0:0",
+        "kommentar": "0:0-Snoozer - Mjaellby steht sicher hinten, Lincoln offensiv limitiert. Aggregate 0:3 Mjaellby weiter. Erwartetes Rotator-Verwalten-Ergebnis."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-07-28-lin-mja-t0",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.1,
+          "kommentar": "Lincoln DC 1X WIN (0:0 Draw)"
+        },
+        {
+          "tipp_id": "2026-07-28-lin-mja-t1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.55,
+          "kommentar": "Unter 2.5 Tore WIN (0 Tore)"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "0:0",
+        "endstand_90min": "0:0",
+        "tore": [],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Null-Tor-Spiel - Mjaellby verwaltet 3:0-Vorsprung mit Rotator-Elf, Lincoln findet gegen Allsvenskan-Meister keinen Weg."
+        },
+        "markt_resultate": {
+          "btts_90min": "NEIN",
+          "btts_gesamt": "NEIN",
+          "ueber_1_5_90min": false,
+          "ueber_2_5_90min": false,
+          "ueber_3_5_90min": false,
+          "ueber_0_5_90min": false,
+          "halbzeit_endstand_90min": "Unentschieden/Unentschieden",
+          "kein_team_zu_null_90min": false,
+          "endstand_1x2_90min": "X"
+        },
+        "auffaellige_patterns": [
+          "Unter 2.5 Tore Goldgrube +33.3% ROI validiert - klassisches Q2-Rotator-Verwalten-Ergebnis 0:0.",
+          "Lincoln-DC 1X (Draw) WIN - Heim-Fortress-19/20-Serie haelt, aber ohne Tor-Substanz.",
+          "Mjaellby-Rotationself gegen Q2-Underdog: sichere Sperre + kein Angriffs-Aufwand - klarer Rotator-Verwalten-Muster.",
+          "0:0 in Q2-Rueckspiel mit 3:0-Vorsprung: Muster fuer Zukunft - Unter-2.5 aktiver Vorsuchen bei 3-Tore-Aggregate-Vorsprung."
+        ]
+      }
     },
     {
       "id": "2026-07-28-kup-sab",
@@ -431,7 +788,70 @@
           "id": "2026-07-28-kup-sab-t1"
         }
       ],
-      "kontext_check_status": "OK"
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "0:2",
+        "endstand_90min": "0:2",
+        "halbzeit_stand": "0:0",
+        "kommentar": "Sabah 0:3 Aggregate weiter. 0:0-HZ dann Simic 52' + Mickels 70' zweiter Sabah-Auswaertssieg. KuPS ohne Antwort trotz Sieg-Zwang."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-07-28-kup-sab-t0",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "BTTS Ja LOSS (KuPS kein Tor)"
+        },
+        {
+          "tipp_id": "2026-07-28-kup-sab-t1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.35,
+          "kommentar": "Sabah DC X2 WIN (Sabah Auswaertssieg 0:2)"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "0:2",
+        "endstand_90min": "0:2",
+        "tore": [
+          {
+            "min": 52,
+            "team": "gast",
+            "spieler": "Veljko Simic",
+            "assist": "Tymoteusz Puchacz",
+            "stand_danach": "0:1",
+            "kontext": "Simic Rechtsschuss aus Strafraum, Puchacz-Assist"
+          },
+          {
+            "min": 70,
+            "team": "gast",
+            "spieler": "Joy-Lance Mickels",
+            "assist": "Xander Severina",
+            "stand_danach": "0:2",
+            "kontext": "Mickels Rechtsschuss aus Strafraum, Severina-Assist - Aggregate praktisch entschieden"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Sabah Auswaertssieg als Verwaltung - kein Fuehrungswechsel. HZ 0:0 dann Sabah-Doppelschlag 52'+70' im 20-Minuten-Fenster."
+        },
+        "markt_resultate": {
+          "btts_90min": "NEIN",
+          "btts_gesamt": "NEIN",
+          "ueber_1_5_90min": true,
+          "ueber_2_5_90min": false,
+          "ueber_3_5_90min": false,
+          "halbzeit_endstand_90min": "Unentschieden/Sabah",
+          "kein_team_zu_null_90min": false,
+          "endstand_1x2_90min": "2"
+        },
+        "auffaellige_patterns": [
+          "BTTS Ja LOSS trotz KuPS-Sieg-Zwang - Coinflip-Kategorie-Falle: 'muss offen spielen'-Argument scheiterte (KuPS 0 Tore).",
+          "Sabah-DC X2 WIN (Auswaerts-Sieg) - Goldgrube +10.9% haelt bei Q2-Verwalter.",
+          "Simic zum zweiten Mal Torschuetze fuer Sabah in dieser Q2-Runde (Hinspiel 45+1' + Rueck 52') - Volume-9er-Consistency-Pattern.",
+          "Klassen-Edge dominiert Coinflip-Kategorie - Aserbaidschan > Finnland auf Q2-Niveau bewiesen bei 2 Spielen 3:0 Aggregate."
+        ]
+      }
     }
   ],
   "einzeltipps": [
@@ -566,14 +986,16 @@
           "markt": "Celje-Egnatia Ueber 2.5 Tore",
           "quote": 1.67,
           "spiel_id": "2026-07-28-cel-egn",
-          "tipp_id": "2026-07-28-cel-egn-t0"
+          "tipp_id": "2026-07-28-cel-egn-t0",
+          "status": "verloren"
         },
         {
           "spiel_ref": "2026-07-28-hea-stu",
           "markt": "Hearts-Sturm Ueber 2.5 Tore",
           "quote": 1.75,
           "spiel_id": "2026-07-28-hea-stu",
-          "tipp_id": "2026-07-28-hea-stu-t0"
+          "tipp_id": "2026-07-28-hea-stu-t0",
+          "status": "verloren"
         }
       ],
       "layer_1_check": "OK - 2 Beine 2 verschiedene Spiele",
@@ -593,28 +1015,32 @@
           "markt": "Dinamo Zagreb Sieg",
           "quote": 1.43,
           "spiel_id": "2026-07-28-din-thu",
-          "tipp_id": "2026-07-28-din-thu-t1"
+          "tipp_id": "2026-07-28-din-thu-t1",
+          "status": "verloren"
         },
         {
           "spiel_ref": "2026-07-28-hea-stu",
           "markt": "Hearts DC 1X",
           "quote": 1.35,
           "spiel_id": "2026-07-28-hea-stu",
-          "tipp_id": "2026-07-28-hea-stu-t1"
+          "tipp_id": "2026-07-28-hea-stu-t1",
+          "status": "verloren"
         },
         {
           "spiel_ref": "2026-07-28-kup-sab",
           "markt": "KuPS-Sabah BTTS Ja",
           "quote": 1.75,
           "spiel_id": "2026-07-28-kup-sab",
-          "tipp_id": "2026-07-28-kup-sab-t0"
+          "tipp_id": "2026-07-28-kup-sab-t0",
+          "status": "verloren"
         },
         {
           "spiel_ref": "2026-07-28-cel-egn",
           "markt": "Kvesic Torschuetze Jederzeit",
           "quote": 2.4,
           "spiel_id": "2026-07-28-cel-egn",
-          "tipp_id": "2026-07-28-cel-egn-t1"
+          "tipp_id": "2026-07-28-cel-egn-t1",
+          "status": "gewonnen"
         }
       ],
       "layer_1_check": "OK - 4 verschiedene Spiele (Din-Thu, Hea-Stu, Kup-Sab, Cel-Egn) je 1 Bein",
@@ -634,28 +1060,32 @@
           "markt": "Lincoln DC 1X",
           "quote": 2.1,
           "spiel_id": "2026-07-28-lin-mja",
-          "tipp_id": "2026-07-28-lin-mja-t0"
+          "tipp_id": "2026-07-28-lin-mja-t0",
+          "status": "gewonnen"
         },
         {
           "spiel_ref": "2026-07-28-sha-ara",
           "markt": "Shamrock Rovers Sieg 90min",
           "quote": 1.89,
           "spiel_id": "2026-07-28-sha-ara",
-          "tipp_id": "2026-07-28-sha-ara-t0"
+          "tipp_id": "2026-07-28-sha-ara-t0",
+          "status": "gewonnen"
         },
         {
           "spiel_ref": "2026-07-28-din-thu",
           "markt": "BTTS Ja",
           "quote": 1.9,
           "spiel_id": "2026-07-28-din-thu",
-          "tipp_id": "2026-07-28-din-thu-t2"
+          "tipp_id": "2026-07-28-din-thu-t2",
+          "status": "gewonnen"
         },
         {
           "spiel_ref": "2026-07-28-cel-egn",
           "markt": "BTTS Ja",
           "quote": 1.87,
           "spiel_id": "2026-07-28-cel-egn",
-          "tipp_id": "2026-07-28-cel-egn-t2"
+          "tipp_id": "2026-07-28-cel-egn-t2",
+          "status": "gewonnen"
         }
       ],
       "layer_1_check": "OK - 4 verschiedene Spiele je 1 Bein",
@@ -768,5 +1198,227 @@
       ]
     }
   ],
-  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst."
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst.",
+  "einzeltipps_ergebnis": [
+    {
+      "id": "einzel-01-celje-ueber",
+      "spiel_ref": "2026-07-28-cel-egn",
+      "kategorie": "value",
+      "markt": "Celje vs Egnatia - Ueber 2.5 Tore",
+      "quote": 1.67,
+      "einsatz_euro": 11.0,
+      "begruendung": "Goldgrube +15.6% ROI 55.3% Hitrate. Hinspiel 3:3 - 6 Tore. Beide Teams brauchen Sieg (keine Away-Goals-Regel), doppelter Push-Faktor. Konservativer Aufbau-Stufe-Einsatz 2%.",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 1,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Ueber 2.5 LOSS (90min 1:1 = 2 Tore)",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "spiel_id": "2026-07-28-cel-egn",
+      "tipp_id": "2026-07-28-cel-egn-t0"
+    },
+    {
+      "id": "einzel-02-dinamo-ueber",
+      "spiel_ref": "2026-07-28-din-thu",
+      "kategorie": "value",
+      "markt": "Dinamo Zagreb vs Thun - Ueber 2.5 Tore",
+      "quote": 1.75,
+      "einsatz_euro": 8.25,
+      "begruendung": "Goldgrube +15.6% ROI. Dinamo Heim-Offensive Schnitt >2 Tore + Thun laesst 2.1 zu, muss offen spielen nach 1:1 Hin. Reality-Check 30d ROI -21.7% mahnt Zurueckhaltung - 1.5% statt 2%.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.75,
+      "kommentar": "Ueber 2.5 WIN (4 Tore 90min)",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "spiel_id": "2026-07-28-din-thu",
+      "tipp_id": "2026-07-28-din-thu-t0"
+    },
+    {
+      "id": "einzel-03-hearts-ueber",
+      "spiel_ref": "2026-07-28-hea-stu",
+      "kategorie": "value",
+      "markt": "Hearts vs Sturm Graz - Ueber 2.5 Tore",
+      "quote": 1.75,
+      "einsatz_euro": 11.0,
+      "begruendung": "Goldgrube +15.6% ROI. Hearts muss offen spielen (4:0-Loch), Sturm rotiert aber trifft (Hinspiel 4 Tore aus offenen Spiel). CL Q2 Rueckspiele mit 4+ Vorsprung 68% Ueber 2.5 historisch.",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 3,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Ueber 2.5 LOSS (2 Tore 90min)",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "spiel_id": "2026-07-28-hea-stu",
+      "tipp_id": "2026-07-28-hea-stu-t0"
+    },
+    {
+      "id": "einzel-04-hearts-dc",
+      "spiel_ref": "2026-07-28-hea-stu",
+      "kategorie": "value",
+      "markt": "Hearts vs Sturm Graz - Doppelte Chance Hearts oder X (1X)",
+      "quote": 1.35,
+      "einsatz_euro": 8.25,
+      "begruendung": "Goldgrube DC 1X +9.5% ROI 84.6% Hitrate (bet365 DE Historie). Sturm rotiert wegen 4:0-Puffer + Auswaertsreise, Hearts zuhause + neuer Trainer Rebound-Effekt. Kein SAFE weil Liga NICHT in liga_goldgruben.json (Hebel C degradiert).",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 4,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Hearts DC 1X LOSS (Sturm 0:2 Sieg)",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "spiel_id": "2026-07-28-hea-stu",
+      "tipp_id": "2026-07-28-hea-stu-t1"
+    },
+    {
+      "id": "einzel-05-dinamo-sieg",
+      "spiel_ref": "2026-07-28-din-thu",
+      "kategorie": "value",
+      "markt": "Dinamo Zagreb Sieg",
+      "quote": 1.43,
+      "einsatz_euro": 5.5,
+      "begruendung": "Pinnacle Edge +2.1% - noch VALUE-Level (0-3% Pinnacle-Regel). Dinamo Heim-Fortress 8-Serie + 19-unbesiegt insgesamt, Thun 6 Tage nach Ligaspiel. 2:0-Insurance greift bei CL.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 5,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Dinamo Sieg LOSS (90min 2:2, Sieg erst n.V., 2:0-Insurance nicht anwendbar - Dinamo lag 0:2 zurueck, war NIE 2:0 vorne)",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "spiel_id": "2026-07-28-din-thu",
+      "tipp_id": "2026-07-28-din-thu-t1"
+    },
+    {
+      "id": "einzel-06-kvesic-torschuetze",
+      "spiel_ref": "2026-07-28-cel-egn",
+      "kategorie": "value",
+      "markt": "Celje vs Egnatia - Marko Kvesic Torschuetze Jederzeit",
+      "quote": 2.4,
+      "einsatz_euro": 5.5,
+      "begruendung": "Top-Goldgrube Torschuetzen Jederzeit +24.4% ROI 50% Hitrate. Kvesic Doppelpack Hinspiel + Volumen-Stuermer. Einwechslungs-Boost-Regel schuetzt.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 6,
+      "status": "gewonnen",
+      "gewinn_faktor": 2.4,
+      "kommentar": "Kvesic Torschuetze Jederzeit WIN (34' Regulaerzeit-Tor)",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "spiel_id": "2026-07-28-cel-egn",
+      "tipp_id": "2026-07-28-cel-egn-t1"
+    },
+    {
+      "id": "einzel-07-rovers-sieg",
+      "spiel_ref": "2026-07-28-sha-ara",
+      "kategorie": "value",
+      "markt": "Shamrock Rovers Sieg 90min",
+      "quote": 1.89,
+      "einsatz_euro": 5.5,
+      "begruendung": "Pinnacle Edge +1.1% marginal. Rovers 19/20 Heim ungeschlagen Tallaght + Ararat historisch 0 Auswaertssiege UK/Irland in CL-Q. Weiterkommen anders (Ararat), aber Rueckspiel-Sieg wahrscheinlich.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 7,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.89,
+      "kommentar": "Rovers Sieg 90min WIN (2:1)",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "spiel_id": "2026-07-28-sha-ara",
+      "tipp_id": "2026-07-28-sha-ara-t0"
+    },
+    {
+      "id": "einzel-08-hearts-btts",
+      "spiel_ref": "2026-07-28-hea-stu",
+      "kategorie": "wackel",
+      "markt": "Hearts vs Sturm Graz - BTTS Ja",
+      "quote": 1.72,
+      "einsatz_euro": 2.75,
+      "begruendung": "Sturm Auswaerts 8/10 getroffen + Hearts zuhause CL alle letzten 5 getroffen. Wackel wegen Sturm-Rotation.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 8,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "BTTS Ja LOSS (Hearts kein Tor)",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "spiel_id": "2026-07-28-hea-stu",
+      "tipp_id": "2026-07-28-hea-stu-t2"
+    },
+    {
+      "id": "einzel-09-kups-btts",
+      "spiel_ref": "2026-07-28-kup-sab",
+      "kategorie": "value",
+      "markt": "KuPS vs Sabah - BTTS Ja",
+      "quote": 1.75,
+      "einsatz_euro": 5.5,
+      "begruendung": "COINFLIP-Regel: kein SAFE. BTTS Ja logisch weil KuPS Sieg-Zwang + Sabah Konter-Kompetenz. Beide Teams historisch 70%+ BTTS-Rate in juengsten 10 Spielen.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 9,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "BTTS Ja LOSS (KuPS kein Tor)",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "spiel_id": "2026-07-28-kup-sab",
+      "tipp_id": "2026-07-28-kup-sab-t0"
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "kombi-safe-3x",
+      "status": "verloren",
+      "gesamtquote": 2.92,
+      "beine_status": [
+        "verloren",
+        "verloren"
+      ],
+      "gewinn_euro": -11.0
+    },
+    {
+      "kombi_id": "kombi-balance-8x",
+      "status": "verloren",
+      "gesamtquote": 8.11,
+      "beine_status": [
+        "verloren",
+        "verloren",
+        "verloren",
+        "gewonnen"
+      ],
+      "gewinn_euro": -4.4
+    },
+    {
+      "kombi_id": "kombi-risiko-14x",
+      "status": "gewonnen",
+      "gesamtquote": 14.11,
+      "beine_status": [
+        "gewonnen",
+        "gewonnen",
+        "gewonnen",
+        "gewonnen"
+      ],
+      "gewinn_euro": 18.35
+    },
+    {
+      "kombi_id": "kombi-moonshot-85x",
+      "status": "verloren",
+      "gesamtquote": 85.38,
+      "beine_status": [
+        "gewonnen",
+        "gewonnen",
+        "gewonnen",
+        "verloren"
+      ],
+      "gewinn_euro": -0.55
+    }
+  ],
+  "ausgewertet_am": "2026-07-29T07:15:00+00:00"
 }

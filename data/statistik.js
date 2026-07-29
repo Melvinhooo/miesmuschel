@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-07-28T07:08:15+00:00",
+  "letzte_berechnung": "2026-07-29T07:14:54+00:00",
   "gesamt": {
-    "tipps": 468,
-    "gewonnen": 252,
-    "verloren": 205,
+    "tipps": 477,
+    "gewonnen": 255,
+    "verloren": 211,
     "push": 2,
     "offen": 9,
-    "einsatz": 459.0,
-    "netto": 20.66,
-    "trefferquote": 55.1,
-    "roi_prozent": 4.5
+    "einsatz": 468.0,
+    "netto": 26.7,
+    "trefferquote": 54.7,
+    "roi_prozent": 5.7
   },
   "letzte_30_tage": {
-    "tipps": 73,
+    "tipps": 77,
     "gewonnen": 32,
-    "verloren": 41,
+    "verloren": 45,
     "push": 0,
     "offen": 0,
-    "einsatz": 73.0,
-    "netto": -15.87,
-    "trefferquote": 43.8,
-    "roi_prozent": -21.7
+    "einsatz": 77.0,
+    "netto": -9.06,
+    "trefferquote": 41.6,
+    "roi_prozent": -11.8
   },
   "letzte_90_tage": {
-    "tipps": 455,
-    "gewonnen": 242,
-    "verloren": 202,
+    "tipps": 453,
+    "gewonnen": 239,
+    "verloren": 203,
     "push": 2,
     "offen": 9,
-    "einsatz": 446.0,
-    "netto": 17.12,
-    "trefferquote": 54.5,
-    "roi_prozent": 3.8
+    "einsatz": 444.0,
+    "netto": 22.49,
+    "trefferquote": 54.1,
+    "roi_prozent": 5.1
   },
   "nach_liga": {
     "NBA Playoffs Round 1, Game 5": {
@@ -991,6 +991,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": -3.78,
       "trefferquote": 40.0,
       "roi_prozent": -37.8
+    },
+    "UEFA Champions League - 2. Qualifikationsrunde": {
+      "tipps": 9,
+      "gewonnen": 3,
+      "verloren": 6,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 9.0,
+      "netto": 6.04,
+      "trefferquote": 33.3,
+      "roi_prozent": 67.1
     }
   },
   "nach_markt": {
@@ -1578,15 +1589,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -100.0
     },
     "Ueber 2.5 Tore": {
-      "tipps": 27,
-      "gewonnen": 13,
-      "verloren": 12,
+      "tipps": 30,
+      "gewonnen": 14,
+      "verloren": 14,
       "push": 0,
       "offen": 2,
-      "einsatz": 25.0,
-      "netto": 4.03,
-      "trefferquote": 52.0,
-      "roi_prozent": 16.1
+      "einsatz": 28.0,
+      "netto": 5.78,
+      "trefferquote": 50.0,
+      "roi_prozent": 20.6
     },
     "Unter 3.5 Tore": {
       "tipps": 4,
@@ -4535,19 +4546,74 @@ window.__MIESMUSCHEL_STAT = {
       "netto": -1.0,
       "trefferquote": 0.0,
       "roi_prozent": -100.0
+    },
+    "Doppelte Chance Hearts oder X (1X)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Dinamo Zagreb Sieg": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Marko Kvesic Torschuetze Jederzeit": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 2.4,
+      "trefferquote": 100.0,
+      "roi_prozent": 240.0
+    },
+    "Shamrock Rovers Sieg 90min": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.89,
+      "trefferquote": 100.0,
+      "roi_prozent": 189.0
+    },
+    "BTTS Ja": {
+      "tipps": 2,
+      "gewonnen": 0,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt_typ": {
     "Sieg (1X2 / ML)": {
-      "tipps": 143,
-      "gewonnen": 80,
-      "verloren": 62,
+      "tipps": 145,
+      "gewonnen": 81,
+      "verloren": 63,
       "push": 0,
       "offen": 1,
-      "einsatz": 142.0,
-      "netto": 2.2,
-      "trefferquote": 56.3,
-      "roi_prozent": 1.5
+      "einsatz": 144.0,
+      "netto": 4.09,
+      "trefferquote": 56.2,
+      "roi_prozent": 2.8
     },
     "Spread/Handicap": {
       "tipps": 12,
@@ -4583,26 +4649,26 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 21.4
     },
     "Doppelte Chance 1X": {
-      "tipps": 24,
+      "tipps": 25,
       "gewonnen": 17,
-      "verloren": 5,
+      "verloren": 6,
       "push": 0,
       "offen": 2,
-      "einsatz": 22.0,
+      "einsatz": 23.0,
       "netto": -0.28,
-      "trefferquote": 77.3,
-      "roi_prozent": -1.3
+      "trefferquote": 73.9,
+      "roi_prozent": -1.2
     },
     "Torschuetzen Jederzeit": {
-      "tipps": 96,
-      "gewonnen": 33,
+      "tipps": 97,
+      "gewonnen": 34,
       "verloren": 61,
       "push": 2,
       "offen": 0,
-      "einsatz": 96.0,
-      "netto": 1.56,
-      "trefferquote": 35.1,
-      "roi_prozent": 1.6
+      "einsatz": 97.0,
+      "netto": 3.96,
+      "trefferquote": 35.8,
+      "roi_prozent": 4.1
     },
     "Unter 2.5 Tore": {
       "tipps": 26,
@@ -4638,15 +4704,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 10.9
     },
     "Beide Teams treffen JA": {
-      "tipps": 12,
+      "tipps": 14,
       "gewonnen": 5,
-      "verloren": 5,
+      "verloren": 7,
       "push": 0,
       "offen": 2,
-      "einsatz": 10.0,
+      "einsatz": 12.0,
       "netto": -0.46,
-      "trefferquote": 50.0,
-      "roi_prozent": -4.6
+      "trefferquote": 41.7,
+      "roi_prozent": -3.8
     },
     "Raptors +3.5": {
       "tipps": 1,
@@ -4770,15 +4836,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -100.0
     },
     "Ueber 2.5 Tore": {
-      "tipps": 40,
-      "gewonnen": 21,
-      "verloren": 17,
+      "tipps": 43,
+      "gewonnen": 22,
+      "verloren": 19,
       "push": 0,
       "offen": 2,
-      "einsatz": 38.0,
-      "netto": 5.93,
-      "trefferquote": 55.3,
-      "roi_prozent": 15.6
+      "einsatz": 41.0,
+      "netto": 7.68,
+      "trefferquote": 53.7,
+      "roi_prozent": 18.7
     },
     "Unter 3.5 Tore": {
       "tipps": 7,
@@ -5113,37 +5179,37 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_quoten_range": {
     "1.00-1.50": {
-      "tipps": 171,
+      "tipps": 173,
       "gewonnen": 116,
-      "verloren": 51,
+      "verloren": 53,
       "push": 0,
       "offen": 4,
-      "einsatz": 167.0,
+      "einsatz": 169.0,
       "netto": 7.2,
-      "trefferquote": 69.5,
+      "trefferquote": 68.6,
       "roi_prozent": 4.3
     },
     "1.50-2.00": {
-      "tipps": 197,
-      "gewonnen": 102,
-      "verloren": 90,
+      "tipps": 203,
+      "gewonnen": 104,
+      "verloren": 94,
       "push": 1,
       "offen": 4,
-      "einsatz": 193.0,
-      "netto": 10.95,
-      "trefferquote": 53.1,
-      "roi_prozent": 5.7
+      "einsatz": 199.0,
+      "netto": 14.59,
+      "trefferquote": 52.5,
+      "roi_prozent": 7.3
     },
     "2.00-3.00": {
-      "tipps": 72,
-      "gewonnen": 27,
+      "tipps": 73,
+      "gewonnen": 28,
       "verloren": 43,
       "push": 1,
       "offen": 1,
-      "einsatz": 71.0,
-      "netto": 1.46,
-      "trefferquote": 38.6,
-      "roi_prozent": 2.1
+      "einsatz": 72.0,
+      "netto": 3.86,
+      "trefferquote": 39.4,
+      "roi_prozent": 5.4
     },
     "3.00+": {
       "tipps": 28,
@@ -5170,26 +5236,26 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 0.6
     },
     "value": {
-      "tipps": 273,
-      "gewonnen": 152,
-      "verloren": 110,
+      "tipps": 280,
+      "gewonnen": 154,
+      "verloren": 115,
       "push": 2,
       "offen": 9,
-      "einsatz": 264.0,
-      "netto": 28.85,
-      "trefferquote": 58.0,
-      "roi_prozent": 10.9
+      "einsatz": 271.0,
+      "netto": 32.49,
+      "trefferquote": 57.2,
+      "roi_prozent": 12.0
     },
     "wackel": {
-      "tipps": 110,
-      "gewonnen": 45,
-      "verloren": 65,
+      "tipps": 112,
+      "gewonnen": 46,
+      "verloren": 66,
       "push": 0,
       "offen": 0,
-      "einsatz": 110.0,
-      "netto": -8.1,
-      "trefferquote": 40.9,
-      "roi_prozent": -7.4
+      "einsatz": 112.0,
+      "netto": -5.7,
+      "trefferquote": 41.1,
+      "roi_prozent": -5.1
     },
     "risiko": {
       "tipps": 3,
@@ -5242,6 +5308,261 @@ window.__MIESMUSCHEL_STAT = {
     }
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-07-28",
+      "gesamt": {
+        "tipps": 9,
+        "gewonnen": 3,
+        "verloren": 6,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 9.0,
+        "netto": 6.04,
+        "trefferquote": 33.3,
+        "roi_prozent": 67.1
+      },
+      "spiele": [
+        {
+          "id": "2026-07-28-din-thu",
+          "liga": "UEFA Champions League - 2. Qualifikationsrunde",
+          "heim": "Dinamo Zagreb",
+          "gast": "FC Thun",
+          "endstand": "3:2 n.V.",
+          "tipps": [
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.75,
+              "kommentar": "Ueber 2.5 Tore WIN (4 Tore 90min)"
+            },
+            {
+              "markt": "Dinamo Zagreb Sieg",
+              "quote": 1.43,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Dinamo Sieg LOSS 90min war 2:2 Draw - 2:0-Insurance nicht anwendbar (Dinamo lag NIE 2:0 vorne, sondern 0:2 zurueck). Erst n.V. Sieg."
+            }
+          ]
+        },
+        {
+          "id": "2026-07-28-cel-egn",
+          "liga": "UEFA Champions League - 2. Qualifikationsrunde",
+          "heim": "NK Celje",
+          "gast": "KF Egnatia Rrogozhine",
+          "endstand": "2:2 n.V. (Celje 4:1 i.E.)",
+          "tipps": [
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.67,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Ueber 2.5 Tore LOSS (90min 1:1 = 2 Tore)"
+            },
+            {
+              "markt": "Marko Kvesic Torschuetze Jederzeit",
+              "quote": 2.4,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 2.4,
+              "kommentar": "Kvesic Torschuetze WIN (34' Regulaerzeit + 97' pen ET - 34' zaehlt 90min-Torschuetzen)"
+            }
+          ]
+        },
+        {
+          "id": "2026-07-28-hea-stu",
+          "liga": "UEFA Champions League - 2. Qualifikationsrunde",
+          "heim": "Heart of Midlothian",
+          "gast": "SK Sturm Graz",
+          "endstand": "0:2",
+          "tipps": [
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Ueber 2.5 LOSS (2 Tore 90min)"
+            },
+            {
+              "markt": "Doppelte Chance Hearts oder X (1X)",
+              "quote": 1.35,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Hearts DC 1X LOSS (Sturm gewann 0:2)"
+            },
+            {
+              "markt": "BTTS Ja",
+              "quote": 1.72,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "BTTS Ja LOSS (Hearts kein Tor)"
+            }
+          ]
+        },
+        {
+          "id": "2026-07-28-sha-ara",
+          "liga": "UEFA Champions League - 2. Qualifikationsrunde",
+          "heim": "Shamrock Rovers",
+          "gast": "FC Ararat-Armenia",
+          "endstand": "2:1",
+          "tipps": [
+            {
+              "markt": "Shamrock Rovers Sieg 90min",
+              "quote": 1.89,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.89,
+              "kommentar": "Rovers Sieg 90min WIN (2:1)"
+            }
+          ]
+        },
+        {
+          "id": "2026-07-28-kup-sab",
+          "liga": "UEFA Champions League - 2. Qualifikationsrunde",
+          "heim": "KuPS Kuopio",
+          "gast": "Sabah FK",
+          "endstand": "0:2",
+          "tipps": [
+            {
+              "markt": "BTTS Ja",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "BTTS Ja LOSS (KuPS kein Tor)"
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Anker Goldgrube-Ueber-Kombi",
+          "kategorie": "safe",
+          "gesamtquote": 2.92,
+          "einsatz_prozent": 2.0,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Celje-Egnatia Ueber 2.5 Tore",
+              "quote": 1.67,
+              "status": "verloren",
+              "kommentar": "Ueber 2.5 Tore LOSS (90min 1:1 = 2 Tore)"
+            },
+            {
+              "markt": "Hearts-Sturm Ueber 2.5 Tore",
+              "quote": 1.75,
+              "status": "verloren",
+              "kommentar": "Ueber 2.5 LOSS (2 Tore 90min)"
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi VALUE-Mix 4 Beine",
+          "kategorie": "balance",
+          "gesamtquote": 8.11,
+          "einsatz_prozent": 0.8,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Dinamo Zagreb Sieg",
+              "quote": 1.43,
+              "status": "verloren",
+              "kommentar": "Dinamo Sieg LOSS 90min war 2:2 Draw - 2:0-Insurance nicht anwendbar (Dinamo lag NIE 2:0 vorne, sondern 0:2 zurueck). Erst n.V. Sieg."
+            },
+            {
+              "markt": "Hearts DC 1X",
+              "quote": 1.35,
+              "status": "verloren",
+              "kommentar": "Hearts DC 1X LOSS (Sturm gewann 0:2)"
+            },
+            {
+              "markt": "KuPS-Sabah BTTS Ja",
+              "quote": 1.75,
+              "status": "verloren",
+              "kommentar": "BTTS Ja LOSS (KuPS kein Tor)"
+            },
+            {
+              "markt": "Kvesic Torschuetze Jederzeit",
+              "quote": 2.4,
+              "status": "gewonnen",
+              "kommentar": "Kvesic Torschuetze WIN (34' Regulaerzeit + 97' pen ET - 34' zaehlt 90min-Torschuetzen)"
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi Q2-Underdog-Home-Mix",
+          "kategorie": "risk",
+          "gesamtquote": 14.11,
+          "einsatz_prozent": 0.25,
+          "status": "gewonnen",
+          "beine": [
+            {
+              "markt": "Lincoln DC 1X",
+              "quote": 2.1,
+              "status": "gewonnen",
+              "kommentar": "Lincoln DC 1X WIN (0:0 Draw)"
+            },
+            {
+              "markt": "Shamrock Rovers Sieg 90min",
+              "quote": 1.89,
+              "status": "gewonnen",
+              "kommentar": "Rovers Sieg 90min WIN (2:1)"
+            },
+            {
+              "markt": "BTTS Ja",
+              "quote": 1.9,
+              "status": "gewonnen",
+              "kommentar": "BTTS Ja WIN (beide Teams trafen)"
+            },
+            {
+              "markt": "BTTS Ja",
+              "quote": 1.87,
+              "status": "gewonnen",
+              "kommentar": "BTTS Ja WIN (beide Teams trafen im 90min)"
+            }
+          ]
+        },
+        {
+          "name": "Moonshot Q2-Chaos-Underdog-Away-Wins",
+          "kategorie": "moonshot",
+          "gesamtquote": 85.38,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sturm Graz Sieg 90min (auswaerts)",
+              "quote": 4.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Thun DC X2 (Auswaerts oder Draw)",
+              "quote": 2.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sabah Sieg (Auswaerts)",
+              "quote": 2.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ararat-Armenia Sieg (Auswaerts)",
+              "quote": 4.2,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-07-23",
       "gesamt": {
