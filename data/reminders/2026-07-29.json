@@ -1,0 +1,17 @@
+{
+  "stand": "2026-07-29T16:42:29.819614+00:00",
+  "gesendet": {
+    "2026-07-29-gor-fen": {
+      "sent_at": "2026-07-29T16:42:28.230787+00:00",
+      "anstoss": "2026-07-29T20:00:00+02:00",
+      "spiel": "Gornik Zabrze vs Fenerbahce",
+      "top_tipp": "Gornik Zabrze vs Fenerbahce - Doppelte Chance X2"
+    },
+    "2026-07-29-hbs-vik": {
+      "sent_at": "2026-07-29T16:42:28.230787+00:00",
+      "anstoss": "2026-07-29T19:30:00+02:00",
+      "spiel": "Hapoel Beer Sheva vs Vikingur Reykjavik",
+      "top_tipp": "Hapoel Beer Sheva vs Vikingur - Ueber 2.5 Tore"
+    }
+  }
+}
