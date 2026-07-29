@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS = {
+{
   "datum": "2026-07-29",
   "erstellt_am": "2026-07-29T17:15:00+02:00",
   "hinweis": "WATCHDOG-SLOT Mi 29.07. 17:15 Berlin (Hauptroutine 16:00 nicht gelaufen - Watchdog uebernimmt komplette Tipps-Generation). **UEFA CHAMPIONS LEAGUE Q2-RUECKSPIELE HEUTE (Tag 2)** - CL Q2 Hinspiele Di/Mi 21./22.07., Rueckspiele Di/Mi 28./29.07. Heute Mi 29.07. sechs CL Q2 Rueckspiele: Kairat Almaty-Omonia Nicosia (Hin 0:1 Kairat auswaerts), Gornik Zabrze-Fenerbahce (Hin 0:1 Fener auswaerts), Universitatea Craiova-Levski Sofia (Hin 0:1 Levski auswaerts), Crvena Zvezda-Larne (Hin 4:0 Zvezda auswaerts), Lech Poznan-AGF Aarhus (Hin 4:1 Lech auswaerts), Hapoel Beer Sheva-Vikingur Reykjavik (Hin 1:2 Vikingur zuhause). Anstoss-Zeiten 16:00-20:30 Berlin. **CL Q2 = Liga-Goldgrube +67.1% ROI 33.3% Hitrate (n=9)** - aktiv SAFE-erlaubt. EL Q2 weiterhin Beobachtungs-Liga (-37.8% ROI gesperrt). Kasse 550 EUR (Kasse-Stufe 1 Aufbau, siehe data/kasse.json). **Statistik-Snapshot Stand 29.07. 07:14 UTC**: Gesamt 477 Tipps ROI +5.7% 54.7% Hitrate, 30-Tage-Fenster 77 Tipps ROI -11.8% Hitrate 41.6% (WM-K.O.-Cluster-Hangover, Erholung mit Vereinssaison ab Mitte August). 30d-ROI-Trigger fuer Kasse-Stufe 2 (>+5% + Kasse >=1000 EUR) doppelt nicht erfuellt, Stufe 1 aktiv. Alle SAFE/VALUE-Tipps heute im Aufbau-Rahmen (5.50-11 EUR SAFE-Einzel, 2.75 EUR Wackel-Einzel, 11 EUR Safe-Kombi, 4.40 EUR Balance-Kombi, 1.40 EUR Risiko-Kombi, 0.55 EUR Moonshot). Fokus Goldgrube-Maerkte Ueber 2.5 Tore (+33.3% ROI 73.1% HR), Doppelte Chance X2 (+10.9% ROI 77.8% HR), Torschuetzen Jederzeit. DC-Cap max 2-3 im Dossier gesetzt. Star-Sturm-Backup-Pflicht bei Ausfaellen. Yesterday-Lesson 28.07.: Dinamo-Sieg-Tipp @ 1.43 verlor 90min trotz 3:2-ET-Sieg (Rueckspiel-Comeback via Zajc 87. Min), Lehre = grosser Hin-Vorsprung schuetzt aber 90min-Sieg-Tipp bleibt Risiko. Fenerbahce-Talisca-Torschuetze aktiv suchen (Anti-DC-Sucht, Star-Fokus).",
@@ -859,4 +858,4 @@ window.__MIESMUSCHEL_TIPPS = {
     }
   ],
   "footer": "18+ · bet365 DE · Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
-};
+}
