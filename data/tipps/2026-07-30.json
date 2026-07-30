@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS = {
+{
   "datum": "2026-07-30",
   "erstellt_am": "2026-07-30T17:15:00+02:00",
   "hinweis": "WATCHDOG-SLOT Do 30.07. 17:15 Berlin (Hauptroutine 16:00 nicht durch - Watchdog uebernimmt komplette Tipps-Generation). **UEFA EUROPA LEAGUE Q2 RUECKSPIELE HEUTE (Do 30.07.)** + parallele Conference League Q2 Rueckspiele. EL Q2 steht weiterhin in data/beobachtungs_ligen.json (30d-ROI -37.8%, Trefferquote 40%) - Hebel: max wackel, KEINE einzeltipps[], KEINE Safe/Balance/Risiko-Kombis, Moonshot nur wenn Quote >= 5.0+. Watchdog beschraenkt sich pragmatisch auf 3 EL Q2 Rueckspiele mit klar recherchierbarem Aggregat + Datenlage (Pafos-Hajduk 0:2 Hin nach Split, Ferencvaros-Twente 2:1 Hin nach Enschede, Midtjylland-Besiktas 0:1 Hin nach Istanbul). CL Q2 abgeschlossen (Rueckspiele gestern), CL Q3 Hinspiele erst Di/Mi 04./05.08. **Vereins-Ligen weiterhin Sommer-Pause** (Bundesliga Restart 21.-23.08., PL 15./16.08., DFB-Pokal 1. Runde 14.-17.08.). **NBA-Playoffs 2026 abgeschlossen** (Finale 13.06.). Kasse 550 EUR (Kasse-Stufe 1 Aufbau, siehe data/kasse.json). **Statistik-Snapshot Stand 30.07. 07:13 UTC**: Gesamt 488 Tipps 54.9% Hitrate ROI +8.3%, 30-Tage-Fenster 79 Tipps 44.3% Hitrate ROI +5.6% - LEICHTE VERBESSERUNG ggue. Vorwoche (-16.1% -> -11.8% -> +5.6%), CL Q2 Rueckspiele hatten hohen positiven Impact. Trigger fuer Kasse-Stufe 2 (30d-ROI > +5% AND Kasse >= 1000 EUR) erstmals seit Wochen bei 30d-ROI erfuellt, aber Kasse-Kriterium fehlt - Stufe 1 bleibt aktiv (konservative Einsaetze 5.50-11 EUR Safe-Einzel, 2.75 EUR Wackel-Einzel, 11 EUR Safe-Kombi, 4.40 EUR Balance-Kombi, 1.40 EUR Risiko-Kombi, 0.55 EUR Moonshot). Beobachtungs-Liga-Modus: keine SAFE/VALUE, keine Einzeltipps, keine Safe/Balance/Risiko-Kombi. Goldgrube-Maerkte aktiv gesucht wo moeglich innerhalb Wackel-Rahmen: Torschuetzen Jederzeit (Volumen-Stuermer sicherer als nominale Quote), Unter/Ueber 2.5, Doppelte Chance. Reality-Check: EL Q2 Beobachtungs-Boycott bleibt hart, ein einziger 30d-Runup ausser CL Q2 rechtfertigt noch keine Aufhebung.",
@@ -237,4 +236,4 @@ window.__MIESMUSCHEL_TIPPS = {
     }
   ],
   "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
-};
+}
