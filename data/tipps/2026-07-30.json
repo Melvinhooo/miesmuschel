@@ -202,47 +202,7 @@
     }
   ],
   "einzeltipps": [],
-  "kombis": [
-    {
-      "id": "kombi-moonshot-5x",
-      "kategorie": "moonshot",
-      "name": "Moonshot 3-Rueckspiel-Regenbogen (nur EL Q2 Wackel-Beine)",
-      "gesamtquote": 5.67,
-      "rechnung": "1.75 x 1.85 x 1.75 = 5.6656 -> 5.67",
-      "einsatz_euro": 0.55,
-      "beine": [
-        {
-          "spiel_ref": "2026-07-30-paf-haj",
-          "markt": "Pafos FC - Hajduk Split: Hajduk Split Doppelte Chance X2",
-          "quote": 1.75,
-          "spiel_id": "2026-07-30-paf-haj",
-          "tipp_id": "2026-07-30-paf-haj-t0",
-          "spiel_titel": "Pafos FC - Hajduk Split"
-        },
-        {
-          "spiel_ref": "2026-07-30-fer-twe",
-          "markt": "Ferencvaros - FC Twente: Ueber 2.5 Tore",
-          "quote": 1.85,
-          "spiel_id": "2026-07-30-fer-twe",
-          "tipp_id": "2026-07-30-fer-twe-t1",
-          "spiel_titel": "Ferencvaros - FC Twente"
-        },
-        {
-          "spiel_ref": "2026-07-30-mid-bes",
-          "markt": "FC Midtjylland - Besiktas: Beide Mannschaften treffen Ja",
-          "quote": 1.75,
-          "spiel_id": "2026-07-30-mid-bes",
-          "tipp_id": "2026-07-30-mid-bes-t1",
-          "spiel_titel": "FC Midtjylland - Besiktas"
-        }
-      ],
-      "layer_1_check": "OK - 3 Beine 3 verschiedene Spiele (Layer-1 max 1 Bein/Spiel)",
-      "layer_2_check": "OK - genau 1 Sieg-Outcome (Hajduk DC X2), Ueber 2.5 + BTTS zaehlen nicht als Sieg-Outcome",
-      "layer_3_check": "OK - alle 3 Spiele sind einzige Kombi in diesem Dossier (keine Ueberlappung moeglich)",
-      "begruendung": "Alle 3 Spiele in Beobachtungs-Liga EL Q2 (30d-ROI -37.8%) -> nur Moonshot erlaubt und nur ab 5.0+. Kombi kombiniert die drei plausibelsten Wackel-Tipps: (1) Hajduk verwaltet 2:0-Aggregat via DC X2, (2) Ferencvaros-Twente offenes Rueckspiel wegen Twente-Aufhol-Zwang -> Ueber 2.5 Goldgrube-Markt, (3) Midtjylland muss Ausgleich schaffen + Besiktas kontert -> BTTS Ja. Nachgerechnet: 1.75 x 1.85 x 1.75 = 5.6656 -> 5.67. Moonshot-Einsatz Aufbau-Stufe 1: 0.1% Kasse = 0.55 EUR. Alle Beine bewusst NICHT-Sieg-heavy weil Layer-2 hart.",
-      "empfohlener_einsatz_prozent": 0.1
-    }
-  ],
+  "kombis": [],
   "lessons_angewandt": [
     {
       "id": "beobachtungs-liga-el-q2",
