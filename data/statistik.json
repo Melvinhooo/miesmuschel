@@ -1,37 +1,37 @@
 {
-  "letzte_berechnung": "2026-07-29T07:14:54+00:00",
+  "letzte_berechnung": "2026-07-30T07:13:20+00:00",
   "gesamt": {
-    "tipps": 477,
-    "gewonnen": 255,
-    "verloren": 211,
+    "tipps": 488,
+    "gewonnen": 262,
+    "verloren": 215,
     "push": 2,
     "offen": 9,
-    "einsatz": 468.0,
-    "netto": 26.7,
-    "trefferquote": 54.7,
-    "roi_prozent": 5.7
+    "einsatz": 479.0,
+    "netto": 39.56,
+    "trefferquote": 54.9,
+    "roi_prozent": 8.3
   },
   "letzte_30_tage": {
-    "tipps": 77,
-    "gewonnen": 32,
-    "verloren": 45,
+    "tipps": 79,
+    "gewonnen": 35,
+    "verloren": 44,
     "push": 0,
     "offen": 0,
-    "einsatz": 77.0,
-    "netto": -9.06,
-    "trefferquote": 41.6,
-    "roi_prozent": -11.8
+    "einsatz": 79.0,
+    "netto": 4.42,
+    "trefferquote": 44.3,
+    "roi_prozent": 5.6
   },
   "letzte_90_tage": {
-    "tipps": 453,
-    "gewonnen": 239,
+    "tipps": 452,
+    "gewonnen": 238,
     "verloren": 203,
     "push": 2,
     "offen": 9,
-    "einsatz": 444.0,
-    "netto": 22.49,
-    "trefferquote": 54.1,
-    "roi_prozent": 5.1
+    "einsatz": 443.0,
+    "netto": 34.85,
+    "trefferquote": 54.0,
+    "roi_prozent": 7.9
   },
   "nach_liga": {
     "NBA Playoffs Round 1, Game 5": {
@@ -992,15 +992,15 @@
       "roi_prozent": -37.8
     },
     "UEFA Champions League - 2. Qualifikationsrunde": {
-      "tipps": 9,
-      "gewonnen": 3,
-      "verloren": 6,
+      "tipps": 20,
+      "gewonnen": 10,
+      "verloren": 10,
       "push": 0,
       "offen": 0,
-      "einsatz": 9.0,
-      "netto": 6.04,
-      "trefferquote": 33.3,
-      "roi_prozent": 67.1
+      "einsatz": 20.0,
+      "netto": 18.9,
+      "trefferquote": 50.0,
+      "roi_prozent": 94.5
     }
   },
   "nach_markt": {
@@ -1588,15 +1588,15 @@
       "roi_prozent": -100.0
     },
     "Ueber 2.5 Tore": {
-      "tipps": 30,
-      "gewonnen": 14,
-      "verloren": 14,
+      "tipps": 33,
+      "gewonnen": 16,
+      "verloren": 15,
       "push": 0,
       "offen": 2,
-      "einsatz": 28.0,
-      "netto": 5.78,
-      "trefferquote": 50.0,
-      "roi_prozent": 20.6
+      "einsatz": 31.0,
+      "netto": 8.98,
+      "trefferquote": 51.6,
+      "roi_prozent": 29.0
     },
     "Unter 3.5 Tore": {
       "tipps": 4,
@@ -4591,15 +4591,92 @@
       "roi_prozent": 189.0
     },
     "BTTS Ja": {
-      "tipps": 2,
-      "gewonnen": 0,
+      "tipps": 3,
+      "gewonnen": 1,
       "verloren": 2,
       "push": 0,
       "offen": 0,
-      "einsatz": 2.0,
+      "einsatz": 3.0,
+      "netto": 1.91,
+      "trefferquote": 33.3,
+      "roi_prozent": 63.7
+    },
+    "Crvena Zvezda Doppelte Chance 1X": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.05,
+      "trefferquote": 100.0,
+      "roi_prozent": 105.0
+    },
+    "Lech Poznan Doppelte Chance 1X": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
       "netto": 0.0,
       "trefferquote": 0.0,
       "roi_prozent": 0.0
+    },
+    "Fenerbahce Doppelte Chance X2": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.2,
+      "trefferquote": 100.0,
+      "roi_prozent": 120.0
+    },
+    "Kings Kangwa Torschuetze Jederzeit": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 2.5,
+      "trefferquote": 100.0,
+      "roi_prozent": 250.0
+    },
+    "Mikael Ishak Torschuetze Jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Vasilije Kostov Torschuetze Jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Anderson Talisca Torschuetze Jederzeit": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 3.0,
+      "trefferquote": 100.0,
+      "roi_prozent": 300.0
     }
   },
   "nach_markt_typ": {
@@ -4648,26 +4725,26 @@
       "roi_prozent": 21.4
     },
     "Doppelte Chance 1X": {
-      "tipps": 25,
-      "gewonnen": 17,
-      "verloren": 6,
+      "tipps": 27,
+      "gewonnen": 18,
+      "verloren": 7,
       "push": 0,
       "offen": 2,
-      "einsatz": 23.0,
-      "netto": -0.28,
-      "trefferquote": 73.9,
-      "roi_prozent": -1.2
+      "einsatz": 25.0,
+      "netto": 0.77,
+      "trefferquote": 72.0,
+      "roi_prozent": 3.1
     },
     "Torschuetzen Jederzeit": {
-      "tipps": 97,
-      "gewonnen": 34,
-      "verloren": 61,
+      "tipps": 101,
+      "gewonnen": 36,
+      "verloren": 63,
       "push": 2,
       "offen": 0,
-      "einsatz": 97.0,
-      "netto": 3.96,
-      "trefferquote": 35.8,
-      "roi_prozent": 4.1
+      "einsatz": 101.0,
+      "netto": 9.46,
+      "trefferquote": 36.4,
+      "roi_prozent": 9.4
     },
     "Unter 2.5 Tore": {
       "tipps": 26,
@@ -4692,26 +4769,26 @@
       "roi_prozent": 7.5
     },
     "Doppelte Chance X2": {
-      "tipps": 29,
-      "gewonnen": 21,
+      "tipps": 30,
+      "gewonnen": 22,
       "verloren": 6,
       "push": 0,
       "offen": 2,
-      "einsatz": 27.0,
-      "netto": 2.95,
-      "trefferquote": 77.8,
-      "roi_prozent": 10.9
+      "einsatz": 28.0,
+      "netto": 4.15,
+      "trefferquote": 78.6,
+      "roi_prozent": 14.8
     },
     "Beide Teams treffen JA": {
-      "tipps": 14,
-      "gewonnen": 5,
+      "tipps": 15,
+      "gewonnen": 6,
       "verloren": 7,
       "push": 0,
       "offen": 2,
-      "einsatz": 12.0,
-      "netto": -0.46,
-      "trefferquote": 41.7,
-      "roi_prozent": -3.8
+      "einsatz": 13.0,
+      "netto": 1.45,
+      "trefferquote": 46.2,
+      "roi_prozent": 11.2
     },
     "Raptors +3.5": {
       "tipps": 1,
@@ -4835,15 +4912,15 @@
       "roi_prozent": -100.0
     },
     "Ueber 2.5 Tore": {
-      "tipps": 43,
-      "gewonnen": 22,
-      "verloren": 19,
+      "tipps": 46,
+      "gewonnen": 24,
+      "verloren": 20,
       "push": 0,
       "offen": 2,
-      "einsatz": 41.0,
-      "netto": 7.68,
-      "trefferquote": 53.7,
-      "roi_prozent": 18.7
+      "einsatz": 44.0,
+      "netto": 10.88,
+      "trefferquote": 54.5,
+      "roi_prozent": 24.7
     },
     "Unter 3.5 Tore": {
       "tipps": 7,
@@ -5178,83 +5255,83 @@
   },
   "nach_quoten_range": {
     "1.00-1.50": {
-      "tipps": 173,
-      "gewonnen": 116,
-      "verloren": 53,
+      "tipps": 176,
+      "gewonnen": 118,
+      "verloren": 54,
       "push": 0,
       "offen": 4,
-      "einsatz": 169.0,
-      "netto": 7.2,
+      "einsatz": 172.0,
+      "netto": 9.45,
       "trefferquote": 68.6,
-      "roi_prozent": 4.3
+      "roi_prozent": 5.5
     },
     "1.50-2.00": {
-      "tipps": 203,
-      "gewonnen": 104,
-      "verloren": 94,
+      "tipps": 207,
+      "gewonnen": 107,
+      "verloren": 95,
       "push": 1,
       "offen": 4,
-      "einsatz": 199.0,
-      "netto": 14.59,
-      "trefferquote": 52.5,
-      "roi_prozent": 7.3
+      "einsatz": 203.0,
+      "netto": 19.7,
+      "trefferquote": 53.0,
+      "roi_prozent": 9.7
     },
     "2.00-3.00": {
-      "tipps": 73,
-      "gewonnen": 28,
-      "verloren": 43,
+      "tipps": 76,
+      "gewonnen": 29,
+      "verloren": 45,
       "push": 1,
       "offen": 1,
-      "einsatz": 72.0,
-      "netto": 3.86,
-      "trefferquote": 39.4,
-      "roi_prozent": 5.4
+      "einsatz": 75.0,
+      "netto": 6.36,
+      "trefferquote": 39.2,
+      "roi_prozent": 8.5
     },
     "3.00+": {
-      "tipps": 28,
-      "gewonnen": 7,
+      "tipps": 29,
+      "gewonnen": 8,
       "verloren": 21,
       "push": 0,
       "offen": 0,
-      "einsatz": 28.0,
-      "netto": 1.05,
-      "trefferquote": 25.0,
-      "roi_prozent": 3.8
+      "einsatz": 29.0,
+      "netto": 4.05,
+      "trefferquote": 27.6,
+      "roi_prozent": 14.0
     }
   },
   "nach_kategorie": {
     "safe": {
-      "tipps": 82,
-      "gewonnen": 54,
-      "verloren": 28,
+      "tipps": 85,
+      "gewonnen": 55,
+      "verloren": 30,
       "push": 0,
       "offen": 0,
-      "einsatz": 82.0,
-      "netto": 0.51,
-      "trefferquote": 65.9,
-      "roi_prozent": 0.6
+      "einsatz": 85.0,
+      "netto": 1.56,
+      "trefferquote": 64.7,
+      "roi_prozent": 1.8
     },
     "value": {
-      "tipps": 280,
-      "gewonnen": 154,
+      "tipps": 284,
+      "gewonnen": 158,
       "verloren": 115,
       "push": 2,
       "offen": 9,
-      "einsatz": 271.0,
-      "netto": 32.49,
-      "trefferquote": 57.2,
-      "roi_prozent": 12.0
+      "einsatz": 275.0,
+      "netto": 38.8,
+      "trefferquote": 57.9,
+      "roi_prozent": 14.1
     },
     "wackel": {
-      "tipps": 112,
-      "gewonnen": 46,
-      "verloren": 66,
+      "tipps": 116,
+      "gewonnen": 48,
+      "verloren": 68,
       "push": 0,
       "offen": 0,
-      "einsatz": 112.0,
-      "netto": -5.7,
-      "trefferquote": 41.1,
-      "roi_prozent": -5.1
+      "einsatz": 116.0,
+      "netto": -0.2,
+      "trefferquote": 41.4,
+      "roi_prozent": -0.2
     },
     "risiko": {
       "tipps": 3,
@@ -5307,6 +5384,271 @@
     }
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-07-29",
+      "gesamt": {
+        "tipps": 11,
+        "gewonnen": 7,
+        "verloren": 4,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 11.0,
+        "netto": 12.86,
+        "trefferquote": 63.6,
+        "roi_prozent": 116.9
+      },
+      "spiele": [
+        {
+          "id": "2026-07-29-crv-lar",
+          "liga": "UEFA Champions League - 2. Qualifikationsrunde",
+          "heim": "FK Crvena Zvezda",
+          "gast": "Larne FC",
+          "endstand": "5:0",
+          "tipps": [
+            {
+              "markt": "Crvena Zvezda Doppelte Chance 1X",
+              "quote": 1.05,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.05,
+              "kommentar": "Crvena Zvezda gewinnt 5:0 - DC 1X = Sieg"
+            },
+            {
+              "markt": "Vasilije Kostov Torschuetze Jederzeit",
+              "quote": 2.2,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Kostov nicht in Torschuetzenliste (Katai, Arnautovic 2x, Loizou, Bukari). Rotation vor CL Q3 - Kostov offenbar nicht in Startelf. Einwechslungs-Boost-Ersatz Bukari-Tor unklar zuordenbar."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.5,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.5,
+              "kommentar": "5 Tore > 2.5"
+            }
+          ]
+        },
+        {
+          "id": "2026-07-29-lec-agf",
+          "liga": "UEFA Champions League - 2. Qualifikationsrunde",
+          "heim": "Lech Poznan",
+          "gast": "AGF Aarhus",
+          "endstand": "1:4 n.V. (Pen 3:4)",
+          "tipps": [
+            {
+              "markt": "Lech Poznan Doppelte Chance 1X",
+              "quote": 1.2,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Lech verlor 0:3 in 90min (bet365 DC bezieht sich auf 90min). Aggregat-Drehung 4:1 verspielt."
+            },
+            {
+              "markt": "Mikael Ishak Torschuetze Jederzeit",
+              "quote": 2.3,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Ishak nicht Torschuetze. Lech-Tor kam von Jagiello (Verlaengerung)."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.7,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.7,
+              "kommentar": "3 Tore in 90min = Ueber 2.5 (bet365 Ueber/Unter bezieht sich auf 90min inkl. Nachspielzeit)"
+            }
+          ]
+        },
+        {
+          "id": "2026-07-29-gor-fen",
+          "liga": "UEFA Champions League - 2. Qualifikationsrunde",
+          "heim": "Gornik Zabrze",
+          "gast": "Fenerbahce",
+          "endstand": "1:1",
+          "tipps": [
+            {
+              "markt": "Fenerbahce Doppelte Chance X2",
+              "quote": 1.2,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.2,
+              "kommentar": "Fenerbahce Remis 1:1 = DC X2 gewonnen"
+            },
+            {
+              "markt": "Anderson Talisca Torschuetze Jederzeit",
+              "quote": 3.0,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 3.0,
+              "kommentar": "Talisca-Elfmeter 12'"
+            }
+          ]
+        },
+        {
+          "id": "2026-07-29-cra-lev",
+          "liga": "UEFA Champions League - 2. Qualifikationsrunde",
+          "heim": "CS Universitatea Craiova",
+          "gast": "Levski Sofia",
+          "endstand": "2:2",
+          "tipps": [
+            {
+              "markt": "BTTS Ja",
+              "quote": 1.91,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.91,
+              "kommentar": "BTTS Ja - beide trafen"
+            }
+          ]
+        },
+        {
+          "id": "2026-07-29-hbs-vik",
+          "liga": "UEFA Champions League - 2. Qualifikationsrunde",
+          "heim": "Hapoel Beer Sheva",
+          "gast": "Vikingur Reykjavik",
+          "endstand": "2:0",
+          "tipps": [
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.65,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Nur 2 Tore, Ueber 2.5 verloren"
+            },
+            {
+              "markt": "Kings Kangwa Torschuetze Jederzeit",
+              "quote": 2.5,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 2.5,
+              "kommentar": "Kangwa Torschuetze bestaetigt"
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Anker Goldgrube-Doppel-Kombi",
+          "kategorie": "safe",
+          "gesamtquote": 3.15,
+          "einsatz_prozent": 2.0,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Hapoel Beer Sheva - Vikingur Reykjavik: Ueber 2.5 Tore",
+              "quote": 1.65,
+              "status": "verloren",
+              "kommentar": "Nur 2 Tore, Ueber 2.5 verloren"
+            },
+            {
+              "markt": "CS Universitatea Craiova - Levski Sofia: BTTS Ja",
+              "quote": 1.91,
+              "status": "gewonnen",
+              "kommentar": "BTTS Ja - beide trafen"
+            }
+          ]
+        },
+        {
+          "name": "Balance Star-Sturm + Auswaerts-Klasse",
+          "kategorie": "value",
+          "gesamtquote": 6.9,
+          "einsatz_prozent": 0.8,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Hapoel Beer Sheva - Vikingur Reykjavik: Kings Kangwa Torschuetze Jederzeit",
+              "quote": 2.5,
+              "status": "gewonnen",
+              "kommentar": "Kangwa Torschuetze bestaetigt"
+            },
+            {
+              "markt": "Lech Poznan - AGF Aarhus: Mikael Ishak Torschuetze Jederzeit",
+              "quote": 2.3,
+              "status": "verloren",
+              "kommentar": "Ishak nicht Torschuetze. Lech-Tor kam von Jagiello (Verlaengerung)."
+            },
+            {
+              "markt": "Gornik Zabrze - Fenerbahce: Fenerbahce Doppelte Chance X2",
+              "quote": 1.2,
+              "status": "gewonnen",
+              "kommentar": "Fenerbahce Remis 1:1 = DC X2 gewonnen"
+            }
+          ]
+        },
+        {
+          "name": "Risiko Torschuetzen-Triple",
+          "kategorie": "risk",
+          "gesamtquote": 16.5,
+          "einsatz_prozent": 0.25,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Gornik Zabrze - Fenerbahce: Anderson Talisca Torschuetze Jederzeit",
+              "quote": 3.0,
+              "status": "gewonnen",
+              "kommentar": "Talisca-Elfmeter 12'"
+            },
+            {
+              "markt": "FK Crvena Zvezda - Larne FC: Vasilije Kostov Torschuetze Jederzeit",
+              "quote": 2.2,
+              "status": "verloren",
+              "kommentar": "Kostov nicht in Torschuetzenliste (Katai, Arnautovic 2x, Loizou, Bukari). Rotation vor CL Q3 - Kostov offenbar nicht in Startelf. Einwechslungs-Boost-Ersatz Bukari-Tor unklar zuordenbar."
+            },
+            {
+              "markt": "Hapoel Beer Sheva - Vikingur Reykjavik: Kings Kangwa Torschuetze Jederzeit",
+              "quote": 2.5,
+              "status": "gewonnen",
+              "kommentar": "Kangwa Torschuetze bestaetigt"
+            }
+          ]
+        },
+        {
+          "name": "Moonshot 5-Torschuetzen-Regenbogen",
+          "kategorie": "moonshot",
+          "gesamtquote": 172.68,
+          "einsatz_prozent": 0.1,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Gornik Zabrze - Fenerbahce: Anderson Talisca Torschuetze Jederzeit",
+              "quote": 3.0,
+              "status": "gewonnen",
+              "kommentar": "Talisca-Elfmeter 12'"
+            },
+            {
+              "markt": "Lech Poznan - AGF Aarhus: Mikael Ishak Torschuetze Jederzeit",
+              "quote": 2.3,
+              "status": "verloren",
+              "kommentar": "Ishak nicht Torschuetze. Lech-Tor kam von Jagiello (Verlaengerung)."
+            },
+            {
+              "markt": "FK Crvena Zvezda - Larne FC: Vasilije Kostov Torschuetze Jederzeit",
+              "quote": 2.2,
+              "status": "verloren",
+              "kommentar": "Kostov nicht in Torschuetzenliste (Katai, Arnautovic 2x, Loizou, Bukari). Rotation vor CL Q3 - Kostov offenbar nicht in Startelf. Einwechslungs-Boost-Ersatz Bukari-Tor unklar zuordenbar."
+            },
+            {
+              "markt": "Hapoel Beer Sheva - Vikingur Reykjavik: Nikolaj Hansen Torschuetze Jederzeit",
+              "quote": 3.25,
+              "status": "verloren",
+              "kommentar": "Hansen (Vikingur) nicht Torschuetze - Vikingur zu Null"
+            },
+            {
+              "markt": "CS Universitatea Craiova - Levski Sofia: Everton Bala Torschuetze Jederzeit",
+              "quote": 3.5,
+              "status": "gewonnen",
+              "kommentar": "Bala Tor 12'"
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-07-28",
       "gesamt": {

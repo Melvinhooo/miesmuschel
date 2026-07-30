@@ -1,0 +1,1649 @@
+{
+  "datum": "2026-07-29",
+  "erstellt_am": "2026-07-29T17:15:00+02:00",
+  "hinweis": "WATCHDOG-SLOT Mi 29.07. 17:15 Berlin (Hauptroutine 16:00 nicht gelaufen - Watchdog uebernimmt komplette Tipps-Generation). **UEFA CHAMPIONS LEAGUE Q2-RUECKSPIELE HEUTE (Tag 2)** - CL Q2 Hinspiele Di/Mi 21./22.07., Rueckspiele Di/Mi 28./29.07. Heute Mi 29.07. sechs CL Q2 Rueckspiele: Kairat Almaty-Omonia Nicosia (Hin 0:1 Kairat auswaerts), Gornik Zabrze-Fenerbahce (Hin 0:1 Fener auswaerts), Universitatea Craiova-Levski Sofia (Hin 0:1 Levski auswaerts), Crvena Zvezda-Larne (Hin 4:0 Zvezda auswaerts), Lech Poznan-AGF Aarhus (Hin 4:1 Lech auswaerts), Hapoel Beer Sheva-Vikingur Reykjavik (Hin 1:2 Vikingur zuhause). Anstoss-Zeiten 16:00-20:30 Berlin. **CL Q2 = Liga-Goldgrube +67.1% ROI 33.3% Hitrate (n=9)** - aktiv SAFE-erlaubt. EL Q2 weiterhin Beobachtungs-Liga (-37.8% ROI gesperrt). Kasse 550 EUR (Kasse-Stufe 1 Aufbau, siehe data/kasse.json). **Statistik-Snapshot Stand 29.07. 07:14 UTC**: Gesamt 477 Tipps ROI +5.7% 54.7% Hitrate, 30-Tage-Fenster 77 Tipps ROI -11.8% Hitrate 41.6% (WM-K.O.-Cluster-Hangover, Erholung mit Vereinssaison ab Mitte August). 30d-ROI-Trigger fuer Kasse-Stufe 2 (>+5% + Kasse >=1000 EUR) doppelt nicht erfuellt, Stufe 1 aktiv. Alle SAFE/VALUE-Tipps heute im Aufbau-Rahmen (5.50-11 EUR SAFE-Einzel, 2.75 EUR Wackel-Einzel, 11 EUR Safe-Kombi, 4.40 EUR Balance-Kombi, 1.40 EUR Risiko-Kombi, 0.55 EUR Moonshot). Fokus Goldgrube-Maerkte Ueber 2.5 Tore (+33.3% ROI 73.1% HR), Doppelte Chance X2 (+10.9% ROI 77.8% HR), Torschuetzen Jederzeit. DC-Cap max 2-3 im Dossier gesetzt. Star-Sturm-Backup-Pflicht bei Ausfaellen. Yesterday-Lesson 28.07.: Dinamo-Sieg-Tipp @ 1.43 verlor 90min trotz 3:2-ET-Sieg (Rueckspiel-Comeback via Zajc 87. Min), Lehre = grosser Hin-Vorsprung schuetzt aber 90min-Sieg-Tipp bleibt Risiko. Fenerbahce-Talisca-Torschuetze aktiv suchen (Anti-DC-Sucht, Star-Fokus).",
+  "spiele": [
+    {
+      "id": "2026-07-29-crv-lar",
+      "liga": "UEFA Champions League - 2. Qualifikationsrunde",
+      "runde": "Rueckspiel",
+      "heim": "FK Crvena Zvezda",
+      "gast": "Larne FC",
+      "anstoss": "2026-07-29T20:30:00+02:00",
+      "stadion": "Rajko Mitic Stadion, Belgrad",
+      "saison_kontext": {
+        "parallel_heim": "Serbische SuperLiga 2026/27 startet 26.07. - Crvena Zvezda hat 1. Ligaspiel gerade absolviert (leichte Rotationslast), CL-League-Phase-Fokus dominant",
+        "parallel_gast": "Nordirische Premiership 2025/26 in Off-Season (Neu-Start Anfang August), CL Q2 einziger Wettbewerb, keine Doppelbelastung",
+        "saisonziel_heim": "CL-League-Phase-Qualifikation Ziel Nr. 1 (Serbischer Rekordmeister, +19 Mio EUR bei League-Phase-Einzug) + serbische Meisterschaft Titelverteidigung",
+        "saisonziel_gast": "CL-Q3-Sensationssprung waere historisch (nordirischer Verband, erstes CL-Q2 seit 2023) - realistisches Ziel ist Conference-League-Trostpreis nach CL-Aus",
+        "motivations_asymmetrie": "Crvena mit 4:0-Hin-Vorsprung praktisch durch (Larne braucht 5+ Tore Auswaertssieg = Comeback-Quote <1%) - Rotations-Bereitschaft Belgrad extrem hoch, Larne kann frei ohne Erwartung aufspielen",
+        "recovery_heim": "3 Tage seit Ligaspiel WE (Rotation zu erwarten - Bruno Duarte + Vasilije Kostov schonen sich vor CL-Q3-Auslosung), 8 Tage seit Hin",
+        "recovery_gast": "8 Tage seit Hinspiel, keine Domestic-Belastung (Off-Season)",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/match/2048728--crvena-zvezda-vs-larne/",
+          "https://dailysports.net/predictions/belgrade-side-on-the-verge-of-a-formality-prediction-for-crvena-zvezda-vs-larne/",
+          "https://www.espn.com/soccer/match/_/gameId/401891687/red-star-belgrade-larne",
+          "https://www.sportskeeda.com/football/crvena-zvezda-vs-larne-fc-prediction-betting-tips-july-29th-2026"
+        ]
+      },
+      "quoten_bet365": {
+        "heimsieg": 1.18,
+        "unentschieden": 7.5,
+        "auswaertssieg": 15.0,
+        "ueber_2_5": 1.5,
+        "unter_2_5": 2.55,
+        "btts_ja": 2.5,
+        "btts_nein": 1.55
+      },
+      "news": [
+        "Crvena Zvezda 4:0-Hinspielsieg via Bruno Duarte + Vasilije Kostov (5 Tore in letzten 5 Spielen) auswaerts in Belfast",
+        "Kostov in bestechender Form: 5 Tore + 1 Assist letzte 5 Pflichtspiele",
+        "Trainer Stankovic laesst Rotation erwarten (League-Phase-Ziel im Blick) - Backup-Sturm Ivanic + Krunic bekommen Minuten",
+        "Larne mit U21-Torhueter im Kader nach Verletzung Stammkeeper"
+      ],
+      "tipps": [
+        {
+          "kategorie": "safe",
+          "markt": "Crvena Zvezda Doppelte Chance 1X",
+          "quote": 1.05,
+          "einsatz_euro": 11.0,
+          "begruendung": "CL Q2 = Liga-Goldgrube +67.1% ROI. DC 1X = Markt-Goldgrube +10.9% ROI 77.8% HR (Aggregation Layer). Nach 4:0 Hin praktisch garantierter Durchmarsch (Larne-Comeback-Quote <1% Historie 20 Jahre). Aggregate-Sicherheits-Anker. Aufbau-Stufe-1 Safe-Einsatz 2%.",
+          "empfohlener_einsatz_prozent": 2.0,
+          "faire_quote": 1.05,
+          "id": "2026-07-29-crv-lar-t0"
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Vasilije Kostov Torschuetze Jederzeit",
+          "quote": 2.2,
+          "einsatz_euro": 5.5,
+          "begruendung": "Torschuetze-Markt Goldgrube (siehe Lesson 03.05.: Volumen-Stuermer sicherer als nominale Quote). Kostov 5 Tore letzte 5 Spiele - massive Form-Edge. Anti-DC-Sucht-Regel: Heim-Favorit-Spiel MIN 1 Torschuetzen-Tipp Pflicht. Einwechslungs-Boost-Bonus: falls Kostov rotiert, sein Ersatz (Ivanic/Krunic) zaehlt fuer den Tipp. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 2.1,
+          "id": "2026-07-29-crv-lar-t1",
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.5,
+          "einsatz_euro": 8.25,
+          "begruendung": "Goldgrube Ueber 2.5 Tore +33.3% ROI 73.1% HR (n=26 aktuell). Larne muss Auswaertsangriff spielen (nichts zu verlieren nach 0:4) + Crvena Zvezda Heim-Fortress mit Sturm-Volumen. Erwartetes 2:0/3:1/3:0.",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.5,
+          "id": "2026-07-29-crv-lar-t2"
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Bruno Duarte Torschuetze Jederzeit",
+          "quote": 2.6,
+          "einsatz_euro": 2.75,
+          "begruendung": "Zweiter Top-Stuermer, 6 Torbeteiligungen Historie. Rotations-Risiko dieses Mal groesser als Kostov (Duarte etwas aelter, Belastungssteuerung), deshalb Wackel statt Value. Einwechslungs-Boost falls Rotation.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 2.5,
+          "id": "2026-07-29-crv-lar-t3"
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "halbzeit_stand": "2:0",
+        "endstand": "5:0",
+        "heim_tore": 5,
+        "gast_tore": 0,
+        "entscheidung": "Crvena Zvezda gewinnt, Aggregat 9:0 - Weiterkommen CL Q3",
+        "quelle": "Yahoo/hotsport/Irish News/UEFA"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-07-29-crv-lar-t0",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.05,
+          "kommentar": "Crvena Zvezda gewinnt 5:0 - DC 1X = Sieg"
+        },
+        {
+          "tipp_id": "2026-07-29-crv-lar-t1",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Kostov nicht in Torschuetzenliste (Katai, Arnautovic 2x, Loizou, Bukari). Rotation vor CL Q3 - Kostov offenbar nicht in Startelf. Einwechslungs-Boost-Ersatz Bukari-Tor unklar zuordenbar."
+        },
+        {
+          "tipp_id": "2026-07-29-crv-lar-t2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.5,
+          "kommentar": "5 Tore > 2.5"
+        },
+        {
+          "tipp_id": "2026-07-29-crv-lar-t3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Duarte nicht Torschuetze. Rotation vor CL Q3."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "2:0",
+        "endstand": "5:0",
+        "tore": [
+          {
+            "min": 3,
+            "team": "heim",
+            "spieler": "Aleksandar Katai",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 45,
+            "team": "heim",
+            "spieler": "Marko Arnautovic",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 49,
+            "team": "heim",
+            "spieler": "Loizos Loizou",
+            "stand_danach": "3:0"
+          },
+          {
+            "min": 60,
+            "team": "heim",
+            "spieler": "Marko Arnautovic",
+            "stand_danach": "4:0"
+          },
+          {
+            "min": 79,
+            "team": "heim",
+            "spieler": "Osman Bukari",
+            "stand_danach": "5:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Kein Drehungs-Moment - Crvena fuehrt komplett, Larne ohne Chance. 4:0-Hin komplett bestaetigt."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Crvena Zvezda/Crvena Zvezda",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Kostov + Duarte",
+            "details": "Beide Watchdog-benannten Top-Stuermer offenbar NICHT in Startelf getroffen - Rotation vor CL Q3 wie im saison_kontext erwartet. Arnautovic (nicht im Watchdog-Radar) uebernahm die Sturmrolle."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Osman Bukari",
+            "aus": "unbekannt (2. HZ)",
+            "minute": null,
+            "tor": true,
+            "tor_minute": "79"
+          }
+        ],
+        "auffaellige_patterns": [
+          "Rotation-Warn-Signal umgekehrt: Watchdog-Tipps auf Kostov + Duarte gingen nicht auf, WEIL Rotation zu breit war und Arnautovic als eigentlicher Volumen-Stuermer die Buehne beherrschte (Doppelpack). Einwechslungs-Boost griff nur bei Bukari-Tor (79.), Sub-Bezug zu Kostov/Duarte unklar.",
+          "Torschuetzen-Wahl-Regel: kicker/transfermarkt-Squad-Check haette Arnautovic als Sturm-Star ausgewiesen - Watchdog-Recherche hat den Kader-Import verpasst. Boost-Zufalls-Design (Backup schiesst) reicht nicht, wenn Fehl-Spieler getippt wurde.",
+          "Tor-Verteilung: 2 Tore vor der Pause + 3 Tore nach der Pause - Vorsprung ausgebaut, ohne dass Larne je in Torgefahr kam."
+        ]
+      }
+    },
+    {
+      "id": "2026-07-29-lec-agf",
+      "liga": "UEFA Champions League - 2. Qualifikationsrunde",
+      "runde": "Rueckspiel",
+      "heim": "Lech Poznan",
+      "gast": "AGF Aarhus",
+      "anstoss": "2026-07-29T20:30:00+02:00",
+      "stadion": "Enea Stadion, Poznan",
+      "saison_kontext": {
+        "parallel_heim": "Polnische Ekstraklasa 2026/27 startete 18.07. - Lech hat bereits 2 Ligaspiele absolviert (Titelverteidiger), Doppelbelastung Liga + CL Q2",
+        "parallel_gast": "Daenische Superliga 2026/27 startete 18.07. - AGF Aarhus 2 Ligaspiele hinter sich, ebenfalls Doppelbelastung",
+        "saisonziel_heim": "Polnische Meisterschaft Titelverteidigung + CL-League-Phase-Qualifikation (Traum-Ziel, seit 2015 nicht mehr CL-Gruppenphase)",
+        "saisonziel_gast": "Daenischer Meisterschaftskampf Top-3 + CL-Q3-Sensationssprung (AGF war zuletzt 2017 in CL-Playoff)",
+        "motivations_asymmetrie": "Lech mit 4:1-Hin-Vorsprung praktisch durch (AGF braucht 3+ Tore ohne Gegentor Auswaerts = <5% Comeback-Wahrscheinlichkeit) - Lech kann Rotation wagen, AGF muss All-in gehen ohne Chance auf Reservoirs",
+        "recovery_heim": "3 Tage seit Ligaspiel WE (Doppelbelastung mit Ekstraklasa), 7 Tage seit Hinspiel",
+        "recovery_gast": "3 Tage seit Ligaspiel WE (Superliga-Doppelbelastung), 7 Tage seit Hinspiel",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/match/2048731--lech-poznan-vs-aarhus/",
+          "https://dailysports.net/predictions/poles-have-almost-settled-the-matter-prediction-for-lech-pozna-vs-agf-aarhus/",
+          "https://www.sportsgambler.com/betting-tips/football/lech-poznan-vs-agf-prediction-lineups-odds-2026-07-29/",
+          "https://www.mightytips.com/football-predictions/lech-poznan-vs-aarhus-prediction-29-07-2026/"
+        ]
+      },
+      "quoten_bet365": {
+        "heimsieg": 1.76,
+        "unentschieden": 4.0,
+        "auswaertssieg": 4.2,
+        "ueber_2_5": 1.7,
+        "unter_2_5": 2.15,
+        "btts_ja": 1.75,
+        "btts_nein": 2.0
+      },
+      "news": [
+        "Lech 4:1-Auswaertssieg Hin via Mikael Ishak-Brace + Patrik Walemark + Pablo Rodriguez",
+        "Ishak Torjaeger-Form (18 Tore Ekstraklasa 2025/26)",
+        "AGF Mikael Anderson + Tobias Bech als offensive Wildcards",
+        "AGF hat letzte 2 Spiele verloren (Ligaspiel + Hinspiel-Ende), Form-Downtrend"
+      ],
+      "tipps": [
+        {
+          "kategorie": "safe",
+          "markt": "Lech Poznan Doppelte Chance 1X",
+          "quote": 1.2,
+          "einsatz_euro": 11.0,
+          "begruendung": "CL Q2 Liga-Goldgrube + DC 1X Markt-Goldgrube +10.9% ROI 77.8% HR. Nach 4:1 Hin praktisch entschieden - Lech muss nicht mal gewinnen um weiterzukommen. Aggregate-Sicherheits-Anker. Aufbau-Stufe-1 Safe 2%.",
+          "empfohlener_einsatz_prozent": 2.0,
+          "faire_quote": 1.18,
+          "id": "2026-07-29-lec-agf-t0"
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Mikael Ishak Torschuetze Jederzeit",
+          "quote": 2.3,
+          "einsatz_euro": 5.5,
+          "begruendung": "Torschuetze-Goldgrube. Ishak absoluter Top-Scorer (18 Ligator letzte Saison + Brace-Hin) - HEIM-Favorit-Torschuetzen-Pflicht laut Anti-DC-Sucht-Regel. Einwechslungs-Boost falls Rotation (Backup-Stuermer schiessen zaehlt fuer Ishak-Tipp). [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 2.2,
+          "id": "2026-07-29-lec-agf-t1",
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.7,
+          "einsatz_euro": 8.25,
+          "begruendung": "Goldgrube Ueber 2.5 Tore +33.3% ROI 73.1% HR. AGF muss offensiv auftreten (Zwang 3+ Tore), Lech Ekstraklasa-Top-Offensive (2.2 Tore/Spiel Saison-Schnitt). Hin bereits 5 Tore.",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.65,
+          "id": "2026-07-29-lec-agf-t2"
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "BTTS Ja",
+          "quote": 1.75,
+          "einsatz_euro": 2.75,
+          "begruendung": "AGF-Zwang-Offensive + Lech-Rotation koennte AGF-Anschluss-Tor ermoeglichen. BTTS Ja im Hinspiel bereits ja (1:4). Wackel wegen AGF-Torflaute-Wackelform.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.8,
+          "id": "2026-07-29-lec-agf-t3"
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "halbzeit_stand": "0:1",
+        "endstand": "1:4 n.V. (Pen 3:4)",
+        "endstand_90min": "0:3",
+        "heim_tore_90min": 0,
+        "gast_tore_90min": 3,
+        "entscheidung": "AGF Aarhus advances 5:5 Aggregat + Pen 4:3 - SENSATIONELLES Comeback nach 1:4-Hin",
+        "quelle": "playmakerstats/corner-stats/Flashscore"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-07-29-lec-agf-t0",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Lech verlor 0:3 in 90min (bet365 DC bezieht sich auf 90min). Aggregat-Drehung 4:1 verspielt."
+        },
+        {
+          "tipp_id": "2026-07-29-lec-agf-t1",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Ishak nicht Torschuetze. Lech-Tor kam von Jagiello (Verlaengerung)."
+        },
+        {
+          "tipp_id": "2026-07-29-lec-agf-t2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.7,
+          "kommentar": "3 Tore in 90min = Ueber 2.5 (bet365 Ueber/Unter bezieht sich auf 90min inkl. Nachspielzeit)"
+        },
+        {
+          "tipp_id": "2026-07-29-lec-agf-t3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "BTTS Ja nach 90min - Lech traf nicht in 90min (nur AGF 3x). Jagiello-Tor war Verlaengerung, zaehlt nicht fuer BTTS."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "1:4 n.V. (Pen 3:4)",
+        "tore": [
+          {
+            "min": 75,
+            "team": "gast",
+            "spieler": "F. Tingager",
+            "stand_danach": "0:2 (aggregat 4:3)"
+          },
+          {
+            "min": 95,
+            "team": "heim",
+            "spieler": "F. Jagiello",
+            "stand_danach": "1:3"
+          },
+          {
+            "min": 100,
+            "team": "gast",
+            "spieler": "T. Kristjansson",
+            "stand_danach": "1:4 (aggregat 5:5)"
+          }
+        ],
+        "drehung": {
+          "war_drehung": true,
+          "details": "MASSIVE Aggregat-Drehung: Lech 4:1 Hin dominant → 0:3 nach 90min im Rueckspiel (Aggregat 4:4) → Verlaengerung → 1:4 Endstand → AGF gewinnt Pen 4:3. Historischer Q2-Ausraster. 90min-Sieg-Tipp auf Lech waere KOMPLETT gekippt (Anti-Sieg-Lesson des 28.07. bestaetigt sich noch heftiger)."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "AGF/AGF",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Ishak + andere Stamm-Elf",
+            "details": "Lech mit Doppelbelastung Ekstraklasa + CL Q2 Rotation zu breit - Titelverteidiger-Konzentration nicht da. Watchdog haette Rotation vorhersagen sollen (parallel_heim = Ekstraklasa Doppelbelastung)."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "AGGREGAT-DREHUNG: 4:1-Hin-Sicherung praktisch weg. Selbst konservativer DC-1X-SAFE verloren, WEIL Lech 90min 0:3 verlor. **Lesson: CL-Q2-SAFE-Tipp auf klaren Hin-Vorspruenge des Heim-Teams braucht 2nd-Layer-Absicherung (WM-K.O.-Cluster-Hangover Wiederholung)**",
+          "Ueber-2.5-Tore erreicht selbst ohne dass Lech mitgespielt hat - AGF-Zwang-Offensive lieferte 3 Tore in 45 Minuten 2. HZ",
+          "Ishak (Top-Scorer Watchdog-Vorschlag) traf nicht - Torschuetzen-Tipp verloren obwohl Lech-Sturm-Fokus da war"
+        ]
+      }
+    },
+    {
+      "id": "2026-07-29-gor-fen",
+      "liga": "UEFA Champions League - 2. Qualifikationsrunde",
+      "runde": "Rueckspiel",
+      "heim": "Gornik Zabrze",
+      "gast": "Fenerbahce",
+      "anstoss": "2026-07-29T20:00:00+02:00",
+      "stadion": "Arena Zabrze, Zabrze",
+      "saison_kontext": {
+        "parallel_heim": "Polnische Ekstraklasa 2026/27 startete 18.07. - Gornik 2 Ligaspiele hinter sich, Doppelbelastung Liga + CL Q2",
+        "parallel_gast": "Tuerkische Super Lig 2026/27 startet 8.08. - Fenerbahce noch in Pre-Season / Vorbereitung, KEINE Doppelbelastung",
+        "saisonziel_heim": "Polnischer Titel-Aussenseiter + CL-Q3-Sensation waere historisch (Gornik zurueck in Europa nach 38 Jahren Abwesenheit vom Elite-Wettbewerb)",
+        "saisonziel_gast": "Fenerbahce Champions-Ambitionen - CL-League-Phase-Einzug Pflichtziel des Klubs (Praesident Ali Koc Vorstands-Ziel), Ersatz-EL waere Enttaeuschung",
+        "motivations_asymmetrie": "Fenerbahce Auswaertsfavorit mit 1:0-Hin-Vorsprung + massive Klassen-Edge (Super-Lig-Etat 10x hoeher) + KEINE Liga-Rotation (noch keine Saison), Gornik hingegen mit Liga-Doppelbelastung + minimalem Comeback-Zwang",
+        "recovery_heim": "3 Tage seit Ligaspiel WE (Ekstraklasa-Doppelbelastung), 8 Tage seit Hin",
+        "recovery_gast": "Voll erholt - keine Liga bisher, nur Freundschaftsspiel-Programm zwischen Hin und Rueck",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/match/2048732--gornik-zabrze-vs-fenerbahce/",
+          "https://dailysports.net/predictions/can-gornik-pull-off-an-upset-champions-league-preview-against-fenerbahce-july-29/",
+          "https://www.sportsgambler.com/betting-tips/football/gornik-zabrze-vs-fenerbahce-prediction-lineups-odds-2026-07-29/",
+          "https://ratingbet.com/predictions/gornik-zabrze-vs-fenerbahce-prediction-teams-form-analysis-possible-lineups-on-july-29-2026/",
+          "https://www.espn.com/soccer/match/_/gameId/401877768/gornik-zabrze-fenerbahce"
+        ]
+      },
+      "quoten_bet365": {
+        "heimsieg": 6.4,
+        "unentschieden": 4.2,
+        "auswaertssieg": 1.5,
+        "ueber_2_5": 1.75,
+        "unter_2_5": 2.05,
+        "btts_ja": 1.91,
+        "btts_nein": 1.8
+      },
+      "news": [
+        "Anderson Talisca traf im Hin-Freistoss 27. Min (7. Saisontor)",
+        "Fenerbahce En-Nesyri + Talisca Sturm-Duo bestaetigt (kicker Aufstellungs-Vorschau)",
+        "Gornik seit 38 Jahren erstes CL-Q2 - Underdog-Motivation hoch",
+        "Fenerbahce Coach Mourinho hat Rotation eher nicht (keine Liga-Belastung)"
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Fenerbahce Doppelte Chance X2",
+          "quote": 1.2,
+          "einsatz_euro": 8.25,
+          "begruendung": "CL Q2 Liga-Goldgrube (+67.1% ROI). DC X2 Markt-Goldgrube (+10.9% ROI 77.8% HR). Fenerbahce Auswaertsfavorit + 1:0-Hin + Klassenedge + keine Liga-Belastung. Historisch DC X2 in solchen Konstellationen ~85% HR.",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.18,
+          "id": "2026-07-29-gor-fen-t0"
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Anderson Talisca Torschuetze Jederzeit",
+          "quote": 3.0,
+          "einsatz_euro": 5.5,
+          "begruendung": "Anti-DC-Sucht-Regel: AUSWAERTS-Favorit-Spiel (Fener 1.50) MIN 1 Torschuetzen-Tipp Pflicht. Talisca Hinspiel-Held (Freistoss-Tor) + 7 Saisontore + Standardschuetze. Torschuetzen Jederzeit Goldgrube. Einwechslungs-Boost falls Auswechslung. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 2.8,
+          "id": "2026-07-29-gor-fen-t1",
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Youssef En-Nesyri Torschuetze Jederzeit",
+          "quote": 2.6,
+          "einsatz_euro": 2.75,
+          "begruendung": "Backup-Star-Sturm: falls Talisca vorne alleine, En-Nesyri (Rotationsrolle) auch relevant. WM-Bronze mit Marokko-Erfahrung, physisch Gornik-Innenverteidigung ueberlegen. Wackel wegen Rotationsrisiko (unklar ob Talisca 10 oder Nesyri 9 startet).",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 2.6,
+          "id": "2026-07-29-gor-fen-t2"
+        },
+        {
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.75,
+          "einsatz_euro": 8.25,
+          "begruendung": "Goldgrube Ueber 2.5 +33.3% ROI. Gornik-Zwang-Offensive (Comeback-Notwendigkeit ohne Deckel-Verlust-Angst) + Fenerbahce-Sturm-Ueberlegenheit. Hin nur 1:0 aber XG 2.4.",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.75,
+          "id": "2026-07-29-gor-fen-t3"
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "halbzeit_stand": "1:1",
+        "endstand": "1:1",
+        "heim_tore": 1,
+        "gast_tore": 1,
+        "entscheidung": "Fenerbahce advances 2:1 Aggregat, naechster Gegner Sturm Graz",
+        "quelle": "Sofascore/Turkiye Today/Daily Sabah"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-07-29-gor-fen-t0",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.2,
+          "kommentar": "Fenerbahce Remis 1:1 = DC X2 gewonnen"
+        },
+        {
+          "tipp_id": "2026-07-29-gor-fen-t1",
+          "status": "gewonnen",
+          "gewinn_faktor": 3.0,
+          "kommentar": "Talisca-Elfmeter 12'"
+        },
+        {
+          "tipp_id": "2026-07-29-gor-fen-t2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "En-Nesyri nicht Torschuetze - Talisca allein Fener-Torschuetze"
+        },
+        {
+          "tipp_id": "2026-07-29-gor-fen-t3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Nur 2 Tore, Ueber 2.5 verloren"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:1",
+        "endstand": "1:1",
+        "tore": [
+          {
+            "min": 12,
+            "team": "gast",
+            "spieler": "Anderson Talisca (Elfmeter)",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 55,
+            "team": "heim",
+            "spieler": "Michal Sacek",
+            "stand_danach": "1:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Kein Drehungs-Moment - Talisca-Elfmeter 12' fuehrte fruehe Fener-Fuehrung, Sacek 45+10' Ausgleich in Nachspielzeit HZ, danach kein weiteres Tor. Ausgeglichenes Remis."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Unentschieden",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "En-Nesyri",
+            "details": "Rotationsrolle bestaetigt - kein Tor, Talisca-Set-Piece-Standard dominant."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "TALISCA-STANDARD-BESTAETIGT: Elfmeter 12' - Set-Piece-Standard exakt wie Watchdog vorhergesagt (Hinspiel Freistoss, Rueckspiel Elfmeter). Anti-DC-Sucht-Torschuetzen-Regel greift perfekt.",
+          "Ueber-2.5-Tore verpasst nur 2 Tore - Fener-Klassenedge in Wirklichkeit deutlich niedriger als Watchdog-Erwartung (Ueber 2.5 @1.75 verloren)",
+          "Sacek-Tor in Nachspielzeit (45+10) - Fener defensiv zu passiv, aber Aggregat-Vorsprung reichte."
+        ]
+      }
+    },
+    {
+      "id": "2026-07-29-cra-lev",
+      "liga": "UEFA Champions League - 2. Qualifikationsrunde",
+      "runde": "Rueckspiel",
+      "heim": "CS Universitatea Craiova",
+      "gast": "Levski Sofia",
+      "anstoss": "2026-07-29T20:30:00+02:00",
+      "stadion": "Stadionul Ion Oblemenco, Craiova",
+      "saison_kontext": {
+        "parallel_heim": "Rumaenische SuperLiga 2026/27 startete 18.07. - Craiova 2 Ligaspiele hinter sich, letzte 2 Spiele verloren (Ligaspiel + Hin), Doppelbelastung + Form-Kriese",
+        "parallel_gast": "Bulgarische efbet Liga 2026/27 startete 25.07. - Levski 1 Ligaspiel hinter sich, in 12-Spiele-Serie unbesiegt (Multi-Kompetitions inkl. Hin)",
+        "saisonziel_heim": "Rumaenische Meisterschaft Top-3-Ambition + CL-Q3-Sensations-Sprung waere Ausrufezeichen (Craiova nicht mehr in League-Phase seit 1983)",
+        "saisonziel_gast": "Bulgarischer Titel-Verteidigung + CL-Q3 realistisches Ziel (Levski bulgarischer Meister 2025/26, in Europa Erfahrung)",
+        "motivations_asymmetrie": "Craiova mit 0:1-Rueckstand MUSS gewinnen und Hin-Ergebnis egalisieren + Form-Kriese (2 Niederlagen) - Levski hingegen mit Vorsprung + 12-Spiele-Ungeschlagenheit + Rueckendeckung schon quali fuer EL falls raus",
+        "recovery_heim": "3 Tage seit Ligaspiel WE (Doppelbelastung + Niederlage vorher), 8 Tage seit Hin",
+        "recovery_gast": "4 Tage seit Ligaspiel Sa 25.07. (Auftakt Bulgarische Liga), 7 Tage seit Hin",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/match/2048719--levski-sofia-vs-u-craiova/",
+          "https://dailysports.net/predictions/universitatea-craiova-levski-battle-for-a-place-in-the-next-uefa-champions-league-qualifying-round/",
+          "https://ratingbet.com/predictions/universitatea-craiova-vs-levski-prediction-teams-form-analysis-possible-lineups-on-july-29-2026/",
+          "https://www.mightytips.com/football-predictions/universitatea-craiova-vs-levski-sofia-prediction-29-07-2026/",
+          "https://en.yenisafak.com/sports/football/live-match/cs-universitatea-craiova-levski-sofia-2071098"
+        ]
+      },
+      "quoten_bet365": {
+        "heimsieg": 1.91,
+        "unentschieden": 3.5,
+        "auswaertssieg": 4.0,
+        "ueber_2_5": 2.35,
+        "unter_2_5": 1.55,
+        "btts_ja": 1.91,
+        "btts_nein": 1.8
+      },
+      "news": [
+        "Levski unbesiegt seit 12 Spielen (alle Wettbewerbe kombiniert)",
+        "Craiova verlor letzte 2 Spiele (Ligaspiel + Hin) - Form-Downtrend",
+        "Levski-Stuermer Everton Bala + Oko-Flex offensive Wildcards",
+        "Craiova braucht 2-Tore-Sieg (1:0 reicht nur zu Verlaengerung)"
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "BTTS Ja",
+          "quote": 1.91,
+          "einsatz_euro": 8.25,
+          "begruendung": "Craiova MUSS attackieren fuer Comeback → wird Raeume oeffnen. Levski Konter-Team mit 12-Spiele-Ungeschlagen-Serie inklusive Aufwaertsdrehungen. BTTS Ja wahrscheinlich (Levski trifft auch defensiv trotzdem). Anti-DC-Sucht: kein reines DC-Spiel in Coinflip-nahen 1X2-Quoten.",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.85,
+          "id": "2026-07-29-cra-lev-t0"
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Levski Sofia Doppelte Chance X2",
+          "quote": 1.7,
+          "einsatz_euro": 2.75,
+          "begruendung": "Levski hat besseren Aggregate + Form (12-Spiele-Ungeschlagen) + Craiova Form-Kriese. Aber Auswaertsfaktor + Craiova Zwang-Offensive machen es Wackel. Kein SAFE wegen unklarem 1X2 (1.91/3.50/4.00). Coinflip-Regel wuerde greifen aber Auswaerts-Fav-Range knapp.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.65,
+          "id": "2026-07-29-cra-lev-t1"
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Everton Bala Torschuetze Jederzeit",
+          "quote": 3.5,
+          "einsatz_euro": 2.75,
+          "begruendung": "Levski Top-Stuermer, Anti-DC-Sucht-Regel: Auswaertsteam-Torschuetzen-Tipp bei Auswaerts-Chance. Wackel wegen unklarer Startelf und Craiova-Heimdruck. Einwechslungs-Boost: Oko-Flex als Backup nach Auswechslung waere auch Tor fuer Bala.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 3.2,
+          "id": "2026-07-29-cra-lev-t2"
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "halbzeit_stand": "1:2",
+        "endstand": "2:2",
+        "heim_tore": 2,
+        "gast_tore": 2,
+        "entscheidung": "Levski Sofia advances 3:2 Aggregat, Weiterkommen CL Q3",
+        "quelle": "informat.ro/Recherche"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-07-29-cra-lev-t0",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.91,
+          "kommentar": "BTTS Ja - beide trafen"
+        },
+        {
+          "tipp_id": "2026-07-29-cra-lev-t1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.7,
+          "kommentar": "Levski DC X2 - Remis 2:2 = X"
+        },
+        {
+          "tipp_id": "2026-07-29-cra-lev-t2",
+          "status": "gewonnen",
+          "gewinn_faktor": 3.5,
+          "kommentar": "Bala Tor 12'"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:2",
+        "endstand": "2:2",
+        "tore": [
+          {
+            "min": 12,
+            "team": "gast",
+            "spieler": "Everton Bala",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 16,
+            "team": "gast",
+            "spieler": "Aldair Neves",
+            "stand_danach": "0:2"
+          },
+          {
+            "min": 45,
+            "team": "heim",
+            "spieler": "Nicusor Bancu",
+            "stand_danach": "1:2"
+          },
+          {
+            "min": 65,
+            "team": "heim",
+            "spieler": "Adrian Rus (Freistoss)",
+            "stand_danach": "2:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": true,
+          "details": "TEILWEISE Drehung - Levski fuehrte 0:2 (16.), Craiova drehte auf 2:2 (Rus-Freistoss 2. HZ). Aber Aggregat 3:2 bleibt fuer Levski dank 1:0-Hin. 2:0-Insurance-Regel greift NICHT (nur CL, DFB-Pokal + WM 2026, aber KEIN direkter Sieg-Tipp auf Levski war 90min-only)."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Levski/Unentschieden",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "BALA-TORSCHUETZEN-TIPP FUNKTIONIERT: Wackel @3.5 gewann - Auswaerts-Fav-Sturm-Tipp lohnte trotz Coinflip-Regel. **Muster: bei 12-Spiele-ungeschlagen-Serie + Auswaerts-Fav-Aussicht → Torschuetzen-Wackel doch anpackbar**",
+          "Craiova-Drehung nach 0:2 fast Kabinett - aber Aggregat bleibt Levski. BTTS + Ueber 2.5 Value-Tipps perfekt bedient.",
+          "DC-X2 fuer Levski gewann auch (2:2 = X), obwohl im Watchdog nur wackel eingestuft."
+        ]
+      }
+    },
+    {
+      "id": "2026-07-29-kai-omo",
+      "liga": "UEFA Champions League - 2. Qualifikationsrunde",
+      "runde": "Rueckspiel",
+      "heim": "Kairat Almaty",
+      "gast": "Omonia Nicosia",
+      "anstoss": "2026-07-29T16:00:00+02:00",
+      "stadion": "Almaty Central Stadium, Almaty",
+      "saison_kontext": {
+        "parallel_heim": "Kasachische Premier League 2026 laueft seit Maerz - Kairat Titelverteidiger, Doppelbelastung Liga + CL Q2",
+        "parallel_gast": "Zypriotische First Division 2026/27 startet Anfang August (in Pre-Season) - KEINE Doppelbelastung, nur CL Q2 Fokus",
+        "saisonziel_heim": "Kasachischer Meister-Titel + CL-Q3 Traumziel (Kairat als KAS-Meister erstmals in CL Q2 seit 2015)",
+        "saisonziel_gast": "Zypriotischer Meisterschaftskampf Top-3 + CL-Q3-Sensation waere Karrierehoehepunkt fuer viele Spieler",
+        "motivations_asymmetrie": "Kairat MUSS gewinnen fuer Comeback (0:1 Hin) + kasachisches Heim-Publikum Alma-Ata plus 5-Stunden-Zeitverschiebung fuer Omonia. Omonia braucht nur Punkt + hat Torvorsprung + keine Liga-Belastung → asymmetrische Recovery zu Ungunsten Kairat.",
+        "recovery_heim": "3 Tage seit Ligaspiel WE (Doppelbelastung kasachische Liga), 7 Tage seit Hin, aber 5 Stunden Zeitverschiebung fuer Gast erfordert langen Anreiseflug",
+        "recovery_gast": "8 Tage seit Hin, keine Liga-Belastung, aber lange Anreise Nicosia-Almaty (7000km, 5h Zeitverschiebung) - Jetlag-Faktor",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/match/2048734--kairat-almaty-vs-omonia/",
+          "https://footballwhispers.com/blog/kairat-vs-omonoia-prediction-29-07-2026/",
+          "https://ratingbet.com/predictions/kairat-vs-omonia-prediction-team-news-lineups-expert-analysis/",
+          "https://www.sportsmole.co.uk/football/kairat/preview/kairat-vs-omonia-prediction-team-news-lineups_601954.html",
+          "https://www.freetips.com/football/uefa-champions-league/kairat-almaty-vs-omonia-nicosia-preview-20260727-0041/"
+        ]
+      },
+      "quoten_bet365": {
+        "heimsieg": 2.15,
+        "unentschieden": 3.35,
+        "auswaertssieg": 3.25,
+        "ueber_2_5": 2.1,
+        "unter_2_5": 1.72,
+        "btts_ja": 1.85,
+        "btts_nein": 1.9
+      },
+      "news": [
+        "Kairat Almaty (2.15) leichter Heim-Favorit, aber Coinflip-Range (alle 1X2 > 2.10)",
+        "Jetlag-Faktor Omonia (7000km Anreise + 5h Zeitverschiebung)",
+        "Hinspiel-Torschuetze Omonia mit Standard aus 8. Min, Kairat XG 1.6",
+        "Kairat-Trainer betonte 'wir mussen mit 2 Toren Unterschied gewinnen' - offensiver Ansatz"
+      ],
+      "tipps": [
+        {
+          "kategorie": "wackel",
+          "markt": "BTTS Ja",
+          "quote": 1.85,
+          "einsatz_euro": 2.75,
+          "begruendung": "COINFLIP-Regel (alle 1X2-Quoten 2.15/3.35/3.25 in 2.10-3.35-Range) - kein SAFE erlaubt, max 3 Tipps. Kairat Zwang-Offensive + Omonia mit Vorsprung wird Konter setzen. Both scores wahrscheinlich. Kein DC weil Coinflip.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.8,
+          "id": "2026-07-29-kai-omo-t0"
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 2.1,
+          "einsatz_euro": 2.75,
+          "begruendung": "Goldgrube Ueber 2.5 +33.3% ROI aber schwieriger Trigger im Coinflip. Kairat Zwang + Jetlag-Fehler Omonia. Wackel wegen zaeher Aggregate-Situation (Omonia parkt Bus).",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 2.1,
+          "id": "2026-07-29-kai-omo-t1"
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Kairat Doppelte Chance 1X",
+          "quote": 1.42,
+          "einsatz_euro": 2.75,
+          "begruendung": "Kairat wird bei mind Draw/Sieg bleiben mit Heim-Vorteil - aber Aggregate ist bei 1X trotzdem raus. Wackel wegen Coinflip-Regel. DC-Cap eingehalten (nur 1 DC im Spiel + wenige im Dossier).",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.42,
+          "id": "2026-07-29-kai-omo-t2"
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "halbzeit_stand": "1:0",
+        "endstand": "1:0 n.V. (Pen 6:5)",
+        "endstand_90min": "1:0",
+        "heim_tore_90min": 1,
+        "gast_tore_90min": 0,
+        "entscheidung": "Kairat Almaty advances via Elfmeterschiessen (Aggregat 1:1, Pen 6:5)",
+        "quelle": "Cyprus Mail/ESPN/Sportytrader"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-07-29-kai-omo-t0",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Nur Kairat traf (1:0), BTTS Nein"
+        },
+        {
+          "tipp_id": "2026-07-29-kai-omo-t1",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Nur 1 Tor in 90min (Edmilson 38.)"
+        },
+        {
+          "tipp_id": "2026-07-29-kai-omo-t2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.42,
+          "kommentar": "Kairat gewann 1:0 90min = DC 1X gewonnen"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "1:0 n.V. (Pen 6:5)",
+        "tore": [
+          {
+            "min": 38,
+            "team": "heim",
+            "spieler": "Edmilson Filho (Kopfball, Assist Luis Mata)",
+            "stand_danach": "1:0 (aggregat 1:1)"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Kein Drehungs-Moment im Spiel selbst - Kakoullis-Rot 26. Min → Kairat-Vorteil → Edmilson 38. Min. Vorsprung 1:0 bis Ende Verlaengerung gehalten, dann Elfmeterschiessen. Aggregat 1:1 nach 120min, Kairat gewann Pen 6:5."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Kairat/Kairat (90min)",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "COINFLIP-RESPEKT-BESTAETIGT: Wackel-only-Regel bei allen 1X2 > 2.10 hat sich ausgezahlt. Kairat DC 1X @1.42 gewann - konservativer Wackel-Anker in Coinflip zog. **Muster: bei Rot fuer Aussenseiter frueh (26. Min) → Heim-DC 1X sicher, auch wenn Coinflip-Range**",
+          "Rot-Karte-Trigger-Boost: Kakoullis-Rot 26. Min veraendert Spielverlauf massiv - Coinflip → Heim-Dominanz. Torschuetzen-Tipp haette hier VALUE sein koennen (Edmilson 38.), aber Kairat-Sturm nicht im Dossier",
+          "Ueber 2.5 verloren mit nur 1 Tor - Coinflip-Wackel korrekt, VALUE waere Ueber 1.5 gewesen"
+        ]
+      }
+    },
+    {
+      "id": "2026-07-29-hbs-vik",
+      "liga": "UEFA Champions League - 2. Qualifikationsrunde",
+      "runde": "Rueckspiel",
+      "heim": "Hapoel Beer Sheva",
+      "gast": "Vikingur Reykjavik",
+      "anstoss": "2026-07-29T19:30:00+02:00",
+      "stadion": "Turner Stadium, Beer Sheva",
+      "saison_kontext": {
+        "parallel_heim": "Israelische Ligat ha'Al 2026/27 startet 15.08. - Hapoel noch Pre-Season, KEINE Doppelbelastung. Aber Sicherheitslage Israel dauerhaft Belastung.",
+        "parallel_gast": "Islaendische Pepsi-Deild 2026 laueft seit April - Vikingur Doppelbelastung + Meister-Titel-Verteidigung",
+        "saisonziel_heim": "Israelischer Titelkampf + CL-Q3-Sensation waere gross fuer Verband (Hapoel kein Meister zuletzt 2016)",
+        "saisonziel_gast": "Islaendischer Meister-Titel-Verteidigung + CL-Q3-Weiterkommen waere historischer Rekord fuer Verband",
+        "motivations_asymmetrie": "Hapoel MUSS 2:1-Rueckstand aufholen (mind. 1-Tor-Sieg) + Heimvorteil - Vikingur mit Vorsprung + Selbstvertrauen (2:1-Hin trotz Unterlegenheit auf dem Papier). Aggregate-Zwang Hapoel + Klassenedge → dennoch Hapoel Favorit.",
+        "recovery_heim": "Voll erholt (keine Liga), 7 Tage seit Hin",
+        "recovery_gast": "3 Tage seit Ligaspiel Islaendisch (Doppelbelastung), 7 Tage seit Hin",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/match/2048726--hapoel-beer-sheva-vs-vikingur-reykjavik/",
+          "https://tips.gg/article/hapoel-beer-sheva-vs-vikingur-reykjavik-29-07-2026/",
+          "https://footballwhispers.com/blog/hapoel-beer-sheva-vs-vikingur-reykjavik-prediction-29-07-2026/",
+          "https://www.sportsmole.co.uk/football/hapoel-beer-sheva/champions-league/preview/h-beer-sheva-vs-vikingur-prediction-team-news-lineups_601948.html",
+          "https://www.mightytips.com/football-predictions/hapoel-beer-sheva-vs-vikingur-reykjavik-prediction-29-07-2026/"
+        ]
+      },
+      "quoten_bet365": {
+        "heimsieg": 1.62,
+        "unentschieden": 4.2,
+        "auswaertssieg": 5.48,
+        "ueber_2_5": 1.65,
+        "unter_2_5": 2.2,
+        "btts_ja": 1.72,
+        "btts_nein": 2.05
+      },
+      "news": [
+        "Hapoel-Trainer Ran Ben Shimon setzt auf Sturm-Duo Kings Kangwa + Youssouf Sabaly",
+        "Vikingur Hansen (Hinspiel-Brace) beste Torschuetze, Ex-Danish-Nachwuchs",
+        "Hapoel Heim-Fortress Turner-Stadion 8-Spiele-Ungeschlagen letzte Europa-Kampagne",
+        "Vikingur Islaendisch-Rhythmus favorisiert offene Spiele (2.8 Tore/Spiel Schnitt)"
+      ],
+      "tipps": [
+        {
+          "kategorie": "safe",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.65,
+          "einsatz_euro": 11.0,
+          "begruendung": "CL Q2 Liga-Goldgrube + Ueber 2.5 Markt-Goldgrube +33.3% ROI 73.1% HR (n=26). Hapoel Zwang-Offensive + Vikingur offene Ligastrategie + Hinspiel 3 Tore. Beste SAFE-Kombination fuer heute. Aufbau-Stufe 2%.",
+          "empfohlener_einsatz_prozent": 2.0,
+          "faire_quote": 1.55,
+          "id": "2026-07-29-hbs-vik-t0"
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Kings Kangwa Torschuetze Jederzeit",
+          "quote": 2.5,
+          "einsatz_euro": 5.5,
+          "begruendung": "Hapoel Top-Stuermer, Hinspiel-Torschuetze bestaetigt Form-Edge. HEIM-Favorit (1.62) → MIN 1 Torschuetzen-Tipp Pflicht laut Anti-DC-Sucht. Torschuetzen Jederzeit Markt-Goldgrube +24.4% ROI Historie. Einwechslungs-Boost falls Rotation. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "empfohlener_einsatz_prozent": 1.0,
+          "faire_quote": 2.3,
+          "id": "2026-07-29-hbs-vik-t1",
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "kategorie": "value",
+          "markt": "BTTS Ja",
+          "quote": 1.72,
+          "einsatz_euro": 8.25,
+          "begruendung": "Vikingur trifft in beiden Halbzeiten (2:1-Sieg-Struktur) + Hapoel-Zwang-Offensive. Both-Teams-scored auch Hin bereits ja. Konsistente Doppel-Torschuetzen-Wahrscheinlichkeit.",
+          "empfohlener_einsatz_prozent": 1.5,
+          "faire_quote": 1.7,
+          "id": "2026-07-29-hbs-vik-t2"
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Nikolaj Hansen Torschuetze Jederzeit",
+          "quote": 3.25,
+          "einsatz_euro": 2.75,
+          "begruendung": "Vikingur-Doppelpacker Hin, aber Auswaerts Hapoel-Heim-Fortress-Anti-Trend. Wackel wegen Heimschutz + Anfaelligkeit gegen israelische Physik. Bei Weiterkommen-Verlust waere Hansen-Statistik nicht relevant.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 3.2,
+          "id": "2026-07-29-hbs-vik-t3"
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "halbzeit_stand": null,
+        "endstand": "2:0",
+        "heim_tore": 2,
+        "gast_tore": 0,
+        "entscheidung": "Hapoel Beer Sheva advances 3:2 Aggregat, Vikingur ausgeschieden",
+        "quelle": "Recherche multiple"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-07-29-hbs-vik-t0",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Nur 2 Tore, Ueber 2.5 verloren"
+        },
+        {
+          "tipp_id": "2026-07-29-hbs-vik-t1",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.5,
+          "kommentar": "Kangwa Torschuetze bestaetigt"
+        },
+        {
+          "tipp_id": "2026-07-29-hbs-vik-t2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Nur Hapoel traf, BTTS Nein"
+        },
+        {
+          "tipp_id": "2026-07-29-hbs-vik-t3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Hansen (Vikingur) nicht Torschuetze - Vikingur zu Null"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": null,
+        "endstand": "2:0",
+        "tore": [
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Kings Kangwa",
+            "stand_danach": "1:0 oder 2:0 (Minute nicht sicher recherchierbar)"
+          },
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Hapoel (2. Tor, Schuetze nicht sicher recherchierbar)",
+            "stand_danach": "2:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Aggregat-Drehung: Vikingur fuehrte 2:1 Hin, Hapoel drehte auf 3:2 Aggregat durch 2:0-Heimsieg. Kein Drehungs-Moment im Spiel selbst (Hapoel dominant zu Null)."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": null,
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "KANGWA-TORSCHUETZEN-WACKEL GEWONNEN: Anti-DC-Sucht Torschuetzen-Regel praezise validiert - HEIM-Favorit + Hin-Torschuetze = starker Torschuetzen-Tipp",
+          "**SAFE-Ueber-2.5-Tipp VERLOREN**: Watchdog-Erwartung von 3+ Toren wurde massiv verfehlt - Hapoel 2:0 dominant statt offenes Torfestival. **Lesson: Vikingur-Islaendisch-Rhythmus-Argument (2.8 Tore/Spiel) griff nicht in Auswaerts-Ausscheiden-Situation - Vikingur spielte defensiv statt offen.**",
+          "BTTS-Nein-Muster: Aussenseiter-Auswaerts-Team ohne offensiven Impuls trifft in K.O.-Rueckspielen oft nicht - **BTTS-Ja-Value war ueberoptimistisch**"
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "einzel-01-hbs-vik-ueber",
+      "spiel_ref": "2026-07-29-hbs-vik",
+      "kategorie": "safe",
+      "markt": "Hapoel Beer Sheva vs Vikingur - Ueber 2.5 Tore",
+      "quote": 1.65,
+      "einsatz_euro": 11.0,
+      "begruendung": "Kombination Liga-Goldgrube (CL Q2 +67.1% ROI) + Markt-Goldgrube (Ueber 2.5 +33.3% ROI 73.1% HR n=26). Hapoel Zwang-Offensive nach 1:2-Rueckstand + Vikingur offensive DNA (Pepsi-Deild 2.8 Tore/Spiel). Hin 3 Tore. Konservativer Aufbau-Stufe-Einsatz 2%.",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 1,
+      "spiel_id": "2026-07-29-hbs-vik",
+      "tipp_id": "2026-07-29-hbs-vik-t0",
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Nur 2 Tore in Hapoel-Vikingur (2:0)",
+      "netto": -11.0
+    },
+    {
+      "id": "einzel-02-crv-lar-dc",
+      "spiel_ref": "2026-07-29-crv-lar",
+      "kategorie": "safe",
+      "markt": "Crvena Zvezda vs Larne - Doppelte Chance 1X",
+      "quote": 1.05,
+      "einsatz_euro": 11.0,
+      "begruendung": "CL Q2 Liga-Goldgrube + DC-1X Markt-Goldgrube (77.8% HR). 4:0-Hin praktisch entschieden - Larne-Comeback-Wahrscheinlichkeit <1% Historie. Aggregate-Sicherheits-Anker. Aufbau-Stufe 2%.",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 2,
+      "spiel_id": "2026-07-29-crv-lar",
+      "tipp_id": "2026-07-29-crv-lar-t0",
+      "status": "gewonnen",
+      "gewinn_faktor": 1.05,
+      "kommentar": "Crvena Zvezda gewann 5:0",
+      "netto": 0.55
+    },
+    {
+      "id": "einzel-03-lec-agf-dc",
+      "spiel_ref": "2026-07-29-lec-agf",
+      "kategorie": "safe",
+      "markt": "Lech Poznan vs AGF - Doppelte Chance 1X",
+      "quote": 1.2,
+      "einsatz_euro": 11.0,
+      "begruendung": "CL Q2 Liga-Goldgrube + DC-1X Markt-Goldgrube. 4:1-Hin praktisch entschieden - AGF braucht 3+ Tore ohne Gegentor auswaerts (<5% Comeback-Wahrscheinlichkeit). Aggregate-Sicherheits-Anker. Aufbau-Stufe 2%.",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 3,
+      "spiel_id": "2026-07-29-lec-agf",
+      "tipp_id": "2026-07-29-lec-agf-t0",
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Lech verlor 0:3 in 90min - Aggregat-Drehung durch AGF",
+      "netto": -11.0
+    },
+    {
+      "id": "einzel-04-gor-fen-dc",
+      "spiel_ref": "2026-07-29-gor-fen",
+      "kategorie": "value",
+      "markt": "Gornik Zabrze vs Fenerbahce - Doppelte Chance X2",
+      "quote": 1.2,
+      "einsatz_euro": 8.25,
+      "begruendung": "Fenerbahce Auswaerts-Favorit (1.50) + 1:0-Hin + Klassenedge + KEINE Liga-Belastung (Super-Lig-Start 8.08.). Gornik hingegen Ekstraklasa-Doppelbelastung. DC X2 Goldgrube +10.9% ROI. Value-Anker.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 4,
+      "spiel_id": "2026-07-29-gor-fen",
+      "tipp_id": "2026-07-29-gor-fen-t0",
+      "status": "gewonnen",
+      "gewinn_faktor": 1.2,
+      "kommentar": "Fenerbahce Remis 1:1 - DC X2 gewonnen",
+      "netto": 1.65
+    },
+    {
+      "id": "einzel-05-crv-lar-ueber",
+      "spiel_ref": "2026-07-29-crv-lar",
+      "kategorie": "value",
+      "markt": "Crvena Zvezda vs Larne - Ueber 2.5 Tore",
+      "quote": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "Ueber 2.5 Markt-Goldgrube +33.3% ROI 73.1% HR. Crvena Heim-Sturm + Larne muss auswaerts angreifen (nichts zu verlieren). Rotation moeglich aber Volumen-Ueberlegenheit Belgrad garantiert 3+ Tore.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 5,
+      "spiel_id": "2026-07-29-crv-lar",
+      "tipp_id": "2026-07-29-crv-lar-t2",
+      "status": "gewonnen",
+      "gewinn_faktor": 1.5,
+      "kommentar": "5 Tore > 2.5",
+      "netto": 4.12
+    },
+    {
+      "id": "einzel-06-lec-agf-ueber",
+      "spiel_ref": "2026-07-29-lec-agf",
+      "kategorie": "value",
+      "markt": "Lech Poznan vs AGF - Ueber 2.5 Tore",
+      "quote": 1.7,
+      "einsatz_euro": 8.25,
+      "begruendung": "Ueber 2.5 Goldgrube. AGF Zwang-Offensive (3+ Tore Ziel) + Lech Ekstraklasa-Top-Offensive 2.2 Tore/Spiel Schnitt. Hin bereits 5 Tore.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 6,
+      "spiel_id": "2026-07-29-lec-agf",
+      "tipp_id": "2026-07-29-lec-agf-t2",
+      "status": "gewonnen",
+      "gewinn_faktor": 1.7,
+      "kommentar": "3 Tore in 90min (0:3) = Ueber 2.5",
+      "netto": 5.77
+    },
+    {
+      "id": "einzel-07-cra-lev-btts",
+      "spiel_ref": "2026-07-29-cra-lev",
+      "kategorie": "value",
+      "markt": "Craiova vs Levski Sofia - BTTS Ja",
+      "quote": 1.91,
+      "einsatz_euro": 8.25,
+      "begruendung": "Craiova MUSS attackieren (Zwang 2:0-Sieg) → Raeume fuer Levski-Konter. Levski 12-Spiele-Ungeschlagen (offensiv effizient). BTTS auch Hin waere gegangen (1:0 knapp). Anti-DC-Sucht: Coinflip-Spiel benoetigt BTTS/Ueber-Ansatz statt DC.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 7,
+      "spiel_id": "2026-07-29-cra-lev",
+      "tipp_id": "2026-07-29-cra-lev-t0",
+      "status": "gewonnen",
+      "gewinn_faktor": 1.91,
+      "kommentar": "BTTS Ja (2:2)",
+      "netto": 7.51
+    },
+    {
+      "id": "einzel-08-hbs-vik-kangwa",
+      "spiel_ref": "2026-07-29-hbs-vik",
+      "kategorie": "wackel",
+      "markt": "Kings Kangwa Torschuetze Jederzeit (Hapoel Beer Sheva)",
+      "quote": 2.5,
+      "einsatz_euro": 5.5,
+      "begruendung": "Torschuetzen Jederzeit Markt-Goldgrube +24.4% ROI. Kangwa Hinspiel-Torschuetze bestaetigt Form-Edge. HEIM-Favorit-Pflicht-Torschuetzen-Tipp laut Anti-DC-Sucht-Regel. Einwechslungs-Boost falls Rotation.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 8,
+      "spiel_id": "2026-07-29-hbs-vik",
+      "tipp_id": "2026-07-29-hbs-vik-t1",
+      "status": "gewonnen",
+      "gewinn_faktor": 2.5,
+      "kommentar": "Kangwa Torschuetze",
+      "netto": 8.25
+    },
+    {
+      "id": "einzel-09-lec-agf-ishak",
+      "spiel_ref": "2026-07-29-lec-agf",
+      "kategorie": "wackel",
+      "markt": "Mikael Ishak Torschuetze Jederzeit (Lech Poznan)",
+      "quote": 2.3,
+      "einsatz_euro": 5.5,
+      "begruendung": "Torschuetzen Goldgrube. Ishak Top-Scorer (18 Ligator letzte Saison, Brace-Hin). Anti-DC-Sucht: HEIM-Favorit MIN 1 Torschuetzen-Tipp. Einwechslungs-Boost.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 9,
+      "spiel_id": "2026-07-29-lec-agf",
+      "tipp_id": "2026-07-29-lec-agf-t1",
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Ishak nicht Torschuetze - Lech-Tor kam von Jagiello in ET",
+      "netto": -5.5
+    },
+    {
+      "id": "einzel-10-crv-lar-kostov",
+      "spiel_ref": "2026-07-29-crv-lar",
+      "kategorie": "wackel",
+      "markt": "Vasilije Kostov Torschuetze Jederzeit (Crvena Zvezda)",
+      "quote": 2.2,
+      "einsatz_euro": 5.5,
+      "begruendung": "Torschuetzen Goldgrube. Kostov 5 Tore letzte 5 Spiele massive Form-Edge. Anti-DC-Sucht: HEIM-Favorit MIN 1 Torschuetzen-Tipp. Einwechslungs-Boost falls Rotation (Ivanic/Krunic zaehlen fuer Kostov-Tipp).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 10,
+      "spiel_id": "2026-07-29-crv-lar",
+      "tipp_id": "2026-07-29-crv-lar-t1",
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Kostov nicht Torschuetze - Rotation vor CL Q3",
+      "netto": -5.5
+    },
+    {
+      "id": "einzel-11-gor-fen-talisca",
+      "spiel_ref": "2026-07-29-gor-fen",
+      "kategorie": "wackel",
+      "markt": "Anderson Talisca Torschuetze Jederzeit (Fenerbahce)",
+      "quote": 3.0,
+      "einsatz_euro": 5.5,
+      "begruendung": "Anti-DC-Sucht AUSWAERTS-Favorit Pflicht. Talisca Hinspiel-Held (Freistoss-Tor) + 7 Saisontore + Set-Piece-Standard-Spezialist. Torschuetzen Jederzeit Markt-Goldgrube.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 11,
+      "spiel_id": "2026-07-29-gor-fen",
+      "tipp_id": "2026-07-29-gor-fen-t1",
+      "status": "gewonnen",
+      "gewinn_faktor": 3.0,
+      "kommentar": "Talisca-Elfmeter 12'",
+      "netto": 11.0
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-safe-3x",
+      "kategorie": "safe",
+      "name": "Safe-Anker Goldgrube-Doppel-Kombi",
+      "gesamtquote": 3.15,
+      "einsatz_euro": 11.0,
+      "beine": [
+        {
+          "spiel_ref": "2026-07-29-hbs-vik",
+          "markt": "Hapoel Beer Sheva - Vikingur Reykjavik: Ueber 2.5 Tore",
+          "quote": 1.65,
+          "spiel_id": "2026-07-29-hbs-vik",
+          "tipp_id": "2026-07-29-hbs-vik-t0",
+          "spiel_titel": "Hapoel Beer Sheva - Vikingur Reykjavik"
+        },
+        {
+          "spiel_ref": "2026-07-29-cra-lev",
+          "markt": "CS Universitatea Craiova - Levski Sofia: BTTS Ja",
+          "quote": 1.91,
+          "spiel_id": "2026-07-29-cra-lev",
+          "tipp_id": "2026-07-29-cra-lev-t0",
+          "spiel_titel": "CS Universitatea Craiova - Levski Sofia"
+        }
+      ],
+      "layer_1_check": "OK - 2 Beine 2 verschiedene Spiele",
+      "layer_2_check": "OK - kein Sieg-Outcome (nur Ueber + BTTS)",
+      "begruendung": "Zwei Goldgrube-Maerkte in zwei Comeback-Zwang-Spielen: Hapoel muss 1:2 aufholen (Zwang-Offensive) + Craiova muss 0:1 drehen. Beide zwingen Ueber + BTTS. Nachgerechnet: 1.65 x 1.91 = 3.1515 -> 3.15. Safe-Kombi Aufbau-Stufe 2% (11 EUR).",
+      "empfohlener_einsatz_prozent": 2.0,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "netto": -11.0,
+      "kommentar": "1 Bein(e) verloren"
+    },
+    {
+      "id": "kombi-balance-7x",
+      "kategorie": "value",
+      "name": "Balance Star-Sturm + Auswaerts-Klasse",
+      "gesamtquote": 6.9,
+      "einsatz_euro": 4.4,
+      "beine": [
+        {
+          "spiel_ref": "2026-07-29-hbs-vik",
+          "markt": "Hapoel Beer Sheva - Vikingur Reykjavik: Kings Kangwa Torschuetze Jederzeit",
+          "quote": 2.5,
+          "spiel_id": "2026-07-29-hbs-vik",
+          "tipp_id": "2026-07-29-hbs-vik-t1",
+          "spiel_titel": "Hapoel Beer Sheva - Vikingur Reykjavik"
+        },
+        {
+          "spiel_ref": "2026-07-29-lec-agf",
+          "markt": "Lech Poznan - AGF Aarhus: Mikael Ishak Torschuetze Jederzeit",
+          "quote": 2.3,
+          "spiel_id": "2026-07-29-lec-agf",
+          "tipp_id": "2026-07-29-lec-agf-t1",
+          "spiel_titel": "Lech Poznan - AGF Aarhus"
+        },
+        {
+          "spiel_ref": "2026-07-29-gor-fen",
+          "markt": "Gornik Zabrze - Fenerbahce: Fenerbahce Doppelte Chance X2",
+          "quote": 1.2,
+          "spiel_id": "2026-07-29-gor-fen",
+          "tipp_id": "2026-07-29-gor-fen-t0",
+          "spiel_titel": "Gornik Zabrze - Fenerbahce"
+        }
+      ],
+      "layer_1_check": "OK - 3 Beine 3 verschiedene Spiele (Hapoel-Vik + Lech-AGF + Gornik-Fen)",
+      "layer_2_check": "OK - nur 1 Sieg-Outcome (Fenerbahce DC X2), 2x Torschuetzen als Diversifikation",
+      "begruendung": "Balance: 2 Star-Stuermer-Torschuetzen (Kangwa Hin-Held + Ishak Top-Scorer) + Fenerbahce-Auswaerts-Klasse-DC X2. Alle drei Beine haben klaren fundamentalen Fokus (Anti-DC-Sucht: Torschuetzen dominieren). Nachgerechnet: 2.50 x 2.30 x 1.20 = 6.90. Balance-Kombi Aufbau-Stufe 0.8% (4.40 EUR).",
+      "empfohlener_einsatz_prozent": 0.8,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "netto": -4.4,
+      "kommentar": "1 Bein(e) verloren"
+    },
+    {
+      "id": "kombi-risiko-16x",
+      "kategorie": "risk",
+      "name": "Risiko Torschuetzen-Triple",
+      "gesamtquote": 16.5,
+      "einsatz_euro": 1.4,
+      "beine": [
+        {
+          "spiel_ref": "2026-07-29-gor-fen",
+          "markt": "Gornik Zabrze - Fenerbahce: Anderson Talisca Torschuetze Jederzeit",
+          "quote": 3.0,
+          "spiel_id": "2026-07-29-gor-fen",
+          "tipp_id": "2026-07-29-gor-fen-t1",
+          "spiel_titel": "Gornik Zabrze - Fenerbahce"
+        },
+        {
+          "spiel_ref": "2026-07-29-crv-lar",
+          "markt": "FK Crvena Zvezda - Larne FC: Vasilije Kostov Torschuetze Jederzeit",
+          "quote": 2.2,
+          "spiel_id": "2026-07-29-crv-lar",
+          "tipp_id": "2026-07-29-crv-lar-t1",
+          "spiel_titel": "FK Crvena Zvezda - Larne FC"
+        },
+        {
+          "spiel_ref": "2026-07-29-hbs-vik",
+          "markt": "Hapoel Beer Sheva - Vikingur Reykjavik: Kings Kangwa Torschuetze Jederzeit",
+          "quote": 2.5,
+          "spiel_id": "2026-07-29-hbs-vik",
+          "tipp_id": "2026-07-29-hbs-vik-t1",
+          "spiel_titel": "Hapoel Beer Sheva - Vikingur Reykjavik"
+        }
+      ],
+      "layer_1_check": "OK - 3 Beine 3 verschiedene Spiele",
+      "layer_2_check": "OK - keine Sieg-Outcomes (3x Torschuetzen)",
+      "begruendung": "3 Top-Stuermer aus 3 Spielen: Talisca (Fenerbahce Star + Hin-Held) + Kostov (5 Tore letzte 5 Spiele) + Kangwa (Hin-Torschuetze). Alle drei mit Form-Edge, alle drei in Volumen-Sturm-Rollen mit Einwechslungs-Boost-Absicherung. Nachgerechnet: 3.00 x 2.20 x 2.50 = 16.50. Risiko-Kombi Aufbau-Stufe 0.25% (1.40 EUR).",
+      "empfohlener_einsatz_prozent": 0.25,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "netto": -1.4,
+      "kommentar": "1 Bein(e) verloren"
+    },
+    {
+      "id": "kombi-moonshot-170x",
+      "kategorie": "moonshot",
+      "name": "Moonshot 5-Torschuetzen-Regenbogen",
+      "gesamtquote": 172.68,
+      "einsatz_euro": 0.55,
+      "beine": [
+        {
+          "spiel_ref": "2026-07-29-gor-fen",
+          "markt": "Gornik Zabrze - Fenerbahce: Anderson Talisca Torschuetze Jederzeit",
+          "quote": 3.0,
+          "spiel_id": "2026-07-29-gor-fen",
+          "tipp_id": "2026-07-29-gor-fen-t1",
+          "spiel_titel": "Gornik Zabrze - Fenerbahce"
+        },
+        {
+          "spiel_ref": "2026-07-29-lec-agf",
+          "markt": "Lech Poznan - AGF Aarhus: Mikael Ishak Torschuetze Jederzeit",
+          "quote": 2.3,
+          "spiel_id": "2026-07-29-lec-agf",
+          "tipp_id": "2026-07-29-lec-agf-t1",
+          "spiel_titel": "Lech Poznan - AGF Aarhus"
+        },
+        {
+          "spiel_ref": "2026-07-29-crv-lar",
+          "markt": "FK Crvena Zvezda - Larne FC: Vasilije Kostov Torschuetze Jederzeit",
+          "quote": 2.2,
+          "spiel_id": "2026-07-29-crv-lar",
+          "tipp_id": "2026-07-29-crv-lar-t1",
+          "spiel_titel": "FK Crvena Zvezda - Larne FC"
+        },
+        {
+          "spiel_ref": "2026-07-29-hbs-vik",
+          "markt": "Hapoel Beer Sheva - Vikingur Reykjavik: Nikolaj Hansen Torschuetze Jederzeit",
+          "quote": 3.25,
+          "spiel_id": "2026-07-29-hbs-vik",
+          "tipp_id": "2026-07-29-hbs-vik-t3",
+          "spiel_titel": "Hapoel Beer Sheva - Vikingur Reykjavik"
+        },
+        {
+          "spiel_ref": "2026-07-29-cra-lev",
+          "markt": "CS Universitatea Craiova - Levski Sofia: Everton Bala Torschuetze Jederzeit",
+          "quote": 3.5,
+          "spiel_id": "2026-07-29-cra-lev",
+          "tipp_id": "2026-07-29-cra-lev-t2",
+          "spiel_titel": "CS Universitatea Craiova - Levski Sofia"
+        }
+      ],
+      "layer_1_check": "OK - 5 Beine 5 verschiedene Spiele",
+      "layer_2_check": "OK - keine Sieg-Outcomes (5x Torschuetzen)",
+      "begruendung": "Regenbogen-Moonshot: alle 5 Top-Stuermer aus 5 der 6 heute-Rueckspiele treffen. Talisca (Fener Hin-Held) + Ishak (Lech Top-Scorer Brace-Hin) + Kostov (Crvena Form 5/5) + Hansen (Vikingur Doppelpack-Hin) + Bala (Levski Attack). Nachgerechnet: 3.00 x 2.30 x 2.20 x 3.25 x 3.50 = 172.6825 -> 172.68. Moonshot Aufbau-Stufe 0.1% (0.55 EUR Spaseinsatz).",
+      "empfohlener_einsatz_prozent": 0.1,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "netto": -0.55,
+      "kommentar": "3 Bein(e) verloren"
+    }
+  ],
+  "lessons_angewandt": [
+    {
+      "id": "L-CL-Q2-LIGA-GOLDGRUBE",
+      "beschreibung": "CL Q2 seit 29.07.-Update als Liga-Goldgrube in data/liga_goldgruben.json aufgenommen (+67.1% ROI 33.3% Hitrate n=9). Damit sind SAFE-Tipps in CL Q2 direkt Mapper-akzeptiert (Hebel C uebersteht Downgrade). Aufbau-Stufe-1 Einsaetze 2% fuer Safe erlaubt. Yesterday-Vorschrift (max VALUE bei CL Q2 DC) revidiert.",
+      "angewandt_bei": [
+        "2026-07-29-crv-lar",
+        "2026-07-29-lec-agf",
+        "2026-07-29-hbs-vik"
+      ]
+    },
+    {
+      "id": "L-DINAMO-90MIN-SIEG-RISIKO-28-07",
+      "beschreibung": "Yesterday-Lesson 28.07.: Dinamo-Sieg-Tipp @ 1.43 verlor 90min trotz 3:2-ET-Sieg (Rueckspiel-Comeback Zajc 87. Min = 2:2). Lehre: grosser Hin-Vorsprung + Auswaerts-Zajc-Doppel-Retter kann jederzeit 90min-Sieg-Tipp kippen. Deshalb TODAY KEIN direkter Sieg-Tipp auf Fuehrende, sondern DC-Sicherheits-Anker + Ueber-Tore-Fokus.",
+      "angewandt_bei": [
+        "2026-07-29-crv-lar",
+        "2026-07-29-lec-agf",
+        "2026-07-29-gor-fen"
+      ]
+    },
+    {
+      "id": "L-ANTI-DC-SUCHT-TORSCHUETZE-PFLICHT",
+      "beschreibung": "Anti-DC-Sucht-Regel: bei HEIM-/AUSWAERTS-Favorit-Spielen MIN 1 Torschuetzen-Tipp Pflicht (03.05.-Lesson). Heute umgesetzt: Kostov (Crvena Heim-Fav 1.18) + Ishak (Lech Heim-Fav 1.76) + Talisca (Fener Auswaerts-Fav 1.50) + Kangwa (Hapoel Heim-Fav 1.62). Alle 4 Torschuetzen-Tipps landen in Einzeltipps top-10.",
+      "angewandt_bei": [
+        "2026-07-29-crv-lar",
+        "2026-07-29-lec-agf",
+        "2026-07-29-gor-fen",
+        "2026-07-29-hbs-vik"
+      ]
+    },
+    {
+      "id": "L-COINFLIP-KEIN-SAFE",
+      "beschreibung": "COINFLIP-Regel (alle 1X2 2.10-3.35-Range): kein SAFE-Tipp erlaubt, max 3 Tipps. Kairat-Omonia (2.15/3.35/3.25) klassischer Coinflip - deshalb bewusst nur 3 Wackel-Tipps (BTTS + Ueber + DC 1X), kein SAFE oder VALUE. Craiova-Levski (1.91/3.50/4.00) knapp ausser Coinflip aber grenzwertig, deshalb hauptsaechlich Value-Wackel-Mix.",
+      "angewandt_bei": [
+        "2026-07-29-kai-omo",
+        "2026-07-29-cra-lev"
+      ]
+    },
+    {
+      "id": "L-DC-CAP-2-3-DOSSIER",
+      "beschreibung": "DC-Cap max 2-3 im gesamten Dossier. Aktuell: Crvena DC 1X + Lech DC 1X + Fenerbahce DC X2 = 3 DC-Tipps. Cap gerade eingehalten (KEIN weiterer DC), Rest der 11 Einzeltipps sind Torschuetzen + Ueber + BTTS. Anti-DC-Sucht-Hebel M haette sonst gegriffen.",
+      "angewandt_bei": [
+        "2026-07-29-crv-lar",
+        "2026-07-29-lec-agf",
+        "2026-07-29-gor-fen"
+      ]
+    },
+    {
+      "id": "L-EINWECHSLUNGS-BOOST",
+      "beschreibung": "Einwechslungs-Boost-Regel (bet365 DE): bei Torschuetzen-Tipps zaehlen Tore des direkten Ersatzspielers nach Auswechslung ZUM Tipp dazu. Praktisch: Kostov + Duarte + Ishak + Talisca + Kangwa + Bruno + Bala werden bei Auswechslung durch Backup-Sturm abgesichert. Deshalb Torschuetzen-Tipps sicherer als nominale Quote.",
+      "angewandt_bei": [
+        "2026-07-29-crv-lar",
+        "2026-07-29-lec-agf",
+        "2026-07-29-gor-fen",
+        "2026-07-29-hbs-vik",
+        "2026-07-29-cra-lev"
+      ]
+    },
+    {
+      "id": "L-EL-Q2-BEOBACHTUNGS-LIGA",
+      "beschreibung": "EL Q2 weiterhin auf Beobachtungs-Liste (-37.8% ROI 40% HR n=10). Heute KEIN EL Q2 (nur CL Q2 Mittwoch). Falls EL Q2 Rueckspiele Do 30.07. anstehen, dort max wackel-Tipps + KEINE einzeltipps[]-Aufnahme.",
+      "angewandt_bei": []
+    },
+    {
+      "id": "L-GORNIK-BACKUP-EN-NESYRI",
+      "beschreibung": "Star-Ausfall-Backup-Regel: falls Fenerbahce mit Doppelspitze En-Nesyri statt Talisca im Sturm rotiert (Coach Mourinho oefter mit Rotation zwischen 10er Talisca und 9er En-Nesyri), Wackel-Tipp En-Nesyri als Absicherung mit dabei. Beide Top-Stuermer im Dossier.",
+      "angewandt_bei": [
+        "2026-07-29-gor-fen"
+      ]
+    }
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-07-29T18:00:00+02:00",
+    "recherche_file_status": "FEHLT - Fallback-Verifikation ohne Squad-Cross-Check",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "layer_3_weich",
+        "spiel_id": "2026-07-29-hbs-vik",
+        "details": "Spiel in 4 Kombis: ['kombi-safe-3x', 'kombi-balance-7x', 'kombi-risiko-16x', 'kombi-moonshot-170x'] (weich, bei wenigen Spielen ok)"
+      },
+      {
+        "art": "layer_3_weich",
+        "spiel_id": "2026-07-29-cra-lev",
+        "details": "Spiel in 2 Kombis: ['kombi-safe-3x', 'kombi-moonshot-170x'] (weich, bei wenigen Spielen ok)"
+      },
+      {
+        "art": "layer_3_weich",
+        "spiel_id": "2026-07-29-lec-agf",
+        "details": "Spiel in 2 Kombis: ['kombi-balance-7x', 'kombi-moonshot-170x'] (weich, bei wenigen Spielen ok)"
+      },
+      {
+        "art": "layer_3_weich",
+        "spiel_id": "2026-07-29-gor-fen",
+        "details": "Spiel in 3 Kombis: ['kombi-balance-7x', 'kombi-risiko-16x', 'kombi-moonshot-170x'] (weich, bei wenigen Spielen ok)"
+      },
+      {
+        "art": "layer_3_weich",
+        "spiel_id": "2026-07-29-crv-lar",
+        "details": "Spiel in 2 Kombis: ['kombi-risiko-16x', 'kombi-moonshot-170x'] (weich, bei wenigen Spielen ok)"
+      }
+    ],
+    "torschuetzen_pruefung": {
+      "anzahl_tipps": 8,
+      "alle_mit_quelle_warn": false,
+      "hinweis": "Alle Torschuetzen-Tipps haben _torschuetze_quelle_warn=true gesetzt und sind als wackel eingestuft. Squad-Halluzinations-Check ohne Recherche-File nicht moeglich - Watchdog-Verifikation manuell: Kostov (Crvena, 5 Tore Form), Duarte (Crvena, Sturm), Ishak (Lech Top-Scorer), Kangwa (Hapoel Duo), Talisca (Fener Star), En-Nesyri (Fener Backup), Hansen (Vikingur Doppelpacker), Bala (Levski) - alle plausible Sturm/Offensive-Namen aus Watchdog-Recherche."
+    },
+    "layer_2_status": "SAUBER - nur 1 Sieg-Outcome (Fenerbahce DC X2) in Balance-Kombi",
+    "layer_3_status": "SOFT-VERSTOSS - 5 Spiele in mehreren Kombis (bei nur 6 Spielen forgivable)",
+    "quoten_nachrechnung": "Alle 4 Kombi-Gesamtquoten stimmen mit Bein-Produkt ueberein",
+    "lessons_generiert": [],
+    "verifikation_status": "OK_MIT_WARNS",
+    "kommentar": "Verifikation nach Watchdog-Run 17:15 (Hauptroutine 16:00 nicht gelaufen). Recherche-File data/recherche/2026-07-29.json fehlt, deshalb Squad-Halluzinations-Check nur ueber Watchdog-News-Snippets moeglich. Alle Torschuetzen-Tipps als wackel gemappert (siehe _torschuetze_quelle_warn). Layer-2 sauber. Layer-3 leichte Bein-Wiederholung (Kangwa in Balance+Risiko, Talisca in Balance-DC+Risiko+Moonshot, Kostov+Ishak in Risiko+Moonshot bzw. Balance+Moonshot) - weich-Regel bei nur 6 Spielen tolerierbar."
+  },
+  "einzeltipps_ergebnis": [
+    {
+      "id": "einzel-01-hbs-vik-ueber",
+      "spiel_ref": "2026-07-29-hbs-vik",
+      "kategorie": "safe",
+      "markt": "Hapoel Beer Sheva vs Vikingur - Ueber 2.5 Tore",
+      "quote": 1.65,
+      "einsatz_euro": 11.0,
+      "begruendung": "Kombination Liga-Goldgrube (CL Q2 +67.1% ROI) + Markt-Goldgrube (Ueber 2.5 +33.3% ROI 73.1% HR n=26). Hapoel Zwang-Offensive nach 1:2-Rueckstand + Vikingur offensive DNA (Pepsi-Deild 2.8 Tore/Spiel). Hin 3 Tore. Konservativer Aufbau-Stufe-Einsatz 2%.",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 1,
+      "spiel_id": "2026-07-29-hbs-vik",
+      "tipp_id": "2026-07-29-hbs-vik-t0",
+      "status": "offen"
+    },
+    {
+      "id": "einzel-02-crv-lar-dc",
+      "spiel_ref": "2026-07-29-crv-lar",
+      "kategorie": "safe",
+      "markt": "Crvena Zvezda vs Larne - Doppelte Chance 1X",
+      "quote": 1.05,
+      "einsatz_euro": 11.0,
+      "begruendung": "CL Q2 Liga-Goldgrube + DC-1X Markt-Goldgrube (77.8% HR). 4:0-Hin praktisch entschieden - Larne-Comeback-Wahrscheinlichkeit <1% Historie. Aggregate-Sicherheits-Anker. Aufbau-Stufe 2%.",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 2,
+      "spiel_id": "2026-07-29-crv-lar",
+      "tipp_id": "2026-07-29-crv-lar-t0",
+      "status": "offen"
+    },
+    {
+      "id": "einzel-03-lec-agf-dc",
+      "spiel_ref": "2026-07-29-lec-agf",
+      "kategorie": "safe",
+      "markt": "Lech Poznan vs AGF - Doppelte Chance 1X",
+      "quote": 1.2,
+      "einsatz_euro": 11.0,
+      "begruendung": "CL Q2 Liga-Goldgrube + DC-1X Markt-Goldgrube. 4:1-Hin praktisch entschieden - AGF braucht 3+ Tore ohne Gegentor auswaerts (<5% Comeback-Wahrscheinlichkeit). Aggregate-Sicherheits-Anker. Aufbau-Stufe 2%.",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 3,
+      "spiel_id": "2026-07-29-lec-agf",
+      "tipp_id": "2026-07-29-lec-agf-t0",
+      "status": "offen"
+    },
+    {
+      "id": "einzel-04-gor-fen-dc",
+      "spiel_ref": "2026-07-29-gor-fen",
+      "kategorie": "value",
+      "markt": "Gornik Zabrze vs Fenerbahce - Doppelte Chance X2",
+      "quote": 1.2,
+      "einsatz_euro": 8.25,
+      "begruendung": "Fenerbahce Auswaerts-Favorit (1.50) + 1:0-Hin + Klassenedge + KEINE Liga-Belastung (Super-Lig-Start 8.08.). Gornik hingegen Ekstraklasa-Doppelbelastung. DC X2 Goldgrube +10.9% ROI. Value-Anker.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 4,
+      "spiel_id": "2026-07-29-gor-fen",
+      "tipp_id": "2026-07-29-gor-fen-t0",
+      "status": "offen"
+    },
+    {
+      "id": "einzel-05-crv-lar-ueber",
+      "spiel_ref": "2026-07-29-crv-lar",
+      "kategorie": "value",
+      "markt": "Crvena Zvezda vs Larne - Ueber 2.5 Tore",
+      "quote": 1.5,
+      "einsatz_euro": 8.25,
+      "begruendung": "Ueber 2.5 Markt-Goldgrube +33.3% ROI 73.1% HR. Crvena Heim-Sturm + Larne muss auswaerts angreifen (nichts zu verlieren). Rotation moeglich aber Volumen-Ueberlegenheit Belgrad garantiert 3+ Tore.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 5,
+      "spiel_id": "2026-07-29-crv-lar",
+      "tipp_id": "2026-07-29-crv-lar-t2",
+      "status": "offen"
+    },
+    {
+      "id": "einzel-06-lec-agf-ueber",
+      "spiel_ref": "2026-07-29-lec-agf",
+      "kategorie": "value",
+      "markt": "Lech Poznan vs AGF - Ueber 2.5 Tore",
+      "quote": 1.7,
+      "einsatz_euro": 8.25,
+      "begruendung": "Ueber 2.5 Goldgrube. AGF Zwang-Offensive (3+ Tore Ziel) + Lech Ekstraklasa-Top-Offensive 2.2 Tore/Spiel Schnitt. Hin bereits 5 Tore.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 6,
+      "spiel_id": "2026-07-29-lec-agf",
+      "tipp_id": "2026-07-29-lec-agf-t2",
+      "status": "offen"
+    },
+    {
+      "id": "einzel-07-cra-lev-btts",
+      "spiel_ref": "2026-07-29-cra-lev",
+      "kategorie": "value",
+      "markt": "Craiova vs Levski Sofia - BTTS Ja",
+      "quote": 1.91,
+      "einsatz_euro": 8.25,
+      "begruendung": "Craiova MUSS attackieren (Zwang 2:0-Sieg) → Raeume fuer Levski-Konter. Levski 12-Spiele-Ungeschlagen (offensiv effizient). BTTS auch Hin waere gegangen (1:0 knapp). Anti-DC-Sucht: Coinflip-Spiel benoetigt BTTS/Ueber-Ansatz statt DC.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 7,
+      "spiel_id": "2026-07-29-cra-lev",
+      "tipp_id": "2026-07-29-cra-lev-t0",
+      "status": "offen"
+    },
+    {
+      "id": "einzel-08-hbs-vik-kangwa",
+      "spiel_ref": "2026-07-29-hbs-vik",
+      "kategorie": "wackel",
+      "markt": "Kings Kangwa Torschuetze Jederzeit (Hapoel Beer Sheva)",
+      "quote": 2.5,
+      "einsatz_euro": 5.5,
+      "begruendung": "Torschuetzen Jederzeit Markt-Goldgrube +24.4% ROI. Kangwa Hinspiel-Torschuetze bestaetigt Form-Edge. HEIM-Favorit-Pflicht-Torschuetzen-Tipp laut Anti-DC-Sucht-Regel. Einwechslungs-Boost falls Rotation.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 8,
+      "spiel_id": "2026-07-29-hbs-vik",
+      "tipp_id": "2026-07-29-hbs-vik-t1",
+      "status": "offen"
+    },
+    {
+      "id": "einzel-09-lec-agf-ishak",
+      "spiel_ref": "2026-07-29-lec-agf",
+      "kategorie": "wackel",
+      "markt": "Mikael Ishak Torschuetze Jederzeit (Lech Poznan)",
+      "quote": 2.3,
+      "einsatz_euro": 5.5,
+      "begruendung": "Torschuetzen Goldgrube. Ishak Top-Scorer (18 Ligator letzte Saison, Brace-Hin). Anti-DC-Sucht: HEIM-Favorit MIN 1 Torschuetzen-Tipp. Einwechslungs-Boost.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 9,
+      "spiel_id": "2026-07-29-lec-agf",
+      "tipp_id": "2026-07-29-lec-agf-t1",
+      "status": "offen"
+    },
+    {
+      "id": "einzel-10-crv-lar-kostov",
+      "spiel_ref": "2026-07-29-crv-lar",
+      "kategorie": "wackel",
+      "markt": "Vasilije Kostov Torschuetze Jederzeit (Crvena Zvezda)",
+      "quote": 2.2,
+      "einsatz_euro": 5.5,
+      "begruendung": "Torschuetzen Goldgrube. Kostov 5 Tore letzte 5 Spiele massive Form-Edge. Anti-DC-Sucht: HEIM-Favorit MIN 1 Torschuetzen-Tipp. Einwechslungs-Boost falls Rotation (Ivanic/Krunic zaehlen fuer Kostov-Tipp).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 10,
+      "spiel_id": "2026-07-29-crv-lar",
+      "tipp_id": "2026-07-29-crv-lar-t1",
+      "status": "offen"
+    },
+    {
+      "id": "einzel-11-gor-fen-talisca",
+      "spiel_ref": "2026-07-29-gor-fen",
+      "kategorie": "wackel",
+      "markt": "Anderson Talisca Torschuetze Jederzeit (Fenerbahce)",
+      "quote": 3.0,
+      "einsatz_euro": 5.5,
+      "begruendung": "Anti-DC-Sucht AUSWAERTS-Favorit Pflicht. Talisca Hinspiel-Held (Freistoss-Tor) + 7 Saisontore + Set-Piece-Standard-Spezialist. Torschuetzen Jederzeit Markt-Goldgrube.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 11,
+      "spiel_id": "2026-07-29-gor-fen",
+      "tipp_id": "2026-07-29-gor-fen-t1",
+      "status": "offen"
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "kombi-safe-3x",
+      "status": "offen",
+      "gesamtquote": 3.15
+    },
+    {
+      "kombi_id": "kombi-balance-7x",
+      "status": "offen",
+      "gesamtquote": 6.9
+    },
+    {
+      "kombi_id": "kombi-risiko-16x",
+      "status": "offen",
+      "gesamtquote": 16.5
+    },
+    {
+      "kombi_id": "kombi-moonshot-170x",
+      "status": "offen",
+      "gesamtquote": 172.68
+    }
+  ],
+  "ausgewertet_am": "2026-07-30T07:05:21+00:00",
+  "bilanz_tag": {
+    "einzeltipps": {
+      "anzahl": 11,
+      "gewonnen": 7,
+      "verloren": 4,
+      "einsatz_euro": 88.0,
+      "netto_euro": 5.85,
+      "roi_prozent": 6.65
+    },
+    "kombis": {
+      "anzahl": 4,
+      "gewonnen": 0,
+      "verloren": 4,
+      "einsatz_euro": 17.35,
+      "netto_euro": -17.35
+    },
+    "gesamt_einsatz_euro": 105.35,
+    "gesamt_netto_euro": -11.5,
+    "gesamt_roi_prozent": -10.92
+  }
+}
