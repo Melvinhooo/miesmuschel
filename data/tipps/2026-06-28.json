@@ -121,68 +121,7 @@
       "kontext_check_status": "OK"
     }
   ],
-  "einzeltipps": [
-    {
-      "spiel_id": "2026-06-28-rsa-can",
-      "spiel": "Südafrika - Kanada (WM R32)",
-      "tipp_id": "2026-06-28-rsa-can-t1",
-      "markt_typ": "Doppelte Chance X2",
-      "kategorie": "value",
-      "einsatz_euro": 11.0,
-      "quote": 1.18,
-      "markt": "Kanada Doppelte Chance (X oder 2)",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 1
-    },
-    {
-      "spiel_id": "2026-06-28-rsa-can",
-      "spiel": "Südafrika - Kanada (WM R32)",
-      "tipp_id": "2026-06-28-rsa-can-t2",
-      "markt_typ": "Torschuetzen Jederzeit",
-      "kategorie": "wackel",
-      "einsatz_euro": 8.0,
-      "quote": 2.75,
-      "markt": "Jonathan David trifft jederzeit",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 2
-    },
-    {
-      "spiel_id": "2026-06-28-rsa-can",
-      "spiel": "Südafrika - Kanada (WM R32)",
-      "tipp_id": "2026-06-28-rsa-can-t3",
-      "markt_typ": "Sieg 90min",
-      "kategorie": "value",
-      "einsatz_euro": 7.0,
-      "quote": 1.75,
-      "markt": "Kanada gewinnt regulär (90min)",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 3
-    },
-    {
-      "spiel_id": "2026-06-28-rsa-can",
-      "spiel": "Südafrika - Kanada (WM R32)",
-      "tipp_id": "2026-06-28-rsa-can-t4",
-      "markt_typ": "Unter 3.5 Tore",
-      "kategorie": "value",
-      "einsatz_euro": 8.0,
-      "quote": 1.3,
-      "markt": "Unter 3.5 Tore",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 4
-    },
-    {
-      "spiel_id": "2026-06-28-rsa-can",
-      "spiel": "Südafrika - Kanada (WM R32)",
-      "tipp_id": "2026-06-28-rsa-can-t5",
-      "markt_typ": "Torschuetzen Jederzeit",
-      "kategorie": "wackel",
-      "einsatz_euro": 2.75,
-      "quote": 3.25,
-      "markt": "Cyle Larin trifft jederzeit",
-      "empfohlener_einsatz_prozent": 0.5,
-      "rang": 5
-    }
-  ],
+  "einzeltipps": [],
   "kombis": [],
   "lessons_angewandt": [
     {

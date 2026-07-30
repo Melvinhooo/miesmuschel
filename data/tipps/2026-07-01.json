@@ -243,234 +243,24 @@
       "kontext_check_status": "OK"
     }
   ],
-  "einzeltipps": [
-    {
-      "id": "et-1",
-      "spiel_id": "2026-07-01-usa-bih",
-      "kategorie": "value",
-      "markt": "USA Doppelte Chance 1X",
-      "quote": 1.16,
-      "einsatz_euro": 9,
-      "begruendung": "USA Heim-Turnier-Druck + Opta 76.6% Advance + Klasse-Edge klar. Goldgrube 'Doppelte Chance 1X' +9.5% ROI / 84.6% Hitrate. VALUE statt SAFE wegen Lesson 06.30 K.O.-R32-Klassen-Edge-Sieg unzuverlaessig (GER+NED gestern per Elfm out). Einsatz 9€ (1.6% Kasse 550€).",
-      "empfohlener_einsatz_prozent": 1.6,
-      "rang": 1
-    },
-    {
-      "id": "et-2",
-      "spiel_id": "2026-07-01-eng-cod",
-      "kategorie": "value",
-      "markt": "England Sieg (90min)",
-      "quote": 1.27,
-      "einsatz_euro": 9,
-      "begruendung": "England Crushing-Favorit (1.27 = -370 ML) gegen Kongo-Novum-K.O. Rice zurueck, Kane/Bellingham/Rashford/Saka fit. Goldgrube-Naehe Sieg-Klassen-Edge. VALUE statt SAFE wegen Lesson 06.30 R32-Klassen-Edge unzuverlaessig. Einsatz 9€ (1.6% Kasse).",
-      "empfohlener_einsatz_prozent": 1.6,
-      "rang": 2
-    },
-    {
-      "id": "et-3",
-      "spiel_id": "2026-07-01-bel-sen",
-      "kategorie": "value",
-      "markt": "Belgien Doppelte Chance 1X",
-      "quote": 1.28,
-      "einsatz_euro": 9,
-      "begruendung": "Belgien-Squad-Tiefe (Courtois/De-Bruyne/Doku/Trossard/Lukaku-Bank) klarer Vorteil gegen Senegal. Goldgrube 'DC 1X' +9.5% / 84.6%. VALUE wegen Lukaku-Bank-Toothless-Warnung + Lesson 06.30 K.O.-R32. Einsatz 9€ (1.6% Kasse).",
-      "empfohlener_einsatz_prozent": 1.6,
-      "rang": 3
-    },
-    {
-      "id": "et-4",
-      "spiel_id": "2026-07-01-eng-cod",
-      "kategorie": "value",
-      "markt": "Kane trifft (Jederzeit)",
-      "quote": 1.72,
-      "einsatz_euro": 7,
-      "begruendung": "Kane 3 Turnier-Tore + Stamm-9er + 1.72 wahrscheinlichster Skorer laut bet365. Goldgrube 'Torschuetzen Jederzeit' +24.4% ROI / 50% Hitrate (bester Markt). PFLICHT-Torschuetze bei Heim-Crushing-Favorit-Profil. Einsatz 7€ (1.3% Kasse).",
-      "empfohlener_einsatz_prozent": 1.3,
-      "rang": 4
-    },
-    {
-      "id": "et-5",
-      "spiel_id": "2026-07-01-usa-bih",
-      "kategorie": "value",
-      "markt": "Balogun trifft (Jederzeit)",
-      "quote": 2.2,
-      "einsatz_euro": 7,
-      "begruendung": "Balogun 2 Turnier-Tore + Stamm-9er. Goldgrube 'Torschuetzen' +24.4% / 50%. PFLICHT-Torschuetze bei Heim-Klarer-Favorit-Profil. Einsatz 7€ (1.3% Kasse).",
-      "empfohlener_einsatz_prozent": 1.3,
-      "rang": 5
-    },
-    {
-      "id": "et-6",
-      "spiel_id": "2026-07-01-eng-cod",
-      "kategorie": "value",
-      "markt": "Ueber 2.5 Tore",
-      "quote": 1.65,
-      "einsatz_euro": 7,
-      "begruendung": "Goldgrube 'Ueber 2.5 Tore' +26.7% / 61.1%. England Group-Schnitt >2 Tore + wahrscheinliches 2:0/3:0/3:1. Late-Goal-Cluster-Lesson. Einsatz 7€ (1.3% Kasse).",
-      "empfohlener_einsatz_prozent": 1.3,
-      "rang": 6
-    },
-    {
-      "id": "et-7",
-      "spiel_id": "2026-07-01-usa-bih",
-      "kategorie": "value",
-      "markt": "Ueber 2.5 Tore",
-      "quote": 1.75,
-      "einsatz_euro": 7,
-      "begruendung": "Goldgrube +26.7% / 61.1%. USA-Sturm-Trio + Bosnien-Sturm-Duo Dzeko+Demirovic = beide offensiv. Heim-Druck + Late-Goal-Cluster-Lesson. Einsatz 7€ (1.3% Kasse).",
-      "empfohlener_einsatz_prozent": 1.3,
-      "rang": 7
-    },
-    {
-      "id": "et-8",
-      "spiel_id": "2026-07-01-eng-cod",
-      "kategorie": "wackel",
-      "markt": "Bellingham trifft (Jederzeit)",
-      "quote": 2.2,
-      "einsatz_euro": 2.75,
-      "begruendung": "Bellingham 2 Turnier-Tore (Kroatien+Panama) + Racing-Post-Value-Pick. Backup-Torschuetze neben Kane. WACKEL wegen Lesson 06.30 R32-Torschuetzen-Cluster + Lesson 06.28-Highlight-Deakt. Einsatz 2.75€ (0.5% Kasse).",
-      "empfohlener_einsatz_prozent": 0.5,
-      "rang": 8
-    },
-    {
-      "id": "et-9",
-      "spiel_id": "2026-07-01-bel-sen",
-      "kategorie": "wackel",
-      "markt": "Trossard trifft (Jederzeit)",
-      "quote": 2.75,
-      "einsatz_euro": 2.75,
-      "begruendung": "STAR-AUSFALL-BACKUP (Lukaku Bank): Trossard-Arsenal-Form auf linkem Fluegel. WACKEL wegen Volumen-Risiko. Einsatz 2.75€ (0.5% Kasse).",
-      "empfohlener_einsatz_prozent": 0.5,
-      "rang": 9
-    },
-    {
-      "id": "et-10",
-      "spiel_id": "2026-07-01-usa-bih",
-      "kategorie": "wackel",
-      "markt": "Pulisic trifft (Jederzeit)",
-      "quote": 2.2,
-      "einsatz_euro": 2.75,
-      "begruendung": "Pulisic 0 Turnier-Tore in 77 Min Spielzeit = Nachhol-Bedarf + Bay-Area-Heim-Publikum. Backup-Torschuetze neben Balogun. WACKEL wegen fehlender Form-Edge (vs Balogun 2 Tore). Einsatz 2.75€ (0.5% Kasse).",
-      "empfohlener_einsatz_prozent": 0.5,
-      "rang": 10
-    },
-    {
-      "id": "et-11",
-      "spiel_id": "2026-07-01-bel-sen",
-      "kategorie": "wackel",
-      "markt": "Doku trifft (Jederzeit)",
-      "quote": 3.2,
-      "einsatz_euro": 2.75,
-      "begruendung": "STAR-AUSFALL-BACKUP #2 (Lukaku Bank): Doku-Man-City-Speed. Beide-Fluegel-Tipp-Verteilung mit Trossard. WACKEL Standard. Einsatz 2.75€ (0.5% Kasse).",
-      "empfohlener_einsatz_prozent": 0.5,
-      "rang": 11
-    }
-  ],
+  "einzeltipps": [],
   "kombis": [
-    {
-      "id": "kombi-safe",
-      "name": "Safe-Kombi ~3.6x",
-      "kategorie": "safe",
-      "gesamtquote": 3.58,
-      "einsatz_euro": 11,
-      "beine": [
-        {
-          "spiel_id": "2026-07-01-eng-cod",
-          "markt": "England Sieg (90min)",
-          "quote": 1.27
-        },
-        {
-          "spiel_id": "2026-07-01-bel-sen",
-          "markt": "Belgien Doppelte Chance 1X",
-          "quote": 1.28
-        },
-        {
-          "spiel_id": "2026-07-01-usa-bih",
-          "markt": "Balogun trifft (Jederzeit)",
-          "quote": 2.2
-        }
-      ],
-      "begruendung": "3 Kern-Theses je Spiel: England-Klasse-Edge + Belgien-DC-Squad-Tiefe trotz Lukaku-Bank + Balogun-Stamm-9-Form. Layer-1 OK (1 Bein/Spiel). Gesamtquote 1.27*1.28*2.20 = 3.58x = oberes Ende Safe-Range. Einsatz 11€ (2% Kasse 550€). Single-Point-Risiko: England-Elfm-Wahnsinn ala GER/NED gestern (Lesson 06.30).",
-      "empfohlener_einsatz_prozent": 2.0
-    },
-    {
-      "id": "kombi-balance",
-      "name": "Balance-Kombi ~7.9x",
-      "kategorie": "balance",
-      "gesamtquote": 7.94,
-      "einsatz_euro": 4.4,
-      "beine": [
-        {
-          "spiel_id": "2026-07-01-eng-cod",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.65
-        },
-        {
-          "spiel_id": "2026-07-01-usa-bih",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.75
-        },
-        {
-          "spiel_id": "2026-07-01-bel-sen",
-          "markt": "Trossard trifft (Jederzeit)",
-          "quote": 2.75
-        }
-      ],
-      "begruendung": "Markt-Diversifikation zu Safe (Layer-2: kein Sieg/DC-Outcome doppelt). 2x Ueber-2.5-Goldgrube + STAR-AUSFALL-BACKUP-Trossard. Einsatz 4.40€ (0.8% Kasse). Late-Goal-Cluster-Lesson stuetzt Ueber-These.",
-      "empfohlener_einsatz_prozent": 0.8
-    },
-    {
-      "id": "kombi-risiko",
-      "name": "Risiko-Kombi ~15.5x",
-      "kategorie": "risk",
-      "gesamtquote": 15.49,
-      "einsatz_euro": 1.4,
-      "beine": [
-        {
-          "spiel_id": "2026-07-01-eng-cod",
-          "markt": "Bellingham trifft (Jederzeit)",
-          "quote": 2.2
-        },
-        {
-          "spiel_id": "2026-07-01-bel-sen",
-          "markt": "Doku trifft (Jederzeit)",
-          "quote": 3.2
-        },
-        {
-          "spiel_id": "2026-07-01-usa-bih",
-          "markt": "Pulisic trifft (Jederzeit)",
-          "quote": 2.2
-        }
-      ],
-      "begruendung": "Sekundaer-Torschuetzen aller 3 Spiele. Anti-Korrelation zur Safe-Kombi (Markt-Layer-2: keine Sieg/DC-Ueberlapp, keine Torschuetzen-Ueberlapp mit Safe). Layer-1 OK (1 Bein/Spiel). Bellingham+Doku+Pulisic beide Form/Speed-Potenzial. Einsatz 1.40€ (0.25% Kasse).",
-      "empfohlener_einsatz_prozent": 0.25
-    },
     {
       "id": "kombi-moonshot",
       "name": "Moonshot-Kombi ~90x",
       "kategorie": "moonshot",
-      "gesamtquote": 90.0,
+      "gesamtquote": 5.0,
       "einsatz_euro": 0.55,
       "beine": [
         {
           "spiel_id": "2026-07-01-eng-cod",
           "markt": "Wissa trifft (Jederzeit)",
           "quote": 5.0
-        },
-        {
-          "spiel_id": "2026-07-01-bel-sen",
-          "markt": "Mane trifft (Jederzeit)",
-          "quote": 4.0
-        },
-        {
-          "spiel_id": "2026-07-01-usa-bih",
-          "markt": "Dzeko trifft (Jederzeit)",
-          "quote": 4.5
         }
       ],
       "begruendung": "Lotterie. Alle 3 Underdog-Torschuetzen: Wissa (Kongo-Talisman, 3/4 Tore Group) + Mane (Senegal-Kapitaen letzte WM) + Dzeko (Bosnien-40-Jahre-letzte-WM). Sieg-Outcome Underdogs NUR in Moonshot (Layer-2). Einsatz 0.55€ (0.1% Kasse). Spass-Tipp.",
       "empfohlener_einsatz_prozent": 0.1,
-      "rechnung": "5.0 * 4.0 * 4.5 = 90.0"
+      "rechnung": "5.00 = 5.0"
     }
   ],
   "lessons_angewandt": [
