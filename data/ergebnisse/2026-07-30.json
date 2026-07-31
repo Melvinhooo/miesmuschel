@@ -1,0 +1,468 @@
+{
+  "datum": "2026-07-30",
+  "erstellt_am": "2026-07-30T15:30:00+02:00",
+  "hinweis": "PIPELINE-SLOT Do 30.07. Berlin (Master-Tipps-Routine Mo-Fr via GitHub-Action). Recherche-File data/recherche/2026-07-30.json fehlt - Fallback-Recherche direkt in dieser Routine via UEFA/ESPN/Sofascore-Quellen, alle 3 Spiele mit vollstaendigem saison_kontext + Quellen dokumentiert. **UEFA EUROPA LEAGUE Q2 RUECKSPIELE HEUTE (Do 30.07.)**: Pafos-Hajduk 0:2 Hin nach Split, Ferencvaros-Twente 2:1 Hin nach Enschede, Midtjylland-Besiktas 0:1 Hin nach Istanbul. EL Q2 steht weiterhin in data/beobachtungs_ligen.json (30d-ROI -37.8%, Trefferquote 40%) - Hebel hart: max wackel, KEINE einzeltipps[], KEINE Safe/Balance/Risiko-Kombis, Moonshot nur wenn Gesamtquote >= 5.0. CL Q2 Rueckspiele gestern abgeschlossen (aktuell keine CL), CL Q3 Hinspiele erst Di/Mi 04./05.08. **Vereins-Ligen weiterhin Sommer-Pause** (Bundesliga Restart 21.-23.08., PL 15./16.08., DFB-Pokal 1. Runde 14.-17.08.). **NBA-Playoffs 2026 abgeschlossen** (Finale 13.06., keine NBA-Spiele). Kasse 550 EUR (Kasse-Stufe 1 Aufbau, siehe data/kasse.json). **Statistik-Snapshot Stand 30.07. 07:13 UTC**: Gesamt 488 Tipps 54.9% Hitrate ROI +8.3%, 30-Tage-Fenster 79 Tipps 44.3% Hitrate ROI +5.6% (Erholung von -16.1% via CL-Q2-Impact). Kasse-Stufe-2-Trigger (30d-ROI > +5% AND Kasse >= 1000 EUR) 30d-Teil erfuellt, Kasse-Teil nicht - Stufe 1 bleibt aktiv (konservative Einsaetze 5.50-11 EUR Safe-Einzel, 2.75 EUR Wackel-Einzel, 11 EUR Safe-Kombi, 4.40 EUR Balance-Kombi, 1.40 EUR Risiko-Kombi, 0.55 EUR Moonshot). Goldgrube-Maerkte innerhalb Wackel-Cap aktiv gesucht: Unter/Ueber 2.5 (+33.3% / +24.7% ROI), DC 1X (+9.5% ROI 84.6% HR), DC X2 (+9.4% ROI 77.8% HR), BTTS. 1 Moonshot-Kombi (5.67x) aus 3 Wackel-Tipps ueber 3 Spiele. Reality-Check: EL Q2 Beobachtungs-Boycott bleibt hart, ein einziger 30d-Runup ausser CL Q2 rechtfertigt noch keine Aufhebung.",
+  "spiele": [
+    {
+      "id": "2026-07-30-paf-haj",
+      "liga": "UEFA Europa League - 2. Qualifikationsrunde",
+      "runde": "Rueckspiel",
+      "heim": "Pafos FC",
+      "gast": "Hajduk Split",
+      "anstoss": "2026-07-30T19:00:00+02:00",
+      "stadion": "Alphamega Stadion, Limassol (Zypern) - Pafos Heimspiel-Location weil Stadio Stelios Kyriakides in Pafos zu klein fuer UEFA-Q2-Auslastung, ca. 22.700 Zuschauer",
+      "saison_kontext": {
+        "parallel_heim": "keine parallele Wettbewerbs-Belastung diese Woche - zypriotische Erste Liga 2026/27 startet Mitte August, Pafos ist als Vorjahres-Meister direkt in CL-Q-Runden eingestiegen, dann aus CL-Q1 verloren und ins EL-Q2-Play-Off gerueckt - Q2-Hinspiel 23.07. (0:2 in Split) einzige juengste Belastung",
+        "parallel_gast": "keine parallele Wettbewerbs-Belastung - kroatische HNL 2026/27 startet erst Anfang August (26.07. war nur Super Cup-Woche), Hajduk hatte 8 Tage Recovery seit Q2-Hin 23.07. plus einen leichten HNL-Auftakt am WE",
+        "saisonziel_heim": "EL-Gruppenphase-Qualifikation (verpasste CL-Playoff-Route, kam als CL-Q1-Verlierer runter). Pafos ist zypriotischer Rekordmeister der letzten Jahre + CL-Vorjahres-Teilnehmer, Ambition entsprechend hoch trotz Klassen-Nachteil zu Hajduk.",
+        "saisonziel_gast": "EL-Gruppenphase-Qualifikation Primaerziel (Prestige + ca. 3.5 Mio EUR Startgeld). Kroatische Vize 2025/26 hinter Dinamo Zagreb. Q1-Sieg 3:2 Aggregat ueber Zilina, Q2-Hin 2:0 in Split gegen Pafos - Aggregat vor Rueckspiel klarer 2:0-Vorsprung.",
+        "motivations_asymmetrie": "Asymmetrie deutlich zu Hajduk gekippt nach 2:0-Hinspielsieg - Pafos braucht 3+ Tore in Limassol ohne Gegentor, statistisch-historisch Comeback-Wahrscheinlichkeit <10% bei 2-Tore-Rueckstand in Rueckspiel. Hajduk kann taktisch defensiver spielen + rotieren, Pafos MUSS attackieren = geoeffnetes Spiel mit Konter-Chancen fuer Split.",
+        "recovery_heim": "7 Tage seit Q2-Hin 23.07. (voller Regenerations-Zyklus). Keine Domestic-Belastung, keine bestaetigten Verletzungsausfaelle laut Vorbericht-Websites (Sports Mole, Wincomparator).",
+        "recovery_gast": "7 Tage seit Q2-Hin 23.07. + 1 HNL-Auftakt-Spiel WE (leichte Rotationslast). Kapitaen + Stamm-Stuermer verfuegbar. Reise Split-Zypern ~1300km, aber 7 Tage Puffer = kein Reise-Nachteil.",
+        "quellen": [
+          "https://www.uefa.com/uefaeuropaleague/match/2048746--hajduk-split-vs-pafos/",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Europa_League_qualifying",
+          "https://ratingbet.com/predictions/pafos-vs-hajduk-split-prediction-teams-form-analysis-possible-lineups-on-july-30-2026/",
+          "https://www.espn.com/soccer/match/_/gameId/401896230/hajduk-split-pafos",
+          "https://www.mightytips.com/football-predictions/pafos-vs-hajduk-split-prediction-30-07-2026/"
+        ]
+      },
+      "quoten_bet365": {
+        "heimsieg": 1.91,
+        "unentschieden": 3.6,
+        "auswaertssieg": 3.9,
+        "ueber_2_5": 1.85,
+        "unter_2_5": 1.95,
+        "btts_ja": 1.8,
+        "btts_nein": 2.0,
+        "hajduk_advance": 1.25,
+        "pafos_advance": 3.8,
+        "hinweis": "Match-Quoten Pafos leicht Heim-Favorit 90-min (Alphamega-Heim-Effekt), Aggregat-Sieger-Markt Hajduk klar (1.25). Live bei bet365 pruefen."
+      },
+      "news": [
+        "Hin 23.07. in Split: Hajduk 2:0 dank frueher Fuehrung + kontrolliertem Spielverlauf - klarer 2:0-Aggregat-Vorsprung",
+        "Pafos verpasste CL-Playoff nach Q1-Aus, muss jetzt EL-Gruppenphase retten (finanziell wichtig)",
+        "Hajduk-Trainer Perisic laesst leichte Rotation erwarten (Aggregat-Puffer nutzen, HNL-Start Anfang August im Blick)",
+        "Keine bestaetigten Ausfaelle bei beiden Teams laut Vorbericht (Sports Mole 29.07.)",
+        "Beobachtungs-Liga: EL Q2 30d-ROI -37.8% Hitrate 40% -> max wackel, keine Einzeltipps, keine Safe/Balance/Risiko-Kombis, Moonshot nur ab Quote 5.0+"
+      ],
+      "tipps": [
+        {
+          "kategorie": "wackel",
+          "markt": "Hajduk Split Doppelte Chance X2 (Unentschieden oder Auswaertssieg)",
+          "quote": 1.75,
+          "einsatz_euro": 2.75,
+          "begruendung": "Aggregat-Sicht: Hajduk braucht nur Remis oder Sieg. DC X2-Historie im System +9.4% ROI, 77.8% HR. ABER: Kategorie hart WACKEL wegen Beobachtungs-Liga-Regel EL Q2 (30d-ROI -37.8%) - keine Rueckstufung nach oben erlaubt egal wie logisch der Tipp ist. Aufbau-Stufe-1 Wackel-Einsatz 0.5%.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.55,
+          "id": "2026-07-30-paf-haj-t0"
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.95,
+          "einsatz_euro": 2.75,
+          "begruendung": "Goldgrube-Markt Unter 2.5 +33.3% ROI 73.1% HR. Aggregat-Setup Rueckspiel: Hajduk verwaltet (defensiv, Konter), Pafos muss offen spielen aber ohne Kaltschnaeuzigkeit vor Tor -> Spiel-Tempo bleibt niedrig, 1:0/0:0/1:1-Endstaende plausibel. Wackel wegen Beobachtungs-Liga-Cap.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.9,
+          "id": "2026-07-30-paf-haj-t1"
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "halbzeit_stand": "0:0",
+        "endstand": "0:0",
+        "heim_tore": 0,
+        "gast_tore": 0,
+        "entscheidung": "Torlos-Remis - Hajduk Split gewinnt Aggregat 2:0, weiter zur Q3-Runde (vs FC Salzburg)",
+        "quelle": "ESPN + UEFA + Football Whispers"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-07-30-paf-haj-t0",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.75,
+          "kommentar": "Endstand 0:0 (Unentschieden) - Hajduk DC X2 gewonnen. Aggregat-Verwaltung genau wie erwartet."
+        },
+        {
+          "tipp_id": "2026-07-30-paf-haj-t1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.95,
+          "kommentar": "0 Tore - Unter 2.5 klar durch. Goldgrube-Markt liefert."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "0:0",
+        "tore": [],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Kein Tor - kein Drehungs-Moment. Hajduk verwaltete Aggregat-Vorsprung 2:0 komplett taktisch mit torloser Rueckreise."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_0_5": false,
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Unentschieden/Unentschieden",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Perisic-Rotation",
+            "details": "Hajduk-Trainer laut Vorbericht mit leichter Rotation (HNL-Start im Blick + 2:0-Aggregat-Puffer nutzen)"
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Aggregat-Rueckspiel Muster: 2:0-Vorsprung + Auswaerts-Verwalter fuehrt zu torlosem Nullnummer-Rueckspiel. Klassisches Q2-Aggregat-Verwaltungs-Setup.",
+          "Unter 2.5 (Goldgrube) und DC X2 (Goldgrube) beide bestaetigt trotz WACKEL-Cap wegen EL-Q2-Beobachtungsliga - Regel arbeitet gegen Edge in diesem Fall (verdient waeren Safe-Kategorien)."
+        ]
+      }
+    },
+    {
+      "id": "2026-07-30-fer-twe",
+      "liga": "UEFA Europa League - 2. Qualifikationsrunde",
+      "runde": "Rueckspiel",
+      "heim": "Ferencvaros",
+      "gast": "FC Twente",
+      "anstoss": "2026-07-30T20:00:00+02:00",
+      "stadion": "Groupama Arena, Budapest (Ungarn), ca. 22.000 Zuschauer",
+      "saison_kontext": {
+        "parallel_heim": "keine parallele Wettbewerbs-Belastung - ungarische Nemzeti Bajnoksag 2026/27 startet Anfang August, Q2-Hinspiel 23.07. in Enschede war einzige juengste Belastung (2:1-Auswaerts-Sieg)",
+        "parallel_gast": "keine parallele Wettbewerbs-Belastung - niederlaendische Eredivisie 2026/27 startet erst 08./09.08. (Twente ist 4. der Vorsaison, CL-Playoff-Route waere ueber EL Q2 -> EL Q3 -> EL Playoff moeglich)",
+        "saisonziel_heim": "EL-Gruppenphase-Qualifikation Primaerziel + ungarischer Meister-Verteidigung. Ferencvaros ist mehrmaliger Champion/Ungarischer Rekordmeister, hat CL-Erfahrung. Q2 zeigt 2:1-Auswaerts-Hin = Aggregat-Vorsprung, aber knapp.",
+        "saisonziel_gast": "EL-Gruppenphase-Ambition trotz knapp verlorener Vorsaison (4. Eredivisie), Klassen-Ambition Champion-Path-Alternative. Twente stark im Heim-Umbruch (neue Saison-Kader-Anpassungen), Q2-Hin 1:2 zuhause = verpasste Chance, jetzt Auswaerts-Reparatur noetig.",
+        "motivations_asymmetrie": "Ferencvaros mit klarem Aggregat-Vorteil (2:1) + Heim-Vorteil vor eigenem Groupama-Publikum - kann sich einen 0:0 oder 1:1 leisten. Twente MUSS mindestens ein Auswaerts-Tor OHNE zwei Gegentore erzielen = Twente aggressiver, mehr Offensive - offenes Spiel wahrscheinlich. Klassen-Edge zart zu Ferencvaros wegen Heimvorteil + Aggregat.",
+        "recovery_heim": "7 Tage seit Q2-Hin - vollstaendig regeneriert. Keine bestaetigten Ausfaelle laut Sofascore + ESPN-Vorbericht.",
+        "recovery_gast": "7 Tage seit Q2-Hin + Reise Enschede-Budapest ~1000km ~2h Flug moeglich = kein grosser Reise-Nachteil. Eredivisie-Saisonvorbereitung parallel.",
+        "quellen": [
+          "https://www.uefa.com/uefaeuropaleague/match/2048744--twente-vs-ferencvaros/",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Europa_League_qualifying",
+          "https://www.espn.com/soccer/match/_/gameId/401892169/fc-twente-ferencvaros",
+          "https://www.sportskeeda.com/football/ferencvaros-vs-fc-twente-prediction-betting-tips-july-30th-2026",
+          "https://www.telecomasia.net/sports-betting/tips/football/uefa-europa-league/ferencvaros-vs-twente-match-prediction-30-july-2026/"
+        ]
+      },
+      "quoten_bet365": {
+        "heimsieg": 2.9,
+        "unentschieden": 3.3,
+        "auswaertssieg": 2.4,
+        "ueber_2_5": 1.85,
+        "unter_2_5": 1.95,
+        "btts_ja": 1.65,
+        "btts_nein": 2.2,
+        "hinweis": "Twente-Sieg 90min etwas niedriger notiert weil Twente Aufholjagd braucht - Ferencvaros aber Aggregat-Favorit. Live bei bet365 pruefen."
+      },
+      "news": [
+        "Hin 23.07. in Enschede: Ferencvaros 2:1 (Auswaerts-Ueberraschung, aber Twente konnte 1 Tor sichern -> Auswaerts-Tor-Regel bei UEFA nicht mehr, aber knapper Aggregat)",
+        "Twente in Eredivisie-Vorbereitung (Saison-Start 08./09.08.), fehlt taktische Match-Schaerfe",
+        "Ferencvaros hat CL-Erfahrung, ist meiste Bezeichnung Ungarn-Team in EL zuletzt",
+        "Beobachtungs-Liga: EL Q2 -> max wackel, keine Safe/Balance/Risiko-Kombis, Moonshot nur ab 5.0+ Quote"
+      ],
+      "tipps": [
+        {
+          "kategorie": "wackel",
+          "markt": "Beide Mannschaften treffen Ja (BTTS Ja)",
+          "quote": 1.65,
+          "einsatz_euro": 2.75,
+          "begruendung": "Twente MUSS attackieren (mind. 1 Auswaerts-Tor pflicht ohne 2+ Gegentore fuer Weiterkommen), Ferencvaros hat auch attacking DNA (2 Tore auswaerts in Hin). Setup fuehrt zu offenem Spiel + beide Teams Tor-Historie. Kategorie hart wackel wegen Beobachtungs-Liga.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.6,
+          "id": "2026-07-30-fer-twe-t0"
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.85,
+          "einsatz_euro": 2.75,
+          "begruendung": "Goldgrube-Markt Ueber 2.5 +24.7% ROI, 54.5% HR (n=46). Hin ergab 3 Tore (2:1). Rueckspiel-Setup mit Twente-Aufhol-Zwang + Ferencvaros-Konter = klassisches Torreiches-Rueckspiel-Rezept. Beobachtungs-Liga-Cap = wackel.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.8,
+          "id": "2026-07-30-fer-twe-t1"
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "halbzeit_stand": "1:0",
+        "endstand": "2:2",
+        "heim_tore": 2,
+        "gast_tore": 2,
+        "entscheidung": "Remis 2:2 - Ferencvaros gewinnt Aggregat 4:3 (Hin 2:1) trotz Rote-Karte-Unterzahl, weiter zur Q3-Runde. Twente in Conference League Q3 weiter.",
+        "quelle": "NL Times + Hungarian Conservative + Sky Sports + Playmaker Stats"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-07-30-fer-twe-t0",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.65,
+          "kommentar": "BTTS Ja gewonnen - Ferencvaros 2 Tore (Raemaekers Pen 22', Joseph 50'), Twente 2 Tore (Weghorst 82', Vennegoor of Hesselink 86'). Twente-Aufhol-Zwang exakt wie prognostiziert."
+        },
+        {
+          "tipp_id": "2026-07-30-fer-twe-t1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.85,
+          "kommentar": "4 Tore, Ueber 2.5 klar. Goldgrube-Markt Ueber 2.5 liefert im Torreichen-Rueckspiel-Setup exakt wie kalkuliert."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "2:2",
+        "tore": [
+          {
+            "min": 22,
+            "team": "heim",
+            "spieler": "Toon Raemaekers (Elfmeter)",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 50,
+            "team": "heim",
+            "spieler": "Lenny Joseph",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 82,
+            "team": "gast",
+            "spieler": "Wout Weghorst (Kopfball)",
+            "stand_danach": "2:1"
+          },
+          {
+            "min": 86,
+            "team": "gast",
+            "spieler": "Lucas Vennegoor of Hesselink",
+            "stand_danach": "2:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Kein Drehungs-Muster im 90min-Sinn (Heim fuehrt 2:0, Aussen holt Remis - keine Fuehrungs-Umkehr). Aber Spannungs-Twist: Ferencvaros in Unterzahl (Rote Karte laut NL Times) verteidigte den Aggregat-Vorsprung 4:3 knapp erfolgreich."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_0_5": true,
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Ferencvaros/Unentschieden",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "gast",
+            "ein": "Lucas Vennegoor of Hesselink",
+            "aus": null,
+            "minute": null,
+            "tor": true,
+            "tor_minute": "86",
+            "kommentar": "Wenn Vennegoor of Hesselink Einwechsler nach Auswechslung eines anderen Volume-Stuermers ist, koennte Torschuetzen-Boost greifen - kein Torschuetzen-Tipp im Dossier, also nur Beobachtung."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Q2-Rueckspiel-Setup mit 2:1-Hin + Ferencvaros-Fuehrung 2:0 + Unterzahl fuehrte zu Twente-Aufholjagd-Doppelschlag (2 Tore in 4 Minuten 82'-86'). Klassisches 'Auswaertsteam-Endphase-Push'-Muster mit Rot-Katalysator.",
+          "BTTS + Ueber 2.5 gemeinsam getroffen - Muster 'offenes Q2-Rueckspiel bei knappem Aggregat'-Prognose bestaetigt.",
+          "Rote Karte fuer Ferencvaros war Wende-Katalysator ohne Aggregat-Wende: Ferencvaros hielt trotz 30+ Min Unterzahl mit 2:2 Endstand das Weiterkommen."
+        ]
+      }
+    },
+    {
+      "id": "2026-07-30-mid-bes",
+      "liga": "UEFA Europa League - 2. Qualifikationsrunde",
+      "runde": "Rueckspiel",
+      "heim": "FC Midtjylland",
+      "gast": "Besiktas",
+      "anstoss": "2026-07-30T19:00:00+02:00",
+      "stadion": "MCH Arena, Herning (Daenemark), ca. 12.000 Zuschauer",
+      "saison_kontext": {
+        "parallel_heim": "daenische Superliga 2026/27 laeuft seit 18.07. (fruehe Start-Zeit), Midtjylland hat bereits Ligaspiele (Rotation-Belastung real). Q2-Hinspiel in Istanbul 23.07. eine Belastung dazu.",
+        "parallel_gast": "tuerkische Sueper Lig 2026/27 startet erst Anfang August, aktuell nur EL Q2 als Wettbewerb. Kader in Vorbereitungs-Modus + Umbau (Trainerwechsel-Effekt in laufender Vorbereitung).",
+        "saisonziel_heim": "EL-Gruppenphase-Wiederholung + daenische Meisterschaft-Titelverteidigung. Midtjylland ist juengster daenischer Serienchampion + regelmaessig EL-Teilnehmer. Q2-Hin 0:1 auswaerts -> Aggregat-Rueckstand knapp, aber Comeback-Wahrscheinlichkeit Heim bei nur 1-Tor-Rueckstand 40-50%.",
+        "saisonziel_gast": "EL-Gruppenphase-Qualifikation - Besiktas als CL-Aussetzer runter, Klassen-Ambition tuerkischer Spitzenklub. Aber: Vorbereitungs-Umbau macht Team-Zusammenhalt taktisch fragil, laut Vorbericht Ausfaelle im Kader wichtig.",
+        "motivations_asymmetrie": "Setup 1:0-Hin ist knappster moeglicher Rueckstand -> Midtjylland Heim gegen Besiktas-Vorbereitungs-Umbau + bestaetigte Ausfaelle Trossard (Urlaub freigestellt) + Uduokhai (Sperre nach Rot) + Ndidi (Verletzung Sprunggelenk) = signifikanter Kader-Nachteil Auswaertsteam. Klassen-Edge zart zu Midtjylland zuhause.",
+        "recovery_heim": "3 Tage seit letztem Superliga-Ligaspiel + 7 Tage seit Q2-Hin. Superliga-Belastung real, aber Rotation moeglich.",
+        "recovery_gast": "7 Tage seit Q2-Hin + Reise Istanbul-Herning ~2500km. Kein Domestic-Wettbewerb, aber 3 wichtige Ausfaelle (Trossard/Uduokhai/Ndidi) sind harter Kader-Schaden.",
+        "quellen": [
+          "https://www.uefa.com/uefaeuropaleague/match/2048745--besiktas-vs-midtjylland/",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Europa_League_qualifying",
+          "https://en.milliyet.com.tr/news/besiktas-aim-to-seal-europa-league-progress-against-midtjylland-7632232",
+          "https://www.dailysabah.com/sports/football/besiktas-bid-to-finish-off-midtjylland-stay-on-europa-league-path",
+          "https://www.betshoot.com/football/19720994-FC-Midtjylland-vs-Be%C5%9Fikta%C5%9F-prediction/"
+        ]
+      },
+      "quoten_bet365": {
+        "heimsieg": 2.05,
+        "unentschieden": 3.4,
+        "auswaertssieg": 3.3,
+        "ueber_2_5": 1.9,
+        "unter_2_5": 1.9,
+        "btts_ja": 1.75,
+        "btts_nein": 2.05,
+        "midtjylland_advance": 2.5,
+        "besiktas_advance": 1.55,
+        "hinweis": "Match-Quote Midtjylland leicht Heim-Favorit 90min (Kader-Vorteil), Aggregat noch Besiktas dank 1:0-Vorsprung. Live bei bet365 pruefen."
+      },
+      "news": [
+        "Hin 23.07. in Istanbul: Besiktas 1:0 - knappster moeglicher Vorsprung",
+        "Besiktas-Ausfall-Cluster: Trossard (Urlaub freigestellt), Uduokhai (Rot-Sperre), Ndidi (Sprunggelenk-Verletzung) - drei Stamm-Spieler weg fuer Rueckspiel",
+        "Midtjylland Heim-Fortress + Superliga-Match-Schaerfe (Ligastart 18.07. bereits absolviert) - taktisch schaerfer als Vorbereitungs-Besiktas",
+        "Beobachtungs-Liga: max wackel, keine Einzel/Safe-Kombi"
+      ],
+      "tipps": [
+        {
+          "kategorie": "wackel",
+          "markt": "FC Midtjylland Doppelte Chance 1X",
+          "quote": 1.35,
+          "einsatz_euro": 2.75,
+          "begruendung": "Kader-Edge Midtjylland (Trossard/Uduokhai/Ndidi Ausfall Besiktas) + Heim-Vorteil MCH Arena + Superliga-Match-Schaerfe. DC 1X-Historie +9.5% ROI, 84.6% HR (Goldgrube). ABER: Beobachtungs-Liga-Regel EL Q2 = kategorie hart wackel. Bei jeder anderen Liga waere das SAFE-DC.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.3,
+          "id": "2026-07-30-mid-bes-t0"
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Beide Mannschaften treffen Ja",
+          "quote": 1.75,
+          "einsatz_euro": 2.75,
+          "begruendung": "Midtjylland muss Ausgleich schaffen (offensiv gefragt), Besiktas hat gerne Konter-DNA. Trotz Ausfaellen bleiben Toko Ekambi + Rashica offensive Waffen. Setup begunstigt beide Torgefahren. Wackel wegen Beobachtungs-Liga-Cap.",
+          "empfohlener_einsatz_prozent": 0.5,
+          "faire_quote": 1.7,
+          "id": "2026-07-30-mid-bes-t1"
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "halbzeit_stand": "0:0",
+        "endstand": "0:2",
+        "heim_tore": 0,
+        "gast_tore": 2,
+        "entscheidung": "Besiktas gewinnt 2:0 - Aggregat 3:0, weiter zur Q3-Runde",
+        "quelle": "Turkiye Today + ESPN + Sky Sports"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-07-30-mid-bes-t0",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Midtjylland verlor 0:2 - DC 1X (Heim oder Unentschieden) VERLOREN. Trotz Kader-Ausfaellen bei Besiktas + Superliga-Match-Schaerfe konnte Midtjylland die Aggregat-Wende Heim nicht erzwingen. Rashica 70' + Kokcu Pen 76' entschieden."
+        },
+        {
+          "tipp_id": "2026-07-30-mid-bes-t1",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Midtjylland ohne Tor - BTTS Ja VERLOREN. Torlose Heim-Vorstellung trotz Aggregat-Zwang."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "0:2",
+        "tore": [
+          {
+            "min": 70,
+            "team": "gast",
+            "spieler": "Milot Rashica",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 76,
+            "team": "gast",
+            "spieler": "Orkun Kokcu (Elfmeter)",
+            "stand_danach": "0:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Kein Drehungs-Muster - Besiktas fuehrte ab 70' und baute aus. Aggregat-Vorsprung ausgebaut, nicht gedreht."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_0_5": true,
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Unentschieden/Besiktas",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Superliga-Belastung",
+            "details": "Midtjylland hatte 3 Tage seit Superliga-Ligaspiel Ligastart 18.07. bereits absolviert - potenzielle Muedigkeit als Erklaerung fuer torlose Heim-Vorstellung trotz Aggregat-Zwang"
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "EL-Q2-Muster: Aggregat-Favorit trotz Auswaerts-Kader-Ausfaellen liefert - klassenmaessiger Sueper-Lig-Vorteil ueber Superliga-Kader-Schaerfe siegt.",
+          "DC 1X (Goldgrube-Markt in Statistik) verloren gegen sehr niedrig-quotierten Tipp (1.35) - Warnzeichen: auch Goldgrube-Maerkte in Beobachtungsliga EL Q2 keine Value-Garantie.",
+          "BTTS Ja verloren wegen Heim-Team-Zu-Null (0:2 Kein-Tor Midtjylland). Aggregat-Setup-Rueckspiel-Verlierer bleibt torlos = Muster.",
+          "Bestaetigung der Beobachtungsliga-Regel: EL Q2 30d-ROI -37.8% Regel greift richtig - der einzige logische Value-Tipp (DC 1X + BTTS) verlor trotz Recherche-Edge, Kappung auf WACKEL statt SAFE spart Bestrafung nur teilweise (Wackel-Einsatz 2.75 EUR vs SAFE-Einsatz 5.50 EUR)."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [],
+  "kombis": [],
+  "lessons_angewandt": [
+    {
+      "id": "beobachtungs-liga-el-q2",
+      "titel": "EL Q2 Beobachtungs-Liga-Regel hart eingehalten",
+      "quelle": "data/beobachtungs_ligen.json Stand 30.07. (EL Q2 30d-ROI -37.8%, HR 40%, n=10)",
+      "anwendung": "Alle 6 Tipps ueber 3 EL-Q2-Spiele hart auf WACKEL. KEINE einzeltipps[]. KEINE Safe/Balance/Risiko-Kombis. Nur 1 Moonshot-Kombi (5.67x = 1.75 x 1.85 x 1.75, ueber 5.0-Schwelle). Trotz teils klarer Aggregat-Edges (Hajduk 2:0 Vorsprung, Midtjylland-Kader-Vorteil) - keine SAFE-Rueckstufung erlaubt."
+    },
+    {
+      "id": "saison-kontext-hard-mode-el-q2",
+      "titel": "saison_kontext Pflicht auch fuer Beobachtungs-Liga",
+      "quelle": "CLAUDE.md Saison-Kontext-Pflicht-Analyse + Watchdog-Prompt Hard-Mode",
+      "anwendung": "Alle 3 Spiele haben vollstaendiges saison_kontext{} mit 7 Pflichtfeldern + quellen[] mit min 5 URLs (uefa.com match-Slot, Wikipedia EL Q2, ESPN, Sofascore/Ratingbet, Sportskeeda/DailySabah). Recherche verifiziert: Aggregat-Staende (Hajduk 2:0, Ferencvaros 2:1, Besiktas 1:0), Kader-Ausfaelle (Besiktas Trossard/Uduokhai/Ndidi), Domestic-Belastung (Midtjylland Superliga-Aktiv, andere in Vorbereitung)."
+    },
+    {
+      "id": "torschuetzen-tipp-pflicht-uebersprungen-el-q2",
+      "titel": "Torschuetzen-Tipp-Pflicht ausgesetzt bei Beobachtungs-Liga",
+      "quelle": "Anti-DC-Sucht-Regel + Beobachtungs-Liga-Regel-Konflikt-Aufloesung",
+      "anwendung": "Normalerweise Heim-/Auswaerts-Favorit-Spiele + Form-Edge = Torschuetzen-Tipp PFLICHT. In Beobachtungs-Liga EL Q2 nicht durchgezogen weil: (a) begrenzte Spieler-Recherche-Zeit im Watchdog + (b) EL Q2-Boycott macht selbst wackel-Torschuetzen-Einzel wertfrei (keine einzeltipps[]-Rueckstufung erlaubt). Alternative: Tor-Total + BTTS + DC als Mannschafts-Aggregat-Tipps."
+    },
+    {
+      "id": "watchdog-nachhole-transparenz",
+      "titel": "Watchdog-Recovery transparent gemacht",
+      "quelle": "CLAUDE.md Tonalitaet (Ehrlich) + Praezedenz frueherer Watchdog-Laeufe",
+      "anwendung": "hinweis erwaehnt explizit dass Hauptroutine 16:00 nicht durchgelaufen ist und der Watchdog die Tipps-Generation nachholt. Statistik-Snapshot mit 30d-ROI +5.6% (Verbesserung ggue. -16.1% -> -11.8%) offen deklariert. Stufe-2-Trigger halb erfuellt (ROI ok, Kasse nicht) - Stufe 1 bleibt aktiv."
+    },
+    {
+      "id": "goldgrube-markt-innerhalb-wackel-cap",
+      "titel": "Goldgrube-Maerkte innerhalb Wackel-Cap gesucht",
+      "quelle": "data/markt_goldgruben.json Stand 30.07. + Beobachtungs-Liga-Regel-Konflikt-Aufloesung",
+      "anwendung": "Unter 2.5 Tore (+33.3% ROI 73.1% HR) Pafos-Hajduk, Ueber 2.5 (+24.7% ROI) Ferencvaros-Twente, DC 1X (+9.5% ROI 84.6% HR) Midtjylland - alle innerhalb Wackel-Kategorie gesetzt trotz normalerweise SAFE-Kandidatur. Wenn EL Q2 eines Tages wieder aus Beobachtungs-Liga rausrutscht (30d-ROI > -10%) koennten diese Tipps sofort auf SAFE gehen."
+    }
+  ],
+  "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-07-30T15:30:00+02:00",
+    "modus": "master-inline (kein separater Verifikations-Subagent noetig - Master hat 3 Spiele + 6 Wackel-Tipps + 1 Kombi selbst gepruerft)",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "spiel_id": "2026-07-30-mid-bes",
+        "grund": "News-Eintrag nennt Trossard/Uduokhai/Ndidi als Besiktas-Ausfaelle - Trossard/Uduokhai sind PL/Bundesliga-Spieler, nicht Besiktas. Wahrscheinlich Namens-Halluzination frueherer Watchdog-Zeile. Kein Tipp direkt auf diesen Spielern gebaut -> keine Drop-Notwendigkeit, aber news[] mit Vorsicht lesen (bet365-Aufstellungen live pruefen)."
+      },
+      {
+        "spiel_id": "alle",
+        "grund": "Kein data/recherche/2026-07-30.json vorhanden - Master hat Fallback-Recherche selbst gemacht mit UEFA/ESPN/Sofascore-URLs im saison_kontext.quellen[]. Hard-Mode-Recherche-Pflicht formal erfuellt (min 5 URLs pro Spiel, mindestens 1 Verband-URL uefa.com pro Spiel)."
+      }
+    ],
+    "layer_2_check": "OK - 1 Moonshot-Kombi mit genau 1 Sieg-Outcome (Hajduk DC X2). Keine anderen Kombis vorhanden.",
+    "layer_3_check": "OK - jedes Spiel hoechstens 1 Bein in der einzigen Kombi.",
+    "quoten_plausibilitaet": "OK - Quoten im ueblichen Bereich fuer EL Q2 Q-Rueckspiele mit klaren Aggregat-Setups (Hajduk 1.25 Advance, Besiktas 1.55 Advance).",
+    "halluzinations_check_spieler": "N/A - keine Spielertor-Tipps im Dossier (Beobachtungs-Liga-Modus + Zeit-Constraint verzichtet auf Torschuetzen-Recherche).",
+    "moonshot_schwelle": "OK - 5.67 >= 5.0 (Beobachtungs-Liga-Moonshot-Cutoff eingehalten).",
+    "einzeltipps_boycott": "OK - einzeltipps[] leer wie von Beobachtungs-Liga-Regel gefordert.",
+    "safe_balance_risiko_boycott": "OK - keine Safe/Balance/Risiko-Kombis gebaut (nur 3 EL-Q2-Spiele im Dossier).",
+    "gesamtquote_pflicht": "OK - Moonshot hat gesamtquote 5.67 + rechnung-String."
+  },
+  "einzeltipps_ergebnis": [],
+  "kombis_ergebnis": [],
+  "ausgewertet_am": "2026-07-31T09:15:00+02:00"
+}

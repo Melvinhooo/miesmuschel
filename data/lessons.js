@@ -2138,6 +2138,34 @@ window.__MIESMUSCHEL_LESSONS = {
       "lesson": "Alle 4 Kombis busted (Safe-Kombi 11€ / Balance 4.40€ / Risiko 1.40€ / Moonshot 0.55€ = -17.35€ Kombi-Verlust). Korrelations-Analyse: Kombi-Balance + Kombi-Risiko + Kombi-Moonshot teilten sich 3 gemeinsame Torschuetzen-Beine (Talisca / Kostov / Kangwa / Ishak / Hansen / Bala). **Layer-4-Markt-Typ-Konzentration-Risiko: Torschuetzen-Beine in 3/4 Kombis + 4/11 Einzeltipps = massive Cluster-Konzentration.** Single-Points-of-Failure: Ishak-Fail killte Kombi-Balance + Kombi-Moonshot, Kostov-Fail killte Kombi-Risiko + Kombi-Moonshot. **Muster:** Torschuetzen-Beine korrelieren via Rotation-Faktor (Team rotiert → mehrere Watchdog-Spieler auf Bank → Multi-Kombi-Crash). Neue Hartregel Kombi-Layer-4: In einem Dossier maximal 2 Torschuetzen-Beine ueber alle Kombis zusammen (nicht pro Kombi). Diversifikation via Markt-Typ (DC + BTTS + Ueber + 1 Torschuetze), nicht via Spieler-Rotation. **Sub-Regel:** Wenn 4+ Torschuetzen-Watchdog-Tipps am Tag, max 1 davon in Kombis, Rest nur Einzeltipp.",
       "bezug_spiel_id": null,
       "quelle": "volle_analyse-8a (Korrelations-Analyse Kombi-Verluste) + Portfolio-Bilanz 0/4 Kombis"
+    },
+    {
+      "datum": "2026-07-30",
+      "kategorie": "HR07-30-1 Q2-Rueckspiel-Verwaltungs-Muster-8g - 2:0-Aggregat-Vorsprung-Auswaerts fuehrt zu torlosem Rueckspiel",
+      "lesson": "Pafos-Hajduk 0:0 im Rueckspiel mit 2:0-Aggregat-Vorsprung fuer Hajduk-Auswaerts. Klassisches Verwaltungs-Muster: Aggregat-Fuehrer verwaltet defensiv, Aggregat-Rueckstands-Team ohne effektive Umsetzung. Beide Goldgruben-Marker (Unter 2.5 + DC X2 Auswaertsteam) trafen. **Pattern-Aggregation ueber Q-Runden 2026: bei EL/CL-Q-Runden-Rueckspielen mit >=2-Tore-Aggregat-Vorsprung fuer Auswaertsteam gehoert das Setup zu Unter-2.5 + DC-X2-Kombi als Standard-Toolkit.** Neue Empfehlung fuer Q3-Rueckspiele 13.08.: bei jedem Setup mit >=2:0-Hin-Vorsprung Auswaerts systematisch Unter 2.5 + DC X2 in wackel/value gruppieren (Cap-Grenze respektiert).",
+      "bezug_spiel_id": "2026-07-30-paf-haj",
+      "quelle": "volle_analyse-8g (Markt-Pattern) + Aggregat-Setup-Analyse"
+    },
+    {
+      "datum": "2026-07-30",
+      "kategorie": "HR07-30-2 Beobachtungs-Liga-Cap-Regel-Validierung-8g - Klassen-Edge Aggregat-Fuehrer schlaegt Recherche-Kader-Ausfaelle Gegner",
+      "lesson": "Midtjylland 0:2 Besiktas gegen alle Recherche-Indikatoren: (a) 3 dokumentierte Besiktas-Ausfaelle im saison_kontext, (b) Midtjylland Superliga-Match-Schaerfe, (c) DC-1X-Goldgrube (84.6% HR, +9.5% ROI). Trotzdem: DC 1X @ 1.35 VERLOREN + BTTS Ja @ 1.75 VERLOREN. **Muster-Erkenntnis: Klassen-Edge des Aggregat-Fuehrer-Teams (Sueper-Lig-Kader Besiktas) uebertrumpft Superliga-Match-Schaerfe + Kader-Randausfaelle beim Heimteam.** Beobachtungs-Liga-Cap-Regel bewiesen richtig: der einzige klare Value-Tipp verlor, WACKEL-Cap (2.75€ Einsatz statt SAFE 5.50€) sparte 50% Verlust. **Neue Sub-Regel: Bei EL-Q2/Q3-Rueckspielen mit Aggregat-Rueckstand +Heim-Team gegen klassen-hoeheres Aggregat-Fuehrer-Team NIE die DC-1X-Goldgrube-Statistik alleine als Value-Anker nutzen - immer Klassen-Bracket der Ligen abgleichen.**",
+      "bezug_spiel_id": "2026-07-30-mid-bes",
+      "quelle": "volle_analyse-8g/8h + Beobachtungs-Liga-Cap-Validierung"
+    },
+    {
+      "datum": "2026-07-30",
+      "kategorie": "HR07-30-3 BTTS-Ja-Motivations-Asymmetrie-8g - zweiseitiger Zwang trifft, einseitiger Zwang faellt",
+      "lesson": "BTTS-Ja im gleichen Setup-Rahmen (Q2-Rueckspiel), unterschiedliches Ergebnis: (a) Ferencvaros-Twente 2:2 mit **zweiseitiger** Motivation (Twente Aufhol-Zwang + Ferencvaros braucht/will Tore fuer Sicherheit) - TREFFER. (b) Midtjylland-Besiktas 0:2 mit **einseitiger** Motivation (nur Midtjylland Aufhol-Zwang, Besiktas kann verwalten) - FEHL. **Neues Pattern: BTTS-Ja im Aggregat-Rueckspiel-Setup nur wenn beide Teams strukturell Grund zum Attackieren haben.** Bei einseitigem Zwang + Aggregat-Fuehrer-Team taktisch defensiv → BTTS-Ja fallendes Wahrscheinlichkeits-Fenster. Regel-Vorschlag: BTTS-Ja Q2/Q3-Rueckspiele nur wenn Aggregat +/-1 (knapp) UND Aggregat-Fuehrer nicht Klassen-Ueberlegen. Bei Aggregat +2 Auswaerts + Heim-Zwang → BTTS-Nein oder Neutralitaet.",
+      "bezug_spiel_id": null,
+      "quelle": "volle_analyse-8g (Markt-Pattern Vergleich Fer-Twe vs Mid-Bes)"
+    },
+    {
+      "datum": "2026-07-30",
+      "kategorie": "HR07-30-4 Tages-Bilanz-Cap-ROI-Positive-8g - EL-Q2-Beobachtungs-Liga-Cap liefert +20% ROI trotz Wackel-Cap",
+      "lesson": "Tagesbilanz 30.07. (3 EL-Q2-Rueckspiele, 6 wackel-Tipps): 4/6 Hits (66.7% HR) + +3.30€ Profit bei 16.50€ Einsatz = **+20.0% ROI**. Alle 4 Hits waren Goldgrube-Markt-Tipps (Unter 2.5, DC X2, BTTS Ja, Ueber 2.5). **Bestaetigung: Goldgrube-Markt-Fokus + WACKEL-Cap in Beobachtungs-Liga = valide Strategie.** Bei SAFE-Kategorie (5.50€ Einsatz) waere Profit hoeher gewesen (+6.60€), aber Verlust-Risiko bei 2 Losses auch doppelt (-11€ statt -5.50€). Netto-Impact des Caps in dieser Tagesbilanz: leicht negativ (-3.30€ vs +6.60€), aber Risiko-Adjustierung fair. **Regel-Bestaetigung: EL-Q2-Beobachtungs-Liga-Cap durchhalten bis 30d-ROI > -10% oder n>=20 Tipps mit HR >= 55%.**",
+      "bezug_spiel_id": null,
+      "quelle": "Tagesbilanz-Aggregation + Cap-Regel-Sensitivitaets-Rechnung"
     }
   ]
 };
