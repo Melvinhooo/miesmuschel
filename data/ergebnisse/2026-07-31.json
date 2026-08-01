@@ -1,0 +1,39 @@
+{
+  "datum": "2026-07-31",
+  "erstellt_am": "2026-07-31T15:15:00+02:00",
+  "modus": "tag",
+  "hinweis": "WATCHDOG-SLOT Fr 31.07. 15:15 Berlin (Hauptroutine 16:00 hat noch nicht ausgeloest und Watchdog-Trigger 17:15 fruehe Cron-Verschiebung). **RUHETAG Fr 31.07.2026**: kein Spiel in einer CLAUDE.md-Fokus-Liga im Tages-Window Fr 17:15 - Sa 06:00. UEFA Q2-Runde komplett abgeschlossen (CL Q2 Rueckspiele Di/Mi 28./29.07., EL Q2 Rueckspiele + Conference Q2 Rueckspiele Do 30.07.). Naechster UEFA-Slot: CL Q3 Hinspiele Di/Mi 04./05.08.2026, EL Q3 Hinspiele Do 06.08., Conference Q3 Hinspiele Do 06.08. Alle Vereins-Ligen (Bundesliga 28.08. Restart, 2. Bundesliga, Premier League 15./16.08., LaLiga 16.08., Serie A 22./23.08., Ligue 1 spaeter, DFB-Pokal 1. Runde 14.-17.08., Coppa Italia, Copa del Rey, FA Cup, EFL Cup, Coupe de France) in Sommer-Pause bis Mitte/Ende August 2026. WM 2026 Finale So 19.07. abgeschlossen (ARG vs ESP). NBA Playoffs 2026 abgeschlossen Sa 13.06. (Knicks 4-1 Spurs), NBA Summer League Las Vegas endete Sa 19.07. UEFA-Konvention Fr = kein Wettbewerbs-Spieltag (Q-Runden immer Di-Do). Livesoccertv 31.07.2026 zeigt nur Vorbereitungs-Freundschaftsspiele + auslaendische Ligen ausserhalb CLAUDE.md-Fokus-Perimeter (MLS, Allsvenskan, Eliteserien, Brasileirao Serie A, J-League, Liga MX ohne 30d-Historie im System). **Praezedenz Ruhetags-Verhalten**: 16.-27.07. (10 Ruhetage in Folge inkl. Kalender-Analyse), dann Di-Do 28.-30.07. aktiv (UEFA Q2 Rueckspiele), heute Fr 31.07. Ruhetag Nr. 11 der Sommer-Pause, morgen Sa 01.08. + So 02.08. voraussichtlich weitere Ruhetage (keine UEFA-Wettbewerbstage, alle Vereins-Ligen noch in Pause). Naechster erwarteter aktiver Slot: **Di 04.08.2026** mit UEFA CL Q3 Hinspielen (Klasse-Sprung ggue. Q2 mit CL-erfahrenen Teams wie Fenerbahce/Crvena Zvezda/Kairat als potenzielle Q3-Kandidaten). Erster Vereins-Liga-Slot: DFB-Pokal 1. Runde Fr 14.08.-Mo 17.08.2026 (in ~2 Wochen). Kasse 550 EUR unveraendert (Kasse-Stufe 1 Aufbau-Phase - siehe data/kasse.json). **Statistik-Snapshot Stand 31.07. 07:12 UTC**: Gesamt 488 Tipps 54.9% Hitrate ROI +8.3%, 30-Tage-Fenster 79 Tipps 44.3% HR ROI +5.6% (Kasse-Stufe-2-Trigger 30d-ROI >+5% erfuellt, aber Kasse-Teil >=1000 EUR nicht - Stufe 1 bleibt aktiv). Konservative Einsaetze bleiben: 5.50-11 EUR Safe-Einzel, 2.75 EUR Wackel-Einzel, 11 EUR Safe-Kombi, 4.40 EUR Balance-Kombi, 1.40 EUR Risiko-Kombi, 0.55 EUR Moonshot. 18+ / BZgA 0800 1372700.",
+  "spiele": [],
+  "einzeltipps": [],
+  "kombis": [],
+  "lessons_angewandt": [
+    {
+      "id": "ruhetag-ehrlich",
+      "titel": "Ruhetag ehrlich als Ruhetag markieren - keine Zwang-Tipps aus Fremden Ligen",
+      "quelle": "CLAUDE.md Tonalitaet-Prinzip (Ehrlich, keine Zwang-Tipps) + Praezedenz 2026-07-16 bis 2026-07-27 (10 Ruhetage in Folge waehrend Post-WM-Sommer-Pause)",
+      "anwendung": "spiele[] leer, einzeltipps[] leer, kombis[] leer. hinweis erklaert Situation transparent inkl. UEFA-Q2-Ende gestern Do 30.07., Q3-Start erst Di 04.08. (UEFA-Konvention Fr ist Nicht-Spieltag), Vereins-Ligen alle noch in Sommer-Pause bis Mitte August."
+    },
+    {
+      "id": "fokus-ligen-perimeter",
+      "titel": "CLAUDE.md-Fokus-Ligen-Perimeter halten (keine Ausdehnung ohne 30d-Historie)",
+      "quelle": "CLAUDE.md Projekt-Zweck (Aktive Sportarten: Fussball WM 2026 + Vereine BL/2BL/PL/LaLiga/Serie A/DFB-Pokal/CL/EL/Conference/Ligue 1/Coppa Italia + NBA Finals)",
+      "anwendung": "Vorbereitungs-Freundschaftsspiele (Sommer-Testspiele Vereine) bewusst nicht getippt - haben keine Wettbewerbs-Motivation, keine 2:0-Insurance-Regel-Anwendbarkeit, keine 30d-Statistik-Historie im System. MLS / Allsvenskan / Eliteserien / Brasileirao Serie A / J-League / Liga MX wie bisher ausserhalb Perimeter."
+    },
+    {
+      "id": "uefa-q-kalender-fr-nicht-spieltag",
+      "titel": "UEFA-Q-Runden-Kalender-Konvention: Fr ist immer Ruhetag zwischen Q-Wochen",
+      "quelle": "UEFA-Historik-Konvention (Wettbewerbstage Di/Mi/Do, nie Fr/Sa/So bei Q-Runden) + WebSearch UEFA.com CL-Q-Fixtures 2026-27",
+      "anwendung": "Q2-Rueckspiele Do 30.07. abgeschlossen, Q3-Hinspiele Di 04.08. (CL) / Do 06.08. (EL+Conference). Zwischen Q-Runden Fr/Sa/So + Mo grundsaetzlich UEFA-frei = 4-Tage-Ruhefenster. Zukunftige Fr in Q-Phasen ebenfalls automatisch als Ruhetag klassifizieren wenn keine parallele Vereins-Liga aktiv ist."
+    },
+    {
+      "id": "kasse-stufe-1-bei-kasse-unter-1000",
+      "titel": "Kasse-Stufe 1 bleibt aktiv solange Kasse < 1000 EUR ODER 30d-ROI < +5%",
+      "quelle": "CLAUDE.md Einsatz-Limits Stufen-Modell (Stufe 2 nur bei 30d-ROI > +5% UND Kasse >= 1000 EUR)",
+      "anwendung": "30d-ROI +5.6% jetzt endlich wieder oberhalb der Schwelle nach WM-Torschuetzen-Cluster-Recovery, ABER Kasse-Teil 550 EUR / 1000 EUR nicht erfuellt. Stufe 1 bleibt aktiv. Wichtig bei UEFA Q3-Start Di 04.08.: nicht sofort in aggressive Einsatz-Range springen sondern Basis-Recovery Richtung 1000 EUR abwarten (bei aktuellem Einsatz-Niveau ~120 EUR Monats-Volumen und ROI +5-8% braucht das ~15-20 Monate - realistisch statt Stufen-Sprung-Fantasie)."
+    }
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "einzeltipps_ergebnis": [],
+  "kombis_ergebnis": [],
+  "ausgewertet_am": "2026-08-01T07:04:30+00:00"
+}
