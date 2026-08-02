@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-08-01T07:04:31+00:00",
+  "letzte_berechnung": "2026-08-02T07:07:48+00:00",
   "gesamt": {
     "tipps": 488,
     "gewonnen": 262,
@@ -24,15 +24,15 @@ window.__MIESMUSCHEL_STAT = {
     "roi_prozent": 5.6
   },
   "letzte_90_tage": {
-    "tipps": 430,
-    "gewonnen": 226,
-    "verloren": 193,
+    "tipps": 416,
+    "gewonnen": 219,
+    "verloren": 186,
     "push": 2,
     "offen": 9,
-    "einsatz": 421.0,
-    "netto": 39.24,
-    "trefferquote": 53.9,
-    "roi_prozent": 9.3
+    "einsatz": 407.0,
+    "netto": 42.82,
+    "trefferquote": 54.1,
+    "roi_prozent": 10.5
   },
   "nach_liga": {
     "NBA Playoffs Round 1, Game 5": {
