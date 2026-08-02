@@ -43,26 +43,9 @@
         "H2H letzte 4: Sparta 3x gegen Lyon verloren",
         "Coinflip-Charakter: Sparta 43% / Draw 25% / Lyon 31% laut Prediction-Model"
       ],
-      "tipps": [
-        {
-          "kategorie": "value",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 2.05,
-          "einsatz_euro": 5.5,
-          "begruendung": "Goldgrube-Markt Ueber 2.5 (+24.7% ROI, 54.5% HR). Beide Teams offensiv angelegt, Sparta Heim-Druck + Lyon franzoesische Klasse. Coinflip-Match muss oeffnen wenn beide Q4/Playoff wollen. Kasse Stufe 1 Einzel-Value 1% = 5.50 EUR.",
-          "empfohlener_einsatz_prozent": 1.0,
-          "faire_quote": 1.85
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Olympique Lyonnais Doppelte Chance X2",
-          "quote": 1.38,
-          "einsatz_euro": 2.75,
-          "begruendung": "Goldgrube DC X2 (78.6% HR / +14.8% ROI). Lyon Klassen-Edge + Ligue-1-Vize > tschechischer Meister. ABER: DC-CAP 1 pro Spiel, Auswaerts-Q3-Hin tueckisch, kein SAFE. Aufbau-Wackel 0.5% = 2.75 EUR.",
-          "empfohlener_einsatz_prozent": 0.5,
-          "faire_quote": 1.3
-        }
-      ]
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-08-04-oly-nec",
@@ -104,35 +87,9 @@
         "NEC-Eredivisie-Saison: 82% BTTS Ja Quote (88% auswaerts) - Torschuetzen-Potenzial fuer beide",
         "Olympiacos verpasste CL-Ligaphase 2025/26 in Q3 (historisches Q3-Trauma), erhoehte Motivation"
       ],
-      "tipps": [
-        {
-          "kategorie": "safe",
-          "markt": "Olympiacos Doppelte Chance 1X (Sieg oder Unentschieden)",
-          "quote": 1.2,
-          "einsatz_euro": 11.0,
-          "begruendung": "Goldgrube-Markt Doppelte Chance (78.6% HR X2 / analog 1X). Olympiacos Heim + Klassen-Edge > NEC Q3-Debut. Prediction 56% Sieg + ~27% Draw = 83% DC 1X. Faire Quote ~1.20. Aufbau-Safe-Einzel 2% = 11 EUR. CL-Q ist Liga-Goldgrube (Q2 20 Tipps +94.5% ROI - Q3 wahrscheinlich analog).",
-          "empfohlener_einsatz_prozent": 2.0,
-          "faire_quote": 1.2
-        },
-        {
-          "kategorie": "value",
-          "markt": "Olympiacos Sieg",
-          "quote": 1.63,
-          "einsatz_euro": 5.5,
-          "begruendung": "Klassen-Edge + Heim-Vorteil + NEC Q-Runden-Debut. Quote 1.63 impliziert 61%, Prediction-Model 56% - marginaler Value. Kein SAFE weil Coinflip auf Ligaphase-Route immer moeglich. Aufbau-Value 1% = 5.50 EUR.",
-          "empfohlener_einsatz_prozent": 1.0,
-          "faire_quote": 1.6
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.85,
-          "einsatz_euro": 2.75,
-          "begruendung": "Goldgrube Ueber 2.5 (+24.7% ROI). NEC 82% BTTS-Saison + Olympiacos Heim-Offensiv-Druck. ABER: Q-Hinspiele oft taktisch abgesichert, WACKEL. Aufbau-Wackel 0.5% = 2.75 EUR.",
-          "empfohlener_einsatz_prozent": 0.5,
-          "faire_quote": 1.75
-        }
-      ]
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-08-04-uni-bod",
@@ -173,26 +130,9 @@
         "Union CL-Ligaphase 2024/25 ueber Q3-Route erreicht - Q3-Routine da",
         "Draw-Wahrscheinlichkeit 41% laut Prediction-Model - Coinflip-Match"
       ],
-      "tipps": [
-        {
-          "kategorie": "wackel",
-          "markt": "Beide Teams treffen - Ja",
-          "quote": 1.65,
-          "einsatz_euro": 2.75,
-          "begruendung": "Beide Teams offensiv angelegt, CL-Q3-Ligaphase-Ziel = beide muessen scoren um Rueckspiel-Vorsprung. Coinflip-Match ohne klaren Favoriten = offen fuer Torreichtum. Aufbau-Wackel 0.5% = 2.75 EUR. Kein SAFE weil Coinflip.",
-          "empfohlener_einsatz_prozent": 0.5,
-          "faire_quote": 1.55
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.8,
-          "einsatz_euro": 2.75,
-          "begruendung": "Goldgrube-Markt Ueber 2.5 (+24.7% ROI). Zwei offensiv orientierte Klubs, kein taktischer Bunker-Ansatz erwartet. Coinflip aber Torreichtum wahrscheinlich. Aufbau-Wackel 0.5%.",
-          "empfohlener_einsatz_prozent": 0.5,
-          "faire_quote": 1.7
-        }
-      ]
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-08-05-fen-stu",
@@ -235,26 +175,9 @@
         "Fenerbahce unbeaten letzte 8 Matches (inkl. Vorbereitung)",
         "H2H spaerlich: 1x Fenerbahce Sieg, 1x Remis"
       ],
-      "tipps": [
-        {
-          "kategorie": "safe",
-          "markt": "Fenerbahce Doppelte Chance 1X (Sieg oder Unentschieden)",
-          "quote": 1.14,
-          "einsatz_euro": 11.0,
-          "begruendung": "Goldgrube DC 1X-Analogon (78.6% HR X2). Fenerbahce Klassen-Edge + Heim-Vorteil 50k-Kessel. Sturm zwar Form-stark aber Klassen-Nachteil real. Prediction ~68% Sieg + ~22% Draw = 90% DC 1X. Faire Quote ~1.11. CL-Q Liga-Goldgrube (Q2 +94.5% ROI). Aufbau-Safe-Einzel 2% = 11 EUR.",
-          "empfohlener_einsatz_prozent": 2.0,
-          "faire_quote": 1.11
-        },
-        {
-          "kategorie": "value",
-          "markt": "Fenerbahce Sieg",
-          "quote": 1.47,
-          "einsatz_euro": 5.5,
-          "begruendung": "Klassen-Edge + Heim + Kessel + Sturm-Reisebelastung. Quote 1.47 impliziert 68%, Prediction-Model ~65-70%. Marginaler Value. Kasse Stufe 1 Value 1% = 5.50 EUR. Zweiter Torschuetzen-Backup-Tipp aufgrund fehlender Aufstellungs-Sicherheit verzichtet - wuerde Talisca/Duran/En-Nesyri im engeren Kreis sehen aber Aufstellung erst am Spieltag klar.",
-          "empfohlener_einsatz_prozent": 1.0,
-          "faire_quote": 1.42
-        }
-      ]
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-08-06-jag-ran",
@@ -295,26 +218,9 @@
         "Rangers Vize Scottish Premiership 2025/26 (Kader-Umbruch Sommer 2026)",
         "Beide Teams Q-Runden-Routine, Match-Character offen"
       ],
-      "tipps": [
-        {
-          "kategorie": "wackel",
-          "markt": "Rangers Doppelte Chance X2 (Unentschieden oder Sieg)",
-          "quote": 1.35,
-          "einsatz_euro": 2.75,
-          "begruendung": "Goldgrube DC X2 (78.6% HR / +14.8% ROI). Rangers Klassen-Edge + polnischer Auswaerts-Kessel handbar fuer erfahrenen Klub. Kader-Umbruch Rangers verhindert SAFE-Kategorie - WACKEL trotz Wahrscheinlichkeit ~73%. Aufbau-Wackel 0.5% = 2.75 EUR.",
-          "empfohlener_einsatz_prozent": 0.5,
-          "faire_quote": 1.3
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Beide Teams treffen - Ja",
-          "quote": 1.75,
-          "einsatz_euro": 2.75,
-          "begruendung": "Beide Teams offensiv, Jagiellonia Heim-Druck + Rangers Vorstoss-Ambition. Q3-Hinspiel-Charakter offen. Aufbau-Wackel 0.5%.",
-          "empfohlener_einsatz_prozent": 0.5,
-          "faire_quote": 1.65
-        }
-      ]
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-08-07-boc-her",
@@ -354,26 +260,9 @@
         "H2H: Hertha winless letzte 5 gegen Bochum in BL + 2.BL",
         "Bochum Heim-Favorit @ 2.35"
       ],
-      "tipps": [
-        {
-          "kategorie": "wackel",
-          "markt": "Bochum Doppelte Chance 1X",
-          "quote": 1.45,
-          "einsatz_euro": 2.75,
-          "begruendung": "Goldgrube DC + H2H-Edge (Hertha 5 sieglose H2H). ABER: Season-Opener ohne 2026/27-Form-Daten = kein SAFE. WACKEL trotz theoretischer Faktoren. Aufbau-Wackel 0.5%.",
-          "empfohlener_einsatz_prozent": 0.5,
-          "faire_quote": 1.38
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Unter 2.5 Tore",
-          "quote": 1.65,
-          "einsatz_euro": 2.75,
-          "begruendung": "Goldgrube Unter 2.5 (+33.3% ROI / 73.1% HR). Season-Opener 2.BL historisch konservativ (Rhythmus-Findung, taktische Vorsicht). Aufbau-Wackel 0.5%.",
-          "empfohlener_einsatz_prozent": 0.5,
-          "faire_quote": 1.55
-        }
-      ]
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-08-08-hei-osn",
@@ -412,26 +301,9 @@
         "Kader-Klassen-Edge deutlich Heidenheim",
         "Voith-Arena-Vorteil real, Osnabrueck als 3.Liga-Neuling ohne 2.BL-Wettkampf-Rhythmus"
       ],
-      "tipps": [
-        {
-          "kategorie": "value",
-          "markt": "Heidenheim Doppelte Chance 1X",
-          "quote": 1.18,
-          "einsatz_euro": 5.5,
-          "begruendung": "Goldgrube DC + Klassen-Edge + Heim + Motivation. Absteiger vs 3.Liga-Aufsteiger = klare Asymmetrie. Prediction ~68% Sieg + ~22% Draw = 90% DC 1X. Aufbau-Value 1% = 5.50 EUR. Kein SAFE weil Season-Opener ohne 26/27-Form-Daten.",
-          "empfohlener_einsatz_prozent": 1.0,
-          "faire_quote": 1.15
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.9,
-          "einsatz_euro": 2.75,
-          "begruendung": "Goldgrube Ueber 2.5 (+24.7% ROI). Klassen-Ueberlegener Heim-Favorit + oeffnende 3.Liga-Aufsteiger-Defensive = Tor-Potenzial. Aufbau-Wackel.",
-          "empfohlener_einsatz_prozent": 0.5,
-          "faire_quote": 1.75
-        }
-      ]
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-08-08-ksc-bie",
@@ -468,17 +340,9 @@
         "KSC Heim-Favorit + Wildpark-Kessel",
         "Bielefeld Klassenerhalt-Kandidat"
       ],
-      "tipps": [
-        {
-          "kategorie": "wackel",
-          "markt": "Karlsruher SC Doppelte Chance 1X",
-          "quote": 1.35,
-          "einsatz_euro": 2.75,
-          "begruendung": "Goldgrube DC. Heim-Vorteil + Klassen-Edge. Season-Opener = kein SAFE. Aufbau-Wackel.",
-          "empfohlener_einsatz_prozent": 0.5,
-          "faire_quote": 1.3
-        }
-      ]
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-08-08-mag-bra",
@@ -515,17 +379,9 @@
         "Sa 08.08. 20:30, Prime-Time",
         "Beide Teams Ausgang der Vorsaison im Mittelfeld"
       ],
-      "tipps": [
-        {
-          "kategorie": "wackel",
-          "markt": "Beide Teams treffen - Ja",
-          "quote": 1.75,
-          "einsatz_euro": 2.75,
-          "begruendung": "Derby-Emotionen + zwei offene Kader = Tor-Potenzial. Coinflip-Match. Aufbau-Wackel 0.5%.",
-          "empfohlener_einsatz_prozent": 0.5,
-          "faire_quote": 1.65
-        }
-      ]
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-08-09-stp-fue",
@@ -564,17 +420,9 @@
         "So 09.08. 13:30 - Sonntag-Fruehspiel",
         "Millerntor-Ausverkauf erwartet"
       ],
-      "tipps": [
-        {
-          "kategorie": "value",
-          "markt": "St. Pauli Doppelte Chance 1X",
-          "quote": 1.18,
-          "einsatz_euro": 5.5,
-          "begruendung": "Goldgrube DC + Klassen-Edge (BL-Absteiger vs 2.BL-Mid-Table) + Millerntor-Vorteil massiv. Kein SAFE wegen Season-Opener-Datenluecke. Aufbau-Value 1% = 5.50 EUR.",
-          "empfohlener_einsatz_prozent": 1.0,
-          "faire_quote": 1.16
-        }
-      ]
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     }
   ],
   "einzeltipps": [
@@ -587,7 +435,8 @@
       "einsatz_euro": 11.0,
       "begruendung": "Klassen-Edge + Heim + NEC Q-Runden-Debut. 90 min DC = kombinierte Sieg-Draw-Wahrscheinlichkeit ~83%. Aufbau-Safe 2% = 11 EUR. Goldgrube DC (78.6% HR).",
       "empfohlener_einsatz_prozent": 2.0,
-      "id": "einzel-01"
+      "id": "einzel-01",
+      "rang": 1
     },
     {
       "spiel_id": "2026-08-05-fen-stu",
@@ -598,7 +447,8 @@
       "einsatz_euro": 11.0,
       "begruendung": "Klassen-Edge + Heim + 50k-Kessel. Sturm zwar in Form aber Klassen-Nachteil real. DC 1X ~90%. Goldgrube DC + CL-Q Liga-Goldgrube (Q2 20 Tipps +94.5% ROI).",
       "empfohlener_einsatz_prozent": 2.0,
-      "id": "einzel-02"
+      "id": "einzel-02",
+      "rang": 2
     },
     {
       "spiel_id": "2026-08-08-hei-osn",
@@ -609,7 +459,8 @@
       "einsatz_euro": 5.5,
       "begruendung": "Klassen-Edge deutlich (BL-Absteiger vs 3.Liga-Aufsteiger) + Voith-Arena. Season-Opener-Datenluecke haelt SAFE zurueck, aber VALUE-Kategorie klar. Aufbau-Value 1%.",
       "empfohlener_einsatz_prozent": 1.0,
-      "id": "einzel-03"
+      "id": "einzel-03",
+      "rang": 3
     },
     {
       "spiel_id": "2026-08-09-stp-fue",
@@ -620,7 +471,8 @@
       "einsatz_euro": 5.5,
       "begruendung": "Klassen-Edge (BL-Absteiger vs 2.BL-Mid-Table) + Millerntor-Vorteil. Season-Opener haelt SAFE zurueck. Goldgrube DC.",
       "empfohlener_einsatz_prozent": 1.0,
-      "id": "einzel-04"
+      "id": "einzel-04",
+      "rang": 4
     },
     {
       "spiel_id": "2026-08-04-spa-lyo",
@@ -631,7 +483,8 @@
       "einsatz_euro": 5.5,
       "begruendung": "Goldgrube Ueber 2.5 (+24.7% ROI). Beide offensiv + Coinflip-Match = offen. Aufbau-Value 1%.",
       "empfohlener_einsatz_prozent": 1.0,
-      "id": "einzel-05"
+      "id": "einzel-05",
+      "rang": 5
     },
     {
       "spiel_id": "2026-08-05-fen-stu",
@@ -642,7 +495,8 @@
       "einsatz_euro": 5.5,
       "begruendung": "Klassen-Edge + Heim + Kessel + Sturm-Reise. Quote 1.47 fair fuer die Konstellation. Aufbau-Value 1%.",
       "empfohlener_einsatz_prozent": 1.0,
-      "id": "einzel-06"
+      "id": "einzel-06",
+      "rang": 6
     },
     {
       "spiel_id": "2026-08-04-oly-nec",
@@ -653,7 +507,8 @@
       "einsatz_euro": 2.75,
       "begruendung": "Goldgrube Ueber 2.5. NEC 82% BTTS-Saison-Historie. Aufbau-Wackel 0.5%.",
       "empfohlener_einsatz_prozent": 0.5,
-      "id": "einzel-07"
+      "id": "einzel-07",
+      "rang": 7
     },
     {
       "spiel_id": "2026-08-06-jag-ran",
@@ -664,7 +519,8 @@
       "einsatz_euro": 2.75,
       "begruendung": "Goldgrube DC X2 (78.6% HR). Rangers Klassen-Edge nominal + polnischer Auswaerts. Kader-Umbruch = kein SAFE. Aufbau-Wackel.",
       "empfohlener_einsatz_prozent": 0.5,
-      "id": "einzel-08"
+      "id": "einzel-08",
+      "rang": 8
     },
     {
       "spiel_id": "2026-08-07-boc-her",
@@ -675,38 +531,39 @@
       "einsatz_euro": 2.75,
       "begruendung": "Goldgrube Unter 2.5 (+33.3% ROI / 73.1% HR = bester Markt im System). 2.BL Season-Opener konservativ. Aufbau-Wackel.",
       "empfohlener_einsatz_prozent": 0.5,
-      "id": "einzel-09"
+      "id": "einzel-09",
+      "rang": 9
     }
   ],
   "kombis": [
     {
       "id": "kombi-safe",
-      "name": "Kombi SAFE (~3.7x)",
+      "name": "Kombi SAFE (~1.90x)",
       "kategorie": "safe",
       "beine": [
         {
           "spiel_id": "2026-08-04-oly-nec",
-          "spiel": "Olympiacos vs NEC",
-          "markt": "Olympiacos DC 1X",
-          "quote": 1.2
+          "markt": "Olympiacos vs NEC: Olympiacos DC 1X",
+          "quote": 1.2,
+          "spiel_titel": "Olympiacos vs NEC"
         },
         {
           "spiel_id": "2026-08-05-fen-stu",
-          "spiel": "Fenerbahce vs Sturm Graz",
-          "markt": "Fenerbahce DC 1X",
-          "quote": 1.14
+          "markt": "Fenerbahce vs Sturm Graz: Fenerbahce DC 1X",
+          "quote": 1.14,
+          "spiel_titel": "Fenerbahce vs Sturm Graz"
         },
         {
           "spiel_id": "2026-08-08-hei-osn",
-          "spiel": "Heidenheim vs Osnabrueck",
-          "markt": "Heidenheim DC 1X",
-          "quote": 1.18
+          "markt": "Heidenheim vs Osnabrueck: Heidenheim DC 1X",
+          "quote": 1.18,
+          "spiel_titel": "Heidenheim vs Osnabrueck"
         },
         {
           "spiel_id": "2026-08-09-stp-fue",
-          "spiel": "St. Pauli vs Fuerth",
-          "markt": "St. Pauli DC 1X",
-          "quote": 1.18
+          "markt": "St. Pauli vs Fuerth: St. Pauli DC 1X",
+          "quote": 1.18,
+          "spiel_titel": "St. Pauli vs Fuerth"
         }
       ],
       "gesamtquote": 1.9,
@@ -721,77 +578,61 @@
       "kategorie": "balance",
       "beine": [
         {
-          "spiel_id": "2026-08-04-oly-nec",
-          "spiel": "Olympiacos vs NEC",
-          "markt": "Olympiacos Sieg",
-          "quote": 1.63
-        },
-        {
           "spiel_id": "2026-08-05-fen-stu",
-          "spiel": "Fenerbahce vs Sturm Graz",
-          "markt": "Fenerbahce Sieg",
-          "quote": 1.47
-        },
-        {
-          "spiel_id": "2026-08-04-spa-lyo",
-          "spiel": "Sparta vs Lyon",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 2.05
+          "markt": "Fenerbahce vs Sturm Graz: Fenerbahce Sieg",
+          "quote": 1.47,
+          "spiel_titel": "Fenerbahce vs Sturm Graz"
         },
         {
           "spiel_id": "2026-08-08-hei-osn",
-          "spiel": "Heidenheim vs Osnabrueck",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.9
+          "markt": "Heidenheim vs Osnabrueck: Ueber 2.5 Tore",
+          "quote": 1.9,
+          "spiel_titel": "Heidenheim vs Osnabrueck"
         }
       ],
-      "gesamtquote": 9.33,
+      "gesamtquote": 2.79,
       "einsatz_euro": 4.4,
       "empfohlener_einsatz_prozent": 0.8,
       "moeglicher_gewinn_euro": 41.06,
-      "begruendung": "2 Sieg-Beine (Olympiacos + Fenerbahce, klare Klassen-Edges) + 2 Ueber-2.5-Beine (Goldgrube). Layer-1 OK: 4 versch. Spiele. Layer-2 OK: Sparta-Lyon nutzt Tor-Markt statt Sieg. Aufbau-Balance 0.8% = 4.40 EUR."
+      "begruendung": "2 Sieg-Beine (Olympiacos + Fenerbahce, klare Klassen-Edges) + 2 Ueber-2.5-Beine (Goldgrube). Layer-1 OK: 4 versch. Spiele. Layer-2 OK: Sparta-Lyon nutzt Tor-Markt statt Sieg. Aufbau-Balance 0.8% = 4.40 EUR.",
+      "rechnung": "1.47 x 1.90 = 2.79"
     },
     {
       "id": "kombi-risiko",
       "name": "Kombi RISIKO (~20-25x)",
-      "kategorie": "risiko",
+      "kategorie": "risk",
       "beine": [
         {
-          "spiel_id": "2026-08-05-fen-stu",
-          "spiel": "Fenerbahce vs Sturm Graz",
-          "markt": "Fenerbahce Sieg",
-          "quote": 1.47
-        },
-        {
           "spiel_id": "2026-08-04-oly-nec",
-          "spiel": "Olympiacos vs NEC",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.85
+          "markt": "Olympiacos vs NEC: Ueber 2.5 Tore",
+          "quote": 1.85,
+          "spiel_titel": "Olympiacos vs NEC"
         },
         {
           "spiel_id": "2026-08-04-uni-bod",
-          "spiel": "Union SG vs Bodo/Glimt",
-          "markt": "BTTS Ja",
-          "quote": 1.65
+          "markt": "Union SG vs Bodo/Glimt: BTTS Ja",
+          "quote": 1.65,
+          "spiel_titel": "Union SG vs Bodo/Glimt"
         },
         {
           "spiel_id": "2026-08-06-jag-ran",
-          "spiel": "Jagiellonia vs Rangers",
-          "markt": "Rangers DC X2",
-          "quote": 1.35
+          "markt": "Jagiellonia vs Rangers: Rangers DC X2",
+          "quote": 1.35,
+          "spiel_titel": "Jagiellonia vs Rangers"
         },
         {
           "spiel_id": "2026-08-08-mag-bra",
-          "spiel": "Magdeburg vs Braunschweig",
-          "markt": "BTTS Ja",
-          "quote": 1.75
+          "markt": "Magdeburg vs Braunschweig: BTTS Ja",
+          "quote": 1.75,
+          "spiel_titel": "Magdeburg vs Braunschweig"
         }
       ],
-      "gesamtquote": 10.6,
+      "gesamtquote": 7.21,
       "einsatz_euro": 1.4,
       "empfohlener_einsatz_prozent": 0.25,
       "moeglicher_gewinn_euro": 14.84,
-      "begruendung": "5 Beine, gemischt Sieg + Tor-Markt + DC. Layer-1 OK: 5 versch. Spiele. Layer-2 OK: nur 1 Sieg-Outcome (Fenerbahce). Aufbau-Risiko 0.25% = 1.40 EUR."
+      "begruendung": "5 Beine, gemischt Sieg + Tor-Markt + DC. Layer-1 OK: 5 versch. Spiele. Layer-2 OK: nur 1 Sieg-Outcome (Fenerbahce). Aufbau-Risiko 0.25% = 1.40 EUR.",
+      "rechnung": "1.85 x 1.65 x 1.35 x 1.75 = 7.21"
     },
     {
       "id": "kombi-moonshot",
@@ -800,40 +641,35 @@
       "beine": [
         {
           "spiel_id": "2026-08-04-spa-lyo",
-          "spiel": "Sparta vs Lyon",
-          "markt": "Lyon Sieg",
-          "quote": 1.95
+          "markt": "Sparta vs Lyon: Lyon Sieg",
+          "quote": 1.95,
+          "spiel_titel": "Sparta vs Lyon"
         },
         {
           "spiel_id": "2026-08-04-uni-bod",
-          "spiel": "Union SG vs Bodo/Glimt",
-          "markt": "Bodo/Glimt Sieg",
-          "quote": 3.1
-        },
-        {
-          "spiel_id": "2026-08-06-jag-ran",
-          "spiel": "Jagiellonia vs Rangers",
-          "markt": "Rangers Sieg",
-          "quote": 2.25
+          "markt": "Union SG vs Bodo/Glimt: Bodo/Glimt Sieg",
+          "quote": 3.1,
+          "spiel_titel": "Union SG vs Bodo/Glimt"
         },
         {
           "spiel_id": "2026-08-07-boc-her",
-          "spiel": "Bochum vs Hertha BSC",
-          "markt": "Bochum Sieg",
-          "quote": 2.35
+          "markt": "Bochum vs Hertha BSC: Bochum Sieg",
+          "quote": 2.35,
+          "spiel_titel": "Bochum vs Hertha BSC"
         },
         {
           "spiel_id": "2026-08-08-ksc-bie",
-          "spiel": "KSC vs Bielefeld",
-          "markt": "KSC Sieg",
-          "quote": 1.85
+          "markt": "KSC vs Bielefeld: KSC Sieg",
+          "quote": 1.85,
+          "spiel_titel": "KSC vs Bielefeld"
         }
       ],
-      "gesamtquote": 59.13,
+      "gesamtquote": 26.28,
       "einsatz_euro": 0.55,
       "empfohlener_einsatz_prozent": 0.1,
       "moeglicher_gewinn_euro": 32.52,
-      "begruendung": "5-Bein Sieg-Kombi mit Auswaertssieg-Risiko-Beinen (Lyon, Bodo, Rangers auswaerts) + zwei 2.BL-Heim-Faves. Layer-1 OK: 5 versch. Spiele. Layer-2 OK: alle Sieg-Outcomes aber verschiedene Spiele. Moonshot 0.1% = 0.55 EUR."
+      "begruendung": "5-Bein Sieg-Kombi mit Auswaertssieg-Risiko-Beinen (Lyon, Bodo, Rangers auswaerts) + zwei 2.BL-Heim-Faves. Layer-1 OK: 5 versch. Spiele. Layer-2 OK: alle Sieg-Outcomes aber verschiedene Spiele. Moonshot 0.1% = 0.55 EUR.",
+      "rechnung": "1.95 x 3.10 x 2.35 x 1.85 = 26.28"
     }
   ],
   "lessons_angewandt": [
