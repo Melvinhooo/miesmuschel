@@ -1,0 +1,407 @@
+{
+  "datum": "2026-08-03",
+  "erstellt_am": "2026-08-02T17:00:00+02:00",
+  "modus": "woche",
+  "anker_montag": "2026-08-03",
+  "fenster": {
+    "von": "2026-08-03",
+    "bis": "2026-08-09"
+  },
+  "hinweis": "Wochen-Vorschau-Daten Mo 03.08. - So 09.08.2026 (Anker = Mo 03.08.). === SCOPE WOCHE: **UEFA-Q3-HINSPIEL-WOCHE + Saisonstart 2. Bundesliga (Ende Vereins-Sommerpause)**. WM 2026 abgeschlossen (Finale 19.07 ARG-ESP MetLife). NBA Playoffs abgeschlossen (Knicks 4-1 Spurs am 13.06). BL/PL/LaLiga/Serie A/Ligue 1 weiter in Sommer-Pause (BL-Start Fr 28.08, PL 22.08, LaLiga 16.08, Serie A 22./23.08, Ligue 1 Fr 21.08 - alle nach Fenster-Ende). Erst-Vereins-Aktivitaet: **2. Bundesliga Spieltag 1 Fr 07.08.-So 09.08.2026** (9 Spiele - erster Fokus-Liga-Slate seit WM-Ende). DFB-Pokal 1. Runde 14.-17.08.2026 (ausserhalb Fenster). === UEFA-Q3-HINSPIEL-KALENDER FUER FENSTER 03.-09.08.2026 (Details siehe vorschau_fokus_kandidaten): (1) **Di 04.08.2026 + Mi 05.08.2026: UEFA Champions League Q3 Hinspiele** (Draw 20.07.2026 in Nyon). Champions Path 6 Ties (Sieger-Paarungen aus Q2, Klub-Grosskaliber wie Dinamo Zagreb/Slovan Bratislava/Red Star Belgrade/Lech Poznan) + League Path 4 Ties (mit Fenerbahce/Sturm Graz/Feyenoord-Bahn, Olympiakos-NEC, Union SG-Bodo/Glimt, Sparta Prag-Lyon). Insgesamt bis zu 10 CL-Q3-H-Spiele auf Di+Mi verteilt. (2) **Do 06.08.2026: UEFA Europa League Q3 Hinspiele** - Champions Path 12 Klubs/Paarungen + Main Path 14 Klubs/Paarungen (~13 Ties gesamt). Bestaetigte Fokus-Ties inkl. Fenerbahce/Gornik-Sieger vs Twente/Ferencvaros-Sieger, Besiktas vs Tromso/Hradec-Sieger, Salzburg vs Hajduk/Pafos-Sieger. (3) **Do 06.08.2026: UEFA Conference League Q3 Hinspiele** - Champions Path 8 Klubs + Main Path 52 Klubs (~30 Ties gesamt). Umfang ~30 CoL-Q3-H-Spiele - Fokus-Auswahl in Tages-Recherche Do 06.08 10:30 (nicht alle recherchebar). === Q3-RUECKSPIELE alle AUSSERHALB Fenster: CL Q3-R Di 11./Mi 12.08.2026, EL+CoL Q3-R Do 13.08.2026 - fallen in naechste Wochen-Vorschau. === FOKUS-LIGA-EINSTIEG 2. BUNDESLIGA SPIELTAG 1: 9 Spiele Fr 07.08 (Bochum vs Hertha 20:30 Ruhrstadion, TV-Uebertragung Sat.1/Sky Ausnahme-Slot) + Sa 08.08 (6 Spiele: 1x 20:30 Wolfsburg vs Kaiserslautern Volkswagen Arena Top-Spiel + 5x 13:00/13:30 Rest) + So 09.08 (2 Spiele: 13:00 Cottbus vs Hannover Stadion der Freundschaft + 13:30 St. Pauli vs Fuerth Millerntor). Aufsteiger 2 (VfL Osnabrueck, FC Energie Cottbus) + Absteiger aus BL 3 (FC St. Pauli, 1. FC Heidenheim, VfL Wolfsburg) + Absteiger zur 3. Liga 2 (Preussen Muenster, Fortuna Duesseldorf) + Aufsteiger zur 1. BL 3 (Schalke 04, SV Elversberg, SC Paderborn). Verbleibende 12 Zweitligisten aus 25/26 unveraendert. === PRAEZEDENZ RECHERCHE-WOCHE 2026-07-27 (letzte Wochen-Recherche mit UEFA-Q2-Rueckspielen): dortiges leerschlag_metadata verortete alle UEFA-Q2 unter 'vorschau_fokus_kandidaten' + 2. Bundesliga-Start als 'ausserhalb Fenster'. Diese Woche 03.-09.08. hebt 2. BL erstmals IN-Scope (Spieltag 1 Fr-So im Fenster). UEFA-Q3-Bahn analog Q2-Vorwoche als Fokus-Kandidaten (grosser Umfang bis 55 Spiele Di-Do, konkrete Fokus-Auswahl fuer Tipps kommt aus Tages-Recherche). === BEOBACHTUNGS-LIGEN-STATUS Stand 2026-08-02 (data/beobachtungs_ligen.json): (1) 'UEFA Europa League - 2. Qualifikationsrunde' aktiv beobachtet (10 Tipps 30d, ROI -37.8%, HR 40.0%) - EL Q3 ist NEUE Runde, technisch ist Beobachtungs-Liga-Downgrade Q2-spezifisch, aber Empfehlungs-Signal (Q2 Bluter = Q3 Vorsichts-Signal). (2) 'FIFA WM 2026 - Round of 32' aktiv beobachtet (10 Tipps 30d, ROI -37.1%, HR 40.0%) - irrelevant fuer diese Woche. (3) 'FIFA WM 2026 - Halbfinale' aktiv beobachtet (6 Tipps 30d, ROI -34.2%, HR 33.3%) - irrelevant. Bundesliga/2. Bundesliga NICHT in Beobachtungs-Liste = voll bespielbar bei Spieltag-1-Start. === KASSE-STAND 04.05.2026: 550 EUR (data/kasse.json) -> Stufe 1 (Aufbau-Phase Kasse <1000 EUR) aktiv. Stufe-2-Trigger: 30d-ROI aktuell +5.6% erfuellt (>+5%), aber Kasse-Teil (>=1000 EUR) NICHT erfuellt -> Stufe 1 bleibt aktiv. Einsatz-Limits Stufe 1: Einzel SAFE/VALUE 1-2% (5.50-11 EUR), Wackel-Einzel 0.5% (2.75 EUR), Kombi Safe 2% (11 EUR), Kombi Balance 0.8% (4.40 EUR), Kombi Risiko 0.25% (1.40 EUR), Moonshot 0.1% (0.55 EUR). Bei 2. BL-Start konservativer Wieder-Einstieg empfohlen: kein aggressives Fireworks-Kombi in Spieltag 1 (Season-Opener-Volatilitaet, viele Neuzugaenge Aufsteiger, Absteiger-Kader-Umbaeue). === MARKT-GOLDGRUBEN Stand 02.08.2026 (data/markt_goldgruben.json): Unter 2.5 Tore (73.1% / +33.3%), Ueber 2.5 Tore (54.5% / +24.7%), Doppelte Chance X2 (78.6% / +14.8%), NBA-Spieler-Punkte-Ueber/Unter (irrelevant diese Woche). Aktiv suchen. Markt-Bluter aktuell nur 'Spread/Handicap' (12 Tipps, -11.3% ROI) - fuer 2. BL relevant bei Handicap-Wetten (nicht direkt setzen als SAFE/VALUE). === bet365-SONDERREGELN Woche-Fenster-Relevanz: (a) **2:0-Insurance-Regel gilt** fuer Bundesliga + Champions League + WM 2026. Da BL erst 28.08 startet und WM abgeschlossen, in dieser Woche fuer CL-Q3-Hinspiele aktiv (2:0-Fuehrung Sieg-Tipp = gewonnen egal wie Endstand). EL Q3 + Conference Q3 NICHT unter Insurance. 2. Bundesliga NICHT unter Insurance (gilt nur 1. BL laut bet365-DE-AGB). (b) Einwechslungs-Boost bei Torschuetzen-Tipps bleibt bet365-DE-Standard fuer ALLE Fussball-Maerkte inkl. 2. BL + CL/EL/CoL-Q3 - volumen-starke Stuermer eher +Value. === QUELLEN-VERIFIKATION Recherche 02.08 16:30-17:00 Berlin via WebSearch + WebFetch: Sky Sports DE (2. BL Spieltag 1 komplette Liste), FCK.de (Kaiserslautern-Spielplan-Verifikation Sa 08.08 20:30 vs Wolfsburg), Yahoo Sports (CL Q3 Draw-Ergebnisse), Fanatik.com (EL Q3 partial), Wikipedia (Coppa Italia 26/27 Preliminary), UEFA.com (Kalender-Bestaetigung), diefalsche9.de (Aufsteiger/Absteiger 2. BL 26/27). Vollstaendige UEFA-Q3-Bahn-Details (alle Q1-/Q2-Sieger-Zuweisungen) benoetigen Tages-Recherche-Verifikation Mo 03.08 (nach Q2-Rueckspiel-Ergebnissen von Do 30.07). 18+ / BZgA 0800 1372700.",
+  "spiele": [],
+  "leerschlag_metadata": {
+    "grund": "wochen_vorschau_mit_uefa_q3_hinspielen_plus_2_bundesliga_spieltag_1_als_erster_vereins_liga_slate",
+    "wm_2026_status": "beendet am So 19.07.2026 mit Finale ARG vs ESP MetLife 21:00 CEST",
+    "nba_status": "Saison beendet seit 13.06.2026 (Knicks Champion 4-1 vs Spurs)",
+    "vereins_fussball_status": "Ende Sommer-Pause im Wochen-Fenster: **2. Bundesliga Spieltag 1 Fr 07.-So 09.08.2026 IN-Scope**. Top-5-Ligen (BL/PL/PD/SA/FL1) + DFB-Pokal + Coppa Italia Round of 64 weiter in Sommer-Pause bis Mitte-August (siehe vereins_fussball_saisonstart_kalender).",
+    "vereins_fussball_saisonstart_kalender": {
+      "2_bundesliga_2026_27_spieltag_1": "**IN-SCOPE: Fr 07.08.2026 20:30 CEST Bochum vs Hertha BSC (Ruhrstadion) + Sa 08.08 6 Spiele + So 09.08 2 Spiele** - alle im Vorschau-Fenster.",
+      "coppa_italia_2026_27_preliminary": "**PARTIAL IN-SCOPE: Sa 08.08 (2 Spiele) + So 09.08 (2 Spiele)** - 4 Turno-Preliminare-Partien Serie B vs Serie C.",
+      "ligue_1_2026_27_spieltag_1": "~14./15./16.08.2026 - AUSSERHALB Fenster",
+      "premier_league_2026_27_spieltag_1": "Sa 22.08.2026 - AUSSERHALB Fenster (Kalender-Korrektur vs Ur-Angabe 15./16.08.: aktuelles Wikipedia 2026-27 Premier League zeigt 22.08.)",
+      "dfb_pokal_2026_27_1_runde": "Fr 14.08.-Mo 17.08.2026 - AUSSERHALB Fenster",
+      "coppa_italia_2026_27_1_runde_round_of_64": "15./16.08.2026 - AUSSERHALB Fenster",
+      "bundesliga_2026_27_spieltag_1": "Fr 28.08.2026 - AUSSERHALB Fenster",
+      "laliga_2026_27_spieltag_1": "So 16.08.2026 - AUSSERHALB Fenster",
+      "serie_a_2026_27_spieltag_1": "22./23.08.2026 - AUSSERHALB Fenster",
+      "supercup_dfl_franz_beckenbauer": "Sa 22.08.2026 BVB vs FC Bayern Signal Iduna Park 20:30 CEST - AUSSERHALB Fenster",
+      "supercup_fa_community_shield": "So 16.08.2026 Principality Stadium Cardiff Arsenal vs Man City - AUSSERHALB Fenster",
+      "supercup_trophee_des_champions": "So 16.08.2026 Stade Bollaert-Delelis Lens - Lens vs PSG 20:45 CEST - AUSSERHALB Fenster",
+      "cl_q3_hinspiele": "**IN-SCOPE: Di 04./Mi 05.08.2026** (Draw 20.07.2026 in Nyon)",
+      "cl_q3_rueckspiele": "Di 11./Mi 12.08.2026 - AUSSERHALB Fenster",
+      "el_q3_hinspiele": "**IN-SCOPE: Do 06.08.2026** (Draw 20.07.2026)",
+      "el_q3_rueckspiele": "Do 13.08.2026 - AUSSERHALB Fenster",
+      "conference_q3_hinspiele": "**IN-SCOPE: Do 06.08.2026** (Draw 20.07.2026)",
+      "conference_q3_rueckspiele": "Do 13.08.2026 - AUSSERHALB Fenster",
+      "cl_playoff_hinspiele": "Di 18./Mi 19.08.2026 - AUSSERHALB Fenster",
+      "el_playoff_hinspiele": "Do 20.08.2026 - AUSSERHALB Fenster",
+      "cl_leaguephase_2026_27_start": "~16.09.2026",
+      "el_leaguephase_2026_27_start": "~24.09.2026",
+      "conference_leaguephase_2026_27_start": "~01.10.2026"
+    },
+    "vorschau_fokus_kandidaten": [
+      {
+        "kategorie": "2. Bundesliga 2026/27 - Spieltag 1 (Fokus-Liga IN-Scope)",
+        "datum": "Fr 07.08. + Sa 08.08. + So 09.08.2026",
+        "anzahl_spiele": 9,
+        "beobachtungs_liga_status": "NICHT auf beobachtungs_ligen.json - voll bespielbar. Historisch (2. BL vor Sommer-Pause) ohne 30d-Historie im System weil Sommer-Pause seit Mai 2026.",
+        "spiele": [
+          {
+            "id_vorschlag": "2026-08-07-boc-her",
+            "datum": "Fr 07.08.2026",
+            "anstoss_cest": "20:30",
+            "heim": "VfL Bochum",
+            "gast": "Hertha BSC",
+            "stadion": "Vonovia Ruhrstadion, Bochum (26k)",
+            "kontext": "Season-Opener-Match, TV Sat.1/Sky. Bochum Absteiger aus BL 25/26 (Tabellen-17. mit ~29 Pkt), Hertha BSC dritte Saison 2. BL nach Abstieg 22/23 (Vorsaison 25/26 mittlerer Tabellenrand ~Platz 9-11). Klassen-Edge tendenziell Bochum wg. frischem BL-Abstieg mit vermutlich stabilem Kader, Hertha im Umbau-Modus. Season-Opener-Volatilitaet hoch.",
+            "quellen": ["https://sport.sky.de/fussball/artikel/2-bundesliga-spieltag-1-und-2-2026-27-veroeffentlicht-alle-spiele-termine-und-uhrzeiten/13561240/34130"]
+          },
+          {
+            "id_vorschlag": "2026-08-08-wob-kai",
+            "datum": "Sa 08.08.2026",
+            "anstoss_cest": "20:30",
+            "heim": "VfL Wolfsburg",
+            "gast": "1. FC Kaiserslautern",
+            "stadion": "Volkswagen Arena, Wolfsburg (30k)",
+            "kontext": "Top-Spiel Samstag. Wolfsburg Absteiger aus BL 25/26 - erster BL-Abstieg seit 1997! Frischer Absteiger mit hoher Kader-Qualitaet, hoher Aufstiegs-Druck. Kaiserslautern Vorsaison 25/26 vermutlich mittlerer Tabellenrand. Wolfsburg-Erwartung stark bespielt (Sieg-Tipp SAFE-Kandidat), FCK-Auswaerts-Testfall in Volkswagen Arena erstes Wieder-Aufeinandertreffen seit 2012.",
+            "quellen": ["https://fck.de/blog/bundesliga-setzt-spieltage-1-und-2-zeitgenau-an/", "https://sport.sky.de/fussball/artikel/2-bundesliga-spieltag-1-und-2-2026-27-veroeffentlicht-alle-spiele-termine-und-uhrzeiten/13561240/34130"]
+          },
+          {
+            "id_vorschlag": "2026-08-08-hei-osn",
+            "datum": "Sa 08.08.2026",
+            "anstoss_cest": "13:00",
+            "heim": "1. FC Heidenheim",
+            "gast": "VfL Osnabrueck",
+            "stadion": "Voith-Arena, Heidenheim (15k)",
+            "kontext": "Absteiger BL vs Aufsteiger 3. Liga. Heidenheim nach 2 Jahren BL (23/24 + 24/25) und Abstieg 25/26 mit dem starken Frank-Schmidt-Kern. Osnabrueck Aufsteiger 3. Liga (Meister oder Vize 25/26 mit Aufstieg). Klassen-Edge Heidenheim deutlich, aber Kader-Umbau-Faktor.",
+            "quellen": ["https://sport.sky.de/fussball/artikel/2-bundesliga-spieltag-1-und-2-2026-27-veroeffentlicht-alle-spiele-termine-und-uhrzeiten/13561240/34130"]
+          },
+          {
+            "id_vorschlag": "2026-08-08-dar-kie",
+            "datum": "Sa 08.08.2026",
+            "anstoss_cest": "13:00",
+            "heim": "SV Darmstadt 98",
+            "gast": "Holstein Kiel",
+            "stadion": "Merck-Stadion am Boellenfalltor, Darmstadt (17k)",
+            "kontext": "Beide etablierte Zweitligisten aus 25/26 (Darmstadt seit Abstieg 24 in 2. BL, Kiel seit Abstieg 25 in 2. BL). Klassen relativ ausgeglichen, Season-Opener offen.",
+            "quellen": ["https://sport.sky.de/fussball/artikel/2-bundesliga-spieltag-1-und-2-2026-27-veroeffentlicht-alle-spiele-termine-und-uhrzeiten/13561240/34130"]
+          },
+          {
+            "id_vorschlag": "2026-08-08-nue-dre",
+            "datum": "Sa 08.08.2026",
+            "anstoss_cest": "13:30",
+            "heim": "1. FC Nuernberg",
+            "gast": "SG Dynamo Dresden",
+            "stadion": "Max-Morlock-Stadion, Nuernberg (50k)",
+            "kontext": "Traditions-Duell, Nuernberg mit Publikums-Zuspruch. Beide Zweitligisten aus 25/26.",
+            "quellen": ["https://sport.sky.de/fussball/artikel/2-bundesliga-spieltag-1-und-2-2026-27-veroeffentlicht-alle-spiele-termine-und-uhrzeiten/13561240/34130"]
+          },
+          {
+            "id_vorschlag": "2026-08-08-ksc-bie",
+            "datum": "Sa 08.08.2026",
+            "anstoss_cest": "13:00",
+            "heim": "Karlsruher SC",
+            "gast": "DSC Arminia Bielefeld",
+            "stadion": "BBBank Wildpark, Karlsruhe (35k)",
+            "kontext": "Zweitligist-Duell, KSC mit Auswertungs-Praezedenz Heim-Staerke 25/26. Bielefeld nach Ostwestfalen-Aufsteiger-Saison Aufstieg zu 2. BL 25/26.",
+            "quellen": ["https://sport.sky.de/fussball/artikel/2-bundesliga-spieltag-1-und-2-2026-27-veroeffentlicht-alle-spiele-termine-und-uhrzeiten/13561240/34130"]
+          },
+          {
+            "id_vorschlag": "2026-08-08-mag-bra",
+            "datum": "Sa 08.08.2026",
+            "anstoss_cest": "13:30",
+            "heim": "1. FC Magdeburg",
+            "gast": "Eintracht Braunschweig",
+            "stadion": "MDCC-Arena, Magdeburg (30k)",
+            "kontext": "Ost-West-Duell, beide Zweitligisten aus 25/26. Magdeburg Heim-Vorteil.",
+            "quellen": ["https://sport.sky.de/fussball/artikel/2-bundesliga-spieltag-1-und-2-2026-27-veroeffentlicht-alle-spiele-termine-und-uhrzeiten/13561240/34130"]
+          },
+          {
+            "id_vorschlag": "2026-08-09-cot-han",
+            "datum": "So 09.08.2026",
+            "anstoss_cest": "13:00",
+            "heim": "FC Energie Cottbus",
+            "gast": "Hannover 96",
+            "stadion": "Stadion der Freundschaft, Cottbus (22k)",
+            "kontext": "**Aufsteiger 3. Liga vs Zweitligist**. Cottbus historischer Wieder-Aufstieg (Meister 3. Liga 25/26 nach 9 Jahren 3. Liga). Hannover 96 Zweitligist aus 25/26 mit Aufstiegs-Ambitionen. Klassen-Edge Hannover, Cottbus-Heim-Faktor + Aufsteiger-Euphorie ausgleichend.",
+            "quellen": ["https://sport.sky.de/fussball/artikel/2-bundesliga-spieltag-1-und-2-2026-27-veroeffentlicht-alle-spiele-termine-und-uhrzeiten/13561240/34130"]
+          },
+          {
+            "id_vorschlag": "2026-08-09-stp-fue",
+            "datum": "So 09.08.2026",
+            "anstoss_cest": "13:30",
+            "heim": "FC St. Pauli",
+            "gast": "SpVgg Greuther Fuerth",
+            "stadion": "Millerntor-Stadion, Hamburg (29k)",
+            "kontext": "**Absteiger BL vs Zweitligist**. St. Pauli nach 2 Jahren BL (24/25 + 25/26) und Abstieg. Fuerth langjaehriger Zweitligist. Klassen-Edge St. Pauli deutlich. Millerntor mit garantierter voller Kulisse - Season-Opener-Emotionen hoch.",
+            "quellen": ["https://sport.sky.de/fussball/artikel/2-bundesliga-spieltag-1-und-2-2026-27-veroeffentlicht-alle-spiele-termine-und-uhrzeiten/13561240/34130"]
+          }
+        ],
+        "kommentar_gesamt": "Season-Opener 2. BL 26/27. **Konservative Tipps-Woche-Empfehlung**: max 2-3 Einzel-Tipps auf Absteiger-mit-Klassen-Edge (St. Pauli, Wolfsburg, ggf. Heidenheim, ggf. Bochum). Kein Wochen-Kombi weil Season-Opener-Volatilitaet (viele Neuzugaenge, Kader-Umbaeue Aufsteiger + Absteiger) + fehlende 30d-Historie fuer 2. BL im System. Squad-Recherche mit Neuzugangs-Verifikation kommt in Tages-Recherche Fr 07.08 10:30 (Bochum-Hertha) + Sa 08.08 07:00 (Rest Sa + Vorschau So) + Do 06.08 16:30 (Wochenend-Vorschau Sa+So). Aufsteiger Osnabrueck + Cottbus + Neuzugaenge/Abgaenge Absteiger und Zweitligisten in Tages-Recherche zu verifizieren.",
+        "quellen": [
+          "https://sport.sky.de/fussball/artikel/2-bundesliga-spieltag-1-und-2-2026-27-veroeffentlicht-alle-spiele-termine-und-uhrzeiten/13561240/34130",
+          "https://fck.de/blog/bundesliga-setzt-spieltage-1-und-2-zeitgenau-an/",
+          "https://www.diefalsche9.de/die-teilnehmer-der-2-bundesliga-2026-27/",
+          "https://de.wikipedia.org/wiki/2._Fu%C3%9Fball-Bundesliga_2026/27",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_2._Bundesliga"
+        ]
+      },
+      {
+        "kategorie": "UEFA Champions League Q3 Hinspiele (League Path Fokus)",
+        "datum": "Di 04./Mi 05.08.2026",
+        "anzahl_ties": 4,
+        "beobachtungs_liga_status": "NICHT direkt auf beobachtungs_ligen.json (Q3 ist eigene Runde), aber Q2-Beobachtung-EL kein direkter Downgrade fuer CL-Q3. **2:0-Insurance gilt bei bet365-DE fuer CL-Sieg-Tipps.**",
+        "ties": [
+          {
+            "heim_hinspiel": "Olympiakos",
+            "gast_hinspiel": "NEC Nijmegen",
+            "kommentar": "Griechischer Meister 25/26 (Olympiakos) vs niederlaendischer Europacup-Kandidat (NEC Nijmegen Platz 4-5 Eredivisie 25/26). Karaiskakis-Stadion 33k, hoher Laermpegel. Klassen-Edge Olympiakos deutlich. Hinspiel-Datum Di 04.08 oder Mi 05.08 - Verifikation in Tages-Recherche.",
+            "quellen": ["https://sports.yahoo.com/articles/champions-league-third-qualifying-round-104930750.html"]
+          },
+          {
+            "heim_hinspiel": "Union Saint-Gilloise",
+            "gast_hinspiel": "Bodo/Glimt",
+            "kommentar": "Belgischer Meister 25/26 (USG) vs norwegischer Aufsteiger-Weltmeister Bodo/Glimt (25/26 Norwegen-Meister + EL-Vertreter). USG-Home Anderlecht-Lotto-Park (Ausweich-Stadion Union hat kein UEFA-taugliches Heim). Klassen-Edge zart USG, Bodo/Glimt hat CL-Q-Erfahrung.",
+            "quellen": ["https://sports.yahoo.com/articles/champions-league-third-qualifying-round-104930750.html"]
+          },
+          {
+            "heim_hinspiel": "Fenerbahce ODER Gornik Zabrze (Q2-Sieger)",
+            "gast_hinspiel": "Sturm Graz ODER Hearts of Midlothian (Q2-Sieger)",
+            "kommentar": "Cross-Zuordnung aus Q2-Rueckspielen Di/Mi 28./29.07 - Sieger-Verifikation in Tages-Recherche Di 04.08. Wahrscheinlichste Konstellation (Klassen-Edge Q2): Fenerbahce vs Sturm Graz. Klassen-Edge Fenerbahce leicht > Sturm.",
+            "quellen": ["https://sports.yahoo.com/articles/champions-league-third-qualifying-round-104930750.html"]
+          },
+          {
+            "heim_hinspiel": "Sparta Prag",
+            "gast_hinspiel": "Lyon",
+            "kommentar": "**Fokus-Tie**. Sparta Prag tschechischer Meister 25/26 + CL-Q-Stamm-Kunde. Lyon franzoesischer Runner-up/EL-Aussteiger 25/26 - Klassen-Edge Lyon (Ligue-1-Klub). Letna-Stadion Prag ~19k. Rueckspiel wahrscheinlich Groupama-Stadium Lyon ~59k. Sparta-Auswaerts-Prognose in Rueckspiel schwer, Hinspiel Heim Sparta = zaehes Match.",
+            "quellen": ["https://sports.yahoo.com/articles/champions-league-third-qualifying-round-104930750.html"]
+          }
+        ],
+        "quellen_gesamt": [
+          "https://sports.yahoo.com/articles/champions-league-third-qualifying-round-104930750.html",
+          "https://www.uefa.com/uefachampionsleague/news/02a7-211a524fc0ef-eb55dc7dccd8-1000--uefa-champions-league-third-qualifying-round-draw/",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League_qualifying"
+        ]
+      },
+      {
+        "kategorie": "UEFA Champions League Q3 Hinspiele (Champions Path Fokus-Kandidaten)",
+        "datum": "Di 04./Mi 05.08.2026",
+        "anzahl_ties": 6,
+        "beobachtungs_liga_status": "NICHT direkt auf beobachtungs_ligen.json. 2:0-Insurance gilt (CL-Wettbewerb).",
+        "ties_matrix": [
+          {
+            "heim_hinspiel": "Thun ODER Dinamo Zagreb (Q2-Sieger)",
+            "gast_hinspiel": "KI Klaksvik ODER Kauno Zalgiris (Q1-Sieger?)",
+            "kommentar": "Dinamo Zagreb favorisiert bei Q2-Sieg. Klassen-Edge stark bei ihm. Wahrscheinliche Q2-Sieger-Konstellation Dinamo vs Klaksvik/Kauno."
+          },
+          {
+            "heim_hinspiel": "Levski Sofia ODER Universitatea Craiova (Q2-Sieger)",
+            "gast_hinspiel": "Kairat Almaty ODER Omonia Nikosia (Q2-Sieger)",
+            "kommentar": "Kairat Almaty (Kasachstan-Meister) + Omonia (Zypern-Meister) starkes Duell aus Q2. Levski + Craiova beide auf Q2-Bahn."
+          },
+          {
+            "heim_hinspiel": "Ararat-Armenia ODER Shamrock Rovers (Q2-Sieger)",
+            "gast_hinspiel": "Egnatia ODER Celje (Q2-Sieger)",
+            "kommentar": "Celje slowenischer Sensations-Meister 25/26, wahrscheinlicher Q3-Teilnehmer nach Q2-Sieg."
+          },
+          {
+            "heim_hinspiel": "Mjaellby ODER Lincoln Red Imps (Q2-Sieger)",
+            "gast_hinspiel": "Iberia 1999 Tbilisi ODER Slovan Bratislava (Q2-Sieger)",
+            "kommentar": "Slovan Bratislava klarer Klassen-Favorit bei Q2-Sieg (CL-League-Phase-Vorjahr)."
+          },
+          {
+            "heim_hinspiel": "AGF Aarhus ODER Lech Poznan (Q2-Sieger)",
+            "gast_hinspiel": "Sabah Baku ODER KuPS Kuopio (Q2-Sieger)",
+            "kommentar": "Lech Poznan favorisiert bei Q2-Sieg (polnischer Meister)."
+          },
+          {
+            "heim_hinspiel": "Vikingur Reykjavik ODER Hapoel Beer-Sheva (Q2-Sieger)",
+            "gast_hinspiel": "Larne ODER Red Star Belgrade (Q2-Sieger)",
+            "kommentar": "Red Star Belgrade klarer Klassen-Favorit bei Q2-Sieg (serbischer Meister + Traditions-Kunde)."
+          }
+        ],
+        "kommentar_gesamt": "Q2-Sieger-Zuweisungen erst nach Do 30.07-Rueckspielen fest bekannt. Konkrete Fokus-Auswahl fuer Tipps-Woche/Tages-Recherche: max 1-2 Champions-Path-Ties mit klarem Klassen-Edge (Dinamo Zagreb, Slovan Bratislava, Red Star Belgrade, Lech Poznan). Osteuropa/Balkan-Ligen ohne 30d-Historie in Statistik = Vorsichts-Signal. Volles Squad-Recherche in Tages-Recherche Di 04.08 10:30.",
+        "quellen": [
+          "https://sports.yahoo.com/articles/champions-league-third-qualifying-round-104930750.html",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League_qualifying"
+        ]
+      },
+      {
+        "kategorie": "UEFA Europa League Q3 Hinspiele",
+        "datum": "Do 06.08.2026",
+        "anzahl_ties": 13,
+        "beobachtungs_liga_status": "EL-Q2 auf beobachtungs_ligen.json (ROI -37.8%, HR 40.0%, n=10). Q3 = eigene Runde, kein automatischer Downgrade, aber Vorsichts-Signal fuer Tipps-Routine.",
+        "ties_teilbestaetigt": [
+          {
+            "heim_hinspiel_kandidat": "Fenerbahce ODER Gornik Zabrze (Q2-Sieger CL-Bahn)",
+            "gast_hinspiel_kandidat": "Twente ODER Ferencvaros (Q2-Sieger EL-Bahn)",
+            "kommentar": "Cross-Zuordnung ueber CL-Q2-Verlierer (Fenerbahce+Sturm-Graz-Verlierer fallen in EL Q3). Datum-Verifikation Do 06.08."
+          },
+          {
+            "heim_hinspiel_kandidat": "Besiktas",
+            "gast_hinspiel_kandidat": "Tromso ODER Hradec Kralove (EL-Q2-Sieger)",
+            "kommentar": "Besiktas Q2 gewann 1-0 Hinspiel + Rueckspiel Do 30.07 vs Midtjylland vermutlich weiter -> Q3 Sieger. Klassen-Edge Besiktas deutlich (tuerkischer CL-Playoff-Aussteiger)."
+          },
+          {
+            "heim_hinspiel_kandidat": "FC Salzburg",
+            "gast_hinspiel_kandidat": "Hajduk Split ODER Pafos FC (EL-Q2-Sieger)",
+            "kommentar": "Salzburg Bundesliga-3. 25/26 mit EL-Q3-Direkteinstieg. Wahrscheinlicher Gegner Hajduk (Q2-Sieg 2-0 vs Pafos). Klassen-Edge Salzburg. Red-Bull-Arena ~30k."
+          }
+        ],
+        "kommentar_gesamt": "13 Q3-Ties, davon nur ~3 vor-verifiziert (Turkish + Salzburg via Fanatik + Red Bull Salzburg). Rest der Ties nach Q2-Rueckspiel-Ergebnissen Do 30.07 zu ermitteln. Fokus-Empfehlung Tipps-Woche/Tages-Recherche: max 2-3 Einzeltipps mit klaren Klassen-Ties (Besiktas-H, Salzburg-H, Fenerbahce falls im Feld). Konservativ wegen Q2-EL-Beobachtungs-Status. Volles Squad-Recherche in Tages-Recherche Do 06.08 10:30.",
+        "quellen": [
+          "https://www.fanatik.com.tr/en/uefa-europa-league-third-qualifying-round-draw-completed-2631363",
+          "https://www.redbullsalzburg.at/en/recent/ticketing/uel-q3-termin-tickets",
+          "https://www.uefa.com/uefaeuropaleague/news/02a7-211a52dae2c1-7f4984de0afd-1000--uefa-europa-league-third-qualifying-round-draw/",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Europa_League_qualifying"
+        ]
+      },
+      {
+        "kategorie": "UEFA Conference League Q3 Hinspiele",
+        "datum": "Do 06.08.2026",
+        "anzahl_ties_grob": "~30 Ties (8 Champions Path + 22-25 Main Path, Draw-Feld 60 Klubs/Paarungen laut UEFA)",
+        "beobachtungs_liga_status": "aktuell NICHT auf beobachtungs_ligen.json (kein 30d-Sample), aber de-facto-Beobachtungsliga wg. mangelnder Datenbasis + Klein-Klub-Umfeld",
+        "kommentar_gesamt": "Umfang zu gross fuer vollstaendige Wochen-Vorschau, Fokus-Auswahl erfolgt in Tages-Recherche Do 06.08 10:30 Berlin. Wahrscheinliche Fokus-Kandidaten: Klubs mit >=6.5 UEFA-Klub-Koeffizient (z.B. Genk, Rapid Wien, Fiorentina Q3-Direkteinsteiger falls, PAOK bei EL-Q2-Verlierer-Cross, Legia Warschau, ggf. Basel als CH-Vertreter). Wahrscheinlich max 1-2 Tipp-Kandidaten fuer Tipps-Woche-Routine, weil hohe Klein-Klub-Dichte + fehlende 30d-Historie zu unsicherer Datenlage fuehrt. Do 30.07 CoL-Q2-Rueckspiele muessen erst ausgewertet werden fuer Cross-Zuordnungen.",
+        "referenz_kalender": "Do 06.08.2026 Hinspiele, Do 13.08.2026 Rueckspiele",
+        "quellen": [
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Conference_League_qualifying",
+          "https://www.uefa.com/uefaconferenceleague/news/02a7-211a532e4696-3c0037cb8ac0-1000--uefa-conference-league-third-qualifying-round-draw/",
+          "https://www.uefa.com/uefaconferenceleague/news/02a6-20e5e911587f-cc10425958b3-1000--conference-league-qualifying-fixtures-results-dates-how-it-/"
+        ]
+      },
+      {
+        "kategorie": "Coppa Italia 2026/27 - Turno Preliminare (4 Spiele)",
+        "datum": "Sa 08.08. + So 09.08.2026",
+        "anzahl_spiele": 4,
+        "beobachtungs_liga_status": "NICHT auf beobachtungs_ligen.json - aber Serie B / Serie C Klein-Klub-Umfeld, keine 30d-Historie. Nicht CLAUDE.md-Fokus-Liga im engeren Sinn (Coppa Italia ist in Liste, aber Turno-Preliminare = niedrigste Stufe mit Serie-C-Beteiligung).",
+        "spiele": [
+          {
+            "id_vorschlag": "2026-08-08-vic-cat",
+            "datum": "Sa 08.08.2026",
+            "anstoss_cest": "20:00",
+            "heim": "L.R. Vicenza (Serie B)",
+            "gast": "Catania FC (Serie C)",
+            "stadion": "Stadio Romeo Menti, Vicenza",
+            "kommentar": "Klassen-Edge Vicenza wg. Ligen-Differenz. Catania Serie C, aber traditionsreich."
+          },
+          {
+            "id_vorschlag": "2026-08-08-asc-pot",
+            "datum": "Sa 08.08.2026",
+            "anstoss_cest": "20:30",
+            "heim": "Ascoli Calcio (Serie B)",
+            "gast": "Potenza Calcio (Serie C)",
+            "stadion": "Stadio Cino e Lillo Del Duca, Ascoli Piceno",
+            "kommentar": "Klassen-Edge Ascoli."
+          },
+          {
+            "id_vorschlag": "2026-08-09-are-brs",
+            "datum": "So 09.08.2026",
+            "anstoss_cest": "19:45",
+            "heim": "SS Arezzo (Serie B)",
+            "gast": "Union Brescia (Serie C)",
+            "stadion": "Stadio Citta di Arezzo",
+            "kommentar": "Klassen-Edge Arezzo."
+          },
+          {
+            "id_vorschlag": "2026-08-09-ben-rav",
+            "datum": "So 09.08.2026",
+            "anstoss_cest": "21:00",
+            "heim": "Benevento Calcio (Serie B)",
+            "gast": "Ravenna FC (Serie C)",
+            "stadion": "Stadio Ciro Vigorito, Benevento",
+            "kommentar": "Klassen-Edge Benevento (starker Serie-B-Klub 25/26)."
+          }
+        ],
+        "kommentar_gesamt": "Season-Start Turno-Preliminare (Vor-Runde vor Round-of-64 15./16.08). Klassen-Edge in allen 4 Spielen bei Serie-B-Klub (Heim). Aber: Season-Opener-Volatilitaet + Serie-C-Klub mit Cup-Anreiz + Ligen-Differenz nicht so brutal wie D3-vs-BL. **Tipps-Woche-Empfehlung**: eher skippen, weil (a) Serie-C hat keine 30d-Historie im System, (b) Cup-Preliminaer-Runden empirisch volatiler als League-Match, (c) einzeltipps auf Serie-B-Sieg bei Quote ~1.30-1.50 gering-Wert. Wenn ueberhaupt: max 1 Einzeltipp WACKEL auf klaren Favoriten (z.B. Benevento oder Vicenza).",
+        "quellen": [
+          "https://en.wikipedia.org/wiki/2026-27_Coppa_Italia",
+          "https://www.inter.it/en/news/coppa-italia-2026-2027-bracket",
+          "https://www.ravennafc.it/en/2026/07/31/2026-27-season-official-dates-confirmed-for-coppa-italia-and-league-campaign-12/"
+        ]
+      }
+    ],
+    "ausserhalb_scope_aber_geprueft": [
+      {
+        "kategorie": "1. Bundesliga + Premier League + LaLiga + Serie A + Ligue 1 + DFB-Pokal Round-of-64 + Coppa Italia Round-of-64",
+        "datum": "gesamte Woche 03.-09.08.2026",
+        "grund_skip": "Alle Top-5-Ligen weiter in Sommer-Pause bis 16.-28.08.2026. DFB-Pokal 1. Runde erst 14.-17.08.2026 (nach Fenster). Coppa-Round-of-64 erst 15./16.08.2026.",
+        "quellen": ["https://www.dfl.de/de/aktuelles/rahmenterminkalender-fuer-die-saison-2026-27-bundesliga-auftakt-am-28-august-2-bundesliga-startet-am-7-august/", "https://en.wikipedia.org/wiki/2026%E2%80%9327_Bundesliga", "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League"]
+      },
+      {
+        "kategorie": "Pre-Season Freundschaftsspiele (PL/BL/LaLiga/Serie A/Ligue 1 Sommer-Vorbereitung)",
+        "datum": "gesamte Woche 03.-09.08.2026 laufend",
+        "beispiele": [
+          "PL-Klubs weiterhin US-Tour + Asien-Tour (Man United, Chelsea, Arsenal, Liverpool - individuelle Testspiele Publikation)",
+          "BL-Klubs Trainingslager-Rueckkehr (Bayern Muenchen Rottach-Egern Trainingslager-Ende ~03.08, Dortmund Bad Ragaz + Testspiel-Reihe)",
+          "Ligue 1 Trophée des Champions Vorbereitung PSG-Lens 16.08",
+          "diverse weitere Testspiele international",
+          "Franz-Beckenbauer-Supercup DFL BVB vs FC Bayern 22.08 Signal Iduna Park - Vorbereitung"
+        ],
+        "grund_skip": "Trainings-Format mit Massen-Wechseln (2x11 Voll-Rotation), kein Wettbewerbs-Motivations-Edge, Aufstellungen bis kurz vor Anpfiff unklar, Neuzugaenge + Jugend-Spieler bekommen Test-Zeit - strukturell nicht tippfaehig. Praezedenz Ruhetage 17.-26.07 + 31.07 + 01.-02.08 haben Freundschaftsspiele explizit ausgeschlossen.",
+        "quellen": ["https://www.premierleague.com/en/news/4606700/premier-league-clubs-2026-pre-season-fixtures-and-results"]
+      },
+      {
+        "kategorie": "NBA Preseason + WNBA + NHL-Offseason + MLS + Brasileirao Serie A + LaLiga MX + weitere Beobachtungs-Ligen",
+        "datum": "laufend",
+        "grund_skip": "NICHT in CLAUDE.md-Scope. NBA Preseason startet erst September, Regular Season Oktober. Andere Ligen (MLS, Brasileirao, Liga MX, J-League) ausserhalb 30d-Historie im System."
+      },
+      {
+        "kategorie": "Nationale Supercups (Franz-Beckenbauer-Supercup + FA Community Shield + Trophée des Champions)",
+        "datum": "alle 16./22.08.2026 - AUSSERHALB Fenster",
+        "grund_skip": "Alle Supercups liegen 1-2 Wochen nach Fenster-Ende (Community Shield + Trophée 16.08, DFL Supercup 22.08). In-Scope in Wochen-Vorschau fuer 17.08 bzw. 24.08."
+      },
+      {
+        "kategorie": "3. Liga 2026/27 Spieltag 1",
+        "datum": "01./02./03.08.2026 (Fr-So) - bereits gestartet vor Fenster-Anker",
+        "grund_skip": "3. Liga nicht auf CLAUDE.md-Fokus-Liga-Liste. Spieltag 2 innerhalb Fenster ggf Fr 07./Sa 08./So 09.08 - bleibt aus Perimeter-Gruenden ausserhalb.",
+        "quellen": ["https://en.wikipedia.org/wiki/2026%E2%80%9327_3._Liga"]
+      }
+    ]
+  },
+  "kasse_hinweis": {
+    "kasse_euro": 550,
+    "stand": "2026-05-04",
+    "stufe": 1,
+    "stufe_kommentar": "Aufbau-Phase Kasse <1000 EUR - Standard-Einsaetze konservativ. In dieser Woche wg. (a) 2. BL-Season-Opener-Volatilitaet + Kader-Umbaeue Aufsteiger/Absteiger + fehlender 30d-Historie 2. BL, (b) UEFA-Q3-Beobachtungs-Signal von EL-Q2 + Klein-Klub-Umfeld CoL-Q3, (c) Coppa-Preliminaer-Klein-Klub-Risiko = max 3-5 sehr konservative Einzeltipps (0.5-1.5% Wackel bis Value). **Kein Wochen-Kombi mit >4 Legs empfohlen** wegen Season-Opener-Faktor + Q3-Sensations-Risiko.",
+    "auszahlungs_hinweis": "Auszahlungs-Trigger (Kasse >= basis_kasse_euro 1000 + auszahlungs_schwelle_euro 200 = 1200 EUR) nicht erreicht, keine Aktion.",
+    "stufe_2_check": "30d-ROI aktuell +5.6% laut 02.08-Snapshot -> Stufe-2-Trigger (rolling 30d ROI >+5%) formal erfuellt, ABER Kasse-Teil (>=1000 EUR) doppelt-Verlangen NICHT erfuellt (550 EUR). Konservativ-Modus bleibt.",
+    "wieder-einstiegs-hinweis": "Erste substantielle Fokus-Liga-Woche seit WM-Ende (fast 3 Wochen Ruhe-/Beobachtungs-Phase). Vorsichtiger Wieder-Einstieg mit fokussierten Tipps, kein Nachhol-Aggressivitaets-Verhalten. Kasse-Basis stabil halten Richtung 1000 EUR."
+  },
+  "naechste_recherche_slots_pipeline": {
+    "tag_slots_mo_03_bis_fr_07_08": "Mo 03.08 10:30 vermutlich leer (Ruhetag Nr. 14 - Kalender-Zwischen-Q-Runden-Ruhe), Di 04.08 10:30 fuer CL-Q3-Hinspiele-Wave-1, Mi 05.08 10:30 fuer CL-Q3-Hinspiele-Wave-2, Do 06.08 10:30 fuer EL-Q3 + CoL-Q3-Hinspiele-Slate (bis zu 40+ Spiele - Priorisierung auf 5-8 Fokus-Ties noetig), **Fr 07.08 10:30 fuer 2. BL Spieltag 1 Match Bochum-Hertha 20:30 + evtl. Wochenend-Vorbereitung**.",
+    "wochenende_08_09_08": "**Do 06.08 16:30 Berlin Wochenend-Recherche-Slot fuer Sa 08./So 09.08 - erste substantielle Fokus-Liga-Wochenend-Recherche seit WM-Ende**: 2. Bundesliga Spieltag 1 Rest-Spiele Sa (Wolfsburg-FCK 20:30 Top-Spiel + 5x 13:00/13:30) + So (Cottbus-Hannover 13:00 + St. Pauli-Fuerth 13:30) + evtl. Coppa-Italia-Preliminare (Vicenza-Catania Sa 20:00, Ascoli-Potenza Sa 20:30, Arezzo-Union Brescia So 19:45, Benevento-Ravenna So 21:00).",
+    "woche_10_08_bis_16_08": "So 09.08 16:30 Berlin naechste Wochen-Recherche - dann fallen CL Q3 Rueckspiele Di 11./Mi 12.08 + EL Q3 Rueckspiele Do 13.08 + CoL Q3 Rueckspiele Do 13.08 + **DFB-Pokal 1. Runde Fr 14./Sa 15./So 16./Mo 17.08** + Coppa-Italia-Round-of-64 15./16.08 + Ligue 1 Spieltag 1 14.-16.08 + LaLiga Spieltag 1 16.08 + FA Community Shield 16.08 + Trophée des Champions 16.08 in-Scope. **Massive Fokus-Liga-Slate-Woche.**",
+    "erste_grosse_grosse_relevante_recherche": "Ab **Do 13.08.2026 Wochenend-Recherche fuer Sa 15./So 16.08**: DFB-Pokal-1.-Runde-Wochenende + Ligue-1-Spieltag-1 + LaLiga-Spieltag-1 + FA-Community-Shield + Trophée-des-Champions + Coppa-Italia-Round-of-64 - erster massiver Fokus-Liga-Slate seit WM-Ende. Bundesliga-1-Start Fr 28.08 folgt Woche darauf."
+  },
+  "footer": {
+    "spielerschutz_hinweis": "18+ - bet365 DE - Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+    "erstellt_von": "recherche_cloud_routine",
+    "modus_kommentar": "wochen-vorschau modus, anker montag 2026-08-03, spiele[] leer weil (a) 2. BL Spieltag 1 volle Squad-Recherche mit Neuzugaengen + Vorbereitungs-Testspiel-Auswertung in Tages-Recherche Do 06.08 16:30 + Fr 07.08 10:30 realistischer + (b) UEFA-Q3-Ties zum Wochen-Vorschau-Zeitpunkt noch nicht mit definitiven Q2-Sieger-Zuweisungen recherchierbar. Fokus-Kandidaten in leerschlag_metadata.vorschau_fokus_kandidaten strukturell fuer Tipps-Woche-Routine dokumentiert (9 x 2. BL Spieltag 1 Spiele mit id-Vorschlag + 4 x CL-Q3-League-Path-Ties + 6 x CL-Q3-Champions-Path-Ties-Matrix + ~3 x EL-Q3-Teilbestaetigt + ~30 x CoL-Q3 als Gesamt-Aggregat + 4 x Coppa-Italia-Preliminare).",
+    "quellen_gesamt": [
+      "https://sport.sky.de/fussball/artikel/2-bundesliga-spieltag-1-und-2-2026-27-veroeffentlicht-alle-spiele-termine-und-uhrzeiten/13561240/34130",
+      "https://fck.de/blog/bundesliga-setzt-spieltage-1-und-2-zeitgenau-an/",
+      "https://www.diefalsche9.de/die-teilnehmer-der-2-bundesliga-2026-27/",
+      "https://de.wikipedia.org/wiki/2._Fu%C3%9Fball-Bundesliga_2026/27",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_2._Bundesliga",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League_qualifying",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Europa_League_qualifying",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Conference_League_qualifying",
+      "https://sports.yahoo.com/articles/champions-league-third-qualifying-round-104930750.html",
+      "https://www.uefa.com/uefachampionsleague/news/02a7-211a524fc0ef-eb55dc7dccd8-1000--uefa-champions-league-third-qualifying-round-draw/",
+      "https://www.uefa.com/uefaeuropaleague/news/02a7-211a52dae2c1-7f4984de0afd-1000--uefa-europa-league-third-qualifying-round-draw/",
+      "https://www.uefa.com/uefaconferenceleague/news/02a7-211a532e4696-3c0037cb8ac0-1000--uefa-conference-league-third-qualifying-round-draw/",
+      "https://www.fanatik.com.tr/en/uefa-europa-league-third-qualifying-round-draw-completed-2631363",
+      "https://www.redbullsalzburg.at/en/recent/ticketing/uel-q3-termin-tickets",
+      "https://en.wikipedia.org/wiki/2026-27_Coppa_Italia",
+      "https://www.inter.it/en/news/coppa-italia-2026-2027-bracket",
+      "https://www.ravennafc.it/en/2026/07/31/2026-27-season-official-dates-confirmed-for-coppa-italia-and-league-campaign-12/",
+      "https://www.dfl.de/de/aktuelles/rahmenterminkalender-fuer-die-saison-2026-27-bundesliga-auftakt-am-28-august-2-bundesliga-startet-am-7-august/",
+      "data/recherche_woche/2026-07-27.json (Praezedenz-Format mit UEFA-Q2-Rueckspielen)",
+      "data/tipps/2026-08-02.json (aktuelle Kalender-Selbstkorrektur + Kasse-Status)",
+      "data/beobachtungs_ligen.json (EL-Q2 aktiv beobachtet)",
+      "data/kasse.json (Kasse 550 EUR Stufe 1)",
+      "data/markt_goldgruben.json (Doppelte Chance X2 + Unter/Ueber 2.5 Tore + BTTS)",
+      "data/markt_bluter.json (Spread/Handicap Vorsicht)"
+    ]
+  }
+}
