@@ -1,4 +1,4 @@
-// Auto-generiert vom Watchdog 17:15 Recovery
+// Auto-generiert
 window.__MIESMUSCHEL_TIPPS = {
   "datum": "2026-08-03",
   "erstellt_am": "2026-08-03T15:20:00+02:00",
@@ -73,5 +73,4 @@ window.__MIESMUSCHEL_TIPPS = {
     ]
   },
   "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
-}
-;
+};

@@ -578,24 +578,18 @@
       "kategorie": "balance",
       "beine": [
         {
-          "spiel_id": "2026-08-05-fen-stu",
-          "markt": "Fenerbahce vs Sturm Graz: Fenerbahce Sieg",
-          "quote": 1.47,
-          "spiel_titel": "Fenerbahce vs Sturm Graz"
-        },
-        {
           "spiel_id": "2026-08-08-hei-osn",
           "markt": "Heidenheim vs Osnabrueck: Ueber 2.5 Tore",
           "quote": 1.9,
           "spiel_titel": "Heidenheim vs Osnabrueck"
         }
       ],
-      "gesamtquote": 2.79,
+      "gesamtquote": 1.9,
       "einsatz_euro": 4.4,
       "empfohlener_einsatz_prozent": 0.8,
       "moeglicher_gewinn_euro": 41.06,
       "begruendung": "2 Sieg-Beine (Olympiacos + Fenerbahce, klare Klassen-Edges) + 2 Ueber-2.5-Beine (Goldgrube). Layer-1 OK: 4 versch. Spiele. Layer-2 OK: Sparta-Lyon nutzt Tor-Markt statt Sieg. Aufbau-Balance 0.8% = 4.40 EUR.",
-      "rechnung": "1.47 x 1.90 = 2.79"
+      "rechnung": "1.90 = 1.9"
     },
     {
       "id": "kombi-risiko",
