@@ -33,46 +33,54 @@ window.__MIESMUSCHEL_TIPPS = {
       ],
       "tipps": [
         {
-          "kategorie": "value",
+          "kategorie": "wackel",
           "spiel_id": "2026-08-04-lev-kai",
-          "markt": "Doppelte Chance 1X",
-          "auswahl": "Levski oder Unentschieden",
+          "markt": "Levski oder Unentschieden",
           "quote": 1.15,
           "empfohlener_einsatz_euro": 8.25,
           "einsatz_prozent_kasse": 1.5,
-          "begruendung": "Levski 10 ungeschlagen + 4/4 Heim. Kairat mental muede (Elfmeter-Krimi Omonia) + immense Reise Almaty->Sofia + Kurgin/Jorginho geschwaecht. DC 1X historisch Goldgrube (+9.5% ROI 84.6% HR). Reality-Check: Nicht in Liga-Goldgrube (bulg. efbet Liga steht dort nicht) - Mapper stuft SAFE runter auf VALUE, was fair ist. Bei 550€ Kasse Stufe 1 -> 8.25€ Einsatz (1.5%)"
-        },
-        {
-          "kategorie": "value",
-          "spiel_id": "2026-08-04-lev-kai",
-          "markt": "1X2",
-          "auswahl": "Sieg Levski",
-          "quote": 1.69,
-          "empfohlener_einsatz_euro": 8.25,
-          "einsatz_prozent_kasse": 1.5,
-          "begruendung": "Heim-Favorit-Pflicht laut CLAUDE.md-Regel bei Quote < 1.80 - Sieg-Tipp gesetzt. Levski 4/4 Heim + Kairat-Muedigkeit + Star-Wackler. Nur 1.5% wegen Q3-Restrisiko (Kairat hat immerhin 9/10 Wins). Bei 550€ -> 8.25€"
-        },
-        {
-          "kategorie": "value",
-          "spiel_id": "2026-08-04-lev-kai",
-          "markt": "Torschuetze Jederzeit",
-          "auswahl": "Marin Oko-Flex trifft",
-          "quote": 2.75,
-          "empfohlener_einsatz_euro": 5.5,
-          "einsatz_prozent_kasse": 1.0,
-          "begruendung": "Torschuetzen-Tipp-Pflicht bei Heim-Favorit (CLAUDE.md). Oko-Flex traf zuletzt vs Septemvri, ist Form-Spieler. Torschuetzen Jederzeit ist statistik.json-Goldgrube (+24.4% ROI 50% HR). Bei 550€ -> 5.50€ Einsatz (1%)"
+          "begruendung": "Levski 10 ungeschlagen + 4/4 Heim. Kairat mental muede (Elfmeter-Krimi Omonia) + immense Reise Almaty->Sofia + Kurgin/Jorginho geschwaecht. DC 1X historisch Goldgrube (+9.5% ROI 84.6% HR). Reality-Check: Nicht in Liga-Goldgrube (bulg. efbet Liga steht dort nicht) - Mapper stuft SAFE runter auf VALUE, was fair ist. Bei 550€ Kasse Stufe 1 -> 8.25€ Einsatz (1.5%) [Auto HR2: Heim-Krise/Sturm-Krise erkannt - Heim-Sieg/-DC/-Top-Stuermer max WACKEL]",
+          "faire_quote": 1.15,
+          "empfohlener_einsatz_prozent": 1.0,
+          "_heim_form_block": true
         },
         {
           "kategorie": "wackel",
           "spiel_id": "2026-08-04-lev-kai",
-          "markt": "Tore Unter/Ueber 2.5",
-          "auswahl": "Unter 2.5 Tore",
+          "markt": "Sieg Levski",
+          "quote": 1.69,
+          "empfohlener_einsatz_euro": 8.25,
+          "einsatz_prozent_kasse": 1.5,
+          "begruendung": "Heim-Favorit-Pflicht laut CLAUDE.md-Regel bei Quote < 1.80 - Sieg-Tipp gesetzt. Levski 4/4 Heim + Kairat-Muedigkeit + Star-Wackler. Nur 1.5% wegen Q3-Restrisiko (Kairat hat immerhin 9/10 Wins). Bei 550€ -> 8.25€ [Auto HR2: Heim-Krise/Sturm-Krise erkannt - Heim-Sieg/-DC/-Top-Stuermer max WACKEL]",
+          "faire_quote": 1.69,
+          "empfohlener_einsatz_prozent": 1.0,
+          "_heim_form_block": true
+        },
+        {
+          "kategorie": "wackel",
+          "spiel_id": "2026-08-04-lev-kai",
+          "markt": "Marin Oko-Flex trifft",
+          "quote": 2.75,
+          "empfohlener_einsatz_euro": 5.5,
+          "einsatz_prozent_kasse": 1.0,
+          "begruendung": "Torschuetzen-Tipp-Pflicht bei Heim-Favorit (CLAUDE.md). Oko-Flex traf zuletzt vs Septemvri, ist Form-Spieler. Torschuetzen Jederzeit ist statistik.json-Goldgrube (+24.4% ROI 50% HR). Bei 550€ -> 5.50€ Einsatz (1%) [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "faire_quote": 2.75,
+          "empfohlener_einsatz_prozent": 1.0,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "kategorie": "wackel",
+          "spiel_id": "2026-08-04-lev-kai",
+          "markt": "Unter 2.5 Tore",
           "quote": 1.85,
           "empfohlener_einsatz_euro": 2.75,
           "einsatz_prozent_kasse": 0.5,
-          "begruendung": "Kairat wird taktisch tief stehen (Elfmeter-Erfahrung, K.O.-Modus, Reisemuedigkeit). Levski Heim-Sieg tendiert 1-0 oder 2-0. Historisch Unter 2.5 Goldgrube (+27.5% ROI 66.7% HR). Wackel wegen K.O.-Restrisiko dass Levski frueh fuehrt und Kairat aufmacht. Bei 550€ -> 2.75€ (0.5%)"
+          "begruendung": "Kairat wird taktisch tief stehen (Elfmeter-Erfahrung, K.O.-Modus, Reisemuedigkeit). Levski Heim-Sieg tendiert 1-0 oder 2-0. Historisch Unter 2.5 Goldgrube (+27.5% ROI 66.7% HR). Wackel wegen K.O.-Restrisiko dass Levski frueh fuehrt und Kairat aufmacht. Bei 550€ -> 2.75€ (0.5%)",
+          "faire_quote": 1.85,
+          "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-08-04-hap-zvz",
@@ -105,44 +113,50 @@ window.__MIESMUSCHEL_TIPPS = {
         {
           "kategorie": "value",
           "spiel_id": "2026-08-04-hap-zvz",
-          "markt": "Doppelte Chance X2",
-          "auswahl": "Crvena Zvezda oder Unentschieden",
+          "markt": "Crvena Zvezda oder Unentschieden",
           "quote": 1.22,
           "empfohlener_einsatz_euro": 8.25,
           "einsatz_prozent_kasse": 1.5,
-          "begruendung": "Zvezda Form-Uebermacht (17T in 5 Spielen) + neutraler Boden (kein Hapoel-Heim-Vorteil) + Hapoel-Krise (1S/5). Historisch DC X2 Goldgrube (+9.4% ROI 77.8% HR). Nicht in Liga-Goldgrube (Zvezda spielt Serbische SuperLiga) -> Mapper wird SAFE auf VALUE stufen was fair ist wegen CL-Q3-Restrisiko. Bei 550€ Kasse Stufe 1 -> 8.25€ (1.5%)"
+          "begruendung": "Zvezda Form-Uebermacht (17T in 5 Spielen) + neutraler Boden (kein Hapoel-Heim-Vorteil) + Hapoel-Krise (1S/5). Historisch DC X2 Goldgrube (+9.4% ROI 77.8% HR). Nicht in Liga-Goldgrube (Zvezda spielt Serbische SuperLiga) -> Mapper wird SAFE auf VALUE stufen was fair ist wegen CL-Q3-Restrisiko. Bei 550€ Kasse Stufe 1 -> 8.25€ (1.5%)",
+          "faire_quote": 1.22,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
-          "kategorie": "value",
+          "kategorie": "wackel",
           "spiel_id": "2026-08-04-hap-zvz",
-          "markt": "Torschuetze Jederzeit",
-          "auswahl": "Vasilije Kostov trifft",
+          "markt": "Vasilije Kostov trifft",
           "quote": 2.2,
           "empfohlener_einsatz_euro": 8.25,
           "einsatz_prozent_kasse": 1.5,
-          "begruendung": "Form-Edge Pflicht (CLAUDE.md): Kostov 4 Tore/3 Spiele. Torschuetzen Jederzeit ist Markt-Goldgrube (+24.4% ROI 50% HR). Zvezda-Angriffs-Volumen (3.4T/Spiel) macht Kostov-Tor sehr wahrscheinlich. Auswaerts-Favorit-Pflicht-Tipp (obwohl Zvezda-Quote 1.87 knapp ueber 2.20-Grenze). Bei 550€ -> 8.25€"
+          "begruendung": "Form-Edge Pflicht (CLAUDE.md): Kostov 4 Tore/3 Spiele. Torschuetzen Jederzeit ist Markt-Goldgrube (+24.4% ROI 50% HR). Zvezda-Angriffs-Volumen (3.4T/Spiel) macht Kostov-Tor sehr wahrscheinlich. Auswaerts-Favorit-Pflicht-Tipp (obwohl Zvezda-Quote 1.87 knapp ueber 2.20-Grenze). Bei 550€ -> 8.25€ [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "faire_quote": 2.2,
+          "empfohlener_einsatz_prozent": 1.0,
+          "_torschuetze_quelle_warn": true
         },
         {
           "kategorie": "wackel",
           "spiel_id": "2026-08-04-hap-zvz",
-          "markt": "Ueber/Unter 2.5 Tore",
-          "auswahl": "Ueber 2.5 Tore",
+          "markt": "Ueber 2.5 Tore",
           "quote": 1.85,
           "empfohlener_einsatz_euro": 2.75,
           "einsatz_prozent_kasse": 0.5,
-          "begruendung": "Zvezda 3.4 T/Spiel Angriffs-Schnitt spricht fuer Torfestival, Hapoel offen wenn frueh im Rueckstand. Aber K.O.-Q3 tendiert eher niedriger als Ligaspiele, deshalb WACKEL nicht VALUE. Statistisch Ueber 2.5 rutscht bei K.O. auf ~50% HR ab. Bei 550€ Stufe 1 -> 2.75€ (0.5%)"
+          "begruendung": "Zvezda 3.4 T/Spiel Angriffs-Schnitt spricht fuer Torfestival, Hapoel offen wenn frueh im Rueckstand. Aber K.O.-Q3 tendiert eher niedriger als Ligaspiele, deshalb WACKEL nicht VALUE. Statistisch Ueber 2.5 rutscht bei K.O. auf ~50% HR ab. Bei 550€ Stufe 1 -> 2.75€ (0.5%)",
+          "faire_quote": 1.85,
+          "empfohlener_einsatz_prozent": 0.5
         },
         {
           "kategorie": "wackel",
           "spiel_id": "2026-08-04-hap-zvz",
-          "markt": "Beide Teams treffen",
-          "auswahl": "BTTS Ja",
+          "markt": "BTTS Ja",
           "quote": 1.75,
           "empfohlener_einsatz_euro": 2.75,
           "einsatz_prozent_kasse": 0.5,
-          "begruendung": "Kangwa (2T+1V letzte 3 Spiele) + Zvezda-Angriffs-Volumen. Hapoel wird nicht 0-0 hinnehmen wollen weil K.O.-Rueckspiel in Serbien schwer. WACKEL wegen Zvezda-Defensive-Staerke moeglich (Larne 0 Tore in 2 Spielen). Bei 550€ -> 2.75€"
+          "begruendung": "Kangwa (2T+1V letzte 3 Spiele) + Zvezda-Angriffs-Volumen. Hapoel wird nicht 0-0 hinnehmen wollen weil K.O.-Rueckspiel in Serbien schwer. WACKEL wegen Zvezda-Defensive-Staerke moeglich (Larne 0 Tore in 2 Spielen). Bei 550€ -> 2.75€",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-08-04-spa-lyo",
@@ -175,34 +189,39 @@ window.__MIESMUSCHEL_TIPPS = {
         {
           "kategorie": "value",
           "spiel_id": "2026-08-04-spa-lyo",
-          "markt": "Doppelte Chance X2",
-          "auswahl": "Lyon oder Unentschieden",
+          "markt": "Lyon oder Unentschieden",
           "quote": 1.3,
           "empfohlener_einsatz_euro": 8.25,
           "einsatz_prozent_kasse": 1.5,
-          "begruendung": "Lyon Klassen-Edge (Ligue-1-Team gegen Chance-Liga-Team) + Sparta 8 Verletzungen. Kein SAFE wegen Lyon-0-Rhythmus + Real-Betis-Warnsignal 0:4 + eigener saison_kontext sagt 'eher 50/50 als Klassen-Edge'. DC X2 statistik-Goldgrube (+9.4% ROI 77.8% HR). Bei 550€ Stufe 1 -> 8.25€ (1.5%)"
-        },
-        {
-          "kategorie": "value",
-          "spiel_id": "2026-08-04-spa-lyo",
-          "markt": "Torschuetze Jederzeit",
-          "auswahl": "Loeis Openda trifft",
-          "quote": 3.2,
-          "empfohlener_einsatz_euro": 5.5,
-          "einsatz_prozent_kasse": 1.0,
-          "begruendung": "Auswaerts-Favorit-Pflicht (CLAUDE.md): Torschuetzen-Tipp auf Ausw-Stuermer. Openda Debuet - typische Debuet-Motivation, ex-Juve/RB-Leipzig hohe Torinstinkt-Qualitaet. Torschuetzen Jederzeit Markt-Goldgrube (+24.4% ROI 50% HR). Riskanter wegen Debuet-Ungewissheit vs feste Rolle, deshalb VALUE nicht SAFE. Bei 550€ -> 5.5€ (1%)"
+          "begruendung": "Lyon Klassen-Edge (Ligue-1-Team gegen Chance-Liga-Team) + Sparta 8 Verletzungen. Kein SAFE wegen Lyon-0-Rhythmus + Real-Betis-Warnsignal 0:4 + eigener saison_kontext sagt 'eher 50/50 als Klassen-Edge'. DC X2 statistik-Goldgrube (+9.4% ROI 77.8% HR). Bei 550€ Stufe 1 -> 8.25€ (1.5%)",
+          "faire_quote": 1.3,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
           "kategorie": "wackel",
           "spiel_id": "2026-08-04-spa-lyo",
-          "markt": "Ueber/Unter 2.5 Tore",
-          "auswahl": "Unter 2.5 Tore",
+          "markt": "Loeis Openda trifft",
+          "quote": 3.2,
+          "empfohlener_einsatz_euro": 5.5,
+          "einsatz_prozent_kasse": 1.0,
+          "begruendung": "Auswaerts-Favorit-Pflicht (CLAUDE.md): Torschuetzen-Tipp auf Ausw-Stuermer. Openda Debuet - typische Debuet-Motivation, ex-Juve/RB-Leipzig hohe Torinstinkt-Qualitaet. Torschuetzen Jederzeit Markt-Goldgrube (+24.4% ROI 50% HR). Riskanter wegen Debuet-Ungewissheit vs feste Rolle, deshalb VALUE nicht SAFE. Bei 550€ -> 5.5€ (1%) [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "faire_quote": 3.2,
+          "empfohlener_einsatz_prozent": 1.0,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "kategorie": "wackel",
+          "spiel_id": "2026-08-04-spa-lyo",
+          "markt": "Unter 2.5 Tore",
           "quote": 1.9,
           "empfohlener_einsatz_euro": 2.75,
           "einsatz_prozent_kasse": 0.5,
-          "begruendung": "K.O.-Q3-Modus tendiert defensiv (Sparta zu Hause, Lyon vorsichtig ohne Rhythmus). Historisch Unter 2.5 statistik-Goldgrube (+27.5% ROI 66.7% HR). Wackel weil Lyon-Angriff mit Openda-Debuet und Sparta muss offensiv werden -> Umschaltspiele. Bei 550€ -> 2.75€ (0.5%)"
+          "begruendung": "K.O.-Q3-Modus tendiert defensiv (Sparta zu Hause, Lyon vorsichtig ohne Rhythmus). Historisch Unter 2.5 statistik-Goldgrube (+27.5% ROI 66.7% HR). Wackel weil Lyon-Angriff mit Openda-Debuet und Sparta muss offensiv werden -> Umschaltspiele. Bei 550€ -> 2.75€ (0.5%)",
+          "faire_quote": 1.9,
+          "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-08-04-mja-slb",
@@ -235,136 +254,150 @@ window.__MIESMUSCHEL_TIPPS = {
         {
           "kategorie": "wackel",
           "spiel_id": "2026-08-04-mja-slb",
-          "markt": "Doppelte Chance 1X",
-          "auswahl": "Mjaellby oder Unentschieden",
+          "markt": "Mjaellby oder Unentschieden",
           "quote": 1.35,
           "empfohlener_einsatz_euro": 2.75,
           "einsatz_prozent_kasse": 0.5,
-          "begruendung": "COINFLIP-Regel greift (alle 1X2-Quoten 1.95-3.85) - KEIN SAFE erlaubt (CLAUDE.md). DC 1X als absicherndes Wackel. Mjaellby Heimvorteil + emotionale Aufladung, Slovan solide aber Reisemuede. Bei 550€ Stufe 1 Wackel-Kombi -> 2.75€"
+          "begruendung": "COINFLIP-Regel greift (alle 1X2-Quoten 1.95-3.85) - KEIN SAFE erlaubt (CLAUDE.md). DC 1X als absicherndes Wackel. Mjaellby Heimvorteil + emotionale Aufladung, Slovan solide aber Reisemuede. Bei 550€ Stufe 1 Wackel-Kombi -> 2.75€",
+          "faire_quote": 1.35,
+          "empfohlener_einsatz_prozent": 0.5
         },
         {
           "kategorie": "wackel",
           "spiel_id": "2026-08-04-mja-slb",
-          "markt": "Beide Teams treffen",
-          "auswahl": "BTTS Ja",
+          "markt": "BTTS Ja",
           "quote": 1.75,
           "empfohlener_einsatz_euro": 2.75,
           "einsatz_prozent_kasse": 0.5,
-          "begruendung": "Slovan 2.6 T/Spiel Angriff + Mjaellby zu Hause offensiv. K.O.-1. Bein aber wo beide wollen was in Hand. WACKEL wegen Slovan-Defensive-Staerke (nur 0.6 T kassiert im Schnitt). Bei 550€ -> 2.75€ (0.5%)"
+          "begruendung": "Slovan 2.6 T/Spiel Angriff + Mjaellby zu Hause offensiv. K.O.-1. Bein aber wo beide wollen was in Hand. WACKEL wegen Slovan-Defensive-Staerke (nur 0.6 T kassiert im Schnitt). Bei 550€ -> 2.75€ (0.5%)",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 0.5
         },
         {
           "kategorie": "wackel",
           "spiel_id": "2026-08-04-mja-slb",
-          "markt": "Tore Ueber/Unter 2.5",
-          "auswahl": "Unter 2.5 Tore",
+          "markt": "Unter 2.5 Tore",
           "quote": 1.9,
           "empfohlener_einsatz_euro": 2.75,
           "einsatz_prozent_kasse": 0.5,
-          "begruendung": "K.O.-Q3-1. Bein tendiert defensiv, beide Teams wollen nichts verspielen. Statistik-Goldgrube Unter 2.5 (+27.5% ROI 66.7% HR). Konkurriert mit BTTS-Ja - der Kombi-Konfigurator kann nur 1 von beiden vernuenftig einbauen. Bei 550€ -> 2.75€"
+          "begruendung": "K.O.-Q3-1. Bein tendiert defensiv, beide Teams wollen nichts verspielen. Statistik-Goldgrube Unter 2.5 (+27.5% ROI 66.7% HR). Konkurriert mit BTTS-Ja - der Kombi-Konfigurator kann nur 1 von beiden vernuenftig einbauen. Bei 550€ -> 2.75€",
+          "faire_quote": 1.9,
+          "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     }
   ],
   "einzeltipps": [
     {
-      "kategorie": "value",
+      "kategorie": "wackel",
       "spiel_id": "2026-08-04-hap-zvz",
-      "markt": "Torschuetze Jederzeit",
-      "auswahl": "Vasilije Kostov trifft (Crvena Zvezda)",
+      "markt": "Vasilije Kostov trifft (Crvena Zvezda)",
       "quote": 2.2,
       "empfohlener_einsatz_euro": 8.25,
       "einsatz_prozent_kasse": 1.5,
-      "begruendung": "TOP-PICK: Kostov 4 Tore in 3 Spielen, Zvezda 3.4 T/Spiel Angriffs-Volumen, neutraler Boden (Hapoel spielt in Ungarn). Torschuetzen Jederzeit ist statistik.json-Goldgrube (+24.4% ROI 50% HR). Bei 550€ Stufe 1 -> 8.25€ (1.5%)"
+      "begruendung": "TOP-PICK: Kostov 4 Tore in 3 Spielen, Zvezda 3.4 T/Spiel Angriffs-Volumen, neutraler Boden (Hapoel spielt in Ungarn). Torschuetzen Jederzeit ist statistik.json-Goldgrube (+24.4% ROI 50% HR). Bei 550€ Stufe 1 -> 8.25€ (1.5%)",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 1
     },
     {
-      "kategorie": "value",
+      "kategorie": "wackel",
       "spiel_id": "2026-08-04-lev-kai",
-      "markt": "Doppelte Chance 1X",
-      "auswahl": "Levski oder Unentschieden",
+      "markt": "Levski oder Unentschieden",
       "quote": 1.15,
       "empfohlener_einsatz_euro": 8.25,
       "einsatz_prozent_kasse": 1.5,
-      "begruendung": "Levski 10 ungeschlagen + 4/4 Heim, Kairat mental muede (Elfmeter-Krimi) + Reise Almaty->Sofia. DC 1X historisch Goldgrube (+9.5% ROI 84.6% HR). Nicht in Liga-Goldgrube -> Mapper stuft SAFE runter auf VALUE (Hebel C). Bei 550€ -> 8.25€"
+      "begruendung": "Levski 10 ungeschlagen + 4/4 Heim, Kairat mental muede (Elfmeter-Krimi) + Reise Almaty->Sofia. DC 1X historisch Goldgrube (+9.5% ROI 84.6% HR). Nicht in Liga-Goldgrube -> Mapper stuft SAFE runter auf VALUE (Hebel C). Bei 550€ -> 8.25€",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 2
     },
     {
-      "kategorie": "value",
+      "kategorie": "wackel",
       "spiel_id": "2026-08-04-hap-zvz",
-      "markt": "Doppelte Chance X2",
-      "auswahl": "Crvena Zvezda oder Unentschieden",
+      "markt": "Crvena Zvezda oder Unentschieden",
       "quote": 1.22,
       "empfohlener_einsatz_euro": 8.25,
       "einsatz_prozent_kasse": 1.5,
-      "begruendung": "Zvezda Form-Uebermacht (17T in 5 Spielen) + neutraler Boden statt Hapoel-Heim + Hapoel-Krise 1S/5. DC X2 statistik.json-Goldgrube (+9.4% ROI 77.8% HR). Bei 550€ -> 8.25€ (1.5%)"
-    },
-    {
-      "kategorie": "value",
-      "spiel_id": "2026-08-04-lev-kai",
-      "markt": "1X2",
-      "auswahl": "Sieg Levski",
-      "quote": 1.69,
-      "empfohlener_einsatz_euro": 8.25,
-      "einsatz_prozent_kasse": 1.5,
-      "begruendung": "Heim-Favorit-Pflicht: Sieg-Tipp bei Quote < 1.80. Levski 4/4 Heim, Kairat-Muedigkeit + Kurgin/Jorginho fraglich. Bei 550€ -> 8.25€ (1.5%)"
-    },
-    {
-      "kategorie": "value",
-      "spiel_id": "2026-08-04-spa-lyo",
-      "markt": "Doppelte Chance X2",
-      "auswahl": "Lyon oder Unentschieden",
-      "quote": 1.3,
-      "empfohlener_einsatz_euro": 8.25,
-      "einsatz_prozent_kasse": 1.5,
-      "begruendung": "Lyon Klassen-Edge trotz 0-Rhythmus, Sparta 8 Verletzungen. Nicht SAFE weil eigener saison_kontext 'eher 50/50'. DC X2 statistik-Goldgrube. Bei 550€ -> 8.25€"
-    },
-    {
-      "kategorie": "value",
-      "spiel_id": "2026-08-04-lev-kai",
-      "markt": "Torschuetze Jederzeit",
-      "auswahl": "Marin Oko-Flex trifft (Levski)",
-      "quote": 2.75,
-      "empfohlener_einsatz_euro": 5.5,
-      "einsatz_prozent_kasse": 1.0,
-      "begruendung": "Torschuetzen-Tipp-Pflicht bei Heim-Favorit. Oko-Flex traf zuletzt 3-0 vs Septemvri. Torschuetzen Jederzeit Markt-Goldgrube. Bei 550€ -> 5.50€ (1%)"
-    },
-    {
-      "kategorie": "value",
-      "spiel_id": "2026-08-04-spa-lyo",
-      "markt": "Torschuetze Jederzeit",
-      "auswahl": "Loeis Openda trifft (Lyon)",
-      "quote": 3.2,
-      "empfohlener_einsatz_euro": 5.5,
-      "einsatz_prozent_kasse": 1.0,
-      "begruendung": "Auswaerts-Favorit-Pflicht: Torschuetzen-Tipp Ausw-Stuermer. Openda Debuet-Motivation nach Juve-Leihe. Torschuetzen Jederzeit Markt-Goldgrube. Bei 550€ -> 5.50€"
+      "begruendung": "Zvezda Form-Uebermacht (17T in 5 Spielen) + neutraler Boden statt Hapoel-Heim + Hapoel-Krise 1S/5. DC X2 statistik.json-Goldgrube (+9.4% ROI 77.8% HR). Bei 550€ -> 8.25€ (1.5%)",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 3
     },
     {
       "kategorie": "wackel",
       "spiel_id": "2026-08-04-lev-kai",
-      "markt": "Ueber/Unter 2.5 Tore",
-      "auswahl": "Unter 2.5 Tore",
+      "markt": "Sieg Levski",
+      "quote": 1.69,
+      "empfohlener_einsatz_euro": 8.25,
+      "einsatz_prozent_kasse": 1.5,
+      "begruendung": "Heim-Favorit-Pflicht: Sieg-Tipp bei Quote < 1.80. Levski 4/4 Heim, Kairat-Muedigkeit + Kurgin/Jorginho fraglich. Bei 550€ -> 8.25€ (1.5%)",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 4
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-04-spa-lyo",
+      "markt": "Lyon oder Unentschieden",
+      "quote": 1.3,
+      "empfohlener_einsatz_euro": 8.25,
+      "einsatz_prozent_kasse": 1.5,
+      "begruendung": "Lyon Klassen-Edge trotz 0-Rhythmus, Sparta 8 Verletzungen. Nicht SAFE weil eigener saison_kontext 'eher 50/50'. DC X2 statistik-Goldgrube. Bei 550€ -> 8.25€",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 5
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-04-lev-kai",
+      "markt": "Marin Oko-Flex trifft (Levski)",
+      "quote": 2.75,
+      "empfohlener_einsatz_euro": 5.5,
+      "einsatz_prozent_kasse": 1.0,
+      "begruendung": "Torschuetzen-Tipp-Pflicht bei Heim-Favorit. Oko-Flex traf zuletzt 3-0 vs Septemvri. Torschuetzen Jederzeit Markt-Goldgrube. Bei 550€ -> 5.50€ (1%)",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 6
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-04-spa-lyo",
+      "markt": "Loeis Openda trifft (Lyon)",
+      "quote": 3.2,
+      "empfohlener_einsatz_euro": 5.5,
+      "einsatz_prozent_kasse": 1.0,
+      "begruendung": "Auswaerts-Favorit-Pflicht: Torschuetzen-Tipp Ausw-Stuermer. Openda Debuet-Motivation nach Juve-Leihe. Torschuetzen Jederzeit Markt-Goldgrube. Bei 550€ -> 5.50€",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 7
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-04-lev-kai",
+      "markt": "Unter 2.5 Tore",
       "quote": 1.85,
       "empfohlener_einsatz_euro": 2.75,
       "einsatz_prozent_kasse": 0.5,
-      "begruendung": "Kairat wird taktisch tief stehen, K.O.-1. Bein defensiv. Unter 2.5 statistik-Goldgrube (+27.5% ROI 66.7% HR). Bei 550€ -> 2.75€ (0.5%)"
+      "begruendung": "Kairat wird taktisch tief stehen, K.O.-1. Bein defensiv. Unter 2.5 statistik-Goldgrube (+27.5% ROI 66.7% HR). Bei 550€ -> 2.75€ (0.5%)",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 8
     },
     {
       "kategorie": "wackel",
       "spiel_id": "2026-08-04-hap-zvz",
-      "markt": "Ueber/Unter 2.5 Tore",
-      "auswahl": "Ueber 2.5 Tore",
+      "markt": "Ueber 2.5 Tore",
       "quote": 1.85,
       "empfohlener_einsatz_euro": 2.75,
       "einsatz_prozent_kasse": 0.5,
-      "begruendung": "Zvezda 3.4 T/Spiel Angriffs-Schnitt, Hapoel offen wenn frueh Rueckstand. K.O.-Q3 haelt Ueber 2.5 nur ~50% HR. Bei 550€ -> 2.75€ (0.5%)"
+      "begruendung": "Zvezda 3.4 T/Spiel Angriffs-Schnitt, Hapoel offen wenn frueh Rueckstand. K.O.-Q3 haelt Ueber 2.5 nur ~50% HR. Bei 550€ -> 2.75€ (0.5%)",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 9
     },
     {
       "kategorie": "wackel",
       "spiel_id": "2026-08-04-spa-lyo",
-      "markt": "Ueber/Unter 2.5 Tore",
-      "auswahl": "Unter 2.5 Tore",
+      "markt": "Unter 2.5 Tore",
       "quote": 1.9,
       "empfohlener_einsatz_euro": 2.75,
       "einsatz_prozent_kasse": 0.5,
-      "begruendung": "K.O.-Q3 defensiv-tendiert + Lyon ohne Rhythmus. Unter 2.5 statistik-Goldgrube. Bei 550€ -> 2.75€"
+      "begruendung": "K.O.-Q3 defensiv-tendiert + Lyon ohne Rhythmus. Unter 2.5 statistik-Goldgrube. Bei 550€ -> 2.75€",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 10
     }
   ],
   "kombis": [
@@ -375,132 +408,99 @@ window.__MIESMUSCHEL_TIPPS = {
         {
           "spiel_id": "2026-08-04-lev-kai",
           "markt": "Doppelte Chance 1X",
-          "auswahl": "Levski oder Unentschieden",
           "quote": 1.15
         },
         {
           "spiel_id": "2026-08-04-hap-zvz",
           "markt": "Doppelte Chance X2",
-          "auswahl": "Crvena Zvezda oder Unentschieden",
           "quote": 1.22
         },
         {
           "spiel_id": "2026-08-04-spa-lyo",
           "markt": "Doppelte Chance X2",
-          "auswahl": "Lyon oder Unentschieden",
           "quote": 1.3
         },
         {
           "spiel_id": "2026-08-04-mja-slb",
           "markt": "Doppelte Chance 1X",
-          "auswahl": "Mjaellby oder Unentschieden",
           "quote": 1.35
         }
       ],
-      "gesamt_quote": 2.46,
       "empfohlener_einsatz_euro": 11.0,
       "einsatz_prozent_kasse": 2.0,
       "moeglicher_gewinn_euro": 27.06,
-      "begruendung": "SAFE-Basis 2.46x aus 4 DC-Absicherungen. Layer-1: 1 Bein pro Spiel - erfuellt. Layer-2: alle DC (kein Sieg-Outcome) - erfuellt. Realistisch: alle 4 Underdogs verlieren nicht ODER remis, geschaetzte Wahrscheinlichkeit ~50-60%. Bei 550€ Kasse Stufe 1 Kombi-SAFE 2% -> 11€ (moegl. Gewinn 27.06€)"
+      "begruendung": "SAFE-Basis 2.46x aus 4 DC-Absicherungen. Layer-1: 1 Bein pro Spiel - erfuellt. Layer-2: alle DC (kein Sieg-Outcome) - erfuellt. Realistisch: alle 4 Underdogs verlieren nicht ODER remis, geschaetzte Wahrscheinlichkeit ~50-60%. Bei 550€ Kasse Stufe 1 Kombi-SAFE 2% -> 11€ (moegl. Gewinn 27.06€)",
+      "gesamtquote": 2.46,
+      "empfohlener_einsatz_prozent": 1.5
     },
     {
       "name": "Balance ~6.5x",
       "kategorie": "balance",
       "beine": [
         {
-          "spiel_id": "2026-08-04-lev-kai",
-          "markt": "1X2",
-          "auswahl": "Sieg Levski",
-          "quote": 1.69
-        },
-        {
           "spiel_id": "2026-08-04-hap-zvz",
           "markt": "Torschuetze Jederzeit",
-          "auswahl": "Kostov trifft",
           "quote": 2.2
         },
         {
           "spiel_id": "2026-08-04-mja-slb",
           "markt": "Beide Teams treffen",
-          "auswahl": "BTTS Ja",
           "quote": 1.75
         }
       ],
-      "gesamt_quote": 6.51,
       "empfohlener_einsatz_euro": 4.4,
       "einsatz_prozent_kasse": 0.8,
       "moeglicher_gewinn_euro": 28.64,
-      "begruendung": "Balance 6.51x. Layer-1: 1 Bein pro Spiel erfuellt. Layer-2: nur EIN Sieg-Outcome (Levski) - erfuellt. Heim-Favorit + Form-Star + Coinflip-BTTS. Bei 550€ Stufe 1 Kombi-Balance 0.8% -> 4.40€"
+      "begruendung": "Balance 6.51x. Layer-1: 1 Bein pro Spiel erfuellt. Layer-2: nur EIN Sieg-Outcome (Levski) - erfuellt. Heim-Favorit + Form-Star + Coinflip-BTTS. Bei 550€ Stufe 1 Kombi-Balance 0.8% -> 4.40€",
+      "gesamtquote": 3.85,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rechnung": "2.20 x 1.75 = 3.85"
     },
     {
       "name": "Risiko ~22x",
-      "kategorie": "risiko",
+      "kategorie": "risk",
       "beine": [
         {
           "spiel_id": "2026-08-04-spa-lyo",
           "markt": "Torschuetze Jederzeit",
-          "auswahl": "Openda trifft (Lyon)",
           "quote": 3.2
         },
         {
           "spiel_id": "2026-08-04-lev-kai",
           "markt": "Torschuetze Jederzeit",
-          "auswahl": "Oko-Flex trifft (Levski)",
           "quote": 2.75
         },
         {
           "spiel_id": "2026-08-04-hap-zvz",
           "markt": "Ueber/Unter 2.5 Tore",
-          "auswahl": "Ueber 2.5",
           "quote": 1.85
-        },
-        {
-          "spiel_id": "2026-08-04-mja-slb",
-          "markt": "Doppelte Chance 1X",
-          "auswahl": "Mjaellby oder Unentschieden",
-          "quote": 1.35
         }
       ],
-      "gesamt_quote": 21.98,
       "empfohlener_einsatz_euro": 1.4,
       "einsatz_prozent_kasse": 0.25,
       "moeglicher_gewinn_euro": 30.77,
-      "begruendung": "Risiko 21.98x: 2 Torschuetzen (Goldgrube) + 1 Tor-Total + 1 DC. Layer-1: 1 Bein pro Spiel. Layer-2: keine Sieg-Outcomes, nur DC + Torschuetzen + Tor-Total - erfuellt. Bei 550€ Kombi-Risiko 0.25% -> 1.40€"
+      "begruendung": "Risiko 21.98x: 2 Torschuetzen (Goldgrube) + 1 Tor-Total + 1 DC. Layer-1: 1 Bein pro Spiel. Layer-2: keine Sieg-Outcomes, nur DC + Torschuetzen + Tor-Total - erfuellt. Bei 550€ Kombi-Risiko 0.25% -> 1.40€",
+      "gesamtquote": 16.28,
+      "empfohlener_einsatz_prozent": 0.25,
+      "rechnung": "3.20 x 2.75 x 1.85 = 16.28"
     },
     {
       "name": "Moonshot ~38x",
       "kategorie": "moonshot",
       "beine": [
         {
-          "spiel_id": "2026-08-04-spa-lyo",
-          "markt": "1X2",
-          "auswahl": "Sieg Lyon",
-          "quote": 2.12
-        },
-        {
-          "spiel_id": "2026-08-04-hap-zvz",
-          "markt": "1X2",
-          "auswahl": "Sieg Crvena Zvezda",
-          "quote": 1.87
-        },
-        {
           "spiel_id": "2026-08-04-mja-slb",
           "markt": "1X2",
-          "auswahl": "Sieg Mjaellby",
           "quote": 1.95
-        },
-        {
-          "spiel_id": "2026-08-04-lev-kai",
-          "markt": "Doppelte Chance X2",
-          "auswahl": "Kairat oder Unentschieden",
-          "quote": 3.5
         }
       ],
-      "gesamt_quote": 27.06,
       "empfohlener_einsatz_euro": 0.55,
       "einsatz_prozent_kasse": 0.1,
       "moeglicher_gewinn_euro": 14.88,
-      "begruendung": "Moonshot 27.06x. Layer-1: 1 Bein pro Spiel. Layer-2: 3 frische Sieg-Outcomes (Lyon, Zvezda, Mjaellby - keines in anderer Kombi) + 1 DC (Kairat/Draw - Absicherung falls Kairat-Schock in Sofia). Bei 550€ Moonshot 0.1% -> 0.55€ Spass-Einsatz (moegl. Gewinn 14.88€, unter 100x aber alle 4 realistisch mit begrenztem Aufwand)"
+      "begruendung": "Moonshot 27.06x. Layer-1: 1 Bein pro Spiel. Layer-2: 3 frische Sieg-Outcomes (Lyon, Zvezda, Mjaellby - keines in anderer Kombi) + 1 DC (Kairat/Draw - Absicherung falls Kairat-Schock in Sofia). Bei 550€ Moonshot 0.1% -> 0.55€ Spass-Einsatz (moegl. Gewinn 14.88€, unter 100x aber alle 4 realistisch mit begrenztem Aufwand)",
+      "gesamtquote": 1.95,
+      "empfohlener_einsatz_prozent": 0.1,
+      "rechnung": "1.95 = 1.95"
     }
   ],
   "lessons_angewandt": [
