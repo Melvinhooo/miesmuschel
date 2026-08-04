@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-08-03T08:03:23+00:00",
+  "letzte_berechnung": "2026-08-04T07:09:59+00:00",
   "gesamt": {
     "tipps": 416,
     "gewonnen": 219,
@@ -13,26 +13,26 @@ window.__MIESMUSCHEL_STAT = {
     "roi_prozent": 10.5
   },
   "letzte_30_tage": {
-    "tipps": 69,
-    "gewonnen": 31,
-    "verloren": 38,
+    "tipps": 59,
+    "gewonnen": 26,
+    "verloren": 33,
     "push": 0,
     "offen": 0,
-    "einsatz": 69.0,
-    "netto": 8.13,
-    "trefferquote": 44.9,
-    "roi_prozent": 11.8
+    "einsatz": 59.0,
+    "netto": 9.34,
+    "trefferquote": 44.1,
+    "roi_prozent": 15.8
   },
   "letzte_90_tage": {
-    "tipps": 416,
-    "gewonnen": 219,
-    "verloren": 186,
+    "tipps": 410,
+    "gewonnen": 215,
+    "verloren": 184,
     "push": 2,
     "offen": 9,
-    "einsatz": 407.0,
-    "netto": 42.82,
-    "trefferquote": 54.1,
-    "roi_prozent": 10.5
+    "einsatz": 401.0,
+    "netto": 41.1,
+    "trefferquote": 53.9,
+    "roi_prozent": 10.2
   },
   "nach_liga": {
     "Champions League Halbfinale Rueckspiel": {
@@ -4448,17 +4448,11 @@ window.__MIESMUSCHEL_STAT = {
   },
   "clv_30_tage": {
     "gesamt": {
-      "n": 10,
-      "durchschnitt": -4.36,
-      "median": -4.55
+      "n": 0,
+      "durchschnitt": 0.0,
+      "median": 0.0
     },
-    "nach_liga": {
-      "FIFA WM 2026 - Achtelfinale": {
-        "n": 10,
-        "durchschnitt": -4.36,
-        "median": -4.55
-      }
-    }
+    "nach_liga": {}
   },
   "tages_verlauf": [
     {

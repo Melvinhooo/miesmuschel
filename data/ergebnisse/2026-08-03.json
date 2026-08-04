@@ -1,0 +1,78 @@
+{
+  "datum": "2026-08-03",
+  "erstellt_am": "2026-08-03T15:20:00+02:00",
+  "modus": "tag",
+  "hinweis": "RUHETAG Mo 03.08.2026 (Nr. 14 der Sommer-Pause-Serie in Folge nach Ruhetagen Fr 31.07. + Sa 01.08. + So 02.08.). Kein Spiel in einer CLAUDE.md-Fokus-Liga im Tages-Window Mo 15:20 - Di 06:00 Berlin. Watchdog-Recovery 15:20 Berlin: Hauptroutine 16:00 war heute nicht durchgelaufen (data/tipps/2026-08-03.json fehlte um 15:20), Watchdog hat Ruhetag-Recovery ausgeloest. Bestaetigung via WebSearch (Livesoccertv 03.08.2026 / Footballcritic / UEFA-Kalender / Wikipedia Premier League + Bundesliga 2026-27): alle Vereins-Ligen weiterhin in Sommer-Pause. Start-Termine (bestaetigt via Wikipedia + ran.joyn): 2. Bundesliga Fr 07.08.2026 (in 4 Tagen - erste Chance nach Sommer-Pause), LaLiga So 16.08., Ligue 1 Fr 21.08., Premier League Sa 22.08. (Korrektur - gestern 22.08. bestaetigt), Serie A 22./23.08., DFB-Pokal 1. Runde Aug (Termin-Fenster laut Wikipedia 21.-24.08. statt vor-dossier-Angabe 14.-17.08. - siehe Selbstkorrektur), Bundesliga Fr 28.08. **UEFA-Kalender heute Mo 03.08.**: Champions-League-Play-off-Runden-AUSLOSUNG in Nyon 14:00 CET (bestaetigt UEFA.com) - reine administrative Draw-Veranstaltung, KEIN Spiel. **Erster echter UEFA-Spielslot: Di 04.08. + Mi 05.08. CL Q3 Hinspiele**, dann Do 06.08. EL + Conference Q3 Hinspiele, Q3-Rueckspiele Di 11.08./Mi 12.08. (CL) + Do 13.08. (EL+Conf). CL-Play-off-Runde selbst: Hinspiele Di/Mi 18./19.08., Rueckspiele Di/Mi 25./26.08. UEFA-Konvention Fr/Sa/So + Mo zwischen Q-Runden immer wettbewerbsfrei = 4-Tage-Ruhefenster (Fr 31.07. + Sa 01.08. + So 02.08. + heute Mo 03.08.). WM 2026 Finale So 19.07. abgeschlossen (ARG vs ESP). NBA-Kalender: Playoffs 2026 abgeschlossen Sa 13.06. (Knicks 4-1 Spurs), NBA Summer League Las Vegas endete Sa 19.07. (Warriors Champion) - Preseason ab September, Regular Season ab Oktober, aktuell komplett NBA-frei. Livesoccertv/Footballcritic 03.08.2026 zeigen nur Vorbereitungs-Freundschaftsspiele (Sommer-Testspiele Vereine) + auslaendische Ligen ausserhalb CLAUDE.md-Fokus-Perimeter (MLS, Allsvenskan, Eliteserien, Brasileirao Serie A, J-League, Liga MX ohne 30d-Historie im System). **Praezedenz Ruhetags-Verhalten**: 16.-27.07. (10 Ruhetage in Folge inkl. Kalender-Analyse), dann Di-Do 28.-30.07. aktiv (UEFA Q2 Rueckspiele), Fr 31.07. Ruhetag Nr. 11, Sa 01.08. Ruhetag Nr. 12, So 02.08. Ruhetag Nr. 13, heute Mo 03.08. Ruhetag Nr. 14 (wie erwartet - Mo grundsaetzlich nicht UEFA-Wettbewerbstag in Q-Phasen, ausserdem Play-off-Draw ist kein Spiel). **Ab morgen Di 04.08. Miesmuschel-Comeback**: CL Q3 Hinspiele erstes Match-Slot nach 4-Tage-Ruhefenster - Klasse-Sprung ggue. Q2 mit CL-erfahrenen Teams als Q3-Kandidaten (Fenerbahce/Crvena Zvezda/Kairat u.a. - konkrete Paarungen nach heutigem Nyon-Draw fixiert). Erster Vereins-Liga-Slot: **2. Bundesliga Fr 07.08.2026** (in 4 Tagen - erste Chance nach Sommer-Pause). Kasse 550 EUR unveraendert (Kasse-Stufe 1 Aufbau-Phase - siehe data/kasse.json). **Statistik-Snapshot Stand 03.08. 08:03 UTC**: Gesamt 416 Tipps 54.1% Hitrate ROI +10.5%, 30-Tage-Fenster 69 Tipps 44.9% HR ROI +11.8% (Kasse-Stufe-2-Trigger 30d-ROI >+5% erfuellt, aber Kasse-Teil >=1000 EUR nicht erreicht - Stufe 1 bleibt aktiv). Konservative Einsaetze bleiben in Kraft: 5.50-11 EUR Safe-Einzel, 2.75 EUR Wackel-Einzel, 11 EUR Safe-Kombi, 4.40 EUR Balance-Kombi, 1.40 EUR Risiko-Kombi, 0.55 EUR Moonshot. Beobachtungs-Liga-Cap aktiv (data/beobachtungs_ligen.json Stand 03.08. 08:03 UTC): UEFA Europa League Q2 (10 Tipps 30d ROI -37.8% / 40.0% HR) + FIFA WM 2026 Halbfinale (6 Tipps 30d ROI -34.2% / 33.3% HR) - beide max WACKEL bis 30d-ROI wieder > -10%. Empfehlung: heute Pause, ab Di 04.08. UEFA CL Q3 wieder aktiv (Watchdog 17:15 nicht mehr noetig - erst wieder ab Di 04.08. relevant). 18+ / BZgA 0800 1372700.",
+  "spiele": [],
+  "einzeltipps": [],
+  "kombis": [],
+  "lessons_angewandt": [
+    {
+      "id": "ruhetag-ehrlich",
+      "titel": "Ruhetag ehrlich als Ruhetag markieren - keine Zwang-Tipps aus fremden Ligen",
+      "quelle": "CLAUDE.md Tonalitaet-Prinzip (Ehrlich, keine Zwang-Tipps) + Praezedenz 2026-07-16 bis 2026-08-02 (13 Ruhetage vorher inkl. Kalender-Analyse waehrend Post-WM-Sommer-Pause + 4-Tage-Ruhefenster zwischen UEFA Q2 und Q3)",
+      "anwendung": "spiele[] leer, einzeltipps[] leer, kombis[] leer. hinweis erklaert Situation transparent inkl. CL-Play-off-Draw 14:00 Nyon (kein Spiel), UEFA-Q3-Start Di 04.08. + Mi 05.08., 2. Bundesliga-Start Fr 07.08. als erster Vereins-Liga-Slot."
+    },
+    {
+      "id": "cl-po-draw-ist-kein-spiel",
+      "titel": "UEFA-Draw-Veranstaltungen sind KEINE Wett-Slots - nur Nyon-Auslosung ohne Match ist Ruhetag",
+      "quelle": "UEFA.com Bestaetigung CL Play-off Draw Mo 03.08.2026 14:00 CET Nyon (14 Teilnehmer: 10 Champions Path + 4 League Path) - reine Draw-Veranstaltung, Play-off-Hinspiele erst Di/Mi 18./19.08.",
+      "anwendung": "Draw-Termine niemals als Spielslot missinterpretieren. Heute Mo 03.08. bleibt Ruhetag trotz UEFA-Ereignis, da keine Spiele stattfinden. Zukuenftige Draw-Termine (Gruppenphasen-Draw + Play-off-Draw + K.O.-Draws) analog als Nicht-Spieltag behandeln wenn keine parallelen Matches laufen."
+    },
+    {
+      "id": "fokus-ligen-perimeter",
+      "titel": "CLAUDE.md-Fokus-Ligen-Perimeter halten (keine Ausdehnung ohne 30d-Historie)",
+      "quelle": "CLAUDE.md Projekt-Zweck (Aktive Sportarten: Fussball WM 2026 + Vereine BL/2BL/PL/LaLiga/Serie A/DFB-Pokal/CL/EL/Conference/Ligue 1/Coppa Italia + NBA Finals)",
+      "anwendung": "Vorbereitungs-Freundschaftsspiele (Sommer-Testspiele Vereine) bewusst nicht getippt - haben keine Wettbewerbs-Motivation, keine 2:0-Insurance-Regel-Anwendbarkeit, keine 30d-Statistik-Historie im System. MLS / Allsvenskan / Eliteserien / Brasileirao Serie A / J-League / Liga MX wie bisher ausserhalb Perimeter."
+    },
+    {
+      "id": "uefa-q-kalender-fr-sa-so-mo-nicht-spieltag",
+      "titel": "UEFA-Q-Runden-Kalender-Konvention: Fr/Sa/So/Mo sind immer Ruhetage in Q-Phasen (4-Tage-Ruhefenster zwischen Q-Runden)",
+      "quelle": "UEFA-Historik-Konvention (Wettbewerbstage Di/Mi/Do, nie Fr/Sa/So/Mo bei Q-Runden) + WebSearch UEFA.com 2026 European Football Calendar bestaetigt CL Q3 Hinspiele 04./05.08. + Rueckspiele 11./12.08.",
+      "anwendung": "Q2-Rueckspiele Do 30.07. abgeschlossen, Q3-Hinspiele Di 04.08./Mi 05.08. (CL) / Do 06.08. (EL+Conference), Rueckspiele Di 11.08./Mi 12.08. (CL) / Do 13.08. (EL+Conf). Fr 31.07. / Sa 01.08. / So 02.08. / Mo 03.08. dazwischen = 4-Tage-Ruhefenster. Zukunftige Sa/So/Mo in Q-Phasen automatisch als Ruhetag klassifizieren wenn keine parallele Vereins-Liga aktiv ist."
+    },
+    {
+      "id": "kasse-stufe-1-bei-kasse-unter-1000",
+      "titel": "Kasse-Stufe 1 bleibt aktiv solange Kasse < 1000 EUR ODER 30d-ROI < +5%",
+      "quelle": "CLAUDE.md Einsatz-Limits Stufen-Modell (Stufe 2 nur bei 30d-ROI > +5% UND Kasse >= 1000 EUR)",
+      "anwendung": "30d-ROI +11.8% deutlich oberhalb der Schwelle, ABER Kasse-Teil 550 EUR / 1000 EUR nicht erfuellt. Stufe 1 bleibt aktiv. Wichtig bei UEFA Q3-Start Di 04.08. + 2. Bundesliga Fr 07.08.: nicht sofort in aggressive Einsatz-Range springen sondern Basis-Recovery Richtung 1000 EUR abwarten."
+    },
+    {
+      "id": "kalender-selbst-verifikation-cross-check",
+      "titel": "Kalender-Fakten immer per WebSearch cross-checken - eigene Vor-Dossier-Angaben nicht blind uebernehmen",
+      "quelle": "Selbstkorrektur ggue. Dossier 2026-08-02: DFB-Pokal-1.-Runde dort mit 'Fr 14.08.-Mo 17.08.' angegeben, aktuelle WebSearch (Wikipedia + ran.joyn) zeigt Fenster 21.-24.08.2026. Broadcast-/Verband-Update. Praezedenz PL-Start-Korrektur 01.08.->02.08. gestern.",
+      "anwendung": "Bei Kalender-Angaben in Ruhetag-Hinweisen jedes Mal frische WebSearch statt aus Vor-Dossier zu kopieren. Ehrlichkeits-Prinzip aus CLAUDE.md: DFB-Pokal-Termin ist noch Verband-Bekanntgabe-abhaengig, offiziellen DFB.de-Rahmenterminkalender als Master nutzen sobald verfuegbar."
+    },
+    {
+      "id": "beobachtungs-liga-cap-aktiv-bei-comeback",
+      "titel": "Beobachtungs-Liga-Cap gilt sofort ab naechstem aktivem Slot - UEFA Europa League Q2 + WM Halbfinale unter Cap",
+      "quelle": "data/beobachtungs_ligen.json Stand 03.08. 08:03 UTC: UEFA Europa League 2. Qualifikationsrunde (10 Tipps 30d ROI -37.8% HR 40.0%) + FIFA WM 2026 Halbfinale (6 Tipps 30d ROI -34.2% HR 33.3%) beide unter -30% Kriterium",
+      "anwendung": "Ab Di 04.08. bei UEFA CL Q3 Comeback aufpassen: EL-Q2-Cap gilt fuer diese Liga, nicht fuer CL-Q3. Aber Prinzip-Erinnerung fuer Watchdog + Hauptroutine morgen: bei jeder Tipps-Generation zuerst beobachtungs_ligen.json lesen und Spiele in Liste-Ligen max WACKEL. WM-Halbfinale-Cap ist ohnehin nicht mehr relevant (WM abgeschlossen)."
+    }
+  ],
+  "_verifikations_report": {
+    "status": "OK_LEER",
+    "modus": "ruhetag",
+    "geprueft_am": "2026-08-03T15:20:00+02:00",
+    "spiele_geprueft": 0,
+    "tipps_geprueft": 0,
+    "halluzinationen_gedroppt": 0,
+    "layer_2_violations": 0,
+    "watchdog_ausloeser": "Hauptroutine 16:00 nicht durchgelaufen (data/tipps/2026-08-03.json fehlte um 15:20 Berlin). Watchdog-Recovery ausgeloest.",
+    "kommentar": "Ruhetag Nr. 14 in Folge - keine Spiele im CLAUDE.md-Fokus-Perimeter. Fallback-Recherche (WebSearch Livesoccertv 03.08.2026 + Footballcritic + Wikipedia 2026-27 Premier League + DFB-Pokal + UEFA.com CL-Play-off-Draw) bestaetigt: kein Spiel in Bundesliga / 2. Bundesliga / Premier League / LaLiga / Serie A / Ligue 1 / DFB-Pokal / Champions League / Europa League / Conference League / Coppa Italia / NBA am 03.08.2026. UEFA CL Play-off Draw 14:00 Nyon ist reine Draw-Veranstaltung (14 Teilnehmer Champions Path 10 + League Path 4, Play-off Hinspiele erst Di/Mi 18./19.08.), kein Spiel. Nichts zu verifizieren. Selbstkorrektur DFB-Pokal-Termin eingebaut (Wikipedia 21.-24.08. statt Vor-Dossier 14.-17.08.).",
+    "quellen_fallback_recherche": [
+      "https://www.livesoccertv.com/schedules/2026-08-03/",
+      "https://www.footballcritic.com/matches?date=2026-8-3",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_Bundesliga",
+      "https://www.uefa.com/uefachampionsleague/news/02a7-2133e87717bc-9913021d47f2-1000--uefa-champions-league-play-off-draw/",
+      "https://www.uefa.com/news-media/news/02a0-1f71bdf70a9a-b6067bd647f2-1000--2026-european-football-calendar-dates-for-all-uefa-competiti/",
+      "https://ran.joyn.de/sports/fussball/bundesliga/spielplan",
+      "https://www.dfb.de/rahmenterminkalender"
+    ]
+  },
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "einzeltipps_ergebnis": [],
+  "kombis_ergebnis": [],
+  "ausgewertet_am": "2026-08-04T07:09:53+00:00"
+}
