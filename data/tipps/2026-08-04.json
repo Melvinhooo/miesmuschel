@@ -433,73 +433,60 @@
       "empfohlener_einsatz_prozent": 1.5
     },
     {
-      "name": "Balance ~6.5x",
+      "name": "Balance ~7.3x",
       "kategorie": "balance",
       "beine": [
         {
           "spiel_id": "2026-08-04-hap-zvz",
-          "markt": "Torschuetze Jederzeit",
+          "markt": "Torschuetze Jederzeit (Kostov)",
           "quote": 2.2
         },
         {
           "spiel_id": "2026-08-04-mja-slb",
           "markt": "Beide Teams treffen",
           "quote": 1.75
+        },
+        {
+          "spiel_id": "2026-08-04-spa-lyo",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.9
         }
       ],
       "empfohlener_einsatz_euro": 4.4,
       "einsatz_prozent_kasse": 0.8,
-      "moeglicher_gewinn_euro": 28.64,
-      "begruendung": "Balance 6.51x. Layer-1: 1 Bein pro Spiel erfuellt. Layer-2: nur EIN Sieg-Outcome (Levski) - erfuellt. Heim-Favorit + Form-Star + Coinflip-BTTS. Bei 550€ Stufe 1 Kombi-Balance 0.8% -> 4.40€",
-      "gesamtquote": 3.85,
+      "moeglicher_gewinn_euro": 32.18,
+      "begruendung": "Balance 7.31x aus 3 Beinen (Torschuetze-Goldgrube + BTTS-Coinflip + Unter-2.5-Goldgrube). Layer-1: 1 Bein pro Spiel erfuellt. Layer-2: keine Sieg-Outcomes in dieser Kombi (nur Torschuetze + BTTS + Unter 2.5) - erfuellt. Layer-3: Sparta-Lyon steht auch in SAFE-Basis (DC X2) - unterschiedliches Outcome (DC=Sieg-Family vs Unter 2.5=Tor-Total) also erlaubt, weich-korreliert. Bei 550€ Stufe 1 Kombi-Balance 0.8% -> 4.40€",
+      "gesamtquote": 7.31,
       "empfohlener_einsatz_prozent": 0.5,
-      "rechnung": "2.20 x 1.75 = 3.85"
+      "rechnung": "2.20 x 1.75 x 1.90 = 7.31"
     },
     {
-      "name": "Risiko ~22x",
+      "name": "Risiko ~16x",
       "kategorie": "risk",
       "beine": [
         {
           "spiel_id": "2026-08-04-spa-lyo",
-          "markt": "Torschuetze Jederzeit",
+          "markt": "Torschuetze Jederzeit (Openda)",
           "quote": 3.2
         },
         {
           "spiel_id": "2026-08-04-lev-kai",
-          "markt": "Torschuetze Jederzeit",
+          "markt": "Torschuetze Jederzeit (Oko-Flex)",
           "quote": 2.75
         },
         {
           "spiel_id": "2026-08-04-hap-zvz",
-          "markt": "Ueber/Unter 2.5 Tore",
+          "markt": "Ueber 2.5 Tore",
           "quote": 1.85
         }
       ],
       "empfohlener_einsatz_euro": 1.4,
       "einsatz_prozent_kasse": 0.25,
-      "moeglicher_gewinn_euro": 30.77,
-      "begruendung": "Risiko 21.98x: 2 Torschuetzen (Goldgrube) + 1 Tor-Total + 1 DC. Layer-1: 1 Bein pro Spiel. Layer-2: keine Sieg-Outcomes, nur DC + Torschuetzen + Tor-Total - erfuellt. Bei 550€ Kombi-Risiko 0.25% -> 1.40€",
+      "moeglicher_gewinn_euro": 22.79,
+      "begruendung": "Risiko 16.28x: 2 Torschuetzen (Goldgrube +24.4% ROI 50% HR) + 1 Tor-Total (Ueber 2.5). Layer-1: 1 Bein pro Spiel. Layer-2: keine Sieg-Outcomes, nur Torschuetzen + Tor-Total - erfuellt. Achtung Layer-4: 2 Beine sind Markt-Typ Torschuetze - Klumpenrisiko-Warnung (Lesson HR07-29-4). Bei 550€ Kombi-Risiko 0.25% -> 1.40€",
       "gesamtquote": 16.28,
       "empfohlener_einsatz_prozent": 0.25,
       "rechnung": "3.20 x 2.75 x 1.85 = 16.28"
-    },
-    {
-      "name": "Moonshot ~38x",
-      "kategorie": "moonshot",
-      "beine": [
-        {
-          "spiel_id": "2026-08-04-mja-slb",
-          "markt": "1X2",
-          "quote": 1.95
-        }
-      ],
-      "empfohlener_einsatz_euro": 0.55,
-      "einsatz_prozent_kasse": 0.1,
-      "moeglicher_gewinn_euro": 14.88,
-      "begruendung": "Moonshot 27.06x. Layer-1: 1 Bein pro Spiel. Layer-2: 3 frische Sieg-Outcomes (Lyon, Zvezda, Mjaellby - keines in anderer Kombi) + 1 DC (Kairat/Draw - Absicherung falls Kairat-Schock in Sofia). Bei 550€ Moonshot 0.1% -> 0.55€ Spass-Einsatz (moegl. Gewinn 14.88€, unter 100x aber alle 4 realistisch mit begrenztem Aufwand)",
-      "gesamtquote": 1.95,
-      "empfohlener_einsatz_prozent": 0.1,
-      "rechnung": "1.95 = 1.95"
     }
   ],
   "lessons_angewandt": [
@@ -539,5 +526,67 @@
       "quelle": "beobachtungs_ligen.json Eintrag UEFA Q2 (-37.8% ROI 30d)"
     }
   ],
-  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-08-04T16:00:00+02:00",
+    "drops": [
+      {
+        "tipp_id": "kombi:moonshot",
+        "grund": "Moonshot-Kombi war strukturell defekt: nur 1 Bein (Mjaellby 1X2 @ 1.95) statt spec-konform 3-4 Beine + 100x+, gesamtquote 1.95 statt Moonshot-Niveau, und Begruendung behauptete '3 frische Sieg-Outcomes Lyon/Zvezda/Mjaellby' die gar nicht als beine[] eingetragen waren = Selbstwiderspruch. Rekonstruktion (Zvezda-Sieg + Lyon-Sieg + Mjaellby-Sieg) waere Layer-2-Verstoss weil alle drei Spiele bereits mit DC-Sieg-Outcome in SAFE-Basis stecken (DC zaehlt als Sieg-Outcome-Family). Ehrlicher Drop statt fauler Rekonstruktion.",
+        "lesson_vorschlag": "HR2026-08-04-1: Wenn Moonshot-Beine nicht konfliktfrei zu SAFE/Balance/Risiko ohne Layer-2-Bruch aufgebaut werden koennen, Moonshot droppen statt 1-Bein-Fake generieren."
+      }
+    ],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "recherche_file_fehlt",
+        "details": "data/recherche/2026-08-04.json existiert nicht - Squad-Halluzinations-Check war nicht komplett moeglich, best-effort via WebSearch fuer die 3 Torschuetzen-Tipps (Kostov/Oko-Flex/Openda) durchgefuehrt."
+      },
+      {
+        "art": "spieler_name_transliteration",
+        "tipp_id": "lev-kai:torschuetze",
+        "details": "Tipp nennt 'Marin Oko-Flex' - Levski-Spieler ist tatsaechlich 'Armstrong Oko-Flex' (23j Linksausen, ex-Arsenal-Akademie, Nigerianer, Januar 2026 von Botev Plovdiv geholt). Vermutlich Vorname-Verwechslung in Routine. Position (Linksausen) OK fuer Torschuetzen-Tipp, kein Downgrade noetig, aber Vorname korrigieren im PWA-Display."
+      },
+      {
+        "art": "position_mismatch_grenzfall",
+        "tipp_id": "hap-zvz:torschuetze",
+        "details": "Vasilije Kostov (Zvezda) ist laut Wikipedia/Goal.com offensiver Mittelfeldspieler (AOM), NICHT Stuermer - 17j Talent mit 20+ G/A-Saison. Per Spec: OM/AOM -> OK aber max VALUE. Tipp bereits als 'wackel' klassifiziert = unterhalb VALUE, also Spec-konform. Kein Downgrade noetig, aber PWA sollte 'AOM statt ST' anzeigen."
+      },
+      {
+        "art": "spieler_name_transliteration",
+        "tipp_id": "spa-lyo:torschuetze",
+        "details": "Tipp nennt 'Loeis Openda' - korrekte Schreibweise 'Loïs Openda' (belg. Stuermer, 26j). Loan von Juventus zu Lyon am 28.07.2026 bestaetigt (Juventus.com/Yahoo Sports). Position (Stuermer) OK, Debuet-Motiv plausibel. Kein Downgrade."
+      },
+      {
+        "art": "kombi_moonshot_gedroppt",
+        "details": "Moonshot-Kombi komplett entfernt (siehe drops). Dossier hat jetzt nur noch 3 Kombis (SAFE, Balance, Risiko) - fuer CL-Q3-Coinflip-Tag akzeptabel, keine Moonshot-Verpflichtung."
+      },
+      {
+        "art": "kombi_balance_erweitert",
+        "details": "Balance-Kombi war mit 2 Beinen (3.85x) unter Balance-Ziel-Range 6-10x. Um 3. Bein 'Sparta-Lyon Unter 2.5 @ 1.90' erweitert -> 7.31x, im Ziel-Range. Layer-2 sauber (kein Sieg-Outcome-Konflikt mit SAFE-DC Sparta-Lyon, da DC vs Unter 2.5 unterschiedliche Outcome-Families)."
+      },
+      {
+        "art": "kombi_risiko_begruendungsfix",
+        "details": "Risiko-Begruendung sagte '2 Torschuetzen + 1 Tor-Total + 1 DC' aber beine[] hatte gar keine DC (nur 3 Beine: 2 Torschuetzen + Ueber 2.5). Text korrigiert auf '2 Torschuetzen + 1 Tor-Total' + Layer-4-Klumpenrisiko-Warnung (2 Torschuetzen-Markt-Typen, Lesson HR07-29-4) hinzugefuegt."
+      },
+      {
+        "art": "kombi_safe_ueberzaehlige_beine",
+        "details": "SAFE-Basis hat 4 Beine (statt spec-konform 3), Gesamtquote 2.46x unter 3-5x-Ziel. Akzeptabel weil pure DC-Absicherung + Kasse Stufe 1 defensiv - kein Change noetig, nur zur Nachverfolgung dokumentiert."
+      },
+      {
+        "art": "torschuetze_vereins_quelle_fehlt",
+        "details": "Alle 3 Torschuetzen-Tipps (Kostov/Oko-Flex/Openda) haben kein Vereins-Player-Profile (transfermarkt/kicker/espn) in saison_kontext.quellen[] - alle bereits auf wackel gestuft via _torschuetze_quelle_warn=true, Spec-konform. Kein weiterer Handlungsbedarf."
+      }
+    ],
+    "lessons_generiert": [
+      {
+        "kategorie": "Moonshot-Struktur-Integritaet",
+        "lesson": "HR2026-08-04-1: Wenn eine Moonshot-Kombi weniger als 3 Beine hat ODER die Begruendung Sieg-Outcomes nennt die nicht in beine[] stehen ODER die Rekonstruktion Layer-2 gegen SAFE-Basis verletzt (DC deckt bereits Sieg-Family fuer alle Spiele ab), Moonshot ehrlich droppen statt kosmetisch reparieren. 1-Bein-Moonshot ist definitionsgemaess kein Moonshot."
+      },
+      {
+        "kategorie": "Verifikator-Recherche-File-Fehl-Behandlung",
+        "lesson": "HR2026-08-04-2: Bei fehlendem data/recherche/<datum>.json Squad-Check auf best-effort-WebSearch pro Torschuetzen-Tipp downgraden - keine Drops nur wegen fehlender Squad-Datei, weil sonst legitime Spieler-Tipps verlorengehen. Warn im _verifikations_report reicht + PWA rote Box."
+      }
+    ]
+  }
 }
