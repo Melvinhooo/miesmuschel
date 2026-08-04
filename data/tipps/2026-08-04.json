@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS = {
+{
   "datum": "2026-08-04",
   "erstellt_am": "2026-08-04T15:15:00+02:00",
   "hinweis": "WATCHDOG-RECOVERY Di 04.08.2026 15:15 Berlin - Hauptroutine 16:00 war noch nicht dran, Watchdog-Fruehstart. **CL Q3 First-Leg-Tag** - 8 Spiele identifiziert (LST-Confirmed), Analyse auf 4 Spiele mit klarster Kontext-Daten-Lage konzentriert: Sparta Praha - Lyon, Levski Sofia - Kairat Almaty, Hapoel Beer Sheva - Crvena Zvezda (neutral Szombathely UNG), Mjaellby - Slovan Bratislava. Weitere CL Q3 (Ararat-Armenia/NK Celje, Dinamo Zagreb/Kauno Zalgiris, Olympiacos/NEC-Union SG?/Bodoe Glimt) wegen ungewisser Ligenzuordnung/Kontext-Datendecke absichtlich weggelassen: lieber 4 solide Spiele mit vollstaendigem saison_kontext als 8 mit Loechern. Ligen sonst alle in Sommer-Pause: BL startet 28.08., PL 22.08., LaLiga 15.08., Serie A + Ligue 1 23.08., 2. BL 07.08. (Freitag), DFB-Pokal 21.-24.08., NBA Offseason. EL/CL Q3 nur Do 06.08. UEFA-Q2 auf Beobachtungs-Liga (-37.8% ROI 30d) - Q3 (separate Runde) NICHT auf Bluter-Liste. Kasse 550€ Stufe 1. Historisch fuer Nicht-Liga-Goldgrube-Spiele Downgrade SAFE-DC auf VALUE via Mapper-Hebel C. Torschuetzen Jederzeit ist Markt-Goldgrube (+24.4% ROI) - aktiv gesucht wo Form-Edge klar.",
@@ -541,4 +540,4 @@ window.__MIESMUSCHEL_TIPPS = {
     }
   ],
   "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
-};
+}
