@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS = {
+{
   "datum": "2026-08-05",
   "erstellt_am": "2026-08-05T15:15:00+02:00",
   "hinweis": "WATCHDOG-RECOVERY Mi 05.08.2026 15:15 Berlin - Hauptroutine 16:00 noch nicht dran, Watchdog-Fruehstart 2h45min vor erstem Anpfiff. **CL Q3 First-Leg Tag 2** - nur 2 CL-Q3-Hinspiele heute: Aarhus vs Sabah FA (18:00 Ligaweg-Wackelalarm, ist der Champions Path) UND Fenerbahce vs Sturm Graz (20:00 Ligaweg Topspiel des Tages). Alle anderen 8 CL-Q3-Paarungen liefen gestern Di 04.08. (dossier 2026-08-04.json). EL-Q3 startet Do 06.08., ConfL-Q3 Do 06.08. - heute keine EL/ConfL. Kasse 550€ (Stufe 1 aktiv - konservativ). CL-Q3 nicht in Liga-Goldgruben-Liste -> kein SAFE moeglich, alle Tipps max VALUE per Schema-Mapper-Hebel C. Nur 2 Spiele = Kombi-Diversifikation stark limitiert, Risiko/Moonshot-Kombis nicht sinnvoll konstruierbar (Layer-1 max 1 Bein/Spiel), daher nur 2 Qualitaets-Kombis Safe+Balance statt geforderter 4. Lehre 04.08.: gestern alle 3 Kombis verloren wegen Zvezda-UPSET in 3/3 Kombis + Kostov-HZ-Auswechslung - heute Diversifikation ueber Tor-Total/Torschuetzen-Markt statt Sieg-Cluster.",
@@ -300,4 +299,4 @@ window.__MIESMUSCHEL_TIPPS = {
     }
   ],
   "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
-};
+}
