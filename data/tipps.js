@@ -45,7 +45,9 @@ window.__MIESMUSCHEL_TIPPS = {
           "einsatz_euro": 8.0,
           "edge_prozent": 6,
           "begruendung": "Sieg-Markt ist Goldgrube light (n=122, HR 57%, +6.4% ROI). Aarhus klarer Heim-Favorit mit Danish-Champion-Qualitaet + Superliga-Rhythmus (Sabah spielt noch keine Liga-Spiele). Sabah unbesiegt in Q1+Q2 aber Aarhus haerteste Gegner bisher. Kein SAFE moeglich (CL-Q3 nicht Liga-Goldgrube -> Hebel C degradiert automatisch).",
-          "layer_2_tag": "aarhus_sieg"
+          "layer_2_tag": "aarhus_sieg",
+          "faire_quote": 1.48,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
           "kategorie": "value",
@@ -53,7 +55,9 @@ window.__MIESMUSCHEL_TIPPS = {
           "quote": 1.73,
           "einsatz_euro": 8.0,
           "edge_prozent": 12,
-          "begruendung": "Ueber 2.5 ist TOP-Goldgrube (n=45, HR 53.5%, +23.9% ROI) - aktiv suchen laut markt_goldgruben.json. Aarhus offensiv orientiert (Superliga-Opener 2:2, Q2-Rueckspiel 4:1), Sabah scored in beiden Q2-Legs. Faire Wahrscheinlichkeit deutlich ueber implizierten 58%."
+          "begruendung": "Ueber 2.5 ist TOP-Goldgrube (n=45, HR 53.5%, +23.9% ROI) - aktiv suchen laut markt_goldgruben.json. Aarhus offensiv orientiert (Superliga-Opener 2:2, Q2-Rueckspiel 4:1), Sabah scored in beiden Q2-Legs. Faire Wahrscheinlichkeit deutlich ueber implizierten 58%.",
+          "faire_quote": 1.54,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
           "kategorie": "value",
@@ -61,7 +65,9 @@ window.__MIESMUSCHEL_TIPPS = {
           "quote": 1.8,
           "einsatz_euro": 8.0,
           "edge_prozent": 10,
-          "begruendung": "BTTS JA Goldgrube (n=14, HR 50%, +20.4% ROI). Sabah scored in JEDER Europa-Runde (TNS-hin+rueck, KuPS-hin+rueck = 4/4 Spiele mit Sabah-Tor). Aarhus-Defense wackelte im Opener (2 Gegentore Lyngby) und in Q2-Hinspiel (4 Gegentore Lech!). Sabah wird treffen, Aarhus zu Hause auch."
+          "begruendung": "BTTS JA Goldgrube (n=14, HR 50%, +20.4% ROI). Sabah scored in JEDER Europa-Runde (TNS-hin+rueck, KuPS-hin+rueck = 4/4 Spiele mit Sabah-Tor). Aarhus-Defense wackelte im Opener (2 Gegentore Lyngby) und in Q2-Hinspiel (4 Gegentore Lech!). Sabah wird treffen, Aarhus zu Hause auch.",
+          "faire_quote": 1.64,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
           "kategorie": "wackel",
@@ -69,7 +75,9 @@ window.__MIESMUSCHEL_TIPPS = {
           "quote": 3.0,
           "einsatz_euro": 2.75,
           "edge_prozent": 8,
-          "begruendung": "Torschuetzen-Jederzeit ist Goldgrube (n=98, HR 35%, +6.9% ROI) - aktiv suchen. Arnstad Form-Edge: 4 Tore + 1 Assist in letzten 4 Spielen als offensiver Achter (ungewoehnlich viel fuer MF, deshalb WACKEL statt VALUE). Star-Ausfall-Pflicht erfuellt: kein Kern-Stuermer out, Arnstad ist der Form-Star der Aarhus-Offensive."
+          "begruendung": "Torschuetzen-Jederzeit ist Goldgrube (n=98, HR 35%, +6.9% ROI) - aktiv suchen. Arnstad Form-Edge: 4 Tore + 1 Assist in letzten 4 Spielen als offensiver Achter (ungewoehnlich viel fuer MF, deshalb WACKEL statt VALUE). Star-Ausfall-Pflicht erfuellt: kein Kern-Stuermer out, Arnstad ist der Form-Star der Aarhus-Offensive.",
+          "faire_quote": 2.78,
+          "empfohlener_einsatz_prozent": 0.5
         },
         {
           "kategorie": "wackel",
@@ -77,9 +85,12 @@ window.__MIESMUSCHEL_TIPPS = {
           "quote": 3.5,
           "einsatz_euro": 2.75,
           "edge_prozent": 6,
-          "begruendung": "Torschuetzen-Jederzeit-Goldgrube. Simic (26j Serbe) hat 3 Tore in 4 Europa-Spielen fuer Sabah - der klare Volumen-Stuermer. Auswaerts-Quote gegen Danish-Champion realistisch bei 3.50 - WACKEL wegen niedrigerer Hitrate weg von zu Hause + Aarhus-Defense trotz Wackler noch europaeischen Standards ok."
+          "begruendung": "Torschuetzen-Jederzeit-Goldgrube. Simic (26j Serbe) hat 3 Tore in 4 Europa-Spielen fuer Sabah - der klare Volumen-Stuermer. Auswaerts-Quote gegen Danish-Champion realistisch bei 3.50 - WACKEL wegen niedrigerer Hitrate weg von zu Hause + Aarhus-Defense trotz Wackler noch europaeischen Standards ok.",
+          "faire_quote": 3.3,
+          "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-08-05-fen-stu",
@@ -123,7 +134,9 @@ window.__MIESMUSCHEL_TIPPS = {
           "quote": 1.4,
           "einsatz_euro": 11.0,
           "edge_prozent": 4,
-          "begruendung": "Sieg-Markt (n=122, HR 57%, +6.4% ROI). Fener klarer Heim-Favorit: Star-Kader (Talisca/En-Nesyri/Duran) vs Sturm mit Kiteishvili-out. 6 Tage Regeneration, kein parallel-Druck (Sueper Lig startet erst 15.08.). Quote knapp aber Edge klar. Kein SAFE moeglich (CL-Q3 nicht Liga-Goldgrube -> Hebel C). Hoeherer Einsatz weil Sieg-Markt-ROI ueberdurchschnittlich."
+          "begruendung": "Sieg-Markt (n=122, HR 57%, +6.4% ROI). Fener klarer Heim-Favorit: Star-Kader (Talisca/En-Nesyri/Duran) vs Sturm mit Kiteishvili-out. 6 Tage Regeneration, kein parallel-Druck (Sueper Lig startet erst 15.08.). Quote knapp aber Edge klar. Kein SAFE moeglich (CL-Q3 nicht Liga-Goldgrube -> Hebel C). Hoeherer Einsatz weil Sieg-Markt-ROI ueberdurchschnittlich.",
+          "faire_quote": 1.35,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
           "kategorie": "value",
@@ -131,15 +144,20 @@ window.__MIESMUSCHEL_TIPPS = {
           "quote": 1.95,
           "einsatz_euro": 8.0,
           "edge_prozent": 14,
-          "begruendung": "Ueber 2.5 ist TOP-Goldgrube (+23.9% ROI, HR 53.5%). Fener zu Hause offensiv (Talisca + En-Nesyri + Duran), Sturm mit 6:0 vs Hearts + 0:0-Opener duerfte offener spielen. Historie Fener CL-Q3-Heim = viele Tore. Quote 1.95 fair unter Wahrscheinlichkeit ~55%."
+          "begruendung": "Ueber 2.5 ist TOP-Goldgrube (+23.9% ROI, HR 53.5%). Fener zu Hause offensiv (Talisca + En-Nesyri + Duran), Sturm mit 6:0 vs Hearts + 0:0-Opener duerfte offener spielen. Historie Fener CL-Q3-Heim = viele Tore. Quote 1.95 fair unter Wahrscheinlichkeit ~55%.",
+          "faire_quote": 1.71,
+          "empfohlener_einsatz_prozent": 1.0
         },
         {
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Torschuetze Jederzeit: Anderson Talisca (Fenerbahce)",
           "quote": 2.2,
           "einsatz_euro": 8.0,
           "edge_prozent": 15,
-          "begruendung": "Torschuetzen-Jederzeit Goldgrube (+6.9% ROI aktiv suchen). Talisca ist DIE Form-Story: 2 Tore + Freistoss in letzten 5 Spielen mit 20 Torschuessen, beide Aggregate-Tore vs Gornik. Elfmeter-Schuetze bei Fener - garantierte Tor-Chance bei jedem Fener-Elfmeter. Star-Ausfall-Backup-Regel: Talisca ist NICHT ausgefallen, Backup-Pflicht erfuellt sich durch En-Nesyri-Alt-Optionen. Pflicht-Torschuetzen-Tipp fuer Heim-Favorit-Regel."
+          "begruendung": "Torschuetzen-Jederzeit Goldgrube (+6.9% ROI aktiv suchen). Talisca ist DIE Form-Story: 2 Tore + Freistoss in letzten 5 Spielen mit 20 Torschuessen, beide Aggregate-Tore vs Gornik. Elfmeter-Schuetze bei Fener - garantierte Tor-Chance bei jedem Fener-Elfmeter. Star-Ausfall-Backup-Regel: Talisca ist NICHT ausgefallen, Backup-Pflicht erfuellt sich durch En-Nesyri-Alt-Optionen. Pflicht-Torschuetzen-Tipp fuer Heim-Favorit-Regel. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "faire_quote": 1.91,
+          "empfohlener_einsatz_prozent": 1.0,
+          "_torschuetze_quelle_warn": true
         },
         {
           "kategorie": "wackel",
@@ -147,20 +165,25 @@ window.__MIESMUSCHEL_TIPPS = {
           "quote": 1.85,
           "einsatz_euro": 2.75,
           "edge_prozent": 5,
-          "begruendung": "BTTS JA Goldgrube (+20.4%). Sturm hat trotz Kiteishvili-Ausfall Offensiv-Potential (Prass/Horvat-Achse), aber 0:0 Opener zeigt Sturm-Effizienz-Probleme -> WACKEL statt VALUE. Fener wird treffen (Talisca). Wenn Sturm nicht trifft = Zero. Aehnlich Ueber 2.5 aber schwieriger."
+          "begruendung": "BTTS JA Goldgrube (+20.4%). Sturm hat trotz Kiteishvili-Ausfall Offensiv-Potential (Prass/Horvat-Achse), aber 0:0 Opener zeigt Sturm-Effizienz-Probleme -> WACKEL statt VALUE. Fener wird treffen (Talisca). Wenn Sturm nicht trifft = Zero. Aehnlich Ueber 2.5 aber schwieriger.",
+          "faire_quote": 1.76,
+          "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     }
   ],
   "einzeltipps": [
     {
-      "kategorie": "value",
+      "kategorie": "wackel",
       "spiel_id": "2026-08-05-fen-stu",
       "spiel_label": "Fenerbahce vs Sturm Graz",
       "markt": "Sieg 1X2: Fenerbahce",
       "quote": 1.4,
       "einsatz_euro": 11.0,
-      "begruendung": "Klarer Heim-Favorit mit Star-Kader (Talisca/En-Nesyri/Duran) vs Sturm mit Kiteishvili-Ausfall. 6 Tage frisch, kein Sueper-Lig-Druck. Sieg-Markt-ROI +6.4%. Hoehere Wette als sonst weil klarer Edge."
+      "begruendung": "Klarer Heim-Favorit mit Star-Kader (Talisca/En-Nesyri/Duran) vs Sturm mit Kiteishvili-Ausfall. 6 Tage frisch, kein Sueper-Lig-Druck. Sieg-Markt-ROI +6.4%. Hoehere Wette als sonst weil klarer Edge.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 1
     },
     {
       "kategorie": "value",
@@ -169,25 +192,31 @@ window.__MIESMUSCHEL_TIPPS = {
       "markt": "Sieg 1X2: Aarhus",
       "quote": 1.57,
       "einsatz_euro": 8.0,
-      "begruendung": "Danish-Champion 2025/26 zu Hause vs Aserbaidschan-Champion ohne Liga-Rhythmus. Aarhus hat Superliga-Sharpness (2:2 Lyngby-Opener), Sabah pre-season. Sieg-Markt-Goldgrube-Light +6.4% ROI."
+      "begruendung": "Danish-Champion 2025/26 zu Hause vs Aserbaidschan-Champion ohne Liga-Rhythmus. Aarhus hat Superliga-Sharpness (2:2 Lyngby-Opener), Sabah pre-season. Sieg-Markt-Goldgrube-Light +6.4% ROI.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 2
     },
     {
-      "kategorie": "value",
+      "kategorie": "wackel",
       "spiel_id": "2026-08-05-fen-stu",
       "spiel_label": "Fenerbahce vs Sturm Graz",
       "markt": "Torschuetze Jederzeit: Anderson Talisca",
       "quote": 2.2,
       "einsatz_euro": 8.0,
-      "begruendung": "TOP-Form: 2 Tore + Freistoss in letzten 5 Spielen mit 20 Schuessen, beide Aggregate-Tore vs Gornik als Elfmeter-Held. Torschuetzen-Jederzeit Goldgrube-Markt (+6.9% ROI, aktiv suchen)."
+      "begruendung": "TOP-Form: 2 Tore + Freistoss in letzten 5 Spielen mit 20 Schuessen, beide Aggregate-Tore vs Gornik als Elfmeter-Held. Torschuetzen-Jederzeit Goldgrube-Markt (+6.9% ROI, aktiv suchen).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 3
     },
     {
-      "kategorie": "value",
+      "kategorie": "wackel",
       "spiel_id": "2026-08-05-fen-stu",
       "spiel_label": "Fenerbahce vs Sturm Graz",
       "markt": "Ueber 2.5 Tore",
       "quote": 1.95,
       "einsatz_euro": 8.0,
-      "begruendung": "Ueber 2.5 ist TOP-Goldgrube (+23.9% ROI). Fener zu Hause Star-Angriff, Sturm mit 6:0-Hearts-Confidence duerfte offensiv sein. Quote 1.95 unter fairer Wahrscheinlichkeit ~55%."
+      "begruendung": "Ueber 2.5 ist TOP-Goldgrube (+23.9% ROI). Fener zu Hause Star-Angriff, Sturm mit 6:0-Hearts-Confidence duerfte offensiv sein. Quote 1.95 unter fairer Wahrscheinlichkeit ~55%.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 4
     },
     {
       "kategorie": "value",
@@ -196,7 +225,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "markt": "Ueber 2.5 Tore",
       "quote": 1.73,
       "einsatz_euro": 8.0,
-      "begruendung": "Aarhus 2:2 Opener + 4:1-Aufholjagd Q2 vs Lech = offensiv, Sabah scored in JEDER Europa-Runde. Ueber 2.5 TOP-Goldgrube +23.9% ROI."
+      "begruendung": "Aarhus 2:2 Opener + 4:1-Aufholjagd Q2 vs Lech = offensiv, Sabah scored in JEDER Europa-Runde. Ueber 2.5 TOP-Goldgrube +23.9% ROI.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 5
     },
     {
       "kategorie": "value",
@@ -205,7 +236,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "markt": "Beide Teams treffen: JA",
       "quote": 1.8,
       "einsatz_euro": 8.0,
-      "begruendung": "BTTS JA Goldgrube (+20.4%). Sabah scored in allen 4 Europa-Spielen (TNS+KuPS-Legs), Aarhus-Defense wackelte im Opener (2 Lyngby-Tore) + Q2-Hinspiel (4 Lech-Tore)."
+      "begruendung": "BTTS JA Goldgrube (+20.4%). Sabah scored in allen 4 Europa-Spielen (TNS+KuPS-Legs), Aarhus-Defense wackelte im Opener (2 Lyngby-Tore) + Q2-Hinspiel (4 Lech-Tore).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 6
     },
     {
       "kategorie": "wackel",
@@ -214,7 +247,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "markt": "Torschuetze Jederzeit: Kristian Arnstad (Aarhus)",
       "quote": 3.0,
       "einsatz_euro": 2.75,
-      "begruendung": "Arnstad Form-Star: 4 Tore + 1 Assist in letzten 4 Spielen als offensiver Achter. Torschuetzen-Goldgrube. WACKEL weil MF-Position statt Stuermer + niedrigere HR."
+      "begruendung": "Arnstad Form-Star: 4 Tore + 1 Assist in letzten 4 Spielen als offensiver Achter. Torschuetzen-Goldgrube. WACKEL weil MF-Position statt Stuermer + niedrigere HR.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 7
     },
     {
       "kategorie": "wackel",
@@ -223,7 +258,9 @@ window.__MIESMUSCHEL_TIPPS = {
       "markt": "Beide Teams treffen: JA",
       "quote": 1.85,
       "einsatz_euro": 2.75,
-      "begruendung": "BTTS JA Goldgrube (+20.4%). Fener trifft sicher (Talisca), Sturm-Frage: 0:0-Opener zeigt Effizienz-Probleme trotz Prass/Horvat-Achse ohne Kiteishvili. WACKEL wegen Sturm-Unsicherheit."
+      "begruendung": "BTTS JA Goldgrube (+20.4%). Fener trifft sicher (Talisca), Sturm-Frage: 0:0-Opener zeigt Effizienz-Probleme trotz Prass/Horvat-Achse ohne Kiteishvili. WACKEL wegen Sturm-Unsicherheit.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 8
     }
   ],
   "kombis": [
@@ -245,9 +282,10 @@ window.__MIESMUSCHEL_TIPPS = {
           "quote": 1.57
         }
       ],
-      "gesamt_quote": 3.06,
       "moeglicher_gewinn_euro": 33.66,
-      "begruendung": "Ueber 2.5 Fener-Home (TOP-Goldgrube-Markt +23.9% ROI, HR 53.5% - Fener Star-Angriff garantiert) + Aarhus Sieg (Danish Champion Heim +6.4% ROI Markt). Layer-1: 1 Bein pro Spiel. Layer-2: Sieg-Outcome nur bei Aarhus. Diversifiziert ueber Markt-Typen (Tor-Total + Sieg statt Sieg+Sieg-Cluster wie 04.08.)."
+      "begruendung": "Ueber 2.5 Fener-Home (TOP-Goldgrube-Markt +23.9% ROI, HR 53.5% - Fener Star-Angriff garantiert) + Aarhus Sieg (Danish Champion Heim +6.4% ROI Markt). Layer-1: 1 Bein pro Spiel. Layer-2: Sieg-Outcome nur bei Aarhus. Diversifiziert ueber Markt-Typen (Tor-Total + Sieg statt Sieg+Sieg-Cluster wie 04.08.).",
+      "gesamtquote": 3.06,
+      "empfohlener_einsatz_prozent": 0.5
     },
     {
       "name": "Kombi Balance ~8x",
@@ -267,9 +305,10 @@ window.__MIESMUSCHEL_TIPPS = {
           "quote": 3.0
         }
       ],
-      "gesamt_quote": 6.6,
       "moeglicher_gewinn_euro": 29.04,
-      "begruendung": "Reine Torschuetzen-Jederzeit-Kombi ueber beide Spiele (Torschuetzen-Goldgrube +6.9% ROI aktiv suchen). Talisca (Elfmeter-Held + 2 in 5) + Arnstad (4 Tore in 4 als MF-Form-Star). Layer-1: 1 Bein pro Spiel. Layer-2: kein Sieg-Outcome. Hebel-Regel: Backup-Pflicht bei Star-Ausfall N/A - beide Torschuetzen aktiv im Kader."
+      "begruendung": "Reine Torschuetzen-Jederzeit-Kombi ueber beide Spiele (Torschuetzen-Goldgrube +6.9% ROI aktiv suchen). Talisca (Elfmeter-Held + 2 in 5) + Arnstad (4 Tore in 4 als MF-Form-Star). Layer-1: 1 Bein pro Spiel. Layer-2: kein Sieg-Outcome. Hebel-Regel: Backup-Pflicht bei Star-Ausfall N/A - beide Torschuetzen aktiv im Kader.",
+      "gesamtquote": 6.6,
+      "empfohlener_einsatz_prozent": 0.5
     }
   ],
   "lessons_angewandt": [
