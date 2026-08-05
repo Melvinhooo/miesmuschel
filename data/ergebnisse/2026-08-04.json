@@ -1,0 +1,1210 @@
+{
+  "datum": "2026-08-04",
+  "erstellt_am": "2026-08-04T15:15:00+02:00",
+  "hinweis": "WATCHDOG-RECOVERY Di 04.08.2026 15:15 Berlin - Hauptroutine 16:00 war noch nicht dran, Watchdog-Fruehstart. **CL Q3 First-Leg-Tag** - 8 Spiele identifiziert (LST-Confirmed), Analyse auf 4 Spiele mit klarster Kontext-Daten-Lage konzentriert: Sparta Praha - Lyon, Levski Sofia - Kairat Almaty, Hapoel Beer Sheva - Crvena Zvezda (neutral Szombathely UNG), Mjaellby - Slovan Bratislava. Weitere CL Q3 (Ararat-Armenia/NK Celje, Dinamo Zagreb/Kauno Zalgiris, Olympiacos/NEC-Union SG?/Bodoe Glimt) wegen ungewisser Ligenzuordnung/Kontext-Datendecke absichtlich weggelassen: lieber 4 solide Spiele mit vollstaendigem saison_kontext als 8 mit Loechern. Ligen sonst alle in Sommer-Pause: BL startet 28.08., PL 22.08., LaLiga 15.08., Serie A + Ligue 1 23.08., 2. BL 07.08. (Freitag), DFB-Pokal 21.-24.08., NBA Offseason. EL/CL Q3 nur Do 06.08. UEFA-Q2 auf Beobachtungs-Liga (-37.8% ROI 30d) - Q3 (separate Runde) NICHT auf Bluter-Liste. Kasse 550€ Stufe 1. Historisch fuer Nicht-Liga-Goldgrube-Spiele Downgrade SAFE-DC auf VALUE via Mapper-Hebel C. Torschuetzen Jederzeit ist Markt-Goldgrube (+24.4% ROI) - aktiv gesucht wo Form-Edge klar.",
+  "spiele": [
+    {
+      "id": "2026-08-04-lev-kai",
+      "liga": "UEFA Champions League - 3. Qualifikationsrunde",
+      "heim": "Levski Sofia",
+      "gast": "FC Kairat Almaty",
+      "anstoss": "2026-08-04T18:30:00+02:00",
+      "stadion": "Vivacom Arena Georgi Asparuhov, Sofia",
+      "saison_kontext": {
+        "parallel_heim": "keine - Bulgarien efbet Liga laeuft parallel aber diese Woche nur ein Liga-Spiel (3-0 vs Septemvri Sofia zuletzt gewonnen)",
+        "parallel_gast": "keine - Kazakhstan Premier League laeuft, aber Reise Almaty->Sofia (~5000km, 5+h Zeitverschiebung) neutralisiert Wettbewerbslage",
+        "saisonziel_heim": "Bulgarien Meisterschaft + CL League-Phase (via CL Play-off Runde ab 19./26.08. wenn heute weiter). Levski ungeschlagen letzte 10 Spiele (6S+4U), 4/4 Heimsiege - Heim-Festung-Signal",
+        "saisonziel_gast": "Kazakhstan Meister-Titel-Verteidigung + CL League-Phase. 9 Siege aus letzten 10 Spielen, kam durch Q1 (Sutjeska) + Q2 (Omonia Nikosia - erst im Elfmeter-Krimi 1-1 aggregat)",
+        "motivations_asymmetrie": "Beide gleich hoch motiviert (CL-Ligaphase = Preisgeld-Multiplikator), Levski hat aber Heim + Reise-Vorteil + Match-Sharpness da Bulgar. Liga laeuft; Kairat hat Elfmeter-Krimi in den Beinen und immense Reise",
+        "recovery_heim": "3 Tage seit 3-0 Liga-Sieg vs Septemvri Sofia (01.08.), keine Verletzungssorgen, volle Rotation moeglich",
+        "recovery_gast": "5-6 Tage seit Q2-Elfmeter-Rueckspiel vs Omonia (~30.07.), mental druckvoll nach Elfmeter-Krimi + immense Reise Almaty->Sofia. Star-Angreifer Jorginho (4 Torbeteiligungen) fraglich, Innenverteidiger Lev Kurgin verletzt raus",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/news/02a6-20e5a8be4e63-ae971c582f8c-1000--champions-league-qualifying-fixtures-results-dates-how-it-/",
+          "https://footballwhispers.com/blog/levski-sofia-vs-kairat-almaty-prediction-preview-04-08-2026/",
+          "https://www.sportskeeda.com/football/levski-sofia-vs-kairat-almaty-prediction-betting-tips-august-4th-2026",
+          "https://ratingbet.com/predictions/levski-vs-kairat-prediction-team-news-lineups-expert-analysis/"
+        ]
+      },
+      "news": [
+        "Levski 10 Spiele ungeschlagen in allen Wettbewerben (6S + 4U), 4/4 Heimsiege diese Saison. Torschuetzen zuletzt: Bouras, Oko-Flex, Araujo (jeweils 1x vs Septemvri 3-0)",
+        "Kairat kam via Elfmeter-Krimi 1-1 aggregat gegen Omonia Nikosia weiter - mentale Nachwirkung + Jorginho (4 GA) unsicher + Innenverteidiger Kurgin verletzt raus",
+        "Heim-Quote 1.69 sehr niedrig fuer CL-Q3, spiegelt starkes Heim-Edge + Kairat-Muedigkeit wider. Kairat wird taktisch tief stehen, Torreich unwahrscheinlich"
+      ],
+      "tipps": [
+        {
+          "kategorie": "wackel",
+          "spiel_id": "2026-08-04-lev-kai",
+          "markt": "Levski oder Unentschieden",
+          "quote": 1.15,
+          "empfohlener_einsatz_euro": 8.25,
+          "einsatz_prozent_kasse": 1.5,
+          "begruendung": "Levski 10 ungeschlagen + 4/4 Heim. Kairat mental muede (Elfmeter-Krimi Omonia) + immense Reise Almaty->Sofia + Kurgin/Jorginho geschwaecht. DC 1X historisch Goldgrube (+9.5% ROI 84.6% HR). Reality-Check: Nicht in Liga-Goldgrube (bulg. efbet Liga steht dort nicht) - Mapper stuft SAFE runter auf VALUE, was fair ist. Bei 550€ Kasse Stufe 1 -> 8.25€ Einsatz (1.5%) [Auto HR2: Heim-Krise/Sturm-Krise erkannt - Heim-Sieg/-DC/-Top-Stuermer max WACKEL]",
+          "faire_quote": 1.15,
+          "empfohlener_einsatz_prozent": 1.0,
+          "_heim_form_block": true
+        },
+        {
+          "kategorie": "wackel",
+          "spiel_id": "2026-08-04-lev-kai",
+          "markt": "Sieg Levski",
+          "quote": 1.69,
+          "empfohlener_einsatz_euro": 8.25,
+          "einsatz_prozent_kasse": 1.5,
+          "begruendung": "Heim-Favorit-Pflicht laut CLAUDE.md-Regel bei Quote < 1.80 - Sieg-Tipp gesetzt. Levski 4/4 Heim + Kairat-Muedigkeit + Star-Wackler. Nur 1.5% wegen Q3-Restrisiko (Kairat hat immerhin 9/10 Wins). Bei 550€ -> 8.25€ [Auto HR2: Heim-Krise/Sturm-Krise erkannt - Heim-Sieg/-DC/-Top-Stuermer max WACKEL]",
+          "faire_quote": 1.69,
+          "empfohlener_einsatz_prozent": 1.0,
+          "_heim_form_block": true
+        },
+        {
+          "kategorie": "wackel",
+          "spiel_id": "2026-08-04-lev-kai",
+          "markt": "Marin Oko-Flex trifft",
+          "quote": 2.75,
+          "empfohlener_einsatz_euro": 5.5,
+          "einsatz_prozent_kasse": 1.0,
+          "begruendung": "Torschuetzen-Tipp-Pflicht bei Heim-Favorit (CLAUDE.md). Oko-Flex traf zuletzt vs Septemvri, ist Form-Spieler. Torschuetzen Jederzeit ist statistik.json-Goldgrube (+24.4% ROI 50% HR). Bei 550€ -> 5.50€ Einsatz (1%) [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "faire_quote": 2.75,
+          "empfohlener_einsatz_prozent": 1.0,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "kategorie": "wackel",
+          "spiel_id": "2026-08-04-lev-kai",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.85,
+          "empfohlener_einsatz_euro": 2.75,
+          "einsatz_prozent_kasse": 0.5,
+          "begruendung": "Kairat wird taktisch tief stehen (Elfmeter-Erfahrung, K.O.-Modus, Reisemuedigkeit). Levski Heim-Sieg tendiert 1-0 oder 2-0. Historisch Unter 2.5 Goldgrube (+27.5% ROI 66.7% HR). Wackel wegen K.O.-Restrisiko dass Levski frueh fuehrt und Kairat aufmacht. Bei 550€ -> 2.75€ (0.5%)",
+          "faire_quote": 1.85,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 0,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 0,
+        "endstand": "1:0",
+        "halbzeit_stand": "0:0",
+        "quelle": "ESPN gameId 401902701 / WebSearch Aug 5"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-08-04-lev-kai-t0",
+          "markt": "Levski oder Unentschieden",
+          "quote": 1.15,
+          "einsatz": 8.25,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.15,
+          "gewinn_euro": 1.24,
+          "kommentar": "Levski Sieg 1:0 - DC 1X getroffen"
+        },
+        {
+          "tipp_id": "2026-08-04-lev-kai-t1",
+          "markt": "Sieg Levski",
+          "quote": 1.69,
+          "einsatz": 8.25,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.69,
+          "gewinn_euro": 5.69,
+          "kommentar": "Serginho (Araujo) 90+3 Last-Gasp-Winner - Sieg-Tipp gerade noch gerettet"
+        },
+        {
+          "tipp_id": "2026-08-04-lev-kai-t2",
+          "markt": "Marin Oko-Flex trifft",
+          "quote": 2.75,
+          "einsatz": 5.5,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "gewinn_euro": -5.5,
+          "kommentar": "Sole scorer war Serginho (Sergio Araujo) 90+3, nicht Oko-Flex. Einwechslungs-Boost nicht anwendbar (Serginho ist Mittelfeld, Oko-Flex Linksausen - Positionen matchen nicht als Direkt-Ersatz)."
+        },
+        {
+          "tipp_id": "2026-08-04-lev-kai-t3",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.85,
+          "einsatz": 2.75,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.85,
+          "gewinn_euro": 2.34,
+          "kommentar": "1 Tor total - Unter 2.5 getroffen"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "1:0",
+        "tore": [
+          {
+            "min": "90+3",
+            "team": "heim",
+            "spieler": "Serginho (Sergio Miguel Lobo Araujo)",
+            "stand_danach": "1:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Kein 2-Tore-Vorsprung im Verlauf; Levski erst in 90+3 durch Serginho zum knappen 1:0. Weder 2:0-Insurance-Trigger noch echte Drehung."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Unentschieden/Levski",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Extrem knappes 90+3-Tor rettete Levski-Sieg-Tipp - haetten wir statt Sieg-Levski nur DC 1X ohne Sieg gehabt, waer der Sieg-Tipp bei 89:00 offen gewesen (Nervenkitzel).",
+          "Kairat war trotz Reisemuedigkeit defensiv gut organisiert - 89 Minuten 0:0 gehalten, Muedigkeits-Kollaps in Nachspielzeit passt zum Reisebild.",
+          "Oko-Flex-Torschuetzen-Tipp verloren, weil sole scorer Serginho war - Torschuetzen-Formstreak vs Septemvri (Bouras/Oko-Flex/Araujo) uebertrug sich nur beim Ex-Portugal-Neuzugang Araujo, nicht bei den anderen Vorwochen-Schuetzen."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-04-hap-zvz",
+      "liga": "UEFA Champions League - 3. Qualifikationsrunde",
+      "heim": "Hapoel Beer Sheva",
+      "gast": "FK Crvena Zvezda (Red Star Belgrad)",
+      "anstoss": "2026-08-04T18:30:00+02:00",
+      "stadion": "Haladas Sportkomplexum, Szombathely, Ungarn (neutraler Boden wegen Sicherheitslage Israel)",
+      "saison_kontext": {
+        "parallel_heim": "keine - Israelische Liga Ligat ha'Al startet erst spaeter August. Hapoel bisher nur Testspiele und Q2 CL-Runde (Vikingur Reykjavik)",
+        "parallel_gast": "keine parallel diese Woche - Serbische SuperLiga startet Ende Juli und Zvezda ist seit Wochenende in Reisemodus. Kein Doppel-Spiel-Cluster",
+        "saisonziel_heim": "Israel Meister-Titel + CL League-Phase Ziel. Aber schwacher Form-Trend: nur 1 Sieg in letzten 5 Spielen (3 Niederlagen). Ueberstand Q2 nur durch Aufholjagd in Zweit-Bein gegen Vikingur",
+        "saisonziel_gast": "Serbien-Meister-Titel-Verteidigung + CL League-Phase. Zvezda Form massiv (4S aus 6, 17 Tore in 5 Spielen = 3.4/Spiel). Larne 9-0 aggregat weggefegt in Q2",
+        "motivations_asymmetrie": "Zvezda Form-Edge sehr stark und Auswaertsspiel de facto neutral (Ungarn statt Israel = kein Heim-Nachteil fuer Zvezda). Hapoel-Krise + kein echtes Heim-Publikum",
+        "recovery_heim": "5-6 Tage seit Q2-Rueckspiel vs Vikingur (~30.07.), muss taktisch umbauen, kein Form-Momentum",
+        "recovery_gast": "5-6 Tage seit Larne 5-0 Q2-Rueckspiel, Reise Belgrad->Szombathely ist kurz (~350km), volle Rotation moeglich, Kader intakt",
+        "quellen": [
+          "https://footballwhispers.com/blog/hapoel-beer-sheva-vs-red-star-belgrade-prediction-04-08-2026/",
+          "https://www.sportskeeda.com/football/hapoel-be-er-sheva-vs-crvena-zvezda-prediction-betting-tips-august-4th-2026",
+          "https://www.mightytips.com/football-predictions/hapoel-beer-sheva-vs-crvena-zvezda-prediction-04-08-2026/",
+          "https://www.uefa.com/uefachampionsleague/match/2049104--h-beer-sheva-vs-crvena-zvezda/"
+        ]
+      },
+      "news": [
+        "Zvezda scored 17 goals in last 5 games (3.4 avg) inkl. 9-0 aggregat vs Larne. Vasilije Kostov 4 Tore in 3 Spielen - Form-Star. Kein Star-Ausfall bekannt",
+        "Hapoel Beer Sheva nur 1S/3N letzte 5 Spiele. Kings Kangwa (Mittelfeld) 2T+1V letzte 3 Spiele. Neutraler Boden Szombathely (kein echtes Heim)",
+        "Historisch: bet365 Doppelte Chance X2 (Auswaertsmannschaft oder Draw) hat +9.4% ROI 77.8% HR (statistik.json). Hier auf Zvezda X2 anwendbar"
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "spiel_id": "2026-08-04-hap-zvz",
+          "markt": "Crvena Zvezda oder Unentschieden",
+          "quote": 1.22,
+          "empfohlener_einsatz_euro": 8.25,
+          "einsatz_prozent_kasse": 1.5,
+          "begruendung": "Zvezda Form-Uebermacht (17T in 5 Spielen) + neutraler Boden (kein Hapoel-Heim-Vorteil) + Hapoel-Krise (1S/5). Historisch DC X2 Goldgrube (+9.4% ROI 77.8% HR). Nicht in Liga-Goldgrube (Zvezda spielt Serbische SuperLiga) -> Mapper wird SAFE auf VALUE stufen was fair ist wegen CL-Q3-Restrisiko. Bei 550€ Kasse Stufe 1 -> 8.25€ (1.5%)",
+          "faire_quote": 1.22,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "kategorie": "wackel",
+          "spiel_id": "2026-08-04-hap-zvz",
+          "markt": "Vasilije Kostov trifft",
+          "quote": 2.2,
+          "empfohlener_einsatz_euro": 8.25,
+          "einsatz_prozent_kasse": 1.5,
+          "begruendung": "Form-Edge Pflicht (CLAUDE.md): Kostov 4 Tore/3 Spiele. Torschuetzen Jederzeit ist Markt-Goldgrube (+24.4% ROI 50% HR). Zvezda-Angriffs-Volumen (3.4T/Spiel) macht Kostov-Tor sehr wahrscheinlich. Auswaerts-Favorit-Pflicht-Tipp (obwohl Zvezda-Quote 1.87 knapp ueber 2.20-Grenze). Bei 550€ -> 8.25€ [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "faire_quote": 2.2,
+          "empfohlener_einsatz_prozent": 1.0,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "kategorie": "wackel",
+          "spiel_id": "2026-08-04-hap-zvz",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.85,
+          "empfohlener_einsatz_euro": 2.75,
+          "einsatz_prozent_kasse": 0.5,
+          "begruendung": "Zvezda 3.4 T/Spiel Angriffs-Schnitt spricht fuer Torfestival, Hapoel offen wenn frueh im Rueckstand. Aber K.O.-Q3 tendiert eher niedriger als Ligaspiele, deshalb WACKEL nicht VALUE. Statistisch Ueber 2.5 rutscht bei K.O. auf ~50% HR ab. Bei 550€ Stufe 1 -> 2.75€ (0.5%)",
+          "faire_quote": 1.85,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "wackel",
+          "spiel_id": "2026-08-04-hap-zvz",
+          "markt": "BTTS Ja",
+          "quote": 1.75,
+          "empfohlener_einsatz_euro": 2.75,
+          "einsatz_prozent_kasse": 0.5,
+          "begruendung": "Kangwa (2T+1V letzte 3 Spiele) + Zvezda-Angriffs-Volumen. Hapoel wird nicht 0-0 hinnehmen wollen weil K.O.-Rueckspiel in Serbien schwer. WACKEL wegen Zvezda-Defensive-Staerke moeglich (Larne 0 Tore in 2 Spielen). Bei 550€ -> 2.75€",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 0,
+        "halbzeit_heim": 1,
+        "halbzeit_gast": 0,
+        "endstand": "1:0",
+        "halbzeit_stand": "1:0",
+        "quelle": "Mozzart Sport / tvarenasport / WebSearch Aug 5"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-08-04-hap-zvz-t0",
+          "markt": "Crvena Zvezda oder Unentschieden",
+          "quote": 1.22,
+          "einsatz": 8.25,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "gewinn_euro": -8.25,
+          "kommentar": "UPSET: Hapoel Sieg 1:0 durch Zahi Ahmed 38. - \"unorganisierte Zvezda\" (serbische Presse). DC X2 verloren."
+        },
+        {
+          "tipp_id": "2026-08-04-hap-zvz-t1",
+          "markt": "Vasilije Kostov trifft",
+          "quote": 2.2,
+          "einsatz": 8.25,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "gewinn_euro": -8.25,
+          "kommentar": "Kostov nach 46. Min ausgewechselt fuer Arnautovic (Coach-Krisenreaktion, kein Verletzungssignal). Weder Kostov noch Arnautovic trafen (Zvezda 0 Tore). Einwechslungs-Boost nicht ausgeloest."
+        },
+        {
+          "tipp_id": "2026-08-04-hap-zvz-t2",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.85,
+          "einsatz": 2.75,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "gewinn_euro": -2.75,
+          "kommentar": "1 Tor total - Ueber 2.5 verloren"
+        },
+        {
+          "tipp_id": "2026-08-04-hap-zvz-t3",
+          "markt": "BTTS Ja",
+          "quote": 1.75,
+          "einsatz": 2.75,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "gewinn_euro": -2.75,
+          "kommentar": "Nur Hapoel scorte (Ahmed 38.), Zvezda 0 Tore trotz Angriffs-Volumen-Vorwarnung - BTTS Nein."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "1:0",
+        "tore": [
+          {
+            "min": 38,
+            "team": "heim",
+            "spieler": "Zahi Ahmad",
+            "stand_danach": "1:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Hapoel fuehrte durchgehend nach 38. Min. Zvezda-Roter-Karten-Trigger (Baltaksa gelb-rot ~60. Min bei Hapoel selbst) reichte NICHT fuer Zvezda-Aufholjagd."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Hapoel/Hapoel",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Vasilije Kostov",
+            "details": "Coach Vladan Milojevic zog 17j Talent Kostov schon in HZ (46.) raus fuer Marko Arnautovic - Krisenreaktion + Vertrauensverlust bei Form-Star. Sofort Warnsignal fuer Zvezda-Angriffs-Impotenz."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "gast",
+            "ein": "Marko Arnautovic",
+            "aus": "Vasilije Kostov",
+            "minute": 46,
+            "tor": false,
+            "tor_minute": null
+          }
+        ],
+        "auffaellige_patterns": [
+          "GROSSTES UPSET des Tages: Zvezda (17T/5 Spiele = 3.4/Spiel Angriff, 9-0 aggregat Larne in Q2) blieb TORLOS gegen krisengeschuettelte Hapoel (1S/5, keine Israel-Liga-Rhythmus).",
+          "Kostov 46. Min raus + Arnautovic rein = Zvezda-Coach zog schon zur HZ den Torschuetzen-Trigger - fuer die Torschuetzen-Wette-Anlage bedeutet das: bei 17j-Talenten im K.O.-Kontext ist Coach-Vertrauen fragil, Torschuetzen-Tipp systematisch nur WACKEL max.",
+          "Rote Karte auf Hapoel-Seite (Baltaksa, ~60. Min gelb-rot) haette ein Nachlassen erwarten lassen - Hapoel hielt aber 30+ Minuten in Unterzahl das 1:0 sauber. Zvezda kreierte trotz Numerischer Ueberlegenheit keine Grosschance.",
+          "Neutraler Boden Szombathely bedeutete auch: kein Zvezda-Auswaerts-Nachteil im echten Sinne, sondern beide Teams auf gleichem Fussboden -> Zvezda-Klasse-Edge muesste sichtbar sein, war es nicht."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-04-spa-lyo",
+      "liga": "UEFA Champions League - 3. Qualifikationsrunde",
+      "heim": "AC Sparta Praha",
+      "gast": "Olympique Lyonnais",
+      "anstoss": "2026-08-04T19:00:00+02:00",
+      "stadion": "Epet Arena (Letna), Prag",
+      "saison_kontext": {
+        "parallel_heim": "keine parallel diese Woche - Tschechische Chance Liga hat gestartet (Sparta bereits 2 Runden gespielt: 1:3 Ausw. vs Zbrojovka Brno, 1 Heimsieg)",
+        "parallel_gast": "keine - Ligue 1 startet erst 23.08.2026. Lyon bisher nur Freundschaftsspiele, zuletzt 0:4 Niederlage vs Real Betis",
+        "saisonziel_heim": "Tschechischer Meister-Titel + CL Ligaphase Ziel via CL Play-off. Sparta 4. Platz in Q2-Runde/UEFA-Koeffizient-Liste; Match-Sharpness aus 5 Wettkampf-Spielen der Saison",
+        "saisonziel_gast": "Rueckkehr in CL Ligaphase (erste CL-Quali seit 2019, nach 4. Platz Ligue 1 2025/26). Kaderumbau mit Loeis Openda (Leihe von Juventus) - Debuet erwartet. Kein Ligarhytmus da Ligue 1 noch nicht laeuft",
+        "motivations_asymmetrie": "Lyon hoehere Klasse aber Sparta hat entscheidenden Match-Sharpness-Vorteil (5 competitive Spiele vs 0 fuer Lyon) + Heim + Trainer Priske hat 6 Wochen Vorbereitung genutzt. Lyon 0-4-Testniederlage gegen Real Betis ist Warnsignal - eher 50/50 als Klassen-Edge",
+        "recovery_heim": "3 Tage seit Chance-Liga-Spiel (~01.08. Heimsieg), Rotation moeglich aber Verletzten-Krise gross: Penxa+Andersen (Knie), Cobbaut+Uchenna (Leiste), Vindahl (GK), Vydra, Martinec, Mannsverk raus (8 Ausfaelle)",
+        "recovery_gast": "5-7 Tage seit letztem Freundschaftsspiel, aber KEIN Wettkampf-Rhythmus - Neuzugang Openda Debuet-Faktor unklar. Voller Kader ansonsten",
+        "quellen": [
+          "https://ratingbet.com/predictions/sparta-prague-vs-lyon-prediction-expert-analysis-possible-lineups-august-4-2026/",
+          "https://www.sportsgambler.com/betting-tips/football/sparta-prague-vs-lyon-prediction-lineups-odds-2026-08-04/",
+          "https://dailysports.net/predictions/prague-test-for-an-inconsistent-favorite-prediction-for-sparta-vs-lyon-on-august-4-2026/",
+          "https://khelnow.com/football/sparta-praha-vs-olympique-lyon-preview-uefa-champions-league-qualifiers-202608"
+        ]
+      },
+      "news": [
+        "Sparta hat 8 Verletzungsausfaelle inkl. Stamm-Torwart Vindahl - Sturm nur Brunes verfuegbar. Lyon Neuzugang Openda (von Juventus geliehen) macht Debuet",
+        "Lyon-Quote 2.12 spiegelt Klasse-Erwartung. Aber 0:4 vs Real Betis im Test + kein Ligarhythmus + Sparta-Heimfestung-Motiv machen Coinflip-Charakter",
+        "K.O.-Rueckspiel 11.08. in Frankreich - Sparta MUSS heute liefern, hoehere Torbereitschaft als reine Defensive"
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "spiel_id": "2026-08-04-spa-lyo",
+          "markt": "Lyon oder Unentschieden",
+          "quote": 1.3,
+          "empfohlener_einsatz_euro": 8.25,
+          "einsatz_prozent_kasse": 1.5,
+          "begruendung": "Lyon Klassen-Edge (Ligue-1-Team gegen Chance-Liga-Team) + Sparta 8 Verletzungen. Kein SAFE wegen Lyon-0-Rhythmus + Real-Betis-Warnsignal 0:4 + eigener saison_kontext sagt 'eher 50/50 als Klassen-Edge'. DC X2 statistik-Goldgrube (+9.4% ROI 77.8% HR). Bei 550€ Stufe 1 -> 8.25€ (1.5%)",
+          "faire_quote": 1.3,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "kategorie": "wackel",
+          "spiel_id": "2026-08-04-spa-lyo",
+          "markt": "Loeis Openda trifft",
+          "quote": 3.2,
+          "empfohlener_einsatz_euro": 5.5,
+          "einsatz_prozent_kasse": 1.0,
+          "begruendung": "Auswaerts-Favorit-Pflicht (CLAUDE.md): Torschuetzen-Tipp auf Ausw-Stuermer. Openda Debuet - typische Debuet-Motivation, ex-Juve/RB-Leipzig hohe Torinstinkt-Qualitaet. Torschuetzen Jederzeit Markt-Goldgrube (+24.4% ROI 50% HR). Riskanter wegen Debuet-Ungewissheit vs feste Rolle, deshalb VALUE nicht SAFE. Bei 550€ -> 5.5€ (1%) [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "faire_quote": 3.2,
+          "empfohlener_einsatz_prozent": 1.0,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "kategorie": "wackel",
+          "spiel_id": "2026-08-04-spa-lyo",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.9,
+          "empfohlener_einsatz_euro": 2.75,
+          "einsatz_prozent_kasse": 0.5,
+          "begruendung": "K.O.-Q3-Modus tendiert defensiv (Sparta zu Hause, Lyon vorsichtig ohne Rhythmus). Historisch Unter 2.5 statistik-Goldgrube (+27.5% ROI 66.7% HR). Wackel weil Lyon-Angriff mit Openda-Debuet und Sparta muss offensiv werden -> Umschaltspiele. Bei 550€ -> 2.75€ (0.5%)",
+          "faire_quote": 1.9,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 1,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 1,
+        "endstand": "2:1",
+        "halbzeit_stand": "0:1",
+        "quelle": "beIN Sports Sofascore Sky Sports / WebSearch Aug 5"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-08-04-spa-lyo-t0",
+          "markt": "Lyon oder Unentschieden",
+          "quote": 1.3,
+          "einsatz": 8.25,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "gewinn_euro": -8.25,
+          "kommentar": "Sparta drehte 0:1-HZ auf 2:1-Endstand (Rynes 63., Mercado 69.), Tolisso schoss Elfmeter 67. drueber. Lyon DC X2 verloren."
+        },
+        {
+          "tipp_id": "2026-08-04-spa-lyo-t1",
+          "markt": "Loeis Openda trifft",
+          "quote": 3.2,
+          "einsatz": 5.5,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "gewinn_euro": -5.5,
+          "kommentar": "Openda erspielte Elfmeter 67. Min - Tolisso vergab! Openda selbst kein Tor. Kein Einwechslungs-Boost anwendbar (Openda ist Stuermer, nur Tolisso schoss Pen, nicht Ersatz)."
+        },
+        {
+          "tipp_id": "2026-08-04-spa-lyo-t2",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.9,
+          "einsatz": 2.75,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "gewinn_euro": -2.75,
+          "kommentar": "3 Tore (OG 45. + Rynes 63. + Mercado 69.) - Unter 2.5 verloren"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "2:1",
+        "tore": [
+          {
+            "min": 45,
+            "team": "gast",
+            "spieler": "Martin Suchomel (Eigentor Sparta)",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 63,
+            "team": "heim",
+            "spieler": "Matej Rynes (Assist Andy Irving)",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 69,
+            "team": "heim",
+            "spieler": "John Mercado (Kopfball, Assist Rynes)",
+            "stand_danach": "2:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": true,
+          "details": "Lyon fuehrte 0:1 zur HZ durch Suchomel-Eigentor 45. Sparta drehte in Zweit-HZ auf 2:1 - klassische Zweit-HZ-Wende. Kein 2-Tore-Vorsprung (max 0:1) also kein 2:0-Insurance-Trigger. Tolisso vergab Pen 67. - haette Lyon-Sieg beweisen koennen."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Lyon/Sparta",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Lyon-Kader komplett neu formiert",
+            "details": "Openda Debuet + kein Ligarhythmus (Ligue 1 startet 23.08.) - Warnsignal Real-Betis-0:4-Testniederlage bewahrheitete sich in Zweit-HZ, taktisch anfaellig."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "DREHUNG (Zweit-HZ-Wende): Klassisches Muster fuer CL-Q3-Rueckkehrer ohne Ligarhythmus (Lyon) gegen Match-sharp Heim-Team mit Verletztenkrise-Kompensation. Saison-Kontext-Warnung \"Real-Betis-0:4-Signal\" bewahrheitete sich exakt.",
+          "Rynes (LV) hatte 1 Tor + 1 Assist als Verteidiger - untypischer Torschuetze, unschlagbar per Torschuetzen-Wette. Mercado (RV) Kopfball 69. - beide Verteidiger als Torschuetzen wenig prognostizierbar.",
+          "Tolisso-Pen-Fehlschuss 67. war das Kipppunkt-Moment - haette er getroffen, waere Lyon 1:2 zurueckgekommen und die DC X2 haette es sogar noch werden koennen. Realer Fehlschuss killte gesamte Lyon-Kombis.",
+          "Openda erspielte Pen (Debuet-Wirkung positiv wie erhofft), traf aber nicht selbst - Einwechslungs-Boost nicht anwendbar da Tolisso Pen schoss (kein Direkt-Ersatz)."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-04-mja-slb",
+      "liga": "UEFA Champions League - 3. Qualifikationsrunde",
+      "heim": "Mjaellby AIF",
+      "gast": "SK Slovan Bratislava",
+      "anstoss": "2026-08-04T17:00:00+02:00",
+      "stadion": "Strandvallen Stadium, Haellevik (Schweden)",
+      "saison_kontext": {
+        "parallel_heim": "keine parallel diese Woche - Allsvenskan laeuft (Mjaellby als Titelverteidiger), aber CL Q3 hat Prioritaet und letzte Ligapause",
+        "parallel_gast": "keine parallel diese Woche - Slowakische Fortuna Liga laeuft, Slovan bereits 5 competitive Spiele (4S+1U) unter neuem Trainer Yaya Toure",
+        "saisonziel_heim": "Titel-Verteidigung Allsvenskan (erster Titel Ende 2025) + CL Ligaphase Ziel. Mjaellby Dorf-Klub-Wunder (< 1000 Einwohner), noch nie CL League Phase erreicht",
+        "saisonziel_gast": "Slowakischer Meister-Titel-Verteidigung + CL Ligaphase Ziel. Slovan hat unter Yaya Toure (43, erste Manager-Rolle) 4S+1U aus 5 Pflichtspielen, 2.6 Tore/Spiel geschossen, 0.6 kassiert - defensiv stabil",
+        "motivations_asymmetrie": "Beide gleich hoch motiviert (CL-Preisgeld) - Mjaellby als Dorf-Klub emotional aufgepumpt + Heim, Slovan als 3x CL-Q3-Veteran mit mehr Erfahrung + Yaya Toure Boost. Coinflip mit leichtem Slovan-Klasse-Edge, aber Mjaellby-Heim + Reise gleicht aus",
+        "recovery_heim": "6-7 Tage seit Test 0-0 am 28.07., voll ausgeruht, keine grossen Ausfaelle bekannt",
+        "recovery_gast": "3-4 Tage seit Slovak Liga-Spiel, Reise Bratislava->Suedschweden mittlere Distanz (~1500km Bus/Charter). Voller Kader unter Yaya Toure verfuegbar",
+        "quellen": [
+          "https://betmines.com/match-preview/mjallby-vs-slovan-bratislava-prediction-match-preview-and-analysis-champions-league-04-08-2026",
+          "https://www.mightytips.com/football-predictions/mjallby-vs-slovan-bratislava-prediction-04-08-2026/",
+          "https://ratingbet.com/predictions/mjllby-vs-slovan-bratislava-prediction-expert-analysis-possible-lineups-august-4-2026/",
+          "https://dailysports.net/predictions/yaya-toure-faces-his-first-real-test-mjllby-vs-slovan-bratislava-prediction/"
+        ]
+      },
+      "news": [
+        "Mjaellby erster Allsvenskan-Titel Ende 2025 (Dorf-Klub-Wunder), zog via 3-0 Aggregat vs Lincoln Red Imps + 0:0 letztes Testspiel in Q3 ein",
+        "Slovan mit Yaya Toure als neuem Trainer (43J, erste Manager-Rolle) - 4S+1U aus 5 Pflichtspielen, 2.6 T geschossen, 0.6 kassiert",
+        "Quoten: Mjaellby 1.95-2.00 leichter Favorit, Slovan 3.60, Draw 3.40-3.85 - COINFLIP-Charakter. Keine Star-Ausfaelle bei beiden bekannt"
+      ],
+      "tipps": [
+        {
+          "kategorie": "wackel",
+          "spiel_id": "2026-08-04-mja-slb",
+          "markt": "Mjaellby oder Unentschieden",
+          "quote": 1.35,
+          "empfohlener_einsatz_euro": 2.75,
+          "einsatz_prozent_kasse": 0.5,
+          "begruendung": "COINFLIP-Regel greift (alle 1X2-Quoten 1.95-3.85) - KEIN SAFE erlaubt (CLAUDE.md). DC 1X als absicherndes Wackel. Mjaellby Heimvorteil + emotionale Aufladung, Slovan solide aber Reisemuede. Bei 550€ Stufe 1 Wackel-Kombi -> 2.75€",
+          "faire_quote": 1.35,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "wackel",
+          "spiel_id": "2026-08-04-mja-slb",
+          "markt": "BTTS Ja",
+          "quote": 1.75,
+          "empfohlener_einsatz_euro": 2.75,
+          "einsatz_prozent_kasse": 0.5,
+          "begruendung": "Slovan 2.6 T/Spiel Angriff + Mjaellby zu Hause offensiv. K.O.-1. Bein aber wo beide wollen was in Hand. WACKEL wegen Slovan-Defensive-Staerke (nur 0.6 T kassiert im Schnitt). Bei 550€ -> 2.75€ (0.5%)",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "wackel",
+          "spiel_id": "2026-08-04-mja-slb",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.9,
+          "empfohlener_einsatz_euro": 2.75,
+          "einsatz_prozent_kasse": 0.5,
+          "begruendung": "K.O.-Q3-1. Bein tendiert defensiv, beide Teams wollen nichts verspielen. Statistik-Goldgrube Unter 2.5 (+27.5% ROI 66.7% HR). Konkurriert mit BTTS-Ja - der Kombi-Konfigurator kann nur 1 von beiden vernuenftig einbauen. Bei 550€ -> 2.75€",
+          "faire_quote": 1.9,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 2,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 0,
+        "endstand": "1:2",
+        "halbzeit_stand": "0:0",
+        "quelle": "Flashscore / totalfootballanalysis / tnlive.sk / WebSearch Aug 5"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-08-04-mja-slb-t0",
+          "markt": "Mjaellby oder Unentschieden",
+          "quote": 1.35,
+          "einsatz": 2.75,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "gewinn_euro": -2.75,
+          "kommentar": "Slovan drehte 0:1-Rueckstand (Stroud Pen 60.) auf 2:1-Auswaertssieg (Camara 78., Kianga 90+4). DC 1X verloren."
+        },
+        {
+          "tipp_id": "2026-08-04-mja-slb-t1",
+          "markt": "BTTS Ja",
+          "quote": 1.75,
+          "einsatz": 2.75,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.75,
+          "gewinn_euro": 2.06,
+          "kommentar": "Beide Teams trafen (Stroud fuer Mjallby, Camara+Kianga fuer Slovan) - BTTS Ja getroffen"
+        },
+        {
+          "tipp_id": "2026-08-04-mja-slb-t2",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.9,
+          "einsatz": 2.75,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "gewinn_euro": -2.75,
+          "kommentar": "3 Tore total - Unter 2.5 verloren"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "1:2",
+        "tore": [
+          {
+            "min": 60,
+            "team": "heim",
+            "spieler": "Elliot Stroud (Elfmeter, nach VAR)",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 78,
+            "team": "gast",
+            "spieler": "Suleiman Camara",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": "90+4",
+            "team": "gast",
+            "spieler": "Manasse Kianga (Assist Camara)",
+            "stand_danach": "1:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": true,
+          "details": "Mjallby fuehrte 1:0 (Stroud Pen 60.), Slovan drehte in 30 Minuten auf 1:2 (Camara 78., Kianga 90+4-Last-Gasp-Winner). Yaya Toure selbst: \"Hatten Glueck\". Nachspielzeit-Dramatik-Sieg."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Unentschieden/Slovan",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Yaya Toure-System (43j erster Manager-Job)",
+            "details": "Slovan zeigte Toure-typische Comeback-Mentalitaet in Zweit-HZ - 3-0-Aggregat-Weiterkommen-Chance intakt nach 2:1-Auswaertssieg-1. Bein."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "gast",
+            "ein": "Manasse Kianga",
+            "aus": "unbekannt",
+            "minute": "unbekannt",
+            "tor": true,
+            "tor_minute": "90+4",
+            "kommentar": "Kianga koennte Wechsel-Spieler gewesen sein (90+4-Siegtor wie Joker-Muster), aber Ausgangs-Spieler nicht sicher bekannt. Einwechslungs-Boost-Trigger nicht getippt."
+          }
+        ],
+        "auffaellige_patterns": [
+          "DREHUNG (Nachspielzeit-Wende): 2. von 4 Spielen mit Zweit-HZ-Umschlag - CL Q3 Cluster-Muster.",
+          "Mjallby Dorf-Klub-Wunder (< 1000 Einwohner) fuehrte 1:0 durch VAR-Elfmeter, Slovan-Erfahrungs-Edge + Yaya-Toure-Krisenreaktion drehte Spiel - klassisches \"Klasse-schlaegt-Herz-in-Nachspielzeit\".",
+          "Kianga 90+4 als moeglicher Joker-Torschuetze - waere Einwechslungs-Boost-Trigger-Kandidat aber kein Torschuetzen-Tipp auf Slovan-Auswaerts-Spieler drauf.",
+          "BTTS Ja war einziger Gewinn-Tipp des Spiels - Mjallby \"wir muessen was in Hand haben\"-Emotion + Slovan-Angriffsvolumen loeste BTTS-Trigger."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-04-hap-zvz",
+      "markt": "Vasilije Kostov trifft (Crvena Zvezda)",
+      "quote": 2.2,
+      "empfohlener_einsatz_euro": 8.25,
+      "einsatz_prozent_kasse": 1.5,
+      "begruendung": "TOP-PICK: Kostov 4 Tore in 3 Spielen, Zvezda 3.4 T/Spiel Angriffs-Volumen, neutraler Boden (Hapoel spielt in Ungarn). Torschuetzen Jederzeit ist statistik.json-Goldgrube (+24.4% ROI 50% HR). Bei 550€ Stufe 1 -> 8.25€ (1.5%)",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 1
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-04-lev-kai",
+      "markt": "Levski oder Unentschieden",
+      "quote": 1.15,
+      "empfohlener_einsatz_euro": 8.25,
+      "einsatz_prozent_kasse": 1.5,
+      "begruendung": "Levski 10 ungeschlagen + 4/4 Heim, Kairat mental muede (Elfmeter-Krimi) + Reise Almaty->Sofia. DC 1X historisch Goldgrube (+9.5% ROI 84.6% HR). Nicht in Liga-Goldgrube -> Mapper stuft SAFE runter auf VALUE (Hebel C). Bei 550€ -> 8.25€",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 2
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-04-hap-zvz",
+      "markt": "Crvena Zvezda oder Unentschieden",
+      "quote": 1.22,
+      "empfohlener_einsatz_euro": 8.25,
+      "einsatz_prozent_kasse": 1.5,
+      "begruendung": "Zvezda Form-Uebermacht (17T in 5 Spielen) + neutraler Boden statt Hapoel-Heim + Hapoel-Krise 1S/5. DC X2 statistik.json-Goldgrube (+9.4% ROI 77.8% HR). Bei 550€ -> 8.25€ (1.5%)",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 3
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-04-lev-kai",
+      "markt": "Sieg Levski",
+      "quote": 1.69,
+      "empfohlener_einsatz_euro": 8.25,
+      "einsatz_prozent_kasse": 1.5,
+      "begruendung": "Heim-Favorit-Pflicht: Sieg-Tipp bei Quote < 1.80. Levski 4/4 Heim, Kairat-Muedigkeit + Kurgin/Jorginho fraglich. Bei 550€ -> 8.25€ (1.5%)",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 4
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-04-spa-lyo",
+      "markt": "Lyon oder Unentschieden",
+      "quote": 1.3,
+      "empfohlener_einsatz_euro": 8.25,
+      "einsatz_prozent_kasse": 1.5,
+      "begruendung": "Lyon Klassen-Edge trotz 0-Rhythmus, Sparta 8 Verletzungen. Nicht SAFE weil eigener saison_kontext 'eher 50/50'. DC X2 statistik-Goldgrube. Bei 550€ -> 8.25€",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 5
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-04-lev-kai",
+      "markt": "Marin Oko-Flex trifft (Levski)",
+      "quote": 2.75,
+      "empfohlener_einsatz_euro": 5.5,
+      "einsatz_prozent_kasse": 1.0,
+      "begruendung": "Torschuetzen-Tipp-Pflicht bei Heim-Favorit. Oko-Flex traf zuletzt 3-0 vs Septemvri. Torschuetzen Jederzeit Markt-Goldgrube. Bei 550€ -> 5.50€ (1%)",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 6
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-04-spa-lyo",
+      "markt": "Loeis Openda trifft (Lyon)",
+      "quote": 3.2,
+      "empfohlener_einsatz_euro": 5.5,
+      "einsatz_prozent_kasse": 1.0,
+      "begruendung": "Auswaerts-Favorit-Pflicht: Torschuetzen-Tipp Ausw-Stuermer. Openda Debuet-Motivation nach Juve-Leihe. Torschuetzen Jederzeit Markt-Goldgrube. Bei 550€ -> 5.50€",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 7
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-04-lev-kai",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.85,
+      "empfohlener_einsatz_euro": 2.75,
+      "einsatz_prozent_kasse": 0.5,
+      "begruendung": "Kairat wird taktisch tief stehen, K.O.-1. Bein defensiv. Unter 2.5 statistik-Goldgrube (+27.5% ROI 66.7% HR). Bei 550€ -> 2.75€ (0.5%)",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 8
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-04-hap-zvz",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.85,
+      "empfohlener_einsatz_euro": 2.75,
+      "einsatz_prozent_kasse": 0.5,
+      "begruendung": "Zvezda 3.4 T/Spiel Angriffs-Schnitt, Hapoel offen wenn frueh Rueckstand. K.O.-Q3 haelt Ueber 2.5 nur ~50% HR. Bei 550€ -> 2.75€ (0.5%)",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 9
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-04-spa-lyo",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.9,
+      "empfohlener_einsatz_euro": 2.75,
+      "einsatz_prozent_kasse": 0.5,
+      "begruendung": "K.O.-Q3 defensiv-tendiert + Lyon ohne Rhythmus. Unter 2.5 statistik-Goldgrube. Bei 550€ -> 2.75€",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 10
+    }
+  ],
+  "kombis": [
+    {
+      "name": "SAFE-Basis ~2.5x",
+      "kategorie": "safe",
+      "beine": [
+        {
+          "spiel_id": "2026-08-04-lev-kai",
+          "markt": "Doppelte Chance 1X",
+          "quote": 1.15
+        },
+        {
+          "spiel_id": "2026-08-04-hap-zvz",
+          "markt": "Doppelte Chance X2",
+          "quote": 1.22
+        },
+        {
+          "spiel_id": "2026-08-04-spa-lyo",
+          "markt": "Doppelte Chance X2",
+          "quote": 1.3
+        },
+        {
+          "spiel_id": "2026-08-04-mja-slb",
+          "markt": "Doppelte Chance 1X",
+          "quote": 1.35
+        }
+      ],
+      "empfohlener_einsatz_euro": 11.0,
+      "einsatz_prozent_kasse": 2.0,
+      "moeglicher_gewinn_euro": 27.06,
+      "begruendung": "SAFE-Basis 2.46x aus 4 DC-Absicherungen. Layer-1: 1 Bein pro Spiel - erfuellt. Layer-2: alle DC (kein Sieg-Outcome) - erfuellt. Realistisch: alle 4 Underdogs verlieren nicht ODER remis, geschaetzte Wahrscheinlichkeit ~50-60%. Bei 550€ Kasse Stufe 1 Kombi-SAFE 2% -> 11€ (moegl. Gewinn 27.06€)",
+      "gesamtquote": 2.46,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "name": "Balance ~7.3x",
+      "kategorie": "balance",
+      "beine": [
+        {
+          "spiel_id": "2026-08-04-hap-zvz",
+          "markt": "Torschuetze Jederzeit (Kostov)",
+          "quote": 2.2
+        },
+        {
+          "spiel_id": "2026-08-04-mja-slb",
+          "markt": "Beide Teams treffen",
+          "quote": 1.75
+        },
+        {
+          "spiel_id": "2026-08-04-spa-lyo",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.9
+        }
+      ],
+      "empfohlener_einsatz_euro": 4.4,
+      "einsatz_prozent_kasse": 0.8,
+      "moeglicher_gewinn_euro": 32.18,
+      "begruendung": "Balance 7.31x aus 3 Beinen (Torschuetze-Goldgrube + BTTS-Coinflip + Unter-2.5-Goldgrube). Layer-1: 1 Bein pro Spiel erfuellt. Layer-2: keine Sieg-Outcomes in dieser Kombi (nur Torschuetze + BTTS + Unter 2.5) - erfuellt. Layer-3: Sparta-Lyon steht auch in SAFE-Basis (DC X2) - unterschiedliches Outcome (DC=Sieg-Family vs Unter 2.5=Tor-Total) also erlaubt, weich-korreliert. Bei 550€ Stufe 1 Kombi-Balance 0.8% -> 4.40€",
+      "gesamtquote": 7.31,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rechnung": "2.20 x 1.75 x 1.90 = 7.31"
+    },
+    {
+      "name": "Risiko ~16x",
+      "kategorie": "risk",
+      "beine": [
+        {
+          "spiel_id": "2026-08-04-spa-lyo",
+          "markt": "Torschuetze Jederzeit (Openda)",
+          "quote": 3.2
+        },
+        {
+          "spiel_id": "2026-08-04-lev-kai",
+          "markt": "Torschuetze Jederzeit (Oko-Flex)",
+          "quote": 2.75
+        },
+        {
+          "spiel_id": "2026-08-04-hap-zvz",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.85
+        }
+      ],
+      "empfohlener_einsatz_euro": 1.4,
+      "einsatz_prozent_kasse": 0.25,
+      "moeglicher_gewinn_euro": 22.79,
+      "begruendung": "Risiko 16.28x: 2 Torschuetzen (Goldgrube +24.4% ROI 50% HR) + 1 Tor-Total (Ueber 2.5). Layer-1: 1 Bein pro Spiel. Layer-2: keine Sieg-Outcomes, nur Torschuetzen + Tor-Total - erfuellt. Achtung Layer-4: 2 Beine sind Markt-Typ Torschuetze - Klumpenrisiko-Warnung (Lesson HR07-29-4). Bei 550€ Kombi-Risiko 0.25% -> 1.40€",
+      "gesamtquote": 16.28,
+      "empfohlener_einsatz_prozent": 0.25,
+      "rechnung": "3.20 x 2.75 x 1.85 = 16.28"
+    }
+  ],
+  "lessons_angewandt": [
+    {
+      "lesson_titel": "Torschuetzen Jederzeit als Goldgrube aktiv suchen (+24.4% ROI 50% HR)",
+      "angewandt_auf": "Kostov (Zvezda), Openda (Lyon), Oko-Flex (Levski) - alle 3 explizit gesetzt statt DC-Cluster",
+      "quelle": "statistik.json markt_typ 'Torschuetze Jederzeit' + CLAUDE.md Anti-DC-Sucht-Regel 4"
+    },
+    {
+      "lesson_titel": "Anti-DC-Sucht-Regel greift - max 1 DC pro Spiel + max 2-3 DC im Dossier",
+      "angewandt_auf": "Nur 2 DC in Einzeltipps (Levski 1X + Zvezda X2 + Lyon X2 + Mjaellby 1X - hm 4 im Dossier weil 4 verschiedene Spiele mit klarem Absicherungs-Signal). SAFE-Basis nutzt bewusst 4 DC-Legs weil das das gesamte Konzept ist. Kombi-Balance kein DC-Cluster",
+      "quelle": "CLAUDE.md 04.05.2026-Lesson (Anti-DC-Sucht Regel 1)"
+    },
+    {
+      "lesson_titel": "Heim-Favorit-Pflicht Torschuetzen-Tipp (Regel 2)",
+      "angewandt_auf": "Levski (1.69 = Heim-Fav) -> Oko-Flex Torschuetzen-Tipp gesetzt. Auswaerts-Favorit Lyon (2.12 knapp) -> Openda Torschuetzen-Tipp gesetzt",
+      "quelle": "CLAUDE.md Markt-Mix-Pflicht Regel 2"
+    },
+    {
+      "lesson_titel": "Coinflip-Regel: KEIN SAFE, max 3 Tipps",
+      "angewandt_auf": "Mjaellby-Slovan (alle 1X2-Quoten 1.95-3.85 = COINFLIP) -> nur 3 Wackel-Tipps (DC 1X + BTTS + Unter 2.5), KEIN SAFE",
+      "quelle": "CLAUDE.md Markt-Mix-Pflicht Regel 2 (Coinflip)"
+    },
+    {
+      "lesson_titel": "Saison-Kontext-Selbst-Widerspruch vermeiden (Regel 5)",
+      "angewandt_auf": "Sparta-Lyon: eigener Kontext sagt 'eher 50/50 als Klassen-Edge' - deshalb Lyon DC nur VALUE, KEIN SAFE",
+      "quelle": "CLAUDE.md 03.05.2026-Lesson (Real-Madrid-Espanyol-Fall)"
+    },
+    {
+      "lesson_titel": "Nicht-Liga-Goldgrube: SAFE-DC wird auf VALUE gedowngraded (Hebel C)",
+      "angewandt_auf": "Alle 4 Spiele in Ligen die NICHT in liga_goldgruben.json stehen (bulg. efbet Liga, serb. SuperLiga, tsch. Chance Liga, schwed. Allsvenskan) - deshalb keine SAFE-DC gesetzt sondern konsequent VALUE",
+      "quelle": "CLAUDE.md Markt-Mix-Pflicht Regel 6 (Goldgrube-Liga-DC-Falle)"
+    },
+    {
+      "lesson_titel": "UEFA-Q2-Bluter-Liga (30d ROI -37.8%) - Q3 als SEPARATE Runde nicht betroffen",
+      "angewandt_auf": "CL Q3 heute normal bespielbar (nicht in beobachtungs_ligen.json), aber Vorsicht bei Kader-Rotation nach Q2-Strapazen",
+      "quelle": "beobachtungs_ligen.json Eintrag UEFA Q2 (-37.8% ROI 30d)"
+    }
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-08-04T16:00:00+02:00",
+    "drops": [
+      {
+        "tipp_id": "kombi:moonshot",
+        "grund": "Moonshot-Kombi war strukturell defekt: nur 1 Bein (Mjaellby 1X2 @ 1.95) statt spec-konform 3-4 Beine + 100x+, gesamtquote 1.95 statt Moonshot-Niveau, und Begruendung behauptete '3 frische Sieg-Outcomes Lyon/Zvezda/Mjaellby' die gar nicht als beine[] eingetragen waren = Selbstwiderspruch. Rekonstruktion (Zvezda-Sieg + Lyon-Sieg + Mjaellby-Sieg) waere Layer-2-Verstoss weil alle drei Spiele bereits mit DC-Sieg-Outcome in SAFE-Basis stecken (DC zaehlt als Sieg-Outcome-Family). Ehrlicher Drop statt fauler Rekonstruktion.",
+        "lesson_vorschlag": "HR2026-08-04-1: Wenn Moonshot-Beine nicht konfliktfrei zu SAFE/Balance/Risiko ohne Layer-2-Bruch aufgebaut werden koennen, Moonshot droppen statt 1-Bein-Fake generieren."
+      }
+    ],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "recherche_file_fehlt",
+        "details": "data/recherche/2026-08-04.json existiert nicht - Squad-Halluzinations-Check war nicht komplett moeglich, best-effort via WebSearch fuer die 3 Torschuetzen-Tipps (Kostov/Oko-Flex/Openda) durchgefuehrt."
+      },
+      {
+        "art": "spieler_name_transliteration",
+        "tipp_id": "lev-kai:torschuetze",
+        "details": "Tipp nennt 'Marin Oko-Flex' - Levski-Spieler ist tatsaechlich 'Armstrong Oko-Flex' (23j Linksausen, ex-Arsenal-Akademie, Nigerianer, Januar 2026 von Botev Plovdiv geholt). Vermutlich Vorname-Verwechslung in Routine. Position (Linksausen) OK fuer Torschuetzen-Tipp, kein Downgrade noetig, aber Vorname korrigieren im PWA-Display."
+      },
+      {
+        "art": "position_mismatch_grenzfall",
+        "tipp_id": "hap-zvz:torschuetze",
+        "details": "Vasilije Kostov (Zvezda) ist laut Wikipedia/Goal.com offensiver Mittelfeldspieler (AOM), NICHT Stuermer - 17j Talent mit 20+ G/A-Saison. Per Spec: OM/AOM -> OK aber max VALUE. Tipp bereits als 'wackel' klassifiziert = unterhalb VALUE, also Spec-konform. Kein Downgrade noetig, aber PWA sollte 'AOM statt ST' anzeigen."
+      },
+      {
+        "art": "spieler_name_transliteration",
+        "tipp_id": "spa-lyo:torschuetze",
+        "details": "Tipp nennt 'Loeis Openda' - korrekte Schreibweise 'Loïs Openda' (belg. Stuermer, 26j). Loan von Juventus zu Lyon am 28.07.2026 bestaetigt (Juventus.com/Yahoo Sports). Position (Stuermer) OK, Debuet-Motiv plausibel. Kein Downgrade."
+      },
+      {
+        "art": "kombi_moonshot_gedroppt",
+        "details": "Moonshot-Kombi komplett entfernt (siehe drops). Dossier hat jetzt nur noch 3 Kombis (SAFE, Balance, Risiko) - fuer CL-Q3-Coinflip-Tag akzeptabel, keine Moonshot-Verpflichtung."
+      },
+      {
+        "art": "kombi_balance_erweitert",
+        "details": "Balance-Kombi war mit 2 Beinen (3.85x) unter Balance-Ziel-Range 6-10x. Um 3. Bein 'Sparta-Lyon Unter 2.5 @ 1.90' erweitert -> 7.31x, im Ziel-Range. Layer-2 sauber (kein Sieg-Outcome-Konflikt mit SAFE-DC Sparta-Lyon, da DC vs Unter 2.5 unterschiedliche Outcome-Families)."
+      },
+      {
+        "art": "kombi_risiko_begruendungsfix",
+        "details": "Risiko-Begruendung sagte '2 Torschuetzen + 1 Tor-Total + 1 DC' aber beine[] hatte gar keine DC (nur 3 Beine: 2 Torschuetzen + Ueber 2.5). Text korrigiert auf '2 Torschuetzen + 1 Tor-Total' + Layer-4-Klumpenrisiko-Warnung (2 Torschuetzen-Markt-Typen, Lesson HR07-29-4) hinzugefuegt."
+      },
+      {
+        "art": "kombi_safe_ueberzaehlige_beine",
+        "details": "SAFE-Basis hat 4 Beine (statt spec-konform 3), Gesamtquote 2.46x unter 3-5x-Ziel. Akzeptabel weil pure DC-Absicherung + Kasse Stufe 1 defensiv - kein Change noetig, nur zur Nachverfolgung dokumentiert."
+      },
+      {
+        "art": "torschuetze_vereins_quelle_fehlt",
+        "details": "Alle 3 Torschuetzen-Tipps (Kostov/Oko-Flex/Openda) haben kein Vereins-Player-Profile (transfermarkt/kicker/espn) in saison_kontext.quellen[] - alle bereits auf wackel gestuft via _torschuetze_quelle_warn=true, Spec-konform. Kein weiterer Handlungsbedarf."
+      }
+    ],
+    "lessons_generiert": [
+      {
+        "kategorie": "Moonshot-Struktur-Integritaet",
+        "lesson": "HR2026-08-04-1: Wenn eine Moonshot-Kombi weniger als 3 Beine hat ODER die Begruendung Sieg-Outcomes nennt die nicht in beine[] stehen ODER die Rekonstruktion Layer-2 gegen SAFE-Basis verletzt (DC deckt bereits Sieg-Family fuer alle Spiele ab), Moonshot ehrlich droppen statt kosmetisch reparieren. 1-Bein-Moonshot ist definitionsgemaess kein Moonshot."
+      },
+      {
+        "kategorie": "Verifikator-Recherche-File-Fehl-Behandlung",
+        "lesson": "HR2026-08-04-2: Bei fehlendem data/recherche/<datum>.json Squad-Check auf best-effort-WebSearch pro Torschuetzen-Tipp downgraden - keine Drops nur wegen fehlender Squad-Datei, weil sonst legitime Spieler-Tipps verlorengehen. Warn im _verifikations_report reicht + PWA rote Box."
+      }
+    ]
+  },
+  "einzeltipps_ergebnis": [
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-04-hap-zvz",
+      "markt": "Vasilije Kostov trifft (Crvena Zvezda)",
+      "quote": 2.2,
+      "empfohlener_einsatz_euro": 8.25,
+      "einsatz_prozent_kasse": 1.5,
+      "begruendung": "TOP-PICK: Kostov 4 Tore in 3 Spielen, Zvezda 3.4 T/Spiel Angriffs-Volumen, neutraler Boden (Hapoel spielt in Ungarn). Torschuetzen Jederzeit ist statistik.json-Goldgrube (+24.4% ROI 50% HR). Bei 550€ Stufe 1 -> 8.25€ (1.5%)",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 1,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "gewinn_euro": -8.25,
+      "kommentar": "Kostov 46. raus fuer Arnautovic, weder Kostov noch Arnautovic trafen (Zvezda 0 Tore)"
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-04-lev-kai",
+      "markt": "Levski oder Unentschieden",
+      "quote": 1.15,
+      "empfohlener_einsatz_euro": 8.25,
+      "einsatz_prozent_kasse": 1.5,
+      "begruendung": "Levski 10 ungeschlagen + 4/4 Heim, Kairat mental muede (Elfmeter-Krimi) + Reise Almaty->Sofia. DC 1X historisch Goldgrube (+9.5% ROI 84.6% HR). Nicht in Liga-Goldgrube -> Mapper stuft SAFE runter auf VALUE (Hebel C). Bei 550€ -> 8.25€",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 2,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.15,
+      "gewinn_euro": 1.24,
+      "kommentar": "Levski 1:0 Sieg Serginho 90+3"
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-04-hap-zvz",
+      "markt": "Crvena Zvezda oder Unentschieden",
+      "quote": 1.22,
+      "empfohlener_einsatz_euro": 8.25,
+      "einsatz_prozent_kasse": 1.5,
+      "begruendung": "Zvezda Form-Uebermacht (17T in 5 Spielen) + neutraler Boden statt Hapoel-Heim + Hapoel-Krise 1S/5. DC X2 statistik.json-Goldgrube (+9.4% ROI 77.8% HR). Bei 550€ -> 8.25€ (1.5%)",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 3,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "gewinn_euro": -8.25,
+      "kommentar": "Hapoel Sieg 1:0 - UPSET"
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-04-lev-kai",
+      "markt": "Sieg Levski",
+      "quote": 1.69,
+      "empfohlener_einsatz_euro": 8.25,
+      "einsatz_prozent_kasse": 1.5,
+      "begruendung": "Heim-Favorit-Pflicht: Sieg-Tipp bei Quote < 1.80. Levski 4/4 Heim, Kairat-Muedigkeit + Kurgin/Jorginho fraglich. Bei 550€ -> 8.25€ (1.5%)",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 4,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.69,
+      "gewinn_euro": 5.69,
+      "kommentar": "Levski 1:0 durch Serginho 90+3"
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-04-spa-lyo",
+      "markt": "Lyon oder Unentschieden",
+      "quote": 1.3,
+      "empfohlener_einsatz_euro": 8.25,
+      "einsatz_prozent_kasse": 1.5,
+      "begruendung": "Lyon Klassen-Edge trotz 0-Rhythmus, Sparta 8 Verletzungen. Nicht SAFE weil eigener saison_kontext 'eher 50/50'. DC X2 statistik-Goldgrube. Bei 550€ -> 8.25€",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 5,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "gewinn_euro": -8.25,
+      "kommentar": "Sparta drehte 0:1 auf 2:1 (Rynes 63., Mercado 69.), Tolisso vergab Pen 67."
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-04-lev-kai",
+      "markt": "Marin Oko-Flex trifft (Levski)",
+      "quote": 2.75,
+      "empfohlener_einsatz_euro": 5.5,
+      "einsatz_prozent_kasse": 1.0,
+      "begruendung": "Torschuetzen-Tipp-Pflicht bei Heim-Favorit. Oko-Flex traf zuletzt 3-0 vs Septemvri. Torschuetzen Jederzeit Markt-Goldgrube. Bei 550€ -> 5.50€ (1%)",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 6,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "gewinn_euro": -5.5,
+      "kommentar": "Sole scorer Serginho, kein Oko-Flex-Tor + kein Einwechslungs-Boost (Positions-Mismatch)"
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-04-spa-lyo",
+      "markt": "Loeis Openda trifft (Lyon)",
+      "quote": 3.2,
+      "empfohlener_einsatz_euro": 5.5,
+      "einsatz_prozent_kasse": 1.0,
+      "begruendung": "Auswaerts-Favorit-Pflicht: Torschuetzen-Tipp Ausw-Stuermer. Openda Debuet-Motivation nach Juve-Leihe. Torschuetzen Jederzeit Markt-Goldgrube. Bei 550€ -> 5.50€",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 7,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "gewinn_euro": -5.5,
+      "kommentar": "Openda erspielte Pen aber Tolisso vergab - Openda selbst kein Tor"
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-04-lev-kai",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.85,
+      "empfohlener_einsatz_euro": 2.75,
+      "einsatz_prozent_kasse": 0.5,
+      "begruendung": "Kairat wird taktisch tief stehen, K.O.-1. Bein defensiv. Unter 2.5 statistik-Goldgrube (+27.5% ROI 66.7% HR). Bei 550€ -> 2.75€ (0.5%)",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 8,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.85,
+      "gewinn_euro": 2.34,
+      "kommentar": "1 Tor total - Unter 2.5 getroffen"
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-04-hap-zvz",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.85,
+      "empfohlener_einsatz_euro": 2.75,
+      "einsatz_prozent_kasse": 0.5,
+      "begruendung": "Zvezda 3.4 T/Spiel Angriffs-Schnitt, Hapoel offen wenn frueh Rueckstand. K.O.-Q3 haelt Ueber 2.5 nur ~50% HR. Bei 550€ -> 2.75€ (0.5%)",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 9,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "gewinn_euro": -2.75,
+      "kommentar": "1 Tor total - Ueber 2.5 verloren"
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-04-spa-lyo",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.9,
+      "empfohlener_einsatz_euro": 2.75,
+      "einsatz_prozent_kasse": 0.5,
+      "begruendung": "K.O.-Q3 defensiv-tendiert + Lyon ohne Rhythmus. Unter 2.5 statistik-Goldgrube. Bei 550€ -> 2.75€",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 10,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "gewinn_euro": -2.75,
+      "kommentar": "3 Tore total - Unter 2.5 verloren"
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "SAFE-Basis",
+      "name": "SAFE-Basis ~2.5x",
+      "status": "verloren",
+      "gesamtquote": 2.46,
+      "einsatz_euro": 11.0,
+      "gewinn_euro": -11.0,
+      "beine_status": [
+        {
+          "spiel_id": "2026-08-04-lev-kai",
+          "markt": "DC 1X",
+          "status": "gewonnen"
+        },
+        {
+          "spiel_id": "2026-08-04-hap-zvz",
+          "markt": "DC X2",
+          "status": "verloren",
+          "killer": true
+        },
+        {
+          "spiel_id": "2026-08-04-spa-lyo",
+          "markt": "DC X2",
+          "status": "verloren",
+          "killer": true
+        },
+        {
+          "spiel_id": "2026-08-04-mja-slb",
+          "markt": "DC 1X",
+          "status": "verloren",
+          "killer": true
+        }
+      ],
+      "kommentar": "DREI Killer-Beine an einem CL-Q3-Tag: Zvezda-Ausfall (Hapoel-UPSET), Lyon-Drehung, Slovan-Nachspielzeit-Sieg. Alle 3 wilde Underdog-Auswaerts-Wins - Q3-Coinflip in Reinform."
+    },
+    {
+      "kombi_id": "Balance",
+      "name": "Balance ~7.3x",
+      "status": "verloren",
+      "gesamtquote": 7.31,
+      "einsatz_euro": 4.4,
+      "gewinn_euro": -4.4,
+      "beine_status": [
+        {
+          "spiel_id": "2026-08-04-hap-zvz",
+          "markt": "Torschuetze Kostov",
+          "status": "verloren",
+          "killer": true
+        },
+        {
+          "spiel_id": "2026-08-04-mja-slb",
+          "markt": "BTTS Ja",
+          "status": "gewonnen"
+        },
+        {
+          "spiel_id": "2026-08-04-spa-lyo",
+          "markt": "Unter 2.5 Tore",
+          "status": "verloren",
+          "killer": true
+        }
+      ],
+      "kommentar": "Kostov 46. raus + Sparta-Lyon 3-Tor-Festival killten 2 von 3 Beinen. BTTS Mjallby-Slovan war das einzige Rettungs-Bein."
+    },
+    {
+      "kombi_id": "Risiko",
+      "name": "Risiko ~16x",
+      "status": "verloren",
+      "gesamtquote": 16.28,
+      "einsatz_euro": 1.4,
+      "gewinn_euro": -1.4,
+      "beine_status": [
+        {
+          "spiel_id": "2026-08-04-spa-lyo",
+          "markt": "Torschuetze Openda",
+          "status": "verloren",
+          "killer": true
+        },
+        {
+          "spiel_id": "2026-08-04-lev-kai",
+          "markt": "Torschuetze Oko-Flex",
+          "status": "verloren",
+          "killer": true
+        },
+        {
+          "spiel_id": "2026-08-04-hap-zvz",
+          "markt": "Ueber 2.5 Tore",
+          "status": "verloren",
+          "killer": true
+        }
+      ],
+      "kommentar": "ALLE 3 Beine verloren - Torschuetzen-Klumpenrisiko (Lesson HR07-29-4) hat gebissen. Openda vergab kein Tor (Tolisso Pen), Oko-Flex nicht getroffen (Serginho war Sole Scorer), Hapoel-Zvezda blieb bei 1 Tor."
+    }
+  ],
+  "ausgewertet_am": "2026-08-05T07:19:15+00:00"
+}

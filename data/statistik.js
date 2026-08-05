@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-08-04T07:09:59+00:00",
+  "letzte_berechnung": "2026-08-05T07:20:34+00:00",
   "gesamt": {
-    "tipps": 416,
-    "gewonnen": 219,
-    "verloren": 186,
+    "tipps": 426,
+    "gewonnen": 222,
+    "verloren": 193,
     "push": 2,
     "offen": 9,
-    "einsatz": 407.0,
+    "einsatz": 417.0,
     "netto": 42.82,
-    "trefferquote": 54.1,
-    "roi_prozent": 10.5
+    "trefferquote": 53.5,
+    "roi_prozent": 10.3
   },
   "letzte_30_tage": {
-    "tipps": 59,
-    "gewonnen": 26,
-    "verloren": 33,
+    "tipps": 69,
+    "gewonnen": 29,
+    "verloren": 40,
     "push": 0,
     "offen": 0,
-    "einsatz": 59.0,
+    "einsatz": 69.0,
     "netto": 9.34,
-    "trefferquote": 44.1,
-    "roi_prozent": 15.8
+    "trefferquote": 42.0,
+    "roi_prozent": 13.5
   },
   "letzte_90_tage": {
     "tipps": 410,
-    "gewonnen": 215,
-    "verloren": 184,
+    "gewonnen": 214,
+    "verloren": 185,
     "push": 2,
     "offen": 9,
     "einsatz": 401.0,
-    "netto": 41.1,
-    "trefferquote": 53.9,
-    "roi_prozent": 10.2
+    "netto": 34.99,
+    "trefferquote": 53.6,
+    "roi_prozent": 8.7
   },
   "nach_liga": {
     "Champions League Halbfinale Rueckspiel": {
@@ -914,6 +914,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 18.9,
       "trefferquote": 50.0,
       "roi_prozent": 94.5
+    },
+    "UEFA Champions League - 3. Qualifikationsrunde": {
+      "tipps": 10,
+      "gewonnen": 3,
+      "verloren": 7,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 10.0,
+      "netto": 0.0,
+      "trefferquote": 30.0,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt": {
@@ -3952,6 +3963,39 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 3.0,
       "trefferquote": 100.0,
       "roi_prozent": 300.0
+    },
+    "Crvena Zvezda oder Unentschieden": {
+      "tipps": 3,
+      "gewonnen": 0,
+      "verloren": 3,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Levski oder Unentschieden": {
+      "tipps": 4,
+      "gewonnen": 3,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 4.0,
+      "netto": 0.0,
+      "trefferquote": 75.0,
+      "roi_prozent": 0.0
+    },
+    "Lyon oder Unentschieden": {
+      "tipps": 3,
+      "gewonnen": 0,
+      "verloren": 3,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt_typ": {
@@ -4328,19 +4372,52 @@ window.__MIESMUSCHEL_STAT = {
       "netto": -1.0,
       "trefferquote": 0.0,
       "roi_prozent": -100.0
+    },
+    "Crvena Zvezda oder Unentschieden": {
+      "tipps": 3,
+      "gewonnen": 0,
+      "verloren": 3,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Levski oder Unentschieden": {
+      "tipps": 4,
+      "gewonnen": 3,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 4.0,
+      "netto": 0.0,
+      "trefferquote": 75.0,
+      "roi_prozent": 0.0
+    },
+    "Lyon oder Unentschieden": {
+      "tipps": 3,
+      "gewonnen": 0,
+      "verloren": 3,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
     }
   },
   "nach_quoten_range": {
     "1.00-1.50": {
-      "tipps": 140,
-      "gewonnen": 93,
-      "verloren": 43,
+      "tipps": 150,
+      "gewonnen": 96,
+      "verloren": 50,
       "push": 0,
       "offen": 4,
-      "einsatz": 136.0,
+      "einsatz": 146.0,
       "netto": 13.0,
-      "trefferquote": 68.4,
-      "roi_prozent": 9.6
+      "trefferquote": 65.8,
+      "roi_prozent": 8.9
     },
     "1.50-2.00": {
       "tipps": 182,
@@ -4389,26 +4466,26 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 8.6
     },
     "wackel": {
-      "tipps": 110,
-      "gewonnen": 46,
-      "verloren": 64,
+      "tipps": 114,
+      "gewonnen": 49,
+      "verloren": 65,
       "push": 0,
       "offen": 0,
-      "einsatz": 110.0,
+      "einsatz": 114.0,
       "netto": 2.15,
-      "trefferquote": 41.8,
-      "roi_prozent": 2.0
+      "trefferquote": 43.0,
+      "roi_prozent": 1.9
     },
     "value": {
-      "tipps": 247,
+      "tipps": 253,
       "gewonnen": 137,
-      "verloren": 99,
+      "verloren": 105,
       "push": 2,
       "offen": 9,
-      "einsatz": 238.0,
+      "einsatz": 244.0,
       "netto": 36.46,
-      "trefferquote": 58.1,
-      "roi_prozent": 15.3
+      "trefferquote": 56.6,
+      "roi_prozent": 14.9
     },
     "risiko": {
       "tipps": 3,
@@ -4455,6 +4532,110 @@ window.__MIESMUSCHEL_STAT = {
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-08-04",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "SAFE-Basis ~2.5x",
+          "kategorie": "safe",
+          "gesamtquote": 2.46,
+          "einsatz_prozent": 1.5,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Doppelte Chance 1X",
+              "quote": 1.15,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Doppelte Chance X2",
+              "quote": 1.22,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Doppelte Chance X2",
+              "quote": 1.3,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Doppelte Chance 1X",
+              "quote": 1.35,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance ~7.3x",
+          "kategorie": "balance",
+          "gesamtquote": 7.31,
+          "einsatz_prozent": 0.5,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Torschuetze Jederzeit (Kostov)",
+              "quote": 2.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.9,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko ~16x",
+          "kategorie": "risk",
+          "gesamtquote": 16.28,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Torschuetze Jederzeit (Openda)",
+              "quote": 3.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Torschuetze Jederzeit (Oko-Flex)",
+              "quote": 2.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-07-29",
       "gesamt": {
