@@ -1,5 +1,4 @@
-// Auto-generiert
-window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
+{
   "datum": "2026-08-08",
   "erstellt_am": "2026-08-06T18:20:00+02:00",
   "hinweis": "🐚 Wochenend-Vorschau Sa 08.08. + So 09.08.2026 · Erste Saisonspiele in Eredivisie MD1, 2. Bundesliga MD1 + Belgian Pro League MD3 · Kasse-Stufe 1 (550€ → Basis 1000€). PHILOSOPHIE Best-of statt Volumen: 6 Top-Spiele mit klaren Favoriten-Edges, saison_kontext-Pflicht komplett recherchiert. Keine Bundesliga (Start erst 28.08.), keine LaLiga/Serie A/Ligue 1/PL/DFB-Pokal (alle Start-Termine erst ab 14.-28.08.). Keine Liga-Goldgrube-Slots dabei → SAFE-DC-Sperre aktiv (Hebel C), Torschuetzen zurueckhaltend wegen MD1-Formdaten-Fehlen. Alle Quoten bei bet365 live pruefen.",
@@ -35,7 +34,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
       ],
       "tipps": [
         {
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "AZ Alkmaar Sieg (1X2)",
           "quote": 1.55,
           "einsatz_euro": 8.0,
@@ -46,7 +45,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "empfohlener_einsatz_prozent": 1.5
         },
         {
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Ueber 1.5 Tore",
           "quote": 1.3,
           "einsatz_euro": 8.0,
@@ -68,7 +67,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "empfohlener_einsatz_prozent": 0.5
         }
       ],
-      "kontext_check_status": "OK"
+      "kontext_check_status": "WARN_QUELLE"
     },
     {
       "id": "2026-08-08-psv-for",
@@ -101,7 +100,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
       ],
       "tipps": [
         {
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "PSV Eindhoven Sieg (1X2)",
           "quote": 1.3,
           "einsatz_euro": 8.0,
@@ -112,7 +111,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "empfohlener_einsatz_prozent": 1.5
         },
         {
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Ueber 2.5 Tore",
           "quote": 1.6,
           "einsatz_euro": 8.0,
@@ -134,7 +133,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "empfohlener_einsatz_prozent": 0.5
         }
       ],
-      "kontext_check_status": "OK"
+      "kontext_check_status": "WARN_QUELLE"
     },
     {
       "id": "2026-08-08-wob-kai",
@@ -244,7 +243,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "empfohlener_einsatz_prozent": 0.5
         },
         {
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Doppelte Chance X2 (Remis oder Feyenoord)",
           "quote": 1.28,
           "einsatz_euro": 8.0,
@@ -266,7 +265,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "empfohlener_einsatz_prozent": 0.5
         }
       ],
-      "kontext_check_status": "OK"
+      "kontext_check_status": "WARN_QUELLE"
     },
     {
       "id": "2026-08-09-pec-aja",
@@ -299,7 +298,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
       ],
       "tipps": [
         {
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Ajax Sieg (1X2)",
           "quote": 1.55,
           "einsatz_euro": 8.0,
@@ -310,7 +309,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "empfohlener_einsatz_prozent": 1.5
         },
         {
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Doppelte Chance X2 (Remis oder Ajax)",
           "quote": 1.2,
           "einsatz_euro": 8.0,
@@ -332,7 +331,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "empfohlener_einsatz_prozent": 0.5
         }
       ],
-      "kontext_check_status": "OK"
+      "kontext_check_status": "WARN_QUELLE"
     },
     {
       "id": "2026-08-09-and-lal",
@@ -413,7 +412,8 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
       "begruendung": "Meister-Kader zu Hause vs Platz 11. H2H 9/10 zugunsten PSV. Sieg-Markt ROI +6%.",
       "layer_2_tag": "psv_sieg",
       "faire_quote": 1.22,
-      "empfohlener_einsatz_prozent": 1.5
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1
     },
     {
       "spiel_id": "2026-08-09-pec-aja",
@@ -426,7 +426,8 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
       "begruendung": "DC X2 Markt-Goldgrube (77.8% HR, +14.3% ROI). Absorbiert MD1-Coach-Umbruch. PEC-Sieg unter 15%.",
       "layer_2_tag": "ajax_dc",
       "faire_quote": 1.14,
-      "empfohlener_einsatz_prozent": 1.5
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2
     },
     {
       "spiel_id": "2026-08-09-and-lal",
@@ -439,7 +440,8 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
       "begruendung": "Klarer Heim-Favorit vs frisch aufgestiegener Aufsteiger. Sieg-Markt ROI +6%.",
       "layer_2_tag": "and_sieg",
       "faire_quote": 1.35,
-      "empfohlener_einsatz_prozent": 1.5
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 3
     },
     {
       "spiel_id": "2026-08-08-az-ado",
@@ -452,7 +454,8 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
       "begruendung": "Heim-Favorit vs Aufsteiger im Umbruch. AZ Etats-, Heim- und Erfahrungsvorteil.",
       "layer_2_tag": "az_sieg",
       "faire_quote": 1.42,
-      "empfohlener_einsatz_prozent": 1.5
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 4
     },
     {
       "spiel_id": "2026-08-09-pec-aja",
@@ -465,7 +468,8 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
       "begruendung": "PEC 4 Niederlagen in letzten 6 Spielen, H2H 67% zugunsten Ajax. Forebet-Algo Ajax 62%.",
       "layer_2_tag": "ajax_sieg",
       "faire_quote": 1.45,
-      "empfohlener_einsatz_prozent": 1.5
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 5
     },
     {
       "spiel_id": "2026-08-08-wob-kai",
@@ -478,7 +482,8 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
       "begruendung": "Kaderwert 4x hoeher, Heimvorteil, Aufstiegs-Favorit. Coach-Umbruch als Rest-Risiko.",
       "layer_2_tag": "wob_sieg",
       "faire_quote": 1.53,
-      "empfohlener_einsatz_prozent": 1.5
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 6
     },
     {
       "spiel_id": "2026-08-09-and-lal",
@@ -491,7 +496,8 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
       "begruendung": "Ueber 2.5 Markt-Goldgrube (+23.9% ROI). Anderlecht offensiv vs schwache Aufsteiger-Defense.",
       "layer_2_tag": "ueber_and",
       "faire_quote": 1.6,
-      "empfohlener_einsatz_prozent": 1.5
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 7
     },
     {
       "spiel_id": "2026-08-08-psv-for",
@@ -504,7 +510,8 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
       "begruendung": "Ueber 2.5 Markt-Goldgrube (+23.9% ROI). PSV 3 Tore/Spiel-Schnitt, H2H 6/9 mit 3+ Toren.",
       "layer_2_tag": "ueber",
       "faire_quote": 1.45,
-      "empfohlener_einsatz_prozent": 1.5
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 8
     },
     {
       "spiel_id": "2026-08-09-spa-fey",
@@ -517,7 +524,8 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
       "begruendung": "DC X2 Markt-Goldgrube (77.8% HR). Absorbiert Feyenoord-Umbau-Risiko, aber Sparta-Sieg unter 20%.",
       "layer_2_tag": "fey_dc",
       "faire_quote": 1.22,
-      "empfohlener_einsatz_prozent": 1.5
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 9
     }
   ],
   "kombis": [
@@ -735,4 +743,4 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
     }
   ],
   "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA-Hotline: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
-};
+}
