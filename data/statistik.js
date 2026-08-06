@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-08-05T07:20:34+00:00",
+  "letzte_berechnung": "2026-08-06T07:15:28+00:00",
   "gesamt": {
-    "tipps": 426,
-    "gewonnen": 222,
-    "verloren": 193,
+    "tipps": 434,
+    "gewonnen": 227,
+    "verloren": 196,
     "push": 2,
     "offen": 9,
-    "einsatz": 417.0,
+    "einsatz": 425.0,
     "netto": 42.82,
-    "trefferquote": 53.5,
-    "roi_prozent": 10.3
+    "trefferquote": 53.7,
+    "roi_prozent": 10.1
   },
   "letzte_30_tage": {
-    "tipps": 69,
-    "gewonnen": 29,
-    "verloren": 40,
+    "tipps": 77,
+    "gewonnen": 34,
+    "verloren": 43,
     "push": 0,
     "offen": 0,
-    "einsatz": 69.0,
+    "einsatz": 77.0,
     "netto": 9.34,
-    "trefferquote": 42.0,
-    "roi_prozent": 13.5
+    "trefferquote": 44.2,
+    "roi_prozent": 12.1
   },
   "letzte_90_tage": {
-    "tipps": 410,
-    "gewonnen": 214,
-    "verloren": 185,
+    "tipps": 406,
+    "gewonnen": 211,
+    "verloren": 184,
     "push": 2,
     "offen": 9,
-    "einsatz": 401.0,
-    "netto": 34.99,
-    "trefferquote": 53.6,
-    "roi_prozent": 8.7
+    "einsatz": 397.0,
+    "netto": 20.55,
+    "trefferquote": 53.4,
+    "roi_prozent": 5.2
   },
   "nach_liga": {
     "Champions League Halbfinale Rueckspiel": {
@@ -924,6 +924,28 @@ window.__MIESMUSCHEL_STAT = {
       "einsatz": 10.0,
       "netto": 0.0,
       "trefferquote": 30.0,
+      "roi_prozent": 0.0
+    },
+    "UEFA Champions League - 3. Qualifikationsrunde (League Path)": {
+      "tipps": 4,
+      "gewonnen": 2,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 4.0,
+      "netto": 0.0,
+      "trefferquote": 50.0,
+      "roi_prozent": 0.0
+    },
+    "UEFA Champions League - 3. Qualifikationsrunde (Champions Path)": {
+      "tipps": 4,
+      "gewonnen": 3,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 4.0,
+      "netto": 0.0,
+      "trefferquote": 75.0,
       "roi_prozent": 0.0
     }
   },
@@ -3996,6 +4018,28 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.0,
       "trefferquote": 0.0,
       "roi_prozent": 0.0
+    },
+    "Sieg 1X2: Fenerbahce": {
+      "tipps": 4,
+      "gewonnen": 2,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 4.0,
+      "netto": 0.0,
+      "trefferquote": 50.0,
+      "roi_prozent": 0.0
+    },
+    "Sieg 1X2: Aarhus": {
+      "tipps": 4,
+      "gewonnen": 3,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 4.0,
+      "netto": 0.0,
+      "trefferquote": 75.0,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt_typ": {
@@ -4011,15 +4055,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -1.2
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 122,
-      "gewonnen": 69,
-      "verloren": 52,
+      "tipps": 130,
+      "gewonnen": 74,
+      "verloren": 55,
       "push": 0,
       "offen": 1,
-      "einsatz": 121.0,
+      "einsatz": 129.0,
       "netto": 7.76,
-      "trefferquote": 57.0,
-      "roi_prozent": 6.4
+      "trefferquote": 57.4,
+      "roi_prozent": 6.0
     },
     "Torschuetzen Jederzeit": {
       "tipps": 98,
@@ -4409,26 +4453,26 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_quoten_range": {
     "1.00-1.50": {
-      "tipps": 150,
-      "gewonnen": 96,
-      "verloren": 50,
+      "tipps": 154,
+      "gewonnen": 98,
+      "verloren": 52,
       "push": 0,
       "offen": 4,
-      "einsatz": 146.0,
+      "einsatz": 150.0,
       "netto": 13.0,
-      "trefferquote": 65.8,
-      "roi_prozent": 8.9
+      "trefferquote": 65.3,
+      "roi_prozent": 8.7
     },
     "1.50-2.00": {
-      "tipps": 182,
-      "gewonnen": 95,
-      "verloren": 82,
+      "tipps": 186,
+      "gewonnen": 98,
+      "verloren": 83,
       "push": 1,
       "offen": 4,
-      "einsatz": 178.0,
+      "einsatz": 182.0,
       "netto": 22.59,
-      "trefferquote": 53.7,
-      "roi_prozent": 12.7
+      "trefferquote": 54.1,
+      "roi_prozent": 12.4
     },
     "2.00-3.00": {
       "tipps": 68,
@@ -4477,15 +4521,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 1.9
     },
     "value": {
-      "tipps": 253,
-      "gewonnen": 137,
-      "verloren": 105,
+      "tipps": 261,
+      "gewonnen": 142,
+      "verloren": 108,
       "push": 2,
       "offen": 9,
-      "einsatz": 244.0,
+      "einsatz": 252.0,
       "netto": 36.46,
-      "trefferquote": 56.6,
-      "roi_prozent": 14.9
+      "trefferquote": 56.8,
+      "roi_prozent": 14.5
     },
     "risiko": {
       "tipps": 3,
@@ -4532,6 +4576,65 @@ window.__MIESMUSCHEL_STAT = {
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-08-05",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "Kombi Safe ~3x",
+          "kategorie": "",
+          "gesamtquote": 3.06,
+          "einsatz_prozent": 0.5,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.95,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg 1X2: Aarhus",
+              "quote": 1.57,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Kombi Balance ~8x",
+          "kategorie": "",
+          "gesamtquote": 6.6,
+          "einsatz_prozent": 0.5,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Torschuetze Jederzeit: Anderson Talisca",
+              "quote": 2.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Torschuetze Jederzeit: Kristian Arnstad",
+              "quote": 3.0,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-08-04",
       "gesamt": {
