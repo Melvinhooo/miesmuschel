@@ -1,0 +1,208 @@
+{
+  "datum": "2026-08-07",
+  "erstellt_am": "2026-08-07T14:00:00+02:00",
+  "modus": "tag",
+  "hinweis": "Fallback-Recherche (Recherche-File fehlte um 13:30). Freitag Sommer-Slate: WM 2026 durch (19.07.), NBA Finals durch (Juni), europaeische Top-Ligen noch Pause (Start 15.-23.08.). EL/UECL-Q3-Hinspiele waren Do 06.08. - Rueckspiele Do 13.08. Am Freitag 07.08. nur Beobachtungs-Ligen-Auftakte: 2.BL, Belgien Pro League, Portugal Primeira Liga, Brasilien Serie B. Alle Tipps max WACKEL (Beobachtungs-Liga-Regel). Recherche via WebSearch/WebFetch/Aggregatoren (sportsgambler, mightytips, ratingbet, footballwhispers, netflu).",
+  "_emergency_recovery": true,
+  "spiele": [
+    {
+      "id": "2026-08-07-boc-her",
+      "liga": "2. Bundesliga 2026/27 - 1. Spieltag",
+      "heim": "VfL Bochum",
+      "gast": "Hertha BSC",
+      "anstoss": "2026-08-07T20:30:00+02:00",
+      "stadion": "Vonovia Ruhrstadion, Bochum",
+      "parallele_wettbewerbe": {
+        "heim": "keine - 2. BL Saison-Auftakt, DFB-Pokal-R1 Ende Juli bereits gespielt",
+        "gast": "keine - 2. BL Saison-Auftakt",
+        "quellen": ["https://www.kicker.de/2-bundesliga/spieltag"]
+      },
+      "saisonziel_heim": "Klassenerhalt/oberes Mittelfeld - letzte Saison Platz 9 unter Roesler, 5 Neuzugaenge Startelf erwartet (Crimaldi bestaetigt)",
+      "saisonziel_gast": "Aufstiegskampf 4. Saison in Folge - letzte Saison Platz 7 unter Leitl, Kern-Kader stabil, Brekalo neuer Kapitaen",
+      "form_heim_letzte_5": "Testspiel-Phase - keine Wettbewerbs-Form",
+      "form_gast_letzte_5": "Vorbereitung 3S/1U/1N - 6:1-Klatsche in Bielefeld-Test Ende Juli als Warnsignal",
+      "recovery_heim": "Volle Vorbereitungspause, keine Wettbewerbs-Belastung",
+      "recovery_gast": "Volle Vorbereitungspause, keine Wettbewerbs-Belastung",
+      "injuries_heim": ["Pannewig (Wade, OUT)", "Sissoko (Sprunggelenk, fraglich)", "Sobottka (Muskel, OUT)", "Rakneberg (Muskel, OUT)"],
+      "injuries_gast": ["Gechter (Rot-Sperre, OUT)", "Zeefuik (Muskel, OUT)", "Dardai (Oberschenkel, OUT)"],
+      "quoten": {
+        "bet365": {
+          "sieg_heim": 2.30,
+          "draw": 3.50,
+          "sieg_gast": 2.85,
+          "ueber_2_5": 1.72,
+          "unter_2_5": 2.10,
+          "btts_ja": 1.72,
+          "btts_nein": 2.05,
+          "dc_1x": 1.38,
+          "dc_x2": 1.58,
+          "dc_12": 1.30,
+          "torschuetzen": {
+            "Philipp Hofmann (Bochum)": 3.00,
+            "Ibrahim Sissoko (Bochum)": 2.88,
+            "Luca Schuler (Hertha)": 3.10,
+            "Sebastian Groenning (Hertha)": 2.95,
+            "Josip Brekalo (Hertha)": 3.75
+          }
+        }
+      },
+      "news_kompakt": [
+        "Bochum-Ausfaelle: Pannewig + Sobottka + Rakneberg + Sissoko fraglich - Sturm-Spitze Hofmann startet, 5 Neuzugaenge in Startelf erwartet",
+        "Hertha-Ausfaelle: Gechter (Rot-Sperre), Zeefuik + Dardai (Muskel) - Sturm-Spitze Schuler nach Reha fit, Groenning Backup",
+        "Letzte H2H: Bochum ungeschlagen 3U/2S, zuletzt 1:1 im Olympiastadion",
+        "Hertha kommt aus 6:1-Klatsche in Bielefeld (Testspiel Ende Juli) - Vertrauens-Delle",
+        "Saison-Auftakt-Slot mit Coinflip-Charakter"
+      ],
+      "quellen_aggregator": [
+        "https://www.sportsgambler.com/betting-tips/football/bochum-vs-hertha-bsc-prediction-lineups-odds-2026-08-07/",
+        "https://www.mightytips.com/football-predictions/bochum-vs-hertha-berlin-prediction-07-08-2026/",
+        "https://www.kicker.de/2-bundesliga/spieltag"
+      ]
+    },
+    {
+      "id": "2026-08-07-brg-kor",
+      "liga": "Belgien Jupiler Pro League 2026/27 - 1. Spieltag",
+      "heim": "Club Brugge",
+      "gast": "KV Kortrijk",
+      "anstoss": "2026-08-07T20:45:00+02:00",
+      "stadion": "Jan Breydel Stadion, Bruegge",
+      "parallele_wettbewerbe": {
+        "heim": "CL-Q3-Hinspiel am 05./06.08. bereits absolviert, Rueckspiel folgt 12./13.08. - Doppelbelastungs-Slot mit Rotations-Risiko",
+        "gast": "keine - Aufsteiger aus Challenger Pro League",
+        "quellen": ["https://www.uefa.com/uefachampionsleague/"]
+      },
+      "saisonziel_heim": "Titelverteidigung Belgien-Meisterschaft + CL-Gruppenphase",
+      "saisonziel_gast": "Klassenerhalt nach direktem Wiederaufstieg (2. Platz Challenger Pro League)",
+      "form_heim_letzte_5": "CL-Q3-Rhythmus + Vorbereitung stark",
+      "form_gast_letzte_5": "Vorbereitung ohne Highlight-Signal",
+      "recovery_heim": "1-2 Tage seit CL-Q3-Hinspiel - REDUZIERTES Recovery-Fenster, Rotation wahrscheinlich",
+      "recovery_gast": "Volle Vorbereitungspause",
+      "injuries_heim": [],
+      "injuries_gast": [],
+      "quoten": {
+        "bet365": {
+          "sieg_heim": 1.25,
+          "draw": 6.50,
+          "sieg_gast": 11.00,
+          "ueber_2_5": 1.55,
+          "unter_2_5": 2.30,
+          "btts_ja": 2.05,
+          "btts_nein": 1.72,
+          "dc_1x": 1.05,
+          "dc_x2": 4.20,
+          "dc_12": 1.12,
+          "torschuetzen": {}
+        }
+      },
+      "news_kompakt": [
+        "Club Brugge Titelverteidiger - klarer Fav @1.25",
+        "Kortrijk Aufsteiger nach 1 Jahr Challenger Pro League",
+        "Brugge gerade CL-Q3-Hinspiel absolviert - Rotations-Risiko im Liga-Auftakt",
+        "H2H 79 Duelle: Brugge 48 Siege, 17 Remis, 14 Kortrijk (60% Brugge-Sieg)",
+        "Belgien Pro League Beobachtungs-Liga fuer Miesmuschel - max wackel"
+      ],
+      "quellen_aggregator": [
+        "https://www.mightytips.com/football-predictions/club-brugge-vs-kortrijk-prediction-07-08-2026/",
+        "https://www.sportskeeda.com/football/club-brugge-vs-kortrijk-prediction-betting-tips-august-7th-2026",
+        "https://ratingbet.com/predictions/club-brugge-vs-kortrijk-prediction-teams-form-analysis-possible-lineups-on-august-7-2026/"
+      ]
+    },
+    {
+      "id": "2026-08-07-est-fam",
+      "liga": "Portugal Primeira Liga 2026/27 - 1. Spieltag",
+      "heim": "Estoril Praia",
+      "gast": "FC Famalicao",
+      "anstoss": "2026-08-07T20:15:00+02:00",
+      "stadion": "Estadio Antonio Coimbra da Mota, Estoril",
+      "parallele_wettbewerbe": {
+        "heim": "keine - nicht in EU-Wettbewerben qualifiziert",
+        "gast": "keine - 5. Platz letzte Saison, aber keine EU-Quali",
+        "quellen": ["https://www.ligaportugal.pt/"]
+      },
+      "saisonziel_heim": "Klassenerhalt / unteres Mittelfeld - 1 Sieg in 12 Ligaspielen seit Maerz, Krisen-Vorbereitung 1S/4",
+      "saisonziel_gast": "EU-Quali anpeilen - 12 Spiele unbesiegt zum Saisonende (6S/6U), Vorbereitung 3S/4U, Trainer-Stabilitaet",
+      "form_heim_letzte_5": "N-N-U-N-N (nur 1 Sieg in 12 Spielen)",
+      "form_gast_letzte_5": "S-U-S-U-S (12 unbesiegt zum Saison-Ende)",
+      "recovery_heim": "Volle Vorbereitungspause",
+      "recovery_gast": "Volle Vorbereitungspause",
+      "injuries_heim": [],
+      "injuries_gast": [],
+      "quoten": {
+        "bet365": {
+          "sieg_heim": 3.15,
+          "draw": 3.20,
+          "sieg_gast": 2.28,
+          "ueber_2_5": 1.90,
+          "unter_2_5": 1.78,
+          "btts_ja": 2.00,
+          "btts_nein": 1.75,
+          "dc_1x": 1.58,
+          "dc_x2": 1.30,
+          "dc_12": 1.32,
+          "torschuetzen": {}
+        }
+      },
+      "news_kompakt": [
+        "Estoril extrem schwach: 1 Sieg in 12 Ligaspielen seit Mitte Maerz, 8 Tore in 11 Spielen letzte Saison-Ende",
+        "Famalicao 12 Spiele unbesiegt zum Ende Vorsaison, Vorbereitung 3S/4U, Kern-Kader unveraendert",
+        "H2H letzte 4 Duelle: Famalicao 4/4 Siege (u.a. 4:0 Dez 25, 1:0 Apr 26)",
+        "4 von letzten 6 beidseitigen Spielen unter 2.5 Tore",
+        "Beobachtungs-Liga fuer Miesmuschel - max wackel"
+      ],
+      "quellen_aggregator": [
+        "https://www.mightytips.com/football-predictions/estoril-praia-vs-famalicao-prediction-07-08-2026/",
+        "https://thefootballfaithful.com/estoril-vs-famalicao-prediction-betting-tips-07-08-2026/",
+        "https://www.sportsgambler.com/betting-tips/football/estoril-vs-famalicao-prediction-lineups-odds-2026-08-07/"
+      ]
+    },
+    {
+      "id": "2026-08-07-cea-pon",
+      "liga": "Brasilien Serie B 2026",
+      "heim": "Ceara SC",
+      "gast": "AA Ponte Preta",
+      "anstoss": "2026-08-08T01:30:00+02:00",
+      "stadion": "Estadio Presidente Vargas, Fortaleza",
+      "parallele_wettbewerbe": {
+        "heim": "keine - Copa do Brasil bereits ausgeschieden",
+        "gast": "keine",
+        "quellen": ["https://www.cbf.com.br/futebol-brasileiro/"]
+      },
+      "saisonziel_heim": "Aufstieg / Klassenerhalt Serie B - aktuell 16. Platz nach schwachem Start",
+      "saisonziel_gast": "Klassenerhalt - Tabellenletzter 20., 14 Spiele ohne Sieg",
+      "form_heim_letzte_5": "U-N-N-U-S (schwacher Start Serie B)",
+      "form_gast_letzte_5": "N-N-U-N-N (14 Spiele ohne Sieg)",
+      "recovery_heim": "~4 Tage seit letztem Serie-B-Spieltag",
+      "recovery_gast": "~4 Tage seit letztem Serie-B-Spieltag",
+      "injuries_heim": ["Eder (Sperre, OUT)", "Julio Cesar (Sperre, OUT)", "Pedro Gilmar (OP-Saison-Aus)", "Luizao (Muskel, OUT)"],
+      "injuries_gast": [],
+      "quoten": {
+        "bet365": {
+          "sieg_heim": 1.33,
+          "draw": 4.90,
+          "sieg_gast": 8.50,
+          "ueber_2_5": 1.75,
+          "unter_2_5": 1.98,
+          "btts_ja": 2.10,
+          "btts_nein": 1.64,
+          "dc_1x": 1.06,
+          "dc_x2": 3.10,
+          "dc_12": 1.15,
+          "torschuetzen": {}
+        }
+      },
+      "news_kompakt": [
+        "Ceara Defense-Krise: Eder + Julio Cesar gesperrt, Pedro Gilmar Saison-Aus, Luizao verletzt - 4 Defense-Ausfaelle",
+        "Ponte Preta 14 Ligaspiele ohne Sieg, Tabellenletzter",
+        "Ceara Fav @1.33 trotz Krise",
+        "Neuzugaenge Luiz Otavio + Thalisson stopfen Abwehr-Loecher",
+        "Brasilien Serie B Beobachtungs-Liga - max wackel"
+      ],
+      "quellen_aggregator": [
+        "https://news.bet365.bet.br/pt-br/article/ceara-x-ponte-preta-noticias-odds-estatisticas-escalacoes-provaveis-horario-e-onde-assistir/2026080612474187742",
+        "https://www.netflu.com.br/ceara-x-ponte-preta-palpites-prognostico-serie-b-07-08-2026/",
+        "https://olhardigital.com.br/apostas/ceara-x-ponte-preta-palpites-e-onde-assistir-07-08-2026/"
+      ]
+    }
+  ],
+  "recherche_notizen": "Fallback-Recherche selbst gemacht (Recherche-Slot 10:30 fehlte). Slate duenn: 4 Beobachtungs-Ligen-Auftakte, keine Top-5-Liga, keine EL/UECL/CL (naechste Runde 12.-14.08.). Alle Tipps max wackel gemaess Beobachtungs-Liga-Regel. Torschuetzen-Aggregator nur fuer Bochum-Hertha verifiziert (5 Namen). Keine Startelf-Live-Bestaetigungen - Torschuetzen mit Aufstellungs-Risiko. Blindspots: keine bet365-DE-Live-Quoten (Aggregator-Werte uebernommen)."
+}
