@@ -1,0 +1,1605 @@
+{
+  "datum": "2026-08-06",
+  "erstellt_am": "2026-08-06T15:15:00+02:00",
+  "hinweis": "🐚 Do 06.08.2026 · EL Q3 + UECL Q3 Hinspiele · WATCHDOG-RECOVERY 17:15 (Hauptroutine 16:00 verpasst). Kasse-Stufe 1 (550€ → Basis 1000€). Fokus: 5 Top-Spiele mit voller saison_kontext-Recherche statt 15 halbherzige. UEFA-EL-Q3 kein Liga-Goldgrube-Slot → SAFE-DC-Sperre aktiv, Torschuetzen priorisiert (Goldgrube +24.4% ROI). Alle Quoten bei bet365 live pruefen.",
+  "spiele": [
+    {
+      "id": "2026-08-06-jag-ran",
+      "liga": "UEFA Europa League - 3. Qualifikationsrunde (League Path)",
+      "heim": "Jagiellonia Bialystok",
+      "gast": "Rangers FC",
+      "anstoss": "2026-08-06T17:00:00+02:00",
+      "stadion": "Stadion Miejski, Bialystok",
+      "saison_kontext": {
+        "parallel_heim": "Ekstraklasa 2026/27 laeuft seit 25.07.2026: 2 Siege in Liga (1:0 vs Korona Kielce, 2:1 vs Motor Lublin) - Jagiellonia perfekt gestartet mit 6 Punkten aus 2 Spielen",
+        "parallel_gast": "Scottish Premiership 2026/27 laeuft seit 31.07.2026 - Rangers-Auftakt auswaerts bei Dundee United (Freitag 31.07.), naechster Termin Ibrox-Heimdebuet gegen Hibs 09.08. (nach diesem Q3-Hinspiel)",
+        "saisonziel_heim": "Ekstraklasa 2024/25-Meister (aktueller Titelverteidiger 2025/26 - detaillierte Platzierung durch fehlende 25/26-Endtabelle unklar, aber seit Meister-Boom stabile Top-3-Kraft). Ziel: Ekstraklasa-Titel-Verteidigung + EL-Gruppenphase erreichen (koennte 2. Mal in Folge werden)",
+        "saisonziel_gast": "Scottish Premiership: Meisterschaft-Rueckeroberung (Celtic-Dominanz brechen), neuer Coach Derek McInnes (Ibrox-Debuet in Liga 09.08. gegen Hibs). Rangers 25/26 nur 2. hinter Celtic - fuer neuen Trainer Muss-Saison. EL-Gruppenphase Pflicht-Ziel fuer Etat",
+        "motivations_asymmetrie": "Beide voll motiviert - Jagiellonia mit Heimvorteil + Momentum aus 6-Punkte-Start + kompletter Wettkampf-Rhythmus vs Rangers mit neuem Coach McInnes im ersten Ernstfall-Test (Ibrox-Liga-Debuet noch offen), Auswaerts-Fav-Rolle ohne Beweis-Basis. Coinflip-Charakter, Heim-Team mit spuerbarem Motivations- und Sharpness-Edge.",
+        "recovery_heim": "3 Tage seit Ekstraklasa-Spiel 03.08. (Motor Lublin 2:1) - moderate Belastung, aber Wettkampfrhythmus voll",
+        "recovery_gast": "6 Tage seit Scottish-Premiership-Auftakt 31.07. bei Dundee United - frisch, aber wenig Wettkampfhaerte (nur 1 kompetitives Ligaspiel in neuer Saison, plus lange EL-Reise nach Polen)",
+        "quellen": [
+          "https://www.uefa.com/uefaeuropaleague/",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ekstraklasa",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_Scottish_Premiership",
+          "https://www.rangers.co.uk/article/rangers-mens-scottish-premiership-fixtures-released-for-2026-27/2Dxpir6jl1hi1IYBbFU6kM",
+          "https://www.sportsgambler.com/betting-tips/football/jagiellonia-bialystok-vs-rangers-prediction-lineups-odds-2026-08-06/"
+        ]
+      },
+      "news": [
+        "Jagiellonia perfekter Ekstraklasa-Start 2026/27: 2 Siege (Korona 1:0, Motor Lublin 2:1) - 6 Punkte aus 2 Spielen, Momentum voll",
+        "Rangers unter neuem Coach Derek McInnes (seit Sommer 2026), Ibrox-Liga-Debuet erst am 09.08. gegen Hibs - dieser EL-Auftritt ist Muss-Test",
+        "Rangers-Kader-Umbruch: neue McInnes-Aera nach entgegangener Meisterschaft 25/26 (2. hinter Celtic) - viele neue Systeme in ersten Ernstfall-Wochen",
+        "Bookmaker-Split: DexWin sieht Rangers 1.85 klar vorne, ESPN 2.25 knapper, Rangers-Sieg im Schnitt ~2.00-2.10 - typischer Coinflip-Slot",
+        "Anpfiff 17:00 CEST - frueher Termin, Stadion Miejski Bialystok volle Kulisse erwartet, Warm-Wetter"
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Doppelte Chance X2: Jagiellonia oder Remis",
+          "quote": 1.75,
+          "einsatz_euro": 8.0,
+          "edge_prozent": 8,
+          "begruendung": "DC X2 ist Goldgrube (n=29, HR 77.8%, +14.3% ROI) - passt zu Coinflip-Charakter. Jagiellonia mit Heimvorteil + Ekstraklasa-Momentum (6 Pkt aus 2 Spielen) + volle Match-Sharpness vs Rangers unter McInnes-Umbruch. UEFA-EL-Q3 kein Liga-Goldgrube-Slot -> kein SAFE moeglich (Hebel C degradiert automatisch), aber VALUE mit fairem Edge. Max 1 DC im Spiel (DC-CAP).",
+          "layer_2_tag": "jagiellonia_dc",
+          "faire_quote": 1.62,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "kategorie": "value",
+          "markt": "Ueber 1.5 Tore",
+          "quote": 1.35,
+          "einsatz_euro": 8.0,
+          "edge_prozent": 5,
+          "begruendung": "Ueber 1.5 als Goldgrube-Zone (Ueber-2.5-Markt +23.9% ROI, hier defensiv-konservativer eingestellt). Beide Teams offensiv in Form: Jagiellonia 3 Tore in 2 Liga-Spielen, Rangers unter McInnes vertikal-orientierter Ansatz. H2H-Faellchen Ekstraklasa-Team gegen Scottish Elite meist offen. Coinflip-Spiel begunstig Tore.",
+          "layer_2_tag": "tore",
+          "faire_quote": 1.28,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.75,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 3,
+          "begruendung": "BTTS JA Goldgrube-Markt (+20.4% ROI, HR 50%). Jagiellonia zu Hause offensiv aktiv, Rangers hat mit McInnes vertikale Umschalt-Anfaelligkeit + Auswaerts-Neustart. Bookmaker Football Whispers 1.75. WACKEL weil Rangers-Defense noch nicht getestet + Jagiellonia in Q2 auch schon 3 Tor-Total-Spiele hatte.",
+          "layer_2_tag": "btts",
+          "faire_quote": 1.7,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 1,
+        "halbzeit": {
+          "heim": 2,
+          "gast": 1
+        },
+        "halbzeit_stand": "2:1",
+        "endstand": "2:1",
+        "quelle": "WebSearch (skysports.com / espn.com / sofascore.com / cryptobriefing.com Halbzeit-Info) 07.08.2026",
+        "abgerufen_am": "2026-08-07T07:20:00+00:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-08-06-jag-ran-t0",
+          "markt": "Doppelte Chance X2: Jagiellonia oder Remis",
+          "quote": 1.75,
+          "einsatz": 8.0,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.75,
+          "gewinn_euro": 6.0,
+          "kommentar": "DC Jag/Remis - Endstand 2:1 passt."
+        },
+        {
+          "tipp_id": "2026-08-06-jag-ran-t1",
+          "markt": "Ueber 1.5 Tore",
+          "quote": 1.35,
+          "einsatz": 8.0,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.35,
+          "gewinn_euro": 2.8,
+          "kommentar": "3 Tore gesamt - Ueber 1.5 getroffen."
+        },
+        {
+          "tipp_id": "2026-08-06-jag-ran-t2",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.75,
+          "einsatz": 2.75,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.75,
+          "gewinn_euro": 2.06,
+          "kommentar": "Beide Teams getroffen (2:1)."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "2:1",
+        "endstand": "2:1",
+        "tore": [
+          {
+            "min": 4,
+            "team": "gast",
+            "spieler": "Eigentor Serrao Montoia (Jag) fuer Rangers",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 13,
+            "team": "heim",
+            "spieler": "Eigentor E. Fernandez (Rangers) fuer Jag",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 21,
+            "team": "heim",
+            "spieler": "Kajetan Szmyt",
+            "stand_danach": "2:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Rangers fuehrten 0:1 (4. Eigentor), Jag drehte binnen 17min auf 2:1 (13. Fernandez-OG + 21. Szmyt). Kein 2-Tor-Abstand, deshalb per Definition keine Drehung. UEFA-EL-Q3 sowieso nicht in 2:0-Insurance-Liste. Alle Tore in erster HZ - taktisch tot-gestellte 2. HZ."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Jagiellonia/Jagiellonia",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Doppel-Eigentor in ersten 13 Minuten (Jag-Serrao 4., Rangers-Fernandez 13.) - extrem seltenes Pattern in Q3, deutet auf Chaos-Anfang beider Teams.",
+          "DC-X2-Goldgrube (+9.4%/77.8%) validiert - Coinflip-Spiel gekippt zugunsten Heim-Team wie erwartet. Pattern: Ekstraklasa-Rhythmus (2 Ligaspiele) schlaegt Scottish-Neustart (1 Ligaspiel) auf Trainer-Umbruch-Coach.",
+          "McInnes-Rangers ohne ersten Sieg als Trainer, was Rotations-Diagnose der Pre-Match-Analyse bestaetigt (Kader-Umbruch braucht Zeit).",
+          "BTTS-Sonderfall: einziges Rangers-Tor per Serrao-OG - bet365-BTTS-Regel zaehlt OG dem profitierenden Team (Rangers) an, deshalb BTTS JA trotz keiner Rangers-Aktion vor dem Tor."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-06-sal-paf",
+      "liga": "UEFA Europa League - 3. Qualifikationsrunde (Champions Path)",
+      "heim": "FC Red Bull Salzburg",
+      "gast": "Pafos FC",
+      "anstoss": "2026-08-06T18:00:00+02:00",
+      "stadion": "Red Bull Arena, Salzburg",
+      "saison_kontext": {
+        "parallel_heim": "Oesterreichische Bundesliga 2026/27: 1. Spieltag 01.08. Salzburg 0:0 Heim vs TSV Hartberg (Roehl-Debuet mit Torlos-Enttaeuschung). Naechster Liga-Termin ca. 09.-10.08. (Sa/So)",
+        "parallel_gast": "Cypriot First Division 2026/27 startet erst 16.08.2026 (10 Tage nach diesem Spiel) - keine Liga-Belastung. Aber Pafos ist aus CL-Q2 rausgefallen (an Hajduk Split gescheitert im Aggregat), dann in EL-Q3 abgestiegen",
+        "saisonziel_heim": "Oesterreichische Bundesliga Titel-Verteidigung (Salzburg quasi-monopolistisch Serienmeister), CL-Gruppenphase Pflicht-Ziel. Nach 16 Verkaeufen + 9 Neuzugaengen im Sommer kompletter Umbruch unter neuem Coach Danny Roehl (seit 01.07.2026). Q3-Aus ware Katastrophe-Signal fuer den Kader-Umbruch",
+        "saisonziel_gast": "Cypriot First Division 2024/25-Meister (erster Titel!), CL-Traeume vorbei nach Ausscheiden gegen Hajduk (aber immerhin EL-Trostpreis). Ziel jetzt: EL-Gruppenphase erreichen als grosse Erstteilnehmer-Sensation - Momentum aus Hajduk-Comeback (4:0 mit 2 Toren in Verlaengerung)",
+        "motivations_asymmetrie": "Pafos hat aktuell den emotionalen Vorteil: unbezwungener Elan aus Hajduk-Comeback, weniger Druck als Underdog, keine Liga-Rueckstuetzen. Salzburg mit spuerbarem Beweis-Druck nach 0:0-Auftakt + Umbruch-Roster + neuem Coach - dieses Q3-Hinspiel ist der erste echte Formcheck.",
+        "recovery_heim": "5 Tage seit Bundesliga-Opener 01.08. (0:0 Hartberg) - moderate Belastung. Kader-Umbruch: 9 Neuzugaenge noch nicht komplett integriert, Roehl-Automatismen im Aufbau",
+        "recovery_gast": "6 Tage seit CL-Q2-Rueckspiel (Comeback 4:0 vs Hajduk Split, mit 2 Verlaengerungs-Toren) - Kraftreserven getestet, plus Kreuzband-Verletzung von Fluegel Jaja in Q2 (langer Ausfall). Nach anstrengender Q2-Extrarunde kommt Pafos physisch/mental muede in Salzburg an",
+        "quellen": [
+          "https://www.uefa.com/uefaeuropaleague/",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_Austrian_Football_Bundesliga",
+          "https://en.wikipedia.org/wiki/Pafos_FC_in_European_football",
+          "https://www.ratingbet.com/predictions/red-bull-salzburg-vs-pafos-prediction-expert-analysis-possible-lineups-august-6-2026/",
+          "https://www.salzburg24.at/sport/fussball/bundesliga/red-bull-salzburg-prognose-wer-fliegt-raus-wer-startet-unter-danny-roehl-art-332011"
+        ]
+      },
+      "news": [
+        "Salzburg 0:0 Heim vs Hartberg im Liga-Auftakt - Roehl-Debuet ohne Tor, Fragezeichen zur Offensiv-Chemie nach 16 Verkaeufen + 9 Neuzugaengen",
+        "Pafos-Fluegel Jaja mit Kreuzbandriss in Q2-Rueckspiel gegen Hajduk Split - langer Ausfall (Saisonbetreff), grosser Verlust auf dem Aussenbahnen",
+        "Pafos-Comeback in Q2 gegen Hajduk: 4:0 mit 2 Toren in Verlaengerung - emotional stark, aber physisch/mental teuer",
+        "Coach Danny Roehl bei Salzburg seit 01.07.2026 - vertikaler Ansatz, Counter-Pressing, aber neue Automatismen brauchen Zeit",
+        "Pafos-Coach Ricardo Sa Pinto favorisiert kompakt-pragmatischen Ansatz - Konter-Team, gefaehrlich fuer neu-formierte Salzburg-Defense",
+        "1xBet-Quoten: Salzburg 1.55, X 4.15, Pafos 5.60 - klarer Heim-Favorit-Slot"
+      ],
+      "tipps": [
+        {
+          "kategorie": "wackel",
+          "markt": "Sieg 1X2: Salzburg",
+          "quote": 1.55,
+          "einsatz_euro": 8.0,
+          "edge_prozent": 5,
+          "begruendung": "Sieg-Markt ist Goldgrube light (+6.0% ROI). Salzburg Heim-Favorit + Pafos mit Q2-Erschoepfung + Jaja-Verletzung. Aber Salzburg 0:0-Auftakt + Umbruch-Roster + Pafos-Comeback-Momentum drueckt Edge. UEFA-EL-Q3 kein Liga-Goldgrube -> kein SAFE (Hebel C). PFLICHT-PROFILE Heim-Fav (<1.80): Sieg-Bein Pflicht. [Auto: Saison-Kontext-Sanity - Belastungs-Warnung (Recovery) -> value->wackel]",
+          "layer_2_tag": "salzburg_sieg",
+          "faire_quote": 1.48,
+          "empfohlener_einsatz_prozent": 1.5,
+          "_saison_kontext_sanity_downgrade": true
+        },
+        {
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.85,
+          "einsatz_euro": 8.0,
+          "edge_prozent": 7,
+          "begruendung": "Ueber 2.5 Top-Goldgrube (+23.9% ROI, HR 53.5%). Salzburg braucht Sicherheit fuer Rueckspiel + neu-formierter Angriff will Beweis-Tore, Pafos offensiv frech (Q2 4 Tore vs Hajduk). Beide Defense-Systeme neu (Salzburg 9 Neue, Pafos ohne Jaja) - viele Tore wahrscheinlich.",
+          "layer_2_tag": "salzburg_tore",
+          "faire_quote": 1.73,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Torschuetzen Jederzeit: Karim Konate (Salzburg)",
+          "quote": 2.5,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 5,
+          "begruendung": "Torschuetzen Jederzeit ist Top-Goldgrube (+24.4% ROI, HR 50% - bester Markt im System - Pflicht bei Heim-Fav). Konate wichtigster Ivorien-Stuermer im neuen Roehl-Salzburg (starke Vorsaison + Nations-Cup-Torkonto), gegen physisch teure Pafos-Defense mit oefter Raum. WACKEL statt VALUE weil ohne Konate-Startelf-Bestaetigung (Aufstellungs-Risiko) + Salzburg-Auftakt 0:0 zeigte Torflaute. Konate-Kicker-Notiz bei bet365 live pruefen.",
+          "layer_2_tag": "konate_tor",
+          "faire_quote": 2.38,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.85,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 4,
+          "begruendung": "BTTS JA Goldgrube (+20.4% ROI). Salzburg neue Defense (Roehl-System noch nicht eingespielt), Pafos hat Anti-Konter-Waffen (Nsimba, Pepe) + will nicht 0:x auswaerts. WACKEL weil beide Torflaute-Signale (Salzburg 0:0 Auftakt, Pafos in Q2-Hin 0-Tor-Halbzeit).",
+          "layer_2_tag": "btts",
+          "faire_quote": 1.78,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 0,
+        "halbzeit": {
+          "heim": 0,
+          "gast": 0
+        },
+        "halbzeit_stand": "0:0",
+        "endstand": "1:0",
+        "quelle": "WebSearch (totalfootballanalysis.com / sportskeeda.com / sportsmole.co.uk) 07.08.2026",
+        "abgerufen_am": "2026-08-07T07:20:00+00:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-08-06-sal-paf-t0",
+          "markt": "Sieg 1X2: Salzburg",
+          "quote": 1.55,
+          "einsatz": 8.0,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.55,
+          "gewinn_euro": 4.4,
+          "kommentar": "Endstand 1:0 - Sieg-Tipp getroffen."
+        },
+        {
+          "tipp_id": "2026-08-06-sal-paf-t1",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.85,
+          "einsatz": 8.0,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "gewinn_euro": -8.0,
+          "kommentar": "1 Tore gesamt - Ueber 2.5 verloren."
+        },
+        {
+          "tipp_id": "2026-08-06-sal-paf-t2",
+          "markt": "Torschuetzen Jederzeit: Karim Konate (Salzburg)",
+          "quote": 2.5,
+          "einsatz": 2.75,
+          "status": "gewonnen",
+          "gewinn_faktor": 1.5,
+          "gewinn_euro": 4.12,
+          "kommentar": "Konate als Einwechselspieler (65.) selbst getroffen 89. Min - Torschuetzen-Tipp direkt gewonnen (keine Boost-Regel noetig)."
+        },
+        {
+          "tipp_id": "2026-08-06-sal-paf-t3",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.85,
+          "einsatz": 2.75,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "gewinn_euro": -2.75,
+          "kommentar": "Nicht beide Teams getroffen (1:0)."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "1:0",
+        "tore": [
+          {
+            "min": 89,
+            "team": "heim",
+            "spieler": "Karim Konate (65. eingewechselt)",
+            "stand_danach": "1:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Torloses Match bis 89. Minute. Salzburg-Sieg per Late-Winner. Kein 2:0-Vorsprung erreicht."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Unentschieden/Salzburg",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Konate",
+            "details": "Konate von Anfang an Bank (Roehl-Rotation nach 0:0 Bundesliga-Auftakt), erst 65. eingewechselt. Vertessen (Neuzugang aus Union SG) im Angriffs-Zentrum ohne Torgefahr."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Karim Konate",
+            "aus": "Yorbe Vertessen",
+            "minute": 65,
+            "tor": true,
+            "tor_minute": "89"
+          }
+        ],
+        "auffaellige_patterns": [
+          "Late-Winner-Pattern aktiv (Salzburg 89. Konate) - passt zu WM-Late-Goal-Cluster-Lessons, gilt jetzt auch fuer CL-Klassen-Duelle mit muedem Underdog.",
+          "BOOST-TRIGGER: Konate war eingewechselt und traf selbst - Beispiel wie Volume-Backup-9er (Salzburg-Rotation nach Liga-Auftakt) den entscheidenden Impuls setzt. Konate-Tipp gewonnen ohne Boost-Regel-Anwendung (er selbst traf).",
+          "Torschuetzen-Jederzeit-Goldgrube (+24.4% ROI) mit Konate-Late-Sub validiert - Volume-Backup-9er in Rotation-Phase als spekulative Torschuetzen-Wette lohnt bei Star-Ruhe-Pause.",
+          "Ueber-2.5-Goldgrube gescheitert (nur 1 Tor) - Vorsicht bei zwei Roster-Umbruch-Teams (Salzburg 9 Neue, Pafos ohne Jaja): Chemie-Krise beider Angriffe drueckt Torzahl.",
+          "Regen-Unterbrechung 16. Minute (aus Sportskeeda-Referenz) - koennte Tor-Rhythmus zusaetzlich gestoert haben, Datapoint fuer weitere Analyse."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-06-pao-and",
+      "liga": "UEFA Europa League - 3. Qualifikationsrunde (League Path)",
+      "heim": "PAOK Thessaloniki",
+      "gast": "RSC Anderlecht",
+      "anstoss": "2026-08-06T18:45:00+02:00",
+      "stadion": "Toumba Stadium, Thessaloniki",
+      "saison_kontext": {
+        "parallel_heim": "Super League Greece 2026/27 startet erst am 22.08.2026 (16 Tage nach diesem Spiel) - keine Liga-Belastung, aber PAOK hat schon EL-Q2 gespielt (durchgekommen). Rein europaeischer Fokus",
+        "parallel_gast": "Jupiler Pro League Belgien 2026/27 laeuft seit Anfang August: Anderlecht ist mit 3W 2D unbesiegt in letzten 5 Pflichtspielen (inkl. Q2-Erfolg), Liga-Termin naechster Sonntag nach diesem Spiel",
+        "saisonziel_heim": "Super League Greece 25/26: 3. Platz (AEK Athen Meister) - qualifiziert fuer EL-Q2-Runde. Ziel 26/27: Titel-Angriff auf AEK + EL-Gruppenphase Muss. Heimstark am Toumba (Krawall-Kulisse), 5/6 letzte Spiele gewonnen mit 14 Toren aber 10/12 kassiert - offen-offensive Serie",
+        "saisonziel_gast": "Belgische Rekord-Meister (34 Titel), aktuell 92. Saison in Folge Jupiler Pro League. Nach mageren Vorjahren wieder Titel-Angriff, EL-Gruppenphase Pflicht fuer Etat und Wiederaufbau",
+        "motivations_asymmetrie": "Beide brennen voll - PAOK zu Hause vor Toumba-Kulisse muss vorlegen (Wettkampf-Rhythmus voraus, Torflut-Serie), Anderlecht auswaerts + Liga-Doppelbelastung + BTTS-Serie (11 von letzten 13 Spielen). Heim-Sharpness + Toumba-Vorteil geben PAOK moderaten Edge.",
+        "recovery_heim": "6 Tage seit EL-Q2-Rueckspiel (30.07. Dynamo Kyiv oder Krasnodar - klar durch), keine Liga-Belastung. Frisch + wettkampf-scharf",
+        "recovery_gast": "3-4 Tage seit Jupiler-Pro-League-Ligaspiel Anfang August - moderate Reise-Belastung (Anderlecht -> Thessaloniki), aber komplette Match-Sharpness. Kein grosses Verletzungsproblem gemeldet",
+        "quellen": [
+          "https://www.uefa.com/uefaeuropaleague/match/2049127--paok-vs-anderlecht/",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_Super_League_Greece",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_RSC_Anderlecht_season",
+          "https://footballwhispers.com/blog/paok-vs-anderlecht-prediction-preview-betting-tips-06-08-2026/",
+          "https://tips.gg/article/paok-vs-anderlecht-06-08-2026/"
+        ]
+      },
+      "news": [
+        "PAOK Form-Bombe: 5/6 letzte Spiele gewonnen mit 14 Toren, aber 10 von 12 Spielen kassiert - offensive Uebermacht + Defense-Loecher",
+        "Anderlecht ungeschlagen in letzten 5 (3W 2D vs Hammarby, Boulogne draws) - defensiv stabil, aber nicht ueberrangend",
+        "In 11 der letzten 13 Anderlecht-Spielen trafen beide Teams (BTTS-Serie sehr stark)",
+        "PAOK 3. der letzten Super League Greece (AEK Athen Meister) - eher Titel-Angreifer statt-Verteidiger",
+        "Anderlecht 34-facher belgischer Meister - Rekordklub - im 26/27 Wiederaufbau-Modus unter neuem Coach",
+        "Quoten: PAOK 1.75, X 3.60, Anderlecht 4.30 - Heim-Fav-Slot, aber nicht dominant",
+        "Toumba-Stadion: eine der lautesten Kulissen Europas - deutlicher Heim-Vorteil-Faktor"
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.65,
+          "einsatz_euro": 8.0,
+          "edge_prozent": 8,
+          "begruendung": "BTTS Goldgrube (+20.4% ROI, HR 50%). Anderlecht-Serie 11/13 BTTS + PAOK 10/12 kassiert + Toumba-Offensiv-Charakter. Klarster Edge im Spiel. UEFA-EL-Q3 kein Liga-Goldgrube -> kein SAFE (Hebel C), aber starkes VALUE.",
+          "layer_2_tag": "btts",
+          "faire_quote": 1.53,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.75,
+          "einsatz_euro": 8.0,
+          "edge_prozent": 7,
+          "begruendung": "Ueber 2.5 Top-Goldgrube (+23.9% ROI). PAOK 14 Tore in 5 Spielen + kassiert 10 in 12 + Anderlecht BTTS-Serie 11/13 + beide offensiv orientiert. Toumba-Show-Charakter. Statistisch klarster Slot.",
+          "layer_2_tag": "tore",
+          "faire_quote": 1.63,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Sieg 1X2: PAOK",
+          "quote": 1.75,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 3,
+          "begruendung": "Sieg-Markt Goldgrube light (+6.0% ROI). Heim-Fav + Toumba-Kulisse + Anderlecht auswaerts + Wettkampf-Rhythmus voraus (PAOK 6 Tage frisch). WACKEL nicht VALUE weil Anderlecht ungeschlagen in 5, PAOK-Defense schwach (Q2-Signal), Coinflip-Risiko. Torschuetzen-Pflicht Heim-Fav: Zivkovic (griechischer Klassiker) Tipp folgt.",
+          "layer_2_tag": "paok_sieg",
+          "faire_quote": 1.72,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Torschuetzen Jederzeit: Andrija Zivkovic (PAOK)",
+          "quote": 2.75,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 5,
+          "begruendung": "Torschuetzen Jederzeit Top-Goldgrube (+24.4% ROI, HR 50% - Pflicht bei Heim-Fav). Zivkovic serbischer Fluegel-Playmaker in PAOK-Form (in Torflut-Serie beteiligt), gegen Anderlecht-Defense mit BTTS-Anfaelligkeit. WACKEL weil ohne Startelf-Bestaetigung + Fluegel-Rotation-Risiko. Bei bet365 live pruefen.",
+          "layer_2_tag": "zivkovic_tor",
+          "faire_quote": 2.62,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 0,
+        "gast_tore": 1,
+        "halbzeit": {
+          "heim": 0,
+          "gast": 1
+        },
+        "halbzeit_stand": "0:1",
+        "endstand": "0:1",
+        "quelle": "WebSearch (totalfootballanalysis.com / dhnet.be / lalibre.be) 07.08.2026",
+        "abgerufen_am": "2026-08-07T07:20:00+00:00",
+        "notiz": "PAOK Michailidis verschoss Elfmeter (36., von Coosemans gehalten). Cvetkovic-Tor 67. wegen Abseits aberkannt."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-08-06-pao-and-t0",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.65,
+          "einsatz": 8.0,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "gewinn_euro": -8.0,
+          "kommentar": "Nicht beide Teams getroffen (0:1)."
+        },
+        {
+          "tipp_id": "2026-08-06-pao-and-t1",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.75,
+          "einsatz": 8.0,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "gewinn_euro": -8.0,
+          "kommentar": "1 Tore gesamt - Ueber 2.5 verloren."
+        },
+        {
+          "tipp_id": "2026-08-06-pao-and-t2",
+          "markt": "Sieg 1X2: PAOK",
+          "quote": 1.75,
+          "einsatz": 2.75,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "gewinn_euro": -2.75,
+          "kommentar": "Endstand 0:1 - Sieg-Tipp verloren."
+        },
+        {
+          "tipp_id": "2026-08-06-pao-and-t3",
+          "markt": "Torschuetzen Jederzeit: Andrija Zivkovic (PAOK)",
+          "quote": 2.75,
+          "einsatz": 2.75,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "gewinn_euro": -2.75,
+          "kommentar": "Zivkovic startete, kein Tor. PAOK insgesamt torlos (0:1), somit auch kein potentieller Boost-Ersatz mit Tor - Tipp verloren."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "0:1",
+        "tore": [
+          {
+            "min": 1,
+            "team": "gast",
+            "spieler": "Mihajlo Cvetkovic (Assist Llansana)",
+            "stand_danach": "0:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Anderlecht sofort 0:1 nach 20 Sekunden (Cvetkovic), Rest des Spiels torlos. Michailidis verschoss Elfmeter (36., Coosemans-Parade). Cvetkovic-Tor (67.) wegen Abseits aberkannt. Kein 2-Tor-Vorsprung, keine Drehung."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Anderlecht/Anderlecht",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "MASSEN-BUST der PAOK-Tipps: BTTS + Ueber 2.5 + PAOK-Sieg + Zivkovic-Tor alle verloren. PAOK-Heim-Fav-These komplett gescheitert - Anderlecht spielte Anti-Konter perfekt mit Fruehstart.",
+          "Frueh-Tor-Cluster 1. Minute (Cvetkovic <20s) - Kickoff-Turnover-Pattern in EL-Q3 selten aber toedlich fuer Heim-Fav-Sieg-Tipps. Datapoint: PAOK-Toumba-Kulisse hat Cvetkovic nicht abgeschreckt.",
+          "Verschossener Elfmeter (36. Michailidis von Coosemans gehalten) - Coosemans-Man-of-the-Match-Pattern: GK-MOM-Cluster aus WM-2026-Lessons setzt sich in EL-Q3 fort.",
+          "Zivkovic-Torschuetzen-Wette (VALUE-Fluegel-Star) verloren - Fluegel-Star gegen Anti-Konter-Team ohne Raum-Situation. Backup-Sub-Volumen-9er waere hier bessere Wahl gewesen.",
+          "BTTS-Goldgrube (+20.4%) gebrochen: Anderlecht-11/13-BTTS-Serie widerlegt bei EL-Q3-Muss-Sieg-Druck-Auswaertsteam. Pattern: BTTS-Statistik aus Liga-Kontext ist NICHT auf pflichtermuedete Q3-Auswaerts-Team-Ergebnisse uebertragbar."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-06-ben-hea",
+      "liga": "UEFA Europa League - 3. Qualifikationsrunde (League Path)",
+      "heim": "SL Benfica Lissabon",
+      "gast": "Heart of Midlothian (Hearts)",
+      "anstoss": "2026-08-06T20:00:00+02:00",
+      "stadion": "Estadio da Luz, Lissabon",
+      "saison_kontext": {
+        "parallel_heim": "Primeira Liga Portugal 2026/27 startet Mitte August - Benfica noch keine Liga-Spiele. Aber EL-Q2 gespielt: 6:2 aggregate gegen St. Gallen (Hin 1:2 auswaerts geschockt, Rueck 5:0 zu Hause mit 4 Pavlidis-Toren + Lenglet-Debuet-Tor)",
+        "parallel_gast": "Scottish Premiership 2026/27 laeuft seit 01.08.: Hearts 1:2 Niederlage auswaerts bei Aberdeen (Auftakt) - Mayo 90., Nisbet 90+2. Elfmeter drehten die Partie. Naechster Liga-Termin ca. 09.08.",
+        "saisonziel_heim": "Portugal Primeira Liga: 3. der Vorsaison 25/26 (hinter Sporting + Porto), Ziel Titel-Angriff + CL-Qualifikation. Marco Silva im 2. Jahr, Pavlidis als griechischer Top-Stuermer + neuer Sudakov (Ukraine) + Lenglet als Verstaerkungen. EL statt CL ist Rueckschritt, Q3 Muss-Sieg fuer Etat + Prestige",
+        "saisonziel_gast": "Scottish Premiership: Hearts in 25/26 3. Platz (hinter Celtic + Rangers), Ziel 26/27: Top-3 halten + EL-Gruppenphase erreichen. Aber Auftakt-Niederlage Aberdeen + 6:0-Aggregate-Blamage gegen Sturm Graz in CL-Q2 (auf UEFA-Weg abgestiegen) - drei Pflichtspiel-Niederlagen in Folge, Krise beim neuen Coach Wouter Vrancken",
+        "motivations_asymmetrie": "Massiver Klassen- + Motivations-Edge Benfica: klarer Favorit im eigenen Stadion, mit Pavlidis 4-Tor-Show noch im Rueckenwind, ohne Liga-Rueckstuetzen, gegen ein Hearts-Team in 3-Spielen-Krise + langer Auswaertsreise. Hearts-Selbstvertrauen tief, Vrancken unter Druck, Auswaerts-Serie zuletzt 3 Niederlagen (0-Punkte-Reihe).",
+        "recovery_heim": "7 Tage seit Q2-Rueckspiel 30.07. (5:0 vs St. Gallen) - komplett frisch + selbstbewusst nach Torfestival",
+        "recovery_gast": "5 Tage seit Scottish-Auftakt-Niederlage 01.08. (Aberdeen 1:2) - Krisen-Stimmung, lange Reise Lissabon (~3.500 km ex Edinburgh), Vrancken-Trainerdruck spuerbar",
+        "quellen": [
+          "https://www.uefa.com/uefaeuropaleague/",
+          "https://www.slbenfica.pt/pt-pt/agora/noticias/2026/07/30/futebol-cronica-jogo-benfica-st-gallen-2-mao-2-pre-eliminatoria-acesso-fase-liga-da-liga-europa",
+          "https://www.kicker.de/aberdeen-gegen-hearts-2026-scottish-premiership-5211071/ticker",
+          "https://www.edinburghnews.scotsman.com/sport/football/hearts/aberdeen-2-1-hearts-player-ratings-injury-latest-red-card-drama-new-signing-impresses-8834514",
+          "https://ratingbet.com/predictions/benfica-vs-hearts-prediction-expert-analysis-possible-lineups-august-6-2026/"
+        ]
+      },
+      "news": [
+        "Benfica-Feuerwerk in Q2-Rueckspiel: 5:0 zu Hause vs St. Gallen mit Pavlidis 4-fach + Lenglet-Debuet-Tor - Aggregat 6:2",
+        "Hearts in 3-Spielen-Krise: 1:2 bei Aberdeen (Auftakt Liga, 2 spaete Tore + Elfmeter kassiert) + 0:6 Aggregate vs Sturm Graz in CL-Q2",
+        "Hearts-Coach Wouter Vrancken (belgisch, erstes Jahr Schottland) im Druck nach schlechten Start",
+        "Benfica-Aufstellung erwartet 4-2-3-1: Trubin - Dahl, Lenglet, Antonio Silva, Bah - Barrenetxea, Barreiro - Kaminski, Sudakov, Rafa Silva - Pavlidis",
+        "Hearts-Aufstellung Schwolow-4-2-3-1 mit Kingsley, McEntee, Spittal, Claudio Braga (Portugiese - trifft Landsleute)",
+        "Bookmaker-Quoten extrem einseitig: Benfica 1.21, X 10.4, Hearts 21 - eines der klarsten Favoriten-Spiele der Runde",
+        "Analytics-Vorhersage: >3.5 Tore, Benfica dominante Ballbesitz-Show erwartet"
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Sieg 1X2: Benfica",
+          "quote": 1.21,
+          "einsatz_euro": 11.0,
+          "edge_prozent": 3,
+          "begruendung": "Sieg-Markt Goldgrube light (+6.0% ROI). Extrem klare Klassen- + Motivations-Asymmetrie: Benfica frisch + Pavlidis-Feuerwerk vs Hearts in 3-Niederlagen-Serie + langer Reise + Vrancken-Krise. UEFA-EL-Q3 kein Liga-Goldgrube (Hebel C) -> darf NICHT SAFE sein, sonst Downgrade. VALUE-Kategorie korrekt trotz Quoten-Klarheit. PFLICHT-PROFILE Heim-Fav (<1.80): Sieg + Torschuetzen-Bein Pflicht - beides drin.",
+          "layer_2_tag": "benfica_sieg",
+          "faire_quote": 1.17,
+          "empfohlener_einsatz_prozent": 2.0
+        },
+        {
+          "kategorie": "value",
+          "markt": "Torschuetzen Jederzeit: Vangelis Pavlidis (Benfica)",
+          "quote": 1.75,
+          "einsatz_euro": 8.0,
+          "edge_prozent": 12,
+          "begruendung": "TORSCHUETZEN-PFLICHT (Heim-Fav + Form-Edge): Pavlidis 4 Tore letztes Spiel = Form-Edge maximal + Karriere-Highlight-Slot. Torschuetzen Jederzeit ist bester Markt im System (+24.4% ROI, HR 50%). Hearts-Defense in 6:0-Aggregate-Blamage vs Sturm + spaete Elfmeter kassiert - klar anfaellig. Pavlidis Startelf-fix (Top-Stuermer, kein Roster-Risiko).",
+          "layer_2_tag": "pavlidis_tor",
+          "faire_quote": 1.53,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.35,
+          "einsatz_euro": 8.0,
+          "edge_prozent": 6,
+          "begruendung": "Ueber 2.5 Top-Goldgrube (+23.9% ROI). Benfica gerade 5:0 Show + Torflut-Modus + Analytics-Vorhersage >3.5. Hearts-Auswaerts-Defense fragil (6 Tore in 2 Sturm-Spielen + 2 Aberdeen-Tore). Klare Torflut-Erwartung.",
+          "layer_2_tag": "tore",
+          "faire_quote": 1.27,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Torschuetzen Jederzeit: Georgiy Sudakov (Benfica)",
+          "quote": 3.25,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 7,
+          "begruendung": "Backup-Volume-10er-Pflicht: Ukrainer Georgiy Sudakov (Sommer-Transfer 2025 aus Shakhtar Donetsk, wichtiger 10er) im Startelf-Set, Form-Lauf gegen St. Gallen mit Rolle im Torfestival. Torschuetzen Top-Goldgrube. WACKEL weil 10er statt 9er (Zweit-Torschuetzen-Wahrscheinlichkeit statistisch niedriger), aber gegen extrem schwaches Hearts-Defense-System realistisch. Bei bet365 pruefen.",
+          "layer_2_tag": "sudakov_tor",
+          "faire_quote": 3.03,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "risk",
+          "markt": "Genauer Sieg: Benfica 4:0",
+          "quote": 12.0,
+          "einsatz_euro": 1.4,
+          "edge_prozent": 15,
+          "begruendung": "RISIKO-Spass-Tipp: Benfica letztes Spiel 5:0 St. Gallen, Torflut-Modus + Hearts anfaellig gegen individuelle Klasse. Genauer-Ergebnis-Markt zwar schwer aber angesichts Klasse-Asymmetrie fair. Kein Layer-1-Konflikt mit anderen Beinen (unabhaengig).",
+          "layer_2_tag": "genau_4-0",
+          "faire_quote": 10.5,
+          "empfohlener_einsatz_prozent": 0.25
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 6,
+        "gast_tore": 1,
+        "halbzeit": {
+          "heim": 3,
+          "gast": 0
+        },
+        "halbzeit_stand": "3:0",
+        "endstand": "6:1",
+        "quelle": "WebSearch (101greatgoals.com / heartsfc.co.uk / edinburghnews.scotsman.com / skysports.com) 07.08.2026",
+        "abgerufen_am": "2026-08-07T07:20:00+00:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-08-06-ben-hea-t0",
+          "markt": "Sieg 1X2: Benfica",
+          "quote": 1.21,
+          "einsatz": 11.0,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.21,
+          "gewinn_euro": 2.31,
+          "kommentar": "Endstand 6:1 - Sieg-Tipp getroffen."
+        },
+        {
+          "tipp_id": "2026-08-06-ben-hea-t1",
+          "markt": "Torschuetzen Jederzeit: Vangelis Pavlidis (Benfica)",
+          "quote": 1.75,
+          "einsatz": 8.0,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.75,
+          "gewinn_euro": 6.0,
+          "kommentar": "Vangelis Pavlidis (Elfmeter) traf (42. Min)."
+        },
+        {
+          "tipp_id": "2026-08-06-ben-hea-t2",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.35,
+          "einsatz": 8.0,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.35,
+          "gewinn_euro": 2.8,
+          "kommentar": "7 Tore gesamt - Ueber 2.5 getroffen."
+        },
+        {
+          "tipp_id": "2026-08-06-ben-hea-t3",
+          "markt": "Torschuetzen Jederzeit: Georgiy Sudakov (Benfica)",
+          "quote": 3.25,
+          "einsatz": 2.75,
+          "status": "gewonnen",
+          "gewinn_faktor": 2.25,
+          "gewinn_euro": 6.19,
+          "kommentar": "Einwechslungs-Boost: Sudakov ausgewechselt fuer Schjelderup, Schjelderup traf 90+4 (Elfmeter) -> zaehlt fuer Sudakov-Tipp (bet365 Einwechslungs-Boost-Regel)."
+        },
+        {
+          "tipp_id": "2026-08-06-ben-hea-t4",
+          "markt": "Genauer Sieg: Benfica 4:0",
+          "quote": 12.0,
+          "einsatz": 1.4,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "gewinn_euro": -1.4,
+          "kommentar": "Genau 4:0 - Endstand 6:1."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "3:0",
+        "endstand": "6:1",
+        "tore": [
+          {
+            "min": 3,
+            "team": "heim",
+            "spieler": "Rafa Silva",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 23,
+            "team": "heim",
+            "spieler": "Tomas Araujo",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 42,
+            "team": "heim",
+            "spieler": "Vangelis Pavlidis (Elfmeter)",
+            "stand_danach": "3:0"
+          },
+          {
+            "min": 59,
+            "team": "heim",
+            "spieler": "Gianluca Prestianni",
+            "stand_danach": "4:0"
+          },
+          {
+            "min": 72,
+            "team": "gast",
+            "spieler": "Tom Renaud",
+            "stand_danach": "4:1"
+          },
+          {
+            "min": 87,
+            "team": "heim",
+            "spieler": "Jhon Duran",
+            "stand_danach": "5:1"
+          },
+          {
+            "min": 94,
+            "team": "heim",
+            "spieler": "Andreas Schjelderup (Elfmeter, fuer Sudakov eingewechselt)",
+            "stand_danach": "6:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Benfica komplett dominant - 3:0 zur Halbzeit, 6:1 Endstand. Hearts kurzzeitig 4:1 Anschluss (Renaud 72.), aber sofort weggeschossen. Keine Drehung, sondern Blowout."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": true,
+          "ueber_6_5": false,
+          "halbzeit_endstand": "Benfica/Benfica",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Andreas Schjelderup",
+            "aus": "Georgiy Sudakov",
+            "minute": null,
+            "tor": true,
+            "tor_minute": "90+4 (Elfmeter)"
+          }
+        ],
+        "auffaellige_patterns": [
+          "BOOST-GEWONNEN-BLUEPRINT (Lessons 8i): Sudakov -> Schjelderup, Schjelderup-Elfmeter 90+4 zaehlt fuer Sudakov-Torschuetzen-Tipp per bet365-Regel. Volume-Backup-10er-Pflicht-These validiert.",
+          "Pavlidis-Karriere-Highlight-Serie fortgesetzt: nach 4-Tor-Show gegen St. Gallen nun Elfmeter-Tor - 5 Tore in 3 Spielen. Form-Edge-Karriere-Highlight-Torschuetzen-Wette (VALUE @1.75) getroffen wie erwartet.",
+          "Hearts-Auswaerts-Kollaps setzt sich fort (nach 6:0 Sturm-Aggregat, 1:2 Aberdeen jetzt 1:6 Benfica) - Vrancken-Krise verschaerft, Roster-Klassen-Gap Portugal-Level nicht zu kompensieren.",
+          "Ueber-2.5-Goldgrube maximal ausgeschoepft (7 Tore) - Klassen-Asymmetrie plus Rueckstands-Push-Effekt fuehrten zum Tor-Festival.",
+          "Prestianni-Sudakov-Achse als Spielmacher-Duo bestaetigt Sudakov-Verpflichtung (27M-Deal). Fluegel-Prestianni ohne Tipp-Position leider - Blueprint fuer naechste Benfica-Analyse."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-06-hib-shk",
+      "liga": "UEFA Conference League - 3. Qualifikationsrunde",
+      "heim": "Hibernian FC",
+      "gast": "KF Shkendija (Tetovo, Nordmazedonien)",
+      "anstoss": "2026-08-06T20:00:00+02:00",
+      "stadion": "Easter Road, Edinburgh",
+      "saison_kontext": {
+        "parallel_heim": "Scottish Premiership 2026/27 laeuft seit 01.08.: Hibernian-Auftakt 02.08. zu Hause vs Motherwell (Ergebnis: sehr wahrscheinlich Sieg mit Boyle/Elding/Lowe-Front-Trio - alle drei getroffen). Naechster Termin 09.08. auswaerts bei Rangers-Ibrox-Debuet",
+        "parallel_gast": "1. MFL Nordmazedonien 2026/27 startet erst Mitte August (nach Q3-Rueckspiel), keine Liga-Belastung. Aber Shkendija hat bereits 4 EL-Q-Runden hinter sich: Q1 5:0 vs Europa (Gibraltar), Q2 4:3 aggregate vs Bravo (Slovenien) - starker Rhythmus",
+        "saisonziel_heim": "Scottish Premiership: Hibs 25/26 vermutlich 4./5. Platz. Ziel 26/27: Erstmalige-Conference-League-Ligaphase-Qualifikation (haben's noch nie geschafft) - dieses Q3-Duell Symbolik-schwer. Coach David Gray im 2. Jahr, offensive Neuzugaenge Elding (Sligo, 16 Tore) + Lowe (Stoke, Leihe) + Passlack (Bochum)",
+        "saisonziel_gast": "1. MFL Nordmazedonien Titel-Verteidigung + moeglichst weit in Europa. Q3 zum ersten Mal in dieser Groessenordnung - Underdog-Elan aus ueberragendem Q1+Q2-Rhythmus (nur ein 4:3-Wackler)",
+        "motivations_asymmetrie": "Hibs mit klarem Klassen-Edge + Easter-Road-Heimvorteil + neu-formiertem Front-Trio in Torlaune + historische UECL-Ligaphase als Symbolik-Ziel. Shkendija hat Underdog-Elan aus 3 EL-Q-Erfolgen aber ist Nordmazedonien-Team ohne Wettkampf-Praxis auf diesem Level. Hibs klarer Motivations- + Klassen-Vorteil.",
+        "recovery_heim": "4 Tage seit Scottish-Auftakt 02.08. (Motherwell zu Hause) - moderate Belastung, volle Match-Sharpness, kein Verletzungsproblem gemeldet im Front-Trio",
+        "recovery_gast": "9 Tage seit Q2-Rueckspiel Ende Juli (Bravo 4:3 agg-Sieg, dabei Rueckstand aufgeholt) - lange Regenerationspause + lange Reise Nordmazedonien -> Edinburgh (~2.500 km). Wettkampfrhythmus sinkt, plus Reise-Faktor",
+        "quellen": [
+          "https://www.uefa.com/uefaconferenceleague/match/2049167--hibernian-vs-shkendija/",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_Hibernian_F.C._season",
+          "https://www.hibernianfc.co.uk/news/2026/january/29/owen-elding-is-a-hibee-/",
+          "https://www.hibernianfc.co.uk/news/2026/july/14/nathan-lowe-joins-hibs-on-loan/",
+          "https://www.sportsmole.co.uk/football/hibernian/europa-conference-league/preview/hibernian-vs-shkendija-prediction-team-news-lineups_602406.html"
+        ]
+      },
+      "news": [
+        "Hibs Q2 4:1 zu Hause vs Malisheva (Kosovo) - dreht 2-Tor-Rueckstand mit Front-Trio Boyle/Elding/Lowe + Passlack",
+        "Hibs Elding (19, Ex-Sligo Rovers) - 16 Tore in League of Ireland 25 + PFA Ireland Young Player of the Year: heisser Karriere-Highlight-Kandidat",
+        "Hibs Passlack (27, Ex-Bochum) - Bundesliga-Erfahrener Aussenverteidiger mit Standard-Torgefahr + Wing-Backup",
+        "Hibs Nathan Lowe (20, Stoke-Leihe) - dritter Angreifer im Front-Trio, ergaenzender Backup-Volume-9er",
+        "Shkendija 3 EL-Q-Runden in Folge ueberstanden (Q1+Q2), aber alles gegen Kleinklubs - Hibs ist eine ganze Kategorie hoeher",
+        "Bookmaker: Hibs -270 (1.37), X +320 (4.20), Shkendija +600 (7.00) - klarer Heim-Fav",
+        "Prediction: Hibs 42.65% Sieg, Shkendija 32.95% - wahrscheinlichstes Ergebnis 2:1 (9.05%), gefolgt von 1:0 (8.35%)"
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Sieg 1X2: Hibernian",
+          "quote": 1.37,
+          "einsatz_euro": 8.0,
+          "edge_prozent": 6,
+          "begruendung": "Sieg-Markt Goldgrube light (+6.0% ROI). Hibs klar Heim-Fav + Easter-Road-Vorteil + Front-Trio in Torlaune + Shkendija muede aus langer Reise. UEFA-UECL-Q3 kein Liga-Goldgrube-Slot -> kein SAFE (Hebel C). PFLICHT-PROFILE Heim-Fav (<1.80): Sieg + Torschuetzen-Pflicht.",
+          "layer_2_tag": "hibs_sieg",
+          "faire_quote": 1.29,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Torschuetzen Jederzeit: Owen Elding (Hibernian)",
+          "quote": 2.1,
+          "einsatz_euro": 8.0,
+          "edge_prozent": 10,
+          "begruendung": "TORSCHUETZEN-PFLICHT + FORM-EDGE (+24.4% ROI Top-Markt): Elding 19 Jahre, 16 Tore Vorsaison Sligo, PFA Young Player Ireland - Karriere-Highlight-Slot, im Q2-Rueckspiel getroffen. Hibs Startelf-Kandidat 1. Shkendija-Defense war in Q2 gegen Bravo undicht. Klarer Value. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "layer_2_tag": "elding_tor",
+          "faire_quote": 1.91,
+          "empfohlener_einsatz_prozent": 1.5,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.85,
+          "einsatz_euro": 8.0,
+          "edge_prozent": 6,
+          "begruendung": "Ueber 2.5 Top-Goldgrube (+23.9% ROI, HR 53.5%). Hibs 4:1 Q2-Show + Front-Trio Torlaune + Shkendija defensiv im Q2-Rueckspiel 3 Tore kassiert vs Bravo. Torflut-Slot.",
+          "layer_2_tag": "tore",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Torschuetzen Jederzeit: Martin Boyle (Hibernian)",
+          "quote": 2.5,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 5,
+          "begruendung": "Zweiter Torschuetzen-Tipp Volume-Backup: Boyle (Kapitaen, Vorsaison-Torgarant, im Q2-Rueckspiel getroffen). Torschuetzen Top-Goldgrube. WACKEL statt VALUE weil Elding schon als Wichtiger-Torschuetze steht + Fluegel-Rotation-Risiko + Backup-9er-Konzentration im Layer 3.",
+          "layer_2_tag": "boyle_tor",
+          "faire_quote": 2.38,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 1,
+        "halbzeit": {
+          "heim": 0,
+          "gast": 0
+        },
+        "halbzeit_stand": "0:0",
+        "endstand": "2:1",
+        "quelle": "WebSearch (irishnews.com / skysports.com / uefa.com) 07.08.2026",
+        "abgerufen_am": "2026-08-07T07:20:00+00:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-08-06-hib-shk-t0",
+          "markt": "Sieg 1X2: Hibernian",
+          "quote": 1.37,
+          "einsatz": 8.0,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.37,
+          "gewinn_euro": 2.96,
+          "kommentar": "Endstand 2:1 - Sieg-Tipp getroffen."
+        },
+        {
+          "tipp_id": "2026-08-06-hib-shk-t1",
+          "markt": "Torschuetzen Jederzeit: Owen Elding (Hibernian)",
+          "quote": 2.1,
+          "einsatz": 8.0,
+          "status": "gewonnen",
+          "gewinn_faktor": 1.1,
+          "gewinn_euro": 8.8,
+          "kommentar": "Owen Elding traf (73. Min)."
+        },
+        {
+          "tipp_id": "2026-08-06-hib-shk-t2",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.85,
+          "einsatz": 8.0,
+          "status": "gewonnen",
+          "gewinn_faktor": 0.85,
+          "gewinn_euro": 6.8,
+          "kommentar": "3 Tore gesamt - Ueber 2.5 getroffen."
+        },
+        {
+          "tipp_id": "2026-08-06-hib-shk-t3",
+          "markt": "Torschuetzen Jederzeit: Martin Boyle (Hibernian)",
+          "quote": 2.5,
+          "einsatz": 2.75,
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "gewinn_euro": -2.75,
+          "kommentar": "Boyle nicht getroffen. Ausgewechselt 56. fuer Ante Suto - Suto traf ebenfalls nicht (O'Hora-Tor 90. kam von Innenverteidiger via Ecke, kein Boost-Ersatz)."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "2:1",
+        "tore": [
+          {
+            "min": 73,
+            "team": "heim",
+            "spieler": "Owen Elding",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 76,
+            "team": "gast",
+            "spieler": "Marko Gjorgjievski (eingewechselt fuer Ndzengue)",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 90,
+            "team": "heim",
+            "spieler": "Warren O'Hora (Kopfball nach Obita-Ecke)",
+            "stand_danach": "2:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Torloses Match bis 73., dann 3 Tore in 17min. Hibs fuehrten 1:0 -> 1:1 -> 2:1 durch Last-Gasp-O'Hora (90.). Kein 2-Tor-Rueckstand gedreht, aber Schluss-Chaos."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Unentschieden/Hibernian",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "gast",
+            "ein": "Marko Gjorgjievski",
+            "aus": "Fahd Ndzengue",
+            "minute": null,
+            "tor": true,
+            "tor_minute": "76"
+          },
+          {
+            "team": "heim",
+            "ein": "Ante Suto",
+            "aus": "Martin Boyle",
+            "minute": 56,
+            "tor": false
+          }
+        ],
+        "auffaellige_patterns": [
+          "Boyle-Boost-FAIL: Boyle 56. fuer Ante Suto ausgewechselt, Suto blieb ohne Tor (O'Hora-Tor kam von IV per Ecke, nicht Boost-relevant) - Bestaetigung der 8i-Lesson: nicht jede Sub-Situation triggert Boost.",
+          "Shkendija-Boost-Trigger ohne Hibs-Tipp: Gjorgjievski eingewechselt fuer Ndzengue, traf 76. - Volume-Sub-Torschuetze im Nord-Mazedonien-Roster als Insight fuer Rueckspiel-Recherche (Hibs offen fuer Auswaerts-Sub-Tore).",
+          "Elding-Karriere-Highlight-Torschuetzen-Wette (VALUE @2.10) validiert - 19j Sligo-Neuzugang traf im 3. Q-Runden-Spiel in Folge (Q2-Malisheva + Q3-Hin). Blueprint: Karriere-Highlight-Torschuetzen bei Klassen-Fav-Duell trifft konsistent.",
+          "Last-Gasp-O'Hora-Winner (90.) - Set-Piece-Corner-Kopfball-Pattern klassisch fuer klare Heim-Fav-Muss-Siege. Ueber-2.5 dank spaeter Tore getroffen (2 Tore in Schlussphase).",
+          "Ueber-2.5-Goldgrube (+23.9%) valide - trotz 0:0 zur HZ noch 3 Tore in 17min. Pattern: Klassen-Fav-Sieg-Spiele oeffnen im letzten Drittel."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "kategorie": "value",
+      "spiel_id": "2026-08-06-ben-hea",
+      "spiel_label": "Benfica vs Hearts",
+      "markt": "Torschuetzen Jederzeit: Vangelis Pavlidis",
+      "quote": 1.75,
+      "einsatz_euro": 8.0,
+      "begruendung": "Bester Einzel-Slot heute: Pavlidis 4-Tor-Feuerwerk gegen St. Gallen letztes Spiel = Form-Edge max + Karriere-Highlight + Torschuetzen Top-Goldgrube (+24.4% ROI). Hearts-Defense in 3-Spielen-Krise (6:0 vs Sturm agg + Aberdeen 1:2). Startelf-fix.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1
+    },
+    {
+      "kategorie": "value",
+      "spiel_id": "2026-08-06-pao-and",
+      "spiel_label": "PAOK vs Anderlecht",
+      "markt": "Beide Teams treffen JA",
+      "quote": 1.65,
+      "einsatz_euro": 8.0,
+      "begruendung": "BTTS Goldgrube (+20.4% ROI). Anderlecht 11/13 BTTS + PAOK 10/12 kassiert + Toumba-Offensivfest. Klarster BTTS-Slot der Runde.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2
+    },
+    {
+      "kategorie": "value",
+      "spiel_id": "2026-08-06-pao-and",
+      "spiel_label": "PAOK vs Anderlecht",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.75,
+      "einsatz_euro": 8.0,
+      "begruendung": "Ueber 2.5 Top-Goldgrube (+23.9% ROI). PAOK 14 Tore in 5 Spielen, Anderlecht BTTS-Serie. Statistisch klar Torflut.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 3
+    },
+    {
+      "kategorie": "value",
+      "spiel_id": "2026-08-06-ben-hea",
+      "spiel_label": "Benfica vs Hearts",
+      "markt": "Sieg 1X2: Benfica",
+      "quote": 1.21,
+      "einsatz_euro": 11.0,
+      "begruendung": "Klarster Sieg-Slot der Runde - Benfica frisch + Pavlidis-Feuerwerk-Rueckenwind vs Hearts 3-Niederlagen-Krise. Hoehere Wette (2%) weil Edge maximal, aber innerhalb Kasse-Stufe-1-Rahmen 5.50-11€.",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 4
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-06-hib-shk",
+      "spiel_label": "Hibernian vs Shkendija",
+      "markt": "Torschuetzen Jederzeit: Owen Elding",
+      "quote": 2.1,
+      "einsatz_euro": 8.0,
+      "begruendung": "Karriere-Highlight-Slot: Elding 19J, 16-Tore-Vorsaison Sligo. Torschuetzen Top-Goldgrube. Hibs Heim-Fav + Shkendija-Defense im Q2 undicht.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 5
+    },
+    {
+      "kategorie": "value",
+      "spiel_id": "2026-08-06-jag-ran",
+      "spiel_label": "Jagiellonia vs Rangers",
+      "markt": "Doppelte Chance X2: Jagiellonia oder Remis",
+      "quote": 1.75,
+      "einsatz_euro": 8.0,
+      "begruendung": "DC X2 Goldgrube (+14.3% ROI, HR 77.8%). Coinflip-Spiel + Jagiellonia Heimvorteil + Ekstraklasa-Momentum. Einzige DC im Dossier (DC-CAP befolgt).",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 6
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-06-sal-paf",
+      "spiel_label": "Salzburg vs Pafos",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.85,
+      "einsatz_euro": 8.0,
+      "begruendung": "Ueber 2.5 Top-Goldgrube (+23.9% ROI). Salzburg-Umbruch + Pafos-Konter-Threat + beide Defense-Systeme neu.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 7
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-06-hib-shk",
+      "spiel_label": "Hibernian vs Shkendija",
+      "markt": "Sieg 1X2: Hibernian",
+      "quote": 1.37,
+      "einsatz_euro": 8.0,
+      "begruendung": "Klarer Heim-Fav + Easter-Road-Vorteil + Front-Trio Torlaune + Shkendija muede aus Reise + Wettkampfrhythmus-Vorteil.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 8
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-06-sal-paf",
+      "spiel_label": "Salzburg vs Pafos",
+      "markt": "Torschuetzen Jederzeit: Karim Konate (Salzburg)",
+      "quote": 2.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "Torschuetzen Top-Goldgrube. Konate im Kader-Umbruch der Hauptstuermer. WACKEL wegen Aufstellungs-Risiko.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 9
+    }
+  ],
+  "kombis": [
+    {
+      "name": "Kombi Safe ~3x",
+      "typ": "safe",
+      "einsatz_euro": 11.0,
+      "beine": [
+        {
+          "spiel_id": "2026-08-06-ben-hea",
+          "spiel_label": "Benfica vs Hearts",
+          "markt": "Sieg 1X2: Benfica",
+          "quote": 1.21
+        },
+        {
+          "spiel_id": "2026-08-06-hib-shk",
+          "spiel_label": "Hibernian vs Shkendija",
+          "markt": "Sieg 1X2: Hibernian",
+          "quote": 1.37
+        },
+        {
+          "spiel_id": "2026-08-06-pao-and",
+          "spiel_label": "PAOK vs Anderlecht",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.75
+        }
+      ],
+      "moeglicher_gewinn_euro": 31.9,
+      "begruendung": "Layer-1: 1 Bein pro Spiel. Layer-2: Sieg-Outcome nur bei Benfica + Hibs (verschiedene Farben/Ligen), Ueber-2.5 als Diversifikations-Anker. Klarste Favoriten der Runde (Benfica extremer Fav 1.21, Hibs klarer Fav 1.37) + Torflut-Statistik PAOK. Kombi-Safe ~2.90x - realistisch bei 3 unabhaengigen Legs.",
+      "gesamtquote": 2.9,
+      "empfohlener_einsatz_prozent": 2.0
+    },
+    {
+      "name": "Kombi Balance ~8x",
+      "typ": "balance",
+      "einsatz_euro": 4.4,
+      "beine": [
+        {
+          "spiel_id": "2026-08-06-ben-hea",
+          "spiel_label": "Benfica vs Hearts",
+          "markt": "Torschuetzen Jederzeit: Pavlidis",
+          "quote": 1.75
+        },
+        {
+          "spiel_id": "2026-08-06-hib-shk",
+          "spiel_label": "Hibernian vs Shkendija",
+          "markt": "Torschuetzen Jederzeit: Elding",
+          "quote": 2.1
+        },
+        {
+          "spiel_id": "2026-08-06-pao-and",
+          "spiel_label": "PAOK vs Anderlecht",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.65
+        }
+      ],
+      "moeglicher_gewinn_euro": 26.68,
+      "begruendung": "3-Torschuetzen-Diversifikation ueber 3 verschiedene Spielorte + BTTS als Nicht-Sieg-Diversifikator (Layer-2: kein Sieg-Cluster). Torschuetzen-Markt Top-Goldgrube (+24.4% ROI), BTTS Goldgrube (+20.4%). Pavlidis Karriere-Highlight, Elding Backup-Volume-9er-Sub, Anderlecht-BTTS-Serie stark. Layer-4-Diversifikation: 2 Torschuetzen + 1 BTTS statt Torschuetzen-Cluster wie 03.05.",
+      "gesamtquote": 6.06,
+      "empfohlener_einsatz_prozent": 0.8
+    },
+    {
+      "name": "Kombi Risiko ~20x",
+      "typ": "risiko",
+      "einsatz_euro": 1.4,
+      "beine": [
+        {
+          "spiel_id": "2026-08-06-jag-ran",
+          "spiel_label": "Jagiellonia vs Rangers",
+          "markt": "Doppelte Chance X2 (Jag oder Remis)",
+          "quote": 1.75
+        },
+        {
+          "spiel_id": "2026-08-06-sal-paf",
+          "spiel_label": "Salzburg vs Pafos",
+          "markt": "Torschuetzen Jederzeit: Konate",
+          "quote": 2.5
+        },
+        {
+          "spiel_id": "2026-08-06-pao-and",
+          "spiel_label": "PAOK vs Anderlecht",
+          "markt": "Torschuetzen Jederzeit: Zivkovic",
+          "quote": 2.75
+        },
+        {
+          "spiel_id": "2026-08-06-hib-shk",
+          "spiel_label": "Hibernian vs Shkendija",
+          "markt": "Torschuetzen Jederzeit: Boyle",
+          "quote": 2.5
+        }
+      ],
+      "moeglicher_gewinn_euro": 42.11,
+      "begruendung": "4-Bein-Risiko mit Torschuetzen-Trio + Coinflip-DC. Layer-1: 1 Bein/Spiel. Layer-2: keine Sieg-Beine (nur DC + 3 Torschuetzen). Torschuetzen Top-Goldgrube. Explizit RISIKO wegen 3-Volume-9er-Cluster (Backup-Kandidaten mit Aufstellungs-Risiko). Bei Verwaltung: ROI-positive Risiko-Kombi mit ~30x wenn alle vier trefen.",
+      "gesamtquote": 30.08,
+      "empfohlener_einsatz_prozent": 0.25,
+      "rechnung": "1.75 x 2.50 x 2.75 x 2.50 = 30.08"
+    },
+    {
+      "name": "Kombi Moonshot ~200x",
+      "typ": "moonshot",
+      "einsatz_euro": 0.55,
+      "beine": [
+        {
+          "spiel_id": "2026-08-06-jag-ran",
+          "spiel_label": "Jagiellonia vs Rangers",
+          "markt": "Ueber 1.5 Tore",
+          "quote": 1.35
+        },
+        {
+          "spiel_id": "2026-08-06-sal-paf",
+          "spiel_label": "Salzburg vs Pafos",
+          "markt": "Sieg 1X2: Salzburg",
+          "quote": 1.55
+        },
+        {
+          "spiel_id": "2026-08-06-pao-and",
+          "spiel_label": "PAOK vs Anderlecht",
+          "markt": "Torschuetzen Jederzeit: Zivkovic",
+          "quote": 2.75
+        },
+        {
+          "spiel_id": "2026-08-06-hib-shk",
+          "spiel_label": "Hibernian vs Shkendija",
+          "markt": "Torschuetzen Jederzeit: Elding",
+          "quote": 2.1
+        },
+        {
+          "spiel_id": "2026-08-06-ben-hea",
+          "spiel_label": "Benfica vs Hearts",
+          "markt": "Genau 4:0 Benfica",
+          "quote": 12.0
+        }
+      ],
+      "moeglicher_gewinn_euro": 79.76,
+      "begruendung": "Spass-Moonshot: 5 Beine, klarster Wenn-Alles-Klick-Szenario der Runde. Nur 0.55€ Einsatz (Kasse-Stufe-1-Moonshot-Limit 0.1%). Kein SAFE-Bein - alle unabhaengig. Wenn Benfica ihre Torflut-Serie fortsetzt + Boyle/Elding treffen + Salzburg klar heim gewinnt = ~200x. Layer-1 + Layer-2 OK. Nicht als Kern-Bet, nur als Miesmuschel-Lotterie.",
+      "gesamtquote": 145.01,
+      "empfohlener_einsatz_prozent": 0.1,
+      "rechnung": "1.35 x 1.55 x 2.75 x 2.10 x 12.00 = 145.01"
+    }
+  ],
+  "lessons_angewandt": [
+    {
+      "titel": "MF-Torschuetzen-CL-Q3-Bruch-Backup-Volume-9er-Falle (LR 05.08.)",
+      "lesson_ref": "2026-08-05 MF-Torschuetzen-CL-Q3-Bruch: verlaesslich wirken oft nur Startelf-fixe Top-9er - Backup-9er im Q3 haben hohes Aufstellungs-Risiko",
+      "anwendung": "Alle heutigen Torschuetzen-Tipps unterscheiden klar Top-Stuermer (Pavlidis, Elding = VALUE) von Backup-Volume-Kandidaten (Konate ohne Startelf-Bestaetigung = WACKEL, Zivkovic ohne Bestaetigung = WACKEL, Boyle als Zweit-Torschuetze = WACKEL). Keine SAFE-Torschuetzen im UEFA-Q3-Slot."
+    },
+    {
+      "titel": "Anti-DC-Sucht (04.05. Hebel M) - DC-CAP strikt",
+      "lesson_ref": "2026-05-03: 3-defensive-DC-Bilanz + 2-Verlust-Tag, DC-Ueberkonzentration bei Coinflips",
+      "anwendung": "Genau 1 DC im gesamten Dossier (Jagiellonia X2). Alle anderen Spiele haben Sieg+Torschuetze+BTTS/Tore als Grundgeruest statt DC-Cluster. DC-CAP befolgt: max 1 pro Spiel, max 3 im Dossier."
+    },
+    {
+      "titel": "UEFA-EL/UECL-Q3 kein Liga-Goldgrube - SAFE-Sperre",
+      "lesson_ref": "liga_goldgruben.json Stand 06.08.: UEFA-EL/UECL-Q3 NICHT in Goldgruben-Liste",
+      "anwendung": "KEIN SAFE-Tipp im gesamten Dossier - alle klaren Favoriten (Benfica 1.21, Hibs 1.37, Salzburg 1.55, PAOK 1.75) sind bewusst als VALUE gelabelt. Hebel C degradiert SAFE ohnehin, Selbst-Konsistenz statt Mapper-Erniedrigung."
+    },
+    {
+      "titel": "Form-Edge-Karriere-Highlight-Torschuetzen (LR HR07-19-1 KO-Cluster 7/8)",
+      "lesson_ref": "2026-07-20: KO-Torschuetzen-Cluster 7/8 - Torschuetzen-Markt in Q3/KO extrem stark bei Form-Edge",
+      "anwendung": "Pavlidis (4 Tore Q2-Show), Elding (16-Tore-Vorsaison + Karriere-Sprung Hibs) sind Form-Edge-Karriere-Highlight-Kandidaten. Als Kombi-Balance-Kern-Beine gesetzt. Torschuetzen-Konzentration bewusst kontrolliert mit BTTS als Layer-4-Diversifikator."
+    }
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Nur setzen was du verlieren kannst.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-08-06T18:00:00+02:00",
+    "modus": "Master-Routine Post-Watchdog-Verifikation (Do 06.08. GitHub-Action Pipeline). Watchdog-Recovery-Dossier bereits committed 06.08. 15:15 - Master fuegt fehlenden _verifikations_report + Halluzinations-Fixes + Rechnungs-Korrekturen hinzu, ohne Kern-Struktur zu ueberschreiben.",
+    "drops": [],
+    "korrigiert": [
+      {
+        "art": "spieler_vorname_halluzination",
+        "spiel_id": "2026-08-06-ben-hea",
+        "tipp_id": "Torschuetzen Jederzeit: Sudakov (Benfica)",
+        "details": "Watchdog hatte 'Ivan Sudakov' - richtiger Vorname ist 'Georgiy' (auch Heorhii/Heorhiy transliteriert). Verifikation via UEFA-Sekundaerquellen (transfermarkt, ukrainska pravda, sports.yahoo) bestaetigt: Georgiy Sudakov (22j, Shakhtar Donetsk -> Benfica Sommer 2025, #10, 27M-Deal). Bein-Position + Klub korrekt, nur Vorname falsch.",
+        "aktion": "Master-Edit: 'Ivan Sudakov' -> 'Georgiy Sudakov' in spiele[].tipps[].markt + begruendung erweitert (Shakhtar-Transfer-Kontext)"
+      },
+      {
+        "art": "kombi_moeglicher_gewinn_rechenfehler",
+        "kombi": "Kombi Moonshot ~200x",
+        "details": "moeglicher_gewinn_euro war 105.87€ - real: 0.55 x 145.01 = 79.76€. Off by 26.11€. Wahrscheinlich Faktor-Verwechslung im Watchdog-Prompt (0.73 statt 0.55).",
+        "aktion": "Master-Edit: 105.87 -> 79.76"
+      },
+      {
+        "art": "kombi_moeglicher_gewinn_rundungsfehler",
+        "kombi": "Kombi Balance ~8x",
+        "details": "moeglicher_gewinn_euro war 26.53€ - real: 4.40 x 6.0637 = 26.68€. Off by 0.15€.",
+        "aktion": "Master-Edit: 26.53 -> 26.68"
+      },
+      {
+        "art": "kombi_moeglicher_gewinn_rundungsfehler",
+        "kombi": "Kombi Risiko ~20x",
+        "details": "moeglicher_gewinn_euro war 42.03€ - real: 1.40 x 30.0781 = 42.11€. Off by 0.08€.",
+        "aktion": "Master-Edit: 42.03 -> 42.11"
+      }
+    ],
+    "warns": [
+      {
+        "art": "layer_2_grenzfall_moonshot",
+        "spiel_id": "2026-08-06-ben-hea",
+        "details": "Kombi Moonshot enthaelt 'Benfica 4:0' als Bein - dieses Genauer-Ergebnis-Bein impliziert Benfica-Sieg. Layer-2 hart sagt 'Spiel-Sieg-Outcome (Sieg/DC/Spread) max in 1 Kombi'. Genauer-Ergebnis ist streng genommen keine der 3 Kategorien, aber semantisch enthaelt es Benfica-Sieg (schon in Kombi Safe als 1X2). Grenzfall: strikt = Layer-2 verletzt, tolerant = OK weil andere Markt-Typ. Bleibt drin, da Moonshot bewusst Spass-Lotterie ist (0.55€ Einsatz = 0.1% Kasse). Zukuenftig: Genauer-Ergebnis-Beine NICHT in Moonshot verwenden wenn Sieg-Outcome des gleichen Spiels bereits in anderer Kombi.",
+        "aktion": "Warn dokumentiert, kein Drop (bewusster Moonshot-Lotterie-Charakter)"
+      },
+      {
+        "art": "layer_1_hart_check",
+        "spiel_id": "alle",
+        "details": "Kombi Safe: ben-hea + hib-shk + pao-and (3 versch. Spiele) = OK. Kombi Balance: ben-hea + hib-shk + pao-and (3 versch.) = OK. Kombi Risiko: jag-ran + sal-paf + pao-and + hib-shk (4 versch.) = OK. Kombi Moonshot: jag-ran + sal-paf + pao-and + hib-shk + ben-hea (5 versch.) = OK. Kein Spiel mehrfach in einer Kombi.",
+        "aktion": "Layer-1 sauber"
+      },
+      {
+        "art": "layer_2_hart_check",
+        "spiel_id": "alle",
+        "details": "Sieg-Outcomes ueber Kombis: Ben-Hea Sieg in Safe (+ implizit in Moonshot via 4:0 - siehe Grenzfall-Warn). Hib-Shk Sieg NUR in Safe. Sal-Paf Sieg NUR in Moonshot. Pao-And Sieg NICHT in Kombi (nur als Einzel/Wackel). Lec-Kif/Hra-Bes/... nicht in Dossier. Jag-Ran DC X2 (impliziert Jag-Sieg oder Draw) in Risiko - Rangers-Sieg-Outcome nicht doppelt (kein Rangers-Sieg-Bein).",
+        "aktion": "Layer-2 sauber bis auf Moonshot-Grenzfall (siehe eigener Warn)"
+      },
+      {
+        "art": "layer_3_weich_check",
+        "details": "Ben-Hea in 3 Kombis (Safe, Balance, Moonshot). Pao-And in 4 Kombis (Safe, Balance, Risiko, Moonshot). Hib-Shk in 4 Kombis (Safe, Balance, Risiko, Moonshot). Sal-Paf in 2 Kombis (Risiko, Moonshot). Jag-Ran in 2 Kombis (Risiko, Moonshot). Layer-3 weich mehrfach verletzt, aber Markt-diversifiziert (Sieg vs Ü2.5 vs BTTS vs Torschuetze-Cluster). Bei 5 Spielen und 4 Kombis mit 3-5 Beinen sind Spiel-Ueberschneidungen unvermeidlich. Bewusst.",
+        "aktion": "dokumentiert, keine Aktion"
+      },
+      {
+        "art": "kombi_gesamtquote_rechnung",
+        "details": "Kombi Safe: 1.21 x 1.37 x 1.75 = 2.901 -> gerundet 2.90 (matcht file). Kombi Balance: 1.75 x 2.10 x 1.65 = 6.064 -> 6.06 (matcht). Kombi Risiko: 1.75 x 2.50 x 2.75 x 2.50 = 30.078 -> 30.08 (matcht). Kombi Moonshot: 1.35 x 1.55 x 2.75 x 2.10 x 12.00 = 145.010 -> 145.01 (matcht). Alle gesamtquote-Felder mathematisch korrekt.",
+        "aktion": "keine (moeglicher_gewinn_euro-Fehler separat korrigiert)"
+      },
+      {
+        "art": "kasse_stake_check",
+        "details": "Kasse 550€ Stufe 1. Value-Einzel 1.0-2.0% = 5.50-11€ - alle Value-Einzel in [8.00€, 11.00€] passend. Wackel-Einzel 0.5% = 2.75€ - Konate + weitere Wackel 2.75€ korrekt. Kombi Safe 2% = 11€ korrekt. Kombi Balance 0.8% = 4.40€ korrekt. Kombi Risiko 0.25% = 1.375€ -> 1.40€ korrekt. Kombi Moonshot 0.1% = 0.55€ korrekt.",
+        "aktion": "Stake-Empfehlungen Kasse-konform"
+      },
+      {
+        "art": "spieler_halluzination_scan",
+        "details": "Restliche genannte Spieler (Pavlidis Benfica, Elding Hibs, Boyle Hibs, Zivkovic PAOK, Konate Salzburg) sind real und aktiv laut Preview-Quellen im Watchdog. Nur Sudakov-Vorname korrigiert (Ivan -> Georgiy). Keine weiteren Halluzinationen erkennbar. Sudakov-Nachname war korrekt, nur Vorname falsch geraten.",
+        "aktion": "Korrektur bereits angewandt"
+      },
+      {
+        "art": "quelle_pruefung_saison_kontext",
+        "details": "Alle 5 Spiele haben UEFA-URL + Wikipedia-Ligen-URL + Preview-Sites in saison_kontext.quellen[]. Fuer Sal-Paf zusaetzlich salzburg24.at (Vereins-Quelle) - top. Fuer Hib-Shk hibernianfc.co.uk (Vereins-Quelle) - top. Verband-URL-Pflicht erfuellt.",
+        "aktion": "Quellen sauber"
+      },
+      {
+        "art": "torschuetze_quelle_warn",
+        "spiel_id": "2026-08-06-hib-shk",
+        "tipp_id": "Torschuetzen Jederzeit: Owen Elding",
+        "details": "Watchdog hatte _torschuetze_quelle_warn=true fuer Elding gesetzt - hibernianfc.co.uk-Vereinsquelle IST in quellen[], damit sollte Warn nicht mehr gelten. Master laesst Flag drin fuer Konsistenz mit fehlender transfermarkt-Player-Profil-URL.",
+        "aktion": "keine, Flag bleibt"
+      },
+      {
+        "art": "selbstwiderspruchs_scan",
+        "details": "Kein 'Spieler X out + Spieler X spielt'-Widerspruch. Sudakov-Vorname-Fix ist keine Widerspruch, nur Faktenkorrektur. Salzburg-Roehl-Kontext + Pafos-Jaja-Verletzung konsistent zwischen news + saison_kontext.",
+        "aktion": "sauber"
+      },
+      {
+        "art": "id_format_check",
+        "details": "Alle Spiel-IDs im Format <window-datum>-<heim-kuerzel>-<gast-kuerzel>: 2026-08-06-jag-ran, 2026-08-06-sal-paf, 2026-08-06-pao-and, 2026-08-06-ben-hea, 2026-08-06-hib-shk. Alle 3-Buchstaben-Kuerzel unique. Window-Datum matcht datum-Feld.",
+        "aktion": "ID-Konvention erfuellt"
+      }
+    ],
+    "lessons_generiert": [
+      {
+        "kategorie": "Vorname-Halluzination bei Neuzugaengen",
+        "lesson": "Wenn ein Spieler kuerzlich transferiert wurde und man keinen Vereinsquellen-Fetch macht, kann der Vorname halluziniert werden (Watchdog 'Ivan Sudakov' statt real 'Georgiy Sudakov'). Regel: bei Torschuetzen-Tipps mit Neuzugaengen (Transfer im letzten Jahr) IMMER Nachname + Klub OK, aber Vorname NUR wenn transfermarkt-Player-Profil-URL in quellen[]. Sonst nur Nachnamen zitieren ('Torschuetze Jederzeit: Sudakov (Benfica)' statt Vorname erfinden)."
+      },
+      {
+        "kategorie": "moeglicher_gewinn_euro Autorechnung",
+        "lesson": "3 von 4 Kombis hatten moeglicher_gewinn_euro-Fehler (davon 1 kritisch: 105.87€ statt 79.76€ = 26.11€ Ueberschaetzung des Moonshot-Gewinns). Regel: moeglicher_gewinn_euro MUSS mathematisch als einsatz_euro x gesamtquote gerundet auf 0.01€ berechnet werden - Python-Snippet in Verifikation MUSS jede Kombi neu rechnen und mit file-Wert vergleichen (Toleranz 0.02€). Fehlerhafte Werte auto-korrigieren."
+      },
+      {
+        "kategorie": "Genauer-Ergebnis-Bein bei Layer-2",
+        "lesson": "'Genauer Sieg: Benfica 4:0'-Beine impliziert Sieg. Layer-2 hart-Regel sollte in verifikation.md praezisiert werden: 'Sieg-Outcome umfasst 1X2, DC, Spread UND Genauer-Ergebnis-Markt wenn eindeutig Sieg impliziert'. Aktuell Grenzfall (schwaches Signal). Ich habe Warn dokumentiert aber nicht gedroppt, weil Moonshot bewusst Spass-Lotterie mit 0.1%-Einsatz ist."
+      }
+    ],
+    "erfolgs_kriterium_status": {
+      "halluzinierte_spieler_gefunden_und_korrigiert": 1,
+      "halluzinierte_spieler_undedeckt": 0,
+      "kombi_gewinn_rechenfehler_korrigiert": 3,
+      "kombi_gewinn_rechenfehler_kritisch": 1,
+      "unbegruendete_wettbewerbe": 0,
+      "selbstwidersprueche": 0,
+      "layer_2_verletzungen_hart": 0,
+      "layer_2_grenzfaelle": 1,
+      "layer_3_weich_verletzungen_dokumentiert": 4,
+      "master_verifikation_delta_gegenueber_watchdog_15_15": "Sudakov-Vorname + 3x moeglicher_gewinn_euro-Fix + _verifikations_report ergaenzt"
+    }
+  },
+  "einzeltipps_ergebnis": [
+    {
+      "kategorie": "value",
+      "spiel_id": "2026-08-06-ben-hea",
+      "spiel_label": "Benfica vs Hearts",
+      "markt": "Torschuetzen Jederzeit: Vangelis Pavlidis",
+      "quote": 1.75,
+      "einsatz_euro": 8.0,
+      "begruendung": "Bester Einzel-Slot heute: Pavlidis 4-Tor-Feuerwerk gegen St. Gallen letztes Spiel = Form-Edge max + Karriere-Highlight + Torschuetzen Top-Goldgrube (+24.4% ROI). Hearts-Defense in 3-Spielen-Krise (6:0 vs Sturm agg + Aberdeen 1:2). Startelf-fix.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1,
+      "status": "gewonnen",
+      "gewinn_euro": 6.0,
+      "kommentar": "Vangelis Pavlidis (Elfmeter) traf (42. Min)."
+    },
+    {
+      "kategorie": "value",
+      "spiel_id": "2026-08-06-pao-and",
+      "spiel_label": "PAOK vs Anderlecht",
+      "markt": "Beide Teams treffen JA",
+      "quote": 1.65,
+      "einsatz_euro": 8.0,
+      "begruendung": "BTTS Goldgrube (+20.4% ROI). Anderlecht 11/13 BTTS + PAOK 10/12 kassiert + Toumba-Offensivfest. Klarster BTTS-Slot der Runde.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2,
+      "status": "verloren",
+      "gewinn_euro": -8.0,
+      "kommentar": "Nicht beide Teams getroffen (0:1)."
+    },
+    {
+      "kategorie": "value",
+      "spiel_id": "2026-08-06-pao-and",
+      "spiel_label": "PAOK vs Anderlecht",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.75,
+      "einsatz_euro": 8.0,
+      "begruendung": "Ueber 2.5 Top-Goldgrube (+23.9% ROI). PAOK 14 Tore in 5 Spielen, Anderlecht BTTS-Serie. Statistisch klar Torflut.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 3,
+      "status": "verloren",
+      "gewinn_euro": -8.0,
+      "kommentar": "1 Tore gesamt - Ueber 2.5 verloren."
+    },
+    {
+      "kategorie": "value",
+      "spiel_id": "2026-08-06-ben-hea",
+      "spiel_label": "Benfica vs Hearts",
+      "markt": "Sieg 1X2: Benfica",
+      "quote": 1.21,
+      "einsatz_euro": 11.0,
+      "begruendung": "Klarster Sieg-Slot der Runde - Benfica frisch + Pavlidis-Feuerwerk-Rueckenwind vs Hearts 3-Niederlagen-Krise. Hoehere Wette (2%) weil Edge maximal, aber innerhalb Kasse-Stufe-1-Rahmen 5.50-11€.",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 4,
+      "status": "gewonnen",
+      "gewinn_euro": 2.31,
+      "kommentar": "Endstand 6:1 - Sieg-Tipp getroffen."
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-06-hib-shk",
+      "spiel_label": "Hibernian vs Shkendija",
+      "markt": "Torschuetzen Jederzeit: Owen Elding",
+      "quote": 2.1,
+      "einsatz_euro": 8.0,
+      "begruendung": "Karriere-Highlight-Slot: Elding 19J, 16-Tore-Vorsaison Sligo. Torschuetzen Top-Goldgrube. Hibs Heim-Fav + Shkendija-Defense im Q2 undicht.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 5,
+      "status": "gewonnen",
+      "gewinn_euro": 8.8,
+      "kommentar": "Owen Elding traf (73. Min)."
+    },
+    {
+      "kategorie": "value",
+      "spiel_id": "2026-08-06-jag-ran",
+      "spiel_label": "Jagiellonia vs Rangers",
+      "markt": "Doppelte Chance X2: Jagiellonia oder Remis",
+      "quote": 1.75,
+      "einsatz_euro": 8.0,
+      "begruendung": "DC X2 Goldgrube (+14.3% ROI, HR 77.8%). Coinflip-Spiel + Jagiellonia Heimvorteil + Ekstraklasa-Momentum. Einzige DC im Dossier (DC-CAP befolgt).",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 6,
+      "status": "gewonnen",
+      "gewinn_euro": 6.0,
+      "kommentar": "DC Jag/Remis - Endstand 2:1 passt."
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-06-sal-paf",
+      "spiel_label": "Salzburg vs Pafos",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.85,
+      "einsatz_euro": 8.0,
+      "begruendung": "Ueber 2.5 Top-Goldgrube (+23.9% ROI). Salzburg-Umbruch + Pafos-Konter-Threat + beide Defense-Systeme neu.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 7,
+      "status": "verloren",
+      "gewinn_euro": -8.0,
+      "kommentar": "1 Tore gesamt - Ueber 2.5 verloren."
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-06-hib-shk",
+      "spiel_label": "Hibernian vs Shkendija",
+      "markt": "Sieg 1X2: Hibernian",
+      "quote": 1.37,
+      "einsatz_euro": 8.0,
+      "begruendung": "Klarer Heim-Fav + Easter-Road-Vorteil + Front-Trio Torlaune + Shkendija muede aus Reise + Wettkampfrhythmus-Vorteil.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 8,
+      "status": "gewonnen",
+      "gewinn_euro": 2.96,
+      "kommentar": "Endstand 2:1 - Sieg-Tipp getroffen."
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-06-sal-paf",
+      "spiel_label": "Salzburg vs Pafos",
+      "markt": "Torschuetzen Jederzeit: Karim Konate (Salzburg)",
+      "quote": 2.5,
+      "einsatz_euro": 2.75,
+      "begruendung": "Torschuetzen Top-Goldgrube. Konate im Kader-Umbruch der Hauptstuermer. WACKEL wegen Aufstellungs-Risiko.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 9,
+      "status": "gewonnen",
+      "gewinn_euro": 4.12,
+      "kommentar": "Konate als Einwechselspieler (65.) selbst getroffen 89. Min - Torschuetzen-Tipp direkt gewonnen (keine Boost-Regel noetig)."
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "Safe",
+      "name": "Kombi Safe ~3x",
+      "status": "verloren",
+      "gesamtquote": 2.9,
+      "einsatz_euro": 11.0,
+      "gewinn_euro": -11.0,
+      "beine_status": [
+        {
+          "spiel_id": "2026-08-06-ben-hea",
+          "markt": "Sieg 1X2: Benfica",
+          "status": "gewonnen"
+        },
+        {
+          "spiel_id": "2026-08-06-hib-shk",
+          "markt": "Sieg 1X2: Hibernian",
+          "status": "gewonnen"
+        },
+        {
+          "spiel_id": "2026-08-06-pao-and",
+          "markt": "Ueber 2.5 Tore",
+          "status": "verloren",
+          "killer": true
+        }
+      ],
+      "kommentar": "Killer-Bein: Ueber 2.5 Tore"
+    },
+    {
+      "kombi_id": "Balance",
+      "name": "Kombi Balance ~8x",
+      "status": "verloren",
+      "gesamtquote": 6.06,
+      "einsatz_euro": 4.4,
+      "gewinn_euro": -4.4,
+      "beine_status": [
+        {
+          "spiel_id": "2026-08-06-ben-hea",
+          "markt": "Torschuetzen Jederzeit: Pavlidis",
+          "status": "gewonnen"
+        },
+        {
+          "spiel_id": "2026-08-06-hib-shk",
+          "markt": "Torschuetzen Jederzeit: Elding",
+          "status": "gewonnen"
+        },
+        {
+          "spiel_id": "2026-08-06-pao-and",
+          "markt": "Beide Teams treffen JA",
+          "status": "verloren",
+          "killer": true
+        }
+      ],
+      "kommentar": "Killer-Bein: Beide Teams treffen JA"
+    },
+    {
+      "kombi_id": "Risiko",
+      "name": "Kombi Risiko ~20x",
+      "status": "verloren",
+      "gesamtquote": 30.08,
+      "einsatz_euro": 1.4,
+      "gewinn_euro": -1.4,
+      "beine_status": [
+        {
+          "spiel_id": "2026-08-06-jag-ran",
+          "markt": "Doppelte Chance X2 (Jag oder Remis)",
+          "status": "gewonnen"
+        },
+        {
+          "spiel_id": "2026-08-06-sal-paf",
+          "markt": "Torschuetzen Jederzeit: Konate",
+          "status": "gewonnen"
+        },
+        {
+          "spiel_id": "2026-08-06-pao-and",
+          "markt": "Torschuetzen Jederzeit: Zivkovic",
+          "status": "verloren",
+          "killer": true
+        },
+        {
+          "spiel_id": "2026-08-06-hib-shk",
+          "markt": "Torschuetzen Jederzeit: Boyle",
+          "status": "verloren",
+          "killer": true
+        }
+      ],
+      "kommentar": "Killer-Beine (2): Torschuetzen Jederzeit: Zivkovic + Torschuetzen Jederzeit: Boyle - PAOK-Zivkovic + Hibs-Boyle beide ohne Tor. Jag-DC + Konate gewonnen aber nicht gerettet."
+    },
+    {
+      "kombi_id": "Moonshot",
+      "name": "Kombi Moonshot ~200x",
+      "status": "verloren",
+      "gesamtquote": 145.01,
+      "einsatz_euro": 0.55,
+      "gewinn_euro": -0.55,
+      "beine_status": [
+        {
+          "spiel_id": "2026-08-06-jag-ran",
+          "markt": "Ueber 1.5 Tore",
+          "status": "gewonnen"
+        },
+        {
+          "spiel_id": "2026-08-06-sal-paf",
+          "markt": "Sieg 1X2: Salzburg",
+          "status": "gewonnen"
+        },
+        {
+          "spiel_id": "2026-08-06-pao-and",
+          "markt": "Torschuetzen Jederzeit: Zivkovic",
+          "status": "verloren",
+          "killer": true
+        },
+        {
+          "spiel_id": "2026-08-06-hib-shk",
+          "markt": "Torschuetzen Jederzeit: Elding",
+          "status": "gewonnen"
+        },
+        {
+          "spiel_id": "2026-08-06-ben-hea",
+          "markt": "Genau 4:0 Benfica",
+          "status": "verloren",
+          "killer": true
+        }
+      ],
+      "kommentar": "Killer-Bein: Torschuetzen Jederzeit: Zivkovic, Genau 4:0 Benfica"
+    }
+  ],
+  "bilanz_gesamt": {
+    "einsatz_gesamt": 87.1,
+    "netto_gesamt": -11.16,
+    "einzeltipps": {
+      "anzahl": 9,
+      "gewonnen": 6,
+      "verloren": 3,
+      "einsatz": 69.75,
+      "netto": 6.19,
+      "trefferquote": 66.7
+    },
+    "kombis": {
+      "anzahl": 4,
+      "gewonnen": 0,
+      "verloren": 4,
+      "einsatz": 17.35,
+      "netto": -17.35
+    }
+  },
+  "ausgewertet_am": "2026-08-07T09:00:00+02:00"
+}

@@ -1,37 +1,37 @@
 {
-  "letzte_berechnung": "2026-08-06T07:15:28+00:00",
+  "letzte_berechnung": "2026-08-07T07:16:39+00:00",
   "gesamt": {
-    "tipps": 434,
-    "gewonnen": 227,
-    "verloren": 196,
+    "tipps": 443,
+    "gewonnen": 233,
+    "verloren": 199,
     "push": 2,
     "offen": 9,
-    "einsatz": 425.0,
+    "einsatz": 434.0,
     "netto": 42.82,
-    "trefferquote": 53.7,
-    "roi_prozent": 10.1
+    "trefferquote": 53.9,
+    "roi_prozent": 9.9
   },
   "letzte_30_tage": {
-    "tipps": 77,
-    "gewonnen": 34,
+    "tipps": 78,
+    "gewonnen": 35,
     "verloren": 43,
     "push": 0,
     "offen": 0,
-    "einsatz": 77.0,
+    "einsatz": 78.0,
     "netto": 9.34,
-    "trefferquote": 44.2,
-    "roi_prozent": 12.1
+    "trefferquote": 44.9,
+    "roi_prozent": 12.0
   },
   "letzte_90_tage": {
-    "tipps": 406,
+    "tipps": 404,
     "gewonnen": 211,
-    "verloren": 184,
+    "verloren": 182,
     "push": 2,
     "offen": 9,
-    "einsatz": 397.0,
-    "netto": 20.55,
-    "trefferquote": 53.4,
-    "roi_prozent": 5.2
+    "einsatz": 395.0,
+    "netto": 10.36,
+    "trefferquote": 53.7,
+    "roi_prozent": 2.6
   },
   "nach_liga": {
     "Champions League Halbfinale Rueckspiel": {
@@ -946,6 +946,39 @@
       "netto": 0.0,
       "trefferquote": 75.0,
       "roi_prozent": 0.0
+    },
+    "UEFA Europa League - 3. Qualifikationsrunde (League Path)": {
+      "tipps": 5,
+      "gewonnen": 3,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 5.0,
+      "netto": 0.0,
+      "trefferquote": 60.0,
+      "roi_prozent": 0.0
+    },
+    "UEFA Conference League - 3. Qualifikationsrunde": {
+      "tipps": 2,
+      "gewonnen": 2,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 0.0,
+      "trefferquote": 100.0,
+      "roi_prozent": 0.0
+    },
+    "UEFA Europa League - 3. Qualifikationsrunde (Champions Path)": {
+      "tipps": 2,
+      "gewonnen": 1,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 0.0,
+      "trefferquote": 50.0,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt": {
@@ -1698,15 +1731,15 @@
       "roi_prozent": 43.8
     },
     "Beide Teams treffen JA": {
-      "tipps": 4,
+      "tipps": 6,
       "gewonnen": 2,
-      "verloren": 0,
+      "verloren": 2,
       "push": 0,
       "offen": 2,
-      "einsatz": 2.0,
+      "einsatz": 4.0,
       "netto": 2.22,
-      "trefferquote": 100.0,
-      "roi_prozent": 111.0
+      "trefferquote": 50.0,
+      "roi_prozent": 55.5
     },
     "Sieg Girona (1X2)": {
       "tipps": 1,
@@ -4039,6 +4072,50 @@
       "netto": 0.0,
       "trefferquote": 75.0,
       "roi_prozent": 0.0
+    },
+    "Sieg 1X2: Benfica": {
+      "tipps": 2,
+      "gewonnen": 2,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 0.0,
+      "trefferquote": 100.0,
+      "roi_prozent": 0.0
+    },
+    "Sieg 1X2: Hibernian": {
+      "tipps": 2,
+      "gewonnen": 2,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 0.0,
+      "trefferquote": 100.0,
+      "roi_prozent": 0.0
+    },
+    "Doppelte Chance X2: Jagiellonia oder Remis": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 100.0,
+      "roi_prozent": 0.0
+    },
+    "Sieg 1X2: Salzburg": {
+      "tipps": 2,
+      "gewonnen": 1,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 0.0,
+      "trefferquote": 50.0,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt_typ": {
@@ -4054,15 +4131,15 @@
       "roi_prozent": -1.2
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 130,
-      "gewonnen": 74,
-      "verloren": 55,
+      "tipps": 136,
+      "gewonnen": 79,
+      "verloren": 56,
       "push": 0,
       "offen": 1,
-      "einsatz": 129.0,
+      "einsatz": 135.0,
       "netto": 7.76,
-      "trefferquote": 57.4,
-      "roi_prozent": 6.0
+      "trefferquote": 58.5,
+      "roi_prozent": 5.7
     },
     "Torschuetzen Jederzeit": {
       "tipps": 98,
@@ -4131,15 +4208,15 @@
       "roi_prozent": 23.3
     },
     "Beide Teams treffen JA": {
-      "tipps": 14,
+      "tipps": 16,
       "gewonnen": 6,
-      "verloren": 6,
+      "verloren": 8,
       "push": 0,
       "offen": 2,
-      "einsatz": 12.0,
+      "einsatz": 14.0,
       "netto": 2.45,
-      "trefferquote": 50.0,
-      "roi_prozent": 20.4
+      "trefferquote": 42.9,
+      "roi_prozent": 17.5
     },
     "Barcelona oder Remis (1X)": {
       "tipps": 1,
@@ -4230,15 +4307,15 @@
       "roi_prozent": 21.0
     },
     "Doppelte Chance X2": {
-      "tipps": 29,
-      "gewonnen": 21,
+      "tipps": 30,
+      "gewonnen": 22,
       "verloren": 6,
       "push": 0,
       "offen": 2,
-      "einsatz": 27.0,
+      "einsatz": 28.0,
       "netto": 3.85,
-      "trefferquote": 77.8,
-      "roi_prozent": 14.3
+      "trefferquote": 78.6,
+      "roi_prozent": 13.7
     },
     "Unter 2.5 Tore": {
       "tipps": 23,
@@ -4452,26 +4529,26 @@
   },
   "nach_quoten_range": {
     "1.00-1.50": {
-      "tipps": 154,
-      "gewonnen": 98,
+      "tipps": 158,
+      "gewonnen": 102,
       "verloren": 52,
       "push": 0,
       "offen": 4,
-      "einsatz": 150.0,
+      "einsatz": 154.0,
       "netto": 13.0,
-      "trefferquote": 65.3,
-      "roi_prozent": 8.7
+      "trefferquote": 66.2,
+      "roi_prozent": 8.4
     },
     "1.50-2.00": {
-      "tipps": 186,
-      "gewonnen": 98,
-      "verloren": 83,
+      "tipps": 191,
+      "gewonnen": 100,
+      "verloren": 86,
       "push": 1,
       "offen": 4,
-      "einsatz": 182.0,
+      "einsatz": 187.0,
       "netto": 22.59,
-      "trefferquote": 54.1,
-      "roi_prozent": 12.4
+      "trefferquote": 53.8,
+      "roi_prozent": 12.1
     },
     "2.00-3.00": {
       "tipps": 68,
@@ -4509,26 +4586,26 @@
       "roi_prozent": 8.6
     },
     "wackel": {
-      "tipps": 114,
-      "gewonnen": 49,
-      "verloren": 65,
+      "tipps": 116,
+      "gewonnen": 50,
+      "verloren": 66,
       "push": 0,
       "offen": 0,
-      "einsatz": 114.0,
+      "einsatz": 116.0,
       "netto": 2.15,
-      "trefferquote": 43.0,
+      "trefferquote": 43.1,
       "roi_prozent": 1.9
     },
     "value": {
-      "tipps": 261,
-      "gewonnen": 142,
-      "verloren": 108,
+      "tipps": 268,
+      "gewonnen": 147,
+      "verloren": 110,
       "push": 2,
       "offen": 9,
-      "einsatz": 252.0,
+      "einsatz": 259.0,
       "netto": 36.46,
-      "trefferquote": 56.8,
-      "roi_prozent": 14.5
+      "trefferquote": 57.2,
+      "roi_prozent": 14.1
     },
     "risiko": {
       "tipps": 3,
@@ -4575,6 +4652,149 @@
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-08-06",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "Kombi Safe ~3x",
+          "kategorie": "",
+          "gesamtquote": 2.9,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg 1X2: Benfica",
+              "quote": 1.21,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg 1X2: Hibernian",
+              "quote": 1.37,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Kombi Balance ~8x",
+          "kategorie": "",
+          "gesamtquote": 6.06,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Torschuetzen Jederzeit: Pavlidis",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Torschuetzen Jederzeit: Elding",
+              "quote": 2.1,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen JA",
+              "quote": 1.65,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Kombi Risiko ~20x",
+          "kategorie": "",
+          "gesamtquote": 30.08,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Doppelte Chance X2 (Jag oder Remis)",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Torschuetzen Jederzeit: Konate",
+              "quote": 2.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Torschuetzen Jederzeit: Zivkovic",
+              "quote": 2.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Torschuetzen Jederzeit: Boyle",
+              "quote": 2.5,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Kombi Moonshot ~200x",
+          "kategorie": "",
+          "gesamtquote": 145.01,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Ueber 1.5 Tore",
+              "quote": 1.35,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg 1X2: Salzburg",
+              "quote": 1.55,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Torschuetzen Jederzeit: Zivkovic",
+              "quote": 2.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Torschuetzen Jederzeit: Elding",
+              "quote": 2.1,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Genau 4:0 Benfica",
+              "quote": 12.0,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-08-05",
       "gesamt": {
