@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-07T17:57:29.937735+00:00",
+  "stand": "2026-08-07T22:42:57.559372+00:00",
   "gesendet": {
     "2026-08-07-est-fam": {
       "sent_at": "2026-08-07T16:54:10.619004+00:00",
@@ -17,6 +17,12 @@
       "sent_at": "2026-08-07T17:57:28.210441+00:00",
       "anstoss": "2026-08-07T20:45:00+02:00",
       "spiel": "Club Brugge vs KV Kortrijk",
+      "top_tipp": "Ueber 2.5 Tore"
+    },
+    "2026-08-07-cea-pon": {
+      "sent_at": "2026-08-07T22:42:56.283128+00:00",
+      "anstoss": "2026-08-08T01:30:00+02:00",
+      "spiel": "Ceara SC vs AA Ponte Preta",
       "top_tipp": "Ueber 2.5 Tore"
     }
   }
