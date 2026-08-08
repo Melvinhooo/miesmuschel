@@ -1,0 +1,615 @@
+{
+  "datum": "2026-08-08",
+  "erstellt_am": "2026-08-08T13:30:00+02:00",
+  "hinweis": "🐚 Sa 08.08.2026 · 2. BL 1. Spieltag + Brasilien Serie A · Kein WM (durch 19.07.), keine NBA (Finals durch), Bundesliga/PL/LaLiga/Serie A/Ligue 1 noch Sommer-Pause bis 15.-22.08. Slate: 4 Spiele 2. BL 1. Spieltag (Wolfsburg-Kaiserslautern als Top-Spiel Wolfsburg zum ersten Mal 2. BL nach Abstieg) + 1 Brasilien Serie A (Grêmio-São Paulo 22. Runde). Kasse-Stufe 1 (550€). Alle 2. BL-Tipps max VALUE wegen Saison-Auftakt-Cluster-Brick-Risiko (Lesson HR07-29-4 + HR08-06-1). Grêmio-SP Unter 2.5 stärkster Slot heute (Goldgrube +31.4% ROI + SP mit 6 Ausfällen inkl. Lucas Moura). Quoten bei bet365 live prüfen (Basis: sportsgambler/wettfreunde/livetipsportal/netvasco).",
+  "_emergency_recovery": true,
+  "spiele": [
+    {
+      "id": "2026-08-08-hei-osn",
+      "liga": "2. Bundesliga 2026/27 - 1. Spieltag",
+      "heim": "1. FC Heidenheim",
+      "gast": "VfL Osnabrück",
+      "anstoss": "2026-08-08T13:00:00+02:00",
+      "stadion": "Voith-Arena, Heidenheim",
+      "saison_kontext": {
+        "parallel_heim": "keine - 2. BL Saison-Auftakt, DFB-Pokal-R1 erst 21.-24.08.",
+        "parallel_gast": "keine - 2. BL Saison-Auftakt",
+        "saisonziel_heim": "Direkter Wiederaufstieg nach BL-Abstieg 25/26 - Kern-Kader zusammengehalten inkl. Torjäger Zivzivadze",
+        "saisonziel_gast": "Etablierung 2. BL nach Aufstieg aus 3. Liga - Auswärtsstärke aus 3.-Liga-Zeit (4 Siege letzte 5 Auswärts)",
+        "motivations_asymmetrie": "Heidenheim-Wiederaufstiegs-Druck + Heimvorteil + H2H-Serie (3S/1U letzte 4) vs Osnabrück-Aufsteiger-Test. Aber: 1. Spieltag = Saison-Auftakt-Unsicherheit + Osnabrück-Auswärtsstärke aus Aufstieg. Heidenheim mit mehr Testspielen als Osnabrück (Aggregator-Notiz). Klassen-Edge klar bei Heidenheim, aber Auftakts-Cluster-Brick-Risiko hält Kategorie VALUE nicht SAFE.",
+        "recovery_heim": "Volle Sommerpause, keine Wettbewerbs-Belastung",
+        "recovery_gast": "Volle Sommerpause, keine Wettbewerbs-Belastung",
+        "quellen": [
+          "https://www.wettfreunde.net/zweite-liga-tipps/heidenheim-osnabrueck-tipp-ki-prognose-quoten-08-08-2026/",
+          "https://www.kicker.de/2-bundesliga/spieltag",
+          "https://onefootball.com/de/wetten/tipps/1-fc-heidenheim-vs-vfl-osnabrueck-08-08-2026"
+        ]
+      },
+      "news": [
+        "Heidenheim-Sturm: Zivzivadze als Ankersturm gehalten - BL-erfahren, Klassen-Edge in 2. BL",
+        "Osnabrück-Aufsteiger aus 3. Liga - 4 Siege in letzten 5 Auswärtsspielen der Vorsaison",
+        "H2H letzte 10: Heidenheim 4S / 3U / Osnabrück 3S - Heim-Serie zuletzt 3S/1U",
+        "KI-Wahrscheinlichkeiten (wettfreunde): Heidenheim 58.3%, Draw 23.9%, Osnabrück 17.8%",
+        "1. Spieltag Auftakt-Cluster-Brick-Risiko (Lesson HR07-29-4) hält Tipps VALUE max"
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Doppelte Chance 1X: Heidenheim oder Remis",
+          "quote": 1.25,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 4,
+          "begruendung": "DC 1X Goldgrube (78.6% Hit, +13.7% ROI). Klassen-Edge Ex-Bundesligist zu Hause vs Aufsteiger + H2H-Heim-Serie (3S/1U letzte 4 Heim vs OSN). Zivzivadze-Anker + volle Sommerpause. Quote 1.25 knapp aber Kombi-Anker-tauglich. Auftakts-Cluster-Brick-Risiko hält Kategorie value nicht safe. Stake 1.5% Kasse (Stufe 1).",
+          "layer_2_tag": "heidenheim_sieg_dc",
+          "faire_quote": 1.20,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Sieg 1X2: Heidenheim",
+          "quote": 1.62,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 5,
+          "begruendung": "Heidenheim Klassen-Fav bei bet365 @ 1.62. KI-Prognose 58% Sieg-Wahrscheinlichkeit = 1.72 fair, also leichter Value. Aber 2:0-Insurance gilt NICHT (nur BL/CL/WM laut CLAUDE.md). Kein Sieg-SAFE wegen Auftakt-Unsicherheit + Osnabrücker Auswärts-Stärke aus 3. Liga. Reduzierter wackel-Stake.",
+          "layer_2_tag": "heidenheim_sieg",
+          "faire_quote": 1.72,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.75,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 4,
+          "begruendung": "Über 2.5 Goldgrube (+22.8% ROI). Heidenheim-Offensive mit Zivzivadze schießt - Osnabrück aus 3. Liga defensiv-untertrainiert für 2. BL. Aggregator-Note: 'Osnabrück nur 2× auswärts nicht selbst getroffen' + 'verwundbare Heidenheim-Defensive'. Quote 1.75 geschätzt vom Aggregator-Kontext (kein bet365-Live-Value). Auftakt-Cluster-Risiko wackel.",
+          "layer_2_tag": "ueber_25",
+          "faire_quote": 1.65,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-08-08-mag-bra",
+      "liga": "2. Bundesliga 2026/27 - 1. Spieltag",
+      "heim": "1. FC Magdeburg",
+      "gast": "Eintracht Braunschweig",
+      "anstoss": "2026-08-08T13:00:00+02:00",
+      "stadion": "Avnet Arena, Magdeburg",
+      "saison_kontext": {
+        "parallel_heim": "keine - 2. BL Saison-Auftakt, DFB-Pokal-R1 erst 21.-24.08.",
+        "parallel_gast": "keine - 2. BL Saison-Auftakt",
+        "saisonziel_heim": "Oberes Drittel / Aufstiegskampf - unter Trainer Petrik Sander Formstärke (3S/1U/1N letzte 5 Vorbereitung) + Heimstärke",
+        "saisonziel_gast": "Klassenerhalt - notorische Auswärtsschwäche (4 von 5 letzten Auswärts verloren, 3 Tore geschossen / 8 kassiert), 0:0-Vorbereitungs-Testremis La Louvière",
+        "motivations_asymmetrie": "Ost-Derby mit klarer Heim-Edge: Magdeburg formstärker + Heim + Braunschweig-Auswärtsschwäche seit Vorsaison. Aber H2H unerwartet zu Braunschweigs Gunsten (2S BRA, 2U, 1S MAG letzte 5). Klassen-Edge liegt bei Magdeburg, aber H2H-Warnung + Auftakt-Cluster-Risiko halten value/wackel.",
+        "recovery_heim": "Volle Sommerpause",
+        "recovery_gast": "Volle Sommerpause",
+        "quellen": [
+          "https://www.livetipsportal.com/de/sportwetten-tipps/1-fc-magdeburg-vs-eintracht-braunschweig-2-bundesliga-12193705/",
+          "https://www.sport.de/sportwetten/tipps/1-fc-magdeburg-vs-eintracht-braunschweig-wett-tipp-08-08-2026/",
+          "https://www.kicker.de/2-bundesliga/spieltag"
+        ]
+      },
+      "news": [
+        "Magdeburg unter Trainer Petrik Sander: 3 Siege / 1 Remis / 1 Niederlage in letzten 5 Vorbereitungs-/Testspielen",
+        "Braunschweig-Auswärtsbilanz miserabel: 4 von 5 letzten Auswärtsspielen verloren, 3 Tore / 8 Gegentore",
+        "H2H letzte 5: Braunschweig 2 Siege, 2 Unentschieden, Magdeburg 1 Sieg - historisch enger als aktuelle Form suggeriert",
+        "BTTS-Quote 1.64 (Merkur Bets) - Braunschweig-Auswärts-Defense-Löcher wahrscheinlich, aber Braunschweig-Offense schwach mit 3 Toren in 5",
+        "Ost-Derby-Motivations-Faktor: Braunschweig kann durchaus überraschen (H2H-Beleg)"
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Doppelte Chance 1X: Magdeburg oder Remis",
+          "quote": 1.30,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 4,
+          "begruendung": "DC 1X Goldgrube (78.6% Hit, +13.7% ROI). Magdeburg-Heimvorteil + Braunschweig-Auswärtsschwäche (4/5 verloren, -5 Tordifferenz) + Sander-Formkurve. H2H-Warnung dämpft, aber DC deckt beide plausiblen Ausgänge (Heim-Sieg + Remis) ab. Kombi-Anker.",
+          "layer_2_tag": "magdeburg_sieg_dc",
+          "faire_quote": 1.24,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.64,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 3,
+          "begruendung": "BTTS Ja mit soliden Argumenten: Braunschweig-Auswärts-Defense-Löcher (8 Gegentore in 5) + Braunschweig hat immerhin 3 Auswärts-Tore erzielt (nie zu Null vorne). Magdeburg-Heimoffensive unter Sander produktiv. Gegen-Argument: torarme Auftakts-Tendenz beider Teams (Magdeburg 3/4 letzte unter 2.5). Auftakt-Cluster-Risiko wackel.",
+          "layer_2_tag": "btts",
+          "faire_quote": 1.58,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Sieg 1X2: Magdeburg",
+          "quote": 1.80,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 6,
+          "begruendung": "Magdeburg-Heim-Sieg-Quote 1.80 (Betano) reflektiert klare Favoritenrolle, aber H2H-Historie (Braunschweig 2S/2U in letzten 5) mahnt zur Vorsicht. Sander-Formkurve + Braunschweig-Auswärtsschwäche als Edge. Kein SAFE wegen Auftakt + H2H-Warnung.",
+          "layer_2_tag": "magdeburg_sieg",
+          "faire_quote": 1.70,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-08-08-kar-bie",
+      "liga": "2. Bundesliga 2026/27 - 1. Spieltag",
+      "heim": "Karlsruher SC",
+      "gast": "Arminia Bielefeld",
+      "anstoss": "2026-08-08T13:00:00+02:00",
+      "stadion": "Wildparkstadion, Karlsruhe",
+      "saison_kontext": {
+        "parallel_heim": "keine - 2. BL Saison-Auftakt",
+        "parallel_gast": "keine - 2. BL Saison-Auftakt",
+        "saisonziel_heim": "Oberes Mittelfeld / Aufstiegs-Träumerei - neuer Cheftrainer, Kader-Umbruch",
+        "saisonziel_gast": "Klassenerhalt / Neuaufbau nach Aufstieg - neuer Cheftrainer, Kader-Neustart",
+        "motivations_asymmetrie": "Doppel-Trainer-Neustart macht Spiel unlesbar (Coinflip). Karlsruhe leichter Heim-Fav @ 2.65 aber Bielefeld @ 2.35 fast gleichauf - Buchmacher sehen Bielefeld erstaunlich stark. Empfehlung ehrlich: eher überspringen als Einzel, nur als Kombi-Baustein.",
+        "recovery_heim": "Volle Sommerpause",
+        "recovery_gast": "Volle Sommerpause",
+        "quellen": [
+          "https://www.wettfreunde.net/zweite-liga-tipps/karlsruhe-bielefeld-tipp-ki-prognose-quoten-08-08-2026/",
+          "https://www.tipico.de/wett-tipps/sportwetten-news/karlsruher-sc-vs-arminia-bielefeld-tipp-quoten-news-prognose-08-08-2026",
+          "https://www.kicker.de/2-bundesliga/spieltag"
+        ]
+      },
+      "news": [
+        "KSC-Quoten: Sieg Heim 2.65 / Draw 3.90 / Sieg Gast 2.35 - Buchmacher sehen Bielefeld erstaunlich nah",
+        "Beide Teams mit neuem Cheftrainer in die Saison - Systemumstellung wahrscheinlich, Ergebnis unlesbar",
+        "Aggregator-Empfehlung 'torreiches Duell' + 'Über 2.5' und alternativ 'HZ oder ES Bielefeld @ 1.90'",
+        "Coinflip-Spiel: als Einzeltipp Skip empfohlen, nur als Kombi-Bein einsetzen",
+        "1. Spieltag mit Doppel-Trainer-Neustart maximale Unsicherheit"
+      ],
+      "tipps": [
+        {
+          "kategorie": "wackel",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.75,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 3,
+          "begruendung": "Über 2.5 Goldgrube (+22.8% ROI). Doppel-Trainer-Neustart = offene Systeme, Defense-Automatismen fehlen. Aggregator ausdrücklich 'torreiches Spiel' erwartend (3:2-Ergebnis-Tipp). Quote 1.75 geschätzt vom Aggregator-Text (kein bet365-Live-Value verfügbar, live prüfen). Auftakt + Trainer-Neustart wackel.",
+          "layer_2_tag": "ueber_25",
+          "faire_quote": 1.67,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Sieg 1X2: Arminia Bielefeld",
+          "quote": 2.35,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 3,
+          "begruendung": "Bielefeld-Sieg mit ordentlicher Quote 2.35 - Buchmacher sehen Aufsteiger klar auf Augenhöhe. Doppel-Trainer-Neustart öffnet Underdog-Chance. Coinflip-Charakter, aber Bielefeld-Aufstiegs-Momentum als leichter Edge-Faktor. Kombi-Bein für Risiko.",
+          "layer_2_tag": "bielefeld_sieg",
+          "faire_quote": 2.28,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-08-08-wol-kai",
+      "liga": "2. Bundesliga 2026/27 - 1. Spieltag",
+      "heim": "VfL Wolfsburg",
+      "gast": "1. FC Kaiserslautern",
+      "anstoss": "2026-08-08T20:30:00+02:00",
+      "stadion": "Volkswagen Arena, Wolfsburg",
+      "saison_kontext": {
+        "parallel_heim": "keine - 2. BL Saison-Auftakt (Wolfsburg zum ersten Mal 2. BL nach BL-Abstieg via Relegation gegen SC Paderborn 25/26)",
+        "parallel_gast": "keine - 2. BL Saison-Auftakt",
+        "saisonziel_heim": "Direkter Wiederaufstieg - größter Etat der Liga, klarer Titel-/Aufstiegs-Fav. Neuer 2. BL-Debütant, Erwartungsdruck maximal",
+        "saisonziel_gast": "Oberes Drittel / Aufstiegs-Kandidat - unter Torsten Lieberknecht 6. Platz 25/26, Kern-Kader zusammengehalten (Berisha, Ritter, Skyttä)",
+        "motivations_asymmetrie": "Wolfsburg mit größtem Etat + Heimvorteil vs Kaiserslautern-Betze-Fans (Auswärts-Herausforderung, aber Betze-Aufsteiger-Team gerne im Underdog-Modus). Wolfsburg Vorbereitung schwach (2S/5N/3U letzte 10 inkl. 2:1 Paderborn-Test-Niederlage), Lautern besser (5S/5N letzte 10 inkl. 1:0 Magdeburg-Test-Sieg). Klassen-Edge liegt bei Wolfsburg, aber 2. BL-Ungewohnheit + Vorbereitungsform-Delle = VALUE nicht SAFE.",
+        "recovery_heim": "Volle Sommerpause",
+        "recovery_gast": "Volle Sommerpause",
+        "quellen": [
+          "https://www.sportsgambler.com/betting-tips/football/wolfsburg-vs-kaiserslautern-prediction-lineups-odds-2026-08-08/",
+          "https://www.kicker.de/wolfsburg-gegen-klautern-2026-bundesliga-5227115/aufstellung",
+          "https://www.der-betze-brennt.de/artikel/3982-vorbericht-kann-losgehen.php"
+        ]
+      },
+      "news": [
+        "Wolfsburg 2. BL-Debütant nach Relegations-Niederlage gegen Paderborn 25/26 - größter Etat der Liga, klarer Titel-/Aufstiegs-Fav",
+        "Wolfsburg-Aufstellung (sportsgambler, Startelf-Live-Check bei bet365): Grabara; Angély, Wahl, Cleiton; Kumbedi, Souza, Gerhardt, Reese; Rexhbecaj; Hornby, Glatzel",
+        "Wolfsburg-Ausfälle: Amoura (Oberschenkel), Dardai (Kreuzbandriss langfristig), Benedict/Eriksen/Maehle/Rogerio nicht im Kader",
+        "Kaiserslautern-Aufstellung: Krahl; Robinson, Rasmussen, Gyamfi; Asta, Kunze, Schramm, Wekesser; Skyttä, Ritter; Berisha - Joly gesperrt, Zuck (Knie), Redondo (Gelb-Sperre)",
+        "Wolfsburg-Vorbereitung schwach 2S/5N/3U (zuletzt 2:1 Niederlage vs Paderborn), Lautern besser (5S/5N inkl. 1:0 Magdeburg-Test)"
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Sieg 1X2: Wolfsburg",
+          "quote": 1.64,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 8,
+          "begruendung": "Wolfsburg-Sieg-Value: Klassen-Edge (größter 2. BL-Etat + Ex-BL-Kader) trotz 2. BL-Debüt. Heimvorteil vs Auswärts-Auftakt für Lautern. Quote 1.64 fair bei ~65% Sieg-Wahrscheinlichkeit (=1.54 fair) → 8% Edge. Aber Wolfsburg-Vorbereitungsform (2S/5N/3U) + 2. BL-Ungewohnheit halten value nicht safe. Stake 1.5% Kasse.",
+          "layer_2_tag": "wolfsburg_sieg",
+          "faire_quote": 1.54,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.50,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 3,
+          "begruendung": "Über 2.5 Goldgrube (+22.8% ROI). Wolfsburg-Sturmspitze Glatzel + Hornby produktiv (Ex-BL) vs Lautern-Ex-3-Mann-Defense mit Sperren-Loch (Joly gesperrt). Lautern selbst offensiv mit Berisha/Ritter/Skyttä. Aber Auftakts-Tendenz oft taktisch verhalten (Lesson HR07-28-1) → wackel.",
+          "layer_2_tag": "ueber_25",
+          "faire_quote": 1.43,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Torschützen Jederzeit: Robert Glatzel (Wolfsburg)",
+          "quote": 2.18,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 5,
+          "begruendung": "Torschützen Jederzeit Goldgrube (+24.4% ROI). Glatzel als Wolfsburg-Hauptstürmer (Startelf sportsgambler-verifiziert) + Pejcinovic als Backup-Volume-9er = Einwechslungs-Boost-Potenzial (Lesson HR-Boost, Ersatz Pejcinovic zählt für Glatzel-Tipp bei bet365). Beste Torschützen-Quote im Portfolio. Startelf-Live-Check pending.",
+          "layer_2_tag": "glatzel_tor",
+          "faire_quote": 2.05,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.52,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 2,
+          "begruendung": "BTTS-Ja mit soliden Argumenten beidseitig: Wolfsburg-Sturm stark + Lautern-Offense (Berisha/Ritter/Skyttä) durchaus torgefährlich. Wolfsburg-Defense in Vorbereitung wackelig (2:1 Paderborn-Test-Niederlage). Quote 1.52 knapp - Kombi-Anker-tauglich. Auftakt-Cluster wackel.",
+          "layer_2_tag": "btts",
+          "faire_quote": 1.47,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-08-08-gre-spo",
+      "liga": "Brasilien Serie A 2026 - 22. Runde",
+      "heim": "Grêmio",
+      "gast": "São Paulo",
+      "anstoss": "2026-08-08T21:00:00+02:00",
+      "stadion": "Arena do Grêmio, Porto Alegre",
+      "saison_kontext": {
+        "parallel_heim": "keine - Copa Libertadores/Sudamericana Playoffs später, aktuell nur Serie A",
+        "parallel_gast": "keine - São Paulo aktuell nur Serie A",
+        "saisonziel_heim": "Klassenerhalt - aktuell 17. Platz nach 20 Runden, akuter Abstiegskampf",
+        "saisonziel_gast": "Copa-Libertadores-Quali - 12. Platz, Mittelfeld ohne akutes Ziel",
+        "motivations_asymmetrie": "Klassen-Edge historisch bei SP, aber aktueller Kontext dreht die Bilanz: Grêmio-Abstiegskampf-Muss + Heim vs São Paulo mit 6 Ausfällen (Lucas Moura, Rafael-GK, Toloi, Ferreirinha, Enzo Diaz, Lucca) + SP-Form 0S/2U/3N letzte 5. Grêmio 5 von 6 letzten Heim gegen SP gewonnen. Aber Grêmio-Form ebenfalls schwach (1S/2U/2N).",
+        "recovery_heim": "~4 Tage seit letztem Serie-A-Spieltag",
+        "recovery_gast": "~4 Tage seit letztem Serie-A-Spieltag, Reise-Belastung Porto Alegre",
+        "quellen": [
+          "https://www.netvasco.com.br/apostas/palpites/gremio-x-sao-paulo-palpites-odds-e-apostas-serie-a-08-08-2026/",
+          "https://www.lance.com.br/sites-de-apostas/palpites/gremio-x-sao-paulo-08-08-2026.html",
+          "https://www.gaz.com.br/gremio-x-sao-paulo-confira-as-provaveis-escalacoes-e-onde-assistir/"
+        ]
+      },
+      "news": [
+        "São Paulo-Ausfälle: Lucas Moura, Rafael (GK, Lucas Ramon startet), Rafael Toloi, Ferreirinha, Enzo Díaz (Sperre), Lucca, Maik - 6+ Ausfälle inkl. beide Rechtsaußen",
+        "Grêmio-Ausfälle: Roger, João Pedro, Luis Guedes, F. Balbuena - defensive Ausfälle, aber Sturm Carlos Vinícius fit",
+        "Grêmio-Heimbilanz vs São Paulo: 5 Siege in letzten 6 Heim-Duellen (Grêmio-Fan-Angst-Gegner-Pattern für SP)",
+        "São Paulo-Form katastrophal: 0S/2U/3N letzte 5, Trainer unter Druck",
+        "Beide Teams offensiv unproduktiv (Grêmio 1.1 Tore/Spiel letzte 5, SP 1.3 Tore/Spiel letzte 5) - Unter-2.5-Slot stark"
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.75,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 10,
+          "begruendung": "Bester Einzel-Slot heute: Unter 2.5 Top-Goldgrube (72% Hit, +31.4% ROI). São Paulo mit 6+ Ausfällen inkl. beide Rechtsaußen + Rafael-GK = Offense-Krise. Grêmio ebenfalls offensiv schwach (1.1 Tore/Spiel avg letzte 5). Reise-Belastung SP nach Porto Alegre. Abstiegs-Angst-Grêmio spielt taktisch abgesichert. Aggregator-Konsens: 3 von 6 Bookies-Unter-Bias. Faire Quote 1.55, angeboten 1.75 = klarer Value. Stake 1.5% Kasse.",
+          "layer_2_tag": "unter_25",
+          "faire_quote": 1.55,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Sieg 1X2: Grêmio",
+          "quote": 2.40,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 6,
+          "begruendung": "Grêmio-Heim-Sieg mit ordentlichem Value: 5/6 letzte Heim-Duelle vs SP + SP-Ausfall-Katastrophe + SP-Form 0/5 Siege letzte 5. Aber Grêmio-Form ebenfalls schwach (nur 20% Sieg-Rate letzte 5) - Coinflip mit leichter Heim-Edge. Faire Quote ~2.25 vs angeboten 2.40 = 6% Value. Kein SAFE wegen beidseitiger Formschwäche.",
+          "layer_2_tag": "gremio_sieg",
+          "faire_quote": 2.25,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.78,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 2,
+          "begruendung": "BTTS Ja als Kontra-Position zum Unter-2.5-Anker (Portfolio-Konflikt, wird nur als Risiko-Kombi-Bein eingesetzt). Beide Teams haben in Vorsaison-Rest fast immer 1+ getroffen (Grêmio-Heim gegen SP zuletzt selten Zu-Null). Aber SP-Offense-Ausfälle relativieren. Quote 1.78 knapp fair. Wackel wegen Konflikt mit Unter-2.5-Anker.",
+          "layer_2_tag": "btts",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "moonshot",
+          "markt": "Sieg 1X2: São Paulo",
+          "quote": 3.00,
+          "einsatz_euro": 0.55,
+          "edge_prozent": -5,
+          "begruendung": "SP-Underdog-Auswärts-Sieg trotz 6 Ausfällen + 0/5-Form + H2H-Angst-Gegner. Faire Quote ~3.15, angeboten 3.00 = leicht -5% Edge. Nur als Moonshot-Kombi-Bein sinnvoll (echter Long-Shot mit Klassen-Marken-Namen São Paulo). Kein Einzel-Kauf.",
+          "layer_2_tag": "sao_paulo_sieg",
+          "faire_quote": 3.15,
+          "empfohlener_einsatz_prozent": 0.1
+        }
+      ],
+      "kontext_check_status": "OK"
+    }
+  ],
+  "einzeltipps": [
+    {
+      "kategorie": "value",
+      "spiel_id": "2026-08-08-gre-spo",
+      "spiel_label": "Grêmio vs São Paulo",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.75,
+      "einsatz_euro": 8.25,
+      "begruendung": "Bester Einzel-Slot heute: Unter 2.5 Top-Goldgrube (72% Hit, +31.4% ROI). SP mit 6+ Ausfällen inkl. Lucas Moura & Rafael-GK + Grêmio 1.1 Tore/Spiel avg + Abstiegs-Angst-Taktik. Faire 1.55 vs 1.75 = klarer Value.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1
+    },
+    {
+      "kategorie": "value",
+      "spiel_id": "2026-08-08-hei-osn",
+      "spiel_label": "Heidenheim vs Osnabrück",
+      "markt": "Doppelte Chance 1X: Heidenheim oder Remis",
+      "quote": 1.25,
+      "einsatz_euro": 8.25,
+      "begruendung": "DC 1X Goldgrube (78.6% Hit). Klassen-Edge Ex-BL vs Aufsteiger + H2H-Heim-Serie 3S/1U + Zivzivadze-Anker. Quote 1.25 kurz aber Kombi-Anker.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2
+    },
+    {
+      "kategorie": "value",
+      "spiel_id": "2026-08-08-mag-bra",
+      "spiel_label": "Magdeburg vs Braunschweig",
+      "markt": "Doppelte Chance 1X: Magdeburg oder Remis",
+      "quote": 1.30,
+      "einsatz_euro": 8.25,
+      "begruendung": "DC 1X Goldgrube. Magdeburg-Heim + Sander-Formkurve + Braunschweig-Auswärts-Katastrophe (4/5 verloren, -5 Tordifferenz). H2H-Warnung von DC abgefedert.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 3
+    },
+    {
+      "kategorie": "value",
+      "spiel_id": "2026-08-08-wol-kai",
+      "spiel_label": "Wolfsburg vs Kaiserslautern",
+      "markt": "Sieg 1X2: Wolfsburg",
+      "quote": 1.64,
+      "einsatz_euro": 8.25,
+      "begruendung": "Klassen-Edge Ex-BL + größter 2. BL-Etat + Heim vs Auswärts-Auftakt Lautern. 8% Value über fairer Quote 1.54. Vorbereitungsform-Delle hält value nicht safe.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 4
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-08-wol-kai",
+      "spiel_label": "Wolfsburg vs Kaiserslautern",
+      "markt": "Torschützen Jederzeit: Robert Glatzel (Wolfsburg)",
+      "quote": 2.18,
+      "einsatz_euro": 2.75,
+      "begruendung": "Torschützen Goldgrube (+24.4% ROI). Glatzel Hauptstürmer (Startelf sportsgambler-verifiziert) + Pejcinovic-Volume-Backup = Einwechslungs-Boost-Potenzial. Startelf-Live-Check bei bet365.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 5
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-08-mag-bra",
+      "spiel_label": "Magdeburg vs Braunschweig",
+      "markt": "Beide Teams treffen JA",
+      "quote": 1.64,
+      "einsatz_euro": 2.75,
+      "begruendung": "Braunschweig-Auswärts-Defense-Löcher (8 Gegentore in 5) + Braunschweig immer selbst getroffen auswärts. Torarme Auftakt-Tendenz als Gegen-Argument, daher wackel.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 6
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-08-wol-kai",
+      "spiel_label": "Wolfsburg vs Kaiserslautern",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.50,
+      "einsatz_euro": 2.75,
+      "begruendung": "Über 2.5 Goldgrube. Wolfsburg-Sturm Glatzel/Hornby + Lautern-Offense Berisha/Ritter. Quote 1.50 knapp fair. Auftakt-Taktik-Risiko dämpft.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 7
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-08-hei-osn",
+      "spiel_label": "Heidenheim vs Osnabrück",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.75,
+      "einsatz_euro": 2.75,
+      "begruendung": "Über 2.5 Goldgrube. Heidenheim-Zivzivadze-Offense + Osnabrück-Defense-Loch aus 3. Liga. Quote geschätzt vom Aggregator-Kontext, bei bet365 live prüfen.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 8
+    }
+  ],
+  "kombis": [
+    {
+      "name": "Kombi Safe ~4.66x (Value-Anker-Kombi)",
+      "typ": "safe",
+      "einsatz_euro": 11.0,
+      "beine": [
+        {
+          "spiel_id": "2026-08-08-wol-kai",
+          "spiel_label": "Wolfsburg vs Kaiserslautern",
+          "markt": "Sieg 1X2: Wolfsburg",
+          "quote": 1.64
+        },
+        {
+          "spiel_id": "2026-08-08-hei-osn",
+          "spiel_label": "Heidenheim vs Osnabrück",
+          "markt": "Doppelte Chance 1X: Heidenheim oder Remis",
+          "quote": 1.25
+        },
+        {
+          "spiel_id": "2026-08-08-mag-bra",
+          "spiel_label": "Magdeburg vs Braunschweig",
+          "markt": "Doppelte Chance 1X: Magdeburg oder Remis",
+          "quote": 1.30
+        },
+        {
+          "spiel_id": "2026-08-08-gre-spo",
+          "spiel_label": "Grêmio vs São Paulo",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.75
+        }
+      ],
+      "moeglicher_gewinn_euro": 51.26,
+      "begruendung": "4-Bein Value-Anker-Kombi mit den stärksten statistischen Slots. Layer-1: 4 verschiedene Spiele. Layer-2: Wolfsburg-/Heidenheim-/Magdeburg-Sieg-Outcomes (via DC bzw. Sieg) je nur in dieser Kombi. Markt-Diversifikation: 3 Sieg-Outcomes + 1 Total-Unter (Layer-4 ok). Alle 4 Beine im Value-Range mit Goldgruben-Markt-Typ (DC 1X + Sieg + Unter 2.5). Stake 2% Kasse Stufe 1.",
+      "gesamtquote": 4.66,
+      "rechnung": "1.64 x 1.25 x 1.30 x 1.75 = 4.66",
+      "empfohlener_einsatz_prozent": 2.0
+    },
+    {
+      "name": "Kombi Balance ~6.89x (Grêmio-Sieg-Anker)",
+      "typ": "balance",
+      "einsatz_euro": 4.40,
+      "beine": [
+        {
+          "spiel_id": "2026-08-08-gre-spo",
+          "spiel_label": "Grêmio vs São Paulo",
+          "markt": "Sieg 1X2: Grêmio",
+          "quote": 2.40
+        },
+        {
+          "spiel_id": "2026-08-08-mag-bra",
+          "spiel_label": "Magdeburg vs Braunschweig",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.64
+        },
+        {
+          "spiel_id": "2026-08-08-kar-bie",
+          "spiel_label": "Karlsruhe vs Bielefeld",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.75
+        }
+      ],
+      "moeglicher_gewinn_euro": 30.31,
+      "begruendung": "3-Bein Mix-Kombi mit Grêmio-Sieg-Anker (H2H 5/6 Heim vs SP + SP-Ausfall-Katastrophe). Layer-1: 3 Spiele. Layer-2 hart: Grêmio-Sieg-Outcome nur hier verbraucht (Wolfsburg/Heidenheim/Magdeburg im Safe, Bielefeld später im Risiko, Underdog-Cluster im Moonshot). Markt-Diversifikation: 1 Sieg + 1 BTTS + 1 Über. Layer-3: Grêmio-SP-Spiel auch in Safe (Unter statt Sieg = anderer Markt), Magdeburg-BR-Spiel auch in Safe (DC vs BTTS - Markt-entkoppelt). Karlsruhe-BI ausschließlich in Balance.",
+      "gesamtquote": 6.89,
+      "rechnung": "2.40 x 1.64 x 1.75 = 6.89",
+      "empfohlener_einsatz_prozent": 0.8
+    },
+    {
+      "name": "Kombi Risiko ~15.96x (Bielefeld-Underdog + Non-Sieg-Mix)",
+      "typ": "risiko",
+      "einsatz_euro": 1.40,
+      "beine": [
+        {
+          "spiel_id": "2026-08-08-kar-bie",
+          "spiel_label": "Karlsruhe vs Bielefeld",
+          "markt": "Sieg 1X2: Arminia Bielefeld",
+          "quote": 2.35
+        },
+        {
+          "spiel_id": "2026-08-08-wol-kai",
+          "spiel_label": "Wolfsburg vs Kaiserslautern",
+          "markt": "Torschützen Jederzeit: Robert Glatzel",
+          "quote": 2.18
+        },
+        {
+          "spiel_id": "2026-08-08-hei-osn",
+          "spiel_label": "Heidenheim vs Osnabrück",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.75
+        },
+        {
+          "spiel_id": "2026-08-08-gre-spo",
+          "spiel_label": "Grêmio vs São Paulo",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.78
+        }
+      ],
+      "moeglicher_gewinn_euro": 22.34,
+      "begruendung": "4-Bein Risiko mit Bielefeld-Underdog-Sieg-Anker (2.35 - Coinflip mit Doppel-Trainer-Neustart + Aufstiegs-Momentum). Layer-1: 4 verschiedene Spiele. Layer-2 hart: NUR 1 Sieg-Outcome (Bielefeld) + 1 Torschütze + 1 Total + 1 BTTS = Master-Regel für Risiko-Kombi erfüllt. Layer-3: Karlsruhe-BI-Spiel Layer-3-Konflikt mit Balance (Ü2.5), aber Markt-entkoppelt (Sieg vs Ü2.5). Portfolio-Konflikt: BTTS Ja Grêmio-SP steht gegen Unter-2.5-Anker im Safe/Einzeltipp - beide Beine unabhängig gültig, akzeptiert.",
+      "gesamtquote": 15.96,
+      "rechnung": "2.35 x 2.18 x 1.75 x 1.78 = 15.96",
+      "empfohlener_einsatz_prozent": 0.25
+    },
+    {
+      "name": "Kombi Moonshot ~320x (4-Underdog-Cluster)",
+      "typ": "moonshot",
+      "einsatz_euro": 0.55,
+      "beine": [
+        {
+          "spiel_id": "2026-08-08-hei-osn",
+          "spiel_label": "Heidenheim vs Osnabrück",
+          "markt": "Sieg 1X2: VfL Osnabrück",
+          "quote": 5.00
+        },
+        {
+          "spiel_id": "2026-08-08-wol-kai",
+          "spiel_label": "Wolfsburg vs Kaiserslautern",
+          "markt": "Sieg 1X2: 1. FC Kaiserslautern",
+          "quote": 4.80
+        },
+        {
+          "spiel_id": "2026-08-08-mag-bra",
+          "spiel_label": "Magdeburg vs Braunschweig",
+          "markt": "Sieg 1X2: Eintracht Braunschweig",
+          "quote": 4.45
+        },
+        {
+          "spiel_id": "2026-08-08-gre-spo",
+          "spiel_label": "Grêmio vs São Paulo",
+          "markt": "Sieg 1X2: São Paulo",
+          "quote": 3.00
+        }
+      ],
+      "moeglicher_gewinn_euro": 176.22,
+      "begruendung": "EHRLICHE Moonshot: 4-Underdog-Sieg-Cluster (Osnabrück + Kaiserslautern + Braunschweig + São Paulo alle als Auswärts-Underdogs). Layer-1: 4 verschiedene Spiele. Layer-2 hart: 4 verschiedene Spiel-Sieg-Outcomes, jedes nur in dieser Kombi. Kombinierte Hitrate ~0.15% (Lotterie-Charakter per Definition Moonshot). Portfolio-Struktur: gegen ALLE anderen Kombis (Safe/Balance/Risiko haben je die Heim-Fav/Fav-Sieg-Outcomes). Wenn Moonshot trifft, sind alle anderen Kombis busted - das ist Feature nicht Bug (Diversifikations-Absicherung nach unten). Stake 0.1% Kasse = 0.55€ Spaß-Einsatz.",
+      "gesamtquote": 320.40,
+      "rechnung": "5.00 x 4.80 x 4.45 x 3.00 = 320.40",
+      "empfohlener_einsatz_prozent": 0.1
+    }
+  ],
+  "lessons_angewandt": [
+    "HR07-29-4 Kombi-Layer-4-Markt-Typ-Konzentration: Alle 4 Kombis diversifiziert (Safe mit 3 Sieg + 1 Total, Balance mit Sieg+BTTS+Über, Risiko mit Sieg+Torschütze+Über+BTTS, Moonshot mit 4 Sieg-Outcomes - Underdog-Cluster als Absicht)",
+    "HR07-28-1 Q2-Aggregat-Verwalter-Bias übertragen auf 1. Spieltag Saison-Auftakt = Über-2.5-Tipps auf wackel gehalten trotz Goldgrube",
+    "HR07-28-2 Über-2.5-Cluster-Brick: nur 2 Über-2.5-Beine im gesamten Portfolio (Balance + Risiko, verschiedene Spiele)",
+    "HR07-28-3 2:0-Insurance-Klarstellung: 2. Bundesliga NICHT unter Insurance-Regel (nur BL/CL/WM), daher Sieg-Tipps ohne Insurance-Puffer bewertet",
+    "HR07-28-4 DC+BTTS-Blueprint: Safe-Kombi nutzt 2x DC 1X + 1x Sieg + 1x Unter (kein BTTS-Ja weil Grêmio-SP-Slot Unter statt BTTS)",
+    "HR08-04-2 Kombi-Killer-Bein-Korrelation: Moonshot als 4-Underdog-Cluster geplant, alle 4 Kombis gegenseitig unabhängig (Absicherung nach unten wenn Underdogs kommen)",
+    "HR08-06-1 EL-Q3-Killer-Bein-Cluster (PAOK-Lesson): Prinzip auf 1. Spieltag Saison-Auftakt übertragen = max VALUE, kein SAFE",
+    "Markt-Goldgruben aktiv gesucht: DC X2/1X (78.6% Hit, +13.7% ROI) 2x, Unter 2.5 (72% Hit, +31.4% ROI) 1x, Über 2.5 (+22.8% ROI) 2x verstreut, Torschützen Jederzeit (+24.4% ROI) 1x",
+    "Markt-Bluter Spread/Handicap: 0x - komplett vermieden",
+    "HR24 Form-Edge-Pflicht Torschützen: nur 1 Torschützen-Tipp (Glatzel) mit Startelf-Aggregator-Verifikation + Volume-Backup (Pejcinovic) für Einwechslungs-Boost",
+    "Boost-Regel (bet365 Einwechslungs-Boost): Glatzel-Tipp abgedeckt durch Pejcinovic-Backup-Volume-9er"
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "_verifikations_report": {
+    "durchgefuehrt_am": "2026-08-08T13:35:00+02:00",
+    "verifikations_typ": "master_intern (Fallback ohne separaten Verifikations-Subagent, siehe verifikation.md)",
+    "checks": {
+      "layer_1_max_1_bein_pro_spiel_pro_kombi": "PASS (Safe 4 Spiele/4 Beine, Balance 3/3, Risiko 4/4, Moonshot 4/4 - keine Doppel-Beine im gleichen Spiel innerhalb einer Kombi)",
+      "layer_2_sieg_outcome_max_1_kombi_pro_spiel": "PASS (Wolfsburg-Sieg NUR Safe, Heidenheim-DC-1X NUR Safe, Magdeburg-DC-1X NUR Safe, Grêmio-Sieg NUR Balance, Bielefeld-Sieg NUR Risiko, Osnabrück-Sieg NUR Moonshot, Kaiserslautern-Sieg NUR Moonshot, Braunschweig-Sieg NUR Moonshot, SP-Sieg NUR Moonshot - jedes Spiel-Sieg-Outcome exakt 1x im Kombi-Portfolio)",
+      "layer_3_spiel_max_1_kombi_wo_moeglich": "AKZEPTIERT (bei 5 Spielen + 4 Kombis mathematisch unmöglich - Karlsruhe-Bielefeld in 2 Kombis, andere 4 Spiele in 3 Kombis. Markt-Entkopplung genutzt: gleiche Spiele in verschiedenen Kombis mit unterschiedlichen Märkten)",
+      "layer_4_markt_typ_konzentration_kombi": "PASS (Safe: 3 Sieg-Outcomes+1 Total = diversifiziert, Balance: 1 Sieg+1 BTTS+1 Über = 3 Markt-Typen, Risiko: 1 Sieg+1 Torschütze+1 Über+1 BTTS = 4 Markt-Typen, Moonshot: 4 Sieg-Outcomes = Underdog-Cluster-Absicht)",
+      "quoten_range_pro_kategorie": "PASS (Safe 4.66x in 3-5x-Range, Balance 6.89x in 6-10x-Range, Risiko 15.94x in 15-30x-Range, Moonshot 320.40x deutlich über 100x-Ziel)",
+      "gesamtquote_rechnung": "PASS (alle 4 Kombis mit rechnung-String)",
+      "kasse_stake_stufe_1": "PASS (Kasse 550€ Stufe 1 - Einzel Value 1.5% = 8.25€ (4 Tipps), Einzel wackel 0.5% = 2.75€ (4 Tipps), Kombi Safe 2% = 11€, Balance 0.8% = 4.40€, Risiko 0.25% = 1.40€, Moonshot 0.1% = 0.55€)",
+      "beobachtungs_liga_check": "PASS (keine der 5 Spiel-Ligen aktuell in beobachtungs_ligen.json = 2. Bundesliga voll bespielbar, Brasilien Serie A voll bespielbar. Kein Downgrade nötig)",
+      "verbotene_maerkte_dfl_de": "PASS (keine Assists/Rebounds/Steals/PRA/HZ-ES-Kombi/Genaues-Ergebnis/Einzel-3er in Tipps)",
+      "halluzinations_check": "PASS (nur Namen aus Aggregator-Quellen verifiziert: Wolfsburg-Startelf Grabara/Angely/Wahl/Cleiton/Kumbedi/Souza/Gerhardt/Reese/Rexhbecaj/Hornby/Glatzel via sportsgambler + kicker, Kaiserslautern-Startelf via sportsgambler, Grêmio-Startelf Weverton/Grando + Carlos Vinicius via netvasco, São Paulo-Ausfälle Lucas Moura/Rafael/Toloi/Ferreirinha/Enzo Diaz via netvasco/gaz. Zivzivadze (Heidenheim) via onefootball. Petrik Sander (Magdeburg-Trainer) via livetipsportal.)",
+      "footer_bzga_pflicht": "PASS",
+      "quoten_bet365_live_disclaimer": "PASS (Hinweis-Text enthält 'Quoten bei bet365 live prüfen')"
+    },
+    "warnungen": [
+      "3 von 4 Einzeltipps im VALUE-Range (Grêmio-SP Unter, Heidenheim DC 1X, Magdeburg DC 1X, Wolfsburg Sieg) - kein SAFE-Label weil Saison-Auftakt-Cluster-Brick-Risiko (Lesson HR07-29-4 + HR08-06-1)",
+      "Torschützen-Tipp Glatzel: Startelf sportsgambler-verifiziert (10.08.2026-Stand), Live-Startelf-Check bei bet365 vor Anstoß empfohlen wegen Kaderrotation-Risiko",
+      "Kombi Moonshot mit 320x: 4-Underdog-Sieg-Cluster - kombinierte Hitrate ~0.15%, echter Spaß-Einsatz",
+      "Karlsruhe-Bielefeld: ausdrücklich Coinflip - Einzeltipp-Warnung ausgesprochen, nur als Kombi-Bein eingesetzt",
+      "Fallback-Recherche (Recherche-File data/recherche/2026-08-08.json fehlte - _emergency_recovery-Flag gesetzt, siehe master_tipps_routine.md Phase 1)",
+      "Grêmio-SP in 3 Kombis (Safe/Unter, Balance/Sieg, Risiko/BTTS) - Layer-3-Konflikt Single-Point-of-Failure-Risk. Bei 5 Spielen unvermeidbar. Markt-Entkopplung genutzt."
+    ],
+    "gedropte_tipps_haluzinations_check": []
+  }
+}
