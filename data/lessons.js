@@ -2249,6 +2249,30 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "Torschuetzen-Elite-9er-vs-Volume-Backup-Splitting (8b Kategorie-Reality)",
       "lesson": "HR08-07-4 Elite-Startelf-9er (Pavlidis, Elding, Konate-als-Sub) trafen 3/3 - Volume-Backup-Fluegel-9er (Zivkovic Fluegel-PAOK ohne Bench-Sub-Tor, Boyle Auswechslung 56. ohne Sub-Tor) trafen 0/2. Blueprint-Bestaetigung fuer 05.08.-Lesson (MF-Torschuetzen-CL-Q3-Bruch-Backup-Volume-9er-Falle): Elite-Startelf-Nummer-9 (Karriere-Highlight-Slot oder Team-Top-Stuermer) sind zuverlaessiger als Fluegel/MF-Volume-Kandidaten. Regel scharf: Torschuetzen-VALUE-Bein NUR fuer bestaetigten Startelf-9er (nicht Fluegel-Star, nicht Kapitaen-Zweit-Wahl-Volume). Fluegel-Torschuetzen-Tipps immer WACKEL max, egal welche Quote/Form-Edge.",
       "bezug_spiel_id": "2026-08-06-pao-and"
+    },
+    {
+      "datum": "2026-08-08",
+      "kategorie": "Beobachtungs-Liga-Auftakt-Sieg-Kombi Balance-Killer (8b Knappe Verluste)",
+      "lesson": "HR08-08-1 Balance-Kombi 8.12x mit 3 Sieg-Beinen ueber 3 Beobachtungs-Liga-Auftakte scheiterte an EINEM Bein (Estoril 1:1 Famalicao gebrochen H2H-4/4). Brugge-Sieg + Hertha-Sieg gewonnen. Analyse: H2H-Serie als Predictor bei Auftakt-Spielen schwaecher als angenommen - Estoril-Krise-Aggregator-Story wurde durch Trainer-Kontinuitaets-Boost Erst-Spiel gebrochen. Konsequenz: Balance-Kombi mit Sieg-Beinen bei Beobachtungs-Liga-Auftakt MAX 2 Sieg-Beine (nicht 3). 3. Bein sollte aus Non-Sieg-Markt (DC, Ueber/Unter, BTTS) kommen fuer Diversifikation. Gilt fuer 2. BL/Belgien/Portugal/Brasil-Serie-B-Auftakt-Slates.",
+      "bezug_spiel_id": "2026-08-07-est-fam"
+    },
+    {
+      "datum": "2026-08-08",
+      "kategorie": "BTTS-Ja Auftakt-Squad-Umbruch-Falle (8e Kategorie-Reality)",
+      "lesson": "HR08-08-2 BTTS-Ja Bochum-Hertha verloren trotz 'Hertha-Defense loechrig'-Aggregator-Story: Endstand 0:1, Bochum torlos. Auftakt-Spiel mit 5 Neuzugaengen in Bochum-Startelf = Angriff-Automatismen fehlen, Chancenverwertung nicht garantiert. Aggregator sieht nur Defense-Faktor Gegner, nicht eigene Offensiv-Reife. Konsequenz: BTTS-Ja bei Beobachtungs-Liga-Auftakt NUR wenn BEIDE Teams a) mind. 2 Tore in letzten 3 Vorbereitungs-Testspielen und b) <=3 Neuzugaenge in Startelf. Sonst downgrade auf Ueber-1.5 oder komplett skippen. Safe-Kombi darf kein BTTS-Ja-Bein bei Auftakt-Slate haben ohne Squad-Kontinuitaets-Check.",
+      "bezug_spiel_id": "2026-08-07-boc-her"
+    },
+    {
+      "datum": "2026-08-08",
+      "kategorie": "Fruehe-Rote-Karte kappt Ueber-Tore-Slot (8g Markt-Pattern aus voller Analyse)",
+      "lesson": "HR08-08-3 Ceara 2:0 Ponte Preta mit Rote Karte 18. Min (Julio, 2. Gelb) - Ueber-2.5-Tipp verloren trotz Story 'Torfestival dank Ceara-Defense-Krise + Ponte-Free-Roll-Motivation'. Frueh reduzierter Underdog verlegt sich auf Ergebnis-Halten, Fav schaltet auf kontrolliertes Verwalten statt Konter-Suche. Pattern: Rote Karte <30. Min in Ueber-2.5-getippten Spielen kippt Slot Richtung Unter. Konsequenz: Bei Ueber-2.5-Tipps auf Fav-Spiele Karten-Historie Underdog letzte 10 Spiele pruefen. Bei Underdog mit >=3 Roten Karten in 10 Spielen oder aktueller Karten-Krise (Sperren im Kader) Ueber-Tipp downgraden. Ponte-Preta hatte 15 Spiele ohne Sieg = Karten-Frust-Risiko erhoeht - Signal war da, wurde nicht bewertet.",
+      "bezug_spiel_id": "2026-08-07-cea-pon"
+    },
+    {
+      "datum": "2026-08-08",
+      "kategorie": "Torschuetzen-Tipp braucht Team-Tor-Ceiling bei Squad-Umbruch (8h Rotation)",
+      "lesson": "HR08-08-4 Sissoko-Torschuetzen-Tipp @2.88 verloren - Bochum insgesamt 0 Tore. Torschuetzen-Tipp ist bedingtes Ereignis: erfordert P(Team-Tor > 0) hoch. Bochum-Startelf hatte 5 Neuzugaenge, Sissoko selbst Sprunggelenks-Fragezeichen - doppelte Chancenverwertungs-Unsicherheit. Aggregator-Signal (Volume-9er) trumpft nicht Squad-Umbruch. Konsequenz-Regel: Torschuetzen-Tipp NICHT bei a) Teams mit >=4 Neuzugaengen in Startelf ODER b) Ziel-Spieler mit Verletzungs-Fragezeichen im Vorbericht - egal welche Torschuetzen-Goldgrube-Kategorie. Auftakt-Spiel = System noch nicht eingespielt = Torschuetzen-Wahrscheinlichkeit fuer JEDEN Spieler reduziert. Einwechslungs-Boost hier auch nicht anwendbar weil Team komplett torlos. Torschuetzen-Tipp braucht Team-Tor-Baseline >= 1.5 in erwarteten Team-Toren.",
+      "bezug_spiel_id": "2026-08-07-boc-her"
     }
   ]
 };

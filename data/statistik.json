@@ -1,37 +1,37 @@
 {
-  "letzte_berechnung": "2026-08-07T07:16:39+00:00",
+  "letzte_berechnung": "2026-08-08T07:13:24+00:00",
   "gesamt": {
-    "tipps": 443,
-    "gewonnen": 233,
-    "verloren": 199,
+    "tipps": 450,
+    "gewonnen": 236,
+    "verloren": 203,
     "push": 2,
     "offen": 9,
-    "einsatz": 434.0,
+    "einsatz": 441.0,
     "netto": 42.82,
-    "trefferquote": 53.9,
-    "roi_prozent": 9.9
+    "trefferquote": 53.8,
+    "roi_prozent": 9.7
   },
   "letzte_30_tage": {
-    "tipps": 78,
-    "gewonnen": 35,
-    "verloren": 43,
+    "tipps": 85,
+    "gewonnen": 38,
+    "verloren": 47,
     "push": 0,
     "offen": 0,
-    "einsatz": 78.0,
+    "einsatz": 85.0,
     "netto": 9.34,
-    "trefferquote": 44.9,
-    "roi_prozent": 12.0
+    "trefferquote": 44.7,
+    "roi_prozent": 11.0
   },
   "letzte_90_tage": {
-    "tipps": 404,
-    "gewonnen": 211,
-    "verloren": 182,
+    "tipps": 400,
+    "gewonnen": 210,
+    "verloren": 179,
     "push": 2,
     "offen": 9,
-    "einsatz": 395.0,
-    "netto": 10.36,
-    "trefferquote": 53.7,
-    "roi_prozent": 2.6
+    "einsatz": 391.0,
+    "netto": 15.46,
+    "trefferquote": 54.0,
+    "roi_prozent": 4.0
   },
   "nach_liga": {
     "Champions League Halbfinale Rueckspiel": {
@@ -979,6 +979,50 @@
       "netto": 0.0,
       "trefferquote": 50.0,
       "roi_prozent": 0.0
+    },
+    "Portugal Primeira Liga 2026/27 - 1. Spieltag": {
+      "tipps": 2,
+      "gewonnen": 1,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 0.0,
+      "trefferquote": 50.0,
+      "roi_prozent": 0.0
+    },
+    "2. Bundesliga 2026/27 - 1. Spieltag": {
+      "tipps": 3,
+      "gewonnen": 1,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 0.0,
+      "trefferquote": 33.3,
+      "roi_prozent": 0.0
+    },
+    "Belgien Jupiler Pro League 2026/27 - 1. Spieltag": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 100.0,
+      "roi_prozent": 0.0
+    },
+    "Brasilien Serie B 2026": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt": {
@@ -1192,15 +1236,15 @@
       "roi_prozent": 0.0
     },
     "Ueber 2.5 Tore": {
-      "tipps": 32,
-      "gewonnen": 15,
-      "verloren": 15,
+      "tipps": 34,
+      "gewonnen": 16,
+      "verloren": 16,
       "push": 0,
       "offen": 2,
-      "einsatz": 30.0,
+      "einsatz": 32.0,
       "netto": 8.36,
       "trefferquote": 50.0,
-      "roi_prozent": 27.9
+      "roi_prozent": 26.1
     },
     "Ueber 215.5 Punkte (Spiel-Total)": {
       "tipps": 1,
@@ -1720,26 +1764,26 @@
       "roi_prozent": 0.0
     },
     "Unter 2.5 Tore": {
-      "tipps": 17,
-      "gewonnen": 14,
-      "verloren": 3,
+      "tipps": 19,
+      "gewonnen": 15,
+      "verloren": 4,
       "push": 0,
       "offen": 0,
-      "einsatz": 17.0,
+      "einsatz": 19.0,
       "netto": 7.44,
-      "trefferquote": 82.4,
-      "roi_prozent": 43.8
+      "trefferquote": 78.9,
+      "roi_prozent": 39.2
     },
     "Beide Teams treffen JA": {
-      "tipps": 6,
-      "gewonnen": 2,
-      "verloren": 2,
+      "tipps": 9,
+      "gewonnen": 3,
+      "verloren": 4,
       "push": 0,
       "offen": 2,
-      "einsatz": 4.0,
+      "einsatz": 7.0,
       "netto": 2.22,
-      "trefferquote": 50.0,
-      "roi_prozent": 55.5
+      "trefferquote": 42.9,
+      "roi_prozent": 31.7
     },
     "Sieg Girona (1X2)": {
       "tipps": 1,
@@ -4164,15 +4208,15 @@
       "roi_prozent": 12.2
     },
     "Ueber 2.5 Tore": {
-      "tipps": 45,
-      "gewonnen": 23,
-      "verloren": 20,
+      "tipps": 47,
+      "gewonnen": 24,
+      "verloren": 21,
       "push": 0,
       "offen": 2,
-      "einsatz": 43.0,
+      "einsatz": 45.0,
       "netto": 10.26,
-      "trefferquote": 53.5,
-      "roi_prozent": 23.9
+      "trefferquote": 53.3,
+      "roi_prozent": 22.8
     },
     "Spread/Handicap": {
       "tipps": 9,
@@ -4208,15 +4252,15 @@
       "roi_prozent": 23.3
     },
     "Beide Teams treffen JA": {
-      "tipps": 16,
-      "gewonnen": 6,
-      "verloren": 8,
+      "tipps": 19,
+      "gewonnen": 7,
+      "verloren": 10,
       "push": 0,
       "offen": 2,
-      "einsatz": 14.0,
+      "einsatz": 17.0,
       "netto": 2.45,
-      "trefferquote": 42.9,
-      "roi_prozent": 17.5
+      "trefferquote": 41.2,
+      "roi_prozent": 14.4
     },
     "Barcelona oder Remis (1X)": {
       "tipps": 1,
@@ -4318,15 +4362,15 @@
       "roi_prozent": 13.7
     },
     "Unter 2.5 Tore": {
-      "tipps": 23,
-      "gewonnen": 17,
-      "verloren": 6,
+      "tipps": 25,
+      "gewonnen": 18,
+      "verloren": 7,
       "push": 0,
       "offen": 0,
-      "einsatz": 23.0,
+      "einsatz": 25.0,
       "netto": 7.86,
-      "trefferquote": 73.9,
-      "roi_prozent": 34.2
+      "trefferquote": 72.0,
+      "roi_prozent": 31.4
     },
     "Doppelte Chance": {
       "tipps": 3,
@@ -4540,15 +4584,15 @@
       "roi_prozent": 8.4
     },
     "1.50-2.00": {
-      "tipps": 191,
-      "gewonnen": 100,
-      "verloren": 86,
+      "tipps": 198,
+      "gewonnen": 103,
+      "verloren": 90,
       "push": 1,
       "offen": 4,
-      "einsatz": 187.0,
+      "einsatz": 194.0,
       "netto": 22.59,
-      "trefferquote": 53.8,
-      "roi_prozent": 12.1
+      "trefferquote": 53.4,
+      "roi_prozent": 11.6
     },
     "2.00-3.00": {
       "tipps": 68,
@@ -4586,15 +4630,15 @@
       "roi_prozent": 8.6
     },
     "wackel": {
-      "tipps": 116,
-      "gewonnen": 50,
-      "verloren": 66,
+      "tipps": 123,
+      "gewonnen": 53,
+      "verloren": 70,
       "push": 0,
       "offen": 0,
-      "einsatz": 116.0,
+      "einsatz": 123.0,
       "netto": 2.15,
       "trefferquote": 43.1,
-      "roi_prozent": 1.9
+      "roi_prozent": 1.7
     },
     "value": {
       "tipps": 268,
@@ -4652,6 +4696,137 @@
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-08-07",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "Kombi Safe ~4.75x (Auftakt-Slate)",
+          "kategorie": "",
+          "gesamtquote": 4.75,
+          "einsatz_prozent": 1.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Beide Teams treffen JA",
+              "quote": 1.72,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.55,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.78,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Kombi Balance ~8x",
+          "kategorie": "",
+          "gesamtquote": 8.12,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg 1X2: Club Brugge",
+              "quote": 1.25,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg 1X2: Famalicao",
+              "quote": 2.28,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg 1X2: Hertha",
+              "quote": 2.85,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Kombi Risiko ~44x (Underdog-Ponte-Sieg + Non-Sieg)",
+          "kategorie": "",
+          "gesamtquote": 44.01,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg 1X2: Ponte Preta",
+              "quote": 8.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.72,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen NEIN",
+              "quote": 1.72,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen NEIN",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Kombi Moonshot-Light ~12x (Slate zu duenn fuer echten 100x)",
+          "kategorie": "",
+          "gesamtquote": 16.14,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Torschuetzen Jederzeit: Josip Brekalo (Hertha)",
+              "quote": 3.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen JA",
+              "quote": 2.1,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen JA",
+              "quote": 2.05,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-08-06",
       "gesamt": {

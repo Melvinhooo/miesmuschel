@@ -1,0 +1,1028 @@
+{
+  "datum": "2026-08-07",
+  "erstellt_am": "2026-08-07T14:30:00+02:00",
+  "hinweis": "🐚 Fr 07.08.2026 · Ligen-Auftakt-Slate · WM 2026 durch (19.07.), NBA Finals durch, Top-5-Ligen noch Pause, EL/UECL-Q3 erst Rueckspiel Di-Do (12.-14.08.). Heute nur 4 Beobachtungs-Ligen-Auftakte: 2.BL (Bochum-Hertha), Belgien (Brugge-Kortrijk), Portugal (Estoril-Famalicao), Brasilien Serie B (Ceara-Ponte Preta). Alle Tipps max WACKEL (Beobachtungs-Liga-Regel). Kasse-Stufe 1 (550€). Kein echter Moonshot 100x moeglich (Slate zu duenn, keine Torschuetzen-Aggregator ausserhalb Bochum-Hertha) - Moonshot-Slot als 3-Bein-Torschuetzen-Spass ~12x deklariert. Quoten bei bet365 live pruefen (Aggregator-Basis: sportsgambler/mightytips/ratingbet/footballwhispers/netflu).",
+  "_emergency_recovery": true,
+  "spiele": [
+    {
+      "id": "2026-08-07-boc-her",
+      "liga": "2. Bundesliga 2026/27 - 1. Spieltag",
+      "heim": "VfL Bochum",
+      "gast": "Hertha BSC",
+      "anstoss": "2026-08-07T20:30:00+02:00",
+      "stadion": "Vonovia Ruhrstadion, Bochum",
+      "saison_kontext": {
+        "parallel_heim": "keine - 2. BL Saison-Auftakt, DFB-Pokal-R1 Ende Juli bereits gespielt",
+        "parallel_gast": "keine - 2. BL Saison-Auftakt",
+        "saisonziel_heim": "Klassenerhalt/oberes Mittelfeld - letzte Saison Platz 9 unter Roesler, 5 Neuzugaenge Startelf erwartet (Crimaldi bestaetigt)",
+        "saisonziel_gast": "Aufstiegskampf 4. Saison in Folge - letzte Saison Platz 7 unter Leitl, Kern-Kader stabil, Brekalo neuer Kapitaen",
+        "motivations_asymmetrie": "Beide voll motiviert - Saison-Auftakt. Bochum-Heimvorteil vs Hertha-Kader-Kontinuitaet. Bochum letztes H2H unbesiegt (3U/2S), aber Squad-Umbruch schwaecht Vertrautheit. Coinflip-Charakter.",
+        "recovery_heim": "Volle Vorbereitungspause, keine Wettbewerbs-Belastung",
+        "recovery_gast": "Volle Vorbereitungspause, keine Wettbewerbs-Belastung",
+        "quellen": [
+          "https://www.sportsgambler.com/betting-tips/football/bochum-vs-hertha-bsc-prediction-lineups-odds-2026-08-07/",
+          "https://www.mightytips.com/football-predictions/bochum-vs-hertha-berlin-prediction-07-08-2026/",
+          "https://www.kicker.de/2-bundesliga/spieltag"
+        ]
+      },
+      "news": [
+        "Bochum-Ausfaelle: Pannewig + Sobottka + Rakneberg + Sissoko fraglich - Sturm-Spitze Hofmann startet, 5 Neuzugaenge in Startelf erwartet",
+        "Hertha-Ausfaelle: Gechter (Rot-Sperre), Zeefuik + Dardai (Muskel) - Sturm-Spitze Schuler nach Reha fit, Groenning Backup",
+        "Letzte H2H: Bochum ungeschlagen 3U/2S, zuletzt 1:1 im Olympiastadion",
+        "Hertha kommt aus 6:1-Klatsche in Bielefeld (Testspiel Ende Juli) - Vertrauens-Delle",
+        "Saison-Auftakt-Slot mit Coinflip-Charakter"
+      ],
+      "tipps": [
+        {
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.72,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 5,
+          "begruendung": "BTTS Ja ist Goldgrube-Markt (+20.4% ROI, HR 50%). Beide Teams offensiv orientiert (Bochum 1.7 Tore/Spiel letzte 10, Hertha 1.3). Hertha-Defense zuletzt loechrig (6:1-Klatsche Bielefeld Test + Gechter gesperrt). Bochum-Squad neu = Abwehr-Automatismen fehlen. H2H letzte 5 Duelle immer 1+ auf beiden Seiten. Beobachtungs-Liga-Auftakt-Cluster-Brick-Risiko (Lesson HR07-29-4) haelt Kategorie wackel. Stake 0.5% Kasse (Stufe 1).",
+          "layer_2_tag": "btts",
+          "faire_quote": 1.63,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Doppelte Chance X2: Hertha oder Remis",
+          "quote": 1.58,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 4,
+          "begruendung": "DC X2 ist Goldgrube (77.8% Hit, +9.4% ROI). Hertha-Kader-Kontinuitaet + Coach-Optimismus (Leitl 2. Jahr) vs Bochum-Umbruch (5 Neuzugaenge Startelf) + Bochum-Defense-Fragezeichen. Bochum H2H stark aber neuer Squad = Vertrautheits-Verlust. Beobachtungs-Liga-Auftakt max wackel trotz starker Story.",
+          "layer_2_tag": "hertha_sieg_dc",
+          "faire_quote": 1.5,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Torschuetzen Jederzeit: Ibrahim Sissoko (Bochum)",
+          "quote": 2.88,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 5,
+          "begruendung": "Torschuetzen Jederzeit ist bester Markt im System (+24.4% ROI, HR 50% - Pflicht bei Heim-Fav). Sissoko Bochum-Hauptstuermer im Kader-Umbruch. WACKEL statt VALUE weil Sprunggelenks-Fragezeichen im Vorbericht + Aufstellungs-Risiko (kann rausrotieren wenn nicht fit) + Beobachtungs-Liga. Hofmann als Backup-Volume-9er = Einwechslungs-Boost-Absicherung wenn Sissoko rausgeht. Bei bet365 live pruefen ob Sissoko in Startelf.",
+          "layer_2_tag": "sissoko_tor",
+          "faire_quote": 2.74,
+          "empfohlener_einsatz_prozent": 0.5,
+          "_startelf_verifikation_pending": true
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 0,
+        "gast_tore": 1,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 1,
+        "status": "FINISHED"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-08-07-boc-her-t0",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "BTTS Ja: nur Hertha traf (Groenning 39.)"
+        },
+        {
+          "tipp_id": "2026-08-07-boc-her-t1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.58,
+          "kommentar": "DC X2: Hertha-Sieg 1:0"
+        },
+        {
+          "tipp_id": "2026-08-07-boc-her-t2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Sissoko traf nicht - Bochum insgesamt torlos, kein Einwechslungs-Boost moeglich"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "0:1",
+        "tore": [
+          {
+            "min": 39,
+            "team": "gast",
+            "spieler": "Sebastian Groenning",
+            "stand_danach": "0:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Hertha fuehrte 1:0 zur Pause + hielt den Vorsprung. Kein 2-Tore-Vorsprung erreicht, also keine 2:0-Insurance-Anwendung (Regel gilt ohnehin nur BL1/CL/WM, nicht 2. BL)."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "unter_2_5": true,
+          "unter_3_5": true,
+          "halbzeit_endstand": "Hertha/Hertha",
+          "kein_team_zu_null": false,
+          "sieg_heim": false,
+          "sieg_gast": true,
+          "remis": false,
+          "dc_1x": false,
+          "dc_x2": true,
+          "dc_12": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Groenning-Lupfer 39. entschied Auftakt, Bochum spielfeld-ueberlegen 2.HZ aber ohne Chancenverwertung.",
+          "6. Auftaktspiel-Niederlage in Folge fuer Bochum - Auftakt-Underperformance-Pattern bestaetigt.",
+          "Hertha 1. Auftaktsieg seit 6 Jahren - Kader-Kontinuitaets-Story (Leitl 2. Jahr) trumpft Bochum-Umbruch (5 Neuzugaenge)."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-07-brg-kor",
+      "liga": "Belgien Jupiler Pro League 2026/27 - 1. Spieltag",
+      "heim": "Club Brugge",
+      "gast": "KV Kortrijk",
+      "anstoss": "2026-08-07T20:45:00+02:00",
+      "stadion": "Jan Breydel Stadion, Bruegge",
+      "saison_kontext": {
+        "parallel_heim": "CL-Q3-Hinspiel am 05./06.08. bereits absolviert, Rueckspiel folgt 12./13.08. - Doppelbelastungs-Slot mit Rotations-Risiko",
+        "parallel_gast": "keine - Aufsteiger aus Challenger Pro League",
+        "saisonziel_heim": "Titelverteidigung Belgien-Meisterschaft + CL-Gruppenphase",
+        "saisonziel_gast": "Klassenerhalt nach direktem Wiederaufstieg (2. Platz Challenger Pro League)",
+        "motivations_asymmetrie": "Massiver Klassen-Edge Brugge, aber CL-Doppelbelastung (Q3-Hinspiel gerade absolviert) forciert Rotation. Kortrijk als Aufsteiger frisch, aber strukturelles Gefaelle (H2H 48 vs 14 Siege in 79 Duellen). Klassen-Edge nicht 1:1 in Sieg-Sicherheit ummuenzbar wegen Rotation.",
+        "recovery_heim": "1-2 Tage seit CL-Q3-Hinspiel - REDUZIERTES Recovery-Fenster, Rotation wahrscheinlich",
+        "recovery_gast": "Volle Vorbereitungspause",
+        "quellen": [
+          "https://www.mightytips.com/football-predictions/club-brugge-vs-kortrijk-prediction-07-08-2026/",
+          "https://www.sportskeeda.com/football/club-brugge-vs-kortrijk-prediction-betting-tips-august-7th-2026",
+          "https://ratingbet.com/predictions/club-brugge-vs-kortrijk-prediction-teams-form-analysis-possible-lineups-on-august-7-2026/",
+          "https://www.uefa.com/uefachampionsleague/"
+        ]
+      },
+      "news": [
+        "Club Brugge Titelverteidiger - klarer Fav @1.25",
+        "Kortrijk Aufsteiger nach 1 Jahr Challenger Pro League",
+        "Brugge gerade CL-Q3-Hinspiel absolviert - Rotations-Risiko im Liga-Auftakt",
+        "H2H 79 Duelle: Brugge 48 Siege, 17 Remis, 14 Kortrijk (60% Brugge-Sieg-Rate)",
+        "Belgien Pro League Beobachtungs-Liga fuer Miesmuschel - max wackel"
+      ],
+      "tipps": [
+        {
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.55,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 5,
+          "begruendung": "Ueber 2.5 Top-Goldgrube (+23.9% ROI, HR 66.7%). Brugge Heim gegen strukturellen Underdog, historisch Torfestival-Tendenz. Aber CL-Doppelbelastung koennte Rotation forcieren + Kortrijk-Defense konservativ als Aufsteiger. Beobachtungs-Liga-Auftakt + Rotations-Risiko halten Kategorie wackel.",
+          "layer_2_tag": "tore",
+          "faire_quote": 1.46,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Sieg 1X2: Club Brugge",
+          "quote": 1.25,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 3,
+          "begruendung": "Sieg-Markt Goldgrube-light (+6.0% ROI). Brugge klarer Fav @1.25 + H2H-Dominanz + Heimvorteil. Aber CL-Doppelbelastung (Rueckspiel 12./13.08. in Sicht) = Rotations-Risiko. Aufsteiger-Ueberraschungs-Risiko nicht null. Kombi-tauglich als Anker, Solo-Bein zu kurz.",
+          "layer_2_tag": "brugge_sieg",
+          "faire_quote": 1.21,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 3,
+        "gast_tore": 0,
+        "halbzeit_heim": 1,
+        "halbzeit_gast": 0,
+        "status": "FINISHED"
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "3:0",
+        "tore": [
+          {
+            "min": 30,
+            "team": "heim",
+            "spieler": "Hugo Vetlesen",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 68,
+            "team": "heim",
+            "spieler": "Carlos Forbs",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 74,
+            "team": "heim",
+            "spieler": "Nicolo Tresoldi (FE)",
+            "stand_danach": "3:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Brugge zu keinem Zeitpunkt in Rueckstand. Klassifizierungs-Edge trotz CL-Doppelbelastung durchgesetzt."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "unter_2_5": false,
+          "unter_3_5": true,
+          "halbzeit_endstand": "Brugge/Brugge",
+          "kein_team_zu_null": false,
+          "sieg_heim": true,
+          "sieg_gast": false,
+          "remis": false,
+          "dc_1x": true,
+          "dc_x2": false,
+          "dc_12": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Kader",
+            "details": "Trotz CL-Q3-Hinspiel 05./06.08. keine sichtbare Rotations-Schwaeche - Brugge-Bank tief genug fuer 2 Wettbewerbe."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Aufsteiger Kortrijk als Underdog chancenlos - Klassen-Edge Pro League bestaetigt (48-14 H2H holt sich).",
+          "Ueber-2.5 (getippt) knapp erreicht mit 3 Toren - Ceiling-Erreicht-Slot.",
+          "BTTS-Nein (Risiko-Kombi-Bein) erfuellt trotz 3 Toren - Aufsteiger-zu-Null-Pattern lieferte."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-08-07-brg-kor-t0",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.55,
+          "kommentar": "Ueber 2.5: 3 Tore"
+        },
+        {
+          "tipp_id": "2026-08-07-brg-kor-t1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.25,
+          "kommentar": "Brugge-Sieg 3:0"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-07-est-fam",
+      "liga": "Portugal Primeira Liga 2026/27 - 1. Spieltag",
+      "heim": "Estoril Praia",
+      "gast": "FC Famalicao",
+      "anstoss": "2026-08-07T20:15:00+02:00",
+      "stadion": "Estadio Antonio Coimbra da Mota, Estoril",
+      "saison_kontext": {
+        "parallel_heim": "keine - nicht in EU-Wettbewerben qualifiziert",
+        "parallel_gast": "keine - 5. Platz letzte Saison, aber keine EU-Quali",
+        "saisonziel_heim": "Klassenerhalt / unteres Mittelfeld - 1 Sieg in 12 Ligaspielen seit Maerz, Krisen-Vorbereitung",
+        "saisonziel_gast": "EU-Quali anpeilen - 12 Spiele unbesiegt zum Saisonende (6S/6U), Trainer-Stabilitaet, Kern-Kader unveraendert",
+        "motivations_asymmetrie": "Klar zugunsten Famalicao: Form-Kontinuitaet + H2H (4 Siege in Folge vs Estoril, zuletzt 4:0 Dez 2025) + Trainer-Stabilitaet vs Estoril im Motivations-Tief mit Krisen-Vorbereitung. Story ist stark, Beobachtungs-Liga haelt Kategorie aber wackel.",
+        "recovery_heim": "Volle Vorbereitungspause",
+        "recovery_gast": "Volle Vorbereitungspause",
+        "quellen": [
+          "https://www.mightytips.com/football-predictions/estoril-praia-vs-famalicao-prediction-07-08-2026/",
+          "https://thefootballfaithful.com/estoril-vs-famalicao-prediction-betting-tips-07-08-2026/",
+          "https://www.sportsgambler.com/betting-tips/football/estoril-vs-famalicao-prediction-lineups-odds-2026-08-07/"
+        ]
+      },
+      "news": [
+        "Estoril extrem schwach: 1 Sieg in 12 Ligaspielen seit Mitte Maerz, 8 Tore in 11 Spielen Saison-Ende",
+        "Famalicao 12 Spiele unbesiegt zum Ende Vorsaison, Vorbereitung 3S/4U, Kern-Kader unveraendert",
+        "H2H letzte 4 Duelle: Famalicao 4/4 Siege (u.a. 4:0 Dez 2025, 1:0 Apr 2026)",
+        "4 von letzten 6 beidseitigen Spielen unter 2.5 Tore - defensive Auftakt-Tendenz",
+        "Portugal Primeira Liga Beobachtungs-Liga fuer Miesmuschel - max wackel"
+      ],
+      "tipps": [
+        {
+          "kategorie": "wackel",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.78,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 7,
+          "begruendung": "Unter 2.5 mit starkem Slot: 4 von 6 letzten Spielen beider Teams unter 2.5. Estoril harmlos offensiv (8 Tore in 11 Spielen Vorsaison-Ende). Famalicao defensiv-stabil (Kern-Kader unveraendert). Portugal-Auftakt oft taktisch abgesichert (Lesson HR07-28-1 Q2-Verwalter-Bias). Beobachtungs-Liga + kein Live-Squad-Check = max wackel.",
+          "layer_2_tag": "unter_25",
+          "faire_quote": 1.66,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Doppelte Chance X2: Famalicao oder Remis",
+          "quote": 1.3,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 3,
+          "begruendung": "DC X2 Goldgrube (77.8% Hit, +9.4% ROI). Famalicao H2H-Dominanz (4/4 letzte) + Estoril-Krisenform + Motivations-Edge. Quote 1.30 zu kurz fuer hoehere Kategorie in Beobachtungs-Liga. Kombi-Anker mit starker Story.",
+          "layer_2_tag": "famalicao_sieg_dc",
+          "faire_quote": 1.26,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Sieg 1X2: Famalicao",
+          "quote": 2.28,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 6,
+          "begruendung": "Sieg-Markt Goldgrube-light (+6.0% ROI). Famalicao H2H 4/4 vs Estoril + Form-Kontinuitaet (12 unbesiegt) + Estoril-Krisen-Vorbereitung + Trainer-Stabilitaet vs Chaos. Beobachtungs-Liga max wackel, aber Story rechtfertigt hoehere Quote-Wette als DC.",
+          "layer_2_tag": "famalicao_sieg",
+          "faire_quote": 2.15,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 1,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 1,
+        "status": "FINISHED"
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "1:1",
+        "tore": [
+          {
+            "min": 32,
+            "team": "gast",
+            "spieler": "Georgios Koutsias",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 72,
+            "team": "heim",
+            "spieler": "Yanis Begraoui",
+            "stand_danach": "1:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Estoril kam nur zurueck (Ausgleich 72.), keine 2-Tore-Differenz oder Fuehrungswechsel. Remis bricht Famalicao-H2H-Serie (4/4)."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "unter_2_5": true,
+          "unter_3_5": true,
+          "halbzeit_endstand": "Famalicao/Unentschieden",
+          "kein_team_zu_null": true,
+          "sieg_heim": false,
+          "sieg_gast": false,
+          "remis": true,
+          "dc_1x": true,
+          "dc_x2": true,
+          "dc_12": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Portugal-Auftakt-Verwalter-Bias-Pattern erfuellt: Unter 2.5 hielt mit 2 Toren (Lesson HR07-28-1 angewandt).",
+          "Famalicao-H2H-4/4-Serie GEBROCHEN: erstes Remis nach 4 Siegen - Estoril-Krise NICHT so bodenlos wie Aggregator suggerierte.",
+          "Estoril-Ausgleich 72. gegen H2H-Historie = Auftakt-Motivation-Boost typisch fuer Krise-Team im ersten Spiel."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-08-07-est-fam-t0",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.78,
+          "kommentar": "Unter 2.5: 2 Tore"
+        },
+        {
+          "tipp_id": "2026-08-07-est-fam-t1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.3,
+          "kommentar": "DC X2: Remis"
+        },
+        {
+          "tipp_id": "2026-08-07-est-fam-t2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Famalicao gewann nicht (1:1)"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-07-cea-pon",
+      "liga": "Brasilien Serie B 2026",
+      "heim": "Ceara SC",
+      "gast": "AA Ponte Preta",
+      "anstoss": "2026-08-08T01:30:00+02:00",
+      "stadion": "Estadio Presidente Vargas, Fortaleza",
+      "saison_kontext": {
+        "parallel_heim": "keine - Copa do Brasil bereits ausgeschieden",
+        "parallel_gast": "keine",
+        "saisonziel_heim": "Aufstieg / Klassenerhalt Serie B - aktuell 16. Platz nach schwachem Start",
+        "saisonziel_gast": "Klassenerhalt - Tabellenletzter (20. Platz, 14 Spiele ohne Sieg)",
+        "motivations_asymmetrie": "Ceara Heim + strukturell ueberlegen + Ponte-Preta-Krise. ABER Ceara Defense-Krise (4 Ausfaelle: Eder + Julio Cesar gesperrt, Pedro Gilmar Saison-Aus, Luizao verletzt). Ponte Preta null zu verlieren = potenzielle Free-Roll-Motivation. Klassifizierungs-Story stark aber Defense-Krise drueckt Sicherheit.",
+        "recovery_heim": "~4 Tage seit letztem Serie-B-Spieltag - moderate Belastung",
+        "recovery_gast": "~4 Tage seit letztem Serie-B-Spieltag - moderate Belastung",
+        "quellen": [
+          "https://news.bet365.bet.br/pt-br/article/ceara-x-ponte-preta-noticias-odds-estatisticas-escalacoes-provaveis-horario-e-onde-assistir/2026080612474187742",
+          "https://www.netflu.com.br/ceara-x-ponte-preta-palpites-prognostico-serie-b-07-08-2026/",
+          "https://olhardigital.com.br/apostas/ceara-x-ponte-preta-palpites-e-onde-assistir-07-08-2026/"
+        ]
+      },
+      "news": [
+        "Ceara Defense-Krise: Eder + Julio Cesar gesperrt, Pedro Gilmar Saison-Aus, Luizao verletzt - 4 Defense-Ausfaelle",
+        "Ponte Preta 14 Ligaspiele ohne Sieg, Tabellenletzter",
+        "Ceara Fav @1.33 trotz Krise",
+        "Neuzugaenge Luiz Otavio + Thalisson sollen Abwehr-Loecher stopfen",
+        "Brasilien Serie B Beobachtungs-Liga - max wackel"
+      ],
+      "tipps": [
+        {
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.75,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 5,
+          "begruendung": "Ueber 2.5 Top-Goldgrube (+23.9% ROI). Ceara Defense-Krise (4 Ausfaelle) + Ponte-Preta wird versuchen mit Fern-Sieg-Motivation offen zu spielen. Ceara-Heim-Angriff funktioniert. Torfestival wahrscheinlich. Beobachtungs-Liga + Nacht-Spiel = max wackel.",
+          "layer_2_tag": "tore",
+          "faire_quote": 1.67,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Doppelte Chance 1X: Ceara oder Remis",
+          "quote": 1.06,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 2,
+          "begruendung": "DC 1X Goldgrube (84.6% Hit, +9.5% ROI). Ponte-Preta 14 Spiele ohne Sieg + tabellenletzter. Ceara-Heimvorteil trotz Defense-Krise. Quote 1.06 zu kurz fuer Solo-Bein, Kombi-Anker-tauglich. Beobachtungs-Liga.",
+          "layer_2_tag": "ceara_sieg_dc",
+          "faire_quote": 1.04,
+          "empfohlener_einsatz_prozent": 0.25
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 0,
+        "halbzeit_heim": 1,
+        "halbzeit_gast": 0,
+        "status": "FINISHED"
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "2:0",
+        "tore": [
+          {
+            "min": 28,
+            "team": "heim",
+            "spieler": "Lucca",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 77,
+            "team": "heim",
+            "spieler": "Giulio",
+            "stand_danach": "2:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Ceara nie in Rueckstand. Rote Karte Ponte Preta (Julio, 18. Min, 2. Gelb) beguenstigte Ceara-Sieg deutlich - strukturell dominiert trotz eigener Defense-Krise."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "unter_2_5": true,
+          "unter_3_5": true,
+          "halbzeit_endstand": "Ceara/Ceara",
+          "kein_team_zu_null": false,
+          "sieg_heim": true,
+          "sieg_gast": false,
+          "remis": false,
+          "dc_1x": true,
+          "dc_x2": false,
+          "dc_12": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Rote Karte Ponte Preta 18. Min kippte Spiel frueh - Ceara-Defense-Krise-Sorge irrelevant weil Gegner in Unterzahl.",
+          "Ueber-2.5 (getippt) verfehlt mit nur 2 Toren - Ponte-Preta-Unterzahl fuehrte zu Verwalten statt Kontern.",
+          "Ponte Preta 15. Ligaspiel ohne Sieg (Rekord-Serie) - Krise-Pattern-Bestaetigt.",
+          "Nacht-Spiel Brasilien Serie B: DC 1X (getippt) mit 1.06 als Kombi-Anker gerechtfertigt."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-08-07-cea-pon-t0",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Ueber 2.5: nur 2 Tore, Rote Karte 18. Min bremste Torfestival"
+        },
+        {
+          "tipp_id": "2026-08-07-cea-pon-t1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.06,
+          "kommentar": "DC 1X: Ceara-Sieg 2:0"
+        }
+      ]
+    }
+  ],
+  "einzeltipps": [
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-07-est-fam",
+      "spiel_label": "Estoril vs Famalicao",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.78,
+      "einsatz_euro": 2.75,
+      "begruendung": "Bester Einzel-Slot heute: 4/6 letzte Duelle unter 2.5 + Estoril harmlos (8 Tore in 11 Spielen) + Famalicao defensiv-stabil + Portugal-Auftakt-Verwalter-Bias. Beobachtungs-Liga haelt wackel.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 1
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-07-boc-her",
+      "spiel_label": "Bochum vs Hertha",
+      "markt": "Beide Teams treffen JA",
+      "quote": 1.72,
+      "einsatz_euro": 2.75,
+      "begruendung": "BTTS Goldgrube (+20.4% ROI). Hertha-Defense loechrig (6:1 Bielefeld-Test + Gechter gesperrt) + Bochum-Squad neu. H2H-Serie beidseitig-Tor. Auftakt-Cluster-Brick-Risiko haelt wackel.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 2
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-07-brg-kor",
+      "spiel_label": "Club Brugge vs Kortrijk",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.55,
+      "einsatz_euro": 2.75,
+      "begruendung": "Ueber 2.5 Top-Goldgrube (+23.9% ROI). Brugge Klassifizierungs-Edge trotz CL-Rotation. Kortrijk-Aufsteiger-Defense fragil. Beobachtungs-Liga wackel.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 3
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-07-est-fam",
+      "spiel_label": "Estoril vs Famalicao",
+      "markt": "Sieg 1X2: Famalicao",
+      "quote": 2.28,
+      "einsatz_euro": 2.75,
+      "begruendung": "Famalicao H2H 4/4 vs Estoril + Form-Kontinuitaet (12 unbesiegt) + Trainer-Stabilitaet vs Estoril-Chaos. Sieg-Wette hoehere Quote als DC (2.28 vs 1.30 = 76% Zusatz).",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 4
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-07-cea-pon",
+      "spiel_label": "Ceara vs Ponte Preta",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.75,
+      "einsatz_euro": 2.75,
+      "begruendung": "Ueber 2.5 Top-Goldgrube. Ceara Defense-Krise (4 Ausfaelle) + Ponte-Preta muss offen spielen fuer Punkte. Torfestival wahrscheinlich. Beobachtungs-Liga + Nachtspiel wackel.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 5
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-07-boc-her",
+      "spiel_label": "Bochum vs Hertha",
+      "markt": "Doppelte Chance X2: Hertha oder Remis",
+      "quote": 1.58,
+      "einsatz_euro": 2.75,
+      "begruendung": "DC X2 Goldgrube (77.8% Hit). Hertha-Kader-Kontinuitaet vs Bochum-Umbruch (5 Neuzugaenge Startelf) + Bochum-Defense-Fragezeichen. Beobachtungs-Liga wackel.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 6
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-07-boc-her",
+      "spiel_label": "Bochum vs Hertha",
+      "markt": "Torschuetzen Jederzeit: Ibrahim Sissoko (Bochum)",
+      "quote": 2.88,
+      "einsatz_euro": 2.75,
+      "begruendung": "Torschuetzen Top-Goldgrube (+24.4% ROI). Sissoko Bochum-Hauptstuermer, aber Sprunggelenks-Fragezeichen im Vorbericht = Aufstellungs-Risiko. Bei bet365 Startelf pruefen.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 7
+    }
+  ],
+  "kombis": [
+    {
+      "name": "Kombi Safe ~4.75x (Auftakt-Slate)",
+      "typ": "safe",
+      "einsatz_euro": 5.5,
+      "beine": [
+        {
+          "spiel_id": "2026-08-07-boc-her",
+          "spiel_label": "Bochum vs Hertha",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.72
+        },
+        {
+          "spiel_id": "2026-08-07-brg-kor",
+          "spiel_label": "Club Brugge vs Kortrijk",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.55
+        },
+        {
+          "spiel_id": "2026-08-07-est-fam",
+          "spiel_label": "Estoril vs Famalicao",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.78
+        }
+      ],
+      "moeglicher_gewinn_euro": 26.13,
+      "begruendung": "3-Bein Non-Sieg-Kombi mit den staerksten statistischen Slots. Layer-1: 3 verschiedene Spiele. Layer-2: 0 Sieg-Outcomes verbraucht. Alle Beine Goldgruben-Maerkte (BTTS/Ueber/Unter). Reduzierter Stake (1% statt 2%) weil ALLE Beine wackel (Beobachtungs-Liga-Regel) - kein echter Safe-Boden.",
+      "gesamtquote": 4.75,
+      "rechnung": "1.72 x 1.55 x 1.78 = 4.75",
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "name": "Kombi Balance ~8x",
+      "typ": "balance",
+      "einsatz_euro": 4.4,
+      "beine": [
+        {
+          "spiel_id": "2026-08-07-brg-kor",
+          "spiel_label": "Club Brugge vs Kortrijk",
+          "markt": "Sieg 1X2: Club Brugge",
+          "quote": 1.25
+        },
+        {
+          "spiel_id": "2026-08-07-est-fam",
+          "spiel_label": "Estoril vs Famalicao",
+          "markt": "Sieg 1X2: Famalicao",
+          "quote": 2.28
+        },
+        {
+          "spiel_id": "2026-08-07-boc-her",
+          "spiel_label": "Bochum vs Hertha",
+          "markt": "Sieg 1X2: Hertha",
+          "quote": 2.85
+        }
+      ],
+      "moeglicher_gewinn_euro": 35.73,
+      "begruendung": "3 Sieg-Outcomes aus 3 verschiedenen Spielen. Layer-1: 3 Spiele. Layer-2 hart: Sieg-Outcome max 1 Kombi/Spiel - Brugge/Famalicao/Hertha-Sieg-Outcomes hier verbraucht. Layer-3 vs Safe: alle 3 Spiele ueberlappen, aber Markt-entkoppelt (Sieg vs BTTS/Ueber/Unter). Ceara-Ponte-Sieg-Outcome bleibt frei fuer Risiko-Kombi.",
+      "gesamtquote": 8.12,
+      "rechnung": "1.25 x 2.28 x 2.85 = 8.12",
+      "empfohlener_einsatz_prozent": 0.8
+    },
+    {
+      "name": "Kombi Risiko ~44x (Underdog-Ponte-Sieg + Non-Sieg)",
+      "typ": "risiko",
+      "einsatz_euro": 1.4,
+      "beine": [
+        {
+          "spiel_id": "2026-08-07-cea-pon",
+          "spiel_label": "Ceara vs Ponte Preta",
+          "markt": "Sieg 1X2: Ponte Preta",
+          "quote": 8.5
+        },
+        {
+          "spiel_id": "2026-08-07-boc-her",
+          "spiel_label": "Bochum vs Hertha",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.72
+        },
+        {
+          "spiel_id": "2026-08-07-brg-kor",
+          "spiel_label": "Club Brugge vs Kortrijk",
+          "markt": "Beide Teams treffen NEIN",
+          "quote": 1.72
+        },
+        {
+          "spiel_id": "2026-08-07-est-fam",
+          "spiel_label": "Estoril vs Famalicao",
+          "markt": "Beide Teams treffen NEIN",
+          "quote": 1.75
+        }
+      ],
+      "moeglicher_gewinn_euro": 61.61,
+      "begruendung": "4-Bein Risiko mit Ponte-Preta-Underdog-Sieg (@8.50 - 14 Spiele ohne Sieg + Ceara-Defense-Krise als Umkehr-Trigger) + 3 Non-Sieg-Beine. Layer-1: 4 Spiele. Layer-2: 1 Sieg-Outcome (Ponte Preta - Ceara-Ponte-Slot). Layer-3 vs Safe: BTTS Nein Estoril + Unter 2.5 Estoril in Safe = positiv korreliert (0-0 oder 1-0 erfuellt beides). BTTS Nein Brugge + Ueber 2.5 Brugge in Safe = seltene aber moegliche 3-0/0-3-Konstellation - kein Widerspruch. Ueber 2.5 Bochum + BTTS Ja Bochum in Safe = positiv korreliert.",
+      "gesamtquote": 44.01,
+      "rechnung": "8.50 x 1.72 x 1.72 x 1.75 = 44.01",
+      "empfohlener_einsatz_prozent": 0.25
+    },
+    {
+      "name": "Kombi Moonshot-Light ~12x (Slate zu duenn fuer echten 100x)",
+      "typ": "moonshot",
+      "einsatz_euro": 0.55,
+      "beine": [
+        {
+          "spiel_id": "2026-08-07-boc-her",
+          "spiel_label": "Bochum vs Hertha",
+          "markt": "Torschuetzen Jederzeit: Josip Brekalo (Hertha)",
+          "quote": 3.75
+        },
+        {
+          "spiel_id": "2026-08-07-cea-pon",
+          "spiel_label": "Ceara vs Ponte Preta",
+          "markt": "Beide Teams treffen JA",
+          "quote": 2.1
+        },
+        {
+          "spiel_id": "2026-08-07-brg-kor",
+          "spiel_label": "Club Brugge vs Kortrijk",
+          "markt": "Beide Teams treffen JA",
+          "quote": 2.05
+        }
+      ],
+      "moeglicher_gewinn_euro": 8.88,
+      "begruendung": "EHRLICH: Slate 4 Beobachtungs-Ligen-Auftakte gibt keinen echten 100x-Moonshot her (alle Underdog-Sieg-Outcomes durch Balance/Risiko-Kombis Layer-2-verbraucht, Torschuetzen-Aggregator nur fuer Bochum-Hertha verifiziert = Layer-1 verhindert Torschuetzen aus 3 Spielen). Diese 3-Bein-Kombi ist Torschuetzen-Spass mit Warnung: (1) Brekalo Hertha-Kapitaen Standard-Bein, gegen Bochum-Neu-Defense plausibel; (2) BTTS Ja Ceara = Umkehr-Trigger vs Risiko-Ponte-Sieg (Portfolio-Konflikt akzeptiert weil unabhaengige Kombi); (3) BTTS Ja Brugge = Portfolio-Konflikt vs Risiko BTTS Nein (auch akzeptiert). Empfohlener Einsatz nur 0.1% Kasse (0.55€) = echter Spass-Betrag. Kein 100x, keine Kaufempfehlung als Real-Wette.",
+      "gesamtquote": 16.14,
+      "rechnung": "3.75 x 2.10 x 2.05 = 16.14",
+      "empfohlener_einsatz_prozent": 0.1
+    }
+  ],
+  "lessons_angewandt": [
+    "HR23 Layer-3-Diversifikation: Bei 4 Spielen und 4 Kombis ist Markt-Entkopplung genutzt (Bochum-Hertha in Safe/BTTS, Balance/Sieg, Risiko/Ueber, Moonshot/Torschuetze - je verschiedener Markt)",
+    "HR24 Form-Edge-Pflicht Torschuetzen: nur EIN Torschuetzen-Tipp (Sissoko) trotz Backup-Kandidaten - wegen Beobachtungs-Liga + Aufstellungs-Risiko",
+    "HR07-28-1 Q2-Aggregat-Verwalter-Bias applied auf Portugal-Auftakt = Unter-2.5-Slot Estoril-Famalicao gestaerkt",
+    "HR07-29-4 Kombi-Layer-4-Markt-Typ-Konzentration = Risiko-Kombi bewusst mit 4 verschiedenen Markt-Typen (Sieg + Ueber + 2x BTTS Nein - keine 4x-Torschuetzen-Cluster)",
+    "HR08-04-2 Kombi-Killer-Bein-Korrelation = Risiko-Kombi mit 3 Non-Sieg-Beinen die positiv-korrelieren zu Underdog-Ponte-Sieg gepaart (Umkehr-Szenarien wo Ceara-Krise auch andere Spiele beeinflusst)",
+    "HR08-06-1 EL-Q3-Killer-Bein-Cluster (PAOK-Lesson): heute keine EL/UECL-Spiele, aber Prinzip auf Beobachtungs-Ligen uebertragen = max wackel bei Auftakts-Unsicherheit",
+    "Beobachtungs-Liga-Regel: alle Tipps max wackel, kein SAFE moeglich (Regel aus beobachtungs_ligen.json angewandt)"
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "_verifikations_report": {
+    "durchgefuehrt_am": "2026-08-07T14:35:00+02:00",
+    "verifikations_typ": "master_intern (Fallback ohne Verifikations-Subagent)",
+    "checks": {
+      "layer_1_max_1_bein_pro_spiel_pro_kombi": "PASS (jede Kombi: 3-4 Beine aus 3-4 verschiedenen Spielen)",
+      "layer_2_sieg_outcome_max_1_kombi_pro_spiel": "PASS (Brugge/Famalicao/Hertha-Sieg-Outcomes NUR in Balance, Ponte-Preta-Sieg-Outcome NUR in Risiko, kein Ceara-Sieg-Outcome verwendet)",
+      "layer_3_spiel_max_1_kombi_wo_moeglich": "AKZEPTIERT (bei 4 Spielen + 4 Kombis mathematisch unmoeglich, Markt-Entkopplung genutzt)",
+      "quoten_range_pro_kategorie": "PASS (Safe 4.75x in 3-5x-Range, Balance 8.12x in 6-10x-Range, Risiko 43.9x knapp ueber 15-30x-Range aber im hoeheren Risiko-Zulassungsbereich, Moonshot 16.19x deutlich unter 100x-Ziel - EHRLICH gekennzeichnet)",
+      "gesamtquote_rechnung": "PASS (alle 4 Kombis mit rechnung-String)",
+      "kasse_stake_stufe_1": "PASS (Kasse 550€, Stufe 1 aktiv - Einzeltipps 0.25-0.5% = 1.40-2.75€, Kombi Safe reduziert auf 1% = 5.50€ wegen wackel-Beine, Kombi Balance 0.8% = 4.40€, Kombi Risiko 0.25% = 1.40€, Kombi Moonshot 0.1% = 0.55€)",
+      "beobachtungs_liga_max_wackel": "PASS (alle 4 Ligen auf beobachtungs_ligen.json-Liste, alle Tipps wackel)",
+      "verbotene_maerkte": "PASS (keine Assists/Rebounds/Steals/PRA/HZ-ES-Kombi/Genaues-Ergebnis in Tipps)",
+      "halluzinations_check": "PASS (nur Namen aus Aggregator-Quellen: Hofmann/Sissoko/Schuler/Groenning/Brekalo bei Bochum-Hertha - alle 5 im sportsgambler/mightytips-Vorbericht verifiziert. Andere Spiele: kein Torschuetzen-Tipp weil kein Aggregator-Torschuetzen-Beleg)",
+      "footer_bzga_pflicht": "PASS"
+    },
+    "warnungen": [
+      "Alle Tipps sind WACKEL - Slate ohne echte SAFE/VALUE-Slots (Beobachtungs-Ligen-Only)",
+      "Kombi Moonshot bei 16x weit unter 100x-Ziel - explizit als 'Moonshot-Light' markiert, User-Entscheidung ob spielen",
+      "Kombi Risiko bei 44x knapp ueber 15-30x-Range - im hoeheren Risiko-Zulassungsbereich, mit Underdog-Ponte-Sieg-Anker",
+      "Startelf-Verifikation fuer Sissoko (Bochum) pending wegen Sprunggelenks-Fragezeichen - User sollte bei bet365 live pruefen",
+      "Ceara-Ponte-Preta Nacht-Spiel Berlin-Zeit (01:30 08.08.) - ID mit Window-Datum 2026-08-07 gemaess Spiel-ID-Konvention"
+    ],
+    "empfehlung_gesamteinsatz_euro": 22.4,
+    "empfehlung_gesamteinsatz_prozent_kasse": 4.07,
+    "kommentar": "Ehrlicher Slate. Bei 4 Beobachtungs-Ligen-Auftakten ist der Erwartungswert modest - maximaler Gesamteinsatz von ~22€ (4% Kasse) bereits ambitioniert. Wenn Zweifel: nur Safe-Kombi (5.50€) + 2-3 Einzeltipps (8-10€) = ~15€ Gesamteinsatz."
+  },
+  "einzeltipps_ergebnis": [
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-07-est-fam",
+      "spiel_label": "Estoril vs Famalicao",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.78,
+      "einsatz_euro": 2.75,
+      "begruendung": "Bester Einzel-Slot heute: 4/6 letzte Duelle unter 2.5 + Estoril harmlos (8 Tore in 11 Spielen) + Famalicao defensiv-stabil + Portugal-Auftakt-Verwalter-Bias. Beobachtungs-Liga haelt wackel.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 1,
+      "status": "gewonnen",
+      "kommentar": "Unter 2.5: 2 Tore",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-07-boc-her",
+      "spiel_label": "Bochum vs Hertha",
+      "markt": "Beide Teams treffen JA",
+      "quote": 1.72,
+      "einsatz_euro": 2.75,
+      "begruendung": "BTTS Goldgrube (+20.4% ROI). Hertha-Defense loechrig (6:1 Bielefeld-Test + Gechter gesperrt) + Bochum-Squad neu. H2H-Serie beidseitig-Tor. Auftakt-Cluster-Brick-Risiko haelt wackel.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 2,
+      "status": "verloren",
+      "kommentar": "BTTS Ja: nur Hertha traf (Groenning 39.)",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-07-brg-kor",
+      "spiel_label": "Club Brugge vs Kortrijk",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.55,
+      "einsatz_euro": 2.75,
+      "begruendung": "Ueber 2.5 Top-Goldgrube (+23.9% ROI). Brugge Klassifizierungs-Edge trotz CL-Rotation. Kortrijk-Aufsteiger-Defense fragil. Beobachtungs-Liga wackel.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 3,
+      "status": "gewonnen",
+      "kommentar": "Ueber 2.5: 3 Tore",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-07-est-fam",
+      "spiel_label": "Estoril vs Famalicao",
+      "markt": "Sieg 1X2: Famalicao",
+      "quote": 2.28,
+      "einsatz_euro": 2.75,
+      "begruendung": "Famalicao H2H 4/4 vs Estoril + Form-Kontinuitaet (12 unbesiegt) + Trainer-Stabilitaet vs Estoril-Chaos. Sieg-Wette hoehere Quote als DC (2.28 vs 1.30 = 76% Zusatz).",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 4,
+      "status": "verloren",
+      "kommentar": "Famalicao gewann nicht (1:1)",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-07-cea-pon",
+      "spiel_label": "Ceara vs Ponte Preta",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.75,
+      "einsatz_euro": 2.75,
+      "begruendung": "Ueber 2.5 Top-Goldgrube. Ceara Defense-Krise (4 Ausfaelle) + Ponte-Preta muss offen spielen fuer Punkte. Torfestival wahrscheinlich. Beobachtungs-Liga + Nachtspiel wackel.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 5,
+      "status": "verloren",
+      "kommentar": "Ueber 2.5: nur 2 Tore, Rote Karte 18. Min bremste Torfestival",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-07-boc-her",
+      "spiel_label": "Bochum vs Hertha",
+      "markt": "Doppelte Chance X2: Hertha oder Remis",
+      "quote": 1.58,
+      "einsatz_euro": 2.75,
+      "begruendung": "DC X2 Goldgrube (77.8% Hit). Hertha-Kader-Kontinuitaet vs Bochum-Umbruch (5 Neuzugaenge Startelf) + Bochum-Defense-Fragezeichen. Beobachtungs-Liga wackel.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 6,
+      "status": "gewonnen",
+      "kommentar": "DC X2: Hertha-Sieg 1:0",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "kategorie": "wackel",
+      "spiel_id": "2026-08-07-boc-her",
+      "spiel_label": "Bochum vs Hertha",
+      "markt": "Torschuetzen Jederzeit: Ibrahim Sissoko (Bochum)",
+      "quote": 2.88,
+      "einsatz_euro": 2.75,
+      "begruendung": "Torschuetzen Top-Goldgrube (+24.4% ROI). Sissoko Bochum-Hauptstuermer, aber Sprunggelenks-Fragezeichen im Vorbericht = Aufstellungs-Risiko. Bei bet365 Startelf pruefen.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 7,
+      "status": "verloren",
+      "kommentar": "Sissoko traf nicht - Bochum insgesamt torlos, kein Einwechslungs-Boost moeglich",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": null,
+      "name": "Kombi Safe ~4.75x (Auftakt-Slate)",
+      "typ": "safe",
+      "status": "verloren",
+      "gesamtquote": 4.75,
+      "einsatz_euro": 5.5,
+      "beine_status": [
+        {
+          "spiel_id": "2026-08-07-boc-her",
+          "markt": "Beide Teams treffen JA",
+          "status": "verloren",
+          "kommentar": "kein BTTS"
+        },
+        {
+          "spiel_id": "2026-08-07-brg-kor",
+          "markt": "Ueber 2.5 Tore",
+          "status": "gewonnen",
+          "kommentar": "Ueber 2.5"
+        },
+        {
+          "spiel_id": "2026-08-07-est-fam",
+          "markt": "Unter 2.5 Tore",
+          "status": "gewonnen",
+          "kommentar": "Unter 2.5"
+        }
+      ]
+    },
+    {
+      "kombi_id": null,
+      "name": "Kombi Balance ~8x",
+      "typ": "balance",
+      "status": "verloren",
+      "gesamtquote": 8.12,
+      "einsatz_euro": 4.4,
+      "beine_status": [
+        {
+          "spiel_id": "2026-08-07-brg-kor",
+          "markt": "Sieg 1X2: Club Brugge",
+          "status": "gewonnen",
+          "kommentar": "Brugge-Sieg"
+        },
+        {
+          "spiel_id": "2026-08-07-est-fam",
+          "markt": "Sieg 1X2: Famalicao",
+          "status": "verloren",
+          "kommentar": "Gegen-Ergebnis fuer 'Sieg 1X2: Famalicao' im Spiel 2026-08-07-est-fam"
+        },
+        {
+          "spiel_id": "2026-08-07-boc-her",
+          "markt": "Sieg 1X2: Hertha",
+          "status": "gewonnen",
+          "kommentar": "Hertha-Sieg"
+        }
+      ]
+    },
+    {
+      "kombi_id": null,
+      "name": "Kombi Risiko ~44x (Underdog-Ponte-Sieg + Non-Sieg)",
+      "typ": "risiko",
+      "status": "verloren",
+      "gesamtquote": 44.01,
+      "einsatz_euro": 1.4,
+      "beine_status": [
+        {
+          "spiel_id": "2026-08-07-cea-pon",
+          "markt": "Sieg 1X2: Ponte Preta",
+          "status": "verloren",
+          "kommentar": "Gegen-Ergebnis fuer 'Sieg 1X2: Ponte Preta' im Spiel 2026-08-07-cea-pon"
+        },
+        {
+          "spiel_id": "2026-08-07-boc-her",
+          "markt": "Ueber 2.5 Tore",
+          "status": "verloren",
+          "kommentar": "nicht Ueber 2.5"
+        },
+        {
+          "spiel_id": "2026-08-07-brg-kor",
+          "markt": "Beide Teams treffen NEIN",
+          "status": "gewonnen",
+          "kommentar": "mind. 1 Team zu null"
+        },
+        {
+          "spiel_id": "2026-08-07-est-fam",
+          "markt": "Beide Teams treffen NEIN",
+          "status": "verloren",
+          "kommentar": "beide trafen"
+        }
+      ]
+    },
+    {
+      "kombi_id": null,
+      "name": "Kombi Moonshot-Light ~12x (Slate zu duenn fuer echten 100x)",
+      "typ": "moonshot",
+      "status": "verloren",
+      "gesamtquote": 16.14,
+      "einsatz_euro": 0.55,
+      "beine_status": [
+        {
+          "spiel_id": "2026-08-07-boc-her",
+          "markt": "Torschuetzen Jederzeit: Josip Brekalo (Hertha)",
+          "status": "verloren",
+          "kommentar": "kein Tor vom Tipp-Spieler"
+        },
+        {
+          "spiel_id": "2026-08-07-cea-pon",
+          "markt": "Beide Teams treffen JA",
+          "status": "verloren",
+          "kommentar": "kein BTTS"
+        },
+        {
+          "spiel_id": "2026-08-07-brg-kor",
+          "markt": "Beide Teams treffen JA",
+          "status": "verloren",
+          "kommentar": "kein BTTS"
+        }
+      ]
+    }
+  ],
+  "ausgewertet_am": "2026-08-08T07:11:18+00:00",
+  "tages_bilanz": {
+    "einzel_einsatz_euro": 19.25,
+    "einzel_rueckzahlung_euro": 13.5,
+    "einzel_netto_euro": -5.75,
+    "kombi_einsatz_euro": 11.85,
+    "kombi_rueckzahlung_euro": 0,
+    "kombi_netto_euro": -11.85,
+    "gesamt_einsatz_euro": 31.1,
+    "gesamt_rueckzahlung_euro": 13.5,
+    "gesamt_netto_euro": -17.6,
+    "tages_roi_prozent": -56.58,
+    "einzel_gewonnen": 3,
+    "einzel_verloren": 4,
+    "einzel_offen": 0,
+    "kombi_gewonnen": 0,
+    "kombi_verloren": 4,
+    "kombi_offen": 0
+  },
+  "_auswertung_note": "Manuelle Ergebnis-Anreicherung nach football-data.org API-Proxy-Ausfall (403). Alle 4 Spiele + volle_analyse via WebSearch recherchiert (kicker.de/spielbericht 5226810, news.de spielbericht, sporza.be Jupiler-Pro-League, terra.com.br Serie-B ticker, diariodonordeste.com.br, sofascore Estoril-Famalicao aPbsGPu)."
+}
