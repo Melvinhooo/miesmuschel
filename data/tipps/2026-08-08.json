@@ -34,15 +34,16 @@
       ],
       "tipps": [
         {
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Doppelte Chance 1X: Heidenheim oder Remis",
           "quote": 1.25,
           "einsatz_euro": 8.25,
           "edge_prozent": 4,
-          "begruendung": "DC 1X Goldgrube (78.6% Hit, +13.7% ROI). Klassen-Edge Ex-Bundesligist zu Hause vs Aufsteiger + H2H-Heim-Serie (3S/1U letzte 4 Heim vs OSN). Zivzivadze-Anker + volle Sommerpause. Quote 1.25 knapp aber Kombi-Anker-tauglich. Auftakts-Cluster-Brick-Risiko hält Kategorie value nicht safe. Stake 1.5% Kasse (Stufe 1).",
+          "begruendung": "DC 1X Goldgrube (78.6% Hit, +13.7% ROI). Klassen-Edge Ex-Bundesligist zu Hause vs Aufsteiger + H2H-Heim-Serie (3S/1U letzte 4 Heim vs OSN). Zivzivadze-Anker + volle Sommerpause. Quote 1.25 knapp aber Kombi-Anker-tauglich. Auftakts-Cluster-Brick-Risiko hält Kategorie value nicht safe. Stake 1.5% Kasse (Stufe 1). [Auto HR4: Story-Konflikt v2 (Heim-Krise-Token in eigener Begruendung) -> value->wackel]",
           "layer_2_tag": "heidenheim_sieg_dc",
-          "faire_quote": 1.20,
-          "empfohlener_einsatz_prozent": 1.5
+          "faire_quote": 1.2,
+          "empfohlener_einsatz_prozent": 1.5,
+          "_story_konflikt_v2": true
         },
         {
           "kategorie": "wackel",
@@ -101,7 +102,7 @@
         {
           "kategorie": "value",
           "markt": "Doppelte Chance 1X: Magdeburg oder Remis",
-          "quote": 1.30,
+          "quote": 1.3,
           "einsatz_euro": 8.25,
           "edge_prozent": 4,
           "begruendung": "DC 1X Goldgrube (78.6% Hit, +13.7% ROI). Magdeburg-Heimvorteil + Braunschweig-Auswärtsschwäche (4/5 verloren, -5 Tordifferenz) + Sander-Formkurve. H2H-Warnung dämpft, aber DC deckt beide plausiblen Ausgänge (Heim-Sieg + Remis) ab. Kombi-Anker.",
@@ -123,12 +124,12 @@
         {
           "kategorie": "wackel",
           "markt": "Sieg 1X2: Magdeburg",
-          "quote": 1.80,
+          "quote": 1.8,
           "einsatz_euro": 2.75,
           "edge_prozent": 6,
           "begruendung": "Magdeburg-Heim-Sieg-Quote 1.80 (Betano) reflektiert klare Favoritenrolle, aber H2H-Historie (Braunschweig 2S/2U in letzten 5) mahnt zur Vorsicht. Sander-Formkurve + Braunschweig-Auswärtsschwäche als Edge. Kein SAFE wegen Auftakt + H2H-Warnung.",
           "layer_2_tag": "magdeburg_sieg",
-          "faire_quote": 1.70,
+          "faire_quote": 1.7,
           "empfohlener_einsatz_prozent": 0.5
         }
       ],
@@ -231,7 +232,7 @@
         {
           "kategorie": "wackel",
           "markt": "Über 2.5 Tore",
-          "quote": 1.50,
+          "quote": 1.5,
           "einsatz_euro": 2.75,
           "edge_prozent": 3,
           "begruendung": "Über 2.5 Goldgrube (+22.8% ROI). Wolfsburg-Sturmspitze Glatzel + Hornby produktiv (Ex-BL) vs Lautern-Ex-3-Mann-Defense mit Sperren-Loch (Joly gesperrt). Lautern selbst offensiv mit Berisha/Ritter/Skyttä. Aber Auftakts-Tendenz oft taktisch verhalten (Lesson HR07-28-1) → wackel.",
@@ -307,7 +308,7 @@
         {
           "kategorie": "wackel",
           "markt": "Sieg 1X2: Grêmio",
-          "quote": 2.40,
+          "quote": 2.4,
           "einsatz_euro": 2.75,
           "edge_prozent": 6,
           "begruendung": "Grêmio-Heim-Sieg mit ordentlichem Value: 5/6 letzte Heim-Duelle vs SP + SP-Ausfall-Katastrophe + SP-Form 0/5 Siege letzte 5. Aber Grêmio-Form ebenfalls schwach (nur 20% Sieg-Rate letzte 5) - Coinflip mit leichter Heim-Edge. Faire Quote ~2.25 vs angeboten 2.40 = 6% Value. Kein SAFE wegen beidseitiger Formschwäche.",
@@ -329,7 +330,7 @@
         {
           "kategorie": "moonshot",
           "markt": "Sieg 1X2: São Paulo",
-          "quote": 3.00,
+          "quote": 3.0,
           "einsatz_euro": 0.55,
           "edge_prozent": -5,
           "begruendung": "SP-Underdog-Auswärts-Sieg trotz 6 Ausfällen + 0/5-Form + H2H-Angst-Gegner. Faire Quote ~3.15, angeboten 3.00 = leicht -5% Edge. Nur als Moonshot-Kombi-Bein sinnvoll (echter Long-Shot mit Klassen-Marken-Namen São Paulo). Kein Einzel-Kauf.",
@@ -354,7 +355,7 @@
       "rang": 1
     },
     {
-      "kategorie": "value",
+      "kategorie": "wackel",
       "spiel_id": "2026-08-08-hei-osn",
       "spiel_label": "Heidenheim vs Osnabrück",
       "markt": "Doppelte Chance 1X: Heidenheim oder Remis",
@@ -369,7 +370,7 @@
       "spiel_id": "2026-08-08-mag-bra",
       "spiel_label": "Magdeburg vs Braunschweig",
       "markt": "Doppelte Chance 1X: Magdeburg oder Remis",
-      "quote": 1.30,
+      "quote": 1.3,
       "einsatz_euro": 8.25,
       "begruendung": "DC 1X Goldgrube. Magdeburg-Heim + Sander-Formkurve + Braunschweig-Auswärts-Katastrophe (4/5 verloren, -5 Tordifferenz). H2H-Warnung von DC abgefedert.",
       "empfohlener_einsatz_prozent": 1.5,
@@ -413,7 +414,7 @@
       "spiel_id": "2026-08-08-wol-kai",
       "spiel_label": "Wolfsburg vs Kaiserslautern",
       "markt": "Über 2.5 Tore",
-      "quote": 1.50,
+      "quote": 1.5,
       "einsatz_euro": 2.75,
       "begruendung": "Über 2.5 Goldgrube. Wolfsburg-Sturm Glatzel/Hornby + Lautern-Offense Berisha/Ritter. Quote 1.50 knapp fair. Auftakt-Taktik-Risiko dämpft.",
       "empfohlener_einsatz_prozent": 0.5,
@@ -453,7 +454,7 @@
           "spiel_id": "2026-08-08-mag-bra",
           "spiel_label": "Magdeburg vs Braunschweig",
           "markt": "Doppelte Chance 1X: Magdeburg oder Remis",
-          "quote": 1.30
+          "quote": 1.3
         },
         {
           "spiel_id": "2026-08-08-gre-spo",
@@ -471,13 +472,13 @@
     {
       "name": "Kombi Balance ~6.89x (Grêmio-Sieg-Anker)",
       "typ": "balance",
-      "einsatz_euro": 4.40,
+      "einsatz_euro": 4.4,
       "beine": [
         {
           "spiel_id": "2026-08-08-gre-spo",
           "spiel_label": "Grêmio vs São Paulo",
           "markt": "Sieg 1X2: Grêmio",
-          "quote": 2.40
+          "quote": 2.4
         },
         {
           "spiel_id": "2026-08-08-mag-bra",
@@ -501,7 +502,7 @@
     {
       "name": "Kombi Risiko ~15.96x (Bielefeld-Underdog + Non-Sieg-Mix)",
       "typ": "risiko",
-      "einsatz_euro": 1.40,
+      "einsatz_euro": 1.4,
       "beine": [
         {
           "spiel_id": "2026-08-08-kar-bie",
@@ -540,18 +541,6 @@
       "einsatz_euro": 0.55,
       "beine": [
         {
-          "spiel_id": "2026-08-08-hei-osn",
-          "spiel_label": "Heidenheim vs Osnabrück",
-          "markt": "Sieg 1X2: VfL Osnabrück",
-          "quote": 5.00
-        },
-        {
-          "spiel_id": "2026-08-08-wol-kai",
-          "spiel_label": "Wolfsburg vs Kaiserslautern",
-          "markt": "Sieg 1X2: 1. FC Kaiserslautern",
-          "quote": 4.80
-        },
-        {
           "spiel_id": "2026-08-08-mag-bra",
           "spiel_label": "Magdeburg vs Braunschweig",
           "markt": "Sieg 1X2: Eintracht Braunschweig",
@@ -561,13 +550,13 @@
           "spiel_id": "2026-08-08-gre-spo",
           "spiel_label": "Grêmio vs São Paulo",
           "markt": "Sieg 1X2: São Paulo",
-          "quote": 3.00
+          "quote": 3.0
         }
       ],
       "moeglicher_gewinn_euro": 176.22,
       "begruendung": "EHRLICHE Moonshot: 4-Underdog-Sieg-Cluster (Osnabrück + Kaiserslautern + Braunschweig + São Paulo alle als Auswärts-Underdogs). Layer-1: 4 verschiedene Spiele. Layer-2 hart: 4 verschiedene Spiel-Sieg-Outcomes, jedes nur in dieser Kombi. Kombinierte Hitrate ~0.15% (Lotterie-Charakter per Definition Moonshot). Portfolio-Struktur: gegen ALLE anderen Kombis (Safe/Balance/Risiko haben je die Heim-Fav/Fav-Sieg-Outcomes). Wenn Moonshot trifft, sind alle anderen Kombis busted - das ist Feature nicht Bug (Diversifikations-Absicherung nach unten). Stake 0.1% Kasse = 0.55€ Spaß-Einsatz.",
-      "gesamtquote": 320.40,
-      "rechnung": "5.00 x 4.80 x 4.45 x 3.00 = 320.40",
+      "gesamtquote": 13.35,
+      "rechnung": "4.45 x 3.00 = 13.35",
       "empfohlener_einsatz_prozent": 0.1
     }
   ],

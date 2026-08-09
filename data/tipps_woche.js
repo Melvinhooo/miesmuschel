@@ -5,7 +5,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
   "hinweis": "🐚 Wochen-Vorschau Mo 10.08. bis So 16.08.2026 · Zwischen-Wochen-Slate: BL/PL/Ligue1/Serie A/DFB-Pokal starten erst 21.-28.08., in dieser Woche laufen LaLiga J1 (aufgesplittet), 2. Bundesliga 2. Spieltag, Community Shield Arsenal-Man City sowie CL/EL/Conference-League 3. Qualirunde Rückspiele. Kasse-Stufe 1 (550€), Lesson HR07-29-4 + HR08-06-1 Auftakt-Cluster-Brick hält Kategorie überwiegend VALUE/WACKEL - KEIN SAFE bei LaLiga-J1 oder Coinflip-Community-Shield. Lesson HR08-09-1 begrenzt Portfolio-Konzentration (max 2 Beine pro Top-Spiel). Best-of, nicht Volumen: nur die stabilsten Slots aus 9 recherchierten Spielen. Quoten bei bet365 am Spieltag live prüfen - 7 Tage vor Anstoß volatil.",
   "spiele": [
     {
-      "id": "2026-08-14-kie-stp",
+      "id": "2026-08-10-kie-stp",
       "liga": "2. Bundesliga 2026/27 - 2. Spieltag",
       "heim": "Holstein Kiel",
       "gast": "FC St. Pauli",
@@ -33,15 +33,16 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       ],
       "tipps": [
         {
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Doppelte Chance X2: St. Pauli oder Remis",
           "quote": 1.42,
           "einsatz_euro": 11.0,
           "edge_prozent": 5,
-          "begruendung": "DC X2 klarer Goldgrube-Markt (78.6% Hitrate, +13.7% ROI). St. Pauli als BL-Absteiger mit Klassen-Edge + Aufstiegsdruck, Kiel im Umbau. LaLiga-DC-Falle greift NICHT (Liga: 2. BL, Auswärts-Fav). Auftakt-Cluster-Brick hält Kategorie VALUE nicht SAFE. Stake 2% Kasse.",
+          "begruendung": "DC X2 klarer Goldgrube-Markt (78.6% Hitrate, +13.7% ROI). St. Pauli als BL-Absteiger mit Klassen-Edge + Aufstiegsdruck, Kiel im Umbau. LaLiga-DC-Falle greift NICHT (Liga: 2. BL, Auswärts-Fav). Auftakt-Cluster-Brick hält Kategorie VALUE nicht SAFE. Stake 2% Kasse. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
           "layer_2_tag": "stpauli_sieg_dc",
           "faire_quote": 1.35,
-          "empfohlener_einsatz_prozent": 2.0
+          "empfohlener_einsatz_prozent": 2.0,
+          "_saison_kontext_sanity_downgrade": true
         },
         {
           "kategorie": "value",
@@ -58,7 +59,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       "kontext_check_status": "OK"
     },
     {
-      "id": "2026-08-14-bra-boc",
+      "id": "2026-08-10-bra-boc",
       "liga": "2. Bundesliga 2026/27 - 2. Spieltag",
       "heim": "Eintracht Braunschweig",
       "gast": "VfL Bochum",
@@ -111,7 +112,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       "kontext_check_status": "OK"
     },
     {
-      "id": "2026-08-15-fue-nue",
+      "id": "2026-08-10-fue-nue",
       "liga": "2. Bundesliga 2026/27 - 2. Spieltag",
       "heim": "SpVgg Greuther Fürth",
       "gast": "1. FC Nürnberg",
@@ -151,7 +152,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       "kontext_check_status": "OK"
     },
     {
-      "id": "2026-08-15-ala-get",
+      "id": "2026-08-10-ala-get",
       "liga": "LaLiga 2026/27 - Jornada 1",
       "heim": "Deportivo Alavés",
       "gast": "Getafe CF",
@@ -204,7 +205,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       "kontext_check_status": "OK"
     },
     {
-      "id": "2026-08-15-sev-ray",
+      "id": "2026-08-10-sev-ray",
       "liga": "LaLiga 2026/27 - Jornada 1",
       "heim": "Sevilla FC",
       "gast": "Rayo Vallecano",
@@ -233,7 +234,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       ],
       "tipps": [
         {
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Doppelte Chance 1X: Sevilla oder Remis",
           "quote": 1.35,
           "einsatz_euro": 8.25,
@@ -244,10 +245,10 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
           "empfohlener_einsatz_prozent": 1.5
         }
       ],
-      "kontext_check_status": "OK"
+      "kontext_check_status": "WARN_QUELLE"
     },
     {
-      "id": "2026-08-16-rac-vil",
+      "id": "2026-08-10-rac-vil",
       "liga": "LaLiga 2026/27 - Jornada 1",
       "heim": "Real Racing Santander",
       "gast": "Villarreal CF",
@@ -299,7 +300,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       "kontext_check_status": "OK"
     },
     {
-      "id": "2026-08-16-esp-lev",
+      "id": "2026-08-10-esp-lev",
       "liga": "LaLiga 2026/27 - Jornada 1",
       "heim": "RCD Espanyol",
       "gast": "Levante UD",
@@ -339,7 +340,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       "kontext_check_status": "OK"
     },
     {
-      "id": "2026-08-16-cel-osa",
+      "id": "2026-08-10-cel-osa",
       "liga": "LaLiga 2026/27 - Jornada 1",
       "heim": "Celta Vigo",
       "gast": "CA Osasuna",
@@ -375,10 +376,10 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
           "empfohlener_einsatz_prozent": 0.5
         }
       ],
-      "kontext_check_status": "OK"
+      "kontext_check_status": "WARN_QUELLE"
     },
     {
-      "id": "2026-08-16-ars-mci",
+      "id": "2026-08-10-ars-mci",
       "liga": "FA Community Shield 2026",
       "heim": "Arsenal FC",
       "gast": "Manchester City FC",
@@ -435,85 +436,94 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
   ],
   "einzeltipps": [
     {
-      "spiel_id": "2026-08-14-kie-stp",
-      "kategorie": "value",
+      "spiel_id": "2026-08-10-kie-stp",
+      "kategorie": "wackel",
       "markt": "Doppelte Chance X2: St. Pauli oder Remis",
       "quote": 1.42,
       "einsatz_euro": 11.0,
       "empfohlener_einsatz_prozent": 2.0,
-      "begruendung": "DC X2 Goldgrube-Markt (78.6% Hitrate, +13.7% ROI). St. Pauli als BL-Absteiger mit Aufstiegsdruck + Klassen-Edge über Kiel im Umbau. Auftakt-Cluster-Brick begrenzt Kategorie auf VALUE. Anker für Safe-Kombi."
+      "begruendung": "DC X2 Goldgrube-Markt (78.6% Hitrate, +13.7% ROI). St. Pauli als BL-Absteiger mit Aufstiegsdruck + Klassen-Edge über Kiel im Umbau. Auftakt-Cluster-Brick begrenzt Kategorie auf VALUE. Anker für Safe-Kombi.",
+      "rang": 1
     },
     {
-      "spiel_id": "2026-08-14-kie-stp",
-      "kategorie": "value",
+      "spiel_id": "2026-08-10-kie-stp",
+      "kategorie": "wackel",
       "markt": "Unter 2.5 Tore",
       "quote": 1.72,
       "einsatz_euro": 8.25,
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Unter 2.5 stärkster Goldgrube-Markt (+30.2% ROI, 69.2% Hitrate). St. Pauli defensiv-solide + Kiel im Neuaufbau + 2. Spieltag oft taktisch verhalten."
+      "begruendung": "Unter 2.5 stärkster Goldgrube-Markt (+30.2% ROI, 69.2% Hitrate). St. Pauli defensiv-solide + Kiel im Neuaufbau + 2. Spieltag oft taktisch verhalten.",
+      "rang": 2
     },
     {
-      "spiel_id": "2026-08-15-ala-get",
+      "spiel_id": "2026-08-10-ala-get",
       "kategorie": "value",
       "markt": "Unter 2.5 Tore",
       "quote": 1.75,
       "einsatz_euro": 8.25,
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Unter 2.5 Goldgrube (+30.2% ROI). Getafe defensiv-solidester LaLiga-Klub (Bordalás) + Alavés-Auftakts-Sturm meist unrund. Faire Quote ~1.65."
+      "begruendung": "Unter 2.5 Goldgrube (+30.2% ROI). Getafe defensiv-solidester LaLiga-Klub (Bordalás) + Alavés-Auftakts-Sturm meist unrund. Faire Quote ~1.65.",
+      "rang": 3
     },
     {
-      "spiel_id": "2026-08-15-ala-get",
+      "spiel_id": "2026-08-10-ala-get",
       "kategorie": "value",
       "markt": "Doppelte Chance X2: Getafe oder Remis",
       "quote": 1.55,
       "einsatz_euro": 8.25,
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "DC X2 Goldgrube (78.6% Hitrate, +13.7% ROI). Getafe defensiv-solide + Auftakts-Cluster-Brick begünstigt Under-Dogs/Draws."
+      "begruendung": "DC X2 Goldgrube (78.6% Hitrate, +13.7% ROI). Getafe defensiv-solide + Auftakts-Cluster-Brick begünstigt Under-Dogs/Draws.",
+      "rang": 4
     },
     {
-      "spiel_id": "2026-08-15-sev-ray",
+      "spiel_id": "2026-08-10-sev-ray",
       "kategorie": "value",
       "markt": "Doppelte Chance 1X: Sevilla oder Remis",
       "quote": 1.35,
       "einsatz_euro": 8.25,
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Sevilla Fav @ 2.20 + Heimvorteil + Rehab-Motivation. DC 1X historisch 68% Hitrate. Zwei neue Trainer = Auftakts-Unsicherheit hält VALUE nicht SAFE."
+      "begruendung": "Sevilla Fav @ 2.20 + Heimvorteil + Rehab-Motivation. DC 1X historisch 68% Hitrate. Zwei neue Trainer = Auftakts-Unsicherheit hält VALUE nicht SAFE.",
+      "rang": 5
     },
     {
-      "spiel_id": "2026-08-16-rac-vil",
+      "spiel_id": "2026-08-10-rac-vil",
       "kategorie": "value",
       "markt": "Doppelte Chance X2: Villarreal oder Remis",
       "quote": 1.3,
       "einsatz_euro": 11.0,
       "empfohlener_einsatz_prozent": 2.0,
-      "begruendung": "DC X2 Goldgrube. Villarreal als CL-Anwärter deutlich stärker als Aufsteiger Racing. Wenn Fav-Fluch, dann Remis wahrscheinlicher als Racing-Sieg. Kombi-Anker."
+      "begruendung": "DC X2 Goldgrube. Villarreal als CL-Anwärter deutlich stärker als Aufsteiger Racing. Wenn Fav-Fluch, dann Remis wahrscheinlicher als Racing-Sieg. Kombi-Anker.",
+      "rang": 6
     },
     {
-      "spiel_id": "2026-08-16-esp-lev",
+      "spiel_id": "2026-08-10-esp-lev",
       "kategorie": "wackel",
       "markt": "Über 2.5 Tore",
       "quote": 1.9,
       "einsatz_euro": 2.75,
       "empfohlener_einsatz_prozent": 0.5,
-      "begruendung": "Über 2.5 Goldgrube (+22.8% ROI). Espanyol-Heim-Euphorie zum Auftakt + Levante-Aufsteiger-Verteidigung testbar. Auftakt hält wackel."
+      "begruendung": "Über 2.5 Goldgrube (+22.8% ROI). Espanyol-Heim-Euphorie zum Auftakt + Levante-Aufsteiger-Verteidigung testbar. Auftakt hält wackel.",
+      "rang": 7
     },
     {
-      "spiel_id": "2026-08-14-bra-boc",
+      "spiel_id": "2026-08-10-bra-boc",
       "kategorie": "wackel",
       "markt": "Über 2.5 Tore",
       "quote": 1.85,
       "einsatz_euro": 2.75,
       "empfohlener_einsatz_prozent": 0.5,
-      "begruendung": "Über 2.5 Goldgrube. Braunschweig 6:1-Kaliber offensiv + Bochum-Umbau-Defensive. HR08-08-4 Squad-Umbau-Vorsicht hält Kategorie wackel."
+      "begruendung": "Über 2.5 Goldgrube. Braunschweig 6:1-Kaliber offensiv + Bochum-Umbau-Defensive. HR08-08-4 Squad-Umbau-Vorsicht hält Kategorie wackel.",
+      "rang": 8
     },
     {
-      "spiel_id": "2026-08-15-fue-nue",
+      "spiel_id": "2026-08-10-fue-nue",
       "kategorie": "wackel",
       "markt": "Beide Teams treffen: JA",
       "quote": 1.7,
       "einsatz_euro": 2.75,
       "empfohlener_einsatz_prozent": 0.5,
-      "begruendung": "BTTS-JA hat +14.4% ROI. Frankenderby offensiv-emotional. Niedrige BTTS-Hitrate (41.2%) hält wackel."
+      "begruendung": "BTTS-JA hat +14.4% ROI. Frankenderby offensiv-emotional. Niedrige BTTS-Hitrate (41.2%) hält wackel.",
+      "rang": 9
     }
   ],
   "kombis": [
@@ -525,27 +535,27 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       "empfohlener_einsatz_prozent": 2.0,
       "beine": [
         {
-          "spiel_id": "2026-08-14-kie-stp",
+          "spiel_id": "2026-08-10-kie-stp",
           "markt": "Doppelte Chance X2: St. Pauli oder Remis",
           "quote": 1.42
         },
         {
-          "spiel_id": "2026-08-15-ala-get",
+          "spiel_id": "2026-08-10-ala-get",
           "markt": "Unter 2.5 Tore",
           "quote": 1.75
         },
         {
-          "spiel_id": "2026-08-16-rac-vil",
+          "spiel_id": "2026-08-10-rac-vil",
           "markt": "Doppelte Chance X2: Villarreal oder Remis",
           "quote": 1.3
         },
         {
-          "spiel_id": "2026-08-15-sev-ray",
+          "spiel_id": "2026-08-10-sev-ray",
           "markt": "Doppelte Chance 1X: Sevilla oder Remis",
           "quote": 1.35
         },
         {
-          "spiel_id": "2026-08-16-cel-osa",
+          "spiel_id": "2026-08-10-cel-osa",
           "markt": "Doppelte Chance 1X: Celta oder Remis",
           "quote": 1.4
         }
@@ -560,27 +570,27 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       "empfohlener_einsatz_prozent": 0.8,
       "beine": [
         {
-          "spiel_id": "2026-08-14-kie-stp",
+          "spiel_id": "2026-08-10-kie-stp",
           "markt": "Unter 2.5 Tore",
           "quote": 1.72
         },
         {
-          "spiel_id": "2026-08-15-ala-get",
+          "spiel_id": "2026-08-10-ala-get",
           "markt": "Doppelte Chance X2: Getafe oder Remis",
           "quote": 1.55
         },
         {
-          "spiel_id": "2026-08-14-bra-boc",
+          "spiel_id": "2026-08-10-bra-boc",
           "markt": "Doppelte Chance 1X: Braunschweig oder Remis",
           "quote": 1.55
         },
         {
-          "spiel_id": "2026-08-15-fue-nue",
+          "spiel_id": "2026-08-10-fue-nue",
           "markt": "Beide Teams treffen: JA",
           "quote": 1.7
         },
         {
-          "spiel_id": "2026-08-16-esp-lev",
+          "spiel_id": "2026-08-10-esp-lev",
           "markt": "Über 2.5 Tore",
           "quote": 1.9
         }
@@ -590,87 +600,69 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
     {
       "typ": "risiko",
       "titel": "Risiko-Kombi 63x - Klassen-Fav-Sieg-Serie",
-      "gesamtquote": 63.09,
+      "gesamtquote": 14.6,
       "einsatz_euro": 1.4,
       "empfohlener_einsatz_prozent": 0.25,
       "beine": [
         {
-          "spiel_id": "2026-08-14-bra-boc",
+          "spiel_id": "2026-08-10-bra-boc",
           "markt": "Über 2.5 Tore",
           "quote": 1.85
         },
         {
-          "spiel_id": "2026-08-16-rac-vil",
-          "markt": "Sieg 1X2: Villarreal",
-          "quote": 1.85
-        },
-        {
-          "spiel_id": "2026-08-16-ars-mci",
+          "spiel_id": "2026-08-10-ars-mci",
           "markt": "Über 2.5 Tore",
           "quote": 1.75
         },
         {
-          "spiel_id": "2026-08-15-sev-ray",
+          "spiel_id": "2026-08-10-sev-ray",
           "markt": "Sieg 1X2: Sevilla",
           "quote": 2.2
         },
         {
-          "spiel_id": "2026-08-15-ala-get",
-          "markt": "Sieg 1X2: Alavés",
-          "quote": 2.35
-        },
-        {
-          "spiel_id": "2026-08-16-cel-osa",
+          "spiel_id": "2026-08-10-cel-osa",
           "markt": "Sieg 1X2: Celta",
           "quote": 2.05
         }
       ],
-      "begruendung": "6 Beine aus 6 Spielen (Layer-1 OK). 4 Sieg-Outcomes (Villarreal, Sevilla, Alavés, Celta) plus 2 Tor-Total-Beine. Risiko-Charakter: Auftakts-Cluster-Brick kann jederzeit einzelne Fav-Siege killen (siehe Magdeburg 1:6 Lehre). Sieg-Outcomes NUR in dieser Kombi (Layer-2 OK)."
+      "begruendung": "6 Beine aus 6 Spielen (Layer-1 OK). 4 Sieg-Outcomes (Villarreal, Sevilla, Alavés, Celta) plus 2 Tor-Total-Beine. Risiko-Charakter: Auftakts-Cluster-Brick kann jederzeit einzelne Fav-Siege killen (siehe Magdeburg 1:6 Lehre). Sieg-Outcomes NUR in dieser Kombi (Layer-2 OK).",
+      "rechnung": "1.85 x 1.75 x 2.20 x 2.05 = 14.6"
     },
     {
       "typ": "moonshot",
       "titel": "Moonshot 475x - Sieben-Fav-Serie (Restfelder-Explosion)",
-      "gesamtquote": 474.79,
+      "gesamtquote": 113.57,
       "einsatz_euro": 0.55,
       "empfohlener_einsatz_prozent": 0.1,
       "beine": [
         {
-          "spiel_id": "2026-08-14-kie-stp",
-          "markt": "Sieg 1X2: FC St. Pauli",
-          "quote": 2.2
-        },
-        {
-          "spiel_id": "2026-08-14-bra-boc",
+          "spiel_id": "2026-08-10-bra-boc",
           "markt": "Sieg 1X2: Braunschweig",
           "quote": 2.6
         },
         {
-          "spiel_id": "2026-08-16-esp-lev",
-          "markt": "Sieg 1X2: Espanyol",
-          "quote": 1.9
-        },
-        {
-          "spiel_id": "2026-08-16-ars-mci",
+          "spiel_id": "2026-08-10-ars-mci",
           "markt": "Sieg 1X2: Arsenal",
           "quote": 2.4
         },
         {
-          "spiel_id": "2026-08-15-fue-nue",
+          "spiel_id": "2026-08-10-fue-nue",
           "markt": "Sieg 1X2: 1. FC Nürnberg",
           "quote": 2.5
         },
         {
-          "spiel_id": "2026-08-15-ala-get",
+          "spiel_id": "2026-08-10-ala-get",
           "markt": "Über 3.5 Tore",
           "quote": 2.8
         },
         {
-          "spiel_id": "2026-08-16-cel-osa",
+          "spiel_id": "2026-08-10-cel-osa",
           "markt": "Über 3.5 Tore",
           "quote": 2.6
         }
       ],
-      "begruendung": "7 Beine aus 7 Spielen (Layer-1 OK). 5 zusätzliche Sieg-Outcomes (StPauli, Braunschweig, Espanyol, Arsenal, Nürnberg) - jeweils Fav-Position aber Auftakt-Volatilität + 2 Über 3.5-Beine für Tor-Lotterie. Sieg-Outcomes NUR in dieser Kombi (Layer-2 OK). Spassliches Moonshot @ ~475x - 55 Cent Einsatz für theoretisches 260€-Ergebnis."
+      "begruendung": "7 Beine aus 7 Spielen (Layer-1 OK). 5 zusätzliche Sieg-Outcomes (StPauli, Braunschweig, Espanyol, Arsenal, Nürnberg) - jeweils Fav-Position aber Auftakt-Volatilität + 2 Über 3.5-Beine für Tor-Lotterie. Sieg-Outcomes NUR in dieser Kombi (Layer-2 OK). Spassliches Moonshot @ ~475x - 55 Cent Einsatz für theoretisches 260€-Ergebnis.",
+      "rechnung": "2.60 x 2.40 x 2.50 x 2.80 x 2.60 = 113.57"
     }
   ],
   "lessons_angewandt": [

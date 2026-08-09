@@ -35,14 +35,14 @@
       ],
       "tipps": [
         {
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Beide Teams treffen: Ja",
-          "quote": 1.60,
+          "quote": 1.6,
           "einsatz_euro": 8.25,
           "edge_prozent": 7,
           "begruendung": "St. Pauli-Offensive (5 Tore/Testspiel-Schnitt) + Fürth-Offensive (3+ in 4 Freundschaftsspielen inkl. Freiburg) treffen aufeinander. Torschützen Jederzeit Goldgrube (+24.4% ROI) rahmt BTTS-Kandidat. H2H letzte 9: 8x über 2.5. Auftakts-Cluster-Risiko (HR07-29-4) hält Kategorie value nicht safe - Stake 1.5% Kasse (Stufe 1 = 8.25€).",
           "layer_2_tag": "stp-fue_btts_ja",
-          "faire_quote": 1.50,
+          "faire_quote": 1.5,
           "empfohlener_einsatz_prozent": 1.5
         },
         {
@@ -53,7 +53,7 @@
           "edge_prozent": 4,
           "begruendung": "Klassen-Fav (BL-Erfahrung + Heim + KI 50.8%). Aber H2H letzte 2 Auftakte 0:0 + HR07-29-4 Auftakts-Cluster-Brick + HR08-09-3 kein Vorsaison-Home-Bias → nicht safe. Wackel-Stake 0.5% = 2.75€.",
           "layer_2_tag": "stp-fue_sieg_stp",
-          "faire_quote": 1.90,
+          "faire_quote": 1.9,
           "empfohlener_einsatz_prozent": 0.5
         },
         {
@@ -70,16 +70,16 @@
         {
           "kategorie": "wackel",
           "markt": "Torschützen Jederzeit: Martijn Kaars (St. Pauli)",
-          "quote": 2.30,
+          "quote": 2.3,
           "einsatz_euro": 2.75,
           "edge_prozent": 6,
           "begruendung": "HR08-09-4 Volume-Neuner-Torschützen-Screen auf Chancen-Seite (Klassen-Edge-Team). Kaars 5-Tore-Schnitt in Vorbereitung - laut Aggregator wettbasis explizit als Torschützen-Tipp empfohlen. Torschützen Jederzeit Goldgrube (+24.4% ROI). Auftakts-Bench-Risiko (Rotation Hrgota/Kaars/Weber) hält wackel. Stake 0.5% = 2.75€.",
           "layer_2_tag": "stp-fue_torschuetze_kaars",
-          "faire_quote": 2.10,
+          "faire_quote": 2.1,
           "empfohlener_einsatz_prozent": 0.5
         }
       ],
-      "kontext_check_status": "OK"
+      "kontext_check_status": "WARN_QUELLE"
     },
     {
       "id": "2026-08-09-nue-dyd",
@@ -119,7 +119,7 @@
           "edge_prozent": 8,
           "begruendung": "HR08-09-3 aktiviert: Letztes Direktduell 2:0 Dresden + Dresden-Vorbereitung-Peak (5/6 Siege, 28 Tore) + Vermeij 5-in-5 vs Nürnberg + Nürnberg-IV-Ausfälle. DC X2 Goldgrube (78.6% Hit, +13.7% ROI). Experten (wettfreunde/wettbasis) explizit gegen Fav-Bias. Stake 1.5% = 8.25€.",
           "layer_2_tag": "nue-dyd_dc_x2",
-          "faire_quote": 1.50,
+          "faire_quote": 1.5,
           "empfohlener_einsatz_prozent": 1.5
         },
         {
@@ -141,7 +141,7 @@
           "edge_prozent": 7,
           "begruendung": "HR08-09-4 Volume-Neuner-Screen aktiviert: Vermeij 5 Tore in 5 gegen Nürnberg + Nürnberg-IV mit 2 Ausfällen = Chancen-Seite Volume-Neuner. Torschützen Jederzeit Goldgrube (+24.4% ROI). Startelf-Sicherheit noch nicht Aggregator-verifiziert 90min-Range → wackel. Stake 0.5% = 2.75€.",
           "layer_2_tag": "nue-dyd_torschuetze_vermeij",
-          "faire_quote": 2.50,
+          "faire_quote": 2.5,
           "empfohlener_einsatz_prozent": 0.5
         }
       ],
@@ -179,7 +179,7 @@
         {
           "kategorie": "wackel",
           "markt": "Doppelte Chance X2: Hannover oder Remis",
-          "quote": 1.40,
+          "quote": 1.4,
           "einsatz_euro": 2.75,
           "edge_prozent": 4,
           "begruendung": "Hannover Klassen-Fav (BL-Aufstiegs-Kandidat) + Cottbus-Squad-2.BL-Debütanten-Handicap. DC X2 Goldgrube (78.6% Hit, +13.7% ROI). Aber Hannover-Debütant-Torwart + Ausfälle + Cottbus-Heim-Cauldron halten Kategorie wackel (nicht safe). Stake 0.5% = 2.75€.",
@@ -190,23 +190,23 @@
         {
           "kategorie": "wackel",
           "markt": "Über 2.5 Tore",
-          "quote": 1.90,
+          "quote": 1.9,
           "einsatz_euro": 2.75,
           "edge_prozent": 4,
           "begruendung": "HR08-09-2 (2. BL 1. Spieltag Ü2.5-Cluster) + Titz-Ballbesitz-Aggressiv + Cottbus 4 Tore vs Werder in Vorbereitung. Aber Aufsteiger-Auftakt-Nervosität + Debütant-Torwart Hannover kann in beide Richtungen wirken. Wackel-Kategorie. Stake 0.5% = 2.75€.",
           "layer_2_tag": "cot-h96_ueber_25",
-          "faire_quote": 1.80,
+          "faire_quote": 1.8,
           "empfohlener_einsatz_prozent": 0.5
         },
         {
           "kategorie": "risk",
           "markt": "Sieg 1X2: Energie Cottbus",
-          "quote": 3.10,
-          "einsatz_euro": 1.40,
+          "quote": 3.1,
+          "einsatz_euro": 1.4,
           "edge_prozent": 6,
           "begruendung": "Aufsteiger-Heim-Cauldron + Hannover-Ausfälle (Ghiță, Chakroun, Debütant-TW) + AI-Konsens 5/5 Hannover extreme = Contrarian-Value-Punkt (Sample-Bias-Alarm). Cottbus 3.-Liga-Heimfestung 11S/7U/1N. Risiko-Kategorie wegen Klassen-Nachteil + Auftakt. Stake 0.25% Kasse = 1.40€.",
           "layer_2_tag": "cot-h96_sieg_cot",
-          "faire_quote": 3.50,
+          "faire_quote": 3.5,
           "empfohlener_einsatz_prozent": 0.25
         }
       ],
@@ -248,7 +248,7 @@
           "kategorie": "safe",
           "markt": "Sieg 1X2: Palmeiras",
           "quote": 1.57,
-          "einsatz_euro": 11.00,
+          "einsatz_euro": 11.0,
           "edge_prozent": 7,
           "begruendung": "Klassen-Duell Tabellen-1 (47 Pkt) vs Tabellen-16 (22 Pkt) + Palmeiras-Heim + 3 letzte Direktvergleiche gewonnen + Inter-Kader stark geschwächt (5 Ausfälle + 1 Sperre). Sieg-Fav SAFE mit hoher Wahrscheinlichkeit. Sportsgambler explizit als Fav bestätigt. Stake 2% Kasse (Stufe 1) = 11€.",
           "layer_2_tag": "pal-int_sieg_pal",
@@ -263,7 +263,7 @@
           "edge_prozent": 8,
           "begruendung": "Goldgrube Unter 2.5 (+30.2% ROI, 66.7% Hit, n=26). Palmeiras-Def stärkste Liga (0.76 GA/Spiel) + Inter torschwach mit nur 1 Sieg in 6 (Angriffskrise) + Inter-Ausfälle schwächen Kreativ-Achse. Klassen-Duell 1v16 mit defensiv-orientiertem Inter = Palmeiras 1:0 / 2:0-Wahrscheinlichkeit hoch. Stake 1.5% = 8.25€. HR08-09-1 kompatibel: Sieg-Anker + Unter = konsistent (Palmeiras 1:0 oder 2:0 hits beide).",
           "layer_2_tag": "pal-int_unter_25",
-          "faire_quote": 1.70,
+          "faire_quote": 1.7,
           "empfohlener_einsatz_prozent": 1.5
         }
       ],
@@ -276,18 +276,20 @@
       "kategorie": "safe",
       "markt": "Sieg 1X2: Palmeiras",
       "quote": 1.57,
-      "einsatz_euro": 11.00,
+      "einsatz_euro": 11.0,
       "empfohlener_einsatz_prozent": 2.0,
-      "kurzbegruendung": "Tabellen-1 (47 Pkt) vs Tabellen-16 (22 Pkt) + Heim + 3 letzte H2H alle Palmeiras + Inter 5 Ausfälle + Sperre"
+      "kurzbegruendung": "Tabellen-1 (47 Pkt) vs Tabellen-16 (22 Pkt) + Heim + 3 letzte H2H alle Palmeiras + Inter 5 Ausfälle + Sperre",
+      "rang": 1
     },
     {
       "spiel_id": "2026-08-09-stp-fue",
       "kategorie": "value",
       "markt": "Beide Teams treffen: Ja",
-      "quote": 1.60,
+      "quote": 1.6,
       "einsatz_euro": 8.25,
       "empfohlener_einsatz_prozent": 1.5,
-      "kurzbegruendung": "Beidseitige Vorbereitungs-Offensive + Hrgota-Storyline + H2H 8/9 Ü2.5"
+      "kurzbegruendung": "Beidseitige Vorbereitungs-Offensive + Hrgota-Storyline + H2H 8/9 Ü2.5",
+      "rang": 2
     },
     {
       "spiel_id": "2026-08-09-nue-dyd",
@@ -296,7 +298,8 @@
       "quote": 1.64,
       "einsatz_euro": 8.25,
       "empfohlener_einsatz_prozent": 1.5,
-      "kurzbegruendung": "HR08-09-3 kein Fav-Bias, letzte H2H 2:0 Dresden, Vermeij 5-in-5 vs Nürnberg, Dresden 5S/6 Testspiele"
+      "kurzbegruendung": "HR08-09-3 kein Fav-Bias, letzte H2H 2:0 Dresden, Vermeij 5-in-5 vs Nürnberg, Dresden 5S/6 Testspiele",
+      "rang": 3
     },
     {
       "spiel_id": "2026-08-09-pal-int",
@@ -305,7 +308,8 @@
       "quote": 1.83,
       "einsatz_euro": 8.25,
       "empfohlener_einsatz_prozent": 1.5,
-      "kurzbegruendung": "Goldgrube +30.2% ROI, Palm-Def 0.76 GA + Inter torschwach"
+      "kurzbegruendung": "Goldgrube +30.2% ROI, Palm-Def 0.76 GA + Inter torschwach",
+      "rang": 4
     },
     {
       "spiel_id": "2026-08-09-stp-fue",
@@ -314,7 +318,8 @@
       "quote": 1.72,
       "einsatz_euro": 2.75,
       "empfohlener_einsatz_prozent": 0.5,
-      "kurzbegruendung": "Klassen-Fav aber H2H letzte 2 Auftakte 0:0"
+      "kurzbegruendung": "Klassen-Fav aber H2H letzte 2 Auftakte 0:0",
+      "rang": 5
     },
     {
       "spiel_id": "2026-08-09-nue-dyd",
@@ -323,7 +328,8 @@
       "quote": 1.65,
       "einsatz_euro": 2.75,
       "empfohlener_einsatz_prozent": 0.5,
-      "kurzbegruendung": "HR08-09-2 Ü2.5-Cluster + Dresden 28 Tore/6 Test + Nürnberg-IV-Loch"
+      "kurzbegruendung": "HR08-09-2 Ü2.5-Cluster + Dresden 28 Tore/6 Test + Nürnberg-IV-Loch",
+      "rang": 6
     },
     {
       "spiel_id": "2026-08-09-stp-fue",
@@ -332,34 +338,38 @@
       "quote": 1.93,
       "einsatz_euro": 2.75,
       "empfohlener_einsatz_prozent": 0.5,
-      "kurzbegruendung": "HR08-09-2 Ü2.5-Cluster + Torfestival-Vorbereitung"
+      "kurzbegruendung": "HR08-09-2 Ü2.5-Cluster + Torfestival-Vorbereitung",
+      "rang": 7
     },
     {
       "spiel_id": "2026-08-09-cot-h96",
       "kategorie": "wackel",
       "markt": "Doppelte Chance X2: Hannover/Remis",
-      "quote": 1.40,
+      "quote": 1.4,
       "einsatz_euro": 2.75,
       "empfohlener_einsatz_prozent": 0.5,
-      "kurzbegruendung": "Hannover-Klassen-Fav aber Debütant-TW + 3 Ausfälle"
+      "kurzbegruendung": "Hannover-Klassen-Fav aber Debütant-TW + 3 Ausfälle",
+      "rang": 8
     },
     {
       "spiel_id": "2026-08-09-cot-h96",
       "kategorie": "wackel",
       "markt": "Über 2.5 Tore",
-      "quote": 1.90,
+      "quote": 1.9,
       "einsatz_euro": 2.75,
       "empfohlener_einsatz_prozent": 0.5,
-      "kurzbegruendung": "HR08-09-2 + Titz-Ballbesitz + Cottbus 4 Tore vs Werder-Test"
+      "kurzbegruendung": "HR08-09-2 + Titz-Ballbesitz + Cottbus 4 Tore vs Werder-Test",
+      "rang": 9
     },
     {
       "spiel_id": "2026-08-09-stp-fue",
       "kategorie": "wackel",
       "markt": "Torschützen Jederzeit: Martijn Kaars",
-      "quote": 2.30,
+      "quote": 2.3,
       "einsatz_euro": 2.75,
       "empfohlener_einsatz_prozent": 0.5,
-      "kurzbegruendung": "HR08-09-4 Volume-Neuner-Screen + 5-Tore-Schnitt Vorbereitung"
+      "kurzbegruendung": "HR08-09-4 Volume-Neuner-Screen + 5-Tore-Schnitt Vorbereitung",
+      "rang": 10
     },
     {
       "spiel_id": "2026-08-09-nue-dyd",
@@ -368,59 +378,92 @@
       "quote": 2.75,
       "einsatz_euro": 2.75,
       "empfohlener_einsatz_prozent": 0.5,
-      "kurzbegruendung": "5 Tore in 5 gegen Nürnberg + IV-Loch, Volume-Neuner HR08-09-4"
+      "kurzbegruendung": "5 Tore in 5 gegen Nürnberg + IV-Loch, Volume-Neuner HR08-09-4",
+      "rang": 11
     }
   ],
   "kombis": [
     {
       "profil": "safe",
       "beine": [
-        {"spiel_id": "2026-08-09-pal-int", "markt": "Sieg Palmeiras", "quote": 1.57},
-        {"spiel_id": "2026-08-09-nue-dyd", "markt": "Doppelte Chance X2 Dresden/Remis", "quote": 1.64},
-        {"spiel_id": "2026-08-09-cot-h96", "markt": "Doppelte Chance X2 Hannover/Remis", "quote": 1.40}
+        {
+          "spiel_id": "2026-08-09-pal-int",
+          "markt": "Sieg Palmeiras",
+          "quote": 1.57
+        },
+        {
+          "spiel_id": "2026-08-09-nue-dyd",
+          "markt": "Doppelte Chance X2 Dresden/Remis",
+          "quote": 1.64
+        },
+        {
+          "spiel_id": "2026-08-09-cot-h96",
+          "markt": "Doppelte Chance X2 Hannover/Remis",
+          "quote": 1.4
+        }
       ],
-      "gesamtquote": 3.60,
+      "gesamtquote": 3.6,
       "rechnung": "1.57 x 1.64 x 1.40 = 3.60",
-      "einsatz_euro": 11.00,
+      "einsatz_euro": 11.0,
       "empfohlener_einsatz_prozent": 2.0,
       "begruendung": "3 Klassen-Fav-Beine aus 3 verschiedenen Spielen. Palm-Sieg (klare Tabellen-1v16-Edge) + Dresden-X2 (HR08-09-3 Anti-Fav-Bias, Form-Peak) + Hannover-X2 (Aufstiegs-Fav gegen Aufsteiger). Layer-2 (Sieg-Outcome max 1 Kombi) ✓ nur 1 Sieg-Anker. Kasse-Stufe 1 Standard-Safe-Stake 2%."
     },
     {
       "profil": "balance",
       "beine": [
-        {"spiel_id": "2026-08-09-stp-fue", "markt": "BTTS Ja", "quote": 1.60},
-        {"spiel_id": "2026-08-09-nue-dyd", "markt": "Über 2.5 Tore", "quote": 1.65},
-        {"spiel_id": "2026-08-09-stp-fue", "markt": "Sieg St. Pauli", "quote": 1.72},
-        {"spiel_id": "2026-08-09-pal-int", "markt": "Unter 2.5 Tore", "quote": 1.83}
+        {
+          "spiel_id": "2026-08-09-stp-fue",
+          "markt": "BTTS Ja",
+          "quote": 1.6
+        },
+        {
+          "spiel_id": "2026-08-09-nue-dyd",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.65
+        },
+        {
+          "spiel_id": "2026-08-09-pal-int",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.83
+        }
       ],
-      "gesamtquote": 8.31,
-      "rechnung": "1.60 x 1.65 x 1.72 x 1.83 = 8.31",
-      "einsatz_euro": 4.40,
+      "gesamtquote": 4.83,
+      "rechnung": "1.60 × 1.65 × 1.83 = 4.83",
+      "einsatz_euro": 4.4,
       "empfohlener_einsatz_prozent": 0.8,
       "begruendung": "4 Beine Mix BTTS + Ü2.5 + Sieg + Unter. St.Pauli-Beine positiv korreliert (2:1/3:2 hits beides). N-D Ü2.5 unabhängig. Palm-Inter Unter passt zu Sieg Palm (Safe) - konsistent (Palm 1:0/2:0). Layer-2 ✓ (nur 1 Sieg-Outcome). HR08-09-1 kompatibel: Palm-Inter 2 Portfolio-Beine (Sieg + Unter). Kasse-Stufe 1 Balance-Stake 0.8% = 4.40€."
     },
     {
       "profil": "risk",
       "beine": [
-        {"spiel_id": "2026-08-09-nue-dyd", "markt": "Sieg Dresden", "quote": 2.80},
-        {"spiel_id": "2026-08-09-cot-h96", "markt": "Sieg Cottbus", "quote": 3.10},
-        {"spiel_id": "2026-08-09-stp-fue", "markt": "Torschützen Jederzeit Kaars", "quote": 2.30}
+        {
+          "spiel_id": "2026-08-09-cot-h96",
+          "markt": "Sieg Cottbus",
+          "quote": 3.1
+        }
       ],
-      "gesamtquote": 19.96,
-      "rechnung": "2.80 x 3.10 x 2.30 = 19.96",
-      "einsatz_euro": 1.40,
+      "gesamtquote": 3.1,
+      "rechnung": "3.10 = 3.1",
+      "einsatz_euro": 1.4,
       "empfohlener_einsatz_prozent": 0.25,
       "begruendung": "2 Underdog-Siege (Dresden-Form-Reverse + Cottbus-Heim-Cauldron-Contrarian) + Torschütze Kaars (Volume-Neuner-Klassen-Edge SP-F). Layer-2 max 2 Sieg-Outcomes akzeptiert für Risiko-Range. Portfolio-Kollision Dresden-Sieg (bereits DC X2 in Safe, kompatibel) + Cottbus-Sieg (Hedge über Kombis: mutual exklusiv mit DC X2 Hannover in Safe). Kasse-Stufe 1 Risiko-Stake 0.25% = 1.40€."
     },
     {
       "profil": "moonshot",
       "beine": [
-        {"spiel_id": "2026-08-09-stp-fue", "markt": "Sieg Greuther Fürth", "quote": 4.10},
-        {"spiel_id": "2026-08-09-nue-dyd", "markt": "Vermeij Doppelpack", "quote": 7.50},
-        {"spiel_id": "2026-08-09-pal-int", "markt": "Sieg Internacional (Underdog)", "quote": 5.80}
+        {
+          "spiel_id": "2026-08-09-stp-fue",
+          "markt": "Sieg Greuther Fürth",
+          "quote": 4.1
+        },
+        {
+          "spiel_id": "2026-08-09-nue-dyd",
+          "markt": "Vermeij Doppelpack",
+          "quote": 7.5
+        }
       ],
-      "gesamtquote": 178.35,
-      "rechnung": "4.10 x 7.50 x 5.80 = 178.35",
+      "gesamtquote": 30.75,
+      "rechnung": "4.10 x 7.50 = 30.75",
       "einsatz_euro": 0.55,
       "empfohlener_einsatz_prozent": 0.1,
       "begruendung": "3 Underdog-Contrarian-Beine (Sieg Fürth gegen Klassen-Fav SP + Vermeij Doppelpack Value + Sieg Inter gegen Palm-Klasse). Moonshot als Spaßeinsatz 0.10% Kasse = 0.55€. HR08-09-1 bewusst gelockert (Sieg Inter widerspricht Sieg Palm in Safe - Hedge-Effekt über Kombis, Palm-Inter Bein 3 im Portfolio akzeptiert wegen niedrigem Moonshot-Stake). Lotterie-Charakter, keine Kasse-Belastung bei Bust."

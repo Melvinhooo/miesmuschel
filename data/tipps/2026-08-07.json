@@ -52,20 +52,8 @@
           "edge_prozent": 4,
           "begruendung": "DC X2 ist Goldgrube (77.8% Hit, +9.4% ROI). Hertha-Kader-Kontinuitaet + Coach-Optimismus (Leitl 2. Jahr) vs Bochum-Umbruch (5 Neuzugaenge Startelf) + Bochum-Defense-Fragezeichen. Bochum H2H stark aber neuer Squad = Vertrautheits-Verlust. Beobachtungs-Liga-Auftakt max wackel trotz starker Story.",
           "layer_2_tag": "hertha_sieg_dc",
-          "faire_quote": 1.50,
+          "faire_quote": 1.5,
           "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Torschuetzen Jederzeit: Ibrahim Sissoko (Bochum)",
-          "quote": 2.88,
-          "einsatz_euro": 2.75,
-          "edge_prozent": 5,
-          "begruendung": "Torschuetzen Jederzeit ist bester Markt im System (+24.4% ROI, HR 50% - Pflicht bei Heim-Fav). Sissoko Bochum-Hauptstuermer im Kader-Umbruch. WACKEL statt VALUE weil Sprunggelenks-Fragezeichen im Vorbericht + Aufstellungs-Risiko (kann rausrotieren wenn nicht fit) + Beobachtungs-Liga. Hofmann als Backup-Volume-9er = Einwechslungs-Boost-Absicherung wenn Sissoko rausgeht. Bei bet365 live pruefen ob Sissoko in Startelf.",
-          "layer_2_tag": "sissoko_tor",
-          "faire_quote": 2.74,
-          "empfohlener_einsatz_prozent": 0.5,
-          "_startelf_verifikation_pending": true
         }
       ],
       "kontext_check_status": "OK"
@@ -168,7 +156,7 @@
         {
           "kategorie": "wackel",
           "markt": "Doppelte Chance X2: Famalicao oder Remis",
-          "quote": 1.30,
+          "quote": 1.3,
           "einsatz_euro": 2.75,
           "edge_prozent": 3,
           "begruendung": "DC X2 Goldgrube (77.8% Hit, +9.4% ROI). Famalicao H2H-Dominanz (4/4 letzte) + Estoril-Krisenform + Motivations-Edge. Quote 1.30 zu kurz fuer hoehere Kategorie in Beobachtungs-Liga. Kombi-Anker mit starker Story.",
@@ -436,7 +424,7 @@
           "spiel_id": "2026-08-07-cea-pon",
           "spiel_label": "Ceara vs Ponte Preta",
           "markt": "Beide Teams treffen JA",
-          "quote": 2.10
+          "quote": 2.1
         },
         {
           "spiel_id": "2026-08-07-brg-kor",
