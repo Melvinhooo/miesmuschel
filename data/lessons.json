@@ -2272,6 +2272,30 @@
       "kategorie": "Torschuetzen-Tipp braucht Team-Tor-Ceiling bei Squad-Umbruch (8h Rotation)",
       "lesson": "HR08-08-4 Sissoko-Torschuetzen-Tipp @2.88 verloren - Bochum insgesamt 0 Tore. Torschuetzen-Tipp ist bedingtes Ereignis: erfordert P(Team-Tor > 0) hoch. Bochum-Startelf hatte 5 Neuzugaenge, Sissoko selbst Sprunggelenks-Fragezeichen - doppelte Chancenverwertungs-Unsicherheit. Aggregator-Signal (Volume-9er) trumpft nicht Squad-Umbruch. Konsequenz-Regel: Torschuetzen-Tipp NICHT bei a) Teams mit >=4 Neuzugaengen in Startelf ODER b) Ziel-Spieler mit Verletzungs-Fragezeichen im Vorbericht - egal welche Torschuetzen-Goldgrube-Kategorie. Auftakt-Spiel = System noch nicht eingespielt = Torschuetzen-Wahrscheinlichkeit fuer JEDEN Spieler reduziert. Einwechslungs-Boost hier auch nicht anwendbar weil Team komplett torlos. Torschuetzen-Tipp braucht Team-Tor-Baseline >= 1.5 in erwarteten Team-Toren.",
       "bezug_spiel_id": "2026-08-07-boc-her"
+    },
+    {
+      "datum": "2026-08-09",
+      "kategorie": "Top-Spiel-Portfolio-Konzentration Kombi-Killer (8a Korrelations-Analyse)",
+      "lesson": "HR08-09-1 Wolfsburg-Lautern 0:0 killte 4 Portfolio-Beine im GLEICHEN Spiel: Safe-Kombi-Sieg-Bein (Wolfsburg 1.64) + Einzel Ueber-2.5 (1.50) + Einzel BTTS-Ja (1.52) + Einzel Torschuetzen Glatzel (2.18). 4-fache Damage aus einem Top-Spiel-0:0 = strukturell fatal. Ursache: Portfolio-Design nahm Wolfsburg als 'sicheren Anker' und packte 4 verschiedene Markt-Beine drauf. Konsequenz: Bei EINEM Top-Spiel im Slate MAX 2 Portfolio-Beine (1x Sieg-Anker + 1x sekundaerer Markt), restliche Beine ueber andere Spiele verteilen. Regel: Wenn Top-Spiel-Sieg-Anker im Safe-Kombi, KEIN Ueber-2.5/BTTS/Torschuetze aus gleichem Spiel im Portfolio. Reduziert Korrelations-Downside bei Top-Spiel-Klopper (0:0-Cluster, Rote-Karte-Cluster, Wetter-Cluster).",
+      "bezug_spiel_id": "2026-08-08-wol-kai"
+    },
+    {
+      "datum": "2026-08-09",
+      "kategorie": "Auftakts-Tor-Festival aus voller Analyse widerspricht HR07-28-1 (8g Markt-Pattern nicht-getippt)",
+      "lesson": "HR08-09-2 Aggregat markt_resultate 2. BL 1. Spieltag: 4/5 BTTS-Ja, 4/5 Ueber-2.5, 3/5 Ueber-4.5+ (Heidenheim-Osn 4:3 = 7 Tore, Magdeburg-Bra 1:6 = 7 Tore, Karlsruhe-Bi 2:1 = 3 Tore, Wolfsburg-Kai 0:0 = 0 Tore Ausnahme, Grêmio-SP 2:1 = 3 Tore). Widerspruch zu HR07-28-1 'taktisch verhaltene Auftakts-Tendenz'. Realer Pattern: 2. BL 1. Spieltag hat oft Squad-Unrunde-Defense-Loecher UND offensive Klassen-Duelle - hohes Tor-Volumen ist Regel nicht Ausnahme. Konsequenz: 2. BL 1. Spieltag Ueber-2.5-Tipps als VALUE-Kategorie freigeben (nicht wackel-Downgrade). Ueber-3.5 als wackel-Kombi-Option nutzen. Fuer BL/PL/LaLiga 1. Spieltag Pattern separat validieren wenn Slate anfaellt (15.-22.08.2026).",
+      "bezug_spiel_id": "2026-08-08-hei-osn"
+    },
+    {
+      "datum": "2026-08-09",
+      "kategorie": "Vorsaison-Auswaerts-Bilanz nicht prognostisch neue Saison (8e Kategorie-Reality)",
+      "lesson": "HR08-09-3 Magdeburg-DC-1X + Sieg-Tipp basierten auf Braunschweig-Auswaerts-Katastrophe 25/26 (4/5 verloren, -5 Tordifferenz). Real 08.08.2026: Braunschweig gewann 6:1 in Magdeburg (0:4 zur HZ + Rote Karte Bockhorn 31. Min) - Rekord-Heim-Niederlage in 2.-Liga-Historie fuer Magdeburg. H2H-Warnung 'Braunschweig 2S/2U letzte 5' war prognostisch stark, wurde ignoriert. Konsequenz-Regel: Fuer Auftakt-Slates NIE Vorsaison-Auswaerts/Heim-Bilanz als Fav-Argument gewichten (Squad-Wechsel/Trainer-Wechsel machen sie irrelevant). Statt dessen H2H letzte 5 + Vorbereitungs-Testspiel-Form (letzte 3) als Primaer-Predictor. Wenn H2H gegen Fav-Tipp spricht (>=3 Non-Siege letzte 5), Fav-DC nicht ueberdehnen - eher Ueber-2.5/BTTS statt Sieg-Markt.",
+      "bezug_spiel_id": "2026-08-08-mag-bra"
+    },
+    {
+      "datum": "2026-08-09",
+      "kategorie": "Volume-Neuner-Torschuetzen-Screening bei Auftakts (8i Boost-Trigger + verpasste Tipps)",
+      "lesson": "HR08-09-4 Zwei verpasste Torschuetzen-Chancen im 08.08.-Slate: Broschinski (Karlsruhe) Doppelpack 35./78. Min. (Volume-Neuner Ex-BL) und Pavón (Grêmio) Freistoss-Winner 85. Min. (Volume-Kandidat). Beide waren offensichtliche Torschuetzen-Kandidaten in Klassen-Edge-Spielen - keiner getippt. Zusaetzlich Wolfsburg-Boost-Trigger geschah (Glatzel raus fuer Shiogai 68. Min.) aber Team torlos = kein Boost-Effekt anwendbar. Konsequenz-Regel: Bei Auftakt-Slates mit Klassen-Edge (Ex-BL vs Aufsteiger, Top-Team vs Aussenseiter) 1-2 Volume-Neuner-Torschuetzen-Tipps auf CHANCEN-Seite (nicht Fav-Seite) legen. Screening-Checkliste: Volume-Neuner (>=10 Tore Vorsaison Liga/Nation) + Startelf-Aggregator-verifiziert + Team mit Klassen-Edge = automatisch scannen. Torschuetzen-Jederzeit Goldgrube (+24.4% ROI) rechtfertigt aktives Suchen. Boost-Trigger nur wertvoll wenn Team-Tor-Baseline >= 1.5.",
+      "bezug_spiel_id": "2026-08-08-kar-bie"
     }
   ]
 }
