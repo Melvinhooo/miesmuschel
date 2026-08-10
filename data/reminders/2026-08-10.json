@@ -1,11 +1,23 @@
 {
-  "stand": "2026-08-10T16:06:01.304082+00:00",
+  "stand": "2026-08-10T18:23:19.000710+00:00",
   "gesendet": {
     "2026-08-10-sir-brm": {
       "sent_at": "2026-08-10T16:06:00.222433+00:00",
       "anstoss": "2026-08-10T19:00:00+02:00",
       "spiel": "IK Sirius vs IF Brommapojkarna",
       "top_tipp": "Sieg 1X2: IK Sirius"
+    },
+    "2026-08-10-sca-nac": {
+      "sent_at": "2026-08-10T18:23:17.407818+00:00",
+      "anstoss": "2026-08-10T21:15:00+02:00",
+      "spiel": "CD Santa Clara vs CD Nacional",
+      "top_tipp": "Unter 2.5 Tore"
+    },
+    "2026-08-10-ply-exe": {
+      "sent_at": "2026-08-10T18:23:17.407818+00:00",
+      "anstoss": "2026-08-10T21:00:00+02:00",
+      "spiel": "Plymouth Argyle vs Exeter City",
+      "top_tipp": "Sieg 1X2: Plymouth Argyle"
     }
   }
 }
