@@ -1,13 +1,13 @@
 {
-  "stand": "2026-08-09T07:15:10+00:00",
+  "stand": "2026-08-10T07:12:41+00:00",
   "kriterium": "Hitrate < 40.0% UND ROI < -25.0% bei min. 5 Tipps",
   "wirkung": "Schema-Mapper degradiert SAFE/VALUE auf wackel + entfernt aus einzeltipps[]/Hauptkombis (analog Beobachtungs-Liga).",
   "maerkte": [
     {
       "markt": "Spread/Handicap",
-      "tipps": 9,
-      "trefferquote": 22.2,
-      "roi_prozent": -24.2,
+      "tipps": 6,
+      "trefferquote": 33.3,
+      "roi_prozent": -36.3,
       "netto": -2.18
     }
   ]

@@ -1,15 +1,8 @@
 {
-  "stand": "2026-08-09T07:15:10+00:00",
+  "stand": "2026-08-10T07:12:41+00:00",
   "kriterium": "ROI > 15.0% ODER (Trefferquote >= 65.0% UND ROI > 0%) bei min. 5 Tipps",
   "wirkung": "Schema-Mapper bestaetigt SAFE-Tipps in diesen Ligen. Andere SAFE-Tipps werden auf VALUE downgegradet wenn der Markt-Typ nicht in markt_goldgruben.json ist (Hebel C ROI-Sanierung 04.05.).",
   "ligen": [
-    {
-      "liga": "Europa League Halbfinale Rueckspiel",
-      "tipps": 6,
-      "trefferquote": 83.3,
-      "roi_prozent": 149.7,
-      "netto": 8.98
-    },
     {
       "liga": "FIFA World Cup 2026 - Gruppe F - Spieltag 1",
       "tipps": 5,
@@ -32,25 +25,18 @@
       "netto": 18.9
     },
     {
-      "liga": "NBA Playoffs Round 2, Game 2",
-      "tipps": 8,
-      "trefferquote": 37.5,
-      "roi_prozent": 56.2,
-      "netto": 4.5
-    },
-    {
-      "liga": "Bundesliga",
-      "tipps": 16,
-      "trefferquote": 55.6,
-      "roi_prozent": 41.1,
-      "netto": 3.7
-    },
-    {
       "liga": "FIFA World Cup 2026 - Gruppe I - Spieltag 1",
       "tipps": 6,
       "trefferquote": 83.3,
       "roi_prozent": 36.3,
       "netto": 2.18
+    },
+    {
+      "liga": "LaLiga",
+      "tipps": 22,
+      "trefferquote": 50.0,
+      "roi_prozent": 22.0,
+      "netto": 4.63
     },
     {
       "liga": "Internationales Freundschaftsspiel (WM-Test)",
