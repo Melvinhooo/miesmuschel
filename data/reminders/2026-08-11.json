@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-11T16:35:44.347695+00:00",
+  "stand": "2026-08-11T17:39:58.702655+00:00",
   "gesendet": {
     "2026-08-11-nec-oly": {
       "sent_at": "2026-08-11T16:35:42.849832+00:00",
@@ -12,6 +12,24 @@
       "anstoss": "2026-08-11T20:00:00+02:00",
       "spiel": "Roter Stern Belgrad vs Hapoel Be'er Sheva",
       "top_tipp": "Sieg 1X2: Roter Stern Belgrad"
+    },
+    "2026-08-11-slo-mja": {
+      "sent_at": "2026-08-11T17:39:56.467066+00:00",
+      "anstoss": "2026-08-11T20:15:00+02:00",
+      "spiel": "SK Slovan Bratislava vs Mjaellby AIF",
+      "top_tipp": "Sieg 1X2: SK Slovan Bratislava"
+    },
+    "2026-08-11-cel-ara": {
+      "sent_at": "2026-08-11T17:39:56.467066+00:00",
+      "anstoss": "2026-08-11T20:15:00+02:00",
+      "spiel": "NK Celje vs FC Ararat-Armenia",
+      "top_tipp": "Sieg 1X2: NK Celje"
+    },
+    "2026-08-11-lyo-spa": {
+      "sent_at": "2026-08-11T17:39:56.467066+00:00",
+      "anstoss": "2026-08-11T21:00:00+02:00",
+      "spiel": "Olympique Lyon vs AC Sparta Praha",
+      "top_tipp": "Sieg 1X2: Olympique Lyon"
     }
   }
 }
