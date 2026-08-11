@@ -2321,6 +2321,30 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "HR08-10-4 Volume-Neuner-Screen Fav-Seite-Blindspot 8b-8i",
       "lesson": "Zoma (Nuernberg-Neuzugang) machte HATTRICK (10', 45+4', 76') - HR08-09-4 Volume-Neuner-Screen war ausschliesslich auf Chancen-Seite (Vermeij Dresden) statt Fav-Seite ausgerichtet. Konsequenz: HR08-09-4 verschaerfen - Volume-Neuner-Screen MUSS beide Seiten scannen, besonders bei Neuzugaengen und Klassen-Fav-Kader mit sturmoffensivem Coach. Blindspot-Kosten: Nuernberg-Zoma-Torschuetzen-Tipp bei @2.50-3.00 verpasst. Volle-Analyse Trigger: bei jedem Fav-Team + 1+ Neuzugang im Sturm/OM ab Vor-Sommer explizit Torschuetzen-Odds-Scan pflicht.",
       "bezug_spiel_id": "2026-08-09-nue-dyd"
+    },
+    {
+      "datum": "2026-08-11",
+      "kategorie": "HR08-11-1 Roster-Verifikation-Freistellung-Spieltag Blindspot 8i",
+      "lesson": "Robbie Ure (Sirius, 11 Tore Top-Scorer) wurde AM SPIELTAG fuer Transfer-Verhandlungen mit auslaendischem Klub freigestellt - stand NICHT im Kader trotz sportsgambler-Odds -164 (Startelf-plausibel) in der Vorab-Recherche. Torschuetzen-Tipp @1.60 = bet365-Void (Push, Einsatz zurueck). NEUE HARTREGEL: Bei Torschuetzen-Tipps auf Spieler mit aktiven Transfer-Geruechten (Wintermarkt-Nachwehen, Sommerfenster bis 01.09.) am Tages des Spiels selbst nochmal Vereins-Twitter/Vereins-News auf 'Freistellung' / 'permission to travel' checken. Volume-9er-Screen HR08-10-4 wird um Trigger-Punkt 'Transfer-News letzte 48h' erweitert - bei Alarm-Tag: Torschuetzen-Tipp SKIP oder Backup-Kandidat.",
+      "bezug_spiel_id": "2026-08-10-sir-brm"
+    },
+    {
+      "datum": "2026-08-11",
+      "kategorie": "HR08-11-2 Primeira-Liga-Auftakts-Klassiker Under-2.5-Downgrade 8f-8g",
+      "lesson": "Santa Clara vs Nacional (Insel-Klassiker Azoren-Madeira Primeira-Liga 1. Spieltag) endete 2:2 mit ALLEN 4 TOREN in 1. Halbzeit - Unter 2.5 Goldgrube @1.56 gebustet (verloren -8.25 Euro). Auftakts-Chaos statt Auftakts-Vorsicht. Nacional-Vorbereitungs-Baseline (1.0 GS/Spiel) und SC-Def-Solidaritaet (0.4 GA Vorbereitung) uebertrugen sich NICHT auf Auftaktsspiel mit Klassiker-Emotion (Insel-Duell + Baeza-Elfmeter-Aktivator). NEUE HARTREGEL: Unter 2.5 als Portfolio-Goldgrube bleibt +30.2% ROI, ABER bei Primeira-Liga-Auftakts-Spiel MIT Insel/Regional-Klassiker-Charakter (Azoren-Madeira, Braga-Guimaraes-Derby, Sporting-Benfica) auf max WACKEL downgraden. HR08-09-3 Anti-Vorsaison-Bias-Doktrin auch fuer Under-Tore-Marktzahl relevant, nicht nur Sieg-Marktzahl.",
+      "bezug_spiel_id": "2026-08-10-sca-nac"
+    },
+    {
+      "datum": "2026-08-11",
+      "kategorie": "HR08-11-3 Cup-R1-Klassen-Edge Ueber-2.5-Late-Drama-Falle 8g",
+      "lesson": "Plymouth (League One) vs Exeter (League Two) EFL-Cup-R1 endete 2:0 mit BEIDEN TOREN in Nachspielzeit (Hartridge 90+2 Kopfball nach Ecke, Pepple 90+4) - Ueber 2.5 Tore @1.53 verloren (2 < 2.5). 0:0 HZ + 0:0 nach 90 Min = klassisches Cup-R1-Underdog-Bunker-Muster. Devon-Derby-Historie (11/11 Ply-Heim-Tor vs Exeter) hielt EXAKT auf Plymouth-Seite, aber BTTS RISS (Exeter zu-null im Bunker-Modus). NEUE HARTREGEL: bei Cup-R1 mit dominanter Klassen-Edge (>= 2 Divisions-Ebenen Delta) und schwacher Underdog-Vorbereitung: Ueber 2.5 auf max WACKEL nicht VALUE downgraden - 90min-Marktzahl kann durch Nachspielzeit-Late-Drama nicht rechtzeitig geknackt werden. BTTS bei Cup-R1-Klassen-Edge grundsaetzlich SKIP (Underdog-Bunker macht zu-null wahrscheinlich).",
+      "bezug_spiel_id": "2026-08-10-ply-exe"
+    },
+    {
+      "datum": "2026-08-11",
+      "kategorie": "HR08-11-4 Klassen-Duell-Bruch HR08-10-2-Blueprint bestaetigt 8f-8h",
+      "lesson": "Sirius (Tabellen-1 Allsvenskan, 13-2-0 ungeschlagen) vs Brommapojkarna (Tabellen-12) endete 2:2 (HZ 2:2!) - Sirius fuehrte 2:0 in 23. Min (Svensson 17., Bjerkebo 23.), BR glich in 5 MIN aus (Zanden 25., Okeke 28.). EXAKTE Wiederholung des HR08-10-2 Palm-Inter 0:0-Blueprints (Klassen-Duell-Bruch-Muster). Sieg-Sirius @1.30 wurde KORREKT auf VALUE downgegradet (nicht SAFE) - Downgrade-Doktrin bestaetigt sich zum ZWEITEN MAL in Folge. Sirius-Volle-Analyse: alle 4 Tore in 1.HZ + Drehung=True + BR gewaehrte Fav 0 Tore in restlichen 62 Min (Verwaltungs-Muster nach 2:2-Schock). NEUE HARTREGEL-VERFESTIGUNG: HR08-10-2 wird zur DAUER-HARTREGEL erweitert auf ALLE Fav-heim-@ 1.30-1.60-Sieg-Tipps in Ligen mit Tabellen-1 vs Tabellen-10+ Konstellation, UNABHAENGIG von Land/Liga (Serie A + Allsvenskan haben's beide bestaetigt in 2 Tagen). Volle-Analyse-Aggregation: 2/2 direkt-getippte SAFE-Kandidaten in dieser Konstellation gebustet in letzten 7 Tagen.",
+      "bezug_spiel_id": "2026-08-10-sir-brm"
     }
   ]
 };

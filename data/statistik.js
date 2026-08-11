@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-08-10T07:12:41+00:00",
+  "letzte_berechnung": "2026-08-11T07:14:10+00:00",
   "gesamt": {
-    "tipps": 409,
-    "gewonnen": 210,
-    "verloren": 188,
-    "push": 2,
+    "tipps": 419,
+    "gewonnen": 213,
+    "verloren": 194,
+    "push": 3,
     "offen": 9,
-    "einsatz": 400.0,
+    "einsatz": 410.0,
     "netto": 16.03,
-    "trefferquote": 52.8,
-    "roi_prozent": 4.0
+    "trefferquote": 52.3,
+    "roi_prozent": 3.9
   },
   "letzte_30_tage": {
     "tipps": 104,
     "gewonnen": 45,
-    "verloren": 59,
-    "push": 0,
+    "verloren": 58,
+    "push": 1,
     "offen": 0,
     "einsatz": 104.0,
-    "netto": 9.34,
-    "trefferquote": 43.3,
-    "roi_prozent": 9.0
+    "netto": 11.77,
+    "trefferquote": 43.7,
+    "roi_prozent": 11.3
   },
   "letzte_90_tage": {
-    "tipps": 398,
-    "gewonnen": 205,
-    "verloren": 182,
-    "push": 2,
+    "tipps": 408,
+    "gewonnen": 208,
+    "verloren": 188,
+    "push": 3,
     "offen": 9,
-    "einsatz": 389.0,
+    "einsatz": 399.0,
     "netto": 19.83,
-    "trefferquote": 53.0,
-    "roi_prozent": 5.1
+    "trefferquote": 52.5,
+    "roi_prozent": 5.0
   },
   "nach_liga": {
     "NBA Playoffs Round 2, Game 4": {
@@ -957,6 +957,39 @@ window.__MIESMUSCHEL_STAT = {
       "einsatz": 2.0,
       "netto": 0.0,
       "trefferquote": 50.0,
+      "roi_prozent": 0.0
+    },
+    "Liga Portugal Betclic 2026/27 - 1. Spieltag": {
+      "tipps": 3,
+      "gewonnen": 0,
+      "verloren": 3,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Allsvenskan 2026 - 16. Spieltag": {
+      "tipps": 4,
+      "gewonnen": 2,
+      "verloren": 1,
+      "push": 1,
+      "offen": 0,
+      "einsatz": 4.0,
+      "netto": 0.0,
+      "trefferquote": 66.7,
+      "roi_prozent": 0.0
+    },
+    "EFL Carabao Cup 2026/27 - Runde 1": {
+      "tipps": 3,
+      "gewonnen": 1,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 0.0,
+      "trefferquote": 33.3,
       "roi_prozent": 0.0
     }
   },
@@ -3655,19 +3688,52 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.0,
       "trefferquote": 50.0,
       "roi_prozent": 0.0
+    },
+    "Sieg 1X2: Santa Clara": {
+      "tipps": 3,
+      "gewonnen": 0,
+      "verloren": 3,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Sieg 1X2: IK Sirius": {
+      "tipps": 4,
+      "gewonnen": 2,
+      "verloren": 1,
+      "push": 1,
+      "offen": 0,
+      "einsatz": 4.0,
+      "netto": 0.0,
+      "trefferquote": 66.7,
+      "roi_prozent": 0.0
+    },
+    "Sieg 1X2: Plymouth Argyle": {
+      "tipps": 3,
+      "gewonnen": 1,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 0.0,
+      "trefferquote": 33.3,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt_typ": {
     "Sieg (1X2 / ML)": {
-      "tipps": 124,
-      "gewonnen": 68,
-      "verloren": 55,
-      "push": 0,
+      "tipps": 134,
+      "gewonnen": 71,
+      "verloren": 61,
+      "push": 1,
       "offen": 1,
-      "einsatz": 123.0,
+      "einsatz": 133.0,
       "netto": -5.92,
-      "trefferquote": 55.3,
-      "roi_prozent": -4.8
+      "trefferquote": 53.8,
+      "roi_prozent": -4.5
     },
     "Tottenham oder Remis (DC 1X)": {
       "tipps": 1,
@@ -3991,26 +4057,26 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 184,
-      "gewonnen": 91,
-      "verloren": 88,
+      "tipps": 190,
+      "gewonnen": 92,
+      "verloren": 93,
       "push": 1,
       "offen": 4,
-      "einsatz": 180.0,
+      "einsatz": 186.0,
       "netto": 6.15,
-      "trefferquote": 50.8,
-      "roi_prozent": 3.4
+      "trefferquote": 49.7,
+      "roi_prozent": 3.3
     },
     "1.00-1.50": {
-      "tipps": 146,
-      "gewonnen": 92,
-      "verloren": 50,
-      "push": 0,
+      "tipps": 150,
+      "gewonnen": 94,
+      "verloren": 51,
+      "push": 1,
       "offen": 4,
-      "einsatz": 142.0,
+      "einsatz": 146.0,
       "netto": 5.21,
       "trefferquote": 64.8,
-      "roi_prozent": 3.7
+      "roi_prozent": 3.6
     },
     "2.00-3.00": {
       "tipps": 58,
@@ -4037,26 +4103,26 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_kategorie": {
     "value": {
-      "tipps": 239,
-      "gewonnen": 131,
-      "verloren": 97,
-      "push": 2,
+      "tipps": 243,
+      "gewonnen": 133,
+      "verloren": 98,
+      "push": 3,
       "offen": 9,
-      "einsatz": 230.0,
+      "einsatz": 234.0,
       "netto": 21.47,
-      "trefferquote": 57.5,
-      "roi_prozent": 9.3
+      "trefferquote": 57.6,
+      "roi_prozent": 9.2
     },
     "wackel": {
-      "tipps": 117,
-      "gewonnen": 49,
-      "verloren": 68,
+      "tipps": 123,
+      "gewonnen": 50,
+      "verloren": 73,
       "push": 0,
       "offen": 0,
-      "einsatz": 117.0,
+      "einsatz": 123.0,
       "netto": -6.26,
-      "trefferquote": 41.9,
-      "roi_prozent": -5.4
+      "trefferquote": 40.7,
+      "roi_prozent": -5.1
     },
     "safe": {
       "tipps": 50,
@@ -4114,6 +4180,131 @@ window.__MIESMUSCHEL_STAT = {
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-08-10",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "?",
+          "kategorie": "",
+          "gesamtquote": 3.1,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg IK Sirius",
+              "quote": 1.3,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.56,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.53,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "?",
+          "kategorie": "",
+          "gesamtquote": 6.42,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Santa Clara",
+              "quote": 1.91,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 3.5 Tore",
+              "quote": 2.1,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "BTTS Ja",
+              "quote": 1.6,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "?",
+          "kategorie": "",
+          "gesamtquote": 26.57,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Plymouth Argyle",
+              "quote": 1.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Torschütze Doppelpack Jesús Ramírez",
+              "quote": 11.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "BTTS Ja",
+              "quote": 1.61,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "?",
+          "kategorie": "",
+          "gesamtquote": 263.52,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg IF Brommapojkarna",
+              "quote": 9.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg CD Nacional",
+              "quote": 4.88,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Exeter City",
+              "quote": 6.0,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-08-09",
       "gesamt": {
