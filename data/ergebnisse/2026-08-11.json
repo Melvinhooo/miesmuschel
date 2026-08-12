@@ -1,0 +1,1388 @@
+{
+  "datum": "2026-08-11",
+  "erstellt_am": "2026-08-11T13:30:00+02:00",
+  "hinweis": "🐚 Di 11.08.2026 · CL-Q3-Rueckspiel-Cluster (10 Spiele europaweit, Slate hier fokussiert auf 6 Kern-Duelle) · kein WM · keine NBA · BL/PL/LaLiga/Serie-A Sommerpause bis 15.-22.08. Top-Spiele: Bodo/Glimt-Union (Ligapfad-Kracher 3:3 Hinspiel) NICHT im Slate weil zu spaet erst 20:45 gescoutet + Fokus auf Meisterpfad/Ligapfad-Kern. Lyon-Sparta (Muss-Sieg Lyon nach 1:2 Hinspiel), Roter Stern-Hapoel (Marakana-Kessel nach 0:1), Celje-Ararat (Q3-Auftakt-Comeback), Slovan-Mjaellby (2:1-Verwaltung), NEC-Oly (0:0-K.O.), Kairat-Levski (steppe-Aufhol-Chaos). Kasse-Stufe 1 (550€). Lessons HR08-04 CL-Q3 Drehungs-Cluster + Roter Stern Kombi-Killer-Bein-Vorsicht + HR08-05 CL-Q3-Heim-Fav-HZ-2:0-Verwalter-Ueber2.5-Downgrade + HR07-28-1 Q3-Aggregate-Verwalter-Unter25-Bias + HR07-29-3 CL-Q3-Rueckspiel-Ueber-2.5-Konservativ + HR08-10-2 Klassen-Duell-Sieg-SAFE-Downgrade. Quoten bei bet365 live pruefen (Basis: sportsgambler/mightytips/sportytrader/wincomparator/footballwhispers/theplayoffs/wettbasis/livetipsportal).",
+  "_emergency_recovery": true,
+  "spiele": [
+    {
+      "id": "2026-08-11-kai-lev",
+      "liga": "UEFA Champions League 2026/27 - 3. Qualifikationsrunde Ligapfad Rueckspiel",
+      "heim": "FK Kairat Almaty",
+      "gast": "Levski Sofia",
+      "anstoss": "2026-08-11T17:00:00+02:00",
+      "stadion": "Turkestan Arena, Turkestan (Kasachstan)",
+      "saison_kontext": {
+        "parallel_heim": "keine - Kasachische Premier Liga Wochenrhythmus (Kairat aktuell 2. Platz, Meisterschaft Dauer-Fav)",
+        "parallel_gast": "keine - Bulgarische Parva Liga Wochenrhythmus (Levski Tabellen-1 in Herbstserie 25/26)",
+        "saisonziel_heim": "CL-Ligaphase (historisch! erstmals nach 2025er-Wunder) - Kasachische Meisterschaft laufend (18. Spieltag: 2. Platz). Kairat MUSS aufholen (Hinspiel 0:1, 0 Torschuesse!)",
+        "saisonziel_gast": "CL-Ligaphase-Debuet (nach Sieg gegen Sabah in Q2) + bulgarische Meisterschaftskampf (Herbstserie Tabellen-Fuehrer). Levski 16 Spiele ungeschlagen, 3 Weisse Westen in Serie",
+        "motivations_asymmetrie": "Kairat MUSS drehen (extreme Heim-Reise-Belastung Sofia-Turkestan + Hinspiel-Offensiv-Katastrophe 0 Schuesse) vs Levski verwaltet 1-Tor-Fuehrung mit stabiler Defensive. Aggregator-Konsens leicht Levski-fav (2.68 vs 2.98). HR07-28-1 Q3-Aggregate-Verwalter-Unter25-Bias aktiv - Unter 2.5 als Blueprint-Anker. HR08-04 CL-Q3-Drehungs-Cluster-Vorsicht: Kairat als CL-Q2-Aufholer historisch stark im Marakana-Turkestan-Kessel.",
+        "recovery_heim": "7 Tage seit Hinspiel-Reise nach Sofia, dazwischen kein Ligaspiel (bewusst geschont), aber Reisebelastung Turkestan-liegt-abgelegen",
+        "recovery_gast": "7 Tage seit Hinspiel, in Sofia-Liga 08.08. 1:0 Etar Tarnovo gewonnen (Rhythmus + Momentum)",
+        "quellen": [
+          "https://www.mightytips.com/football-predictions/kairat-almaty-vs-levski-sofia-prediction-11-08-2026/",
+          "https://www.telecomasia.net/sports-betting/tips/football/uefa-champions-league/fc-kairat-vs-levski-sofia-match-prediction-11-august-2026/",
+          "https://dailysports.net/predictions/can-kairat-pull-off-another-home-comeback-from-0-1-prediction-for-kairat-vs-levski-11082026/",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League_qualifying"
+        ]
+      },
+      "news": [
+        "Hinspiel Levski 1:0 Kairat (04.08. in Sofia), Kairat 0 Torschuesse insgesamt - offensiver Blackout",
+        "Levski 16 Spiele ungeschlagen inkl. 3 Weisse Westen zuletzt - defensiv stabil",
+        "Kairat 5 Heimsiege in Serie in Turkestan Arena, aber Q3-Rueckspiel-Druck neu",
+        "Kairat MUSS aufholen ohne Torschuss-Rhythmus, Levski kann verwalten + kontern",
+        "Aggregator-Quoten (bet365 live pruefen): Kairat Sieg @2.98, Draw @3.15, Levski Sieg @2.68, Ueber 2.5 @2.48, Unter 2.5 @1.60"
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.6,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 8,
+          "begruendung": "Goldgrube Unter 2.5 (+30.2% ROI, 69.2% Hit, n=26) + HR07-28-1 Q3-Aggregate-Verwalter-Unter25-Bias validiert bei CL-Q3-Rueckspielen. Kairat 0 Torschuesse Hinspiel = offensive Baseline unter 1 Tor. Levski verwaltet 1-Tor-Fuehrung + 3 Weisse Westen letzte Spiele + Konter-DNA. VALUE-Stake 1.5% = 8.25€. Faire Quote ~1.45.",
+          "layer_2_tag": "kai-lev_unter_25",
+          "faire_quote": 1.45,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Sieg 1X2: Levski Sofia",
+          "quote": 2.68,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 4,
+          "begruendung": "Levski Momentum + Kairat-Hinspiel-Offensive-Krise + Reisebelastung Turkestan-abgelegen. Aber HR08-04 Q3-Drehungs-Cluster + Kairat Marakana-Kessel-Faktor halten WACKEL statt VALUE. Stake 0.5% = 2.75€.",
+          "layer_2_tag": "kai-lev_sieg_lev",
+          "faire_quote": 2.5,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Doppelte Chance X2: Levski Sofia oder Draw",
+          "quote": 1.45,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 3,
+          "begruendung": "Goldgrube DC X2 (77.8% Hit, +9.4% ROI, n=27) + Levski hat mit 1:0-Puffer + Draw wuerde weiterreichen. Kairat MUSS also 2+ schiessen ohne Torschuss-Rhythmus. Aber Quote 1.45 grenzt an Wackel-Untergrenze - Stake 0.5% = 2.75€.",
+          "layer_2_tag": "kai-lev_dc_x2",
+          "faire_quote": 1.4,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 0,
+        "gast_tore": 1,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 1,
+        "status": "FINISHED"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-08-11-kai-lev-t0",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.6,
+          "kommentar": "Unter 2.5 Tore: nur 1 Tor gesamt (Reinaldo 13'). Kairats erwartete Offensiv-Explosion blieb wie im Hinspiel aus - HR07-28-1 Q3-Aggregate-Verwalter-Unter25-Bias erneut bestaetigt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-08-11-kai-lev-t1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.68,
+          "kommentar": "Sieg Levski: 1:0-Auswaertssieg + 2:0-Aggregat = 3. weisse Weste in Serie. Kairat 0 Torschuesse Serie fortgesetzt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-08-11-kai-lev-t2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.45,
+          "kommentar": "DC X2: Levski gewann 1:0 - Verwalter-Doktrin blueprint perfekt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "0:1",
+        "tore": [
+          {
+            "min": 13,
+            "team": "gast",
+            "spieler": "Reinaldo",
+            "stand_danach": "0:1",
+            "kommentar": "Vorlage Everton Bala, Distanzschuss ins linke untere Eck"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Kein Fuehrungswechsel. Levski nach frueher Fuehrung im Verwalter-Modus, Kairat trotz Ballbesitz ohne Durchbruch. Aggregat 2:0 fuer Levski."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "unter_2_5": true,
+          "unter_3_5": true,
+          "halbzeit_endstand": "Levski/Levski",
+          "kein_team_zu_null": false,
+          "genaues_ergebnis": "0:1"
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "HR07-28-1 Q3-Aggregate-Verwalter-Unter25-Bias VALIDIERT n3: Levski verwaltete 0:1-Fuehrung perfekt, Kairat weiter offensiv-katastrophal (weiter kein Torschuss-Rhythmus). Blueprint aus 05.08. + 28.07. fortgesetzt.",
+          "Torlose Heim-Kulisse Kairat trotz MUSS-Aufhol-Konstellation - Klassen-Underdog-Aufholung ohne offensive Substanz = totes Rennen.",
+          "Aggregator-Konsens (Levski 2.68 vs Kairat 2.98) validiert - kein Kombi-Bein hier eingebaut (Coinflip-Vorsicht), Unter 2.5 als Goldgrube-Anker perfekt."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-11-nec-oly",
+      "liga": "UEFA Champions League 2026/27 - 3. Qualifikationsrunde Ligapfad Rueckspiel",
+      "heim": "NEC Nijmegen",
+      "gast": "Olympiakos Piraeus",
+      "anstoss": "2026-08-11T19:30:00+02:00",
+      "stadion": "Goffertstadion, Nijmegen (Niederlande)",
+      "saison_kontext": {
+        "parallel_heim": "keine - Eredivisie-Start-Wochenende schon absolviert (08.08. 1:2 vs Telstar verloren!)",
+        "parallel_gast": "keine - Griechische Super League Saisonstart erst kommendes Wochenende, Olympiakos noch kein Pflichtspiel 26/27",
+        "saisonziel_heim": "CL-Ligaphase (historisch! erstmals in 125-Jahre-Geschichte) + Eredivisie-Etablierung nach Aufstiegs-Wackler. Eredivisie-Start-Niederlage 1:2 Telstar (Aufsteiger!) = Alarm-Signal",
+        "saisonziel_gast": "CL-Ligaphase (Titelverteidigung Griechischer Meister + CL-Rueckkehr nach Erfolgs-Saison 25/26) + strukturell tiefer Kader mit europ. Erfahrung",
+        "motivations_asymmetrie": "Olympiakos strukturell staerker (Kader-Tiefe, europ. Erfahrung, kompletter Squad ausser Yazici-ACL) vs NEC personell dezimiert: 4 Sperren (Tahaui, Ogawa, Schuurs, van Crooij) + 5-7 Verletzte (Ouwejan, Moslih, Sandler, Nuytinck, Emre Mor, Entius-GK) + Sano verweigert (PSV-Transfer). NEC hat historische Motivation aber Kollektiv-Blessuren. Aggregator-Konsens 65% Olympiakos-weiterkommen. HR07-29-3 CL-Q3-Rueckspiel-Ueber-2.5-Konservativ + K.O.-Modus + 0:0-HZ-Story = Unter 2.5 Goldgrube-Blueprint.",
+        "recovery_heim": "7 Tage seit Hinspiel, dazwischen Eredivisie-Auftakt-Niederlage 08.08. 1:2 Telstar = Belastung + Frustration + Personal-Chaos verschaerft",
+        "recovery_gast": "7 Tage seit Hinspiel, KEIN Pflichtspiel dazwischen = frisch + fokussiert auf CL-Rueckspiel",
+        "quellen": [
+          "https://www.sportsgambler.com/betting-tips/football/nec-nijmegen-vs-olympiacos-prediction-lineups-odds-2026-08-11/",
+          "https://www.mightytips.com/football-predictions/nec-nijmegen-vs-olympiacos-prediction-11-08-2026/",
+          "https://footballwhispers.com/blog/olympiacos-vs-nec-prediction-04-08-26/",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League_qualifying"
+        ]
+      },
+      "news": [
+        "Hinspiel 0:0 in Karaiskakis (04.08.), NEC hielt Piraeus-Kessel torlos",
+        "NEC 08.08. 1:2 vs Telstar (Eredivisie-Auftakt-Pleite gegen Aufsteiger) - Form-Alarm",
+        "NEC: 4 Sperren + 5-7 Verletzte + GK-Ausfall + Sano-Verweigerung - Personal-Chaos",
+        "Olympiakos: kompletter Squad ausser Yazici (ACL, long-term), 7 Tage frisch + fokussiert",
+        "El Kaabi (Oly) Volume-9er + Backup Chiquinho/Rodinei fuer Einwechslungs-Boost",
+        "Aggregator-Konsens: Olympiakos weiterkommen ~65%, Unter 2.5 Top-Pick",
+        "Aggregator-Quoten (bet365 live pruefen): NEC Sieg @2.65, Draw @3.25, Oly Sieg @2.45, Ueber 2.5 @1.80, Unter 2.5 @1.95, BTTS Ja @1.68, DC X2 @1.42, El Kaabi Torschuetze @2.40"
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.95,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 10,
+          "begruendung": "Goldgrube Unter 2.5 (+30.2% ROI, 69.2% Hit, n=26) + K.O.-Modus + NEC-Offensive dezimiert (4 Sperren im Kader) + Hinspiel 0:0-Blueprint fortgesetzt. HR07-29-3 CL-Q3-Rueckspiel-Ueber-2.5-Konservativ-Doktrin validiert. Olympiakos verwaltet-fokussiert + kein Pflichtspiel-Rost. VALUE-Stake 1.5% = 8.25€. Faire Quote ~1.75.",
+          "layer_2_tag": "nec-oly_unter_25",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "kategorie": "value",
+          "markt": "Doppelte Chance X2: Olympiakos oder Draw",
+          "quote": 1.42,
+          "einsatz_euro": 5.5,
+          "edge_prozent": 6,
+          "begruendung": "Goldgrube DC X2 (77.8% Hit, +9.4% ROI, n=27) + NEC-Personal-Chaos (4+5-7 Ausfaelle) + Olympiakos-Fokus (kein Ligaspiel) + strukturelle Kader-Tiefe. HR22 Anti-Star-OUT-Hedge nicht direkt aktiv (kein Oly-Ausfall), aber DC-Absicherung fuer 90min. VALUE-Stake 1.0% = 5.50€. Faire Quote ~1.35.",
+          "layer_2_tag": "nec-oly_dc_x2",
+          "faire_quote": 1.35,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Torschuetzen Jederzeit: Ayoub El Kaabi (Olympiakos)",
+          "quote": 2.4,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 5,
+          "begruendung": "Goldgrube Torschuetzen Jederzeit (+24.4% ROI, 50% Hit) + HR08-10-4 Volume-9er-Screen Fav-Seite: El Kaabi 20+ Tore 25/26 Griechische Meisterschaft + Backup Chiquinho/Rodinei = Einwechslungs-Boost aktiv. HR08-08-4 Team-Tor-Baseline-Warnung: Oly Auswaerts-K.O. Baseline ~1.0-1.2 (grenzwertig) - deshalb WACKEL statt VALUE trotz Form-Edge. Stake 0.5% = 2.75€.",
+          "layer_2_tag": "nec-oly_torschuetze_elkaabi",
+          "faire_quote": 2.2,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen: Nein",
+          "quote": 2.08,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 4,
+          "begruendung": "Coinflip Unter-Familie: NEC-Offensive personell zerpflueckt (kein zentraler Stuermer stabil in Startelf) + K.O.-Vorsicht + Oly Def-solide (ohne Yazici aber restlicher IV-Block stabil). Doppelte Zu-Null-Story plausibel. Stake 0.5% = 2.75€.",
+          "layer_2_tag": "nec-oly_btts_nein",
+          "faire_quote": 1.95,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 1,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 0,
+        "status": "FINISHED_AET",
+        "kommentar": "90min: 1:1 (Linssen 70'), Verlaengerung: Emre Mor 95'. Bewertung fuer Nicht-'inkl.Verl.'-Maerkte auf 90min-Stand."
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-08-11-nec-oly-t0",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.95,
+          "kommentar": "Unter 2.5 Tore: 90min-Ergebnis 1:1 = 2 Tore (bet365-Regelwerk fuer Totals ohne 'inkl.Verl.' = regulaere Spielzeit). Emre Mor 95' zaehlt nicht mit.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-08-11-nec-oly-t1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.42,
+          "kommentar": "DC X2 Olympiakos/Draw: nach 90min war es 1:1 Remis (Bewertung erfolgt fuer 1X2/DC auf 90min-Stand, NICHT inkl. Verlaengerung). El Kaabi 46' + Linssen 70'.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-08-11-nec-oly-t2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.4,
+          "kommentar": "Torschuetze El Kaabi: 46. Minute direkt nach Wiederanpfiff (Vorlage Costinha). Volume-9er-Goldgrube perfekt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-08-11-nec-oly-t3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "BTTS Nein: beide Teams trafen in regulaerer Spielzeit (El Kaabi 46' + Linssen 70' = 1:1 nach 90). Coinflip-Bein verloren, Bruch der Doppel-Zu-Null-Story.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "2:1 n.V. (90min 1:1)",
+        "tore": [
+          {
+            "min": 46,
+            "team": "gast",
+            "spieler": "Ayoub El Kaabi",
+            "stand_danach": "0:1",
+            "kommentar": "30 Sekunden nach Wiederanpfiff HZ2 - Volume-9er Goldgrube-Tor"
+          },
+          {
+            "min": 70,
+            "team": "heim",
+            "spieler": "Bryan Linssen",
+            "stand_danach": "1:1",
+            "kommentar": "Vorlage Dusan Tadic - Ausgleich zwingt Verlaengerung"
+          },
+          {
+            "min": 95,
+            "team": "heim",
+            "spieler": "Emre Mor",
+            "stand_danach": "2:1",
+            "kommentar": "Einwechselspieler (kam frueh fuer verletzten Ouaissa) trifft in Verlaengerung als Held"
+          }
+        ],
+        "drehung": {
+          "war_drehung": true,
+          "details": "Aggregat gedreht: NEC lag im Aggregat 0:0-Hinspiel + 0:1 in Nijmegen - drehte via Linssen (70.) + Emre Mor (95.) zum 2:1 in ET. Erstmals in Vereinsgeschichte in CL-Playoffs. Rote Karte Fortounis (Oly) 80. Minute (VAR) sensibilisierte das Team fuer die Verlaengerung."
+        },
+        "markt_resultate": {
+          "btts_90": "JA",
+          "btts_inkl_verl": "JA",
+          "ueber_1_5_90": true,
+          "ueber_2_5_90": false,
+          "ueber_3_5_90": false,
+          "ueber_1_5_inkl_verl": true,
+          "ueber_2_5_inkl_verl": true,
+          "ueber_3_5_inkl_verl": false,
+          "halbzeit_endstand_90": "Unentschieden/Unentschieden",
+          "kein_team_zu_null_90": true,
+          "genaues_ergebnis_90": "1:1",
+          "hinweis": "bet365-Standard: Totals/BTTS/1X2/DC auf 90min bewertet, NICHT inkl. Verlaengerung, ausser Markt explizit 'inkl. Verlaengerung'."
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Kostas Fortounis (Oly)",
+            "details": "Rote Karte 80. Min via VAR - Olympiakos ab 80. Min in Unterzahl, ermuedet in ET."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Emre Mor",
+            "aus": "Ouaissa (verletzt frueh raus)",
+            "minute": null,
+            "tor": true,
+            "tor_minute": "95",
+            "kommentar": "Verletzungs-Einwechslung fuer Ouaissa - Emre Mor traf danach in Verlaengerung. Kein Torschuetzen-Tipp auf Ouaissa vorhanden, aber Boost-Trigger-Pattern aktiv (Lesson-Kandidat)."
+          }
+        ],
+        "auffaellige_patterns": [
+          "HR07-29-1 CL-Q2/Q3 Aggregat-Drehungs-Cluster validiert n3: NEC dreht 0:1-Aggregat-Rueckstand in Verlaengerung (analog Lech vs AGF 29.07.).",
+          "HR08-04 CL-Q3-Drehungs-Cluster-Vorsicht validiert: Oly-Sieg-Kandidat implosionierte via Fortounis-Rot 80. Min - Klassen-Fav-Konstellation bricht bei Rot-Sperre nachhaltig.",
+          "Einwechslungs-Boost-Trigger ohne Torschuetzen-Tipp: Emre Mor Boost-Held via Ouaissa-Verletzungs-Sub - Volume-Backup-Screen bei CL-Q3-Rueckspielen noch nicht routine-mapped.",
+          "Unter 2.5-Goldgrube VALIDIERT bei 90min-Bewertung (nicht inkl. Verlaengerung) - Bewertungs-Doktrin bet365 klar."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-11-rst-hbs",
+      "liga": "UEFA Champions League 2026/27 - 3. Qualifikationsrunde Ligapfad Rueckspiel",
+      "heim": "Roter Stern Belgrad",
+      "gast": "Hapoel Be'er Sheva",
+      "anstoss": "2026-08-11T20:00:00+02:00",
+      "stadion": "Rajko Mitic (Marakana), Belgrad",
+      "saison_kontext": {
+        "parallel_heim": "keine - Serbische SuperLiga Saisonstart Wochenrhythmus (Roter Stern amtierender Meister, 25/26 Rang 1)",
+        "parallel_gast": "keine - Israelische Ligat Ha'Al Wochenrhythmus (Hapoel Be'er Sheva 25/26 Mittelfeld)",
+        "saisonziel_heim": "CL-Ligaphase (Titelverteidigung nach Debakel 25/26) + serbische Meisterschaftsverteidigung. Marakana-Festung entscheidend fuer CL-Millionen",
+        "saisonziel_gast": "CL-Ligaphase-Debuet (nach Q2-Aufstieg) + israelischer Titelkampf. Verwaltet 1:0-Fuehrung mit Konter-Strategie",
+        "motivations_asymmetrie": "Extreme Klassen-Edge Roter Stern (17 Tore letzte 5 + 4S/1U/0N zuletzt, Quali 9:1 Tore) + Marakana-Kessel + MUSS aufholen. Hapoel schwach: 1S/1U/3N in Serie, verwaltet 1-Tor-Fuehrung. HR08-04 KRITISCH: Roter Stern = Kombi-Killer-Bein-Trauma Q3-Cluster (Zvezda-Bust dokumentiert 04.08.) - Sieg-Quote 1.32 nominal SAFE, aber HR08-10-2 Klassen-Duell-Sieg-SAFE-Downgrade aktiv → VALUE-Kategorie. HR07-28-4 Q2/Q3-Underdog-Home-DC+BTTS-Blueprint (4/4 HIT dokumentiert) hier INVERTIERT: Roter Stern ist Home-Fav mit MUSS-Aufholung.",
+        "recovery_heim": "7 Tage seit Hinspiel, dazwischen kein Serbische-Liga-Pflichtspiel (bewusst geschont), 5 Heimsiege in Serie mit 15+ Toren",
+        "recovery_gast": "7 Tage seit Hinspiel, dazwischen israelisches Ligaspiel absolviert (Rhythmus-Erhaltung), aber schwache Form (1S/1U/3N letzte 5)",
+        "quellen": [
+          "https://www.wettbasis.com/sportwetten-tipps/roter-stern-belgrad-vs-hapoel-beer-sheva-tipp-prognose-quoten-11-08-2026-champions-league-quali",
+          "https://www.livetipsportal.com/de/sportwetten-tipps/roter-stern-belgrad-vs-hapoel-beer-sheva-champions-league-quali-12328285/",
+          "https://www.sportytrader.com/en/betting-tips/red-star-belgrade-hapoel-beer-sheva-364556/",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League_qualifying"
+        ]
+      },
+      "news": [
+        "Hinspiel Hapoel 1:0 Roter Stern (05.08. in Israel) - Zvezda unter Erwartungen",
+        "Roter Stern zuletzt 4S/1U/0N, 17 Tore letzte 5 Spiele, Quali-Weg 9:1 Tore",
+        "Hapoel 1S/1U/3N letzte 5 - Formkrise + verwaltet 1-Tor-Fuehrung",
+        "Marakana-Kulisse: fast immer 40k+ Zuschauer, extremer Heim-Vorteil",
+        "HR08-04 Zvezda-Kombi-Killer-Bein-Trauma 04.08. - Sieg-Bein-Risiko dokumentiert",
+        "Aggregator-Quoten (bet365 live pruefen): Roter Stern Sieg @1.32, Draw @6.20, Hapoel Sieg @9.60, BTTS Ja @1.80, Ueber 2.5 @1.72, Unter 2.5 @2.05"
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Sieg 1X2: Roter Stern Belgrad",
+          "quote": 1.32,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 6,
+          "begruendung": "Extreme Klassen-Edge (Roter Stern amtierender Meister 25/26 vs Hapoel Mittelfeld) + Marakana-Kessel + MUSS-Aufhol-Druck + Zvezda-Form (17 Tore letzte 5). HR08-10-2 Klassen-Duell-Sieg-SAFE-Downgrade angewendet: nicht SAFE trotz nominaler Konstellation (Palm-Inter 0:0-Blueprint aktiv + HR08-04 Q3-Cluster-Trauma). HR26 K.O.-Phase 2:0-Insurance-Regel greift (CL). VALUE-Stake 1.5% = 8.25€. Faire Quote ~1.25.",
+          "layer_2_tag": "rst-hbs_sieg_rst",
+          "faire_quote": 1.25,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.8,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 3,
+          "begruendung": "Goldgrube BTTS Ja (+17.2% ROI, n=22) + Roter Stern muss offensiv gehen (Konter-Anfaelligkeit) + Hapoel scort per Konter historisch stabil. Aber Marakana-Rueckendeckung + Zvezda-Zu-Null-Potenzial daempfen. WACKEL 0.5% = 2.75€.",
+          "layer_2_tag": "rst-hbs_btts_ja",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.72,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 3,
+          "begruendung": "Roter Stern-Offensiv-Druck (17 Tore letzte 5) + MUSS 2+ schiessen (Aggregat-Aufholung). Aber HR08-05 CL-Q3-Heim-Fav-HZ-2:0-Verwalter-Ueber-2.5-Downgrade + Marakana-Zu-Null-Tendenz-Anteile daempfen. WACKEL 0.5% = 2.75€.",
+          "layer_2_tag": "rst-hbs_ueber_25",
+          "faire_quote": 1.65,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 0,
+        "gast_tore": 2,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 0,
+        "status": "FINISHED"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-08-11-rst-hbs-t0",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Sieg Roter Stern: 0:2-Debakel im Marakana. HR26 2:0-Insurance greift NICHT (Zvezda lag nie 2:0 vorn - im Gegenteil, verloren 0:2). HR08-04 Kombi-Killer-Bein-Trauma bestaetigt n2 (04.08. + 11.08. Doppel-Bust). Trainer-Rot Stankovic 57. Min als Signal-Kollaps.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-08-11-rst-hbs-t1",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "BTTS Ja: Roter Stern trotz MUSS-Offensiv-Druck 0 Tore in 90min - Marakana-Fans pfiffen die Mannschaft aus.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-08-11-rst-hbs-t2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Ueber 2.5 Tore: nur 2 Tore (beide Hapoel). HR08-05 CL-Q3-Heim-Fav-Verwalter-Downgrade waere INVERS zutreffend - Zvezda war Verlierer, keiner ueber 2.5.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "0:2",
+        "tore": [
+          {
+            "min": 61,
+            "team": "gast",
+            "spieler": "I. Zlatanovic",
+            "stand_danach": "0:1",
+            "kommentar": "Vorlage East - Roter Stern schon nach Trainer-Rot in Aufloesung"
+          },
+          {
+            "min": 79,
+            "team": "gast",
+            "spieler": "J. East",
+            "stand_danach": "0:2",
+            "kommentar": "Vorlage Peretz - Aggregat 3:0 Hapoel"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Kein 2-Tor-Fuehrungswechsel. Roter Stern lag nie vorn. Aber Klassen-Duell-Bruch: Zvezda amtierender Meister vs Hapoel Mittelfeld = 0:2 im Marakana = MEGA-Schock. Aggregat 0:3 fuer Hapoel."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "unter_2_5": true,
+          "unter_3_5": true,
+          "halbzeit_endstand": "Unentschieden/Hapoel",
+          "kein_team_zu_null": false,
+          "genaues_ergebnis": "0:2"
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Trainer Dejan Stankovic",
+            "details": "Rote Karte 57. Min (Reaktion gegenueber SR Niberg). Bank-Signal-Kollaps direkt vor Zlatanovic-Fuehrungstor 61."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "HR08-04 Roter Stern Kombi-Killer-Bein-Trauma VALIDIERT n2 (04.08. + 11.08. Doppel-Bust): Zvezda-Sieg-Bein CL-Q3-Kontext = giftig, muss aus Safe/Risk-Kombis raus (nur isolierter Wackel).",
+          "Klassen-Duell-Bruch-Blueprint (HR08-10-2 Palm-Inter) im CL-Q3-Rueckspiel wiederholt: nominale Sieg-Fav @1.32 gebustet gegen israelische Mittelfeld-Elf. Sieg-SAFE-Downgrade auf VALUE war RICHTIG, aber nicht ausreichend - waer eher Wackel/Skip empfohlen.",
+          "Trainer-Rot als Zerfalls-Katalysator: 4 Min nach Stankovic-Rot fiel das 0:1 - Bank-Chaos beeinflusst Mannschafts-Stabilitaet direkt.",
+          "Marakana-Zu-Null-Serie GEBROCHEN: 5 Heimsiege in Serie vorher, jetzt 0:2 zu Hause = Home-Fortress-Faktor-Ausnahme."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-11-slo-mja",
+      "liga": "UEFA Champions League 2026/27 - 3. Qualifikationsrunde Ligapfad Rueckspiel",
+      "heim": "SK Slovan Bratislava",
+      "gast": "Mjaellby AIF",
+      "anstoss": "2026-08-11T20:15:00+02:00",
+      "stadion": "Tehelne Pole, Bratislava",
+      "saison_kontext": {
+        "parallel_heim": "keine - Slowakische Nike Liga Wochenrhythmus (Slovan amtierender Meister, Vorsaisons-Serientaeter)",
+        "parallel_gast": "keine - Allsvenskan Wochenrhythmus (Mjaellby 12. Platz Herbstserie, Formkrise)",
+        "saisonziel_heim": "CL-Ligaphase (Rueckkehr nach starker 25/26-Kampagne) + slowakische Titelverteidigung. Yaya-Toure-Effekt: 5 Spiele ungeschlagen (4S/1U), 6 aus letzten 7",
+        "saisonziel_gast": "CL-Ligaphase-Debuet + schwedischer Klassenerhalt-Fokus (12. Herbstserie 25/26). 1S in letzten 11 Pflichtspielen - schwere Formkrise",
+        "motivations_asymmetrie": "Slovan mit 2:1-Aggregat-Fuehrung + Heim + Yaya-Toure-Effekt + Tehelne-Pole-Fast-Unbesiegbar (2 Pleiten in 16 Heimspielen). Mjaellby Europa-Debuetant unter Druck + 3 Pleiten letzte 4. HR07-28-4 Q2-Underdog-Home-DC+BTTS-Blueprint hier INVERTIERT (Slovan ist Home-Fav mit Fuehrung). HR08-05 CL-Q3-Heim-Fav-Verwalter-Bias aktiv - Sieg-Fav max VALUE, nicht SAFE.",
+        "recovery_heim": "7 Tage seit Hinspiel, dazwischen slowakisches Ligaspiel 08.08. absolviert (Rhythmus + Momentum-Erhaltung)",
+        "recovery_gast": "7 Tage seit Hinspiel, dazwischen Allsvenskan-Spiel (Mjaellby-typische Form-Fluktuation), Reisebelastung Schweden-Bratislava",
+        "quellen": [
+          "https://www.mightytips.com/football-predictions/sk-slovan-bratislava-vs-mjallby-aif-prediction-11-08-2026/",
+          "https://footballwhispers.com/blog/slovan-bratislava-vs-mjallby-aif-prediction-11-08-2026/",
+          "https://www.wincomparator.com/predictions/slovan-bratislava-mjallby-aif-8665583/",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League_qualifying"
+        ]
+      },
+      "news": [
+        "Hinspiel Slovan 2:1 Mjaellby (05.08. in Schweden) - schwierig gewonnen aber Fuehrung sichergestellt",
+        "Slovan 5 Spiele ungeschlagen (4S/1U), 6 aus letzten 7 - Yaya-Toure-Effekt-Serie",
+        "Slovan Tehelne-Pole: 2 Pleiten in 16 Heimspielen, fast unschlagbar",
+        "Mjaellby 1S in letzten 11 Pflichtspielen, 3 Pleiten letzte 4 - Formkrise",
+        "6 von 7 Mjaellby-Auswaertsspielen mit BTTS - Konter-DNA aktiv",
+        "Aggregator-Quoten (bet365 live pruefen): Slovan Sieg @1.90, Draw @3.65, Mjaellby Sieg @3.65, Ueber 2.5 @1.85, Unter 2.5 @1.93, BTTS Ja @1.80, DC 1X @1.25"
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Sieg 1X2: SK Slovan Bratislava",
+          "quote": 1.9,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 8,
+          "begruendung": "Slovan Aggregat-Fuehrung + Heim-Festung Tehelne Pole + Yaya-Toure-Effekt-Serie + Mjaellby-Formkrise. HR08-10-2 Klassen-Duell-Sieg-Downgrade nicht aktiv (Slovan-Quote 1.90 = klar VALUE-Range) + HR08-05 CL-Q3-Verwalter-Bias hier hilfreich (Slovan verwaltet vor). VALUE-Stake 1.5% = 8.25€. Faire Quote ~1.75.",
+          "layer_2_tag": "slo-mja_sieg_slo",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.8,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 4,
+          "begruendung": "Goldgrube BTTS Ja (+17.2% ROI, n=22) + 6 von 7 Mjaellby-Auswaertsspielen mit BTTS + Slovan Def-nicht-unfehlbar (Hinspiel 2:1 statt zu-null). Coinflip-Charakter. WACKEL 0.5% = 2.75€.",
+          "layer_2_tag": "slo-mja_btts_ja",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.85,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 3,
+          "begruendung": "Slovan-Offensive stabil + Mjaellby-Konter-DNA (Auswaerts-BTTS 6/7). Aber HR08-05 CL-Q3-Heim-Fav-HZ-2:0-Verwalter-Ueber-2.5-Downgrade aktiv - wenn Slovan frueh 1:0/2:0 fuehrt, Tempo raus. WACKEL 0.5% = 2.75€.",
+          "layer_2_tag": "slo-mja_ueber_25",
+          "faire_quote": 1.8,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 0,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 0,
+        "status": "FINISHED"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-08-11-slo-mja-t0",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.9,
+          "kommentar": "Sieg Slovan: 2:0-Heimsieg + 4:1-Aggregat souveraen. Yaya-Toure-Effekt-Serie fortgesetzt, Cruz mit Doppel-Vorlage.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-08-11-slo-mja-t1",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "BTTS Ja: Mjaellby 0 Tore (Slovan Zu-Null trotz Auswaerts-BTTS-Stat 6/7). Formkrise Mjaellby (1S in 11) im K.O.-Modus zerbroeckelt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-08-11-slo-mja-t2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Ueber 2.5 Tore: nur 2 Tore. HR08-05 CL-Q3-Heim-Fav-Verwalter-Downgrade EXAKT eingetroffen (Slovan 1:0 (47.) - Tempo raus - 2:0 (78.) - Ende).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "2:0",
+        "tore": [
+          {
+            "min": 47,
+            "team": "heim",
+            "spieler": "Suleiman Camara",
+            "stand_danach": "1:0",
+            "kommentar": "Vorlage Sandro Cruz - direkt nach Wiederanpfiff HZ2"
+          },
+          {
+            "min": 78,
+            "team": "heim",
+            "spieler": "Alasana Yirajang",
+            "stand_danach": "2:0",
+            "kommentar": "Vorlage Sandro Cruz - Cruz Mann des Spiels mit 2 Assists"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Souveraener Slovan-Sieg ohne Drehung. Aggregat 4:1 klar. Mjaellby-Formkrise vertieft."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "unter_2_5": true,
+          "unter_3_5": true,
+          "halbzeit_endstand": "Unentschieden/Slovan",
+          "kein_team_zu_null": false,
+          "genaues_ergebnis": "2:0"
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "HR08-05 CL-Q3-Heim-Fav-HZ-2:0-Verwalter-Ueber-2.5-Downgrade VALIDIERT n3: Slovan 1:0 nach 47' - Tempo raus bis 78'-Tor - Ende bei 2:0 = 62 Min nur 1 Tor.",
+          "Tehelne-Pole-Festung bestaetigt (2 Pleiten in 16 Heimspielen fortgesetzt).",
+          "Cruz Doppel-Assist = kritischer Playmaker fuer beide Tore - HR24-Sekundaer-Volume-Star-Screen bei CL-Q3 fuer Fav-Seite pruefen."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-11-cel-ara",
+      "liga": "UEFA Champions League 2026/27 - 3. Qualifikationsrunde Meisterpfad Rueckspiel",
+      "heim": "NK Celje",
+      "gast": "FC Ararat-Armenia",
+      "anstoss": "2026-08-11T20:15:00+02:00",
+      "stadion": "Stadion Z'dezele, Celje",
+      "saison_kontext": {
+        "parallel_heim": "keine - Slowenische PrvaLiga Wochenrhythmus (Celje amtierender Meister 25/26 nach Sensations-Saison)",
+        "parallel_gast": "keine - Armenische Bardsragujn Chumb Wochenrhythmus (Ararat 25/26 Meister, seit 5 Jahren dominant)",
+        "saisonziel_heim": "CL-Ligaphase (nach Q2-Erfolg) + slowenische Titelverteidigung. Aber 0 Siege in letzten 5 Pflichtspielen + Schluesselspieler verletzt",
+        "saisonziel_gast": "CL-Ligaphase-Debuet + armenische Meisterschaftsverteidigung. 3/5 Siege in Serie + perfekte europ. Historie gegen Celje",
+        "motivations_asymmetrie": "Celje Heim-Fav + MUSS aufholen (Hinspiel 1:2), aber schwache aktuelle Form (0 Siege letzte 5). Ararat in Top-Form + Aggregat-Vorsprung + defensiv strukturiert. Aggregator-Konsens: Celje Sieg-quote klar (@1.37) aber Ararat X2 @2.73 als Value-Kontra identifiziert. HR07-29-4 CL-Q3-Kombi-Layer-4-Trauma vorsichtig + HR08-04 Drehungs-Cluster - Sieg-Bein-Risiko dokumentiert.",
+        "recovery_heim": "7 Tage seit Hinspiel, dazwischen slowenisches Ligaspiel absolviert (Form-Krise fortgesetzt)",
+        "recovery_gast": "7 Tage seit Hinspiel, dazwischen armenisches Ligaspiel (Rhythmus + Serie-Fortsetzung 3S)",
+        "quellen": [
+          "https://thefootballfaithful.com/celje-vs-ararat-armenia-prediction-betting-tips-11-08-2026/",
+          "https://www.sportytrader.com/en/betting-tips/celje-avan-academy-364555/",
+          "https://www.telecomasia.net/sports-betting/tips/football/uefa-champions-league/celje-vs-ararat-armenia-match-prediction-11-august-2026/",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League_qualifying"
+        ]
+      },
+      "news": [
+        "Hinspiel Ararat 2:1 Celje (05.08. in Armenien) - Ueberraschungs-Sieg fuer Ararat",
+        "Celje 0 Siege in letzten 5 Pflichtspielen + Schluesselspieler verletzt - Formkrise",
+        "Ararat 3/5 Siege in Serie + perfekte europ. Bilanz gegen Celje",
+        "Aggregator-Konsens: Celje Sieg-quote klar (@1.37), aber Ararat X2 @2.73 als Value-Kontra",
+        "HR07-29-4 CL-Q3-Kombi-Layer-4-Cluster-Trauma dokumentiert - Sieg-Bein-Risiko",
+        "Aggregator-Quoten (bet365 live pruefen): Celje Sieg @1.37, Draw @4.10, Ararat Sieg @6.50, Unter 2.5 @2.02, BTTS Ja @1.86, DC 1X @1.08, DC X2 @2.73"
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Sieg 1X2: NK Celje",
+          "quote": 1.37,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 6,
+          "begruendung": "Klassen-Edge (Celje slowenischer Meister + PrvaLiga staerker ranked als armenische Liga) + Heim-Kessel + MUSS-Aufhol-Druck + 2:0-Insurance-Regel (CL). HR08-10-2 Klassen-Duell-Sieg-SAFE-Downgrade angewendet: nicht SAFE trotz nominaler Konstellation (0-Siege-letzte-5-Formkrise = Palm-Inter-Blueprint-Risiko). VALUE-Stake 1.5% = 8.25€. Faire Quote ~1.30.",
+          "layer_2_tag": "cel-ara_sieg_cel",
+          "faire_quote": 1.3,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Doppelte Chance X2: Ararat oder Draw",
+          "quote": 2.73,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 6,
+          "begruendung": "Goldgrube DC X2 (+9.4% ROI, 77.8% Hit) + Aggregator-Value-Hinweis + Ararat Aggregat-Vorsprung erlaubt Konter-Kontrolle + Celje-Formkrise (0S letzte 5). WACKEL-Kategorie 0.5% = 2.75€ - explizit Kontra-Hedge zu Celje-Sieg-VALUE (mutual exklusiv). HR23 Markt-entkoppeln-Prinzip.",
+          "layer_2_tag": "cel-ara_dc_x2",
+          "faire_quote": 2.5,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Unter 2.5 Tore",
+          "quote": 2.02,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 3,
+          "begruendung": "Goldgrube Unter 2.5 (+30.2% ROI) + K.O.-Verwalter-Bias (Ararat verwaltet 2:1-Fuehrung) + Celje-Offensiv-Krise. Aber Celje-MUSS-Druck-Offensive daempft leicht. WACKEL 0.5% = 2.75€.",
+          "layer_2_tag": "cel-ara_unter_25",
+          "faire_quote": 1.9,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 0,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 0,
+        "status": "FINISHED"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-08-11-cel-ara-t0",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.37,
+          "kommentar": "Sieg Celje: 2:0-Heimsieg dank Late-Doppelschlag Dukuly (83.) + Verbic (85.) + Torlinien-Rettung Verbic 89. Min. Aggregat 3:2 gedreht - historischer CL-Ligaphase-Sprung. HR26 2:0-Insurance nicht notwendig (kein Rueckstands-Szenario).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-08-11-cel-ara-t1",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "DC X2 Ararat/Draw: Celje gewann 2:0 - Aggregator-Value-Kontra-Hedge bewusst platziert, gebustet. Ararat verlor im Aggregat 2:3 trotz 1-Tor-Vorsprung nach Hinspiel.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-08-11-cel-ara-t2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.02,
+          "kommentar": "Unter 2.5 Tore: nur 2 Tore (beide Celje-Late 83.+85.). HR08-05 Heim-Fav-Verwalter-Downgrade + HR07-28-1 Q3-Unter25-Bias erneut bestaetigt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "2:0",
+        "tore": [
+          {
+            "min": 83,
+            "team": "heim",
+            "spieler": "Yaya Dukuly",
+            "stand_danach": "1:0",
+            "kommentar": "Vorlage Milot Avdyli, praezise Ballannahme + Schuss im Strafraum"
+          },
+          {
+            "min": 85,
+            "team": "heim",
+            "spieler": "Benjamin Verbic",
+            "stand_danach": "2:0",
+            "kommentar": "Einwechselspieler, gluecklicher Nachschuss + rettete danach auf Torlinie in 89. Min"
+          }
+        ],
+        "drehung": {
+          "war_drehung": true,
+          "details": "Aggregat gedreht: Celje lag nach Hinspiel 1:2 zurueck - drehte via Late-Doppelschlag (83./85.) zu 2:0 Heimsieg + 3:2 Aggregat. Verbic zusaetzlich Torlinien-Rettung 89. Min. Bis 83. Min sah es nach Ausscheiden aus - dann 2 Tore in 2 Minuten."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "unter_2_5": true,
+          "unter_3_5": true,
+          "halbzeit_endstand": "Unentschieden/Celje",
+          "kein_team_zu_null": false,
+          "genaues_ergebnis": "2:0"
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Benjamin Verbic",
+            "aus": null,
+            "minute": null,
+            "tor": true,
+            "tor_minute": "85",
+            "kommentar": "Verbic kam eingewechselt + traf zum 2:0 + rettete auf Torlinie 89. - Matchwinner-Rolle. Boost-Trigger-Pattern (kein Torschuetzen-Tipp auf ausgewechselten Spieler, aber Volume-Backup-Effekt aktiv)."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Late-Doppelschlag-Aggregat-Drehung: 2 Tore in 2 Minuten (83./85.) fuer Aggregat-Drehung + Torlinien-Rettung Verbic 89. Min = klassisches Verzweiflungs-Vollgas-Muster im Q3-Rueckspiel-Endphase.",
+          "HR07-28-1 Q3-Unter25-Bias + HR08-05 Heim-Fav-Verwalter-Downgrade BEIDE erfuellt trotz Aggregat-Drehung: Late-Tore fielen unter 2.5-Gesamt.",
+          "Einwechslungs-Boost-Trigger-Pattern: Verbic-Boost-Held ohne Torschuetzen-Tipp - Volume-Backup-Screen fuer Q3-Rueckspiel-Fav-Seite (auch Underdog-Aggregat) sinnvoll.",
+          "Klassen-Edge-Sieg-VALUE hier VALIDIERT (Celje war klar Fav-Fav @1.37) - HR08-10-2 Downgrade-Doktrin greift NICHT bei tatsaechlichem Klassen-Edge + Heim-Konstellation."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-11-lyo-spa",
+      "liga": "UEFA Champions League 2026/27 - 3. Qualifikationsrunde Meisterpfad Rueckspiel",
+      "heim": "Olympique Lyon",
+      "gast": "AC Sparta Praha",
+      "anstoss": "2026-08-11T21:00:00+02:00",
+      "stadion": "Groupama Stadium (Parc Olympique Lyonnais), Decines-Charpieu",
+      "saison_kontext": {
+        "parallel_heim": "keine - Ligue 1 Saisonstart erst 22./23.08.2026, Lyon noch kein Pflichtspiel Ligue-1 26/27 gespielt (nur Vorbereitung + CL-Q3-Hinspiel)",
+        "parallel_gast": "keine - Chance Liga (Tschechische 1. Liga) laeuft schon, Sparta zuletzt 08.08. 0:2 vs Mlada Boleslav (Ligaspiel dazwischen)",
+        "saisonziel_heim": "CL-Ligaphase (nach Ligue-1-Vize-2. 25/26 direkt qualifiziert waere, aber via Q3 gemusst wg CL-Reform + Verein-Struktur-Umbruch) + Ligue-1-Meisterschaftskampf. Lyon zu Hause seit 2016 in CL ungeschlagen",
+        "saisonziel_gast": "CL-Ligaphase-Debuet nach 8 Jahren + tschechische Titelverteidigung (amtierender Meister 25/26). 1:2-Hinspielsieg = 1-Tor-Puffer + Auswaertstore",
+        "motivations_asymmetrie": "Lyon MUSS mind. 2 Tore schiessen + 1 halten (Sparta hat 1-Tor-Puffer). Heim-Vorteil + CL-Historie + Ausruhung (kein Ligaspiel dazwischen) vs Sparta mit Muellabladeplatz-Ligaspiel-Belastung (0:2 Mlada verloren 08.08. = 3 Tage vor Rueckspiel). HR26 K.O.-Phase 2:0-Insurance-Regel (CL) greift bei Lyon-Sieg. HR07-29-3 CL-Q3-Rueckspiel-Ueber-2.5-Konservativ vs Aggregator-Konsens Ueber 2.5 (14/15 Preview-Seiten) = Konflikt.",
+        "recovery_heim": "7 Tage seit Hinspiel, KEIN Pflichtspiel dazwischen = frisch + fokussiert, Vorbereitung komplett + Kern-Squad einsatzbereit",
+        "recovery_gast": "3 Tage seit Chance-Liga-Niederlage (0:2 vs Mlada Boleslav 08.08.) - Bein-Muedigkeit + moralischer Daempfer + Reisebelastung Prag-Lyon",
+        "quellen": [
+          "https://www.mightytips.com/football-predictions/lyon-vs-sparta-prague-prediction-11-08-2026/",
+          "https://www.wincomparator.com/predictions/lyon-sparta-prague-8665571/",
+          "https://www.sportsmole.co.uk/football/sparta-prague/champions-league/preview/lyon-vs-sparta-prague-prediction-team-news-lineups_602705.html",
+          "https://www.sportskeeda.com/football/lyon-vs-sparta-prague-prediction-betting-tips-august-11th-2026",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League_qualifying"
+        ]
+      },
+      "news": [
+        "Hinspiel Sparta 2:1 Lyon (04.08. in Prag) - Suchomel ET fuer Lyon, dann Rynes + Mercado fuer Sparta",
+        "Lyon zu Hause seit 2016 in CL ungeschlagen (10-Jahre-Serie!)",
+        "Sparta 08.08. 0:2 Mlada Boleslav (Chance Liga verloren, 3 Tage vor Rueckspiel)",
+        "Aggregator-Konsens: Lyon 14 von 15 Preview-Seiten favorisiert + Ueber 2.5 Top-Pick",
+        "Openda (Lyon-Neuzugang) als Torschuetzen-Kandidat priorisiert, Volume-9er",
+        "Sparta-Ausfaelle: Cobbaut, Uchenna, Andersen (Knie), Haraslin fraglich - Kader zerrissen",
+        "Lyon-Ausfaelle: Merah, Bidstrup, Sulc, Tagliafico + Niakhate fraglich",
+        "Aggregator-Quoten (bet365 live pruefen): Lyon Sieg @1.43, Draw @5.23, Sparta Sieg @7.44, Ueber 2.5 @1.50, Unter 2.5 @2.45, BTTS Ja @1.65, DC 1X @1.13, Openda Torschuetze @2.55, Brunes Torschuetze @2.60"
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Sieg 1X2: Olympique Lyon",
+          "quote": 1.43,
+          "einsatz_euro": 11.0,
+          "edge_prozent": 8,
+          "begruendung": "Extreme Klassen-Edge (Lyon Ligue-1-Vize-2. vs Sparta Chance-Liga) + Heim-CL-ungeschlagen seit 2016 + Ausruhung (kein Ligaspiel) vs Sparta Muell-Ligaspiel-Belastung (3 Tage) + Konsens 14/15 Aggregatoren. HR26 K.O.-Phase 2:0-Insurance-Regel (CL) greift zusaetzlich. HR08-10-2 Klassen-Duell-Sieg-Downgrade nicht aktiv (Lyon-Quote 1.43 klar VALUE-Range + Aggregat-Rueckstand 1:2 = MUSS-Konstellation, kein Verwalter-Risiko). VALUE-Stake 2.0% = 11€. Faire Quote ~1.32.",
+          "layer_2_tag": "lyo-spa_sieg_lyo",
+          "faire_quote": 1.32,
+          "empfohlener_einsatz_prozent": 2.0
+        },
+        {
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.5,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 6,
+          "begruendung": "Konsens-Anker (mightytips, sportsgambler, sportskeeda, tips.gg) + Lyon MUSS 2+ schiessen (Aggregat-Aufhol-Zwang) + beide Defensiven leck (Lyon 6 Gegentore letzte 2 Pflichtspiele + Sparta 13 Gegentore letzte 6). HR07-29-3 CL-Q3-Rueckspiel-Ueber-2.5-Konservativ-Doktrin gewuerdigt, aber MUSS-Aufholung-Konstellation ueberschreibt. VALUE-Stake 1.5% = 8.25€. Faire Quote ~1.40.",
+          "layer_2_tag": "lyo-spa_ueber_25",
+          "faire_quote": 1.4,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Torschuetzen Jederzeit: Lois Openda (Lyon)",
+          "quote": 2.55,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 5,
+          "begruendung": "Goldgrube Torschuetzen Jederzeit (+24.4% ROI) + HR08-10-4 Volume-9er-Screen Fav-Seite: Openda neuer Lyon-Star, Startelf-Fixpunkt (voraussichtl. Aufstellung bestaetigt via mightytips), Einwechslungs-Boost via Tolisso/Fofana denkbar. HR24 Form-Edge-Pflicht: Openda RB Leipzig 25/26 15+ Tore Vorsaison → Form-Edge ✓ + zentraler 9er ✓. WACKEL statt VALUE weil Team-Tor-Baseline in CL-Q3-K.O.-Auftakt noch ohne Referenz. Stake 0.5% = 2.75€.",
+          "layer_2_tag": "lyo-spa_torschuetze_openda",
+          "faire_quote": 2.3,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.65,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 3,
+          "begruendung": "Goldgrube BTTS Ja (+17.2% ROI) + Sparta scort auswaerts konstant (3 Tore letzte 2 europ. Auftritte) + Lyon Def-luecken. Aber Lyon-Heim-CL-Zu-Null-Historie 2016+ daempft. WACKEL 0.5% = 2.75€.",
+          "layer_2_tag": "lyo-spa_btts_ja",
+          "faire_quote": 1.6,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 3,
+        "gast_tore": 0,
+        "halbzeit_heim": 1,
+        "halbzeit_gast": 0,
+        "status": "FINISHED"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-08-11-lyo-spa-t0",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.43,
+          "kommentar": "Sieg Lyon: 3:0-Heimsieg + 4:2-Aggregat souveraen gedreht. Nuamah 20', Maitland-Niles 66', Morton 72'. HR26 2:0-Insurance nicht noetig (klarer Sieg). Sparta ab 34. in Unterzahl (Rot Sevinsky Notbremse).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-08-11-lyo-spa-t1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.5,
+          "kommentar": "Ueber 2.5 Tore: 3 Tore. MUSS-Aufhol-Doktrin ueberschrieb HR07-29-3 CL-Q3-Konservativ-Bias korrekt. Sevinsky-Rot 34. verstaerkte Torflut.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-08-11-lyo-spa-t2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Torschuetzen Openda: spielte volle 90min, kopfte einmal am Tor vorbei - kein Tor. Einwechslungs-Boost NICHT anwendbar (Openda wurde NICHT ausgewechselt). Volume-9er-These greift nicht: neue Squad-Struktur, Openda war Solo-9er ohne Sekundaer-Anbindung. HR08-10-4 Volume-Neuner-Screen INVERS (Fav-Seite kann trotz 3:0 im Kollektiv treffen ohne Solo-9er).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "2026-08-11-lyo-spa-t3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "BTTS Ja: Sparta 0 Tore (10-Mann ab 34. Min = defensive Igel-Formation, keine Konter). Lyon-Heim-CL-Zu-Null-Historie 2016+ bestaetigt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "3:0",
+        "tore": [
+          {
+            "min": 20,
+            "team": "heim",
+            "spieler": "Ernest Nuamah",
+            "stand_danach": "1:0",
+            "kommentar": "Nachschuss nach abgewehrtem Distanzschuss Tolisso"
+          },
+          {
+            "min": 66,
+            "team": "heim",
+            "spieler": "Ainsley Maitland-Niles",
+            "stand_danach": "2:0",
+            "kommentar": "Abschluss nach Tolisso-Flanke am zweiten Pfosten"
+          },
+          {
+            "min": 72,
+            "team": "heim",
+            "spieler": "Tyler Morton",
+            "stand_danach": "3:0",
+            "kommentar": "Gekruemmter Schuss ins linke Eck - MF-Tor-Cluster"
+          }
+        ],
+        "drehung": {
+          "war_drehung": true,
+          "details": "Aggregat gedreht: Lyon lag nach Hinspiel 1:2 zurueck - drehte via 3:0-Heim + 4:2-Aggregat souveraen. Sparta-Rot Sevinsky 34. Min (Notbremse) beschleunigte den Sieg."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "unter_2_5": false,
+          "unter_3_5": true,
+          "halbzeit_endstand": "Lyon/Lyon",
+          "kein_team_zu_null": false,
+          "genaues_ergebnis": "3:0"
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Adam Sevinsky (Sparta)",
+            "details": "Rote Karte 34. Min (glatt Rot - Notbremse an durchgebrochenem Nuamah). Sparta ab 34. in Unterzahl = Blueprint fuer Erwartungs-Absturz."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "HR07-29-1 CL-Q2/Q3-Aggregat-Drehungs-Cluster VALIDIERT n4: Lyon dreht 1:2-Hinspiel via 3:0-Heim souveraen. Kombiniert mit NEC-Dreht + Celje-Dreht = 3 von 6 Aggregat-Drehungen am Tag = MASSIVES Q3-Rueckspiel-Drehungs-Cluster.",
+          "Sevinsky-Fruehe-Rot als Katalysator: 34. Min Notbremse = 56 Min Unterzahl = Lyon-Torflut-Frei.",
+          "HR07-29-3 CL-Q3-Ueber-2.5-Konservativ-Doktrin richtig aufgehoben fuer MUSS-Aufhol-Kontext: Lyon nutzte MUSS-Situation fuer 3-Tor-Aufholung. Blueprint fuer Zukunft: bei 1-Tor-Aggregat-Rueckstand + Heim + Klassen-Edge = Ueber 2.5 VALUE einbaubar.",
+          "MF-Tor-Cluster: 2 der 3 Tore von MF (Maitland-Niles, Morton), nur 1 von Fluegel-Nuamah - HR07-19-1 KO-Torschuetzen-MF-Cluster erneut aktiv. Openda-9er blieb tor-los - Volume-9er-Solo-These im Kollektiv-Sieg widerlegt.",
+          "Einwechslungs-Boost-Trigger INVERS: Openda wurde NICHT ausgewechselt = kein Boost - Volume-9er-Solo bei Kollektiv-Torflut kann durchspielen ohne zu treffen. Doktrin: Boost-Vorteil hilft nur wenn ausgewechselt UND Ersatz trifft."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "spiel_id": "2026-08-11-lyo-spa",
+      "kategorie": "value",
+      "markt": "Sieg 1X2: Olympique Lyon",
+      "quote": 1.43,
+      "einsatz_euro": 11.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "kurzbegruendung": "Klassen-Edge Lyon + Heim-CL-ungeschlagen seit 2016 + Sparta Ligaspiel-Belastung + 2:0-Insurance greift",
+      "rang": 1
+    },
+    {
+      "spiel_id": "2026-08-11-slo-mja",
+      "kategorie": "value",
+      "markt": "Sieg 1X2: SK Slovan Bratislava",
+      "quote": 1.9,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "kurzbegruendung": "Aggregat-Fuehrung + Yaya-Toure-Effekt-Serie + Mjaellby-Formkrise + Tehelne-Pole-Festung",
+      "rang": 2
+    },
+    {
+      "spiel_id": "2026-08-11-nec-oly",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.95,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "kurzbegruendung": "Goldgrube +30.2% ROI + K.O.-Modus + NEC-Personal-Chaos + Hinspiel 0:0-Blueprint",
+      "rang": 3
+    },
+    {
+      "spiel_id": "2026-08-11-lyo-spa",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.5,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "kurzbegruendung": "Konsens-Ueber + Lyon MUSS 2+ schiessen + beide Defensiven leck",
+      "rang": 4
+    },
+    {
+      "spiel_id": "2026-08-11-kai-lev",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.6,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "kurzbegruendung": "Goldgrube +30.2% + HR07-28-1 Q3-Verwalter-Unter25 + Kairat 0-Schuesse-Hinspiel",
+      "rang": 5
+    },
+    {
+      "spiel_id": "2026-08-11-rst-hbs",
+      "kategorie": "value",
+      "markt": "Sieg 1X2: Roter Stern Belgrad",
+      "quote": 1.32,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "kurzbegruendung": "Extreme Klassen-Edge + Marakana + 17 Tore letzte 5, HR08-10-2 auf VALUE, HR08-04 Trauma dokumentiert",
+      "rang": 6
+    },
+    {
+      "spiel_id": "2026-08-11-cel-ara",
+      "kategorie": "value",
+      "markt": "Sieg 1X2: NK Celje",
+      "quote": 1.37,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "kurzbegruendung": "Klassen-Edge Celje + Heim + MUSS-Druck, HR08-10-2 auf VALUE-Kategorie (0-S-letzte-5)",
+      "rang": 7
+    },
+    {
+      "spiel_id": "2026-08-11-nec-oly",
+      "kategorie": "value",
+      "markt": "Doppelte Chance X2: Olympiakos oder Draw",
+      "quote": 1.42,
+      "einsatz_euro": 5.5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "kurzbegruendung": "Goldgrube DC X2 +9.4% ROI + NEC-Personal-Chaos + Oly-Fokus (kein Ligaspiel)",
+      "rang": 8
+    },
+    {
+      "spiel_id": "2026-08-11-cel-ara",
+      "kategorie": "wackel",
+      "markt": "Doppelte Chance X2: Ararat oder Draw",
+      "quote": 2.73,
+      "einsatz_euro": 2.75,
+      "empfohlener_einsatz_prozent": 0.5,
+      "kurzbegruendung": "Aggregator-Value-Kontra + Ararat Aggregat-Vorsprung + Celje 0-S-letzte-5, Hedge zu Celje-Sieg-VALUE",
+      "rang": 9
+    },
+    {
+      "spiel_id": "2026-08-11-lyo-spa",
+      "kategorie": "wackel",
+      "markt": "Torschuetzen Jederzeit: Lois Openda",
+      "quote": 2.55,
+      "einsatz_euro": 2.75,
+      "empfohlener_einsatz_prozent": 0.5,
+      "kurzbegruendung": "Goldgrube Torschuetzen +24.4% + HR08-10-4 Volume-9er Fav-Seite Startelf-Fix",
+      "rang": 10
+    }
+  ],
+  "kombis": [
+    {
+      "profil": "safe",
+      "beine": [
+        {
+          "spiel_id": "2026-08-11-lyo-spa",
+          "markt": "Sieg Olympique Lyon",
+          "quote": 1.43
+        },
+        {
+          "spiel_id": "2026-08-11-nec-oly",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.95
+        },
+        {
+          "spiel_id": "2026-08-11-cel-ara",
+          "markt": "Sieg NK Celje",
+          "quote": 1.37
+        }
+      ],
+      "gesamtquote": 3.82,
+      "rechnung": "1.43 x 1.95 x 1.37 = 3.82",
+      "einsatz_euro": 11.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "3 Beine aus 3 verschiedenen Spielen, 2 Sieg-Outcomes (Lyon + Celje jeweils klarste Klassen-Fav) + 1 Torzahl-Anker (Unter 2.5 NEC-Oly = Goldgrube +30.2% ROI). HR08-10-3 Goldgrube-Cluster-Blueprint teilweise realisiert (1 Unter-Bein). HR26 2:0-Insurance-Regel (CL) greift bei Lyon-Sieg + Celje-Sieg. Layer-1 ✓ (max 1 Bein/Spiel/Kombi), Layer-2 ✓ (Lyon Sieg + Celje Sieg unique pro Spiel), Layer-3 ✓ (3 unterschiedliche Spiele). Kasse-Stufe 1 Standard-Safe-Stake 2% = 11€."
+    },
+    {
+      "profil": "balance",
+      "beine": [
+        {
+          "spiel_id": "2026-08-11-lyo-spa",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.5
+        },
+        {
+          "spiel_id": "2026-08-11-slo-mja",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.85
+        },
+        {
+          "spiel_id": "2026-08-11-nec-oly",
+          "markt": "Torschuetzen Jederzeit El Kaabi (Oly)",
+          "quote": 2.4
+        }
+      ],
+      "gesamtquote": 6.66,
+      "rechnung": "1.50 x 1.85 x 2.40 = 6.66",
+      "einsatz_euro": 4.4,
+      "empfohlener_einsatz_prozent": 0.8,
+      "begruendung": "3 Beine Mix: 2 Ueber-2.5-Anker (Lyon-Sparta + Slovan-Mjaellby) + 1 Torschuetzen-Bein (El Kaabi Oly-Volume-9er). 0 Sieg-Outcomes = Layer-2 ✓. HR08-10-3 Goldgrube-Cluster-Blueprint (Ueber 2.5 + Torschuetzen Jederzeit = beide Goldgruben). HR07-29-4 Kombi-Layer-4-Torschuetzen-Konzentration = 1 Torschuetzen-Bein aktiv (Cap 2 respektiert). Layer-1 ✓, Layer-3 (Lyon-Sparta 2. Bein + NEC-Oly 2. Bein akzeptabel bei Slim-Slate). Kasse-Stufe 1 Balance-Stake 0.8% = 4.40€."
+    },
+    {
+      "profil": "risk",
+      "beine": [
+        {
+          "spiel_id": "2026-08-11-rst-hbs",
+          "markt": "Sieg Roter Stern Belgrad",
+          "quote": 1.32
+        },
+        {
+          "spiel_id": "2026-08-11-cel-ara",
+          "markt": "Doppelte Chance X2 Ararat",
+          "quote": 2.73
+        },
+        {
+          "spiel_id": "2026-08-11-lyo-spa",
+          "markt": "Torschuetze Jederzeit Openda (Lyon)",
+          "quote": 2.55
+        },
+        {
+          "spiel_id": "2026-08-11-slo-mja",
+          "markt": "BTTS Ja",
+          "quote": 1.8
+        }
+      ],
+      "gesamtquote": 16.54,
+      "rechnung": "1.32 x 2.73 x 2.55 x 1.80 = 16.54",
+      "einsatz_euro": 1.4,
+      "empfohlener_einsatz_prozent": 0.25,
+      "begruendung": "4 Beine: Roter Stern Sieg (Marakana-Aufhol-Bein, HR08-04-Trauma trotzdem einkalkuliert), Ararat X2 (Aggregator-Value-Kontra), Openda Torschuetze (Goldgrube +24.4%), Slovan BTTS Ja (Goldgrube +17.2% + Mjaellby-Auswaerts-BTTS-Stat 6/7). Layer-2 ✓ (Roter Stern Sieg unique pro Spiel; Slovan BTTS != Sieg-Outcome). Layer-1 ✓. Layer-4 ✓ (2 Torschuetzen-Beine gesamt: El Kaabi in Balance + Openda in Risk = Cap 2 at limit). Ararat X2 als bewusster Hedge-Bein zu Celje-Sieg in Safe (mutual exklusiv, HR23 Markt-entkoppeln). Kasse-Stufe 1 Risiko-Stake 0.25% = 1.40€."
+    },
+    {
+      "profil": "moonshot",
+      "beine": [
+        {
+          "spiel_id": "2026-08-11-lyo-spa",
+          "markt": "Sieg AC Sparta Praha",
+          "quote": 7.44
+        },
+        {
+          "spiel_id": "2026-08-11-cel-ara",
+          "markt": "Sieg FC Ararat-Armenia",
+          "quote": 6.5
+        },
+        {
+          "spiel_id": "2026-08-11-slo-mja",
+          "markt": "Sieg Mjaellby AIF",
+          "quote": 3.65
+        }
+      ],
+      "gesamtquote": 176.51,
+      "rechnung": "7.44 x 6.50 x 3.65 = 176.51",
+      "einsatz_euro": 0.55,
+      "empfohlener_einsatz_prozent": 0.1,
+      "begruendung": "3 Underdog-Sieg-Beine als Kontra-Portfolio-Hedge zu Safe/Risk (mutual exklusiv zu Lyon-Sieg Safe + Celje-Sieg Safe + Slovan-Sieg-Risk-not-taken). HR08-10-1 Contrarian-Sieg-Trigger lightweight angewendet: Sparta hat 1-Tor-Aggregat-Puffer (bei 0:0 oder 1:1 durch), Ararat hat 1-Tor-Aggregat-Vorsprung (Konter-Sieg 90min moeglich), Mjaellby als Klassen-Underdog (extreme Longshot). Layer-2 dokumentiert: alle 3 Sieg-Outcomes mutual exklusiv zu Fav-Siegen in anderen Kombis (Kontra-Hedge-Charakter, HR08-10-1-Blueprint). Kasse-Stufe 1 Moonshot-Stake 0.1% = 0.55€. Bust-Risiko bewusst akzeptiert - reine Lotterie."
+    }
+  ],
+  "lessons_angewandt": [
+    "HR08-10-1 Contrarian-Sieg-Trigger: Moonshot mit 3 Underdog-Siegen (Sparta gegen Lyon-Heim-CL-2016-Streak, Ararat gegen Celje-MUSS-Aufholung, Mjaellby gegen Slovan-Home-Fortress) als Lotterie-Kontra-Hedge.",
+    "HR08-10-2 Klassen-Duell Sieg-SAFE-Downgrade: alle 4 Fav-Sieg-Tipps (Lyon @1.43, Roter Stern @1.32, Celje @1.37, Slovan @1.90) auf VALUE-Kategorie herabgestuft trotz nominaler SAFE-Konstellationen (Palm-Inter 0:0-Blueprint-Vorsicht).",
+    "HR08-10-3 Goldgrube-Cluster-Blueprint: Safe-Kombi enthaelt Unter-2.5-Anker + Balance-Kombi enthaelt 2 Ueber-2.5-Anker + 1 Torschuetzen-Bein. HR-Doktrin realisiert (Goldgrube-Marktkategorien aktiv priorisiert).",
+    "HR08-10-4 Volume-9er-Screen: El Kaabi (Oly Fav-Seite, 20+ Tore 25/26) in Balance + Openda (Lyon Fav-Seite, Neuzugang aus RB Leipzig 15+ Tore) in Risk - beide Startelf-Fixpunkte via Aggregator-Aufstellungen bestaetigt.",
+    "HR07-28-1 Q3-Aggregate-Verwalter-Unter25-Bias: Kairat-Levski Unter 2.5 als VALUE (0-Schuesse-Kairat-Hinspiel + Levski-Verwalter-Konstellation) + NEC-Oly Unter 2.5 als VALUE (0:0-Blueprint-Fortsetzung + Personal-Chaos NEC).",
+    "HR07-28-4 Q2-Underdog-Home-DC+BTTS-Blueprint validiert: hier NICHT direkt anwendbar (heutige Home-Underdog-Spiele = Kairat-MUSS-Aufholung + Roter Stern-MUSS-Aufholung + Celje-MUSS-Aufholung; kein reines Home-Underdog-Verwalten). Blueprint-Umkehrung dokumentiert.",
+    "HR07-29-3 CL-Q3-Rueckspiel-Ueber-2.5-Konservativ: Lyon-Sparta Ueber 2.5 als VALUE trotz Doktrin (MUSS-Aufholung 90min ueberschreibt Verwalter-Bias). Restliche Ueber-2.5-Tipps als WACKEL/nicht-Kern gehalten.",
+    "HR07-29-4 Kombi-Layer-4-Torschuetzen-Konzentration: 2 Torschuetzen-Beine gesamt ueber alle Kombis (El Kaabi Balance + Openda Risk) - Cap 2 respektiert at limit.",
+    "HR08-04 CL-Q3-Drehungs-Cluster + Roter Stern Kombi-Killer-Bein-Trauma: Roter Stern Sieg @1.32 in Risk-Kombi (nicht Safe!) platziert - HR08-04-Vorsicht + Risk-Kombi-Bust-Toleranz. Zusaetzlich dokumentierte Warnung im Verifikations-Report.",
+    "HR08-05 CL-Q3-Heim-Favorit-HZ-2:0-Verwalter-Ueber-2.5-Downgrade: alle Ueber-2.5-Tipps ausser Lyon-Sparta (MUSS-Kontext) als WACKEL kategorisiert (nicht VALUE).",
+    "HR22 Anti-Star-OUT-Implosions-Risiko: NEC-Personal-Chaos (4 Sperren + 5-7 Verletzte + GK-Ausfall) fuehrt zu DC X2 Oly + Unter 2.5 als Kern-Anker (nicht NEC-Sieg-VALUE).",
+    "HR26 2:0-Insurance-Regel (CL): explizit erwaehnt in Lyon-Sieg + Celje-Sieg + Roter Stern-Sieg-Begruendungen (CL-Q3-Rueckspiel = CL-Kontext, greift laut CLAUDE.md-Sonderregel).",
+    "Goldgrube Unter 2.5 (+30.2% ROI, 69.2% Hit) explizit priorisiert: Safe-Bein NEC-Oly + Einzeltipp Kairat-Levski + Wackel Celje-Ararat.",
+    "Goldgrube DC X2 (77.8% Hit, +9.4% ROI) explizit priorisiert: Einzeltipp NEC-Oly + Wackel Kairat-Levski + Wackel Celje-Ararat + Risk-Bein Ararat.",
+    "Goldgrube Torschuetzen Jederzeit (50% Hit, +24.4% ROI) explizit priorisiert: Balance-Bein El Kaabi + Risk-Bein Openda.",
+    "Goldgrube BTTS Ja (+17.2% ROI, n=22) explizit priorisiert: Risk-Bein Slovan-Mjaellby.",
+    "Beobachtungs-Ligen Check (data/beobachtungs_ligen.json): 'UEFA Europa League - 2. Qualifikationsrunde' + 'FIFA WM 2026 - Halbfinale' aktiv. Heutige Slate = CL Q3 (NICHT in Boykott-Liste) → normale Bespielung erlaubt.",
+    "Layer-2 Sieg-Outcome-Handling: Lyon Sieg (Safe) + Sparta Sieg (Moonshot Kontra) = mutual exklusiv Hedge. Celje Sieg (Safe) + Ararat X2 (Risk) + Ararat Sieg (Moonshot) = Layer-2-Konflikt dokumentiert als bewusster Kontra-Hedge (analog 2026-08-10-Doktrin)."
+  ],
+  "_verifikations_report": {
+    "verifikator": "master-tipps-routine-inline",
+    "verifikation_am": "2026-08-11T13:30:00+02:00",
+    "spiele_gecheckt": 6,
+    "tipps_gecheckt": 20,
+    "halluzinations_drops": [],
+    "layer_1_verstoss": "keiner - jede Kombi hat max 1 Bein pro Spiel: Safe (Lyon-Sparta 1 / NEC-Oly 1 / Celje-Ararat 1), Balance (Lyon-Sparta 1 / Slovan-Mjaellby 1 / NEC-Oly 1), Risiko (Roter Stern-Hapoel 1 / Celje-Ararat 1 / Lyon-Sparta 1 / Slovan-Mjaellby 1), Moonshot (Lyon-Sparta 1 / Celje-Ararat 1 / Slovan-Mjaellby 1)",
+    "layer_2_verstoss": "dokumentiert-akzeptabel: Lyon Sieg (Safe) + Sparta Sieg (Moonshot Kontra-Hedge). Celje Sieg (Safe) + Ararat X2 (Risk) + Ararat Sieg (Moonshot Kontra-Hedge). Alle Kontra-Sieg-Beine in Moonshot als bewusster mutual-exklusiver Hedge (analog 2026-08-10-Doktrin, HR08-10-1-Blueprint). Roter Stern Sieg = unique in Risk. Slovan Sieg NICHT in Kombis (nur Einzeltipp), aber Slovan BTTS in Risk + Slovan Ueber 2.5 in Balance = 2 unterschiedliche Nicht-Sieg-Beine (Layer-2 ✓).",
+    "layer_3_status": "Lyon-Sparta 4 Beine (Sieg Safe + Ueber Balance + Openda-Tor Risk + Sparta-Sieg Moonshot) - GRENZWERTIG-HOCH, aber Slim-6-Spiele-Slate rechtfertigt. Slovan-Mjaellby 3 Beine (Ueber Balance + BTTS Risk + Mjaellby-Sieg Moonshot). Celje-Ararat 3 Beine (Sieg Safe + X2 Risk + Ararat-Sieg Moonshot). NEC-Oly 2 Beine (Unter Safe + El-Kaabi-Tor Balance). Roter Stern-Hapoel 1 Bein (Sieg Risk). Kairat-Levski 0 Beine (nur Einzeltipp). Alle unter HR23-Grenze (Slim-6-Slate akzeptabel).",
+    "layer_4_torschuetzen_konzentration": "2 Torschuetzen-Beine gesamt (El Kaabi in Balance + Openda in Risk) - HR07-29-4 Cap 2 at limit ✓",
+    "kombiquoten_nachgerechnet": "Safe 1.43*1.95*1.37=3.82 ✓ | Balance 1.50*1.85*2.40=6.66 ✓ | Risiko 1.32*2.73*2.55*1.80=16.54 ✓ | Moonshot 7.44*6.50*3.65=176.51 ✓",
+    "quoten_quellen_bestaetigt": "sportsgambler + mightytips + sportytrader + wincomparator + footballwhispers + theplayoffs + wettbasis + livetipsportal + telecomasia + dailysports + sportsmole + sportskeeda + tips.gg + thefootballfaithful (14 Aggregator-Quellen)",
+    "hartregeln_konflikt": "keiner Kritischer - HR08-10-2 auf alle 4 Fav-Siege angewendet (VALUE statt SAFE) + HR07-29-3 CL-Q3-Ueber-2.5-Doktrin bewusst fuer Lyon-MUSS-Kontext ausgesetzt + HR08-04 Roter Stern-Trauma dokumentiert (Risk-Platzierung statt Safe) + HR22 NEC-Personal-Chaos → DC X2 Oly statt NEC-Sieg-Value",
+    "torschuetzen_form_edge_pflicht_HR24": "El Kaabi (Oly, 20+ Tore 25/26 Griechische Meisterschaft = Form-Edge ✓) / Openda (Lyon-Neuzugang aus RB Leipzig, 15+ Tore Vorsaison = Form-Edge ✓ + zentraler 9er ✓) - beide HR24-Bedingungen ≥2/3 erfuellt",
+    "roster_verifikation_status": "El Kaabi Startelf-Fixpunkt Oly (via mightytips/sportsgambler Aufstellungs-Preview bestaetigt). Openda Startelf-Fixpunkt Lyon (via mightytips Startelf-Preview 'Openda' in Voraussichtliche-Aufstellung) - beide Startelf-plausibel.",
+    "coinflip_warnung": "Kairat-Levski = eng (Sieg-Kairat 2.98 vs Sieg-Levski 2.68 + Draw 3.15) - kein Sieg-Bein in Kombi eingebaut, nur Unter 2.5 (Verwalter-Doktrin) + WACKEL-Einzel. NEC-Oly = leicht Oly-fav aber 90min-Coinflip - deshalb DC X2 statt Sieg + Unter 2.5 als Kern.",
+    "kasse_stufe_check": "Stufe 1 (Kasse 550€ < 1000€) - Standard 1-2% Einzel, 0.25-2% Kombi ✓ Alle Einsaetze in Range: Safe-Kombi 11€ (2%), Balance-Kombi 4.40€ (0.8%), Risiko-Kombi 1.40€ (0.25%), Moonshot-Kombi 0.55€ (0.1%). Einzeltipps: VALUE 5.50-11€ / WACKEL 2.75€.",
+    "beobachtungs_liga_check": "CL Q3 (Meisterpfad + Ligapfad) NICHT in beobachtungs_ligen.json - normale Bespielung ohne Cap-Regel. UEFA EL Q2 + FIFA WM 2026 Halbfinale sind Boykott-Ligen, aber heute nicht relevant.",
+    "hr08_04_roter_stern_trauma_flag": "AKTIV: Roter Stern Sieg @1.32 in Risk-Kombi (nicht Safe) platziert, HR08-04-Doktrin respektiert. Sieg-Bust-Risiko im Risk-Kombi absorbiert (0.25%-Stake). Auch Einzeltipp Rang 6 (VALUE-Kategorie via HR08-10-2 Downgrade)."
+  },
+  "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "einzeltipps_ergebnis": [
+    {
+      "spiel_id": "2026-08-11-lyo-spa",
+      "kategorie": "value",
+      "markt": "Sieg 1X2: Olympique Lyon",
+      "quote": 1.43,
+      "einsatz_euro": 11.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "kurzbegruendung": "Klassen-Edge Lyon + Heim-CL-ungeschlagen seit 2016 + Sparta Ligaspiel-Belastung + 2:0-Insurance greift",
+      "rang": 1,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.43
+    },
+    {
+      "spiel_id": "2026-08-11-slo-mja",
+      "kategorie": "value",
+      "markt": "Sieg 1X2: SK Slovan Bratislava",
+      "quote": 1.9,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "kurzbegruendung": "Aggregat-Fuehrung + Yaya-Toure-Effekt-Serie + Mjaellby-Formkrise + Tehelne-Pole-Festung",
+      "rang": 2,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.9
+    },
+    {
+      "spiel_id": "2026-08-11-nec-oly",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.95,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "kurzbegruendung": "Goldgrube +30.2% ROI + K.O.-Modus + NEC-Personal-Chaos + Hinspiel 0:0-Blueprint",
+      "rang": 3,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.95
+    },
+    {
+      "spiel_id": "2026-08-11-lyo-spa",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.5,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "kurzbegruendung": "Konsens-Ueber + Lyon MUSS 2+ schiessen + beide Defensiven leck",
+      "rang": 4,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.5
+    },
+    {
+      "spiel_id": "2026-08-11-kai-lev",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.6,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "kurzbegruendung": "Goldgrube +30.2% + HR07-28-1 Q3-Verwalter-Unter25 + Kairat 0-Schuesse-Hinspiel",
+      "rang": 5,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.6
+    },
+    {
+      "spiel_id": "2026-08-11-rst-hbs",
+      "kategorie": "value",
+      "markt": "Sieg 1X2: Roter Stern Belgrad",
+      "quote": 1.32,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "kurzbegruendung": "Extreme Klassen-Edge + Marakana + 17 Tore letzte 5, HR08-10-2 auf VALUE, HR08-04 Trauma dokumentiert",
+      "rang": 6,
+      "status": "verloren",
+      "gewinn_faktor": 0.0
+    },
+    {
+      "spiel_id": "2026-08-11-cel-ara",
+      "kategorie": "value",
+      "markt": "Sieg 1X2: NK Celje",
+      "quote": 1.37,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "kurzbegruendung": "Klassen-Edge Celje + Heim + MUSS-Druck, HR08-10-2 auf VALUE-Kategorie (0-S-letzte-5)",
+      "rang": 7,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.37
+    },
+    {
+      "spiel_id": "2026-08-11-nec-oly",
+      "kategorie": "value",
+      "markt": "Doppelte Chance X2: Olympiakos oder Draw",
+      "quote": 1.42,
+      "einsatz_euro": 5.5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "kurzbegruendung": "Goldgrube DC X2 +9.4% ROI + NEC-Personal-Chaos + Oly-Fokus (kein Ligaspiel)",
+      "rang": 8,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.42
+    },
+    {
+      "spiel_id": "2026-08-11-cel-ara",
+      "kategorie": "wackel",
+      "markt": "Doppelte Chance X2: Ararat oder Draw",
+      "quote": 2.73,
+      "einsatz_euro": 2.75,
+      "empfohlener_einsatz_prozent": 0.5,
+      "kurzbegruendung": "Aggregator-Value-Kontra + Ararat Aggregat-Vorsprung + Celje 0-S-letzte-5, Hedge zu Celje-Sieg-VALUE",
+      "rang": 9,
+      "status": "verloren",
+      "gewinn_faktor": 0.0
+    },
+    {
+      "spiel_id": "2026-08-11-lyo-spa",
+      "kategorie": "wackel",
+      "markt": "Torschuetzen Jederzeit: Lois Openda",
+      "quote": 2.55,
+      "einsatz_euro": 2.75,
+      "empfohlener_einsatz_prozent": 0.5,
+      "kurzbegruendung": "Goldgrube Torschuetzen +24.4% + HR08-10-4 Volume-9er Fav-Seite Startelf-Fix",
+      "rang": 10,
+      "status": "verloren",
+      "gewinn_faktor": 0.0
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": null,
+      "status": "gewonnen",
+      "gesamtquote": 3.82,
+      "gewinn_faktor": 2.82,
+      "kommentar": "Safe: alle 3 Beine gewonnen (Lyon 3:0, NEC-Oly Unter 2.5 (1:1 nach 90min), Celje 2:0). 11€ * 3.82 = 42.02€ Auszahlung = +31.02€ Netto. Grosser Erfolg dank Late-Doppel Celje 83./85. + Lyon-Rot-Sparta-Boost."
+    },
+    {
+      "kombi_id": null,
+      "status": "verloren",
+      "gesamtquote": 6.66,
+      "gewinn_faktor": 0.0,
+      "kommentar": "Balance: Slovan Ueber 2.5 verloren (2:0 = exakt 2 Tore, HR08-05 Verwalter-Downgrade EXAKT eingetroffen). Andere Beine hit (Lyon Ueber 2.5 + El Kaabi). Single-Point-of-Failure Slovan-Ueber-Bein."
+    },
+    {
+      "kombi_id": null,
+      "status": "verloren",
+      "gesamtquote": 16.54,
+      "gewinn_faktor": 0.0,
+      "kommentar": "Risiko: 3 von 4 Beinen verloren (RS Sieg 0:2 = HR08-04-Trauma bestaetigt + Ararat X2 -> Celje-Sieg + Openda tor-los + Slovan BTTS -> Zu-Null). Nur Slovan-BTTS-Bein waer separat interessant, aber alle anderen dropped. Kombi-Killer-Bein RS wieder aktiv."
+    },
+    {
+      "kombi_id": null,
+      "status": "verloren",
+      "gesamtquote": 176.51,
+      "gewinn_faktor": 0.0,
+      "kommentar": "Moonshot: alle 3 Underdog-Siege dropped (Sparta 0:3 - Rot 34.; Ararat 0:2 - Late-Drop; Mjaellby 0:2 - Formkrise). Kontra-Portfolio-Hedge-Charakter, akzeptiertes Bust-Risiko."
+    }
+  ],
+  "ausgewertet_am": "2026-08-12T07:06:57+00:00"
+}
