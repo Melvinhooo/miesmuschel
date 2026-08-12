@@ -1,0 +1,467 @@
+{
+  "datum": "2026-08-12",
+  "erstellt_am": "2026-08-12T13:30:00+02:00",
+  "hinweis": "🐚 Mi 12.08.2026 · Mini-Slate mit 1 Pflicht-Endspiel + 2 Freundschaftsspiele. Haupt-Event: UEFA Super Cup PSG-Aston Villa (Red Bull Arena Salzburg, 21:00) - Kracher der CL-Sieger vs EL-Sieger, PSG @1.75 Fav (nach Rust 0:3 Mallorca + 1:1 ManU) vs Villa mit Onana-ACL/Bailey/Manzambi-out + defensiver Achilles (5x kein zu-Null zuletzt). Freundschaftsspiele als Beobachtungs-Fueller: Arsenal-Como (Emirates, 20:30, Ars @1.47 + Fabregas-Faktor) + Nottm Forest-Bayer Leverkusen (City Ground, 20:45, Lev 5S-Serie vs Forest 3N-Serie). Kasse Stufe 1 (550€). WICHTIG: Single-Point-of-Failure-Risiko Super Cup in jeder Kombi vertreten - Cross-Kombi-Korrelation dokumentiert. Kombi-Struktur: Safe = 3 Fav-Siege (3.29x), Balance = Kvara-Tor + 2x Ueber 2.5 (6.53x), Risk = 3x Ueber 3.5 (17.88x), Moonshot = Watkins-Tor + 2x Genaues Ergebnis (327x). Freundschaftsspiel-Tipps mit Rotations-Risiko-Discount (WACKEL max). Lessons: HR08-10-2 Klassen-Duell-Sieg-SAFE-Downgrade (PSG @1.75 = VALUE nicht SAFE wg Villa 3-2 QF-Sieg-Historie), HR28-05 Europa-Pokal-Finale-Unter-2.5-Default-Wackel-Antipode (hier BTTS-Ja-VALUE wg Villa-Def-swiss-cheese), HR22 Anti-Star-OUT-Hedge (Villa-Ausfaelle), HR26 2:0-Insurance-Regel greift NICHT im Super Cup (nur BL+CL+WM laut CLAUDE.md), HR24 Torschuetzen-Form-Edge Kvara-QF-Tor-Historie, HR23 Layer-3 hart auf Sieg-Outcome-Doppelungen (Moonshot deshalb NICHT als Underdog-Sieg-Kontra-Hedge sondern Torschuetze+Ergebnis-Mix). Quoten bei bet365 live pruefen (Basis: bet365 3/4 fractional + mightytips + racingpost + rg.org + sportsline + si.com + goalgoaltips + tips.gg + wincomparator + sportsmole).",
+  "_emergency_recovery": true,
+  "spiele": [
+    {
+      "id": "2026-08-12-psg-avl",
+      "liga": "UEFA Super Cup 2026",
+      "heim": "Paris Saint-Germain",
+      "gast": "Aston Villa",
+      "anstoss": "2026-08-12T21:00:00+02:00",
+      "stadion": "Red Bull Arena (Stadion Salzburg), Salzburg (Oesterreich)",
+      "saison_kontext": {
+        "parallel_heim": "keine - Ligue 1 Saisonstart erst 15./16.08.2026, PSG noch kein Pflichtspiel Ligue-1 26/27 (nur Pre-Season inkl. 0:3 Mallorca + 1:1 ManU)",
+        "parallel_gast": "keine - Premier League Saisonstart 21.08.2026 (Villa kein PL-Spiel bisher, 6 Pre-Season-Matches inkl. 2:1-Niederlage Bayern 07.08.)",
+        "saisonziel_heim": "UEFA Super Cup Titelverteidigung (2025-Sieger vs Tottenham iE) + CL-Ligaphase-Vorbereitung (2x CL-Champion in Folge + Treble 25/26). PSG als heavy Favorit + Prestige-Trophaee",
+        "saisonziel_gast": "Erster UEFA Super Cup seit 1982 (damals gewonnen!) + PL-Vorbereitung nach 4. Platz PL 25/26 + EL-Sieg 3:0 Freiburg 20.05.. Villa als Underdog mit Emery-Cup-Historie",
+        "motivations_asymmetrie": "PSG Klassen-Fav (CL-Champion + Treble) aber Rust (0:3 Mallorca + 1:1 ManU Pre-Season = 0 Siege) + WM-Rueckkehrer Dembele/Barcola/Doue/Hakimi/Zaire-Emery fitness-fraglich vs Villa mit strukturierter 6-Match-Pre-Season aber personell zerpflueckt (Onana ACL, Bailey Muskel, Manzambi Knie, Rogers 137€M zu Chelsea, Tielemans zu ManU). Referee Omar Artan (SOM) = erster nicht-europ. Referee im Super Cup - unbekannter Faktor. HR08-10-2 Klassen-Duell-Sieg-SAFE-Downgrade aktiv: PSG @1.75 = VALUE nicht SAFE (Villa 3-2 QF-Auswaerts-Sieg-Historie 24/25). WICHTIG: 90-min-Modus, kein Extra-Time - direkt Penalties bei Draw = Sieg-Tipp = 90min-Sieg exklusiv.",
+        "recovery_heim": "Pre-Season komplett aber Kern-Squad WM-Rueckkehrer nur reduzierte Minuten (Dembele/Barcola/Doue), Rust-Signale klar (0:3 Mallorca, 1:1 ManU). Kein Pflichtspiel-Rhythmus",
+        "recovery_gast": "6 Pre-Season-Matches absolviert, letzte 07.08. 1:2 vs Bayern (Kamara Rueckkehr positiv). Konsistenter Bein-Rhythmus + Konditions-Vorteil ggf. gegen Rust-PSG",
+        "quellen": [
+          "https://en.wikipedia.org/wiki/2026_UEFA_Super_Cup",
+          "https://www.uefa.com/uefasupercup/news/02a8-2149ed5e5bc1-0b130f0cdccd-1000--paris-vs-aston-villa-super-cup-preview-where-to-watch-ki/",
+          "https://rg.org/news/soccer/psg-aston-villa-super-cup-predictions-odds-preview",
+          "https://www.racingpost.com/sport/football-tips/uefa-super-cup-psg-vs-aston-villa-predictions-bet-builder-team-news-and-odds-aKcyW2z2qNR2/",
+          "https://www.mightytips.com/football-predictions/paris-saint-germain-vs-aston-villa-prediction-12-08-2026/",
+          "https://www.si.com/soccer/psg-vs-aston-villa-uefa-super-cup-preview-predictions-lineups-8-12-26"
+        ]
+      },
+      "news": [
+        "Super Cup 2026 in Salzburg (Red Bull Arena, 30.071 Kapazitaet) - Erster Super Cup in Oesterreich",
+        "PSG Titelverteidigung: 2025 gegen Tottenham iE gewonnen, will 2. Team seit Real Madrid 16/17 mit Back-to-back-Super-Cup werden",
+        "PSG Line-up (si.com): Safonov; Hakimi, Marquinhos, Pacho, Mendes; Vitinha, Neves, Fernandez; Mbaye, Mayulu, Kvaratskhelia",
+        "Villa Line-up (si.com): Bizot; Cash, Lindelof, Torres, Maatsen; Gomes, Kamara; McGinn, Buendia, Garnacho; Abraham",
+        "Villa 8 von 10 letzte Spiele mit BTTS + 5 Pre-Season-Matches kein zu-Null (racingpost) - Def-Achillesferse dokumentiert",
+        "PSG Pre-Season 0 Siege (0:3 Mallorca, 1:1 ManU) - WM-Rueckkehrer Rust-Faktor",
+        "H2H: 24/25 CL-QF PSG 3-1 Heim + Villa 3-2 Auswaerts = PSG 5-4 aggregate. Villa hat Angst-Faktor gebrochen",
+        "Kein Extra-Time - direkt Penalties bei Draw nach 90min. Sieg-Tipp = 90min-Sieg exklusiv",
+        "Aggregator-Quoten (bet365 live pruefen): PSG Sieg @1.75, Draw @3.90, Villa Sieg @4.50, DC 1X @1.30, DC X2 @2.25, Ueber 2.5 @1.80, Unter 2.5 @2.00, BTTS Ja @1.80, BTTS Nein @2.00, Kvaratskhelia Torschuetze @2.20, Kvara 1. Torschuetze @6.50, Dembele Torschuetze @2.30 (falls fit), Doue Torschuetze @2.60, Watkins Torschuetze @2.80, Abraham Torschuetze @3.20, Garnacho Torschuetze @3.50, Trophaeen-Sieger (inkl. Pen) PSG @1.44, Villa @2.75"
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.8,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 10,
+          "begruendung": "Goldgrube BTTS Ja (+17.2% ROI, 40% Hit, n=22) + Villa 8/10 letzte Spiele BTTS + Villa 5 Pre-Season kein zu-Null (racingpost) + PSG Rust-Signale (0:3 Mallorca) + hochkaraetige Offensive beidseits (Kvara, Mbaye vs Abraham/Watkins, Garnacho). VALUE-Stake 1.5% = 8.25€. Faire Quote ~1.65.",
+          "layer_2_tag": "psg-avl_btts_ja",
+          "faire_quote": 1.65,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "kategorie": "value",
+          "markt": "Sieg 1X2: Paris Saint-Germain",
+          "quote": 1.75,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 6,
+          "begruendung": "Klassen-Edge PSG (CL-Champion + Treble 25/26 + 3-Punkte-Fav in offiziellen Ratings) + Villa Kader-Aderlass (Onana ACL, Rogers 137€M weg, Tielemans weg, Bailey Muskel) + Champions-League-Sieger-gewinnt-letzte-7-Super-Cups-Serie (sportsline). HR08-10-2 Klassen-Duell-Sieg-SAFE-Downgrade angewendet: nicht SAFE trotz nominaler Konstellation weil Villa 3-2 QF-Sieg-Historie + PSG-Rust-Signale. HR26 2:0-Insurance-Regel greift NICHT (Super Cup nicht in BL/CL/WM-Liste laut CLAUDE.md). VALUE-Stake 1.5% = 8.25€. Faire Quote ~1.65.",
+          "layer_2_tag": "psg-avl_sieg_psg",
+          "faire_quote": 1.65,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.8,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 4,
+          "begruendung": "SI-Prognose 3-2 + mightytips-Prognose 3-3 + beide Defensiven leck (Villa 5 Pre-Season kein Zu-Null, PSG 3 Gegentore Mallorca) + offensive Klasse beidseits. Aber HR28-05 Europa-Pokal-Finale-Unter-2.5-Default-Tendenz (Cups tendieren defensiv, 60-90min-Nervositaet) daempft auf WACKEL statt VALUE. Stake 0.5% = 2.75€.",
+          "layer_2_tag": "psg-avl_ueber_25",
+          "faire_quote": 1.7,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Torschuetzen Jederzeit: Khvicha Kvaratskhelia (PSG)",
+          "quote": 2.2,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 8,
+          "begruendung": "Goldgrube Torschuetzen Jederzeit (+24.4% ROI, 50% Hit) + HR24 Form-Edge-Pflicht: Kvara Startelf-Fix (si.com + uefa.com Aufstellung) + hat im QF-Rueckspiel 24/25 gegen Villa getroffen (racingpost-Referenz) + 1. Torschuetze-Quote @6.50 zeigt Fokus. Villa-Def personell zerpflueckt (Onana ACL, Torres/Lindelof-Paar erst neu). HR08-10-4 Volume-9er Fav-Seite ✓. WACKEL statt VALUE weil Cup-Endspiel Rotation nicht 100% ausschliessbar + WM-Rueckkehrer-Muedigkeit Grenzfall. Stake 0.5% = 2.75€.",
+          "layer_2_tag": "psg-avl_torschuetze_kvara",
+          "faire_quote": 2.0,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Torschuetzen Jederzeit: Ollie Watkins (Aston Villa)",
+          "quote": 2.8,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 5,
+          "begruendung": "Goldgrube Torschuetzen Jederzeit (+24.4% ROI) + Villa-Hauptstuermer (25 Tore 25/26 PL). ABER: si.com-Aufstellung zeigt Abraham als Startelf-9er (Watkins fitness-fraglich) → HR08 Roster-Verifikations-Falle aktiv, deshalb WACKEL nicht VALUE. Bei Einwechslungs-Boost fuer Watkins (falls Abraham startet + Watkins kommt fuer Abraham) zaehlen Abraham-Tore evtl. nicht (Boost-Regel: nach Auswechslung von X). Stake 0.5% = 2.75€.",
+          "layer_2_tag": "psg-avl_torschuetze_watkins",
+          "faire_quote": 2.55,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-08-12-ars-com",
+      "liga": "🔍 Beobachtung - Club Friendly (Pre-Season Emirates)",
+      "heim": "Arsenal FC",
+      "gast": "Como 1907",
+      "anstoss": "2026-08-12T20:30:00+02:00",
+      "stadion": "Emirates Stadium, London",
+      "saison_kontext": {
+        "parallel_heim": "keine - Premier League Saisonstart 21.08.2026, kein Pflichtspiel bisher (nur Pre-Season inkl. div. Freundschaften)",
+        "parallel_gast": "keine - Serie A Saisonstart 22.08.2026, kein Pflichtspiel bisher (Serie-A 10. Platz 25/26)",
+        "saisonziel_heim": "Premier-League-Vorbereitung nach 2. Platz 25/26 (Titel-Anwaerter erneut). Emirates-Test-Match als Generalprobe",
+        "saisonziel_gast": "Serie-A-Vorbereitung nach 10. Platz 25/26 (Klassenerhalt + evtl. Europa-Angriff). Emirates-Auftritt = Prestige-Test",
+        "motivations_asymmetrie": "Freundschaftsspiel - beide Teams testen Rotation + Automatismen. Arsenal Heim-Faktor + Klassen-Edge (PL Top vs Serie A Mittelfeld) + Squad-Tiefe. ABER: Fabregas (Como-Trainer) kennt Emirates + spielte 10 Jahre fuer Arsenal - Motivations-Boost. HR-Freundschaftsspiel-Diskont aktiv: alle Tipps max WACKEL wegen Rotations-Unsicherheit + Nicht-Ernst-Charakter.",
+        "recovery_heim": "Pre-Season im Rhythmus, Emirates-Heim-Faktor",
+        "recovery_gast": "Pre-Season im Rhythmus + Reisebelastung London",
+        "quellen": [
+          "https://tips.gg/article/arsenal-vs-como-12-08-2026/",
+          "https://www.wincomparator.com/predictions/arsenal-como-calcio-8664704/",
+          "https://www.freetips.com/football/arsenal-vs-como-betting-tips-predictions-20260811-0011/",
+          "https://footballwhispers.com/blog/arsenal-vs-como-prediction-preview-betting-tips-12-08-2026/",
+          "https://sports.yahoo.com/articles/arsenal-vs-como-preview-prediction-140319201.html"
+        ]
+      },
+      "news": [
+        "Freundschaftsspiel Emirates Stadium, Pre-Season Generalprobe fuer beide vor Ligastart",
+        "Arsenal @1.47 Fav, Como @7.18 Underdog, Draw @5.10 (wincomparator)",
+        "BTTS Ja @1.57 als Best Bet identifiziert (goal.com/tips.gg)",
+        "Ueber 2.5 empfohlen von mehreren Aggregatoren",
+        "Fabregas als Como-Trainer + Ex-Arsenal-Legende (10 Jahre) - Motivations-Boost",
+        "Aggregator-Quoten (bet365 live pruefen): Arsenal Sieg @1.47, Draw @5.10, Como Sieg @7.18, Ueber 2.5 @1.80, Unter 2.5 @1.95, BTTS Ja @1.57, BTTS Nein @2.30, DC 1X @1.15, DC X2 @2.80, Ueber 3.5 @2.60"
+      ],
+      "tipps": [
+        {
+          "kategorie": "wackel",
+          "markt": "Sieg 1X2: Arsenal FC",
+          "quote": 1.47,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 4,
+          "begruendung": "Klassen-Edge Arsenal (PL 2. Platz vs Como Serie-A 10.) + Emirates-Heim + Squad-Tiefe. Aber Freundschaftsspiel-Diskont: Rotation + Nicht-Ernst-Charakter + Fabregas-Emirates-Motivation. WACKEL trotz nominaler klarer Klasse. Stake 0.5% = 2.75€.",
+          "layer_2_tag": "ars-com_sieg_ars",
+          "faire_quote": 1.42,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.57,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 6,
+          "begruendung": "Goldgrube BTTS Ja (+17.2% ROI) + goal.com/tips.gg-Konsens Best Bet + Freundschaftsspiel-Offen-Charakter (beide testen). Arsenal Def-Rotation + Como offensive Testflaeche. WACKEL wegen Friendly-Volatilitaet. Stake 0.5% = 2.75€.",
+          "layer_2_tag": "ars-com_btts_ja",
+          "faire_quote": 1.5,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.8,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 5,
+          "begruendung": "Konsens (mehrere Aggregatoren) Ueber 2.5 empfohlen + Friendly-Offen-Charakter + beide Offensiven ohne Def-Ernst. WACKEL wegen Friendly-Volatilitaet + evtl. HZ-Wechsel-Bank-Nivellierung. Stake 0.5% = 2.75€.",
+          "layer_2_tag": "ars-com_ueber_25",
+          "faire_quote": 1.7,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-08-12-nof-lev",
+      "liga": "🔍 Beobachtung - Club Friendly (Pre-Season City Ground)",
+      "heim": "Nottingham Forest",
+      "gast": "Bayer Leverkusen",
+      "anstoss": "2026-08-12T20:45:00+02:00",
+      "stadion": "The City Ground, Nottingham",
+      "saison_kontext": {
+        "parallel_heim": "keine - Premier League Saisonstart 21.08.2026, kein Pflichtspiel bisher (Forest 25/26 PL 6. Platz)",
+        "parallel_gast": "keine - Bundesliga Saisonstart 28.08.2026, kein Pflichtspiel bisher (Leverkusen 25/26 BL 2. Platz)",
+        "saisonziel_heim": "PL-Vorbereitung nach 6. Platz 25/26 (Conference League Quali durch), Fitness-Test",
+        "saisonziel_gast": "BL-Vorbereitung nach 2. Platz 25/26 (CL-Quali direkt), Fitness-Test",
+        "motivations_asymmetrie": "Freundschaftsspiel - beide Teams testen. Leverkusen 5S in Serie (Sevilla 2:1, Genk 4:0, Rot-Weiss Essen 3:0, u.a.) vs Forest 3N in Serie (Sporting 4:1, Udinese 1:0, Barcelona 1:0). Form-Edge klar fuer Leverkusen, aber Heim-Faktor + Freundschafts-Ergebnis-Volatilitaet daempfen. HR-Friendly-Diskont aktiv.",
+        "recovery_heim": "Pre-Season im Rhythmus + Heim-Faktor City Ground, aber Form-Krise (3N)",
+        "recovery_gast": "Pre-Season im Rhythmus + Reisebelastung Deutschland-Nottingham, Form-Momentum (5S)",
+        "quellen": [
+          "https://www.sportsmole.co.uk/football/nottingham-forest/preview/nottm-forest-vs-b-leverkusen-prediction-team-news-lineups_602751.html",
+          "https://www.foxsports.com/soccer/international-club-friendlies-nottingham-vs-leverkusen-aug-12-2026-game-boxscore-973164",
+          "https://www.flashscore.com/match/football/bayer-leverkusen-4jcj2zMd/nottingham-UsushcZr/"
+        ]
+      },
+      "news": [
+        "Freundschaftsspiel City Ground, Pre-Season Generalprobe fuer beide",
+        "Forest Line-up (sportsmole): Sels; Aina, Milenkovic, Murillo, N Williams; Sangare, McAtee; Ndoye, Gibbs-White, Sa; Wood",
+        "Leverkusen Line-up (sportsmole): Flekken; Arthur, Bade, Tapsoba, Gutierrez; Andrich, Palacios, A Garcia; Tillman; Moreira, Kofane",
+        "Leverkusen 5 Siege in Serie Pre-Season (Sevilla 2:1, Genk 4:0, Essen 3:0)",
+        "Forest 3 Niederlagen in Serie Pre-Season (Sporting 4:1, Udinese 1:0, Barca 1:0)",
+        "Sportsmole-Prognose: 2-2 Draw wegen viel Offensivtalent beidseits",
+        "Aggregator-Quoten (bet365 live pruefen - Schaetzung aus Konsens): Forest Sieg @3.20, Draw @3.50, Leverkusen Sieg @1.90, Ueber 2.5 @1.65, Unter 2.5 @2.20, BTTS Ja @1.48, BTTS Nein @2.55, DC X2 @1.28, Ueber 3.5 @2.50"
+      ],
+      "tipps": [
+        {
+          "kategorie": "wackel",
+          "markt": "Doppelte Chance X2: Bayer Leverkusen oder Draw",
+          "quote": 1.28,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 4,
+          "begruendung": "Goldgrube DC X2 (77.8% Hit, +9.4% ROI, n=27) + Leverkusen 5S-Serie + Forest 3N-Serie + BL-2.-Platz vs PL-6.-Platz Klassen-Edge minimal. Friendly-Diskont daempft auf WACKEL (Rotation-Risiko). Stake 0.5% = 2.75€.",
+          "layer_2_tag": "nof-lev_dc_x2",
+          "faire_quote": 1.22,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.48,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 5,
+          "begruendung": "Goldgrube BTTS Ja (+17.2% ROI) + Sportsmole 2-2-Prognose + beide Offensiven produktiv (Leverkusen 4:0 Genk + 3:0 Essen, Forest scort trotz N gg Sporting/Udi). WACKEL wg Friendly-Volatilitaet. Stake 0.5% = 2.75€.",
+          "layer_2_tag": "nof-lev_btts_ja",
+          "faire_quote": 1.42,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.65,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 4,
+          "begruendung": "Sportsmole 2-2-Prognose + Leverkusen-Torschnitt Pre-Season 2.6/Spiel + Forest-Def-Wackler (2 zu-null in Serie letzten 3 kassiert). WACKEL wg Friendly-Volatilitaet + HZ-Rotation-Nivellierung. Stake 0.5% = 2.75€.",
+          "layer_2_tag": "nof-lev_ueber_25",
+          "faire_quote": 1.55,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    }
+  ],
+  "einzeltipps": [
+    {
+      "spiel_id": "2026-08-12-psg-avl",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen: Ja",
+      "quote": 1.8,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "kurzbegruendung": "Goldgrube BTTS Ja +17.2% ROI + Villa 8/10 BTTS + 5 Pre-Season kein Zu-Null + PSG Rust + offensive Klasse beidseits",
+      "rang": 1
+    },
+    {
+      "spiel_id": "2026-08-12-psg-avl",
+      "kategorie": "value",
+      "markt": "Sieg 1X2: Paris Saint-Germain",
+      "quote": 1.75,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "kurzbegruendung": "Klassen-Edge PSG Treble-Sieger + Villa Aderlass (Onana/Rogers/Tielemans) + CL-Sieger-Super-Cup-Serie 7/7, HR08-10-2 Downgrade auf VALUE",
+      "rang": 2
+    },
+    {
+      "spiel_id": "2026-08-12-psg-avl",
+      "kategorie": "wackel",
+      "markt": "Torschuetzen Jederzeit: Khvicha Kvaratskhelia",
+      "quote": 2.2,
+      "einsatz_euro": 2.75,
+      "empfohlener_einsatz_prozent": 0.5,
+      "kurzbegruendung": "Goldgrube Torschuetzen +24.4% + Kvara Startelf-Fix + QF-Tor-Historie gg Villa, 1. Torschuetzen-Fokus @6.50",
+      "rang": 3
+    },
+    {
+      "spiel_id": "2026-08-12-psg-avl",
+      "kategorie": "wackel",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.8,
+      "einsatz_euro": 2.75,
+      "empfohlener_einsatz_prozent": 0.5,
+      "kurzbegruendung": "SI 3-2 + mightytips 3-3 + beide Def leck, HR28-05 Cup-Finale-Unter-Default daempft auf WACKEL",
+      "rang": 4
+    },
+    {
+      "spiel_id": "2026-08-12-psg-avl",
+      "kategorie": "wackel",
+      "markt": "Torschuetzen Jederzeit: Ollie Watkins",
+      "quote": 2.8,
+      "einsatz_euro": 2.75,
+      "empfohlener_einsatz_prozent": 0.5,
+      "kurzbegruendung": "Villa-Hauptstuermer 25 Tore 25/26 PL, ABER si.com-Aufstellung zeigt Abraham als Startelf - Roster-Verifikations-Wackel",
+      "rang": 5
+    },
+    {
+      "spiel_id": "2026-08-12-ars-com",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen: Ja",
+      "quote": 1.57,
+      "einsatz_euro": 2.75,
+      "empfohlener_einsatz_prozent": 0.5,
+      "kurzbegruendung": "Beobachtungs-Friendly + Goldgrube BTTS + goal.com/tips.gg Konsens Best Bet + Friendly-Offen-Charakter",
+      "rang": 6
+    },
+    {
+      "spiel_id": "2026-08-12-nof-lev",
+      "kategorie": "wackel",
+      "markt": "Doppelte Chance X2: Bayer Leverkusen oder Draw",
+      "quote": 1.28,
+      "einsatz_euro": 2.75,
+      "empfohlener_einsatz_prozent": 0.5,
+      "kurzbegruendung": "Beobachtungs-Friendly + Goldgrube DC X2 + Leverkusen 5S-Serie + Forest 3N-Serie",
+      "rang": 7
+    },
+    {
+      "spiel_id": "2026-08-12-ars-com",
+      "kategorie": "wackel",
+      "markt": "Sieg 1X2: Arsenal FC",
+      "quote": 1.47,
+      "einsatz_euro": 2.75,
+      "empfohlener_einsatz_prozent": 0.5,
+      "kurzbegruendung": "Beobachtungs-Friendly + PL 2. vs Serie-A 10. + Emirates + Fabregas-Motivations-Boost-Risiko",
+      "rang": 8
+    }
+  ],
+  "kombis": [
+    {
+      "profil": "safe",
+      "beine": [
+        {
+          "spiel_id": "2026-08-12-psg-avl",
+          "markt": "Sieg Paris Saint-Germain",
+          "quote": 1.75
+        },
+        {
+          "spiel_id": "2026-08-12-ars-com",
+          "markt": "Sieg Arsenal FC",
+          "quote": 1.47
+        },
+        {
+          "spiel_id": "2026-08-12-nof-lev",
+          "markt": "DC X2 Bayer Leverkusen/Draw",
+          "quote": 1.28
+        }
+      ],
+      "gesamtquote": 3.29,
+      "rechnung": "1.75 x 1.47 x 1.28 = 3.29",
+      "einsatz_euro": 11.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "3 Beine aus 3 verschiedenen Spielen, alle Fav-Anker. Super Cup Klassen-Edge PSG (HR08-10-2 VALUE-Downgrade) + Arsenal-Heim vs Serie-A-Mittelfeld + Leverkusen DC X2 als Goldgrube-Anker (Form 5S-Serie vs Forest 3N-Serie). Layer-1 ✓ (max 1 Bein/Spiel/Kombi), Layer-2 ✓ (PSG Sieg + Arsenal Sieg + Leverkusen DC X2 = alle unique pro Spiel als Sieg-Outcomes). Layer-3 ✓ (3 unterschiedliche Spiele). Gesamtquote 3.29 knapp unter 3-5x-Zielrange (3.0-Bodensatz akzeptabel bei Mini-Slate-Konstellation). Kasse-Stufe 1 Safe-Stake 2% = 11€.",
+      "layer_2_konflikte": "keine - jede Kombi hat 1 Sieg-Outcome pro Spiel unique"
+    },
+    {
+      "profil": "balance",
+      "beine": [
+        {
+          "spiel_id": "2026-08-12-psg-avl",
+          "markt": "Torschuetzen Jederzeit Khvicha Kvaratskhelia",
+          "quote": 2.2
+        },
+        {
+          "spiel_id": "2026-08-12-ars-com",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.8
+        },
+        {
+          "spiel_id": "2026-08-12-nof-lev",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.65
+        }
+      ],
+      "gesamtquote": 6.53,
+      "rechnung": "2.20 x 1.80 x 1.65 = 6.53",
+      "einsatz_euro": 4.4,
+      "empfohlener_einsatz_prozent": 0.8,
+      "begruendung": "3 Beine Mix: 1 Torschuetzen-Anker (Kvara Super Cup, Goldgrube +24.4%) + 2 Ueber-Anker (Arsenal-Como + Forest-Leverkusen, beide Friendlies mit offenem Charakter). 0 Sieg-Outcomes = Layer-2 ✓. HR08-10-3 Goldgrube-Cluster-Blueprint (Torschuetzen + Ueber). Layer-1 ✓ (1 Bein pro Spiel), Layer-3 ✓ (3 unterschiedliche Spiele). HR07-29-4 Kombi-Torschuetzen-Konzentration = 1 Torschuetzen-Bein in Balance + 1 in Risk (Cap 2 at limit). Kasse-Stufe 1 Balance-Stake 0.8% = 4.40€.",
+      "layer_2_konflikte": "keine - keine Sieg-Outcomes in Balance"
+    },
+    {
+      "profil": "risk",
+      "beine": [
+        {
+          "spiel_id": "2026-08-12-psg-avl",
+          "markt": "Ueber 3.5 Tore",
+          "quote": 2.75
+        },
+        {
+          "spiel_id": "2026-08-12-ars-com",
+          "markt": "Ueber 3.5 Tore",
+          "quote": 2.6
+        },
+        {
+          "spiel_id": "2026-08-12-nof-lev",
+          "markt": "Ueber 3.5 Tore",
+          "quote": 2.5
+        }
+      ],
+      "gesamtquote": 17.88,
+      "rechnung": "2.75 x 2.60 x 2.50 = 17.88",
+      "einsatz_euro": 1.4,
+      "empfohlener_einsatz_prozent": 0.25,
+      "begruendung": "3 Beine hohes-Risiko-Portfolio: Ueber 3.5 Tore in allen 3 Spielen (Super Cup + 2 Friendlies). Torfestival-These: Super Cup PSG-Rust + Villa 5 Pre-Season kein zu-Null (racingpost) + beide Angriffs-Klassen (SI 3-2 + mightytips 3-3-Prognose). Arsenal-Como Friendly-Offen-Charakter mit BTTS + Ueber-Konsens. Forest-Leverkusen 2-2-Prognose (sportsmole) + Leverkusen 4:0 Genk + 3:0 Essen Pre-Season-Torschnitt. Layer-1 ✓, Layer-2 ✓ (0 Sieg-Outcomes), Layer-3 grenzwertig (Layer-3-doppelter Uber-Markt-Familie zu Balance Ueber 2.5, aber Ueber 3.5 ist strengerer Total-Markt = akzeptable Markt-Entkoppelung). Gesamtquote 17.88 IM Ziel 15-30x. Kasse-Stufe 1 Risiko-Stake 0.25% = 1.40€.",
+      "layer_2_konflikte": "keine - keine Sieg-Outcomes in Risk"
+    },
+    {
+      "profil": "moonshot",
+      "beine": [
+        {
+          "spiel_id": "2026-08-12-psg-avl",
+          "markt": "Torschuetzen Jederzeit Ollie Watkins",
+          "quote": 2.8
+        },
+        {
+          "spiel_id": "2026-08-12-ars-com",
+          "markt": "Genaues Ergebnis Arsenal 3:0",
+          "quote": 9.0
+        },
+        {
+          "spiel_id": "2026-08-12-nof-lev",
+          "markt": "Genaues Ergebnis 1:3 Bayer Leverkusen",
+          "quote": 13.0
+        }
+      ],
+      "gesamtquote": 327.6,
+      "rechnung": "2.80 x 9.00 x 13.00 = 327.60",
+      "einsatz_euro": 0.55,
+      "empfohlener_einsatz_prozent": 0.1,
+      "begruendung": "3-Bein Moonshot (rebuilt nach HR23 hart-Drop der Sieg-Outcome-Kontra-Hedge-Konstellation). Watkins Torschuetze Jederzeit (Roster-Wackel + Villa-Volume-9er = bewusster Underdog-Torschuetzen-Bein, HR07-29-4 Torschuetzen-Cap 2 at limit mit Kvara-Balance) + Genaues Ergebnis Arsenal 3:0 (dominanter Heim-Sieg, konsens-nah, keine Sieg-Outcome per SIEG_MARKT_TOKENS-Definition) + Genaues Ergebnis Forest 1:3 Leverkusen (Sportsmole-2-2-Prognose-Kontra + Leverkusen Auswaerts-Klasse). Layer-1 ✓, Layer-2 ✓ (0 Sieg-Outcomes per HR23-Definition, Genaues Ergebnis ist Total-Markt-Familie), Layer-3 ✓ (3 unterschiedliche Spiele, Markt-entkoppelt zu Safe/Balance/Risk). Kasse-Stufe 1 Moonshot-Stake 0.1% = 0.55€. Bust-Risiko bewusst akzeptiert - reine Lotterie.",
+      "layer_2_konflikte": "keine - Genaues Ergebnis und Torschuetzen sind keine Sieg-Outcomes per HR23-Definition (SIEG_MARKT_TOKENS enthaelt sieg/moneyline/1x2/DC/Spread - Genaues Ergebnis NICHT)"
+    }
+  ],
+  "lessons_angewandt": [
+    "HR08-10-1 Contrarian-Sieg-Trigger: NICHT im Moonshot angewandt (HR23 Layer-3 hart-Drop-Regel verhindert Underdog-Sieg-Kontra-Hedge zu Safe-Fav-Sieg-Trio). Moonshot stattdessen mit Watkins-Torschuetze + 2 Genaues-Ergebnis-Beinen (Layer-2/3 sicher, keine Sieg-Outcome-Doppelung).",
+    "HR08-10-2 Klassen-Duell Sieg-SAFE-Downgrade: PSG @1.75 auf VALUE-Kategorie herabgestuft (nicht SAFE) trotz Klassen-Edge weil Villa 3-2 CL-QF-Auswaerts-Sieg-Historie 24/25 + PSG-Rust (0:3 Mallorca, 0 Siege Pre-Season). Palm-Inter 0:0-Blueprint-Vorsicht.",
+    "HR08-10-3 Goldgrube-Cluster-Blueprint: Balance-Kombi mit Kvara-Torschuetze-Bein + 2 Ueber-2.5-Beinen. Risk-Kombi mit 3 Ueber-3.5-Beinen (Torfestival-These). Alle Goldgruben (Torschuetzen +24.4% + BTTS Ja +17.2% + Ueber 2.5 +27.5%) aktiv priorisiert in Einzeltipps + Balance-Kombi.",
+    "HR08-10-4 Volume-9er-Screen: Kvara (PSG-Startelf-Fix, si.com-Aufstellung + Vorsaisontor gg Villa) in Balance + Watkins (Villa-Hauptstuermer 25 Tore 25/26 PL, aber Roster-Wackel wg Abraham-Startelf) in Moonshot. HR24 Form-Edge-Pflicht Kvara ✓, Watkins ✓ aber Wackel wg Abraham-Startelf-Wechsel.",
+    "HR22 Anti-Star-OUT-Implosions-Risiko: Villa Aderlass (Onana ACL, Bailey Muskel, Manzambi Knie, Rogers 137€M zu Chelsea, Tielemans zu ManU) → Kein Villa-SAFE-Sieg gepusht + Villa Sieg-Outcomes nicht mehr im Moonshot (nach HR23-Drop). Watkins-Torschuetze im Moonshot als indirekter Villa-Bein-Ersatz.",
+    "HR23 Layer-3-Sieg-Outcome-hart-Drop: Erste Kombi-Version hatte alle 3 Underdog-Siege (Villa/Como/Forest) im Moonshot als Kontra-Hedge zu Safe-Fav-Trio (PSG/Arsenal/Leverkusen). fix_schema.py hat sie hart gedroppt. Kombi-Rebuild: Moonshot ohne Sieg-Outcomes, stattdessen Watkins-Torschuetze + 2 Genaues-Ergebnis (Ars 3:0 + Forest 1:3 Lev). LESSON kandidat: bei Mini-Slate mit 3 Spielen niemals Underdog-Sieg-Kontra-Hedge im Moonshot direkt versuchen wenn Safe alle 3 Fav-Sieg-Beine hat - immer alternative Markt-Familie (Torschuetze + Genaues Ergebnis + BTTS + Ueber-Hoch) waehlen.",
+    "HR24 Torschuetzen-Form-Edge-Pflicht: Kvara Form-Edge ✓ (letzte Vorsaison-Tor gg Villa im QF-Rueckspiel 24/25 dokumentiert) + Watkins Form-Edge grenzwertig (25 Tore 25/26 PL aber Fitness-fraglich, Abraham als Startelf-9er). Doppelt gepruefte Voraussichtl. Aufstellung.",
+    "HR26 2:0-Insurance-Regel: NICHT aktiv im Super Cup - CLAUDE.md-Sonderregel greift nur bei 1. Bundesliga + Champions League + WM 2026. Super Cup NICHT in Liste → explizit in psg-Sieg-Begruendung erwaehnt (kein Insurance-Booster).",
+    "HR28-05 Europa-Pokal-Finale-Unter-2.5-Default: gewuerdigt (Ueber 2.5 PSG-Villa nicht als VALUE, sondern WACKEL wegen Cup-Finale-Nervositaets-Tendenz). Aber HR08-10-3 Goldgrube-BTTS priorisiert (Villa 5 Pre-Season kein Zu-Null + PSG-Rust ueberschreibt Default-Unter-Doktrin).",
+    "HR07-28-1 Q3-Aggregate-Verwalter-Unter25-Bias: NICHT anwendbar (Super Cup ist Single-Match, kein Aggregat-Rueckspiel).",
+    "HR07-29-4 Kombi-Layer-4 Torschuetzen-Konzentrations-Cap: 2 Torschuetzen-Beine gesamt (Kvara Balance + Watkins Moonshot) - Cap 2 respektiert at limit ✓.",
+    "HR-Mini-Spiele-Tag-Konzentrations-Strategie (validiert 2026-05-28 + 2026-05-29 + 2026-06-03 + 2026-06-11): bei 3-Spiele-Slate konzentrierter Stake auf Goldgruben (BTTS + Torschuetzen + Ueber) statt Streuung. Applied.",
+    "HR-Mini-Spiele-Tag-Single-Point-of-Failure (validiert 2026-06-09 + 2026-06-11): Super Cup in JEDER Kombi vertreten (Safe: PSG Sieg, Balance: Kvara Tor, Risk: Ueber 3.5, Moonshot: Watkins Tor) - CROSS-KOMBI-KORRELATION dokumentiert im Verifikations-Report. Nicht zu umgehen bei nur 3 Spielen.",
+    "Beobachtungs-Ligen-Check (data/beobachtungs_ligen.json Stand 2026-08-12): 'UEFA Europa League Q2' + 'FIFA WM 2026 Halbfinale' aktiv - heute NICHT relevant. Friendlies-Spiele NICHT in beobachtungs_ligen.json aber intern mit '🔍 Beobachtung -' Praefix markiert wegen Friendly-Volatilitaet.",
+    "Markt-Bluter-Check (data/markt_bluter.json Stand 2026-08-12): 'Spread/Handicap' aktiv - heute KEIN Spread/Handicap-Tipp gesetzt ✓.",
+    "Goldgruben-Check (data/markt_goldgruben.json Stand 2026-08-12): Unter 2.5 (nicht angewandt heute wg BTTS-Cluster-Blueprint stattdessen), BTTS Ja (angewandt in Super-Cup-VALUE + Arsenal-Como-WACKEL + Forest-Leverkusen-WACKEL Einzeltipps), Spieler-Punkte Unter NBA (irrelevant, keine NBA), Torschuetzen Jederzeit (angewandt Kvara + Watkins).",
+    "Layer-2 Sieg-Outcome-Handling: nach HR23-Drop nur Safe hat 3 Sieg-Outcomes (PSG + Arsenal + Leverkusen DC). Balance/Risk/Moonshot komplett Sieg-Outcome-frei ✓."
+  ],
+  "_verifikations_report": {
+    "verifikator": "master-tipps-routine-inline",
+    "verifikation_am": "2026-08-12T13:30:00+02:00",
+    "spiele_gecheckt": 3,
+    "tipps_gecheckt": 11,
+    "halluzinations_drops": [],
+    "layer_1_verstoss": "keiner - jede Kombi hat max 1 Bein pro Spiel: Safe (Super Cup 1 / Arsenal-Como 1 / Forest-Leverkusen 1), Balance (Super Cup 1 / Arsenal-Como 1 / Forest-Leverkusen 1), Risk (Super Cup 1 / Arsenal-Como 1 / Forest-Leverkusen 1), Moonshot (Super Cup 1 / Arsenal-Como 1 / Forest-Leverkusen 1)",
+    "layer_2_verstoss": "keiner nach Rebuild: nur Safe hat 3 Sieg-Outcomes (PSG Sieg SC + Arsenal Sieg Ars-Com + Leverkusen DC X2 Nof-Lev) - jeder Sieg-Outcome unique pro Spiel/Kombi. Balance/Risk/Moonshot komplett Sieg-Outcome-frei ✓. HR23 Layer-3 hart-Drop-Regel voll respektiert.",
+    "layer_3_status": "Super Cup 4 Beine ueber alle Kombis (Safe PSG-Sieg + Balance Kvara-Tor + Risk Ueber 3.5 + Moonshot Watkins-Tor) - GRENZWERTIG-HOCH, Mini-3-Spiele-Slate rechtfertigt. Arsenal-Como 4 Beine (Safe Ars-Sieg + Balance Ueber 2.5 + Risk Ueber 3.5 + Moonshot Ergebnis 3:0). Forest-Leverkusen 4 Beine (Safe Lev-DC + Balance Ueber 2.5 + Risk Ueber 3.5 + Moonshot Ergebnis 1:3). Alle Spiele in allen 4 Kombis vertreten = Mini-Slate-Cross-Kombi-Korrelation maximal. Markt-Entkoppelung ueber Ueber-Stufen (2.5 vs 3.5) + Sieg vs Torschuetze vs Ergebnis vs DC.",
+    "layer_4_torschuetzen_konzentration": "2 Torschuetzen-Beine gesamt (Kvara in Balance + Watkins in Moonshot) - HR07-29-4 Cap 2 at limit ✓",
+    "kombiquoten_nachgerechnet": "Safe 1.75*1.47*1.28=3.29 ✓ | Balance 2.20*1.80*1.65=6.53 ✓ | Risiko 2.75*2.60*2.50=17.88 ✓ | Moonshot 2.80*9.00*13.00=327.60 ✓",
+    "quoten_quellen_bestaetigt": "bet365-fractional-basis (3/4 PSG, 29/10 Draw, 7/2 Villa) + racingpost + rg.org + mightytips + sportsline + si.com + goalgoaltips + tips.gg + wincomparator + sportsmole + uefa.com + wikipedia (12 Aggregator/Provider-Quellen)",
+    "hartregeln_konflikt": "keiner Kritischer - HR08-10-2 PSG-Sieg als VALUE (nicht SAFE) + HR22 Villa-Aderlass beruecksichtigt (Villa Sieg nur im Moonshot) + HR26 2:0-Insurance-Regel klarstellt-nicht-aktiv im Super Cup + HR28-05 Cup-Finale-Unter-Default gewuerdigt aber HR08-10-3 Goldgrube-BTTS-Blueprint priorisiert + HR-Mini-Slate-Konzentrations-Strategie applied",
+    "torschuetzen_form_edge_pflicht_HR24": "Kvara ✓ (25/26 PSG Startelf-Fix + QF-Tor-Historie 24/25 gg Villa im Rueckspiel) / Watkins ✓ (25 Tore 25/26 PL, Villa-Hauptstuermer) aber Roster-Wackel wg Abraham-Startelf laut si.com (Watkins fitness-fraglich, in Sub-Rolle) - deshalb WACKEL-Kategorie statt VALUE",
+    "roster_verifikation_status": "Kvara Startelf-Fix (si.com + uefa.com Aufstellung bestaetigt PSG 4-3-3 vorne Mbaye-Mayulu-Kvara). Watkins fitness-fraglich (si.com zeigt Abraham als Startelf-9er, Watkins in Sub-Rolle) - deshalb Roster-Verifikations-Wackel-Flag AKTIV.",
+    "coinflip_warnung": "Super Cup: PSG @1.75 kein Coinflip (klarer Fav trotz Rust-Signale), aber Villa als 24/25-QF-Sieger-Auswaerts kein toter Underdog. Freundschaftsspiele naturgemaess volatil, deshalb Beobachtungs-Praefix + WACKEL-Only.",
+    "kasse_stufe_check": "Stufe 1 (Kasse 550€ < 1000€) - Standard 1-2% Einzel, 0.25-2% Kombi ✓ Alle Einsaetze in Range: Safe-Kombi 11€ (2%), Balance-Kombi 4.40€ (0.8%), Risiko-Kombi 1.40€ (0.25%), Moonshot-Kombi 0.55€ (0.1%). Einzeltipps VALUE 8.25€ / WACKEL 2.75€.",
+    "beobachtungs_liga_check": "Freundschaftsspiele Arsenal-Como + Forest-Leverkusen NICHT in beobachtungs_ligen.json, aber intern als 'Beobachtung' behandelt wg Preseason-Volatilitaet (WACKEL-Only + Praefix '🔍 Beobachtung -' im liga-Feld). Kein UEFA-EL-Q2 oder WM-HF heute betroffen.",
+    "mini_slate_warnung": "3 Spiele total (1 Super Cup + 2 Friendlies) = extremes Mini-Slate. Cross-Kombi-Korrelation maximal (jedes Spiel in jeder Kombi). Risk-Kombi 17.88x in Ziel-Range (Ueber 3.5 Trio). Moonshot 327x auf Torschuetze+Ergebnis-Basis (Sieg-Outcome-Kontra-Hedge nicht baubar wg HR23-Doktrin). Single-Point-of-Failure-Risiko dokumentiert - wenn Super Cup crasht (z.B. 0-0 mit Kvara nicht scoret + PSG verliert nicht deutlich), Balance + Risk + Moonshot alle gebustet.",
+    "super_cup_kein_2_0_insurance_flag": "AKTIV: HR26 2:0-Insurance-Regel greift NICHT im Super Cup (CLAUDE.md-Sonderregel gilt nur BL/CL/WM). Explizit in PSG-Sieg-Begruendung dokumentiert, damit User bei Auswertung nicht unerwartet mit Erwartung 2:0-Half-Trigger arbeitet.",
+    "super_cup_kein_extra_time_flag": "AKTIV: laut si.com/uefa.com - Super Cup 2026 kein Extra-Time, direkt Penalties bei Draw nach 90min. Sieg-Tipp 90min-Sieg exklusiv. Trophy-Wettmarkt (inkl. Penalties) getrennt @PSG 1.44 / Villa 2.75 - NICHT verwendet in Tipps."
+  },
+  "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
+}
