@@ -1,0 +1,17 @@
+{
+  "stand": "2026-08-12T18:03:48.824596+00:00",
+  "gesendet": {
+    "2026-08-12-psg-avl": {
+      "sent_at": "2026-08-12T18:03:47.567402+00:00",
+      "anstoss": "2026-08-12T21:00:00+02:00",
+      "spiel": "Paris Saint-Germain vs Aston Villa",
+      "top_tipp": "Beide Teams treffen: Ja"
+    },
+    "2026-08-12-nof-lev": {
+      "sent_at": "2026-08-12T18:03:47.567402+00:00",
+      "anstoss": "2026-08-12T20:45:00+02:00",
+      "spiel": "Nottingham Forest vs Bayer Leverkusen",
+      "top_tipp": "Doppelte Chance X2: Bayer Leverkusen oder Draw"
+    }
+  }
+}
