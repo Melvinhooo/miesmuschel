@@ -69,17 +69,6 @@
           "layer_2_tag": "and-pao_ueber_25",
           "faire_quote": 1.75,
           "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Torschuetzen Jederzeit: Kasper Dolberg (Anderlecht)",
-          "quote": 2.3,
-          "einsatz_euro": 2.75,
-          "edge_prozent": 8,
-          "begruendung": "Goldgrube Torschuetzen Jederzeit (historisch +24.4% ROI) + Anderlecht-Volume-9er + Heimvorteil. WACKEL wegen HR08-13-1 Post-WM-Ruhepause-Doktrin (Roster-Verifikation-Wackel: EL-Q3-Rueckspiel Rotations-Risiko trotz Verwalter-Lead). Stake 0.5% = 2.75€.",
-          "layer_2_tag": "and-pao_torschuetze_dolberg",
-          "faire_quote": 2.1,
-          "empfohlener_einsatz_prozent": 0.5
         }
       ],
       "kontext_check_status": "OK"
@@ -149,17 +138,6 @@
           "layer_2_tag": "ran-jag_btts_ja",
           "faire_quote": 1.65,
           "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Torschuetzen Jederzeit: Cyriel Dessers (Rangers)",
-          "quote": 2.4,
-          "einsatz_euro": 2.75,
-          "edge_prozent": 8,
-          "begruendung": "Goldgrube Torschuetzen Jederzeit (+24.4% ROI) + Rangers-Volume-9er + MUSS-Sieg-Modus = viele Chancen. WACKEL wegen HR08-13-1 Post-WM-Ruhepause-Doktrin (Roster-Verifikations-Wackel unter Neu-Trainer McInnes - unklar ob Igamane oder Dessers Startelf-9er). Stake 0.5% = 2.75€.",
-          "layer_2_tag": "ran-jag_torschuetze_dessers",
-          "faire_quote": 2.2,
-          "empfohlener_einsatz_prozent": 0.5
         }
       ],
       "kontext_check_status": "OK"
@@ -228,17 +206,6 @@
           "begruendung": "Goldgrube BTTS Ja (+17.2% ROI) + Pafos-Heim-Angriff + Salzburg-Auswaerts-Offensive. Beide Teams werden treffen (Muss-Sieg Pafos + Salzburg-Klassen-Konter). WACKEL wegen HR08-13-1 Post-WM-Ruhepause-Doktrin + Rueckspiel-Rotations-Risiko. Stake 0.5% = 2.75€.",
           "layer_2_tag": "paf-sal_btts_ja",
           "faire_quote": 1.8,
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Torschuetzen Jederzeit: Petar Ratkov (Salzburg)",
-          "quote": 2.6,
-          "einsatz_euro": 2.75,
-          "edge_prozent": 7,
-          "begruendung": "Goldgrube Torschuetzen Jederzeit (+24.4% ROI) + Salzburg-Nummer-9-Rolle + Auswaerts-Wettkampf-Rhythmus. WACKEL wegen HR08-13-1 Post-WM-Ruhepause-Doktrin (Roster-Verifikations-Wackel: Konate koennte auch starten, Salzburg-Rotations-System) + Zypern-Reise-Belastung. Stake 0.5% = 2.75€.",
-          "layer_2_tag": "paf-sal_torschuetze_ratkov",
-          "faire_quote": 2.4,
           "empfohlener_einsatz_prozent": 0.5
         }
       ],

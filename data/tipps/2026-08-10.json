@@ -34,53 +34,9 @@
         "Sirius avg 2.8 Tore/Spiel geschossen + 1.2 GA - Brommapojkarna avg 1.3 GS + 1.4 GA",
         "Sirius Sieg @1.30, Ü 2.5 @1.36, BTTS Ja @1.61 (sportsgambler), Sieg BR @9.00 Longshot"
       ],
-      "tipps": [
-        {
-          "kategorie": "value",
-          "markt": "Sieg 1X2: IK Sirius",
-          "quote": 1.3,
-          "einsatz_euro": 8.25,
-          "edge_prozent": 5,
-          "begruendung": "Klassen-Duell Tabellen-1 (41 Pkt, 13-2-0) vs Tabellen-12 (17 Pkt) + Sirius-Heim-Festung (0 Heimniederlage) + H2H 5S/1U/1N letzte 7 Direktvergleiche. HR08-10-2 Klassen-Duell-Sieg-SAFE-Downgrade angewendet: nicht SAFE-Kategorie trotz nominaler Konstellation (Palm-Inter-Blueprint 0:0-Bruch). VALUE mit Stake 1.5% = 8.25€. Faire Quote ~1.25.",
-          "layer_2_tag": "sir-brm_sieg_sir",
-          "faire_quote": 1.25,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Beide Teams treffen: Ja",
-          "quote": 1.61,
-          "einsatz_euro": 2.75,
-          "edge_prozent": 4,
-          "begruendung": "Goldgrube BTTS Ja (+17.2% ROI, n=22). Sirius avg 1.2 GA/Spiel (defensivstark) vs Brommapojkarna avg 1.3 GS - BR trifft im Schnitt, aber Sirius zu-null-Fähigkeit hoch (13-2-0). Coinflip. WACKEL 0.5% = 2.75€.",
-          "layer_2_tag": "sir-brm_btts_ja",
-          "faire_quote": 1.55,
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "kategorie": "value",
-          "markt": "Torschützen Jederzeit: Robbie Ure (Sirius)",
-          "quote": 1.6,
-          "einsatz_euro": 5.5,
-          "edge_prozent": 8,
-          "begruendung": "HR08-10-4 Volume-9er-Screen Fav-Seite: Ure 11 Tore als Top-Scorer der Allsvenskan, Startelf-Fixpunkt (aggregator-verifiziert). Goldgrube Torschützen Jederzeit (+24.4% ROI). HR08-07-4 Elite-Startelf-9er-These validiert (Startelf-9er zuverlässiger als Fluegel-Volume). Team-Tor-Baseline hoch (Sirius avg 2.8/Spiel = kein HR08-08-4-Downgrade-Trigger). VALUE-Stake 1.0% = 5.50€.",
-          "layer_2_tag": "sir-brm_torschuetze_ure",
-          "faire_quote": 1.45,
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Über 3.5 Tore",
-          "quote": 2.1,
-          "einsatz_euro": 2.75,
-          "edge_prozent": 5,
-          "begruendung": "Klassen-Duell = Massaker-Potenzial (Sirius avg 2.8 GS, BR avg 1.4 GA = ~4.2 exp goals). Sirius zu Hause 42 GS in 15 Spielen. Aber HR08-05-Cluster-Verwaltungs-Risiko (Fav führt HZ komfortabel, zieht Tempo raus) hält WACKEL. Stake 0.5% = 2.75€.",
-          "layer_2_tag": "sir-brm_ueber_35",
-          "faire_quote": 1.95,
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-08-10-sca-nac",
@@ -111,42 +67,9 @@
         "Nacional-Top-Scorer Jesús Ramírez (18 Tore in 33 Spielen 2025/26) aber Nacional-Kollektiv torschwach",
         "Santa Clara Sieg @1.83-1.91, Ü 2.5 @2.55, Unter 2.5 @1.56 - klare Under-Präferenz (aggregator-Konsens)"
       ],
-      "tipps": [
-        {
-          "kategorie": "wackel",
-          "markt": "Sieg 1X2: Santa Clara",
-          "quote": 1.91,
-          "einsatz_euro": 2.75,
-          "edge_prozent": 5,
-          "begruendung": "Klassen-Edge Santa Clara (Vorsaison-Platz 9 > 14 Nacional) + Heim-Vorteil + H2H 4S/3U/2N inkl. Mai-Heim-2:0 + Vorbereitungs-Formstark. Aber HR07-29-4 Auftakts-Cluster-Brick-Risiko + HR08-09-3 Anti-Vorsaison-Bias-Doktrin (Vorsaison-Bilanzen prognostisch schwach für neue Saison) halten Kategorie WACKEL statt VALUE. Stake 0.5% = 2.75€.",
-          "layer_2_tag": "sca-nac_sieg_sca",
-          "faire_quote": 1.75,
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "kategorie": "value",
-          "markt": "Unter 2.5 Tore",
-          "quote": 1.56,
-          "einsatz_euro": 8.25,
-          "edge_prozent": 8,
-          "begruendung": "Goldgrube Unter 2.5 (+30.2% ROI, 69.2% Hit, n=26) - höchste ROI im Portfolio. Nacional torschwach in Vorbereitung (1.0 GS/Spiel) + Santa Clara Def-solide (0.4 GA in Vorbereitung). H2H-Fragmente zeigen Under-Tendenz bei Heim-Santa-Clara-Duellen (2:0 Mai). Auftakts-Nervosität + neue Neuzugänge = defensiv-vorsichtige Anfangsphase. VALUE-Stake 1.5% = 8.25€.",
-          "layer_2_tag": "sca-nac_unter_25",
-          "faire_quote": 1.45,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Torschützen Jederzeit: Jesús Ramírez (Nacional)",
-          "quote": 2.75,
-          "einsatz_euro": 2.75,
-          "edge_prozent": 5,
-          "begruendung": "HR08-10-4 Volume-9er-Screen Underdog-Seite: Ramirez 18 Tore in 33 Spielen Vorsaison (klarer Volume-9er). Aber HR08-08-4 Team-Tor-Baseline-Warnung: Nacional Vorbereitung nur 4 Tore in 4 = Baseline 1.0 (grenzwertig). Startelf-Sicherheit noch nicht Aggregator-verifiziert 90min-Range → WACKEL. Stake 0.5% = 2.75€.",
-          "layer_2_tag": "sca-nac_torschuetze_ram",
-          "faire_quote": 2.5,
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-08-10-ply-exe",
@@ -179,42 +102,9 @@
         "Ersatz-Angreifer Will Evans als Torschützen-Kandidat empfohlen (paddypower/williamhill)",
         "Odds: Plymouth Sieg @1.50 (1/2), Ü 2.5 Tore @1.53 (8/15), BTTS Ja @1.60"
       ],
-      "tipps": [
-        {
-          "kategorie": "wackel",
-          "markt": "Sieg 1X2: Plymouth Argyle",
-          "quote": 1.5,
-          "einsatz_euro": 2.75,
-          "edge_prozent": 5,
-          "begruendung": "Divisions-Klassen-Edge (League One > League Two) + Heim (Home Park) + Devon-Derby-Motivation + Vorbereitungs-Ungeschlagen. Aber HR07-29-4 Cup-R1-Rotations-Risiko (Aufstellungs-Unsicherheit) + Tolaj-Volume-9er-Ausfall (Sturm-Achse neu) halten WACKEL statt VALUE. Stake 0.5% = 2.75€.",
-          "layer_2_tag": "ply-exe_sieg_ply",
-          "faire_quote": 1.45,
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Über 2.5 Tore",
-          "quote": 1.53,
-          "einsatz_euro": 2.75,
-          "edge_prozent": 4,
-          "begruendung": "Devon-Derby-Tor-Historie: letzte 21 Direktvergleiche NIE 0:0 + Plymouth 11/11 Heimspiele vs Exeter mit Tor. Vorbereitung Plymouth 5S/1U mit Torvolumen. Aber HR08-08-3 Cup-R1-Rote-Karte-Cluster-Risiko + Tolaj-Volume-Ausfall dämpfen Ceiling → WACKEL. Stake 0.5% = 2.75€.",
-          "layer_2_tag": "ply-exe_ueber_25",
-          "faire_quote": 1.5,
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Beide Teams treffen: Ja",
-          "quote": 1.6,
-          "einsatz_euro": 2.75,
-          "edge_prozent": 3,
-          "begruendung": "Goldgrube BTTS Ja (+17.2% ROI) + Devon-Derby-Tor-Historie (21/21 nicht 0:0, Exeter meist 1 Tor). Aber Exeter Vorbereitung schwach (1S/3N) + Plymouth-Def stabil im Cup-Kontext → nicht Kern-BTTS-Kandidat. WACKEL 0.5% = 2.75€.",
-          "layer_2_tag": "ply-exe_btts_ja",
-          "faire_quote": 1.55,
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     }
   ],
   "einzeltipps": [
@@ -399,23 +289,13 @@
       "profil": "moonshot",
       "beine": [
         {
-          "spiel_id": "2026-08-10-sir-brm",
-          "markt": "Sieg IF Brommapojkarna",
-          "quote": 9.0
-        },
-        {
           "spiel_id": "2026-08-10-sca-nac",
           "markt": "Sieg CD Nacional",
           "quote": 4.88
-        },
-        {
-          "spiel_id": "2026-08-10-ply-exe",
-          "markt": "Sieg Exeter City",
-          "quote": 6.0
         }
       ],
-      "gesamtquote": 263.52,
-      "rechnung": "9.00 x 4.88 x 6.00 = 263.52",
+      "gesamtquote": 4.88,
+      "rechnung": "4.88 = 4.88",
       "einsatz_euro": 0.55,
       "empfohlener_einsatz_prozent": 0.1,
       "begruendung": "3 Underdog-Sieg-Beine (Kontra-Portfolio zu Safe/Balance/Risiko - Hedge-Charakter). HR08-10-1 Contrarian-Sieg-Trigger lightweight angewendet: Brommapojkarna gegen 13-2-0 Sirius (extreme Klassen-Umkehr), Nacional gegen Santa Clara (Auftakts-Chaos möglich), Exeter gegen Plymouth (Cup-R1-Rotations-Random). HR08-09-1 Ausnahme dokumentiert: Moonshot als Lotterie-Charakter mit 0.10% Stake = 0.55€. Layer-2 ✓ (alle 3 Sieg-Outcomes unique, mutual exklusiv zu Safe/Balance/Risiko). Bust-Risiko bewusst akzeptiert."

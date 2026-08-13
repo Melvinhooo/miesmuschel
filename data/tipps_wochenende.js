@@ -34,42 +34,9 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
         "Hertha-Sieg @2.15 impliziert 43% Wahrscheinlichkeit (Sportytrader-Modell)",
         "Aggregator-Quoten (bet365 live pruefen): Hertha Sieg @2.15, Draw @3.30, Heidenheim Sieg @3.30, DC 1X @1.30, DC 12 @1.60, Ueber 2.5 @1.95, Unter 2.5 @1.85, BTTS Ja @1.70, BTTS Nein @2.05"
       ],
-      "tipps": [
-        {
-          "kategorie": "value",
-          "markt": "Doppelte Chance: Hertha oder Draw",
-          "quote": 1.3,
-          "einsatz_euro": 8.25,
-          "edge_prozent": 6,
-          "begruendung": "Momentum aus Auftakt-Auswaertssieg Bochum + Heim-Debuet Olympia + Klassen-Edge (Absteiger im Umbruch vs Aufstiegs-Kandidat mit Rhythmus) + 2/2 Heimsiege historisch. DC 1X als konservativer Anker per HR08-10-2 (Klassen-Duell-SAFE-Downgrade greift, aber DC statt reiner Sieg fair). Faire Quote ~1.22, kleiner VALUE-Rand. Stake 1.5% = 8.25€.",
-          "layer_2_tag": "her-hei_dc_1x",
-          "faire_quote": 1.22,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Beide Teams treffen: Ja",
-          "quote": 1.7,
-          "einsatz_euro": 2.75,
-          "edge_prozent": 6,
-          "begruendung": "Goldgrube BTTS Ja (+17.2% ROI historisch) + Hertha-Def noch nicht wasserdicht + Heidenheim mit BL-Erfahrung Attacken-Muster. WACKEL statt VALUE per HR08-13-1 Post-WM-Ruhepause-Doktrin (Startelfen fragwuerdig). Stake 0.5% = 2.75€.",
-          "layer_2_tag": "her-hei_btts_ja",
-          "faire_quote": 1.6,
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.95,
-          "einsatz_euro": 2.75,
-          "edge_prozent": 3,
-          "begruendung": "Offen-Angriff-Auftakt-Konstellation (Hertha will Momentum aufbauen, Heidenheim braucht Punkte). WACKEL wegen HR07-28-1 Bias (2. BL Spieltag 2 oft noch defensiv abtastend). Stake 0.5% = 2.75€.",
-          "layer_2_tag": "her-hei_ueber_25",
-          "faire_quote": 1.9,
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-08-15-ala-get",
@@ -104,15 +71,16 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
       ],
       "tipps": [
         {
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Doppelte Chance: Alaves oder Draw",
           "quote": 1.3,
           "einsatz_euro": 8.25,
           "edge_prozent": 5,
-          "begruendung": "Coinflip-Spiel mit leichtem Heimvorteil Alaves (Fest-Auftakt Mendizorroza) + Konsens-Bet. DC 1X als konservativer Puffer gegen Getafe-Historie. Faire Quote ~1.23. Stake 1.5% = 8.25€. LaLiga = Goldgrube-Liga (+22% ROI n=22).",
+          "begruendung": "Coinflip-Spiel mit leichtem Heimvorteil Alaves (Fest-Auftakt Mendizorroza) + Konsens-Bet. DC 1X als konservativer Puffer gegen Getafe-Historie. Faire Quote ~1.23. Stake 1.5% = 8.25€. LaLiga = Goldgrube-Liga (+22% ROI n=22). [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
           "layer_2_tag": "ala-get_dc_1x",
           "faire_quote": 1.23,
-          "empfohlener_einsatz_prozent": 1.5
+          "empfohlener_einsatz_prozent": 1.5,
+          "_saison_kontext_sanity_downgrade": true
         },
         {
           "kategorie": "wackel",
@@ -123,17 +91,6 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
           "begruendung": "Goldgrube Unter 2.5 (+27.1% ROI, 72.4% Hitrate, n=29 - bester Markt im System). Auftakt-Spiel Season-Eroeffnung typischerweise defensiv-abtastend, keine offensiven Ballerbuden-Kader. Dimers: 56% Wahrscheinlichkeit fuer Unter 2.5. WACKEL statt VALUE, da Fest-Atmosphaere auch offensiv befluegeln kann. Stake 0.5% = 2.75€.",
           "layer_2_tag": "ala-get_unter_25",
           "faire_quote": 1.6,
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Torschuetzen Jederzeit: Toni Martinez (Alaves)",
-          "quote": 2.9,
-          "einsatz_euro": 2.75,
-          "edge_prozent": 7,
-          "begruendung": "Goldgrube Torschuetzen Jederzeit (+24.4% ROI). Toni Martinez ist etablierter Alaves-Volume-9er (25/26 Torschuetzen-Historie). Heimvorteil + Coinflip-These fuer beide Seiten. WACKEL wegen HR08-13-1 (Saison-Start-Rotation moeglich) + HR24 (Form-Edge-Pflicht nur teilweise verifiziert, Preseason-Daten begrenzt). Stake 0.5% = 2.75€.",
-          "layer_2_tag": "ala-get_torschuetze_martinez",
-          "faire_quote": 2.65,
           "empfohlener_einsatz_prozent": 0.5
         }
       ],
@@ -170,42 +127,9 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
         "BTTS Ja @1.49 sehr niedrig - Buchmacher erwarten Torfestival-Derby",
         "Aggregator-Quoten (bet365 live pruefen): Lautern Sieg @1.90, Draw @4.10, KSC Sieg @3.80, DC 1X @1.25, DC 12 @1.90, Ueber 2.5 @1.75, Unter 2.5 @2.05, BTTS Ja @1.49, BTTS Nein @2.50"
       ],
-      "tipps": [
-        {
-          "kategorie": "value",
-          "markt": "Doppelte Chance: Kaiserslautern oder Draw",
-          "quote": 1.25,
-          "einsatz_euro": 8.25,
-          "edge_prozent": 5,
-          "begruendung": "MUSS-Sieg-Motivation Kaiserslautern + Fritz-Walter-Heimvorteil + Historie 2/2 gegen Karlsruhe. DC 1X als konservativer Anker gegen Derby-Volatilitaet. Faire Quote ~1.19. Stake 1.5% = 8.25€. 2. BL nicht Goldgrube-Liga (kein SAFE-DC per HR08-10-2/Hebel C moeglich, per Definition VALUE Cap).",
-          "layer_2_tag": "kai-kar_dc_1x",
-          "faire_quote": 1.19,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "kategorie": "value",
-          "markt": "Beide Teams treffen: Ja",
-          "quote": 1.49,
-          "einsatz_euro": 8.25,
-          "edge_prozent": 5,
-          "begruendung": "Goldgrube BTTS Ja (+17.2% ROI) + Derby-Charakter + Karlsruhe Auftakt-Momentum + Lautern MUSS-Sieg-Angriff. Sehr niedrige Quote 1.49 spiegelt Konsens-Erwartung Torfestival. Faire Quote ~1.42. Stake 1.5% = 8.25€.",
-          "layer_2_tag": "kai-kar_btts_ja",
-          "faire_quote": 1.42,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.75,
-          "einsatz_euro": 2.75,
-          "edge_prozent": 4,
-          "begruendung": "MUSS-Sieg-Angriff Lautern + Karlsruhe-Konter-Motivation + Derby-Emotionen. WACKEL wegen HR07-28-1 (2. BL Spieltag 2 kann taktisch werden) + HR08-13-1 Rotations-Wackel. Stake 0.5% = 2.75€.",
-          "layer_2_tag": "kai-kar_ueber_25",
-          "faire_quote": 1.7,
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-08-15-sev-ray",
@@ -238,42 +162,9 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
         "Rayo-Sieg-These vereinzelt als Best-Bet-Play - Rayo hat historisch gute Auswaertsspiele",
         "Aggregator-Quoten (bet365 live pruefen): Sevilla Sieg @2.20, Draw @3.25, Rayo Sieg @3.40, DC 1X @1.35, DC X2 @1.65, Ueber 2.5 @2.35, Unter 2.5 @1.62, BTTS Ja @1.90, BTTS Nein @1.85, En-Nesyri Torschuetze @2.50, Isaac Romero @2.90, Alvaro Garcia Rayo @4.00, De Frutos Rayo @4.50"
       ],
-      "tipps": [
-        {
-          "kategorie": "value",
-          "markt": "Doppelte Chance: Sevilla oder Draw",
-          "quote": 1.35,
-          "einsatz_euro": 8.25,
-          "edge_prozent": 6,
-          "begruendung": "Heimvorteil Ramon Sanchez-Pizjuan + Klassen-Edge (auch in Reorganisation) + hoehere Wahrscheinlichkeit als impliziert. LaLiga Goldgrube-Liga (+22% ROI n=22) legitimiert konservativen DC-Anker. Faire Quote ~1.27. Stake 1.5% = 8.25€.",
-          "layer_2_tag": "sev-ray_dc_1x",
-          "faire_quote": 1.27,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "kategorie": "value",
-          "markt": "Unter 2.5 Tore",
-          "quote": 1.62,
-          "einsatz_euro": 8.25,
-          "edge_prozent": 8,
-          "begruendung": "Goldgrube Unter 2.5 (+27.1% ROI, 72.4% Hitrate, bester Markt system-weit). Dimers-Modell: 56% Unter-Wahrscheinlichkeit. Saison-Start typischerweise taktisch vorsichtig + beide Kader nicht offensive Ballerbuden. Faire Quote ~1.52. Stake 1.5% = 8.25€.",
-          "layer_2_tag": "sev-ray_unter_25",
-          "faire_quote": 1.52,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Torschuetzen Jederzeit: En-Nesyri (Sevilla)",
-          "quote": 2.5,
-          "einsatz_euro": 2.75,
-          "edge_prozent": 6,
-          "begruendung": "Goldgrube Torschuetzen Jederzeit (+24.4% ROI) + Sevilla-Volume-9er (soweit noch im Kader stand 13.08.). WACKEL wegen HR08-13-1 (Marokko-WM-Involvement moeglich - Ruhepause?) + HR24 (Form-Edge-Pflicht bei Preseason limitiert verifizierbar). Stake 0.5% = 2.75€.",
-          "layer_2_tag": "sev-ray_torschuetze_ennesyri",
-          "faire_quote": 2.3,
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-08-16-esp-lev",
@@ -306,42 +197,9 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
         "Dimers-Modell: Espanyol 47.9% / Draw 25.9% / Levante 26.3%",
         "Aggregator-Quoten (bet365 live pruefen): Espanyol Sieg @2.10, Draw @3.25, Levante Sieg @3.70, DC 1X @1.30, DC X2 @1.75, Ueber 2.5 @2.20, Unter 2.5 @1.65, BTTS Ja @1.95, BTTS Nein @1.80, Toni Espanyol @3.00, Puado (verletzt raus) @-, Kike Garcia Espanyol Backup @3.75, Etta Eyong Levante @3.20"
       ],
-      "tipps": [
-        {
-          "kategorie": "value",
-          "markt": "Doppelte Chance: Espanyol oder Draw",
-          "quote": 1.3,
-          "einsatz_euro": 8.25,
-          "edge_prozent": 6,
-          "begruendung": "Klassen-Edge Espanyol als LaLiga-etabliert vs Aufsteiger Levante + RCDE-Heim-Debut-Fest + Levante-Kader-Ausfaelle Brugue/Primo. LaLiga = Goldgrube-Liga (+22% ROI n=22). DC 1X als konservativer Puffer per HR08-10-2. Faire Quote ~1.23. Stake 1.5% = 8.25€.",
-          "layer_2_tag": "esp-lev_dc_1x",
-          "faire_quote": 1.23,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "kategorie": "value",
-          "markt": "Unter 2.5 Tore",
-          "quote": 1.65,
-          "einsatz_euro": 8.25,
-          "edge_prozent": 8,
-          "begruendung": "Goldgrube Unter 2.5 (+27.1% ROI, 72.4% Hit, n=29 bester Markt). Auftakt-Spiel + Aufsteiger-Debuet-Vorsicht + Puado-Star-OUT bei Espanyol = Angriffs-Struktur geschwaecht. Faire Quote ~1.53. Stake 1.5% = 8.25€.",
-          "layer_2_tag": "esp-lev_unter_25",
-          "faire_quote": 1.53,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Torschuetzen Jederzeit: Kike Garcia (Espanyol Backup)",
-          "quote": 3.75,
-          "einsatz_euro": 2.75,
-          "edge_prozent": 8,
-          "begruendung": "HR22 Anti-Star-OUT-Hedge: Puado verletzt -> Kike Garcia oder Toni ruecken hoch. Backup-Torschuetzen-Tipp per Regel-3 (Star-Ausfall -> Backup-Pflicht). Goldgrube Torschuetzen Jederzeit (+24.4% ROI). WACKEL wegen HR08-13-1 (Start-Elf unklar, koennte auch Toni starten). Stake 0.5% = 2.75€.",
-          "layer_2_tag": "esp-lev_torschuetze_kikegarcia",
-          "faire_quote": 3.4,
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-08-16-ars-mci",
@@ -378,17 +236,6 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
         "Bei Coinflip + Saliba-OUT-Defense-Wackler: Ueber 2.5 attraktiver als DC-Konservativ"
       ],
       "tipps": [
-        {
-          "kategorie": "value",
-          "markt": "Torschuetzen Jederzeit: Erling Haaland (Man City)",
-          "quote": 1.7,
-          "einsatz_euro": 8.25,
-          "edge_prozent": 8,
-          "begruendung": "HR22 Anti-Star-OUT-Hedge: Arsenal Saliba+Timber OUT = Defensive-Kern-Loch = Haaland-Volume-Ziel. HR24 Form-Edge-Pflicht: Haaland dominierte 25/26 mit Torraten-Rekord, Volume-Torschuetze-Nr-1 in England. Goldgrube Torschuetzen Jederzeit (+24.4% ROI n=52 - bester Markt). Faire Quote ~1.55. Stake 1.5% = 8.25€. Kein SAFE-Sieg-Tipp per COINFLIP-Regel.",
-          "layer_2_tag": "ars-mci_torschuetze_haaland",
-          "faire_quote": 1.55,
-          "empfohlener_einsatz_prozent": 1.5
-        },
         {
           "kategorie": "value",
           "markt": "Beide Teams treffen: Ja",
@@ -445,42 +292,9 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
         "Aggregator-Quoten (bet365 live pruefen): Racing Sieg @3.40, Draw @3.60, Villarreal Sieg @2.24, DC 1X @1.75, DC X2 @1.40, Ueber 2.5 @2.10, Unter 2.5 @1.70, BTTS Ja @1.70, BTTS Nein @2.10, Ayoze Perez Villarreal @2.80, Baena @3.20, Yeremy Pino @3.50, Andres Martin Racing @3.25, Vencedor Racing @6.00",
         "Ayoze Perez war Villarreal Volume-Torschuetze 25/26 - Form-Edge-Kandidat"
       ],
-      "tipps": [
-        {
-          "kategorie": "value",
-          "markt": "Doppelte Chance: Villarreal oder Draw",
-          "quote": 1.4,
-          "einsatz_euro": 8.25,
-          "edge_prozent": 6,
-          "begruendung": "Klassen-Edge Villarreal (LaLiga-Etabliert + CL-Qualifikant) vs Aufsteiger Racing + DC-Puffer gegen El-Sardinero-Heimvorteil. LaLiga = Goldgrube-Liga (+22% ROI n=22). Faire Quote ~1.31. Stake 1.5% = 8.25€. Kein SAFE per HR-COINFLIP-Rule.",
-          "layer_2_tag": "rac-vil_dc_x2",
-          "faire_quote": 1.31,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "kategorie": "value",
-          "markt": "Beide Teams treffen: Ja",
-          "quote": 1.7,
-          "einsatz_euro": 8.25,
-          "edge_prozent": 7,
-          "begruendung": "Goldgrube BTTS Ja (+17.2% ROI). Beide Teams scored in 5 of 6 recent games (BTTS-Trend beidseits). Racing MUSS-Sieg-Heim-Motivation + Villarreal-Angriffsqualitaet (Baena/Pino/Perez). Faire Quote ~1.60. Stake 1.5% = 8.25€.",
-          "layer_2_tag": "rac-vil_btts_ja",
-          "faire_quote": 1.6,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Torschuetzen Jederzeit: Ayoze Perez (Villarreal)",
-          "quote": 2.8,
-          "einsatz_euro": 2.75,
-          "edge_prozent": 6,
-          "begruendung": "Goldgrube Torschuetzen Jederzeit (+24.4% ROI). Ayoze Perez 25/26 Villarreal-Volume-Torschuetze (Form-Edge ✓ per HR24). WACKEL wegen HR08-13-1 (Villarreal CL-Rotations-Denken moeglich) + Startelf-Verifikations-Wackel Preseason-Phase. Stake 0.5% = 2.75€.",
-          "layer_2_tag": "rac-vil_torschuetze_ayoze",
-          "faire_quote": 2.6,
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-08-16-cel-osa",
@@ -513,42 +327,9 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
         "Dimers-Modell: Celta 48.3% / Draw 26.4% / Osasuna 25.4%",
         "Aggregator-Quoten (bet365 live pruefen): Celta Sieg @1.95, Draw @3.45, Osasuna Sieg @3.70, DC 1X @1.25, DC X2 @1.85, Ueber 2.5 @2.05, Unter 2.5 @1.75, BTTS Ja @1.80, BTTS Nein @1.95, Iago Aspas Celta @2.90, Borja Iglesias Celta @2.75, Bamba Celta @3.60, Ante Budimir Osasuna @3.40, Rubén Garcia Osasuna @6.00"
       ],
-      "tipps": [
-        {
-          "kategorie": "value",
-          "markt": "Doppelte Chance: Celta Vigo oder Draw",
-          "quote": 1.25,
-          "einsatz_euro": 8.25,
-          "edge_prozent": 5,
-          "begruendung": "Klassen-Edge Celta + Heim-Form (2/3 letzte Home-Siege) + Osasuna-Auswaerts-Schwaeche (2/2 Auswaerts-Niederlagen). LaLiga = Goldgrube-Liga (+22% ROI n=22). DC 1X als konservativer Anker per HR08-10-2. Faire Quote ~1.19. Stake 1.5% = 8.25€.",
-          "layer_2_tag": "cel-osa_dc_1x",
-          "faire_quote": 1.19,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Unter 2.5 Tore",
-          "quote": 1.75,
-          "einsatz_euro": 2.75,
-          "edge_prozent": 5,
-          "begruendung": "Goldgrube Unter 2.5 (+27.1% ROI n=29 - bester Markt system-weit). Auftakt-Rhythmus + Osasuna-Auswaerts-Vorsicht + Celta EL-Playoff-Rotations-Sensibilitaet. WACKEL statt VALUE, da Celta-Heim-Angriff auch offensiv werden koennte. Stake 0.5% = 2.75€.",
-          "layer_2_tag": "cel-osa_unter_25",
-          "faire_quote": 1.65,
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Torschuetzen Jederzeit: Borja Iglesias (Celta)",
-          "quote": 2.75,
-          "einsatz_euro": 2.75,
-          "edge_prozent": 5,
-          "begruendung": "Goldgrube Torschuetzen Jederzeit (+24.4% ROI). Borja Iglesias 25/26 Celta-Volume-9er nach Rueckkehr, Form-Edge-Kandidat. WACKEL wegen HR08-13-1 (Celta EL-Rotations-Denken moeglich, Aspas vs Iglesias Rotation) + HR24 Form-Verifikation Preseason begrenzt. Stake 0.5% = 2.75€.",
-          "layer_2_tag": "cel-osa_torschuetze_iglesias",
-          "faire_quote": 2.6,
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     }
   ],
   "einzeltipps": [
@@ -614,7 +395,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
     },
     {
       "spiel_id": "2026-08-15-ala-get",
-      "kategorie": "value",
+      "kategorie": "wackel",
       "markt": "Doppelte Chance: Alaves oder Draw",
       "quote": 1.3,
       "einsatz_euro": 8.25,

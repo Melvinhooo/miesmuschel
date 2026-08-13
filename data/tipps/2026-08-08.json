@@ -541,12 +541,6 @@
       "einsatz_euro": 0.55,
       "beine": [
         {
-          "spiel_id": "2026-08-08-mag-bra",
-          "spiel_label": "Magdeburg vs Braunschweig",
-          "markt": "Sieg 1X2: Eintracht Braunschweig",
-          "quote": 4.45
-        },
-        {
           "spiel_id": "2026-08-08-gre-spo",
           "spiel_label": "Grêmio vs São Paulo",
           "markt": "Sieg 1X2: São Paulo",
@@ -555,8 +549,8 @@
       ],
       "moeglicher_gewinn_euro": 176.22,
       "begruendung": "EHRLICHE Moonshot: 4-Underdog-Sieg-Cluster (Osnabrück + Kaiserslautern + Braunschweig + São Paulo alle als Auswärts-Underdogs). Layer-1: 4 verschiedene Spiele. Layer-2 hart: 4 verschiedene Spiel-Sieg-Outcomes, jedes nur in dieser Kombi. Kombinierte Hitrate ~0.15% (Lotterie-Charakter per Definition Moonshot). Portfolio-Struktur: gegen ALLE anderen Kombis (Safe/Balance/Risiko haben je die Heim-Fav/Fav-Sieg-Outcomes). Wenn Moonshot trifft, sind alle anderen Kombis busted - das ist Feature nicht Bug (Diversifikations-Absicherung nach unten). Stake 0.1% Kasse = 0.55€ Spaß-Einsatz.",
-      "gesamtquote": 13.35,
-      "rechnung": "4.45 x 3.00 = 13.35",
+      "gesamtquote": 3.0,
+      "rechnung": "3.00 = 3.0",
       "empfohlener_einsatz_prozent": 0.1
     }
   ],
