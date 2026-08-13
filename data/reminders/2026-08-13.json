@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-13T17:06:34.612407+00:00",
+  "stand": "2026-08-13T18:09:35.857051+00:00",
   "gesendet": {
     "2026-08-13-paf-sal": {
       "sent_at": "2026-08-13T17:06:33.050018+00:00",
@@ -12,6 +12,12 @@
       "anstoss": "2026-08-13T19:45:00+02:00",
       "spiel": "Heart of Midlothian (Hearts) vs SL Benfica Lissabon",
       "top_tipp": "Sieg 1X2: SL Benfica Lissabon"
+    },
+    "2026-08-13-ran-jag": {
+      "sent_at": "2026-08-13T18:09:34.934077+00:00",
+      "anstoss": "2026-08-13T21:00:00+02:00",
+      "spiel": "Rangers FC vs Jagiellonia Bialystok",
+      "top_tipp": "Sieg 1X2: Rangers FC"
     }
   }
 }
