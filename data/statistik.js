@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-08-12T07:20:29+00:00",
+  "letzte_berechnung": "2026-08-13T07:16:34+00:00",
   "gesamt": {
-    "tipps": 429,
-    "gewonnen": 220,
-    "verloren": 197,
+    "tipps": 437,
+    "gewonnen": 225,
+    "verloren": 200,
     "push": 3,
     "offen": 9,
-    "einsatz": 420.0,
+    "einsatz": 428.0,
     "netto": 16.03,
-    "trefferquote": 52.8,
-    "roi_prozent": 3.8
+    "trefferquote": 52.9,
+    "roi_prozent": 3.7
   },
   "letzte_30_tage": {
-    "tipps": 114,
-    "gewonnen": 52,
-    "verloren": 61,
+    "tipps": 122,
+    "gewonnen": 57,
+    "verloren": 64,
     "push": 1,
     "offen": 0,
-    "einsatz": 114.0,
+    "einsatz": 122.0,
     "netto": 11.77,
-    "trefferquote": 46.0,
-    "roi_prozent": 10.3
+    "trefferquote": 47.1,
+    "roi_prozent": 9.6
   },
   "letzte_90_tage": {
-    "tipps": 408,
-    "gewonnen": 209,
-    "verloren": 187,
+    "tipps": 409,
+    "gewonnen": 212,
+    "verloren": 185,
     "push": 3,
     "offen": 9,
-    "einsatz": 399.0,
-    "netto": 19.83,
-    "trefferquote": 52.8,
-    "roi_prozent": 5.0
+    "einsatz": 400.0,
+    "netto": 16.63,
+    "trefferquote": 53.4,
+    "roi_prozent": 4.2
   },
   "nach_liga": {
     "NBA Playoffs Round 2, Game 4": {
@@ -1012,6 +1012,39 @@ window.__MIESMUSCHEL_STAT = {
       "einsatz": 5.0,
       "netto": 0.0,
       "trefferquote": 80.0,
+      "roi_prozent": 0.0
+    },
+    "UEFA Super Cup 2026": {
+      "tipps": 5,
+      "gewonnen": 4,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 5.0,
+      "netto": 0.0,
+      "trefferquote": 80.0,
+      "roi_prozent": 0.0
+    },
+    "🔍 Beobachtung - Club Friendly (Pre-Season Emirates)": {
+      "tipps": 2,
+      "gewonnen": 1,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 0.0,
+      "trefferquote": 50.0,
+      "roi_prozent": 0.0
+    },
+    "🔍 Beobachtung - Club Friendly (Pre-Season City Ground)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
       "roi_prozent": 0.0
     }
   },
@@ -3679,14 +3712,14 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 0.0
     },
     "Beide Teams treffen: Ja": {
-      "tipps": 4,
-      "gewonnen": 1,
-      "verloren": 3,
+      "tipps": 9,
+      "gewonnen": 5,
+      "verloren": 4,
       "push": 0,
       "offen": 0,
-      "einsatz": 4.0,
+      "einsatz": 9.0,
       "netto": 0.0,
-      "trefferquote": 25.0,
+      "trefferquote": 55.6,
       "roi_prozent": 0.0
     },
     "Doppelte Chance X2: Dresden oder Remis": {
@@ -3787,18 +3820,40 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.0,
       "trefferquote": 50.0,
       "roi_prozent": 0.0
+    },
+    "Sieg 1X2: Arsenal FC": {
+      "tipps": 2,
+      "gewonnen": 1,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 0.0,
+      "trefferquote": 50.0,
+      "roi_prozent": 0.0
+    },
+    "Doppelte Chance X2: Bayer Leverkusen oder Draw": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt_typ": {
     "Sieg (1X2 / ML)": {
-      "tipps": 141,
-      "gewonnen": 75,
-      "verloren": 64,
+      "tipps": 143,
+      "gewonnen": 76,
+      "verloren": 65,
       "push": 1,
       "offen": 1,
-      "einsatz": 140.0,
+      "einsatz": 142.0,
       "netto": -5.92,
-      "trefferquote": 54.0,
+      "trefferquote": 53.9,
       "roi_prozent": -4.2
     },
     "Tottenham oder Remis (DC 1X)": {
@@ -3868,15 +3923,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -36.3
     },
     "Doppelte Chance X2": {
-      "tipps": 35,
+      "tipps": 36,
       "gewonnen": 24,
-      "verloren": 9,
+      "verloren": 10,
       "push": 0,
       "offen": 2,
-      "einsatz": 33.0,
+      "einsatz": 34.0,
       "netto": 3.85,
-      "trefferquote": 72.7,
-      "roi_prozent": 11.7
+      "trefferquote": 70.6,
+      "roi_prozent": 11.3
     },
     "Unter 2.5 Tore": {
       "tipps": 29,
@@ -3890,15 +3945,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 27.1
     },
     "Beide Teams treffen JA": {
-      "tipps": 22,
-      "gewonnen": 8,
-      "verloren": 12,
+      "tipps": 27,
+      "gewonnen": 12,
+      "verloren": 13,
       "push": 0,
       "offen": 2,
-      "einsatz": 20.0,
+      "einsatz": 25.0,
       "netto": 3.45,
-      "trefferquote": 40.0,
-      "roi_prozent": 17.2
+      "trefferquote": 48.0,
+      "roi_prozent": 13.8
     },
     "Doppelte Chance 1X": {
       "tipps": 20,
@@ -4123,25 +4178,25 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 194,
-      "gewonnen": 96,
-      "verloren": 93,
+      "tipps": 199,
+      "gewonnen": 100,
+      "verloren": 94,
       "push": 1,
       "offen": 4,
-      "einsatz": 190.0,
+      "einsatz": 195.0,
       "netto": 6.15,
-      "trefferquote": 50.8,
+      "trefferquote": 51.5,
       "roi_prozent": 3.2
     },
     "1.00-1.50": {
-      "tipps": 156,
-      "gewonnen": 97,
-      "verloren": 54,
+      "tipps": 159,
+      "gewonnen": 98,
+      "verloren": 56,
       "push": 1,
       "offen": 4,
-      "einsatz": 152.0,
+      "einsatz": 155.0,
       "netto": 5.21,
-      "trefferquote": 64.2,
+      "trefferquote": 63.6,
       "roi_prozent": 3.4
     },
     "2.00-3.00": {
@@ -4169,26 +4224,26 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_kategorie": {
     "value": {
-      "tipps": 253,
-      "gewonnen": 140,
-      "verloren": 101,
+      "tipps": 258,
+      "gewonnen": 144,
+      "verloren": 102,
       "push": 3,
       "offen": 9,
-      "einsatz": 244.0,
+      "einsatz": 249.0,
       "netto": 21.47,
-      "trefferquote": 58.1,
-      "roi_prozent": 8.8
+      "trefferquote": 58.5,
+      "roi_prozent": 8.6
     },
     "wackel": {
-      "tipps": 123,
-      "gewonnen": 50,
-      "verloren": 73,
+      "tipps": 126,
+      "gewonnen": 51,
+      "verloren": 75,
       "push": 0,
       "offen": 0,
-      "einsatz": 123.0,
+      "einsatz": 126.0,
       "netto": -6.26,
-      "trefferquote": 40.7,
-      "roi_prozent": -5.1
+      "trefferquote": 40.5,
+      "roi_prozent": -5.0
     },
     "safe": {
       "tipps": 50,
@@ -4246,6 +4301,131 @@ window.__MIESMUSCHEL_STAT = {
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-08-12",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "?",
+          "kategorie": "",
+          "gesamtquote": 3.29,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Paris Saint-Germain",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Arsenal FC",
+              "quote": 1.47,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "DC X2 Bayer Leverkusen/Draw",
+              "quote": 1.28,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "?",
+          "kategorie": "",
+          "gesamtquote": 6.53,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Torschuetzen Jederzeit Khvicha Kvaratskhelia",
+              "quote": 2.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.8,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.65,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "?",
+          "kategorie": "",
+          "gesamtquote": 17.88,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Ueber 3.5 Tore",
+              "quote": 2.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 3.5 Tore",
+              "quote": 2.6,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 3.5 Tore",
+              "quote": 2.5,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "?",
+          "kategorie": "",
+          "gesamtquote": 327.6,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Torschuetzen Jederzeit Ollie Watkins",
+              "quote": 2.8,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Genaues Ergebnis Arsenal 3:0",
+              "quote": 9.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Genaues Ergebnis 1:3 Bayer Leverkusen",
+              "quote": 13.0,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-08-11",
       "gesamt": {

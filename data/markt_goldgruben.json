@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-12T07:20:30+00:00",
+  "stand": "2026-08-13T07:16:34+00:00",
   "kriterium": "Hitrate > 75.0% UND ROI > 15.0% bei min. 5 Tipps",
   "wirkung": "Tipps-Routinen sollen diese Maerkte aktiv suchen. Schema-Mapper warnt wenn Spiel im Dossier ist und der Markt nicht als Tipp gesetzt wurde.",
   "maerkte": [
@@ -16,13 +16,6 @@
       "trefferquote": 42.9,
       "roi_prozent": 25.0,
       "netto": 1.75
-    },
-    {
-      "markt": "Beide Teams treffen JA",
-      "tipps": 22,
-      "trefferquote": 40.0,
-      "roi_prozent": 17.2,
-      "netto": 3.45
     }
   ]
 }
